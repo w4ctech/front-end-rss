@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 02:04:34，:rocket: 更新条数: +3080， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 02:14:07，:rocket: 更新条数: +3078， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-20-AQS-公平锁真的完全公平吗？](https://www.v2ex.com/t/727408) ![](assets/new.png)  
+- [2020-11-20-其实不是-m1-太强，而是-intel-牙膏挤的太慢](https://www.v2ex.com/t/727407) ![](assets/new.png)  
+- [2020-11-20-我们正准备上线一个换工作的能得到多少薪资的计算器](https://www.v2ex.com/t/727405) ![](assets/new.png)  
+- [2020-11-20-windows-自带的-OpenSSH，无法使用-ssh-copy-id-这个命令吗？](https://www.v2ex.com/t/727404) ![](assets/new.png)  
 - [2020-11-20-南京-招聘-Java-/区块链开发工程师（可实习）](https://www.v2ex.com/t/727400) ![](assets/new.png)  
 - [2020-11-20-有多少老铁是用黑苹果作为主力开发机啊?](https://www.v2ex.com/t/727398) ![](assets/new.png)  
 - [2020-11-20-想到一个有趣的问题，为什么-debug-模式可以进断点而-run-模式不行？](https://www.v2ex.com/t/727396) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-20-三七互娱内推-社招-中/高-C#-开发工程师-15-25K-广州](https://www.v2ex.com/t/727381) ![](assets/new.png)  
 - [2020-11-20-最近家里发现两只小强，求推荐蟑螂药或者分享灭蟑经验](https://www.v2ex.com/t/727380) ![](assets/new.png)  
 - [2020-11-20-实现一个-http-router-库玩玩。。。](https://www.v2ex.com/t/727378) ![](assets/new.png)  
-- [2020-11-20-南京-招聘两名高级安卓开发工程师，薪资-15-18K/月，一名高级-Java-web-开发工程师，薪资-15-18K/月，-3-5-年经验。](https://www.v2ex.com/t/727377) ![](assets/new.png)  
-- [2020-11-20-Python-哪里可以下载各个版本的-macOS-二进制包？](https://www.v2ex.com/t/727376) ![](assets/new.png)  
-- [2020-11-20-抽奖助手小程序](https://www.v2ex.com/t/727374) ![](assets/new.png)  
-- [2020-11-20-iPhone12，微信发语音消息全是噪音，有人遇到相同问题吗？](https://www.v2ex.com/t/727373) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-20-WebRTC-服务端工程实践和优化探索](https://toutiao.io/k/9bmwz0s) ![](assets/new.png)  
 - [2020-11-20-VSCode-+-Vim-+-Whichkey-,-VSCode-模拟-Spacemacs-的使用方案](https://toutiao.io/k/rovywe3) ![](assets/new.png)  
 - [2020-11-20-漫画全面解释-Spark-企业调优点](https://toutiao.io/k/ioiv5kb) ![](assets/new.png)  
-- [2020-11-20-闲鱼是这样高效稳定完成项目迁移的](https://toutiao.io/k/qqb6aj0) ![](assets/new.png)  
 - [2020-11-20-分布式集群如何实现高效的数据分布](https://toutiao.io/k/nbpbkri) ![](assets/new.png)  
 - [2020-11-20-京东-EB-级全域大数据平台的演进与治理历程](https://toutiao.io/k/xns6hdm) ![](assets/new.png)  
+- [2020-11-20-闲鱼是这样高效稳定完成项目迁移的](https://toutiao.io/k/qqb6aj0) ![](assets/new.png)  
 - [2020-11-20-前端性能测试实践](https://toutiao.io/k/ma9fbqt) ![](assets/new.png)  
-- [2020-11-20-糟糕，系统又被攻击了](https://toutiao.io/k/et457nd) ![](assets/new.png)  
 - [2020-11-20-Selenium-爬虫使用代理情况下不设置这几个参数，代理就白加了](https://toutiao.io/k/oflggpf) ![](assets/new.png)  
-- [2020-11-20-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
-- [2020-11-20-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
+- [2020-11-20-糟糕，系统又被攻击了](https://toutiao.io/k/et457nd) ![](assets/new.png)  
+- [2020-11-20-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
 - [2020-11-20-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-20-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-20-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
+- [2020-11-20-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

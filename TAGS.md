@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-20 02:04:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 02:14:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -411,7 +411,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
 - [【V2EX】南京-招聘-Java-/区块链开发工程师（可实习）](https://www.v2ex.com/t/727400)
 - [【V2EX】南京-招聘两名高级安卓开发工程师，薪资-15-18K/月，一名高级-Java-web-开发工程师，薪资-15-18K/月，-3-5-年经验。](https://www.v2ex.com/t/727377)
-- [【V2EX】白鹭资管-量化招聘：上海/杭州](https://www.v2ex.com/t/727359)
 - [【开发者头条】推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi)
 - [【安全热点】招聘-|-广东博智林机器人有限公司碧桂园旗下](https://sec.thief.one/article_content?a_id=e63a13fe0908b75a5f5fa4bc4853efcc)
 - [......【查看更多】......](./details/tags/job-interview.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-20 12:48:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 13:04:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,18 +22,11 @@
 - [2020-02-06-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-20-什么浏览器更适合？](https://www.v2ex.com/t/727640) 
 - [2020-11-20-小弟不才,后端一位,用残留的一点安卓知识,在-webview-上实现一个套壳浏览器，但是感觉很鸡肋,请大家提提意见](https://www.v2ex.com/t/727626) 
 - [2020-11-20-被黑客攻击了，登录流程要怎么做才安全](https://toutiao.io/k/rftwer0) 
+- [2020-11-20-中国移动云能力中心携手绿盟科技-共建云安全服务生态体系](https://sec.thief.one/article_content?a_id=c96318a57f1b0470d4cd88092d946d9b) 
 - [2020-11-20-神经网络与随机数的安全性分析上](https://sec.thief.one/article_content?a_id=1611f76d0ff15f4ce833bf1ed37ccb09) 
 - [2020-11-20-苹果生态不再安全?M1芯片首爆高危漏洞!](https://sec.thief.one/article_content?a_id=e69b5c32d4e6056d55d135d1f14e1450) 
 - [2020-11-20-【漏洞预警】CNNVD-关于Drupal安全漏洞的通报](https://sec.thief.one/article_content?a_id=17d67a97c7ece434533addbb216b0d39) 
@@ -55,4 +48,3 @@
 - [2020-11-18-12月1日起,网络安全成为美国国防部采购合同的必要合规项](https://sec.thief.one/article_content?a_id=7d2e0e3b3a2f9a6a95b1facb41bd9462) 
 - [2020-11-18-第三届“安洵杯”网络安全挑战赛来啦!!](https://sec.thief.one/article_content?a_id=f33a66c2c1ce1ce5291351183690d85e) 
 - [2020-11-18-CVE-2020-17053:IE-UAF漏洞分析](https://sec.thief.one/article_content?a_id=ae198dd09808dc2f65b1f40765031b84) 
-- [2020-11-18-网络安全意识培训的八大新策略](https://sec.thief.one/article_content?a_id=066e07f4a66ba6bb8ad7989e5ecfcd22) 

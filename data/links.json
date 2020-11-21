@@ -14738,6 +14738,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "redhat 不带 xinput 工具吗",
+        "link": "https://www.v2ex.com/t/727741",
+        "date": "2020-11-21"
+      },
+      {
         "title": "大家有在用什么好浏览器护眼脚本吗？",
         "link": "https://www.v2ex.com/t/727739",
         "date": "2020-11-21"
@@ -14921,11 +14926,6 @@
         "title": "关于 Android APP 的运行问题？",
         "link": "https://www.v2ex.com/t/727693",
         "date": "2020-11-20"
-      },
-      {
-        "title": "佛系背单词 App 帮助已经有基础的同学扩大词汇量",
-        "link": "https://www.v2ex.com/t/727691",
-        "date": "2020-11-20"
       }
     ]
   },
@@ -15042,13 +15042,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "[译] 泛型和元编程的模型：Java, Go, Rust, Swift, D 等",
-        "link": "https://toutiao.io/k/dnlke8h",
+        "title": "走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
         "date": "2020-11-21"
       },
       {
-        "title": "走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
+        "title": "[译] 泛型和元编程的模型：Java, Go, Rust, Swift, D 等",
+        "link": "https://toutiao.io/k/dnlke8h",
         "date": "2020-11-21"
       },
       {
@@ -15057,28 +15057,23 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
+        "title": "携程移动直播探索",
+        "link": "https://toutiao.io/k/74b20h5",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
+        "title": "C++ 从 vector 扩容看 noexcept 应用场景",
+        "link": "https://toutiao.io/k/61t808c",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
+        "title": "腾讯 IMWEB 前端团队一站式 Serverless 开发解决方案",
+        "link": "https://toutiao.io/k/jbwdrr3",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
+        "title": "重磅：Go errors 将不会有任何进一步的改进计划",
+        "link": "https://toutiao.io/k/p94r3b6",
         "date": "2020-11-21"
       },
       {
@@ -15087,8 +15082,48 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
         "date": "2020-11-21"
       },
       {
@@ -15102,33 +15137,18 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-21"
-      },
-      {
         "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
         "link": "https://toutiao.io/k/qbvqq09",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
         "date": "2020-11-21"
       }
     ]

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-21 09:23:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 09:33:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-21-大佬们，怎么搞个设备当-IP-地址池和小灰机呀？](https://www.v2ex.com/t/727879) 
+- [2020-11-21-使用-Network-Extension-的-iOS-App-在-M1-macOS-上的表现](https://www.v2ex.com/t/727877) 
+- [2020-11-21-深圳联通-200m-的端口为什么在测速网购买的提速包到-300m？](https://www.v2ex.com/t/727876) 
+- [2020-11-21-问大佬们，赋默认值和校验应该在应该在服务端做还是客户端做？](https://www.v2ex.com/t/727875) 
 - [2020-11-21-滴滴出行-北京、杭州、成都、深圳内推-iOS/Android/前端/-Java-/算法/-PHP-/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/727874) 
 - [2020-11-21-使用-Canvas-实现一组简单的-Charts-Demo](https://www.v2ex.com/t/727872) 
 - [2020-11-21-等-M1-Mini-的同时，在准备外设。要不要把-HHKB-换成苹果的-magic-keyboard-呢？](https://www.v2ex.com/t/727871) 
@@ -41,6 +45,3 @@
 - [2020-11-21-求教技术问题：-海康-HK-DVR-录制视频，生成标准的-mp4-格式](https://www.v2ex.com/t/727834) 
 - [2020-11-21-B-站有-up-主测试了-M1-芯片神经网络训练的时间，大概是-1080ti-的两倍](https://www.v2ex.com/t/727833) 
 - [2020-11-21-分享这两年做的几个小网站，大伙儿点评一下？](https://www.v2ex.com/t/727832) 
-- [2020-11-21-你们的-big-sur-11.0.1-20B29外接键盘切换输入法的时候会卡吗？](https://www.v2ex.com/t/727830) 
-- [2020-11-21-技术求助：-selenium-、driver.switch_to.window，切换至新标签页后获取元素需要两秒](https://www.v2ex.com/t/727829) 
-- [2020-11-21-MacBook-Pro-Mid-2012-安装-Big-Sur-真香](https://www.v2ex.com/t/727827) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-20 23:48:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 00:07:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-20-Iphone12-Pro-Max-非最高亮度下纯黑图片会先变黑灰白色,然后几秒后才变纯黑](https://www.v2ex.com/t/727734) 
 - [2020-11-20-LibreOffice-用中文输入法超级卡顿的问题](https://www.v2ex.com/t/727733) 
 - [2020-11-20-下雪啦](https://www.v2ex.com/t/727732) 
 - [2020-11-20-Mac-mini-使用-windows-有线键盘到底如何进入恢复模式？](https://www.v2ex.com/t/727731) 
@@ -44,4 +45,3 @@
 - [2020-11-20-Mac-上-Chrome-更新后图标好丑](https://www.v2ex.com/t/727687) 
 - [2020-11-20-迫于海淘，黑五，请-v2er-推荐首张信用卡](https://www.v2ex.com/t/727686) 
 - [2020-11-20-杭州或远程OpenSquare-招聘前端工程师](https://www.v2ex.com/t/727685) 
-- [2020-11-20-一人推荐一个-YouTube-频道](https://www.v2ex.com/t/727684) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-21 05:03:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 05:11:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2020-11-21-给弟弟的成人礼](https://www.v2ex.com/t/727764) 
 - [2020-11-21-Julia-代码完善（签合同、无著作权）](https://www.v2ex.com/t/727763) 
 - [2020-11-21-macOS-Big-Sur-的日历,添加开始时间无法-24-小时制?](https://www.v2ex.com/t/727761) 
-- [2020-11-21-iPhone12-有什么推荐的充电宝吗](https://www.v2ex.com/t/727759) 

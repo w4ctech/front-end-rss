@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-21 04:04:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 04:22:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-21-外部-eGPU-有什么设置技巧不？发现多数应用没有使用外部-eGPU](https://www.v2ex.com/t/727794) 
+- [2020-11-21-通过-pixel-上传-Google-photos-有最佳实践了么?](https://www.v2ex.com/t/727793) 
+- [2020-11-21-idea-为什么每次切换分支后都在-indexing](https://www.v2ex.com/t/727792) 
+- [2020-11-21-求问，有没有那种在线监听器？](https://www.v2ex.com/t/727790) 
 - [2020-11-21-歌荒-一人推荐一首歌](https://www.v2ex.com/t/727787) 
 - [2020-11-21-我们还在招人~Base-深圳阿里中心支付宝香港团队招聘前端岗位-可加钉钉/微信聊-1121](https://www.v2ex.com/t/727785) 
 - [2020-11-21-微软-Teams-支持-M1-芯片的-Mac-吗？](https://www.v2ex.com/t/727783) 
@@ -37,5 +41,3 @@
 - [2020-11-21-现有的-intel-的-mac-电脑什么出掉比较合适](https://www.v2ex.com/t/727748) 
 - [2020-11-21-关于-Apple-M1-的群众意见每日汇总-码农方向2020.11.21](https://www.v2ex.com/t/727747) 
 - [2020-11-21-可以在这里发科研外包任务广告吗-test](https://www.v2ex.com/t/727746) 
-- [2020-11-21-出-2017-年-15-寸-MacBook-Pro-顶配](https://www.v2ex.com/t/727742) 
-- [2020-11-21-redhat-不带-xinput-工具吗](https://www.v2ex.com/t/727741) 

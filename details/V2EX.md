@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-21 05:33:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 05:47:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-21-发现一个-iPhone-的问题](https://www.v2ex.com/t/727820) 
+- [2020-11-21-大家单手玩-xsmax-久了手指疼吗](https://www.v2ex.com/t/727818) 
 - [2020-11-21-做了一个头条小程序](https://www.v2ex.com/t/727817) 
 - [2020-11-21-请教下-MBP-的-HDMI-输出分辨率问题](https://www.v2ex.com/t/727815) 
 - [2020-11-21-使用-Golang-写了一个-PE-格式解析库](https://www.v2ex.com/t/727814) 
@@ -38,5 +40,3 @@
 - [2020-11-21-阿里云和-terraform-的结合怎么样](https://www.v2ex.com/t/727774) 
 - [2020-11-21-2020-年了，有哪些高质量可用的-RSS-订阅源推荐](https://www.v2ex.com/t/727773) 
 - [2020-11-21-微信有什么方式，可以备份指定用户的聊天记录？](https://www.v2ex.com/t/727772) 
-- [2020-11-21-这个时间买-iPhone11-pro-好还是买-iPhone-12-好](https://www.v2ex.com/t/727770) 
-- [2020-11-21-Big-Sur-如何从-beta-版升级到正式版？](https://www.v2ex.com/t/727768) 

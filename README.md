@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-21 13:03:55，:rocket: 更新条数: +3091， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-21 13:10:54，:rocket: 更新条数: +3050， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,26 +533,6 @@
 </summary>
 
 
-- [2020-11-21-做了一个简单的新标签页插件，支持设置任意网页为新标签页](https://www.v2ex.com/t/727912) ![](assets/new.png)  
-- [2020-11-21-tt-rss-订阅自建-rsshub-失败](https://www.v2ex.com/t/727910) ![](assets/new.png)  
-- [2020-11-21-用户名框不弹出-icloud-keychain](https://www.v2ex.com/t/727909) ![](assets/new.png)  
-- [2020-11-21-求推荐个网页发帖的富文本编辑器，哪个好用啊！](https://www.v2ex.com/t/727908) ![](assets/new.png)  
-- [2020-11-21-如何在一个没有编译环境的系统上安装-gcc-make](https://www.v2ex.com/t/727907) ![](assets/new.png)  
-- [2020-11-21-求后端-Python-+d'jango-自由职业组队](https://www.v2ex.com/t/727906) ![](assets/new.png)  
-- [2020-11-21-最近影慌，求推荐-一人推荐一部电影](https://www.v2ex.com/t/727905) ![](assets/new.png)  
-- [2020-11-21-是否有编程工具能代替-Exce-中的公式或-VBA?](https://www.v2ex.com/t/727904) ![](assets/new.png)  
-- [2020-11-21-赴日工作-收到"湖北一片语"offer,有了解的么?](https://www.v2ex.com/t/727903) ![](assets/new.png)  
-- [2020-11-21-请师傅清洗油烟机花了-200-不到，清洗了-3-个多小时后，由于操作不当对方赔偿-300，现在心态有点矛盾和不解](https://www.v2ex.com/t/727902) ![](assets/new.png)  
-- [2020-11-21-广州联通-100M-加-10-块钱提升到-300M.实测下载速度-48.4MB/S-接近-500M-速率](https://www.v2ex.com/t/727901) ![](assets/new.png)  
-- [2020-11-21-阿里云双十一返场促销活动还有九天就结束了，还不薅一波吗](https://www.v2ex.com/t/727900) ![](assets/new.png)  
-- [2020-11-21-win10-下用浏览器下载文件"最开始"的时候会卡顿一下,-有人遇到过吗?](https://www.v2ex.com/t/727899) ![](assets/new.png)  
-- [2020-11-21-深圳电瓶车充电桩充电好贵，其他地方也是这么贵吗?](https://www.v2ex.com/t/727898) ![](assets/new.png)  
-- [2020-11-21-多租户后台登录，如何确定所属租户？](https://www.v2ex.com/t/727897) ![](assets/new.png)  
-- [2020-11-21-想把自己的显示器竖起来](https://www.v2ex.com/t/727896) ![](assets/new.png)  
-- [2020-11-21-吐槽-连续两台-iPhone-都是绿屏，决定从官网买多买几台拆到正常为止](https://www.v2ex.com/t/727895) ![](assets/new.png)  
-- [2020-11-21-苹果的订单预计送达时间会不会延迟？](https://www.v2ex.com/t/727894) ![](assets/new.png)  
-- [2020-11-21-Anker-的立式无线充电器可以充-AirPods-Pro-吗?](https://www.v2ex.com/t/727893) ![](assets/new.png)  
-- [2020-11-21-手机-Safari-浏览器搜索引擎选择-Google-后](https://www.v2ex.com/t/727892) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +585,16 @@
 - [2020-11-21-携程移动直播探索](https://toutiao.io/k/74b20h5) ![](assets/new.png)  
 - [2020-11-21-腾讯-IMWEB-前端团队一站式-Serverless-开发解决方案](https://toutiao.io/k/jbwdrr3) ![](assets/new.png)  
 - [2020-11-21-Elasticsearch-空值处理实战指南](https://toutiao.io/k/057haec) ![](assets/new.png)  
-- [2020-11-21-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
-- [2020-11-21-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
-- [2020-11-21-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [2020-11-21-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
-- [2020-11-21-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
-- [2020-11-21-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
-- [2020-11-21-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
-- [2020-11-21-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
-- [2020-11-21-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-21-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
 - [2020-11-21-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-21-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
+- [2020-11-21-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-21-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-21-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
+- [2020-11-21-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
+- [2020-11-21-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
+- [2020-11-21-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

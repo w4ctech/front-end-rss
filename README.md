@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-21 10:32:54，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-21 10:48:21，:rocket: 更新条数: +3283， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -553,26 +553,6 @@
 </summary>
 
 
-- [2020-11-21-m1-mac-到了-有什么要帮忙测的？](https://www.v2ex.com/t/727891) ![](assets/new.png)  
-- [2020-11-21-快手社招，-iOS/Android/web/-Java-/测试、ui、产品等职位](https://www.v2ex.com/t/727890) ![](assets/new.png)  
-- [2020-11-21-IntelliJ-IDEA-Language-injections-简介及其应用](https://www.v2ex.com/t/727889) ![](assets/new.png)  
-- [2020-11-21-最牛书签-快照+离线下载+触发-API](https://www.v2ex.com/t/727887) ![](assets/new.png)  
-- [2020-11-21-外卖中吃出异物，投诉后反遭商家上门威胁，如何维权](https://www.v2ex.com/t/727886) ![](assets/new.png)  
-- [2020-11-21-有没有兄弟研究过客制化键盘？尤其是各种轴体？](https://www.v2ex.com/t/727885) ![](assets/new.png)  
-- [2020-11-21-腾讯云香港轻量挂-HE-的-IPv6-隧道反代欧洲大盘网盘（回源延迟-180ms）](https://www.v2ex.com/t/727884) ![](assets/new.png)  
-- [2020-11-21-iPad-Pro-的-Mac-模式应该没跑了吧](https://www.v2ex.com/t/727882) ![](assets/new.png)  
-- [2020-11-21-大佬们，怎么搞个设备当-IP-地址池和小灰机呀？](https://www.v2ex.com/t/727879) ![](assets/new.png)  
-- [2020-11-21-使用-Network-Extension-的-iOS-App-在-M1-macOS-上的表现](https://www.v2ex.com/t/727877) ![](assets/new.png)  
-- [2020-11-21-深圳联通-200m-的端口为什么在测速网购买的提速包到-300m？](https://www.v2ex.com/t/727876) ![](assets/new.png)  
-- [2020-11-21-问大佬们，赋默认值和校验应该在应该在服务端做还是客户端做？](https://www.v2ex.com/t/727875) ![](assets/new.png)  
-- [2020-11-21-滴滴出行-北京、杭州、成都、深圳内推-iOS/Android/前端/-Java-/算法/-PHP-/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/727874) ![](assets/new.png)  
-- [2020-11-21-使用-Canvas-实现一组简单的-Charts-Demo](https://www.v2ex.com/t/727872) ![](assets/new.png)  
-- [2020-11-21-等-M1-Mini-的同时，在准备外设。要不要把-HHKB-换成苹果的-magic-keyboard-呢？](https://www.v2ex.com/t/727871) ![](assets/new.png)  
-- [2020-11-21-哪一类人群需要使用-Tails-发行版](https://www.v2ex.com/t/727870) ![](assets/new.png)  
-- [2020-11-21-大型社交网站如新浪一个博主有几百万粉丝都查得出-ID,数据是如何储存的呢?](https://www.v2ex.com/t/727869) ![](assets/new.png)  
-- [2020-11-21-如何固定-V2EX-的域名前缀？](https://www.v2ex.com/t/727868) ![](assets/new.png)  
-- [2020-11-21-不想更-Big-Sur，但应用图标都已经变成圆矩形了](https://www.v2ex.com/t/727867) ![](assets/new.png)  
-- [2020-11-21-MacBook-Air-M1-翻车记（键帽）](https://www.v2ex.com/t/727866) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -625,15 +605,15 @@
 - [2020-11-21-携程移动直播探索](https://toutiao.io/k/74b20h5) ![](assets/new.png)  
 - [2020-11-21-腾讯-IMWEB-前端团队一站式-Serverless-开发解决方案](https://toutiao.io/k/jbwdrr3) ![](assets/new.png)  
 - [2020-11-21-Elasticsearch-空值处理实战指南](https://toutiao.io/k/057haec) ![](assets/new.png)  
-- [2020-11-21-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
-- [2020-11-21-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
-- [2020-11-21-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-21-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
-- [2020-11-21-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-21-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
 - [2020-11-21-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
-- [2020-11-21-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
-- [2020-11-21-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
-- [2020-11-21-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
+- [2020-11-21-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-21-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
+- [2020-11-21-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-21-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-21-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-21-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-21-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
 - [2020-11-21-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

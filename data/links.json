@@ -14444,58 +14444,7 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [
-      {
-        "title": "NutUI CLI源码解析",
-        "link": "https://jdc.jd.com/archives/213013",
-        "date": "2020-03-24"
-      },
-      {
-        "title": "NutUI 3.0 中单元测试的探索和实践",
-        "link": "https://jdc.jd.com/archives/213007",
-        "date": "2020-03-10"
-      },
-      {
-        "title": "用户说的都是真的吗？这些陷阱要避开",
-        "link": "https://jdc.jd.com/archives/212987",
-        "date": "2019-06-28"
-      },
-      {
-        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
-        "link": "https://jdc.jd.com/archives/212979",
-        "date": "2019-03-15"
-      },
-      {
-        "title": "京东PLUS会员项目前端性能优化实践",
-        "link": "https://jdc.jd.com/archives/212962",
-        "date": "2019-02-15"
-      },
-      {
-        "title": "8个常见的研究者认知偏误陷阱",
-        "link": "https://jdc.jd.com/archives/212946",
-        "date": "2019-01-28"
-      },
-      {
-        "title": "用户访谈——哪些原则简单却有效",
-        "link": "https://jdc.jd.com/archives/212927",
-        "date": "2019-01-24"
-      },
-      {
-        "title": "体现工匠精神的Resource Hints",
-        "link": "https://jdc.jd.com/archives/212917",
-        "date": "2018-12-29"
-      },
-      {
-        "title": "HTML5 Audio的兼容性问题和优化",
-        "link": "https://jdc.jd.com/archives/212874",
-        "date": "2018-12-26"
-      },
-      {
-        "title": "一个表情引发的思考",
-        "link": "https://jdc.jd.com/archives/212870",
-        "date": "2018-12-26"
-      }
-    ],
+    "items": [],
     "link": "https://jdc.jd.com"
   },
   {
@@ -14752,6 +14701,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "老是被新来的技术总监针对怎么办？",
+        "link": "https://www.v2ex.com/t/727923",
+        "date": "2020-11-21"
+      },
       {
         "title": "实战： 150 行 Go 实现高性能 socks5 代理",
         "link": "https://www.v2ex.com/t/727922",
@@ -15112,63 +15066,8 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
-        "link": "https://toutiao.io/k/ekz4xzi",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-21"
       },
       {
@@ -15182,8 +15081,63 @@
         "date": "2020-11-21"
       },
       {
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-21"
+      },
+      {
         "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
         "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
         "date": "2020-11-21"
       }
     ]

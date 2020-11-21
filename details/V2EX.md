@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-11-21 08:47:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 09:04:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-21-大型社交网站如新浪一个博主有几百万粉丝都查得出-ID,数据是如何储存的呢?](https://www.v2ex.com/t/727869) 
+- [2020-11-21-如何固定-V2EX-的域名前缀？](https://www.v2ex.com/t/727868) 
+- [2020-11-21-不想更-Big-Sur，但应用图标都已经变成圆矩形了](https://www.v2ex.com/t/727867) 
+- [2020-11-21-MacBook-Air-M1-翻车记（键帽）](https://www.v2ex.com/t/727866) 
+- [2020-11-21-iPhone-12-mini-的墙纸会出现摩尔纹](https://www.v2ex.com/t/727865) 
 - [2020-11-21-Chrome-87-变快了好多呀](https://www.v2ex.com/t/727863) 
 - [2020-11-21-macos-update-这是一个什么盘](https://www.v2ex.com/t/727861) 
 - [2020-11-21-有什么值得买的-x570-主板？](https://www.v2ex.com/t/727860) 
@@ -39,6 +44,3 @@
 - [2020-11-21-有没有能动态放大视频局部的播放器](https://www.v2ex.com/t/727823) 
 - [2020-11-21-数学能否自学，有哪些书籍推荐](https://www.v2ex.com/t/727822) 
 - [2020-11-21-发现一个-iPhone-的问题](https://www.v2ex.com/t/727820) 
-- [2020-11-21-大家单手玩-xsmax-久了手指疼吗](https://www.v2ex.com/t/727818) 
-- [2020-11-21-做了一个头条小程序](https://www.v2ex.com/t/727817) 
-- [2020-11-21-请教下-MBP-的-HDMI-输出分辨率问题](https://www.v2ex.com/t/727815) 

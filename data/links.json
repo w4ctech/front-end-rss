@@ -14255,7 +14255,7 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10315",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10315",
     "title": "Vue中文社区",
     "link": "https://www.ershicimi.com/a/10315",
     "items": []
@@ -14444,7 +14444,58 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [],
+    "items": [
+      {
+        "title": "NutUI CLI源码解析",
+        "link": "https://jdc.jd.com/archives/213013",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "NutUI 3.0 中单元测试的探索和实践",
+        "link": "https://jdc.jd.com/archives/213007",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "用户说的都是真的吗？这些陷阱要避开",
+        "link": "https://jdc.jd.com/archives/212987",
+        "date": "2019-06-28"
+      },
+      {
+        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
+        "link": "https://jdc.jd.com/archives/212979",
+        "date": "2019-03-15"
+      },
+      {
+        "title": "京东PLUS会员项目前端性能优化实践",
+        "link": "https://jdc.jd.com/archives/212962",
+        "date": "2019-02-15"
+      },
+      {
+        "title": "8个常见的研究者认知偏误陷阱",
+        "link": "https://jdc.jd.com/archives/212946",
+        "date": "2019-01-28"
+      },
+      {
+        "title": "用户访谈——哪些原则简单却有效",
+        "link": "https://jdc.jd.com/archives/212927",
+        "date": "2019-01-24"
+      },
+      {
+        "title": "体现工匠精神的Resource Hints",
+        "link": "https://jdc.jd.com/archives/212917",
+        "date": "2018-12-29"
+      },
+      {
+        "title": "HTML5 Audio的兼容性问题和优化",
+        "link": "https://jdc.jd.com/archives/212874",
+        "date": "2018-12-26"
+      },
+      {
+        "title": "一个表情引发的思考",
+        "link": "https://jdc.jd.com/archives/212870",
+        "date": "2018-12-26"
+      }
+    ],
     "link": "https://jdc.jd.com"
   },
   {
@@ -14702,6 +14753,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "打工人日报",
+        "link": "https://www.v2ex.com/t/727927",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "在基本没有英语语言障碍的情况下，有哪些国外大学的学习 CS 的公开课程推荐，想入门",
+        "link": "https://www.v2ex.com/t/727925",
+        "date": "2020-11-21"
+      },
+      {
         "title": "老是被新来的技术总监针对怎么办？",
         "link": "https://www.v2ex.com/t/727923",
         "date": "2020-11-21"
@@ -14880,26 +14941,6 @@
         "title": "大佬们，怎么搞个设备当 IP 地址池和小灰机呀？",
         "link": "https://www.v2ex.com/t/727879",
         "date": "2020-11-21"
-      },
-      {
-        "title": "使用 Network Extension 的 iOS App 在 M1 macOS 上的表现",
-        "link": "https://www.v2ex.com/t/727877",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "深圳联通 200m 的端口为什么在测速网购买的提速包到 300m？",
-        "link": "https://www.v2ex.com/t/727876",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "问大佬们，赋默认值和校验应该在应该在服务端做还是客户端做？",
-        "link": "https://www.v2ex.com/t/727875",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[滴滴出行-北京、杭州、成都、深圳内推] iOS/Android/前端/ Java /算法/ PHP /Go/C++/数据等各类职位大量招聘，月 20k-80k，优秀另有期权",
-        "link": "https://www.v2ex.com/t/727874",
-        "date": "2020-11-21"
       }
     ]
   },
@@ -15066,18 +15107,8 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-21"
       },
       {
@@ -15086,28 +15117,18 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
         "date": "2020-11-21"
       },
       {
@@ -15116,13 +15137,33 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-21"
       },
       {
@@ -15136,8 +15177,8 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
+        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
+        "link": "https://toutiao.io/k/5lujxq0",
         "date": "2020-11-21"
       }
     ]

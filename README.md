@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-21 02:47:42，:rocket: 更新条数: +3086， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-21 03:04:10，:rocket: 更新条数: +3087， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-21-2020-年了，有哪些高质量可用的-RSS-订阅源推荐](https://www.v2ex.com/t/727773) ![](assets/new.png)  
+- [2020-11-21-微信有什么方式，可以备份指定用户的聊天记录？](https://www.v2ex.com/t/727772) ![](assets/new.png)  
+- [2020-11-21-这个时间买-iPhone11-pro-好还是买-iPhone-12-好](https://www.v2ex.com/t/727770) ![](assets/new.png)  
 - [2020-11-21-Big-Sur-如何从-beta-版升级到正式版？](https://www.v2ex.com/t/727768) ![](assets/new.png)  
 - [2020-11-21-在-iOS-上安装了-iSH，大家有什么推荐的玩法吗？](https://www.v2ex.com/t/727767) ![](assets/new.png)  
 - [2020-11-21-新人求解-云服务器安全问题](https://www.v2ex.com/t/727766) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-21-被收智商税了，买米家声波电动牙刷-T100-后体验低](https://www.v2ex.com/t/727752) ![](assets/new.png)  
 - [2020-11-21-ipv6-家用服务器的问题-潜水多年-请求给出宝贵意见-求助](https://www.v2ex.com/t/727751) ![](assets/new.png)  
 - [2020-11-21-不懂就问，现在安卓软件市场怎么选择，还是说去-Google-play](https://www.v2ex.com/t/727749) ![](assets/new.png)  
-- [2020-11-21-现有的-intel-的-mac-电脑什么出掉比较合适](https://www.v2ex.com/t/727748) ![](assets/new.png)  
-- [2020-11-21-关于-Apple-M1-的群众意见每日汇总-码农方向2020.11.21](https://www.v2ex.com/t/727747) ![](assets/new.png)  
-- [2020-11-21-可以在这里发科研外包任务广告吗-test](https://www.v2ex.com/t/727746) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -599,22 +599,22 @@
 - [2020-11-21-译-泛型和元编程的模型：Java,-Go,-Rust,-Swift,-D-等](https://toutiao.io/k/dnlke8h) ![](assets/new.png)  
 - [2020-11-21-Golang-语言标准库-sync-包的-Cond-怎么使用？](https://toutiao.io/k/cwpgcnp) ![](assets/new.png)  
 - [2020-11-21-C++-从-vector-扩容看-noexcept-应用场景](https://toutiao.io/k/61t808c) ![](assets/new.png)  
+- [2020-11-21-重磅：Go-errors-将不会有任何进一步的改进计划](https://toutiao.io/k/p94r3b6) ![](assets/new.png)  
 - [2020-11-21-携程移动直播探索](https://toutiao.io/k/74b20h5) ![](assets/new.png)  
 - [2020-11-21-腾讯-IMWEB-前端团队一站式-Serverless-开发解决方案](https://toutiao.io/k/jbwdrr3) ![](assets/new.png)  
-- [2020-11-21-重磅：Go-errors-将不会有任何进一步的改进计划](https://toutiao.io/k/p94r3b6) ![](assets/new.png)  
 - [2020-11-21-基于-Serverless-的-Valine-可能并没有那么香](https://toutiao.io/k/qmjvpsd) ![](assets/new.png)  
 - [2020-11-21-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
 - [2020-11-21-Elasticsearch-空值处理实战指南](https://toutiao.io/k/057haec) ![](assets/new.png)  
+- [2020-11-21-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
+- [2020-11-21-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-21-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-21-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-21-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
+- [2020-11-21-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
+- [2020-11-21-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-21-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
 - [2020-11-21-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
 - [2020-11-21-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-21-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-21-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
-- [2020-11-21-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
-- [2020-11-21-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
-- [2020-11-21-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
-- [2020-11-21-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
-- [2020-11-21-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
-- [2020-11-21-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-21 12:47:58，:rocket: 更新条数: +3091， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-21 13:03:55，:rocket: 更新条数: +3091， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -598,23 +598,23 @@
 - [2020-11-21-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
 - [2020-11-21-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
 - [2020-11-21-基于-Serverless-的-Valine-可能并没有那么香](https://toutiao.io/k/qmjvpsd) ![](assets/new.png)  
-- [2020-11-21-译-泛型和元编程的模型：Java,-Go,-Rust,-Swift,-D-等](https://toutiao.io/k/dnlke8h) ![](assets/new.png)  
 - [2020-11-21-Golang-语言标准库-sync-包的-Cond-怎么使用？](https://toutiao.io/k/cwpgcnp) ![](assets/new.png)  
+- [2020-11-21-译-泛型和元编程的模型：Java,-Go,-Rust,-Swift,-D-等](https://toutiao.io/k/dnlke8h) ![](assets/new.png)  
 - [2020-11-21-重磅：Go-errors-将不会有任何进一步的改进计划](https://toutiao.io/k/p94r3b6) ![](assets/new.png)  
 - [2020-11-21-C++-从-vector-扩容看-noexcept-应用场景](https://toutiao.io/k/61t808c) ![](assets/new.png)  
 - [2020-11-21-携程移动直播探索](https://toutiao.io/k/74b20h5) ![](assets/new.png)  
 - [2020-11-21-腾讯-IMWEB-前端团队一站式-Serverless-开发解决方案](https://toutiao.io/k/jbwdrr3) ![](assets/new.png)  
 - [2020-11-21-Elasticsearch-空值处理实战指南](https://toutiao.io/k/057haec) ![](assets/new.png)  
-- [2020-11-21-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
-- [2020-11-21-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
-- [2020-11-21-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
-- [2020-11-21-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
-- [2020-11-21-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
-- [2020-11-21-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
+- [2020-11-21-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
 - [2020-11-21-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
 - [2020-11-21-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
-- [2020-11-21-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-21-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
+- [2020-11-21-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-21-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
 - [2020-11-21-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-21-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
+- [2020-11-21-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-21-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -626,6 +626,8 @@
 </summary>
 
 
+- [2020-11-21-在看-|-一周网安回顾-2020.11.14~11.20](https://sec.thief.one/article_content?a_id=a69868b61fffc7f88b455066bc931d98) ![](assets/new.png)  
+- [2020-11-21-AIoT安全峰会议题回顾|针对汽车无钥匙进入的中继攻击及防护](https://sec.thief.one/article_content?a_id=efa8f668272a841c2cea4019210b6ca9) ![](assets/new.png)  
 - [2020-11-21-MaAfee-2020-网络安全威胁报告](https://sec.thief.one/article_content?a_id=e8f40f4dec4f2addad8e244814222114) ![](assets/new.png)  
 - [2020-11-21-Frida配合BurpSuite的Brida插件自动解密取证](https://sec.thief.one/article_content?a_id=d7583f660ef3038c542f85a263e1fa65) ![](assets/new.png)  
 - [2020-11-21-11月比特币的全球搜索量高于2017年牛市](https://sec.thief.one/article_content?a_id=a5d5ebc4483b0aceab0d3b02eda06f81) ![](assets/new.png)  
@@ -644,8 +646,6 @@
 - [2020-11-21-对强制刷脸说不!国内人脸识别第一案宣判](https://sec.thief.one/article_content?a_id=62e88b2bc10ccfb60d909d828cf16bad) ![](assets/new.png)  
 - [2020-11-21-学完这份「计算机基础知识」,你也可以来字节跳动附下载](https://sec.thief.one/article_content?a_id=1c3553b1bfb29a7997548769ebf04b08) ![](assets/new.png)  
 - [2020-11-21-原来,我一直都不会用Windows](https://sec.thief.one/article_content?a_id=d7a86eae3c7fe82122662465e34e1ec8) ![](assets/new.png)  
-- [2020-11-21-输入手机号,立马确定对方位置?有人交了198元后,竟发现...](https://sec.thief.one/article_content?a_id=9a88a0cf432d60022fdbac94fc77fd4c) ![](assets/new.png)  
-- [2020-11-21-肠癌“早筛”丨中国癌症早筛第一证?诺辉健康肠癌“筛查”产品注册...](https://sec.thief.one/article_content?a_id=423ea73870b86702970eae6655ca7472) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

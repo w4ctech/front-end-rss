@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-21 04:37:33，:rocket: 更新条数: +3085， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-21 04:47:59，:rocket: 更新条数: +3085， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-21-一年半-Java-后端开发经验分享](https://www.v2ex.com/t/727803) ![](assets/new.png)  
+- [2020-11-21-目前在香港上学，求问大佬们关于实习的问题](https://www.v2ex.com/t/727802) ![](assets/new.png)  
 - [2020-11-21-社招-北京-美资大数据外企-前端/大数据研发](https://www.v2ex.com/t/727801) ![](assets/new.png)  
 - [2020-11-21-媳妇不喜欢-iPhone-，想换个安卓，-2020-年底了，有啥推荐的吗？](https://www.v2ex.com/t/727800) ![](assets/new.png)  
 - [2020-11-21-女朋友的手工织物-，各位来康康，如何～](https://www.v2ex.com/t/727799) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-21-为什么你应该使用密码管理器之-KeePassXC-基础使用教程](https://www.v2ex.com/t/727777) ![](assets/new.png)  
 - [2020-11-21-深圳市防疫现在怎么样](https://www.v2ex.com/t/727776) ![](assets/new.png)  
 - [2020-11-21-深圳项目外包-Julia-代码完善（签合同、无著作权）](https://www.v2ex.com/t/727775) ![](assets/new.png)  
-- [2020-11-21-阿里云和-terraform-的结合怎么样](https://www.v2ex.com/t/727774) ![](assets/new.png)  
-- [2020-11-21-2020-年了，有哪些高质量可用的-RSS-订阅源推荐](https://www.v2ex.com/t/727773) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-21-腾讯-IMWEB-前端团队一站式-Serverless-开发解决方案](https://toutiao.io/k/jbwdrr3) ![](assets/new.png)  
 - [2020-11-21-基于-Serverless-的-Valine-可能并没有那么香](https://toutiao.io/k/qmjvpsd) ![](assets/new.png)  
 - [2020-11-21-Elasticsearch-空值处理实战指南](https://toutiao.io/k/057haec) ![](assets/new.png)  
-- [2020-11-21-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
-- [2020-11-21-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-21-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
 - [2020-11-21-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-21-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-21-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
-- [2020-11-21-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
+- [2020-11-21-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-21-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-21-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
 - [2020-11-21-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
-- [2020-11-21-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
-- [2020-11-21-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-21-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
 - [2020-11-21-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
+- [2020-11-21-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
+- [2020-11-21-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

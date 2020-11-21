@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-21 12:05:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 12:14:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -46,4 +46,3 @@
 - [2020-11-21-不想更-Big-Sur，但应用图标都已经变成圆矩形了](https://www.v2ex.com/t/727867) 
 - [2020-11-21-MacBook-Air-M1-翻车记（键帽）](https://www.v2ex.com/t/727866) 
 - [2020-11-21-iPhone-12-mini-的墙纸会出现摩尔纹](https://www.v2ex.com/t/727865) 
-- [2020-11-21-Chrome-87-变快了好多呀](https://www.v2ex.com/t/727863) 

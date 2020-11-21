@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-21 06:48:12，:rocket: 更新条数: +3317， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-21 07:04:20，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,10 @@
 </summary>
 
 
+- [2020-11-21-根据一条数据库数据，查询该表中和他相似度最高的数据，有什么思路了没](https://www.v2ex.com/t/727838) ![](assets/new.png)  
+- [2020-11-21-关于-mbp-apple-care-的一些问题,想求教下各位大佬](https://www.v2ex.com/t/727836) ![](assets/new.png)  
+- [2020-11-21-iPhone-12-绿了，找-Genius-Bar-开了证明之后，拼多多商家依然拒绝退货](https://www.v2ex.com/t/727835) ![](assets/new.png)  
+- [2020-11-21-求教技术问题：-海康-HK-DVR-录制视频，生成标准的-mp4-格式](https://www.v2ex.com/t/727834) ![](assets/new.png)  
 - [2020-11-21-B-站有-up-主测试了-M1-芯片神经网络训练的时间，大概是-1080ti-的两倍](https://www.v2ex.com/t/727833) ![](assets/new.png)  
 - [2020-11-21-分享这两年做的几个小网站，大伙儿点评一下？](https://www.v2ex.com/t/727832) ![](assets/new.png)  
 - [2020-11-21-你们的-big-sur-11.0.1-20B29外接键盘切换输入法的时候会卡吗？](https://www.v2ex.com/t/727830) ![](assets/new.png)  
@@ -569,10 +573,6 @@
 - [2020-11-21-小米手机-usb-连接-nas-问题](https://www.v2ex.com/t/727812) ![](assets/new.png)  
 - [2020-11-21-m1-16g-发货情况](https://www.v2ex.com/t/727811) ![](assets/new.png)  
 - [2020-11-21-官网折抵换购-MacBook-时需要退回-USB-C-连接线吗？](https://www.v2ex.com/t/727808) ![](assets/new.png)  
-- [2020-11-21-为什么在正文里面可以识别图片，在回复里面为啥不识别？](https://www.v2ex.com/t/727807) ![](assets/new.png)  
-- [2020-11-21-Mac-上有像-EverEdit-这样可以标注并高亮多个关键字的编辑器吗](https://www.v2ex.com/t/727806) ![](assets/new.png)  
-- [2020-11-21-如何手机-OTG-连接移动硬盘？](https://www.v2ex.com/t/727805) ![](assets/new.png)  
-- [2020-11-21-M1-无法安装-homebrew](https://www.v2ex.com/t/727804) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -617,24 +617,24 @@
 
 - [2020-11-21-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
 - [2020-11-21-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
-- [2020-11-21-译-泛型和元编程的模型：Java,-Go,-Rust,-Swift,-D-等](https://toutiao.io/k/dnlke8h) ![](assets/new.png)  
 - [2020-11-21-基于-Serverless-的-Valine-可能并没有那么香](https://toutiao.io/k/qmjvpsd) ![](assets/new.png)  
+- [2020-11-21-译-泛型和元编程的模型：Java,-Go,-Rust,-Swift,-D-等](https://toutiao.io/k/dnlke8h) ![](assets/new.png)  
 - [2020-11-21-Golang-语言标准库-sync-包的-Cond-怎么使用？](https://toutiao.io/k/cwpgcnp) ![](assets/new.png)  
 - [2020-11-21-C++-从-vector-扩容看-noexcept-应用场景](https://toutiao.io/k/61t808c) ![](assets/new.png)  
 - [2020-11-21-重磅：Go-errors-将不会有任何进一步的改进计划](https://toutiao.io/k/p94r3b6) ![](assets/new.png)  
 - [2020-11-21-携程移动直播探索](https://toutiao.io/k/74b20h5) ![](assets/new.png)  
 - [2020-11-21-腾讯-IMWEB-前端团队一站式-Serverless-开发解决方案](https://toutiao.io/k/jbwdrr3) ![](assets/new.png)  
 - [2020-11-21-Elasticsearch-空值处理实战指南](https://toutiao.io/k/057haec) ![](assets/new.png)  
-- [2020-11-21-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
-- [2020-11-21-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-21-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
-- [2020-11-21-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
-- [2020-11-21-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-21-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-21-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-21-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
-- [2020-11-21-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-21-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
+- [2020-11-21-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
+- [2020-11-21-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-21-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
 - [2020-11-21-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-21-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
+- [2020-11-21-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-21-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-21-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-21-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-21 06:48:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 07:04:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -78,6 +78,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-11-21-求教技术问题：-海康-HK-DVR-录制视频，生成标准的-mp4-格式](https://www.v2ex.com/t/727834) 
 - [2020-11-21-安卓有啥好用的-VR-视频播放器？](https://www.v2ex.com/t/727824) 
 - [2020-11-21-有没有能动态放大视频局部的播放器](https://www.v2ex.com/t/727823) 
 - [2020-11-21-日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

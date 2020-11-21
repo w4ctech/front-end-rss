@@ -15919,6 +15919,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "根据一条数据库数据，查询该表中和他相似度最高的数据，有什么思路了没",
+        "link": "https://www.v2ex.com/t/727838",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "关于 mbp apple care 的一些问题,想求教下各位大佬",
+        "link": "https://www.v2ex.com/t/727836",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "iPhone 12 绿了，找 Genius Bar 开了证明之后，拼多多商家依然拒绝退货",
+        "link": "https://www.v2ex.com/t/727835",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "求教技术问题： 海康 HK DVR 录制视频，生成标准的 mp4 格式",
+        "link": "https://www.v2ex.com/t/727834",
+        "date": "2020-11-21"
+      },
+      {
         "title": "B 站有 up 主测试了 M1 芯片神经网络训练的时间，大概是 1080ti 的两倍",
         "link": "https://www.v2ex.com/t/727833",
         "date": "2020-11-21"
@@ -16077,16 +16097,6 @@
         "title": "求问，有没有那种在线监听器？",
         "link": "https://www.v2ex.com/t/727790",
         "date": "2020-11-21"
-      },
-      {
-        "title": "歌荒 一人推荐一首歌",
-        "link": "https://www.v2ex.com/t/727787",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "我们还在招人~[Base 深圳阿里中心]支付宝香港团队招聘前端岗位-可加钉钉/微信聊-1121",
-        "link": "https://www.v2ex.com/t/727785",
-        "date": "2020-11-21"
       }
     ]
   },
@@ -16213,13 +16223,13 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[译] 泛型和元编程的模型：Java, Go, Rust, Swift, D 等",
-        "link": "https://toutiao.io/k/dnlke8h",
+        "title": "基于 Serverless 的 Valine 可能并没有那么香",
+        "link": "https://toutiao.io/k/qmjvpsd",
         "date": "2020-11-21"
       },
       {
-        "title": "基于 Serverless 的 Valine 可能并没有那么香",
-        "link": "https://toutiao.io/k/qmjvpsd",
+        "title": "[译] 泛型和元编程的模型：Java, Go, Rust, Swift, D 等",
+        "link": "https://toutiao.io/k/dnlke8h",
         "date": "2020-11-21"
       },
       {
@@ -16253,53 +16263,18 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
+        "link": "https://toutiao.io/k/5lujxq0",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-21"
       },
       {
@@ -16308,8 +16283,48 @@
         "date": "2020-11-21"
       },
       {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-21"
+      },
+      {
         "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
         "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-21"
       },
       {
@@ -16320,11 +16335,6 @@
       {
         "title": "[推荐] 52 图初探 Linux 通用知识",
         "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
         "date": "2020-11-21"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-21 03:11:56，:rocket: 更新条数: +3088， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-21 03:23:58，:rocket: 更新条数: +3088， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-21-为什么你应该使用密码管理器之-KeePassXC-基础使用教程](https://www.v2ex.com/t/727777) ![](assets/new.png)  
+- [2020-11-21-深圳市防疫现在怎么样](https://www.v2ex.com/t/727776) ![](assets/new.png)  
+- [2020-11-21-深圳项目外包-Julia-代码完善（签合同、无著作权）](https://www.v2ex.com/t/727775) ![](assets/new.png)  
 - [2020-11-21-阿里云和-terraform-的结合怎么样](https://www.v2ex.com/t/727774) ![](assets/new.png)  
 - [2020-11-21-2020-年了，有哪些高质量可用的-RSS-订阅源推荐](https://www.v2ex.com/t/727773) ![](assets/new.png)  
 - [2020-11-21-微信有什么方式，可以备份指定用户的聊天记录？](https://www.v2ex.com/t/727772) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-21-搬家赠送书籍，不包邮，都是全新。](https://www.v2ex.com/t/727756) ![](assets/new.png)  
 - [2020-11-21-硬件小白攒个小主机，求指教](https://www.v2ex.com/t/727755) ![](assets/new.png)  
 - [2020-11-21-光大信用卡也太不靠谱了，怎么办？](https://www.v2ex.com/t/727754) ![](assets/new.png)  
-- [2020-11-21-win10-太吃-C-盘空间了，有啥办法嘛？](https://www.v2ex.com/t/727753) ![](assets/new.png)  
-- [2020-11-21-被收智商税了，买米家声波电动牙刷-T100-后体验低](https://www.v2ex.com/t/727752) ![](assets/new.png)  
-- [2020-11-21-ipv6-家用服务器的问题-潜水多年-请求给出宝贵意见-求助](https://www.v2ex.com/t/727751) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-21-基于-Serverless-的-Valine-可能并没有那么香](https://toutiao.io/k/qmjvpsd) ![](assets/new.png)  
 - [2020-11-21-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
 - [2020-11-21-Elasticsearch-空值处理实战指南](https://toutiao.io/k/057haec) ![](assets/new.png)  
-- [2020-11-21-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-21-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-21-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-21-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
+- [2020-11-21-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
 - [2020-11-21-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
-- [2020-11-21-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
-- [2020-11-21-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
-- [2020-11-21-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
 - [2020-11-21-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
-- [2020-11-21-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
-- [2020-11-21-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-21-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
+- [2020-11-21-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
 - [2020-11-21-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-21-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-21-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

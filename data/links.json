@@ -15,8 +15,8 @@
         "date": "2020-11-20"
       },
       {
-        "title": "11月21日满洲里新增2例本土确诊",
-        "link": "http://m.china.caixin.com/m/2020-11-21/101631090.html",
+        "title": "内蒙古满洲里新增2例新冠本土确诊病例 火车客车停运",
+        "link": "https://m.caixin.com/m/2020-11-21/101631090.html",
         "date": "2020-11-20"
       },
       {
@@ -14255,7 +14255,7 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/10315",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/10315",
     "title": "Vue中文社区",
     "link": "https://www.ershicimi.com/a/10315",
     "items": []
@@ -14444,58 +14444,7 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [
-      {
-        "title": "NutUI CLI源码解析",
-        "link": "https://jdc.jd.com/archives/213013",
-        "date": "2020-03-24"
-      },
-      {
-        "title": "NutUI 3.0 中单元测试的探索和实践",
-        "link": "https://jdc.jd.com/archives/213007",
-        "date": "2020-03-10"
-      },
-      {
-        "title": "用户说的都是真的吗？这些陷阱要避开",
-        "link": "https://jdc.jd.com/archives/212987",
-        "date": "2019-06-28"
-      },
-      {
-        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
-        "link": "https://jdc.jd.com/archives/212979",
-        "date": "2019-03-15"
-      },
-      {
-        "title": "京东PLUS会员项目前端性能优化实践",
-        "link": "https://jdc.jd.com/archives/212962",
-        "date": "2019-02-15"
-      },
-      {
-        "title": "8个常见的研究者认知偏误陷阱",
-        "link": "https://jdc.jd.com/archives/212946",
-        "date": "2019-01-28"
-      },
-      {
-        "title": "用户访谈——哪些原则简单却有效",
-        "link": "https://jdc.jd.com/archives/212927",
-        "date": "2019-01-24"
-      },
-      {
-        "title": "体现工匠精神的Resource Hints",
-        "link": "https://jdc.jd.com/archives/212917",
-        "date": "2018-12-29"
-      },
-      {
-        "title": "HTML5 Audio的兼容性问题和优化",
-        "link": "https://jdc.jd.com/archives/212874",
-        "date": "2018-12-26"
-      },
-      {
-        "title": "一个表情引发的思考",
-        "link": "https://jdc.jd.com/archives/212870",
-        "date": "2018-12-26"
-      }
-    ],
+    "items": [],
     "link": "https://jdc.jd.com"
   },
   {
@@ -14753,6 +14702,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大家的文件是怎么分类的？",
+        "link": "https://www.v2ex.com/t/727930",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "前端想搞全栈，后端选哪个技术栈？",
+        "link": "https://www.v2ex.com/t/727928",
+        "date": "2020-11-21"
+      },
+      {
         "title": "打工人日报",
         "link": "https://www.v2ex.com/t/727927",
         "date": "2020-11-21"
@@ -14936,120 +14895,14 @@
         "title": "iPad Pro 的 Mac 模式应该没跑了吧",
         "link": "https://www.v2ex.com/t/727882",
         "date": "2020-11-21"
-      },
-      {
-        "title": "大佬们，怎么搞个设备当 IP 地址池和小灰机呀？",
-        "link": "https://www.v2ex.com/t/727879",
-        "date": "2020-11-21"
       }
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/blogread/newest",
+    "rss": "https://rss.shab.fun/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": [
-      {
-        "title": "6岁！是时候重新认识下Serverless了 | 云原生趣谈 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13975&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778541%3Futm_content%3Dg_1000207513%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "我看技术人的成长路径 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "质量内建——缺陷管理实践分享 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "AI云原生浅谈：好未来AI中台实践 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13972&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778470%3Futm_content%3Dg_1000207511%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "双十一消费近万亿！1亿人见证数字物流，“尾款人”收货更快了？购物狂欢七大趋势浮现 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13971&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778497%3Futm_content%3Dg_1000207510%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "揭秘“双11”黑科技：机器人“接管”物流、服务器“不发烧” (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13969&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778476%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "年轻人不讲武德，偷袭阿里的机房 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13968&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778491%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "阿里巴巴集团 CTO 程立：今年天猫双 11，阿里练了什么？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13967&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778266%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "双11核心系统全面云原生化：效率提升一倍，成本下降80% (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13966&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778246%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "四两拨千斤：小巧新秀ClickHouse如何完美支撑史上最强双十一？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13965&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778258%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "4982亿背后的前端技术 2020天猫双11前端体系大揭秘 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13964&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778394%3Futm_content%3Dg_1000207219%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "Serverless在编程教育中的实践 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13963&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778418%3Futm_content%3Dg_1000206840%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "双11还能创造什么新技术？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13962&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778396%3Futm_content%3Dg_1000206571%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "再谈领域驱动设计 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13961&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "Flink 1.11 与 Hive 批流一体数仓实践 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13960&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777720%3Futm_content%3Dg_1000206570%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "云原生时代微服务的高可用架构设计 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13959&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777594%3Futm_content%3Dg_1000206569%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "当 TiDB 与 Flink 相结合：高效、易用的实时数仓 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13958&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776726%3Futm_content%3Dg_1000206568%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "思否独立开发者采访 | 开启技术变现之路，探索第三收入来源 (segmentfault.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13957&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000038196276%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "电梯行业的数字化转型，精细化管理开启新的红利窗口 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13956&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778400%3Futm_content%3Dg_1000205619%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-21"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/toutiao/today",
@@ -15107,8 +14960,8 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
         "date": "2020-11-21"
       },
       {
@@ -15117,8 +14970,8 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-21"
       },
       {
@@ -15127,13 +14980,8 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-21"
       },
       {
@@ -15142,13 +14990,23 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
         "date": "2020-11-21"
       },
       {
@@ -15157,28 +15015,23 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-21"
-      },
-      {
         "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
         "link": "https://toutiao.io/k/qbvqq09",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-21"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-21 10:48:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 11:04:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,6 +31,14 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-21-手机-Safari-浏览器搜索引擎选择-Google-后](https://www.v2ex.com/t/727892) 
+- [2020-11-21-Chrome-87-变快了好多呀](https://www.v2ex.com/t/727863) 
+- [2020-11-21-为啥请求有些网站的二级域名的时候没有-301-却直接访问到三级域?](https://www.v2ex.com/t/727850) 
+- [2020-11-21-MaAfee-2020-网络安全威胁报告](https://sec.thief.one/article_content?a_id=e8f40f4dec4f2addad8e244814222114) 
+- [2020-11-21-【中奖名单】《网络攻防实战研究:MySQL数据库安全》书籍中奖名...](https://sec.thief.one/article_content?a_id=d4416380ab54e67c77380e04ca3fb24a) 
+- [2020-11-21-乌镇前瞻|奇安信告诉你安全黑科技如何助力抗疫](https://sec.thief.one/article_content?a_id=43cdba63db8e375fdae2e305c661da3d) 
+- [2020-11-21-从12月1号开始,美国国防部将全面提升网络安全水平](https://sec.thief.one/article_content?a_id=1b3458c88ac078f1415c64e6a9b0c8f1) 
+- [2020-11-20-【安全圈】Platypus攻击可从Intel-CPU中窃取数据](https://sec.thief.one/article_content?a_id=2e3bdde51bdb4e758849d5a5bdcfe4ec) 
 - [2020-11-20-中国移动云能力中心携手绿盟科技-共建云安全服务生态体系](https://sec.thief.one/article_content?a_id=c96318a57f1b0470d4cd88092d946d9b) 
 - [2020-11-20-神经网络与随机数的安全性分析上](https://sec.thief.one/article_content?a_id=1611f76d0ff15f4ce833bf1ed37ccb09) 
 - [2020-11-20-苹果生态不再安全?M1芯片首爆高危漏洞!](https://sec.thief.one/article_content?a_id=e69b5c32d4e6056d55d135d1f14e1450) 
@@ -48,8 +56,3 @@
 - [2020-11-19-移动办公终端安全浅析](https://sec.thief.one/article_content?a_id=1820bcdc897cc95cbe886f09950ec4ca) 
 - [2020-11-18-【安全圈】勒索软件团伙在Facebook上刊登Campari黑客的广告](https://sec.thief.one/article_content?a_id=62fb59643b5e2d12b319b721d3fba204) 
 - [2020-11-18-【安全通知】PyPI-官方仓库遭遇covd恶意包投毒](https://sec.thief.one/article_content?a_id=a786b9d4f5157ff31df80423fbcb747b) 
-- [2020-11-18-AIoT安全峰会议题回顾|Cortex-M逆向分析与安全](https://sec.thief.one/article_content?a_id=ac82612f4bbe6f8f42b6d708934f0754) 
-- [2020-11-18-虎符智库|报告:ATT&CK框架指导云安全威胁调查](https://sec.thief.one/article_content?a_id=d01047f17395587aa409b7bd762eabb6) 
-- [2020-11-18-12月1日起,网络安全成为美国国防部采购合同的必要合规项](https://sec.thief.one/article_content?a_id=7d2e0e3b3a2f9a6a95b1facb41bd9462) 
-- [2020-11-18-第三届“安洵杯”网络安全挑战赛来啦!!](https://sec.thief.one/article_content?a_id=f33a66c2c1ce1ce5291351183690d85e) 
-- [2020-11-18-CVE-2020-17053:IE-UAF漏洞分析](https://sec.thief.one/article_content?a_id=ae198dd09808dc2f65b1f40765031b84) 

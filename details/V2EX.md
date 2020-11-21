@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-21 17:10:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 17:20:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-21-如何在这个时代-生存-幂律时代生存！](https://www.v2ex.com/t/727953) 
+- [2020-11-21-Android/data/com.tencent.mm-文件夹每次重启都被自动清理，找不到原因](https://www.v2ex.com/t/727952) 
 - [2020-11-21-不知道你们发现没有-M1-Macbook-Pro-的触摸板比-Air-的大一点](https://www.v2ex.com/t/727948) 
 - [2020-11-21-CorelDraw-用全角空格不对齐](https://www.v2ex.com/t/727947) 
 - [2020-11-21-photopea.com-作为一款-PS-的替代品在某些方面完胜-Affinity-和开源的-Krita](https://www.v2ex.com/t/727944) 
@@ -37,5 +39,3 @@
 - [2020-11-21-求后端-Python-+d'jango-自由职业组队](https://www.v2ex.com/t/727906) 
 - [2020-11-21-最近影慌，求推荐-一人推荐一部电影](https://www.v2ex.com/t/727905) 
 - [2020-11-21-是否有编程工具能代替-Exce-中的公式或-VBA?](https://www.v2ex.com/t/727904) 
-- [2020-11-21-赴日工作-收到"湖北一片语"offer,有了解的么?](https://www.v2ex.com/t/727903) 
-- [2020-11-21-请师傅清洗油烟机花了-200-不到，清洗了-3-个多小时后，由于操作不当对方赔偿-300，现在心态有点矛盾和不解](https://www.v2ex.com/t/727902) 

@@ -14748,6 +14748,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有在用 P2415Q 的朋友吗？接核显间歇性黑屏",
+        "link": "https://www.v2ex.com/t/727844",
+        "date": "2020-11-21"
+      },
+      {
         "title": "Maya 一个简洁小巧的快速启动工具",
         "link": "https://www.v2ex.com/t/727842",
         "date": "2020-11-21"
@@ -14926,16 +14931,6 @@
         "title": "抖音这种智能推荐的信息流，是要为每个用户存储一个推荐列表(list)吗？",
         "link": "https://www.v2ex.com/t/727796",
         "date": "2020-11-21"
-      },
-      {
-        "title": "外部 eGPU 有什么设置技巧不？发现多数应用没有使用外部 eGPU",
-        "link": "https://www.v2ex.com/t/727794",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "通过 pixel 上传 Google photos 有最佳实践了么?",
-        "link": "https://www.v2ex.com/t/727793",
-        "date": "2020-11-21"
       }
     ]
   },
@@ -15087,68 +15082,18 @@
         "date": "2020-11-21"
       },
       {
-        "title": "携程移动直播探索",
-        "link": "https://toutiao.io/k/74b20h5",
-        "date": "2020-11-21"
-      },
-      {
         "title": "腾讯 IMWEB 前端团队一站式 Serverless 开发解决方案",
         "link": "https://toutiao.io/k/jbwdrr3",
         "date": "2020-11-21"
       },
       {
+        "title": "携程移动直播探索",
+        "link": "https://toutiao.io/k/74b20h5",
+        "date": "2020-11-21"
+      },
+      {
         "title": "Elasticsearch 空值处理实战指南",
         "link": "https://toutiao.io/k/057haec",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
-        "link": "https://toutiao.io/k/ekz4xzi",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
         "date": "2020-11-21"
       },
       {
@@ -15162,18 +15107,68 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-21"
-      },
-      {
         "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
         "link": "https://toutiao.io/k/qbvqq09",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
         "date": "2020-11-21"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-21 00:07:31，:rocket: 更新条数: +3330， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-21 00:29:20，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,8 @@
 </summary>
 
 
+- [2020-11-21-花小猪今天怎么了，定位一直飘](https://www.v2ex.com/t/727736) ![](assets/new.png)  
+- [2020-11-21-招行-11-月小羊毛，-10-元话费券](https://www.v2ex.com/t/727735) ![](assets/new.png)  
 - [2020-11-20-Iphone12-Pro-Max-非最高亮度下纯黑图片会先变黑灰白色,然后几秒后才变纯黑](https://www.v2ex.com/t/727734) ![](assets/new.png)  
 - [2020-11-20-LibreOffice-用中文输入法超级卡顿的问题](https://www.v2ex.com/t/727733) ![](assets/new.png)  
 - [2020-11-20-下雪啦](https://www.v2ex.com/t/727732) ![](assets/new.png)  
@@ -571,8 +573,6 @@
 - [2020-11-20-Supernatural-圆满结局](https://www.v2ex.com/t/727715) ![](assets/new.png)  
 - [2020-11-20-一杯茶一包烟，一个串口调一天……](https://www.v2ex.com/t/727714) ![](assets/new.png)  
 - [2020-11-20-现在显卡都不讲武德了吗？](https://www.v2ex.com/t/727712) ![](assets/new.png)  
-- [2020-11-20-有什么办法过好/改变平凡的一生吗?](https://www.v2ex.com/t/727711) ![](assets/new.png)  
-- [2020-11-20-想实现一个-web-页面-ssh-连接](https://www.v2ex.com/t/727710) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -615,26 +615,21 @@
 </summary>
 
 
-- [2020-11-21-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
-- [2020-11-21-史上最姨母级-Java-继承详解](https://toutiao.io/k/5x6siju) ![](assets/new.png)  
-- [2020-11-21-Pulsar-能否超越-Kafka？](https://toutiao.io/k/abi4u4p) ![](assets/new.png)  
-- [2020-11-21-内存数据库解析与主流产品对比（三）](https://toutiao.io/k/9qv70vb) ![](assets/new.png)  
-- [2020-11-21-Python-源码混淆与加密](https://toutiao.io/k/3g7dp26) ![](assets/new.png)  
-- [2020-11-21-Golang-单元测试：有哪些误区和实践？](https://toutiao.io/k/5szw95c) ![](assets/new.png)  
-- [2020-11-21-WebRTC-服务端工程实践和优化探索](https://toutiao.io/k/9bmwz0s) ![](assets/new.png)  
-- [2020-11-21-详解-JavaScript-中的模块、Import-和-Export](https://toutiao.io/k/545z46w) ![](assets/new.png)  
-- [2020-11-21-VSCode-+-Vim-+-Whichkey-,-VSCode-模拟-Spacemacs-的使用方案](https://toutiao.io/k/rovywe3) ![](assets/new.png)  
-- [2020-11-21-前端性能测试实践](https://toutiao.io/k/ma9fbqt) ![](assets/new.png)  
-- [2020-11-21-京东-EB-级全域大数据平台的演进与治理历程](https://toutiao.io/k/xns6hdm) ![](assets/new.png)  
-- [2020-11-21-糟糕，系统又被攻击了](https://toutiao.io/k/et457nd) ![](assets/new.png)  
-- [2020-11-21-分布式集群如何实现高效的数据分布](https://toutiao.io/k/nbpbkri) ![](assets/new.png)  
-- [2020-11-21-漫画全面解释-Spark-企业调优点](https://toutiao.io/k/ioiv5kb) ![](assets/new.png)  
-- [2020-11-21-Selenium-爬虫使用代理情况下不设置这几个参数，代理就白加了](https://toutiao.io/k/oflggpf) ![](assets/new.png)  
-- [2020-11-21-闲鱼是这样高效稳定完成项目迁移的](https://toutiao.io/k/qqb6aj0) ![](assets/new.png)  
-- [2020-11-21-设计实现高性能本地内存缓存](https://toutiao.io/k/0c0zsxd) ![](assets/new.png)  
-- [2020-11-21-被黑客攻击了，登录流程要怎么做才安全](https://toutiao.io/k/rftwer0) ![](assets/new.png)  
-- [2020-11-21-美团外卖流量数据的采集加工和应用](https://toutiao.io/k/csx9zdy) ![](assets/new.png)  
-- [2020-11-21-magic-api：Java-后端开发者的福音，接口开发利器](https://toutiao.io/k/8du3dh8) ![](assets/new.png)  
+- [2020-11-21-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-21-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-21-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-21-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-21-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-21-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
+- [2020-11-21-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
+- [2020-11-21-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
+- [2020-11-21-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-21-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
+- [2020-11-21-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
+- [2020-11-21-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-21-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-21-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-21-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

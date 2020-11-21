@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-21 10:13:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 10:24:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-21-快手社招，-iOS/Android/web/-Java-/测试、ui、产品等职位](https://www.v2ex.com/t/727890) 
+- [2020-11-21-IntelliJ-IDEA-Language-injections-简介及其应用](https://www.v2ex.com/t/727889) 
 - [2020-11-21-最牛书签-快照+离线下载+触发-API](https://www.v2ex.com/t/727887) 
 - [2020-11-21-外卖中吃出异物，投诉后反遭商家上门威胁，如何维权](https://www.v2ex.com/t/727886) 
 - [2020-11-21-有没有兄弟研究过客制化键盘？尤其是各种轴体？](https://www.v2ex.com/t/727885) 
@@ -42,5 +44,3 @@
 - [2020-11-21-有在用-P2415Q-的朋友吗？接核显间歇性黑屏](https://www.v2ex.com/t/727844) 
 - [2020-11-21-Maya-一个简洁小巧的快速启动工具](https://www.v2ex.com/t/727842) 
 - [2020-11-21-养成每日产出的习惯](https://www.v2ex.com/t/727841) 
-- [2020-11-21-有必要买-M1-尝鲜吗](https://www.v2ex.com/t/727840) 
-- [2020-11-21-M1-真省电](https://www.v2ex.com/t/727839) 

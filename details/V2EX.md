@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-21 09:12:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 09:23:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-21-滴滴出行-北京、杭州、成都、深圳内推-iOS/Android/前端/-Java-/算法/-PHP-/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/727874) 
+- [2020-11-21-使用-Canvas-实现一组简单的-Charts-Demo](https://www.v2ex.com/t/727872) 
+- [2020-11-21-等-M1-Mini-的同时，在准备外设。要不要把-HHKB-换成苹果的-magic-keyboard-呢？](https://www.v2ex.com/t/727871) 
 - [2020-11-21-哪一类人群需要使用-Tails-发行版](https://www.v2ex.com/t/727870) 
 - [2020-11-21-大型社交网站如新浪一个博主有几百万粉丝都查得出-ID,数据是如何储存的呢?](https://www.v2ex.com/t/727869) 
 - [2020-11-21-如何固定-V2EX-的域名前缀？](https://www.v2ex.com/t/727868) 
@@ -41,6 +44,3 @@
 - [2020-11-21-你们的-big-sur-11.0.1-20B29外接键盘切换输入法的时候会卡吗？](https://www.v2ex.com/t/727830) 
 - [2020-11-21-技术求助：-selenium-、driver.switch_to.window，切换至新标签页后获取元素需要两秒](https://www.v2ex.com/t/727829) 
 - [2020-11-21-MacBook-Pro-Mid-2012-安装-Big-Sur-真香](https://www.v2ex.com/t/727827) 
-- [2020-11-21-安卓有啥好用的-VR-视频播放器？](https://www.v2ex.com/t/727824) 
-- [2020-11-21-有没有能动态放大视频局部的播放器](https://www.v2ex.com/t/727823) 
-- [2020-11-21-数学能否自学，有哪些书籍推荐](https://www.v2ex.com/t/727822) 

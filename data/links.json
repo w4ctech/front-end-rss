@@ -14743,6 +14743,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[社招] [北京] [美资大数据外企] 前端/大数据研发",
+        "link": "https://www.v2ex.com/t/727801",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "媳妇不喜欢 iPhone ，想换个安卓， 2020 年底了，有啥推荐的吗？",
+        "link": "https://www.v2ex.com/t/727800",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[女朋友的手工织物] ，各位来康康，如何～",
+        "link": "https://www.v2ex.com/t/727799",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "请问一下， AppleCare 按年订阅的模式的规则。",
+        "link": "https://www.v2ex.com/t/727798",
+        "date": "2020-11-21"
+      },
+      {
         "title": "2018MBP 还能卖出去吗？",
         "link": "https://www.v2ex.com/t/727797",
         "date": "2020-11-21"
@@ -14905,21 +14925,6 @@
       {
         "title": "被收智商税了，买米家声波电动牙刷 T100 后体验低",
         "link": "https://www.v2ex.com/t/727752",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "ipv6 家用服务器的问题-潜水多年-请求给出宝贵意见-求助",
-        "link": "https://www.v2ex.com/t/727751",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "不懂就问，现在安卓软件市场怎么选择，还是说去 Google play",
-        "link": "https://www.v2ex.com/t/727749",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "现有的 intel 的 mac 电脑什么出掉比较合适",
-        "link": "https://www.v2ex.com/t/727748",
         "date": "2020-11-21"
       }
     ]
@@ -15087,38 +15092,13 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
         "date": "2020-11-21"
       },
       {
@@ -15127,8 +15107,23 @@
         "date": "2020-11-21"
       },
       {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-21"
+      },
+      {
         "title": "[推荐] MyBatis 的本质和原理",
         "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-21"
       },
       {
@@ -15137,18 +15132,8 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
-        "link": "https://toutiao.io/k/ekz4xzi",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
         "date": "2020-11-21"
       },
       {
@@ -15157,8 +15142,28 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-21"
       }
     ]

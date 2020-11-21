@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-21 13:33:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 13:47:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -241,6 +241,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/)
+- [【V2EX】使用-Canvas-实现一组简单的-Charts-Demo](https://www.v2ex.com/t/727872)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -330,9 +331,9 @@
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【掘金前端】【WebAPI小案例之】拖放图片到浏览器并预览](https://juejin.im/post/6897157786778468365)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【安全热点】AIoT安全峰会议题回顾|针对汽车无钥匙进入的中继攻击及防护](https://sec.thief.one/article_content?a_id=efa8f668272a841c2cea4019210b6ca9)
-- [【安全热点】MaAfee-2020-网络安全威胁报告](https://sec.thief.one/article_content?a_id=e8f40f4dec4f2addad8e244814222114)
-- [【安全热点】【中奖名单】《网络攻防实战研究:MySQL数据库安全》书籍中奖名...](https://sec.thief.one/article_content?a_id=d4416380ab54e67c77380e04ca3fb24a)
+- [【V2EX】请求黑果显示器音效不输出问题](https://www.v2ex.com/t/727915)
+- [【V2EX】win10-下用浏览器下载文件"最开始"的时候会卡顿一下,-有人遇到过吗?](https://www.v2ex.com/t/727899)
+- [【V2EX】手机-Safari-浏览器搜索引擎选择-Google-后](https://www.v2ex.com/t/727892)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -349,6 +350,7 @@
 
 
 
+- [【V2EX】滴滴出行-北京、杭州、成都、深圳内推-iOS/Android/前端/-Java-/算法/-PHP-/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/727874)
 - [【开发者头条】Elasticsearch-空值处理实战指南](https://toutiao.io/k/057haec)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -400,8 +402,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
-- [【开发者头条】推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9)
 - [【开发者头条】推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2)
+- [【开发者头条】推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9)
 - [【开发者头条】推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi)
 - [【安全热点】牛聘|2020年度岗位招聘第14期](https://sec.thief.one/article_content?a_id=85a0fe56233d717438239fef07601c41)
 - [【安全热点】面试题:1-到-1000-之间有多少个-7?](https://sec.thief.one/article_content?a_id=d44d069be6d40bd08d40a185508c6b9d)

@@ -14316,7 +14316,7 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/9457",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/9457",
     "title": "前端迷",
     "link": "https://www.ershicimi.com/a/9457",
     "items": []
@@ -15919,6 +15919,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "B 站有 up 主测试了 M1 芯片神经网络训练的时间，大概是 1080ti 的两倍",
+        "link": "https://www.v2ex.com/t/727833",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "分享这两年做的几个小网站，大伙儿点评一下？",
+        "link": "https://www.v2ex.com/t/727832",
+        "date": "2020-11-21"
+      },
+      {
         "title": "你们的 big sur 11.0.1 (20B29)外接键盘切换输入法的时候会卡吗？",
         "link": "https://www.v2ex.com/t/727830",
         "date": "2020-11-21"
@@ -16076,16 +16086,6 @@
       {
         "title": "我们还在招人~[Base 深圳阿里中心]支付宝香港团队招聘前端岗位-可加钉钉/微信聊-1121",
         "link": "https://www.v2ex.com/t/727785",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "微软 Teams 支持 M1 芯片的 Mac 吗？",
-        "link": "https://www.v2ex.com/t/727783",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "代码中用单引号和双引号有什么讲究吗？",
-        "link": "https://www.v2ex.com/t/727781",
         "date": "2020-11-21"
       }
     ]
@@ -16253,8 +16253,13 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-21"
       },
       {
@@ -16263,13 +16268,8 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
         "date": "2020-11-21"
       },
       {
@@ -16278,43 +16278,13 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-21"
       },
       {
@@ -16323,8 +16293,38 @@
         "date": "2020-11-21"
       },
       {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-21"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
         "date": "2020-11-21"
       }
     ]

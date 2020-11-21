@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-21 08:26:14，:rocket: 更新条数: +3085， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-21 08:33:14，:rocket: 更新条数: +3087， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-21-有什么值得买的-x570-主板？](https://www.v2ex.com/t/727860) ![](assets/new.png)  
+- [2020-11-21-每次微信读书都要扫码登录-PC，感觉好麻烦](https://www.v2ex.com/t/727859) ![](assets/new.png)  
+- [2020-11-21-深圳-shopee，多岗位热招有一起来打工的吗？](https://www.v2ex.com/t/727858) ![](assets/new.png)  
+- [2020-11-21-iPhone-XR-Wi-Fi-偶发性断流](https://www.v2ex.com/t/727857) ![](assets/new.png)  
 - [2020-11-21-字节内推-字节、抖音---海量职位，精准匹配，走向人生巅峰](https://www.v2ex.com/t/727855) ![](assets/new.png)  
 - [2020-11-21-知乎会自动关注话题](https://www.v2ex.com/t/727854) ![](assets/new.png)  
 - [2020-11-21-关于微信小程序的一些疑问？请第三方公司做的。](https://www.v2ex.com/t/727853) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-21-有必要买-M1-尝鲜吗](https://www.v2ex.com/t/727840) ![](assets/new.png)  
 - [2020-11-21-M1-真省电](https://www.v2ex.com/t/727839) ![](assets/new.png)  
 - [2020-11-21-根据一条数据库数据，查询该表中和他相似度最高的数据，有什么思路了没](https://www.v2ex.com/t/727838) ![](assets/new.png)  
-- [2020-11-21-关于-mbp-apple-care-的一些问题,想求教下各位大佬](https://www.v2ex.com/t/727836) ![](assets/new.png)  
-- [2020-11-21-iPhone-12-绿了，找-Genius-Bar-开了证明之后，拼多多商家依然拒绝退货](https://www.v2ex.com/t/727835) ![](assets/new.png)  
-- [2020-11-21-求教技术问题：-海康-HK-DVR-录制视频，生成标准的-mp4-格式](https://www.v2ex.com/t/727834) ![](assets/new.png)  
-- [2020-11-21-B-站有-up-主测试了-M1-芯片神经网络训练的时间，大概是-1080ti-的两倍](https://www.v2ex.com/t/727833) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-21-腾讯-IMWEB-前端团队一站式-Serverless-开发解决方案](https://toutiao.io/k/jbwdrr3) ![](assets/new.png)  
 - [2020-11-21-携程移动直播探索](https://toutiao.io/k/74b20h5) ![](assets/new.png)  
 - [2020-11-21-Elasticsearch-空值处理实战指南](https://toutiao.io/k/057haec) ![](assets/new.png)  
-- [2020-11-21-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-21-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
-- [2020-11-21-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
-- [2020-11-21-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-21-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
-- [2020-11-21-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
-- [2020-11-21-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
+- [2020-11-21-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
+- [2020-11-21-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
 - [2020-11-21-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
-- [2020-11-21-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
-- [2020-11-21-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-21-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
+- [2020-11-21-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
+- [2020-11-21-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
+- [2020-11-21-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-21-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
+- [2020-11-21-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-21-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

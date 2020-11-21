@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-21 08:04:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 08:13:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2020-11-21-如何手机-OTG-连接移动硬盘？](https://www.v2ex.com/t/727805) 
 - [2020-11-21-M1-无法安装-homebrew](https://www.v2ex.com/t/727804) 
 - [2020-11-21-一年半-Java-后端开发经验分享](https://www.v2ex.com/t/727803) 
-- [2020-11-21-目前在香港上学，求问大佬们关于实习的问题](https://www.v2ex.com/t/727802) 

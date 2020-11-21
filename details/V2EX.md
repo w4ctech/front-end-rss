@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-21 15:35:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 15:47:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-21-photopea.com-作为一款-PS-的替代品在某些方面完胜-Affinity-和开源的-Krita](https://www.v2ex.com/t/727944) 
 - [2020-11-21-SQLITE-哪个版本稳定！](https://www.v2ex.com/t/727943) 
 - [2020-11-21-分享一个-HCaaS-推广链接](https://www.v2ex.com/t/727942) 
 - [2020-11-21-Bilibili-iOS-版-iPadOS-版都适配了-iPad-好评](https://www.v2ex.com/t/727940) 
@@ -42,5 +43,3 @@
 - [2020-11-21-深圳电瓶车充电桩充电好贵，其他地方也是这么贵吗?](https://www.v2ex.com/t/727898) 
 - [2020-11-21-多租户后台登录，如何确定所属租户？](https://www.v2ex.com/t/727897) 
 - [2020-11-21-想把自己的显示器竖起来](https://www.v2ex.com/t/727896) 
-- [2020-11-21-吐槽-连续两台-iPhone-都是绿屏，决定从官网买多买几台拆到正常为止](https://www.v2ex.com/t/727895) 
-- [2020-11-21-苹果的订单预计送达时间会不会延迟？](https://www.v2ex.com/t/727894) 

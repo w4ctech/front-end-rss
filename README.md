@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-22 08:13:33，:rocket: 更新条数: +3092， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-22 08:26:44，:rocket: 更新条数: +3093， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-22-现在如何注册苹果账号无需手机号](https://www.v2ex.com/t/728063) ![](assets/new.png)  
+- [2020-11-22-抖音和快手上的内容创作者一般怎么称呼？](https://www.v2ex.com/t/728062) ![](assets/new.png)  
+- [2020-11-22-摸鱼神器-新闻聚合订阅器-Chrome-扩展正式发布，附赠-Pro-激活码-20-个](https://www.v2ex.com/t/728061) ![](assets/new.png)  
 - [2020-11-22-这是一篇「毫无创意」的招聘文案...](https://www.v2ex.com/t/728060) ![](assets/new.png)  
 - [2020-11-22-文字实时比对应该用什么思路？](https://www.v2ex.com/t/728059) ![](assets/new.png)  
 - [2020-11-22-15-年的-T450-现在还能值多少钱](https://www.v2ex.com/t/728057) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-22-🔥🔥🔥-新加坡-Shopee-招后台研发，包含-Kubernetes、Nginx、-Linux-Kernel-等不同方向](https://www.v2ex.com/t/728042) ![](assets/new.png)  
 - [2020-11-22-腾讯招聘也太恶心了，还打包候选人简历信息出售的？](https://www.v2ex.com/t/728041) ![](assets/new.png)  
 - [2020-11-22-Big-Sur-状态栏图标无法固定顺序](https://www.v2ex.com/t/728040) ![](assets/new.png)  
-- [2020-11-22-求助-js-正则移除多余的-html-标签嵌套。](https://www.v2ex.com/t/728039) ![](assets/new.png)  
-- [2020-11-22-Macbook-格式化重装系统以后磁盘层级不一样了](https://www.v2ex.com/t/728037) ![](assets/new.png)  
-- [2020-11-22-我突然顿悟了-Apple-M-系列芯片后续设计](https://www.v2ex.com/t/728036) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-22-容器技术之容器引擎与江湖门派](https://toutiao.io/k/bi0spuk) ![](assets/new.png)  
 - [2020-11-22-基于-Redis-配置异步-Celery](https://toutiao.io/k/6ermrzb) ![](assets/new.png)  
 - [2020-11-22-使用-StatefulSet-部署-etcd-集群](https://toutiao.io/k/bfeadg0) ![](assets/new.png)  
-- [2020-11-22-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
-- [2020-11-22-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
-- [2020-11-22-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
 - [2020-11-22-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
-- [2020-11-22-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
-- [2020-11-22-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-22-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
 - [2020-11-22-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-22-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
+- [2020-11-22-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-22-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
 - [2020-11-22-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
-- [2020-11-22-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-22-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-22-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-22-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
+- [2020-11-22-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

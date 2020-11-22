@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-22 01:10:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-22 01:29:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-22-推荐一个查看各种软件在-M1-芯片上适配情况的网站](https://www.v2ex.com/t/727971) 
+- [2020-11-22-关于-Apple-M1-的群众意见每日汇总-码农方向2020.11.22](https://www.v2ex.com/t/727970) 
+- [2020-11-22-Ars-Techinca-对-ARM-架构-chrome-87-在-m1-芯片的跑分](https://www.v2ex.com/t/727969) 
 - [2020-11-22-我该选-M1-的-Pro-还是-Air?](https://www.v2ex.com/t/727967) 
 - [2020-11-22-如何正确学习-UI-设计？](https://www.v2ex.com/t/727966) 
 - [2020-11-22-Mac-键盘选购咨询（Apple-MK、Logitech-MX、Microsoft）](https://www.v2ex.com/t/727965) 
@@ -38,6 +41,3 @@
 - [2020-11-21-在基本没有英语语言障碍的情况下，有哪些国外大学的学习-CS-的公开课程推荐，想入门](https://www.v2ex.com/t/727925) 
 - [2020-11-21-老是被新来的技术总监针对怎么办？](https://www.v2ex.com/t/727923) 
 - [2020-11-21-实战：-150-行-Go-实现高性能-socks5-代理](https://www.v2ex.com/t/727922) 
-- [2020-11-21-流动资金一千万，是个什么概念？](https://www.v2ex.com/t/727921) 
-- [2020-11-21-iPhone-12-Pro-Max-主卡电信-副卡联通，-副卡一直无服务。](https://www.v2ex.com/t/727919) 
-- [2020-11-21-M1-以后黑苹果还有前途吗](https://www.v2ex.com/t/727918) 

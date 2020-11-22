@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-22 17:04:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-22 17:10:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-22-关闭-M1-Mac-的系统完整性保护（SIP）会导致-iOS-应用无法启动](https://www.v2ex.com/t/728167) 
 - [2020-11-22-diy-nas-刚出硬件选择障碍，又入系统选择障碍，有木有好的-nas-系统推荐。](https://www.v2ex.com/t/728166) 
 - [2020-11-22-neotv-论坛终于挂了。。。](https://www.v2ex.com/t/728165) 
 - [2020-11-22-Big-Sur-无法搜索-NAS-中的文件？比如我在-NAS-中有个文件夹-A，-A-中放了无数的-JPG-和一个-MOV，搜索不到😭](https://www.v2ex.com/t/728164) 
@@ -36,4 +37,3 @@
 - [2020-11-22-M1-不支持扩展双-HDMI-显示](https://www.v2ex.com/t/728120) 
 - [2020-11-22-有没有类似-peper-这样简洁但是功能齐全的-hugo-主题](https://www.v2ex.com/t/728119) 
 - [2020-11-22-凛冬将至，你的它来了吗？](https://www.v2ex.com/t/728118) 
-- [2020-11-22-cdn-方式构建的-vue-项目怎么自定义组件及复用](https://www.v2ex.com/t/728117) 

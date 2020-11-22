@@ -14298,7 +14298,7 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/5760",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/5760",
     "title": "前端早读课",
     "link": "https://www.ershicimi.com/a/5760",
     "items": []
@@ -14601,7 +14601,158 @@
     "rss": "https://rss.itggg.cn/jskou/0",
     "title": "前端艺术家&&飞冰早报",
     "link": "http://fe.jskou.com/",
-    "items": []
+    "items": [
+      {
+        "title": "【canvas】动画原理の万有引力定律",
+        "link": "https://juejin.im/post/5e213c83f265da3e006b3fc0",
+        "date": "2020-01-18"
+      },
+      {
+        "title": "JavaScript️可视化：事件循环",
+        "link": "https://juejin.im/post/5e218b8af265da3e121824eb",
+        "date": "2020-01-18"
+      },
+      {
+        "title": "JavaScript的强语言之路—另类的JSON序列化与反序列化",
+        "link": "https://juejin.im/post/5e1f23d76fb9a02fec664828",
+        "date": "2020-01-18"
+      },
+      {
+        "title": "自动化部署的一小步，前端搬砖的一大步",
+        "link": "https://juejin.im/post/5e206168f265da3e2b2d7560",
+        "date": "2020-01-18"
+      },
+      {
+        "title": "让App热更多个RN项目的解决方案",
+        "link": "https://juejin.im/post/5df6ecec51882512533a876b",
+        "date": "2019-12-18"
+      },
+      {
+        "title": "Vue Testing Crash Course",
+        "link": "https://dev.to/blacksonic/vue-testing-crash-course-59kl",
+        "date": "2019-12-18"
+      },
+      {
+        "title": "淘宝技术架构演进",
+        "link": "https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "Webpack打包改造--插入自定义内容",
+        "link": "https://juejin.im/post/5df4a220f265da33de3a74b0",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "b站全灰，但我一下把它弄回来了——css 滤镜",
+        "link": "https://juejin.im/post/5df3a049f265da33f8652882",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "以中国传统的孔子和老子的思想来分析忍者代码",
+        "link": "https://juejin.im/post/5df06050e51d4557f26e52e3",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "「从模板消息改版订阅消息」小程序推送",
+        "link": "https://juejin.im/post/5df03c3551882512243f9292",
+        "date": "2019-12-12"
+      },
+      {
+        "title": "Flexbox：使用 Auto Margin 对齐",
+        "link": "https://juejin.im/post/5dedb2fd6fb9a016323d7202",
+        "date": "2019-12-12"
+      },
+      {
+        "title": "9102 年，蚂蚁金服前端是怎么写图表的?",
+        "link": "https://zhuanlan.zhihu.com/p/93963320",
+        "date": "2019-12-09"
+      },
+      {
+        "title": "图表制作可以很简单 - 图表魔方 ChartCube",
+        "link": "https://zhuanlan.zhihu.com/p/94269648",
+        "date": "2019-12-09"
+      },
+      {
+        "title": "微前端的核心价值",
+        "link": "https://zhuanlan.zhihu.com/p/95085796",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）",
+        "link": "https://juejin.im/post/5de6474bf265da33af512598",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "你可能不知道的 JavaScript 代码 Chrome 调试方法",
+        "link": "https://zh.javascript.info/debugging-chrome",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "crypto 前后端加解密简单了解",
+        "link": "https://juejin.im/post/5de70298f265da33b12e8221",
+        "date": "2019-12-05"
+      },
+      {
+        "title": "How to choose a JavaScript code editor",
+        "link": "https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/",
+        "date": "2019-12-05"
+      },
+      {
+        "title": "京喜首页（微信购物入口）跨端开发与优化实践",
+        "link": "https://juejin.im/post/5de66e916fb9a015fd699b46",
+        "date": "2019-12-05"
+      },
+      {
+        "title": "Node.js项目TypeScript改造指南",
+        "link": "https://juejin.im/post/5de4867f51882573135415dd",
+        "date": "2019-12-04"
+      },
+      {
+        "title": "EHTML: HTML Framework that allows you write no JavaScript code at all.",
+        "link": "https://guseyn.com/posts/frontend-development-can-and-should-be-simple?v=1.0.173",
+        "date": "2019-12-04"
+      },
+      {
+        "title": "一起console.log()引发的血案",
+        "link": "https://juejin.im/post/5de3ed6e6fb9a0717f5af175",
+        "date": "2019-12-03"
+      },
+      {
+        "title": "从3 个方面增加代码可读性和可维护性",
+        "link": "https://juejin.im/post/5de3b7c4e51d45777714f34f",
+        "date": "2019-12-03"
+      },
+      {
+        "title": "api请求时长与请求数据类型的设计",
+        "link": "https://juejin.im/post/5de28460e51d4532f87096e2",
+        "date": "2019-12-02"
+      },
+      {
+        "title": "（译）JavaScript的工作原理：事件循环和异步编程的兴起 + 5 种 async/await 更好的编码方式",
+        "link": "https://juejin.im/post/5ddf3dce6fb9a071a254721b",
+        "date": "2019-12-02"
+      },
+      {
+        "title": "JavaScript 是怎么工作的：内存管理及怎么处理四种常见的内存泄露",
+        "link": "https://juejin.im/post/5de08bd26fb9a071bb7cab56",
+        "date": "2019-12-02"
+      },
+      {
+        "title": "没有用过这些插件，别说你在用vscode",
+        "link": "https://juejin.im/post/5dc97976e51d45066f3a7b6b",
+        "date": "2019-11-13"
+      },
+      {
+        "title": "云凤蝶可视化搭建的推导与实现",
+        "link": "https://zhuanlan.zhihu.com/p/90746742",
+        "date": "2019-11-13"
+      },
+      {
+        "title": "动画：面试官问我如何在 1 亿数据中快速查找某一整数？",
+        "link": "https://juejin.im/post/5dc786026fb9a04a7847f56a",
+        "date": "2019-11-13"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/docschina/jsweekly",
@@ -14626,6 +14777,26 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "Big Sur 无法搜索 NAS 中的文件？比如我在 NAS 中有个文件夹 A， A 中放了无数的 JPG 和一个 MOV，搜索不到😭",
+        "link": "https://www.v2ex.com/t/728164",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "在百万、千万级数据的一张 PostgreSQL 表中如何高效搜索一个指定的内容",
+        "link": "https://www.v2ex.com/t/728163",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "安卓 Syncthing 无法访问微信的下载文件存放地址，应该怎么破",
+        "link": "https://www.v2ex.com/t/728162",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "拓展坞直接烧坏主板我是怕了",
+        "link": "https://www.v2ex.com/t/728161",
+        "date": "2020-11-22"
+      },
       {
         "title": "最近很浮躁，想去学一下冥想禅修，有推荐的吗？",
         "link": "https://www.v2ex.com/t/728159",
@@ -14764,26 +14935,6 @@
       {
         "title": "是我记忆错乱了，还是中国移动原本就不支持 ipv6",
         "link": "https://www.v2ex.com/t/728115",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "有什么办法能将多个 HTML 页面合并成一个单独页面吗？",
-        "link": "https://www.v2ex.com/t/728114",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "之前在 ymd.mx 上的英雄联盟 S10 竞猜选的 SN，结果输了， S11 他们还有希望吗？",
-        "link": "https://www.v2ex.com/t/728113",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "M1 能够跑 android studio 吗",
-        "link": "https://www.v2ex.com/t/728112",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "V 友们，如何管理公司饭堂？",
-        "link": "https://www.v2ex.com/t/728111",
         "date": "2020-11-22"
       }
     ]
@@ -14951,48 +15102,8 @@
         "date": "2020-11-22"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
         "date": "2020-11-22"
       },
       {
@@ -15001,28 +15112,68 @@
         "date": "2020-11-22"
       },
       {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
+        "link": "https://toutiao.io/k/5lujxq0",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-22"
       },
       {
         "title": "[推荐] 面试过 200 人的经验，都在这里了",
         "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
         "date": "2020-11-22"
       }
     ]

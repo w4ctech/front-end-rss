@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-22 02:47:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-22 03:04:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -30,6 +30,8 @@
 - [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) 
 - [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
+- [2020-11-21-编译型-JSS-框架-Linaria-的原理](https://juejin.im/post/6897763694491631624) 
+- [2020-11-21-一文详解-JavaScript-函数式编程](https://juejin.im/post/6897630004805369864) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -40,6 +42,6 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2020-11-22-各位帮忙看一下这个正则](https://www.v2ex.com/t/727988) 
 - [2020-11-22-推荐一个查看各种软件在-M1-芯片上适配情况的网站](https://www.v2ex.com/t/727971) 
-- [2020-11-21-Bilibili-iOS-版-iPadOS-版都适配了-iPad-好评](https://www.v2ex.com/t/727940) 
+- [2020-11-22-基于-Redis-配置异步-Celery](https://toutiao.io/k/6ermrzb) 
 - [2020-11-20-同步与异步-Python-有何不同?](https://sec.thief.one/article_content?a_id=6fec97b27fa30c5f49c972327eb5852f) 
 - [2020-11-19-再见,正则表达式](https://sec.thief.one/article_content?a_id=a1dd1111232e9f125da3882318a05e83) 

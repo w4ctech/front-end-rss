@@ -14551,29 +14551,29 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "Babel的奇妙冒险",
-        "link": "https://juejin.im/post/6897588304829480974",
+        "title": "编译型 JSS 框架 Linaria 的原理",
+        "link": "https://juejin.im/post/6897763694491631624",
         "date": "2020-11-21"
       },
       {
-        "title": "Webpack 5中开发loader所遇到的各种问题",
-        "link": "https://juejin.im/post/6897575210514382862",
+        "title": "一篇文章带你了解CSS3按钮知识",
+        "link": "https://juejin.im/post/6897739815920500743",
         "date": "2020-11-21"
       },
       {
-        "title": "面向对象思想和原型链",
-        "link": "https://juejin.im/post/6897564868753391623",
+        "title": "多条文字切换滚动实现（React、JS）",
+        "link": "https://juejin.im/post/6897641069920387085",
         "date": "2020-11-21"
       },
       {
-        "title": "三步法解析Axios源码",
-        "link": "https://juejin.im/post/6897561414787645453",
+        "title": "如何快速理解BFC",
+        "link": "https://juejin.im/post/6897634995179880461",
         "date": "2020-11-21"
       },
       {
-        "title": "OpenFaaS部署实战| 🏆 技术专题第七期征文",
-        "link": "https://juejin.im/post/6897186109814980615",
-        "date": "2020-11-20"
+        "title": "一文详解 JavaScript 函数式编程",
+        "link": "https://juejin.im/post/6897630004805369864",
+        "date": "2020-11-21"
       }
     ]
   },
@@ -14758,6 +14758,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教一个 elementUI 的 upload 组件使用的问题",
+        "link": "https://www.v2ex.com/t/727994",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "goflutter desktop 项目， hover run 运行可以 但是 flutter run -d windows 报错找不到 channel 实现类",
+        "link": "https://www.v2ex.com/t/727993",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "Raspbian 卸载 lxde 装 gnome 后 WiFi 连接不可用",
+        "link": "https://www.v2ex.com/t/727992",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[视频教程] 6 个苹果网站特效的实现方法",
+        "link": "https://www.v2ex.com/t/727991",
+        "date": "2020-11-22"
+      },
+      {
         "title": "Chrome 如何排查 Injected CSS 是哪个插件 inject 的？",
         "link": "https://www.v2ex.com/t/727989",
         "date": "2020-11-22"
@@ -14921,26 +14941,6 @@
         "title": "CorelDraw 用全角空格不对齐",
         "link": "https://www.v2ex.com/t/727947",
         "date": "2020-11-21"
-      },
-      {
-        "title": "photopea.com 作为一款 PS 的替代品在某些方面完胜 Affinity 和开源的 Krita",
-        "link": "https://www.v2ex.com/t/727944",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "SQLITE 哪个版本稳定！",
-        "link": "https://www.v2ex.com/t/727943",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "分享一个 HCaaS 推广链接",
-        "link": "https://www.v2ex.com/t/727942",
-        "date": "2020-11-21"
-      },
-      {
-        "title": "Bilibili iOS 版 iPadOS 版都适配了 iPad 好评",
-        "link": "https://www.v2ex.com/t/727940",
-        "date": "2020-11-21"
       }
     ]
   },
@@ -15052,10 +15052,136 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/toutiao/today",
+    "rss": "https://rss.itggg.cn/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "毕业两年，如何在帝都购房上车：石头买房经验谈（上）",
+        "link": "https://toutiao.io/k/dfei7ms",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "听说这是未来最流行的编程形式",
+        "link": "https://toutiao.io/k/mmp3sl8",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "Golang 程序性能分析（一）：pprof 和 go-torch",
+        "link": "https://toutiao.io/k/s0r9vv5",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "为什么十年寒窗，比不上几代人的努力",
+        "link": "https://toutiao.io/k/uxwalux",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "现代化 Web 开发实践之 PWA",
+        "link": "https://toutiao.io/k/ysewa46",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "容器技术之容器引擎与江湖门派",
+        "link": "https://toutiao.io/k/bi0spuk",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "KubeVela 正式开源：一个高可扩展的云原生应用平台与核心引擎",
+        "link": "https://toutiao.io/k/dofk8zg",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "基于 Redis 配置异步 Celery",
+        "link": "https://toutiao.io/k/6ermrzb",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "使用 StatefulSet 部署 etcd 集群",
+        "link": "https://toutiao.io/k/bfeadg0",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
+        "link": "https://toutiao.io/k/5lujxq0",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-22"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

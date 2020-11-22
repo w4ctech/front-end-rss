@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-22 14:12:59，:rocket: 更新条数: +3055， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-22 14:23:48，:rocket: 更新条数: +3071， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,9 +36,9 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -320,16 +320,6 @@
 </summary>
 
 
-- [2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) ![](assets/new.png)  
-- [2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) ![](assets/new.png)  
-- [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) ![](assets/new.png)  
-- [2020-10-24-图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/) ![](assets/new.png)  
-- [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) ![](assets/new.png)  
-- [2020-10-19-如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/) ![](assets/new.png)  
-- [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) ![](assets/new.png)  
-- [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) ![](assets/new.png)  
-- [2020-10-11-快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/) ![](assets/new.png)  
-- [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -355,16 +345,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +513,26 @@
 </summary>
 
 
+- [2020-11-22-数字签名原理的疑问](https://www.v2ex.com/t/728142) ![](assets/new.png)  
+- [2020-11-22-成都电信已经支持开通-5G-SA-网络](https://www.v2ex.com/t/728141) ![](assets/new.png)  
+- [2020-11-22-为什么手机-YY-语音延迟这么高？](https://www.v2ex.com/t/728139) ![](assets/new.png)  
+- [2020-11-22-Ryzen-5800x-X570-AORUS-PRO-WIFI-OC0.6.4-Big-Sur](https://www.v2ex.com/t/728138) ![](assets/new.png)  
+- [2020-11-22-做个社交产品取悦自己（腾讯产品创业求支持）](https://www.v2ex.com/t/728137) ![](assets/new.png)  
+- [2020-11-22-长期有大量项目，业余有丰富时间的朋友可以加我！目前需要-flutter-一枚](https://www.v2ex.com/t/728135) ![](assets/new.png)  
+- [2020-11-22-现在做助农电商平台还有机会吗？](https://www.v2ex.com/t/728132) ![](assets/new.png)  
+- [2020-11-22-国内的独立开发者需要学习-UI-设计吗？](https://www.v2ex.com/t/728131) ![](assets/new.png)  
+- [2020-11-22-迫于微软的-appcenter-被墙，请问各位老铁还有哪个统计分析平台支持-mac-app-的？](https://www.v2ex.com/t/728130) ![](assets/new.png)  
+- [2020-11-22-一台多接口电视有哪些玩法](https://www.v2ex.com/t/728128) ![](assets/new.png)  
+- [2020-11-22-作为-macOS-平台软件的开发者，你都需要做哪些适配工作？难度如何？](https://www.v2ex.com/t/728127) ![](assets/new.png)  
+- [2020-11-22-关于网盘（个人盘）的方案探讨](https://www.v2ex.com/t/728125) ![](assets/new.png)  
+- [2020-11-22-M1-打不开佳能扫描仪程序](https://www.v2ex.com/t/728124) ![](assets/new.png)  
+- [2020-11-22-/*初学者*/react-函数组件如何把自己的-useState-向上传，或者是外部如果获取某个组件的-state](https://www.v2ex.com/t/728122) ![](assets/new.png)  
+- [2020-11-22-M1-不支持扩展双-HDMI-显示](https://www.v2ex.com/t/728120) ![](assets/new.png)  
+- [2020-11-22-有没有类似-peper-这样简洁但是功能齐全的-hugo-主题](https://www.v2ex.com/t/728119) ![](assets/new.png)  
+- [2020-11-22-凛冬将至，你的它来了吗？](https://www.v2ex.com/t/728118) ![](assets/new.png)  
+- [2020-11-22-cdn-方式构建的-vue-项目怎么自定义组件及复用](https://www.v2ex.com/t/728117) ![](assets/new.png)  
+- [2020-11-22-有什么企业网盘适合存储大量图片，并有子账号随时上传的？](https://www.v2ex.com/t/728116) ![](assets/new.png)  
+- [2020-11-22-是我记忆错乱了，还是中国移动原本就不支持-ipv6](https://www.v2ex.com/t/728115) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -585,16 +585,16 @@
 - [2020-11-22-KubeVela-正式开源：一个高可扩展的云原生应用平台与核心引擎](https://toutiao.io/k/dofk8zg) ![](assets/new.png)  
 - [2020-11-22-基于-Redis-配置异步-Celery](https://toutiao.io/k/6ermrzb) ![](assets/new.png)  
 - [2020-11-22-使用-StatefulSet-部署-etcd-集群](https://toutiao.io/k/bfeadg0) ![](assets/new.png)  
-- [2020-11-22-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
-- [2020-11-22-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
-- [2020-11-22-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
-- [2020-11-22-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-22-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-22-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
-- [2020-11-22-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-22-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
 - [2020-11-22-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
-- [2020-11-22-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
-- [2020-11-22-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-22-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-22-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
+- [2020-11-22-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-22-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-22-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
+- [2020-11-22-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
+- [2020-11-22-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-22-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

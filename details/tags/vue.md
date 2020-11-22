@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-22 11:47:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-22 12:04:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -8,5 +8,4 @@
 
 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
-- [2020-11-21-从Vue源码的角度解析面试题一](https://juejin.im/post/6897844050297094158) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

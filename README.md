@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-22 04:04:17，:rocket: 更新条数: +3088， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-22 04:13:59，:rocket: 更新条数: +3088， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-22-白嫖了一年-Apple-TV+](https://www.v2ex.com/t/728016) ![](assets/new.png)  
+- [2020-11-22-微信-iOS-的星标朋友把对方删了还有星标？](https://www.v2ex.com/t/728015) ![](assets/new.png)  
 - [2020-11-22-新买的-iPhone-12-无法用-Type-C-to-Lightning-线充电](https://www.v2ex.com/t/728014) ![](assets/new.png)  
 - [2020-11-22-平时写代码用得上-i9-10900K-/-3950x-这样的处理器吗?-Golang/-Python-/Vue](https://www.v2ex.com/t/728013) ![](assets/new.png)  
 - [2020-11-22-字节跳动北京&深圳直播中台团队急招研发工程师，校招-&-社招均有，大量岗位等你来](https://www.v2ex.com/t/728010) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-22-Raspbian-卸载-lxde-装-gnome-后-WiFi-连接不可用](https://www.v2ex.com/t/727992) ![](assets/new.png)  
 - [2020-11-22-视频教程-6-个苹果网站特效的实现方法](https://www.v2ex.com/t/727991) ![](assets/new.png)  
 - [2020-11-22-Chrome-如何排查-Injected-CSS-是哪个插件-inject-的？](https://www.v2ex.com/t/727989) ![](assets/new.png)  
-- [2020-11-22-各位帮忙看一下这个正则](https://www.v2ex.com/t/727988) ![](assets/new.png)  
-- [2020-11-22-社招杭州阿里菜鸟-P6-可帮内推，期待你的加入～](https://www.v2ex.com/t/727987) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-22-KubeVela-正式开源：一个高可扩展的云原生应用平台与核心引擎](https://toutiao.io/k/dofk8zg) ![](assets/new.png)  
 - [2020-11-22-基于-Redis-配置异步-Celery](https://toutiao.io/k/6ermrzb) ![](assets/new.png)  
 - [2020-11-22-使用-StatefulSet-部署-etcd-集群](https://toutiao.io/k/bfeadg0) ![](assets/new.png)  
-- [2020-11-22-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
-- [2020-11-22-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
-- [2020-11-22-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-22-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
-- [2020-11-22-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
+- [2020-11-22-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
 - [2020-11-22-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
-- [2020-11-22-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
-- [2020-11-22-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
-- [2020-11-22-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
+- [2020-11-22-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-22-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
 - [2020-11-22-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-22-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-22-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
+- [2020-11-22-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-22-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
+- [2020-11-22-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

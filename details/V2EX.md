@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-22 06:42:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-22 06:47:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-22-MacOS-ibook-如何禁止弹出-默认词典](https://www.v2ex.com/t/728043) 
 - [2020-11-22-🔥🔥🔥-新加坡-Shopee-招后台研发，包含-Kubernetes、Nginx、-Linux-Kernel-等不同方向](https://www.v2ex.com/t/728042) 
 - [2020-11-22-腾讯招聘也太恶心了，还打包候选人简历信息出售的？](https://www.v2ex.com/t/728041) 
 - [2020-11-22-Big-Sur-状态栏图标无法固定顺序](https://www.v2ex.com/t/728040) 
@@ -42,4 +43,3 @@
 - [2020-11-22-tensorflow_macos-速度测试](https://www.v2ex.com/t/727999) 
 - [2020-11-22-win10-资源管理器上方有一个白条](https://www.v2ex.com/t/727997) 
 - [2020-11-22-请教一个-elementUI-的-upload-组件使用的问题](https://www.v2ex.com/t/727994) 
-- [2020-11-22-goflutter-desktop-项目，-hover-run-运行可以-但是-flutter-run--d-windows-报错找不到-channel-实现类](https://www.v2ex.com/t/727993) 

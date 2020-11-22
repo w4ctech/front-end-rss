@@ -14773,6 +14773,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "M1 不支持扩展双 HDMI 显示",
+        "link": "https://www.v2ex.com/t/728120",
+        "date": "2020-11-22"
+      },
+      {
         "title": "有没有类似 peper 这样简洁但是功能齐全的 hugo 主题",
         "link": "https://www.v2ex.com/t/728119",
         "date": "2020-11-22"
@@ -14986,11 +14991,6 @@
         "title": "怎么收不到 Google 日历的通知了？",
         "link": "https://www.v2ex.com/t/728071",
         "date": "2020-11-22"
-      },
-      {
-        "title": "立水桥佳运园找室友一起整租两居",
-        "link": "https://www.v2ex.com/t/728070",
-        "date": "2020-11-22"
       }
     ]
   },
@@ -15157,38 +15157,8 @@
         "date": "2020-11-22"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
-        "link": "https://toutiao.io/k/ekz4xzi",
-        "date": "2020-11-22"
-      },
-      {
         "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
         "link": "https://toutiao.io/k/5lujxq0",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-22"
       },
       {
@@ -15197,8 +15167,28 @@
         "date": "2020-11-22"
       },
       {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-22"
       },
       {
@@ -15207,23 +15197,33 @@
         "date": "2020-11-22"
       },
       {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
-        "date": "2020-11-22"
-      },
-      {
         "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
         "link": "https://toutiao.io/k/b2q9ajw",
         "date": "2020-11-22"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-22"
       },
       {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-22"
       },
       {
@@ -15238,6 +15238,21 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "f-string 竟然能有 73 个例子,我要学习下",
+        "link": "https://sec.thief.one/article_content?a_id=e457801bef6f161ad94568105ac9bb65",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "奇安信专家:工控系统存三大安全问题 内生安全势在必行",
+        "link": "https://sec.thief.one/article_content?a_id=05e6cb52655319cbd2540abfea864398",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "AIoT安全峰会议题回顾|车联网安全的攻与防",
+        "link": "https://sec.thief.one/article_content?a_id=2863b73e532223c93ab628d48f2da29c",
+        "date": "2020-11-22"
+      },
       {
         "title": "构建网络空间命运共同体取得越来越多国际共识",
         "link": "https://sec.thief.one/article_content?a_id=ea5252de129534dee0fbb030d670b8b6",
@@ -15286,6 +15301,11 @@
       {
         "title": "解读未来业务驱动力:Gartner 2021年主要战略技术趋势",
         "link": "https://sec.thief.one/article_content?a_id=4210e8491125de39039bf2fe77aea311",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "厉害了!可以用 React 编写 VS Code TreeView 啦!",
+        "link": "https://sec.thief.one/article_content?a_id=3869866fc2312343900fbf0879753a11",
         "date": "2020-11-22"
       },
       {
@@ -15716,26 +15736,6 @@
       {
         "title": "泰国SEC修订净资本要求规则,以便提高流动性并支持数字资产业务",
         "link": "https://sec.thief.one/article_content?a_id=3572cea70cfc2d6ccb6737fb8f9fd04f",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "“断卡行动”重拳出击,银行如何用技术手段响应监管要求、遏止黑产...",
-        "link": "https://sec.thief.one/article_content?a_id=f0027a102edcb1b0344b6220f3fdf70f",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "2020云安全联盟大中华区大会将于12月4日开幕",
-        "link": "https://sec.thief.one/article_content?a_id=93c6bea7e3a3708c52589dafa6c25434",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "DSRC助力 | 报名开始!补天白帽城市沙龙-成都站",
-        "link": "https://sec.thief.one/article_content?a_id=2077564af5bb547ca67f7bf298fcdff8",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "K神手札:比特币上蹿下跳意欲何为?",
-        "link": "https://sec.thief.one/article_content?a_id=b5489fead563e5424c8202925b0ab40f",
         "date": "2020-11-19"
       }
     ]

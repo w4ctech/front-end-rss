@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-22 12:51:43，:rocket: 更新条数: +3098， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-22 13:04:07，:rocket: 更新条数: +3098， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-22-M1-不支持扩展双-HDMI-显示](https://www.v2ex.com/t/728120) ![](assets/new.png)  
 - [2020-11-22-有没有类似-peper-这样简洁但是功能齐全的-hugo-主题](https://www.v2ex.com/t/728119) ![](assets/new.png)  
 - [2020-11-22-凛冬将至，你的它来了吗？](https://www.v2ex.com/t/728118) ![](assets/new.png)  
 - [2020-11-22-cdn-方式构建的-vue-项目怎么自定义组件及复用](https://www.v2ex.com/t/728117) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-22-老哥们,求助-MongoDB-的问题!](https://www.v2ex.com/t/728101) ![](assets/new.png)  
 - [2020-11-22-有人尝试过-Mac-的以旧换新么？](https://www.v2ex.com/t/728098) ![](assets/new.png)  
 - [2020-11-22-您知道免费的-SMS-身份验证服务吗？](https://www.v2ex.com/t/728097) ![](assets/new.png)  
-- [2020-11-22-MX-Master-3-的自定义按键设置不定时重置为默认的案件，请问有朋友遇到过吗？](https://www.v2ex.com/t/728096) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-22-KubeVela-正式开源：一个高可扩展的云原生应用平台与核心引擎](https://toutiao.io/k/dofk8zg) ![](assets/new.png)  
 - [2020-11-22-基于-Redis-配置异步-Celery](https://toutiao.io/k/6ermrzb) ![](assets/new.png)  
 - [2020-11-22-使用-StatefulSet-部署-etcd-集群](https://toutiao.io/k/bfeadg0) ![](assets/new.png)  
-- [2020-11-22-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
-- [2020-11-22-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
-- [2020-11-22-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
 - [2020-11-22-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
-- [2020-11-22-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-22-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
-- [2020-11-22-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
 - [2020-11-22-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
-- [2020-11-22-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-22-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-22-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-22-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
+- [2020-11-22-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-22-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
 - [2020-11-22-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-22-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
+- [2020-11-22-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -626,6 +626,9 @@
 </summary>
 
 
+- [2020-11-22-f-string-竟然能有-73-个例子,我要学习下](https://sec.thief.one/article_content?a_id=e457801bef6f161ad94568105ac9bb65) ![](assets/new.png)  
+- [2020-11-22-奇安信专家:工控系统存三大安全问题-内生安全势在必行](https://sec.thief.one/article_content?a_id=05e6cb52655319cbd2540abfea864398) ![](assets/new.png)  
+- [2020-11-22-AIoT安全峰会议题回顾|车联网安全的攻与防](https://sec.thief.one/article_content?a_id=2863b73e532223c93ab628d48f2da29c) ![](assets/new.png)  
 - [2020-11-22-构建网络空间命运共同体取得越来越多国际共识](https://sec.thief.one/article_content?a_id=ea5252de129534dee0fbb030d670b8b6) ![](assets/new.png)  
 - [2020-11-22-基于Flink的网络流量实时解析](https://sec.thief.one/article_content?a_id=cec85b67330f3b27268be171a27933cc) ![](assets/new.png)  
 - [2020-11-22-Frida和Xposed打印init_array的字符串解密函数](https://sec.thief.one/article_content?a_id=1936c99c5aba436429f88c1493f18d33) ![](assets/new.png)  
@@ -636,16 +639,13 @@
 - [2020-11-22-印度警方:孟买近期大规模停电或是敌对APT攻击所为](https://sec.thief.one/article_content?a_id=9c7cdce8116a9432e8b96a97b8c2d716) ![](assets/new.png)  
 - [2020-11-22-OKEx:开放提币时间实锤-暂停提币余波犹存](https://sec.thief.one/article_content?a_id=0af345e0123af26b23dcf649bfddb556) ![](assets/new.png)  
 - [2020-11-22-解读未来业务驱动力:Gartner-2021年主要战略技术趋势](https://sec.thief.one/article_content?a_id=4210e8491125de39039bf2fe77aea311) ![](assets/new.png)  
+- [2020-11-22-厉害了!可以用-React-编写-VS-Code-TreeView-啦!](https://sec.thief.one/article_content?a_id=3869866fc2312343900fbf0879753a11) ![](assets/new.png)  
 - [2020-11-22-Web安全:目录穿越漏洞](https://sec.thief.one/article_content?a_id=19e81cf506c744f0234db32e9c29270c) ![](assets/new.png)  
 - [2020-11-22-又一名网络诈骗犯因盗窃900万美元被判刑](https://sec.thief.one/article_content?a_id=fc88bc1df239a7bb2f39d682db14433d) ![](assets/new.png)  
 - [2020-11-22-如何使用-sklearn-优雅地进行数据挖掘?](https://sec.thief.one/article_content?a_id=3514089f9b7776f133839152a1b7042b) ![](assets/new.png)  
 - [2020-11-22-农行因泄露客户信息等被罚1223万元!](https://sec.thief.one/article_content?a_id=08968bb963c1436fedceafe48ebc906a) ![](assets/new.png)  
 - [2020-11-22-长三角肺癌协作组肿瘤类器官模型汇总](https://sec.thief.one/article_content?a_id=15ebd0a4bbbaba2cc0c1984a84739877) ![](assets/new.png)  
 - [2020-11-22-你们猜猜,哪个省的女生最爱丰胸?](https://sec.thief.one/article_content?a_id=d6dea7a0afb8a2168dbd3017872d9474) ![](assets/new.png)  
-- [2020-11-21-2020-WCTF高手过招,“以赛代打”新模式培育网安实战人才](https://sec.thief.one/article_content?a_id=d491119208b95efee9d034e19255c552) ![](assets/new.png)  
-- [2020-11-21-用了-10-年-Windows-后,我最终转向-Linux](https://sec.thief.one/article_content?a_id=90c6225c9211c253064ec30adcc1e0d9) ![](assets/new.png)  
-- [2020-11-21-在看-|-一周网安回顾-2020.11.14~11.20](https://sec.thief.one/article_content?a_id=a69868b61fffc7f88b455066bc931d98) ![](assets/new.png)  
-- [2020-11-21-AIoT安全峰会议题回顾|针对汽车无钥匙进入的中继攻击及防护](https://sec.thief.one/article_content?a_id=efa8f668272a841c2cea4019210b6ca9) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

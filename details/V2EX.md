@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-22 04:13:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-22 04:28:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-22-讨论一个关于开发变现的想法](https://www.v2ex.com/t/728018) 
+- [2020-11-22-光猫桥接路由器后-电视插网线无法没有网络](https://www.v2ex.com/t/728017) 
 - [2020-11-22-白嫖了一年-Apple-TV+](https://www.v2ex.com/t/728016) 
 - [2020-11-22-微信-iOS-的星标朋友把对方删了还有星标？](https://www.v2ex.com/t/728015) 
 - [2020-11-22-新买的-iPhone-12-无法用-Type-C-to-Lightning-线充电](https://www.v2ex.com/t/728014) 
@@ -41,4 +43,3 @@
 - [2020-11-22-推荐一个查看各种软件在-M1-芯片上适配情况的网站](https://www.v2ex.com/t/727971) 
 - [2020-11-22-关于-Apple-M1-的群众意见每日汇总-码农方向2020.11.22](https://www.v2ex.com/t/727970) 
 - [2020-11-22-Ars-Techinca-对-ARM-架构-chrome-87-在-m1-芯片的跑分](https://www.v2ex.com/t/727969) 
-- [2020-11-22-我该选-M1-的-Pro-还是-Air?](https://www.v2ex.com/t/727967) 

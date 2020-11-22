@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-22 04:47:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-22 05:04:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -41,7 +41,6 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2020-11-22-光猫桥接路由器后-电视插网线无法没有网络](https://www.v2ex.com/t/728017) 
 - [2020-11-22-各位帮忙看一下这个正则](https://www.v2ex.com/t/727988) 
-- [2020-11-22-推荐一个查看各种软件在-M1-芯片上适配情况的网站](https://www.v2ex.com/t/727971) 
 - [2020-11-22-基于-Redis-配置异步-Celery](https://toutiao.io/k/6ermrzb) 
 - [2020-11-20-同步与异步-Python-有何不同?](https://sec.thief.one/article_content?a_id=6fec97b27fa30c5f49c972327eb5852f) 
 - [2020-11-19-再见,正则表达式](https://sec.thief.one/article_content?a_id=a1dd1111232e9f125da3882318a05e83) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-22 09:04:12，:rocket: 更新条数: +3325， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-22 09:11:55，:rocket: 更新条数: +3326， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,8 @@
 </summary>
 
 
+- [2020-11-22-怎么找出-Google-Photos-的原画照片？](https://www.v2ex.com/t/728077) ![](assets/new.png)  
+- [2020-11-22-刚学完基础，有没有什么简单点的练手程序推荐下](https://www.v2ex.com/t/728076) ![](assets/new.png)  
 - [2020-11-22-难道我的-py-和你们的不一样？](https://www.v2ex.com/t/728075) ![](assets/new.png)  
 - [2020-11-22-想知道大家怎么解决卧室里灰尘和毛絮打扫不干净的问题，卧室一直有衣服掉下来的毛絮，吃饭的话会飘到碗里](https://www.v2ex.com/t/728074) ![](assets/new.png)  
 - [2020-11-22-rsync,scp-均遇到传输文件-size=0-的尴尬问题](https://www.v2ex.com/t/728073) ![](assets/new.png)  
@@ -571,8 +573,6 @@
 - [2020-11-22-15-年的-T450-现在还能值多少钱](https://www.v2ex.com/t/728057) ![](assets/new.png)  
 - [2020-11-22-几个-mp4-教程录像，如何给用户观看最方便？](https://www.v2ex.com/t/728056) ![](assets/new.png)  
 - [2020-11-22-迫于失业，想学下-Java-。学完基础看了下-SSM，我的个老天，-Spring-什么的也太难了吧](https://www.v2ex.com/t/728055) ![](assets/new.png)  
-- [2020-11-22-一个-Mac-上不错的录屏解说软件](https://www.v2ex.com/t/728054) ![](assets/new.png)  
-- [2020-11-22-做了个-iOS-14-widget-的应用，这会儿是不是已经赶不上热度了](https://www.v2ex.com/t/728053) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -625,16 +625,16 @@
 - [2020-11-22-容器技术之容器引擎与江湖门派](https://toutiao.io/k/bi0spuk) ![](assets/new.png)  
 - [2020-11-22-基于-Redis-配置异步-Celery](https://toutiao.io/k/6ermrzb) ![](assets/new.png)  
 - [2020-11-22-使用-StatefulSet-部署-etcd-集群](https://toutiao.io/k/bfeadg0) ![](assets/new.png)  
-- [2020-11-22-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
-- [2020-11-22-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-22-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-22-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-22-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
-- [2020-11-22-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-22-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
 - [2020-11-22-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
-- [2020-11-22-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-22-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-22-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
+- [2020-11-22-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-22-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-22-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-22-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
 - [2020-11-22-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
+- [2020-11-22-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
+- [2020-11-22-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

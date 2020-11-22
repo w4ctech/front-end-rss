@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-22 00:07:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-22 00:31:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -32,6 +32,7 @@
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-11-20-【WebAPI小案例之】拖放图片到浏览器并预览](https://juejin.im/post/6897157786778468365) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-22-黑群晖用-zerotier-外网访问，有啥风险吗？](https://www.v2ex.com/t/727964) 
 - [2020-11-21-请求黑果显示器音效不输出问题](https://www.v2ex.com/t/727915) 
 - [2020-11-21-AIoT安全峰会议题回顾|针对汽车无钥匙进入的中继攻击及防护](https://sec.thief.one/article_content?a_id=efa8f668272a841c2cea4019210b6ca9) 
 - [2020-11-21-MaAfee-2020-网络安全威胁报告](https://sec.thief.one/article_content?a_id=e8f40f4dec4f2addad8e244814222114) 

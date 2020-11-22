@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-22 00:07:34，:rocket: 更新条数: +3318， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-22 00:31:16，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-22-黑群晖用-zerotier-外网访问，有啥风险吗？](https://www.v2ex.com/t/727964) ![](assets/new.png)  
 - [2020-11-21-想在山东省济南市安装一条上下对等的联通宽带，不知道该联系谁](https://www.v2ex.com/t/727963) ![](assets/new.png)  
 - [2020-11-21-大家觉得黑屏手势是否必要](https://www.v2ex.com/t/727962) ![](assets/new.png)  
 - [2020-11-21-果然-我的-iPhone12-Pro-屏幕还是有问题](https://www.v2ex.com/t/727961) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-21-历经-3-年，终于得以实现了](https://www.v2ex.com/t/727939) ![](assets/new.png)  
 - [2020-11-21-请问这是哪部剧？挺有趣的](https://www.v2ex.com/t/727938) ![](assets/new.png)  
 - [2020-11-21-用来同步存储文件，用哪个网盘好？](https://www.v2ex.com/t/727937) ![](assets/new.png)  
-- [2020-11-21-Macbook,在-touchbar-还是-AIR-的实体功能键两者之间徘徊](https://www.v2ex.com/t/727936) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -615,26 +615,21 @@
 </summary>
 
 
-- [2020-11-22-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
-- [2020-11-22-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
-- [2020-11-22-基于-Serverless-的-Valine-可能并没有那么香](https://toutiao.io/k/qmjvpsd) ![](assets/new.png)  
-- [2020-11-22-Golang-语言标准库-sync-包的-Cond-怎么使用？](https://toutiao.io/k/cwpgcnp) ![](assets/new.png)  
-- [2020-11-22-译-泛型和元编程的模型：Java,-Go,-Rust,-Swift,-D-等](https://toutiao.io/k/dnlke8h) ![](assets/new.png)  
-- [2020-11-22-携程移动直播探索](https://toutiao.io/k/74b20h5) ![](assets/new.png)  
-- [2020-11-22-重磅：Go-errors-将不会有任何进一步的改进计划](https://toutiao.io/k/p94r3b6) ![](assets/new.png)  
-- [2020-11-22-腾讯-IMWEB-前端团队一站式-Serverless-开发解决方案](https://toutiao.io/k/jbwdrr3) ![](assets/new.png)  
-- [2020-11-22-C++-从-vector-扩容看-noexcept-应用场景](https://toutiao.io/k/61t808c) ![](assets/new.png)  
-- [2020-11-22-Elasticsearch-空值处理实战指南](https://toutiao.io/k/057haec) ![](assets/new.png)  
 - [2020-11-22-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-22-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
-- [2020-11-22-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-22-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
-- [2020-11-22-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
-- [2020-11-22-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
-- [2020-11-22-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
-- [2020-11-22-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
+- [2020-11-22-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
 - [2020-11-22-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
 - [2020-11-22-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-22-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
+- [2020-11-22-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
+- [2020-11-22-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
+- [2020-11-22-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
+- [2020-11-22-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
+- [2020-11-22-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-22-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
+- [2020-11-22-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-22-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-22-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-22-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

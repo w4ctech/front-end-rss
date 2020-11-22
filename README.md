@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-22 14:04:20，:rocket: 更新条数: +3095， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-22 14:12:59，:rocket: 更新条数: +3055， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -453,10 +453,10 @@
 </summary>
 
 
+- [2020-11-22-「硬核JS」数字之美](https://juejin.im/post/6897949585558208525) ![](assets/new.png)  
 - [2020-11-22-移动端开发一些常见问题的解决方案](https://juejin.im/post/6897937643372937224) ![](assets/new.png)  
 - [2020-11-22-jsliang-求职系列---21---浏览器缓存](https://juejin.im/post/6897924696373723143) ![](assets/new.png)  
 - [2020-11-22-探索-React-合成事件](https://juejin.im/post/6897911576053940231) ![](assets/new.png)  
-- [2020-11-22-进程守护工具:-Supervisor-启动下的服务，Too-many-open-file-错误的限制](https://juejin.im/post/6897891712253837326) ![](assets/new.png)  
 - [2020-11-22-有必要使用服务端渲染（SSR）吗？](https://juejin.im/post/6897856750947893255) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -533,26 +533,6 @@
 </summary>
 
 
-- [2020-11-22-现在做助农电商平台还有机会吗？](https://www.v2ex.com/t/728132) ![](assets/new.png)  
-- [2020-11-22-国内的独立开发者需要学习-UI-设计吗？](https://www.v2ex.com/t/728131) ![](assets/new.png)  
-- [2020-11-22-迫于微软的-appcenter-被墙，请问各位老铁还有哪个统计分析平台支持-mac-app-的？](https://www.v2ex.com/t/728130) ![](assets/new.png)  
-- [2020-11-22-一台多接口电视有哪些玩法](https://www.v2ex.com/t/728128) ![](assets/new.png)  
-- [2020-11-22-作为-macOS-平台软件的开发者，你都需要做哪些适配工作？难度如何？](https://www.v2ex.com/t/728127) ![](assets/new.png)  
-- [2020-11-22-关于网盘（个人盘）的方案探讨](https://www.v2ex.com/t/728125) ![](assets/new.png)  
-- [2020-11-22-M1-打不开佳能扫描仪程序](https://www.v2ex.com/t/728124) ![](assets/new.png)  
-- [2020-11-22-/*初学者*/react-函数组件如何把自己的-useState-向上传，或者是外部如果获取某个组件的-state](https://www.v2ex.com/t/728122) ![](assets/new.png)  
-- [2020-11-22-M1-不支持扩展双-HDMI-显示](https://www.v2ex.com/t/728120) ![](assets/new.png)  
-- [2020-11-22-有没有类似-peper-这样简洁但是功能齐全的-hugo-主题](https://www.v2ex.com/t/728119) ![](assets/new.png)  
-- [2020-11-22-凛冬将至，你的它来了吗？](https://www.v2ex.com/t/728118) ![](assets/new.png)  
-- [2020-11-22-cdn-方式构建的-vue-项目怎么自定义组件及复用](https://www.v2ex.com/t/728117) ![](assets/new.png)  
-- [2020-11-22-有什么企业网盘适合存储大量图片，并有子账号随时上传的？](https://www.v2ex.com/t/728116) ![](assets/new.png)  
-- [2020-11-22-是我记忆错乱了，还是中国移动原本就不支持-ipv6](https://www.v2ex.com/t/728115) ![](assets/new.png)  
-- [2020-11-22-有什么办法能将多个-HTML-页面合并成一个单独页面吗？](https://www.v2ex.com/t/728114) ![](assets/new.png)  
-- [2020-11-22-之前在-ymd.mx-上的英雄联盟-S10-竞猜选的-SN，结果输了，-S11-他们还有希望吗？](https://www.v2ex.com/t/728113) ![](assets/new.png)  
-- [2020-11-22-M1-能够跑-android-studio-吗](https://www.v2ex.com/t/728112) ![](assets/new.png)  
-- [2020-11-22-V-友们，如何管理公司饭堂？](https://www.v2ex.com/t/728111) ![](assets/new.png)  
-- [2020-11-22-求助-iPhone12](https://www.v2ex.com/t/728109) ![](assets/new.png)  
-- [2020-11-22-CrossOver-在-macOS-上运行-Windows-应用，效果很惊艳啊](https://www.v2ex.com/t/728108) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +585,16 @@
 - [2020-11-22-KubeVela-正式开源：一个高可扩展的云原生应用平台与核心引擎](https://toutiao.io/k/dofk8zg) ![](assets/new.png)  
 - [2020-11-22-基于-Redis-配置异步-Celery](https://toutiao.io/k/6ermrzb) ![](assets/new.png)  
 - [2020-11-22-使用-StatefulSet-部署-etcd-集群](https://toutiao.io/k/bfeadg0) ![](assets/new.png)  
-- [2020-11-22-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
-- [2020-11-22-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-22-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
-- [2020-11-22-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [2020-11-22-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
+- [2020-11-22-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-22-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
+- [2020-11-22-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-22-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-22-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
 - [2020-11-22-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
-- [2020-11-22-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-22-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
 - [2020-11-22-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
-- [2020-11-22-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-22-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
+- [2020-11-22-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

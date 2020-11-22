@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-22 01:42:27，:rocket: 更新条数: +3087， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-22 01:48:32，:rocket: 更新条数: +3088， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-22-出一些杂物：-1+7P、-iPhone-配件未拆、DPT-RP1、-iPad-键盘、1A-DAC](https://www.v2ex.com/t/727976) ![](assets/new.png)  
+- [2020-11-22-老-web-项目加几个页面-打算用用现代前端框架](https://www.v2ex.com/t/727975) ![](assets/new.png)  
 - [2020-11-22-Termius-好在哪儿？](https://www.v2ex.com/t/727974) ![](assets/new.png)  
 - [2020-11-22-2070s-跑不了-gpt2](https://www.v2ex.com/t/727973) ![](assets/new.png)  
 - [2020-11-22-推荐一个查看各种软件在-M1-芯片上适配情况的网站](https://www.v2ex.com/t/727971) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-21-windows-下如何查看正在运行的-PHP-文件?](https://www.v2ex.com/t/727955) ![](assets/new.png)  
 - [2020-11-21-MBP16-寸蓝牙损坏修复记录](https://www.v2ex.com/t/727954) ![](assets/new.png)  
 - [2020-11-21-如何在这个时代-生存-幂律时代生存！](https://www.v2ex.com/t/727953) ![](assets/new.png)  
-- [2020-11-21-Android/data/com.tencent.mm-文件夹每次重启都被自动清理，找不到原因](https://www.v2ex.com/t/727952) ![](assets/new.png)  
-- [2020-11-21-不知道你们发现没有-M1-Macbook-Pro-的触摸板比-Air-的大一点](https://www.v2ex.com/t/727948) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -595,26 +595,26 @@
 </summary>
 
 
-- [2020-11-22-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
 - [2020-11-22-毕业两年，如何在帝都购房上车：石头买房经验谈（上）](https://toutiao.io/k/dfei7ms) ![](assets/new.png)  
-- [2020-11-22-听说这是未来最流行的编程形式](https://toutiao.io/k/mmp3sl8) ![](assets/new.png)  
+- [2020-11-22-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
 - [2020-11-22-Golang-程序性能分析（一）：pprof-和-go-torch](https://toutiao.io/k/s0r9vv5) ![](assets/new.png)  
+- [2020-11-22-听说这是未来最流行的编程形式](https://toutiao.io/k/mmp3sl8) ![](assets/new.png)  
 - [2020-11-22-现代化-Web-开发实践之-PWA](https://toutiao.io/k/ysewa46) ![](assets/new.png)  
-- [2020-11-22-容器技术之容器引擎与江湖门派](https://toutiao.io/k/bi0spuk) ![](assets/new.png)  
 - [2020-11-22-为什么十年寒窗，比不上几代人的努力](https://toutiao.io/k/uxwalux) ![](assets/new.png)  
+- [2020-11-22-容器技术之容器引擎与江湖门派](https://toutiao.io/k/bi0spuk) ![](assets/new.png)  
 - [2020-11-22-KubeVela-正式开源：一个高可扩展的云原生应用平台与核心引擎](https://toutiao.io/k/dofk8zg) ![](assets/new.png)  
 - [2020-11-22-基于-Redis-配置异步-Celery](https://toutiao.io/k/6ermrzb) ![](assets/new.png)  
 - [2020-11-22-使用-StatefulSet-部署-etcd-集群](https://toutiao.io/k/bfeadg0) ![](assets/new.png)  
-- [2020-11-22-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
-- [2020-11-22-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
-- [2020-11-22-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
 - [2020-11-22-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
 - [2020-11-22-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-22-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-22-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
 - [2020-11-22-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-22-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-22-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
-- [2020-11-22-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
+- [2020-11-22-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
+- [2020-11-22-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-22-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
+- [2020-11-22-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
+- [2020-11-22-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
+- [2020-11-22-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

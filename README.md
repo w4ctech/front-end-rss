@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-22 05:11:35，:rocket: 更新条数: +3323， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-22 05:21:56，:rocket: 更新条数: +3323， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,10 @@
 </summary>
 
 
+- [2020-11-22-35-岁被劝退的职业做泥瓦工怎么样](https://www.v2ex.com/t/728025) ![](assets/new.png)  
+- [2020-11-22-Paper-Reading:-聊一聊-MVCC——版本数据存储与-GC](https://www.v2ex.com/t/728024) ![](assets/new.png)  
+- [2020-11-22-液态金属导热膏替换硅脂的疑问](https://www.v2ex.com/t/728023) ![](assets/new.png)  
+- [2020-11-22-arm-MacBook-Pro-的娱乐体验确实很好，除了-launchpad-这个毒瘤依旧掉帧](https://www.v2ex.com/t/728022) ![](assets/new.png)  
 - [2020-11-22-美食分享：河南条子肉扣肉的简易家常做法](https://www.v2ex.com/t/728021) ![](assets/new.png)  
 - [2020-11-22-2020-苹果产品两大未解之谜](https://www.v2ex.com/t/728020) ![](assets/new.png)  
 - [2020-11-22-迫于，寻找合租或者整租的房源](https://www.v2ex.com/t/728019) ![](assets/new.png)  
@@ -563,16 +567,12 @@
 - [2020-11-22-新买的-iPhone-12-无法用-Type-C-to-Lightning-线充电](https://www.v2ex.com/t/728014) ![](assets/new.png)  
 - [2020-11-22-平时写代码用得上-i9-10900K-/-3950x-这样的处理器吗?-Golang/-Python-/Vue](https://www.v2ex.com/t/728013) ![](assets/new.png)  
 - [2020-11-22-字节跳动北京&深圳直播中台团队急招研发工程师，校招-&-社招均有，大量岗位等你来](https://www.v2ex.com/t/728010) ![](assets/new.png)  
-- [2020-11-22-打算申报政府项目，有哪些方向比较容易做、政府又比较喜欢的？](https://www.v2ex.com/t/728008) ![](assets/new.png)  
 - [2020-11-22-上海-招聘社招和实习生-字节跳动网络方向](https://www.v2ex.com/t/728006) ![](assets/new.png)  
 - [2020-11-22-12-mini-让我重新体验到了-15-年-6s-的-挂后台能力。](https://www.v2ex.com/t/728005) ![](assets/new.png)  
 - [2020-11-22-有一直去健身房锻炼的老哥吗，是怎么坚持下来的。](https://www.v2ex.com/t/728004) ![](assets/new.png)  
 - [2020-11-22-为什么-MacBook-早上打开还是热的？（外接显示器）](https://www.v2ex.com/t/728003) ![](assets/new.png)  
 - [2020-11-22-zerotier-真香](https://www.v2ex.com/t/728002) ![](assets/new.png)  
 - [2020-11-22-Edge-将不合格的-HTTPS-网站暴露了出来](https://www.v2ex.com/t/728001) ![](assets/new.png)  
-- [2020-11-22-家庭组网既要-5G-全覆盖，又要-fq-能穿透，家里现在是-tp-AC+AP-套装](https://www.v2ex.com/t/728000) ![](assets/new.png)  
-- [2020-11-22-tensorflow_macos-速度测试](https://www.v2ex.com/t/727999) ![](assets/new.png)  
-- [2020-11-22-win10-资源管理器上方有一个白条](https://www.v2ex.com/t/727997) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -625,16 +625,16 @@
 - [2020-11-22-容器技术之容器引擎与江湖门派](https://toutiao.io/k/bi0spuk) ![](assets/new.png)  
 - [2020-11-22-基于-Redis-配置异步-Celery](https://toutiao.io/k/6ermrzb) ![](assets/new.png)  
 - [2020-11-22-使用-StatefulSet-部署-etcd-集群](https://toutiao.io/k/bfeadg0) ![](assets/new.png)  
-- [2020-11-22-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
+- [2020-11-22-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-22-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
+- [2020-11-22-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
+- [2020-11-22-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-22-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
+- [2020-11-22-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
 - [2020-11-22-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
-- [2020-11-22-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
-- [2020-11-22-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
-- [2020-11-22-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
-- [2020-11-22-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [2020-11-22-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
-- [2020-11-22-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
-- [2020-11-22-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
 - [2020-11-22-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
+- [2020-11-22-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

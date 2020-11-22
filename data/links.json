@@ -15929,6 +15929,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "35 岁被劝退的职业做泥瓦工怎么样",
+        "link": "https://www.v2ex.com/t/728025",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "Paper Reading: 聊一聊 MVCC——版本数据存储与 GC",
+        "link": "https://www.v2ex.com/t/728024",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "液态金属导热膏替换硅脂的疑问",
+        "link": "https://www.v2ex.com/t/728023",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "arm MacBook Pro 的娱乐体验确实很好，除了 launchpad 这个毒瘤依旧掉帧",
+        "link": "https://www.v2ex.com/t/728022",
+        "date": "2020-11-22"
+      },
+      {
         "title": "美食分享：河南条子肉(扣肉)的简易家常做法",
         "link": "https://www.v2ex.com/t/728021",
         "date": "2020-11-22"
@@ -15976,11 +15996,6 @@
       {
         "title": "[字节跳动][北京&深圳]直播中台团队急招研发工程师，校招 & 社招均有，大量岗位等你来",
         "link": "https://www.v2ex.com/t/728010",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "打算申报政府项目，有哪些方向比较容易做、政府又比较喜欢的？",
-        "link": "https://www.v2ex.com/t/728008",
         "date": "2020-11-22"
       },
       {
@@ -16101,21 +16116,6 @@
       {
         "title": "出一些杂物： 1+7P、 iPhone 配件未拆、DPT-RP1、 iPad 键盘、1A-DAC",
         "link": "https://www.v2ex.com/t/727976",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "老 web 项目加几个页面 打算用用现代前端框架",
-        "link": "https://www.v2ex.com/t/727975",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "Termius 好在哪儿？",
-        "link": "https://www.v2ex.com/t/727974",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "2070s 跑不了 gpt2",
-        "link": "https://www.v2ex.com/t/727973",
         "date": "2020-11-22"
       }
     ]
@@ -16283,53 +16283,13 @@
         "date": "2020-11-22"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-22"
       },
       {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-22"
       },
       {
@@ -16338,13 +16298,13 @@
         "date": "2020-11-22"
       },
       {
-        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
-        "link": "https://toutiao.io/k/ekz4xzi",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-22"
       },
       {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
         "date": "2020-11-22"
       },
       {
@@ -16353,8 +16313,48 @@
         "date": "2020-11-22"
       },
       {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
         "date": "2020-11-22"
       }
     ]

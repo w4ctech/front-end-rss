@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-22 05:35:43，:rocket: 更新条数: +3323， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-22 05:47:57，:rocket: 更新条数: +3323， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-22-Android-11-如何给应用开启-Scoped-storage](https://www.v2ex.com/t/728030) ![](assets/new.png)  
 - [2020-11-22-手机-Chrome-访问网页出现-ERR_HTTP2_PROTOCOL_ERROR](https://www.v2ex.com/t/728029) ![](assets/new.png)  
 - [2020-11-22-哪里能买到便宜的-Final-Cut-ProX？](https://www.v2ex.com/t/728028) ![](assets/new.png)  
 - [2020-11-22-有无电动车🛵](https://www.v2ex.com/t/728026) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-22-字节跳动北京&深圳直播中台团队急招研发工程师，校招-&-社招均有，大量岗位等你来](https://www.v2ex.com/t/728010) ![](assets/new.png)  
 - [2020-11-22-上海-招聘社招和实习生-字节跳动网络方向](https://www.v2ex.com/t/728006) ![](assets/new.png)  
 - [2020-11-22-12-mini-让我重新体验到了-15-年-6s-的-挂后台能力。](https://www.v2ex.com/t/728005) ![](assets/new.png)  
-- [2020-11-22-有一直去健身房锻炼的老哥吗，是怎么坚持下来的。](https://www.v2ex.com/t/728004) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -620,21 +620,21 @@
 - [2020-11-22-听说这是未来最流行的编程形式](https://toutiao.io/k/mmp3sl8) ![](assets/new.png)  
 - [2020-11-22-为什么十年寒窗，比不上几代人的努力](https://toutiao.io/k/uxwalux) ![](assets/new.png)  
 - [2020-11-22-Golang-程序性能分析（一）：pprof-和-go-torch](https://toutiao.io/k/s0r9vv5) ![](assets/new.png)  
+- [2020-11-22-容器技术之容器引擎与江湖门派](https://toutiao.io/k/bi0spuk) ![](assets/new.png)  
 - [2020-11-22-现代化-Web-开发实践之-PWA](https://toutiao.io/k/ysewa46) ![](assets/new.png)  
 - [2020-11-22-KubeVela-正式开源：一个高可扩展的云原生应用平台与核心引擎](https://toutiao.io/k/dofk8zg) ![](assets/new.png)  
-- [2020-11-22-容器技术之容器引擎与江湖门派](https://toutiao.io/k/bi0spuk) ![](assets/new.png)  
 - [2020-11-22-基于-Redis-配置异步-Celery](https://toutiao.io/k/6ermrzb) ![](assets/new.png)  
 - [2020-11-22-使用-StatefulSet-部署-etcd-集群](https://toutiao.io/k/bfeadg0) ![](assets/new.png)  
-- [2020-11-22-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
-- [2020-11-22-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
-- [2020-11-22-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
-- [2020-11-22-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
+- [2020-11-22-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
 - [2020-11-22-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
-- [2020-11-22-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
 - [2020-11-22-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-22-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
+- [2020-11-22-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
 - [2020-11-22-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-22-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-22-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
+- [2020-11-22-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
+- [2020-11-22-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-22-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
+- [2020-11-22-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

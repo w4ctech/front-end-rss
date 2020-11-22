@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-22 06:49:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-22 07:04:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -16,4 +16,3 @@
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-11-22-平时写代码用得上-i9-10900K-/-3950x-这样的处理器吗?-Golang/-Python-/Vue](https://www.v2ex.com/t/728013) 
-- [2020-11-22-请教一个-elementUI-的-upload-组件使用的问题](https://www.v2ex.com/t/727994) 

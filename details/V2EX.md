@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-22 17:10:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-22 17:21:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -36,4 +36,3 @@
 - [2020-11-22-/*初学者*/react-函数组件如何把自己的-useState-向上传，或者是外部如果获取某个组件的-state](https://www.v2ex.com/t/728122) 
 - [2020-11-22-M1-不支持扩展双-HDMI-显示](https://www.v2ex.com/t/728120) 
 - [2020-11-22-有没有类似-peper-这样简洁但是功能齐全的-hugo-主题](https://www.v2ex.com/t/728119) 
-- [2020-11-22-凛冬将至，你的它来了吗？](https://www.v2ex.com/t/728118) 

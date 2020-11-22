@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-22 15:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-22 16:05:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-22-Edge-在把-URL-粘贴到微信的时候会把-URL-转成“Title+域名”形式](https://www.v2ex.com/t/728158) 
+- [2020-11-22-最新版-Microsoft-Edge-中-Url-的复制和粘贴](https://www.v2ex.com/t/728157) 
 - [2020-11-22-TIM-网盘无故从-100G-变成-10G](https://www.v2ex.com/t/728155) 
 - [2020-11-22-一个日本大叔貌似道出了人生真谛？（推荐有娃族观看）](https://www.v2ex.com/t/728154) 
 - [2020-11-22-家里的猫喜欢喝脏水怎么办？](https://www.v2ex.com/t/728153) 
@@ -35,6 +37,3 @@
 - [2020-11-22-M1-能够跑-android-studio-吗](https://www.v2ex.com/t/728112) 
 - [2020-11-22-V-友们，如何管理公司饭堂？](https://www.v2ex.com/t/728111) 
 - [2020-11-22-求助-iPhone12](https://www.v2ex.com/t/728109) 
-- [2020-11-22-CrossOver-在-macOS-上运行-Windows-应用，效果很惊艳啊](https://www.v2ex.com/t/728108) 
-- [2020-11-22-不要向-HR-小姐姐炫技，过来人的经验](https://www.v2ex.com/t/728107) 
-- [2020-11-22-迫于好奇，大家明知道这代-12-爆出来很多问题，为什么都要去买个试试。](https://www.v2ex.com/t/728106) 

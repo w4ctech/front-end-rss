@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-22 08:04:40，:rocket: 更新条数: +3072， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-22 08:13:33，:rocket: 更新条数: +3092， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-22-这是一篇「毫无创意」的招聘文案...](https://www.v2ex.com/t/728060) ![](assets/new.png)  
 - [2020-11-22-文字实时比对应该用什么思路？](https://www.v2ex.com/t/728059) ![](assets/new.png)  
 - [2020-11-22-15-年的-T450-现在还能值多少钱](https://www.v2ex.com/t/728057) ![](assets/new.png)  
 - [2020-11-22-几个-mp4-教程录像，如何给用户观看最方便？](https://www.v2ex.com/t/728056) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-22-求助-js-正则移除多余的-html-标签嵌套。](https://www.v2ex.com/t/728039) ![](assets/new.png)  
 - [2020-11-22-Macbook-格式化重装系统以后磁盘层级不一样了](https://www.v2ex.com/t/728037) ![](assets/new.png)  
 - [2020-11-22-我突然顿悟了-Apple-M-系列芯片后续设计](https://www.v2ex.com/t/728036) ![](assets/new.png)  
-- [2020-11-22-Python-或-sage-如何实现二项式展开?](https://www.v2ex.com/t/728035) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,26 @@
 </summary>
 
 
+- [2020-11-22-6岁！是时候重新认识下Serverless了-|-云原生趣谈-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13975&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778541%3Futm_content%3Dg_1000207513%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-我看技术人的成长路径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-质量内建——缺陷管理实践分享-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-AI云原生浅谈：好未来AI中台实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13972&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778470%3Futm_content%3Dg_1000207511%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-双十一消费近万亿！1亿人见证数字物流，“尾款人”收货更快了？购物狂欢七大趋势浮现-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13971&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778497%3Futm_content%3Dg_1000207510%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-揭秘“双11”黑科技：机器人“接管”物流、服务器“不发烧”-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13969&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778476%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-年轻人不讲武德，偷袭阿里的机房-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13968&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778491%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-阿里巴巴集团-CTO-程立：今年天猫双-11，阿里练了什么？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13967&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778266%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-双11核心系统全面云原生化：效率提升一倍，成本下降80%-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13966&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778246%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-四两拨千斤：小巧新秀ClickHouse如何完美支撑史上最强双十一？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13965&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778258%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-4982亿背后的前端技术-2020天猫双11前端体系大揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13964&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778394%3Futm_content%3Dg_1000207219%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-Serverless在编程教育中的实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13963&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778418%3Futm_content%3Dg_1000206840%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-双11还能创造什么新技术？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13962&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778396%3Futm_content%3Dg_1000206571%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-再谈领域驱动设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13961&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-Flink-1.11-与-Hive-批流一体数仓实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13960&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777720%3Futm_content%3Dg_1000206570%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-云原生时代微服务的高可用架构设计-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13959&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777594%3Futm_content%3Dg_1000206569%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-当-TiDB-与-Flink-相结合：高效、易用的实时数仓-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13958&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776726%3Futm_content%3Dg_1000206568%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-思否独立开发者采访-|-开启技术变现之路，探索第三收入来源-segmentfault.com](https://blogread.cn/news/go.php?idItem=13957&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000038196276%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-22-电梯行业的数字化转型，精细化管理开启新的红利窗口-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13956&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778400%3Futm_content%3Dg_1000205619%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -585,16 +605,16 @@
 - [2020-11-22-容器技术之容器引擎与江湖门派](https://toutiao.io/k/bi0spuk) ![](assets/new.png)  
 - [2020-11-22-基于-Redis-配置异步-Celery](https://toutiao.io/k/6ermrzb) ![](assets/new.png)  
 - [2020-11-22-使用-StatefulSet-部署-etcd-集群](https://toutiao.io/k/bfeadg0) ![](assets/new.png)  
-- [2020-11-22-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
-- [2020-11-22-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
-- [2020-11-22-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-22-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
-- [2020-11-22-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-22-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-22-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-22-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
+- [2020-11-22-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
+- [2020-11-22-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
 - [2020-11-22-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
-- [2020-11-22-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
-- [2020-11-22-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-22-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-22-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-22-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
+- [2020-11-22-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
+- [2020-11-22-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-22-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

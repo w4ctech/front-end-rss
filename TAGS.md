@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-23 19:20:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 19:32:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -522,6 +522,7 @@
 - [【V2EX】杭州-蚂蚁集团---研发效能部---代码服务与-CloudIDE-团队招聘](https://www.v2ex.com/t/728519)
 - [【V2EX】腾讯金融科技招聘啦，欢迎找我内推。](https://www.v2ex.com/t/728514)
 - [【开发者头条】推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9)
+- [【开发者头条】推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0)
 - [【开发者头条】推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi)
 - [【安全热点】牛聘|2020年度岗位招聘第14期](https://sec.thief.one/article_content?a_id=85a0fe56233d717438239fef07601c41)
 - [......【查看更多】......](./details/tags/job-interview.md)

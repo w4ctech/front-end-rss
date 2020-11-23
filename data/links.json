@@ -14798,6 +14798,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iOS 上的离线 OCR App，完全免费",
+        "link": "https://www.v2ex.com/t/728491",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "GopherChina 2020 全部 PPT 来了",
+        "link": "https://www.v2ex.com/t/728490",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "iPhone 12 Pro Max 和之前的 xs max 对比起来屏幕明显发黄，简直和开了原彩一样，正常吗",
+        "link": "https://www.v2ex.com/t/728489",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "为什么我按 Alt + Tab 会在 Microsoft Edge 标签页里面切换？",
+        "link": "https://www.v2ex.com/t/728487",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "这颜色，是 Bug 还是 Feature？",
+        "link": "https://www.v2ex.com/t/728486",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "偷懒是人类进步的阶梯，请问大佬们 C 如何运行时生成函数指针",
+        "link": "https://www.v2ex.com/t/728485",
+        "date": "2020-11-23"
+      },
+      {
         "title": "[内推] 求一位大数据工程师",
         "link": "https://www.v2ex.com/t/728479",
         "date": "2020-11-23"
@@ -14940,56 +14970,6 @@
       {
         "title": "礼问，突然不知道做什么好了。",
         "link": "https://www.v2ex.com/t/728442",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "Terminal 显示 @host-0-150 是什么意思？",
-        "link": "https://www.v2ex.com/t/728441",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "大佬们 学习 Unity 遇到的两个问题求助",
-        "link": "https://www.v2ex.com/t/728440",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "Android Q 内置第三方输入法，密码锁屏解锁时无法弹出输入法。",
-        "link": "https://www.v2ex.com/t/728439",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "删除~~~~~~",
-        "link": "https://www.v2ex.com/t/728438",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[Metabit Trading 招聘] C++/ Python 开发-北京/上海-最强 90 后 AI 量化团队",
-        "link": "https://www.v2ex.com/t/728436",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "怎么样才能让罗技键盘的多媒体按键在游戏里面也能切换/暂停音乐？",
-        "link": "https://www.v2ex.com/t/728435",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[字节电商前端] 保姆式招聘",
-        "link": "https://www.v2ex.com/t/728434",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "m1 的 macbook pro 现在用 pd 能跑 windows 了吗？",
-        "link": "https://www.v2ex.com/t/728433",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[上海-继续急招 QA]外企电商,WLB 的 1075 公司欢迎各位加入( Java /QA/客户端)",
-        "link": "https://www.v2ex.com/t/728432",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "Pdd 12 绿屏的帖子怎么没有了，还想蹲个后续呢",
-        "link": "https://www.v2ex.com/t/728431",
         "date": "2020-11-23"
       }
     ]
@@ -15207,33 +15187,8 @@
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
         "date": "2020-11-23"
       },
       {
@@ -15247,28 +15202,18 @@
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
-        "link": "https://toutiao.io/k/ekz4xzi",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
         "date": "2020-11-23"
       },
       {
@@ -15277,8 +15222,43 @@
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
+        "link": "https://toutiao.io/k/5lujxq0",
         "date": "2020-11-23"
       }
     ]
@@ -15288,6 +15268,46 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "AIoT安全峰会议题回顾|打开IoT设备分析的第一扇门",
+        "link": "https://sec.thief.one/article_content?a_id=70f1b375ddce913a48c881884a035003",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "每日攻防资讯简报[Nov.23th]",
+        "link": "https://sec.thief.one/article_content?a_id=7f73efa70bd3f9b0f2ff00b9ea16b787",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "腾讯、蚂蚁、华为等大厂是如何玩转 DevOps 的?",
+        "link": "https://sec.thief.one/article_content?a_id=4ae345d57e2d31f3e2f6478aa9d11c06",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "各个大厂的 404 页面!最后一个笑shi了...",
+        "link": "https://sec.thief.one/article_content?a_id=428ec40e57acb9b58b00929c95e6d68c",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "黑客工程化能力探索",
+        "link": "https://sec.thief.one/article_content?a_id=138dd7d4e492a2b2493d681c2112c6b5",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "钟南山院士:国际社会需在疫苗研发、5G医疗等领域携手抗疫",
+        "link": "https://sec.thief.one/article_content?a_id=24daa1f1d287302f2ae3157322436e7f",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "聚焦乌镇|奇安信发布业内首个特权访问安全解决方案 实现访问权限精...",
+        "link": "https://sec.thief.one/article_content?a_id=9b131ca96c3fbccd2fff579afb7f7b39",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "那么多人吹Python,但我真怕你不知道是为什么!",
+        "link": "https://sec.thief.one/article_content?a_id=b13b55bb07af6932554b3956d75bc8e6",
+        "date": "2020-11-23"
+      },
       {
         "title": "绿盟安全信息库解决方案(NSID)入围世界互联网领先科技成果",
         "link": "https://sec.thief.one/article_content?a_id=4ac19df2a881afb68b4b73ed01ef6a53",
@@ -15746,46 +15766,6 @@
       {
         "title": "【安全热点周报】第169期:圆通出现“内鬼”超40万条个人信息被泄露",
         "link": "https://sec.thief.one/article_content?a_id=bceeb175196166f0fc2c3532131f45e4",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "高校挑战赛 | 神秘嘉宾,做客MTSRC!",
-        "link": "https://sec.thief.one/article_content?a_id=ae422555877e06441fc463933b1d98e8",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "彭博社McGlone认为比特币会在未来两年内达到17万美元",
-        "link": "https://sec.thief.one/article_content?a_id=f0043d488df8946f5acf1da2bf80273d",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "同步与异步 Python 有何不同?",
-        "link": "https://sec.thief.one/article_content?a_id=6fec97b27fa30c5f49c972327eb5852f",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "面试题:1 到 1000 之间有多少个 7?",
-        "link": "https://sec.thief.one/article_content?a_id=d44d069be6d40bd08d40a185508c6b9d",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "比特币无情震荡,市场已摩拳擦掌",
-        "link": "https://sec.thief.one/article_content?a_id=c2327df6ec3d40482b464e408b3dff84",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "加拿大拟出台数据保护新法:罚款最高可达全球营收5%",
-        "link": "https://sec.thief.one/article_content?a_id=c46ab41cac4b7ce1b9af57ac7cdc9fab",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "内核漏洞利用之CVE-2020-17382篇(下)",
-        "link": "https://sec.thief.one/article_content?a_id=0115242d40cb3ad16d8bc089cf5cb4ca",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "第二届INSEC WORLD世界信息安全大会即将在成都举行",
-        "link": "https://sec.thief.one/article_content?a_id=6be1fc6c8cca6397d423b8f1d06490e2",
         "date": "2020-11-20"
       }
     ]

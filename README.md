@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 12:50:47，:rocket: 更新条数: +3108， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 13:04:21，:rocket: 更新条数: +3104， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,12 @@
 </summary>
 
 
+- [2020-11-23-iOS-上的离线-OCR-App，完全免费](https://www.v2ex.com/t/728491) ![](assets/new.png)  
+- [2020-11-23-GopherChina-2020-全部-PPT-来了](https://www.v2ex.com/t/728490) ![](assets/new.png)  
+- [2020-11-23-iPhone-12-Pro-Max-和之前的-xs-max-对比起来屏幕明显发黄，简直和开了原彩一样，正常吗](https://www.v2ex.com/t/728489) ![](assets/new.png)  
+- [2020-11-23-为什么我按-Alt-+-Tab-会在-Microsoft-Edge-标签页里面切换？](https://www.v2ex.com/t/728487) ![](assets/new.png)  
+- [2020-11-23-这颜色，是-Bug-还是-Feature？](https://www.v2ex.com/t/728486) ![](assets/new.png)  
+- [2020-11-23-偷懒是人类进步的阶梯，请问大佬们-C-如何运行时生成函数指针](https://www.v2ex.com/t/728485) ![](assets/new.png)  
 - [2020-11-23-内推-求一位大数据工程师](https://www.v2ex.com/t/728479) ![](assets/new.png)  
 - [2020-11-23-一次性医用](https://www.v2ex.com/t/728478) ![](assets/new.png)  
 - [2020-11-23-关于蛋壳跑路这事，我的经历](https://www.v2ex.com/t/728477) ![](assets/new.png)  
@@ -547,12 +553,6 @@
 - [2020-11-23-知名果黑快科技这样子好吗？](https://www.v2ex.com/t/728459) ![](assets/new.png)  
 - [2020-11-23-Big-Sur-外接-Dell-U2515h-无法开启-1080HIDPI，如何解决？](https://www.v2ex.com/t/728458) ![](assets/new.png)  
 - [2020-11-23-杭州-阿里巴巴飞猪技术招技术专家/高级开发工程师](https://www.v2ex.com/t/728457) ![](assets/new.png)  
-- [2020-11-23-长亭科技-阿里系-北京海淀-安全开发工程师](https://www.v2ex.com/t/728456) ![](assets/new.png)  
-- [2020-11-23-watch-os-7.2-无法通过-siri-拔打电话](https://www.v2ex.com/t/728455) ![](assets/new.png)  
-- [2020-11-23-求救!-Chrome-升级版本后,-控制台-websocket-不能自己选择-HEX-view-或-base64-了,-只能显示-base64-格式的-frame-了,-87.0.4280.66](https://www.v2ex.com/t/728454) ![](assets/new.png)  
-- [2020-11-23-istat-menu-官网促销](https://www.v2ex.com/t/728453) ![](assets/new.png)  
-- [2020-11-23-亲测电热桌垫好用，解决冬天码字冻手冻脚的问题。](https://www.v2ex.com/t/728452) ![](assets/new.png)  
-- [2020-11-23-长亭科技-阿里系-北京海淀-后端开发-golang、-Python-](https://www.v2ex.com/t/728451) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -626,6 +626,14 @@
 </summary>
 
 
+- [2020-11-23-AIoT安全峰会议题回顾|打开IoT设备分析的第一扇门](https://sec.thief.one/article_content?a_id=70f1b375ddce913a48c881884a035003) ![](assets/new.png)  
+- [2020-11-23-每日攻防资讯简报Nov.23th](https://sec.thief.one/article_content?a_id=7f73efa70bd3f9b0f2ff00b9ea16b787) ![](assets/new.png)  
+- [2020-11-23-腾讯、蚂蚁、华为等大厂是如何玩转-DevOps-的?](https://sec.thief.one/article_content?a_id=4ae345d57e2d31f3e2f6478aa9d11c06) ![](assets/new.png)  
+- [2020-11-23-各个大厂的-404-页面!最后一个笑shi了...](https://sec.thief.one/article_content?a_id=428ec40e57acb9b58b00929c95e6d68c) ![](assets/new.png)  
+- [2020-11-23-黑客工程化能力探索](https://sec.thief.one/article_content?a_id=138dd7d4e492a2b2493d681c2112c6b5) ![](assets/new.png)  
+- [2020-11-23-钟南山院士:国际社会需在疫苗研发、5G医疗等领域携手抗疫](https://sec.thief.one/article_content?a_id=24daa1f1d287302f2ae3157322436e7f) ![](assets/new.png)  
+- [2020-11-23-聚焦乌镇|奇安信发布业内首个特权访问安全解决方案-实现访问权限精...](https://sec.thief.one/article_content?a_id=9b131ca96c3fbccd2fff579afb7f7b39) ![](assets/new.png)  
+- [2020-11-23-那么多人吹Python,但我真怕你不知道是为什么!](https://sec.thief.one/article_content?a_id=b13b55bb07af6932554b3956d75bc8e6) ![](assets/new.png)  
 - [2020-11-23-绿盟安全信息库解决方案NSID入围世界互联网领先科技成果](https://sec.thief.one/article_content?a_id=4ac19df2a881afb68b4b73ed01ef6a53) ![](assets/new.png)  
 - [2020-11-23-2020年“世界互联网领先科技成果发布活动”成功举办](https://sec.thief.one/article_content?a_id=8d1029fa9ee5d3b38be6dae7e5e7ee71) ![](assets/new.png)  
 - [2020-11-23-物联网安全系列之探索IoT通信安全的研究之道](https://sec.thief.one/article_content?a_id=23cc7c715817e4350367bd69781b3c5b) ![](assets/new.png)  
@@ -638,14 +646,6 @@
 - [2020-11-23-【漏洞通告】Apache-Shiro未授权访问漏洞CVE-2020-17510](https://sec.thief.one/article_content?a_id=0411fcf7e09370b60a76725633d1aeae) ![](assets/new.png)  
 - [2020-11-23-雷神众测漏洞周报-2020.11.16-2020.11.22-4](https://sec.thief.one/article_content?a_id=497dbc73cdef6a5036f5374f843ed703) ![](assets/new.png)  
 - [2020-11-23-内网渗透-|-NPS内网穿透工具的使用](https://sec.thief.one/article_content?a_id=bc2d1c36ae34a4160c015f6b632612ea) ![](assets/new.png)  
-- [2020-11-23-监管机构高层称,新加坡正在探索银行间业务用CBDC](https://sec.thief.one/article_content?a_id=60e4f58976f8ad1a826bf699473ae797) ![](assets/new.png)  
-- [2020-11-23-半个月涨幅超过3倍,这个defi币又新高了](https://sec.thief.one/article_content?a_id=d82a9e844b17906ea48665202b2ac25c) ![](assets/new.png)  
-- [2020-11-23-BCHA链遭攻击,网络产生大量空块](https://sec.thief.one/article_content?a_id=1b9842a05a097daccb04dada604f0ffd) ![](assets/new.png)  
-- [2020-11-23-【报名通道开启】贝壳找房2020-ICS安全技术峰会​](https://sec.thief.one/article_content?a_id=de9fe74d6d659f5289be88ea07cca606) ![](assets/new.png)  
-- [2020-11-23-欧洲警方打掉一恶意软件免杀测试和代码加密平台](https://sec.thief.one/article_content?a_id=997f37e9536176ce4d83bceadc4c23ec) ![](assets/new.png)  
-- [2020-11-23-75岁老程序员在接私单,90岁产品经理深夜无法入眠,看完惊呆了...](https://sec.thief.one/article_content?a_id=9366282bab9a4dca5fe757d3c79d4ecf) ![](assets/new.png)  
-- [2020-11-23-曼联足球俱乐部被黑客“破门”](https://sec.thief.one/article_content?a_id=b726f120c99edb567845ccc53c0b0e97) ![](assets/new.png)  
-- [2020-11-23-踩坑版渗透-记录某次授权测试](https://sec.thief.one/article_content?a_id=518b544f8736634fdfdf0baed0b65fcd) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-23 12:50:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 13:04:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-23-iOS-上的离线-OCR-App，完全免费](https://www.v2ex.com/t/728491) 
+- [2020-11-23-GopherChina-2020-全部-PPT-来了](https://www.v2ex.com/t/728490) 
+- [2020-11-23-iPhone-12-Pro-Max-和之前的-xs-max-对比起来屏幕明显发黄，简直和开了原彩一样，正常吗](https://www.v2ex.com/t/728489) 
+- [2020-11-23-为什么我按-Alt-+-Tab-会在-Microsoft-Edge-标签页里面切换？](https://www.v2ex.com/t/728487) 
+- [2020-11-23-这颜色，是-Bug-还是-Feature？](https://www.v2ex.com/t/728486) 
+- [2020-11-23-偷懒是人类进步的阶梯，请问大佬们-C-如何运行时生成函数指针](https://www.v2ex.com/t/728485) 
 - [2020-11-23-内推-求一位大数据工程师](https://www.v2ex.com/t/728479) 
 - [2020-11-23-一次性医用](https://www.v2ex.com/t/728478) 
 - [2020-11-23-关于蛋壳跑路这事，我的经历](https://www.v2ex.com/t/728477) 
@@ -34,13 +40,3 @@
 - [2020-11-23-图床-又撸了个大概可能没啥人用的小工具...](https://www.v2ex.com/t/728444) 
 - [2020-11-23-有这样的问题，应该属于安全类的，有没有大佬帮忙给点思路](https://www.v2ex.com/t/728443) 
 - [2020-11-23-礼问，突然不知道做什么好了。](https://www.v2ex.com/t/728442) 
-- [2020-11-23-Terminal-显示-@host-0-150-是什么意思？](https://www.v2ex.com/t/728441) 
-- [2020-11-23-大佬们-学习-Unity-遇到的两个问题求助](https://www.v2ex.com/t/728440) 
-- [2020-11-23-Android-Q-内置第三方输入法，密码锁屏解锁时无法弹出输入法。](https://www.v2ex.com/t/728439) 
-- [2020-11-23-删除~~~~~~](https://www.v2ex.com/t/728438) 
-- [2020-11-23-Metabit-Trading-招聘-C++/-Python-开发-北京/上海-最强-90-后-AI-量化团队](https://www.v2ex.com/t/728436) 
-- [2020-11-23-怎么样才能让罗技键盘的多媒体按键在游戏里面也能切换/暂停音乐？](https://www.v2ex.com/t/728435) 
-- [2020-11-23-字节电商前端-保姆式招聘](https://www.v2ex.com/t/728434) 
-- [2020-11-23-m1-的-macbook-pro-现在用-pd-能跑-windows-了吗？](https://www.v2ex.com/t/728433) 
-- [2020-11-23-上海-继续急招-QA外企电商,WLB-的-1075-公司欢迎各位加入-Java-/QA/客户端](https://www.v2ex.com/t/728432) 
-- [2020-11-23-Pdd-12-绿屏的帖子怎么没有了，还想蹲个后续呢](https://www.v2ex.com/t/728431) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 19:11:31，:rocket: 更新条数: +3343， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 19:20:12，:rocket: 更新条数: +3343， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-23-求推荐支持-2.4G-连接、干电池的无线机械键盘品牌型号](https://www.v2ex.com/t/728542) ![](assets/new.png)  
 - [2020-11-23-如何通过程序获得-ISP-提供的-DNS-地址？](https://www.v2ex.com/t/728541) ![](assets/new.png)  
 - [2020-11-23-M1-MBP-8G/16G-内存对比评测来了](https://www.v2ex.com/t/728540) ![](assets/new.png)  
 - [2020-11-23-m1-MacBook-Air-外接显示器问题](https://www.v2ex.com/t/728537) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-23-iTerm-2-记录-ssh-的触发器-password，每次都弹出来，求教大佬如何解决？](https://www.v2ex.com/t/728520) ![](assets/new.png)  
 - [2020-11-23-杭州-蚂蚁集团---研发效能部---代码服务与-CloudIDE-团队招聘](https://www.v2ex.com/t/728519) ![](assets/new.png)  
 - [2020-11-23-M1-的-Mac-不支持飞书啊！](https://www.v2ex.com/t/728518) ![](assets/new.png)  
-- [2020-11-23-国内如-b-站优酷都不像油管能自动连播推荐视频，这是什么原因导致的？政策还是技术](https://www.v2ex.com/t/728517) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

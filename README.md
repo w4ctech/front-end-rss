@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 13:33:21，:rocket: 更新条数: +3069， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 13:35:45，:rocket: 更新条数: +3103， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-23-offer-比较-成都华为云对象存储-vs-深圳腾讯-TEG](https://www.v2ex.com/t/728505) ![](assets/new.png)  
+- [2020-11-23-如何理解强制存取控制](https://www.v2ex.com/t/728504) ![](assets/new.png)  
+- [2020-11-23-可年后入职-字节跳动---抖音方向-Android/iOS-内推-20-60K-上海-杭州](https://www.v2ex.com/t/728503) ![](assets/new.png)  
+- [2020-11-23-喜马拉雅买一得-10-又开始啦](https://www.v2ex.com/t/728502) ![](assets/new.png)  
+- [2020-11-23-shc-加密的-shell-脚本在运行时卡住没反应。](https://www.v2ex.com/t/728501) ![](assets/new.png)  
+- [2020-11-23-Android-求推荐那些轻而美-无（或少）广告的常用-APP。](https://www.v2ex.com/t/728499) ![](assets/new.png)  
+- [2020-11-23-97-年本科求建议](https://www.v2ex.com/t/728498) ![](assets/new.png)  
+- [2020-11-23-M1-Air-安装-iOS-版本的微信-对话界面好难看-求解](https://www.v2ex.com/t/728497) ![](assets/new.png)  
+- [2020-11-23-印度区-Youtube-Premium-发车。香港家庭组](https://www.v2ex.com/t/728496) ![](assets/new.png)  
+- [2020-11-23-发现拼多多竟然能获取到淘宝的用户使用习惯！](https://www.v2ex.com/t/728495) ![](assets/new.png)  
+- [2020-11-23-求助贴，大二学生党请求帮助选择](https://www.v2ex.com/t/728494) ![](assets/new.png)  
+- [2020-11-23-想入个新款-Mac-mini-做开发如何？](https://www.v2ex.com/t/728493) ![](assets/new.png)  
+- [2020-11-23-和迅雷合作，天翼云盘有离线下载功能了！](https://www.v2ex.com/t/728492) ![](assets/new.png)  
+- [2020-11-23-iOS-上的离线-OCR-App，完全免费](https://www.v2ex.com/t/728491) ![](assets/new.png)  
+- [2020-11-23-GopherChina-2020-全部-PPT-来了](https://www.v2ex.com/t/728490) ![](assets/new.png)  
+- [2020-11-23-iPhone-12-Pro-Max-和之前的-xs-max-对比起来屏幕明显发黄，简直和开了原彩一样，正常吗](https://www.v2ex.com/t/728489) ![](assets/new.png)  
+- [2020-11-23-为什么我按-Alt-+-Tab-会在-Microsoft-Edge-标签页里面切换？](https://www.v2ex.com/t/728487) ![](assets/new.png)  
+- [2020-11-23-这颜色，是-Bug-还是-Feature？](https://www.v2ex.com/t/728486) ![](assets/new.png)  
+- [2020-11-23-偷懒是人类进步的阶梯，请问大佬们-C-如何运行时生成函数指针](https://www.v2ex.com/t/728485) ![](assets/new.png)  
+- [2020-11-23-内推-求一位大数据工程师](https://www.v2ex.com/t/728479) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

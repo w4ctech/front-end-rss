@@ -14252,6 +14252,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "受疫情影响 厄瓜多尔首都旅游业受到重大影响",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZqQk6ctdSpoNCJYQ6soM201123&isfromapp=1",
+        "date": "2020-11-23"
+      },
+      {
         "title": "秘鲁新增新冠肺炎确诊病例1589例 累计确诊近95万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXGK7HkLcOSyurfO8mPXS201123&isfromapp=1",
         "date": "2020-11-23"
@@ -14269,11 +14274,6 @@
       {
         "title": "柏林勃兰登堡门传统新年派对或将因疫情取消",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticrD0XFRbsEksL8wtvCtW201123&isfromapp=1",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "法国首次发现养殖水貂感染新冠病毒",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwm8UrS0OlhgND1sYPyMI201123&isfromapp=1",
         "date": "2020-11-22"
       }
     ]
@@ -14576,28 +14576,28 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "Vue全家桶系列之Vue-router和Vuex",
-        "link": "https://juejin.im/post/6898144288165593096",
+        "title": "Deno 1.0，来了解一下",
+        "link": "https://juejin.im/post/6898153557493547022",
         "date": "2020-11-22"
       },
       {
-        "title": "译|使用原生 CSS 实现自适应视频",
-        "link": "https://juejin.im/post/6898144070125518856",
+        "title": "CSS函数那些事（一）比较函数",
+        "link": "https://juejin.im/post/6898141267771801613",
         "date": "2020-11-22"
       },
       {
-        "title": "【一天一大 lee】最少数量的箭引爆气球 (难度:中等) - Day20201123",
-        "link": "https://juejin.im/post/6898143934116003853",
+        "title": "js代码解析需知",
+        "link": "https://juejin.im/post/6898134845415751688",
         "date": "2020-11-22"
       },
       {
-        "title": "微信小程序传参回退首页且不能有左上角的返回键",
-        "link": "https://juejin.im/post/6898143026867404814",
+        "title": "简单弄懂防抖与节流～",
+        "link": "https://juejin.im/post/6898130967874797576",
         "date": "2020-11-22"
       },
       {
-        "title": "前端存储技术",
-        "link": "https://juejin.im/post/6898142746613383175",
+        "title": "用vue开发移动H5应用框架-第三章（config篇）",
+        "link": "https://juejin.im/post/6898126372896505863",
         "date": "2020-11-22"
       }
     ]
@@ -14783,6 +14783,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何联系 google 账号团队",
+        "link": "https://www.v2ex.com/t/728253",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "ios14 手动设定闹钟的一个小技巧。",
+        "link": "https://www.v2ex.com/t/728250",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "物流友商搞的人脸抓拍无接触业务系统安全性如何？有政策风险么？",
+        "link": "https://www.v2ex.com/t/728249",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[杭州]阿里巴巴 CBU 开放平台～招算法专家➕ Java 开发专家/高级工程师",
+        "link": "https://www.v2ex.com/t/728248",
+        "date": "2020-11-23"
+      },
+      {
         "title": "自制冻干机?",
         "link": "https://www.v2ex.com/t/728246",
         "date": "2020-11-23"
@@ -14961,31 +14981,6 @@
         "title": "请问如何将 windows 服务器上的日志自动发送到个人电脑上？",
         "link": "https://www.v2ex.com/t/728204",
         "date": "2020-11-23"
-      },
-      {
-        "title": "[可年后入职] 字节跳动 - 抖音创作工具 iOS 内推 [25-60K] [上海 杭州]",
-        "link": "https://www.v2ex.com/t/728203",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "iPhone 的共享相簿不是原图？",
-        "link": "https://www.v2ex.com/t/728202",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "萌新求解答关于找远程工作的问题！",
-        "link": "https://www.v2ex.com/t/728201",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "cannot resolve remote server hostname courier.push.apple.com: Host not found (authoritative)",
-        "link": "https://www.v2ex.com/t/728200",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "Apple Watch Series 6",
-        "link": "https://www.v2ex.com/t/728199",
-        "date": "2020-11-23"
       }
     ]
   },
@@ -14994,6 +14989,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "鹰角网络全球海量数据，一键轻松统一存储与处理 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13977&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778559%3Futm_content%3Dg_1000207910%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-23"
+      },
       {
         "title": "KubeVela 正式开源：一个高可扩展的云原生应用平台与核心引擎 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13976&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778543%3Futm_content%3Dg_1000207909%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -15088,11 +15088,6 @@
         "title": "当 TiDB 与 Flink 相结合：高效、易用的实时数仓 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13958&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776726%3Futm_content%3Dg_1000206568%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-23"
-      },
-      {
-        "title": "思否独立开发者采访 | 开启技术变现之路，探索第三收入来源 (segmentfault.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13957&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000038196276%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-23"
       }
     ]
   },
@@ -15127,18 +15122,13 @@
         "date": "2020-11-23"
       },
       {
-        "title": "如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "携程 Cilium + BGP 云原生网络实践",
-        "link": "https://toutiao.io/k/1uoe2ey",
-        "date": "2020-11-23"
-      },
-      {
         "title": "程序员是青春饭吗？30 岁后的发展方向和突破",
         "link": "https://toutiao.io/k/1gxzxw3",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
         "date": "2020-11-23"
       },
       {
@@ -15147,13 +15137,18 @@
         "date": "2020-11-23"
       },
       {
-        "title": "记一次中台项目的 ReactHook 沉淀",
-        "link": "https://toutiao.io/k/qj1b4s9",
+        "title": "携程 Cilium + BGP 云原生网络实践",
+        "link": "https://toutiao.io/k/1uoe2ey",
         "date": "2020-11-23"
       },
       {
         "title": "Room 中的数据库关系",
         "link": "https://toutiao.io/k/gkdjiq0",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "记一次中台项目的 ReactHook 沉淀",
+        "link": "https://toutiao.io/k/qj1b4s9",
         "date": "2020-11-23"
       },
       {
@@ -15202,8 +15197,33 @@
         "date": "2020-11-23"
       },
       {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-23"
+      },
+      {
         "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
         "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-23"
       },
       {
@@ -15212,8 +15232,28 @@
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-23"
       },
       {
@@ -15229,51 +15269,6 @@
       {
         "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
         "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
         "date": "2020-11-23"
       }
     ]

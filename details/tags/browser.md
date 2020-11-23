@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-23 03:12:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 03:24:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,9 +23,8 @@
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-23-物流友商搞的人脸抓拍无接触业务系统安全性如何？有政策风险么？](https://www.v2ex.com/t/728249) 
 - [2020-11-23-chrome-图标有白底](https://www.v2ex.com/t/728239) 
-- [2020-11-23-cannot-resolve-remote-server-hostname-courier.push.apple.com:-Host-not-found-authoritative](https://www.v2ex.com/t/728200) 
-- [2020-11-23-Apple-Watch-Series-6](https://www.v2ex.com/t/728199) 
 - [2020-11-22-奇安信专家:工控系统存三大安全问题-内生安全势在必行](https://sec.thief.one/article_content?a_id=05e6cb52655319cbd2540abfea864398) 
 - [2020-11-22-AIoT安全峰会议题回顾|车联网安全的攻与防](https://sec.thief.one/article_content?a_id=2863b73e532223c93ab628d48f2da29c) 
 - [2020-11-22-Web安全:目录穿越漏洞](https://sec.thief.one/article_content?a_id=19e81cf506c744f0234db32e9c29270c) 

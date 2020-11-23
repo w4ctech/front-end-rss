@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-23 03:12:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 03:24:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -8,5 +8,5 @@
 
 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
-- [2020-11-22-Vue全家桶系列之Vue-router和Vuex](https://juejin.im/post/6898144288165593096) 
+- [2020-11-22-用vue开发移动H5应用框架-第三章（config篇）](https://juejin.im/post/6898126372896505863) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

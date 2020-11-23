@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-23 09:35:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 09:47:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -16,4 +16,3 @@
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
 - [2020-11-22-【🚨万字警告】了不起的Vue3（上）](https://juejin.im/post/6898120355781705736) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
-- [2020-11-23-Vue-里-input-标签-watch-和-change-都能监听值的变化，哪个更好呢？](https://www.v2ex.com/t/728362) 

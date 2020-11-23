@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 14:05:03，:rocket: 更新条数: +3316， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 14:14:29，:rocket: 更新条数: +3104， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -376,26 +376,6 @@
 </summary>
 
 
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +533,9 @@
 </summary>
 
 
+- [2020-11-23-国内如-b-站优酷都不像油管能自动连播推荐视频，这是什么原因导致的？政策还是技术](https://www.v2ex.com/t/728517) ![](assets/new.png)  
+- [2020-11-23-今天处理了一个奇葩的-IE-性能问题，可能我以前低估了-IE-的性能多差](https://www.v2ex.com/t/728516) ![](assets/new.png)  
+- [2020-11-23-腾讯金融科技招聘啦，欢迎找我内推。](https://www.v2ex.com/t/728514) ![](assets/new.png)  
 - [2020-11-23-2020-国庆-6100-公里自驾游——青甘大环线](https://www.v2ex.com/t/728513) ![](assets/new.png)  
 - [2020-11-23-Chromium-Edge-总会有些奇奇怪怪的问题...](https://www.v2ex.com/t/728511) ![](assets/new.png)  
 - [2020-11-23-google-了-3-天反复测试也找不到答案的-Flask-SQLAlchemy-问题，请大神于水火间拯救我](https://www.v2ex.com/t/728510) ![](assets/new.png)  
@@ -570,9 +553,6 @@
 - [2020-11-23-发现拼多多竟然能获取到淘宝的用户使用习惯！](https://www.v2ex.com/t/728495) ![](assets/new.png)  
 - [2020-11-23-求助贴，大二学生党请求帮助选择](https://www.v2ex.com/t/728494) ![](assets/new.png)  
 - [2020-11-23-想入个新款-Mac-mini-做开发如何？](https://www.v2ex.com/t/728493) ![](assets/new.png)  
-- [2020-11-23-和迅雷合作，天翼云盘有离线下载功能了！](https://www.v2ex.com/t/728492) ![](assets/new.png)  
-- [2020-11-23-iOS-上的离线-OCR-App，完全免费](https://www.v2ex.com/t/728491) ![](assets/new.png)  
-- [2020-11-23-GopherChina-2020-全部-PPT-来了](https://www.v2ex.com/t/728490) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -584,6 +564,26 @@
 </summary>
 
 
+- [2020-11-23-几种性能测试工具的总结-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13982&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-2019-年-CNCF-中国云原生调查报告-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13981&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778481%3Futm_content%3Dg_1000207913%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-高德全链路压测-精准控压的建设实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13980&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778572%3Futm_content%3Dg_1000207912%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-申通完美支撑“双11”-亿级包裹背后的云基础设施-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13979&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778563%3Futm_content%3Dg_1000207911%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-这些表情包你有吗？来-Battle-啊-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13978&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F307672306%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-鹰角网络全球海量数据，一键轻松统一存储与处理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13977&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778559%3Futm_content%3Dg_1000207910%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-KubeVela-正式开源：一个高可扩展的云原生应用平台与核心引擎-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13976&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778543%3Futm_content%3Dg_1000207909%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-6岁！是时候重新认识下Serverless了-|-云原生趣谈-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13975&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778541%3Futm_content%3Dg_1000207513%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-我看技术人的成长路径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-质量内建——缺陷管理实践分享-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-AI云原生浅谈：好未来AI中台实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13972&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778470%3Futm_content%3Dg_1000207511%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-双十一消费近万亿！1亿人见证数字物流，“尾款人”收货更快了？购物狂欢七大趋势浮现-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13971&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778497%3Futm_content%3Dg_1000207510%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-揭秘“双11”黑科技：机器人“接管”物流、服务器“不发烧”-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13969&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778476%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-年轻人不讲武德，偷袭阿里的机房-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13968&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778491%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-阿里巴巴集团-CTO-程立：今年天猫双-11，阿里练了什么？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13967&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778266%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-双11核心系统全面云原生化：效率提升一倍，成本下降80%-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13966&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778246%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-四两拨千斤：小巧新秀ClickHouse如何完美支撑史上最强双十一？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13965&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778258%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-4982亿背后的前端技术-2020天猫双11前端体系大揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13964&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778394%3Futm_content%3Dg_1000207219%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-23-Serverless在编程教育中的实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13963&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778418%3Futm_content%3Dg_1000206840%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

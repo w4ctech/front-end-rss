@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 07:04:10，:rocket: 更新条数: +3106， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 07:12:55，:rocket: 更新条数: +3106， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-23-macOS-Big-Sur-里的-Safari-没有新建-tab-的+号了？](https://www.v2ex.com/t/728339) ![](assets/new.png)  
+- [2020-11-23-如何从手机推送在线视频-URL-到电视上播放？](https://www.v2ex.com/t/728338) ![](assets/new.png)  
 - [2020-11-23-求助，推荐一款电脑](https://www.v2ex.com/t/728337) ![](assets/new.png)  
 - [2020-11-23-冬天电池尿崩](https://www.v2ex.com/t/728336) ![](assets/new.png)  
 - [2020-11-23-请教一个关于-Python-实例化内存地址的基础问题](https://www.v2ex.com/t/728335) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-23-big-sur-安卓模拟器现在哪个可以用-mumu-好像不行了-打不开](https://www.v2ex.com/t/728322) ![](assets/new.png)  
 - [2020-11-23-各位-M1-Mac-mini-都用的什么显示器?](https://www.v2ex.com/t/728320) ![](assets/new.png)  
 - [2020-11-23-how-to-choose-USB-kext-for-installing-hackintosh?](https://www.v2ex.com/t/728319) ![](assets/new.png)  
-- [2020-11-23-有人了解-eneloop-和紫米这种充电电池的吗？请进来交流下](https://www.v2ex.com/t/728318) ![](assets/new.png)  
-- [2020-11-23-康桥-2-房出租、精装修、可办居住证、18-号线地铁口年底通车、到张江-20-分钟](https://www.v2ex.com/t/728316) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

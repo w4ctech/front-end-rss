@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-23 07:04:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 07:12:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-23-macOS-Big-Sur-里的-Safari-没有新建-tab-的+号了？](https://www.v2ex.com/t/728339) 
+- [2020-11-23-如何从手机推送在线视频-URL-到电视上播放？](https://www.v2ex.com/t/728338) 
 - [2020-11-23-求助，推荐一款电脑](https://www.v2ex.com/t/728337) 
 - [2020-11-23-冬天电池尿崩](https://www.v2ex.com/t/728336) 
 - [2020-11-23-请教一个关于-Python-实例化内存地址的基础问题](https://www.v2ex.com/t/728335) 
@@ -41,5 +43,3 @@
 - [2020-11-23-大家备孕前会去医院做检查吗？](https://www.v2ex.com/t/728293) 
 - [2020-11-23-现在入手-AirPods-pro-还值得吗？](https://www.v2ex.com/t/728292) 
 - [2020-11-23-你们给-iPad-妙控键盘贴膜吗](https://www.v2ex.com/t/728290) 
-- [2020-11-23-zulu-没有-arm-版本的-jdk6,7](https://www.v2ex.com/t/728289) 
-- [2020-11-23-北京拉宽带](https://www.v2ex.com/t/728288) 

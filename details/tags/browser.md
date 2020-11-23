@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-23 10:48:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 11:04:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,9 +31,13 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-23-有这样的问题，应该属于安全类的，有没有大佬帮忙给点思路](https://www.v2ex.com/t/728443) 
 - [2020-11-23-如何根据字段名获取对应的-getter-function](https://www.v2ex.com/t/728401) 
-- [2020-11-23-字节安全与风控业务蓝军内推](https://www.v2ex.com/t/728399) 
-- [2020-11-23-Single-Depth-peeling-顺序无关渲染OIT](https://www.v2ex.com/t/728394) 
+- [2020-11-23-绿盟安全信息库解决方案NSID入围世界互联网领先科技成果](https://sec.thief.one/article_content?a_id=4ac19df2a881afb68b4b73ed01ef6a53) 
+- [2020-11-23-物联网安全系列之探索IoT通信安全的研究之道](https://sec.thief.one/article_content?a_id=23cc7c715817e4350367bd69781b3c5b) 
+- [2020-11-23-【报名通道开启】贝壳找房2020-ICS安全技术峰会​](https://sec.thief.one/article_content?a_id=de9fe74d6d659f5289be88ea07cca606) 
+- [2020-11-23-每日安全动态推送11-23](https://sec.thief.one/article_content?a_id=e8a839f01bb712e58cdc55506d0b59b9) 
+- [2020-11-23-银行API安全管理及移动金融App安全检测规范发布](https://sec.thief.one/article_content?a_id=8c0b5009c22209c7150b6f8d4569c72d) 
 - [2020-11-22-奇安信专家:工控系统存三大安全问题-内生安全势在必行](https://sec.thief.one/article_content?a_id=05e6cb52655319cbd2540abfea864398) 
 - [2020-11-22-AIoT安全峰会议题回顾|车联网安全的攻与防](https://sec.thief.one/article_content?a_id=2863b73e532223c93ab628d48f2da29c) 
 - [2020-11-22-Web安全:目录穿越漏洞](https://sec.thief.one/article_content?a_id=19e81cf506c744f0234db32e9c29270c) 
@@ -49,8 +53,3 @@
 - [2020-11-20-【漏洞预警】CNNVD-关于Drupal安全漏洞的通报](https://sec.thief.one/article_content?a_id=17d67a97c7ece434533addbb216b0d39) 
 - [2020-11-20-【安全热点周报】第169期:圆通出现“内鬼”超40万条个人信息被泄露](https://sec.thief.one/article_content?a_id=bceeb175196166f0fc2c3532131f45e4) 
 - [2020-11-20-第二届INSEC-WORLD世界信息安全大会即将在成都举行](https://sec.thief.one/article_content?a_id=6be1fc6c8cca6397d423b8f1d06490e2) 
-- [2020-11-19-【安全圈】ZeroLogon-已被黑客组织大量用于全球范围内的工业攻击](https://sec.thief.one/article_content?a_id=3fbe79f1d334583f0d602c11cb9d1c68) 
-- [2020-11-19-预告|2020中国网络安全产业高峰论坛即将盛启](https://sec.thief.one/article_content?a_id=707419a5419ae6b3067665a7ebd37f95) 
-- [2020-11-19-AIoT安全峰会议题回顾|等保2.0-物联网安全扩展要求解读](https://sec.thief.one/article_content?a_id=f14bc1c353b9247643ba59b41b6639ae) 
-- [2020-11-19-新基建碰撞安全之道,红客联盟对上绿色兵团?-|-INSEC-WORLD-倒...](https://sec.thief.one/article_content?a_id=45f8a05e6d1a18563dec336b8fdce140) 
-- [2020-11-19-2020京麒网络安全大会议程发布,你想看的都在这里!](https://sec.thief.one/article_content?a_id=72eb5a81aef83a1cc1cbc5595005dd6d) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 05:48:15，:rocket: 更新条数: +3101， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 06:04:29，:rocket: 更新条数: +3099， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-23-杭州蚂蚁云原生配置语言开发-P6/P7](https://www.v2ex.com/t/728306) ![](assets/new.png)  
+- [2020-11-23-PHP-在-Windows-Server-下用什么生产环境?](https://www.v2ex.com/t/728305) ![](assets/new.png)  
+- [2020-11-23-服务器完备之后单独再备份数据库的意义大不大？](https://www.v2ex.com/t/728304) ![](assets/new.png)  
+- [2020-11-23-m1-芯片-transmit-karabiner-shellcraft-sequelPro-phpstorm-小程序开发者工具-都能完美允许了吗](https://www.v2ex.com/t/728300) ![](assets/new.png)  
 - [2020-11-23-今天摸鱼的时候发现-APIJSON-这个项目被腾讯收编了，-github-上的所有者是腾讯了](https://www.v2ex.com/t/728299) ![](assets/new.png)  
 - [2020-11-23-QQ-邮箱：大家有遇到过收件人不是自己，但是收到邮件的情况吗？](https://www.v2ex.com/t/728297) ![](assets/new.png)  
 - [2020-11-23-这就是移动的穿透吗？](https://www.v2ex.com/t/728295) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-23-KubeVela：一个高可扩展的云原生应用平台与核心引擎](https://www.v2ex.com/t/728280) ![](assets/new.png)  
 - [2020-11-23-Resilio-Sync-可以单向同步吗？源文件本地删除，其他节点不同步删除](https://www.v2ex.com/t/728277) ![](assets/new.png)  
 - [2020-11-23-SSL-证书年终特惠-DV-证书¥19/年起-EV-证书¥360/年起](https://www.v2ex.com/t/728276) ![](assets/new.png)  
-- [2020-11-23-想找一份关于-web-安全的实习，应该学习哪些技能？怎样可以找得到？](https://www.v2ex.com/t/728273) ![](assets/new.png)  
-- [2020-11-23-电信商务专线](https://www.v2ex.com/t/728272) ![](assets/new.png)  
-- [2020-11-23-vps：一种安全访问-ssh-的方法](https://www.v2ex.com/t/728269) ![](assets/new.png)  
-- [2020-11-23-现在学习计算机，走哪个领域会比较有前途？](https://www.v2ex.com/t/728268) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -610,9 +610,9 @@
 - [2020-11-23-深度解读最新版-Scrum-指南](https://toutiao.io/k/xpfjvyf) ![](assets/new.png)  
 - [2020-11-23-大型小程序如何研发提效](https://toutiao.io/k/72hznv9) ![](assets/new.png)  
 - [2020-11-23-测量一段代码的执行时间的常见方法](https://toutiao.io/k/4evs73z) ![](assets/new.png)  
-- [2020-11-23-MarkMind：一个节点内部支持-Markdown-语法的思维导图和大纲工具](https://toutiao.io/k/q02ye8h) ![](assets/new.png)  
 - [2020-11-23-Redis-多线程，到底是不是多线程](https://toutiao.io/k/4bfx6a6) ![](assets/new.png)  
 - [2020-11-23-2021-年最值得测试同学使用的-Python-库](https://toutiao.io/k/7ua1qs1) ![](assets/new.png)  
+- [2020-11-23-MarkMind：一个节点内部支持-Markdown-语法的思维导图和大纲工具](https://toutiao.io/k/q02ye8h) ![](assets/new.png)  
 - [2020-11-23-译-用-React-和-D3-创建图表](https://toutiao.io/k/spn2jti) ![](assets/new.png)  
 - [2020-11-23-Podspec-文件分析](https://toutiao.io/k/ej9z53a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

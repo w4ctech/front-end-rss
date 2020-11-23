@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-23 01:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 01:10:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -34,5 +34,3 @@
 - [2020-11-22-为什么手机-YY-语音延迟这么高？](https://www.v2ex.com/t/728139) 
 - [2020-11-22-Ryzen-5800x-X570-AORUS-PRO-WIFI-OC0.6.4-Big-Sur](https://www.v2ex.com/t/728138) 
 - [2020-11-22-做个社交产品取悦自己（腾讯产品创业求支持）](https://www.v2ex.com/t/728137) 
-- [2020-11-22-现在做助农电商平台还有机会吗？](https://www.v2ex.com/t/728132) 
-- [2020-11-22-国内的独立开发者需要学习-UI-设计吗？](https://www.v2ex.com/t/728131) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 22:04:39，:rocket: 更新条数: +3343， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 22:14:19，:rocket: 更新条数: +3343， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-23-Windows-权限机制是怎样的](https://www.v2ex.com/t/728544) ![](assets/new.png)  
 - [2020-11-23-每次升级系统之后-sshd_config-都会被替换掉，怎么破？](https://www.v2ex.com/t/728543) ![](assets/new.png)  
 - [2020-11-23-求推荐支持-2.4G-连接、干电池的无线机械键盘品牌型号](https://www.v2ex.com/t/728542) ![](assets/new.png)  
 - [2020-11-23-如何通过程序获得-ISP-提供的-DNS-地址？](https://www.v2ex.com/t/728541) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-23-（强迫症慎入）大家的-Mac-微信图片显示有问题么？](https://www.v2ex.com/t/728522) ![](assets/new.png)  
 - [2020-11-23-升级-BigSur-后储存空间少了-40GB](https://www.v2ex.com/t/728521) ![](assets/new.png)  
 - [2020-11-23-iTerm-2-记录-ssh-的触发器-password，每次都弹出来，求教大佬如何解决？](https://www.v2ex.com/t/728520) ![](assets/new.png)  
-- [2020-11-23-杭州-蚂蚁集团---研发效能部---代码服务与-CloudIDE-团队招聘](https://www.v2ex.com/t/728519) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -14453,23 +14453,7 @@
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
-    "items": [
-      {
-        "title": "科技爱好者周刊（第 134 期）：未来的游戏业比现在大100倍",
-        "link": "http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "科技爱好者周刊（第 133 期）：贵州变瑞士，有没有可能？",
-        "link": "http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "科技爱好者周刊（第 132 期）：快能力和慢能力",
-        "link": "http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html",
-        "date": "2020-11-06"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "http://jdc.jd.com/feed",
@@ -14783,6 +14767,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "之前泄露的数据库有人开放 API,可查 QQ 或 WB 绑定的手机号",
+        "link": "https://www.v2ex.com/t/728187",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "8 亿 QQ 手机绑定数据泄露？请问作为用户发现自己手机号被泄露的情况下应该如何做？",
+        "link": "https://www.v2ex.com/t/728186",
+        "date": "2020-11-23"
+      },
+      {
         "title": "重庆腾讯云招聘~~~",
         "link": "https://www.v2ex.com/t/728184",
         "date": "2020-11-23"
@@ -14925,11 +14919,6 @@
       {
         "title": "Ryzen-5800x-X570-AORUS-PRO-WIFI-OC0.6.4-Big Sur",
         "link": "https://www.v2ex.com/t/728138",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "做个社交产品取悦自己（腾讯产品创业求支持）",
-        "link": "https://www.v2ex.com/t/728137",
         "date": "2020-11-22"
       }
     ]
@@ -15077,13 +15066,13 @@
         "date": "2020-11-23"
       },
       {
-        "title": "Room 中的数据库关系",
-        "link": "https://toutiao.io/k/gkdjiq0",
+        "title": "携程 Cilium + BGP 云原生网络实践",
+        "link": "https://toutiao.io/k/1uoe2ey",
         "date": "2020-11-23"
       },
       {
-        "title": "携程 Cilium + BGP 云原生网络实践",
-        "link": "https://toutiao.io/k/1uoe2ey",
+        "title": "Room 中的数据库关系",
+        "link": "https://toutiao.io/k/gkdjiq0",
         "date": "2020-11-23"
       },
       {
@@ -15122,53 +15111,13 @@
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
-        "link": "https://toutiao.io/k/ekz4xzi",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-23"
       },
       {
@@ -15177,18 +15126,58 @@
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-23"
-      },
-      {
         "title": "[推荐] 高并发高性能服务器是如何实现的",
         "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
+        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
+        "link": "https://toutiao.io/k/5lujxq0",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
         "date": "2020-11-23"
       },
       {

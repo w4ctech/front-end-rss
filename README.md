@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 15:27:18，:rocket: 更新条数: +3106， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 15:35:14，:rocket: 更新条数: +3103， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -95,11 +95,6 @@
 </summary>
 
 
-- [2020-11-23-经过治疗-乌克兰总统泽连斯新冠病毒检测复阴](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijdh3WMqa4WgNXLnXO3P0201123&isfromapp=1) ![](assets/new.png)  
-- [2020-11-23-受新冠疫情影响-伦敦市中心办公楼开工量骤降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikciDaIh85c4liFCOUrbN201123&isfromapp=1) ![](assets/new.png)  
-- [2020-11-23-俄罗斯单日新增新冠肺炎确诊病例25173例-累计确诊超过211万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieD8y6xMWniiqOhgetNeP201123&isfromapp=1) ![](assets/new.png)  
-- [2020-11-23-俄哈卡斯共和国前行政长官济明因新冠肺炎去逝](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZSerDEiExKgtKhyQanV2201123&isfromapp=1) ![](assets/new.png)  
-- [2020-11-23-巴基斯坦新增新冠肺炎确诊病例2756例-累计确诊376929例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQaiTVDCFqCkXhG0Jxlxg201123&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,10 +448,10 @@
 </summary>
 
 
+- [2020-11-23-Fetch还是Axios——哪个更适合HTTP请求？](https://juejin.im/post/6898341568944701447) ![](assets/new.png)  
 - [2020-11-23-用于现代JavaScript的Observer-API](https://juejin.im/post/6898340223563300878) ![](assets/new.png)  
 - [2020-11-23-Flutter-初学者之带动画的TabBar及仿知乎APP首页实战](https://juejin.im/post/6898334007692689416) ![](assets/new.png)  
 - [2020-11-23-手写实现el-form系列组件的核心逻辑----练习组件通信](https://juejin.im/post/6898260687521644557) ![](assets/new.png)  
-- [2020-11-23-Node.js系列五---npm你不知道的细节](https://juejin.im/post/6898252272267083790) ![](assets/new.png)  
 - [2020-11-16-虚拟dom的原理与diff算法](https://juejin.im/post/6895631248572547080) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -533,6 +528,9 @@
 </summary>
 
 
+- [2020-11-23-TypeOrm-使用-PrimaryGeneratedColumn-注解报错。。](https://www.v2ex.com/t/728531) ![](assets/new.png)  
+- [2020-11-23-Laracast-黑五促销，全场五折](https://www.v2ex.com/t/728530) ![](assets/new.png)  
+- [2020-11-23-Big-Sur-iCloud-云盘上传时丢文件？](https://www.v2ex.com/t/728529) ![](assets/new.png)  
 - [2020-11-23-新疆阿克苏冰糖心苹果，目前还存货-200-箱。](https://www.v2ex.com/t/728528) ![](assets/new.png)  
 - [2020-11-23-iPhone-tv-无法删除！](https://www.v2ex.com/t/728526) ![](assets/new.png)  
 - [2020-11-23-百度输入法-Mac-和-PC-端词库能同步吗？有用过的老哥说说么](https://www.v2ex.com/t/728524) ![](assets/new.png)  
@@ -550,9 +548,6 @@
 - [2020-11-23-google-了-3-天反复测试也找不到答案的-Flask-SQLAlchemy-问题，请大神于水火间拯救我](https://www.v2ex.com/t/728510) ![](assets/new.png)  
 - [2020-11-23-给几万人,每个月发一封邮件。最经济实惠方便的用哪个？](https://www.v2ex.com/t/728509) ![](assets/new.png)  
 - [2020-11-23-有没有大佬在-麦克先生腾讯员工创业店-这个淘宝店买过手机或电脑，求问靠谱不](https://www.v2ex.com/t/728506) ![](assets/new.png)  
-- [2020-11-23-offer-比较-成都华为云对象存储-vs-深圳腾讯-TEG](https://www.v2ex.com/t/728505) ![](assets/new.png)  
-- [2020-11-23-如何理解强制存取控制](https://www.v2ex.com/t/728504) ![](assets/new.png)  
-- [2020-11-23-可年后入职-字节跳动---抖音方向-Android/iOS-内推-20-60K-上海-杭州](https://www.v2ex.com/t/728503) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

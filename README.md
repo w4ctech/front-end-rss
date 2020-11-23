@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 23:22:21，:rocket: 更新条数: +3343， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 23:32:46，:rocket: 更新条数: +3324， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-23-世卫组织总干事：新冠疫苗试验进展带来更多希望](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW17MIBC9tEMvMflijMwy201124&isfromapp=1) ![](assets/new.png)  
 - [2020-11-23-经过治疗-乌克兰总统泽连斯新冠病毒检测复阴](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijdh3WMqa4WgNXLnXO3P0201123&isfromapp=1) ![](assets/new.png)  
 - [2020-11-23-受新冠疫情影响-伦敦市中心办公楼开工量骤降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikciDaIh85c4liFCOUrbN201123&isfromapp=1) ![](assets/new.png)  
 - [2020-11-23-俄罗斯单日新增新冠肺炎确诊病例25173例-累计确诊超过211万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieD8y6xMWniiqOhgetNeP201123&isfromapp=1) ![](assets/new.png)  
 - [2020-11-23-俄哈卡斯共和国前行政长官济明因新冠肺炎去逝](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZSerDEiExKgtKhyQanV2201123&isfromapp=1) ![](assets/new.png)  
-- [2020-11-23-巴基斯坦新增新冠肺炎确诊病例2756例-累计确诊376929例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQaiTVDCFqCkXhG0Jxlxg201123&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -473,10 +473,10 @@
 </summary>
 
 
+- [2020-11-23-开眼界！阿里用这样的组件开发大屏（三）](https://juejin.im/post/6898376647909572615) ![](assets/new.png)  
 - [2020-11-23-Fetch还是Axios——哪个更适合HTTP请求？](https://juejin.im/post/6898341568944701447) ![](assets/new.png)  
 - [2020-11-23-用于现代JavaScript的Observer-API](https://juejin.im/post/6898340223563300878) ![](assets/new.png)  
 - [2020-11-23-Flutter-初学者之带动画的TabBar及仿知乎APP首页实战](https://juejin.im/post/6898334007692689416) ![](assets/new.png)  
-- [2020-11-23-手写实现el-form系列组件的核心逻辑----练习组件通信](https://juejin.im/post/6898260687521644557) ![](assets/new.png)  
 - [2020-11-16-虚拟dom的原理与diff算法](https://juejin.im/post/6895631248572547080) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -615,26 +615,22 @@
 </summary>
 
 
-- [2020-11-23-厉害了！国外顶级计算机大神耗时两年时间整理出来这份-2000-页深入理解计算机系统笔记](https://toutiao.io/k/4hjd6qw) ![](assets/new.png)  
-- [2020-11-23-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
-- [2020-11-23-Apache-Kylin-的实践与优化](https://toutiao.io/k/anqfsl4) ![](assets/new.png)  
-- [2020-11-23-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
-- [2020-11-23-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
-- [2020-11-23-从贫血模型到领域驱动设计](https://toutiao.io/k/9jmqhyz) ![](assets/new.png)  
-- [2020-11-23-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
-- [2020-11-23-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) ![](assets/new.png)  
-- [2020-11-23-Spring-Cloud-Alibaba-微服务实战（二十一）：JWT-增强](https://toutiao.io/k/1r4fyzo) ![](assets/new.png)  
-- [2020-11-23-携程-Cilium-+-BGP-云原生网络实践](https://toutiao.io/k/1uoe2ey) ![](assets/new.png)  
-- [2020-11-23-记一次中台项目的-ReactHook-沉淀](https://toutiao.io/k/qj1b4s9) ![](assets/new.png)  
-- [2020-11-23-大型小程序如何研发提效](https://toutiao.io/k/72hznv9) ![](assets/new.png)  
-- [2020-11-23-深度解读最新版-Scrum-指南](https://toutiao.io/k/xpfjvyf) ![](assets/new.png)  
-- [2020-11-23-Room-中的数据库关系](https://toutiao.io/k/gkdjiq0) ![](assets/new.png)  
-- [2020-11-23-测量一段代码的执行时间的常见方法](https://toutiao.io/k/4evs73z) ![](assets/new.png)  
-- [2020-11-23-Redis-多线程，到底是不是多线程](https://toutiao.io/k/4bfx6a6) ![](assets/new.png)  
-- [2020-11-23-2021-年最值得测试同学使用的-Python-库](https://toutiao.io/k/7ua1qs1) ![](assets/new.png)  
-- [2020-11-23-译-用-React-和-D3-创建图表](https://toutiao.io/k/spn2jti) ![](assets/new.png)  
-- [2020-11-23-Podspec-文件分析](https://toutiao.io/k/ej9z53a) ![](assets/new.png)  
-- [2020-11-23-MarkMind：一个节点内部支持-Markdown-语法的思维导图和大纲工具](https://toutiao.io/k/q02ye8h) ![](assets/new.png)  
+- [2020-11-23-资料-|-开源生态白皮书（2020-年）](https://toutiao.io/k/0s9musw) ![](assets/new.png)  
+- [2020-11-23-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
+- [2020-11-23-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
+- [2020-11-23-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-23-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-23-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-23-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
+- [2020-11-23-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
+- [2020-11-23-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-23-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
+- [2020-11-23-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
+- [2020-11-23-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-23-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
+- [2020-11-23-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
+- [2020-11-23-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
+- [2020-11-23-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-23 23:22:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 23:32:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -58,9 +58,9 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-11-23-开眼界！阿里用这样的组件开发大屏（三）](https://juejin.im/post/6898376647909572615) 
 - [2020-11-23-Fetch还是Axios——哪个更适合HTTP请求？](https://juejin.im/post/6898341568944701447) 
 - [2020-11-23-用于现代JavaScript的Observer-API](https://juejin.im/post/6898340223563300878) 
-- [2020-11-23-手写实现el-form系列组件的核心逻辑----练习组件通信](https://juejin.im/post/6898260687521644557) 
 - [2020-11-16-虚拟dom的原理与diff算法](https://juejin.im/post/6895631248572547080) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 

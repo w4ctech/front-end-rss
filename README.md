@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 14:48:06，:rocket: 更新条数: +3069， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 15:04:14，:rocket: 更新条数: +3108， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -455,9 +455,9 @@
 
 - [2020-11-23-BFC总结](https://juejin.im/post/6898278714312753159) ![](assets/new.png)  
 - [2020-11-23-TS的高级类型编程](https://juejin.im/post/6898270313050537997) ![](assets/new.png)  
-- [2020-11-23-闭包原理以及使用场景](https://juejin.im/post/6898267229436313614) ![](assets/new.png)  
-- [2020-11-23-【webpack参数配置系列】之配置你的第一个webpack](https://juejin.im/post/6898263439962013709) ![](assets/new.png)  
 - [2020-11-23-手写实现el-form系列组件的核心逻辑----练习组件通信](https://juejin.im/post/6898260687521644557) ![](assets/new.png)  
+- [2020-11-23-Node.js系列五---npm你不知道的细节](https://juejin.im/post/6898252272267083790) ![](assets/new.png)  
+- [2020-11-22-Vue全家桶系列之Vue-router和Vuex](https://juejin.im/post/6898144288165593096) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-23-百度输入法-Mac-和-PC-端词库能同步吗？有用过的老哥说说么](https://www.v2ex.com/t/728524) ![](assets/new.png)  
+- [2020-11-23-请无视](https://www.v2ex.com/t/728523) ![](assets/new.png)  
+- [2020-11-23-（强迫症慎入）大家的-Mac-微信图片显示有问题么？](https://www.v2ex.com/t/728522) ![](assets/new.png)  
+- [2020-11-23-升级-BigSur-后储存空间少了-40GB](https://www.v2ex.com/t/728521) ![](assets/new.png)  
+- [2020-11-23-iTerm-2-记录-ssh-的触发器-password，每次都弹出来，求教大佬如何解决？](https://www.v2ex.com/t/728520) ![](assets/new.png)  
+- [2020-11-23-杭州-蚂蚁集团---研发效能部---代码服务与-CloudIDE-团队招聘](https://www.v2ex.com/t/728519) ![](assets/new.png)  
+- [2020-11-23-M1-的-Mac-不支持飞书啊！](https://www.v2ex.com/t/728518) ![](assets/new.png)  
+- [2020-11-23-国内如-b-站优酷都不像油管能自动连播推荐视频，这是什么原因导致的？政策还是技术](https://www.v2ex.com/t/728517) ![](assets/new.png)  
+- [2020-11-23-今天处理了一个奇葩的-IE-性能问题，可能我以前低估了-IE-的性能多差](https://www.v2ex.com/t/728516) ![](assets/new.png)  
+- [2020-11-23-腾讯金融科技招聘啦，欢迎找我内推。](https://www.v2ex.com/t/728514) ![](assets/new.png)  
+- [2020-11-23-2020-国庆-6100-公里自驾游——青甘大环线](https://www.v2ex.com/t/728513) ![](assets/new.png)  
+- [2020-11-23-Chromium-Edge-总会有些奇奇怪怪的问题...](https://www.v2ex.com/t/728511) ![](assets/new.png)  
+- [2020-11-23-google-了-3-天反复测试也找不到答案的-Flask-SQLAlchemy-问题，请大神于水火间拯救我](https://www.v2ex.com/t/728510) ![](assets/new.png)  
+- [2020-11-23-给几万人,每个月发一封邮件。最经济实惠方便的用哪个？](https://www.v2ex.com/t/728509) ![](assets/new.png)  
+- [2020-11-23-有没有大佬在-麦克先生腾讯员工创业店-这个淘宝店买过手机或电脑，求问靠谱不](https://www.v2ex.com/t/728506) ![](assets/new.png)  
+- [2020-11-23-offer-比较-成都华为云对象存储-vs-深圳腾讯-TEG](https://www.v2ex.com/t/728505) ![](assets/new.png)  
+- [2020-11-23-如何理解强制存取控制](https://www.v2ex.com/t/728504) ![](assets/new.png)  
+- [2020-11-23-可年后入职-字节跳动---抖音方向-Android/iOS-内推-20-60K-上海-杭州](https://www.v2ex.com/t/728503) ![](assets/new.png)  
+- [2020-11-23-喜马拉雅买一得-10-又开始啦](https://www.v2ex.com/t/728502) ![](assets/new.png)  
+- [2020-11-23-shc-加密的-shell-脚本在运行时卡住没反应。](https://www.v2ex.com/t/728501) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

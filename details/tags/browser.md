@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-23 05:12:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 05:22:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -27,7 +27,6 @@
 - [2020-11-23-想找一份关于-web-安全的实习，应该学习哪些技能？怎样可以找得到？](https://www.v2ex.com/t/728273) 
 - [2020-11-23-vps：一种安全访问-ssh-的方法](https://www.v2ex.com/t/728269) 
 - [2020-11-23-物流友商搞的人脸抓拍无接触业务系统安全性如何？有政策风险么？](https://www.v2ex.com/t/728249) 
-- [2020-11-23-chrome-图标有白底](https://www.v2ex.com/t/728239) 
 - [2020-11-22-奇安信专家:工控系统存三大安全问题-内生安全势在必行](https://sec.thief.one/article_content?a_id=05e6cb52655319cbd2540abfea864398) 
 - [2020-11-22-AIoT安全峰会议题回顾|车联网安全的攻与防](https://sec.thief.one/article_content?a_id=2863b73e532223c93ab628d48f2da29c) 
 - [2020-11-22-Web安全:目录穿越漏洞](https://sec.thief.one/article_content?a_id=19e81cf506c744f0234db32e9c29270c) 

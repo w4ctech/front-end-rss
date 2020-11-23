@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-23 05:12:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 05:22:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-23-zulu-没有-arm-版本的-jdk6,7](https://www.v2ex.com/t/728289) 
+- [2020-11-23-北京拉宽带](https://www.v2ex.com/t/728288) 
+- [2020-11-23-Big-Sur-11.0.1-挂载根目录修改后创建-snapshot-提示权限不足](https://www.v2ex.com/t/728287) 
+- [2020-11-23-浙江独服促销-200M-仅需-399/月](https://www.v2ex.com/t/728286) 
 - [2020-11-23-入手了一台-Mac-Mini，-M1-芯片版本的，如果你有想要测试的软件，可以发出来。](https://www.v2ex.com/t/728284) 
 - [2020-11-23-macos-默认快捷键如何修改或屏蔽](https://www.v2ex.com/t/728281) 
 - [2020-11-23-KubeVela：一个高可扩展的云原生应用平台与核心引擎](https://www.v2ex.com/t/728280) 
@@ -36,7 +40,3 @@
 - [2020-11-23-repc-明年-4-月-1-执行-感觉-ps5-或者其他需要海购的可以等一波](https://www.v2ex.com/t/728242) 
 - [2020-11-23-macOS-照片里面的视频拖出来,-非常的慢,-从-Mojave-到-big-sur-都有这个问题,-这是为什么呢?](https://www.v2ex.com/t/728241) 
 - [2020-11-23-想找一张火星高清全图、地图，最好是-nasa-出品。哪位大神能给个链接。](https://www.v2ex.com/t/728240) 
-- [2020-11-23-chrome-图标有白底](https://www.v2ex.com/t/728239) 
-- [2020-11-23-购买的-2-手手机，商家这里是否有违规行为？](https://www.v2ex.com/t/728238) 
-- [2020-11-23-AutoHotkey-为-HHKB-在-Windows-下续命](https://www.v2ex.com/t/728237) 
-- [2020-11-23-官网订购了-M1-芯片的新款-MacBook-竟然要接近一个月才能送达](https://www.v2ex.com/t/728236) 

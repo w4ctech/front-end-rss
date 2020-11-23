@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 05:12:23，:rocket: 更新条数: +3101， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 05:22:56，:rocket: 更新条数: +3101， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-23-zulu-没有-arm-版本的-jdk6,7](https://www.v2ex.com/t/728289) ![](assets/new.png)  
+- [2020-11-23-北京拉宽带](https://www.v2ex.com/t/728288) ![](assets/new.png)  
+- [2020-11-23-Big-Sur-11.0.1-挂载根目录修改后创建-snapshot-提示权限不足](https://www.v2ex.com/t/728287) ![](assets/new.png)  
+- [2020-11-23-浙江独服促销-200M-仅需-399/月](https://www.v2ex.com/t/728286) ![](assets/new.png)  
 - [2020-11-23-入手了一台-Mac-Mini，-M1-芯片版本的，如果你有想要测试的软件，可以发出来。](https://www.v2ex.com/t/728284) ![](assets/new.png)  
 - [2020-11-23-macos-默认快捷键如何修改或屏蔽](https://www.v2ex.com/t/728281) ![](assets/new.png)  
 - [2020-11-23-KubeVela：一个高可扩展的云原生应用平台与核心引擎](https://www.v2ex.com/t/728280) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-23-失眠的时候听什么类型的音乐比较好呢？](https://www.v2ex.com/t/728263) ![](assets/new.png)  
 - [2020-11-23-面试中遇到一直追问，你们-xxx-功能是怎么做的？此类面试官，大家如何处理](https://www.v2ex.com/t/728262) ![](assets/new.png)  
 - [2020-11-23-广州HC-无限，福利超级能打，最高-24-个月年终奖，欢迎投递-酷狗音乐-诚招高级/资深-Java-开发工程师（25-40k）](https://www.v2ex.com/t/728259) ![](assets/new.png)  
-- [2020-11-23-重复造轮子对于用轮子的人没有意义，但是对于造轮子的人有意义。](https://www.v2ex.com/t/728258) ![](assets/new.png)  
-- [2020-11-23-请教一个-Java-中传值和传址的问题](https://www.v2ex.com/t/728257) ![](assets/new.png)  
-- [2020-11-23-slf4j2-打印-json，存在转义字符问题](https://www.v2ex.com/t/728256) ![](assets/new.png)  
-- [2020-11-23-公司最近可能要搬,-个人想购买一点防甲醛产品,-求安利安利](https://www.v2ex.com/t/728255) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -599,8 +599,8 @@
 - [2020-11-23-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
 - [2020-11-23-Apache-Kylin-的实践与优化](https://toutiao.io/k/anqfsl4) ![](assets/new.png)  
 - [2020-11-23-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
-- [2020-11-23-从贫血模型到领域驱动设计](https://toutiao.io/k/9jmqhyz) ![](assets/new.png)  
 - [2020-11-23-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
+- [2020-11-23-从贫血模型到领域驱动设计](https://toutiao.io/k/9jmqhyz) ![](assets/new.png)  
 - [2020-11-23-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
 - [2020-11-23-携程-Cilium-+-BGP-云原生网络实践](https://toutiao.io/k/1uoe2ey) ![](assets/new.png)  
 - [2020-11-23-Spring-Cloud-Alibaba-微服务实战（二十一）：JWT-增强](https://toutiao.io/k/1r4fyzo) ![](assets/new.png)  
@@ -611,8 +611,8 @@
 - [2020-11-23-测量一段代码的执行时间的常见方法](https://toutiao.io/k/4evs73z) ![](assets/new.png)  
 - [2020-11-23-大型小程序如何研发提效](https://toutiao.io/k/72hznv9) ![](assets/new.png)  
 - [2020-11-23-MarkMind：一个节点内部支持-Markdown-语法的思维导图和大纲工具](https://toutiao.io/k/q02ye8h) ![](assets/new.png)  
-- [2020-11-23-Redis-多线程，到底是不是多线程](https://toutiao.io/k/4bfx6a6) ![](assets/new.png)  
 - [2020-11-23-2021-年最值得测试同学使用的-Python-库](https://toutiao.io/k/7ua1qs1) ![](assets/new.png)  
+- [2020-11-23-Redis-多线程，到底是不是多线程](https://toutiao.io/k/4bfx6a6) ![](assets/new.png)  
 - [2020-11-23-译-用-React-和-D3-创建图表](https://toutiao.io/k/spn2jti) ![](assets/new.png)  
 - [2020-11-23-Podspec-文件分析](https://toutiao.io/k/ej9z53a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

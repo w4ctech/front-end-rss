@@ -14793,7 +14793,7 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "关于 Javascript 的一点疑惑，求各位大佬指导",
+        "title": "关于 Javascript 的变量定义一点疑惑，求各位大佬指导",
         "link": "https://www.v2ex.com/t/728405",
         "date": "2020-11-23"
       },
@@ -14913,11 +14913,6 @@
         "date": "2020-11-23"
       },
       {
-        "title": "Youtube Premium 印度区， 48/年",
-        "link": "https://www.v2ex.com/t/728373",
-        "date": "2020-11-23"
-      },
-      {
         "title": "[深圳] 各大厂内推正式启动，欢迎投递简历，也欢迎企业 HR 来推广岗位",
         "link": "https://www.v2ex.com/t/728372",
         "date": "2020-11-23"
@@ -14925,11 +14920,6 @@
       {
         "title": "戒快乐水，什么花茶好喝？",
         "link": "https://www.v2ex.com/t/728371",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "快过年了，给妹妹寻个对象",
-        "link": "https://www.v2ex.com/t/728370",
         "date": "2020-11-23"
       },
       {
@@ -14966,11 +14956,6 @@
         "title": "安卓系统的 WiFi 信道疑问",
         "link": "https://www.v2ex.com/t/728359",
         "date": "2020-11-23"
-      },
-      {
-        "title": "我是如何变成移动低 ARPU 值客户的（2020 年 11 月办理移动 8 元保号套餐）",
-        "link": "https://www.v2ex.com/t/728358",
-        "date": "2020-11-23"
       }
     ]
   },
@@ -14979,6 +14964,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "几种性能测试工具的总结 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13982&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-23"
+      },
       {
         "title": "2019 年 CNCF 中国云原生调查报告 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13981&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778481%3Futm_content%3Dg_1000207913%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -15072,11 +15062,6 @@
       {
         "title": "Serverless在编程教育中的实践 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13963&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778418%3Futm_content%3Dg_1000206840%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "双11还能创造什么新技术？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13962&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778396%3Futm_content%3Dg_1000206571%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-23"
       }
     ]
@@ -15187,18 +15172,8 @@
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-23"
       },
       {
@@ -15207,43 +15182,8 @@
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
-        "link": "https://toutiao.io/k/ekz4xzi",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-23"
       },
       {
@@ -15252,13 +15192,58 @@
         "date": "2020-11-23"
       },
       {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-23"
+      },
+      {
         "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
         "link": "https://toutiao.io/k/yy8cawz",
         "date": "2020-11-23"
       },
       {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
+        "date": "2020-11-23"
+      },
+      {
         "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
         "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
         "date": "2020-11-23"
       }
     ]

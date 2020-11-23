@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 06:04:29，:rocket: 更新条数: +3099， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 06:14:15，:rocket: 更新条数: +3334， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -65,6 +65,7 @@
 
 
 - [2020-11-22-11月22日新增确诊病例11例-其中本土病例2例](https://m.caixin.com/m/2020-11-23/101631275.html) ![](assets/new.png)  
+- [2020-11-22-上海9日病例曾和工友共同暴露于一航空集装器-浦东机场航班取消四成](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
 - [2020-11-22-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
 - [2020-11-22-大流行手记|11月22日：沙特拨5亿美元研发疫苗-爱尔兰拟扑杀境内养殖貂](https://m.caixin.com/m/2020-11-23/101631291.html) ![](assets/new.png)  
 - [2020-11-21-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-19-天津新增4例本土确诊病例-为此前通报的4名核酸检测阳性者](https://m.caixin.com/m/2020-11-20/101630319.html) ![](assets/new.png)  
 - [2020-11-19-【境内疫情观察】新疆现有确诊病例清零（11月19日）](http://m.database.caixin.com/m/2020-11-20/101630462.html) ![](assets/new.png)  
 - [2020-11-19-大流行手记|11月19日：日本规定打新冠疫苗为国民义务-特斯拉CEO马斯克确诊](https://m.caixin.com/m/2020-11-20/101630323.html) ![](assets/new.png)  
-- [2020-11-19-袁国勇：未有足够证据显示新冠病毒去年在意大利传播](https://m.caixin.com/m/2020-11-20/101630664.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -376,6 +376,26 @@
 </summary>
 
 
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +553,8 @@
 </summary>
 
 
+- [2020-11-23-Android-开发技术周报-Issue#298](https://www.v2ex.com/t/728310) ![](assets/new.png)  
+- [2020-11-23-除了类-Excel，-SpreadJS-表格控件还能为系统开发带来什么价值？](https://www.v2ex.com/t/728309) ![](assets/new.png)  
 - [2020-11-23-杭州蚂蚁云原生配置语言开发-P6/P7](https://www.v2ex.com/t/728306) ![](assets/new.png)  
 - [2020-11-23-PHP-在-Windows-Server-下用什么生产环境?](https://www.v2ex.com/t/728305) ![](assets/new.png)  
 - [2020-11-23-服务器完备之后单独再备份数据库的意义大不大？](https://www.v2ex.com/t/728304) ![](assets/new.png)  
@@ -551,8 +573,6 @@
 - [2020-11-23-入手了一台-Mac-Mini，-M1-芯片版本的，如果你有想要测试的软件，可以发出来。](https://www.v2ex.com/t/728284) ![](assets/new.png)  
 - [2020-11-23-macos-默认快捷键如何修改或屏蔽](https://www.v2ex.com/t/728281) ![](assets/new.png)  
 - [2020-11-23-KubeVela：一个高可扩展的云原生应用平台与核心引擎](https://www.v2ex.com/t/728280) ![](assets/new.png)  
-- [2020-11-23-Resilio-Sync-可以单向同步吗？源文件本地删除，其他节点不同步删除](https://www.v2ex.com/t/728277) ![](assets/new.png)  
-- [2020-11-23-SSL-证书年终特惠-DV-证书¥19/年起-EV-证书¥360/年起](https://www.v2ex.com/t/728276) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +584,7 @@
 </summary>
 
 
+- [2020-11-23-这些表情包你有吗？来-Battle-啊-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13978&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F307672306%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-23-鹰角网络全球海量数据，一键轻松统一存储与处理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13977&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778559%3Futm_content%3Dg_1000207910%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-23-KubeVela-正式开源：一个高可扩展的云原生应用平台与核心引擎-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13976&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778543%3Futm_content%3Dg_1000207909%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-23-6岁！是时候重新认识下Serverless了-|-云原生趣谈-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13975&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778541%3Futm_content%3Dg_1000207513%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +604,6 @@
 - [2020-11-23-再谈领域驱动设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13961&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-23-Flink-1.11-与-Hive-批流一体数仓实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13960&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777720%3Futm_content%3Dg_1000206570%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-23-云原生时代微服务的高可用架构设计-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13959&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777594%3Futm_content%3Dg_1000206569%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-23-当-TiDB-与-Flink-相结合：高效、易用的实时数仓-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13958&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776726%3Futm_content%3Dg_1000206568%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -602,8 +622,8 @@
 - [2020-11-23-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
 - [2020-11-23-从贫血模型到领域驱动设计](https://toutiao.io/k/9jmqhyz) ![](assets/new.png)  
 - [2020-11-23-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
-- [2020-11-23-携程-Cilium-+-BGP-云原生网络实践](https://toutiao.io/k/1uoe2ey) ![](assets/new.png)  
 - [2020-11-23-Spring-Cloud-Alibaba-微服务实战（二十一）：JWT-增强](https://toutiao.io/k/1r4fyzo) ![](assets/new.png)  
+- [2020-11-23-携程-Cilium-+-BGP-云原生网络实践](https://toutiao.io/k/1uoe2ey) ![](assets/new.png)  
 - [2020-11-23-记一次中台项目的-ReactHook-沉淀](https://toutiao.io/k/qj1b4s9) ![](assets/new.png)  
 - [2020-11-23-Room-中的数据库关系](https://toutiao.io/k/gkdjiq0) ![](assets/new.png)  
 - [2020-11-23-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) ![](assets/new.png)  

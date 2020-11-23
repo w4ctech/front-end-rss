@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 06:48:57，:rocket: 更新条数: +3101， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 07:04:10，:rocket: 更新条数: +3106， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-23-俄哈卡斯共和国前行政长官济明因新冠肺炎去逝](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZSerDEiExKgtKhyQanV2201123&isfromapp=1) ![](assets/new.png)  
 - [2020-11-23-巴基斯坦新增新冠肺炎确诊病例2756例-累计确诊376929例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQaiTVDCFqCkXhG0Jxlxg201123&isfromapp=1) ![](assets/new.png)  
 - [2020-11-23-受疫情影响-厄瓜多尔首都旅游业受到重大影响](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZqQk6ctdSpoNCJYQ6soM201123&isfromapp=1) ![](assets/new.png)  
 - [2020-11-23-秘鲁新增新冠肺炎确诊病例1589例-累计确诊近95万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXGK7HkLcOSyurfO8mPXS201123&isfromapp=1) ![](assets/new.png)  
 - [2020-11-23-国家卫健委：22日新增11例新冠肺炎确诊病例-其中本土病例2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioUkl0ukpPNTpYYaQuCqd201123&isfromapp=1) ![](assets/new.png)  
-- [2020-11-22-安哥拉北宽扎省60名教师新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQNQeKNCrNoJeBQn7BtKs201123&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,10 +453,10 @@
 </summary>
 
 
+- [2020-11-22-UME---丰富的Flutter调试工具](https://juejin.im/post/6898205146711326733) ![](assets/new.png)  
 - [2020-11-22-Deno-1.0，来了解一下](https://juejin.im/post/6898153557493547022) ![](assets/new.png)  
 - [2020-11-22-「硬核JS」数字之美](https://juejin.im/post/6897949585558208525) ![](assets/new.png)  
 - [2020-11-21-手把手教你做一个华为鸿蒙系统Demo级项目（JS角度）](https://juejin.im/post/6897518583564697607) ![](assets/new.png)  
-- [2020-11-21-三分钟给女票写个“彩虹屁”bot-|-🏆-技术专题第七期征文](https://juejin.im/post/6897509349246107661) ![](assets/new.png)  
 - [2020-11-20-译为什么如今-Deno-正全面取代-Node.js](https://juejin.im/post/6897420951592534030) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -533,6 +533,16 @@
 </summary>
 
 
+- [2020-11-23-求助，推荐一款电脑](https://www.v2ex.com/t/728337) ![](assets/new.png)  
+- [2020-11-23-冬天电池尿崩](https://www.v2ex.com/t/728336) ![](assets/new.png)  
+- [2020-11-23-请教一个关于-Python-实例化内存地址的基础问题](https://www.v2ex.com/t/728335) ![](assets/new.png)  
+- [2020-11-23-关于“社区团购”最后几百米？](https://www.v2ex.com/t/728334) ![](assets/new.png)  
+- [2020-11-23-MacBook-外接显示器时,-你们是买个更大的触控板,-还是用鼠标呢?](https://www.v2ex.com/t/728333) ![](assets/new.png)  
+- [2020-11-23-支付宝-app-上面的搜索框是怎么实现的，功能可以如此丰富](https://www.v2ex.com/t/728332) ![](assets/new.png)  
+- [2020-11-23-求推荐，机器人推广电话系统](https://www.v2ex.com/t/728331) ![](assets/new.png)  
+- [2020-11-23-〔求助〕为什么上不了-Facebook-和-Instagram](https://www.v2ex.com/t/728330) ![](assets/new.png)  
+- [2020-11-23-360-极速浏览器打开掘金juejin.cn-没有文章-控制台会报错-谷歌没问题](https://www.v2ex.com/t/728329) ![](assets/new.png)  
+- [2020-11-23-scrapyd-部署不会添加外部文件吗](https://www.v2ex.com/t/728328) ![](assets/new.png)  
 - [2020-11-23-C#-如何使基类快速转换为派生类](https://www.v2ex.com/t/728327) ![](assets/new.png)  
 - [2020-11-23-程序员不如产品经理的地方](https://www.v2ex.com/t/728326) ![](assets/new.png)  
 - [2020-11-23-Google-面试题：编辑距离](https://www.v2ex.com/t/728325) ![](assets/new.png)  
@@ -543,16 +553,6 @@
 - [2020-11-23-how-to-choose-USB-kext-for-installing-hackintosh?](https://www.v2ex.com/t/728319) ![](assets/new.png)  
 - [2020-11-23-有人了解-eneloop-和紫米这种充电电池的吗？请进来交流下](https://www.v2ex.com/t/728318) ![](assets/new.png)  
 - [2020-11-23-康桥-2-房出租、精装修、可办居住证、18-号线地铁口年底通车、到张江-20-分钟](https://www.v2ex.com/t/728316) ![](assets/new.png)  
-- [2020-11-23-macos-指针不够灵敏准确](https://www.v2ex.com/t/728315) ![](assets/new.png)  
-- [2020-11-23-iOS-的地图导航,变成粤语了,怎么改回普通话?](https://www.v2ex.com/t/728313) ![](assets/new.png)  
-- [2020-11-23-单客户端有什么方法能利用群晖双千兆网口提升传输速度吗？](https://www.v2ex.com/t/728311) ![](assets/new.png)  
-- [2020-11-23-Android-开发技术周报-Issue#298](https://www.v2ex.com/t/728310) ![](assets/new.png)  
-- [2020-11-23-除了类-Excel，-SpreadJS-表格控件还能为系统开发带来什么价值？](https://www.v2ex.com/t/728309) ![](assets/new.png)  
-- [2020-11-23-杭州蚂蚁云原生配置语言开发-P6/P7](https://www.v2ex.com/t/728306) ![](assets/new.png)  
-- [2020-11-23-PHP-在-Windows-Server-下用什么生产环境?](https://www.v2ex.com/t/728305) ![](assets/new.png)  
-- [2020-11-23-服务器完备之后单独再备份数据库的意义大不大？](https://www.v2ex.com/t/728304) ![](assets/new.png)  
-- [2020-11-23-m1-芯片-transmit-karabiner-shellcraft-sequelPro-phpstorm-小程序开发者工具-都能完美允许了吗](https://www.v2ex.com/t/728300) ![](assets/new.png)  
-- [2020-11-23-今天摸鱼的时候发现-APIJSON-这个项目被腾讯收编了，-github-上的所有者是腾讯了](https://www.v2ex.com/t/728299) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

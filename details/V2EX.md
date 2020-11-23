@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-23 05:04:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 05:12:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-23-入手了一台-Mac-Mini，-M1-芯片版本的，如果你有想要测试的软件，可以发出来。](https://www.v2ex.com/t/728284) 
 - [2020-11-23-macos-默认快捷键如何修改或屏蔽](https://www.v2ex.com/t/728281) 
 - [2020-11-23-KubeVela：一个高可扩展的云原生应用平台与核心引擎](https://www.v2ex.com/t/728280) 
 - [2020-11-23-Resilio-Sync-可以单向同步吗？源文件本地删除，其他节点不同步删除](https://www.v2ex.com/t/728277) 
@@ -39,6 +40,3 @@
 - [2020-11-23-购买的-2-手手机，商家这里是否有违规行为？](https://www.v2ex.com/t/728238) 
 - [2020-11-23-AutoHotkey-为-HHKB-在-Windows-下续命](https://www.v2ex.com/t/728237) 
 - [2020-11-23-官网订购了-M1-芯片的新款-MacBook-竟然要接近一个月才能送达](https://www.v2ex.com/t/728236) 
-- [2020-11-23-11](https://www.v2ex.com/t/728235) 
-- [2020-11-23-刚打客服问了关于-AppleCare-转让的细节，以及如何防止被取消退款](https://www.v2ex.com/t/728234) 
-- [2020-11-23-macbook-电池鼓包了，想自己换电池，求推荐一款电池](https://www.v2ex.com/t/728233) 

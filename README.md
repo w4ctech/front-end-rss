@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 05:04:24，:rocket: 更新条数: +3103， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 05:12:23，:rocket: 更新条数: +3101， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-23-入手了一台-Mac-Mini，-M1-芯片版本的，如果你有想要测试的软件，可以发出来。](https://www.v2ex.com/t/728284) ![](assets/new.png)  
 - [2020-11-23-macos-默认快捷键如何修改或屏蔽](https://www.v2ex.com/t/728281) ![](assets/new.png)  
 - [2020-11-23-KubeVela：一个高可扩展的云原生应用平台与核心引擎](https://www.v2ex.com/t/728280) ![](assets/new.png)  
 - [2020-11-23-Resilio-Sync-可以单向同步吗？源文件本地删除，其他节点不同步删除](https://www.v2ex.com/t/728277) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-23-请教一个-Java-中传值和传址的问题](https://www.v2ex.com/t/728257) ![](assets/new.png)  
 - [2020-11-23-slf4j2-打印-json，存在转义字符问题](https://www.v2ex.com/t/728256) ![](assets/new.png)  
 - [2020-11-23-公司最近可能要搬,-个人想购买一点防甲醛产品,-求安利安利](https://www.v2ex.com/t/728255) ![](assets/new.png)  
-- [2020-11-23-小程序●云开发感恩特惠震撼来袭，折扣力度历史最大](https://www.v2ex.com/t/728254) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -611,8 +611,8 @@
 - [2020-11-23-测量一段代码的执行时间的常见方法](https://toutiao.io/k/4evs73z) ![](assets/new.png)  
 - [2020-11-23-大型小程序如何研发提效](https://toutiao.io/k/72hznv9) ![](assets/new.png)  
 - [2020-11-23-MarkMind：一个节点内部支持-Markdown-语法的思维导图和大纲工具](https://toutiao.io/k/q02ye8h) ![](assets/new.png)  
-- [2020-11-23-2021-年最值得测试同学使用的-Python-库](https://toutiao.io/k/7ua1qs1) ![](assets/new.png)  
 - [2020-11-23-Redis-多线程，到底是不是多线程](https://toutiao.io/k/4bfx6a6) ![](assets/new.png)  
+- [2020-11-23-2021-年最值得测试同学使用的-Python-库](https://toutiao.io/k/7ua1qs1) ![](assets/new.png)  
 - [2020-11-23-译-用-React-和-D3-创建图表](https://toutiao.io/k/spn2jti) ![](assets/new.png)  
 - [2020-11-23-Podspec-文件分析](https://toutiao.io/k/ej9z53a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

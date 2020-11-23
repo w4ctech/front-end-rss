@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 02:14:25，:rocket: 更新条数: +3098， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 02:26:44，:rocket: 更新条数: +3097， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,12 @@
 </summary>
 
 
+- [2020-11-23-我写了一款跟-PHP-鸟哥一样的博客皮肤](https://www.v2ex.com/t/728222) ![](assets/new.png)  
+- [2020-11-23-iMazing-终身授权大大大大优惠](https://www.v2ex.com/t/728220) ![](assets/new.png)  
+- [2020-11-23-杭州-直招-蚂蚁集团旗下世界领先的分布式数据库-OceanBase，诚聘前端工程师-P6-P8](https://www.v2ex.com/t/728218) ![](assets/new.png)  
+- [2020-11-23-请问各位-v2-大神都是用的什么证券-APP?](https://www.v2ex.com/t/728217) ![](assets/new.png)  
+- [2020-11-23-疑问：为什么-Catalyst-没有引发大规模的-iOS-软件移植-Mac-而-armmac-做到了](https://www.v2ex.com/t/728216) ![](assets/new.png)  
+- [2020-11-23-上海游戏公司-内推-桂林路地铁站旁边，求-IT-支持](https://www.v2ex.com/t/728214) ![](assets/new.png)  
 - [2020-11-23-腾讯云整个上海区的公网-IP-居然都售罄了...](https://www.v2ex.com/t/728213) ![](assets/new.png)  
 - [2020-11-23-做个调研，-nestjs-相比于其他-node-框架有什么特点](https://www.v2ex.com/t/728212) ![](assets/new.png)  
 - [2020-11-23-杭州蚂蚁金服-花呗技术部，部门直招P6~P8，-HC-有限，欢迎投递！!-！!](https://www.v2ex.com/t/728211) ![](assets/new.png)  
@@ -547,12 +553,6 @@
 - [2020-11-23-iPhone-的共享相簿不是原图？](https://www.v2ex.com/t/728202) ![](assets/new.png)  
 - [2020-11-23-萌新求解答关于找远程工作的问题！](https://www.v2ex.com/t/728201) ![](assets/new.png)  
 - [2020-11-23-cannot-resolve-remote-server-hostname-courier.push.apple.com:-Host-not-found-authoritative](https://www.v2ex.com/t/728200) ![](assets/new.png)  
-- [2020-11-23-Apple-Watch-Series-6](https://www.v2ex.com/t/728199) ![](assets/new.png)  
-- [2020-11-23-有没有拿到-M1-mac-的朋友说说微信开发者工具能不能用？](https://www.v2ex.com/t/728197) ![](assets/new.png)  
-- [2020-11-23-有什么适合收集照片的服务/APP？](https://www.v2ex.com/t/728196) ![](assets/new.png)  
-- [2020-11-23-homebrew-支持-big-sur-了？](https://www.v2ex.com/t/728195) ![](assets/new.png)  
-- [2020-11-23-三七互娱内推-社招-初/中-PHP-工程师-13-25K-广州](https://www.v2ex.com/t/728194) ![](assets/new.png)  
-- [2020-11-23-准备结束北漂了，生活用品邮寄有什么好方案吗？](https://www.v2ex.com/t/728193) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-23-KubeVela-正式开源：一个高可扩展的云原生应用平台与核心引擎-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13976&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778543%3Futm_content%3Dg_1000207909%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-23-6岁！是时候重新认识下Serverless了-|-云原生趣谈-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13975&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778541%3Futm_content%3Dg_1000207513%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-23-我看技术人的成长路径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-23-质量内建——缺陷管理实践分享-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-23-云原生时代微服务的高可用架构设计-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13959&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777594%3Futm_content%3Dg_1000206569%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-23-当-TiDB-与-Flink-相结合：高效、易用的实时数仓-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13958&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776726%3Futm_content%3Dg_1000206568%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-23-思否独立开发者采访-|-开启技术变现之路，探索第三收入来源-segmentfault.com](https://blogread.cn/news/go.php?idItem=13957&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000038196276%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-23-电梯行业的数字化转型，精细化管理开启新的红利窗口-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13956&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778400%3Futm_content%3Dg_1000205619%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -607,14 +607,14 @@
 - [2020-11-23-Room-中的数据库关系](https://toutiao.io/k/gkdjiq0) ![](assets/new.png)  
 - [2020-11-23-记一次中台项目的-ReactHook-沉淀](https://toutiao.io/k/qj1b4s9) ![](assets/new.png)  
 - [2020-11-23-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) ![](assets/new.png)  
-- [2020-11-23-测量一段代码的执行时间的常见方法](https://toutiao.io/k/4evs73z) ![](assets/new.png)  
 - [2020-11-23-深度解读最新版-Scrum-指南](https://toutiao.io/k/xpfjvyf) ![](assets/new.png)  
+- [2020-11-23-测量一段代码的执行时间的常见方法](https://toutiao.io/k/4evs73z) ![](assets/new.png)  
 - [2020-11-23-大型小程序如何研发提效](https://toutiao.io/k/72hznv9) ![](assets/new.png)  
 - [2020-11-23-MarkMind：一个节点内部支持-Markdown-语法的思维导图和大纲工具](https://toutiao.io/k/q02ye8h) ![](assets/new.png)  
-- [2020-11-23-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-23-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
-- [2020-11-23-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
-- [2020-11-23-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-23-2021-年最值得测试同学使用的-Python-库](https://toutiao.io/k/7ua1qs1) ![](assets/new.png)  
+- [2020-11-23-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-23-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
+- [2020-11-23-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

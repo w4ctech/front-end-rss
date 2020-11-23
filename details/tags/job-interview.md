@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-23 02:37:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 02:47:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -9,8 +9,6 @@
 
 - [2020-02-21-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-11-23-腾讯云招聘-西安-腾讯云-Web-开发方向,-组内极速直推,-前端/后端大量招聘中](https://www.v2ex.com/t/728227) 
-- [2020-11-23-重庆腾讯云招聘~~~](https://www.v2ex.com/t/728184) 
-- [2020-11-23-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) 
 - [2020-11-23-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) 
 - [2020-11-23-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) 
 - [2020-11-23-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) 

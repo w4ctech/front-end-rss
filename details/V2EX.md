@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-23 03:04:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 03:12:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-23-自制冻干机?](https://www.v2ex.com/t/728246) 
+- [2020-11-23-以后高端版本的-mac-会不会堆-m1-芯片的数量？我有一个大胆的想法](https://www.v2ex.com/t/728245) 
 - [2020-11-23-健身房跑路](https://www.v2ex.com/t/728243) 
 - [2020-11-23-repc-明年-4-月-1-执行-感觉-ps5-或者其他需要海购的可以等一波](https://www.v2ex.com/t/728242) 
 - [2020-11-23-macOS-照片里面的视频拖出来,-非常的慢,-从-Mojave-到-big-sur-都有这个问题,-这是为什么呢?](https://www.v2ex.com/t/728241) 
@@ -44,6 +46,3 @@
 - [2020-11-23-萌新求解答关于找远程工作的问题！](https://www.v2ex.com/t/728201) 
 - [2020-11-23-cannot-resolve-remote-server-hostname-courier.push.apple.com:-Host-not-found-authoritative](https://www.v2ex.com/t/728200) 
 - [2020-11-23-Apple-Watch-Series-6](https://www.v2ex.com/t/728199) 
-- [2020-11-23-有没有拿到-M1-mac-的朋友说说微信开发者工具能不能用？](https://www.v2ex.com/t/728197) 
-- [2020-11-23-有什么适合收集照片的服务/APP？](https://www.v2ex.com/t/728196) 
-- [2020-11-23-homebrew-支持-big-sur-了？](https://www.v2ex.com/t/728195) 

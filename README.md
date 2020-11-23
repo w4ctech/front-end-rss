@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 14:32:59，:rocket: 更新条数: +3105， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 14:36:15，:rocket: 更新条数: +3106， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-23-iTerm-2-记录-ssh-的触发器-password，每次都弹出来，求教大佬如何解决？](https://www.v2ex.com/t/728520) ![](assets/new.png)  
+- [2020-11-23-杭州-蚂蚁集团---研发效能部---代码服务与-CloudIDE-团队招聘](https://www.v2ex.com/t/728519) ![](assets/new.png)  
 - [2020-11-23-M1-的-Mac-不支持飞书啊！](https://www.v2ex.com/t/728518) ![](assets/new.png)  
 - [2020-11-23-国内如-b-站优酷都不像油管能自动连播推荐视频，这是什么原因导致的？政策还是技术](https://www.v2ex.com/t/728517) ![](assets/new.png)  
 - [2020-11-23-今天处理了一个奇葩的-IE-性能问题，可能我以前低估了-IE-的性能多差](https://www.v2ex.com/t/728516) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-23-97-年本科求建议](https://www.v2ex.com/t/728498) ![](assets/new.png)  
 - [2020-11-23-M1-Air-安装-iOS-版本的微信-对话界面好难看-求解](https://www.v2ex.com/t/728497) ![](assets/new.png)  
 - [2020-11-23-印度区-Youtube-Premium-发车。香港家庭组](https://www.v2ex.com/t/728496) ![](assets/new.png)  
-- [2020-11-23-发现拼多多竟然能获取到淘宝的用户使用习惯！](https://www.v2ex.com/t/728495) ![](assets/new.png)  
-- [2020-11-23-求助贴，大二学生党请求帮助选择](https://www.v2ex.com/t/728494) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-23 14:32:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 14:36:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2518,6 +2518,7 @@
 - [2019-12-03-从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f) 
 - [2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
 - [2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
+- [2020-11-23-iTerm-2-记录-ssh-的触发器-password，每次都弹出来，求教大佬如何解决？](https://www.v2ex.com/t/728520) 
 - [2020-11-23-M1-的-Mac-不支持飞书啊！](https://www.v2ex.com/t/728518) 
 - [2020-11-23-2020-国庆-6100-公里自驾游——青甘大环线](https://www.v2ex.com/t/728513) 
 - [2020-11-23-google-了-3-天反复测试也找不到答案的-Flask-SQLAlchemy-问题，请大神于水火间拯救我](https://www.v2ex.com/t/728510) 
@@ -2545,7 +2546,6 @@
 - [2020-11-23-关于蛋壳跑路这事，我的经历](https://www.v2ex.com/t/728477) 
 - [2020-11-23-淘宝搜索东西显示的图片不太对](https://www.v2ex.com/t/728476) 
 - [2020-11-23-keepass-到底要如何使用-有没有一份详细的教程](https://www.v2ex.com/t/728472) 
-- [2020-11-23-各位大佬，有个可能也许大概挺简单的问题求解](https://www.v2ex.com/t/728470) 
 - [2020-11-23-2019-年-CNCF-中国云原生调查报告-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13981&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778481%3Futm_content%3Dg_1000207913%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-23-高德全链路压测-精准控压的建设实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13980&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778572%3Futm_content%3Dg_1000207912%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-23-申通完美支撑“双11”-亿级包裹背后的云基础设施-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13979&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778563%3Futm_content%3Dg_1000207911%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

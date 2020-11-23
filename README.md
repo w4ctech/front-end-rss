@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 04:28:04，:rocket: 更新条数: +3105， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 04:35:37，:rocket: 更新条数: +3104， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-23-想找一份关于-web-安全的实习，应该学习哪些技能？怎样可以找得到？](https://www.v2ex.com/t/728273) ![](assets/new.png)  
 - [2020-11-23-电信商务专线](https://www.v2ex.com/t/728272) ![](assets/new.png)  
 - [2020-11-23-vps：一种安全访问-ssh-的方法](https://www.v2ex.com/t/728269) ![](assets/new.png)  
 - [2020-11-23-现在学习计算机，走哪个领域会比较有前途？](https://www.v2ex.com/t/728268) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-23-ios14-手动设定闹钟的一个小技巧。](https://www.v2ex.com/t/728250) ![](assets/new.png)  
 - [2020-11-23-物流友商搞的人脸抓拍无接触业务系统安全性如何？有政策风险么？](https://www.v2ex.com/t/728249) ![](assets/new.png)  
 - [2020-11-23-杭州阿里巴巴-CBU-开放平台～招算法专家➕-Java-开发专家/高级工程师](https://www.v2ex.com/t/728248) ![](assets/new.png)  
-- [2020-11-23-自制冻干机?](https://www.v2ex.com/t/728246) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

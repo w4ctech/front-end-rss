@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-23 04:28:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 04:35:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,6 +24,7 @@
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2020-11-22-有必要使用服务端渲染（SSR）吗？](https://juejin.im/post/6897856750947893255) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-23-想找一份关于-web-安全的实习，应该学习哪些技能？怎样可以找得到？](https://www.v2ex.com/t/728273) 
 - [2020-11-23-vps：一种安全访问-ssh-的方法](https://www.v2ex.com/t/728269) 
 - [2020-11-23-物流友商搞的人脸抓拍无接触业务系统安全性如何？有政策风险么？](https://www.v2ex.com/t/728249) 
 - [2020-11-23-chrome-图标有白底](https://www.v2ex.com/t/728239) 

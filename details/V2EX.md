@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-23 07:33:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 07:47:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-23-安卓系统的-WiFi-信道疑问](https://www.v2ex.com/t/728359) 
+- [2020-11-23-我是如何变成移动低-ARPU-值客户的（2020-年-11-月办理移动-8-元保号套餐）](https://www.v2ex.com/t/728358) 
+- [2020-11-23-毕业证书借别人办理-ICP-有风险嘛](https://www.v2ex.com/t/728355) 
+- [2020-11-23-老爸过生日了，送什么手机好呢？](https://www.v2ex.com/t/728353) 
+- [2020-11-23-Diigo-专业版-黑五￥-29.5-50%-off](https://www.v2ex.com/t/728352) 
+- [2020-11-23-Java-代码在打包的时候电脑特别卡，有什么好的优化方案吗？](https://www.v2ex.com/t/728350) 
 - [2020-11-23-有哪些基于-Websocket-扫码登录的案例？为什么不常见？](https://www.v2ex.com/t/728348) 
 - [2020-11-23-现在计算机相关专业的毕业生都去哪了，招个-Python-后端跟-web-前端好久没看到计算机专业的简历了](https://www.v2ex.com/t/728347) 
 - [2020-11-23-如何快速方法检测一个域名是不是采用了-CDN](https://www.v2ex.com/t/728346) 
@@ -38,8 +44,3 @@
 - [2020-11-23-iOS-的地图导航,变成粤语了,怎么改回普通话?](https://www.v2ex.com/t/728313) 
 - [2020-11-23-单客户端有什么方法能利用群晖双千兆网口提升传输速度吗？](https://www.v2ex.com/t/728311) 
 - [2020-11-23-Android-开发技术周报-Issue#298](https://www.v2ex.com/t/728310) 
-- [2020-11-23-除了类-Excel，-SpreadJS-表格控件还能为系统开发带来什么价值？](https://www.v2ex.com/t/728309) 
-- [2020-11-23-杭州蚂蚁云原生配置语言开发-P6/P7](https://www.v2ex.com/t/728306) 
-- [2020-11-23-PHP-在-Windows-Server-下用什么生产环境?](https://www.v2ex.com/t/728305) 
-- [2020-11-23-服务器完备之后单独再备份数据库的意义大不大？](https://www.v2ex.com/t/728304) 
-- [2020-11-23-m1-芯片-transmit-karabiner-shellcraft-sequelPro-phpstorm-小程序开发者工具-都能完美允许了吗](https://www.v2ex.com/t/728300) 

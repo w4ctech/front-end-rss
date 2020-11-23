@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-23 02:04:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 02:14:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,8 +25,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-23-cannot-resolve-remote-server-hostname-courier.push.apple.com:-Host-not-found-authoritative](https://www.v2ex.com/t/728200) 
 - [2020-11-23-Apple-Watch-Series-6](https://www.v2ex.com/t/728199) 
-- [2020-11-22-在百万、千万级数据的一张-PostgreSQL-表中如何高效搜索一个指定的内容](https://www.v2ex.com/t/728163) 
-- [2020-11-22-Edge-在把-URL-粘贴到微信的时候会把-URL-转成“Title+域名”形式](https://www.v2ex.com/t/728158) 
 - [2020-11-22-奇安信专家:工控系统存三大安全问题-内生安全势在必行](https://sec.thief.one/article_content?a_id=05e6cb52655319cbd2540abfea864398) 
 - [2020-11-22-AIoT安全峰会议题回顾|车联网安全的攻与防](https://sec.thief.one/article_content?a_id=2863b73e532223c93ab628d48f2da29c) 
 - [2020-11-22-Web安全:目录穿越漏洞](https://sec.thief.one/article_content?a_id=19e81cf506c744f0234db32e9c29270c) 

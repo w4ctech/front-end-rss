@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-23 02:04:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 02:14:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -111,6 +111,7 @@
 
 
 
+- [【V2EX】做个调研，-nestjs-相比于其他-node-框架有什么特点](https://www.v2ex.com/t/728212)
 - [【开发者头条】用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
@@ -334,8 +335,8 @@
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【V2EX】cannot-resolve-remote-server-hostname-courier.push.apple.com:-Host-not-found-authoritative](https://www.v2ex.com/t/728200)
 - [【V2EX】Apple-Watch-Series-6](https://www.v2ex.com/t/728199)
-- [【V2EX】在百万、千万级数据的一张-PostgreSQL-表中如何高效搜索一个指定的内容](https://www.v2ex.com/t/728163)
-- [【V2EX】Edge-在把-URL-粘贴到微信的时候会把-URL-转成“Title+域名”形式](https://www.v2ex.com/t/728158)
+- [【安全热点】奇安信专家:工控系统存三大安全问题-内生安全势在必行](https://sec.thief.one/article_content?a_id=05e6cb52655319cbd2540abfea864398)
+- [【安全热点】AIoT安全峰会议题回顾|车联网安全的攻与防](https://sec.thief.one/article_content?a_id=2863b73e532223c93ab628d48f2da29c)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -405,8 +406,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
 - [【掘金前端】106-道面向初中级前端的基础面试题](https://juejin.im/post/6898121476864638989)
 - [【V2EX】重庆腾讯云招聘~~~](https://www.v2ex.com/t/728184)
-- [【开发者头条】推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0)
+- [【开发者头条】推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi)
 - [【开发者头条】推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9)
+- [【开发者头条】推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0)
 - [【安全热点】牛聘|2020年度岗位招聘第14期](https://sec.thief.one/article_content?a_id=85a0fe56233d717438239fef07601c41)
 - [【安全热点】面试题:1-到-1000-之间有多少个-7?](https://sec.thief.one/article_content?a_id=d44d069be6d40bd08d40a185508c6b9d)
 - [......【查看更多】......](./details/tags/job-interview.md)

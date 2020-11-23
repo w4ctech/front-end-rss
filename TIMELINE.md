@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-23 00:07:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-23 00:30:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -26,24 +26,6 @@
 <th colspan="12">2019年</th>
 </tr>
 <tr>
-<td><a href="#2019-01">01月</a></td>
-<td><a href="#2019-02">02月</a></td>
-<td><a href="#2019-03">03月</a></td>
-<td>04月</td>
-<td>05月</td>
-<td><a href="#2019-06">06月</a></td>
-<td>07月</td>
-<td>08月</td>
-<td>09月</td>
-<td>10月</td>
-<td><a href="#2019-11">11月</a></td>
-<td><a href="#2019-12">12月</a></td>
-</tr>
-
-<tr>
-<th colspan="12">2018年</th>
-</tr>
-<tr>
 <td>01月</td>
 <td>02月</td>
 <td>03月</td>
@@ -54,8 +36,8 @@
 <td>08月</td>
 <td>09月</td>
 <td>10月</td>
-<td>11月</td>
-<td><a href="#2018-12">12月</a></td>
+<td><a href="#2019-11">11月</a></td>
+<td><a href="#2019-12">12月</a></td>
 </tr>
 
 </table>
@@ -68,7 +50,6 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2020-11-21-11月21日全国新增确诊病例17例-其中本土病例3例](https://m.caixin.com/m/2020-11-22/101631134.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-11-21-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-11-21-香港单日新增68宗病例-港府拟向确诊者发5000港元津贴](https://m.caixin.com/m/2020-11-22/101631215.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-11-21-【境内疫情观察】内蒙古新增2例本土确诊病例（11月21日）](http://m.database.caixin.com/m/2020-11-22/101631172.html) 
@@ -147,20 +128,21 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-11-02-大流行手记|11月2日：谭德赛密接后隔离-俄罗斯取消红场阅兵](https://m.caixin.com/m/2020-11-03/101622170.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-11-01-【境内疫情观察】新疆新增3例本土确诊病例（11月1日）](http://m.database.caixin.com/m/2020-11-02/101621431.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-11-01-大流行手记|11月1日：美国日增病例再创新高-英格兰地区将二次封锁](https://m.caixin.com/m/2020-11-02/101621335.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-23-国家卫健委：22日新增11例新冠肺炎确诊病例-其中本土病例2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioUkl0ukpPNTpYYaQuCqd201123&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-11-22-安哥拉北宽扎省60名教师新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQNQeKNCrNoJeBQn7BtKs201123&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-11-22-柏林勃兰登堡门传统新年派对或将因疫情取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticrD0XFRbsEksL8wtvCtW201123&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-11-22-法国首次发现养殖水貂感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwm8UrS0OlhgND1sYPyMI201123&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-11-22-大连市疾控中心紧急提醒：中高风险地区来连人员主动报备-尽快自行进行一次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIVjYayo3KcW7D13YAjXH201122&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-22-香港新增68例新冠肺炎确诊病例-香港特区政府政务司司长：香港正处于防疫危急时刻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBQVTd45XkTsEWeYHbi7l201122&isfromapp=1) 
 - [【张鑫旭-鑫空间-鑫生活】2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) 
 - [【阮一峰的网络日志】2020-11-20-科技爱好者周刊（第-134-期）：未来的游戏业比现在大100倍](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html) 
 - [【阮一峰的网络日志】2020-11-13-科技爱好者周刊（第-133-期）：贵州变瑞士，有没有可能？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html) 
 - [【阮一峰的网络日志】2020-11-06-科技爱好者周刊（第-132-期）：快能力和慢能力](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html) 
+- [【掘金前端】2020-11-22-Base64-编码入门教程](https://juejin.im/post/6898104998547161096) 
 - [【掘金前端】2020-11-22-这些开源项目，让你轻松应对十大工作场景](https://juejin.im/post/6898098763772985352) 
 - [【掘金前端】2020-11-22-jsliang-求职系列---22---回流和重绘](https://juejin.im/post/6898100089659752461) 
 - [【掘金前端】2020-11-22-「-giao-js-」用js写一个js解释器](https://juejin.im/post/6898093501376905230) 
 - [【掘金前端】2020-11-22-浏览器存储的不同类型简介](https://juejin.im/post/6897970967285514253) 
-- [【掘金前端】2020-11-22-潮流前端周刊（第11期）](https://juejin.im/post/6897964407285317645) 
+- [【V2EX】2020-11-23-iOS-短信转发不工作了怎么解？](https://www.v2ex.com/t/728174) 
 - [【V2EX】2020-11-22-如何更好的学习-shell-编程](https://www.v2ex.com/t/728172) 
 - [【V2EX】2020-11-22-云筏科技-CloudRaft-长期免费赠送-docker/k8s-学习环境（容器云）](https://www.v2ex.com/t/728171) 
 - [【V2EX】2020-11-22-用的华为平板-mate-pad-10.8,为什么网飞看电影感觉连-720p-都没有？](https://www.v2ex.com/t/728170) 
@@ -191,8 +173,6 @@
 - [【V2EX】2020-11-22-迫于微软的-appcenter-被墙，请问各位老铁还有哪个统计分析平台支持-mac-app-的？](https://www.v2ex.com/t/728130) 
 - [【V2EX】2020-11-22-一台多接口电视有哪些玩法](https://www.v2ex.com/t/728128) 
 - [【V2EX】2020-11-22-作为-macOS-平台软件的开发者，你都需要做哪些适配工作？难度如何？](https://www.v2ex.com/t/728127) 
-- [【V2EX】2020-11-22-关于网盘（个人盘）的方案探讨](https://www.v2ex.com/t/728125) 
-- [【V2EX】2020-11-22-M1-打不开佳能扫描仪程序](https://www.v2ex.com/t/728124) 
 - [【技术头条】2020-11-23-6岁！是时候重新认识下Serverless了-|-云原生趣谈-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13975&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778541%3Futm_content%3Dg_1000207513%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-11-23-我看技术人的成长路径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-11-23-质量内建——缺陷管理实践分享-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -214,21 +194,25 @@
 - [【技术头条】2020-11-23-思否独立开发者采访-|-开启技术变现之路，探索第三收入来源-segmentfault.com](https://blogread.cn/news/go.php?idItem=13957&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000038196276%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-11-23-电梯行业的数字化转型，精细化管理开启新的红利窗口-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13956&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778400%3Futm_content%3Dg_1000205619%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2020-11-23-厉害了！国外顶级计算机大神耗时两年时间整理出来这份-2000-页深入理解计算机系统笔记](https://toutiao.io/k/4hjd6qw) 
-- [【开发者头条】2020-11-23-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) 
-- [【开发者头条】2020-11-23-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) 
+- [【开发者头条】2020-11-23-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) 
+- [【开发者头条】2020-11-23-从贫血模型到领域驱动设计](https://toutiao.io/k/9jmqhyz) 
+- [【开发者头条】2020-11-23-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) 
+- [【开发者头条】2020-11-23-Apache-Kylin-的实践与优化](https://toutiao.io/k/anqfsl4) 
 - [【开发者头条】2020-11-23-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) 
-- [【开发者头条】2020-11-23-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) 
-- [【开发者头条】2020-11-23-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) 
-- [【开发者头条】2020-11-23-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) 
-- [【开发者头条】2020-11-23-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) 
-- [【开发者头条】2020-11-23-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) 
+- [【开发者头条】2020-11-23-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) 
+- [【开发者头条】2020-11-23-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) 
+- [【开发者头条】2020-11-23-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) 
+- [【开发者头条】2020-11-23-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) 
 - [【开发者头条】2020-11-23-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) 
-- [【开发者头条】2020-11-23-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) 
-- [【开发者头条】2020-11-23-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) 
-- [【开发者头条】2020-11-23-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) 
-- [【开发者头条】2020-11-23-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) 
+- [【开发者头条】2020-11-23-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) 
+- [【开发者头条】2020-11-23-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) 
+- [【开发者头条】2020-11-23-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) 
 - [【开发者头条】2020-11-23-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) 
-- [【开发者头条】2020-11-23-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) 
+- [【开发者头条】2020-11-23-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) 
+- [【开发者头条】2020-11-23-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) 
+- [【开发者头条】2020-11-23-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) 
+- [【开发者头条】2020-11-23-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) 
+- [【开发者头条】2020-11-23-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) 
 - [【安全热点】2020-11-22-f-string-竟然能有-73-个例子,我要学习下](https://sec.thief.one/article_content?a_id=e457801bef6f161ad94568105ac9bb65) 
 - [【安全热点】2020-11-22-奇安信专家:工控系统存三大安全问题-内生安全势在必行](https://sec.thief.one/article_content?a_id=05e6cb52655319cbd2540abfea864398) 
 - [【安全热点】2020-11-22-AIoT安全峰会议题回顾|车联网安全的攻与防](https://sec.thief.one/article_content?a_id=2863b73e532223c93ab628d48f2da29c) 
@@ -2196,8 +2180,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-抓防疫也顾春耕-李克强开了新冠疫情领导小组会](http://m.china.caixin.com/m/2020-03-02/101523024.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-北京：黄某英离汉进京有关问题的调查及情况通报](http://m.china.caixin.com/m/2020-03-02/101522908.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-联合调查组公布黄某英离汉进京事件调查结果](http://m.china.caixin.com/m/2020-03-02/101522853.html) 
-- [【京东设计中心】2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
-- [【京东设计中心】2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -3258,64 +3240,6 @@
 - [【前端艺术家&&飞冰早报】2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
 - [【前端艺术家&&飞冰早报】2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
 - [【前端艺术家&&飞冰早报】2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-06">
- 2019-06
-</summary>
-
-
-- [【京东设计中心】2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-03">
- 2019-03
-</summary>
-
-
-- [【京东设计中心】2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-02">
- 2019-02
-</summary>
-
-
-- [【京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-01">
- 2019-01
-</summary>
-
-
-- [【京东设计中心】2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
-- [【京东设计中心】2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2018-12">
- 2018-12
-</summary>
-
-
-- [【京东设计中心】2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
-- [【京东设计中心】2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
-- [【京东设计中心】2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

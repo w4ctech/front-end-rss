@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-23 00:07:53，:rocket: 更新条数: +3078， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 00:30:56，:rocket: 更新条数: +3070， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -64,7 +64,6 @@
 </summary>
 
 
-- [2020-11-21-11月21日全国新增确诊病例17例-其中本土病例3例](https://m.caixin.com/m/2020-11-22/101631134.html) ![](assets/new.png)  
 - [2020-11-21-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) ![](assets/new.png)  
 - [2020-11-21-香港单日新增68宗病例-港府拟向确诊者发5000港元津贴](https://m.caixin.com/m/2020-11-22/101631215.html) ![](assets/new.png)  
 - [2020-11-21-【境内疫情观察】内蒙古新增2例本土确诊病例（11月21日）](http://m.database.caixin.com/m/2020-11-22/101631172.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-11-19-袁国勇：未有足够证据显示新冠病毒去年在意大利传播](https://m.caixin.com/m/2020-11-20/101630664.html) ![](assets/new.png)  
 - [2020-11-18-【境内疫情观察】天津新增1例本土无症状感染者（11月18日）](http://m.database.caixin.com/m/2020-11-19/101630044.html) ![](assets/new.png)  
 - [2020-11-18-大流行手记|11月18日：WHO总部累计65人感染-谭德赛吁各界为疫苗计划捐款](https://m.caixin.com/m/2020-11-19/101629954.html) ![](assets/new.png)  
+- [2020-11-18-港中文研发“微生态免疫力配方”-促新冠患者加快康复](https://m.caixin.com/m/2020-11-19/101630268.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-23-国家卫健委：22日新增11例新冠肺炎确诊病例-其中本土病例2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioUkl0ukpPNTpYYaQuCqd201123&isfromapp=1) ![](assets/new.png)  
 - [2020-11-22-安哥拉北宽扎省60名教师新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQNQeKNCrNoJeBQn7BtKs201123&isfromapp=1) ![](assets/new.png)  
 - [2020-11-22-柏林勃兰登堡门传统新年派对或将因疫情取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticrD0XFRbsEksL8wtvCtW201123&isfromapp=1) ![](assets/new.png)  
 - [2020-11-22-法国首次发现养殖水貂感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwm8UrS0OlhgND1sYPyMI201123&isfromapp=1) ![](assets/new.png)  
 - [2020-11-22-大连市疾控中心紧急提醒：中高风险地区来连人员主动报备-尽快自行进行一次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIVjYayo3KcW7D13YAjXH201122&isfromapp=1) ![](assets/new.png)  
-- [2020-11-22-香港新增68例新冠肺炎确诊病例-香港特区政府政务司司长：香港正处于防疫危急时刻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBQVTd45XkTsEWeYHbi7l201122&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -355,16 +355,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,11 +443,11 @@
 </summary>
 
 
+- [2020-11-22-Base64-编码入门教程](https://juejin.im/post/6898104998547161096) ![](assets/new.png)  
 - [2020-11-22-这些开源项目，让你轻松应对十大工作场景](https://juejin.im/post/6898098763772985352) ![](assets/new.png)  
 - [2020-11-22-jsliang-求职系列---22---回流和重绘](https://juejin.im/post/6898100089659752461) ![](assets/new.png)  
 - [2020-11-22-「-giao-js-」用js写一个js解释器](https://juejin.im/post/6898093501376905230) ![](assets/new.png)  
 - [2020-11-22-浏览器存储的不同类型简介](https://juejin.im/post/6897970967285514253) ![](assets/new.png)  
-- [2020-11-22-潮流前端周刊（第11期）](https://juejin.im/post/6897964407285317645) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +523,7 @@
 </summary>
 
 
+- [2020-11-23-iOS-短信转发不工作了怎么解？](https://www.v2ex.com/t/728174) ![](assets/new.png)  
 - [2020-11-22-如何更好的学习-shell-编程](https://www.v2ex.com/t/728172) ![](assets/new.png)  
 - [2020-11-22-云筏科技-CloudRaft-长期免费赠送-docker/k8s-学习环境（容器云）](https://www.v2ex.com/t/728171) ![](assets/new.png)  
 - [2020-11-22-用的华为平板-mate-pad-10.8,为什么网飞看电影感觉连-720p-都没有？](https://www.v2ex.com/t/728170) ![](assets/new.png)  
@@ -552,7 +543,6 @@
 - [2020-11-22-家里的猫喜欢喝脏水怎么办？](https://www.v2ex.com/t/728153) ![](assets/new.png)  
 - [2020-11-22-干掉-MAC-系统的-ctrl-+-click-=-right-click（包括支持-idea-下-ctrl+click-跳转定义处功能）](https://www.v2ex.com/t/728151) ![](assets/new.png)  
 - [2020-11-22-請已在用-apple-silicon-的-v-友說說痛點](https://www.v2ex.com/t/728147) ![](assets/new.png)  
-- [2020-11-22-arm-Mac-可以使用-uTM-虚拟机虚拟-x86-windows.](https://www.v2ex.com/t/728145) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -596,21 +586,25 @@
 
 
 - [2020-11-23-厉害了！国外顶级计算机大神耗时两年时间整理出来这份-2000-页深入理解计算机系统笔记](https://toutiao.io/k/4hjd6qw) ![](assets/new.png)  
-- [2020-11-23-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-23-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
+- [2020-11-23-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
+- [2020-11-23-从贫血模型到领域驱动设计](https://toutiao.io/k/9jmqhyz) ![](assets/new.png)  
+- [2020-11-23-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
+- [2020-11-23-Apache-Kylin-的实践与优化](https://toutiao.io/k/anqfsl4) ![](assets/new.png)  
 - [2020-11-23-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
-- [2020-11-23-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
-- [2020-11-23-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
-- [2020-11-23-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
-- [2020-11-23-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-23-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-23-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
+- [2020-11-23-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-23-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
+- [2020-11-23-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
 - [2020-11-23-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
-- [2020-11-23-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
-- [2020-11-23-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
-- [2020-11-23-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
-- [2020-11-23-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
+- [2020-11-23-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
+- [2020-11-23-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
+- [2020-11-23-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
 - [2020-11-23-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
-- [2020-11-23-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-23-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
+- [2020-11-23-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-23-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
+- [2020-11-23-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
+- [2020-11-23-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -14252,6 +14252,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "巴基斯坦新增新冠肺炎确诊病例2756例 累计确诊376929例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQaiTVDCFqCkXhG0Jxlxg201123&isfromapp=1",
+        "date": "2020-11-23"
+      },
+      {
         "title": "受疫情影响 厄瓜多尔首都旅游业受到重大影响",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZqQk6ctdSpoNCJYQ6soM201123&isfromapp=1",
         "date": "2020-11-23"
@@ -14269,11 +14274,6 @@
       {
         "title": "安哥拉北宽扎省60名教师新冠病毒检测呈阳性",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQNQeKNCrNoJeBQn7BtKs201123&isfromapp=1",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "柏林勃兰登堡门传统新年派对或将因疫情取消",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticrD0XFRbsEksL8wtvCtW201123&isfromapp=1",
         "date": "2020-11-22"
       }
     ]
@@ -15954,6 +15954,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "面试中遇到一直追问，你们 xxx 功能是怎么做的？此类面试官，大家如何处理",
+        "link": "https://www.v2ex.com/t/728262",
+        "date": "2020-11-23"
+      },
+      {
         "title": "[广州][HC 无限，福利超级能打，最高 24 个月年终奖，欢迎投递] 酷狗音乐-诚招高级/资深 Java 开发工程师（25-40k）",
         "link": "https://www.v2ex.com/t/728259",
         "date": "2020-11-23"
@@ -16136,21 +16141,6 @@
       {
         "title": "腾讯云整个上海区的公网 IP 居然都售罄了...",
         "link": "https://www.v2ex.com/t/728213",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "做个调研， nestjs 相比于其他 node 框架有什么特点",
-        "link": "https://www.v2ex.com/t/728212",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[杭州][蚂蚁金服] 花呗技术部，部门直招(P6~P8)， HC 有限，欢迎投递！! ！!",
-        "link": "https://www.v2ex.com/t/728211",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "求推荐老年手机， 70+老人用",
-        "link": "https://www.v2ex.com/t/728210",
         "date": "2020-11-23"
       }
     ]
@@ -16348,13 +16338,13 @@
         "date": "2020-11-23"
       },
       {
-        "title": "2021 年最值得测试同学使用的 Python 库",
-        "link": "https://toutiao.io/k/7ua1qs1",
+        "title": "Redis 多线程，到底是不是多线程",
+        "link": "https://toutiao.io/k/4bfx6a6",
         "date": "2020-11-23"
       },
       {
-        "title": "Redis 多线程，到底是不是多线程",
-        "link": "https://toutiao.io/k/4bfx6a6",
+        "title": "2021 年最值得测试同学使用的 Python 库",
+        "link": "https://toutiao.io/k/7ua1qs1",
         "date": "2020-11-23"
       },
       {
@@ -16373,18 +16363,48 @@
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
         "date": "2020-11-23"
       },
       {
         "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
         "link": "https://toutiao.io/k/leud24r",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
+        "link": "https://toutiao.io/k/5lujxq0",
         "date": "2020-11-23"
       },
       {
@@ -16398,48 +16418,18 @@
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-23"
-      },
-      {
         "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
         "link": "https://toutiao.io/k/mlyha8z",
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-23"
       },
       {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-23"
       }
     ]

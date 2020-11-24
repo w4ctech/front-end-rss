@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-24 14:26:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 14:33:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-24-jetbrains-产品中两个提升生产力的插件](https://www.v2ex.com/t/728876) 
 - [2020-11-24-关于前端-backdrop-filter:blur-使用后变卡的优化问题](https://www.v2ex.com/t/728875) 
 - [2020-11-24-MacOS-11-连接-AirPods-Pro-连上了，在-Mac-上都可以切播放模式了，还是外放](https://www.v2ex.com/t/728874) 
 - [2020-11-24-nodejs-纯后端开发市场行情怎样？](https://www.v2ex.com/t/728872) 
@@ -45,5 +46,3 @@
 - [2020-11-24-一个很好看的-js-右滑拼图验证，为什么手机浏览器不兼容](https://www.v2ex.com/t/728830) 
 - [2020-11-24-微软说的-cross-platform...开发环境一言难尽](https://www.v2ex.com/t/728829) 
 - [2020-11-24-请教-Apple-Watch-蜂窝版运动场景下的一些疑问？](https://www.v2ex.com/t/728828) 
-- [2020-11-24-求助-Java-操作-mongodb](https://www.v2ex.com/t/728827) 
-- [2020-11-24-广州-招-12-20K-产品经理，最好有财务系统相关经验](https://www.v2ex.com/t/728826) 

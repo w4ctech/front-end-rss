@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 16:11:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 16:43:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,20 +7,6 @@
 
 
 
-- [2020-08-25-大流行手记|8月24日：疫情威胁全球粮食安全-美国新增病例增势趋缓](https://m.caixin.com/m/2020-08-25/101596567.html) 
-- [2020-04-22-非洲新冠疫情叠加蝗灾-2000万人面临粮食安全威胁](http://m.science.caixin.com/m/2020-04-22/101545698.html) 
-- [2020-04-14-科技部：疫苗研发加快推进-确保安全性](http://m.china.caixin.com/m/2020-04-14/101542545.html) 
-- [2020-04-13-肺炎日记|4月12日：复学加快步伐，如何保障师生安全？](http://m.china.caixin.com/m/2020-04-13/101541775.html) 
-- [2020-04-12-崔天凯：只要有一国还有疫情，就没有人是安全的](http://m.international.caixin.com/m/2020-04-12/101541606.html) 
-- [2020-04-09-非洲确诊病例破万-粮食安全风险高企](http://m.international.caixin.com/m/2020-04-09/101540248.html) 
-- [2020-04-07-大流行手记|4月7日：口罩被截胡？-柏林请求军方“押镖”](https://m.caixin.com/m/2020-04-07/101539735.html) 
-- [2020-03-28-纽约市近半确诊者未满45岁-特朗普明确“先安全后经济”](http://m.international.caixin.com/m/2020-03-28/101535354.html) 
-- [2020-03-27-泰国暂停鸡蛋出口-疫情当下粮食安全受关注](http://m.china.caixin.com/m/2020-03-27/101535032.html) 
-- [2020-03-26-美新冠死亡病例破千-美专家呼吁取消对华关税保障医护安全](http://m.international.caixin.com/m/2020-03-26/101534192.html) 
-- [2020-03-24-中英领导人通话-约翰逊称尽力照顾留学生等中国公民的健康安全](http://m.international.caixin.com/m/2020-03-24/101532958.html) 
-- [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
-- [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
-- [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-11-22-【第2125期】解决-Web-应用与浏览器快捷键冲突的一条野路子](https://www.ershicimi.com/p/c74c8072ce54da5c94ff129d36f5efd0) 
 - [2020-11-16-【第2119期】浏览器端录制技术的探索与实践](https://www.ershicimi.com/p/e3bb687ee8a39f8541ad227b33f77a32) 
 - [2020-11-22-对标-Postman！2.5-万-Star-的挑战者：Hoppscotch](https://www.ershicimi.com/p/f7a2a73ddabf044866e678c8cfef75b9) 
@@ -29,7 +15,6 @@
 - [2020-11-17-从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/d8b9d174792325554ecd3a796b69de29) 
 - [2020-11-13-Swift-发布路线图：更便捷，更高效且更安全](https://www.ershicimi.com/p/6092141198f4a44bf9845c3188f4d782) 
 - [2020-11-21-抖音前端安全招前端（实习、高级都招）](https://www.ershicimi.com/p/cb4bcf2ebbdf8937d5ca6c8723e4b6a2) 
-- [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
 - [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
@@ -45,6 +30,7 @@
 - [2020-11-22-Spring中的Controller-，Service，Dao是不是线程安全的？](https://www.ershicimi.com/p/a5130710eb2dfcc37633257c999510de) 
 - [2020-11-20-Postman公司微服务最新实践](https://www.ershicimi.com/p/ea02c363af284adb3c34aad5af6c1670) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-24-RoundShadowImageView---圆形图片的阴影,自由定制!](https://www.v2ex.com/t/728910) 
 - [2020-11-24-安全行业渗透测试岗和安服岗区别](https://www.v2ex.com/t/728889) 
 - [2020-11-24-急招-安全背景的安卓研发](https://www.v2ex.com/t/728885) 
 - [2020-11-24-来自未来的缓存-Caffeine，带你揭开它的神秘面纱](https://toutiao.io/k/rw16kcb) 

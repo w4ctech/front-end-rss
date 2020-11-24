@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 11:08:01，:rocket: 更新条数: +933， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 11:23:09，:rocket: 更新条数: +933， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,10 @@
 </summary>
 
 
+- [2020-11-24-translate_tabs_to_spaces-是什么功能？怎样设置，怎样操作会有怎样的效果？](https://www.v2ex.com/t/728831) ![](assets/new.png)  
+- [2020-11-24-一个很好看的-js-右滑拼图验证，为什么手机浏览器不兼容](https://www.v2ex.com/t/728830) ![](assets/new.png)  
+- [2020-11-24-微软说的-cross-platform...开发环境一言难尽](https://www.v2ex.com/t/728829) ![](assets/new.png)  
+- [2020-11-24-请教-Apple-Watch-蜂窝版运动场景下的一些疑问？](https://www.v2ex.com/t/728828) ![](assets/new.png)  
 - [2020-11-24-求助-Java-操作-mongodb](https://www.v2ex.com/t/728827) ![](assets/new.png)  
 - [2020-11-24-广州-招-12-20K-产品经理，最好有财务系统相关经验](https://www.v2ex.com/t/728826) ![](assets/new.png)  
 - [2020-11-24-有办法依照关键字订阅豆瓣小组的帖子吗？](https://www.v2ex.com/t/728825) ![](assets/new.png)  
@@ -1070,10 +1074,6 @@
 - [2020-11-24-关于-iPhone-无线充电的疑问](https://www.v2ex.com/t/728813) ![](assets/new.png)  
 - [2020-11-24-请问搭载-M1-芯片的新款-MacBook-Air-如何关闭键盘背光灯？](https://www.v2ex.com/t/728812) ![](assets/new.png)  
 - [2020-11-24-电信-电脑/平板都可以使用无线；-iPhone-无法使用无线](https://www.v2ex.com/t/728810) ![](assets/new.png)  
-- [2020-11-24-安全与风控-v2ex-做安全方向的朋友有吗](https://www.v2ex.com/t/728808) ![](assets/new.png)  
-- [2020-11-24-2021-年后-Java-想换工作,现在深圳-3-年经验的-Java-平均工资多少哇](https://www.v2ex.com/t/728807) ![](assets/new.png)  
-- [2020-11-24-“不建议-MySQL-使用-Text-类型”，对于-Text-内容比较短小也不能用吗？](https://www.v2ex.com/t/728806) ![](assets/new.png)  
-- [2020-11-24-吐了-macbook-pro-啥都没干就开不开机了-黑屏啥反应都没有](https://www.v2ex.com/t/728805) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,8 +1117,8 @@
 
 
 - [2020-11-24-资料-|-开源生态白皮书（2020-年）](https://toutiao.io/k/0s9musw) ![](assets/new.png)  
-- [2020-11-24-学习函数式编程-Monad](https://toutiao.io/k/5jrdqcv) ![](assets/new.png)  
 - [2020-11-24-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
+- [2020-11-24-学习函数式编程-Monad](https://toutiao.io/k/5jrdqcv) ![](assets/new.png)  
 - [2020-11-24-为什么你写的拦截器中不能注入-Java-bean？](https://toutiao.io/k/b95pnf6) ![](assets/new.png)  
 - [2020-11-24-为什么-Go-的泛型一拖再拖？](https://toutiao.io/k/dvyj3mp) ![](assets/new.png)  
 - [2020-11-24-用了-Redisson-的-Spring-Boot-Starter-搞的我都想重写个](https://toutiao.io/k/azyo1lg) ![](assets/new.png)  

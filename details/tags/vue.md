@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 05:48:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 06:04:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -68,4 +68,5 @@
 - [2020-11-23-Vue3-也能用上-Vue2-组件-From-EMP](https://juejin.im/post/6898498514813190158) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
+- [2020-11-24-Vue3-目前有已经在生产环境用的吗](https://www.v2ex.com/t/728692) 
 - [2020-11-24-如何在-VuePress-中添加博客导流公众号：即输入验证码解锁全站文章](https://toutiao.io/k/koawpqq) 

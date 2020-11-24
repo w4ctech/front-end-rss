@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 05:48:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 06:04:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -12,4 +12,3 @@
 - [2020-11-18-小程序大商机，低门槛hold全栈开发怎么做？-|-活动推荐](https://www.ershicimi.com/p/13f06abcc1bcb7e459dba8ff576bba44) 
 - [2020-11-23-极致追求，让小程序代码包立减-10%-的插件-weapp-css-modules](https://juejin.im/post/6898523728389341197) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
-- [2020-11-24-服务商快速创建的小程序如何开通云开发？](https://www.v2ex.com/t/728640) 

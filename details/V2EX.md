@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-24 14:33:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 14:48:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-24-Big-Sur-的-Time-Machine-支持-APFS-格式外置硬盘了](https://www.v2ex.com/t/728882) 
+- [2020-11-24-求教，家宽掉数据的原因一般是啥？](https://www.v2ex.com/t/728880) 
+- [2020-11-24-请问各位，现在互联网公司-C/C++的招聘岗位多么，待遇怎么样，相比-Java-，-Python-有什么优势呢？](https://www.v2ex.com/t/728879) 
+- [2020-11-24-修正带图LG-ultrafine-4K-屏幕算是阴阳屏吗](https://www.v2ex.com/t/728878) 
 - [2020-11-24-jetbrains-产品中两个提升生产力的插件](https://www.v2ex.com/t/728876) 
 - [2020-11-24-关于前端-backdrop-filter:blur-使用后变卡的优化问题](https://www.v2ex.com/t/728875) 
 - [2020-11-24-MacOS-11-连接-AirPods-Pro-连上了，在-Mac-上都可以切播放模式了，还是外放](https://www.v2ex.com/t/728874) 
@@ -41,8 +45,3 @@
 - [2020-11-24-翻译了一篇比较有趣的讲现代-web-开发最佳实践及精益-web-开发的文章](https://www.v2ex.com/t/728836) 
 - [2020-11-24-请问一个-spring-cloud-gateway-的-predicate--Path-双斜杠问题-“//”](https://www.v2ex.com/t/728835) 
 - [2020-11-24-以后可能再也不会选择京东了](https://www.v2ex.com/t/728834) 
-- [2020-11-24-hCaptcha-真是蠢到极致](https://www.v2ex.com/t/728832) 
-- [2020-11-24-translate_tabs_to_spaces-是什么功能？怎样设置，怎样操作会有怎样的效果？](https://www.v2ex.com/t/728831) 
-- [2020-11-24-一个很好看的-js-右滑拼图验证，为什么手机浏览器不兼容](https://www.v2ex.com/t/728830) 
-- [2020-11-24-微软说的-cross-platform...开发环境一言难尽](https://www.v2ex.com/t/728829) 
-- [2020-11-24-请教-Apple-Watch-蜂窝版运动场景下的一些疑问？](https://www.v2ex.com/t/728828) 

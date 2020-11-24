@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 14:33:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 14:48:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -15,6 +15,8 @@
 - [2020-11-16-基于nodejs线上代码热部署原理与实现](https://www.ershicimi.com/p/53d9a863e36a5c67c8387dda20cb581c) 
 - [2020-08-02-如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082) 
 - [2020-11-20-腾讯IMWeb团队是如何使用-NodeJS-实现-JWT-原理](https://www.ershicimi.com/p/fa09b876f461cb834dbd3fa9b9baa883) 
+- [2020-11-20-高端玩家！树莓派-+-Node.js-实现语音机器人-🤖](https://www.ershicimi.com/p/a7d5be05aeab92f4cdfa1e45903a6782) 
+- [2020-11-18-简单分析下-Node.js-关于集群的那些事](https://www.ershicimi.com/p/7a780afe0e5a67ca3a4973b658206702) 
 - [2020-11-10-Node.js-如何应对来自-Ryan-Dahl-的-Deno-的挑战](https://www.ershicimi.com/p/30e2e58ed40cbbe646e69416086be7dc) 
 - [2020-11-06-悟空活动中台-打造-Nodejs-版本的MyBatis](https://www.ershicimi.com/p/543fdb0171b0cf9f06aa8a4c89abd7c8) 
 - [2020-11-05-Redis-+-NodeJS-实现一个能处理海量数据的异步任务队列系统](https://www.ershicimi.com/p/e723e1b5f513d9e6d1296ac748c18acb) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 14:33:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 14:48:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -27,6 +27,7 @@
 - [2020-11-23-真的搞不懂大厂为什么都喜欢用-React-？](https://www.ershicimi.com/p/7e1dffef77b76c832dd620663161f0d1) 
 - [2020-11-20-React-Native-新架构](https://www.ershicimi.com/p/c61755cc8ade1ed33f2522dd1408f078) 
 - [2020-11-18-我就想招React，为啥遍地都是Vue？](https://www.ershicimi.com/p/4b4b13e569cec9b333ea5baa98a00cfd) 
+- [2020-11-22-Next.js-+Egg.js+React项目服务器部署超详解](https://www.ershicimi.com/p/0bba38649013df28365c907500c60af3) 
 - [2020-11-19-记一次中台项目的ReactHook沉淀](https://www.ershicimi.com/p/06e94ef31a7e2c1469c0299cc1850223) 
 - [2020-11-14-React-Native-新架构](https://www.ershicimi.com/p/23c2d1eb01bf0bd612a845f3408bd55d) 
 - [2020-10-09-能读React源码的人，很吃香！](https://www.ershicimi.com/p/592ed6d488321e33fbf34051082457f1) 

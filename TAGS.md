@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-24 16:43:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 16:59:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -345,16 +345,16 @@
 - [【前端宇宙】2020年你不应该错过的CSS新特性](https://www.ershicimi.com/p/3b2a64f15fbeb0d22cb4eaa46798be45)
 - [【前端瓶子君】CSS进阶知识扫盲](https://www.ershicimi.com/p/576045b4b5ddf86491dc0a4e51e330bb)
 - [【Nodejs技术栈】超魔性神曲《Serverless-之歌》，酷炫洗脑！](https://www.ershicimi.com/p/f989950b952885d7b8eb3f1bc58e7273)
+- [【张鑫旭-鑫空间-鑫生活】HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/)
+- [【张鑫旭-鑫空间-鑫生活】图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/)
+- [【张鑫旭-鑫空间-鑫生活】如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/)
+- [【张鑫旭-鑫空间-鑫生活】快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)
 - [【凹凸实验室】从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/)
 - [【凹凸实验室】你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/)
 - [【凹凸实验室】几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/)
 - [【凹凸实验室】2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/)
 - [【凹凸实验室】serverless](https://aotu.io/notes/2019/08/05/serverless/)
 - [【凹凸实验室】动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/)
-- [【凹凸实验室】CSS技巧：逐帧动画抖动解决方案](https://aotu.io/notes/2017/08/14/fix-sprite-anim/)
-- [【凹凸实验室】一个例子上手SVG动画](https://aotu.io/notes/2017/05/04/example-for-svg-animation/)
-- [【凹凸实验室】使用-Snap.svg-制作动画](https://aotu.io/notes/2017/01/22/snapsvg/)
-- [【凹凸实验室】sass-svg-一个内联-SVG-的-SASS-库](https://aotu.io/notes/2017/01/19/sass-svg/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -373,6 +373,7 @@
 
 - [【前端早读课】【第2120期】如何1人5天开发完3D数据可视化大屏之二](https://www.ershicimi.com/p/7359c69ca87ac88be153de00f1900edd)
 - [【前端迷】WebGL-水波及焦散（刻蚀）的渲染总结](https://www.ershicimi.com/p/09beabb4d4095136601674e205b1b893)
+- [【张鑫旭-鑫空间-鑫生活】SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/)
 - [【凹凸实验室】图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/)
 - [【凹凸实验室】向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/)
 - [【凹凸实验室】SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/)
@@ -480,6 +481,7 @@
 - [【前端大学】从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/d8b9d174792325554ecd3a796b69de29)
 - [【前端之巅】Swift-发布路线图：更便捷，更高效且更安全](https://www.ershicimi.com/p/6092141198f4a44bf9845c3188f4d782)
 - [【前端迷】抖音前端安全招前端（实习、高级都招）](https://www.ershicimi.com/p/cb4bcf2ebbdf8937d5ca6c8723e4b6a2)
+- [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【凹凸实验室】Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)
 - [【凹凸实验室】URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/)
 - [【凹凸实验室】移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/)
@@ -491,7 +493,6 @@
 - [【奇舞周刊】postMessage-还能这样玩](https://www.ershicimi.com/p/3a7709204bdc61198e129868b53b7147)
 - [【前端e进阶】「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559)
 - [【前端e进阶】推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5)
-- [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -543,7 +544,6 @@
 - [【前端日刊】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/3f31bee0e974ab26ac32528f2662869b)
 - [【V2EX】外部电脑，如何访问-docker-容器内的-ip-地址？](https://www.v2ex.com/t/728908)
 - [【开发者头条】好未来开源框架-go-zero：如何用它进行-Rest-开发？](https://toutiao.io/k/djybagl)
-- [【开发者头条】推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

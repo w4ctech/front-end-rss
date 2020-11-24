@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 16:43:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 16:59:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -47,6 +47,8 @@
 - [2020-11-16-给前端开发者的-14-个-JavaScript-代码优化建议](https://www.ershicimi.com/p/bd698feaf9bcdfe422090e220eb01130) 
 - [2020-11-15-ES6、ES7、ES8学习指南复习下](https://www.ershicimi.com/p/4d7487534ba746d86f0fbc5c68f90903) 
 - [2020-11-16-从理解到实现轻松掌握-ES6-中的迭代器](https://www.ershicimi.com/p/3795a41792370b270408c5350d3f5adf) 
+- [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) 
+- [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) 
 - [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) 
@@ -90,5 +92,4 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-11-24-nuxt.js-可以生成静态网站吗](https://www.v2ex.com/t/728900) 
-- [2020-11-24-请问这个-asyncio-异步访问页面怎么写可以更加快？](https://www.v2ex.com/t/728863) 
 - [2020-11-24-学习函数式编程-Monad](https://toutiao.io/k/5jrdqcv) 

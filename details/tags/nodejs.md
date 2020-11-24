@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 12:50:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 13:04:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -27,6 +27,5 @@
 - [2020-10-22-Node.js-v15.0.0-is-here!](https://www.ershicimi.com/p/7fdd5343e000267c418d5ad709a4f8ab) 
 - [2020-10-16-前端赋能业务---Node实现自动化部署平台](https://www.ershicimi.com/p/99b484a81d88ceedb095488767352245) 
 - [2020-10-15-排查-Node.js-服务内存泄漏，没想到竟是它？](https://www.ershicimi.com/p/daecb693cd78ffa928d74d4047f89cba) 
-- [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 
 - [2020-10-25-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/bdaf5888efdc904b2f7aeaf8284cce69) 
 - [2020-11-23-译Node.js:-快捷的async函数会如何阻塞事件循环，使I/O饥饿？](https://juejin.im/post/6898581784150654984) 

@@ -2224,6 +2224,16 @@
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
       {
+        "title": "腾讯、华为前端技术岗发布+最新内部面试题",
+        "link": "https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "3天VUE实战，1比1还原抖音代码！",
+        "link": "https://www.ershicimi.com/p/357d7929d9716f30eb66647a8de23f47",
+        "date": "2020-11-23"
+      },
+      {
         "title": "快人一步上手 Vue3.0",
         "link": "https://www.ershicimi.com/p/dfc983e441c2706df8b787642a0d4321",
         "date": "2020-11-19"
@@ -2312,16 +2322,6 @@
         "title": "下一家跳槽该去哪里？",
         "link": "https://www.ershicimi.com/p/a847c79ea2dec4469720ea2b7efbcd40",
         "date": "2020-09-28"
-      },
-      {
-        "title": "从0到1用Node完成一个CLI工具",
-        "link": "https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "ES2020 中 Javascript 10 个你应该知道的新功能",
-        "link": "https://www.ershicimi.com/p/5dec6d20ee78a818f19d8e2aeb310632",
-        "date": "2020-09-21"
       }
     ]
   },
@@ -3168,6 +3168,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "转型大数据开发的纠结与疑惑。",
+        "link": "https://www.v2ex.com/t/728855",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "Go 多个 map 同时赋值给多个结构体问题",
+        "link": "https://www.v2ex.com/t/728854",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "请问在哪儿绑定手机号",
+        "link": "https://www.v2ex.com/t/728853",
+        "date": "2020-11-24"
+      },
+      {
         "title": "[上海][小组急招，急急急][30~60K][15.5 薪] 美团 [ Java 开发]",
         "link": "https://www.v2ex.com/t/728852",
         "date": "2020-11-24"
@@ -3365,21 +3380,6 @@
       {
         "title": "“不建议 MySQL 使用 Text 类型”，对于 Text 内容比较短小也不能用吗？",
         "link": "https://www.v2ex.com/t/728806",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "吐了 macbook pro 啥都没干就开不开机了 黑屏啥反应都没有",
-        "link": "https://www.v2ex.com/t/728805",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "深入 Slate.js 编辑器 - 引言",
-        "link": "https://www.v2ex.com/t/728804",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "怎样 1 个月减肥 10 斤",
-        "link": "https://www.v2ex.com/t/728803",
         "date": "2020-11-24"
       }
     ]
@@ -3597,28 +3597,28 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-24"
       },
       {
@@ -3632,33 +3632,8 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
         "date": "2020-11-24"
       },
       {
@@ -3667,8 +3642,33 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
         "date": "2020-11-24"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 12:50:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 13:04:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -51,7 +51,6 @@
 - [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882) 
-- [2020-09-21-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/5dec6d20ee78a818f19d8e2aeb310632) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2020-11-24-搞懂变量提升、this、作用域链、闭包以及GO,VO,AO原理](https://juejin.im/post/6898620971729911821) 
 - [2020-11-23-JS入门笔记](https://juejin.im/post/6898585563558281224) 
@@ -65,5 +64,4 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-11-24-一个很好看的-js-右滑拼图验证，为什么手机浏览器不兼容](https://www.v2ex.com/t/728830) 
-- [2020-11-24-深入-Slate.js-编辑器---引言](https://www.v2ex.com/t/728804) 
 - [2020-11-24-学习函数式编程-Monad](https://toutiao.io/k/5jrdqcv) 

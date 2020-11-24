@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-24 17:33:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 17:47:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-24-神奇的-Big-Sur,-两只-AirPods-Pro-分别连接-iPhone-和-Mac](https://www.v2ex.com/t/728916) 
 - [2020-11-24-听说上海开了家『犬夜叉』主题餐厅？](https://www.v2ex.com/t/728915) 
 - [2020-11-24-iPad-air2-打开超过-2-个网站，返回就重载，有解决办法不](https://www.v2ex.com/t/728914) 
 - [2020-11-24-谈谈某些"大佬"说微软-MSDN-文档全面的个人见解](https://www.v2ex.com/t/728913) 
@@ -40,4 +41,3 @@
 - [2020-11-24-杭州-滴滴-Java-开发-租车相关业务-组内直招](https://www.v2ex.com/t/728869) 
 - [2020-11-24-技术求助-Linkedin-数据爬取-除了-selenium-有什么好的方法吗？-有关-csrf-的疑惑](https://www.v2ex.com/t/728868) 
 - [2020-11-24-苹果全新-M1-产品亮相](https://www.v2ex.com/t/728867) 
-- [2020-11-24-pi-hole-安装完之后访问网页很慢怎么解决？](https://www.v2ex.com/t/728866) 

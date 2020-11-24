@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-24 23:07:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 23:22:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-24-感于问大火大学对学生会看法的帖子，想到了毕业时候辅导员-QQ-群的殷切寄语](https://www.v2ex.com/t/728923) 
 - [2020-11-24-［-M1］-16”-MacBook-Pro-爆料](https://www.v2ex.com/t/728922) 
 - [2020-11-24--FinTech-社区-招聘-|-量化投资经理](https://www.v2ex.com/t/728921) 
 - [2020-11-24-Sun-Oracle-硬盘-7093037（2.5-inch-sas-3-HDD）哪里买？](https://www.v2ex.com/t/728920) 

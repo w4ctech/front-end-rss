@@ -18610,6 +18610,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "感于问大火大学对学生会看法的帖子，想到了毕业时候辅导员 QQ 群的殷切寄语",
+        "link": "https://www.v2ex.com/t/728923",
+        "date": "2020-11-24"
+      },
+      {
         "title": "［ M1］ 16” MacBook Pro 爆料",
         "link": "https://www.v2ex.com/t/728922",
         "date": "2020-11-24"
@@ -18964,13 +18969,13 @@
         "date": "2020-11-24"
       },
       {
-        "title": "重温设计模式系列（二）：面向对象基础知识",
-        "link": "https://toutiao.io/k/yayekh2",
+        "title": "回顾 Android 11 中的存储机制更新",
+        "link": "https://toutiao.io/k/nh1jnsf",
         "date": "2020-11-24"
       },
       {
-        "title": "回顾 Android 11 中的存储机制更新",
-        "link": "https://toutiao.io/k/nh1jnsf",
+        "title": "重温设计模式系列（二）：面向对象基础知识",
+        "link": "https://toutiao.io/k/yayekh2",
         "date": "2020-11-24"
       },
       {
@@ -19004,58 +19009,13 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
-        "date": "2020-11-24"
-      },
-      {
         "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
         "link": "https://toutiao.io/k/z2u8tqp",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
         "date": "2020-11-24"
       },
       {
@@ -19064,8 +19024,38 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-24"
       },
       {
@@ -19074,8 +19064,23 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
         "date": "2020-11-24"
       }
     ]

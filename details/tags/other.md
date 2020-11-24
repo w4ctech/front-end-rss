@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 11:04:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 11:08:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -366,6 +366,22 @@
 - [2020-11-24-求助，电信安装师傅说他们只允许门口进线？](https://www.v2ex.com/t/728781) 
 - [2020-11-24-北京/上海-内推-盖楼抢-red-packet急招-QA🔥🔥🔥外企电商-1075-公司欢迎各位加入-Java-/QA/客户端](https://www.v2ex.com/t/728780) 
 - [2020-11-24-年轻人要耗子尾汁，好好反思自我，以和为贵，要讲武德，不要搞窝里斗——习武之人切记，仁者无敌](https://www.v2ex.com/t/728779) 
+- [2020-11-24-从基础设施到云原生应用，全方位解读阿里云原生新锐开源项目-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13987&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778671%3Futm_content%3Dg_1000209002%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-云原生趋势下的迁移与容灾思考-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13986&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778675%3Futm_content%3Dg_1000209001%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-Flink-双流-Join-的3种操作示例-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13985&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778485%3Futm_content%3Dg_1000209000%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-菜鸟实时数仓2.0进阶之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13983&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778623%3Futm_content%3Dg_1000208998%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-2019-年-CNCF-中国云原生调查报告-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13981&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778481%3Futm_content%3Dg_1000207913%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-高德全链路压测-精准控压的建设实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13980&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778572%3Futm_content%3Dg_1000207912%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-申通完美支撑“双11”-亿级包裹背后的云基础设施-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13979&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778563%3Futm_content%3Dg_1000207911%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-这些表情包你有吗？来-Battle-啊-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13978&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F307672306%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-鹰角网络全球海量数据，一键轻松统一存储与处理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13977&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778559%3Futm_content%3Dg_1000207910%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-KubeVela-正式开源：一个高可扩展的云原生应用平台与核心引擎-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13976&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778543%3Futm_content%3Dg_1000207909%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-我看技术人的成长路径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-质量内建——缺陷管理实践分享-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-AI云原生浅谈：好未来AI中台实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13972&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778470%3Futm_content%3Dg_1000207511%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-双十一消费近万亿！1亿人见证数字物流，“尾款人”收货更快了？购物狂欢七大趋势浮现-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13971&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778497%3Futm_content%3Dg_1000207510%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-揭秘“双11”黑科技：机器人“接管”物流、服务器“不发烧”-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13969&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778476%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-24-年轻人不讲武德，偷袭阿里的机房-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13968&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778491%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-24-资料-|-开源生态白皮书（2020-年）](https://toutiao.io/k/0s9musw) 
 - [2020-11-24-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) 
 - [2020-11-24-为什么你写的拦截器中不能注入-Java-bean？](https://toutiao.io/k/b95pnf6) 

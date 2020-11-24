@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 19:21:05，:rocket: 更新条数: +3782， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 19:32:52，:rocket: 更新条数: +3782， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1145,8 +1145,8 @@
 - [2020-11-24-CompletableFuture-应用实践](https://toutiao.io/k/3wwb6r0) ![](assets/new.png)  
 - [2020-11-24-用了-Redisson-的-Spring-Boot-Starter-搞的我都想重写个](https://toutiao.io/k/azyo1lg) ![](assets/new.png)  
 - [2020-11-24-M1-暴打-Intel？：x86-与-ARM-的爱恨情仇](https://toutiao.io/k/fejmlbb) ![](assets/new.png)  
-- [2020-11-24-云原生趋势下的迁移与容灾思考](https://toutiao.io/k/q1rlmlh) ![](assets/new.png)  
 - [2020-11-24-好未来开源框架-go-zero：如何用它进行-Rest-开发？](https://toutiao.io/k/djybagl) ![](assets/new.png)  
+- [2020-11-24-云原生趋势下的迁移与容灾思考](https://toutiao.io/k/q1rlmlh) ![](assets/new.png)  
 - [2020-11-24-如何在-VuePress-中添加博客导流公众号：即输入验证码解锁全站文章](https://toutiao.io/k/koawpqq) ![](assets/new.png)  
 - [2020-11-24-重温设计模式系列（二）：面向对象基础知识](https://toutiao.io/k/yayekh2) ![](assets/new.png)  
 - [2020-11-24-回顾-Android-11-中的存储机制更新](https://toutiao.io/k/nh1jnsf) ![](assets/new.png)  

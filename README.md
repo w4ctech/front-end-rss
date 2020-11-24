@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 02:32:55，:rocket: 更新条数: +3335， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 02:38:10，:rocket: 更新条数: +3335， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,6 @@
 
 
 - [2020-11-23-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
-- [2020-11-22-11月22日新增确诊病例11例-其中本土病例2例](https://m.caixin.com/m/2020-11-23/101631275.html) ![](assets/new.png)  
 - [2020-11-22-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
 - [2020-11-22-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
 - [2020-11-22-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-11-19-本地病例单日激增21宗-香港或已进入第四波疫情](https://m.caixin.com/m/2020-11-20/101630824.html) ![](assets/new.png)  
 - [2020-11-19-天津新增4例新冠本土确诊病例-所住小区升为高风险地区](https://m.caixin.com/m/2020-11-20/101630539.html) ![](assets/new.png)  
 - [2020-11-19-天津新增4例本土确诊病例-为此前通报的4名核酸检测阳性者](https://m.caixin.com/m/2020-11-20/101630319.html) ![](assets/new.png)  
+- [2020-11-19-【境内疫情观察】新疆现有确诊病例清零（11月19日）](http://m.database.caixin.com/m/2020-11-20/101630462.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -473,11 +473,11 @@
 </summary>
 
 
-- [2020-11-23-Webpack学习笔记（三）](https://juejin.im/post/6898288448986152973) ![](assets/new.png)  
-- [2020-11-23-正则表达式一篇入门](https://juejin.im/post/6898288174649982990) ![](assets/new.png)  
-- [2020-11-23-HTML常用标签](https://juejin.im/post/6898286692635082765) ![](assets/new.png)  
-- [2020-11-23-HTML入门](https://juejin.im/post/6898285140439465998) ![](assets/new.png)  
-- [2020-11-23-帮你对比多种微前端方案](https://juejin.im/post/6898268972178178061) ![](assets/new.png)  
+- [2020-11-23-koa1.x中间件（middleware）执行流程](https://juejin.im/post/6898331270300991496) ![](assets/new.png)  
+- [2020-11-23-部署网站；如何让其他人访问自己写的网站；发布网站](https://juejin.im/post/6898328936867069960) ![](assets/new.png)  
+- [2020-11-23-清除浮动](https://juejin.im/post/6898323461672796174) ![](assets/new.png)  
+- [2020-11-23-函数调用的四种模式](https://juejin.im/post/6898319510277718030) ![](assets/new.png)  
+- [2020-11-23-CSS-in-JS-简单了解](https://juejin.im/post/6898318463715475464) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,10 @@
 </summary>
 
 
+- [2020-11-24-杭州-区块链公司-高薪招聘-欢迎大家来投简历](https://www.v2ex.com/t/728607) ![](assets/new.png)  
+- [2020-11-24-求指点，到底怎样写-JD-才能收到机器/深度学习实习生的简历啊？](https://www.v2ex.com/t/728606) ![](assets/new.png)  
+- [2020-11-24-iOS-可以几行代码绕过系统代理,-为什么大家都不这么做?](https://www.v2ex.com/t/728603) ![](assets/new.png)  
+- [2020-11-24-求推荐一款-Apple-Watch-用的最准确的睡眠检测软件，晚上戴表睡觉，不强求自动检测，手动点一下也行，只要准确性，免费付费都行](https://www.v2ex.com/t/728602) ![](assets/new.png)  
 - [2020-11-24-话说你们都抽电子烟么？](https://www.v2ex.com/t/728598) ![](assets/new.png)  
 - [2020-11-24-pr14.2-导出视频时，显卡（Rx590gme）硬件加速无效果，大家有知道是原因吗？](https://www.v2ex.com/t/728597) ![](assets/new.png)  
 - [2020-11-24-求推荐一曲双词的歌](https://www.v2ex.com/t/728596) ![](assets/new.png)  
@@ -569,10 +573,6 @@
 - [2020-11-24-文案编辑兼职招聘｜海外兔｜推荐有奖](https://www.v2ex.com/t/728582) ![](assets/new.png)  
 - [2020-11-24-V2EX-账号系统无耻](https://www.v2ex.com/t/728581) ![](assets/new.png)  
 - [2020-11-24-很好奇一些人不喜欢-iPhone-，不买-iPhone-，没遇到过-iPhone-的问题，但是他就能喷出来，什么心理？](https://www.v2ex.com/t/728577) ![](assets/new.png)  
-- [2020-11-24-阿里的同学来领工单](https://www.v2ex.com/t/728576) ![](assets/new.png)  
-- [2020-11-24-排序矩阵中的从小到大第-k-个数](https://www.v2ex.com/t/728575) ![](assets/new.png)  
-- [2020-11-24-绝大多数-iOS-app-都不能从-Mac-app-store-下载](https://www.v2ex.com/t/728574) ![](assets/new.png)  
-- [2020-11-24-公司准备招人，让我发布招聘信息-and-面试（第一次）](https://www.v2ex.com/t/728572) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -628,13 +628,13 @@
 - [2020-11-24-回顾-Android-11-中的存储机制更新](https://toutiao.io/k/nh1jnsf) ![](assets/new.png)  
 - [2020-11-24-重温设计模式系列（二）：面向对象基础知识](https://toutiao.io/k/yayekh2) ![](assets/new.png)  
 - [2020-11-24-M1-暴打-Intel？：x86-与-ARM-的爱恨情仇](https://toutiao.io/k/fejmlbb) ![](assets/new.png)  
-- [2020-11-24-谈谈-ETL-中的数据质量](https://toutiao.io/k/xms0aoe) ![](assets/new.png)  
 - [2020-11-24-来自未来的缓存-Caffeine，带你揭开它的神秘面纱](https://toutiao.io/k/rw16kcb) ![](assets/new.png)  
+- [2020-11-24-谈谈-ETL-中的数据质量](https://toutiao.io/k/xms0aoe) ![](assets/new.png)  
 - [2020-11-24-如何将-HTML-表格转换成精美的-PDF](https://toutiao.io/k/o6t77kv) ![](assets/new.png)  
 - [2020-11-24-FFM-理论与实践](https://toutiao.io/k/9n0a0xt) ![](assets/new.png)  
-- [2020-11-24-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
-- [2020-11-24-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
-- [2020-11-24-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
+- [2020-11-24-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-24-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-24-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 02:38:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 02:47:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -32,7 +32,6 @@
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-24-mac-升级-big-sur-后更新-Proxifier-V3.1-For-mac-无法上网](https://www.v2ex.com/t/728569) 
-- [2020-11-24-吐槽一下-Edge-新的版本](https://www.v2ex.com/t/728561) 
 - [2020-11-24-来自未来的缓存-Caffeine，带你揭开它的神秘面纱](https://toutiao.io/k/rw16kcb) 
 - [2020-11-23-AIoT安全峰会议题回顾|打开IoT设备分析的第一扇门](https://sec.thief.one/article_content?a_id=70f1b375ddce913a48c881884a035003) 
 - [2020-11-23-聚焦乌镇|奇安信发布业内首个特权访问安全解决方案-实现访问权限精...](https://sec.thief.one/article_content?a_id=9b131ca96c3fbccd2fff579afb7f7b39) 

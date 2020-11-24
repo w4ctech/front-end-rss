@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 02:38:10，:rocket: 更新条数: +3335， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 02:47:37，:rocket: 更新条数: +3335， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -473,11 +473,11 @@
 </summary>
 
 
-- [2020-11-23-koa1.x中间件（middleware）执行流程](https://juejin.im/post/6898331270300991496) ![](assets/new.png)  
-- [2020-11-23-部署网站；如何让其他人访问自己写的网站；发布网站](https://juejin.im/post/6898328936867069960) ![](assets/new.png)  
-- [2020-11-23-清除浮动](https://juejin.im/post/6898323461672796174) ![](assets/new.png)  
-- [2020-11-23-函数调用的四种模式](https://juejin.im/post/6898319510277718030) ![](assets/new.png)  
-- [2020-11-23-CSS-in-JS-简单了解](https://juejin.im/post/6898318463715475464) ![](assets/new.png)  
+- [2020-11-23-JavaScript基础---数组排序的6种方法](https://juejin.im/post/6898498987343478791) ![](assets/new.png)  
+- [2020-11-23-前端字体截取](https://juejin.im/post/6898498211766501389) ![](assets/new.png)  
+- [2020-11-23-手写Promise](https://juejin.im/post/6898498155499765774) ![](assets/new.png)  
+- [2020-11-23-函数式编程](https://juejin.im/post/6898497835642945549) ![](assets/new.png)  
+- [2020-11-23-JavaScript异步编程](https://juejin.im/post/6898497779014828039) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,13 @@
 </summary>
 
 
+- [2020-11-24-通过实现‘异常代码统一管理’引发的思考：“规范应该落实于口头约束还是尽量从代码上限制住”](https://www.v2ex.com/t/728615) ![](assets/new.png)  
+- [2020-11-24-你们的微粒贷有多少额度？](https://www.v2ex.com/t/728614) ![](assets/new.png)  
+- [2020-11-24-北京可年后入职-美团-诚招高级/资深工程师（30-45k）](https://www.v2ex.com/t/728613) ![](assets/new.png)  
+- [2020-11-24-你们的小米-10-的膜下指纹好用吗？](https://www.v2ex.com/t/728612) ![](assets/new.png)  
+- [2020-11-24-如何从百亿数据中寻找数据之间的关系？](https://www.v2ex.com/t/728611) ![](assets/new.png)  
+- [2020-11-24-leetcode-和-jetbrains-会有黑五促销嘛？](https://www.v2ex.com/t/728610) ![](assets/new.png)  
+- [2020-11-24-一个-IDEA-使用上的小问题](https://www.v2ex.com/t/728608) ![](assets/new.png)  
 - [2020-11-24-杭州-区块链公司-高薪招聘-欢迎大家来投简历](https://www.v2ex.com/t/728607) ![](assets/new.png)  
 - [2020-11-24-求指点，到底怎样写-JD-才能收到机器/深度学习实习生的简历啊？](https://www.v2ex.com/t/728606) ![](assets/new.png)  
 - [2020-11-24-iOS-可以几行代码绕过系统代理,-为什么大家都不这么做?](https://www.v2ex.com/t/728603) ![](assets/new.png)  
@@ -566,13 +573,6 @@
 - [2020-11-24-zsh：-command-not-found-hexo](https://www.v2ex.com/t/728590) ![](assets/new.png)  
 - [2020-11-24-打算开发一款语音问答为主题的面试-App，靠谱不？](https://www.v2ex.com/t/728588) ![](assets/new.png)  
 - [2020-11-24-为啥-h5-没有精确到秒的组件-找了好几个都没有最多都精确到分这是为什么？](https://www.v2ex.com/t/728587) ![](assets/new.png)  
-- [2020-11-24-Apple-Watch-6-高度计怎么校准呀](https://www.v2ex.com/t/728586) ![](assets/new.png)  
-- [2020-11-24-深圳外包都是按-毕业年限定薪资的吗？刚接了个-外包（双休-加班调休）的电话，说-18-年大专毕业-13K.明年打算来深圳-，怎么样薪资才能-再高一点？还有来深圳有什...](https://www.v2ex.com/t/728585) ![](assets/new.png)  
-- [2020-11-24-自己搭建的一个图书数据库，有几十万本图书的数据，欢迎使用](https://www.v2ex.com/t/728584) ![](assets/new.png)  
-- [2020-11-24-mysql-如何导入-20g-的超大文件](https://www.v2ex.com/t/728583) ![](assets/new.png)  
-- [2020-11-24-文案编辑兼职招聘｜海外兔｜推荐有奖](https://www.v2ex.com/t/728582) ![](assets/new.png)  
-- [2020-11-24-V2EX-账号系统无耻](https://www.v2ex.com/t/728581) ![](assets/new.png)  
-- [2020-11-24-很好奇一些人不喜欢-iPhone-，不买-iPhone-，没遇到过-iPhone-的问题，但是他就能喷出来，什么心理？](https://www.v2ex.com/t/728577) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -632,9 +632,9 @@
 - [2020-11-24-谈谈-ETL-中的数据质量](https://toutiao.io/k/xms0aoe) ![](assets/new.png)  
 - [2020-11-24-如何将-HTML-表格转换成精美的-PDF](https://toutiao.io/k/o6t77kv) ![](assets/new.png)  
 - [2020-11-24-FFM-理论与实践](https://toutiao.io/k/9n0a0xt) ![](assets/new.png)  
+- [2020-11-24-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-24-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [2020-11-24-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
-- [2020-11-24-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-24-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

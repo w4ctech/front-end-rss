@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 02:38:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 02:47:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -79,7 +79,6 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-24-pr14.2-导出视频时，显卡（Rx590gme）硬件加速无效果，大家有知道是原因吗？](https://www.v2ex.com/t/728597) 
-- [2020-11-24-x5webview-全屏播放视频前面几次会白屏，杀掉应用后，-webview-会显示-正在加载解码库，各种格式随便播，然后全屏播放就没问题了](https://www.v2ex.com/t/728560) 
 - [2020-11-24-日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-23-又一起“Fappening”?数百名女性体育明星的裸照和视频在线泄露](https://sec.thief.one/article_content?a_id=0df176cf5fc9a9c9580290d5c0c942f0) 
 - [2020-11-23-【视频】|-你的个人信息8毛/条,是谁在贩卖我们的隐私?](https://sec.thief.one/article_content?a_id=a137dee8fa03deb4b3aa3f483dde7395) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 14:48:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 15:04:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,5 +23,6 @@
 - [2020-11-22-Spring中的Controller-，Service，Dao是不是线程安全的？](https://www.ershicimi.com/p/a5130710eb2dfcc37633257c999510de) 
 - [2020-11-20-Postman公司微服务最新实践](https://www.ershicimi.com/p/ea02c363af284adb3c34aad5af6c1670) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-24-急招-安全背景的安卓研发](https://www.v2ex.com/t/728885) 
 - [2020-11-24-来自未来的缓存-Caffeine，带你揭开它的神秘面纱](https://toutiao.io/k/rw16kcb) 
 - [2020-11-24-企业安全建设壮大阶段经验浅谈之风险收敛](https://toutiao.io/k/klpoprw) 

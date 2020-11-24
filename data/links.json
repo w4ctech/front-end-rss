@@ -14267,6 +14267,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "陕西省11月23日新增2例境外输入新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivW5UHH518F9tnkxHu0P7201124&isfromapp=1",
+        "date": "2020-11-24"
+      },
+      {
         "title": "世卫组织总干事：新冠疫苗试验进展带来更多希望",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW17MIBC9tEMvMflijMwy201124&isfromapp=1",
         "date": "2020-11-23"
@@ -14284,11 +14289,6 @@
       {
         "title": "俄罗斯单日新增新冠肺炎确诊病例25173例 累计确诊超过211万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieD8y6xMWniiqOhgetNeP201123&isfromapp=1",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "俄哈卡斯共和国前行政长官济明因新冠肺炎去逝",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZSerDEiExKgtKhyQanV2201123&isfromapp=1",
         "date": "2020-11-23"
       }
     ]
@@ -15969,6 +15969,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "迫于兼容 iOS 设备，用 golang 写了个把静态博客中 webp 图片在线转为 jpg 的工具",
+        "link": "https://www.v2ex.com/t/728653",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "🔥🔥🔥 [新加坡] [Shopee] 招后台开发啦啦啦!",
+        "link": "https://www.v2ex.com/t/728652",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "有郑州市景安网络科技股份有限公司的人在这吗？拖欠代理商佣金都一年多了",
+        "link": "https://www.v2ex.com/t/728651",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "M1 新款 8G 会不会比老款 16G 的感觉卡",
+        "link": "https://www.v2ex.com/t/728650",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "已实锤，上海电信存在区间 qos",
+        "link": "https://www.v2ex.com/t/728649",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "关于电信线路跨境访问的奇葩限流问题讨论",
+        "link": "https://www.v2ex.com/t/728647",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[全职]小米北京招聘 Golang 服务器端开发",
+        "link": "https://www.v2ex.com/t/728646",
+        "date": "2020-11-24"
+      },
+      {
         "title": "社区团购是真的火呀",
         "link": "https://www.v2ex.com/t/728644",
         "date": "2020-11-24"
@@ -16122,36 +16157,6 @@
         "title": "求指点，到底怎样写 JD 才能收到机器/深度学习实习生的简历啊？",
         "link": "https://www.v2ex.com/t/728606",
         "date": "2020-11-24"
-      },
-      {
-        "title": "iOS 可以几行代码绕过系统代理, 为什么大家都不这么做?",
-        "link": "https://www.v2ex.com/t/728603",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "求推荐一款 Apple Watch 用的最准确的睡眠检测软件，晚上戴表睡觉，不强求自动检测，手动点一下也行，只要准确性，免费付费都行",
-        "link": "https://www.v2ex.com/t/728602",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "话说你们都抽电子烟么？",
-        "link": "https://www.v2ex.com/t/728598",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "pr14.2 导出视频时，显卡（Rx590gme）硬件加速无效果，大家有知道是原因吗？",
-        "link": "https://www.v2ex.com/t/728597",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "求推荐一曲双词的歌",
-        "link": "https://www.v2ex.com/t/728596",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "到底啥开发，啥项目开发才要 64G 啊？",
-        "link": "https://www.v2ex.com/t/728595",
-        "date": "2020-11-24"
       }
     ]
   },
@@ -16293,13 +16298,13 @@
         "date": "2020-11-24"
       },
       {
-        "title": "如何在 VuePress 中添加博客导流公众号：即输入验证码解锁全站文章",
-        "link": "https://toutiao.io/k/koawpqq",
+        "title": "CompletableFuture 应用实践",
+        "link": "https://toutiao.io/k/3wwb6r0",
         "date": "2020-11-24"
       },
       {
-        "title": "CompletableFuture 应用实践",
-        "link": "https://toutiao.io/k/3wwb6r0",
+        "title": "如何在 VuePress 中添加博客导流公众号：即输入验证码解锁全站文章",
+        "link": "https://toutiao.io/k/koawpqq",
         "date": "2020-11-24"
       },
       {
@@ -16308,13 +16313,13 @@
         "date": "2020-11-24"
       },
       {
-        "title": "为什么你写的拦截器中不能注入 Java bean？",
-        "link": "https://toutiao.io/k/b95pnf6",
+        "title": "云原生趋势下的迁移与容灾思考",
+        "link": "https://toutiao.io/k/q1rlmlh",
         "date": "2020-11-24"
       },
       {
-        "title": "云原生趋势下的迁移与容灾思考",
-        "link": "https://toutiao.io/k/q1rlmlh",
+        "title": "为什么你写的拦截器中不能注入 Java bean？",
+        "link": "https://toutiao.io/k/b95pnf6",
         "date": "2020-11-24"
       },
       {
@@ -16358,28 +16363,13 @@
         "date": "2020-11-24"
       },
       {
-        "title": "SUPER 车道线检测：异构数据集训练、物理驱动拟合",
-        "link": "https://toutiao.io/k/1jwc33z",
-        "date": "2020-11-24"
-      },
-      {
         "title": "企业安全建设壮大阶段经验浅谈之风险收敛",
         "link": "https://toutiao.io/k/klpoprw",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
+        "title": "SUPER 车道线检测：异构数据集训练、物理驱动拟合",
+        "link": "https://toutiao.io/k/1jwc33z",
         "date": "2020-11-24"
       },
       {
@@ -16388,23 +16378,23 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
         "date": "2020-11-24"
       },
       {
@@ -16413,18 +16403,33 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
         "date": "2020-11-24"
       },
       {
@@ -16433,13 +16438,13 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
         "date": "2020-11-24"
       }
     ]

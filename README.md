@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 03:32:55，:rocket: 更新条数: +3340， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 03:47:46，:rocket: 更新条数: +3341， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-24-陕西省11月23日新增2例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivW5UHH518F9tnkxHu0P7201124&isfromapp=1) ![](assets/new.png)  
 - [2020-11-23-世卫组织总干事：新冠疫苗试验进展带来更多希望](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW17MIBC9tEMvMflijMwy201124&isfromapp=1) ![](assets/new.png)  
 - [2020-11-23-经过治疗-乌克兰总统泽连斯新冠病毒检测复阴](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijdh3WMqa4WgNXLnXO3P0201123&isfromapp=1) ![](assets/new.png)  
 - [2020-11-23-受新冠疫情影响-伦敦市中心办公楼开工量骤降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikciDaIh85c4liFCOUrbN201123&isfromapp=1) ![](assets/new.png)  
 - [2020-11-23-俄罗斯单日新增新冠肺炎确诊病例25173例-累计确诊超过211万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieD8y6xMWniiqOhgetNeP201123&isfromapp=1) ![](assets/new.png)  
-- [2020-11-23-俄哈卡斯共和国前行政长官济明因新冠肺炎去逝](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZSerDEiExKgtKhyQanV2201123&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,13 @@
 </summary>
 
 
+- [2020-11-24-迫于兼容-iOS-设备，用-golang-写了个把静态博客中-webp-图片在线转为-jpg-的工具](https://www.v2ex.com/t/728653) ![](assets/new.png)  
+- [2020-11-24-🔥🔥🔥-新加坡-Shopee-招后台开发啦啦啦!](https://www.v2ex.com/t/728652) ![](assets/new.png)  
+- [2020-11-24-有郑州市景安网络科技股份有限公司的人在这吗？拖欠代理商佣金都一年多了](https://www.v2ex.com/t/728651) ![](assets/new.png)  
+- [2020-11-24-M1-新款-8G-会不会比老款-16G-的感觉卡](https://www.v2ex.com/t/728650) ![](assets/new.png)  
+- [2020-11-24-已实锤，上海电信存在区间-qos](https://www.v2ex.com/t/728649) ![](assets/new.png)  
+- [2020-11-24-关于电信线路跨境访问的奇葩限流问题讨论](https://www.v2ex.com/t/728647) ![](assets/new.png)  
+- [2020-11-24-全职小米北京招聘-Golang-服务器端开发](https://www.v2ex.com/t/728646) ![](assets/new.png)  
 - [2020-11-24-社区团购是真的火呀](https://www.v2ex.com/t/728644) ![](assets/new.png)  
 - [2020-11-24-cnodejs.org-这个站是不是关了啊？](https://www.v2ex.com/t/728643) ![](assets/new.png)  
 - [2020-11-24-迫于穷，拼多多副业开干](https://www.v2ex.com/t/728641) ![](assets/new.png)  
@@ -566,13 +573,6 @@
 - [2020-11-24-如何实现一个前端小的路由跳转工具包（路由器）？](https://www.v2ex.com/t/728632) ![](assets/new.png)  
 - [2020-11-24-12-月就开始禁止使用-falsh-了，请问大家有涉及到-flash-技术的已经改过来了吗？](https://www.v2ex.com/t/728631) ![](assets/new.png)  
 - [2020-11-24-杭州这个公租房办理的流程](https://www.v2ex.com/t/728630) ![](assets/new.png)  
-- [2020-11-24-冬天到了,手足和脸上都开始脱皮了,有没有同被困扰的-V-友.](https://www.v2ex.com/t/728629) ![](assets/new.png)  
-- [2020-11-24-大家大学时候的学生会是个什么德行](https://www.v2ex.com/t/728627) ![](assets/new.png)  
-- [2020-11-24-NS-会员-11.27-号到期续费，目前还有二个车位](https://www.v2ex.com/t/728626) ![](assets/new.png)  
-- [2020-11-24-在服务器里面，怎么给访问-github-加速？](https://www.v2ex.com/t/728625) ![](assets/new.png)  
-- [2020-11-24-HomePod-mini-什么时候发售](https://www.v2ex.com/t/728624) ![](assets/new.png)  
-- [2020-11-24-北京-社招-伴鱼英语招聘服务器/前端/数分/商分等等等](https://www.v2ex.com/t/728622) ![](assets/new.png)  
-- [2020-11-24-我需要连接到一个对外端口总是在变换的-sshd-服务，虽然公钥没变，但是-ssh-客户端老是询问我是不是要加入到-known_hosts-，该如何解决？](https://www.v2ex.com/t/728621) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -620,11 +620,11 @@
 - [2020-11-24-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
 - [2020-11-24-为什么-Go-的泛型一拖再拖？](https://toutiao.io/k/dvyj3mp) ![](assets/new.png)  
 - [2020-11-24-用了-Redisson-的-Spring-Boot-Starter-搞的我都想重写个](https://toutiao.io/k/azyo1lg) ![](assets/new.png)  
-- [2020-11-24-如何在-VuePress-中添加博客导流公众号：即输入验证码解锁全站文章](https://toutiao.io/k/koawpqq) ![](assets/new.png)  
 - [2020-11-24-CompletableFuture-应用实践](https://toutiao.io/k/3wwb6r0) ![](assets/new.png)  
+- [2020-11-24-如何在-VuePress-中添加博客导流公众号：即输入验证码解锁全站文章](https://toutiao.io/k/koawpqq) ![](assets/new.png)  
 - [2020-11-24-好未来开源框架-go-zero：如何用它进行-Rest-开发？](https://toutiao.io/k/djybagl) ![](assets/new.png)  
-- [2020-11-24-为什么你写的拦截器中不能注入-Java-bean？](https://toutiao.io/k/b95pnf6) ![](assets/new.png)  
 - [2020-11-24-云原生趋势下的迁移与容灾思考](https://toutiao.io/k/q1rlmlh) ![](assets/new.png)  
+- [2020-11-24-为什么你写的拦截器中不能注入-Java-bean？](https://toutiao.io/k/b95pnf6) ![](assets/new.png)  
 - [2020-11-24-回顾-Android-11-中的存储机制更新](https://toutiao.io/k/nh1jnsf) ![](assets/new.png)  
 - [2020-11-24-重温设计模式系列（二）：面向对象基础知识](https://toutiao.io/k/yayekh2) ![](assets/new.png)  
 - [2020-11-24-M1-暴打-Intel？：x86-与-ARM-的爱恨情仇](https://toutiao.io/k/fejmlbb) ![](assets/new.png)  
@@ -633,8 +633,8 @@
 - [2020-11-24-如何将-HTML-表格转换成精美的-PDF](https://toutiao.io/k/o6t77kv) ![](assets/new.png)  
 - [2020-11-24-FFM-理论与实践](https://toutiao.io/k/9n0a0xt) ![](assets/new.png)  
 - [2020-11-24-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
-- [2020-11-24-SUPER-车道线检测：异构数据集训练、物理驱动拟合](https://toutiao.io/k/1jwc33z) ![](assets/new.png)  
 - [2020-11-24-企业安全建设壮大阶段经验浅谈之风险收敛](https://toutiao.io/k/klpoprw) ![](assets/new.png)  
+- [2020-11-24-SUPER-车道线检测：异构数据集训练、物理驱动拟合](https://toutiao.io/k/1jwc33z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 22:08:42，:rocket: 更新条数: +3782， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 22:26:57，:rocket: 更新条数: +3782， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-24--FinTech-社区-招聘-|-量化投资经理](https://www.v2ex.com/t/728921) ![](assets/new.png)  
 - [2020-11-24-Sun-Oracle-硬盘-7093037（2.5-inch-sas-3-HDD）哪里买？](https://www.v2ex.com/t/728920) ![](assets/new.png)  
 - [2020-11-24-Should-I-go-for-AWS-lightsail-server-of-managed-AWS-server?](https://www.v2ex.com/t/728919) ![](assets/new.png)  
 - [2020-11-24-可以通过-Xbox-Series-X-的开发者模式运行-RetroArch-进而实现模拟几乎所有经典游戏平台](https://www.v2ex.com/t/728918) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-11-24-分享一套自己的黑果-OC-配置](https://www.v2ex.com/t/728897) ![](assets/new.png)  
 - [2020-11-24-字节跳动-抖音产品岗，大量-offer-已就位！北京+上海！](https://www.v2ex.com/t/728896) ![](assets/new.png)  
 - [2020-11-24-众安保险这家公司怎么样？](https://www.v2ex.com/t/728894) ![](assets/new.png)  
-- [2020-11-24-BTC-即将突破历史新高，貌似还没看到讨论的帖子？](https://www.v2ex.com/t/728892) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1143,8 +1143,8 @@
 - [2020-11-24-为什么-Go-的泛型一拖再拖？](https://toutiao.io/k/dvyj3mp) ![](assets/new.png)  
 - [2020-11-24-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
 - [2020-11-24-M1-暴打-Intel？：x86-与-ARM-的爱恨情仇](https://toutiao.io/k/fejmlbb) ![](assets/new.png)  
-- [2020-11-24-用了-Redisson-的-Spring-Boot-Starter-搞的我都想重写个](https://toutiao.io/k/azyo1lg) ![](assets/new.png)  
 - [2020-11-24-云原生趋势下的迁移与容灾思考](https://toutiao.io/k/q1rlmlh) ![](assets/new.png)  
+- [2020-11-24-用了-Redisson-的-Spring-Boot-Starter-搞的我都想重写个](https://toutiao.io/k/azyo1lg) ![](assets/new.png)  
 - [2020-11-24-CompletableFuture-应用实践](https://toutiao.io/k/3wwb6r0) ![](assets/new.png)  
 - [2020-11-24-好未来开源框架-go-zero：如何用它进行-Rest-开发？](https://toutiao.io/k/djybagl) ![](assets/new.png)  
 - [2020-11-24-如何在-VuePress-中添加博客导流公众号：即输入验证码解锁全站文章](https://toutiao.io/k/koawpqq) ![](assets/new.png)  

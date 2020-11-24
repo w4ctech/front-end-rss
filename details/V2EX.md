@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-24 20:24:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 20:33:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-24-Should-I-go-for-AWS-lightsail-server-of-managed-AWS-server?](https://www.v2ex.com/t/728919) 
 - [2020-11-24-可以通过-Xbox-Series-X-的开发者模式运行-RetroArch-进而实现模拟几乎所有经典游戏平台](https://www.v2ex.com/t/728918) 
 - [2020-11-24-将位图加载到-GPU-的内存很慢？](https://www.v2ex.com/t/728917) 
 - [2020-11-24-神奇的-Big-Sur,-两只-AirPods-Pro-分别连接-iPhone-和-Mac](https://www.v2ex.com/t/728916) 
@@ -40,4 +41,3 @@
 - [2020-11-24-nodejs-纯后端开发市场行情怎样？](https://www.v2ex.com/t/728872) 
 - [2020-11-24-LG-ultrafine-4K-屏幕算是阴阳屏吗](https://www.v2ex.com/t/728871) 
 - [2020-11-24-居民网证开通](https://www.v2ex.com/t/728870) 
-- [2020-11-24-杭州-滴滴-Java-开发-租车相关业务-组内直招](https://www.v2ex.com/t/728869) 

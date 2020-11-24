@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 20:24:16，:rocket: 更新条数: +3782， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 20:33:00，:rocket: 更新条数: +3782， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-24-Should-I-go-for-AWS-lightsail-server-of-managed-AWS-server?](https://www.v2ex.com/t/728919) ![](assets/new.png)  
 - [2020-11-24-可以通过-Xbox-Series-X-的开发者模式运行-RetroArch-进而实现模拟几乎所有经典游戏平台](https://www.v2ex.com/t/728918) ![](assets/new.png)  
 - [2020-11-24-将位图加载到-GPU-的内存很慢？](https://www.v2ex.com/t/728917) ![](assets/new.png)  
 - [2020-11-24-神奇的-Big-Sur,-两只-AirPods-Pro-分别连接-iPhone-和-Mac](https://www.v2ex.com/t/728916) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-11-24-众安保险这家公司怎么样？](https://www.v2ex.com/t/728894) ![](assets/new.png)  
 - [2020-11-24-BTC-即将突破历史新高，貌似还没看到讨论的帖子？](https://www.v2ex.com/t/728892) ![](assets/new.png)  
 - [2020-11-24-v-友们帮我分析一下选-m1-还是-16-intel-的-mac](https://www.v2ex.com/t/728890) ![](assets/new.png)  
-- [2020-11-24-安全行业渗透测试岗和安服岗区别](https://www.v2ex.com/t/728889) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1154,8 +1154,8 @@
 - [2020-11-24-谈谈-ETL-中的数据质量](https://toutiao.io/k/xms0aoe) ![](assets/new.png)  
 - [2020-11-24-如何将-HTML-表格转换成精美的-PDF](https://toutiao.io/k/o6t77kv) ![](assets/new.png)  
 - [2020-11-24-FFM-理论与实践](https://toutiao.io/k/9n0a0xt) ![](assets/new.png)  
-- [2020-11-24-企业安全建设壮大阶段经验浅谈之风险收敛](https://toutiao.io/k/klpoprw) ![](assets/new.png)  
 - [2020-11-24-SUPER-车道线检测：异构数据集训练、物理驱动拟合](https://toutiao.io/k/1jwc33z) ![](assets/new.png)  
+- [2020-11-24-企业安全建设壮大阶段经验浅谈之风险收敛](https://toutiao.io/k/klpoprw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

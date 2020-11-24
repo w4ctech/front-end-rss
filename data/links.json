@@ -4339,6 +4339,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "关于 iPhone 无线充电的疑问",
+        "link": "https://www.v2ex.com/t/728813",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "请问搭载 M1 芯片的新款 MacBook Air 如何关闭键盘背光灯？",
+        "link": "https://www.v2ex.com/t/728812",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "电信-电脑/平板都可以使用无线； iPhone 无法使用无线",
+        "link": "https://www.v2ex.com/t/728810",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[安全与风控] v2ex 做安全方向的朋友有吗",
+        "link": "https://www.v2ex.com/t/728808",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "2021 年后 Java 想换工作,现在深圳 3 年经验的 Java 平均工资多少哇",
+        "link": "https://www.v2ex.com/t/728807",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "“不建议 MySQL 使用 Text 类型”，对于 Text 内容比较短小也不能用吗？",
+        "link": "https://www.v2ex.com/t/728806",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "吐了 macbook pro 啥都没干就开不开机了 黑屏啥反应都没有",
+        "link": "https://www.v2ex.com/t/728805",
+        "date": "2020-11-24"
+      },
+      {
         "title": "深入 Slate.js 编辑器 - 引言",
         "link": "https://www.v2ex.com/t/728804",
         "date": "2020-11-24"
@@ -4492,46 +4527,6 @@
         "title": "企业微信最近总是发些莫名其妙的推送，关不掉",
         "link": "https://www.v2ex.com/t/728764",
         "date": "2020-11-24"
-      },
-      {
-        "title": "深圳正在还房贷的房子二押出来，大家有做过的吗，风险和收益如何？",
-        "link": "https://www.v2ex.com/t/728763",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "港区 5 人车， 60/季",
-        "link": "https://www.v2ex.com/t/728762",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "第一次装机，还差最后的键盘和显示器，有点选择困难了。",
-        "link": "https://www.v2ex.com/t/728761",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "200g 碎文件供人下载，存那个网盘比较好？可付费",
-        "link": "https://www.v2ex.com/t/728760",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "插件对 M1 Mac 的 Speedometer 2.0 JavaScript/DOM 测试影响",
-        "link": "https://www.v2ex.com/t/728759",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "无线回程 mesh 比无线桥接提升多大？",
-        "link": "https://www.v2ex.com/t/728758",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "这样的柯里化实现为什么不 Work?",
-        "link": "https://www.v2ex.com/t/728757",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "公司准备从龙岗搬到南山科技园，后面怎么办？",
-        "link": "https://www.v2ex.com/t/728755",
-        "date": "2020-11-24"
       }
     ]
   },
@@ -4540,6 +4535,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "从基础设施到云原生应用，全方位解读阿里云原生新锐开源项目 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13987&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778671%3Futm_content%3Dg_1000209002%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-24"
+      },
       {
         "title": "云原生趋势下的迁移与容灾思考 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13986&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778675%3Futm_content%3Dg_1000209001%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -4633,11 +4633,6 @@
       {
         "title": "年轻人不讲武德，偷袭阿里的机房 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13968&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778491%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "阿里巴巴集团 CTO 程立：今年天猫双 11，阿里练了什么？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13967&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778266%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-24"
       }
     ]
@@ -4748,28 +4743,8 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
-        "link": "https://toutiao.io/k/ekz4xzi",
+        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
+        "link": "https://toutiao.io/k/5lujxq0",
         "date": "2020-11-24"
       },
       {
@@ -4778,23 +4753,8 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
         "date": "2020-11-24"
       },
       {
@@ -4803,8 +4763,28 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-24"
       },
       {
@@ -4813,13 +4793,28 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-24"
       }
     ]

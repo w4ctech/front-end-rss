@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 09:47:50，:rocket: 更新条数: +931， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 10:04:54，:rocket: 更新条数: +930， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,13 @@
 </summary>
 
 
+- [2020-11-24-关于-iPhone-无线充电的疑问](https://www.v2ex.com/t/728813) ![](assets/new.png)  
+- [2020-11-24-请问搭载-M1-芯片的新款-MacBook-Air-如何关闭键盘背光灯？](https://www.v2ex.com/t/728812) ![](assets/new.png)  
+- [2020-11-24-电信-电脑/平板都可以使用无线；-iPhone-无法使用无线](https://www.v2ex.com/t/728810) ![](assets/new.png)  
+- [2020-11-24-安全与风控-v2ex-做安全方向的朋友有吗](https://www.v2ex.com/t/728808) ![](assets/new.png)  
+- [2020-11-24-2021-年后-Java-想换工作,现在深圳-3-年经验的-Java-平均工资多少哇](https://www.v2ex.com/t/728807) ![](assets/new.png)  
+- [2020-11-24-“不建议-MySQL-使用-Text-类型”，对于-Text-内容比较短小也不能用吗？](https://www.v2ex.com/t/728806) ![](assets/new.png)  
+- [2020-11-24-吐了-macbook-pro-啥都没干就开不开机了-黑屏啥反应都没有](https://www.v2ex.com/t/728805) ![](assets/new.png)  
 - [2020-11-24-深入-Slate.js-编辑器---引言](https://www.v2ex.com/t/728804) ![](assets/new.png)  
 - [2020-11-24-怎样-1-个月减肥-10-斤](https://www.v2ex.com/t/728803) ![](assets/new.png)  
 - [2020-11-24-M1-芯片的-MacBook-运行-office-的感受如何？](https://www.v2ex.com/t/728802) ![](assets/new.png)  
@@ -1067,13 +1074,6 @@
 - [2020-11-24-求助:关于在-pyqt5-中使用-pyqtgraph-模块绘制动态波形图电脑内存不断增加的问题](https://www.v2ex.com/t/728792) ![](assets/new.png)  
 - [2020-11-24-一个网络安全方面的问题，-NAT-映射有没有可能被劫持？](https://www.v2ex.com/t/728791) ![](assets/new.png)  
 - [2020-11-24-M1-MacBook-Air-要怎么外接只有-HDMI-接口的显示器，这个绿联转接头为啥不行？](https://www.v2ex.com/t/728790) ![](assets/new.png)  
-- [2020-11-24-北京无编制非外包的国企-Java-开发岗位好吗](https://www.v2ex.com/t/728789) ![](assets/new.png)  
-- [2020-11-24-离开了-IDE-就不会写代码了，大家觉得这是什么水平？](https://www.v2ex.com/t/728787) ![](assets/new.png)  
-- [2020-11-24-15-分钟学会一种语言—花絮](https://www.v2ex.com/t/728783) ![](assets/new.png)  
-- [2020-11-24-Python-高阶-Lambda-函数的四种常见错误](https://www.v2ex.com/t/728782) ![](assets/new.png)  
-- [2020-11-24-求助，电信安装师傅说他们只允许门口进线？](https://www.v2ex.com/t/728781) ![](assets/new.png)  
-- [2020-11-24-北京/上海-内推-盖楼抢-red-packet急招-QA🔥🔥🔥外企电商-1075-公司欢迎各位加入-Java-/QA/客户端](https://www.v2ex.com/t/728780) ![](assets/new.png)  
-- [2020-11-24-年轻人要耗子尾汁，好好反思自我，以和为贵，要讲武德，不要搞窝里斗——习武之人切记，仁者无敌](https://www.v2ex.com/t/728779) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,6 +1085,7 @@
 </summary>
 
 
+- [2020-11-24-从基础设施到云原生应用，全方位解读阿里云原生新锐开源项目-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13987&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778671%3Futm_content%3Dg_1000209002%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-24-云原生趋势下的迁移与容灾思考-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13986&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778675%3Futm_content%3Dg_1000209001%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-24-Flink-双流-Join-的3种操作示例-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13985&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778485%3Futm_content%3Dg_1000209000%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-24-快手基于-Apache-Flink-的优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13984&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778575%3Futm_content%3Dg_1000208999%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1104,7 +1105,6 @@
 - [2020-11-24-日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-24-揭秘“双11”黑科技：机器人“接管”物流、服务器“不发烧”-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13969&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778476%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-24-年轻人不讲武德，偷袭阿里的机房-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13968&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778491%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-阿里巴巴集团-CTO-程立：今年天猫双-11，阿里练了什么？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13967&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778266%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

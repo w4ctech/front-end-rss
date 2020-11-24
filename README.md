@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 15:29:25，:rocket: 更新条数: +698， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 15:38:01，:rocket: 更新条数: +3542， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-11-24-江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html) ![](assets/new.png)  
+- [2020-11-24-香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html) ![](assets/new.png)  
+- [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
+- [2020-11-24-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
+- [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
+- [2020-11-23-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
+- [2020-11-23-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
+- [2020-11-23-大流行手记|11月22日：沙特拨5亿美元研发疫苗-爱尔兰拟扑杀境内养殖貂](https://m.caixin.com/m/2020-11-23/101631291.html) ![](assets/new.png)  
+- [2020-11-22-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) ![](assets/new.png)  
+- [2020-11-22-香港单日新增68宗病例-港府拟向确诊者发5000港元津贴](https://m.caixin.com/m/2020-11-22/101631215.html) ![](assets/new.png)  
+- [2020-11-22-【境内疫情观察】内蒙古新增2例本土确诊病例（11月21日）](http://m.database.caixin.com/m/2020-11-22/101631172.html) ![](assets/new.png)  
+- [2020-11-22-大流行手记|11月21日：英国12月起接种新冠疫苗-牛津称抗体可维持6个月](https://m.caixin.com/m/2020-11-22/101631140.html) ![](assets/new.png)  
+- [2020-11-22-财新记者直击上海浦东医院换防转移医护人员](http://m.photos.caixin.com/m/2020-11-22/101631220.html) ![](assets/new.png)  
+- [2020-11-21-内蒙古满洲里新增2例新冠本土确诊病例-火车客车停运（更新）](https://m.caixin.com/m/2020-11-21/101631090.html) ![](assets/new.png)  
+- [2020-11-21-香港疫情大反弹-单日新增43宗创3个月新高](http://m.china.caixin.com/m/2020-11-21/101631096.html) ![](assets/new.png)  
+- [2020-11-21-【境内疫情观察】上海新增2例本土确诊病例（11月20日）](http://m.database.caixin.com/m/2020-11-21/101631024.html) ![](assets/new.png)  
+- [2020-11-21-大流行手记|11月20日：WHO不建议用瑞德西韦治疗新冠-首批中国疫苗运抵巴西](https://m.caixin.com/m/2020-11-21/101630933.html) ![](assets/new.png)  
+- [2020-11-20-最新海外疫情：新冠感染超5680万-累计死亡超135万](https://m.caixin.com/m/2020-11-20/101630760.html) ![](assets/new.png)  
+- [2020-11-20-上海新冠本土病例增至3例-已完成1.5万人核酸筛查](http://m.china.caixin.com/m/2020-11-20/101630913.html) ![](assets/new.png)  
+- [2020-11-20-本地病例单日激增21宗-香港或已进入第四波疫情](https://m.caixin.com/m/2020-11-20/101630824.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -696,16 +716,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -821,6 +831,12 @@
 </summary>
 
 
+- [2020-11-24-你的微服务网关还只在用负载均衡吗？](https://www.ershicimi.com/p/aa542f0906a623055a6df90b5b854234) ![](assets/new.png)  
+- [2020-11-24-实战上亿数据，如何实现秒查！](https://www.ershicimi.com/p/a0abab7b0c60784c6fa7d4690e946347) ![](assets/new.png)  
+- [2020-11-24-因为一条SQL，我差点被祭天......](https://www.ershicimi.com/p/0ec7d6a773de419d55c4d60127d40c71) ![](assets/new.png)  
+- [2020-11-23-一些比较恶心的代码片段](https://www.ershicimi.com/p/245a46ec15ac0b02c2b7f70ccb26fd2f) ![](assets/new.png)  
+- [2020-11-23-23个Python爬虫开源项目代码：微信、淘宝、豆瓣、知乎、微博...](https://www.ershicimi.com/p/b5ae0b35fe9b1a89fa87b7450f6425da) ![](assets/new.png)  
+- [2020-11-23-最全-MyBatis-核心配置文件总结，速度收藏了～](https://www.ershicimi.com/p/92d791882be934d67aadc7dfb6bf9244) ![](assets/new.png)  
 - [2020-11-22-Spring中的Controller-，Service，Dao是不是线程安全的？](https://www.ershicimi.com/p/a5130710eb2dfcc37633257c999510de) ![](assets/new.png)  
 - [2020-11-22-因未发项目奖金，一程序员删代码泄愤被判刑5个月](https://www.ershicimi.com/p/20f728e75c227f106bb1ca0f2a45cfcd) ![](assets/new.png)  
 - [2020-11-22-还在写-BUG？试试-GitHub-官方代码扫描工具！](https://www.ershicimi.com/p/e7ec8f0a82337b7f258072ff2aad0a5c) ![](assets/new.png)  
@@ -835,12 +851,6 @@
 - [2020-11-19-轻松两步，我在-SpringBoot-服务上实现了接口限流](https://www.ershicimi.com/p/70b02b7522f04210f6ad116f9306b39d) ![](assets/new.png)  
 - [2020-11-18-求求你们了，别再写满屏的-if/-else-了！](https://www.ershicimi.com/p/74337fdf6a30485794fb3523672a8cc2) ![](assets/new.png)  
 - [2020-11-18-牛逼！Intellij-IDEA竟然有个功能可自动生成代码，你用过没？](https://www.ershicimi.com/p/6cf8b4eb9a62a71825dcb6583657d088) ![](assets/new.png)  
-- [2020-11-18-微服务中的网关到底是个什么鬼？](https://www.ershicimi.com/p/a2892fa0792c5ace852799eca317d062) ![](assets/new.png)  
-- [2020-11-17-为什么K8s-天然适合微服务？](https://www.ershicimi.com/p/c4d64b46ce3cb8f00756e99d525ca5ca) ![](assets/new.png)  
-- [2020-11-17-卧槽！GitHub-又诞生一个沙雕项目？！](https://www.ershicimi.com/p/a91502c55cf2a5e68963d6fccc1b41ff) ![](assets/new.png)  
-- [2020-11-17-推荐两款Docker可视化工具](https://www.ershicimi.com/p/a33efa1de6385ca9460770482ba00420) ![](assets/new.png)  
-- [2020-11-16-阿里P8好友说，要想成为Java大佬，就得要多逛逛国外的这几个技术网站...](https://www.ershicimi.com/p/b77f88ab7dcbbe9f36f8db76bb66c944) ![](assets/new.png)  
-- [2020-11-16-Thread.sleep0-到底有什么用？](https://www.ershicimi.com/p/8dbe8abff69cb1cfb3f26f4976a7e688) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,8 +1115,8 @@
 - [2020-11-24-用了-Redisson-的-Spring-Boot-Starter-搞的我都想重写个](https://toutiao.io/k/azyo1lg) ![](assets/new.png)  
 - [2020-11-24-CompletableFuture-应用实践](https://toutiao.io/k/3wwb6r0) ![](assets/new.png)  
 - [2020-11-24-好未来开源框架-go-zero：如何用它进行-Rest-开发？](https://toutiao.io/k/djybagl) ![](assets/new.png)  
-- [2020-11-24-云原生趋势下的迁移与容灾思考](https://toutiao.io/k/q1rlmlh) ![](assets/new.png)  
 - [2020-11-24-M1-暴打-Intel？：x86-与-ARM-的爱恨情仇](https://toutiao.io/k/fejmlbb) ![](assets/new.png)  
+- [2020-11-24-云原生趋势下的迁移与容灾思考](https://toutiao.io/k/q1rlmlh) ![](assets/new.png)  
 - [2020-11-24-如何在-VuePress-中添加博客导流公众号：即输入验证码解锁全站文章](https://toutiao.io/k/koawpqq) ![](assets/new.png)  
 - [2020-11-24-重温设计模式系列（二）：面向对象基础知识](https://toutiao.io/k/yayekh2) ![](assets/new.png)  
 - [2020-11-24-回顾-Android-11-中的存储机制更新](https://toutiao.io/k/nh1jnsf) ![](assets/new.png)  

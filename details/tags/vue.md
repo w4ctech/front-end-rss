@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 13:22:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 13:33:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -50,6 +50,7 @@
 - [2020-11-11-34条我能告诉你的Vue之实操篇](https://www.ershicimi.com/p/60a780c35572161c8616e37f57013f17) 
 - [2020-10-11-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/0590b6964c9fcfc3e48286bd7d353627) 
 - [2020-07-05-拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/ede822b2aced2aa401e9111858a599cb) 
+- [2020-11-22-为什么-Vue3-的-ref-让很多大佬操碎了心？](https://www.ershicimi.com/p/0c65d6a3916c18830c3a9075796cfbac) 
 - [2020-11-17-Electron+vue从零开始打造一个本地播放器](https://www.ershicimi.com/p/d13702e128a70a449f44d5bd86b6f209) 
 - [2020-11-14-Taro-支持使用-Vue3-开发小程序](https://www.ershicimi.com/p/c2fa0c24ccb13341f2bc2c01ac823aa8) 
 - [2020-10-14-Vue.js-作者尤雨溪：TypeScript-与-JavaScript-并行才切合实际！](https://www.ershicimi.com/p/65f8261d5a8e6be4d73ab7529202d452) 

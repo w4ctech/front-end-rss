@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 13:22:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 13:33:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,7 +15,6 @@
 - [2020-11-17-从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/d8b9d174792325554ecd3a796b69de29) 
 - [2020-11-13-Swift-发布路线图：更便捷，更高效且更安全](https://www.ershicimi.com/p/6092141198f4a44bf9845c3188f4d782) 
 - [2020-11-21-抖音前端安全招前端（实习、高级都招）](https://www.ershicimi.com/p/cb4bcf2ebbdf8937d5ca6c8723e4b6a2) 
-- [2020-11-13-前端安全编码规范](https://www.ershicimi.com/p/0448f7f7d770de1f1bac59f6b2716e0c) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2020-11-18-postMessage-还能这样玩](https://www.ershicimi.com/p/3a7709204bdc61198e129868b53b7147) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 

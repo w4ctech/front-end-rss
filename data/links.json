@@ -1653,6 +1653,41 @@
     "title": "前端瓶子君",
     "items": [
       {
+        "title": "代码规范之-理解ESLint、Prettier、EditorConfig",
+        "link": "https://www.ershicimi.com/p/970ad1f46f8b717471a248bc719e733f",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "JS数组奇巧淫技",
+        "link": "https://www.ershicimi.com/p/993dc25845b722234af79e32f3952c3d",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "如何一句话证明你在百度工作过",
+        "link": "https://www.ershicimi.com/p/b2304e903d3969edd7de00cfcec61e98",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "真的搞不懂大厂为什么都喜欢用 React ？",
+        "link": "https://www.ershicimi.com/p/7e1dffef77b76c832dd620663161f0d1",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "厌倦了写活动页？快来撸一个页面生成器吧！",
+        "link": "https://www.ershicimi.com/p/ac7e38378a3753e902c21f5c20620618",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "为什么 Vue3 的 ref 让很多大佬操碎了心？",
+        "link": "https://www.ershicimi.com/p/0c65d6a3916c18830c3a9075796cfbac",
+        "date": "2020-11-22"
+      },
+      {
+        "title": "送上一份干货资料！公众号资料免费送！",
+        "link": "https://www.ershicimi.com/p/cd05b4fe5c41d8b351f7eb1ec7c25dd6",
+        "date": "2020-11-22"
+      },
+      {
         "title": "使用 Workbox 创建 PWA 应用",
         "link": "https://www.ershicimi.com/p/c46a5e38c872284474b482704b8c44da",
         "date": "2020-11-21"
@@ -1716,41 +1751,6 @@
         "title": "Taro 支持使用 Vue3 开发小程序",
         "link": "https://www.ershicimi.com/p/c2fa0c24ccb13341f2bc2c01ac823aa8",
         "date": "2020-11-14"
-      },
-      {
-        "title": "前端安全编码规范",
-        "link": "https://www.ershicimi.com/p/0448f7f7d770de1f1bac59f6b2716e0c",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "与后端分手，做独立自强的前端人！",
-        "link": "https://www.ershicimi.com/p/94ca076139c82133b30a39ed53e0e77c",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "给前端开发者的 14 个 JavaScript 代码优化建议",
-        "link": "https://www.ershicimi.com/p/4db3159c5fedca75fec5d288e19f447c",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[译]只使用 CSS 进行用户追踪",
-        "link": "https://www.ershicimi.com/p/0b84d009d697cc9f8c8eb06e249f147b",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "AST实现函数错误的自动上报",
-        "link": "https://www.ershicimi.com/p/3f407fb33caa5efaa7a18f9368d785bf",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "刷题2个月，我拿25k去了字节跳动，数据结构与算法太重要了……",
-        "link": "https://www.ershicimi.com/p/3d6fd8110c8e1b015c545ccdb4f30e50",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "知乎部署系统演进简史",
-        "link": "https://www.ershicimi.com/p/bcbe37b3dfb64f0c1dcd30577694e952",
-        "date": "2020-11-09"
       }
     ],
     "link": "https://www.ershicimi.com/a/10641"
@@ -3168,6 +3168,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大佬们，这样的介绍应该应聘什么岗位好？薪资应该要多少？",
+        "link": "https://www.v2ex.com/t/728860",
+        "date": "2020-11-24"
+      },
+      {
         "title": "12 Mini 的电池真的有点拉胯",
         "link": "https://www.v2ex.com/t/728859",
         "date": "2020-11-24"
@@ -3365,11 +3370,6 @@
       {
         "title": "请问搭载 M1 芯片的新款 MacBook Air 如何关闭键盘背光灯？",
         "link": "https://www.v2ex.com/t/728812",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "电信-电脑/平板都可以使用无线； iPhone 无法使用无线",
-        "link": "https://www.v2ex.com/t/728810",
         "date": "2020-11-24"
       }
     ]
@@ -3587,38 +3587,23 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
-        "link": "https://toutiao.io/k/ekz4xzi",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-24"
-      },
-      {
         "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
         "link": "https://toutiao.io/k/5lujxq0",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
         "date": "2020-11-24"
       },
       {
@@ -3627,23 +3612,8 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-24"
-      },
-      {
         "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
         "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-11-24"
       },
       {
@@ -3652,13 +3622,43 @@
         "date": "2020-11-24"
       },
       {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-24"
+      },
+      {
         "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
         "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
         "date": "2020-11-24"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 13:22:26，:rocket: 更新条数: +699， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 13:33:21，:rocket: 更新条数: +699， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -568,6 +568,13 @@
 </summary>
 
 
+- [2020-11-24-代码规范之-理解ESLint、Prettier、EditorConfig](https://www.ershicimi.com/p/970ad1f46f8b717471a248bc719e733f) ![](assets/new.png)  
+- [2020-11-24-JS数组奇巧淫技](https://www.ershicimi.com/p/993dc25845b722234af79e32f3952c3d) ![](assets/new.png)  
+- [2020-11-24-如何一句话证明你在百度工作过](https://www.ershicimi.com/p/b2304e903d3969edd7de00cfcec61e98) ![](assets/new.png)  
+- [2020-11-23-真的搞不懂大厂为什么都喜欢用-React-？](https://www.ershicimi.com/p/7e1dffef77b76c832dd620663161f0d1) ![](assets/new.png)  
+- [2020-11-23-厌倦了写活动页？快来撸一个页面生成器吧！](https://www.ershicimi.com/p/ac7e38378a3753e902c21f5c20620618) ![](assets/new.png)  
+- [2020-11-22-为什么-Vue3-的-ref-让很多大佬操碎了心？](https://www.ershicimi.com/p/0c65d6a3916c18830c3a9075796cfbac) ![](assets/new.png)  
+- [2020-11-22-送上一份干货资料！公众号资料免费送！](https://www.ershicimi.com/p/cd05b4fe5c41d8b351f7eb1ec7c25dd6) ![](assets/new.png)  
 - [2020-11-21-使用-Workbox-创建-PWA-应用](https://www.ershicimi.com/p/c46a5e38c872284474b482704b8c44da) ![](assets/new.png)  
 - [2020-11-21-【面试】764高频前端开发面试问题及答案整理](https://www.ershicimi.com/p/1c443dd468ca04588d1f5b16c235dc72) ![](assets/new.png)  
 - [2020-11-20-腾讯IMWeb团队是如何使用-NodeJS-实现-JWT-原理](https://www.ershicimi.com/p/fa09b876f461cb834dbd3fa9b9baa883) ![](assets/new.png)  
@@ -581,13 +588,6 @@
 - [2020-11-15-【2020年11月】编程语言-/-程序员工资排行榜](https://www.ershicimi.com/p/23ef0d6cd01af1445625bbeaae845479) ![](assets/new.png)  
 - [2020-11-14-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/c2eabdba04c6119ee438c7910b0a99dd) ![](assets/new.png)  
 - [2020-11-14-Taro-支持使用-Vue3-开发小程序](https://www.ershicimi.com/p/c2fa0c24ccb13341f2bc2c01ac823aa8) ![](assets/new.png)  
-- [2020-11-13-前端安全编码规范](https://www.ershicimi.com/p/0448f7f7d770de1f1bac59f6b2716e0c) ![](assets/new.png)  
-- [2020-11-12-与后端分手，做独立自强的前端人！](https://www.ershicimi.com/p/94ca076139c82133b30a39ed53e0e77c) ![](assets/new.png)  
-- [2020-11-12-给前端开发者的-14-个-JavaScript-代码优化建议](https://www.ershicimi.com/p/4db3159c5fedca75fec5d288e19f447c) ![](assets/new.png)  
-- [2020-11-11-译只使用-CSS-进行用户追踪](https://www.ershicimi.com/p/0b84d009d697cc9f8c8eb06e249f147b) ![](assets/new.png)  
-- [2020-11-10-AST实现函数错误的自动上报](https://www.ershicimi.com/p/3f407fb33caa5efaa7a18f9368d785bf) ![](assets/new.png)  
-- [2020-11-09-刷题2个月，我拿25k去了字节跳动，数据结构与算法太重要了……](https://www.ershicimi.com/p/3d6fd8110c8e1b015c545ccdb4f30e50) ![](assets/new.png)  
-- [2020-11-09-知乎部署系统演进简史](https://www.ershicimi.com/p/bcbe37b3dfb64f0c1dcd30577694e952) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端瓶子君.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1034,6 +1034,7 @@
 </summary>
 
 
+- [2020-11-24-大佬们，这样的介绍应该应聘什么岗位好？薪资应该要多少？](https://www.v2ex.com/t/728860) ![](assets/new.png)  
 - [2020-11-24-12-Mini-的电池真的有点拉胯](https://www.v2ex.com/t/728859) ![](assets/new.png)  
 - [2020-11-24-Elasticsearch-查询嵌套字段，嵌套对象列表中限制只有匹配的才返回结果，怎么写-dsl](https://www.v2ex.com/t/728858) ![](assets/new.png)  
 - [2020-11-24-转型大数据开发的纠结与疑惑。](https://www.v2ex.com/t/728855) ![](assets/new.png)  
@@ -1053,7 +1054,6 @@
 - [2020-11-24-SpringBoot-内置的-Tomcat-怎么做到禁止公网-IP-访问，域名和内网-IP-可以访问](https://www.v2ex.com/t/728837) ![](assets/new.png)  
 - [2020-11-24-翻译了一篇比较有趣的讲现代-web-开发最佳实践及精益-web-开发的文章](https://www.v2ex.com/t/728836) ![](assets/new.png)  
 - [2020-11-24-请问一个-spring-cloud-gateway-的-predicate--Path-双斜杠问题-“//”](https://www.v2ex.com/t/728835) ![](assets/new.png)  
-- [2020-11-24-以后可能再也不会选择京东了](https://www.v2ex.com/t/728834) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

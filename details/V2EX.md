@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-24 13:22:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 13:33:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-24-大佬们，这样的介绍应该应聘什么岗位好？薪资应该要多少？](https://www.v2ex.com/t/728860) 
 - [2020-11-24-12-Mini-的电池真的有点拉胯](https://www.v2ex.com/t/728859) 
 - [2020-11-24-Elasticsearch-查询嵌套字段，嵌套对象列表中限制只有匹配的才返回结果，怎么写-dsl](https://www.v2ex.com/t/728858) 
 - [2020-11-24-转型大数据开发的纠结与疑惑。](https://www.v2ex.com/t/728855) 
@@ -45,4 +46,3 @@
 - [2020-11-24-写了一个简单的-webhook-server](https://www.v2ex.com/t/728815) 
 - [2020-11-24-关于-iPhone-无线充电的疑问](https://www.v2ex.com/t/728813) 
 - [2020-11-24-请问搭载-M1-芯片的新款-MacBook-Air-如何关闭键盘背光灯？](https://www.v2ex.com/t/728812) 
-- [2020-11-24-电信-电脑/平板都可以使用无线；-iPhone-无法使用无线](https://www.v2ex.com/t/728810) 

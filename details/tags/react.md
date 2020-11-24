@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 13:22:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 13:33:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -24,6 +24,7 @@
 - [2020-11-20-React组件到底什么时候render啊](https://www.ershicimi.com/p/6cee8122e57fd6d621224b279f12fc1f) 
 - [2020-11-13-为什么要在你的项目中使用-React？](https://www.ershicimi.com/p/68dc80945a90bb032e161f0ed17bd39f) 
 - [2020-09-20-浅谈-React-中的-XSS-攻击](https://www.ershicimi.com/p/cf465a8944c2bbb107812b217cc74f63) 
+- [2020-11-23-真的搞不懂大厂为什么都喜欢用-React-？](https://www.ershicimi.com/p/7e1dffef77b76c832dd620663161f0d1) 
 - [2020-11-20-React-Native-新架构](https://www.ershicimi.com/p/c61755cc8ade1ed33f2522dd1408f078) 
 - [2020-11-18-我就想招React，为啥遍地都是Vue？](https://www.ershicimi.com/p/4b4b13e569cec9b333ea5baa98a00cfd) 
 - [2020-11-22-Next.js-+Egg.js+React项目服务器部署超详解](https://www.ershicimi.com/p/0bba38649013df28365c907500c60af3) 

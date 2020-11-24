@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 13:22:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 13:33:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -43,7 +43,7 @@
 - [2020-11-10-15分钟带你了解前端工程师必知的javascript设计模式附详细思维导图和源码](https://www.ershicimi.com/p/28c66d71c8fb00ba56cc460dd1de91ae) 
 - [2020-11-09-能在任意一种框架中复用的组件，太牛了!](https://www.ershicimi.com/p/c1c32fc5e3b6e25961b0a6df3e913735) 
 - [2020-11-02-JavaScript函数式编程，“香”吗？](https://www.ershicimi.com/p/b9ddcc4da56a41c012bf2647bbf77d22) 
-- [2020-11-12-给前端开发者的-14-个-JavaScript-代码优化建议](https://www.ershicimi.com/p/4db3159c5fedca75fec5d288e19f447c) 
+- [2020-11-24-JS数组奇巧淫技](https://www.ershicimi.com/p/993dc25845b722234af79e32f3952c3d) 
 - [2020-11-16-给前端开发者的-14-个-JavaScript-代码优化建议](https://www.ershicimi.com/p/bd698feaf9bcdfe422090e220eb01130) 
 - [2020-11-15-ES6、ES7、ES8学习指南复习下](https://www.ershicimi.com/p/4d7487534ba746d86f0fbc5c68f90903) 
 - [2020-11-16-从理解到实现轻松掌握-ES6-中的迭代器](https://www.ershicimi.com/p/3795a41792370b270408c5350d3f5adf) 

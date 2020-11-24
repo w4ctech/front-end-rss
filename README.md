@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 07:33:14，:rocket: 更新条数: +1036， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 07:48:03，:rocket: 更新条数: +1035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,10 @@
 </summary>
 
 
+- [2020-11-24-Java-vo,-qo,-dao，-mapper,-service,-controller-好烦啊](https://www.v2ex.com/t/728746) ![](assets/new.png)  
+- [2020-11-24-成都租房，金融城地铁附近上班，老表些有啥子建议或者避坑吗](https://www.v2ex.com/t/728744) ![](assets/new.png)  
+- [2020-11-24-深圳-alloy-team-招聘-30~40-位前端开发](https://www.v2ex.com/t/728743) ![](assets/new.png)  
+- [2020-11-24-人生开始困惑，请前辈们指点迷津，指明方向？](https://www.v2ex.com/t/728742) ![](assets/new.png)  
 - [2020-11-24-在-IDEA-上自己做的-UML-设计器](https://www.v2ex.com/t/728741) ![](assets/new.png)  
 - [2020-11-24-跟大家咨询个双卡-iPhone-设置问题。](https://www.v2ex.com/t/728740) ![](assets/new.png)  
 - [2020-11-24-现在怎么用不了"对讲机"了?](https://www.v2ex.com/t/728739) ![](assets/new.png)  
@@ -1070,10 +1074,6 @@
 - [2020-11-24-亲戚做生意，有一笔钱要过我银行卡上，有什么风险？](https://www.v2ex.com/t/728726) ![](assets/new.png)  
 - [2020-11-24-想写一个生成-word-文档的工具，各位带佬有没有什么好思路](https://www.v2ex.com/t/728725) ![](assets/new.png)  
 - [2020-11-24-docker-proxy-似乎很耗10%+性能？](https://www.v2ex.com/t/728724) ![](assets/new.png)  
-- [2020-11-24-go-如何实现-Python-中的-super?](https://www.v2ex.com/t/728723) ![](assets/new.png)  
-- [2020-11-24-使一个类型的每一个实例创建都带有定时引发事件的功能，这个是如何实现的？](https://www.v2ex.com/t/728722) ![](assets/new.png)  
-- [2020-11-24-小米-MIX3-屏幕坏了，不想修了，手机可以正常接电话，有什么办法把里面的资料导出来吗？](https://www.v2ex.com/t/728721) ![](assets/new.png)  
-- [2020-11-24-没啥迫的，出一个港版-Apple-Watch-S5-金钢-44mm，蜂窝哈！](https://www.v2ex.com/t/728720) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

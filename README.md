@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 10:48:18，:rocket: 更新条数: +932， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 11:04:33，:rocket: 更新条数: +913， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -1054,6 +1054,11 @@
 </summary>
 
 
+- [2020-11-24-求助-Java-操作-mongodb](https://www.v2ex.com/t/728827) ![](assets/new.png)  
+- [2020-11-24-广州-招-12-20K-产品经理，最好有财务系统相关经验](https://www.v2ex.com/t/728826) ![](assets/new.png)  
+- [2020-11-24-有办法依照关键字订阅豆瓣小组的帖子吗？](https://www.v2ex.com/t/728825) ![](assets/new.png)  
+- [2020-11-24-请问-Seafile-服务端的文件会加密吗？](https://www.v2ex.com/t/728824) ![](assets/new.png)  
+- [2020-11-24-大家在宿舍晚上夜谈一般谈些什么内容](https://www.v2ex.com/t/728823) ![](assets/new.png)  
 - [2020-11-24-从零开始的-RPG-游戏制作教程（第一期）](https://www.v2ex.com/t/728822) ![](assets/new.png)  
 - [2020-11-24-有新浪微博的么，为什么登陆新浪微博时，输入手机号之后收不到验证码？尝试找回密码，同样收不到验证码？](https://www.v2ex.com/t/728821) ![](assets/new.png)  
 - [2020-11-24-蛋壳破了,自如还能自如吗?](https://www.v2ex.com/t/728820) ![](assets/new.png)  
@@ -1069,11 +1074,6 @@
 - [2020-11-24-2021-年后-Java-想换工作,现在深圳-3-年经验的-Java-平均工资多少哇](https://www.v2ex.com/t/728807) ![](assets/new.png)  
 - [2020-11-24-“不建议-MySQL-使用-Text-类型”，对于-Text-内容比较短小也不能用吗？](https://www.v2ex.com/t/728806) ![](assets/new.png)  
 - [2020-11-24-吐了-macbook-pro-啥都没干就开不开机了-黑屏啥反应都没有](https://www.v2ex.com/t/728805) ![](assets/new.png)  
-- [2020-11-24-深入-Slate.js-编辑器---引言](https://www.v2ex.com/t/728804) ![](assets/new.png)  
-- [2020-11-24-怎样-1-个月减肥-10-斤](https://www.v2ex.com/t/728803) ![](assets/new.png)  
-- [2020-11-24-M1-芯片的-MacBook-运行-office-的感受如何？](https://www.v2ex.com/t/728802) ![](assets/new.png)  
-- [2020-11-24-刚买的-M1-Macbook-Pro-屏幕有个坏点,-去直营店会怎么处理?](https://www.v2ex.com/t/728800) ![](assets/new.png)  
-- [2020-11-24-有关-AQS-中-CLH-的疑问](https://www.v2ex.com/t/728799) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,26 +1085,6 @@
 </summary>
 
 
-- [2020-11-24-从基础设施到云原生应用，全方位解读阿里云原生新锐开源项目-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13987&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778671%3Futm_content%3Dg_1000209002%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-云原生趋势下的迁移与容灾思考-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13986&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778675%3Futm_content%3Dg_1000209001%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-Flink-双流-Join-的3种操作示例-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13985&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778485%3Futm_content%3Dg_1000209000%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-快手基于-Apache-Flink-的优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13984&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778575%3Futm_content%3Dg_1000208999%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-菜鸟实时数仓2.0进阶之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13983&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778623%3Futm_content%3Dg_1000208998%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-几种性能测试工具的总结-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13982&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-2019-年-CNCF-中国云原生调查报告-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13981&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778481%3Futm_content%3Dg_1000207913%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-高德全链路压测-精准控压的建设实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13980&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778572%3Futm_content%3Dg_1000207912%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-申通完美支撑“双11”-亿级包裹背后的云基础设施-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13979&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778563%3Futm_content%3Dg_1000207911%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-这些表情包你有吗？来-Battle-啊-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13978&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F307672306%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-鹰角网络全球海量数据，一键轻松统一存储与处理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13977&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778559%3Futm_content%3Dg_1000207910%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-KubeVela-正式开源：一个高可扩展的云原生应用平台与核心引擎-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13976&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778543%3Futm_content%3Dg_1000207909%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-6岁！是时候重新认识下Serverless了-|-云原生趣谈-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13975&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778541%3Futm_content%3Dg_1000207513%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-我看技术人的成长路径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-质量内建——缺陷管理实践分享-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-AI云原生浅谈：好未来AI中台实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13972&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778470%3Futm_content%3Dg_1000207511%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-双十一消费近万亿！1亿人见证数字物流，“尾款人”收货更快了？购物狂欢七大趋势浮现-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13971&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778497%3Futm_content%3Dg_1000207510%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-揭秘“双11”黑科技：机器人“接管”物流、服务器“不发烧”-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13969&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778476%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-年轻人不讲武德，偷袭阿里的机房-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13968&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778491%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,8 +1097,8 @@
 
 
 - [2020-11-24-资料-|-开源生态白皮书（2020-年）](https://toutiao.io/k/0s9musw) ![](assets/new.png)  
-- [2020-11-24-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
 - [2020-11-24-学习函数式编程-Monad](https://toutiao.io/k/5jrdqcv) ![](assets/new.png)  
+- [2020-11-24-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
 - [2020-11-24-为什么你写的拦截器中不能注入-Java-bean？](https://toutiao.io/k/b95pnf6) ![](assets/new.png)  
 - [2020-11-24-为什么-Go-的泛型一拖再拖？](https://toutiao.io/k/dvyj3mp) ![](assets/new.png)  
 - [2020-11-24-用了-Redisson-的-Spring-Boot-Starter-搞的我都想重写个](https://toutiao.io/k/azyo1lg) ![](assets/new.png)  

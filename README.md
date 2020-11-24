@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 20:07:27，:rocket: 更新条数: +3782， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 20:24:16，:rocket: 更新条数: +3782， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-24-可以通过-Xbox-Series-X-的开发者模式运行-RetroArch-进而实现模拟几乎所有经典游戏平台](https://www.v2ex.com/t/728918) ![](assets/new.png)  
 - [2020-11-24-将位图加载到-GPU-的内存很慢？](https://www.v2ex.com/t/728917) ![](assets/new.png)  
 - [2020-11-24-神奇的-Big-Sur,-两只-AirPods-Pro-分别连接-iPhone-和-Mac](https://www.v2ex.com/t/728916) ![](assets/new.png)  
 - [2020-11-24-听说上海开了家『犬夜叉』主题餐厅？](https://www.v2ex.com/t/728915) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-11-24-BTC-即将突破历史新高，貌似还没看到讨论的帖子？](https://www.v2ex.com/t/728892) ![](assets/new.png)  
 - [2020-11-24-v-友们帮我分析一下选-m1-还是-16-intel-的-mac](https://www.v2ex.com/t/728890) ![](assets/new.png)  
 - [2020-11-24-安全行业渗透测试岗和安服岗区别](https://www.v2ex.com/t/728889) ![](assets/new.png)  
-- [2020-11-24-最近又买了两只-5G-手机，谈谈使用体验](https://www.v2ex.com/t/728887) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1142,9 +1142,9 @@
 - [2020-11-24-为什么你写的拦截器中不能注入-Java-bean？](https://toutiao.io/k/b95pnf6) ![](assets/new.png)  
 - [2020-11-24-为什么-Go-的泛型一拖再拖？](https://toutiao.io/k/dvyj3mp) ![](assets/new.png)  
 - [2020-11-24-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
-- [2020-11-24-CompletableFuture-应用实践](https://toutiao.io/k/3wwb6r0) ![](assets/new.png)  
-- [2020-11-24-用了-Redisson-的-Spring-Boot-Starter-搞的我都想重写个](https://toutiao.io/k/azyo1lg) ![](assets/new.png)  
 - [2020-11-24-M1-暴打-Intel？：x86-与-ARM-的爱恨情仇](https://toutiao.io/k/fejmlbb) ![](assets/new.png)  
+- [2020-11-24-用了-Redisson-的-Spring-Boot-Starter-搞的我都想重写个](https://toutiao.io/k/azyo1lg) ![](assets/new.png)  
+- [2020-11-24-CompletableFuture-应用实践](https://toutiao.io/k/3wwb6r0) ![](assets/new.png)  
 - [2020-11-24-云原生趋势下的迁移与容灾思考](https://toutiao.io/k/q1rlmlh) ![](assets/new.png)  
 - [2020-11-24-好未来开源框架-go-zero：如何用它进行-Rest-开发？](https://toutiao.io/k/djybagl) ![](assets/new.png)  
 - [2020-11-24-如何在-VuePress-中添加博客导流公众号：即输入验证码解锁全站文章](https://toutiao.io/k/koawpqq) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 00:59:36，:rocket: 更新条数: +3334， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 01:09:35，:rocket: 更新条数: +3333， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,8 @@
 </summary>
 
 
+- [2020-11-24-技术调研：云文件打包压缩下载至客户端，不在服务器落盘](https://www.v2ex.com/t/728559) ![](assets/new.png)  
+- [2020-11-24-昨晚梦见马云来我家拜年，是不是要发的节凑](https://www.v2ex.com/t/728557) ![](assets/new.png)  
 - [2020-11-24-各位-m1-mac-到手的，做开发卡么？](https://www.v2ex.com/t/728554) ![](assets/new.png)  
 - [2020-11-24-毫无设计感的人怎么写出一个中规中矩的前端界面](https://www.v2ex.com/t/728552) ![](assets/new.png)  
 - [2020-11-24-职业规划：程序员的-T-字形发展攻略-|-极客分享第-5-期](https://www.v2ex.com/t/728551) ![](assets/new.png)  
@@ -571,8 +573,6 @@
 - [2020-11-23-分享一下-mini-的使用体验](https://www.v2ex.com/t/728535) ![](assets/new.png)  
 - [2020-11-23-Offer-选择（安全行业）](https://www.v2ex.com/t/728534) ![](assets/new.png)  
 - [2020-11-23-4S-店跑路](https://www.v2ex.com/t/728533) ![](assets/new.png)  
-- [2020-11-23-腾讯会议更新后无法打开](https://www.v2ex.com/t/728532) ![](assets/new.png)  
-- [2020-11-23-TypeOrm-使用-PrimaryGeneratedColumn-注解报错。。](https://www.v2ex.com/t/728531) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -624,17 +624,17 @@
 - [2020-11-24-云原生趋势下的迁移与容灾思考](https://toutiao.io/k/q1rlmlh) ![](assets/new.png)  
 - [2020-11-24-CompletableFuture-应用实践](https://toutiao.io/k/3wwb6r0) ![](assets/new.png)  
 - [2020-11-24-好未来开源框架-go-zero：如何用它进行-Rest-开发？](https://toutiao.io/k/djybagl) ![](assets/new.png)  
-- [2020-11-24-重温设计模式系列（二）：面向对象基础知识](https://toutiao.io/k/yayekh2) ![](assets/new.png)  
 - [2020-11-24-回顾-Android-11-中的存储机制更新](https://toutiao.io/k/nh1jnsf) ![](assets/new.png)  
+- [2020-11-24-重温设计模式系列（二）：面向对象基础知识](https://toutiao.io/k/yayekh2) ![](assets/new.png)  
 - [2020-11-24-为什么你写的拦截器中不能注入-Java-bean？](https://toutiao.io/k/b95pnf6) ![](assets/new.png)  
-- [2020-11-24-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [2020-11-24-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
-- [2020-11-24-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
-- [2020-11-24-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-24-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
+- [2020-11-24-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
 - [2020-11-24-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
-- [2020-11-24-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
-- [2020-11-24-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-24-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-24-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
 - [2020-11-24-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-24-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

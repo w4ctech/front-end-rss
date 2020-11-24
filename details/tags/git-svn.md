@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 05:07:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 05:22:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -14,5 +14,4 @@
 - [2020-11-17-卧槽！GitHub-又诞生一个沙雕项目？！](https://www.ershicimi.com/p/a91502c55cf2a5e68963d6fccc1b41ff) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
-- [2020-11-24-在服务器里面，怎么给访问-github-加速？](https://www.v2ex.com/t/728625) 
 - [2020-11-23-Joker恶意软件的最新攻击技巧:使用Github隐藏有效载荷](https://sec.thief.one/article_content?a_id=93b492e2480927ff980d8e87de1a1d1b) 

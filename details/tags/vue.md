@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 05:22:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 05:48:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -65,6 +65,7 @@
 - [2020-11-02-面试的时候，只会vue能行么？](https://www.ershicimi.com/p/de8096ff1d6ac01c6ff82a1f19aa0ff1) 
 - [2020-10-27-除了-Vue，你还需要掌握前端工程化](https://www.ershicimi.com/p/36eb7320bbf8c7ba64ed5bf829f1dd49) 
 - [2020-10-26-一次就将-Vue-SSR-讲通透！](https://www.ershicimi.com/p/0c14f006da92ea1a47dd6e15bd4b0418) 
+- [2020-11-23-Vue3-也能用上-Vue2-组件-From-EMP](https://juejin.im/post/6898498514813190158) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
 - [2020-11-24-如何在-VuePress-中添加博客导流公众号：即输入验证码解锁全站文章](https://toutiao.io/k/koawpqq) 

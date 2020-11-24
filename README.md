@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 05:22:54，:rocket: 更新条数: +3630， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 05:48:26，:rocket: 更新条数: +3648， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -55,6 +55,7 @@
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
+- [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -936,7 +937,7 @@
 - [2020-11-23-给-Flutter-上-PR-究竟有多难](https://juejin.im/post/6898529849590317069) ![](assets/new.png)  
 - [2020-11-23-极致追求，让小程序代码包立减-10%-的插件-weapp-css-modules](https://juejin.im/post/6898523728389341197) ![](assets/new.png)  
 - [2020-11-23-前端最佳实践之可维护性](https://juejin.im/post/6898522681604308999) ![](assets/new.png)  
-- [2020-11-23-ES11新增的这9个新特性，你都掌握了吗？](https://juejin.im/post/6898518180923506702) ![](assets/new.png)  
+- [2020-11-23-Vue3-也能用上-Vue2-组件-From-EMP](https://juejin.im/post/6898498514813190158) ![](assets/new.png)  
 - [2020-11-23-Flutter系列之Container组件间的间隙问题](https://juejin.im/post/6898308964329455629) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1053,6 +1054,11 @@
 </summary>
 
 
+- [2020-11-24-有没有做拼多多的大佬，求个拼多多上货软件](https://www.v2ex.com/t/728682) ![](assets/new.png)  
+- [2020-11-24-PerfDog-下性能测试分析记录Android](https://www.v2ex.com/t/728681) ![](assets/new.png)  
+- [2020-11-24-云逛街](https://www.v2ex.com/t/728680) ![](assets/new.png)  
+- [2020-11-24-Hexo-博客-icon-图标加载过慢](https://www.v2ex.com/t/728679) ![](assets/new.png)  
+- [2020-11-24-像那种培训机构，-58-同城网站里那种的聊天弹窗怎么做？](https://www.v2ex.com/t/728678) ![](assets/new.png)  
 - [2020-11-24-谈谈-Golang-缓冲与无缓冲-channel](https://www.v2ex.com/t/728677) ![](assets/new.png)  
 - [2020-11-24-手头有-20w，想放出去赚点利息，求推荐可靠](https://www.v2ex.com/t/728676) ![](assets/new.png)  
 - [2020-11-24-感觉想离开北上广回老家工作，这是一条不错的选择。](https://www.v2ex.com/t/728674) ![](assets/new.png)  
@@ -1068,11 +1074,6 @@
 - [2020-11-24-大佬们求助，后台-request-丢参](https://www.v2ex.com/t/728662) ![](assets/new.png)  
 - [2020-11-24-在线图片转二维码](https://www.v2ex.com/t/728661) ![](assets/new.png)  
 - [2020-11-24-阿里同学来领下-MTEE-工单。](https://www.v2ex.com/t/728660) ![](assets/new.png)  
-- [2020-11-24-Office365-家庭版发车了，需要的赶紧上车了](https://www.v2ex.com/t/728659) ![](assets/new.png)  
-- [2020-11-24-请教一个优雅的逻辑方案，=1-走-A-，=2-走-B，-=3-走-AB-两个，怎么写比较好？不限语言](https://www.v2ex.com/t/728657) ![](assets/new.png)  
-- [2020-11-24-Apple-M1-Compatibility](https://www.v2ex.com/t/728656) ![](assets/new.png)  
-- [2020-11-24-15-分钟就能学会一种语言？](https://www.v2ex.com/t/728655) ![](assets/new.png)  
-- [2020-11-24-工作里写了很多-bash-alias-和方法，有什么简易的方法可以把它们包装成命令行工具吗？](https://www.v2ex.com/t/728654) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,6 +1085,7 @@
 </summary>
 
 
+- [2020-11-24-快手基于-Apache-Flink-的优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13984&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778575%3Futm_content%3Dg_1000208999%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-24-菜鸟实时数仓2.0进阶之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13983&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778623%3Futm_content%3Dg_1000208998%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-24-几种性能测试工具的总结-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13982&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-24-2019-年-CNCF-中国云原生调查报告-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13981&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778481%3Futm_content%3Dg_1000207913%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1103,7 +1105,6 @@
 - [2020-11-24-阿里巴巴集团-CTO-程立：今年天猫双-11，阿里练了什么？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13967&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778266%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-24-双11核心系统全面云原生化：效率提升一倍，成本下降80%-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13966&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778246%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-24-四两拨千斤：小巧新秀ClickHouse如何完美支撑史上最强双十一？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13965&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778258%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-24-4982亿背后的前端技术-2020天猫双11前端体系大揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13964&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778394%3Futm_content%3Dg_1000207219%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1123,16 +1124,16 @@
 - [2020-11-24-CompletableFuture-应用实践](https://toutiao.io/k/3wwb6r0) ![](assets/new.png)  
 - [2020-11-24-好未来开源框架-go-zero：如何用它进行-Rest-开发？](https://toutiao.io/k/djybagl) ![](assets/new.png)  
 - [2020-11-24-如何在-VuePress-中添加博客导流公众号：即输入验证码解锁全站文章](https://toutiao.io/k/koawpqq) ![](assets/new.png)  
-- [2020-11-24-云原生趋势下的迁移与容灾思考](https://toutiao.io/k/q1rlmlh) ![](assets/new.png)  
 - [2020-11-24-为什么你写的拦截器中不能注入-Java-bean？](https://toutiao.io/k/b95pnf6) ![](assets/new.png)  
+- [2020-11-24-云原生趋势下的迁移与容灾思考](https://toutiao.io/k/q1rlmlh) ![](assets/new.png)  
 - [2020-11-24-重温设计模式系列（二）：面向对象基础知识](https://toutiao.io/k/yayekh2) ![](assets/new.png)  
 - [2020-11-24-回顾-Android-11-中的存储机制更新](https://toutiao.io/k/nh1jnsf) ![](assets/new.png)  
 - [2020-11-24-M1-暴打-Intel？：x86-与-ARM-的爱恨情仇](https://toutiao.io/k/fejmlbb) ![](assets/new.png)  
 - [2020-11-24-来自未来的缓存-Caffeine，带你揭开它的神秘面纱](https://toutiao.io/k/rw16kcb) ![](assets/new.png)  
 - [2020-11-24-谈谈-ETL-中的数据质量](https://toutiao.io/k/xms0aoe) ![](assets/new.png)  
 - [2020-11-24-如何将-HTML-表格转换成精美的-PDF](https://toutiao.io/k/o6t77kv) ![](assets/new.png)  
-- [2020-11-24-FFM-理论与实践](https://toutiao.io/k/9n0a0xt) ![](assets/new.png)  
 - [2020-11-24-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
+- [2020-11-24-FFM-理论与实践](https://toutiao.io/k/9n0a0xt) ![](assets/new.png)  
 - [2020-11-24-企业安全建设壮大阶段经验浅谈之风险收敛](https://toutiao.io/k/klpoprw) ![](assets/new.png)  
 - [2020-11-24-SUPER-车道线检测：异构数据集训练、物理驱动拟合](https://toutiao.io/k/1jwc33z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
@@ -1167,6 +1168,37 @@
 - [2020-11-23-雷神众测漏洞周报-2020.11.16-2020.11.22-4](https://sec.thief.one/article_content?a_id=497dbc73cdef6a5036f5374f843ed703) ![](assets/new.png)  
 - [2020-11-23-内网渗透-|-NPS内网穿透工具的使用](https://sec.thief.one/article_content?a_id=bc2d1c36ae34a4160c015f6b632612ea) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
+
+<div align="right"><a href="#来源分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="物联网智库">
+ 物联网智库
+</summary>
+
+
+- [2020-11-21-历史性时刻！物联网连接规模首次超过非物联网，移动物联网连接中国“一骑绝尘”](https://www.ershicimi.com/p/9fc60d243af4089dfc43d4d8937c5abf) ![](assets/new.png)  
+- [2020-11-21-【案例征集】践行“落地与融合”，2021年中国AIoT产业全景图谱报告优秀案例征集正式启动](https://www.ershicimi.com/p/1ecd397d5bb643629ed5fc50bac59e1d) ![](assets/new.png)  
+- [2020-11-20-​AI你到底行不行？能找到秃头元凶，却光头&足球傻傻分不清](https://www.ershicimi.com/p/b3f76dac95d321e378791f37bf4c5bc6) ![](assets/new.png)  
+- [2020-11-20-加速行业智能升级，华为云IoT的底气是什么？](https://www.ershicimi.com/p/c283b4ec540d2008344f8d8f81d318c9) ![](assets/new.png)  
+- [2020-11-20-《5G确定性网络+工业互联网融合白皮书》正式发布](https://www.ershicimi.com/p/bd002440ed0ee3befdf2619c9578d63f) ![](assets/new.png)  
+- [2020-11-19-世界工业互联网平台“群雄逐鹿”，看中国方案如何“一决高下”？](https://www.ershicimi.com/p/f2dc1f9da4dbab2c9c8200b8abdf3696) ![](assets/new.png)  
+- [2020-11-19-为什么说5G成功商用在终端，终端普及在模组？](https://www.ershicimi.com/p/da56c46f1cb5ef77c7d6ae6ce88a203f) ![](assets/new.png)  
+- [2020-11-19-5G的频谱效率，到底有多高？](https://www.ershicimi.com/p/6d9b7dc87d49ae087006f02550ecc7c3) ![](assets/new.png)  
+- [2020-11-18-荣耀现在被迫剥离，或许是为了华为未来10年物联网更“牛逼”](https://www.ershicimi.com/p/654e027f8d6992d422763f7b0c10bab5) ![](assets/new.png)  
+- [2020-11-18-研华以6.26亿美元品牌价值-荣获台湾国际品牌第四名](https://www.ershicimi.com/p/18d2904a6f76a0d4f20b52a58e78584b) ![](assets/new.png)  
+- [2020-11-18-中国本土“灯塔工厂”已有8家，领路人为什么是海尔？](https://www.ershicimi.com/p/74951a6b6d7ea417b9904bd38c6c41ff) ![](assets/new.png)  
+- [2020-11-18-5G-toB：下一场运营商与OTT之争？](https://www.ershicimi.com/p/e4ebe05e1d3c5828be6321bb2eb6ab98) ![](assets/new.png)  
+- [2020-11-17-还能让智能制造来得再快一点吗？](https://www.ershicimi.com/p/666fcb3a36a637fcba9eee3e975d6d8e) ![](assets/new.png)  
+- [2020-11-17-华为回应出售荣耀：这是一场产业链自救](https://www.ershicimi.com/p/da27e802e836e4f913ac791008809be8) ![](assets/new.png)  
+- [2020-11-17-5-nm-不够用三星将顶上？外媒分析：苹果不会放弃台积电](https://www.ershicimi.com/p/214126b1c7199fb65c3b1cc5469ca14b) ![](assets/new.png)  
+- [2020-11-16-重磅！余承东总负责，华为汽车业务或与消费者业务整合，汽车将助华为剑指未来？](https://www.ershicimi.com/p/02994daa5bb361ff71e9355c2bd98b7e) ![](assets/new.png)  
+- [2020-11-16-边缘计算4.0正急速驶来，你做好准备了吗？](https://www.ershicimi.com/p/b88eabaa78f6a9ac6b080da54fb7e059) ![](assets/new.png)  
+- [2020-11-16-议程抢先看！-预见2025：嵌入式物联产业新未来](https://www.ershicimi.com/p/04556d23613d9f4b1161372de4a50029) ![](assets/new.png)  
+- [2020-11-16-贝尔实验室的百年沉浮](https://www.ershicimi.com/p/d37e019e5716ffdb2c03d0637332214e) ![](assets/new.png)  
+- [2020-11-15-第一批拿到了5G入场券的先行者，他们的所痛、所思、所悟【物女心经】](https://www.ershicimi.com/p/8ffc12ce9eb902ef59787210e9f14c32) ![](assets/new.png)  
+- [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
 </details>

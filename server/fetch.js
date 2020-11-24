@@ -43,7 +43,7 @@ const Fetch = async function(newData, linksJson, linksJsonIndex, jsonItem, rssIt
           finished = true
           fetchOne(index+1, onResolve);
         }
-      }, 20000);
+      }, 800000);
 
       console.log(utils.getNowDate() + ' - 开始 RSS: ' + rss);
       parser.parseURL(replaceRss(rss), function(err, feed) {
@@ -149,10 +149,10 @@ function replaceRss(rss){
   if(!useLocalRSSHub) return rss
 
   if(/rsshub\.app/.test(rss)){
-    console.log('https://rss.shab.fun ==> http://127.0.0.1:1200')
+    console.log('https://front-rss.herokuapp.com ==> http://127.0.0.1:1200')
   }
 
-  return rss.replace('https://rss.shab.fun', 'http://127.0.0.1:1200')
+  return rss.replace('https://front-rss.herokuapp.com', 'http://127.0.0.1:1200')
 }
 
 module.exports = Fetch;

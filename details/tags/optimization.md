@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 06:04:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 06:09:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -16,8 +16,6 @@
 - [2020-11-19-前端性能优化-24-条建议（2020）](https://www.ershicimi.com/p/16fae320bad6ffa073196dcf8c778d76) 
 - [2020-08-09-编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab) 
 - [2020-11-13-图片懒加载从简单到复杂](https://www.ershicimi.com/p/0d8e83fc2092fa1d04bd1c266376ca96) 
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-11-24-PerfDog-下性能测试分析记录Android](https://www.v2ex.com/t/728681) 
 - [2020-11-24-Hexo-博客-icon-图标加载过慢](https://www.v2ex.com/t/728679) 

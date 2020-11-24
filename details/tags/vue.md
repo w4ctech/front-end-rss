@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 06:04:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 06:09:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -53,7 +53,6 @@
 - [2020-11-17-Electron+vue从零开始打造一个本地播放器](https://www.ershicimi.com/p/d13702e128a70a449f44d5bd86b6f209) 
 - [2020-11-14-Taro-支持使用-Vue3-开发小程序](https://www.ershicimi.com/p/c2fa0c24ccb13341f2bc2c01ac823aa8) 
 - [2020-10-14-Vue.js-作者尤雨溪：TypeScript-与-JavaScript-并行才切合实际！](https://www.ershicimi.com/p/65f8261d5a8e6be4d73ab7529202d452) 
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-11-20-奇舞周刊第-373-期：关于-Vue-3.0-Ref-sugar-提案的看法](https://www.ershicimi.com/p/e0ead05b1663301ee553bb5f70f13fe3) 
 - [2020-11-13-奇舞周刊第-372-期：Vue-3-的响应式和组合式](https://www.ershicimi.com/p/882d9e9b785e326836c5aecd72c03d06) 
 - [2020-11-19-快人一步上手-Vue3.0](https://www.ershicimi.com/p/dfc983e441c2706df8b787642a0d4321) 

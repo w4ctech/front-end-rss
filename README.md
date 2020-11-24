@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 11:23:09，:rocket: 更新条数: +933， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 11:33:28，:rocket: 更新条数: +932， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,7 @@
 </summary>
 
 
+- [2020-11-24-hCaptcha-真是蠢到极致](https://www.v2ex.com/t/728832) ![](assets/new.png)  
 - [2020-11-24-translate_tabs_to_spaces-是什么功能？怎样设置，怎样操作会有怎样的效果？](https://www.v2ex.com/t/728831) ![](assets/new.png)  
 - [2020-11-24-一个很好看的-js-右滑拼图验证，为什么手机浏览器不兼容](https://www.v2ex.com/t/728830) ![](assets/new.png)  
 - [2020-11-24-微软说的-cross-platform...开发环境一言难尽](https://www.v2ex.com/t/728829) ![](assets/new.png)  
@@ -1073,7 +1074,6 @@
 - [2020-11-24-写了一个简单的-webhook-server](https://www.v2ex.com/t/728815) ![](assets/new.png)  
 - [2020-11-24-关于-iPhone-无线充电的疑问](https://www.v2ex.com/t/728813) ![](assets/new.png)  
 - [2020-11-24-请问搭载-M1-芯片的新款-MacBook-Air-如何关闭键盘背光灯？](https://www.v2ex.com/t/728812) ![](assets/new.png)  
-- [2020-11-24-电信-电脑/平板都可以使用无线；-iPhone-无法使用无线](https://www.v2ex.com/t/728810) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -158,5 +158,9 @@
   {
     "title": "安全热点",
     "rss": "https://sec.thief.one/atom.xml"
+  },
+  {
+    "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/PQDgZ2jW",
+    "title": "物联网智库",
   }
 ]

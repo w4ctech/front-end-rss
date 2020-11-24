@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 07:48:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 08:05:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -32,7 +32,10 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-10-29-阿里前端技术岗发布+内部面试题参考手册（含P5-P7）](https://www.ershicimi.com/p/f248e5ad233de930e884b7ab29796eec) 
+- [2020-11-24-开源社区长期招聘-远程+实习证明](https://www.v2ex.com/t/728753) 
 - [2020-11-24-深圳-alloy-team-招聘-30~40-位前端开发](https://www.v2ex.com/t/728743) 
+- [2020-11-24-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) 
 - [2020-11-24-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) 
+- [2020-11-24-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) 
 - [2020-11-24-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) 
 - [2020-11-21-牛聘|2020年度岗位招聘第14期](https://sec.thief.one/article_content?a_id=85a0fe56233d717438239fef07601c41) 

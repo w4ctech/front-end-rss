@@ -238,5 +238,11 @@
     "title": "安全热点",
     "link": "https://sec.thief.one",
     "items": []
+  },
+    {
+    "rss": "https://cdn.werss.weapp.design/api/v1/feeds/18ffd05d-471a-49cc-8999-0481f1ace85b.xml",
+    "title": "物联网智库",
+    "link": "http://mp.weixin.qq.com",
+    "items": []
   }
 ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 04:04:26，:rocket: 更新条数: +3863， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 04:28:47，:rocket: 更新条数: +3862， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1073,6 +1073,11 @@
 </summary>
 
 
+- [2020-11-24-手机上阅读有什么好用的-app-吗？求推荐](https://www.v2ex.com/t/728664) ![](assets/new.png)  
+- [2020-11-24-如我直言，-6000-元的电脑配置，没有比这更好的了](https://www.v2ex.com/t/728663) ![](assets/new.png)  
+- [2020-11-24-大佬们求助，后台-request-丢参](https://www.v2ex.com/t/728662) ![](assets/new.png)  
+- [2020-11-24-在线图片转二维码](https://www.v2ex.com/t/728661) ![](assets/new.png)  
+- [2020-11-24-阿里同学来领下-MTEE-工单。](https://www.v2ex.com/t/728660) ![](assets/new.png)  
 - [2020-11-24-Office365-家庭版发车了，需要的赶紧上车了](https://www.v2ex.com/t/728659) ![](assets/new.png)  
 - [2020-11-24-请教一个优雅的逻辑方案，=1-走-A-，=2-走-B，-=3-走-AB-两个，怎么写比较好？不限语言](https://www.v2ex.com/t/728657) ![](assets/new.png)  
 - [2020-11-24-Apple-M1-Compatibility](https://www.v2ex.com/t/728656) ![](assets/new.png)  
@@ -1088,11 +1093,6 @@
 - [2020-11-24-社区团购是真的火呀](https://www.v2ex.com/t/728644) ![](assets/new.png)  
 - [2020-11-24-cnodejs.org-这个站是不是关了啊？](https://www.v2ex.com/t/728643) ![](assets/new.png)  
 - [2020-11-24-迫于穷，拼多多副业开干](https://www.v2ex.com/t/728641) ![](assets/new.png)  
-- [2020-11-24-服务商快速创建的小程序如何开通云开发？](https://www.v2ex.com/t/728640) ![](assets/new.png)  
-- [2020-11-24-我有一个-ip8-64g-无锁美版-黑-电-85%-边框有磕碰-5-6-处小于-1mm2-的-屏幕有划痕-疏油层基本上没了的一个无拆洋垃圾朋友们帮我估一下多少钱-我准备挂咸鱼上出了](https://www.v2ex.com/t/728638) ![](assets/new.png)  
-- [2020-11-24-3070-怎么这么难抢啊](https://www.v2ex.com/t/728637) ![](assets/new.png)  
-- [2020-11-24-V-社前开发人员吐槽-Source-引擎](https://www.v2ex.com/t/728636) ![](assets/new.png)  
-- [2020-11-24-无法上外网，怎么用本站的搜索？](https://www.v2ex.com/t/728635) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1143,18 +1143,18 @@
 - [2020-11-24-CompletableFuture-应用实践](https://toutiao.io/k/3wwb6r0) ![](assets/new.png)  
 - [2020-11-24-如何在-VuePress-中添加博客导流公众号：即输入验证码解锁全站文章](https://toutiao.io/k/koawpqq) ![](assets/new.png)  
 - [2020-11-24-好未来开源框架-go-zero：如何用它进行-Rest-开发？](https://toutiao.io/k/djybagl) ![](assets/new.png)  
-- [2020-11-24-云原生趋势下的迁移与容灾思考](https://toutiao.io/k/q1rlmlh) ![](assets/new.png)  
 - [2020-11-24-为什么你写的拦截器中不能注入-Java-bean？](https://toutiao.io/k/b95pnf6) ![](assets/new.png)  
+- [2020-11-24-云原生趋势下的迁移与容灾思考](https://toutiao.io/k/q1rlmlh) ![](assets/new.png)  
 - [2020-11-24-重温设计模式系列（二）：面向对象基础知识](https://toutiao.io/k/yayekh2) ![](assets/new.png)  
 - [2020-11-24-回顾-Android-11-中的存储机制更新](https://toutiao.io/k/nh1jnsf) ![](assets/new.png)  
-- [2020-11-24-M1-暴打-Intel？：x86-与-ARM-的爱恨情仇](https://toutiao.io/k/fejmlbb) ![](assets/new.png)  
 - [2020-11-24-来自未来的缓存-Caffeine，带你揭开它的神秘面纱](https://toutiao.io/k/rw16kcb) ![](assets/new.png)  
+- [2020-11-24-M1-暴打-Intel？：x86-与-ARM-的爱恨情仇](https://toutiao.io/k/fejmlbb) ![](assets/new.png)  
 - [2020-11-24-谈谈-ETL-中的数据质量](https://toutiao.io/k/xms0aoe) ![](assets/new.png)  
 - [2020-11-24-如何将-HTML-表格转换成精美的-PDF](https://toutiao.io/k/o6t77kv) ![](assets/new.png)  
 - [2020-11-24-FFM-理论与实践](https://toutiao.io/k/9n0a0xt) ![](assets/new.png)  
 - [2020-11-24-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
-- [2020-11-24-企业安全建设壮大阶段经验浅谈之风险收敛](https://toutiao.io/k/klpoprw) ![](assets/new.png)  
 - [2020-11-24-SUPER-车道线检测：异构数据集训练、物理驱动拟合](https://toutiao.io/k/1jwc33z) ![](assets/new.png)  
+- [2020-11-24-企业安全建设壮大阶段经验浅谈之风险收敛](https://toutiao.io/k/klpoprw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

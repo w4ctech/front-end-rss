@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-24 16:05:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 16:11:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-24-对腾讯云-Serverless-缩减活动礼品表示理解与支持](https://www.v2ex.com/t/728903) 
 - [2020-11-24-socket-提供的-api-属于库函数还是系统调用?](https://www.v2ex.com/t/728902) 
 - [2020-11-24-nuxt.js-可以生成静态网站吗](https://www.v2ex.com/t/728900) 
 - [2020-11-24-Big-Sur-无法进入恢复模式](https://www.v2ex.com/t/728898) 

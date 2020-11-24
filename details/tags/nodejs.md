@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 22:47:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 23:04:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -37,4 +37,3 @@
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-10-25-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/bdaf5888efdc904b2f7aeaf8284cce69) 
 - [2020-11-23-译Node.js:-快捷的async函数会如何阻塞事件循环，使I/O饥饿？](https://juejin.im/post/6898581784150654984) 
-- [2020-11-24-nodejs-纯后端开发市场行情怎样？](https://www.v2ex.com/t/728872) 

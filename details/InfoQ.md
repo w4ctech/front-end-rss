@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-11-24 22:47:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 23:04:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-11-24-如何让密码学拯救你的“35岁危机”？｜-极客时间](https://www.ershicimi.com/p/2c9caacf18d7ac64a02d190f5173b6a7) 
+- [2020-11-24-66岁还在写代码，这个程序员想把bug扼杀在“摇篮”里](https://www.ershicimi.com/p/f81aa91d0a234fbc9c5c63232c9ec5a0) 
+- [2020-11-24-代码不止-|-2020-Google-开发者大会亮点回顾](https://www.ershicimi.com/p/eee5f9e8dbb4f0a6ccb992909f67e8a6) 
+- [2020-11-24-从HTTP到HTTP/3的发展简史](https://www.ershicimi.com/p/9b07e8b7a6dd46aa987c0c70a16d5e5b) 
+- [2020-11-24-自动驾驶梦碎？5年烧光25亿美元，Uber-拟出售无人驾驶部门ATG](https://www.ershicimi.com/p/1357b4f94ec744fbc93105430842bc23) 
+- [2020-11-23-少儿编程迎来史上最大单笔融资，程序员的内卷从娃娃开始？](https://www.ershicimi.com/p/e97ed3f4192c613b7ef5c4041b546edb) 
+- [2020-11-23-中台的邪，为什么CXO们都信了？](https://www.ershicimi.com/p/5ea79bcea21bed751dd2b61455a76e77) 
+- [2020-11-23-AI-赋能机器视觉：摄像机踏入“软件定义”新时代-|-Q推荐](https://www.ershicimi.com/p/50f15d61ff89123c8030dfeeb89364dd) 
+- [2020-11-23-网易严选如何建设-DevOps-工具链？](https://www.ershicimi.com/p/2f891370f477a5d0cd54f11da9616f2c) 
+- [2020-11-23-Flutter-的新功能、Dart-开发工具以及一行神奇的-CSS-代码-|-Google-开发者大](https://www.ershicimi.com/p/20edb7b9e9de89967f86cc634138401e) 
 - [2020-11-22-雷军回应“小米手机都是中低端”-；苹果承认iPhone12绿屏；华为卖荣耀，员工可选两种补偿方案-|](https://www.ershicimi.com/p/a3f39513c13d16817cf9a500b6bfa4b7) 
 - [2020-11-22-InfoQ-独家对话-|-工业互联网开启宝安的产业新发展](https://www.ershicimi.com/p/89cece8bffcf7ab596e68429aa5bac72) 
 - [2020-11-22-AWS上云钜惠月来袭，白皮书+万元礼包，理论到实战一次搞定！｜-Q推荐](https://www.ershicimi.com/p/6c003302e8ebb7a93db629d2d88cb8b4) 
@@ -15,13 +25,3 @@
 - [2020-11-21-前Uber-CTO加入韩国最大电商公司Coupang](https://www.ershicimi.com/p/870ab892c026b4cf90929ad3ec58b1d4) 
 - [2020-11-21-还在用分库分表？看TiDB如何解决海量数据无感扩容难题-｜-Q推荐](https://www.ershicimi.com/p/ecf6c933a0013086ad9a21afd8f8be45) 
 - [2020-11-21-深入浅出Spark（三）：Spark调度系统之“权力的游戏”](https://www.ershicimi.com/p/867ff2d25b1b45f0ace6345f2117902d) 
-- [2020-11-20-黑客不讲武德，苹果好自为之](https://www.ershicimi.com/p/9f7aa27b6dcee5d39ecbf36c7cf8873f) 
-- [2020-11-20-6小时模型迭代的背后故事：华为云ModelArts+HiLens在空管领域怎么用？](https://www.ershicimi.com/p/67d671ea162c4919960fe21e4420c069) 
-- [2020-11-20-银行数字化转型战略分析、关键技术及未来架构趋势｜-Q推荐](https://www.ershicimi.com/p/802bf63457142808d6ff8713b43a0f97) 
-- [2020-11-20-探索-ReFinTech-2021｜金融行业数字化转型，技术创新边界在哪里？](https://www.ershicimi.com/p/0ff68d93805859486200657b9f29f2aa) 
-- [2020-11-20-Postman公司微服务最新实践](https://www.ershicimi.com/p/ea02c363af284adb3c34aad5af6c1670) 
-- [2020-11-20-2020年十个最好用的大数据分析工具](https://www.ershicimi.com/p/62c148c5250770b0685b28ec2b8baa92) 
-- [2020-11-19-测试一年多，上线就崩溃！技术供应商纳斯达克酿出严重软件事故](https://www.ershicimi.com/p/149e9d6fcc3ed8c9884f9796d2fd991f) 
-- [2020-11-19-不写代码搞定微服务架构改造，我信了你的邪](https://www.ershicimi.com/p/38167bc23df36494ffc2ae5dd148bb35) 
-- [2020-11-19-5G-场景下创新创业难？华为云5G+X联创营官网上线为你助力](https://www.ershicimi.com/p/d6fdc2f791d9d0709a51fb39fca4b2e1) 
-- [2020-11-19-技术是泛娱乐的基础推动力，看腾讯云怎么玩？｜-Q推荐](https://www.ershicimi.com/p/833c097b9f1c3adc89c314df1e5ecba5) 

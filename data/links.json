@@ -14855,6 +14855,26 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "又作什么妖？会 Vue 也是错……",
+        "link": "https://www.ershicimi.com/p/20aab5ff4b79a6352b748ff0229b3636",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "设计一个JavaScript插件系统",
+        "link": "https://www.ershicimi.com/p/cf153ddca53bd8709d7a88658507b833",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "大牛必备：前端与图形学",
+        "link": "https://www.ershicimi.com/p/20f0e151dac8bc65fe089bfc22bc3283",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "面试官：聊聊对Vue.js框架的理解",
+        "link": "https://www.ershicimi.com/p/07f836fd5aadcbccea997d83e22b3b2a",
+        "date": "2020-11-23"
+      },
+      {
         "title": "一文让你30分钟快速掌握Vue3",
         "link": "https://www.ershicimi.com/p/393da11124dad445181ce507b937a21e",
         "date": "2020-11-22"
@@ -14933,26 +14953,6 @@
         "title": "P7员工为证明年入百万，晒出工资条，网友们看完都沸腾了",
         "link": "https://www.ershicimi.com/p/5b88e4c4576dea876aee1eafbd9265d4",
         "date": "2020-11-10"
-      },
-      {
-        "title": "深入理解洋葱模型",
-        "link": "https://www.ershicimi.com/p/2c999bec4886fb21f2ae28c3bebf807f",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "基于 Web Component 组件化开发，前端人必备！",
-        "link": "https://www.ershicimi.com/p/1c83736bd29bd334eb015bcd6882b7eb",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "缩减 SCSS 50%样式代码的 14 条实战经验",
-        "link": "https://www.ershicimi.com/p/d796c1fe75d5df7ad61ca1ae96ef5dfc",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "想写好前端，先练好内功",
-        "link": "https://www.ershicimi.com/p/bf761caf0873976e2120600c994effcc",
-        "date": "2020-11-08"
       }
     ]
   },
@@ -17987,6 +17987,56 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "如何让密码学拯救你的“35岁危机”？｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/2c9caacf18d7ac64a02d190f5173b6a7",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "66岁还在写代码，这个程序员想把bug扼杀在“摇篮”里",
+        "link": "https://www.ershicimi.com/p/f81aa91d0a234fbc9c5c63232c9ec5a0",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "代码不止 | 2020 Google 开发者大会亮点回顾",
+        "link": "https://www.ershicimi.com/p/eee5f9e8dbb4f0a6ccb992909f67e8a6",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "从HTTP到HTTP/3的发展简史",
+        "link": "https://www.ershicimi.com/p/9b07e8b7a6dd46aa987c0c70a16d5e5b",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "自动驾驶梦碎？5年烧光25亿美元，Uber 拟出售无人驾驶部门ATG",
+        "link": "https://www.ershicimi.com/p/1357b4f94ec744fbc93105430842bc23",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "少儿编程迎来史上最大单笔融资，程序员的内卷从娃娃开始？",
+        "link": "https://www.ershicimi.com/p/e97ed3f4192c613b7ef5c4041b546edb",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "中台的邪，为什么CXO们都信了？",
+        "link": "https://www.ershicimi.com/p/5ea79bcea21bed751dd2b61455a76e77",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "AI 赋能机器视觉：摄像机踏入“软件定义”新时代 | Q推荐",
+        "link": "https://www.ershicimi.com/p/50f15d61ff89123c8030dfeeb89364dd",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "网易严选如何建设 DevOps 工具链？",
+        "link": "https://www.ershicimi.com/p/2f891370f477a5d0cd54f11da9616f2c",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "Flutter 的新功能、Dart 开发工具以及一行神奇的 CSS 代码 | Google 开发者大",
+        "link": "https://www.ershicimi.com/p/20edb7b9e9de89967f86cc634138401e",
+        "date": "2020-11-23"
+      },
+      {
         "title": "雷军回应“小米手机都是中低端” ；苹果承认iPhone12绿屏；华为卖荣耀，员工可选两种补偿方案 |",
         "link": "https://www.ershicimi.com/p/a3f39513c13d16817cf9a500b6bfa4b7",
         "date": "2020-11-22"
@@ -18035,56 +18085,6 @@
         "title": "深入浅出Spark（三）：Spark调度系统之“权力的游戏”",
         "link": "https://www.ershicimi.com/p/867ff2d25b1b45f0ace6345f2117902d",
         "date": "2020-11-21"
-      },
-      {
-        "title": "黑客不讲武德，苹果好自为之",
-        "link": "https://www.ershicimi.com/p/9f7aa27b6dcee5d39ecbf36c7cf8873f",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "6小时模型迭代的背后故事：华为云ModelArts+HiLens在空管领域怎么用？",
-        "link": "https://www.ershicimi.com/p/67d671ea162c4919960fe21e4420c069",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "银行数字化转型战略分析、关键技术及未来架构趋势｜ Q推荐",
-        "link": "https://www.ershicimi.com/p/802bf63457142808d6ff8713b43a0f97",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "探索 ReFinTech 2021｜金融行业数字化转型，技术创新边界在哪里？",
-        "link": "https://www.ershicimi.com/p/0ff68d93805859486200657b9f29f2aa",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "Postman公司微服务最新实践",
-        "link": "https://www.ershicimi.com/p/ea02c363af284adb3c34aad5af6c1670",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "2020年十个最好用的大数据分析工具",
-        "link": "https://www.ershicimi.com/p/62c148c5250770b0685b28ec2b8baa92",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "测试一年多，上线就崩溃！技术供应商纳斯达克酿出严重软件事故",
-        "link": "https://www.ershicimi.com/p/149e9d6fcc3ed8c9884f9796d2fd991f",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "不写代码搞定微服务架构改造，我信了你的邪",
-        "link": "https://www.ershicimi.com/p/38167bc23df36494ffc2ae5dd148bb35",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "5G 场景下创新创业难？华为云5G+X联创营官网上线为你助力",
-        "link": "https://www.ershicimi.com/p/d6fdc2f791d9d0709a51fb39fca4b2e1",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "技术是泛娱乐的基础推动力，看腾讯云怎么玩？｜ Q推荐",
-        "link": "https://www.ershicimi.com/p/833c097b9f1c3adc89c314df1e5ecba5",
-        "date": "2020-11-19"
       }
     ]
   },
@@ -18610,6 +18610,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "［ M1］ 16” MacBook Pro 爆料",
+        "link": "https://www.v2ex.com/t/728922",
+        "date": "2020-11-24"
+      },
+      {
         "title": "[ FinTech 社区] 招聘 | 量化投资经理",
         "link": "https://www.v2ex.com/t/728921",
         "date": "2020-11-24"
@@ -18782,11 +18787,6 @@
       {
         "title": "MacOS 11 连接 AirPods Pro 连上了，在 Mac 上都可以切播放模式了，还是外放",
         "link": "https://www.v2ex.com/t/728874",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "nodejs 纯后端开发市场行情怎样？",
-        "link": "https://www.v2ex.com/t/728872",
         "date": "2020-11-24"
       }
     ]
@@ -19004,16 +19004,6 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
-        "date": "2020-11-24"
-      },
-      {
         "title": "[推荐] 程序员如何管理你的上级领导？",
         "link": "https://toutiao.io/k/s5w119y",
         "date": "2020-11-24"
@@ -19024,33 +19014,18 @@
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-24"
-      },
-      {
         "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
         "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-24"
       },
       {
@@ -19064,18 +19039,43 @@
         "date": "2020-11-24"
       },
       {
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-24"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
+        "date": "2020-11-24"
+      },
+      {
         "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
         "link": "https://toutiao.io/k/b2q9ajw",
         "date": "2020-11-24"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
         "date": "2020-11-24"
       }
     ]

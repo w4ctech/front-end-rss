@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 01:09:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 01:24:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -78,6 +78,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-11-24-x5webview-全屏播放视频前面几次会白屏，杀掉应用后，-webview-会显示-正在加载解码库，各种格式随便播，然后全屏播放就没问题了](https://www.v2ex.com/t/728560) 
 - [2020-11-23-国内如-b-站优酷都不像油管能自动连播推荐视频，这是什么原因导致的？政策还是技术](https://www.v2ex.com/t/728517) 
 - [2020-11-24-日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-23-又一起“Fappening”?数百名女性体育明星的裸照和视频在线泄露](https://sec.thief.one/article_content?a_id=0df176cf5fc9a9c9580290d5c0c942f0) 

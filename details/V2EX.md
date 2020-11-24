@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 23:32:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 23:48:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2020-11-24-求教，家宽掉数据的原因一般是啥？](https://www.v2ex.com/t/728880) 
 - [2020-11-24-请问各位，现在互联网公司-C/C++的招聘岗位多么，待遇怎么样，相比-Java-，-Python-有什么优势呢？](https://www.v2ex.com/t/728879) 
 - [2020-11-24-修正带图LG-ultrafine-4K-屏幕算是阴阳屏吗](https://www.v2ex.com/t/728878) 
-- [2020-11-24-jetbrains-产品中两个提升生产力的插件](https://www.v2ex.com/t/728876) 

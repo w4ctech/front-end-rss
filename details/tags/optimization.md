@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 23:32:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 23:48:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2020-11-11-2020-年最新-24-条前端性能优化军规](https://www.ershicimi.com/p/0c714955eb6ee1eb466645ad988c5cb0) 
 - [2020-11-21-Chrome-87-新特性解读，多年来-Chrome-性能最大提升！](https://www.ershicimi.com/p/5905812856c8a083c03fd9b6deae02d9) 
 - [2020-11-17-图片懒加载从简单到复杂](https://www.ershicimi.com/p/859eb7bdb58f8fe59dcfe4d956629aba) 
@@ -29,5 +28,4 @@
 - [2020-11-24-将位图加载到-GPU-的内存很慢？](https://www.v2ex.com/t/728917) 
 - [2020-11-24-快手基于-Apache-Flink-的优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13984&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778575%3Futm_content%3Dg_1000208999%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-24-几种性能测试工具的总结-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13982&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-11-24-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) 
 - [2020-11-24-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) 

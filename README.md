@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 23:32:36，:rocket: 更新条数: +3783， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 23:48:02，:rocket: 更新条数: +928， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-11-24-江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html) ![](assets/new.png)  
-- [2020-11-24-香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html) ![](assets/new.png)  
-- [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
-- [2020-11-24-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
-- [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
-- [2020-11-23-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
-- [2020-11-23-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
-- [2020-11-23-大流行手记|11月22日：沙特拨5亿美元研发疫苗-爱尔兰拟扑杀境内养殖貂](https://m.caixin.com/m/2020-11-23/101631291.html) ![](assets/new.png)  
-- [2020-11-22-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) ![](assets/new.png)  
-- [2020-11-22-香港单日新增68宗病例-港府拟向确诊者发5000港元津贴](https://m.caixin.com/m/2020-11-22/101631215.html) ![](assets/new.png)  
-- [2020-11-22-【境内疫情观察】内蒙古新增2例本土确诊病例（11月21日）](http://m.database.caixin.com/m/2020-11-22/101631172.html) ![](assets/new.png)  
-- [2020-11-22-大流行手记|11月21日：英国12月起接种新冠疫苗-牛津称抗体可维持6个月](https://m.caixin.com/m/2020-11-22/101631140.html) ![](assets/new.png)  
-- [2020-11-22-财新记者直击上海浦东医院换防转移医护人员](http://m.photos.caixin.com/m/2020-11-22/101631220.html) ![](assets/new.png)  
-- [2020-11-21-内蒙古满洲里新增2例新冠本土确诊病例-火车客车停运（更新）](https://m.caixin.com/m/2020-11-21/101631090.html) ![](assets/new.png)  
-- [2020-11-21-香港疫情大反弹-单日新增43宗创3个月新高](http://m.china.caixin.com/m/2020-11-21/101631096.html) ![](assets/new.png)  
-- [2020-11-21-【境内疫情观察】上海新增2例本土确诊病例（11月20日）](http://m.database.caixin.com/m/2020-11-21/101631024.html) ![](assets/new.png)  
-- [2020-11-21-大流行手记|11月20日：WHO不建议用瑞德西韦治疗新冠-首批中国疫苗运抵巴西](https://m.caixin.com/m/2020-11-21/101630933.html) ![](assets/new.png)  
-- [2020-11-20-最新海外疫情：新冠感染超5680万-累计死亡超135万](https://m.caixin.com/m/2020-11-20/101630760.html) ![](assets/new.png)  
-- [2020-11-20-上海新冠本土病例增至3例-已完成1.5万人核酸筛查](http://m.china.caixin.com/m/2020-11-20/101630913.html) ![](assets/new.png)  
-- [2020-11-20-本地病例单日激增21宗-香港或已进入第四波疫情](https://m.caixin.com/m/2020-11-20/101630824.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -96,11 +76,11 @@
 </summary>
 
 
+- [2020-11-24-面对第二轮疫情,巴西里约热内卢将在今后一段时间进行大范围病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNv97erMrPBGsZQ9DwMoI201125&isfromapp=1) ![](assets/new.png)  
+- [2020-11-24-美国疾控中心官员：美国大多数新冠病毒传播由家庭聚会引起](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiukUWi4dtLS03MeZCiKJC201125&isfromapp=1) ![](assets/new.png)  
+- [2020-11-24-法国总统马克龙宣布应对新冠疫情新举措-将分阶段解除“限行令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioXe3HMZogwJQ03PZlN0S201125&isfromapp=1) ![](assets/new.png)  
+- [2020-11-24-巴西司法和公共安全部长确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikQMUhOM7pLKVNhNwzcNP201125&isfromapp=1) ![](assets/new.png)  
 - [2020-11-24-降级！-天津两区域调整为低风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwwuk27SItFGM1poCDezk201124&isfromapp=1) ![](assets/new.png)  
-- [2020-11-24-中方邀请WHO来华开展新冠病毒溯源合作-外交部：希望所有相关国家积极同WHO合作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7AJF0o3E0gKrBFZSis7N201124&isfromapp=1) ![](assets/new.png)  
-- [2020-11-24-陕西省11月23日新增2例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivW5UHH518F9tnkxHu0P7201124&isfromapp=1) ![](assets/new.png)  
-- [2020-11-23-世卫组织总干事：新冠疫苗试验进展带来更多希望](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW17MIBC9tEMvMflijMwy201124&isfromapp=1) ![](assets/new.png)  
-- [2020-11-23-经过治疗-乌克兰总统泽连斯新冠病毒检测复阴](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijdh3WMqa4WgNXLnXO3P0201123&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -954,10 +934,10 @@
 </summary>
 
 
+- [2020-11-24-jsliang-求职系列---24---浏览器系列汇总](https://juejin.im/post/6898815786245652493) ![](assets/new.png)  
 - [2020-11-24-Vue3的Ref提案到底发生肾摸事了](https://juejin.im/post/6898786367883444232) ![](assets/new.png)  
 - [2020-11-24-如何将HTML表格转换成精美的PDF，几种方案比较](https://juejin.im/post/6898714694941409293) ![](assets/new.png)  
 - [2020-11-24-搞懂变量提升、this、作用域链、闭包以及GO,VO,AO原理](https://juejin.im/post/6898620971729911821) ![](assets/new.png)  
-- [2020-11-23-译Node.js:-快捷的async函数会如何阻塞事件循环，使I/O饥饿？](https://juejin.im/post/6898581784150654984) ![](assets/new.png)  
 - [2020-11-18-深入了解-Vue3-模板编译原理](https://juejin.im/post/6896641710538326030) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 

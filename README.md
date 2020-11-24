@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-24 10:08:47，:rocket: 更新条数: +3697， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-24 10:26:46，:rocket: 更新条数: +930， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
-- [Vue社区](#vue社区)  
+- [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)![](assets/dot.png)   
@@ -46,16 +46,16 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
-- [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [编程之上](#编程之上)![](assets/dot.png)   
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
-- [物联网智库](#物联网智库)  
+- [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
-- [2020-11-24-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
-- [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
-- [2020-11-23-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
-- [2020-11-23-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
-- [2020-11-23-大流行手记|11月22日：沙特拨5亿美元研发疫苗-爱尔兰拟扑杀境内养殖貂](https://m.caixin.com/m/2020-11-23/101631291.html) ![](assets/new.png)  
-- [2020-11-22-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) ![](assets/new.png)  
-- [2020-11-22-香港单日新增68宗病例-港府拟向确诊者发5000港元津贴](https://m.caixin.com/m/2020-11-22/101631215.html) ![](assets/new.png)  
-- [2020-11-22-【境内疫情观察】内蒙古新增2例本土确诊病例（11月21日）](http://m.database.caixin.com/m/2020-11-22/101631172.html) ![](assets/new.png)  
-- [2020-11-22-大流行手记|11月21日：英国12月起接种新冠疫苗-牛津称抗体可维持6个月](https://m.caixin.com/m/2020-11-22/101631140.html) ![](assets/new.png)  
-- [2020-11-22-财新记者直击上海浦东医院换防转移医护人员](http://m.photos.caixin.com/m/2020-11-22/101631220.html) ![](assets/new.png)  
-- [2020-11-21-内蒙古满洲里新增2例新冠本土确诊病例-火车客车停运（更新）](https://m.caixin.com/m/2020-11-21/101631090.html) ![](assets/new.png)  
-- [2020-11-21-香港疫情大反弹-单日新增43宗创3个月新高](http://m.china.caixin.com/m/2020-11-21/101631096.html) ![](assets/new.png)  
-- [2020-11-21-【境内疫情观察】上海新增2例本土确诊病例（11月20日）](http://m.database.caixin.com/m/2020-11-21/101631024.html) ![](assets/new.png)  
-- [2020-11-21-大流行手记|11月20日：WHO不建议用瑞德西韦治疗新冠-首批中国疫苗运抵巴西](https://m.caixin.com/m/2020-11-21/101630933.html) ![](assets/new.png)  
-- [2020-11-20-最新海外疫情：新冠感染超5680万-累计死亡超135万](https://m.caixin.com/m/2020-11-20/101630760.html) ![](assets/new.png)  
-- [2020-11-20-上海新冠本土病例增至3例-已完成1.5万人核酸筛查](http://m.china.caixin.com/m/2020-11-20/101630913.html) ![](assets/new.png)  
-- [2020-11-20-本地病例单日激增21宗-香港或已进入第四波疫情](https://m.caixin.com/m/2020-11-20/101630824.html) ![](assets/new.png)  
-- [2020-11-20-天津新增4例新冠本土确诊病例-所住小区升为高风险地区](https://m.caixin.com/m/2020-11-20/101630539.html) ![](assets/new.png)  
-- [2020-11-20-天津新增4例本土确诊病例-为此前通报的4名核酸检测阳性者](https://m.caixin.com/m/2020-11-20/101630319.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -112,6 +92,26 @@
 </summary>
 
 
+- [2020-11-20-Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://www.ershicimi.com/p/81af055f62c0fe98da6886323c875523) ![](assets/new.png)  
+- [2020-11-19-来一起用Vue3.0开发组件造轮子！](https://www.ershicimi.com/p/c6ca66cc1f8f2d4dbbb94b86f9b027ba) ![](assets/new.png)  
+- [2020-11-17-Vue之父尤雨溪深度解读Vue3.0开发思路【附在线视频】](https://www.ershicimi.com/p/43a4ccee3324619d7497fd3f8333b2f2) ![](assets/new.png)  
+- [2020-11-16-一个无名前端的10年前端路](https://www.ershicimi.com/p/10a56fc96276e001ab49da15daabdd6e) ![](assets/new.png)  
+- [2020-11-13-微前端究竟是什么，可以带来什么收益](https://www.ershicimi.com/p/11879ec4f4abbd85609414ea254ceecf) ![](assets/new.png)  
+- [2020-11-12-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/64917fc27b96029bee93e12a9cd6daa6) ![](assets/new.png)  
+- [2020-11-11-2020-年最新-24-条前端性能优化军规](https://www.ershicimi.com/p/0c714955eb6ee1eb466645ad988c5cb0) ![](assets/new.png)  
+- [2020-11-10-前端转AI必看!-2020最新版《神经网络与深度学习》中文版更新完毕，PDF免费下载！](https://www.ershicimi.com/p/4c797d0afdaedc72845833c1b1b04bf8) ![](assets/new.png)  
+- [2020-11-09-10月份Github上最热门的开源项目](https://www.ershicimi.com/p/ef8c00e4fe63770014af6c34ea690ea3) ![](assets/new.png)  
+- [2020-11-05-基于-Vue-实现一个有点意思的拼拼乐小游戏](https://www.ershicimi.com/p/fe826b207e6073432a4f8598f07208ba) ![](assets/new.png)  
+- [2020-11-04-Web-Component-会是前端未来吗？](https://www.ershicimi.com/p/631062c7999138e04ace05de7b9e56ed) ![](assets/new.png)  
+- [2020-11-03-一文让你30分钟快速掌握-Vue3](https://www.ershicimi.com/p/f4f329b308f595619bb4f68399793ff3) ![](assets/new.png)  
+- [2020-11-02-干前端两年薪资-11.5k，-我决定辞职了，对吗？](https://www.ershicimi.com/p/0336aa4909dee0da9affba91c1fc8894) ![](assets/new.png)  
+- [2020-10-29-面试官：聊聊对-Vue.js-框架的理解](https://www.ershicimi.com/p/5e3c30ae3000561541f36ac8d56835ad) ![](assets/new.png)  
+- [2020-10-28-这里有打破20-30K薪资瓶颈的方法，前端小伙伴进](https://www.ershicimi.com/p/ffd16f5a09a336557e865bed981a920f) ![](assets/new.png)  
+- [2020-10-26-成为最差前端开发的10个建议](https://www.ershicimi.com/p/51f699e2ee78ed945ab68e97da7fc2bf) ![](assets/new.png)  
+- [2020-10-24-【1024·程序员节】致敬所有程序员](https://www.ershicimi.com/p/54222913effe5a11885bef0c05cbc5e9) ![](assets/new.png)  
+- [2020-10-21-有必要会读React源码吗?](https://www.ershicimi.com/p/f4794e0c8f48026d566a0c2a4b72da22) ![](assets/new.png)  
+- [2020-10-15-一个阿里前端专家（妹子）的长成之路](https://www.ershicimi.com/p/d40a21e3d68de798db8dcd3029045175) ![](assets/new.png)  
+- [2020-10-13-研究-Vue-源码时发现的一些好玩函数](https://www.ershicimi.com/p/b80bf06dbd27bf83f0eeacf7187018fc) ![](assets/new.png)  
 - [......【查看更多】......](./details/Vue社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -934,6 +934,11 @@
 </summary>
 
 
+- [2020-11-24-搞懂变量提升、this、作用域链、闭包以及GO,VO,AO原理](https://juejin.im/post/6898620971729911821) ![](assets/new.png)  
+- [2020-11-23-fucking-event-loop](https://juejin.im/post/6898591809413316621) ![](assets/new.png)  
+- [2020-11-23-前端如何做出好产品](https://juejin.im/post/6898591411495501838) ![](assets/new.png)  
+- [2020-11-23-JS入门笔记](https://juejin.im/post/6898585563558281224) ![](assets/new.png)  
+- [2020-11-23-译Node.js:-快捷的async函数会如何阻塞事件循环，使I/O饥饿？](https://juejin.im/post/6898581784150654984) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -987,6 +992,26 @@
 </summary>
 
 
+- [2020-04-15-第四期|前端的规划如何落地](https://www.ershicimi.com/p/4233bce2181a7f01d79d8f80ef35e244) ![](assets/new.png)  
+- [2020-04-13-我和前端早早聊的小故事](https://www.ershicimi.com/p/288c74cf24f39a4866f6b9626741452d) ![](assets/new.png)  
+- [2020-03-31-第三期-|-前端搞搭建一些思考](https://www.ershicimi.com/p/390c83d5208473b69e0d9125c49e95a9) ![](assets/new.png)  
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) ![](assets/new.png)  
+- [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) ![](assets/new.png)  
+- [2020-03-11-4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4) ![](assets/new.png)  
+- [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) ![](assets/new.png)  
+- [2020-03-01-前端如何搞基建](https://www.ershicimi.com/p/fc1af1d9cfaca3f5d7cb41470add1ace) ![](assets/new.png)  
+- [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) ![](assets/new.png)  
+- [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) ![](assets/new.png)  
+- [2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) ![](assets/new.png)  
+- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) ![](assets/new.png)  
+- [2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) ![](assets/new.png)  
+- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) ![](assets/new.png)  
+- [2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) ![](assets/new.png)  
+- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) ![](assets/new.png)  
+- [2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) ![](assets/new.png)  
+- [2019-10-14-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) ![](assets/new.png)  
+- [2019-10-13-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) ![](assets/new.png)  
+- [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) ![](assets/new.png)  
 - [......【查看更多】......](./details/编程之上.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -998,6 +1023,26 @@
 </summary>
 
 
+- [2020-11-23-知乎好问题：优秀的孩子早年接受的教育都有什么共同点？](https://www.ershicimi.com/p/0f4af43a02d528d74a1f8193d23b2e6b) ![](assets/new.png)  
+- [2020-11-23-在《王者荣耀》中你明白了哪些知识后，段位开始直线上升？](https://www.ershicimi.com/p/c3a81024678b20a0c2655fcc90898d16) ![](assets/new.png)  
+- [2020-11-23-知乎故事-|-情侣间需要天天聊天吗？](https://www.ershicimi.com/p/419f60b7ff332cd40055ffe0851bcfbe) ![](assets/new.png)  
+- [2020-11-22-本周知乎热榜-|-微信上线新表情了，华为出售荣耀了，康巴汉子「丁真」火了](https://www.ershicimi.com/p/9aacf6312f0feed60bb2ff0580695cb6) ![](assets/new.png)  
+- [2020-11-22-知乎故事-|-走入社会后第一次嚎啕大哭](https://www.ershicimi.com/p/d7fd5f098dd54fba924b9122a232d477) ![](assets/new.png)  
+- [2020-11-22-2020，我删除无数个公众号，只留下了这-9-个](https://www.ershicimi.com/p/dc9c9f8bf3af62a0b763a15ef764dd79) ![](assets/new.png)  
+- [2020-11-20-知乎神吐槽-|-为什么男生不要轻易对女生说晚安？](https://www.ershicimi.com/p/9cc2743d5b9c15f87c277946c47b298f) ![](assets/new.png)  
+- [2020-11-20-知乎故事-|-拉到干净是种什么样的体验？](https://www.ershicimi.com/p/9aa6d2eb4388e0cc7484cbc59b41eaca) ![](assets/new.png)  
+- [2020-11-20-董卿：如果你没空看书，请一定要逼自己做这件事](https://www.ershicimi.com/p/168f716e43fa265009ba8899bf83bc1b) ![](assets/new.png)  
+- [2020-11-19-为什么很多男生在相亲时，听到女生「喜欢旅行」「爱好旅游」会很抵触？](https://www.ershicimi.com/p/97dd79d189ce95da9de1bfc313d19bed) ![](assets/new.png)  
+- [2020-11-19-为什么电梯扶手总是比踏板快？](https://www.ershicimi.com/p/21c43864639e2aad24c963d305a74349) ![](assets/new.png)  
+- [2020-11-19-知乎故事-|-我被狗狗爱了一辈子，却辜负了它们半辈子](https://www.ershicimi.com/p/c82a5a83ea8bd28e9a96cd3902c588c2) ![](assets/new.png)  
+- [2020-11-18-知乎高赞：知道哪些知识后，你的世界马上就不一样了？](https://www.ershicimi.com/p/b7a766d2d642c089d3fc87d127eecdd3) ![](assets/new.png)  
+- [2020-11-18-下班后两小时做哪些事情，能让人生有巨大改变？](https://www.ershicimi.com/p/44c59ba53e4de20ff12ed2a670b5b401) ![](assets/new.png)  
+- [2020-11-18-知乎故事-|-我哥哥也是「丁真」](https://www.ershicimi.com/p/9720dafa4727febc031d4421d2e55042) ![](assets/new.png)  
+- [2020-11-17-一到冬天就手脚冰凉？因为你身体里的「棕色脂肪」太少](https://www.ershicimi.com/p/f1e76cc44f10c1aa76f8f15f558abbd1) ![](assets/new.png)  
+- [2020-11-17-如何在家自己给猫洗澡？](https://www.ershicimi.com/p/e97353930e139ba1b5e47605abd0fd02) ![](assets/new.png)  
+- [2020-11-17-知乎故事-|-北京出租车司机](https://www.ershicimi.com/p/64395a0f1f811cd6c519f8a0f58e297b) ![](assets/new.png)  
+- [2020-11-16-11-个给恋爱中男孩子的忠告](https://www.ershicimi.com/p/45f77c524434ad777bfc6a2b03ffaae8) ![](assets/new.png)  
+- [2020-11-16-21-种偷偷加了很多油的零食！薯片才排第六，第一居然是……](https://www.ershicimi.com/p/1d27f9f1786e524085b284961e14877f) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1009,6 +1054,9 @@
 </summary>
 
 
+- [2020-11-24-<奇思妙想>能不能基于阿里云盘做一个类似-OneIndex-的公共访问站点](https://www.v2ex.com/t/728817) ![](assets/new.png)  
+- [2020-11-24-PC-微信都支持小程序了,啥时候支持朋友圈查看啊!摸鱼不好拿手机](https://www.v2ex.com/t/728816) ![](assets/new.png)  
+- [2020-11-24-写了一个简单的-webhook-server](https://www.v2ex.com/t/728815) ![](assets/new.png)  
 - [2020-11-24-关于-iPhone-无线充电的疑问](https://www.v2ex.com/t/728813) ![](assets/new.png)  
 - [2020-11-24-请问搭载-M1-芯片的新款-MacBook-Air-如何关闭键盘背光灯？](https://www.v2ex.com/t/728812) ![](assets/new.png)  
 - [2020-11-24-电信-电脑/平板都可以使用无线；-iPhone-无法使用无线](https://www.v2ex.com/t/728810) ![](assets/new.png)  
@@ -1026,9 +1074,6 @@
 - [2020-11-24-长沙芒果-TV-招聘-Web-前端开发](https://www.v2ex.com/t/728796) ![](assets/new.png)  
 - [2020-11-24-美团支付-清核算-早十晚九-不强制-，团队氛围好](https://www.v2ex.com/t/728795) ![](assets/new.png)  
 - [2020-11-24-在试用飞书，发现找不到自带的邮箱入口？](https://www.v2ex.com/t/728793) ![](assets/new.png)  
-- [2020-11-24-求助:关于在-pyqt5-中使用-pyqtgraph-模块绘制动态波形图电脑内存不断增加的问题](https://www.v2ex.com/t/728792) ![](assets/new.png)  
-- [2020-11-24-一个网络安全方面的问题，-NAT-映射有没有可能被劫持？](https://www.v2ex.com/t/728791) ![](assets/new.png)  
-- [2020-11-24-M1-MacBook-Air-要怎么外接只有-HDMI-接口的显示器，这个绿联转接头为啥不行？](https://www.v2ex.com/t/728790) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1086,8 +1131,8 @@
 - [2020-11-24-M1-暴打-Intel？：x86-与-ARM-的爱恨情仇](https://toutiao.io/k/fejmlbb) ![](assets/new.png)  
 - [2020-11-24-来自未来的缓存-Caffeine，带你揭开它的神秘面纱](https://toutiao.io/k/rw16kcb) ![](assets/new.png)  
 - [2020-11-24-谈谈-ETL-中的数据质量](https://toutiao.io/k/xms0aoe) ![](assets/new.png)  
-- [2020-11-24-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
 - [2020-11-24-如何将-HTML-表格转换成精美的-PDF](https://toutiao.io/k/o6t77kv) ![](assets/new.png)  
+- [2020-11-24-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
 - [2020-11-24-FFM-理论与实践](https://toutiao.io/k/9n0a0xt) ![](assets/new.png)  
 - [2020-11-24-企业安全建设壮大阶段经验浅谈之风险收敛](https://toutiao.io/k/klpoprw) ![](assets/new.png)  
 - [2020-11-24-SUPER-车道线检测：异构数据集训练、物理驱动拟合](https://toutiao.io/k/1jwc33z) ![](assets/new.png)  
@@ -1113,6 +1158,26 @@
 </summary>
 
 
+- [2020-11-21-历史性时刻！物联网连接规模首次超过非物联网，移动物联网连接中国“一骑绝尘”](https://www.ershicimi.com/p/9fc60d243af4089dfc43d4d8937c5abf) ![](assets/new.png)  
+- [2020-11-21-【案例征集】践行“落地与融合”，2021年中国AIoT产业全景图谱报告优秀案例征集正式启动](https://www.ershicimi.com/p/1ecd397d5bb643629ed5fc50bac59e1d) ![](assets/new.png)  
+- [2020-11-20-​AI你到底行不行？能找到秃头元凶，却光头&足球傻傻分不清](https://www.ershicimi.com/p/b3f76dac95d321e378791f37bf4c5bc6) ![](assets/new.png)  
+- [2020-11-20-加速行业智能升级，华为云IoT的底气是什么？](https://www.ershicimi.com/p/c283b4ec540d2008344f8d8f81d318c9) ![](assets/new.png)  
+- [2020-11-20-《5G确定性网络+工业互联网融合白皮书》正式发布](https://www.ershicimi.com/p/bd002440ed0ee3befdf2619c9578d63f) ![](assets/new.png)  
+- [2020-11-19-世界工业互联网平台“群雄逐鹿”，看中国方案如何“一决高下”？](https://www.ershicimi.com/p/f2dc1f9da4dbab2c9c8200b8abdf3696) ![](assets/new.png)  
+- [2020-11-19-为什么说5G成功商用在终端，终端普及在模组？](https://www.ershicimi.com/p/da56c46f1cb5ef77c7d6ae6ce88a203f) ![](assets/new.png)  
+- [2020-11-19-5G的频谱效率，到底有多高？](https://www.ershicimi.com/p/6d9b7dc87d49ae087006f02550ecc7c3) ![](assets/new.png)  
+- [2020-11-18-荣耀现在被迫剥离，或许是为了华为未来10年物联网更“牛逼”](https://www.ershicimi.com/p/654e027f8d6992d422763f7b0c10bab5) ![](assets/new.png)  
+- [2020-11-18-研华以6.26亿美元品牌价值-荣获台湾国际品牌第四名](https://www.ershicimi.com/p/18d2904a6f76a0d4f20b52a58e78584b) ![](assets/new.png)  
+- [2020-11-18-中国本土“灯塔工厂”已有8家，领路人为什么是海尔？](https://www.ershicimi.com/p/74951a6b6d7ea417b9904bd38c6c41ff) ![](assets/new.png)  
+- [2020-11-18-5G-toB：下一场运营商与OTT之争？](https://www.ershicimi.com/p/e4ebe05e1d3c5828be6321bb2eb6ab98) ![](assets/new.png)  
+- [2020-11-17-还能让智能制造来得再快一点吗？](https://www.ershicimi.com/p/666fcb3a36a637fcba9eee3e975d6d8e) ![](assets/new.png)  
+- [2020-11-17-华为回应出售荣耀：这是一场产业链自救](https://www.ershicimi.com/p/da27e802e836e4f913ac791008809be8) ![](assets/new.png)  
+- [2020-11-17-5-nm-不够用三星将顶上？外媒分析：苹果不会放弃台积电](https://www.ershicimi.com/p/214126b1c7199fb65c3b1cc5469ca14b) ![](assets/new.png)  
+- [2020-11-16-重磅！余承东总负责，华为汽车业务或与消费者业务整合，汽车将助华为剑指未来？](https://www.ershicimi.com/p/02994daa5bb361ff71e9355c2bd98b7e) ![](assets/new.png)  
+- [2020-11-16-边缘计算4.0正急速驶来，你做好准备了吗？](https://www.ershicimi.com/p/b88eabaa78f6a9ac6b080da54fb7e059) ![](assets/new.png)  
+- [2020-11-16-议程抢先看！-预见2025：嵌入式物联产业新未来](https://www.ershicimi.com/p/04556d23613d9f4b1161372de4a50029) ![](assets/new.png)  
+- [2020-11-16-贝尔实验室的百年沉浮](https://www.ershicimi.com/p/d37e019e5716ffdb2c03d0637332214e) ![](assets/new.png)  
+- [2020-11-15-第一批拿到了5G入场券的先行者，他们的所痛、所思、所悟【物女心经】](https://www.ershicimi.com/p/8ffc12ce9eb902ef59787210e9f14c32) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

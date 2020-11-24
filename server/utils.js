@@ -37,7 +37,7 @@ module.exports = {
    * 格式化标题
    */
   formatTitle: function(title, isRsshub){
-    // https://rss.shab.fun
+    // https://front-rss.herokuapp.com
     if(isRsshub){
       let matches = title.match(/“(.*)”/)
 

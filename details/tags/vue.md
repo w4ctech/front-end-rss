@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 06:49:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 07:04:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -71,8 +71,7 @@
 - [2020-11-02-面试的时候，只会vue能行么？](https://www.ershicimi.com/p/de8096ff1d6ac01c6ff82a1f19aa0ff1) 
 - [2020-10-27-除了-Vue，你还需要掌握前端工程化](https://www.ershicimi.com/p/36eb7320bbf8c7ba64ed5bf829f1dd49) 
 - [2020-10-26-一次就将-Vue-SSR-讲通透！](https://www.ershicimi.com/p/0c14f006da92ea1a47dd6e15bd4b0418) 
-- [2020-11-23-vue知识点归纳与总结笔记](https://juejin.im/post/6898523017236709383) 
-- [2020-11-23-深入理解Vue的插件机制与install](https://juejin.im/post/6898521659335147534) 
+- [2020-11-23-如何开发一个Vue脚手架](https://juejin.im/post/6898575518804017160) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
 - [2020-11-24-Vue3-目前有已经在生产环境用的吗](https://www.v2ex.com/t/728692) 

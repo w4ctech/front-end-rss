@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 01:24:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 01:35:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -17,7 +17,4 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
-- [2020-11-23-今天处理了一个奇葩的-IE-性能问题，可能我以前低估了-IE-的性能多差](https://www.v2ex.com/t/728516) 
 - [2020-11-24-几种性能测试工具的总结-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13982&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-11-24-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) 
-- [2020-11-24-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) 

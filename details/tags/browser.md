@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-24 01:24:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 01:35:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,6 +31,7 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-24-mac-升级-big-sur-后更新-Proxifier-V3.1-For-mac-无法上网](https://www.v2ex.com/t/728569) 
 - [2020-11-24-吐槽一下-Edge-新的版本](https://www.v2ex.com/t/728561) 
 - [2020-11-23-Offer-选择（安全行业）](https://www.v2ex.com/t/728534) 
 - [2020-11-24-来自未来的缓存-Caffeine，带你揭开它的神秘面纱](https://toutiao.io/k/rw16kcb) 

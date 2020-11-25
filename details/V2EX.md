@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-25 12:10:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 12:32:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-25-关于-iStat-Menus-6-的设备绑定问题](https://www.v2ex.com/t/729242) 
+- [2020-11-25-M1-芯片的-Macbook-Air-16G-RAM-延期了……](https://www.v2ex.com/t/729241) 
 - [2020-11-25-大家的群晖是怎么实现外网穿透呢，避免-ISP-探测（zerotier？）](https://www.v2ex.com/t/729240) 
 - [2020-11-25-迟到的-2020-年盘溪冰糖橙来啦，采摘已经接近尾声了](https://www.v2ex.com/t/729239) 
 - [2020-11-25-iPhone-固件是不是下载不了了？](https://www.v2ex.com/t/729238) 
@@ -36,5 +38,3 @@
 - [2020-11-25-macos-Big-Sur-11.0.1-控制中心的音量控制进度条是用来调节左右声道平衡的？](https://www.v2ex.com/t/729195) 
 - [2020-11-25-thinkphp-报了一个很奇怪的错误](https://www.v2ex.com/t/729194) 
 - [2020-11-25-有可能在其他的-ARM-设备上黑苹果吗？](https://www.v2ex.com/t/729193) 
-- [2020-11-25-关于-vue3.0-ref,reactive-与-typescript-的问题？求大佬解答疑惑](https://www.v2ex.com/t/729192) 
-- [2020-11-25-也来求建议了](https://www.v2ex.com/t/729191) 

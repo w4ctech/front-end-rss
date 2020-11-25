@@ -3168,6 +3168,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "关于 iStat Menus 6 的设备绑定问题",
+        "link": "https://www.v2ex.com/t/729242",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "M1 芯片的 Macbook Air 16G RAM 延期了……",
+        "link": "https://www.v2ex.com/t/729241",
+        "date": "2020-11-25"
+      },
+      {
         "title": "大家的群晖是怎么实现外网穿透呢，避免 ISP 探测（zerotier？）",
         "link": "https://www.v2ex.com/t/729240",
         "date": "2020-11-25"
@@ -3320,16 +3330,6 @@
       {
         "title": "有可能在其他的 ARM 设备上黑苹果吗？",
         "link": "https://www.v2ex.com/t/729193",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "关于 vue3.0 ref,reactive 与 typescript 的问题？求大佬解答疑惑",
-        "link": "https://www.v2ex.com/t/729192",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "也来求建议了",
-        "link": "https://www.v2ex.com/t/729191",
         "date": "2020-11-25"
       }
     ]
@@ -3522,13 +3522,13 @@
         "date": "2020-11-25"
       },
       {
-        "title": "别小看 tail 命令，它难倒了技术总监",
-        "link": "https://toutiao.io/k/6vfrdwz",
+        "title": "Spring Boot 新特性：jar 大小自动瘦身",
+        "link": "https://toutiao.io/k/evuo4xf",
         "date": "2020-11-25"
       },
       {
-        "title": "Spring Boot 新特性：jar 大小自动瘦身",
-        "link": "https://toutiao.io/k/evuo4xf",
+        "title": "别小看 tail 命令，它难倒了技术总监",
+        "link": "https://toutiao.io/k/6vfrdwz",
         "date": "2020-11-25"
       },
       {
@@ -3547,38 +3547,18 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-25"
       },
       {
@@ -3592,13 +3572,38 @@
         "date": "2020-11-25"
       },
       {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-25"
+      },
+      {
         "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
         "link": "https://toutiao.io/k/leud24r",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
         "date": "2020-11-25"
       },
       {
@@ -3607,18 +3612,13 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-25"
       }
     ]

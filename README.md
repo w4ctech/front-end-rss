@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 12:10:18，:rocket: 更新条数: +791， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 12:32:47，:rocket: 更新条数: +791， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1034,6 +1034,8 @@
 </summary>
 
 
+- [2020-11-25-关于-iStat-Menus-6-的设备绑定问题](https://www.v2ex.com/t/729242) ![](assets/new.png)  
+- [2020-11-25-M1-芯片的-Macbook-Air-16G-RAM-延期了……](https://www.v2ex.com/t/729241) ![](assets/new.png)  
 - [2020-11-25-大家的群晖是怎么实现外网穿透呢，避免-ISP-探测（zerotier？）](https://www.v2ex.com/t/729240) ![](assets/new.png)  
 - [2020-11-25-迟到的-2020-年盘溪冰糖橙来啦，采摘已经接近尾声了](https://www.v2ex.com/t/729239) ![](assets/new.png)  
 - [2020-11-25-iPhone-固件是不是下载不了了？](https://www.v2ex.com/t/729238) ![](assets/new.png)  
@@ -1052,8 +1054,6 @@
 - [2020-11-25-iPad-妙控键盘有可能支持第三方键盘么？](https://www.v2ex.com/t/729217) ![](assets/new.png)  
 - [2020-11-25-北京-朝阳北苑望春园-105-平-正规两室两厅两卫-春节前后可以搬家-现找长租室友](https://www.v2ex.com/t/729215) ![](assets/new.png)  
 - [2020-11-25-2015-MBP-有办法单独升级-bootrom-吗](https://www.v2ex.com/t/729214) ![](assets/new.png)  
-- [2020-11-25-5G-时代下-WebGL-会火吗](https://www.v2ex.com/t/729213) ![](assets/new.png)  
-- [2020-11-25-送拼多多黑卡口令了](https://www.v2ex.com/t/729212) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1111,8 +1111,8 @@
 - [2020-11-25-Flutter-源码剖析（四）：flutter-run-流程解析](https://toutiao.io/k/bmtd9fz) ![](assets/new.png)  
 - [2020-11-25-如果程序员和产品经理都用凡尔赛文学对话](https://toutiao.io/k/q7zp922) ![](assets/new.png)  
 - [2020-11-25-几种性能测试工具的总结](https://toutiao.io/k/re3f27e) ![](assets/new.png)  
-- [2020-11-25-别小看-tail-命令，它难倒了技术总监](https://toutiao.io/k/6vfrdwz) ![](assets/new.png)  
 - [2020-11-25-Spring-Boot-新特性：jar-大小自动瘦身](https://toutiao.io/k/evuo4xf) ![](assets/new.png)  
+- [2020-11-25-别小看-tail-命令，它难倒了技术总监](https://toutiao.io/k/6vfrdwz) ![](assets/new.png)  
 - [2020-11-25-Russ-Cox-又有动态了：开源了一个-Go-工具](https://toutiao.io/k/73uwa73) ![](assets/new.png)  
 - [2020-11-25-绕不开的-M1-性能的讨论](https://toutiao.io/k/1f6cw51) ![](assets/new.png)  
 - [2020-11-25-关于-numa-loadbance-的死锁分析](https://toutiao.io/k/m5afp1t) ![](assets/new.png)  

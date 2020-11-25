@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 22:08:36，:rocket: 更新条数: +3893， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 22:26:58，:rocket: 更新条数: +3893， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-25-不知道是小组件还是捷径的-BUG](https://www.v2ex.com/t/729302) ![](assets/new.png)  
 - [2020-11-25-平面设计师的-M1-Mac-mini-8G+256体验吐槽](https://www.v2ex.com/t/729301) ![](assets/new.png)  
 - [2020-11-25-求助-关于-PHP-中-curl-模拟浏览器提交-POST-请求-帮忙解答送-CloudFlarePro-订阅](https://www.v2ex.com/t/729300) ![](assets/new.png)  
 - [2020-11-25-通话无法-Handoff？](https://www.v2ex.com/t/729299) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-11-25-为什么我可以在-Windows-下把-2k-显示器的显示分辨率调成-4k？](https://www.v2ex.com/t/729283) ![](assets/new.png)  
 - [2020-11-25-有没有-M1-的-Mac-蓝牙频繁断联的？](https://www.v2ex.com/t/729282) ![](assets/new.png)  
 - [2020-11-25-国外云服务器什么价格或者有什么推荐?-作为个人网站](https://www.v2ex.com/t/729281) ![](assets/new.png)  
-- [2020-11-25-亲测，-big-sur-的-Time-Machine-提升巨大！](https://www.v2ex.com/t/729280) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

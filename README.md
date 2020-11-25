@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 11:07:30，:rocket: 更新条数: +3887， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 11:22:53，:rocket: 更新条数: +1029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-11-25-最新疫情：全国新冠累计确诊86469例-境外输入新增5例](https://m.caixin.com/m/2020-11-25/101632339.html) ![](assets/new.png)  
-- [2020-11-25-天津两起疫情有不同源头-其中之一为进口猪头](https://m.caixin.com/m/2020-11-25/101632216.html) ![](assets/new.png)  
-- [2020-11-25-最新海外疫情：新冠感染超5966万-累计死亡超140万](https://m.caixin.com/m/2020-11-25/101632350.html) ![](assets/new.png)  
-- [2020-11-25-【境内疫情观察】内蒙古新增1例本土疑似病例（11月24日）](http://m.database.caixin.com/m/2020-11-25/101632194.html) ![](assets/new.png)  
-- [2020-11-25-大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html) ![](assets/new.png)  
-- [2020-11-24-江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html) ![](assets/new.png)  
-- [2020-11-24-香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html) ![](assets/new.png)  
-- [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
-- [2020-11-24-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
-- [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
-- [2020-11-23-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
-- [2020-11-23-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
-- [2020-11-23-大流行手记|11月22日：沙特拨5亿美元研发疫苗-爱尔兰拟扑杀境内养殖貂](https://m.caixin.com/m/2020-11-23/101631291.html) ![](assets/new.png)  
-- [2020-11-22-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) ![](assets/new.png)  
-- [2020-11-22-香港单日新增68宗病例-港府拟向确诊者发5000港元津贴](https://m.caixin.com/m/2020-11-22/101631215.html) ![](assets/new.png)  
-- [2020-11-22-【境内疫情观察】内蒙古新增2例本土确诊病例（11月21日）](http://m.database.caixin.com/m/2020-11-22/101631172.html) ![](assets/new.png)  
-- [2020-11-22-大流行手记|11月21日：英国12月起接种新冠疫苗-牛津称抗体可维持6个月](https://m.caixin.com/m/2020-11-22/101631140.html) ![](assets/new.png)  
-- [2020-11-22-财新记者直击上海浦东医院换防转移医护人员](http://m.photos.caixin.com/m/2020-11-22/101631220.html) ![](assets/new.png)  
-- [2020-11-21-内蒙古满洲里新增2例新冠本土确诊病例-火车客车停运（更新）](https://m.caixin.com/m/2020-11-21/101631090.html) ![](assets/new.png)  
-- [2020-11-21-香港疫情大反弹-单日新增43宗创3个月新高](http://m.china.caixin.com/m/2020-11-21/101631096.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1054,10 @@
 </summary>
 
 
+- [2020-11-25-ansible--m-setup-获取不到-docker-的-ip](https://www.v2ex.com/t/729228) ![](assets/new.png)  
+- [2020-11-25-githubmemory-上线啦，基于-GitHub-深度开发，比-github-更好用、更详细的数据](https://www.v2ex.com/t/729227) ![](assets/new.png)  
+- [2020-11-25-阿里云国际的印度员工半夜三更给我打电话，请问要不要回复他的电子邮件？](https://www.v2ex.com/t/729226) ![](assets/new.png)  
+- [2020-11-25-青春期会影响我的情绪吗？](https://www.v2ex.com/t/729225) ![](assets/new.png)  
 - [2020-11-25-寻推荐系统兼职工程师，帮我们的初创产品搭建一个推荐系统。](https://www.v2ex.com/t/729223) ![](assets/new.png)  
 - [2020-11-25-笔记本电脑键盘上不小心泼了一杯咖啡，刚开始还能正常使用，过了一会屏幕不亮甚至没法正常开机了，但是现在又好了，如何确定这个本本是否真的没问题？](https://www.v2ex.com/t/729221) ![](assets/new.png)  
 - [2020-11-25-githubmemory-上线啦，比-GitHub-更好用的网站](https://www.v2ex.com/t/729220) ![](assets/new.png)  
@@ -1090,10 +1074,6 @@
 - [2020-11-25-Python-数据类型之字典-dict](https://www.v2ex.com/t/729205) ![](assets/new.png)  
 - [2020-11-25-githubmemory-上线啦，基于-GitHub-更详细的数据](https://www.v2ex.com/t/729204) ![](assets/new.png)  
 - [2020-11-25-非推广-我又来问排座的问题了，困扰我好久了，求大神解答！](https://www.v2ex.com/t/729203) ![](assets/new.png)  
-- [2020-11-25-分享一个-Python-命令行下列表选择](https://www.v2ex.com/t/729199) ![](assets/new.png)  
-- [2020-11-25-有老哥在项目里用-Gorm2-了吗？来谈谈感受吧](https://www.v2ex.com/t/729198) ![](assets/new.png)  
-- [2020-11-25-问一个-entgo-批量更新字段的问题](https://www.v2ex.com/t/729197) ![](assets/new.png)  
-- [2020-11-25-举报用户-301jump](https://www.v2ex.com/t/729196) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

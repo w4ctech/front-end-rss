@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 10:08:13，:rocket: 更新条数: +3890， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 10:25:50，:rocket: 更新条数: +3888， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-11-25-内蒙古额尔古纳一住院陪护人员24日核酸阳性-复核排除阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJbEh5siGdqd7pe5nrC26201125&isfromapp=1) ![](assets/new.png)  
+- [2020-11-25-德国单日死亡病例数为疫情暴发以来最高-南部首现医院负荷濒临极限](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5BlhzFzQ96CQkHhCbTF6201125&isfromapp=1) ![](assets/new.png)  
+- [2020-11-25-美国纽约州住院病例数三周激增128%-州长敦促民众假期勿出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikgXdjx1qeec6ATMHzv49201125&isfromapp=1) ![](assets/new.png)  
+- [2020-11-25-陕西西安一男子疫情期间销售“三无”口罩-获刑五年半并支付三倍赔偿金](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSaBXSnMxQL9Aesx68B8201125&isfromapp=1) ![](assets/new.png)  
 - [2020-11-25-美国马里兰州州长：人们没有权利在疫情期间不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8fjRIwLpb8lBAgtOTAf2201125&isfromapp=1) ![](assets/new.png)  
-- [2020-11-25-内蒙古满洲里市新增本土疑似病例1例、无症状感染者2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiklk0ALgaeUKmoINegA2I201125&isfromapp=1) ![](assets/new.png)  
-- [2020-11-25-韩国疫情加速反弹-中国驻韩国使领馆提醒在韩中国公民加强防护](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8p0YEH2uOqWwtXTOG8FA201125&isfromapp=1) ![](assets/new.png)  
-- [2020-11-25-巴西新冠肺炎确诊病例达611万例-专家表示巴西已迎来第二波疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIesRCWg5yvjSOw59q13Y201125&isfromapp=1) ![](assets/new.png)  
-- [2020-11-25-国家卫健委：24日新增确诊病例5例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigOL1gxFieqUI4I0vkO0W201125&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,10 @@
 </summary>
 
 
+- [2020-11-25-打游戏突然掉线怎么排查故障点？](https://www.v2ex.com/t/729209) ![](assets/new.png)  
+- [2020-11-25-Python-数据类型之字典-dict](https://www.v2ex.com/t/729205) ![](assets/new.png)  
+- [2020-11-25-githubmemory-上线啦，基于-GitHub-更详细的数据](https://www.v2ex.com/t/729204) ![](assets/new.png)  
+- [2020-11-25-非推广-我又来问排座的问题了，困扰我好久了，求大神解答！](https://www.v2ex.com/t/729203) ![](assets/new.png)  
 - [2020-11-25-分享一个-Python-命令行下列表选择](https://www.v2ex.com/t/729199) ![](assets/new.png)  
 - [2020-11-25-有老哥在项目里用-Gorm2-了吗？来谈谈感受吧](https://www.v2ex.com/t/729198) ![](assets/new.png)  
 - [2020-11-25-问一个-entgo-批量更新字段的问题](https://www.v2ex.com/t/729197) ![](assets/new.png)  
@@ -1090,10 +1094,6 @@
 - [2020-11-25-我发现现在发微信朋友圈的人越来越少了，是我的朋友圈的原因还是大家情况都差不多？](https://www.v2ex.com/t/729185) ![](assets/new.png)  
 - [2020-11-25-一起听歌吧微信小程序，更方便的与好友同步在线听歌](https://www.v2ex.com/t/729184) ![](assets/new.png)  
 - [2020-11-25-深圳-DJI-大疆创新---诚招高级前端开发工程师](https://www.v2ex.com/t/729181) ![](assets/new.png)  
-- [2020-11-25-Amazon-面试官“偷看”面经，为了出新题也是拼！](https://www.v2ex.com/t/729180) ![](assets/new.png)  
-- [2020-11-25-MySQL-使用了-sharding-做了分表，该怎么迁移到-ES-中，-ES-怎么保证查询的时候数据隔离。](https://www.v2ex.com/t/729179) ![](assets/new.png)  
-- [2020-11-25-1500-一下想买个安卓备机买哪个比较好？](https://www.v2ex.com/t/729177) ![](assets/new.png)  
-- [2020-11-25-各位大佬，关于网站源码部署到服务器后后台无法登陆和前台版面错乱的问题。](https://www.v2ex.com/t/729176) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

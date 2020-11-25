@@ -1,11 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-25 05:07:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 05:23:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2020-11-25-Apple-Music（香港）家庭订阅众筹企划](https://www.v2ex.com/t/729074) 
+- [2020-11-25-LCD-老化方面的问题](https://www.v2ex.com/t/729080) 
+- [2020-11-25-没个-1T-存储的手机都不好意思用淘宝了](https://www.v2ex.com/t/729079) 
+- [2020-11-25-Parallels-Desktop-16-黑五限时-8-折优惠！](https://www.v2ex.com/t/729078) 
+- [2020-11-25-原生支持-ARM-以后，-Mac-App-Store-的-Electron-应用大小得翻倍了](https://www.v2ex.com/t/729077) 
+- [2020-11-25-关于安卓开发环境搭建问题](https://www.v2ex.com/t/729076) 
+- [2020-11-25-是否有工具能把鼠标右键映射到成空格？](https://www.v2ex.com/t/729075) 
 - [2020-11-25-求兼容测试，-Xcode-11-能否跑在-M1-Mac-上？](https://www.v2ex.com/t/729072) 
 - [2020-11-25-阿里云的云服务器上的-tcp-连接数为-3000,怎么推算出同一时间单位内,有多少-HTTP-并发量呢？](https://www.v2ex.com/t/729071) 
 - [2020-11-25-SpyderX-Pro-校色仪偏绿?](https://www.v2ex.com/t/729069) 
@@ -40,9 +45,3 @@
 - [2020-11-25-百度贴吧的同学，进来看一下](https://www.v2ex.com/t/729036) 
 - [2020-11-25-有没有进来吐槽-Scrum2020-指南的？](https://www.v2ex.com/t/729034) 
 - [2020-11-25-我的-iPhone-XR-连续出现两次-通话记录突然不见了-系统-ios13-版本](https://www.v2ex.com/t/729033) 
-- [2020-11-25-windows-下-PHP-不能开启慢日志吗?](https://www.v2ex.com/t/729032) 
-- [2020-11-25-删除](https://www.v2ex.com/t/729031) 
-- [2020-11-25-2020-年-11-月下旬，有什么笔记本电脑推荐的吗？](https://www.v2ex.com/t/729030) 
-- [2020-11-25-想请教各位一个问题](https://www.v2ex.com/t/729028) 
-- [2020-11-25-Wacom-的手绘板，可以连接-MBP-吗？](https://www.v2ex.com/t/729027) 
-- [2020-11-25-M1-MacBook-Air-外接-4k-屏耗电测试](https://www.v2ex.com/t/729026) 

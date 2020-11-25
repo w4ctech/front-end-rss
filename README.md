@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 15:48:07，:rocket: 更新条数: +794， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 16:05:51，:rocket: 更新条数: +799， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -76,6 +76,11 @@
 </summary>
 
 
+- [2020-11-25-内蒙古额尔古纳一住院陪护人员24日核酸阳性-复核排除阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJbEh5siGdqd7pe5nrC26201125&isfromapp=1) ![](assets/new.png)  
+- [2020-11-25-德国单日死亡病例数为疫情暴发以来最高-南部首现医院负荷濒临极限](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5BlhzFzQ96CQkHhCbTF6201125&isfromapp=1) ![](assets/new.png)  
+- [2020-11-25-美国纽约州住院病例数三周激增128%-州长敦促民众假期勿出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikgXdjx1qeec6ATMHzv49201125&isfromapp=1) ![](assets/new.png)  
+- [2020-11-25-陕西西安一男子疫情期间销售“三无”口罩-获刑五年半并支付三倍赔偿金](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSaBXSnMxQL9Aesx68B8201125&isfromapp=1) ![](assets/new.png)  
+- [2020-11-25-美国马里兰州州长：人们没有权利在疫情期间不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8fjRIwLpb8lBAgtOTAf2201125&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1029,6 +1034,7 @@
 </summary>
 
 
+- [2020-11-25-为什么我可以在-Windows-下把-2k-显示器的显示分辨率调成-4k？](https://www.v2ex.com/t/729283) ![](assets/new.png)  
 - [2020-11-25-有没有-M1-的-Mac-蓝牙频繁断联的？](https://www.v2ex.com/t/729282) ![](assets/new.png)  
 - [2020-11-25-国外云服务器什么价格或者有什么推荐?-作为个人网站](https://www.v2ex.com/t/729281) ![](assets/new.png)  
 - [2020-11-25-亲测，-big-sur-的-Time-Machine-提升巨大！](https://www.v2ex.com/t/729280) ![](assets/new.png)  
@@ -1048,7 +1054,6 @@
 - [2020-11-25-迫于强迫，出一些电子杂物](https://www.v2ex.com/t/729260) ![](assets/new.png)  
 - [2020-11-25-请问一下大佬们-TrackPad2-有没有性价比高的替代品？](https://www.v2ex.com/t/729259) ![](assets/new.png)  
 - [2020-11-25-请教-v2-大佬们以下-nginx-反向代理配置报错问题](https://www.v2ex.com/t/729258) ![](assets/new.png)  
-- [2020-11-25-2020-Huawei-DIGIX-Image-Retrieval-亚军方案分享](https://www.v2ex.com/t/729257) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

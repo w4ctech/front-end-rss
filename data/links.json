@@ -18640,6 +18640,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "LeetCode 2020 感恩节促销开始",
+        "link": "https://www.v2ex.com/t/729298",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "求 dom 节点截图方法",
+        "link": "https://www.v2ex.com/t/729297",
+        "date": "2020-11-25"
+      },
+      {
         "title": "ios 的个人热点漏洞（可被已连接设备攻击导致关机）修复了没",
         "link": "https://www.v2ex.com/t/729296",
         "date": "2020-11-25"
@@ -18827,16 +18837,6 @@
       {
         "title": "Comcast/Xfinity 1.2T 流量 Cap 拓展到整个东海岸了",
         "link": "https://www.v2ex.com/t/729249",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "ROG B550-E 主板 Wi-Fi 和以太网都掉驱动，经常开机之后两张网卡都没了，有什么办法吗？ Ubuntu 20.04",
-        "link": "https://www.v2ex.com/t/729248",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[共享] 2021 中国大陆法定节假日",
-        "link": "https://www.v2ex.com/t/729247",
         "date": "2020-11-25"
       }
     ]
@@ -19054,23 +19054,18 @@
         "date": "2020-11-25"
       },
       {
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-25"
+      },
+      {
         "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
         "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
         "date": "2020-11-25"
       },
       {
@@ -19079,38 +19074,13 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
-        "date": "2020-11-25"
-      },
-      {
         "title": "[推荐] 高并发高性能服务器是如何实现的",
         "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-11-25"
       },
       {
@@ -19119,8 +19089,38 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
         "date": "2020-11-25"
       },
       {

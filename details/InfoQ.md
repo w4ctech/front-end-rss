@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-11-25 23:07:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 23:22:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-11-25-摁住巨头：腾讯阿里们要小心了？](https://www.ershicimi.com/p/3fdb8edde2ac0b7e210523dd634db04a) 
+- [2020-11-25-InfoQ出品：《云原生的技术探索与落地实践》研究报告（附下载）](https://www.ershicimi.com/p/767639bf4997422fe77fd73fa66c9a89) 
+- [2020-11-25-腾讯、蚂蚁、华为等大厂是如何玩转-DevOps-的？｜-QCon](https://www.ershicimi.com/p/677e924451f92801ed654359c7e251b0) 
+- [2020-11-25-构建云原生架构版图：安信证券服务化平台实践](https://www.ershicimi.com/p/c91a276fcf613b34fb6de5dd3a3359e1) 
+- [2020-11-25-美国给了台积电两亿美元：为建厂做基建](https://www.ershicimi.com/p/3e7ff4181eb67e3f7d4cc2b636a0a231) 
 - [2020-11-24-如何让密码学拯救你的“35岁危机”？｜-极客时间](https://www.ershicimi.com/p/2c9caacf18d7ac64a02d190f5173b6a7) 
 - [2020-11-24-66岁还在写代码，这个程序员想把bug扼杀在“摇篮”里](https://www.ershicimi.com/p/f81aa91d0a234fbc9c5c63232c9ec5a0) 
 - [2020-11-24-代码不止-|-2020-Google-开发者大会亮点回顾](https://www.ershicimi.com/p/eee5f9e8dbb4f0a6ccb992909f67e8a6) 
@@ -20,8 +25,3 @@
 - [2020-11-22-AWS上云钜惠月来袭，白皮书+万元礼包，理论到实战一次搞定！｜-Q推荐](https://www.ershicimi.com/p/6c003302e8ebb7a93db629d2d88cb8b4) 
 - [2020-11-22-NVIDIA专家手把手教你30分钟实现基于Python的路况目标检测系统-｜-Q推荐](https://www.ershicimi.com/p/845de6179d00b9f6640d71d049bb5b24) 
 - [2020-11-22-2020-Google-开发者大会：Android-和-Flutter-有哪些更新？](https://www.ershicimi.com/p/2fd02eac90f5d656e3272de42f3210c9) 
-- [2020-11-21-2020年，百万开发者心中最优秀的开源、云原生项目都在这里](https://www.ershicimi.com/p/8ec69b43979e5d12ccd9b9404663de1d) 
-- [2020-11-21-前亚马逊产品经理：TikTok的真正优势，并不是算法](https://www.ershicimi.com/p/d1d93335370cdda1aabfb27ab4cc5cbf) 
-- [2020-11-21-前Uber-CTO加入韩国最大电商公司Coupang](https://www.ershicimi.com/p/870ab892c026b4cf90929ad3ec58b1d4) 
-- [2020-11-21-还在用分库分表？看TiDB如何解决海量数据无感扩容难题-｜-Q推荐](https://www.ershicimi.com/p/ecf6c933a0013086ad9a21afd8f8be45) 
-- [2020-11-21-深入浅出Spark（三）：Spark调度系统之“权力的游戏”](https://www.ershicimi.com/p/867ff2d25b1b45f0ace6345f2117902d) 

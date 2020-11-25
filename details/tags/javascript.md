@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-25 23:07:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 23:22:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -28,6 +28,7 @@
 - [2020-01-22-如何解读WHO“国际公共卫生紧急事件”](http://m.china.caixin.com/m/2020-01-22/101507340.html) 
 - [2020-01-22-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
 - [2020-11-04-Web-Component-会是前端未来吗？](https://www.ershicimi.com/p/631062c7999138e04ace05de7b9e56ed) 
+- [2020-11-25-优化-JS-条件语句的-5-个技巧](https://www.ershicimi.com/p/3bf0138638c78f91a429cbd6cf828b94) 
 - [2020-11-18-JavaScript-那些写出来会被同事揍的骚操作](https://www.ershicimi.com/p/b198707f9470404036e8af5bf50c2d7d) 
 - [2020-11-16-28-个-JavaScript-编程黑科技：还有这种操作！](https://www.ershicimi.com/p/b5882325e8b6c975236bebab5182aa2f) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-25 23:07:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 23:22:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-11-15-3分钟教你用css3做一个求婚小动画！](https://www.ershicimi.com/p/c8f577c5f76eeeacab6c21f8e665e2ae) 
 - [2020-11-15-纯-CSS-实现吸附效果](https://www.ershicimi.com/p/89a03d0d9ce2c1d671a76b4b945a19cd) 
 - [2020-11-13-缩减-SCSS-50%样式代码的-14-条实战经验](https://www.ershicimi.com/p/03d4c0d2b58fea1d47f472036d3d8213) 
 - [2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) 

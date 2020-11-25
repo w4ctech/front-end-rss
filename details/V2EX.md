@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-25 01:50:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 02:04:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-25-iPhone12-双卡待机耗电反馈问题](https://www.v2ex.com/t/728971) 
+- [2020-11-25-我想说一个图样单词-app，我真的是完全不明白其设计逻辑](https://www.v2ex.com/t/728969) 
+- [2020-11-25-iPhone12-输入密码等待解锁需要-2~3-秒是正常的吗？](https://www.v2ex.com/t/728968) 
+- [2020-11-25-可以用-sfpt-直接访问-docker-容器文件夹吗？](https://www.v2ex.com/t/728967) 
+- [2020-11-25-访问记录里同一设备不停换-IP-怎么做到的?](https://www.v2ex.com/t/728966) 
+- [2020-11-25-想给自己的博客加一个类似-V2-的记事本功能，好实现吗？](https://www.v2ex.com/t/728965) 
 - [2020-11-25-yourube-美区账号-印度区会员-50-元一年-一个车位](https://www.v2ex.com/t/728962) 
 - [2020-11-25-在公司浏览网页老是出现人机验证，有方法自己解决吗？](https://www.v2ex.com/t/728960) 
 - [2020-11-25-Firefox-的刷新-ctrl+r-连-checkbox-的值都保留了](https://www.v2ex.com/t/728959) 
@@ -32,11 +38,3 @@
 - [2020-11-24-现在在哪可以下载-arm-原生的-office-到-Mac-上？](https://www.v2ex.com/t/728925) 
 - [2020-11-24-有没有一个-type-c-口分出来两三个-type-c-口的拓展坞](https://www.v2ex.com/t/728924) 
 - [2020-11-24-感于问大火大学对学生会看法的帖子，想到了毕业时候辅导员-QQ-群的殷切寄语](https://www.v2ex.com/t/728923) 
-- [2020-11-24-［-M1］-16”-MacBook-Pro-爆料](https://www.v2ex.com/t/728922) 
-- [2020-11-24--FinTech-社区-招聘-|-量化投资经理](https://www.v2ex.com/t/728921) 
-- [2020-11-24-Sun-Oracle-硬盘-7093037（2.5-inch-sas-3-HDD）哪里买？](https://www.v2ex.com/t/728920) 
-- [2020-11-24-Should-I-go-for-AWS-lightsail-server-of-managed-AWS-server?](https://www.v2ex.com/t/728919) 
-- [2020-11-24-可以通过-Xbox-Series-X-的开发者模式运行-RetroArch-进而实现模拟几乎所有经典游戏平台](https://www.v2ex.com/t/728918) 
-- [2020-11-24-将位图加载到-GPU-的内存很慢？](https://www.v2ex.com/t/728917) 
-- [2020-11-24-神奇的-Big-Sur,-两只-AirPods-Pro-分别连接-iPhone-和-Mac](https://www.v2ex.com/t/728916) 
-- [2020-11-24-听说上海开了家『犬夜叉』主题餐厅？](https://www.v2ex.com/t/728915) 

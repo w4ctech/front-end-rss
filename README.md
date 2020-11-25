@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 09:33:45，:rocket: 更新条数: +1029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 09:47:54，:rocket: 更新条数: +1030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,11 @@
 </summary>
 
 
+- [2020-11-25-thinkphp-报了一个很奇怪的错误](https://www.v2ex.com/t/729194) ![](assets/new.png)  
+- [2020-11-25-有可能在其他的-ARM-设备上黑苹果吗？](https://www.v2ex.com/t/729193) ![](assets/new.png)  
+- [2020-11-25-关于-vue3.0-ref,reactive-与-typescript-的问题？求大佬解答疑惑](https://www.v2ex.com/t/729192) ![](assets/new.png)  
+- [2020-11-25-也来求建议了](https://www.v2ex.com/t/729191) ![](assets/new.png)  
+- [2020-11-25-有无朋友自己在家给电脑绑定公网-ip？](https://www.v2ex.com/t/729190) ![](assets/new.png)  
 - [2020-11-25-YouTube-播放](https://www.v2ex.com/t/729189) ![](assets/new.png)  
 - [2020-11-25-万能的-V-友,厦门这个季节皮肤过敏要怎么办?有什么缓解止痒的方法吗?](https://www.v2ex.com/t/729188) ![](assets/new.png)  
 - [2020-11-25-flutter-弹出输入框的性能有点慢啊，尤其是切换输入框的时候的键盘切换，明显感觉有延时](https://www.v2ex.com/t/729186) ![](assets/new.png)  
@@ -1069,11 +1074,6 @@
 - [2020-11-25-迫于视力越来越差，想问下蓝光眼镜是智商税吗](https://www.v2ex.com/t/729172) ![](assets/new.png)  
 - [2020-11-25-正常回复-ID-被封了，求解封](https://www.v2ex.com/t/729171) ![](assets/new.png)  
 - [2020-11-25-本地-mysql-和-aws-rds-同步](https://www.v2ex.com/t/729169) ![](assets/new.png)  
-- [2020-11-25-大家还记不记的以前那个使用时间和待机时间一样的问题](https://www.v2ex.com/t/729168) ![](assets/new.png)  
-- [2020-11-25-发言等待时间似乎有问题？](https://www.v2ex.com/t/729167) ![](assets/new.png)  
-- [2020-11-25-#-问个弱智的问题，-Mac-mini-可以雷电接口供电么？](https://www.v2ex.com/t/729166) ![](assets/new.png)  
-- [2020-11-25-不懂就问，-apache-和-PHP-都编译安装升级了，是不是-MySQL-也得升级](https://www.v2ex.com/t/729165) ![](assets/new.png)  
-- [2020-11-25-现在还有哪里可以买到上海交通卡（紫卡）么](https://www.v2ex.com/t/729164) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

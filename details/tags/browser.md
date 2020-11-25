@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-25 09:33:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 09:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,7 +30,6 @@
 - [2020-11-22-Spring中的Controller-，Service，Dao是不是线程安全的？](https://www.ershicimi.com/p/a5130710eb2dfcc37633257c999510de) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-25-想到上周-X-浏览器，大家考虑注册个公司避险么？](https://www.v2ex.com/t/729145) 
-- [2020-11-25-安全与风控-渗透测试、安全研究、风控研发等岗位内推](https://www.v2ex.com/t/729141) 
 - [2020-11-24-深圳网络安全大会即将召开,发布五大亮点海报](https://sec.thief.one/article_content?a_id=f038ac325fa22d579edc69a99e578004) 
 - [2020-11-24-WitAwards-2020评选火热进行中-|-年度安全SRC&年度安全作者](https://sec.thief.one/article_content?a_id=83387fb2b7a58d238b12bfa58907a84f) 
 - [2020-11-24-【安全会议推荐】贝壳找房2020-ICS安全技术峰会](https://sec.thief.one/article_content?a_id=aead5add79bb7620d151858cb26dd470) 

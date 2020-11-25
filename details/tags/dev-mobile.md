@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-25 09:08:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 09:25:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -15,4 +15,5 @@
 - [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) 
 - [2020-11-23-Flutter-的新功能、Dart-开发工具以及一行神奇的-CSS-代码-|-Google-开发者大](https://www.ershicimi.com/p/20edb7b9e9de89967f86cc634138401e) 
 - [2020-11-22-2020-Google-开发者大会：Android-和-Flutter-有哪些更新？](https://www.ershicimi.com/p/2fd02eac90f5d656e3272de42f3210c9) 
+- [2020-11-25-flutter-弹出输入框的性能有点慢啊，尤其是切换输入框的时候的键盘切换，明显感觉有延时](https://www.v2ex.com/t/729186) 
 - [2020-11-25-Flutter-源码剖析（四）：flutter-run-流程解析](https://toutiao.io/k/bmtd9fz) 

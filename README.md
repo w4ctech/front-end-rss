@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 05:47:53，:rocket: 更新条数: +3885， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 06:05:04，:rocket: 更新条数: +1028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-11-25-11月24日新增确诊病例5例-均为境外输入病例](http://m.china.caixin.com/m/2020-11-25/101632058.html) ![](assets/new.png)  
-- [2020-11-25-大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html) ![](assets/new.png)  
-- [2020-11-24-江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html) ![](assets/new.png)  
-- [2020-11-24-香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html) ![](assets/new.png)  
-- [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
-- [2020-11-24-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
-- [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
-- [2020-11-23-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
-- [2020-11-23-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
-- [2020-11-23-大流行手记|11月22日：沙特拨5亿美元研发疫苗-爱尔兰拟扑杀境内养殖貂](https://m.caixin.com/m/2020-11-23/101631291.html) ![](assets/new.png)  
-- [2020-11-22-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) ![](assets/new.png)  
-- [2020-11-22-香港单日新增68宗病例-港府拟向确诊者发5000港元津贴](https://m.caixin.com/m/2020-11-22/101631215.html) ![](assets/new.png)  
-- [2020-11-22-【境内疫情观察】内蒙古新增2例本土确诊病例（11月21日）](http://m.database.caixin.com/m/2020-11-22/101631172.html) ![](assets/new.png)  
-- [2020-11-22-大流行手记|11月21日：英国12月起接种新冠疫苗-牛津称抗体可维持6个月](https://m.caixin.com/m/2020-11-22/101631140.html) ![](assets/new.png)  
-- [2020-11-22-财新记者直击上海浦东医院换防转移医护人员](http://m.photos.caixin.com/m/2020-11-22/101631220.html) ![](assets/new.png)  
-- [2020-11-21-内蒙古满洲里新增2例新冠本土确诊病例-火车客车停运（更新）](https://m.caixin.com/m/2020-11-21/101631090.html) ![](assets/new.png)  
-- [2020-11-21-香港疫情大反弹-单日新增43宗创3个月新高](http://m.china.caixin.com/m/2020-11-21/101631096.html) ![](assets/new.png)  
-- [2020-11-21-【境内疫情观察】上海新增2例本土确诊病例（11月20日）](http://m.database.caixin.com/m/2020-11-21/101631024.html) ![](assets/new.png)  
-- [2020-11-21-大流行手记|11月20日：WHO不建议用瑞德西韦治疗新冠-首批中国疫苗运抵巴西](https://m.caixin.com/m/2020-11-21/101630933.html) ![](assets/new.png)  
-- [2020-11-20-最新海外疫情：新冠感染超5680万-累计死亡超135万](https://m.caixin.com/m/2020-11-20/101630760.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1054,10 @@
 </summary>
 
 
+- [2020-11-25-出租房，想买不联网的指纹锁，求推荐](https://www.v2ex.com/t/729098) ![](assets/new.png)  
+- [2020-11-25-闲鱼的验机报告那么不靠谱么？官网旗舰店买的无拆修机子，被验证为已更换产品的序列号](https://www.v2ex.com/t/729096) ![](assets/new.png)  
+- [2020-11-25-昨儿逛论坛，看到一张-CAD-的界面，上面有个方块很有意思。Javascript-实现这个是不是很难？](https://www.v2ex.com/t/729094) ![](assets/new.png)  
+- [2020-11-25-老哥们，-iPad-pro-上有啥好玩的游戏没有？](https://www.v2ex.com/t/729093) ![](assets/new.png)  
 - [2020-11-25-自*如室友在我门外骂娘](https://www.v2ex.com/t/729091) ![](assets/new.png)  
 - [2020-11-25-怎么能知道别人是不是通过代理访问我的网站呢](https://www.v2ex.com/t/729088) ![](assets/new.png)  
 - [2020-11-25-iPhone-12-下截屏有时反应较慢](https://www.v2ex.com/t/729087) ![](assets/new.png)  
@@ -1090,10 +1074,6 @@
 - [2020-11-25-SpyderX-Pro-校色仪偏绿?](https://www.v2ex.com/t/729069) ![](assets/new.png)  
 - [2020-11-25-Pin-极简记录-&-趋势统计的绿色-App](https://www.v2ex.com/t/729068) ![](assets/new.png)  
 - [2020-11-25-IPv6-普通上网时,-每个人应该被分配多少地址?](https://www.v2ex.com/t/729067) ![](assets/new.png)  
-- [2020-11-25-前端拼错了一个单词，花了我-3-个小时排错](https://www.v2ex.com/t/729066) ![](assets/new.png)  
-- [2020-11-25-M1-能安装-Win10-吗？认真的](https://www.v2ex.com/t/729065) ![](assets/new.png)  
-- [2020-11-25-现在还能用国内银行卡向老虎证券转账吗？](https://www.v2ex.com/t/729064) ![](assets/new.png)  
-- [2020-11-25-不懂就问。-mbp-m1-能编译安装-intel-mbp-上的就能编译的一些软件吗](https://www.v2ex.com/t/729063) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

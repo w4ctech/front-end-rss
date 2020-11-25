@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 01:28:44，:rocket: 更新条数: +3774， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 01:35:23，:rocket: 更新条数: +3774， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,10 @@
 </summary>
 
 
+- [2020-11-25-文件下载的问题](https://www.v2ex.com/t/728951) ![](assets/new.png)  
+- [2020-11-25-M1-Mac-下的-TG-视频画面闪烁,油管视频显示一半,反转颜色后色彩不对3-个观察到的现象](https://www.v2ex.com/t/728950) ![](assets/new.png)  
+- [2020-11-25-英语学不好，是因为不够穷吗](https://www.v2ex.com/t/728949) ![](assets/new.png)  
+- [2020-11-25-三七互娱内推-社招-中/高-中台运维工程师-13-25K-15-薪-广州](https://www.v2ex.com/t/728947) ![](assets/new.png)  
 - [2020-11-25-请问大佬们有没有-GS1-DataMatrix-的-Java-类解析库？](https://www.v2ex.com/t/728945) ![](assets/new.png)  
 - [2020-11-25-今天厦门金鸡奖开幕，有人关注吗](https://www.v2ex.com/t/728943) ![](assets/new.png)  
 - [2020-11-25-求搭美区-amazon-prime-video-的车](https://www.v2ex.com/t/728940) ![](assets/new.png)  
@@ -1090,10 +1094,6 @@
 - [2020-11-24-感于问大火大学对学生会看法的帖子，想到了毕业时候辅导员-QQ-群的殷切寄语](https://www.v2ex.com/t/728923) ![](assets/new.png)  
 - [2020-11-24-［-M1］-16”-MacBook-Pro-爆料](https://www.v2ex.com/t/728922) ![](assets/new.png)  
 - [2020-11-24--FinTech-社区-招聘-|-量化投资经理](https://www.v2ex.com/t/728921) ![](assets/new.png)  
-- [2020-11-24-Sun-Oracle-硬盘-7093037（2.5-inch-sas-3-HDD）哪里买？](https://www.v2ex.com/t/728920) ![](assets/new.png)  
-- [2020-11-24-Should-I-go-for-AWS-lightsail-server-of-managed-AWS-server?](https://www.v2ex.com/t/728919) ![](assets/new.png)  
-- [2020-11-24-可以通过-Xbox-Series-X-的开发者模式运行-RetroArch-进而实现模拟几乎所有经典游戏平台](https://www.v2ex.com/t/728918) ![](assets/new.png)  
-- [2020-11-24-将位图加载到-GPU-的内存很慢？](https://www.v2ex.com/t/728917) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,22 +1140,22 @@
 - [2020-11-25-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
 - [2020-11-25-上周我面了个三年-Javaer，这几个问题都没答出来](https://toutiao.io/k/9dtuitl) ![](assets/new.png)  
 - [2020-11-25-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
+- [2020-11-25-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
 - [2020-11-25-入门区块链，从发币开始](https://toutiao.io/k/i1yyga7) ![](assets/new.png)  
 - [2020-11-25-一致性算法-Raft-简易入门](https://toutiao.io/k/8vne6up) ![](assets/new.png)  
-- [2020-11-25-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
-- [2020-11-25-数据库恢复子系统的常见技术和方案对比（二）](https://toutiao.io/k/hmhpwcx) ![](assets/new.png)  
 - [2020-11-25-Go-语言-init-函数你必须记住的六个特征](https://toutiao.io/k/uamg40a) ![](assets/new.png)  
+- [2020-11-25-数据库恢复子系统的常见技术和方案对比（二）](https://toutiao.io/k/hmhpwcx) ![](assets/new.png)  
 - [2020-11-25-用-Python-实现微信自动化抢红包，再也不用担心抢不到红包了](https://toutiao.io/k/dfurugw) ![](assets/new.png)  
 - [2020-11-25-Flutter-源码剖析（四）：flutter-run-流程解析](https://toutiao.io/k/bmtd9fz) ![](assets/new.png)  
 - [2020-11-25-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) ![](assets/new.png)  
 - [2020-11-25-工具-|-一款可以方便地管理-Kubernetes-的图形界面工具](https://toutiao.io/k/4d5mt46) ![](assets/new.png)  
-- [2020-11-25-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
-- [2020-11-25-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-25-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
-- [2020-11-25-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
-- [2020-11-25-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-25-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
+- [2020-11-25-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
 - [2020-11-25-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
-- [2020-11-25-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-25-推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
+- [2020-11-25-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
+- [2020-11-25-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
+- [2020-11-25-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

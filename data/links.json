@@ -18615,6 +18615,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "文件下载的问题",
+        "link": "https://www.v2ex.com/t/728951",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "M1 Mac 下的 TG 视频画面闪烁,油管视频显示一半,反转颜色后色彩不对(3 个观察到的现象)",
+        "link": "https://www.v2ex.com/t/728950",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "英语学不好，是因为不够穷吗",
+        "link": "https://www.v2ex.com/t/728949",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[三七互娱内推-社招-中/高 中台运维工程师 13-25K 15 薪] [广州]",
+        "link": "https://www.v2ex.com/t/728947",
+        "date": "2020-11-25"
+      },
+      {
         "title": "请问大佬们有没有 GS1 DataMatrix 的 Java 类解析库？",
         "link": "https://www.v2ex.com/t/728945",
         "date": "2020-11-25"
@@ -18763,26 +18783,6 @@
         "title": "socket 提供的 api 属于库函数还是系统调用?",
         "link": "https://www.v2ex.com/t/728902",
         "date": "2020-11-24"
-      },
-      {
-        "title": "nuxt.js 可以生成静态网站吗",
-        "link": "https://www.v2ex.com/t/728900",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "Big Sur 无法进入恢复模式",
-        "link": "https://www.v2ex.com/t/728898",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "分享一套自己的黑果 OC 配置",
-        "link": "https://www.v2ex.com/t/728897",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "字节跳动-抖音产品岗，大量 offer 已就位！北京+上海！",
-        "link": "https://www.v2ex.com/t/728896",
-        "date": "2020-11-24"
       }
     ]
   },
@@ -18919,6 +18919,11 @@
         "date": "2020-11-25"
       },
       {
+        "title": "架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
+        "date": "2020-11-25"
+      },
+      {
         "title": "入门区块链，从发币开始",
         "link": "https://toutiao.io/k/i1yyga7",
         "date": "2020-11-25"
@@ -18929,18 +18934,13 @@
         "date": "2020-11-25"
       },
       {
-        "title": "架构师之路：微服务技术选型",
-        "link": "https://toutiao.io/k/bxvxty9",
+        "title": "Go 语言 init 函数你必须记住的六个特征",
+        "link": "https://toutiao.io/k/uamg40a",
         "date": "2020-11-25"
       },
       {
         "title": "数据库恢复子系统的常见技术和方案对比（二）",
         "link": "https://toutiao.io/k/hmhpwcx",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "Go 语言 init 函数你必须记住的六个特征",
-        "link": "https://toutiao.io/k/uamg40a",
         "date": "2020-11-25"
       },
       {
@@ -18964,28 +18964,13 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
         "date": "2020-11-25"
       },
       {
@@ -18994,33 +18979,23 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-11-25"
-      },
-      {
         "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
         "link": "https://toutiao.io/k/z2u8tqp",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
         "date": "2020-11-25"
       },
       {
@@ -19029,13 +19004,38 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
         "date": "2020-11-25"
       }
     ]

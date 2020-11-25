@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 14:47:56，:rocket: 更新条数: +775， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 15:04:24，:rocket: 更新条数: +795， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -1034,6 +1034,7 @@
 </summary>
 
 
+- [2020-11-25-QQ-群手机端发的图，电脑端全是感叹号。](https://www.v2ex.com/t/729275) ![](assets/new.png)  
 - [2020-11-25-关于-iframe-获取不到地理信息](https://www.v2ex.com/t/729272) ![](assets/new.png)  
 - [2020-11-25--Java-分享一个自用的基于-netty-的内网服务映射方案](https://www.v2ex.com/t/729271) ![](assets/new.png)  
 - [2020-11-25-有没有人可以描述下大厂程序员的一天是?](https://www.v2ex.com/t/729270) ![](assets/new.png)  
@@ -1053,7 +1054,6 @@
 - [2020-11-25-一个「一人写就」的资讯网站](https://www.v2ex.com/t/729251) ![](assets/new.png)  
 - [2020-11-25-Comcast/Xfinity-1.2T-流量-Cap-拓展到整个东海岸了](https://www.v2ex.com/t/729249) ![](assets/new.png)  
 - [2020-11-25-ROG-B550-E-主板-Wi-Fi-和以太网都掉驱动，经常开机之后两张网卡都没了，有什么办法吗？-Ubuntu-20.04](https://www.v2ex.com/t/729248) ![](assets/new.png)  
-- [2020-11-25-共享-2021-中国大陆法定节假日](https://www.v2ex.com/t/729247) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,6 +1065,26 @@
 </summary>
 
 
+- [2020-11-25-阿里云Edge-Plus私享会正式起航，首场活动聚焦CDN在视频直播领域的最佳实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13993&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778506%3Futm_content%3Dg_1000209956%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-秘密武器-|-看AnalyticDB如何强力支撑双十一-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13992&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778347%3Futm_content%3Dg_1000210265%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-轻松玩转全链路监控-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13991&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778727%3Futm_content%3Dg_1000209954%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-OpenKruise：阿里巴巴-双11-全链路应用的云原生部署基座-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13990&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778728%3Futm_content%3Dg_1000209953%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-健壮的数据仓库项目搭建-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13989&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-揭秘双11丝滑般剁手之路背后的网络监控技术-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13988&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778707%3Futm_content%3Dg_1000209952%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-从基础设施到云原生应用，全方位解读阿里云原生新锐开源项目-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13987&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778671%3Futm_content%3Dg_1000209002%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-云原生趋势下的迁移与容灾思考-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13986&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778675%3Futm_content%3Dg_1000209001%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-Flink-双流-Join-的3种操作示例-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13985&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778485%3Futm_content%3Dg_1000209000%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-快手基于-Apache-Flink-的优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13984&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778575%3Futm_content%3Dg_1000208999%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-菜鸟实时数仓2.0进阶之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13983&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778623%3Futm_content%3Dg_1000208998%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-几种性能测试工具的总结-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13982&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-2019-年-CNCF-中国云原生调查报告-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13981&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778481%3Futm_content%3Dg_1000207913%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-高德全链路压测-精准控压的建设实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13980&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778572%3Futm_content%3Dg_1000207912%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-申通完美支撑“双11”-亿级包裹背后的云基础设施-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13979&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778563%3Futm_content%3Dg_1000207911%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-这些表情包你有吗？来-Battle-啊-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13978&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F307672306%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-鹰角网络全球海量数据，一键轻松统一存储与处理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13977&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778559%3Futm_content%3Dg_1000207910%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-KubeVela-正式开源：一个高可扩展的云原生应用平台与核心引擎-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13976&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778543%3Futm_content%3Dg_1000207909%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-6岁！是时候重新认识下Serverless了-|-云原生趣谈-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13975&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778541%3Futm_content%3Dg_1000207513%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-25-我看技术人的成长路径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1091,8 +1111,8 @@
 - [2020-11-25-Flutter-源码剖析（四）：flutter-run-流程解析](https://toutiao.io/k/bmtd9fz) ![](assets/new.png)  
 - [2020-11-25-如果程序员和产品经理都用凡尔赛文学对话](https://toutiao.io/k/q7zp922) ![](assets/new.png)  
 - [2020-11-25-几种性能测试工具的总结](https://toutiao.io/k/re3f27e) ![](assets/new.png)  
-- [2020-11-25-别小看-tail-命令，它难倒了技术总监](https://toutiao.io/k/6vfrdwz) ![](assets/new.png)  
 - [2020-11-25-Spring-Boot-新特性：jar-大小自动瘦身](https://toutiao.io/k/evuo4xf) ![](assets/new.png)  
+- [2020-11-25-别小看-tail-命令，它难倒了技术总监](https://toutiao.io/k/6vfrdwz) ![](assets/new.png)  
 - [2020-11-25-Russ-Cox-又有动态了：开源了一个-Go-工具](https://toutiao.io/k/73uwa73) ![](assets/new.png)  
 - [2020-11-25-绕不开的-M1-性能的讨论](https://toutiao.io/k/1f6cw51) ![](assets/new.png)  
 - [2020-11-25-关于-numa-loadbance-的死锁分析](https://toutiao.io/k/m5afp1t) ![](assets/new.png)  

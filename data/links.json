@@ -3168,6 +3168,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "QQ 群手机端发的图，电脑端全是感叹号。",
+        "link": "https://www.v2ex.com/t/729275",
+        "date": "2020-11-25"
+      },
+      {
         "title": "关于 iframe 获取不到地理信息",
         "link": "https://www.v2ex.com/t/729272",
         "date": "2020-11-25"
@@ -3346,11 +3351,6 @@
         "title": "阿里云国际的印度员工半夜三更给我打电话，请问要不要回复他的电子邮件？",
         "link": "https://www.v2ex.com/t/729226",
         "date": "2020-11-25"
-      },
-      {
-        "title": "青春期会影响我的情绪吗？",
-        "link": "https://www.v2ex.com/t/729225",
-        "date": "2020-11-25"
       }
     ]
   },
@@ -3358,7 +3358,108 @@
     "rss": "https://front-rss.herokuapp.com/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "阿里云Edge Plus私享会正式起航，首场活动聚焦CDN在视频直播领域的最佳实践 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13993&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778506%3Futm_content%3Dg_1000209956%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "秘密武器 | 看AnalyticDB如何强力支撑双十一 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13992&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778347%3Futm_content%3Dg_1000210265%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "轻松玩转全链路监控 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13991&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778727%3Futm_content%3Dg_1000209954%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "OpenKruise：阿里巴巴 双11 全链路应用的云原生部署基座 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13990&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778728%3Futm_content%3Dg_1000209953%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "健壮的数据仓库项目搭建 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13989&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "揭秘双11丝滑般剁手之路背后的网络监控技术 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13988&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778707%3Futm_content%3Dg_1000209952%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "从基础设施到云原生应用，全方位解读阿里云原生新锐开源项目 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13987&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778671%3Futm_content%3Dg_1000209002%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "云原生趋势下的迁移与容灾思考 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13986&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778675%3Futm_content%3Dg_1000209001%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "Flink 双流 Join 的3种操作示例 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13985&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778485%3Futm_content%3Dg_1000209000%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "快手基于 Apache Flink 的优化实践 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13984&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778575%3Futm_content%3Dg_1000208999%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "菜鸟实时数仓2.0进阶之路 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13983&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778623%3Futm_content%3Dg_1000208998%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "几种性能测试工具的总结 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13982&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "2019 年 CNCF 中国云原生调查报告 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13981&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778481%3Futm_content%3Dg_1000207913%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "高德全链路压测 精准控压的建设实践 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13980&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778572%3Futm_content%3Dg_1000207912%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "申通完美支撑“双11” 亿级包裹背后的云基础设施 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13979&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778563%3Futm_content%3Dg_1000207911%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "这些表情包你有吗？来 Battle 啊 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13978&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F307672306%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "鹰角网络全球海量数据，一键轻松统一存储与处理 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13977&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778559%3Futm_content%3Dg_1000207910%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "KubeVela 正式开源：一个高可扩展的云原生应用平台与核心引擎 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13976&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778543%3Futm_content%3Dg_1000207909%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "6岁！是时候重新认识下Serverless了 | 云原生趣谈 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13975&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778541%3Futm_content%3Dg_1000207513%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "我看技术人的成长路径 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
@@ -3441,13 +3542,13 @@
         "date": "2020-11-25"
       },
       {
-        "title": "别小看 tail 命令，它难倒了技术总监",
-        "link": "https://toutiao.io/k/6vfrdwz",
+        "title": "Spring Boot 新特性：jar 大小自动瘦身",
+        "link": "https://toutiao.io/k/evuo4xf",
         "date": "2020-11-25"
       },
       {
-        "title": "Spring Boot 新特性：jar 大小自动瘦身",
-        "link": "https://toutiao.io/k/evuo4xf",
+        "title": "别小看 tail 命令，它难倒了技术总监",
+        "link": "https://toutiao.io/k/6vfrdwz",
         "date": "2020-11-25"
       },
       {
@@ -3466,8 +3567,43 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
         "date": "2020-11-25"
       },
       {
@@ -3481,28 +3617,8 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-25"
-      },
-      {
         "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
         "link": "https://toutiao.io/k/z2u8tqp",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-25"
       },
       {
@@ -3511,23 +3627,8 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
         "date": "2020-11-25"
       },
       {
@@ -3536,8 +3637,8 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
         "date": "2020-11-25"
       }
     ]

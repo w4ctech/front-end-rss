@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 07:07:52，:rocket: 更新条数: +3649， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 07:24:46，:rocket: 更新条数: +3650， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,11 @@
 </summary>
 
 
+- [2020-11-25-广东移动宽带丢包严重](https://www.v2ex.com/t/729137) ![](assets/new.png)  
+- [2020-11-25-大专学历现在是在职状态想专升本有没有靠谱的报班经验，分享一下](https://www.v2ex.com/t/729136) ![](assets/new.png)  
+- [2020-11-25-ios-的应用可以只发布到-iPad-吗？](https://www.v2ex.com/t/729135) ![](assets/new.png)  
+- [2020-11-25-请问一下成都天府新区有什么软件公司？](https://www.v2ex.com/t/729134) ![](assets/new.png)  
+- [2020-11-25-黑果-BigSur-更新完屏幕为什么会这样。。。](https://www.v2ex.com/t/729130) ![](assets/new.png)  
 - [2020-11-25-应届校招-offer-开奖，望前辈建议](https://www.v2ex.com/t/729129) ![](assets/new.png)  
 - [2020-11-25-你们说，墨水屏真的更省眼吗](https://www.v2ex.com/t/729125) ![](assets/new.png)  
 - [2020-11-25-杭州-招前端](https://www.v2ex.com/t/729124) ![](assets/new.png)  
@@ -1069,11 +1074,6 @@
 - [2020-11-25-求推荐关于计算机网络的书籍](https://www.v2ex.com/t/729114) ![](assets/new.png)  
 - [2020-11-25-解决-Big-Sur-外接鼠标拖拽窗口掉帧问题](https://www.v2ex.com/t/729113) ![](assets/new.png)  
 - [2020-11-25-除了-APKPure-还有那些应用商店可以更新-Google-Play-上的-APP？](https://www.v2ex.com/t/729111) ![](assets/new.png)  
-- [2020-11-25-苹果专门搞了个针对-mac-优化的-tensorflow](https://www.v2ex.com/t/729109) ![](assets/new.png)  
-- [2020-11-25-小程序或者-app-是否可以通过语音代替手操作](https://www.v2ex.com/t/729108) ![](assets/new.png)  
-- [2020-11-25-mbp-用什么蓝牙鼠标延迟比较低？现在在用罗技的-M590，延迟想打人](https://www.v2ex.com/t/729107) ![](assets/new.png)  
-- [2020-11-25-成都华阳附近的房子很难出租么？两个月了看得人都没有](https://www.v2ex.com/t/729106) ![](assets/new.png)  
-- [2020-11-25-一个-msvc-与-gcc/clang-不一致的例子，哪边是对的？](https://www.v2ex.com/t/729105) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,6 +1085,7 @@
 </summary>
 
 
+- [2020-11-25-秘密武器-|-看AnalyticDB如何强力支撑双十一-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13992&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778347%3Futm_content%3Dg_1000210265%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-轻松玩转全链路监控-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13991&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778727%3Futm_content%3Dg_1000209954%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-OpenKruise：阿里巴巴-双11-全链路应用的云原生部署基座-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13990&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778728%3Futm_content%3Dg_1000209953%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-健壮的数据仓库项目搭建-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13989&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1104,7 +1105,6 @@
 - [2020-11-25-6岁！是时候重新认识下Serverless了-|-云原生趣谈-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13975&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778541%3Futm_content%3Dg_1000207513%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-我看技术人的成长路径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-质量内建——缺陷管理实践分享-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-25-AI云原生浅谈：好未来AI中台实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13972&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778470%3Futm_content%3Dg_1000207511%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-25 02:27:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 02:33:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-25-请问这是-Apple-airpods-的交互-bug-吗？还是我哪里设置有问题](https://www.v2ex.com/t/729003) 
+- [2020-11-25-YT-主播测试-M1-多屏拓展（1-拖-6）](https://www.v2ex.com/t/729002) 
 - [2020-11-25-mac-的-excel-太难用了，-有替代品么？](https://www.v2ex.com/t/729001) 
 - [2020-11-25-Linus-Torvalds-说如果-M1-Mac-能运行-Linux-他愿意使用](https://www.v2ex.com/t/729000) 
 - [2020-11-25-关于-M1-Mac-外接多显示器](https://www.v2ex.com/t/728999) 
@@ -17,7 +19,6 @@
 - [2020-11-25-在-Spark-数据导入中的一些实践细节](https://www.v2ex.com/t/728989) 
 - [2020-11-25-vs2019-在虚拟机中调试太慢](https://www.v2ex.com/t/728988) 
 - [2020-11-25-买苹果-12-时，选“公开版”好还是“值享焕新版”好？哪个更划算](https://www.v2ex.com/t/728987) 
-- [2020-11-25-setapp-组队](https://www.v2ex.com/t/728986) 
 - [2020-11-25-求推荐蓝牙机械键盘，要有小键盘的](https://www.v2ex.com/t/728985) 
 - [2020-11-25-1Password-家庭版免费-10-个月](https://www.v2ex.com/t/728984) 
 - [2020-11-25-黑五-iStat-Menus-6-打折的车又来了](https://www.v2ex.com/t/728983) 
@@ -40,6 +41,3 @@
 - [2020-11-25-Xrepo：一个现代化的跨平台-C/C++-包管理器](https://www.v2ex.com/t/728958) 
 - [2020-11-25-Mac-下-VMware-fusion-11-使用虚拟机散热问题](https://www.v2ex.com/t/728957) 
 - [2020-11-25-写了个-webdav-客户端插件，支持常用文件操作](https://www.v2ex.com/t/728955) 
-- [2020-11-25-为什么瓦工洛杉矶切换到软银线路，瓦工就会受理版权方的投诉](https://www.v2ex.com/t/728954) 
-- [2020-11-25-有没有大佬，知道.net-core-或.net5-如何在-iis-上热更新、热发布](https://www.v2ex.com/t/728953) 
-- [2020-11-25-求推荐一款软件，可以-隐秘-地录制电脑屏幕](https://www.v2ex.com/t/728952) 

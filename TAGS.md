@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-25 21:07:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 21:23:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -532,7 +532,6 @@
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【InfoQ】从HTTP到HTTP/3的发展简史](https://www.ershicimi.com/p/9b07e8b7a6dd46aa987c0c70a16d5e5b)
 - [【InfoQ】前亚马逊产品经理：TikTok的真正优势，并不是算法](https://www.ershicimi.com/p/d1d93335370cdda1aabfb27ab4cc5cbf)
-- [【V2EX】Comcast/Xfinity-1.2T-流量-Cap-拓展到整个东海岸了](https://www.v2ex.com/t/729249)
 - [【开发者头条】程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a)
 - [【开发者头条】一致性算法-Raft-简易入门](https://toutiao.io/k/8vne6up)
 - [【安全热点】靠刷算法题,真的可以刷进大厂吗?](https://sec.thief.one/article_content?a_id=126aa3240cd53eb2fd13a40672ae29b3)

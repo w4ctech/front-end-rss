@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-11-25 09:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 10:04:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-25-分享一个-Python-命令行下列表选择](https://www.v2ex.com/t/729199) 
+- [2020-11-25-有老哥在项目里用-Gorm2-了吗？来谈谈感受吧](https://www.v2ex.com/t/729198) 
+- [2020-11-25-问一个-entgo-批量更新字段的问题](https://www.v2ex.com/t/729197) 
+- [2020-11-25-举报用户-301jump](https://www.v2ex.com/t/729196) 
+- [2020-11-25-macos-Big-Sur-11.0.1-控制中心的音量控制进度条是用来调节左右声道平衡的？](https://www.v2ex.com/t/729195) 
 - [2020-11-25-thinkphp-报了一个很奇怪的错误](https://www.v2ex.com/t/729194) 
 - [2020-11-25-有可能在其他的-ARM-设备上黑苹果吗？](https://www.v2ex.com/t/729193) 
 - [2020-11-25-关于-vue3.0-ref,reactive-与-typescript-的问题？求大佬解答疑惑](https://www.v2ex.com/t/729192) 
@@ -39,6 +44,3 @@
 - [2020-11-25-iphone12-pro-偶尔死机问题](https://www.v2ex.com/t/729154) 
 - [2020-11-25-换了-m1-MacBook-Pro-后使用外接-4k-显示器非常模糊](https://www.v2ex.com/t/729153) 
 - [2020-11-25-利空腾讯,蛋壳公寓事件后续,微众银行被关闭租房贷款入口](https://www.v2ex.com/t/729152) 
-- [2020-11-25-付费征集-b2b.10086.cn-爬虫方案，需验证可行](https://www.v2ex.com/t/729151) 
-- [2020-11-25-5T-的-MySQL-数据上云？如何做才能更好？](https://www.v2ex.com/t/729147) 
-- [2020-11-25-想到上周-X-浏览器，大家考虑注册个公司避险么？](https://www.v2ex.com/t/729145) 

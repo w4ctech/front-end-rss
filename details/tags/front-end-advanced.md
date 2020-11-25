@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-25 13:22:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 13:33:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -23,6 +23,7 @@
 - [2020-11-24-从HTTP到HTTP/3的发展简史](https://www.ershicimi.com/p/9b07e8b7a6dd46aa987c0c70a16d5e5b) 
 - [2020-11-21-前亚马逊产品经理：TikTok的真正优势，并不是算法](https://www.ershicimi.com/p/d1d93335370cdda1aabfb27ab4cc5cbf) 
 - [2020-11-25-连肝7个晚上，总结了计算机HTTP网络协议的知识点](https://juejin.im/post/6899005188955176974) 
+- [2020-11-25-Comcast/Xfinity-1.2T-流量-Cap-拓展到整个东海岸了](https://www.v2ex.com/t/729249) 
 - [2020-11-25-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) 
 - [2020-11-25-一致性算法-Raft-简易入门](https://toutiao.io/k/8vne6up) 
 - [2020-11-24-靠刷算法题,真的可以刷进大厂吗?](https://sec.thief.one/article_content?a_id=126aa3240cd53eb2fd13a40672ae29b3) 

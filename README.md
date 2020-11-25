@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 13:22:51，:rocket: 更新条数: +1026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 13:33:18，:rocket: 更新条数: +1026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,8 @@
 </summary>
 
 
+- [2020-11-25-Comcast/Xfinity-1.2T-流量-Cap-拓展到整个东海岸了](https://www.v2ex.com/t/729249) ![](assets/new.png)  
+- [2020-11-25-ROG-B550-E-主板-Wi-Fi-和以太网都掉驱动，经常开机之后两张网卡都没了，有什么办法吗？-Ubuntu-20.04](https://www.v2ex.com/t/729248) ![](assets/new.png)  
 - [2020-11-25-共享-2021-中国大陆法定节假日](https://www.v2ex.com/t/729247) ![](assets/new.png)  
 - [2020-11-25-iPhone-连-WiFi-弹出的登录界面，怎么看短信验证码](https://www.v2ex.com/t/729246) ![](assets/new.png)  
 - [2020-11-25-你升级/被升级-5G-了吗？和-4G-相比，-5G-速度快几倍？值得升级-5G-吗](https://www.v2ex.com/t/729245) ![](assets/new.png)  
@@ -1072,8 +1074,6 @@
 - [2020-11-25-ansible--m-setup-获取不到-docker-的-ip](https://www.v2ex.com/t/729228) ![](assets/new.png)  
 - [2020-11-25-阿里云国际的印度员工半夜三更给我打电话，请问要不要回复他的电子邮件？](https://www.v2ex.com/t/729226) ![](assets/new.png)  
 - [2020-11-25-青春期会影响我的情绪吗？](https://www.v2ex.com/t/729225) ![](assets/new.png)  
-- [2020-11-25-寻推荐系统兼职工程师，帮我们的初创产品搭建一个推荐系统。](https://www.v2ex.com/t/729223) ![](assets/new.png)  
-- [2020-11-25-笔记本电脑键盘上不小心泼了一杯咖啡，刚开始还能正常使用，过了一会屏幕不亮甚至没法正常开机了，但是现在又好了，如何确定这个本本是否真的没问题？](https://www.v2ex.com/t/729221) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

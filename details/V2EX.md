@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-25 16:42:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 17:00:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-25-马拉多纳去世](https://www.v2ex.com/t/729289) 
 - [2020-11-25-独生子女移民后该如何处理父母的养老问题？](https://www.v2ex.com/t/729288) 
 - [2020-11-25-FinTech-社区-人才推荐奖-最高-5-万元等你拿！](https://www.v2ex.com/t/729287) 
 - [2020-11-25-Big-Sur-iCloud-云盘“移除下载项”功能无法移除-*.App-格式文件](https://www.v2ex.com/t/729286) 
@@ -45,5 +46,3 @@
 - [2020-11-25-如何提高-Siri-的智商？](https://www.v2ex.com/t/729243) 
 - [2020-11-25-关于-iStat-Menus-6-的设备绑定问题](https://www.v2ex.com/t/729242) 
 - [2020-11-25-M1-芯片的-Macbook-Air-16G-RAM-延期了……](https://www.v2ex.com/t/729241) 
-- [2020-11-25-大家的群晖是怎么实现外网穿透呢，避免-ISP-探测（zerotier？）](https://www.v2ex.com/t/729240) 
-- [2020-11-25-迟到的-2020-年盘溪冰糖橙来啦，采摘已经接近尾声了](https://www.v2ex.com/t/729239) 

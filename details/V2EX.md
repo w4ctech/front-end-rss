@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-25 23:22:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 23:32:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-25-大佬们的-m1-16g-mini-有发货的了吗](https://www.v2ex.com/t/729304) 
 - [2020-11-25-现在用的是联通宽带，有一台电信的-HS8145V-光猫，能让联通换这个猫吗？](https://www.v2ex.com/t/729303) 
 - [2020-11-25-不知道是小组件还是捷径的-BUG](https://www.v2ex.com/t/729302) 
 - [2020-11-25-平面设计师的-M1-Mac-mini-8G+256体验吐槽](https://www.v2ex.com/t/729301) 
@@ -45,4 +46,3 @@
 - [2020-11-25-请教-v2-大佬们以下-nginx-反向代理配置报错问题](https://www.v2ex.com/t/729258) 
 - [2020-11-25-2020-Huawei-DIGIX-Image-Retrieval-亚军方案分享](https://www.v2ex.com/t/729257) 
 - [2020-11-25-MBP-用了一年，硬盘写了-31.5TB，算多吗？想看看大家的](https://www.v2ex.com/t/729255) 
-- [2020-11-25-CSDN-官方出的去广告插件？](https://www.v2ex.com/t/729254) 

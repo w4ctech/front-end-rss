@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 23:22:56，:rocket: 更新条数: +3893， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 23:32:55，:rocket: 更新条数: +3893， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-25-大佬们的-m1-16g-mini-有发货的了吗](https://www.v2ex.com/t/729304) ![](assets/new.png)  
 - [2020-11-25-现在用的是联通宽带，有一台电信的-HS8145V-光猫，能让联通换这个猫吗？](https://www.v2ex.com/t/729303) ![](assets/new.png)  
 - [2020-11-25-不知道是小组件还是捷径的-BUG](https://www.v2ex.com/t/729302) ![](assets/new.png)  
 - [2020-11-25-平面设计师的-M1-Mac-mini-8G+256体验吐槽](https://www.v2ex.com/t/729301) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-11-25-iOS-中如何在-YouTube-中实现英文字幕翻译](https://www.v2ex.com/t/729285) ![](assets/new.png)  
 - [2020-11-25-M1-Hashcat-Benchmark](https://www.v2ex.com/t/729284) ![](assets/new.png)  
 - [2020-11-25-为什么我可以在-Windows-下把-2k-显示器的显示分辨率调成-4k？](https://www.v2ex.com/t/729283) ![](assets/new.png)  
-- [2020-11-25-有没有-M1-的-Mac-蓝牙频繁断联的？](https://www.v2ex.com/t/729282) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

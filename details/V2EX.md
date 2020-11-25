@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-25 13:47:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 14:04:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-25-请教-v2-大佬们以下-nginx-反向代理配置报错问题](https://www.v2ex.com/t/729258) 
+- [2020-11-25-2020-Huawei-DIGIX-Image-Retrieval-亚军方案分享](https://www.v2ex.com/t/729257) 
 - [2020-11-25-MBP-用了一年，硬盘写了-31.5TB，算多吗？想看看大家的](https://www.v2ex.com/t/729255) 
 - [2020-11-25-CSDN-官方出的去广告插件？](https://www.v2ex.com/t/729254) 
 - [2020-11-25-北京/杭州/上海-阿里巴巴-Java-/前端/测试开发/android/ios/架构-内推火热进行中！](https://www.v2ex.com/t/729253) 

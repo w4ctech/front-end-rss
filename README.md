@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 12:50:51，:rocket: 更新条数: +1026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 13:04:07，:rocket: 更新条数: +3884， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-11-25-最新疫情：全国新冠累计确诊86469例-境外输入新增5例](https://m.caixin.com/m/2020-11-25/101632339.html) ![](assets/new.png)  
+- [2020-11-25-天津两起疫情有不同源头-其中之一为进口猪头](https://m.caixin.com/m/2020-11-25/101632216.html) ![](assets/new.png)  
+- [2020-11-25-最新海外疫情：新冠感染超5966万-累计死亡超140万](https://m.caixin.com/m/2020-11-25/101632350.html) ![](assets/new.png)  
+- [2020-11-25-【境内疫情观察】内蒙古新增1例本土疑似病例（11月24日）](http://m.database.caixin.com/m/2020-11-25/101632194.html) ![](assets/new.png)  
+- [2020-11-25-大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html) ![](assets/new.png)  
+- [2020-11-24-江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html) ![](assets/new.png)  
+- [2020-11-24-香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html) ![](assets/new.png)  
+- [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
+- [2020-11-24-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
+- [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
+- [2020-11-23-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
+- [2020-11-23-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
+- [2020-11-23-大流行手记|11月22日：沙特拨5亿美元研发疫苗-爱尔兰拟扑杀境内养殖貂](https://m.caixin.com/m/2020-11-23/101631291.html) ![](assets/new.png)  
+- [2020-11-22-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) ![](assets/new.png)  
+- [2020-11-22-香港单日新增68宗病例-港府拟向确诊者发5000港元津贴](https://m.caixin.com/m/2020-11-22/101631215.html) ![](assets/new.png)  
+- [2020-11-22-【境内疫情观察】内蒙古新增2例本土确诊病例（11月21日）](http://m.database.caixin.com/m/2020-11-22/101631172.html) ![](assets/new.png)  
+- [2020-11-22-大流行手记|11月21日：英国12月起接种新冠疫苗-牛津称抗体可维持6个月](https://m.caixin.com/m/2020-11-22/101631140.html) ![](assets/new.png)  
+- [2020-11-22-财新记者直击上海浦东医院换防转移医护人员](http://m.photos.caixin.com/m/2020-11-22/101631220.html) ![](assets/new.png)  
+- [2020-11-21-内蒙古满洲里新增2例新冠本土确诊病例-火车客车停运（更新）](https://m.caixin.com/m/2020-11-21/101631090.html) ![](assets/new.png)  
+- [2020-11-21-香港疫情大反弹-单日新增43宗创3个月新高](http://m.china.caixin.com/m/2020-11-21/101631096.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1147,6 +1167,8 @@
 </summary>
 
 
+- [2020-11-25-ATT&CK驱动下的安全运营数据分析,如何“落地”?](https://sec.thief.one/article_content?a_id=e427fd37b5c54eb2afb0abb39c18329d) ![](assets/new.png)  
+- [2020-11-25-奇安信集团与图灵人工智能研究院签约战略合作](https://sec.thief.one/article_content?a_id=6bfb0c0fa9e59f54e7237c296ec29209) ![](assets/new.png)  
 - [2020-11-25-《中国区块链发展报告2020》导读:全球区块链政策及监管重点趋...](https://sec.thief.one/article_content?a_id=444b60df7401e804ecf0a8d29b94d6de) ![](assets/new.png)  
 - [2020-11-25-浅谈SVG的两个黑魔法](https://sec.thief.one/article_content?a_id=2f3d747cd5afaec0c82296f71b09108d) ![](assets/new.png)  
 - [2020-11-25-PSMDATP:一款针对MDATP的PowerShell管理模块](https://sec.thief.one/article_content?a_id=b84afdb4701981be58d9f67fce87c137) ![](assets/new.png)  
@@ -1165,8 +1187,6 @@
 - [2020-11-25-武器化开源软件用于定向攻击](https://sec.thief.one/article_content?a_id=b46186850f8cf0eb0743bd9ceb40093a) ![](assets/new.png)  
 - [2020-11-25-因第三方数据库泄漏-Spotify要求将近35万个账号重置密码](https://sec.thief.one/article_content?a_id=61b5ac7f87815643fa41205a76c3786e) ![](assets/new.png)  
 - [2020-11-25-印度又封禁43款中国应用,阿里巴巴多款应用中枪](https://sec.thief.one/article_content?a_id=23f7141646839ff8ed9b538c176a872b) ![](assets/new.png)  
-- [2020-11-25-小程序开发中的一些总结](https://sec.thief.one/article_content?a_id=5348cf0e5328efc91a9a9ea874b99681) ![](assets/new.png)  
-- [2020-11-25-浅谈SVG的两个黑魔法](https://sec.thief.one/article_content?a_id=f000c676b2d438f06f7fada6c9cab878) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

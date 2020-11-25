@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-25 12:50:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 13:04:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,20 @@
 
 
 
+- [2020-08-25-大流行手记|8月24日：疫情威胁全球粮食安全-美国新增病例增势趋缓](https://m.caixin.com/m/2020-08-25/101596567.html) 
+- [2020-04-22-非洲新冠疫情叠加蝗灾-2000万人面临粮食安全威胁](http://m.science.caixin.com/m/2020-04-22/101545698.html) 
+- [2020-04-14-科技部：疫苗研发加快推进-确保安全性](http://m.china.caixin.com/m/2020-04-14/101542545.html) 
+- [2020-04-13-肺炎日记|4月12日：复学加快步伐，如何保障师生安全？](http://m.china.caixin.com/m/2020-04-13/101541775.html) 
+- [2020-04-12-崔天凯：只要有一国还有疫情，就没有人是安全的](http://m.international.caixin.com/m/2020-04-12/101541606.html) 
+- [2020-04-09-非洲确诊病例破万-粮食安全风险高企](http://m.international.caixin.com/m/2020-04-09/101540248.html) 
+- [2020-04-07-大流行手记|4月7日：口罩被截胡？-柏林请求军方“押镖”](https://m.caixin.com/m/2020-04-07/101539735.html) 
+- [2020-03-28-纽约市近半确诊者未满45岁-特朗普明确“先安全后经济”](http://m.international.caixin.com/m/2020-03-28/101535354.html) 
+- [2020-03-27-泰国暂停鸡蛋出口-疫情当下粮食安全受关注](http://m.china.caixin.com/m/2020-03-27/101535032.html) 
+- [2020-03-26-美新冠死亡病例破千-美专家呼吁取消对华关税保障医护安全](http://m.international.caixin.com/m/2020-03-26/101534192.html) 
+- [2020-03-24-中英领导人通话-约翰逊称尽力照顾留学生等中国公民的健康安全](http://m.international.caixin.com/m/2020-03-24/101532958.html) 
+- [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
+- [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
+- [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-11-22-【第2125期】解决-Web-应用与浏览器快捷键冲突的一条野路子](https://www.ershicimi.com/p/c74c8072ce54da5c94ff129d36f5efd0) 
 - [2020-11-22-对标-Postman！2.5-万-Star-的挑战者：Hoppscotch](https://www.ershicimi.com/p/f7a2a73ddabf044866e678c8cfef75b9) 
 - [2020-11-14-化繁为简，简括浏览器渲染机制](https://www.ershicimi.com/p/30af1d88e12861f62367c62514e7eeff) 
@@ -30,6 +44,7 @@
 - [2020-11-22-Spring中的Controller-，Service，Dao是不是线程安全的？](https://www.ershicimi.com/p/a5130710eb2dfcc37633257c999510de) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-25-大家的群晖是怎么实现外网穿透呢，避免-ISP-探测（zerotier？）](https://www.v2ex.com/t/729240) 
+- [2020-11-25-ATT&CK驱动下的安全运营数据分析,如何“落地”?](https://sec.thief.one/article_content?a_id=e427fd37b5c54eb2afb0abb39c18329d) 
 - [2020-11-25-招聘-|-Base上海字节跳动多个安全风控岗位来袭](https://sec.thief.one/article_content?a_id=f5bc31824232604f37763232787cff08) 
 - [2020-11-25-孟买疑遭APT攻击致大规模停电:APT威胁日趋加重下如何布防安全](https://sec.thief.one/article_content?a_id=9477b130acbe8712ca2d12454aceb737) 
 - [2020-11-25-博智安全完成3.7亿人民币新一轮融资](https://sec.thief.one/article_content?a_id=7e2bfc1a1f0c80ae15045615eb58e0ab) 
@@ -53,4 +68,3 @@
 - [2020-11-23-绿盟安全信息库解决方案NSID入围世界互联网领先科技成果](https://sec.thief.one/article_content?a_id=4ac19df2a881afb68b4b73ed01ef6a53) 
 - [2020-11-23-物联网安全系列之探索IoT通信安全的研究之道](https://sec.thief.one/article_content?a_id=23cc7c715817e4350367bd69781b3c5b) 
 - [2020-11-23-【报名通道开启】贝壳找房2020-ICS安全技术峰会​](https://sec.thief.one/article_content?a_id=de9fe74d6d659f5289be88ea07cca606) 
-- [2020-11-23-每日安全动态推送11-23](https://sec.thief.one/article_content?a_id=e8a839f01bb712e58cdc55506d0b59b9) 

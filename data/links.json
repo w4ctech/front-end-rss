@@ -11,6 +11,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "美国马里兰州州长：人们没有权利在疫情期间不戴口罩",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8fjRIwLpb8lBAgtOTAf2201125&isfromapp=1",
+        "date": "2020-11-25"
+      },
+      {
         "title": "内蒙古满洲里市新增本土疑似病例1例、无症状感染者2例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiklk0ALgaeUKmoINegA2I201125&isfromapp=1",
         "date": "2020-11-25"
@@ -29,11 +34,6 @@
         "title": "国家卫健委：24日新增确诊病例5例 均为境外输入病例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigOL1gxFieqUI4I0vkO0W201125&isfromapp=1",
         "date": "2020-11-25"
-      },
-      {
-        "title": "面对第二轮疫情,巴西里约热内卢将在今后一段时间进行大范围病毒检测",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNv97erMrPBGsZQ9DwMoI201125&isfromapp=1",
-        "date": "2020-11-24"
       }
     ]
   },
@@ -4339,8 +4339,48 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "电影票打骨折的价格",
-        "link": "https://www.v2ex.com/t/729037",
+        "title": "有人遇到跟我一样的问题吗 今天上午陆陆续续许多网站打开都是“您的连接不是私密连接”证书无效错误",
+        "link": "https://www.v2ex.com/t/729046",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "等着换呢 MacBook Pro 16 寸 M1 芯片今年会出吗？",
+        "link": "https://www.v2ex.com/t/729045",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "外置的 trackpad2 震动反馈失效..",
+        "link": "https://www.v2ex.com/t/729044",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "华强北的仿造品都能上京东自营了，敢买吗",
+        "link": "https://www.v2ex.com/t/729043",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "iPhone12 夜景拍照问题",
+        "link": "https://www.v2ex.com/t/729042",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "迫于自己单身，有解决不了，想谋求自己幸福...",
+        "link": "https://www.v2ex.com/t/729041",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "关于办公协作飞书的一些问题",
+        "link": "https://www.v2ex.com/t/729040",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[求助帖] 搜狐墨客 App 从 app store 下线了，如何从同事的 iPhone 手机传到我的 iPhone 手机上？",
+        "link": "https://www.v2ex.com/t/729039",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "有没有这样一种工具，配置好要连接的数据库和字段",
+        "link": "https://www.v2ex.com/t/729038",
         "date": "2020-11-25"
       },
       {
@@ -4507,41 +4547,6 @@
         "title": "[阿里巴巴·乌鸫科技] 找后端开发， base 地杭州",
         "link": "https://www.v2ex.com/t/728998",
         "date": "2020-11-25"
-      },
-      {
-        "title": "如何看待印象笔记在收费用户的笔记列表中强制插入广告的行为",
-        "link": "https://www.v2ex.com/t/728996",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "色彩桌面小组件",
-        "link": "https://www.v2ex.com/t/728994",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "公司刚用 git，还不太会用，请教下怎么合并代码",
-        "link": "https://www.v2ex.com/t/728992",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "企业级路由等于互联网企业级路由吗？",
-        "link": "https://www.v2ex.com/t/728991",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "如何快速解决脱发问题",
-        "link": "https://www.v2ex.com/t/728990",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "在 Spark 数据导入中的一些实践细节",
-        "link": "https://www.v2ex.com/t/728989",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "vs2019 在虚拟机中调试太慢",
-        "link": "https://www.v2ex.com/t/728988",
-        "date": "2020-11-25"
       }
     ]
   },
@@ -4550,6 +4555,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "OpenKruise：阿里巴巴 双11 全链路应用的云原生部署基座 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13990&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778728%3Futm_content%3Dg_1000209953%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
       {
         "title": "健壮的数据仓库项目搭建 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13989&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -4644,11 +4654,6 @@
         "title": "双十一消费近万亿！1亿人见证数字物流，“尾款人”收货更快了？购物狂欢七大趋势浮现 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13971&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778497%3Futm_content%3Dg_1000207510%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-25"
-      },
-      {
-        "title": "日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-25"
       }
     ]
   },
@@ -4698,6 +4703,11 @@
         "date": "2020-11-25"
       },
       {
+        "title": "几乎刷完了力扣所有的树题，我发现了这些东西",
+        "link": "https://toutiao.io/k/e5l3mqn",
+        "date": "2020-11-25"
+      },
+      {
         "title": "用 Python 实现微信自动化抢红包，再也不用担心抢不到红包了",
         "link": "https://toutiao.io/k/dfurugw",
         "date": "2020-11-25"
@@ -4705,11 +4715,6 @@
       {
         "title": "数据库恢复子系统的常见技术和方案对比（二）",
         "link": "https://toutiao.io/k/hmhpwcx",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "几乎刷完了力扣所有的树题，我发现了这些东西",
-        "link": "https://toutiao.io/k/e5l3mqn",
         "date": "2020-11-25"
       },
       {
@@ -4758,8 +4763,13 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
         "date": "2020-11-25"
       },
       {
@@ -4768,23 +4778,43 @@
         "date": "2020-11-25"
       },
       {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
+        "date": "2020-11-25"
+      },
+      {
         "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
         "link": "https://toutiao.io/k/n4lq0bo",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-25"
       },
       {
@@ -4798,38 +4828,13 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
         "date": "2020-11-25"
       },
       {
         "title": "[推荐] 高并发高性能服务器是如何实现的",
         "link": "https://toutiao.io/k/e3xq8ad",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-25"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-25 03:32:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 03:48:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,7 +31,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-25-可以推荐下消息订阅发布框架，可以保持服务器上的一个-list-和浏览器本地的-list-同步](https://www.v2ex.com/t/729017) 
 - [2020-11-25-真的没有招数了，求问大神如何配置可以让-Adobe-premiere-仅通过万兆网卡读取-NAS-的资源？](https://www.v2ex.com/t/729010) 
-- [2020-11-25-vs2019-在虚拟机中调试太慢](https://www.v2ex.com/t/728988) 
 - [2020-11-24-深圳网络安全大会即将召开,发布五大亮点海报](https://sec.thief.one/article_content?a_id=f038ac325fa22d579edc69a99e578004) 
 - [2020-11-24-WitAwards-2020评选火热进行中-|-年度安全SRC&年度安全作者](https://sec.thief.one/article_content?a_id=83387fb2b7a58d238b12bfa58907a84f) 
 - [2020-11-24-【安全会议推荐】贝壳找房2020-ICS安全技术峰会](https://sec.thief.one/article_content?a_id=aead5add79bb7620d151858cb26dd470) 

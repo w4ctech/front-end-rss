@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 03:32:58，:rocket: 更新条数: +1033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 03:48:01，:rocket: 更新条数: +1034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -76,11 +76,11 @@
 </summary>
 
 
+- [2020-11-25-美国马里兰州州长：人们没有权利在疫情期间不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8fjRIwLpb8lBAgtOTAf2201125&isfromapp=1) ![](assets/new.png)  
 - [2020-11-25-内蒙古满洲里市新增本土疑似病例1例、无症状感染者2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiklk0ALgaeUKmoINegA2I201125&isfromapp=1) ![](assets/new.png)  
 - [2020-11-25-韩国疫情加速反弹-中国驻韩国使领馆提醒在韩中国公民加强防护](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8p0YEH2uOqWwtXTOG8FA201125&isfromapp=1) ![](assets/new.png)  
 - [2020-11-25-巴西新冠肺炎确诊病例达611万例-专家表示巴西已迎来第二波疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIesRCWg5yvjSOw59q13Y201125&isfromapp=1) ![](assets/new.png)  
 - [2020-11-25-国家卫健委：24日新增确诊病例5例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigOL1gxFieqUI4I0vkO0W201125&isfromapp=1) ![](assets/new.png)  
-- [2020-11-24-面对第二轮疫情,巴西里约热内卢将在今后一段时间进行大范围病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNv97erMrPBGsZQ9DwMoI201125&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1054,7 +1054,15 @@
 </summary>
 
 
-- [2020-11-25-电影票打骨折的价格](https://www.v2ex.com/t/729037) ![](assets/new.png)  
+- [2020-11-25-有人遇到跟我一样的问题吗-今天上午陆陆续续许多网站打开都是“您的连接不是私密连接”证书无效错误](https://www.v2ex.com/t/729046) ![](assets/new.png)  
+- [2020-11-25-等着换呢-MacBook-Pro-16-寸-M1-芯片今年会出吗？](https://www.v2ex.com/t/729045) ![](assets/new.png)  
+- [2020-11-25-外置的-trackpad2-震动反馈失效..](https://www.v2ex.com/t/729044) ![](assets/new.png)  
+- [2020-11-25-华强北的仿造品都能上京东自营了，敢买吗](https://www.v2ex.com/t/729043) ![](assets/new.png)  
+- [2020-11-25-iPhone12-夜景拍照问题](https://www.v2ex.com/t/729042) ![](assets/new.png)  
+- [2020-11-25-迫于自己单身，有解决不了，想谋求自己幸福...](https://www.v2ex.com/t/729041) ![](assets/new.png)  
+- [2020-11-25-关于办公协作飞书的一些问题](https://www.v2ex.com/t/729040) ![](assets/new.png)  
+- [2020-11-25-求助帖-搜狐墨客-App-从-app-store-下线了，如何从同事的-iPhone-手机传到我的-iPhone-手机上？](https://www.v2ex.com/t/729039) ![](assets/new.png)  
+- [2020-11-25-有没有这样一种工具，配置好要连接的数据库和字段](https://www.v2ex.com/t/729038) ![](assets/new.png)  
 - [2020-11-25-百度贴吧的同学，进来看一下](https://www.v2ex.com/t/729036) ![](assets/new.png)  
 - [2020-11-25-有没有进来吐槽-Scrum2020-指南的？](https://www.v2ex.com/t/729034) ![](assets/new.png)  
 - [2020-11-25-我的-iPhone-XR-连续出现两次-通话记录突然不见了-系统-ios13-版本](https://www.v2ex.com/t/729033) ![](assets/new.png)  
@@ -1066,14 +1074,6 @@
 - [2020-11-25-M1-MacBook-Air-外接-4k-屏耗电测试](https://www.v2ex.com/t/729026) ![](assets/new.png)  
 - [2020-11-25-macOS-使用-XQuartz-支持-X11-实现-Linux-图形化界面显示](https://www.v2ex.com/t/729024) ![](assets/new.png)  
 - [2020-11-25-一直用-magsafe-充电,会加快缩短手机电池寿命吗](https://www.v2ex.com/t/729023) ![](assets/new.png)  
-- [2020-11-25-我在网上买了份保险，好奇我的电话是哪个环节被被泄露了？](https://www.v2ex.com/t/729022) ![](assets/new.png)  
-- [2020-11-25-在广州城中村里开一个便利店如何？](https://www.v2ex.com/t/729021) ![](assets/new.png)  
-- [2020-11-25-求照片同步方案](https://www.v2ex.com/t/729020) ![](assets/new.png)  
-- [2020-11-25-美国微软-区间-DP，有意思](https://www.v2ex.com/t/729019) ![](assets/new.png)  
-- [2020-11-25-北京健康宝产品设计不过脑子的么？](https://www.v2ex.com/t/729018) ![](assets/new.png)  
-- [2020-11-25-可以推荐下消息订阅发布框架，可以保持服务器上的一个-list-和浏览器本地的-list-同步](https://www.v2ex.com/t/729017) ![](assets/new.png)  
-- [2020-11-25-M1-Macbook-Pro-破音问题](https://www.v2ex.com/t/729016) ![](assets/new.png)  
-- [2020-11-25-问一个关于-ant-design-vue-的问题](https://www.v2ex.com/t/729015) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,6 +1085,7 @@
 </summary>
 
 
+- [2020-11-25-OpenKruise：阿里巴巴-双11-全链路应用的云原生部署基座-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13990&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778728%3Futm_content%3Dg_1000209953%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-健壮的数据仓库项目搭建-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13989&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-揭秘双11丝滑般剁手之路背后的网络监控技术-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13988&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778707%3Futm_content%3Dg_1000209952%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-从基础设施到云原生应用，全方位解读阿里云原生新锐开源项目-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13987&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778671%3Futm_content%3Dg_1000209002%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1104,7 +1105,6 @@
 - [2020-11-25-质量内建——缺陷管理实践分享-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-AI云原生浅谈：好未来AI中台实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13972&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778470%3Futm_content%3Dg_1000207511%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-双十一消费近万亿！1亿人见证数字物流，“尾款人”收货更快了？购物狂欢七大趋势浮现-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13971&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778497%3Futm_content%3Dg_1000207510%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-25-日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,9 +1124,9 @@
 - [2020-11-25-入门区块链，从发币开始](https://toutiao.io/k/i1yyga7) ![](assets/new.png)  
 - [2020-11-25-一致性算法-Raft-简易入门](https://toutiao.io/k/8vne6up) ![](assets/new.png)  
 - [2020-11-25-Go-语言-init-函数你必须记住的六个特征](https://toutiao.io/k/uamg40a) ![](assets/new.png)  
+- [2020-11-25-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) ![](assets/new.png)  
 - [2020-11-25-用-Python-实现微信自动化抢红包，再也不用担心抢不到红包了](https://toutiao.io/k/dfurugw) ![](assets/new.png)  
 - [2020-11-25-数据库恢复子系统的常见技术和方案对比（二）](https://toutiao.io/k/hmhpwcx) ![](assets/new.png)  
-- [2020-11-25-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) ![](assets/new.png)  
 - [2020-11-25-Flutter-源码剖析（四）：flutter-run-流程解析](https://toutiao.io/k/bmtd9fz) ![](assets/new.png)  
 - [2020-11-25-工具-|-一款可以方便地管理-Kubernetes-的图形界面工具](https://toutiao.io/k/4d5mt46) ![](assets/new.png)  
 - [2020-11-25-如果程序员和产品经理都用凡尔赛文学对话](https://toutiao.io/k/q7zp922) ![](assets/new.png)  

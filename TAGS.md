@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-25 03:32:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 03:48:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -423,7 +423,6 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【编程之上】前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978)
-- [【技术头条】日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】又一起“Fappening”?数百名女性体育明星的裸照和视频在线泄露](https://sec.thief.one/article_content?a_id=0df176cf5fc9a9c9580290d5c0c942f0)
 - [【安全热点】【视频】|-你的个人信息8毛/条,是谁在贩卖我们的隐私?](https://sec.thief.one/article_content?a_id=a137dee8fa03deb4b3aa3f483dde7395)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -552,6 +551,7 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【前端日刊】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/3f31bee0e974ab26ac32528f2662869b)
+- [【开发者头条】推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -578,7 +578,6 @@
 - [【互联网架构师】还在写-BUG？试试-GitHub-官方代码扫描工具！](https://www.ershicimi.com/p/e7ec8f0a82337b7f258072ff2aad0a5c)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【V2EX】公司刚用-git，还不太会用，请教下怎么合并代码](https://www.v2ex.com/t/728992)
 - [【开发者头条】推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp)
 - [【安全热点】Joker恶意软件的最新攻击技巧:使用Github隐藏有效载荷](https://sec.thief.one/article_content?a_id=93b492e2480927ff980d8e87de1a1d1b)
 - [......【查看更多】......](./details/tags/git-svn.md)
@@ -664,10 +663,10 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】美国马里兰州州长：人们没有权利在疫情期间不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8fjRIwLpb8lBAgtOTAf2201125&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】内蒙古满洲里市新增本土疑似病例1例、无症状感染者2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiklk0ALgaeUKmoINegA2I201125&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】韩国疫情加速反弹-中国驻韩国使领馆提醒在韩中国公民加强防护](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8p0YEH2uOqWwtXTOG8FA201125&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】国家卫健委：24日新增确诊病例5例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigOL1gxFieqUI4I0vkO0W201125&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】面对第二轮疫情,巴西里约热内卢将在今后一段时间进行大范围病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNv97erMrPBGsZQ9DwMoI201125&isfromapp=1)
 - [【Vue社区】一个无名前端的10年前端路](https://www.ershicimi.com/p/10a56fc96276e001ab49da15daabdd6e)
 - [【Vue社区】微前端究竟是什么，可以带来什么收益](https://www.ershicimi.com/p/11879ec4f4abbd85609414ea254ceecf)
 - [【Vue社区】前端转AI必看!-2020最新版《神经网络与深度学习》中文版更新完毕，PDF免费下载！](https://www.ershicimi.com/p/4c797d0afdaedc72845833c1b1b04bf8)

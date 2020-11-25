@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-25 07:24:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 07:33:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -251,7 +251,6 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-134-期）：未来的游戏业比现在大100倍](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html)
 - [【InfoQ】深入浅出Spark（三）：Spark调度系统之“权力的游戏”](https://www.ershicimi.com/p/867ff2d25b1b45f0ace6345f2117902d)
 - [【V2EX】老哥们，-iPad-pro-上有啥好玩的游戏没有？](https://www.v2ex.com/t/729093)
-- [【开发者头条】推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -413,8 +412,8 @@
 - [【技术头条】几种性能测试工具的总结-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13982&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】几种性能测试工具的总结](https://toutiao.io/k/re3f27e)
 - [【开发者头条】绕不开的-M1-性能的讨论](https://toutiao.io/k/1f6cw51)
-- [【开发者头条】推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x)
 - [【开发者头条】推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad)
+- [【安全热点】如何通过串行引导加载器读写STM32固件](https://sec.thief.one/article_content?a_id=7999c4dac982f989d159b54012490824)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -624,6 +623,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】11月24日新增确诊病例5例-均为境外输入病例](http://m.china.caixin.com/m/2020-11-25/101632058.html)
+- [【武汉肺炎防疫全纪录(财新网)】天津两起疫情有不同源头-其中之一为进口猪头](https://m.caixin.com/m/2020-11-25/101632216.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】内蒙古新增1例本土疑似病例（11月24日）](http://m.database.caixin.com/m/2020-11-25/101632194.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html)
 - [【武汉肺炎防疫全纪录(财新网)】江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html)
@@ -642,7 +642,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】内蒙古满洲里新增2例新冠本土确诊病例-火车客车停运（更新）](https://m.caixin.com/m/2020-11-21/101631090.html)
 - [【武汉肺炎防疫全纪录(财新网)】香港疫情大反弹-单日新增43宗创3个月新高](http://m.china.caixin.com/m/2020-11-21/101631096.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】上海新增2例本土确诊病例（11月20日）](http://m.database.caixin.com/m/2020-11-21/101631024.html)
-- [【武汉肺炎防疫全纪录(财新网)】大流行手记|11月20日：WHO不建议用瑞德西韦治疗新冠-首批中国疫苗运抵巴西](https://m.caixin.com/m/2020-11-21/101630933.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

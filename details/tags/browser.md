@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-25 03:07:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 03:25:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -21,7 +21,6 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2020-11-24-巴西司法和公共安全部长确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikQMUhOM7pLKVNhNwzcNP201125&isfromapp=1) 
 - [2020-11-22-【第2125期】解决-Web-应用与浏览器快捷键冲突的一条野路子](https://www.ershicimi.com/p/c74c8072ce54da5c94ff129d36f5efd0) 
 - [2020-11-22-对标-Postman！2.5-万-Star-的挑战者：Hoppscotch](https://www.ershicimi.com/p/f7a2a73ddabf044866e678c8cfef75b9) 
 - [2020-11-14-化繁为简，简括浏览器渲染机制](https://www.ershicimi.com/p/30af1d88e12861f62367c62514e7eeff) 
@@ -47,8 +46,6 @@
 - [2020-11-25-可以推荐下消息订阅发布框架，可以保持服务器上的一个-list-和浏览器本地的-list-同步](https://www.v2ex.com/t/729017) 
 - [2020-11-25-真的没有招数了，求问大神如何配置可以让-Adobe-premiere-仅通过万兆网卡读取-NAS-的资源？](https://www.v2ex.com/t/729010) 
 - [2020-11-25-vs2019-在虚拟机中调试太慢](https://www.v2ex.com/t/728988) 
-- [2020-11-25-edge-每次开新网页都会请求-brower.events.data.msn.com](https://www.v2ex.com/t/728981) 
-- [2020-11-25-EDGE-浏览器好像无法登录](https://www.v2ex.com/t/728978) 
 - [2020-11-24-深圳网络安全大会即将召开,发布五大亮点海报](https://sec.thief.one/article_content?a_id=f038ac325fa22d579edc69a99e578004) 
 - [2020-11-24-WitAwards-2020评选火热进行中-|-年度安全SRC&年度安全作者](https://sec.thief.one/article_content?a_id=83387fb2b7a58d238b12bfa58907a84f) 
 - [2020-11-24-【安全会议推荐】贝壳找房2020-ICS安全技术峰会](https://sec.thief.one/article_content?a_id=aead5add79bb7620d151858cb26dd470) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-25 03:07:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 03:25:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -100,7 +100,6 @@
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
 - [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
-- [2020-11-24-package.json中的depends](https://juejin.im/post/6898662226409111566) 
 - [2020-11-24-手写-Promise](https://juejin.im/post/6898660955480621063) 
 - [2020-11-24-H5实现APP“输入短信验证码”效果](https://juejin.im/post/6898659121134829575) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 

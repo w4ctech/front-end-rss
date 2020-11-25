@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-11-25 03:07:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 03:25:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-25-windows-下-PHP-不能开启慢日志吗?](https://www.v2ex.com/t/729032) 
+- [2020-11-25-iPhone-12-proMax-顶配版本-海军蓝-直降-500](https://www.v2ex.com/t/729031) 
+- [2020-11-25-2020-年-11-月下旬，有什么笔记本电脑推荐的吗？](https://www.v2ex.com/t/729030) 
+- [2020-11-25-想请教各位一个问题](https://www.v2ex.com/t/729028) 
+- [2020-11-25-Wacom-的手绘板，可以连接-MBP-吗？](https://www.v2ex.com/t/729027) 
+- [2020-11-25-M1-MacBook-Air-外接-4k-屏耗电测试](https://www.v2ex.com/t/729026) 
+- [2020-11-25-macOS-使用-XQuartz-支持-X11-实现-Linux-图形化界面显示](https://www.v2ex.com/t/729024) 
+- [2020-11-25-一直用-magsafe-充电,会加快缩短手机电池寿命吗](https://www.v2ex.com/t/729023) 
+- [2020-11-25-我在网上买了份保险，好奇我的电话是哪个环节被被泄露了？](https://www.v2ex.com/t/729022) 
+- [2020-11-25-在广州城中村里开一个便利店如何？](https://www.v2ex.com/t/729021) 
 - [2020-11-25-求照片同步方案](https://www.v2ex.com/t/729020) 
 - [2020-11-25-美国微软-区间-DP，有意思](https://www.v2ex.com/t/729019) 
 - [2020-11-25-北京健康宝产品设计不过脑子的么？](https://www.v2ex.com/t/729018) 
@@ -36,12 +46,3 @@
 - [2020-11-25-求推荐蓝牙机械键盘，要有小键盘的](https://www.v2ex.com/t/728985) 
 - [2020-11-25-1Password-家庭版免费-10-个月](https://www.v2ex.com/t/728984) 
 - [2020-11-25-黑五-iStat-Menus-6-打折的车又来了](https://www.v2ex.com/t/728983) 
-- [2020-11-25-新手不懂就问：-Java-中怎么将项目的-Jar-包转为代码呢？](https://www.v2ex.com/t/728982) 
-- [2020-11-25-edge-每次开新网页都会请求-brower.events.data.msn.com](https://www.v2ex.com/t/728981) 
-- [2020-11-25-传输层TCP-层拦截和-TLS-解密,-使用-mitmproxy-分析-iOS-和-Android-的-HTTPS协议](https://www.v2ex.com/t/728980) 
-- [2020-11-25-EDGE-浏览器好像无法登录](https://www.v2ex.com/t/728978) 
-- [2020-11-25-求助:电脑电池问题](https://www.v2ex.com/t/728977) 
-- [2020-11-25-可以不进行-onehot-吗？](https://www.v2ex.com/t/728975) 
-- [2020-11-25-语雀-陷入产品死循环逻辑了，还没正式用就差点劝退](https://www.v2ex.com/t/728974) 
-- [2020-11-25-Dash-要上架-Setapp-了](https://www.v2ex.com/t/728973) 
-- [2020-11-25-iPhone12-双卡待机耗电反馈问题](https://www.v2ex.com/t/728971) 

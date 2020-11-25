@@ -14292,28 +14292,28 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "内蒙古满洲里市新增本土疑似病例1例、无症状感染者2例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiklk0ALgaeUKmoINegA2I201125&isfromapp=1",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "韩国疫情加速反弹 中国驻韩国使领馆提醒在韩中国公民加强防护",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8p0YEH2uOqWwtXTOG8FA201125&isfromapp=1",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "巴西新冠肺炎确诊病例达611万例 专家表示巴西已迎来第二波疫情",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIesRCWg5yvjSOw59q13Y201125&isfromapp=1",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "国家卫健委：24日新增确诊病例5例 均为境外输入病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigOL1gxFieqUI4I0vkO0W201125&isfromapp=1",
+        "date": "2020-11-25"
+      },
+      {
         "title": "面对第二轮疫情,巴西里约热内卢将在今后一段时间进行大范围病毒检测",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNv97erMrPBGsZQ9DwMoI201125&isfromapp=1",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "美国疾控中心官员：美国大多数新冠病毒传播由家庭聚会引起",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiukUWi4dtLS03MeZCiKJC201125&isfromapp=1",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "法国总统马克龙宣布应对新冠疫情新举措 将分阶段解除“限行令”",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioXe3HMZogwJQ03PZlN0S201125&isfromapp=1",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "巴西司法和公共安全部长确诊感染新冠肺炎",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikQMUhOM7pLKVNhNwzcNP201125&isfromapp=1",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "降级！ 天津两区域调整为低风险地区",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwwuk27SItFGM1poCDezk201124&isfromapp=1",
         "date": "2020-11-24"
       }
     ]
@@ -18211,18 +18211,18 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "围观 “33 行代码的 React”",
+        "link": "https://juejin.im/post/6898897044295909384",
+        "date": "2020-11-24"
+      },
+      {
         "title": "看文档学Vue3丨setup",
         "link": "https://juejin.im/post/6898888854678274056",
         "date": "2020-11-24"
       },
       {
-        "title": "Flutter实战之问题集锦（三）",
-        "link": "https://juejin.im/post/6898662351957196808",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "package.json中的depends",
-        "link": "https://juejin.im/post/6898662226409111566",
+        "title": "如何基于 TypeScript 实现控制反转",
+        "link": "https://juejin.im/post/6898882861277904910",
         "date": "2020-11-24"
       },
       {
@@ -18620,6 +18620,56 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "windows 下 PHP 不能开启慢日志吗?",
+        "link": "https://www.v2ex.com/t/729032",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "iPhone 12 proMax 顶配版本 海军蓝 直降 500",
+        "link": "https://www.v2ex.com/t/729031",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "2020 年 11 月下旬，有什么笔记本电脑推荐的吗？",
+        "link": "https://www.v2ex.com/t/729030",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "想请教各位一个问题",
+        "link": "https://www.v2ex.com/t/729028",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "Wacom 的手绘板，可以连接 MBP 吗？",
+        "link": "https://www.v2ex.com/t/729027",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "M1 MacBook Air 外接 4k 屏耗电测试",
+        "link": "https://www.v2ex.com/t/729026",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "macOS 使用 XQuartz 支持 X11 实现 Linux 图形化界面显示",
+        "link": "https://www.v2ex.com/t/729024",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "一直用 magsafe 充电,会加快缩短手机电池寿命吗",
+        "link": "https://www.v2ex.com/t/729023",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "我在网上买了份保险，好奇我的电话是哪个环节被被泄露了？",
+        "link": "https://www.v2ex.com/t/729022",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "在广州城中村里开一个便利店如何？",
+        "link": "https://www.v2ex.com/t/729021",
+        "date": "2020-11-25"
+      },
+      {
         "title": "求照片同步方案",
         "link": "https://www.v2ex.com/t/729020",
         "date": "2020-11-25"
@@ -18773,51 +18823,6 @@
         "title": "黑五 iStat Menus 6 打折的车又来了",
         "link": "https://www.v2ex.com/t/728983",
         "date": "2020-11-25"
-      },
-      {
-        "title": "新手不懂就问： Java 中怎么将项目的 Jar 包转为代码呢？",
-        "link": "https://www.v2ex.com/t/728982",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "edge 每次开新网页都会请求 brower.events.data.msn.com",
-        "link": "https://www.v2ex.com/t/728981",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "传输层[TCP 层]拦截和 TLS 解密, 使用 mitmproxy 分析 iOS 和 Android 的 HTTP(S)协议",
-        "link": "https://www.v2ex.com/t/728980",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "EDGE 浏览器好像无法登录",
-        "link": "https://www.v2ex.com/t/728978",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "求助:电脑电池问题",
-        "link": "https://www.v2ex.com/t/728977",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "可以不进行 onehot 吗？",
-        "link": "https://www.v2ex.com/t/728975",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "语雀 陷入产品死循环逻辑了，还没正式用就差点劝退",
-        "link": "https://www.v2ex.com/t/728974",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "Dash 要上架 Setapp 了",
-        "link": "https://www.v2ex.com/t/728973",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "iPhone12 双卡待机耗电反馈问题",
-        "link": "https://www.v2ex.com/t/728971",
-        "date": "2020-11-25"
       }
     ]
   },
@@ -18826,6 +18831,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "健壮的数据仓库项目搭建 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13989&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-25"
+      },
       {
         "title": "揭秘双11丝滑般剁手之路背后的网络监控技术 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13988&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778707%3Futm_content%3Dg_1000209952%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -18920,11 +18930,6 @@
         "title": "日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-25"
-      },
-      {
-        "title": "揭秘“双11”黑科技：机器人“接管”物流、服务器“不发烧” (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13969&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778476%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-25"
       }
     ]
   },
@@ -18959,13 +18964,13 @@
         "date": "2020-11-25"
       },
       {
-        "title": "一致性算法 Raft 简易入门",
-        "link": "https://toutiao.io/k/8vne6up",
+        "title": "入门区块链，从发币开始",
+        "link": "https://toutiao.io/k/i1yyga7",
         "date": "2020-11-25"
       },
       {
-        "title": "入门区块链，从发币开始",
-        "link": "https://toutiao.io/k/i1yyga7",
+        "title": "一致性算法 Raft 简易入门",
+        "link": "https://toutiao.io/k/8vne6up",
         "date": "2020-11-25"
       },
       {
@@ -19024,33 +19029,13 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
+        "title": "绕不开的 M1 性能的讨论",
+        "link": "https://toutiao.io/k/1f6cw51",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "关于 numa loadbance 的死锁分析",
+        "link": "https://toutiao.io/k/m5afp1t",
         "date": "2020-11-25"
       },
       {
@@ -19059,33 +19044,28 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-25"
       },
       {
@@ -19094,8 +19074,43 @@
         "date": "2020-11-25"
       },
       {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-25"
       }
     ]

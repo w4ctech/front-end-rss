@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-25 14:26:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 14:33:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-25-会-ldap-的程序员看过来，接单了](https://www.v2ex.com/t/729267) 
 - [2020-11-25-请问下大家如何对待工作中不喜欢的内容？](https://www.v2ex.com/t/729266) 
 - [2020-11-25-第四期德国-IT-岗位招聘之-Full-Stack-Developer,-Network-Allrounder,-Data-Engineer](https://www.v2ex.com/t/729264) 
 - [2020-11-25-迫于强迫，出一些电子杂物](https://www.v2ex.com/t/729260) 
@@ -40,4 +41,3 @@
 - [2020-11-25-笔记本电脑键盘上不小心泼了一杯咖啡，刚开始还能正常使用，过了一会屏幕不亮甚至没法正常开机了，但是现在又好了，如何确定这个本本是否真的没问题？](https://www.v2ex.com/t/729221) 
 - [2020-11-25-我的-x1-carbon-8th-怎么升级不了-win10-2004](https://www.v2ex.com/t/729219) 
 - [2020-11-25-Windows-10-笔记本没有声音了.](https://www.v2ex.com/t/729218) 
-- [2020-11-25-iPad-妙控键盘有可能支持第三方键盘么？](https://www.v2ex.com/t/729217) 

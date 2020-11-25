@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-25 04:09:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-25 04:28:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -528,7 +528,6 @@
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【InfoQ】从HTTP到HTTP/3的发展简史](https://www.ershicimi.com/p/9b07e8b7a6dd46aa987c0c70a16d5e5b)
 - [【InfoQ】前亚马逊产品经理：TikTok的真正优势，并不是算法](https://www.ershicimi.com/p/d1d93335370cdda1aabfb27ab4cc5cbf)
-- [【V2EX】转让印象笔记-2021-年-12-月-到期的的专业账户，有意向的，可以私聊我-https://t.me/cuilei](https://www.v2ex.com/t/729009)
 - [【开发者头条】程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a)
 - [【开发者头条】一致性算法-Raft-简易入门](https://toutiao.io/k/8vne6up)
 - [【安全热点】靠刷算法题,真的可以刷进大厂吗?](https://sec.thief.one/article_content?a_id=126aa3240cd53eb2fd13a40672ae29b3)
@@ -551,6 +550,7 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【前端日刊】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/3f31bee0e974ab26ac32528f2662869b)
+- [【V2EX】备用机-iPhone-6S-16G，安装-iOS14.2，卡不卡？只用微信、Keep、每日英语听力、Forest](https://www.v2ex.com/t/729059)
 - [【开发者头条】推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o)
 - [......【查看更多】......](./details/tags/server.md)
 

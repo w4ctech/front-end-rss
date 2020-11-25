@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-25 06:09:17，:rocket: 更新条数: +3650， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-25 06:32:03，:rocket: 更新条数: +1023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -37,9 +37,9 @@
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-11-25-11月24日新增确诊病例5例-均为境外输入病例](http://m.china.caixin.com/m/2020-11-25/101632058.html) ![](assets/new.png)  
-- [2020-11-25-大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html) ![](assets/new.png)  
-- [2020-11-24-江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html) ![](assets/new.png)  
-- [2020-11-24-香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html) ![](assets/new.png)  
-- [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
-- [2020-11-24-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
-- [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
-- [2020-11-23-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
-- [2020-11-23-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
-- [2020-11-23-大流行手记|11月22日：沙特拨5亿美元研发疫苗-爱尔兰拟扑杀境内养殖貂](https://m.caixin.com/m/2020-11-23/101631291.html) ![](assets/new.png)  
-- [2020-11-22-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) ![](assets/new.png)  
-- [2020-11-22-香港单日新增68宗病例-港府拟向确诊者发5000港元津贴](https://m.caixin.com/m/2020-11-22/101631215.html) ![](assets/new.png)  
-- [2020-11-22-【境内疫情观察】内蒙古新增2例本土确诊病例（11月21日）](http://m.database.caixin.com/m/2020-11-22/101631172.html) ![](assets/new.png)  
-- [2020-11-22-大流行手记|11月21日：英国12月起接种新冠疫苗-牛津称抗体可维持6个月](https://m.caixin.com/m/2020-11-22/101631140.html) ![](assets/new.png)  
-- [2020-11-22-财新记者直击上海浦东医院换防转移医护人员](http://m.photos.caixin.com/m/2020-11-22/101631220.html) ![](assets/new.png)  
-- [2020-11-21-内蒙古满洲里新增2例新冠本土确诊病例-火车客车停运（更新）](https://m.caixin.com/m/2020-11-21/101631090.html) ![](assets/new.png)  
-- [2020-11-21-香港疫情大反弹-单日新增43宗创3个月新高](http://m.china.caixin.com/m/2020-11-21/101631096.html) ![](assets/new.png)  
-- [2020-11-21-【境内疫情观察】上海新增2例本土确诊病例（11月20日）](http://m.database.caixin.com/m/2020-11-21/101631024.html) ![](assets/new.png)  
-- [2020-11-21-大流行手记|11月20日：WHO不建议用瑞德西韦治疗新冠-首批中国疫苗运抵巴西](https://m.caixin.com/m/2020-11-21/101630933.html) ![](assets/new.png)  
-- [2020-11-20-最新海外疫情：新冠感染超5680万-累计死亡超135万](https://m.caixin.com/m/2020-11-20/101630760.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -702,9 +682,6 @@
 </summary>
 
 
-- [2020-11-20-科技爱好者周刊（第-134-期）：未来的游戏业比现在大100倍](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html) ![](assets/new.png)  
-- [2020-11-13-科技爱好者周刊（第-133-期）：贵州变瑞士，有没有可能？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html) ![](assets/new.png)  
-- [2020-11-06-科技爱好者周刊（第-132-期）：快能力和慢能力](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -737,6 +714,26 @@
 </summary>
 
 
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1054,6 +1051,18 @@
 </summary>
 
 
+- [2020-11-25-求推荐关于计算机网络的书籍](https://www.v2ex.com/t/729114) ![](assets/new.png)  
+- [2020-11-25-解决-Big-Sur-外接鼠标拖拽窗口掉帧问题](https://www.v2ex.com/t/729113) ![](assets/new.png)  
+- [2020-11-25-除了-APKPure-还有那些应用商店可以更新-Google-Play-上的-APP？](https://www.v2ex.com/t/729111) ![](assets/new.png)  
+- [2020-11-25-苹果专门搞了个针对-mac-优化的-tensorflow](https://www.v2ex.com/t/729109) ![](assets/new.png)  
+- [2020-11-25-小程序或者-app-是否可以通过语音代替手操作](https://www.v2ex.com/t/729108) ![](assets/new.png)  
+- [2020-11-25-mbp-用什么蓝牙鼠标延迟比较低？现在在用罗技的-M590，延迟想打人](https://www.v2ex.com/t/729107) ![](assets/new.png)  
+- [2020-11-25-成都华阳附近的房子很难出租么？两个月了看得人都没有](https://www.v2ex.com/t/729106) ![](assets/new.png)  
+- [2020-11-25-一个-msvc-与-gcc/clang-不一致的例子，哪边是对的？](https://www.v2ex.com/t/729105) ![](assets/new.png)  
+- [2020-11-25-稍微研究了-redis-的-rdb-文件格式](https://www.v2ex.com/t/729104) ![](assets/new.png)  
+- [2020-11-25-想转行半导体、芯片行业-,Chisel、PyMTL-这些语言要学一下吗](https://www.v2ex.com/t/729102) ![](assets/new.png)  
+- [2020-11-25-有人用过-void-Linux-吗？](https://www.v2ex.com/t/729100) ![](assets/new.png)  
+- [2020-11-25-面试官说在长期大型项目上-React-比-Vue-强太多，真的嘛？](https://www.v2ex.com/t/729099) ![](assets/new.png)  
 - [2020-11-25-出租房，想买不联网的指纹锁，求推荐](https://www.v2ex.com/t/729098) ![](assets/new.png)  
 - [2020-11-25-闲鱼的验机报告那么不靠谱么？官网旗舰店买的无拆修机子，被验证为已更换产品的序列号](https://www.v2ex.com/t/729096) ![](assets/new.png)  
 - [2020-11-25-昨儿逛论坛，看到一张-CAD-的界面，上面有个方块很有意思。Javascript-实现这个是不是很难？](https://www.v2ex.com/t/729094) ![](assets/new.png)  
@@ -1062,18 +1071,6 @@
 - [2020-11-25-怎么能知道别人是不是通过代理访问我的网站呢](https://www.v2ex.com/t/729088) ![](assets/new.png)  
 - [2020-11-25-iPhone-12-下截屏有时反应较慢](https://www.v2ex.com/t/729087) ![](assets/new.png)  
 - [2020-11-25-iMac-原来也不需要关机](https://www.v2ex.com/t/729085) ![](assets/new.png)  
-- [2020-11-25-新项目怎么开展功能测试，有队友吗，说说思路和实例。感谢感谢！](https://www.v2ex.com/t/729084) ![](assets/new.png)  
-- [2020-11-25-LCD-老化方面的问题](https://www.v2ex.com/t/729080) ![](assets/new.png)  
-- [2020-11-25-没个-1T-存储的手机都不好意思用淘宝了](https://www.v2ex.com/t/729079) ![](assets/new.png)  
-- [2020-11-25-Parallels-Desktop-16-黑五限时-8-折优惠！](https://www.v2ex.com/t/729078) ![](assets/new.png)  
-- [2020-11-25-原生支持-ARM-以后，-Mac-App-Store-的-Electron-应用大小得翻倍了](https://www.v2ex.com/t/729077) ![](assets/new.png)  
-- [2020-11-25-关于安卓开发环境搭建问题](https://www.v2ex.com/t/729076) ![](assets/new.png)  
-- [2020-11-25-是否有工具能把鼠标右键映射到成空格？](https://www.v2ex.com/t/729075) ![](assets/new.png)  
-- [2020-11-25-求兼容测试，-Xcode-11-能否跑在-M1-Mac-上？](https://www.v2ex.com/t/729072) ![](assets/new.png)  
-- [2020-11-25-阿里云的云服务器上的-tcp-连接数为-3000,怎么推算出同一时间单位内,有多少-HTTP-并发量呢？](https://www.v2ex.com/t/729071) ![](assets/new.png)  
-- [2020-11-25-SpyderX-Pro-校色仪偏绿?](https://www.v2ex.com/t/729069) ![](assets/new.png)  
-- [2020-11-25-Pin-极简记录-&-趋势统计的绿色-App](https://www.v2ex.com/t/729068) ![](assets/new.png)  
-- [2020-11-25-IPv6-普通上网时,-每个人应该被分配多少地址?](https://www.v2ex.com/t/729067) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,6 +1082,7 @@
 </summary>
 
 
+- [2020-11-25-轻松玩转全链路监控-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13991&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778727%3Futm_content%3Dg_1000209954%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-OpenKruise：阿里巴巴-双11-全链路应用的云原生部署基座-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13990&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778728%3Futm_content%3Dg_1000209953%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-健壮的数据仓库项目搭建-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13989&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-揭秘双11丝滑般剁手之路背后的网络监控技术-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13988&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778707%3Futm_content%3Dg_1000209952%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1104,7 +1102,6 @@
 - [2020-11-25-我看技术人的成长路径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-质量内建——缺陷管理实践分享-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-25-AI云原生浅谈：好未来AI中台实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13972&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778470%3Futm_content%3Dg_1000207511%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-25-双十一消费近万亿！1亿人见证数字物流，“尾款人”收货更快了？购物狂欢七大趋势浮现-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13971&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778497%3Futm_content%3Dg_1000207510%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

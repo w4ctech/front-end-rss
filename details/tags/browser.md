@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-26 05:07:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 05:23:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,9 +45,12 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-11-22-Spring中的Controller-，Service，Dao是不是线程安全的？](https://www.ershicimi.com/p/a5130710eb2dfcc37633257c999510de) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-11-26-MBP-2017-late-升级-Big-Sur-之后-Preview-卡顿](https://www.v2ex.com/t/729395) 
 - [2020-11-26-URL-中的-#-原来是这个意思](https://toutiao.io/k/7kpbo94) 
 - [2020-11-26-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
+- [2020-11-26-漏洞银行获“第三届进博会”网络安全保障工作致谢函](https://sec.thief.one/article_content?a_id=572e57d1a4d0197f57224b6ea86fb030) 
+- [2020-11-26-金融行业网络安全等级保护测评、实施标准正式发布-附下载](https://sec.thief.one/article_content?a_id=7465c8bd5f47d5ca68d755dfd9211b89) 
+- [2020-11-26-Web安全:服务器包含注入](https://sec.thief.one/article_content?a_id=a1a0ddf860064dc50a6117b197f444cb) 
+- [2020-11-26-【安全圈】又打压!外媒:印度再禁43款App,多数来自中国](https://sec.thief.one/article_content?a_id=0f0e866e274850adbadecd53e6acffb4) 
 - [2020-11-25-ATT&CK驱动下的安全运营数据分析,如何“落地”?](https://sec.thief.one/article_content?a_id=e427fd37b5c54eb2afb0abb39c18329d) 
 - [2020-11-25-招聘-|-Base上海字节跳动多个安全风控岗位来袭](https://sec.thief.one/article_content?a_id=f5bc31824232604f37763232787cff08) 
 - [2020-11-25-孟买疑遭APT攻击致大规模停电:APT威胁日趋加重下如何布防安全](https://sec.thief.one/article_content?a_id=9477b130acbe8712ca2d12454aceb737) 
@@ -68,7 +71,3 @@
 - [2020-11-23-国内唯一安全企业!360政企安全集团连续三年摘得“世界互联网领先...](https://sec.thief.one/article_content?a_id=2889d0161e54ed59c0038a93665474ac) 
 - [2020-11-23-【安全圈】沈阳“黑客”用虚拟手机号骗领“饿了么”红包4万余元-被...](https://sec.thief.one/article_content?a_id=1513af8f7e2f97538d9ce797bbc57abc) 
 - [2020-11-23-AIoT安全峰会议题回顾|打开IoT设备分析的第一扇门](https://sec.thief.one/article_content?a_id=70f1b375ddce913a48c881884a035003) 
-- [2020-11-23-聚焦乌镇|奇安信发布业内首个特权访问安全解决方案-实现访问权限精...](https://sec.thief.one/article_content?a_id=9b131ca96c3fbccd2fff579afb7f7b39) 
-- [2020-11-23-绿盟安全信息库解决方案NSID入围世界互联网领先科技成果](https://sec.thief.one/article_content?a_id=4ac19df2a881afb68b4b73ed01ef6a53) 
-- [2020-11-23-物联网安全系列之探索IoT通信安全的研究之道](https://sec.thief.one/article_content?a_id=23cc7c715817e4350367bd69781b3c5b) 
-- [2020-11-23-【报名通道开启】贝壳找房2020-ICS安全技术峰会​](https://sec.thief.one/article_content?a_id=de9fe74d6d659f5289be88ea07cca606) 

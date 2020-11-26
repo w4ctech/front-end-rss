@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-26 20:07:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 20:24:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -208,6 +208,7 @@
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【前端之巅】小程序大商机，低门槛hold全栈开发怎么做？-|-活动推荐](https://www.ershicimi.com/p/13f06abcc1bcb7e459dba8ff576bba44)
+- [【全栈前端精选】大型小程序如何研发提效](https://www.ershicimi.com/p/99af0a3a474bf38889fa0f185a6c32f2)
 - [【凹凸实验室】京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/)
 - [【凹凸实验室】Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/)
 - [【凹凸实验室】京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/)
@@ -223,7 +224,6 @@
 - [【凹凸实验室】Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/)
 - [【凹凸实验室】玩转-Taro-跨端之-flex-布局篇](https://aotu.io/notes/2019/09/25/taro-flex/)
 - [【凹凸实验室】邀您参加「Taro-x-小程序·云开发」物料开发竞赛](https://aotu.io/notes/2019/07/01/taro-ext-action/)
-- [【凹凸实验室】Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -341,7 +341,7 @@
 - [【前端开发博客】阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497)
 - [【全栈前端精选】2020年你不应该错过的CSS新特性](https://www.ershicimi.com/p/5220da5e95b7871126a0bdca53139aea)
 - [【前端宇宙】2020年你不应该错过的CSS新特性](https://www.ershicimi.com/p/3b2a64f15fbeb0d22cb4eaa46798be45)
-- [【前端瓶子君】CSS进阶知识扫盲](https://www.ershicimi.com/p/576045b4b5ddf86491dc0a4e51e330bb)
+- [【前端瓶子君】3分钟教你用css3做一个求婚小动画！](https://www.ershicimi.com/p/101ba189865f1ede3c15d39497d6285b)
 - [【Nodejs技术栈】超魔性神曲《Serverless-之歌》，酷炫洗脑！](https://www.ershicimi.com/p/f989950b952885d7b8eb3f1bc58e7273)
 - [【张鑫旭-鑫空间-鑫生活】HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/)
 - [【张鑫旭-鑫空间-鑫生活】图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/)
@@ -546,6 +546,7 @@
 
 
 
+- [【前端瓶子君】前端看得懂的《Nginx-入门指南》](https://www.ershicimi.com/p/c0982d6a5e505cb3e54a72ff5319d213)
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【前端日刊】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/3f31bee0e974ab26ac32528f2662869b)

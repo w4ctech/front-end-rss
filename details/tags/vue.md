@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-26 10:05:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 10:08:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -56,6 +56,7 @@
 - [2020-11-22-为什么-Vue3-的-ref-让很多大佬操碎了心？](https://www.ershicimi.com/p/0c65d6a3916c18830c3a9075796cfbac) 
 - [2020-11-17-Electron+vue从零开始打造一个本地播放器](https://www.ershicimi.com/p/d13702e128a70a449f44d5bd86b6f209) 
 - [2020-11-14-Taro-支持使用-Vue3-开发小程序](https://www.ershicimi.com/p/c2fa0c24ccb13341f2bc2c01ac823aa8) 
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) 
 - [2017-07-17-Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/) 
 - [2016-12-28-一个栗子实践vue2.0与1.0的区别](https://aotu.io/notes/2016/12/28/vue-clock/) 

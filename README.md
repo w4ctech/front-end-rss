@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 03:33:50，:rocket: 更新条数: +1028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 03:47:30，:rocket: 更新条数: +1029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,13 @@
 </summary>
 
 
+- [2020-11-26-黑五-Mac-的一些软件打折汇总](https://www.v2ex.com/t/729413) ![](assets/new.png)  
+- [2020-11-26-蚂蚁金服杭州招聘-Java-开发](https://www.v2ex.com/t/729411) ![](assets/new.png)  
+- [2020-11-26-https://wccftech.com/2021--iPhone--13-usb-c-charging-not-lightning/](https://www.v2ex.com/t/729410) ![](assets/new.png)  
+- [2020-11-26-15-块出-iStat-Menus-买错了-20-买的](https://www.v2ex.com/t/729409) ![](assets/new.png)  
+- [2020-11-26-用移动硬盘和机载硬盘装-2-个版本的系统，靠谱么](https://www.v2ex.com/t/729408) ![](assets/new.png)  
+- [2020-11-26-28-岁的-Java-开发、offer-选择问题，希望大伙帮忙参考下](https://www.v2ex.com/t/729407) ![](assets/new.png)  
+- [2020-11-26-人大金仓的驱动包有没有官方下载地址呀](https://www.v2ex.com/t/729406) ![](assets/new.png)  
 - [2020-11-26-整理了近半年来大厂面试的高频题](https://www.v2ex.com/t/729404) ![](assets/new.png)  
 - [2020-11-26-使用腾讯云·云开发开发者都遇到哪些问题呢？](https://www.v2ex.com/t/729403) ![](assets/new.png)  
 - [2020-11-26-平安信用卡的兄弟们看一下，在-iubenda-上使用信用卡购买服务，输入手机验证码每次都系统繁忙。](https://www.v2ex.com/t/729401) ![](assets/new.png)  
@@ -1063,17 +1070,10 @@
 - [2020-11-26-MBP-2017-late-升级-Big-Sur-之后-Preview-卡顿](https://www.v2ex.com/t/729395) ![](assets/new.png)  
 - [2020-11-26-《-Python-源码剖析》一书有续作么？](https://www.v2ex.com/t/729394) ![](assets/new.png)  
 - [2020-11-26-跑步软件千万别用悦跑圈](https://www.v2ex.com/t/729393) ![](assets/new.png)  
-- [2020-11-26-蛋壳公寓房东上门收房，岁月静好变成碎月禁好？](https://www.v2ex.com/t/729392) ![](assets/new.png)  
 - [2020-11-26-iPhone12-Wi-Fi-断连的问题](https://www.v2ex.com/t/729390) ![](assets/new.png)  
 - [2020-11-26-来分享一下我的工作笔记](https://www.v2ex.com/t/729389) ![](assets/new.png)  
 - [2020-11-26-看到微众银行偷偷修改合同，有没有第三方机构或者平台保存公共合同的方案](https://www.v2ex.com/t/729388) ![](assets/new.png)  
 - [2020-11-26-腾讯云双-11-活动，-1-核-2G3M-轻量-199-元/3-年起，续费-2-折起，还剩-4-天](https://www.v2ex.com/t/729386) ![](assets/new.png)  
-- [2020-11-26-有谁把-mac-mini-当成电视盒子用，使用感受如何](https://www.v2ex.com/t/729383) ![](assets/new.png)  
-- [2020-11-26-美区苹果音乐送一个月了,免费一个月.不取消就-9.99$/月-自动续订](https://www.v2ex.com/t/729382) ![](assets/new.png)  
-- [2020-11-26-求推荐外接-2018-15-Mbp-big-sur-用的鼠标和机械键盘](https://www.v2ex.com/t/729381) ![](assets/new.png)  
-- [2020-11-26-如何预防-cc-攻击？或者有哪些策略可以过滤掉大部分攻击？](https://www.v2ex.com/t/729379) ![](assets/new.png)  
-- [2020-11-26-贝壳找房移动端大量招聘](https://www.v2ex.com/t/729378) ![](assets/new.png)  
-- [2020-11-26-关于验收房需要注意些什么，毛坯商品房](https://www.v2ex.com/t/729377) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

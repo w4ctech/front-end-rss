@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-11-26 03:33:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 03:47:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-26-黑五-Mac-的一些软件打折汇总](https://www.v2ex.com/t/729413) 
+- [2020-11-26-蚂蚁金服杭州招聘-Java-开发](https://www.v2ex.com/t/729411) 
+- [2020-11-26-https://wccftech.com/2021--iPhone--13-usb-c-charging-not-lightning/](https://www.v2ex.com/t/729410) 
+- [2020-11-26-15-块出-iStat-Menus-买错了-20-买的](https://www.v2ex.com/t/729409) 
+- [2020-11-26-用移动硬盘和机载硬盘装-2-个版本的系统，靠谱么](https://www.v2ex.com/t/729408) 
+- [2020-11-26-28-岁的-Java-开发、offer-选择问题，希望大伙帮忙参考下](https://www.v2ex.com/t/729407) 
+- [2020-11-26-人大金仓的驱动包有没有官方下载地址呀](https://www.v2ex.com/t/729406) 
 - [2020-11-26-整理了近半年来大厂面试的高频题](https://www.v2ex.com/t/729404) 
 - [2020-11-26-使用腾讯云·云开发开发者都遇到哪些问题呢？](https://www.v2ex.com/t/729403) 
 - [2020-11-26-平安信用卡的兄弟们看一下，在-iubenda-上使用信用卡购买服务，输入手机验证码每次都系统繁忙。](https://www.v2ex.com/t/729401) 
@@ -14,7 +21,6 @@
 - [2020-11-26-MBP-2017-late-升级-Big-Sur-之后-Preview-卡顿](https://www.v2ex.com/t/729395) 
 - [2020-11-26-《-Python-源码剖析》一书有续作么？](https://www.v2ex.com/t/729394) 
 - [2020-11-26-跑步软件千万别用悦跑圈](https://www.v2ex.com/t/729393) 
-- [2020-11-26-蛋壳公寓房东上门收房，岁月静好变成碎月禁好？](https://www.v2ex.com/t/729392) 
 - [2020-11-26-iPhone12-Wi-Fi-断连的问题](https://www.v2ex.com/t/729390) 
 - [2020-11-26-来分享一下我的工作笔记](https://www.v2ex.com/t/729389) 
 - [2020-11-26-看到微众银行偷偷修改合同，有没有第三方机构或者平台保存公共合同的方案](https://www.v2ex.com/t/729388) 
@@ -35,8 +41,3 @@
 - [2020-11-26-淘宝店铺搜索是崩了么？](https://www.v2ex.com/t/729368) 
 - [2020-11-26-“绿色软件”-就是那种不用安装的软件英文怎么说](https://www.v2ex.com/t/729367) 
 - [2020-11-26-Linux-的-ReusePort-特性](https://www.v2ex.com/t/729364) 
-- [2020-11-26-推广-Spring-Analysis](https://www.v2ex.com/t/729362) 
-- [2020-11-26-敏捷团队的福音](https://www.v2ex.com/t/729360) 
-- [2020-11-26-想找北京的程序员，外包性质，鸟巢附近。](https://www.v2ex.com/t/729359) 
-- [2020-11-26-1124-新政，买房太难了-T.T](https://www.v2ex.com/t/729357) 
-- [2020-11-26-试用期没通过下份工作怎么找？](https://www.v2ex.com/t/729356) 

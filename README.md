@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 02:27:51，:rocket: 更新条数: +1024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 02:34:11，:rocket: 更新条数: +1026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,12 @@
 </summary>
 
 
+- [2020-11-26-“绿色软件”-就是那种不用安装的软件英文怎么说](https://www.v2ex.com/t/729367) ![](assets/new.png)  
+- [2020-11-26-Linux-的-ReusePort-特性](https://www.v2ex.com/t/729364) ![](assets/new.png)  
+- [2020-11-26-推广-Spring-Analysis](https://www.v2ex.com/t/729362) ![](assets/new.png)  
+- [2020-11-26-留给程序员的时间不多了](https://www.v2ex.com/t/729361) ![](assets/new.png)  
+- [2020-11-26-敏捷团队的福音](https://www.v2ex.com/t/729360) ![](assets/new.png)  
+- [2020-11-26-想找北京的程序员，外包性质，鸟巢附近。](https://www.v2ex.com/t/729359) ![](assets/new.png)  
 - [2020-11-26-1124-新政，买房太难了-T.T](https://www.v2ex.com/t/729357) ![](assets/new.png)  
 - [2020-11-26-试用期没通过下份工作怎么找？](https://www.v2ex.com/t/729356) ![](assets/new.png)  
 - [2020-11-26-黑五-setapp-还有-jetbrains，没有优惠了吗？](https://www.v2ex.com/t/729355) ![](assets/new.png)  
@@ -1068,12 +1074,6 @@
 - [2020-11-26-想问下有没有类似这种持续更新的导航网站](https://www.v2ex.com/t/729344) ![](assets/new.png)  
 - [2020-11-26-一个程序员来解答大家的保险问题3](https://www.v2ex.com/t/729342) ![](assets/new.png)  
 - [2020-11-26-老哥帮忙看看,shell-里这是什么原理](https://www.v2ex.com/t/729341) ![](assets/new.png)  
-- [2020-11-26-阿里巴巴-金融--Java--P6-P7-杭州滨江-WORK-LIFE-BALANCE](https://www.v2ex.com/t/729340) ![](assets/new.png)  
-- [2020-11-26-这次真不懂什么是敏捷开发了](https://www.v2ex.com/t/729338) ![](assets/new.png)  
-- [2020-11-26-mac-版-listary](https://www.v2ex.com/t/729337) ![](assets/new.png)  
-- [2020-11-26-有没有在电信云做研发工作或者曾经在哪儿工作过的，请联系我，想了解下电信云上班怎么样](https://www.v2ex.com/t/729336) ![](assets/new.png)  
-- [2020-11-26-macOS-Big-Sur-上-Thunderbird-卡顿严重](https://www.v2ex.com/t/729334) ![](assets/new.png)  
-- [2020-11-26-big-sur-安装-homebrew-后，出现权限错误，有没有大佬知道怎么回事](https://www.v2ex.com/t/729333) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,14 +1128,14 @@
 - [2020-11-26-Flink-轻松理解-Watermark](https://toutiao.io/k/qervuek) ![](assets/new.png)  
 - [2020-11-26-sn0int：半自动化-OSINT-框架和包管理器](https://toutiao.io/k/gt4mvoc) ![](assets/new.png)  
 - [2020-11-26-滴滴客服解决方案平台建设实践](https://toutiao.io/k/6q3fx9m) ![](assets/new.png)  
-- [2020-11-26-讲讲用户的流失预警](https://toutiao.io/k/tnyoxq5) ![](assets/new.png)  
 - [2020-11-26-译-开源的价值是什么？欧盟委员会研究的初步结果](https://toutiao.io/k/d0abc1d) ![](assets/new.png)  
+- [2020-11-26-讲讲用户的流失预警](https://toutiao.io/k/tnyoxq5) ![](assets/new.png)  
 - [2020-11-26-在-Win-10-使用-WSL-2-跑-Docker，C-盘空间不足焦虑症你有吗？](https://toutiao.io/k/89n350t) ![](assets/new.png)  
+- [2020-11-26-译-Cilium：基于-BPF/XDP-实现-K8s-Service-负载均衡-LPC,-2020](https://toutiao.io/k/6my5fe8) ![](assets/new.png)  
 - [2020-11-26-Xrepo：一个现代化的跨平台-C/C++-包管理器](https://toutiao.io/k/hb8e4pn) ![](assets/new.png)  
-- [2020-11-26-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
-- [2020-11-26-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [2020-11-26-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
 - [2020-11-26-推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
+- [2020-11-26-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

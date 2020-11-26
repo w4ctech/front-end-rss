@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-26 15:34:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 15:47:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -16,8 +16,6 @@
 - [2020-11-19-【招聘】北京字节跳动幸福里团队招前端工程师（社招）](https://www.ershicimi.com/p/216fbfc50241bfd7d2db43418239bc6e) 
 - [2020-11-25-高频前端开发面试问题及答案整理](https://www.ershicimi.com/p/b3a93bc5094ea93b2946917738688a5e) 
 - [2020-11-12-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/54f477228ce90c9305051db57a882ecf) 
-- [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
-- [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2020-11-20-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f7a0c514829ee6cfb825327ed2797705) 
 - [2020-11-12-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/853f12e5d2578bad8a5c98ccc396cda9) 
 - [2020-11-18-3-年创业公司成长经历-&&-面试总结](https://www.ershicimi.com/p/680a0ac4a338dc8670d844bb5b075a41) 
@@ -32,6 +30,7 @@
 - [2020-11-11-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/f8720b9ba9028e4081b1345e6367f3c5) 
 - [2020-10-20-阿里前端技术岗发布+内部面试题手册（含P5-P7）](https://www.ershicimi.com/p/5530422518db2c1549a9bb5ab496a15f) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
+- [2020-11-25-面试官就是这么欺负人：new-Object到底占用几个字节？](https://www.ershicimi.com/p/b56f88d1f40b017ef8816508ad42d173) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-10-29-阿里前端技术岗发布+内部面试题参考手册（含P5-P7）](https://www.ershicimi.com/p/f248e5ad233de930e884b7ab29796eec) 
 - [2020-11-26-分享下最近面试遇到的面试题](https://www.v2ex.com/t/729657) 

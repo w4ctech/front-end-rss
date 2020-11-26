@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-26 15:34:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 15:47:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -9,7 +9,6 @@
 
 - [2020-07-14-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) 
 - [2020-11-23-万物皆可快速上手之Electron第一弹](https://www.ershicimi.com/p/494577e39d9d70cad1d01e605399e03a) 
-- [2020-04-07-nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c) 
 - [2020-11-19-怎样从Express-API发送一致的错误响应](https://www.ershicimi.com/p/f2dc7a4fd3838dfa92c7cda398fd4441) 
 - [2020-11-01-理解Koa中间件和洋葱模型](https://www.ershicimi.com/p/11d8bb6470aab48a3daa39c64cd07eba) 
 - [2020-11-16-基于nodejs线上代码热部署原理与实现](https://www.ershicimi.com/p/53d9a863e36a5c67c8387dda20cb581c) 

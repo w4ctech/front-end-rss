@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 06:51:06，:rocket: 更新条数: +3882， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 07:04:09，:rocket: 更新条数: +1028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-11-26-最新疫情：全国新冠累计确诊86490例-内蒙古本土新增9例](https://m.caixin.com/m/2020-11-26/101632583.html) ![](assets/new.png)  
-- [2020-11-26-【境内疫情观察】内蒙古新增9例本土确诊病例（11月25日）](http://m.database.caixin.com/m/2020-11-26/101632600.html) ![](assets/new.png)  
-- [2020-11-26-大流行手记|11月25日：法国宣布三步“解封”计划-美国开始测试新冠疫苗分发网络](https://m.caixin.com/m/2020-11-26/101632481.html) ![](assets/new.png)  
-- [2020-11-25-新冠疫情传播“物染人”和“人染人”并存-非冷链运输也有传播风险](https://m.caixin.com/m/2020-11-25/101632416.html) ![](assets/new.png)  
-- [2020-11-25-天津两起疫情有不同源头-其中之一为进口猪头](https://m.caixin.com/m/2020-11-25/101632216.html) ![](assets/new.png)  
-- [2020-11-25-最新海外疫情：新冠感染超5966万-累计死亡超140万](https://m.caixin.com/m/2020-11-25/101632350.html) ![](assets/new.png)  
-- [2020-11-25-【境内疫情观察】内蒙古新增1例本土疑似病例（11月24日）](http://m.database.caixin.com/m/2020-11-25/101632194.html) ![](assets/new.png)  
-- [2020-11-25-大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html) ![](assets/new.png)  
-- [2020-11-24-江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html) ![](assets/new.png)  
-- [2020-11-24-香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html) ![](assets/new.png)  
-- [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
-- [2020-11-24-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
-- [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
-- [2020-11-23-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
-- [2020-11-23-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
-- [2020-11-23-大流行手记|11月22日：沙特拨5亿美元研发疫苗-爱尔兰拟扑杀境内养殖貂](https://m.caixin.com/m/2020-11-23/101631291.html) ![](assets/new.png)  
-- [2020-11-22-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) ![](assets/new.png)  
-- [2020-11-22-香港单日新增68宗病例-港府拟向确诊者发5000港元津贴](https://m.caixin.com/m/2020-11-22/101631215.html) ![](assets/new.png)  
-- [2020-11-22-【境内疫情观察】内蒙古新增2例本土确诊病例（11月21日）](http://m.database.caixin.com/m/2020-11-22/101631172.html) ![](assets/new.png)  
-- [2020-11-22-大流行手记|11月21日：英国12月起接种新冠疫苗-牛津称抗体可维持6个月](https://m.caixin.com/m/2020-11-22/101631140.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -954,6 +934,11 @@
 </summary>
 
 
+- [2020-11-25-Web-字体-font-family-该如何设置？](https://juejin.im/post/6899271427980001294) ![](assets/new.png)  
+- [2020-11-25-Vue项目打包部署总结](https://juejin.im/post/6899268075284070407) ![](assets/new.png)  
+- [2020-11-25-JS树结构操作:查找、遍历、筛选、树结构和列表结构相互转换](https://juejin.im/post/6899267681959018510) ![](assets/new.png)  
+- [2020-11-25-React-为何要使用链表遍历-Fiber-树](https://juejin.im/post/6899266513665163278) ![](assets/new.png)  
+- [2020-11-25-CSS与SCSS的选择器总结](https://juejin.im/post/6899265256229437454) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,6 +1054,14 @@
 </summary>
 
 
+- [2020-11-26-买了-iPhone-12-系列任何一款的朋友可否说说你们经过一段时间的感受，现在偏好蜂窝数据选项/语音与数据-是-选择《启用-5G》、《自动-5G》还是仅仅《4G/LTE》？对...](https://www.v2ex.com/t/729501) ![](assets/new.png)  
+- [2020-11-26-有办法能拿到-Mac-自带-preview-打开的-pdf-的进度吗?](https://www.v2ex.com/t/729500) ![](assets/new.png)  
+- [2020-11-26-像-App-商城中那些新概念的-App，很多都是个人写的，那种不涉及侵权吗？](https://www.v2ex.com/t/729499) ![](assets/new.png)  
+- [2020-11-26-为啥就不能出一种-12v-dc-的通用电源-Hub-呢？](https://www.v2ex.com/t/729498) ![](assets/new.png)  
+- [2020-11-26-现在有靠谱的来电识别吗？](https://www.v2ex.com/t/729497) ![](assets/new.png)  
+- [2020-11-26-修改-AGPL-v3.0-开源协议的源码，将其用作商用的一部分，这样违法吗？-ps:向被服务方提供源码](https://www.v2ex.com/t/729496) ![](assets/new.png)  
+- [2020-11-26-Switch-要不要买港版？&-Switch-2-有没有动静？](https://www.v2ex.com/t/729495) ![](assets/new.png)  
+- [2020-11-26-请教一个-NoSQL-的常识问题](https://www.v2ex.com/t/729494) ![](assets/new.png)  
 - [2020-11-26-看了一圈充电器，适合-MacbookPro19-款的，比较合适的是小米-90W-的那个，可是已经停产了……](https://www.v2ex.com/t/729493) ![](assets/new.png)  
 - [2020-11-26-成都Starteos招聘区块链后端工程师（17-30k）](https://www.v2ex.com/t/729490) ![](assets/new.png)  
 - [2020-11-26-你要的星辰与大海，这里都有](https://www.v2ex.com/t/729489) ![](assets/new.png)  
@@ -1081,14 +1074,6 @@
 - [2020-11-26-分享个-typescript-全局-interface-的技巧](https://www.v2ex.com/t/729477) ![](assets/new.png)  
 - [2020-11-26-Ubuntu20-每次升级内核都需要重新安装-Nvidia-显卡驱动，为什么需要重装？有什么方法能够一劳永逸吗？](https://www.v2ex.com/t/729476) ![](assets/new.png)  
 - [2020-11-26-百度两款应用收集用户敏感数据被-Google-短暂下架](https://www.v2ex.com/t/729474) ![](assets/new.png)  
-- [2020-11-26-Big-Sur-每次重启打开启动台,-APP-的排列都不一样?](https://www.v2ex.com/t/729473) ![](assets/new.png)  
-- [2020-11-26-Javascript-小技巧，控制台输出样式控制](https://www.v2ex.com/t/729472) ![](assets/new.png)  
-- [2020-11-26-x86-版本-Big-Sur-怎么安装运行-iOS-应用？](https://www.v2ex.com/t/729471) ![](assets/new.png)  
-- [2020-11-26-在闲鱼上出售苹果表带,我的表带是和苹果表原配的,-发票在一起,买家要发票,给她没关系吧?](https://www.v2ex.com/t/729470) ![](assets/new.png)  
-- [2020-11-26-豆瓣-FM-桌面瀏覽器打開一片空白](https://www.v2ex.com/t/729467) ![](assets/new.png)  
-- [2020-11-26-大佬们，有没有人玩过-mac-端的无人值守的远程登陆？](https://www.v2ex.com/t/729466) ![](assets/new.png)  
-- [2020-11-26-求教，内网中了-arp-断网病毒怎么破](https://www.v2ex.com/t/729465) ![](assets/new.png)  
-- [2020-11-26-迫于未来大龄危机的压力，想有空搞搞电商之类的？](https://www.v2ex.com/t/729464) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1100,6 +1085,7 @@
 </summary>
 
 
+- [2020-11-26-有赞统一接入层架构演进-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13996&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F311677441%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-26-深度-|-每秒1.4亿次！再度刷新TPS记录的PolarDB如何应对双11“尖峰时刻”？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13995&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778595%3Futm_content%3Dg_1000210311%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-26-微服务框架Go-Micro集成Nacos实战之服务注册与发现-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13994&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777833%3Futm_content%3Dg_1000210310%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-26-阿里云Edge-Plus私享会正式起航，首场活动聚焦CDN在视频直播领域的最佳实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13993&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778506%3Futm_content%3Dg_1000209956%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1119,7 +1105,6 @@
 - [2020-11-26-申通完美支撑“双11”-亿级包裹背后的云基础设施-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13979&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778563%3Futm_content%3Dg_1000207911%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-26-这些表情包你有吗？来-Battle-啊-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13978&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F307672306%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-26-鹰角网络全球海量数据，一键轻松统一存储与处理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13977&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778559%3Futm_content%3Dg_1000207910%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-KubeVela-正式开源：一个高可扩展的云原生应用平台与核心引擎-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13976&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778543%3Futm_content%3Dg_1000207909%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

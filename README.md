@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 18:07:45，:rocket: 更新条数: +3893， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 18:27:46，:rocket: 更新条数: +3893， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1152,8 +1152,8 @@
 - [2020-11-26-讲讲用户的流失预警](https://toutiao.io/k/tnyoxq5) ![](assets/new.png)  
 - [2020-11-26-译-开源的价值是什么？欧盟委员会研究的初步结果](https://toutiao.io/k/d0abc1d) ![](assets/new.png)  
 - [2020-11-26-Xrepo：一个现代化的跨平台-C/C++-包管理器](https://toutiao.io/k/hb8e4pn) ![](assets/new.png)  
-- [2020-11-26-分布式任务调度平台-xxl-job](https://toutiao.io/k/6s34p53) ![](assets/new.png)  
 - [2020-11-26-译-Cilium：基于-BPF/XDP-实现-K8s-Service-负载均衡-LPC,-2020](https://toutiao.io/k/6my5fe8) ![](assets/new.png)  
+- [2020-11-26-分布式任务调度平台-xxl-job](https://toutiao.io/k/6s34p53) ![](assets/new.png)  
 - [2020-11-26-对一款-Golang-弱口令爆破工具代码的分析及改进](https://toutiao.io/k/59mt0u6) ![](assets/new.png)  
 - [2020-11-26-译-可观察性导读：所见即所得](https://toutiao.io/k/1sxx64c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

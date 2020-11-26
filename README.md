@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 20:48:04，:rocket: 更新条数: +3894， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 21:03:52，:rocket: 更新条数: +3894， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-26-为什么国行的安卓手机在-Google-Pay-添加卡会一直卡在“银行正在验证您的卡”](https://www.v2ex.com/t/729686) ![](assets/new.png)  
 - [2020-11-26-移动的出口带宽还有救吗](https://www.v2ex.com/t/729685) ![](assets/new.png)  
 - [2020-11-26-刚才在苏宁易购的-APP-中买了一个-Airpods-Pro，有点慌](https://www.v2ex.com/t/729684) ![](assets/new.png)  
 - [2020-11-26-旧楼加装电梯也能踩着雷，真是太难了。](https://www.v2ex.com/t/729683) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-11-26-喷了几个月的联通-4g，发现喷错了。。](https://www.v2ex.com/t/729666) ![](assets/new.png)  
 - [2020-11-26-关于验证码机制，验证码是走前端生成还是后端生成好？](https://www.v2ex.com/t/729665) ![](assets/new.png)  
 - [2020-11-26-新-MacBook-的屏幕切换速度令人惊艳](https://www.v2ex.com/t/729661) ![](assets/new.png)  
-- [2020-11-26-RX550-的兼容性问题](https://www.v2ex.com/t/729659) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

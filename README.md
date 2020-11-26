@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 23:07:43，:rocket: 更新条数: +3894， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 23:23:46，:rocket: 更新条数: +3894， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -278,6 +278,8 @@
 </summary>
 
 
+- [2020-11-26-用一个实战项目快速入门VUE3.0！](https://www.ershicimi.com/p/b1d7a0c795534b95f9f23755e07a747b) ![](assets/new.png)  
+- [2020-11-26-秒杀其他按键精灵，支持VS-Code，这个JavaScript自动化软件居然还有人不知道](https://www.ershicimi.com/p/fe88cab6dafd556fd0a49b054de51e81) ![](assets/new.png)  
 - [2020-11-25-高频前端开发面试问题及答案整理](https://www.ershicimi.com/p/b3a93bc5094ea93b2946917738688a5e) ![](assets/new.png)  
 - [2020-11-24-又作什么妖？会-Vue-也是错……](https://www.ershicimi.com/p/20aab5ff4b79a6352b748ff0229b3636) ![](assets/new.png)  
 - [2020-11-24-设计一个JavaScript插件系统](https://www.ershicimi.com/p/cf153ddca53bd8709d7a88658507b833) ![](assets/new.png)  
@@ -296,8 +298,6 @@
 - [2020-11-14-一个人竟然撸了一个抖音-App](https://www.ershicimi.com/p/f647b388f2e51558cc1f65700a491cd4) ![](assets/new.png)  
 - [2020-11-14-2020年10月Github最热门的JavaScript开源项目](https://www.ershicimi.com/p/efb022becfd9e1cf64cb206e4a44751b) ![](assets/new.png)  
 - [2020-11-13-15条你可能不知道的JS高效技巧](https://www.ershicimi.com/p/9e801bd5e4599fe81cade197b879a74d) ![](assets/new.png)  
-- [2020-11-12-Facebook-新一代-React-状态管理库-Recoil](https://www.ershicimi.com/p/d5df6051305755a3409fff1b162f29f8) ![](assets/new.png)  
-- [2020-11-11-包邮送8本《前端开发核心知识进阶》，突破前端开发技术瓶颈就靠它](https://www.ershicimi.com/p/b49d922a91fb8d44f9ec4047dca8ff19) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -892,6 +892,11 @@
 </summary>
 
 
+- [2020-11-26-一个“举债”1.8亿投身开源的人](https://www.ershicimi.com/p/be9c1eb2ff2c70f2b38d1540c24902ff) ![](assets/new.png)  
+- [2020-11-26-同样的能力，为什么开发小程序要比App简单100倍？](https://www.ershicimi.com/p/3a245b0a234a8299dc96a16b5e90824c) ![](assets/new.png)  
+- [2020-11-26-防患于未然，应对“删库跑路”的一种解决思路](https://www.ershicimi.com/p/b1e0785dc283f6f62de4f48924f29d43) ![](assets/new.png)  
+- [2020-11-26-我是一名程序员，我要感谢......-｜-Q福利](https://www.ershicimi.com/p/60873e0b57966bffa40b270cb1d56586) ![](assets/new.png)  
+- [2020-11-26-美国重申中兴威胁美国国家安全，12-月将对华为做出最终裁决](https://www.ershicimi.com/p/65df2eeea4115ad80b460e76d0732450) ![](assets/new.png)  
 - [2020-11-25-摁住巨头：腾讯阿里们要小心了？](https://www.ershicimi.com/p/3fdb8edde2ac0b7e210523dd634db04a) ![](assets/new.png)  
 - [2020-11-25-InfoQ出品：《云原生的技术探索与落地实践》研究报告（附下载）](https://www.ershicimi.com/p/767639bf4997422fe77fd73fa66c9a89) ![](assets/new.png)  
 - [2020-11-25-腾讯、蚂蚁、华为等大厂是如何玩转-DevOps-的？｜-QCon](https://www.ershicimi.com/p/677e924451f92801ed654359c7e251b0) ![](assets/new.png)  
@@ -907,11 +912,6 @@
 - [2020-11-23-AI-赋能机器视觉：摄像机踏入“软件定义”新时代-|-Q推荐](https://www.ershicimi.com/p/50f15d61ff89123c8030dfeeb89364dd) ![](assets/new.png)  
 - [2020-11-23-网易严选如何建设-DevOps-工具链？](https://www.ershicimi.com/p/2f891370f477a5d0cd54f11da9616f2c) ![](assets/new.png)  
 - [2020-11-23-Flutter-的新功能、Dart-开发工具以及一行神奇的-CSS-代码-|-Google-开发者大](https://www.ershicimi.com/p/20edb7b9e9de89967f86cc634138401e) ![](assets/new.png)  
-- [2020-11-22-雷军回应“小米手机都是中低端”-；苹果承认iPhone12绿屏；华为卖荣耀，员工可选两种补偿方案-|](https://www.ershicimi.com/p/a3f39513c13d16817cf9a500b6bfa4b7) ![](assets/new.png)  
-- [2020-11-22-InfoQ-独家对话-|-工业互联网开启宝安的产业新发展](https://www.ershicimi.com/p/89cece8bffcf7ab596e68429aa5bac72) ![](assets/new.png)  
-- [2020-11-22-AWS上云钜惠月来袭，白皮书+万元礼包，理论到实战一次搞定！｜-Q推荐](https://www.ershicimi.com/p/6c003302e8ebb7a93db629d2d88cb8b4) ![](assets/new.png)  
-- [2020-11-22-NVIDIA专家手把手教你30分钟实现基于Python的路况目标检测系统-｜-Q推荐](https://www.ershicimi.com/p/845de6179d00b9f6640d71d049bb5b24) ![](assets/new.png)  
-- [2020-11-22-2020-Google-开发者大会：Android-和-Flutter-有哪些更新？](https://www.ershicimi.com/p/2fd02eac90f5d656e3272de42f3210c9) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -954,10 +954,10 @@
 </summary>
 
 
+- [2020-11-26-什么是AVIF？如何在你的网站上使用AV1格式图像](https://juejin.im/post/6899496770280095752) ![](assets/new.png)  
 - [2020-11-26-深入了解前端监控原理](https://juejin.im/post/6899430989404045320) ![](assets/new.png)  
 - [2020-11-26-谈谈隐式调用的实际用途](https://juejin.im/post/6899341884435464206) ![](assets/new.png)  
 - [2020-11-26-JS实例对象与new命令](https://juejin.im/post/6899340322532163591) ![](assets/new.png)  
-- [2020-11-25-值得收藏的前端开发必备工具类函数](https://juejin.im/post/6899326495819300877) ![](assets/new.png)  
 - [2020-11-22-四层和七层反向代理](https://juejin.im/post/6897967355985395719) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-11-26-老哥们问一下，-Steam-现在最佳购买方式是什么，还能用充值卡吗？](https://www.v2ex.com/t/729690) ![](assets/new.png)  
+- [2020-11-26-Go-大数据生态迎来重量级产品-CDS](https://www.v2ex.com/t/729689) ![](assets/new.png)  
 - [2020-11-26-有偿，求-Python-大神](https://www.v2ex.com/t/729687) ![](assets/new.png)  
 - [2020-11-26-为什么国行的安卓手机在-Google-Pay-添加卡会一直卡在“银行正在验证您的卡”](https://www.v2ex.com/t/729686) ![](assets/new.png)  
 - [2020-11-26-移动的出口带宽还有救吗](https://www.v2ex.com/t/729685) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-11-26-黑五入手这个值不值。哈哈哈](https://www.v2ex.com/t/729670) ![](assets/new.png)  
 - [2020-11-26-大家怎么看待发-offer-时给的股票](https://www.v2ex.com/t/729668) ![](assets/new.png)  
 - [2020-11-26-绿屏的苹果-12，是买来就可以发现，还是要用一段时间才可以发现？能否在激活之前发现？](https://www.v2ex.com/t/729667) ![](assets/new.png)  
-- [2020-11-26-喷了几个月的联通-4g，发现喷错了。。](https://www.v2ex.com/t/729666) ![](assets/new.png)  
-- [2020-11-26-关于验证码机制，验证码是走前端生成还是后端生成好？](https://www.v2ex.com/t/729665) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1151,8 +1151,8 @@
 - [2020-11-26-在-Win-10-使用-WSL-2-跑-Docker，C-盘空间不足焦虑症你有吗？](https://toutiao.io/k/89n350t) ![](assets/new.png)  
 - [2020-11-26-讲讲用户的流失预警](https://toutiao.io/k/tnyoxq5) ![](assets/new.png)  
 - [2020-11-26-译-开源的价值是什么？欧盟委员会研究的初步结果](https://toutiao.io/k/d0abc1d) ![](assets/new.png)  
-- [2020-11-26-Xrepo：一个现代化的跨平台-C/C++-包管理器](https://toutiao.io/k/hb8e4pn) ![](assets/new.png)  
 - [2020-11-26-译-Cilium：基于-BPF/XDP-实现-K8s-Service-负载均衡-LPC,-2020](https://toutiao.io/k/6my5fe8) ![](assets/new.png)  
+- [2020-11-26-Xrepo：一个现代化的跨平台-C/C++-包管理器](https://toutiao.io/k/hb8e4pn) ![](assets/new.png)  
 - [2020-11-26-分布式任务调度平台-xxl-job](https://toutiao.io/k/6s34p53) ![](assets/new.png)  
 - [2020-11-26-对一款-Golang-弱口令爆破工具代码的分析及改进](https://toutiao.io/k/59mt0u6) ![](assets/new.png)  
 - [2020-11-26-译-可观察性导读：所见即所得](https://toutiao.io/k/1sxx64c) ![](assets/new.png)  

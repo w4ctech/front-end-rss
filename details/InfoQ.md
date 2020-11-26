@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-11-26 23:07:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 23:23:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-11-26-一个“举债”1.8亿投身开源的人](https://www.ershicimi.com/p/be9c1eb2ff2c70f2b38d1540c24902ff) 
+- [2020-11-26-同样的能力，为什么开发小程序要比App简单100倍？](https://www.ershicimi.com/p/3a245b0a234a8299dc96a16b5e90824c) 
+- [2020-11-26-防患于未然，应对“删库跑路”的一种解决思路](https://www.ershicimi.com/p/b1e0785dc283f6f62de4f48924f29d43) 
+- [2020-11-26-我是一名程序员，我要感谢......-｜-Q福利](https://www.ershicimi.com/p/60873e0b57966bffa40b270cb1d56586) 
+- [2020-11-26-美国重申中兴威胁美国国家安全，12-月将对华为做出最终裁决](https://www.ershicimi.com/p/65df2eeea4115ad80b460e76d0732450) 
 - [2020-11-25-摁住巨头：腾讯阿里们要小心了？](https://www.ershicimi.com/p/3fdb8edde2ac0b7e210523dd634db04a) 
 - [2020-11-25-InfoQ出品：《云原生的技术探索与落地实践》研究报告（附下载）](https://www.ershicimi.com/p/767639bf4997422fe77fd73fa66c9a89) 
 - [2020-11-25-腾讯、蚂蚁、华为等大厂是如何玩转-DevOps-的？｜-QCon](https://www.ershicimi.com/p/677e924451f92801ed654359c7e251b0) 
@@ -20,8 +25,3 @@
 - [2020-11-23-AI-赋能机器视觉：摄像机踏入“软件定义”新时代-|-Q推荐](https://www.ershicimi.com/p/50f15d61ff89123c8030dfeeb89364dd) 
 - [2020-11-23-网易严选如何建设-DevOps-工具链？](https://www.ershicimi.com/p/2f891370f477a5d0cd54f11da9616f2c) 
 - [2020-11-23-Flutter-的新功能、Dart-开发工具以及一行神奇的-CSS-代码-|-Google-开发者大](https://www.ershicimi.com/p/20edb7b9e9de89967f86cc634138401e) 
-- [2020-11-22-雷军回应“小米手机都是中低端”-；苹果承认iPhone12绿屏；华为卖荣耀，员工可选两种补偿方案-|](https://www.ershicimi.com/p/a3f39513c13d16817cf9a500b6bfa4b7) 
-- [2020-11-22-InfoQ-独家对话-|-工业互联网开启宝安的产业新发展](https://www.ershicimi.com/p/89cece8bffcf7ab596e68429aa5bac72) 
-- [2020-11-22-AWS上云钜惠月来袭，白皮书+万元礼包，理论到实战一次搞定！｜-Q推荐](https://www.ershicimi.com/p/6c003302e8ebb7a93db629d2d88cb8b4) 
-- [2020-11-22-NVIDIA专家手把手教你30分钟实现基于Python的路况目标检测系统-｜-Q推荐](https://www.ershicimi.com/p/845de6179d00b9f6640d71d049bb5b24) 
-- [2020-11-22-2020-Google-开发者大会：Android-和-Flutter-有哪些更新？](https://www.ershicimi.com/p/2fd02eac90f5d656e3272de42f3210c9) 

@@ -14905,6 +14905,16 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "用一个实战项目快速入门VUE3.0！",
+        "link": "https://www.ershicimi.com/p/b1d7a0c795534b95f9f23755e07a747b",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "秒杀其他按键精灵，支持VS Code，这个JavaScript自动化软件居然还有人不知道",
+        "link": "https://www.ershicimi.com/p/fe88cab6dafd556fd0a49b054de51e81",
+        "date": "2020-11-26"
+      },
+      {
         "title": "高频前端开发面试问题及答案整理",
         "link": "https://www.ershicimi.com/p/b3a93bc5094ea93b2946917738688a5e",
         "date": "2020-11-25"
@@ -14993,16 +15003,6 @@
         "title": "15条你可能不知道的JS高效技巧",
         "link": "https://www.ershicimi.com/p/9e801bd5e4599fe81cade197b879a74d",
         "date": "2020-11-13"
-      },
-      {
-        "title": "Facebook 新一代 React 状态管理库 Recoil",
-        "link": "https://www.ershicimi.com/p/d5df6051305755a3409fff1b162f29f8",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "包邮送8本《前端开发核心知识进阶》，突破前端开发技术瓶颈就靠它",
-        "link": "https://www.ershicimi.com/p/b49d922a91fb8d44f9ec4047dca8ff19",
-        "date": "2020-11-11"
       }
     ]
   },
@@ -18042,6 +18042,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "一个“举债”1.8亿投身开源的人",
+        "link": "https://www.ershicimi.com/p/be9c1eb2ff2c70f2b38d1540c24902ff",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "同样的能力，为什么开发小程序要比App简单100倍？",
+        "link": "https://www.ershicimi.com/p/3a245b0a234a8299dc96a16b5e90824c",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "防患于未然，应对“删库跑路”的一种解决思路",
+        "link": "https://www.ershicimi.com/p/b1e0785dc283f6f62de4f48924f29d43",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "我是一名程序员，我要感谢...... ｜ Q福利",
+        "link": "https://www.ershicimi.com/p/60873e0b57966bffa40b270cb1d56586",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "美国重申中兴威胁美国国家安全，12 月将对华为做出最终裁决",
+        "link": "https://www.ershicimi.com/p/65df2eeea4115ad80b460e76d0732450",
+        "date": "2020-11-26"
+      },
+      {
         "title": "摁住巨头：腾讯阿里们要小心了？",
         "link": "https://www.ershicimi.com/p/3fdb8edde2ac0b7e210523dd634db04a",
         "date": "2020-11-25"
@@ -18115,31 +18140,6 @@
         "title": "Flutter 的新功能、Dart 开发工具以及一行神奇的 CSS 代码 | Google 开发者大",
         "link": "https://www.ershicimi.com/p/20edb7b9e9de89967f86cc634138401e",
         "date": "2020-11-23"
-      },
-      {
-        "title": "雷军回应“小米手机都是中低端” ；苹果承认iPhone12绿屏；华为卖荣耀，员工可选两种补偿方案 |",
-        "link": "https://www.ershicimi.com/p/a3f39513c13d16817cf9a500b6bfa4b7",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "InfoQ 独家对话 | 工业互联网开启宝安的产业新发展",
-        "link": "https://www.ershicimi.com/p/89cece8bffcf7ab596e68429aa5bac72",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "AWS上云钜惠月来袭，白皮书+万元礼包，理论到实战一次搞定！｜ Q推荐",
-        "link": "https://www.ershicimi.com/p/6c003302e8ebb7a93db629d2d88cb8b4",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "NVIDIA专家手把手教你30分钟实现基于Python的路况目标检测系统 ｜ Q推荐",
-        "link": "https://www.ershicimi.com/p/845de6179d00b9f6640d71d049bb5b24",
-        "date": "2020-11-22"
-      },
-      {
-        "title": "2020 Google 开发者大会：Android 和 Flutter 有哪些更新？",
-        "link": "https://www.ershicimi.com/p/2fd02eac90f5d656e3272de42f3210c9",
-        "date": "2020-11-22"
       }
     ]
   },
@@ -18256,6 +18256,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "什么是AVIF？如何在你的网站上使用AV1格式图像",
+        "link": "https://juejin.im/post/6899496770280095752",
+        "date": "2020-11-26"
+      },
+      {
         "title": "深入了解前端监控原理",
         "link": "https://juejin.im/post/6899430989404045320",
         "date": "2020-11-26"
@@ -18269,11 +18274,6 @@
         "title": "(JS)实例对象与new命令",
         "link": "https://juejin.im/post/6899340322532163591",
         "date": "2020-11-26"
-      },
-      {
-        "title": "值得收藏的前端开发必备工具类函数",
-        "link": "https://juejin.im/post/6899326495819300877",
-        "date": "2020-11-25"
       },
       {
         "title": "四层和七层反向代理",
@@ -18665,6 +18665,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "老哥们问一下， Steam 现在最佳购买方式是什么，还能用充值卡吗？",
+        "link": "https://www.v2ex.com/t/729690",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "Go 大数据生态迎来重量级产品 CDS",
+        "link": "https://www.v2ex.com/t/729689",
+        "date": "2020-11-26"
+      },
+      {
         "title": "有偿，求 Python 大神",
         "link": "https://www.v2ex.com/t/729687",
         "date": "2020-11-26"
@@ -18842,16 +18852,6 @@
       {
         "title": "[上海]VUE 前端工程师，欢迎全栈的你加入哟",
         "link": "https://www.v2ex.com/t/729641",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "不锈钢吸管，喝着有金属的味道，问题大吗？",
-        "link": "https://www.v2ex.com/t/729640",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "应届专科生如何选择？",
-        "link": "https://www.v2ex.com/t/729639",
         "date": "2020-11-26"
       }
     ]
@@ -19044,13 +19044,13 @@
         "date": "2020-11-26"
       },
       {
-        "title": "Xrepo：一个现代化的跨平台 C/C++ 包管理器",
-        "link": "https://toutiao.io/k/hb8e4pn",
+        "title": "[译] Cilium：基于 BPF/XDP 实现 K8s Service 负载均衡 (LPC, 2020)",
+        "link": "https://toutiao.io/k/6my5fe8",
         "date": "2020-11-26"
       },
       {
-        "title": "[译] Cilium：基于 BPF/XDP 实现 K8s Service 负载均衡 (LPC, 2020)",
-        "link": "https://toutiao.io/k/6my5fe8",
+        "title": "Xrepo：一个现代化的跨平台 C/C++ 包管理器",
+        "link": "https://toutiao.io/k/hb8e4pn",
         "date": "2020-11-26"
       },
       {
@@ -19069,18 +19069,38 @@
         "date": "2020-11-26"
       },
       {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-26"
+      },
+      {
         "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
         "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-26"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
         "date": "2020-11-26"
       },
       {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
         "date": "2020-11-26"
       },
       {
@@ -19094,8 +19114,8 @@
         "date": "2020-11-26"
       },
       {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
         "date": "2020-11-26"
       },
       {
@@ -19104,33 +19124,13 @@
         "date": "2020-11-26"
       },
       {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
-        "link": "https://toutiao.io/k/5shq47n",
-        "date": "2020-11-26"
-      },
-      {
         "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
         "link": "https://toutiao.io/k/zzpdj8o",
         "date": "2020-11-26"
       },
       {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
         "date": "2020-11-26"
       },
       {

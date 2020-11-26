@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-26 11:07:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 11:23:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-26-年底了，不为明年打算一下么~？来看看美团外卖](https://www.v2ex.com/t/729604) 
+- [2020-11-26-想给自己买个烘干机，有必要吗？](https://www.v2ex.com/t/729603) 
+- [2020-11-26-iPhone-mini-续航满意](https://www.v2ex.com/t/729602) 
+- [2020-11-26-关于-CVXOPT-求解二次规划问题报错](https://www.v2ex.com/t/729601) 
 - [2020-11-26-为了省几块钱，终于还是上了拼多多的道，但是他的各种圈子实在太恶心了](https://www.v2ex.com/t/729598) 
 - [2020-11-26-微视一夜之间打满了华为-256G-手机](https://www.v2ex.com/t/729596) 
 - [2020-11-26-轻量服务器香港丢包率怎么这么高?](https://www.v2ex.com/t/729595) 
@@ -40,9 +44,3 @@
 - [2020-11-26-遇到一个-hive-sql-的-bug？](https://www.v2ex.com/t/729559) 
 - [2020-11-26-dogedoge.com-挂了吗？](https://www.v2ex.com/t/729558) 
 - [2020-11-26-怀疑自己的-m1-mac-屏幕有色彩问题,迫于无-apple-store,谁能帮忙看下](https://www.v2ex.com/t/729555) 
-- [2020-11-26-m1-版-MacBook-现在能正常使用的-iOS-app-有哪些？](https://www.v2ex.com/t/729554) 
-- [2020-11-26-数据库服务器的优点](https://www.v2ex.com/t/729553) 
-- [2020-11-26-iPad-最强大的剪辑软件-Lumafusion-降价了](https://www.v2ex.com/t/729552) 
-- [2020-11-26-选哪个券商](https://www.v2ex.com/t/729551) 
-- [2020-11-26-多吉搜索-502-是关了还是被攻击了？](https://www.v2ex.com/t/729550) 
-- [2020-11-26-阿里云的云呼叫中心炸了一快一天了](https://www.v2ex.com/t/729549) 

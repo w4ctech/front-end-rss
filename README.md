@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 21:33:35，:rocket: 更新条数: +3884， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 21:47:32，:rocket: 更新条数: +3894， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -716,6 +716,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-26-有偿，求-Python-大神](https://www.v2ex.com/t/729687) ![](assets/new.png)  
 - [2020-11-26-为什么国行的安卓手机在-Google-Pay-添加卡会一直卡在“银行正在验证您的卡”](https://www.v2ex.com/t/729686) ![](assets/new.png)  
 - [2020-11-26-移动的出口带宽还有救吗](https://www.v2ex.com/t/729685) ![](assets/new.png)  
 - [2020-11-26-刚才在苏宁易购的-APP-中买了一个-Airpods-Pro，有点慌](https://www.v2ex.com/t/729684) ![](assets/new.png)  
@@ -1083,7 +1094,6 @@
 - [2020-11-26-绿屏的苹果-12，是买来就可以发现，还是要用一段时间才可以发现？能否在激活之前发现？](https://www.v2ex.com/t/729667) ![](assets/new.png)  
 - [2020-11-26-喷了几个月的联通-4g，发现喷错了。。](https://www.v2ex.com/t/729666) ![](assets/new.png)  
 - [2020-11-26-关于验证码机制，验证码是走前端生成还是后端生成好？](https://www.v2ex.com/t/729665) ![](assets/new.png)  
-- [2020-11-26-新-MacBook-的屏幕切换速度令人惊艳](https://www.v2ex.com/t/729661) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,8 +1151,8 @@
 - [2020-11-26-在-Win-10-使用-WSL-2-跑-Docker，C-盘空间不足焦虑症你有吗？](https://toutiao.io/k/89n350t) ![](assets/new.png)  
 - [2020-11-26-讲讲用户的流失预警](https://toutiao.io/k/tnyoxq5) ![](assets/new.png)  
 - [2020-11-26-译-开源的价值是什么？欧盟委员会研究的初步结果](https://toutiao.io/k/d0abc1d) ![](assets/new.png)  
-- [2020-11-26-译-Cilium：基于-BPF/XDP-实现-K8s-Service-负载均衡-LPC,-2020](https://toutiao.io/k/6my5fe8) ![](assets/new.png)  
 - [2020-11-26-Xrepo：一个现代化的跨平台-C/C++-包管理器](https://toutiao.io/k/hb8e4pn) ![](assets/new.png)  
+- [2020-11-26-译-Cilium：基于-BPF/XDP-实现-K8s-Service-负载均衡-LPC,-2020](https://toutiao.io/k/6my5fe8) ![](assets/new.png)  
 - [2020-11-26-分布式任务调度平台-xxl-job](https://toutiao.io/k/6s34p53) ![](assets/new.png)  
 - [2020-11-26-对一款-Golang-弱口令爆破工具代码的分析及改进](https://toutiao.io/k/59mt0u6) ![](assets/new.png)  
 - [2020-11-26-译-可观察性导读：所见即所得](https://toutiao.io/k/1sxx64c) ![](assets/new.png)  

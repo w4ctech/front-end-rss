@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 13:33:15，:rocket: 更新条数: +1029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 13:47:59，:rocket: 更新条数: +1031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,8 @@
 </summary>
 
 
+- [2020-11-26-Mac-mini-M1-加-2K-带鱼屏无法-HiDPI-的问题](https://www.v2ex.com/t/729643) ![](assets/new.png)  
+- [2020-11-26-谷歌为什么不推出-Gmail-for-Mac?](https://www.v2ex.com/t/729642) ![](assets/new.png)  
 - [2020-11-26-上海VUE-前端工程师，欢迎全栈的你加入哟](https://www.v2ex.com/t/729641) ![](assets/new.png)  
 - [2020-11-26-不锈钢吸管，喝着有金属的味道，问题大吗？](https://www.v2ex.com/t/729640) ![](assets/new.png)  
 - [2020-11-26-应届专科生如何选择？](https://www.v2ex.com/t/729639) ![](assets/new.png)  
@@ -1072,8 +1074,6 @@
 - [2020-11-26-m1-的-macmini-连接两台显示器](https://www.v2ex.com/t/729622) ![](assets/new.png)  
 - [2020-11-26-创建了一个新的文学-wpblog-来玩玩](https://www.v2ex.com/t/729620) ![](assets/new.png)  
 - [2020-11-26-Infuse-Mac-开发中](https://www.v2ex.com/t/729617) ![](assets/new.png)  
-- [2020-11-26-win10-里-frpc-老被当作病毒了](https://www.v2ex.com/t/729614) ![](assets/new.png)  
-- [2020-11-26-请问-KVM-虚拟机通过桥接方式共享使用网卡物理是在一个冲突域吗?](https://www.v2ex.com/t/729613) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

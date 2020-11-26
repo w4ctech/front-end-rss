@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-26 13:33:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 13:47:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-26-Mac-mini-M1-加-2K-带鱼屏无法-HiDPI-的问题](https://www.v2ex.com/t/729643) 
+- [2020-11-26-谷歌为什么不推出-Gmail-for-Mac?](https://www.v2ex.com/t/729642) 
 - [2020-11-26-上海VUE-前端工程师，欢迎全栈的你加入哟](https://www.v2ex.com/t/729641) 
 - [2020-11-26-不锈钢吸管，喝着有金属的味道，问题大吗？](https://www.v2ex.com/t/729640) 
 - [2020-11-26-应届专科生如何选择？](https://www.v2ex.com/t/729639) 

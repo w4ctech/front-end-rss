@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 03:47:30，:rocket: 更新条数: +1029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 04:05:06，:rocket: 更新条数: +3887， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-11-26-11月25日全国新增确诊病例21例-本土病例9例](http://m.china.caixin.com/m/2020-11-26/101632456.html) ![](assets/new.png)  
+- [2020-11-26-大流行手记|11月25日：法国宣布三步“解封”计划-美国开始测试新冠疫苗分发网络](https://m.caixin.com/m/2020-11-26/101632481.html) ![](assets/new.png)  
+- [2020-11-25-新冠疫情传播“物染人”和“人染人”并存-非冷链运输也有传播风险](https://m.caixin.com/m/2020-11-25/101632416.html) ![](assets/new.png)  
+- [2020-11-25-天津两起疫情有不同源头-其中之一为进口猪头](https://m.caixin.com/m/2020-11-25/101632216.html) ![](assets/new.png)  
+- [2020-11-25-最新海外疫情：新冠感染超5966万-累计死亡超140万](https://m.caixin.com/m/2020-11-25/101632350.html) ![](assets/new.png)  
+- [2020-11-25-【境内疫情观察】内蒙古新增1例本土疑似病例（11月24日）](http://m.database.caixin.com/m/2020-11-25/101632194.html) ![](assets/new.png)  
+- [2020-11-25-大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html) ![](assets/new.png)  
+- [2020-11-24-江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html) ![](assets/new.png)  
+- [2020-11-24-香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html) ![](assets/new.png)  
+- [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
+- [2020-11-24-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
+- [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
+- [2020-11-23-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
+- [2020-11-23-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
+- [2020-11-23-大流行手记|11月22日：沙特拨5亿美元研发疫苗-爱尔兰拟扑杀境内养殖貂](https://m.caixin.com/m/2020-11-23/101631291.html) ![](assets/new.png)  
+- [2020-11-22-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) ![](assets/new.png)  
+- [2020-11-22-香港单日新增68宗病例-港府拟向确诊者发5000港元津贴](https://m.caixin.com/m/2020-11-22/101631215.html) ![](assets/new.png)  
+- [2020-11-22-【境内疫情观察】内蒙古新增2例本土确诊病例（11月21日）](http://m.database.caixin.com/m/2020-11-22/101631172.html) ![](assets/new.png)  
+- [2020-11-22-大流行手记|11月21日：英国12月起接种新冠疫苗-牛津称抗体可维持6个月](https://m.caixin.com/m/2020-11-22/101631140.html) ![](assets/new.png)  
+- [2020-11-22-财新记者直击上海浦东医院换防转移医护人员](http://m.photos.caixin.com/m/2020-11-22/101631220.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1054,6 +1074,13 @@
 </summary>
 
 
+- [2020-11-26-wirdguard-的配置，自问很仔细，不知道哪里出问题了，代码贴出，大家帮忙看看？](https://www.v2ex.com/t/729424) ![](assets/new.png)  
+- [2020-11-26-电话客服买-ac-会更便宜？](https://www.v2ex.com/t/729421) ![](assets/new.png)  
+- [2020-11-26-16-寸-mbp-咋涨价了？](https://www.v2ex.com/t/729420) ![](assets/new.png)  
+- [2020-11-26-坐标杭州，-外包到海康，-规定是-965-但是肯定是有加班甚至-996-的。。但是给的还行？](https://www.v2ex.com/t/729419) ![](assets/new.png)  
+- [2020-11-26-地铁房转租-6-号线主卧有阳台-25-平左右-1900](https://www.v2ex.com/t/729418) ![](assets/new.png)  
+- [2020-11-26-靠这份算法模板，字节、Uber-一路开绿灯](https://www.v2ex.com/t/729417) ![](assets/new.png)  
+- [2020-11-26-魔都买房到处碰碰运气](https://www.v2ex.com/t/729414) ![](assets/new.png)  
 - [2020-11-26-黑五-Mac-的一些软件打折汇总](https://www.v2ex.com/t/729413) ![](assets/new.png)  
 - [2020-11-26-蚂蚁金服杭州招聘-Java-开发](https://www.v2ex.com/t/729411) ![](assets/new.png)  
 - [2020-11-26-https://wccftech.com/2021--iPhone--13-usb-c-charging-not-lightning/](https://www.v2ex.com/t/729410) ![](assets/new.png)  
@@ -1067,13 +1094,6 @@
 - [2020-11-26-成都的交通状况如何?](https://www.v2ex.com/t/729400) ![](assets/new.png)  
 - [2020-11-26-18-年-8-月买的-mbp，两年保修刚过没几个月，主板就坏了。官方太贵了，想问下深圳有哪些比较靠谱的第三方修电脑的店](https://www.v2ex.com/t/729398) ![](assets/new.png)  
 - [2020-11-26-如何获取电脑上所有程序的详细信息，特别是路径、版本](https://www.v2ex.com/t/729396) ![](assets/new.png)  
-- [2020-11-26-MBP-2017-late-升级-Big-Sur-之后-Preview-卡顿](https://www.v2ex.com/t/729395) ![](assets/new.png)  
-- [2020-11-26-《-Python-源码剖析》一书有续作么？](https://www.v2ex.com/t/729394) ![](assets/new.png)  
-- [2020-11-26-跑步软件千万别用悦跑圈](https://www.v2ex.com/t/729393) ![](assets/new.png)  
-- [2020-11-26-iPhone12-Wi-Fi-断连的问题](https://www.v2ex.com/t/729390) ![](assets/new.png)  
-- [2020-11-26-来分享一下我的工作笔记](https://www.v2ex.com/t/729389) ![](assets/new.png)  
-- [2020-11-26-看到微众银行偷偷修改合同，有没有第三方机构或者平台保存公共合同的方案](https://www.v2ex.com/t/729388) ![](assets/new.png)  
-- [2020-11-26-腾讯云双-11-活动，-1-核-2G3M-轻量-199-元/3-年起，续费-2-折起，还剩-4-天](https://www.v2ex.com/t/729386) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,8 +1139,8 @@
 - [2020-11-26-URL-中的-#-原来是这个意思](https://toutiao.io/k/7kpbo94) ![](assets/new.png)  
 - [2020-11-26-每个程序员都应该知道的延迟数字](https://toutiao.io/k/pv1wt7h) ![](assets/new.png)  
 - [2020-11-26-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
-- [2020-11-26-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
 - [2020-11-26-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
+- [2020-11-26-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
 - [2020-11-26-怎样提高代码质量？](https://toutiao.io/k/199j35o) ![](assets/new.png)  
 - [2020-11-26-分布式一致性协议：CAP、BASE、NWR](https://toutiao.io/k/2kudebn) ![](assets/new.png)  
 - [2020-11-26-这些未在-Spark-SQL-文档中说明的优化措施，你知道吗？](https://toutiao.io/k/n4dqtax) ![](assets/new.png)  

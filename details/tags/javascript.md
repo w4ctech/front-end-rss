@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-26 23:23:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 23:33:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -30,7 +30,6 @@
 - [2020-11-04-Web-Component-会是前端未来吗？](https://www.ershicimi.com/p/631062c7999138e04ace05de7b9e56ed) 
 - [2020-11-25-优化-JS-条件语句的-5-个技巧](https://www.ershicimi.com/p/3bf0138638c78f91a429cbd6cf828b94) 
 - [2020-11-18-JavaScript-那些写出来会被同事揍的骚操作](https://www.ershicimi.com/p/b198707f9470404036e8af5bf50c2d7d) 
-- [2020-11-16-28-个-JavaScript-编程黑科技：还有这种操作！](https://www.ershicimi.com/p/b5882325e8b6c975236bebab5182aa2f) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-11-21-【第2124期】CommonJS-是如何导致打包后体积增大的？](https://www.ershicimi.com/p/aee79a43444c27e0bb17190a70b3b02f) 

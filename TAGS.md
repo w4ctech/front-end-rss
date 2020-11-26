@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-26 03:10:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 03:25:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -146,7 +146,6 @@
 - [【前端瓶子君】代码规范之-理解ESLint、Prettier、EditorConfig](https://www.ershicimi.com/p/970ad1f46f8b717471a248bc719e733f)
 - [【程序员成长指北】webpack-的异步加载原理及分包策略](https://www.ershicimi.com/p/8463f91e36d6a821cf260aa3b2c87d34)
 - [【InfoQ】构建云原生架构版图：安信证券服务化平台实践](https://www.ershicimi.com/p/c91a276fcf613b34fb6de5dd3a3359e1)
-- [【掘金前端】使用-babel-来生成-javascript-代码](https://juejin.im/post/6899256692615413767)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【编程之上】万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019)
 - [【编程之上】4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4)
@@ -208,7 +207,6 @@
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【前端之巅】小程序大商机，低门槛hold全栈开发怎么做？-|-活动推荐](https://www.ershicimi.com/p/13f06abcc1bcb7e459dba8ff576bba44)
-- [【掘金前端】微信小程序——拍照、压缩转换base64（不留存照片在本地相册）](https://juejin.im/post/6899258694815612942)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
 - [【安全热点】小程序开发中的一些总结](https://sec.thief.one/article_content?a_id=5348cf0e5328efc91a9a9ea874b99681)
 - [......【查看更多】......](./details/tags/miniprogram.md)
@@ -250,6 +248,7 @@
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-134-期）：未来的游戏业比现在大100倍](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html)
 - [【V2EX】ps5-代领游戏疑似翻车，多为用户账户永封。](https://www.v2ex.com/t/729370)
+- [【开发者头条】推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -402,8 +401,8 @@
 - [【技术头条】快手基于-Apache-Flink-的优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13984&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778575%3Futm_content%3Dg_1000208999%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】几种性能测试工具的总结-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13982&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】这些未在-Spark-SQL-文档中说明的优化措施，你知道吗？](https://toutiao.io/k/n4dqtax)
-- [【开发者头条】推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x)
 - [【开发者头条】推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad)
+- [【开发者头条】推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x)
 - [【安全热点】如何通过串行引导加载器读写STM32固件](https://sec.thief.one/article_content?a_id=7999c4dac982f989d159b54012490824)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -437,10 +436,10 @@
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【互联网架构师】Spring中的Controller-，Service，Dao是不是线程安全的？](https://www.ershicimi.com/p/a5130710eb2dfcc37633257c999510de)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】MBP-2017-late-升级-Big-Sur-之后-Preview-卡顿](https://www.v2ex.com/t/729395)
 - [【开发者头条】URL-中的-#-原来是这个意思](https://toutiao.io/k/7kpbo94)
 - [【开发者头条】超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9)
 - [【安全热点】ATT&CK驱动下的安全运营数据分析,如何“落地”?](https://sec.thief.one/article_content?a_id=e427fd37b5c54eb2afb0abb39c18329d)
-- [【安全热点】招聘-|-Base上海字节跳动多个安全风控岗位来袭](https://sec.thief.one/article_content?a_id=f5bc31824232604f37763232787cff08)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -506,7 +505,6 @@
 - [【互联网架构师】还在写-BUG？试试-GitHub-官方代码扫描工具！](https://www.ershicimi.com/p/e7ec8f0a82337b7f258072ff2aad0a5c)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【开发者头条】推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp)
 - [【安全热点】Joker恶意软件的最新攻击技巧:使用Github隐藏有效载荷](https://sec.thief.one/article_content?a_id=93b492e2480927ff980d8e87de1a1d1b)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -576,8 +574,8 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】上海昨日新增5例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipf76z5MHhMt1ZUCLvJUo201126&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】跟不上新冠肺炎病例激增速度-美国被迫缩减疫情接触者追踪工作量](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw5I9yuWmtj0EFTYW0tmV201126&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】韩国单日新增新冠肺炎确诊病例583例-为八个月来新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie6JYyqXFhFTEoQyhB0Qa201126&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】美国平均每40秒就有一人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia7oFjAXyB8OdB47uTQ5O201126&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -592,9 +590,9 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】德国决定延长并收紧防疫措施-默克尔再次呼吁民众团结耐心自律](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQIlMBsOdyumsNO5hXv5V201126&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织非洲区域多个会员国卫生部长呼吁：提高警惕-防止新冠疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiGcT2DgqnMpxZiE5MGYF201126&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】内蒙古额尔古纳一住院陪护人员24日核酸阳性-复核排除阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJbEh5siGdqd7pe5nrC26201125&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】北京新发地市场暂停水产冻品销售储存](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqQn5eKzJKHOZC93RkSRd201126&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】河南25日新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV52pOnsQCgRl7roVfYrO201126&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】福建25日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirWp3v2cHD0P8Itlxi57u201126&isfromapp=1)
 - [【Vue社区】一个无名前端的10年前端路](https://www.ershicimi.com/p/10a56fc96276e001ab49da15daabdd6e)
 - [【Vue社区】微前端究竟是什么，可以带来什么收益](https://www.ershicimi.com/p/11879ec4f4abbd85609414ea254ceecf)
 - [【Vue社区】前端转AI必看!-2020最新版《神经网络与深度学习》中文版更新完毕，PDF免费下载！](https://www.ershicimi.com/p/4c797d0afdaedc72845833c1b1b04bf8)

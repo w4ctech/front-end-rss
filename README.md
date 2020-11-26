@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 03:10:38，:rocket: 更新条数: +794， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 03:25:51，:rocket: 更新条数: +795， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -76,11 +76,11 @@
 </summary>
 
 
-- [2020-11-25-上海昨日新增5例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipf76z5MHhMt1ZUCLvJUo201126&isfromapp=1) ![](assets/new.png)  
-- [2020-11-25-德国决定延长并收紧防疫措施-默克尔再次呼吁民众团结耐心自律](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQIlMBsOdyumsNO5hXv5V201126&isfromapp=1) ![](assets/new.png)  
-- [2020-11-25-世卫组织非洲区域多个会员国卫生部长呼吁：提高警惕-防止新冠疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiGcT2DgqnMpxZiE5MGYF201126&isfromapp=1) ![](assets/new.png)  
-- [2020-11-25-跟不上新冠肺炎病例激增速度-美国被迫缩减疫情接触者追踪工作量](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw5I9yuWmtj0EFTYW0tmV201126&isfromapp=1) ![](assets/new.png)  
-- [2020-11-25-内蒙古额尔古纳一住院陪护人员24日核酸阳性-复核排除阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJbEh5siGdqd7pe5nrC26201125&isfromapp=1) ![](assets/new.png)  
+- [2020-11-26-北京新发地市场暂停水产冻品销售储存](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqQn5eKzJKHOZC93RkSRd201126&isfromapp=1) ![](assets/new.png)  
+- [2020-11-26-河南25日新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV52pOnsQCgRl7roVfYrO201126&isfromapp=1) ![](assets/new.png)  
+- [2020-11-26-韩国单日新增新冠肺炎确诊病例583例-为八个月来新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie6JYyqXFhFTEoQyhB0Qa201126&isfromapp=1) ![](assets/new.png)  
+- [2020-11-26-福建25日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirWp3v2cHD0P8Itlxi57u201126&isfromapp=1) ![](assets/new.png)  
+- [2020-11-26-美国平均每40秒就有一人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia7oFjAXyB8OdB47uTQ5O201126&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -914,11 +914,11 @@
 </summary>
 
 
+- [2020-11-25-文本超过N行折叠内容并显示“...查看全部”](https://juejin.im/post/6899262851769171975) ![](assets/new.png)  
+- [2020-11-25-vuex的数据渲染和修改](https://juejin.im/post/6899262662241157127) ![](assets/new.png)  
+- [2020-11-25-圣司：邀请你来-D2-共同交流、探讨一些跨端方向的新思路、新解法](https://juejin.im/post/6899262365015998478) ![](assets/new.png)  
 - [2020-11-25-HTML+CSS之如何找BUG](https://juejin.im/post/6899261323176050695) ![](assets/new.png)  
-- [2020-11-25-什么是防抖和节流](https://juejin.im/post/6899259562105241607) ![](assets/new.png)  
-- [2020-11-25-微信小程序——拍照、压缩转换base64（不留存照片在本地相册）](https://juejin.im/post/6899258694815612942) ![](assets/new.png)  
-- [2020-11-25-使用-babel-来生成-javascript-代码](https://juejin.im/post/6899256692615413767) ![](assets/new.png)  
-- [2020-11-25-vue的touchStart事件及click事件冲突问题](https://juejin.im/post/6899255492736974862) ![](assets/new.png)  
+- [2020-11-24-新技术学习不完全指北：以-Rust-为例](https://juejin.im/post/6898953413250252814) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1034,6 +1034,10 @@
 </summary>
 
 
+- [2020-11-26-MBP-2017-late-升级-Big-Sur-之后-Preview-卡顿](https://www.v2ex.com/t/729395) ![](assets/new.png)  
+- [2020-11-26-《-Python-源码剖析》一书有续作么？](https://www.v2ex.com/t/729394) ![](assets/new.png)  
+- [2020-11-26-跑步软件千万别用悦跑圈](https://www.v2ex.com/t/729393) ![](assets/new.png)  
+- [2020-11-26-蛋壳公寓房东上门收房，岁月静好变成碎月禁好？](https://www.v2ex.com/t/729392) ![](assets/new.png)  
 - [2020-11-26-iPhone12-Wi-Fi-断连的问题](https://www.v2ex.com/t/729390) ![](assets/new.png)  
 - [2020-11-26-来分享一下我的工作笔记](https://www.v2ex.com/t/729389) ![](assets/new.png)  
 - [2020-11-26-看到微众银行偷偷修改合同，有没有第三方机构或者平台保存公共合同的方案](https://www.v2ex.com/t/729388) ![](assets/new.png)  
@@ -1050,10 +1054,6 @@
 - [2020-11-26-腾讯云主机-Linux-系统分区不支持逻辑扩容？？](https://www.v2ex.com/t/729373) ![](assets/new.png)  
 - [2020-11-26-有猎头推荐香港的技术职位，这时候值得去试么？](https://www.v2ex.com/t/729371) ![](assets/new.png)  
 - [2020-11-26-ps5-代领游戏疑似翻车，多为用户账户永封。](https://www.v2ex.com/t/729370) ![](assets/new.png)  
-- [2020-11-26-上家帮我多交了两个月社保,现在要我退钱是什么操作](https://www.v2ex.com/t/729369) ![](assets/new.png)  
-- [2020-11-26-淘宝店铺搜索是崩了么？](https://www.v2ex.com/t/729368) ![](assets/new.png)  
-- [2020-11-26-“绿色软件”-就是那种不用安装的软件英文怎么说](https://www.v2ex.com/t/729367) ![](assets/new.png)  
-- [2020-11-26-Linux-的-ReusePort-特性](https://www.v2ex.com/t/729364) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1098,8 +1098,8 @@
 
 - [2020-11-26-URL-中的-#-原来是这个意思](https://toutiao.io/k/7kpbo94) ![](assets/new.png)  
 - [2020-11-26-每个程序员都应该知道的延迟数字](https://toutiao.io/k/pv1wt7h) ![](assets/new.png)  
-- [2020-11-26-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
 - [2020-11-26-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
+- [2020-11-26-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
 - [2020-11-26-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
 - [2020-11-26-怎样提高代码质量？](https://toutiao.io/k/199j35o) ![](assets/new.png)  
 - [2020-11-26-分布式一致性协议：CAP、BASE、NWR](https://toutiao.io/k/2kudebn) ![](assets/new.png)  
@@ -1114,8 +1114,8 @@
 - [2020-11-26-译-Cilium：基于-BPF/XDP-实现-K8s-Service-负载均衡-LPC,-2020](https://toutiao.io/k/6my5fe8) ![](assets/new.png)  
 - [2020-11-26-Xrepo：一个现代化的跨平台-C/C++-包管理器](https://toutiao.io/k/hb8e4pn) ![](assets/new.png)  
 - [2020-11-26-分布式任务调度平台-xxl-job](https://toutiao.io/k/6s34p53) ![](assets/new.png)  
-- [2020-11-26-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
-- [2020-11-26-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
+- [2020-11-26-对一款-Golang-弱口令爆破工具代码的分析及改进](https://toutiao.io/k/59mt0u6) ![](assets/new.png)  
+- [2020-11-26-译-可观察性导读：所见即所得](https://toutiao.io/k/1sxx64c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

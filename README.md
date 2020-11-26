@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 15:07:47，:rocket: 更新条数: +794， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 15:27:06，:rocket: 更新条数: +772， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)![](assets/dot.png)   
+- [物联网智库](#物联网智库)  
 
 ## 文章链接
 
@@ -1034,6 +1034,7 @@
 </summary>
 
 
+- [2020-11-26-关于验证码机制，验证码是走前端生成还是后端生成好？](https://www.v2ex.com/t/729665) ![](assets/new.png)  
 - [2020-11-26-新-MacBook-的屏幕切换速度令人惊艳](https://www.v2ex.com/t/729661) ![](assets/new.png)  
 - [2020-11-26-RX550-的兼容性问题](https://www.v2ex.com/t/729659) ![](assets/new.png)  
 - [2020-11-26-春秋航空的-手提限制-20*30*40cm-会严格执行吗?](https://www.v2ex.com/t/729658) ![](assets/new.png)  
@@ -1053,7 +1054,6 @@
 - [2020-11-26-不锈钢吸管，喝着有金属的味道，问题大吗？](https://www.v2ex.com/t/729640) ![](assets/new.png)  
 - [2020-11-26-应届专科生如何选择？](https://www.v2ex.com/t/729639) ![](assets/new.png)  
 - [2020-11-26-MacBook-的屏幕镀膜也太娇气了](https://www.v2ex.com/t/729637) ![](assets/new.png)  
-- [2020-11-26-iOS-14-锁屏延时](https://www.v2ex.com/t/729636) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1158,26 +1158,6 @@
 </summary>
 
 
-- [2020-11-21-历史性时刻！物联网连接规模首次超过非物联网，移动物联网连接中国“一骑绝尘”](https://www.ershicimi.com/p/9fc60d243af4089dfc43d4d8937c5abf) ![](assets/new.png)  
-- [2020-11-21-【案例征集】践行“落地与融合”，2021年中国AIoT产业全景图谱报告优秀案例征集正式启动](https://www.ershicimi.com/p/1ecd397d5bb643629ed5fc50bac59e1d) ![](assets/new.png)  
-- [2020-11-20-​AI你到底行不行？能找到秃头元凶，却光头&足球傻傻分不清](https://www.ershicimi.com/p/b3f76dac95d321e378791f37bf4c5bc6) ![](assets/new.png)  
-- [2020-11-20-加速行业智能升级，华为云IoT的底气是什么？](https://www.ershicimi.com/p/c283b4ec540d2008344f8d8f81d318c9) ![](assets/new.png)  
-- [2020-11-20-《5G确定性网络+工业互联网融合白皮书》正式发布](https://www.ershicimi.com/p/bd002440ed0ee3befdf2619c9578d63f) ![](assets/new.png)  
-- [2020-11-19-世界工业互联网平台“群雄逐鹿”，看中国方案如何“一决高下”？](https://www.ershicimi.com/p/f2dc1f9da4dbab2c9c8200b8abdf3696) ![](assets/new.png)  
-- [2020-11-19-为什么说5G成功商用在终端，终端普及在模组？](https://www.ershicimi.com/p/da56c46f1cb5ef77c7d6ae6ce88a203f) ![](assets/new.png)  
-- [2020-11-19-5G的频谱效率，到底有多高？](https://www.ershicimi.com/p/6d9b7dc87d49ae087006f02550ecc7c3) ![](assets/new.png)  
-- [2020-11-18-荣耀现在被迫剥离，或许是为了华为未来10年物联网更“牛逼”](https://www.ershicimi.com/p/654e027f8d6992d422763f7b0c10bab5) ![](assets/new.png)  
-- [2020-11-18-研华以6.26亿美元品牌价值-荣获台湾国际品牌第四名](https://www.ershicimi.com/p/18d2904a6f76a0d4f20b52a58e78584b) ![](assets/new.png)  
-- [2020-11-18-中国本土“灯塔工厂”已有8家，领路人为什么是海尔？](https://www.ershicimi.com/p/74951a6b6d7ea417b9904bd38c6c41ff) ![](assets/new.png)  
-- [2020-11-18-5G-toB：下一场运营商与OTT之争？](https://www.ershicimi.com/p/e4ebe05e1d3c5828be6321bb2eb6ab98) ![](assets/new.png)  
-- [2020-11-17-还能让智能制造来得再快一点吗？](https://www.ershicimi.com/p/666fcb3a36a637fcba9eee3e975d6d8e) ![](assets/new.png)  
-- [2020-11-17-华为回应出售荣耀：这是一场产业链自救](https://www.ershicimi.com/p/da27e802e836e4f913ac791008809be8) ![](assets/new.png)  
-- [2020-11-17-5-nm-不够用三星将顶上？外媒分析：苹果不会放弃台积电](https://www.ershicimi.com/p/214126b1c7199fb65c3b1cc5469ca14b) ![](assets/new.png)  
-- [2020-11-16-重磅！余承东总负责，华为汽车业务或与消费者业务整合，汽车将助华为剑指未来？](https://www.ershicimi.com/p/02994daa5bb361ff71e9355c2bd98b7e) ![](assets/new.png)  
-- [2020-11-16-边缘计算4.0正急速驶来，你做好准备了吗？](https://www.ershicimi.com/p/b88eabaa78f6a9ac6b080da54fb7e059) ![](assets/new.png)  
-- [2020-11-16-议程抢先看！-预见2025：嵌入式物联产业新未来](https://www.ershicimi.com/p/04556d23613d9f4b1161372de4a50029) ![](assets/new.png)  
-- [2020-11-16-贝尔实验室的百年沉浮](https://www.ershicimi.com/p/d37e019e5716ffdb2c03d0637332214e) ![](assets/new.png)  
-- [2020-11-15-第一批拿到了5G入场券的先行者，他们的所痛、所思、所悟【物女心经】](https://www.ershicimi.com/p/8ffc12ce9eb902ef59787210e9f14c32) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

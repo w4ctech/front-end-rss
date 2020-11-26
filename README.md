@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 07:33:12，:rocket: 更新条数: +1033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 07:48:09，:rocket: 更新条数: +3894， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-11-26-最新疫情：全国新冠累计确诊86490例-内蒙古本土新增9例](https://m.caixin.com/m/2020-11-26/101632583.html) ![](assets/new.png)  
+- [2020-11-26-【境内疫情观察】内蒙古新增9例本土确诊病例（11月25日）](http://m.database.caixin.com/m/2020-11-26/101632600.html) ![](assets/new.png)  
+- [2020-11-26-大流行手记|11月25日：法国宣布三步“解封”计划-美国开始测试新冠疫苗分发网络](https://m.caixin.com/m/2020-11-26/101632481.html) ![](assets/new.png)  
+- [2020-11-25-新冠疫情传播“物染人”和“人染人”并存-非冷链运输也有传播风险](https://m.caixin.com/m/2020-11-25/101632416.html) ![](assets/new.png)  
+- [2020-11-25-天津两起疫情有不同源头-其中之一为进口猪头](https://m.caixin.com/m/2020-11-25/101632216.html) ![](assets/new.png)  
+- [2020-11-25-最新海外疫情：新冠感染超5966万-累计死亡超140万](https://m.caixin.com/m/2020-11-25/101632350.html) ![](assets/new.png)  
+- [2020-11-25-【境内疫情观察】内蒙古新增1例本土疑似病例（11月24日）](http://m.database.caixin.com/m/2020-11-25/101632194.html) ![](assets/new.png)  
+- [2020-11-25-大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html) ![](assets/new.png)  
+- [2020-11-24-江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html) ![](assets/new.png)  
+- [2020-11-24-香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html) ![](assets/new.png)  
+- [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
+- [2020-11-24-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
+- [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
+- [2020-11-23-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
+- [2020-11-23-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
+- [2020-11-23-大流行手记|11月22日：沙特拨5亿美元研发疫苗-爱尔兰拟扑杀境内养殖貂](https://m.caixin.com/m/2020-11-23/101631291.html) ![](assets/new.png)  
+- [2020-11-22-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) ![](assets/new.png)  
+- [2020-11-22-香港单日新增68宗病例-港府拟向确诊者发5000港元津贴](https://m.caixin.com/m/2020-11-22/101631215.html) ![](assets/new.png)  
+- [2020-11-22-【境内疫情观察】内蒙古新增2例本土确诊病例（11月21日）](http://m.database.caixin.com/m/2020-11-22/101631172.html) ![](assets/new.png)  
+- [2020-11-22-大流行手记|11月21日：英国12月起接种新冠疫苗-牛津称抗体可维持6个月](https://m.caixin.com/m/2020-11-22/101631140.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1054,6 +1074,9 @@
 </summary>
 
 
+- [2020-11-26-职位内推杭州滴滴出行旗下-小桔车服-招聘高级/资深-Android-开发工程师](https://www.v2ex.com/t/729516) ![](assets/new.png)  
+- [2020-11-26-求助，公司的-win-电脑总是会无原因的卡顿大概两秒钟，之后恢复，一天大概出现三四次这样](https://www.v2ex.com/t/729515) ![](assets/new.png)  
+- [2020-11-26-今年黑五没有去年那样的软件大礼包了吗](https://www.v2ex.com/t/729514) ![](assets/new.png)  
 - [2020-11-26-那里能找到-flex-的教程啊](https://www.v2ex.com/t/729513) ![](assets/new.png)  
 - [2020-11-26-有没有什么专业的-iPhone-拍照教程？](https://www.v2ex.com/t/729512) ![](assets/new.png)  
 - [2020-11-26-不懂就问：有代码智能提示，那么有根据已有代码自动生成-UML-关系图么？](https://www.v2ex.com/t/729511) ![](assets/new.png)  
@@ -1071,9 +1094,6 @@
 - [2020-11-26-像-App-商城中那些新概念的-App，很多都是个人写的，那种不涉及侵权吗？](https://www.v2ex.com/t/729499) ![](assets/new.png)  
 - [2020-11-26-为啥就不能出一种-12v-dc-的通用电源-Hub-呢？](https://www.v2ex.com/t/729498) ![](assets/new.png)  
 - [2020-11-26-现在有靠谱的来电识别吗？](https://www.v2ex.com/t/729497) ![](assets/new.png)  
-- [2020-11-26-修改-AGPL-v3.0-开源协议的源码，将其用作商用的一部分，这样违法吗？-ps:向被服务方提供源码](https://www.v2ex.com/t/729496) ![](assets/new.png)  
-- [2020-11-26-Switch-要不要买港版？&-Switch-2-有没有动静？](https://www.v2ex.com/t/729495) ![](assets/new.png)  
-- [2020-11-26-请教一个-NoSQL-的常识问题](https://www.v2ex.com/t/729494) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1121,8 +1141,8 @@
 - [2020-11-26-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
 - [2020-11-26-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
 - [2020-11-26-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
-- [2020-11-26-分布式一致性协议：CAP、BASE、NWR](https://toutiao.io/k/2kudebn) ![](assets/new.png)  
 - [2020-11-26-怎样提高代码质量？](https://toutiao.io/k/199j35o) ![](assets/new.png)  
+- [2020-11-26-分布式一致性协议：CAP、BASE、NWR](https://toutiao.io/k/2kudebn) ![](assets/new.png)  
 - [2020-11-26-vivo-调用链-Agent-原理及实践](https://toutiao.io/k/crosp1a) ![](assets/new.png)  
 - [2020-11-26-这些未在-Spark-SQL-文档中说明的优化措施，你知道吗？](https://toutiao.io/k/n4dqtax) ![](assets/new.png)  
 - [2020-11-26-Flink-轻松理解-Watermark](https://toutiao.io/k/qervuek) ![](assets/new.png)  

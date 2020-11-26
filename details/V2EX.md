@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-26 16:05:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 16:11:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-26-PHP-8.0.0-Released!](https://www.v2ex.com/t/729674) 
 - [2020-11-26-iPhone12-5G-真支持-SA-VoNR？？](https://www.v2ex.com/t/729673) 
 - [2020-11-26-现在入手-Apple-TV-4K-是最佳时机吗？](https://www.v2ex.com/t/729672) 
 - [2020-11-26-不懂就问-Ant-vue-组件的导航栏如何在缩起的时候自定义图标](https://www.v2ex.com/t/729671) 
@@ -42,4 +43,3 @@
 - [2020-11-26-iPhone-12-相机还杀后台吗](https://www.v2ex.com/t/729628) 
 - [2020-11-26-C++-模板编程---variadic-template---unpack-疑问](https://www.v2ex.com/t/729627) 
 - [2020-11-26-x-浏览器的盈利分析](https://www.v2ex.com/t/729626) 
-- [2020-11-26-亚马逊海外购群晖-DS920+-好价](https://www.v2ex.com/t/729624) 

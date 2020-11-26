@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 16:58:44，:rocket: 更新条数: +3658， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 17:08:22，:rocket: 更新条数: +3658， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,7 +1054,7 @@
 </summary>
 
 
-- [2020-11-26-旧楼加装电梯也能遇上暴雷，真是太难了。](https://www.v2ex.com/t/729683) ![](assets/new.png)  
+- [2020-11-26-旧楼加装电梯也能踩着雷，真是太难了。](https://www.v2ex.com/t/729683) ![](assets/new.png)  
 - [2020-11-26--FinTech-社区-招聘-|-资产配置研究员](https://www.v2ex.com/t/729681) ![](assets/new.png)  
 - [2020-11-26-双非大二狗考虑跨考计算机，求建议。](https://www.v2ex.com/t/729680) ![](assets/new.png)  
 - [2020-11-26-如何让自己搭建的图床放在官网的页面上](https://www.v2ex.com/t/729679) ![](assets/new.png)  

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-26 14:09:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 14:26:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-26-iOS-连接-openSUSE-键盘失灵](https://www.v2ex.com/t/729653) 
+- [2020-11-26-公司-OA-的苹果-App-最近存不住登陆状态，每次都要登陆。有不忙的-IOS-开发来赚点外快吗？](https://www.v2ex.com/t/729652) 
+- [2020-11-26-m1-MacBook-Pro-新机器美区账户尝试领取-apple-tv-免费一年特权，结果走的是-iCloud-家庭组车主-4.99-美元计费，已预约周六苹果🍎技术顾问，请问这是怎么回事...](https://www.v2ex.com/t/729650) 
+- [2020-11-26-Application-Note:-Apple-M1-和虚拟机](https://www.v2ex.com/t/729648) 
 - [2020-11-26-关于房屋拆迁补偿转售的协议问题，急求法律咨询](https://www.v2ex.com/t/729647) 
 - [2020-11-26-如何知道一个-windows-软件里内嵌的网页-url？](https://www.v2ex.com/t/729645) 
 - [2020-11-26-南京-Citrix-大量-HC-开放,-C++/-Java-/C#/-Python-,-junior/senior/staff/principal-SW,-PM,-Manager](https://www.v2ex.com/t/729644) 
@@ -39,7 +43,3 @@
 - [2020-11-26-关于-hangouts-迁移的问题](https://www.v2ex.com/t/729606) 
 - [2020-11-26-请教，-Key-和-Vlaue-都是-String-的字典，如何转换，并写入到-MySQL-的一个字段值里？-读取把内容还原成字典？](https://www.v2ex.com/t/729605) 
 - [2020-11-26-年底了，不为明年打算一下么~？来看看美团外卖](https://www.v2ex.com/t/729604) 
-- [2020-11-26-想给自己买个烘干机，有必要吗？](https://www.v2ex.com/t/729603) 
-- [2020-11-26-iPhone-mini-续航满意](https://www.v2ex.com/t/729602) 
-- [2020-11-26-关于-CVXOPT-求解二次规划问题报错](https://www.v2ex.com/t/729601) 
-- [2020-11-26-为了省几块钱，终于还是上了拼多多的道，但是他的各种圈子实在太恶心了](https://www.v2ex.com/t/729598) 

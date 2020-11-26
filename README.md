@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 14:09:08，:rocket: 更新条数: +796， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 14:26:26，:rocket: 更新条数: +796， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1034,6 +1034,10 @@
 </summary>
 
 
+- [2020-11-26-iOS-连接-openSUSE-键盘失灵](https://www.v2ex.com/t/729653) ![](assets/new.png)  
+- [2020-11-26-公司-OA-的苹果-App-最近存不住登陆状态，每次都要登陆。有不忙的-IOS-开发来赚点外快吗？](https://www.v2ex.com/t/729652) ![](assets/new.png)  
+- [2020-11-26-m1-MacBook-Pro-新机器美区账户尝试领取-apple-tv-免费一年特权，结果走的是-iCloud-家庭组车主-4.99-美元计费，已预约周六苹果🍎技术顾问，请问这是怎么回事...](https://www.v2ex.com/t/729650) ![](assets/new.png)  
+- [2020-11-26-Application-Note:-Apple-M1-和虚拟机](https://www.v2ex.com/t/729648) ![](assets/new.png)  
 - [2020-11-26-关于房屋拆迁补偿转售的协议问题，急求法律咨询](https://www.v2ex.com/t/729647) ![](assets/new.png)  
 - [2020-11-26-如何知道一个-windows-软件里内嵌的网页-url？](https://www.v2ex.com/t/729645) ![](assets/new.png)  
 - [2020-11-26-南京-Citrix-大量-HC-开放,-C++/-Java-/C#/-Python-,-junior/senior/staff/principal-SW,-PM,-Manager](https://www.v2ex.com/t/729644) ![](assets/new.png)  
@@ -1050,10 +1054,6 @@
 - [2020-11-26-更换证书后，一部分玩家连接-websocket-出现-err-cert-authority-invalid](https://www.v2ex.com/t/729631) ![](assets/new.png)  
 - [2020-11-26-m1-的-macmini-同时连接两台显示器](https://www.v2ex.com/t/729630) ![](assets/new.png)  
 - [2020-11-26-求推荐-vr-外包网站](https://www.v2ex.com/t/729629) ![](assets/new.png)  
-- [2020-11-26-iPhone-12-相机还杀后台吗](https://www.v2ex.com/t/729628) ![](assets/new.png)  
-- [2020-11-26-C++-模板编程---variadic-template---unpack-疑问](https://www.v2ex.com/t/729627) ![](assets/new.png)  
-- [2020-11-26-x-浏览器的盈利分析](https://www.v2ex.com/t/729626) ![](assets/new.png)  
-- [2020-11-26-亚马逊海外购群晖-DS920+-好价](https://www.v2ex.com/t/729624) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

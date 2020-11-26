@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 20:04:19，:rocket: 更新条数: +1030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 20:07:44，:rocket: 更新条数: +3894， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-11-26-最新疫情：全国新冠累计确诊86490例-内蒙古本土新增9例](https://m.caixin.com/m/2020-11-26/101632583.html) ![](assets/new.png)  
+- [2020-11-26-满洲里共确诊11例新冠-现家庭、学校、小区聚集特征](https://m.caixin.com/m/2020-11-26/101632824.html) ![](assets/new.png)  
+- [2020-11-26-来华航班近两百份核酸报告雷同-使馆要求俄航司重检](http://m.companies.caixin.com/m/2020-11-26/101632663.html) ![](assets/new.png)  
+- [2020-11-26-最新海外疫情：新冠感染近6030万-累计死亡超141万](http://m.international.caixin.com/m/2020-11-26/101632817.html) ![](assets/new.png)  
+- [2020-11-26-内蒙古新增本土确诊病例9例-均在满洲里](http://m.china.caixin.com/m/2020-11-26/101632701.html) ![](assets/new.png)  
+- [2020-11-26-【境内疫情观察】内蒙古新增9例本土确诊病例（11月25日）](http://m.database.caixin.com/m/2020-11-26/101632600.html) ![](assets/new.png)  
+- [2020-11-26-大流行手记|11月25日：英入境隔离期将缩至5天-美测试疫苗分发网络](https://m.caixin.com/m/2020-11-26/101632481.html) ![](assets/new.png)  
+- [2020-11-25-新冠疫情传播“物染人”和“人染人”并存-非冷链运输也有传播风险](https://m.caixin.com/m/2020-11-25/101632416.html) ![](assets/new.png)  
+- [2020-11-25-天津两起疫情有不同源头-其中之一为进口猪头](https://m.caixin.com/m/2020-11-25/101632216.html) ![](assets/new.png)  
+- [2020-11-25-【境内疫情观察】内蒙古新增1例本土疑似病例（11月24日）](http://m.database.caixin.com/m/2020-11-25/101632194.html) ![](assets/new.png)  
+- [2020-11-25-大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html) ![](assets/new.png)  
+- [2020-11-24-江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html) ![](assets/new.png)  
+- [2020-11-24-香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html) ![](assets/new.png)  
+- [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
+- [2020-11-24-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
+- [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
+- [2020-11-23-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
+- [2020-11-23-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
+- [2020-11-23-大流行手记|11月22日：沙特拨5亿美元研发疫苗-爱尔兰拟扑杀境内养殖貂](https://m.caixin.com/m/2020-11-23/101631291.html) ![](assets/new.png)  
+- [2020-11-22-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

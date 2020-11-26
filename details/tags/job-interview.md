@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-26 02:34:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 02:48:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-11-26-【招聘】北京好大夫在线招前端开发工程师](https://www.ershicimi.com/p/467a4ceb2d0492ae1adbfef607ec1ce9) 
 - [2020-11-25-【招聘】阿里云-GTS-GCC招聘前端-P6、P7](https://www.ershicimi.com/p/0406a754367319de3419bf65b084ef51) 
 - [2020-11-23-【招聘】杭州网易严选---高级/资深前端工程师招聘【商城方向、可视化方向】](https://www.ershicimi.com/p/4a2ac3d0302ddc0ab63d35b7520b86ba) 
@@ -32,6 +33,6 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-10-29-阿里前端技术岗发布+内部面试题参考手册（含P5-P7）](https://www.ershicimi.com/p/f248e5ad233de930e884b7ab29796eec) 
-- [2020-11-26-深圳-深信服内推-云计算产品后台开发招聘](https://www.v2ex.com/t/729325) 
+- [2020-11-26-贝壳找房移动端大量招聘](https://www.v2ex.com/t/729378) 
 - [2020-11-26-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
 - [2020-11-26-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) 

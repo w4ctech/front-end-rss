@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 01:36:11，:rocket: 更新条数: +1025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 01:44:23，:rocket: 更新条数: +1027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,7 @@
 </summary>
 
 
+- [2020-11-26-macOS-Big-Sur-上-Thunderbird-卡顿严重](https://www.v2ex.com/t/729334) ![](assets/new.png)  
 - [2020-11-26-big-sur-安装-homebrew-后，出现权限错误，有没有大佬知道怎么回事](https://www.v2ex.com/t/729333) ![](assets/new.png)  
 - [2020-11-26-转让一个-PDF-Expert-for-Mac-授权](https://www.v2ex.com/t/729332) ![](assets/new.png)  
 - [2020-11-26-诸位屌丝怎么看？](https://www.v2ex.com/t/729331) ![](assets/new.png)  
@@ -1073,7 +1074,6 @@
 - [2020-11-26-想找在上海做物联网，数据可视化的公司,或者有大佬接活么？](https://www.v2ex.com/t/729310) ![](assets/new.png)  
 - [2020-11-26-Pick-阿里巴巴前端练习生计划，成为专业前端人！](https://www.v2ex.com/t/729308) ![](assets/new.png)  
 - [2020-11-26-黑五有什么值得买的东西或者会员吗？](https://www.v2ex.com/t/729307) ![](assets/new.png)  
-- [2020-11-25-还有用这个软件的必要吗？](https://www.v2ex.com/t/729305) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,6 +1085,7 @@
 </summary>
 
 
+- [2020-11-26-微服务框架Go-Micro集成Nacos实战之服务注册与发现-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13994&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777833%3Futm_content%3Dg_1000210310%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-26-阿里云Edge-Plus私享会正式起航，首场活动聚焦CDN在视频直播领域的最佳实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13993&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778506%3Futm_content%3Dg_1000209956%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-26-秘密武器-|-看AnalyticDB如何强力支撑双十一-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13992&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778347%3Futm_content%3Dg_1000210265%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-26-轻松玩转全链路监控-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13991&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778727%3Futm_content%3Dg_1000209954%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1104,7 +1105,6 @@
 - [2020-11-26-鹰角网络全球海量数据，一键轻松统一存储与处理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13977&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778559%3Futm_content%3Dg_1000207910%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-26-KubeVela-正式开源：一个高可扩展的云原生应用平台与核心引擎-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13976&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778543%3Futm_content%3Dg_1000207909%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-26-6岁！是时候重新认识下Serverless了-|-云原生趣谈-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13975&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778541%3Futm_content%3Dg_1000207513%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-我看技术人的成长路径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,25 +1117,25 @@
 
 
 - [2020-11-26-URL-中的-#-原来是这个意思](https://toutiao.io/k/7kpbo94) ![](assets/new.png)  
+- [2020-11-26-每个程序员都应该知道的延迟数字](https://toutiao.io/k/pv1wt7h) ![](assets/new.png)  
 - [2020-11-26-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
 - [2020-11-26-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
-- [2020-11-26-每个程序员都应该知道的延迟数字](https://toutiao.io/k/pv1wt7h) ![](assets/new.png)  
 - [2020-11-26-怎样提高代码质量？](https://toutiao.io/k/199j35o) ![](assets/new.png)  
 - [2020-11-26-分布式一致性协议：CAP、BASE、NWR](https://toutiao.io/k/2kudebn) ![](assets/new.png)  
 - [2020-11-26-这些未在-Spark-SQL-文档中说明的优化措施，你知道吗？](https://toutiao.io/k/n4dqtax) ![](assets/new.png)  
 - [2020-11-26-vivo-调用链-Agent-原理及实践](https://toutiao.io/k/crosp1a) ![](assets/new.png)  
-- [2020-11-26-Flink-轻松理解-Watermark](https://toutiao.io/k/qervuek) ![](assets/new.png)  
 - [2020-11-26-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
+- [2020-11-26-Flink-轻松理解-Watermark](https://toutiao.io/k/qervuek) ![](assets/new.png)  
 - [2020-11-26-sn0int：半自动化-OSINT-框架和包管理器](https://toutiao.io/k/gt4mvoc) ![](assets/new.png)  
 - [2020-11-26-译-开源的价值是什么？欧盟委员会研究的初步结果](https://toutiao.io/k/d0abc1d) ![](assets/new.png)  
 - [2020-11-26-讲讲用户的流失预警](https://toutiao.io/k/tnyoxq5) ![](assets/new.png)  
-- [2020-11-26-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-26-滴滴客服解决方案平台建设实践](https://toutiao.io/k/6q3fx9m) ![](assets/new.png)  
+- [2020-11-26-在-Win-10-使用-WSL-2-跑-Docker，C-盘空间不足焦虑症你有吗？](https://toutiao.io/k/89n350t) ![](assets/new.png)  
 - [2020-11-26-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
-- [2020-11-26-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
-- [2020-11-26-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
-- [2020-11-26-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
-- [2020-11-26-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-26-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
+- [2020-11-26-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
 - [2020-11-26-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
+- [2020-11-26-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

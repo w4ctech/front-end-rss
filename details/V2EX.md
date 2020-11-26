@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-26 01:36:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 01:44:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-26-macOS-Big-Sur-上-Thunderbird-卡顿严重](https://www.v2ex.com/t/729334) 
 - [2020-11-26-big-sur-安装-homebrew-后，出现权限错误，有没有大佬知道怎么回事](https://www.v2ex.com/t/729333) 
 - [2020-11-26-转让一个-PDF-Expert-for-Mac-授权](https://www.v2ex.com/t/729332) 
 - [2020-11-26-诸位屌丝怎么看？](https://www.v2ex.com/t/729331) 
@@ -43,4 +44,3 @@
 - [2020-11-25-FinTech-社区-人才推荐奖-最高-5-万元等你拿！](https://www.v2ex.com/t/729287) 
 - [2020-11-25-Big-Sur-iCloud-云盘“移除下载项”功能无法移除-*.App-格式文件](https://www.v2ex.com/t/729286) 
 - [2020-11-25-iOS-中如何在-YouTube-中实现英文字幕翻译](https://www.v2ex.com/t/729285) 
-- [2020-11-25-M1-Hashcat-Benchmark](https://www.v2ex.com/t/729284) 

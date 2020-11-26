@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-26 17:13:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 17:24:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-26-刚才在苏宁易购的-APP-中买了一个-Airpods-Pro，有点慌](https://www.v2ex.com/t/729684) 
 - [2020-11-26-旧楼加装电梯也能踩着雷，真是太难了。](https://www.v2ex.com/t/729683) 
 - [2020-11-26--FinTech-社区-招聘-|-资产配置研究员](https://www.v2ex.com/t/729681) 
 - [2020-11-26-双非大二狗考虑跨考计算机，求建议。](https://www.v2ex.com/t/729680) 
@@ -41,4 +42,3 @@
 - [2020-11-26-应届专科生如何选择？](https://www.v2ex.com/t/729639) 
 - [2020-11-26-MacBook-的屏幕镀膜也太娇气了](https://www.v2ex.com/t/729637) 
 - [2020-11-26-iOS-14-锁屏延时](https://www.v2ex.com/t/729636) 
-- [2020-11-26-北京/杭州/上海-阿里巴巴-Java-/前端/测试开发/android/ios/架构-内推火热进行中！](https://www.v2ex.com/t/729634) 

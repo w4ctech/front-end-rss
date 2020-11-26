@@ -1,15 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-26 00:07:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 00:17:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-11-25-德国决定延长并收紧防疫措施-默克尔再次呼吁民众团结耐心自律](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQIlMBsOdyumsNO5hXv5V201126&isfromapp=1) 
+- [2020-11-25-世卫组织非洲区域多个会员国卫生部长呼吁：提高警惕-防止新冠疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiGcT2DgqnMpxZiE5MGYF201126&isfromapp=1) 
 - [2020-11-25-内蒙古额尔古纳一住院陪护人员24日核酸阳性-复核排除阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJbEh5siGdqd7pe5nrC26201125&isfromapp=1) 
-- [2020-11-25-德国单日死亡病例数为疫情暴发以来最高-南部首现医院负荷濒临极限](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5BlhzFzQ96CQkHhCbTF6201125&isfromapp=1) 
-- [2020-11-25-美国纽约州住院病例数三周激增128%-州长敦促民众假期勿出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikgXdjx1qeec6ATMHzv49201125&isfromapp=1) 
-- [2020-11-25-陕西西安一男子疫情期间销售“三无”口罩-获刑五年半并支付三倍赔偿金](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSaBXSnMxQL9Aesx68B8201125&isfromapp=1) 
-- [2020-11-25-美国马里兰州州长：人们没有权利在疫情期间不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8fjRIwLpb8lBAgtOTAf2201125&isfromapp=1) 
 - [2020-11-16-一个无名前端的10年前端路](https://www.ershicimi.com/p/10a56fc96276e001ab49da15daabdd6e) 
 - [2020-11-13-微前端究竟是什么，可以带来什么收益](https://www.ershicimi.com/p/11879ec4f4abbd85609414ea254ceecf) 
 - [2020-11-10-前端转AI必看!-2020最新版《神经网络与深度学习》中文版更新完毕，PDF免费下载！](https://www.ershicimi.com/p/4c797d0afdaedc72845833c1b1b04bf8) 
@@ -395,15 +393,16 @@
 - [2020-11-26-Spring-Boot-新特性：jar-大小自动瘦身](https://toutiao.io/k/evuo4xf) 
 - [2020-11-26-Russ-Cox-又有动态了：开源了一个-Go-工具](https://toutiao.io/k/73uwa73) 
 - [2020-11-26-关于-numa-loadbance-的死锁分析](https://toutiao.io/k/m5afp1t) 
-- [2020-11-26-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) 
-- [2020-11-26-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) 
 - [2020-11-26-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) 
-- [2020-11-26-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) 
-- [2020-11-26-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) 
-- [2020-11-26-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) 
-- [2020-11-26-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) 
 - [2020-11-26-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) 
+- [2020-11-26-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) 
+- [2020-11-26-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) 
+- [2020-11-26-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) 
+- [2020-11-26-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) 
 - [2020-11-26-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) 
+- [2020-11-26-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) 
+- [2020-11-26-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) 
+- [2020-11-26-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) 
 - [2020-11-25-奇安信集团与图灵人工智能研究院签约战略合作](https://sec.thief.one/article_content?a_id=6bfb0c0fa9e59f54e7237c296ec29209) 
 - [2020-11-25-《中国区块链发展报告2020》导读:全球区块链政策及监管重点趋...](https://sec.thief.one/article_content?a_id=444b60df7401e804ecf0a8d29b94d6de) 
 - [2020-11-25-PSMDATP:一款针对MDATP的PowerShell管理模块](https://sec.thief.one/article_content?a_id=b84afdb4701981be58d9f67fce87c137) 

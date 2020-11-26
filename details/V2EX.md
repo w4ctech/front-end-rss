@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-26 08:48:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 09:05:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-26-前置相机可以正常使用，面容无法录入，求解](https://www.v2ex.com/t/729560) 
+- [2020-11-26-遇到一个-hive-sql-的-bug？](https://www.v2ex.com/t/729559) 
+- [2020-11-26-dogedoge.com-挂了吗？](https://www.v2ex.com/t/729558) 
+- [2020-11-26-怀疑自己的-m1-mac-屏幕有色彩问题,迫于无-apple-store,谁能帮忙看下](https://www.v2ex.com/t/729555) 
+- [2020-11-26-m1-版-MacBook-现在能正常使用的-iOS-app-有哪些？](https://www.v2ex.com/t/729554) 
+- [2020-11-26-数据库服务器的优点](https://www.v2ex.com/t/729553) 
 - [2020-11-26-iPad-最强大的剪辑软件-Lumafusion-降价了](https://www.v2ex.com/t/729552) 
 - [2020-11-26-选哪个券商](https://www.v2ex.com/t/729551) 
 - [2020-11-26-多吉搜索-502-是关了还是被攻击了？](https://www.v2ex.com/t/729550) 
@@ -36,12 +42,3 @@
 - [2020-11-26-今年黑五没有去年那样的软件大礼包了吗](https://www.v2ex.com/t/729514) 
 - [2020-11-26-那里能找到-flex-的教程啊](https://www.v2ex.com/t/729513) 
 - [2020-11-26-有没有什么专业的-iPhone-拍照教程？](https://www.v2ex.com/t/729512) 
-- [2020-11-26-不懂就问：有代码智能提示，那么有根据已有代码自动生成-UML-关系图么？](https://www.v2ex.com/t/729511) 
-- [2020-11-26-阿里云的电话为什么大的这么烦？](https://www.v2ex.com/t/729510) 
-- [2020-11-26-求助一个正则表达式。](https://www.v2ex.com/t/729509) 
-- [2020-11-26-建一个前端外包接单群，前端模板交流群](https://www.v2ex.com/t/729508) 
-- [2020-11-26-技术升级中，恢复时间待定...](https://www.v2ex.com/t/729507) 
-- [2020-11-26-有人知道在内地怎么办理香港储蓄卡的吗](https://www.v2ex.com/t/729506) 
-- [2020-11-26-支持-webdav-的-IOS-Keepass-客户端-Strongbox](https://www.v2ex.com/t/729505) 
-- [2020-11-26-腾讯云-上海地区-谁有-FreeBSD-的镜像啊，能不能共享一份](https://www.v2ex.com/t/729504) 
-- [2020-11-26-dogedoge.com-挂了](https://www.v2ex.com/t/729503) 

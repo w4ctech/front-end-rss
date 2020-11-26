@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-26 08:28:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 08:37:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -33,6 +33,5 @@
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-10-29-阿里前端技术岗发布+内部面试题参考手册（含P5-P7）](https://www.ershicimi.com/p/f248e5ad233de930e884b7ab29796eec) 
 - [2020-11-26-内推杭州滴滴出行旗下-小桔车服-招聘高级/资深-Android-开发工程师--可年后入职](https://www.v2ex.com/t/729516) 
-- [2020-11-26-成都Starteos招聘区块链后端工程师（17-30k）](https://www.v2ex.com/t/729490) 
 - [2020-11-26-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
 - [2020-11-26-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) 

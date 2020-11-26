@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-26 13:07:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 13:22:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-11-22-Spring中的Controller-，Service，Dao是不是线程安全的？](https://www.ershicimi.com/p/a5130710eb2dfcc37633257c999510de) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-26-更换证书后，一部分玩家连接-websocket-出现-err-cert-authority-invalid](https://www.v2ex.com/t/729631) 
 - [2020-11-26-x-浏览器的盈利分析](https://www.v2ex.com/t/729626) 
 - [2020-11-26-升级之后-edge-浏览器一直闪退](https://www.v2ex.com/t/729591) 
 - [2020-11-26-URL-中的-#-原来是这个意思](https://toutiao.io/k/7kpbo94) 

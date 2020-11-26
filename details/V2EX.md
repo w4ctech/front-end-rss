@@ -1,16 +1,22 @@
-:alarm_clock: 更新时间: 2020-11-26 13:07:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-26 13:22:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-26-应届专科生如何选择？](https://www.v2ex.com/t/729639) 
+- [2020-11-26-MacBook-的屏幕镀膜也太娇气了](https://www.v2ex.com/t/729637) 
+- [2020-11-26-iOS-14-锁屏延时](https://www.v2ex.com/t/729636) 
+- [2020-11-26-北京/杭州/上海-阿里巴巴-Java-/前端/测试开发/android/ios/架构-内推火热进行中！](https://www.v2ex.com/t/729634) 
+- [2020-11-26-github-上-create-a-playground-pull-request-是什么意思](https://www.v2ex.com/t/729633) 
+- [2020-11-26-没有软路由，如何创建可以访问-Google-的-Wi-Fi？](https://www.v2ex.com/t/729632) 
+- [2020-11-26-更换证书后，一部分玩家连接-websocket-出现-err-cert-authority-invalid](https://www.v2ex.com/t/729631) 
 - [2020-11-26-m1-的-macmini-同时连接两台显示器](https://www.v2ex.com/t/729630) 
 - [2020-11-26-求推荐-vr-外包网站](https://www.v2ex.com/t/729629) 
 - [2020-11-26-iPhone-12-相机还杀后台吗](https://www.v2ex.com/t/729628) 
 - [2020-11-26-C++-模板编程---variadic-template---unpack-疑问](https://www.v2ex.com/t/729627) 
 - [2020-11-26-x-浏览器的盈利分析](https://www.v2ex.com/t/729626) 
-- [2020-11-26-这个算什么水平？校花？十、百校挑一？](https://www.v2ex.com/t/729625) 
 - [2020-11-26-亚马逊海外购群晖-DS920+-好价](https://www.v2ex.com/t/729624) 
 - [2020-11-26-m1-的-macmini-连接两台显示器](https://www.v2ex.com/t/729622) 
 - [2020-11-26-创建了一个新的文学-wpblog-来玩玩](https://www.v2ex.com/t/729620) 
@@ -35,11 +41,3 @@
 - [2020-11-26-Offer-选择求助🙏](https://www.v2ex.com/t/729594) 
 - [2020-11-26-升级之后-edge-浏览器一直闪退](https://www.v2ex.com/t/729591) 
 - [2020-11-26-你们的-iPhone-12-发热严重吗](https://www.v2ex.com/t/729590) 
-- [2020-11-26-为了上海户口出去留学回来靠留学生落户可行吗？](https://www.v2ex.com/t/729589) 
-- [2020-11-26-m1-芯片的-macbook，双击应用窗口变大时，还会掉帧么？](https://www.v2ex.com/t/729588) 
-- [2020-11-26-网易云音乐-mac-端-没有最近播放的歌单？](https://www.v2ex.com/t/729587) 
-- [2020-11-26-深圳-推广一波求职公众号，想找大厂内推的小伙伴欢迎关注~](https://www.v2ex.com/t/729586) 
-- [2020-11-26-A-Pleasant-Black-Friday-Makeup-Sets-to-Share-You](https://www.v2ex.com/t/729585) 
-- [2020-11-26-关于房贷算法题，已知：已贷款时长、未还金额、贷款利率。可以算出房子的总价吗？](https://www.v2ex.com/t/729584) 
-- [2020-11-26-GD-团队盘批量转存-有没有解决方案，各种限制太多了](https://www.v2ex.com/t/729583) 
-- [2020-11-26-brew-现在是不是没法用了？-brew-update-没反应](https://www.v2ex.com/t/729582) 

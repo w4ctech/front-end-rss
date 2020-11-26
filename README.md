@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 13:07:18，:rocket: 更新条数: +796， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-26 13:22:31，:rocket: 更新条数: +794， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1034,12 +1034,18 @@
 </summary>
 
 
+- [2020-11-26-应届专科生如何选择？](https://www.v2ex.com/t/729639) ![](assets/new.png)  
+- [2020-11-26-MacBook-的屏幕镀膜也太娇气了](https://www.v2ex.com/t/729637) ![](assets/new.png)  
+- [2020-11-26-iOS-14-锁屏延时](https://www.v2ex.com/t/729636) ![](assets/new.png)  
+- [2020-11-26-北京/杭州/上海-阿里巴巴-Java-/前端/测试开发/android/ios/架构-内推火热进行中！](https://www.v2ex.com/t/729634) ![](assets/new.png)  
+- [2020-11-26-github-上-create-a-playground-pull-request-是什么意思](https://www.v2ex.com/t/729633) ![](assets/new.png)  
+- [2020-11-26-没有软路由，如何创建可以访问-Google-的-Wi-Fi？](https://www.v2ex.com/t/729632) ![](assets/new.png)  
+- [2020-11-26-更换证书后，一部分玩家连接-websocket-出现-err-cert-authority-invalid](https://www.v2ex.com/t/729631) ![](assets/new.png)  
 - [2020-11-26-m1-的-macmini-同时连接两台显示器](https://www.v2ex.com/t/729630) ![](assets/new.png)  
 - [2020-11-26-求推荐-vr-外包网站](https://www.v2ex.com/t/729629) ![](assets/new.png)  
 - [2020-11-26-iPhone-12-相机还杀后台吗](https://www.v2ex.com/t/729628) ![](assets/new.png)  
 - [2020-11-26-C++-模板编程---variadic-template---unpack-疑问](https://www.v2ex.com/t/729627) ![](assets/new.png)  
 - [2020-11-26-x-浏览器的盈利分析](https://www.v2ex.com/t/729626) ![](assets/new.png)  
-- [2020-11-26-这个算什么水平？校花？十、百校挑一？](https://www.v2ex.com/t/729625) ![](assets/new.png)  
 - [2020-11-26-亚马逊海外购群晖-DS920+-好价](https://www.v2ex.com/t/729624) ![](assets/new.png)  
 - [2020-11-26-m1-的-macmini-连接两台显示器](https://www.v2ex.com/t/729622) ![](assets/new.png)  
 - [2020-11-26-创建了一个新的文学-wpblog-来玩玩](https://www.v2ex.com/t/729620) ![](assets/new.png)  
@@ -1048,12 +1054,6 @@
 - [2020-11-26-请问-KVM-虚拟机通过桥接方式共享使用网卡物理是在一个冲突域吗?](https://www.v2ex.com/t/729613) ![](assets/new.png)  
 - [2020-11-26-字节跳动，帮你内推～](https://www.v2ex.com/t/729612) ![](assets/new.png)  
 - [2020-11-26-代码优雅度研究](https://www.v2ex.com/t/729611) ![](assets/new.png)  
-- [2020-11-26-”action-base-programming“-宣言](https://www.v2ex.com/t/729610) ![](assets/new.png)  
-- [2020-11-26-求助通过用户分享链接,来实现邀请注册,并绑定注册用户的邀请人](https://www.v2ex.com/t/729609) ![](assets/new.png)  
-- [2020-11-26-社招-校招-字节跳动前端后端招聘](https://www.v2ex.com/t/729608) ![](assets/new.png)  
-- [2020-11-26-Endnote-for-Mac-越用越卡](https://www.v2ex.com/t/729607) ![](assets/new.png)  
-- [2020-11-26-关于-hangouts-迁移的问题](https://www.v2ex.com/t/729606) ![](assets/new.png)  
-- [2020-11-26-请教，-Key-和-Vlaue-都是-String-的字典，如何转换，并写入到-MySQL-的一个字段值里？-读取把内容还原成字典？](https://www.v2ex.com/t/729605) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

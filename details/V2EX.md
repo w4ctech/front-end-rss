@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-27 16:41:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 16:58:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-27-OSS-对象存储的全球加速方案](https://www.v2ex.com/t/730026) 
 - [2020-11-27-快来-分享下黑五都准备买什么吧](https://www.v2ex.com/t/730024) 
 - [2020-11-27-无法访问此网站-如何解决？](https://www.v2ex.com/t/730023) 
 - [2020-11-27-黑五---Paw-免费](https://www.v2ex.com/t/730022) 

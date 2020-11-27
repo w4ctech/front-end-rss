@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 16:41:11，:rocket: 更新条数: +794， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 16:58:05，:rocket: 更新条数: +795， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -351,6 +351,8 @@
 </summary>
 
 
+- [2020-11-27-人间真实！成年人的崩溃](https://www.ershicimi.com/p/d58287986c1f673a467f3313849325ad) ![](assets/new.png)  
+- [2020-11-27-秒杀其他按键精灵，支持VS-Code，这个JavaScript自动化软件居然还有人不知道](https://www.ershicimi.com/p/f76effaad3eb74efbc821daed09e3e56) ![](assets/new.png)  
 - [2020-11-26-一直以来都有粉丝问我要字节、阿里这些大厂的真实简历，奈何手里一直没货。-恰好最近收到几个朋友成功拿](https://www.ershicimi.com/p/00c2693f25e4b1e9c605cd66b63a70b0) ![](assets/new.png)  
 - [2020-11-25-毁掉一个人最狠的方式，就是让他一直忙](https://www.ershicimi.com/p/80184b3cce84e1e345903d40b73cded0) ![](assets/new.png)  
 - [2020-11-25-Angular-11正式发布：加入webpack-5，升级至TS-4.0，不再支持IE-9-和10](https://www.ershicimi.com/p/f382c40434f5c7ec2b435aaf5dce5868) ![](assets/new.png)  
@@ -369,8 +371,6 @@
 - [2020-11-15-专科毕业5年，小前端进腾讯啦！](https://www.ershicimi.com/p/85791c6df33bc9f5a534f2de7208da50) ![](assets/new.png)  
 - [2020-11-14-Vue-的使用，学会这些就够了！](https://www.ershicimi.com/p/4e574c60f59034658feed21166fd0ace) ![](assets/new.png)  
 - [2020-11-13-百度程序员发帖：35+程序员投简历，连HR那关都过不了？网友：我40岁都能进大厂！](https://www.ershicimi.com/p/70369e8c669dbe41c15676b7062a4d48) ![](assets/new.png)  
-- [2020-11-12-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/54f477228ce90c9305051db57a882ecf) ![](assets/new.png)  
-- [2020-11-12-Javascript-实现复制（Copy）动作大全](https://www.ershicimi.com/p/11858c1f713ad70a62ab0107ab39453d) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1034,6 +1034,7 @@
 </summary>
 
 
+- [2020-11-27-OSS-对象存储的全球加速方案](https://www.v2ex.com/t/730026) ![](assets/new.png)  
 - [2020-11-27-快来-分享下黑五都准备买什么吧](https://www.v2ex.com/t/730024) ![](assets/new.png)  
 - [2020-11-27-无法访问此网站-如何解决？](https://www.v2ex.com/t/730023) ![](assets/new.png)  
 - [2020-11-27-黑五---Paw-免费](https://www.v2ex.com/t/730022) ![](assets/new.png)  
@@ -1053,7 +1054,6 @@
 - [2020-11-27-上海目前出去，有些地方会让进吗？](https://www.v2ex.com/t/730006) ![](assets/new.png)  
 - [2020-11-27-最近-infuse-的海报是不是很多电影都刷不出来了？](https://www.v2ex.com/t/730004) ![](assets/new.png)  
 - [2020-11-27-求游戏手机推荐-主要是散热好~~-现在打手游-手机烫手](https://www.v2ex.com/t/730002) ![](assets/new.png)  
-- [2020-11-27-有人买到花菱草色表带吗](https://www.v2ex.com/t/730001) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

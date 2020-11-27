@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 01:10:22，:rocket: 更新条数: +3889， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 01:38:42，:rocket: 更新条数: +3898， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,16 +66,18 @@
 
 
 - [2020-11-27-11月26日全国新增确诊病例5例-均为境外输入](https://m.caixin.com/m/2020-11-27/101632901.html) ![](assets/new.png)  
+- [2020-11-27-聚焦|张文宏：控制经物流的海外输入性疫情](http://m.opinion.caixin.com/m/2020-11-27/101632910.html) ![](assets/new.png)  
+- [2020-11-27-大流行手记|11月26日：欧美节假季疫情恐加剧-全球性别平等受损](https://m.caixin.com/m/2020-11-27/101632915.html) ![](assets/new.png)  
 - [2020-11-26-满洲里共确诊11例新冠-现家庭、学校、小区聚集特征](https://m.caixin.com/m/2020-11-26/101632824.html) ![](assets/new.png)  
 - [2020-11-26-来华航班近两百份核酸报告雷同-使馆要求俄航司重检](http://m.companies.caixin.com/m/2020-11-26/101632663.html) ![](assets/new.png)  
 - [2020-11-26-最新海外疫情：新冠感染近6030万-累计死亡超141万](http://m.international.caixin.com/m/2020-11-26/101632817.html) ![](assets/new.png)  
 - [2020-11-26-内蒙古新增本土确诊病例9例-均在满洲里](http://m.china.caixin.com/m/2020-11-26/101632701.html) ![](assets/new.png)  
 - [2020-11-26-【境内疫情观察】内蒙古新增9例本土确诊病例（11月25日）](http://m.database.caixin.com/m/2020-11-26/101632600.html) ![](assets/new.png)  
 - [2020-11-26-大流行手记|11月25日：英入境隔离期将缩至5天-美测试疫苗分发网络](https://m.caixin.com/m/2020-11-26/101632481.html) ![](assets/new.png)  
-- [2020-11-25-新冠疫情传播“物染人”和“人染人”并存-非冷链运输也有传播风险](https://m.caixin.com/m/2020-11-25/101632416.html) ![](assets/new.png)  
 - [2020-11-25-天津两起疫情有不同源头-其中之一为进口猪头](https://m.caixin.com/m/2020-11-25/101632216.html) ![](assets/new.png)  
 - [2020-11-25-【境内疫情观察】内蒙古新增1例本土疑似病例（11月24日）](http://m.database.caixin.com/m/2020-11-25/101632194.html) ![](assets/new.png)  
 - [2020-11-25-大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html) ![](assets/new.png)  
+- [2020-11-25-新冠疫情传播“物染人”和“人染人”并存-非冷链运输也有传播风险](https://m.caixin.com/m/2020-11-25/101632416.html) ![](assets/new.png)  
 - [2020-11-24-江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html) ![](assets/new.png)  
 - [2020-11-24-香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html) ![](assets/new.png)  
 - [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
 - [2020-11-23-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
 - [2020-11-23-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
-- [2020-11-23-大流行手记|11月22日：沙特拨5亿美元研发疫苗-爱尔兰拟扑杀境内养殖貂](https://m.caixin.com/m/2020-11-23/101631291.html) ![](assets/new.png)  
-- [2020-11-22-上海新增2例本地确诊病例-浦东机场启动货运区人员集中检测](https://m.caixin.com/m/2020-11-22/101631230.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -216,6 +216,9 @@
 </summary>
 
 
+- [2020-11-27-可视化：前端人的未来](https://www.ershicimi.com/p/cec686a68e9593e429439da892a38387) ![](assets/new.png)  
+- [2020-11-27-【第2130期】前端元编程——使用注解加速你的前端开发](https://www.ershicimi.com/p/57c2b9af369d7372a17f9e1cfddadbea) ![](assets/new.png)  
+- [2020-11-27-【招聘】深圳大疆DJI-前端团队招高级前端工程师](https://www.ershicimi.com/p/8605d2d0efd20d22e42d714c627ce245) ![](assets/new.png)  
 - [2020-11-26-【第2129期】探讨浏览器指纹](https://www.ershicimi.com/p/f790744c16a1f32b7d4cdddb45515ca4) ![](assets/new.png)  
 - [2020-11-26-【训练营】阿里巴巴前端练习生计划，成为专业前端人！](https://www.ershicimi.com/p/8ce6920c6783759a67f0a6da77132cab) ![](assets/new.png)  
 - [2020-11-26-【招聘】北京好大夫在线招前端开发工程师](https://www.ershicimi.com/p/467a4ceb2d0492ae1adbfef607ec1ce9) ![](assets/new.png)  
@@ -233,9 +236,6 @@
 - [2020-11-20-【第2123期】隐藏字符加密](https://www.ershicimi.com/p/43aa8e0b74ae25927987f837c391a4c5) ![](assets/new.png)  
 - [2020-11-20-【招聘】字节跳动头条/西瓜/小说业务架构前端团队招聘](https://www.ershicimi.com/p/9c6293d3a07360cba5372cdc5d07c693) ![](assets/new.png)  
 - [2020-11-19-【第2122期】4个未听说过的强大JavaScript操作符](https://www.ershicimi.com/p/ac58563aace344f9fdc005f519387db4) ![](assets/new.png)  
-- [2020-11-19-【招聘】北京字节跳动幸福里团队招前端工程师（社招）](https://www.ershicimi.com/p/216fbfc50241bfd7d2db43418239bc6e) ![](assets/new.png)  
-- [2020-11-18-【第2121期】斗鱼关注人数爬取-──-字体反爬的攻与防](https://www.ershicimi.com/p/ece4aea9104abc89f969de223ba7ef39) ![](assets/new.png)  
-- [2020-11-18-重学webpack4之loader开发](https://www.ershicimi.com/p/d8b6eb7b4f58e27247ba799557c6ada9) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -247,6 +247,8 @@
 </summary>
 
 
+- [2020-11-26-一文带你快速上手-Rollup](https://www.ershicimi.com/p/25e4cb6db8b4e736672d787432ff42b0) ![](assets/new.png)  
+- [2020-11-26-让你爱不释手的-HTTP-API-工具：Postman](https://www.ershicimi.com/p/87cd1614290b8c113b4203e3d1bbc99f) ![](assets/new.png)  
 - [2020-11-25-做了这个-Vue3.0-实战项目，大厂三面都过了，涨薪55%！（附项目全过程）](https://www.ershicimi.com/p/e13ebe90aaece6a01235f7d5cfcf84b1) ![](assets/new.png)  
 - [2020-11-25-推荐一个零配置开箱即用的React/Vue应用自动化构建脚手架，不强大你来找我](https://www.ershicimi.com/p/617c8989334e3a2533fb907f629e848c) ![](assets/new.png)  
 - [2020-11-24-Vue-在哪些方面比-React-做得更好？](https://www.ershicimi.com/p/71c762cceb416f16b59ddcc732f3abc8) ![](assets/new.png)  
@@ -265,8 +267,6 @@
 - [2020-11-16-@前端人，你其实可以利用技术“躺赚”](https://www.ershicimi.com/p/0216cd1c121fcaaa1798d3bbd999a53d) ![](assets/new.png)  
 - [2020-11-16-这些高阶的函数技术，你掌握了么](https://www.ershicimi.com/p/16154e60d0081b6b4572e0487f90f4c3) ![](assets/new.png)  
 - [2020-11-15-纯-CSS-实现吸附效果](https://www.ershicimi.com/p/89a03d0d9ce2c1d671a76b4b945a19cd) ![](assets/new.png)  
-- [2020-11-14-化繁为简，简括浏览器渲染机制](https://www.ershicimi.com/p/30af1d88e12861f62367c62514e7eeff) ![](assets/new.png)  
-- [2020-11-13-行业怪象：前端总是被鄙视，但又十分抢手](https://www.ershicimi.com/p/fd836d5071511bf6a668500581ebc932) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,26 +1074,26 @@
 </summary>
 
 
+- [2020-11-27-社招-推荐算法工程师-网易云音乐杭州滨江](https://www.v2ex.com/t/729727) ![](assets/new.png)  
+- [2020-11-27-求推荐好用好玩的-bot](https://www.v2ex.com/t/729726) ![](assets/new.png)  
+- [2020-11-27-突然绿屏了](https://www.v2ex.com/t/729725) ![](assets/new.png)  
+- [2020-11-27-MBP-M1-现在去线下买可以买得到吗？没预约过](https://www.v2ex.com/t/729724) ![](assets/new.png)  
+- [2020-11-27-迫于穷，是用-IDEA-社区版，还是-vscode-?](https://www.v2ex.com/t/729723) ![](assets/new.png)  
+- [2020-11-27-不知道有没老哥跟我一样被蛆虫上脑的电报色批小白骚扰。](https://www.v2ex.com/t/729722) ![](assets/new.png)  
+- [2020-11-27-Apple-官网取消订单按钮消失是快发货了吗](https://www.v2ex.com/t/729721) ![](assets/new.png)  
+- [2020-11-27-lazykube-使用鼠标和终端交互的方式管理-K8s-集群---经过多次迭代增加了很多功能-~](https://www.v2ex.com/t/729720) ![](assets/new.png)  
+- [2020-11-27-关于-iOS-App-由于-calKit-被拒绝](https://www.v2ex.com/t/729719) ![](assets/new.png)  
+- [2020-11-27-git-有没有办法-push-部分文件到远程仓库](https://www.v2ex.com/t/729718) ![](assets/new.png)  
+- [2020-11-27-Linux-内核项目为什么-30-年不崩不乱？](https://www.v2ex.com/t/729717) ![](assets/new.png)  
+- [2020-11-27-Doc4j-word-转-pdf-样式问题](https://www.v2ex.com/t/729716) ![](assets/new.png)  
+- [2020-11-27-想开个少儿编程的店,最优的途径是加盟吗](https://www.v2ex.com/t/729715) ![](assets/new.png)  
+- [2020-11-27-最近学科目二中，大胆猜想在占用大量面积的驾校，未来虚拟练车会不会成为主流](https://www.v2ex.com/t/729714) ![](assets/new.png)  
+- [2020-11-27-我最爱的狗头搜索宕机了？](https://www.v2ex.com/t/729713) ![](assets/new.png)  
+- [2020-11-27-西数-12T-机械硬盘中亚含税包邮￥-1253.17](https://www.v2ex.com/t/729712) ![](assets/new.png)  
+- [2020-11-27-AI-搜集各国高估和低估的指数基金，便于投资者参考！](https://www.v2ex.com/t/729710) ![](assets/new.png)  
 - [2020-11-27-好怕因为“试用期内把项目完成了”而导致试用期没过？](https://www.v2ex.com/t/729708) ![](assets/new.png)  
 - [2020-11-27-中国航信重庆研发中心-IOS、Andorid、初级-Java-开发-、前端开发、软件测试岗位](https://www.v2ex.com/t/729707) ![](assets/new.png)  
 - [2020-11-27-求推荐-3000-左右的主机](https://www.v2ex.com/t/729706) ![](assets/new.png)  
-- [2020-11-27-doge-搜索挂了？](https://www.v2ex.com/t/729705) ![](assets/new.png)  
-- [2020-11-27-Java-,-想请教有没什么方法能对这种字符串转换有高效操作](https://www.v2ex.com/t/729704) ![](assets/new.png)  
-- [2020-11-27-今年黑五没有苹果-gift-card-折扣吗？](https://www.v2ex.com/t/729703) ![](assets/new.png)  
-- [2020-11-27-19-款-mbp13-在外接上-4k-电视的时候会卡很久，是什么问题？](https://www.v2ex.com/t/729702) ![](assets/new.png)  
-- [2020-11-27-请问一下，有没有大佬知道，怎么「在-Mac-上」屏蔽垃圾短信？](https://www.v2ex.com/t/729701) ![](assets/new.png)  
-- [2020-11-27-30-岁准大龄程序员的出路是什么？](https://www.v2ex.com/t/729700) ![](assets/new.png)  
-- [2020-11-27-现在出口宽带好的运营商是哪个？](https://www.v2ex.com/t/729699) ![](assets/new.png)  
-- [2020-11-27-跨数据源查询解决方案](https://www.v2ex.com/t/729698) ![](assets/new.png)  
-- [2020-11-27-老爸要我给他挑部手机，现在入手-iPhone-xr-可以吗？](https://www.v2ex.com/t/729697) ![](assets/new.png)  
-- [2020-11-27-新零售领域-web-前端-offer-选择？](https://www.v2ex.com/t/729696) ![](assets/new.png)  
-- [2020-11-27-看了之前的帖子，我想问问那些移动端的浏览器诸如-UC-之流，直接屏蔽网站广告不构成侵权和犯罪吗？](https://www.v2ex.com/t/729695) ![](assets/new.png)  
-- [2020-11-27-求-macOS-Big-Sur-上替代-Thunderbird-的邮件客户端](https://www.v2ex.com/t/729694) ![](assets/new.png)  
-- [2020-11-27-iPhone-正确下载姿势是什么？](https://www.v2ex.com/t/729693) ![](assets/new.png)  
-- [2020-11-27-iOS-昨天更新到了-14.2，今天钉钉各种闪退，有没有同样问题的？](https://www.v2ex.com/t/729692) ![](assets/new.png)  
-- [2020-11-26-老哥们问一下，-Steam-现在最佳购买方式是什么，还能用充值卡吗？](https://www.v2ex.com/t/729690) ![](assets/new.png)  
-- [2020-11-26-Go-大数据生态迎来重量级产品-CDS](https://www.v2ex.com/t/729689) ![](assets/new.png)  
-- [2020-11-26-有偿，求-Python-大神](https://www.v2ex.com/t/729687) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,18 +1144,18 @@
 - [2020-11-27-在-Android-开发中使用协程（背景介绍）](https://toutiao.io/k/hkzk6lw) ![](assets/new.png)  
 - [2020-11-27-一文带你快速上手-Rollup](https://toutiao.io/k/34zgygy) ![](assets/new.png)  
 - [2020-11-27-我给-Apache-顶级项目提了个-Bug](https://toutiao.io/k/cxrsbn6) ![](assets/new.png)  
-- [2020-11-27-健壮的数据仓库项目搭建](https://toutiao.io/k/rlk9r6d) ![](assets/new.png)  
 - [2020-11-27-macOS-使用-XQuartz-支持-X11实现-Linux-图形化界面显示](https://toutiao.io/k/05rih6f) ![](assets/new.png)  
+- [2020-11-27-健壮的数据仓库项目搭建](https://toutiao.io/k/rlk9r6d) ![](assets/new.png)  
 - [2020-11-27-译-使用-.NET-5-体验大数据和机器学习](https://toutiao.io/k/b7hi7tn) ![](assets/new.png)  
 - [2020-11-27-工具-|-腾讯开源的，面向数据库事务处理的验证系统](https://toutiao.io/k/3mqcnxo) ![](assets/new.png)  
-- [2020-11-27-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
-- [2020-11-27-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
+- [2020-11-27-LVS-+-Iptables-实现-FULLNAT-及原理分析](https://toutiao.io/k/l50huqe) ![](assets/new.png)  
+- [2020-11-27-基于-Kubernetes-和-OpenKruise-的可变基础设施实践](https://toutiao.io/k/jp5wto0) ![](assets/new.png)  
+- [2020-11-27-大咖聊技术：强化学习也爱玩雅达利吗？](https://toutiao.io/k/6zynkk4) ![](assets/new.png)  
+- [2020-11-27-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
 - [2020-11-27-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
 - [2020-11-27-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
-- [2020-11-27-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
 - [2020-11-27-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
-- [2020-11-27-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
-- [2020-11-27-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-27-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

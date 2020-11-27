@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 10:26:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 10:33:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,7 +6,7 @@
 
 
 - [2020-11-27-11月26日全国新增确诊病例5例-均为境外输入](https://m.caixin.com/m/2020-11-27/101632901.html) 
-- [2020-11-27-钟南山：好的新冠疫苗至少要等两三年](https://m.caixin.com/m/2020-11-27/101633147.html) 
+- [2020-11-27-钟南山:应研发多种类型疫苗,哪一种最好现在还不知道](https://m.caixin.com/m/2020-11-27/101633147.html) 
 - [2020-11-27-独家|专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html) 
 - [2020-11-27-聚焦|张文宏：控制经物流的海外输入性疫情](http://m.opinion.caixin.com/m/2020-11-27/101632910.html) 
 - [2020-11-27-钟南山建议香港再次推行全民检测](https://m.caixin.com/m/2020-11-27/101633024.html) 
@@ -2828,6 +2828,7 @@
 - [2020-11-17-知乎故事-|-北京出租车司机](https://www.ershicimi.com/p/64395a0f1f811cd6c519f8a0f58e297b) 
 - [2020-11-16-11-个给恋爱中男孩子的忠告](https://www.ershicimi.com/p/45f77c524434ad777bfc6a2b03ffaae8) 
 - [2020-11-16-21-种偷偷加了很多油的零食！薯片才排第六，第一居然是……](https://www.ershicimi.com/p/1d27f9f1786e524085b284961e14877f) 
+- [2020-11-27-我越来越喜欢用-NEVE-主题建站了](https://www.v2ex.com/t/729960) 
 - [2020-11-27-硕士导师应该选-PUSH-还是放养型的](https://www.v2ex.com/t/729959) 
 - [2020-11-27-读多插入少的-unordered_map,-有办法实现读取时无锁吗?-只涉及增和查,-不涉及删和改.-并且-map-中如果存某-key,-就不重新插入该-key](https://www.v2ex.com/t/729958) 
 - [2020-11-27-k8s-&-kong-里怎么方便添加一个-path-用于返回字符串？](https://www.v2ex.com/t/729957) 
@@ -2859,7 +2860,6 @@
 - [2020-11-27-用算力证明当验证码可行吗。](https://www.v2ex.com/t/729914) 
 - [2020-11-27-Linux-容器实现的底层原理是什么？和虚拟化技术一样吗？----一个菜鸟的学习笔记分享](https://www.v2ex.com/t/729913) 
 - [2020-11-27-B-站-up-主数据观察网站有吗？](https://www.v2ex.com/t/729912) 
-- [2020-11-27-PHP-数据追加数据后的长度问题](https://www.v2ex.com/t/729910) 
 - [2020-11-27-阿里云打下AI地基，更多的开发者走向了前台-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14004&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778839%3Futm_content%3Dg_1000210969%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-27-2020双11养猫技术大揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14002&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778793%3Futm_content%3Dg_1000210967%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-27-以-Kubernetes-为代表的容器技术，已成为云计算的新界面-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14001&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778826%3Futm_content%3Dg_1000210966%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -2890,15 +2890,15 @@
 - [2020-11-27-LVS-+-Iptables-实现-FULLNAT-及原理分析](https://toutiao.io/k/l50huqe) 
 - [2020-11-27-大咖聊技术：强化学习也爱玩雅达利吗？](https://toutiao.io/k/6zynkk4) 
 - [2020-11-27-基于-Kubernetes-和-OpenKruise-的可变基础设施实践](https://toutiao.io/k/jp5wto0) 
-- [2020-11-27-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) 
-- [2020-11-27-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) 
-- [2020-11-27-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) 
-- [2020-11-27-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) 
+- [2020-11-27-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) 
 - [2020-11-27-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) 
 - [2020-11-27-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) 
-- [2020-11-27-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) 
-- [2020-11-27-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) 
+- [2020-11-27-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) 
 - [2020-11-27-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) 
+- [2020-11-27-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) 
+- [2020-11-27-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) 
+- [2020-11-27-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) 
+- [2020-11-27-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) 
 - [2020-11-27-IOT漏洞研究:Web服务](https://sec.thief.one/article_content?a_id=1fb5abc39fca164ecce77f4bab8ce6cd) 
 - [2020-11-27-360空间测绘系统v4.2功能更新](https://sec.thief.one/article_content?a_id=e4745212a316b1e5f0fd38eeb6d15cb7) 
 - [2020-11-27-CVE-2020-14882​&14883:Weblogic-RCE复现](https://sec.thief.one/article_content?a_id=c0fa088badbe4ed4134c95a9bd5b3fba) 

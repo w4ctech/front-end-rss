@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 10:26:33，:rocket: 更新条数: +3901， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 10:33:59，:rocket: 更新条数: +3901， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,7 @@
 
 
 - [2020-11-27-11月26日全国新增确诊病例5例-均为境外输入](https://m.caixin.com/m/2020-11-27/101632901.html) ![](assets/new.png)  
-- [2020-11-27-钟南山：好的新冠疫苗至少要等两三年](https://m.caixin.com/m/2020-11-27/101633147.html) ![](assets/new.png)  
+- [2020-11-27-钟南山:应研发多种类型疫苗,哪一种最好现在还不知道](https://m.caixin.com/m/2020-11-27/101633147.html) ![](assets/new.png)  
 - [2020-11-27-独家|专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html) ![](assets/new.png)  
 - [2020-11-27-聚焦|张文宏：控制经物流的海外输入性疫情](http://m.opinion.caixin.com/m/2020-11-27/101632910.html) ![](assets/new.png)  
 - [2020-11-27-钟南山建议香港再次推行全民检测](https://m.caixin.com/m/2020-11-27/101633024.html) ![](assets/new.png)  
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-27-我越来越喜欢用-NEVE-主题建站了](https://www.v2ex.com/t/729960) ![](assets/new.png)  
 - [2020-11-27-硕士导师应该选-PUSH-还是放养型的](https://www.v2ex.com/t/729959) ![](assets/new.png)  
 - [2020-11-27-读多插入少的-unordered_map,-有办法实现读取时无锁吗?-只涉及增和查,-不涉及删和改.-并且-map-中如果存某-key,-就不重新插入该-key](https://www.v2ex.com/t/729958) ![](assets/new.png)  
 - [2020-11-27-k8s-&-kong-里怎么方便添加一个-path-用于返回字符串？](https://www.v2ex.com/t/729957) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-11-27-有没有网盘模拟本地硬盘的软件？](https://www.v2ex.com/t/729936) ![](assets/new.png)  
 - [2020-11-27-VSCODE-如何扩展某种语言的语法风格?](https://www.v2ex.com/t/729935) ![](assets/new.png)  
 - [2020-11-27-做了-4-年-c#-web-开发，在北京好难找工作呀](https://www.v2ex.com/t/729934) ![](assets/new.png)  
-- [2020-11-27-pymysql-执行报错，大佬们帮忙看看](https://www.v2ex.com/t/729932) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

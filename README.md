@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 14:26:06，:rocket: 更新条数: +3899， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 14:33:14，:rocket: 更新条数: +3899， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-27-上海目前出去，有些地方会让进吗？](https://www.v2ex.com/t/730006) ![](assets/new.png)  
 - [2020-11-27-最近-infuse-的海报是不是很多电影都刷不出来了？](https://www.v2ex.com/t/730004) ![](assets/new.png)  
 - [2020-11-27-求游戏手机推荐-主要是散热好~~-现在打手游-手机烫手](https://www.v2ex.com/t/730002) ![](assets/new.png)  
 - [2020-11-27-有人买到花菱草色表带吗](https://www.v2ex.com/t/730001) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-11-27-iPhone-换机，支付宝的聊天记录等信息怎么迁移恢复？](https://www.v2ex.com/t/729982) ![](assets/new.png)  
 - [2020-11-27-Sketch-官方-M1-性能测试](https://www.v2ex.com/t/729981) ![](assets/new.png)  
 - [2020-11-27-请教,我们通过哪种方式去了解某个东西产品,项目,框架等等是否还在流行.](https://www.v2ex.com/t/729978) ![](assets/new.png)  
-- [2020-11-27-机你太美？惠普宣布蔡徐坤为代言人](https://www.v2ex.com/t/729976) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1151,8 +1151,8 @@
 - [2020-11-27-macOS-使用-XQuartz-支持-X11-实现-Linux-图形化界面显示](https://toutiao.io/k/05rih6f) ![](assets/new.png)  
 - [2020-11-27-译-使用-.NET-5-体验大数据和机器学习](https://toutiao.io/k/b7hi7tn) ![](assets/new.png)  
 - [2020-11-27-LVS-+-Iptables-实现-FULLNAT-及原理分析](https://toutiao.io/k/l50huqe) ![](assets/new.png)  
-- [2020-11-27-大咖聊技术：强化学习也爱玩雅达利吗？](https://toutiao.io/k/6zynkk4) ![](assets/new.png)  
 - [2020-11-27-基于-Kubernetes-和-OpenKruise-的可变基础设施实践](https://toutiao.io/k/jp5wto0) ![](assets/new.png)  
+- [2020-11-27-大咖聊技术：强化学习也爱玩雅达利吗？](https://toutiao.io/k/6zynkk4) ![](assets/new.png)  
 - [2020-11-27-探索-React-合成事件](https://toutiao.io/k/nm20ze4) ![](assets/new.png)  
 - [2020-11-27-重构实践：基于腾讯云-Elasticsearch-搭建-QQ-邮箱全文检索](https://toutiao.io/k/x57lwvc) ![](assets/new.png)  
 - [2020-11-27-译-UML-Association（关联）vs-Aggregation（聚合）-vs-Composition（组合）](https://toutiao.io/k/d95jbzk) ![](assets/new.png)  

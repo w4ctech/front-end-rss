@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-27 14:48:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 15:04:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -202,7 +202,6 @@
 
 
 
-- [【前端早读课】【第2128期】大型小程序如何研发提效](https://www.ershicimi.com/p/40178f0b49f5e0f940de4d003371b5b4)
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【前端之巅】场景构造难，编译很耗时？看小程序业务如何提高效研发](https://www.ershicimi.com/p/9b7cbb4fcfbacff8537b77efb5a0295b)
@@ -447,11 +446,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html)
 - [【武汉肺炎防疫全纪录(财新网)】赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html)
 - [【Vue中文社区】前端-API-请求缓存数据的-5-种方案](https://www.ershicimi.com/p/da93a0200a9855b20ce67050c1cfaa95)
-- [【前端早读课】【第2129期】探讨浏览器指纹](https://www.ershicimi.com/p/f790744c16a1f32b7d4cdddb45515ca4)
-- [【前端早读课】【第2125期】解决-Web-应用与浏览器快捷键冲突的一条野路子](https://www.ershicimi.com/p/c74c8072ce54da5c94ff129d36f5efd0)
 - [【前端大全】让你爱不释手的-HTTP-API-工具：Postman](https://www.ershicimi.com/p/87cd1614290b8c113b4203e3d1bbc99f)
 - [【前端大全】对标-Postman！2.5-万-Star-的挑战者：Hoppscotch](https://www.ershicimi.com/p/f7a2a73ddabf044866e678c8cfef75b9)
 - [【前端开发】浏览器是如何调度进程和线程的？](https://www.ershicimi.com/p/c2991e8702de4f9532ba793a966bf26f)
+- [【前端大学】从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/d8b9d174792325554ecd3a796b69de29)
+- [【前端迷】抖音前端安全招前端（实习、高级都招）](https://www.ershicimi.com/p/cb4bcf2ebbdf8937d5ca6c8723e4b6a2)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -469,7 +468,6 @@
 
 
 - [【React中文社区】实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1)
-- [【前端早读课】【招聘】字节跳动财经前端团队招前端/全栈工程师](https://www.ershicimi.com/p/848461468681df984ffbd7ae756078d6)
 - [【前端大全】算法根基不稳，还能进大厂么？](https://www.ershicimi.com/p/86a3c25d96a15d645240f09f337e19ba)
 - [【前端大全】AST-实现函数错误自动上报](https://www.ershicimi.com/p/f461120022beb78d455119b2b0ee9ade)
 - [【前端大学】AST-实现函数错误自动上报](https://www.ershicimi.com/p/e9402aca3549ada55b9eeb135bfda497)
@@ -536,13 +534,6 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
-- [【前端早读课】【招聘】深圳大疆DJI-前端团队招高级前端工程师](https://www.ershicimi.com/p/8605d2d0efd20d22e42d714c627ce245)
-- [【前端早读课】【招聘】北京好大夫在线招前端开发工程师](https://www.ershicimi.com/p/467a4ceb2d0492ae1adbfef607ec1ce9)
-- [【前端早读课】【招聘】阿里云-GTS-GCC招聘前端-P6、P7](https://www.ershicimi.com/p/0406a754367319de3419bf65b084ef51)
-- [【前端早读课】【招聘】杭州网易严选---高级/资深前端工程师招聘【商城方向、可视化方向】](https://www.ershicimi.com/p/4a2ac3d0302ddc0ab63d35b7520b86ba)
-- [【前端早读课】【招聘】蚂蚁集团研发效能部代码服务与-CloudIDE-团队招聘工程师/专家](https://www.ershicimi.com/p/c41b1aeccb62044bfb7e94e969308d9f)
-- [【前端早读课】【招聘】阿里巴巴-CRO-技术部大前端团队招聘](https://www.ershicimi.com/p/01966a1f35772b00075760089c06878c)
-- [【前端早读课】【招聘】字节跳动头条/西瓜/小说业务架构前端团队招聘](https://www.ershicimi.com/p/9c6293d3a07360cba5372cdc5d07c693)
 - [【前端开发】高频前端开发面试问题及答案整理](https://www.ershicimi.com/p/b3a93bc5094ea93b2946917738688a5e)
 - [【前端大学】字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/54f477228ce90c9305051db57a882ecf)
 - [【前端外刊评论】美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665)
@@ -555,6 +546,13 @@
 - [【前端宇宙】【从青铜到钻石】3-年创业公司成长经历-&&-面试总结](https://www.ershicimi.com/p/b5846a88daaa5c3cd045a3f0f5486e15)
 - [【前端宇宙】12-道腾讯前端面试真题及答案整理](https://www.ershicimi.com/p/28baa842a304c24ea39adead62ee6c21)
 - [【前端瓶子君】【面试】764高频前端开发面试问题及答案整理](https://www.ershicimi.com/p/1c443dd468ca04588d1f5b16c235dc72)
+- [【程序员成长指北】新出炉的阿里、腾讯、美团以及网易等一线公司面试总结](https://www.ershicimi.com/p/03e97cd833477bed46996595e3b56036)
+- [【程序员成长指北】字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/9f053eb61e3d582595fa1fdfbc309cf4)
+- [【前端日刊】腾讯、华为前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557)
+- [【前端日刊】字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/f8720b9ba9028e4081b1345e6367f3c5)
+- [【前端日刊】阿里前端技术岗发布+内部面试题手册（含P5-P7）](https://www.ershicimi.com/p/5530422518db2c1549a9bb5ab496a15f)
+- [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
+- [【互联网架构师】面试官就是这么欺负人：new-Object到底占用几个字节？](https://www.ershicimi.com/p/b56f88d1f40b017ef8816508ad42d173)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

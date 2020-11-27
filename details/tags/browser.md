@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 05:08:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 05:24:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,10 +44,14 @@
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2020-11-22-Spring中的Controller-，Service，Dao是不是线程安全的？](https://www.ershicimi.com/p/a5130710eb2dfcc37633257c999510de) 
 - [2020-11-26-美国重申中兴威胁美国国家安全，12-月将对华为做出最终裁决](https://www.ershicimi.com/p/65df2eeea4115ad80b460e76d0732450) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-27-为什么要解决-iframe-跨域问题?-iframe-不是默认可以跨域的吗?](https://www.v2ex.com/t/729827) 
 - [2020-11-27-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
+- [2020-11-27-用无人机保卫5G网络安全](https://sec.thief.one/article_content?a_id=447b74e6a98bb77f3bf7919aa7bdfbe5) 
+- [2020-11-27-新冠疫情是如何改变传统的云安全防护策略](https://sec.thief.one/article_content?a_id=889bb860a1792899ba6be1cc335489bb) 
+- [2020-11-27-《工业互联网安全架构白皮书》全文](https://sec.thief.one/article_content?a_id=70300ea982d0dc617e925a662db052bd) 
 - [2020-11-26-京麒大会倒计时8天!安全大咖邀您共赴数智化新征程!](https://sec.thief.one/article_content?a_id=a165cb2c7481742f330be0dbe2f3d3a5) 
 - [2020-11-26-优秀安全负责人的方法论大揭秘-|-INSEC-WORLD-CSO论坛](https://sec.thief.one/article_content?a_id=b0540d666964a041b5b0240462624d22) 
 - [2020-11-26-CAN总线丨网络安全分析与防御措施](https://sec.thief.one/article_content?a_id=e8d429de2641181168de78f71c6c2000) 
@@ -65,7 +69,3 @@
 - [2020-11-24-防火墙暗藏邪恶“寄生兽”,360安全大脑直捣远控木马真凶](https://sec.thief.one/article_content?a_id=7771ffb6095b59b99961d1d3cb69c28e) 
 - [2020-11-24-【安全圈】Messenger致命漏洞!黑客可窃听通话](https://sec.thief.one/article_content?a_id=51d9f1f7b7229ffe45404c6576a0136f) 
 - [2020-11-24-深圳网络安全大会即将召开,发布五大亮点海报](https://sec.thief.one/article_content?a_id=f038ac325fa22d579edc69a99e578004) 
-- [2020-11-24-WitAwards-2020评选火热进行中-|-年度安全SRC&年度安全作者](https://sec.thief.one/article_content?a_id=83387fb2b7a58d238b12bfa58907a84f) 
-- [2020-11-24-【安全会议推荐】贝壳找房2020-ICS安全技术峰会](https://sec.thief.one/article_content?a_id=aead5add79bb7620d151858cb26dd470) 
-- [2020-11-24-重磅丨2020“网络安全创新能力100强评选”正式启动](https://sec.thief.one/article_content?a_id=166e19064900ee08b00cadc9864a2273) 
-- [2020-11-24-信息安全漏洞周报2020年第45期](https://sec.thief.one/article_content?a_id=fe5aa7f0ca682fc32d8da4ecd7b4f0e9) 

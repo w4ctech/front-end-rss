@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 07:47:55，:rocket: 更新条数: +3899， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 08:04:52，:rocket: 更新条数: +3899， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,12 @@
 </summary>
 
 
+- [2020-11-27-请问-screen-如何进入回滚模式-,-Ctrl-a-或者-Ctrl-a-ESC-在-ubuntu-16-下都不管用](https://www.v2ex.com/t/729908) ![](assets/new.png)  
+- [2020-11-27-长沙-高薪招聘后端开发工程师，欢迎一线大牛回乡](https://www.v2ex.com/t/729907) ![](assets/new.png)  
+- [2020-11-27-手机号不知什么原因被封了不能绑定会影响什么，邮件不回。](https://www.v2ex.com/t/729905) ![](assets/new.png)  
+- [2020-11-27-微信的联系人标签管理可以增添二级标签吗？](https://www.v2ex.com/t/729902) ![](assets/new.png)  
+- [2020-11-27-开源美团饿了么-CPS-赚佣金小程序+H5+后端献给-V-站好友交个朋友，一起撸个生活费](https://www.v2ex.com/t/729901) ![](assets/new.png)  
+- [2020-11-27-有最近想在阿里云买东西的嘛，从我的链接进去买呗，哈哈](https://www.v2ex.com/t/729900) ![](assets/new.png)  
 - [2020-11-27-一个绝对安全的账户密码管家小程序](https://www.v2ex.com/t/729899) ![](assets/new.png)  
 - [2020-11-27-（pulumi+ansible+elixir/phoniex+postgres+aws）使用-IaC-一键创建-AWS-服务器配置并发布上线](https://www.v2ex.com/t/729898) ![](assets/new.png)  
 - [2020-11-27-请问-Chrome-有类似-Firefox-这种给收藏的网址自定义关键词的插件吗？](https://www.v2ex.com/t/729897) ![](assets/new.png)  
@@ -1088,12 +1094,6 @@
 - [2020-11-27-律师为什么要给嫌犯辩护](https://www.v2ex.com/t/729886) ![](assets/new.png)  
 - [2020-11-27-一加全系好像不支持-802.11r-协议？](https://www.v2ex.com/t/729885) ![](assets/new.png)  
 - [2020-11-27-坐标苏州，微软中国工程院，-SDE/SDE2/Senior-SDE-组内直招](https://www.v2ex.com/t/729884) ![](assets/new.png)  
-- [2020-11-27-高级开发工程师/专家-车载导航-C++（阿里高德-base-北京望京）HC10-人](https://www.v2ex.com/t/729883) ![](assets/new.png)  
-- [2020-11-27-求推荐可以把-ftp/http/webdav-挂载为本地硬盘的软件（除了-RaiDrive）](https://www.v2ex.com/t/729882) ![](assets/new.png)  
-- [2020-11-27-做了一个在线解析下载短视频的-web-网站，可以下载没有水印的短视频](https://www.v2ex.com/t/729881) ![](assets/new.png)  
-- [2020-11-27-北京-自如-相寓长租公寓房东注意了,别答应降租](https://www.v2ex.com/t/729880) ![](assets/new.png)  
-- [2020-11-27-B-站首页不再刷出马保国对-B-站有什么好处吗？](https://www.v2ex.com/t/729879) ![](assets/new.png)  
-- [2020-11-27-求大神支招-微信小程序翻书效果](https://www.v2ex.com/t/729878) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,8 +1144,8 @@
 - [2020-11-27-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x) ![](assets/new.png)  
 - [2020-11-27-一文讲透-“布隆过滤器”](https://toutiao.io/k/9b7zxp0) ![](assets/new.png)  
 - [2020-11-27-我给-Apache-顶级项目提了个-Bug](https://toutiao.io/k/cxrsbn6) ![](assets/new.png)  
-- [2020-11-27-在-Android-开发中使用协程（背景介绍）](https://toutiao.io/k/hkzk6lw) ![](assets/new.png)  
 - [2020-11-27-健壮的数据仓库项目搭建](https://toutiao.io/k/rlk9r6d) ![](assets/new.png)  
+- [2020-11-27-在-Android-开发中使用协程（背景介绍）](https://toutiao.io/k/hkzk6lw) ![](assets/new.png)  
 - [2020-11-27-一文带你快速上手-Rollup](https://toutiao.io/k/34zgygy) ![](assets/new.png)  
 - [2020-11-27-macOS-使用-XQuartz-支持-X11-实现-Linux-图形化界面显示](https://toutiao.io/k/05rih6f) ![](assets/new.png)  
 - [2020-11-27-译-使用-.NET-5-体验大数据和机器学习](https://toutiao.io/k/b7hi7tn) ![](assets/new.png)  

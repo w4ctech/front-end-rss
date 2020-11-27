@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 00:08:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 00:18:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -49,8 +49,9 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-26-想买个-chromecast，各种途径均被砍单，还有什么方法可以用吗](https://www.v2ex.com/t/729656) 
 - [2020-11-26-如何知道一个-windows-软件里内嵌的网页-url？](https://www.v2ex.com/t/729645) 
-- [2020-11-27-URL-中的-#-原来是这个意思](https://toutiao.io/k/7kpbo94) 
-- [2020-11-27-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
+- [2020-11-27-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
+- [2020-11-26-京麒大会倒计时8天!安全大咖邀您共赴数智化新征程!](https://sec.thief.one/article_content?a_id=a165cb2c7481742f330be0dbe2f3d3a5) 
+- [2020-11-26-优秀安全负责人的方法论大揭秘-|-INSEC-WORLD-CSO论坛](https://sec.thief.one/article_content?a_id=b0540d666964a041b5b0240462624d22) 
 - [2020-11-26-CAN总线丨网络安全分析与防御措施](https://sec.thief.one/article_content?a_id=e8d429de2641181168de78f71c6c2000) 
 - [2020-11-26-网安新讯-|-央行金融业等保增强标准、密码新国标、网约车数据安全指...](https://sec.thief.one/article_content?a_id=996d01999a2e94f7ab5abb772ec56a38) 
 - [2020-11-26-漏洞银行获“第三届进博会”网络安全保障工作致谢函](https://sec.thief.one/article_content?a_id=572e57d1a4d0197f57224b6ea86fb030) 
@@ -70,6 +71,3 @@
 - [2020-11-24-【安全会议推荐】贝壳找房2020-ICS安全技术峰会](https://sec.thief.one/article_content?a_id=aead5add79bb7620d151858cb26dd470) 
 - [2020-11-24-重磅丨2020“网络安全创新能力100强评选”正式启动](https://sec.thief.one/article_content?a_id=166e19064900ee08b00cadc9864a2273) 
 - [2020-11-24-信息安全漏洞周报2020年第45期](https://sec.thief.one/article_content?a_id=fe5aa7f0ca682fc32d8da4ecd7b4f0e9) 
-- [2020-11-24-结婚10年,还没有存款:30岁后,什么才是女人最大的安全感?](https://sec.thief.one/article_content?a_id=bafe81d39b4eb9ae1db961e293eb4d28) 
-- [2020-11-24-Base上海-|-字节跳动多个安全风控岗位来袭](https://sec.thief.one/article_content?a_id=c8d03fc011684cf7cd25942115778fcd) 
-- [2020-11-24-2020双十一安全保卫战|司令携白帽战队凯旋](https://sec.thief.one/article_content?a_id=21d35d7148fc7d3ed528cc9f831446d4) 

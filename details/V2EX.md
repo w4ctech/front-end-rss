@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-27 00:08:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 00:18:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-27-iPhone-正确下载姿势是什么？](https://www.v2ex.com/t/729693) 
 - [2020-11-27-iOS-昨天更新到了-14.2，今天钉钉各种闪退，有没有同样问题的？](https://www.v2ex.com/t/729692) 
 - [2020-11-26-老哥们问一下，-Steam-现在最佳购买方式是什么，还能用充值卡吗？](https://www.v2ex.com/t/729690) 
 - [2020-11-26-Go-大数据生态迎来重量级产品-CDS](https://www.v2ex.com/t/729689) 
@@ -41,4 +42,3 @@
 - [2020-11-26-关于房屋拆迁补偿转售的协议问题，急求法律咨询](https://www.v2ex.com/t/729647) 
 - [2020-11-26-如何知道一个-windows-软件里内嵌的网页-url？](https://www.v2ex.com/t/729645) 
 - [2020-11-26-南京-Citrix-大量-HC-开放,-C++/-Java-/C#/-Python-,-junior/senior/staff/principal-SW,-PM,-Manager](https://www.v2ex.com/t/729644) 
-- [2020-11-26-Mac-mini-M1-加-2K-带鱼屏无法-HiDPI-的问题](https://www.v2ex.com/t/729643) 

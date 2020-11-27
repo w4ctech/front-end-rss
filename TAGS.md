@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-27 05:03:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 05:08:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -525,7 +525,6 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
-- [【互联网架构师】图解ElasticSearch-搜索原理](https://www.ershicimi.com/p/004a1ad76ab30b0657f69117c7835164)
 - [【InfoQ】从HTTP到HTTP/3的发展简史](https://www.ershicimi.com/p/9b07e8b7a6dd46aa987c0c70a16d5e5b)
 - [【V2EX】北京-社招-伴鱼绘本-招聘推荐算法/服务器/前端/客户端](https://www.v2ex.com/t/729796)
 - [【开发者头条】ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x)
@@ -575,7 +574,6 @@
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
-- [【互联网架构师】还在写-BUG？试试-GitHub-官方代码扫描工具！](https://www.ershicimi.com/p/e7ec8f0a82337b7f258072ff2aad0a5c)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】分享三个在-apple-m1-中使用-svn-的方法](https://www.v2ex.com/t/729784)

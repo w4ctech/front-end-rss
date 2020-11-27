@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 07:24:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 07:33:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -21,6 +21,7 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-11-25-图解ElasticSearch-搜索原理](https://www.ershicimi.com/p/004a1ad76ab30b0657f69117c7835164) 
 - [2020-11-24-从HTTP到HTTP/3的发展简史](https://www.ershicimi.com/p/9b07e8b7a6dd46aa987c0c70a16d5e5b) 
+- [2020-11-27-广告算法工程师-深圳-VIVO（30-60K）HC-3-人](https://www.v2ex.com/t/729892) 
 - [2020-11-27-求推荐可以把-ftp/http/webdav-挂载为本地硬盘的软件（除了-RaiDrive）](https://www.v2ex.com/t/729882) 
 - [2020-11-27-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x) 
 - [2020-11-27-重构实践：基于腾讯云-Elasticsearch-搭建-QQ-邮箱全文检索](https://toutiao.io/k/x57lwvc) 

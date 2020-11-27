@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-27 07:24:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 07:33:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-27-广告算法工程师-深圳-VIVO（30-60K）HC-3-人](https://www.v2ex.com/t/729892) 
 - [2020-11-27-有没有不是基于-spring-cloud-Java-这套技术栈的关于微服务的教程...](https://www.v2ex.com/t/729891) 
 - [2020-11-27-大家怎么看出道较早的-BiliBili-功成名就，而同样搬运番剧的后来者-DiliDili-身败名裂，赔款-100-万？](https://www.v2ex.com/t/729889) 
 - [2020-11-27-提出离职了](https://www.v2ex.com/t/729888) 

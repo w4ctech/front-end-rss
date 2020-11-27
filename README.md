@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 07:24:35，:rocket: 更新条数: +3895， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 07:33:30，:rocket: 更新条数: +3896， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-27-广告算法工程师-深圳-VIVO（30-60K）HC-3-人](https://www.v2ex.com/t/729892) ![](assets/new.png)  
 - [2020-11-27-有没有不是基于-spring-cloud-Java-这套技术栈的关于微服务的教程...](https://www.v2ex.com/t/729891) ![](assets/new.png)  
 - [2020-11-27-大家怎么看出道较早的-BiliBili-功成名就，而同样搬运番剧的后来者-DiliDili-身败名裂，赔款-100-万？](https://www.v2ex.com/t/729889) ![](assets/new.png)  
 - [2020-11-27-提出离职了](https://www.v2ex.com/t/729888) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-11-27-想系统学下-mac-开发，有新点的-Swift-开发-mac-应用的教程吗？](https://www.v2ex.com/t/729871) ![](assets/new.png)  
 - [2020-11-27-坐标西安，想吐槽一番我司经理](https://www.v2ex.com/t/729870) ![](assets/new.png)  
 - [2020-11-27-懂区块链技术的大佬们指导一下](https://www.v2ex.com/t/729869) ![](assets/new.png)  
-- [2020-11-27-这样的情况属于异常还是正常？](https://www.v2ex.com/t/729868) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

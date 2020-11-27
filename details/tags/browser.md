@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-26 23:47:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 00:08:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -49,8 +49,8 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-26-想买个-chromecast，各种途径均被砍单，还有什么方法可以用吗](https://www.v2ex.com/t/729656) 
 - [2020-11-26-如何知道一个-windows-软件里内嵌的网页-url？](https://www.v2ex.com/t/729645) 
-- [2020-11-26-URL-中的-#-原来是这个意思](https://toutiao.io/k/7kpbo94) 
-- [2020-11-26-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
+- [2020-11-27-URL-中的-#-原来是这个意思](https://toutiao.io/k/7kpbo94) 
+- [2020-11-27-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
 - [2020-11-26-CAN总线丨网络安全分析与防御措施](https://sec.thief.one/article_content?a_id=e8d429de2641181168de78f71c6c2000) 
 - [2020-11-26-网安新讯-|-央行金融业等保增强标准、密码新国标、网约车数据安全指...](https://sec.thief.one/article_content?a_id=996d01999a2e94f7ab5abb772ec56a38) 
 - [2020-11-26-漏洞银行获“第三届进博会”网络安全保障工作致谢函](https://sec.thief.one/article_content?a_id=572e57d1a4d0197f57224b6ea86fb030) 

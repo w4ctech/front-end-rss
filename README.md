@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-26 23:47:31，:rocket: 更新条数: +3893， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 00:08:03，:rocket: 更新条数: +3893， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-27-iOS-昨天更新到了-14.2，今天钉钉各种闪退，有没有同样问题的？](https://www.v2ex.com/t/729692) ![](assets/new.png)  
 - [2020-11-26-老哥们问一下，-Steam-现在最佳购买方式是什么，还能用充值卡吗？](https://www.v2ex.com/t/729690) ![](assets/new.png)  
 - [2020-11-26-Go-大数据生态迎来重量级产品-CDS](https://www.v2ex.com/t/729689) ![](assets/new.png)  
 - [2020-11-26-有偿，求-Python-大神](https://www.v2ex.com/t/729687) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-11-26-不懂就问-Ant-vue-组件的导航栏如何在缩起的时候自定义图标](https://www.v2ex.com/t/729671) ![](assets/new.png)  
 - [2020-11-26-黑五入手这个值不值。哈哈哈](https://www.v2ex.com/t/729670) ![](assets/new.png)  
 - [2020-11-26-大家怎么看待发-offer-时给的股票](https://www.v2ex.com/t/729668) ![](assets/new.png)  
-- [2020-11-26-绿屏的苹果-12，是买来就可以发现，还是要用一段时间才可以发现？能否在激活之前发现？](https://www.v2ex.com/t/729667) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,26 +1105,26 @@
 </summary>
 
 
-- [2020-11-26-深度解读-MongoDB-最全面的增强版本-4.4-新特性-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13999&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778777%3Futm_content%3Dg_1000210314%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-数据中台技术及业务发展史与未来趋势展望-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13998&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778763%3Futm_content%3Dg_1000210313%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-Hologres是如何完美支撑双11智能客服实时数仓的？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13997&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778544%3Futm_content%3Dg_1000210312%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-有赞统一接入层架构演进-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13996&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F311677441%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-深度-|-每秒1.4亿次！再度刷新TPS记录的PolarDB如何应对双11“尖峰时刻”？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13995&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778595%3Futm_content%3Dg_1000210311%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-微服务框架Go-Micro集成Nacos实战之服务注册与发现-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13994&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777833%3Futm_content%3Dg_1000210310%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-阿里云Edge-Plus私享会正式起航，首场活动聚焦CDN在视频直播领域的最佳实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13993&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778506%3Futm_content%3Dg_1000209956%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-秘密武器-|-看AnalyticDB如何强力支撑双十一-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13992&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778347%3Futm_content%3Dg_1000210265%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-轻松玩转全链路监控-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13991&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778727%3Futm_content%3Dg_1000209954%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-OpenKruise：阿里巴巴-双11-全链路应用的云原生部署基座-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13990&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778728%3Futm_content%3Dg_1000209953%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-健壮的数据仓库项目搭建-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13989&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-揭秘双11丝滑般剁手之路背后的网络监控技术-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13988&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778707%3Futm_content%3Dg_1000209952%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-从基础设施到云原生应用，全方位解读阿里云原生新锐开源项目-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13987&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778671%3Futm_content%3Dg_1000209002%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-云原生趋势下的迁移与容灾思考-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13986&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778675%3Futm_content%3Dg_1000209001%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-Flink-双流-Join-的3种操作示例-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13985&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778485%3Futm_content%3Dg_1000209000%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-快手基于-Apache-Flink-的优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13984&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778575%3Futm_content%3Dg_1000208999%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-菜鸟实时数仓2.0进阶之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13983&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778623%3Futm_content%3Dg_1000208998%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-几种性能测试工具的总结-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13982&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-2019-年-CNCF-中国云原生调查报告-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13981&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778481%3Futm_content%3Dg_1000207913%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-26-高德全链路压测-精准控压的建设实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13980&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778572%3Futm_content%3Dg_1000207912%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-深度解读-MongoDB-最全面的增强版本-4.4-新特性-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13999&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778777%3Futm_content%3Dg_1000210314%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-数据中台技术及业务发展史与未来趋势展望-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13998&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778763%3Futm_content%3Dg_1000210313%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-Hologres是如何完美支撑双11智能客服实时数仓的？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13997&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778544%3Futm_content%3Dg_1000210312%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-有赞统一接入层架构演进-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13996&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F311677441%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-深度-|-每秒1.4亿次！再度刷新TPS记录的PolarDB如何应对双11“尖峰时刻”？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13995&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778595%3Futm_content%3Dg_1000210311%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-微服务框架Go-Micro集成Nacos实战之服务注册与发现-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13994&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777833%3Futm_content%3Dg_1000210310%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-阿里云Edge-Plus私享会正式起航，首场活动聚焦CDN在视频直播领域的最佳实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13993&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778506%3Futm_content%3Dg_1000209956%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-秘密武器-|-看AnalyticDB如何强力支撑双十一-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13992&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778347%3Futm_content%3Dg_1000210265%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-轻松玩转全链路监控-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13991&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778727%3Futm_content%3Dg_1000209954%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-OpenKruise：阿里巴巴-双11-全链路应用的云原生部署基座-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13990&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778728%3Futm_content%3Dg_1000209953%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-健壮的数据仓库项目搭建-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13989&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-揭秘双11丝滑般剁手之路背后的网络监控技术-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13988&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778707%3Futm_content%3Dg_1000209952%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-从基础设施到云原生应用，全方位解读阿里云原生新锐开源项目-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13987&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778671%3Futm_content%3Dg_1000209002%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-云原生趋势下的迁移与容灾思考-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13986&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778675%3Futm_content%3Dg_1000209001%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-Flink-双流-Join-的3种操作示例-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13985&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778485%3Futm_content%3Dg_1000209000%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-快手基于-Apache-Flink-的优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13984&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778575%3Futm_content%3Dg_1000208999%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-菜鸟实时数仓2.0进阶之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13983&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778623%3Futm_content%3Dg_1000208998%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-几种性能测试工具的总结-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13982&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-2019-年-CNCF-中国云原生调查报告-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13981&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778481%3Futm_content%3Dg_1000207913%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-27-高德全链路压测-精准控压的建设实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13980&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778572%3Futm_content%3Dg_1000207912%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,26 +1136,26 @@
 </summary>
 
 
-- [2020-11-26-URL-中的-#-原来是这个意思](https://toutiao.io/k/7kpbo94) ![](assets/new.png)  
-- [2020-11-26-每个程序员都应该知道的延迟数字](https://toutiao.io/k/pv1wt7h) ![](assets/new.png)  
-- [2020-11-26-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
-- [2020-11-26-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
-- [2020-11-26-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
-- [2020-11-26-分布式一致性协议：CAP、BASE、NWR](https://toutiao.io/k/2kudebn) ![](assets/new.png)  
-- [2020-11-26-vivo-调用链-Agent-原理及实践](https://toutiao.io/k/crosp1a) ![](assets/new.png)  
-- [2020-11-26-怎样提高代码质量？](https://toutiao.io/k/199j35o) ![](assets/new.png)  
-- [2020-11-26-这些未在-Spark-SQL-文档中说明的优化措施，你知道吗？](https://toutiao.io/k/n4dqtax) ![](assets/new.png)  
-- [2020-11-26-滴滴客服解决方案平台建设实践](https://toutiao.io/k/6q3fx9m) ![](assets/new.png)  
-- [2020-11-26-Flink-轻松理解-Watermark](https://toutiao.io/k/qervuek) ![](assets/new.png)  
-- [2020-11-26-sn0int：半自动化-OSINT-框架和包管理器](https://toutiao.io/k/gt4mvoc) ![](assets/new.png)  
-- [2020-11-26-在-Win-10-使用-WSL-2-跑-Docker，C-盘空间不足焦虑症你有吗？](https://toutiao.io/k/89n350t) ![](assets/new.png)  
-- [2020-11-26-讲讲用户的流失预警](https://toutiao.io/k/tnyoxq5) ![](assets/new.png)  
-- [2020-11-26-译-开源的价值是什么？欧盟委员会研究的初步结果](https://toutiao.io/k/d0abc1d) ![](assets/new.png)  
-- [2020-11-26-译-Cilium：基于-BPF/XDP-实现-K8s-Service-负载均衡-LPC,-2020](https://toutiao.io/k/6my5fe8) ![](assets/new.png)  
-- [2020-11-26-Xrepo：一个现代化的跨平台-C/C++-包管理器](https://toutiao.io/k/hb8e4pn) ![](assets/new.png)  
-- [2020-11-26-分布式任务调度平台-xxl-job](https://toutiao.io/k/6s34p53) ![](assets/new.png)  
-- [2020-11-26-对一款-Golang-弱口令爆破工具代码的分析及改进](https://toutiao.io/k/59mt0u6) ![](assets/new.png)  
-- [2020-11-26-译-可观察性导读：所见即所得](https://toutiao.io/k/1sxx64c) ![](assets/new.png)  
+- [2020-11-27-URL-中的-#-原来是这个意思](https://toutiao.io/k/7kpbo94) ![](assets/new.png)  
+- [2020-11-27-每个程序员都应该知道的延迟数字](https://toutiao.io/k/pv1wt7h) ![](assets/new.png)  
+- [2020-11-27-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
+- [2020-11-27-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
+- [2020-11-27-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
+- [2020-11-27-分布式一致性协议：CAP、BASE、NWR](https://toutiao.io/k/2kudebn) ![](assets/new.png)  
+- [2020-11-27-vivo-调用链-Agent-原理及实践](https://toutiao.io/k/crosp1a) ![](assets/new.png)  
+- [2020-11-27-怎样提高代码质量？](https://toutiao.io/k/199j35o) ![](assets/new.png)  
+- [2020-11-27-这些未在-Spark-SQL-文档中说明的优化措施，你知道吗？](https://toutiao.io/k/n4dqtax) ![](assets/new.png)  
+- [2020-11-27-Flink-轻松理解-Watermark](https://toutiao.io/k/qervuek) ![](assets/new.png)  
+- [2020-11-27-滴滴客服解决方案平台建设实践](https://toutiao.io/k/6q3fx9m) ![](assets/new.png)  
+- [2020-11-27-sn0int：半自动化-OSINT-框架和包管理器](https://toutiao.io/k/gt4mvoc) ![](assets/new.png)  
+- [2020-11-27-在-Win-10-使用-WSL-2-跑-Docker，C-盘空间不足焦虑症你有吗？](https://toutiao.io/k/89n350t) ![](assets/new.png)  
+- [2020-11-27-讲讲用户的流失预警](https://toutiao.io/k/tnyoxq5) ![](assets/new.png)  
+- [2020-11-27-译-开源的价值是什么？欧盟委员会研究的初步结果](https://toutiao.io/k/d0abc1d) ![](assets/new.png)  
+- [2020-11-27-译-Cilium：基于-BPF/XDP-实现-K8s-Service-负载均衡-LPC,-2020](https://toutiao.io/k/6my5fe8) ![](assets/new.png)  
+- [2020-11-27-Xrepo：一个现代化的跨平台-C/C++-包管理器](https://toutiao.io/k/hb8e4pn) ![](assets/new.png)  
+- [2020-11-27-分布式任务调度平台-xxl-job](https://toutiao.io/k/6s34p53) ![](assets/new.png)  
+- [2020-11-27-对一款-Golang-弱口令爆破工具代码的分析及改进](https://toutiao.io/k/59mt0u6) ![](assets/new.png)  
+- [2020-11-27-译-可观察性导读：所见即所得](https://toutiao.io/k/1sxx64c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

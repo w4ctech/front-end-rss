@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 11:48:02，:rocket: 更新条数: +793， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 12:04:55，:rocket: 更新条数: +793， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1034,6 +1034,7 @@
 </summary>
 
 
+- [2020-11-27-请教,我们通过哪种方式去了解某个东西产品,项目,框架等等是否还在流行.](https://www.v2ex.com/t/729978) ![](assets/new.png)  
 - [2020-11-27-机你太美？惠普宣布蔡徐坤为代言人](https://www.v2ex.com/t/729976) ![](assets/new.png)  
 - [2020-11-27-Adguard——广告拦截软件黑五半价优惠](https://www.v2ex.com/t/729975) ![](assets/new.png)  
 - [2020-11-27-filco-minila-r-1212-就要上市了，你准备买不](https://www.v2ex.com/t/729972) ![](assets/new.png)  
@@ -1053,7 +1054,6 @@
 - [2020-11-27-k8s-&-kong-里怎么方便添加一个-path-用于返回字符串？](https://www.v2ex.com/t/729957) ![](assets/new.png)  
 - [2020-11-27-请问-有什么提升视频画质的软件](https://www.v2ex.com/t/729956) ![](assets/new.png)  
 - [2020-11-27-第一个小程序《练打字》](https://www.v2ex.com/t/729955) ![](assets/new.png)  
-- [2020-11-27-从零开始的-RPG-游戏制作教程（第二期）](https://www.v2ex.com/t/729954) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1104,15 +1104,15 @@
 - [2020-11-27-一文讲透-“布隆过滤器”](https://toutiao.io/k/9b7zxp0) ![](assets/new.png)  
 - [2020-11-27-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x) ![](assets/new.png)  
 - [2020-11-27-我给-Apache-顶级项目提了个-Bug](https://toutiao.io/k/cxrsbn6) ![](assets/new.png)  
-- [2020-11-27-健壮的数据仓库项目搭建](https://toutiao.io/k/rlk9r6d) ![](assets/new.png)  
 - [2020-11-27-系统设计那些事儿：硬盘-I/O](https://toutiao.io/k/3t02jng) ![](assets/new.png)  
+- [2020-11-27-健壮的数据仓库项目搭建](https://toutiao.io/k/rlk9r6d) ![](assets/new.png)  
 - [2020-11-27-在-Android-开发中使用协程（背景介绍）](https://toutiao.io/k/hkzk6lw) ![](assets/new.png)  
 - [2020-11-27-一文带你快速上手-Rollup](https://toutiao.io/k/34zgygy) ![](assets/new.png)  
 - [2020-11-27-macOS-使用-XQuartz-支持-X11-实现-Linux-图形化界面显示](https://toutiao.io/k/05rih6f) ![](assets/new.png)  
 - [2020-11-27-译-使用-.NET-5-体验大数据和机器学习](https://toutiao.io/k/b7hi7tn) ![](assets/new.png)  
 - [2020-11-27-LVS-+-Iptables-实现-FULLNAT-及原理分析](https://toutiao.io/k/l50huqe) ![](assets/new.png)  
-- [2020-11-27-大咖聊技术：强化学习也爱玩雅达利吗？](https://toutiao.io/k/6zynkk4) ![](assets/new.png)  
 - [2020-11-27-基于-Kubernetes-和-OpenKruise-的可变基础设施实践](https://toutiao.io/k/jp5wto0) ![](assets/new.png)  
+- [2020-11-27-大咖聊技术：强化学习也爱玩雅达利吗？](https://toutiao.io/k/6zynkk4) ![](assets/new.png)  
 - [2020-11-27-探索-React-合成事件](https://toutiao.io/k/nm20ze4) ![](assets/new.png)  
 - [2020-11-27-重构实践：基于腾讯云-Elasticsearch-搭建-QQ-邮箱全文检索](https://toutiao.io/k/x57lwvc) ![](assets/new.png)  
 - [2020-11-27-译-UML-Association（关联）vs-Aggregation（聚合）-vs-Composition（组合）](https://toutiao.io/k/d95jbzk) ![](assets/new.png)  

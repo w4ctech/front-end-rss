@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 03:34:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 03:48:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -23,6 +23,5 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
-- [2020-11-26-自定义-svg-图片](https://juejin.im/post/6899628739798237197) 
 - [2020-11-25-浅谈SVG的两个黑魔法](https://sec.thief.one/article_content?a_id=2f3d747cd5afaec0c82296f71b09108d) 
 - [2020-11-25-浅谈SVG的两个黑魔法](https://sec.thief.one/article_content?a_id=f000c676b2d438f06f7fada6c9cab878) 

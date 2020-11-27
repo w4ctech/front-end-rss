@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 09:26:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 09:34:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2885,15 +2885,15 @@
 - [2020-11-27-系统设计那些事儿：硬盘-I/O](https://toutiao.io/k/3t02jng) 
 - [2020-11-27-大咖聊技术：强化学习也爱玩雅达利吗？](https://toutiao.io/k/6zynkk4) 
 - [2020-11-27-基于-Kubernetes-和-OpenKruise-的可变基础设施实践](https://toutiao.io/k/jp5wto0) 
-- [2020-11-27-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) 
-- [2020-11-27-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) 
+- [2020-11-27-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) 
 - [2020-11-27-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) 
-- [2020-11-27-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) 
+- [2020-11-27-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) 
+- [2020-11-27-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) 
 - [2020-11-27-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) 
 - [2020-11-27-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) 
-- [2020-11-27-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) 
-- [2020-11-27-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) 
+- [2020-11-27-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) 
 - [2020-11-27-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) 
+- [2020-11-27-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) 
 - [2020-11-27-Drupal-core高危漏洞风险提示](https://sec.thief.one/article_content?a_id=ce16f046e1af7dc404d2db93a65fd6c2) 
 - [2020-11-27-【以我之青春-耀祖国之荣光】追梦!我们在路上](https://sec.thief.one/article_content?a_id=9783b628ce47c357f5b7435cc7128d1c) 
 - [2020-11-27-丹麦最大新闻机构遭勒索攻击,近三成服务器被加密](https://sec.thief.one/article_content?a_id=f061b511f724d4e98ba62b15b9e4cd7d) 

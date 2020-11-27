@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-27 04:40:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 04:48:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-27-有人对客制化键盘的固件有研究么？什么-qmk-还有啥-stm32?](https://www.v2ex.com/t/729828) 
+- [2020-11-27-为什么要解决-iframe-跨域问题?-iframe-不是默认可以跨域的吗?](https://www.v2ex.com/t/729827) 
+- [2020-11-27-老哥们，现在直播带货靠谱吗](https://www.v2ex.com/t/729825) 
 - [2020-11-27-🔥🔥🔥-新加坡-Shopee-直招-Shopee-新加坡招募云原生平台开发工程师和专家，包含-Kubernetes、Nginx、-Linux-Kernel-等不同方向](https://www.v2ex.com/t/729821) 
 - [2020-11-27-🔥-新加坡-Shopee-直招-Shopee-新加坡招后端开发工程师，包含-Kubernetes、SDN、服务网关等不同方向](https://www.v2ex.com/t/729820) 
 - [2020-11-27-Big-Sur-经常出现程序坞与菜单栏设置不起作用的情况](https://www.v2ex.com/t/729819) 
@@ -41,6 +44,3 @@
 - [2020-11-27-ProcessOn-注册即可白嫖一个月会员，还不快来？](https://www.v2ex.com/t/729782) 
 - [2020-11-27-想问下写过收付款代码的大佬，你们都出过收付款的问题吗？](https://www.v2ex.com/t/729781) 
 - [2020-11-27-现在去直营店买-iPhone12-还需要预约吗](https://www.v2ex.com/t/729779) 
-- [2020-11-27-10-年前被-k-了，还能重新申请吗](https://www.v2ex.com/t/729777) 
-- [2020-11-27-大家别买-cleanmymac，流氓](https://www.v2ex.com/t/729776) 
-- [2020-11-27-铁子们觉得-北上深-哪里适合攒钱学技术-杭广武成-哪里适合买房定居](https://www.v2ex.com/t/729774) 

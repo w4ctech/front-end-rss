@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 12:34:56，:rocket: 更新条数: +1029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 12:52:09，:rocket: 更新条数: +1028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,8 @@
 </summary>
 
 
+- [2020-11-27-iPhone-12-OLED-屏幕偏色问题参考对比](https://www.v2ex.com/t/729989) ![](assets/new.png)  
+- [2020-11-27-V-友们，公司准备上套直饮水过滤系统，购买时候该注意些啥？](https://www.v2ex.com/t/729988) ![](assets/new.png)  
 - [2020-11-27-关于爬虫的法律问题---知乎的用户信息的法律问题？](https://www.v2ex.com/t/729986) ![](assets/new.png)  
 - [2020-11-27-关于-Rosetta](https://www.v2ex.com/t/729985) ![](assets/new.png)  
 - [2020-11-27-开源了一个-Springboot-整合-netty-的小-demo](https://www.v2ex.com/t/729984) ![](assets/new.png)  
@@ -1072,8 +1074,6 @@
 - [2020-11-27-怎么通过串流，在客厅电视上玩-steam-上的游戏](https://www.v2ex.com/t/729966) ![](assets/new.png)  
 - [2020-11-27-自我道德的深思（非凡尔赛）](https://www.v2ex.com/t/729965) ![](assets/new.png)  
 - [2020-11-27--快手急招-！-招聘-网络研发工程师](https://www.v2ex.com/t/729964) ![](assets/new.png)  
-- [2020-11-27-求图片上描述的小说名？](https://www.v2ex.com/t/729963) ![](assets/new.png)  
-- [2020-11-27-建信金科-BigData-中心（厦门）招聘--人工智能岗位](https://www.v2ex.com/t/729962) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1131,8 +1131,8 @@
 - [2020-11-27-macOS-使用-XQuartz-支持-X11-实现-Linux-图形化界面显示](https://toutiao.io/k/05rih6f) ![](assets/new.png)  
 - [2020-11-27-译-使用-.NET-5-体验大数据和机器学习](https://toutiao.io/k/b7hi7tn) ![](assets/new.png)  
 - [2020-11-27-LVS-+-Iptables-实现-FULLNAT-及原理分析](https://toutiao.io/k/l50huqe) ![](assets/new.png)  
-- [2020-11-27-基于-Kubernetes-和-OpenKruise-的可变基础设施实践](https://toutiao.io/k/jp5wto0) ![](assets/new.png)  
 - [2020-11-27-大咖聊技术：强化学习也爱玩雅达利吗？](https://toutiao.io/k/6zynkk4) ![](assets/new.png)  
+- [2020-11-27-基于-Kubernetes-和-OpenKruise-的可变基础设施实践](https://toutiao.io/k/jp5wto0) ![](assets/new.png)  
 - [2020-11-27-探索-React-合成事件](https://toutiao.io/k/nm20ze4) ![](assets/new.png)  
 - [2020-11-27-重构实践：基于腾讯云-Elasticsearch-搭建-QQ-邮箱全文检索](https://toutiao.io/k/x57lwvc) ![](assets/new.png)  
 - [2020-11-27-译-UML-Association（关联）vs-Aggregation（聚合）-vs-Composition（组合）](https://toutiao.io/k/d95jbzk) ![](assets/new.png)  

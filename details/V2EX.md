@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-27 12:34:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 12:52:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-27-iPhone-12-OLED-屏幕偏色问题参考对比](https://www.v2ex.com/t/729989) 
+- [2020-11-27-V-友们，公司准备上套直饮水过滤系统，购买时候该注意些啥？](https://www.v2ex.com/t/729988) 
 - [2020-11-27-关于爬虫的法律问题---知乎的用户信息的法律问题？](https://www.v2ex.com/t/729986) 
 - [2020-11-27-关于-Rosetta](https://www.v2ex.com/t/729985) 
 - [2020-11-27-开源了一个-Springboot-整合-netty-的小-demo](https://www.v2ex.com/t/729984) 
@@ -39,6 +41,3 @@
 - [2020-11-27-各位升级到-macOS-Big-Sur-的大佬们，有没遇到这样的-BUG](https://www.v2ex.com/t/729947) 
 - [2020-11-27-为什么-paperspace-打开之后是一片黑，然后右下角是个帮助？](https://www.v2ex.com/t/729946) 
 - [2020-11-27-7500-元出售-2019-款-Macbook-Pro13-寸](https://www.v2ex.com/t/729945) 
-- [2020-11-27-🔥🔥🔥🔥北京-美团-诚招高级/资深工程师（薪资可谈无上限）🔥🔥🔥🔥](https://www.v2ex.com/t/729940) 
-- [2020-11-27-国行-HomePod-mini-怎么还不上市，等一个月了](https://www.v2ex.com/t/729939) 
-- [2020-11-27-如何在-Mac-和-iPad-之间快速切换-TrackPad-和-Magic-Keyboard?](https://www.v2ex.com/t/729937) 

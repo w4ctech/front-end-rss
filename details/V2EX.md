@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-11-27 09:34:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 09:47:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-27-golang-怎么执行需要输入密码的-shell-命令](https://www.v2ex.com/t/729949) 
+- [2020-11-27-Python-Lambda-表达式匿名函数使用](https://www.v2ex.com/t/729948) 
+- [2020-11-27-各位升级到-macOS-Big-Sur-的大佬们，有没遇到这样的-BUG](https://www.v2ex.com/t/729947) 
+- [2020-11-27-为什么-paperspace-打开之后是一片黑，然后右下角是个帮助？](https://www.v2ex.com/t/729946) 
+- [2020-11-27-7500-元出售-2019-款-Macbook-Pro13-寸](https://www.v2ex.com/t/729945) 
 - [2020-11-27-🔥🔥🔥🔥北京-美团-诚招高级/资深工程师（薪资可谈无上限）🔥🔥🔥🔥](https://www.v2ex.com/t/729940) 
 - [2020-11-27-国行-HomePod-mini-怎么还不上市，等一个月了](https://www.v2ex.com/t/729939) 
 - [2020-11-27-如何在-Mac-和-iPad-之间快速切换-TrackPad-和-Magic-Keyboard?](https://www.v2ex.com/t/729937) 
@@ -38,9 +43,3 @@
 - [2020-11-27-微信的联系人标签管理可以增添二级标签吗？](https://www.v2ex.com/t/729902) 
 - [2020-11-27-开源美团饿了么-CPS-赚佣金小程序+H5+后端献给-V-站好友交个朋友，一起撸个生活费](https://www.v2ex.com/t/729901) 
 - [2020-11-27-有最近想在阿里云买东西的嘛，从我的链接进去买呗，哈哈](https://www.v2ex.com/t/729900) 
-- [2020-11-27-一个绝对安全的账户密码管家小程序](https://www.v2ex.com/t/729899) 
-- [2020-11-27-（pulumi+ansible+elixir/phoniex+postgres+aws）使用-IaC-一键创建-AWS-服务器配置并发布上线](https://www.v2ex.com/t/729898) 
-- [2020-11-27-请问-Chrome-有类似-Firefox-这种给收藏的网址自定义关键词的插件吗？](https://www.v2ex.com/t/729897) 
-- [2020-11-27-三七互娱内推-社招-中/高-Java-服务端-15-25K-15-薪-苏州、广州](https://www.v2ex.com/t/729896) 
-- [2020-11-27-vue-filters-的意义是什么？](https://www.v2ex.com/t/729895) 
-- [2020-11-27-美区-apples-tore-app-例行维护还是？](https://www.v2ex.com/t/729894) 

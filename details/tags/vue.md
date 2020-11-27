@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 14:08:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 14:26:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -37,6 +37,10 @@
 - [2020-04-27-视频Vue.js-3.0-什么时候可以投入生产使用](https://www.ershicimi.com/p/62da65e218585b265a4ddc89ca674b0b) 
 - [2020-04-20-尤雨溪约你聊聊Vue.js-3.0-Beta](https://www.ershicimi.com/p/6f88eda2cef2ca14858c173412919f36) 
 - [2019-06-21-视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0) 
+- [2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) 
+- [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
+- [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
+- [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
 - [2020-11-22-他写出了Vue，却做不对这十道Vue笔试题](https://www.ershicimi.com/p/17b55cca545f476ed4af75dba25b2ba3) 
 - [2020-11-21-3天Vue实战，1比1还原抖音代码！](https://www.ershicimi.com/p/7e53741c11fb744a6a77951a5a9151e0) 
 - [2020-11-20-搞懂-Vue-，这一篇文章就够了！](https://www.ershicimi.com/p/e91271124feaaf8608bdd76b7986dbb9) 

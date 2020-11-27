@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 05:24:05，:rocket: 更新条数: +3898， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 05:33:15，:rocket: 更新条数: +3897， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,9 +1074,12 @@
 </summary>
 
 
+- [2020-11-27-想留下一些问题，-5-年之后再来看看能不能找到答案](https://www.v2ex.com/t/729841) ![](assets/new.png)  
+- [2020-11-27-研究了一下如何从-Apple-M1-的机器获得实时-CPU/SSD-温度](https://www.v2ex.com/t/729840) ![](assets/new.png)  
+- [2020-11-27-一个二级域名分发系统](https://www.v2ex.com/t/729839) ![](assets/new.png)  
 - [2020-11-27-Gem-book：文档网站生成器](https://www.v2ex.com/t/729838) ![](assets/new.png)  
 - [2020-11-27-迫于-V-站流量还不错，再推一波京东-PLUS](https://www.v2ex.com/t/729837) ![](assets/new.png)  
-- [2020-11-27-多态什么情况，发个邮件就说可能要花费数月调整，现在已经无法使用了，是不是跑路了](https://www.v2ex.com/t/729836) ![](assets/new.png)  
+- [2020-11-27-多态-VPN-什么情况，发个邮件就说可能要花费数月调整，现在已经无法使用了，是不是跑路了](https://www.v2ex.com/t/729836) ![](assets/new.png)  
 - [2020-11-27-在线成语接龙](https://www.v2ex.com/t/729833) ![](assets/new.png)  
 - [2020-11-27-现在的-app-开发好难](https://www.v2ex.com/t/729831) ![](assets/new.png)  
 - [2020-11-27-这是一篇关于手摸手实现-JVM-的教程推广帖](https://www.v2ex.com/t/729830) ![](assets/new.png)  
@@ -1091,9 +1094,6 @@
 - [2020-11-27-dogedoge-挂了？](https://www.v2ex.com/t/729815) ![](assets/new.png)  
 - [2020-11-27-如何成为一名交易员](https://www.v2ex.com/t/729814) ![](assets/new.png)  
 - [2020-11-27-奇思妙想-网络传输中的乱序压缩实现？](https://www.v2ex.com/t/729813) ![](assets/new.png)  
-- [2020-11-27-打工人太难了，因为迟到一天工钱没了](https://www.v2ex.com/t/729812) ![](assets/new.png)  
-- [2020-11-27-nas-外网访问慢是怎么回事？](https://www.v2ex.com/t/729811) ![](assets/new.png)  
-- [2020-11-27-开发一个从指定网页拷贝指定文本内容的-Chrome-拓展，不知道怎么从-Pop-页面调用-Context.js-中的函数。](https://www.v2ex.com/t/729810) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,8 +1150,8 @@
 - [2020-11-27-译-使用-.NET-5-体验大数据和机器学习](https://toutiao.io/k/b7hi7tn) ![](assets/new.png)  
 - [2020-11-27-LVS-+-Iptables-实现-FULLNAT-及原理分析](https://toutiao.io/k/l50huqe) ![](assets/new.png)  
 - [2020-11-27-一文讲透-“布隆过滤器”](https://toutiao.io/k/9b7zxp0) ![](assets/new.png)  
-- [2020-11-27-大咖聊技术：强化学习也爱玩雅达利吗？](https://toutiao.io/k/6zynkk4) ![](assets/new.png)  
 - [2020-11-27-基于-Kubernetes-和-OpenKruise-的可变基础设施实践](https://toutiao.io/k/jp5wto0) ![](assets/new.png)  
+- [2020-11-27-大咖聊技术：强化学习也爱玩雅达利吗？](https://toutiao.io/k/6zynkk4) ![](assets/new.png)  
 - [2020-11-27-探索-React-合成事件](https://toutiao.io/k/nm20ze4) ![](assets/new.png)  
 - [2020-11-27-系统设计那些事儿：硬盘-I/O](https://toutiao.io/k/3t02jng) ![](assets/new.png)  
 - [2020-11-27-重构实践：基于腾讯云-Elasticsearch-搭建-QQ-邮箱全文检索](https://toutiao.io/k/x57lwvc) ![](assets/new.png)  

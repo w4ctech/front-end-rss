@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 04:48:17，:rocket: 更新条数: +3897， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 05:03:52，:rocket: 更新条数: +3899， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,14 +66,15 @@
 
 
 - [2020-11-27-11月26日全国新增确诊病例5例-均为境外输入](https://m.caixin.com/m/2020-11-27/101632901.html) ![](assets/new.png)  
+- [2020-11-27-钟南山建议香港再次推行全民检测](https://m.caixin.com/m/2020-11-27/101633024.html) ![](assets/new.png)  
 - [2020-11-27-聚焦|张文宏：控制经物流的海外输入性疫情](http://m.opinion.caixin.com/m/2020-11-27/101632910.html) ![](assets/new.png)  
 - [2020-11-27-大流行手记|11月26日：欧美节假季疫情恐加剧-全球性别平等受损](https://m.caixin.com/m/2020-11-27/101632915.html) ![](assets/new.png)  
 - [2020-11-26-满洲里共确诊11例新冠-现家庭、学校、小区聚集特征](https://m.caixin.com/m/2020-11-26/101632824.html) ![](assets/new.png)  
-- [2020-11-26-来华航班近两百份核酸报告雷同-使馆要求俄航司重检](http://m.companies.caixin.com/m/2020-11-26/101632663.html) ![](assets/new.png)  
 - [2020-11-26-最新海外疫情：新冠感染近6030万-累计死亡超141万](http://m.international.caixin.com/m/2020-11-26/101632817.html) ![](assets/new.png)  
 - [2020-11-26-内蒙古新增本土确诊病例9例-均在满洲里](http://m.china.caixin.com/m/2020-11-26/101632701.html) ![](assets/new.png)  
 - [2020-11-26-【境内疫情观察】内蒙古新增9例本土确诊病例（11月25日）](http://m.database.caixin.com/m/2020-11-26/101632600.html) ![](assets/new.png)  
 - [2020-11-26-大流行手记|11月25日：英入境隔离期将缩至5天-美测试疫苗分发网络](https://m.caixin.com/m/2020-11-26/101632481.html) ![](assets/new.png)  
+- [2020-11-26-来华航班近两百份核酸报告雷同-使馆要求俄航司重检](http://m.companies.caixin.com/m/2020-11-26/101632663.html) ![](assets/new.png)  
 - [2020-11-25-天津两起疫情有不同源头-其中之一为进口猪头](https://m.caixin.com/m/2020-11-25/101632216.html) ![](assets/new.png)  
 - [2020-11-25-【境内疫情观察】内蒙古新增1例本土疑似病例（11月24日）](http://m.database.caixin.com/m/2020-11-25/101632194.html) ![](assets/new.png)  
 - [2020-11-25-大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2020-11-24-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
 - [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
 - [2020-11-23-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
-- [2020-11-23-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-11-27-这是一篇关于手摸手实现-JVM-的教程推广帖](https://www.v2ex.com/t/729830) ![](assets/new.png)  
+- [2020-11-27-Pyenv-在-macOS-big-sur-上没法使用](https://www.v2ex.com/t/729829) ![](assets/new.png)  
 - [2020-11-27-有人对客制化键盘的固件有研究么？什么-qmk-还有啥-stm32?](https://www.v2ex.com/t/729828) ![](assets/new.png)  
 - [2020-11-27-为什么要解决-iframe-跨域问题?-iframe-不是默认可以跨域的吗?](https://www.v2ex.com/t/729827) ![](assets/new.png)  
 - [2020-11-27-老哥们，现在直播带货靠谱吗](https://www.v2ex.com/t/729825) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-11-27-我又来了，抽奖送帆布包、无线键鼠套装、简约陶瓷杯、牛客衣服](https://www.v2ex.com/t/729806) ![](assets/new.png)  
 - [2020-11-27-mysql-表里数据-清洗-整理的问题](https://www.v2ex.com/t/729805) ![](assets/new.png)  
 - [2020-11-27-5G-套餐，-4G-手机，网速会变快吗？](https://www.v2ex.com/t/729804) ![](assets/new.png)  
-- [2020-11-27-后端开发，现在工作是修改-vue-用-webpack-打包后的-js/html](https://www.v2ex.com/t/729803) ![](assets/new.png)  
-- [2020-11-27-Apple-trade-in-的返款问题。](https://www.v2ex.com/t/729802) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1142,16 +1142,16 @@
 - [2020-11-27-数据结构能干吗，我花了一夜给女朋友写个走迷宫游戏](https://toutiao.io/k/qi0u26p) ![](assets/new.png)  
 - [2020-11-27-工具-|-腾讯开源的，面向数据库事务处理的验证系统](https://toutiao.io/k/3mqcnxo) ![](assets/new.png)  
 - [2020-11-27-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x) ![](assets/new.png)  
-- [2020-11-27-在-Android-开发中使用协程（背景介绍）](https://toutiao.io/k/hkzk6lw) ![](assets/new.png)  
 - [2020-11-27-我给-Apache-顶级项目提了个-Bug](https://toutiao.io/k/cxrsbn6) ![](assets/new.png)  
+- [2020-11-27-在-Android-开发中使用协程（背景介绍）](https://toutiao.io/k/hkzk6lw) ![](assets/new.png)  
 - [2020-11-27-一文带你快速上手-Rollup](https://toutiao.io/k/34zgygy) ![](assets/new.png)  
 - [2020-11-27-健壮的数据仓库项目搭建](https://toutiao.io/k/rlk9r6d) ![](assets/new.png)  
 - [2020-11-27-macOS-使用-XQuartz-支持-X11-实现-Linux-图形化界面显示](https://toutiao.io/k/05rih6f) ![](assets/new.png)  
 - [2020-11-27-译-使用-.NET-5-体验大数据和机器学习](https://toutiao.io/k/b7hi7tn) ![](assets/new.png)  
 - [2020-11-27-LVS-+-Iptables-实现-FULLNAT-及原理分析](https://toutiao.io/k/l50huqe) ![](assets/new.png)  
+- [2020-11-27-一文讲透-“布隆过滤器”](https://toutiao.io/k/9b7zxp0) ![](assets/new.png)  
 - [2020-11-27-大咖聊技术：强化学习也爱玩雅达利吗？](https://toutiao.io/k/6zynkk4) ![](assets/new.png)  
 - [2020-11-27-基于-Kubernetes-和-OpenKruise-的可变基础设施实践](https://toutiao.io/k/jp5wto0) ![](assets/new.png)  
-- [2020-11-27-一文讲透-“布隆过滤器”](https://toutiao.io/k/9b7zxp0) ![](assets/new.png)  
 - [2020-11-27-探索-React-合成事件](https://toutiao.io/k/nm20ze4) ![](assets/new.png)  
 - [2020-11-27-系统设计那些事儿：硬盘-I/O](https://toutiao.io/k/3t02jng) ![](assets/new.png)  
 - [2020-11-27-重构实践：基于腾讯云-Elasticsearch-搭建-QQ-邮箱全文检索](https://toutiao.io/k/x57lwvc) ![](assets/new.png)  

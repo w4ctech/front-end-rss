@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-27 04:48:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 05:03:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-27-这是一篇关于手摸手实现-JVM-的教程推广帖](https://www.v2ex.com/t/729830) 
+- [2020-11-27-Pyenv-在-macOS-big-sur-上没法使用](https://www.v2ex.com/t/729829) 
 - [2020-11-27-有人对客制化键盘的固件有研究么？什么-qmk-还有啥-stm32?](https://www.v2ex.com/t/729828) 
 - [2020-11-27-为什么要解决-iframe-跨域问题?-iframe-不是默认可以跨域的吗?](https://www.v2ex.com/t/729827) 
 - [2020-11-27-老哥们，现在直播带货靠谱吗](https://www.v2ex.com/t/729825) 
@@ -43,4 +45,3 @@
 - [2020-11-27-分享三个在-apple-m1-中使用-svn-的方法](https://www.v2ex.com/t/729784) 
 - [2020-11-27-ProcessOn-注册即可白嫖一个月会员，还不快来？](https://www.v2ex.com/t/729782) 
 - [2020-11-27-想问下写过收付款代码的大佬，你们都出过收付款的问题吗？](https://www.v2ex.com/t/729781) 
-- [2020-11-27-现在去直营店买-iPhone12-还需要预约吗](https://www.v2ex.com/t/729779) 

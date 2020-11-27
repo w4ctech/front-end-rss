@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 04:09:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 04:30:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -37,6 +37,5 @@
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-10-29-阿里前端技术岗发布+内部面试题参考手册（含P5-P7）](https://www.ershicimi.com/p/f248e5ad233de930e884b7ab29796eec) 
 - [2020-11-27-大家看看新华社的这个招聘多少薪水合适？](https://www.v2ex.com/t/729808) 
-- [2020-11-27-成都AndroidFramework-招聘-不加班，不卡学历](https://www.v2ex.com/t/729767) 
 - [2020-11-27-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
 - [2020-11-26-国家计算机网络应急技术处理协调中心省级分中心2021年度公开招聘公...](https://sec.thief.one/article_content?a_id=8d73e92ffa26290e158748e3247ea791) 

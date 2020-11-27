@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 09:08:24，:rocket: 更新条数: +3901， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 09:26:52，:rocket: 更新条数: +3900， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,7 @@
 
 
 - [2020-11-27-11月26日全国新增确诊病例5例-均为境外输入](https://m.caixin.com/m/2020-11-27/101632901.html) ![](assets/new.png)  
-- [2020-11-27-专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html) ![](assets/new.png)  
+- [2020-11-27-独家|专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html) ![](assets/new.png)  
 - [2020-11-27-钟南山建议香港再次推行全民检测](https://m.caixin.com/m/2020-11-27/101633024.html) ![](assets/new.png)  
 - [2020-11-27-聚焦|张文宏：控制经物流的海外输入性疫情](http://m.opinion.caixin.com/m/2020-11-27/101632910.html) ![](assets/new.png)  
 - [2020-11-27-【境内疫情观察】全国新增5例境外输入病例（11月26日）](http://m.database.caixin.com/m/2020-11-27/101633045.html) ![](assets/new.png)  
@@ -954,8 +954,8 @@
 </summary>
 
 
+- [2020-11-27-ZooTeam-前端周刊｜第-110-期](https://juejin.im/post/6899728249497223182) ![](assets/new.png)  
 - [2020-11-27-ECMAScript-新特性](https://juejin.im/post/6899722233866878984) ![](assets/new.png)  
-- [2020-11-26-网站前端技术之通俗理解](https://juejin.im/post/6899700082120065032) ![](assets/new.png)  
 - [2020-11-26-let与const](https://juejin.im/post/6899697889611055111) ![](assets/new.png)  
 - [2020-11-26-ES6中let在for循环中的表现](https://juejin.im/post/6899696396975702030) ![](assets/new.png)  
 - [2020-11-26-浑元功法：排序](https://juejin.im/post/6899694544271933448) ![](assets/new.png)  
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-11-27-🔥🔥🔥🔥北京-美团-诚招高级/资深工程师（薪资可谈无上限）🔥🔥🔥🔥](https://www.v2ex.com/t/729940) ![](assets/new.png)  
+- [2020-11-27-国行-HomePod-mini-怎么还不上市，等一个月了](https://www.v2ex.com/t/729939) ![](assets/new.png)  
 - [2020-11-27-如何在-Mac-和-iPad-之间快速切换-TrackPad-和-Magic-Keyboard?](https://www.v2ex.com/t/729937) ![](assets/new.png)  
 - [2020-11-27-有没有网盘模拟本地硬盘的软件？](https://www.v2ex.com/t/729936) ![](assets/new.png)  
 - [2020-11-27-VSCODE-如何扩展某种语言的语法风格?](https://www.v2ex.com/t/729935) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-11-27-iOS-App-价格跟踪软件/平台，有没有包含内购价格的？](https://www.v2ex.com/t/729918) ![](assets/new.png)  
 - [2020-11-27-Python-读写共享内存有什么优化方案没有](https://www.v2ex.com/t/729917) ![](assets/new.png)  
 - [2020-11-27-iPhone-12-Mini-息屏唤醒后自动降低屏幕亮度](https://www.v2ex.com/t/729916) ![](assets/new.png)  
-- [2020-11-27-javaweb-程序-网络下行-30M/s-数据库上行-27M/s-怎么分析](https://www.v2ex.com/t/729915) ![](assets/new.png)  
-- [2020-11-27-用算力证明当验证码可行吗。](https://www.v2ex.com/t/729914) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,6 +1105,7 @@
 </summary>
 
 
+- [2020-11-27-阿里云打下AI地基，更多的开发者走向了前台-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14004&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778839%3Futm_content%3Dg_1000210969%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-27-阿里云性能测试工具PTS介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14003&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778829%3Futm_content%3Dg_1000210968%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-27-2020双11养猫技术大揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14002&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778793%3Futm_content%3Dg_1000210967%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-27-以-Kubernetes-为代表的容器技术，已成为云计算的新界面-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14001&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778826%3Futm_content%3Dg_1000210966%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1124,7 +1125,6 @@
 - [2020-11-27-从基础设施到云原生应用，全方位解读阿里云原生新锐开源项目-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13987&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778671%3Futm_content%3Dg_1000209002%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-27-云原生趋势下的迁移与容灾思考-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13986&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778675%3Futm_content%3Dg_1000209001%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-27-Flink-双流-Join-的3种操作示例-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13985&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778485%3Futm_content%3Dg_1000209000%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-27-快手基于-Apache-Flink-的优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13984&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778575%3Futm_content%3Dg_1000208999%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,9 +1150,9 @@
 - [2020-11-27-macOS-使用-XQuartz-支持-X11-实现-Linux-图形化界面显示](https://toutiao.io/k/05rih6f) ![](assets/new.png)  
 - [2020-11-27-译-使用-.NET-5-体验大数据和机器学习](https://toutiao.io/k/b7hi7tn) ![](assets/new.png)  
 - [2020-11-27-LVS-+-Iptables-实现-FULLNAT-及原理分析](https://toutiao.io/k/l50huqe) ![](assets/new.png)  
+- [2020-11-27-系统设计那些事儿：硬盘-I/O](https://toutiao.io/k/3t02jng) ![](assets/new.png)  
 - [2020-11-27-大咖聊技术：强化学习也爱玩雅达利吗？](https://toutiao.io/k/6zynkk4) ![](assets/new.png)  
 - [2020-11-27-基于-Kubernetes-和-OpenKruise-的可变基础设施实践](https://toutiao.io/k/jp5wto0) ![](assets/new.png)  
-- [2020-11-27-系统设计那些事儿：硬盘-I/O](https://toutiao.io/k/3t02jng) ![](assets/new.png)  
 - [2020-11-27-探索-React-合成事件](https://toutiao.io/k/nm20ze4) ![](assets/new.png)  
 - [2020-11-27-重构实践：基于腾讯云-Elasticsearch-搭建-QQ-邮箱全文检索](https://toutiao.io/k/x57lwvc) ![](assets/new.png)  
 - [2020-11-27-译-UML-Association（关联）vs-Aggregation（聚合）-vs-Composition（组合）](https://toutiao.io/k/d95jbzk) ![](assets/new.png)  

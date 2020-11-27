@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-27 09:08:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 09:26:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -528,7 +528,6 @@
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【互联网架构师】图解ElasticSearch-搜索原理](https://www.ershicimi.com/p/004a1ad76ab30b0657f69117c7835164)
 - [【InfoQ】从HTTP到HTTP/3的发展简史](https://www.ershicimi.com/p/9b07e8b7a6dd46aa987c0c70a16d5e5b)
-- [【V2EX】广告算法工程师-深圳-VIVO（30-60K）HC-3-人](https://www.v2ex.com/t/729892)
 - [【开发者头条】ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x)
 - [【开发者头条】重构实践：基于腾讯云-Elasticsearch-搭建-QQ-邮箱全文检索](https://toutiao.io/k/x57lwvc)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -681,7 +680,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】11月26日全国新增确诊病例5例-均为境外输入](https://m.caixin.com/m/2020-11-27/101632901.html)
-- [【武汉肺炎防疫全纪录(财新网)】专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html)
+- [【武汉肺炎防疫全纪录(财新网)】独家|专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html)
 - [【武汉肺炎防疫全纪录(财新网)】钟南山建议香港再次推行全民检测](https://m.caixin.com/m/2020-11-27/101633024.html)
 - [【武汉肺炎防疫全纪录(财新网)】聚焦|张文宏：控制经物流的海外输入性疫情](http://m.opinion.caixin.com/m/2020-11-27/101632910.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增5例境外输入病例（11月26日）](http://m.database.caixin.com/m/2020-11-27/101633045.html)

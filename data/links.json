@@ -10,7 +10,7 @@
         "date": "2020-11-27"
       },
       {
-        "title": "专家解读喀什疫情感染路径 货运车内壁检出病毒",
+        "title": "独家|专家解读喀什疫情感染路径 货运车内壁检出病毒",
         "link": "https://m.caixin.com/m/2020-11-27/101633087.html",
         "date": "2020-11-27"
       },
@@ -18281,14 +18281,14 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "ECMAScript 新特性",
-        "link": "https://juejin.im/post/6899722233866878984",
+        "title": "ZooTeam 前端周刊｜第 110 期",
+        "link": "https://juejin.im/post/6899728249497223182",
         "date": "2020-11-27"
       },
       {
-        "title": "网站前端技术之通俗理解",
-        "link": "https://juejin.im/post/6899700082120065032",
-        "date": "2020-11-26"
+        "title": "ECMAScript 新特性",
+        "link": "https://juejin.im/post/6899722233866878984",
+        "date": "2020-11-27"
       },
       {
         "title": "let与const",
@@ -18690,6 +18690,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "🔥🔥🔥🔥[北京] 美团-诚招高级/资深工程师（薪资可谈无上限）🔥🔥🔥🔥",
+        "link": "https://www.v2ex.com/t/729940",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "国行 HomePod mini 怎么还不上市，等一个月了",
+        "link": "https://www.v2ex.com/t/729939",
+        "date": "2020-11-27"
+      },
+      {
         "title": "如何在 Mac 和 iPad 之间快速切换 TrackPad 和 Magic Keyboard?",
         "link": "https://www.v2ex.com/t/729937",
         "date": "2020-11-27"
@@ -18873,21 +18883,6 @@
         "title": "美区 apples tore app 例行维护还是？",
         "link": "https://www.v2ex.com/t/729894",
         "date": "2020-11-27"
-      },
-      {
-        "title": "广告算法工程师-深圳 VIVO（30-60K）HC 3 人",
-        "link": "https://www.v2ex.com/t/729892",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "有没有不是基于 spring cloud Java 这套技术栈的关于微服务的教程...",
-        "link": "https://www.v2ex.com/t/729891",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "大家怎么看出道较早的 BiliBili 功成名就，而同样搬运番剧的后来者 DiliDili 身败名裂，赔款 100 万？",
-        "link": "https://www.v2ex.com/t/729889",
-        "date": "2020-11-27"
       }
     ]
   },
@@ -18896,6 +18891,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "阿里云打下AI地基，更多的开发者走向了前台 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14004&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778839%3Futm_content%3Dg_1000210969%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-27"
+      },
       {
         "title": "阿里云性能测试工具PTS介绍 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14003&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778829%3Futm_content%3Dg_1000210968%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -18990,11 +18990,6 @@
         "title": "Flink 双流 Join 的3种操作示例 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13985&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778485%3Futm_content%3Dg_1000209000%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-27"
-      },
-      {
-        "title": "快手基于 Apache Flink 的优化实践 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13984&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778575%3Futm_content%3Dg_1000208999%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-27"
       }
     ]
   },
@@ -19074,6 +19069,11 @@
         "date": "2020-11-27"
       },
       {
+        "title": "系统设计那些事儿：硬盘 I/O",
+        "link": "https://toutiao.io/k/3t02jng",
+        "date": "2020-11-27"
+      },
+      {
         "title": "大咖聊技术：强化学习也爱玩雅达利吗？",
         "link": "https://toutiao.io/k/6zynkk4",
         "date": "2020-11-27"
@@ -19081,11 +19081,6 @@
       {
         "title": "基于 Kubernetes 和 OpenKruise 的可变基础设施实践",
         "link": "https://toutiao.io/k/jp5wto0",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "系统设计那些事儿：硬盘 I/O",
-        "link": "https://toutiao.io/k/3t02jng",
         "date": "2020-11-27"
       },
       {
@@ -19104,63 +19099,13 @@
         "date": "2020-11-27"
       },
       {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-27"
-      },
-      {
         "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
         "link": "https://toutiao.io/k/5shq47n",
         "date": "2020-11-27"
       },
       {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-11-27"
       },
       {
@@ -19169,8 +19114,58 @@
         "date": "2020-11-27"
       },
       {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
         "date": "2020-11-27"
       }
     ]

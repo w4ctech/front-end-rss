@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-27 08:47:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 09:04:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-27-如何在-Mac-和-iPad-之间快速切换-TrackPad-和-Magic-Keyboard?](https://www.v2ex.com/t/729937) 
+- [2020-11-27-有没有网盘模拟本地硬盘的软件？](https://www.v2ex.com/t/729936) 
+- [2020-11-27-VSCODE-如何扩展某种语言的语法风格?](https://www.v2ex.com/t/729935) 
+- [2020-11-27-做了-4-年-c#-web-开发，在北京好难找工作呀](https://www.v2ex.com/t/729934) 
 - [2020-11-27-pymysql-执行报错，大佬们帮忙看看](https://www.v2ex.com/t/729932) 
 - [2020-11-27-x-浏览器默认拦截广告本身就是违法违规，不正当竞争。没有什么好洗的。什么菜刀不菜刀](https://www.v2ex.com/t/729931) 
 - [2020-11-27-当短信到达时，安卓-APP-可以获取到接收号码吗？](https://www.v2ex.com/t/729930) 
@@ -41,8 +45,3 @@
 - [2020-11-27-广告算法工程师-深圳-VIVO（30-60K）HC-3-人](https://www.v2ex.com/t/729892) 
 - [2020-11-27-有没有不是基于-spring-cloud-Java-这套技术栈的关于微服务的教程...](https://www.v2ex.com/t/729891) 
 - [2020-11-27-大家怎么看出道较早的-BiliBili-功成名就，而同样搬运番剧的后来者-DiliDili-身败名裂，赔款-100-万？](https://www.v2ex.com/t/729889) 
-- [2020-11-27-提出离职了](https://www.v2ex.com/t/729888) 
-- [2020-11-27-怎么搞定-win10-4K-屏-糊的问题](https://www.v2ex.com/t/729887) 
-- [2020-11-27-律师为什么要给嫌犯辩护](https://www.v2ex.com/t/729886) 
-- [2020-11-27-一加全系好像不支持-802.11r-协议？](https://www.v2ex.com/t/729885) 
-- [2020-11-27-坐标苏州，微软中国工程院，-SDE/SDE2/Senior-SDE-组内直招](https://www.v2ex.com/t/729884) 

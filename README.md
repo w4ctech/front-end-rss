@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 08:47:53，:rocket: 更新条数: +3902， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 09:04:46，:rocket: 更新条数: +3901， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -954,11 +954,11 @@
 </summary>
 
 
-- [2020-11-26-useReducer](https://juejin.im/post/6899705486904393735) ![](assets/new.png)  
-- [2020-11-26-如何用Web前端技术就能开发出桌面应用程序？](https://juejin.im/post/6899704894232461325) ![](assets/new.png)  
-- [2020-11-26-Http系列-02-http请求和响应](https://juejin.im/post/6899702886192971790) ![](assets/new.png)  
-- [2020-11-26-Webpack打包工具](https://juejin.im/post/6899700437264859144) ![](assets/new.png)  
+- [2020-11-27-ECMAScript-新特性](https://juejin.im/post/6899722233866878984) ![](assets/new.png)  
 - [2020-11-26-网站前端技术之通俗理解](https://juejin.im/post/6899700082120065032) ![](assets/new.png)  
+- [2020-11-26-let与const](https://juejin.im/post/6899697889611055111) ![](assets/new.png)  
+- [2020-11-26-ES6中let在for循环中的表现](https://juejin.im/post/6899696396975702030) ![](assets/new.png)  
+- [2020-11-26-浑元功法：排序](https://juejin.im/post/6899694544271933448) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,10 @@
 </summary>
 
 
+- [2020-11-27-如何在-Mac-和-iPad-之间快速切换-TrackPad-和-Magic-Keyboard?](https://www.v2ex.com/t/729937) ![](assets/new.png)  
+- [2020-11-27-有没有网盘模拟本地硬盘的软件？](https://www.v2ex.com/t/729936) ![](assets/new.png)  
+- [2020-11-27-VSCODE-如何扩展某种语言的语法风格?](https://www.v2ex.com/t/729935) ![](assets/new.png)  
+- [2020-11-27-做了-4-年-c#-web-开发，在北京好难找工作呀](https://www.v2ex.com/t/729934) ![](assets/new.png)  
 - [2020-11-27-pymysql-执行报错，大佬们帮忙看看](https://www.v2ex.com/t/729932) ![](assets/new.png)  
 - [2020-11-27-x-浏览器默认拦截广告本身就是违法违规，不正当竞争。没有什么好洗的。什么菜刀不菜刀](https://www.v2ex.com/t/729931) ![](assets/new.png)  
 - [2020-11-27-当短信到达时，安卓-APP-可以获取到接收号码吗？](https://www.v2ex.com/t/729930) ![](assets/new.png)  
@@ -1090,10 +1094,6 @@
 - [2020-11-27-iPhone-12-Mini-息屏唤醒后自动降低屏幕亮度](https://www.v2ex.com/t/729916) ![](assets/new.png)  
 - [2020-11-27-javaweb-程序-网络下行-30M/s-数据库上行-27M/s-怎么分析](https://www.v2ex.com/t/729915) ![](assets/new.png)  
 - [2020-11-27-用算力证明当验证码可行吗。](https://www.v2ex.com/t/729914) ![](assets/new.png)  
-- [2020-11-27-Linux-容器实现的底层原理是什么？和虚拟化技术一样吗？----一个菜鸟的学习笔记分享](https://www.v2ex.com/t/729913) ![](assets/new.png)  
-- [2020-11-27-B-站-up-主数据观察网站有吗？](https://www.v2ex.com/t/729912) ![](assets/new.png)  
-- [2020-11-27-typescript-如何定义无限嵌套的对象数组类型?](https://www.v2ex.com/t/729911) ![](assets/new.png)  
-- [2020-11-27-PHP-数据追加数据后的长度问题](https://www.v2ex.com/t/729910) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

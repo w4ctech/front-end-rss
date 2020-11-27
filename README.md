@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 11:32:36，:rocket: 更新条数: +795， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 11:48:02，:rocket: 更新条数: +793， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -76,11 +76,11 @@
 </summary>
 
 
+- [2020-11-27-满载104辆防疫货车-中亚班列从冀中南智能港启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti11zzjfik6CbAHqs4UDQV201127&isfromapp=1) ![](assets/new.png)  
+- [2020-11-27-外交部再次回应新冠病毒溯源问题：是复杂的科学问题-各国应加强合作共同推进](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXVsbA4tVM3IZce7mvYmr201127&isfromapp=1) ![](assets/new.png)  
 - [2020-11-27-希腊北部一养老院暴发新冠肺炎疫情-1人死亡30多人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2GePtW0g0d3VopJC8clc201127&isfromapp=1) ![](assets/new.png)  
 - [2020-11-27-满洲里市将开展第二轮全员核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHk18Cuz7u3KKsukX2lkR201127&isfromapp=1) ![](assets/new.png)  
 - [2020-11-26-土耳其伊兹密尔市长：中方捐赠物资已分发至灾民手中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM9IFonb670s1C7FJ6rzt201127&isfromapp=1) ![](assets/new.png)  
-- [2020-11-26-世界银行：新冠肺炎疫情致肯尼亚贫困人口增加200万-经济将萎缩1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFNLfunNUYyANfIxqjz5201127&isfromapp=1) ![](assets/new.png)  
-- [2020-11-26-世卫组织：全球新冠肺炎确诊病例超过6007万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDjE7nDDSDMWdDiJkUkC8201127&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1034,6 +1034,8 @@
 </summary>
 
 
+- [2020-11-27-机你太美？惠普宣布蔡徐坤为代言人](https://www.v2ex.com/t/729976) ![](assets/new.png)  
+- [2020-11-27-Adguard——广告拦截软件黑五半价优惠](https://www.v2ex.com/t/729975) ![](assets/new.png)  
 - [2020-11-27-filco-minila-r-1212-就要上市了，你准备买不](https://www.v2ex.com/t/729972) ![](assets/new.png)  
 - [2020-11-27-求最稳定的域名转发方案](https://www.v2ex.com/t/729971) ![](assets/new.png)  
 - [2020-11-27-抖音经常误触分享](https://www.v2ex.com/t/729970) ![](assets/new.png)  
@@ -1052,8 +1054,6 @@
 - [2020-11-27-请问-有什么提升视频画质的软件](https://www.v2ex.com/t/729956) ![](assets/new.png)  
 - [2020-11-27-第一个小程序《练打字》](https://www.v2ex.com/t/729955) ![](assets/new.png)  
 - [2020-11-27-从零开始的-RPG-游戏制作教程（第二期）](https://www.v2ex.com/t/729954) ![](assets/new.png)  
-- [2020-11-27-打算求婚，准备买个钻戒，预算-1.3w-左右，对钻石一窍不通，来点经验。](https://www.v2ex.com/t/729952) ![](assets/new.png)  
-- [2020-11-27-微信官方防撤回版文字版](https://www.v2ex.com/t/729950) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,9 +1105,9 @@
 - [2020-11-27-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x) ![](assets/new.png)  
 - [2020-11-27-我给-Apache-顶级项目提了个-Bug](https://toutiao.io/k/cxrsbn6) ![](assets/new.png)  
 - [2020-11-27-健壮的数据仓库项目搭建](https://toutiao.io/k/rlk9r6d) ![](assets/new.png)  
+- [2020-11-27-系统设计那些事儿：硬盘-I/O](https://toutiao.io/k/3t02jng) ![](assets/new.png)  
 - [2020-11-27-在-Android-开发中使用协程（背景介绍）](https://toutiao.io/k/hkzk6lw) ![](assets/new.png)  
 - [2020-11-27-一文带你快速上手-Rollup](https://toutiao.io/k/34zgygy) ![](assets/new.png)  
-- [2020-11-27-系统设计那些事儿：硬盘-I/O](https://toutiao.io/k/3t02jng) ![](assets/new.png)  
 - [2020-11-27-macOS-使用-XQuartz-支持-X11-实现-Linux-图形化界面显示](https://toutiao.io/k/05rih6f) ![](assets/new.png)  
 - [2020-11-27-译-使用-.NET-5-体验大数据和机器学习](https://toutiao.io/k/b7hi7tn) ![](assets/new.png)  
 - [2020-11-27-LVS-+-Iptables-实现-FULLNAT-及原理分析](https://toutiao.io/k/l50huqe) ![](assets/new.png)  

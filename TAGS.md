@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-27 11:32:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 11:48:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -582,8 +582,6 @@
 
 
 - [【全国新型肺炎疫情实时动态(丁香园)】希腊北部一养老院暴发新冠肺炎疫情-1人死亡30多人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2GePtW0g0d3VopJC8clc201127&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】世界银行：新冠肺炎疫情致肯尼亚贫困人口增加200万-经济将萎缩1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFNLfunNUYyANfIxqjz5201127&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超过6007万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDjE7nDDSDMWdDiJkUkC8201127&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -598,6 +596,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】满载104辆防疫货车-中亚班列从冀中南智能港启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti11zzjfik6CbAHqs4UDQV201127&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】外交部再次回应新冠病毒溯源问题：是复杂的科学问题-各国应加强合作共同推进](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXVsbA4tVM3IZce7mvYmr201127&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】满洲里市将开展第二轮全员核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHk18Cuz7u3KKsukX2lkR201127&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】土耳其伊兹密尔市长：中方捐赠物资已分发至灾民手中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM9IFonb670s1C7FJ6rzt201127&isfromapp=1)
 - [【Vue社区】大牛必备：前端与图形学](https://www.ershicimi.com/p/95d49a33e55b1d98b21aa3ad8745f6b0)
@@ -616,8 +616,6 @@
 - [【Vue中文社区】一个人竟然撸了一个抖音-App](https://www.ershicimi.com/p/1987ef0f48516e311290764251bd1201)
 - [【Vue中文社区】鸿蒙2.0大火，前端开发者可以对移动端布局了！](https://www.ershicimi.com/p/552fa05c3e4f8de77a89b6fcfd9d796c)
 - [【Vue中文社区】@前端人，你其实可以利用技术“躺赚”](https://www.ershicimi.com/p/65b9c7c1e760f4ce1519e57344ac5390)
-- [【React中文社区】招个数据分析工程师，我给25k](https://www.ershicimi.com/p/003c2b9ee98c0992b36c5258e82747d3)
-- [【React中文社区】一文掌握GO语言实战技能三](https://www.ershicimi.com/p/46cac625ac351e226dc4486f2397cb50)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

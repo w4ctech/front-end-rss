@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 03:48:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 04:05:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-11-27-【招聘】深圳大疆DJI-前端团队招高级前端工程师](https://www.ershicimi.com/p/8605d2d0efd20d22e42d714c627ce245) 
 - [2020-11-26-【招聘】北京好大夫在线招前端开发工程师](https://www.ershicimi.com/p/467a4ceb2d0492ae1adbfef607ec1ce9) 
 - [2020-11-25-【招聘】阿里云-GTS-GCC招聘前端-P6、P7](https://www.ershicimi.com/p/0406a754367319de3419bf65b084ef51) 
@@ -36,7 +35,7 @@
 - [2020-11-25-面试官就是这么欺负人：new-Object到底占用几个字节？](https://www.ershicimi.com/p/b56f88d1f40b017ef8816508ad42d173) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-10-29-阿里前端技术岗发布+内部面试题参考手册（含P5-P7）](https://www.ershicimi.com/p/f248e5ad233de930e884b7ab29796eec) 
+- [2020-11-27-大家看看新华社的这个招聘多少薪水合适？](https://www.v2ex.com/t/729808) 
 - [2020-11-27-成都AndroidFramework-招聘-不加班，不卡学历](https://www.v2ex.com/t/729767) 
-- [2020-11-27-杭州/北京/重庆蚂蚁金服消费金融事业部年底开放-HC，前端招聘，可年后入职。](https://www.v2ex.com/t/729760) 
 - [2020-11-27-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
 - [2020-11-26-国家计算机网络应急技术处理协调中心省级分中心2021年度公开招聘公...](https://sec.thief.one/article_content?a_id=8d73e92ffa26290e158748e3247ea791) 

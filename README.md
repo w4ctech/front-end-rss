@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 03:48:17，:rocket: 更新条数: +3898， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 04:05:14，:rocket: 更新条数: +1032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-11-27-11月26日全国新增确诊病例5例-均为境外输入](https://m.caixin.com/m/2020-11-27/101632901.html) ![](assets/new.png)  
-- [2020-11-27-聚焦|张文宏：控制经物流的海外输入性疫情](http://m.opinion.caixin.com/m/2020-11-27/101632910.html) ![](assets/new.png)  
-- [2020-11-27-大流行手记|11月26日：欧美节假季疫情恐加剧-全球性别平等受损](https://m.caixin.com/m/2020-11-27/101632915.html) ![](assets/new.png)  
-- [2020-11-26-满洲里共确诊11例新冠-现家庭、学校、小区聚集特征](https://m.caixin.com/m/2020-11-26/101632824.html) ![](assets/new.png)  
-- [2020-11-26-来华航班近两百份核酸报告雷同-使馆要求俄航司重检](http://m.companies.caixin.com/m/2020-11-26/101632663.html) ![](assets/new.png)  
-- [2020-11-26-最新海外疫情：新冠感染近6030万-累计死亡超141万](http://m.international.caixin.com/m/2020-11-26/101632817.html) ![](assets/new.png)  
-- [2020-11-26-内蒙古新增本土确诊病例9例-均在满洲里](http://m.china.caixin.com/m/2020-11-26/101632701.html) ![](assets/new.png)  
-- [2020-11-26-【境内疫情观察】内蒙古新增9例本土确诊病例（11月25日）](http://m.database.caixin.com/m/2020-11-26/101632600.html) ![](assets/new.png)  
-- [2020-11-26-大流行手记|11月25日：英入境隔离期将缩至5天-美测试疫苗分发网络](https://m.caixin.com/m/2020-11-26/101632481.html) ![](assets/new.png)  
-- [2020-11-25-天津两起疫情有不同源头-其中之一为进口猪头](https://m.caixin.com/m/2020-11-25/101632216.html) ![](assets/new.png)  
-- [2020-11-25-【境内疫情观察】内蒙古新增1例本土疑似病例（11月24日）](http://m.database.caixin.com/m/2020-11-25/101632194.html) ![](assets/new.png)  
-- [2020-11-25-大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html) ![](assets/new.png)  
-- [2020-11-25-新冠疫情传播“物染人”和“人染人”并存-非冷链运输也有传播风险](https://m.caixin.com/m/2020-11-25/101632416.html) ![](assets/new.png)  
-- [2020-11-24-江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html) ![](assets/new.png)  
-- [2020-11-24-香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html) ![](assets/new.png)  
-- [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
-- [2020-11-24-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
-- [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
-- [2020-11-23-香港再增73宗新冠病例-港版“方舱医院”将重启](https://m.caixin.com/m/2020-11-23/101631545.html) ![](assets/new.png)  
-- [2020-11-23-【境内疫情观察】上海新增2例本土确诊病例（11月22日）](http://m.database.caixin.com/m/2020-11-23/101631363.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1054,13 @@
 </summary>
 
 
+- [2020-11-27-打工人太难了，因为迟到一天工钱没了](https://www.v2ex.com/t/729812) ![](assets/new.png)  
+- [2020-11-27-nas-外网访问慢是怎么回事？](https://www.v2ex.com/t/729811) ![](assets/new.png)  
+- [2020-11-27-开发一个从指定网页拷贝指定文本内容的-Chrome-拓展，不知道怎么从-Pop-页面调用-Context.js-中的函数。](https://www.v2ex.com/t/729810) ![](assets/new.png)  
+- [2020-11-27-Java-有哪些对纯文本的进行数据存储操作的相关框架工具？](https://www.v2ex.com/t/729809) ![](assets/new.png)  
+- [2020-11-27-大家看看新华社的这个招聘多少薪水合适？](https://www.v2ex.com/t/729808) ![](assets/new.png)  
+- [2020-11-27-我又来了，抽奖送帆布包、无线键鼠套装、简约陶瓷杯、牛客衣服](https://www.v2ex.com/t/729806) ![](assets/new.png)  
+- [2020-11-27-mysql-表里数据-清洗-整理的问题](https://www.v2ex.com/t/729805) ![](assets/new.png)  
 - [2020-11-27-5G-套餐，-4G-手机，网速会变快吗？](https://www.v2ex.com/t/729804) ![](assets/new.png)  
 - [2020-11-27-后端开发，现在工作是修改-vue-用-webpack-打包后的-js/html](https://www.v2ex.com/t/729803) ![](assets/new.png)  
 - [2020-11-27-Apple-trade-in-的返款问题。](https://www.v2ex.com/t/729802) ![](assets/new.png)  
@@ -1087,13 +1074,6 @@
 - [2020-11-27-公司已经青黄不接了，我该何去何从？](https://www.v2ex.com/t/729793) ![](assets/new.png)  
 - [2020-11-27-南京云计算外企-Citrix-招人啦。快进来看看福利~](https://www.v2ex.com/t/729792) ![](assets/new.png)  
 - [2020-11-27-如何查找-URL-中的参数字段跟页面表单字段的对应关联关系？](https://www.v2ex.com/t/729791) ![](assets/new.png)  
-- [2020-11-27-一个程序员来回答保险问题4](https://www.v2ex.com/t/729790) ![](assets/new.png)  
-- [2020-11-27-看了-5-种分布式事务方案，我司最终选择了-Seata，真香！](https://www.v2ex.com/t/729789) ![](assets/new.png)  
-- [2020-11-27-V2-的大佬们，小孩便秘怎么整？](https://www.v2ex.com/t/729788) ![](assets/new.png)  
-- [2020-11-27-推广-一份关于-实现-JVM-的教程](https://www.v2ex.com/t/729787) ![](assets/new.png)  
-- [2020-11-27-才想起今天是黑色星期五，有洛杉矶-CN2-主机推荐嚒。](https://www.v2ex.com/t/729786) ![](assets/new.png)  
-- [2020-11-27-分享三个在-apple-m1-中使用-svn-的方法](https://www.v2ex.com/t/729784) ![](assets/new.png)  
-- [2020-11-27-ProcessOn-注册即可白嫖一个月会员，还不快来？](https://www.v2ex.com/t/729782) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

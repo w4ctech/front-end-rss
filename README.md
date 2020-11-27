@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 18:35:40，:rocket: 更新条数: +1032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 18:48:01，:rocket: 更新条数: +1032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -779,6 +779,8 @@
 </summary>
 
 
+- [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) ![](assets/new.png)  
+- [2020-11-25-看到程序员11月平均工资后，我第一反应：这是假的吧！](https://www.ershicimi.com/p/17570dd9f35d5357446c2cb8dcfad21c) ![](assets/new.png)  
 - [2020-11-24-腾讯、华为前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557) ![](assets/new.png)  
 - [2020-11-23-3天VUE实战，1比1还原抖音代码！](https://www.ershicimi.com/p/357d7929d9716f30eb66647a8de23f47) ![](assets/new.png)  
 - [2020-11-19-快人一步上手-Vue3.0](https://www.ershicimi.com/p/dfc983e441c2706df8b787642a0d4321) ![](assets/new.png)  
@@ -797,8 +799,6 @@
 - [2020-10-15-从Vue-SSR原理讲起，教你从零搭建Vue-SSR](https://www.ershicimi.com/p/3533c8a0ba1e77273ce26b55c4f1a2dc) ![](assets/new.png)  
 - [2020-10-12-中国的程序员已经饱和？网友：我想转行！](https://www.ershicimi.com/p/e9a26899236d1b6d139b026bad8bb465) ![](assets/new.png)  
 - [2020-10-09-能读React源码的人，很吃香！](https://www.ershicimi.com/p/592ed6d488321e33fbf34051082457f1) ![](assets/new.png)  
-- [2020-09-29-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/3f31bee0e974ab26ac32528f2662869b) ![](assets/new.png)  
-- [2020-09-28-下一家跳槽该去哪里？](https://www.ershicimi.com/p/a847c79ea2dec4469720ea2b7efbcd40) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -936,9 +936,9 @@
 
 - [2020-11-27-ZooTeam-前端周刊｜第-110-期](https://juejin.im/post/6899728249497223182) ![](assets/new.png)  
 - [2020-11-27-ECMAScript-新特性](https://juejin.im/post/6899722233866878984) ![](assets/new.png)  
+- [2020-11-26-网站前端技术之通俗理解](https://juejin.im/post/6899700082120065032) ![](assets/new.png)  
 - [2020-11-26-let与const](https://juejin.im/post/6899697889611055111) ![](assets/new.png)  
 - [2020-11-26-ES6中let在for循环中的表现](https://juejin.im/post/6899696396975702030) ![](assets/new.png)  
-- [2020-11-26-浑元功法：排序](https://juejin.im/post/6899694544271933448) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 13:07:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 13:23:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -29,15 +29,9 @@
 - [2020-11-19-4个未听说过的强大JavaScript操作符](https://www.ershicimi.com/p/48072897b25f071216dfda9dbfe58fa7) 
 - [2020-11-12-Javascript-实现复制（Copy）动作大全](https://www.ershicimi.com/p/11858c1f713ad70a62ab0107ab39453d) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
-- [2020-11-18-聊聊CommonJS与ES6-Module的使用与区别](https://www.ershicimi.com/p/4f80f6e07bdebb993be1630cf7c39137) 
-- [2020-11-17-最全的JavaScript常见的操作数组的函数方法宝典](https://www.ershicimi.com/p/d5e4739afdc43a658339cf949e2c0e1a) 
-- [2020-11-02-JavaScript函数式编程，“香”吗？](https://www.ershicimi.com/p/7fc90088a6427a91acfc2e2c2f3dd71a) 
 - [2020-11-24-什么，lodash-的防抖失效了？](https://www.ershicimi.com/p/65413753e673bb9f714313968dc421e8) 
 - [2020-11-19-JavaScript-恩仇录](https://www.ershicimi.com/p/41ed5b43325fe24af5af9c1ff73e5e13) 
 - [2020-11-13-28-个-JavaScript-编程黑科技：还有这种操作！](https://www.ershicimi.com/p/a4536cf5ef35b85d72f882cb0a4a0d48) 
-- [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
-- [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
-- [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 
 - [2020-11-20-怎样的变量命名，才显得有文化？](https://www.ershicimi.com/p/a559af22aeff572b2e18878deb98da20) 
 - [2020-11-19-书到用时方恨少，一大波JS开发工具函数来了](https://www.ershicimi.com/p/d233ab10dd97abbcba02b6c1a3a72ed3) 
 - [2020-11-17-这样写的-JS-代码看着就很舒服](https://www.ershicimi.com/p/8038db7609e740e232a1f5c390a64d93) 

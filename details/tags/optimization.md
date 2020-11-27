@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 13:07:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 13:23:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -14,9 +14,7 @@
 - [2020-11-18-图片懒加载从简单到复杂](https://www.ershicimi.com/p/5c1149cdd78fd700b22014239994a291) 
 - [2020-11-27-PHP-8.0重大版本更新正式发布：支持JIT编译器，性能提升高达3倍](https://www.ershicimi.com/p/fde617f4de8741e04807c67be11b156b) 
 - [2020-11-20-从0开始快速上手WebAssembly：打造基于WASM的高性能安全沙盒](https://www.ershicimi.com/p/f685041d75bc49c89f432c79377d79e4) 
-- [2020-11-19-前端性能优化-24-条建议（2020）](https://www.ershicimi.com/p/16fae320bad6ffa073196dcf8c778d76) 
 - [2020-11-23-图片懒加载从简单到复杂](https://www.ershicimi.com/p/3040dc77ae0d37b04ac525718c229733) 
-- [2020-08-09-编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
 - [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) 

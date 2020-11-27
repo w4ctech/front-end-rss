@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 20:25:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 20:32:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,6 +28,9 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2020-11-27-一个游戏，有手机版和-PC-互通版，安装-PC-互通版后无法打开。。](https://www.v2ex.com/t/730021) 
+- [2020-11-27-求游戏手机推荐-主要是散热好~~-现在打手游-手机烫手](https://www.v2ex.com/t/730002) 
+- [2020-11-27-有老哥用-Linux-玩游戏吗？](https://www.v2ex.com/t/729995) 
 - [2020-11-27-数据结构能干吗，我花了一夜给女朋友写个走迷宫游戏](https://toutiao.io/k/qi0u26p) 
 - [2020-11-27-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) 
 - [2020-11-26-只有5G才能做到的事，我以后看视频、打游戏可能再也不会卡了~](https://www.ershicimi.com/p/0a2ec51f5eaf6120f5d3772bcce537ea) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 12:52:09，:rocket: 更新条数: +1028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 13:04:16，:rocket: 更新条数: +1029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,7 @@
 </summary>
 
 
+- [2020-11-27-yori，一个提升-windows-命令行使用体验的-shell（cmd-替代）](https://www.v2ex.com/t/729991) ![](assets/new.png)  
 - [2020-11-27-iPhone-12-OLED-屏幕偏色问题参考对比](https://www.v2ex.com/t/729989) ![](assets/new.png)  
 - [2020-11-27-V-友们，公司准备上套直饮水过滤系统，购买时候该注意些啥？](https://www.v2ex.com/t/729988) ![](assets/new.png)  
 - [2020-11-27-关于爬虫的法律问题---知乎的用户信息的法律问题？](https://www.v2ex.com/t/729986) ![](assets/new.png)  
@@ -1073,7 +1074,6 @@
 - [2020-11-27-去小公司还是外包啊](https://www.v2ex.com/t/729967) ![](assets/new.png)  
 - [2020-11-27-怎么通过串流，在客厅电视上玩-steam-上的游戏](https://www.v2ex.com/t/729966) ![](assets/new.png)  
 - [2020-11-27-自我道德的深思（非凡尔赛）](https://www.v2ex.com/t/729965) ![](assets/new.png)  
-- [2020-11-27--快手急招-！-招聘-网络研发工程师](https://www.v2ex.com/t/729964) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

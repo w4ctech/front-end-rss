@@ -15460,6 +15460,56 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "PHP 8.0重大版本更新正式发布：支持JIT编译器，性能提升高达3倍",
+        "link": "https://www.ershicimi.com/p/fde617f4de8741e04807c67be11b156b",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "Flutter状态State的5种应对方法",
+        "link": "https://www.ershicimi.com/p/45fff8577709ea71dcfaa006792f1794",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "145亿美元背后，困扰 IT 决策者基础性难题是？ | 活动推荐",
+        "link": "https://www.ershicimi.com/p/3f02f08dd1057f5d2869b4d70846cde0",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "场景构造难，编译很耗时？看小程序业务如何提高效研发",
+        "link": "https://www.ershicimi.com/p/9b7cbb4fcfbacff8537b77efb5a0295b",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "Electron 11 正式发布：支持苹果 M1 芯片",
+        "link": "https://www.ershicimi.com/p/ccf56db0949f80eed83e17e1545b4262",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "为应用开发提供强大支撑：AppGallery Connect Serverless全面解析 | 活动",
+        "link": "https://www.ershicimi.com/p/9736011c4e88644a2839e0589fbc8960",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "Vue 新语法糖引争议，网友：魔改 JavaScript，这是想挑战标准？",
+        "link": "https://www.ershicimi.com/p/29285e860acb655c954465312314399e",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "React Portals 简述及其用例",
+        "link": "https://www.ershicimi.com/p/1f75618d912196c687c9531ba913685a",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "还在用分库分表？看TiDB如何解决海量数据无感扩容难题 ｜ 活动推荐",
+        "link": "https://www.ershicimi.com/p/723c01735b4c9c3ee64660456a9343d6",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "前端周报：苹果芯成开发者噩梦，多款软件无法正常运行；2020谷歌开发者大会正式举行；苹果回应iPho",
+        "link": "https://www.ershicimi.com/p/15d6f1da4538a04d440a0469bc90893b",
+        "date": "2020-11-22"
+      },
+      {
         "title": "将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解",
         "link": "https://www.ershicimi.com/p/48571c2bce08388e0d99c56b20ecbd23",
         "date": "2020-11-20"
@@ -15508,56 +15558,6 @@
         "title": "专注力对程序员来说意味着什么？",
         "link": "https://www.ershicimi.com/p/3b2c96bb0f17815c583e4f15118fc748",
         "date": "2020-11-16"
-      },
-      {
-        "title": "前端周报：苹果发布macOS Big Sur，可运行原生iOS应用；Python放弃退休；前微软员工",
-        "link": "https://www.ershicimi.com/p/27d140404c92cd6871f38e997d967c94",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "6个React Hook最佳实践技巧",
-        "link": "https://www.ershicimi.com/p/fe26294e5c036dec44057cb05d834751",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "Swift 发布路线图：更便捷，更高效且更安全",
-        "link": "https://www.ershicimi.com/p/6092141198f4a44bf9845c3188f4d782",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "用了10年Windows后，我最终转向Linux",
-        "link": "https://www.ershicimi.com/p/06f490ec21dfd23026c76323ad6dccf6",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "使用 PRPL 模式加快 Web 应用加载",
-        "link": "https://www.ershicimi.com/p/39ac19b4d2ab80aad56c8751340146a9",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "作为前端工程师的你在深入研究哪些领域？ | 极客大学",
-        "link": "https://www.ershicimi.com/p/9c87ce69bcc4b617cca8e07aaa4e7076",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "Web 开发人员应避免的 5 个错误",
-        "link": "https://www.ershicimi.com/p/bdeb7f200c6f838c2a7e23f883d22913",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "TypeScript 4.1 RC 版本发布：带来了令人兴奋的新特性",
-        "link": "https://www.ershicimi.com/p/826d60864e4f62b2e591c5628b75f2a4",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "开源项目正式集结完毕，百万开发者正在投票 | 活动推荐",
-        "link": "https://www.ershicimi.com/p/869c5aa6f0129cad0cf7bddd34c6adb9",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "前端周报：GitHub疑似源代码泄露；蚂蚁集团上市将推迟半年以上，官方致歉；苹果11.11再次召开发",
-        "link": "https://www.ershicimi.com/p/c16f43363835bfd6c002e1c156331fae",
-        "date": "2020-11-08"
       }
     ]
   },
@@ -18276,29 +18276,29 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "原生JS之苦",
+        "link": "https://juejin.im/post/6899698476846678024",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "清除浮动",
+        "link": "https://juejin.im/post/6899693749262090253",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "如何去理解Object.defineProperty()方法",
+        "link": "https://juejin.im/post/6899692845997752333",
+        "date": "2020-11-26"
+      },
+      {
         "title": "React中使用TypeScript参考指南",
         "link": "https://juejin.im/post/6899689989207818254",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "vue3+ts+axios+Ant Design of Vue2配套使用踩坑",
-        "link": "https://juejin.im/post/6899689818583007245",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "你不知道的vue3 ♥",
-        "link": "https://juejin.im/post/6899688435657900039",
         "date": "2020-11-26"
       },
       {
         "title": "面向 Model 编程的前端架构设计",
         "link": "https://juejin.im/post/6899647897508577294",
         "date": "2020-11-26"
-      },
-      {
-        "title": "JS实现树结构",
-        "link": "https://juejin.im/post/6870444463823683598",
-        "date": "2020-09-09"
       }
     ]
   },
@@ -18685,6 +18685,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有不是基于 spring cloud Java 这套技术栈的关于微服务的教程...",
+        "link": "https://www.v2ex.com/t/729891",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "大家怎么看出道较早的 BiliBili 功成名就，而同样搬运番剧的后来者 DiliDili 身败名裂，赔款 100 万？",
+        "link": "https://www.v2ex.com/t/729889",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "提出离职了",
+        "link": "https://www.v2ex.com/t/729888",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "怎么搞定 win10 4K 屏 糊的问题",
+        "link": "https://www.v2ex.com/t/729887",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "律师为什么要给嫌犯辩护",
+        "link": "https://www.v2ex.com/t/729886",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "一加全系好像不支持 802.11r 协议？",
+        "link": "https://www.v2ex.com/t/729885",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "坐标苏州，微软中国工程院， SDE/SDE2/Senior SDE 组内直招",
+        "link": "https://www.v2ex.com/t/729884",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "高级开发工程师/专家-车载导航-C++（阿里高德 base 北京望京）HC10 人",
+        "link": "https://www.v2ex.com/t/729883",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "求推荐可以把 ftp/http/webdav 挂载为本地硬盘的软件（除了 RaiDrive）",
+        "link": "https://www.v2ex.com/t/729882",
+        "date": "2020-11-27"
+      },
+      {
         "title": "做了一个在线解析下载短视频的 web 网站，可以下载没有水印的短视频",
         "link": "https://www.v2ex.com/t/729881",
         "date": "2020-11-27"
@@ -18812,36 +18857,6 @@
       {
         "title": "求购清理大师安卓代码",
         "link": "https://www.v2ex.com/t/729844",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "想留下一些问题， 5 年之后再来看看能不能找到答案",
-        "link": "https://www.v2ex.com/t/729841",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "研究了一下如何从 Apple M1 的机器获得实时 CPU/SSD 温度",
-        "link": "https://www.v2ex.com/t/729840",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "一个二级域名分发系统",
-        "link": "https://www.v2ex.com/t/729839",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "Gem-book：文档网站生成器",
-        "link": "https://www.v2ex.com/t/729838",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "多态 VPN 什么情况，发个邮件就说可能要花费数月调整，现在已经无法使用了，是不是跑路了",
-        "link": "https://www.v2ex.com/t/729836",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "在线成语接龙",
-        "link": "https://www.v2ex.com/t/729833",
         "date": "2020-11-27"
       }
     ]
@@ -18989,6 +19004,11 @@
         "date": "2020-11-27"
       },
       {
+        "title": "一文讲透 “布隆过滤器”",
+        "link": "https://toutiao.io/k/9b7zxp0",
+        "date": "2020-11-27"
+      },
+      {
         "title": "我给 Apache 顶级项目提了个 Bug",
         "link": "https://toutiao.io/k/cxrsbn6",
         "date": "2020-11-27"
@@ -19001,11 +19021,6 @@
       {
         "title": "健壮的数据仓库项目搭建",
         "link": "https://toutiao.io/k/rlk9r6d",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "一文讲透 “布隆过滤器”",
-        "link": "https://toutiao.io/k/9b7zxp0",
         "date": "2020-11-27"
       },
       {
@@ -19059,23 +19074,33 @@
         "date": "2020-11-27"
       },
       {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
-        "date": "2020-11-27"
-      },
-      {
         "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
         "link": "https://toutiao.io/k/5shq47n",
         "date": "2020-11-27"
       },
       {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-27"
       },
       {
         "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
         "link": "https://toutiao.io/k/z2u8tqp",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
         "date": "2020-11-27"
       },
       {
@@ -19089,16 +19114,6 @@
         "date": "2020-11-27"
       },
       {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-11-27"
-      },
-      {
         "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
         "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-11-27"
@@ -19109,23 +19124,23 @@
         "date": "2020-11-27"
       },
       {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
-        "date": "2020-11-27"
-      },
-      {
         "title": "[推荐] 小团队如何落地敏捷开发",
         "link": "https://toutiao.io/k/hg0jmdy",
         "date": "2020-11-27"
       },
       {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
         "date": "2020-11-27"
       },
       {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-27"
       }
     ]

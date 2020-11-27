@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 07:07:56，:rocket: 更新条数: +3892， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 07:24:35，:rocket: 更新条数: +3895， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -433,6 +433,16 @@
 </summary>
 
 
+- [2020-11-27-PHP-8.0重大版本更新正式发布：支持JIT编译器，性能提升高达3倍](https://www.ershicimi.com/p/fde617f4de8741e04807c67be11b156b) ![](assets/new.png)  
+- [2020-11-27-Flutter状态State的5种应对方法](https://www.ershicimi.com/p/45fff8577709ea71dcfaa006792f1794) ![](assets/new.png)  
+- [2020-11-27-145亿美元背后，困扰-IT-决策者基础性难题是？-|-活动推荐](https://www.ershicimi.com/p/3f02f08dd1057f5d2869b4d70846cde0) ![](assets/new.png)  
+- [2020-11-25-场景构造难，编译很耗时？看小程序业务如何提高效研发](https://www.ershicimi.com/p/9b7cbb4fcfbacff8537b77efb5a0295b) ![](assets/new.png)  
+- [2020-11-25-Electron-11-正式发布：支持苹果-M1-芯片](https://www.ershicimi.com/p/ccf56db0949f80eed83e17e1545b4262) ![](assets/new.png)  
+- [2020-11-25-为应用开发提供强大支撑：AppGallery-Connect-Serverless全面解析-|-活动](https://www.ershicimi.com/p/9736011c4e88644a2839e0589fbc8960) ![](assets/new.png)  
+- [2020-11-23-Vue-新语法糖引争议，网友：魔改-JavaScript，这是想挑战标准？](https://www.ershicimi.com/p/29285e860acb655c954465312314399e) ![](assets/new.png)  
+- [2020-11-23-React-Portals-简述及其用例](https://www.ershicimi.com/p/1f75618d912196c687c9531ba913685a) ![](assets/new.png)  
+- [2020-11-23-还在用分库分表？看TiDB如何解决海量数据无感扩容难题-｜-活动推荐](https://www.ershicimi.com/p/723c01735b4c9c3ee64660456a9343d6) ![](assets/new.png)  
+- [2020-11-22-前端周报：苹果芯成开发者噩梦，多款软件无法正常运行；2020谷歌开发者大会正式举行；苹果回应iPho](https://www.ershicimi.com/p/15d6f1da4538a04d440a0469bc90893b) ![](assets/new.png)  
 - [2020-11-20-将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解](https://www.ershicimi.com/p/48571c2bce08388e0d99c56b20ecbd23) ![](assets/new.png)  
 - [2020-11-20-从0开始快速上手WebAssembly：打造基于WASM的高性能安全沙盒](https://www.ershicimi.com/p/f685041d75bc49c89f432c79377d79e4) ![](assets/new.png)  
 - [2020-11-20-技术是泛娱乐的基础推动力，看腾讯云怎么玩？-|-活动推荐](https://www.ershicimi.com/p/2126746ec74153d8be7f9331e0d4575b) ![](assets/new.png)  
@@ -443,16 +453,6 @@
 - [2020-11-18-2020中国技术力量年度榜单盛典：四大奖项花落谁家，将见分晓-|-InfoQ](https://www.ershicimi.com/p/80b6f23a93849bb0413181875b3501d7) ![](assets/new.png)  
 - [2020-11-16-2020-Google-开发者大会：Android-和-Flutter-有哪些更新？](https://www.ershicimi.com/p/c486b9ef916ed065f5768e34fe9b94c5) ![](assets/new.png)  
 - [2020-11-16-专注力对程序员来说意味着什么？](https://www.ershicimi.com/p/3b2c96bb0f17815c583e4f15118fc748) ![](assets/new.png)  
-- [2020-11-15-前端周报：苹果发布macOS-Big-Sur，可运行原生iOS应用；Python放弃退休；前微软员工](https://www.ershicimi.com/p/27d140404c92cd6871f38e997d967c94) ![](assets/new.png)  
-- [2020-11-13-6个React-Hook最佳实践技巧](https://www.ershicimi.com/p/fe26294e5c036dec44057cb05d834751) ![](assets/new.png)  
-- [2020-11-13-Swift-发布路线图：更便捷，更高效且更安全](https://www.ershicimi.com/p/6092141198f4a44bf9845c3188f4d782) ![](assets/new.png)  
-- [2020-11-11-用了10年Windows后，我最终转向Linux](https://www.ershicimi.com/p/06f490ec21dfd23026c76323ad6dccf6) ![](assets/new.png)  
-- [2020-11-11-使用-PRPL-模式加快-Web-应用加载](https://www.ershicimi.com/p/39ac19b4d2ab80aad56c8751340146a9) ![](assets/new.png)  
-- [2020-11-11-作为前端工程师的你在深入研究哪些领域？-|-极客大学](https://www.ershicimi.com/p/9c87ce69bcc4b617cca8e07aaa4e7076) ![](assets/new.png)  
-- [2020-11-09-Web-开发人员应避免的-5-个错误](https://www.ershicimi.com/p/bdeb7f200c6f838c2a7e23f883d22913) ![](assets/new.png)  
-- [2020-11-09-TypeScript-4.1-RC-版本发布：带来了令人兴奋的新特性](https://www.ershicimi.com/p/826d60864e4f62b2e591c5628b75f2a4) ![](assets/new.png)  
-- [2020-11-09-开源项目正式集结完毕，百万开发者正在投票-|-活动推荐](https://www.ershicimi.com/p/869c5aa6f0129cad0cf7bddd34c6adb9) ![](assets/new.png)  
-- [2020-11-08-前端周报：GitHub疑似源代码泄露；蚂蚁集团上市将推迟半年以上，官方致歉；苹果11.11再次召开发](https://www.ershicimi.com/p/c16f43363835bfd6c002e1c156331fae) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -954,11 +954,11 @@
 </summary>
 
 
+- [2020-11-26-原生JS之苦](https://juejin.im/post/6899698476846678024) ![](assets/new.png)  
+- [2020-11-26-清除浮动](https://juejin.im/post/6899693749262090253) ![](assets/new.png)  
+- [2020-11-26-如何去理解Object.defineProperty方法](https://juejin.im/post/6899692845997752333) ![](assets/new.png)  
 - [2020-11-26-React中使用TypeScript参考指南](https://juejin.im/post/6899689989207818254) ![](assets/new.png)  
-- [2020-11-26-vue3+ts+axios+Ant-Design-of-Vue2配套使用踩坑](https://juejin.im/post/6899689818583007245) ![](assets/new.png)  
-- [2020-11-26-你不知道的vue3-♥](https://juejin.im/post/6899688435657900039) ![](assets/new.png)  
 - [2020-11-26-面向-Model-编程的前端架构设计](https://juejin.im/post/6899647897508577294) ![](assets/new.png)  
-- [2020-09-09-JS实现树结构](https://juejin.im/post/6870444463823683598) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,15 @@
 </summary>
 
 
+- [2020-11-27-有没有不是基于-spring-cloud-Java-这套技术栈的关于微服务的教程...](https://www.v2ex.com/t/729891) ![](assets/new.png)  
+- [2020-11-27-大家怎么看出道较早的-BiliBili-功成名就，而同样搬运番剧的后来者-DiliDili-身败名裂，赔款-100-万？](https://www.v2ex.com/t/729889) ![](assets/new.png)  
+- [2020-11-27-提出离职了](https://www.v2ex.com/t/729888) ![](assets/new.png)  
+- [2020-11-27-怎么搞定-win10-4K-屏-糊的问题](https://www.v2ex.com/t/729887) ![](assets/new.png)  
+- [2020-11-27-律师为什么要给嫌犯辩护](https://www.v2ex.com/t/729886) ![](assets/new.png)  
+- [2020-11-27-一加全系好像不支持-802.11r-协议？](https://www.v2ex.com/t/729885) ![](assets/new.png)  
+- [2020-11-27-坐标苏州，微软中国工程院，-SDE/SDE2/Senior-SDE-组内直招](https://www.v2ex.com/t/729884) ![](assets/new.png)  
+- [2020-11-27-高级开发工程师/专家-车载导航-C++（阿里高德-base-北京望京）HC10-人](https://www.v2ex.com/t/729883) ![](assets/new.png)  
+- [2020-11-27-求推荐可以把-ftp/http/webdav-挂载为本地硬盘的软件（除了-RaiDrive）](https://www.v2ex.com/t/729882) ![](assets/new.png)  
 - [2020-11-27-做了一个在线解析下载短视频的-web-网站，可以下载没有水印的短视频](https://www.v2ex.com/t/729881) ![](assets/new.png)  
 - [2020-11-27-北京-自如-相寓长租公寓房东注意了,别答应降租](https://www.v2ex.com/t/729880) ![](assets/new.png)  
 - [2020-11-27-B-站首页不再刷出马保国对-B-站有什么好处吗？](https://www.v2ex.com/t/729879) ![](assets/new.png)  
@@ -1085,15 +1094,6 @@
 - [2020-11-27-坐标西安，想吐槽一番我司经理](https://www.v2ex.com/t/729870) ![](assets/new.png)  
 - [2020-11-27-懂区块链技术的大佬们指导一下](https://www.v2ex.com/t/729869) ![](assets/new.png)  
 - [2020-11-27-这样的情况属于异常还是正常？](https://www.v2ex.com/t/729868) ![](assets/new.png)  
-- [2020-11-27-帮朋友做软件，需求的边界太难确认了，很困难失去朋友](https://www.v2ex.com/t/729865) ![](assets/new.png)  
-- [2020-11-27-不懂就问-交易所的-k-线是怎么做到实时？](https://www.v2ex.com/t/729862) ![](assets/new.png)  
-- [2020-11-27-macbook-air-和-pro-512g-的-ssd-速率对比](https://www.v2ex.com/t/729861) ![](assets/new.png)  
-- [2020-11-27-坐标深圳，小区没有联通只有天威，有别的推荐吗？](https://www.v2ex.com/t/729860) ![](assets/new.png)  
-- [2020-11-27-求助：-ES-聚合查询，使用了-nested，如何再对某个字段排序？](https://www.v2ex.com/t/729859) ![](assets/new.png)  
-- [2020-11-27-1-年多经验的-Java-开发，该如何提升自己比较好？](https://www.v2ex.com/t/729858) ![](assets/new.png)  
-- [2020-11-27-刚刚获得了一年的免费全家桶，真香](https://www.v2ex.com/t/729857) ![](assets/new.png)  
-- [2020-11-27-女同事拿了一包坚果分着吃，被另一个同事吃光了](https://www.v2ex.com/t/729856) ![](assets/new.png)  
-- [2020-11-27-有找工作的吗？](https://www.v2ex.com/t/729855) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1142,10 +1142,10 @@
 - [2020-11-27-Let's-Do-本地开发智能合约](https://toutiao.io/k/oplrws3) ![](assets/new.png)  
 - [2020-11-27-工具-|-腾讯开源的，面向数据库事务处理的验证系统](https://toutiao.io/k/3mqcnxo) ![](assets/new.png)  
 - [2020-11-27-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x) ![](assets/new.png)  
+- [2020-11-27-一文讲透-“布隆过滤器”](https://toutiao.io/k/9b7zxp0) ![](assets/new.png)  
 - [2020-11-27-我给-Apache-顶级项目提了个-Bug](https://toutiao.io/k/cxrsbn6) ![](assets/new.png)  
 - [2020-11-27-在-Android-开发中使用协程（背景介绍）](https://toutiao.io/k/hkzk6lw) ![](assets/new.png)  
 - [2020-11-27-健壮的数据仓库项目搭建](https://toutiao.io/k/rlk9r6d) ![](assets/new.png)  
-- [2020-11-27-一文讲透-“布隆过滤器”](https://toutiao.io/k/9b7zxp0) ![](assets/new.png)  
 - [2020-11-27-一文带你快速上手-Rollup](https://toutiao.io/k/34zgygy) ![](assets/new.png)  
 - [2020-11-27-macOS-使用-XQuartz-支持-X11-实现-Linux-图形化界面显示](https://toutiao.io/k/05rih6f) ![](assets/new.png)  
 - [2020-11-27-译-使用-.NET-5-体验大数据和机器学习](https://toutiao.io/k/b7hi7tn) ![](assets/new.png)  

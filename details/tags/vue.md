@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 07:07:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 07:24:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -49,6 +49,7 @@
 - [2020-07-07-1元福利-|-深度剖析Vue-.js-3.0底层逻辑，带你向高级前端进阶！](https://www.ershicimi.com/p/b7eeaaa6276d65ebe0a5252368725728) 
 - [2020-04-19-2020年-4-月-21日-星期二-晚上-9:30-Vue.js-作者尤雨溪与你相约前端圈的-B-站](https://www.ershicimi.com/p/69d20f9c5bb2de3da1dad85699594815) 
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
+- [2020-11-23-Vue-新语法糖引争议，网友：魔改-JavaScript，这是想挑战标准？](https://www.ershicimi.com/p/29285e860acb655c954465312314399e) 
 - [2020-11-23-Vue3源码-nextTick解析](https://www.ershicimi.com/p/d51475d104b740f1b2c866fd6d18fae6) 
 - [2020-11-10-一文搞定Vue-SSR，SEO就靠它了](https://www.ershicimi.com/p/5cf75c1502f5e63fb0fb349ee1d94a85) 
 - [2020-11-24-开发一个基于-Vue3.0-的组件库是一种怎样的体验？](https://www.ershicimi.com/p/7f5ab22f640a1ff604d2e70f166f5083) 
@@ -75,7 +76,5 @@
 - [2020-11-17-这7个vue技巧，简直让面试加分！](https://www.ershicimi.com/p/5e206d0f44094c5f63393b87e45edfd3) 
 - [2020-11-13-做了这个Vue3.0实战项目，大厂二面过了，提薪55%！（附项目全过程）](https://www.ershicimi.com/p/38d2520cd5b43a11af949b1da0c7a2ad) 
 - [2020-11-02-面试的时候，只会vue能行么？](https://www.ershicimi.com/p/de8096ff1d6ac01c6ff82a1f19aa0ff1) 
-- [2020-11-26-vue3+ts+axios+Ant-Design-of-Vue2配套使用踩坑](https://juejin.im/post/6899689818583007245) 
-- [2020-11-26-你不知道的vue3-♥](https://juejin.im/post/6899688435657900039) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 

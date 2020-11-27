@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-11-27 00:18:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 01:03:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-27-今年黑五没有苹果-gift-card-折扣吗？](https://www.v2ex.com/t/729703) 
+- [2020-11-27-19-款-mbp13-在外接上-4k-电视的时候会卡很久，是什么问题？](https://www.v2ex.com/t/729702) 
+- [2020-11-27-请问一下，有没有大佬知道，怎么「在-Mac-上」屏蔽垃圾短信？](https://www.v2ex.com/t/729701) 
+- [2020-11-27-30-岁准大龄程序员的出路是什么？](https://www.v2ex.com/t/729700) 
+- [2020-11-27-现在出口宽带好的运营商是哪个？](https://www.v2ex.com/t/729699) 
+- [2020-11-27-跨数据源查询解决方案](https://www.v2ex.com/t/729698) 
+- [2020-11-27-老爸要我给他挑部手机，现在入手-iPhone-xr-可以吗？](https://www.v2ex.com/t/729697) 
+- [2020-11-27-新零售领域-web-前端-offer-选择？](https://www.v2ex.com/t/729696) 
+- [2020-11-27-看了之前的帖子，我想问问那些移动端的浏览器诸如-UC-之流，直接屏蔽网站广告不构成侵权和犯罪吗？](https://www.v2ex.com/t/729695) 
+- [2020-11-27-求-macOS-Big-Sur-上替代-Thunderbird-的邮件客户端](https://www.v2ex.com/t/729694) 
 - [2020-11-27-iPhone-正确下载姿势是什么？](https://www.v2ex.com/t/729693) 
 - [2020-11-27-iOS-昨天更新到了-14.2，今天钉钉各种闪退，有没有同样问题的？](https://www.v2ex.com/t/729692) 
 - [2020-11-26-老哥们问一下，-Steam-现在最佳购买方式是什么，还能用充值卡吗？](https://www.v2ex.com/t/729690) 
@@ -35,10 +45,3 @@
 - [2020-11-26-分享下最近面试遇到的面试题](https://www.v2ex.com/t/729657) 
 - [2020-11-26-想买个-chromecast，各种途径均被砍单，还有什么方法可以用吗](https://www.v2ex.com/t/729656) 
 - [2020-11-26-Stack-Overflow-6666-Rep-了](https://www.v2ex.com/t/729654) 
-- [2020-11-26-iOS-连接-openSUSE-键盘失灵](https://www.v2ex.com/t/729653) 
-- [2020-11-26-公司-OA-的苹果-App-最近存不住登陆状态，每次都要登陆。有不忙的-IOS-开发来赚点外快吗？](https://www.v2ex.com/t/729652) 
-- [2020-11-26-m1-MacBook-Pro-新机器美区账户尝试领取-apple-tv-免费一年特权，结果走的是-iCloud-家庭组车主-4.99-美元计费，已预约周六苹果🍎技术顾问，请问这是怎么回事...](https://www.v2ex.com/t/729650) 
-- [2020-11-26-Application-Note:-Apple-M1-和虚拟机](https://www.v2ex.com/t/729648) 
-- [2020-11-26-关于房屋拆迁补偿转售的协议问题，急求法律咨询](https://www.v2ex.com/t/729647) 
-- [2020-11-26-如何知道一个-windows-软件里内嵌的网页-url？](https://www.v2ex.com/t/729645) 
-- [2020-11-26-南京-Citrix-大量-HC-开放,-C++/-Java-/C#/-Python-,-junior/senior/staff/principal-SW,-PM,-Manager](https://www.v2ex.com/t/729644) 

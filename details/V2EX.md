@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-27 13:48:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 14:04:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-27-有老哥用-Linux-玩游戏吗？](https://www.v2ex.com/t/729995) 
 - [2020-11-27-问一个关于-PHP--screw-的问题，是不是加密的密钥写进-so-文件里了？](https://www.v2ex.com/t/729994) 
 - [2020-11-27-ObjectiveSQL-稳定版本-1.4.0-发布了](https://www.v2ex.com/t/729993) 
 - [2020-11-27-mbp-外接显示器后怎么把笔记本屏幕上的桌面及打开的全屏程序全都移过去](https://www.v2ex.com/t/729992) 
@@ -42,6 +43,3 @@
 - [2020-11-27-微信官方防撤回版文字版](https://www.v2ex.com/t/729950) 
 - [2020-11-27-golang-怎么执行需要输入密码的-shell-命令](https://www.v2ex.com/t/729949) 
 - [2020-11-27-Python-Lambda-表达式匿名函数使用](https://www.v2ex.com/t/729948) 
-- [2020-11-27-各位升级到-macOS-Big-Sur-的大佬们，有没遇到这样的-BUG](https://www.v2ex.com/t/729947) 
-- [2020-11-27-为什么-paperspace-打开之后是一片黑，然后右下角是个帮助？](https://www.v2ex.com/t/729946) 
-- [2020-11-27-7500-元出售-2019-款-Macbook-Pro13-寸](https://www.v2ex.com/t/729945) 

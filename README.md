@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 17:23:14，:rocket: 更新条数: +796， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 17:32:46，:rocket: 更新条数: +796， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1034,6 +1034,7 @@
 </summary>
 
 
+- [2020-11-27-DIY-显示器](https://www.v2ex.com/t/730028) ![](assets/new.png)  
 - [2020-11-27-类似工资倒挂的情况，大家是怎么看待的？](https://www.v2ex.com/t/730027) ![](assets/new.png)  
 - [2020-11-27-OSS-对象存储的全球加速方案](https://www.v2ex.com/t/730026) ![](assets/new.png)  
 - [2020-11-27-快来-分享下黑五都准备买什么吧](https://www.v2ex.com/t/730024) ![](assets/new.png)  
@@ -1053,7 +1054,6 @@
 - [2020-11-27-有人用-Liveblog-这个插件吗？怎么在页面使用这个插件呢？](https://www.v2ex.com/t/730009) ![](assets/new.png)  
 - [2020-11-27-半路转计算机求指点，在此先谢谢前辈！](https://www.v2ex.com/t/730007) ![](assets/new.png)  
 - [2020-11-27-上海目前出去，有些地方会让进吗？](https://www.v2ex.com/t/730006) ![](assets/new.png)  
-- [2020-11-27-最近-infuse-的海报是不是很多电影都刷不出来了？](https://www.v2ex.com/t/730004) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

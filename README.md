@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 05:48:09，:rocket: 更新条数: +3897， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 06:04:44，:rocket: 更新条数: +3893， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-11-27-字节跳动北京-清北网校-服务端-内推-其他也可](https://www.v2ex.com/t/729853) ![](assets/new.png)  
+- [2020-11-27-移动宽带电驴怎么设置能上-high-ID?](https://www.v2ex.com/t/729849) ![](assets/new.png)  
 - [2020-11-27-pandas-如何给-excel-特定列添加一个筛选](https://www.v2ex.com/t/729847) ![](assets/new.png)  
 - [2020-11-27-iPhone-12-快充时，机器后背-Logo-处能听到明显电流声。](https://www.v2ex.com/t/729845) ![](assets/new.png)  
 - [2020-11-27-求购清理大师安卓代码](https://www.v2ex.com/t/729844) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-11-27-老哥们，现在直播带货靠谱吗](https://www.v2ex.com/t/729825) ![](assets/new.png)  
 - [2020-11-27-🔥🔥🔥-新加坡-Shopee-直招-Shopee-新加坡招募云原生平台开发工程师和专家，包含-Kubernetes、Nginx、-Linux-Kernel-等不同方向](https://www.v2ex.com/t/729821) ![](assets/new.png)  
 - [2020-11-27-🔥-新加坡-Shopee-直招-Shopee-新加坡招后端开发工程师，包含-Kubernetes、SDN、服务网关等不同方向](https://www.v2ex.com/t/729820) ![](assets/new.png)  
-- [2020-11-27-Big-Sur-经常出现程序坞与菜单栏设置不起作用的情况](https://www.v2ex.com/t/729819) ![](assets/new.png)  
-- [2020-11-27-有多少人在国内“移民”](https://www.v2ex.com/t/729818) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,6 +1105,7 @@
 </summary>
 
 
+- [2020-11-27-2020双11养猫技术大揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14002&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778793%3Futm_content%3Dg_1000210967%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-27-以-Kubernetes-为代表的容器技术，已成为云计算的新界面-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14001&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778826%3Futm_content%3Dg_1000210966%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-27-2020双11，阿里巴巴集团数万数据库系统全面上云揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14000&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778711%3Futm_content%3Dg_1000210965%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-27-深度解读-MongoDB-最全面的增强版本-4.4-新特性-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13999&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778777%3Futm_content%3Dg_1000210314%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1124,7 +1125,6 @@
 - [2020-11-27-Flink-双流-Join-的3种操作示例-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13985&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778485%3Futm_content%3Dg_1000209000%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-27-快手基于-Apache-Flink-的优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13984&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778575%3Futm_content%3Dg_1000208999%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-27-菜鸟实时数仓2.0进阶之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13983&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778623%3Futm_content%3Dg_1000208998%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-27-几种性能测试工具的总结-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13982&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

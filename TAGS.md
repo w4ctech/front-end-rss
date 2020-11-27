@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-27 21:47:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 22:04:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -51,6 +51,7 @@
 - [【凹凸实验室】轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/)
 - [【凹凸实验室】feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/)
 - [【凹凸实验室】使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/)
+- [【开发者头条】探索-React-合成事件](https://toutiao.io/k/nm20ze4)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -67,6 +68,16 @@
 
 
 
+- [【前端圈】视频蒋豪群聊聊Vue-3-周边项目](https://www.ershicimi.com/p/2a12d97dd7bb04af90078ddf2b9f196d)
+- [【前端圈】Vue3三连发，这期聊聊Vue-3周边项目](https://www.ershicimi.com/p/97695ac09543799ef0ccda9e2479572e)
+- [【前端圈】视频Vue.js-3.0-什么时候可以投入生产使用](https://www.ershicimi.com/p/62da65e218585b265a4ddc89ca674b0b)
+- [【前端圈】尤雨溪约你聊聊Vue.js-3.0-Beta](https://www.ershicimi.com/p/6f88eda2cef2ca14858c173412919f36)
+- [【前端圈】视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0)
+- [【前端大学】他写出了Vue，却做不对这十道Vue笔试题](https://www.ershicimi.com/p/17b55cca545f476ed4af75dba25b2ba3)
+- [【前端大学】3天Vue实战，1比1还原抖音代码！](https://www.ershicimi.com/p/7e53741c11fb744a6a77951a5a9151e0)
+- [【前端大学】搞懂-Vue-，这一篇文章就够了！](https://www.ershicimi.com/p/e91271124feaaf8608bdd76b7986dbb9)
+- [【前端大学】做了这个Vue3.0实战项目，大厂三面都过了，涨薪55%！（附项目全过程）](https://www.ershicimi.com/p/09476ef02dca5e14d229d67390122487)
+- [【前端大学】Vue-的使用，学会这些就够了！](https://www.ershicimi.com/p/4e574c60f59034658feed21166fd0ace)
 - [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
 - [【凹凸实验室】使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/)
 - [【凹凸实验室】Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/)
@@ -108,6 +119,7 @@
 
 
 
+- [【前端大学】Angular-11正式发布：加入webpack-5，升级至TS-4.0，不再支持IE-9-和10](https://www.ershicimi.com/p/f382c40434f5c7ec2b435aaf5dce5868)
 - [【凹凸实验室】Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/)
 - [【凹凸实验室】ELF---灵活可扩展的-HTML5-构建工具](https://aotu.io/notes/2017/01/17/elf/)
 - [【凹凸实验室】Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/)
@@ -115,6 +127,8 @@
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【V2EX】Mac-mini-M1-和-Macbook-Pro-152018-i7-寸前端-webpack-编译对比](https://www.v2ex.com/t/730029)
+- [【开发者头条】一文带你快速上手-Rollup](https://toutiao.io/k/34zgygy)
+- [【物联网智库】入选全球“50家聪明公司”，卡奥斯为世界构建了怎样的生态蓝图？](https://www.ershicimi.com/p/b52c48f8cb7ed31a0f4080e3bbe38773)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -139,6 +153,7 @@
 - [【凹凸实验室】Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/)
 - [【凹凸实验室】Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/)
 - [【凹凸实验室】【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
+- [【开发者头条】推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -155,6 +170,8 @@
 
 
 
+- [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
+- [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【凹凸实验室】京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/)
 - [【凹凸实验室】Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/)
 - [【凹凸实验室】京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/)
@@ -173,8 +190,6 @@
 - [【凹凸实验室】Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/)
 - [【凹凸实验室】小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/)
 - [【凹凸实验室】决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/)
-- [【凹凸实验室】Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)
-- [【凹凸实验室】Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -246,26 +261,26 @@
 
 
 
-- [【张鑫旭-鑫空间-鑫生活】ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/)
-- [【京东设计中心】HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)
-- [【凹凸实验室】EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/)
-- [【凹凸实验室】移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/)
-- [【凹凸实验室】前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/)
-- [【凹凸实验室】单屏页面响应式适配玩法](https://aotu.io/notes/2018/10/22/Responsive-single-screen-design/)
-- [【凹凸实验室】网页适配-iPhoneX，就是这么简单](https://aotu.io/notes/2017/11/27/iphonex/)
-- [【凹凸实验室】H5动画：轨迹移动](https://aotu.io/notes/2017/11/06/path-animation/)
-- [【凹凸实验室】js创建一条通用链表](https://aotu.io/notes/2017/10/13/make-a-chain-class/)
-- [【凹凸实验室】实现-setTimeout-&-setInterval-暂停的方案](https://aotu.io/notes/2017/09/25/manage-setTimeout-an-setInterval/)
-- [【凹凸实验室】AT---前端-UI-组件库](https://aotu.io/notes/2017/08/28/at-ui/)
-- [【凹凸实验室】利用视口单位实现适配布局](https://aotu.io/notes/2017/04/28/2017-4-28-CSS-viewport-units/)
-- [【凹凸实验室】了解-Fetch-API](https://aotu.io/notes/2017/04/10/fetch-API/)
-- [【凹凸实验室】视频H5のVideo标签在微信里的坑和技巧](https://aotu.io/notes/2017/01/11/mobile-video/)
-- [【凹凸实验室】正则表达式实践篇](https://aotu.io/notes/2016/12/07/regexp-practice/)
-- [【凹凸实验室】正则表达式理论篇](https://aotu.io/notes/2016/11/17/regexp-theory/)
-- [【凹凸实验室】Javascript-中的装饰器](https://aotu.io/notes/2016/10/24/decorator/)
-- [【凹凸实验室】H5直播起航](https://aotu.io/notes/2016/10/09/HTML5-SopCast/)
-- [【凹凸实验室】写给新人的call、apply、bind](https://aotu.io/notes/2016/09/02/Different-Binding/)
-- [【凹凸实验室】SeaJS从入门到原理](https://aotu.io/notes/2016/08/29/SeaJs-From-Entry-To-The-Principle/)
+- [【武汉肺炎防疫全纪录(财新网)】香港新冠超级传播事件启示：19%病例或成防疫关键](https://m.caixin.com/m/2020-09-22/101608361.html)
+- [【武汉肺炎防疫全纪录(财新网)】【图集】韩国首尔南大门市场现新冠聚集性感染事件](http://m.photos.caixin.com/m/2020-08-11/101591137.html)
+- [【武汉肺炎防疫全纪录(财新网)】北京东城警方通报“武汉刑满释放人员黄某英进京事件”](http://m.china.caixin.com/m/2020-03-22/101532374.html)
+- [【武汉肺炎防疫全纪录(财新网)】研究：酶切位点插入事件非独有-新冠病毒源于自然重组](http://m.science.caixin.com/m/2020-03-10/101526576.html)
+- [【武汉肺炎防疫全纪录(财新网)】山东任城监狱疫情事件调查结果公布-12人被查最高正厅](http://m.china.caixin.com/m/2020-03-04/101524053.html)
+- [【武汉肺炎防疫全纪录(财新网)】刑满释放者自汉返京确诊事件续：湖北司法厅长等16人受处分](http://m.china.caixin.com/m/2020-03-02/101523043.html)
+- [【武汉肺炎防疫全纪录(财新网)】联合调查组公布黄某英离汉进京事件调查结果](http://m.china.caixin.com/m/2020-03-02/101522853.html)
+- [【武汉肺炎防疫全纪录(财新网)】【聚焦】世卫组织评估和应对“国际关注的突发公共卫生事件”的相关要求](http://m.opinion.caixin.com/m/2020-01-31/101509667.html)
+- [【武汉肺炎防疫全纪录(财新网)】WHO总干事宣布新冠疫情为国际公卫突发事件的讲话（全文）](http://m.china.caixin.com/m/2020-01-31/101509662.html)
+- [【武汉肺炎防疫全纪录(财新网)】世卫宣布新冠疫情为国际突发公卫事件-不主张对贸易和旅行设限](http://m.international.caixin.com/m/2020-01-31/101509655.html)
+- [【武汉肺炎防疫全纪录(财新网)】WHO将再次讨论新冠疫情是否构成国际突发公卫事件](http://m.international.caixin.com/m/2020-01-30/101509445.html)
+- [【武汉肺炎防疫全纪录(财新网)】中国内地31省份全部启动突发公共卫生事件一级响应](http://m.china.caixin.com/m/2020-01-29/101509411.html)
+- [【武汉肺炎防疫全纪录(财新网)】全国30省份启动重大突发公共卫生事件一级响应](http://m.china.caixin.com/m/2020-01-25/101508214.html)
+- [【武汉肺炎防疫全纪录(财新网)】WHO决定不将新冠肺炎疫情定性为国际突发公共卫生事件](http://m.international.caixin.com/m/2020-01-24/101507977.html)
+- [【武汉肺炎防疫全纪录(财新网)】上海启动重大突发公共卫生事件一级响应机制](http://m.china.caixin.com/m/2020-01-24/101508100.html)
+- [【武汉肺炎防疫全纪录(财新网)】湖北启动重大突发公共卫生事件Ⅰ级响应](http://m.china.caixin.com/m/2020-01-24/101508062.html)
+- [【武汉肺炎防疫全纪录(财新网)】京沪等14省市启动重大突发公共卫生事件一级响应](http://m.china.caixin.com/m/2020-01-24/101507984.html)
+- [【武汉肺炎防疫全纪录(财新网)】世卫组织：对是否宣布为“国际公共卫生紧急事件”存在分歧](https://m.caixin.com/m/2020-01-23/101507521.html)
+- [【武汉肺炎防疫全纪录(财新网)】如何解读WHO“国际公共卫生紧急事件”](http://m.china.caixin.com/m/2020-01-22/101507340.html)
+- [【武汉肺炎防疫全纪录(财新网)】民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -282,6 +297,7 @@
 
 
 
+- [【前端圈】视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0)
 - [【张鑫旭-鑫空间-鑫生活】低成本深色模式CSS实现技术探索与拓展](https://www.zhangxinxu.com/wordpress/2020/11/css-mix-blend-mode-filter-dark-theme/)
 - [【张鑫旭-鑫空间-鑫生活】HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/)
 - [【张鑫旭-鑫空间-鑫生活】图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/)
@@ -301,7 +317,6 @@
 - [【凹凸实验室】border-image-的正确用法](https://aotu.io/notes/2016/11/02/border-image/)
 - [【凹凸实验室】CSS3-Mask-安利报告](https://aotu.io/notes/2016/10/19/css3-mask/)
 - [【凹凸实验室】CSS-3D-Panorama---淘宝造物节技术剖析](https://aotu.io/notes/2016/08/24/2016-8-24-css-3d-panorama/)
-- [【凹凸实验室】CSS3动画之逐帧动画](https://aotu.io/notes/2016/05/17/css3-animation-frame/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -350,13 +365,26 @@
 
 
 
-- [【凹凸实验室】羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/)
-- [【凹凸实验室】直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/)
-- [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
-- [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
-- [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
-- [【V2EX】cdn-上的视频文件播放到某个时间点就会卡住](https://www.v2ex.com/t/730020)
-- [【安全热点】小伙子不讲武德,竟用Python爬取了B站上1.4w条马老师视频数据来分析](https://sec.thief.one/article_content?a_id=a789b822ce86326a07bca11396a9857e)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】直击北京核酸检测现场-市民排长队连夜检测](http://m.video.caixin.com/m/2020-06-18/101569116.html)
+- [【武汉肺炎防疫全纪录(财新网)】世卫大会将审议应对新冠疫情决议-习近平视频致辞](http://m.international.caixin.com/m/2020-05-18/101555320.html)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】清明节10点的武汉](http://m.video.caixin.com/m/2020-04-04/101538967.html)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】记者萧辉：坚持送医院订单的外卖“跑单王”](http://m.video.caixin.com/m/2020-03-24/101533386.html)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】记者萧辉：新冠孕妇生产记](http://m.video.caixin.com/m/2020-03-24/101533377.html)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】记者萧辉：为使病人尽快分流，科学家主动逆行入汉](http://m.video.caixin.com/m/2020-03-24/101533375.html)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】一个意大利留学生回国后的隔离日记](http://m.video.caixin.com/m/2020-03-19/101530910.html)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】中国疾控中心专家：-输入性病例不会造成大流行](http://m.video.caixin.com/m/2020-03-18/101530134.html)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】首都机场加强入境人员管理-新国展成繁忙集散地](http://m.video.caixin.com/m/2020-03-16/101528982.html)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】记者萧辉：方舱医院是他最后的庇护所](http://m.video.caixin.com/m/2020-03-13/101528103.html)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】记者萧辉：为了不出院，他逃了一次核酸检测](http://m.video.caixin.com/m/2020-03-13/101528097.html)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】记者萧辉：护士的一份热饭让他不再恐惧](http://m.video.caixin.com/m/2020-03-13/101528093.html)
+- [【武汉肺炎防疫全纪录(财新网)】习近平去了武汉！（附视频）](http://m.china.caixin.com/m/2020-03-10/101526295.html)
+- [【武汉肺炎防疫全纪录(财新网)】【音频】疫情前线日志｜我眼中的方舱：爱与痛的交织](http://fm.caixin.com/m/2020-03-10/101526458.html)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】“冤枉蝙蝠了！”政协委员谈如何科学合理保护和利用野生动物](http://m.video.caixin.com/m/2020-03-10/101526195.html)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】呼吸危重症专家：新增血清学检测为病情诊断上双保险](http://m.video.caixin.com/m/2020-03-05/101524318.html)
+- [【武汉肺炎防疫全纪录(财新网)】【音频】疫情前线日志｜在武汉拍摄最难忘的三个画面](http://fm.caixin.com/m/2020-03-04/101524009.html)
+- [【武汉肺炎防疫全纪录(财新网)】【音频】财新FM音频故事|帮助149位在武汉的孕产妈妈](http://fm.caixin.com/m/2020-03-03/101523573.html)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】北京朝阳医院副院长：病人出院复阳不等于复发](http://m.video.caixin.com/m/2020-02-29/101521951.html)
+- [【武汉肺炎防疫全纪录(财新网)】【视频】委员讲堂：众志成城-同心战‘疫’”](http://m.video.caixin.com/m/2020-02-28/101521543.html)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -373,6 +401,8 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html)
+- [【前端大学】图片懒加载从简单到复杂](https://www.ershicimi.com/p/5c1149cdd78fd700b22014239994a291)
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【凹凸实验室】大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)
@@ -382,6 +412,7 @@
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【开发者头条】推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -398,26 +429,26 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月24日：疫情威胁全球粮食安全-美国新增病例增势趋缓](https://m.caixin.com/m/2020-08-25/101596567.html)
+- [【武汉肺炎防疫全纪录(财新网)】非洲新冠疫情叠加蝗灾-2000万人面临粮食安全威胁](http://m.science.caixin.com/m/2020-04-22/101545698.html)
+- [【武汉肺炎防疫全纪录(财新网)】科技部：疫苗研发加快推进-确保安全性](http://m.china.caixin.com/m/2020-04-14/101542545.html)
+- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月12日：复学加快步伐，如何保障师生安全？](http://m.china.caixin.com/m/2020-04-13/101541775.html)
+- [【武汉肺炎防疫全纪录(财新网)】崔天凯：只要有一国还有疫情，就没有人是安全的](http://m.international.caixin.com/m/2020-04-12/101541606.html)
+- [【武汉肺炎防疫全纪录(财新网)】非洲确诊病例破万-粮食安全风险高企](http://m.international.caixin.com/m/2020-04-09/101540248.html)
+- [【武汉肺炎防疫全纪录(财新网)】大流行手记|4月7日：口罩被截胡？-柏林请求军方“押镖”](https://m.caixin.com/m/2020-04-07/101539735.html)
+- [【武汉肺炎防疫全纪录(财新网)】纽约市近半确诊者未满45岁-特朗普明确“先安全后经济”](http://m.international.caixin.com/m/2020-03-28/101535354.html)
+- [【武汉肺炎防疫全纪录(财新网)】泰国暂停鸡蛋出口-疫情当下粮食安全受关注](http://m.china.caixin.com/m/2020-03-27/101535032.html)
+- [【武汉肺炎防疫全纪录(财新网)】美新冠死亡病例破千-美专家呼吁取消对华关税保障医护安全](http://m.international.caixin.com/m/2020-03-26/101534192.html)
+- [【武汉肺炎防疫全纪录(财新网)】中英领导人通话-约翰逊称尽力照顾留学生等中国公民的健康安全](http://m.international.caixin.com/m/2020-03-24/101532958.html)
+- [【武汉肺炎防疫全纪录(财新网)】湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html)
+- [【武汉肺炎防疫全纪录(财新网)】马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html)
+- [【武汉肺炎防疫全纪录(财新网)】赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html)
+- [【前端大学】从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/d8b9d174792325554ecd3a796b69de29)
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【凹凸实验室】Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)
 - [【凹凸实验室】URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/)
 - [【凹凸实验室】移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/)
 - [【凹凸实验室】HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/)
-- [【凹凸实验室】手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/)
-- [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
-- [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
-- [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
-- [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】你最想推荐的浏览器（Chromium-based）扩展是什么？](https://www.v2ex.com/t/730033)
-- [【安全热点】福利-|-安全时刻,感恩遇见](https://sec.thief.one/article_content?a_id=26253876b7c39f0ba7f84c95c7aebd9d)
-- [【安全热点】用无人机保卫5G网络安全](https://sec.thief.one/article_content?a_id=447b74e6a98bb77f3bf7919aa7bdfbe5)
-- [【安全热点】新冠疫情是如何改变传统的云安全防护策略](https://sec.thief.one/article_content?a_id=889bb860a1792899ba6be1cc335489bb)
-- [【安全热点】《工业互联网安全架构白皮书》全文](https://sec.thief.one/article_content?a_id=70300ea982d0dc617e925a662db052bd)
-- [【安全热点】京麒大会倒计时8天!安全大咖邀您共赴数智化新征程!](https://sec.thief.one/article_content?a_id=a165cb2c7481742f330be0dbe2f3d3a5)
-- [【安全热点】优秀安全负责人的方法论大揭秘-|-INSEC-WORLD-CSO论坛](https://sec.thief.one/article_content?a_id=b0540d666964a041b5b0240462624d22)
-- [【安全热点】CAN总线丨网络安全分析与防御措施](https://sec.thief.one/article_content?a_id=e8d429de2641181168de78f71c6c2000)
-- [【安全热点】网安新讯-|-央行金融业等保增强标准、密码新国标、网约车数据安全指...](https://sec.thief.one/article_content?a_id=996d01999a2e94f7ab5abb772ec56a38)
-- [【安全热点】漏洞银行获“第三届进博会”网络安全保障工作致谢函](https://sec.thief.one/article_content?a_id=572e57d1a4d0197f57224b6ea86fb030)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -434,6 +465,7 @@
 
 
 
+- [【前端大学】AST-实现函数错误自动上报](https://www.ershicimi.com/p/e9402aca3549ada55b9eeb135bfda497)
 - [【凹凸实验室】波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/)
 - [【凹凸实验室】GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/)
 - [【凹凸实验室】vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/)
@@ -442,6 +474,8 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【V2EX】滴滴出行-北京、杭州、成都内推-iOS/Android/前端/-Java-/算法/-PHP-/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/730019)
+- [【开发者头条】ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x)
+- [【开发者头条】重构实践：基于腾讯云-Elasticsearch-搭建-QQ-邮箱全文检索](https://toutiao.io/k/x57lwvc)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -460,6 +494,7 @@
 
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【开发者头条】推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -479,6 +514,7 @@
 - [【凹凸实验室】规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+- [【开发者头条】推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -495,7 +531,9 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
 - [【V2EX】网易内推，-现在面试可年后入职，抓紧上车~~](https://www.v2ex.com/t/730016)
+- [【开发者头条】面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s)
 - [【安全热点】国家计算机网络应急技术处理协调中心省级分中心2021年度公开招聘公...](https://sec.thief.one/article_content?a_id=8d73e92ffa26290e158748e3247ea791)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -529,6 +567,26 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】研究：新冠肺炎或易诱发精神疾病-反之亦然](https://m.caixin.com/m/2020-11-18/101629716.html)
+- [【武汉肺炎防疫全纪录(财新网)】【图集】安徽阜阳颍上县确诊1例上海关联新冠肺炎病例](http://m.photos.caixin.com/m/2020-11-11/101625941.html)
+- [【武汉肺炎防疫全纪录(财新网)】天津新增1例本地新冠肺炎确诊病例-系此前核酸检测阳性装卸工人](https://m.caixin.com/m/2020-11-08/101624438.html)
+- [【武汉肺炎防疫全纪录(财新网)】青岛2名装卸工人感染新冠肺炎-属无症状感染者](http://m.china.caixin.com/m/2020-09-25/101609353.html)
+- [【武汉肺炎防疫全纪录(财新网)】全国抗击新冠肺炎疫情表彰大会举行-习近平颁授勋章奖章并讲话](http://m.china.caixin.com/m/2020-09-08/101602614.html)
+- [【武汉肺炎防疫全纪录(财新网)】新型冠状病毒肺炎大事记（2020年9月1日—今）](https://m.caixin.com/m/2020-09-01/101609024.html)
+- [【武汉肺炎防疫全纪录(财新网)】广东陆丰发现1例新冠肺炎确诊病例，为深圳超市员工](https://m.caixin.com/m/2020-08-14/101592985.html)
+- [【武汉肺炎防疫全纪录(财新网)】【图集】香港一学校学生确诊新冠肺炎-清洁人员进行消毒](http://m.photos.caixin.com/m/2020-07-08/101576879.html)
+- [【武汉肺炎防疫全纪录(财新网)】新冠肺炎疫情低风险地区防护指南修订公布](https://m.caixin.com/m/2020-06-18/101569233.html)
+- [【武汉肺炎防疫全纪录(财新网)】北京西城区新增1例新冠肺炎确诊病例](http://m.china.caixin.com/m/2020-06-11/101565962.html)
+- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月26日：武汉患者清零，如何理解“常阳”？](http://m.china.caixin.com/m/2020-04-27/101547425.html)
+- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月25日：最后一批援鄂重症专家开启归程](http://m.china.caixin.com/m/2020-04-26/101547224.html)
+- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月24日：中国新冠疫苗研发加速推进](http://m.china.caixin.com/m/2020-04-25/101546995.html)
+- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月23日:黑龙江和广东本土病例再增](http://m.china.caixin.com/m/2020-04-24/101546432.html)
+- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月22日：防疫常态化，将大规模检测核酸和抗体](http://m.china.caixin.com/m/2020-04-23/101546002.html)
+- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月21日：3500万学生复学-多地师生“应检尽检”](http://m.china.caixin.com/m/2020-04-22/101545525.html)
+- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月20日：朝阳区群众出京或受限](http://m.china.caixin.com/m/2020-04-21/101545069.html)
+- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月19日：核酸检测，哪些人“愿检尽检”？](http://m.china.caixin.com/m/2020-04-20/101544626.html)
+- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|-4月17日：订正后武汉粗病亡率升至7.6%](http://m.china.caixin.com/m/2020-04-18/101544179.html)
+- [【武汉肺炎防疫全纪录(财新网)】武汉订正新冠肺炎确诊数据：死亡病例核增1290例累计死亡3869例（附答记者问）](http://m.china.caixin.com/m/2020-04-17/101543724.html)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -543,26 +601,26 @@
 
 
 
-- [【张鑫旭-鑫空间-鑫生活】突发奇想，同步单复选框checked态岂不点击通杀？](https://www.zhangxinxu.com/wordpress/2020/11/label-sync-radio-checkbox-checked/)
-- [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
-- [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
-- [【阮一峰的网络日志】科技爱好者周刊（第-135-期）：什么行业适合创业？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-135.html)
-- [【阮一峰的网络日志】科技爱好者周刊（第-133-期）：贵州变瑞士，有没有可能？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html)
-- [【京东设计中心】NutUI-CLI源码解析](https://jdc.jd.com/archives/213013)
-- [【京东设计中心】NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007)
-- [【京东设计中心】用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987)
-- [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
-- [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
-- [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
-- [【凹凸实验室】MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/)
-- [【凹凸实验室】硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/)
-- [【凹凸实验室】三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/)
-- [【凹凸实验室】Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/)
-- [【凹凸实验室】如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/)
-- [【凹凸实验室】618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/)
-- [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
-- [【凹凸实验室】从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/)
-- [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
+- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊86495例-境外输入新增5例](http://m.china.caixin.com/m/2020-11-27/101633263.html)
+- [【武汉肺炎防疫全纪录(财新网)】钟南山：应研发多种类型疫苗，哪一种最好现在还不知道](https://m.caixin.com/m/2020-11-27/101633147.html)
+- [【武汉肺炎防疫全纪录(财新网)】独家|专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html)
+- [【武汉肺炎防疫全纪录(财新网)】聚焦|张文宏：控制经物流的海外输入性疫情](http://m.opinion.caixin.com/m/2020-11-27/101632910.html)
+- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超6088万-累计死亡超142万](http://m.international.caixin.com/m/2020-11-27/101633256.html)
+- [【武汉肺炎防疫全纪录(财新网)】钟南山建议香港再次推行全民检测](https://m.caixin.com/m/2020-11-27/101633024.html)
+- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增5例境外输入病例（11月26日）](http://m.database.caixin.com/m/2020-11-27/101633045.html)
+- [【武汉肺炎防疫全纪录(财新网)】大流行手记|11月26日：欧美节假季疫情恐加剧-全球性别平等受损](https://m.caixin.com/m/2020-11-27/101632915.html)
+- [【武汉肺炎防疫全纪录(财新网)】满洲里共确诊11例新冠-现家庭、学校、小区聚集特征](https://m.caixin.com/m/2020-11-26/101632824.html)
+- [【武汉肺炎防疫全纪录(财新网)】内蒙古新增本土确诊病例9例-均在满洲里](http://m.china.caixin.com/m/2020-11-26/101632701.html)
+- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】内蒙古新增9例本土确诊病例（11月25日）](http://m.database.caixin.com/m/2020-11-26/101632600.html)
+- [【武汉肺炎防疫全纪录(财新网)】大流行手记|11月25日：英入境隔离期将缩至5天-美测试疫苗分发网络](https://m.caixin.com/m/2020-11-26/101632481.html)
+- [【武汉肺炎防疫全纪录(财新网)】来华航班近两百份核酸报告雷同-使馆要求俄航司重检](http://m.companies.caixin.com/m/2020-11-26/101632663.html)
+- [【武汉肺炎防疫全纪录(财新网)】天津两起疫情有不同源头-其中之一为进口猪头](https://m.caixin.com/m/2020-11-25/101632216.html)
+- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】内蒙古新增1例本土疑似病例（11月24日）](http://m.database.caixin.com/m/2020-11-25/101632194.html)
+- [【武汉肺炎防疫全纪录(财新网)】大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html)
+- [【武汉肺炎防疫全纪录(财新网)】新冠疫情传播“物染人”和“人染人”并存-非冷链运输也有传播风险](https://m.caixin.com/m/2020-11-25/101632416.html)
+- [【武汉肺炎防疫全纪录(财新网)】江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html)
+- [【武汉肺炎防疫全纪录(财新网)】香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html)
+- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

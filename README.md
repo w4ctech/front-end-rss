@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 07:33:30，:rocket: 更新条数: +3896， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 07:47:55，:rocket: 更新条数: +3899， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,12 +66,13 @@
 
 
 - [2020-11-27-11月26日全国新增确诊病例5例-均为境外输入](https://m.caixin.com/m/2020-11-27/101632901.html) ![](assets/new.png)  
+- [2020-11-27-专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html) ![](assets/new.png)  
 - [2020-11-27-钟南山建议香港再次推行全民检测](https://m.caixin.com/m/2020-11-27/101633024.html) ![](assets/new.png)  
 - [2020-11-27-聚焦|张文宏：控制经物流的海外输入性疫情](http://m.opinion.caixin.com/m/2020-11-27/101632910.html) ![](assets/new.png)  
 - [2020-11-27-【境内疫情观察】全国新增5例境外输入病例（11月26日）](http://m.database.caixin.com/m/2020-11-27/101633045.html) ![](assets/new.png)  
 - [2020-11-27-大流行手记|11月26日：欧美节假季疫情恐加剧-全球性别平等受损](https://m.caixin.com/m/2020-11-27/101632915.html) ![](assets/new.png)  
-- [2020-11-26-满洲里共确诊11例新冠-现家庭、学校、小区聚集特征](https://m.caixin.com/m/2020-11-26/101632824.html) ![](assets/new.png)  
 - [2020-11-26-最新海外疫情：新冠感染近6030万-累计死亡超141万](http://m.international.caixin.com/m/2020-11-26/101632817.html) ![](assets/new.png)  
+- [2020-11-26-满洲里共确诊11例新冠-现家庭、学校、小区聚集特征](https://m.caixin.com/m/2020-11-26/101632824.html) ![](assets/new.png)  
 - [2020-11-26-内蒙古新增本土确诊病例9例-均在满洲里](http://m.china.caixin.com/m/2020-11-26/101632701.html) ![](assets/new.png)  
 - [2020-11-26-【境内疫情观察】内蒙古新增9例本土确诊病例（11月25日）](http://m.database.caixin.com/m/2020-11-26/101632600.html) ![](assets/new.png)  
 - [2020-11-26-大流行手记|11月25日：英入境隔离期将缩至5天-美测试疫苗分发网络](https://m.caixin.com/m/2020-11-26/101632481.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2020-11-24-香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html) ![](assets/new.png)  
 - [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
 - [2020-11-24-大流行手记|11月23日：Moderna新冠疫苗每剂可低于25美元-澳大利亚疫情缓解](https://m.caixin.com/m/2020-11-24/101631634.html) ![](assets/new.png)  
-- [2020-11-23-上海浦东机场又增1例确诊-疫情溯源指向一航空集装器](https://m.caixin.com/m/2020-11-23/101631374.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,12 @@
 </summary>
 
 
+- [2020-11-27-一个绝对安全的账户密码管家小程序](https://www.v2ex.com/t/729899) ![](assets/new.png)  
+- [2020-11-27-（pulumi+ansible+elixir/phoniex+postgres+aws）使用-IaC-一键创建-AWS-服务器配置并发布上线](https://www.v2ex.com/t/729898) ![](assets/new.png)  
+- [2020-11-27-请问-Chrome-有类似-Firefox-这种给收藏的网址自定义关键词的插件吗？](https://www.v2ex.com/t/729897) ![](assets/new.png)  
+- [2020-11-27-三七互娱内推-社招-中/高-Java-服务端-15-25K-15-薪-苏州、广州](https://www.v2ex.com/t/729896) ![](assets/new.png)  
+- [2020-11-27-vue-filters-的意义是什么？](https://www.v2ex.com/t/729895) ![](assets/new.png)  
+- [2020-11-27-美区-apples-tore-app-例行维护还是？](https://www.v2ex.com/t/729894) ![](assets/new.png)  
 - [2020-11-27-广告算法工程师-深圳-VIVO（30-60K）HC-3-人](https://www.v2ex.com/t/729892) ![](assets/new.png)  
 - [2020-11-27-有没有不是基于-spring-cloud-Java-这套技术栈的关于微服务的教程...](https://www.v2ex.com/t/729891) ![](assets/new.png)  
 - [2020-11-27-大家怎么看出道较早的-BiliBili-功成名就，而同样搬运番剧的后来者-DiliDili-身败名裂，赔款-100-万？](https://www.v2ex.com/t/729889) ![](assets/new.png)  
@@ -1088,12 +1094,6 @@
 - [2020-11-27-北京-自如-相寓长租公寓房东注意了,别答应降租](https://www.v2ex.com/t/729880) ![](assets/new.png)  
 - [2020-11-27-B-站首页不再刷出马保国对-B-站有什么好处吗？](https://www.v2ex.com/t/729879) ![](assets/new.png)  
 - [2020-11-27-求大神支招-微信小程序翻书效果](https://www.v2ex.com/t/729878) ![](assets/new.png)  
-- [2020-11-27-Python-引用私有模块的问题](https://www.v2ex.com/t/729875) ![](assets/new.png)  
-- [2020-11-27-用威联通的-2.5Ge-双网口虚拟化的-LEDE-软路由，两个网口都是-1Gbps-的-咋破？](https://www.v2ex.com/t/729873) ![](assets/new.png)  
-- [2020-11-27-最近感冒病毒太凶了](https://www.v2ex.com/t/729872) ![](assets/new.png)  
-- [2020-11-27-想系统学下-mac-开发，有新点的-Swift-开发-mac-应用的教程吗？](https://www.v2ex.com/t/729871) ![](assets/new.png)  
-- [2020-11-27-坐标西安，想吐槽一番我司经理](https://www.v2ex.com/t/729870) ![](assets/new.png)  
-- [2020-11-27-懂区块链技术的大佬们指导一下](https://www.v2ex.com/t/729869) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

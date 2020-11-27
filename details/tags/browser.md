@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 10:09:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 10:26:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -48,8 +48,8 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-27-x-浏览器默认拦截广告本身就是违法违规，不正当竞争。没有什么好洗的。什么菜刀不菜刀](https://www.v2ex.com/t/729931) 
 - [2020-11-27-为什么前端请求-Https-不用安装证书，服务器请求-Https-要内嵌证书呢](https://www.v2ex.com/t/729921) 
-- [2020-11-27-就想问问多少人知道-PostgreSQL-？](https://www.v2ex.com/t/729909) 
 - [2020-11-27-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
+- [2020-11-27-福利-|-安全时刻,感恩遇见](https://sec.thief.one/article_content?a_id=26253876b7c39f0ba7f84c95c7aebd9d) 
 - [2020-11-27-用无人机保卫5G网络安全](https://sec.thief.one/article_content?a_id=447b74e6a98bb77f3bf7919aa7bdfbe5) 
 - [2020-11-27-新冠疫情是如何改变传统的云安全防护策略](https://sec.thief.one/article_content?a_id=889bb860a1792899ba6be1cc335489bb) 
 - [2020-11-27-《工业互联网安全架构白皮书》全文](https://sec.thief.one/article_content?a_id=70300ea982d0dc617e925a662db052bd) 
@@ -66,7 +66,3 @@
 - [2020-11-25-《个人信息安全影响评估指南》GB/T-39335-2020正式发布](https://sec.thief.one/article_content?a_id=bf74e475019b148a5f0b8a65938cf7e0) 
 - [2020-11-25-孟买疑遭APT攻击致大规模停电:APT威胁日趋加重下如何布防安全](https://sec.thief.one/article_content?a_id=9477b130acbe8712ca2d12454aceb737) 
 - [2020-11-25-博智安全完成3.7亿人民币新一轮融资](https://sec.thief.one/article_content?a_id=7e2bfc1a1f0c80ae15045615eb58e0ab) 
-- [2020-11-25-物联网安全:RFID的安全机制](https://sec.thief.one/article_content?a_id=1af6922c076d27722a8ece7c89c544e0) 
-- [2020-11-24-防火墙暗藏邪恶“寄生兽”,360安全大脑直捣远控木马真凶](https://sec.thief.one/article_content?a_id=7771ffb6095b59b99961d1d3cb69c28e) 
-- [2020-11-24-【安全圈】Messenger致命漏洞!黑客可窃听通话](https://sec.thief.one/article_content?a_id=51d9f1f7b7229ffe45404c6576a0136f) 
-- [2020-11-24-深圳网络安全大会即将召开,发布五大亮点海报](https://sec.thief.one/article_content?a_id=f038ac325fa22d579edc69a99e578004) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 10:09:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 10:26:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -45,4 +45,5 @@
 - [2016-11-10-WeUI-for-小程序---为微信小程序量身设计](https://aotu.io/notes/2016/11/10/weui-wxss/) 
 - [2020-11-26-同样的能力，为什么开发小程序要比App简单100倍？](https://www.ershicimi.com/p/3a245b0a234a8299dc96a16b5e90824c) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
+- [2020-11-27-第一个小程序《练打字》](https://www.v2ex.com/t/729955) 
 - [2020-11-25-小程序开发中的一些总结](https://sec.thief.one/article_content?a_id=5348cf0e5328efc91a9a9ea874b99681) 

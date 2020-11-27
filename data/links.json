@@ -18695,6 +18695,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "硕士导师应该选 PUSH 还是放养型的",
+        "link": "https://www.v2ex.com/t/729959",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "读多插入少的 unordered_map, 有办法实现读取时无锁吗? 只涉及增和查, 不涉及删和改. 并且 map 中如果存某 key, 就不重新插入该 key",
+        "link": "https://www.v2ex.com/t/729958",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "k8s & kong 里怎么方便添加一个 path 用于返回字符串？",
+        "link": "https://www.v2ex.com/t/729957",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "请问 有什么提升视频画质的软件",
+        "link": "https://www.v2ex.com/t/729956",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "第一个小程序《练打字》",
+        "link": "https://www.v2ex.com/t/729955",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "从零开始的 RPG 游戏制作教程（第二期）",
+        "link": "https://www.v2ex.com/t/729954",
+        "date": "2020-11-27"
+      },
+      {
         "title": "打算求婚，准备买个钻戒，预算 1.3w 左右，对钻石一窍不通，来点经验。",
         "link": "https://www.v2ex.com/t/729952",
         "date": "2020-11-27"
@@ -18857,26 +18887,6 @@
       {
         "title": "PHP 数据追加数据后的长度问题",
         "link": "https://www.v2ex.com/t/729910",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "就想问问多少人知道 PostgreSQL ？",
-        "link": "https://www.v2ex.com/t/729909",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "请问 screen 如何进入回滚模式 , Ctrl-a [ 或者 Ctrl-a ESC 在 ubuntu 16 下都不管用",
-        "link": "https://www.v2ex.com/t/729908",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[长沙] 高薪招聘后端开发工程师，欢迎一线大牛回乡",
-        "link": "https://www.v2ex.com/t/729907",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "手机号不知什么原因被封了不能绑定会影响什么，邮件不回。",
-        "link": "https://www.v2ex.com/t/729905",
         "date": "2020-11-27"
       }
     ]
@@ -19059,13 +19069,13 @@
         "date": "2020-11-27"
       },
       {
-        "title": "LVS + Iptables 实现 FULLNAT 及原理分析",
-        "link": "https://toutiao.io/k/l50huqe",
+        "title": "系统设计那些事儿：硬盘 I/O",
+        "link": "https://toutiao.io/k/3t02jng",
         "date": "2020-11-27"
       },
       {
-        "title": "系统设计那些事儿：硬盘 I/O",
-        "link": "https://toutiao.io/k/3t02jng",
+        "title": "LVS + Iptables 实现 FULLNAT 及原理分析",
+        "link": "https://toutiao.io/k/l50huqe",
         "date": "2020-11-27"
       },
       {
@@ -19094,13 +19104,8 @@
         "date": "2020-11-27"
       },
       {
-        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
-        "link": "https://toutiao.io/k/5shq47n",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
         "date": "2020-11-27"
       },
       {
@@ -19109,28 +19114,8 @@
         "date": "2020-11-27"
       },
       {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
         "date": "2020-11-27"
       },
       {
@@ -19144,8 +19129,13 @@
         "date": "2020-11-27"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-11-27"
       },
       {
@@ -19156,6 +19146,26 @@
       {
         "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
         "link": "https://toutiao.io/k/17q9ijl",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
         "date": "2020-11-27"
       },
       {
@@ -19170,6 +19180,81 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "IOT漏洞研究:Web服务",
+        "link": "https://sec.thief.one/article_content?a_id=1fb5abc39fca164ecce77f4bab8ce6cd",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "360空间测绘系统v4.2功能更新",
+        "link": "https://sec.thief.one/article_content?a_id=e4745212a316b1e5f0fd38eeb6d15cb7",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "福利 | 安全时刻,感恩遇见",
+        "link": "https://sec.thief.one/article_content?a_id=26253876b7c39f0ba7f84c95c7aebd9d",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "CVE-2020-14882​&14883:Weblogic RCE复现",
+        "link": "https://sec.thief.one/article_content?a_id=c0fa088badbe4ed4134c95a9bd5b3fba",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "面向DevSecOps的编码安全指南|JavaScript篇",
+        "link": "https://sec.thief.one/article_content?a_id=c6059403ab7af1b768dafe48ebf38627",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "「Dibrary 第二季 」——好书推荐 |DSRC 2019年度Top白帽-SAVIOUR",
+        "link": "https://sec.thief.one/article_content?a_id=6ddcfb4d596ca937e641b4fae21894e4",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "好书推荐 | CSRC READING PARTY",
+        "link": "https://sec.thief.one/article_content?a_id=c2ee56d313fc8d656655a0b3256e9d13",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "就因为被人脸识别拍了,买房多花了30万",
+        "link": "https://sec.thief.one/article_content?a_id=e2309ffc383bb4f7831470c69800bc64",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "“追梦火焰蓝”网络主题宣传活动圆满落幕",
+        "link": "https://sec.thief.one/article_content?a_id=604378e8e56ddb8f583081bde36b921c",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "比特币期货合约创新高,表明专业投资者依旧期待BTC到达两万美金",
+        "link": "https://sec.thief.one/article_content?a_id=754992f332894673da5a8c0b1e936ea3",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "CVE-2020-14645漏洞复现利用",
+        "link": "https://sec.thief.one/article_content?a_id=f3461c9673b9b1653fb01a04d71a70e4",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "内网渗透 | NPS内网穿透工具的使用",
+        "link": "https://sec.thief.one/article_content?a_id=fc3e18724c8066274d9522cfffd72c6f",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "【经典漏洞回顾】Microsoft Windows Win32k本地提权漏洞分析",
+        "link": "https://sec.thief.one/article_content?a_id=68c2cb4d0ecbe55e0807001eed227767",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "BloodHound 4.0 更新介绍",
+        "link": "https://sec.thief.one/article_content?a_id=4e8350a808775e1305da499d61816585",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "比特币跳水3000美元的3个原因,为什么它继续看涨?",
+        "link": "https://sec.thief.one/article_content?a_id=acf2acaa85c35506ef2b89b355d226a7",
+        "date": "2020-11-27"
+      },
       {
         "title": "Drupal core高危漏洞风险提示",
         "link": "https://sec.thief.one/article_content?a_id=ce16f046e1af7dc404d2db93a65fd6c2",
@@ -19594,81 +19679,6 @@
         "title": "2020年最常用密码TOP200出炉:毫无悬念第一名又是它!",
         "link": "https://sec.thief.one/article_content?a_id=43996a03e6006c2eb7e792bda81f825c",
         "date": "2020-11-25"
-      },
-      {
-        "title": "物联网安全:RFID的安全机制",
-        "link": "https://sec.thief.one/article_content?a_id=1af6922c076d27722a8ece7c89c544e0",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "苹果被曝重大系统漏洞:新款MacBook、iPhone 12、iPad Pro统统波...",
-        "link": "https://sec.thief.one/article_content?a_id=8e150dbac0aa963eab5f1fc55ee963b7",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "毕业最赚钱的岗位TOP1",
-        "link": "https://sec.thief.one/article_content?a_id=539b83cee1f13a9b747e4ccfba2504c6",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "微信第 1 行代码曝光!",
-        "link": "https://sec.thief.one/article_content?a_id=77208241e50b914ea6b18030d3f6385a",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "胚系突变丨将胚系突变检测整合到常规肿瘤基因检测和患者护理中是有...",
-        "link": "https://sec.thief.one/article_content?a_id=3ae2e31ae9299749a7bb50ae28d8da06",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "爬虫:使用 MySQL 维护 IP 代理池",
-        "link": "https://sec.thief.one/article_content?a_id=9efd4b0b6aa5cb18c798b22dd84ec74b",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "防火墙暗藏邪恶“寄生兽”,360安全大脑直捣远控木马真凶",
-        "link": "https://sec.thief.one/article_content?a_id=7771ffb6095b59b99961d1d3cb69c28e",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "【安全圈】Messenger致命漏洞!黑客可窃听通话",
-        "link": "https://sec.thief.one/article_content?a_id=51d9f1f7b7229ffe45404c6576a0136f",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "[密码学系列] 分组密码相关漏洞碎碎念",
-        "link": "https://sec.thief.one/article_content?a_id=795e23ecda53d6207cfbacb1bef4d854",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "世界互联网大会·互联网发展论坛落幕",
-        "link": "https://sec.thief.one/article_content?a_id=fb1981369569823b30f023e27c0c09e4",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "聚焦乌镇|齐向东:内生安全框架助力“一带一路”企业构建防御体系",
-        "link": "https://sec.thief.one/article_content?a_id=893aff54860fe3f4a8abc372d1664073",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "每日攻防资讯简报[Nov.24th]",
-        "link": "https://sec.thief.one/article_content?a_id=64579aa82bea3fcac6adb93aebc46f0e",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "卸载 Notepad++ !事实已证明,它更牛逼!!!",
-        "link": "https://sec.thief.one/article_content?a_id=8d1772100d515f4de834832dd7d71b5c",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "专治各种不明白,一文带你了解“对抗样本原理”",
-        "link": "https://sec.thief.one/article_content?a_id=e24f29e899205aa23258198d5f5be14e",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "深圳网络安全大会即将召开,发布五大亮点海报",
-        "link": "https://sec.thief.one/article_content?a_id=f038ac325fa22d579edc69a99e578004",
-        "date": "2020-11-24"
       }
     ]
   },

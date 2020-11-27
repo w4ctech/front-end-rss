@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 10:09:04，:rocket: 更新条数: +3899， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 10:26:33，:rocket: 更新条数: +3901， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,12 @@
 </summary>
 
 
+- [2020-11-27-硕士导师应该选-PUSH-还是放养型的](https://www.v2ex.com/t/729959) ![](assets/new.png)  
+- [2020-11-27-读多插入少的-unordered_map,-有办法实现读取时无锁吗?-只涉及增和查,-不涉及删和改.-并且-map-中如果存某-key,-就不重新插入该-key](https://www.v2ex.com/t/729958) ![](assets/new.png)  
+- [2020-11-27-k8s-&-kong-里怎么方便添加一个-path-用于返回字符串？](https://www.v2ex.com/t/729957) ![](assets/new.png)  
+- [2020-11-27-请问-有什么提升视频画质的软件](https://www.v2ex.com/t/729956) ![](assets/new.png)  
+- [2020-11-27-第一个小程序《练打字》](https://www.v2ex.com/t/729955) ![](assets/new.png)  
+- [2020-11-27-从零开始的-RPG-游戏制作教程（第二期）](https://www.v2ex.com/t/729954) ![](assets/new.png)  
 - [2020-11-27-打算求婚，准备买个钻戒，预算-1.3w-左右，对钻石一窍不通，来点经验。](https://www.v2ex.com/t/729952) ![](assets/new.png)  
 - [2020-11-27-微信官方防撤回版文字版](https://www.v2ex.com/t/729950) ![](assets/new.png)  
 - [2020-11-27-golang-怎么执行需要输入密码的-shell-命令](https://www.v2ex.com/t/729949) ![](assets/new.png)  
@@ -1088,12 +1094,6 @@
 - [2020-11-27-VSCODE-如何扩展某种语言的语法风格?](https://www.v2ex.com/t/729935) ![](assets/new.png)  
 - [2020-11-27-做了-4-年-c#-web-开发，在北京好难找工作呀](https://www.v2ex.com/t/729934) ![](assets/new.png)  
 - [2020-11-27-pymysql-执行报错，大佬们帮忙看看](https://www.v2ex.com/t/729932) ![](assets/new.png)  
-- [2020-11-27-x-浏览器默认拦截广告本身就是违法违规，不正当竞争。没有什么好洗的。什么菜刀不菜刀](https://www.v2ex.com/t/729931) ![](assets/new.png)  
-- [2020-11-27-当短信到达时，安卓-APP-可以获取到接收号码吗？](https://www.v2ex.com/t/729930) ![](assets/new.png)  
-- [2020-11-27-我把地区切换成台湾，-3-个月只用了-35-人民币？](https://www.v2ex.com/t/729927) ![](assets/new.png)  
-- [2020-11-27-iPhone-12-开了个人热点，在-Mac-上无法发现](https://www.v2ex.com/t/729926) ![](assets/new.png)  
-- [2020-11-27-问下各位-安卓-有没有办法可以设置自动黑屏或是自动解锁的功能？](https://www.v2ex.com/t/729925) ![](assets/new.png)  
-- [2020-11-27-为什么-v2-有的帖子我看不到，但是回复还在上涨？](https://www.v2ex.com/t/729924) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,8 +1149,8 @@
 - [2020-11-27-一文带你快速上手-Rollup](https://toutiao.io/k/34zgygy) ![](assets/new.png)  
 - [2020-11-27-macOS-使用-XQuartz-支持-X11-实现-Linux-图形化界面显示](https://toutiao.io/k/05rih6f) ![](assets/new.png)  
 - [2020-11-27-译-使用-.NET-5-体验大数据和机器学习](https://toutiao.io/k/b7hi7tn) ![](assets/new.png)  
-- [2020-11-27-LVS-+-Iptables-实现-FULLNAT-及原理分析](https://toutiao.io/k/l50huqe) ![](assets/new.png)  
 - [2020-11-27-系统设计那些事儿：硬盘-I/O](https://toutiao.io/k/3t02jng) ![](assets/new.png)  
+- [2020-11-27-LVS-+-Iptables-实现-FULLNAT-及原理分析](https://toutiao.io/k/l50huqe) ![](assets/new.png)  
 - [2020-11-27-大咖聊技术：强化学习也爱玩雅达利吗？](https://toutiao.io/k/6zynkk4) ![](assets/new.png)  
 - [2020-11-27-基于-Kubernetes-和-OpenKruise-的可变基础设施实践](https://toutiao.io/k/jp5wto0) ![](assets/new.png)  
 - [2020-11-27-探索-React-合成事件](https://toutiao.io/k/nm20ze4) ![](assets/new.png)  
@@ -1167,26 +1167,26 @@
 </summary>
 
 
+- [2020-11-27-IOT漏洞研究:Web服务](https://sec.thief.one/article_content?a_id=1fb5abc39fca164ecce77f4bab8ce6cd) ![](assets/new.png)  
+- [2020-11-27-360空间测绘系统v4.2功能更新](https://sec.thief.one/article_content?a_id=e4745212a316b1e5f0fd38eeb6d15cb7) ![](assets/new.png)  
+- [2020-11-27-福利-|-安全时刻,感恩遇见](https://sec.thief.one/article_content?a_id=26253876b7c39f0ba7f84c95c7aebd9d) ![](assets/new.png)  
+- [2020-11-27-CVE-2020-14882​&14883:Weblogic-RCE复现](https://sec.thief.one/article_content?a_id=c0fa088badbe4ed4134c95a9bd5b3fba) ![](assets/new.png)  
+- [2020-11-27-面向DevSecOps的编码安全指南|JavaScript篇](https://sec.thief.one/article_content?a_id=c6059403ab7af1b768dafe48ebf38627) ![](assets/new.png)  
+- [2020-11-27-「Dibrary-第二季-」——好书推荐-|DSRC-2019年度Top白帽-SAVIOUR](https://sec.thief.one/article_content?a_id=6ddcfb4d596ca937e641b4fae21894e4) ![](assets/new.png)  
+- [2020-11-27-好书推荐-|-CSRC-READING-PARTY](https://sec.thief.one/article_content?a_id=c2ee56d313fc8d656655a0b3256e9d13) ![](assets/new.png)  
+- [2020-11-27-就因为被人脸识别拍了,买房多花了30万](https://sec.thief.one/article_content?a_id=e2309ffc383bb4f7831470c69800bc64) ![](assets/new.png)  
+- [2020-11-27-“追梦火焰蓝”网络主题宣传活动圆满落幕](https://sec.thief.one/article_content?a_id=604378e8e56ddb8f583081bde36b921c) ![](assets/new.png)  
+- [2020-11-27-比特币期货合约创新高,表明专业投资者依旧期待BTC到达两万美金](https://sec.thief.one/article_content?a_id=754992f332894673da5a8c0b1e936ea3) ![](assets/new.png)  
+- [2020-11-27-CVE-2020-14645漏洞复现利用](https://sec.thief.one/article_content?a_id=f3461c9673b9b1653fb01a04d71a70e4) ![](assets/new.png)  
+- [2020-11-27-内网渗透-|-NPS内网穿透工具的使用](https://sec.thief.one/article_content?a_id=fc3e18724c8066274d9522cfffd72c6f) ![](assets/new.png)  
+- [2020-11-27-【经典漏洞回顾】Microsoft-Windows-Win32k本地提权漏洞分析](https://sec.thief.one/article_content?a_id=68c2cb4d0ecbe55e0807001eed227767) ![](assets/new.png)  
+- [2020-11-27-BloodHound-4.0-更新介绍](https://sec.thief.one/article_content?a_id=4e8350a808775e1305da499d61816585) ![](assets/new.png)  
+- [2020-11-27-比特币跳水3000美元的3个原因,为什么它继续看涨?](https://sec.thief.one/article_content?a_id=acf2acaa85c35506ef2b89b355d226a7) ![](assets/new.png)  
 - [2020-11-27-Drupal-core高危漏洞风险提示](https://sec.thief.one/article_content?a_id=ce16f046e1af7dc404d2db93a65fd6c2) ![](assets/new.png)  
 - [2020-11-27-用无人机保卫5G网络安全](https://sec.thief.one/article_content?a_id=447b74e6a98bb77f3bf7919aa7bdfbe5) ![](assets/new.png)  
 - [2020-11-27-【以我之青春-耀祖国之荣光】追梦!我们在路上](https://sec.thief.one/article_content?a_id=9783b628ce47c357f5b7435cc7128d1c) ![](assets/new.png)  
 - [2020-11-27-新冠疫情是如何改变传统的云安全防护策略](https://sec.thief.one/article_content?a_id=889bb860a1792899ba6be1cc335489bb) ![](assets/new.png)  
 - [2020-11-27-丹麦最大新闻机构遭勒索攻击,近三成服务器被加密](https://sec.thief.one/article_content?a_id=f061b511f724d4e98ba62b15b9e4cd7d) ![](assets/new.png)  
-- [2020-11-27-签名伪造的利用及思考](https://sec.thief.one/article_content?a_id=d58dc0c850b4b13d1815b3b53b80f128) ![](assets/new.png)  
-- [2020-11-27-小伙子不讲武德,竟用Python爬取了B站上1.4w条马老师视频数据来分析](https://sec.thief.one/article_content?a_id=a789b822ce86326a07bca11396a9857e) ![](assets/new.png)  
-- [2020-11-27-内网渗透-|-常用的内网穿透工具使用](https://sec.thief.one/article_content?a_id=97b72f41261b1fd6a2c2778857fa61f1) ![](assets/new.png)  
-- [2020-11-27-DNS隧道技术绕过防火墙](https://sec.thief.one/article_content?a_id=b605ecea2077d095e26669aecf9df9f4) ![](assets/new.png)  
-- [2020-11-27-干货:木马DLL实现热更新的骚操作](https://sec.thief.one/article_content?a_id=d2c2922cd550c39e9d4deb342a74d714) ![](assets/new.png)  
-- [2020-11-27-《工业互联网安全架构白皮书》全文](https://sec.thief.one/article_content?a_id=70300ea982d0dc617e925a662db052bd) ![](assets/new.png)  
-- [2020-11-27-Python-国产库推荐之-musicpy](https://sec.thief.one/article_content?a_id=e6b76484ce3a78f1835a0a8b3d624a4b) ![](assets/new.png)  
-- [2020-11-27-每周高级威胁情报解读2020.11.19~11.26](https://sec.thief.one/article_content?a_id=58e0cac29e0f0bc6ecc7dfeee075d164) ![](assets/new.png)  
-- [2020-11-27-一图搞定-Matplotlib,请收下这个小抄!](https://sec.thief.one/article_content?a_id=96b5225dd4a27d97e0b5ce54bd0ce8d2) ![](assets/new.png)  
-- [2020-11-27-“特殊福利”整理一套目标检测、OpenCV、CNN资料,送给你们!](https://sec.thief.one/article_content?a_id=c53b24c4c522bd606c763bea47b019d7) ![](assets/new.png)  
-- [2020-11-26-HACK学习-|-感恩节大回馈,抽奖领现金](https://sec.thief.one/article_content?a_id=4474792451c148e4cc929abd7611ce5b) ![](assets/new.png)  
-- [2020-11-26-Thanksgiving-|-一路同行-微步有你](https://sec.thief.one/article_content?a_id=53242fcad24b6ddae139f4becd8373fb) ![](assets/new.png)  
-- [2020-11-26-文末抽奖-|-感恩节大回馈,好礼为你送上!](https://sec.thief.one/article_content?a_id=2451db5a8f88033bf54858b5396a020f) ![](assets/new.png)  
-- [2020-11-26-京麒大会倒计时8天!安全大咖邀您共赴数智化新征程!](https://sec.thief.one/article_content?a_id=a165cb2c7481742f330be0dbe2f3d3a5) ![](assets/new.png)  
-- [2020-11-26-齐向东:新基建引爆技术创新-网安产业将迎来发展新高潮](https://sec.thief.one/article_content?a_id=08b7a6adfae8011653fefe85ecec6ca9) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

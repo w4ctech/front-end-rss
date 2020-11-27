@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-27 23:33:21，:rocket: 更新条数: +3901， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-27 23:47:50，:rocket: 更新条数: +1031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-11-27-最新疫情：全国新冠累计确诊86495例-境外输入新增5例](http://m.china.caixin.com/m/2020-11-27/101633263.html) ![](assets/new.png)  
-- [2020-11-27-钟南山：应研发多种类型疫苗，哪一种最好现在还不知道](https://m.caixin.com/m/2020-11-27/101633147.html) ![](assets/new.png)  
-- [2020-11-27-独家|专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html) ![](assets/new.png)  
-- [2020-11-27-聚焦|张文宏：控制经物流的海外输入性疫情](http://m.opinion.caixin.com/m/2020-11-27/101632910.html) ![](assets/new.png)  
-- [2020-11-27-最新海外疫情：新冠感染超6088万-累计死亡超142万](http://m.international.caixin.com/m/2020-11-27/101633256.html) ![](assets/new.png)  
-- [2020-11-27-钟南山建议香港再次推行全民检测](https://m.caixin.com/m/2020-11-27/101633024.html) ![](assets/new.png)  
-- [2020-11-27-【境内疫情观察】全国新增5例境外输入病例（11月26日）](http://m.database.caixin.com/m/2020-11-27/101633045.html) ![](assets/new.png)  
-- [2020-11-27-大流行手记|11月26日：欧美节假季疫情恐加剧-全球性别平等受损](https://m.caixin.com/m/2020-11-27/101632915.html) ![](assets/new.png)  
-- [2020-11-26-满洲里共确诊11例新冠-现家庭、学校、小区聚集特征](https://m.caixin.com/m/2020-11-26/101632824.html) ![](assets/new.png)  
-- [2020-11-26-内蒙古新增本土确诊病例9例-均在满洲里](http://m.china.caixin.com/m/2020-11-26/101632701.html) ![](assets/new.png)  
-- [2020-11-26-【境内疫情观察】内蒙古新增9例本土确诊病例（11月25日）](http://m.database.caixin.com/m/2020-11-26/101632600.html) ![](assets/new.png)  
-- [2020-11-26-大流行手记|11月25日：英入境隔离期将缩至5天-美测试疫苗分发网络](https://m.caixin.com/m/2020-11-26/101632481.html) ![](assets/new.png)  
-- [2020-11-26-来华航班近两百份核酸报告雷同-使馆要求俄航司重检](http://m.companies.caixin.com/m/2020-11-26/101632663.html) ![](assets/new.png)  
-- [2020-11-25-天津两起疫情有不同源头-其中之一为进口猪头](https://m.caixin.com/m/2020-11-25/101632216.html) ![](assets/new.png)  
-- [2020-11-25-【境内疫情观察】内蒙古新增1例本土疑似病例（11月24日）](http://m.database.caixin.com/m/2020-11-25/101632194.html) ![](assets/new.png)  
-- [2020-11-25-大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html) ![](assets/new.png)  
-- [2020-11-25-新冠疫情传播“物染人”和“人染人”并存-非冷链运输也有传播风险](https://m.caixin.com/m/2020-11-25/101632416.html) ![](assets/new.png)  
-- [2020-11-24-江苏南京1男1女境外回国确诊新冠-行程公布](https://m.caixin.com/m/2020-11-24/101631964.html) ![](assets/new.png)  
-- [2020-11-24-香港新增80宗确诊病例-防疫措施再收紧](https://m.caixin.com/m/2020-11-24/101631936.html) ![](assets/new.png)  
-- [2020-11-24-【境内疫情观察】上海新增1例本土确诊病例（11月23日）](http://m.database.caixin.com/m/2020-11-24/101631769.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -143,6 +123,8 @@
 </summary>
 
 
+- [2020-11-27-看到程序员11月平均工资后，我第一反应：这是假的吧！](https://www.ershicimi.com/p/cf0ae53dc1cef466790dc3d4b32c17a0) ![](assets/new.png)  
+- [2020-11-27-Vue-在哪些方面比-React-做得更好？](https://www.ershicimi.com/p/96834ae75dff142604a894150c089035) ![](assets/new.png)  
 - [2020-11-26-快速使用Vue3最新的15个常用API](https://www.ershicimi.com/p/c88dea864faade5b9831ead1b57de58c) ![](assets/new.png)  
 - [2020-11-26-能笑抽的39个奇葩代码注释](https://www.ershicimi.com/p/d2e99de76cbb086d7b617b6c54162562) ![](assets/new.png)  
 - [2020-11-25-这7个vue技巧，简直让效率翻倍！](https://www.ershicimi.com/p/08a897b409626cad6d577df2d9ba745a) ![](assets/new.png)  
@@ -161,8 +143,6 @@
 - [2020-11-18-一个人竟然撸了一个抖音-App](https://www.ershicimi.com/p/1987ef0f48516e311290764251bd1201) ![](assets/new.png)  
 - [2020-11-18-JavaScript-那些写出来会被同事揍的骚操作](https://www.ershicimi.com/p/b198707f9470404036e8af5bf50c2d7d) ![](assets/new.png)  
 - [2020-11-17-为什么-Vue3-的-ref-让很多大佬操碎了心？](https://www.ershicimi.com/p/93ad8d84d261be43673063b8a019d17a) ![](assets/new.png)  
-- [2020-11-17-鸿蒙2.0大火，前端开发者可以对移动端布局了！](https://www.ershicimi.com/p/552fa05c3e4f8de77a89b6fcfd9d796c) ![](assets/new.png)  
-- [2020-11-16-@前端人，你其实可以利用技术“躺赚”](https://www.ershicimi.com/p/65b9c7c1e760f4ce1519e57344ac5390) ![](assets/new.png)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1054,7 @@
 </summary>
 
 
+- [2020-11-27-黑五-AdGuard-超级折扣](https://www.v2ex.com/t/730035) ![](assets/new.png)  
 - [2020-11-27-你最想推荐的浏览器（Chromium-based）扩展是什么？](https://www.v2ex.com/t/730033) ![](assets/new.png)  
 - [2020-11-27-怎么批量删除在-V2EX-收藏的主题？](https://www.v2ex.com/t/730032) ![](assets/new.png)  
 - [2020-11-27-entr---监视一个目录里的文件是否发生改变，在改变的时候运行指定命令](https://www.v2ex.com/t/730030) ![](assets/new.png)  
@@ -1093,7 +1074,6 @@
 - [2020-11-27-深圳租房要注意些什么？](https://www.v2ex.com/t/730014) ![](assets/new.png)  
 - [2020-11-27-北京知乎诚聘初高级后端研发工程师](https://www.v2ex.com/t/730013) ![](assets/new.png)  
 - [2020-11-27-今天刚买了-16-寸，新闻爆料-12-月发新-16-寸，更新十代-Intel-和-6700-显卡，我傻了](https://www.v2ex.com/t/730012) ![](assets/new.png)  
-- [2020-11-27-阿里云的邮件推送-真烂](https://www.v2ex.com/t/730011) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

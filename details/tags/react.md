@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 15:47:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 16:05:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -8,7 +8,6 @@
 
 
 - [2020-11-27-Vue-在哪些方面比-React-做得更好？](https://www.ershicimi.com/p/96834ae75dff142604a894150c089035) 
-- [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) 
 - [2020-11-25-推荐一个零配置开箱即用的React/Vue应用自动化构建脚手架，不强大你来找我](https://www.ershicimi.com/p/617c8989334e3a2533fb907f629e848c) 
 - [2020-11-24-Vue-在哪些方面比-React-做得更好？](https://www.ershicimi.com/p/71c762cceb416f16b59ddcc732f3abc8) 
 - [2020-11-18-我就想招React，为啥遍地都是Vue？](https://www.ershicimi.com/p/117a7bcad88facfce86a8b46a0ec5ff0) 
@@ -22,6 +21,7 @@
 - [2020-11-22-React16源码解读：揭秘ReactDOM.render](https://www.ershicimi.com/p/d20f88e781efc2e77670552ad2008691) 
 - [2020-11-20-React组件到底什么时候render啊](https://www.ershicimi.com/p/6cee8122e57fd6d621224b279f12fc1f) 
 - [2020-11-13-为什么要在你的项目中使用-React？](https://www.ershicimi.com/p/68dc80945a90bb032e161f0ed17bd39f) 
+- [2020-09-20-浅谈-React-中的-XSS-攻击](https://www.ershicimi.com/p/cf465a8944c2bbb107812b217cc74f63) 
 - [2020-11-23-真的搞不懂大厂为什么都喜欢用-React-？](https://www.ershicimi.com/p/7e1dffef77b76c832dd620663161f0d1) 
 - [2020-11-20-React-Native-新架构](https://www.ershicimi.com/p/c61755cc8ade1ed33f2522dd1408f078) 
 - [2020-11-18-我就想招React，为啥遍地都是Vue？](https://www.ershicimi.com/p/4b4b13e569cec9b333ea5baa98a00cfd) 

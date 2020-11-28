@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-28 23:32:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 23:47:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue中文社区
 
 
 
 
+- [2020-11-28-最近收到几个朋友成功拿到字节2-1、阿里P6等大厂offer的消息，特地将这些大厂简历整理出来，分享](https://www.ershicimi.com/p/f29200451dccf8fc5bcc554d945199a3) 
 - [2020-11-27-看到程序员11月平均工资后，我第一反应：这是假的吧！](https://www.ershicimi.com/p/cf0ae53dc1cef466790dc3d4b32c17a0) 
 - [2020-11-27-Vue-在哪些方面比-React-做得更好？](https://www.ershicimi.com/p/96834ae75dff142604a894150c089035) 
 - [2020-11-26-快速使用Vue3最新的15个常用API](https://www.ershicimi.com/p/c88dea864faade5b9831ead1b57de58c) 
@@ -24,4 +25,3 @@
 - [2020-11-19-iPad-真香，包邮送一个](https://www.ershicimi.com/p/bdd7959682bd0dc519afc988cb15bb7b) 
 - [2020-11-18-一个人竟然撸了一个抖音-App](https://www.ershicimi.com/p/1987ef0f48516e311290764251bd1201) 
 - [2020-11-18-JavaScript-那些写出来会被同事揍的骚操作](https://www.ershicimi.com/p/b198707f9470404036e8af5bf50c2d7d) 
-- [2020-11-17-为什么-Vue3-的-ref-让很多大佬操碎了心？](https://www.ershicimi.com/p/93ad8d84d261be43673063b8a019d17a) 

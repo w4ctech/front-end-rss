@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 00:08:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 00:18:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -48,8 +48,9 @@
 - [2020-11-27-科技重绘金融产业天际线：ReFinTech大会展望金融数据化时代](https://www.ershicimi.com/p/3a80cb8b6b89e55567acb6cd43da1e60) 
 - [2020-11-26-美国重申中兴威胁美国国家安全，12-月将对华为做出最终裁决](https://www.ershicimi.com/p/65df2eeea4115ad80b460e76d0732450) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-11-27-你最想推荐的浏览器（Chromium-based）扩展是什么？](https://www.v2ex.com/t/730033) 
 - [2020-11-28-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
+- [2020-11-27-【安全圈】0patch-发布免费补丁:修复-Windows-7-中的漏洞](https://sec.thief.one/article_content?a_id=03f85f8a27b88f0e0e7ac85a217c8483) 
+- [2020-11-27-数据脱敏、智能安全运营视角下的新基建安全](https://sec.thief.one/article_content?a_id=3ac40c05f63c63ee0953b4b6cf6216a5) 
 - [2020-11-27-福利-|-安全时刻,感恩遇见](https://sec.thief.one/article_content?a_id=26253876b7c39f0ba7f84c95c7aebd9d) 
 - [2020-11-27-用无人机保卫5G网络安全](https://sec.thief.one/article_content?a_id=447b74e6a98bb77f3bf7919aa7bdfbe5) 
 - [2020-11-27-新冠疫情是如何改变传统的云安全防护策略](https://sec.thief.one/article_content?a_id=889bb860a1792899ba6be1cc335489bb) 
@@ -65,5 +66,3 @@
 - [2020-11-25-ATT&CK驱动下的安全运营数据分析,如何“落地”?](https://sec.thief.one/article_content?a_id=e427fd37b5c54eb2afb0abb39c18329d) 
 - [2020-11-25-招聘-|-Base上海字节跳动多个安全风控岗位来袭](https://sec.thief.one/article_content?a_id=f5bc31824232604f37763232787cff08) 
 - [2020-11-25-《个人信息安全影响评估指南》GB/T-39335-2020正式发布](https://sec.thief.one/article_content?a_id=bf74e475019b148a5f0b8a65938cf7e0) 
-- [2020-11-25-孟买疑遭APT攻击致大规模停电:APT威胁日趋加重下如何布防安全](https://sec.thief.one/article_content?a_id=9477b130acbe8712ca2d12454aceb737) 
-- [2020-11-25-博智安全完成3.7亿人民币新一轮融资](https://sec.thief.one/article_content?a_id=7e2bfc1a1f0c80ae15045615eb58e0ab) 

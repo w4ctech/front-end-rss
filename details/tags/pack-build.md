@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 15:33:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 15:47:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -15,11 +15,9 @@
 - [2020-11-25-Angular-11正式发布：加入webpack-5，升级至TS-4.0，不再支持IE-9-和10](https://www.ershicimi.com/p/f382c40434f5c7ec2b435aaf5dce5868) 
 - [2020-11-18-Angular-11-正式发布：加入-webpack-5，升级至-TS-4.0，不再支持-IE-9](https://www.ershicimi.com/p/4b777bfc7d41a8326518985898c3e6a0) 
 - [2020-11-09-Webpack配置全解析（基础篇）](https://www.ershicimi.com/p/285cbaf83c729f1655121c6b570a4e39) 
-- [2020-08-23-npm-依赖管理中被忽略的那些细节](https://www.ershicimi.com/p/dbc75e14c0a00bf3a7a748722c7077b2) 
-- [2020-07-12-自定义-ESLint-规则，让代码持续美丽](https://www.ershicimi.com/p/78a02d35ff153be695c61fdaa2e891a2) 
-- [2020-06-21-分分钟教会你搭建企业级的-npm-私有仓库](https://www.ershicimi.com/p/b1a3411bb1a17e1fa6d68d17a88bbae1) 
 - [2020-11-24-代码规范之-理解ESLint、Prettier、EditorConfig](https://www.ershicimi.com/p/970ad1f46f8b717471a248bc719e733f) 
 - [2020-11-21-webpack-的异步加载原理及分包策略](https://www.ershicimi.com/p/8463f91e36d6a821cf260aa3b2c87d34) 
+- [2020-11-25-一文带你快速上手Rollup](https://www.ershicimi.com/p/55dfb026f34fd70cb8e82888b500457d) 
 - [2020-11-27-架构师成长计划｜如何利用云原生构建一个企业级高可用架构？](https://www.ershicimi.com/p/78b3f12c8db850f63bc1d2be87431b8c) 
 - [2020-11-25-构建云原生架构版图：安信证券服务化平台实践](https://www.ershicimi.com/p/c91a276fcf613b34fb6de5dd3a3359e1) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 

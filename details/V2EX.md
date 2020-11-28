@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-28 15:07:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 15:26:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-28-大家-doh-用的哪个](https://www.v2ex.com/t/730204) 
+- [2020-11-28-steam-秋季特卖一水儿半价，又可以喜加一一波了，虽然也没时间玩儿😂](https://www.v2ex.com/t/730203) 
 - [2020-11-28-slb-路径转发和-nginx-反向代理有什么不同？](https://www.v2ex.com/t/730201) 
 - [2020-11-28-Apple-Silicon-设备如果重装系统失败可以参考这个视频](https://www.v2ex.com/t/730200) 
 - [2020-11-28-Nonstop-外链自动跳转插件](https://www.v2ex.com/t/730199) 
@@ -40,6 +42,3 @@
 - [2020-11-28-如何排查旧笔电还有没有救？](https://www.v2ex.com/t/730161) 
 - [2020-11-28-MAC-chrome-有么有办法启动的时候就是全屏的](https://www.v2ex.com/t/730159) 
 - [2020-11-28-无需注册、无需客户端的文件分享平台——奶牛快传](https://www.v2ex.com/t/730157) 
-- [2020-11-28-MBP-16G-M1-版本到手了，先拿魔兽世界试了下，真香](https://www.v2ex.com/t/730154) 
-- [2020-11-28-typora-中将-markdown-导出成-html，是咋把-latex-公式直接导出成-svg-的](https://www.v2ex.com/t/730153) 
-- [2020-11-28-给毕设的小前端一个毕设作品。音乐+音乐爬虫。简单型](https://www.v2ex.com/t/730152) 

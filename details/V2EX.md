@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-28 09:08:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 09:26:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-28-windows10-无-USB-C-转闪电接口，如何传照片到-iphone12](https://www.v2ex.com/t/730135) 
+- [2020-11-28-Air-下一代会不会出窄边框](https://www.v2ex.com/t/730134) 
 - [2020-11-28-写给应届生：客户端开发真的要被劝退了吗？](https://www.v2ex.com/t/730133) 
 - [2020-11-28-程序员的凡尔赛文学](https://www.v2ex.com/t/730132) 
 - [2020-11-28-百度云-svip-官方-178-一年香不香？](https://www.v2ex.com/t/730131) 
@@ -41,5 +43,3 @@
 - [2020-11-28-安利一个在线数据模拟的网站，-https://www.apilab.cn](https://www.v2ex.com/t/730088) 
 - [2020-11-28-升级到什么系统好？](https://www.v2ex.com/t/730087) 
 - [2020-11-28-M1-的-RMBP-值得买吗？](https://www.v2ex.com/t/730086) 
-- [2020-11-28-升级到-Big-Sur-经常-iCloud-备份-syncdefaultsd-进程](https://www.v2ex.com/t/730085) 
-- [2020-11-28-xr-刷地铁交通卡-必须解锁亮屏才能刷-是什么原因啊](https://www.v2ex.com/t/730084) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-28 08:39:06，:rocket: 更新条数: +3894， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-28 08:48:23，:rocket: 更新条数: +3894， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-11-28-人生的意义是什么，早晚，都要离开](https://www.v2ex.com/t/730129) ![](assets/new.png)  
+- [2020-11-28-steam-黑五，有没有那种开了作弊器后欺负电脑起来很爽的单机游戏？（我的显卡是-950M）](https://www.v2ex.com/t/730127) ![](assets/new.png)  
 - [2020-11-28-升级-Big-sur-后，坚果云云桥模式不可用了](https://www.v2ex.com/t/730126) ![](assets/new.png)  
 - [2020-11-28-M1-虚拟机运行-Arm-Windows-比-Surface-Pro-X-还快](https://www.v2ex.com/t/730125) ![](assets/new.png)  
 - [2020-11-28-电脑遇到一个神奇的问题，修电脑的大神们过来看看](https://www.v2ex.com/t/730124) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-11-28-帮朋友代发-杭州-租房找室友，仅限女性-房租押一付三，-2000-元每月，水电均摊，民用水电，物业费房东已免除。](https://www.v2ex.com/t/730106) ![](assets/new.png)  
 - [2020-11-28-16-号订的-M1-Air-16G-发货了](https://www.v2ex.com/t/730104) ![](assets/new.png)  
 - [2020-11-28-如何解决同时按-Shift-和-Backspace-键时，-Shift-键无效的问题？](https://www.v2ex.com/t/730103) ![](assets/new.png)  
-- [2020-11-28-一个古老的问题：马上-1202-年了，怎么还不出雷电鼠标或者改良-2.4-干扰的鼠标呀](https://www.v2ex.com/t/730102) ![](assets/new.png)  
-- [2020-11-28-我靠，中国移动转性了？](https://www.v2ex.com/t/730098) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,16 +1146,16 @@
 - [2020-11-28-理解网络命名空间与-VETH-Pair-对](https://toutiao.io/k/mhpeesq) ![](assets/new.png)  
 - [2020-11-28-SkyWalking-8.0-版本的-MeterSystem-和网格监控](https://toutiao.io/k/jj1klps) ![](assets/new.png)  
 - [2020-11-28-RoundShadowImageView：圆形图片的阴影，自由定制](https://toutiao.io/k/jk7k6y3) ![](assets/new.png)  
-- [2020-11-28-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
-- [2020-11-28-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
-- [2020-11-28-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
 - [2020-11-28-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
 - [2020-11-28-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
-- [2020-11-28-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
+- [2020-11-28-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
+- [2020-11-28-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
+- [2020-11-28-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
+- [2020-11-28-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
+- [2020-11-28-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
+- [2020-11-28-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
 - [2020-11-28-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
 - [2020-11-28-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
-- [2020-11-28-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
-- [2020-11-28-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

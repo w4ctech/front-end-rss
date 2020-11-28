@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 12:51:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 13:03:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -10,6 +10,8 @@
 - [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2020-11-11-2020-年最新-24-条前端性能优化军规](https://www.ershicimi.com/p/0c714955eb6ee1eb466645ad988c5cb0) 
 - [2020-11-24-网页渲染性能优化-——-渲染原理](https://www.ershicimi.com/p/7de0689dbd35245630352b18bb8a126f) 
+- [2020-11-21-Chrome-87-新特性解读，多年来-Chrome-性能最大提升！](https://www.ershicimi.com/p/5905812856c8a083c03fd9b6deae02d9) 
+- [2020-11-17-图片懒加载从简单到复杂](https://www.ershicimi.com/p/859eb7bdb58f8fe59dcfe4d956629aba) 
 - [2020-11-18-图片懒加载从简单到复杂](https://www.ershicimi.com/p/5c1149cdd78fd700b22014239994a291) 
 - [2020-11-27-PHP-8.0重大版本更新正式发布：支持JIT编译器，性能提升高达3倍](https://www.ershicimi.com/p/fde617f4de8741e04807c67be11b156b) 
 - [2020-11-20-从0开始快速上手WebAssembly：打造基于WASM的高性能安全沙盒](https://www.ershicimi.com/p/f685041d75bc49c89f432c79377d79e4) 

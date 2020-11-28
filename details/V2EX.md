@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-11-28 06:09:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 06:32:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-28-如何解决同时按-Shift-和-Backspace-键时，-Shift-键无效的问题？](https://www.v2ex.com/t/730103) 
+- [2020-11-28-一个古老的问题：马上-1202-年了，怎么还不出雷电鼠标或者改良-2.4-干扰的鼠标呀](https://www.v2ex.com/t/730102) 
+- [2020-11-28-我靠，中国移动转性了？](https://www.v2ex.com/t/730098) 
+- [2020-11-28-SSH-超时自动断开后,-本地终端里会依旧处于-SSH-中等几秒后出现-Connection-reset-by-X.X.X.X-port-22-才退出-SSH](https://www.v2ex.com/t/730097) 
+- [2020-11-28-请问-Firefox-83.0-如何自定义快捷键？](https://www.v2ex.com/t/730095) 
 - [2020-11-28-黑五想入硬盘，有推荐的吗？](https://www.v2ex.com/t/730093) 
 - [2020-11-28-请教各位大佬，头条飞书前端怎么样？](https://www.v2ex.com/t/730092) 
 - [2020-11-28-使用-Rancher-搭建的-K8S-环境采集-Spring-Boot-日志有什么好的方案](https://www.v2ex.com/t/730091) 
@@ -41,9 +46,3 @@
 - [2020-11-28-快要-2021-年了，有什么新的推荐的-Python-的-Markdown-库么？](https://www.v2ex.com/t/730059) 
 - [2020-11-28-黑五-Topaz-Labs-软件全家桶-68%-OFF](https://www.v2ex.com/t/730056) 
 - [2020-11-28-考研学生冲刺期间晚上睡不好怎么办？](https://www.v2ex.com/t/730054) 
-- [2020-11-28-30-岁程序员，公司让转管理，走产品方向，各位觉得可行吗？](https://www.v2ex.com/t/730053) 
-- [2020-11-28-好歌推荐，刘小慧-加减乘除，会让你心情变快乐的歌](https://www.v2ex.com/t/730052) 
-- [2020-11-28-2021-广州有什么值得去的好公司？](https://www.v2ex.com/t/730050) 
-- [2020-11-28-Paw-黑五免费（我个人认为最好的-API-请求工具）](https://www.v2ex.com/t/730048) 
-- [2020-11-28-在-Apple-Silicon-M1-上运行-Docker](https://www.v2ex.com/t/730046) 
-- [2020-11-28-Java-ORM-中简洁的关联对象查询和分页查询](https://www.v2ex.com/t/730045) 

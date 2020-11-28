@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-28 11:07:28，:rocket: 更新条数: +3896， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-28 11:22:51，:rocket: 更新条数: +3896， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-11-28-香港新增84例新冠肺炎确诊病例-累计确诊6124例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0FcbkcY8fHZjwa4uwY07201128&isfromapp=1) ![](assets/new.png)  
+- [2020-11-28-俄罗斯新增27100例新冠肺炎确诊病例-累计超224万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijjOiMaLkDq8JJGuAu3B3201128&isfromapp=1) ![](assets/new.png)  
+- [2020-11-28-上海11月27日无新增本地新冠肺炎确诊病例-无新增境外输入性新冠肺炎确诊病例-治愈出院4例](http://wsjkw.sh.gov.cn/xwfb/20201128/c377c69b6d384013aa2b92d354e85102.html) ![](assets/new.png)  
+- [2020-11-28-印度新增41322例新冠肺炎确诊病例-累计超935万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6GPv3VAsYyL2ubBlY6FJ201128&isfromapp=1) ![](assets/new.png)  
 - [2020-11-28-天津27日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIGpiFdx9ShRBdGlvsM8n201128&isfromapp=1) ![](assets/new.png)  
-- [2020-11-28-福建省新型冠状病毒肺炎疫情情况](http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202011/t20201128_5460965.htm) ![](assets/new.png)  
-- [2020-11-28-陕西无新增新冠肺炎确诊病例](http://sxwjw.shaanxi.gov.cn/art/2020/11/28/art_9_74733.html) ![](assets/new.png)  
-- [2020-11-28-云南27日新增境外输入确诊病例1例、无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTy8fvupJoDfu6KGDr68g201128&isfromapp=1) ![](assets/new.png)  
-- [2020-11-28-截至11月27日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202011/c02ae1c55f774e7f94dbc4c08edc5e2a.shtml) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-28-给毕设的小前端一个毕设作品。音乐+音乐爬虫。简单型](https://www.v2ex.com/t/730152) ![](assets/new.png)  
 - [2020-11-28-使用“健身记录指针表盘”出现这大黑线是什么情况-？](https://www.v2ex.com/t/730151) ![](assets/new.png)  
 - [2020-11-28-ubuntu-装-go-真是噩梦啊](https://www.v2ex.com/t/730150) ![](assets/new.png)  
 - [2020-11-28-招远程-golang，全职哦](https://www.v2ex.com/t/730149) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-11-28-程序员的凡尔赛文学](https://www.v2ex.com/t/730132) ![](assets/new.png)  
 - [2020-11-28-百度云-svip-官方-178-一年香不香？](https://www.v2ex.com/t/730131) ![](assets/new.png)  
 - [2020-11-28-独立开发者，上架应用需要收费，都注册个公司弄对公账户么？](https://www.v2ex.com/t/730130) ![](assets/new.png)  
-- [2020-11-28-人生的意义是什么，早晚，都要离开](https://www.v2ex.com/t/730129) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,16 +1146,16 @@
 - [2020-11-28-理解网络命名空间与-VETH-Pair-对](https://toutiao.io/k/mhpeesq) ![](assets/new.png)  
 - [2020-11-28-SkyWalking-8.0-版本的-MeterSystem-和网格监控](https://toutiao.io/k/jj1klps) ![](assets/new.png)  
 - [2020-11-28-RoundShadowImageView：圆形图片的阴影，自由定制](https://toutiao.io/k/jk7k6y3) ![](assets/new.png)  
-- [2020-11-28-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
-- [2020-11-28-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
-- [2020-11-28-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
 - [2020-11-28-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
-- [2020-11-28-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
-- [2020-11-28-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
-- [2020-11-28-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
 - [2020-11-28-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
-- [2020-11-28-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
 - [2020-11-28-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
+- [2020-11-28-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
+- [2020-11-28-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
+- [2020-11-28-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
+- [2020-11-28-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
+- [2020-11-28-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
+- [2020-11-28-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
+- [2020-11-28-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

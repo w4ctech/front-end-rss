@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-28 03:47:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 04:04:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-28-求助，-oracle-vm-virtualbox-关机后保存系统设置](https://www.v2ex.com/t/730072) 
+- [2020-11-28-南方求推荐可以外穿的睡衣](https://www.v2ex.com/t/730071) 
 - [2020-11-28-小米手环-5-的数据有办法同步到-Google-Fit-吗](https://www.v2ex.com/t/730070) 
 - [2020-11-28-big-Sur-随航无法使用，真的是-bug-sur？](https://www.v2ex.com/t/730069) 
 - [2020-11-28-iPhone12Pro-不绿屏-但是显示全黑图-背光就会点亮几秒](https://www.v2ex.com/t/730068) 
@@ -43,5 +45,3 @@
 - [2020-11-27-OSS-对象存储的全球加速方案](https://www.v2ex.com/t/730026) 
 - [2020-11-27-快来-分享下黑五都准备买什么吧](https://www.v2ex.com/t/730024) 
 - [2020-11-27-无法访问此网站-如何解决？](https://www.v2ex.com/t/730023) 
-- [2020-11-27-黑五---Paw-免费](https://www.v2ex.com/t/730022) 
-- [2020-11-27-一个游戏，有手机版和-PC-互通版，安装-PC-互通版后无法打开。。](https://www.v2ex.com/t/730021) 

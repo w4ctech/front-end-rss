@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 13:33:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 13:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -50,13 +50,8 @@
 - [2020-04-19-2020年-4-月-21日-星期二-晚上-9:30-Vue.js-作者尤雨溪与你相约前端圈的-B-站](https://www.ershicimi.com/p/69d20f9c5bb2de3da1dad85699594815) 
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
 - [2020-11-23-Vue-新语法糖引争议，网友：魔改-JavaScript，这是想挑战标准？](https://www.ershicimi.com/p/29285e860acb655c954465312314399e) 
-- [2020-11-24-深入了解-Vue3-响应式原理](https://www.ershicimi.com/p/05c75fda7e086dac7dc11a6a73ff9d38) 
-- [2020-11-23-Vue3源码-nextTick解析](https://www.ershicimi.com/p/d51475d104b740f1b2c866fd6d18fae6) 
-- [2020-11-10-一文搞定Vue-SSR，SEO就靠它了](https://www.ershicimi.com/p/5cf75c1502f5e63fb0fb349ee1d94a85) 
 - [2020-11-24-开发一个基于-Vue3.0-的组件库是一种怎样的体验？](https://www.ershicimi.com/p/7f5ab22f640a1ff604d2e70f166f5083) 
 - [2020-11-20-搞懂-Vue-，这一篇文章就够了！](https://www.ershicimi.com/p/a68ed33d0346aaeddd9ca1e9a6167e21) 
-- [2020-10-11-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/0590b6964c9fcfc3e48286bd7d353627) 
-- [2020-07-05-拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/ede822b2aced2aa401e9111858a599cb) 
 - [2020-11-23-开发一个基于-Vue3.0-的组件库是一种怎样的体验？](https://www.ershicimi.com/p/5d3238821ec796478f5fb4ce6a04adb5) 
 - [2020-11-22-为什么-Vue3-的-ref-让很多大佬操碎了心？](https://www.ershicimi.com/p/0c65d6a3916c18830c3a9075796cfbac) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
@@ -66,6 +61,7 @@
 - [2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/) 
 - [2016-10-13-Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/) 
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
+- [2020-11-20-奇舞周刊第-373-期：关于-Vue-3.0-Ref-sugar-提案的看法](https://www.ershicimi.com/p/e0ead05b1663301ee553bb5f70f13fe3) 
 - [2020-11-23-3天VUE实战，1比1还原抖音代码！](https://www.ershicimi.com/p/357d7929d9716f30eb66647a8de23f47) 
 - [2020-11-19-快人一步上手-Vue3.0](https://www.ershicimi.com/p/dfc983e441c2706df8b787642a0d4321) 
 - [2020-10-21-大厂面试必备，Vue框架的最佳实践与源码！](https://www.ershicimi.com/p/899cf8ef6e8c891110c447e6cf4560fd) 

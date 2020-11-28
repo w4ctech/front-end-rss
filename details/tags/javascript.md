@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 04:48:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 05:04:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -61,7 +61,6 @@
 - [2020-11-10-15分钟带你了解前端工程师必知的javascript设计模式附详细思维导图和源码](https://www.ershicimi.com/p/28c66d71c8fb00ba56cc460dd1de91ae) 
 - [2020-11-09-能在任意一种框架中复用的组件，太牛了!](https://www.ershicimi.com/p/c1c32fc5e3b6e25961b0a6df3e913735) 
 - [2020-11-24-JS数组奇巧淫技](https://www.ershicimi.com/p/993dc25845b722234af79e32f3952c3d) 
-- [2020-11-16-给前端开发者的-14-个-JavaScript-代码优化建议](https://www.ershicimi.com/p/bd698feaf9bcdfe422090e220eb01130) 
 - [2020-11-16-从理解到实现轻松掌握-ES6-中的迭代器](https://www.ershicimi.com/p/3795a41792370b270408c5350d3f5adf) 
 - [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
@@ -105,5 +104,6 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-11-28-软路由连接-poe.ac-一体机+ap-问题](https://www.v2ex.com/t/730081) 
 - [2020-11-28-用-Linux-开发的公司不多吗？为什么-Linux-办公软件适配这么差](https://www.v2ex.com/t/730062) 
 - [2020-11-27-面向DevSecOps的编码安全指南|JavaScript篇](https://sec.thief.one/article_content?a_id=c6059403ab7af1b768dafe48ebf38627) 

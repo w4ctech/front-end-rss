@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-28 23:23:39，:rocket: 更新条数: +3894， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-28 23:32:46，:rocket: 更新条数: +1021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-11-28-11月27日全国新增确诊病例6例-均为境外输入](https://m.caixin.com/m/2020-11-28/101633375.html) ![](assets/new.png)  
-- [2020-11-28-聚焦|张文宏：新冠+流感，合并感染冬季常见无须恐惧](http://m.opinion.caixin.com/m/2020-11-28/101633435.html) ![](assets/new.png)  
-- [2020-11-28-【境内疫情观察】全国新增6例境外输入病例（11月27日）](http://m.database.caixin.com/m/2020-11-28/101633496.html) ![](assets/new.png)  
-- [2020-11-28-大流行手记|11月27日：东南亚国家积极采购疫苗-美四成新冠死者出自养老院](https://m.caixin.com/m/2020-11-28/101633388.html) ![](assets/new.png)  
-- [2020-11-27-钟南山：应研发多种类型疫苗，哪一种最好现在还不知道](https://m.caixin.com/m/2020-11-27/101633147.html) ![](assets/new.png)  
-- [2020-11-27-独家|专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html) ![](assets/new.png)  
-- [2020-11-27-最新海外疫情：新冠感染超6088万-累计死亡超142万](http://m.international.caixin.com/m/2020-11-27/101633256.html) ![](assets/new.png)  
-- [2020-11-27-钟南山建议香港再次推行全民检测](https://m.caixin.com/m/2020-11-27/101633024.html) ![](assets/new.png)  
-- [2020-11-27-【境内疫情观察】全国新增5例境外输入病例（11月26日）](http://m.database.caixin.com/m/2020-11-27/101633045.html) ![](assets/new.png)  
-- [2020-11-27-大流行手记|11月26日：欧美节假季疫情恐加剧-全球性别平等受损](https://m.caixin.com/m/2020-11-27/101632915.html) ![](assets/new.png)  
-- [2020-11-27-聚焦|张文宏：控制经物流的海外输入性疫情](http://m.opinion.caixin.com/m/2020-11-27/101632910.html) ![](assets/new.png)  
-- [2020-11-26-满洲里共确诊11例新冠-现家庭、学校、小区聚集特征](https://m.caixin.com/m/2020-11-26/101632824.html) ![](assets/new.png)  
-- [2020-11-26-内蒙古新增本土确诊病例9例-均在满洲里](http://m.china.caixin.com/m/2020-11-26/101632701.html) ![](assets/new.png)  
-- [2020-11-26-【境内疫情观察】内蒙古新增9例本土确诊病例（11月25日）](http://m.database.caixin.com/m/2020-11-26/101632600.html) ![](assets/new.png)  
-- [2020-11-26-大流行手记|11月25日：英入境隔离期将缩至5天-美测试疫苗分发网络](https://m.caixin.com/m/2020-11-26/101632481.html) ![](assets/new.png)  
-- [2020-11-26-来华航班近两百份核酸报告雷同-使馆要求俄航司重检](http://m.companies.caixin.com/m/2020-11-26/101632663.html) ![](assets/new.png)  
-- [2020-11-25-天津两起疫情有不同源头-其中之一为进口猪头](https://m.caixin.com/m/2020-11-25/101632216.html) ![](assets/new.png)  
-- [2020-11-25-【境内疫情观察】内蒙古新增1例本土疑似病例（11月24日）](http://m.database.caixin.com/m/2020-11-25/101632194.html) ![](assets/new.png)  
-- [2020-11-25-大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html) ![](assets/new.png)  
-- [2020-11-25-新冠疫情传播“物染人”和“人染人”并存-非冷链运输也有传播风险](https://m.caixin.com/m/2020-11-25/101632416.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -892,6 +872,10 @@
 </summary>
 
 
+- [2020-11-28-京东单方面辞退38岁P7员工三次败诉；小米高管因错误言论致歉请辞；腾讯向抖音发300封律师函-|-Q](https://www.ershicimi.com/p/0146134db4940cc084aea9313b06930a) ![](assets/new.png)  
+- [2020-11-28-阿里云为什么要做多模数据库？](https://www.ershicimi.com/p/8decc2f0ae1e41b528f3b3a9f1ca4fa1) ![](assets/new.png)  
+- [2020-11-28-华为云AI开发者沙龙武汉专场-|-听华为云技术专家深扒人工智能“DNA”](https://www.ershicimi.com/p/194e73035f528739aa8444e7f03a940b) ![](assets/new.png)  
+- [2020-11-28-Akamai-Edge-Live-线上峰会——助力中国企业出海应对多方挑战-｜-Q推荐](https://www.ershicimi.com/p/889e329d5fc8f074e4ce2278e9eb1096) ![](assets/new.png)  
 - [2020-11-27-任正非告别荣耀：“离婚”后不要藕断丝连，要做华为最强竞争对手](https://www.ershicimi.com/p/d20adcba9a306be0f7c6a285ebe35307) ![](assets/new.png)  
 - [2020-11-27-F=ma，如何使创新具备加速度？](https://www.ershicimi.com/p/3409a99667c5eb5e4a2af9a096c2454b) ![](assets/new.png)  
 - [2020-11-27-为什么我们选择Java开发高频交易系统？](https://www.ershicimi.com/p/fb8e33fac8a8adced076843948fc9a68) ![](assets/new.png)  
@@ -908,10 +892,6 @@
 - [2020-11-25-构建云原生架构版图：安信证券服务化平台实践](https://www.ershicimi.com/p/c91a276fcf613b34fb6de5dd3a3359e1) ![](assets/new.png)  
 - [2020-11-25-美国给了台积电两亿美元：为建厂做基建](https://www.ershicimi.com/p/3e7ff4181eb67e3f7d4cc2b636a0a231) ![](assets/new.png)  
 - [2020-11-24-如何让密码学拯救你的“35岁危机”？｜-极客时间](https://www.ershicimi.com/p/2c9caacf18d7ac64a02d190f5173b6a7) ![](assets/new.png)  
-- [2020-11-24-66岁还在写代码，这个程序员想把bug扼杀在“摇篮”里](https://www.ershicimi.com/p/f81aa91d0a234fbc9c5c63232c9ec5a0) ![](assets/new.png)  
-- [2020-11-24-代码不止-|-2020-Google-开发者大会亮点回顾](https://www.ershicimi.com/p/eee5f9e8dbb4f0a6ccb992909f67e8a6) ![](assets/new.png)  
-- [2020-11-24-从HTTP到HTTP/3的发展简史](https://www.ershicimi.com/p/9b07e8b7a6dd46aa987c0c70a16d5e5b) ![](assets/new.png)  
-- [2020-11-24-自动驾驶梦碎？5年烧光25亿美元，Uber-拟出售无人驾驶部门ATG](https://www.ershicimi.com/p/1357b4f94ec744fbc93105430842bc23) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1142,19 +1122,19 @@
 - [2020-11-28-隐秘的-MySQL-类型转换](https://toutiao.io/k/27nwbyu) ![](assets/new.png)  
 - [2020-11-28-浅淡-Apache-Kylin-与-ClickHouse-的对比](https://toutiao.io/k/khggq5w) ![](assets/new.png)  
 - [2020-11-28-能快速提供一个子环境吗？](https://toutiao.io/k/95iyl54) ![](assets/new.png)  
-- [2020-11-28-给-Mac-添加右键菜单「使用-VSCode-打开」的方法](https://toutiao.io/k/i95k1iq) ![](assets/new.png)  
 - [2020-11-28-SkyWalking-8.0-版本的-MeterSystem-和网格监控](https://toutiao.io/k/jj1klps) ![](assets/new.png)  
+- [2020-11-28-给-Mac-添加右键菜单「使用-VSCode-打开」的方法](https://toutiao.io/k/i95k1iq) ![](assets/new.png)  
 - [2020-11-28-理解网络命名空间与-VETH-Pair-对](https://toutiao.io/k/mhpeesq) ![](assets/new.png)  
 - [2020-11-28-RoundShadowImageView：圆形图片的阴影，自由定制](https://toutiao.io/k/jk7k6y3) ![](assets/new.png)  
-- [2020-11-28-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
 - [2020-11-28-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
-- [2020-11-28-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
 - [2020-11-28-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
-- [2020-11-28-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
-- [2020-11-28-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
-- [2020-11-28-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
-- [2020-11-28-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
+- [2020-11-28-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
+- [2020-11-28-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
 - [2020-11-28-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
+- [2020-11-28-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
+- [2020-11-28-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
+- [2020-11-28-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
+- [2020-11-28-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
 - [2020-11-28-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

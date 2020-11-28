@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-28 23:23:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 23:32:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-11-28-京东单方面辞退38岁P7员工三次败诉；小米高管因错误言论致歉请辞；腾讯向抖音发300封律师函-|-Q](https://www.ershicimi.com/p/0146134db4940cc084aea9313b06930a) 
+- [2020-11-28-阿里云为什么要做多模数据库？](https://www.ershicimi.com/p/8decc2f0ae1e41b528f3b3a9f1ca4fa1) 
+- [2020-11-28-华为云AI开发者沙龙武汉专场-|-听华为云技术专家深扒人工智能“DNA”](https://www.ershicimi.com/p/194e73035f528739aa8444e7f03a940b) 
+- [2020-11-28-Akamai-Edge-Live-线上峰会——助力中国企业出海应对多方挑战-｜-Q推荐](https://www.ershicimi.com/p/889e329d5fc8f074e4ce2278e9eb1096) 
 - [2020-11-27-任正非告别荣耀：“离婚”后不要藕断丝连，要做华为最强竞争对手](https://www.ershicimi.com/p/d20adcba9a306be0f7c6a285ebe35307) 
 - [2020-11-27-F=ma，如何使创新具备加速度？](https://www.ershicimi.com/p/3409a99667c5eb5e4a2af9a096c2454b) 
 - [2020-11-27-为什么我们选择Java开发高频交易系统？](https://www.ershicimi.com/p/fb8e33fac8a8adced076843948fc9a68) 
@@ -21,7 +25,3 @@
 - [2020-11-25-构建云原生架构版图：安信证券服务化平台实践](https://www.ershicimi.com/p/c91a276fcf613b34fb6de5dd3a3359e1) 
 - [2020-11-25-美国给了台积电两亿美元：为建厂做基建](https://www.ershicimi.com/p/3e7ff4181eb67e3f7d4cc2b636a0a231) 
 - [2020-11-24-如何让密码学拯救你的“35岁危机”？｜-极客时间](https://www.ershicimi.com/p/2c9caacf18d7ac64a02d190f5173b6a7) 
-- [2020-11-24-66岁还在写代码，这个程序员想把bug扼杀在“摇篮”里](https://www.ershicimi.com/p/f81aa91d0a234fbc9c5c63232c9ec5a0) 
-- [2020-11-24-代码不止-|-2020-Google-开发者大会亮点回顾](https://www.ershicimi.com/p/eee5f9e8dbb4f0a6ccb992909f67e8a6) 
-- [2020-11-24-从HTTP到HTTP/3的发展简史](https://www.ershicimi.com/p/9b07e8b7a6dd46aa987c0c70a16d5e5b) 
-- [2020-11-24-自动驾驶梦碎？5年烧光25亿美元，Uber-拟出售无人驾驶部门ATG](https://www.ershicimi.com/p/1357b4f94ec744fbc93105430842bc23) 

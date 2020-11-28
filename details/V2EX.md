@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-28 07:32:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 07:48:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-28-大家有没有感觉，升级到-iPadOS-14.2-以后，-iPad-Pro-续航变差了很多？](https://www.v2ex.com/t/730118) 
+- [2020-11-28-V2-上有哪些聪明人？有哪些已发表的观点是你觉得很棒的？](https://www.v2ex.com/t/730117) 
 - [2020-11-28-求问，-c++-标准库中有没有类似-boost::iterator_facade-的类](https://www.v2ex.com/t/730115) 
 - [2020-11-28-iPhone-11-听完微信语音一直黑屏](https://www.v2ex.com/t/730112) 
 - [2020-11-28-深圳，第一辆车，已拿到粤-B-燃油车牌，预算-25-万内，需求内详](https://www.v2ex.com/t/730110) 
@@ -42,5 +44,3 @@
 - [2020-11-28-南方求推荐可以外穿的睡衣](https://www.v2ex.com/t/730071) 
 - [2020-11-28-小米手环-5-的数据有办法同步到-Google-Fit-吗](https://www.v2ex.com/t/730070) 
 - [2020-11-28-big-Sur-随航无法使用，真的是-bug-sur？](https://www.v2ex.com/t/730069) 
-- [2020-11-28-iPhone12Pro-不绿屏-但是显示全黑图-背光就会点亮几秒](https://www.v2ex.com/t/730068) 
-- [2020-11-28-1Password-今年黑-5-居然没活动，求推荐个替代方案！](https://www.v2ex.com/t/730067) 

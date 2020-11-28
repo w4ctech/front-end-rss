@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-28 19:32:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 19:48:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-28-BetterTouchTool-黑五-30%优惠](https://www.v2ex.com/t/730224) 
 - [2020-11-28-想入手一台手机，玩玩-kali-hunter，-andrax-之类的，大哥们有推荐吗](https://www.v2ex.com/t/730223) 
 - [2020-11-28-Spring-相关，有没有什么好的解决方案](https://www.v2ex.com/t/730222) 
 - [2020-11-28-有没有可能用-pe-系统获取-windows-开机密码？](https://www.v2ex.com/t/730221) 
@@ -42,4 +43,3 @@
 - [2020-11-28-clash-规则，大家都托管在哪里？](https://www.v2ex.com/t/730178) 
 - [2020-11-28-云计算和虚拟化，有啥区别呢？](https://www.v2ex.com/t/730177) 
 - [2020-11-28-文章分享《Emacs-入门指南》，欢迎前后浪们入坑](https://www.v2ex.com/t/730175) 
-- [2020-11-28-苹果为什么不在中国部署服务器](https://www.v2ex.com/t/730174) 

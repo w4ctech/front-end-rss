@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-28 17:07:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 17:23:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-28-iphone12-mini-屏幕在使用中突然变暗可能是硬件问题吗](https://www.v2ex.com/t/730219) 
 - [2020-11-28-ASA5505-使用相关问题](https://www.v2ex.com/t/730217) 
 - [2020-11-28-NS-国行可以买吗？](https://www.v2ex.com/t/730216) 
 - [2020-11-28-virmach-黑五这图也太搞了吧](https://www.v2ex.com/t/730215) 

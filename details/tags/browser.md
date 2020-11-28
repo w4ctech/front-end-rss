@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 09:47:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 10:04:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -33,6 +33,14 @@
 - [2020-11-21-抖音前端安全招前端（实习、高级都招）](https://www.ershicimi.com/p/cb4bcf2ebbdf8937d5ca6c8723e4b6a2) 
 - [2020-11-25-前端-api-请求缓存方案](https://www.ershicimi.com/p/c553ed06aab49e8ee5636c5c809b6423) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-11-18-postMessage-还能这样玩](https://www.ershicimi.com/p/3a7709204bdc61198e129868b53b7147) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
@@ -41,7 +49,6 @@
 - [2020-11-27-科技重绘金融产业天际线：ReFinTech大会展望金融数据化时代](https://www.ershicimi.com/p/3a80cb8b6b89e55567acb6cd43da1e60) 
 - [2020-11-26-美国重申中兴威胁美国国家安全，12-月将对华为做出最终裁决](https://www.ershicimi.com/p/65df2eeea4115ad80b460e76d0732450) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-11-28-请问-Firefox-83.0-如何自定义快捷键？](https://www.v2ex.com/t/730095) 
 - [2020-11-28-RoundShadowImageView：圆形图片的阴影，自由定制](https://toutiao.io/k/jk7k6y3) 
 - [2020-11-28-网络安全已成为美国国务院2020财年的主要挑战](https://sec.thief.one/article_content?a_id=4bba5349eb04ab9c05e3fda3a6b27407) 
 - [2020-11-28-独家专访-林明峰:新基建时代的网络安全底座](https://sec.thief.one/article_content?a_id=23235ee9f716a78c6b0c0a195ce5da6c) 

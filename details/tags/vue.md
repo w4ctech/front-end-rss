@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 17:32:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 17:48:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -46,6 +46,9 @@
 - [2020-11-20-搞懂-Vue-，这一篇文章就够了！](https://www.ershicimi.com/p/e91271124feaaf8608bdd76b7986dbb9) 
 - [2020-11-19-做了这个Vue3.0实战项目，大厂三面都过了，涨薪55%！（附项目全过程）](https://www.ershicimi.com/p/09476ef02dca5e14d229d67390122487) 
 - [2020-11-14-Vue-的使用，学会这些就够了！](https://www.ershicimi.com/p/4e574c60f59034658feed21166fd0ace) 
+- [2020-07-07-1元福利-|-深度剖析Vue-.js-3.0底层逻辑，带你向高级前端进阶！](https://www.ershicimi.com/p/b7eeaaa6276d65ebe0a5252368725728) 
+- [2020-04-19-2020年-4-月-21日-星期二-晚上-9:30-Vue.js-作者尤雨溪与你相约前端圈的-B-站](https://www.ershicimi.com/p/69d20f9c5bb2de3da1dad85699594815) 
+- [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
 - [2020-11-23-Vue-新语法糖引争议，网友：魔改-JavaScript，这是想挑战标准？](https://www.ershicimi.com/p/29285e860acb655c954465312314399e) 
 - [2020-11-24-深入了解-Vue3-响应式原理](https://www.ershicimi.com/p/05c75fda7e086dac7dc11a6a73ff9d38) 
 - [2020-11-23-Vue3源码-nextTick解析](https://www.ershicimi.com/p/d51475d104b740f1b2c866fd6d18fae6) 

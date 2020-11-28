@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-28 10:33:15，:rocket: 更新条数: +3893， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-28 10:47:57，:rocket: 更新条数: +3893， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-28-前端3-年-angular-好找工作不](https://www.v2ex.com/t/730148) ![](assets/new.png)  
 - [2020-11-28-有没有适合放在家里的小型服务器?](https://www.v2ex.com/t/730147) ![](assets/new.png)  
 - [2020-11-28-尝试找到理想、兴趣与工作三者间的平衡](https://www.v2ex.com/t/730146) ![](assets/new.png)  
 - [2020-11-28-火狐（firefox）windows-版可以根据网页的亮暗色切换滚动条样式了](https://www.v2ex.com/t/730145) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-11-28-steam-黑五，有没有那种开了作弊器后欺负电脑起来很爽的单机游戏？（我的显卡是-950M）](https://www.v2ex.com/t/730127) ![](assets/new.png)  
 - [2020-11-28-升级-Big-sur-后，坚果云云桥模式不可用了](https://www.v2ex.com/t/730126) ![](assets/new.png)  
 - [2020-11-28-M1-虚拟机运行-Arm-Windows-比-Surface-Pro-X-还快](https://www.v2ex.com/t/730125) ![](assets/new.png)  
-- [2020-11-28-电脑遇到一个神奇的问题，修电脑的大神们过来看看](https://www.v2ex.com/t/730124) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,13 +1146,13 @@
 - [2020-11-28-理解网络命名空间与-VETH-Pair-对](https://toutiao.io/k/mhpeesq) ![](assets/new.png)  
 - [2020-11-28-SkyWalking-8.0-版本的-MeterSystem-和网格监控](https://toutiao.io/k/jj1klps) ![](assets/new.png)  
 - [2020-11-28-RoundShadowImageView：圆形图片的阴影，自由定制](https://toutiao.io/k/jk7k6y3) ![](assets/new.png)  
-- [2020-11-28-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
+- [2020-11-28-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
 - [2020-11-28-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
-- [2020-11-28-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
 - [2020-11-28-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
 - [2020-11-28-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
-- [2020-11-28-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
+- [2020-11-28-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
 - [2020-11-28-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-28-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
 - [2020-11-28-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
 - [2020-11-28-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
 - [2020-11-28-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  

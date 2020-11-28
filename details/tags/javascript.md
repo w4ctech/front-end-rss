@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 13:22:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 13:33:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -30,8 +30,6 @@
 - [2020-11-04-Web-Component-会是前端未来吗？](https://www.ershicimi.com/p/631062c7999138e04ace05de7b9e56ed) 
 - [2020-11-25-优化-JS-条件语句的-5-个技巧](https://www.ershicimi.com/p/3bf0138638c78f91a429cbd6cf828b94) 
 - [2020-11-18-JavaScript-那些写出来会被同事揍的骚操作](https://www.ershicimi.com/p/b198707f9470404036e8af5bf50c2d7d) 
-- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
-- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-11-21-【第2124期】CommonJS-是如何导致打包后体积增大的？](https://www.ershicimi.com/p/aee79a43444c27e0bb17190a70b3b02f) 
 - [2020-11-21-2.8-万-Star！生成虚假内容的神器：faker.js](https://www.ershicimi.com/p/d841030d7bd90ef4f381345dda8975df) 
 - [2020-11-26-秒杀其他按键精灵，支持VS-Code，这个JavaScript自动化软件居然还有人不知道](https://www.ershicimi.com/p/fe88cab6dafd556fd0a49b054de51e81) 
@@ -93,7 +91,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
-- [2020-11-27-奇舞周刊第-374-期：用-JS-写一个-JS-解释器](https://www.ershicimi.com/p/b050338487ebd5d055a8966f6ec9a11f) 
+- [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2020-11-28-手写实现Promise详解](https://juejin.im/post/6900135549395271688) 
 - [2020-11-28-从Promise链理解Event-Loop](https://juejin.im/post/6900137788960669709) 

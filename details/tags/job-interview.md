@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 09:33:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 09:47:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -35,6 +35,5 @@
 - [2020-11-25-面试官就是这么欺负人：new-Object到底占用几个字节？](https://www.ershicimi.com/p/b56f88d1f40b017ef8816508ad42d173) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-11-28-base-杭州，阿里-1688-部门急招，大量-HC，现在面试可年后入职！](https://www.v2ex.com/t/730123) 
-- [2020-11-28-因心脏病＋重度焦虑待业-2-年，我该怎么向面试官解释](https://www.v2ex.com/t/730089) 
 - [2020-11-28-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
 - [2020-11-26-国家计算机网络应急技术处理协调中心省级分中心2021年度公开招聘公...](https://sec.thief.one/article_content?a_id=8d73e92ffa26290e158748e3247ea791) 

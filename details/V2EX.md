@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-28 04:30:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 04:41:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-28-Typescript-是个好东西，写代码有种安心的感觉，不像写纯粹的-JS，忐忑不安，哈哈](https://www.v2ex.com/t/730075) 
+- [2020-11-28-只要涉及到金钱的说谎都是诈骗吗？](https://www.v2ex.com/t/730074) 
 - [2020-11-28-请问搭载-M1-芯片的-MacBook-如何运行-iOS-应用呢？](https://www.v2ex.com/t/730073) 
 - [2020-11-28-求助，-oracle-vm-virtualbox-关机后保存系统设置](https://www.v2ex.com/t/730072) 
 - [2020-11-28-南方求推荐可以外穿的睡衣](https://www.v2ex.com/t/730071) 
@@ -44,4 +46,3 @@
 - [2020-11-27-DIY-显示器](https://www.v2ex.com/t/730028) 
 - [2020-11-27-类似工资倒挂的情况，大家是怎么看待的？](https://www.v2ex.com/t/730027) 
 - [2020-11-27-OSS-对象存储的全球加速方案](https://www.v2ex.com/t/730026) 
-- [2020-11-27-快来-分享下黑五都准备买什么吧](https://www.v2ex.com/t/730024) 

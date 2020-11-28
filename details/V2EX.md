@@ -1,15 +1,19 @@
-:alarm_clock: 更新时间: 2020-11-28 14:48:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 15:04:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-28-slb-路径转发和-nginx-反向代理有什么不同？](https://www.v2ex.com/t/730201) 
+- [2020-11-28-Apple-Silicon-设备如果重装系统失败可以参考这个视频](https://www.v2ex.com/t/730200) 
+- [2020-11-28-Nonstop-外链自动跳转插件](https://www.v2ex.com/t/730199) 
+- [2020-11-28-冬天了，我的-MacBook-Pro-2016-电池充不进电了](https://www.v2ex.com/t/730198) 
+- [2020-11-28-请推荐能批量编辑-amr、m4a-文件（准确的说是“FFmpeg-编码音频文件”？）tag-的工具。](https://www.v2ex.com/t/730197) 
 - [2020-11-28-求救-windows-恶意程序，屏幕下方会出现一排圆球，有见过的-V-友吗？](https://www.v2ex.com/t/730196) 
 - [2020-11-28-windows-下有没有开箱即用的系统状态监控的大屏/dashboard，比任务管理器好看点的？](https://www.v2ex.com/t/730195) 
 - [2020-11-28-无端被-B-站封禁，理由是我账号有风险，-WTF，有解封可能么？](https://www.v2ex.com/t/730193) 
 - [2020-11-28-MBP-16G-1T-M1-15-号订购的，目前还是处理中…](https://www.v2ex.com/t/730192) 
-- [2020-11-28-哎、能要求删帖吗？](https://www.v2ex.com/t/730190) 
 - [2020-11-28-建议不要买没有售后的外国品牌电子产品，如-Hyundai-的电子产品，你们怎么看？](https://www.v2ex.com/t/730189) 
 - [2020-11-28-kCLErrorDomain-Code=2-ios-蜂窝网络无法定位，求大佬解决](https://www.v2ex.com/t/730188) 
 - [2020-11-28-北京的移动宽带网速如何？](https://www.v2ex.com/t/730187) 
@@ -39,8 +43,3 @@
 - [2020-11-28-MBP-16G-M1-版本到手了，先拿魔兽世界试了下，真香](https://www.v2ex.com/t/730154) 
 - [2020-11-28-typora-中将-markdown-导出成-html，是咋把-latex-公式直接导出成-svg-的](https://www.v2ex.com/t/730153) 
 - [2020-11-28-给毕设的小前端一个毕设作品。音乐+音乐爬虫。简单型](https://www.v2ex.com/t/730152) 
-- [2020-11-28-使用“健身记录指针表盘”出现这大黑线是什么情况-？](https://www.v2ex.com/t/730151) 
-- [2020-11-28-ubuntu-装-go-真是噩梦啊](https://www.v2ex.com/t/730150) 
-- [2020-11-28-招远程-golang，全职哦](https://www.v2ex.com/t/730149) 
-- [2020-11-28-前端3-年-angular-好找工作不](https://www.v2ex.com/t/730148) 
-- [2020-11-28-有没有适合放在家里的小型服务器?](https://www.v2ex.com/t/730147) 

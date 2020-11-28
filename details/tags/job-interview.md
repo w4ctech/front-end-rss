@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 13:07:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 13:22:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -28,9 +28,6 @@
 - [2020-11-21-【面试】764高频前端开发面试问题及答案整理](https://www.ershicimi.com/p/1c443dd468ca04588d1f5b16c235dc72) 
 - [2020-11-26-新出炉的阿里、腾讯、美团以及网易等一线公司面试总结](https://www.ershicimi.com/p/03e97cd833477bed46996595e3b56036) 
 - [2020-11-21-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/9f053eb61e3d582595fa1fdfbc309cf4) 
-- [2020-11-24-腾讯、华为前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557) 
-- [2020-11-11-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/f8720b9ba9028e4081b1345e6367f3c5) 
-- [2020-10-20-阿里前端技术岗发布+内部面试题手册（含P5-P7）](https://www.ershicimi.com/p/5530422518db2c1549a9bb5ab496a15f) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-11-25-面试官就是这么欺负人：new-Object到底占用几个字节？](https://www.ershicimi.com/p/b56f88d1f40b017ef8816508ad42d173) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 

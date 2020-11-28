@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 13:07:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 13:22:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -94,7 +94,6 @@
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
 - [2020-11-27-奇舞周刊第-374-期：用-JS-写一个-JS-解释器](https://www.ershicimi.com/p/b050338487ebd5d055a8966f6ec9a11f) 
-- [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2020-11-28-手写实现Promise详解](https://juejin.im/post/6900135549395271688) 
 - [2020-11-28-从Promise链理解Event-Loop](https://juejin.im/post/6900137788960669709) 

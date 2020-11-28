@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 10:08:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 10:25:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -66,4 +66,3 @@
 - [2020-11-26-金融行业网络安全等级保护测评、实施标准正式发布-附下载](https://sec.thief.one/article_content?a_id=7465c8bd5f47d5ca68d755dfd9211b89) 
 - [2020-11-26-Web安全:服务器包含注入](https://sec.thief.one/article_content?a_id=a1a0ddf860064dc50a6117b197f444cb) 
 - [2020-11-26-【安全圈】又打压!外媒:印度再禁43款App,多数来自中国](https://sec.thief.one/article_content?a_id=0f0e866e274850adbadecd53e6acffb4) 
-- [2020-11-25-ATT&CK驱动下的安全运营数据分析,如何“落地”?](https://sec.thief.one/article_content?a_id=e427fd37b5c54eb2afb0abb39c18329d) 

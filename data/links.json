@@ -18301,13 +18301,13 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "CSS 知识总结",
-        "link": "https://juejin.im/post/6900020273388224519",
-        "date": "2020-11-27"
+        "title": "【FunnyCoder第0期】非科班前端老司机从2K到40K之路",
+        "link": "https://juejin.im/post/6900092004043063309",
+        "date": "2020-11-28"
       },
       {
-        "title": "算法入门-排序算法",
-        "link": "https://juejin.im/post/6900014062713700366",
+        "title": "CSS 知识总结",
+        "link": "https://juejin.im/post/6900020273388224519",
         "date": "2020-11-27"
       },
       {
@@ -18710,6 +18710,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "尝试找到理想、兴趣与工作三者间的平衡",
+        "link": "https://www.v2ex.com/t/730146",
+        "date": "2020-11-28"
+      },
+      {
         "title": "火狐（firefox）windows 版可以根据网页的亮暗色切换滚动条样式了",
         "link": "https://www.v2ex.com/t/730145",
         "date": "2020-11-28"
@@ -19054,18 +19059,18 @@
         "date": "2020-11-28"
       },
       {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
         "date": "2020-11-28"
       },
       {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-28"
       },
       {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
         "date": "2020-11-28"
       },
       {
@@ -19079,38 +19084,8 @@
         "date": "2020-11-28"
       },
       {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
-        "date": "2020-11-28"
-      },
-      {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-11-28"
-      },
-      {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-11-28"
-      },
-      {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
-        "date": "2020-11-28"
-      },
-      {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
-        "date": "2020-11-28"
-      },
-      {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
-        "date": "2020-11-28"
-      },
-      {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
+        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
+        "link": "https://toutiao.io/k/5stu129",
         "date": "2020-11-28"
       },
       {
@@ -19119,13 +19094,43 @@
         "date": "2020-11-28"
       },
       {
-        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
-        "link": "https://toutiao.io/k/5shq47n",
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
         "date": "2020-11-28"
       },
       {
         "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
         "link": "https://toutiao.io/k/n4lq0bo",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-11-28"
       }
     ]
@@ -19135,6 +19140,51 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "勒索攻击新趋势,DarkSide解密工具",
+        "link": "https://sec.thief.one/article_content?a_id=44bd96cf4066216f9d8bb4eaf8de13ee",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "BUF大事件丨上海市网信办约谈圆通速递责令整改;印度再禁43款中国...",
+        "link": "https://sec.thief.one/article_content?a_id=d50b63d16e0b779939f7c963f6520aee",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "巅峰对决,勇者胜!第六题 《兵刃相向》正在火热进行中!",
+        "link": "https://sec.thief.one/article_content?a_id=53954e4ca8e82648106cc03c1bb6226f",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "世界互联网大会·互联网发展论坛系列活动举办",
+        "link": "https://sec.thief.one/article_content?a_id=95a69b70f77e960616f6c5920a9616a9",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "C#中的Module Stomping 代码注入技术",
+        "link": "https://sec.thief.one/article_content?a_id=d4b5ae2c64d257887e64e963aafbd4e6",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "利用命名管道进行权限提升",
+        "link": "https://sec.thief.one/article_content?a_id=3e624e916adb04a44078a5f8e5ed9077",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "牛聘|2020年度岗位招聘第15期",
+        "link": "https://sec.thief.one/article_content?a_id=2cc8c6a148e364e9c6a08807d0e1ae15",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "新数据显示少于1个BTC的钱包仅占比特币市值的5%",
+        "link": "https://sec.thief.one/article_content?a_id=50d39c864b7456c33ffa962e30703f2f",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "1.5 万 Star!大大提升终端体验的好工具:Rich",
+        "link": "https://sec.thief.one/article_content?a_id=af0c557bae9079b3e700be35b33240ce",
+        "date": "2020-11-28"
+      },
       {
         "title": "Windows 7和Windows server 2008 0 day漏洞",
         "link": "https://sec.thief.one/article_content?a_id=90ade66e90646bb14684c2844bf39b50",
@@ -19589,51 +19639,6 @@
         "title": "感恩节感恩12579位社区、社群的小伙伴:有你们才有社区今天的强大...",
         "link": "https://sec.thief.one/article_content?a_id=f7312f9080fec1317f8cb7600466b014",
         "date": "2020-11-26"
-      },
-      {
-        "title": "陆舜教授:IMpower132证实亚裔获益更明显,阿替利珠单抗为晚期非...",
-        "link": "https://sec.thief.one/article_content?a_id=d2922c1af20886b17a2c7f293af6ec02",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "零信任?我信任!网安创新系列沙龙(12.05深圳)",
-        "link": "https://sec.thief.one/article_content?a_id=bbcc6763ef27171375bc391c1ba8d60d",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "白嫖真香系列-pwn个人专用虚拟机分享",
-        "link": "https://sec.thief.one/article_content?a_id=9d08a67531f5bfc4e3ea386780618af3",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "ATT&CK驱动下的安全运营数据分析,如何“落地”?",
-        "link": "https://sec.thief.one/article_content?a_id=e427fd37b5c54eb2afb0abb39c18329d",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "奇安信集团与图灵人工智能研究院签约战略合作",
-        "link": "https://sec.thief.one/article_content?a_id=6bfb0c0fa9e59f54e7237c296ec29209",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "微信第 1 行代码曝光!",
-        "link": "https://sec.thief.one/article_content?a_id=3af58df659dd924e412e14e6ea46ee36",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "《中国区块链发展报告(2020)》导读:全球区块链政策及监管重点趋...",
-        "link": "https://sec.thief.one/article_content?a_id=444b60df7401e804ecf0a8d29b94d6de",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "浅谈SVG的两个黑魔法",
-        "link": "https://sec.thief.one/article_content?a_id=2f3d747cd5afaec0c82296f71b09108d",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "PSMDATP:一款针对MDATP的PowerShell管理模块",
-        "link": "https://sec.thief.one/article_content?a_id=b84afdb4701981be58d9f67fce87c137",
-        "date": "2020-11-25"
       }
     ]
   },

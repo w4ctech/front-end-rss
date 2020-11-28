@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 10:08:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 10:25:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -22,5 +22,4 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-11-25-图解ElasticSearch-搜索原理](https://www.ershicimi.com/p/004a1ad76ab30b0657f69117c7835164) 
 - [2020-11-24-从HTTP到HTTP/3的发展简史](https://www.ershicimi.com/p/9b07e8b7a6dd46aa987c0c70a16d5e5b) 
-- [2020-11-27-算法入门-排序算法](https://juejin.im/post/6900014062713700366) 
 - [2020-11-28-（DS）小米-fastboot-进不去，-9008-要授权，还能刷机吗？](https://www.v2ex.com/t/730142) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-28 07:07:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 07:24:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-28-iPhone-11-听完微信语音一直黑屏](https://www.v2ex.com/t/730112) 
 - [2020-11-28-深圳，第一辆车，已拿到粤-B-燃油车牌，预算-25-万内，需求内详](https://www.v2ex.com/t/730110) 
 - [2020-11-28-JavaScript-循环问题](https://www.v2ex.com/t/730109) 
 - [2020-11-28-特别好奇-当线上出现个-bug-大家的团队都是怎么对待的？](https://www.v2ex.com/t/730108) 
@@ -45,5 +46,3 @@
 - [2020-11-28-M1-已停止开发了，有报道称-16-寸-MacBook-将会用上-M1X](https://www.v2ex.com/t/730066) 
 - [2020-11-28-请问搭载-M1-芯片的-MacBook-如何运行-iOS-应用？](https://www.v2ex.com/t/730065) 
 - [2020-11-28-970-EVO-Plus-+-华硕-STRIX-ARION-硬盘盒扩展-mac-存储靠谱吗](https://www.v2ex.com/t/730064) 
-- [2020-11-28-各位大佬，有没有-95-后的面试官啊](https://www.v2ex.com/t/730063) 
-- [2020-11-28-用-Linux-开发的公司不多吗？为什么-Linux-办公软件适配这么差](https://www.v2ex.com/t/730062) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-28 04:09:32，:rocket: 更新条数: +3895， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-28 04:30:56，:rocket: 更新条数: +3895， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -954,10 +954,10 @@
 </summary>
 
 
+- [2020-11-27-CSS-知识总结](https://juejin.im/post/6900020273388224519) ![](assets/new.png)  
 - [2020-11-27-算法入门-排序算法](https://juejin.im/post/6900014062713700366) ![](assets/new.png)  
-- [2020-11-27-手把手带你青铜上钻石之——webpack加餐篇](https://juejin.im/post/6900006699483004942) ![](assets/new.png)  
-- [2020-11-27-【查漏补缺】那些漏掉的面试知识](https://juejin.im/post/6900005459856457735) ![](assets/new.png)  
-- [2020-11-27-简单易懂BFC](https://juejin.im/post/6899996104478326798) ![](assets/new.png)  
+- [2020-11-27-重新认识flex布局](https://juejin.im/post/6899805997452230669) ![](assets/new.png)  
+- [2020-11-26-面向-Model-编程的前端架构设计](https://juejin.im/post/6899647897508577294) ![](assets/new.png)  
 - [2020-08-17-Vue-Router](https://juejin.im/post/6862215979745673224) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-28-请问搭载-M1-芯片的-MacBook-如何运行-iOS-应用呢？](https://www.v2ex.com/t/730073) ![](assets/new.png)  
 - [2020-11-28-求助，-oracle-vm-virtualbox-关机后保存系统设置](https://www.v2ex.com/t/730072) ![](assets/new.png)  
 - [2020-11-28-南方求推荐可以外穿的睡衣](https://www.v2ex.com/t/730071) ![](assets/new.png)  
 - [2020-11-28-小米手环-5-的数据有办法同步到-Google-Fit-吗](https://www.v2ex.com/t/730070) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-11-28-30-岁程序员，公司让转管理，走产品方向，各位觉得可行吗？](https://www.v2ex.com/t/730053) ![](assets/new.png)  
 - [2020-11-28-好歌推荐，刘小慧-加减乘除，会让你心情变快乐的歌](https://www.v2ex.com/t/730052) ![](assets/new.png)  
 - [2020-11-28-2021-广州有什么值得去的好公司？](https://www.v2ex.com/t/730050) ![](assets/new.png)  
-- [2020-11-28-Paw-黑五免费（我个人认为最好的-API-请求工具）](https://www.v2ex.com/t/730048) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,22 +1140,22 @@
 - [2020-11-28-vivo-商城前端架构升级：多端统一探索、实践与展望篇](https://toutiao.io/k/b6bcaiu) ![](assets/new.png)  
 - [2020-11-28-隐秘的-MySQL-类型转换](https://toutiao.io/k/27nwbyu) ![](assets/new.png)  
 - [2020-11-28-能快速提供一个子环境吗？](https://toutiao.io/k/95iyl54) ![](assets/new.png)  
+- [2020-11-28-大数据基础：Spark-工作原理及基础概念](https://toutiao.io/k/r2bbmjz) ![](assets/new.png)  
 - [2020-11-28-给-Mac-添加右键菜单「使用-VSCode-打开」的方法](https://toutiao.io/k/i95k1iq) ![](assets/new.png)  
 - [2020-11-28-浅淡-Apache-Kylin-与-ClickHouse-的对比](https://toutiao.io/k/khggq5w) ![](assets/new.png)  
 - [2020-11-28-理解网络命名空间与-VETH-Pair-对](https://toutiao.io/k/mhpeesq) ![](assets/new.png)  
-- [2020-11-28-大数据基础：Spark-工作原理及基础概念](https://toutiao.io/k/r2bbmjz) ![](assets/new.png)  
 - [2020-11-28-SkyWalking-8.0-版本的-MeterSystem-和网格监控](https://toutiao.io/k/jj1klps) ![](assets/new.png)  
 - [2020-11-28-RoundShadowImageView：圆形图片的阴影，自由定制](https://toutiao.io/k/jk7k6y3) ![](assets/new.png)  
-- [2020-11-28-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
-- [2020-11-28-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
-- [2020-11-28-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
-- [2020-11-28-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
+- [2020-11-28-推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
 - [2020-11-28-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
-- [2020-11-28-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
-- [2020-11-28-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
-- [2020-11-28-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
-- [2020-11-28-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
+- [2020-11-28-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
 - [2020-11-28-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
+- [2020-11-28-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-28-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
+- [2020-11-28-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
+- [2020-11-28-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
+- [2020-11-28-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
+- [2020-11-28-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 16:56:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 17:03:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -12,6 +12,7 @@
 - [2020-04-07-nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c) 
 - [2020-11-25-Electron-11-正式发布：支持苹果-M1-芯片](https://www.ershicimi.com/p/ccf56db0949f80eed83e17e1545b4262) 
 - [2020-11-19-怎样从Express-API发送一致的错误响应](https://www.ershicimi.com/p/f2dc7a4fd3838dfa92c7cda398fd4441) 
+- [2020-11-16-基于nodejs线上代码热部署原理与实现](https://www.ershicimi.com/p/53d9a863e36a5c67c8387dda20cb581c) 
 - [2020-08-02-如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082) 
 - [2020-11-20-腾讯IMWeb团队是如何使用-NodeJS-实现-JWT-原理](https://www.ershicimi.com/p/fa09b876f461cb834dbd3fa9b9baa883) 
 - [2020-11-25-多图生动详解浏览器与Node环境下的Event-Loop](https://www.ershicimi.com/p/1d8697ad27c7072d476a6b83c6cb6216) 

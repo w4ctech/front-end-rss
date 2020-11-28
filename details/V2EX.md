@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-28 01:03:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 01:09:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-28-索尼-9100H-音画不同步](https://www.v2ex.com/t/730040) 
 - [2020-11-28-PyCon-China-2020（线上）今天开幕](https://www.v2ex.com/t/730038) 
 - [2020-11-28-中长期定投应该选哪个指数呢？](https://www.v2ex.com/t/730037) 
 - [2020-11-28-想考-k8s-CKA-认证的朋友-不要错过黑五优惠啊](https://www.v2ex.com/t/730036) 

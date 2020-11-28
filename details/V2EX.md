@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-28 14:07:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 14:25:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-28-MBP-16G-1T-M1-15-号订购的，目前还是处理中…](https://www.v2ex.com/t/730192) 
 - [2020-11-28-哎、能要求删帖吗？](https://www.v2ex.com/t/730190) 
 - [2020-11-28-建议不要买没有售后的外国品牌电子产品，如-Hyundai-的电子产品，你们怎么看？](https://www.v2ex.com/t/730189) 
 - [2020-11-28-kCLErrorDomain-Code=2-ios-蜂窝网络无法定位，求大佬解决](https://www.v2ex.com/t/730188) 
@@ -43,4 +44,3 @@
 - [2020-11-28-尝试找到理想、兴趣与工作三者间的平衡](https://www.v2ex.com/t/730146) 
 - [2020-11-28-火狐（firefox）windows-版可以根据网页的亮暗色切换滚动条样式了](https://www.v2ex.com/t/730145) 
 - [2020-11-28-坐标西安，明年打算买房，买哪个区域?](https://www.v2ex.com/t/730143) 
-- [2020-11-28-（DS）小米-fastboot-进不去，-9008-要授权，还能刷机吗？](https://www.v2ex.com/t/730142) 

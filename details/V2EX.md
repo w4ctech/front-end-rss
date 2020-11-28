@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-28 01:09:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 01:38:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-28-9000-元购买-x1-carbon-i7-10710U-16G-512GSSD-FHD-合适吗](https://www.v2ex.com/t/730044) 
+- [2020-11-28-想问下各位的-airpods-pro-有出现降噪变差的情况吗](https://www.v2ex.com/t/730043) 
+- [2020-11-28-台式机添加蓝牙。用来连接-airpods-和蓝牙键盘](https://www.v2ex.com/t/730042) 
+- [2020-11-28-现在收二手-mbp-16-寸-低配,-什么价位合适。](https://www.v2ex.com/t/730041) 
 - [2020-11-28-索尼-9100H-音画不同步](https://www.v2ex.com/t/730040) 
 - [2020-11-28-PyCon-China-2020（线上）今天开幕](https://www.v2ex.com/t/730038) 
 - [2020-11-28-中长期定投应该选哪个指数呢？](https://www.v2ex.com/t/730037) 
@@ -40,7 +44,3 @@
 - [2020-11-27-求一个-bot](https://www.v2ex.com/t/729999) 
 - [2020-11-27-有蛋壳的兄弟吗？想拜托查点信息（我自己的个人信息）](https://www.v2ex.com/t/729998) 
 - [2020-11-27-有老哥用-Linux-玩游戏吗？](https://www.v2ex.com/t/729995) 
-- [2020-11-27-问一个关于-PHP--screw-的问题，是不是加密的密钥写进-so-文件里了？](https://www.v2ex.com/t/729994) 
-- [2020-11-27-ObjectiveSQL-稳定版本-1.4.0-发布了](https://www.v2ex.com/t/729993) 
-- [2020-11-27-mbp-外接显示器后怎么把笔记本屏幕上的桌面及打开的全屏程序全都移过去](https://www.v2ex.com/t/729992) 
-- [2020-11-27-yori，一个提升-windows-命令行使用体验的-shell（cmd-替代）](https://www.v2ex.com/t/729991) 

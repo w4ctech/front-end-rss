@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-11-28 05:32:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 05:48:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-28-安利一个在线数据模拟的网站，-https://www.apilab.cn](https://www.v2ex.com/t/730088) 
+- [2020-11-28-升级到什么系统好？](https://www.v2ex.com/t/730087) 
+- [2020-11-28-M1-的-RMBP-值得买吗？](https://www.v2ex.com/t/730086) 
+- [2020-11-28-升级到-Big-Sur-经常-iCloud-备份-syncdefaultsd-进程](https://www.v2ex.com/t/730085) 
+- [2020-11-28-xr-刷地铁交通卡-必须解锁亮屏才能刷-是什么原因啊](https://www.v2ex.com/t/730084) 
 - [2020-11-28-最近有没有大佬想搞开源项目啊，最好是-C-的比较底层的轮子，想加入！](https://www.v2ex.com/t/730083) 
 - [2020-11-28-想找一个最便宜的黑白打印机筹备方案](https://www.v2ex.com/t/730082) 
 - [2020-11-28-软路由连接-poe.ac-一体机+ap-问题](https://www.v2ex.com/t/730081) 
@@ -42,7 +47,3 @@
 - [2020-11-28-台式机添加蓝牙。用来连接-airpods-和蓝牙键盘](https://www.v2ex.com/t/730042) 
 - [2020-11-28-现在收二手-mbp-16-寸-低配,-什么价位合适。](https://www.v2ex.com/t/730041) 
 - [2020-11-28-索尼-9100H-音画不同步](https://www.v2ex.com/t/730040) 
-- [2020-11-28-PyCon-China-2020（线上）今天开幕](https://www.v2ex.com/t/730038) 
-- [2020-11-28-中长期定投应该选哪个指数呢？](https://www.v2ex.com/t/730037) 
-- [2020-11-28-想考-k8s-CKA-认证的朋友-不要错过黑五优惠啊](https://www.v2ex.com/t/730036) 
-- [2020-11-27-黑五-AdGuard-超级折扣](https://www.v2ex.com/t/730035) 

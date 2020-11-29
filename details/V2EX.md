@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-29 03:35:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 03:47:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-29-m1-芯片-mac-恢复模式-抹掉整个硬盘出错.-无法卸载-disk0-上的宗卷,因为它正被进程-0-kernel-使用.](https://www.v2ex.com/t/730272) 
+- [2020-11-29-很好奇：这哥们真的这么牛？](https://www.v2ex.com/t/730271) 
+- [2020-11-29-MacBook-Pro-新机电池循环-2，官网查序列号「购买日期未验证」，这情况正常吗？](https://www.v2ex.com/t/730268) 
 - [2020-11-29-MacBook-Pro-M1-8+512G-使用中的几个现象](https://www.v2ex.com/t/730264) 
 - [2020-11-29-MEGA-下载，中途打断会怎么样？](https://www.v2ex.com/t/730263) 
 - [2020-11-29-Mac-送去维修期间，工作有什么过度的方案吗？](https://www.v2ex.com/t/730261) 
@@ -37,8 +40,3 @@
 - [2020-11-28-2022-年秋季毕业的学生，应该走什么方向开始准备就业？望各位前辈建议](https://www.v2ex.com/t/730225) 
 - [2020-11-28-BetterTouchTool-黑五-30%优惠](https://www.v2ex.com/t/730224) 
 - [2020-11-28-想入手一台手机，玩玩-kali-hunter，-andrax-之类的，大哥们有推荐吗](https://www.v2ex.com/t/730223) 
-- [2020-11-28-Spring-相关，有没有什么好的解决方案](https://www.v2ex.com/t/730222) 
-- [2020-11-28-有没有可能用-pe-系统获取-windows-开机密码？](https://www.v2ex.com/t/730221) 
-- [2020-11-28-甲方公司领导不把开发当人看](https://www.v2ex.com/t/730220) 
-- [2020-11-28-iphone12-mini-屏幕在使用中突然变暗可能是硬件问题吗](https://www.v2ex.com/t/730219) 
-- [2020-11-28-ASA5505-使用相关问题](https://www.v2ex.com/t/730217) 

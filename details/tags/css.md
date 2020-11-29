@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 18:08:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 18:28:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -14,7 +14,6 @@
 - [2020-11-29-【项目实战】用CSS实现一个抽奖转盘附详细代码+思路](https://www.ershicimi.com/p/251df01a107a45a389746eeb9620756a) 
 - [2020-11-28-探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/fd2398f9350d5f5cddaf8749fa25a829) 
 - [2020-11-26-3分钟教你用css3做一个求婚小动画！](https://www.ershicimi.com/p/101ba189865f1ede3c15d39497d6285b) 
-- [2020-10-17-超魔性神曲《Serverless-之歌》，酷炫洗脑！](https://www.ershicimi.com/p/f989950b952885d7b8eb3f1bc58e7273) 
 - [2020-11-27-低成本深色模式CSS实现技术探索与拓展](https://www.zhangxinxu.com/wordpress/2020/11/css-mix-blend-mode-filter-dark-theme/) 
 - [2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) 
 - [2020-10-24-图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/) 

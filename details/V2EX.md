@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-29 08:47:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 09:04:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-29-French-tech-needs-you!](https://www.v2ex.com/t/730334) 
+- [2020-11-29-Pear-Admin-Think-基于-Thinkphp6-的后台管理系统，正式开源](https://www.v2ex.com/t/730333) 
 - [2020-11-29-有没有适合-iPhone-全家桶充电的多口充电头？](https://www.v2ex.com/t/730330) 
 - [2020-11-29-如何改变自己思考时的小动作（抓头发）](https://www.v2ex.com/t/730329) 
 - [2020-11-29-FastAPI-的接口中使用-asyncio.Lock-效率怎么这么低？获取和释放都要几秒](https://www.v2ex.com/t/730328) 
@@ -41,4 +43,3 @@
 - [2020-11-29-请坛贤推荐老人手机](https://www.v2ex.com/t/730287) 
 - [2020-11-29-macOS-上是否可以实现按住鼠标左键再按-c-复制](https://www.v2ex.com/t/730286) 
 - [2020-11-29-现在的各种云计算是不是也是在搞蛋壳模式？](https://www.v2ex.com/t/730285) 
-- [2020-11-29-Apple-Music-如何将一首歌加到另外一个专辑中去呢？](https://www.v2ex.com/t/730282) 

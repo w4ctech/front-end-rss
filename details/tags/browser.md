@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 01:54:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 02:04:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -52,6 +52,7 @@
 - [2020-11-26-美国重申中兴威胁美国国家安全，12-月将对华为做出最终裁决](https://www.ershicimi.com/p/65df2eeea4115ad80b460e76d0732450) 
 - [2020-11-28-浅析URL](https://juejin.im/post/6900104581406654477) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-29-之前-V-站大佬开发了个自选基金助手-Chrome-插件，我给移植到了-Web-上](https://www.v2ex.com/t/730243) 
 - [2020-11-29-postgres-用户登录问题](https://www.v2ex.com/t/730231) 
 - [2020-11-28-Chrome-只显示域名，体验并不好，我打赌-3-年之内-Google-必将改过来，显示全部-url](https://www.v2ex.com/t/730210) 
 - [2020-11-28-奇安信亮相2020长沙网络安全·智能制造大会](https://sec.thief.one/article_content?a_id=d9a441631bdfde09777c82c32b123724) 

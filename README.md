@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-29 01:54:38，:rocket: 更新条数: +3892， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-29 02:04:44，:rocket: 更新条数: +3893， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,11 @@
 </summary>
 
 
+- [2020-11-29-之前-V-站大佬开发了个自选基金助手-Chrome-插件，我给移植到了-Web-上](https://www.v2ex.com/t/730243) ![](assets/new.png)  
+- [2020-11-29-有澳门代购的朋友吗，想带一台-iPhone-12](https://www.v2ex.com/t/730242) ![](assets/new.png)  
+- [2020-11-29-呈瑞投资-招聘：-Alpha-基金经理/系统开发工程师](https://www.v2ex.com/t/730241) ![](assets/new.png)  
+- [2020-11-29-可视化方舟投资（ARK-Invest）去年到现在的操作记录](https://www.v2ex.com/t/730240) ![](assets/new.png)  
+- [2020-11-29-用-Go-写的一个检查-Python-依赖包最新版本命令行工具](https://www.v2ex.com/t/730238) ![](assets/new.png)  
 - [2020-11-29-V-友们，戒烟了，每个月剩-1-2-千，干些什么好呢，做点小投资？](https://www.v2ex.com/t/730235) ![](assets/new.png)  
 - [2020-11-29-寻找视频剪辑-APP，这种描边样式的！](https://www.v2ex.com/t/730234) ![](assets/new.png)  
 - [2020-11-29-it-之家的这篇发现弹窗软件的文章不错](https://www.v2ex.com/t/730233) ![](assets/new.png)  
@@ -1089,11 +1094,6 @@
 - [2020-11-28-有没有可能用-pe-系统获取-windows-开机密码？](https://www.v2ex.com/t/730221) ![](assets/new.png)  
 - [2020-11-28-甲方公司领导不把开发当人看](https://www.v2ex.com/t/730220) ![](assets/new.png)  
 - [2020-11-28-iphone12-mini-屏幕在使用中突然变暗可能是硬件问题吗](https://www.v2ex.com/t/730219) ![](assets/new.png)  
-- [2020-11-28-ASA5505-使用相关问题](https://www.v2ex.com/t/730217) ![](assets/new.png)  
-- [2020-11-28-NS-国行可以买吗？](https://www.v2ex.com/t/730216) ![](assets/new.png)  
-- [2020-11-28-virmach-黑五这图也太搞了吧](https://www.v2ex.com/t/730215) ![](assets/new.png)  
-- [2020-11-28-win10-怎么查看流氓弹窗历史记录？](https://www.v2ex.com/t/730213) ![](assets/new.png)  
-- [2020-11-28-国行-Apple-Watch-加了美版-AC+，可以在国内直营店正常使用意外损坏事件吗？](https://www.v2ex.com/t/730212) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,16 +1146,16 @@
 - [2020-11-29-为什么要鼓励重复造轮子](https://toutiao.io/k/t8tj8yq) ![](assets/new.png)  
 - [2020-11-29-从-0-开始实现一个-Adaboost-分类器（完整代码）](https://toutiao.io/k/92rwpdz) ![](assets/new.png)  
 - [2020-11-29-Go-语言的并发实战](https://toutiao.io/k/zybkny3) ![](assets/new.png)  
-- [2020-11-29-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
-- [2020-11-29-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
 - [2020-11-29-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
-- [2020-11-29-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
-- [2020-11-29-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
-- [2020-11-29-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
-- [2020-11-29-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
 - [2020-11-29-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
-- [2020-11-29-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
+- [2020-11-29-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
+- [2020-11-29-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
 - [2020-11-29-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
+- [2020-11-29-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
+- [2020-11-29-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
+- [2020-11-29-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
+- [2020-11-29-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-29-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-29 04:49:10，:rocket: 更新条数: +3888， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-29 05:04:00，:rocket: 更新条数: +3892， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,13 +66,14 @@
 
 
 - [2020-11-29-11月28日全国新增确诊病例11例-均为境外输入](https://m.caixin.com/m/2020-11-29/101633591.html) ![](assets/new.png)  
+- [2020-11-29-一韩籍员工出境后核酸阳性-所在重庆企业停产](https://m.caixin.com/m/2020-11-29/101633619.html) ![](assets/new.png)  
 - [2020-11-29-大流行手记|11月28日：阿斯利康新冠疫苗或延迟上市-欧美迎萧条圣诞季](https://m.caixin.com/m/2020-11-29/101633597.html) ![](assets/new.png)  
 - [2020-11-28-聚焦|张文宏：新冠+流感，合并感染冬季常见无须恐惧](http://m.opinion.caixin.com/m/2020-11-28/101633435.html) ![](assets/new.png)  
 - [2020-11-28-【境内疫情观察】全国新增6例境外输入病例（11月27日）](http://m.database.caixin.com/m/2020-11-28/101633496.html) ![](assets/new.png)  
 - [2020-11-28-大流行手记|11月27日：东南亚国家积极采购疫苗-美四成新冠死者出自养老院](https://m.caixin.com/m/2020-11-28/101633388.html) ![](assets/new.png)  
 - [2020-11-27-钟南山：应研发多种类型疫苗，哪一种最好现在还不知道](https://m.caixin.com/m/2020-11-27/101633147.html) ![](assets/new.png)  
-- [2020-11-27-独家|专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html) ![](assets/new.png)  
 - [2020-11-27-最新海外疫情：新冠感染超6088万-累计死亡超142万](http://m.international.caixin.com/m/2020-11-27/101633256.html) ![](assets/new.png)  
+- [2020-11-27-独家|专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html) ![](assets/new.png)  
 - [2020-11-27-钟南山建议香港再次推行全民检测](https://m.caixin.com/m/2020-11-27/101633024.html) ![](assets/new.png)  
 - [2020-11-27-【境内疫情观察】全国新增5例境外输入病例（11月26日）](http://m.database.caixin.com/m/2020-11-27/101633045.html) ![](assets/new.png)  
 - [2020-11-27-大流行手记|11月26日：欧美节假季疫情恐加剧-全球性别平等受损](https://m.caixin.com/m/2020-11-27/101632915.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2020-11-26-来华航班近两百份核酸报告雷同-使馆要求俄航司重检](http://m.companies.caixin.com/m/2020-11-26/101632663.html) ![](assets/new.png)  
 - [2020-11-25-天津两起疫情有不同源头-其中之一为进口猪头](https://m.caixin.com/m/2020-11-25/101632216.html) ![](assets/new.png)  
 - [2020-11-25-【境内疫情观察】内蒙古新增1例本土疑似病例（11月24日）](http://m.database.caixin.com/m/2020-11-25/101632194.html) ![](assets/new.png)  
-- [2020-11-25-大流行手记|11月24日：联合国将派发20亿剂疫苗至欠发达国-中国研究揭无症状感染率](https://m.caixin.com/m/2020-11-25/101632076.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -954,11 +954,11 @@
 </summary>
 
 
-- [2020-11-28-看得懂的-Vue-框架核心原理（上）](https://juejin.im/post/6900212781337804807) ![](assets/new.png)  
-- [2020-11-28-关于Javascript的异步](https://juejin.im/post/6900199319807197191) ![](assets/new.png)  
-- [2020-11-28-对JS对象的认识](https://juejin.im/post/6900193657299664904) ![](assets/new.png)  
-- [2020-11-28-Vue2基础-组件](https://juejin.im/post/6900193301069856781) ![](assets/new.png)  
-- [2020-11-28-简单易懂原型链](https://juejin.im/post/6900190611500957709) ![](assets/new.png)  
+- [2020-11-28-C#-WPF：从窗体外拖文件到当前程序](https://juejin.im/post/6900152266452369416) ![](assets/new.png)  
+- [2020-11-28-strong和b，em和i标签的区别](https://juejin.im/post/6900151751417167880) ![](assets/new.png)  
+- [2020-11-28-javaScript-二维码生成实战](https://juejin.im/post/6900150859171430413) ![](assets/new.png)  
+- [2020-11-28-前端通过githook一键自动部署项目](https://juejin.im/post/6900149684628226061) ![](assets/new.png)  
+- [2020-11-28-AJAX（2）异步](https://juejin.im/post/6900148057988415502) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,11 @@
 </summary>
 
 
+- [2020-11-29-微信读书有人组个队伍，一起加油](https://www.v2ex.com/t/730290) ![](assets/new.png)  
+- [2020-11-29-有没有装修过的大佬，来指导一二！](https://www.v2ex.com/t/730289) ![](assets/new.png)  
+- [2020-11-29-最近看了几个技术方面的教程视频，怎么对于“文件夹”的“夹”字的发音都是二声，难道说是我发音不准嘛？](https://www.v2ex.com/t/730288) ![](assets/new.png)  
+- [2020-11-29-请坛贤推荐老人手机](https://www.v2ex.com/t/730287) ![](assets/new.png)  
+- [2020-11-29-macOS-上是否可以实现按住鼠标左键再按-c-复制](https://www.v2ex.com/t/730286) ![](assets/new.png)  
 - [2020-11-29-现在的各种云计算是不是也是在搞蛋壳模式？](https://www.v2ex.com/t/730285) ![](assets/new.png)  
 - [2020-11-29-Apple-Music-如何将一首歌加到另外一个专辑中去呢？](https://www.v2ex.com/t/730282) ![](assets/new.png)  
 - [2020-11-29-请坛贤推荐一个非智能的电视机](https://www.v2ex.com/t/730281) ![](assets/new.png)  
@@ -1089,11 +1094,6 @@
 - [2020-11-29-Mac-送去维修期间，工作有什么过度的方案吗？](https://www.v2ex.com/t/730261) ![](assets/new.png)  
 - [2020-11-29-golang-plugin-mac-平台下生成-.so-文件，放到-Linux-下执行时报错](https://www.v2ex.com/t/730259) ![](assets/new.png)  
 - [2020-11-29-如何让自己的网站支持阅读模式](https://www.v2ex.com/t/730258) ![](assets/new.png)  
-- [2020-11-29-帮忙推荐电脑](https://www.v2ex.com/t/730257) ![](assets/new.png)  
-- [2020-11-29-做了一个-Fiverr赚美金的兼职外包平台gig-推荐的小程序](https://www.v2ex.com/t/730256) ![](assets/new.png)  
-- [2020-11-29-诸位开发日常工作用到鼠标了吗？](https://www.v2ex.com/t/730255) ![](assets/new.png)  
-- [2020-11-29-要回四川成都了。](https://www.v2ex.com/t/730254) ![](assets/new.png)  
-- [2020-11-29-要不要买个人工培育的钻石做的钻戒来求婚？对于最近很热的钻石讨论帖谈一下我的看法](https://www.v2ex.com/t/730253) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1142,20 +1142,20 @@
 - [2020-11-29-播放器性能优化之路](https://toutiao.io/k/ba34p6r) ![](assets/new.png)  
 - [2020-11-29-什么是-AVIF？如何在你的网站上使用-AV1-图像格式的图像](https://toutiao.io/k/dfdled4) ![](assets/new.png)  
 - [2020-11-29-为什么要鼓励重复造轮子](https://toutiao.io/k/t8tj8yq) ![](assets/new.png)  
-- [2020-11-29-Go-语言的并发实战](https://toutiao.io/k/zybkny3) ![](assets/new.png)  
 - [2020-11-29-WebRTC-开发人员调试建议](https://toutiao.io/k/1am7q3y) ![](assets/new.png)  
+- [2020-11-29-Go-语言的并发实战](https://toutiao.io/k/zybkny3) ![](assets/new.png)  
 - [2020-11-29-ASP.NET-Core-整合-Zipkin-链路跟踪](https://toutiao.io/k/ehms1gc) ![](assets/new.png)  
 - [2020-11-29-从-0-开始实现一个-Adaboost-分类器（完整代码）](https://toutiao.io/k/92rwpdz) ![](assets/new.png)  
 - [2020-11-29-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
-- [2020-11-29-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
-- [2020-11-29-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
-- [2020-11-29-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
+- [2020-11-29-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
 - [2020-11-29-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
+- [2020-11-29-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
 - [2020-11-29-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
+- [2020-11-29-推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
+- [2020-11-29-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
+- [2020-11-29-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
+- [2020-11-29-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
 - [2020-11-29-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
-- [2020-11-29-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
-- [2020-11-29-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
-- [2020-11-29-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

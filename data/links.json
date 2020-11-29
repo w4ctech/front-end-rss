@@ -10,6 +10,11 @@
         "date": "2020-11-29"
       },
       {
+        "title": "一韩籍员工出境后核酸阳性 所在重庆企业停产",
+        "link": "https://m.caixin.com/m/2020-11-29/101633619.html",
+        "date": "2020-11-29"
+      },
+      {
         "title": "大流行手记|11月28日：阿斯利康新冠疫苗或延迟上市 欧美迎萧条圣诞季",
         "link": "https://m.caixin.com/m/2020-11-29/101633597.html",
         "date": "2020-11-29"
@@ -35,13 +40,13 @@
         "date": "2020-11-27"
       },
       {
-        "title": "独家|专家解读喀什疫情感染路径 货运车内壁检出病毒",
-        "link": "https://m.caixin.com/m/2020-11-27/101633087.html",
+        "title": "最新海外疫情：新冠感染超6088万 累计死亡超142万",
+        "link": "http://m.international.caixin.com/m/2020-11-27/101633256.html",
         "date": "2020-11-27"
       },
       {
-        "title": "最新海外疫情：新冠感染超6088万 累计死亡超142万",
-        "link": "http://m.international.caixin.com/m/2020-11-27/101633256.html",
+        "title": "独家|专家解读喀什疫情感染路径 货运车内壁检出病毒",
+        "link": "https://m.caixin.com/m/2020-11-27/101633087.html",
         "date": "2020-11-27"
       },
       {
@@ -18306,28 +18311,28 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "看得懂的 Vue 框架核心原理（上）",
-        "link": "https://juejin.im/post/6900212781337804807",
+        "title": "C# WPF：从窗体外拖文件到当前程序",
+        "link": "https://juejin.im/post/6900152266452369416",
         "date": "2020-11-28"
       },
       {
-        "title": "关于Javascript的异步",
-        "link": "https://juejin.im/post/6900199319807197191",
+        "title": "strong和b，em和i标签的区别",
+        "link": "https://juejin.im/post/6900151751417167880",
         "date": "2020-11-28"
       },
       {
-        "title": "对JS对象的认识",
-        "link": "https://juejin.im/post/6900193657299664904",
+        "title": "javaScript 二维码生成实战",
+        "link": "https://juejin.im/post/6900150859171430413",
         "date": "2020-11-28"
       },
       {
-        "title": "Vue2基础-组件",
-        "link": "https://juejin.im/post/6900193301069856781",
+        "title": "前端通过githook一键自动部署项目",
+        "link": "https://juejin.im/post/6900149684628226061",
         "date": "2020-11-28"
       },
       {
-        "title": "简单易懂原型链",
-        "link": "https://juejin.im/post/6900190611500957709",
+        "title": "AJAX（2）异步",
+        "link": "https://juejin.im/post/6900148057988415502",
         "date": "2020-11-28"
       }
     ]
@@ -18715,6 +18720,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "微信读书有人组个队伍，一起加油",
+        "link": "https://www.v2ex.com/t/730290",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "有没有装修过的大佬，来指导一二！",
+        "link": "https://www.v2ex.com/t/730289",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "最近看了几个技术方面的教程视频，怎么对于“文件夹”的“夹”字的发音都是二声，难道说是我发音不准嘛？",
+        "link": "https://www.v2ex.com/t/730288",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "请坛贤推荐老人手机",
+        "link": "https://www.v2ex.com/t/730287",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "macOS 上是否可以实现按住鼠标左键再按 c 复制",
+        "link": "https://www.v2ex.com/t/730286",
+        "date": "2020-11-29"
+      },
+      {
         "title": "现在的各种云计算是不是也是在搞蛋壳模式？",
         "link": "https://www.v2ex.com/t/730285",
         "date": "2020-11-29"
@@ -18857,16 +18887,6 @@
       {
         "title": "[呈瑞投资] 招聘： Alpha 基金经理/系统开发工程师",
         "link": "https://www.v2ex.com/t/730241",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "可视化方舟投资（ARK Invest）去年到现在的操作记录",
-        "link": "https://www.v2ex.com/t/730240",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "用 Go 写的一个检查 Python 依赖包最新版本命令行工具",
-        "link": "https://www.v2ex.com/t/730238",
         "date": "2020-11-29"
       }
     ]
@@ -19014,13 +19034,13 @@
         "date": "2020-11-29"
       },
       {
-        "title": "Go 语言的并发实战",
-        "link": "https://toutiao.io/k/zybkny3",
+        "title": "WebRTC 开发人员调试建议",
+        "link": "https://toutiao.io/k/1am7q3y",
         "date": "2020-11-29"
       },
       {
-        "title": "WebRTC 开发人员调试建议",
-        "link": "https://toutiao.io/k/1am7q3y",
+        "title": "Go 语言的并发实战",
+        "link": "https://toutiao.io/k/zybkny3",
         "date": "2020-11-29"
       },
       {
@@ -19039,18 +19059,8 @@
         "date": "2020-11-29"
       },
       {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "[推荐] 程序员必知必会的十大排序算法",
-        "link": "https://toutiao.io/k/zoyne3a",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
         "date": "2020-11-29"
       },
       {
@@ -19059,43 +19069,13 @@
         "date": "2020-11-29"
       },
       {
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
+        "date": "2020-11-29"
+      },
+      {
         "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
         "link": "https://toutiao.io/k/n4lq0bo",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
-        "link": "https://toutiao.io/k/5shq47n",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "[推荐] 架构师之路：微服务技术选型",
-        "link": "https://toutiao.io/k/bxvxty9",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
         "date": "2020-11-29"
       },
       {
@@ -19104,8 +19084,48 @@
         "date": "2020-11-29"
       },
       {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-11-29"
+      },
+      {
         "title": "[推荐] 谈一谈程序员的职业发展路线",
         "link": "https://toutiao.io/k/b2k5zax",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
+        "link": "https://toutiao.io/k/5stu129",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-29"
       }
     ]

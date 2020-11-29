@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-29 06:51:20，:rocket: 更新条数: +1017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-29 07:04:14，:rocket: 更新条数: +1018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -934,7 +934,7 @@
 </summary>
 
 
-- [2020-11-28-strong和b，em和i标签的区别](https://juejin.im/post/6900151751417167880) ![](assets/new.png)  
+- [2020-11-28-jsliang-求职系列---28---WebSocket](https://juejin.im/post/6900433558054109198) ![](assets/new.png)  
 - [2020-11-28-性感荷官在线发牌？然后1万块没了](https://juejin.im/post/6900151046807486471) ![](assets/new.png)  
 - [2020-11-28-javaScript-二维码生成实战](https://juejin.im/post/6900150859171430413) ![](assets/new.png)  
 - [2020-11-28-前端通过githook一键自动部署项目](https://juejin.im/post/6900149684628226061) ![](assets/new.png)  
@@ -1054,6 +1054,9 @@
 </summary>
 
 
+- [2020-11-29-美区自用长期车](https://www.v2ex.com/t/730313) ![](assets/new.png)  
+- [2020-11-29-强烈推荐极客时间上最良心的三门课](https://www.v2ex.com/t/730312) ![](assets/new.png)  
+- [2020-11-29-为什么-Visual-Studio-Code,-Dropbox-等很多-app-没在-App-Store-上架](https://www.v2ex.com/t/730311) ![](assets/new.png)  
 - [2020-11-29-金融系统代码中应该如何管理组织各种计算公式？](https://www.v2ex.com/t/730310) ![](assets/new.png)  
 - [2020-11-29-Belkin-出了一个类似-AirPower-的无线充电器](https://www.v2ex.com/t/730309) ![](assets/new.png)  
 - [2020-11-29-c-语言的一个函数如何转换成-Java-或-scala-代码](https://www.v2ex.com/t/730308) ![](assets/new.png)  
@@ -1071,9 +1074,6 @@
 - [2020-11-29-360-浏览器出-VIP-会员功能了](https://www.v2ex.com/t/730295) ![](assets/new.png)  
 - [2020-11-29-请教下-proxifier-的问题](https://www.v2ex.com/t/730291) ![](assets/new.png)  
 - [2020-11-29-微信读书有人组个队伍，一起加油](https://www.v2ex.com/t/730290) ![](assets/new.png)  
-- [2020-11-29-有没有装修过的大佬，来指导一二！](https://www.v2ex.com/t/730289) ![](assets/new.png)  
-- [2020-11-29-最近看了几个技术方面的教程视频，怎么对于“文件夹”的“夹”字的发音都是二声，难道说是我发音不准嘛？](https://www.v2ex.com/t/730288) ![](assets/new.png)  
-- [2020-11-29-请坛贤推荐老人手机](https://www.v2ex.com/t/730287) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,16 +1126,16 @@
 - [2020-11-29-WebRTC-开发人员调试建议](https://toutiao.io/k/1am7q3y) ![](assets/new.png)  
 - [2020-11-29-ASP.NET-Core-整合-Zipkin-链路跟踪](https://toutiao.io/k/ehms1gc) ![](assets/new.png)  
 - [2020-11-29-从-0-开始实现一个-Adaboost-分类器（完整代码）](https://toutiao.io/k/92rwpdz) ![](assets/new.png)  
+- [2020-11-29-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
+- [2020-11-29-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
+- [2020-11-29-推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
+- [2020-11-29-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
 - [2020-11-29-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
 - [2020-11-29-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
-- [2020-11-29-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
-- [2020-11-29-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
-- [2020-11-29-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
-- [2020-11-29-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
-- [2020-11-29-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
-- [2020-11-29-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
 - [2020-11-29-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
+- [2020-11-29-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
 - [2020-11-29-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
+- [2020-11-29-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

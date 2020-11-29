@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-29 06:51:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 07:04:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-29-美区自用长期车](https://www.v2ex.com/t/730313) 
+- [2020-11-29-强烈推荐极客时间上最良心的三门课](https://www.v2ex.com/t/730312) 
+- [2020-11-29-为什么-Visual-Studio-Code,-Dropbox-等很多-app-没在-App-Store-上架](https://www.v2ex.com/t/730311) 
 - [2020-11-29-金融系统代码中应该如何管理组织各种计算公式？](https://www.v2ex.com/t/730310) 
 - [2020-11-29-Belkin-出了一个类似-AirPower-的无线充电器](https://www.v2ex.com/t/730309) 
 - [2020-11-29-c-语言的一个函数如何转换成-Java-或-scala-代码](https://www.v2ex.com/t/730308) 
@@ -37,5 +40,3 @@
 - [2020-11-29-很好奇：这哥们真的这么牛？](https://www.v2ex.com/t/730271) 
 - [2020-11-29-MacBook-Pro-新机电池循环-2，官网查序列号「购买日期未验证」，这情况正常吗？](https://www.v2ex.com/t/730268) 
 - [2020-11-29-MacBook-Pro-M1-8+512G-使用中的几个现象](https://www.v2ex.com/t/730264) 
-- [2020-11-29-MEGA-下载，中途打断会怎么样？](https://www.v2ex.com/t/730263) 
-- [2020-11-29-Mac-送去维修期间，工作有什么过度的方案吗？](https://www.v2ex.com/t/730261) 

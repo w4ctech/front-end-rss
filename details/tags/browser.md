@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 09:34:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 09:47:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,14 +35,6 @@
 - [2020-11-27-Chrome-上开发调试的九个技巧](https://www.ershicimi.com/p/b527283cd53d64ba3644b4df910f494c) 
 - [2020-11-25-前端-api-请求缓存方案](https://www.ershicimi.com/p/c553ed06aab49e8ee5636c5c809b6423) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-11-18-postMessage-还能这样玩](https://www.ershicimi.com/p/3a7709204bdc61198e129868b53b7147) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
@@ -54,11 +46,6 @@
 - [2020-11-26-美国重申中兴威胁美国国家安全，12-月将对华为做出最终裁决](https://www.ershicimi.com/p/65df2eeea4115ad80b460e76d0732450) 
 - [2020-11-28-viewport详解](https://juejin.im/post/6900407534679818253) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-11-29-中国移动一直往-ios-下-safari-自动添加书签怎么解？](https://www.v2ex.com/t/730326) 
-- [2020-11-29-Safari-打开油管网页，现在滑动怎么总是一卡一卡的，之前没有过](https://www.v2ex.com/t/730322) 
-- [2020-11-29-卸载了新版-edge，旧版-edge-不见了，怎么破...](https://www.v2ex.com/t/730314) 
-- [2020-11-29-求-V-友给建议，关于大学生网络安全竞赛的选题和创意](https://www.v2ex.com/t/730300) 
-- [2020-11-29-360-浏览器出-VIP-会员功能了](https://www.v2ex.com/t/730295) 
 - [2020-11-29-面对勒索软件,备份真的是“万灵丹”?如何实现备份安全?](https://sec.thief.one/article_content?a_id=05b0dd65cf9c112c11099e25d0af0d94) 
 - [2020-11-29-网络安全标准实践指南—移动互联网应用程序App使用软件开发工...](https://sec.thief.one/article_content?a_id=cd2c6fa41f2528555e96f0b4deb3338d) 
 - [2020-11-29-谭晓生:网络安全即服务的业务前景分析](https://sec.thief.one/article_content?a_id=318c9d8ce12a8d523907a78a4bc9ca26) 

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-29 07:07:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 07:25:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-29-试用了一下-Chrome-OS，感觉这个系统值得优化和推广啊](https://www.v2ex.com/t/730316) 
+- [2020-11-29-我的-DogeDoge-走了，享年一年不到……](https://www.v2ex.com/t/730315) 
+- [2020-11-29-卸载了新版-edge，旧版-edge-不见了，怎么破...](https://www.v2ex.com/t/730314) 
 - [2020-11-29-美区自用长期车](https://www.v2ex.com/t/730313) 
 - [2020-11-29-强烈推荐极客时间上最良心的三门课](https://www.v2ex.com/t/730312) 
 - [2020-11-29-为什么-Visual-Studio-Code,-Dropbox-等很多-app-没在-App-Store-上架](https://www.v2ex.com/t/730311) 
@@ -39,4 +42,3 @@
 - [2020-11-29-m1-芯片-mac-恢复模式-抹掉整个硬盘出错.-无法卸载-disk0-上的宗卷,因为它正被进程-0-kernel-使用.](https://www.v2ex.com/t/730272) 
 - [2020-11-29-很好奇：这哥们真的这么牛？](https://www.v2ex.com/t/730271) 
 - [2020-11-29-MacBook-Pro-新机电池循环-2，官网查序列号「购买日期未验证」，这情况正常吗？](https://www.v2ex.com/t/730268) 
-- [2020-11-29-MacBook-Pro-M1-8+512G-使用中的几个现象](https://www.v2ex.com/t/730264) 

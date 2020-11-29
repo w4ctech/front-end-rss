@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-29 10:34:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 10:48:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-29-Sub-DeepL---每个月最低-2.5-刀使用-DeepL-API](https://www.v2ex.com/t/730356) 
+- [2020-11-29-iPad-打开-Safari-但-Mac-上没有接力出现](https://www.v2ex.com/t/730355) 
+- [2020-11-29-MacBook-送的-c-to-c-电源线，可以传输视频信号吗？](https://www.v2ex.com/t/730354) 
+- [2020-11-29-Windows-Outlook-2019-客户端删除了账户只留下-ost-文件，如何重新复用这个文件？](https://www.v2ex.com/t/730353) 
 - [2020-11-29-🙈🙈🙈一个开源项目跌下神坛的一些警示](https://www.v2ex.com/t/730352) 
 - [2020-11-29-酷瓜云课堂-v1.2.0-发布，不再假开源，-GPL-协议再出发](https://www.v2ex.com/t/730351) 
 - [2020-11-29-求助：目前计算机及-IP-地址无法访问-V2EX，但是换一个场所的计算机就能访问，为什么？](https://www.v2ex.com/t/730350) 
@@ -40,6 +44,3 @@
 - [2020-11-29-Belkin-出了一个类似-AirPower-的无线充电器](https://www.v2ex.com/t/730309) 
 - [2020-11-29-c-语言的一个函数如何转换成-Java-或-scala-代码](https://www.v2ex.com/t/730308) 
 - [2020-11-29-寻找-macOS-上快速激活指定窗口的应用](https://www.v2ex.com/t/730307) 
-- [2020-11-29-今天在微博中无意间发现了某视频-app-的后台管理系统的登录页面](https://www.v2ex.com/t/730305) 
-- [2020-11-29-3-年+前端经验、这样写合适吗？](https://www.v2ex.com/t/730304) 
-- [2020-11-29-捡一台-3900X-还是等双十二换-5800x](https://www.v2ex.com/t/730303) 

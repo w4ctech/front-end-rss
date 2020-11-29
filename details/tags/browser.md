@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 12:34:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 12:52:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -40,6 +40,10 @@
 - [2020-11-26-美国重申中兴威胁美国国家安全，12-月将对华为做出最终裁决](https://www.ershicimi.com/p/65df2eeea4115ad80b460e76d0732450) 
 - [2020-11-28-viewport详解](https://juejin.im/post/6900407534679818253) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-29-请教下关于安卓使用-adguard-的权限（安全）问题](https://www.v2ex.com/t/730379) 
+- [2020-11-29-m1-MacBook-pro-用-chrome-的时候偶尔会打不开网页](https://www.v2ex.com/t/730360) 
+- [2020-11-29-iPad-打开-Safari-但-Mac-上没有接力出现](https://www.v2ex.com/t/730355) 
+- [2020-11-29-这些浏览器工作原理你都吃透了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14005&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRzjrf46vrKkPdL2OlRaYMg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-29-英国防部预算获批并确认网络安全相关支出增加](https://sec.thief.one/article_content?a_id=8a1e8c22a7d5c0360d4fab5bdbddad96) 
 - [2020-11-29-报名倒计时!2020京麒大会-物联网安全攻防实战训练营](https://sec.thief.one/article_content?a_id=71b5c0f01e2812ef9e664f68ee91576d) 
 - [2020-11-29-绿盟科技发声湾区创见-|-加入“数字政府网络安全产业联盟”](https://sec.thief.one/article_content?a_id=8f094dad7b6a080a9e5a3e2bc2c8a8c6) 

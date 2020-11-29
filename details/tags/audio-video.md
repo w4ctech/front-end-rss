@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 12:34:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 12:52:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -25,6 +25,8 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2020-11-29-MacBook-送的-c-to-c-电源线，可以传输视频信号吗？](https://www.v2ex.com/t/730354) 
+- [2020-11-29-视频抽帧有没有快一点的方法？](https://www.v2ex.com/t/730338) 
 - [2020-11-29-播放器性能优化之路](https://toutiao.io/k/ba34p6r) 
 - [2020-11-29-什么是-AVIF？如何在你的网站上使用-AV1-图像格式的图像](https://toutiao.io/k/dfdled4) 
 - [2020-11-29-WebRTC-开发人员调试建议](https://toutiao.io/k/1am7q3y) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-29 08:05:39，:rocket: 更新条数: +3859， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-29 08:09:09，:rocket: 更新条数: +3897， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1074,6 +1074,26 @@
 </summary>
 
 
+- [2020-11-29-笔记本插网线后-Wlan-自动关闭](https://www.v2ex.com/t/730323) ![](assets/new.png)  
+- [2020-11-29-Safari-打开油管网页，现在滑动怎么总是一卡一卡的，之前没有过](https://www.v2ex.com/t/730322) ![](assets/new.png)  
+- [2020-11-29-妙啊，-360-开始付费了。](https://www.v2ex.com/t/730320) ![](assets/new.png)  
+- [2020-11-29-请教一下-react-的-tsx-怎么写类型定义？](https://www.v2ex.com/t/730318) ![](assets/new.png)  
+- [2020-11-29-试用了一下-Chrome-OS，感觉这个系统值得优化和推广啊](https://www.v2ex.com/t/730316) ![](assets/new.png)  
+- [2020-11-29-我的-DogeDoge-走了，享年一年不到……](https://www.v2ex.com/t/730315) ![](assets/new.png)  
+- [2020-11-29-卸载了新版-edge，旧版-edge-不见了，怎么破...](https://www.v2ex.com/t/730314) ![](assets/new.png)  
+- [2020-11-29-美区自用长期车](https://www.v2ex.com/t/730313) ![](assets/new.png)  
+- [2020-11-29-强烈推荐极客时间上最良心的三门课](https://www.v2ex.com/t/730312) ![](assets/new.png)  
+- [2020-11-29-为什么-Visual-Studio-Code,-Dropbox-等很多-app-没在-App-Store-上架](https://www.v2ex.com/t/730311) ![](assets/new.png)  
+- [2020-11-29-金融系统代码中应该如何管理组织各种计算公式？](https://www.v2ex.com/t/730310) ![](assets/new.png)  
+- [2020-11-29-Belkin-出了一个类似-AirPower-的无线充电器](https://www.v2ex.com/t/730309) ![](assets/new.png)  
+- [2020-11-29-c-语言的一个函数如何转换成-Java-或-scala-代码](https://www.v2ex.com/t/730308) ![](assets/new.png)  
+- [2020-11-29-寻找-macOS-上快速激活指定窗口的应用](https://www.v2ex.com/t/730307) ![](assets/new.png)  
+- [2020-11-29-今天在微博中无意间发现了某视频-app-的后台管理系统的登录页面](https://www.v2ex.com/t/730305) ![](assets/new.png)  
+- [2020-11-29-3-年+前端经验、这样写合适吗？](https://www.v2ex.com/t/730304) ![](assets/new.png)  
+- [2020-11-29-捡一台-3900X-还是等双十二换-5800x](https://www.v2ex.com/t/730303) ![](assets/new.png)  
+- [2020-11-29-阅读类的聊天类的-app，有侧边栏的，侧边栏没隐藏功能的都不是好设计](https://www.v2ex.com/t/730302) ![](assets/new.png)  
+- [2020-11-29-XIA-想集-#05-学习曲线](https://www.v2ex.com/t/730301) ![](assets/new.png)  
+- [2020-11-29-求-V-友给建议，关于大学生网络安全竞赛的选题和创意](https://www.v2ex.com/t/730300) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

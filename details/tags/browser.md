@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 08:05:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 08:09:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -53,6 +53,11 @@
 - [2020-11-27-科技重绘金融产业天际线：ReFinTech大会展望金融数据化时代](https://www.ershicimi.com/p/3a80cb8b6b89e55567acb6cd43da1e60) 
 - [2020-11-26-美国重申中兴威胁美国国家安全，12-月将对华为做出最终裁决](https://www.ershicimi.com/p/65df2eeea4115ad80b460e76d0732450) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-29-Safari-打开油管网页，现在滑动怎么总是一卡一卡的，之前没有过](https://www.v2ex.com/t/730322) 
+- [2020-11-29-卸载了新版-edge，旧版-edge-不见了，怎么破...](https://www.v2ex.com/t/730314) 
+- [2020-11-29-求-V-友给建议，关于大学生网络安全竞赛的选题和创意](https://www.v2ex.com/t/730300) 
+- [2020-11-29-360-浏览器出-VIP-会员功能了](https://www.v2ex.com/t/730295) 
+- [2020-11-29-请教下-proxifier-的问题](https://www.v2ex.com/t/730291) 
 - [2020-11-29-面对勒索软件,备份真的是“万灵丹”?如何实现备份安全?](https://sec.thief.one/article_content?a_id=05b0dd65cf9c112c11099e25d0af0d94) 
 - [2020-11-29-网络安全标准实践指南—移动互联网应用程序App使用软件开发工...](https://sec.thief.one/article_content?a_id=cd2c6fa41f2528555e96f0b4deb3338d) 
 - [2020-11-29-谭晓生:网络安全即服务的业务前景分析](https://sec.thief.one/article_content?a_id=318c9d8ce12a8d523907a78a4bc9ca26) 

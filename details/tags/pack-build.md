@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 18:04:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 18:08:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -17,6 +17,7 @@
 - [2020-11-09-Webpack配置全解析（基础篇）](https://www.ershicimi.com/p/285cbaf83c729f1655121c6b570a4e39) 
 - [2020-08-23-npm-依赖管理中被忽略的那些细节](https://www.ershicimi.com/p/dbc75e14c0a00bf3a7a748722c7077b2) 
 - [2020-11-24-代码规范之-理解ESLint、Prettier、EditorConfig](https://www.ershicimi.com/p/970ad1f46f8b717471a248bc719e733f) 
+- [2020-11-21-webpack-的异步加载原理及分包策略](https://www.ershicimi.com/p/8463f91e36d6a821cf260aa3b2c87d34) 
 - [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) 
 - [2017-01-17-ELF---灵活可扩展的-HTML5-构建工具](https://aotu.io/notes/2017/01/17/elf/) 
 - [2016-11-14-Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/) 

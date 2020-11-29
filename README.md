@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-29 03:47:47，:rocket: 更新条数: +3892， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-29 04:05:07，:rocket: 更新条数: +3891， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-11-29-美国科罗拉多州州长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigORNhXJpVxy6IWN0DnbM201129&isfromapp=1) ![](assets/new.png)  
+- [2020-11-29-美国约2/3护士从未接受病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQPQBPi68mJpkEhPOTW1n201129&isfromapp=1) ![](assets/new.png)  
 - [2020-11-29-反对封锁！英国伦敦街头爆发抗议活动-警方逮捕150多人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti117yXJjvtiVhLz3z4LwA201129&isfromapp=1) ![](assets/new.png)  
 - [2020-11-29-加强边境疫情防控！云南文山公开宣判一起偷越国境案-12人被判六个月至五年有期徒刑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio9jTnkYhvsCXvj81oFNQ201129&isfromapp=1) ![](assets/new.png)  
 - [2020-11-29-德国或将延长“封城”至明年早春](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti11SdUZrj5aLJd1GA0fk0201129&isfromapp=1) ![](assets/new.png)  
-- [2020-11-29-截至11月28日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202011/6d4b18f7b0a94832b0f9b8a0e561c6d5.shtml) ![](assets/new.png)  
-- [2020-11-29-阿根廷自12月起实行入境新规：入境须持3日内核酸检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAAseZKCTVIRUI8hNVQXb201129&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-11-29-请教大家战网（和网易无关）是否转区？](https://www.v2ex.com/t/730275) ![](assets/new.png)  
+- [2020-11-29-想知道有没有这种音乐应用](https://www.v2ex.com/t/730274) ![](assets/new.png)  
 - [2020-11-29-m1-芯片-mac-恢复模式-抹掉整个硬盘出错.-无法卸载-disk0-上的宗卷,因为它正被进程-0-kernel-使用.](https://www.v2ex.com/t/730272) ![](assets/new.png)  
 - [2020-11-29-很好奇：这哥们真的这么牛？](https://www.v2ex.com/t/730271) ![](assets/new.png)  
 - [2020-11-29-MacBook-Pro-新机电池循环-2，官网查序列号「购买日期未验证」，这情况正常吗？](https://www.v2ex.com/t/730268) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-11-29-求大佬，-macOS-上怎么在虚拟机里安装-macOS](https://www.v2ex.com/t/730250) ![](assets/new.png)  
 - [2020-11-29-iPhone-手机语言设置成英文，会不会流畅一些](https://www.v2ex.com/t/730249) ![](assets/new.png)  
 - [2020-11-29-如何把-svg-文件从-40KB-缩小到-5KB？](https://www.v2ex.com/t/730248) ![](assets/new.png)  
-- [2020-11-29-问下-c-大佬,文本编码是如何处理的](https://www.v2ex.com/t/730245) ![](assets/new.png)  
-- [2020-11-29-之前-V-站大佬开发了个自选基金助手-Chrome-插件，我给移植到了-Web-上](https://www.v2ex.com/t/730243) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1143,19 +1143,19 @@
 - [2020-11-29-什么是-AVIF？如何在你的网站上使用-AV1-图像格式的图像](https://toutiao.io/k/dfdled4) ![](assets/new.png)  
 - [2020-11-29-为什么要鼓励重复造轮子](https://toutiao.io/k/t8tj8yq) ![](assets/new.png)  
 - [2020-11-29-WebRTC-开发人员调试建议](https://toutiao.io/k/1am7q3y) ![](assets/new.png)  
-- [2020-11-29-ASP.NET-Core-整合-Zipkin-链路跟踪](https://toutiao.io/k/ehms1gc) ![](assets/new.png)  
 - [2020-11-29-Go-语言的并发实战](https://toutiao.io/k/zybkny3) ![](assets/new.png)  
+- [2020-11-29-ASP.NET-Core-整合-Zipkin-链路跟踪](https://toutiao.io/k/ehms1gc) ![](assets/new.png)  
 - [2020-11-29-从-0-开始实现一个-Adaboost-分类器（完整代码）](https://toutiao.io/k/92rwpdz) ![](assets/new.png)  
-- [2020-11-29-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
-- [2020-11-29-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
+- [2020-11-29-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
 - [2020-11-29-推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
-- [2020-11-29-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
-- [2020-11-29-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
-- [2020-11-29-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
-- [2020-11-29-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
+- [2020-11-29-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
+- [2020-11-29-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
+- [2020-11-29-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
+- [2020-11-29-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
+- [2020-11-29-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
+- [2020-11-29-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
 - [2020-11-29-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
 - [2020-11-29-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
-- [2020-11-29-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

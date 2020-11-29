@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-29 05:32:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 05:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-29-印象中有没有被开源软件颠覆了的商业产品？](https://www.v2ex.com/t/730299) 
+- [2020-11-29-闲置的云服务器有近-20w-的-sshd-登陆失败的记录](https://www.v2ex.com/t/730298) 
+- [2020-11-29-黑五订阅了-Newton-Mail](https://www.v2ex.com/t/730297) 
+- [2020-11-29-NUC-黑果套餐-继续开车-有福利!](https://www.v2ex.com/t/730296) 
 - [2020-11-29-360-浏览器出-VIP-会员功能了](https://www.v2ex.com/t/730295) 
 - [2020-11-29-请教下-proxifier-的问题](https://www.v2ex.com/t/730291) 
 - [2020-11-29-微信读书有人组个队伍，一起加油](https://www.v2ex.com/t/730290) 
@@ -35,5 +39,3 @@
 - [2020-11-29-完蛋了，更新-iOS-14.2-后-Google-Authenticator-闪退](https://www.v2ex.com/t/730252) 
 - [2020-11-29-xps-电池刚过保十几天，才知道电池保内出问题可以更换，可以撕回来吗](https://www.v2ex.com/t/730251) 
 - [2020-11-29-求大佬，-macOS-上怎么在虚拟机里安装-macOS](https://www.v2ex.com/t/730250) 
-- [2020-11-29-iPhone-手机语言设置成英文，会不会流畅一些](https://www.v2ex.com/t/730249) 
-- [2020-11-29-如何把-svg-文件从-40KB-缩小到-5KB？](https://www.v2ex.com/t/730248) 

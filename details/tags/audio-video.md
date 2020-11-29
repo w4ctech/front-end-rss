@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 09:26:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 09:34:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -91,6 +91,8 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2020-11-29-视频抽帧有没有快一点的方法？](https://www.v2ex.com/t/730338) 
+- [2020-11-29-今天在微博中无意间发现了某视频-app-的后台管理系统的登录页面](https://www.v2ex.com/t/730305) 
 - [2020-11-29-阿里云Edge-Plus私享会正式起航，首场活动聚焦CDN在视频直播领域的最佳实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13993&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778506%3Futm_content%3Dg_1000209956%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-29-播放器性能优化之路](https://toutiao.io/k/ba34p6r) 
 - [2020-11-29-什么是-AVIF？如何在你的网站上使用-AV1-图像格式的图像](https://toutiao.io/k/dfdled4) 

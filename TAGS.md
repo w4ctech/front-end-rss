@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-29 20:48:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 21:04:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -51,7 +51,6 @@
 - [【凹凸实验室】轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/)
 - [【凹凸实验室】feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/)
 - [【凹凸实验室】使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/)
-- [【V2EX】Vesselize---一个可以与-Vue.js-及-React-无缝集成的-JavaScript-IoC-容器](https://www.v2ex.com/t/730398)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -350,7 +349,6 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
-- [【V2EX】bug-sur-上面用什么录制视频](https://www.v2ex.com/t/730430)
 - [【安全热点】【视频】|-Python:枚举+选择排序](https://sec.thief.one/article_content?a_id=f8940138cb7ac1a6bbba0a55ebdcf791)
 - [【安全热点】摄像头ipc-未授权漏洞资产探测](https://sec.thief.one/article_content?a_id=3f2d6963a3877a578a8884e0d4c73bc7)
 - [【安全热点】小伙子不讲武德,竟用Python爬取了B站上1.4w条马老师视频数据来分析](https://sec.thief.one/article_content?a_id=a789b822ce86326a07bca11396a9857e)
@@ -378,7 +376,6 @@
 - [【凹凸实验室】前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
-- [【V2EX】有热心的-v-友可以帮我看下第一个回答的代码加载图片能自定义请求头嘛](https://www.v2ex.com/t/730413)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -404,8 +401,6 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
-- [【V2EX】域名老是被手机浏览器风险提醒怎么办？](https://www.v2ex.com/t/730407)
-- [【V2EX】知乎的个人主页的-url-地址可以看到部分人的姓名拼音?](https://www.v2ex.com/t/730395)
 - [【安全热点】英国防部预算获批并确认网络安全相关支出增加](https://sec.thief.one/article_content?a_id=8a1e8c22a7d5c0360d4fab5bdbddad96)
 - [【安全热点】报名倒计时!2020京麒大会-物联网安全攻防实战训练营](https://sec.thief.one/article_content?a_id=71b5c0f01e2812ef9e664f68ee91576d)
 - [【安全热点】绿盟科技发声湾区创见-|-加入“数字政府网络安全产业联盟”](https://sec.thief.one/article_content?a_id=8f094dad7b6a080a9e5a3e2bc2c8a8c6)
@@ -415,6 +410,8 @@
 - [【安全热点】Python高阶技巧,你-GET了吗?](https://sec.thief.one/article_content?a_id=451f5de2327ef7f04dff8e91e68a6e0d)
 - [【安全热点】聚焦智能安全运营!来听听安恒信息高级副总裁袁明坤怎么说?](https://sec.thief.one/article_content?a_id=be0c6489388394981c1bed6461ae8dd6)
 - [【安全热点】奇安信亮相2020长沙网络安全·智能制造大会](https://sec.thief.one/article_content?a_id=d9a441631bdfde09777c82c32b123724)
+- [【安全热点】网络安全已成为美国国务院2020财年的主要挑战](https://sec.thief.one/article_content?a_id=4bba5349eb04ab9c05e3fda3a6b27407)
+- [【安全热点】独家专访-林明峰:新基建时代的网络安全底座](https://sec.thief.one/article_content?a_id=23235ee9f716a78c6b0c0a195ce5da6c)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -456,7 +453,6 @@
 
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
-- [【V2EX】docker-Java-web-项目调用打印机功能](https://www.v2ex.com/t/730404)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

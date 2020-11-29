@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 20:48:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 21:04:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -37,8 +37,6 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
-- [2020-11-29-这样的-javascript-沙盒足够安全吗？](https://www.v2ex.com/t/730411) 
-- [2020-11-29-关于-js-面向对象](https://www.v2ex.com/t/730390) 
 - [2020-11-28-BUF大事件丨上海市网信办约谈圆通速递责令整改;印度再禁43款中国...](https://sec.thief.one/article_content?a_id=d50b63d16e0b779939f7c963f6520aee) 
 - [2020-11-28-C#中的Module-Stomping-代码注入技术](https://sec.thief.one/article_content?a_id=d4b5ae2c64d257887e64e963aafbd4e6) 
 - [2020-11-27-面向DevSecOps的编码安全指南|JavaScript篇](https://sec.thief.one/article_content?a_id=c6059403ab7af1b768dafe48ebf38627) 

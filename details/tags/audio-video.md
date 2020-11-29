@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 02:09:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 02:28:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -94,7 +94,6 @@
 - [2020-11-29-寻找视频剪辑-APP，这种描边样式的！](https://www.v2ex.com/t/730234) 
 - [2020-11-28-实习-微软亚洲研究院-基于强化学习的实时视频通讯优化实习生](https://www.v2ex.com/t/730206) 
 - [2020-11-28-Apple-Silicon-设备如果重装系统失败可以参考这个视频](https://www.v2ex.com/t/730200) 
-- [2020-11-28-请推荐能批量编辑-amr、m4a-文件（准确的说是“FFmpeg-编码音频文件”？）tag-的工具。](https://www.v2ex.com/t/730197) 
 - [2020-11-29-阿里云Edge-Plus私享会正式起航，首场活动聚焦CDN在视频直播领域的最佳实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13993&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778506%3Futm_content%3Dg_1000209956%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-29-播放器性能优化之路](https://toutiao.io/k/ba34p6r) 
 - [2020-11-29-什么是-AVIF？如何在你的网站上使用-AV1-图像格式的图像](https://toutiao.io/k/dfdled4) 

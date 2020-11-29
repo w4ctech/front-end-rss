@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-29 02:09:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 02:28:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-29-iPhone-手机语言设置成英文，会不会流畅一些](https://www.v2ex.com/t/730249) 
+- [2020-11-29-如何把-svg-文件从-40KB-缩小到-5KB？](https://www.v2ex.com/t/730248) 
+- [2020-11-29-问下-c-大佬,文本编码是如何处理的](https://www.v2ex.com/t/730245) 
 - [2020-11-29-之前-V-站大佬开发了个自选基金助手-Chrome-插件，我给移植到了-Web-上](https://www.v2ex.com/t/730243) 
 - [2020-11-29-有澳门代购的朋友吗，想带一台-iPhone-12](https://www.v2ex.com/t/730242) 
 - [2020-11-29-呈瑞投资-招聘：-Alpha-基金经理/系统开发工程师](https://www.v2ex.com/t/730241) 
@@ -37,8 +40,3 @@
 - [2020-11-28-steam-秋季特卖一水儿半价，又可以喜加一一波了，虽然也没时间玩儿😂](https://www.v2ex.com/t/730203) 
 - [2020-11-28-slb-路径转发和-nginx-反向代理有什么不同？](https://www.v2ex.com/t/730201) 
 - [2020-11-28-Apple-Silicon-设备如果重装系统失败可以参考这个视频](https://www.v2ex.com/t/730200) 
-- [2020-11-28-Nonstop-外链自动跳转插件](https://www.v2ex.com/t/730199) 
-- [2020-11-28-冬天了，我的-MacBook-Pro-2016-电池充不进电了](https://www.v2ex.com/t/730198) 
-- [2020-11-28-请推荐能批量编辑-amr、m4a-文件（准确的说是“FFmpeg-编码音频文件”？）tag-的工具。](https://www.v2ex.com/t/730197) 
-- [2020-11-28-求救-windows-恶意程序，屏幕下方会出现一排圆球，有见过的-V-友吗？](https://www.v2ex.com/t/730196) 
-- [2020-11-28-windows-下有没有开箱即用的系统状态监控的大屏/dashboard，比任务管理器好看点的？](https://www.v2ex.com/t/730195) 

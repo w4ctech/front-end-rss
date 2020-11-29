@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 02:28:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 02:35:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2020-11-29-11月28日全国新增确诊病例11例-均为境外输入](https://m.caixin.com/m/2020-11-29/101633591.html) 
+- [2020-11-29-大流行手记|11月28日：阿斯利康新冠疫苗或延迟上市-欧美迎萧条圣诞季](https://m.caixin.com/m/2020-11-29/101633597.html) 
 - [2020-11-28-聚焦|张文宏：新冠+流感，合并感染冬季常见无须恐惧](http://m.opinion.caixin.com/m/2020-11-28/101633435.html) 
 - [2020-11-28-【境内疫情观察】全国新增6例境外输入病例（11月27日）](http://m.database.caixin.com/m/2020-11-28/101633496.html) 
 - [2020-11-28-大流行手记|11月27日：东南亚国家积极采购疫苗-美四成新冠死者出自养老院](https://m.caixin.com/m/2020-11-28/101633388.html) 
@@ -2826,6 +2827,9 @@
 - [2020-11-22-知乎故事-|-走入社会后第一次嚎啕大哭](https://www.ershicimi.com/p/d7fd5f098dd54fba924b9122a232d477) 
 - [2020-11-22-2020，我删除无数个公众号，只留下了这-9-个](https://www.ershicimi.com/p/dc9c9f8bf3af62a0b763a15ef764dd79) 
 - [2020-11-20-知乎神吐槽-|-为什么男生不要轻易对女生说晚安？](https://www.ershicimi.com/p/9cc2743d5b9c15f87c277946c47b298f) 
+- [2020-11-29-完蛋了，更新-iOS-14.2-后-Google-Authenticator-闪退](https://www.v2ex.com/t/730252) 
+- [2020-11-29-xps-电池刚过保十几天，才知道电池保内出问题可以更换，可以撕回来吗](https://www.v2ex.com/t/730251) 
+- [2020-11-29-求大佬，-macOS-上怎么在虚拟机里安装-macOS](https://www.v2ex.com/t/730250) 
 - [2020-11-29-iPhone-手机语言设置成英文，会不会流畅一些](https://www.v2ex.com/t/730249) 
 - [2020-11-29-问下-c-大佬,文本编码是如何处理的](https://www.v2ex.com/t/730245) 
 - [2020-11-29-有澳门代购的朋友吗，想带一台-iPhone-12](https://www.v2ex.com/t/730242) 
@@ -2873,15 +2877,16 @@
 - [2020-11-29-ASP.NET-Core-整合-Zipkin-链路跟踪](https://toutiao.io/k/ehms1gc) 
 - [2020-11-29-从-0-开始实现一个-Adaboost-分类器（完整代码）](https://toutiao.io/k/92rwpdz) 
 - [2020-11-29-Go-语言的并发实战](https://toutiao.io/k/zybkny3) 
-- [2020-11-29-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) 
+- [2020-11-29-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) 
 - [2020-11-29-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) 
+- [2020-11-29-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) 
+- [2020-11-29-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) 
 - [2020-11-29-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) 
 - [2020-11-29-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) 
-- [2020-11-29-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) 
-- [2020-11-29-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) 
-- [2020-11-29-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) 
 - [2020-11-29-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) 
 - [2020-11-29-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) 
+- [2020-11-29-推荐-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) 
+- [2020-11-29-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) 
 - [2020-11-28-广州市保密技术管理办公室、广州大学网络空间先进技术研究院领导率...](https://sec.thief.one/article_content?a_id=06efc02609eecf361b32448d968e51f2) 
 - [2020-11-28-透过这扇窗,看见数字未来——世界互联网大会·互联网发展论坛侧记](https://sec.thief.one/article_content?a_id=d8066603236d31d532dc8413dec69e32) 
 - [2020-11-28-为什么程序员怕改需求?看完这些神解释我笑了](https://sec.thief.one/article_content?a_id=bac1c559e4e68466f9a4a2259fc26b67) 

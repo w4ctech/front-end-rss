@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-29 02:28:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 02:35:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-29-完蛋了，更新-iOS-14.2-后-Google-Authenticator-闪退](https://www.v2ex.com/t/730252) 
+- [2020-11-29-xps-电池刚过保十几天，才知道电池保内出问题可以更换，可以撕回来吗](https://www.v2ex.com/t/730251) 
+- [2020-11-29-求大佬，-macOS-上怎么在虚拟机里安装-macOS](https://www.v2ex.com/t/730250) 
 - [2020-11-29-iPhone-手机语言设置成英文，会不会流畅一些](https://www.v2ex.com/t/730249) 
 - [2020-11-29-如何把-svg-文件从-40KB-缩小到-5KB？](https://www.v2ex.com/t/730248) 
 - [2020-11-29-问下-c-大佬,文本编码是如何处理的](https://www.v2ex.com/t/730245) 
@@ -38,5 +41,3 @@
 - [2020-11-28-实习-微软亚洲研究院-基于强化学习的实时视频通讯优化实习生](https://www.v2ex.com/t/730206) 
 - [2020-11-28-大家-doh-用的哪个](https://www.v2ex.com/t/730204) 
 - [2020-11-28-steam-秋季特卖一水儿半价，又可以喜加一一波了，虽然也没时间玩儿😂](https://www.v2ex.com/t/730203) 
-- [2020-11-28-slb-路径转发和-nginx-反向代理有什么不同？](https://www.v2ex.com/t/730201) 
-- [2020-11-28-Apple-Silicon-设备如果重装系统失败可以参考这个视频](https://www.v2ex.com/t/730200) 

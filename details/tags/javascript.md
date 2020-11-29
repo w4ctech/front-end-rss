@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 05:07:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 05:24:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -52,9 +52,9 @@
 - [2020-11-24-什么，lodash-的防抖失效了？](https://www.ershicimi.com/p/65413753e673bb9f714313968dc421e8) 
 - [2020-11-19-JavaScript-恩仇录](https://www.ershicimi.com/p/41ed5b43325fe24af5af9c1ff73e5e13) 
 - [2020-11-13-28-个-JavaScript-编程黑科技：还有这种操作！](https://www.ershicimi.com/p/a4536cf5ef35b85d72f882cb0a4a0d48) 
+- [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
-- [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 
 - [2020-11-27-一行能装逼的JavaScript代码](https://www.ershicimi.com/p/0bd195fae01be5fe56a5ea0f1e34274d) 
 - [2020-11-20-怎样的变量命名，才显得有文化？](https://www.ershicimi.com/p/a559af22aeff572b2e18878deb98da20) 
 - [2020-11-19-书到用时方恨少，一大波JS开发工具函数来了](https://www.ershicimi.com/p/d233ab10dd97abbcba02b6c1a3a72ed3) 

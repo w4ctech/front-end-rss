@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 05:07:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 05:24:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -53,7 +53,11 @@
 - [2020-11-27-科技重绘金融产业天际线：ReFinTech大会展望金融数据化时代](https://www.ershicimi.com/p/3a80cb8b6b89e55567acb6cd43da1e60) 
 - [2020-11-26-美国重申中兴威胁美国国家安全，12-月将对华为做出最终裁决](https://www.ershicimi.com/p/65df2eeea4115ad80b460e76d0732450) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-11-29-之前-V-站大佬开发了个自选基金助手-Chrome-插件，我给移植到了-Web-上](https://www.v2ex.com/t/730243) 
+- [2020-11-29-请教下-proxifier-的问题](https://www.v2ex.com/t/730291) 
+- [2020-11-29-面对勒索软件,备份真的是“万灵丹”?如何实现备份安全?](https://sec.thief.one/article_content?a_id=05b0dd65cf9c112c11099e25d0af0d94) 
+- [2020-11-29-网络安全标准实践指南—移动互联网应用程序App使用软件开发工...](https://sec.thief.one/article_content?a_id=cd2c6fa41f2528555e96f0b4deb3338d) 
+- [2020-11-29-谭晓生:网络安全即服务的业务前景分析](https://sec.thief.one/article_content?a_id=318c9d8ce12a8d523907a78a4bc9ca26) 
+- [2020-11-29-Python高阶技巧,你-GET了吗?](https://sec.thief.one/article_content?a_id=451f5de2327ef7f04dff8e91e68a6e0d) 
 - [2020-11-28-奇安信亮相2020长沙网络安全·智能制造大会](https://sec.thief.one/article_content?a_id=d9a441631bdfde09777c82c32b123724) 
 - [2020-11-28-网络安全已成为美国国务院2020财年的主要挑战](https://sec.thief.one/article_content?a_id=4bba5349eb04ab9c05e3fda3a6b27407) 
 - [2020-11-28-独家专访-林明峰:新基建时代的网络安全底座](https://sec.thief.one/article_content?a_id=23235ee9f716a78c6b0c0a195ce5da6c) 
@@ -68,6 +72,4 @@
 - [2020-11-26-CAN总线丨网络安全分析与防御措施](https://sec.thief.one/article_content?a_id=e8d429de2641181168de78f71c6c2000) 
 - [2020-11-26-网安新讯-|-央行金融业等保增强标准、密码新国标、网约车数据安全指...](https://sec.thief.one/article_content?a_id=996d01999a2e94f7ab5abb772ec56a38) 
 - [2020-11-26-漏洞银行获“第三届进博会”网络安全保障工作致谢函](https://sec.thief.one/article_content?a_id=572e57d1a4d0197f57224b6ea86fb030) 
-- [2020-11-26-金融行业网络安全等级保护测评、实施标准正式发布-附下载](https://sec.thief.one/article_content?a_id=7465c8bd5f47d5ca68d755dfd9211b89) 
-- [2020-11-26-Web安全:服务器包含注入](https://sec.thief.one/article_content?a_id=a1a0ddf860064dc50a6117b197f444cb) 
 - [2020-11-28-5G不只是eMBB/uRLLC/mMTC，超越三大场景的应用有哪些？](https://www.ershicimi.com/p/dee166a4ea504d555a80ddf9a8d30723) 

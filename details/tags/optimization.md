@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 05:07:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 05:24:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -17,6 +17,7 @@
 - [2020-11-20-从0开始快速上手WebAssembly：打造基于WASM的高性能安全沙盒](https://www.ershicimi.com/p/f685041d75bc49c89f432c79377d79e4) 
 - [2020-11-19-前端性能优化-24-条建议（2020）](https://www.ershicimi.com/p/16fae320bad6ffa073196dcf8c778d76) 
 - [2020-11-23-图片懒加载从简单到复杂](https://www.ershicimi.com/p/3040dc77ae0d37b04ac525718c229733) 
+- [2020-10-29-如何从-0-到-1-搭建性能检测系统修正版](https://www.ershicimi.com/p/caf97cfac5fe753a40ff1f199bf6abfe) 
 - [2020-08-09-编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 08:30:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 08:40:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -26,6 +26,7 @@
 - [2020-11-25-一文带你快速上手Rollup](https://www.ershicimi.com/p/55dfb026f34fd70cb8e82888b500457d) 
 - [2020-11-27-架构师成长计划｜如何利用云原生构建一个企业级高可用架构？](https://www.ershicimi.com/p/78b3f12c8db850f63bc1d2be87431b8c) 
 - [2020-11-25-构建云原生架构版图：安信证券服务化平台实践](https://www.ershicimi.com/p/c91a276fcf613b34fb6de5dd3a3359e1) 
+- [2020-11-28-webpack之plugin编写----从html-webpack-plugin源码的角度来看如何编写plugin](https://juejin.im/post/6900448060758425614) 
 - [2020-11-28-分享《构建自动接收派发机器人》](https://juejin.im/post/6900431244652183565) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
 - [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) 

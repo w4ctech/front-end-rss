@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 08:30:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 08:40:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -53,6 +53,7 @@
 - [2020-11-27-科技重绘金融产业天际线：ReFinTech大会展望金融数据化时代](https://www.ershicimi.com/p/3a80cb8b6b89e55567acb6cd43da1e60) 
 - [2020-11-26-美国重申中兴威胁美国国家安全，12-月将对华为做出最终裁决](https://www.ershicimi.com/p/65df2eeea4115ad80b460e76d0732450) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-29-中国移动一直往-ios-下-safari-自动添加书签怎么解？](https://www.v2ex.com/t/730326) 
 - [2020-11-29-Safari-打开油管网页，现在滑动怎么总是一卡一卡的，之前没有过](https://www.v2ex.com/t/730322) 
 - [2020-11-29-卸载了新版-edge，旧版-edge-不见了，怎么破...](https://www.v2ex.com/t/730314) 
 - [2020-11-29-求-V-友给建议，关于大学生网络安全竞赛的选题和创意](https://www.v2ex.com/t/730300) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 00:08:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 00:19:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -54,6 +54,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-28-Chrome-只显示域名，体验并不好，我打赌-3-年之内-Google-必将改过来，显示全部-url](https://www.v2ex.com/t/730210) 
 - [2020-11-29-RoundShadowImageView：圆形图片的阴影，自由定制](https://toutiao.io/k/jk7k6y3) 
+- [2020-11-28-奇安信亮相2020长沙网络安全·智能制造大会](https://sec.thief.one/article_content?a_id=d9a441631bdfde09777c82c32b123724) 
 - [2020-11-28-网络安全已成为美国国务院2020财年的主要挑战](https://sec.thief.one/article_content?a_id=4bba5349eb04ab9c05e3fda3a6b27407) 
 - [2020-11-28-独家专访-林明峰:新基建时代的网络安全底座](https://sec.thief.one/article_content?a_id=23235ee9f716a78c6b0c0a195ce5da6c) 
 - [2020-11-27-【安全圈】0patch-发布免费补丁:修复-Windows-7-中的漏洞](https://sec.thief.one/article_content?a_id=03f85f8a27b88f0e0e7ac85a217c8483) 
@@ -69,4 +70,3 @@
 - [2020-11-26-漏洞银行获“第三届进博会”网络安全保障工作致谢函](https://sec.thief.one/article_content?a_id=572e57d1a4d0197f57224b6ea86fb030) 
 - [2020-11-26-金融行业网络安全等级保护测评、实施标准正式发布-附下载](https://sec.thief.one/article_content?a_id=7465c8bd5f47d5ca68d755dfd9211b89) 
 - [2020-11-26-Web安全:服务器包含注入](https://sec.thief.one/article_content?a_id=a1a0ddf860064dc50a6117b197f444cb) 
-- [2020-11-26-【安全圈】又打压!外媒:印度再禁43款App,多数来自中国](https://sec.thief.one/article_content?a_id=0f0e866e274850adbadecd53e6acffb4) 

@@ -18710,6 +18710,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "不是散播焦虑，是迷茫",
+        "link": "https://www.v2ex.com/t/730228",
+        "date": "2020-11-29"
+      },
+      {
         "title": "奇门遁甲 Go 语言初试",
         "link": "https://www.v2ex.com/t/730226",
         "date": "2020-11-28"
@@ -18888,11 +18893,6 @@
         "title": "🔥🔥🔥[北京][可年后入职] 美团-诚招高级/资深工程师（35-45k）",
         "link": "https://www.v2ex.com/t/730179",
         "date": "2020-11-28"
-      },
-      {
-        "title": "clash 规则，大家都托管在哪里？",
-        "link": "https://www.v2ex.com/t/730178",
-        "date": "2020-11-28"
       }
     ]
   },
@@ -19059,28 +19059,13 @@
         "date": "2020-11-29"
       },
       {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-29"
-      },
-      {
         "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
         "link": "https://toutiao.io/k/leud24r",
         "date": "2020-11-29"
       },
       {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-29"
       },
       {
@@ -19089,8 +19074,18 @@
         "date": "2020-11-29"
       },
       {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
         "date": "2020-11-29"
       },
       {
@@ -19099,18 +19094,13 @@
         "date": "2020-11-29"
       },
       {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
+        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
+        "link": "https://toutiao.io/k/5stu129",
         "date": "2020-11-29"
       },
       {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "[推荐] 程序员必知必会的十大排序算法",
-        "link": "https://toutiao.io/k/zoyne3a",
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
         "date": "2020-11-29"
       },
       {
@@ -19119,18 +19109,28 @@
         "date": "2020-11-29"
       },
       {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "[推荐] 谈一谈程序员的职业发展路线",
+        "link": "https://toutiao.io/k/b2k5zax",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "[推荐] 程序员必知必会的十大排序算法",
+        "link": "https://toutiao.io/k/zoyne3a",
+        "date": "2020-11-29"
+      },
+      {
         "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
         "link": "https://toutiao.io/k/17q9ijl",
         "date": "2020-11-29"
       },
       {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "[推荐] 架构师之路：微服务技术选型",
-        "link": "https://toutiao.io/k/bxvxty9",
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
         "date": "2020-11-29"
       }
     ]
@@ -19140,6 +19140,41 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "广州市保密技术管理办公室、广州大学网络空间先进技术研究院领导率...",
+        "link": "https://sec.thief.one/article_content?a_id=06efc02609eecf361b32448d968e51f2",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "透过这扇窗,看见数字未来——世界互联网大会·互联网发展论坛侧记",
+        "link": "https://sec.thief.one/article_content?a_id=d8066603236d31d532dc8413dec69e32",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "为什么程序员怕改需求?看完这些神解释我笑了",
+        "link": "https://sec.thief.one/article_content?a_id=bac1c559e4e68466f9a4a2259fc26b67",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "奇安信亮相2020长沙网络安全·智能制造大会",
+        "link": "https://sec.thief.one/article_content?a_id=d9a441631bdfde09777c82c32b123724",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "金睛云华获2020星星之火IT创新项目大赛第一名",
+        "link": "https://sec.thief.one/article_content?a_id=a32f9e311d5ece0a40a39542bfd7a683",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "在看 | 一周网安回顾 2020.11.21~11.27",
+        "link": "https://sec.thief.one/article_content?a_id=b4d3d92a1f0b8854a44dc617a8bf731e",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "PlusToken传销案加密资产或被出售,比特币陷入上下两难",
+        "link": "https://sec.thief.one/article_content?a_id=e402d8c03cc68eb2ed95233ec7e16c86",
+        "date": "2020-11-28"
+      },
       {
         "title": "勒索攻击新趋势,DarkSide解密工具",
         "link": "https://sec.thief.one/article_content?a_id=44bd96cf4066216f9d8bb4eaf8de13ee",
@@ -19603,41 +19638,6 @@
       {
         "title": "钓鱼邮件溯源之你写给我的信不是这么说的",
         "link": "https://sec.thief.one/article_content?a_id=a089aa6dbc77419427d0bc78577fc63e",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "【安全圈】又打压!外媒:印度再禁43款App,多数来自中国",
-        "link": "https://sec.thief.one/article_content?a_id=0f0e866e274850adbadecd53e6acffb4",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "Python爬取各类文档方法归类小结,获取文档资料必备小脚本",
-        "link": "https://sec.thief.one/article_content?a_id=34d8b490a57be447436f449e2626e8f3",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "测试 APP 抓不到数据包该怎么办",
-        "link": "https://sec.thief.one/article_content?a_id=da2ca5db54afae986cc4f635dd98f3c8",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "花了168块钱在闲鱼买到了一份网盘资源!看完后我只想说卧槽!卧槽...",
-        "link": "https://sec.thief.one/article_content?a_id=a09a42b4f8eefb3b639ce9f550375689",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "超燃福利:1000门免费课程,从基础到进阶",
-        "link": "https://sec.thief.one/article_content?a_id=38b90c46a817808999ca2c132c694323",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "20个值得学习的 Python 技巧",
-        "link": "https://sec.thief.one/article_content?a_id=f572ec260220aab169cdcc46e5ffbad2",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "感恩节感恩12579位社区、社群的小伙伴:有你们才有社区今天的强大...",
-        "link": "https://sec.thief.one/article_content?a_id=f7312f9080fec1317f8cb7600466b014",
         "date": "2020-11-26"
       }
     ]

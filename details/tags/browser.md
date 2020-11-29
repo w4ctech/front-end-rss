@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 03:08:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 03:26:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -54,7 +54,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-29-之前-V-站大佬开发了个自选基金助手-Chrome-插件，我给移植到了-Web-上](https://www.v2ex.com/t/730243) 
 - [2020-11-29-postgres-用户登录问题](https://www.v2ex.com/t/730231) 
-- [2020-11-28-Chrome-只显示域名，体验并不好，我打赌-3-年之内-Google-必将改过来，显示全部-url](https://www.v2ex.com/t/730210) 
 - [2020-11-28-奇安信亮相2020长沙网络安全·智能制造大会](https://sec.thief.one/article_content?a_id=d9a441631bdfde09777c82c32b123724) 
 - [2020-11-28-网络安全已成为美国国务院2020财年的主要挑战](https://sec.thief.one/article_content?a_id=4bba5349eb04ab9c05e3fda3a6b27407) 
 - [2020-11-28-独家专访-林明峰:新基建时代的网络安全底座](https://sec.thief.one/article_content?a_id=23235ee9f716a78c6b0c0a195ce5da6c) 

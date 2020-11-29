@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-29 03:08:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-29 03:26:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-29-MacBook-Pro-M1-8+512G-使用中的几个现象](https://www.v2ex.com/t/730264) 
+- [2020-11-29-MEGA-下载，中途打断会怎么样？](https://www.v2ex.com/t/730263) 
+- [2020-11-29-Mac-送去维修期间，工作有什么过度的方案吗？](https://www.v2ex.com/t/730261) 
+- [2020-11-29-golang-plugin-mac-平台下生成-.so-文件，放到-Linux-下执行时报错](https://www.v2ex.com/t/730259) 
+- [2020-11-29-如何让自己的网站支持阅读模式](https://www.v2ex.com/t/730258) 
+- [2020-11-29-帮忙推荐电脑](https://www.v2ex.com/t/730257) 
 - [2020-11-29-做了一个-Fiverr赚美金的兼职外包平台gig-推荐的小程序](https://www.v2ex.com/t/730256) 
 - [2020-11-29-诸位开发日常工作用到鼠标了吗？](https://www.v2ex.com/t/730255) 
 - [2020-11-29-要回四川成都了。](https://www.v2ex.com/t/730254) 
@@ -37,8 +43,3 @@
 - [2020-11-28-iphone12-mini-屏幕在使用中突然变暗可能是硬件问题吗](https://www.v2ex.com/t/730219) 
 - [2020-11-28-ASA5505-使用相关问题](https://www.v2ex.com/t/730217) 
 - [2020-11-28-NS-国行可以买吗？](https://www.v2ex.com/t/730216) 
-- [2020-11-28-virmach-黑五这图也太搞了吧](https://www.v2ex.com/t/730215) 
-- [2020-11-28-win10-怎么查看流氓弹窗历史记录？](https://www.v2ex.com/t/730213) 
-- [2020-11-28-国行-Apple-Watch-加了美版-AC+，可以在国内直营店正常使用意外损坏事件吗？](https://www.v2ex.com/t/730212) 
-- [2020-11-28-Chrome-只显示域名，体验并不好，我打赌-3-年之内-Google-必将改过来，显示全部-url](https://www.v2ex.com/t/730210) 
-- [2020-11-28-除了爱思和沙漏，有-app-能直接看-iPhone-屏幕厂家的么？](https://www.v2ex.com/t/730208) 

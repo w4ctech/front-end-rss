@@ -18740,6 +18740,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请问 Setapp 如何购买最便宜？",
+        "link": "https://www.v2ex.com/t/730702",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "被套路了吗？",
+        "link": "https://www.v2ex.com/t/730701",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "抗菌筷子求推荐",
+        "link": "https://www.v2ex.com/t/730700",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "广州小公司招前端[965][Angular]",
+        "link": "https://www.v2ex.com/t/730699",
+        "date": "2020-11-30"
+      },
+      {
         "title": "Google photo 总有几张照片无法备份？",
         "link": "https://www.v2ex.com/t/730698",
         "date": "2020-11-30"
@@ -18908,31 +18928,6 @@
         "title": "知乎网页端现在不登陆就不能看了吗？",
         "link": "https://www.v2ex.com/t/730654",
         "date": "2020-11-30"
-      },
-      {
-        "title": "上海话的一个问题，耶这个发音的上海话，对应的字有哪些呢",
-        "link": "https://www.v2ex.com/t/730653",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "WebAssembly 在 Web 端视频的应用",
-        "link": "https://www.v2ex.com/t/730652",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "技术求助帖，关于 redis 大 value 存储的问题",
-        "link": "https://www.v2ex.com/t/730651",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "想问问这样的软件外包合同可以签吗？",
-        "link": "https://www.v2ex.com/t/730650",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "s-tui 获取功率失败的问题",
-        "link": "https://www.v2ex.com/t/730649",
-        "date": "2020-11-30"
       }
     ]
   },
@@ -18940,7 +18935,108 @@
     "rss": "https://front-rss.herokuapp.com/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "应对梅雨季 水务精灵助力梅城镇智能化解决排水难题 (yqh.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14020&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15659%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "乐惠国际打造首家精酿啤酒工业互联网平台 (yqh.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14019&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "维他奶拥抱数字化转型 重构员工账户与权限管理方式 (yqh.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14018&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20000%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "金华广电上云 低成本、保证业务系统的高可用性 (yqh.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14017&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20400%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "Bug Report该怎么做？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14016&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-do-bug-report%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "2020双11，Dubbo3.0 在考拉的超大规模实践 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14015&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778827%3Futm_content%3Dg_1000211597%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "Android 轻量级无痕埋点事件监听 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14014&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYIICyzl59iOWfaQ-W0XIxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "三年经验 Android 开发面经总结 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14013&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCiO_T95JWA-ijKghrnCQzw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "双 11 快到了，不给你的 APP 加上自动换图标的功能吗？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14012&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO1NVCZtlfWN2cY-IhseMGg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "IDEA亲兄弟DataGrip 上手体验，真香！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14011&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp0uzLpjHgyzW959RlvMXmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "美貌与智慧并重女博士入职华为，年薪 156 万！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14010&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV1NU5WjukVq1R6nDvBGhyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "写开源项目到底究竟有多赚钱？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14009&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrWIKlOXvNhnLPboDnp2BRQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "卧槽！微信居然有“隐身功能”了！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14008&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FddcGOm9szYcEC_9z9cqV8Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "25 个实用前端网站工具推荐 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14007&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fggm7DzaYY2rKhB2-8v4bqQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "你知道什么是 a站、b站、c站、d站、e站、f站、g站、h站、i站、j站、k站、l站、m站、n站…z 站吗 ？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14006&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwtGHSFUWdwQIyqljxO4OLA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "这些浏览器工作原理你都吃透了吗？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14005&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRzjrf46vrKkPdL2OlRaYMg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "阿里云打下AI地基，更多的开发者走向了前台 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14004&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778839%3Futm_content%3Dg_1000210969%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "阿里云性能测试工具PTS介绍 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14003&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778829%3Futm_content%3Dg_1000210968%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "2020双11养猫技术大揭秘 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14002&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778793%3Futm_content%3Dg_1000210967%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "以 Kubernetes 为代表的容器技术，已成为云计算的新界面 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14001&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778826%3Futm_content%3Dg_1000210966%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
@@ -19048,23 +19144,8 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
+        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
+        "link": "https://toutiao.io/k/5stu129",
         "date": "2020-11-30"
       },
       {
@@ -19073,38 +19154,28 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 架构师之路：微服务技术选型",
-        "link": "https://toutiao.io/k/bxvxty9",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 程序员必知必会的十大排序算法",
-        "link": "https://toutiao.io/k/zoyne3a",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-30"
-      },
-      {
         "title": "[推荐] 谈一谈程序员的职业发展路线",
         "link": "https://toutiao.io/k/b2k5zax",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-30"
       },
       {
@@ -19118,8 +19189,33 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 程序员必知必会的十大排序算法",
+        "link": "https://toutiao.io/k/zoyne3a",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
         "date": "2020-11-30"
       }
     ]

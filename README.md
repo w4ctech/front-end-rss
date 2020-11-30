@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 06:33:37，:rocket: 更新条数: +3913， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 06:52:31，:rocket: 更新条数: +3915， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,12 @@
 </summary>
 
 
+- [2020-11-30-有完全不使用抖音以及其他短视频-app的朋友吗](https://www.v2ex.com/t/730596) ![](assets/new.png)  
+- [2020-11-30-怎么可以查询手机号注册的所有网站和软件？](https://www.v2ex.com/t/730595) ![](assets/new.png)  
+- [2020-11-30-电信网络时断时续的原因查找](https://www.v2ex.com/t/730594) ![](assets/new.png)  
+- [2020-11-30-家里用以前的暗埋网线有线连接时，时断时续](https://www.v2ex.com/t/730593) ![](assets/new.png)  
+- [2020-11-30-广告算法工程师，大厂工作经验-3-5-年，会-C++，坐标：北京、深圳，年薪-70-万+；车载导航-C++开发，工作经验-3-5-年，坐标北京望京！-有意向可以加微信-ymfg521...](https://www.v2ex.com/t/730592) ![](assets/new.png)  
+- [2020-11-30-16-寸-MBP，-EGPU-插左侧第一个（靠近屏幕滚轴那个）雷电-3-接口只有-20Gb-带宽？](https://www.v2ex.com/t/730591) ![](assets/new.png)  
 - [2020-11-30-感觉-pimeyes-这个网站很强大，只要截个头像就能找到对应的人~~~](https://www.v2ex.com/t/730590) ![](assets/new.png)  
 - [2020-11-30-Freenom-申请免费域名（可能）需要-gmail，然而-gmail-无法开通，是否有办法破解死循环？](https://www.v2ex.com/t/730589) ![](assets/new.png)  
 - [2020-11-30-请问图片和视频线上存档哪家强？](https://www.v2ex.com/t/730588) ![](assets/new.png)  
@@ -1088,12 +1094,6 @@
 - [2020-11-30-基于公钥认证体系的开源云生态设计（信息、关系、查询、信任与分享）](https://www.v2ex.com/t/730574) ![](assets/new.png)  
 - [2020-11-30-做了一个-IntelliJ-的股票行情插件](https://www.v2ex.com/t/730572) ![](assets/new.png)  
 - [2020-11-30-谷歌助理的-Voice-Match-功能，我的旧手机能熄屏-OK-Google-唤醒，新手机就不能。这是为什么？](https://www.v2ex.com/t/730571) ![](assets/new.png)  
-- [2020-11-30-迫于黑五，问下有没有什么办法在不持有任何苹果设备的前提下购买-iPad-的-apps](https://www.v2ex.com/t/730570) ![](assets/new.png)  
-- [2020-11-30-Android-开发技术周报-Issue#299](https://www.v2ex.com/t/730569) ![](assets/new.png)  
-- [2020-11-30-Apple-Watch-你们都用哪个表盘呢？](https://www.v2ex.com/t/730568) ![](assets/new.png)  
-- [2020-11-30-久久未更的播客，终于上新了：京剧能成为潮文化，成为一下个街舞吗？](https://www.v2ex.com/t/730567) ![](assets/new.png)  
-- [2020-11-30-帐号重复,怎么注销帐号](https://www.v2ex.com/t/730566) ![](assets/new.png)  
-- [2020-11-30-虚拟机装-WIndows-7-还是-Windows-10-LSBC？](https://www.v2ex.com/t/730565) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1147,8 +1147,8 @@
 - [2020-11-30-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
 - [2020-11-30-Mybatis-日志功能是如何设计的？](https://toutiao.io/k/d625ncr) ![](assets/new.png)  
 - [2020-11-30-译-Kubernetes-Ingress-基于内容的路由](https://toutiao.io/k/ovbzr2q) ![](assets/new.png)  
-- [2020-11-30-腾讯云开源-Kvass-项目，可轻松让-Prometheus-支持横向自动扩缩容](https://toutiao.io/k/y3orima) ![](assets/new.png)  
 - [2020-11-30-Bug-数能否做为技术人员考核的-KPI？](https://toutiao.io/k/ttropqu) ![](assets/new.png)  
+- [2020-11-30-腾讯云开源-Kvass-项目，可轻松让-Prometheus-支持横向自动扩缩容](https://toutiao.io/k/y3orima) ![](assets/new.png)  
 - [2020-11-30-Emacs-入门指南](https://toutiao.io/k/qj828im) ![](assets/new.png)  
 - [2020-11-30-到底该不该用-C++-异常？](https://toutiao.io/k/i65j0s3) ![](assets/new.png)  
 - [2020-11-30-面向-DevSecOps-的编码安全指南（JavaScript-篇）](https://toutiao.io/k/cc5vdxy) ![](assets/new.png)  

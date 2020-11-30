@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 02:29:33，:rocket: 更新条数: +3907， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 02:38:20，:rocket: 更新条数: +3907， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2020-11-30-11月29日全国新增确诊病例18例-本土病例3例](https://m.caixin.com/m/2020-11-30/101633722.html) ![](assets/new.png)  
+- [2020-11-30-大流行手记|11月29日：美国日增病例过20万-俄大规模接种新冠疫苗](https://m.caixin.com/m/2020-11-30/101633739.html) ![](assets/new.png)  
 - [2020-11-29-香港日增115宗新冠病例-幼儿园中小学停课至12月底](https://m.caixin.com/m/2020-11-29/101633672.html) ![](assets/new.png)  
 - [2020-11-29-一韩籍员工出境后核酸阳性-所在重庆企业停产](https://m.caixin.com/m/2020-11-29/101633619.html) ![](assets/new.png)  
 - [2020-11-29-【境内疫情观察】全国新增11例境外输入病例（11月28日）](http://m.database.caixin.com/m/2020-11-29/101633629.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2020-11-26-内蒙古新增本土确诊病例9例-均在满洲里](http://m.china.caixin.com/m/2020-11-26/101632701.html) ![](assets/new.png)  
 - [2020-11-26-【境内疫情观察】内蒙古新增9例本土确诊病例（11月25日）](http://m.database.caixin.com/m/2020-11-26/101632600.html) ![](assets/new.png)  
 - [2020-11-26-大流行手记|11月25日：英入境隔离期将缩至5天-美测试疫苗分发网络](https://m.caixin.com/m/2020-11-26/101632481.html) ![](assets/new.png)  
-- [2020-11-26-来华航班近两百份核酸报告雷同-使馆要求俄航司重检](http://m.companies.caixin.com/m/2020-11-26/101632663.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-11-30-12-pro-的信号我裂了](https://www.v2ex.com/t/730488) ![](assets/new.png)  
+- [2020-11-30-上海电信更新-jetbrains-家的产品很慢很慢吗](https://www.v2ex.com/t/730486) ![](assets/new.png)  
 - [2020-11-30-uni-app-在-IOS-下使用-webview-拉起-H5-支付难道无解了吗？](https://www.v2ex.com/t/730485) ![](assets/new.png)  
 - [2020-11-30-Google-面试题：最接近零的子数组和](https://www.v2ex.com/t/730484) ![](assets/new.png)  
 - [2020-11-30-未读消息（小红点），前端与-RabbitMQ-实时消息推送实践，贼简单~](https://www.v2ex.com/t/730483) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-11-30-onedrive-备份的照片没法再同步回相册了么？](https://www.v2ex.com/t/730464) ![](assets/new.png)  
 - [2020-11-30-上海在哪找靠谱的上门装机服务？](https://www.v2ex.com/t/730463) ![](assets/new.png)  
 - [2020-11-30-pom-私有库迁移？](https://www.v2ex.com/t/730462) ![](assets/new.png)  
-- [2020-11-30-大家遇到过-Chrome-扩展发布的"Privacy"部分一直无法提交的问题吗？](https://www.v2ex.com/t/730461) ![](assets/new.png)  
-- [2020-11-30-三七互娱内推-社招-中/高产品经理（数据中台方向-13-25K）](https://www.v2ex.com/t/730460) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

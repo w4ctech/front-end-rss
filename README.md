@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 23:08:23，:rocket: 更新条数: +3904， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 23:25:57，:rocket: 更新条数: +3904， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1064,6 +1064,7 @@
 </summary>
 
 
+- [2020-11-30-发现了一个强大的-wsl/termux-下-Linux-安装脚本，比-anlinux/-Linux-deploy-应该是厉害多了](https://www.v2ex.com/t/730799) ![](assets/new.png)  
 - [2020-11-30-12-月阅读主题：程序员软技能相关，欢迎推荐书](https://www.v2ex.com/t/730798) ![](assets/new.png)  
 - [2020-11-30-邮件伪造问题](https://www.v2ex.com/t/730796) ![](assets/new.png)  
 - [2020-11-30-请教下装-ubuntu-双系统进行独立引导的问题](https://www.v2ex.com/t/730795) ![](assets/new.png)  
@@ -1083,7 +1084,6 @@
 - [2020-11-30-有没有人搞一个“水印文字由无数种颜色组成”的身份证加水印工具？](https://www.v2ex.com/t/730778) ![](assets/new.png)  
 - [2020-11-30-c++类的继承问题](https://www.v2ex.com/t/730777) ![](assets/new.png)  
 - [2020-11-30-芷兰云_德阳电信高防服务器租用](https://www.v2ex.com/t/730776) ![](assets/new.png)  
-- [2020-11-30-做程序员出身，到达什么地步才能出来自己创业？？](https://www.v2ex.com/t/730775) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

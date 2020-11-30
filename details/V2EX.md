@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-30 23:08:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 23:25:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-30-发现了一个强大的-wsl/termux-下-Linux-安装脚本，比-anlinux/-Linux-deploy-应该是厉害多了](https://www.v2ex.com/t/730799) 
 - [2020-11-30-12-月阅读主题：程序员软技能相关，欢迎推荐书](https://www.v2ex.com/t/730798) 
 - [2020-11-30-邮件伪造问题](https://www.v2ex.com/t/730796) 
 - [2020-11-30-请教下装-ubuntu-双系统进行独立引导的问题](https://www.v2ex.com/t/730795) 
@@ -45,4 +46,3 @@
 - [2020-11-30-迫于搬家，出点闲置，-k3，戴尔-p2416p-23.8-寸-2k](https://www.v2ex.com/t/730752) 
 - [2020-11-30-75hz-刷新率下打开某些网页黑屏问题](https://www.v2ex.com/t/730751) 
 - [2020-11-30-升级-Big-Sur-之后-Parallels-Desktop-16-的诸多问题](https://www.v2ex.com/t/730750) 
-- [2020-11-30-深圳虾皮-toc-group-前端开发工作节奏，技术水平，业务复杂度怎么样？有了解的大佬说说吗？](https://www.v2ex.com/t/730749) 

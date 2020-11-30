@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-30 13:47:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 14:04:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -23,3 +23,4 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2020-11-30-微信的内置浏览器，对-svg-的字体图标渲染，位置总是对不齐？（和-Chrome/Safari-这些主流浏览器相比）](https://www.v2ex.com/t/730748) 

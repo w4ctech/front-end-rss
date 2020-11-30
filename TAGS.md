@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-30 01:43:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 01:56:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -525,6 +525,7 @@
 - [【互联网架构师】图解ElasticSearch-搜索原理](https://www.ershicimi.com/p/004a1ad76ab30b0657f69117c7835164)
 - [【掘金前端】前端学数据结构与算法（十三）：01执行的艺术---回溯算法上](https://juejin.im/post/6900507534676164622)
 - [【V2EX】薪酬信息分享网站-http://duibiao.info-上线-feed-功能](https://www.v2ex.com/t/730445)
+- [【开发者头条】推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -605,6 +606,7 @@
 - [【前端大学】我的前端面试心法（已拿字节offer）](https://www.ershicimi.com/p/51d7414987bc027487cc4c2519f9d36f)
 - [【前端外刊评论】美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665)
 - [【前端外刊评论】字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4)
+- [【前端迷】海康威视web前端开发招聘急招岗](https://www.ershicimi.com/p/e1f2165d75551bd5651298d6864ccc0b)
 - [【前端迷】面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f7a0c514829ee6cfb825327ed2797705)
 - [【前端迷】字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/853f12e5d2578bad8a5c98ccc396cda9)
 - [【全栈前端精选】3-年创业公司成长经历-&&-面试总结](https://www.ershicimi.com/p/680a0ac4a338dc8670d844bb5b075a41)
@@ -612,7 +614,6 @@
 - [【前端宇宙】字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/8f112a5e00b041969cfa42acb7273064)
 - [【前端宇宙】【从青铜到钻石】3-年创业公司成长经历-&&-面试总结](https://www.ershicimi.com/p/b5846a88daaa5c3cd045a3f0f5486e15)
 - [【前端宇宙】12-道腾讯前端面试真题及答案整理](https://www.ershicimi.com/p/28baa842a304c24ea39adead62ee6c21)
-- [【程序员成长指北】新出炉的阿里、腾讯、美团以及网易等一线公司面试总结](https://www.ershicimi.com/p/03e97cd833477bed46996595e3b56036)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

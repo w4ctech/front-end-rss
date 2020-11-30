@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 01:56:02，:rocket: 更新条数: +3903， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 02:05:37，:rocket: 更新条数: +3900， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,7 +1074,7 @@
 </summary>
 
 
-- [2020-11-30-“薪酬倒挂”的成因，想看回复](https://www.v2ex.com/t/730473) ![](assets/new.png)  
+- [2020-11-30-去哪里可以换-1-元硬币？](https://www.v2ex.com/t/730474) ![](assets/new.png)  
 - [2020-11-30-上海小两房直租，沪南路-1361-弄，-5000-，付一押一](https://www.v2ex.com/t/730472) ![](assets/new.png)  
 - [2020-11-30-请问一下-V-友-AirPods-Pro-有异响怎么办?](https://www.v2ex.com/t/730470) ![](assets/new.png)  
 - [2020-11-30-关注-iPad-8-电池问题的个人总结](https://www.v2ex.com/t/730469) ![](assets/new.png)  
@@ -1142,8 +1142,8 @@
 - [2020-11-30-做架构也得讲武德](https://toutiao.io/k/otq0aqr) ![](assets/new.png)  
 - [2020-11-30-Java-字符串-String-那些事](https://toutiao.io/k/nslm9x5) ![](assets/new.png)  
 - [2020-11-30-如何浅显的解释-RESTful？这次我让你彻底弄懂它](https://toutiao.io/k/mw7yfc2) ![](assets/new.png)  
-- [2020-11-30-别让-USB-传输速度影响-Android-开发效率](https://toutiao.io/k/nvk5whu) ![](assets/new.png)  
 - [2020-11-30-译-Kubernetes-Ingress-基于内容的路由](https://toutiao.io/k/ovbzr2q) ![](assets/new.png)  
+- [2020-11-30-别让-USB-传输速度影响-Android-开发效率](https://toutiao.io/k/nvk5whu) ![](assets/new.png)  
 - [2020-11-30-Mybatis-日志功能是如何设计的？](https://toutiao.io/k/d625ncr) ![](assets/new.png)  
 - [2020-11-30-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
 - [2020-11-30-腾讯云开源-Kvass-项目，可轻松让-Prometheus-支持横向自动扩缩容](https://toutiao.io/k/y3orima) ![](assets/new.png)  
@@ -1152,10 +1152,10 @@
 - [2020-11-30-Emacs-入门指南](https://toutiao.io/k/qj828im) ![](assets/new.png)  
 - [2020-11-30-到底该不该用-C++-异常？](https://toutiao.io/k/i65j0s3) ![](assets/new.png)  
 - [2020-11-30-面向-DevSecOps-的编码安全指南（JavaScript-篇）](https://toutiao.io/k/cc5vdxy) ![](assets/new.png)  
-- [2020-11-30-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
+- [2020-11-30-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
+- [2020-11-30-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
+- [2020-11-30-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
 - [2020-11-30-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
-- [2020-11-30-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
-- [2020-11-30-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

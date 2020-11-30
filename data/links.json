@@ -18735,6 +18735,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "新电脑无法开启系统定位服务？",
+        "link": "https://www.v2ex.com/t/730548",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "绿联的扩展坞真如网上说的那么差吗？",
+        "link": "https://www.v2ex.com/t/730547",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "为什么京东 Plus 的每月 100 元礼包券入口那么深？",
+        "link": "https://www.v2ex.com/t/730546",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "MacBook Pro 15\" 2017 连上 4k 显示器后疯狂降频",
+        "link": "https://www.v2ex.com/t/730545",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "杭州未来科技城西溪湿地边上有一些家具家电便宜转让，有意加 v 私聊 wxwtz8888",
+        "link": "https://www.v2ex.com/t/730543",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "从 github 克隆下来的工程怎么使用",
+        "link": "https://www.v2ex.com/t/730542",
+        "date": "2020-11-30"
+      },
+      {
         "title": "全栈工程师，主要方向为 Java 后端， 5 年+工作经验，找一份远程工作",
         "link": "https://www.v2ex.com/t/730537",
         "date": "2020-11-30"
@@ -18865,11 +18895,6 @@
         "date": "2020-11-30"
       },
       {
-        "title": "蛋壳疑似暴雷后续维权可以参考津津乐道播客律师采访那段（直接快进到 30 分钟处，大概是这个时间点）",
-        "link": "https://www.v2ex.com/t/730503",
-        "date": "2020-11-30"
-      },
-      {
         "title": "大家都分享一下 wishlist 吧",
         "link": "https://www.v2ex.com/t/730502",
         "date": "2020-11-30"
@@ -18877,51 +18902,6 @@
       {
         "title": "有偿开发， 使用 Go 语言",
         "link": "https://www.v2ex.com/t/730500",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "关于 捷径 自动化配置自定义脚本问题",
-        "link": "https://www.v2ex.com/t/730498",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "🎉 Element UI for Vue 3.0 来了！",
-        "link": "https://www.v2ex.com/t/730497",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "Mac AC+加钱换新是什么规则？",
-        "link": "https://www.v2ex.com/t/730496",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "中国电信的蜂窝网络注册页面 404",
-        "link": "https://www.v2ex.com/t/730495",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "30 岁后，辞职后，程序员还能干什么？为了解决这个看似焦虑的问题，频繁出故事（事故）",
-        "link": "https://www.v2ex.com/t/730494",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[北京-社招] [伴鱼绘本] 日常招聘推荐算法/服务器/前端/客户端~",
-        "link": "https://www.v2ex.com/t/730493",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "北京联通出口 又炸了吗",
-        "link": "https://www.v2ex.com/t/730492",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "蛋壳暴雷后，真希望公司能搬离大城市",
-        "link": "https://www.v2ex.com/t/730491",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "Win10 20H2 更新问题 家里台式第一时间收到推送更新成功 但是笔记本一直更新失败",
-        "link": "https://www.v2ex.com/t/730490",
         "date": "2020-11-30"
       }
     ]
@@ -18931,6 +18911,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "金华广电上云 低成本、保证业务系统的高可用性 (yqh.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14017&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20400%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
       {
         "title": "Bug Report该怎么做？ (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14016&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-do-bug-report%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -19025,11 +19010,6 @@
         "title": "数据中台技术及业务发展史与未来趋势展望 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13998&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778763%3Futm_content%3Dg_1000210313%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-30"
-      },
-      {
-        "title": "Hologres是如何完美支撑双11智能客服实时数仓的？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13997&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778544%3Futm_content%3Dg_1000210312%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-30"
       }
     ]
   },
@@ -19059,13 +19039,13 @@
         "date": "2020-11-30"
       },
       {
-        "title": "Java 字符串 String 那些事",
-        "link": "https://toutiao.io/k/nslm9x5",
+        "title": "南京有哪些牛批的互联网公司？",
+        "link": "https://toutiao.io/k/akkoum5",
         "date": "2020-11-30"
       },
       {
-        "title": "南京有哪些牛批的互联网公司？",
-        "link": "https://toutiao.io/k/akkoum5",
+        "title": "Java 字符串 String 那些事",
+        "link": "https://toutiao.io/k/nslm9x5",
         "date": "2020-11-30"
       },
       {
@@ -19139,48 +19119,18 @@
         "date": "2020-11-30"
       },
       {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
+        "date": "2020-11-30"
+      },
+      {
         "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
         "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
-        "date": "2020-11-30"
-      },
-      {
         "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
         "link": "https://toutiao.io/k/5shq47n",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
         "date": "2020-11-30"
       },
       {
@@ -19194,8 +19144,8 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
         "date": "2020-11-30"
       },
       {
@@ -19204,13 +19154,43 @@
         "date": "2020-11-30"
       },
       {
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
+        "date": "2020-11-30"
+      },
+      {
         "title": "[推荐] 架构师之路：微服务技术选型",
         "link": "https://toutiao.io/k/bxvxty9",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
         "date": "2020-11-30"
       }
     ]

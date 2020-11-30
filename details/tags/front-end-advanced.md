@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-30 04:09:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 04:32:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -21,4 +21,3 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-11-25-图解ElasticSearch-搜索原理](https://www.ershicimi.com/p/004a1ad76ab30b0657f69117c7835164) 
 - [2020-11-30-全栈工程师，主要方向为-Java-后端，-5-年+工作经验，找一份远程工作](https://www.v2ex.com/t/730537) 
-- [2020-11-30-北京-社招-伴鱼绘本-日常招聘推荐算法/服务器/前端/客户端~](https://www.v2ex.com/t/730493) 

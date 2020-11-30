@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 04:09:36，:rocket: 更新条数: +3909， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 04:32:18，:rocket: 更新条数: +3905， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,12 @@
 </summary>
 
 
+- [2020-11-30-新电脑无法开启系统定位服务？](https://www.v2ex.com/t/730548) ![](assets/new.png)  
+- [2020-11-30-绿联的扩展坞真如网上说的那么差吗？](https://www.v2ex.com/t/730547) ![](assets/new.png)  
+- [2020-11-30-为什么京东-Plus-的每月-100-元礼包券入口那么深？](https://www.v2ex.com/t/730546) ![](assets/new.png)  
+- [2020-11-30-MacBook-Pro-15"-2017-连上-4k-显示器后疯狂降频](https://www.v2ex.com/t/730545) ![](assets/new.png)  
+- [2020-11-30-杭州未来科技城西溪湿地边上有一些家具家电便宜转让，有意加-v-私聊-wxwtz8888](https://www.v2ex.com/t/730543) ![](assets/new.png)  
+- [2020-11-30-从-github-克隆下来的工程怎么使用](https://www.v2ex.com/t/730542) ![](assets/new.png)  
 - [2020-11-30-全栈工程师，主要方向为-Java-后端，-5-年+工作经验，找一份远程工作](https://www.v2ex.com/t/730537) ![](assets/new.png)  
 - [2020-11-30-深圳-金融科技公司---公司在海外市场发展迅猛，-大量岗位-全球招聘！](https://www.v2ex.com/t/730536) ![](assets/new.png)  
 - [2020-11-30-老父亲非要去投资外卖-APP，如何劝他收手](https://www.v2ex.com/t/730535) ![](assets/new.png)  
@@ -1088,12 +1094,6 @@
 - [2020-11-30-开源项目-InfoSpider-爬虫工具箱，-2.0-版本功能需求征集，听听大家的想法](https://www.v2ex.com/t/730524) ![](assets/new.png)  
 - [2020-11-30-解决-Homebrew-慢，无法-update-的一个思路](https://www.v2ex.com/t/730523) ![](assets/new.png)  
 - [2020-11-30-如果只知道对方的手机号码,-请问有什么办法可以获取对方的信息?](https://www.v2ex.com/t/730522) ![](assets/new.png)  
-- [2020-11-30-utools-插件中心一直转圈加载中。](https://www.v2ex.com/t/730521) ![](assets/new.png)  
-- [2020-11-30-现在地级市的门户网小程序还有搞头吗](https://www.v2ex.com/t/730520) ![](assets/new.png)  
-- [2020-11-30-刚查了下，社保统筹金额只有医疗跟生育-2-项，其它没有了，是为什么，但是个人的却有个养老的](https://www.v2ex.com/t/730518) ![](assets/new.png)  
-- [2020-11-30-开发者搭建小程序都有哪些方式呢？](https://www.v2ex.com/t/730516) ![](assets/new.png)  
-- [2020-11-30-请教，如何关闭-chrome-自带的-extensions-manager](https://www.v2ex.com/t/730515) ![](assets/new.png)  
-- [2020-11-30-AMD-Radeon-RX-6800-XT-使用体验](https://www.v2ex.com/t/730514) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,6 +1105,7 @@
 </summary>
 
 
+- [2020-11-30-金华广电上云-低成本、保证业务系统的高可用性-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14017&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20400%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-30-Bug-Report该怎么做？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14016&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-do-bug-report%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-30-2020双11，Dubbo3.0-在考拉的超大规模实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14015&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778827%3Futm_content%3Dg_1000211597%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-30-Android-轻量级无痕埋点事件监听-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14014&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYIICyzl59iOWfaQ-W0XIxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1124,7 +1125,6 @@
 - [2020-11-30-2020双11，阿里巴巴集团数万数据库系统全面上云揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14000&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778711%3Futm_content%3Dg_1000210965%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-30-深度解读-MongoDB-最全面的增强版本-4.4-新特性-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13999&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778777%3Futm_content%3Dg_1000210314%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-30-数据中台技术及业务发展史与未来趋势展望-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13998&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778763%3Futm_content%3Dg_1000210313%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-Hologres是如何完美支撑双11智能客服实时数仓的？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13997&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778544%3Futm_content%3Dg_1000210312%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,8 +1140,8 @@
 - [2020-11-30-编码风格：Mvc-模式下-SSM-环境，代码分层管理](https://toutiao.io/k/dr3u1om) ![](assets/new.png)  
 - [2020-11-30-Grails-Oauth2-插件适配非标准-SSO-接口](https://toutiao.io/k/nzhai4f) ![](assets/new.png)  
 - [2020-11-30-做架构也得讲武德](https://toutiao.io/k/otq0aqr) ![](assets/new.png)  
-- [2020-11-30-Java-字符串-String-那些事](https://toutiao.io/k/nslm9x5) ![](assets/new.png)  
 - [2020-11-30-南京有哪些牛批的互联网公司？](https://toutiao.io/k/akkoum5) ![](assets/new.png)  
+- [2020-11-30-Java-字符串-String-那些事](https://toutiao.io/k/nslm9x5) ![](assets/new.png)  
 - [2020-11-30-如何浅显的解释-RESTful？这次我让你彻底弄懂它](https://toutiao.io/k/mw7yfc2) ![](assets/new.png)  
 - [2020-11-30-别让-USB-传输速度影响-Android-开发效率](https://toutiao.io/k/nvk5whu) ![](assets/new.png)  
 - [2020-11-30-译-Kubernetes-Ingress-基于内容的路由](https://toutiao.io/k/ovbzr2q) ![](assets/new.png)  

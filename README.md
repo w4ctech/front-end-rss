@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 06:09:08，:rocket: 更新条数: +3911， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 06:33:37，:rocket: 更新条数: +3913， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,13 @@
 </summary>
 
 
+- [2020-11-30-感觉-pimeyes-这个网站很强大，只要截个头像就能找到对应的人~~~](https://www.v2ex.com/t/730590) ![](assets/new.png)  
+- [2020-11-30-Freenom-申请免费域名（可能）需要-gmail，然而-gmail-无法开通，是否有办法破解死循环？](https://www.v2ex.com/t/730589) ![](assets/new.png)  
+- [2020-11-30-请问图片和视频线上存档哪家强？](https://www.v2ex.com/t/730588) ![](assets/new.png)  
+- [2020-11-30-发现一个很奇怪的电影名字](https://www.v2ex.com/t/730586) ![](assets/new.png)  
+- [2020-11-30-请问有没有不用-Proxifier-的，在-OSX-下使用-Google-Drive-的姿势](https://www.v2ex.com/t/730585) ![](assets/new.png)  
+- [2020-11-30-请问雷电三拓展坞连接-mbp13-寸没有独显版本发热严重吗](https://www.v2ex.com/t/730584) ![](assets/new.png)  
+- [2020-11-30-iMac-24"-预计-2021-年一季度重设计模具，那么，有没有可能加触摸屏功能？](https://www.v2ex.com/t/730581) ![](assets/new.png)  
 - [2020-11-30-AWS-AGA-香港电信过去的线路很有可能走了-MPLS-专线...](https://www.v2ex.com/t/730580) ![](assets/new.png)  
 - [2020-11-30-显示器-typec-问题](https://www.v2ex.com/t/730578) ![](assets/new.png)  
 - [2020-11-30-如何在-VS2019-中使用-git"指令"进行代码管理](https://www.v2ex.com/t/730576) ![](assets/new.png)  
@@ -1087,13 +1094,6 @@
 - [2020-11-30-久久未更的播客，终于上新了：京剧能成为潮文化，成为一下个街舞吗？](https://www.v2ex.com/t/730567) ![](assets/new.png)  
 - [2020-11-30-帐号重复,怎么注销帐号](https://www.v2ex.com/t/730566) ![](assets/new.png)  
 - [2020-11-30-虚拟机装-WIndows-7-还是-Windows-10-LSBC？](https://www.v2ex.com/t/730565) ![](assets/new.png)  
-- [2020-11-30-想找一个超精简的-Linux](https://www.v2ex.com/t/730564) ![](assets/new.png)  
-- [2020-11-30-这种烂大街的套路在-V2-上使用-居然没人吐槽么?](https://www.v2ex.com/t/730563) ![](assets/new.png)  
-- [2020-11-30-求助，关于-macOS-系统内置服务走代理方法](https://www.v2ex.com/t/730562) ![](assets/new.png)  
-- [2020-11-30-有没有大佬在淘宝-腾讯麦克家买的-16g-mini-发货了](https://www.v2ex.com/t/730561) ![](assets/new.png)  
-- [2020-11-30-为-VSCode-提供-Texinfo-格式支持](https://www.v2ex.com/t/730560) ![](assets/new.png)  
-- [2020-11-30-京东原来每天都有的满-99-减-2-的话费券，现在取消了？](https://www.v2ex.com/t/730559) ![](assets/new.png)  
-- [2020-11-30-请教一下，-Android-里的-ListView-如何实时更新数据并逐条显示？](https://www.v2ex.com/t/730558) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,8 +1145,8 @@
 - [2020-11-30-如何浅显的解释-RESTful？这次我让你彻底弄懂它](https://toutiao.io/k/mw7yfc2) ![](assets/new.png)  
 - [2020-11-30-别让-USB-传输速度影响-Android-开发效率](https://toutiao.io/k/nvk5whu) ![](assets/new.png)  
 - [2020-11-30-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
-- [2020-11-30-译-Kubernetes-Ingress-基于内容的路由](https://toutiao.io/k/ovbzr2q) ![](assets/new.png)  
 - [2020-11-30-Mybatis-日志功能是如何设计的？](https://toutiao.io/k/d625ncr) ![](assets/new.png)  
+- [2020-11-30-译-Kubernetes-Ingress-基于内容的路由](https://toutiao.io/k/ovbzr2q) ![](assets/new.png)  
 - [2020-11-30-腾讯云开源-Kvass-项目，可轻松让-Prometheus-支持横向自动扩缩容](https://toutiao.io/k/y3orima) ![](assets/new.png)  
 - [2020-11-30-Bug-数能否做为技术人员考核的-KPI？](https://toutiao.io/k/ttropqu) ![](assets/new.png)  
 - [2020-11-30-Emacs-入门指南](https://toutiao.io/k/qj828im) ![](assets/new.png)  

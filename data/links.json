@@ -18740,6 +18740,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "感觉 pimeyes 这个网站很强大，只要截个头像就能找到对应的人~~~",
+        "link": "https://www.v2ex.com/t/730590",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "Freenom 申请免费域名（可能）需要 gmail，然而 gmail 无法开通，是否有办法破解死循环？",
+        "link": "https://www.v2ex.com/t/730589",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "请问图片和视频线上存档哪家强？",
+        "link": "https://www.v2ex.com/t/730588",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "发现一个很奇怪的电影名字",
+        "link": "https://www.v2ex.com/t/730586",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "请问有没有不用 Proxifier 的，在 OSX 下使用 Google Drive 的姿势",
+        "link": "https://www.v2ex.com/t/730585",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "请问雷电三拓展坞连接 mbp13 寸没有独显版本发热严重吗",
+        "link": "https://www.v2ex.com/t/730584",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "iMac 24\" 预计 2021 年一季度重设计模具，那么，有没有可能加触摸屏功能？",
+        "link": "https://www.v2ex.com/t/730581",
+        "date": "2020-11-30"
+      },
+      {
         "title": "AWS AGA 香港电信过去的线路很有可能走了 MPLS 专线...",
         "link": "https://www.v2ex.com/t/730580",
         "date": "2020-11-30"
@@ -18908,31 +18943,6 @@
         "title": "从 github 克隆下来的工程怎么使用",
         "link": "https://www.v2ex.com/t/730542",
         "date": "2020-11-30"
-      },
-      {
-        "title": "全栈工程师，主要方向为 Java 后端， 5 年+工作经验，找一份远程工作",
-        "link": "https://www.v2ex.com/t/730537",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[深圳] 金融科技公司 - 公司在海外市场发展迅猛， 大量岗位 全球招聘！",
-        "link": "https://www.v2ex.com/t/730536",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "老父亲非要去投资外卖 APP，如何劝他收手",
-        "link": "https://www.v2ex.com/t/730535",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "三本文科毕业的人可以做点啥",
-        "link": "https://www.v2ex.com/t/730534",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "大家的 MBP 有没有上 AC+？哪里买比较划算？",
-        "link": "https://www.v2ex.com/t/730532",
-        "date": "2020-11-30"
       }
     ]
   },
@@ -19094,13 +19104,13 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[译] Kubernetes Ingress 基于内容的路由",
-        "link": "https://toutiao.io/k/ovbzr2q",
+        "title": "Mybatis 日志功能是如何设计的？",
+        "link": "https://toutiao.io/k/d625ncr",
         "date": "2020-11-30"
       },
       {
-        "title": "Mybatis 日志功能是如何设计的？",
-        "link": "https://toutiao.io/k/d625ncr",
+        "title": "[译] Kubernetes Ingress 基于内容的路由",
+        "link": "https://toutiao.io/k/ovbzr2q",
         "date": "2020-11-30"
       },
       {
@@ -19149,33 +19159,13 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
-        "date": "2020-11-30"
-      },
-      {
         "title": "[推荐] 程序员如何管理你的上级领导？",
         "link": "https://toutiao.io/k/s5w119y",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
         "date": "2020-11-30"
       },
       {
@@ -19189,8 +19179,13 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
+        "title": "[推荐] 谈一谈程序员的职业发展路线",
+        "link": "https://toutiao.io/k/b2k5zax",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
+        "link": "https://toutiao.io/k/5stu129",
         "date": "2020-11-30"
       },
       {
@@ -19199,8 +19194,18 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
         "date": "2020-11-30"
       },
       {
@@ -19209,8 +19214,13 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
         "date": "2020-11-30"
       },
       {
@@ -19219,8 +19229,8 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 架构师之路：微服务技术选型",
-        "link": "https://toutiao.io/k/bxvxty9",
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-11-30"
       }
     ]

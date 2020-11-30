@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 19:07:42，:rocket: 更新条数: +3905， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 19:24:10，:rocket: 更新条数: +3905， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1064,6 +1064,7 @@
 </summary>
 
 
+- [2020-11-30-邮件伪造问题](https://www.v2ex.com/t/730796) ![](assets/new.png)  
 - [2020-11-30-请教下装-ubuntu-双系统进行独立引导的问题](https://www.v2ex.com/t/730795) ![](assets/new.png)  
 - [2020-11-30-不懂就问：关于查看官方文档的困惑。](https://www.v2ex.com/t/730794) ![](assets/new.png)  
 - [2020-11-30-如何干掉知乎弹出的登录窗口？（11.30）](https://www.v2ex.com/t/730793) ![](assets/new.png)  
@@ -1083,7 +1084,6 @@
 - [2020-11-30-芷兰云_德阳电信高防服务器租用](https://www.v2ex.com/t/730776) ![](assets/new.png)  
 - [2020-11-30-做程序员出身，到达什么地步才能出来自己创业？？](https://www.v2ex.com/t/730775) ![](assets/new.png)  
 - [2020-11-30-Google-账号异常活动怎么解决，每次登录都要改密码](https://www.v2ex.com/t/730774) ![](assets/new.png)  
-- [2020-11-30-Mac-mini-M1-16G-256G，中度办公-10-小时，摸了下机身，是凉的，惊了](https://www.v2ex.com/t/730773) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

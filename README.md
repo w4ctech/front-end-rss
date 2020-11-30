@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 15:33:07，:rocket: 更新条数: +3891， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 15:54:05，:rocket: 更新条数: +3678， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,8 +39,8 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
-- [奇舞周刊](#奇舞周刊)  
+- [凹凸实验室](#凹凸实验室)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
@@ -737,26 +737,6 @@
 </summary>
 
 
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -768,6 +748,26 @@
 </summary>
 
 
+- [2020-11-30-调试React状态？console.log就是个弟弟](https://www.ershicimi.com/p/8ab1a3e02385f308d0e8c714a19e911b) ![](assets/new.png)  
+- [2020-11-30-奇舞团-即视-招高级前端开发工程师](https://www.ershicimi.com/p/a7dded4dc7abc45bb99e06175fdef057) ![](assets/new.png)  
+- [2020-11-30-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/27faf2d8877b34e820066f67b878a91a) ![](assets/new.png)  
+- [2020-11-28-聊一聊-15.5K-的-FileSaver，是如何工作的？](https://www.ershicimi.com/p/47eaf8d47d8e67412d02f7a9f57b42d0) ![](assets/new.png)  
+- [2020-11-28-奇舞团-即视-招高级前端开发工程师](https://www.ershicimi.com/p/3a9bd42f54b07b78776f47f4a0dcb1ed) ![](assets/new.png)  
+- [2020-11-28-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/d84cc6eb9e5154b2e3c5a61dd5fb79d8) ![](assets/new.png)  
+- [2020-11-27-奇舞周刊第-374-期：用-JS-写一个-JS-解释器](https://www.ershicimi.com/p/b050338487ebd5d055a8966f6ec9a11f) ![](assets/new.png)  
+- [2020-11-26-React-是如何工作的](https://www.ershicimi.com/p/00e4532cf1dadf77219c20b73762b4ab) ![](assets/new.png)  
+- [2020-11-26-奇舞团-即视-招高级前端开发工程师](https://www.ershicimi.com/p/1820285fdc8d39d4b0f9dcf4522f6068) ![](assets/new.png)  
+- [2020-11-26-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/c241e0d7648f8dc405857e323f3d6003) ![](assets/new.png)  
+- [2020-11-25-一文带你快速上手Rollup](https://www.ershicimi.com/p/55dfb026f34fd70cb8e82888b500457d) ![](assets/new.png)  
+- [2020-11-25-奇舞团-即视-招高级前端开发工程师](https://www.ershicimi.com/p/86f3da17ed3504144155e2cf24e752d3) ![](assets/new.png)  
+- [2020-11-25-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/cc6331014b4da80a7f1ff51d203a8f07) ![](assets/new.png)  
+- [2020-11-23-说一说will-change](https://www.ershicimi.com/p/da9707976da87fe34ac083b8c9bb48f1) ![](assets/new.png)  
+- [2020-11-23-奇舞团-即视-招高级前端开发工程师](https://www.ershicimi.com/p/d4e2c5cbc6e8bf14de7d5bc22737b856) ![](assets/new.png)  
+- [2020-11-23-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/f9d43e54e20a3ea4aa6cf6645be9e89e) ![](assets/new.png)  
+- [2020-11-21-MongoDB-副本集之入门篇](https://www.ershicimi.com/p/d5f77e43bda8429be0e9eeff3191149b) ![](assets/new.png)  
+- [2020-11-21-奇舞团-即视-招高级前端开发工程师](https://www.ershicimi.com/p/8193429e0852b07e389636e2ed3f4c78) ![](assets/new.png)  
+- [2020-11-21-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/4ae44470e74371fb88c9b72f3a285b3e) ![](assets/new.png)  
+- [2020-11-20-奇舞周刊第-373-期：关于-Vue-3.0-Ref-sugar-提案的看法](https://www.ershicimi.com/p/e0ead05b1663301ee553bb5f70f13fe3) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1054,6 +1054,14 @@
 </summary>
 
 
+- [2020-11-30-有没有人搞一个“水印文字由无数种颜色组成”的身份证加水印工具？](https://www.v2ex.com/t/730778) ![](assets/new.png)  
+- [2020-11-30-类的继承问题](https://www.v2ex.com/t/730777) ![](assets/new.png)  
+- [2020-11-30-芷兰云_德阳电信高防服务器租用](https://www.v2ex.com/t/730776) ![](assets/new.png)  
+- [2020-11-30-做程序员出身，到达什么地步才能出来自己创业？？](https://www.v2ex.com/t/730775) ![](assets/new.png)  
+- [2020-11-30-Google-账号异常活动怎么解决，每次登录都要改密码](https://www.v2ex.com/t/730774) ![](assets/new.png)  
+- [2020-11-30-Mac-mini-M1-16G-256G，中度办公-10-小时，摸了下机身，是凉的，惊了](https://www.v2ex.com/t/730773) ![](assets/new.png)  
+- [2020-11-30-!小白请教高并发确保不会有重复数据的问题](https://www.v2ex.com/t/730772) ![](assets/new.png)  
+- [2020-11-30-西北家里种的新鲜核桃来卖啦](https://www.v2ex.com/t/730771) ![](assets/new.png)  
 - [2020-11-30-MBP-如何合上盖子的同时也关闭显示器？](https://www.v2ex.com/t/730769) ![](assets/new.png)  
 - [2020-11-30-Elasticsearch-使用不同分词器导致搜索排名的问题](https://www.v2ex.com/t/730768) ![](assets/new.png)  
 - [2020-11-30-求推荐一个速度快的-frp-服务](https://www.v2ex.com/t/730767) ![](assets/new.png)  
@@ -1066,14 +1074,6 @@
 - [2020-11-30-无论用什么手机，觉得自己信号不好的可以进来看看](https://www.v2ex.com/t/730757) ![](assets/new.png)  
 - [2020-11-30-分享一下今晚广州天环苹果直营的被辱骂和限制人身自由经历](https://www.v2ex.com/t/730756) ![](assets/new.png)  
 - [2020-11-30-买了个软件大礼包，用不上的送人](https://www.v2ex.com/t/730755) ![](assets/new.png)  
-- [2020-11-30-「迫于冬天喝咖啡」有没有集加热牛奶和打奶泡于一身的机器？](https://www.v2ex.com/t/730754) ![](assets/new.png)  
-- [2020-11-30-迫于搬家，出点闲置，-k3，戴尔-p2416p-23.8-寸-2k](https://www.v2ex.com/t/730752) ![](assets/new.png)  
-- [2020-11-30-75hz-刷新率下打开某些网页黑屏问题](https://www.v2ex.com/t/730751) ![](assets/new.png)  
-- [2020-11-30-升级-Big-Sur-之后-Parallels-Desktop-16-的诸多问题](https://www.v2ex.com/t/730750) ![](assets/new.png)  
-- [2020-11-30-深圳虾皮-toc-group-前端开发工作节奏，技术水平，业务复杂度怎么样？有了解的大佬说说吗？](https://www.v2ex.com/t/730749) ![](assets/new.png)  
-- [2020-11-30-微信的内置浏览器，对-svg-的字体图标渲染，位置总是对不齐？（和-Chrome/Safari-这些主流浏览器相比）](https://www.v2ex.com/t/730748) ![](assets/new.png)  
-- [2020-11-30-价值约-2000-元!-云筏-CloudFlare-Pro-订阅仅-40-元/年-含-WAF+PageRules30-条+CF-隧道流量-60G+更多](https://www.v2ex.com/t/730747) ![](assets/new.png)  
-- [2020-11-30-冬天-bs-过多过硬怎么办?](https://www.v2ex.com/t/730746) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

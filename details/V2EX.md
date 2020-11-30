@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-11-30 05:08:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 05:25:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-30-迫于黑五，问下有没有什么办法在不持有任何苹果设备的前提下购买-iPad-的-apps](https://www.v2ex.com/t/730570) 
+- [2020-11-30-Android-开发技术周报-Issue#299](https://www.v2ex.com/t/730569) 
+- [2020-11-30-Apple-Watch-你们都用哪个表盘呢？](https://www.v2ex.com/t/730568) 
+- [2020-11-30-久久未更的播客，终于上新了：京剧能成为潮文化，成为一下个街舞吗？](https://www.v2ex.com/t/730567) 
+- [2020-11-30-帐号重复,怎么注销帐号](https://www.v2ex.com/t/730566) 
+- [2020-11-30-虚拟机装-WIndows-7-还是-Windows-10-LSBC？](https://www.v2ex.com/t/730565) 
+- [2020-11-30-想找一个超精简的-Linux](https://www.v2ex.com/t/730564) 
+- [2020-11-30-这种烂大街的套路在-V2-上使用-居然没人吐槽么?](https://www.v2ex.com/t/730563) 
+- [2020-11-30-求助，关于-macOS-系统内置服务走代理方法](https://www.v2ex.com/t/730562) 
+- [2020-11-30-有没有大佬在淘宝-腾讯麦克家买的-16g-mini-发货了](https://www.v2ex.com/t/730561) 
 - [2020-11-30-为-VSCode-提供-Texinfo-格式支持](https://www.v2ex.com/t/730560) 
 - [2020-11-30-京东原来每天都有的满-99-减-2-的话费券，现在取消了？](https://www.v2ex.com/t/730559) 
 - [2020-11-30-请教一下，-Android-里的-ListView-如何实时更新数据并逐条显示？](https://www.v2ex.com/t/730558) 
@@ -37,10 +47,3 @@
 - [2020-11-30-解决-Homebrew-慢，无法-update-的一个思路](https://www.v2ex.com/t/730523) 
 - [2020-11-30-如果只知道对方的手机号码,-请问有什么办法可以获取对方的信息?](https://www.v2ex.com/t/730522) 
 - [2020-11-30-utools-插件中心一直转圈加载中。](https://www.v2ex.com/t/730521) 
-- [2020-11-30-现在地级市的门户网小程序还有搞头吗](https://www.v2ex.com/t/730520) 
-- [2020-11-30-刚查了下，社保统筹金额只有医疗跟生育-2-项，其它没有了，是为什么，但是个人的却有个养老的](https://www.v2ex.com/t/730518) 
-- [2020-11-30-开发者搭建小程序都有哪些方式呢？](https://www.v2ex.com/t/730516) 
-- [2020-11-30-请教，如何关闭-chrome-自带的-extensions-manager](https://www.v2ex.com/t/730515) 
-- [2020-11-30-AMD-Radeon-RX-6800-XT-使用体验](https://www.v2ex.com/t/730514) 
-- [2020-11-30-从文件夹中压缩任意-5-万个文件，命令怎么写呢？](https://www.v2ex.com/t/730513) 
-- [2020-11-30-ObjectiveSQL-稳定版本发布-1.4.0](https://www.v2ex.com/t/730512) 

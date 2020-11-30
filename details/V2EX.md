@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-11-30 08:32:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 08:49:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-30-上海话的一个问题，耶这个发音的上海话，对应的字有哪些呢](https://www.v2ex.com/t/730653) 
+- [2020-11-30-WebAssembly-在-Web-端视频的应用](https://www.v2ex.com/t/730652) 
+- [2020-11-30-技术求助帖，关于-redis-大-value-存储的问题](https://www.v2ex.com/t/730651) 
+- [2020-11-30-想问问这样的软件外包合同可以签吗？](https://www.v2ex.com/t/730650) 
+- [2020-11-30-s-tui-获取功率失败的问题](https://www.v2ex.com/t/730649) 
+- [2020-11-30-二手房只装修厕所，大概要花多少钱？](https://www.v2ex.com/t/730647) 
+- [2020-11-30-iPhone-带着口罩,faceid-解锁问题](https://www.v2ex.com/t/730646) 
 - [2020-11-30-深圳招聘-Java-全栈工程师-资深-Web-前端工程师-（20-30k/月*15）](https://www.v2ex.com/t/730645) 
 - [2020-11-30-IPv4-怎么升级为-IPv6？](https://www.v2ex.com/t/730644) 
 - [2020-11-30-装了-TestFilght-国产各-app-软件疯狂弹窗测试版邀请？](https://www.v2ex.com/t/730641) 
@@ -25,6 +32,7 @@
 - [2020-11-30-求教-Python-如何将字符串转化为-emoji？](https://www.v2ex.com/t/730622) 
 - [2020-11-30-EggJS-云原生应用硬核实战（Kubernetes+Traefik+Helm+Prometheus+Grafana）,提供-Demo](https://www.v2ex.com/t/730621) 
 - [2020-11-30-工业物联网行业-HRM，转互联网大厂猎头，第-15-天！奥力给！](https://www.v2ex.com/t/730620) 
+- [2020-11-30-周一继续卖脐橙，正宗赣南脐橙！中果上市！](https://www.v2ex.com/t/730619) 
 - [2020-11-30-新人问一下-Java-多线程的问题。](https://www.v2ex.com/t/730618) 
 - [2020-11-30-🔥🔥🔥蚂蚁集团组内直聘资深-Java-研发、流量调度/缓存/大数据-SRE](https://www.v2ex.com/t/730617) 
 - [2020-11-30-Go-有什么好用的轻应用服务框架？](https://www.v2ex.com/t/730616) 
@@ -37,9 +45,3 @@
 - [2020-11-30-批处理，拓展显示器显示](https://www.v2ex.com/t/730608) 
 - [2020-11-30-成都房子不好出租索性就打扮一番（后续）](https://www.v2ex.com/t/730605) 
 - [2020-11-30-有没有程序员喜欢玩重机车的在这集结讨论一下呗](https://www.v2ex.com/t/730604) 
-- [2020-11-30-跳槽薪资计算器上线啦！再也不担心-HR-问我期望薪资](https://www.v2ex.com/t/730603) 
-- [2020-11-30-有在-US-的朋友吗？-target-的-apple-gift-card-好像有百分之-20-的优惠，买-12-系列-8-折，免税州更美滋滋。](https://www.v2ex.com/t/730601) 
-- [2020-11-30--杭州-Java-阿里巴巴-Java-高级工程师/技术专家](https://www.v2ex.com/t/730600) 
-- [2020-11-30-想给老人家买个手环](https://www.v2ex.com/t/730599) 
-- [2020-11-30-显示器-75hz-刷新率下打开某些网页黑屏问题](https://www.v2ex.com/t/730597) 
-- [2020-11-30-有完全不使用抖音以及其他短视频-app的朋友吗](https://www.v2ex.com/t/730596) 

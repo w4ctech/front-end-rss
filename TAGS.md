@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-30 08:32:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 08:49:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -525,6 +525,7 @@
 - [【互联网架构师】图解ElasticSearch-搜索原理](https://www.ershicimi.com/p/004a1ad76ab30b0657f69117c7835164)
 - [【V2EX】深圳招聘-Java-全栈工程师-资深-Web-前端工程师-（20-30k/月*15）](https://www.v2ex.com/t/730645)
 - [【V2EX】北京&上海&杭州字节跳动-ToB-机器学习算法-/-后端系统架构-工程师](https://www.v2ex.com/t/730612)
+- [【开发者头条】推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -576,7 +577,6 @@
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】求教-Git-命令行增强](https://www.v2ex.com/t/730633)
 - [【V2EX】GitHub-访问不顺怎么办？在线等，急](https://www.v2ex.com/t/730626)
-- [【开发者头条】推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp)
 - [【安全热点】字节跳动《Git-学习手册》火了,完整版-PDF-开放下载!](https://sec.thief.one/article_content?a_id=67664b3a2d0490bebba593b84c9759e3)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

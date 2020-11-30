@@ -10,6 +10,11 @@
         "date": "2020-11-30"
       },
       {
+        "title": "【境内疫情观察】内蒙古新增3例本土确诊病例（11月29日）",
+        "link": "http://m.database.caixin.com/m/2020-11-30/101633865.html",
+        "date": "2020-11-30"
+      },
+      {
         "title": "大流行手记|11月29日：美国日增病例过20万 俄军大规模接种新冠疫苗",
         "link": "https://m.caixin.com/m/2020-11-30/101633739.html",
         "date": "2020-11-30"
@@ -17559,6 +17564,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "AWS AGA 香港电信过去的线路很有可能走了 MPLS 专线...",
+        "link": "https://www.v2ex.com/t/730580",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "显示器 typec 问题",
+        "link": "https://www.v2ex.com/t/730578",
+        "date": "2020-11-30"
+      },
+      {
         "title": "如何在 VS2019 中使用 git\"指令\"进行代码管理",
         "link": "https://www.v2ex.com/t/730576",
         "date": "2020-11-30"
@@ -17742,21 +17757,6 @@
         "title": "大家的 MBP 有没有上 AC+？哪里买比较划算？",
         "link": "https://www.v2ex.com/t/730532",
         "date": "2020-11-30"
-      },
-      {
-        "title": "没事不要长期把 MBP 连接电源和显示器",
-        "link": "https://www.v2ex.com/t/730530",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "软路由 ESXI 虚拟交换机概念 求解",
-        "link": "https://www.v2ex.com/t/730529",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "面向技术大咖，付费采购技术图书、专栏",
-        "link": "https://www.v2ex.com/t/730528",
-        "date": "2020-11-30"
       }
     ]
   },
@@ -17765,6 +17765,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "维他奶拥抱数字化转型 重构员工账户与权限管理方式 (yqh.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14018&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20000%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
       {
         "title": "金华广电上云 低成本、保证业务系统的高可用性 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14017&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20400%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -17859,11 +17864,6 @@
         "title": "深度解读 MongoDB 最全面的增强版本 4.4 新特性 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13999&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778777%3Futm_content%3Dg_1000210314%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-30"
-      },
-      {
-        "title": "数据中台技术及业务发展史与未来趋势展望 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13998&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778763%3Futm_content%3Dg_1000210313%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-30"
       }
     ]
   },
@@ -17913,13 +17913,13 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[译] Kubernetes Ingress 基于内容的路由",
-        "link": "https://toutiao.io/k/ovbzr2q",
+        "title": "前端高效开发必备的 js 库梳理",
+        "link": "https://toutiao.io/k/rtusig3",
         "date": "2020-11-30"
       },
       {
-        "title": "前端高效开发必备的 js 库梳理",
-        "link": "https://toutiao.io/k/rtusig3",
+        "title": "[译] Kubernetes Ingress 基于内容的路由",
+        "link": "https://toutiao.io/k/ovbzr2q",
         "date": "2020-11-30"
       },
       {
@@ -17973,23 +17973,8 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 架构师之路：微服务技术选型",
-        "link": "https://toutiao.io/k/bxvxty9",
-        "date": "2020-11-30"
-      },
-      {
         "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
         "link": "https://toutiao.io/k/55mybdz",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
         "date": "2020-11-30"
       },
       {
@@ -17998,13 +17983,33 @@
         "date": "2020-11-30"
       },
       {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
+        "date": "2020-11-30"
+      },
+      {
         "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
         "link": "https://toutiao.io/k/wpo96pp",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 程序员必知必会的十大排序算法",
+        "link": "https://toutiao.io/k/zoyne3a",
         "date": "2020-11-30"
       },
       {
@@ -18018,33 +18023,28 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
-        "date": "2020-11-30"
-      },
-      {
         "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
         "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
         "date": "2020-11-30"
       },
       {
         "title": "[推荐] 分布式一致性协议 Raft",
         "link": "https://toutiao.io/k/xydtpak",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
         "date": "2020-11-30"
       }
     ]

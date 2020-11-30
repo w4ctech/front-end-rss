@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-30 15:04:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 15:10:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-30-MBP-如何合上盖子的同时也关闭显示器？](https://www.v2ex.com/t/730769) 
 - [2020-11-30-Elasticsearch-使用不同分词器导致搜索排名的问题](https://www.v2ex.com/t/730768) 
 - [2020-11-30-求推荐一个速度快的-frp-服务](https://www.v2ex.com/t/730767) 
 - [2020-11-30-请教一下，名下有公司，想跳槽是否过不了背调了？](https://www.v2ex.com/t/730766) 
@@ -43,4 +44,3 @@
 - [2020-11-30-大概看了好几个开源项目，代码工整，风格统一的好少](https://www.v2ex.com/t/730722) 
 - [2020-11-30-Linux-ip-隧道-用了几天-ping-就变高了，但是直接-ping-没事，是主机商干的吗](https://www.v2ex.com/t/730721) 
 - [2020-11-30-SharedPreferences-储存-10-15-个-int,可以放在-Ondestory里吗？](https://www.v2ex.com/t/730720) 
-- [2020-11-30-小米路由器-3G，开启的-SAMBA-服务怎么跨网段访问？](https://www.v2ex.com/t/730719) 

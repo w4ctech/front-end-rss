@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 15:04:43，:rocket: 更新条数: +3912， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 15:10:14，:rocket: 更新条数: +3912， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-30-MBP-如何合上盖子的同时也关闭显示器？](https://www.v2ex.com/t/730769) ![](assets/new.png)  
 - [2020-11-30-Elasticsearch-使用不同分词器导致搜索排名的问题](https://www.v2ex.com/t/730768) ![](assets/new.png)  
 - [2020-11-30-求推荐一个速度快的-frp-服务](https://www.v2ex.com/t/730767) ![](assets/new.png)  
 - [2020-11-30-请教一下，名下有公司，想跳槽是否过不了背调了？](https://www.v2ex.com/t/730766) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-11-30-微信的内置浏览器，对-svg-的字体图标渲染，位置总是对不齐？（和-Chrome/Safari-这些主流浏览器相比）](https://www.v2ex.com/t/730748) ![](assets/new.png)  
 - [2020-11-30-价值约-2000-元!-云筏-CloudFlare-Pro-订阅仅-40-元/年-含-WAF+PageRules30-条+CF-隧道流量-60G+更多](https://www.v2ex.com/t/730747) ![](assets/new.png)  
 - [2020-11-30-冬天-bs-过多过硬怎么办?](https://www.v2ex.com/t/730746) ![](assets/new.png)  
-- [2020-11-30-Windows-上有软件可以打开-macOS-下加密的-dmg-文件吗？](https://www.v2ex.com/t/730745) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

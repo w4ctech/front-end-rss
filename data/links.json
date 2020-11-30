@@ -18745,6 +18745,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "MBP 如何合上盖子的同时也关闭显示器？",
+        "link": "https://www.v2ex.com/t/730769",
+        "date": "2020-11-30"
+      },
+      {
         "title": "Elasticsearch 使用不同分词器导致搜索排名的问题",
         "link": "https://www.v2ex.com/t/730768",
         "date": "2020-11-30"
@@ -18932,11 +18937,6 @@
       {
         "title": "SharedPreferences 储存 10-15 个 int,可以放在 Ondestory()里吗？",
         "link": "https://www.v2ex.com/t/730720",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "小米路由器 3G，开启的 SAMBA 服务怎么跨网段访问？",
-        "link": "https://www.v2ex.com/t/730719",
         "date": "2020-11-30"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-30 15:04:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 15:10:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2834,6 +2834,7 @@
 - [2020-11-22-知乎故事-|-走入社会后第一次嚎啕大哭](https://www.ershicimi.com/p/d7fd5f098dd54fba924b9122a232d477) 
 - [2020-11-22-2020，我删除无数个公众号，只留下了这-9-个](https://www.ershicimi.com/p/dc9c9f8bf3af62a0b763a15ef764dd79) 
 - [2020-11-20-知乎神吐槽-|-为什么男生不要轻易对女生说晚安？](https://www.ershicimi.com/p/9cc2743d5b9c15f87c277946c47b298f) 
+- [2020-11-30-MBP-如何合上盖子的同时也关闭显示器？](https://www.v2ex.com/t/730769) 
 - [2020-11-30-求推荐一个速度快的-frp-服务](https://www.v2ex.com/t/730767) 
 - [2020-11-30-请教一下，名下有公司，想跳槽是否过不了背调了？](https://www.v2ex.com/t/730766) 
 - [2020-11-30-请教一个-HBA-卡-FC-网络的问题](https://www.v2ex.com/t/730763) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-30 05:25:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 05:34:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-30-做了一个-IntelliJ-的股票行情插件](https://www.v2ex.com/t/730572) 
+- [2020-11-30-谷歌助理的-Voice-Match-功能，我的旧手机能熄屏-OK-Google-唤醒，新手机就不能。这是为什么？](https://www.v2ex.com/t/730571) 
 - [2020-11-30-迫于黑五，问下有没有什么办法在不持有任何苹果设备的前提下购买-iPad-的-apps](https://www.v2ex.com/t/730570) 
 - [2020-11-30-Android-开发技术周报-Issue#299](https://www.v2ex.com/t/730569) 
 - [2020-11-30-Apple-Watch-你们都用哪个表盘呢？](https://www.v2ex.com/t/730568) 
@@ -44,6 +46,3 @@
 - [2020-11-30-广州联通-4G-最近是不是网速特别慢（信号满格）-？](https://www.v2ex.com/t/730526) 
 - [2020-11-30-招租室友，北京梅市口附近，-2500，押一付一](https://www.v2ex.com/t/730525) 
 - [2020-11-30-开源项目-InfoSpider-爬虫工具箱，-2.0-版本功能需求征集，听听大家的想法](https://www.v2ex.com/t/730524) 
-- [2020-11-30-解决-Homebrew-慢，无法-update-的一个思路](https://www.v2ex.com/t/730523) 
-- [2020-11-30-如果只知道对方的手机号码,-请问有什么办法可以获取对方的信息?](https://www.v2ex.com/t/730522) 
-- [2020-11-30-utools-插件中心一直转圈加载中。](https://www.v2ex.com/t/730521) 

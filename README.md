@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 10:27:45，:rocket: 更新条数: +3911， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 10:36:52，:rocket: 更新条数: +3891， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-11-30-Google-photo-总有几张照片无法备份？](https://www.v2ex.com/t/730698) ![](assets/new.png)  
+- [2020-11-30-有几万-求推荐招行理财](https://www.v2ex.com/t/730697) ![](assets/new.png)  
 - [2020-11-30-南方人滑雪，应该去哪？](https://www.v2ex.com/t/730695) ![](assets/new.png)  
 - [2020-11-30-卖了成都房子,-上上海闵行或奉贤的车-是否值得呢？](https://www.v2ex.com/t/730694) ![](assets/new.png)  
 - [2020-11-30-想购买一个社区电商小程序源码](https://www.v2ex.com/t/730693) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-11-30-大伙怎么看待新能源](https://www.v2ex.com/t/730676) ![](assets/new.png)  
 - [2020-11-30-一个读取数据库再输出随机值的函数，重复-1000-次观察结果，怎么写效率最高？](https://www.v2ex.com/t/730675) ![](assets/new.png)  
 - [2020-11-30-爬虫遇到源码里面没有-class-属性的情况，但渲染后又有了的情况有什么办法解决吗。不用-selenium](https://www.v2ex.com/t/730674) ![](assets/new.png)  
-- [2020-11-30-京东物流招聘-T5+](https://www.v2ex.com/t/730673) ![](assets/new.png)  
-- [2020-11-30-上海叠纸游戏急招！](https://www.v2ex.com/t/730672) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,26 +1105,6 @@
 </summary>
 
 
-- [2020-11-30-应对梅雨季-水务精灵助力梅城镇智能化解决排水难题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14020&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15659%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-乐惠国际打造首家精酿啤酒工业互联网平台-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14019&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-维他奶拥抱数字化转型-重构员工账户与权限管理方式-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14018&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20000%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-金华广电上云-低成本、保证业务系统的高可用性-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14017&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20400%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-Bug-Report该怎么做？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14016&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-do-bug-report%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-2020双11，Dubbo3.0-在考拉的超大规模实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14015&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778827%3Futm_content%3Dg_1000211597%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-Android-轻量级无痕埋点事件监听-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14014&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYIICyzl59iOWfaQ-W0XIxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-三年经验-Android-开发面经总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14013&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCiO_T95JWA-ijKghrnCQzw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-双-11-快到了，不给你的-APP-加上自动换图标的功能吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14012&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO1NVCZtlfWN2cY-IhseMGg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-IDEA亲兄弟DataGrip-上手体验，真香！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14011&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp0uzLpjHgyzW959RlvMXmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-美貌与智慧并重女博士入职华为，年薪-156-万！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14010&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV1NU5WjukVq1R6nDvBGhyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-写开源项目到底究竟有多赚钱？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14009&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrWIKlOXvNhnLPboDnp2BRQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-卧槽！微信居然有“隐身功能”了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14008&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FddcGOm9szYcEC_9z9cqV8Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-25-个实用前端网站工具推荐-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14007&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fggm7DzaYY2rKhB2-8v4bqQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-你知道什么是-a站、b站、c站、d站、e站、f站、g站、h站、i站、j站、k站、l站、m站、n站…z-站吗-？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14006&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwtGHSFUWdwQIyqljxO4OLA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-这些浏览器工作原理你都吃透了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14005&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRzjrf46vrKkPdL2OlRaYMg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-阿里云打下AI地基，更多的开发者走向了前台-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14004&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778839%3Futm_content%3Dg_1000210969%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-阿里云性能测试工具PTS介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14003&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778829%3Futm_content%3Dg_1000210968%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-2020双11养猫技术大揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14002&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778793%3Futm_content%3Dg_1000210967%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-以-Kubernetes-为代表的容器技术，已成为云计算的新界面-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14001&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778826%3Futm_content%3Dg_1000210966%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,8 +1124,8 @@
 - [2020-11-30-做架构也得讲武德](https://toutiao.io/k/otq0aqr) ![](assets/new.png)  
 - [2020-11-30-Java-字符串-String-那些事](https://toutiao.io/k/nslm9x5) ![](assets/new.png)  
 - [2020-11-30-如何浅显的解释-RESTful？这次我让你彻底弄懂它](https://toutiao.io/k/mw7yfc2) ![](assets/new.png)  
-- [2020-11-30-别让-USB-传输速度影响-Android-开发效率](https://toutiao.io/k/nvk5whu) ![](assets/new.png)  
 - [2020-11-30-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
+- [2020-11-30-别让-USB-传输速度影响-Android-开发效率](https://toutiao.io/k/nvk5whu) ![](assets/new.png)  
 - [2020-11-30-Mybatis-日志功能是如何设计的？](https://toutiao.io/k/d625ncr) ![](assets/new.png)  
 - [2020-11-30-译-Kubernetes-Ingress-基于内容的路由](https://toutiao.io/k/ovbzr2q) ![](assets/new.png)  
 - [2020-11-30-腾讯云开源-Kvass-项目，可轻松让-Prometheus-支持横向自动扩缩容](https://toutiao.io/k/y3orima) ![](assets/new.png)  

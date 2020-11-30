@@ -16162,6 +16162,16 @@
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
       {
+        "title": "写给前端的 Jenkins 教程——快速实现前端/ Node.js 项目的 CI/CD",
+        "link": "https://www.ershicimi.com/p/996261327022b35565cf5a2bfa4e2c46",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "纯CSS实现密室逃脱游戏",
+        "link": "https://www.ershicimi.com/p/85fe84fc77c0e95bebdb7eb1599ba0cb",
+        "date": "2020-11-30"
+      },
+      {
         "title": "这位C++工程师从学废到学会，做了什么？",
         "link": "https://www.ershicimi.com/p/ffcea60a8486709bc32db4cccb85d1d3",
         "date": "2020-11-29"
@@ -16250,16 +16260,6 @@
         "title": "webpack 的异步加载原理及分包策略",
         "link": "https://www.ershicimi.com/p/8463f91e36d6a821cf260aa3b2c87d34",
         "date": "2020-11-21"
-      },
-      {
-        "title": "高端玩家！树莓派 + Node.js 实现语音机器人 🤖",
-        "link": "https://www.ershicimi.com/p/a7d5be05aeab92f4cdfa1e45903a6782",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "程序员晒出工资条 力证年入百万，网友：阿里P7这么牛吗？",
-        "link": "https://www.ershicimi.com/p/890985d75a59a93d16478ebb3517ebc9",
-        "date": "2020-11-19"
       }
     ]
   },
@@ -16452,7 +16452,58 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [],
+    "items": [
+      {
+        "title": "NutUI CLI源码解析",
+        "link": "https://jdc.jd.com/archives/213013",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "NutUI 3.0 中单元测试的探索和实践",
+        "link": "https://jdc.jd.com/archives/213007",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "用户说的都是真的吗？这些陷阱要避开",
+        "link": "https://jdc.jd.com/archives/212987",
+        "date": "2019-06-28"
+      },
+      {
+        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
+        "link": "https://jdc.jd.com/archives/212979",
+        "date": "2019-03-15"
+      },
+      {
+        "title": "京东PLUS会员项目前端性能优化实践",
+        "link": "https://jdc.jd.com/archives/212962",
+        "date": "2019-02-15"
+      },
+      {
+        "title": "8个常见的研究者认知偏误陷阱",
+        "link": "https://jdc.jd.com/archives/212946",
+        "date": "2019-01-28"
+      },
+      {
+        "title": "用户访谈——哪些原则简单却有效",
+        "link": "https://jdc.jd.com/archives/212927",
+        "date": "2019-01-24"
+      },
+      {
+        "title": "体现工匠精神的Resource Hints",
+        "link": "https://jdc.jd.com/archives/212917",
+        "date": "2018-12-29"
+      },
+      {
+        "title": "HTML5 Audio的兼容性问题和优化",
+        "link": "https://jdc.jd.com/archives/212874",
+        "date": "2018-12-26"
+      },
+      {
+        "title": "一个表情引发的思考",
+        "link": "https://jdc.jd.com/archives/212870",
+        "date": "2018-12-26"
+      }
+    ],
     "link": "https://jdc.jd.com"
   },
   {
@@ -18694,6 +18745,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "不懂就问：关于查看官方文档的困惑。",
+        "link": "https://www.v2ex.com/t/730794",
+        "date": "2020-11-30"
+      },
+      {
         "title": "如何干掉知乎弹出的登录窗口？（11.30）",
         "link": "https://www.v2ex.com/t/730793",
         "date": "2020-11-30"
@@ -18896,11 +18952,6 @@
       {
         "title": "Windows 上有软件可以打开 macOS 下加密的 dmg 文件吗？",
         "link": "https://www.v2ex.com/t/730745",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "更新 Big Sur 后，罗技鼠标 M590 无法正常使用",
-        "link": "https://www.v2ex.com/t/730744",
         "date": "2020-11-30"
       }
     ]
@@ -19123,43 +19174,23 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 架构师之路：微服务技术选型",
-        "link": "https://toutiao.io/k/bxvxty9",
-        "date": "2020-11-30"
-      },
-      {
         "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
         "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 分布式数据网格 Data Mesh",
-        "link": "https://toutiao.io/k/p6zp7x5",
+        "title": "[推荐] 程序员必知必会的十大排序算法",
+        "link": "https://toutiao.io/k/zoyne3a",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
+        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
+        "link": "https://toutiao.io/k/5sw3syp",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-11-30"
       },
       {
@@ -19173,23 +19204,43 @@
         "date": "2020-11-30"
       },
       {
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 分布式数据网格 Data Mesh",
+        "link": "https://toutiao.io/k/p6zp7x5",
+        "date": "2020-11-30"
+      },
+      {
         "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
         "link": "https://toutiao.io/k/5shq47n",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
-        "link": "https://toutiao.io/k/5sw3syp",
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
         "date": "2020-11-30"
       },
       {
         "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
         "link": "https://toutiao.io/k/6vn5kqj",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
         "date": "2020-11-30"
       }
     ]

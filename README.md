@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 18:31:13，:rocket: 更新条数: +3905， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 18:43:20，:rocket: 更新条数: +3915， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -619,6 +619,8 @@
 </summary>
 
 
+- [2020-11-30-写给前端的-Jenkins-教程——快速实现前端/-Node.js-项目的-CI/CD](https://www.ershicimi.com/p/996261327022b35565cf5a2bfa4e2c46) ![](assets/new.png)  
+- [2020-11-30-纯CSS实现密室逃脱游戏](https://www.ershicimi.com/p/85fe84fc77c0e95bebdb7eb1599ba0cb) ![](assets/new.png)  
 - [2020-11-29-这位C++工程师从学废到学会，做了什么？](https://www.ershicimi.com/p/ffcea60a8486709bc32db4cccb85d1d3) ![](assets/new.png)  
 - [2020-11-29-组件库主题设计方案](https://www.ershicimi.com/p/cfcb0d158e49026fc6b917a5790f1e0d) ![](assets/new.png)  
 - [2020-11-29-提高国内访问-GitHub-的速度的-9-种方案](https://www.ershicimi.com/p/c624b6a6448aebefb6e327f474c50ae9) ![](assets/new.png)  
@@ -637,8 +639,6 @@
 - [2020-11-22-Next.js-+Egg.js+React项目服务器部署超详解](https://www.ershicimi.com/p/0bba38649013df28365c907500c60af3) ![](assets/new.png)  
 - [2020-11-21-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/9f053eb61e3d582595fa1fdfbc309cf4) ![](assets/new.png)  
 - [2020-11-21-webpack-的异步加载原理及分包策略](https://www.ershicimi.com/p/8463f91e36d6a821cf260aa3b2c87d34) ![](assets/new.png)  
-- [2020-11-20-高端玩家！树莓派-+-Node.js-实现语音机器人-🤖](https://www.ershicimi.com/p/a7d5be05aeab92f4cdfa1e45903a6782) ![](assets/new.png)  
-- [2020-11-19-程序员晒出工资条-力证年入百万，网友：阿里P7这么牛吗？](https://www.ershicimi.com/p/890985d75a59a93d16478ebb3517ebc9) ![](assets/new.png)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -716,6 +716,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,6 +1074,7 @@
 </summary>
 
 
+- [2020-11-30-不懂就问：关于查看官方文档的困惑。](https://www.v2ex.com/t/730794) ![](assets/new.png)  
 - [2020-11-30-如何干掉知乎弹出的登录窗口？（11.30）](https://www.v2ex.com/t/730793) ![](assets/new.png)  
 - [2020-11-30-出京东-plus-年卡-55r](https://www.v2ex.com/t/730792) ![](assets/new.png)  
 - [2020-11-30-奇奇怪怪的笔记本-WiFi-问题-笔记本插网线正常上网，路由器上的-wifi-连不上](https://www.v2ex.com/t/730791) ![](assets/new.png)  
@@ -1083,7 +1094,6 @@
 - [2020-11-30-Google-账号异常活动怎么解决，每次登录都要改密码](https://www.v2ex.com/t/730774) ![](assets/new.png)  
 - [2020-11-30-Mac-mini-M1-16G-256G，中度办公-10-小时，摸了下机身，是凉的，惊了](https://www.v2ex.com/t/730773) ![](assets/new.png)  
 - [2020-11-30-!小白请教高并发确保不会有重复数据的问题](https://www.v2ex.com/t/730772) ![](assets/new.png)  
-- [2020-11-30-西北家里种的新鲜核桃来卖啦](https://www.v2ex.com/t/730771) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-30 05:34:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 05:47:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -247,6 +247,7 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-134-期）：未来的游戏业比现在大100倍](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html)
+- [【开发者头条】推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm)
 - [【物联网智库】只有5G才能做到的事，我以后看视频、打游戏可能再也不会卡了~](https://www.ershicimi.com/p/0a2ec51f5eaf6120f5d3772bcce537ea)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -465,7 +466,6 @@
 - [【互联网架构师】图解ElasticSearch-搜索原理](https://www.ershicimi.com/p/004a1ad76ab30b0657f69117c7835164)
 - [【V2EX】腾讯深圳-招聘算法后台工程师！](https://www.v2ex.com/t/730553)
 - [【V2EX】全栈工程师，主要方向为-Java-后端，-5-年+工作经验，找一份远程工作](https://www.v2ex.com/t/730537)
-- [【开发者头条】推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -509,6 +509,7 @@
 - [【互联网架构师】别乱提交代码了，你必须知道的-Git-分支开发规范！](https://www.ershicimi.com/p/0354a8990fd39aeb32a08ffa5f027fa6)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】如何在-VS2019-中使用-git"指令"进行代码管理](https://www.v2ex.com/t/730576)
 - [【V2EX】从-github-克隆下来的工程怎么使用](https://www.v2ex.com/t/730542)
 - [【开发者头条】推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp)
 - [【安全热点】字节跳动《Git-学习手册》火了,完整版-PDF-开放下载!](https://sec.thief.one/article_content?a_id=67664b3a2d0490bebba593b84c9759e3)

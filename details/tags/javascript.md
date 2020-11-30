@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-30 05:34:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 05:47:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -68,6 +68,7 @@
 - [2020-11-27-奇舞周刊第-374-期：用-JS-写一个-JS-解释器](https://www.ershicimi.com/p/b050338487ebd5d055a8966f6ec9a11f) 
 - [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
+- [2020-11-29-精读《设计模式---Decorator-装饰器模式》](https://juejin.im/post/6900783554037284878) 
 - [2020-11-29-SpriteJS-——-Canvas动画从未如此简单](https://juejin.im/post/6900757065317711886) 
 - [2020-11-29-Rome：Facebook-最新-JS-工具上手](https://juejin.im/post/6900753697702313991) 
 - [2020-11-29-Javascript-这些Js基础你必须得知道](https://juejin.im/post/6900565081147637767) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-30 02:09:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 02:29:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -91,7 +91,6 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
-- [2020-11-29-bug-sur-上面用什么录制视频](https://www.v2ex.com/t/730430) 
 - [2020-11-28-【视频】|-Python:枚举+选择排序](https://sec.thief.one/article_content?a_id=f8940138cb7ac1a6bbba0a55ebdcf791) 
 - [2020-11-27-摄像头ipc-未授权漏洞资产探测](https://sec.thief.one/article_content?a_id=3f2d6963a3877a578a8884e0d4c73bc7) 
 - [2020-11-27-小伙子不讲武德,竟用Python爬取了B站上1.4w条马老师视频数据来分析](https://sec.thief.one/article_content?a_id=a789b822ce86326a07bca11396a9857e) 

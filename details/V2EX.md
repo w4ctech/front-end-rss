@@ -1,12 +1,15 @@
-:alarm_clock: 更新时间: 2020-11-30 10:49:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 11:04:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-30-AppleInsider-黑五-Mac-Bundle-$69.99-含-PD-Pro-和-Luminar-4](https://www.v2ex.com/t/730706) 
+- [2020-11-30-招远程安卓](https://www.v2ex.com/t/730705) 
+- [2020-11-30-DevOps-Workshop-|-代码管理入门：基于代码扫描实现团队效率提升](https://www.v2ex.com/t/730704) 
 - [2020-11-30-请问-Setapp-如何购买最便宜？](https://www.v2ex.com/t/730702) 
-- [2020-11-30-被套路了吗？](https://www.v2ex.com/t/730701) 
+- [2020-11-30-被套路了吗？有谁懂减肥是啥意思](https://www.v2ex.com/t/730701) 
 - [2020-11-30-抗菌筷子求推荐](https://www.v2ex.com/t/730700) 
 - [2020-11-30-广州小公司招前端965Angular](https://www.v2ex.com/t/730699) 
 - [2020-11-30-Google-photo-总有几张照片无法备份？](https://www.v2ex.com/t/730698) 
@@ -40,6 +43,3 @@
 - [2020-11-30-求教，公司期权超过-100w-是不是要缴纳-45%的个税](https://www.v2ex.com/t/730659) 
 - [2020-11-30-有玩健身环大冒险的玩家么？有效果么？](https://www.v2ex.com/t/730658) 
 - [2020-11-30-转租-祈福缤纷汇精装修公寓，远眺小蛮腰](https://www.v2ex.com/t/730657) 
-- [2020-11-30-前端，想去日本工作，求有经验的大佬指路。](https://www.v2ex.com/t/730656) 
-- [2020-11-30-最近面试的一些困惑](https://www.v2ex.com/t/730655) 
-- [2020-11-30-知乎网页端现在不登陆就不能看了吗？](https://www.v2ex.com/t/730654) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 18:09:08，:rocket: 更新条数: +3905， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 18:31:13，:rocket: 更新条数: +3905， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1064,6 +1064,8 @@
 </summary>
 
 
+- [2020-11-30-如何干掉知乎弹出的登录窗口？（11.30）](https://www.v2ex.com/t/730793) ![](assets/new.png)  
+- [2020-11-30-出京东-plus-年卡-55r](https://www.v2ex.com/t/730792) ![](assets/new.png)  
 - [2020-11-30-奇奇怪怪的笔记本-WiFi-问题-笔记本插网线正常上网，路由器上的-wifi-连不上](https://www.v2ex.com/t/730791) ![](assets/new.png)  
 - [2020-11-30-纯-Java-实现不会死的-FlappyBird](https://www.v2ex.com/t/730788) ![](assets/new.png)  
 - [2020-11-30-有没有等-128G-的-M1-的-Air-或者-mini-的](https://www.v2ex.com/t/730787) ![](assets/new.png)  
@@ -1082,8 +1084,6 @@
 - [2020-11-30-Mac-mini-M1-16G-256G，中度办公-10-小时，摸了下机身，是凉的，惊了](https://www.v2ex.com/t/730773) ![](assets/new.png)  
 - [2020-11-30-!小白请教高并发确保不会有重复数据的问题](https://www.v2ex.com/t/730772) ![](assets/new.png)  
 - [2020-11-30-西北家里种的新鲜核桃来卖啦](https://www.v2ex.com/t/730771) ![](assets/new.png)  
-- [2020-11-30-MBP-如何合上盖子的同时也关闭显示器？](https://www.v2ex.com/t/730769) ![](assets/new.png)  
-- [2020-11-30-Elasticsearch-使用不同分词器导致搜索排名的问题](https://www.v2ex.com/t/730768) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

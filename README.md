@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 23:25:57，:rocket: 更新条数: +3904， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 23:34:03，:rocket: 更新条数: +3904， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -882,6 +882,11 @@
 </summary>
 
 
+- [2020-11-30-虾米音乐要关？网友哭求众筹活下去](https://www.ershicimi.com/p/daced030186302e3d295c27711b1994b) ![](assets/new.png)  
+- [2020-11-30-不确定的2020，与确定的云原生2.0](https://www.ershicimi.com/p/83264fd91ecee4403c8295d9cd746d8a) ![](assets/new.png)  
+- [2020-11-30-6-岁！是时候重新认识下-Serverless-了](https://www.ershicimi.com/p/6a71ab7deaa50fa30a39e76e13b4a0d4) ![](assets/new.png)  
+- [2020-11-30-旗舰版的技术盛会，SAP-TechEd-全球技术大会即将在线登场！｜-Q推荐](https://www.ershicimi.com/p/b96ac62e54f7ade8db3a1351551edca9) ![](assets/new.png)  
+- [2020-11-30-为什么90%的机器学习模型从未应用于生产？](https://www.ershicimi.com/p/86edbfbaa85c84b2634f9632e2e0310a) ![](assets/new.png)  
 - [2020-11-29-被嫌弃的35岁程序员](https://www.ershicimi.com/p/197a4d9aa9308c6a3c40b2270bb71267) ![](assets/new.png)  
 - [2020-11-29-将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解](https://www.ershicimi.com/p/8bbe958abf1f27a9a3a9bd26db78d335) ![](assets/new.png)  
 - [2020-11-29-AI-如何赋能摄像机？这场沙龙为你解锁“软件定义”新概念](https://www.ershicimi.com/p/87c50836f7ecb431cb7cf3ea7ef1c978) ![](assets/new.png)  
@@ -897,11 +902,6 @@
 - [2020-11-27-2020年，值得收藏的50多种Kubernetes工具](https://www.ershicimi.com/p/2bef12fb987b582ef3b1007f43b8828c) ![](assets/new.png)  
 - [2020-11-26-一个“举债”1.8亿投身开源的人](https://www.ershicimi.com/p/be9c1eb2ff2c70f2b38d1540c24902ff) ![](assets/new.png)  
 - [2020-11-26-同样的能力，为什么开发小程序要比App简单100倍？](https://www.ershicimi.com/p/3a245b0a234a8299dc96a16b5e90824c) ![](assets/new.png)  
-- [2020-11-26-防患于未然，应对“删库跑路”的一种解决思路](https://www.ershicimi.com/p/b1e0785dc283f6f62de4f48924f29d43) ![](assets/new.png)  
-- [2020-11-26-我是一名程序员，我要感谢......-｜-Q福利](https://www.ershicimi.com/p/60873e0b57966bffa40b270cb1d56586) ![](assets/new.png)  
-- [2020-11-26-美国重申中兴威胁美国国家安全，12-月将对华为做出最终裁决](https://www.ershicimi.com/p/65df2eeea4115ad80b460e76d0732450) ![](assets/new.png)  
-- [2020-11-25-摁住巨头：腾讯阿里们要小心了？](https://www.ershicimi.com/p/3fdb8edde2ac0b7e210523dd634db04a) ![](assets/new.png)  
-- [2020-11-25-InfoQ出品：《云原生的技术探索与落地实践》研究报告（附下载）](https://www.ershicimi.com/p/767639bf4997422fe77fd73fa66c9a89) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1138,8 +1138,8 @@
 - [2020-11-30-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
 - [2020-11-30-别让-USB-传输速度影响-Android-开发效率](https://toutiao.io/k/nvk5whu) ![](assets/new.png)  
 - [2020-11-30-译-Kubernetes-Ingress-基于内容的路由](https://toutiao.io/k/ovbzr2q) ![](assets/new.png)  
-- [2020-11-30-腾讯云开源-Kvass-项目，可轻松让-Prometheus-支持横向自动扩缩容](https://toutiao.io/k/y3orima) ![](assets/new.png)  
 - [2020-11-30-Emacs-入门指南](https://toutiao.io/k/qj828im) ![](assets/new.png)  
+- [2020-11-30-腾讯云开源-Kvass-项目，可轻松让-Prometheus-支持横向自动扩缩容](https://toutiao.io/k/y3orima) ![](assets/new.png)  
 - [2020-11-30-到底该不该用-C++-异常？](https://toutiao.io/k/i65j0s3) ![](assets/new.png)  
 - [2020-11-30-有赞统一接入层架构演进](https://toutiao.io/k/6vo57gv) ![](assets/new.png)  
 - [2020-11-30-面向-DevSecOps-的编码安全指南（JavaScript-篇）](https://toutiao.io/k/cc5vdxy) ![](assets/new.png)  

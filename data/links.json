@@ -18740,6 +18740,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "MacOS 环境下 CGO 库依赖编译错误",
+        "link": "https://www.v2ex.com/t/730679",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "跟谁学直聘 Golang、 Java 、前端、测试开发技术岗，年薪 30-100 万",
+        "link": "https://www.v2ex.com/t/730678",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "飞利浦电动牙刷原装刷头有点贵 求推荐第三方牙刷头",
+        "link": "https://www.v2ex.com/t/730677",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "大伙怎么看待新能源",
+        "link": "https://www.v2ex.com/t/730676",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "一个读取数据库再输出随机值的函数，重复 1000 次观察结果，怎么写效率最高？",
+        "link": "https://www.v2ex.com/t/730675",
+        "date": "2020-11-30"
+      },
+      {
         "title": "爬虫遇到源码里面没有 class 属性的情况，但渲染后又有了的情况有什么办法解决吗。不用 selenium",
         "link": "https://www.v2ex.com/t/730674",
         "date": "2020-11-30"
@@ -18903,31 +18928,6 @@
         "title": "做了一个不知道有什么用的平台",
         "link": "https://www.v2ex.com/t/730631",
         "date": "2020-11-30"
-      },
-      {
-        "title": "在线 GIF 编辑器，纯前端实现",
-        "link": "https://www.v2ex.com/t/730630",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "有小程序开发者吗?线上小程序出现了问题,是个例吗?",
-        "link": "https://www.v2ex.com/t/730629",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "新人不能发信息了吗",
-        "link": "https://www.v2ex.com/t/730628",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "求 ipv6 转 ipv4 的最佳解决方案？",
-        "link": "https://www.v2ex.com/t/730627",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "GitHub 访问不顺怎么办？在线等，急",
-        "link": "https://www.v2ex.com/t/730626",
-        "date": "2020-11-30"
       }
     ]
   },
@@ -18936,6 +18936,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "应对梅雨季 水务精灵助力梅城镇智能化解决排水难题 (yqh.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14020&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15659%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-30"
+      },
       {
         "title": "乐惠国际打造首家精酿啤酒工业互联网平台 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14019&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -19029,11 +19034,6 @@
       {
         "title": "以 Kubernetes 为代表的容器技术，已成为云计算的新界面 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14001&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778826%3Futm_content%3Dg_1000210966%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "2020双11，阿里巴巴集团数万数据库系统全面上云揭秘 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14000&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778711%3Futm_content%3Dg_1000210965%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-30"
       }
     ]
@@ -19144,38 +19144,18 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-30"
-      },
-      {
         "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
         "link": "https://toutiao.io/k/55mybdz",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
+        "title": "[推荐] 谈一谈程序员的职业发展路线",
+        "link": "https://toutiao.io/k/b2k5zax",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-11-30"
       },
       {
@@ -19184,8 +19164,13 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
+        "link": "https://toutiao.io/k/mlyha8z",
         "date": "2020-11-30"
       },
       {
@@ -19194,13 +19179,28 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
+        "title": "[推荐] 刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
+        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
+        "link": "https://toutiao.io/k/wpo96pp",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
+        "link": "https://toutiao.io/k/5stu129",
         "date": "2020-11-30"
       },
       {
@@ -19209,13 +19209,13 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 架构师之路：微服务技术选型",
-        "link": "https://toutiao.io/k/bxvxty9",
+        "title": "[推荐] 程序员必知必会的十大排序算法",
+        "link": "https://toutiao.io/k/zoyne3a",
         "date": "2020-11-30"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 09:27:57，:rocket: 更新条数: +3910， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 09:37:03，:rocket: 更新条数: +3910， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,11 @@
 </summary>
 
 
+- [2020-11-30-MacOS-环境下-CGO-库依赖编译错误](https://www.v2ex.com/t/730679) ![](assets/new.png)  
+- [2020-11-30-跟谁学直聘-Golang、-Java-、前端、测试开发技术岗，年薪-30-100-万](https://www.v2ex.com/t/730678) ![](assets/new.png)  
+- [2020-11-30-飞利浦电动牙刷原装刷头有点贵-求推荐第三方牙刷头](https://www.v2ex.com/t/730677) ![](assets/new.png)  
+- [2020-11-30-大伙怎么看待新能源](https://www.v2ex.com/t/730676) ![](assets/new.png)  
+- [2020-11-30-一个读取数据库再输出随机值的函数，重复-1000-次观察结果，怎么写效率最高？](https://www.v2ex.com/t/730675) ![](assets/new.png)  
 - [2020-11-30-爬虫遇到源码里面没有-class-属性的情况，但渲染后又有了的情况有什么办法解决吗。不用-selenium](https://www.v2ex.com/t/730674) ![](assets/new.png)  
 - [2020-11-30-京东物流招聘-T5+](https://www.v2ex.com/t/730673) ![](assets/new.png)  
 - [2020-11-30-上海叠纸游戏急招！](https://www.v2ex.com/t/730672) ![](assets/new.png)  
@@ -1089,11 +1094,6 @@
 - [2020-11-30-前端，想去日本工作，求有经验的大佬指路。](https://www.v2ex.com/t/730656) ![](assets/new.png)  
 - [2020-11-30-最近面试的一些困惑](https://www.v2ex.com/t/730655) ![](assets/new.png)  
 - [2020-11-30-知乎网页端现在不登陆就不能看了吗？](https://www.v2ex.com/t/730654) ![](assets/new.png)  
-- [2020-11-30-上海话的一个问题，耶这个发音的上海话，对应的字有哪些呢](https://www.v2ex.com/t/730653) ![](assets/new.png)  
-- [2020-11-30-WebAssembly-在-Web-端视频的应用](https://www.v2ex.com/t/730652) ![](assets/new.png)  
-- [2020-11-30-技术求助帖，关于-redis-大-value-存储的问题](https://www.v2ex.com/t/730651) ![](assets/new.png)  
-- [2020-11-30-想问问这样的软件外包合同可以签吗？](https://www.v2ex.com/t/730650) ![](assets/new.png)  
-- [2020-11-30-s-tui-获取功率失败的问题](https://www.v2ex.com/t/730649) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,6 +1105,7 @@
 </summary>
 
 
+- [2020-11-30-应对梅雨季-水务精灵助力梅城镇智能化解决排水难题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14020&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15659%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-30-乐惠国际打造首家精酿啤酒工业互联网平台-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14019&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-30-维他奶拥抱数字化转型-重构员工账户与权限管理方式-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14018&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20000%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-30-金华广电上云-低成本、保证业务系统的高可用性-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14017&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20400%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1124,7 +1125,6 @@
 - [2020-11-30-阿里云性能测试工具PTS介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14003&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778829%3Futm_content%3Dg_1000210968%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-30-2020双11养猫技术大揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14002&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778793%3Futm_content%3Dg_1000210967%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-30-以-Kubernetes-为代表的容器技术，已成为云计算的新界面-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14001&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778826%3Futm_content%3Dg_1000210966%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-2020双11，阿里巴巴集团数万数据库系统全面上云揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14000&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778711%3Futm_content%3Dg_1000210965%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

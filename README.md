@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 03:48:42，:rocket: 更新条数: +3910， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 04:05:24，:rocket: 更新条数: +3909， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-11-30-阿根廷政府确认明年将全面复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2pSnj1mNx3OBvs2whpx9201130&isfromapp=1) ![](assets/new.png)  
 - [2020-11-30-新加坡一孕妇曾确诊新冠肺炎-痊愈后诞下婴儿自带抗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIGiT3i0jGf9LJg7eNyDn201130&isfromapp=1) ![](assets/new.png)  
 - [2020-11-30-曾到香港这三间餐厅就餐的人须强制接受新冠病毒核酸检测→](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirC7SvMMpYNxdK9p5jl6s201130&isfromapp=1) ![](assets/new.png)  
 - [2020-11-30-截至11月30日7时内蒙古自治区新冠肺炎疫情最新情况](http://wjw.nmg.gov.cn/doc/2020/11/29/313224.shtml) ![](assets/new.png)  
 - [2020-11-30-国家卫健委：29日新增18例确诊病例-均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticdvuXNoghZ6nTm8zZxZV201130&isfromapp=1) ![](assets/new.png)  
-- [2020-11-29-阿根廷新增新冠肺炎确诊病例5432例-政府确认21年将全面复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihKnYQIjtTwxaroeeDuLC201130&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,13 +1074,19 @@
 </summary>
 
 
+- [2020-11-30-全栈工程师，主要方向为-Java-后端，-5-年+工作经验，找一份远程工作](https://www.v2ex.com/t/730537) ![](assets/new.png)  
+- [2020-11-30-深圳-金融科技公司---公司在海外市场发展迅猛，-大量岗位-全球招聘！](https://www.v2ex.com/t/730536) ![](assets/new.png)  
+- [2020-11-30-老父亲非要去投资外卖-APP，如何劝他收手](https://www.v2ex.com/t/730535) ![](assets/new.png)  
+- [2020-11-30-三本文科毕业的人可以做点啥](https://www.v2ex.com/t/730534) ![](assets/new.png)  
+- [2020-11-30-大家的-MBP-有没有上-AC+？哪里买比较划算？](https://www.v2ex.com/t/730532) ![](assets/new.png)  
+- [2020-11-30-没事不要长期把-MBP-连接电源和显示器](https://www.v2ex.com/t/730530) ![](assets/new.png)  
 - [2020-11-30-软路由-ESXI-虚拟交换机概念-求解](https://www.v2ex.com/t/730529) ![](assets/new.png)  
 - [2020-11-30-面向技术大咖，付费采购技术图书、专栏](https://www.v2ex.com/t/730528) ![](assets/new.png)  
 - [2020-11-30-家里网络问题，懂的进来帮忙支个招](https://www.v2ex.com/t/730527) ![](assets/new.png)  
 - [2020-11-30-广州联通-4G-最近是不是网速特别慢（信号满格）-？](https://www.v2ex.com/t/730526) ![](assets/new.png)  
 - [2020-11-30-招租室友，北京梅市口附近，-2500，押一付一](https://www.v2ex.com/t/730525) ![](assets/new.png)  
 - [2020-11-30-开源项目-InfoSpider-爬虫工具箱，-2.0-版本功能需求征集，听听大家的想法](https://www.v2ex.com/t/730524) ![](assets/new.png)  
-- [2020-11-30-解决-Homebrew-慢，无法-update-的方法](https://www.v2ex.com/t/730523) ![](assets/new.png)  
+- [2020-11-30-解决-Homebrew-慢，无法-update-的一个思路](https://www.v2ex.com/t/730523) ![](assets/new.png)  
 - [2020-11-30-如果只知道对方的手机号码,-请问有什么办法可以获取对方的信息?](https://www.v2ex.com/t/730522) ![](assets/new.png)  
 - [2020-11-30-utools-插件中心一直转圈加载中。](https://www.v2ex.com/t/730521) ![](assets/new.png)  
 - [2020-11-30-现在地级市的门户网小程序还有搞头吗](https://www.v2ex.com/t/730520) ![](assets/new.png)  
@@ -1088,12 +1094,6 @@
 - [2020-11-30-开发者搭建小程序都有哪些方式呢？](https://www.v2ex.com/t/730516) ![](assets/new.png)  
 - [2020-11-30-请教，如何关闭-chrome-自带的-extensions-manager](https://www.v2ex.com/t/730515) ![](assets/new.png)  
 - [2020-11-30-AMD-Radeon-RX-6800-XT-使用体验](https://www.v2ex.com/t/730514) ![](assets/new.png)  
-- [2020-11-30-从文件夹中压缩任意-5-万个文件，命令怎么写呢？](https://www.v2ex.com/t/730513) ![](assets/new.png)  
-- [2020-11-30-ObjectiveSQL-稳定版本发布-1.4.0](https://www.v2ex.com/t/730512) ![](assets/new.png)  
-- [2020-11-30-几天-M1-的使用感受](https://www.v2ex.com/t/730508) ![](assets/new.png)  
-- [2020-11-30-gRPC-的服务器可以实现分布式吗？](https://www.v2ex.com/t/730507) ![](assets/new.png)  
-- [2020-11-30-谷歌相册没有无限制储存了，有没有什么办法可以把相册的照片备份到本地？](https://www.v2ex.com/t/730505) ![](assets/new.png)  
-- [2020-11-30-AWS-的免费-EC2-的系统到底是-centOs-几啊](https://www.v2ex.com/t/730504) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,12 +1141,12 @@
 - [2020-11-30-Grails-Oauth2-插件适配非标准-SSO-接口](https://toutiao.io/k/nzhai4f) ![](assets/new.png)  
 - [2020-11-30-做架构也得讲武德](https://toutiao.io/k/otq0aqr) ![](assets/new.png)  
 - [2020-11-30-Java-字符串-String-那些事](https://toutiao.io/k/nslm9x5) ![](assets/new.png)  
-- [2020-11-30-如何浅显的解释-RESTful？这次我让你彻底弄懂它](https://toutiao.io/k/mw7yfc2) ![](assets/new.png)  
 - [2020-11-30-南京有哪些牛批的互联网公司？](https://toutiao.io/k/akkoum5) ![](assets/new.png)  
+- [2020-11-30-如何浅显的解释-RESTful？这次我让你彻底弄懂它](https://toutiao.io/k/mw7yfc2) ![](assets/new.png)  
 - [2020-11-30-别让-USB-传输速度影响-Android-开发效率](https://toutiao.io/k/nvk5whu) ![](assets/new.png)  
 - [2020-11-30-译-Kubernetes-Ingress-基于内容的路由](https://toutiao.io/k/ovbzr2q) ![](assets/new.png)  
-- [2020-11-30-Mybatis-日志功能是如何设计的？](https://toutiao.io/k/d625ncr) ![](assets/new.png)  
 - [2020-11-30-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
+- [2020-11-30-Mybatis-日志功能是如何设计的？](https://toutiao.io/k/d625ncr) ![](assets/new.png)  
 - [2020-11-30-腾讯云开源-Kvass-项目，可轻松让-Prometheus-支持横向自动扩缩容](https://toutiao.io/k/y3orima) ![](assets/new.png)  
 - [2020-11-30-Bug-数能否做为技术人员考核的-KPI？](https://toutiao.io/k/ttropqu) ![](assets/new.png)  
 - [2020-11-30-Emacs-入门指南](https://toutiao.io/k/qj828im) ![](assets/new.png)  

@@ -18694,7 +18694,12 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "12 月阅读主题：程序员软技能相关",
+        "title": "12 月阅读主题：程序员软技能相关，欢迎推荐书",
+        "link": "https://www.v2ex.com/t/730798",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "~~~~~~~~~~~~",
         "link": "https://www.v2ex.com/t/730797",
         "date": "2020-11-30"
       },
@@ -18897,11 +18902,6 @@
         "title": "深圳虾皮 toc group 前端开发工作节奏，技术水平，业务复杂度怎么样？有了解的大佬说说吗？",
         "link": "https://www.v2ex.com/t/730749",
         "date": "2020-11-30"
-      },
-      {
-        "title": "微信的内置浏览器，对 svg 的字体图标渲染，位置总是对不齐？（和 Chrome/Safari 这些主流浏览器相比）",
-        "link": "https://www.v2ex.com/t/730748",
-        "date": "2020-11-30"
       }
     ]
   },
@@ -19028,13 +19028,13 @@
         "date": "2020-11-30"
       },
       {
-        "title": "Grails Oauth2 插件适配非标准 SSO 接口",
-        "link": "https://toutiao.io/k/nzhai4f",
+        "title": "南京有哪些牛批的互联网公司？",
+        "link": "https://toutiao.io/k/akkoum5",
         "date": "2020-11-30"
       },
       {
-        "title": "南京有哪些牛批的互联网公司？",
-        "link": "https://toutiao.io/k/akkoum5",
+        "title": "Grails Oauth2 插件适配非标准 SSO 接口",
+        "link": "https://toutiao.io/k/nzhai4f",
         "date": "2020-11-30"
       },
       {
@@ -19118,33 +19118,13 @@
         "date": "2020-11-30"
       },
       {
+        "title": "[推荐] 程序员必知必会的十大排序算法",
+        "link": "https://toutiao.io/k/zoyne3a",
+        "date": "2020-11-30"
+      },
+      {
         "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
         "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 分布式数据网格 Data Mesh",
-        "link": "https://toutiao.io/k/p6zp7x5",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
-        "link": "https://toutiao.io/k/5sw3syp",
         "date": "2020-11-30"
       },
       {
@@ -19153,23 +19133,13 @@
         "date": "2020-11-30"
       },
       {
+        "title": "[推荐] 分布式数据网格 Data Mesh",
+        "link": "https://toutiao.io/k/p6zp7x5",
+        "date": "2020-11-30"
+      },
+      {
         "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
         "link": "https://toutiao.io/k/1k0udg9",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
         "date": "2020-11-30"
       },
       {
@@ -19178,18 +19148,48 @@
         "date": "2020-11-30"
       },
       {
+        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
+        "link": "https://toutiao.io/k/5sw3syp",
+        "date": "2020-11-30"
+      },
+      {
         "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
         "link": "https://toutiao.io/k/wpo96pp",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-11-30"
       }
     ]

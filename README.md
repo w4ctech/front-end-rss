@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 22:09:51，:rocket: 更新条数: +3905， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 22:30:52，:rocket: 更新条数: +3905， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1064,7 +1064,8 @@
 </summary>
 
 
-- [2020-11-30-12-月阅读主题：程序员软技能相关](https://www.v2ex.com/t/730797) ![](assets/new.png)  
+- [2020-11-30-12-月阅读主题：程序员软技能相关，欢迎推荐书](https://www.v2ex.com/t/730798) ![](assets/new.png)  
+- [2020-11-30-~~~~~~~~~~~~](https://www.v2ex.com/t/730797) ![](assets/new.png)  
 - [2020-11-30-邮件伪造问题](https://www.v2ex.com/t/730796) ![](assets/new.png)  
 - [2020-11-30-请教下装-ubuntu-双系统进行独立引导的问题](https://www.v2ex.com/t/730795) ![](assets/new.png)  
 - [2020-11-30-不懂就问：关于查看官方文档的困惑。](https://www.v2ex.com/t/730794) ![](assets/new.png)  
@@ -1083,7 +1084,6 @@
 - [2020-11-30-有没有人搞一个“水印文字由无数种颜色组成”的身份证加水印工具？](https://www.v2ex.com/t/730778) ![](assets/new.png)  
 - [2020-11-30-c++类的继承问题](https://www.v2ex.com/t/730777) ![](assets/new.png)  
 - [2020-11-30-芷兰云_德阳电信高防服务器租用](https://www.v2ex.com/t/730776) ![](assets/new.png)  
-- [2020-11-30-做程序员出身，到达什么地步才能出来自己创业？？](https://www.v2ex.com/t/730775) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,8 +1128,8 @@
 
 - [2020-11-30-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
 - [2020-11-30-编码风格：MVC-模式下-SSM-环境，代码分层管理](https://toutiao.io/k/dr3u1om) ![](assets/new.png)  
-- [2020-11-30-Grails-Oauth2-插件适配非标准-SSO-接口](https://toutiao.io/k/nzhai4f) ![](assets/new.png)  
 - [2020-11-30-南京有哪些牛批的互联网公司？](https://toutiao.io/k/akkoum5) ![](assets/new.png)  
+- [2020-11-30-Grails-Oauth2-插件适配非标准-SSO-接口](https://toutiao.io/k/nzhai4f) ![](assets/new.png)  
 - [2020-11-30-Bug-数能否做为技术人员考核的-KPI？](https://toutiao.io/k/ttropqu) ![](assets/new.png)  
 - [2020-11-30-做架构也得讲武德](https://toutiao.io/k/otq0aqr) ![](assets/new.png)  
 - [2020-11-30-Java-字符串-String-那些事](https://toutiao.io/k/nslm9x5) ![](assets/new.png)  

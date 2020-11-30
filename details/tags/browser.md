@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-30 10:08:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 10:27:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -56,6 +56,9 @@
 - [2020-11-30-取消缩小窗口的默认行为-@Chrome](https://www.v2ex.com/t/730687) 
 - [2020-11-30-爬虫遇到源码里面没有-class-属性的情况，但渲染后又有了的情况有什么办法解决吗。不用-selenium](https://www.v2ex.com/t/730674) 
 - [2020-11-30-这些浏览器工作原理你都吃透了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14005&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRzjrf46vrKkPdL2OlRaYMg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-30-【安全热点周报】第170期:黑客将小米扫地机器人变成窃听器](https://sec.thief.one/article_content?a_id=b4072e3b171f8787d83999215bcd031e) 
+- [2020-11-30-《商业银行法》修订版出炉,银行面临更严格个人信息&数据安全监管](https://sec.thief.one/article_content?a_id=8d0446a01b7f24116670648600588e1d) 
+- [2020-11-30-干货-|GitHUB安全搬运工-四](https://sec.thief.one/article_content?a_id=4232fcbfebb4e912d9efe4f8e134df1c) 
 - [2020-11-30-第二届“网鼎杯”网络安全大赛收官,15强获奖名单公布](https://sec.thief.one/article_content?a_id=9d138e0a47d4d5d4960a1841e723c4e3) 
 - [2020-11-30-2030年人工智能网络安全市场产值将高达1018亿美元](https://sec.thief.one/article_content?a_id=89a3f603c55bc99ca77e8e29e33fc2ed) 
 - [2020-11-30-每日安全动态推送11-30](https://sec.thief.one/article_content?a_id=e121766605faa0a6c6829a199237b7e3) 
@@ -75,7 +78,4 @@
 - [2020-11-27-【安全圈】0patch-发布免费补丁:修复-Windows-7-中的漏洞](https://sec.thief.one/article_content?a_id=03f85f8a27b88f0e0e7ac85a217c8483) 
 - [2020-11-27-数据脱敏、智能安全运营视角下的新基建安全](https://sec.thief.one/article_content?a_id=3ac40c05f63c63ee0953b4b6cf6216a5) 
 - [2020-11-27-福利-|-安全时刻,感恩遇见](https://sec.thief.one/article_content?a_id=26253876b7c39f0ba7f84c95c7aebd9d) 
-- [2020-11-27-用无人机保卫5G网络安全](https://sec.thief.one/article_content?a_id=447b74e6a98bb77f3bf7919aa7bdfbe5) 
-- [2020-11-27-新冠疫情是如何改变传统的云安全防护策略](https://sec.thief.one/article_content?a_id=889bb860a1792899ba6be1cc335489bb) 
-- [2020-11-27-《工业互联网安全架构白皮书》全文](https://sec.thief.one/article_content?a_id=70300ea982d0dc617e925a662db052bd) 
 - [2020-11-28-5G不只是eMBB/uRLLC/mMTC，超越三大场景的应用有哪些？](https://www.ershicimi.com/p/dee166a4ea504d555a80ddf9a8d30723) 

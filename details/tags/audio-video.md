@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-30 10:08:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 10:27:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -95,5 +95,4 @@
 - [2020-11-30-【视频】|-Python:冒泡排序](https://sec.thief.one/article_content?a_id=ca37207e340a61c222cd83f8e2be4022) 
 - [2020-11-28-【视频】|-Python:枚举+选择排序](https://sec.thief.one/article_content?a_id=f8940138cb7ac1a6bbba0a55ebdcf791) 
 - [2020-11-27-摄像头ipc-未授权漏洞资产探测](https://sec.thief.one/article_content?a_id=3f2d6963a3877a578a8884e0d4c73bc7) 
-- [2020-11-27-小伙子不讲武德,竟用Python爬取了B站上1.4w条马老师视频数据来分析](https://sec.thief.one/article_content?a_id=a789b822ce86326a07bca11396a9857e) 
 - [2020-11-23-中国移动研究院：视频边缘计算白皮书](https://www.ershicimi.com/p/e597a3189793cce7130c1b75ccad785e) 

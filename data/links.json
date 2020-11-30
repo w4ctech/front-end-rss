@@ -14412,6 +14412,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "马里政府拟再次升级防疫举措 中国驻马里使馆发布提醒",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8swYMm3fR8N9lGN4TlVb201201&isfromapp=1",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "世卫组织总干事：假期临近 新冠肺炎大流行改变我们庆祝方式",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPYRIl6AmfCDTYBLlhru4201201&isfromapp=1",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "世卫组织：全球新冠肺炎确诊病例超过6236万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFtJ08msUoenPzXRMgjb2201201&isfromapp=1",
+        "date": "2020-11-30"
+      },
+      {
         "title": "香港新增新冠肺炎确诊病例76例 12月2日起实施更严防疫措施",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizksLvPGpz4sfWOrjmZNN201130&isfromapp=1",
         "date": "2020-11-30"
@@ -14419,21 +14434,6 @@
       {
         "title": "摩尔多瓦因新冠肺炎疫情出现床位短缺 剧院、音乐厅等场所关闭至明年1月",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqsPZWKB4vlMkrpikJuCb201130&isfromapp=1",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "辽宁大连庄河市进口冷链食品生产经营单位从业人员核酸检测结果均为阴性",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIa4yhMcaSpDuYEfxSJPf201130&isfromapp=1",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "阿根廷政府确认明年将全面复课",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2pSnj1mNx3OBvs2whpx9201130&isfromapp=1",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "新加坡一孕妇曾确诊新冠肺炎 痊愈后诞下婴儿自带抗体",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIGiT3i0jGf9LJg7eNyDn201130&isfromapp=1",
         "date": "2020-11-30"
       }
     ]
@@ -14551,6 +14551,21 @@
     "link": "https://www.ershicimi.com/a/10315",
     "items": [
       {
+        "title": "大牛必备：前端与图形学",
+        "link": "https://www.ershicimi.com/p/3e22cc8c37d487210ca65bd0e3d73bcf",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "推荐 20个提高开发效率的 VS Code 快捷键！",
+        "link": "https://www.ershicimi.com/p/d13229e637f23992fe081b5061bce52c",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "面试官：说说你对vue的理解?",
+        "link": "https://www.ershicimi.com/p/bbb6e67a4b9c35d6c8b19a65c3356109",
+        "date": "2020-11-30"
+      },
+      {
         "title": "技巧： 根据背景色自适应文本颜色",
         "link": "https://www.ershicimi.com/p/b70443e91a1f3cca6b405c8e326c7cd9",
         "date": "2020-11-29"
@@ -14634,21 +14649,6 @@
         "title": "搞懂 Vue ，这一篇文章就够了！",
         "link": "https://www.ershicimi.com/p/51ce2a7402de06c79834163f40167256",
         "date": "2020-11-20"
-      },
-      {
-        "title": "重要 | 使用微信开发者工具的亲们，先别着急升级 macOS!",
-        "link": "https://www.ershicimi.com/p/f79622f8255a4a173c3ce2f2ff99082b",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "从Vue3源码中再谈nextTick",
-        "link": "https://www.ershicimi.com/p/e389d5fca7e5a43fddd2fa7dfb879797",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "iPad 真香，包邮送一个",
-        "link": "https://www.ershicimi.com/p/bdd7959682bd0dc519afc988cb15bb7b",
-        "date": "2020-11-19"
       }
     ]
   },
@@ -18892,11 +18892,6 @@
         "title": "75hz 刷新率下打开某些网页黑屏问题",
         "link": "https://www.v2ex.com/t/730751",
         "date": "2020-11-30"
-      },
-      {
-        "title": "升级 Big Sur 之后 Parallels Desktop 16 的诸多问题",
-        "link": "https://www.v2ex.com/t/730750",
-        "date": "2020-11-30"
       }
     ]
   },
@@ -19018,118 +19013,8 @@
         "date": "2020-11-30"
       },
       {
-        "title": "编码风格：MVC 模式下 SSM 环境，代码分层管理",
-        "link": "https://toutiao.io/k/dr3u1om",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "南京有哪些牛批的互联网公司？",
-        "link": "https://toutiao.io/k/akkoum5",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "Grails Oauth2 插件适配非标准 SSO 接口",
-        "link": "https://toutiao.io/k/nzhai4f",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "Bug 数能否做为技术人员考核的 KPI？",
-        "link": "https://toutiao.io/k/ttropqu",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "做架构也得讲武德",
-        "link": "https://toutiao.io/k/otq0aqr",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "Java 字符串 String 那些事",
-        "link": "https://toutiao.io/k/nslm9x5",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "Mybatis 日志功能是如何设计的？",
-        "link": "https://toutiao.io/k/d625ncr",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "如何浅显的解释 RESTful？这次我让你彻底弄懂它",
-        "link": "https://toutiao.io/k/mw7yfc2",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "前端高效开发必备的 js 库梳理",
-        "link": "https://toutiao.io/k/rtusig3",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "别让 USB 传输速度影响 Android 开发效率",
-        "link": "https://toutiao.io/k/nvk5whu",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[译] Kubernetes Ingress 基于内容的路由",
-        "link": "https://toutiao.io/k/ovbzr2q",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "Emacs 入门指南",
-        "link": "https://toutiao.io/k/qj828im",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "腾讯云开源 Kvass 项目，可轻松让 Prometheus 支持横向自动扩缩容",
-        "link": "https://toutiao.io/k/y3orima",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "到底该不该用 C++ 异常？",
-        "link": "https://toutiao.io/k/i65j0s3",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "有赞统一接入层架构演进",
-        "link": "https://toutiao.io/k/6vo57gv",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "面向 DevSecOps 的编码安全指南（JavaScript 篇）",
-        "link": "https://toutiao.io/k/cc5vdxy",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "饿了么技术往事（下）",
-        "link": "https://toutiao.io/k/nyc3yxd",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "Jenkins Pipeline 系列（三）：使用扩展共享库构建微信小程序项目",
-        "link": "https://toutiao.io/k/c632il4",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "Martian-cloud 传染机制的原理",
-        "link": "https://toutiao.io/k/q4wqutg",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
-        "link": "https://toutiao.io/k/5shq47n",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
+        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
+        "link": "https://toutiao.io/k/5stu129",
         "date": "2020-11-30"
       },
       {
@@ -19138,23 +19023,8 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
-        "link": "https://toutiao.io/k/5sw3syp",
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-11-30"
       },
       {
@@ -19163,8 +19033,33 @@
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 谈一谈程序员的职业发展路线",
+        "link": "https://toutiao.io/k/b2k5zax",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 分布式数据网格 Data Mesh",
+        "link": "https://toutiao.io/k/p6zp7x5",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
+        "link": "https://toutiao.io/k/5sw3syp",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
         "date": "2020-11-30"
       },
       {
@@ -19173,18 +19068,23 @@
         "date": "2020-11-30"
       },
       {
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
+        "link": "https://toutiao.io/k/1k0udg9",
+        "date": "2020-11-30"
+      },
+      {
         "title": "[推荐] 分布式一致性协议 Raft",
         "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-11-30"
       },
       {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
         "date": "2020-11-30"
       }
     ]

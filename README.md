@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 23:34:03，:rocket: 更新条数: +3904， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 23:48:43，:rocket: 更新条数: +3884， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-11-30-马里政府拟再次升级防疫举措-中国驻马里使馆发布提醒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8swYMm3fR8N9lGN4TlVb201201&isfromapp=1) ![](assets/new.png)  
+- [2020-11-30-世卫组织总干事：假期临近-新冠肺炎大流行改变我们庆祝方式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPYRIl6AmfCDTYBLlhru4201201&isfromapp=1) ![](assets/new.png)  
+- [2020-11-30-世卫组织：全球新冠肺炎确诊病例超过6236万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFtJ08msUoenPzXRMgjb2201201&isfromapp=1) ![](assets/new.png)  
 - [2020-11-30-香港新增新冠肺炎确诊病例76例-12月2日起实施更严防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizksLvPGpz4sfWOrjmZNN201130&isfromapp=1) ![](assets/new.png)  
 - [2020-11-30-摩尔多瓦因新冠肺炎疫情出现床位短缺-剧院、音乐厅等场所关闭至明年1月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqsPZWKB4vlMkrpikJuCb201130&isfromapp=1) ![](assets/new.png)  
-- [2020-11-30-辽宁大连庄河市进口冷链食品生产经营单位从业人员核酸检测结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIa4yhMcaSpDuYEfxSJPf201130&isfromapp=1) ![](assets/new.png)  
-- [2020-11-30-阿根廷政府确认明年将全面复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2pSnj1mNx3OBvs2whpx9201130&isfromapp=1) ![](assets/new.png)  
-- [2020-11-30-新加坡一孕妇曾确诊新冠肺炎-痊愈后诞下婴儿自带抗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIGiT3i0jGf9LJg7eNyDn201130&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -143,6 +143,9 @@
 </summary>
 
 
+- [2020-11-30-大牛必备：前端与图形学](https://www.ershicimi.com/p/3e22cc8c37d487210ca65bd0e3d73bcf) ![](assets/new.png)  
+- [2020-11-30-推荐-20个提高开发效率的-VS-Code-快捷键！](https://www.ershicimi.com/p/d13229e637f23992fe081b5061bce52c) ![](assets/new.png)  
+- [2020-11-30-面试官：说说你对vue的理解?](https://www.ershicimi.com/p/bbb6e67a4b9c35d6c8b19a65c3356109) ![](assets/new.png)  
 - [2020-11-29-技巧：-根据背景色自适应文本颜色](https://www.ershicimi.com/p/b70443e91a1f3cca6b405c8e326c7cd9) ![](assets/new.png)  
 - [2020-11-29-AirPods-Pro真香，包邮送一个](https://www.ershicimi.com/p/24704d68fa1077a9862ed065ee31518a) ![](assets/new.png)  
 - [2020-11-28-最近收到几个朋友成功拿到字节2-1、阿里P6等大厂offer的消息，特地将这些大厂简历整理出来，分享](https://www.ershicimi.com/p/f29200451dccf8fc5bcc554d945199a3) ![](assets/new.png)  
@@ -160,9 +163,6 @@
 - [2020-11-21-Vue.js巧妙运用修饰符，帮你后期维护代码省下大量的时间](https://www.ershicimi.com/p/3a2a6e3eb60e89116bbd577d89fcd0de) ![](assets/new.png)  
 - [2020-11-21-微信改版！可关闭朋友圈置顶视频号直播；腾讯申请“微信豆”商标-|-新榜情报](https://www.ershicimi.com/p/e60bd76b6ff31b3caa5c671bec39c6a4) ![](assets/new.png)  
 - [2020-11-20-搞懂-Vue-，这一篇文章就够了！](https://www.ershicimi.com/p/51ce2a7402de06c79834163f40167256) ![](assets/new.png)  
-- [2020-11-20-重要-|-使用微信开发者工具的亲们，先别着急升级-macOS!](https://www.ershicimi.com/p/f79622f8255a4a173c3ce2f2ff99082b) ![](assets/new.png)  
-- [2020-11-19-从Vue3源码中再谈nextTick](https://www.ershicimi.com/p/e389d5fca7e5a43fddd2fa7dfb879797) ![](assets/new.png)  
-- [2020-11-19-iPad-真香，包邮送一个](https://www.ershicimi.com/p/bdd7959682bd0dc519afc988cb15bb7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,25 +1127,21 @@
 
 
 - [2020-11-30-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
-- [2020-11-30-编码风格：MVC-模式下-SSM-环境，代码分层管理](https://toutiao.io/k/dr3u1om) ![](assets/new.png)  
-- [2020-11-30-南京有哪些牛批的互联网公司？](https://toutiao.io/k/akkoum5) ![](assets/new.png)  
-- [2020-11-30-Grails-Oauth2-插件适配非标准-SSO-接口](https://toutiao.io/k/nzhai4f) ![](assets/new.png)  
-- [2020-11-30-Bug-数能否做为技术人员考核的-KPI？](https://toutiao.io/k/ttropqu) ![](assets/new.png)  
-- [2020-11-30-做架构也得讲武德](https://toutiao.io/k/otq0aqr) ![](assets/new.png)  
-- [2020-11-30-Java-字符串-String-那些事](https://toutiao.io/k/nslm9x5) ![](assets/new.png)  
-- [2020-11-30-Mybatis-日志功能是如何设计的？](https://toutiao.io/k/d625ncr) ![](assets/new.png)  
-- [2020-11-30-如何浅显的解释-RESTful？这次我让你彻底弄懂它](https://toutiao.io/k/mw7yfc2) ![](assets/new.png)  
-- [2020-11-30-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
-- [2020-11-30-别让-USB-传输速度影响-Android-开发效率](https://toutiao.io/k/nvk5whu) ![](assets/new.png)  
-- [2020-11-30-译-Kubernetes-Ingress-基于内容的路由](https://toutiao.io/k/ovbzr2q) ![](assets/new.png)  
-- [2020-11-30-Emacs-入门指南](https://toutiao.io/k/qj828im) ![](assets/new.png)  
-- [2020-11-30-腾讯云开源-Kvass-项目，可轻松让-Prometheus-支持横向自动扩缩容](https://toutiao.io/k/y3orima) ![](assets/new.png)  
-- [2020-11-30-到底该不该用-C++-异常？](https://toutiao.io/k/i65j0s3) ![](assets/new.png)  
-- [2020-11-30-有赞统一接入层架构演进](https://toutiao.io/k/6vo57gv) ![](assets/new.png)  
-- [2020-11-30-面向-DevSecOps-的编码安全指南（JavaScript-篇）](https://toutiao.io/k/cc5vdxy) ![](assets/new.png)  
-- [2020-11-30-饿了么技术往事（下）](https://toutiao.io/k/nyc3yxd) ![](assets/new.png)  
-- [2020-11-30-Jenkins-Pipeline-系列（三）：使用扩展共享库构建微信小程序项目](https://toutiao.io/k/c632il4) ![](assets/new.png)  
-- [2020-11-30-Martian-cloud-传染机制的原理](https://toutiao.io/k/q4wqutg) ![](assets/new.png)  
+- [2020-11-30-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
+- [2020-11-30-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
+- [2020-11-30-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
+- [2020-11-30-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
+- [2020-11-30-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
+- [2020-11-30-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
+- [2020-11-30-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
+- [2020-11-30-推荐-分布式数据网格-Data-Mesh](https://toutiao.io/k/p6zp7x5) ![](assets/new.png)  
+- [2020-11-30-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) ![](assets/new.png)  
+- [2020-11-30-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
+- [2020-11-30-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-30-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
+- [2020-11-30-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
+- [2020-11-30-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
+- [2020-11-30-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

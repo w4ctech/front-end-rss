@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 04:50:11，:rocket: 更新条数: +3908， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-30 05:04:06，:rocket: 更新条数: +3910， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,10 @@
 </summary>
 
 
+- [2020-11-30-为-VSCode-提供-Texinfo-格式支持](https://www.v2ex.com/t/730560) ![](assets/new.png)  
+- [2020-11-30-京东原来每天都有的满-99-减-2-的话费券，现在取消了？](https://www.v2ex.com/t/730559) ![](assets/new.png)  
+- [2020-11-30-请教一下，-Android-里的-ListView-如何实时更新数据并逐条显示？](https://www.v2ex.com/t/730558) ![](assets/new.png)  
+- [2020-11-30-Mac-单指重按拖动真的比三指拖动好用嘛？](https://www.v2ex.com/t/730557) ![](assets/new.png)  
 - [2020-11-30-rclone-copy-问题](https://www.v2ex.com/t/730556) ![](assets/new.png)  
 - [2020-11-30-年底了，建个纳税主题...-分享+提醒一下合法合规、税筹问题](https://www.v2ex.com/t/730555) ![](assets/new.png)  
 - [2020-11-30-miui-护眼模式锁屏界面无效](https://www.v2ex.com/t/730554) ![](assets/new.png)  
@@ -1090,10 +1094,6 @@
 - [2020-11-30-全栈工程师，主要方向为-Java-后端，-5-年+工作经验，找一份远程工作](https://www.v2ex.com/t/730537) ![](assets/new.png)  
 - [2020-11-30-深圳-金融科技公司---公司在海外市场发展迅猛，-大量岗位-全球招聘！](https://www.v2ex.com/t/730536) ![](assets/new.png)  
 - [2020-11-30-老父亲非要去投资外卖-APP，如何劝他收手](https://www.v2ex.com/t/730535) ![](assets/new.png)  
-- [2020-11-30-三本文科毕业的人可以做点啥](https://www.v2ex.com/t/730534) ![](assets/new.png)  
-- [2020-11-30-大家的-MBP-有没有上-AC+？哪里买比较划算？](https://www.v2ex.com/t/730532) ![](assets/new.png)  
-- [2020-11-30-没事不要长期把-MBP-连接电源和显示器](https://www.v2ex.com/t/730530) ![](assets/new.png)  
-- [2020-11-30-软路由-ESXI-虚拟交换机概念-求解](https://www.v2ex.com/t/730529) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,8 +1144,8 @@
 - [2020-11-30-Java-字符串-String-那些事](https://toutiao.io/k/nslm9x5) ![](assets/new.png)  
 - [2020-11-30-如何浅显的解释-RESTful？这次我让你彻底弄懂它](https://toutiao.io/k/mw7yfc2) ![](assets/new.png)  
 - [2020-11-30-别让-USB-传输速度影响-Android-开发效率](https://toutiao.io/k/nvk5whu) ![](assets/new.png)  
-- [2020-11-30-译-Kubernetes-Ingress-基于内容的路由](https://toutiao.io/k/ovbzr2q) ![](assets/new.png)  
 - [2020-11-30-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
+- [2020-11-30-译-Kubernetes-Ingress-基于内容的路由](https://toutiao.io/k/ovbzr2q) ![](assets/new.png)  
 - [2020-11-30-Mybatis-日志功能是如何设计的？](https://toutiao.io/k/d625ncr) ![](assets/new.png)  
 - [2020-11-30-腾讯云开源-Kvass-项目，可轻松让-Prometheus-支持横向自动扩缩容](https://toutiao.io/k/y3orima) ![](assets/new.png)  
 - [2020-11-30-Bug-数能否做为技术人员考核的-KPI？](https://toutiao.io/k/ttropqu) ![](assets/new.png)  

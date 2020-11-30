@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-30 02:47:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 03:04:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -11,4 +11,5 @@
 - [2020-11-20-将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解](https://www.ershicimi.com/p/48571c2bce08388e0d99c56b20ecbd23) 
 - [2020-05-14-TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f) 
 - [2020-11-29-将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解](https://www.ershicimi.com/p/8bbe958abf1f27a9a3a9bd26db78d335) 
+- [2020-11-29-TypeScript中的高级类型工具类型及关键字](https://juejin.im/post/6900712964299423758) 
 - [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 

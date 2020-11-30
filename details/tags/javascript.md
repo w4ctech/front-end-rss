@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-30 17:15:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 17:32:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -59,8 +59,6 @@
 - [2020-11-17-这样写的-JS-代码看着就很舒服](https://www.ershicimi.com/p/8038db7609e740e232a1f5c390a64d93) 
 - [2020-11-10-15分钟带你了解前端工程师必知的javascript设计模式附详细思维导图和源码](https://www.ershicimi.com/p/28c66d71c8fb00ba56cc460dd1de91ae) 
 - [2020-11-09-能在任意一种框架中复用的组件，太牛了!](https://www.ershicimi.com/p/c1c32fc5e3b6e25961b0a6df3e913735) 
-- [2020-11-28-种草ECMAScript2021新特性](https://www.ershicimi.com/p/a1cb6b329ce53022db34a310bced8cb9) 
-- [2020-11-24-JS数组奇巧淫技](https://www.ershicimi.com/p/993dc25845b722234af79e32f3952c3d) 
 - [2020-11-29-组件库主题设计方案](https://www.ershicimi.com/p/cfcb0d158e49026fc6b917a5790f1e0d) 
 - [2020-11-16-从理解到实现轻松掌握-ES6-中的迭代器](https://www.ershicimi.com/p/3795a41792370b270408c5350d3f5adf) 
 - [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 

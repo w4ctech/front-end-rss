@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-30 17:15:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 17:32:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -24,8 +24,6 @@
 - [2020-11-13-为什么要在你的项目中使用-React？](https://www.ershicimi.com/p/68dc80945a90bb032e161f0ed17bd39f) 
 - [2020-11-24-“混合双打”之如何在-Class-Components-中使用-React-Hooks](https://www.ershicimi.com/p/0e0e249530678f763e438de795805147) 
 - [2020-09-20-浅谈-React-中的-XSS-攻击](https://www.ershicimi.com/p/cf465a8944c2bbb107812b217cc74f63) 
-- [2020-11-27-React的7种代码异味译](https://www.ershicimi.com/p/418f2d41474116d54315dd9ed7683fbd) 
-- [2020-11-23-真的搞不懂大厂为什么都喜欢用-React-？](https://www.ershicimi.com/p/7e1dffef77b76c832dd620663161f0d1) 
 - [2020-11-24-2020年，我是如何从一名Vueer转岗到React阵营区别分析与经验分享](https://www.ershicimi.com/p/3cdae10fdcd4eb881fda1bf5e016ee5c) 
 - [2020-11-22-Next.js-+Egg.js+React项目服务器部署超详解](https://www.ershicimi.com/p/0bba38649013df28365c907500c60af3) 
 - [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-30 17:15:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 17:32:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,9 +31,6 @@
 - [2020-11-18-浏览器是如何调度进程和线程的？](https://www.ershicimi.com/p/c2991e8702de4f9532ba793a966bf26f) 
 - [2020-11-17-从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/d8b9d174792325554ecd3a796b69de29) 
 - [2020-11-21-抖音前端安全招前端（实习、高级都招）](https://www.ershicimi.com/p/cb4bcf2ebbdf8937d5ca6c8723e4b6a2) 
-- [2020-11-28-在浏览器地址栏输入url到按下回车发生了什么？](https://www.ershicimi.com/p/211c440c20d55802ea1959d69a6c2182) 
-- [2020-11-27-Chrome-上开发调试的九个技巧](https://www.ershicimi.com/p/b527283cd53d64ba3644b4df910f494c) 
-- [2020-11-25-前端-api-请求缓存方案](https://www.ershicimi.com/p/c553ed06aab49e8ee5636c5c809b6423) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 

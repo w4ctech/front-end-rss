@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-30 18:43:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 18:52:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-11-11-WebGL-水波及焦散（刻蚀）的渲染总结](https://www.ershicimi.com/p/09beabb4d4095136601674e205b1b893) 
 - [2020-11-23-WebGL-水波及焦散（刻蚀）的渲染总结](https://www.ershicimi.com/p/1d72d07db9e8136d281bb1ad69f8c531) 
 - [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) 
 - [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) 
@@ -23,4 +22,3 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
-- [2020-11-30-微信的内置浏览器，对-svg-的字体图标渲染，位置总是对不齐？（和-Chrome/Safari-这些主流浏览器相比）](https://www.v2ex.com/t/730748) 

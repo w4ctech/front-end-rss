@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-30 03:08:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 03:27:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -52,7 +52,7 @@
 - [2020-11-27-科技重绘金融产业天际线：ReFinTech大会展望金融数据化时代](https://www.ershicimi.com/p/3a80cb8b6b89e55567acb6cd43da1e60) 
 - [2020-11-26-美国重申中兴威胁美国国家安全，12-月将对华为做出最终裁决](https://www.ershicimi.com/p/65df2eeea4115ad80b460e76d0732450) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-11-30-大家遇到过-Chrome-扩展发布的"Privacy"部分一直无法提交的问题吗？](https://www.v2ex.com/t/730461) 
+- [2020-11-30-请教，如何关闭-chrome-自带的-extensions-manager](https://www.v2ex.com/t/730515) 
 - [2020-11-30-这些浏览器工作原理你都吃透了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14005&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRzjrf46vrKkPdL2OlRaYMg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-29-2021年广东省信息安全技术重点实验室开放基金](https://sec.thief.one/article_content?a_id=e4d1f148b86be281612226ed5712cba6) 
 - [2020-11-29-英国防部预算获批并确认网络安全相关支出增加](https://sec.thief.one/article_content?a_id=8a1e8c22a7d5c0360d4fab5bdbddad96) 

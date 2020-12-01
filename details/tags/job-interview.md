@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-01 16:05:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 16:11:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -35,7 +35,6 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-11-30-Redis面试题汇总（附答案），面试突击专用](https://www.ershicimi.com/p/05760c6e919470ea52e1ddbc7754c0d9) 
 - [2020-11-28-面试官：String长度有限制吗？是多少？](https://www.ershicimi.com/p/b1152ace164188124e7eea9891b35cdf) 
-- [2020-11-25-面试官就是这么欺负人：new-Object到底占用几个字节？](https://www.ershicimi.com/p/b56f88d1f40b017ef8816508ad42d173) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-12-01-母公司招聘入职的时候和子公司签合同](https://www.v2ex.com/t/731166) 
 - [2020-12-01-字节跳动-社招/校招/实习-发布工程，北京，后端研发招聘热招，欢迎加入](https://www.v2ex.com/t/731141) 

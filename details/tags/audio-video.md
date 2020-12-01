@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-01 10:05:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 10:14:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -93,7 +93,6 @@
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-12-01-视频网站的播放历史记录是怎么设计与存储的？（b-站、爱奇艺、腾讯视频什么的）](https://www.v2ex.com/t/731048) 
 - [2020-12-01-一个商机：可以使用-AI-分轨音乐的离线音乐播放器](https://www.v2ex.com/t/731040) 
-- [2020-12-01-嵌入式系统音频架构该如何选择？](https://www.v2ex.com/t/731033) 
 - [2020-12-01-从-WebRTC-官方下载总失败？来试试这个？](https://toutiao.io/k/hghrv7j) 
 - [2020-11-30-【视频】|-Python:冒泡排序](https://sec.thief.one/article_content?a_id=ca37207e340a61c222cd83f8e2be4022) 
 - [2020-11-28-【视频】|-Python:枚举+选择排序](https://sec.thief.one/article_content?a_id=f8940138cb7ac1a6bbba0a55ebdcf791) 

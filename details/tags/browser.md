@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-01 13:26:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 13:34:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,7 +22,6 @@
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-11-23-前端-API-请求缓存数据的-5-种方案](https://www.ershicimi.com/p/da93a0200a9855b20ce67050c1cfaa95) 
-- [2020-11-26-【第2129期】探讨浏览器指纹](https://www.ershicimi.com/p/f790744c16a1f32b7d4cdddb45515ca4) 
 - [2020-11-27-postMessage-还能这样玩](https://www.ershicimi.com/p/70f958586b400b907f7570edd6169298) 
 - [2020-11-26-让你爱不释手的-HTTP-API-工具：Postman](https://www.ershicimi.com/p/87cd1614290b8c113b4203e3d1bbc99f) 
 - [2020-11-22-对标-Postman！2.5-万-Star-的挑战者：Hoppscotch](https://www.ershicimi.com/p/f7a2a73ddabf044866e678c8cfef75b9) 
@@ -42,9 +41,6 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
-- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-11-28-GET-和-POST请求的本质区别是什么？原来我一直理解错了](https://www.ershicimi.com/p/30e492d2db08c13c8cf052a395c40aca) 
 - [2020-11-28-Akamai-Edge-Live-线上峰会——助力中国企业出海应对多方挑战-｜-Q推荐](https://www.ershicimi.com/p/889e329d5fc8f074e4ce2278e9eb1096) 
 - [2020-11-27-科技重绘金融产业天际线：ReFinTech大会展望金融数据化时代](https://www.ershicimi.com/p/3a80cb8b6b89e55567acb6cd43da1e60) 
@@ -53,8 +49,8 @@
 - [2020-12-01-本地-WEB-应用实时数据推送除了使用-websocket-还有其他选择吗](https://www.v2ex.com/t/731100) 
 - [2020-12-01-VIPKID上云-解决多云Web统一安全防护问题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14022&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-01-有安全研究者混入了-PHP-8.0-开发组](https://toutiao.io/k/5z739se) 
-- [2020-12-01-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
 - [2020-12-01-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
+- [2020-12-01-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
 - [2020-12-01-产业互联网时代的安全「新解」:从群雄割据到安全普惠](https://sec.thief.one/article_content?a_id=6d65ec3e6b65756d428990a80df8f485) 
 - [2020-12-01-信息安全漏洞周报2020年第46期](https://sec.thief.one/article_content?a_id=3d31d34c568ec6dd993bad16a40f115f) 
 - [2020-12-01-利用.NET的调试功能进行代码注入](https://sec.thief.one/article_content?a_id=4074e484197d80ad03805335a9be203c) 

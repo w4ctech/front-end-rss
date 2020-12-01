@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-01 04:51:03，:rocket: 更新条数: +3899， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-01 05:04:35，:rocket: 更新条数: +3901， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1064,6 +1064,8 @@
 </summary>
 
 
+- [2020-12-01-AWS-Announces-macOS-on-EC2](https://www.v2ex.com/t/730925) ![](assets/new.png)  
+- [2020-12-01-易车内推-招-Java-/前端-Leader-和高级研发-16-薪](https://www.v2ex.com/t/730924) ![](assets/new.png)  
 - [2020-12-01-周末给媳妇儿的-xps13-9370-升级-SSD-血泪心得](https://www.v2ex.com/t/730923) ![](assets/new.png)  
 - [2020-12-01-最近装-hackintosh-时发现部分-APP-跟-EFI-分区是绑定的？？](https://www.v2ex.com/t/730922) ![](assets/new.png)  
 - [2020-12-01-令人心动的-offer-之微软苏州篇，数百-HC-等你来！职位详情-&-福利大揭秘！不止-955！](https://www.v2ex.com/t/730921) ![](assets/new.png)  
@@ -1082,8 +1084,6 @@
 - [2020-12-01-校招-offer-选择，珠海-wps-和武汉小米](https://www.v2ex.com/t/730904) ![](assets/new.png)  
 - [2020-12-01--一面数据-|-深圳-期待对-Python-/大数据有热情的同学加入！-铁铁们-来康康职位呀~](https://www.v2ex.com/t/730901) ![](assets/new.png)  
 - [2020-12-01-Big-sur-下给-iOS-的备份路径变动了，有没有大佬知道在哪儿？](https://www.v2ex.com/t/730899) ![](assets/new.png)  
-- [2020-12-01-怎么把-iPhone-里的一部分照片复制到电脑里](https://www.v2ex.com/t/730898) ![](assets/new.png)  
-- [2020-12-01-CSDN-是请不起前端吗](https://www.v2ex.com/t/730897) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1095,6 +1095,7 @@
 </summary>
 
 
+- [2020-12-01-VIPKID上云-解决多云Web统一安全防护问题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14022&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-01-浙江大学联手驻云科技进行信息化建设-实时数据驱动校园智能管理-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14021&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9432%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-01-应对梅雨季-水务精灵助力梅城镇智能化解决排水难题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14020&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15659%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-01-乐惠国际打造首家精酿啤酒工业互联网平台-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14019&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1114,7 +1115,6 @@
 - [2020-12-01-这些浏览器工作原理你都吃透了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14005&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRzjrf46vrKkPdL2OlRaYMg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-01-阿里云打下AI地基，更多的开发者走向了前台-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14004&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778839%3Futm_content%3Dg_1000210969%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-01-阿里云性能测试工具PTS介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14003&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778829%3Futm_content%3Dg_1000210968%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-01-2020双11养猫技术大揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14002&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778793%3Futm_content%3Dg_1000210967%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

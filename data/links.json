@@ -18699,6 +18699,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "AWS Announces macOS on EC2",
+        "link": "https://www.v2ex.com/t/730925",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[易车内推] 招 Java /前端 Leader 和高级研发 16 薪",
+        "link": "https://www.v2ex.com/t/730924",
+        "date": "2020-12-01"
+      },
+      {
         "title": "周末给媳妇儿的 xps13 9370 升级 SSD 血泪心得",
         "link": "https://www.v2ex.com/t/730923",
         "date": "2020-12-01"
@@ -18881,6 +18891,11 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "VIPKID上云 解决多云Web统一安全防护问题 (yqh.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14022&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-12-01"
+      },
+      {
         "title": "浙江大学联手驻云科技进行信息化建设 实时数据驱动校园智能管理 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14021&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9432%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-12-01"
@@ -18973,11 +18988,6 @@
       {
         "title": "阿里云性能测试工具PTS介绍 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14003&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778829%3Futm_content%3Dg_1000210968%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "2020双11养猫技术大揭秘 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14002&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778793%3Futm_content%3Dg_1000210967%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-12-01"
       }
     ]
@@ -19088,6 +19098,16 @@
         "date": "2020-12-01"
       },
       {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
+        "date": "2020-12-01"
+      },
+      {
         "title": "[推荐] 谈一谈程序员的职业发展路线",
         "link": "https://toutiao.io/k/b2k5zax",
         "date": "2020-12-01"
@@ -19098,43 +19118,18 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 分布式数据网格 Data Mesh",
-        "link": "https://toutiao.io/k/p6zp7x5",
+        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
+        "link": "https://toutiao.io/k/1k0udg9",
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
+        "title": "[推荐] 程序员必知必会的十大排序算法",
+        "link": "https://toutiao.io/k/zoyne3a",
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
-        "link": "https://toutiao.io/k/4jzvanq",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
         "date": "2020-12-01"
       },
       {
@@ -19143,8 +19138,8 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
         "date": "2020-12-01"
       },
       {
@@ -19153,13 +19148,28 @@
         "date": "2020-12-01"
       },
       {
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
+        "date": "2020-12-01"
+      },
+      {
         "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
         "link": "https://toutiao.io/k/5sw3syp",
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-12-01"
       }
     ]

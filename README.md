@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-01 19:48:37，:rocket: 更新条数: +3911， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-01 20:08:46，:rocket: 更新条数: +3909， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,7 +1074,6 @@
 </summary>
 
 
-- [2020-12-01-寻找全职-PHP-程序员，做外包，可以在家做，每月保底-5000，项目提成-30%！有意向的联系我-VX:a2059593003，飞机-@leeson2238](https://www.v2ex.com/t/731195) ![](assets/new.png)  
 - [2020-12-01-装机大佬们，选-AMD-还是-Intel-？](https://www.v2ex.com/t/731193) ![](assets/new.png)  
 - [2020-12-01-MIUI12-还有必要安装冰箱-IceBox-类的-app-吗？](https://www.v2ex.com/t/731191) ![](assets/new.png)  
 - [2020-12-01-天气太冷了，求推荐电器产品](https://www.v2ex.com/t/731190) ![](assets/new.png)  
@@ -1094,6 +1093,7 @@
 - [2020-12-01-深圳南山西丽附近求租！](https://www.v2ex.com/t/731171) ![](assets/new.png)  
 - [2020-12-01-想买-goose-的起码做下调研好吧？AppleInsider](https://www.v2ex.com/t/731169) ![](assets/new.png)  
 - [2020-12-01-个人作品-windows-启动器-1bot](https://www.v2ex.com/t/731168) ![](assets/new.png)  
+- [2020-12-01-母公司招聘入职的时候和子公司签合同](https://www.v2ex.com/t/731166) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -18699,6 +18699,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "招行 10 元风暴活动开始啦，进来组队伍躺赢",
+        "link": "https://www.v2ex.com/t/730920",
+        "date": "2020-12-01"
+      },
+      {
         "title": "免费领天猫精灵音箱",
         "link": "https://www.v2ex.com/t/730918",
         "date": "2020-12-01"
@@ -18866,11 +18871,6 @@
       {
         "title": "MacBook Pro 的屏幕清洁问题",
         "link": "https://www.v2ex.com/t/730871",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "MBP - 我们无法验证您产品的购买日期",
-        "link": "https://www.v2ex.com/t/730870",
         "date": "2020-12-01"
       }
     ]
@@ -19088,33 +19088,8 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 分布式数据网格 Data Mesh",
-        "link": "https://toutiao.io/k/p6zp7x5",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
         "date": "2020-12-01"
       },
       {
@@ -19123,33 +19098,23 @@
         "date": "2020-12-01"
       },
       {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
+        "date": "2020-12-01"
+      },
+      {
         "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
         "link": "https://toutiao.io/k/5shq47n",
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
+        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
+        "link": "https://toutiao.io/k/5sw3syp",
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 程序员必知必会的十大排序算法",
-        "link": "https://toutiao.io/k/zoyne3a",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
+        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
+        "link": "https://toutiao.io/k/4jzvanq",
         "date": "2020-12-01"
       },
       {
@@ -19158,8 +19123,43 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
+        "title": "[推荐] 程序员必知必会的十大排序算法",
+        "link": "https://toutiao.io/k/zoyne3a",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
+        "link": "https://toutiao.io/k/wpo96pp",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 分布式数据网格 Data Mesh",
+        "link": "https://toutiao.io/k/p6zp7x5",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
+        "link": "https://toutiao.io/k/1k0udg9",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
+        "link": "https://toutiao.io/k/5stu129",
         "date": "2020-12-01"
       }
     ]

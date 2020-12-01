@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-12-01 06:53:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 07:05:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-01-有没有超级小的-pc-浏览器啊？-chrome-太大太大。](https://www.v2ex.com/t/730980) 
+- [2020-12-01-大家的-IOS-JD-客户端“价格保护”还在吗？](https://www.v2ex.com/t/730978) 
+- [2020-12-01-技术信仰](https://www.v2ex.com/t/730976) 
+- [2020-12-01-互动有奖-Vol.30-科技-007：-5G-只能用来凡尔赛吗？](https://www.v2ex.com/t/730975) 
 - [2020-12-01-SAP-西安招聘-Cloud-&-CI/CD-Automation-Developer](https://www.v2ex.com/t/730973) 
 - [2020-12-01-2020-年份的-virmach-服务器-vps-闪购促销监控系统](https://www.v2ex.com/t/730972) 
 - [2020-12-01-有没有人注意到最近-textnow-接受服务类短信可能收不到？](https://www.v2ex.com/t/730971) 
@@ -37,7 +41,3 @@
 - [2020-12-01-面试过程中哪些点会有暗示成功-or-失败？](https://www.v2ex.com/t/730937) 
 - [2020-12-01-EMS-官网挂了-404？](https://www.v2ex.com/t/730935) 
 - [2020-12-01-Type-C-to-Dp1.4-口能再转接一手-HDMI-输出-4k-60hz-吗？](https://www.v2ex.com/t/730934) 
-- [2020-12-01-没有发票的-AirPods-Pro-在直营店能保修吗？](https://www.v2ex.com/t/730929) 
-- [2020-12-01-新入职的公司以-wlb-和加班少在奋斗逼之都闻名，但我入职后发现每晚没到八点走的我是新人里最早下班的，其他新人普遍八九点走，还有干到十一点的。](https://www.v2ex.com/t/730927) 
-- [2020-12-01-AWS-Announces-macOS-on-EC2](https://www.v2ex.com/t/730925) 
-- [2020-12-01-易车内推-招-Java-/前端-Leader-和高级研发-16-薪](https://www.v2ex.com/t/730924) 

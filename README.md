@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-01 05:08:16，:rocket: 更新条数: +3901， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-01 05:26:06，:rocket: 更新条数: +1018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-12-01-11月30日全国新增确诊病例12例-本土病例4例](https://m.caixin.com/m/2020-12-01/101634109.html) ![](assets/new.png)  
-- [2020-12-01-大流行手记|11月30日：英滚动审评阿斯利康疫苗-Moderna疫苗申请紧急使用](https://m.caixin.com/m/2020-12-01/101634135.html) ![](assets/new.png)  
-- [2020-11-30-香港再收紧防疫措施-特首称全民强制检测“不可行”](http://m.china.caixin.com/m/2020-11-30/101634057.html) ![](assets/new.png)  
-- [2020-11-30-最新海外疫情：新冠感染超6263万-累计死亡超145万](http://m.international.caixin.com/m/2020-11-30/101633993.html) ![](assets/new.png)  
-- [2020-11-30-【境内疫情观察】内蒙古新增3例本土确诊病例（11月29日）](http://m.database.caixin.com/m/2020-11-30/101633865.html) ![](assets/new.png)  
-- [2020-11-30-大流行手记|11月29日：美国日增病例过20万-俄军大规模接种新冠疫苗](https://m.caixin.com/m/2020-11-30/101633739.html) ![](assets/new.png)  
-- [2020-11-29-香港日增115宗新冠病例-幼儿园中小学停课至12月底](https://m.caixin.com/m/2020-11-29/101633672.html) ![](assets/new.png)  
-- [2020-11-29-一韩籍员工出境后核酸阳性-所在重庆企业停产](https://m.caixin.com/m/2020-11-29/101633619.html) ![](assets/new.png)  
-- [2020-11-29-【境内疫情观察】全国新增11例境外输入病例（11月28日）](http://m.database.caixin.com/m/2020-11-29/101633629.html) ![](assets/new.png)  
-- [2020-11-29-大流行手记|11月28日：阿斯利康新冠疫苗或延迟上市-欧美迎萧条圣诞季](https://m.caixin.com/m/2020-11-29/101633597.html) ![](assets/new.png)  
-- [2020-11-28-【境内疫情观察】全国新增6例境外输入病例（11月27日）](http://m.database.caixin.com/m/2020-11-28/101633496.html) ![](assets/new.png)  
-- [2020-11-28-大流行手记|11月27日：东南亚国家积极采购疫苗-美四成新冠死者出自养老院](https://m.caixin.com/m/2020-11-28/101633388.html) ![](assets/new.png)  
-- [2020-11-28-聚焦|张文宏：新冠+流感，合并感染冬季常见无须恐惧](http://m.opinion.caixin.com/m/2020-11-28/101633435.html) ![](assets/new.png)  
-- [2020-11-27-独家|专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html) ![](assets/new.png)  
-- [2020-11-27-钟南山建议香港再次推行全民检测](https://m.caixin.com/m/2020-11-27/101633024.html) ![](assets/new.png)  
-- [2020-11-27-【境内疫情观察】全国新增5例境外输入病例（11月26日）](http://m.database.caixin.com/m/2020-11-27/101633045.html) ![](assets/new.png)  
-- [2020-11-27-大流行手记|11月26日：欧美节假季疫情恐加剧-全球性别平等受损](https://m.caixin.com/m/2020-11-27/101632915.html) ![](assets/new.png)  
-- [2020-11-27-钟南山：应研发多种类型疫苗，哪一种最好现在还不知道](https://m.caixin.com/m/2020-11-27/101633147.html) ![](assets/new.png)  
-- [2020-11-27-聚焦|张文宏：控制经物流的海外输入性疫情](http://m.opinion.caixin.com/m/2020-11-27/101632910.html) ![](assets/new.png)  
-- [2020-11-26-满洲里共确诊11例新冠-现家庭、学校、小区聚集特征](https://m.caixin.com/m/2020-11-26/101632824.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,6 +1044,8 @@
 </summary>
 
 
+- [2020-12-01-没有发票的-AirPods-Pro-在直营店能保修吗？](https://www.v2ex.com/t/730929) ![](assets/new.png)  
+- [2020-12-01-新入职的公司以-wlb-和加班少在奋斗逼之都闻名，但我入职后发现每晚没到八点走的我是新人里最早下班的，其他新人普遍八九点走，还有干到十一点的。](https://www.v2ex.com/t/730927) ![](assets/new.png)  
 - [2020-12-01-AWS-Announces-macOS-on-EC2](https://www.v2ex.com/t/730925) ![](assets/new.png)  
 - [2020-12-01-易车内推-招-Java-/前端-Leader-和高级研发-16-薪](https://www.v2ex.com/t/730924) ![](assets/new.png)  
 - [2020-12-01-周末给媳妇儿的-xps13-9370-升级-SSD-血泪心得](https://www.v2ex.com/t/730923) ![](assets/new.png)  
@@ -1082,8 +1064,6 @@
 - [2020-12-01-急聘-付费招募-5-名-Golang-程序员](https://www.v2ex.com/t/730906) ![](assets/new.png)  
 - [2020-12-01-Python-requests-库发送-body-只有一个-list-的请求的写法](https://www.v2ex.com/t/730905) ![](assets/new.png)  
 - [2020-12-01-校招-offer-选择，珠海-wps-和武汉小米](https://www.v2ex.com/t/730904) ![](assets/new.png)  
-- [2020-12-01--一面数据-|-深圳-期待对-Python-/大数据有热情的同学加入！-铁铁们-来康康职位呀~](https://www.v2ex.com/t/730901) ![](assets/new.png)  
-- [2020-12-01-Big-sur-下给-iOS-的备份路径变动了，有没有大佬知道在哪儿？](https://www.v2ex.com/t/730899) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1157,26 +1137,26 @@
 </summary>
 
 
+- [2020-12-01-从云密码本技术到三方威胁防控丨OPPO技术开放日第六期解析](https://sec.thief.one/article_content?a_id=2a57cb3309bbf61036622faa7c5d2444) ![](assets/new.png)  
+- [2020-12-01-我那个工资4000的朋友,一年存了20万:聪明人从不靠死工资续命](https://sec.thief.one/article_content?a_id=df54dfc13598c45e606d8438f2467ca2) ![](assets/new.png)  
+- [2020-12-01-新的网络攻击可以诱骗DNA科学家制造危险的病毒](https://sec.thief.one/article_content?a_id=a1ea5c13bace794e92424ac82fec6fd6) ![](assets/new.png)  
+- [2020-12-01-零基础打造零信任架构的十大建议](https://sec.thief.one/article_content?a_id=7ec78b27d78772394668a9bcae431779) ![](assets/new.png)  
+- [2020-12-01-每日安全动态推送12-01](https://sec.thief.one/article_content?a_id=563701dcb8ab5adf468fc14fa47b7a12) ![](assets/new.png)  
+- [2020-12-01-乘风破浪的2020,致敬每一个你](https://sec.thief.one/article_content?a_id=c5ad5191f13061b724a7b9525e504d39) ![](assets/new.png)  
+- [2020-12-01-利用官网getshell](https://sec.thief.one/article_content?a_id=2bf7ed2d332a776ea8dbe113b748ff23) ![](assets/new.png)  
+- [2020-12-01-SQL注入速查笔记](https://sec.thief.one/article_content?a_id=52ff3db40dff36beaca0c0a8d70864a2) ![](assets/new.png)  
+- [2020-12-01-网络犯罪是一份苦逼的“工作”](https://sec.thief.one/article_content?a_id=06bc5b735f5e2de39fe243db6106915c) ![](assets/new.png)  
+- [2020-12-01-网鼎杯风云:真·大侠不搞偷袭,真·黑客不靠作弊](https://sec.thief.one/article_content?a_id=ff35c376c31133171c218e27d2b8de32) ![](assets/new.png)  
+- [2020-12-01-曼联系统遭黑客攻击胁持-被勒索数百万英镑赎金](https://sec.thief.one/article_content?a_id=b370b20077194249ad37c6282126ec73) ![](assets/new.png)  
+- [2020-12-01-疑似双尾蝎APT组织以CIA资助哈马斯相关信息为诱饵的攻击活动分析](https://sec.thief.one/article_content?a_id=a74418056bb08fa58ca8334b8a38ab20) ![](assets/new.png)  
+- [2020-12-01-【公告】JSRC十月月度英雄榜](https://sec.thief.one/article_content?a_id=d93f3c22dccf722406a498489063bbbb) ![](assets/new.png)  
+- [2020-12-01-【漏洞通告】VMWare-SD-WAN哈希传递漏洞通告-CVE-2020-4000/...](https://sec.thief.one/article_content?a_id=a72a740fd8f82ffa06711604e4527310) ![](assets/new.png)  
+- [2020-12-01-又一款程序员摸鱼神器来了?上班也可以在VSCode看股票-&-基金实时...](https://sec.thief.one/article_content?a_id=d48d0a3a9e0e03a1d5722de66a72971b) ![](assets/new.png)  
+- [2020-12-01-物联网安全:二维码的安全与隐私机制](https://sec.thief.one/article_content?a_id=5293568ef42abecaedc49aec2e9afde7) ![](assets/new.png)  
+- [2020-12-01-置之死地而后生,面向失败的架构设计](https://sec.thief.one/article_content?a_id=e458d589026047961f6266e522e7e5f9) ![](assets/new.png)  
+- [2020-12-01-绕过客户端验证进行安全测试](https://sec.thief.one/article_content?a_id=3139e006d75fd804e488c0e499be2dca) ![](assets/new.png)  
 - [2020-12-01-人人都要会点密码学](https://sec.thief.one/article_content?a_id=120745f1181ee76091724660762453d5) ![](assets/new.png)  
 - [2020-12-01-《英国ICO人工智能与数据保护指引》选译-|-如何保护人工智能系统中...](https://sec.thief.one/article_content?a_id=5128bfc5806bc5fd70d7a29c76d936b4) ![](assets/new.png)  
-- [2020-12-01-曼联系统遭黑客攻击胁持-被勒索数百万英镑赎金](https://sec.thief.one/article_content?a_id=1757e722d63062bfd78a945832225f4a) ![](assets/new.png)  
-- [2020-11-30-2.3万star!狂拽酷炫的终端:eDEX-UI](https://sec.thief.one/article_content?a_id=13e1ac0e7880d1653fd47bdc486af52e) ![](assets/new.png)  
-- [2020-11-30-【安全圈】活动票务平台-Peatix-420-万用户的数据遭黑客泄漏](https://sec.thief.one/article_content?a_id=afa554ad4bf689b4f2b9d4fa4cfa8f32) ![](assets/new.png)  
-- [2020-11-30-每日攻防资讯简报Nov.30th](https://sec.thief.one/article_content?a_id=25fc27547b78a0493e64f7f3e4290abc) ![](assets/new.png)  
-- [2020-11-30-OPPO技术开放日第六期丨OPPO安全解析“应用与数据安全防护”背...](https://sec.thief.one/article_content?a_id=a0304ae86d931e002ae0315f98578a3f) ![](assets/new.png)  
-- [2020-11-30-奇安信受邀参加第二届西城区上市公司交流活动](https://sec.thief.one/article_content?a_id=e88beeca9303796c540a4c7fb758a691) ![](assets/new.png)  
-- [2020-11-30-28岁年轻操盘手,加密市场“空手套白狼”成就亿万身家](https://sec.thief.one/article_content?a_id=9ed652bff68cefa78edd6254c5a426b8) ![](assets/new.png)  
-- [2020-11-30-年薪50W的数据分析师需要掌握SQL到什么程度?](https://sec.thief.one/article_content?a_id=40f27039c9a791f3744216c4bea9f318) ![](assets/new.png)  
-- [2020-11-30-【最终议程请查收】京麒网络安全大会倒计时4天蓄势待发!](https://sec.thief.one/article_content?a_id=20e829afc883575c3f37d8b621eafcca) ![](assets/new.png)  
-- [2020-11-30-2020年中国网络安全产业高峰论坛成功举办|绿盟科技深度助力新网安](https://sec.thief.one/article_content?a_id=0eedc82ccbb9f81a19eae70a0555108f) ![](assets/new.png)  
-- [2020-11-30-网络安全视角下的《个人信息保护法》](https://sec.thief.one/article_content?a_id=08aaac36e7ff6647b6d5c655b9f49669) ![](assets/new.png)  
-- [2020-11-30-牛逼了!这-7-个-Python-新手实战项目,我打-99.99-分!!!](https://sec.thief.one/article_content?a_id=ee05688dc4e12fec62e10414903dc2bb) ![](assets/new.png)  
-- [2020-11-30-Blackrota:一个Go开发的高度混淆的后门](https://sec.thief.one/article_content?a_id=7f31ae28f98229f20f43968a608a75a9) ![](assets/new.png)  
-- [2020-11-30-《Ghidra操作手册》带你玩转软件逆向!](https://sec.thief.one/article_content?a_id=4fd394e52df904538e82adc61c880879) ![](assets/new.png)  
-- [2020-11-30-【安全热点周报】第170期:黑客将小米扫地机器人变成窃听器](https://sec.thief.one/article_content?a_id=b4072e3b171f8787d83999215bcd031e) ![](assets/new.png)  
-- [2020-11-30-Gdevops北京站:数仓与中台建设、数据库国产化、AIOps,以及近10...](https://sec.thief.one/article_content?a_id=c9864f7d8c88618416edca8078b9e0e1) ![](assets/new.png)  
-- [2020-11-30-来咯!12月13日,神奇的字节跳动攻防论坛报名开启](https://sec.thief.one/article_content?a_id=4da87748b1393a21e346d45e48d7936f) ![](assets/new.png)  
-- [2020-11-30-中共中央政治局召开会议-习近平主持会议](https://sec.thief.one/article_content?a_id=d7b60ed21ccf8c66e6b8006715294485) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

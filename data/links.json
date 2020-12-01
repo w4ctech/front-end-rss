@@ -18699,6 +18699,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "周末给媳妇儿的 xps13 9370 升级 SSD 血泪心得",
+        "link": "https://www.v2ex.com/t/730923",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "最近装 hackintosh 时发现部分 APP 跟 EFI 分区是绑定的？？",
+        "link": "https://www.v2ex.com/t/730922",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "令人心动的 offer 之微软苏州篇，数百 HC 等你来！职位详情 & 福利大揭秘！不止 955！",
+        "link": "https://www.v2ex.com/t/730921",
+        "date": "2020-12-01"
+      },
+      {
         "title": "招行 10 元风暴活动开始啦，进来组队伍躺赢",
         "link": "https://www.v2ex.com/t/730920",
         "date": "2020-12-01"
@@ -18856,21 +18871,6 @@
       {
         "title": "关于旧版浏览器访问 github，界面控件多处不能点击问题的处理方法",
         "link": "https://www.v2ex.com/t/730876",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "总结下 apple silicon M1 的缺点，以及三款 mac 新品的对比，优点看多了总容易让人失去理智。",
-        "link": "https://www.v2ex.com/t/730873",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "计划孤独终老，我该不该买房？大佬们怎么看",
-        "link": "https://www.v2ex.com/t/730872",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "MacBook Pro 的屏幕清洁问题",
-        "link": "https://www.v2ex.com/t/730871",
         "date": "2020-12-01"
       }
     ]
@@ -19088,8 +19088,38 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
+        "title": "[推荐] 谈一谈程序员的职业发展路线",
+        "link": "https://toutiao.io/k/b2k5zax",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 分布式数据网格 Data Mesh",
+        "link": "https://toutiao.io/k/p6zp7x5",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
+        "link": "https://toutiao.io/k/wpo96pp",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
+        "link": "https://toutiao.io/k/4jzvanq",
         "date": "2020-12-01"
       },
       {
@@ -19098,8 +19128,23 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
+        "link": "https://toutiao.io/k/1k0udg9",
         "date": "2020-12-01"
       },
       {
@@ -19113,53 +19158,8 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
-        "link": "https://toutiao.io/k/4jzvanq",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 程序员必知必会的十大排序算法",
-        "link": "https://toutiao.io/k/zoyne3a",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 分布式数据网格 Data Mesh",
-        "link": "https://toutiao.io/k/p6zp7x5",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
         "date": "2020-12-01"
       }
     ]

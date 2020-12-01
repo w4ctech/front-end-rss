@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-01 10:38:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 10:50:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -46,4 +46,3 @@
 - [2020-12-01-django中如何启动额外的-socket-连接](https://www.v2ex.com/t/731049) 
 - [2020-12-01-视频网站的播放历史记录是怎么设计与存储的？（b-站、爱奇艺、腾讯视频什么的）](https://www.v2ex.com/t/731048) 
 - [2020-12-01-网页怎么获得终端的类型？](https://www.v2ex.com/t/731047) 
-- [2020-12-01-docker-build-go-项目每次都很慢，有什么好的办法吗？](https://www.v2ex.com/t/731045) 

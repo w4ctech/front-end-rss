@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-01 04:10:28，:rocket: 更新条数: +3898， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-01 04:32:48，:rocket: 更新条数: +3899， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1064,6 +1064,13 @@
 </summary>
 
 
+- [2020-12-01-免费领天猫精灵音箱](https://www.v2ex.com/t/730918) ![](assets/new.png)  
+- [2020-12-01-Apple-Insider-的年度捆绑包来了](https://www.v2ex.com/t/730916) ![](assets/new.png)  
+- [2020-12-01-出租一台服务器](https://www.v2ex.com/t/730915) ![](assets/new.png)  
+- [2020-12-01-Adguard-Home-DNS](https://www.v2ex.com/t/730914) ![](assets/new.png)  
+- [2020-12-01-AppleInsider-黑五-Mac-Bundle-含-PD-Pro-和-Luminar-4-等等。](https://www.v2ex.com/t/730912) ![](assets/new.png)  
+- [2020-12-01-招聘前端工程师（工作地点苏州）](https://www.v2ex.com/t/730911) ![](assets/new.png)  
+- [2020-12-01-招行年底活动来了，组团，发车了！](https://www.v2ex.com/t/730910) ![](assets/new.png)  
 - [2020-12-01-ARM-macbook-air-一屏幕镜像就崩溃](https://www.v2ex.com/t/730908) ![](assets/new.png)  
 - [2020-12-01-提笔忘字怎么办，英语水平越来越好了，但是中文书写水平越来越差了](https://www.v2ex.com/t/730907) ![](assets/new.png)  
 - [2020-12-01-急聘-付费招募-5-名-Golang-程序员](https://www.v2ex.com/t/730906) ![](assets/new.png)  
@@ -1077,13 +1084,6 @@
 - [2020-12-01-有关虚拟内存&物理内存的疑问](https://www.v2ex.com/t/730893) ![](assets/new.png)  
 - [2020-12-01-各位大佬，现在提辞职的话，一个月后还能找到工作吗？](https://www.v2ex.com/t/730891) ![](assets/new.png)  
 - [2020-12-01-这种情况用-jsonb-保存好还是用表保存好呢](https://www.v2ex.com/t/730890) ![](assets/new.png)  
-- [2020-12-01-windows10-如何在没有公网链接情况下开启-hotspot](https://www.v2ex.com/t/730889) ![](assets/new.png)  
-- [2020-12-01-开发需要，买个-MacMini-还是-Macbook？二手的靠谱吗](https://www.v2ex.com/t/730888) ![](assets/new.png)  
-- [2020-12-01-公司说资本操作，然后三番两次的给我们换合同的实体](https://www.v2ex.com/t/730886) ![](assets/new.png)  
-- [2020-12-01-现在有多少人离不开支付宝，真的大到不能失去吗？](https://www.v2ex.com/t/730883) ![](assets/new.png)  
-- [2020-12-01-跨域请求代理有什么方案](https://www.v2ex.com/t/730882) ![](assets/new.png)  
-- [2020-12-01-杭州-Java-阿里巴巴-Java-高级工程师/技术专家](https://www.v2ex.com/t/730881) ![](assets/new.png)  
-- [2020-12-01-渗透测试工程师---安全与风控（北/上/杭/深）急招](https://www.v2ex.com/t/730880) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,8 +1139,8 @@
 - [2020-12-01-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/qvfq564) ![](assets/new.png)  
 - [2020-12-01-一文详解数据库-MVCC](https://toutiao.io/k/8nv3fkj) ![](assets/new.png)  
 - [2020-12-01-卧槽，面试官质疑我不会配置中心原理，看不起谁呢？](https://toutiao.io/k/q97zwd8) ![](assets/new.png)  
-- [2020-12-01-美团无人车引擎在仿真中的实践](https://toutiao.io/k/35kkd7x) ![](assets/new.png)  
 - [2020-12-01-想全面了解-Rust-语言-？-你想知道的都在这里（一）](https://toutiao.io/k/nd4mgk5) ![](assets/new.png)  
+- [2020-12-01-美团无人车引擎在仿真中的实践](https://toutiao.io/k/35kkd7x) ![](assets/new.png)  
 - [2020-12-01-Gitlab-CI-使用阿里云-kubernetes-serverless](https://toutiao.io/k/q2ardl2) ![](assets/new.png)  
 - [2020-12-01-有安全研究者混入了-PHP-8.0-开发组](https://toutiao.io/k/5z739se) ![](assets/new.png)  
 - [2020-12-01-哈工大等提出轻量级盲超分辨模型-LESRCNN，代码已开源](https://toutiao.io/k/rdkt2z4) ![](assets/new.png)  

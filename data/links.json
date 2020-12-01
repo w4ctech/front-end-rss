@@ -18292,8 +18292,34 @@
   {
     "rss": "https://front-rss.herokuapp.com/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "打工人，打工魂，打工不懂工具忙死人，教你如何优雅使用webpack5.0",
+        "link": "https://juejin.im/post/6901224334371930119",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "如何快速将你的应用封装成js-sdk?",
+        "link": "https://juejin.im/post/6901220585469116423",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "你必须知道的webpack插件原理分析",
+        "link": "https://juejin.im/post/6901210575162834958",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "编写高质量可维护的代码：组件的抽象与粒度",
+        "link": "https://juejin.im/post/6901210381574733832",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "node-sass to dart-sass",
+        "link": "https://juejin.im/post/6901196482536275975",
+        "date": "2020-12-01"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/jskou/0",
@@ -18678,6 +18704,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "用什么方法可以实现深度残差网络?",
+        "link": "https://www.v2ex.com/t/731078",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "网络安全厂商，目前咨询岗，未来出路在哪里？",
+        "link": "https://www.v2ex.com/t/731077",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "字节电商前端，一起来做有挑战性的事吧（可视化建站/Node/微前端/跨端等方向）",
+        "link": "https://www.v2ex.com/t/731076",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "HomePod mini 终于开售了",
+        "link": "https://www.v2ex.com/t/731075",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "big sur 夜览模式有 bug？",
+        "link": "https://www.v2ex.com/t/731074",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "总结一下可以写成书的一年",
+        "link": "https://www.v2ex.com/t/731073",
+        "date": "2020-12-01"
+      },
+      {
         "title": "[求助]关于上海驾校学车的问题，有哪些坑或者经验？",
         "link": "https://www.v2ex.com/t/731072",
         "date": "2020-12-01"
@@ -18850,31 +18906,6 @@
       {
         "title": "招聘 vue web 兼职开发及爬虫工程师",
         "link": "https://www.v2ex.com/t/731032",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[北京/杭州][ Golang ][阿里云] 运维开发工程师/技术专家 | 监控平台研发专家 | AiOps 算法专家",
-        "link": "https://www.v2ex.com/t/731030",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "怎么让 mac 上的 chrome87，支持 Secure DNS ，网上的方法不行",
-        "link": "https://www.v2ex.com/t/731029",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "前端有合适的机会要争取转后端吗？",
-        "link": "https://www.v2ex.com/t/731028",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "升级 Big Sur 后 Jietu.app 不能正常工作，请推荐替代品。要求：简洁、不联网、带简单的 markup 功能。",
-        "link": "https://www.v2ex.com/t/731027",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "BigSur 自带中文输入法卡顿",
-        "link": "https://www.v2ex.com/t/731025",
         "date": "2020-12-01"
       }
     ]
@@ -19092,33 +19123,8 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
-        "link": "https://toutiao.io/k/5shq47n",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
+        "title": "[推荐] 分布式数据网格 Data Mesh",
+        "link": "https://toutiao.io/k/p6zp7x5",
         "date": "2020-12-01"
       },
       {
@@ -19127,8 +19133,33 @@
         "date": "2020-12-01"
       },
       {
+        "title": "[推荐] 程序员必知必会的十大排序算法",
+        "link": "https://toutiao.io/k/zoyne3a",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
+        "date": "2020-12-01"
+      },
+      {
         "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
         "link": "https://toutiao.io/k/wpo96pp",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
         "date": "2020-12-01"
       },
       {
@@ -19137,18 +19168,13 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 分布式数据网格 Data Mesh",
-        "link": "https://toutiao.io/k/p6zp7x5",
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-12-01"
       },
       {
@@ -19157,13 +19183,18 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
         "date": "2020-12-01"
       },
       {
         "title": "[推荐] 架构师之路：微服务技术选型",
         "link": "https://toutiao.io/k/bxvxty9",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-12-01"
       }
     ]

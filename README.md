@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-01 09:50:51，:rocket: 更新条数: +3900， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-01 10:05:14，:rocket: 更新条数: +3906， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -944,6 +944,11 @@
 </summary>
 
 
+- [2020-12-01-打工人，打工魂，打工不懂工具忙死人，教你如何优雅使用webpack5.0](https://juejin.im/post/6901224334371930119) ![](assets/new.png)  
+- [2020-12-01-如何快速将你的应用封装成js-sdk?](https://juejin.im/post/6901220585469116423) ![](assets/new.png)  
+- [2020-12-01-你必须知道的webpack插件原理分析](https://juejin.im/post/6901210575162834958) ![](assets/new.png)  
+- [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://juejin.im/post/6901210381574733832) ![](assets/new.png)  
+- [2020-12-01-node-sass-to-dart-sass](https://juejin.im/post/6901196482536275975) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1059,6 +1064,12 @@
 </summary>
 
 
+- [2020-12-01-用什么方法可以实现深度残差网络?](https://www.v2ex.com/t/731078) ![](assets/new.png)  
+- [2020-12-01-网络安全厂商，目前咨询岗，未来出路在哪里？](https://www.v2ex.com/t/731077) ![](assets/new.png)  
+- [2020-12-01-字节电商前端，一起来做有挑战性的事吧（可视化建站/Node/微前端/跨端等方向）](https://www.v2ex.com/t/731076) ![](assets/new.png)  
+- [2020-12-01-HomePod-mini-终于开售了](https://www.v2ex.com/t/731075) ![](assets/new.png)  
+- [2020-12-01-big-sur-夜览模式有-bug？](https://www.v2ex.com/t/731074) ![](assets/new.png)  
+- [2020-12-01-总结一下可以写成书的一年](https://www.v2ex.com/t/731073) ![](assets/new.png)  
 - [2020-12-01-求助关于上海驾校学车的问题，有哪些坑或者经验？](https://www.v2ex.com/t/731072) ![](assets/new.png)  
 - [2020-12-01-为什么我合到-test-分支的代码老是会自动消失？-gitlab-只有我一个人的记录](https://www.v2ex.com/t/731071) ![](assets/new.png)  
 - [2020-12-01-Mac-OS-现已加入-EC2-豪华套餐](https://www.v2ex.com/t/731070) ![](assets/new.png)  
@@ -1073,12 +1084,6 @@
 - [2020-12-01-有大佬已经在-arm-版的-mac-,-做-Python-环境了吗](https://www.v2ex.com/t/731060) ![](assets/new.png)  
 - [2020-12-01-真的拿这些菜鸟驿站和丰巢一点办法都没有？](https://www.v2ex.com/t/731059) ![](assets/new.png)  
 - [2020-12-01-字节跳动产品研发与技术架构部-服务端开发内推持续中](https://www.v2ex.com/t/731058) ![](assets/new.png)  
-- [2020-12-01-结合实际来看，大家觉得是自身所接触的项目重要还是自学能力重要](https://www.v2ex.com/t/731057) ![](assets/new.png)  
-- [2020-12-01-微信读书可有人一起组队](https://www.v2ex.com/t/731055) ![](assets/new.png)  
-- [2020-12-01-类似-Android-or-iPhone-的-短数字密码-是如何保证安全性的？](https://www.v2ex.com/t/731054) ![](assets/new.png)  
-- [2020-12-01-有没有其他途径可查询-12306-一个月之前的历史订单？](https://www.v2ex.com/t/731053) ![](assets/new.png)  
-- [2020-12-01-IOS-版-QQ-音乐随机永远都是那几首歌](https://www.v2ex.com/t/731052) ![](assets/new.png)  
-- [2020-12-01-大四毕设了，已经爬了四百多万条豆瓣书评了，准备做一个-Chrome-插件，不知道取什么名字好](https://www.v2ex.com/t/731051) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

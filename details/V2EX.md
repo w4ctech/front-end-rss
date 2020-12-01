@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2020-12-01 06:34:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 06:53:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-01-SAP-西安招聘-Cloud-&-CI/CD-Automation-Developer](https://www.v2ex.com/t/730973) 
+- [2020-12-01-2020-年份的-virmach-服务器-vps-闪购促销监控系统](https://www.v2ex.com/t/730972) 
+- [2020-12-01-有没有人注意到最近-textnow-接受服务类短信可能收不到？](https://www.v2ex.com/t/730971) 
+- [2020-12-01-收个-iPad-mini5-最好带-pencil-有出的吗？](https://www.v2ex.com/t/730970) 
+- [2020-12-01-药品的定价权在谁的手上？](https://www.v2ex.com/t/730968) 
+- [2020-12-01-实习-&-社招-百度-搜索架构部-后台研发岗](https://www.v2ex.com/t/730967) 
+- [2020-12-01-前端萌新工作选择-toc-还是-tob-好呢？求大佬们解答一下，比如哪个提升快，哪个前景好等等](https://www.v2ex.com/t/730966) 
+- [2020-12-01-2020-年末了，目前的-Go-web-框架怎么选？](https://www.v2ex.com/t/730965) 
+- [2020-12-01-小白求助，梯子相关的软件能否隐藏流量去向？逃避公司服务器监控？](https://www.v2ex.com/t/730964) 
 - [2020-12-01-AWS-EC2-新增-macOS](https://www.v2ex.com/t/730962) 
 - [2020-12-01-微信指数接口](https://www.v2ex.com/t/730961) 
 - [2020-12-01-腾讯云续费有什么好的渠道么](https://www.v2ex.com/t/730960) 
@@ -32,10 +41,3 @@
 - [2020-12-01-新入职的公司以-wlb-和加班少在奋斗逼之都闻名，但我入职后发现每晚没到八点走的我是新人里最早下班的，其他新人普遍八九点走，还有干到十一点的。](https://www.v2ex.com/t/730927) 
 - [2020-12-01-AWS-Announces-macOS-on-EC2](https://www.v2ex.com/t/730925) 
 - [2020-12-01-易车内推-招-Java-/前端-Leader-和高级研发-16-薪](https://www.v2ex.com/t/730924) 
-- [2020-12-01-周末给媳妇儿的-xps13-9370-升级-SSD-血泪心得](https://www.v2ex.com/t/730923) 
-- [2020-12-01-最近装-hackintosh-时发现部分-APP-跟-EFI-分区是绑定的？？](https://www.v2ex.com/t/730922) 
-- [2020-12-01-令人心动的-offer-之微软苏州篇，数百-HC-等你来！职位详情-&-福利大揭秘！不止-955！](https://www.v2ex.com/t/730921) 
-- [2020-12-01-招行-10-元风暴活动开始啦，进来组队伍躺赢](https://www.v2ex.com/t/730920) 
-- [2020-12-01-免费领天猫精灵音箱](https://www.v2ex.com/t/730918) 
-- [2020-12-01-Apple-Insider-的年度捆绑包来了](https://www.v2ex.com/t/730916) 
-- [2020-12-01-Adguard-Home-DNS](https://www.v2ex.com/t/730914) 

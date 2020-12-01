@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-01 11:08:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 11:25:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -37,6 +37,7 @@
 - [2020-11-28-面试官：String长度有限制吗？是多少？](https://www.ershicimi.com/p/b1152ace164188124e7eea9891b35cdf) 
 - [2020-11-25-面试官就是这么欺负人：new-Object到底占用几个字节？](https://www.ershicimi.com/p/b56f88d1f40b017ef8816508ad42d173) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
+- [2020-12-01-上海-设计类在线协作软件招聘前端工程师](https://www.v2ex.com/t/731110) 
 - [2020-12-01-帮公司做了-200-场-Java-面试，这是我最满意的一场](https://www.v2ex.com/t/731103) 
 - [2020-12-01-杭州-北京-重庆-蚂蚁集团招聘高级前端工程师---期待你的加入！🔥🔥🔥🔥🔥🔥](https://www.v2ex.com/t/731082) 
 - [2020-12-01-Java-面试的的时候你被提过哪些问题？](https://www.v2ex.com/t/731065) 

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-01 05:48:39，:rocket: 更新条数: +1015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-01 06:05:15，:rocket: 更新条数: +3898， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-12-01-11月30日全国新增确诊病例12例-本土病例4例](https://m.caixin.com/m/2020-12-01/101634109.html) ![](assets/new.png)  
+- [2020-12-01-大流行手记|11月30日：英滚动审评阿斯利康疫苗-Moderna疫苗申请紧急使用](https://m.caixin.com/m/2020-12-01/101634135.html) ![](assets/new.png)  
+- [2020-11-30-香港再收紧防疫措施-特首称全民强制检测“不可行”](http://m.china.caixin.com/m/2020-11-30/101634057.html) ![](assets/new.png)  
+- [2020-11-30-最新海外疫情：新冠感染超6263万-累计死亡超145万](http://m.international.caixin.com/m/2020-11-30/101633993.html) ![](assets/new.png)  
+- [2020-11-30-【境内疫情观察】内蒙古新增3例本土确诊病例（11月29日）](http://m.database.caixin.com/m/2020-11-30/101633865.html) ![](assets/new.png)  
+- [2020-11-30-大流行手记|11月29日：美国日增病例过20万-俄军大规模接种新冠疫苗](https://m.caixin.com/m/2020-11-30/101633739.html) ![](assets/new.png)  
+- [2020-11-29-香港日增115宗新冠病例-幼儿园中小学停课至12月底](https://m.caixin.com/m/2020-11-29/101633672.html) ![](assets/new.png)  
+- [2020-11-29-一韩籍员工出境后核酸阳性-所在重庆企业停产](https://m.caixin.com/m/2020-11-29/101633619.html) ![](assets/new.png)  
+- [2020-11-29-【境内疫情观察】全国新增11例境外输入病例（11月28日）](http://m.database.caixin.com/m/2020-11-29/101633629.html) ![](assets/new.png)  
+- [2020-11-29-大流行手记|11月28日：阿斯利康新冠疫苗或延迟上市-欧美迎萧条圣诞季](https://m.caixin.com/m/2020-11-29/101633597.html) ![](assets/new.png)  
+- [2020-11-28-【境内疫情观察】全国新增6例境外输入病例（11月27日）](http://m.database.caixin.com/m/2020-11-28/101633496.html) ![](assets/new.png)  
+- [2020-11-28-大流行手记|11月27日：东南亚国家积极采购疫苗-美四成新冠死者出自养老院](https://m.caixin.com/m/2020-11-28/101633388.html) ![](assets/new.png)  
+- [2020-11-28-聚焦|张文宏：新冠+流感，合并感染冬季常见无须恐惧](http://m.opinion.caixin.com/m/2020-11-28/101633435.html) ![](assets/new.png)  
+- [2020-11-27-独家|专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html) ![](assets/new.png)  
+- [2020-11-27-钟南山建议香港再次推行全民检测](https://m.caixin.com/m/2020-11-27/101633024.html) ![](assets/new.png)  
+- [2020-11-27-【境内疫情观察】全国新增5例境外输入病例（11月26日）](http://m.database.caixin.com/m/2020-11-27/101633045.html) ![](assets/new.png)  
+- [2020-11-27-大流行手记|11月26日：欧美节假季疫情恐加剧-全球性别平等受损](https://m.caixin.com/m/2020-11-27/101632915.html) ![](assets/new.png)  
+- [2020-11-27-钟南山：应研发多种类型疫苗，哪一种最好现在还不知道](https://m.caixin.com/m/2020-11-27/101633147.html) ![](assets/new.png)  
+- [2020-11-27-聚焦|张文宏：控制经物流的海外输入性疫情](http://m.opinion.caixin.com/m/2020-11-27/101632910.html) ![](assets/new.png)  
+- [2020-11-26-满洲里共确诊11例新冠-现家庭、学校、小区聚集特征](https://m.caixin.com/m/2020-11-26/101632824.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -928,7 +948,7 @@
 - [2020-11-30-🏆-掘金年度征文-|-技术人的2020](https://juejin.im/post/6901125532729999374) ![](assets/new.png)  
 - [2020-11-30-巧用-currentColor-属性来实现自定义-checkbox-样式](https://juejin.im/post/6901124887847403527) ![](assets/new.png)  
 - [2020-11-30-W3C万维物联网解析：编程API篇](https://juejin.im/post/6901123541673410574) ![](assets/new.png)  
-- [2020-11-30-Vue3-Teleport-组件的实践及原理](https://juejin.im/post/6900957010808963079) ![](assets/new.png)  
+- [2020-11-30-漫画-|-带你领略前端发展史的江湖恩怨情仇](https://juejin.im/post/6901076337855823880) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,6 +1064,14 @@
 </summary>
 
 
+- [2020-12-01-Edge-在-Big-Sur-上闪退的-bug-修复了吗？](https://www.v2ex.com/t/730949) ![](assets/new.png)  
+- [2020-12-01-小米的电器产品到底好不好用？](https://www.v2ex.com/t/730948) ![](assets/new.png)  
+- [2020-12-01-Bartender4-在-big-sur-上切换窗口时候状态栏会出现残留](https://www.v2ex.com/t/730947) ![](assets/new.png)  
+- [2020-12-01-和大家闲扯一下-为什么现在网上部分人-动不动就什么“内卷”-什么"异化"](https://www.v2ex.com/t/730946) ![](assets/new.png)  
+- [2020-12-01-又是一年集喵活动开始了，进微信群，每天发车，讨论薅羊毛的正确姿势](https://www.v2ex.com/t/730945) ![](assets/new.png)  
+- [2020-12-01-厕所明确贴了标识严禁吸烟](https://www.v2ex.com/t/730944) ![](assets/new.png)  
+- [2020-12-01-日历如何设置每月月底倒数第-3-天的提醒事项？](https://www.v2ex.com/t/730943) ![](assets/new.png)  
+- [2020-12-01-有没有可能使用大马加宽做-trojan-节点？](https://www.v2ex.com/t/730942) ![](assets/new.png)  
 - [2020-12-01-如何保证单实列服务高可用](https://www.v2ex.com/t/730941) ![](assets/new.png)  
 - [2020-12-01-pdd-百亿补贴的-iPhone-12-pm-靠谱吗](https://www.v2ex.com/t/730939) ![](assets/new.png)  
 - [2020-12-01-求-2021-年-1-月开始的实习](https://www.v2ex.com/t/730938) ![](assets/new.png)  
@@ -1056,14 +1084,6 @@
 - [2020-12-01-易车内推-招-Java-/前端-Leader-和高级研发-16-薪](https://www.v2ex.com/t/730924) ![](assets/new.png)  
 - [2020-12-01-周末给媳妇儿的-xps13-9370-升级-SSD-血泪心得](https://www.v2ex.com/t/730923) ![](assets/new.png)  
 - [2020-12-01-最近装-hackintosh-时发现部分-APP-跟-EFI-分区是绑定的？？](https://www.v2ex.com/t/730922) ![](assets/new.png)  
-- [2020-12-01-令人心动的-offer-之微软苏州篇，数百-HC-等你来！职位详情-&-福利大揭秘！不止-955！](https://www.v2ex.com/t/730921) ![](assets/new.png)  
-- [2020-12-01-招行-10-元风暴活动开始啦，进来组队伍躺赢](https://www.v2ex.com/t/730920) ![](assets/new.png)  
-- [2020-12-01-免费领天猫精灵音箱](https://www.v2ex.com/t/730918) ![](assets/new.png)  
-- [2020-12-01-Apple-Insider-的年度捆绑包来了](https://www.v2ex.com/t/730916) ![](assets/new.png)  
-- [2020-12-01-出租一台服务器](https://www.v2ex.com/t/730915) ![](assets/new.png)  
-- [2020-12-01-Adguard-Home-DNS](https://www.v2ex.com/t/730914) ![](assets/new.png)  
-- [2020-12-01-AppleInsider-黑五-Mac-Bundle-含-PD-Pro-和-Luminar-4-等等。](https://www.v2ex.com/t/730912) ![](assets/new.png)  
-- [2020-12-01-招聘前端工程师（工作地点苏州）](https://www.v2ex.com/t/730911) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1075,6 +1095,7 @@
 </summary>
 
 
+- [2020-12-01-赛盒科技通过ADB实现广告精细化管理-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14023&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7695%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-01-VIPKID上云-解决多云Web统一安全防护问题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14022&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-01-浙江大学联手驻云科技进行信息化建设-实时数据驱动校园智能管理-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14021&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9432%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-01-应对梅雨季-水务精灵助力梅城镇智能化解决排水难题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14020&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15659%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1094,7 +1115,6 @@
 - [2020-12-01-你知道什么是-a站、b站、c站、d站、e站、f站、g站、h站、i站、j站、k站、l站、m站、n站…z-站吗-？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14006&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwtGHSFUWdwQIyqljxO4OLA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-01-这些浏览器工作原理你都吃透了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14005&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRzjrf46vrKkPdL2OlRaYMg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-01-阿里云打下AI地基，更多的开发者走向了前台-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14004&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778839%3Futm_content%3Dg_1000210969%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-01-阿里云性能测试工具PTS介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14003&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778829%3Futm_content%3Dg_1000210968%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1115,8 +1135,8 @@
 - [2020-12-01-技术总监的校招之旅：分享校招全攻略指南](https://toutiao.io/k/6ebh376) ![](assets/new.png)  
 - [2020-12-01-译-C#-9-新功能-“源代码生成器”，你用了吗？](https://toutiao.io/k/2ez9vvs) ![](assets/new.png)  
 - [2020-12-01-从-WebRTC-官方下载总失败？来试试这个？](https://toutiao.io/k/hghrv7j) ![](assets/new.png)  
-- [2020-12-01-从-CNN-性能优化说起（一）](https://toutiao.io/k/pshxxjv) ![](assets/new.png)  
 - [2020-12-01-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/qvfq564) ![](assets/new.png)  
+- [2020-12-01-从-CNN-性能优化说起（一）](https://toutiao.io/k/pshxxjv) ![](assets/new.png)  
 - [2020-12-01-一文详解数据库-MVCC](https://toutiao.io/k/8nv3fkj) ![](assets/new.png)  
 - [2020-12-01-卧槽，面试官质疑我不会配置中心原理，看不起谁呢？](https://toutiao.io/k/q97zwd8) ![](assets/new.png)  
 - [2020-12-01-Gitlab-CI-使用阿里云-kubernetes-serverless](https://toutiao.io/k/q2ardl2) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-01 07:48:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 08:05:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -49,10 +49,10 @@
 - [2020-11-28-Akamai-Edge-Live-线上峰会——助力中国企业出海应对多方挑战-｜-Q推荐](https://www.ershicimi.com/p/889e329d5fc8f074e4ce2278e9eb1096) 
 - [2020-11-27-科技重绘金融产业天际线：ReFinTech大会展望金融数据化时代](https://www.ershicimi.com/p/3a80cb8b6b89e55567acb6cd43da1e60) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-12-01-Emby-Premiere-便宜了-20-刀，现在只要-99-刀](https://www.v2ex.com/t/731009) 
 - [2020-12-01-想在内网搭建一个-http-缓存服务器](https://www.v2ex.com/t/731006) 
 - [2020-12-01-big-sur-更新后，文件对话框不响应，鼠标点击无响应，使用键盘可以，所有-App-和浏览器都发现这个-bug，包括系统设置里面也是一样，目前没有搜到解决方案，有没...](https://www.v2ex.com/t/730991) 
 - [2020-12-01-有没有超级小的-pc-浏览器啊？-chrome-太大太大。](https://www.v2ex.com/t/730980) 
-- [2020-12-01-edge-在-m1-上功耗大吗](https://www.v2ex.com/t/730958) 
 - [2020-12-01-VIPKID上云-解决多云Web统一安全防护问题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14022&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-01-这些浏览器工作原理你都吃透了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14005&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRzjrf46vrKkPdL2OlRaYMg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-01-有安全研究者混入了-PHP-8.0-开发组](https://toutiao.io/k/5z739se) 

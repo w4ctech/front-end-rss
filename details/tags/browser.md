@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-01 11:25:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 11:33:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,6 +34,14 @@
 - [2020-11-28-在浏览器地址栏输入url到按下回车发生了什么？](https://www.ershicimi.com/p/211c440c20d55802ea1959d69a6c2182) 
 - [2020-11-27-Chrome-上开发调试的九个技巧](https://www.ershicimi.com/p/b527283cd53d64ba3644b4df910f494c) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
@@ -46,6 +54,7 @@
 - [2020-12-01-go-在-vscode-调试断点出错](https://www.v2ex.com/t/731066) 
 - [2020-12-01-VIPKID上云-解决多云Web统一安全防护问题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14022&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-01-有安全研究者混入了-PHP-8.0-开发组](https://toutiao.io/k/5z739se) 
+- [2020-12-01-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
 - [2020-12-01-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
 - [2020-12-01-产业互联网时代的安全「新解」:从群雄割据到安全普惠](https://sec.thief.one/article_content?a_id=6d65ec3e6b65756d428990a80df8f485) 
 - [2020-12-01-信息安全漏洞周报2020年第46期](https://sec.thief.one/article_content?a_id=3d31d34c568ec6dd993bad16a40f115f) 

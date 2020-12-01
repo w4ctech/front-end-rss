@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-12-01 08:33:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 08:50:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-01-嵌入式系统音频架构该如何选择？](https://www.v2ex.com/t/731033) 
+- [2020-12-01-招聘-vue-web-兼职开发及爬虫工程师](https://www.v2ex.com/t/731032) 
+- [2020-12-01-北京/杭州-Golang-阿里云-运维开发工程师/技术专家-|-监控平台研发专家-|-AiOps-算法专家](https://www.v2ex.com/t/731030) 
+- [2020-12-01-怎么让-mac-上的-chrome87，支持-Secure-DNS-，网上的方法不行](https://www.v2ex.com/t/731029) 
+- [2020-12-01-前端有合适的机会要争取转后端吗？](https://www.v2ex.com/t/731028) 
+- [2020-12-01-升级-Big-Sur-后-Jietu.app-不能正常工作，请推荐替代品。要求：简洁、不联网、带简单的-markup-功能。](https://www.v2ex.com/t/731027) 
+- [2020-12-01-BigSur-自带中文输入法卡顿](https://www.v2ex.com/t/731025) 
 - [2020-12-01-docker-如何推送镜像到私有仓库。](https://www.v2ex.com/t/731022) 
 - [2020-12-01-请教各位大佬，-chan-<--1-阻塞和阻塞结束的时候，-goroutine-在干嘛？](https://www.v2ex.com/t/731021) 
 - [2020-12-01-用中文-API-让正则表达式更易读写？](https://www.v2ex.com/t/731020) 
@@ -41,10 +48,3 @@
 - [2020-12-01-问下中国往韩国邮寄香烟大概多少钱，有寄过的朋友吗？](https://www.v2ex.com/t/730987) 
 - [2020-12-01-远程-招-全栈工程师-10-~-20-USDT/h-Beancount.io,-硅谷-io,-Touchbase.AI,-stargately.com,-notehub.net,-coderoma.com,-etc](https://www.v2ex.com/t/730986) 
 - [2020-12-01-一个算法问题，应该是动态规划的。](https://www.v2ex.com/t/730985) 
-- [2020-12-01-M1-的-MBA-和-mac-mini-怎么选？](https://www.v2ex.com/t/730984) 
-- [2020-12-01-求教各位。注册-aws-信用卡验证总是不过。我的卡是招商-visa-双币，并且联系过银行卡片没有限制。有什么错误可能？](https://www.v2ex.com/t/730983) 
-- [2020-12-01-程序员健康-办公室用站立办公笔记本支架，有推荐的吗？](https://www.v2ex.com/t/730982) 
-- [2020-12-01-有没有超级小的-pc-浏览器啊？-chrome-太大太大。](https://www.v2ex.com/t/730980) 
-- [2020-12-01-大家的-IOS-JD-客户端“价格保护”还在吗？](https://www.v2ex.com/t/730978) 
-- [2020-12-01-技术信仰](https://www.v2ex.com/t/730976) 
-- [2020-12-01-互动有奖-Vol.30-科技-007：-5G-只能用来凡尔赛吗？](https://www.v2ex.com/t/730975) 

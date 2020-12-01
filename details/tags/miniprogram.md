@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-01 01:07:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 01:15:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,6 +7,12 @@
 
 
 
+- [2020-11-25-【第2128期】大型小程序如何研发提效](https://www.ershicimi.com/p/40178f0b49f5e0f940de4d003371b5b4) 
+- [2019-10-13-视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5) 
+- [2019-10-11-视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b) 
+- [2020-11-25-场景构造难，编译很耗时？看小程序业务如何提高效研发](https://www.ershicimi.com/p/9b7cbb4fcfbacff8537b77efb5a0295b) 
+- [2020-11-18-小程序大商机，低门槛hold全栈开发怎么做？-|-活动推荐](https://www.ershicimi.com/p/13f06abcc1bcb7e459dba8ff576bba44) 
+- [2020-11-26-大型小程序如何研发提效](https://www.ershicimi.com/p/99af0a3a474bf38889fa0f185a6c32f2) 
 - [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) 
 - [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) 
 - [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) 
@@ -37,5 +43,6 @@
 - [2017-01-19-微信小程序跨页面通信解决思路](https://aotu.io/notes/2017/01/19/wxapp-event/) 
 - [2017-01-06-在微信小程序里实现图片预加载组件](https://aotu.io/notes/2017/01/06/wxapp-img-loader/) 
 - [2016-11-10-WeUI-for-小程序---为微信小程序量身设计](https://aotu.io/notes/2016/11/10/weui-wxss/) 
+- [2020-11-26-同样的能力，为什么开发小程序要比App简单100倍？](https://www.ershicimi.com/p/3a245b0a234a8299dc96a16b5e90824c) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
 - [2020-11-30-腾讯云推出云开发低代码平台-没技术背景也能做小程序了...未来已来，后端何去何从啊？](https://www.v2ex.com/t/730781) 

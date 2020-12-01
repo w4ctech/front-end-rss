@@ -18704,6 +18704,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "MySQL 中有很多.10000000001 和.0999999999996 的数据",
+        "link": "https://www.v2ex.com/t/731063",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "坐标上海 未拆封 2020macbook pro13 M1 芯片 256G",
+        "link": "https://www.v2ex.com/t/731062",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "学校教务系统的教师查询会暴露身份证信息",
+        "link": "https://www.v2ex.com/t/731061",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "有大佬已经在 arm 版的 mac , 做 Python 环境了吗",
+        "link": "https://www.v2ex.com/t/731060",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "真的拿这些菜鸟驿站和丰巢一点办法都没有？",
+        "link": "https://www.v2ex.com/t/731059",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "字节跳动产品研发与技术架构部-服务端开发内推持续中",
+        "link": "https://www.v2ex.com/t/731058",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "结合实际来看，大家觉得是自身所接触的项目重要还是自学能力重要",
+        "link": "https://www.v2ex.com/t/731057",
+        "date": "2020-12-01"
+      },
+      {
         "title": "微信读书可有人一起组队",
         "link": "https://www.v2ex.com/t/731055",
         "date": "2020-12-01"
@@ -18872,36 +18907,6 @@
         "title": "甲方爸爸总公司的系统后台，不允许我的 ip 地址访问，但甲方爸爸的分公司却可以由办法访问到，现在不敢询问甲方怕质疑我们的能力，求助大家！",
         "link": "https://www.v2ex.com/t/731014",
         "date": "2020-12-01"
-      },
-      {
-        "title": "XPS 13 对 Linux 的兼容性到底怎么样，求劝退。",
-        "link": "https://www.v2ex.com/t/731013",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "大佬们，求教一个多核 cpu top 的问题",
-        "link": "https://www.v2ex.com/t/731011",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "继续开车 NUC 黑果套餐 有福利!",
-        "link": "https://www.v2ex.com/t/731010",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "Emby Premiere 便宜了 20 刀，现在只要 99 刀",
-        "link": "https://www.v2ex.com/t/731009",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "SQLITE 哪里有手册？",
-        "link": "https://www.v2ex.com/t/731008",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "永久分享大文件，应该用什么工具比较好呢？",
-        "link": "https://www.v2ex.com/t/731007",
-        "date": "2020-12-01"
       }
     ]
   },
@@ -18910,6 +18915,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "东华水泥上云 给水泥生产装上“工业大脑” (yqh.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14025&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15884%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-12-01"
+      },
       {
         "title": "美甲帮通过数加搭建大数据平台 针对百万用户的精细运营 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14024&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8036%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -19003,11 +19013,6 @@
       {
         "title": "你知道什么是 a站、b站、c站、d站、e站、f站、g站、h站、i站、j站、k站、l站、m站、n站…z 站吗 ？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14006&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwtGHSFUWdwQIyqljxO4OLA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "这些浏览器工作原理你都吃透了吗？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14005&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRzjrf46vrKkPdL2OlRaYMg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-12-01"
       }
     ]
@@ -19118,68 +19123,13 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
-        "date": "2020-12-01"
-      },
-      {
         "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
         "link": "https://toutiao.io/k/6vn5kqj",
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
-        "link": "https://toutiao.io/k/4jzvanq",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
-        "link": "https://toutiao.io/k/5shq47n",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
         "date": "2020-12-01"
       },
       {
@@ -19188,8 +19138,63 @@
         "date": "2020-12-01"
       },
       {
+        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
+        "link": "https://toutiao.io/k/5sw3syp",
+        "date": "2020-12-01"
+      },
+      {
         "title": "[推荐] 分布式数据网格 Data Mesh",
         "link": "https://toutiao.io/k/p6zp7x5",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 程序员必知必会的十大排序算法",
+        "link": "https://toutiao.io/k/zoyne3a",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
+        "link": "https://toutiao.io/k/wpo96pp",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
+        "link": "https://toutiao.io/k/1k0udg9",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
+        "link": "https://toutiao.io/k/5stu129",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-12-01"
       }
     ]

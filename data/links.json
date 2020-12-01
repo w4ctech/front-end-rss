@@ -14417,6 +14417,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "预算赤字再创新高 加拿大投入3816亿加元应对第二波新冠疫情",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizCrWtZDnY3UhdfGSCJqp201201&isfromapp=1",
+        "date": "2020-12-01"
+      },
+      {
         "title": "摩洛哥30日新增2533例新冠肺炎确诊病例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXwpos3VHlIvc8MrhzORv201201&isfromapp=1",
         "date": "2020-12-01"
@@ -14434,11 +14439,6 @@
       {
         "title": "世卫组织：全球新冠肺炎确诊病例超过6236万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFtJ08msUoenPzXRMgjb2201201&isfromapp=1",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "香港新增新冠肺炎确诊病例76例 12月2日起实施更严防疫措施",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizksLvPGpz4sfWOrjmZNN201130&isfromapp=1",
         "date": "2020-11-30"
       }
     ]
@@ -17114,28 +17114,28 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "漫画 | 带你领略前端发展史的江湖恩怨情仇",
-        "link": "https://juejin.im/post/6901076337855823880",
+        "title": "W3C万维物联网解析：编程API篇",
+        "link": "https://juejin.im/post/6901123541673410574",
         "date": "2020-11-30"
       },
       {
-        "title": "翻译 | 《JavaScript Everywhere》第13章 设置应用程序样式",
-        "link": "https://juejin.im/post/6901061931604541447",
+        "title": "如何理解SSR的hydrate过程？",
+        "link": "https://juejin.im/post/6901089942580150280",
         "date": "2020-11-30"
       },
       {
-        "title": "小型技术团队web技术设施与架构搭建（一）环境和工具的准备-第一部分",
-        "link": "https://juejin.im/post/6900966563365519373",
+        "title": "JavaScript入门",
+        "link": "https://juejin.im/post/6901089835939790862",
         "date": "2020-11-30"
       },
       {
-        "title": "webpack入门必备（二）：优化配置",
-        "link": "https://juejin.im/post/6900957929923411975",
+        "title": "关于Vue3获取当前组件实例的 getCurrentInstance 方法的补充",
+        "link": "https://juejin.im/post/6901087576195760141",
         "date": "2020-11-30"
       },
       {
-        "title": "webpack入门必备（一）：基础配置",
-        "link": "https://juejin.im/post/6900955685178048519",
+        "title": "Vue3 Teleport 组件的实践及原理",
+        "link": "https://juejin.im/post/6900957010808963079",
         "date": "2020-11-30"
       }
     ]
@@ -17523,6 +17523,61 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "开发需要，买个 MacMini 还是 Macbook？二手的靠谱吗",
+        "link": "https://www.v2ex.com/t/730888",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "公司说资本操作，然后三番两次的给我们换合同的实体",
+        "link": "https://www.v2ex.com/t/730886",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "现在有多少人离不开支付宝，真的大到不能失去吗？",
+        "link": "https://www.v2ex.com/t/730883",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "跨域请求代理有什么方案",
+        "link": "https://www.v2ex.com/t/730882",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[杭州][ Java ][阿里巴巴] Java 高级工程师/技术专家",
+        "link": "https://www.v2ex.com/t/730881",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "渗透测试工程师 - 安全与风控（北/上/杭/深）急招",
+        "link": "https://www.v2ex.com/t/730880",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "Hadoop 怎么查询多副本空间占用",
+        "link": "https://www.v2ex.com/t/730879",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "求助，如何注销腾讯云账号",
+        "link": "https://www.v2ex.com/t/730878",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "北京自如被曝强迫降租单方面解约",
+        "link": "https://www.v2ex.com/t/730877",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "关于旧版浏览器访问 github，界面控件多处不能点击问题的处理方法",
+        "link": "https://www.v2ex.com/t/730876",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "总结下 apple silicon M1 的缺点，以及三款 mac 新品的对比，优点看多了总容易让人失去理智。",
+        "link": "https://www.v2ex.com/t/730873",
+        "date": "2020-12-01"
+      },
+      {
         "title": "计划孤独终老，我该不该买房？大佬们怎么看",
         "link": "https://www.v2ex.com/t/730872",
         "date": "2020-12-01"
@@ -17650,61 +17705,6 @@
       {
         "title": "公司新来了几个小妹妹，竟然发生了这种事，我该怎么办",
         "link": "https://www.v2ex.com/t/730839",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "2020 十元风暴发车了",
-        "link": "https://www.v2ex.com/t/730837",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "除了使用 nohup，生产环境如何启动 Java 应用？",
-        "link": "https://www.v2ex.com/t/730836",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "十二月了， 2020 年就这样过完了，各位今年的计划完成的如何了。欢迎讨论",
-        "link": "https://www.v2ex.com/t/730834",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "vue 编辑 word 文件有什么好的方案推荐吗？",
-        "link": "https://www.v2ex.com/t/730833",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "为什么电视需要无线投屏器?",
-        "link": "https://www.v2ex.com/t/730831",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "Flutter 还有未来吗。。。",
-        "link": "https://www.v2ex.com/t/730830",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "MacBook Air 和 Pro 的触摸板反馈手感不同？",
-        "link": "https://www.v2ex.com/t/730829",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "mac 外接 ssd",
-        "link": "https://www.v2ex.com/t/730827",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "大家有没有靠谱的外包平台（因为公司要求发票）推荐，需要一个页面的 UI 制作，大家有没有推荐的，除了猪八戒~",
-        "link": "https://www.v2ex.com/t/730825",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[西安/成都] 黑帕云新职位-产品经理（订阅/计费/增长）",
-        "link": "https://www.v2ex.com/t/730824",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "库克远程施法了？",
-        "link": "https://www.v2ex.com/t/730823",
         "date": "2020-12-01"
       }
     ]
@@ -17912,28 +17912,13 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
+        "title": "响应式设计在携程火车票的应用",
+        "link": "https://toutiao.io/k/ad43dro",
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
+        "title": "Golang 语言 Web 框架 beego v2 之写操作",
+        "link": "https://toutiao.io/k/2gukqse",
         "date": "2020-12-01"
       },
       {
@@ -17942,23 +17927,18 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
+        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
+        "link": "https://toutiao.io/k/wpo96pp",
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
-        "link": "https://toutiao.io/k/4jzvanq",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
         "date": "2020-12-01"
       },
       {
@@ -17967,23 +17947,53 @@
         "date": "2020-12-01"
       },
       {
+        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
+        "link": "https://toutiao.io/k/5sw3syp",
+        "date": "2020-12-01"
+      },
+      {
         "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
         "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
-        "link": "https://toutiao.io/k/5shq47n",
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
+        "title": "[推荐] 分布式数据网格 Data Mesh",
+        "link": "https://toutiao.io/k/p6zp7x5",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
+        "link": "https://toutiao.io/k/5stu129",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-12-01"
       }
     ]

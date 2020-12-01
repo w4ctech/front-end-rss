@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-01 03:09:08，:rocket: 更新条数: +3664， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-01 03:28:40，:rocket: 更新条数: +3666， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-12-01-预算赤字再创新高-加拿大投入3816亿加元应对第二波新冠疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizCrWtZDnY3UhdfGSCJqp201201&isfromapp=1) ![](assets/new.png)  
 - [2020-12-01-摩洛哥30日新增2533例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXwpos3VHlIvc8MrhzORv201201&isfromapp=1) ![](assets/new.png)  
 - [2020-11-30-马里政府拟再次升级防疫举措-中国驻马里使馆发布提醒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8swYMm3fR8N9lGN4TlVb201201&isfromapp=1) ![](assets/new.png)  
 - [2020-11-30-世卫组织总干事：假期临近-新冠肺炎大流行改变我们庆祝方式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPYRIl6AmfCDTYBLlhru4201201&isfromapp=1) ![](assets/new.png)  
 - [2020-11-30-世卫组织：全球新冠肺炎确诊病例超过6236万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFtJ08msUoenPzXRMgjb2201201&isfromapp=1) ![](assets/new.png)  
-- [2020-11-30-香港新增新冠肺炎确诊病例76例-12月2日起实施更严防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizksLvPGpz4sfWOrjmZNN201130&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -924,11 +924,11 @@
 </summary>
 
 
-- [2020-11-30-漫画-|-带你领略前端发展史的江湖恩怨情仇](https://juejin.im/post/6901076337855823880) ![](assets/new.png)  
-- [2020-11-30-翻译-|-《JavaScript-Everywhere》第13章-设置应用程序样式](https://juejin.im/post/6901061931604541447) ![](assets/new.png)  
-- [2020-11-30-小型技术团队web技术设施与架构搭建（一）环境和工具的准备-第一部分](https://juejin.im/post/6900966563365519373) ![](assets/new.png)  
-- [2020-11-30-webpack入门必备（二）：优化配置](https://juejin.im/post/6900957929923411975) ![](assets/new.png)  
-- [2020-11-30-webpack入门必备（一）：基础配置](https://juejin.im/post/6900955685178048519) ![](assets/new.png)  
+- [2020-11-30-W3C万维物联网解析：编程API篇](https://juejin.im/post/6901123541673410574) ![](assets/new.png)  
+- [2020-11-30-如何理解SSR的hydrate过程？](https://juejin.im/post/6901089942580150280) ![](assets/new.png)  
+- [2020-11-30-JavaScript入门](https://juejin.im/post/6901089835939790862) ![](assets/new.png)  
+- [2020-11-30-关于Vue3获取当前组件实例的-getCurrentInstance-方法的补充](https://juejin.im/post/6901087576195760141) ![](assets/new.png)  
+- [2020-11-30-Vue3-Teleport-组件的实践及原理](https://juejin.im/post/6900957010808963079) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,6 +1044,17 @@
 </summary>
 
 
+- [2020-12-01-开发需要，买个-MacMini-还是-Macbook？二手的靠谱吗](https://www.v2ex.com/t/730888) ![](assets/new.png)  
+- [2020-12-01-公司说资本操作，然后三番两次的给我们换合同的实体](https://www.v2ex.com/t/730886) ![](assets/new.png)  
+- [2020-12-01-现在有多少人离不开支付宝，真的大到不能失去吗？](https://www.v2ex.com/t/730883) ![](assets/new.png)  
+- [2020-12-01-跨域请求代理有什么方案](https://www.v2ex.com/t/730882) ![](assets/new.png)  
+- [2020-12-01-杭州-Java-阿里巴巴-Java-高级工程师/技术专家](https://www.v2ex.com/t/730881) ![](assets/new.png)  
+- [2020-12-01-渗透测试工程师---安全与风控（北/上/杭/深）急招](https://www.v2ex.com/t/730880) ![](assets/new.png)  
+- [2020-12-01-Hadoop-怎么查询多副本空间占用](https://www.v2ex.com/t/730879) ![](assets/new.png)  
+- [2020-12-01-求助，如何注销腾讯云账号](https://www.v2ex.com/t/730878) ![](assets/new.png)  
+- [2020-12-01-北京自如被曝强迫降租单方面解约](https://www.v2ex.com/t/730877) ![](assets/new.png)  
+- [2020-12-01-关于旧版浏览器访问-github，界面控件多处不能点击问题的处理方法](https://www.v2ex.com/t/730876) ![](assets/new.png)  
+- [2020-12-01-总结下-apple-silicon-M1-的缺点，以及三款-mac-新品的对比，优点看多了总容易让人失去理智。](https://www.v2ex.com/t/730873) ![](assets/new.png)  
 - [2020-12-01-计划孤独终老，我该不该买房？大佬们怎么看](https://www.v2ex.com/t/730872) ![](assets/new.png)  
 - [2020-12-01-MacBook-Pro-的屏幕清洁问题](https://www.v2ex.com/t/730871) ![](assets/new.png)  
 - [2020-12-01-MBP---我们无法验证您产品的购买日期](https://www.v2ex.com/t/730870) ![](assets/new.png)  
@@ -1053,17 +1064,6 @@
 - [2020-12-01-office365-。拼团-43r/人](https://www.v2ex.com/t/730864) ![](assets/new.png)  
 - [2020-12-01-安全性与隐私无法进入](https://www.v2ex.com/t/730861) ![](assets/new.png)  
 - [2020-12-01-有喜欢写科普类文章的朋友吗？招兼职老是被骗！我惨了](https://www.v2ex.com/t/730859) ![](assets/new.png)  
-- [2020-12-01-杭州区块链公司招聘资深前端开发工程师（WLB）——可远程](https://www.v2ex.com/t/730858) ![](assets/new.png)  
-- [2020-12-01-gogs-有人用吗，托管在上边的前端代码如何实现-CI/CD？](https://www.v2ex.com/t/730857) ![](assets/new.png)  
-- [2020-12-01-AWS-为什么-auto-scaling-group-生效时扩展了实例，但是没有启动服务？](https://www.v2ex.com/t/730856) ![](assets/new.png)  
-- [2020-12-01-如何与其他人共享-Kindle-电子书？](https://www.v2ex.com/t/730854) ![](assets/new.png)  
-- [2020-12-01-社交平台消息通知设置？求思路](https://www.v2ex.com/t/730853) ![](assets/new.png)  
-- [2020-12-01-请问如何将-GCC-编译成一个独立的可执行文件？](https://www.v2ex.com/t/730852) ![](assets/new.png)  
-- [2020-12-01-新版-SVT-AVS3-发布-编码效率提升并提供更灵活的编码工具](https://www.v2ex.com/t/730851) ![](assets/new.png)  
-- [2020-12-01-这-9-种-分布式-ID-生成方案，应该算是比较全的了吧！](https://www.v2ex.com/t/730850) ![](assets/new.png)  
-- [2020-12-01-微信会支持视频画中画吗？](https://www.v2ex.com/t/730848) ![](assets/new.png)  
-- [2020-12-01-开车上班的-V-友们，你们都听点儿什么？](https://www.v2ex.com/t/730847) ![](assets/new.png)  
-- [2020-12-01-PDD-12mini-128G-红色-5199-入到手，感觉这价格挺香的了](https://www.v2ex.com/t/730846) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,8 +1124,8 @@
 - [2020-12-01-Gitlab-CI-使用阿里云-kubernetes-serverless](https://toutiao.io/k/q2ardl2) ![](assets/new.png)  
 - [2020-12-01-有安全研究者混入了-PHP-8.0-开发组](https://toutiao.io/k/5z739se) ![](assets/new.png)  
 - [2020-12-01-哈工大等提出轻量级盲超分辨模型-LESRCNN，代码已开源](https://toutiao.io/k/rdkt2z4) ![](assets/new.png)  
-- [2020-12-01-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
-- [2020-12-01-推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
+- [2020-12-01-响应式设计在携程火车票的应用](https://toutiao.io/k/ad43dro) ![](assets/new.png)  
+- [2020-12-01-Golang-语言-Web-框架-beego-v2-之写操作](https://toutiao.io/k/2gukqse) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

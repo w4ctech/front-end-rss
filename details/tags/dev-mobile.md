@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-01 03:09:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 03:28:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -10,4 +10,3 @@
 - [2020-11-27-Flutter状态State的5种应对方法](https://www.ershicimi.com/p/45fff8577709ea71dcfaa006792f1794) 
 - [2020-11-19-Flutter-的新功能、Dart-开发工具以及一行神奇的-CSS-代码-|-Google-开发者大](https://www.ershicimi.com/p/5483cd860f06ab512105bd635bd4e75c) 
 - [2020-11-16-2020-Google-开发者大会：Android-和-Flutter-有哪些更新？](https://www.ershicimi.com/p/c486b9ef916ed065f5768e34fe9b94c5) 
-- [2020-12-01-Flutter-还有未来吗。。。](https://www.v2ex.com/t/730830) 

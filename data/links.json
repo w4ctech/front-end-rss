@@ -18755,6 +18755,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "装机大佬们，选 AMD 还是 Intel ？",
+        "link": "https://www.v2ex.com/t/731193",
+        "date": "2020-12-01"
+      },
+      {
         "title": "MIUI12 还有必要安装冰箱 IceBox 类的 app 吗？",
         "link": "https://www.v2ex.com/t/731191",
         "date": "2020-12-01"
@@ -18895,11 +18900,6 @@
         "date": "2020-12-01"
       },
       {
-        "title": "国家互联网信息办公室关于《常见类型移动互联网应用程序（App）必要个人信息范围》公开征求意见的通知",
-        "link": "https://www.v2ex.com/t/731154",
-        "date": "2020-12-01"
-      },
-      {
         "title": "多服务实例如何平摊巨大的数据集",
         "link": "https://www.v2ex.com/t/731153",
         "date": "2020-12-01"
@@ -18932,21 +18932,6 @@
       {
         "title": "pap.er 自动换壁纸功能吓死人不偿命",
         "link": "https://www.v2ex.com/t/731145",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "请教一个老生常谈的关于吞吐量的问题，越考虑越糊涂了",
-        "link": "https://www.v2ex.com/t/731144",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "小白请教， ARUBA IAP205 能否作为 WI-FI 使用？",
-        "link": "https://www.v2ex.com/t/731143",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "年底了啥也不想了，就想减点肉",
-        "link": "https://www.v2ex.com/t/731142",
         "date": "2020-12-01"
       }
     ]
@@ -19164,28 +19149,28 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
-        "link": "https://toutiao.io/k/e5l3mqn",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 程序员如何管理你的上级领导？",
-        "link": "https://toutiao.io/k/s5w119y",
+        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
+        "link": "https://toutiao.io/k/5stu129",
         "date": "2020-12-01"
       },
       {
         "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
         "link": "https://toutiao.io/k/z2u8tqp",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
         "date": "2020-12-01"
       },
       {
@@ -19199,28 +19184,8 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
-        "date": "2020-12-01"
-      },
-      {
         "title": "[推荐] 程序员必知必会的十大排序算法",
         "link": "https://toutiao.io/k/zoyne3a",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 分布式数据网格 Data Mesh",
-        "link": "https://toutiao.io/k/p6zp7x5",
-        "date": "2020-12-01"
-      },
-      {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-12-01"
       },
       {
@@ -19229,13 +19194,33 @@
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
+        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
+        "link": "https://toutiao.io/k/e5l3mqn",
         "date": "2020-12-01"
       },
       {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
+        "link": "https://toutiao.io/k/wpo96pp",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-12-01"
       }
     ]

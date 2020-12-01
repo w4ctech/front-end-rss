@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-12-01 23:34:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 23:48:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-12-01-李运华：从-P5-到-P9-的晋升攻略｜极客时间](https://www.ershicimi.com/p/f518e5ddaf9c706bf2493117caaf494f) 
+- [2020-12-01-对话何宝宏：别高估技术的短期影响，也别低估技术的长期影响](https://www.ershicimi.com/p/6db1b937d88e8a4ab246b18f365a6007) 
+- [2020-12-01-腾讯云面向泛娱乐行业的六大技术实践](https://www.ershicimi.com/p/3e75267ca70b5e053bb6a09d8c8e5ccb) 
+- [2020-12-01-在生产中使用Rust的著名公司及他们选择Rust的理由](https://www.ershicimi.com/p/977525a65afe915e3fb8793d8548a976) 
+- [2020-12-01-Flutter状态State的5种应对方法](https://www.ershicimi.com/p/015ab102f706bf0ed1f9f4546e4160fc) 
 - [2020-11-30-虾米音乐要关？网友哭求众筹活下去](https://www.ershicimi.com/p/daced030186302e3d295c27711b1994b) 
 - [2020-11-30-不确定的2020，与确定的云原生2.0](https://www.ershicimi.com/p/83264fd91ecee4403c8295d9cd746d8a) 
 - [2020-11-30-6-岁！是时候重新认识下-Serverless-了](https://www.ershicimi.com/p/6a71ab7deaa50fa30a39e76e13b4a0d4) 
@@ -20,8 +25,3 @@
 - [2020-11-28-Akamai-Edge-Live-线上峰会——助力中国企业出海应对多方挑战-｜-Q推荐](https://www.ershicimi.com/p/889e329d5fc8f074e4ce2278e9eb1096) 
 - [2020-11-27-任正非告别荣耀：“离婚”后不要藕断丝连，要做华为最强竞争对手](https://www.ershicimi.com/p/d20adcba9a306be0f7c6a285ebe35307) 
 - [2020-11-27-F=ma，如何使创新具备加速度？](https://www.ershicimi.com/p/3409a99667c5eb5e4a2af9a096c2454b) 
-- [2020-11-27-为什么我们选择Java开发高频交易系统？](https://www.ershicimi.com/p/fb8e33fac8a8adced076843948fc9a68) 
-- [2020-11-27-科技重绘金融产业天际线：ReFinTech大会展望金融数据化时代](https://www.ershicimi.com/p/3a80cb8b6b89e55567acb6cd43da1e60) 
-- [2020-11-27-2020年，值得收藏的50多种Kubernetes工具](https://www.ershicimi.com/p/2bef12fb987b582ef3b1007f43b8828c) 
-- [2020-11-26-一个“举债”1.8亿投身开源的人](https://www.ershicimi.com/p/be9c1eb2ff2c70f2b38d1540c24902ff) 
-- [2020-11-26-同样的能力，为什么开发小程序要比App简单100倍？](https://www.ershicimi.com/p/3a245b0a234a8299dc96a16b5e90824c) 

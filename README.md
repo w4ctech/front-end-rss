@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 23:48:43，:rocket: 更新条数: +3884， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-01 00:09:22，:rocket: 更新条数: +3859， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -45,8 +45,8 @@
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
-- [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [JavaScript](#javascript)  
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -96,11 +96,6 @@
 </summary>
 
 
-- [2020-11-30-马里政府拟再次升级防疫举措-中国驻马里使馆发布提醒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8swYMm3fR8N9lGN4TlVb201201&isfromapp=1) ![](assets/new.png)  
-- [2020-11-30-世卫组织总干事：假期临近-新冠肺炎大流行改变我们庆祝方式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPYRIl6AmfCDTYBLlhru4201201&isfromapp=1) ![](assets/new.png)  
-- [2020-11-30-世卫组织：全球新冠肺炎确诊病例超过6236万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFtJ08msUoenPzXRMgjb2201201&isfromapp=1) ![](assets/new.png)  
-- [2020-11-30-香港新增新冠肺炎确诊病例76例-12月2日起实施更严防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizksLvPGpz4sfWOrjmZNN201130&isfromapp=1) ![](assets/new.png)  
-- [2020-11-30-摩尔多瓦因新冠肺炎疫情出现床位短缺-剧院、音乐厅等场所关闭至明年1月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqsPZWKB4vlMkrpikJuCb201130&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -913,26 +908,6 @@
 </summary>
 
 
-- [2020-11-27-为什么程序员都跑去做这个？](https://www.ershicimi.com/p/c7570ac3c0f8ee4dee7608e856c31f52) ![](assets/new.png)  
-- [2020-11-26-从0到1熟悉VUE，只需3天！](https://www.ershicimi.com/p/cda44a7d05868dc91f7414c2439d5a92) ![](assets/new.png)  
-- [2020-11-25-初级前端的源码水平-VS-资深前端的源码水平](https://www.ershicimi.com/p/24a9326fe023cc417f59560f6a2cd9e1) ![](assets/new.png)  
-- [2020-11-24-大厂标准前端简历写法+最新入职阿里字节简历模板](https://www.ershicimi.com/p/a67ebae05239460a0175f2ffb6adba6f) ![](assets/new.png)  
-- [2020-11-23-如果Element-UI-不维护了，也不支持-Vue3.0-了，怎么办？](https://www.ershicimi.com/p/5c6101bea521ded8894ea81e09dfae85) ![](assets/new.png)  
-- [2020-11-20-真的搞不懂大厂为什么都喜欢用-React-？](https://www.ershicimi.com/p/3764498f36f73ab3bc9b125466235f41) ![](assets/new.png)  
-- [2020-11-19-用一个实战项目快速入门VUE3.0！](https://www.ershicimi.com/p/fc84a2db92ec8ada4ee7dfd934476f96) ![](assets/new.png)  
-- [2020-11-18-前端人的无奈：原来我在领导心中就是写页面的呀~](https://www.ershicimi.com/p/f18e92921a392a87ef1b5054f72860e9) ![](assets/new.png)  
-- [2020-11-17-这7个vue技巧，简直让面试加分！](https://www.ershicimi.com/p/5e206d0f44094c5f63393b87e45edfd3) ![](assets/new.png)  
-- [2020-11-16-前端工程师如何成为独立开发者，实现财务自由？](https://www.ershicimi.com/p/0c5c094c758dfde5a27d89396c6da6ff) ![](assets/new.png)  
-- [2020-11-13-做了这个Vue3.0实战项目，大厂二面过了，提薪55%！（附项目全过程）](https://www.ershicimi.com/p/38d2520cd5b43a11af949b1da0c7a2ad) ![](assets/new.png)  
-- [2020-11-11-看到阿里程序员双11的开发任务，我觉得自己不配](https://www.ershicimi.com/p/2eaa1484c6208d7ae4b6527746a450b8) ![](assets/new.png)  
-- [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) ![](assets/new.png)  
-- [2020-11-09-想进大厂不知道怎么提升自己？这里有一个专属前端人的学习机会！](https://www.ershicimi.com/p/ba11d99f3d0a6ddd718c6ea6ebe35096) ![](assets/new.png)  
-- [2020-11-07-为啥我学了2年多的Web，还是上手不了业务？](https://www.ershicimi.com/p/b600c2a7c6c6ba42c7320a77bf185ac4) ![](assets/new.png)  
-- [2020-11-05-前端开发进阶手册.pdf](https://www.ershicimi.com/p/dc2dfb676481eb6ebc63fca8f8467879) ![](assets/new.png)  
-- [2020-11-04-知乎热榜：美团21届应届生薪资严重倒挂老人，这是逼老人离职吗？](https://www.ershicimi.com/p/3fe7fdf40659fab1d18e9055648e8afd) ![](assets/new.png)  
-- [2020-11-03-搞不懂为啥都要去字节跳动。。。](https://www.ershicimi.com/p/fa53adb7f5ff8cc9e303c9b37d9db185) ![](assets/new.png)  
-- [2020-11-02-面试的时候，只会vue能行么？](https://www.ershicimi.com/p/de8096ff1d6ac01c6ff82a1f19aa0ff1) ![](assets/new.png)  
-- [2020-10-30-前端渣渣的我再也不敢说我会写React了](https://www.ershicimi.com/p/aecf570921574e4bcf75b3cb32c947bc) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -944,11 +919,6 @@
 </summary>
 
 
-- [2020-11-30-Vue3-Teleport-组件的实践及原理](https://juejin.im/post/6900957010808963079) ![](assets/new.png)  
-- [2020-11-30-小技巧|在React中防范XSS攻击](https://juejin.im/post/6900950298773159944) ![](assets/new.png)  
-- [2020-11-30-Fetch-API速查表：9个最常见的API请求](https://juejin.im/post/6900948812396216333) ![](assets/new.png)  
-- [2020-11-30-Lemonj：-CSS-的自动化重构工具](https://juejin.im/post/6900917591498620935) ![](assets/new.png)  
-- [2020-11-30-基于vue开发chrome插件，实现获取界面数据和保存到数据库功能](https://juejin.im/post/6900870069309177869) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1095,26 +1065,26 @@
 </summary>
 
 
-- [2020-11-30-应对梅雨季-水务精灵助力梅城镇智能化解决排水难题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14020&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15659%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-乐惠国际打造首家精酿啤酒工业互联网平台-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14019&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-维他奶拥抱数字化转型-重构员工账户与权限管理方式-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14018&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20000%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-金华广电上云-低成本、保证业务系统的高可用性-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14017&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20400%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-Bug-Report该怎么做？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14016&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-do-bug-report%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-2020双11，Dubbo3.0-在考拉的超大规模实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14015&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778827%3Futm_content%3Dg_1000211597%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-Android-轻量级无痕埋点事件监听-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14014&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYIICyzl59iOWfaQ-W0XIxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-三年经验-Android-开发面经总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14013&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCiO_T95JWA-ijKghrnCQzw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-双-11-快到了，不给你的-APP-加上自动换图标的功能吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14012&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO1NVCZtlfWN2cY-IhseMGg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-IDEA亲兄弟DataGrip-上手体验，真香！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14011&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp0uzLpjHgyzW959RlvMXmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-美貌与智慧并重女博士入职华为，年薪-156-万！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14010&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV1NU5WjukVq1R6nDvBGhyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-写开源项目到底究竟有多赚钱？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14009&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrWIKlOXvNhnLPboDnp2BRQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-卧槽！微信居然有“隐身功能”了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14008&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FddcGOm9szYcEC_9z9cqV8Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-25-个实用前端网站工具推荐-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14007&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fggm7DzaYY2rKhB2-8v4bqQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-你知道什么是-a站、b站、c站、d站、e站、f站、g站、h站、i站、j站、k站、l站、m站、n站…z-站吗-？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14006&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwtGHSFUWdwQIyqljxO4OLA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-这些浏览器工作原理你都吃透了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14005&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRzjrf46vrKkPdL2OlRaYMg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-阿里云打下AI地基，更多的开发者走向了前台-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14004&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778839%3Futm_content%3Dg_1000210969%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-阿里云性能测试工具PTS介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14003&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778829%3Futm_content%3Dg_1000210968%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-2020双11养猫技术大揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14002&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778793%3Futm_content%3Dg_1000210967%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-30-以-Kubernetes-为代表的容器技术，已成为云计算的新界面-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14001&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778826%3Futm_content%3Dg_1000210966%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-应对梅雨季-水务精灵助力梅城镇智能化解决排水难题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14020&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15659%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-乐惠国际打造首家精酿啤酒工业互联网平台-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14019&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-维他奶拥抱数字化转型-重构员工账户与权限管理方式-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14018&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20000%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-金华广电上云-低成本、保证业务系统的高可用性-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14017&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20400%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-Bug-Report该怎么做？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14016&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-do-bug-report%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-2020双11，Dubbo3.0-在考拉的超大规模实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14015&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778827%3Futm_content%3Dg_1000211597%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-Android-轻量级无痕埋点事件监听-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14014&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYIICyzl59iOWfaQ-W0XIxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-三年经验-Android-开发面经总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14013&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCiO_T95JWA-ijKghrnCQzw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-双-11-快到了，不给你的-APP-加上自动换图标的功能吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14012&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO1NVCZtlfWN2cY-IhseMGg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-IDEA亲兄弟DataGrip-上手体验，真香！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14011&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp0uzLpjHgyzW959RlvMXmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-美貌与智慧并重女博士入职华为，年薪-156-万！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14010&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV1NU5WjukVq1R6nDvBGhyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-写开源项目到底究竟有多赚钱？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14009&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrWIKlOXvNhnLPboDnp2BRQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-卧槽！微信居然有“隐身功能”了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14008&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FddcGOm9szYcEC_9z9cqV8Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-25-个实用前端网站工具推荐-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14007&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fggm7DzaYY2rKhB2-8v4bqQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-你知道什么是-a站、b站、c站、d站、e站、f站、g站、h站、i站、j站、k站、l站、m站、n站…z-站吗-？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14006&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwtGHSFUWdwQIyqljxO4OLA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-这些浏览器工作原理你都吃透了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14005&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRzjrf46vrKkPdL2OlRaYMg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-阿里云打下AI地基，更多的开发者走向了前台-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14004&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778839%3Futm_content%3Dg_1000210969%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-阿里云性能测试工具PTS介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14003&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778829%3Futm_content%3Dg_1000210968%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-2020双11养猫技术大揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14002&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778793%3Futm_content%3Dg_1000210967%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-01-以-Kubernetes-为代表的容器技术，已成为云计算的新界面-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14001&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778826%3Futm_content%3Dg_1000210966%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,22 +1096,26 @@
 </summary>
 
 
-- [2020-11-30-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
-- [2020-11-30-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
-- [2020-11-30-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
-- [2020-11-30-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
-- [2020-11-30-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
-- [2020-11-30-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
-- [2020-11-30-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
-- [2020-11-30-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
-- [2020-11-30-推荐-分布式数据网格-Data-Mesh](https://toutiao.io/k/p6zp7x5) ![](assets/new.png)  
-- [2020-11-30-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) ![](assets/new.png)  
-- [2020-11-30-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
-- [2020-11-30-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
-- [2020-11-30-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
-- [2020-11-30-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
-- [2020-11-30-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
-- [2020-11-30-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
+- [2020-12-01-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
+- [2020-12-01-从-WebRTC-官方下载总失败？来试试这个？](https://toutiao.io/k/hghrv7j) ![](assets/new.png)  
+- [2020-12-01-技术总监的校招之旅：分享校招全攻略指南](https://toutiao.io/k/6ebh376) ![](assets/new.png)  
+- [2020-12-01-M1-暴打-Intel？：这次的芯片有何不同](https://toutiao.io/k/j1ohqm1) ![](assets/new.png)  
+- [2020-12-01-CTO-怒了：“如果中台不省钱，我建个屁中台啊！”](https://toutiao.io/k/batmypd) ![](assets/new.png)  
+- [2020-12-01-2020-双-11，Dubbo-3.0-在考拉的超大规模实践](https://toutiao.io/k/65sifqo) ![](assets/new.png)  
+- [2020-12-01-推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
+- [2020-12-01-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
+- [2020-12-01-推荐-分布式数据网格-Data-Mesh](https://toutiao.io/k/p6zp7x5) ![](assets/new.png)  
+- [2020-12-01-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) ![](assets/new.png)  
+- [2020-12-01-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
+- [2020-12-01-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
+- [2020-12-01-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
+- [2020-12-01-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
+- [2020-12-01-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
+- [2020-12-01-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
+- [2020-12-01-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
+- [2020-12-01-推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
+- [2020-12-01-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
+- [2020-12-01-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

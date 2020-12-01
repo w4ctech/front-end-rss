@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-01 02:13:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 02:30:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -53,6 +53,8 @@
 - [2020-12-01-最近新版本的-Chrome-访问过期证书的-https-无法继续访问](https://www.v2ex.com/t/730804) 
 - [2020-12-01-关于-Linux-curl-命令参数](https://www.v2ex.com/t/730801) 
 - [2020-12-01-这些浏览器工作原理你都吃透了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14005&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRzjrf46vrKkPdL2OlRaYMg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-01-有安全研究者混入了-PHP-8.0-开发组](https://toutiao.io/k/5z739se) 
+- [2020-12-01-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
 - [2020-12-01-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
 - [2020-11-30-【安全圈】活动票务平台-Peatix-420-万用户的数据遭黑客泄漏](https://sec.thief.one/article_content?a_id=afa554ad4bf689b4f2b9d4fa4cfa8f32) 
 - [2020-11-30-OPPO技术开放日第六期丨OPPO安全解析“应用与数据安全防护”背...](https://sec.thief.one/article_content?a_id=a0304ae86d931e002ae0315f98578a3f) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-01 02:13:59，:rocket: 更新条数: +3904， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-01 02:30:11，:rocket: 更新条数: +3896， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -716,16 +716,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -954,10 +944,10 @@
 </summary>
 
 
+- [2020-11-30-Redis，就是这么朴实无华](https://juejin.im/post/6901107328917962766) ![](assets/new.png)  
 - [2020-11-30-项目实战-UmiJS开发（附带qiankun）](https://juejin.im/post/6901103416651546637) ![](assets/new.png)  
 - [2020-11-30-AntV/G2Plot-v2.0-技术架构思考](https://juejin.im/post/6901094156932743176) ![](assets/new.png)  
 - [2020-11-30-jsliang-求职系列---29---HTTP/HTTPS](https://juejin.im/post/6901070996732641294) ![](assets/new.png)  
-- [2020-11-30-Vue3-Teleport-组件的实践及原理](https://juejin.im/post/6900957010808963079) ![](assets/new.png)  
 - [2020-11-30-JavaScript-是如何成为一门严肃的编程语言的](https://juejin.im/post/6900852535637377038) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1074,6 +1064,14 @@
 </summary>
 
 
+- [2020-12-01-Facebook-又考原题，它的题库到底有多少。。](https://www.v2ex.com/t/730845) ![](assets/new.png)  
+- [2020-12-01-求推荐个免费的-OKR-工具](https://www.v2ex.com/t/730844) ![](assets/new.png)  
+- [2020-12-01-goalng-如何控制函数成为-内联函数？](https://www.v2ex.com/t/730843) ![](assets/new.png)  
+- [2020-12-01-请问一下，谁有获取职业相关技能的接口或者方法](https://www.v2ex.com/t/730842) ![](assets/new.png)  
+- [2020-12-01-推荐一个-Leetcode-新上的-Leetbook](https://www.v2ex.com/t/730841) ![](assets/new.png)  
+- [2020-12-01-公司新来了几个小妹妹，竟然发生了这种事，我该怎么办](https://www.v2ex.com/t/730839) ![](assets/new.png)  
+- [2020-12-01-2020-十元风暴发车了](https://www.v2ex.com/t/730837) ![](assets/new.png)  
+- [2020-12-01-除了使用-nohup，生产环境如何启动-Java-应用？](https://www.v2ex.com/t/730836) ![](assets/new.png)  
 - [2020-12-01-十二月了，-2020-年就这样过完了，各位今年的计划完成的如何了。欢迎讨论](https://www.v2ex.com/t/730834) ![](assets/new.png)  
 - [2020-12-01-vue-编辑-word-文件有什么好的方案推荐吗？](https://www.v2ex.com/t/730833) ![](assets/new.png)  
 - [2020-12-01-为什么电视需要无线投屏器?](https://www.v2ex.com/t/730831) ![](assets/new.png)  
@@ -1086,14 +1084,6 @@
 - [2020-12-01-虾米也要倒闭了](https://www.v2ex.com/t/730822) ![](assets/new.png)  
 - [2020-12-01-程序员流向图](https://www.v2ex.com/t/730821) ![](assets/new.png)  
 - [2020-12-01-发现个奇怪的企业主体公众号](https://www.v2ex.com/t/730820) ![](assets/new.png)  
-- [2020-12-01-多台-Mac-你们怎么权衡那些付费-APP。。。](https://www.v2ex.com/t/730818) ![](assets/new.png)  
-- [2020-12-01-Mac-上程序员友好的英语工具软件](https://www.v2ex.com/t/730817) ![](assets/new.png)  
-- [2020-12-01-HomePod-mini-发售了](https://www.v2ex.com/t/730816) ![](assets/new.png)  
-- [2020-12-01-拼多多已经把-m1-MacBook-Pro-打到-8499-了](https://www.v2ex.com/t/730815) ![](assets/new.png)  
-- [2020-12-01-国行-HomePod-mini-已发售](https://www.v2ex.com/t/730814) ![](assets/new.png)  
-- [2020-12-01-ish-有什么可玩的程序](https://www.v2ex.com/t/730808) ![](assets/new.png)  
-- [2020-12-01-2020-年-12-月底就要停止支持-Adobe-Flash，在用的-IE-用户该怎么办？](https://www.v2ex.com/t/730807) ![](assets/new.png)  
-- [2020-12-01-周一就奋战到凌晨一点的估计就我一个吧](https://www.v2ex.com/t/730806) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,13 +1139,13 @@
 - [2020-12-01-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/qvfq564) ![](assets/new.png)  
 - [2020-12-01-一文详解数据库-MVCC](https://toutiao.io/k/8nv3fkj) ![](assets/new.png)  
 - [2020-12-01-卧槽，面试官质疑我不会配置中心原理，看不起谁呢？](https://toutiao.io/k/q97zwd8) ![](assets/new.png)  
-- [2020-12-01-美团无人车引擎在仿真中的实践](https://toutiao.io/k/35kkd7x) ![](assets/new.png)  
 - [2020-12-01-想全面了解-Rust-语言-？-你想知道的都在这里（一）](https://toutiao.io/k/nd4mgk5) ![](assets/new.png)  
-- [2020-12-01-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
+- [2020-12-01-美团无人车引擎在仿真中的实践](https://toutiao.io/k/35kkd7x) ![](assets/new.png)  
+- [2020-12-01-有安全研究者混入了-PHP-8.0-开发组](https://toutiao.io/k/5z739se) ![](assets/new.png)  
 - [2020-12-01-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
-- [2020-12-01-推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
-- [2020-12-01-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
-- [2020-12-01-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
+- [2020-12-01-推荐-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
+- [2020-12-01-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
+- [2020-12-01-推荐-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

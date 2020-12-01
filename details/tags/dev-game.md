@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-01 13:34:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 13:48:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -31,4 +31,5 @@
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-12-01-深圳淘乐网络-游戏公司多个技术岗位火热招聘~欢迎自荐或他荐](https://www.v2ex.com/t/731122) 
 - [2020-12-01-如何评价广东移动推出“游戏宽带”](https://www.v2ex.com/t/731121) 
+- [2020-12-01-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) 
 - [2020-11-26-只有5G才能做到的事，我以后看视频、打游戏可能再也不会卡了~](https://www.ershicimi.com/p/0a2ec51f5eaf6120f5d3772bcce537ea) 

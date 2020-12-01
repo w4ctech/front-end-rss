@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-01 02:38:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 02:48:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -36,6 +36,7 @@
 - [2020-11-28-面试官：String长度有限制吗？是多少？](https://www.ershicimi.com/p/b1152ace164188124e7eea9891b35cdf) 
 - [2020-11-25-面试官就是这么欺负人：new-Object到底占用几个字节？](https://www.ershicimi.com/p/b56f88d1f40b017ef8816508ad42d173) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
+- [2020-12-01-杭州区块链公司招聘资深前端开发工程师（WLB）](https://www.v2ex.com/t/730858) 
 - [2020-12-01-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
 - [2020-12-01-卧槽，面试官质疑我不会配置中心原理，看不起谁呢？](https://toutiao.io/k/q97zwd8) 
 - [2020-11-28-牛聘|2020年度岗位招聘第15期](https://sec.thief.one/article_content?a_id=2cc8c6a148e364e9c6a08807d0e1ae15) 

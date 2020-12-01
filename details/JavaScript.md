@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-01 02:38:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 02:48:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
 
 
 
+- [2020-11-30-大牛必备：前端与图形学](https://www.ershicimi.com/p/bd09372d8f116c35e638d0696674ea89) 
 - [2020-11-27-为什么程序员都跑去做这个？](https://www.ershicimi.com/p/c7570ac3c0f8ee4dee7608e856c31f52) 
 - [2020-11-26-从0到1熟悉VUE，只需3天！](https://www.ershicimi.com/p/cda44a7d05868dc91f7414c2439d5a92) 
 - [2020-11-25-初级前端的源码水平-VS-资深前端的源码水平](https://www.ershicimi.com/p/24a9326fe023cc417f59560f6a2cd9e1) 
@@ -24,4 +25,3 @@
 - [2020-11-04-知乎热榜：美团21届应届生薪资严重倒挂老人，这是逼老人离职吗？](https://www.ershicimi.com/p/3fe7fdf40659fab1d18e9055648e8afd) 
 - [2020-11-03-搞不懂为啥都要去字节跳动。。。](https://www.ershicimi.com/p/fa53adb7f5ff8cc9e303c9b37d9db185) 
 - [2020-11-02-面试的时候，只会vue能行么？](https://www.ershicimi.com/p/de8096ff1d6ac01c6ff82a1f19aa0ff1) 
-- [2020-10-30-前端渣渣的我再也不敢说我会写React了](https://www.ershicimi.com/p/aecf570921574e4bcf75b3cb32c947bc) 

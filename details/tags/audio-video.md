@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-02 23:25:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 23:34:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -90,6 +90,7 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2020-12-02-potplayer-调用-lav-dxva2-播放-4k120hz-hdr-只有-30-帧，-dxva-checker-调用-lav-dxva2-播放同视频有-120-帧](https://www.v2ex.com/t/731592) 
 - [2020-12-02-技术求助：-Python-除了使用-opencv，还有没有其他方式拉取-rtsp-视频流和解码？-1080p30m-码率](https://www.v2ex.com/t/731574) 
 - [2020-12-02-macOS-下有没有类似-Windows-下-Comic-Enhancer-Pro-和-FreePic2PDF-这样方便易用的扫描电子书图像处理、生成软件？](https://www.v2ex.com/t/731567) 
 - [2020-11-23-中国移动研究院：视频边缘计算白皮书](https://www.ershicimi.com/p/e597a3189793cce7130c1b75ccad785e) 

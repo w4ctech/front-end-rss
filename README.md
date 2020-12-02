@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-02 18:08:20，:rocket: 更新条数: +3922， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-02 18:29:13，:rocket: 更新条数: +3922， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1043,6 +1043,9 @@
 </summary>
 
 
+- [2020-12-02-有哪些时刻让你觉得「幸好学了心理学」？](https://www.ershicimi.com/p/06674d273d46475cac9d0513041eb7db) ![](assets/new.png)  
+- [2020-12-02-知乎故事-|-你经历过最害羞的事是什么？](https://www.ershicimi.com/p/b4bbab9f813ae8a3a4925f4312356dd5) ![](assets/new.png)  
+- [2020-12-02-口碑绝佳的-9-个公众号，越早知道越好](https://www.ershicimi.com/p/ce8b5f3eff5c7c863013ec99b77b677a) ![](assets/new.png)  
 - [2020-12-01-知乎高赞：即使你已经「人到中年」，可能还是逃不开这些「学生思维」](https://www.ershicimi.com/p/d8ffae71160dba41dba1b21af4ef5a28) ![](assets/new.png)  
 - [2020-12-01-《武林外传》的故事发生在明朝哪个皇帝年间？](https://www.ershicimi.com/p/7e26f7277e1195d0926c5d98f7ad53f5) ![](assets/new.png)  
 - [2020-12-01-知乎故事-|-我用一个大招救了自己的命](https://www.ershicimi.com/p/2c8dde6022d178a7a8f45aa8a2432885) ![](assets/new.png)  
@@ -1060,9 +1063,6 @@
 - [2020-11-26-知乎故事-|-你第一次约会发生了哪些尴尬的事？](https://www.ershicimi.com/p/b3b87e5c4761d9948dc69982ce564212) ![](assets/new.png)  
 - [2020-11-25-吵架的时候，男朋友总是讲道理却不照顾我的情绪怎么办？](https://www.ershicimi.com/p/6d216c8c6957aeb269cc4638033ec963) ![](assets/new.png)  
 - [2020-11-25-什么样的商务穿搭是得体的？](https://www.ershicimi.com/p/17c7815d160b09195d475029c45114ba) ![](assets/new.png)  
-- [2020-11-25-知乎故事-|-婚姻会结束，但不会失败](https://www.ershicimi.com/p/656bd449716eee3c4d4b70f8af794242) ![](assets/new.png)  
-- [2020-11-24-「长征五号」携「嫦娥五号」奔月：九天探月星河阔，十六寒暑绕落回](https://www.ershicimi.com/p/e7e105be21444db4886e9e5924ba3995) ![](assets/new.png)  
-- [2020-11-24-为什么食草动物吃草就能饱并且获得足够的营养和能量？](https://www.ershicimi.com/p/0ffc8037e6686d15ebea54a187532f3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-12-02-打开贴吧提示-welcome-to-nginx](https://www.v2ex.com/t/731581) ![](assets/new.png)  
 - [2020-12-02-Amazon-EC2-Mac-Instances](https://www.v2ex.com/t/731578) ![](assets/new.png)  
 - [2020-12-02-程序员与业务的思考](https://www.v2ex.com/t/731577) ![](assets/new.png)  
 - [2020-12-02-想咨询-推理解密门店店长-或者-剧本工作室成员-一些问题~](https://www.v2ex.com/t/731575) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-12-02-大佬们都是怎么学习-K8S-的，有推荐的教程吗？](https://www.v2ex.com/t/731559) ![](assets/new.png)  
 - [2020-12-02-瞎折腾向没事捣鼓了一个使用-Github-Actions-来执行-ACME-的工作流](https://www.v2ex.com/t/731558) ![](assets/new.png)  
 - [2020-12-02-4s-店试驾刮蹭](https://www.v2ex.com/t/731557) ![](assets/new.png)  
-- [2020-12-02-我居然抢到了首发的-3060Ti...](https://www.v2ex.com/t/731556) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,8 +1139,8 @@
 - [2020-12-02-架构设计：分布式结构下，服务部署发布](https://toutiao.io/k/34mzduc) ![](assets/new.png)  
 - [2020-12-02-Spring-Boot-2.4.0-正式发布，全新的配置文件加载机制（不向下兼容）](https://toutiao.io/k/wqze2aq) ![](assets/new.png)  
 - [2020-12-02-ClickHouse-在大数据分析平台留存分析上的应用](https://toutiao.io/k/43p1n50) ![](assets/new.png)  
-- [2020-12-02-从单元测试覆盖率看富领域模型到底有多富](https://toutiao.io/k/84xy6p3) ![](assets/new.png)  
 - [2020-12-02-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
+- [2020-12-02-从单元测试覆盖率看富领域模型到底有多富](https://toutiao.io/k/84xy6p3) ![](assets/new.png)  
 - [2020-12-02-如何实现对-ELK-各组件的监控？试试-Metricbeat](https://toutiao.io/k/wr0i0k9) ![](assets/new.png)  
 - [2020-12-02-理解协程、LiveData-和-Flow](https://toutiao.io/k/tfgf7g6) ![](assets/new.png)  
 - [2020-12-02-编程语言学习心得-（精简版）：不要害怕遗忘](https://toutiao.io/k/ssh2p81) ![](assets/new.png)  

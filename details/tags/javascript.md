@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-02 07:04:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 07:08:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -89,3 +89,4 @@
 - [2020-12-02-有使用-USB-overdrive-的么?-在当前版本未适配-big-sur-的情况下有无替代方案?](https://www.v2ex.com/t/731382) 
 - [2020-12-02-Android-轻量级无痕埋点事件监听-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14014&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYIICyzl59iOWfaQ-W0XIxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-02-如何实现对-ELK-各组件的监控？试试-Metricbeat](https://toutiao.io/k/wr0i0k9) 
+- [2020-12-01-【公告】JSRC十月月度英雄榜](https://sec.thief.one/article_content?a_id=d93f3c22dccf722406a498489063bbbb) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-02 07:04:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 07:08:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -422,6 +422,7 @@
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【前端日刊】【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa)
 - [【编程之上】前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978)
+- [【安全热点】【视频】|-Python:冒泡排序](https://sec.thief.one/article_content?a_id=ca37207e340a61c222cd83f8e2be4022)
 - [【物联网智库】中国移动研究院：视频边缘计算白皮书](https://www.ershicimi.com/p/e597a3189793cce7130c1b75ccad785e)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -526,6 +527,7 @@
 - [【技术头条】网骗欺诈？网络裸奔？都是因为-HTTP？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14028&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F325807394%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct)
 - [【开发者头条】推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a)
+- [【安全热点】疯了?价值上万元“Web全栈架构师”正课免费?](https://sec.thief.one/article_content?a_id=ded3b99b32d14ae4af81c73e8e2394d3)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -545,6 +547,7 @@
 - [【前端瓶子君】前端看得懂的《Nginx-入门指南》](https://www.ershicimi.com/p/c0982d6a5e505cb3e54a72ff5319d213)
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【安全热点】Docker容器逃逸漏洞-CVE-2020-15257-风险提示](https://sec.thief.one/article_content?a_id=6a6b5d7fd2f1997d88e3a41169409422)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -576,6 +579,7 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】gist-在-github-ios-app-上不显示](https://www.v2ex.com/t/731347)
+- [【安全热点】字节跳动《Git-学习手册》火了,完整版-PDF-开放下载!](https://sec.thief.one/article_content?a_id=67664b3a2d0490bebba593b84c9759e3)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

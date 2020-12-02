@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-02 05:34:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 05:47:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -36,5 +36,4 @@
 - [2020-11-28-面试官：String长度有限制吗？是多少？](https://www.ershicimi.com/p/b1152ace164188124e7eea9891b35cdf) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-12-02-滴滴出行诚心招聘-golang、-Java-工程师#TMDJ-大厂#](https://www.v2ex.com/t/731336) 
-- [2020-12-02-高薪（美团）招聘测试开发工程师实习生-可实习-6-个月以上，](https://www.v2ex.com/t/731288) 
 - [2020-12-02-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) 

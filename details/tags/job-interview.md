@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-02 12:10:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 12:37:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -37,5 +37,4 @@
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-12-02-深圳-Infore-Robot-招聘中高级-golang-后端-web-前端](https://www.v2ex.com/t/731506) 
 - [2020-12-02-券商面试问题](https://www.v2ex.com/t/731505) 
-- [2020-12-02-用上这个"偷分技巧”，-FB-面试官破例给我发-offer](https://www.v2ex.com/t/731466) 
 - [2020-12-02-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) 

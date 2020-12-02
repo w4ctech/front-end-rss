@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-02 04:50:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 05:04:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -19,7 +19,7 @@
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-11-25-图解ElasticSearch-搜索原理](https://www.ershicimi.com/p/004a1ad76ab30b0657f69117c7835164) 
+- [2020-12-02-Hiretual-北京研发中心招聘前端/后端/全栈等技术岗位](https://www.v2ex.com/t/731323) 
 - [2020-12-02-矩池云高校免费部署-GPU-显卡集群管理系统，让-AI-教学简单起来](https://www.v2ex.com/t/731278) 
 - [2020-12-02-网骗欺诈？网络裸奔？都是因为-HTTP？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14028&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F325807394%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-02-推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) 
-- [2020-12-02-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) 

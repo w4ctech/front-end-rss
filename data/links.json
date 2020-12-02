@@ -4344,6 +4344,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "咸鱼上 Mbp Pro i7 处理器 16G 内存 512 固态 13 寸 2500 左右",
+        "link": "https://www.v2ex.com/t/731324",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "Hiretual 北京研发中心招聘前端/后端/全栈等技术岗位",
+        "link": "https://www.v2ex.com/t/731323",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "有没有程序员想转/已经转了教师",
+        "link": "https://www.v2ex.com/t/731322",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "招远程安卓，远程 golang 数名。必须本科以上全职。薪资不超过 20K.工作轻松，主要做客服系统和直播系统。QQ2629026402 VX:FZ0520429",
+        "link": "https://www.v2ex.com/t/731321",
+        "date": "2020-12-02"
+      },
+      {
         "title": "某 R 机场停止服务",
         "link": "https://www.v2ex.com/t/731320",
         "date": "2020-12-02"
@@ -4512,21 +4532,6 @@
         "title": "现在国产哪些手机可以申请 android11 体验了呀？",
         "link": "https://www.v2ex.com/t/731275",
         "date": "2020-12-02"
-      },
-      {
-        "title": "我们部门请我司 IT 开发一套管理系统，应怎样清晰提出需求？",
-        "link": "https://www.v2ex.com/t/731274",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "昨天小米之家喜提 k30ultra，遇到几个问题想请教一下大家",
-        "link": "https://www.v2ex.com/t/731273",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "office 365 一车位，希望长期合作",
-        "link": "https://www.v2ex.com/t/731272",
-        "date": "2020-12-02"
       }
     ]
   },
@@ -4678,13 +4683,13 @@
         "date": "2020-12-02"
       },
       {
-        "title": "Flutter 组件学习（二）：Image",
-        "link": "https://toutiao.io/k/gqla7qh",
+        "title": "图文带你理解 Apache Iceberg 时间旅行是如何实现的？",
+        "link": "https://toutiao.io/k/atxvudf",
         "date": "2020-12-02"
       },
       {
-        "title": "图文带你理解 Apache Iceberg 时间旅行是如何实现的？",
-        "link": "https://toutiao.io/k/atxvudf",
+        "title": "Flutter 组件学习（二）：Image",
+        "link": "https://toutiao.io/k/gqla7qh",
         "date": "2020-12-02"
       },
       {
@@ -4743,38 +4748,13 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 架构师之路：微服务技术选型",
-        "link": "https://toutiao.io/k/bxvxty9",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
-        "link": "https://toutiao.io/k/e5l3mqn",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
-        "link": "https://toutiao.io/k/4jzvanq",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
-        "link": "https://toutiao.io/k/qd3u4ct",
-        "date": "2020-12-02"
-      },
-      {
         "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
         "link": "https://toutiao.io/k/1k0udg9",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
         "date": "2020-12-02"
       },
       {
@@ -4783,13 +4763,28 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
-        "link": "https://toutiao.io/k/5sw3syp",
+        "title": "[推荐] 程序员如何管理你的上级领导？",
+        "link": "https://toutiao.io/k/s5w119y",
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
+        "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
+        "link": "https://toutiao.io/k/qd3u4ct",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 分布式数据网格 Data Mesh",
+        "link": "https://toutiao.io/k/p6zp7x5",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
+        "link": "https://toutiao.io/k/4jzvanq",
         "date": "2020-12-02"
       },
       {
@@ -4803,18 +4798,28 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 程序员必知必会的十大排序算法",
-        "link": "https://toutiao.io/k/zoyne3a",
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
-        "link": "https://toutiao.io/k/5shq47n",
+        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
+        "link": "https://toutiao.io/k/5sw3syp",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
+        "link": "https://toutiao.io/k/5stu129",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
+        "link": "https://toutiao.io/k/e5l3mqn",
         "date": "2020-12-02"
       }
     ]

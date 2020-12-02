@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-02 04:50:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 05:04:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -24,5 +24,6 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2020-12-02-招远程安卓，远程-golang-数名。必须本科以上全职。薪资不超过-20K.工作轻松，主要做客服系统和直播系统。QQ2629026402-VX:FZ0520429](https://www.v2ex.com/t/731321) 
 - [2020-11-30-【视频】|-Python:冒泡排序](https://sec.thief.one/article_content?a_id=ca37207e340a61c222cd83f8e2be4022) 
 - [2020-11-23-中国移动研究院：视频边缘计算白皮书](https://www.ershicimi.com/p/e597a3189793cce7130c1b75ccad785e) 

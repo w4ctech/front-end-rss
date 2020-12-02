@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-02 04:50:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 05:04:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -422,6 +422,7 @@
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【前端日刊】【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa)
 - [【编程之上】前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978)
+- [【V2EX】招远程安卓，远程-golang-数名。必须本科以上全职。薪资不超过-20K.工作轻松，主要做客服系统和直播系统。QQ2629026402-VX:FZ0520429](https://www.v2ex.com/t/731321)
 - [【安全热点】【视频】|-Python:冒泡排序](https://sec.thief.one/article_content?a_id=ca37207e340a61c222cd83f8e2be4022)
 - [【物联网智库】中国移动研究院：视频边缘计算白皮书](https://www.ershicimi.com/p/e597a3189793cce7130c1b75ccad785e)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -524,10 +525,10 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【互联网架构师】图解ElasticSearch-搜索原理](https://www.ershicimi.com/p/004a1ad76ab30b0657f69117c7835164)
+- [【V2EX】Hiretual-北京研发中心招聘前端/后端/全栈等技术岗位](https://www.v2ex.com/t/731323)
 - [【V2EX】矩池云高校免费部署-GPU-显卡集群管理系统，让-AI-教学简单起来](https://www.v2ex.com/t/731278)
 - [【技术头条】网骗欺诈？网络裸奔？都是因为-HTTP？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14028&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F325807394%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct)
-- [【开发者头条】推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -577,6 +578,7 @@
 - [【互联网架构师】别乱提交代码了，你必须知道的-Git-分支开发规范！](https://www.ershicimi.com/p/0354a8990fd39aeb32a08ffa5f027fa6)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【开发者头条】推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp)
 - [【安全热点】字节跳动《Git-学习手册》火了,完整版-PDF-开放下载!](https://sec.thief.one/article_content?a_id=67664b3a2d0490bebba593b84c9759e3)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

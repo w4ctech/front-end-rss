@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-12-02 16:00:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 16:31:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-02-程序员与业务的思考](https://www.v2ex.com/t/731577) 
+- [2020-12-02-想咨询-推理解密门店店长-或者-剧本工作室成员-一些问题~](https://www.v2ex.com/t/731575) 
+- [2020-12-02-技术求助：-Python-除了使用-opencv，还有没有其他方式拉取-rtsp-视频流和解码？-1080p30m-码率](https://www.v2ex.com/t/731574) 
 - [2020-12-02-按揭贷款转抵押贷款靠谱吗](https://www.v2ex.com/t/731573) 
 - [2020-12-02-YouTube-Premium-印度区美国家庭组会员发车](https://www.v2ex.com/t/731572) 
 - [2020-12-02-M1-的两个-USB4-是共享带宽的吗？](https://www.v2ex.com/t/731571) 
@@ -47,7 +50,3 @@
 - [2020-12-02-公司最近一直想让我自行离职，花招百出，我该如何维权](https://www.v2ex.com/t/731531) 
 - [2020-12-02-客厅挂个显示器显示股票账户总资金变化](https://www.v2ex.com/t/731529) 
 - [2020-12-02-chrome-单独下载-header-中带有-Referer-字段的视频，插件扩展](https://www.v2ex.com/t/731528) 
-- [2020-12-02-策略题来了](https://www.v2ex.com/t/731527) 
-- [2020-12-02-蛋壳公寓和-rixCloud-双重跑路的受害者：](https://www.v2ex.com/t/731526) 
-- [2020-12-02-xshell-建了隧道转发，访问-ip-会被识别或记录么？](https://www.v2ex.com/t/731525) 
-- [2020-12-02-Mac-上有哪些不错的-iOS-APP-推荐？](https://www.v2ex.com/t/731524) 

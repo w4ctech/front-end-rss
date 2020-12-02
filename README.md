@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-02 15:59:59，:rocket: 更新条数: +1039， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-02 16:31:15，:rocket: 更新条数: +1038， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,9 @@
 </summary>
 
 
+- [2020-12-02-程序员与业务的思考](https://www.v2ex.com/t/731577) ![](assets/new.png)  
+- [2020-12-02-想咨询-推理解密门店店长-或者-剧本工作室成员-一些问题~](https://www.v2ex.com/t/731575) ![](assets/new.png)  
+- [2020-12-02-技术求助：-Python-除了使用-opencv，还有没有其他方式拉取-rtsp-视频流和解码？-1080p30m-码率](https://www.v2ex.com/t/731574) ![](assets/new.png)  
 - [2020-12-02-按揭贷款转抵押贷款靠谱吗](https://www.v2ex.com/t/731573) ![](assets/new.png)  
 - [2020-12-02-YouTube-Premium-印度区美国家庭组会员发车](https://www.v2ex.com/t/731572) ![](assets/new.png)  
 - [2020-12-02-M1-的两个-USB4-是共享带宽的吗？](https://www.v2ex.com/t/731571) ![](assets/new.png)  
@@ -1071,9 +1074,6 @@
 - [2020-12-02-4s-店试驾刮蹭](https://www.v2ex.com/t/731557) ![](assets/new.png)  
 - [2020-12-02-我居然抢到了首发的-3060Ti...](https://www.v2ex.com/t/731556) ![](assets/new.png)  
 - [2020-12-02-有人买过-stacksocial-上的东西吗？为啥价格那么便宜，打折那么厉害？而且是真的](https://www.v2ex.com/t/731555) ![](assets/new.png)  
-- [2020-12-02-推荐一个锻炼-App,-新鲜出炉的-App-Store-2020-的年度应用-Wakeout!](https://www.v2ex.com/t/731554) ![](assets/new.png)  
-- [2020-12-02-氦图-硅谷外企-人工智能-从-2-人到-40-人精英团队-急需全栈/前端/算法/数据/产品/设计师](https://www.v2ex.com/t/731553) ![](assets/new.png)  
-- [2020-12-02-有在工作后移民的吗？](https://www.v2ex.com/t/731552) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

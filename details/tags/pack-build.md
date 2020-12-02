@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-02 06:09:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 06:33:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -21,5 +21,6 @@
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
 - [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) 
 - [2020-03-11-4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4) 
+- [2020-12-02-服务端表格组件-GcExcel-V4.0-发布，构建类-Excel-全栈解决方案](https://www.v2ex.com/t/731364) 
 - [2020-12-01-用-Tensorflow-构建-ResNet-深度残差网络](https://sec.thief.one/article_content?a_id=95540ddf08f6c3983ad22ae2deb06159) 
 - [2020-11-26-入选全球“50家聪明公司”，卡奥斯为世界构建了怎样的生态蓝图？](https://www.ershicimi.com/p/b52c48f8cb7ed31a0f4080e3bbe38773) 

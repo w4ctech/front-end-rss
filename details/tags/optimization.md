@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-02 08:09:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 08:32:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -27,6 +27,7 @@
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-11-27-我的天！！线上千万级大表排序，如何优化？](https://www.ershicimi.com/p/770ea2401f6e0d667fefa4a9bcffb49d) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-12-02-腾讯-WeTest-性能测试工具-PerfDog-获得中国计量科学研究院权威测试认证](https://www.v2ex.com/t/731420) 
 - [2020-12-02-Spring-Boot-2.4.0-正式发布，全新的配置文件加载机制（不向下兼容）](https://toutiao.io/k/wqze2aq) 
 - [2020-12-02-Golang-程序性能分析（二）：在-Echo-和-Gin-框架中使用-pprof](https://toutiao.io/k/7d1us60) 
 - [2020-12-02-QPS、TPS、RT、并发数、吞吐量理解和性能优化深入思考](https://toutiao.io/k/e23a1e1) 

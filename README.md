@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-02 08:09:43，:rocket: 更新条数: +1031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-02 08:32:55，:rocket: 更新条数: +1031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,14 @@
 </summary>
 
 
+- [2020-12-02-小尺寸副屏-macOS-有无](https://www.v2ex.com/t/731424) ![](assets/new.png)  
+- [2020-12-02-写了一个输出-mysql-表结构到-excel-的小工具](https://www.v2ex.com/t/731422) ![](assets/new.png)  
+- [2020-12-02-大家的-Time-Machine-是一直插在机器上的么？](https://www.v2ex.com/t/731421) ![](assets/new.png)  
+- [2020-12-02-腾讯-WeTest-性能测试工具-PerfDog-获得中国计量科学研究院权威测试认证](https://www.v2ex.com/t/731420) ![](assets/new.png)  
+- [2020-12-02-做-Java-，-idea-有什么好用的插件？](https://www.v2ex.com/t/731419) ![](assets/new.png)  
+- [2020-12-02-由于不在状态，对什么都没有兴趣](https://www.v2ex.com/t/731417) ![](assets/new.png)  
+- [2020-12-02-国外职场吐槽](https://www.v2ex.com/t/731416) ![](assets/new.png)  
+- [2020-12-02-关于-Mac-的-zip](https://www.v2ex.com/t/731415) ![](assets/new.png)  
 - [2020-12-02-东芝移动硬盘在-Big-Sur-下无法弹出](https://www.v2ex.com/t/731413) ![](assets/new.png)  
 - [2020-12-02-Google-翻译和欧陆词典用了同样的语料库？](https://www.v2ex.com/t/731412) ![](assets/new.png)  
 - [2020-12-02-分享一个自己做的仿制-planningpoker-的"估算扑克"工具，用于敏捷开发的工作量估算。](https://www.v2ex.com/t/731411) ![](assets/new.png)  
@@ -1066,14 +1074,6 @@
 - [2020-12-02-百度云加速年终活动开始啦！买两年送一年还送百度书包](https://www.v2ex.com/t/731403) ![](assets/new.png)  
 - [2020-12-02-深圳车管所可以报名摩托车增驾了，有没有一起的呀，到时候去考试](https://www.v2ex.com/t/731402) ![](assets/new.png)  
 - [2020-12-02-零基础入门学-Linux-有什么学习路线吗？](https://www.v2ex.com/t/731400) ![](assets/new.png)  
-- [2020-12-02-主卧转租-地铁房主卧朝南带阳台-1900-转租](https://www.v2ex.com/t/731395) ![](assets/new.png)  
-- [2020-12-02-2C1A-GaN-65w-充电器，充-iPhone-12-系列会断流，大家是否有同样现象](https://www.v2ex.com/t/731394) ![](assets/new.png)  
-- [2020-12-02-北京-贝壳-Go-基础架构工程师-不怎么加班](https://www.v2ex.com/t/731393) ![](assets/new.png)  
-- [2020-12-02-有了解太平金科的吗？](https://www.v2ex.com/t/731392) ![](assets/new.png)  
-- [2020-12-02-django启动时如何同时启动多个协程](https://www.v2ex.com/t/731391) ![](assets/new.png)  
-- [2020-12-02-ios-相册图片通过截图图片上面的文字内容进行搜索](https://www.v2ex.com/t/731389) ![](assets/new.png)  
-- [2020-12-02-一直有一个疑惑：-Standard-JS-这个编码规范是为什么火起来的呢？](https://www.v2ex.com/t/731388) ![](assets/new.png)  
-- [2020-12-02-光年遇-K11-桌游下午茶派对，适合年轻人的交友平台](https://www.v2ex.com/t/731387) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,6 +1085,7 @@
 </summary>
 
 
+- [2020-12-02-蒂森克虏伯上云-加速跨境访问-、降低网络延时-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14031&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7322%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-02-游戏公司通过云分期-保障业务如期上线-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14030&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9364%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-02-技术助援公益-Serverless应用引擎上线北大打卡项目-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14029&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15885%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-02-网骗欺诈？网络裸奔？都是因为-HTTP？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14028&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F325807394%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1104,7 +1105,6 @@
 - [2020-12-02-Android-轻量级无痕埋点事件监听-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14014&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYIICyzl59iOWfaQ-W0XIxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-02-三年经验-Android-开发面经总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14013&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCiO_T95JWA-ijKghrnCQzw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-02-双-11-快到了，不给你的-APP-加上自动换图标的功能吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14012&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO1NVCZtlfWN2cY-IhseMGg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-02-IDEA亲兄弟DataGrip-上手体验，真香！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14011&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp0uzLpjHgyzW959RlvMXmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

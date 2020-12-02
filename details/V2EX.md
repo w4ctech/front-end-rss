@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-02 20:09:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 20:27:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-02-法国工作的优势](https://www.v2ex.com/t/731583) 
 - [2020-12-02-网页加载慢可能式没有勾选-IPv6-协议](https://www.v2ex.com/t/731582) 
 - [2020-12-02-打开贴吧提示-welcome-to-nginx](https://www.v2ex.com/t/731581) 
 - [2020-12-02-Amazon-EC2-Mac-Instances](https://www.v2ex.com/t/731578) 
@@ -48,4 +49,3 @@
 - [2020-12-02-MagSafe-双项充电器已经可以在官网购买，-1049-元](https://www.v2ex.com/t/731536) 
 - [2020-12-02-有什么开源项目可以生成工作日报？](https://www.v2ex.com/t/731535) 
 - [2020-12-02-有在天津的大神，爱折腾，对智能穿戴或者操作系统比较在行或者感兴趣的么？](https://www.v2ex.com/t/731534) 
-- [2020-12-02-上海户口还是余杭补贴](https://www.v2ex.com/t/731533) 

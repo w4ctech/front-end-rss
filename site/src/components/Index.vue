@@ -14,8 +14,8 @@
           @click="handlerCate(item)"
         >
         {{item}}
-        </van-tag>
-      </van-cell-group>
+        <an-tag>
+      <an-cell-group>
       <van-cell-group>
         <div slot="title" class="title-box"><van-icon name="underway-o" />发布时间</div>
         <van-cell
@@ -25,8 +25,8 @@
           @click="handlerCate(item)"
         >
           {{item.text}}
-        </van-cell>
-      </van-cell-group>
+        <an-cell>
+      <an-cell-group>
       <van-cell-group title="文章来源">
         <div slot="title" class="title-box"><van-icon name="records" />文章来源</div>
         <van-cell
@@ -36,7 +36,7 @@
           is-link
           @click="handlerCate(item)"
         />
-      </van-cell-group>
+      <an-cell-group>
       <van-cell-group title="文章分类">
         <div slot="title" class="title-box"><van-icon name="bar-chart-o" />文章分类</div>
         <van-cell
@@ -46,8 +46,8 @@
           is-link
           @click="handlerCate(item)"
         />
-      </van-cell-group>
-    </van-popup>
+      <an-cell-group>
+    <an-popup>
 
     <van-search
       v-model="searchValue"
@@ -59,7 +59,7 @@
     >
       <div slot="label" class="action-cate" @click="showCate = true"><van-icon name="bars" /><span class="lbl">筛选</span></div>
       <div slot="action" class="action-btn" @click="onSearch">搜索</div>
-    </van-search>
+    <an-search>
 
      <div
       class="result-box"
@@ -87,10 +87,10 @@
             <div slot="icon" class="item-order" :class="{'time-active':isActive == item.date}">{{index+1}}、</div>
             <div slot="label" :class="{'time-active':isActive == item.date}">{{item.date}}<span class="item-from" >{{item.rssTitle}}</span> </div>
             <div slot="title" class="item-title"  :class="{'time-active':isActive == item.date}" v-html="item.sotitle || item.title"></div>
-          </van-cell>
+          <an-cell>
         </a>
 
-        <van-divider v-if="results.length && isBusy">没有更多了~</van-divider>
+        <van-divider v-if="results.length && isBusy">没有更多了~<an-divider>
 
      </div>
 
@@ -168,10 +168,38 @@ export default {
       window.scrollTo(0, 0)
     },
     async initLoadData () {
+      let links = []
+      let rss = []
+      let tags = []
+      const {data} =  await this.$axios.get(
+        'https://cdn.jsdelivr.net/gh/w4ctech/front-end-rss@master/data/links.json'
+        )
+      const  templink =  await import('../../../datanks.json')
+      if(data){
+        links= data
+      }else{
+        links = templink
+      }
       this.bus.$emit('loading', true, '正在拼命加载中')
-      const links = await import('../../../data/links.json')
-      const rss = await import('../../../data/rss.json')
-      const tags = await import('../../../data/tags.json')
+      const rssJson =  await this.$axios.get(
+        'https://cdn.jsdelivr.net/gh/w4ctech/front-end-rss@master/data/rss.json'
+        )
+      const  temprss =  await import('../../../data/rss.json')
+      if(rssJson){
+        rss= rssJson.data
+      }else{
+        rss = temprss
+      }
+
+      const tagsJson =  await this.$axios.get(
+        'https://cdn.jsdelivr.net/gh/w4ctech/front-end-rss@master/data/tags.json'
+        )
+      const  temptags =  await import('../../../data/tags.json')
+      if(tagsJson){
+        tags= tagsJson.data
+      }else{
+        tags = temptags
+      }
       if (links) {
         this.bus.$emit('loading', false)
       }
@@ -602,3 +630,4 @@ export default {
   }
 }
 </style>
+

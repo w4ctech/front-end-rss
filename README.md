@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-02 11:08:04，:rocket: 更新条数: +1032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-02 11:25:28，:rocket: 更新条数: +1033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,9 @@
 </summary>
 
 
+- [2020-12-02-开发板的那些亚克力的壳，是怎么定制的？](https://www.v2ex.com/t/731494) ![](assets/new.png)  
+- [2020-12-02-M1-MacBook-退货时怎么清空系统](https://www.v2ex.com/t/731493) ![](assets/new.png)  
+- [2020-12-02-关于移民，做好阶层下行的准备了么-看有越南移民倾向有感](https://www.v2ex.com/t/731492) ![](assets/new.png)  
 - [2020-12-02-小米-10pro-刷机后，小米公交还能找回以前的公交卡吗？](https://www.v2ex.com/t/731490) ![](assets/new.png)  
 - [2020-12-02-为防止内容挂掉，保存网页好文到自己的博客，有哪些优雅的办法？](https://www.v2ex.com/t/731489) ![](assets/new.png)  
 - [2020-12-02-现在有能保证-Youtube-4k-的上网方法么？](https://www.v2ex.com/t/731488) ![](assets/new.png)  
@@ -1071,9 +1074,6 @@
 - [2020-12-02-简单分析一下-PHP-中`foreach-$data-as-&$item-`循环引用产生的问题](https://www.v2ex.com/t/731473) ![](assets/new.png)  
 - [2020-12-02-毕业设计想对一个开源库进行二次开发，需要注意什么](https://www.v2ex.com/t/731472) ![](assets/new.png)  
 - [2020-12-02-请教两条查询语句，值集合在和不在表内的结果？](https://www.v2ex.com/t/731471) ![](assets/new.png)  
-- [2020-12-02-北京-社招-伴鱼招聘服务器/前端/iOS/Android/算法~等众多岗位](https://www.v2ex.com/t/731467) ![](assets/new.png)  
-- [2020-12-02-用上这个"偷分技巧”，-FB-面试官破例给我发-offer](https://www.v2ex.com/t/731466) ![](assets/new.png)  
-- [2020-12-02-发现-mac-一个新功能，一键解决程序不受信任的情况](https://www.v2ex.com/t/731465) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

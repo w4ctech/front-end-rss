@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-12-02 09:51:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 10:05:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-02-用上这个"偷分技巧”，-FB-面试官破例给我发-offer](https://www.v2ex.com/t/731466) 
+- [2020-12-02-发现-mac-一个新功能，一键解决程序不受信任的情况](https://www.v2ex.com/t/731465) 
+- [2020-12-02-收个-iMac-，当外接显示屏幕用，-4k，能用屏幕就行😂](https://www.v2ex.com/t/731464) 
+- [2020-12-02-Python-调用-dll-的方法-导致-django-runserver-直接-kill-掉-求大神指点](https://www.v2ex.com/t/731463) 
+- [2020-12-02-坚果云寻求志同道合的前端、客户端小伙伴一起来快乐工作~~](https://www.v2ex.com/t/731462) 
 - [2020-12-02-求助-支付宝转错账号钱怎么要回来](https://www.v2ex.com/t/731461) 
 - [2020-12-02-rixcloud-跑路了........](https://www.v2ex.com/t/731460) 
 - [2020-12-02-怎么让-iterm2-zsh-输出彩色的-json-字符-=-=](https://www.v2ex.com/t/731458) 
@@ -41,7 +46,3 @@
 - [2020-12-02-腾讯-WeTest-性能测试工具-PerfDog-获得中国计量科学研究院权威测试认证](https://www.v2ex.com/t/731420) 
 - [2020-12-02-做-Java-，-idea-有什么好用的插件？](https://www.v2ex.com/t/731419) 
 - [2020-12-02-由于不在状态，对什么都没有兴趣](https://www.v2ex.com/t/731417) 
-- [2020-12-02-国外职场吐槽](https://www.v2ex.com/t/731416) 
-- [2020-12-02-关于-Mac-的-zip](https://www.v2ex.com/t/731415) 
-- [2020-12-02-东芝移动硬盘在-Big-Sur-下无法弹出](https://www.v2ex.com/t/731413) 
-- [2020-12-02-Google-翻译和欧陆词典用了同样的语料库？](https://www.v2ex.com/t/731412) 

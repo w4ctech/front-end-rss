@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-02 04:33:17，:rocket: 更新条数: +1033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-02 04:50:31，:rocket: 更新条数: +1030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,7 +1054,9 @@
 </summary>
 
 
-- [2020-12-02-JakartaOne（以前的-JavaOne）在线会议](https://www.v2ex.com/t/731315) ![](assets/new.png)  
+- [2020-12-02-某-R-机场停止服务](https://www.v2ex.com/t/731320) ![](assets/new.png)  
+- [2020-12-02-急招！字节跳动-公益团队招新啦！产品、研发、设计、运营等你加入！](https://www.v2ex.com/t/731317) ![](assets/new.png)  
+- [2020-12-02-12-月-8-号-JakartaOne（以前的-JavaOne）在线会议](https://www.v2ex.com/t/731315) ![](assets/new.png)  
 - [2020-12-02-某大型-xx-翻车现场](https://www.v2ex.com/t/731314) ![](assets/new.png)  
 - [2020-12-02-Tempest原-RixCloud-，居然跑路了](https://www.v2ex.com/t/731312) ![](assets/new.png)  
 - [2020-12-02-"xxx"想要查找并连接到本地网络上的设备](https://www.v2ex.com/t/731311) ![](assets/new.png)  
@@ -1072,8 +1074,6 @@
 - [2020-12-02-话说你们的-12-pro-/-max-裸奔-掉漆吗？](https://www.v2ex.com/t/731297) ![](assets/new.png)  
 - [2020-12-02-安全与风控急招-字节跳动渗透测试工程师](https://www.v2ex.com/t/731295) ![](assets/new.png)  
 - [2020-12-02-关于电商积分红包抵扣问题！](https://www.v2ex.com/t/731294) ![](assets/new.png)  
-- [2020-12-02-求教-V-友,全球各个国家地区之间的流量数据,那里能找到?](https://www.v2ex.com/t/731293) ![](assets/new.png)  
-- [2020-12-02-10-元风暴，群按时禁言，群内依次开车，满-200-接下一车](https://www.v2ex.com/t/731292) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,8 +1119,8 @@
 - [2020-12-02-架构设计：分布式结构下，服务部署发布](https://toutiao.io/k/34mzduc) ![](assets/new.png)  
 - [2020-12-02-Spring-Boot-2.4.0-正式发布，全新的配置文件加载机制（不向下兼容）](https://toutiao.io/k/wqze2aq) ![](assets/new.png)  
 - [2020-12-02-ClickHouse-在大数据分析平台留存分析上的应用](https://toutiao.io/k/43p1n50) ![](assets/new.png)  
-- [2020-12-02-从单元测试覆盖率看富领域模型到底有多富](https://toutiao.io/k/84xy6p3) ![](assets/new.png)  
 - [2020-12-02-如何实现对-ELK-各组件的监控？试试-Metricbeat](https://toutiao.io/k/wr0i0k9) ![](assets/new.png)  
+- [2020-12-02-从单元测试覆盖率看富领域模型到底有多富](https://toutiao.io/k/84xy6p3) ![](assets/new.png)  
 - [2020-12-02-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
 - [2020-12-02-理解协程、LiveData-和-Flow](https://toutiao.io/k/tfgf7g6) ![](assets/new.png)  
 - [2020-12-02-Flutter-组件学习（二）：Image](https://toutiao.io/k/gqla7qh) ![](assets/new.png)  

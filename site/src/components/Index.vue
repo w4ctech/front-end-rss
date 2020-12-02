@@ -174,7 +174,7 @@ export default {
       const {data} =  await this.$axios.get(
         'https://cdn.jsdelivr.net/gh/w4ctech/front-end-rss@master/data/links.json'
         )
-      const  templink =  await import('../../../datanks.json')
+      const  templink =  await import('../../../links.json')
       if(data){
         links= data
       }else{

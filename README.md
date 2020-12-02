@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-02 12:55:12，:rocket: 更新条数: +1037， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-02 13:04:25，:rocket: 更新条数: +1038， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -76,11 +76,11 @@
 </summary>
 
 
+- [2020-12-02-意大利卫生部长：分级防控措施显现效果-须警惕第三波疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii7GenMJU64GZd7kYjQw0201202&isfromapp=1) ![](assets/new.png)  
+- [2020-12-02-​伊朗新增13621例新冠肺炎确诊病例-累计确诊989572例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmgOh2qkSVsyyU14WVRh201202&isfromapp=1) ![](assets/new.png)  
+- [2020-12-02-新冠肺炎疫情致西班牙失业人数持续增多-累计超385万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieVlY4lFWAREgRRzA5ZVy201202&isfromapp=1) ![](assets/new.png)  
 - [2020-12-02-山东青岛２例本地无症状感染者的密切接触者完成核酸采样-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEocJWDr1TIQm48yZ7TjU201202&isfromapp=1) ![](assets/new.png)  
 - [2020-12-02-内蒙古满洲里将于12月3日8时起启动第三轮全员核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKhANXtw4pwhxNKKWNWZi201202&isfromapp=1) ![](assets/new.png)  
-- [2020-12-02-美国疾控中心计划修订防疫指南-隔离期可能缩短为7—10天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1xSRlUYSdfNbm7uPuRnX201202&isfromapp=1) ![](assets/new.png)  
-- [2020-12-02-美食药管理局前局长：预计年底三成美国人将感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq5yG4si0O14Yqxc5dsPP201202&isfromapp=1) ![](assets/new.png)  
-- [2020-12-02-山东青岛1日新增本地无症状感染者2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9zNebEWaJfUkimcvf9wQ201202&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1054,6 +1054,8 @@
 </summary>
 
 
+- [2020-12-02-想了解一下-WPF-前景](https://www.v2ex.com/t/731532) ![](assets/new.png)  
+- [2020-12-02-公司最近一直想让我自行离职，花招百出，我该如何维权](https://www.v2ex.com/t/731531) ![](assets/new.png)  
 - [2020-12-02-客厅挂个显示器显示股票账户总资金变化](https://www.v2ex.com/t/731529) ![](assets/new.png)  
 - [2020-12-02-chrome-单独下载-header-中带有-Referer-字段的视频，插件扩展](https://www.v2ex.com/t/731528) ![](assets/new.png)  
 - [2020-12-02-策略题来了](https://www.v2ex.com/t/731527) ![](assets/new.png)  
@@ -1072,8 +1074,6 @@
 - [2020-12-02-字节跳动北京/上海/新加坡-SRE-运维工程师-社招&校招](https://www.v2ex.com/t/731512) ![](assets/new.png)  
 - [2020-12-02-拿了个新加坡-996-的-offer](https://www.v2ex.com/t/731511) ![](assets/new.png)  
 - [2020-12-02-刚发现-m1-的-air-外接硬盘速度没有-intel-的-air-快](https://www.v2ex.com/t/731510) ![](assets/new.png)  
-- [2020-12-02-收家具！有蛋壳不租了，准备变卖蛋壳家具的吗](https://www.v2ex.com/t/731509) ![](assets/new.png)  
-- [2020-12-02-小朋友的防丢跟踪器，有没有推荐？](https://www.v2ex.com/t/731508) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

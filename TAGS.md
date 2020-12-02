@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-02 12:55:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 13:04:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -649,6 +649,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】​伊朗新增13621例新冠肺炎确诊病例-累计确诊989572例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmgOh2qkSVsyyU14WVRh201202&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】新冠肺炎疫情致西班牙失业人数持续增多-累计超385万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieVlY4lFWAREgRRzA5ZVy201202&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -663,11 +665,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】意大利卫生部长：分级防控措施显现效果-须警惕第三波疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii7GenMJU64GZd7kYjQw0201202&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】山东青岛２例本地无症状感染者的密切接触者完成核酸采样-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEocJWDr1TIQm48yZ7TjU201202&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】内蒙古满洲里将于12月3日8时起启动第三轮全员核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKhANXtw4pwhxNKKWNWZi201202&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】美国疾控中心计划修订防疫指南-隔离期可能缩短为7—10天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1xSRlUYSdfNbm7uPuRnX201202&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】美食药管理局前局长：预计年底三成美国人将感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq5yG4si0O14Yqxc5dsPP201202&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】山东青岛1日新增本地无症状感染者2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9zNebEWaJfUkimcvf9wQ201202&isfromapp=1)
 - [【Vue社区】漫画-|-前端发展史的江湖恩怨情仇](https://www.ershicimi.com/p/6ca4e7b882fb4e38a4d022bd05f12d82)
 - [【Vue社区】抽奖再送一个价值-¥1999-的AirPods-Pro](https://www.ershicimi.com/p/6dbdbda3715d15c288aab85528809ac7)
 - [【Vue社区】大牛必备：前端与图形学](https://www.ershicimi.com/p/95d49a33e55b1d98b21aa3ad8745f6b0)
@@ -683,6 +683,8 @@
 - [【Vue中文社区】技巧：-根据背景色自适应文本颜色](https://www.ershicimi.com/p/b70443e91a1f3cca6b405c8e326c7cd9)
 - [【Vue中文社区】AirPods-Pro真香，包邮送一个](https://www.ershicimi.com/p/24704d68fa1077a9862ed065ee31518a)
 - [【Vue中文社区】最近收到几个朋友成功拿到字节2-1、阿里P6等大厂offer的消息，特地将这些大厂简历整理出来，分享](https://www.ershicimi.com/p/f29200451dccf8fc5bcc554d945199a3)
+- [【Vue中文社区】看到程序员11月平均工资后，我第一反应：这是假的吧！](https://www.ershicimi.com/p/cf0ae53dc1cef466790dc3d4b32c17a0)
+- [【Vue中文社区】能笑抽的39个奇葩代码注释](https://www.ershicimi.com/p/d2e99de76cbb086d7b617b6c54162562)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

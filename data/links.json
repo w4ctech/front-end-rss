@@ -14437,6 +14437,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "新冠疫情加重 巴西南部各州收紧防疫措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHRueVgLBdoNpPG70TQ4l201203&isfromapp=1",
+        "date": "2020-12-02"
+      },
+      {
         "title": "西班牙加泰罗尼亚大区计划于节庆期间适当放宽宵禁管控",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidAm8Sz9W4PQQ6yKrIGMw201202&isfromapp=1",
         "date": "2020-12-02"
@@ -14454,11 +14459,6 @@
       {
         "title": "新冠肺炎疫情致西班牙失业人数持续增多 累计超385万人",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieVlY4lFWAREgRRzA5ZVy201202&isfromapp=1",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "山东青岛２例本地无症状感染者的密切接触者完成核酸采样 结果均为阴性",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEocJWDr1TIQm48yZ7TjU201202&isfromapp=1",
         "date": "2020-12-02"
       }
     ]
@@ -14576,6 +14576,21 @@
     "link": "https://www.ershicimi.com/a/10315",
     "items": [
       {
+        "title": "作为前端，你真的了解你的浏览器吗？",
+        "link": "https://www.ershicimi.com/p/32e7d2fd549b3fd7240442c803d0b214",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "Element UI for Vue 3.0 来了！",
+        "link": "https://www.ershicimi.com/p/e42356bac6a40995f476752bd919d9c2",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "Github上看到的4个沙雕开源项目",
+        "link": "https://www.ershicimi.com/p/f533db7744ec7554322c2c9012fcc7f2",
+        "date": "2020-12-02"
+      },
+      {
         "title": "【附源码】用Vue写了一个类抖音界面短视频项目，可在线刷",
         "link": "https://www.ershicimi.com/p/628e25c0042e124150df8e9e5d300b79",
         "date": "2020-12-01"
@@ -14659,21 +14674,6 @@
         "title": "网页渲染性能优化 —— 渲染原理",
         "link": "https://www.ershicimi.com/p/7de0689dbd35245630352b18bb8a126f",
         "date": "2020-11-24"
-      },
-      {
-        "title": "开发一个基于 Vue3.0 的组件库是一种怎样的体验？",
-        "link": "https://www.ershicimi.com/p/0aac7bf775b197b7b447c275b6cbe783",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "前端 API 请求缓存数据的 5 种方案",
-        "link": "https://www.ershicimi.com/p/da93a0200a9855b20ce67050c1cfaa95",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "技巧：让你的微信昵称变成彩色！！！",
-        "link": "https://www.ershicimi.com/p/b9cdc36c28ec3a68865e044fc9f09162",
-        "date": "2020-11-22"
       }
     ]
   },
@@ -18147,6 +18147,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "2020年度一线大厂创新技术实践盘点 ｜ QCon",
+        "link": "https://www.ershicimi.com/p/907d0ce79f225973a4c84c30e2210ed4",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "斥资 277 亿美元收购 Slack，Salesforce 这一次的目标是微软？",
+        "link": "https://www.ershicimi.com/p/b6b6197f5552522611997ada4255c7a3",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "漫画：什么是 “智能供应链” ？ | Q推荐",
+        "link": "https://www.ershicimi.com/p/1210c6139f942a605fbf09748d86cfb3",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "在生产环境用了一个月Go语言，我有4点体会",
+        "link": "https://www.ershicimi.com/p/baed3dd02e6c3828c4d3246c36136afa",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "20个常用的JavaScript简写技巧",
+        "link": "https://www.ershicimi.com/p/7b8abddbaa883e084571e05bf249344d",
+        "date": "2020-12-02"
+      },
+      {
         "title": "李运华：从 P5 到 P9 的晋升攻略｜极客时间",
         "link": "https://www.ershicimi.com/p/f518e5ddaf9c706bf2493117caaf494f",
         "date": "2020-12-01"
@@ -18220,31 +18245,6 @@
         "title": "京东单方面辞退38岁P7员工三次败诉；小米高管因错误言论致歉请辞；腾讯向抖音发300封律师函 | Q",
         "link": "https://www.ershicimi.com/p/0146134db4940cc084aea9313b06930a",
         "date": "2020-11-28"
-      },
-      {
-        "title": "阿里云为什么要做多模数据库？",
-        "link": "https://www.ershicimi.com/p/8decc2f0ae1e41b528f3b3a9f1ca4fa1",
-        "date": "2020-11-28"
-      },
-      {
-        "title": "华为云AI开发者沙龙武汉专场 | 听华为云技术专家深扒人工智能“DNA”",
-        "link": "https://www.ershicimi.com/p/194e73035f528739aa8444e7f03a940b",
-        "date": "2020-11-28"
-      },
-      {
-        "title": "Akamai Edge Live 线上峰会——助力中国企业出海应对多方挑战 ｜ Q推荐",
-        "link": "https://www.ershicimi.com/p/889e329d5fc8f074e4ce2278e9eb1096",
-        "date": "2020-11-28"
-      },
-      {
-        "title": "任正非告别荣耀：“离婚”后不要藕断丝连，要做华为最强竞争对手",
-        "link": "https://www.ershicimi.com/p/d20adcba9a306be0f7c6a285ebe35307",
-        "date": "2020-11-27"
-      },
-      {
-        "title": "F=ma，如何使创新具备加速度？",
-        "link": "https://www.ershicimi.com/p/3409a99667c5eb5e4a2af9a096c2454b",
-        "date": "2020-11-27"
       }
     ]
   },
@@ -19199,23 +19199,8 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
-        "link": "https://toutiao.io/k/5shq47n",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
         "date": "2020-12-02"
       },
       {
@@ -19224,28 +19209,33 @@
         "date": "2020-12-02"
       },
       {
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 谈一谈程序员的职业发展路线",
+        "link": "https://toutiao.io/k/b2k5zax",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-12-02"
+      },
+      {
         "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
         "link": "https://toutiao.io/k/1k0udg9",
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
-        "link": "https://toutiao.io/k/5sw3syp",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
-        "link": "https://toutiao.io/k/e5l3mqn",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
-        "link": "https://toutiao.io/k/qd3u4ct",
+        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
+        "link": "https://toutiao.io/k/4jzvanq",
         "date": "2020-12-02"
       },
       {
@@ -19254,23 +19244,33 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
-        "date": "2020-12-02"
-      },
-      {
         "title": "[推荐] 程序员必知必会的十大排序算法",
         "link": "https://toutiao.io/k/zoyne3a",
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
+        "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
+        "link": "https://toutiao.io/k/qd3u4ct",
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
+        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
+        "link": "https://toutiao.io/k/e5l3mqn",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
+        "link": "https://toutiao.io/k/wpo96pp",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-12-02"
       }
     ]

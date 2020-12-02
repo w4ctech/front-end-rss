@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-02 23:34:49，:rocket: 更新条数: +3921， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-02 23:49:01，:rocket: 更新条数: +3921， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-12-02-新冠疫情加重-巴西南部各州收紧防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHRueVgLBdoNpPG70TQ4l201203&isfromapp=1) ![](assets/new.png)  
 - [2020-12-02-西班牙加泰罗尼亚大区计划于节庆期间适当放宽宵禁管控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidAm8Sz9W4PQQ6yKrIGMw201202&isfromapp=1) ![](assets/new.png)  
 - [2020-12-02-意大利卫生部长：分级防控措施显现效果-须警惕第三波疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii7GenMJU64GZd7kYjQw0201202&isfromapp=1) ![](assets/new.png)  
 - [2020-12-02-​伊朗新增13621例新冠肺炎确诊病例-累计确诊989572例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmgOh2qkSVsyyU14WVRh201202&isfromapp=1) ![](assets/new.png)  
 - [2020-12-02-新冠肺炎疫情致西班牙失业人数持续增多-累计超385万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieVlY4lFWAREgRRzA5ZVy201202&isfromapp=1) ![](assets/new.png)  
-- [2020-12-02-山东青岛２例本地无症状感染者的密切接触者完成核酸采样-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEocJWDr1TIQm48yZ7TjU201202&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -143,6 +143,9 @@
 </summary>
 
 
+- [2020-12-02-作为前端，你真的了解你的浏览器吗？](https://www.ershicimi.com/p/32e7d2fd549b3fd7240442c803d0b214) ![](assets/new.png)  
+- [2020-12-02-Element-UI-for-Vue-3.0-来了！](https://www.ershicimi.com/p/e42356bac6a40995f476752bd919d9c2) ![](assets/new.png)  
+- [2020-12-02-Github上看到的4个沙雕开源项目](https://www.ershicimi.com/p/f533db7744ec7554322c2c9012fcc7f2) ![](assets/new.png)  
 - [2020-12-01-【附源码】用Vue写了一个类抖音界面短视频项目，可在线刷](https://www.ershicimi.com/p/628e25c0042e124150df8e9e5d300b79) ![](assets/new.png)  
 - [2020-12-01-面试官：说说你对SPA（单页应用）的理解?](https://www.ershicimi.com/p/809f500d661e53372c80ff5b68584de2) ![](assets/new.png)  
 - [2020-12-01-大厂机密！30-个提升团队研发效能的锦囊](https://www.ershicimi.com/p/6fa37653b1e0e3b9747a10085a46249e) ![](assets/new.png)  
@@ -160,9 +163,6 @@
 - [2020-11-25-优化-JS-条件语句的-5-个技巧](https://www.ershicimi.com/p/3bf0138638c78f91a429cbd6cf828b94) ![](assets/new.png)  
 - [2020-11-24-VSCode-花式玩法（摸鱼）了解一下](https://www.ershicimi.com/p/05c80de58e30c81c948c2dbeefc138ea) ![](assets/new.png)  
 - [2020-11-24-网页渲染性能优化-——-渲染原理](https://www.ershicimi.com/p/7de0689dbd35245630352b18bb8a126f) ![](assets/new.png)  
-- [2020-11-23-开发一个基于-Vue3.0-的组件库是一种怎样的体验？](https://www.ershicimi.com/p/0aac7bf775b197b7b447c275b6cbe783) ![](assets/new.png)  
-- [2020-11-23-前端-API-请求缓存数据的-5-种方案](https://www.ershicimi.com/p/da93a0200a9855b20ce67050c1cfaa95) ![](assets/new.png)  
-- [2020-11-22-技巧：让你的微信昵称变成彩色！！！](https://www.ershicimi.com/p/b9cdc36c28ec3a68865e044fc9f09162) ![](assets/new.png)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -892,6 +892,11 @@
 </summary>
 
 
+- [2020-12-02-2020年度一线大厂创新技术实践盘点-｜-QCon](https://www.ershicimi.com/p/907d0ce79f225973a4c84c30e2210ed4) ![](assets/new.png)  
+- [2020-12-02-斥资-277-亿美元收购-Slack，Salesforce-这一次的目标是微软？](https://www.ershicimi.com/p/b6b6197f5552522611997ada4255c7a3) ![](assets/new.png)  
+- [2020-12-02-漫画：什么是-“智能供应链”-？-|-Q推荐](https://www.ershicimi.com/p/1210c6139f942a605fbf09748d86cfb3) ![](assets/new.png)  
+- [2020-12-02-在生产环境用了一个月Go语言，我有4点体会](https://www.ershicimi.com/p/baed3dd02e6c3828c4d3246c36136afa) ![](assets/new.png)  
+- [2020-12-02-20个常用的JavaScript简写技巧](https://www.ershicimi.com/p/7b8abddbaa883e084571e05bf249344d) ![](assets/new.png)  
 - [2020-12-01-李运华：从-P5-到-P9-的晋升攻略｜极客时间](https://www.ershicimi.com/p/f518e5ddaf9c706bf2493117caaf494f) ![](assets/new.png)  
 - [2020-12-01-对话何宝宏：别高估技术的短期影响，也别低估技术的长期影响](https://www.ershicimi.com/p/6db1b937d88e8a4ab246b18f365a6007) ![](assets/new.png)  
 - [2020-12-01-腾讯云面向泛娱乐行业的六大技术实践](https://www.ershicimi.com/p/3e75267ca70b5e053bb6a09d8c8e5ccb) ![](assets/new.png)  
@@ -907,11 +912,6 @@
 - [2020-11-29-AI-如何赋能摄像机？这场沙龙为你解锁“软件定义”新概念](https://www.ershicimi.com/p/87c50836f7ecb431cb7cf3ea7ef1c978) ![](assets/new.png)  
 - [2020-11-29-不是-AI-科学家，就无法训练高精度-AI-模型？|-【约会飞桨】闭门分享](https://www.ershicimi.com/p/e4ffad95a53b3b8f6564caded93bc0eb) ![](assets/new.png)  
 - [2020-11-28-京东单方面辞退38岁P7员工三次败诉；小米高管因错误言论致歉请辞；腾讯向抖音发300封律师函-|-Q](https://www.ershicimi.com/p/0146134db4940cc084aea9313b06930a) ![](assets/new.png)  
-- [2020-11-28-阿里云为什么要做多模数据库？](https://www.ershicimi.com/p/8decc2f0ae1e41b528f3b3a9f1ca4fa1) ![](assets/new.png)  
-- [2020-11-28-华为云AI开发者沙龙武汉专场-|-听华为云技术专家深扒人工智能“DNA”](https://www.ershicimi.com/p/194e73035f528739aa8444e7f03a940b) ![](assets/new.png)  
-- [2020-11-28-Akamai-Edge-Live-线上峰会——助力中国企业出海应对多方挑战-｜-Q推荐](https://www.ershicimi.com/p/889e329d5fc8f074e4ce2278e9eb1096) ![](assets/new.png)  
-- [2020-11-27-任正非告别荣耀：“离婚”后不要藕断丝连，要做华为最强竞争对手](https://www.ershicimi.com/p/d20adcba9a306be0f7c6a285ebe35307) ![](assets/new.png)  
-- [2020-11-27-F=ma，如何使创新具备加速度？](https://www.ershicimi.com/p/3409a99667c5eb5e4a2af9a096c2454b) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

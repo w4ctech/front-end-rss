@@ -3168,6 +3168,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[字节跳动][北京/上海/新加坡] SRE 运维工程师 社招&校招",
+        "link": "https://www.v2ex.com/t/731512",
+        "date": "2020-12-02"
+      },
+      {
         "title": "拿了个新加坡 996 的 offer",
         "link": "https://www.v2ex.com/t/731511",
         "date": "2020-12-02"
@@ -3370,11 +3375,6 @@
       {
         "title": "Python 调用 dll 的方法 导致 django runserver 直接 kill 掉 求大神指点",
         "link": "https://www.v2ex.com/t/731463",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "坚果云寻求志同道合的前端、客户端小伙伴一起来快乐工作~~",
-        "link": "https://www.v2ex.com/t/731462",
         "date": "2020-12-02"
       }
     ]
@@ -3597,48 +3597,8 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 程序员必知必会的十大排序算法",
-        "link": "https://toutiao.io/k/zoyne3a",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
-        "link": "https://toutiao.io/k/4jzvanq",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 架构师之路：微服务技术选型",
-        "link": "https://toutiao.io/k/bxvxty9",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
-        "date": "2020-12-02"
-      },
-      {
         "title": "[推荐] 谈一谈程序员的职业发展路线",
         "link": "https://toutiao.io/k/b2k5zax",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
         "date": "2020-12-02"
       },
       {
@@ -3647,13 +3607,13 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
+        "title": "[推荐] 程序员必知必会的十大排序算法",
+        "link": "https://toutiao.io/k/zoyne3a",
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
-        "link": "https://toutiao.io/k/5sw3syp",
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
         "date": "2020-12-02"
       },
       {
@@ -3662,8 +3622,48 @@
         "date": "2020-12-02"
       },
       {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
+        "date": "2020-12-02"
+      },
+      {
         "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
         "link": "https://toutiao.io/k/9dk11zm",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
+        "link": "https://toutiao.io/k/e5l3mqn",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
+        "link": "https://toutiao.io/k/5sw3syp",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
+        "link": "https://toutiao.io/k/1k0udg9",
         "date": "2020-12-02"
       }
     ]

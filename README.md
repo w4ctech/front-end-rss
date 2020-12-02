@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-02 12:05:41，:rocket: 更新条数: +800， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-02 12:10:49，:rocket: 更新条数: +800， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1034,6 +1034,7 @@
 </summary>
 
 
+- [2020-12-02-字节跳动北京/上海/新加坡-SRE-运维工程师-社招&校招](https://www.v2ex.com/t/731512) ![](assets/new.png)  
 - [2020-12-02-拿了个新加坡-996-的-offer](https://www.v2ex.com/t/731511) ![](assets/new.png)  
 - [2020-12-02-刚发现-m1-的-air-外接硬盘速度没有-intel-的-air-快](https://www.v2ex.com/t/731510) ![](assets/new.png)  
 - [2020-12-02-收家具！有蛋壳不租了，准备变卖蛋壳家具的吗](https://www.v2ex.com/t/731509) ![](assets/new.png)  
@@ -1053,7 +1054,6 @@
 - [2020-12-02-开发板的那些亚克力的壳，是怎么定制的？](https://www.v2ex.com/t/731494) ![](assets/new.png)  
 - [2020-12-02-M1-MacBook-退货时怎么清空系统](https://www.v2ex.com/t/731493) ![](assets/new.png)  
 - [2020-12-02-关于移民，做好阶层下行的准备了么-看有越南移民倾向有感](https://www.v2ex.com/t/731492) ![](assets/new.png)  
-- [2020-12-02-小米-10pro-刷机后，小米公交还能找回以前的公交卡吗？](https://www.v2ex.com/t/731490) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

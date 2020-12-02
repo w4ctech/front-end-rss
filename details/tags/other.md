@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-02 20:47:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 21:03:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2901,14 +2901,13 @@
 - [2020-12-02-Spring-Batch（九）：数据共享-上下文处理](https://toutiao.io/k/l7u8li0) 
 - [2020-12-02-Flink-实战！Flink-常见问题定位指南](https://toutiao.io/k/kskyntp) 
 - [2020-12-02-Pytest-实战](https://toutiao.io/k/p6y5e1d) 
+- [2020-12-02-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) 
 - [2020-12-02-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) 
+- [2020-12-02-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) 
+- [2020-12-02-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) 
 - [2020-12-02-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) 
-- [2020-12-02-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) 
 - [2020-12-02-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) 
-- [2020-12-02-推荐-分布式数据网格-Data-Mesh](https://toutiao.io/k/p6zp7x5) 
-- [2020-12-02-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) 
-- [2020-12-02-推荐-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) 
-- [2020-12-02-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) 
+- [2020-12-02-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) 
 - [2020-12-02-ATT&CK系列-MITRE-ATT&CK基本概念](https://sec.thief.one/article_content?a_id=7ce9f699465b785bc8c5b8d93f17182a) 
 - [2020-12-02-【京麒实用观会指南】了解五宗“最”,参会so-easy!](https://sec.thief.one/article_content?a_id=e5b71c9132c6f408b66cb68739106fef) 
 - [2020-12-02-伽马射线-是否可以让我们拥有不可思议的能力](https://sec.thief.one/article_content?a_id=14113997f4411096fab7f1342b1bd331) 

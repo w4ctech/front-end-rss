@@ -3935,8 +3935,8 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "网上最全谷歌浏览器插件manifest.json文件字段解析",
-        "link": "https://juejin.im/post/6901585431726981128",
+        "title": "JavaScript中实用的8个代码片段",
+        "link": "https://juejin.im/post/6901598928483909640",
         "date": "2020-12-02"
       },
       {
@@ -4344,6 +4344,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Zulu JVM 有原生支持 mac M1 芯片的版本了，但是 idea 用 zulu jvm 运行直接无法启动",
+        "link": "https://www.v2ex.com/t/731477",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "冬天手机电池太不耐用了，你们也是吗",
+        "link": "https://www.v2ex.com/t/731476",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[北京] [创新工场] [组内直招] web 前端",
+        "link": "https://www.v2ex.com/t/731474",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "简单分析一下 PHP 中`foreach ($data as &$item) `循环引用产生的问题",
+        "link": "https://www.v2ex.com/t/731473",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "毕业设计想对一个开源库进行二次开发，需要注意什么",
+        "link": "https://www.v2ex.com/t/731472",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "请教两条查询语句，值集合在和不在表内的结果？",
+        "link": "https://www.v2ex.com/t/731471",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[北京-社招] 伴鱼招聘服务器/前端/iOS/Android/算法~等众多岗位",
+        "link": "https://www.v2ex.com/t/731467",
+        "date": "2020-12-02"
+      },
+      {
         "title": "用上这个\"偷分技巧”， FB 面试官破例给我发 offer",
         "link": "https://www.v2ex.com/t/731466",
         "date": "2020-12-02"
@@ -4506,46 +4541,6 @@
       {
         "title": "双十一还在穿短袖，这几天突然发现没衣服穿了，有推荐的吗？",
         "link": "https://www.v2ex.com/t/731428",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "Fast retailing 招聘 移动端架构师，好机会不容错过",
-        "link": "https://www.v2ex.com/t/731427",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "Mac app store 下载失败后的垃圾在哪儿？",
-        "link": "https://www.v2ex.com/t/731425",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "小尺寸副屏 macOS 有无",
-        "link": "https://www.v2ex.com/t/731424",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "写了一个输出 mysql 表结构到 excel 的小工具",
-        "link": "https://www.v2ex.com/t/731422",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "大家的 Time Machine 是一直插在机器上的么？",
-        "link": "https://www.v2ex.com/t/731421",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "腾讯 WeTest 性能测试工具 PerfDog 获得中国计量科学研究院权威测试认证",
-        "link": "https://www.v2ex.com/t/731420",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "做 Java ， idea 有什么好用的插件？",
-        "link": "https://www.v2ex.com/t/731419",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "由于不在状态，对什么都没有兴趣",
-        "link": "https://www.v2ex.com/t/731417",
         "date": "2020-12-02"
       }
     ]
@@ -4763,63 +4758,8 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
-        "link": "https://toutiao.io/k/e5l3mqn",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 架构师之路：微服务技术选型",
-        "link": "https://toutiao.io/k/bxvxty9",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
-        "link": "https://toutiao.io/k/5shq47n",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
-        "link": "https://toutiao.io/k/qd3u4ct",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
-        "link": "https://toutiao.io/k/5sw3syp",
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
         "date": "2020-12-02"
       },
       {
@@ -4828,13 +4768,68 @@
         "date": "2020-12-02"
       },
       {
+        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
+        "link": "https://toutiao.io/k/5sw3syp",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
+        "link": "https://toutiao.io/k/qd3u4ct",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 程序员必知必会的十大排序算法",
+        "link": "https://toutiao.io/k/zoyne3a",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 谈一谈程序员的职业发展路线",
+        "link": "https://toutiao.io/k/b2k5zax",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 分布式数据网格 Data Mesh",
+        "link": "https://toutiao.io/k/p6zp7x5",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
+        "link": "https://toutiao.io/k/wpo96pp",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
+        "link": "https://toutiao.io/k/e5l3mqn",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
+        "date": "2020-12-02"
+      },
+      {
         "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
         "link": "https://toutiao.io/k/5stu129",
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
         "date": "2020-12-02"
       }
     ]
@@ -4844,6 +4839,71 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "ATT&CK系列-MITRE ATT&CK基本概念",
+        "link": "https://sec.thief.one/article_content?a_id=7ce9f699465b785bc8c5b8d93f17182a",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "【京麒实用观会指南】了解五宗“最”,参会so easy!",
+        "link": "https://sec.thief.one/article_content?a_id=e5b71c9132c6f408b66cb68739106fef",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "伽马射线-是否可以让我们拥有不可思议的能力",
+        "link": "https://sec.thief.one/article_content?a_id=14113997f4411096fab7f1342b1bd331",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "因Fortinet VPN漏洞,超600个日本组织被黑客攻击",
+        "link": "https://sec.thief.one/article_content?a_id=cf39feed9a2f24f1ae7d0004074c6466",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "杀不死的Emotet",
+        "link": "https://sec.thief.one/article_content?a_id=a1c1c87b1077ce3f0f732ee491c2d0dc",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "韩国网站 登录框POST注入到Getshell",
+        "link": "https://sec.thief.one/article_content?a_id=c6555568497db88c8296f6aa72d9cb62",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "【漏洞通告】Containerd容器逃逸漏洞通告 (CVE-2020-15257)",
+        "link": "https://sec.thief.one/article_content?a_id=fd544630df053d7566cabac1332c368b",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "等保动向 | 报业网络安全等级保护定级参考指南V2.0发布",
+        "link": "https://sec.thief.one/article_content?a_id=99bd6e7dfa0cb1c2f6315eb12a852d57",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "以太坊2.0信标链上线,“世界计算机”正式开启期待已久的大改造",
+        "link": "https://sec.thief.one/article_content?a_id=31cd9868641928accbe26bbe1d2975bf",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "【地评线】开门问计 听民意知民愿聚众智",
+        "link": "https://sec.thief.one/article_content?a_id=db1c68c80c3f106586dd65eac3009eb7",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "干货 | IAST安全测试如何防止数据污染",
+        "link": "https://sec.thief.one/article_content?a_id=df45232defded2f5c1718172383403d1",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "Metasploit-Payload修复Unicode支持",
+        "link": "https://sec.thief.one/article_content?a_id=f44476314ce3f0f28cab649ad3fa6f79",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "12月2日GUIBI早内参-ETH2.0创世区块已经启动,Facebook已将Libra...",
+        "link": "https://sec.thief.one/article_content?a_id=27dfb2d83632af563ffbbfb01a45ad90",
+        "date": "2020-12-02"
+      },
       {
         "title": "盛况回顾|合天网安实验室亮相2020长沙智能制造大会",
         "link": "https://sec.thief.one/article_content?a_id=ca543e08aa502eb7bd328e2a899f0304",
@@ -4907,6 +4967,11 @@
       {
         "title": "警惕!最新网络攻击可能会使DNA科学家上当 从而制造出危险的病毒",
         "link": "https://sec.thief.one/article_content?a_id=920f66f8f74746daab5327afef68b567",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "Python进阶必读,作者有20年Python使用经验!(附pdf翻译版下载)",
+        "link": "https://sec.thief.one/article_content?a_id=2fc23a214609153b93ff8a3e8601becc",
         "date": "2020-12-02"
       },
       {
@@ -5273,76 +5338,6 @@
         "title": "2030年人工智能网络安全市场产值将高达1018亿美元",
         "link": "https://sec.thief.one/article_content?a_id=89a3f603c55bc99ca77e8e29e33fc2ed",
         "date": "2020-11-30"
-      },
-      {
-        "title": "SecWiki周刊(第352期)",
-        "link": "https://sec.thief.one/article_content?a_id=ae785324d54d13913913ddf641b95ced",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "每日安全动态推送(11-30)",
-        "link": "https://sec.thief.one/article_content?a_id=e121766605faa0a6c6829a199237b7e3",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "记一次对违法网站的渗透",
-        "link": "https://sec.thief.one/article_content?a_id=52d275a7e41d8c935e883c4f48953eb8",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "安全资讯 | 2020.11.23-11.29",
-        "link": "https://sec.thief.one/article_content?a_id=4bdeca58f4b936c7cac3882e245533ca",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "利刃鹰组织-盘旋于中东西亚网空的针对性攻击组织活动揭露",
-        "link": "https://sec.thief.one/article_content?a_id=d57c4708cc29e83288535f65ab07c5d1",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "真的黑客能让你分分钟开进沟里,但他们不屑于此",
-        "link": "https://sec.thief.one/article_content?a_id=f5c05111cc73279c6c8016440a77c168",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "【视频】| Python:冒泡排序",
-        "link": "https://sec.thief.one/article_content?a_id=ca37207e340a61c222cd83f8e2be4022",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "解放双手!5M的免费小工具,Windows有救了",
-        "link": "https://sec.thief.one/article_content?a_id=d90bd3a88d76b307757fac1193b230dc",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "字节跳动《Git 学习手册》火了,完整版 PDF 开放下载!",
-        "link": "https://sec.thief.one/article_content?a_id=67664b3a2d0490bebba593b84c9759e3",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "内网横向移动思路和技巧",
-        "link": "https://sec.thief.one/article_content?a_id=2afad47a85487de681dae2059ff68f68",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "330万台老年机被植入木马,他们还要“进军”儿童电话手表……",
-        "link": "https://sec.thief.one/article_content?a_id=b361a4d8d1872d8ee9256cf902561f5e",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "2021年广东省信息安全技术重点实验室开放基金",
-        "link": "https://sec.thief.one/article_content?a_id=e4d1f148b86be281612226ed5712cba6",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "我拿到月薪3W的offer了",
-        "link": "https://sec.thief.one/article_content?a_id=22210d35da2f60de59b4740ef27e422d",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "Python 简史了解下?",
-        "link": "https://sec.thief.one/article_content?a_id=087b1418bd7e6cc54e84186e9235679c",
-        "date": "2020-11-29"
       }
     ]
   },

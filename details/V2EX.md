@@ -1,12 +1,13 @@
-:alarm_clock: 更新时间: 2020-12-02 15:05:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 15:11:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-02-nerdtree:recursively-opening-node-please-wait?](https://www.v2ex.com/t/731565) 
 - [2020-12-02-iplc-真的不穿墙吗，能挂特征明显的服务吗](https://www.v2ex.com/t/731564) 
-- [2020-12-02-Carbon-Copy-Cloner-在-big-sur-下对比-Time-Machine-已经毫无优势，就是个垃圾](https://www.v2ex.com/t/731563) 
+- [2020-12-02-CCC-在-big-sur-下对比-Time-Machine-已经毫无优势，附赠-mac-版本控制大法，随便下软件随便玩，-10-秒恢复先前状态](https://www.v2ex.com/t/731563) 
 - [2020-12-02-新买台-note-9-pro-怎么开启-fcm-啊](https://www.v2ex.com/t/731561) 
 - [2020-12-02-大佬们都是怎么学习-K8S-的，有推荐的教程吗？](https://www.v2ex.com/t/731559) 
 - [2020-12-02-瞎折腾向没事捣鼓了一个使用-Github-Actions-来执行-ACME-的工作流](https://www.v2ex.com/t/731558) 
@@ -47,4 +48,3 @@
 - [2020-12-02-被骗了，痛恨马云们，事后承认自己大意了，可是心里不服气。](https://www.v2ex.com/t/731520) 
 - [2020-12-02-求助。。。简历没东西可写怎么办。。](https://www.v2ex.com/t/731518) 
 - [2020-12-02-官网购买-iPhone-12-Pro-不能刻字吗？](https://www.v2ex.com/t/731517) 
-- [2020-12-02-年底了，又要年会了，来聊聊](https://www.v2ex.com/t/731515) 

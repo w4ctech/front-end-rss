@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-02 07:47:52，:rocket: 更新条数: +793， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-02 08:04:33，:rocket: 更新条数: +795， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1034,6 +1034,12 @@
 </summary>
 
 
+- [2020-12-02-分享一个自己做的仿制-https://planningpoker.com-的"估算扑克"工具，用于敏捷开发的工作量估算。](https://www.v2ex.com/t/731411) ![](assets/new.png)  
+- [2020-12-02-技术招聘-一家具有综合-AI-能力与卓越高精度地图能力的科技公司](https://www.v2ex.com/t/731410) ![](assets/new.png)  
+- [2020-12-02-建了一个微信外包群-大家可以过来玩-···](https://www.v2ex.com/t/731409) ![](assets/new.png)  
+- [2020-12-02-如果发帖或者回帖只用-base64-字符串会怎样？](https://www.v2ex.com/t/731408) ![](assets/new.png)  
+- [2020-12-02-win10-下-128G-的剩余硬盘空间-iTunes-备份-64g-的-iPhone-X，直接占满了还不够用，求解](https://www.v2ex.com/t/731407) ![](assets/new.png)  
+- [2020-12-02-还有比这惨的吗](https://www.v2ex.com/t/731406) ![](assets/new.png)  
 - [2020-12-02-环聊将于-2021-年初停用](https://www.v2ex.com/t/731405) ![](assets/new.png)  
 - [2020-12-02-百度云加速年终活动开始啦！买两年送一年还送百度书包](https://www.v2ex.com/t/731403) ![](assets/new.png)  
 - [2020-12-02-深圳车管所可以报名摩托车增驾了，有没有一起的呀，到时候去考试](https://www.v2ex.com/t/731402) ![](assets/new.png)  
@@ -1048,12 +1054,6 @@
 - [2020-12-02-光年遇-K11-桌游下午茶派对，适合年轻人的交友平台](https://www.v2ex.com/t/731387) ![](assets/new.png)  
 - [2020-12-02-数据库设计/选型和权限问题](https://www.v2ex.com/t/731386) ![](assets/new.png)  
 - [2020-12-02-M1-MacBook-pro-连接不上-Magic-mouse？](https://www.v2ex.com/t/731385) ![](assets/new.png)  
-- [2020-12-02-有大佬用过腾讯蓝鲸的-cmdb-吗？-开源版本貌似没有权限控制呢，有大佬对这个熟悉的吗？](https://www.v2ex.com/t/731383) ![](assets/new.png)  
-- [2020-12-02-有使用-USB-overdrive-的么?-在当前版本未适配-big-sur-的情况下有无替代方案?](https://www.v2ex.com/t/731382) ![](assets/new.png)  
-- [2020-12-02-求推荐一个安卓五笔输入法](https://www.v2ex.com/t/731381) ![](assets/new.png)  
-- [2020-12-02-第三次开车-NUC-黑果套餐-抽一人送三星雷电-3-移动硬盘.](https://www.v2ex.com/t/731379) ![](assets/new.png)  
-- [2020-12-02-上海-内推-甜新科技招聘后端（Node-方向）4-位、前端（React-方向）1-位](https://www.v2ex.com/t/731378) ![](assets/new.png)  
-- [2020-12-02-全网-COM-CN-域名最低低价活动公众号，不知道有没有人需要？](https://www.v2ex.com/t/731377) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1102,8 +1102,8 @@
 - [2020-12-02-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
 - [2020-12-02-如何实现对-ELK-各组件的监控？试试-Metricbeat](https://toutiao.io/k/wr0i0k9) ![](assets/new.png)  
 - [2020-12-02-从单元测试覆盖率看富领域模型到底有多富](https://toutiao.io/k/84xy6p3) ![](assets/new.png)  
-- [2020-12-02-理解协程、LiveData-和-Flow](https://toutiao.io/k/tfgf7g6) ![](assets/new.png)  
 - [2020-12-02-图文带你理解-Apache-Iceberg-时间旅行是如何实现的？](https://toutiao.io/k/atxvudf) ![](assets/new.png)  
+- [2020-12-02-理解协程、LiveData-和-Flow](https://toutiao.io/k/tfgf7g6) ![](assets/new.png)  
 - [2020-12-02-Flutter-组件学习（二）：Image](https://toutiao.io/k/gqla7qh) ![](assets/new.png)  
 - [2020-12-02-Helm-入门介绍：Kubernetes-上的包管理软件](https://toutiao.io/k/w3vvt3a) ![](assets/new.png)  
 - [2020-12-02-编程语言学习心得-（精简版）：不要害怕遗忘](https://toutiao.io/k/ssh2p81) ![](assets/new.png)  

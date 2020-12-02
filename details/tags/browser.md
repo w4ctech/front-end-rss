@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-02 04:09:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 04:33:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,9 +37,8 @@
 - [2020-11-28-Akamai-Edge-Live-线上峰会——助力中国企业出海应对多方挑战-｜-Q推荐](https://www.ershicimi.com/p/889e329d5fc8f074e4ce2278e9eb1096) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-02-安全与风控急招-字节跳动渗透测试工程师](https://www.v2ex.com/t/731295) 
-- [2020-12-02-域名-client-Transfer-Prohibited-能转出吗？](https://www.v2ex.com/t/731265) 
 - [2020-12-02-VIPKID上云-解决多云Web统一安全防护问题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14022&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-02-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
+- [2020-12-02-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
 - [2020-12-02-Web安全:代码泄露](https://sec.thief.one/article_content?a_id=b5602e9a92768b340bd82349fc4a47e0) 
 - [2020-12-01-【安全圈】黑客组织利用黑匣子攻击ATM-机,盗走了-80-万欧元](https://sec.thief.one/article_content?a_id=cd72615d37e0b002698e6303cde38608) 
 - [2020-12-01-奇安信副总裁吴俣:工业互联网将面临更复杂的安全挑战](https://sec.thief.one/article_content?a_id=598ef644df35458da3b06436140b793e) 

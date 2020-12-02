@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-02 04:09:57，:rocket: 更新条数: +1033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-02 04:33:17，:rocket: 更新条数: +1033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,11 @@
 </summary>
 
 
+- [2020-12-02-JakartaOne（以前的-JavaOne）在线会议](https://www.v2ex.com/t/731315) ![](assets/new.png)  
+- [2020-12-02-某大型-xx-翻车现场](https://www.v2ex.com/t/731314) ![](assets/new.png)  
+- [2020-12-02-Tempest原-RixCloud-，居然跑路了](https://www.v2ex.com/t/731312) ![](assets/new.png)  
+- [2020-12-02-"xxx"想要查找并连接到本地网络上的设备](https://www.v2ex.com/t/731311) ![](assets/new.png)  
+- [2020-12-02-码农买蓝润旁边的三利云锦怎么样？](https://www.v2ex.com/t/731310) ![](assets/new.png)  
 - [2020-12-02-解脱了，但是反而有种失落感](https://www.v2ex.com/t/731309) ![](assets/new.png)  
 - [2020-12-02-big-sur-上可以写-ntfs-的软件有哪些](https://www.v2ex.com/t/731308) ![](assets/new.png)  
 - [2020-12-02-mac-os-Big-Sur-频繁出现-五国语言](https://www.v2ex.com/t/731307) ![](assets/new.png)  
@@ -1065,15 +1070,10 @@
 - [2020-12-02-Java-中如何读取数据库中为-long-类型的字段](https://www.v2ex.com/t/731300) ![](assets/new.png)  
 - [2020-12-02-普通程序员的-30-岁的抉择](https://www.v2ex.com/t/731299) ![](assets/new.png)  
 - [2020-12-02-话说你们的-12-pro-/-max-裸奔-掉漆吗？](https://www.v2ex.com/t/731297) ![](assets/new.png)  
-- [2020-12-02-今晚早看到的三个新闻，感觉很魔幻，看看大家有什么想说的。](https://www.v2ex.com/t/731296) ![](assets/new.png)  
 - [2020-12-02-安全与风控急招-字节跳动渗透测试工程师](https://www.v2ex.com/t/731295) ![](assets/new.png)  
 - [2020-12-02-关于电商积分红包抵扣问题！](https://www.v2ex.com/t/731294) ![](assets/new.png)  
 - [2020-12-02-求教-V-友,全球各个国家地区之间的流量数据,那里能找到?](https://www.v2ex.com/t/731293) ![](assets/new.png)  
 - [2020-12-02-10-元风暴，群按时禁言，群内依次开车，满-200-接下一车](https://www.v2ex.com/t/731292) ![](assets/new.png)  
-- [2020-12-02-海外-iPhone-，-如何使用联通-esim](https://www.v2ex.com/t/731291) ![](assets/new.png)  
-- [2020-12-02-广东电信取消-200M/100M-游戏宽带办理](https://www.v2ex.com/t/731289) ![](assets/new.png)  
-- [2020-12-02-高薪（美团）招聘测试开发工程师实习生-可实习-6-个月以上，](https://www.v2ex.com/t/731288) ![](assets/new.png)  
-- [2020-12-02-*nz4mWiur*fu-制这段文字，打开掌^↑生-huo-即可加入我的队伍](https://www.v2ex.com/t/731287) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,6 +1085,7 @@
 </summary>
 
 
+- [2020-12-02-技术助援公益-Serverless应用引擎上线北大打卡项目-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14029&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15885%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-02-网骗欺诈？网络裸奔？都是因为-HTTP？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14028&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F325807394%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-02-业务价值驱动的测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14027&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-value-driven-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-02-中保车服灾备云，为保险公司“上保险”-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14026&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778853%3Futm_content%3Dg_1000212730%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1104,7 +1105,6 @@
 - [2020-12-02-双-11-快到了，不给你的-APP-加上自动换图标的功能吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14012&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO1NVCZtlfWN2cY-IhseMGg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-02-IDEA亲兄弟DataGrip-上手体验，真香！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14011&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp0uzLpjHgyzW959RlvMXmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-02-美貌与智慧并重女博士入职华为，年薪-156-万！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14010&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV1NU5WjukVq1R6nDvBGhyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-02-写开源项目到底究竟有多赚钱？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14009&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrWIKlOXvNhnLPboDnp2BRQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,8 +1119,8 @@
 - [2020-12-02-架构设计：分布式结构下，服务部署发布](https://toutiao.io/k/34mzduc) ![](assets/new.png)  
 - [2020-12-02-Spring-Boot-2.4.0-正式发布，全新的配置文件加载机制（不向下兼容）](https://toutiao.io/k/wqze2aq) ![](assets/new.png)  
 - [2020-12-02-ClickHouse-在大数据分析平台留存分析上的应用](https://toutiao.io/k/43p1n50) ![](assets/new.png)  
-- [2020-12-02-如何实现对-ELK-各组件的监控？试试-Metricbeat](https://toutiao.io/k/wr0i0k9) ![](assets/new.png)  
 - [2020-12-02-从单元测试覆盖率看富领域模型到底有多富](https://toutiao.io/k/84xy6p3) ![](assets/new.png)  
+- [2020-12-02-如何实现对-ELK-各组件的监控？试试-Metricbeat](https://toutiao.io/k/wr0i0k9) ![](assets/new.png)  
 - [2020-12-02-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
 - [2020-12-02-理解协程、LiveData-和-Flow](https://toutiao.io/k/tfgf7g6) ![](assets/new.png)  
 - [2020-12-02-Flutter-组件学习（二）：Image](https://toutiao.io/k/gqla7qh) ![](assets/new.png)  

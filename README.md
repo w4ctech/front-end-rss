@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-02 22:08:50，:rocket: 更新条数: +3922， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-02 22:29:56，:rocket: 更新条数: +3922， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,9 @@
 </summary>
 
 
+- [2020-12-02-寻找一位不排斥前端的后端朋友加入我们的早期创业公司，最好懂函数式编程](https://www.v2ex.com/t/731586) ![](assets/new.png)  
+- [2020-12-02--FinTech-社区-招聘-|-期权做市交易员（场内）](https://www.v2ex.com/t/731585) ![](assets/new.png)  
+- [2020-12-02--FinTech-社区-招聘-|-OTC-Trader-场外交易员）](https://www.v2ex.com/t/731584) ![](assets/new.png)  
 - [2020-12-02-法国工作的优势](https://www.v2ex.com/t/731583) ![](assets/new.png)  
 - [2020-12-02-网页加载慢可能式没有勾选-IPv6-协议](https://www.v2ex.com/t/731582) ![](assets/new.png)  
 - [2020-12-02-打开贴吧提示-welcome-to-nginx](https://www.v2ex.com/t/731581) ![](assets/new.png)  
@@ -1091,9 +1094,6 @@
 - [2020-12-02-简单修复了一下『截图.app』在-Big-Sur-下崩溃的问题，有需要的可以试试](https://www.v2ex.com/t/731566) ![](assets/new.png)  
 - [2020-12-02-nerdtree:recursively-opening-node-please-wait?](https://www.v2ex.com/t/731565) ![](assets/new.png)  
 - [2020-12-02-iplc-真的不穿墙吗，能挂特征明显的服务吗](https://www.v2ex.com/t/731564) ![](assets/new.png)  
-- [2020-12-02-CCC-在-big-sur-下对比-Time-Machine-已经毫无优势，附赠-mac-版本控制大法，随便下软件随便玩，-10-秒恢复先前状态](https://www.v2ex.com/t/731563) ![](assets/new.png)  
-- [2020-12-02-新买台-note-9-pro-怎么开启-fcm-啊](https://www.v2ex.com/t/731561) ![](assets/new.png)  
-- [2020-12-02-大佬们都是怎么学习-K8S-的，有推荐的教程吗？](https://www.v2ex.com/t/731559) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1142,8 +1142,8 @@
 - [2020-12-02-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
 - [2020-12-02-从单元测试覆盖率看富领域模型到底有多富](https://toutiao.io/k/84xy6p3) ![](assets/new.png)  
 - [2020-12-02-如何实现对-ELK-各组件的监控？试试-Metricbeat](https://toutiao.io/k/wr0i0k9) ![](assets/new.png)  
-- [2020-12-02-编程语言学习心得-（精简版）：不要害怕遗忘](https://toutiao.io/k/ssh2p81) ![](assets/new.png)  
 - [2020-12-02-理解协程、LiveData-和-Flow](https://toutiao.io/k/tfgf7g6) ![](assets/new.png)  
+- [2020-12-02-编程语言学习心得-（精简版）：不要害怕遗忘](https://toutiao.io/k/ssh2p81) ![](assets/new.png)  
 - [2020-12-02-图文带你理解-Apache-Iceberg-时间旅行是如何实现的？](https://toutiao.io/k/atxvudf) ![](assets/new.png)  
 - [2020-12-02-Flutter-组件学习（二）：Image](https://toutiao.io/k/gqla7qh) ![](assets/new.png)  
 - [2020-12-02-Helm-入门介绍：Kubernetes-上的包管理软件](https://toutiao.io/k/w3vvt3a) ![](assets/new.png)  

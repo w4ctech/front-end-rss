@@ -18770,6 +18770,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "寻找一位不排斥前端的后端朋友加入我们的早期创业公司，最好懂函数式编程",
+        "link": "https://www.v2ex.com/t/731586",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[ FinTech 社区] 招聘 | 期权做市交易员（场内）",
+        "link": "https://www.v2ex.com/t/731585",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[ FinTech 社区] 招聘 | OTC Trader( 场外交易员）",
+        "link": "https://www.v2ex.com/t/731584",
+        "date": "2020-12-02"
+      },
+      {
         "title": "法国工作的优势",
         "link": "https://www.v2ex.com/t/731583",
         "date": "2020-12-02"
@@ -18973,21 +18988,6 @@
         "title": "看到一个浏览器拟人化漫画感觉挺有意思。名字就叫 Internet Explorer",
         "link": "https://www.v2ex.com/t/731537",
         "date": "2020-12-02"
-      },
-      {
-        "title": "MagSafe 双项充电器已经可以在官网购买， 1049 元",
-        "link": "https://www.v2ex.com/t/731536",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "有什么开源项目可以生成工作日报？",
-        "link": "https://www.v2ex.com/t/731535",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "有在天津的大神，爱折腾，对智能穿戴或者操作系统比较在行或者感兴趣的么？",
-        "link": "https://www.v2ex.com/t/731534",
-        "date": "2020-12-02"
       }
     ]
   },
@@ -19134,13 +19134,13 @@
         "date": "2020-12-02"
       },
       {
-        "title": "编程语言学习心得 （精简版）：不要害怕遗忘",
-        "link": "https://toutiao.io/k/ssh2p81",
+        "title": "理解协程、LiveData 和 Flow",
+        "link": "https://toutiao.io/k/tfgf7g6",
         "date": "2020-12-02"
       },
       {
-        "title": "理解协程、LiveData 和 Flow",
-        "link": "https://toutiao.io/k/tfgf7g6",
+        "title": "编程语言学习心得 （精简版）：不要害怕遗忘",
+        "link": "https://toutiao.io/k/ssh2p81",
         "date": "2020-12-02"
       },
       {
@@ -19204,13 +19204,8 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 架构师之路：微服务技术选型",
-        "link": "https://toutiao.io/k/bxvxty9",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
-        "link": "https://toutiao.io/k/4jzvanq",
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-12-02"
       },
       {
@@ -19219,23 +19214,13 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 分布式数据网格 Data Mesh",
-        "link": "https://toutiao.io/k/p6zp7x5",
-        "date": "2020-12-02"
-      },
-      {
         "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
         "link": "https://toutiao.io/k/n4lq0bo",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
         "date": "2020-12-02"
       },
       {
@@ -19244,13 +19229,13 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
-        "link": "https://toutiao.io/k/e5l3mqn",
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
+        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
+        "link": "https://toutiao.io/k/e5l3mqn",
         "date": "2020-12-02"
       },
       {
@@ -19264,18 +19249,33 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
-        "link": "https://toutiao.io/k/qd3u4ct",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
+        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
+        "link": "https://toutiao.io/k/4jzvanq",
         "date": "2020-12-02"
       },
       {
         "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
         "link": "https://toutiao.io/k/5sw3syp",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 分布式数据网格 Data Mesh",
+        "link": "https://toutiao.io/k/p6zp7x5",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
         "date": "2020-12-02"
       }
     ]

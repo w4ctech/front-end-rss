@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-02 03:38:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 03:49:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -526,6 +526,7 @@
 - [【互联网架构师】图解ElasticSearch-搜索原理](https://www.ershicimi.com/p/004a1ad76ab30b0657f69117c7835164)
 - [【V2EX】矩池云高校免费部署-GPU-显卡集群管理系统，让-AI-教学简单起来](https://www.v2ex.com/t/731278)
 - [【技术头条】网骗欺诈？网络裸奔？都是因为-HTTP？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14028&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F325807394%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -546,7 +547,6 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【V2EX】请问大家是如何让-docker-daemon-守护进程不退出的?](https://www.v2ex.com/t/731263)
-- [【开发者头条】推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -646,7 +646,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】国家卫健委：1日新增9例新冠肺炎确诊病例-其中本土病例2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD6vaTdmtaTWSIwPCYdiu201202&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -661,6 +660,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】山东青岛２例本地无症状感染者的密切接触者完成核酸采样-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEocJWDr1TIQm48yZ7TjU201202&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】内蒙古满洲里将于12月3日8时起启动第三轮全员核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKhANXtw4pwhxNKKWNWZi201202&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国疾控中心计划修订防疫指南-隔离期可能缩短为7—10天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1xSRlUYSdfNbm7uPuRnX201202&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美食药管理局前局长：预计年底三成美国人将感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq5yG4si0O14Yqxc5dsPP201202&isfromapp=1)
@@ -680,7 +680,6 @@
 - [【Vue中文社区】技巧：-根据背景色自适应文本颜色](https://www.ershicimi.com/p/b70443e91a1f3cca6b405c8e326c7cd9)
 - [【Vue中文社区】AirPods-Pro真香，包邮送一个](https://www.ershicimi.com/p/24704d68fa1077a9862ed065ee31518a)
 - [【Vue中文社区】最近收到几个朋友成功拿到字节2-1、阿里P6等大厂offer的消息，特地将这些大厂简历整理出来，分享](https://www.ershicimi.com/p/f29200451dccf8fc5bcc554d945199a3)
-- [【Vue中文社区】看到程序员11月平均工资后，我第一反应：这是假的吧！](https://www.ershicimi.com/p/cf0ae53dc1cef466790dc3d4b32c17a0)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-02 03:38:04，:rocket: 更新条数: +1031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-02 03:49:56，:rocket: 更新条数: +1031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -76,11 +76,11 @@
 </summary>
 
 
+- [2020-12-02-山东青岛２例本地无症状感染者的密切接触者完成核酸采样-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEocJWDr1TIQm48yZ7TjU201202&isfromapp=1) ![](assets/new.png)  
 - [2020-12-02-内蒙古满洲里将于12月3日8时起启动第三轮全员核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKhANXtw4pwhxNKKWNWZi201202&isfromapp=1) ![](assets/new.png)  
 - [2020-12-02-美国疾控中心计划修订防疫指南-隔离期可能缩短为7—10天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1xSRlUYSdfNbm7uPuRnX201202&isfromapp=1) ![](assets/new.png)  
 - [2020-12-02-美食药管理局前局长：预计年底三成美国人将感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq5yG4si0O14Yqxc5dsPP201202&isfromapp=1) ![](assets/new.png)  
 - [2020-12-02-山东青岛1日新增本地无症状感染者2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9zNebEWaJfUkimcvf9wQ201202&isfromapp=1) ![](assets/new.png)  
-- [2020-12-02-国家卫健委：1日新增9例新冠肺炎确诊病例-其中本土病例2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD6vaTdmtaTWSIwPCYdiu201202&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1054,6 +1054,11 @@
 </summary>
 
 
+- [2020-12-02-gersgjerlkjglk](https://www.v2ex.com/t/731301) ![](assets/new.png)  
+- [2020-12-02-Java-中如何读取数据库中为-long-类型的字段](https://www.v2ex.com/t/731300) ![](assets/new.png)  
+- [2020-12-02-普通程序员的-30-岁的抉择](https://www.v2ex.com/t/731299) ![](assets/new.png)  
+- [2020-12-02-话说你们的-12-pro-/-max-裸奔-掉漆吗？](https://www.v2ex.com/t/731297) ![](assets/new.png)  
+- [2020-12-02-今晚早看到的三个新闻，感觉很魔幻，看看大家有什么想说的。](https://www.v2ex.com/t/731296) ![](assets/new.png)  
 - [2020-12-02-安全与风控急招-字节跳动渗透测试工程师](https://www.v2ex.com/t/731295) ![](assets/new.png)  
 - [2020-12-02-关于电商积分红包抵扣问题！](https://www.v2ex.com/t/731294) ![](assets/new.png)  
 - [2020-12-02-求教-V-友,全球各个国家地区之间的流量数据,那里能找到?](https://www.v2ex.com/t/731293) ![](assets/new.png)  
@@ -1069,11 +1074,6 @@
 - [2020-12-02-匿名区块链创业公司需要全职前端一名，区块链开发一名](https://www.v2ex.com/t/731281) ![](assets/new.png)  
 - [2020-12-02-作为一个后端开发和产品和测试决定解决方案正常吗?](https://www.v2ex.com/t/731280) ![](assets/new.png)  
 - [2020-12-02-矩池云高校免费部署-GPU-显卡集群管理系统，让-AI-教学简单起来](https://www.v2ex.com/t/731278) ![](assets/new.png)  
-- [2020-12-02-现在国产哪些手机可以申请-android11-体验了呀？](https://www.v2ex.com/t/731275) ![](assets/new.png)  
-- [2020-12-02-我们部门请我司-IT-开发一套管理系统，应怎样清晰提出需求？](https://www.v2ex.com/t/731274) ![](assets/new.png)  
-- [2020-12-02-昨天小米之家喜提-k30ultra，遇到几个问题想请教一下大家](https://www.v2ex.com/t/731273) ![](assets/new.png)  
-- [2020-12-02-office-365-一车位，希望长期合作](https://www.v2ex.com/t/731272) ![](assets/new.png)  
-- [2020-12-02-rixCloud/Tempest-全节点挂了](https://www.v2ex.com/t/731270) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-02 18:43:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 18:51:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -375,7 +375,6 @@
 
 - [【前端大学】File、Blob、dataURL-和-canvas-的应用与转换](https://www.ershicimi.com/p/eb9cad4fe60f2e2b607dcd4542b568b4)
 - [【前端迷】WebGL-水波及焦散（刻蚀）的渲染总结](https://www.ershicimi.com/p/09beabb4d4095136601674e205b1b893)
-- [【程序员成长指北】WebGL-水波及焦散（刻蚀）的渲染总结](https://www.ershicimi.com/p/1d72d07db9e8136d281bb1ad69f8c531)
 - [【张鑫旭-鑫空间-鑫生活】SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/)
 - [【凹凸实验室】图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/)
 - [【凹凸实验室】向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/)
@@ -530,7 +529,7 @@
 - [【V2EX】今晚上电面腾讯的一道算法题,求解](https://www.v2ex.com/t/731568)
 - [【V2EX】氦图-硅谷外企-人工智能-从-2-人到-40-人精英团队-急需全栈/前端/算法/数据/产品/设计师](https://www.v2ex.com/t/731553)
 - [【技术头条】网骗欺诈？网络裸奔？都是因为-HTTP？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14028&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F325807394%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct)
+- [【开发者头条】推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a)
 - [【安全热点】疯了?价值上万元“Web全栈架构师”正课免费?](https://sec.thief.one/article_content?a_id=ded3b99b32d14ae4af81c73e8e2394d3)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -585,6 +584,7 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】瞎折腾向没事捣鼓了一个使用-Github-Actions-来执行-ACME-的工作流](https://www.v2ex.com/t/731558)
+- [【开发者头条】推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

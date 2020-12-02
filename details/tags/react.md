@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-02 18:43:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 18:51:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -28,7 +28,6 @@
 - [2020-09-20-浅谈-React-中的-XSS-攻击](https://www.ershicimi.com/p/cf465a8944c2bbb107812b217cc74f63) 
 - [2020-11-27-React的7种代码异味译](https://www.ershicimi.com/p/418f2d41474116d54315dd9ed7683fbd) 
 - [2020-11-24-2020年，我是如何从一名Vueer转岗到React阵营区别分析与经验分享](https://www.ershicimi.com/p/3cdae10fdcd4eb881fda1bf5e016ee5c) 
-- [2020-11-22-Next.js-+Egg.js+React项目服务器部署超详解](https://www.ershicimi.com/p/0bba38649013df28365c907500c60af3) 
 - [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) 
 - [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) 
 - [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) 

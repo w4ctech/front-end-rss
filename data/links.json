@@ -19204,33 +19204,13 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
-        "link": "https://toutiao.io/k/qd3u4ct",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
-        "date": "2020-12-02"
-      },
-      {
         "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
         "link": "https://toutiao.io/k/5shq47n",
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
         "date": "2020-12-02"
       },
       {
@@ -19239,8 +19219,18 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
+        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
+        "link": "https://toutiao.io/k/4jzvanq",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
+        "link": "https://toutiao.io/k/wpo96pp",
         "date": "2020-12-02"
       },
       {
@@ -19249,8 +19239,13 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
+        "title": "[推荐] 分布式数据网格 Data Mesh",
+        "link": "https://toutiao.io/k/p6zp7x5",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 谈一谈程序员的职业发展路线",
+        "link": "https://toutiao.io/k/b2k5zax",
         "date": "2020-12-02"
       },
       {
@@ -19264,8 +19259,13 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 架构师之路：微服务技术选型",
-        "link": "https://toutiao.io/k/bxvxty9",
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-12-02"
       },
       {
@@ -19274,8 +19274,8 @@
         "date": "2020-12-02"
       },
       {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
         "date": "2020-12-02"
       }
     ]

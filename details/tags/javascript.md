@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-02 05:08:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 05:26:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -26,9 +26,9 @@
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2020-11-18-聊聊CommonJS与ES6-Module的使用与区别](https://www.ershicimi.com/p/4f80f6e07bdebb993be1630cf7c39137) 
 - [2020-11-17-最全的JavaScript常见的操作数组的函数方法宝典](https://www.ershicimi.com/p/d5e4739afdc43a658339cf949e2c0e1a) 
+- [2020-12-02-如何制作一个组件？论组件化思想](https://www.ershicimi.com/p/f1c457bae4c722f87a8752f26c03f15e) 
 - [2020-11-24-什么，lodash-的防抖失效了？](https://www.ershicimi.com/p/65413753e673bb9f714313968dc421e8) 
 - [2020-11-19-JavaScript-恩仇录](https://www.ershicimi.com/p/41ed5b43325fe24af5af9c1ff73e5e13) 
-- [2020-11-13-28-个-JavaScript-编程黑科技：还有这种操作！](https://www.ershicimi.com/p/a4536cf5ef35b85d72f882cb0a4a0d48) 
 - [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
@@ -86,7 +86,6 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-12-02-数组个数不确定，如何获取差异值](https://www.v2ex.com/t/731284) 
-- [2020-12-02-江湖救急！家里的小猫做了驱虫，但是身上还是会过一段事件就会瘙痒，有什么解决办法吗?](https://www.v2ex.com/t/731282) 
 - [2020-12-02-Android-轻量级无痕埋点事件监听-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14014&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYIICyzl59iOWfaQ-W0XIxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-02-如何实现对-ELK-各组件的监控？试试-Metricbeat](https://toutiao.io/k/wr0i0k9) 
 - [2020-12-01-【公告】JSRC十月月度英雄榜](https://sec.thief.one/article_content?a_id=d93f3c22dccf722406a498489063bbbb) 

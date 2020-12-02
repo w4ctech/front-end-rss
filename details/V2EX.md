@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-12-02 13:34:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 13:47:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-02-C#-调用-ADUser-Constructors](https://www.v2ex.com/t/731542) 
+- [2020-12-02-一次糟糕的微软产品体验（One-Drive）](https://www.v2ex.com/t/731541) 
+- [2020-12-02-拼多多的百亿补贴靠谱吗](https://www.v2ex.com/t/731540) 
+- [2020-12-02-M1-MBP-不插电一日办公续航](https://www.v2ex.com/t/731539) 
 - [2020-12-02-idea-插件开发](https://www.v2ex.com/t/731538) 
 - [2020-12-02-看到一个浏览器拟人化漫画感觉挺有意思。名字就叫-Internet-Explorer](https://www.v2ex.com/t/731537) 
 - [2020-12-02-MagSafe-双项充电器已经可以在官网购买，-1049-元](https://www.v2ex.com/t/731536) 
@@ -47,6 +51,3 @@
 - [2020-12-02-请教关于-Python-selenium-使用-firefox-指定-profiles-的问题](https://www.v2ex.com/t/731495) 
 - [2020-12-02-开发板的那些亚克力的壳，是怎么定制的？](https://www.v2ex.com/t/731494) 
 - [2020-12-02-M1-MacBook-退货时怎么清空系统](https://www.v2ex.com/t/731493) 
-- [2020-12-02-关于移民，做好阶层下行的准备了么-看有越南移民倾向有感](https://www.v2ex.com/t/731492) 
-- [2020-12-02-小米-10pro-刷机后，小米公交还能找回以前的公交卡吗？](https://www.v2ex.com/t/731490) 
-- [2020-12-02-为防止内容挂掉，保存网页好文到自己的博客，有哪些优雅的办法？](https://www.v2ex.com/t/731489) 

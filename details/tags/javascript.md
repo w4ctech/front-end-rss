@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 05:08:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 05:26:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -51,7 +51,6 @@
 - [2020-11-17-最全的JavaScript常见的操作数组的函数方法宝典](https://www.ershicimi.com/p/d5e4739afdc43a658339cf949e2c0e1a) 
 - [2020-12-02-如何制作一个组件？论组件化思想](https://www.ershicimi.com/p/f1c457bae4c722f87a8752f26c03f15e) 
 - [2020-11-24-什么，lodash-的防抖失效了？](https://www.ershicimi.com/p/65413753e673bb9f714313968dc421e8) 
-- [2020-11-19-JavaScript-恩仇录](https://www.ershicimi.com/p/41ed5b43325fe24af5af9c1ff73e5e13) 
 - [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
@@ -112,4 +111,5 @@
 - [2020-12-03-求推荐-MAC-最好用听歌不卡的蓝牙适配器...](https://www.v2ex.com/t/731704) 
 - [2020-12-03-Nginx-可不可以通过-Request-的消息头或者消息体中-json-的-value-进行不同分发？](https://www.v2ex.com/t/731697) 
 - [2020-12-03-为什么我这么写会报数组越界的错？](https://www.v2ex.com/t/731681) 
+- [2020-12-03-年度盘点二:2020年最严重的加密货币入侵事件](https://sec.thief.one/article_content?a_id=395d916157a3624f3b1fe5f719fb0a35) 
 - [2020-12-01-【公告】JSRC十月月度英雄榜](https://sec.thief.one/article_content?a_id=d93f3c22dccf722406a498489063bbbb) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-03 05:26:21，:rocket: 更新条数: +3915， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-03 05:34:59，:rocket: 更新条数: +3917， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-12-03-弱弱的问一句，-4G-的-macbook-air-现在还能用来干啥](https://www.v2ex.com/t/731725) ![](assets/new.png)  
+- [2020-12-03-在哪里买服务器划算呐？](https://www.v2ex.com/t/731724) ![](assets/new.png)  
 - [2020-12-03-在-spring-的项目中，是返回实体entity-还是-dto-好](https://www.v2ex.com/t/731722) ![](assets/new.png)  
 - [2020-12-03-对-Edge-Chromium-依旧很失望](https://www.v2ex.com/t/731721) ![](assets/new.png)  
 - [2020-12-03-请教懂手机的老哥。千元机或者多点买什么，用的久些不卡跟拍照。](https://www.v2ex.com/t/731720) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-12-03-求推荐-MAC-最好用听歌不卡的蓝牙适配器...](https://www.v2ex.com/t/731704) ![](assets/new.png)  
 - [2020-12-03-sql-问题,怎样将-null-值去掉,数据往上对齐](https://www.v2ex.com/t/731703) ![](assets/new.png)  
 - [2020-12-03-mac-上-iterm2-快捷键与-Chrome-的恢复页面冲突](https://www.v2ex.com/t/731702) ![](assets/new.png)  
-- [2020-12-03-Resso-相关职位](https://www.v2ex.com/t/731701) ![](assets/new.png)  
-- [2020-12-03-建立了一个前端求职内推微信群。已经满了-200-人了。](https://www.v2ex.com/t/731700) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1154,8 +1154,8 @@
 - [2020-12-03-没有共情能力的程序员不是好产品经理](https://toutiao.io/k/e5us9yp) ![](assets/new.png)  
 - [2020-12-03-如何部署一个生产级别的-Kubernetes-应用](https://toutiao.io/k/x8q1chg) ![](assets/new.png)  
 - [2020-12-03-HTTP-接口调试利器！4.8-万-Star-的-HTTP-命令行客户端](https://toutiao.io/k/m57a9qo) ![](assets/new.png)  
-- [2020-12-03-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
-- [2020-12-03-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
+- [2020-12-03-Java-8-的-Stream-用法](https://toutiao.io/k/de09mol) ![](assets/new.png)  
+- [2020-12-03-分布式一致性协议-Gossip](https://toutiao.io/k/a58kk7g) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

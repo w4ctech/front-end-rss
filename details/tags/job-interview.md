@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 02:48:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 03:04:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -38,4 +38,4 @@
 - [2020-11-30-Redis面试题汇总（附答案），面试突击专用](https://www.ershicimi.com/p/05760c6e919470ea52e1ddbc7754c0d9) 
 - [2020-11-28-面试官：String长度有限制吗？是多少？](https://www.ershicimi.com/p/b1152ace164188124e7eea9891b35cdf) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
-- [2020-12-02-子曰系列活动007期：杭州--前端跨界招聘局](https://juejin.im/post/6901855909492817927) 
+- [2020-12-03-招聘-深圳-非-996，来自美国洛杉矶宠物科技创业公司，寻找优秀的中高级前端研发人员（30k-60k](https://www.v2ex.com/t/731657) 

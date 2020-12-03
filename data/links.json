@@ -18770,11 +18770,6 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "最近几年梯子更成熟了吗？",
-        "link": "https://www.v2ex.com/t/731594",
-        "date": "2020-12-02"
-      },
-      {
         "title": "potplayer 调用 lav dxva2 播放 4k120hz hdr 只有 30 帧， dxva checker 调用 lav dxva2 播放同视频有 120 帧",
         "link": "https://www.v2ex.com/t/731592",
         "date": "2020-12-02"
@@ -19099,158 +19094,28 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "架构设计：分布式结构下，服务部署发布",
-        "link": "https://toutiao.io/k/34mzduc",
+        "title": "四种缓存的避坑总结",
+        "link": "https://toutiao.io/k/fzh8zfu",
         "date": "2020-12-03"
       },
       {
-        "title": "Spring Boot 2.4.0 正式发布，全新的配置文件加载机制（不向下兼容）",
-        "link": "https://toutiao.io/k/wqze2aq",
+        "title": "网骗欺诈？网络裸奔？都是因为 HTTP？",
+        "link": "https://toutiao.io/k/bahqqrr",
         "date": "2020-12-03"
       },
       {
-        "title": "ClickHouse 在大数据分析平台留存分析上的应用",
-        "link": "https://toutiao.io/k/43p1n50",
+        "title": "AutoExcel 实现百万数据秒级导入导出",
+        "link": "https://toutiao.io/k/ui65fqe",
         "date": "2020-12-03"
       },
       {
-        "title": "从烟囱式到 SOA 再到微服务，我把阿里面试官说懵了",
-        "link": "https://toutiao.io/k/otecb5i",
+        "title": "MySQL 查询性能优化前，必须先掌握 MySQL 索引理论",
+        "link": "https://toutiao.io/k/klmrzk8",
         "date": "2020-12-03"
       },
       {
-        "title": "从单元测试覆盖率看富领域模型到底有多富",
-        "link": "https://toutiao.io/k/84xy6p3",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "编程语言学习心得 （精简版）：不要害怕遗忘",
-        "link": "https://toutiao.io/k/ssh2p81",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "如何实现对 ELK 各组件的监控？试试 Metricbeat",
-        "link": "https://toutiao.io/k/wr0i0k9",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "理解协程、LiveData 和 Flow",
-        "link": "https://toutiao.io/k/tfgf7g6",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "图文带你理解 Apache Iceberg 时间旅行是如何实现的？",
-        "link": "https://toutiao.io/k/atxvudf",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "Flutter 组件学习（二）：Image",
-        "link": "https://toutiao.io/k/gqla7qh",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "程序员编程如何入门、进阶",
-        "link": "https://toutiao.io/k/16vw7iv",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "Helm 入门介绍：Kubernetes 上的包管理软件",
-        "link": "https://toutiao.io/k/w3vvt3a",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "QPS、TPS、RT、并发数、吞吐量理解和性能优化深入思考",
-        "link": "https://toutiao.io/k/e23a1e1",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "4 年时间才把粉丝增加到 1w，谈谈我的 Loser 之路",
-        "link": "https://toutiao.io/k/q6wtlv0",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "Golang 程序性能分析（二）：在 Echo 和 Gin 框架中使用 pprof",
-        "link": "https://toutiao.io/k/7d1us60",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "写给前端的 Jenkins 教程：快速实现前端/ Node.js 项目的 CI/CD",
-        "link": "https://toutiao.io/k/r1ik9h6",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "用 Python 爬取英雄联盟 (lol) 全部皮肤",
-        "link": "https://toutiao.io/k/my656mr",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "Spring Batch（九）：数据共享-上下文处理",
-        "link": "https://toutiao.io/k/l7u8li0",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "Flink 实战！Flink 常见问题定位指南",
-        "link": "https://toutiao.io/k/kskyntp",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "Pytest 实战",
-        "link": "https://toutiao.io/k/p6y5e1d",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
-        "link": "https://toutiao.io/k/qd3u4ct",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
-        "link": "https://toutiao.io/k/e5l3mqn",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
-        "link": "https://toutiao.io/k/5sw3syp",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
+        "title": "这些图灵奖主原来就藏在身边",
+        "link": "https://toutiao.io/k/k3uob96",
         "date": "2020-12-03"
       },
       {
@@ -19259,8 +19124,18 @@
         "date": "2020-12-03"
       },
       {
+        "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
+        "link": "https://toutiao.io/k/qd3u4ct",
+        "date": "2020-12-03"
+      },
+      {
         "title": "[推荐] 分布式一致性协议 Raft",
         "link": "https://toutiao.io/k/xydtpak",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 谈一谈程序员的职业发展路线",
+        "link": "https://toutiao.io/k/b2k5zax",
         "date": "2020-12-03"
       },
       {
@@ -19269,8 +19144,53 @@
         "date": "2020-12-03"
       },
       {
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
+        "date": "2020-12-03"
+      },
+      {
         "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
         "link": "https://toutiao.io/k/4jzvanq",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
+        "link": "https://toutiao.io/k/1k0udg9",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 分布式数据网格 Data Mesh",
+        "link": "https://toutiao.io/k/p6zp7x5",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
+        "link": "https://toutiao.io/k/e5l3mqn",
         "date": "2020-12-03"
       }
     ]
@@ -19280,6 +19200,76 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "程序员用 M1 MacBook 当主力开发机​是什么体验?",
+        "link": "https://sec.thief.one/article_content?a_id=cac8827a5a4dde70d77bf8c3eb8d1e93",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "物联网安全:数据安全",
+        "link": "https://sec.thief.one/article_content?a_id=27aa9fff74554e7bb5a060e69531b17a",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "侵犯用户个人信息权益!上海点名安居客爱回收等22款App",
+        "link": "https://sec.thief.one/article_content?a_id=28b4ab206489656ed2331e10f10d6a7d",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "集大成!10 种轻量级人脸检测算法的对比 ( 含源码 )",
+        "link": "https://sec.thief.one/article_content?a_id=036207894a710ba22e10289694c0a599",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "Office如何快速进行宏免杀",
+        "link": "https://sec.thief.one/article_content?a_id=598a07aa41623d3d04c2b0350dd94fb4",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "【安全圈】Docker 恶意软件泛滥,开发人员需谨慎",
+        "link": "https://sec.thief.one/article_content?a_id=58a93ac437f9e29c5a24db2257aed749",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "赛尔年会案例分享(一)丨智慧校园全角度安全体系防护",
+        "link": "https://sec.thief.one/article_content?a_id=ac446f5ad4ee3a1cc8c004cd799a1c69",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "【安全通知】知名端口转发工具rinetd遭高仿投毒",
+        "link": "https://sec.thief.one/article_content?a_id=9f09bd30febefff22a99a12a8b8b6fef",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "每日攻防资讯简报[Dec.2th]",
+        "link": "https://sec.thief.one/article_content?a_id=43395877983068c2d47bc18af62dad4b",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "奇安信集团荣获第八届CNCERT网络安全应急服务国家级优秀支撑单位",
+        "link": "https://sec.thief.one/article_content?a_id=9693168489ffe97db681bb489282ddae",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "Python 国产库推荐:musicpy",
+        "link": "https://sec.thief.one/article_content?a_id=cc86456b4184b7d68c9322065630f5d1",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "PyYAML反序列化防御和ByPass研究",
+        "link": "https://sec.thief.one/article_content?a_id=ac381348a95923cfe57e56aab8cc8e96",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "真正的程序员,从来不会告诉你这些事!",
+        "link": "https://sec.thief.one/article_content?a_id=4f63e3b805088833acfbb6f49b805a8a",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "Gartner如何定义防火墙的未来趋势?",
+        "link": "https://sec.thief.one/article_content?a_id=c7db082c8072c82ed8a94767e368e1b8",
+        "date": "2020-12-02"
+      },
       {
         "title": "ATT&CK系列-MITRE ATT&CK基本概念",
         "link": "https://sec.thief.one/article_content?a_id=7ce9f699465b785bc8c5b8d93f17182a",
@@ -19708,76 +19698,6 @@
       {
         "title": "暴富后的圈套",
         "link": "https://sec.thief.one/article_content?a_id=7ef4ae6b667f80b4d39717c1c6771b02",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "Gdevops北京站:数仓与中台建设、数据库国产化、AIOps,以及近10...",
-        "link": "https://sec.thief.one/article_content?a_id=c9864f7d8c88618416edca8078b9e0e1",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "来咯!12月13日,神奇的字节跳动攻防论坛报名开启",
-        "link": "https://sec.thief.one/article_content?a_id=4da87748b1393a21e346d45e48d7936f",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "中共中央政治局召开会议 习近平主持会议",
-        "link": "https://sec.thief.one/article_content?a_id=d7b60ed21ccf8c66e6b8006715294485",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "INSEC WORLD | CSO与创新,圆桌大咖秀",
-        "link": "https://sec.thief.one/article_content?a_id=6e1031c8646c64ef38fbf29230d2426a",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "《商业银行法》修订版出炉,银行面临更严格个人信息&数据安全监管",
-        "link": "https://sec.thief.one/article_content?a_id=8d0446a01b7f24116670648600588e1d",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "雷神众测漏洞周报 2020.11.23-2020.11.29-4",
-        "link": "https://sec.thief.one/article_content?a_id=80d07ab43b790c54599bebd973d600fd",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "Tether市值正在以几乎创纪录的速度增长",
-        "link": "https://sec.thief.one/article_content?a_id=c6d81cc0ef7f8c9e2b53f0e6ae5479cc",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "干货 |GitHUB安全搬运工 四",
-        "link": "https://sec.thief.one/article_content?a_id=4232fcbfebb4e912d9efe4f8e134df1c",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "美国最大连锁生育诊所宣称遭遇黑客勒索攻击 数据被盗",
-        "link": "https://sec.thief.one/article_content?a_id=93d177067c547620fda269725c0dc2ee",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "微步在线喜获工信部双认可!",
-        "link": "https://sec.thief.one/article_content?a_id=655dbcf6e5916f93fe81a2801195c7e3",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "K神手札:比特币调整势在必行,阴涨惑人心警惕M头",
-        "link": "https://sec.thief.one/article_content?a_id=f40dbe34cce1f8972cdfb0033b82ad85",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "CVE-2019-9295:Android NFC False Tag 漏洞的分析",
-        "link": "https://sec.thief.one/article_content?a_id=8ee7fd63eaa500fd755b14ab6b9ac353",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "第二届“网鼎杯”网络安全大赛收官,15强获奖名单公布",
-        "link": "https://sec.thief.one/article_content?a_id=9d138e0a47d4d5d4960a1841e723c4e3",
-        "date": "2020-11-30"
-      },
-      {
-        "title": "2030年人工智能网络安全市场产值将高达1018亿美元",
-        "link": "https://sec.thief.one/article_content?a_id=89a3f603c55bc99ca77e8e29e33fc2ed",
         "date": "2020-11-30"
       }
     ]

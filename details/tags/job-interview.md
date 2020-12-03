@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 00:08:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 00:18:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -39,4 +39,3 @@
 - [2020-12-02--FinTech-社区-招聘-|-期权量化研究](https://www.v2ex.com/t/731588) 
 - [2020-12-02--FinTech-社区-招聘-|-期权做市交易员（场内）](https://www.v2ex.com/t/731585) 
 - [2020-12-02--FinTech-社区-招聘-|-OTC-Trader-场外交易员）](https://www.v2ex.com/t/731584) 
-- [2020-12-03-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) 

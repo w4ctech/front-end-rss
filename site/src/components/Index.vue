@@ -173,7 +173,6 @@ export default {
       )
       const  templink =  await import('../../../data/links.json')
       if(data){
-        console.log(data,"links")
         var  links= data
       }else{
         var links = templink
@@ -184,7 +183,6 @@ export default {
       )
       const  temprss =  await import('../../../data/rss.json')
       if(rssJson){
-        console.log(rssJson.data,"rssJson")
         var rss= rssJson.data
       }else{
         var rss = temprss
@@ -195,7 +193,6 @@ export default {
       )
       const  temptags =  await import('../../../data/tags.json')
       if(tagsJson){
-        console.log(tagsJson.data,"tagsJson")
         var  tags= tagsJson.data
       }else{
         var  tags = temptags

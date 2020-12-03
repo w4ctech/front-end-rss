@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-12-03 01:57:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 02:04:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-03-windows-下-git-提交到-github，再从-github-拉取到服务器上，文件的所属用户组和权限这块如何处理？](https://www.v2ex.com/t/731624) 
+- [2020-12-03-同个打开音乐软件和某个-app，音乐软件会自动暂停，这种-app-是不是有什么猫腻？](https://www.v2ex.com/t/731623) 
 - [2020-12-03-你的密码泄漏了没？一键部署一个开源私有密码管理工具-Bitwarden](https://www.v2ex.com/t/731620) 
 - [2020-12-03-以自身经历支持起诉蛋壳的贴主](https://www.v2ex.com/t/731616) 
 - [2020-12-03-学了半天-vim，我宣布-vim-就不是地球人该用的东西](https://www.v2ex.com/t/731615) 
@@ -37,5 +39,3 @@
 - [2020-12-02-Amazon-EC2-Mac-Instances](https://www.v2ex.com/t/731578) 
 - [2020-12-02-程序员与业务的思考](https://www.v2ex.com/t/731577) 
 - [2020-12-02-想咨询-推理解密门店店长-或者-剧本工作室成员-一些问题~](https://www.v2ex.com/t/731575) 
-- [2020-12-02-技术求助：-Python-除了使用-opencv，还有没有其他方式拉取-rtsp-视频流和解码？-1080p30m-码率](https://www.v2ex.com/t/731574) 
-- [2020-12-02-按揭贷款转抵押贷款靠谱吗](https://www.v2ex.com/t/731573) 

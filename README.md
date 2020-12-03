@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-03 01:57:22，:rocket: 更新条数: +1021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-03 02:04:22，:rocket: 更新条数: +3908， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-12-03-12月2日全国新增确诊病例16例-均为境外输入](https://m.caixin.com/m/2020-12-03/101635033.html) ![](assets/new.png)  
+- [2020-12-03-大流行手记|12月2日：英率先批准辉瑞疫苗上市-日修法支持国民免费打疫苗](https://m.caixin.com/m/2020-12-03/101635045.html) ![](assets/new.png)  
+- [2020-12-02-香港日增病例再破百-全港市民可免费接种新冠疫苗](http://m.china.caixin.com/m/2020-12-02/101634970.html) ![](assets/new.png)  
+- [2020-12-02-最新海外疫情：新冠感染超6374万-累计死亡超147万](http://m.international.caixin.com/m/2020-12-02/101634868.html) ![](assets/new.png)  
+- [2020-12-02-【境内疫情观察】青岛新增2例本土无症状感染者（12月1日）](http://m.database.caixin.com/m/2020-12-02/101634784.html) ![](assets/new.png)  
+- [2020-12-02-大流行手记|12月1日：美国2019年底或已出现新冠感染-韩国再上调防疫级别](https://m.caixin.com/m/2020-12-02/101634640.html) ![](assets/new.png)  
+- [2020-12-01-【境内疫情观察】内蒙古新增4例本土确诊病例（11月30日）](http://m.database.caixin.com/m/2020-12-01/101634347.html) ![](assets/new.png)  
+- [2020-12-01-大流行手记|11月30日：英滚动审评阿斯利康疫苗-Moderna疫苗申请紧急使用](https://m.caixin.com/m/2020-12-01/101634135.html) ![](assets/new.png)  
+- [2020-11-30-香港再收紧防疫措施-特首称全民强制检测“不可行”](http://m.china.caixin.com/m/2020-11-30/101634057.html) ![](assets/new.png)  
+- [2020-11-30-【境内疫情观察】内蒙古新增3例本土确诊病例（11月29日）](http://m.database.caixin.com/m/2020-11-30/101633865.html) ![](assets/new.png)  
+- [2020-11-30-大流行手记|11月29日：美国日增病例过20万-俄军大规模接种新冠疫苗](https://m.caixin.com/m/2020-11-30/101633739.html) ![](assets/new.png)  
+- [2020-11-29-一韩籍员工出境后核酸阳性-所在重庆企业停产](https://m.caixin.com/m/2020-11-29/101633619.html) ![](assets/new.png)  
+- [2020-11-29-香港日增115宗新冠病例-幼儿园中小学停课至12月底](https://m.caixin.com/m/2020-11-29/101633672.html) ![](assets/new.png)  
+- [2020-11-29-【境内疫情观察】全国新增11例境外输入病例（11月28日）](http://m.database.caixin.com/m/2020-11-29/101633629.html) ![](assets/new.png)  
+- [2020-11-29-大流行手记|11月28日：阿斯利康新冠疫苗或延迟上市-欧美迎萧条圣诞季](https://m.caixin.com/m/2020-11-29/101633597.html) ![](assets/new.png)  
+- [2020-11-28-【境内疫情观察】全国新增6例境外输入病例（11月27日）](http://m.database.caixin.com/m/2020-11-28/101633496.html) ![](assets/new.png)  
+- [2020-11-28-大流行手记|11月27日：东南亚国家积极采购疫苗-美四成新冠死者出自养老院](https://m.caixin.com/m/2020-11-28/101633388.html) ![](assets/new.png)  
+- [2020-11-28-聚焦|张文宏：新冠+流感，合并感染冬季常见无须恐惧](http://m.opinion.caixin.com/m/2020-11-28/101633435.html) ![](assets/new.png)  
+- [2020-11-27-独家|专家解读喀什疫情感染路径-货运车内壁检出病毒](https://m.caixin.com/m/2020-11-27/101633087.html) ![](assets/new.png)  
+- [2020-11-27-钟南山建议香港再次推行全民检测](https://m.caixin.com/m/2020-11-27/101633024.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1054,6 +1074,8 @@
 </summary>
 
 
+- [2020-12-03-windows-下-git-提交到-github，再从-github-拉取到服务器上，文件的所属用户组和权限这块如何处理？](https://www.v2ex.com/t/731624) ![](assets/new.png)  
+- [2020-12-03-同个打开音乐软件和某个-app，音乐软件会自动暂停，这种-app-是不是有什么猫腻？](https://www.v2ex.com/t/731623) ![](assets/new.png)  
 - [2020-12-03-你的密码泄漏了没？一键部署一个开源私有密码管理工具-Bitwarden](https://www.v2ex.com/t/731620) ![](assets/new.png)  
 - [2020-12-03-以自身经历支持起诉蛋壳的贴主](https://www.v2ex.com/t/731616) ![](assets/new.png)  
 - [2020-12-03-学了半天-vim，我宣布-vim-就不是地球人该用的东西](https://www.v2ex.com/t/731615) ![](assets/new.png)  
@@ -1072,8 +1094,6 @@
 - [2020-12-03-蛋壳事件后续,微众银行截止-2023-年-12-月-31-日前不扣款不上征信](https://www.v2ex.com/t/731598) ![](assets/new.png)  
 - [2020-12-03-大家不要骂我-我就想问问-有没有跟坚果去一样好用，但是不要钱的同步盘。。。。。。。](https://www.v2ex.com/t/731595) ![](assets/new.png)  
 - [2020-12-02-potplayer-调用-lav-dxva2-播放-4k120hz-hdr-只有-30-帧，-dxva-checker-调用-lav-dxva2-播放同视频有-120-帧](https://www.v2ex.com/t/731592) ![](assets/new.png)  
-- [2020-12-02-C-语言指针传递的问题](https://www.v2ex.com/t/731591) ![](assets/new.png)  
-- [2020-12-02-同时使用罗技-G613-和-G603-的问题](https://www.v2ex.com/t/731590) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,6 +1105,7 @@
 </summary>
 
 
+- [2020-12-03-太平鸟上云-推动中国服饰行业新零售转型-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14033&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8471%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-03-高德“一键”上云-实现核心数据“3点产出”-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14032&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-03-蒂森克虏伯上云-加速跨境访问-、降低网络延时-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14031&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7322%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-03-游戏公司通过云分期-保障业务如期上线-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14030&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9364%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1104,7 +1125,6 @@
 - [2020-12-03-Bug-Report该怎么做？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14016&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-do-bug-report%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-03-2020双11，Dubbo3.0-在考拉的超大规模实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14015&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778827%3Futm_content%3Dg_1000211597%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-03-Android-轻量级无痕埋点事件监听-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14014&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYIICyzl59iOWfaQ-W0XIxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-三年经验-Android-开发面经总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14013&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCiO_T95JWA-ijKghrnCQzw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1121,21 +1141,21 @@
 - [2020-12-03-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) ![](assets/new.png)  
 - [2020-12-03-网骗欺诈？网络裸奔？都是因为-HTTP？](https://toutiao.io/k/bahqqrr) ![](assets/new.png)  
 - [2020-12-03-这些图灵奖主原来就藏在身边](https://toutiao.io/k/k3uob96) ![](assets/new.png)  
-- [2020-12-03-Leveldb-基本介绍和使用指南](https://toutiao.io/k/k3xg4bp) ![](assets/new.png)  
 - [2020-12-03-又是一年-“剁手季”，4982-亿背后的秘密，你一定不知道](https://toutiao.io/k/aeh1ryr) ![](assets/new.png)  
+- [2020-12-03-Leveldb-基本介绍和使用指南](https://toutiao.io/k/k3xg4bp) ![](assets/new.png)  
 - [2020-12-03-如何编写一个-CSI-插件](https://toutiao.io/k/k5e6mg2) ![](assets/new.png)  
 - [2020-12-03-工具-|-腾讯开源的云原生一体化部署工具](https://toutiao.io/k/gydx5fk) ![](assets/new.png)  
 - [2020-12-03-Flink-SQL-实战：HBase-的结合应用](https://toutiao.io/k/1v502p6) ![](assets/new.png)  
 - [2020-12-03-硬核万字解读：Kotlin-协程原理解析](https://toutiao.io/k/vtq5kjj) ![](assets/new.png)  
 - [2020-12-03-译-利用-eBPF-支撑大规模-K8s-Service-LPC,-2019](https://toutiao.io/k/s1uqlv5) ![](assets/new.png)  
-- [2020-12-03-业务价值驱动的测试](https://toutiao.io/k/ec86a4k) ![](assets/new.png)  
+- [2020-12-03-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
 - [2020-12-03-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) ![](assets/new.png)  
+- [2020-12-03-业务价值驱动的测试](https://toutiao.io/k/ec86a4k) ![](assets/new.png)  
 - [2020-12-03-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
-- [2020-12-03-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
-- [2020-12-03-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
-- [2020-12-03-推荐-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
-- [2020-12-03-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
-- [2020-12-03-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
+- [2020-12-03-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
+- [2020-12-03-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
+- [2020-12-03-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
+- [2020-12-03-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

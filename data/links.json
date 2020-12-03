@@ -18157,6 +18157,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "不想浪费时代机遇，这群内心狂野的程序员用5年时间把产品卖到了全球",
+        "link": "https://www.ershicimi.com/p/6e9d90531c12d2a19af9737243fdfe74",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "“云原生”趋势下的架构演进，及架构师的关注点分离",
+        "link": "https://www.ershicimi.com/p/2db025d97d6067cd49312b47c8bc6a5a",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "云原生2.0时代，厦门企业开启数字化转型的实践探索",
+        "link": "https://www.ershicimi.com/p/814606103707fb89a64ec55ac87616d2",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "投身蓝海，拥抱生态：百度大牛带你玩转小程序",
+        "link": "https://www.ershicimi.com/p/aff9749b33aa7f306f9978c0d6dc8b18",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "揭秘《财富》 1000强公司的技术栈",
+        "link": "https://www.ershicimi.com/p/76ed46c43ea9233782fffc925b60efc3",
+        "date": "2020-12-03"
+      },
+      {
         "title": "2020年度一线大厂创新技术实践盘点 ｜ QCon",
         "link": "https://www.ershicimi.com/p/907d0ce79f225973a4c84c30e2210ed4",
         "date": "2020-12-02"
@@ -18230,31 +18255,6 @@
         "title": "为什么90%的机器学习模型从未应用于生产？",
         "link": "https://www.ershicimi.com/p/86edbfbaa85c84b2634f9632e2e0310a",
         "date": "2020-11-30"
-      },
-      {
-        "title": "被嫌弃的35岁程序员",
-        "link": "https://www.ershicimi.com/p/197a4d9aa9308c6a3c40b2270bb71267",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解",
-        "link": "https://www.ershicimi.com/p/8bbe958abf1f27a9a3a9bd26db78d335",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "AI 如何赋能摄像机？这场沙龙为你解锁“软件定义”新概念",
-        "link": "https://www.ershicimi.com/p/87c50836f7ecb431cb7cf3ea7ef1c978",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "不是 AI 科学家，就无法训练高精度 AI 模型？| 【约会飞桨】闭门分享",
-        "link": "https://www.ershicimi.com/p/e4ffad95a53b3b8f6564caded93bc0eb",
-        "date": "2020-11-29"
-      },
-      {
-        "title": "京东单方面辞退38岁P7员工三次败诉；小米高管因错误言论致歉请辞；腾讯向抖音发300封律师函 | Q",
-        "link": "https://www.ershicimi.com/p/0146134db4940cc084aea9313b06930a",
-        "date": "2020-11-28"
       }
     ]
   },
@@ -18780,6 +18780,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大家怎么看（（大家怎么看待知乎的这个回答（如何看待微信朋友圈里这种论调「孩子，我宁愿欠你一个快乐的少年，也不愿看到你卑微的成年」？）的回答）",
+        "link": "https://www.v2ex.com/t/731960",
+        "date": "2020-12-03"
+      },
+      {
         "title": "每日上传 教娃编程视频",
         "link": "https://www.v2ex.com/t/731958",
         "date": "2020-12-03"
@@ -18977,11 +18982,6 @@
       {
         "title": "为什么 arm 架构的设备需要各种适配？",
         "link": "https://www.v2ex.com/t/731911",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "nodejs 可以打包成可执行文件吗",
-        "link": "https://www.v2ex.com/t/731910",
         "date": "2020-12-03"
       }
     ]
@@ -19199,13 +19199,8 @@
         "date": "2020-12-03"
       },
       {
-        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
-        "link": "https://toutiao.io/k/5sw3syp",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
+        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
+        "link": "https://toutiao.io/k/e5l3mqn",
         "date": "2020-12-03"
       },
       {
@@ -19214,33 +19209,13 @@
         "date": "2020-12-03"
       },
       {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
+        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
+        "link": "https://toutiao.io/k/5sw3syp",
         "date": "2020-12-03"
       },
       {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
-        "link": "https://toutiao.io/k/qd3u4ct",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
-        "link": "https://toutiao.io/k/e5l3mqn",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 程序员必知必会的十大排序算法",
-        "link": "https://toutiao.io/k/zoyne3a",
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
         "date": "2020-12-03"
       },
       {
@@ -19249,18 +19224,13 @@
         "date": "2020-12-03"
       },
       {
+        "title": "[推荐] 程序员必知必会的十大排序算法",
+        "link": "https://toutiao.io/k/zoyne3a",
+        "date": "2020-12-03"
+      },
+      {
         "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
         "link": "https://toutiao.io/k/55mybdz",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
-        "link": "https://toutiao.io/k/5shq47n",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
         "date": "2020-12-03"
       },
       {
@@ -19269,8 +19239,38 @@
         "date": "2020-12-03"
       },
       {
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
+        "link": "https://toutiao.io/k/qd3u4ct",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
+        "date": "2020-12-03"
+      },
+      {
         "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
         "link": "https://toutiao.io/k/4jzvanq",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
+        "link": "https://toutiao.io/k/5stu129",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
+        "link": "https://toutiao.io/k/wpo96pp",
         "date": "2020-12-03"
       }
     ]

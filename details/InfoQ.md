@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-12-03 23:34:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 23:47:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-12-03-不想浪费时代机遇，这群内心狂野的程序员用5年时间把产品卖到了全球](https://www.ershicimi.com/p/6e9d90531c12d2a19af9737243fdfe74) 
+- [2020-12-03-“云原生”趋势下的架构演进，及架构师的关注点分离](https://www.ershicimi.com/p/2db025d97d6067cd49312b47c8bc6a5a) 
+- [2020-12-03-云原生2.0时代，厦门企业开启数字化转型的实践探索](https://www.ershicimi.com/p/814606103707fb89a64ec55ac87616d2) 
+- [2020-12-03-投身蓝海，拥抱生态：百度大牛带你玩转小程序](https://www.ershicimi.com/p/aff9749b33aa7f306f9978c0d6dc8b18) 
+- [2020-12-03-揭秘《财富》-1000强公司的技术栈](https://www.ershicimi.com/p/76ed46c43ea9233782fffc925b60efc3) 
 - [2020-12-02-2020年度一线大厂创新技术实践盘点-｜-QCon](https://www.ershicimi.com/p/907d0ce79f225973a4c84c30e2210ed4) 
 - [2020-12-02-斥资-277-亿美元收购-Slack，Salesforce-这一次的目标是微软？](https://www.ershicimi.com/p/b6b6197f5552522611997ada4255c7a3) 
 - [2020-12-02-漫画：什么是-“智能供应链”-？-|-Q推荐](https://www.ershicimi.com/p/1210c6139f942a605fbf09748d86cfb3) 
@@ -20,8 +25,3 @@
 - [2020-11-30-6-岁！是时候重新认识下-Serverless-了](https://www.ershicimi.com/p/6a71ab7deaa50fa30a39e76e13b4a0d4) 
 - [2020-11-30-旗舰版的技术盛会，SAP-TechEd-全球技术大会即将在线登场！｜-Q推荐](https://www.ershicimi.com/p/b96ac62e54f7ade8db3a1351551edca9) 
 - [2020-11-30-为什么90%的机器学习模型从未应用于生产？](https://www.ershicimi.com/p/86edbfbaa85c84b2634f9632e2e0310a) 
-- [2020-11-29-被嫌弃的35岁程序员](https://www.ershicimi.com/p/197a4d9aa9308c6a3c40b2270bb71267) 
-- [2020-11-29-将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解](https://www.ershicimi.com/p/8bbe958abf1f27a9a3a9bd26db78d335) 
-- [2020-11-29-AI-如何赋能摄像机？这场沙龙为你解锁“软件定义”新概念](https://www.ershicimi.com/p/87c50836f7ecb431cb7cf3ea7ef1c978) 
-- [2020-11-29-不是-AI-科学家，就无法训练高精度-AI-模型？|-【约会飞桨】闭门分享](https://www.ershicimi.com/p/e4ffad95a53b3b8f6564caded93bc0eb) 
-- [2020-11-28-京东单方面辞退38岁P7员工三次败诉；小米高管因错误言论致歉请辞；腾讯向抖音发300封律师函-|-Q](https://www.ershicimi.com/p/0146134db4940cc084aea9313b06930a) 

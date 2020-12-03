@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-03 03:38:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 03:49:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -389,7 +389,6 @@
 - [【凹凸实验室】探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
-- [【V2EX】华为河图项目-Cyberverse-招聘帖/内推帖-base-上海,北京-U3D-开发，-Unity-技术美术，软件开发，软件架构师等岗位](https://www.v2ex.com/t/731644)
 - [【安全热点】12月2日GUIBI早内参-ETH2.0创世区块已经启动,Facebook已将Libra...](https://sec.thief.one/article_content?a_id=27dfb2d83632af563ffbbfb01a45ad90)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
@@ -529,7 +528,6 @@
 - [【互联网架构师】图解ElasticSearch-搜索原理](https://www.ershicimi.com/p/004a1ad76ab30b0657f69117c7835164)
 - [【技术头条】网骗欺诈？网络裸奔？都是因为-HTTP？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14028&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F325807394%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】网骗欺诈？网络裸奔？都是因为-HTTP？](https://toutiao.io/k/bahqqrr)
-- [【开发者头条】推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a)
 - [【开发者头条】推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct)
 - [【安全热点】集大成!10-种轻量级人脸检测算法的对比-含源码-](https://sec.thief.one/article_content?a_id=036207894a710ba22e10289694c0a599)
 - [【安全热点】疯了?价值上万元“Web全栈架构师”正课免费?](https://sec.thief.one/article_content?a_id=ded3b99b32d14ae4af81c73e8e2394d3)
@@ -552,7 +550,6 @@
 - [【前端瓶子君】前端看得懂的《Nginx-入门指南》](https://www.ershicimi.com/p/c0982d6a5e505cb3e54a72ff5319d213)
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
-- [【开发者头条】推荐-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o)
 - [【安全热点】Docker容器逃逸漏洞-CVE-2020-15257-风险提示](https://sec.thief.one/article_content?a_id=6a6b5d7fd2f1997d88e3a41169409422)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -586,6 +583,7 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】github-里面，能够看到我参与的帖子么？](https://www.v2ex.com/t/731659)
+- [【开发者头条】推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 06:52:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 07:04:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -38,5 +38,4 @@
 - [2020-11-28-面试官：String长度有限制吗？是多少？](https://www.ershicimi.com/p/b1152ace164188124e7eea9891b35cdf) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-12-03-HR-为什么要卡学历？不就是一个管招聘的打工仔吗，精神资本家。](https://www.v2ex.com/t/731762) 
-- [2020-12-03-成都-（全职非外包）北京凯普顿医药科技开发有限公司招聘-大数据开发](https://www.v2ex.com/t/731713) 
 - [2020-12-03-【美团招聘】冬季专场Vol.2——24个职位已上新!](https://sec.thief.one/article_content?a_id=32bcb4a76f73691a20849cee10277371) 

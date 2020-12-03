@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 14:36:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 14:48:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -37,6 +37,7 @@
 - [2020-11-30-Redis面试题汇总（附答案），面试突击专用](https://www.ershicimi.com/p/05760c6e919470ea52e1ddbc7754c0d9) 
 - [2020-11-28-面试官：String长度有限制吗？是多少？](https://www.ershicimi.com/p/b1152ace164188124e7eea9891b35cdf) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
+- [2020-12-03--FinTech-社区-招聘-|-Java-开发工程师-领先期货公司](https://www.v2ex.com/t/731924) 
 - [2020-12-03--FinTech-社区-招聘-|-HR-Manager---领先量化交易公司](https://www.v2ex.com/t/731921) 
 - [2020-12-03-海外招聘，编程员两位](https://www.v2ex.com/t/731918) 
 - [2020-12-03--FinTech-社区-招聘-|-HR-领先对冲基金-深圳](https://www.v2ex.com/t/731917) 

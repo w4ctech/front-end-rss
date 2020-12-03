@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 14:36:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 14:48:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -85,6 +85,5 @@
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-12-03-为何安卓手机的-Chrome-浏览器无法播放-WWDC-视频？](https://www.v2ex.com/t/731887) 
-- [2020-12-03-基于-Python--Vlc-的全能播放器-CvPlayer](https://www.v2ex.com/t/731874) 
 - [2020-12-03-今晚直播预告丨红队大佬亲临直播间,传授建设之道!](https://sec.thief.one/article_content?a_id=1e802e1181fbb156dee58699e78f7294) 
 - [2020-12-02-直播倒计时1天！专家大咖助阵、科技企业云集，预见工业物联新未来](https://www.ershicimi.com/p/0e59a6eb373ad201caa5279c6cd39118) 

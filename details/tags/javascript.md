@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 08:50:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 09:04:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -47,6 +47,7 @@
 - [2020-11-27-秒杀其他按键精灵，支持VS-Code，这个JavaScript自动化软件居然还有人不知道](https://www.ershicimi.com/p/f76effaad3eb74efbc821daed09e3e56) 
 - [2020-11-19-4个未听说过的强大JavaScript操作符](https://www.ershicimi.com/p/48072897b25f071216dfda9dbfe58fa7) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
+- [2020-11-30-20个常用的JavaScript简写技巧](https://www.ershicimi.com/p/6b8b236e7590540836c7997b516e944e) 
 - [2020-11-18-聊聊CommonJS与ES6-Module的使用与区别](https://www.ershicimi.com/p/4f80f6e07bdebb993be1630cf7c39137) 
 - [2020-11-17-最全的JavaScript常见的操作数组的函数方法宝典](https://www.ershicimi.com/p/d5e4739afdc43a658339cf949e2c0e1a) 
 - [2020-12-02-如何制作一个组件？论组件化思想](https://www.ershicimi.com/p/f1c457bae4c722f87a8752f26c03f15e) 
@@ -114,6 +115,5 @@
 - [2020-12-03-有前端帮忙看下为什么这会出现滚动条吗？](https://www.v2ex.com/t/731809) 
 - [2020-12-03-Python-异步网络请求，图像识别](https://www.v2ex.com/t/731798) 
 - [2020-12-03-油猴插件-google-hit-hider-by-domain-失效了？-block-按钮消失了](https://www.v2ex.com/t/731786) 
-- [2020-12-03-js-或者-ts-项目当中是如何自定义文件扩展名的？](https://www.v2ex.com/t/731773) 
 - [2020-12-03-年度盘点二:2020年最严重的加密货币入侵事件](https://sec.thief.one/article_content?a_id=395d916157a3624f3b1fe5f719fb0a35) 
 - [2020-12-01-【公告】JSRC十月月度英雄榜](https://sec.thief.one/article_content?a_id=d93f3c22dccf722406a498489063bbbb) 

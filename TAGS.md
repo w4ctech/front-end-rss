@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-03 08:50:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 09:04:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -139,7 +139,7 @@
 - [【前端大全】一文带你快速上手-Rollup](https://www.ershicimi.com/p/25e4cb6db8b4e736672d787432ff42b0)
 - [【前端开发博客】webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320)
 - [【前端大学】Angular-11正式发布：加入webpack-5，升级至TS-4.0，不再支持IE-9-和10](https://www.ershicimi.com/p/f382c40434f5c7ec2b435aaf5dce5868)
-- [【前端之巅】Angular-11-正式发布：加入-webpack-5，升级至-TS-4.0，不再支持-IE-9](https://www.ershicimi.com/p/4b777bfc7d41a8326518985898c3e6a0)
+- [【前端之巅】NPM-7：这才算是真正的更新](https://www.ershicimi.com/p/2b8c09b383367819c9ceff69417a3412)
 - [【政采云前端团队】npm-依赖管理中被忽略的那些细节](https://www.ershicimi.com/p/dbc75e14c0a00bf3a7a748722c7077b2)
 - [【前端瓶子君】webpack的异步加载原理及分包策略](https://www.ershicimi.com/p/d952c0bf8dce57bb869fce98de61ff08)
 - [【凹凸实验室】Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/)
@@ -173,7 +173,6 @@
 - [【前端大全】万物皆可快速上手之Electron第一弹](https://www.ershicimi.com/p/494577e39d9d70cad1d01e605399e03a)
 - [【前端外刊评论】nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c)
 - [【前端之巅】Electron-11-正式发布：支持苹果-M1-芯片](https://www.ershicimi.com/p/ccf56db0949f80eed83e17e1545b4262)
-- [【前端之巅】怎样从Express-API发送一致的错误响应](https://www.ershicimi.com/p/f2dc7a4fd3838dfa92c7cda398fd4441)
 - [【政采云前端团队】如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082)
 - [【程序员成长指北】写给前端的-Jenkins-教程——快速实现前端/-Node.js-项目的-CI/CD](https://www.ershicimi.com/p/996261327022b35565cf5a2bfa4e2c46)
 - [【程序员成长指北】Node.js-Serverless-助力业务研发提效-38.89%，并保障双11大流量下稳定可靠](https://www.ershicimi.com/p/b36040d27d3659483da4d97dd0a09328)
@@ -189,6 +188,7 @@
 - [【Nodejs技术栈】看到某某大神分享的-Node-干货，怀疑自己是不是又掉队了？](https://www.ershicimi.com/p/d8b25533765e1712955c83e766153a9b)
 - [【Nodejs技术栈】树莓派-+-Node.js-造一个有灵魂的语音助手](https://www.ershicimi.com/p/4c780d041b132fd53cc93ba0d1fbe479)
 - [【Nodejs技术栈】Node.js-v14.15.0-已发布进入-LTS-长期支持](https://www.ershicimi.com/p/f81434601f21c7f9618b604e347e97fe)
+- [【Nodejs技术栈】Node.js-v15.0.0-is-here!](https://www.ershicimi.com/p/7fdd5343e000267c418d5ad709a4f8ab)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -209,7 +209,6 @@
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【前端之巅】场景构造难，编译很耗时？看小程序业务如何提高效研发](https://www.ershicimi.com/p/9b7cbb4fcfbacff8537b77efb5a0295b)
-- [【前端之巅】小程序大商机，低门槛hold全栈开发怎么做？-|-活动推荐](https://www.ershicimi.com/p/13f06abcc1bcb7e459dba8ff576bba44)
 - [【全栈前端精选】大型小程序如何研发提效](https://www.ershicimi.com/p/99af0a3a474bf38889fa0f185a6c32f2)
 - [【凹凸实验室】京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/)
 - [【凹凸实验室】Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/)
@@ -225,6 +224,7 @@
 - [【凹凸实验室】GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/)
 - [【凹凸实验室】Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/)
 - [【凹凸实验室】玩转-Taro-跨端之-flex-布局篇](https://aotu.io/notes/2019/09/25/taro-flex/)
+- [【凹凸实验室】邀您参加「Taro-x-小程序·云开发」物料开发竞赛](https://aotu.io/notes/2019/07/01/taro-ext-action/)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -241,9 +241,8 @@
 
 
 
+- [【前端之巅】如何使用BLoC架构开发Flutter应用](https://www.ershicimi.com/p/5c11306e2c96c52a90888eaf667f9f83)
 - [【前端之巅】Flutter状态State的5种应对方法](https://www.ershicimi.com/p/45fff8577709ea71dcfaa006792f1794)
-- [【前端之巅】Flutter-的新功能、Dart-开发工具以及一行神奇的-CSS-代码-|-Google-开发者大](https://www.ershicimi.com/p/5483cd860f06ab512105bd635bd4e75c)
-- [【前端之巅】2020-Google-开发者大会：Android-和-Flutter-有哪些更新？](https://www.ershicimi.com/p/c486b9ef916ed065f5768e34fe9b94c5)
 - [【前端瓶子君】Flutter-的可视化界面、绘制性能调优-——-DevTools](https://www.ershicimi.com/p/3c7fb050d47b6d7727aee11dc2e399f3)
 - [【凹凸实验室】Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/)
 - [【凹凸实验室】Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/)
@@ -449,7 +448,6 @@
 - [【前端早读课】【第2035期】边缘渲染在首屏性能优化上的尝试与突破](https://www.ershicimi.com/p/bb8d351c9ca8d03b89bee068a1522578)
 - [【前端大学】图片懒加载从简单到复杂](https://www.ershicimi.com/p/5c1149cdd78fd700b22014239994a291)
 - [【前端之巅】PHP-8.0重大版本更新正式发布：支持JIT编译器，性能提升高达3倍](https://www.ershicimi.com/p/fde617f4de8741e04807c67be11b156b)
-- [【前端之巅】从0开始快速上手WebAssembly：打造基于WASM的高性能安全沙盒](https://www.ershicimi.com/p/f685041d75bc49c89f432c79377d79e4)
 - [【前端迷】前端性能优化-24-条建议（2020）](https://www.ershicimi.com/p/16fae320bad6ffa073196dcf8c778d76)
 - [【全栈前端精选】图片懒加载从简单到复杂](https://www.ershicimi.com/p/3040dc77ae0d37b04ac525718c229733)
 - [【政采云前端团队】如何从-0-到-1-搭建性能检测系统修正版](https://www.ershicimi.com/p/caf97cfac5fe753a40ff1f199bf6abfe)
@@ -463,6 +461,7 @@
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【互联网架构师】我的天！！线上千万级大表排序，如何优化？](https://www.ershicimi.com/p/770ea2401f6e0d667fefa4a9bcffb49d)
+- [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -519,6 +518,7 @@
 - [【前端早读课】【招聘】微信对话开放平台招全栈前端工程师](https://www.ershicimi.com/p/465309510c4c6aef0847cb22f3f17644)
 - [【前端早读课】【第2131期】网络应用如何工作：HTTP和服务器](https://www.ershicimi.com/p/956821e6956083787a1fe167ae794462)
 - [【前端大学】AST-实现函数错误自动上报](https://www.ershicimi.com/p/e9402aca3549ada55b9eeb135bfda497)
+- [【前端之巅】前端开发者正在被迫成为全栈开发人员](https://www.ershicimi.com/p/2249d2d3f3b9bd8ac9346fd90673ecc1)
 - [【凹凸实验室】波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/)
 - [【凹凸实验室】GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/)
 - [【凹凸实验室】vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/)
@@ -585,6 +585,7 @@
 - [【互联网架构师】别乱提交代码了，你必须知道的-Git-分支开发规范！](https://www.ershicimi.com/p/0354a8990fd39aeb32a08ffa5f027fa6)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【开发者头条】推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

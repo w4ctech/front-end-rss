@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 08:50:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 09:04:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -11,7 +11,6 @@
 - [2020-11-23-万物皆可快速上手之Electron第一弹](https://www.ershicimi.com/p/494577e39d9d70cad1d01e605399e03a) 
 - [2020-04-07-nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c) 
 - [2020-11-25-Electron-11-正式发布：支持苹果-M1-芯片](https://www.ershicimi.com/p/ccf56db0949f80eed83e17e1545b4262) 
-- [2020-11-19-怎样从Express-API发送一致的错误响应](https://www.ershicimi.com/p/f2dc7a4fd3838dfa92c7cda398fd4441) 
 - [2020-08-02-如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082) 
 - [2020-11-30-写给前端的-Jenkins-教程——快速实现前端/-Node.js-项目的-CI/CD](https://www.ershicimi.com/p/996261327022b35565cf5a2bfa4e2c46) 
 - [2020-11-28-Node.js-Serverless-助力业务研发提效-38.89%，并保障双11大流量下稳定可靠](https://www.ershicimi.com/p/b36040d27d3659483da4d97dd0a09328) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 08:50:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 09:04:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -13,7 +13,7 @@
 - [2020-11-26-一文带你快速上手-Rollup](https://www.ershicimi.com/p/25e4cb6db8b4e736672d787432ff42b0) 
 - [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) 
 - [2020-11-25-Angular-11正式发布：加入webpack-5，升级至TS-4.0，不再支持IE-9-和10](https://www.ershicimi.com/p/f382c40434f5c7ec2b435aaf5dce5868) 
-- [2020-11-18-Angular-11-正式发布：加入-webpack-5，升级至-TS-4.0，不再支持-IE-9](https://www.ershicimi.com/p/4b777bfc7d41a8326518985898c3e6a0) 
+- [2020-12-02-NPM-7：这才算是真正的更新](https://www.ershicimi.com/p/2b8c09b383367819c9ceff69417a3412) 
 - [2020-08-23-npm-依赖管理中被忽略的那些细节](https://www.ershicimi.com/p/dbc75e14c0a00bf3a7a748722c7077b2) 
 - [2020-11-30-webpack的异步加载原理及分包策略](https://www.ershicimi.com/p/d952c0bf8dce57bb869fce98de61ff08) 
 - [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) 

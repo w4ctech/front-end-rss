@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-12-03 12:10:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 12:37:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-03-发现一个很惨的地方，熬夜蹦迪的人基本都有头发，反而累死累活-996-的程序员秃头。](https://www.v2ex.com/t/731889) 
+- [2020-12-03-texlive-latex-是不是已经是一坨屎山了](https://www.v2ex.com/t/731888) 
+- [2020-12-03-为何安卓手机的-Chrome-浏览器无法播放-WWDC-视频？](https://www.v2ex.com/t/731887) 
 - [2020-12-03-怎么设定蓝牙-Link-Policy](https://www.v2ex.com/t/731886) 
 - [2020-12-03-问个-Big-Sur-的问题](https://www.v2ex.com/t/731885) 
 - [2020-12-03-golang-真的简单嘛](https://www.v2ex.com/t/731884) 
@@ -43,6 +46,3 @@
 - [2020-12-03-neovim-会支持-vim9script-吗？](https://www.v2ex.com/t/731843) 
 - [2020-12-03-全球工单论坛，有友盟的同学吗，你们的-iOS-最新-sdk-和高德地图-sdk-类重复，冲突了](https://www.v2ex.com/t/731842) 
 - [2020-12-03-Kubernetes-决定弃用-Docker？](https://www.v2ex.com/t/731841) 
-- [2020-12-03-请短假要不要每次都先打招呼再走流程申请](https://www.v2ex.com/t/731839) 
-- [2020-12-03-「内测码放送」-一款基于微信的全新降价监控-·-快鸟](https://www.v2ex.com/t/731838) 
-- [2020-12-03-请教下现在有可以正确识别新-MacBook-电池信息的软件了吗](https://www.v2ex.com/t/731837) 

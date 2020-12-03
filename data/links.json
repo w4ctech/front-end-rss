@@ -17195,6 +17195,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "当我们讨论 hooks 时到底在讨论什么",
+        "link": "https://juejin.im/post/6901956745417981959",
+        "date": "2020-12-03"
+      },
+      {
         "title": "Vuex原理理解及简单实现",
         "link": "https://juejin.im/post/6901942741786165262",
         "date": "2020-12-03"
@@ -17213,11 +17218,6 @@
         "title": "如何使用antd4 实现 分步表单",
         "link": "https://juejin.im/post/6901940948624736263",
         "date": "2020-12-03"
-      },
-      {
-        "title": "HTML5 桌面通知：Notification API",
-        "link": "https://juejin.im/post/6901870658747219975",
-        "date": "2020-12-02"
       }
     ]
   },
@@ -17604,6 +17604,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "「内测码放送」 一款基于微信的全新降价监控 · 快鸟",
+        "link": "https://www.v2ex.com/t/731838",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "请教下现在有可以正确识别新 MacBook 电池信息的软件了吗",
+        "link": "https://www.v2ex.com/t/731837",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "你看过月光博客和他的微博么？怎么评价？",
+        "link": "https://www.v2ex.com/t/731836",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "SpringBoot 项目中，第三方 jar 日志依赖冲突",
+        "link": "https://www.v2ex.com/t/731835",
+        "date": "2020-12-03"
+      },
+      {
         "title": "谷歌手机在那里买比较好？\r\n京东、淘宝、天猫、亚马逊、ebay",
         "link": "https://www.v2ex.com/t/731833",
         "date": "2020-12-03"
@@ -17646,11 +17666,6 @@
       {
         "title": "字节内推北上杭深安全岗位",
         "link": "https://www.v2ex.com/t/731824",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "高速上云、云连接",
-        "link": "https://www.v2ex.com/t/731823",
         "date": "2020-12-03"
       },
       {
@@ -17767,31 +17782,6 @@
         "title": "QQ for macOS 的同学，你们这个域名（access-sngapm.qcloud.com）已经没有解析了，客户端还疯狂轮询请求",
         "link": "https://www.v2ex.com/t/731789",
         "date": "2020-12-03"
-      },
-      {
-        "title": "Springboot QueryDSL @QuerydslPredicate 时间参数序列化问题请教",
-        "link": "https://www.v2ex.com/t/731788",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "一个技术网站搞得像杂志的样子，真的好么？",
-        "link": "https://www.v2ex.com/t/731787",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "油猴插件 google hit hider by domain 失效了？ block 按钮消失了",
-        "link": "https://www.v2ex.com/t/731786",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "主机电源单路输出最高是多少瓦？",
-        "link": "https://www.v2ex.com/t/731785",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "掌握系统设计三大技巧，跳槽上岸咫尺之遥!",
-        "link": "https://www.v2ex.com/t/731784",
-        "date": "2020-12-03"
       }
     ]
   },
@@ -17800,6 +17790,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "58到家为2000万家庭提供上门生活服务的背后是云计算的高效支撑 (yqh.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14038&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F4971%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-12-03"
+      },
       {
         "title": "母婴企业上云 实现线上线下互动营销、一体化管理服务 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14037&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F6721%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -17893,11 +17888,6 @@
       {
         "title": "乐惠国际打造首家精酿啤酒工业互联网平台 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14019&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "维他奶拥抱数字化转型 重构员工账户与权限管理方式 (yqh.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14018&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F20000%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-12-03"
       }
     ]
@@ -18008,41 +17998,6 @@
         "date": "2020-12-03"
       },
       {
-        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
-        "link": "https://toutiao.io/k/4jzvanq",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 程序员必知必会的十大排序算法",
-        "link": "https://toutiao.io/k/zoyne3a",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 分布式数据网格 Data Mesh",
-        "link": "https://toutiao.io/k/p6zp7x5",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
-        "link": "https://toutiao.io/k/zzpdj8o",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
-        "date": "2020-12-03"
-      },
-      {
         "title": "[推荐] 分布式一致性协议 Raft",
         "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-12-03"
@@ -18053,13 +18008,13 @@
         "date": "2020-12-03"
       },
       {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
+        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
+        "link": "https://toutiao.io/k/e5l3mqn",
         "date": "2020-12-03"
       },
       {
-        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
-        "link": "https://toutiao.io/k/e5l3mqn",
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
         "date": "2020-12-03"
       },
       {
@@ -18068,8 +18023,28 @@
         "date": "2020-12-03"
       },
       {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
+        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
+        "link": "https://toutiao.io/k/4jzvanq",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
+        "link": "https://toutiao.io/k/wpo96pp",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-12-03"
       },
       {
@@ -18078,8 +18053,23 @@
         "date": "2020-12-03"
       },
       {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
+        "title": "[推荐] 架构师之路：微服务技术选型",
+        "link": "https://toutiao.io/k/bxvxty9",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
+        "link": "https://toutiao.io/k/1k0udg9",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
         "date": "2020-12-03"
       }
     ]

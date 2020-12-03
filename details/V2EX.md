@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-03 14:28:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 14:36:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-03--FinTech-社区-招聘-|-HR-Manager---领先量化交易公司](https://www.v2ex.com/t/731921) 
 - [2020-12-03-改造归来，大家久等了。](https://www.v2ex.com/t/731919) 
 - [2020-12-03-海外招聘，编程员两位](https://www.v2ex.com/t/731918) 
 - [2020-12-03--FinTech-社区-招聘-|-HR-领先对冲基金-深圳](https://www.v2ex.com/t/731917) 
@@ -44,5 +45,3 @@
 - [2020-12-03-旧轮胎到底能不能送人？](https://www.v2ex.com/t/731875) 
 - [2020-12-03-基于-Python--Vlc-的全能播放器-CvPlayer](https://www.v2ex.com/t/731874) 
 - [2020-12-03-macbook-pro-上-safari-打开贴吧的帖子显示-404，但是同一网络环境下，-iPad-和-iphonesafari-就可以正常打开，是电脑中毒了吗](https://www.v2ex.com/t/731873) 
-- [2020-12-03-当备份工具遇到-node_modules，真的没有优雅的解决方案吗](https://www.v2ex.com/t/731871) 
-- [2020-12-03-官方壳子买了一周就这样了，可以去刚了吧？](https://www.v2ex.com/t/731870) 

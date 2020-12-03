@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 19:47:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 20:04:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -113,4 +113,5 @@
 - [2020-12-03-迫于-M1，求推荐-WiFi6-路由](https://www.v2ex.com/t/731940) 
 - [2020-12-03-Webstorm-年付优惠-JavaScript-25-周年活动-50%$29.50](https://www.v2ex.com/t/731922) 
 - [2020-12-03-为什么-arm-架构的设备需要各种适配？](https://www.v2ex.com/t/731911) 
+- [2020-12-03-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) 
 - [2020-12-03-年度盘点二:2020年最严重的加密货币入侵事件](https://sec.thief.one/article_content?a_id=395d916157a3624f3b1fe5f719fb0a35) 

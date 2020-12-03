@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 15:50:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 16:05:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -53,6 +53,7 @@
 - [2020-12-03-套娃：在-M1-的-Simulator-里的-Safari-运行-BrowserBench](https://www.v2ex.com/t/731934) 
 - [2020-12-03-中旬去西安玩四天，大家来-review-下我的行程安排](https://www.v2ex.com/t/731923) 
 - [2020-12-03-关于-lastpass-的安全问题](https://www.v2ex.com/t/731907) 
+- [2020-12-03-VIPKID上云-解决多云Web统一安全防护问题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14022&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-03-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-03-HTTP-接口调试利器！4.8-万-Star-的-HTTP-命令行客户端](https://toutiao.io/k/m57a9qo) 
 - [2020-12-03-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 

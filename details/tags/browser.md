@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 10:08:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 10:28:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -49,12 +49,15 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-11-28-GET-和-POST请求的本质区别是什么？原来我一直理解错了](https://www.ershicimi.com/p/30e492d2db08c13c8cf052a395c40aca) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-12-03-有没有办法去除-URL-末尾的斜杠？](https://www.v2ex.com/t/731858) 
 - [2020-12-03-字节内推北上杭深安全岗位](https://www.v2ex.com/t/731824) 
 - [2020-12-03-VIPKID上云-解决多云Web统一安全防护问题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14022&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-03-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-03-HTTP-接口调试利器！4.8-万-Star-的-HTTP-命令行客户端](https://toutiao.io/k/m57a9qo) 
 - [2020-12-03-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
 - [2020-12-03-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
+- [2020-12-03-犇众信息荣获第八届CNCERT网络安全应急服务省级优秀支撑单位](https://sec.thief.one/article_content?a_id=76fdf7d317df915061eb038dc85a4e4f) 
+- [2020-12-03-湾区创见·网络安全大会数据安全及隐私保护专场精彩内容回顾](https://sec.thief.one/article_content?a_id=780d880fc583658aab88939bd4da76d3) 
 - [2020-12-03-macOS的15个安全技巧二](https://sec.thief.one/article_content?a_id=88c3df8e6ec15500edf6a2275883fc89) 
 - [2020-12-03-处理公告丨2020年11月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=5383cfdd141edddff592963ae2c48183) 
 - [2020-12-03-物联网安全:数据安全](https://sec.thief.one/article_content?a_id=27aa9fff74554e7bb5a060e69531b17a) 
@@ -76,6 +79,4 @@
 - [2020-12-01-利用.NET的调试功能进行代码注入](https://sec.thief.one/article_content?a_id=4074e484197d80ad03805335a9be203c) 
 - [2020-12-01-每日安全动态推送12-01](https://sec.thief.one/article_content?a_id=563701dcb8ab5adf468fc14fa47b7a12) 
 - [2020-12-01-利用官网getshell](https://sec.thief.one/article_content?a_id=2bf7ed2d332a776ea8dbe113b748ff23) 
-- [2020-12-01-物联网安全:二维码的安全与隐私机制](https://sec.thief.one/article_content?a_id=5293568ef42abecaedc49aec2e9afde7) 
-- [2020-12-01-绕过客户端验证进行安全测试](https://sec.thief.one/article_content?a_id=3139e006d75fd804e488c0e499be2dca) 
 - [2020-11-28-5G不只是eMBB/uRLLC/mMTC，超越三大场景的应用有哪些？](https://www.ershicimi.com/p/dee166a4ea504d555a80ddf9a8d30723) 

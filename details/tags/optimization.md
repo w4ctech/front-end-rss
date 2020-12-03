@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 10:08:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 10:28:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -27,5 +27,4 @@
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-11-27-我的天！！线上千万级大表排序，如何优化？](https://www.ershicimi.com/p/770ea2401f6e0d667fefa4a9bcffb49d) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
-- [2020-12-03-「301-重定向在线检测」帮你检测重定向状态码、链路，-SEO-必备工具](https://www.v2ex.com/t/731805) 
 - [2020-12-03-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) 

@@ -168,18 +168,14 @@ export default {
       window.scrollTo(0, 0)
     },
     async initLoadData () {
-      let links = []
-      let rss = []
-      let tags = []
       const {data} =  await this.$axios.get(
         'https://cdn.jsdelivr.net/gh/w4ctech/front-end-rss@master/data/links.json'
         )
-      const  templink =  await import('../../../data/links.json')
+      const  templink =  await import('../../../links.json')
       if(data){
-        console.log(data,"links")
-        links= data
+      var  links= data
       }else{
-        links = templink
+       var links = templink
       }
       this.bus.$emit('loading', true, '正在拼命加载中')
       const rssJson =  await this.$axios.get(
@@ -187,10 +183,9 @@ export default {
         )
       const  temprss =  await import('../../../data/rss.json')
       if(rssJson){
-       console.log(rssJson,"rssJson")
-        rss= rssJson.data
+       var rss= rssJson.data
       }else{
-        rss = temprss
+       var rss = temprss
       }
 
       const tagsJson =  await this.$axios.get(
@@ -198,10 +193,9 @@ export default {
         )
       const  temptags =  await import('../../../data/tags.json')
       if(tagsJson){
-         console.log(tagsJson,"tagsJson")
-        tags= tagsJson.data
+      var  tags= tagsJson.data
       }else{
-        tags = temptags
+      var  tags = temptags
       }
       if (links) {
         this.bus.$emit('loading', false)

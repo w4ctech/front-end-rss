@@ -17604,8 +17604,48 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "2017 款 macbook pro 续航尿崩，怎解？",
+        "link": "https://www.v2ex.com/t/731781",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "电信云网络研发和京东研发 offer 对比",
+        "link": "https://www.v2ex.com/t/731778",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "不懂就问，关于 996。",
+        "link": "https://www.v2ex.com/t/731776",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "请问大家面试被问过让画架构图吗",
+        "link": "https://www.v2ex.com/t/731775",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[杭州/北京/成都] [阿里巴巴钉钉事业部社招 p6-p8] [前端/ Java /产品/运营/测开] 文档团队持续招人啦~缺人 ing~长期有效~",
+        "link": "https://www.v2ex.com/t/731774",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "js 或者 ts 项目当中是如何自定义文件扩展名的？",
+        "link": "https://www.v2ex.com/t/731773",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "iPhone 12pro Max 锁屏声音异常",
+        "link": "https://www.v2ex.com/t/731772",
+        "date": "2020-12-03"
+      },
+      {
         "title": "年终总结太难写啦",
         "link": "https://www.v2ex.com/t/731771",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "软路由 R2S 的 OpenWrt 镜像打包脚本",
+        "link": "https://www.v2ex.com/t/731770",
         "date": "2020-12-03"
       },
       {
@@ -17766,46 +17806,6 @@
       {
         "title": "想请问一下大家，这个 wework 的 offer 怎么样？",
         "link": "https://www.v2ex.com/t/731732",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "上海张江哪里可以打乒乓球？",
-        "link": "https://www.v2ex.com/t/731730",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "出 AppleInsider 里的 PD",
-        "link": "https://www.v2ex.com/t/731729",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "准备自学 ios 开发， 学 Swift 还是 oc？",
-        "link": "https://www.v2ex.com/t/731728",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "GitHub 2020 年度报告",
-        "link": "https://www.v2ex.com/t/731727",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "电池健康度越来越高怎么破？",
-        "link": "https://www.v2ex.com/t/731726",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "弱弱的问一句， 4G 的 macbook air 现在还能用来干啥",
-        "link": "https://www.v2ex.com/t/731725",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "在哪里买服务器划算呐？",
-        "link": "https://www.v2ex.com/t/731724",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "在 spring 的项目中，是返回实体(entity) 还是 dto 好",
-        "link": "https://www.v2ex.com/t/731722",
         "date": "2020-12-03"
       }
     ]
@@ -18028,58 +18028,18 @@
         "date": "2020-12-03"
       },
       {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
-        "link": "https://toutiao.io/k/9dk11zm",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 分布式数据网格 Data Mesh",
-        "link": "https://toutiao.io/k/p6zp7x5",
-        "date": "2020-12-03"
-      },
-      {
         "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
         "link": "https://toutiao.io/k/5stu129",
         "date": "2020-12-03"
       },
       {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-12-03"
       },
       {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
-        "link": "https://toutiao.io/k/4jzvanq",
-        "date": "2020-12-03"
-      },
-      {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
+        "title": "[推荐] 程序员必知必会的十大排序算法",
+        "link": "https://toutiao.io/k/zoyne3a",
         "date": "2020-12-03"
       },
       {
@@ -18088,13 +18048,53 @@
         "date": "2020-12-03"
       },
       {
+        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
+        "link": "https://toutiao.io/k/5sw3syp",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
+        "date": "2020-12-03"
+      },
+      {
         "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
         "link": "https://toutiao.io/k/qd3u4ct",
         "date": "2020-12-03"
       },
       {
-        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
-        "link": "https://toutiao.io/k/5sw3syp",
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
+        "link": "https://toutiao.io/k/1k0udg9",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
+        "link": "https://toutiao.io/k/z2u8tqp",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 分布式数据网格 Data Mesh",
+        "link": "https://toutiao.io/k/p6zp7x5",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
+        "link": "https://toutiao.io/k/wpo96pp",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
+        "link": "https://toutiao.io/k/e5l3mqn",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "[推荐] 7 年，从 “游戏少年” 到大厂技术总监的逆袭之路",
+        "link": "https://toutiao.io/k/9dk11zm",
         "date": "2020-12-03"
       }
     ]
@@ -18612,6 +18612,71 @@
     "link": "https://www.ershicimi.com/a/PQDgZ2jW",
     "items": [
       {
+        "title": "高通骁龙888芯片重磅发布，命名因为中国，小米11将全球首发！",
+        "link": "https://www.ershicimi.com/p/b2d4cda1c7c6546db1521cf6030090db",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "直播倒计时1天！专家大咖助阵、科技企业云集，预见工业物联新未来",
+        "link": "https://www.ershicimi.com/p/0e59a6eb373ad201caa5279c6cd39118",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "WiFi 6扩张速度真的远超5G？",
+        "link": "https://www.ershicimi.com/p/28a3f43c86a6605f221816dfd7ca8388",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "今天起，物联网“江湖大一统”！“产-学-研-用”珠联璧合解决物联网碎片化顽疾",
+        "link": "https://www.ershicimi.com/p/f65ce297b5ad441719f339300ba5b628",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "以连接推智能，共建产业生态｜开放智联联盟正式成立",
+        "link": "https://www.ershicimi.com/p/6c27621075b5222938961909ba65b39a",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "美国舍弃自己的车联网标准，转向中国主导的C-V2X",
+        "link": "https://www.ershicimi.com/p/df079616e1636923fc482f594635afe3",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "不戴头盔，你还敢去售楼处看房？分分钟几十万就没了",
+        "link": "https://www.ershicimi.com/p/cc64676169e82893c5c5ae45a1c675aa",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "融汇、智慧、共惠——九家巨头企业共同发起的开放智联联盟正式成立",
+        "link": "https://www.ershicimi.com/p/61503306b9bda86d7106ef4dfd158f66",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "突发！特朗普政府计划将中芯国际和中海油列入“黑名单”",
+        "link": "https://www.ershicimi.com/p/664651170077e02af27469694a6c679e",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "5G手机芯片简史",
+        "link": "https://www.ershicimi.com/p/764e956cb3a8e8c31fd1690de19f35e9",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "历史性时刻! 阿里、小米、华为、海尔、中国移动…携手破解物联网“最大”难题【物女心经】",
+        "link": "https://www.ershicimi.com/p/ce75af05ca236dfb09a573cb959fb63a",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "1小时设计、24小时交付，谁缔造了卫浴柔性定制的行业神话？",
+        "link": "https://www.ershicimi.com/p/545a940a12fd5451ecd5feb71c262349",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "物联网投融资周报|哈勃投资入股全芯微电子；满帮集团完成17亿美元融资；智加科技获1亿美元融资",
+        "link": "https://www.ershicimi.com/p/cd85eebb9eec1cf93e08e6a588d81a61",
+        "date": "2020-11-29"
+      },
+      {
         "title": "5G不只是eMBB/uRLLC/mMTC，超越三大场景的应用有哪些？",
         "link": "https://www.ershicimi.com/p/dee166a4ea504d555a80ddf9a8d30723",
         "date": "2020-11-28"
@@ -18645,71 +18710,6 @@
         "title": "融汇、智慧、共惠——九家巨头企业共同发起的开放智联联盟正式成立",
         "link": "https://www.ershicimi.com/p/3ff54f96c678c7c6ef49c529066cb4af",
         "date": "2020-11-26"
-      },
-      {
-        "title": "入选全球“50家聪明公司”，卡奥斯为世界构建了怎样的生态蓝图？",
-        "link": "https://www.ershicimi.com/p/b52c48f8cb7ed31a0f4080e3bbe38773",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "只有5G才能做到的事，我以后看视频、打游戏可能再也不会卡了~",
-        "link": "https://www.ershicimi.com/p/0a2ec51f5eaf6120f5d3772bcce537ea",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "SaaS，云计算的终极杀招!",
-        "link": "https://www.ershicimi.com/p/ef60950ea6c78d6307ce275d1777bdde",
-        "date": "2020-11-26"
-      },
-      {
-        "title": "那些强迫老人用智能手机办事的人，难道就不会老吗？国务院终于出手...",
-        "link": "https://www.ershicimi.com/p/9ef89d2b1cb170389024cf81f137a6e9",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "下一个10年，物联网万亿商机何在？",
-        "link": "https://www.ershicimi.com/p/3cc87c8e1573ec2747853bbea54801e7",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "中国移动首颗MCU芯片于2020中国移动全球合作伙伴大会上重磅发布！",
-        "link": "https://www.ershicimi.com/p/6520ba811234eaad589a72b06f5f983f",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "融汇、智慧、共惠——九家巨头企业共同发起的开放智联联盟正式成立",
-        "link": "https://www.ershicimi.com/p/d19ab83bb02fd5442bd7b8594d4ead65",
-        "date": "2020-11-25"
-      },
-      {
-        "title": "“嫦娥上月球挖土”！打破尘封44年的人类历史，中国航天实现“五个首次”",
-        "link": "https://www.ershicimi.com/p/5423e06fe7f3e8d2b914d833ef6e0bb0",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "九场论坛，抢先关注！研华工业物联网伙伴峰会诚邀您",
-        "link": "https://www.ershicimi.com/p/543c138c8b4e99f132b5ba5f1b189449",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "5G网络下，怎么打电话？",
-        "link": "https://www.ershicimi.com/p/7c6494abcdc93e95a479a6ae0bdaf85d",
-        "date": "2020-11-24"
-      },
-      {
-        "title": "终究还是开始敲打BAT了.....阿里张勇表态：将积极响应国家法规政策",
-        "link": "https://www.ershicimi.com/p/85987fcc6a700fe4bb065354ea302fd2",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "旧貌换新颜，物联网“智手”如何盘活老旧小区？",
-        "link": "https://www.ershicimi.com/p/3fe4b5b99a7a6796606ec96c73b09463",
-        "date": "2020-11-23"
-      },
-      {
-        "title": "中国移动研究院：视频边缘计算白皮书",
-        "link": "https://www.ershicimi.com/p/e597a3189793cce7130c1b75ccad785e",
-        "date": "2020-11-23"
       }
     ]
   }

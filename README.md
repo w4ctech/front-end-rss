@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-03 07:07:56，:rocket: 更新条数: +3686， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-03 07:27:32，:rocket: 更新条数: +3686， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,7 +1054,15 @@
 </summary>
 
 
+- [2020-12-03-2017-款-macbook-pro-续航尿崩，怎解？](https://www.v2ex.com/t/731781) ![](assets/new.png)  
+- [2020-12-03-电信云网络研发和京东研发-offer-对比](https://www.v2ex.com/t/731778) ![](assets/new.png)  
+- [2020-12-03-不懂就问，关于-996。](https://www.v2ex.com/t/731776) ![](assets/new.png)  
+- [2020-12-03-请问大家面试被问过让画架构图吗](https://www.v2ex.com/t/731775) ![](assets/new.png)  
+- [2020-12-03-杭州/北京/成都-阿里巴巴钉钉事业部社招-p6-p8-前端/-Java-/产品/运营/测开-文档团队持续招人啦~缺人-ing~长期有效~](https://www.v2ex.com/t/731774) ![](assets/new.png)  
+- [2020-12-03-js-或者-ts-项目当中是如何自定义文件扩展名的？](https://www.v2ex.com/t/731773) ![](assets/new.png)  
+- [2020-12-03-iPhone-12pro-Max-锁屏声音异常](https://www.v2ex.com/t/731772) ![](assets/new.png)  
 - [2020-12-03-年终总结太难写啦](https://www.v2ex.com/t/731771) ![](assets/new.png)  
+- [2020-12-03-软路由-R2S-的-OpenWrt-镜像打包脚本](https://www.v2ex.com/t/731770) ![](assets/new.png)  
 - [2020-12-03-看了别的企业利用简道云搭建的系统，感觉绝大部分软件公司就没有存在的意义了，这种想法正确么？](https://www.v2ex.com/t/731768) ![](assets/new.png)  
 - [2020-12-03-决赛圈了求助，外企/国企/教育](https://www.v2ex.com/t/731767) ![](assets/new.png)  
 - [2020-12-03-微信可以恢复聊天记录？](https://www.v2ex.com/t/731766) ![](assets/new.png)  
@@ -1066,14 +1074,6 @@
 - [2020-12-03-坚果云+WPS-的-webDev-有用过的吗？文档增量更新功能是否不适用于扫描版-PDF](https://www.v2ex.com/t/731760) ![](assets/new.png)  
 - [2020-12-03-apple-insider-大包的激活问题](https://www.v2ex.com/t/731759) ![](assets/new.png)  
 - [2020-12-03-分享一个免费的虚拟主机和服务器，实测可以免费用](https://www.v2ex.com/t/731758) ![](assets/new.png)  
-- [2020-12-03-PHP-中对象属性?中表示什么意思-哪个版本开始支持的?](https://www.v2ex.com/t/731757) ![](assets/new.png)  
-- [2020-12-03-程序员上班副业写代码，主业都干啥？](https://www.v2ex.com/t/731756) ![](assets/new.png)  
-- [2020-12-03-冬天-mbp-太冷了怎么办](https://www.v2ex.com/t/731754) ![](assets/new.png)  
-- [2020-12-03-送码-Mac-上超级好用的-API-文档生成工具送兑换码啦](https://www.v2ex.com/t/731753) ![](assets/new.png)  
-- [2020-12-03-闲鱼-iOS-APP-还能做得再烂点吗？](https://www.v2ex.com/t/731752) ![](assets/new.png)  
-- [2020-12-03-什么是"microsoft-office-即点即用服务"啊？](https://www.v2ex.com/t/731751) ![](assets/new.png)  
-- [2020-12-03-目前的你依旧保持什么习惯/爱好？](https://www.v2ex.com/t/731750) ![](assets/new.png)  
-- [2020-12-03-Gitlab-下的持续集成和部署请教](https://www.v2ex.com/t/731749) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1178,6 +1178,19 @@
 </summary>
 
 
+- [2020-12-02-高通骁龙888芯片重磅发布，命名因为中国，小米11将全球首发！](https://www.ershicimi.com/p/b2d4cda1c7c6546db1521cf6030090db) ![](assets/new.png)  
+- [2020-12-02-直播倒计时1天！专家大咖助阵、科技企业云集，预见工业物联新未来](https://www.ershicimi.com/p/0e59a6eb373ad201caa5279c6cd39118) ![](assets/new.png)  
+- [2020-12-02-WiFi-6扩张速度真的远超5G？](https://www.ershicimi.com/p/28a3f43c86a6605f221816dfd7ca8388) ![](assets/new.png)  
+- [2020-12-01-今天起，物联网“江湖大一统”！“产-学-研-用”珠联璧合解决物联网碎片化顽疾](https://www.ershicimi.com/p/f65ce297b5ad441719f339300ba5b628) ![](assets/new.png)  
+- [2020-12-01-以连接推智能，共建产业生态｜开放智联联盟正式成立](https://www.ershicimi.com/p/6c27621075b5222938961909ba65b39a) ![](assets/new.png)  
+- [2020-12-01-美国舍弃自己的车联网标准，转向中国主导的C-V2X](https://www.ershicimi.com/p/df079616e1636923fc482f594635afe3) ![](assets/new.png)  
+- [2020-11-30-不戴头盔，你还敢去售楼处看房？分分钟几十万就没了](https://www.ershicimi.com/p/cc64676169e82893c5c5ae45a1c675aa) ![](assets/new.png)  
+- [2020-11-30-融汇、智慧、共惠——九家巨头企业共同发起的开放智联联盟正式成立](https://www.ershicimi.com/p/61503306b9bda86d7106ef4dfd158f66) ![](assets/new.png)  
+- [2020-11-30-突发！特朗普政府计划将中芯国际和中海油列入“黑名单”](https://www.ershicimi.com/p/664651170077e02af27469694a6c679e) ![](assets/new.png)  
+- [2020-11-30-5G手机芯片简史](https://www.ershicimi.com/p/764e956cb3a8e8c31fd1690de19f35e9) ![](assets/new.png)  
+- [2020-11-29-历史性时刻!-阿里、小米、华为、海尔、中国移动…携手破解物联网“最大”难题【物女心经】](https://www.ershicimi.com/p/ce75af05ca236dfb09a573cb959fb63a) ![](assets/new.png)  
+- [2020-11-29-1小时设计、24小时交付，谁缔造了卫浴柔性定制的行业神话？](https://www.ershicimi.com/p/545a940a12fd5451ecd5feb71c262349) ![](assets/new.png)  
+- [2020-11-29-物联网投融资周报|哈勃投资入股全芯微电子；满帮集团完成17亿美元融资；智加科技获1亿美元融资](https://www.ershicimi.com/p/cd85eebb9eec1cf93e08e6a588d81a61) ![](assets/new.png)  
 - [2020-11-28-5G不只是eMBB/uRLLC/mMTC，超越三大场景的应用有哪些？](https://www.ershicimi.com/p/dee166a4ea504d555a80ddf9a8d30723) ![](assets/new.png)  
 - [2020-11-28-刚刚，全球首个物联网中央空调应用标准在海尔发布！](https://www.ershicimi.com/p/98e849e113a11d97dfae6afbab45017b) ![](assets/new.png)  
 - [2020-11-27-小米这波大意了，被屌丝言论闪了一下，雷军的高端梦实现了吗？](https://www.ershicimi.com/p/d655c677ca5b63165253dfa76e52401e) ![](assets/new.png)  
@@ -1185,19 +1198,6 @@
 - [2020-11-27-BRT-快速公交系统——解决智慧城市拥堵的“利器”！](https://www.ershicimi.com/p/9d7878695e8d27e1147f94bf071f3137) ![](assets/new.png)  
 - [2020-11-26-任正非送别荣耀：一旦“离婚”就不要再藕断丝连，未来我们是竞争对手](https://www.ershicimi.com/p/1dfeff35d9c6add0f15bde675a047846) ![](assets/new.png)  
 - [2020-11-26-融汇、智慧、共惠——九家巨头企业共同发起的开放智联联盟正式成立](https://www.ershicimi.com/p/3ff54f96c678c7c6ef49c529066cb4af) ![](assets/new.png)  
-- [2020-11-26-入选全球“50家聪明公司”，卡奥斯为世界构建了怎样的生态蓝图？](https://www.ershicimi.com/p/b52c48f8cb7ed31a0f4080e3bbe38773) ![](assets/new.png)  
-- [2020-11-26-只有5G才能做到的事，我以后看视频、打游戏可能再也不会卡了~](https://www.ershicimi.com/p/0a2ec51f5eaf6120f5d3772bcce537ea) ![](assets/new.png)  
-- [2020-11-26-SaaS，云计算的终极杀招!](https://www.ershicimi.com/p/ef60950ea6c78d6307ce275d1777bdde) ![](assets/new.png)  
-- [2020-11-25-那些强迫老人用智能手机办事的人，难道就不会老吗？国务院终于出手...](https://www.ershicimi.com/p/9ef89d2b1cb170389024cf81f137a6e9) ![](assets/new.png)  
-- [2020-11-25-下一个10年，物联网万亿商机何在？](https://www.ershicimi.com/p/3cc87c8e1573ec2747853bbea54801e7) ![](assets/new.png)  
-- [2020-11-25-中国移动首颗MCU芯片于2020中国移动全球合作伙伴大会上重磅发布！](https://www.ershicimi.com/p/6520ba811234eaad589a72b06f5f983f) ![](assets/new.png)  
-- [2020-11-25-融汇、智慧、共惠——九家巨头企业共同发起的开放智联联盟正式成立](https://www.ershicimi.com/p/d19ab83bb02fd5442bd7b8594d4ead65) ![](assets/new.png)  
-- [2020-11-24-“嫦娥上月球挖土”！打破尘封44年的人类历史，中国航天实现“五个首次”](https://www.ershicimi.com/p/5423e06fe7f3e8d2b914d833ef6e0bb0) ![](assets/new.png)  
-- [2020-11-24-九场论坛，抢先关注！研华工业物联网伙伴峰会诚邀您](https://www.ershicimi.com/p/543c138c8b4e99f132b5ba5f1b189449) ![](assets/new.png)  
-- [2020-11-24-5G网络下，怎么打电话？](https://www.ershicimi.com/p/7c6494abcdc93e95a479a6ae0bdaf85d) ![](assets/new.png)  
-- [2020-11-23-终究还是开始敲打BAT了.....阿里张勇表态：将积极响应国家法规政策](https://www.ershicimi.com/p/85987fcc6a700fe4bb065354ea302fd2) ![](assets/new.png)  
-- [2020-11-23-旧貌换新颜，物联网“智手”如何盘活老旧小区？](https://www.ershicimi.com/p/3fe4b5b99a7a6796606ec96c73b09463) ![](assets/new.png)  
-- [2020-11-23-中国移动研究院：视频边缘计算白皮书](https://www.ershicimi.com/p/e597a3189793cce7130c1b75ccad785e) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

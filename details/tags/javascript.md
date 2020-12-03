@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 07:07:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 07:27:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -80,5 +80,7 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-12-03-js-或者-ts-项目当中是如何自定义文件扩展名的？](https://www.v2ex.com/t/731773) 
+- [2020-12-03-软路由-R2S-的-OpenWrt-镜像打包脚本](https://www.v2ex.com/t/731770) 
 - [2020-12-03-年度盘点二:2020年最严重的加密货币入侵事件](https://sec.thief.one/article_content?a_id=395d916157a3624f3b1fe5f719fb0a35) 
 - [2020-12-01-【公告】JSRC十月月度英雄榜](https://sec.thief.one/article_content?a_id=d93f3c22dccf722406a498489063bbbb) 

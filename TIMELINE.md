@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 02:43:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-04 02:48:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -244,6 +244,8 @@
 - [【知乎日报】2020-12-01-知乎高赞：即使你已经「人到中年」，可能还是逃不开这些「学生思维」](https://www.ershicimi.com/p/d8ffae71160dba41dba1b21af4ef5a28) 
 - [【知乎日报】2020-12-01-《武林外传》的故事发生在明朝哪个皇帝年间？](https://www.ershicimi.com/p/7e26f7277e1195d0926c5d98f7ad53f5) 
 - [【知乎日报】2020-12-01-知乎故事-|-我用一个大招救了自己的命](https://www.ershicimi.com/p/2c8dde6022d178a7a8f45aa8a2432885) 
+- [【V2EX】2020-12-04-苹果为什么不去做掌上游戏机](https://www.v2ex.com/t/732016) 
+- [【V2EX】2020-12-04-周五来点轻松的，大家平时如何做自我管理呢？（分享管理工具/技巧/心得等）](https://www.v2ex.com/t/732015) 
 - [【V2EX】2020-12-04-VSCODE-写-Java-全插件攻略](https://www.v2ex.com/t/732014) 
 - [【V2EX】2020-12-04-浦东哪里学摩托车？](https://www.v2ex.com/t/732013) 
 - [【V2EX】2020-12-04-看<<有人工作后移民的吗>>这篇帖子有感](https://www.v2ex.com/t/732012) 
@@ -283,8 +285,6 @@
 - [【V2EX】2020-12-04-webstorm-写-nodejs，对象动态添加的的属性没有提示和自动补全怎么办](https://www.v2ex.com/t/731969) 
 - [【V2EX】2020-12-04-年底了，你们现在是加班冲-kpi，还是摸摸鱼坐等过年？](https://www.v2ex.com/t/731968) 
 - [【V2EX】2020-12-04-你们工作中是用-eclipse-还是-idea](https://www.v2ex.com/t/731967) 
-- [【V2EX】2020-12-04-深圳绿牌价值高吗](https://www.v2ex.com/t/731966) 
-- [【V2EX】2020-12-04-管理远程服务器，-vscode-remote-和-PHPstorm-的-deployment，你们觉得哪个好用？](https://www.v2ex.com/t/731965) 
 - [【技术头条】2020-12-04-冠赢网络上云-游戏盾彻底解决DDoS/CC攻击-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14039&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9097%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-12-04-58到家为2000万家庭提供上门生活服务的背后是云计算的高效支撑-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14038&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F4971%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-12-04-母婴企业上云-实现线上线下互动营销、一体化管理服务-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14037&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F6721%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

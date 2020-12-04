@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 02:43:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 02:48:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2843,6 +2843,7 @@
 - [2020-11-27-「经济独立的老婆，和男人有什么区别？」他的一番话，惊醒无数女人](https://www.ershicimi.com/p/4203a9eb7454a8e6dd12e03d694b1aac) 
 - [2020-11-27-知乎故事-|-你妈为了把你嫁出去能有多拼？](https://www.ershicimi.com/p/26ea3553e4d5db4c983c8ed2636db4c6) 
 - [2020-11-26-里面的东西都一样，为什么桶装方便面比袋装贵那么多？](https://www.ershicimi.com/p/90b04f6a4d3ad02b690b75bfd5558795) 
+- [2020-12-04-周五来点轻松的，大家平时如何做自我管理呢？（分享管理工具/技巧/心得等）](https://www.v2ex.com/t/732015) 
 - [2020-12-04-VSCODE-写-Java-全插件攻略](https://www.v2ex.com/t/732014) 
 - [2020-12-04-浦东哪里学摩托车？](https://www.v2ex.com/t/732013) 
 - [2020-12-04-看<<有人工作后移民的吗>>这篇帖子有感](https://www.v2ex.com/t/732012) 
@@ -2877,8 +2878,6 @@
 - [2020-12-04-google-简直比百度还流氓](https://www.v2ex.com/t/731971) 
 - [2020-12-04-年底了，你们现在是加班冲-kpi，还是摸摸鱼坐等过年？](https://www.v2ex.com/t/731968) 
 - [2020-12-04-你们工作中是用-eclipse-还是-idea](https://www.v2ex.com/t/731967) 
-- [2020-12-04-深圳绿牌价值高吗](https://www.v2ex.com/t/731966) 
-- [2020-12-04-管理远程服务器，-vscode-remote-和-PHPstorm-的-deployment，你们觉得哪个好用？](https://www.v2ex.com/t/731965) 
 - [2020-12-04-58到家为2000万家庭提供上门生活服务的背后是云计算的高效支撑-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14038&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F4971%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-04-母婴企业上云-实现线上线下互动营销、一体化管理服务-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14037&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F6721%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-04-上学帮上云-阿里云助力教育资讯平台防爬虫-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14036&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9197%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

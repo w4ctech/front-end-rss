@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-04 02:21:01，:rocket: 更新条数: +3916， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-04 02:32:16，:rocket: 更新条数: +3921， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,13 @@
 </summary>
 
 
+- [2020-12-04-求推荐电视机和空调](https://www.v2ex.com/t/732011) ![](assets/new.png)  
+- [2020-12-04-关于-instanceof-的疑问](https://www.v2ex.com/t/732010) ![](assets/new.png)  
+- [2020-12-04-领导换人后突然间要求写日报表，工作效率马上低下来了。](https://www.v2ex.com/t/732009) ![](assets/new.png)  
+- [2020-12-04-如何刮胡子才能不会留下黑印？](https://www.v2ex.com/t/732008) ![](assets/new.png)  
+- [2020-12-04-iPhone8P-ios14.2-版本，在没有任何前台程序的情况下，解锁的瞬间，右上角状态栏出现小绿点，苹果在什么状态下会私自调用我的摄像头？](https://www.v2ex.com/t/732007) ![](assets/new.png)  
+- [2020-12-04-杭州办电信宽带应该怎么选？是否有坑？](https://www.v2ex.com/t/732006) ![](assets/new.png)  
+- [2020-12-04-向我这样的好找工作吗,希望前辈们解答一下](https://www.v2ex.com/t/732005) ![](assets/new.png)  
 - [2020-12-04-为什么百亿补贴和聚划算里面都没有-256G-的-iPhone11-呀~-哪里可以买到最优惠的~](https://www.v2ex.com/t/732004) ![](assets/new.png)  
 - [2020-12-04-使用-vscode-开发-Java-的多嘛，体验感如何](https://www.v2ex.com/t/732003) ![](assets/new.png)  
 - [2020-12-04-深圳-虾皮内推，福利好待遇高，年底急招，欢迎来投](https://www.v2ex.com/t/732002) ![](assets/new.png)  
@@ -1087,13 +1094,6 @@
 - [2020-12-04-滴滴出行-北京、杭州、成都内推-Java-/iOS/Android/前端/算法/-PHP-/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/731991) ![](assets/new.png)  
 - [2020-12-04-多年开发经验转-GO-要多久？](https://www.v2ex.com/t/731989) ![](assets/new.png)  
 - [2020-12-04-微服务太难了,-学不会...](https://www.v2ex.com/t/731988) ![](assets/new.png)  
-- [2020-12-04-HomePod-Mini-做-MacBook-的外放音响靠谱嘛](https://www.v2ex.com/t/731987) ![](assets/new.png)  
-- [2020-12-04-局域网文件传输工具](https://www.v2ex.com/t/731986) ![](assets/new.png)  
-- [2020-12-04-手机副卡求推荐---最好是不用号码的流量卡....或者低月租能自带一点流量的那种](https://www.v2ex.com/t/731985) ![](assets/new.png)  
-- [2020-12-04-求推荐-telegram-电报上能定时清理过滤群贴纸，-gif-等信息的机器人](https://www.v2ex.com/t/731984) ![](assets/new.png)  
-- [2020-12-04-封闭开发的一些问题](https://www.v2ex.com/t/731982) ![](assets/new.png)  
-- [2020-12-04-昨晚拿着-15-年的机器去苹果直营店换屏了~](https://www.v2ex.com/t/731979) ![](assets/new.png)  
-- [2020-12-04-苹果新充电器太慢了吧。。。](https://www.v2ex.com/t/731977) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,8 +1141,8 @@
 - [2020-12-04-聊聊-k8s-调试工具-kt-connect-的实现](https://toutiao.io/k/p6ic0m3) ![](assets/new.png)  
 - [2020-12-04-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) ![](assets/new.png)  
 - [2020-12-04-研发团队技术学习与分享](https://toutiao.io/k/tlkngef) ![](assets/new.png)  
-- [2020-12-04-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
 - [2020-12-04-持续部署入门：基于-Kubernetes-实现滚动发布](https://toutiao.io/k/3gvwaz4) ![](assets/new.png)  
+- [2020-12-04-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
 - [2020-12-04-译-云原生安全白皮书](https://toutiao.io/k/21lvvit) ![](assets/new.png)  
 - [2020-12-04-深入解读：KubeVela-与-PaaS-有何不同？](https://toutiao.io/k/sf85d4l) ![](assets/new.png)  
 - [2020-12-04-IP/IPv6-地址到区域运营商](https://toutiao.io/k/ypc4nlf) ![](assets/new.png)  
@@ -1151,11 +1151,11 @@
 - [2020-12-04-源码深度解析-Handler-机制及应用](https://toutiao.io/k/hslrl9e) ![](assets/new.png)  
 - [2020-12-04-信息流推荐的用户增长机制](https://toutiao.io/k/l5cdfyb) ![](assets/new.png)  
 - [2020-12-04-Rollup-中的-esm-模块-和-cmd-模块](https://toutiao.io/k/w1wt2fo) ![](assets/new.png)  
-- [2020-12-04-推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) ![](assets/new.png)  
-- [2020-12-04-推荐-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) ![](assets/new.png)  
+- [2020-12-04-Redis-的事务（二）](https://toutiao.io/k/32vnbnk) ![](assets/new.png)  
+- [2020-12-04-UME：丰富的-Flutter-调试工具](https://toutiao.io/k/92iqb9j) ![](assets/new.png)  
+- [2020-12-04-Hive-调优，数据工程师成神之路](https://toutiao.io/k/2ftggnm) ![](assets/new.png)  
+- [2020-12-04-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
 - [2020-12-04-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
-- [2020-12-04-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
-- [2020-12-04-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

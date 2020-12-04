@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 12:56:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 13:04:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -34,8 +34,11 @@
 - [2020-11-26-秒杀其他按键精灵，支持VS-Code，这个JavaScript自动化软件居然还有人不知道](https://www.ershicimi.com/p/fe88cab6dafd556fd0a49b054de51e81) 
 - [2020-11-24-设计一个JavaScript插件系统](https://www.ershicimi.com/p/cf153ddca53bd8709d7a88658507b833) 
 - [2020-11-14-2020年10月Github最热门的JavaScript开源项目](https://www.ershicimi.com/p/efb022becfd9e1cf64cb206e4a44751b) 
-- [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
-- [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
+- [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 
+- [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) 
+- [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
+- [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
+- [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) 
 - [2020-12-02-前端路由原理解析，再也不怕面试官问路由问题了！](https://www.ershicimi.com/p/48b3afa0e57eca3341c615e86766ba46) 
 - [2020-12-02-【javascript】函数中的this的四种绑定形式-—-大家准备好瓜子，我要讲故事啦~~](https://www.ershicimi.com/p/4437662fa6cb2a2be92fa5112965d4de) 
 - [2020-11-30-怎么样才算是精通-JavaScript？](https://www.ershicimi.com/p/e13a85ee089d39422532990d29ab2bf1) 
@@ -45,8 +48,6 @@
 - [2020-11-30-20个常用的JavaScript简写技巧](https://www.ershicimi.com/p/6b8b236e7590540836c7997b516e944e) 
 - [2020-11-18-聊聊CommonJS与ES6-Module的使用与区别](https://www.ershicimi.com/p/4f80f6e07bdebb993be1630cf7c39137) 
 - [2020-11-17-最全的JavaScript常见的操作数组的函数方法宝典](https://www.ershicimi.com/p/d5e4739afdc43a658339cf949e2c0e1a) 
-- [2020-12-02-如何制作一个组件？论组件化思想](https://www.ershicimi.com/p/f1c457bae4c722f87a8752f26c03f15e) 
-- [2020-11-24-什么，lodash-的防抖失效了？](https://www.ershicimi.com/p/65413753e673bb9f714313968dc421e8) 
 - [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
@@ -110,4 +111,5 @@
 - [2020-12-04-压箱底笔记：Promise-和-Async/await-的理解和使用](https://toutiao.io/k/iegr5g1) 
 - [2020-12-04-持续部署入门：基于-Kubernetes-实现滚动发布](https://toutiao.io/k/3gvwaz4) 
 - [2020-12-04-如何快速将你的应用封装成-js-sdk?](https://toutiao.io/k/je0hiw0) 
+- [2020-12-04-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) 
 - [2020-12-03-年度盘点二:2020年最严重的加密货币入侵事件](https://sec.thief.one/article_content?a_id=395d916157a3624f3b1fe5f719fb0a35) 

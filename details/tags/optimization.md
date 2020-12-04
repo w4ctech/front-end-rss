@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 10:09:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 10:30:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2020-11-11-2020-年最新-24-条前端性能优化军规](https://www.ershicimi.com/p/0c714955eb6ee1eb466645ad988c5cb0) 
 - [2020-11-24-网页渲染性能优化-——-渲染原理](https://www.ershicimi.com/p/7de0689dbd35245630352b18bb8a126f) 
 - [2020-12-03-【第2035期】边缘渲染在首屏性能优化上的尝试与突破](https://www.ershicimi.com/p/bb8d351c9ca8d03b89bee068a1522578) 
@@ -26,5 +25,4 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-12-03-52-条-SQL-语句性能优化策略，建议收藏！](https://www.ershicimi.com/p/941610dbdcb6cc827189900a78d9d390) 
-- [2020-12-04-使用-AntV/G2/G2Plot-如何优化图表体验](https://juejin.im/post/6902309947091582984) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 

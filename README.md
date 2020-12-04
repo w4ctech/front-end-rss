@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-04 13:08:26，:rocket: 更新条数: +3919， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-04 13:27:27，:rocket: 更新条数: +3911， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -66,6 +66,7 @@
 
 
 - [2020-12-04-最新疫情：全国新冠累计确诊86584例-内蒙古本土新增2例](http://m.china.caixin.com/m/2020-12-04/101635794.html) ![](assets/new.png)  
+- [2020-12-04-香港新增最年轻死亡病例仅38岁-合并感染新冠和流感](http://m.china.caixin.com/m/2020-12-04/101635866.html) ![](assets/new.png)  
 - [2020-12-04-最新海外疫情：新冠感染超6512万-累计死亡超150万](http://m.international.caixin.com/m/2020-12-04/101635787.html) ![](assets/new.png)  
 - [2020-12-04-【境内疫情观察】内蒙古新增2例本土病例（12月3日）](http://m.database.caixin.com/m/2020-12-04/101635612.html) ![](assets/new.png)  
 - [2020-12-04-大流行手记|12月3日：多国将免费接种疫苗-东京奥运拟对选手定期检测病毒](https://m.caixin.com/m/2020-12-04/101635450.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2020-11-29-【境内疫情观察】全国新增11例境外输入病例（11月28日）](http://m.database.caixin.com/m/2020-11-29/101633629.html) ![](assets/new.png)  
 - [2020-11-29-大流行手记|11月28日：阿斯利康新冠疫苗或延迟上市-欧美迎萧条圣诞季](https://m.caixin.com/m/2020-11-29/101633597.html) ![](assets/new.png)  
 - [2020-11-28-【境内疫情观察】全国新增6例境外输入病例（11月27日）](http://m.database.caixin.com/m/2020-11-28/101633496.html) ![](assets/new.png)  
-- [2020-11-28-大流行手记|11月27日：东南亚国家积极采购疫苗-美四成新冠死者出自养老院](https://m.caixin.com/m/2020-11-28/101633388.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -716,16 +716,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1064,9 @@
 </summary>
 
 
+- [2020-12-04-大家公司的办公网访问公网带宽大概多少？是啥运营商的？](https://www.v2ex.com/t/732267) ![](assets/new.png)  
+- [2020-12-04-一人一首最近的单曲循环-|-分享我-Spotify-上的听歌年度盘点-2020-B-站链接](https://www.v2ex.com/t/732266) ![](assets/new.png)  
+- [2020-12-04-建了一个微信读书打卡群](https://www.v2ex.com/t/732264) ![](assets/new.png)  
 - [2020-12-04-撸了一个轮子：无需编译-.proto-文件的-protobuf-库](https://www.v2ex.com/t/732262) ![](assets/new.png)  
 - [2020-12-04-现在云游戏和云电脑的体验真的很不错了，-ARM-MAC-设备或者-Linux-都可以玩大作和兼容-Win-了呀](https://www.v2ex.com/t/732261) ![](assets/new.png)  
 - [2020-12-04-整天在这吐槽中文程序员社区文章质量差，那-V-站侧边是有广告的你知道吗？点过吗？](https://www.v2ex.com/t/732260) ![](assets/new.png)  
@@ -1091,9 +1084,6 @@
 - [2020-12-04-招商银行-10-元风暴](https://www.v2ex.com/t/732242) ![](assets/new.png)  
 - [2020-12-04-出门时，除了开手机热点，哪里能高速网络-coding](https://www.v2ex.com/t/732241) ![](assets/new.png)  
 - [2020-12-04-Python-selenium-求助](https://www.v2ex.com/t/732240) ![](assets/new.png)  
-- [2020-12-04-继续出软件包里的-PDFpen-Pro，-Gemini，-Edraw-Mindmaster，-Movavi-Screen-Recorder-2021，-Art-Text-4，-Dropzone-4-Pro](https://www.v2ex.com/t/732239) ![](assets/new.png)  
-- [2020-12-04-mongodb-的元数据是保存在哪的？](https://www.v2ex.com/t/732238) ![](assets/new.png)  
-- [2020-12-04-招行的-10-元风暴-抱团稳赢-今天已经稳赢!](https://www.v2ex.com/t/732237) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

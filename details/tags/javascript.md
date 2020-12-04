@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 14:04:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 14:09:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -41,6 +41,8 @@
 - [2020-11-10-15分钟带你了解前端工程师必知的javascript设计模式附详细思维导图和源码](https://www.ershicimi.com/p/28c66d71c8fb00ba56cc460dd1de91ae) 
 - [2020-12-02-20个常用的JavaScript简写技巧](https://www.ershicimi.com/p/cee161cecbbba2a0ad38179a4792313f) 
 - [2020-11-28-种草ECMAScript2021新特性](https://www.ershicimi.com/p/a1cb6b329ce53022db34a310bced8cb9) 
+- [2020-12-01-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/aa478d7716c56800af68a185910037a4) 
+- [2020-11-29-组件库主题设计方案](https://www.ershicimi.com/p/cfcb0d158e49026fc6b917a5790f1e0d) 
 - [2020-11-16-从理解到实现轻松掌握-ES6-中的迭代器](https://www.ershicimi.com/p/3795a41792370b270408c5350d3f5adf) 
 - [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
 - [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) 

@@ -1759,7 +1759,108 @@
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/10108",
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
-    "items": []
+    "items": [
+      {
+        "title": "微信扫码登录的几秒钟里，到底发生了什么",
+        "link": "https://www.ershicimi.com/p/679bb03e545299aa96d4e9e5031661e2",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "教你让b站视频的弹幕发出语音！",
+        "link": "https://www.ershicimi.com/p/acceeb1adcac4cef70b70d825fd99c30",
+        "date": "2020-12-03"
+      },
+      {
+        "title": "网页骨架屏自动生成方案分享",
+        "link": "https://www.ershicimi.com/p/81c99162b27fe7b6db025cd666f588bb",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "Element UI for Vue 3.0 来了！【官方总结】",
+        "link": "https://www.ershicimi.com/p/4acb41fca63cc3566caa64b680f2434a",
+        "date": "2020-12-02"
+      },
+      {
+        "title": "两小时搞定ES6：原理讲解+项目实战",
+        "link": "https://www.ershicimi.com/p/aa478d7716c56800af68a185910037a4",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "Chrome 上开发调试的九个技巧",
+        "link": "https://www.ershicimi.com/p/00482f399a91fb721afd66fd950b7b95",
+        "date": "2020-12-01"
+      },
+      {
+        "title": "写给前端的 Jenkins 教程——快速实现前端/ Node.js 项目的 CI/CD",
+        "link": "https://www.ershicimi.com/p/996261327022b35565cf5a2bfa4e2c46",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "纯CSS实现密室逃脱游戏",
+        "link": "https://www.ershicimi.com/p/85fe84fc77c0e95bebdb7eb1599ba0cb",
+        "date": "2020-11-30"
+      },
+      {
+        "title": "这位C++工程师从学废到学会，做了什么？",
+        "link": "https://www.ershicimi.com/p/ffcea60a8486709bc32db4cccb85d1d3",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "组件库主题设计方案",
+        "link": "https://www.ershicimi.com/p/cfcb0d158e49026fc6b917a5790f1e0d",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "提高国内访问 GitHub 的速度的 9 种方案",
+        "link": "https://www.ershicimi.com/p/c624b6a6448aebefb6e327f474c50ae9",
+        "date": "2020-11-29"
+      },
+      {
+        "title": "Node.js Serverless 助力业务研发提效 38.89%，并保障双11大流量下稳定可靠",
+        "link": "https://www.ershicimi.com/p/b36040d27d3659483da4d97dd0a09328",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "你可能需要一个优质 前端Node 交流群",
+        "link": "https://www.ershicimi.com/p/83030cd30a3c92f2a4517ace778164e1",
+        "date": "2020-11-28"
+      },
+      {
+        "title": "大牛必备：前端与图形学",
+        "link": "https://www.ershicimi.com/p/f9da5faeefb03b32c677ff868641deed",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "你会用到的 15 个前端小知识",
+        "link": "https://www.ershicimi.com/p/cb8140088ea0e08d099547e6352f4a5a",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "新出炉的阿里、腾讯、美团以及网易等一线公司面试总结",
+        "link": "https://www.ershicimi.com/p/03e97cd833477bed46996595e3b56036",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "华为官方：寻找移动端开发者",
+        "link": "https://www.ershicimi.com/p/705da9fc14a11b8b27b93d88b08217f5",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "实用的 bash 自定义脚本，快速提效工作流程",
+        "link": "https://www.ershicimi.com/p/24c3cf8e53cf7a8873284b13f7053ce4",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "多图生动详解浏览器与Node环境下的Event Loop",
+        "link": "https://www.ershicimi.com/p/1d8697ad27c7072d476a6b83c6cb6216",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "推荐几个讲武德的优秀前端公众号",
+        "link": "https://www.ershicimi.com/p/14f91bf86eb82e2a5cdc5deed9b7a5c4",
+        "date": "2020-11-25"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/10545",

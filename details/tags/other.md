@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 18:45:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 18:53:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2880,7 +2880,6 @@
 - [2020-12-04-升级-big-sur-以后边听歌边编码卡出翔](https://www.v2ex.com/t/732280) 
 - [2020-12-04-Apple-官方换购回收手表的时候，需要全套配件吗？](https://www.v2ex.com/t/732277) 
 - [2020-12-04-当我在-M1-芯片上的-Mac-使用-iOS-版本的百度网盘、腾讯微云等网盘工具，下载到本地的文件存放在哪里？](https://www.v2ex.com/t/732275) 
-- [2020-12-04-代理能够重发消息吗？](https://www.v2ex.com/t/732274) 
 - [2020-12-04-在云之上的猿辅导，撑住500万中小学生的挑战-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14041&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8969%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-04-58到家为2000万家庭提供上门生活服务的背后是云计算的高效支撑-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14038&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F4971%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-04-母婴企业上云-实现线上线下互动营销、一体化管理服务-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14037&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F6721%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -2906,14 +2905,13 @@
 - [2020-12-04-揭秘-Spring-类型转换：框架设计的基石](https://toutiao.io/k/rlxy73m) 
 - [2020-12-04-关于-MySQL-varchar-类型最大值，原来一直都理解错了](https://toutiao.io/k/3liu51q) 
 - [2020-12-04-Hive-调优，数据工程师成神之路](https://toutiao.io/k/2ftggnm) 
-- [2020-12-04-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) 
-- [2020-12-04-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) 
 - [2020-12-04-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) 
+- [2020-12-04-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) 
+- [2020-12-04-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) 
+- [2020-12-04-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) 
 - [2020-12-04-推荐-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) 
 - [2020-12-04-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) 
-- [2020-12-04-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) 
-- [2020-12-04-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) 
-- [2020-12-04-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) 
+- [2020-12-04-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) 
 - [2020-12-04-按-F12获取登陆数据,一键登陆巴西卫生部数据库](https://sec.thief.one/article_content?a_id=e4e32f68fa9a5ed6c56025a5da53777e) 
 - [2020-12-04-深入分析SaltStack-Salt命令注入漏洞](https://sec.thief.one/article_content?a_id=15306bdef9cd5362a5cb685ed3de54c5) 
 - [2020-12-04-程序员带娃有多“恐怖”-?!](https://sec.thief.one/article_content?a_id=260d4056778db01a5271d591d913a392) 

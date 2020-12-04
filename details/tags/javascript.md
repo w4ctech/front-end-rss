@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 13:04:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 13:08:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -34,6 +34,8 @@
 - [2020-11-26-秒杀其他按键精灵，支持VS-Code，这个JavaScript自动化软件居然还有人不知道](https://www.ershicimi.com/p/fe88cab6dafd556fd0a49b054de51e81) 
 - [2020-11-24-设计一个JavaScript插件系统](https://www.ershicimi.com/p/cf153ddca53bd8709d7a88658507b833) 
 - [2020-11-14-2020年10月Github最热门的JavaScript开源项目](https://www.ershicimi.com/p/efb022becfd9e1cf64cb206e4a44751b) 
+- [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
+- [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
 - [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 
 - [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) 
 - [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
@@ -48,6 +50,8 @@
 - [2020-11-30-20个常用的JavaScript简写技巧](https://www.ershicimi.com/p/6b8b236e7590540836c7997b516e944e) 
 - [2020-11-18-聊聊CommonJS与ES6-Module的使用与区别](https://www.ershicimi.com/p/4f80f6e07bdebb993be1630cf7c39137) 
 - [2020-11-17-最全的JavaScript常见的操作数组的函数方法宝典](https://www.ershicimi.com/p/d5e4739afdc43a658339cf949e2c0e1a) 
+- [2020-12-02-如何制作一个组件？论组件化思想](https://www.ershicimi.com/p/f1c457bae4c722f87a8752f26c03f15e) 
+- [2020-11-24-什么，lodash-的防抖失效了？](https://www.ershicimi.com/p/65413753e673bb9f714313968dc421e8) 
 - [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 07:48:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 08:05:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,6 +7,9 @@
 
 
 
+- [2020-12-02-【招聘】微信对话开放平台招全栈前端工程师](https://www.ershicimi.com/p/465309510c4c6aef0847cb22f3f17644) 
+- [2020-11-28-【第2131期】网络应用如何工作：HTTP和服务器](https://www.ershicimi.com/p/956821e6956083787a1fe167ae794462) 
+- [2020-11-30-前端开发者正在被迫成为全栈开发人员](https://www.ershicimi.com/p/2249d2d3f3b9bd8ac9346fd90673ecc1) 
 - [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/) 
 - [2017-04-11-GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/) 
 - [2016-12-08-vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/) 
@@ -14,5 +17,7 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-12-03-疯了？价值上万元“Web全栈架构师”正课免费？](https://www.ershicimi.com/p/cae5f6db9a2ffaa926bb78df3323fe21) 
+- [2020-12-04-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) 
 - [2020-12-02-集大成!10-种轻量级人脸检测算法的对比-含源码-](https://sec.thief.one/article_content?a_id=036207894a710ba22e10289694c0a599) 
 - [2020-12-02-疯了?价值上万元“Web全栈架构师”正课免费?](https://sec.thief.one/article_content?a_id=ded3b99b32d14ae4af81c73e8e2394d3) 

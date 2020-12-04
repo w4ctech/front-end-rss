@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 09:35:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 09:55:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-12-01-面试官：说说你对SPA（单页应用）的理解?](https://www.ershicimi.com/p/809f500d661e53372c80ff5b68584de2) 
 - [2020-12-04-【招聘】大地量子前端团队招前端专家、资深前端工程师](https://www.ershicimi.com/p/4f6c51ed2f972693602ac155af51b0b0) 
 - [2020-12-03-【招聘】阿里CBU体验技术团队招前端技术专家](https://www.ershicimi.com/p/75596f39539887f432bf70524872a9a4) 
@@ -37,6 +38,7 @@
 - [2020-11-30-Redis面试题汇总（附答案），面试突击专用](https://www.ershicimi.com/p/05760c6e919470ea52e1ddbc7754c0d9) 
 - [2020-11-28-面试官：String长度有限制吗？是多少？](https://www.ershicimi.com/p/b1152ace164188124e7eea9891b35cdf) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
+- [2020-12-04-广州卡瓦科技-招聘前端/-Java-/安卓人才-岗位核心/工作-965/氛围简单/五险一金](https://www.v2ex.com/t/732208) 
 - [2020-12-04-杭州-有赞-招技术-，面试流程快，无套路](https://www.v2ex.com/t/732196) 
 - [2020-12-04-现在还有公司在面试的时候让人白板写代码吗？](https://www.v2ex.com/t/732163) 
 - [2020-12-04-安恒信息-|-长期招聘](https://sec.thief.one/article_content?a_id=620217b9cd98ad265e4ea0f2766097b0) 

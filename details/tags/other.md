@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 23:36:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 23:48:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2905,13 +2905,16 @@
 - [2020-12-04-揭秘-Spring-类型转换：框架设计的基石](https://toutiao.io/k/rlxy73m) 
 - [2020-12-04-Hive-调优，数据工程师成神之路](https://toutiao.io/k/2ftggnm) 
 - [2020-12-04-关于-MySQL-varchar-类型最大值，原来一直都理解错了](https://toutiao.io/k/3liu51q) 
-- [2020-12-04-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) 
-- [2020-12-04-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) 
-- [2020-12-04-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) 
-- [2020-12-04-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) 
-- [2020-12-04-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) 
-- [2020-12-04-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) 
+- [2020-12-04-推荐-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) 
 - [2020-12-04-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) 
+- [2020-12-04-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) 
+- [2020-12-04-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) 
+- [2020-12-04-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) 
+- [2020-12-04-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) 
+- [2020-12-04-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) 
+- [2020-12-04-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) 
+- [2020-12-04-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) 
+- [2020-12-04-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) 
 - [2020-12-04-按-F12获取登陆数据,一键登陆巴西卫生部数据库](https://sec.thief.one/article_content?a_id=e4e32f68fa9a5ed6c56025a5da53777e) 
 - [2020-12-04-深入分析SaltStack-Salt命令注入漏洞](https://sec.thief.one/article_content?a_id=15306bdef9cd5362a5cb685ed3de54c5) 
 - [2020-12-04-程序员带娃有多“恐怖”-?!](https://sec.thief.one/article_content?a_id=260d4056778db01a5271d591d913a392) 

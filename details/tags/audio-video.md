@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 03:08:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 03:29:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -91,7 +91,6 @@
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-12-04-iPhone8P-ios14.2-版本，在没有任何前台程序的情况下，解锁的瞬间，右上角状态栏出现小绿点，苹果在什么状态下会私自调用我的摄像头？](https://www.v2ex.com/t/732007) 
-- [2020-12-04-微商狂喜？（关于搭讪类短视频运营）](https://www.v2ex.com/t/731992) 
 - [2020-12-04-【视频】|-Python:元组](https://sec.thief.one/article_content?a_id=696ae27b3fdadd033ded1b305945783b) 
 - [2020-12-03-今晚直播预告丨红队大佬亲临直播间,传授建设之道!](https://sec.thief.one/article_content?a_id=1e802e1181fbb156dee58699e78f7294) 
 - [2020-12-02-直播倒计时1天！专家大咖助阵、科技企业云集，预见工业物联新未来](https://www.ershicimi.com/p/0e59a6eb373ad201caa5279c6cd39118) 

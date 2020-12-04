@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 03:08:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 03:29:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -56,7 +56,6 @@
 - [2020-11-23-Vue3源码-nextTick解析](https://www.ershicimi.com/p/d51475d104b740f1b2c866fd6d18fae6) 
 - [2020-11-24-开发一个基于-Vue3.0-的组件库是一种怎样的体验？](https://www.ershicimi.com/p/7f5ab22f640a1ff604d2e70f166f5083) 
 - [2020-11-20-搞懂-Vue-，这一篇文章就够了！](https://www.ershicimi.com/p/a68ed33d0346aaeddd9ca1e9a6167e21) 
-- [2020-10-11-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/0590b6964c9fcfc3e48286bd7d353627) 
 - [2020-11-23-开发一个基于-Vue3.0-的组件库是一种怎样的体验？](https://www.ershicimi.com/p/5d3238821ec796478f5fb4ce6a04adb5) 
 - [2020-12-03-面试官：聊聊对Vue.js框架的理解](https://www.ershicimi.com/p/c31ba2e06dd6b13a199caeb8caa817e6) 
 - [2020-12-02-egg+vue+mongodb实践开发在线文档管理平台——水墨文档](https://www.ershicimi.com/p/ccdf273a98d25dc9ea1e347d395470fd) 

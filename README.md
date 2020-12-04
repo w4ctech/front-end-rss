@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-03 23:47:43，:rocket: 更新条数: +3921， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-04 00:08:23，:rocket: 更新条数: +3920， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
-- [2020-12-03-美国多州疫情严峻-医疗系统面临巨大压力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy85lJ7hyUiojIGzORtCj201203&isfromapp=1) ![](assets/new.png)  
-- [2020-12-03-日本：新冠病例继续激增或危及其他疾病治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti70dzdnrdyyvW3Oeu2AV5201203&isfromapp=1) ![](assets/new.png)  
-- [2020-12-03-陕西2日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikT3CrjshrQz2IeK04ZqV201203&isfromapp=1) ![](assets/new.png)  
-- [2020-12-03-普京：俄罗斯下周开始大规模新冠疫苗接种](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisg9LZHYyPbOeN7G6sU0X201203&isfromapp=1) ![](assets/new.png)  
-- [2020-12-02-新冠疫情加重-巴西南部各州收紧防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHRueVgLBdoNpPG70TQ4l201203&isfromapp=1) ![](assets/new.png)  
+- [2020-12-03-上海3日新增9例境外输入新冠肺炎确诊病例-新增治愈出院5例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXwz82gWefdn22Ul3oYay201204&isfromapp=1) ![](assets/new.png)  
+- [2020-12-03-2020年12月3日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202012/t20201204_4041832.html) ![](assets/new.png)  
+- [2020-12-03-美国累计新冠肺炎确诊病例超过1406万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCDZMUgvjlgAxhvXyAtvh201204&isfromapp=1) ![](assets/new.png)  
+- [2020-12-03-世卫组织：全球新冠肺炎确诊病例超过6396万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJir2C8JNp7cYWkbL4taZ201204&isfromapp=1) ![](assets/new.png)  
+- [2020-12-03-​土耳其青年和体育部部长新冠病毒检测结果呈阳性-新增阳性患者超3万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXCFO5AaOGAh7kVqAZsVB201204&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -954,9 +954,9 @@
 </summary>
 
 
+- [2020-12-03-jsliang-求职系列---32---Webpack-简单实现](https://juejin.im/post/6902180301217366030) ![](assets/new.png)  
 - [2020-12-03-给小程序再减重-30%-的秘密​---京喜小程序首页瘦身实践](https://juejin.im/post/6902082321424318471) ![](assets/new.png)  
 - [2020-12-03-白嫖-11-个超火的前端必备在线工具，终于有时间上班摸鱼了](https://juejin.im/post/6902035357062332423) ![](assets/new.png)  
-- [2020-12-02-来看看黑五小齐都买了什么好东西？](https://juejin.im/post/6901853596838133767) ![](assets/new.png)  
 - [2020-12-01-冷门函数之Math.hypot](https://juejin.im/post/6901490982219415565) ![](assets/new.png)  
 - [2020-12-01-如何在JavaScript中获取屏幕，窗口和网页大小](https://juejin.im/post/6901352015222276104) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -1074,7 +1074,6 @@
 </summary>
 
 
-- [2020-12-03-大家怎么看（（大家怎么看待知乎的这个回答（如何看待微信朋友圈里这种论调「孩子，我宁愿欠你一个快乐的少年，也不愿看到你卑微的成年」？）的回答）](https://www.v2ex.com/t/731960) ![](assets/new.png)  
 - [2020-12-03-每日上传-教娃编程视频](https://www.v2ex.com/t/731958) ![](assets/new.png)  
 - [2020-12-03-几万条网页剪藏，且在不断增加中，如何便捷的管理与检索？](https://www.v2ex.com/t/731957) ![](assets/new.png)  
 - [2020-12-03-有人更新-Big-Sur-11.1-beta-了吗？](https://www.v2ex.com/t/731956) ![](assets/new.png)  
@@ -1094,6 +1093,7 @@
 - [2020-12-03-个人转租,-6-号线十里堡地铁附近,40-平超大主卧独卫~](https://www.v2ex.com/t/731938) ![](assets/new.png)  
 - [2020-12-03-Tiled-Map-中的地形问题请教](https://www.v2ex.com/t/731937) ![](assets/new.png)  
 - [2020-12-03-长白山求伴…](https://www.v2ex.com/t/731936) ![](assets/new.png)  
+- [2020-12-03-套娃：在-M1-的-Simulator-里的-Safari-运行-BrowserBench](https://www.v2ex.com/t/731934) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,26 +1105,26 @@
 </summary>
 
 
-- [2020-12-03-58到家为2000万家庭提供上门生活服务的背后是云计算的高效支撑-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14038&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F4971%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-母婴企业上云-实现线上线下互动营销、一体化管理服务-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14037&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F6721%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-上学帮上云-阿里云助力教育资讯平台防爬虫-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14036&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9197%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-微服务架构下-CI/CD-如何落地-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14035&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F328238514%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-百家云借助“容器+神龙”三天内实现数十倍扩容-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14034&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8289%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-太平鸟上云-推动中国服饰行业新零售转型-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14033&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8471%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-高德“一键”上云-实现核心数据“3点产出”-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14032&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-蒂森克虏伯上云-加速跨境访问-、降低网络延时-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14031&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7322%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-游戏公司通过云分期-保障业务如期上线-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14030&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9364%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-技术助援公益-Serverless应用引擎上线北大打卡项目-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14029&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15885%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-网骗欺诈？网络裸奔？都是因为-HTTP？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14028&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F325807394%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-业务价值驱动的测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14027&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-value-driven-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-中保车服灾备云，为保险公司“上保险”-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14026&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778853%3Futm_content%3Dg_1000212730%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-东华水泥上云-给水泥生产装上“工业大脑”-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14025&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15884%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-美甲帮通过数加搭建大数据平台-针对百万用户的精细运营-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14024&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8036%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-赛盒科技通过ADB实现广告精细化管理-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14023&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7695%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-VIPKID上云-解决多云Web统一安全防护问题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14022&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-浙江大学联手驻云科技进行信息化建设-实时数据驱动校园智能管理-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14021&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9432%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-应对梅雨季-水务精灵助力梅城镇智能化解决排水难题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14020&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15659%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-03-乐惠国际打造首家精酿啤酒工业互联网平台-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14019&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-58到家为2000万家庭提供上门生活服务的背后是云计算的高效支撑-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14038&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F4971%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-母婴企业上云-实现线上线下互动营销、一体化管理服务-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14037&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F6721%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-上学帮上云-阿里云助力教育资讯平台防爬虫-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14036&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9197%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-微服务架构下-CI/CD-如何落地-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14035&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F328238514%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-百家云借助“容器+神龙”三天内实现数十倍扩容-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14034&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8289%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-太平鸟上云-推动中国服饰行业新零售转型-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14033&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8471%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-高德“一键”上云-实现核心数据“3点产出”-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14032&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-蒂森克虏伯上云-加速跨境访问-、降低网络延时-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14031&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7322%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-游戏公司通过云分期-保障业务如期上线-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14030&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9364%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-技术助援公益-Serverless应用引擎上线北大打卡项目-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14029&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15885%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-网骗欺诈？网络裸奔？都是因为-HTTP？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14028&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F325807394%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-业务价值驱动的测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14027&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-value-driven-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-中保车服灾备云，为保险公司“上保险”-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14026&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778853%3Futm_content%3Dg_1000212730%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-东华水泥上云-给水泥生产装上“工业大脑”-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14025&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15884%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-美甲帮通过数加搭建大数据平台-针对百万用户的精细运营-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14024&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8036%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-赛盒科技通过ADB实现广告精细化管理-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14023&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7695%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-VIPKID上云-解决多云Web统一安全防护问题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14022&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-浙江大学联手驻云科技进行信息化建设-实时数据驱动校园智能管理-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14021&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9432%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-应对梅雨季-水务精灵助力梅城镇智能化解决排水难题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14020&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15659%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-乐惠国际打造首家精酿啤酒工业互联网平台-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14019&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,26 +1136,26 @@
 </summary>
 
 
-- [2020-12-03-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) ![](assets/new.png)  
-- [2020-12-03-AutoExcel-实现百万数据秒级导入导出](https://toutiao.io/k/ui65fqe) ![](assets/new.png)  
-- [2020-12-03-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) ![](assets/new.png)  
-- [2020-12-03-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) ![](assets/new.png)  
-- [2020-12-03-又是一年-“剁手季”，4982-亿背后的秘密，你一定不知道](https://toutiao.io/k/aeh1ryr) ![](assets/new.png)  
-- [2020-12-03-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
-- [2020-12-03-Leveldb-基本介绍和使用指南](https://toutiao.io/k/k3xg4bp) ![](assets/new.png)  
-- [2020-12-03-译-利用-eBPF-支撑大规模-K8s-Service-LPC,-2019](https://toutiao.io/k/s1uqlv5) ![](assets/new.png)  
-- [2020-12-03-如何编写一个-CSI-插件](https://toutiao.io/k/k5e6mg2) ![](assets/new.png)  
-- [2020-12-03-这些图灵奖主原来就藏在身边](https://toutiao.io/k/k3uob96) ![](assets/new.png)  
-- [2020-12-03-网骗欺诈？网络裸奔？都是因为-HTTP？](https://toutiao.io/k/bahqqrr) ![](assets/new.png)  
-- [2020-12-03-工具-|-腾讯开源的云原生一体化部署工具](https://toutiao.io/k/gydx5fk) ![](assets/new.png)  
-- [2020-12-03-Flink-SQL-实战：HBase-的结合应用](https://toutiao.io/k/1v502p6) ![](assets/new.png)  
-- [2020-12-03-分布式一致性协议-Gossip](https://toutiao.io/k/a58kk7g) ![](assets/new.png)  
-- [2020-12-03-硬核万字解读：Kotlin-协程原理解析](https://toutiao.io/k/vtq5kjj) ![](assets/new.png)  
-- [2020-12-03-业务价值驱动的测试](https://toutiao.io/k/ec86a4k) ![](assets/new.png)  
-- [2020-12-03-如何部署一个生产级别的-Kubernetes-应用](https://toutiao.io/k/x8q1chg) ![](assets/new.png)  
-- [2020-12-03-HTTP-接口调试利器！4.8-万-Star-的-HTTP-命令行客户端](https://toutiao.io/k/m57a9qo) ![](assets/new.png)  
-- [2020-12-03-没有共情能力的程序员不是好产品经理](https://toutiao.io/k/e5us9yp) ![](assets/new.png)  
-- [2020-12-03-Java-8-的-Stream-用法](https://toutiao.io/k/de09mol) ![](assets/new.png)  
+- [2020-12-04-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) ![](assets/new.png)  
+- [2020-12-04-AutoExcel-实现百万数据秒级导入导出](https://toutiao.io/k/ui65fqe) ![](assets/new.png)  
+- [2020-12-04-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) ![](assets/new.png)  
+- [2020-12-04-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) ![](assets/new.png)  
+- [2020-12-04-又是一年-“剁手季”，4982-亿背后的秘密，你一定不知道](https://toutiao.io/k/aeh1ryr) ![](assets/new.png)  
+- [2020-12-04-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
+- [2020-12-04-Leveldb-基本介绍和使用指南](https://toutiao.io/k/k3xg4bp) ![](assets/new.png)  
+- [2020-12-04-译-利用-eBPF-支撑大规模-K8s-Service-LPC,-2019](https://toutiao.io/k/s1uqlv5) ![](assets/new.png)  
+- [2020-12-04-如何编写一个-CSI-插件](https://toutiao.io/k/k5e6mg2) ![](assets/new.png)  
+- [2020-12-04-这些图灵奖主原来就藏在身边](https://toutiao.io/k/k3uob96) ![](assets/new.png)  
+- [2020-12-04-网骗欺诈？网络裸奔？都是因为-HTTP？](https://toutiao.io/k/bahqqrr) ![](assets/new.png)  
+- [2020-12-04-工具-|-腾讯开源的云原生一体化部署工具](https://toutiao.io/k/gydx5fk) ![](assets/new.png)  
+- [2020-12-04-分布式一致性协议-Gossip](https://toutiao.io/k/a58kk7g) ![](assets/new.png)  
+- [2020-12-04-Flink-SQL-实战：HBase-的结合应用](https://toutiao.io/k/1v502p6) ![](assets/new.png)  
+- [2020-12-04-硬核万字解读：Kotlin-协程原理解析](https://toutiao.io/k/vtq5kjj) ![](assets/new.png)  
+- [2020-12-04-业务价值驱动的测试](https://toutiao.io/k/ec86a4k) ![](assets/new.png)  
+- [2020-12-04-如何部署一个生产级别的-Kubernetes-应用](https://toutiao.io/k/x8q1chg) ![](assets/new.png)  
+- [2020-12-04-HTTP-接口调试利器！4.8-万-Star-的-HTTP-命令行客户端](https://toutiao.io/k/m57a9qo) ![](assets/new.png)  
+- [2020-12-04-没有共情能力的程序员不是好产品经理](https://toutiao.io/k/e5us9yp) ![](assets/new.png)  
+- [2020-12-04-Java-8-的-Stream-用法](https://toutiao.io/k/de09mol) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

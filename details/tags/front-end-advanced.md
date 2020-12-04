@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 11:26:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 11:34:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -11,6 +11,7 @@
 - [2020-12-02-【招聘】微信对话开放平台招全栈前端工程师](https://www.ershicimi.com/p/465309510c4c6aef0847cb22f3f17644) 
 - [2020-11-28-【第2131期】网络应用如何工作：HTTP和服务器](https://www.ershicimi.com/p/956821e6956083787a1fe167ae794462) 
 - [2020-11-21-AST-实现函数错误自动上报](https://www.ershicimi.com/p/e9402aca3549ada55b9eeb135bfda497) 
+- [2020-11-30-前端开发者正在被迫成为全栈开发人员](https://www.ershicimi.com/p/2249d2d3f3b9bd8ac9346fd90673ecc1) 
 - [2020-12-04-全栈前端⑤群-招人啦！！！](https://www.ershicimi.com/p/6a3671dff34da2eb01ec59dfc889cdf6) 
 - [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/) 
 - [2017-04-11-GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/) 
@@ -22,4 +23,5 @@
 - [2020-12-03-疯了？价值上万元“Web全栈架构师”正课免费？](https://www.ershicimi.com/p/cae5f6db9a2ffaa926bb78df3323fe21) 
 - [2020-12-04-继续出软件包里的-PDFpen-Pro，-Gemini，-Edraw-Mindmaster，-Movavi-Screen-Recorder-2021，-Art-Text-4，-Dropzone-4-Pro](https://www.v2ex.com/t/732239) 
 - [2020-12-04-推荐算法-算不算一种歧视](https://www.v2ex.com/t/732228) 
+- [2020-12-04-推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) 
 - [2020-12-02-集大成!10-种轻量级人脸检测算法的对比-含源码-](https://sec.thief.one/article_content?a_id=036207894a710ba22e10289694c0a599) 

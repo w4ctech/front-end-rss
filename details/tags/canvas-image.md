@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 02:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 02:09:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -23,6 +23,5 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
-- [2020-12-03-Guido-van-Rossum-为什么可以独立开发一门语言-Python-,-我要学习哪些知识，才可以向他那样开发一门语言的第一个版本？](https://www.v2ex.com/t/731947) 
 - [2020-12-03-12月3日GUIBI早内参-灰度将对以太坊信托进行股份分割,“全球首个...](https://sec.thief.one/article_content?a_id=5cfd5bcc90ad671be60da6f9e42b6520) 
 - [2020-12-02-12月2日GUIBI早内参-ETH2.0创世区块已经启动,Facebook已将Libra...](https://sec.thief.one/article_content?a_id=27dfb2d83632af563ffbbfb01a45ad90) 

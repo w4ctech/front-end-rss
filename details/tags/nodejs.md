@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 02:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 02:09:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -34,4 +34,3 @@
 - [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-12-04-webstorm-写-nodejs，对象动态添加的的属性没有提示和自动补全怎么办](https://www.v2ex.com/t/731969) 
-- [2020-12-03-Node.js-日期格式不一致](https://www.v2ex.com/t/731949) 

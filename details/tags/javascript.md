@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 01:15:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 01:47:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -84,7 +84,6 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-12-03-迫于-M1，求推荐-WiFi6-路由](https://www.v2ex.com/t/731940) 
-- [2020-12-03-Webstorm-年付优惠-JavaScript-25-周年活动-50%$29.50](https://www.v2ex.com/t/731922) 
 - [2020-12-04-压箱底笔记：Promise-和-Async/await-的理解和使用](https://toutiao.io/k/iegr5g1) 
 - [2020-12-04-持续部署入门：基于-Kubernetes-实现滚动发布](https://toutiao.io/k/3gvwaz4) 
 - [2020-12-04-如何快速将你的应用封装成-js-sdk?](https://toutiao.io/k/je0hiw0) 

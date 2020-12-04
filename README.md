@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-04 09:05:39，:rocket: 更新条数: +3879， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-04 09:09:38，:rocket: 更新条数: +3688， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -96,6 +96,11 @@
 </summary>
 
 
+- [2020-12-04-香港旅发局宣布因应疫情防控-将取消除夕维港两岸举行烟火倒数等多项活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG5N0YkvW85eA4nU848ac201204&isfromapp=1) ![](assets/new.png)  
+- [2020-12-04-拜登称已邀请福奇担任首席医疗顾问-将敦促美国人佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw4M0egTvYuHgSDShfSTk201204&isfromapp=1) ![](assets/new.png)  
+- [2020-12-04-权威发布！浦东新区周浦镇明天华城小区12月5日零时起调整为低风险地区](http://wsjkw.sh.gov.cn/xwfb/20201204/421cf5cf89d24e1b8fb77e5016fa276b.html) ![](assets/new.png)  
+- [2020-12-04-印度新冠肺炎确诊病例累计超957万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9vgyIuDxHtzOhz2Hoxo0201204&isfromapp=1) ![](assets/new.png)  
+- [2020-12-04-美国疫情数据再创双高！疾控中心警告“凛冬将至”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDIlqEDXcSRkB1oT5528r201204&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -428,6 +433,26 @@
 </summary>
 
 
+- [2020-12-02-NPM-7：这才算是真正的更新](https://www.ershicimi.com/p/2b8c09b383367819c9ceff69417a3412) ![](assets/new.png)  
+- [2020-12-02-如何使用BLoC架构开发Flutter应用](https://www.ershicimi.com/p/5c11306e2c96c52a90888eaf667f9f83) ![](assets/new.png)  
+- [2020-12-02-飞算、ONES、华为都在怎样提升高效研发？来QCon大会给你答案-|-活动推荐](https://www.ershicimi.com/p/5911f57f9bc7c604a950bbefc66ec7fb) ![](assets/new.png)  
+- [2020-12-01-无人维护？官方打脸：Element-UI-for-Vue-3.0-来了！](https://www.ershicimi.com/p/5a7f95490940f11145c39ea4d085874f) ![](assets/new.png)  
+- [2020-12-01-使用简单代码在Android-Jetpack-Compose中开发绘图应用](https://www.ershicimi.com/p/a0b1762ce8f1adbec89dd8de49756e3e) ![](assets/new.png)  
+- [2020-11-30-20个常用的JavaScript简写技巧](https://www.ershicimi.com/p/6b8b236e7590540836c7997b516e944e) ![](assets/new.png)  
+- [2020-11-30-前端开发者正在被迫成为全栈开发人员](https://www.ershicimi.com/p/2249d2d3f3b9bd8ac9346fd90673ecc1) ![](assets/new.png)  
+- [2020-11-30-F=ma，如何使创新具备加速度？-|-活动推荐](https://www.ershicimi.com/p/74f91978e941e68c27baa2f726a2cdd3) ![](assets/new.png)  
+- [2020-11-29-前端周报：Vue-新语法糖引争议；VSCode-现内存泄漏-BUG，官方置若罔闻引不满；百度应用收集](https://www.ershicimi.com/p/dee69a1edc9a0536206e2127d3ac3c20) ![](assets/new.png)  
+- [2020-11-27-PHP-8.0重大版本更新正式发布：支持JIT编译器，性能提升高达3倍](https://www.ershicimi.com/p/fde617f4de8741e04807c67be11b156b) ![](assets/new.png)  
+- [2020-11-27-Flutter状态State的5种应对方法](https://www.ershicimi.com/p/45fff8577709ea71dcfaa006792f1794) ![](assets/new.png)  
+- [2020-11-27-145亿美元背后，困扰-IT-决策者基础性难题是？-|-活动推荐](https://www.ershicimi.com/p/3f02f08dd1057f5d2869b4d70846cde0) ![](assets/new.png)  
+- [2020-11-25-场景构造难，编译很耗时？看小程序业务如何提高效研发](https://www.ershicimi.com/p/9b7cbb4fcfbacff8537b77efb5a0295b) ![](assets/new.png)  
+- [2020-11-25-Electron-11-正式发布：支持苹果-M1-芯片](https://www.ershicimi.com/p/ccf56db0949f80eed83e17e1545b4262) ![](assets/new.png)  
+- [2020-11-25-为应用开发提供强大支撑：AppGallery-Connect-Serverless全面解析-|-活动](https://www.ershicimi.com/p/9736011c4e88644a2839e0589fbc8960) ![](assets/new.png)  
+- [2020-11-23-Vue-新语法糖引争议，网友：魔改-JavaScript，这是想挑战标准？](https://www.ershicimi.com/p/29285e860acb655c954465312314399e) ![](assets/new.png)  
+- [2020-11-23-React-Portals-简述及其用例](https://www.ershicimi.com/p/1f75618d912196c687c9531ba913685a) ![](assets/new.png)  
+- [2020-11-23-还在用分库分表？看TiDB如何解决海量数据无感扩容难题-｜-活动推荐](https://www.ershicimi.com/p/723c01735b4c9c3ee64660456a9343d6) ![](assets/new.png)  
+- [2020-11-22-前端周报：苹果芯成开发者噩梦，多款软件无法正常运行；2020谷歌开发者大会正式举行；苹果回应iPho](https://www.ershicimi.com/p/15d6f1da4538a04d440a0469bc90893b) ![](assets/new.png)  
+- [2020-11-20-将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解](https://www.ershicimi.com/p/48571c2bce08388e0d99c56b20ecbd23) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -712,26 +737,6 @@
 </summary>
 
 
-- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1080,6 +1085,26 @@
 </summary>
 
 
+- [2020-12-04-在云之上的猿辅导，撑住500万中小学生的挑战-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14041&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8969%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-冠赢网络上云-游戏盾彻底解决DDoS/CC攻击-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14039&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9097%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-58到家为2000万家庭提供上门生活服务的背后是云计算的高效支撑-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14038&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F4971%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-母婴企业上云-实现线上线下互动营销、一体化管理服务-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14037&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F6721%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-上学帮上云-阿里云助力教育资讯平台防爬虫-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14036&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9197%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-微服务架构下-CI/CD-如何落地-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14035&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F328238514%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-百家云借助“容器+神龙”三天内实现数十倍扩容-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14034&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8289%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-太平鸟上云-推动中国服饰行业新零售转型-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14033&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8471%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-高德“一键”上云-实现核心数据“3点产出”-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14032&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-蒂森克虏伯上云-加速跨境访问-、降低网络延时-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14031&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7322%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-游戏公司通过云分期-保障业务如期上线-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14030&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9364%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-技术助援公益-Serverless应用引擎上线北大打卡项目-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14029&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15885%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-网骗欺诈？网络裸奔？都是因为-HTTP？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14028&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F325807394%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-业务价值驱动的测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14027&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-value-driven-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-中保车服灾备云，为保险公司“上保险”-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14026&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778853%3Futm_content%3Dg_1000212730%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-东华水泥上云-给水泥生产装上“工业大脑”-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14025&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15884%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-美甲帮通过数加搭建大数据平台-针对百万用户的精细运营-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14024&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8036%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-赛盒科技通过ADB实现广告精细化管理-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14023&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7695%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-04-VIPKID上云-解决多云Web统一安全防护问题-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14022&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

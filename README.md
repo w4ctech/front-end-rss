@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-04 03:51:20，:rocket: 更新条数: +1012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-04 04:05:18，:rocket: 更新条数: +3899， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
 - [前端之巅](#前端之巅)![](assets/dot.png)   
-- [前端迷](#前端迷)  
+- [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
 - [前端宇宙](#前端宇宙)![](assets/dot.png)   
@@ -45,7 +45,7 @@
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-12-04-国家卫健委：12月3日新增确诊病例17例-其中本土病例2例](https://m.caixin.com/m/2020-12-04/101635465.html) ![](assets/new.png)  
+- [2020-12-04-大流行手记|12月3日：多国将免费接种疫苗-东京奥运拟对选手定期检测病毒](https://m.caixin.com/m/2020-12-04/101635450.html) ![](assets/new.png)  
+- [2020-12-03-最新海外疫情：新冠感染超6441万-累计死亡近149万](http://m.international.caixin.com/m/2020-12-03/101635350.html) ![](assets/new.png)  
+- [2020-12-03-【境内疫情观察】全国新增16例境外输入病例（12月2日）](http://m.database.caixin.com/m/2020-12-03/101635189.html) ![](assets/new.png)  
+- [2020-12-03-大流行手记|12月2日：英率先批准辉瑞疫苗上市-日修法支持国民免费打疫苗](https://m.caixin.com/m/2020-12-03/101635045.html) ![](assets/new.png)  
+- [2020-12-02-香港日增病例再破百-全港市民将可免费接种新冠疫苗](http://m.china.caixin.com/m/2020-12-02/101634970.html) ![](assets/new.png)  
+- [2020-12-02-【境内疫情观察】青岛新增2例本土无症状感染者（12月1日）](http://m.database.caixin.com/m/2020-12-02/101634784.html) ![](assets/new.png)  
+- [2020-12-02-大流行手记|12月1日：美国2019年底或已出现新冠感染-韩国再上调防疫级别](https://m.caixin.com/m/2020-12-02/101634640.html) ![](assets/new.png)  
+- [2020-12-01-【境内疫情观察】内蒙古新增4例本土确诊病例（11月30日）](http://m.database.caixin.com/m/2020-12-01/101634347.html) ![](assets/new.png)  
+- [2020-12-01-大流行手记|11月30日：英滚动审评阿斯利康疫苗-Moderna疫苗申请紧急使用](https://m.caixin.com/m/2020-12-01/101634135.html) ![](assets/new.png)  
+- [2020-11-30-香港再收紧防疫措施-特首称全民强制检测“不可行”](http://m.china.caixin.com/m/2020-11-30/101634057.html) ![](assets/new.png)  
+- [2020-11-30-【境内疫情观察】内蒙古新增3例本土确诊病例（11月29日）](http://m.database.caixin.com/m/2020-11-30/101633865.html) ![](assets/new.png)  
+- [2020-11-30-大流行手记|11月29日：美国日增病例过20万-俄军大规模接种新冠疫苗](https://m.caixin.com/m/2020-11-30/101633739.html) ![](assets/new.png)  
+- [2020-11-29-一韩籍员工出境后核酸阳性-所在重庆企业停产](https://m.caixin.com/m/2020-11-29/101633619.html) ![](assets/new.png)  
+- [2020-11-29-香港日增115宗新冠病例-幼儿园中小学停课至12月底](https://m.caixin.com/m/2020-11-29/101633672.html) ![](assets/new.png)  
+- [2020-11-29-【境内疫情观察】全国新增11例境外输入病例（11月28日）](http://m.database.caixin.com/m/2020-11-29/101633629.html) ![](assets/new.png)  
+- [2020-11-29-大流行手记|11月28日：阿斯利康新冠疫苗或延迟上市-欧美迎萧条圣诞季](https://m.caixin.com/m/2020-11-29/101633597.html) ![](assets/new.png)  
+- [2020-11-28-【境内疫情观察】全国新增6例境外输入病例（11月27日）](http://m.database.caixin.com/m/2020-11-28/101633496.html) ![](assets/new.png)  
+- [2020-11-28-大流行手记|11月27日：东南亚国家积极采购疫苗-美四成新冠死者出自养老院](https://m.caixin.com/m/2020-11-28/101633388.html) ![](assets/new.png)  
+- [2020-11-28-聚焦|张文宏：新冠+流感，合并感染冬季常见无须恐惧](http://m.opinion.caixin.com/m/2020-11-28/101633435.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -444,6 +464,26 @@
 </summary>
 
 
+- [2020-12-02-React-怎么实现预防XSS-攻击的](https://www.ershicimi.com/p/fdf460226b453b6e6c4993a151d7a2a2) ![](assets/new.png)  
+- [2020-12-01-React-怎么实现预防XSS-攻击的](https://www.ershicimi.com/p/ab96d0f9f61f295b5e6344b8873632fc) ![](assets/new.png)  
+- [2020-11-30-Svelte-前端框架，开发读书笔记](https://www.ershicimi.com/p/e7e024571d34ebd3e695f30e7ffd95d0) ![](assets/new.png)  
+- [2020-11-29-深入了解-Vue3-模板编译原理](https://www.ershicimi.com/p/d48e244f088ccd577dc2861dac074894) ![](assets/new.png)  
+- [2020-11-28-海康威视web前端开发招聘急招岗](https://www.ershicimi.com/p/e1f2165d75551bd5651298d6864ccc0b) ![](assets/new.png)  
+- [2020-11-27-28岁华为员工工资表曝光，牛逼的人注定会牛逼](https://www.ershicimi.com/p/7d715b6db2139b596eace5f0fdc2c08e) ![](assets/new.png)  
+- [2020-11-26-全新AirPods-Pro（1999R）抽浆活动](https://www.ershicimi.com/p/c776cb122f714210ce63c7cb8d428a37) ![](assets/new.png)  
+- [2020-11-25-大牛必备：前端与图形学](https://www.ershicimi.com/p/7a715ef92100910f7b21352db21a67d5) ![](assets/new.png)  
+- [2020-11-24-深入了解-Vue3-响应式原理](https://www.ershicimi.com/p/05c75fda7e086dac7dc11a6a73ff9d38) ![](assets/new.png)  
+- [2020-11-23-Vue3源码-nextTick解析](https://www.ershicimi.com/p/d51475d104b740f1b2c866fd6d18fae6) ![](assets/new.png)  
+- [2020-11-22-React16源码解读：揭秘ReactDOM.render](https://www.ershicimi.com/p/d20f88e781efc2e77670552ad2008691) ![](assets/new.png)  
+- [2020-11-21-抖音前端安全招前端（实习、高级都招）](https://www.ershicimi.com/p/cb4bcf2ebbdf8937d5ca6c8723e4b6a2) ![](assets/new.png)  
+- [2020-11-20-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f7a0c514829ee6cfb825327ed2797705) ![](assets/new.png)  
+- [2020-11-19-前端性能优化-24-条建议（2020）](https://www.ershicimi.com/p/16fae320bad6ffa073196dcf8c778d76) ![](assets/new.png)  
+- [2020-11-18-聊聊CommonJS与ES6-Module的使用与区别](https://www.ershicimi.com/p/4f80f6e07bdebb993be1630cf7c39137) ![](assets/new.png)  
+- [2020-11-17-最全的JavaScript常见的操作数组的函数方法宝典](https://www.ershicimi.com/p/d5e4739afdc43a658339cf949e2c0e1a) ![](assets/new.png)  
+- [2020-11-16-除了上班，前端还有哪些方法挣钱？](https://www.ershicimi.com/p/870af759741d843fa62481fe2bf10349) ![](assets/new.png)  
+- [2020-11-15-字节前端原题Add-sumOf](https://www.ershicimi.com/p/6f6023279122483b1880a334c002fd7b) ![](assets/new.png)  
+- [2020-11-12-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/853f12e5d2578bad8a5c98ccc396cda9) ![](assets/new.png)  
+- [2020-11-11-WebGL-水波及焦散（刻蚀）的渲染总结](https://www.ershicimi.com/p/09beabb4d4095136601674e205b1b893) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端迷.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -883,26 +923,6 @@
 </summary>
 
 
-- [2020-11-30-大牛必备：前端与图形学](https://www.ershicimi.com/p/bd09372d8f116c35e638d0696674ea89) ![](assets/new.png)  
-- [2020-11-27-为什么程序员都跑去做这个？](https://www.ershicimi.com/p/c7570ac3c0f8ee4dee7608e856c31f52) ![](assets/new.png)  
-- [2020-11-26-从0到1熟悉VUE，只需3天！](https://www.ershicimi.com/p/cda44a7d05868dc91f7414c2439d5a92) ![](assets/new.png)  
-- [2020-11-25-初级前端的源码水平-VS-资深前端的源码水平](https://www.ershicimi.com/p/24a9326fe023cc417f59560f6a2cd9e1) ![](assets/new.png)  
-- [2020-11-24-大厂标准前端简历写法+最新入职阿里字节简历模板](https://www.ershicimi.com/p/a67ebae05239460a0175f2ffb6adba6f) ![](assets/new.png)  
-- [2020-11-23-如果Element-UI-不维护了，也不支持-Vue3.0-了，怎么办？](https://www.ershicimi.com/p/5c6101bea521ded8894ea81e09dfae85) ![](assets/new.png)  
-- [2020-11-20-真的搞不懂大厂为什么都喜欢用-React-？](https://www.ershicimi.com/p/3764498f36f73ab3bc9b125466235f41) ![](assets/new.png)  
-- [2020-11-19-用一个实战项目快速入门VUE3.0！](https://www.ershicimi.com/p/fc84a2db92ec8ada4ee7dfd934476f96) ![](assets/new.png)  
-- [2020-11-18-前端人的无奈：原来我在领导心中就是写页面的呀~](https://www.ershicimi.com/p/f18e92921a392a87ef1b5054f72860e9) ![](assets/new.png)  
-- [2020-11-17-这7个vue技巧，简直让面试加分！](https://www.ershicimi.com/p/5e206d0f44094c5f63393b87e45edfd3) ![](assets/new.png)  
-- [2020-11-16-前端工程师如何成为独立开发者，实现财务自由？](https://www.ershicimi.com/p/0c5c094c758dfde5a27d89396c6da6ff) ![](assets/new.png)  
-- [2020-11-13-做了这个Vue3.0实战项目，大厂二面过了，提薪55%！（附项目全过程）](https://www.ershicimi.com/p/38d2520cd5b43a11af949b1da0c7a2ad) ![](assets/new.png)  
-- [2020-11-11-看到阿里程序员双11的开发任务，我觉得自己不配](https://www.ershicimi.com/p/2eaa1484c6208d7ae4b6527746a450b8) ![](assets/new.png)  
-- [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) ![](assets/new.png)  
-- [2020-11-09-想进大厂不知道怎么提升自己？这里有一个专属前端人的学习机会！](https://www.ershicimi.com/p/ba11d99f3d0a6ddd718c6ea6ebe35096) ![](assets/new.png)  
-- [2020-11-07-为啥我学了2年多的Web，还是上手不了业务？](https://www.ershicimi.com/p/b600c2a7c6c6ba42c7320a77bf185ac4) ![](assets/new.png)  
-- [2020-11-05-前端开发进阶手册.pdf](https://www.ershicimi.com/p/dc2dfb676481eb6ebc63fca8f8467879) ![](assets/new.png)  
-- [2020-11-04-知乎热榜：美团21届应届生薪资严重倒挂老人，这是逼老人离职吗？](https://www.ershicimi.com/p/3fe7fdf40659fab1d18e9055648e8afd) ![](assets/new.png)  
-- [2020-11-03-搞不懂为啥都要去字节跳动。。。](https://www.ershicimi.com/p/fa53adb7f5ff8cc9e303c9b37d9db185) ![](assets/new.png)  
-- [2020-11-02-面试的时候，只会vue能行么？](https://www.ershicimi.com/p/de8096ff1d6ac01c6ff82a1f19aa0ff1) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -914,11 +934,11 @@
 </summary>
 
 
-- [2020-12-03-Electron桌面端所见即所得-Electron练习生](https://juejin.im/post/6902230039366991879) ![](assets/new.png)  
-- [2020-12-03-适合-JS-新手学习的开源项目——在-GitHub-学编程](https://juejin.im/post/6902201958489292813) ![](assets/new.png)  
-- [2020-12-03-jsliang-求职系列---32---Webpack-简单实现](https://juejin.im/post/6902180301217366030) ![](assets/new.png)  
-- [2020-12-03-给小程序再减重-30%-的秘密​---京喜小程序首页瘦身实践](https://juejin.im/post/6902082321424318471) ![](assets/new.png)  
 - [2020-12-03-一文彻底读懂Vue-2.x运行机制](https://juejin.im/post/6901990011298807815) ![](assets/new.png)  
+- [2020-12-03-核心概念-前端浏览器缓存详解](https://juejin.im/post/6901981592458444807) ![](assets/new.png)  
+- [2020-12-03-Vue2.0源码分析：编译原理下](https://juejin.im/post/6901945344189366279) ![](assets/new.png)  
+- [2020-12-03-Vue2.0源码分析：编译原理上](https://juejin.im/post/6901945056211664910) ![](assets/new.png)  
+- [2020-12-03-Vue项目如何获取Docker的环境变量——最小完整实践](https://juejin.im/post/6901944817106812942) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1034,6 +1054,12 @@
 </summary>
 
 
+- [2020-12-04-iOS-不同应用通知声音不同是怎么做到的？](https://www.v2ex.com/t/732056) ![](assets/new.png)  
+- [2020-12-04-腾讯-CF-论坛被插了-XSS](https://www.v2ex.com/t/732055) ![](assets/new.png)  
+- [2020-12-04-招行-10-元风暴必胜车](https://www.v2ex.com/t/732053) ![](assets/new.png)  
+- [2020-12-04-家用净水器有推荐的吗，三口之家](https://www.v2ex.com/t/732052) ![](assets/new.png)  
+- [2020-12-04-云原生相关的工作有前途吗？](https://www.v2ex.com/t/732050) ![](assets/new.png)  
+- [2020-12-04-JDK-1.8-@Target-新加的两个类型的作用是什么](https://www.v2ex.com/t/732049) ![](assets/new.png)  
 - [2020-12-04-关于这-2-年来，做开源项目的一些感慨](https://www.v2ex.com/t/732048) ![](assets/new.png)  
 - [2020-12-04-继续出-app-捆绑包软件，还剩下几个](https://www.v2ex.com/t/732047) ![](assets/new.png)  
 - [2020-12-04-上次道听途说不在苹果买新机Mac-系列也能官方回收旧机](https://www.v2ex.com/t/732046) ![](assets/new.png)  
@@ -1048,12 +1074,6 @@
 - [2020-12-04-webstorm-来了，-intellij-还会远么](https://www.v2ex.com/t/732033) ![](assets/new.png)  
 - [2020-12-04-群晖要求限期绑定手机号了，那么存在-NAS-里的东西会被审查吗？](https://www.v2ex.com/t/732032) ![](assets/new.png)  
 - [2020-12-04-JetBrains-WebStorm-五折优惠](https://www.v2ex.com/t/732030) ![](assets/new.png)  
-- [2020-12-04-北京-跟谁学-高途课堂招人啦！前端后端客户端测试，各段位皆可](https://www.v2ex.com/t/732027) ![](assets/new.png)  
-- [2020-12-04-推荐一个炒股看基的盯盘浏览器插件，非常好用](https://www.v2ex.com/t/732024) ![](assets/new.png)  
-- [2020-12-04-大家现在移动端开发都采用-Hybrid-吗？](https://www.v2ex.com/t/732023) ![](assets/new.png)  
-- [2020-12-04-小白求酒类推荐](https://www.v2ex.com/t/732022) ![](assets/new.png)  
-- [2020-12-04-字节跳动-急招-基础架构-SRE-高级/实习/工程师（北京/上海/深圳）](https://www.v2ex.com/t/732021) ![](assets/new.png)  
-- [2020-12-04-!DHcnVe.pnghttps://s3.ax1x.com/2020/12/04/DHcnVe.png-这个是个什么在跑者呢？风扇一直转](https://www.v2ex.com/t/732019) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1111,8 +1131,8 @@
 - [2020-12-04-源码深度解析-Handler-机制及应用](https://toutiao.io/k/hslrl9e) ![](assets/new.png)  
 - [2020-12-04-信息流推荐的用户增长机制](https://toutiao.io/k/l5cdfyb) ![](assets/new.png)  
 - [2020-12-04-Rollup-中的-esm-模块-和-cmd-模块](https://toutiao.io/k/w1wt2fo) ![](assets/new.png)  
-- [2020-12-04-Redis-的事务（二）](https://toutiao.io/k/32vnbnk) ![](assets/new.png)  
 - [2020-12-04-UME：丰富的-Flutter-调试工具](https://toutiao.io/k/92iqb9j) ![](assets/new.png)  
+- [2020-12-04-Redis-的事务（二）](https://toutiao.io/k/32vnbnk) ![](assets/new.png)  
 - [2020-12-04-Hive-调优，数据工程师成神之路](https://toutiao.io/k/2ftggnm) ![](assets/new.png)  
 - [2020-12-04-揭秘-Spring-类型转换：框架设计的基石](https://toutiao.io/k/rlxy73m) ![](assets/new.png)  
 - [2020-12-04-关于-MySQL-varchar-类型最大值，原来一直都理解错了](https://toutiao.io/k/3liu51q) ![](assets/new.png)  

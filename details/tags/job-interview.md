@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 06:53:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 07:07:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -41,6 +41,5 @@
 - [2020-12-04-深圳-腾讯广告招聘-WEB-开发工程师](https://www.v2ex.com/t/732116) 
 - [2020-12-04-当面试官问项目中的技术亮点的时候应该怎么回答](https://www.v2ex.com/t/732109) 
 - [2020-12-04-爱立信上海核心网招聘-C++/-Java-/Golang/-Python-工程师](https://www.v2ex.com/t/732093) 
-- [2020-12-04-大禹智芯-招聘-C-语音开发工程师（DPDK）](https://www.v2ex.com/t/732074) 
 - [2020-12-04-安恒信息-|-长期招聘](https://sec.thief.one/article_content?a_id=620217b9cd98ad265e4ea0f2766097b0) 
 - [2020-12-03-【美团招聘】冬季专场Vol.2——24个职位已上新!](https://sec.thief.one/article_content?a_id=32bcb4a76f73691a20849cee10277371) 

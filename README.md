@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-04 00:08:23，:rocket: 更新条数: +3920， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-04 00:18:38，:rocket: 更新条数: +3910， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-12-04-15-年的机器可以升-big-sur-吗？](https://www.v2ex.com/t/731961) ![](assets/new.png)  
 - [2020-12-03-每日上传-教娃编程视频](https://www.v2ex.com/t/731958) ![](assets/new.png)  
 - [2020-12-03-几万条网页剪藏，且在不断增加中，如何便捷的管理与检索？](https://www.v2ex.com/t/731957) ![](assets/new.png)  
 - [2020-12-03-有人更新-Big-Sur-11.1-beta-了吗？](https://www.v2ex.com/t/731956) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-12-03-个人转租,-6-号线十里堡地铁附近,40-平超大主卧独卫~](https://www.v2ex.com/t/731938) ![](assets/new.png)  
 - [2020-12-03-Tiled-Map-中的地形问题请教](https://www.v2ex.com/t/731937) ![](assets/new.png)  
 - [2020-12-03-长白山求伴…](https://www.v2ex.com/t/731936) ![](assets/new.png)  
-- [2020-12-03-套娃：在-M1-的-Simulator-里的-Safari-运行-BrowserBench](https://www.v2ex.com/t/731934) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,26 +1136,26 @@
 </summary>
 
 
-- [2020-12-04-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) ![](assets/new.png)  
-- [2020-12-04-AutoExcel-实现百万数据秒级导入导出](https://toutiao.io/k/ui65fqe) ![](assets/new.png)  
-- [2020-12-04-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) ![](assets/new.png)  
-- [2020-12-04-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) ![](assets/new.png)  
-- [2020-12-04-又是一年-“剁手季”，4982-亿背后的秘密，你一定不知道](https://toutiao.io/k/aeh1ryr) ![](assets/new.png)  
-- [2020-12-04-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
-- [2020-12-04-Leveldb-基本介绍和使用指南](https://toutiao.io/k/k3xg4bp) ![](assets/new.png)  
-- [2020-12-04-译-利用-eBPF-支撑大规模-K8s-Service-LPC,-2019](https://toutiao.io/k/s1uqlv5) ![](assets/new.png)  
-- [2020-12-04-如何编写一个-CSI-插件](https://toutiao.io/k/k5e6mg2) ![](assets/new.png)  
-- [2020-12-04-这些图灵奖主原来就藏在身边](https://toutiao.io/k/k3uob96) ![](assets/new.png)  
-- [2020-12-04-网骗欺诈？网络裸奔？都是因为-HTTP？](https://toutiao.io/k/bahqqrr) ![](assets/new.png)  
-- [2020-12-04-工具-|-腾讯开源的云原生一体化部署工具](https://toutiao.io/k/gydx5fk) ![](assets/new.png)  
-- [2020-12-04-分布式一致性协议-Gossip](https://toutiao.io/k/a58kk7g) ![](assets/new.png)  
-- [2020-12-04-Flink-SQL-实战：HBase-的结合应用](https://toutiao.io/k/1v502p6) ![](assets/new.png)  
-- [2020-12-04-硬核万字解读：Kotlin-协程原理解析](https://toutiao.io/k/vtq5kjj) ![](assets/new.png)  
-- [2020-12-04-业务价值驱动的测试](https://toutiao.io/k/ec86a4k) ![](assets/new.png)  
-- [2020-12-04-如何部署一个生产级别的-Kubernetes-应用](https://toutiao.io/k/x8q1chg) ![](assets/new.png)  
-- [2020-12-04-HTTP-接口调试利器！4.8-万-Star-的-HTTP-命令行客户端](https://toutiao.io/k/m57a9qo) ![](assets/new.png)  
-- [2020-12-04-没有共情能力的程序员不是好产品经理](https://toutiao.io/k/e5us9yp) ![](assets/new.png)  
-- [2020-12-04-Java-8-的-Stream-用法](https://toutiao.io/k/de09mol) ![](assets/new.png)  
+- [2020-12-04-微服务架构下-CI/CD-如何落地](https://toutiao.io/k/303m5ez) ![](assets/new.png)  
+- [2020-12-04-持续部署入门：基于-Kubernetes-实现滚动发布](https://toutiao.io/k/3gvwaz4) ![](assets/new.png)  
+- [2020-12-04-聊聊-k8s-调试工具-kt-connect-的实现](https://toutiao.io/k/p6ic0m3) ![](assets/new.png)  
+- [2020-12-04-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) ![](assets/new.png)  
+- [2020-12-04-压箱底笔记：Promise-和-Async/await-的理解和使用](https://toutiao.io/k/iegr5g1) ![](assets/new.png)  
+- [2020-12-04-研发团队技术学习与分享](https://toutiao.io/k/tlkngef) ![](assets/new.png)  
+- [2020-12-04-译-云原生安全白皮书](https://toutiao.io/k/21lvvit) ![](assets/new.png)  
+- [2020-12-04-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
+- [2020-12-04-深入解读：KubeVela-与-PaaS-有何不同？](https://toutiao.io/k/sf85d4l) ![](assets/new.png)  
+- [2020-12-04-IP/IPv6-地址到区域运营商](https://toutiao.io/k/ypc4nlf) ![](assets/new.png)  
+- [2020-12-04-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
+- [2020-12-04-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
+- [2020-12-04-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
+- [2020-12-04-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
+- [2020-12-04-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
+- [2020-12-04-推荐-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) ![](assets/new.png)  
+- [2020-12-04-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
+- [2020-12-04-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
+- [2020-12-04-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
+- [2020-12-04-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1167,26 +1167,26 @@
 </summary>
 
 
+- [2020-12-04-11-月全国程序员平均工资出炉](https://sec.thief.one/article_content?a_id=8c681c8caaca610727c46d4ff90181e8) ![](assets/new.png)  
+- [2020-12-04-Github年度趋势报告发布:哪门语言勇夺桂冠?Python位居何处?](https://sec.thief.one/article_content?a_id=111ed62c81c52837bae2ab1c0713b758) ![](assets/new.png)  
+- [2020-12-04-【视频】|-Python:元组](https://sec.thief.one/article_content?a_id=696ae27b3fdadd033ded1b305945783b) ![](assets/new.png)  
+- [2020-12-04-App必要个人信息范围征求稿发布,收集使用最小必要评估团体规范...](https://sec.thief.one/article_content?a_id=70e542058072ec053ae7267d43c98148) ![](assets/new.png)  
+- [2020-12-03-再见,优酷!再见,爱奇艺!](https://sec.thief.one/article_content?a_id=5794da96c192fe989f47db2626f80775) ![](assets/new.png)  
+- [2020-12-03-【安全圈】黑客组织被曝利用-Dropbox-存储恶意软件窃取来的数据](https://sec.thief.one/article_content?a_id=5f4b68855df9746838312dac116a66eb) ![](assets/new.png)  
+- [2020-12-03-WAPDropper恶意软件:“为你好就悄悄帮你定制高级拨号服务”](https://sec.thief.one/article_content?a_id=7b9824f534580508bdd8f94863e7f590) ![](assets/new.png)  
+- [2020-12-03-这款开源的-Python-老照片修复工具火了](https://sec.thief.one/article_content?a_id=4b290f799d495c2eb3be1db8aeb420db) ![](assets/new.png)  
+- [2020-12-03-当我们谈到情报-我们在谈论什么](https://sec.thief.one/article_content?a_id=32a4a63d2fc26bde83d2db819ed33dd2) ![](assets/new.png)  
+- [2020-12-03-【重点产品升级提示】内附详细检测方法和修复方案,Containerd...](https://sec.thief.one/article_content?a_id=da5a9e870f11efdf4a5062f6583e197e) ![](assets/new.png)  
+- [2020-12-03-乌克兰加密法案草案通过第一场议会听证会](https://sec.thief.one/article_content?a_id=b4fd90877dcbdfd3b59aae898a86a159) ![](assets/new.png)  
+- [2020-12-03-赛尔年会案例分享二丨打造校园全方位协同安全运营能力](https://sec.thief.one/article_content?a_id=9356eb684d475d4bea6c0d5002368b5c) ![](assets/new.png)  
+- [2020-12-03-奇安信一科研项目荣获“吴文俊人工智能科技进步奖”](https://sec.thief.one/article_content?a_id=e08a69b6f62c239e7ed5eaa96d4213ce) ![](assets/new.png)  
+- [2020-12-03-大咖来了|字节跳动、阿里、滴滴现场多视角解读安全](https://sec.thief.one/article_content?a_id=80624d28bbdeb9cb0ab634c57059b459) ![](assets/new.png)  
 - [2020-12-03-解放你的双手,Telegram不碰手机也能发消息了!](https://sec.thief.one/article_content?a_id=794e28581e5244012089313fee5d238c) ![](assets/new.png)  
 - [2020-12-03-掘力行业生命线:解码年度网安界的压轴大选](https://sec.thief.one/article_content?a_id=af4c6afdea84adf9822aca6778656b5b) ![](assets/new.png)  
+- [2020-12-03-【病毒文件分析】MedusaLocker勒索病毒,小心全网被加密](https://sec.thief.one/article_content?a_id=444abf6f7819502a11912870de05195a) ![](assets/new.png)  
 - [2020-12-03-犇众信息荣获第八届CNCERT网络安全应急服务省级优秀支撑单位](https://sec.thief.one/article_content?a_id=76fdf7d317df915061eb038dc85a4e4f) ![](assets/new.png)  
 - [2020-12-03-今晚直播预告丨红队大佬亲临直播间,传授建设之道!](https://sec.thief.one/article_content?a_id=1e802e1181fbb156dee58699e78f7294) ![](assets/new.png)  
 - [2020-12-03-PyYAML反序列化防御和ByPass](https://sec.thief.one/article_content?a_id=54f92b790765dd02bce636e74dfae006) ![](assets/new.png)  
-- [2020-12-03-浅谈攻防演练中的信息收集](https://sec.thief.one/article_content?a_id=abf3e7f66dd6ffe77b24079d18f53350) ![](assets/new.png)  
-- [2020-12-03-【人民记忆:百年百城】杭州奔小康](https://sec.thief.one/article_content?a_id=11544c5122815ed4a8ece36ee3fe3d09) ![](assets/new.png)  
-- [2020-12-03-​诸子云-|-项目:代码审计建设调研报告](https://sec.thief.one/article_content?a_id=036524b148de95c066a69acc4199ffad) ![](assets/new.png)  
-- [2020-12-03-Windows创建影子用户获取指定用户界面](https://sec.thief.one/article_content?a_id=c83d39e3b01cfba738551506b9bc9f28) ![](assets/new.png)  
-- [2020-12-03-招人!奇安信威胁情报中心欢迎高手加盟](https://sec.thief.one/article_content?a_id=15ef3b53a8d284701d4294a4eed96f7a) ![](assets/new.png)  
-- [2020-12-03-KimsukyAPT组织针对朝鲜核问题发动的新一轮攻击](https://sec.thief.one/article_content?a_id=cb3a8b7109447b8fc4b1638f0b74340c) ![](assets/new.png)  
-- [2020-12-03-湾区创见·网络安全大会数据安全及隐私保护专场精彩内容回顾](https://sec.thief.one/article_content?a_id=780d880fc583658aab88939bd4da76d3) ![](assets/new.png)  
-- [2020-12-03-12月3日GUIBI早内参-灰度将对以太坊信托进行股份分割,“全球首个...](https://sec.thief.one/article_content?a_id=5cfd5bcc90ad671be60da6f9e42b6520) ![](assets/new.png)  
-- [2020-12-03-全国首个禁止企事业单位采集人脸信息的地方条例颁布](https://sec.thief.one/article_content?a_id=7371713abc27da8e25458e96c8e9a854) ![](assets/new.png)  
-- [2020-12-03-macOS的15个安全技巧二](https://sec.thief.one/article_content?a_id=88c3df8e6ec15500edf6a2275883fc89) ![](assets/new.png)  
-- [2020-12-03-​用-Python-让-Excel-表格合并飞起来](https://sec.thief.one/article_content?a_id=a6fa4d2abbc95cfc49247297399b1ac8) ![](assets/new.png)  
-- [2020-12-03-扶贫路上这些事儿,你可记得](https://sec.thief.one/article_content?a_id=4ef9cd032062dc4b0eab3b9a31b1aa5c) ![](assets/new.png)  
-- [2020-12-03-大牛必备:前端与图形学](https://sec.thief.one/article_content?a_id=3febe126b84543134be9c99b34131afd) ![](assets/new.png)  
-- [2020-12-03-Vulnhub靶机实战之HA:-Forensics](https://sec.thief.one/article_content?a_id=beb6c1e2f52fe1ee1b7d6f5b64f094ed) ![](assets/new.png)  
-- [2020-12-03-【美团招聘】冬季专场Vol.2——24个职位已上新!](https://sec.thief.one/article_content?a_id=32bcb4a76f73691a20849cee10277371) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 09:55:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 10:04:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -40,6 +40,5 @@
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-12-04-广州卡瓦科技-招聘前端/-Java-/安卓人才-岗位核心/工作-965/氛围简单/五险一金](https://www.v2ex.com/t/732208) 
 - [2020-12-04-杭州-有赞-招技术-，面试流程快，无套路](https://www.v2ex.com/t/732196) 
-- [2020-12-04-现在还有公司在面试的时候让人白板写代码吗？](https://www.v2ex.com/t/732163) 
 - [2020-12-04-安恒信息-|-长期招聘](https://sec.thief.one/article_content?a_id=620217b9cd98ad265e4ea0f2766097b0) 
 - [2020-12-03-【美团招聘】冬季专场Vol.2——24个职位已上新!](https://sec.thief.one/article_content?a_id=32bcb4a76f73691a20849cee10277371) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-05 15:04:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 15:10:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-05-Pyenv-编译失败，有没有大佬知道怎么解决？](https://www.v2ex.com/t/732540) 
 - [2020-12-05-RX-560/570/580-在-Big-Sur-下可以解码-VP9-吗？](https://www.v2ex.com/t/732539) 
 - [2020-12-05-怎么用-xprivacy-改基站定位](https://www.v2ex.com/t/732536) 
 - [2020-12-05-MacBook-Pro-16-寸-2019-款拖影问题](https://www.v2ex.com/t/732535) 
@@ -43,4 +44,3 @@
 - [2020-12-05-IOS-的-safari-有没有办法添加生词本](https://www.v2ex.com/t/732494) 
 - [2020-12-05-JS-中没有传统意义上的数组，数组其实是哈希表](https://www.v2ex.com/t/732492) 
 - [2020-12-05-各位主账号是哪个区的呢？](https://www.v2ex.com/t/732491) 
-- [2020-12-05-请教一下-mac-端的照片应用怎么删除占用空间，不影响-iCloud-和-iPhone-的照片？](https://www.v2ex.com/t/732490) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-05 09:40:53，:rocket: 更新条数: +3910， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-05 09:50:39，:rocket: 更新条数: +3910， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-12-05-大龄码农人生岔路口，求帮忙做个选择题选择-offer。](https://www.v2ex.com/t/732474) ![](assets/new.png)  
 - [2020-12-05-dogedoge.com-is-ok-now.](https://www.v2ex.com/t/732473) ![](assets/new.png)  
 - [2020-12-05-c-语言是基于汇编的，那么这么多年的积累了，能否基于汇编开发一个比-c-更好的语言，或者这些年-汇编和-c-语言之间的-架构是保持升级的吗？-或者还是很多年前的...](https://www.v2ex.com/t/732472) ![](assets/new.png)  
 - [2020-12-05-求一个-Win7-下能同步编辑-outlook-邮箱中便笺的软件，超级轻量的。](https://www.v2ex.com/t/732470) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-12-05-OpenCore-小白卡住了，有大佬没事愿意看看吗](https://www.v2ex.com/t/732448) ![](assets/new.png)  
 - [2020-12-05-法律咨询：拦截智能家居并让其连接至指定服务器，这样的产品有违法嫌疑吗？](https://www.v2ex.com/t/732446) ![](assets/new.png)  
 - [2020-12-05-沃柑应期而至,继续抽奖啦~](https://www.v2ex.com/t/732445) ![](assets/new.png)  
-- [2020-12-05-自用-apple-id-三四年没收到过垃圾广告骚扰,去维修一次后变了](https://www.v2ex.com/t/732444) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,16 +1146,16 @@
 - [2020-12-05-工具-|-滴滴开源的，专注于移动端操作行为的工具](https://toutiao.io/k/oacqzea) ![](assets/new.png)  
 - [2020-12-05-Sentinel-系统自适应限流（原理源码）](https://toutiao.io/k/yym9n4f) ![](assets/new.png)  
 - [2020-12-05-阿里云在应用扩缩容下遇到的挑战与选型思考](https://toutiao.io/k/qdpewav) ![](assets/new.png)  
-- [2020-12-05-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
-- [2020-12-05-推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
-- [2020-12-05-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
+- [2020-12-05-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
 - [2020-12-05-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) ![](assets/new.png)  
-- [2020-12-05-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
 - [2020-12-05-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
-- [2020-12-05-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
+- [2020-12-05-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
+- [2020-12-05-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
+- [2020-12-05-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
+- [2020-12-05-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
+- [2020-12-05-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
 - [2020-12-05-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
 - [2020-12-05-推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) ![](assets/new.png)  
-- [2020-12-05-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

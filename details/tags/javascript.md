@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 23:48:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 00:08:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -111,7 +111,8 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-12-04-压箱底笔记：Promise-和-Async/await-的理解和使用](https://toutiao.io/k/iegr5g1) 
-- [2020-12-04-持续部署入门：基于-Kubernetes-实现滚动发布](https://toutiao.io/k/3gvwaz4) 
-- [2020-12-04-如何快速将你的应用封装成-js-sdk?](https://toutiao.io/k/je0hiw0) 
+- [2020-12-05-压箱底笔记：Promise-和-Async/await-的理解和使用](https://toutiao.io/k/iegr5g1) 
+- [2020-12-05-持续部署入门：基于-Kubernetes-实现滚动发布](https://toutiao.io/k/3gvwaz4) 
+- [2020-12-05-如何快速将你的应用封装成-js-sdk?](https://toutiao.io/k/je0hiw0) 
+- [2020-12-05-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) 
 - [2020-12-03-年度盘点二:2020年最严重的加密货币入侵事件](https://sec.thief.one/article_content?a_id=395d916157a3624f3b1fe5f719fb0a35) 

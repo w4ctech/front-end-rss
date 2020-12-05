@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-05 18:30:27，:rocket: 更新条数: +3894， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-05 18:44:24，:rocket: 更新条数: +3658， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -737,26 +737,6 @@
 </summary>
 
 
-- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,22 +1120,22 @@
 - [2020-12-05-初识-GitLab-工作流](https://toutiao.io/k/wvirq27) ![](assets/new.png)  
 - [2020-12-05-工具-|-滴滴开源的，专注于移动端操作行为的工具](https://toutiao.io/k/oacqzea) ![](assets/new.png)  
 - [2020-12-05-Serverless-是一种思想状态](https://toutiao.io/k/1f5yiz9) ![](assets/new.png)  
-- [2020-12-05-我们是如何变普通的？](https://toutiao.io/k/t7l9mpf) ![](assets/new.png)  
 - [2020-12-05-十张动图带你搞懂排序算法（附-Go-实现代码）](https://toutiao.io/k/ciar2yc) ![](assets/new.png)  
+- [2020-12-05-我们是如何变普通的？](https://toutiao.io/k/t7l9mpf) ![](assets/new.png)  
 - [2020-12-05-求你了，不要再在对外接口中使用枚举类型了](https://toutiao.io/k/mv4rps0) ![](assets/new.png)  
 - [2020-12-05-阿里云在应用扩缩容下遇到的挑战与选型思考](https://toutiao.io/k/qdpewav) ![](assets/new.png)  
 - [2020-12-05-Bug-Report-该怎么做？](https://toutiao.io/k/srkyikg) ![](assets/new.png)  
 - [2020-12-05-Sentinel-系统自适应限流（原理源码）](https://toutiao.io/k/yym9n4f) ![](assets/new.png)  
 - [2020-12-05-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
-- [2020-12-05-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
-- [2020-12-05-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
-- [2020-12-05-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
-- [2020-12-05-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
-- [2020-12-05-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
-- [2020-12-05-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) ![](assets/new.png)  
-- [2020-12-05-推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) ![](assets/new.png)  
-- [2020-12-05-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
 - [2020-12-05-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
+- [2020-12-05-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
+- [2020-12-05-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
+- [2020-12-05-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
+- [2020-12-05-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
+- [2020-12-05-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
+- [2020-12-05-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
+- [2020-12-05-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
+- [2020-12-05-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

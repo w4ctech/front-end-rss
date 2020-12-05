@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-05 05:28:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 05:36:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -149,9 +149,9 @@
 - [【奇舞周刊】如何用-Babel-为代码自动引入依赖](https://www.ershicimi.com/p/aac8ad30578b892c3275f8e9a83a4ac2)
 - [【奇舞周刊】一文带你快速上手Rollup](https://www.ershicimi.com/p/55dfb026f34fd70cb8e82888b500457d)
 - [【互联网架构师】如何构建一个可靠的分布式系统？](https://www.ershicimi.com/p/c88f766db7e78e81a7af763191eaa5bf)
+- [【掘金前端】nuxt构建项目打包部署服务器一（服务器篇）](https://juejin.im/post/6902588848128458759)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【编程之上】万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019)
-- [【编程之上】4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -528,6 +528,8 @@
 - [【JavaScript】疯了？价值上万元“Web全栈架构师”正课免费？](https://www.ershicimi.com/p/cae5f6db9a2ffaa926bb78df3323fe21)
 - [【技术头条】网骗欺诈？网络裸奔？都是因为-HTTP？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14028&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F325807394%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】十张动图带你搞懂排序算法（附-Go-实现代码）](https://toutiao.io/k/ciar2yc)
+- [【开发者头条】推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct)
+- [【开发者头条】推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a)
 - [【安全热点】集大成!10-种轻量级人脸检测算法的对比-含源码-](https://sec.thief.one/article_content?a_id=036207894a710ba22e10289694c0a599)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

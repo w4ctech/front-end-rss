@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-05 00:08:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 00:19:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -30,15 +30,10 @@
 - [2020-12-01-招聘-|-平安壹账通](https://www.ershicimi.com/p/64b72487e757a8f508444377bda660fc) 
 - [2020-11-26-新出炉的阿里、腾讯、美团以及网易等一线公司面试总结](https://www.ershicimi.com/p/03e97cd833477bed46996595e3b56036) 
 - [2020-11-30-笔试都答对，面试却被挂，面试官到底想听到什么？](https://www.ershicimi.com/p/b8c8f7ff1b491ce281273314fb0ccfb6) 
-- [2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
-- [2020-11-24-腾讯、华为前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557) 
-- [2020-11-11-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/f8720b9ba9028e4081b1345e6367f3c5) 
-- [2020-10-20-阿里前端技术岗发布+内部面试题手册（含P5-P7）](https://www.ershicimi.com/p/5530422518db2c1549a9bb5ab496a15f) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-11-30-Redis面试题汇总（附答案），面试突击专用](https://www.ershicimi.com/p/05760c6e919470ea52e1ddbc7754c0d9) 
 - [2020-11-28-面试官：String长度有限制吗？是多少？](https://www.ershicimi.com/p/b1152ace164188124e7eea9891b35cdf) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-12-04-北上广深杭-网易内推，-现在面试可年后入职，抓紧上车~~](https://www.v2ex.com/t/732295) 
-- [2020-12-05-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
 - [2020-12-04-安恒信息-|-长期招聘](https://sec.thief.one/article_content?a_id=620217b9cd98ad265e4ea0f2766097b0) 
 - [2020-12-03-【美团招聘】冬季专场Vol.2——24个职位已上新!](https://sec.thief.one/article_content?a_id=32bcb4a76f73691a20849cee10277371) 

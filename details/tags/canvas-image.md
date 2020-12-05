@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-05 00:08:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 00:19:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -24,4 +24,3 @@
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
 - [2020-12-04-GUIBI区块链公开课:【策略技巧】构筑属于自己的盈利模式](https://sec.thief.one/article_content?a_id=a1a1a02c0439aaf1faabe5c609c07b30) 
 - [2020-12-03-12月3日GUIBI早内参-灰度将对以太坊信托进行股份分割,“全球首个...](https://sec.thief.one/article_content?a_id=5cfd5bcc90ad671be60da6f9e42b6520) 
-- [2020-12-02-12月2日GUIBI早内参-ETH2.0创世区块已经启动,Facebook已将Libra...](https://sec.thief.one/article_content?a_id=27dfb2d83632af563ffbbfb01a45ad90) 

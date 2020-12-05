@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-05 00:08:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 00:19:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,9 +23,6 @@
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-12-02-作为前端，你真的了解你的浏览器吗？](https://www.ershicimi.com/p/32e7d2fd549b3fd7240442c803d0b214) 
 - [2020-11-26-【第2129期】探讨浏览器指纹](https://www.ershicimi.com/p/f790744c16a1f32b7d4cdddb45515ca4) 
-- [2020-12-01-HTTP接口调试利器！4.8万Star的HTTP命令行客户端！](https://www.ershicimi.com/p/5c4a2190c8945c8eadf76526358cc366) 
-- [2020-11-27-postMessage-还能这样玩](https://www.ershicimi.com/p/70f958586b400b907f7570edd6169298) 
-- [2020-11-26-让你爱不释手的-HTTP-API-工具：Postman](https://www.ershicimi.com/p/87cd1614290b8c113b4203e3d1bbc99f) 
 - [2020-11-27-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/7609004e2f9423cf4f1b2eb5dc1b19ac) 
 - [2020-11-18-浏览器是如何调度进程和线程的？](https://www.ershicimi.com/p/c2991e8702de4f9532ba793a966bf26f) 
 - [2020-11-21-抖音前端安全招前端（实习、高级都招）](https://www.ershicimi.com/p/cb4bcf2ebbdf8937d5ca6c8723e4b6a2) 
@@ -56,6 +53,9 @@
 - [2020-12-05-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-05-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
 - [2020-12-05-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
+- [2020-12-04-【安全圈】巴西卫生部官网漏洞致2.43-亿巴西人个人信息被泄露](https://sec.thief.one/article_content?a_id=c4ca471691f0c4c88e38ae668af7a0a0) 
+- [2020-12-04-“WannaRen”翻身突袭,360安全大脑带你揭秘发现全过程](https://sec.thief.one/article_content?a_id=efd714a415e0b57bfbfab89a5a23c548) 
+- [2020-12-04-工控安全深度行-|-绿盟科技揽获四项表彰](https://sec.thief.one/article_content?a_id=dfa29a2bb809ea6935387e146643e2e3) 
 - [2020-12-04-​万人云峰会迎来首场专业分论坛:让安全意识看得见、摸得着](https://sec.thief.one/article_content?a_id=5237f0c3252b39149453eef4c51be875) 
 - [2020-12-03-【安全圈】黑客组织被曝利用-Dropbox-存储恶意软件窃取来的数据](https://sec.thief.one/article_content?a_id=5f4b68855df9746838312dac116a66eb) 
 - [2020-12-03-赛尔年会案例分享二丨打造校园全方位协同安全运营能力](https://sec.thief.one/article_content?a_id=9356eb684d475d4bea6c0d5002368b5c) 
@@ -70,8 +70,4 @@
 - [2020-12-02-【安全通知】知名端口转发工具rinetd遭高仿投毒](https://sec.thief.one/article_content?a_id=9f09bd30febefff22a99a12a8b8b6fef) 
 - [2020-12-02-奇安信集团荣获第八届CNCERT网络安全应急服务国家级优秀支撑单位](https://sec.thief.one/article_content?a_id=9693168489ffe97db681bb489282ddae) 
 - [2020-12-02-韩国网站-登录框POST注入到Getshell](https://sec.thief.one/article_content?a_id=c6555568497db88c8296f6aa72d9cb62) 
-- [2020-12-02-等保动向-|-报业网络安全等级保护定级参考指南V2.0发布](https://sec.thief.one/article_content?a_id=99bd6e7dfa0cb1c2f6315eb12a852d57) 
-- [2020-12-02-干货-|-IAST安全测试如何防止数据污染](https://sec.thief.one/article_content?a_id=df45232defded2f5c1718172383403d1) 
-- [2020-12-02-每日安全动态推送12-02](https://sec.thief.one/article_content?a_id=40216e08d8c941296b987351e2f55286) 
-- [2020-12-02-NSS-Labs前首席执行官打造新的安全评测机构](https://sec.thief.one/article_content?a_id=581e7e92cca1ed843032e451e577c440) 
 - [2020-11-28-5G不只是eMBB/uRLLC/mMTC，超越三大场景的应用有哪些？](https://www.ershicimi.com/p/dee166a4ea504d555a80ddf9a8d30723) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-05 00:08:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 00:19:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -97,7 +97,6 @@
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
 - [2020-11-27-奇舞周刊第-374-期：用-JS-写一个-JS-解释器](https://www.ershicimi.com/p/b050338487ebd5d055a8966f6ec9a11f) 
-- [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2020-12-02-20个常用的JavaScript简写技巧](https://www.ershicimi.com/p/7b8abddbaa883e084571e05bf249344d) 
 - [2020-12-04-我把世界上第一个-JS-引擎编译回了-JS](https://juejin.im/post/6902339728977166344) 
@@ -115,4 +114,5 @@
 - [2020-12-05-持续部署入门：基于-Kubernetes-实现滚动发布](https://toutiao.io/k/3gvwaz4) 
 - [2020-12-05-如何快速将你的应用封装成-js-sdk?](https://toutiao.io/k/je0hiw0) 
 - [2020-12-05-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) 
+- [2020-12-04-ChaMd5荣获JSRC年度团队第二名、R神年度个人第三名](https://sec.thief.one/article_content?a_id=9d3bdc12086bacacfb5c10d98b89edfc) 
 - [2020-12-03-年度盘点二:2020年最严重的加密货币入侵事件](https://sec.thief.one/article_content?a_id=395d916157a3624f3b1fe5f719fb0a35) 

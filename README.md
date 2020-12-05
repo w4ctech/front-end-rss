@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-05 03:29:57，:rocket: 更新条数: +3912， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-05 03:41:58，:rocket: 更新条数: +3910， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-12-05-韩国首尔紧急实施两周特别防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyk1kTixxLPwYDvbbcln4201205&isfromapp=1) ![](assets/new.png)  
+- [2020-12-05-超23.5万！美国单日新增确诊病例再创纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNivslip0TJK4V6JDDFIF201205&isfromapp=1) ![](assets/new.png)  
+- [2020-12-05-北美观察丨疫情下的美国经济：就业增长持续放缓-各界预警“黑暗的冬天”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia8pcPFYbNFOjOOVI8dl4201205&isfromapp=1) ![](assets/new.png)  
+- [2020-12-05-世卫组织总干事：疫情展现了人类最好和最坏的应对能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2t90YJsr9TQWuAXLSggC201205&isfromapp=1) ![](assets/new.png)  
 - [2020-12-05-北京12月4日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivsfoB5zzgZbTYmGlsZgb201205&isfromapp=1) ![](assets/new.png)  
-- [2020-12-04-上海4日新增3例境外输入确诊病例-新增治愈出院3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidvo05oNtHn6UZnsDUnxR201205&isfromapp=1) ![](assets/new.png)  
-- [2020-12-04-美国新冠肺炎确诊病例已超过1429万-死亡病例超过27.8万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimuBlmrjAu2BCpTKvfG7m201205&isfromapp=1) ![](assets/new.png)  
-- [2020-12-04-乌克兰议会100多名议员确诊新冠肺炎-全国累计确诊787891例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSkvkp73T4HpSD54BYRWJ201205&isfromapp=1) ![](assets/new.png)  
-- [2020-12-04-美国健康指标与评估研究所称-新冠肺炎是本周美国的主要死因](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articqurt6qO9yzCO8iJ9pBk201205&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-12-05-适用于触控问题的-iPhone-11-显示屏模块更换计划](https://www.v2ex.com/t/732381) ![](assets/new.png)  
 - [2020-12-05-2020-年没人推一手客户端嘛？](https://www.v2ex.com/t/732378) ![](assets/new.png)  
 - [2020-12-05-请问下大家关于-XDR-连接-M1-芯片的-MBA-or-MBP-or-Mac-mini-的流畅体验问题](https://www.v2ex.com/t/732377) ![](assets/new.png)  
 - [2020-12-05-以前蛮喜欢的的一个程序员最近老是在-twitter-发表小学生言论😂](https://www.v2ex.com/t/732376) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-12-05-老款-iMac-支持-8k-播放吗？](https://www.v2ex.com/t/732356) ![](assets/new.png)  
 - [2020-12-05-请问怎样才能让-macOS-自动选择信号较强的-WiFi？](https://www.v2ex.com/t/732355) ![](assets/new.png)  
 - [2020-12-05-计费系统中的余额结算怎么做？](https://www.v2ex.com/t/732354) ![](assets/new.png)  
-- [2020-12-05-有一个疑问，为什么罗永浩可以保留-t.tt-这个域名？](https://www.v2ex.com/t/732352) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,16 +1146,16 @@
 - [2020-12-05-Bug-Report-该怎么做？](https://toutiao.io/k/srkyikg) ![](assets/new.png)  
 - [2020-12-05-阿里云在应用扩缩容下遇到的挑战与选型思考](https://toutiao.io/k/qdpewav) ![](assets/new.png)  
 - [2020-12-05-Sentinel-系统自适应限流（原理源码）](https://toutiao.io/k/yym9n4f) ![](assets/new.png)  
-- [2020-12-05-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
-- [2020-12-05-推荐-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) ![](assets/new.png)  
-- [2020-12-05-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
-- [2020-12-05-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
-- [2020-12-05-推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
-- [2020-12-05-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
-- [2020-12-05-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
-- [2020-12-05-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
 - [2020-12-05-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
-- [2020-12-05-推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) ![](assets/new.png)  
+- [2020-12-05-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
+- [2020-12-05-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
+- [2020-12-05-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
+- [2020-12-05-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
+- [2020-12-05-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
+- [2020-12-05-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
+- [2020-12-05-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) ![](assets/new.png)  
+- [2020-12-05-推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
+- [2020-12-05-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

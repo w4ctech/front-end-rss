@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-05 03:29:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 03:41:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-05-适用于触控问题的-iPhone-11-显示屏模块更换计划](https://www.v2ex.com/t/732381) 
 - [2020-12-05-2020-年没人推一手客户端嘛？](https://www.v2ex.com/t/732378) 
 - [2020-12-05-请问下大家关于-XDR-连接-M1-芯片的-MBA-or-MBP-or-Mac-mini-的流畅体验问题](https://www.v2ex.com/t/732377) 
 - [2020-12-05-以前蛮喜欢的的一个程序员最近老是在-twitter-发表小学生言论😂](https://www.v2ex.com/t/732376) 
@@ -39,6 +40,3 @@
 - [2020-12-05-有没有合盖不接电源，接外接显示器的方法](https://www.v2ex.com/t/732336) 
 - [2020-12-05-给-CCC-道歉，仍然吊打-Time-Machine——Big-Sur-下的-CCC-体验报告](https://www.v2ex.com/t/732335) 
 - [2020-12-05-半年过去，心又痒痒了](https://www.v2ex.com/t/732332) 
-- [2020-12-05-有没有办法开发一个语音选择列表的软件提高效率？](https://www.v2ex.com/t/732331) 
-- [2020-12-05-非计算机科班出身想要提高自己，请问有适合的路线吗？](https://www.v2ex.com/t/732330) 
-- [2020-12-05-前端程序员关于-Docker-和-Kubernetes-的一点疑惑](https://www.v2ex.com/t/732329) 

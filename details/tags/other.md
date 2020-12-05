@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-05 19:23:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 19:33:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2857,6 +2857,7 @@
 - [2020-11-29-本周知乎热榜-|-《除暴》热映，马拉多纳去世-，女孩生日被叫回加班崩溃大哭，「嫦娥五号」搭乘「长征五](https://www.ershicimi.com/p/c33eea244e974147bc5950496999af75) 
 - [2020-11-29-知乎故事-|-普通人的一生应该是怎样的？](https://www.ershicimi.com/p/cd21adc06bbf6f767893ab1db095383f) 
 - [2020-11-27-知乎神吐槽-|-你们麻醉后说过什么蠢话？](https://www.ershicimi.com/p/4b3fd7536cbfd6ed3ef1d11a55533c35) 
+- [2020-12-05-请教，-a-标签在本标签页面切换之前做埋点](https://www.v2ex.com/t/732557) 
 - [2020-12-05-大家想象一下以后的以后-iPhone-的屏幕最大最大最大尺寸将会是多少英寸呢？（非折叠屏幕哦）](https://www.v2ex.com/t/732556) 
 - [2020-12-05-有-gmail-取名的好方法吗？](https://www.v2ex.com/t/732551) 
 - [2020-12-05-成都/北京/上海/武汉-神策数据后端/前端/产品/测试，-15K-40K，-14-薪，上班不打卡，-MBP-+-27-寸-2K](https://www.v2ex.com/t/732548) 
@@ -2907,14 +2908,15 @@
 - [2020-12-05-阿里云在应用扩缩容下遇到的挑战与选型思考](https://toutiao.io/k/qdpewav) 
 - [2020-12-05-Bug-Report-该怎么做？](https://toutiao.io/k/srkyikg) 
 - [2020-12-05-Sentinel-系统自适应限流（原理源码）](https://toutiao.io/k/yym9n4f) 
-- [2020-12-05-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) 
-- [2020-12-05-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) 
-- [2020-12-05-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) 
-- [2020-12-05-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) 
 - [2020-12-05-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) 
 - [2020-12-05-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) 
+- [2020-12-05-推荐-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) 
+- [2020-12-05-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) 
 - [2020-12-05-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) 
+- [2020-12-05-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) 
 - [2020-12-05-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) 
+- [2020-12-05-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) 
+- [2020-12-05-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) 
 - [2020-12-05-看雪2020-年度新人奖,如期而至!](https://sec.thief.one/article_content?a_id=ec3482ff7f6dc06d93a83680c5fcc752) 
 - [2020-12-05-美国新法律草案将未经美联储批准发行的稳定币视为非法](https://sec.thief.one/article_content?a_id=65eed67a2acfbca6567b11c5729c2d33) 
 - [2020-12-05-这是2020年最美的景色](https://sec.thief.one/article_content?a_id=292ed91c234c8fa4cc17ef835c8cd148) 

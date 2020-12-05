@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-05 03:41:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 03:50:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,4 +39,3 @@
 - [2020-12-05-小米的电视里的广告是算电视媒体广告还是网络广告](https://www.v2ex.com/t/732337) 
 - [2020-12-05-有没有合盖不接电源，接外接显示器的方法](https://www.v2ex.com/t/732336) 
 - [2020-12-05-给-CCC-道歉，仍然吊打-Time-Machine——Big-Sur-下的-CCC-体验报告](https://www.v2ex.com/t/732335) 
-- [2020-12-05-半年过去，心又痒痒了](https://www.v2ex.com/t/732332) 

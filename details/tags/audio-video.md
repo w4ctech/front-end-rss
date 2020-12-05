@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-05 05:12:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 05:28:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -89,9 +89,12 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
+- [2020-12-04-探秘移动端网页调用摄像头的两种方式](https://juejin.im/post/6902357766141116430) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-12-05-腾讯视频的同学进来领-BUG-了](https://www.v2ex.com/t/732368) 
 - [2020-12-05-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-05-安卓GO-SMS-PRO仍在泄露照片及视频问题](https://sec.thief.one/article_content?a_id=bc9b8714f9a8be57a0d63f0e72c774a8) 
+- [2020-12-05-【视频】|-扫了二维码后,微信竟成“傀儡”](https://sec.thief.one/article_content?a_id=48bacecdf072b8742bb412142f3e0b4b) 
 - [2020-12-04-【视频】|-Python:元组](https://sec.thief.one/article_content?a_id=696ae27b3fdadd033ded1b305945783b) 
 - [2020-12-03-今晚直播预告丨红队大佬亲临直播间,传授建设之道!](https://sec.thief.one/article_content?a_id=1e802e1181fbb156dee58699e78f7294) 
 - [2020-12-02-直播倒计时1天！专家大咖助阵、科技企业云集，预见工业物联新未来](https://www.ershicimi.com/p/0e59a6eb373ad201caa5279c6cd39118) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-05 11:34:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 11:48:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -24,7 +24,6 @@
 - [2020-12-02-如何用-Babel-为代码自动引入依赖](https://www.ershicimi.com/p/aac8ad30578b892c3275f8e9a83a4ac2) 
 - [2020-11-25-一文带你快速上手Rollup](https://www.ershicimi.com/p/55dfb026f34fd70cb8e82888b500457d) 
 - [2020-11-30-如何构建一个可靠的分布式系统？](https://www.ershicimi.com/p/c88f766db7e78e81a7af763191eaa5bf) 
-- [2020-12-04-Webpack学习笔记一：一些基础知识](https://juejin.im/post/6902441939560300558) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
 - [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) 
 - [2020-03-11-4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4) 

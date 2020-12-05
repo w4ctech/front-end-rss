@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-05 10:09:10，:rocket: 更新条数: +3909， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-05 10:29:15，:rocket: 更新条数: +3910， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,10 @@
 </summary>
 
 
+- [2020-12-05-有没有-andriod-上面的充电控制-app，可以控制电池只充到例如-80%就停充？](https://www.v2ex.com/t/732480) ![](assets/new.png)  
+- [2020-12-05-有什么-windows-下-make-的替代方案](https://www.v2ex.com/t/732479) ![](assets/new.png)  
+- [2020-12-05-有-V-友做过-Java-调用网络打印机打印的案例吗？](https://www.v2ex.com/t/732478) ![](assets/new.png)  
+- [2020-12-05-国外哪些-DNS-服务商支持-EDNS-按线路解析或-GeoDNS-按位置解析？](https://www.v2ex.com/t/732477) ![](assets/new.png)  
 - [2020-12-05-来深圳三年啦，本想着看看有没有机会回大连的（大连人）看了一眼-V2EX-上大连的帖子，-心瞬间就凉了](https://www.v2ex.com/t/732476) ![](assets/new.png)  
 - [2020-12-05-大龄码农人生岔路口，求帮忙做个选择题选择-offer。](https://www.v2ex.com/t/732474) ![](assets/new.png)  
 - [2020-12-05-dogedoge.com-is-ok-now.](https://www.v2ex.com/t/732473) ![](assets/new.png)  
@@ -1090,10 +1094,6 @@
 - [2020-12-05-大众点评的图片如何保存？不截屏](https://www.v2ex.com/t/732460) ![](assets/new.png)  
 - [2020-12-05-各位-v-友-是怎么学习正则的?](https://www.v2ex.com/t/732458) ![](assets/new.png)  
 - [2020-12-05-不同设备上的-Chrome-登录同一个账户后，可以为每个设备设置不同的开启/禁用插件吗？](https://www.v2ex.com/t/732455) ![](assets/new.png)  
-- [2020-12-05-有无老哥解答下该怎么办？](https://www.v2ex.com/t/732454) ![](assets/new.png)  
-- [2020-12-05-广东或者上海治疗肾炎哪个医院比较好？](https://www.v2ex.com/t/732452) ![](assets/new.png)  
-- [2020-12-05-OpenCore-小白卡住了，有大佬没事愿意看看吗](https://www.v2ex.com/t/732448) ![](assets/new.png)  
-- [2020-12-05-法律咨询：拦截智能家居并让其连接至指定服务器，这样的产品有违法嫌疑吗？](https://www.v2ex.com/t/732446) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,16 +1146,16 @@
 - [2020-12-05-Bug-Report-该怎么做？](https://toutiao.io/k/srkyikg) ![](assets/new.png)  
 - [2020-12-05-Sentinel-系统自适应限流（原理源码）](https://toutiao.io/k/yym9n4f) ![](assets/new.png)  
 - [2020-12-05-阿里云在应用扩缩容下遇到的挑战与选型思考](https://toutiao.io/k/qdpewav) ![](assets/new.png)  
-- [2020-12-05-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
-- [2020-12-05-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
-- [2020-12-05-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
+- [2020-12-05-推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) ![](assets/new.png)  
+- [2020-12-05-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
+- [2020-12-05-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
+- [2020-12-05-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
+- [2020-12-05-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
 - [2020-12-05-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
 - [2020-12-05-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
-- [2020-12-05-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
-- [2020-12-05-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
-- [2020-12-05-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
-- [2020-12-05-推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) ![](assets/new.png)  
-- [2020-12-05-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
+- [2020-12-05-推荐-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) ![](assets/new.png)  
+- [2020-12-05-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
+- [2020-12-05-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1167,7 +1167,14 @@
 </summary>
 
 
+- [2020-12-05-看雪2020-年度新人奖,如期而至!](https://sec.thief.one/article_content?a_id=ec3482ff7f6dc06d93a83680c5fcc752) ![](assets/new.png)  
+- [2020-12-05-美国新法律草案将未经美联储批准发行的稳定币视为非法](https://sec.thief.one/article_content?a_id=65eed67a2acfbca6567b11c5729c2d33) ![](assets/new.png)  
+- [2020-12-05-在招|中通快递高薪诚招安全研发相关工程师](https://sec.thief.one/article_content?a_id=1a654dcbcacc224ecb7a03ff9befc81f) ![](assets/new.png)  
+- [2020-12-05-这是2020年最美的景色](https://sec.thief.one/article_content?a_id=292ed91c234c8fa4cc17ef835c8cd148) ![](assets/new.png)  
+- [2020-12-05-字节跳动-《MySQL-学习笔记》火了,完整版开放下载!](https://sec.thief.one/article_content?a_id=9ece1726669e8b76442d98a6b84da114) ![](assets/new.png)  
+- [2020-12-05-Linux-隐匿技巧](https://sec.thief.one/article_content?a_id=f1b32fbddf733694eb9d2b67658636b2) ![](assets/new.png)  
 - [2020-12-05-【诚信网事】维护网络生态-筑牢精神家园](https://sec.thief.one/article_content?a_id=1c8de00e8e8556c215dd8666797ae1e4) ![](assets/new.png)  
+- [2020-12-05-2020年全区网络安全等级保护工作会议|绿盟科技获2020年宁夏网络安...](https://sec.thief.one/article_content?a_id=1b8604565dfee34a14dff3139bea7aca) ![](assets/new.png)  
 - [2020-12-05-构建安全高效的智能工业底座](https://sec.thief.one/article_content?a_id=5e146febdd40c75b275035e9628f5664) ![](assets/new.png)  
 - [2020-12-05-安卓GO-SMS-PRO仍在泄露照片及视频问题](https://sec.thief.one/article_content?a_id=bc9b8714f9a8be57a0d63f0e72c774a8) ![](assets/new.png)  
 - [2020-12-05-电子取证Forensics-Windows取证基础](https://sec.thief.one/article_content?a_id=d05dbcba75ca3c148ef50f935639b4ca) ![](assets/new.png)  
@@ -1180,13 +1187,6 @@
 - [2020-12-04-【安全圈】巴西卫生部官网漏洞致2.43-亿巴西人个人信息被泄露](https://sec.thief.one/article_content?a_id=c4ca471691f0c4c88e38ae668af7a0a0) ![](assets/new.png)  
 - [2020-12-04-各国黑客打起了疫苗的主意](https://sec.thief.one/article_content?a_id=4f716d0d5213f781a6dfd351dde29fe7) ![](assets/new.png)  
 - [2020-12-04-如何面对无孔不入的信息泄露?|-知道](https://sec.thief.one/article_content?a_id=ed25612897840b60a7b1368a3d9df3af) ![](assets/new.png)  
-- [2020-12-04-微软最强-Python-自动化工具开源了!不用写一行代码!](https://sec.thief.one/article_content?a_id=b34c537a9da4cd9ef4e9920b2e3f68eb) ![](assets/new.png)  
-- [2020-12-04-ChaMd5荣获JSRC年度团队第二名、R神年度个人第三名](https://sec.thief.one/article_content?a_id=9d3bdc12086bacacfb5c10d98b89edfc) ![](assets/new.png)  
-- [2020-12-04-这是一抹来自月球表面的中国红!](https://sec.thief.one/article_content?a_id=2542c183235adb58d71e97fc2de4f6f9) ![](assets/new.png)  
-- [2020-12-04-“WannaRen”翻身突袭,360安全大脑带你揭秘发现全过程](https://sec.thief.one/article_content?a_id=efd714a415e0b57bfbfab89a5a23c548) ![](assets/new.png)  
-- [2020-12-04-工控安全深度行-|-绿盟科技揽获四项表彰](https://sec.thief.one/article_content?a_id=dfa29a2bb809ea6935387e146643e2e3) ![](assets/new.png)  
-- [2020-12-04-开创“1+X+1”合作模式-奇安信与中国电信安徽分公司达成战略合作](https://sec.thief.one/article_content?a_id=02c8275a1a632df3347ff77adb09bb67) ![](assets/new.png)  
-- [2020-12-04-「Dibrary-第二季-」——好书推荐-|-DSRC-2019年度团队第一名队长-M](https://sec.thief.one/article_content?a_id=56ed19055259b56925e0a01a722d6af8) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

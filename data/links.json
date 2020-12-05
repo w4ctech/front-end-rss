@@ -18810,6 +18810,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有 andriod 上面的充电控制 app，可以控制电池只充到例如 80%就停充？",
+        "link": "https://www.v2ex.com/t/732480",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "有什么 windows 下 make 的替代方案",
+        "link": "https://www.v2ex.com/t/732479",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "有 V 友做过 Java 调用网络打印机打印的案例吗？",
+        "link": "https://www.v2ex.com/t/732478",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "国外哪些 DNS 服务商支持 EDNS 按线路解析或 GeoDNS 按位置解析？",
+        "link": "https://www.v2ex.com/t/732477",
+        "date": "2020-12-05"
+      },
+      {
         "title": "来深圳三年啦，本想着看看有没有机会回大连的（大连人）看了一眼 V2EX 上大连的帖子， 心瞬间就凉了",
         "link": "https://www.v2ex.com/t/732476",
         "date": "2020-12-05"
@@ -18957,21 +18977,6 @@
       {
         "title": "[强迫症]探讨一下如何最干净的重装 macOS",
         "link": "https://www.v2ex.com/t/732431",
-        "date": "2020-12-05"
-      },
-      {
-        "title": "永不失联的代码",
-        "link": "https://www.v2ex.com/t/732430",
-        "date": "2020-12-05"
-      },
-      {
-        "title": "程序员定制 USB 按键，要学计算机底层的可以玩玩",
-        "link": "https://www.v2ex.com/t/732429",
-        "date": "2020-12-05"
-      },
-      {
-        "title": "怎样才能在 Big Sur 下隐藏 Dock 栏上的垃圾箱图标？",
-        "link": "https://www.v2ex.com/t/732428",
         "date": "2020-12-05"
       }
     ]
@@ -19139,18 +19144,28 @@
         "date": "2020-12-05"
       },
       {
-        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
-        "link": "https://toutiao.io/k/wpo96pp",
+        "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
+        "link": "https://toutiao.io/k/qd3u4ct",
         "date": "2020-12-05"
       },
       {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
+        "title": "[推荐] 用 WebRTC 和 Node.js 开发实时视频聊天应用",
+        "link": "https://toutiao.io/k/5shq47n",
         "date": "2020-12-05"
       },
       {
-        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
-        "link": "https://toutiao.io/k/4jzvanq",
+        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
+        "link": "https://toutiao.io/k/1gxzxw3",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
+        "link": "https://toutiao.io/k/55mybdz",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
+        "link": "https://toutiao.io/k/n4lq0bo",
         "date": "2020-12-05"
       },
       {
@@ -19164,43 +19179,23 @@
         "date": "2020-12-05"
       },
       {
-        "title": "[推荐] 如何理解 Kafka 的消息可靠性策略？",
-        "link": "https://toutiao.io/k/55mybdz",
-        "date": "2020-12-05"
-      },
-      {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
-        "date": "2020-12-05"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议 Raft",
-        "link": "https://toutiao.io/k/xydtpak",
-        "date": "2020-12-05"
-      },
-      {
-        "title": "[推荐] 从零搭建分布式文件系统 MinIO 比 FastDFS 要更合适",
-        "link": "https://toutiao.io/k/qd3u4ct",
-        "date": "2020-12-05"
-      },
-      {
-        "title": "[推荐] 程序员是青春饭吗？30 岁后的发展方向和突破",
-        "link": "https://toutiao.io/k/1gxzxw3",
-        "date": "2020-12-05"
-      },
-      {
         "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
         "link": "https://toutiao.io/k/e5l3mqn",
         "date": "2020-12-05"
       },
       {
-        "title": "[推荐] GitHub 霸榜！比 ping 强大百倍的 gping 一天拿下 2.5k Star",
-        "link": "https://toutiao.io/k/z2u8tqp",
+        "title": "[推荐] 前端高效开发必备的 js 库梳理",
+        "link": "https://toutiao.io/k/rtusig3",
         "date": "2020-12-05"
       },
       {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
+        "title": "[推荐] 谈一谈程序员的职业发展路线",
+        "link": "https://toutiao.io/k/b2k5zax",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "[推荐] 优秀！一鼓作气学会 “一致性哈希”，就靠这 18 张图了",
+        "link": "https://toutiao.io/k/4jzvanq",
         "date": "2020-12-05"
       },
       {
@@ -19209,8 +19204,18 @@
         "date": "2020-12-05"
       },
       {
-        "title": "[推荐] 走向卓越，领域驱动设计的思维方式",
-        "link": "https://toutiao.io/k/n4lq0bo",
+        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
+        "link": "https://toutiao.io/k/1k0udg9",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
+        "link": "https://toutiao.io/k/5sw3syp",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议 Raft",
+        "link": "https://toutiao.io/k/xydtpak",
         "date": "2020-12-05"
       }
     ]
@@ -19221,8 +19226,43 @@
     "link": "https://sec.thief.one/",
     "items": [
       {
+        "title": "看雪2020 年度新人奖,如期而至!",
+        "link": "https://sec.thief.one/article_content?a_id=ec3482ff7f6dc06d93a83680c5fcc752",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "美国新法律草案将未经美联储批准发行的稳定币视为非法",
+        "link": "https://sec.thief.one/article_content?a_id=65eed67a2acfbca6567b11c5729c2d33",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "在招|中通快递高薪诚招安全研发相关工程师",
+        "link": "https://sec.thief.one/article_content?a_id=1a654dcbcacc224ecb7a03ff9befc81f",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "这是2020年最美的景色",
+        "link": "https://sec.thief.one/article_content?a_id=292ed91c234c8fa4cc17ef835c8cd148",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "字节跳动 《MySQL 学习笔记》火了,完整版开放下载!",
+        "link": "https://sec.thief.one/article_content?a_id=9ece1726669e8b76442d98a6b84da114",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "Linux 隐匿技巧",
+        "link": "https://sec.thief.one/article_content?a_id=f1b32fbddf733694eb9d2b67658636b2",
+        "date": "2020-12-05"
+      },
+      {
         "title": "【诚信网事】维护网络生态 筑牢精神家园",
         "link": "https://sec.thief.one/article_content?a_id=1c8de00e8e8556c215dd8666797ae1e4",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "2020年全区网络安全等级保护工作会议|绿盟科技获2020年宁夏网络安...",
+        "link": "https://sec.thief.one/article_content?a_id=1b8604565dfee34a14dff3139bea7aca",
         "date": "2020-12-05"
       },
       {
@@ -19683,41 +19723,6 @@
       {
         "title": "Office如何快速进行宏免杀",
         "link": "https://sec.thief.one/article_content?a_id=598a07aa41623d3d04c2b0350dd94fb4",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "【安全圈】Docker 恶意软件泛滥,开发人员需谨慎",
-        "link": "https://sec.thief.one/article_content?a_id=58a93ac437f9e29c5a24db2257aed749",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "赛尔年会案例分享(一)丨智慧校园全角度安全体系防护",
-        "link": "https://sec.thief.one/article_content?a_id=ac446f5ad4ee3a1cc8c004cd799a1c69",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "【安全通知】知名端口转发工具rinetd遭高仿投毒",
-        "link": "https://sec.thief.one/article_content?a_id=9f09bd30febefff22a99a12a8b8b6fef",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "每日攻防资讯简报[Dec.2th]",
-        "link": "https://sec.thief.one/article_content?a_id=43395877983068c2d47bc18af62dad4b",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "奇安信集团荣获第八届CNCERT网络安全应急服务国家级优秀支撑单位",
-        "link": "https://sec.thief.one/article_content?a_id=9693168489ffe97db681bb489282ddae",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "Python 国产库推荐:musicpy",
-        "link": "https://sec.thief.one/article_content?a_id=cc86456b4184b7d68c9322065630f5d1",
-        "date": "2020-12-02"
-      },
-      {
-        "title": "网信办:38类常见类型App必要个人信息范围公开征求意见",
-        "link": "https://sec.thief.one/article_content?a_id=43549f12fe5ca8c1f0f947c1968d5f51",
         "date": "2020-12-02"
       }
     ]

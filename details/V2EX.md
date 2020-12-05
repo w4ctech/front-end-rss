@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-05 10:29:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 10:39:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-05-微博图床能保存多久？是永久的吗？](https://www.v2ex.com/t/732481) 
 - [2020-12-05-有没有-andriod-上面的充电控制-app，可以控制电池只充到例如-80%就停充？](https://www.v2ex.com/t/732480) 
 - [2020-12-05-有什么-windows-下-make-的替代方案](https://www.v2ex.com/t/732479) 
 - [2020-12-05-有-V-友做过-Java-调用网络打印机打印的案例吗？](https://www.v2ex.com/t/732478) 
@@ -38,4 +39,3 @@
 - [2020-12-05-Important-policy-changes-for-Google-Account-storage-邮件都收到了吧？](https://www.v2ex.com/t/732436) 
 - [2020-12-05-GCP（谷歌云）的-300-刀额度怎样最有效地利用？](https://www.v2ex.com/t/732434) 
 - [2020-12-05-win10-台式机,系统更新后,usb-键盘失灵了](https://www.v2ex.com/t/732433) 
-- [2020-12-05-强迫症探讨一下如何最干净的重装-macOS](https://www.v2ex.com/t/732431) 

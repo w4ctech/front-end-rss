@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-05 05:04:54，:rocket: 更新条数: +3912， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-05 05:12:30，:rocket: 更新条数: +3911， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-12-05-年经贴,-考研还是找工作](https://www.v2ex.com/t/732405) ![](assets/new.png)  
 - [2020-12-05-招远程安卓，远程-golang-数名~](https://www.v2ex.com/t/732402) ![](assets/new.png)  
 - [2020-12-05-请问-macOS-有-Hyperswitch-的替代品吗？](https://www.v2ex.com/t/732401) ![](assets/new.png)  
 - [2020-12-05-字节内推-字节、抖音教育方向，前端、后端研发内推（社招、校招、实习），可查进度，可回捞](https://www.v2ex.com/t/732400) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-12-05-一个列表，字典嵌套字典，然后想根据最内层字典中的一个-key-排序，有什么优雅的写法么？-求大佬指点](https://www.v2ex.com/t/732383) ![](assets/new.png)  
 - [2020-12-05-适用于触控问题的-iPhone-11-显示屏模块更换计划](https://www.v2ex.com/t/732381) ![](assets/new.png)  
 - [2020-12-05-2020-年没人推一手客户端嘛？](https://www.v2ex.com/t/732378) ![](assets/new.png)  
-- [2020-12-05-请问下大家关于-XDR-连接-M1-芯片的-MBA-or-MBP-or-Mac-mini-的流畅体验问题](https://www.v2ex.com/t/732377) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,16 +1146,16 @@
 - [2020-12-05-阿里云在应用扩缩容下遇到的挑战与选型思考](https://toutiao.io/k/qdpewav) ![](assets/new.png)  
 - [2020-12-05-Bug-Report-该怎么做？](https://toutiao.io/k/srkyikg) ![](assets/new.png)  
 - [2020-12-05-Sentinel-系统自适应限流（原理源码）](https://toutiao.io/k/yym9n4f) ![](assets/new.png)  
+- [2020-12-05-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
 - [2020-12-05-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
+- [2020-12-05-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
+- [2020-12-05-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
+- [2020-12-05-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
+- [2020-12-05-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
+- [2020-12-05-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
 - [2020-12-05-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
 - [2020-12-05-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
-- [2020-12-05-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
-- [2020-12-05-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
 - [2020-12-05-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) ![](assets/new.png)  
-- [2020-12-05-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
-- [2020-12-05-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
-- [2020-12-05-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
-- [2020-12-05-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

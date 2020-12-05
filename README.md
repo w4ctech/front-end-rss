@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-05 12:10:48，:rocket: 更新条数: +3655， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-05 12:36:43，:rocket: 更新条数: +3658， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1054,6 +1054,13 @@
 </summary>
 
 
+- [2020-12-05-发现京东已经上架-16G-M1-MBP-了](https://www.v2ex.com/t/732510) ![](assets/new.png)  
+- [2020-12-05-Telegram-挂了吗。。。为啥我登不上去了](https://www.v2ex.com/t/732509) ![](assets/new.png)  
+- [2020-12-05-Telegram-挂了？](https://www.v2ex.com/t/732508) ![](assets/new.png)  
+- [2020-12-05-iPad-实体键盘的那些事](https://www.v2ex.com/t/732506) ![](assets/new.png)  
+- [2020-12-05-zClock---2020-年底兑换码](https://www.v2ex.com/t/732505) ![](assets/new.png)  
+- [2020-12-05-实习-微软亚洲研究院-基于强化学习的实时视频通讯优化实习生](https://www.v2ex.com/t/732504) ![](assets/new.png)  
+- [2020-12-05-请问-V2EX-的账号可以注销吗？](https://www.v2ex.com/t/732503) ![](assets/new.png)  
 - [2020-12-05-flutter-如果用的是-js而不是-dart-该多好](https://www.v2ex.com/t/732502) ![](assets/new.png)  
 - [2020-12-05-我目前保持的习惯和兴趣爱好](https://www.v2ex.com/t/732501) ![](assets/new.png)  
 - [2020-12-05-开一贴，不定期帮-V-友们-P-图如何？](https://www.v2ex.com/t/732500) ![](assets/new.png)  
@@ -1067,13 +1074,6 @@
 - [2020-12-05-国内稍大一点的公司有不卡学历的吗？](https://www.v2ex.com/t/732486) ![](assets/new.png)  
 - [2020-12-05-Python-调用-C-插件后，需要手动释放内存吗？](https://www.v2ex.com/t/732485) ![](assets/new.png)  
 - [2020-12-05-现在-springcloud-大家的公司都用什么版本呀](https://www.v2ex.com/t/732484) ![](assets/new.png)  
-- [2020-12-05-发表一个很简洁的-JS-提示框架](https://www.v2ex.com/t/732482) ![](assets/new.png)  
-- [2020-12-05-有没有-andriod-上面的充电控制-app，可以控制电池只充到例如-80%就停充？](https://www.v2ex.com/t/732480) ![](assets/new.png)  
-- [2020-12-05-有什么-windows-下-make-的替代方案](https://www.v2ex.com/t/732479) ![](assets/new.png)  
-- [2020-12-05-有-V-友做过-Java-调用网络打印机打印的案例吗？](https://www.v2ex.com/t/732478) ![](assets/new.png)  
-- [2020-12-05-国外哪些-DNS-服务商支持-EDNS-按线路解析或-GeoDNS-按位置解析？](https://www.v2ex.com/t/732477) ![](assets/new.png)  
-- [2020-12-05-来深圳三年啦，本想着看看有没有机会回大连的（大连人）看了一眼-V2EX-上大连的帖子，-心瞬间就凉了](https://www.v2ex.com/t/732476) ![](assets/new.png)  
-- [2020-12-05-大龄码农人生岔路口，求帮忙做个选择题选择-offer。](https://www.v2ex.com/t/732474) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,16 +1126,16 @@
 - [2020-12-05-Bug-Report-该怎么做？](https://toutiao.io/k/srkyikg) ![](assets/new.png)  
 - [2020-12-05-Sentinel-系统自适应限流（原理源码）](https://toutiao.io/k/yym9n4f) ![](assets/new.png)  
 - [2020-12-05-阿里云在应用扩缩容下遇到的挑战与选型思考](https://toutiao.io/k/qdpewav) ![](assets/new.png)  
-- [2020-12-05-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
-- [2020-12-05-推荐-GitHub-霸榜！比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://toutiao.io/k/z2u8tqp) ![](assets/new.png)  
-- [2020-12-05-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
-- [2020-12-05-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
-- [2020-12-05-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
+- [2020-12-05-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
 - [2020-12-05-推荐-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) ![](assets/new.png)  
-- [2020-12-05-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
-- [2020-12-05-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
+- [2020-12-05-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
+- [2020-12-05-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
+- [2020-12-05-推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) ![](assets/new.png)  
+- [2020-12-05-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
+- [2020-12-05-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
+- [2020-12-05-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
 - [2020-12-05-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
-- [2020-12-05-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) ![](assets/new.png)  
+- [2020-12-05-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

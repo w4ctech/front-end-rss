@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-05 10:49:38，:rocket: 更新条数: +3910， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-05 11:04:41，:rocket: 更新条数: +3910， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-12-05-德国疫情严峻-护理人员紧缺](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHCXeEe1lfm6wLXzTlNCS201205&isfromapp=1) ![](assets/new.png)  
+- [2020-12-05-马来西亚宣布延长包括吉隆坡在内的多个地区防疫限制14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLhVYbJUwlRfTXHu9BjS5201205&isfromapp=1) ![](assets/new.png)  
+- [2020-12-05-庞星火：回国人员尽量选择直航-避免转机带来感染风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM13GKOBHpIFFVrHl9bet201205&isfromapp=1) ![](assets/new.png)  
 - [2020-12-05-韩国首尔紧急实施两周特别防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyk1kTixxLPwYDvbbcln4201205&isfromapp=1) ![](assets/new.png)  
 - [2020-12-05-超23.5万！美国单日新增确诊病例再创纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNivslip0TJK4V6JDDFIF201205&isfromapp=1) ![](assets/new.png)  
-- [2020-12-05-北美观察丨疫情下的美国经济：就业增长持续放缓-各界预警“黑暗的冬天”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia8pcPFYbNFOjOOVI8dl4201205&isfromapp=1) ![](assets/new.png)  
-- [2020-12-05-世卫组织总干事：疫情展现了人类最好和最坏的应对能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2t90YJsr9TQWuAXLSggC201205&isfromapp=1) ![](assets/new.png)  
-- [2020-12-05-哈尔滨一份冷冻食品新冠病毒核酸检测结果为阳性-已采集相关样本606份](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPseOZv2NDsaxOPRWu5z8201205&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-12-05-国内稍大一点的公司有不卡学历的吗？](https://www.v2ex.com/t/732486) ![](assets/new.png)  
+- [2020-12-05-Python-调用-C-插件后，需要手动释放内存吗？](https://www.v2ex.com/t/732485) ![](assets/new.png)  
 - [2020-12-05-现在-springcloud-大家的公司都用什么版本呀](https://www.v2ex.com/t/732484) ![](assets/new.png)  
 - [2020-12-05-发表一个很简洁的-JS-提示框架](https://www.v2ex.com/t/732482) ![](assets/new.png)  
 - [2020-12-05-用微博作图床是一个好选择吗？](https://www.v2ex.com/t/732481) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-12-05-office365-断网后变成未激活怎么破？](https://www.v2ex.com/t/732465) ![](assets/new.png)  
 - [2020-12-05-最近在看-zookeeper，有个问题搞不明白](https://www.v2ex.com/t/732464) ![](assets/new.png)  
 - [2020-12-05-今天安装黑苹果报这个错，大佬们帮忙看看](https://www.v2ex.com/t/732463) ![](assets/new.png)  
-- [2020-12-05-大家是怎样在大冷天敲代码的](https://www.v2ex.com/t/732462) ![](assets/new.png)  
-- [2020-12-05-今年看了几本书呀？](https://www.v2ex.com/t/732461) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,16 +1146,16 @@
 - [2020-12-05-Bug-Report-该怎么做？](https://toutiao.io/k/srkyikg) ![](assets/new.png)  
 - [2020-12-05-Sentinel-系统自适应限流（原理源码）](https://toutiao.io/k/yym9n4f) ![](assets/new.png)  
 - [2020-12-05-阿里云在应用扩缩容下遇到的挑战与选型思考](https://toutiao.io/k/qdpewav) ![](assets/new.png)  
-- [2020-12-05-推荐-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) ![](assets/new.png)  
-- [2020-12-05-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
 - [2020-12-05-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
-- [2020-12-05-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
-- [2020-12-05-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
-- [2020-12-05-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
-- [2020-12-05-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
-- [2020-12-05-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
-- [2020-12-05-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
 - [2020-12-05-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
+- [2020-12-05-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
+- [2020-12-05-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
+- [2020-12-05-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
+- [2020-12-05-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
+- [2020-12-05-推荐-走向卓越，领域驱动设计的思维方式](https://toutiao.io/k/n4lq0bo) ![](assets/new.png)  
+- [2020-12-05-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
+- [2020-12-05-推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) ![](assets/new.png)  
+- [2020-12-05-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

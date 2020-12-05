@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-05 10:49:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 11:04:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -111,7 +111,6 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-12-05-发表一个很简洁的-JS-提示框架](https://www.v2ex.com/t/732482) 
 - [2020-12-05-各位-v-友-是怎么学习正则的?](https://www.v2ex.com/t/732458) 
-- [2020-12-05-Important-policy-changes-for-Google-Account-storage-邮件都收到了吧？](https://www.v2ex.com/t/732436) 
 - [2020-12-05-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) 
 - [2020-12-04-ChaMd5荣获JSRC年度团队第二名、R神年度个人第三名](https://sec.thief.one/article_content?a_id=9d3bdc12086bacacfb5c10d98b89edfc) 
 - [2020-12-03-年度盘点二:2020年最严重的加密货币入侵事件](https://sec.thief.one/article_content?a_id=395d916157a3624f3b1fe5f719fb0a35) 

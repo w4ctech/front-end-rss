@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-05 17:02:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 17:27:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-05-Safari-现在有没有类似-SwitchyOmega-这样的扩展开发，-Big-Sur-这次不是开放了挺多-Safari-的接口，还能方便移植-Chrome-那些扩展，-SwitchyOmega-这样的扩展不...](https://www.v2ex.com/t/732553) 
 - [2020-12-05-有-gmail-取名的好方法吗？](https://www.v2ex.com/t/732551) 
 - [2020-12-05-我的面试谷哥-GOOGLE-伦敦-SRE-的经验和教训](https://www.v2ex.com/t/732550) 
 - [2020-12-05-成都/北京/上海/武汉-神策数据后端/前端/产品/测试，-15K-40K，-14-薪，上班不打卡，-MBP-+-27-寸-2K](https://www.v2ex.com/t/732548) 
@@ -42,6 +43,3 @@
 - [2020-12-05-Telegram-挂了？](https://www.v2ex.com/t/732508) 
 - [2020-12-05-iPad-实体键盘的那些事](https://www.v2ex.com/t/732506) 
 - [2020-12-05-zClock---2020-年底兑换码](https://www.v2ex.com/t/732505) 
-- [2020-12-05-实习-微软亚洲研究院-基于强化学习的实时视频通讯优化实习生](https://www.v2ex.com/t/732504) 
-- [2020-12-05-请问-V2EX-的账号可以注销吗？](https://www.v2ex.com/t/732503) 
-- [2020-12-05-flutter-如果用的是-js而不是-dart-该多好](https://www.v2ex.com/t/732502) 

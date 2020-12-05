@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-05 15:43:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-05 15:51:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-05-Microsoft-365-新车,有效期到-21/12/4,年-40/人](https://www.v2ex.com/t/732543) 
 - [2020-12-05-自己写的-blog-分享：-Linux-Kernel-代码中的异常检测与日志类-API](https://www.v2ex.com/t/732542) 
 - [2020-12-05-Rust-China-Conf-会议，本年度-Rust-社区唯一的线下会议](https://www.v2ex.com/t/732541) 
 - [2020-12-05-Pyenv-编译失败，有没有大佬知道怎么解决？](https://www.v2ex.com/t/732540) 
@@ -43,4 +44,3 @@
 - [2020-12-05-开一贴，不定期帮-V-友们-P-图如何？](https://www.v2ex.com/t/732500) 
 - [2020-12-05-U2720Q-的-90W-反向供电在-16-寸-MBP-上表现糟糕](https://www.v2ex.com/t/732499) 
 - [2020-12-05-FC-的-NSF-音源转化成音乐文件的话转成什么格式多少码率的好？](https://www.v2ex.com/t/732496) 
-- [2020-12-05-IOS-的-safari-有没有办法添加生词本](https://www.v2ex.com/t/732494) 

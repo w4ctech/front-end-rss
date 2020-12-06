@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-06 02:48:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-06 03:04:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -35,4 +35,6 @@
 - [2016-04-07-Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/) 
 - [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
+- [2020-12-05-翻译-|-《JavaScript-Everywhere》第18章-带Electron的桌面应用程序](https://juejin.im/post/6902933073701109767) 
 - [2020-12-06-nodejs-module.export-的变量可以修改吗](https://www.v2ex.com/t/732579) 
+- [2020-12-06-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) 

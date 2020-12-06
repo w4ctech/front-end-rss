@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-06 20:47:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-06 21:03:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -24,5 +24,6 @@
 - [2020-12-06-第一次知道-https-会暴露服务器-ip](https://www.v2ex.com/t/732738) 
 - [2020-12-06-滴滴出行-北京、杭州、成都内推，年前面试年后入职-iOS/Android/-Java-/前端/算法/-PHP-/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/732704) 
 - [2020-12-06-网骗欺诈？网络裸奔？都是因为-HTTP？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14028&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F325807394%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-06-推荐-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x) 
+- [2020-12-06-推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) 
 - [2020-12-06-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) 
+- [2020-12-06-推荐-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x) 

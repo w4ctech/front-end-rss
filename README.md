@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-06 10:40:16，:rocket: 更新条数: +389， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-06 10:50:34，:rocket: 更新条数: +3321， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-12-06-国家卫健委：12月5日新增确诊病例18例，其中本土病例1例](https://m.caixin.com/m/2020-12-06/101636235.html) ![](assets/new.png)  
+- [2020-12-06-日本新冠重症病例连创新高-医疗资源恐遭挤兑](http://m.international.caixin.com/m/2020-12-06/101636231.html) ![](assets/new.png)  
+- [2020-12-06-【境内疫情观察】天津新增1例本土病例（12月5日）](http://m.database.caixin.com/m/2020-12-06/101636265.html) ![](assets/new.png)  
+- [2020-12-06-大流行手记|12月5日：WHO称COVAX计划已获7亿剂疫苗-韩国首尔或宵禁](https://m.caixin.com/m/2020-12-06/101636251.html) ![](assets/new.png)  
+- [2020-12-05-最新海外疫情：新冠感染超6580万-累计死亡超151万](http://m.international.caixin.com/m/2020-12-05/101636181.html) ![](assets/new.png)  
+- [2020-12-05-【境内疫情观察】内蒙古新增2例本土病例（12月4日）](http://m.database.caixin.com/m/2020-12-05/101636119.html) ![](assets/new.png)  
+- [2020-12-05-大流行手记|12月4日：欧洲多国明确疫苗接种计划-俄罗斯下周启动大规模接种](https://m.caixin.com/m/2020-12-05/101636003.html) ![](assets/new.png)  
+- [2020-12-04-香港新增最年轻死亡病例仅38岁-合并感染新冠和流感](http://m.china.caixin.com/m/2020-12-04/101635866.html) ![](assets/new.png)  
+- [2020-12-04-【境内疫情观察】内蒙古新增2例本土病例（12月3日）](http://m.database.caixin.com/m/2020-12-04/101635612.html) ![](assets/new.png)  
+- [2020-12-04-大流行手记|12月3日：多国将免费接种疫苗-东京奥运拟对选手定期检测病毒](https://m.caixin.com/m/2020-12-04/101635450.html) ![](assets/new.png)  
+- [2020-12-03-【境内疫情观察】全国新增16例境外输入病例（12月2日）](http://m.database.caixin.com/m/2020-12-03/101635189.html) ![](assets/new.png)  
+- [2020-12-03-大流行手记|12月2日：英率先批准辉瑞疫苗上市-日修法支持国民免费打疫苗](https://m.caixin.com/m/2020-12-03/101635045.html) ![](assets/new.png)  
+- [2020-12-02-香港日增病例再破百-全港市民将可免费接种新冠疫苗](http://m.china.caixin.com/m/2020-12-02/101634970.html) ![](assets/new.png)  
+- [2020-12-02-【境内疫情观察】青岛新增2例本土无症状感染者（12月1日）](http://m.database.caixin.com/m/2020-12-02/101634784.html) ![](assets/new.png)  
+- [2020-12-02-大流行手记|12月1日：美国2019年底或已出现新冠感染-韩国再上调防疫级别](https://m.caixin.com/m/2020-12-02/101634640.html) ![](assets/new.png)  
+- [2020-12-01-【境内疫情观察】内蒙古新增4例本土确诊病例（11月30日）](http://m.database.caixin.com/m/2020-12-01/101634347.html) ![](assets/new.png)  
+- [2020-12-01-大流行手记|11月30日：英滚动审评阿斯利康疫苗-Moderna疫苗申请紧急使用](https://m.caixin.com/m/2020-12-01/101634135.html) ![](assets/new.png)  
+- [2020-11-30-香港再收紧防疫措施-特首称全民强制检测“不可行”](http://m.china.caixin.com/m/2020-11-30/101634057.html) ![](assets/new.png)  
+- [2020-11-30-【境内疫情观察】内蒙古新增3例本土确诊病例（11月29日）](http://m.database.caixin.com/m/2020-11-30/101633865.html) ![](assets/new.png)  
+- [2020-11-30-大流行手记|11月29日：美国日增病例过20万-俄军大规模接种新冠疫苗](https://m.caixin.com/m/2020-11-30/101633739.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -524,6 +544,26 @@
 </summary>
 
 
+- [2020-12-06-Pear-Admin-开源社区-,-Layui-3.3.0-.Release-正式发布-与-后续开源计划](https://www.v2ex.com/t/732686) ![](assets/new.png)  
+- [2020-12-06-官网下单的-M1-MBP-状态从‘待处理’回到了‘已付款’](https://www.v2ex.com/t/732685) ![](assets/new.png)  
+- [2020-12-06-这个命令用-requests-怎么写？](https://www.v2ex.com/t/732684) ![](assets/new.png)  
+- [2020-12-06-你们的-mac-自带地图会不定时的去定位吗？](https://www.v2ex.com/t/732683) ![](assets/new.png)  
+- [2020-12-06-震惊，有个框架竟然能快速让-Unity-新手制作可热更游戏！竟然可以让老项目快速对接具备热更性质！](https://www.v2ex.com/t/732682) ![](assets/new.png)  
+- [2020-12-06-有啥新的工具吗？](https://www.v2ex.com/t/732681) ![](assets/new.png)  
+- [2020-12-06-摸鱼摸出了一个美团外卖红包互助的-APP](https://www.v2ex.com/t/732680) ![](assets/new.png)  
+- [2020-12-06-Youtube-美区印度车开车](https://www.v2ex.com/t/732679) ![](assets/new.png)  
+- [2020-12-06-打算入一个-4k-显示器，最好-27-寸，求最好的老哥-and-大佬们安利](https://www.v2ex.com/t/732677) ![](assets/new.png)  
+- [2020-12-06-utools-可以设定一个文件夹，呼出-utools-键入内容会自动向这个文件夹内的文件的文件名做匹配以快速打开文件，这个功能是在哪儿设置的来着？](https://www.v2ex.com/t/732676) ![](assets/new.png)  
+- [2020-12-06-windows10-绰号-bug10，是真的吗？](https://www.v2ex.com/t/732675) ![](assets/new.png)  
+- [2020-12-06-大家都在用什么-OTP（二次验证）方案啊](https://www.v2ex.com/t/732674) ![](assets/new.png)  
+- [2020-12-06-有没有批量给照片添加时间水印的软件？](https://www.v2ex.com/t/732673) ![](assets/new.png)  
+- [2020-12-06-准备搞个-ARM-芯片的-Linux-平板电脑，有没有人感兴趣？](https://www.v2ex.com/t/732672) ![](assets/new.png)  
+- [2020-12-06-求推荐付费图片图床。](https://www.v2ex.com/t/732671) ![](assets/new.png)  
+- [2020-12-06-上海-5.6-公里通勤电动车求推荐](https://www.v2ex.com/t/732669) ![](assets/new.png)  
+- [2020-12-06-大厂卡学历和求职者不想去小公司，其实是相同的心态吧](https://www.v2ex.com/t/732667) ![](assets/new.png)  
+- [2020-12-06-分享一个-Javabean-拷贝工具](https://www.v2ex.com/t/732666) ![](assets/new.png)  
+- [2020-12-06-回不去的过去](https://www.v2ex.com/t/732665) ![](assets/new.png)  
+- [2020-12-06-有电脑-USB-接口的-4G-SIM-卡上网卡吗？](https://www.v2ex.com/t/732663) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

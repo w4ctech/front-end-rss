@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-06 07:48:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-06 08:05:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -7,7 +7,5 @@
 
 
 
-- [2017-12-15-GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/) 
-- [2016-02-27-初探Docker](https://aotu.io/notes/2016/02/27/docker/) 
 - [2020-12-06-Docker-IPV6-NAT](https://www.v2ex.com/t/732636) 
 - [2020-12-06-译-Kubernetes-要弃用-Docker-了，我们该怎么办？](https://toutiao.io/k/chy4vw3) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-06 07:28:46，:rocket: 更新条数: +3890， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-06 07:36:12，:rocket: 更新条数: +3889， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-12-06-ssl-使用对称加密只是为了减少性能开销吗？](https://www.v2ex.com/t/732657) ![](assets/new.png)  
+- [2020-12-06-有个想法，简单点：兼职-+-社交-，融入现代的很新意的玩法。如果志同道合者加-V-聊聊](https://www.v2ex.com/t/732654) ![](assets/new.png)  
 - [2020-12-06-求问老哥们-罗技-k380-这个蓝牙键盘和-mac-的兼容性如何？](https://www.v2ex.com/t/732652) ![](assets/new.png)  
 - [2020-12-06-女性朋友的任务罢了-鹅厂大佬看过来](https://www.v2ex.com/t/732651) ![](assets/new.png)  
 - [2020-12-06-用了四年多的-6SP-试了试-Iqoo5-发现还挺顺手](https://www.v2ex.com/t/732650) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-12-06-电动汽车电池可以按照普通电池（5-号，-7-号）一样进行统一吗？](https://www.v2ex.com/t/732631) ![](assets/new.png)  
 - [2020-12-06-迫于小姨子...求推荐微信免流卡或-10-15G-适用的流量卡。](https://www.v2ex.com/t/732627) ![](assets/new.png)  
 - [2020-12-06-华硕-ax86u-网件-rax80-领势-mx4200-三选一](https://www.v2ex.com/t/732626) ![](assets/new.png)  
-- [2020-12-06-怎么才能抢到-mate40pro](https://www.v2ex.com/t/732623) ![](assets/new.png)  
-- [2020-12-06-有途径能买到-不用刷脸的-sim-卡？可通话的那种](https://www.v2ex.com/t/732622) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,16 +1146,16 @@
 - [2020-12-06-AI-视觉在教育中的应用](https://toutiao.io/k/tao0t3a) ![](assets/new.png)  
 - [2020-12-06-质量保证人员的沟通技巧](https://toutiao.io/k/d2lcx89) ![](assets/new.png)  
 - [2020-12-06-Lucene-索引文件的合并（一）：fdx&&fdt&&fdm](https://toutiao.io/k/w5390e1) ![](assets/new.png)  
-- [2020-12-06-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
-- [2020-12-06-推荐-一文讲透-“布隆过滤器”](https://toutiao.io/k/9b7zxp0) ![](assets/new.png)  
 - [2020-12-06-推荐-隐秘的-MySQL-类型转换](https://toutiao.io/k/27nwbyu) ![](assets/new.png)  
-- [2020-12-06-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
-- [2020-12-06-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) ![](assets/new.png)  
-- [2020-12-06-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
-- [2020-12-06-推荐-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x) ![](assets/new.png)  
+- [2020-12-06-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
+- [2020-12-06-推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) ![](assets/new.png)  
 - [2020-12-06-推荐-分布式一致性协议-Raft](https://toutiao.io/k/xydtpak) ![](assets/new.png)  
-- [2020-12-06-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
 - [2020-12-06-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
+- [2020-12-06-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
+- [2020-12-06-推荐-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x) ![](assets/new.png)  
+- [2020-12-06-推荐-一文讲透-“布隆过滤器”](https://toutiao.io/k/9b7zxp0) ![](assets/new.png)  
+- [2020-12-06-推荐-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) ![](assets/new.png)  
+- [2020-12-06-推荐-分布式一致性协议：CAP、BASE、NWR](https://toutiao.io/k/2kudebn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

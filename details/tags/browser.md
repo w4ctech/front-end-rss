@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-06 13:48:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-06 14:05:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,8 +23,9 @@
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-12-04-前端-api-请求缓存的-5-种方案](https://www.ershicimi.com/p/0739f868c16f1fc66b41e39b676c2588) 
 - [2020-11-27-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/7609004e2f9423cf4f1b2eb5dc1b19ac) 
+- [2020-12-01-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/12b72250dcf48aa6c85243f65cb773cc) 
+- [2020-11-30-postMessage-还能这样玩](https://www.ershicimi.com/p/7b1114a34411c810989fef4b54aa0bfe) 
 - [2020-12-01-面试官：为什么HTTPS是安全的](https://www.ershicimi.com/p/f768212464181d4455e788124c0071de) 
-- [2020-12-01-Chrome-上开发调试的九个技巧](https://www.ershicimi.com/p/00482f399a91fb721afd66fd950b7b95) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -34,9 +35,6 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
-- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-06-如何在网盘的便捷性和安全之间取得平衡？](https://www.v2ex.com/t/732703) 
 - [2020-12-06-解构安全运行能力体系建设:-从思路到实践](https://sec.thief.one/article_content?a_id=ff946348810b584b0e981949c324e07b) 

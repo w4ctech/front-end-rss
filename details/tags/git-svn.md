@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-05 23:48:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-06 00:09:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -20,5 +20,5 @@
 - [2020-11-29-​你可能不太会用的10个Git命令](https://www.ershicimi.com/p/26a2f6873eee49449e4d222aa4299a4e) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
-- [2020-12-05-初识-GitLab-工作流](https://toutiao.io/k/wvirq27) 
+- [2020-12-06-初识-GitLab-工作流](https://toutiao.io/k/wvirq27) 
 - [2020-12-04-Github年度趋势报告发布:哪门语言勇夺桂冠?Python位居何处?](https://sec.thief.one/article_content?a_id=111ed62c81c52837bae2ab1c0713b758) 

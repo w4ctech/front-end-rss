@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-06 02:33:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-06 02:48:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,9 +7,9 @@
 
 
 
+- [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2020-11-11-2020-年最新-24-条前端性能优化军规](https://www.ershicimi.com/p/0c714955eb6ee1eb466645ad988c5cb0) 
 - [2020-12-03-【第2035期】边缘渲染在首屏性能优化上的尝试与突破](https://www.ershicimi.com/p/bb8d351c9ca8d03b89bee068a1522578) 
-- [2020-11-18-图片懒加载从简单到复杂](https://www.ershicimi.com/p/5c1149cdd78fd700b22014239994a291) 
 - [2020-11-27-PHP-8.0重大版本更新正式发布：支持JIT编译器，性能提升高达3倍](https://www.ershicimi.com/p/fde617f4de8741e04807c67be11b156b) 
 - [2020-11-19-前端性能优化-24-条建议（2020）](https://www.ershicimi.com/p/16fae320bad6ffa073196dcf8c778d76) 
 - [2020-11-23-图片懒加载从简单到复杂](https://www.ershicimi.com/p/3040dc77ae0d37b04ac525718c229733) 
@@ -24,5 +24,6 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-12-03-52-条-SQL-语句性能优化策略，建议收藏！](https://www.ershicimi.com/p/941610dbdcb6cc827189900a78d9d390) 
+- [2020-12-05-如何用jQuery加载并解析XML?](https://juejin.im/post/6902708207010250766) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-12-06-Golang-程序性能分析（三）：用-pprof-分析-gRPC-服务的性能](https://toutiao.io/k/kbj19fj) 

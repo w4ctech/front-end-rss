@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-06 10:09:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-06 10:29:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -59,4 +59,3 @@
 - [2020-12-03-大咖来了|字节跳动、阿里、滴滴现场多视角解读安全](https://sec.thief.one/article_content?a_id=80624d28bbdeb9cb0ab634c57059b459) 
 - [2020-12-03-犇众信息荣获第八届CNCERT网络安全应急服务省级优秀支撑单位](https://sec.thief.one/article_content?a_id=76fdf7d317df915061eb038dc85a4e4f) 
 - [2020-12-03-湾区创见·网络安全大会数据安全及隐私保护专场精彩内容回顾](https://sec.thief.one/article_content?a_id=780d880fc583658aab88939bd4da76d3) 
-- [2020-12-03-macOS的15个安全技巧二](https://sec.thief.one/article_content?a_id=88c3df8e6ec15500edf6a2275883fc89) 

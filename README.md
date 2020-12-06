@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-06 01:51:10，:rocket: 更新条数: +3893， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-06 01:57:13，:rocket: 更新条数: +3893， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-12-06-不知怎的最近黑群晖各类服务必须用-https-打开？](https://www.v2ex.com/t/732573) ![](assets/new.png)  
+- [2020-12-06-奇怪，怎么没有人讨论量子计算原型机??](https://www.v2ex.com/t/732572) ![](assets/new.png)  
 - [2020-12-06-13-年-MBP，外接-RX580-显卡，运行-Keras-TensorFlow-+-PlaidML](https://www.v2ex.com/t/732571) ![](assets/new.png)  
 - [2020-12-06-淘宝黑名单](https://www.v2ex.com/t/732570) ![](assets/new.png)  
 - [2020-12-06-云原生时代-ssh-的替代品](https://www.v2ex.com/t/732567) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-12-05-我的面试谷哥-GOOGLE-伦敦-SRE-的经验和教训](https://www.v2ex.com/t/732550) ![](assets/new.png)  
 - [2020-12-05-成都/北京/上海/武汉-神策数据后端/前端/产品/测试，-15K-40K，-14-薪，上班不打卡，-MBP-+-27-寸-2K](https://www.v2ex.com/t/732548) ![](assets/new.png)  
 - [2020-12-05-还是忍不住，入了-iPhone-12-256G-白色](https://www.v2ex.com/t/732546) ![](assets/new.png)  
-- [2020-12-05-写了一个英雄联盟手游资料站小程序](https://www.v2ex.com/t/732545) ![](assets/new.png)  
-- [2020-12-05-自己写的-blog-分享：-Linux-Kernel-代码中的异常检测与日志类-API](https://www.v2ex.com/t/732542) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,26 +1136,26 @@
 </summary>
 
 
-- [2020-12-06-Golang-程序性能分析（三）：用-pprof-分析-gRPC-服务的性能](https://toutiao.io/k/kbj19fj) ![](assets/new.png)  
 - [2020-12-06-详解数据仓库的实施步骤](https://toutiao.io/k/gzqpdu5) ![](assets/new.png)  
+- [2020-12-06-Golang-程序性能分析（三）：用-pprof-分析-gRPC-服务的性能](https://toutiao.io/k/kbj19fj) ![](assets/new.png)  
 - [2020-12-06-列举一些-Go-1.16-中可能对大家有影响的变化](https://toutiao.io/k/gep4k6z) ![](assets/new.png)  
-- [2020-12-06-你们公司分支策略是什么样的](https://toutiao.io/k/irwn6dy) ![](assets/new.png)  
 - [2020-12-06-AI-视觉在教育中的应用](https://toutiao.io/k/tao0t3a) ![](assets/new.png)  
+- [2020-12-06-你们公司分支策略是什么样的](https://toutiao.io/k/irwn6dy) ![](assets/new.png)  
 - [2020-12-06-有趣的-“第二个系统”](https://toutiao.io/k/m9kquzq) ![](assets/new.png)  
 - [2020-12-06-我在阿里巴巴做-Serverless-云研发平台](https://toutiao.io/k/9qciub9) ![](assets/new.png)  
 - [2020-12-06-质量保证人员的沟通技巧](https://toutiao.io/k/d2lcx89) ![](assets/new.png)  
 - [2020-12-06-Lucene-索引文件的合并（一）：fdx&&fdt&&fdm](https://toutiao.io/k/w5390e1) ![](assets/new.png)  
 - [2020-12-06-译-Kubernetes-要弃用-Docker-了，我们该怎么办？](https://toutiao.io/k/chy4vw3) ![](assets/new.png)  
-- [2020-12-06-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
-- [2020-12-06-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
-- [2020-12-06-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) ![](assets/new.png)  
+- [2020-12-06-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
 - [2020-12-06-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
-- [2020-12-06-推荐-如何理解-Kafka-的消息可靠性策略？](https://toutiao.io/k/55mybdz) ![](assets/new.png)  
-- [2020-12-06-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
-- [2020-12-06-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
-- [2020-12-06-推荐-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) ![](assets/new.png)  
+- [2020-12-06-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
 - [2020-12-06-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
-- [2020-12-06-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
+- [2020-12-06-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
+- [2020-12-06-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
+- [2020-12-06-推荐-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) ![](assets/new.png)  
+- [2020-12-06-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
+- [2020-12-06-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
+- [2020-12-06-推荐-从零搭建分布式文件系统-MinIO-比-FastDFS-要更合适](https://toutiao.io/k/qd3u4ct) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

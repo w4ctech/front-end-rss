@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-06 15:04:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-06 15:08:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -83,8 +83,10 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-12-05-教你让b站视频的弹幕发出语音！](https://www.ershicimi.com/p/292a91a99be9da3c7b8952fa9545e4bc) 
+- [2020-12-03-教你让b站视频的弹幕发出语音！](https://www.ershicimi.com/p/acceeb1adcac4cef70b70d825fd99c30) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-12-05-太牛逼了！这个开源项目，可以把我从视频中移除！](https://www.ershicimi.com/p/2bab087cd25447120f536e94d84dc9b1) 
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-12-06-N1-刷-Armbian-pulsuaudio-识别不到-USB-声卡](https://www.v2ex.com/t/732695) 
 - [2020-12-06-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-06-【视频】|-Python:拆包和装包](https://sec.thief.one/article_content?a_id=64e885d4dc3b8611d0e09d533e1b3438) 

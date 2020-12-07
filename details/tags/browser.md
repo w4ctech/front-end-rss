@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-07 18:09:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-07 18:33:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -47,6 +47,7 @@
 - [2020-12-07-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-07-Java-的-synchronized-能防止指令重排序吗？](https://toutiao.io/k/2i5xolr) 
 - [2020-12-07-最完美方案！模拟浏览器如何正确隐藏特征](https://toutiao.io/k/ophn9j7) 
+- [2020-12-07-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
 - [2020-12-07-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-07-如何利用Browsertunnel通过DNS从浏览器中实现数据窃取](https://sec.thief.one/article_content?a_id=64b5131c438ea15953782e153c0fb29f) 
 - [2020-12-07-【安全热点周报】第171期:Containerd官方发布安全更新通告](https://sec.thief.one/article_content?a_id=b51c272cf2134869a9378fca30e80ad1) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-07 19:34:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-07 19:47:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,3 +28,5 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2020-12-07-请问有没有熟悉-Gdevelop-游戏引擎的小伙伴~](https://www.v2ex.com/t/733109) 
+- [2020-12-07-上海招用过-cocos2d-或白鹭引擎做过-H5-小游戏的前端工程师-1-名](https://www.v2ex.com/t/733095) 

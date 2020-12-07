@@ -2756,8 +2756,34 @@
   {
     "rss": "https://front-rss.herokuapp.com/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "榜单公布 | 新锐作者排行榜(11.30~12.06)",
+        "link": "https://juejin.im/post/6903405195590369293",
+        "date": "2020-12-06"
+      },
+      {
+        "title": "5分钟入门MP4文件格式",
+        "link": "https://juejin.im/post/6903373837891534856",
+        "date": "2020-12-06"
+      },
+      {
+        "title": "手写koa-static源码，深入理解静态服务器原理",
+        "link": "https://juejin.im/post/6903350655474204680",
+        "date": "2020-12-06"
+      },
+      {
+        "title": "📒 关于前端需要了解的Nginx",
+        "link": "https://juejin.im/post/6903349307911438344",
+        "date": "2020-12-06"
+      },
+      {
+        "title": "全新的postmessage库特性介绍与源码解析",
+        "link": "https://juejin.im/post/6903324538432389134",
+        "date": "2020-12-06"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/jskou/0",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-07 20:08:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-07 20:29:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -23,7 +23,6 @@
 - [2020-12-03-这一次彻底弄懂React-Router路由原理](https://www.ershicimi.com/p/e4025fbb2f2722bfab843d85dcaa847d) 
 - [2020-11-24-“混合双打”之如何在-Class-Components-中使用-React-Hooks](https://www.ershicimi.com/p/0e0e249530678f763e438de795805147) 
 - [2020-09-20-浅谈-React-中的-XSS-攻击](https://www.ershicimi.com/p/cf465a8944c2bbb107812b217cc74f63) 
-- [2020-12-03-在React中使用Context的两点注意事项](https://www.ershicimi.com/p/9db0c2528da7c45ecc8a3516927e2cd1) 
 - [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) 
 - [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) 
 - [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) 
@@ -36,13 +35,6 @@
 - [2017-03-03-轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/) 
 - [2016-07-05-feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/) 
 - [2016-01-07-使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/) 
-- [2020-11-30-调试React状态？console.log就是个弟弟](https://www.ershicimi.com/p/8ab1a3e02385f308d0e8c714a19e911b) 
-- [2020-11-26-React-是如何工作的](https://www.ershicimi.com/p/00e4532cf1dadf77219c20b73762b4ab) 
-- [2020-12-03-这一次彻底弄懂React-Router路由原理](https://www.ershicimi.com/p/91483570618fec8b1325f5aa8e1da6ae) 
-- [2020-08-21-聊聊两个状态管理库-Redux-&-Recoil](https://www.ershicimi.com/p/29fec6b9d5024568e2bd71f12ab459ec) 
-- [2020-07-19-「-思考-」-React-Hooks-的设计哲学](https://www.ershicimi.com/p/a06a740b0c554e7a4bf3accaa37913eb) 
-- [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
-- [2020-11-20-真的搞不懂大厂为什么都喜欢用-React-？](https://www.ershicimi.com/p/3764498f36f73ab3bc9b125466235f41) 
 - [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) 
 - [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) 
 - [2020-12-07-译-React-组件中的七种代码坏味道](https://toutiao.io/k/0le1g95) 

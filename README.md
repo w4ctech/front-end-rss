@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-07 12:39:14，:rocket: 更新条数: +3655， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-07 12:57:27，:rocket: 更新条数: +3676， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)  
@@ -1054,6 +1054,13 @@
 </summary>
 
 
+- [2020-12-07-公司后端技术选型-是选择-go-还是-Java-？](https://www.v2ex.com/t/733096) ![](assets/new.png)  
+- [2020-12-07-上海招用过-cocos2d-或白鹭引擎做过-H5-小游戏的前端工程师-1-名](https://www.v2ex.com/t/733095) ![](assets/new.png)  
+- [2020-12-07-Linux-下有什么浏览器还支持-flash-视频吗](https://www.v2ex.com/t/733094) ![](assets/new.png)  
+- [2020-12-07-北京-矽岛科技-jump-寻中高级研发人员（20k-40k-薪酬-open/岗位核心-自荐入职送-PS5-一台；转发给你身边的大牛或者发送到技术群，推荐别人成功入职...](https://www.v2ex.com/t/733093) ![](assets/new.png)  
+- [2020-12-07-如何有效的反编译-Java-Web-项目](https://www.v2ex.com/t/733092) ![](assets/new.png)  
+- [2020-12-07-目录加“/”和不加有什么区别呀？](https://www.v2ex.com/t/733091) ![](assets/new.png)  
+- [2020-12-07-没人讨论一下-m1-用-crossover-么😂目前装了几个-windows-应用都比较完美,舍友试了一下巫师-3-竟然不卡](https://www.v2ex.com/t/733090) ![](assets/new.png)  
 - [2020-12-07-唯独-youtube-总是上不去，到底是什么原因](https://www.v2ex.com/t/733089) ![](assets/new.png)  
 - [2020-12-07-sqlx-官方的-sqlx_test.go-如何运行？](https://www.v2ex.com/t/733088) ![](assets/new.png)  
 - [2020-12-07-脑洞：使用无人飞行器进行旅游是否可能？什么时候可能实现？](https://www.v2ex.com/t/733087) ![](assets/new.png)  
@@ -1067,13 +1074,6 @@
 - [2020-12-07-想看大佬们的-macOS-启动台的应用截图](https://www.v2ex.com/t/733078) ![](assets/new.png)  
 - [2020-12-07-民生还是中信香港卡比较好呢，小白求助](https://www.v2ex.com/t/733076) ![](assets/new.png)  
 - [2020-12-07-吐槽一下-iPhone-12-mini-戴壳触屏不灵敏的问题](https://www.v2ex.com/t/733075) ![](assets/new.png)  
-- [2020-12-07-选择-M1-芯片的-Mac-还是-Windows-电脑？超级纠结中~](https://www.v2ex.com/t/733074) ![](assets/new.png)  
-- [2020-12-07-想入一辆二手练手车，有哪些渠道推荐](https://www.v2ex.com/t/733072) ![](assets/new.png)  
-- [2020-12-07-微信的短链接-mmbizurl.cn-服务有什么限制吗？为什么我有时可以打开，有时却不能打开，而且本地-dns-解析-显示-127.0.0.1，但是在服务器上就会解析道真实-IP](https://www.v2ex.com/t/733071) ![](assets/new.png)  
-- [2020-12-07-自带配件去维修店更换，不确定是什么原因导致不能用，我需要付钱么？](https://www.v2ex.com/t/733070) ![](assets/new.png)  
-- [2020-12-07-突然发现自己的需求集中在第一层](https://www.v2ex.com/t/733069) ![](assets/new.png)  
-- [2020-12-07-在探讨-Dragon-和-Loong-的同时，也不要忘了凤凰](https://www.v2ex.com/t/733068) ![](assets/new.png)  
-- [2020-12-07-终端用了代理，还要给-git-单独设置代理吗？](https://www.v2ex.com/t/733066) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,6 +1085,26 @@
 </summary>
 
 
+- [2020-12-07-机器学习平台带给QA的挑战-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14046&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmachine-learning-platform-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-码仔漫画-|-TCP的三次握手-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14045&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FA-M_8NTW5OHW2olQFg7zkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-通俗易懂的解释下前复权，不复权和后复权的区别-www.zhihu.com](https://blogread.cn/news/go.php?idItem=14044&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F31004373%2Fanswer%2F242862540%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-点触科技上云-构建实时计算和数据仓库-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14042&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7589%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-在云之上的猿辅导，撑住500万中小学生的挑战-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14041&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8969%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-冠赢网络上云-游戏盾彻底解决DDoS/CC攻击-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14039&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9097%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-58到家为2000万家庭提供上门生活服务的背后是云计算的高效支撑-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14038&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F4971%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-母婴企业上云-实现线上线下互动营销、一体化管理服务-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14037&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F6721%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-上学帮上云-阿里云助力教育资讯平台防爬虫-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14036&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9197%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-微服务架构下-CI/CD-如何落地-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14035&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F328238514%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-百家云借助“容器+神龙”三天内实现数十倍扩容-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14034&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8289%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-太平鸟上云-推动中国服饰行业新零售转型-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14033&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8471%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-高德“一键”上云-实现核心数据“3点产出”-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14032&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7151%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-蒂森克虏伯上云-加速跨境访问-、降低网络延时-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14031&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7322%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-游戏公司通过云分期-保障业务如期上线-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14030&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9364%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-技术助援公益-Serverless应用引擎上线北大打卡项目-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14029&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F15885%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-网骗欺诈？网络裸奔？都是因为-HTTP？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14028&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F325807394%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-07-业务价值驱动的测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14027&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-value-driven-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,8 +1129,8 @@
 - [2020-12-07-常见开源协议介绍](https://toutiao.io/k/ta8qgk3) ![](assets/new.png)  
 - [2020-12-07-Java-的-synchronized-能防止指令重排序吗？](https://toutiao.io/k/2i5xolr) ![](assets/new.png)  
 - [2020-12-07-译-Pulsar-与-Kafka-全方位对比（下）：案例、特性、社区](https://toutiao.io/k/maoe1f0) ![](assets/new.png)  
-- [2020-12-07-译-如何使用-C#-中的-Action,-Func，Predicate](https://toutiao.io/k/klitri5) ![](assets/new.png)  
 - [2020-12-07-Go-垃圾回收之根对象与全局扫描](https://toutiao.io/k/1pggmvd) ![](assets/new.png)  
+- [2020-12-07-译-如何使用-C#-中的-Action,-Func，Predicate](https://toutiao.io/k/klitri5) ![](assets/new.png)  
 - [2020-12-07-译-React-组件中的七种代码坏味道](https://toutiao.io/k/0le1g95) ![](assets/new.png)  
 - [2020-12-07-使用-Pi-hole-屏蔽广告](https://toutiao.io/k/e5nzm7d) ![](assets/new.png)  
 - [2020-12-07-SSD-性能测试](https://toutiao.io/k/xjx6adq) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-07 10:30:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-07 10:42:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -87,10 +87,6 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-12-05-太牛逼了！这个开源项目，可以把我从视频中移除！](https://www.ershicimi.com/p/2bab087cd25447120f536e94d84dc9b1) 
-- [2020-12-07-大佬们有什么可以提升自己的视频吗](https://www.v2ex.com/t/733020) 
-- [2020-12-07-不懂就问，有没有什么办法同时播放两个视频，并且调节视频进度是同时调节两个视频的进度](https://www.v2ex.com/t/733002) 
-- [2020-12-07-WebRTC-和-WASM-如何给网络应用提供新机会](https://toutiao.io/k/oodw8i5) 
 - [2020-12-07-可去图像马赛克的工具发布](https://sec.thief.one/article_content?a_id=77993faf7a336d2ae328e0d22d550742) 
 - [2020-12-06-【视频】|-Python:拆包和装包](https://sec.thief.one/article_content?a_id=64e885d4dc3b8611d0e09d533e1b3438) 
 - [2020-12-05-安卓GO-SMS-PRO仍在泄露照片及视频问题](https://sec.thief.one/article_content?a_id=bc9b8714f9a8be57a0d63f0e72c774a8) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-07 00:08:44，:rocket: 更新条数: +3891， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-07 00:20:30，:rocket: 更新条数: +3886， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1136,26 +1136,26 @@
 </summary>
 
 
-- [2020-12-07-译-Kubernetes-要弃用-Docker-了，我们该怎么办？](https://toutiao.io/k/chy4vw3) ![](assets/new.png)  
-- [2020-12-07-你们公司分支策略是什么样的](https://toutiao.io/k/irwn6dy) ![](assets/new.png)  
-- [2020-12-07-我在阿里巴巴做-Serverless-云研发平台](https://toutiao.io/k/9qciub9) ![](assets/new.png)  
-- [2020-12-07-详解数据仓库的实施步骤](https://toutiao.io/k/gzqpdu5) ![](assets/new.png)  
-- [2020-12-07-列举一些-Go-1.16-中可能对大家有影响的变化](https://toutiao.io/k/gep4k6z) ![](assets/new.png)  
-- [2020-12-07-Golang-程序性能分析（三）：用-pprof-分析-gRPC-服务的性能](https://toutiao.io/k/kbj19fj) ![](assets/new.png)  
-- [2020-12-07-有趣的-“第二个系统”](https://toutiao.io/k/m9kquzq) ![](assets/new.png)  
-- [2020-12-07-质量保证人员的沟通技巧](https://toutiao.io/k/d2lcx89) ![](assets/new.png)  
-- [2020-12-07-AI-视觉在教育中的应用](https://toutiao.io/k/tao0t3a) ![](assets/new.png)  
-- [2020-12-07-Lucene-索引文件的合并（一）：fdx&&fdt&&fdm](https://toutiao.io/k/w5390e1) ![](assets/new.png)  
-- [2020-12-07-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
-- [2020-12-07-推荐-AutoExcel-实现百万数据秒级导入导出](https://toutiao.io/k/ui65fqe) ![](assets/new.png)  
-- [2020-12-07-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
-- [2020-12-07-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) ![](assets/new.png)  
-- [2020-12-07-推荐-一文讲透-“布隆过滤器”](https://toutiao.io/k/9b7zxp0) ![](assets/new.png)  
-- [2020-12-07-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) ![](assets/new.png)  
-- [2020-12-07-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
+- [2020-12-07-WebRTC-和-WASM-如何给网络应用提供新机会](https://toutiao.io/k/oodw8i5) ![](assets/new.png)  
+- [2020-12-07-中年技术人转型的几点感想](https://toutiao.io/k/pn1lln7) ![](assets/new.png)  
+- [2020-12-07-用大白话给你解释-Zookeeper-的选举机制](https://toutiao.io/k/gjt6as7) ![](assets/new.png)  
+- [2020-12-07-一万字详解-Redis-Cluster-Gossip-协议](https://toutiao.io/k/0gpib61) ![](assets/new.png)  
+- [2020-12-07-常见开源协议介绍](https://toutiao.io/k/ta8qgk3) ![](assets/new.png)  
+- [2020-12-07-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
 - [2020-12-07-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
-- [2020-12-07-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
-- [2020-12-07-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
+- [2020-12-07-推荐-谈一谈程序员的职业发展路线](https://toutiao.io/k/b2k5zax) ![](assets/new.png)  
+- [2020-12-07-推荐-优秀！一鼓作气学会-“一致性哈希”，就靠这-18-张图了](https://toutiao.io/k/4jzvanq) ![](assets/new.png)  
+- [2020-12-07-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) ![](assets/new.png)  
+- [2020-12-07-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
+- [2020-12-07-推荐-一文讲透-“布隆过滤器”](https://toutiao.io/k/9b7zxp0) ![](assets/new.png)  
+- [2020-12-07-推荐-支持百万级-TPS，Kafka-是怎么做到的？答案藏在这-10-张图里](https://toutiao.io/k/6vn5kqj) ![](assets/new.png)  
+- [2020-12-07-推荐-隐秘的-MySQL-类型转换](https://toutiao.io/k/27nwbyu) ![](assets/new.png)  
+- [2020-12-07-推荐-用-WebRTC-和-Node.js-开发实时视频聊天应用](https://toutiao.io/k/5shq47n) ![](assets/new.png)  
+- [2020-12-07-推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) ![](assets/new.png)  
+- [2020-12-07-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
+- [2020-12-07-推荐-程序员是青春饭吗？30-岁后的发展方向和突破](https://toutiao.io/k/1gxzxw3) ![](assets/new.png)  
+- [2020-12-07-推荐-分布式一致性协议：CAP、BASE、NWR](https://toutiao.io/k/2kudebn) ![](assets/new.png)  
+- [2020-12-07-推荐-架构师之路：微服务技术选型](https://toutiao.io/k/bxvxty9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1167,6 +1167,18 @@
 </summary>
 
 
+- [2020-12-07-究竟什么样的代码,能惊艳整个世界?](https://sec.thief.one/article_content?a_id=13671be65e873a6e1c49533e3807cc8b) ![](assets/new.png)  
+- [2020-12-07-SecWiki周刊第353期](https://sec.thief.one/article_content?a_id=e3523edebca1da1b41ad6c4c86eed5a7) ![](assets/new.png)  
+- [2020-12-07-CCFrank:DBLP论文等级助手插件](https://sec.thief.one/article_content?a_id=c0b399bb7d1d295a24f40fd883aadc8e) ![](assets/new.png)  
+- [2020-12-07-中国银保监会发布《系统重要性银行评估办法》](https://sec.thief.one/article_content?a_id=98765fad1e24c39546c398fd24a874b2) ![](assets/new.png)  
+- [2020-12-06-卧槽!字节跳动《算法中文手册》火了,完整版-PDF-开放下载!](https://sec.thief.one/article_content?a_id=7ce3103431964ce9bdf99fdfa0f1804e) ![](assets/new.png)  
+- [2020-12-06-在医院陪护的这几天](https://sec.thief.one/article_content?a_id=c970a4a2022622e090204d92b64c9ac8) ![](assets/new.png)  
+- [2020-12-06-面向对象:活泼开朗的巨蟹宝宝,希望遇到温柔体贴的你](https://sec.thief.one/article_content?a_id=26cd2a1993e577b0ee5b0f528f98d463) ![](assets/new.png)  
+- [2020-12-06-奇安信开展定向帮扶等公益项目-荣获多项“社会责任”大奖](https://sec.thief.one/article_content?a_id=4122e3a1d7075bb773156bdef47ffa8b) ![](assets/new.png)  
+- [2020-12-06-【诚信网事】文明上网-网传正能量](https://sec.thief.one/article_content?a_id=11d4c735732cf99ac0b9a773f038d4fc) ![](assets/new.png)  
+- [2020-12-06-2021加密货币犯罪报告:出货延迟、暗网市场洗牌](https://sec.thief.one/article_content?a_id=0285961e2c0adc6c153ebe1a3339835c) ![](assets/new.png)  
+- [2020-12-06-Ghimob银行木马分析](https://sec.thief.one/article_content?a_id=bd7f3cecc2750a8e948e90c62010b1a5) ![](assets/new.png)  
+- [2020-12-06-周报|网安大咖秀、云密码本、防火墙趋势、代码审计建设等引热议:...](https://sec.thief.one/article_content?a_id=7ca175e7206961afb5b4410774141544) ![](assets/new.png)  
 - [2020-12-06-巅峰对决,勇者胜!第八题-《惊天阴谋》正在火热进行中!](https://sec.thief.one/article_content?a_id=35a7658b711d9d7cce22c64dd9eaa129) ![](assets/new.png)  
 - [2020-12-06-美国扣押黄金引众怒,人民币可趁机拿下黄金定价权!](https://sec.thief.one/article_content?a_id=9d598ebfac91998741da28ee58f15118) ![](assets/new.png)  
 - [2020-12-06-终于可以用微信登录啦](https://sec.thief.one/article_content?a_id=748d41a82bfb72cf19395d82d2e2db71) ![](assets/new.png)  
@@ -1175,18 +1187,6 @@
 - [2020-12-06-Android-平台新出现了一个吸费恶意软件](https://sec.thief.one/article_content?a_id=49ed15b5da2ff71a0f36895411ae3aae) ![](assets/new.png)  
 - [2020-12-06-中国蚁剑无文件连接phpstudy后门实战](https://sec.thief.one/article_content?a_id=bf1996a6a270a3bb9a26ef3541eb6472) ![](assets/new.png)  
 - [2020-12-06-不懂代码也能爬取数据?试试这几个工具](https://sec.thief.one/article_content?a_id=3ce656e28af749a0e2836d815fc1addb) ![](assets/new.png)  
-- [2020-12-06-零基础+进阶系统化白帽黑客学习指南-|-十二月份](https://sec.thief.one/article_content?a_id=86eae30372accf805c4b71aa76fce059) ![](assets/new.png)  
-- [2020-12-06-解构安全运行能力体系建设:-从思路到实践](https://sec.thief.one/article_content?a_id=ff946348810b584b0e981949c324e07b) ![](assets/new.png)  
-- [2020-12-06-神操作!俄罗斯黑客组织竟然使用Dropbox来存储恶意软件窃取到的数据](https://sec.thief.one/article_content?a_id=7255f1b82a307cf470c96844cb7279c0) ![](assets/new.png)  
-- [2020-12-06-【视频】|-Python:拆包和装包](https://sec.thief.one/article_content?a_id=64e885d4dc3b8611d0e09d533e1b3438) ![](assets/new.png)  
-- [2020-12-06-黑客组织被曝利用-Dropbox-存储恶意软件窃取来的数据](https://sec.thief.one/article_content?a_id=7ecc5d2336e5629daf5cf7309d8f021c) ![](assets/new.png)  
-- [2020-12-06-图解-Python-中深浅拷贝copy](https://sec.thief.one/article_content?a_id=0202f1172c472bd47e60ca624599feb4) ![](assets/new.png)  
-- [2020-12-06-爱德华·斯诺登喊话特朗普!要求其赦免维基解密创始人朱利安·阿桑奇](https://sec.thief.one/article_content?a_id=1623e9137d2384b5a6088a667121a434) ![](assets/new.png)  
-- [2020-12-06-又一华为程序员进了-ICU:压垮一个家庭,一张结算单就够](https://sec.thief.one/article_content?a_id=57b1e156d6e0ed3dcd54a55b7f5a0c37) ![](assets/new.png)  
-- [2020-12-05-逛商场、买个房都要被人脸识别入库,大数据分析!](https://sec.thief.one/article_content?a_id=7363111eab0f0aa88c96cd0e7b0a1c90) ![](assets/new.png)  
-- [2020-12-05-主力资金持续流出市场,比特币开启下跌模式?](https://sec.thief.one/article_content?a_id=fa6db14305247c1cd7b4fdd73dbf5007) ![](assets/new.png)  
-- [2020-12-05-下载神器被-Github-下架后,作者写下了这篇回应](https://sec.thief.one/article_content?a_id=966c5a8a4916f68d9991c565849d357e) ![](assets/new.png)  
-- [2020-12-05-中央网信办召开理论学习中心组学习扩大会-专题学习习近平总书记...](https://sec.thief.one/article_content?a_id=5187ec87e443a32b82c62bb0476bd060) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

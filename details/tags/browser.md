@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-07 00:08:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-07 00:20:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -48,8 +48,6 @@
 - [2020-12-06-如何在网盘的便捷性和安全之间取得平衡？](https://www.v2ex.com/t/732703) 
 - [2020-12-07-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-07-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
-- [2020-12-07-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
-- [2020-12-07-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
 - [2020-12-06-解构安全运行能力体系建设:-从思路到实践](https://sec.thief.one/article_content?a_id=ff946348810b584b0e981949c324e07b) 
 - [2020-12-05-在招|中通快递高薪诚招安全研发相关工程师](https://sec.thief.one/article_content?a_id=1a654dcbcacc224ecb7a03ff9befc81f) 
 - [2020-12-05-2020年全区网络安全等级保护工作会议|绿盟科技获2020年宁夏网络安...](https://sec.thief.one/article_content?a_id=1b8604565dfee34a14dff3139bea7aca) 
@@ -60,5 +58,3 @@
 - [2020-12-03-【安全圈】黑客组织被曝利用-Dropbox-存储恶意软件窃取来的数据](https://sec.thief.one/article_content?a_id=5f4b68855df9746838312dac116a66eb) 
 - [2020-12-03-赛尔年会案例分享二丨打造校园全方位协同安全运营能力](https://sec.thief.one/article_content?a_id=9356eb684d475d4bea6c0d5002368b5c) 
 - [2020-12-03-大咖来了|字节跳动、阿里、滴滴现场多视角解读安全](https://sec.thief.one/article_content?a_id=80624d28bbdeb9cb0ab634c57059b459) 
-- [2020-12-03-犇众信息荣获第八届CNCERT网络安全应急服务省级优秀支撑单位](https://sec.thief.one/article_content?a_id=76fdf7d317df915061eb038dc85a4e4f) 
-- [2020-12-03-湾区创见·网络安全大会数据安全及隐私保护专场精彩内容回顾](https://sec.thief.one/article_content?a_id=780d880fc583658aab88939bd4da76d3) 

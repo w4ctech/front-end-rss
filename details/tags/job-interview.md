@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-07 05:09:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-07 05:29:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/d281b048adc7a62c0a493790e81911f2) 
 - [2020-12-05-【信条】手撕吊打面试官系列面试题](https://www.ershicimi.com/p/469547f79b452a5e5df450207cbfb6c0) 
 - [2020-12-03-面试官：说说你对双向绑定的理解?](https://www.ershicimi.com/p/72c12c70bab5bae2c11cdeb50319e8c6) 
@@ -18,8 +17,6 @@
 - [2020-11-29-【招聘】北京腾讯新闻招前端工程师](https://www.ershicimi.com/p/477fa49258655b641aa150ee8f21d415) 
 - [2020-11-28-【招聘】字节跳动广告系统-飞鱼线索营销平台招高级前端研发工程师](https://www.ershicimi.com/p/42af36c62e2998a983359e58cbc491fc) 
 - [2020-11-25-高频前端开发面试问题及答案整理](https://www.ershicimi.com/p/b3a93bc5094ea93b2946917738688a5e) 
-- [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/1a1349ee9ae3b4708edcbba31bb2736b) 
-- [2020-11-28-我的前端面试心法（已拿字节offer）](https://www.ershicimi.com/p/51d7414987bc027487cc4c2519f9d36f) 
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2020-12-03-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/f4f6e9e5d92192fc17b0ecacfe37c88e) 
@@ -38,9 +35,8 @@
 - [2020-10-20-阿里前端技术岗发布+内部面试题手册（含P5-P7）](https://www.ershicimi.com/p/5530422518db2c1549a9bb5ab496a15f) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-11-30-Redis面试题汇总（附答案），面试突击专用](https://www.ershicimi.com/p/05760c6e919470ea52e1ddbc7754c0d9) 
-- [2020-12-05-我从600场技术面试中总结出的5个常见问题](https://www.ershicimi.com/p/969dd4f2b634285641e25c529862e505) 
-- [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
+- [2020-12-07-hello-单车面试感想](https://www.v2ex.com/t/732896) 
 - [2020-12-07-杭州、北京、上海-招聘高级前端开发/前端开发专家-25-50K](https://www.v2ex.com/t/732853) 
 - [2020-12-07-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) 
-- [2020-12-07-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
+- [2020-12-07-自学半年Java去美团面试,10分钟不到就挂了!](https://sec.thief.one/article_content?a_id=66591f70b41636f64c886641e86dd46b) 
 - [2020-12-04-安恒信息-|-长期招聘](https://sec.thief.one/article_content?a_id=620217b9cd98ad265e4ea0f2766097b0) 

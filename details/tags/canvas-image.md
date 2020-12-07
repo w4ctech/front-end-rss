@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-07 05:09:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-07 05:29:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-12-01-File、Blob、dataURL-和-canvas-的应用与转换](https://www.ershicimi.com/p/eb9cad4fe60f2e2b607dcd4542b568b4) 
 - [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) 
 - [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) 
 - [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/) 
@@ -21,4 +20,5 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2020-12-07-12月7日GUIBI早内参-BTC震荡拉升至19400-USDT附近,苏州数字人...](https://sec.thief.one/article_content?a_id=4a84a809fafe0bcc945ed3eb2e483f12) 
 - [2020-12-04-GUIBI区块链公开课:【策略技巧】构筑属于自己的盈利模式](https://sec.thief.one/article_content?a_id=a1a1a02c0439aaf1faabe5c609c07b30) 

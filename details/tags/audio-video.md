@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-07 17:07:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-07 17:13:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -83,7 +83,6 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-12-06-前端人，咱别盲目追求新技术-|-直播推荐](https://www.ershicimi.com/p/4c4c1f6dcdda44bf473508bfc9dce19e) 
-- [2020-12-05-教你让b站视频的弹幕发出语音！](https://www.ershicimi.com/p/292a91a99be9da3c7b8952fa9545e4bc) 
 - [2020-12-03-教你让b站视频的弹幕发出语音！](https://www.ershicimi.com/p/acceeb1adcac4cef70b70d825fd99c30) 
 - [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) 
 - [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
@@ -95,7 +94,6 @@
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-12-07-有没有办法调整-Chrome-视频缓存长度?](https://www.v2ex.com/t/733121) 
 - [2020-12-07-Linux-下有什么浏览器还支持-flash-视频吗](https://www.v2ex.com/t/733094) 
-- [2020-12-07-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-07-WebRTC-和-WASM-如何给网络应用提供新机会](https://toutiao.io/k/oodw8i5) 
 - [2020-12-07-可去图像马赛克的工具发布](https://sec.thief.one/article_content?a_id=77993faf7a336d2ae328e0d22d550742) 
 - [2020-12-06-【视频】|-Python:拆包和装包](https://sec.thief.one/article_content?a_id=64e885d4dc3b8611d0e09d533e1b3438) 

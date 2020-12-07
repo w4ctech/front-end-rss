@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-07 17:07:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-07 17:13:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -61,7 +61,6 @@
 - [2020-11-20-怎样的变量命名，才显得有文化？](https://www.ershicimi.com/p/a559af22aeff572b2e18878deb98da20) 
 - [2020-11-19-书到用时方恨少，一大波JS开发工具函数来了](https://www.ershicimi.com/p/d233ab10dd97abbcba02b6c1a3a72ed3) 
 - [2020-11-17-这样写的-JS-代码看着就很舒服](https://www.ershicimi.com/p/8038db7609e740e232a1f5c390a64d93) 
-- [2020-12-02-20个常用的JavaScript简写技巧](https://www.ershicimi.com/p/cee161cecbbba2a0ad38179a4792313f) 
 - [2020-12-01-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/aa478d7716c56800af68a185910037a4) 
 - [2020-11-29-组件库主题设计方案](https://www.ershicimi.com/p/cfcb0d158e49026fc6b917a5790f1e0d) 
 - [2020-11-16-从理解到实现轻松掌握-ES6-中的迭代器](https://www.ershicimi.com/p/3795a41792370b270408c5350d3f5adf) 
@@ -114,6 +113,5 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-12-07-请教一个旁路由-DNS-的问题](https://www.v2ex.com/t/733133) 
 - [2020-12-07-使用-Python-动态执行主程序外的-py-文件时（支持自定义-scprit）时遇到的-reload-问题（importlib）](https://www.v2ex.com/t/733100) 
-- [2020-12-07-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) 
 - [2020-12-07-【组件攻击链】Spring全家桶各类RCE漏洞浅析](https://sec.thief.one/article_content?a_id=8dd735a3bd28001e119ec01429d418f8) 
 - [2020-12-04-ChaMd5荣获JSRC年度团队第二名、R神年度个人第三名](https://sec.thief.one/article_content?a_id=9d3bdc12086bacacfb5c10d98b89edfc) 

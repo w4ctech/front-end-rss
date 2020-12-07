@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-07 10:42:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-07 10:51:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -82,11 +82,16 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-12-06-前端人，咱别盲目追求新技术-|-直播推荐](https://www.ershicimi.com/p/4c4c1f6dcdda44bf473508bfc9dce19e) 
+- [2020-12-03-教你让b站视频的弹幕发出语音！](https://www.ershicimi.com/p/acceeb1adcac4cef70b70d825fd99c30) 
 - [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) 
 - [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2020-12-07-大佬们有什么可以提升自己的视频吗](https://www.v2ex.com/t/733020) 
+- [2020-12-07-WebRTC-和-WASM-如何给网络应用提供新机会](https://toutiao.io/k/oodw8i5) 
 - [2020-12-07-可去图像马赛克的工具发布](https://sec.thief.one/article_content?a_id=77993faf7a336d2ae328e0d22d550742) 
 - [2020-12-06-【视频】|-Python:拆包和装包](https://sec.thief.one/article_content?a_id=64e885d4dc3b8611d0e09d533e1b3438) 
 - [2020-12-05-安卓GO-SMS-PRO仍在泄露照片及视频问题](https://sec.thief.one/article_content?a_id=bc9b8714f9a8be57a0d63f0e72c774a8) 

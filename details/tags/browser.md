@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 07:40:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 07:48:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -19,8 +19,8 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-08-哪层缓存比较合理，-API-层？业务层？](https://www.v2ex.com/t/733333) 
 - [2020-12-08-使用公共-WiFi-的网络安全问题](https://www.v2ex.com/t/733324) 
-- [2020-12-08-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
 - [2020-12-08-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
+- [2020-12-08-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
 - [2020-12-08-企业安全进行云平台运营的5个关键因素](https://sec.thief.one/article_content?a_id=ee485d15c7f8e753a7bc5cbeeccca0e1) 
 - [2020-12-08-每日安全动态推送12-08](https://sec.thief.one/article_content?a_id=278da59b4e7da6da70a0a51a02ce39ff) 
 - [2020-12-08-SecWiki安全招聘第44期](https://sec.thief.one/article_content?a_id=628b463484a0365b86ef8ea4c2b27062) 

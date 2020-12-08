@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 07:40:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 07:48:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -20,8 +20,6 @@
 - [2020-12-05-教你让b站视频的弹幕发出语音！](https://www.ershicimi.com/p/292a91a99be9da3c7b8952fa9545e4bc) 
 - [2020-12-03-教你让b站视频的弹幕发出语音！](https://www.ershicimi.com/p/acceeb1adcac4cef70b70d825fd99c30) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
-- [2020-12-05-太牛逼了！这个开源项目，可以把我从视频中移除！](https://www.ershicimi.com/p/2bab087cd25447120f536e94d84dc9b1) 
-- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-12-08-看拆解视频，-M1-版本-Mac-mini-空间还很多啊](https://www.v2ex.com/t/733352) 
 - [2020-12-08-从-0-到-1-打造一个-WebRTC-应用](https://toutiao.io/k/n68wzq3) 
 - [2020-12-07-可去图像马赛克的工具发布](https://sec.thief.one/article_content?a_id=77993faf7a336d2ae328e0d22d550742) 

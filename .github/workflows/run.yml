@@ -19,7 +19,7 @@ jobs:
           git config --global user.email "w3ctech@qq.com"
       - name: working
         run: cd server && npm install && node once.js
-      - name: 'Create a Release'
+      - name: Release
         uses: elgohr/Github-Release-Action@master
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}

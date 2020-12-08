@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 21:50:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 22:09:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -21,11 +21,6 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2020-12-01-HTTP接口调试利器！4.8万Star的HTTP命令行客户端！](https://www.ershicimi.com/p/5c4a2190c8945c8eadf76526358cc366) 
-- [2020-12-04-前端-api-请求缓存的-5-种方案](https://www.ershicimi.com/p/0739f868c16f1fc66b41e39b676c2588) 
-- [2020-11-27-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/7609004e2f9423cf4f1b2eb5dc1b19ac) 
-- [2020-12-01-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/12b72250dcf48aa6c85243f65cb773cc) 
-- [2020-11-30-postMessage-还能这样玩](https://www.ershicimi.com/p/7b1114a34411c810989fef4b54aa0bfe) 
 - [2020-12-04-前端安全编码规范](https://www.ershicimi.com/p/c8b36b7987f290a7e50281d0ad917717) 
 - [2020-12-01-Chrome-上开发调试的九个技巧](https://www.ershicimi.com/p/00482f399a91fb721afd66fd950b7b95) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
@@ -40,8 +35,6 @@
 - [2020-12-08-译|提高开发效率的五个-Chrome-扩展程序](https://juejin.im/post/6903831004034072589) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-08-在线自动渲染-Markdown-源文件地址，支持公式、评论等](https://www.v2ex.com/t/733561) 
-- [2020-12-08-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
-- [2020-12-08-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
 - [2020-12-08-实战演练,为国铸鼎-|-第二届“网鼎杯”网络安全大赛圆满收官](https://sec.thief.one/article_content?a_id=773ae2af0fe6bff31762813525e43d34) 
 - [2020-12-08-Teaclave-安全计算开源生态---由-Teaclave-驱动的开源项目一览](https://sec.thief.one/article_content?a_id=c3bd4f3658ce12a0fe0627730f3ae14d) 
 - [2020-12-08-企业安全进行云平台运营的5个关键因素](https://sec.thief.one/article_content?a_id=ee485d15c7f8e753a7bc5cbeeccca0e1) 

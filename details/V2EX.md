@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-12-08 14:31:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 14:38:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-08-ssh:-git-clone-加速下载](https://www.v2ex.com/t/733512) 
+- [2020-12-08-S4-用了半年，锻炼圆环的识别阈值越来越高，环越来越难合上？有人遇到这个问题吗](https://www.v2ex.com/t/733511) 
 - [2020-12-08-Windows-server2016-上搞了个-300T-的-ReFS-卷，有一次重启后变成只读。。了](https://www.v2ex.com/t/733510) 
 - [2020-12-08-为什么感觉-Vue-的组件相对于-React-来说很少呢？](https://www.v2ex.com/t/733509) 
 - [2020-12-08-回帖即送-云筏科技-CloudFlare-Pro-订阅!含-WAF+PageRules30-条+CF-隧道流量-60G+更多](https://www.v2ex.com/t/733508) 
@@ -47,5 +49,3 @@
 - [2020-12-08-现阶段劝你买-M1-的是不是消费主义陷阱](https://www.v2ex.com/t/733467) 
 - [2020-12-08-北京海淀区找个个人陪练的，有没有推荐的](https://www.v2ex.com/t/733466) 
 - [2020-12-08-做后端的要懂点服务器运维相关的知识，不过分吧？](https://www.v2ex.com/t/733463) 
-- [2020-12-08-Mac-上-Safari-无法完全清除网站数据的问题](https://www.v2ex.com/t/733462) 
-- [2020-12-08-这是正版的还是盗版的？](https://www.v2ex.com/t/733461) 

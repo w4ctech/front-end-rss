@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-08 03:45:38，:rocket: 更新条数: +3910， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-08 03:54:06，:rocket: 更新条数: +1009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-12-08-12月7日全国新增确诊病例12例-本土病例2例](https://m.caixin.com/m/2020-12-08/101636777.html) ![](assets/new.png)  
-- [2020-12-08-成都新冠本土病例增至5例-所涉村庄和医院已实施封控](https://m.caixin.com/m/2020-12-08/101636790.html) ![](assets/new.png)  
-- [2020-12-08-大流行手记|12月7日：印尼土耳其等国订购中国疫苗-韩国将加大病毒检测力度](https://m.caixin.com/m/2020-12-08/101636807.html) ![](assets/new.png)  
-- [2020-12-07-成都新增1例确诊病例，系白天通报病例丈夫](https://m.caixin.com/m/2020-12-07/101636741.html) ![](assets/new.png)  
-- [2020-12-07-最新海外疫情：新冠感染近6698万-累计死亡超153万](http://m.international.caixin.com/m/2020-12-07/101636630.html) ![](assets/new.png)  
-- [2020-12-07-成都郫都区新增1例新冠肺炎确诊病例](http://m.china.caixin.com/m/2020-12-07/101636491.html) ![](assets/new.png)  
-- [2020-12-07-【境内疫情观察】内蒙古新增3例本土病例（12月6日）](http://m.database.caixin.com/m/2020-12-07/101636503.html) ![](assets/new.png)  
-- [2020-12-07-大流行手记|12月6日：辉瑞疫苗申请印度上市-俄罗斯已为10万人接种疫苗](https://m.caixin.com/m/2020-12-07/101636373.html) ![](assets/new.png)  
-- [2020-12-06-日本新冠重症病例连创新高-医疗资源恐遭挤兑](http://m.international.caixin.com/m/2020-12-06/101636231.html) ![](assets/new.png)  
-- [2020-12-06-【境内疫情观察】天津新增1例本土病例（12月5日）](http://m.database.caixin.com/m/2020-12-06/101636265.html) ![](assets/new.png)  
-- [2020-12-06-大流行手记|12月5日：WHO称COVAX计划已获7亿剂疫苗-韩国首尔或宵禁](https://m.caixin.com/m/2020-12-06/101636251.html) ![](assets/new.png)  
-- [2020-12-05-【境内疫情观察】内蒙古新增2例本土病例（12月4日）](http://m.database.caixin.com/m/2020-12-05/101636119.html) ![](assets/new.png)  
-- [2020-12-05-大流行手记|12月4日：欧洲多国明确疫苗接种计划-俄罗斯下周启动大规模接种](https://m.caixin.com/m/2020-12-05/101636003.html) ![](assets/new.png)  
-- [2020-12-04-香港新增最年轻死亡病例仅38岁-合并感染新冠和流感](http://m.china.caixin.com/m/2020-12-04/101635866.html) ![](assets/new.png)  
-- [2020-12-04-【境内疫情观察】内蒙古新增2例本土病例（12月3日）](http://m.database.caixin.com/m/2020-12-04/101635612.html) ![](assets/new.png)  
-- [2020-12-04-大流行手记|12月3日：多国将免费接种疫苗-东京奥运拟对选手定期检测病毒](https://m.caixin.com/m/2020-12-04/101635450.html) ![](assets/new.png)  
-- [2020-12-03-【境内疫情观察】全国新增16例境外输入病例（12月2日）](http://m.database.caixin.com/m/2020-12-03/101635189.html) ![](assets/new.png)  
-- [2020-12-03-大流行手记|12月2日：英率先批准辉瑞疫苗上市-日修法支持国民免费打疫苗](https://m.caixin.com/m/2020-12-03/101635045.html) ![](assets/new.png)  
-- [2020-12-02-香港日增病例再破百-全港市民将可免费接种新冠疫苗](http://m.china.caixin.com/m/2020-12-02/101634970.html) ![](assets/new.png)  
-- [2020-12-02-【境内疫情观察】青岛新增2例本土无症状感染者（12月1日）](http://m.database.caixin.com/m/2020-12-02/101634784.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,26 +1054,26 @@
 </summary>
 
 
+- [2020-12-08-有没人总结过，业界常用的数据库字段或者变量的英文翻译](https://www.v2ex.com/t/733256) ![](assets/new.png)  
+- [2020-12-08-Lombok-@Builder-一键-build-所有字段-idea-快捷键？](https://www.v2ex.com/t/733255) ![](assets/new.png)  
+- [2020-12-08-Mysql-缓存的问题](https://www.v2ex.com/t/733254) ![](assets/new.png)  
+- [2020-12-08-深圳科技园非-996.-业绩优秀的游戏公司招聘-U3D-主程](https://www.v2ex.com/t/733253) ![](assets/new.png)  
+- [2020-12-08-有大佬在-SNKRS-上抢过鞋吗？怎么判断一双鞋有没有抢购的价值呀](https://www.v2ex.com/t/733252) ![](assets/new.png)  
+- [2020-12-08-请问四年前注销的联通号码，什么办法能追回？](https://www.v2ex.com/t/733251) ![](assets/new.png)  
+- [2020-12-08-django-开启一个线程应写在哪个文件下](https://www.v2ex.com/t/733250) ![](assets/new.png)  
+- [2020-12-08-［学术］-Alpha-Flow-预测蛋白质-3D-结构，准确率达到-97%](https://www.v2ex.com/t/733249) ![](assets/new.png)  
+- [2020-12-08-想问下两个-div-如何反复重复出现](https://www.v2ex.com/t/733248) ![](assets/new.png)  
 - [2020-12-08-买了个-SURFACE-发现-PC-端的印像笔记无法在笔记里直接手写标注什么的，还要专门建手写笔记好-LOW-啊](https://www.v2ex.com/t/733247) ![](assets/new.png)  
 - [2020-12-08-m1-MacBook-Pro-13-寸-16+1T-还是-16+512](https://www.v2ex.com/t/733246) ![](assets/new.png)  
 - [2020-12-08-我是程序员，我用这种方式铭记历史](https://www.v2ex.com/t/733243) ![](assets/new.png)  
 - [2020-12-08-有没有安卓浏览器有图片另存为功能的？](https://www.v2ex.com/t/733241) ![](assets/new.png)  
 - [2020-12-08-家用小服务器想搞虚拟化，求指教](https://www.v2ex.com/t/733240) ![](assets/new.png)  
 - [2020-12-08-base64-根本不需要什么打开什么网站来生成啊](https://www.v2ex.com/t/733239) ![](assets/new.png)  
-- [2020-12-08-坐标佛山，移动宽带-1000M-如何，带宽蛮大的，不知道跑某些机场有没有-BUFF-加成](https://www.v2ex.com/t/733238) ![](assets/new.png)  
 - [2020-12-08-你们-暑期实习/校招-用的啥项目（-Java-后端）](https://www.v2ex.com/t/733236) ![](assets/new.png)  
 - [2020-12-08-双卡手机，副卡怎么选？主卡是腾讯大王卡](https://www.v2ex.com/t/733235) ![](assets/new.png)  
 - [2020-12-08-我觉得动态语言难学,静态的语言很好学??](https://www.v2ex.com/t/733234) ![](assets/new.png)  
 - [2020-12-08-50-用户以下企业级-oa，-erp-系统，后端选-go-还是-kotlin？](https://www.v2ex.com/t/733233) ![](assets/new.png)  
 - [2020-12-08-iPhone12-经常早上闹钟没声音，用的是睡眠的起床闹钟。](https://www.v2ex.com/t/733232) ![](assets/new.png)  
-- [2020-12-08-问题表有-50w，回答表-900w，需求是查出指定用户没有回答过的问题，怎么能快一点，有大佬支个招不。](https://www.v2ex.com/t/733228) ![](assets/new.png)  
-- [2020-12-08-有双模-pon-stick，求推荐一款小巧可放入入户弱电箱的交换机，谢谢](https://www.v2ex.com/t/733227) ![](assets/new.png)  
-- [2020-12-08-广州游戏宽带你们还在用吗？](https://www.v2ex.com/t/733225) ![](assets/new.png)  
-- [2020-12-08-ssr-surge-这些软件用哪个好？有什么区别？](https://www.v2ex.com/t/733224) ![](assets/new.png)  
-- [2020-12-08-你我虽不是“杀猪盘”的受害者，但真的摆脱被“养猪”了吗？](https://www.v2ex.com/t/733222) ![](assets/new.png)  
-- [2020-12-08-iPhone-SE-优惠券](https://www.v2ex.com/t/733221) ![](assets/new.png)  
-- [2020-12-08-基于腾讯云轻量+对象存储-cos，搭建-nextcloud-网盘](https://www.v2ex.com/t/733220) ![](assets/new.png)  
-- [2020-12-08-一个-MacBook-Pro-和-AirPods-Pro-的神奇问题](https://www.v2ex.com/t/733219) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,8 +1119,8 @@
 - [2020-12-08-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
 - [2020-12-08-架构设计：基于-SpringCloud-框架模拟灰度发布流程](https://toutiao.io/k/wsibemr) ![](assets/new.png)  
 - [2020-12-08-一款百万-Excel-数据秒级导入导出的工具](https://toutiao.io/k/tcoyjgr) ![](assets/new.png)  
-- [2020-12-08-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
 - [2020-12-08-那些把公司当家的程序员，后来怎么样了？](https://toutiao.io/k/qpr1r4a) ![](assets/new.png)  
+- [2020-12-08-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
 - [2020-12-08-ELK-多租户方案](https://toutiao.io/k/039c6gn) ![](assets/new.png)  
 - [2020-12-08-关于-Azure-Databricks-你必须要知道的几件事](https://toutiao.io/k/5rk9o2p) ![](assets/new.png)  
 - [2020-12-08-安卓逆向：老司机带你回顾-ARM-和-C/C++-基本结构](https://toutiao.io/k/eansbnb) ![](assets/new.png)  
@@ -1152,8 +1132,8 @@
 - [2020-12-08-云原生网络性能优化（Service-Mesh-篇）](https://toutiao.io/k/rcyrmxj) ![](assets/new.png)  
 - [2020-12-08-发现了一个关于-gin-1.3.0-框架的-bug](https://toutiao.io/k/6vmql3j) ![](assets/new.png)  
 - [2020-12-08-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
-- [2020-12-08-K8s-弃用-Docker?-看看-K8s-开发者怎么说?](https://toutiao.io/k/ksqyycn) ![](assets/new.png)  
 - [2020-12-08-用-Python-爬取了三大相亲软件评论区，结果...](https://toutiao.io/k/f3c4n7l) ![](assets/new.png)  
+- [2020-12-08-K8s-弃用-Docker?-看看-K8s-开发者怎么说?](https://toutiao.io/k/ksqyycn) ![](assets/new.png)  
 - [2020-12-08-构建下一代-HTTP-API：总览](https://toutiao.io/k/k57tx6z) ![](assets/new.png)  
 - [2020-12-08-关于外存你需要了解的](https://toutiao.io/k/ccwje3r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

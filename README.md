@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-08 02:35:24，:rocket: 更新条数: +3907， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-08 02:41:45，:rocket: 更新条数: +3908， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-12-08-上海12月7日无新增本地新冠肺炎确诊病例-新增境外输入4例-治愈出院5例](http://wsjkw.sh.gov.cn/xwfb/20201208/e71764aaae5f46f989708c6d1b9371f7.html) ![](assets/new.png)  
 - [2020-12-07-美国卫生官员警告假期或致疫情进一步恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqfMWt8BaVvvgSGM27Oc2201208&isfromapp=1) ![](assets/new.png)  
 - [2020-12-07-​印度新增新冠肺炎确诊病例32981例-累计确诊超967万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLJz8cpDuNyABCAlBbvXw201207&isfromapp=1) ![](assets/new.png)  
 - [2020-12-07-青岛加强进口冷链食品核酸检测和预防性全面消毒工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioE3FUqguA38x2BetsXBx201207&isfromapp=1) ![](assets/new.png)  
 - [2020-12-07-秘鲁新增新冠肺炎确诊病例1224例-累计确诊973912例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2LpDvgA1thAGdFYtFGjd201207&isfromapp=1) ![](assets/new.png)  
-- [2020-12-06-特朗普律师团队首席律师鲁迪·朱利安尼确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQpWmSKPY3eWUo6FFeFOY201207&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-12-08-建了个-V2-餐饮创业群...](https://www.v2ex.com/t/733211) ![](assets/new.png)  
+- [2020-12-08-加拿大曼省留学移民-我走过的加拿大移民项目](https://www.v2ex.com/t/733210) ![](assets/new.png)  
 - [2020-12-08-你们周围有人传-coinfalcon-吗,家里人想入但明显是骗局](https://www.v2ex.com/t/733208) ![](assets/new.png)  
 - [2020-12-08-用户发布抖音点赞任务100-条，到期时间1-n-天，要求在规定时间内分配发布完-尽量平均](https://www.v2ex.com/t/733207) ![](assets/new.png)  
 - [2020-12-08-开工，用-go-写一个-docker](https://www.v2ex.com/t/733206) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-12-08-求一个靠谱的-PS5-RoadMap，期待大神出现。](https://www.v2ex.com/t/733190) ![](assets/new.png)  
 - [2020-12-08-MacBook-Pro-外接显示器，合上盖子的情况下，如果重启系统，不会自动激活显示器怎么办？](https://www.v2ex.com/t/733188) ![](assets/new.png)  
 - [2020-12-08-Java-转-go-不知道学习曲线和就业情况怎么样，大家可以分享一下经验？](https://www.v2ex.com/t/733187) ![](assets/new.png)  
-- [2020-12-08-大家有遇到过中文输入法经常打不出中文多情况没？](https://www.v2ex.com/t/733183) ![](assets/new.png)  
-- [2020-12-08-1212-有没有屏幕推荐一下](https://www.v2ex.com/t/733181) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1154,8 +1154,8 @@
 - [2020-12-08-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
 - [2020-12-08-用-Python-爬取了三大相亲软件评论区，结果...](https://toutiao.io/k/f3c4n7l) ![](assets/new.png)  
 - [2020-12-08-K8s-弃用-Docker?-看看-K8s-开发者怎么说?](https://toutiao.io/k/ksqyycn) ![](assets/new.png)  
-- [2020-12-08-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
-- [2020-12-08-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
+- [2020-12-08-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
+- [2020-12-08-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

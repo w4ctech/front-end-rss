@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-08 19:36:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 19:48:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-08-国内-Maven-项目如何避免供应链攻击？](https://www.v2ex.com/t/733557) 
 - [2020-12-08-诺基亚-x71-有尾插问题吗？](https://www.v2ex.com/t/733556) 
 - [2020-12-08-迫于-easy-mock-官网证书过期，自己部署了一套服务，有需要的可以试试](https://www.v2ex.com/t/733555) 
 - [2020-12-08-请教有什么工具可以画出类似这样的手绘草图?](https://www.v2ex.com/t/733554) 
@@ -44,4 +45,3 @@
 - [2020-12-08-Windows-server2016-上搞了个-300T-的-ReFS-卷，有一次重启后变成只读。。了](https://www.v2ex.com/t/733510) 
 - [2020-12-08-为什么感觉-Vue-的组件相对于-React-来说很少呢？](https://www.v2ex.com/t/733509) 
 - [2020-12-08-回帖即送-云筏科技-CloudFlare-Pro-订阅!含-WAF+PageRules30-条+CF-隧道流量-60G+更多](https://www.v2ex.com/t/733508) 
-- [2020-12-08-有没有想自学吉他的，俺可以做一些咨询？](https://www.v2ex.com/t/733507) 

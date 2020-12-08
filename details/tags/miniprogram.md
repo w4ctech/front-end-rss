@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 21:28:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 21:37:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-12-02-小程序开发其实不难！学会这几个组件你也会](https://www.ershicimi.com/p/b03ea4f2943f8d4eaca33e633d4f6b1b) 
 - [2020-12-04-小程序开发其实不难！学会这几个组件你也会](https://www.ershicimi.com/p/a75347a67667f19d141ea0f1a8afacf8) 
 - [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) 
 - [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) 

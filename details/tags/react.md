@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 21:28:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 21:37:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -8,14 +8,10 @@
 
 
 - [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) 
-- [2020-12-08-这一次彻底弄懂React-Router路由原理](https://www.ershicimi.com/p/b8b6cddc955c7f197571500af1562c9f) 
 - [2020-12-07-为什么-React-源码不用-TypeScript-来写？](https://www.ershicimi.com/p/178236e68b9dbc7086326474b0ede4ea) 
 - [2020-12-04-修复-React-代码中烦人的-Warning](https://www.ershicimi.com/p/7600e8baba00081bf6c2666602d97573) 
 - [2020-12-01-用了-5-年-React，我不喜欢-Vue.js-的地方有这些](https://www.ershicimi.com/p/440b599f3e98cb372435f73db84d6d80) 
-- [2020-12-05-我在阿里写-React，学到了什么？](https://www.ershicimi.com/p/4faa1f6b6094bfee9a8dd1522eeddaf7) 
 - [2020-04-16-ali-react-table：高性能-React-表格组件](https://www.ershicimi.com/p/4aeff96a51a674d7a02add3f8bd49c11) 
-- [2020-12-06-为什么-React-源码不用-TypeScript-来写？](https://www.ershicimi.com/p/a3e144896fedd3d8df106f7de0dbbfee) 
-- [2020-12-03-在React中使用Context的两点注意事项](https://www.ershicimi.com/p/9db0c2528da7c45ecc8a3516927e2cd1) 
 - [2020-12-08-这一次彻底弄懂React-Router路由原理](https://www.ershicimi.com/p/9812346f643cdbcc62833b533ffad9bd) 
 - [2020-12-07-在React中使用Context的两点注意事项](https://www.ershicimi.com/p/c59ed3303e3e83c09b538718d5cd9248) 
 - [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) 
@@ -32,5 +28,3 @@
 - [2016-01-07-使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/) 
 - [2020-12-08-React-合成事件和-DOM-原生事件混用](https://juejin.im/post/6903805279483297805) 
 - [2020-12-07-React学习笔记（1）](https://juejin.im/post/6903790904801230856) 
-- [2020-12-08-Paypal-IPN-/-Webhook-异步回调流程是怎样的？](https://www.v2ex.com/t/733558) 
-- [2020-12-08-为什么-react-函数返回新内容后页面还残留有旧内容？](https://www.v2ex.com/t/733548) 

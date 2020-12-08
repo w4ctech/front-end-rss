@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-08 02:09:12，:rocket: 更新条数: +1006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-08 02:19:32，:rocket: 更新条数: +3907， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-12-08-12月7日全国新增确诊病例12例-本土病例2例](https://m.caixin.com/m/2020-12-08/101636777.html) ![](assets/new.png)  
+- [2020-12-08-成都新增3例本土新冠确诊病例-均与郫都区病例关联](https://m.caixin.com/m/2020-12-08/101636790.html) ![](assets/new.png)  
+- [2020-12-08-大流行手记|12月7日：印尼土耳其等国订购中国疫苗-韩国将加大病毒检测力度](https://m.caixin.com/m/2020-12-08/101636807.html) ![](assets/new.png)  
+- [2020-12-07-成都新增1例确诊病例，系白天通报病例丈夫](https://m.caixin.com/m/2020-12-07/101636741.html) ![](assets/new.png)  
+- [2020-12-07-最新海外疫情：新冠感染近6698万-累计死亡超153万](http://m.international.caixin.com/m/2020-12-07/101636630.html) ![](assets/new.png)  
+- [2020-12-07-成都郫都区新增1例新冠肺炎确诊病例](http://m.china.caixin.com/m/2020-12-07/101636491.html) ![](assets/new.png)  
+- [2020-12-07-【境内疫情观察】内蒙古新增3例本土病例（12月6日）](http://m.database.caixin.com/m/2020-12-07/101636503.html) ![](assets/new.png)  
+- [2020-12-07-大流行手记|12月6日：辉瑞疫苗申请印度上市-俄罗斯已为10万人接种疫苗](https://m.caixin.com/m/2020-12-07/101636373.html) ![](assets/new.png)  
+- [2020-12-06-日本新冠重症病例连创新高-医疗资源恐遭挤兑](http://m.international.caixin.com/m/2020-12-06/101636231.html) ![](assets/new.png)  
+- [2020-12-06-【境内疫情观察】天津新增1例本土病例（12月5日）](http://m.database.caixin.com/m/2020-12-06/101636265.html) ![](assets/new.png)  
+- [2020-12-06-大流行手记|12月5日：WHO称COVAX计划已获7亿剂疫苗-韩国首尔或宵禁](https://m.caixin.com/m/2020-12-06/101636251.html) ![](assets/new.png)  
+- [2020-12-05-【境内疫情观察】内蒙古新增2例本土病例（12月4日）](http://m.database.caixin.com/m/2020-12-05/101636119.html) ![](assets/new.png)  
+- [2020-12-05-大流行手记|12月4日：欧洲多国明确疫苗接种计划-俄罗斯下周启动大规模接种](https://m.caixin.com/m/2020-12-05/101636003.html) ![](assets/new.png)  
+- [2020-12-04-香港新增最年轻死亡病例仅38岁-合并感染新冠和流感](http://m.china.caixin.com/m/2020-12-04/101635866.html) ![](assets/new.png)  
+- [2020-12-04-【境内疫情观察】内蒙古新增2例本土病例（12月3日）](http://m.database.caixin.com/m/2020-12-04/101635612.html) ![](assets/new.png)  
+- [2020-12-04-大流行手记|12月3日：多国将免费接种疫苗-东京奥运拟对选手定期检测病毒](https://m.caixin.com/m/2020-12-04/101635450.html) ![](assets/new.png)  
+- [2020-12-03-【境内疫情观察】全国新增16例境外输入病例（12月2日）](http://m.database.caixin.com/m/2020-12-03/101635189.html) ![](assets/new.png)  
+- [2020-12-03-大流行手记|12月2日：英率先批准辉瑞疫苗上市-日修法支持国民免费打疫苗](https://m.caixin.com/m/2020-12-03/101635045.html) ![](assets/new.png)  
+- [2020-12-02-香港日增病例再破百-全港市民将可免费接种新冠疫苗](http://m.china.caixin.com/m/2020-12-02/101634970.html) ![](assets/new.png)  
+- [2020-12-02-【境内疫情观察】青岛新增2例本土无症状感染者（12月1日）](http://m.database.caixin.com/m/2020-12-02/101634784.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1054,9 +1074,14 @@
 </summary>
 
 
+- [2020-12-08-maven-转-gradle](https://www.v2ex.com/t/733196) ![](assets/new.png)  
+- [2020-12-08-买了-Nox-Archaist](https://www.v2ex.com/t/733195) ![](assets/new.png)  
+- [2020-12-08-Mate40Pro-据说有三种屏幕，三星、LG、京东方，京东方的最差，买到京东方的怎么办啊？](https://www.v2ex.com/t/733194) ![](assets/new.png)  
+- [2020-12-08-请教-Flask-离线程序中如何利用上下文传递-g-和-request-参数](https://www.v2ex.com/t/733193) ![](assets/new.png)  
+- [2020-12-08-求助：家里老人居然买矿机挖文件币](https://www.v2ex.com/t/733192) ![](assets/new.png)  
+- [2020-12-08-求一个靠谱的-PS5-RoadMap，期待大神出现。](https://www.v2ex.com/t/733190) ![](assets/new.png)  
 - [2020-12-08-MacBook-Pro-外接显示器，合上盖子的情况下，如果重启系统，不会自动激活显示器怎么办？](https://www.v2ex.com/t/733188) ![](assets/new.png)  
 - [2020-12-08-Java-转-go-不知道学习曲线和就业情况怎么样，大家可以分享一下经验？](https://www.v2ex.com/t/733187) ![](assets/new.png)  
-- [2020-12-08-迫于-10-元风暴，建了个-Q-群](https://www.v2ex.com/t/733184) ![](assets/new.png)  
 - [2020-12-08-大家有遇到过中文输入法经常打不出中文多情况没？](https://www.v2ex.com/t/733183) ![](assets/new.png)  
 - [2020-12-08-1212-有没有屏幕推荐一下](https://www.v2ex.com/t/733181) ![](assets/new.png)  
 - [2020-12-08-我撸了一个用语音助手控制电脑、树莓派的工具](https://www.v2ex.com/t/733180) ![](assets/new.png)  
@@ -1069,11 +1094,6 @@
 - [2020-12-08-南京急招-南京中兴，-C/C++程序员，一个月内迅速入职，简单便捷。](https://www.v2ex.com/t/733169) ![](assets/new.png)  
 - [2020-12-08-父母用手机求推荐](https://www.v2ex.com/t/733168) ![](assets/new.png)  
 - [2020-12-08-有掘金的官方人员么，-chrome-插件的数据又不更新了。](https://www.v2ex.com/t/733167) ![](assets/new.png)  
-- [2020-12-08-GameJam---AI-策略竞技场](https://www.v2ex.com/t/733166) ![](assets/new.png)  
-- [2020-12-08-iPhone-8-的联通信号也太差了吧，为什么？](https://www.v2ex.com/t/733165) ![](assets/new.png)  
-- [2020-12-08-感觉谷歌要不行了](https://www.v2ex.com/t/733164) ![](assets/new.png)  
-- [2020-12-08-与朋友合作项目怎么分成比较好](https://www.v2ex.com/t/733163) ![](assets/new.png)  
-- [2020-12-08-三七互娱内推-社招-中/高-运维工程师-13-25K-15-薪-广州](https://www.v2ex.com/t/733159) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,8 +1142,8 @@
 - [2020-12-08-那些把公司当家的程序员，后来怎么样了？](https://toutiao.io/k/qpr1r4a) ![](assets/new.png)  
 - [2020-12-08-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
 - [2020-12-08-ELK-多租户方案](https://toutiao.io/k/039c6gn) ![](assets/new.png)  
-- [2020-12-08-关于-Azure-Databricks-你必须要知道的几件事](https://toutiao.io/k/5rk9o2p) ![](assets/new.png)  
 - [2020-12-08-安卓逆向：老司机带你回顾-ARM-和-C/C++-基本结构](https://toutiao.io/k/eansbnb) ![](assets/new.png)  
+- [2020-12-08-关于-Azure-Databricks-你必须要知道的几件事](https://toutiao.io/k/5rk9o2p) ![](assets/new.png)  
 - [2020-12-08-从-0-到-1-打造一个-WebRTC-应用](https://toutiao.io/k/n68wzq3) ![](assets/new.png)  
 - [2020-12-08-译-Android-Studio-中的-Motion-Editor-用法详解](https://toutiao.io/k/43z03da) ![](assets/new.png)  
 - [2020-12-08-机器学习平台带给-QA-的挑战](https://toutiao.io/k/quz75c6) ![](assets/new.png)  
@@ -1134,8 +1154,8 @@
 - [2020-12-08-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
 - [2020-12-08-用-Python-爬取了三大相亲软件评论区，结果...](https://toutiao.io/k/f3c4n7l) ![](assets/new.png)  
 - [2020-12-08-K8s-弃用-Docker?-看看-K8s-开发者怎么说?](https://toutiao.io/k/ksqyycn) ![](assets/new.png)  
-- [2020-12-08-推荐-几乎刷完了力扣所有的树题，我发现了这些东西](https://toutiao.io/k/e5l3mqn) ![](assets/new.png)  
 - [2020-12-08-推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a) ![](assets/new.png)  
+- [2020-12-08-推荐-结合电商支付业务一文搞懂-DDD](https://toutiao.io/k/5stu129) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

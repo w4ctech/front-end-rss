@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 15:05:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 15:08:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,6 +25,7 @@
 - [2020-12-01-HTTP接口调试利器！4.8万Star的HTTP命令行客户端！](https://www.ershicimi.com/p/5c4a2190c8945c8eadf76526358cc366) 
 - [2020-12-04-前端-api-请求缓存的-5-种方案](https://www.ershicimi.com/p/0739f868c16f1fc66b41e39b676c2588) 
 - [2020-11-27-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/7609004e2f9423cf4f1b2eb5dc1b19ac) 
+- [2020-11-21-抖音前端安全招前端（实习、高级都招）](https://www.ershicimi.com/p/cb4bcf2ebbdf8937d5ca6c8723e4b6a2) 
 - [2020-12-01-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/12b72250dcf48aa6c85243f65cb773cc) 
 - [2020-11-30-postMessage-还能这样玩](https://www.ershicimi.com/p/7b1114a34411c810989fef4b54aa0bfe) 
 - [2020-12-01-Chrome-上开发调试的九个技巧](https://www.ershicimi.com/p/00482f399a91fb721afd66fd950b7b95) 
@@ -34,6 +35,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-12-08-译|提高开发效率的五个-Chrome-扩展程序](https://juejin.im/post/6903831004034072589) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-12-08-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-08-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-08-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
 - [2020-12-08-实战演练,为国铸鼎-|-第二届“网鼎杯”网络安全大赛圆满收官](https://sec.thief.one/article_content?a_id=773ae2af0fe6bff31762813525e43d34) 

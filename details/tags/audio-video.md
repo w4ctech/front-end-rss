@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 15:05:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 15:08:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -89,6 +89,7 @@
 - [2020-12-05-太牛逼了！这个开源项目，可以把我从视频中移除！](https://www.ershicimi.com/p/2bab087cd25447120f536e94d84dc9b1) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-12-08-北京字节-视频架构直播方向招前端小伙伴啦](https://www.v2ex.com/t/733493) 
+- [2020-12-08-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-08-从-0-到-1-打造一个-WebRTC-应用](https://toutiao.io/k/n68wzq3) 
 - [2020-12-07-可去图像马赛克的工具发布](https://sec.thief.one/article_content?a_id=77993faf7a336d2ae328e0d22d550742) 
 - [2020-12-06-【视频】|-Python:拆包和装包](https://sec.thief.one/article_content?a_id=64e885d4dc3b8611d0e09d533e1b3438) 

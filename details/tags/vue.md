@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 15:05:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 15:08:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -46,6 +46,10 @@
 - [2020-12-06-前端周报：Element-UI-for-Vue-3.0来了；Win-10-或将于明年原生支持安卓应用](https://www.ershicimi.com/p/e85420f822a61bf6157caf1738584730) 
 - [2020-12-01-无人维护？官方打脸：Element-UI-for-Vue-3.0-来了！](https://www.ershicimi.com/p/5a7f95490940f11145c39ea4d085874f) 
 - [2020-11-29-前端周报：Vue-新语法糖引争议；VSCode-现内存泄漏-BUG，官方置若罔闻引不满；百度应用收集](https://www.ershicimi.com/p/dee69a1edc9a0536206e2127d3ac3c20) 
+- [2020-11-29-深入了解-Vue3-模板编译原理](https://www.ershicimi.com/p/d48e244f088ccd577dc2861dac074894) 
+- [2020-11-24-深入了解-Vue3-响应式原理](https://www.ershicimi.com/p/05c75fda7e086dac7dc11a6a73ff9d38) 
+- [2020-11-23-Vue3源码-nextTick解析](https://www.ershicimi.com/p/d51475d104b740f1b2c866fd6d18fae6) 
+- [2020-10-11-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/0590b6964c9fcfc3e48286bd7d353627) 
 - [2020-11-23-开发一个基于-Vue3.0-的组件库是一种怎样的体验？](https://www.ershicimi.com/p/5d3238821ec796478f5fb4ce6a04adb5) 
 - [2020-12-08-Vue3有哪些不向下兼容的改变](https://www.ershicimi.com/p/ea125e7e65801b75ef8b38d5e19d80d2) 
 - [2020-12-06-基于Vue的前端架构，我做了这15点](https://www.ershicimi.com/p/b830e01a5d61ccce36292e330c0c681d) 
@@ -57,5 +61,11 @@
 - [2020-12-04-奇舞周刊第-375-期：Element-UI-for-Vue-3.0-来了！](https://www.ershicimi.com/p/6445ddab67ed0171233a32e04a0d55fc) 
 - [2020-11-23-3天VUE实战，1比1还原抖音代码！](https://www.ershicimi.com/p/357d7929d9716f30eb66647a8de23f47) 
 - [2020-11-19-快人一步上手-Vue3.0](https://www.ershicimi.com/p/dfc983e441c2706df8b787642a0d4321) 
+- [2020-12-02-只会-Vue-，已经没前途了](https://www.ershicimi.com/p/0f6da4a6bf5b014b546bdbbd882fdfd4) 
+- [2020-11-26-从0到1熟悉VUE，只需3天！](https://www.ershicimi.com/p/cda44a7d05868dc91f7414c2439d5a92) 
+- [2020-11-23-如果Element-UI-不维护了，也不支持-Vue3.0-了，怎么办？](https://www.ershicimi.com/p/5c6101bea521ded8894ea81e09dfae85) 
+- [2020-11-19-用一个实战项目快速入门VUE3.0！](https://www.ershicimi.com/p/fc84a2db92ec8ada4ee7dfd934476f96) 
+- [2020-11-17-这7个vue技巧，简直让面试加分！](https://www.ershicimi.com/p/5e206d0f44094c5f63393b87e45edfd3) 
+- [2020-11-13-做了这个Vue3.0实战项目，大厂二面过了，提薪55%！（附项目全过程）](https://www.ershicimi.com/p/38d2520cd5b43a11af949b1da0c7a2ad) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 

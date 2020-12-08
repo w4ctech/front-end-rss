@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-12-08 13:36:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 13:47:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-08-Airpods-MAX](https://www.v2ex.com/t/733502) 
+- [2020-12-08-Apple-introduces-AirPods-Max](https://www.v2ex.com/t/733501) 
+- [2020-12-08-2-个-16-比-9-的双屏还是-21-比-9-带鱼屏更爽?](https://www.v2ex.com/t/733500) 
+- [2020-12-08-Qt-6.0-正式版发布](https://www.v2ex.com/t/733499) 
 - [2020-12-08-关于创建新的编程语言时，基于旧语言，如果旧语言的性能不好，是不是新语言的性能也一定不会好？](https://www.v2ex.com/t/733498) 
 - [2020-12-08-如果研究生退学了，走社招是不是没戏了](https://www.v2ex.com/t/733497) 
 - [2020-12-08-怎样优雅的创建-log？](https://www.v2ex.com/t/733496) 
@@ -43,6 +47,3 @@
 - [2020-12-08-第一次完整地做一个-Python-&-C/C++项目的汇报，感觉-Py-的性能瓶颈完全不存在了](https://www.v2ex.com/t/733457) 
 - [2020-12-08-PerfDog-使用说明书](https://www.v2ex.com/t/733455) 
 - [2020-12-08-北京-腾讯-容器云后台高级工程师，机会不错！](https://www.v2ex.com/t/733454) 
-- [2020-12-08-M1-MacBook-pro-破音](https://www.v2ex.com/t/733452) 
-- [2020-12-08-payjs-之类的-申请小微商户,-也不需要门店照片.](https://www.v2ex.com/t/733451) 
-- [2020-12-08-M1-Macbook-Pro-闪屏，有遇到相同问题的-v-友吗？](https://www.v2ex.com/t/733450) 

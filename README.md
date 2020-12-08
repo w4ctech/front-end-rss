@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-08 02:41:45，:rocket: 更新条数: +3908， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-08 02:50:57，:rocket: 更新条数: +3911， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -958,7 +958,7 @@
 - [2020-12-07-jsliang-求职系列---36---前端工程化系列总结](https://juejin.im/post/6903663850051076110) ![](assets/new.png)  
 - [2020-12-07-5分钟入门MP4文件格式](https://juejin.im/post/6903649891147644942) ![](assets/new.png)  
 - [2020-12-07-对区块链属性-----‘去中心化’-2021年的理解](https://juejin.im/post/6903476970097475592) ![](assets/new.png)  
-- [2020-12-07-jQuery的使用与其设计模式](https://juejin.im/post/6903443244660031495) ![](assets/new.png)  
+- [2020-12-06-漫画-|-微信诞生记之第一行代码的程序员是谁？](https://juejin.im/post/6903326415169519630) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-12-08-工作习惯分享---双击可以选中文字](https://www.v2ex.com/t/733214) ![](assets/new.png)  
+- [2020-12-08-资源求助［分子生物学-第五版］](https://www.v2ex.com/t/733212) ![](assets/new.png)  
 - [2020-12-08-建了个-V2-餐饮创业群...](https://www.v2ex.com/t/733211) ![](assets/new.png)  
 - [2020-12-08-加拿大曼省留学移民-我走过的加拿大移民项目](https://www.v2ex.com/t/733210) ![](assets/new.png)  
 - [2020-12-08-你们周围有人传-coinfalcon-吗,家里人想入但明显是骗局](https://www.v2ex.com/t/733208) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-12-08-请教-Flask-离线程序中如何利用上下文传递-g-和-request-参数](https://www.v2ex.com/t/733193) ![](assets/new.png)  
 - [2020-12-08-求助：家里老人居然买矿机挖文件币](https://www.v2ex.com/t/733192) ![](assets/new.png)  
 - [2020-12-08-求一个靠谱的-PS5-RoadMap，期待大神出现。](https://www.v2ex.com/t/733190) ![](assets/new.png)  
-- [2020-12-08-MacBook-Pro-外接显示器，合上盖子的情况下，如果重启系统，不会自动激活显示器怎么办？](https://www.v2ex.com/t/733188) ![](assets/new.png)  
-- [2020-12-08-Java-转-go-不知道学习曲线和就业情况怎么样，大家可以分享一下经验？](https://www.v2ex.com/t/733187) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1154,8 +1154,8 @@
 - [2020-12-08-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
 - [2020-12-08-用-Python-爬取了三大相亲软件评论区，结果...](https://toutiao.io/k/f3c4n7l) ![](assets/new.png)  
 - [2020-12-08-K8s-弃用-Docker?-看看-K8s-开发者怎么说?](https://toutiao.io/k/ksqyycn) ![](assets/new.png)  
-- [2020-12-08-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) ![](assets/new.png)  
-- [2020-12-08-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) ![](assets/new.png)  
+- [2020-12-08-构建下一代-HTTP-API：总览](https://toutiao.io/k/k57tx6z) ![](assets/new.png)  
+- [2020-12-08-关于外存你需要了解的](https://toutiao.io/k/ccwje3r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

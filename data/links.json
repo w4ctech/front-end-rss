@@ -18466,9 +18466,9 @@
         "date": "2020-12-07"
       },
       {
-        "title": "jQuery的使用与其设计模式",
-        "link": "https://juejin.im/post/6903443244660031495",
-        "date": "2020-12-07"
+        "title": "漫画 | 微信诞生记之第一行代码的程序员是谁？",
+        "link": "https://juejin.im/post/6903326415169519630",
+        "date": "2020-12-06"
       }
     ]
   },
@@ -18855,6 +18855,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "工作习惯分享 - 双击可以选中文字",
+        "link": "https://www.v2ex.com/t/733214",
+        "date": "2020-12-08"
+      },
+      {
+        "title": "资源求助［分子生物学 第五版］",
+        "link": "https://www.v2ex.com/t/733212",
+        "date": "2020-12-08"
+      },
+      {
         "title": "建了个 V2 餐饮创业群...",
         "link": "https://www.v2ex.com/t/733211",
         "date": "2020-12-08"
@@ -19022,11 +19032,6 @@
       {
         "title": "iPhone 8 的联通信号也太差了吧，为什么？",
         "link": "https://www.v2ex.com/t/733165",
-        "date": "2020-12-08"
-      },
-      {
-        "title": "与朋友合作项目怎么分成比较好",
-        "link": "https://www.v2ex.com/t/733163",
         "date": "2020-12-08"
       }
     ]
@@ -19234,18 +19239,13 @@
         "date": "2020-12-08"
       },
       {
-        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
-        "link": "https://toutiao.io/k/1k0udg9",
+        "title": "构建下一代 HTTP API：总览",
+        "link": "https://toutiao.io/k/k57tx6z",
         "date": "2020-12-08"
       },
       {
-        "title": "[推荐] 四种缓存的避坑总结",
-        "link": "https://toutiao.io/k/fzh8zfu",
-        "date": "2020-12-08"
-      },
-      {
-        "title": "[推荐] ElasticSearch 使用规范 beta 版",
-        "link": "https://toutiao.io/k/6qqfb9x",
+        "title": "关于外存你需要了解的",
+        "link": "https://toutiao.io/k/ccwje3r",
         "date": "2020-12-08"
       },
       {
@@ -19254,38 +19254,8 @@
         "date": "2020-12-08"
       },
       {
-        "title": "[推荐] 隐秘的 MySQL 类型转换",
-        "link": "https://toutiao.io/k/27nwbyu",
-        "date": "2020-12-08"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：CAP、BASE、NWR",
-        "link": "https://toutiao.io/k/2kudebn",
-        "date": "2020-12-08"
-      },
-      {
-        "title": "[推荐] 彻底搞懂 IO 底层原理",
-        "link": "https://toutiao.io/k/493onla",
-        "date": "2020-12-08"
-      },
-      {
-        "title": "[推荐] 谈一谈程序员的职业发展路线",
-        "link": "https://toutiao.io/k/b2k5zax",
-        "date": "2020-12-08"
-      },
-      {
-        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
-        "link": "https://toutiao.io/k/6vn5kqj",
-        "date": "2020-12-08"
-      },
-      {
-        "title": "[推荐] AutoExcel 实现百万数据秒级导入导出",
-        "link": "https://toutiao.io/k/ui65fqe",
-        "date": "2020-12-08"
-      },
-      {
-        "title": "[推荐] 结合电商支付业务一文搞懂 DDD",
-        "link": "https://toutiao.io/k/5stu129",
+        "title": "[推荐] 前端高效开发必备的 js 库梳理",
+        "link": "https://toutiao.io/k/rtusig3",
         "date": "2020-12-08"
       },
       {
@@ -19294,8 +19264,38 @@
         "date": "2020-12-08"
       },
       {
-        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
-        "link": "https://toutiao.io/k/e5l3mqn",
+        "title": "[推荐] 中台的本质及中台建设的 4 点思考",
+        "link": "https://toutiao.io/k/9octogz",
+        "date": "2020-12-08"
+      },
+      {
+        "title": "[推荐] ElasticSearch 使用规范 beta 版",
+        "link": "https://toutiao.io/k/6qqfb9x",
+        "date": "2020-12-08"
+      },
+      {
+        "title": "[推荐] 一文讲透 “布隆过滤器”",
+        "link": "https://toutiao.io/k/9b7zxp0",
+        "date": "2020-12-08"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：CAP、BASE、NWR",
+        "link": "https://toutiao.io/k/2kudebn",
+        "date": "2020-12-08"
+      },
+      {
+        "title": "[推荐] 隐秘的 MySQL 类型转换",
+        "link": "https://toutiao.io/k/27nwbyu",
+        "date": "2020-12-08"
+      },
+      {
+        "title": "[推荐] 这些开源项目，让你轻松应对十大工作场景",
+        "link": "https://toutiao.io/k/wpo96pp",
+        "date": "2020-12-08"
+      },
+      {
+        "title": "[推荐] 四种缓存的避坑总结",
+        "link": "https://toutiao.io/k/fzh8zfu",
         "date": "2020-12-08"
       },
       {
@@ -19304,8 +19304,23 @@
         "date": "2020-12-08"
       },
       {
-        "title": "[推荐] 中台的本质及中台建设的 4 点思考",
-        "link": "https://toutiao.io/k/9octogz",
+        "title": "[推荐] 支持百万级 TPS，Kafka 是怎么做到的？答案藏在这 10 张图里",
+        "link": "https://toutiao.io/k/6vn5kqj",
+        "date": "2020-12-08"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了 | 码农周刊第 325 期",
+        "link": "https://toutiao.io/k/xvysg5s",
+        "date": "2020-12-08"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的树题，我发现了这些东西",
+        "link": "https://toutiao.io/k/e5l3mqn",
+        "date": "2020-12-08"
+      },
+      {
+        "title": "[推荐] 超全面分布式缓存高可用方案：哨兵机制",
+        "link": "https://toutiao.io/k/1k0udg9",
         "date": "2020-12-08"
       }
     ]

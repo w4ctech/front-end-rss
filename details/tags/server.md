@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 15:55:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 16:06:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -8,4 +8,5 @@
 
 
 - [2020-12-04-GraphQL是API的未来，但它并非银弹](https://www.ershicimi.com/p/c86dcafab75045f83d79655cb59e090c) 
+- [2020-12-08-K8s-弃用-Docker?-看看-K8s-开发者怎么说?](https://toutiao.io/k/ksqyycn) 
 - [2020-12-08-nginx_parsing_vulnerability-nignx解析漏洞复现](https://sec.thief.one/article_content?a_id=88868915243b829d9702d415fddfb0b3) 

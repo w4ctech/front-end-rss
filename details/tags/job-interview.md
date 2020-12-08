@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 23:41:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 23:44:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -23,15 +23,22 @@
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2020-12-04-解密智联招聘的大前端架构-Ada](https://www.ershicimi.com/p/2b4dc0ef765cb25ad951d63d2fe54fc6) 
+- [2020-12-03-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/f4f6e9e5d92192fc17b0ecacfe37c88e) 
+- [2020-11-28-海康威视web前端开发招聘急招岗](https://www.ershicimi.com/p/e1f2165d75551bd5651298d6864ccc0b) 
+- [2020-11-20-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f7a0c514829ee6cfb825327ed2797705) 
 - [2020-12-08-进入大厂的面试经验详细总结（P7-拿-offer）](https://www.ershicimi.com/p/95ab5fce2f5a51a9dfad984e4791c34e) 
 - [2020-08-19-政采云前端团队-2021-届校园招聘正式启动！](https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194) 
 - [2020-11-26-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/8f112a5e00b041969cfa42acb7273064) 
 - [2020-11-23-【从青铜到钻石】3-年创业公司成长经历-&&-面试总结](https://www.ershicimi.com/p/b5846a88daaa5c3cd045a3f0f5486e15) 
+- [2020-12-04-手撕前端面试代码题](https://www.ershicimi.com/p/b624de3573d222eedb7f66e38d7d5d57) 
 - [2020-11-30-笔试都答对，面试却被挂，面试官到底想听到什么？](https://www.ershicimi.com/p/b8c8f7ff1b491ce281273314fb0ccfb6) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668) 
 - [2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
 - [2020-11-24-腾讯、华为前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557) 
 - [2020-11-11-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/f8720b9ba9028e4081b1345e6367f3c5) 
+- [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
+- [2020-12-05-我从600场技术面试中总结出的5个常见问题](https://www.ershicimi.com/p/969dd4f2b634285641e25c529862e505) 
+- [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-12-08-字节跳动-剪映-产品/运营/研发岗，火热招聘！北京&上海&深圳](https://www.v2ex.com/t/733515) 
 - [2020-12-08-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
 - [2020-12-08-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) 

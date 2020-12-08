@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 03:04:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-08 03:09:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -352,6 +352,8 @@
 - [【知乎日报】2020-12-01-知乎高赞：即使你已经「人到中年」，可能还是逃不开这些「学生思维」](https://www.ershicimi.com/p/d8ffae71160dba41dba1b21af4ef5a28) 
 - [【知乎日报】2020-12-01-《武林外传》的故事发生在明朝哪个皇帝年间？](https://www.ershicimi.com/p/7e26f7277e1195d0926c5d98f7ad53f5) 
 - [【知乎日报】2020-12-01-知乎故事-|-我用一个大招救了自己的命](https://www.ershicimi.com/p/2c8dde6022d178a7a8f45aa8a2432885) 
+- [【V2EX】2020-12-08-广州游戏宽带你们还在用吗？](https://www.v2ex.com/t/733225) 
+- [【V2EX】2020-12-08-ssr-surge-这些软件用哪个好？有什么区别？](https://www.v2ex.com/t/733224) 
 - [【V2EX】2020-12-08-iPhone-SE-优惠券](https://www.v2ex.com/t/733221) 
 - [【V2EX】2020-12-08-基于腾讯云轻量+对象存储-cos，搭建-nextcloud-网盘](https://www.v2ex.com/t/733220) 
 - [【V2EX】2020-12-08-一个-MacBook-Pro-和-AirPods-Pro-的神奇问题](https://www.v2ex.com/t/733219) 
@@ -383,9 +385,6 @@
 - [【V2EX】2020-12-08-我撸了一个用语音助手控制电脑、树莓派的工具](https://www.v2ex.com/t/733180) 
 - [【V2EX】2020-12-08-阿里云后台这情况算-Bug-吗？](https://www.v2ex.com/t/733178) 
 - [【V2EX】2020-12-08-15-寸笔记本，-Y9000X-I7-标配和-ThinkBook15-i7-选哪个？](https://www.v2ex.com/t/733177) 
-- [【V2EX】2020-12-08-Dropbox-一直在同步~~-每次开机的时候-如何解决-有遇到相同问题的老铁嘛？](https://www.v2ex.com/t/733176) 
-- [【V2EX】2020-12-08-Python-单次查表耗时多少才正常？](https://www.v2ex.com/t/733175) 
-- [【V2EX】2020-12-08-2020-最后一个月了，想重新开始学习英语，大家有什么推荐方法？](https://www.v2ex.com/t/733174) 
 - [【技术头条】2020-12-08-码仔漫画｜重学设计模式之装饰者模式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14047&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwjyke4sj-fv324ApHGLuRA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-12-08-机器学习平台带给QA的挑战-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14046&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmachine-learning-platform-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-12-08-码仔漫画-|-TCP的三次握手-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14045&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FA-M_8NTW5OHW2olQFg7zkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

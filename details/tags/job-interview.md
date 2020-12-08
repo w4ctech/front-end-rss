@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 07:09:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 07:30:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -41,6 +41,5 @@
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-12-08-杭州-北京-重庆-蚂蚁集团花呗借呗招聘高级前端工程师-！-QAQ](https://www.v2ex.com/t/733335) 
 - [2020-12-08-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
-- [2020-12-08-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) 
 - [2020-12-07-招聘-|-北京金山云网络技术有限公司](https://sec.thief.one/article_content?a_id=cacb9c7013c34fc3e84518b62608de8d) 
 - [2020-12-07-自学半年Java去美团面试,10分钟不到就挂了!](https://sec.thief.one/article_content?a_id=66591f70b41636f64c886641e86dd46b) 

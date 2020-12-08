@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 07:48:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 08:05:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,20 +7,7 @@
 
 
 
-- [2020-12-02-作为前端，你真的了解你的浏览器吗？](https://www.ershicimi.com/p/32e7d2fd549b3fd7240442c803d0b214) 
-- [2020-12-01-HTTP接口调试利器！4.8万Star的HTTP命令行客户端！](https://www.ershicimi.com/p/5c4a2190c8945c8eadf76526358cc366) 
-- [2020-12-04-前端-api-请求缓存的-5-种方案](https://www.ershicimi.com/p/0739f868c16f1fc66b41e39b676c2588) 
-- [2020-11-27-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/7609004e2f9423cf4f1b2eb5dc1b19ac) 
-- [2020-11-21-抖音前端安全招前端（实习、高级都招）](https://www.ershicimi.com/p/cb4bcf2ebbdf8937d5ca6c8723e4b6a2) 
-- [2020-12-01-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/12b72250dcf48aa6c85243f65cb773cc) 
-- [2020-11-30-postMessage-还能这样玩](https://www.ershicimi.com/p/7b1114a34411c810989fef4b54aa0bfe) 
-- [2020-12-01-Chrome-上开发调试的九个技巧](https://www.ershicimi.com/p/00482f399a91fb721afd66fd950b7b95) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-12-08-哪层缓存比较合理，-API-层？业务层？](https://www.v2ex.com/t/733333) 
-- [2020-12-08-使用公共-WiFi-的网络安全问题](https://www.v2ex.com/t/733324) 
-- [2020-12-08-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
-- [2020-12-08-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
 - [2020-12-08-企业安全进行云平台运营的5个关键因素](https://sec.thief.one/article_content?a_id=ee485d15c7f8e753a7bc5cbeeccca0e1) 
 - [2020-12-08-每日安全动态推送12-08](https://sec.thief.one/article_content?a_id=278da59b4e7da6da70a0a51a02ce39ff) 
 - [2020-12-08-SecWiki安全招聘第44期](https://sec.thief.one/article_content?a_id=628b463484a0365b86ef8ea4c2b27062) 

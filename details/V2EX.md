@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-12-08 11:28:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 11:36:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-08-Mac-上-Safari-无法完全清除网站数据的问题](https://www.v2ex.com/t/733462) 
+- [2020-12-08-这是正版的还是盗版的？](https://www.v2ex.com/t/733461) 
+- [2020-12-08-今晚出新-Apple-TV-？](https://www.v2ex.com/t/733460) 
+- [2020-12-08-如何解决-iPhone-贴了钢化膜发微信语音自动发出问题](https://www.v2ex.com/t/733459) 
+- [2020-12-08-淦！-ios-新版网易云音乐总算是良心了一次。](https://www.v2ex.com/t/733458) 
 - [2020-12-08-第一次完整地做一个-Python-&-C/C++项目的汇报，感觉-Py-的性能瓶颈完全不存在了](https://www.v2ex.com/t/733457) 
 - [2020-12-08-PerfDog-使用说明书](https://www.v2ex.com/t/733455) 
 - [2020-12-08-北京-腾讯-容器云后台高级工程师，机会不错！](https://www.v2ex.com/t/733454) 
@@ -42,7 +47,3 @@
 - [2020-12-08-请教：-iphone12-有必要镜头贴膜吗？类似这样的](https://www.v2ex.com/t/733415) 
 - [2020-12-08-微信抓取公众号阅读数，点赞数，在看数，进来讨论下](https://www.v2ex.com/t/733414) 
 - [2020-12-08-M1-Mac-mini-的一些测试（功耗相关）](https://www.v2ex.com/t/733413) 
-- [2020-12-08-现在开发-iOS/macOS-的-App-直接用-SwiftUI-可行吗？](https://www.v2ex.com/t/733412) 
-- [2020-12-08-Hiretual-北京研发中心-各种技术岗、非技术岗招聘-ing](https://www.v2ex.com/t/733411) 
-- [2020-12-08-天壤智能杭州云栖-20K-40K-运维开发工程师](https://www.v2ex.com/t/733410) 
-- [2020-12-08-统计一下大家的-VO2-MAX](https://www.v2ex.com/t/733409) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 08:35:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 08:52:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -21,7 +21,7 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2020-12-01-Chrome-上开发调试的九个技巧](https://www.ershicimi.com/p/00482f399a91fb721afd66fd950b7b95) 
+- [2020-12-02-作为前端，你真的了解你的浏览器吗？](https://www.ershicimi.com/p/32e7d2fd549b3fd7240442c803d0b214) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-08-文档阅读助手,-Chrome-页面高亮插件-Golang](https://www.v2ex.com/t/733380) 
@@ -29,7 +29,6 @@
 - [2020-12-08-frp-zerotier-哪个打洞成功率高?](https://www.v2ex.com/t/733362) 
 - [2020-12-08-Laravel-的-post-问题，哪位先知给指点下](https://www.v2ex.com/t/733361) 
 - [2020-12-08-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
-- [2020-12-08-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
 - [2020-12-08-企业安全进行云平台运营的5个关键因素](https://sec.thief.one/article_content?a_id=ee485d15c7f8e753a7bc5cbeeccca0e1) 
 - [2020-12-08-每日安全动态推送12-08](https://sec.thief.one/article_content?a_id=278da59b4e7da6da70a0a51a02ce39ff) 
 - [2020-12-08-SecWiki安全招聘第44期](https://sec.thief.one/article_content?a_id=628b463484a0365b86ef8ea4c2b27062) 

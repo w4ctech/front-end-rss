@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 05:08:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 05:29:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -19,4 +19,5 @@
 - [2020-02-26-第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-12-08-watch-的一个项目疯狂发了好几页邮件，-github-要求验证邮箱，但是收不到邮件了](https://www.v2ex.com/t/733287) 
 - [2020-12-05-下载神器被-Github-下架后,作者写下了这篇回应](https://sec.thief.one/article_content?a_id=966c5a8a4916f68d9991c565849d357e) 

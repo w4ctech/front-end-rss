@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-08 16:06:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 16:11:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-08-请教下站立式办公的方式](https://www.v2ex.com/t/733541) 
 - [2020-12-08-Konsole-怎么设置能让斜体字中文字体是不斜的楷体？](https://www.v2ex.com/t/733540) 
 - [2020-12-08-CentOS-项目开发重点将转向-CentOS-Stream](https://www.v2ex.com/t/733537) 
 - [2020-12-08-分享我常用的绘图工具](https://www.v2ex.com/t/733536) 

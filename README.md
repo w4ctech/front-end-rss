@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-09 17:48:04，:rocket: 更新条数: +3915， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-09 18:04:58，:rocket: 更新条数: +3915， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1149,8 +1149,8 @@
 - [2020-12-09-富领域模型到底长什么样儿？](https://toutiao.io/k/z56nouq) ![](assets/new.png)  
 - [2020-12-09-SPA-路由三部曲之核心原理](https://toutiao.io/k/3ljdck9) ![](assets/new.png)  
 - [2020-12-09-DevOps-测试流水线](https://toutiao.io/k/n0gchse) ![](assets/new.png)  
-- [2020-12-09-5.4k-Star！简单又全面的容器漏洞扫描工具：Trivy](https://toutiao.io/k/cafg2op) ![](assets/new.png)  
 - [2020-12-09-小议-Mybatis-plus-相比传统-Mybatis-手写-SQL-的好处](https://toutiao.io/k/og7an66) ![](assets/new.png)  
+- [2020-12-09-5.4k-Star！简单又全面的容器漏洞扫描工具：Trivy](https://toutiao.io/k/cafg2op) ![](assets/new.png)  
 - [2020-12-09-FTWRL-和-READONLY-的区别](https://toutiao.io/k/0o73dat) ![](assets/new.png)  
 - [2020-12-09-由浅入深讲解-JUC-下-CAS-+-Lock](https://toutiao.io/k/ccmxxdn) ![](assets/new.png)  
 - [2020-12-09-给小程序再减重-30%-的秘密​（京喜小程序首页瘦身实践）](https://toutiao.io/k/pzuzmxm) ![](assets/new.png)  

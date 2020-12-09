@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-09 07:41:03，:rocket: 更新条数: +3680， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-09 07:47:54，:rocket: 更新条数: +3680， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -872,6 +872,11 @@
 </summary>
 
 
+- [2020-12-09-Docker-的第二次死亡](https://www.ershicimi.com/p/29fa84049309a7c25183b782b2b5a294) ![](assets/new.png)  
+- [2020-12-09-2020年敏捷开发人员生存指南](https://www.ershicimi.com/p/36cb951e7aef85b826d9a29f6c8635ed) ![](assets/new.png)  
+- [2020-12-09-亚马逊-re:Invent-第二现场！新服务亮点解析](https://www.ershicimi.com/p/9df201cef16998403291e03eeab59c84) ![](assets/new.png)  
+- [2020-12-09-腾讯云这场数据库行业的年度盛会，见证国产力量的崛起之道-｜-Q推荐](https://www.ershicimi.com/p/7aed0cc62e96085f2b68ed4561bfe3b5) ![](assets/new.png)  
+- [2020-12-09-数据科学岗位将在十年后消失？](https://www.ershicimi.com/p/e55895c8cbd4c89a2fd570b973b95fad) ![](assets/new.png)  
 - [2020-12-08-上线2年，日调用量7亿次，云开发凭什么？](https://www.ershicimi.com/p/cc1cb05e4686884a482189a8816ae17b) ![](assets/new.png)  
 - [2020-12-08-从新旧技术体系替换，看大麦网票务技术体系重塑演进之路](https://www.ershicimi.com/p/e3fdc7337762879c661ac14f775a937b) ![](assets/new.png)  
 - [2020-12-08-微服务中台技术解析之分布式事务方案和实践](https://www.ershicimi.com/p/53f8eed65c92323f82684c9c15b2605c) ![](assets/new.png)  
@@ -887,11 +892,6 @@
 - [2020-12-06-端云智能协同如何守望企业的数字化未来？](https://www.ershicimi.com/p/30d9fdb2ceed8a7e76bd0ca082913bf0) ![](assets/new.png)  
 - [2020-12-06-华为云开发者沙龙汇集大众智慧，ModelArts点亮企业未来](https://www.ershicimi.com/p/dd54022aa44fe7e26a533d96a3fc2d49) ![](assets/new.png)  
 - [2020-12-06-NPM-7：这才算是真正的更新](https://www.ershicimi.com/p/446d302614164c80f56e0045dec9efbb) ![](assets/new.png)  
-- [2020-12-05-百度诋毁今日头条被判不正当竞争；Kubernetes将弃用Docker；B站年度弹幕“爷青回”；小米](https://www.ershicimi.com/p/3cead49b59309b3d6ebd6780f81219b4) ![](assets/new.png)  
-- [2020-12-05-我从600场技术面试中总结出的5个常见问题](https://www.ershicimi.com/p/969dd4f2b634285641e25c529862e505) ![](assets/new.png)  
-- [2020-12-05-平安医保科技“大数据-AI-风控系统”技术创新与实践应用详解](https://www.ershicimi.com/p/9913527c3cfad0af8b25e4b7473d7922) ![](assets/new.png)  
-- [2020-12-05-自动语音识别快速入门，教你三行代码实现语音转文字-｜-Q推荐](https://www.ershicimi.com/p/513dc2c3d0946624d35b6407b67b55c7) ![](assets/new.png)  
-- [2020-12-04-TypeScript超越C++成第四大语言！无惧中国开源托管平台竞争：GitHub发布2020年开发](https://www.ershicimi.com/p/526f9b7c020a89dfe02fe0a47bc783d1) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1054,6 +1054,10 @@
 </summary>
 
 
+- [2020-12-09-你们的-Edge-浏览器收藏夹按钮点击后是出现浮层还是菜单？](https://www.v2ex.com/t/733781) ![](assets/new.png)  
+- [2020-12-09-关于艾灸仪](https://www.v2ex.com/t/733780) ![](assets/new.png)  
+- [2020-12-09-灌水](https://www.v2ex.com/t/733779) ![](assets/new.png)  
+- [2020-12-09-m1-有原生-numpy-scipy-了](https://www.v2ex.com/t/733777) ![](assets/new.png)  
 - [2020-12-09-我远程控制了一台未越狱的正常-iPhone-，偷看了照片并打开了手电筒（附原理解析](https://www.v2ex.com/t/733776) ![](assets/new.png)  
 - [2020-12-09-怎么快速给多台电脑重装系统？](https://www.v2ex.com/t/733775) ![](assets/new.png)  
 - [2020-12-09-教育优惠-AC+-for-Macbook-ProM1](https://www.v2ex.com/t/733774) ![](assets/new.png)  
@@ -1070,10 +1074,6 @@
 - [2020-12-09-filter-和-interceptor-功能上差不多，平时你们是怎么选择呢？](https://www.v2ex.com/t/733757) ![](assets/new.png)  
 - [2020-12-09-高德逆地理编码，如何按照需求显示定位地址](https://www.v2ex.com/t/733756) ![](assets/new.png)  
 - [2020-12-09-iPhone12-bug-还是手机问题](https://www.v2ex.com/t/733755) ![](assets/new.png)  
-- [2020-12-09-出几个网易云-酷狗-QQ-音乐会员-超级会员-优酷](https://www.v2ex.com/t/733754) ![](assets/new.png)  
-- [2020-12-09-Mac-循环重启显示六国语言界面](https://www.v2ex.com/t/733752) ![](assets/new.png)  
-- [2020-12-09-千兆带宽，-Win-能跑满，-Linux-跑不满，非常诡异](https://www.v2ex.com/t/733751) ![](assets/new.png)  
-- [2020-12-09-招行全币种国际信用卡（VISA）在线下零售店支持-24-期分期免息吗？](https://www.v2ex.com/t/733747) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

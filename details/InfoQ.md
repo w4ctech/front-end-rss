@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-12-09 07:41:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 07:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-12-09-Docker-的第二次死亡](https://www.ershicimi.com/p/29fa84049309a7c25183b782b2b5a294) 
+- [2020-12-09-2020年敏捷开发人员生存指南](https://www.ershicimi.com/p/36cb951e7aef85b826d9a29f6c8635ed) 
+- [2020-12-09-亚马逊-re:Invent-第二现场！新服务亮点解析](https://www.ershicimi.com/p/9df201cef16998403291e03eeab59c84) 
+- [2020-12-09-腾讯云这场数据库行业的年度盛会，见证国产力量的崛起之道-｜-Q推荐](https://www.ershicimi.com/p/7aed0cc62e96085f2b68ed4561bfe3b5) 
+- [2020-12-09-数据科学岗位将在十年后消失？](https://www.ershicimi.com/p/e55895c8cbd4c89a2fd570b973b95fad) 
 - [2020-12-08-上线2年，日调用量7亿次，云开发凭什么？](https://www.ershicimi.com/p/cc1cb05e4686884a482189a8816ae17b) 
 - [2020-12-08-从新旧技术体系替换，看大麦网票务技术体系重塑演进之路](https://www.ershicimi.com/p/e3fdc7337762879c661ac14f775a937b) 
 - [2020-12-08-微服务中台技术解析之分布式事务方案和实践](https://www.ershicimi.com/p/53f8eed65c92323f82684c9c15b2605c) 
@@ -20,8 +25,3 @@
 - [2020-12-06-端云智能协同如何守望企业的数字化未来？](https://www.ershicimi.com/p/30d9fdb2ceed8a7e76bd0ca082913bf0) 
 - [2020-12-06-华为云开发者沙龙汇集大众智慧，ModelArts点亮企业未来](https://www.ershicimi.com/p/dd54022aa44fe7e26a533d96a3fc2d49) 
 - [2020-12-06-NPM-7：这才算是真正的更新](https://www.ershicimi.com/p/446d302614164c80f56e0045dec9efbb) 
-- [2020-12-05-百度诋毁今日头条被判不正当竞争；Kubernetes将弃用Docker；B站年度弹幕“爷青回”；小米](https://www.ershicimi.com/p/3cead49b59309b3d6ebd6780f81219b4) 
-- [2020-12-05-我从600场技术面试中总结出的5个常见问题](https://www.ershicimi.com/p/969dd4f2b634285641e25c529862e505) 
-- [2020-12-05-平安医保科技“大数据-AI-风控系统”技术创新与实践应用详解](https://www.ershicimi.com/p/9913527c3cfad0af8b25e4b7473d7922) 
-- [2020-12-05-自动语音识别快速入门，教你三行代码实现语音转文字-｜-Q推荐](https://www.ershicimi.com/p/513dc2c3d0946624d35b6407b67b55c7) 
-- [2020-12-04-TypeScript超越C++成第四大语言！无惧中国开源托管平台竞争：GitHub发布2020年开发](https://www.ershicimi.com/p/526f9b7c020a89dfe02fe0a47bc783d1) 

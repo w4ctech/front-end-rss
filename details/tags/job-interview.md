@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-09 07:41:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 07:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -39,9 +39,9 @@
 - [2020-11-24-腾讯、华为前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557) 
 - [2020-11-11-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/f8720b9ba9028e4081b1345e6367f3c5) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
-- [2020-12-05-我从600场技术面试中总结出的5个常见问题](https://www.ershicimi.com/p/969dd4f2b634285641e25c529862e505) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
 - [2020-12-09-之前遇到一位老面试官，问我的问题真的有点东西](https://toutiao.io/k/zfokmsr) 
+- [2020-12-09-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) 
 - [2020-12-09-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
 - [2020-12-09-中央网信办所属部分在京事业单位2021年度公开招聘公告](https://sec.thief.one/article_content?a_id=2ebaa629ec0fb9a51298c8b1a6c0bf51) 
 - [2020-12-08-招聘|令人心动的【奇安信A-TEAM】offer](https://sec.thief.one/article_content?a_id=73ebf2379ec0fa61145791a65d8df2ea) 

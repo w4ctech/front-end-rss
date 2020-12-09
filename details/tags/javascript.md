@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-09 03:54:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 04:05:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -81,8 +81,8 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-12-09-远程前端招聘前端工程师一枚-AngularJS-/-Angular](https://www.v2ex.com/t/733640) 
 - [2020-12-09-使用-GPU.js-改善-JavaScript-性能](https://toutiao.io/k/yeo0zj0) 
 - [2020-12-09-SPA-路由三部曲之核心原理](https://toutiao.io/k/3ljdck9) 
+- [2020-12-09-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) 
 - [2020-12-08-安全研究-|-由postMessage导致Facebook账户劫持的DOM-XSS](https://sec.thief.one/article_content?a_id=7cd9c600dd1f66ab10edb1f8964b9b2d) 
 - [2020-12-07-【组件攻击链】Spring全家桶各类RCE漏洞浅析](https://sec.thief.one/article_content?a_id=8dd735a3bd28001e119ec01429d418f8) 

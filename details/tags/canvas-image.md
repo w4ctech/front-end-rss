@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-09 02:36:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 02:43:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -22,6 +22,5 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
-- [2020-12-08-使用canvas实现一个简单的下雪特效](https://juejin.im/post/6903842026975199245) 
 - [2020-12-08-12月8日GUIBI早内参-灰度LTC信托已在OTCQX开始交易,中银香港即...](https://sec.thief.one/article_content?a_id=fd1d38755953618a1970362b3743607a) 
 - [2020-12-07-12月7日GUIBI早内参-BTC震荡拉升至19400-USDT附近,苏州数字人...](https://sec.thief.one/article_content?a_id=4a84a809fafe0bcc945ed3eb2e483f12) 

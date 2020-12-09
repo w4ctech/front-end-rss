@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-09 05:28:55，:rocket: 更新条数: +3920， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-09 05:38:01，:rocket: 更新条数: +3920， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-12-09-6-岁！是时候重新认识下-Serverless-了](https://www.v2ex.com/t/733715) ![](assets/new.png)  
 - [2020-12-09-长文本听写英文，哪个应用比较好？](https://www.v2ex.com/t/733714) ![](assets/new.png)  
 - [2020-12-09-公司经营困难要求-996-并且降薪-1/3-，当走还是留呢](https://www.v2ex.com/t/733711) ![](assets/new.png)  
 - [2020-12-09-招行-10-元风暴开车，快上车](https://www.v2ex.com/t/733710) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-12-09-个人支付，充值的一点尝试](https://www.v2ex.com/t/733693) ![](assets/new.png)  
 - [2020-12-09-领导辞职应不应该跟下属打招呼？](https://www.v2ex.com/t/733691) ![](assets/new.png)  
 - [2020-12-09-登录输入了若干次验证码错误锁-IP](https://www.v2ex.com/t/733690) ![](assets/new.png)  
-- [2020-12-09-深圳富途证券社招内推-互联网证券公司-招后台开发前端客户端产品等](https://www.v2ex.com/t/733689) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

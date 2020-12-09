@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-09 14:48:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 15:04:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -14,6 +14,7 @@
 - [2020-12-04-全栈前端⑤群-招人啦！！！](https://www.ershicimi.com/p/6a3671dff34da2eb01ec59dfc889cdf6) 
 - [2020-12-07-记住看小电影前一定要检查一下域名是不是-HTTPS-的，不然……](https://www.ershicimi.com/p/57b0ecbc470e028355ba0550df9482ed) 
 - [2020-12-03-疯了？价值上万元“Web全栈架构师”正课免费？](https://www.ershicimi.com/p/cae5f6db9a2ffaa926bb78df3323fe21) 
+- [2020-12-09-是时候给-Jenkins-Master-减减负了,-推荐一个-Jenkins-插件](https://www.v2ex.com/t/733922) 
 - [2020-12-09-有同学在-OPPO-PDHM00-的-Android-11-的系统上，-okhttp-遇到这个错误吗？](https://www.v2ex.com/t/733918) 
 - [2020-12-09-为什么-fastboot-线刷要先解-bootloader，即使刷的原厂-rom](https://www.v2ex.com/t/733887) 
 - [2020-12-09-常见算法模版总结（一）](https://toutiao.io/k/m7uyc89) 

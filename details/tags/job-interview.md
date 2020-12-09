@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-09 02:28:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 02:36:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -40,6 +40,7 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-12-05-我从600场技术面试中总结出的5个常见问题](https://www.ershicimi.com/p/969dd4f2b634285641e25c529862e505) 
 - [2020-11-10-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/5024ddd11c2ed6856065e90e29ddcf86) 
+- [2020-12-09-森果技术研发部招聘-测试工程师-/-统招本科-/-月薪-7k-12k](https://www.v2ex.com/t/733634) 
 - [2020-12-09-森果技术研发部招聘-运维工程师-/-统招本科-/-经验-2-年以上/-月薪-9k-18k](https://www.v2ex.com/t/733624) 
 - [2020-12-09-之前遇到一位老面试官，问我的问题真的有点东西](https://toutiao.io/k/zfokmsr) 
 - [2020-12-09-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) 

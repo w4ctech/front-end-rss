@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-09 02:28:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 02:36:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -99,7 +99,7 @@
 - [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2020-12-06-2020-年终盘点，看看这一年你都错过了哪些“大事件”｜-Q-福利](https://www.ershicimi.com/p/a7e08c06ceb766b21000cf905f260cb5) 
-- [2020-12-08-记录一次修复element3/el-input组件BUG的日志](https://juejin.im/post/6903797122647195655) 
+- [2020-12-08-1000+-个项目的10大JavaScript错误上](https://juejin.im/post/6903842642254430222) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -109,6 +109,7 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-12-09-远程前端招聘前端工程师一枚-AngularJS-/-Angular](https://www.v2ex.com/t/733640) 
 - [2020-12-09-发现了一个神奇的爬虫靶场网站。有没有人玩过这个爬虫-JS-攻防网站？](https://www.v2ex.com/t/733611) 
 - [2020-12-09-CentOS-8，-21-年底-EOF，以后就变滚动更新了。-以后也没-CentOS-9-了](https://www.v2ex.com/t/733608) 
 - [2020-12-09-苹果-airpods-max-那个随着滚轮滚动而旋转的效果是怎么做的?只看到-canvas,具体的实现方法是什么呢?](https://www.v2ex.com/t/733607) 

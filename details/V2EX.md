@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-09 15:54:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 16:06:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -7,7 +7,6 @@
 
 - [2020-12-09-继上篇的裸辞文章后，面临-offer-选择：腾讯-or-快手](https://www.v2ex.com/t/733936) 
 - [2020-12-09-homebrew-这东西真的好用吗？](https://www.v2ex.com/t/733935) 
-- [2020-12-09-印度-YouTube-Premium-6-人车，香港家庭组，差-5-人](https://www.v2ex.com/t/733934) 
 - [2020-12-09-有没有什么提高生活品质的东西推荐，东西放购物车略久，发了工资没有购物欲望了](https://www.v2ex.com/t/733933) 
 - [2020-12-09-哪个-app-收-gmail-邮件最快？](https://www.v2ex.com/t/733931) 
 - [2020-12-09-历时-5-天，编译了友善-NanoPiR4S-rk3399-的-OpenWrt-杂交固件，分享下](https://www.v2ex.com/t/733930) 
@@ -40,5 +39,3 @@
 - [2020-12-09-酷瓜云课堂-v1.2.1-发布，想搞在线教育网课类网站的同学可以关注一下](https://www.v2ex.com/t/733892) 
 - [2020-12-09-培养了所谓的"兴趣爱好",但感觉也开心不起来](https://www.v2ex.com/t/733890) 
 - [2020-12-09-git-多个-brach-如何管理](https://www.v2ex.com/t/733889) 
-- [2020-12-09-iPhone12-上海交通卡过地铁需要双击开机键面容识别再刷](https://www.v2ex.com/t/733888) 
-- [2020-12-09-为什么-fastboot-线刷要先解-bootloader，即使刷的原厂-rom](https://www.v2ex.com/t/733887) 

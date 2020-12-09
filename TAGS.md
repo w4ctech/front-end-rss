@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-09 15:54:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 16:06:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -462,7 +462,6 @@
 - [【JavaScript】疯了？价值上万元“Web全栈架构师”正课免费？](https://www.ershicimi.com/p/cae5f6db9a2ffaa926bb78df3323fe21)
 - [【V2EX】是时候给-Jenkins-Master-减减负了,-推荐一个-Jenkins-插件](https://www.v2ex.com/t/733922)
 - [【V2EX】有同学在-OPPO-PDHM00-的-Android-11-的系统上，-okhttp-遇到这个错误吗？](https://www.v2ex.com/t/733918)
-- [【V2EX】为什么-fastboot-线刷要先解-bootloader，即使刷的原厂-rom](https://www.v2ex.com/t/733887)
 - [【开发者头条】常见算法模版总结（一）](https://toutiao.io/k/m7uyc89)
 - [【开发者头条】分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho)
 - [【开发者头条】推荐-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x)

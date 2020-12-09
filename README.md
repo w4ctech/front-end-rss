@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-09 21:38:10，:rocket: 更新条数: +3918， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-09 21:51:47，:rocket: 更新条数: +3918， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-12-09-阿里云上海区崩了？大半夜收到生产环境服务器报警，不知道啥时候能好](https://www.v2ex.com/t/733954) ![](assets/new.png)  
 - [2020-12-09-阿里云上海崩了？](https://www.v2ex.com/t/733953) ![](assets/new.png)  
 - [2020-12-09-关于人工智能的两个认识是否正确？](https://www.v2ex.com/t/733952) ![](assets/new.png)  
 - [2020-12-09--FinTech-社区-招聘-|-基本面分析师-A-股](https://www.v2ex.com/t/733951) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-12-09-最近支付宝付款超过-200-元就要求刷脸验证是什么原因？大家也有遇到么？](https://www.v2ex.com/t/733928) ![](assets/new.png)  
 - [2020-12-09-里尔/巴黎-startup-招聘英语项目经理-/-帮助办工作签证](https://www.v2ex.com/t/733927) ![](assets/new.png)  
 - [2020-12-09-IDEA-在-Maven-的-pom-文件下，输入-dependency-回车就卡住](https://www.v2ex.com/t/733926) ![](assets/new.png)  
-- [2020-12-09-法国巴黎/里尔-startup-招英语产品经理/帮助办工作签证](https://www.v2ex.com/t/733924) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

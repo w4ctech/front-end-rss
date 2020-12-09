@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-09 15:43:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 15:54:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -465,7 +465,6 @@
 - [【V2EX】为什么-fastboot-线刷要先解-bootloader，即使刷的原厂-rom](https://www.v2ex.com/t/733887)
 - [【开发者头条】常见算法模版总结（一）](https://toutiao.io/k/m7uyc89)
 - [【开发者头条】分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho)
-- [【开发者头条】推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a)
 - [【开发者头条】推荐-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x)
 - [【安全热点】为covenant设置http重定向](https://sec.thief.one/article_content?a_id=79bedb7e51a6fa4947ebbc19629cbafb)
 - [【安全热点】哈萨克斯坦首都拦截HTTPS流量](https://sec.thief.one/article_content?a_id=cd87694404c2f55134eb0e520162627d)

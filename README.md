@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-09 22:34:13，:rocket: 更新条数: +1001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-09 22:41:29，:rocket: 更新条数: +3919， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-12-09-12月8日全国新增确诊病例15例-本土病例4例](http://m.china.caixin.com/m/2020-12-09/101637206.html) ![](assets/new.png)  
+- [2020-12-09-【境内疫情观察】四川新增4例本土病例（12月8日）](http://m.database.caixin.com/m/2020-12-09/101637376.html) ![](assets/new.png)  
+- [2020-12-09-大流行手记|12月8日：印度三款疫苗申请紧急使用-中东多国部署疫苗采购](http://m.international.caixin.com/m/2020-12-09/101637221.html) ![](assets/new.png)  
+- [2020-12-09-【图集】成都全市核酸扩大检测-已覆盖25.52万人](http://m.photos.caixin.com/m/2020-12-09/101637238.html) ![](assets/new.png)  
+- [2020-12-09-成都全市核酸扩大检测-已覆盖25.52万人](http://m.photos.caixin.com/m/2020-12-09/101637238.html) ![](assets/new.png)  
+- [2020-12-08-香港新冠重症患者增加-港府颁新规可要求“封锁检测”](http://m.china.caixin.com/m/2020-12-08/101637076.html) ![](assets/new.png)  
+- [2020-12-08-成都新冠本土病例增至5例-所涉村庄和医院已实施封控](https://m.caixin.com/m/2020-12-08/101636790.html) ![](assets/new.png)  
+- [2020-12-08-【境内疫情观察】四川新增2例本土病例（12月7日）](http://m.database.caixin.com/m/2020-12-08/101636899.html) ![](assets/new.png)  
+- [2020-12-08-大流行手记|12月7日：印尼土耳其等国订购中国疫苗-韩国将加大病毒检测力度](https://m.caixin.com/m/2020-12-08/101636807.html) ![](assets/new.png)  
+- [2020-12-07-成都新增1例确诊病例，系白天通报病例丈夫](https://m.caixin.com/m/2020-12-07/101636741.html) ![](assets/new.png)  
+- [2020-12-07-最新海外疫情：新冠感染近6698万-累计死亡超153万](http://m.international.caixin.com/m/2020-12-07/101636630.html) ![](assets/new.png)  
+- [2020-12-07-成都郫都区新增1例新冠肺炎确诊病例](http://m.china.caixin.com/m/2020-12-07/101636491.html) ![](assets/new.png)  
+- [2020-12-07-【境内疫情观察】内蒙古新增3例本土病例（12月6日）](http://m.database.caixin.com/m/2020-12-07/101636503.html) ![](assets/new.png)  
+- [2020-12-07-大流行手记|12月6日：辉瑞疫苗申请印度上市-俄罗斯已为10万人接种疫苗](https://m.caixin.com/m/2020-12-07/101636373.html) ![](assets/new.png)  
+- [2020-12-06-【境内疫情观察】天津新增1例本土病例（12月5日）](http://m.database.caixin.com/m/2020-12-06/101636265.html) ![](assets/new.png)  
+- [2020-12-06-大流行手记|12月5日：WHO称COVAX计划已获7亿剂疫苗-韩国首尔或宵禁](https://m.caixin.com/m/2020-12-06/101636251.html) ![](assets/new.png)  
+- [2020-12-06-日本新冠重症病例连创新高-医疗资源恐遭挤兑](http://m.international.caixin.com/m/2020-12-06/101636231.html) ![](assets/new.png)  
+- [2020-12-05-【境内疫情观察】内蒙古新增2例本土病例（12月4日）](http://m.database.caixin.com/m/2020-12-05/101636119.html) ![](assets/new.png)  
+- [2020-12-05-大流行手记|12月4日：欧洲多国明确疫苗接种计划-俄罗斯下周启动大规模接种](https://m.caixin.com/m/2020-12-05/101636003.html) ![](assets/new.png)  
+- [2020-12-04-香港新增最年轻死亡病例仅38岁-合并感染新冠和流感](http://m.china.caixin.com/m/2020-12-04/101635866.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -696,6 +716,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,6 +1074,7 @@
 </summary>
 
 
+- [2020-12-09-Offer-选择问题](https://www.v2ex.com/t/733955) ![](assets/new.png)  
 - [2020-12-09-阿里云上海区崩了？大半夜收到生产环境服务器报警，不知道啥时候能好](https://www.v2ex.com/t/733954) ![](assets/new.png)  
 - [2020-12-09-阿里云上海崩了？](https://www.v2ex.com/t/733953) ![](assets/new.png)  
 - [2020-12-09-关于人工智能的两个认识是否正确？](https://www.v2ex.com/t/733952) ![](assets/new.png)  
@@ -1063,7 +1094,6 @@
 - [2020-12-09-法国-startup-招聘英语项目经理](https://www.v2ex.com/t/733929) ![](assets/new.png)  
 - [2020-12-09-最近支付宝付款超过-200-元就要求刷脸验证是什么原因？大家也有遇到么？](https://www.v2ex.com/t/733928) ![](assets/new.png)  
 - [2020-12-09-里尔/巴黎-startup-招聘英语项目经理-/-帮助办工作签证](https://www.v2ex.com/t/733927) ![](assets/new.png)  
-- [2020-12-09-IDEA-在-Maven-的-pom-文件下，输入-dependency-回车就卡住](https://www.v2ex.com/t/733926) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

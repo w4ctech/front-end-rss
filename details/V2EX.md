@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-09 21:27:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 21:38:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-09-阿里云上海崩了？](https://www.v2ex.com/t/733953) 
 - [2020-12-09-关于人工智能的两个认识是否正确？](https://www.v2ex.com/t/733952) 
 - [2020-12-09--FinTech-社区-招聘-|-基本面分析师-A-股](https://www.v2ex.com/t/733951) 
 - [2020-12-09-老哥们，-Apple-music-有无关注歌手的好的解决方案？](https://www.v2ex.com/t/733949) 
@@ -41,4 +42,3 @@
 - [2020-12-09-Vertx-4.0-is-released](https://www.v2ex.com/t/733907) 
 - [2020-12-09-Firewalld-和-Docker-冲突问题](https://www.v2ex.com/t/733906) 
 - [2020-12-09-错过双十一，阿里云双十二继续超低价活动](https://www.v2ex.com/t/733904) 
-- [2020-12-09-刚刚不小心打开懒投资-app，发现彻底凉凉，谁知道最近的消息么？另大家最近几年投资的情况如何？](https://www.v2ex.com/t/733903) 

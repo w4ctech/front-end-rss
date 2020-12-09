@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-09 11:36:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 11:48:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -397,8 +397,6 @@
 - [【前端迷】QQ音乐客户端Web页面通用性能优化实践](https://www.ershicimi.com/p/9b39d03049820a762defda87d347acfb)
 - [【政采云前端团队】如何从-0-到-1-搭建性能检测系统修正版](https://www.ershicimi.com/p/caf97cfac5fe753a40ff1f199bf6abfe)
 - [【政采云前端团队】编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab)
-- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
-- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【互联网架构师】52-条-SQL-语句性能优化策略，建议收藏！](https://www.ershicimi.com/p/941610dbdcb6cc827189900a78d9d390)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305)
@@ -466,8 +464,6 @@
 - [【V2EX】杭州急招-Python-全栈工程师-后端+爬虫](https://www.v2ex.com/t/733849)
 - [【开发者头条】常见算法模版总结（一）](https://toutiao.io/k/m7uyc89)
 - [【开发者头条】分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho)
-- [【开发者头条】推荐-程序员必知必会的十大排序算法](https://toutiao.io/k/zoyne3a)
-- [【开发者头条】推荐-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x)
 - [【安全热点】为covenant设置http重定向](https://sec.thief.one/article_content?a_id=79bedb7e51a6fa4947ebbc19629cbafb)
 - [【安全热点】哈萨克斯坦首都拦截HTTPS流量](https://sec.thief.one/article_content?a_id=cd87694404c2f55134eb0e520162627d)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

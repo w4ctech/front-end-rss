@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-09 07:08:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 07:31:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,15 +30,14 @@
 - [2020-11-30-postMessage-还能这样玩](https://www.ershicimi.com/p/7b1114a34411c810989fef4b54aa0bfe) 
 - [2020-12-04-前端安全编码规范](https://www.ershicimi.com/p/c8b36b7987f290a7e50281d0ad917717) 
 - [2020-12-01-Chrome-上开发调试的九个技巧](https://www.ershicimi.com/p/00482f399a91fb721afd66fd950b7b95) 
-- [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-12-08-扔掉okhttp、httpClient，来试试这款轻量级HTTP客户端神器？](https://www.ershicimi.com/p/ca765b3a45b894e65adb3f53a907d0e4) 
+- [2020-12-08-前端安全系列之登录那些事](https://juejin.im/post/6904136708057481230) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-09-USB-协议探讨，-USB-是绝对安全传输吗？](https://www.v2ex.com/t/733746) 
 - [2020-12-09-cloudflare-缓存问题求解](https://www.v2ex.com/t/733740) 
-- [2020-12-09-关于-Chromium-Edge-的一个比较糟心的问题](https://www.v2ex.com/t/733723) 
 - [2020-12-09-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-09-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-09-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 

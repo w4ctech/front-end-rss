@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-09 19:35:17，:rocket: 更新条数: +3917， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-09 19:47:39，:rocket: 更新条数: +3917， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-12-09--FinTech-社区-招聘-|-基本面分析师-A-股](https://www.v2ex.com/t/733951) ![](assets/new.png)  
 - [2020-12-09-老哥们，-Apple-music-有无关注歌手的好的解决方案？](https://www.v2ex.com/t/733949) ![](assets/new.png)  
 - [2020-12-09-B-站基础技术部怎么样](https://www.v2ex.com/t/733948) ![](assets/new.png)  
 - [2020-12-09-杭州菜鸟-P6/P7-后端开发，测试急招](https://www.v2ex.com/t/733947) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-12-09-法国巴黎/里尔-startup-招英语产品经理/帮助办工作签证](https://www.v2ex.com/t/733924) ![](assets/new.png)  
 - [2020-12-09-编程的学习方法](https://www.v2ex.com/t/733923) ![](assets/new.png)  
 - [2020-12-09-是时候给-Jenkins-Master-减减负了,-推荐一个-Jenkins-插件](https://www.v2ex.com/t/733922) ![](assets/new.png)  
-- [2020-12-09-请教巨大-if-elseif-程序的优雅组织方式](https://www.v2ex.com/t/733921) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

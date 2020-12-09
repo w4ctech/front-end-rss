@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-12-09 01:53:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 02:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-09-CentOS-8，-21-年底-EOF，以后就变滚动更新了。-以后也没-CentOS-9-了](https://www.v2ex.com/t/733608) 
+- [2020-12-09-苹果-airpods-max-那个随着滚轮滚动而旋转的效果是怎么做的?只看到-canvas,具体的实现方法是什么呢?](https://www.v2ex.com/t/733607) 
+- [2020-12-09-亚马逊海外购的售货方问题](https://www.v2ex.com/t/733604) 
+- [2020-12-09-V-友门有什么推荐的-tb-男装店铺呀?](https://www.v2ex.com/t/733603) 
+- [2020-12-09-降噪耳机的使用场景，大家觉得需要买-AirPods-max-吗？](https://www.v2ex.com/t/733602) 
+- [2020-12-09-大佬们，我使用-Edge-Beta-版的时候，用的越久启动的就越慢，有人遇到过吗？](https://www.v2ex.com/t/733601) 
 - [2020-12-09-昨晚在手机设置里发现一个菜单-Developer](https://www.v2ex.com/t/733600) 
 - [2020-12-09-忽然觉得蓄须的男人很贴心](https://www.v2ex.com/t/733599) 
 - [2020-12-09-阿里江苏无锡城市-AIoT-技术团队招聘服务端、数据、算法](https://www.v2ex.com/t/733598) 
@@ -36,11 +42,3 @@
 - [2020-12-08-在线自动渲染-Markdown-源文件地址，支持公式、评论等](https://www.v2ex.com/t/733561) 
 - [2020-12-08-California-Speed-Law](https://www.v2ex.com/t/733560) 
 - [2020-12-08-Spotlight-启动存在延迟,-无法即按即开是什么问题呢?](https://www.v2ex.com/t/733559) 
-- [2020-12-08-Paypal-IPN-/-Webhook-异步回调流程是怎样的？](https://www.v2ex.com/t/733558) 
-- [2020-12-08-国内-Maven-项目如何避免供应链攻击？](https://www.v2ex.com/t/733557) 
-- [2020-12-08-诺基亚-x71-有尾插问题吗？](https://www.v2ex.com/t/733556) 
-- [2020-12-08-迫于-easy-mock-官网证书过期，自己部署了一套服务，有需要的可以试试](https://www.v2ex.com/t/733555) 
-- [2020-12-08-请教有什么工具可以画出类似这样的手绘草图?](https://www.v2ex.com/t/733554) 
-- [2020-12-08-关于发帖时间和回复时间的显示建议](https://www.v2ex.com/t/733553) 
-- [2020-12-08-请-V-友帮忙预测什么时候-macOS-11.x.x-下一个正式小版本什么时候发布？因为现在手头上的-MacBook-Air-2020-i3-版本不想更新-11.0.1-版本。。。](https://www.v2ex.com/t/733552) 
-- [2020-12-08-苹果官网-AirPods-Max-迷惑行为](https://www.v2ex.com/t/733551) 

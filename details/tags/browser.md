@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-09 03:31:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 03:40:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,10 +44,12 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-12-08-扔掉okhttp、httpClient，来试试这款轻量级HTTP客户端神器？](https://www.ershicimi.com/p/ca765b3a45b894e65adb3f53a907d0e4) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-12-09-安全岗位内推---字节跳动---北上杭深](https://www.v2ex.com/t/733680) 
 - [2020-12-09-不懂就问：-iOS-Safari-书签的-icon-不显示有好办法吗？](https://www.v2ex.com/t/733661) 
 - [2020-12-09-windows-下-Chrome-想用便携版用户数据重装系统不丢失并且能自动升级，有什么办法吗](https://www.v2ex.com/t/733631) 
-- [2020-12-09-微信的垃圾缓存有更好的清理办法吗？](https://www.v2ex.com/t/733630) 
 - [2020-12-09-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-09-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
+- [2020-12-09-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-09-《英国ICO人工智能与数据保护指引》选译-|-如何评估AI的安全性和数...](https://sec.thief.one/article_content?a_id=de3014ddeabbb6ee07a7e4fd29b7a7a7) 
 - [2020-12-08-【安全圈】富士康遭勒索攻击,赎金2.3-亿元,另有100-GB文件被窃取](https://sec.thief.one/article_content?a_id=d1c91b6ba8db6cf6877eae3baa13d20e) 
 - [2020-12-08-《绿盟君的咖啡时间》第七期:服务“重保”,安全产品如何强力支撑](https://sec.thief.one/article_content?a_id=69b8d0aee2e7b7a61b8bd8e83fc06850) 

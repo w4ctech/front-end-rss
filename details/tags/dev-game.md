@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-09 02:43:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-09 02:52:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -30,7 +30,6 @@
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-12-09-从零开始的-RPG-游戏制作教程（第三期](https://www.v2ex.com/t/733632) 
-- [2020-12-09-各位-V-友，有没有在头条，腾讯游戏大厂的，问下面试要不要问算法的](https://www.v2ex.com/t/733597) 
 - [2020-12-09-冠赢网络上云-游戏盾彻底解决DDoS/CC攻击-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14039&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9097%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-09-游戏公司通过云分期-保障业务如期上线-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14030&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9364%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-08-一场猎杀AI的残酷游戏:把枪口对准人工智能,是为了吓退黑暗丛林中...](https://sec.thief.one/article_content?a_id=198ca206cc69c690c3be1f1c4921047a) 

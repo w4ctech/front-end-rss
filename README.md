@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-09 02:43:08，:rocket: 更新条数: +3919， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-09 02:52:10，:rocket: 更新条数: +3917， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
-- [2020-12-08-上海8日新增6例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1lHglfLagdaDWvYe1zvy201209&isfromapp=1) ![](assets/new.png)  
-- [2020-12-08-北京冷链食品追溯平台日流通量达2000吨-确保做到”来源可查、去向可追“](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigOX56kyg3tWX9ZCI9KdV201209&isfromapp=1) ![](assets/new.png)  
-- [2020-12-08-法国新增新冠肺炎确诊病例13713例-累计确诊2309621例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin4emtEE2pcbcXZQwXMGR201209&isfromapp=1) ![](assets/new.png)  
-- [2020-12-08-世卫组织：全球新冠肺炎确诊病例超过6721万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQdLKyIHOZpg96Feufp0S201209&isfromapp=1) ![](assets/new.png)  
-- [2020-12-08-美国亚利桑那州新增近7000例新冠病例-创单日病例新纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiejxj8VCUJiJdYRuGIBI4201209&isfromapp=1) ![](assets/new.png)  
+- [2020-12-09-四川省新型冠状病毒肺炎疫情最新情况（12月9日发布）](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/12/9/37484dbca6a44001ab60d25b42f81b90.shtml) ![](assets/new.png)  
+- [2020-12-09-广西昨日新增1例境外输入确诊病例-为菲律宾籍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKDlGQaHoPXOSVdDMBzw3201209&isfromapp=1) ![](assets/new.png)  
+- [2020-12-09-12月8日江苏新增境外输入新冠肺炎确诊病例1例](http://wjw.jiangsu.gov.cn/art/2020/12/9/art_7290_9596514.html) ![](assets/new.png)  
+- [2020-12-09-截至12月8日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202012/240553e26c4e467d9122fdbeb7f8d264.shtml) ![](assets/new.png)  
+- [2020-12-09-2020年12月9日广东省新冠肺炎疫情情况](http://wsjkw.gd.gov.cn/xxgzbdfk/yqtb/content/post_3145665.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,11 @@
 </summary>
 
 
+- [2020-12-09-分享一个让-V2-首页头像动起来的-CSS🤗](https://www.v2ex.com/t/733653) ![](assets/new.png)  
+- [2020-12-09-辣鸡-window10，一堆窗口没有关闭就重启更新，-word-还莫名其妙没有自动保存](https://www.v2ex.com/t/733652) ![](assets/new.png)  
+- [2020-12-09-iPhone11-锁屏声第一声出现异常-大家有遇到么](https://www.v2ex.com/t/733651) ![](assets/new.png)  
+- [2020-12-09-当预上这种队友该怎么办……苦笑不得](https://www.v2ex.com/t/733648) ![](assets/new.png)  
+- [2020-12-09-新-airpods-max-的定位是什么？怎么敢卖这么贵](https://www.v2ex.com/t/733647) ![](assets/new.png)  
 - [2020-12-09-疑问为啥远程岗位大多数都是前端/UI-呢？](https://www.v2ex.com/t/733646) ![](assets/new.png)  
 - [2020-12-09-杭州阿里巴巴菜鸟-CTO-线招聘来袭~~](https://www.v2ex.com/t/733645) ![](assets/new.png)  
 - [2020-12-09-北美字节（Tik-ToK）的题难到逆天了](https://www.v2ex.com/t/733644) ![](assets/new.png)  
@@ -1089,11 +1094,6 @@
 - [2020-12-09-从零开始的-RPG-游戏制作教程（第三期](https://www.v2ex.com/t/733632) ![](assets/new.png)  
 - [2020-12-09-windows-下-Chrome-想用便携版用户数据重装系统不丢失并且能自动升级，有什么办法吗](https://www.v2ex.com/t/733631) ![](assets/new.png)  
 - [2020-12-09-微信的垃圾缓存有更好的清理办法吗？](https://www.v2ex.com/t/733630) ![](assets/new.png)  
-- [2020-12-09-Github-出暗黑主题了](https://www.v2ex.com/t/733629) ![](assets/new.png)  
-- [2020-12-09-刚养了一直英短但是见我就跑](https://www.v2ex.com/t/733628) ![](assets/new.png)  
-- [2020-12-09-有没有什么软件，可以快速查询一个文件夹里所有文件（包含子文件夹）中的内容（字符串）？](https://www.v2ex.com/t/733627) ![](assets/new.png)  
-- [2020-12-09-go-处理-tcp-长连接丢失数据原因是什么](https://www.v2ex.com/t/733626) ![](assets/new.png)  
-- [2020-12-09-Java-开发工程师-中台](https://www.v2ex.com/t/733625) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,8 +1145,8 @@
 - [2020-12-09-开始切换到-Kotlin：谷歌工程师给初学者的知识点总结](https://toutiao.io/k/sznrois) ![](assets/new.png)  
 - [2020-12-09-使用-GPU.js-改善-JavaScript-性能](https://toutiao.io/k/yeo0zj0) ![](assets/new.png)  
 - [2020-12-09-SPA-路由三部曲之核心原理](https://toutiao.io/k/3ljdck9) ![](assets/new.png)  
-- [2020-12-09-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
 - [2020-12-09-之前遇到一位老面试官，问我的问题真的有点东西](https://toutiao.io/k/zfokmsr) ![](assets/new.png)  
+- [2020-12-09-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
 - [2020-12-09-富领域模型到底长什么样儿？](https://toutiao.io/k/z56nouq) ![](assets/new.png)  
 - [2020-12-09-FTWRL-和-READONLY-的区别](https://toutiao.io/k/0o73dat) ![](assets/new.png)  
 - [2020-12-09-DevOps-测试流水线](https://toutiao.io/k/n0gchse) ![](assets/new.png)  
@@ -1154,8 +1154,8 @@
 - [2020-12-09-小议-Mybatis-plus-相比传统-Mybatis-手写-SQL-的好处](https://toutiao.io/k/og7an66) ![](assets/new.png)  
 - [2020-12-09-由浅入深讲解-JUC-下-CAS-+-Lock](https://toutiao.io/k/ccmxxdn) ![](assets/new.png)  
 - [2020-12-09-给小程序再减重-30%-的秘密​（京喜小程序首页瘦身实践）](https://toutiao.io/k/pzuzmxm) ![](assets/new.png)  
-- [2020-12-09-推荐-微服务架构下-CI/CD-如何落地](https://toutiao.io/k/303m5ez) ![](assets/new.png)  
-- [2020-12-09-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
+- [2020-12-09-推荐-隐秘的-MySQL-类型转换](https://toutiao.io/k/27nwbyu) ![](assets/new.png)  
+- [2020-12-09-推荐-这些开源项目，让你轻松应对十大工作场景](https://toutiao.io/k/wpo96pp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

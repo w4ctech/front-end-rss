@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-12-10 06:56:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 07:04:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-10-ARM64-原生-AVD-已经推出](https://www.v2ex.com/t/734141) 
+- [2020-12-10-传统文案过于呆板，请大家赐点活泼有趣的文案吧](https://www.v2ex.com/t/734140) 
+- [2020-12-10-中信建投证券99-司-量化开发，测试、运维多职位多地急招！](https://www.v2ex.com/t/734139) 
 - [2020-12-10-最简单的-Go-Dockerfile-编写姿势，没有之一！](https://www.v2ex.com/t/734138) 
 - [2020-12-10-HCaaS-双十二优惠活动](https://www.v2ex.com/t/734137) 
 - [2020-12-10-百度每秒抓取很多次,-导致-CPU100%,-除了限制抓取频率,-还有别的什么方法?](https://www.v2ex.com/t/734136) 
@@ -43,5 +46,3 @@
 - [2020-12-10-Cloudflare-出了个-Google-Analytics-的代替品？](https://www.v2ex.com/t/734094) 
 - [2020-12-10-KOIOS-显示器翻车，问维修建议](https://www.v2ex.com/t/734093) 
 - [2020-12-10-你愿意为知识付费吗？为什么？说说自己的看法](https://www.v2ex.com/t/734092) 
-- [2020-12-10-想问问谷歌云打印有什么替代方案吗？](https://www.v2ex.com/t/734091) 
-- [2020-12-10-一种使用-Redis-深度驱动的，为构建轻量级分布式应用程序（Microservices）的工程方案](https://www.v2ex.com/t/734090) 

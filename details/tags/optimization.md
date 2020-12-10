@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 06:56:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 07:04:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -16,7 +16,9 @@
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
 - [2020-12-03-52-条-SQL-语句性能优化策略，建议收藏！](https://www.ershicimi.com/p/941610dbdcb6cc827189900a78d9d390) 
-- [2020-12-09-图片懒加载竟如此简单](https://juejin.im/post/6904508893897064456) 
+- [2020-12-09-什么是CLS以及如何优化它](https://juejin.im/post/6904518037563506701) 
+- [2020-12-09-工作中如何进行前端性能优化21种优化+7种定位方式](https://juejin.im/post/6904517485349830670) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-12-10-性能优化：线程资源回收](https://toutiao.io/k/wllqesw) 
 - [2020-12-10-当我们谈前端性能的时候，我们谈的是什么](https://toutiao.io/k/92syacb) 
+- [2020-12-10-推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) 

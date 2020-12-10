@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-10 18:33:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 18:42:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-10-有没有什么办法在运行-mac-系统时，运行-bootcamp-里安装的-windows10？](https://www.v2ex.com/t/734314) 
 - [2020-12-10-更新到了-centos-stream，然后-vnc-挂了](https://www.v2ex.com/t/734313) 
 - [2020-12-10-关于-SN520-暴雷，以及双十一没买成-SSD-后重新考虑如何选购-SSD](https://www.v2ex.com/t/734312) 
 - [2020-12-10-上海，-Python-全栈，本科应届，有大量项目经验，卑微求职](https://www.v2ex.com/t/734311) 

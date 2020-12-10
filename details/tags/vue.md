@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 19:26:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 19:35:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -7,20 +7,6 @@
 
 
 
-- [2020-12-08-Vue-Router-4.0-正式发布！焕然一新。](https://www.ershicimi.com/p/1ba726ca82144132fc233ca0455aba44) 
-- [2020-12-01-Element-UI-for-Vue-3.0-来了！](https://www.ershicimi.com/p/a643dd24b5cf3cb7ce3fe9b9f7d5de23) 
-- [2020-11-30-快速使用-Vue3-最新的-15-个常用API](https://www.ershicimi.com/p/d3062672cc8515323791823013bdea7f) 
-- [2020-11-24-Vue-新语法糖魔改-JavaScript-引争议](https://www.ershicimi.com/p/1e5806b6b8c7534191ca92b66df38e33) 
-- [2020-11-23-开发一个基于-Vue3.0-的组件库是一种怎样的体验？](https://www.ershicimi.com/p/29af70722217007e98923c97b7c9bde5) 
-- [2020-11-20-Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://www.ershicimi.com/p/81af055f62c0fe98da6886323c875523) 
-- [2020-11-19-来一起用Vue3.0开发组件造轮子！](https://www.ershicimi.com/p/c6ca66cc1f8f2d4dbbb94b86f9b027ba) 
-- [2020-11-17-Vue之父尤雨溪深度解读Vue3.0开发思路【附在线视频】](https://www.ershicimi.com/p/43a4ccee3324619d7497fd3f8333b2f2) 
-- [2020-12-07-面试官：Vue组件间通信方式都有哪些?](https://www.ershicimi.com/p/c76416a6de9426fbadc6ded320b45c26) 
-- [2020-12-05-基于Vue的前端架构，我做了这15点](https://www.ershicimi.com/p/4ecfb408c29a6ec75c978fa2e8b6b97e) 
-- [2020-12-04-面试官：说说你对Vue生命周期的理解?](https://www.ershicimi.com/p/c6ecdb41472a4a876eb52fb37d399079) 
-- [2020-12-02-Element-UI-for-Vue-3.0-来了！](https://www.ershicimi.com/p/e42356bac6a40995f476752bd919d9c2) 
-- [2020-12-01-【附源码】用Vue写了一个类抖音界面短视频项目，可在线刷](https://www.ershicimi.com/p/628e25c0042e124150df8e9e5d300b79) 
-- [2020-11-30-面试官：说说你对vue的理解?](https://www.ershicimi.com/p/bbb6e67a4b9c35d6c8b19a65c3356109) 
 - [2020-12-01-一次就将VueSSR讲通透！](https://www.ershicimi.com/p/790e7718e1440de52964aefceab949c6) 
 - [2020-06-17-视频蒋豪群聊聊Vue-3-周边项目](https://www.ershicimi.com/p/2a12d97dd7bb04af90078ddf2b9f196d) 
 - [2020-06-08-Vue3三连发，这期聊聊Vue-3周边项目](https://www.ershicimi.com/p/97695ac09543799ef0ccda9e2479572e) 
@@ -31,8 +17,6 @@
 - [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
 - [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
 - [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
-- [2020-12-08-基于Vue的前端架构，我总结15点经验](https://www.ershicimi.com/p/7b35931930d4b2fbbc3ed7c6fe11a095) 
-- [2020-12-01-【附源码】用Vue写了一个类抖音界面短视频项目，可在线刷](https://www.ershicimi.com/p/2a8741ad4e577cf9f949c328d40e0821) 
 - [2020-07-07-1元福利-|-深度剖析Vue-.js-3.0底层逻辑，带你向高级前端进阶！](https://www.ershicimi.com/p/b7eeaaa6276d65ebe0a5252368725728) 
 - [2020-04-19-2020年-4-月-21日-星期二-晚上-9:30-Vue.js-作者尤雨溪与你相约前端圈的-B-站](https://www.ershicimi.com/p/69d20f9c5bb2de3da1dad85699594815) 
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
@@ -47,8 +31,8 @@
 - [2020-12-09-基于lerna和single-spa,-sysyem.js搭建-vue-的微前端框架](https://www.ershicimi.com/p/b4f38d4aac08cbffecccc827a2a8ea17) 
 - [2020-12-08-快速使用Vue3最新的15个常用API](https://www.ershicimi.com/p/b5b135b0d77bd836f20b50c995bc47dc) 
 - [2020-11-23-开发一个基于-Vue3.0-的组件库是一种怎样的体验？](https://www.ershicimi.com/p/5d3238821ec796478f5fb4ce6a04adb5) 
-- [2020-12-05-egg+vue+mongodb实践开发在线文档管理平台——水墨文档](https://www.ershicimi.com/p/6d88f67e18a98dc39ccbeead07604841) 
-- [2020-12-02-Element-UI-for-Vue-3.0-来了！【官方总结】](https://www.ershicimi.com/p/4acb41fca63cc3566caa64b680f2434a) 
+- [2020-12-08-Vue3有哪些不向下兼容的改变](https://www.ershicimi.com/p/ea125e7e65801b75ef8b38d5e19d80d2) 
+- [2020-12-06-基于Vue的前端架构，我做了这15点](https://www.ershicimi.com/p/b830e01a5d61ccce36292e330c0c681d) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) 
 - [2017-07-17-Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/) 
@@ -56,8 +40,5 @@
 - [2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/) 
 - [2016-10-13-Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/) 
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
-- [2020-12-04-奇舞周刊第-375-期：Element-UI-for-Vue-3.0-来了！](https://www.ershicimi.com/p/6445ddab67ed0171233a32e04a0d55fc) 
-- [2020-11-23-3天VUE实战，1比1还原抖音代码！](https://www.ershicimi.com/p/357d7929d9716f30eb66647a8de23f47) 
-- [2020-11-19-快人一步上手-Vue3.0](https://www.ershicimi.com/p/dfc983e441c2706df8b787642a0d4321) 
 - [2020-12-10-前端玩转位运算N皇后+Vue3位运算应用](https://juejin.im/post/6904595258915422215) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

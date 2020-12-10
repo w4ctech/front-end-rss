@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 10:09:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 10:31:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -106,7 +106,8 @@
 - [2020-11-27-奇舞周刊第-374-期：用-JS-写一个-JS-解释器](https://www.ershicimi.com/p/b050338487ebd5d055a8966f6ec9a11f) 
 - [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
-- [2020-12-10-2020年的css周边：preprocessor、css-in-js等解决方案与methodology](https://juejin.im/post/6904560371814957069) 
+- [2020-12-10-图文结合深入理解-JS-中的-this-值](https://juejin.im/post/6904567180491735054) 
+- [2020-12-09-JavaScript内存机制](https://juejin.im/post/6904532962264481800) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -116,9 +117,7 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-12-10-Android-开发-，正确使用-JetPack-组件的-ViewModel-是应该遵循一个什么思路呢？](https://www.v2ex.com/t/734184) 
 - [2020-12-10-14-个-JS-优化建议](https://toutiao.io/k/o3a9gax) 
-- [2020-12-10-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) 
 - [2020-12-10-安恒EDR勒索病毒防护“四杀招”,杜绝类“富士康事件”发生](https://sec.thief.one/article_content?a_id=d5afa06db1ca1e72c254298d7ed46a73) 
 - [2020-12-09-【安全事件】FireEye遭受APT攻击,红队工具箱被盗](https://sec.thief.one/article_content?a_id=04c1a6800ed7e51f0909a82271bc5bce) 
 - [2020-12-08-安全研究-|-由postMessage导致Facebook账户劫持的DOM-XSS](https://sec.thief.one/article_content?a_id=7cd9c600dd1f66ab10edb1f8964b9b2d) 

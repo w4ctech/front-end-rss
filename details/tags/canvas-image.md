@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 10:09:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 10:31:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -23,4 +23,3 @@
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
 - [2020-12-10-Github-有深色模式了，配合特殊的-PNG-头像会有很酷的效果](https://www.v2ex.com/t/734205) 
-- [2020-12-08-12月8日GUIBI早内参-灰度LTC信托已在OTCQX开始交易,中银香港即...](https://sec.thief.one/article_content?a_id=fd1d38755953618a1970362b3743607a) 

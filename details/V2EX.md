@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-09 23:53:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 00:08:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2020-12-09-广东移动-500m-游戏宽带安装反馈](https://www.v2ex.com/t/733911) 
 - [2020-12-09-爱思助手怎么可以绕过了苹果商店？？](https://www.v2ex.com/t/733910) 
 - [2020-12-09-制作-macOS-Sierra10.12.6-u-盘启动盘提示/Volumes/xxx-is-not-a-valid-volume-mount-point](https://www.v2ex.com/t/733909) 
-- [2020-12-09-Vertx-4.0-is-released](https://www.v2ex.com/t/733907) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 09:53:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 10:05:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -19,3 +19,4 @@
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-12-10-性能优化：线程资源回收](https://toutiao.io/k/wllqesw) 
 - [2020-12-10-当我们谈前端性能的时候，我们谈的是什么](https://toutiao.io/k/92syacb) 
+- [2020-12-10-推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) 

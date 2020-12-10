@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 14:31:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 14:38:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -36,4 +36,3 @@
 - [2020-12-10-Minecraft-on-Apple-Silicon](https://www.v2ex.com/t/734248) 
 - [2020-12-10-m1-mbp-卡机了](https://www.v2ex.com/t/734247) 
 - [2020-12-10-B-站直播也开始搞-P2P-了?](https://www.v2ex.com/t/734246) 
-- [2020-12-10-快递代收点扣留快件，拍摄个人身份证，如何处理](https://www.v2ex.com/t/734242) 

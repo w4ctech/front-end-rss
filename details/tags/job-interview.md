@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 14:31:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 14:38:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-12-09-字节跳动年底招聘-10000-人，看看你符合条件么？](https://www.ershicimi.com/p/45becc670feffb4cf743c60c3ba28698) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/d281b048adc7a62c0a493790e81911f2) 
 - [2020-12-05-【信条】手撕吊打面试官系列面试题](https://www.ershicimi.com/p/469547f79b452a5e5df450207cbfb6c0) 
@@ -22,9 +23,6 @@
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2020-12-04-解密智联招聘的大前端架构-Ada](https://www.ershicimi.com/p/2b4dc0ef765cb25ad951d63d2fe54fc6) 
-- [2020-12-03-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/f4f6e9e5d92192fc17b0ecacfe37c88e) 
-- [2020-11-28-海康威视web前端开发招聘急招岗](https://www.ershicimi.com/p/e1f2165d75551bd5651298d6864ccc0b) 
-- [2020-11-20-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f7a0c514829ee6cfb825327ed2797705) 
 - [2020-12-08-进入大厂的面试经验详细总结（P7-拿-offer）](https://www.ershicimi.com/p/95ab5fce2f5a51a9dfad984e4791c34e) 
 - [2020-08-19-政采云前端团队-2021-届校园招聘正式启动！](https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194) 
 - [2020-12-09-阿里、腾讯、美团以及网易等一线互联网公司面试总结](https://www.ershicimi.com/p/55e36e75429d1a9542b8199fc1bfb4c1) 
@@ -42,5 +40,6 @@
 - [2020-12-10-内推-北京-洋葱学院-没有-996，没有大小周，可年前面试年后入职，前端-TL-岗和专家岗，目前-hc-有-5-个左右](https://www.v2ex.com/t/734286) 
 - [2020-12-10-深圳阿里中心支付宝香港团队-2020-大前端团队招聘-24-小内回复-可春节后入职](https://www.v2ex.com/t/734285) 
 - [2020-12-10-年前面试年后入职-字节跳动当前-核心-教育业务线，急招服务端研发、架构师，快速面试入职！](https://www.v2ex.com/t/734260) 
+- [2020-12-10-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
 - [2020-12-09-中央网信办所属部分在京事业单位2021年度公开招聘公告](https://sec.thief.one/article_content?a_id=2ebaa629ec0fb9a51298c8b1a6c0bf51) 
 - [2020-12-08-招聘|令人心动的【奇安信A-TEAM】offer](https://sec.thief.one/article_content?a_id=73ebf2379ec0fa61145791a65d8df2ea) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 03:08:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 03:31:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -35,3 +35,4 @@
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-12-09-理解-NodeJS-的内存管理机制](https://juejin.im/post/6904230004667318285) 
 - [2020-12-09-使用mocha编写node服务单元测试](https://juejin.im/post/6904229039717187592) 
+- [2020-12-09-Electron/Node多进程工具开发日记](https://juejin.im/post/6904225953762213901) 

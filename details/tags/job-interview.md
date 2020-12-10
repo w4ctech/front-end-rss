@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 08:35:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 08:43:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -42,7 +42,7 @@
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/196a7fb4fe0dda8d044135599df6e681) 
 - [2020-12-10-猎头岗-地点南京-测试总监-要求软硬件都涉及过，带团队经验要-50-人+或者以上，年薪-70-90w-或者面议-保密招聘](https://www.v2ex.com/t/734175) 
 - [2020-12-10-字节跳动前端基础工程团队招聘啦15-薪起高年终](https://www.v2ex.com/t/734171) 
-- [2020-12-10-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
 - [2020-12-10-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) 
+- [2020-12-10-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
 - [2020-12-09-中央网信办所属部分在京事业单位2021年度公开招聘公告](https://sec.thief.one/article_content?a_id=2ebaa629ec0fb9a51298c8b1a6c0bf51) 
 - [2020-12-08-招聘|令人心动的【奇安信A-TEAM】offer](https://sec.thief.one/article_content?a_id=73ebf2379ec0fa61145791a65d8df2ea) 

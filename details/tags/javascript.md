@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 02:44:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 02:54:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -67,11 +67,12 @@
 - [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
 - [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
 - [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) 
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-11-27-奇舞周刊第-374-期：用-JS-写一个-JS-解释器](https://www.ershicimi.com/p/b050338487ebd5d055a8966f6ec9a11f) 
 - [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2020-12-06-2020-年终盘点，看看这一年你都错过了哪些“大事件”｜-Q-福利](https://www.ershicimi.com/p/a7e08c06ceb766b21000cf905f260cb5) 
+- [2020-12-09-我用JS开发了一款桌面应用](https://juejin.im/post/6904278756048207879) 
+- [2020-12-09-事件循环EventLoop](https://juejin.im/post/6904279584573751304) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -83,5 +84,6 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-12-10-码了一个-json-格式化/美化/压缩工具，怎么做-seo，提高访问量呢？](https://www.v2ex.com/t/734017) 
 - [2020-12-10-14-个-JS-优化建议](https://toutiao.io/k/o3a9gax) 
+- [2020-12-10-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) 
 - [2020-12-09-【安全事件】FireEye遭受APT攻击,红队工具箱被盗](https://sec.thief.one/article_content?a_id=04c1a6800ed7e51f0909a82271bc5bce) 
 - [2020-12-08-安全研究-|-由postMessage导致Facebook账户劫持的DOM-XSS](https://sec.thief.one/article_content?a_id=7cd9c600dd1f66ab10edb1f8964b9b2d) 

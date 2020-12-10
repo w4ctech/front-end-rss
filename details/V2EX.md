@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-12-10 14:49:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 15:04:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-10-PDF-轻松译-一款支持双页翻译，双段翻译的-PDF-翻译软件](https://www.v2ex.com/t/734297) 
+- [2020-12-10-问下白果和黑果小哥几个问题，最近正在折腾黑苹果。](https://www.v2ex.com/t/734296) 
 - [2020-12-10-请问自建站-+-内嵌在线支付的解决方案？](https://www.v2ex.com/t/734294) 
 - [2020-12-10-Macbook-Pro-2016-款-13-寸，电池健康度只剩-40%多，有推荐第三方电池吗](https://www.v2ex.com/t/734293) 
 - [2020-12-10-G-站挂了？](https://www.v2ex.com/t/734291) 
@@ -36,5 +38,3 @@
 - [2020-12-10-R2S-做主路由稳定吗？](https://www.v2ex.com/t/734250) 
 - [2020-12-10-在深色模式下配合特殊的-PNG-图片会有很酷的效果](https://www.v2ex.com/t/734249) 
 - [2020-12-10-Minecraft-on-Apple-Silicon](https://www.v2ex.com/t/734248) 
-- [2020-12-10-m1-mbp-卡机了](https://www.v2ex.com/t/734247) 
-- [2020-12-10-B-站直播也开始搞-P2P-了?](https://www.v2ex.com/t/734246) 

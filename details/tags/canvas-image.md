@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 11:08:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 11:28:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -23,4 +23,3 @@
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
 - [2020-12-10-在深色模式下配合特殊的-PNG-图片会有很酷的效果](https://www.v2ex.com/t/734249) 
-- [2020-12-10-Github-有深色模式了，配合特殊的-PNG-头像会有很酷的效果](https://www.v2ex.com/t/734205) 

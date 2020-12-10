@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-10 05:07:49，:rocket: 更新条数: +3915， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-10 05:31:26，:rocket: 更新条数: +1028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)  
+- [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-12-10-12月9日全国新增确诊病例12例-本土病例1例](http://m.china.caixin.com/m/2020-12-10/101637576.html) ![](assets/new.png)  
-- [2020-12-10-大流行手记|12月9日：英国启动大规模疫苗接种-加拿大批准辉瑞疫苗上市](http://m.international.caixin.com/m/2020-12-10/101637605.html) ![](assets/new.png)  
-- [2020-12-09-【境内疫情观察】四川新增4例本土病例（12月8日）](http://m.database.caixin.com/m/2020-12-09/101637376.html) ![](assets/new.png)  
-- [2020-12-09-大流行手记|12月8日：印度三款疫苗申请紧急使用-中东多国部署疫苗采购](http://m.international.caixin.com/m/2020-12-09/101637221.html) ![](assets/new.png)  
-- [2020-12-09-【图集】成都全市核酸扩大检测-已覆盖25.52万人](http://m.photos.caixin.com/m/2020-12-09/101637238.html) ![](assets/new.png)  
-- [2020-12-09-成都全市核酸扩大检测-已覆盖25.52万人](http://m.photos.caixin.com/m/2020-12-09/101637238.html) ![](assets/new.png)  
-- [2020-12-08-香港新冠重症患者增加-港府颁新规可要求“封锁检测”](http://m.china.caixin.com/m/2020-12-08/101637076.html) ![](assets/new.png)  
-- [2020-12-08-成都新冠本土病例增至5例-所涉村庄和医院已实施封控](https://m.caixin.com/m/2020-12-08/101636790.html) ![](assets/new.png)  
-- [2020-12-08-【境内疫情观察】四川新增2例本土病例（12月7日）](http://m.database.caixin.com/m/2020-12-08/101636899.html) ![](assets/new.png)  
-- [2020-12-08-大流行手记|12月7日：印尼土耳其等国订购中国疫苗-韩国将加大病毒检测力度](https://m.caixin.com/m/2020-12-08/101636807.html) ![](assets/new.png)  
-- [2020-12-07-成都新增1例确诊病例，系白天通报病例丈夫](https://m.caixin.com/m/2020-12-07/101636741.html) ![](assets/new.png)  
-- [2020-12-07-最新海外疫情：新冠感染近6698万-累计死亡超153万](http://m.international.caixin.com/m/2020-12-07/101636630.html) ![](assets/new.png)  
-- [2020-12-07-成都郫都区新增1例新冠肺炎确诊病例](http://m.china.caixin.com/m/2020-12-07/101636491.html) ![](assets/new.png)  
-- [2020-12-07-【境内疫情观察】内蒙古新增3例本土病例（12月6日）](http://m.database.caixin.com/m/2020-12-07/101636503.html) ![](assets/new.png)  
-- [2020-12-07-大流行手记|12月6日：辉瑞疫苗申请印度上市-俄罗斯已为10万人接种疫苗](https://m.caixin.com/m/2020-12-07/101636373.html) ![](assets/new.png)  
-- [2020-12-06-【境内疫情观察】天津新增1例本土病例（12月5日）](http://m.database.caixin.com/m/2020-12-06/101636265.html) ![](assets/new.png)  
-- [2020-12-06-大流行手记|12月5日：WHO称COVAX计划已获7亿剂疫苗-韩国首尔或宵禁](https://m.caixin.com/m/2020-12-06/101636251.html) ![](assets/new.png)  
-- [2020-12-06-日本新冠重症病例连创新高-医疗资源恐遭挤兑](http://m.international.caixin.com/m/2020-12-06/101636231.html) ![](assets/new.png)  
-- [2020-12-05-【境内疫情观察】内蒙古新增2例本土病例（12月4日）](http://m.database.caixin.com/m/2020-12-05/101636119.html) ![](assets/new.png)  
-- [2020-12-05-大流行手记|12月4日：欧洲多国明确疫苗接种计划-俄罗斯下周启动大规模接种](https://m.caixin.com/m/2020-12-05/101636003.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -495,6 +475,9 @@
 </summary>
 
 
+- [2020-12-10-从DOM到虚拟DOM——前端DOM发展史、性能与产能双赢背后的思考](https://www.ershicimi.com/p/20148a8162a9413f5a05254cfacb83c7) ![](assets/new.png)  
+- [2020-12-10-10-个关于-TypeScript-的小技巧](https://www.ershicimi.com/p/7b13d3934ab53ffb9593dcc4682974a2) ![](assets/new.png)  
+- [2020-12-09-基于lerna和single-spa,-sysyem.js搭建-vue-的微前端框架](https://www.ershicimi.com/p/b4f38d4aac08cbffecccc827a2a8ea17) ![](assets/new.png)  
 - [2020-12-08-进入大厂的面试经验详细总结（P7-拿-offer）](https://www.ershicimi.com/p/95ab5fce2f5a51a9dfad984e4791c34e) ![](assets/new.png)  
 - [2020-12-08-阿里拍卖招前端，最后一个-P6-坑！](https://www.ershicimi.com/p/9e13164d909b0c944e2991dc25dc8984) ![](assets/new.png)  
 - [2020-12-07-刷题2个月，工资25k，有它真香！](https://www.ershicimi.com/p/0ba3baeb5657c36565ffa2df476c9a0d) ![](assets/new.png)  
@@ -512,9 +495,6 @@
 - [2020-11-30-postMessage-还能这样玩](https://www.ershicimi.com/p/7b1114a34411c810989fef4b54aa0bfe) ![](assets/new.png)  
 - [2020-11-29-非科班前端老司机从2K到40K之路](https://www.ershicimi.com/p/4417afc7b11ac80888efb77eb3c56c89) ![](assets/new.png)  
 - [2020-11-27-最近收到几个朋友成功拿到字节2-1、阿里P6等大厂offer的消息，特地将这些大厂简历整理出来，分享](https://www.ershicimi.com/p/34043811d762ffb55335348b421423b1) ![](assets/new.png)  
-- [2020-11-26-耳机高效编码论，那就送一个AirPods-Pro！](https://www.ershicimi.com/p/fd94368d5df8e21b4f794d722b3cfa60) ![](assets/new.png)  
-- [2020-11-26-大型小程序如何研发提效](https://www.ershicimi.com/p/99af0a3a474bf38889fa0f185a6c32f2) ![](assets/new.png)  
-- [2020-11-25-几乎刷完了力扣所有的树题，我发现了这些东西。。。](https://www.ershicimi.com/p/c489c92295a3b818629c4ff5845b67bd) ![](assets/new.png)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -954,9 +934,9 @@
 </summary>
 
 
+- [2020-12-09-人生是一场马拉松-OBKoro1的2020年年终总结-|-掘金年度征文](https://juejin.im/post/6904493635443064839) ![](assets/new.png)  
 - [2020-12-09-对闲鱼分享组件升级后，才知道什么叫灵活可扩展...](https://juejin.im/post/6904476118432694279) ![](assets/new.png)  
 - [2020-12-09-setTimeout-小尴尬的启示](https://juejin.im/post/6904469367648419847) ![](assets/new.png)  
-- [2020-12-09-Vue项目打包部署总结](https://juejin.im/post/6904451616158515214) ![](assets/new.png)  
 - [2020-12-09-不满意社区的轮子，我们自创了一套-React-Hooks-风格的数据加载方案](https://juejin.im/post/6904450940817014797) ![](assets/new.png)  
 - [2020-12-09-聊聊JS继承那些事](https://juejin.im/post/6904448197079351303) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -1074,6 +1054,13 @@
 </summary>
 
 
+- [2020-12-10-2060-显卡在赛博朋克-2077-中如何选择画质？](https://www.v2ex.com/t/734105) ![](assets/new.png)  
+- [2020-12-10-是否可能以后手机当成主机直接连扩展屏幕](https://www.v2ex.com/t/734104) ![](assets/new.png)  
+- [2020-12-10-午休开门开窗的臭傻-b](https://www.v2ex.com/t/734103) ![](assets/new.png)  
+- [2020-12-10-想买点医药基，有些疑虑](https://www.v2ex.com/t/734102) ![](assets/new.png)  
+- [2020-12-10-求个免费的视频转换软件，尽量追求-permute3-那样](https://www.v2ex.com/t/734101) ![](assets/new.png)  
+- [2020-12-10-求：家庭“all-in-one”服务器的硬件推荐](https://www.v2ex.com/t/734100) ![](assets/new.png)  
+- [2020-12-10-看到有人问没有网络了程序员怎么办，想到了一篇文章](https://www.v2ex.com/t/734099) ![](assets/new.png)  
 - [2020-12-10-notion-的客户端和网页端有区别吗？](https://www.v2ex.com/t/734096) ![](assets/new.png)  
 - [2020-12-10-招聘-北京-美团寻-Java-工程师（30k-50k](https://www.v2ex.com/t/734095) ![](assets/new.png)  
 - [2020-12-10-Cloudflare-出了个-Google-Analytics-的代替品？](https://www.v2ex.com/t/734094) ![](assets/new.png)  
@@ -1087,13 +1074,6 @@
 - [2020-12-10-有人在生产环境,-使用-systemd-下的-journal-日志管理工具么?](https://www.v2ex.com/t/734086) ![](assets/new.png)  
 - [2020-12-10-Android-有没有类似-iOS-Quantumult-X-的软件？找了一圈发现并没有](https://www.v2ex.com/t/734085) ![](assets/new.png)  
 - [2020-12-10-和多号月付可以转成年付吗？](https://www.v2ex.com/t/734084) ![](assets/new.png)  
-- [2020-12-10-提问：如何解决-Win10-连接微软服务速度过慢的问题？](https://www.v2ex.com/t/734081) ![](assets/new.png)  
-- [2020-12-10-IOS-即使关闭了微信的定位权限，仍然可以获取到位置信息？](https://www.v2ex.com/t/734078) ![](assets/new.png)  
-- [2020-12-10-广州帮朋友公司招技术经理、前端、后端（-PHP-）,靠谱的小伙伴看过来，简历可以直接帮你砸给老大](https://www.v2ex.com/t/734076) ![](assets/new.png)  
-- [2020-12-10-16G-和-8G-是两种不同的工作模式](https://www.v2ex.com/t/734074) ![](assets/new.png)  
-- [2020-12-10-2018-mbp-15-寸淘宝换了电池，容量只有-6800](https://www.v2ex.com/t/734070) ![](assets/new.png)  
-- [2020-12-10-大佬们，知道修罗云的-NAT-怎么设置端口映射吗，我怎么设置本地-SSH-都连不上。](https://www.v2ex.com/t/734069) ![](assets/new.png)  
-- [2020-12-10-网易云音乐黑胶-vip-年卡-69-元-4-折](https://www.v2ex.com/t/734067) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1143,17 +1123,17 @@
 - [2020-12-10-ssh-偶发性登录卡死之谜](https://toutiao.io/k/0iuneb6) ![](assets/new.png)  
 - [2020-12-10-Redis：基础数据类型应用场景](https://toutiao.io/k/kfxarsg) ![](assets/new.png)  
 - [2020-12-10-Spring-Cloud-Alibaba-微服务实战（二十一-）：整合-Dubbo](https://toutiao.io/k/avwcf7e) ![](assets/new.png)  
+- [2020-12-10-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
 - [2020-12-10-聊一聊海量公众号下我是如何进行筛选和内容消费的](https://toutiao.io/k/zhvfa1q) ![](assets/new.png)  
 - [2020-12-10-游戏安全对抗：这是一篇安卓逆向基础函数在-ARM-32-中的刨根问底](https://toutiao.io/k/96cmxga) ![](assets/new.png)  
-- [2020-12-10-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
 - [2020-12-10-使用-pull-app-保持-Fork-代码在最新状态](https://toutiao.io/k/uzq48zs) ![](assets/new.png)  
 - [2020-12-10-当我们谈前端性能的时候，我们谈的是什么](https://toutiao.io/k/92syacb) ![](assets/new.png)  
 - [2020-12-10-数据仓库建设规范（文档版）](https://toutiao.io/k/r0e7ljx) ![](assets/new.png)  
 - [2020-12-10-14-个-JS-优化建议](https://toutiao.io/k/o3a9gax) ![](assets/new.png)  
 - [2020-12-10-使用-Clion-阅读-Envoy-源码](https://toutiao.io/k/sr8zcyp) ![](assets/new.png)  
 - [2020-12-10-傅立叶变换可视化-PyGame-版](https://toutiao.io/k/364ns9q) ![](assets/new.png)  
-- [2020-12-10-kustomize-入门：Kubernetes-原生配置管理工具](https://toutiao.io/k/b4o1ful) ![](assets/new.png)  
 - [2020-12-10-为什么要有-Servlet-，什么是-Servlet-容器，什么是-Web-容器？](https://toutiao.io/k/clqizzc) ![](assets/new.png)  
+- [2020-12-10-kustomize-入门：Kubernetes-原生配置管理工具](https://toutiao.io/k/b4o1ful) ![](assets/new.png)  
 - [2020-12-10-使用-DDD-指导微服务拆分的逻辑](https://toutiao.io/k/64jwdxr) ![](assets/new.png)  
 - [2020-12-10-Flutter-UI-自动化原理与实践](https://toutiao.io/k/prt4dqe) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
@@ -1167,26 +1147,26 @@
 </summary>
 
 
+- [2020-12-10-记一次漏洞挖掘实战之木桶短板](https://sec.thief.one/article_content?a_id=9ef650d4fdb68f91e0c5d8e1df4b4c6c) ![](assets/new.png)  
+- [2020-12-10-「Dibrary-第二季-」——好书推荐预告](https://sec.thief.one/article_content?a_id=0f6c5621675e17de6872af5de1a37d9c) ![](assets/new.png)  
+- [2020-12-10-银保监会主席郭树清:正在研究制定金融数据安全保护条例](https://sec.thief.one/article_content?a_id=e791eb4e52f8188b0c263acf75a92a0b) ![](assets/new.png)  
+- [2020-12-10-Amnesia-33:33个-0-day漏洞影响数百万设备](https://sec.thief.one/article_content?a_id=b26487a35df2c01e0a61061060b1d0c1) ![](assets/new.png)  
+- [2020-12-10-“理财2年,全款买车买房”:35岁前,千万别让“拼命打工”拖垮自己!](https://sec.thief.one/article_content?a_id=bf73f5c133c2f270610ff54fb5e7e319) ![](assets/new.png)  
+- [2020-12-10-记一次短板打点](https://sec.thief.one/article_content?a_id=ce9544690aa58d818231c4b1bf1317ab) ![](assets/new.png)  
+- [2020-12-10-高校挑战赛-|-战队成绩揭晓!比赛圆满收官!](https://sec.thief.one/article_content?a_id=fc2557e425d47d2a67b9aff68dce5118) ![](assets/new.png)  
+- [2020-12-10-FireEye被黑客组织入侵,“核武”泄露](https://sec.thief.one/article_content?a_id=1e441383fc816c0d9382183292eb8fab) ![](assets/new.png)  
+- [2020-12-10-恶意软件的开发与检测-Part-4](https://sec.thief.one/article_content?a_id=1b186ca688ba7a9066e7d926a7f4d0dd) ![](assets/new.png)  
+- [2020-12-10-人民日报:男子泄露成都确诊女孩隐私信息-被警方处罚!](https://sec.thief.one/article_content?a_id=10797d577e42b3a6d98cd8fcde9b55c3) ![](assets/new.png)  
+- [2020-12-10-倒计时3天!字节跳动「安全范儿」攻防论坛,周日见!](https://sec.thief.one/article_content?a_id=5d449829dbaa9ecaf16941f9e823ceb9) ![](assets/new.png)  
+- [2020-12-10-内含POC丨漏洞复现之S2-061CVE-2020-17530](https://sec.thief.one/article_content?a_id=422665d7b8015062a70575f88bb01bad) ![](assets/new.png)  
+- [2020-12-10-web-登录验证机制的攻与防](https://sec.thief.one/article_content?a_id=836418579561be86888406f8e027f601) ![](assets/new.png)  
+- [2020-12-10-我是如何被一步步诈骗的?](https://sec.thief.one/article_content?a_id=3be93ac62237e7a16cdda06c1db62f3f) ![](assets/new.png)  
+- [2020-12-10-安恒EDR勒索病毒防护“四杀招”,杜绝类“富士康事件”发生](https://sec.thief.one/article_content?a_id=d5afa06db1ca1e72c254298d7ed46a73) ![](assets/new.png)  
+- [2020-12-10-打马赛克就安全了吗?AI消除马赛克,GitHub开源项目上线三天收获近...](https://sec.thief.one/article_content?a_id=dd7075157b8adb6ab3da53399056c3c4) ![](assets/new.png)  
 - [2020-12-10-pip-太难用了,安利一个装包新技能!](https://sec.thief.one/article_content?a_id=2f9ae57058dbdaa0e6ba77ab4885d480) ![](assets/new.png)  
 - [2020-12-10-长亭珂兰寺,里面都是怎样的人?](https://sec.thief.one/article_content?a_id=b26d02dc188f37d6e7cfdbd111524c3b) ![](assets/new.png)  
 - [2020-12-10-人民日报:男子泄露成都确诊女孩隐私信息-被警方处罚!](https://sec.thief.one/article_content?a_id=dd651727f813b6d8ad514e27072c5d0a) ![](assets/new.png)  
 - [2020-12-09-编程要哪门子天赋](https://sec.thief.one/article_content?a_id=4d8401df1971624e4c02f0cf53ee7225) ![](assets/new.png)  
-- [2020-12-09-FireEye红队工具遭盗取,腾讯安全已检测到数百个符合规则的利用样本](https://sec.thief.one/article_content?a_id=f67e5189facaf89de4d43791c6a9b4a1) ![](assets/new.png)  
-- [2020-12-09-【安全圈】巴西航空工业公司被勒索软件“撕票”](https://sec.thief.one/article_content?a_id=308eec47d6a1eefeafb7a88b0a3ee2d3) ![](assets/new.png)  
-- [2020-12-09-区块链赋能物流行业:“圈子文化”下,网络货运的数字化转型之路](https://sec.thief.one/article_content?a_id=f9a88aa1a33cb274e797b267bd5782d6) ![](assets/new.png)  
-- [2020-12-09-实战“练兵”!奇安信协助巴中开展2020年网络安全应急演练活动](https://sec.thief.one/article_content?a_id=db8fc68042803998653be58ed022873a) ![](assets/new.png)  
-- [2020-12-09-一支百战雄师是怎样炼成的?](https://sec.thief.one/article_content?a_id=25f0a518848fdab90c43a6e962fce59a) ![](assets/new.png)  
-- [2020-12-09-【安全事件】FireEye遭受APT攻击,红队工具箱被盗](https://sec.thief.one/article_content?a_id=04c1a6800ed7e51f0909a82271bc5bce) ![](assets/new.png)  
-- [2020-12-09-绿盟君来支招:ISACA-CDPSE证书早期免考申请指南](https://sec.thief.one/article_content?a_id=3e70da33808f6215993e1195e1b81986) ![](assets/new.png)  
-- [2020-12-09-APT研究公司FireEye反遭APT入侵,大量红队工具被窃](https://sec.thief.one/article_content?a_id=b277c54be84bd331fcf2e3dfb30b5245) ![](assets/new.png)  
-- [2020-12-09-2020滴滴网络安全峰会|报名启动](https://sec.thief.one/article_content?a_id=e0f20bf348b7f7dae354711d7cb52159) ![](assets/new.png)  
-- [2020-12-09-招聘-|-中通安全应急响应中心](https://sec.thief.one/article_content?a_id=e1faea9260c4f9d185f6b0e2b43d9c0e) ![](assets/new.png)  
-- [2020-12-09-FireEye红队工具IOC披露](https://sec.thief.one/article_content?a_id=a4d7de78fb05b2c89ebfcc8f04ff90d6) ![](assets/new.png)  
-- [2020-12-09-【漏洞预警】CNNVD-关于Apache-Struts-2远程代码执行漏洞的通报](https://sec.thief.one/article_content?a_id=52cb75bdae3e114b702f00d5860c644c) ![](assets/new.png)  
-- [2020-12-09-FireEye红队工具遭盗取,微步在线TDP已全面支持检测](https://sec.thief.one/article_content?a_id=0c6ed9f6defe05d3105ab7e1d8ed8f8d) ![](assets/new.png)  
-- [2020-12-09-从某大型国有银行被央行处罚看内控安全严管趋势及合规重要性](https://sec.thief.one/article_content?a_id=e6de5f95641a5a45fbef704cc5c2aca9) ![](assets/new.png)  
-- [2020-12-09-圣诞节-为各位大佬准备了..](https://sec.thief.one/article_content?a_id=a9a74d2556c39b2589e2ce3a829d084b) ![](assets/new.png)  
-- [2020-12-09-高层人士称,Facebook希望在2021年推出其加密货币及钱包](https://sec.thief.one/article_content?a_id=f13f81b23a856656717114839532e4d0) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1198,6 +1178,26 @@
 </summary>
 
 
+- [2020-12-10-人民日报点赞的NB-IoT应用：独居老人水表12小时不走自动预警，建议全国推广](https://www.ershicimi.com/p/c27836fe439b38c11e2023d88b8c66e9) ![](assets/new.png)  
+- [2020-12-10-【AIoT产业年终盛典·报名开启】拨迷见“物”，洞察物联网新十年！](https://www.ershicimi.com/p/ba742e6a560fd6d7e280903dbfde396d) ![](assets/new.png)  
+- [2020-12-10-为什么物联网设备离不开定位功能？](https://www.ershicimi.com/p/994d410a9846900a68bba57f8292cf46) ![](assets/new.png)  
+- [2020-12-09-昨晚，苹果悄悄上线头戴式耳机AirPods-Max，4399元！“真TM贵”-还是“真NM香”？](https://www.ershicimi.com/p/d0fc8e89524bbf60cbd98581c07fb73d) ![](assets/new.png)  
+- [2020-12-09-【榜单】新基建成新十年风向，哪些物联网“行业/企业/人物/方案”将最具潜力？](https://www.ershicimi.com/p/33b06d494ff606ac59260af25de6d6c2) ![](assets/new.png)  
+- [2020-12-09-5G-toB大戏拉开帷幕，公网专用正当其时](https://www.ershicimi.com/p/d4f9a5f21cf9d6a1ac92d36771f13412) ![](assets/new.png)  
+- [2020-12-08-智能制造站上风口](https://www.ershicimi.com/p/e9df65d416f9e67c21cfb7d8416c1600) ![](assets/new.png)  
+- [2020-12-08-华为名师拆书直播-|-5G物联网及NB-IoT技术详解](https://www.ershicimi.com/p/d0646b22f2172d8e38f50b28cf6ec704) ![](assets/new.png)  
+- [2020-12-08-【榜单】新基建成新十年风向，哪些物联网“行业/企业/人物/方案”将最具潜力？](https://www.ershicimi.com/p/ccb64363ed433f01d760903f04029d82) ![](assets/new.png)  
+- [2020-12-08-尼古拉·特斯拉，到底有多神？](https://www.ershicimi.com/p/ff17d018c7f0695b7b48a6a42806c243) ![](assets/new.png)  
+- [2020-12-07-南北大众因“缺芯”导致车企停产？比亚迪：不仅自足，还能外供！](https://www.ershicimi.com/p/59fdad8a759bde3bd927e57d62ac1049) ![](assets/new.png)  
+- [2020-12-07-搭载移远C-V2X模组-红旗旗舰级智慧全能电动SUV-E-HS9正式上市](https://www.ershicimi.com/p/6ef2ff09486cd84ccb62e8d9c4a79c39) ![](assets/new.png)  
+- [2020-12-07-2020中国国际物联网产业大奖揭晓，TOP-10榜单火热出炉！](https://www.ershicimi.com/p/a337c3b2a2b401167115a742a7d7dfaa) ![](assets/new.png)  
+- [2020-12-07-【新书发布】明晚7:00，带你读懂“新基建”背后的国家战略与行动路径](https://www.ershicimi.com/p/ad084fc0ba13c58937f95473b1e480fc) ![](assets/new.png)  
+- [2020-12-07-公共能源行业“掘金热”，Pelion物联网技术助力全球公共事业行业数字化变革](https://www.ershicimi.com/p/966bdc2346345a1c298d5ffedbc19da8) ![](assets/new.png)  
+- [2020-12-06-大结局！美国放弃自家标准转投中国主推的C-V2X，红旗豪华SUV搭载高通车联网方案发布，行业终迎爆发](https://www.ershicimi.com/p/e32df89c53e4b71e33b6703f82f73796) ![](assets/new.png)  
+- [2020-12-06-【案例征集】践行“落地与融合”，2021年中国AIoT/5G产业全景图谱报告优秀案例征集正式启动](https://www.ershicimi.com/p/77f96643dec015f2ec2bde21e5a2bbba) ![](assets/new.png)  
+- [2020-12-06-物联网投融资周报|长光卫星完成24.64亿元融资；哪吒汽车C轮20亿融资将收官；哈勃科技投资辽宁中蓝](https://www.ershicimi.com/p/7f8e8055c1ef7864ee7ab8f057a7fb92) ![](assets/new.png)  
+- [2020-12-05-这个特别适合物联网技术落地的应用，尚待行业挖掘.....](https://www.ershicimi.com/p/dba226eb291779b21899cb78e29a5f48) ![](assets/new.png)  
+- [2020-12-05-【新书发布】12月8日，带你读懂“新基建”背后的国家战略与行动路径](https://www.ershicimi.com/p/c5a0f6df8464891897eeb1c8a6eee82e) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

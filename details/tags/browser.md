@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 03:31:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 03:41:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,7 +22,6 @@
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-12-02-作为前端，你真的了解你的浏览器吗？](https://www.ershicimi.com/p/32e7d2fd549b3fd7240442c803d0b214) 
-- [2020-12-01-HTTP接口调试利器！4.8万Star的HTTP命令行客户端！](https://www.ershicimi.com/p/5c4a2190c8945c8eadf76526358cc366) 
 - [2020-12-04-前端-api-请求缓存的-5-种方案](https://www.ershicimi.com/p/0739f868c16f1fc66b41e39b676c2588) 
 - [2020-11-27-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/7609004e2f9423cf4f1b2eb5dc1b19ac) 
 - [2020-11-21-抖音前端安全招前端（实习、高级都招）](https://www.ershicimi.com/p/cb4bcf2ebbdf8937d5ca6c8723e4b6a2) 
@@ -48,9 +47,8 @@
 - [2020-12-10-各位-mac-用-Razer-Core-X-eGPU-的-v-友,你们的-chrome-有被-eGPU-硬件加速吗?](https://www.v2ex.com/t/734052) 
 - [2020-12-10-不知道如何对-360-随身-wifi-进行抓包，监控手机-APP-的网络请求](https://www.v2ex.com/t/734040) 
 - [2020-12-10-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-10-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
-- [2020-12-10-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
 - [2020-12-10-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
+- [2020-12-10-推荐-超全面分布式缓存高可用方案：哨兵机制](https://toutiao.io/k/1k0udg9) 
 - [2020-12-09-FireEye红队工具遭盗取,腾讯安全已检测到数百个符合规则的利用样本](https://sec.thief.one/article_content?a_id=f67e5189facaf89de4d43791c6a9b4a1) 
 - [2020-12-09-【安全圈】巴西航空工业公司被勒索软件“撕票”](https://sec.thief.one/article_content?a_id=308eec47d6a1eefeafb7a88b0a3ee2d3) 
 - [2020-12-09-实战“练兵”!奇安信协助巴中开展2020年网络安全应急演练活动](https://sec.thief.one/article_content?a_id=db8fc68042803998653be58ed022873a) 

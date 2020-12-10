@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-10 09:43:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 09:53:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -402,7 +402,6 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】性能优化：线程资源回收](https://toutiao.io/k/wllqesw)
 - [【开发者头条】当我们谈前端性能的时候，我们谈的是什么](https://toutiao.io/k/92syacb)
-- [【开发者头条】推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -465,6 +464,7 @@
 - [【V2EX】深圳-至简天成科技招聘-Ruby-on-Rails-全栈工程师-/-技术产品经理-/-人力行政（15-30K）](https://www.v2ex.com/t/734216)
 - [【V2EX】elasticsearch-phrase-suggester-得不到任何结果，小白想请教一下](https://www.v2ex.com/t/734214)
 - [【V2EX】elasticsearch-search-的-count-api-不支持-bool-查询怎么办？](https://www.v2ex.com/t/734185)
+- [【开发者头条】推荐-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x)
 - [【安全热点】为covenant设置http重定向](https://sec.thief.one/article_content?a_id=79bedb7e51a6fa4947ebbc19629cbafb)
 - [【安全热点】哈萨克斯坦首都拦截HTTPS流量](https://sec.thief.one/article_content?a_id=cd87694404c2f55134eb0e520162627d)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

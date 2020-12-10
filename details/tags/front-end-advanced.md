@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 11:37:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 11:48:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -23,6 +23,5 @@
 - [2020-12-03-疯了？价值上万元“Web全栈架构师”正课免费？](https://www.ershicimi.com/p/cae5f6db9a2ffaa926bb78df3323fe21) 
 - [2020-12-10-深圳-至简天成科技招聘-Ruby-on-Rails-全栈工程师-/-技术产品经理-/-人力行政（15-30K）](https://www.v2ex.com/t/734216) 
 - [2020-12-10-elasticsearch-phrase-suggester-得不到任何结果，小白想请教一下](https://www.v2ex.com/t/734214) 
-- [2020-12-10-推荐-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x) 
 - [2020-12-09-为covenant设置http重定向](https://sec.thief.one/article_content?a_id=79bedb7e51a6fa4947ebbc19629cbafb) 
 - [2020-12-09-哈萨克斯坦首都拦截HTTPS流量](https://sec.thief.one/article_content?a_id=cd87694404c2f55134eb0e520162627d) 

@@ -9,7 +9,33 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "涉疫阳性同批次进口冷冻食品流入！河南濮阳对涉事库存产品68件全部就地封存并全面消杀",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9rimUfYyeFKl7aAiES5a201210&isfromapp=1",
+        "date": "2020-12-10"
+      },
+      {
+        "title": "新纪录作品大赛展播丨老潘的花椒园",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS7EKZXgA1hJjzHi0Hnkl201209&isfromapp=1",
+        "date": "2020-12-10"
+      },
+      {
+        "title": "塞浦路斯宣布应对疫情恶化新举措",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirbW2pqUOX4NV8R2PPqhY201210&isfromapp=1",
+        "date": "2020-12-10"
+      },
+      {
+        "title": "为控制新冠疫情 白俄罗斯将暂停人员从陆路和水路口岸离境",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiisgwEjnH2MFeyEeZRCJg201210&isfromapp=1",
+        "date": "2020-12-10"
+      },
+      {
+        "title": "福奇喊话美国人：新冠病毒是真的",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSYWNW7a00wq7Zzoz314v201210&isfromapp=1",
+        "date": "2020-12-09"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",

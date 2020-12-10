@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 03:41:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 03:46:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,5 +39,3 @@
 - [2020-12-10-想问一下大家对于未来的展望....](https://www.v2ex.com/t/734029) 
 - [2020-12-10-Kubernetes-准备丢掉-docker-改用-containerd-了](https://www.v2ex.com/t/734026) 
 - [2020-12-10-游戏开发-VS-安卓](https://www.v2ex.com/t/734025) 
-- [2020-12-10-有没有-just-my-socks-拼车的](https://www.v2ex.com/t/734023) 
-- [2020-12-10-求助，开发人员画像（标签）系统](https://www.v2ex.com/t/734022) 

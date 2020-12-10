@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 03:41:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 03:46:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,6 +43,7 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-12-08-扔掉okhttp、httpClient，来试试这款轻量级HTTP客户端神器？](https://www.ershicimi.com/p/ca765b3a45b894e65adb3f53a907d0e4) 
+- [2020-12-09-【Daily-Interview】---01-实现一个简单的仓储系统](https://juejin.im/post/6904455832403083277) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-10-各位-mac-用-Razer-Core-X-eGPU-的-v-友,你们的-chrome-有被-eGPU-硬件加速吗?](https://www.v2ex.com/t/734052) 
 - [2020-12-10-不知道如何对-360-随身-wifi-进行抓包，监控手机-APP-的网络请求](https://www.v2ex.com/t/734040) 

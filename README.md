@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-11 01:23:09，:rocket: 更新条数: +3934， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-11 01:58:05，:rocket: 更新条数: +3934， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-12-11-河北献县进口冷冻肉外包装核酸检测呈阳性-肉品未流入市场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEhPwv7hBVmmXBG01xTYn201211&isfromapp=1) ![](assets/new.png)  
 - [2020-12-11-加拿大安大略省部分学校下周一开始停止课堂授课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKcC7UNDi4CgtgtTmi0Zk201211&isfromapp=1) ![](assets/new.png)  
 - [2020-12-10-成都已完成核酸检测采样110余万人-累计追踪到密切接触者504人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijSz7AQE38soCKcTl9kIZ201211&isfromapp=1) ![](assets/new.png)  
 - [2020-12-10-美疾控中心官员：美国新冠病毒实际感染人数可能比报告中的数据高出2至7倍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy28HQ5AYZDkD0CP2JkU1201211&isfromapp=1) ![](assets/new.png)  
 - [2020-12-10-法国“解封”第二步将受阻：宵禁延长-文化场所继续关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirU0oGT14nTXXwMzLyX2H201211&isfromapp=1) ![](assets/new.png)  
-- [2020-12-10-英国卫生大臣：伦敦部分地区中学生将进行大规模新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifDz75wmG4qZ3u6WbD5e9201211&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,26 +1074,26 @@
 </summary>
 
 
+- [2020-12-11-Hamibot-1.0.0，基于-autojs，实现微信检测好友、钉钉打卡、tb-双十二自动做任务](https://www.v2ex.com/t/734362) ![](assets/new.png)  
+- [2020-12-11-大家是怎么看待面试笔试这个问题](https://www.v2ex.com/t/734360) ![](assets/new.png)  
+- [2020-12-11-Kubernetes-管理的容器，如何做到时间同步？-非时区](https://www.v2ex.com/t/734359) ![](assets/new.png)  
+- [2020-12-11-安卓-10.0-怎么自定义选择文本弹出菜单列出的选项的顺序？系统自动把词典的选项放到最后，每次都要翻页才能找得到，太麻烦了，手机是-S20](https://www.v2ex.com/t/734358) ![](assets/new.png)  
+- [2020-12-11-云计算/SDN/虚拟化岗位招人](https://www.v2ex.com/t/734357) ![](assets/new.png)  
+- [2020-12-11-日叙叨逼叨](https://www.v2ex.com/t/734354) ![](assets/new.png)  
+- [2020-12-11-win10-idea-升级到-2020.3-后-toolbox-上点击运行没反应了，有人碰到吗？](https://www.v2ex.com/t/734353) ![](assets/new.png)  
+- [2020-12-11-求推荐一款双肩包](https://www.v2ex.com/t/734352) ![](assets/new.png)  
+- [2020-12-11-20-分钟带你掌握-JavaScript-Promise-和-Async/Await](https://www.v2ex.com/t/734351) ![](assets/new.png)  
+- [2020-12-11-三七互娱内推-社招-初/中-PHP-工程师-13-25K-广州](https://www.v2ex.com/t/734350) ![](assets/new.png)  
+- [2020-12-11-redis-性能问题](https://www.v2ex.com/t/734347) ![](assets/new.png)  
+- [2020-12-11-vscode-打开-markdown-文件，能否按花括号折叠区块](https://www.v2ex.com/t/734346) ![](assets/new.png)  
+- [2020-12-11-10-元招行喵](https://www.v2ex.com/t/734344) ![](assets/new.png)  
+- [2020-12-11-VSCode-里面，大家跑-javascript-的相关-unit-test-快么？我这儿很慢](https://www.v2ex.com/t/734342) ![](assets/new.png)  
+- [2020-12-11-bootcamp-能不能把-windows-装到外接-ssd，然后在-parallels-desktop-上面运行外接的-windows？](https://www.v2ex.com/t/734341) ![](assets/new.png)  
+- [2020-12-11-美好的一天，从同事吧唧嘴开始](https://www.v2ex.com/t/734340) ![](assets/new.png)  
 - [2020-12-11-怎么把系统完全移植到另一台电脑,两台电脑不同配置](https://www.v2ex.com/t/734339) ![](assets/new.png)  
 - [2020-12-11-求助-Linux-系统如何划分一块固定空间给家用摄像头存储视频文件？](https://www.v2ex.com/t/734338) ![](assets/new.png)  
 - [2020-12-11-Big-Sur-加载-PHP-扩展失败，提示扩展未签名](https://www.v2ex.com/t/734337) ![](assets/new.png)  
 - [2020-12-11-mac-系统下用什么软件阅读-chm-文件](https://www.v2ex.com/t/734336) ![](assets/new.png)  
-- [2020-12-11-现在国内这些-app-都这么无耻了吗？](https://www.v2ex.com/t/734335) ![](assets/new.png)  
-- [2020-12-11-推广+抽奖-全职带娃的媳妇代理了一家奥特莱斯网店，有钱的捧个钱场，没钱的捧个人场😄](https://www.v2ex.com/t/734332) ![](assets/new.png)  
-- [2020-12-11-家里的小米电视自带的系统太卡了，有什么好用的电视盒子推荐？](https://www.v2ex.com/t/734331) ![](assets/new.png)  
-- [2020-12-11-请问-DDD（领域驱动设计）真的火了？](https://www.v2ex.com/t/734328) ![](assets/new.png)  
-- [2020-12-11-50-万笔新数据插入到数据库，如何避免重复？](https://www.v2ex.com/t/734327) ![](assets/new.png)  
-- [2020-12-11-github-怎么搜索-c#](https://www.v2ex.com/t/734325) ![](assets/new.png)  
-- [2020-12-11-Rocky-Linux-CentOS-后续](https://www.v2ex.com/t/734324) ![](assets/new.png)  
-- [2020-12-10-Windows-on-Arm-预览版支持-x64-模拟了](https://www.v2ex.com/t/734323) ![](assets/new.png)  
-- [2020-12-10-出几个域名啊](https://www.v2ex.com/t/734322) ![](assets/new.png)  
-- [2020-12-10-Docker-Developer-Preview-即将支持-M1-芯片](https://www.v2ex.com/t/734320) ![](assets/new.png)  
-- [2020-12-10-赛博朋克-2077-真是全平台啊，到底该搞哪个？](https://www.v2ex.com/t/734319) ![](assets/new.png)  
-- [2020-12-10-20201211-午夜俱乐部](https://www.v2ex.com/t/734317) ![](assets/new.png)  
-- [2020-12-10-请教个-Elasticsearch-的多标签筛选问题](https://www.v2ex.com/t/734316) ![](assets/new.png)  
-- [2020-12-10-53-分钟前,-macOS-ARM-版-IDEA-预览版出来了](https://www.v2ex.com/t/734315) ![](assets/new.png)  
-- [2020-12-10-有没有什么办法在运行-mac-系统时，运行-bootcamp-里安装的-windows10？](https://www.v2ex.com/t/734314) ![](assets/new.png)  
-- [2020-12-10-更新到了-centos-stream，然后-vnc-挂了](https://www.v2ex.com/t/734313) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,23 +1139,23 @@
 - [2020-12-11-14W-行代码量的前端页面长什么样](https://toutiao.io/k/2urs5ua) ![](assets/new.png)  
 - [2020-12-11-项目用-GoModules-管理依赖的方法和经验总结](https://toutiao.io/k/5jnw6gc) ![](assets/new.png)  
 - [2020-12-11-基于-qiankun-的微前端最佳实践](https://toutiao.io/k/5kg314l) ![](assets/new.png)  
-- [2020-12-11-Golang-语言使用标准库-net/rpc/jsonrpc-包跨语言远程调用](https://toutiao.io/k/fcea7zx) ![](assets/new.png)  
 - [2020-12-11-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
-- [2020-12-11-程序员培养之道](https://toutiao.io/k/s263y3a) ![](assets/new.png)  
+- [2020-12-11-Golang-语言使用标准库-net/rpc/jsonrpc-包跨语言远程调用](https://toutiao.io/k/fcea7zx) ![](assets/new.png)  
 - [2020-12-11-大幅降低存储成本，Elasticsearch-可搜索快照是如何办到的？](https://toutiao.io/k/pidkanb) ![](assets/new.png)  
+- [2020-12-11-程序员培养之道](https://toutiao.io/k/s263y3a) ![](assets/new.png)  
 - [2020-12-11-Envoy-listener-filter-times-out-问题](https://toutiao.io/k/l0ivq3o) ![](assets/new.png)  
 - [2020-12-11-译-自动增长-textarea-的最干净技巧](https://toutiao.io/k/ib52di8) ![](assets/new.png)  
 - [2020-12-11-Docker-出局？你还有-iSula、Containerd-和CRI-O](https://toutiao.io/k/9ohdyi7) ![](assets/new.png)  
 - [2020-12-11-维度建模技术实践：深入事实表](https://toutiao.io/k/aonul2d) ![](assets/new.png)  
 - [2020-12-11-聊聊微服务架构.pdf](https://toutiao.io/k/xpcrdo3) ![](assets/new.png)  
-- [2020-12-11-推荐-微服务架构下-CI/CD-如何落地](https://toutiao.io/k/303m5ez) ![](assets/new.png)  
-- [2020-12-11-推荐-编程语言学习心得-（精简版）：不要害怕遗忘](https://toutiao.io/k/ssh2p81) ![](assets/new.png)  
-- [2020-12-11-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
-- [2020-12-11-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
+- [2020-12-11-C++-服务编译耗时优化原理及实践](https://toutiao.io/k/y7lrnch) ![](assets/new.png)  
+- [2020-12-11-前后端集成没你想的那么难](https://toutiao.io/k/jf4pmh5) ![](assets/new.png)  
+- [2020-12-11-一文梳理-2020-年大热的对比学习模型](https://toutiao.io/k/npfk3h4) ![](assets/new.png)  
+- [2020-12-11-推荐-隐秘的-MySQL-类型转换](https://toutiao.io/k/27nwbyu) ![](assets/new.png)  
+- [2020-12-11-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) ![](assets/new.png)  
 - [2020-12-11-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
-- [2020-12-11-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
-- [2020-12-11-推荐-一文讲透-“布隆过滤器”](https://toutiao.io/k/9b7zxp0) ![](assets/new.png)  
-- [2020-12-11-推荐-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/qvfq564) ![](assets/new.png)  
+- [2020-12-11-推荐-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) ![](assets/new.png)  
+- [2020-12-11-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

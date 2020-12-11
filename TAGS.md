@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-11 01:23:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 01:58:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -451,7 +451,9 @@
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【互联网架构师】52-条-SQL-语句性能优化策略，建议收藏！](https://www.ershicimi.com/p/941610dbdcb6cc827189900a78d9d390)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】redis-性能问题](https://www.v2ex.com/t/734347)
 - [【V2EX】Big-Sur-加载-PHP-扩展失败，提示扩展未签名](https://www.v2ex.com/t/734337)
+- [【开发者头条】C++-服务编译耗时优化原理及实践](https://toutiao.io/k/y7lrnch)
 - [【开发者头条】推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -520,7 +522,6 @@
 - [【JavaScript】排序算法](https://www.ershicimi.com/p/1ca2e23533568845a2a484f905348a5f)
 - [【JavaScript】疯了？价值上万元“Web全栈架构师”正课免费？](https://www.ershicimi.com/p/cae5f6db9a2ffaa926bb78df3323fe21)
 - [【V2EX】请教个-Elasticsearch-的多标签筛选问题](https://www.v2ex.com/t/734316)
-- [【V2EX】上海，-Python-全栈，本科应届，有大量项目经验，卑微求职](https://www.v2ex.com/t/734311)
 - [【开发者头条】大幅降低存储成本，Elasticsearch-可搜索快照是如何办到的？](https://toutiao.io/k/pidkanb)
 - [【开发者头条】推荐-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x)
 - [【安全热点】为covenant设置http重定向](https://sec.thief.one/article_content?a_id=79bedb7e51a6fa4947ebbc19629cbafb)

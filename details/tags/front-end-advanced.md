@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 03:41:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 03:54:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -19,10 +19,7 @@
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-12-07-记住看小电影前一定要检查一下域名是不是-HTTPS-的，不然……](https://www.ershicimi.com/p/57b0ecbc470e028355ba0550df9482ed) 
-- [2020-12-06-排序算法](https://www.ershicimi.com/p/1ca2e23533568845a2a484f905348a5f) 
-- [2020-12-03-疯了？价值上万元“Web全栈架构师”正课免费？](https://www.ershicimi.com/p/cae5f6db9a2ffaa926bb78df3323fe21) 
 - [2020-12-11-趣味裸眼-2D-点阵玩物，挑战你的想象力和算法能力！](https://www.v2ex.com/t/734417) 
-- [2020-12-11-深圳外企20+天年假招前端和全栈](https://www.v2ex.com/t/734386) 
 - [2020-12-11-大幅降低存储成本，Elasticsearch-可搜索快照是如何办到的？](https://toutiao.io/k/pidkanb) 
 - [2020-12-11-IBFT-共识算法解析](https://toutiao.io/k/03lcrjk) 
 - [2020-12-11-OkHttp-与-HTTP-协议](https://toutiao.io/k/f8accul) 

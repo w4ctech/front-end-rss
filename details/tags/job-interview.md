@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 10:10:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 10:33:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -38,6 +38,7 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-12-10-小马哥：不懂-Spring-AOP-就去面试，怎么敢的？｜-极客时间](https://www.ershicimi.com/p/3f0723f1e922404b90c125e05cffb586) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/196a7fb4fe0dda8d044135599df6e681) 
+- [2020-12-11-远程面试候选人的时候使用-Zoom-共享桌面完成笔试怎么样？](https://www.v2ex.com/t/734606) 
 - [2020-12-11-阿里云-云原生-中间件招聘（深圳/杭州）](https://www.v2ex.com/t/734564) 
+- [2020-12-11-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) 
 - [2020-12-11-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
-- [2020-12-09-中央网信办所属部分在京事业单位2021年度公开招聘公告](https://sec.thief.one/article_content?a_id=2ebaa629ec0fb9a51298c8b1a6c0bf51) 

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-12-11 09:55:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 10:05:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-11-为何-macOS-下-“Option-+-字母”-是打出特殊符号呢？](https://www.v2ex.com/t/734604) 
+- [2020-12-11-探探代码版，今天这个-github-trending-看到了吗？](https://www.v2ex.com/t/734603) 
+- [2020-12-11-有没有个地方记录猝死的程序员呢？也当是对同行的纪念](https://www.v2ex.com/t/734602) 
 - [2020-12-11-请教一下-k8s-服务暴露的问题](https://www.v2ex.com/t/734599) 
 - [2020-12-11-社保为什么不能补缴](https://www.v2ex.com/t/734598) 
 - [2020-12-11-如果客户端和服务端是同步串行的-socket-通信，是不是不用考虑粘包的问题了](https://www.v2ex.com/t/734597) 
@@ -40,6 +43,3 @@
 - [2020-12-11-rocky-Linux-大家有关注吗？](https://www.v2ex.com/t/734558) 
 - [2020-12-11-刚才手贱更新了-docker-desktop-3.0-然后镜像起不来了](https://www.v2ex.com/t/734556) 
 - [2020-12-11-非-IT-行业人员业余想学习写程序，应该从什么开始？](https://www.v2ex.com/t/734555) 
-- [2020-12-11-一个-homebrew-交互式更新脚本](https://www.v2ex.com/t/734554) 
-- [2020-12-11-不开玩笑，这电池越用越耐用了？](https://www.v2ex.com/t/734553) 
-- [2020-12-11-Python-word](https://www.v2ex.com/t/734552) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-11 09:55:29，:rocket: 更新条数: +3944， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-11 10:05:07，:rocket: 更新条数: +3944， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,9 @@
 </summary>
 
 
+- [2020-12-11-为何-macOS-下-“Option-+-字母”-是打出特殊符号呢？](https://www.v2ex.com/t/734604) ![](assets/new.png)  
+- [2020-12-11-探探代码版，今天这个-github-trending-看到了吗？](https://www.v2ex.com/t/734603) ![](assets/new.png)  
+- [2020-12-11-有没有个地方记录猝死的程序员呢？也当是对同行的纪念](https://www.v2ex.com/t/734602) ![](assets/new.png)  
 - [2020-12-11-请教一下-k8s-服务暴露的问题](https://www.v2ex.com/t/734599) ![](assets/new.png)  
 - [2020-12-11-社保为什么不能补缴](https://www.v2ex.com/t/734598) ![](assets/new.png)  
 - [2020-12-11-如果客户端和服务端是同步串行的-socket-通信，是不是不用考虑粘包的问题了](https://www.v2ex.com/t/734597) ![](assets/new.png)  
@@ -1091,9 +1094,6 @@
 - [2020-12-11-视频需求超平常数-10-倍，却节省了-60%-的-IT-成本投入是一种什么样的体验？](https://www.v2ex.com/t/734579) ![](assets/new.png)  
 - [2020-12-11-Mac-有没有办法把播放/暂停和上/下一首快捷键固定到-iTunes-上？](https://www.v2ex.com/t/734578) ![](assets/new.png)  
 - [2020-12-11-技术人员和软件使用者的距离](https://www.v2ex.com/t/734577) ![](assets/new.png)  
-- [2020-12-11-iPhone-X-iOS14-关-wifi-切-4g-很慢-有同样情况的吗](https://www.v2ex.com/t/734576) ![](assets/new.png)  
-- [2020-12-11-根据朋友的经历-写了首-Rap-哈哈哈哈哈](https://www.v2ex.com/t/734575) ![](assets/new.png)  
-- [2020-12-11-新建-Rocky-Linux-群组，-CentOS-替代项目](https://www.v2ex.com/t/734574) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-11 01:58:05，:rocket: 更新条数: +3934， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-11 02:03:48，:rocket: 更新条数: +3932， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,12 +1074,13 @@
 </summary>
 
 
+- [2020-12-11-人在杭州，拿了南京-offer，不知道怎么办了](https://www.v2ex.com/t/734365) ![](assets/new.png)  
+- [2020-12-11-你的牛子捏的怎么样了？](https://www.v2ex.com/t/734363) ![](assets/new.png)  
 - [2020-12-11-Hamibot-1.0.0，基于-autojs，实现微信检测好友、钉钉打卡、tb-双十二自动做任务](https://www.v2ex.com/t/734362) ![](assets/new.png)  
 - [2020-12-11-大家是怎么看待面试笔试这个问题](https://www.v2ex.com/t/734360) ![](assets/new.png)  
 - [2020-12-11-Kubernetes-管理的容器，如何做到时间同步？-非时区](https://www.v2ex.com/t/734359) ![](assets/new.png)  
 - [2020-12-11-安卓-10.0-怎么自定义选择文本弹出菜单列出的选项的顺序？系统自动把词典的选项放到最后，每次都要翻页才能找得到，太麻烦了，手机是-S20](https://www.v2ex.com/t/734358) ![](assets/new.png)  
 - [2020-12-11-云计算/SDN/虚拟化岗位招人](https://www.v2ex.com/t/734357) ![](assets/new.png)  
-- [2020-12-11-日叙叨逼叨](https://www.v2ex.com/t/734354) ![](assets/new.png)  
 - [2020-12-11-win10-idea-升级到-2020.3-后-toolbox-上点击运行没反应了，有人碰到吗？](https://www.v2ex.com/t/734353) ![](assets/new.png)  
 - [2020-12-11-求推荐一款双肩包](https://www.v2ex.com/t/734352) ![](assets/new.png)  
 - [2020-12-11-20-分钟带你掌握-JavaScript-Promise-和-Async/Await](https://www.v2ex.com/t/734351) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-12-11-怎么把系统完全移植到另一台电脑,两台电脑不同配置](https://www.v2ex.com/t/734339) ![](assets/new.png)  
 - [2020-12-11-求助-Linux-系统如何划分一块固定空间给家用摄像头存储视频文件？](https://www.v2ex.com/t/734338) ![](assets/new.png)  
 - [2020-12-11-Big-Sur-加载-PHP-扩展失败，提示扩展未签名](https://www.v2ex.com/t/734337) ![](assets/new.png)  
-- [2020-12-11-mac-系统下用什么软件阅读-chm-文件](https://www.v2ex.com/t/734336) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,13 +1149,13 @@
 - [2020-12-11-维度建模技术实践：深入事实表](https://toutiao.io/k/aonul2d) ![](assets/new.png)  
 - [2020-12-11-聊聊微服务架构.pdf](https://toutiao.io/k/xpcrdo3) ![](assets/new.png)  
 - [2020-12-11-C++-服务编译耗时优化原理及实践](https://toutiao.io/k/y7lrnch) ![](assets/new.png)  
-- [2020-12-11-前后端集成没你想的那么难](https://toutiao.io/k/jf4pmh5) ![](assets/new.png)  
 - [2020-12-11-一文梳理-2020-年大热的对比学习模型](https://toutiao.io/k/npfk3h4) ![](assets/new.png)  
-- [2020-12-11-推荐-隐秘的-MySQL-类型转换](https://toutiao.io/k/27nwbyu) ![](assets/new.png)  
-- [2020-12-11-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) ![](assets/new.png)  
-- [2020-12-11-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
+- [2020-12-11-前后端集成没你想的那么难](https://toutiao.io/k/jf4pmh5) ![](assets/new.png)  
+- [2020-12-11-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
+- [2020-12-11-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
 - [2020-12-11-推荐-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) ![](assets/new.png)  
-- [2020-12-11-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
+- [2020-12-11-推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) ![](assets/new.png)  
+- [2020-12-11-推荐-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 02:15:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 02:41:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -118,7 +118,6 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-12-11-Hamibot-1.0.0，基于-autojs，实现微信检测好友、钉钉打卡、tb-双十二自动做任务](https://www.v2ex.com/t/734362) 
 - [2020-12-11-20-分钟带你掌握-JavaScript-Promise-和-Async/Await](https://www.v2ex.com/t/734351) 
-- [2020-12-11-VSCode-里面，大家跑-javascript-的相关-unit-test-快么？我这儿很慢](https://www.v2ex.com/t/734342) 
 - [2020-12-11-项目用-GoModules-管理依赖的方法和经验总结](https://toutiao.io/k/5jnw6gc) 
 - [2020-12-11-Golang-语言使用标准库-net/rpc/jsonrpc-包跨语言远程调用](https://toutiao.io/k/fcea7zx) 
 - [2020-12-11-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-11 15:54:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 16:05:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -403,7 +403,6 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】分库分表真的是提高数据库查询性能的银弹嘛？](https://toutiao.io/k/qetjd9i)
 - [【开发者头条】C++-服务编译耗时优化原理及实践](https://toutiao.io/k/y7lrnch)
-- [【开发者头条】推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -466,7 +465,6 @@
 - [【开发者头条】大幅降低存储成本，Elasticsearch-可搜索快照是如何办到的？](https://toutiao.io/k/pidkanb)
 - [【开发者头条】IBFT-共识算法解析](https://toutiao.io/k/03lcrjk)
 - [【开发者头条】OkHttp-与-HTTP-协议](https://toutiao.io/k/f8accul)
-- [【开发者头条】推荐-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x)
 - [【安全热点】为covenant设置http重定向](https://sec.thief.one/article_content?a_id=79bedb7e51a6fa4947ebbc19629cbafb)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 15:54:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 16:05:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -40,7 +40,8 @@
 - [2020-12-11-URL-Scheme-可以获取返回值吗？](https://www.v2ex.com/t/734636) 
 - [2020-12-11-Chrome-86-版开始，「清除浏览数据」取消响应-enter-键，咋办？](https://www.v2ex.com/t/734633) 
 - [2020-12-11-火狐浏览器缩放比例为-200%时，如何让内容布局自动换行？](https://www.v2ex.com/t/734628) 
-- [2020-12-11-推荐-最近做-Code-Review-的-5-点经验分享](https://toutiao.io/k/5sw3syp) 
+- [2020-12-11-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
+- [2020-12-11-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-11-先声夺人|《2021产业互联网安全十大趋势》发布:云原生安全上榜](https://sec.thief.one/article_content?a_id=9698a40585bdbbff881b18c55d009443) 
 - [2020-12-11-产业互联网安全十大趋势2021](https://sec.thief.one/article_content?a_id=e1979b177d789e3a760cd14920ff548f) 
 - [2020-12-11-每日安全动态推送12-11](https://sec.thief.one/article_content?a_id=fa9001a63945c16bf48cb2e3925a052c) 

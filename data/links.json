@@ -18910,6 +18910,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "非 IT 行业人员业余想学习写程序，应该从什么开始？",
+        "link": "https://www.v2ex.com/t/734555",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "一个 homebrew 交互式更新脚本",
+        "link": "https://www.v2ex.com/t/734554",
+        "date": "2020-12-11"
+      },
+      {
         "title": "不开玩笑，这电池越用越耐用了？",
         "link": "https://www.v2ex.com/t/734553",
         "date": "2020-12-11"
@@ -19082,11 +19092,6 @@
       {
         "title": "如何查看电脑支持最大内存；",
         "link": "https://www.v2ex.com/t/734506",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "如果是清华的 cs 专科生 ,会被卡学历吗?",
-        "link": "https://www.v2ex.com/t/734504",
         "date": "2020-12-11"
       }
     ]
@@ -19304,8 +19309,18 @@
         "date": "2020-12-11"
       },
       {
-        "title": "[推荐] 编程语言学习心得 （精简版）：不要害怕遗忘",
-        "link": "https://toutiao.io/k/ssh2p81",
+        "title": "[推荐] 实战篇：一个核心系统 3 万多行代码的重构之旅",
+        "link": "https://toutiao.io/k/qvfq564",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] 35 岁以后，不要成为程序员中的钻石",
+        "link": "https://toutiao.io/k/gbakyp5",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了 | 码农周刊第 325 期",
+        "link": "https://toutiao.io/k/xvysg5s",
         "date": "2020-12-11"
       },
       {
@@ -19314,13 +19329,43 @@
         "date": "2020-12-11"
       },
       {
-        "title": "[推荐] 缓存击穿、穿透、雪崩简单总结",
-        "link": "https://toutiao.io/k/yehwkm6",
+        "title": "[推荐] 彻底搞懂 IO 底层原理",
+        "link": "https://toutiao.io/k/493onla",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] 前端高效开发必备的 js 库梳理",
+        "link": "https://toutiao.io/k/rtusig3",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] 一文讲透 “布隆过滤器”",
+        "link": "https://toutiao.io/k/9b7zxp0",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] ElasticSearch 使用规范 beta 版",
+        "link": "https://toutiao.io/k/6qqfb9x",
         "date": "2020-12-11"
       },
       {
         "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
         "link": "https://toutiao.io/k/5sw3syp",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] MySQL 查询性能优化前，必须先掌握 MySQL 索引理论",
+        "link": "https://toutiao.io/k/klmrzk8",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] 微服务架构下 CI/CD 如何落地",
+        "link": "https://toutiao.io/k/303m5ez",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] 中台的本质及中台建设的 4 点思考",
+        "link": "https://toutiao.io/k/9octogz",
         "date": "2020-12-11"
       },
       {
@@ -19334,48 +19379,8 @@
         "date": "2020-12-11"
       },
       {
-        "title": "[推荐] 彻底搞懂 IO 底层原理",
-        "link": "https://toutiao.io/k/493onla",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] 微服务架构下 CI/CD 如何落地",
-        "link": "https://toutiao.io/k/303m5ez",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] CTO 怒了：“如果中台不省钱，我建个屁中台啊！”",
-        "link": "https://toutiao.io/k/batmypd",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] MySQL 查询性能优化前，必须先掌握 MySQL 索引理论",
-        "link": "https://toutiao.io/k/klmrzk8",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] ElasticSearch 使用规范 beta 版",
-        "link": "https://toutiao.io/k/6qqfb9x",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] 中台的本质及中台建设的 4 点思考",
-        "link": "https://toutiao.io/k/9octogz",
-        "date": "2020-12-11"
-      },
-      {
         "title": "[推荐] 四种缓存的避坑总结",
         "link": "https://toutiao.io/k/fzh8zfu",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] 前端高效开发必备的 js 库梳理",
-        "link": "https://toutiao.io/k/rtusig3",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] 35 岁以后，不要成为程序员中的钻石",
-        "link": "https://toutiao.io/k/gbakyp5",
         "date": "2020-12-11"
       }
     ]

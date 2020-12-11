@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-11 08:05:19，:rocket: 更新条数: +3942， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-11 08:11:04，:rocket: 更新条数: +3943， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,8 @@
 </summary>
 
 
+- [2020-12-11-非-IT-行业人员业余想学习写程序，应该从什么开始？](https://www.v2ex.com/t/734555) ![](assets/new.png)  
+- [2020-12-11-一个-homebrew-交互式更新脚本](https://www.v2ex.com/t/734554) ![](assets/new.png)  
 - [2020-12-11-不开玩笑，这电池越用越耐用了？](https://www.v2ex.com/t/734553) ![](assets/new.png)  
 - [2020-12-11-Python-word](https://www.v2ex.com/t/734552) ![](assets/new.png)  
 - [2020-12-11-macOS-有可以用数字键切换窗口的软件吗？](https://www.v2ex.com/t/734550) ![](assets/new.png)  
@@ -1092,8 +1094,6 @@
 - [2020-12-11-周围的公司门口都贴上圣诞贴画了,-我们贴什么才能与众不同又大方得体?](https://www.v2ex.com/t/734527) ![](assets/new.png)  
 - [2020-12-11-SAP-西安招聘后端工程师](https://www.v2ex.com/t/734525) ![](assets/new.png)  
 - [2020-12-11-记一次不错的-B-站分享经历](https://www.v2ex.com/t/734524) ![](assets/new.png)  
-- [2020-12-11-进来做个你们的扩展坞-有无供电损耗调查](https://www.v2ex.com/t/734523) ![](assets/new.png)  
-- [2020-12-11-琢磨了一个东西,数据的松紧结合式备份,不知道有没有用....](https://www.v2ex.com/t/734522) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

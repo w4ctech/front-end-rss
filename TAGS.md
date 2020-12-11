@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-11 08:54:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 09:04:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -546,7 +546,6 @@
 - [【InfoQ】GraphQL是API的未来，但它并非银弹](https://www.ershicimi.com/p/0faa77ba62b3ea90becddf16ce5366c3)
 - [【InfoQ】Docker-的第二次死亡](https://www.ershicimi.com/p/29fa84049309a7c25183b782b2b5a294)
 - [【V2EX】刚才手贱更新了-docker-desktop-3.0-然后镜像起不来了](https://www.v2ex.com/t/734556)
-- [【V2EX】nginx-配置的问题](https://www.v2ex.com/t/734531)
 - [【开发者头条】漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse)
 - [【开发者头条】Docker-出局？你还有-iSula、Containerd-和CRI-O](https://toutiao.io/k/9ohdyi7)
 - [......【查看更多】......](./details/tags/server.md)

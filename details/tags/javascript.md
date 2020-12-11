@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 17:51:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 18:05:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -29,6 +29,8 @@
 - [2020-01-22-如何解读WHO“国际公共卫生紧急事件”](http://m.china.caixin.com/m/2020-01-22/101507340.html) 
 - [2020-01-22-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
 - [2020-12-04-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/7a4de73e7fda551dfa6c595fc8a81bde) 
+- [2020-12-08-进阶：玩转-CSS-变量](https://www.ershicimi.com/p/eb50eab2e1c1fbdb4c032420fbc00f62) 
+- [2020-12-03-20个常用的JavaScript简写技巧](https://www.ershicimi.com/p/474fa86f567db5202b3ab8253f7e90b3) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-12-11-WebAssembly-如何提升-JavaScript-的性能？](https://www.ershicimi.com/p/d598d3b947b55e4c4d623fa9831712db) 
@@ -59,11 +61,6 @@
 - [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
-- [2020-12-07-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/bfcc0fa011c651c5362949f91ad3d3d9) 
-- [2020-12-07-我点击页面元素，VSCode-乖乖打开了组件？原理揭秘。](https://www.ershicimi.com/p/f5013b2b5cd50e75fd40bc7a737ca731) 
-- [2020-11-27-一行能装逼的JavaScript代码](https://www.ershicimi.com/p/0bd195fae01be5fe56a5ea0f1e34274d) 
-- [2020-11-20-怎样的变量命名，才显得有文化？](https://www.ershicimi.com/p/a559af22aeff572b2e18878deb98da20) 
-- [2020-11-19-书到用时方恨少，一大波JS开发工具函数来了](https://www.ershicimi.com/p/d233ab10dd97abbcba02b6c1a3a72ed3) 
 - [2020-12-10-正则表达式是如何让你的网页卡住的（优化100ms到2ms）](https://www.ershicimi.com/p/b52b06ab3d30dd26594dcdca9c82c40b) 
 - [2020-12-09-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/60553a89ce75b6456404eac29fc80808) 
 - [2020-12-07-从DOM到虚拟DOM——前端DOM发展史、性能与产能双赢背后的思考](https://www.ershicimi.com/p/03a45f6bb0159a877406abb531156896) 
@@ -116,6 +113,7 @@
 - [2020-12-11-为什么-cmder-被称作是终端模拟器console-emulators，什么是真正意义的-console？](https://www.v2ex.com/t/734679) 
 - [2020-12-11-项目用-GoModules-管理依赖的方法和经验总结](https://toutiao.io/k/5jnw6gc) 
 - [2020-12-11-Golang-语言使用标准库-net/rpc/jsonrpc-包跨语言远程调用](https://toutiao.io/k/fcea7zx) 
+- [2020-12-11-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) 
 - [2020-12-10-以红队视角看FireEye网络攻击事件](https://sec.thief.one/article_content?a_id=00a50440f816609a91dbc86a764cd96a) 
 - [2020-12-10-安恒EDR勒索病毒防护“四杀招”,杜绝类“富士康事件”发生](https://sec.thief.one/article_content?a_id=d5afa06db1ca1e72c254298d7ed46a73) 
 - [2020-12-09-【安全事件】FireEye遭受APT攻击,红队工具箱被盗](https://sec.thief.one/article_content?a_id=04c1a6800ed7e51f0909a82271bc5bce) 

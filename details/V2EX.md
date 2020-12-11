@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-12-11 05:49:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 06:05:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-11-Bash-下如何优雅地临时在后台运行程序并易于管理？](https://www.v2ex.com/t/734488) 
+- [2020-12-11-有在杭州-盒马的老哥吗-昨天刚和-hr-聊完薪资说给我提交-offer-审批-这个有机会吗](https://www.v2ex.com/t/734487) 
+- [2020-12-11-关于技术沉淀，是封装服务好还是-package-和-library-好？](https://www.v2ex.com/t/734486) 
 - [2020-12-11-Outlook-Android-无法添加新邮箱](https://www.v2ex.com/t/734485) 
 - [2020-12-11-朋友总借钱怎么办](https://www.v2ex.com/t/734482) 
 - [2020-12-11-写代码你们是亮色主题还是深色模式](https://www.v2ex.com/t/734480) 
@@ -24,7 +27,6 @@
 - [2020-12-11-兄~弟~萌！有没有那种看起来非常-Cyber，非常-hacker-的软件](https://www.v2ex.com/t/734463) 
 - [2020-12-11-AWS-Lambda-Run-Container-Image-在-lambda-上跑-container](https://www.v2ex.com/t/734461) 
 - [2020-12-11-手机最近摔了一次，屏幕渐渐变黑，但是触摸没有问题，但是放一晚上就好了，这可能是哪里坏了？需要维修吗](https://www.v2ex.com/t/734457) 
-- [2020-12-11-阿区-Netflix-车](https://www.v2ex.com/t/734456) 
 - [2020-12-11-昨晚看了部电影《白兔糖》-想买一把图中的那个椅子（类似的即可）help](https://www.v2ex.com/t/734454) 
 - [2020-12-11-项目的-er-图](https://www.v2ex.com/t/734453) 
 - [2020-12-11-上海---国际化产品-视频负责人-/-10k-18k](https://www.v2ex.com/t/734452) 
@@ -39,5 +41,3 @@
 - [2020-12-11-不差钱就差你-~~~-北京-美团-Java-工程师-看过来~](https://www.v2ex.com/t/734441) 
 - [2020-12-11-不知道你们有没有感觉-互联网的信息需要主动选择，有时候就会觉得累](https://www.v2ex.com/t/734440) 
 - [2020-12-11-mbp-touchbar-闪烁问题](https://www.v2ex.com/t/734439) 
-- [2020-12-11-apple-适配的-TensorFlow-更新了](https://www.v2ex.com/t/734438) 
-- [2020-12-11-TCP-创建时间](https://www.v2ex.com/t/734437) 

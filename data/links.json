@@ -14585,7 +14585,33 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "亚行启动90亿美元融资计划 帮助发展中成员体获取和分配新冠疫苗",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN3CBdQ7M8vShpb4AgLnE201211&isfromapp=1",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "第一批中国制造疫苗抵达埃及",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil20zKCcQbxUyx9lQfSIl201211&isfromapp=1",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "世卫组织：全球新冠肺炎确诊病例超过6884万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqbDzM6s9CvOV9w1wvRHn201211&isfromapp=1",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "临床数据不及预期 英法两家药企宣布推迟新冠疫苗上市",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiQoT8hZFadUy0tkafM2b201211&isfromapp=1",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "香港新增新冠肺炎确诊病例86例 累计确诊7377例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0oxhGpkXoXuq4PrMKil201211&isfromapp=1",
+        "date": "2020-12-11"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",

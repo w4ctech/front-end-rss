@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 23:43:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 23:47:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2553,6 +2553,9 @@
 - [2020-01-20-【图集】武汉每天76趟列车抵广州南-旅客少有戴口罩未见体温检测](http://m.photos.caixin.com/m/2020-01-20/101506484.html) 
 - [2020-01-16-日本公布一新型冠状病毒感染病例-患者去过武汉](http://m.china.caixin.com/m/2020-01-16/101506054.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://m.china.caixin.com/m/2020-01-11/101506220.html) 
+- [2020-12-11-亚行启动90亿美元融资计划-帮助发展中成员体获取和分配新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN3CBdQ7M8vShpb4AgLnE201211&isfromapp=1) 
+- [2020-12-11-第一批中国制造疫苗抵达埃及](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil20zKCcQbxUyx9lQfSIl201211&isfromapp=1) 
+- [2020-12-11-临床数据不及预期-英法两家药企宣布推迟新冠疫苗上市](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiQoT8hZFadUy0tkafM2b201211&isfromapp=1) 
 - [2020-12-10-2020快结束了，为感谢粉丝们的关注，小编决定抽奖送一台新款笔记本](https://www.ershicimi.com/p/7c0e1851b193c30b6ced0f22f845116a) 
 - [2020-12-07-网页骨架屏自动生成方案分享](https://www.ershicimi.com/p/1985475982840b5b44dd03b0456b8c24) 
 - [2020-12-03-微信第-1-行代码曝光！](https://www.ershicimi.com/p/9b2e8c8eee767bfc352ef90ef44238bc) 

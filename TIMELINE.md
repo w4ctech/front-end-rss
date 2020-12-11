@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 23:43:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-11 23:47:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -159,6 +159,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-12-02-大流行手记|12月1日：美国2019年底或已出现新冠感染-韩国再上调防疫级别](https://m.caixin.com/m/2020-12-02/101634640.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-12-01-【境内疫情观察】内蒙古新增4例本土确诊病例（11月30日）](http://m.database.caixin.com/m/2020-12-01/101634347.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-12-01-大流行手记|11月30日：英滚动审评阿斯利康疫苗-Moderna疫苗申请紧急使用](https://m.caixin.com/m/2020-12-01/101634135.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-12-11-亚行启动90亿美元融资计划-帮助发展中成员体获取和分配新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN3CBdQ7M8vShpb4AgLnE201211&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-12-11-第一批中国制造疫苗抵达埃及](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil20zKCcQbxUyx9lQfSIl201211&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-12-11-世卫组织：全球新冠肺炎确诊病例超过6884万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqbDzM6s9CvOV9w1wvRHn201211&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-12-11-临床数据不及预期-英法两家药企宣布推迟新冠疫苗上市](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiQoT8hZFadUy0tkafM2b201211&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-12-11-香港新增新冠肺炎确诊病例86例-累计确诊7377例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0oxhGpkXoXuq4PrMKil201211&isfromapp=1) 
 - [【Vue社区】2020-12-10-2020快结束了，为感谢粉丝们的关注，小编决定抽奖送一台新款笔记本](https://www.ershicimi.com/p/7c0e1851b193c30b6ced0f22f845116a) 
 - [【Vue社区】2020-12-09-字节跳动年底招聘-10000-人，看看你符合条件么？](https://www.ershicimi.com/p/45becc670feffb4cf743c60c3ba28698) 
 - [【Vue社区】2020-12-08-Vue-Router-4.0-正式发布！焕然一新。](https://www.ershicimi.com/p/1ba726ca82144132fc233ca0455aba44) 

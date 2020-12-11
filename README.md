@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-11 23:43:02，:rocket: 更新条数: +3938， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-11 23:47:16，:rocket: 更新条数: +3943， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,11 @@
 </summary>
 
 
+- [2020-12-11-亚行启动90亿美元融资计划-帮助发展中成员体获取和分配新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN3CBdQ7M8vShpb4AgLnE201211&isfromapp=1) ![](assets/new.png)  
+- [2020-12-11-第一批中国制造疫苗抵达埃及](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil20zKCcQbxUyx9lQfSIl201211&isfromapp=1) ![](assets/new.png)  
+- [2020-12-11-世卫组织：全球新冠肺炎确诊病例超过6884万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqbDzM6s9CvOV9w1wvRHn201211&isfromapp=1) ![](assets/new.png)  
+- [2020-12-11-临床数据不及预期-英法两家药企宣布推迟新冠疫苗上市](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiQoT8hZFadUy0tkafM2b201211&isfromapp=1) ![](assets/new.png)  
+- [2020-12-11-香港新增新冠肺炎确诊病例86例-累计确诊7377例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0oxhGpkXoXuq4PrMKil201211&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

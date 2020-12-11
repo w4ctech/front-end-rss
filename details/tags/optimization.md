@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 19:25:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 19:35:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -28,4 +28,3 @@
 - [2020-12-11-白话科普系列——网站靠什么提升加载速度？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14051&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F336150534%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-11-分库分表真的是提高数据库查询性能的银弹嘛？](https://toutiao.io/k/qetjd9i) 
 - [2020-12-11-C++-服务编译耗时优化原理及实践](https://toutiao.io/k/y7lrnch) 
-- [2020-12-11-推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) 

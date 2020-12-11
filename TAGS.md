@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-11 03:09:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 03:32:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -332,7 +332,6 @@
 
 - [【前端大学】File、Blob、dataURL-和-canvas-的应用与转换](https://www.ershicimi.com/p/eb9cad4fe60f2e2b607dcd4542b568b4)
 - [【前端瓶子君】File、Blob、dataURL-和-canvas-的应用与转换](https://www.ershicimi.com/p/5709e69ab742ca5d5c9b63e05979c354)
-- [【V2EX】求助-Pyautogui-不同屏幕分辨率處理](https://www.v2ex.com/t/734366)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -398,7 +397,6 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】C++-服务编译耗时优化原理及实践](https://toutiao.io/k/y7lrnch)
 - [【开发者头条】分库分表真的是提高数据库查询性能的银弹嘛？](https://toutiao.io/k/qetjd9i)
-- [【开发者头条】推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -458,10 +456,12 @@
 - [【互联网架构师】记住看小电影前一定要检查一下域名是不是-HTTPS-的，不然……](https://www.ershicimi.com/p/57b0ecbc470e028355ba0550df9482ed)
 - [【JavaScript】排序算法](https://www.ershicimi.com/p/1ca2e23533568845a2a484f905348a5f)
 - [【JavaScript】疯了？价值上万元“Web全栈架构师”正课免费？](https://www.ershicimi.com/p/cae5f6db9a2ffaa926bb78df3323fe21)
+- [【V2EX】趣味裸眼-2D-点阵玩物，挑战你的想象力和算法能力！](https://www.v2ex.com/t/734417)
 - [【V2EX】深圳外企20+天年假招前端和全栈](https://www.v2ex.com/t/734386)
 - [【开发者头条】大幅降低存储成本，Elasticsearch-可搜索快照是如何办到的？](https://toutiao.io/k/pidkanb)
 - [【开发者头条】IBFT-共识算法解析](https://toutiao.io/k/03lcrjk)
 - [【开发者头条】OkHttp-与-HTTP-协议](https://toutiao.io/k/f8accul)
+- [【开发者头条】推荐-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x)
 - [【安全热点】为covenant设置http重定向](https://sec.thief.one/article_content?a_id=79bedb7e51a6fa4947ebbc19629cbafb)
 - [【安全热点】哈萨克斯坦首都拦截HTTPS流量](https://sec.thief.one/article_content?a_id=cd87694404c2f55134eb0e520162627d)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -483,7 +483,6 @@
 - [【前端之巅】GraphQL是API的未来，但它并非银弹](https://www.ershicimi.com/p/c86dcafab75045f83d79655cb59e090c)
 - [【InfoQ】GraphQL是API的未来，但它并非银弹](https://www.ershicimi.com/p/0faa77ba62b3ea90becddf16ce5366c3)
 - [【InfoQ】Docker-的第二次死亡](https://www.ershicimi.com/p/29fa84049309a7c25183b782b2b5a294)
-- [【V2EX】docker-预览版支持-m1](https://www.v2ex.com/t/734379)
 - [【开发者头条】漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse)
 - [【开发者头条】Docker-出局？你还有-iSula、Containerd-和CRI-O](https://toutiao.io/k/9ohdyi7)
 - [......【查看更多】......](./details/tags/server.md)

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-11 12:40:33，:rocket: 更新条数: +3945， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-11 12:49:27，:rocket: 更新条数: +3944， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,12 +1074,12 @@
 </summary>
 
 
+- [2020-12-11-Capcom-的街机游戏合集将在-2021-年登录-Switch](https://www.v2ex.com/t/734634) ![](assets/new.png)  
 - [2020-12-11-Chrome-86-版开始，「清除浏览数据」取消响应-enter-键，咋办？](https://www.v2ex.com/t/734633) ![](assets/new.png)  
 - [2020-12-11-Linux-中-Java-中文字体整烂活可破？](https://www.v2ex.com/t/734632) ![](assets/new.png)  
 - [2020-12-11-今天老大说想让我自己部署项目，但又怕我删错东西](https://www.v2ex.com/t/734631) ![](assets/new.png)  
 - [2020-12-11-火狐浏览器缩放比例为-200%时，如何让内容布局自动换行？](https://www.v2ex.com/t/734628) ![](assets/new.png)  
 - [2020-12-11-国内有类似-algolia-搜索服务的产品吗](https://www.v2ex.com/t/734627) ![](assets/new.png)  
-- [2020-12-11-如果可以选择，你愿意来到这个世界上吗？](https://www.v2ex.com/t/734626) ![](assets/new.png)  
 - [2020-12-11-持续招人中...快来加入我们吧!](https://www.v2ex.com/t/734625) ![](assets/new.png)  
 - [2020-12-11-已经是-14.3-又出来个-14.3-的更新](https://www.v2ex.com/t/734624) ![](assets/new.png)  
 - [2020-12-11-京东金融-app-卖个人信息有点快啊](https://www.v2ex.com/t/734623) ![](assets/new.png)  

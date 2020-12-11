@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-12-11 15:08:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 15:33:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-11-Big-Sur-和-iOS14-之间的-Handoff-和共享剪贴板失效了](https://www.v2ex.com/t/734670) 
+- [2020-12-11-版权局对软件正版化工作进行督导检查，关于正版-windows-系统/OFFICE-办公软件的授权探讨](https://www.v2ex.com/t/734669) 
+- [2020-12-11-为什么国产-APP-喜欢声明闪光灯权限？](https://www.v2ex.com/t/734668) 
+- [2020-12-11-看阿里云-T-盘热火朝天，不知道大家体验没-teambition-的其他功能，项目和待办是相通的，在项目里设置的任务会显示在待办提醒中，就是目前不知道待办怎么设置能...](https://www.v2ex.com/t/734667) 
 - [2020-12-11-Laravel-官方提供了基于-Docker-的本地开发环境解决方案](https://www.v2ex.com/t/734665) 
 - [2020-12-11-封装了个-App-在-M1-MacBookAir-上跑-WIn10-虚拟机](https://www.v2ex.com/t/734664) 
 - [2020-12-11-HomePod-mini-的声音有点失望了](https://www.v2ex.com/t/734663) 
@@ -39,8 +43,3 @@
 - [2020-12-11-已经是-14.3-又出来个-14.3-的更新](https://www.v2ex.com/t/734624) 
 - [2020-12-11-京东金融-app-卖个人信息有点快啊](https://www.v2ex.com/t/734623) 
 - [2020-12-11-深圳腾讯视频推荐算法工程师](https://www.v2ex.com/t/734622) 
-- [2020-12-11-深圳-PHP-后台开发工程师](https://www.v2ex.com/t/734621) 
-- [2020-12-11-请教-golang-的-mgo-链接池问题](https://www.v2ex.com/t/734620) 
-- [2020-12-11-想知道可赣州有人招开发](https://www.v2ex.com/t/734619) 
-- [2020-12-11-mac-短登录密码](https://www.v2ex.com/t/734618) 
-- [2020-12-11-如何防止运维内部擅自修改用户密码和-ssh-秘钥？](https://www.v2ex.com/t/734617) 

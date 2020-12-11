@@ -18910,6 +18910,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Mac 有没有办法把播放/暂停和上/下一首快捷键固定到 iTunes 上？",
+        "link": "https://www.v2ex.com/t/734578",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "技术人员和软件使用者的距离",
+        "link": "https://www.v2ex.com/t/734577",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "iPhone X iOS14 关 wifi 切 4g 很慢 有同样情况的吗",
+        "link": "https://www.v2ex.com/t/734576",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "根据朋友的经历 写了首 Rap 哈哈哈哈哈",
+        "link": "https://www.v2ex.com/t/734575",
+        "date": "2020-12-11"
+      },
+      {
         "title": "新建 Rocky Linux 群组， CentOS 替代项目",
         "link": "https://www.v2ex.com/t/734574",
         "date": "2020-12-11"
@@ -19062,21 +19082,6 @@
       {
         "title": "赣南脐橙中果开团大促！仅限 V 友渠道",
         "link": "https://www.v2ex.com/t/734529",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "c# List 的 clear 方法奇奇怪怪",
-        "link": "https://www.v2ex.com/t/734528",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "周围的公司门口都贴上圣诞贴画了, 我们贴什么才能与众不同又大方得体?",
-        "link": "https://www.v2ex.com/t/734527",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "SAP 西安招聘后端工程师",
-        "link": "https://www.v2ex.com/t/734525",
         "date": "2020-12-11"
       }
     ]
@@ -19294,33 +19299,8 @@
         "date": "2020-12-11"
       },
       {
-        "title": "[推荐] 中台的本质及中台建设的 4 点思考",
-        "link": "https://toutiao.io/k/9octogz",
-        "date": "2020-12-11"
-      },
-      {
         "title": "[推荐] MySQL 查询性能优化前，必须先掌握 MySQL 索引理论",
         "link": "https://toutiao.io/k/klmrzk8",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] 隐秘的 MySQL 类型转换",
-        "link": "https://toutiao.io/k/27nwbyu",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] 如何优雅的实现分布式锁",
-        "link": "https://toutiao.io/k/veeydsj",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] 四种缓存的避坑总结",
-        "link": "https://toutiao.io/k/fzh8zfu",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] 一文讲透 “布隆过滤器”",
-        "link": "https://toutiao.io/k/9b7zxp0",
         "date": "2020-12-11"
       },
       {
@@ -19329,33 +19309,28 @@
         "date": "2020-12-11"
       },
       {
-        "title": "[推荐] 35 岁以后，不要成为程序员中的钻石",
-        "link": "https://toutiao.io/k/gbakyp5",
+        "title": "[推荐] 中台的本质及中台建设的 4 点思考",
+        "link": "https://toutiao.io/k/9octogz",
         "date": "2020-12-11"
       },
       {
-        "title": "[推荐] 彻底搞懂 IO 底层原理",
-        "link": "https://toutiao.io/k/493onla",
+        "title": "[推荐] 一文讲透 “布隆过滤器”",
+        "link": "https://toutiao.io/k/9b7zxp0",
         "date": "2020-12-11"
       },
       {
-        "title": "[推荐] 缓存击穿、穿透、雪崩简单总结",
-        "link": "https://toutiao.io/k/yehwkm6",
+        "title": "[推荐] 四种缓存的避坑总结",
+        "link": "https://toutiao.io/k/fzh8zfu",
         "date": "2020-12-11"
       },
       {
-        "title": "[推荐] 实战篇：一个核心系统 3 万多行代码的重构之旅",
-        "link": "https://toutiao.io/k/qvfq564",
+        "title": "[推荐] 如何优雅的实现分布式锁",
+        "link": "https://toutiao.io/k/veeydsj",
         "date": "2020-12-11"
       },
       {
-        "title": "[推荐] 微服务架构下 CI/CD 如何落地",
-        "link": "https://toutiao.io/k/303m5ez",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] AutoExcel 实现百万数据秒级导入导出",
-        "link": "https://toutiao.io/k/ui65fqe",
+        "title": "[推荐] 前端高效开发必备的 js 库梳理",
+        "link": "https://toutiao.io/k/rtusig3",
         "date": "2020-12-11"
       },
       {
@@ -19364,8 +19339,38 @@
         "date": "2020-12-11"
       },
       {
+        "title": "[推荐] 彻底搞懂 IO 底层原理",
+        "link": "https://toutiao.io/k/493onla",
+        "date": "2020-12-11"
+      },
+      {
         "title": "[推荐] 编程语言学习心得 （精简版）：不要害怕遗忘",
         "link": "https://toutiao.io/k/ssh2p81",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] 微服务架构下 CI/CD 如何落地",
+        "link": "https://toutiao.io/k/303m5ez",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] 实战篇：一个核心系统 3 万多行代码的重构之旅",
+        "link": "https://toutiao.io/k/qvfq564",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] 35 岁以后，不要成为程序员中的钻石",
+        "link": "https://toutiao.io/k/gbakyp5",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] 缓存击穿、穿透、雪崩简单总结",
+        "link": "https://toutiao.io/k/yehwkm6",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
+        "link": "https://toutiao.io/k/5sw3syp",
         "date": "2020-12-11"
       }
     ]

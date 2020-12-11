@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-11 08:44:51，:rocket: 更新条数: +3940， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-11 08:54:31，:rocket: 更新条数: +3941， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,10 @@
 </summary>
 
 
+- [2020-12-11-Mac-有没有办法把播放/暂停和上/下一首快捷键固定到-iTunes-上？](https://www.v2ex.com/t/734578) ![](assets/new.png)  
+- [2020-12-11-技术人员和软件使用者的距离](https://www.v2ex.com/t/734577) ![](assets/new.png)  
+- [2020-12-11-iPhone-X-iOS14-关-wifi-切-4g-很慢-有同样情况的吗](https://www.v2ex.com/t/734576) ![](assets/new.png)  
+- [2020-12-11-根据朋友的经历-写了首-Rap-哈哈哈哈哈](https://www.v2ex.com/t/734575) ![](assets/new.png)  
 - [2020-12-11-新建-Rocky-Linux-群组，-CentOS-替代项目](https://www.v2ex.com/t/734574) ![](assets/new.png)  
 - [2020-12-11-怎么能更好地记住技术知识点呢？](https://www.v2ex.com/t/734573) ![](assets/new.png)  
 - [2020-12-11-对比-MyBatis，你看出什么端倪？](https://www.v2ex.com/t/734572) ![](assets/new.png)  
@@ -1090,10 +1094,6 @@
 - [2020-12-11-rocky-Linux-大家有关注吗？](https://www.v2ex.com/t/734558) ![](assets/new.png)  
 - [2020-12-11-刚才手贱更新了-docker-desktop-3.0-然后镜像起不来了](https://www.v2ex.com/t/734556) ![](assets/new.png)  
 - [2020-12-11-非-IT-行业人员业余想学习写程序，应该从什么开始？](https://www.v2ex.com/t/734555) ![](assets/new.png)  
-- [2020-12-11-一个-homebrew-交互式更新脚本](https://www.v2ex.com/t/734554) ![](assets/new.png)  
-- [2020-12-11-不开玩笑，这电池越用越耐用了？](https://www.v2ex.com/t/734553) ![](assets/new.png)  
-- [2020-12-11-Python-word](https://www.v2ex.com/t/734552) ![](assets/new.png)  
-- [2020-12-11-macOS-有可以用数字键切换窗口的软件吗？](https://www.v2ex.com/t/734550) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

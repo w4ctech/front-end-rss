@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-12-11 08:44:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 08:54:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-11-Mac-有没有办法把播放/暂停和上/下一首快捷键固定到-iTunes-上？](https://www.v2ex.com/t/734578) 
+- [2020-12-11-技术人员和软件使用者的距离](https://www.v2ex.com/t/734577) 
+- [2020-12-11-iPhone-X-iOS14-关-wifi-切-4g-很慢-有同样情况的吗](https://www.v2ex.com/t/734576) 
+- [2020-12-11-根据朋友的经历-写了首-Rap-哈哈哈哈哈](https://www.v2ex.com/t/734575) 
 - [2020-12-11-新建-Rocky-Linux-群组，-CentOS-替代项目](https://www.v2ex.com/t/734574) 
 - [2020-12-11-怎么能更好地记住技术知识点呢？](https://www.v2ex.com/t/734573) 
 - [2020-12-11-对比-MyBatis，你看出什么端倪？](https://www.v2ex.com/t/734572) 
@@ -36,6 +40,3 @@
 - [2020-12-11-nginx-配置的问题](https://www.v2ex.com/t/734531) 
 - [2020-12-11-Notion-的-Database-可以自动执行些脚本吗?](https://www.v2ex.com/t/734530) 
 - [2020-12-11-赣南脐橙中果开团大促！仅限-V-友渠道](https://www.v2ex.com/t/734529) 
-- [2020-12-11-c#-List-的-clear-方法奇奇怪怪](https://www.v2ex.com/t/734528) 
-- [2020-12-11-周围的公司门口都贴上圣诞贴画了,-我们贴什么才能与众不同又大方得体?](https://www.v2ex.com/t/734527) 
-- [2020-12-11-SAP-西安招聘后端工程师](https://www.v2ex.com/t/734525) 

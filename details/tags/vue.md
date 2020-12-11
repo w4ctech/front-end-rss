@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 18:05:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 18:08:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -54,6 +54,8 @@
 - [2020-11-23-Vue3源码-nextTick解析](https://www.ershicimi.com/p/d51475d104b740f1b2c866fd6d18fae6) 
 - [2020-12-09-基于lerna和single-spa,-sysyem.js搭建-vue-的微前端框架](https://www.ershicimi.com/p/b4f38d4aac08cbffecccc827a2a8ea17) 
 - [2020-10-11-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/0590b6964c9fcfc3e48286bd7d353627) 
+- [2020-12-08-快速使用Vue3最新的15个常用API](https://www.ershicimi.com/p/b5b135b0d77bd836f20b50c995bc47dc) 
+- [2020-11-23-开发一个基于-Vue3.0-的组件库是一种怎样的体验？](https://www.ershicimi.com/p/5d3238821ec796478f5fb4ce6a04adb5) 
 - [2020-12-08-Vue3有哪些不向下兼容的改变](https://www.ershicimi.com/p/ea125e7e65801b75ef8b38d5e19d80d2) 
 - [2020-12-06-基于Vue的前端架构，我做了这15点](https://www.ershicimi.com/p/b830e01a5d61ccce36292e330c0c681d) 
 - [2020-12-10-Vue项目打包部署总结](https://www.ershicimi.com/p/a2e5642ccfb01e83221deabf9c855f59) 

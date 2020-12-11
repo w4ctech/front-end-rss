@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-11 18:05:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 18:08:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -614,7 +614,7 @@
 - [【前端迷】海康威视web前端开发招聘急招岗](https://www.ershicimi.com/p/e1f2165d75551bd5651298d6864ccc0b)
 - [【全栈前端精选】进入大厂的面试经验详细总结（P7-拿-offer）](https://www.ershicimi.com/p/95ab5fce2f5a51a9dfad984e4791c34e)
 - [【政采云前端团队】政采云前端团队-2021-届校园招聘正式启动！](https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194)
-- [【前端瓶子君】手撕前端面试代码题](https://www.ershicimi.com/p/b624de3573d222eedb7f66e38d7d5d57)
+- [【前端宇宙】阿里、腾讯、美团以及网易等一线互联网公司面试总结](https://www.ershicimi.com/p/55e36e75429d1a9542b8199fc1bfb4c1)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

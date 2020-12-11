@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 20:08:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 20:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -48,7 +48,7 @@
 - [2020-12-11-迫于被名词所困，分享一下自己对-Linux-下动态调试工具概念的理解](https://www.v2ex.com/t/734693) 
 - [2020-12-11-c#的-System.Text.Encoding.UTF8.GetString](https://www.v2ex.com/t/734648) 
 - [2020-12-11-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-11-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
+- [2020-12-11-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-11-先声夺人|《2021产业互联网安全十大趋势》发布:云原生安全上榜](https://sec.thief.one/article_content?a_id=9698a40585bdbbff881b18c55d009443) 
 - [2020-12-11-产业互联网安全十大趋势2021](https://sec.thief.one/article_content?a_id=e1979b177d789e3a760cd14920ff548f) 
 - [2020-12-11-每日安全动态推送12-11](https://sec.thief.one/article_content?a_id=fa9001a63945c16bf48cb2e3925a052c) 

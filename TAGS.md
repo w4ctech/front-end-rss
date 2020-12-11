@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-11 14:50:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 15:04:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -525,7 +525,6 @@
 - [【开发者头条】大幅降低存储成本，Elasticsearch-可搜索快照是如何办到的？](https://toutiao.io/k/pidkanb)
 - [【开发者头条】OkHttp-与-HTTP-协议](https://toutiao.io/k/f8accul)
 - [【开发者头条】IBFT-共识算法解析](https://toutiao.io/k/03lcrjk)
-- [【开发者头条】推荐-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x)
 - [【安全热点】为covenant设置http重定向](https://sec.thief.one/article_content?a_id=79bedb7e51a6fa4947ebbc19629cbafb)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -548,6 +547,7 @@
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【InfoQ】GraphQL是API的未来，但它并非银弹](https://www.ershicimi.com/p/0faa77ba62b3ea90becddf16ce5366c3)
 - [【InfoQ】Docker-的第二次死亡](https://www.ershicimi.com/p/29fa84049309a7c25183b782b2b5a294)
+- [【V2EX】Laravel-官方提供了基于-Docker-的本地开发环境解决方案](https://www.v2ex.com/t/734665)
 - [【开发者头条】漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse)
 - [【开发者头条】Docker-出局？你还有-iSula、Containerd-和CRI-O](https://toutiao.io/k/9ohdyi7)
 - [......【查看更多】......](./details/tags/server.md)

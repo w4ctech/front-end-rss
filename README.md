@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-11 09:47:14，:rocket: 更新条数: +3944， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-11 09:55:29，:rocket: 更新条数: +3944， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,9 @@
 </summary>
 
 
+- [2020-12-11-请教一下-k8s-服务暴露的问题](https://www.v2ex.com/t/734599) ![](assets/new.png)  
+- [2020-12-11-社保为什么不能补缴](https://www.v2ex.com/t/734598) ![](assets/new.png)  
+- [2020-12-11-如果客户端和服务端是同步串行的-socket-通信，是不是不用考虑粘包的问题了](https://www.v2ex.com/t/734597) ![](assets/new.png)  
 - [2020-12-11-好奇！有什么低成本的设备可以外接-usb-网卡](https://www.v2ex.com/t/734596) ![](assets/new.png)  
 - [2020-12-11-小白问一下-Mac-默认拼音输入法-切换大小写（连续输入）的正确姿势是什么？实在有点难受](https://www.v2ex.com/t/734594) ![](assets/new.png)  
 - [2020-12-11-寻求融合电路板的相关技术资料](https://www.v2ex.com/t/734593) ![](assets/new.png)  
@@ -1091,9 +1094,6 @@
 - [2020-12-11-iPhone-X-iOS14-关-wifi-切-4g-很慢-有同样情况的吗](https://www.v2ex.com/t/734576) ![](assets/new.png)  
 - [2020-12-11-根据朋友的经历-写了首-Rap-哈哈哈哈哈](https://www.v2ex.com/t/734575) ![](assets/new.png)  
 - [2020-12-11-新建-Rocky-Linux-群组，-CentOS-替代项目](https://www.v2ex.com/t/734574) ![](assets/new.png)  
-- [2020-12-11-怎么能更好地记住技术知识点呢？](https://www.v2ex.com/t/734573) ![](assets/new.png)  
-- [2020-12-11-对比-MyBatis，你看出什么端倪？](https://www.v2ex.com/t/734572) ![](assets/new.png)  
-- [2020-12-11-问问大家智能锁（指纹锁）用的什么品牌](https://www.v2ex.com/t/734571) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

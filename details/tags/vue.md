@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 09:41:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 09:47:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -78,8 +78,7 @@
 - [2020-11-26-从0到1熟悉VUE，只需3天！](https://www.ershicimi.com/p/cda44a7d05868dc91f7414c2439d5a92) 
 - [2020-11-23-如果Element-UI-不维护了，也不支持-Vue3.0-了，怎么办？](https://www.ershicimi.com/p/5c6101bea521ded8894ea81e09dfae85) 
 - [2020-11-19-用一个实战项目快速入门VUE3.0！](https://www.ershicimi.com/p/fc84a2db92ec8ada4ee7dfd934476f96) 
+- [2020-12-10-Vue3.0+TS打造企业级组件库-快速掌握Vue3企业实际应用](https://juejin.im/post/6904901153872412680) 
 - [2020-12-10-vue中使用Three.js心得记录](https://juejin.im/post/6904899502923055117) 
-- [2020-12-10-Vue-前端接口跨域，本地-Nginx-代理配置](https://juejin.im/post/6904898711667605518) 
-- [2020-12-10-深入浅出vue.js-第十三章-实例方法与全局API的实现原理](https://juejin.im/post/6904895212024233992) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 

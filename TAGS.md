@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-11 11:48:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 12:05:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -525,7 +525,6 @@
 - [【开发者头条】大幅降低存储成本，Elasticsearch-可搜索快照是如何办到的？](https://toutiao.io/k/pidkanb)
 - [【开发者头条】OkHttp-与-HTTP-协议](https://toutiao.io/k/f8accul)
 - [【开发者头条】IBFT-共识算法解析](https://toutiao.io/k/03lcrjk)
-- [【开发者头条】推荐-ElasticSearch-使用规范-beta-版](https://toutiao.io/k/6qqfb9x)
 - [【安全热点】为covenant设置http重定向](https://sec.thief.one/article_content?a_id=79bedb7e51a6fa4947ebbc19629cbafb)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

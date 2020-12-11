@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 06:09:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 06:37:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -33,6 +33,7 @@
 - [2020-12-03-20个常用的JavaScript简写技巧](https://www.ershicimi.com/p/474fa86f567db5202b3ab8253f7e90b3) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
+- [2020-12-11-WebAssembly-如何提升-JavaScript-的性能？](https://www.ershicimi.com/p/d598d3b947b55e4c4d623fa9831712db) 
 - [2020-12-10-【第2143期】CSS变量对JS交互组件开发带来的提升与变革](https://www.ershicimi.com/p/b8f3eb90594a1b38ab5485fbc44ef473) 
 - [2020-12-05-【第2138期】JavaScript代理的惊人力量](https://www.ershicimi.com/p/c85c191270e8ed254d00b9d1fd3cb61d) 
 - [2020-12-09-两小时搞定-ES6：原理讲解+项目实战](https://www.ershicimi.com/p/b65c475eb70c0c89a1fe92a3a0898706) 

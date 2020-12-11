@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 05:29:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 05:38:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -80,3 +80,4 @@
 - [2020-12-10-自定义-loader-读取-*.vue-文件源码](https://juejin.im/post/6904686261080948750) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
+- [2020-12-11-新版微博-Web-为何使用-jsdelivr-的-Vue-cdn？](https://www.v2ex.com/t/734474) 

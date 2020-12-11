@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-11 17:13:38，:rocket: 更新条数: +1030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-11 17:28:47，:rocket: 更新条数: +3943， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-12-11-12月10日全国新增确诊病例15例-本土病例6例](http://m.china.caixin.com/m/2020-12-11/101638007.html) ![](assets/new.png)  
+- [2020-12-11-聚焦|张文宏：疫苗接种计划何时可以启动](http://m.opinion.caixin.com/m/2020-12-11/101638455.html) ![](assets/new.png)  
+- [2020-12-11-哈兽研建立新冠水貂感染模型-可模拟人类肺部病变](http://m.science.caixin.com/m/2020-12-11/101638346.html) ![](assets/new.png)  
+- [2020-12-11-港府向科兴和复星采购1500万剂新冠疫苗-首批下月到港](http://m.china.caixin.com/m/2020-12-11/101638300.html) ![](assets/new.png)  
+- [2020-12-11-【境内疫情观察】黑龙江新增2例本土病例（12月10日）](http://m.database.caixin.com/m/2020-12-11/101638126.html) ![](assets/new.png)  
+- [2020-12-11-大流行手记|12月10日：首尔建集装箱病房扩床位-研究称意大利儿童去年11月感染新冠](http://m.international.caixin.com/m/2020-12-11/101638028.html) ![](assets/new.png)  
+- [2020-12-10-最新海外疫情：新冠感染近6880万-累计死亡超156万](http://m.international.caixin.com/m/2020-12-10/101637858.html) ![](assets/new.png)  
+- [2020-12-10-香港一住宅成“疫区”-警方派谈判专家劝居民配合检疫](http://m.china.caixin.com/m/2020-12-10/101637967.html) ![](assets/new.png)  
+- [2020-12-10-【境内疫情观察】内蒙古新增1例本土病例（12月9日）](http://m.database.caixin.com/m/2020-12-10/101637710.html) ![](assets/new.png)  
+- [2020-12-10-大流行手记|12月9日：英国启动大规模疫苗接种-加拿大批准辉瑞疫苗上市](http://m.international.caixin.com/m/2020-12-10/101637605.html) ![](assets/new.png)  
+- [2020-12-09-【境内疫情观察】四川新增4例本土病例（12月8日）](http://m.database.caixin.com/m/2020-12-09/101637376.html) ![](assets/new.png)  
+- [2020-12-09-大流行手记|12月8日：印度三款疫苗申请紧急使用-中东多国部署疫苗采购](http://m.international.caixin.com/m/2020-12-09/101637221.html) ![](assets/new.png)  
+- [2020-12-09-【图集】成都全市核酸扩大检测-已覆盖25.52万人](http://m.photos.caixin.com/m/2020-12-09/101637238.html) ![](assets/new.png)  
+- [2020-12-09-成都全市核酸扩大检测-已覆盖25.52万人](http://m.photos.caixin.com/m/2020-12-09/101637238.html) ![](assets/new.png)  
+- [2020-12-08-香港新冠重症患者增加-港府颁新规可要求“封锁检测”](http://m.china.caixin.com/m/2020-12-08/101637076.html) ![](assets/new.png)  
+- [2020-12-08-成都新冠本土病例增至5例-所涉村庄和医院已实施封控](https://m.caixin.com/m/2020-12-08/101636790.html) ![](assets/new.png)  
+- [2020-12-08-【境内疫情观察】四川新增2例本土病例（12月7日）](http://m.database.caixin.com/m/2020-12-08/101636899.html) ![](assets/new.png)  
+- [2020-12-08-大流行手记|12月7日：印尼土耳其等国订购中国疫苗-韩国将加大病毒检测力度](https://m.caixin.com/m/2020-12-08/101636807.html) ![](assets/new.png)  
+- [2020-12-07-成都新增1例确诊病例，系白天通报病例丈夫](https://m.caixin.com/m/2020-12-07/101636741.html) ![](assets/new.png)  
+- [2020-12-07-成都郫都区新增1例新冠肺炎确诊病例](http://m.china.caixin.com/m/2020-12-07/101636491.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1066,7 +1086,6 @@
 - [2020-12-11-妙控鼠标滚轮失灵重新连接又好了](https://www.v2ex.com/t/734673) ![](assets/new.png)  
 - [2020-12-11-有没有办法拦截所有*.baidu.com-的域名指向到本地-localhost](https://www.v2ex.com/t/734672) ![](assets/new.png)  
 - [2020-12-11-Big-Sur-和-iOS14-之间的-Handoff-和共享剪贴板失效了](https://www.v2ex.com/t/734670) ![](assets/new.png)  
-- [2020-12-11-版权局对软件正版化工作进行督导检查，关于正版-windows-系统/OFFICE-办公软件的授权探讨](https://www.v2ex.com/t/734669) ![](assets/new.png)  
 - [2020-12-11-为什么国产-APP-喜欢声明闪光灯权限？](https://www.v2ex.com/t/734668) ![](assets/new.png)  
 - [2020-12-11-看阿里云-T-盘热火朝天，不知道大家体验没-teambition-的其他功能，项目和待办是相通的，在项目里设置的任务会显示在待办提醒中，就是目前不知道待办怎么设置能...](https://www.v2ex.com/t/734667) ![](assets/new.png)  
 - [2020-12-11-Laravel-官方提供了基于-Docker-的本地开发环境解决方案](https://www.v2ex.com/t/734665) ![](assets/new.png)  
@@ -1074,6 +1093,7 @@
 - [2020-12-11-HomePod-mini-的声音有点失望了](https://www.v2ex.com/t/734663) ![](assets/new.png)  
 - [2020-12-11-一款功能强大的答题小程序](https://www.v2ex.com/t/734662) ![](assets/new.png)  
 - [2020-12-11-有没有不对顾客推销的药店？](https://www.v2ex.com/t/734661) ![](assets/new.png)  
+- [2020-12-11-字节跳动-杭州电商团队招聘](https://www.v2ex.com/t/734658) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

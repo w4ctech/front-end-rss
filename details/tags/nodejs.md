@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-10 23:55:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 00:08:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,11 +7,9 @@
 
 
 
-- [2020-12-08-【第2141期】Promise-V8-源码分析二](https://www.ershicimi.com/p/7dab4075c6535021907bdfbfef5b280b) 
 - [2020-12-04-JavaScript-引擎-V8-执行流程概述](https://www.ershicimi.com/p/6ab2647515bc4d785a757c13608c39f0) 
 - [2020-08-02-如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082) 
 - [2020-12-05-都-2020-年了，该如何开发-Node.js-Native-Add-on？](https://www.ershicimi.com/p/239d49cd9e43e2c961ac1ef45fa3afcf) 
-- [2020-11-30-写给前端的-Jenkins-教程——快速实现前端/-Node.js-项目的-CI/CD](https://www.ershicimi.com/p/996261327022b35565cf5a2bfa4e2c46) 
 - [2020-12-10-前端科普系列（2）：Node.js-换个角度看世界](https://www.ershicimi.com/p/3962ce76cd801e71000604c56a3acced) 
 - [2020-12-07-探索异步迭代器在-Node.js-中的使用](https://www.ershicimi.com/p/dfb30d6c338000014dd14e00733f6d3c) 
 - [2020-11-25-Node.js-开发实践，前端工程师的-MVP-利器](https://www.ershicimi.com/p/ec71e82889e910eba1c57669716781b6) 

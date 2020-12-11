@@ -17310,28 +17310,28 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "jsliang 求职系列 - 39 - HTML 系列总结",
-        "link": "https://juejin.im/post/6904760231457193991",
+        "title": "使用Swiper快速实现3D效果轮播",
+        "link": "https://juejin.im/post/6904811612809625614",
         "date": "2020-12-10"
       },
       {
-        "title": "滴滴开源小桔棱镜：一款专注移动端操作行为的利器",
-        "link": "https://juejin.im/post/6904676606845911053",
+        "title": "深入浅出vue.js 第九章 解析器",
+        "link": "https://juejin.im/post/6904810162461573128",
         "date": "2020-12-10"
       },
       {
-        "title": "前端玩转位运算(N皇后+Vue3位运算应用)",
-        "link": "https://juejin.im/post/6904595258915422215",
+        "title": "JavaScript | 思维导图 | 这些高阶函数你都会了吗？",
+        "link": "https://juejin.im/post/6904807188930232333",
         "date": "2020-12-10"
       },
       {
-        "title": "使用 Performance 看看浏览器在做什么",
-        "link": "https://juejin.im/post/6904582930174705677",
+        "title": "html,css,js",
+        "link": "https://juejin.im/post/6904806113938505742",
         "date": "2020-12-10"
       },
       {
-        "title": "图文结合深入理解 JS 中的 this 值",
-        "link": "https://juejin.im/post/6904567180491735054",
+        "title": "如何用js给老婆每天发情话",
+        "link": "https://juejin.im/post/6904805497845579783",
         "date": "2020-12-10"
       }
     ]
@@ -17719,6 +17719,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何禁用 windows10 麦克风自动增益？",
+        "link": "https://www.v2ex.com/t/734398",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "头发一天不洗就很油，是要秃了吗？",
+        "link": "https://www.v2ex.com/t/734397",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "苹果官方回收貌似不是那么靠谱",
+        "link": "https://www.v2ex.com/t/734396",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "做数据分析的时候你用的是 Python ？还是 pandas 和 numpy 以及其他三方库？",
+        "link": "https://www.v2ex.com/t/734395",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "go 服务与 PHP 通信的最佳实践是？",
+        "link": "https://www.v2ex.com/t/734393",
+        "date": "2020-12-11"
+      },
+      {
         "title": "「发个牢骚&问问同行」公司和华为合作以后，天天骂华为",
         "link": "https://www.v2ex.com/t/734392",
         "date": "2020-12-11"
@@ -17877,26 +17902,6 @@
         "title": "20 分钟带你掌握 JavaScript Promise 和 Async/Await",
         "link": "https://www.v2ex.com/t/734351",
         "date": "2020-12-11"
-      },
-      {
-        "title": "[三七互娱内推-社招-初/中 PHP 工程师 13-25K] [广州]",
-        "link": "https://www.v2ex.com/t/734350",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "redis 性能问题",
-        "link": "https://www.v2ex.com/t/734347",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "vscode 打开 markdown 文件，能否按花括号折叠区块",
-        "link": "https://www.v2ex.com/t/734346",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "10 元招行喵",
-        "link": "https://www.v2ex.com/t/734344",
-        "date": "2020-12-11"
       }
     ]
   },
@@ -17905,6 +17910,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "银行规模化敏捷的窘境 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14050&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fscale-agile-transformation-four-steps%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-12-11"
+      },
       {
         "title": "我的笔记系统 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14049&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fnote-taking-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -17999,11 +18009,6 @@
         "title": "蒂森克虏伯上云 加速跨境访问 、降低网络延时 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14031&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7322%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-12-11"
-      },
-      {
-        "title": "游戏公司通过云分期 保障业务如期上线 (yqh.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14030&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9364%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-11"
       }
     ]
   },
@@ -18023,13 +18028,13 @@
         "date": "2020-12-11"
       },
       {
-        "title": "基于 qiankun 的微前端最佳实践",
-        "link": "https://toutiao.io/k/5kg314l",
+        "title": "漫话 Docker 的衰落与 Kubernetes 的兴起",
+        "link": "https://toutiao.io/k/h3ooyse",
         "date": "2020-12-11"
       },
       {
-        "title": "漫话 Docker 的衰落与 Kubernetes 的兴起",
-        "link": "https://toutiao.io/k/h3ooyse",
+        "title": "基于 qiankun 的微前端最佳实践",
+        "link": "https://toutiao.io/k/5kg314l",
         "date": "2020-12-11"
       },
       {
@@ -18038,13 +18043,13 @@
         "date": "2020-12-11"
       },
       {
-        "title": "Golang 语言使用标准库 net/rpc/jsonrpc 包跨语言远程调用",
-        "link": "https://toutiao.io/k/fcea7zx",
+        "title": "程序员培养之道",
+        "link": "https://toutiao.io/k/s263y3a",
         "date": "2020-12-11"
       },
       {
-        "title": "程序员培养之道",
-        "link": "https://toutiao.io/k/s263y3a",
+        "title": "Golang 语言使用标准库 net/rpc/jsonrpc 包跨语言远程调用",
+        "link": "https://toutiao.io/k/fcea7zx",
         "date": "2020-12-11"
       },
       {
@@ -18103,13 +18108,18 @@
         "date": "2020-12-11"
       },
       {
-        "title": "[推荐] 编程语言学习心得 （精简版）：不要害怕遗忘",
-        "link": "https://toutiao.io/k/ssh2p81",
+        "title": "[推荐] 前端高效开发必备的 js 库梳理",
+        "link": "https://toutiao.io/k/rtusig3",
         "date": "2020-12-11"
       },
       {
-        "title": "[推荐] 最近做 Code Review 的 5 点经验分享",
-        "link": "https://toutiao.io/k/5sw3syp",
+        "title": "[推荐] 四种缓存的避坑总结",
+        "link": "https://toutiao.io/k/fzh8zfu",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] 缓存击穿、穿透、雪崩简单总结",
+        "link": "https://toutiao.io/k/yehwkm6",
         "date": "2020-12-11"
       },
       {
@@ -18118,8 +18128,13 @@
         "date": "2020-12-11"
       },
       {
-        "title": "[推荐] 前端高效开发必备的 js 库梳理",
-        "link": "https://toutiao.io/k/rtusig3",
+        "title": "[推荐] ElasticSearch 使用规范 beta 版",
+        "link": "https://toutiao.io/k/6qqfb9x",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] AutoExcel 实现百万数据秒级导入导出",
+        "link": "https://toutiao.io/k/ui65fqe",
         "date": "2020-12-11"
       },
       {
@@ -18138,33 +18153,8 @@
         "date": "2020-12-11"
       },
       {
-        "title": "[推荐] AutoExcel 实现百万数据秒级导入导出",
-        "link": "https://toutiao.io/k/ui65fqe",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] 缓存击穿、穿透、雪崩简单总结",
-        "link": "https://toutiao.io/k/yehwkm6",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] 中台的本质及中台建设的 4 点思考",
-        "link": "https://toutiao.io/k/9octogz",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] ElasticSearch 使用规范 beta 版",
-        "link": "https://toutiao.io/k/6qqfb9x",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] CTO 怒了：“如果中台不省钱，我建个屁中台啊！”",
-        "link": "https://toutiao.io/k/batmypd",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "[推荐] 四种缓存的避坑总结",
-        "link": "https://toutiao.io/k/fzh8zfu",
+        "title": "[推荐] 隐秘的 MySQL 类型转换",
+        "link": "https://toutiao.io/k/27nwbyu",
         "date": "2020-12-11"
       },
       {
@@ -18173,8 +18163,23 @@
         "date": "2020-12-11"
       },
       {
+        "title": "[推荐] 中台的本质及中台建设的 4 点思考",
+        "link": "https://toutiao.io/k/9octogz",
+        "date": "2020-12-11"
+      },
+      {
         "title": "[推荐] 从烟囱式到 SOA 再到微服务，我把阿里面试官说懵了",
         "link": "https://toutiao.io/k/otecb5i",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] CTO 怒了：“如果中台不省钱，我建个屁中台啊！”",
+        "link": "https://toutiao.io/k/batmypd",
+        "date": "2020-12-11"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了 | 码农周刊第 325 期",
+        "link": "https://toutiao.io/k/xvysg5s",
         "date": "2020-12-11"
       }
     ]

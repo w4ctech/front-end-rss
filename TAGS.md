@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-11 02:45:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 02:54:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -243,7 +243,6 @@
 
 - [【程序员成长指北】纯CSS实现密室逃脱游戏](https://www.ershicimi.com/p/85fe84fc77c0e95bebdb7eb1599ba0cb)
 - [【技术头条】冠赢网络上云-游戏盾彻底解决DDoS/CC攻击-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14039&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9097%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】游戏公司通过云分期-保障业务如期上线-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14030&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9364%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】赛博朋克2077的游戏启动程序存在恶意利用风险](https://sec.thief.one/article_content?a_id=9a0338c1bb56048b968c01e8fabdf32a)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -333,6 +332,7 @@
 
 - [【前端大学】File、Blob、dataURL-和-canvas-的应用与转换](https://www.ershicimi.com/p/eb9cad4fe60f2e2b607dcd4542b568b4)
 - [【前端瓶子君】File、Blob、dataURL-和-canvas-的应用与转换](https://www.ershicimi.com/p/5709e69ab742ca5d5c9b63e05979c354)
+- [【掘金前端】使用Swiper快速实现3D效果轮播](https://juejin.im/post/6904811612809625614)
 - [【V2EX】求助-Pyautogui-不同屏幕分辨率處理](https://www.v2ex.com/t/734366)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
@@ -396,7 +396,6 @@
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【互联网架构师】52-条-SQL-语句性能优化策略，建议收藏！](https://www.ershicimi.com/p/941610dbdcb6cc827189900a78d9d390)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【V2EX】redis-性能问题](https://www.v2ex.com/t/734347)
 - [【开发者头条】C++-服务编译耗时优化原理及实践](https://toutiao.io/k/y7lrnch)
 - [【开发者头条】推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8)
 - [......【查看更多】......](./details/tags/optimization.md)

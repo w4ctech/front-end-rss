@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 08:36:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 08:44:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -41,5 +41,4 @@
 - [2020-12-11-阿里云-云原生-中间件招聘（深圳/杭州）](https://www.v2ex.com/t/734564) 
 - [2020-12-11-SAP-西安招聘后端工程师](https://www.v2ex.com/t/734525) 
 - [2020-12-11-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
-- [2020-12-11-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) 
 - [2020-12-09-中央网信办所属部分在京事业单位2021年度公开招聘公告](https://sec.thief.one/article_content?a_id=2ebaa629ec0fb9a51298c8b1a6c0bf51) 

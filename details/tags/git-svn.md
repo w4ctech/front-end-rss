@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 02:54:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 03:04:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -8,7 +8,6 @@
 
 
 - [2020-12-07-看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/754ebe77bf069f92672b1db51d070fbb) 
-- [2020-12-02-Github上看到的4个沙雕开源项目](https://www.ershicimi.com/p/f533db7744ec7554322c2c9012fcc7f2) 
 - [2020-12-08-GitHub-月榜第-3，微软的老照片修复工具火了](https://www.ershicimi.com/p/2ed6fb21af2fe1544662cd80763a7974) 
 - [2020-12-01-Github上看到的4个好玩的开源项目](https://www.ershicimi.com/p/33b7aebd05ba7023930b29d043c10bdd) 
 - [2020-12-07-给自己点时间再记记这200条Git命令](https://www.ershicimi.com/p/58f22de794053f123a8a9ab1394cf8d8) 

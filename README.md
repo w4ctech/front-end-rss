@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-11 02:54:33，:rocket: 更新条数: +3703， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-11 03:04:46，:rocket: 更新条数: +3702， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -143,6 +143,17 @@
 </summary>
 
 
+- [2020-12-11-知乎热点：为什么程序员互相之间不能透露薪水?](https://www.ershicimi.com/p/68070951d0ccab4b6d92046c6d7eb3eb) ![](assets/new.png)  
+- [2020-12-11-面试官：SPA（单页应用）首屏加载速度慢怎么解决？](https://www.ershicimi.com/p/7118fde4bf9848809564f17dfca09369) ![](assets/new.png)  
+- [2020-12-11-网页骨架屏自动生成方案](https://www.ershicimi.com/p/c2f792e7acd3cfec11b14948fc904608) ![](assets/new.png)  
+- [2020-12-10-附实战全过程！2020最强VUE+ElementUI管理项目来了！](https://www.ershicimi.com/p/4766bfa8563d7033acae7da485933ba1) ![](assets/new.png)  
+- [2020-12-10-面试官：为什么Vue中的v-if和v-for不建议一起用?](https://www.ershicimi.com/p/5080a573b21e5aab36f9ea1a5971d9b1) ![](assets/new.png)  
+- [2020-12-10-技巧：文本超过N行折叠内容并显示“...查看全部”](https://www.ershicimi.com/p/25d177b0a666dbd29a1ea7df65f72e80) ![](assets/new.png)  
+- [2020-12-09-Vue-Router-4.0-正式发布！](https://www.ershicimi.com/p/c8829bacd81b8c011881265a266c8950) ![](assets/new.png)  
+- [2020-12-09-Vue项目打包部署总结](https://www.ershicimi.com/p/b5e7e967efe34157ec2fd8cb7203220a) ![](assets/new.png)  
+- [2020-12-08-进阶：玩转-CSS-变量](https://www.ershicimi.com/p/eb50eab2e1c1fbdb4c032420fbc00f62) ![](assets/new.png)  
+- [2020-12-08-前端团队研发效能提升的探索与实践](https://www.ershicimi.com/p/c8e32a606a0ad51449b01c3f4c781e4d) ![](assets/new.png)  
+- [2020-12-08-面试官：Vue中的v-show和v-if怎么理解？](https://www.ershicimi.com/p/ce57d331b961ab743070fb3a9cabc819) ![](assets/new.png)  
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/d281b048adc7a62c0a493790e81911f2) ![](assets/new.png)  
 - [2020-12-07-面试官：Vue组件间通信方式都有哪些?](https://www.ershicimi.com/p/c76416a6de9426fbadc6ded320b45c26) ![](assets/new.png)  
 - [2020-12-07-看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/754ebe77bf069f92672b1db51d070fbb) ![](assets/new.png)  
@@ -152,17 +163,6 @@
 - [2020-12-04-面试官：说说你对Vue生命周期的理解?](https://www.ershicimi.com/p/c6ecdb41472a4a876eb52fb37d399079) ![](assets/new.png)  
 - [2020-12-04-一些比较恶心的代码片段](https://www.ershicimi.com/p/7f8de4f2023ef7a51ee20a4971d30498) ![](assets/new.png)  
 - [2020-12-03-20个常用的JavaScript简写技巧](https://www.ershicimi.com/p/474fa86f567db5202b3ab8253f7e90b3) ![](assets/new.png)  
-- [2020-12-03-面试官：说说你对双向绑定的理解?](https://www.ershicimi.com/p/72c12c70bab5bae2c11cdeb50319e8c6) ![](assets/new.png)  
-- [2020-12-03-一行能装逼的JavaScript代码](https://www.ershicimi.com/p/356ce5cf0c5cf485d9031d5e7b093114) ![](assets/new.png)  
-- [2020-12-02-作为前端，你真的了解你的浏览器吗？](https://www.ershicimi.com/p/32e7d2fd549b3fd7240442c803d0b214) ![](assets/new.png)  
-- [2020-12-02-Element-UI-for-Vue-3.0-来了！](https://www.ershicimi.com/p/e42356bac6a40995f476752bd919d9c2) ![](assets/new.png)  
-- [2020-12-02-Github上看到的4个沙雕开源项目](https://www.ershicimi.com/p/f533db7744ec7554322c2c9012fcc7f2) ![](assets/new.png)  
-- [2020-12-01-【附源码】用Vue写了一个类抖音界面短视频项目，可在线刷](https://www.ershicimi.com/p/628e25c0042e124150df8e9e5d300b79) ![](assets/new.png)  
-- [2020-12-01-面试官：说说你对SPA（单页应用）的理解?](https://www.ershicimi.com/p/809f500d661e53372c80ff5b68584de2) ![](assets/new.png)  
-- [2020-12-01-大厂机密！30-个提升团队研发效能的锦囊](https://www.ershicimi.com/p/6fa37653b1e0e3b9747a10085a46249e) ![](assets/new.png)  
-- [2020-11-30-大牛必备：前端与图形学](https://www.ershicimi.com/p/3e22cc8c37d487210ca65bd0e3d73bcf) ![](assets/new.png)  
-- [2020-11-30-推荐-20个提高开发效率的-VS-Code-快捷键！](https://www.ershicimi.com/p/d13229e637f23992fe081b5061bce52c) ![](assets/new.png)  
-- [2020-11-30-面试官：说说你对vue的理解?](https://www.ershicimi.com/p/bbb6e67a4b9c35d6c8b19a65c3356109) ![](assets/new.png)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -934,11 +934,11 @@
 </summary>
 
 
-- [2020-12-10-使用Swiper快速实现3D效果轮播](https://juejin.im/post/6904811612809625614) ![](assets/new.png)  
-- [2020-12-10-深入浅出vue.js-第九章-解析器](https://juejin.im/post/6904810162461573128) ![](assets/new.png)  
-- [2020-12-10-JavaScript-|-思维导图-|-这些高阶函数你都会了吗？](https://juejin.im/post/6904807188930232333) ![](assets/new.png)  
-- [2020-12-10-html,css,js](https://juejin.im/post/6904806113938505742) ![](assets/new.png)  
-- [2020-12-10-如何用js给老婆每天发情话](https://juejin.im/post/6904805497845579783) ![](assets/new.png)  
+- [2020-12-10-教你使用Dumi和father-build快速搭建React组件库](https://juejin.im/post/6904795653243994125) ![](assets/new.png)  
+- [2020-12-10-Javascript-设计模式---模板模式-&-适配器模式](https://juejin.im/post/6904794930271485965) ![](assets/new.png)  
+- [2020-12-10-dayjs源码解析（一）：概念、locale、constant、utils](https://juejin.im/post/6904788527205056520) ![](assets/new.png)  
+- [2020-12-10-翻译-|-《JavaScript-Everywhere》第23章-GraphQL和React-Native](https://juejin.im/post/6904771157635891214) ![](assets/new.png)  
+- [2020-12-10-深入理解JS中的类型转化](https://juejin.im/post/6904733371411202056) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1054,8 +1054,8 @@
 </summary>
 
 
+- [2020-12-11-国内-APP-软件商店上架一个-APP-怎么这么难呐](https://www.v2ex.com/t/734402) ![](assets/new.png)  
 - [2020-12-11-如何禁用-windows10-麦克风自动增益？](https://www.v2ex.com/t/734398) ![](assets/new.png)  
-- [2020-12-11-头发一天不洗就很油，是要秃了吗？](https://www.v2ex.com/t/734397) ![](assets/new.png)  
 - [2020-12-11-苹果官方回收貌似不是那么靠谱](https://www.v2ex.com/t/734396) ![](assets/new.png)  
 - [2020-12-11-做数据分析的时候你用的是-Python-？还是-pandas-和-numpy-以及其他三方库？](https://www.v2ex.com/t/734395) ![](assets/new.png)  
 - [2020-12-11-go-服务与-PHP-通信的最佳实践是？](https://www.v2ex.com/t/734393) ![](assets/new.png)  
@@ -1134,8 +1134,8 @@
 - [2020-12-11-IBFT-共识算法解析](https://toutiao.io/k/03lcrjk) ![](assets/new.png)  
 - [2020-12-11-OkHttp-与-HTTP-协议](https://toutiao.io/k/f8accul) ![](assets/new.png)  
 - [2020-12-11-LeetCode-题解：盛最多水的容器](https://toutiao.io/k/6hbq0ia) ![](assets/new.png)  
-- [2020-12-11-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
-- [2020-12-11-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) ![](assets/new.png)  
+- [2020-12-11-Lucene-ReaderPool（一）](https://toutiao.io/k/bgmsm6e) ![](assets/new.png)  
+- [2020-12-11-分库分表真的是提高数据库查询性能的银弹嘛？](https://toutiao.io/k/qetjd9i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

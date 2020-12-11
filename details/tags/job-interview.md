@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 02:54:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 03:04:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -11,8 +11,6 @@
 - [2020-12-09-字节跳动年底招聘-10000-人，看看你符合条件么？](https://www.ershicimi.com/p/45becc670feffb4cf743c60c3ba28698) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/d281b048adc7a62c0a493790e81911f2) 
 - [2020-12-05-【信条】手撕吊打面试官系列面试题](https://www.ershicimi.com/p/469547f79b452a5e5df450207cbfb6c0) 
-- [2020-12-03-面试官：说说你对双向绑定的理解?](https://www.ershicimi.com/p/72c12c70bab5bae2c11cdeb50319e8c6) 
-- [2020-12-01-面试官：说说你对SPA（单页应用）的理解?](https://www.ershicimi.com/p/809f500d661e53372c80ff5b68584de2) 
 - [2020-12-09-【招聘】蚂蚁RichLab招聘高级前端工程师](https://www.ershicimi.com/p/9f4c13cc568d7bddfcadda57b67f074a) 
 - [2020-12-04-【招聘】大地量子前端团队招前端专家、资深前端工程师](https://www.ershicimi.com/p/4f6c51ed2f972693602ac155af51b0b0) 
 - [2020-12-03-【招聘】阿里CBU体验技术团队招前端技术专家](https://www.ershicimi.com/p/75596f39539887f432bf70524872a9a4) 
@@ -43,5 +41,4 @@
 - [2020-12-11-灵均投资-招聘：量化研究员-统计博士](https://www.v2ex.com/t/734373) 
 - [2020-12-11-大家是怎么看待面试笔试这个问题](https://www.v2ex.com/t/734360) 
 - [2020-12-11-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) 
-- [2020-12-11-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) 
 - [2020-12-09-中央网信办所属部分在京事业单位2021年度公开招聘公告](https://sec.thief.one/article_content?a_id=2ebaa629ec0fb9a51298c8b1a6c0bf51) 

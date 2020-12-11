@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-11 02:54:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-11 03:04:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -15,12 +15,14 @@
 - [2020-11-20-Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://www.ershicimi.com/p/81af055f62c0fe98da6886323c875523) 
 - [2020-11-19-来一起用Vue3.0开发组件造轮子！](https://www.ershicimi.com/p/c6ca66cc1f8f2d4dbbb94b86f9b027ba) 
 - [2020-11-17-Vue之父尤雨溪深度解读Vue3.0开发思路【附在线视频】](https://www.ershicimi.com/p/43a4ccee3324619d7497fd3f8333b2f2) 
+- [2020-12-10-附实战全过程！2020最强VUE+ElementUI管理项目来了！](https://www.ershicimi.com/p/4766bfa8563d7033acae7da485933ba1) 
+- [2020-12-10-面试官：为什么Vue中的v-if和v-for不建议一起用?](https://www.ershicimi.com/p/5080a573b21e5aab36f9ea1a5971d9b1) 
+- [2020-12-09-Vue-Router-4.0-正式发布！](https://www.ershicimi.com/p/c8829bacd81b8c011881265a266c8950) 
+- [2020-12-09-Vue项目打包部署总结](https://www.ershicimi.com/p/b5e7e967efe34157ec2fd8cb7203220a) 
+- [2020-12-08-面试官：Vue中的v-show和v-if怎么理解？](https://www.ershicimi.com/p/ce57d331b961ab743070fb3a9cabc819) 
 - [2020-12-07-面试官：Vue组件间通信方式都有哪些?](https://www.ershicimi.com/p/c76416a6de9426fbadc6ded320b45c26) 
 - [2020-12-05-基于Vue的前端架构，我做了这15点](https://www.ershicimi.com/p/4ecfb408c29a6ec75c978fa2e8b6b97e) 
 - [2020-12-04-面试官：说说你对Vue生命周期的理解?](https://www.ershicimi.com/p/c6ecdb41472a4a876eb52fb37d399079) 
-- [2020-12-02-Element-UI-for-Vue-3.0-来了！](https://www.ershicimi.com/p/e42356bac6a40995f476752bd919d9c2) 
-- [2020-12-01-【附源码】用Vue写了一个类抖音界面短视频项目，可在线刷](https://www.ershicimi.com/p/628e25c0042e124150df8e9e5d300b79) 
-- [2020-11-30-面试官：说说你对vue的理解?](https://www.ershicimi.com/p/bbb6e67a4b9c35d6c8b19a65c3356109) 
 - [2020-12-01-一次就将VueSSR讲通透！](https://www.ershicimi.com/p/790e7718e1440de52964aefceab949c6) 
 - [2020-12-10-研究Vue源码时发现的一些好玩函数](https://www.ershicimi.com/p/d1f20cb0e5693e09b1aa4cfdcef70547) 
 - [2020-12-02-让Jenkins自动布署你的Vue项目](https://www.ershicimi.com/p/ae7b2d36902a68389ec286724192085e) 
@@ -69,6 +71,5 @@
 - [2020-11-23-如果Element-UI-不维护了，也不支持-Vue3.0-了，怎么办？](https://www.ershicimi.com/p/5c6101bea521ded8894ea81e09dfae85) 
 - [2020-11-19-用一个实战项目快速入门VUE3.0！](https://www.ershicimi.com/p/fc84a2db92ec8ada4ee7dfd934476f96) 
 - [2020-11-17-这7个vue技巧，简直让面试加分！](https://www.ershicimi.com/p/5e206d0f44094c5f63393b87e45edfd3) 
-- [2020-12-10-深入浅出vue.js-第九章-解析器](https://juejin.im/post/6904810162461573128) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 

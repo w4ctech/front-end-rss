@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-12-12 07:43:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-12 07:49:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-12-12-官方回应阿里海康等成立HR联盟共享员工信息；ofo退押金要等988年；教育部将编程教育纳入中小学课程](https://www.ershicimi.com/p/14b4d8e3aa876897bef047043c957cdc) 
+- [2020-12-12-5G和云原生时代，技术的下半场从哪里开始？](https://www.ershicimi.com/p/3d44e1b703d4a02b6b9251fd942c0039) 
+- [2020-12-12-HUAWEI-AppGallery-Connect-研习社，破解移动应用的成功密码｜Q推荐](https://www.ershicimi.com/p/eeea8fb41267572d381ba4c3c896d126) 
+- [2020-12-12-数据及AI技术如何更好加持智能网联及出海业务的应用开发？|-Q推荐](https://www.ershicimi.com/p/95d95e392aaa9fb1181c542465248dbe) 
 - [2020-12-11-那个-CEO-写下-70-万行代码的公司，马上要上市了](https://www.ershicimi.com/p/fda595eea1753f4d93b336060bd1b9ac) 
 - [2020-12-11-给世界多一个操作系统的选择，openEuler的开源故事](https://www.ershicimi.com/p/109328fe3c1667ed91fd6f96e995a287) 
 - [2020-12-11-技术赋能原来如此轻松！15分钟教你企业智慧变革的最佳路径-｜-Q推荐](https://www.ershicimi.com/p/6147d7bdedea09db357c84220b493746) 
@@ -21,7 +25,3 @@
 - [2020-12-09-腾讯云这场数据库行业的年度盛会，见证国产力量的崛起之道-｜-Q推荐](https://www.ershicimi.com/p/7aed0cc62e96085f2b68ed4561bfe3b5) 
 - [2020-12-09-数据科学岗位将在十年后消失？](https://www.ershicimi.com/p/e55895c8cbd4c89a2fd570b973b95fad) 
 - [2020-12-08-上线2年，日调用量7亿次，云开发凭什么？](https://www.ershicimi.com/p/cc1cb05e4686884a482189a8816ae17b) 
-- [2020-12-08-从新旧技术体系替换，看大麦网票务技术体系重塑演进之路](https://www.ershicimi.com/p/e3fdc7337762879c661ac14f775a937b) 
-- [2020-12-08-微服务中台技术解析之分布式事务方案和实践](https://www.ershicimi.com/p/53f8eed65c92323f82684c9c15b2605c) 
-- [2020-12-08-软件专业人员必知的6种现代化架构设计模式](https://www.ershicimi.com/p/171f29e683aab85a53b39b3bb8220e89) 
-- [2020-12-08-给以太坊泼点冷水](https://www.ershicimi.com/p/b358bfc5a5bc9aa74b258ecfc057d936) 

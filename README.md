@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-12 08:05:56，:rocket: 更新条数: +3926， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-12 08:11:54，:rocket: 更新条数: +3935， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -716,6 +716,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,6 +1074,8 @@
 </summary>
 
 
+- [2020-12-12-iOS14-的天气-App-又可以显示国内的-AQI-了](https://www.v2ex.com/t/734794) ![](assets/new.png)  
+- [2020-12-12-Ubuntu-适合用于生产环境服务器吗？](https://www.v2ex.com/t/734792) ![](assets/new.png)  
 - [2020-12-12-突然蹦出来“进一步了解您的-MacBook-Air”](https://www.v2ex.com/t/734789) ![](assets/new.png)  
 - [2020-12-12-上次阿里云送帽衫那个活动，有人拿到货了么](https://www.v2ex.com/t/734788) ![](assets/new.png)  
 - [2020-12-12-jsdelivr-的证书是不是出问题了？](https://www.v2ex.com/t/734787) ![](assets/new.png)  
@@ -1082,8 +1094,6 @@
 - [2020-12-12-关于群辉备份电脑照片的问题](https://www.v2ex.com/t/734767) ![](assets/new.png)  
 - [2020-12-12-掌声生活十元风暴发车！](https://www.v2ex.com/t/734766) ![](assets/new.png)  
 - [2020-12-12-scanner-pro-by-readdle-今天国区免费下载了，但分享有水印](https://www.v2ex.com/t/734765) ![](assets/new.png)  
-- [2020-12-12-纯好奇V-站用了多少台服务器呢？](https://www.v2ex.com/t/734764) ![](assets/new.png)  
-- [2020-12-12-工作近-8-年的-Android-开发应该具备怎么样的项目经验才能进大厂？](https://www.v2ex.com/t/734761) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,16 +1146,16 @@
 - [2020-12-12-羡慕，又一清华学弟斩获-6-个大厂-SSP-Offer](https://toutiao.io/k/27mw41t) ![](assets/new.png)  
 - [2020-12-12-Linkedin-工程团队给新人的-SRE-教程](https://toutiao.io/k/86x4bim) ![](assets/new.png)  
 - [2020-12-12-Struts2-s2-061-Poc-分析](https://toutiao.io/k/nouw9rc) ![](assets/new.png)  
-- [2020-12-12-推荐-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/qvfq564) ![](assets/new.png)  
-- [2020-12-12-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
+- [2020-12-12-推荐-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) ![](assets/new.png)  
+- [2020-12-12-推荐-CTO-怒了：“如果中台不省钱，我建个屁中台啊！”](https://toutiao.io/k/batmypd) ![](assets/new.png)  
+- [2020-12-12-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) ![](assets/new.png)  
+- [2020-12-12-推荐-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) ![](assets/new.png)  
 - [2020-12-12-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
+- [2020-12-12-推荐-编程语言学习心得-（精简版）：不要害怕遗忘](https://toutiao.io/k/ssh2p81) ![](assets/new.png)  
+- [2020-12-12-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
+- [2020-12-12-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
 - [2020-12-12-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
 - [2020-12-12-推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) ![](assets/new.png)  
-- [2020-12-12-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
-- [2020-12-12-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
-- [2020-12-12-推荐-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) ![](assets/new.png)  
-- [2020-12-12-推荐-CTO-怒了：“如果中台不省钱，我建个屁中台啊！”](https://toutiao.io/k/batmypd) ![](assets/new.png)  
-- [2020-12-12-推荐-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

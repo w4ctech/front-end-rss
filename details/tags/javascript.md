@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-12 08:05:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-12 08:11:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -73,6 +73,7 @@
 - [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
 - [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
 - [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) 
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) 
 - [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) 
 - [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) 

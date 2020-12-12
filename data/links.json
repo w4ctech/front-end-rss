@@ -16123,6 +16123,11 @@
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
       {
+        "title": "这组朋友圈，得罪了半个互联网圈！",
+        "link": "https://www.ershicimi.com/p/f8a56ad83c5a71d63ee349f2972a5138",
+        "date": "2020-12-11"
+      },
+      {
         "title": "阿里、腾讯、美团以及网易等一线互联网公司面试总结",
         "link": "https://www.ershicimi.com/p/55e36e75429d1a9542b8199fc1bfb4c1",
         "date": "2020-12-09"
@@ -16215,11 +16220,6 @@
       {
         "title": "行业怪现象：前端总是被鄙视，但又十分抢手~",
         "link": "https://www.ershicimi.com/p/1a86fbb22d32937682d6a15531513f2d",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "书到用时方恨少，一大波JS开发工具函数来了",
-        "link": "https://www.ershicimi.com/p/d233ab10dd97abbcba02b6c1a3a72ed3",
         "date": "2020-11-19"
       }
     ]
@@ -18925,6 +18925,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "甲骨文从加州搬去德州",
+        "link": "https://www.v2ex.com/t/734706",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "目前看来, TP6 还不能运行在 PHP8, 但是 WordPress5.6 可以",
+        "link": "https://www.v2ex.com/t/734704",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "好久不用网易云了，突然发现原来很多乱七八糟的东西是可以关掉的",
+        "link": "https://www.v2ex.com/t/734703",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "真有写一辈子代码的职业么？",
+        "link": "https://www.v2ex.com/t/734702",
+        "date": "2020-12-12"
+      },
+      {
         "title": "订阅推荐（类科技爱好者周刊）",
         "link": "https://www.v2ex.com/t/734701",
         "date": "2020-12-12"
@@ -19068,31 +19088,6 @@
         "title": "[字节跳动] 杭州电商团队招聘",
         "link": "https://www.v2ex.com/t/734658",
         "date": "2020-12-11"
-      },
-      {
-        "title": "Big Sur 的 iCloud 云盘时不时疯狂下载",
-        "link": "https://www.v2ex.com/t/734657",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "硅谷公司，远程工作，招人啦~~",
-        "link": "https://www.v2ex.com/t/734655",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "各位体验阿里云",
-        "link": "https://www.v2ex.com/t/734654",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "上海联通宽带出口彻底完了？",
-        "link": "https://www.v2ex.com/t/734653",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "c#的 socket 这样写对不对啊",
-        "link": "https://www.v2ex.com/t/734652",
-        "date": "2020-12-11"
       }
     ]
   },
@@ -19209,18 +19204,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "万物皆可 Vector 之语言模型：从 N-Gram 到 NNLM、RNNLM",
-        "link": "https://toutiao.io/k/zidjbvr",
-        "date": "2020-12-12"
-      },
-      {
         "title": "MySQL 优化神器",
         "link": "https://toutiao.io/k/qg5adh5",
         "date": "2020-12-12"
       },
       {
-        "title": "Golang 语言标准库 sync 包的 Once 怎么使用？",
-        "link": "https://toutiao.io/k/8fzogdb",
+        "title": "万物皆可 Vector 之语言模型：从 N-Gram 到 NNLM、RNNLM",
+        "link": "https://toutiao.io/k/zidjbvr",
         "date": "2020-12-12"
       },
       {
@@ -19229,58 +19219,38 @@
         "date": "2020-12-12"
       },
       {
+        "title": "Golang 语言标准库 sync 包的 Once 怎么使用？",
+        "link": "https://toutiao.io/k/8fzogdb",
+        "date": "2020-12-12"
+      },
+      {
         "title": "基于 Web 引擎技术的 Web 内容录制",
         "link": "https://toutiao.io/k/zligf67",
         "date": "2020-12-12"
       },
       {
-        "title": "[推荐] 记一次 MySQL 的 insert 死锁",
-        "link": "https://toutiao.io/k/mbyee1y",
+        "title": "基于 wasm 的 openssl 实践",
+        "link": "https://toutiao.io/k/0jid1ow",
         "date": "2020-12-12"
       },
       {
-        "title": "[推荐] AutoExcel 实现百万数据秒级导入导出",
-        "link": "https://toutiao.io/k/ui65fqe",
+        "title": "表驱动法",
+        "link": "https://toutiao.io/k/osb8m95",
         "date": "2020-12-12"
       },
       {
-        "title": "[推荐] 四种缓存的避坑总结",
-        "link": "https://toutiao.io/k/fzh8zfu",
+        "title": "Linkedin 工程团队给新人的 SRE 教程",
+        "link": "https://toutiao.io/k/86x4bim",
         "date": "2020-12-12"
       },
       {
-        "title": "[推荐] 微服务架构下 CI/CD 如何落地",
-        "link": "https://toutiao.io/k/303m5ez",
+        "title": "Struts2 s2-061 Poc 分析",
+        "link": "https://toutiao.io/k/nouw9rc",
         "date": "2020-12-12"
       },
       {
-        "title": "[推荐] 隐秘的 MySQL 类型转换",
-        "link": "https://toutiao.io/k/27nwbyu",
-        "date": "2020-12-12"
-      },
-      {
-        "title": "[推荐] 如何优雅的实现分布式锁",
-        "link": "https://toutiao.io/k/veeydsj",
-        "date": "2020-12-12"
-      },
-      {
-        "title": "[推荐] 从烟囱式到 SOA 再到微服务，我把阿里面试官说懵了",
-        "link": "https://toutiao.io/k/otecb5i",
-        "date": "2020-12-12"
-      },
-      {
-        "title": "[推荐] 实战篇：一个核心系统 3 万多行代码的重构之旅",
-        "link": "https://toutiao.io/k/qvfq564",
-        "date": "2020-12-12"
-      },
-      {
-        "title": "[推荐] 编程语言学习心得 （精简版）：不要害怕遗忘",
-        "link": "https://toutiao.io/k/ssh2p81",
-        "date": "2020-12-12"
-      },
-      {
-        "title": "[推荐] CTO 怒了：“如果中台不省钱，我建个屁中台啊！”",
-        "link": "https://toutiao.io/k/batmypd",
+        "title": "羡慕，又一清华学弟斩获 6 个大厂 SSP Offer",
+        "link": "https://toutiao.io/k/27mw41t",
         "date": "2020-12-12"
       },
       {
@@ -19289,8 +19259,18 @@
         "date": "2020-12-12"
       },
       {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了 | 码农周刊第 325 期",
-        "link": "https://toutiao.io/k/xvysg5s",
+        "title": "[推荐] 缓存击穿、穿透、雪崩简单总结",
+        "link": "https://toutiao.io/k/yehwkm6",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "[推荐] 35 岁以后，不要成为程序员中的钻石",
+        "link": "https://toutiao.io/k/gbakyp5",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "[推荐] CTO 怒了：“如果中台不省钱，我建个屁中台啊！”",
+        "link": "https://toutiao.io/k/batmypd",
         "date": "2020-12-12"
       },
       {
@@ -19304,8 +19284,48 @@
         "date": "2020-12-12"
       },
       {
-        "title": "[推荐] MySQL 查询性能优化前，必须先掌握 MySQL 索引理论",
-        "link": "https://toutiao.io/k/klmrzk8",
+        "title": "[推荐] 记一次 MySQL 的 insert 死锁",
+        "link": "https://toutiao.io/k/mbyee1y",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "[推荐] 彻底搞懂 IO 底层原理",
+        "link": "https://toutiao.io/k/493onla",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了 | 码农周刊第 325 期",
+        "link": "https://toutiao.io/k/xvysg5s",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "[推荐] 实战篇：一个核心系统 3 万多行代码的重构之旅",
+        "link": "https://toutiao.io/k/qvfq564",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "[推荐] AutoExcel 实现百万数据秒级导入导出",
+        "link": "https://toutiao.io/k/ui65fqe",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "[推荐] 隐秘的 MySQL 类型转换",
+        "link": "https://toutiao.io/k/27nwbyu",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "[推荐] 从烟囱式到 SOA 再到微服务，我把阿里面试官说懵了",
+        "link": "https://toutiao.io/k/otecb5i",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "[推荐] 如何优雅的实现分布式锁",
+        "link": "https://toutiao.io/k/veeydsj",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "[推荐] 微服务架构下 CI/CD 如何落地",
+        "link": "https://toutiao.io/k/303m5ez",
         "date": "2020-12-12"
       }
     ]

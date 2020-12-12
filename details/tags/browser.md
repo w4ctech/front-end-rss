@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-12 01:23:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-12 01:57:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -48,7 +48,7 @@
 - [2020-12-11-现在-PCIE-4.0-的-M.2-SSD-速度直接上万兆，-32G-单根的也只要-300-多，用苹果-M1-的眼红怎么办](https://www.v2ex.com/t/734696) 
 - [2020-12-11-迫于被名词所困，分享一下自己对-Linux-下动态调试工具概念的理解](https://www.v2ex.com/t/734693) 
 - [2020-12-12-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-12-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
+- [2020-12-12-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-11-【安全圈】黑客捐赠勒索来的比特币:慈善机构犯难却无法退款](https://sec.thief.one/article_content?a_id=0a84e1c90fc34fb3c383330bc798337f) 
 - [2020-12-11-SecWiki安全招聘第46期](https://sec.thief.one/article_content?a_id=129e62ccab6b4f5fb7ba76d39af74c80) 
 - [2020-12-11-“不讲武德”的勒索江湖,360安全大脑独家披露11月勒索疫情报告](https://sec.thief.one/article_content?a_id=61b30dfbae9b94c98ca9fa3e6abf1ad2) 

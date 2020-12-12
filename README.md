@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-12 01:23:31，:rocket: 更新条数: +3928， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-12 01:57:46，:rocket: 更新条数: +3932， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -557,6 +557,7 @@
 </summary>
 
 
+- [2020-12-11-这组朋友圈，得罪了半个互联网圈！](https://www.ershicimi.com/p/f8a56ad83c5a71d63ee349f2972a5138) ![](assets/new.png)  
 - [2020-12-09-阿里、腾讯、美团以及网易等一线互联网公司面试总结](https://www.ershicimi.com/p/55e36e75429d1a9542b8199fc1bfb4c1) ![](assets/new.png)  
 - [2020-12-08-快速使用Vue3最新的15个常用API](https://www.ershicimi.com/p/b5b135b0d77bd836f20b50c995bc47dc) ![](assets/new.png)  
 - [2020-12-07-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/bfcc0fa011c651c5362949f91ad3d3d9) ![](assets/new.png)  
@@ -576,7 +577,6 @@
 - [2020-11-21-iPad-真香，包邮送一个](https://www.ershicimi.com/p/c14acbaf95b76d5a1b5048ec13a1d854) ![](assets/new.png)  
 - [2020-11-20-怎样的变量命名，才显得有文化？](https://www.ershicimi.com/p/a559af22aeff572b2e18878deb98da20) ![](assets/new.png)  
 - [2020-11-19-行业怪现象：前端总是被鄙视，但又十分抢手~](https://www.ershicimi.com/p/1a86fbb22d32937682d6a15531513f2d) ![](assets/new.png)  
-- [2020-11-19-书到用时方恨少，一大波JS开发工具函数来了](https://www.ershicimi.com/p/d233ab10dd97abbcba02b6c1a3a72ed3) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端宇宙.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,6 +1074,10 @@
 </summary>
 
 
+- [2020-12-12-甲骨文从加州搬去德州](https://www.v2ex.com/t/734706) ![](assets/new.png)  
+- [2020-12-12-目前看来,-TP6-还不能运行在-PHP8,-但是-WordPress5.6-可以](https://www.v2ex.com/t/734704) ![](assets/new.png)  
+- [2020-12-12-好久不用网易云了，突然发现原来很多乱七八糟的东西是可以关掉的](https://www.v2ex.com/t/734703) ![](assets/new.png)  
+- [2020-12-12-真有写一辈子代码的职业么？](https://www.v2ex.com/t/734702) ![](assets/new.png)  
 - [2020-12-12-订阅推荐（类科技爱好者周刊）](https://www.v2ex.com/t/734701) ![](assets/new.png)  
 - [2020-12-12-PDD-上抢到了-300-卷-iphone12-可以入吗](https://www.v2ex.com/t/734700) ![](assets/new.png)  
 - [2020-12-12-你们都怎么样给自己充电呢？](https://www.v2ex.com/t/734698) ![](assets/new.png)  
@@ -1090,10 +1094,6 @@
 - [2020-12-11-恢复模式下压了下-Air-M1-16+256-全盘缓外速度，有点失望](https://www.v2ex.com/t/734680) ![](assets/new.png)  
 - [2020-12-11-为什么-cmder-被称作是终端模拟器console-emulators，什么是真正意义的-console？](https://www.v2ex.com/t/734679) ![](assets/new.png)  
 - [2020-12-11-用过一堆待办软件，包括番茄-todo，微软待办，滴答清单，阿里云-teambition-待办，要说没广告不要钱还是阿里-tb-待办最好用，要说功能上还是滴答清单比较完善，...](https://www.v2ex.com/t/734678) ![](assets/new.png)  
-- [2020-12-11-MacBook-Air-M1-unexpected-restart](https://www.v2ex.com/t/734677) ![](assets/new.png)  
-- [2020-12-11-1-加-8T-的使用体验](https://www.v2ex.com/t/734674) ![](assets/new.png)  
-- [2020-12-11-妙控鼠标滚轮失灵重新连接又好了](https://www.v2ex.com/t/734673) ![](assets/new.png)  
-- [2020-12-11-有没有办法拦截所有*.baidu.com-的域名指向到本地-localhost](https://www.v2ex.com/t/734672) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,26 +1136,26 @@
 </summary>
 
 
-- [2020-12-12-万物皆可-Vector-之语言模型：从-N-Gram-到-NNLM、RNNLM](https://toutiao.io/k/zidjbvr) ![](assets/new.png)  
 - [2020-12-12-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
-- [2020-12-12-Golang-语言标准库-sync-包的-Once-怎么使用？](https://toutiao.io/k/8fzogdb) ![](assets/new.png)  
+- [2020-12-12-万物皆可-Vector-之语言模型：从-N-Gram-到-NNLM、RNNLM](https://toutiao.io/k/zidjbvr) ![](assets/new.png)  
 - [2020-12-12-先睹为快，Go2-Error-的挣扎之路](https://toutiao.io/k/hx5i6hy) ![](assets/new.png)  
+- [2020-12-12-Golang-语言标准库-sync-包的-Once-怎么使用？](https://toutiao.io/k/8fzogdb) ![](assets/new.png)  
 - [2020-12-12-基于-Web-引擎技术的-Web-内容录制](https://toutiao.io/k/zligf67) ![](assets/new.png)  
-- [2020-12-12-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
-- [2020-12-12-推荐-AutoExcel-实现百万数据秒级导入导出](https://toutiao.io/k/ui65fqe) ![](assets/new.png)  
-- [2020-12-12-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) ![](assets/new.png)  
-- [2020-12-12-推荐-微服务架构下-CI/CD-如何落地](https://toutiao.io/k/303m5ez) ![](assets/new.png)  
-- [2020-12-12-推荐-隐秘的-MySQL-类型转换](https://toutiao.io/k/27nwbyu) ![](assets/new.png)  
-- [2020-12-12-推荐-如何优雅的实现分布式锁](https://toutiao.io/k/veeydsj) ![](assets/new.png)  
-- [2020-12-12-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
-- [2020-12-12-推荐-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/qvfq564) ![](assets/new.png)  
-- [2020-12-12-推荐-编程语言学习心得-（精简版）：不要害怕遗忘](https://toutiao.io/k/ssh2p81) ![](assets/new.png)  
-- [2020-12-12-推荐-CTO-怒了：“如果中台不省钱，我建个屁中台啊！”](https://toutiao.io/k/batmypd) ![](assets/new.png)  
+- [2020-12-12-基于-wasm-的-openssl-实践](https://toutiao.io/k/0jid1ow) ![](assets/new.png)  
+- [2020-12-12-表驱动法](https://toutiao.io/k/osb8m95) ![](assets/new.png)  
+- [2020-12-12-Linkedin-工程团队给新人的-SRE-教程](https://toutiao.io/k/86x4bim) ![](assets/new.png)  
+- [2020-12-12-Struts2-s2-061-Poc-分析](https://toutiao.io/k/nouw9rc) ![](assets/new.png)  
+- [2020-12-12-羡慕，又一清华学弟斩获-6-个大厂-SSP-Offer](https://toutiao.io/k/27mw41t) ![](assets/new.png)  
 - [2020-12-12-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
-- [2020-12-12-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
+- [2020-12-12-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
+- [2020-12-12-推荐-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) ![](assets/new.png)  
+- [2020-12-12-推荐-CTO-怒了：“如果中台不省钱，我建个屁中台啊！”](https://toutiao.io/k/batmypd) ![](assets/new.png)  
 - [2020-12-12-推荐-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) ![](assets/new.png)  
 - [2020-12-12-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
-- [2020-12-12-推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) ![](assets/new.png)  
+- [2020-12-12-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
+- [2020-12-12-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
+- [2020-12-12-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
+- [2020-12-12-推荐-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/qvfq564) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

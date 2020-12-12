@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-12 19:25:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-12 19:35:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -14,4 +14,3 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-12-11-Python核心:Django+Scrapy+Hadoop+数据挖掘+机器学习+精选视频...](https://sec.thief.one/article_content?a_id=f53839933eed8c84752a0ef7790cfa5c) 
 - [2020-12-11-【视频】|-汽车网络安全](https://sec.thief.one/article_content?a_id=c6fa33568500026f09281a2c5453c3dc) 
-- [2020-12-08-华为名师拆书直播-|-5G物联网及NB-IoT技术详解](https://www.ershicimi.com/p/d0646b22f2172d8e38f50b28cf6ec704) 

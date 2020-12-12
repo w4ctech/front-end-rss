@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-12 01:57:46，:rocket: 更新条数: +3932， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-12 02:04:03，:rocket: 更新条数: +3932， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,7 @@
 </summary>
 
 
+- [2020-12-12-音视频开发从入门到精通](https://www.v2ex.com/t/734708) ![](assets/new.png)  
 - [2020-12-12-甲骨文从加州搬去德州](https://www.v2ex.com/t/734706) ![](assets/new.png)  
 - [2020-12-12-目前看来,-TP6-还不能运行在-PHP8,-但是-WordPress5.6-可以](https://www.v2ex.com/t/734704) ![](assets/new.png)  
 - [2020-12-12-好久不用网易云了，突然发现原来很多乱七八糟的东西是可以关掉的](https://www.v2ex.com/t/734703) ![](assets/new.png)  
@@ -1093,7 +1094,6 @@
 - [2020-12-11-RPC-的变革-——-ARPC-项目自荐](https://www.v2ex.com/t/734682) ![](assets/new.png)  
 - [2020-12-11-恢复模式下压了下-Air-M1-16+256-全盘缓外速度，有点失望](https://www.v2ex.com/t/734680) ![](assets/new.png)  
 - [2020-12-11-为什么-cmder-被称作是终端模拟器console-emulators，什么是真正意义的-console？](https://www.v2ex.com/t/734679) ![](assets/new.png)  
-- [2020-12-11-用过一堆待办软件，包括番茄-todo，微软待办，滴答清单，阿里云-teambition-待办，要说没广告不要钱还是阿里-tb-待办最好用，要说功能上还是滴答清单比较完善，...](https://www.v2ex.com/t/734678) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1143,19 +1143,19 @@
 - [2020-12-12-基于-Web-引擎技术的-Web-内容录制](https://toutiao.io/k/zligf67) ![](assets/new.png)  
 - [2020-12-12-基于-wasm-的-openssl-实践](https://toutiao.io/k/0jid1ow) ![](assets/new.png)  
 - [2020-12-12-表驱动法](https://toutiao.io/k/osb8m95) ![](assets/new.png)  
-- [2020-12-12-Linkedin-工程团队给新人的-SRE-教程](https://toutiao.io/k/86x4bim) ![](assets/new.png)  
-- [2020-12-12-Struts2-s2-061-Poc-分析](https://toutiao.io/k/nouw9rc) ![](assets/new.png)  
 - [2020-12-12-羡慕，又一清华学弟斩获-6-个大厂-SSP-Offer](https://toutiao.io/k/27mw41t) ![](assets/new.png)  
-- [2020-12-12-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
-- [2020-12-12-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
-- [2020-12-12-推荐-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) ![](assets/new.png)  
-- [2020-12-12-推荐-CTO-怒了：“如果中台不省钱，我建个屁中台啊！”](https://toutiao.io/k/batmypd) ![](assets/new.png)  
-- [2020-12-12-推荐-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) ![](assets/new.png)  
-- [2020-12-12-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
-- [2020-12-12-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
-- [2020-12-12-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
-- [2020-12-12-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
+- [2020-12-12-Struts2-s2-061-Poc-分析](https://toutiao.io/k/nouw9rc) ![](assets/new.png)  
+- [2020-12-12-Linkedin-工程团队给新人的-SRE-教程](https://toutiao.io/k/86x4bim) ![](assets/new.png)  
+- [2020-12-12-推荐-微服务架构下-CI/CD-如何落地](https://toutiao.io/k/303m5ez) ![](assets/new.png)  
+- [2020-12-12-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) ![](assets/new.png)  
 - [2020-12-12-推荐-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/qvfq564) ![](assets/new.png)  
+- [2020-12-12-推荐-CTO-怒了：“如果中台不省钱，我建个屁中台啊！”](https://toutiao.io/k/batmypd) ![](assets/new.png)  
+- [2020-12-12-推荐-隐秘的-MySQL-类型转换](https://toutiao.io/k/27nwbyu) ![](assets/new.png)  
+- [2020-12-12-推荐-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) ![](assets/new.png)  
+- [2020-12-12-推荐-AutoExcel-实现百万数据秒级导入导出](https://toutiao.io/k/ui65fqe) ![](assets/new.png)  
+- [2020-12-12-推荐-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) ![](assets/new.png)  
+- [2020-12-12-推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) ![](assets/new.png)  
+- [2020-12-12-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-12 21:38:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-12 21:52:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -21,6 +21,7 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
+- [2020-12-11-你猜一个-TCP-连接上面能发多少个-HTTP-请求](https://www.ershicimi.com/p/c60bafb3210f050def9b7719202d9750) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -31,6 +32,10 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-12-12-Chrome-关闭浏览器后，-Cookie（到期时间：浏览会话结束时）未自动删除](https://www.v2ex.com/t/734882) 
+- [2020-12-12-如何批量爬取-.asp-和-.-PHP-的管理后台登录网址-url？](https://www.v2ex.com/t/734852) 
+- [2020-12-12-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
+- [2020-12-12-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-12-《广播电视网络安全等级保护定级指南》正式发布-附下载](https://sec.thief.one/article_content?a_id=6e641004646ee15cf1a86edf8786c8ab) 
 - [2020-12-12-倒计时1天|如何度过一个充满「安全范儿」的周末?攻防论坛见!](https://sec.thief.one/article_content?a_id=b5679a11e247d7814768d0c5e178b3f9) 
 - [2020-12-12-《工业互联网数据安全白皮书2020》全文](https://sec.thief.one/article_content?a_id=03aca604cc114a456b7c393072c41dd0) 
@@ -53,3 +58,4 @@
 - [2020-12-10-奇安信入选“工业信息安全监测预警网络建设支撑机构”](https://sec.thief.one/article_content?a_id=48a35ecc9710331a06b4afa93204d29c) 
 - [2020-12-10-网安新讯-|-11项网安国标发布、2项金融安全检测规范实施、商用密码...](https://sec.thief.one/article_content?a_id=5aaff82e1948fa84f9debae115d87ed7) 
 - [2020-12-10-银保监会主席郭树清:正在研究制定金融数据安全保护条例](https://sec.thief.one/article_content?a_id=e791eb4e52f8188b0c263acf75a92a0b) 
+- [2020-12-11-UWB/蓝牙/WiFi/红外/Zigbee/LoRa-Edge…….室内定位技术的百家争鸣时代](https://www.ershicimi.com/p/a35fb040e7e0a28830e1717cb4094dd0) 

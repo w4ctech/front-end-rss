@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-12-12 10:31:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-12 10:40:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-12-迫于-sidecar，求推荐一个可以把-iPad-支到-MacBook-Pro-上方的支架。](https://www.v2ex.com/t/734823) 
+- [2020-12-12-语言层的函数录制回放可行吗](https://www.v2ex.com/t/734820) 
 - [2020-12-12-索尼大法真的好吗？](https://www.v2ex.com/t/734818) 
 - [2020-12-12-想在-surface-go-上装-chrome-OS](https://www.v2ex.com/t/734817) 
 - [2020-12-12-iOS-准备换机了，请问公众号里的对话记录和推送记录可以保留吗？](https://www.v2ex.com/t/734816) 
@@ -33,6 +35,3 @@
 - [2020-12-12-google-存储调整，连续两年未使用或存储超额会被删除](https://www.v2ex.com/t/734779) 
 - [2020-12-12-发现一个-ios14.2-bug](https://www.v2ex.com/t/734778) 
 - [2020-12-12-即使解锁了-bootloader，刷了开源-ROM-也不会掉-Widevine-DRM-Level-等级的手机有哪些？](https://www.v2ex.com/t/734776) 
-- [2020-12-12-那种大神种草捡漏-QQ-群或微信群，那优惠真的靠谱吗？](https://www.v2ex.com/t/734773) 
-- [2020-12-12-杭州上市公司工业互联网部门招-Java-、MES-产品经理，无年龄限制，-15~25K](https://www.v2ex.com/t/734771) 
-- [2020-12-12-有没有好用的工作任务和日程管理软件,-最好是离线,-基于个人视角的,不是团队的.](https://www.v2ex.com/t/734770) 

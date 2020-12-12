@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-12 16:05:52，:rocket: 更新条数: +1019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-12 16:12:04，:rocket: 更新条数: +3906， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-12-12-12月11日全国新增确诊病例13例-均为境外输入](http://m.china.caixin.com/m/2020-12-12/101638527.html) ![](assets/new.png)  
+- [2020-12-12-【境内疫情观察】全国新增13例境外输入病例（12月11日）](http://m.database.caixin.com/m/2020-12-12/101638660.html) ![](assets/new.png)  
+- [2020-12-12-大流行手记|12月11日：昆士兰大学新冠疫苗或致HIV假阳-赛诺菲疫苗研发受挫](http://m.international.caixin.com/m/2020-12-12/101638563.html) ![](assets/new.png)  
+- [2020-12-11-聚焦|张文宏：疫苗接种计划何时可以启动](http://m.opinion.caixin.com/m/2020-12-11/101638455.html) ![](assets/new.png)  
+- [2020-12-11-哈兽研建立新冠水貂感染模型-可模拟人类肺部病变](http://m.science.caixin.com/m/2020-12-11/101638346.html) ![](assets/new.png)  
+- [2020-12-11-港府向科兴和复星采购1500万剂新冠疫苗-首批下月到港](http://m.china.caixin.com/m/2020-12-11/101638300.html) ![](assets/new.png)  
+- [2020-12-11-【境内疫情观察】黑龙江新增2例本土病例（12月10日）](http://m.database.caixin.com/m/2020-12-11/101638126.html) ![](assets/new.png)  
+- [2020-12-11-大流行手记|12月10日：首尔建集装箱病房扩床位-研究称意大利儿童去年11月感染新冠](http://m.international.caixin.com/m/2020-12-11/101638028.html) ![](assets/new.png)  
+- [2020-12-10-最新海外疫情：新冠感染近6880万-累计死亡超156万](http://m.international.caixin.com/m/2020-12-10/101637858.html) ![](assets/new.png)  
+- [2020-12-10-香港一住宅成“疫区”-警方派谈判专家劝居民配合检疫](http://m.china.caixin.com/m/2020-12-10/101637967.html) ![](assets/new.png)  
+- [2020-12-10-【境内疫情观察】内蒙古新增1例本土病例（12月9日）](http://m.database.caixin.com/m/2020-12-10/101637710.html) ![](assets/new.png)  
+- [2020-12-10-大流行手记|12月9日：英国启动大规模疫苗接种-加拿大批准辉瑞疫苗上市](http://m.international.caixin.com/m/2020-12-10/101637605.html) ![](assets/new.png)  
+- [2020-12-09-【境内疫情观察】四川新增4例本土病例（12月8日）](http://m.database.caixin.com/m/2020-12-09/101637376.html) ![](assets/new.png)  
+- [2020-12-09-大流行手记|12月8日：印度三款疫苗申请紧急使用-中东多国部署疫苗采购](http://m.international.caixin.com/m/2020-12-09/101637221.html) ![](assets/new.png)  
+- [2020-12-09-【图集】成都全市核酸扩大检测-已覆盖25.52万人](http://m.photos.caixin.com/m/2020-12-09/101637238.html) ![](assets/new.png)  
+- [2020-12-09-成都全市核酸扩大检测-已覆盖25.52万人](http://m.photos.caixin.com/m/2020-12-09/101637238.html) ![](assets/new.png)  
+- [2020-12-08-香港新冠重症患者增加-港府颁新规可要求“封锁检测”](http://m.china.caixin.com/m/2020-12-08/101637076.html) ![](assets/new.png)  
+- [2020-12-08-成都新冠本土病例增至5例-所涉村庄和医院已实施封控](https://m.caixin.com/m/2020-12-08/101636790.html) ![](assets/new.png)  
+- [2020-12-08-【境内疫情观察】四川新增2例本土病例（12月7日）](http://m.database.caixin.com/m/2020-12-08/101636899.html) ![](assets/new.png)  
+- [2020-12-08-大流行手记|12月7日：印尼土耳其等国订购中国疫苗-韩国将加大病毒检测力度](https://m.caixin.com/m/2020-12-08/101636807.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -696,16 +716,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1023,26 +1033,6 @@
 </summary>
 
 
-- [2020-12-11-知乎神吐槽-|-相亲对象忽冷忽热怎么办？](https://www.ershicimi.com/p/b202c4cfa29086416f311accbb2da889) ![](assets/new.png)  
-- [2020-12-11-知乎故事-|-《赛博朋克-2077》外的爱情](https://www.ershicimi.com/p/4737455d5786f8e611ea00712c0ea821) ![](assets/new.png)  
-- [2020-12-11-胡歌：如果你没空看书，请一定要逼自己做这件事](https://www.ershicimi.com/p/e19090e3f40e6914f4dd40a8b807aef3) ![](assets/new.png)  
-- [2020-12-10-有哪些本以为是鸡肋，用完却被瞬间圈粉的家居神器？](https://www.ershicimi.com/p/3fe77065b1512d8cadc48b3cb19b9ef1) ![](assets/new.png)  
-- [2020-12-10-如果用一部作品来形容你的-2020，你会选择什么？](https://www.ershicimi.com/p/11ca5193522e5de1cf401817b66d89d6) ![](assets/new.png)  
-- [2020-12-10-知乎故事-|-你父母都有哪些神操作？](https://www.ershicimi.com/p/a4061d0819bac3c382203e963b9ee317) ![](assets/new.png)  
-- [2020-12-09-「成都确诊女孩致歉」，当「网暴」发生时，没有一片雪花是无辜的](https://www.ershicimi.com/p/7e70dadb283438be265d64060e318cfa) ![](assets/new.png)  
-- [2020-12-09-知乎故事-|-你的学校有哪些令你深恶痛绝的设计？](https://www.ershicimi.com/p/42c386fe20cc9bb19de9fe61fa66884e) ![](assets/new.png)  
-- [2020-12-09-中国火锅江湖，谁能华山论剑？](https://www.ershicimi.com/p/3a7a6b0cf63227f5d519406d3d8ee316) ![](assets/new.png)  
-- [2020-12-08-知乎高赞：登上月球的国旗有哪些不为人知的秘密？](https://www.ershicimi.com/p/da6f372d0136c2511e870b24c98e7489) ![](assets/new.png)  
-- [2020-12-08-洗面奶和卸妆油，如果只用一个，能把脸洗干净吗？](https://www.ershicimi.com/p/a2689e9eab682ab8f60bf56f4a8f4d8f) ![](assets/new.png)  
-- [2020-12-08-知乎故事-|-你小时候撒过最失败的谎言是什么？](https://www.ershicimi.com/p/72c262bf79b64cac537dc3f9ed5e3af8) ![](assets/new.png)  
-- [2020-12-07-「女孩溺亡，民警不救」？站在道德高地的人，不怕冷](https://www.ershicimi.com/p/cc1a9c6b8ccfb644e66e4551d57d5aa2) ![](assets/new.png)  
-- [2020-12-07-如果可以，你希望拥有哪种奇妙技能？](https://www.ershicimi.com/p/1ea5b1a3002832a9d8dba600baaa1ec1) ![](assets/new.png)  
-- [2020-12-07-成年人的放松，真的是以分钟为单位的吗？](https://www.ershicimi.com/p/b6eac2a168ae0977c24b5811808c62dd) ![](assets/new.png)  
-- [2020-12-07-知乎故事-|-你见过最恶心的亲戚是怎样的？](https://www.ershicimi.com/p/4b6f2e7ec4ec2ab54fd8f94c48c49c53) ![](assets/new.png)  
-- [2020-12-06-本周知乎热榜-|-中国量子计算原型机「九章」问世了，买茶颜悦色排队要-8-小时了，《一秒钟》上映了](https://www.ershicimi.com/p/a376b95e0c3d28d53d7b634d61dedf5a) ![](assets/new.png)  
-- [2020-12-06-知乎故事-|-总有一天，你会感谢曾经的自己](https://www.ershicimi.com/p/d0eaf33853b4f3c882f8e4abe90bf7d1) ![](assets/new.png)  
-- [2020-12-04-知乎神吐槽-|-怎么判断自己在猫心里的地位？](https://www.ershicimi.com/p/747932feda933d594f6c4090a4e5c35a) ![](assets/new.png)  
-- [2020-12-04-由一度电引发的脑洞有多大？](https://www.ershicimi.com/p/cb3f2680c84b6feae0ed0a958070fcc9) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,15 +1117,15 @@
 - [2020-12-12-基于-wasm-的-openssl-实践](https://toutiao.io/k/0jid1ow) ![](assets/new.png)  
 - [2020-12-12-Struts2-s2-061-Poc-分析](https://toutiao.io/k/nouw9rc) ![](assets/new.png)  
 - [2020-12-12-推荐-AutoExcel-实现百万数据秒级导入导出](https://toutiao.io/k/ui65fqe) ![](assets/new.png)  
-- [2020-12-12-推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho) ![](assets/new.png)  
-- [2020-12-12-推荐-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) ![](assets/new.png)  
-- [2020-12-12-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
-- [2020-12-12-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) ![](assets/new.png)  
-- [2020-12-12-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
-- [2020-12-12-推荐-如何优雅的实现分布式锁](https://toutiao.io/k/veeydsj) ![](assets/new.png)  
+- [2020-12-12-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
 - [2020-12-12-推荐-编程语言学习心得-（精简版）：不要害怕遗忘](https://toutiao.io/k/ssh2p81) ![](assets/new.png)  
-- [2020-12-12-推荐-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) ![](assets/new.png)  
+- [2020-12-12-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
+- [2020-12-12-推荐-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) ![](assets/new.png)  
 - [2020-12-12-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
+- [2020-12-12-推荐-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/qvfq564) ![](assets/new.png)  
+- [2020-12-12-推荐-如何优雅的实现分布式锁](https://toutiao.io/k/veeydsj) ![](assets/new.png)  
+- [2020-12-12-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
+- [2020-12-12-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-12 15:48:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-12 16:05:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,5 +40,3 @@
 - [2020-12-12-阿里云-Teambition-网盘即将和阿里云盘一同公测，会代替阴阳盘吗？](https://www.v2ex.com/t/734832) 
 - [2020-12-12-在北京真的找不到房东直租的吗？](https://www.v2ex.com/t/734830) 
 - [2020-12-12-求助-zsh-使用-open-命令打开含中文-url-失败](https://www.v2ex.com/t/734829) 
-- [2020-12-12-连续-3-天,手动向不同的不到-50-个邮箱,发送差不多的求合作邮件,yahoo-邮箱被关](https://www.v2ex.com/t/734828) 
-- [2020-12-12-event-sourcing-最佳实践是什么？](https://www.v2ex.com/t/734827) 

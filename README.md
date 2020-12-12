@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-12 03:41:35，:rocket: 更新条数: +3929， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-12 03:53:58，:rocket: 更新条数: +3930， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,6 +1074,9 @@
 </summary>
 
 
+- [2020-12-12-mac-每次进入-recover-mode-都要选择语言，怎么会这样？](https://www.v2ex.com/t/734737) ![](assets/new.png)  
+- [2020-12-12-使用语音助手控制电脑之完全控制---顺便求解决方法！](https://www.v2ex.com/t/734736) ![](assets/new.png)  
+- [2020-12-12-mysql-设置自增必须是主键吗？](https://www.v2ex.com/t/734735) ![](assets/new.png)  
 - [2020-12-12-我也做了个网盘，一个支持映射多种网盘的网盘](https://www.v2ex.com/t/734732) ![](assets/new.png)  
 - [2020-12-12-Mac-Vscode-Remote-远程显示-matplotlib-图像](https://www.v2ex.com/t/734730) ![](assets/new.png)  
 - [2020-12-12-Google-Earth-Pro-打不开了？](https://www.v2ex.com/t/734727) ![](assets/new.png)  
@@ -1091,9 +1094,6 @@
 - [2020-12-12-甲骨文从加州搬去德州](https://www.v2ex.com/t/734706) ![](assets/new.png)  
 - [2020-12-12-目前看来,-TP6-还不能运行在-PHP8,-但是-WordPress5.6-可以](https://www.v2ex.com/t/734704) ![](assets/new.png)  
 - [2020-12-12-好久不用网易云了，突然发现原来很多乱七八糟的东西是可以关掉的](https://www.v2ex.com/t/734703) ![](assets/new.png)  
-- [2020-12-12-真有写一辈子代码的职业么？](https://www.v2ex.com/t/734702) ![](assets/new.png)  
-- [2020-12-12-订阅推荐（类科技爱好者周刊）](https://www.v2ex.com/t/734701) ![](assets/new.png)  
-- [2020-12-12-PDD-上抢到了-300-卷-iphone12-可以入吗](https://www.v2ex.com/t/734700) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,16 +1146,16 @@
 - [2020-12-12-羡慕，又一清华学弟斩获-6-个大厂-SSP-Offer](https://toutiao.io/k/27mw41t) ![](assets/new.png)  
 - [2020-12-12-Struts2-s2-061-Poc-分析](https://toutiao.io/k/nouw9rc) ![](assets/new.png)  
 - [2020-12-12-Linkedin-工程团队给新人的-SRE-教程](https://toutiao.io/k/86x4bim) ![](assets/new.png)  
-- [2020-12-12-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
-- [2020-12-12-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
-- [2020-12-12-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
+- [2020-12-12-推荐-隐秘的-MySQL-类型转换](https://toutiao.io/k/27nwbyu) ![](assets/new.png)  
+- [2020-12-12-推荐-AutoExcel-实现百万数据秒级导入导出](https://toutiao.io/k/ui65fqe) ![](assets/new.png)  
 - [2020-12-12-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
-- [2020-12-12-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
-- [2020-12-12-推荐-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/qvfq564) ![](assets/new.png)  
-- [2020-12-12-推荐-微服务架构下-CI/CD-如何落地](https://toutiao.io/k/303m5ez) ![](assets/new.png)  
-- [2020-12-12-推荐-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) ![](assets/new.png)  
-- [2020-12-12-推荐-如何优雅的实现分布式锁](https://toutiao.io/k/veeydsj) ![](assets/new.png)  
+- [2020-12-12-推荐-编程语言学习心得-（精简版）：不要害怕遗忘](https://toutiao.io/k/ssh2p81) ![](assets/new.png)  
+- [2020-12-12-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
 - [2020-12-12-推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) ![](assets/new.png)  
+- [2020-12-12-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
+- [2020-12-12-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
+- [2020-12-12-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
+- [2020-12-12-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-12-12 03:41:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-12 03:53:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-12-mac-每次进入-recover-mode-都要选择语言，怎么会这样？](https://www.v2ex.com/t/734737) 
+- [2020-12-12-使用语音助手控制电脑之完全控制---顺便求解决方法！](https://www.v2ex.com/t/734736) 
+- [2020-12-12-mysql-设置自增必须是主键吗？](https://www.v2ex.com/t/734735) 
 - [2020-12-12-我也做了个网盘，一个支持映射多种网盘的网盘](https://www.v2ex.com/t/734732) 
 - [2020-12-12-Mac-Vscode-Remote-远程显示-matplotlib-图像](https://www.v2ex.com/t/734730) 
 - [2020-12-12-Google-Earth-Pro-打不开了？](https://www.v2ex.com/t/734727) 
@@ -32,5 +35,3 @@
 - [2020-12-11-迫于被名词所困，分享一下自己对-Linux-下动态调试工具概念的理解](https://www.v2ex.com/t/734693) 
 - [2020-12-11-迫于打游戏容易切输入法，求一段-AutoHotHey-代码实现](https://www.v2ex.com/t/734690) 
 - [2020-12-11-怎么将自己的手机锁到几乎死透？～-分享一个前无古人的脑残操作](https://www.v2ex.com/t/734689) 
-- [2020-12-11-新加坡---招聘笔记本维修员](https://www.v2ex.com/t/734686) 
-- [2020-12-11-github-如何按照-star-项目排序？如何查看分页？](https://www.v2ex.com/t/734685) 

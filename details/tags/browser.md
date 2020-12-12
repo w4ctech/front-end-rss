@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-12 14:43:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-12 14:49:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -47,7 +47,6 @@
 - [2020-12-12-如何批量爬取-.asp-和-.-PHP-的管理后台登录网址-url？](https://www.v2ex.com/t/734852) 
 - [2020-12-12-求助-zsh-使用-open-命令打开含中文-url-失败](https://www.v2ex.com/t/734829) 
 - [2020-12-12-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-12-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-12-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-12-《广播电视网络安全等级保护定级指南》正式发布-附下载](https://sec.thief.one/article_content?a_id=6e641004646ee15cf1a86edf8786c8ab) 
 - [2020-12-12-倒计时1天|如何度过一个充满「安全范儿」的周末?攻防论坛见!](https://sec.thief.one/article_content?a_id=b5679a11e247d7814768d0c5e178b3f9) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-12 05:49:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-12 06:05:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2020-12-12-12月11日全国新增确诊病例13例-均为境外输入](http://m.china.caixin.com/m/2020-12-12/101638527.html) 
+- [2020-12-12-【境内疫情观察】全国新增13例境外输入病例（12月11日）](http://m.database.caixin.com/m/2020-12-12/101638660.html) 
 - [2020-12-12-大流行手记|12月11日：昆士兰大学新冠疫苗或致HIV假阳-赛诺菲疫苗研发受挫](http://m.international.caixin.com/m/2020-12-12/101638563.html) 
 - [2020-12-11-聚焦|张文宏：疫苗接种计划何时可以启动](http://m.opinion.caixin.com/m/2020-12-11/101638455.html) 
 - [2020-12-11-哈兽研建立新冠水貂感染模型-可模拟人类肺部病变](http://m.science.caixin.com/m/2020-12-11/101638346.html) 
@@ -2870,6 +2871,7 @@
 - [2020-12-06-知乎故事-|-总有一天，你会感谢曾经的自己](https://www.ershicimi.com/p/d0eaf33853b4f3c882f8e4abe90bf7d1) 
 - [2020-12-04-知乎神吐槽-|-怎么判断自己在猫心里的地位？](https://www.ershicimi.com/p/747932feda933d594f6c4090a4e5c35a) 
 - [2020-12-04-由一度电引发的脑洞有多大？](https://www.ershicimi.com/p/cb3f2680c84b6feae0ed0a958070fcc9) 
+- [2020-12-12-那种大神种草捡漏-QQ-群或微信群，那优惠真的靠谱吗？](https://www.v2ex.com/t/734773) 
 - [2020-12-12-杭州上市公司工业互联网部门招-Java-、MES-产品经理，无年龄限制，-15~25K](https://www.v2ex.com/t/734771) 
 - [2020-12-12-有没有好用的工作任务和日程管理软件,-最好是离线,-基于个人视角的,不是团队的.](https://www.v2ex.com/t/734770) 
 - [2020-12-12-上海小而美的公司等你来加入~~](https://www.v2ex.com/t/734769) 
@@ -2899,7 +2901,6 @@
 - [2020-12-12-mysql-设置自增必须是主键吗？](https://www.v2ex.com/t/734735) 
 - [2020-12-12-我也做了个网盘，一个支持映射多种网盘的网盘](https://www.v2ex.com/t/734732) 
 - [2020-12-12-Google-Earth-Pro-打不开了？](https://www.v2ex.com/t/734727) 
-- [2020-12-12-Apple-日历同步功能都正常吗？](https://www.v2ex.com/t/734724) 
 - [2020-12-12-程序员才懂的“凡尔赛语录”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14052&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9jdf7YN4_pIHKumAvvltLQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-12-银行规模化敏捷的窘境-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14050&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fscale-agile-transformation-four-steps%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-12-我的笔记系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14049&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fnote-taking-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -2924,16 +2925,15 @@
 - [2020-12-12-羡慕，又一清华学弟斩获-6-个大厂-SSP-Offer](https://toutiao.io/k/27mw41t) 
 - [2020-12-12-Linkedin-工程团队给新人的-SRE-教程](https://toutiao.io/k/86x4bim) 
 - [2020-12-12-Struts2-s2-061-Poc-分析](https://toutiao.io/k/nouw9rc) 
-- [2020-12-12-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) 
-- [2020-12-12-推荐-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) 
-- [2020-12-12-推荐-微服务架构下-CI/CD-如何落地](https://toutiao.io/k/303m5ez) 
-- [2020-12-12-推荐-编程语言学习心得-（精简版）：不要害怕遗忘](https://toutiao.io/k/ssh2p81) 
-- [2020-12-12-推荐-AutoExcel-实现百万数据秒级导入导出](https://toutiao.io/k/ui65fqe) 
 - [2020-12-12-推荐-隐秘的-MySQL-类型转换](https://toutiao.io/k/27nwbyu) 
+- [2020-12-12-推荐-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) 
+- [2020-12-12-推荐-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/qvfq564) 
 - [2020-12-12-推荐-如何优雅的实现分布式锁](https://toutiao.io/k/veeydsj) 
 - [2020-12-12-推荐-CTO-怒了：“如果中台不省钱，我建个屁中台啊！”](https://toutiao.io/k/batmypd) 
-- [2020-12-12-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) 
 - [2020-12-12-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) 
+- [2020-12-12-推荐-微服务架构下-CI/CD-如何落地](https://toutiao.io/k/303m5ez) 
+- [2020-12-12-推荐-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) 
+- [2020-12-12-推荐-AutoExcel-实现百万数据秒级导入导出](https://toutiao.io/k/ui65fqe) 
 - [2020-12-12-听!2020声音记忆](https://sec.thief.one/article_content?a_id=f9d115a95146c6dee20667347cf820a8) 
 - [2020-12-12-美国基础教育的远程教育网络近乎全部遭受攻击](https://sec.thief.one/article_content?a_id=658acf217efdf86239683b1e7357114e) 
 - [2020-12-12-Apache-Struts2--061远程代码执行漏洞复现](https://sec.thief.one/article_content?a_id=cdb5ee6b78b34ebd7297fb25abff3eae) 

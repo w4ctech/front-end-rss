@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-13 15:32:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 15:42:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -37,4 +37,3 @@
 - [2020-12-13-访客记录表去重，有什么比较好的方法？](https://www.v2ex.com/t/735032) 
 - [2020-12-13-我管我自己-jenkins-在-docker-容器里管理多个-docker-容器？](https://www.v2ex.com/t/735030) 
 - [2020-12-13-有升级了-mac-big-sur-后使用信息卡顿的吗？](https://www.v2ex.com/t/735029) 
-- [2020-12-13-印度-YouTube-车目前发现的问题](https://www.v2ex.com/t/735028) 

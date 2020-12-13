@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-13 10:10:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 10:32:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,6 +29,14 @@
 - [2020-12-09-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/73356e18cd00004d269c88984a8a61b0) 
 - [2020-12-04-前端安全编码规范](https://www.ershicimi.com/p/c8b36b7987f290a7e50281d0ad917717) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
@@ -36,8 +44,8 @@
 - [2020-12-08-扔掉okhttp、httpClient，来试试这款轻量级HTTP客户端神器？](https://www.ershicimi.com/p/ca765b3a45b894e65adb3f53a907d0e4) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-13-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-13-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-13-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
+- [2020-12-13-供不应求,《0day安全-软件漏洞分析技术》第三次再版印刷啦!](https://sec.thief.one/article_content?a_id=d342c2e11cb98383880077ad27edc791) 
 - [2020-12-13-今日14点|字节跳动「安全范儿」攻防论坛,首秀!](https://sec.thief.one/article_content?a_id=fcfaf4765c4a0354f59d46423fa4b8ef) 
 - [2020-12-12-《2021产业互联网安全十大趋势》出炉:云原生安全上榜](https://sec.thief.one/article_content?a_id=85850ef7f2540daa26261c7d9f5e1263) 
 - [2020-12-12-《广播电视网络安全等级保护定级指南》正式发布-附下载](https://sec.thief.one/article_content?a_id=6e641004646ee15cf1a86edf8786c8ab) 
@@ -60,5 +68,4 @@
 - [2020-12-10-勒索病毒“打劫”富士康北美工厂,企业数字资产安全将如何保障?](https://sec.thief.one/article_content?a_id=b804e4804fdae6cd57871fcde015fe6b) 
 - [2020-12-10-【安全圈】欧洲药品管理局COVID-19-疫苗认证相关文件或已泄露](https://sec.thief.one/article_content?a_id=55e1a445eae8626f614909c78da69a36) 
 - [2020-12-10-奇安信入选“工业信息安全监测预警网络建设支撑机构”](https://sec.thief.one/article_content?a_id=48a35ecc9710331a06b4afa93204d29c) 
-- [2020-12-10-网安新讯-|-11项网安国标发布、2项金融安全检测规范实施、商用密码...](https://sec.thief.one/article_content?a_id=5aaff82e1948fa84f9debae115d87ed7) 
 - [2020-12-11-UWB/蓝牙/WiFi/红外/Zigbee/LoRa-Edge…….室内定位技术的百家争鸣时代](https://www.ershicimi.com/p/a35fb040e7e0a28830e1717cb4094dd0) 

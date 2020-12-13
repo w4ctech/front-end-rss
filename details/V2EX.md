@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-13 20:08:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 20:30:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -37,4 +37,3 @@
 - [2020-12-13-问一下使用单圈编织表带一个月以上的朋友](https://www.v2ex.com/t/735043) 
 - [2020-12-13-Siri-在未经用户输入密码的情况下拨打第三方电话是否正常？](https://www.v2ex.com/t/735042) 
 - [2020-12-13-PDF-Expert-Apple-M1-Chip-只能订阅？！](https://www.v2ex.com/t/735040) 
-- [2020-12-13-一直用-joplin-管理笔记，用过-evernote-和-onenote-等，有没有比较好的，开源的笔记呢](https://www.v2ex.com/t/735038) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-13 15:42:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 15:54:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -546,7 +546,6 @@
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【InfoQ】GraphQL是API的未来，但它并非银弹](https://www.ershicimi.com/p/0faa77ba62b3ea90becddf16ce5366c3)
 - [【InfoQ】Docker-的第二次死亡](https://www.ershicimi.com/p/29fa84049309a7c25183b782b2b5a294)
-- [【V2EX】我管我自己-jenkins-在-docker-容器里管理多个-docker-容器？](https://www.v2ex.com/t/735030)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

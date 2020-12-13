@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-13 15:42:19，:rocket: 更新条数: +956， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-13 15:54:43，:rocket: 更新条数: +936， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -963,26 +963,6 @@
 </summary>
 
 
-- [2020-12-11-知乎神吐槽-|-相亲对象忽冷忽热怎么办？](https://www.ershicimi.com/p/b202c4cfa29086416f311accbb2da889) ![](assets/new.png)  
-- [2020-12-11-知乎故事-|-《赛博朋克-2077》外的爱情](https://www.ershicimi.com/p/4737455d5786f8e611ea00712c0ea821) ![](assets/new.png)  
-- [2020-12-11-胡歌：如果你没空看书，请一定要逼自己做这件事](https://www.ershicimi.com/p/e19090e3f40e6914f4dd40a8b807aef3) ![](assets/new.png)  
-- [2020-12-10-有哪些本以为是鸡肋，用完却被瞬间圈粉的家居神器？](https://www.ershicimi.com/p/3fe77065b1512d8cadc48b3cb19b9ef1) ![](assets/new.png)  
-- [2020-12-10-如果用一部作品来形容你的-2020，你会选择什么？](https://www.ershicimi.com/p/11ca5193522e5de1cf401817b66d89d6) ![](assets/new.png)  
-- [2020-12-10-知乎故事-|-你父母都有哪些神操作？](https://www.ershicimi.com/p/a4061d0819bac3c382203e963b9ee317) ![](assets/new.png)  
-- [2020-12-09-「成都确诊女孩致歉」，当「网暴」发生时，没有一片雪花是无辜的](https://www.ershicimi.com/p/7e70dadb283438be265d64060e318cfa) ![](assets/new.png)  
-- [2020-12-09-知乎故事-|-你的学校有哪些令你深恶痛绝的设计？](https://www.ershicimi.com/p/42c386fe20cc9bb19de9fe61fa66884e) ![](assets/new.png)  
-- [2020-12-09-中国火锅江湖，谁能华山论剑？](https://www.ershicimi.com/p/3a7a6b0cf63227f5d519406d3d8ee316) ![](assets/new.png)  
-- [2020-12-08-知乎高赞：登上月球的国旗有哪些不为人知的秘密？](https://www.ershicimi.com/p/da6f372d0136c2511e870b24c98e7489) ![](assets/new.png)  
-- [2020-12-08-洗面奶和卸妆油，如果只用一个，能把脸洗干净吗？](https://www.ershicimi.com/p/a2689e9eab682ab8f60bf56f4a8f4d8f) ![](assets/new.png)  
-- [2020-12-08-知乎故事-|-你小时候撒过最失败的谎言是什么？](https://www.ershicimi.com/p/72c262bf79b64cac537dc3f9ed5e3af8) ![](assets/new.png)  
-- [2020-12-07-「女孩溺亡，民警不救」？站在道德高地的人，不怕冷](https://www.ershicimi.com/p/cc1a9c6b8ccfb644e66e4551d57d5aa2) ![](assets/new.png)  
-- [2020-12-07-如果可以，你希望拥有哪种奇妙技能？](https://www.ershicimi.com/p/1ea5b1a3002832a9d8dba600baaa1ec1) ![](assets/new.png)  
-- [2020-12-07-成年人的放松，真的是以分钟为单位的吗？](https://www.ershicimi.com/p/b6eac2a168ae0977c24b5811808c62dd) ![](assets/new.png)  
-- [2020-12-07-知乎故事-|-你见过最恶心的亲戚是怎样的？](https://www.ershicimi.com/p/4b6f2e7ec4ec2ab54fd8f94c48c49c53) ![](assets/new.png)  
-- [2020-12-06-本周知乎热榜-|-中国量子计算原型机「九章」问世了，买茶颜悦色排队要-8-小时了，《一秒钟》上映了](https://www.ershicimi.com/p/a376b95e0c3d28d53d7b634d61dedf5a) ![](assets/new.png)  
-- [2020-12-06-知乎故事-|-总有一天，你会感谢曾经的自己](https://www.ershicimi.com/p/d0eaf33853b4f3c882f8e4abe90bf7d1) ![](assets/new.png)  
-- [2020-12-04-知乎神吐槽-|-怎么判断自己在猫心里的地位？](https://www.ershicimi.com/p/747932feda933d594f6c4090a4e5c35a) ![](assets/new.png)  
-- [2020-12-04-由一度电引发的脑洞有多大？](https://www.ershicimi.com/p/cb3f2680c84b6feae0ed0a958070fcc9) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +974,8 @@
 </summary>
 
 
+- [2020-12-13-有没有好的写作课程推荐？](https://www.v2ex.com/t/735080) ![](assets/new.png)  
+- [2020-12-13-迅雷是终于想开了？去掉了浏览器？](https://www.v2ex.com/t/735079) ![](assets/new.png)  
 - [2020-12-13-关于-iPhone-12-系列，有没有手持两台以上不同款的-V-友？用实际感受分享下对比下哪款更加值得入手？](https://www.v2ex.com/t/735077) ![](assets/new.png)  
 - [2020-12-13-无聊冷知识：-Google-搜索某-P-hub-illegal-会有温馨提醒](https://www.v2ex.com/t/735076) ![](assets/new.png)  
 - [2020-12-13-WIndows-有无像-iPhone-一样的整机迁移方案？](https://www.v2ex.com/t/735075) ![](assets/new.png)  
@@ -1012,8 +994,6 @@
 - [2020-12-13-经过了一个周末的冲刺，终于发布了-3.2.1，-Martian-框架彻底拥抱-NIO](https://www.v2ex.com/t/735056) ![](assets/new.png)  
 - [2020-12-13-缓存一致性协议解决了可见性问题，那为什么-Java-代码还要解决可见性问题？](https://www.v2ex.com/t/735054) ![](assets/new.png)  
 - [2020-12-13-Watch-4-自带体能训练记录的心率数据丢失](https://www.v2ex.com/t/735053) ![](assets/new.png)  
-- [2020-12-13-有没有靠谱的邮件代理推荐？](https://www.v2ex.com/t/735052) ![](assets/new.png)  
-- [2020-12-13-建议-V2EX-是不是考虑开一个-tesla-新版啊](https://www.v2ex.com/t/735051) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1066,16 +1046,16 @@
 - [2020-12-13-区块链-2020-年度回顾之公链篇：比特币、以太坊、Polkadot-和-Filecoin](https://toutiao.io/k/xtems29) ![](assets/new.png)  
 - [2020-12-13-ICDM-论文：探索跨会话信息感知的推荐模型](https://toutiao.io/k/w3j8zd8) ![](assets/new.png)  
 - [2020-12-13-译-如何在-ASP.NET-Core-中实现全局异常拦截](https://toutiao.io/k/o7e9xfu) ![](assets/new.png)  
+- [2020-12-13-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
+- [2020-12-13-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
+- [2020-12-13-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
+- [2020-12-13-推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho) ![](assets/new.png)  
 - [2020-12-13-推荐-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) ![](assets/new.png)  
+- [2020-12-13-推荐-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) ![](assets/new.png)  
+- [2020-12-13-推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) ![](assets/new.png)  
+- [2020-12-13-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
 - [2020-12-13-推荐-如何优雅的实现分布式锁](https://toutiao.io/k/veeydsj) ![](assets/new.png)  
 - [2020-12-13-推荐-CTO-怒了：“如果中台不省钱，我建个屁中台啊！”](https://toutiao.io/k/batmypd) ![](assets/new.png)  
-- [2020-12-13-推荐-编程语言学习心得-（精简版）：不要害怕遗忘](https://toutiao.io/k/ssh2p81) ![](assets/new.png)  
-- [2020-12-13-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
-- [2020-12-13-推荐-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) ![](assets/new.png)  
-- [2020-12-13-推荐-微服务架构下-CI/CD-如何落地](https://toutiao.io/k/303m5ez) ![](assets/new.png)  
-- [2020-12-13-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
-- [2020-12-13-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
-- [2020-12-13-推荐-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/qvfq564) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

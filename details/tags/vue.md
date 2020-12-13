@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-13 10:32:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 10:40:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -44,6 +44,7 @@
 - [2020-11-29-深入了解-Vue3-模板编译原理](https://www.ershicimi.com/p/d48e244f088ccd577dc2861dac074894) 
 - [2020-11-24-深入了解-Vue3-响应式原理](https://www.ershicimi.com/p/05c75fda7e086dac7dc11a6a73ff9d38) 
 - [2020-11-23-Vue3源码-nextTick解析](https://www.ershicimi.com/p/d51475d104b740f1b2c866fd6d18fae6) 
+- [2020-10-11-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/0590b6964c9fcfc3e48286bd7d353627) 
 - [2020-12-08-快速使用Vue3最新的15个常用API](https://www.ershicimi.com/p/b5b135b0d77bd836f20b50c995bc47dc) 
 - [2020-11-23-开发一个基于-Vue3.0-的组件库是一种怎样的体验？](https://www.ershicimi.com/p/5d3238821ec796478f5fb4ce6a04adb5) 
 - [2020-12-12-活用async/await，让Vue变得更好用的装饰器！](https://www.ershicimi.com/p/841297cb7dfe81b268a5276ffb9ec420) 
@@ -60,7 +61,9 @@
 - [2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/) 
 - [2016-10-13-Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/) 
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
-- [2020-12-04-奇舞周刊第-375-期：Element-UI-for-Vue-3.0-来了！](https://www.ershicimi.com/p/6445ddab67ed0171233a32e04a0d55fc) 
+- [2020-12-10-又作什么妖？会-Vue-也是错……](https://www.ershicimi.com/p/ae08e4308e9b3c9c8dd44f2c7481bb14) 
+- [2020-11-23-3天VUE实战，1比1还原抖音代码！](https://www.ershicimi.com/p/357d7929d9716f30eb66647a8de23f47) 
+- [2020-11-19-快人一步上手-Vue3.0](https://www.ershicimi.com/p/dfc983e441c2706df8b787642a0d4321) 
 - [2020-12-08-看这篇就行！最强VUE+ElementUI管理项目来了（附实战全过程）](https://www.ershicimi.com/p/be2fe6b481813259250c47b6cd73b659) 
 - [2020-12-02-只会-Vue-，已经没前途了](https://www.ershicimi.com/p/0f6da4a6bf5b014b546bdbbd882fdfd4) 
 - [2020-11-26-从0到1熟悉VUE，只需3天！](https://www.ershicimi.com/p/cda44a7d05868dc91f7414c2439d5a92) 

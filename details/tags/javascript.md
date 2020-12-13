@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-13 10:32:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 10:40:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -54,6 +54,9 @@
 - [2020-11-30-怎么样才算是精通-JavaScript？](https://www.ershicimi.com/p/e13a85ee089d39422532990d29ab2bf1) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2020-12-13-前端周报：JS-诞生-25-周年；微软将强行升级部分旧版本Win-10用户；将编程纳入中小学课程，程](https://www.ershicimi.com/p/8f15bc65ae313923ec2405b52d2ee580) 
+- [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 
+- [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
+- [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-12-07-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/bfcc0fa011c651c5362949f91ad3d3d9) 
 - [2020-12-07-我点击页面元素，VSCode-乖乖打开了组件？原理揭秘。](https://www.ershicimi.com/p/f5013b2b5cd50e75fd40bc7a737ca731) 
 - [2020-11-27-一行能装逼的JavaScript代码](https://www.ershicimi.com/p/0bd195fae01be5fe56a5ea0f1e34274d) 
@@ -95,7 +98,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
-- [2020-11-27-奇舞周刊第-374-期：用-JS-写一个-JS-解释器](https://www.ershicimi.com/p/b050338487ebd5d055a8966f6ec9a11f) 
+- [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2020-12-13-深入理解CommonJS](https://juejin.im/post/6905670903070195725) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-13 05:08:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 05:29:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -47,8 +47,8 @@
 - [2020-12-13-iPhone-的-Edge-或者-Chrome，有办法像-safari-一样首页显示收藏网页吗？](https://www.v2ex.com/t/734933) 
 - [2020-12-13-「-Waline-」基于-Valine-衍生的简洁、安全的静态博客评论系统](https://www.v2ex.com/t/734928) 
 - [2020-12-13-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-13-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-13-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
+- [2020-12-13-今日14点|字节跳动「安全范儿」攻防论坛,首秀!](https://sec.thief.one/article_content?a_id=fcfaf4765c4a0354f59d46423fa4b8ef) 
 - [2020-12-12-《2021产业互联网安全十大趋势》出炉:云原生安全上榜](https://sec.thief.one/article_content?a_id=85850ef7f2540daa26261c7d9f5e1263) 
 - [2020-12-12-《广播电视网络安全等级保护定级指南》正式发布-附下载](https://sec.thief.one/article_content?a_id=6e641004646ee15cf1a86edf8786c8ab) 
 - [2020-12-12-倒计时1天|如何度过一个充满「安全范儿」的周末?攻防论坛见!](https://sec.thief.one/article_content?a_id=b5679a11e247d7814768d0c5e178b3f9) 
@@ -71,5 +71,4 @@
 - [2020-12-10-【安全圈】欧洲药品管理局COVID-19-疫苗认证相关文件或已泄露](https://sec.thief.one/article_content?a_id=55e1a445eae8626f614909c78da69a36) 
 - [2020-12-10-奇安信入选“工业信息安全监测预警网络建设支撑机构”](https://sec.thief.one/article_content?a_id=48a35ecc9710331a06b4afa93204d29c) 
 - [2020-12-10-网安新讯-|-11项网安国标发布、2项金融安全检测规范实施、商用密码...](https://sec.thief.one/article_content?a_id=5aaff82e1948fa84f9debae115d87ed7) 
-- [2020-12-10-银保监会主席郭树清:正在研究制定金融数据安全保护条例](https://sec.thief.one/article_content?a_id=e791eb4e52f8188b0c263acf75a92a0b) 
 - [2020-12-11-UWB/蓝牙/WiFi/红外/Zigbee/LoRa-Edge…….室内定位技术的百家争鸣时代](https://www.ershicimi.com/p/a35fb040e7e0a28830e1717cb4094dd0) 

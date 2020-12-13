@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-12-13 03:54:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 04:05:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-13-Pi4-装了-ubuntu-server，如何备份整个-sd-卡然后直接到另一台-Pi4-上使用](https://www.v2ex.com/t/734942) 
+- [2020-12-13-滴滴出行-北京、杭州、成都内推，年前面试年后入职-Java-/iOS/Android/前端/算法/-PHP-/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/734941) 
 - [2020-12-13-看了一篇文章说-Chrome-会使-Mac-的运行速度变慢，是真的么？](https://www.v2ex.com/t/734940) 
 - [2020-12-13-三星也要搞一个-Galaxy-Smart-Tag](https://www.v2ex.com/t/734938) 
 - [2020-12-13-丽江，你这一生中非去不可的地方](https://www.v2ex.com/t/734937) 
@@ -37,5 +39,3 @@
 - [2020-12-12-一路向北-yyds](https://www.v2ex.com/t/734895) 
 - [2020-12-12-有人用坚果云吗?-是不是-M1-芯片的-mac-上没办法用坚果云了?](https://www.v2ex.com/t/734894) 
 - [2020-12-12-Watch-体能训练-疑似数据丢失？？](https://www.v2ex.com/t/734893) 
-- [2020-12-12-关于-HomePod-mini](https://www.v2ex.com/t/734892) 
-- [2020-12-12-局域网私接路由器有不被发现的方法吗？](https://www.v2ex.com/t/734891) 

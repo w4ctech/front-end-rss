@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-13 10:53:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 11:04:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -8,4 +8,5 @@
 
 
 - [2020-12-12-大规模采用-TypeScript-之后的-10-个见解](https://www.ershicimi.com/p/35168a944f8dba42d1c775e4ef57ead0) 
+- [2020-12-13-TypeScript-类型系统-协变与逆变的理解-函数类型的问题](https://juejin.im/post/6905666894984904717) 
 - [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 

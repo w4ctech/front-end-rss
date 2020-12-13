@@ -1,14 +1,16 @@
-:alarm_clock: 更新时间: 2020-12-13 16:11:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 16:49:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-13-为什么-go-和-rust-这类新兴语言发布程序大都使用静态编译？](https://www.v2ex.com/t/735084) 
+- [2020-12-13-豆瓣这开屏广告不小心一点就装了个-app...安卓能关闭装软件的权限吗？](https://www.v2ex.com/t/735083) 
+- [2020-12-13-搜索引擎搜索“京东”“翻新”相关关键词，看到了一些-N-年前的新闻，感觉都没什么可信度。](https://www.v2ex.com/t/735082) 
 - [2020-12-13-有没有好的写作课程推荐？](https://www.v2ex.com/t/735080) 
 - [2020-12-13-迅雷是终于想开了？去掉了浏览器？](https://www.v2ex.com/t/735079) 
 - [2020-12-13-关于-iPhone-12-系列，有没有手持两台以上不同款的-V-友？用实际感受分享下对比下哪款更加值得入手？](https://www.v2ex.com/t/735077) 
-- [2020-12-13-无聊冷知识：-Google-搜索某-P-hub-illegal-会有温馨提醒](https://www.v2ex.com/t/735076) 
 - [2020-12-13-WIndows-有无像-iPhone-一样的整机迁移方案？](https://www.v2ex.com/t/735075) 
 - [2020-12-13-已开源，-spring-boot-开发一个社区/论坛/博客，有详细部署教程！](https://www.v2ex.com/t/735074) 
 - [2020-12-13-我这热水壶底部的红褐色物质是锈还是水垢啊？](https://www.v2ex.com/t/735072) 
@@ -35,5 +37,3 @@
 - [2020-12-13-一直用-joplin-管理笔记，用过-evernote-和-onenote-等，有没有比较好的，开源的笔记呢](https://www.v2ex.com/t/735038) 
 - [2020-12-13-罗技-MX-Master-3-鼠标和-MX-keys-键盘问题汇总](https://www.v2ex.com/t/735037) 
 - [2020-12-13-推荐下牙膏](https://www.v2ex.com/t/735036) 
-- [2020-12-13-在线前端生成-iOS、Android、Flutter、React-Native、MacOS-等各尺寸图标](https://www.v2ex.com/t/735034) 
-- [2020-12-13-访客记录表去重，有什么比较好的方法？](https://www.v2ex.com/t/735032) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-13 19:36:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 19:48:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,24 +7,13 @@
 
 
 
-- [2020-08-25-大流行手记|8月24日：疫情威胁全球粮食安全-美国新增病例增势趋缓](https://m.caixin.com/m/2020-08-25/101596567.html) 
-- [2020-04-22-非洲新冠疫情叠加蝗灾-2000万人面临粮食安全威胁](http://m.science.caixin.com/m/2020-04-22/101545698.html) 
-- [2020-04-14-科技部：疫苗研发加快推进-确保安全性](http://m.china.caixin.com/m/2020-04-14/101542545.html) 
-- [2020-04-13-肺炎日记|4月12日：复学加快步伐，如何保障师生安全？](http://m.china.caixin.com/m/2020-04-13/101541775.html) 
-- [2020-04-12-崔天凯：只要有一国还有疫情，就没有人是安全的](http://m.international.caixin.com/m/2020-04-12/101541606.html) 
-- [2020-04-09-非洲确诊病例破万-粮食安全风险高企](http://m.international.caixin.com/m/2020-04-09/101540248.html) 
-- [2020-04-07-大流行手记|4月7日：口罩被截胡？-柏林请求军方“押镖”](https://m.caixin.com/m/2020-04-07/101539735.html) 
-- [2020-03-28-纽约市近半确诊者未满45岁-特朗普明确“先安全后经济”](http://m.international.caixin.com/m/2020-03-28/101535354.html) 
-- [2020-03-27-泰国暂停鸡蛋出口-疫情当下粮食安全受关注](http://m.china.caixin.com/m/2020-03-27/101535032.html) 
-- [2020-03-26-美新冠死亡病例破千-美专家呼吁取消对华关税保障医护安全](http://m.international.caixin.com/m/2020-03-26/101534192.html) 
-- [2020-03-24-中英领导人通话-约翰逊称尽力照顾留学生等中国公民的健康安全](http://m.international.caixin.com/m/2020-03-24/101532958.html) 
-- [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
-- [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
-- [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-12-09-【第2142期】Chrome浏览器Referrer-Policy默认值变更](https://www.ershicimi.com/p/a1e5f72d1817a22d47e452fe88172faa) 
 - [2020-12-11-前端前沿观察，Cookie-居然可以这样整了](https://www.ershicimi.com/p/bfd223b8e85452ebd67a19509a3d6021) 
 - [2020-12-04-前端-api-请求缓存的-5-种方案](https://www.ershicimi.com/p/0739f868c16f1fc66b41e39b676c2588) 
 - [2020-11-27-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/7609004e2f9423cf4f1b2eb5dc1b19ac) 
+- [2020-12-11-你猜一个-TCP-连接上面能发多少个-HTTP-请求](https://www.ershicimi.com/p/c60bafb3210f050def9b7719202d9750) 
+- [2020-12-09-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/73356e18cd00004d269c88984a8a61b0) 
+- [2020-12-04-前端安全编码规范](https://www.ershicimi.com/p/c8b36b7987f290a7e50281d0ad917717) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -41,7 +30,7 @@
 - [2020-12-13-迅雷是终于想开了？去掉了浏览器？](https://www.v2ex.com/t/735079) 
 - [2020-12-13-请求大家帮助点赞-VSCode-的设置编辑器背景图片的新功能-Issue](https://www.v2ex.com/t/735066) 
 - [2020-12-13-缓存一致性协议解决了可见性问题，那为什么-Java-代码还要解决可见性问题？](https://www.v2ex.com/t/735054) 
-- [2020-12-13-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
+- [2020-12-13-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-13-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-13-供不应求,《0day安全-软件漏洞分析技术》第三次再版印刷啦!](https://sec.thief.one/article_content?a_id=d342c2e11cb98383880077ad27edc791) 
 - [2020-12-13-今日14点|字节跳动「安全范儿」攻防论坛,首秀!](https://sec.thief.one/article_content?a_id=fcfaf4765c4a0354f59d46423fa4b8ef) 
@@ -66,3 +55,4 @@
 - [2020-12-10-勒索病毒“打劫”富士康北美工厂,企业数字资产安全将如何保障?](https://sec.thief.one/article_content?a_id=b804e4804fdae6cd57871fcde015fe6b) 
 - [2020-12-10-【安全圈】欧洲药品管理局COVID-19-疫苗认证相关文件或已泄露](https://sec.thief.one/article_content?a_id=55e1a445eae8626f614909c78da69a36) 
 - [2020-12-10-奇安信入选“工业信息安全监测预警网络建设支撑机构”](https://sec.thief.one/article_content?a_id=48a35ecc9710331a06b4afa93204d29c) 
+- [2020-12-11-UWB/蓝牙/WiFi/红外/Zigbee/LoRa-Edge…….室内定位技术的百家争鸣时代](https://www.ershicimi.com/p/a35fb040e7e0a28830e1717cb4094dd0) 

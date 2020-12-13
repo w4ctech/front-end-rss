@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-13 20:49:26，:rocket: 更新条数: +3334， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-13 21:04:35，:rocket: 更新条数: +3379， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -22,7 +22,7 @@
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)  
+- [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -162,6 +162,26 @@
 </summary>
 
 
+- [2020-12-12-大规模采用-TypeScript-之后的-10-个见解](https://www.ershicimi.com/p/35168a944f8dba42d1c775e4ef57ead0) ![](assets/new.png)  
+- [2020-12-12-1-万-Star-！自称“最牛叉的”负载测试工具](https://www.ershicimi.com/p/82b29b2a86e48cd0cc4cf480a28109b6) ![](assets/new.png)  
+- [2020-12-11-为什么程序员互相之间不能透露薪水？是怕“凡尔赛”吗？](https://www.ershicimi.com/p/0be73d690b5f7d9e590a42f0e1c80125) ![](assets/new.png)  
+- [2020-12-11-「科普」前端工程师简史](https://www.ershicimi.com/p/d5b6c5ad1437db530955cbda8d5a417a) ![](assets/new.png)  
+- [2020-12-11-你不能错过的超赞色彩组合！设计师的配色宝典](https://www.ershicimi.com/p/0dca022f64204a29932d5b20f28681a5) ![](assets/new.png)  
+- [2020-12-10-Vue-项目打包部署总结](https://www.ershicimi.com/p/cd8585626a3a5e222c6a8027a78efa12) ![](assets/new.png)  
+- [2020-12-10-1.4-万-Star！迄今为止速度最快的端口扫描器](https://www.ershicimi.com/p/643ccf87d5706d043b023df59574d518) ![](assets/new.png)  
+- [2020-12-10-灵感-|-12组钱包APP界面设计](https://www.ershicimi.com/p/873f8fcc88e9c4e7047cb537284237d7) ![](assets/new.png)  
+- [2020-12-09-两小时搞定-ES6：原理讲解+项目实战](https://www.ershicimi.com/p/b65c475eb70c0c89a1fe92a3a0898706) ![](assets/new.png)  
+- [2020-12-09-Math.random-还能这样玩？](https://www.ershicimi.com/p/17094de760f17b56b7ef284d8013c55d) ![](assets/new.png)  
+- [2020-12-09-灵感-|-高效工作必备的任务管理网页设计](https://www.ershicimi.com/p/b3444615a0c75fc9782af8ce527d3217) ![](assets/new.png)  
+- [2020-12-08-用-CSS-实现一个抽奖转盘附详细代码+思路](https://www.ershicimi.com/p/ad4df4b70d3898d0e6d64c188e8b89e6) ![](assets/new.png)  
+- [2020-12-08-GitHub-月榜第-3，微软的老照片修复工具火了](https://www.ershicimi.com/p/2ed6fb21af2fe1544662cd80763a7974) ![](assets/new.png)  
+- [2020-12-08-灵感-|-12组投资APP界面设计](https://www.ershicimi.com/p/afa289c9112313b393c9a91a8ef0e0b1) ![](assets/new.png)  
+- [2020-12-07-一套代码、多端运行，Flutter是如何实现的？](https://www.ershicimi.com/p/092bb0b96ddfd4245d4c2991d19578a6) ![](assets/new.png)  
+- [2020-12-07-为什么-React-源码不用-TypeScript-来写？](https://www.ershicimi.com/p/178236e68b9dbc7086326474b0ede4ea) ![](assets/new.png)  
+- [2020-12-06-网页骨架屏自动生成方案分享](https://www.ershicimi.com/p/8194978da6ad597af50424dff8847655) ![](assets/new.png)  
+- [2020-12-06-面向对象：活泼开朗的巨蟹宝宝，希望遇到温柔体贴的你](https://www.ershicimi.com/p/499b1d16e42721f97c213b085a109cf1) ![](assets/new.png)  
+- [2020-12-05-程序员用-M1-MacBook-当主力开发机​是什么体验？](https://www.ershicimi.com/p/b436415a52fee3b6f61e5f0f46d788dd) ![](assets/new.png)  
+- [2020-12-05-JavaScript-弱依赖项的使用场景](https://www.ershicimi.com/p/9bcf8d9b03df37139145f13a49bea24c) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -469,6 +489,11 @@
 </summary>
 
 
+- [2020-12-13-开源推荐|10个惊人的复古CSS套件](https://juejin.im/post/6905772706198159374) ![](assets/new.png)  
+- [2020-12-13-Node.js-服务性能翻倍的秘密（一）](https://juejin.im/post/6905765245420535822) ![](assets/new.png)  
+- [2020-12-13-潮流前端周刊（第14期）--2020跨年](https://juejin.im/post/6905752764391882765) ![](assets/new.png)  
+- [2020-12-13-简单实现-babel-plugin-import-插件](https://juejin.im/post/6905708824703795214) ![](assets/new.png)  
+- [2020-12-13-如何用-Babel-为代码自动引入依赖](https://juejin.im/post/6905707252963868679) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,20 +597,20 @@
 - [2020-12-13-资料-|-Linkedin-工程团队出品的-SRE-入门教程](https://toutiao.io/k/zak7avs) ![](assets/new.png)  
 - [2020-12-13-Go-并发编程（一）：goroutine](https://toutiao.io/k/5l5bvv8) ![](assets/new.png)  
 - [2020-12-13-对闲鱼分享组件升级后，才知道什么叫灵活可扩展](https://toutiao.io/k/eikp4f8) ![](assets/new.png)  
-- [2020-12-13-了解一下-HTTP1.1-Pipelining-技术](https://toutiao.io/k/mx1jfnt) ![](assets/new.png)  
-- [2020-12-13-区块链-2020-年度回顾之公链篇：比特币、以太坊、Polkadot-和-Filecoin](https://toutiao.io/k/xtems29) ![](assets/new.png)  
 - [2020-12-13-ICDM-论文：探索跨会话信息感知的推荐模型](https://toutiao.io/k/w3j8zd8) ![](assets/new.png)  
+- [2020-12-13-区块链-2020-年度回顾之公链篇：比特币、以太坊、Polkadot-和-Filecoin](https://toutiao.io/k/xtems29) ![](assets/new.png)  
+- [2020-12-13-了解一下-HTTP1.1-Pipelining-技术](https://toutiao.io/k/mx1jfnt) ![](assets/new.png)  
 - [2020-12-13-译-如何在-ASP.NET-Core-中实现全局异常拦截](https://toutiao.io/k/o7e9xfu) ![](assets/new.png)  
-- [2020-12-13-推荐-QPS、TPS、RT、并发数、吞吐量理解和性能优化深入思考](https://toutiao.io/k/e23a1e1) ![](assets/new.png)  
-- [2020-12-13-推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) ![](assets/new.png)  
-- [2020-12-13-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
-- [2020-12-13-推荐-AutoExcel-实现百万数据秒级导入导出](https://toutiao.io/k/ui65fqe) ![](assets/new.png)  
-- [2020-12-13-推荐-编程语言学习心得-（精简版）：不要害怕遗忘](https://toutiao.io/k/ssh2p81) ![](assets/new.png)  
-- [2020-12-13-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
 - [2020-12-13-推荐-如何优雅的实现分布式锁](https://toutiao.io/k/veeydsj) ![](assets/new.png)  
-- [2020-12-13-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
+- [2020-12-13-推荐-前端高效开发必备的-js-库梳理](https://toutiao.io/k/rtusig3) ![](assets/new.png)  
+- [2020-12-13-推荐-AutoExcel-实现百万数据秒级导入导出](https://toutiao.io/k/ui65fqe) ![](assets/new.png)  
 - [2020-12-13-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
 - [2020-12-13-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) ![](assets/new.png)  
+- [2020-12-13-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
+- [2020-12-13-推荐-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/qvfq564) ![](assets/new.png)  
+- [2020-12-13-推荐-从烟囱式到-SOA-再到微服务，我把阿里面试官说懵了](https://toutiao.io/k/otecb5i) ![](assets/new.png)  
+- [2020-12-13-推荐-面试过-200-人的经验，都在这里了-|-码农周刊第-325-期](https://toutiao.io/k/xvysg5s) ![](assets/new.png)  
+- [2020-12-13-推荐-CTO-怒了：“如果中台不省钱，我建个屁中台啊！”](https://toutiao.io/k/batmypd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -628,6 +653,26 @@
 </summary>
 
 
+- [2020-12-12-腾讯搞起物联网平台来，就很有腾讯那味儿~](https://www.ershicimi.com/p/8d55f8dc68d0148f4bf24fc1f4d9bc62) ![](assets/new.png)  
+- [2020-12-12-【AIoT产业年终盛典·报名开启】拨迷见“物”，洞察物联网新十年！](https://www.ershicimi.com/p/fa050b5a77c77d136bc5d4e74667f6ad) ![](assets/new.png)  
+- [2020-12-12-技术&商业双轮驱动，黑芝麻如何实现自动驾驶芯片突围？](https://www.ershicimi.com/p/8c795dd8065e534daa552f26b08f32b4) ![](assets/new.png)  
+- [2020-12-11-UWB/蓝牙/WiFi/红外/Zigbee/LoRa-Edge…….室内定位技术的百家争鸣时代](https://www.ershicimi.com/p/a35fb040e7e0a28830e1717cb4094dd0) ![](assets/new.png)  
+- [2020-12-11-开启LPWAN-2.0时代的底层技术：Advanced-M-FSK二](https://www.ershicimi.com/p/368a46bf87349f1d9ab09fd6e7220ed7) ![](assets/new.png)  
+- [2020-12-11-灰色的暴利市场，物联网成为黑客的捞金温床](https://www.ershicimi.com/p/c4edf085bf8c3b9ff081c44c080a00b7) ![](assets/new.png)  
+- [2020-12-10-人民日报点赞的NB-IoT应用：独居老人水表12小时不走自动预警，建议全国推广](https://www.ershicimi.com/p/c27836fe439b38c11e2023d88b8c66e9) ![](assets/new.png)  
+- [2020-12-10-【AIoT产业年终盛典·报名开启】拨迷见“物”，洞察物联网新十年！](https://www.ershicimi.com/p/ba742e6a560fd6d7e280903dbfde396d) ![](assets/new.png)  
+- [2020-12-10-为什么物联网设备离不开定位功能？](https://www.ershicimi.com/p/994d410a9846900a68bba57f8292cf46) ![](assets/new.png)  
+- [2020-12-09-昨晚，苹果悄悄上线头戴式耳机AirPods-Max，4399元！“真TM贵”-还是“真NM香”？](https://www.ershicimi.com/p/d0fc8e89524bbf60cbd98581c07fb73d) ![](assets/new.png)  
+- [2020-12-09-【榜单】新基建成新十年风向，哪些物联网“行业/企业/人物/方案”将最具潜力？](https://www.ershicimi.com/p/33b06d494ff606ac59260af25de6d6c2) ![](assets/new.png)  
+- [2020-12-09-5G-toB大戏拉开帷幕，公网专用正当其时](https://www.ershicimi.com/p/d4f9a5f21cf9d6a1ac92d36771f13412) ![](assets/new.png)  
+- [2020-12-08-智能制造站上风口](https://www.ershicimi.com/p/e9df65d416f9e67c21cfb7d8416c1600) ![](assets/new.png)  
+- [2020-12-08-华为名师拆书直播-|-5G物联网及NB-IoT技术详解](https://www.ershicimi.com/p/d0646b22f2172d8e38f50b28cf6ec704) ![](assets/new.png)  
+- [2020-12-08-【榜单】新基建成新十年风向，哪些物联网“行业/企业/人物/方案”将最具潜力？](https://www.ershicimi.com/p/ccb64363ed433f01d760903f04029d82) ![](assets/new.png)  
+- [2020-12-08-尼古拉·特斯拉，到底有多神？](https://www.ershicimi.com/p/ff17d018c7f0695b7b48a6a42806c243) ![](assets/new.png)  
+- [2020-12-07-南北大众因“缺芯”导致车企停产？比亚迪：不仅自足，还能外供！](https://www.ershicimi.com/p/59fdad8a759bde3bd927e57d62ac1049) ![](assets/new.png)  
+- [2020-12-07-搭载移远C-V2X模组-红旗旗舰级智慧全能电动SUV-E-HS9正式上市](https://www.ershicimi.com/p/6ef2ff09486cd84ccb62e8d9c4a79c39) ![](assets/new.png)  
+- [2020-12-07-2020中国国际物联网产业大奖揭晓，TOP-10榜单火热出炉！](https://www.ershicimi.com/p/a337c3b2a2b401167115a742a7d7dfaa) ![](assets/new.png)  
+- [2020-12-07-【新书发布】明晚7:00，带你读懂“新基建”背后的国家战略与行动路径](https://www.ershicimi.com/p/ad084fc0ba13c58937f95473b1e480fc) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

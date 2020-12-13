@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-13 20:49:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 21:04:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,7 +31,6 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-12-13-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-13-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-13-供不应求,《0day安全-软件漏洞分析技术》第三次再版印刷啦!](https://sec.thief.one/article_content?a_id=d342c2e11cb98383880077ad27edc791) 
 - [2020-12-13-今日14点|字节跳动「安全范儿」攻防论坛,首秀!](https://sec.thief.one/article_content?a_id=fcfaf4765c4a0354f59d46423fa4b8ef) 
@@ -56,3 +55,4 @@
 - [2020-12-10-勒索病毒“打劫”富士康北美工厂,企业数字资产安全将如何保障?](https://sec.thief.one/article_content?a_id=b804e4804fdae6cd57871fcde015fe6b) 
 - [2020-12-10-【安全圈】欧洲药品管理局COVID-19-疫苗认证相关文件或已泄露](https://sec.thief.one/article_content?a_id=55e1a445eae8626f614909c78da69a36) 
 - [2020-12-10-奇安信入选“工业信息安全监测预警网络建设支撑机构”](https://sec.thief.one/article_content?a_id=48a35ecc9710331a06b4afa93204d29c) 
+- [2020-12-11-UWB/蓝牙/WiFi/红外/Zigbee/LoRa-Edge…….室内定位技术的百家争鸣时代](https://www.ershicimi.com/p/a35fb040e7e0a28830e1717cb4094dd0) 

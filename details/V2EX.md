@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-12-13 09:55:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 10:05:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-13-6800XT-温度太高了，咋整？](https://www.v2ex.com/t/735011) 
+- [2020-12-13-有没有办法屏蔽-macos-触控板的重按和-taptic-反馈呢](https://www.v2ex.com/t/735010) 
 - [2020-12-13-最近大家有没有收到「欢迎使用和了解您的新-MacBook-Air」的推送提示](https://www.v2ex.com/t/735009) 
 - [2020-12-13-海底捞：去过一次不想去第二次](https://www.v2ex.com/t/735008) 
 - [2020-12-13-外接-1080p-的显示效果比-2k-的好？大佬进来支支招](https://www.v2ex.com/t/735007) 
@@ -35,4 +37,3 @@
 - [2020-12-13-MacBook-Pro-M1-使用-Android-Studio-开发-Flutter-的两个情况](https://www.v2ex.com/t/734965) 
 - [2020-12-13-二级域名反代方案咨询。](https://www.v2ex.com/t/734964) 
 - [2020-12-13-大家出门短途旅行-2-3-天带笔记本吗？](https://www.v2ex.com/t/734963) 
-- [2020-12-13-日经-那些所谓的-AI-音箱真的不偷听吗？](https://www.v2ex.com/t/734962) 

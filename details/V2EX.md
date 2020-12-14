@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-14 14:50:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 15:05:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-14-现在还没办法搞到便宜的美国实体卡吗？-paypal-已经禁止-gv-号码注册了](https://www.v2ex.com/t/735468) 
 - [2020-12-14-群辉-920+使用疑惑](https://www.v2ex.com/t/735466) 
 - [2020-12-14-数据库如果使用了-mmap，是否还需要页面的-buffer-pool-呢](https://www.v2ex.com/t/735465) 
 - [2020-12-14-求推荐个人-CRM-社交关系管理系统](https://www.v2ex.com/t/735464) 
@@ -41,4 +42,3 @@
 - [2020-12-14-Google-炸了？网盘打不开了](https://www.v2ex.com/t/735421) 
 - [2020-12-14-找不到您的-Google-账号](https://www.v2ex.com/t/735420) 
 - [2020-12-14-寻找一套“同类产品参数对比”的系统](https://www.v2ex.com/t/735419) 
-- [2020-12-14-谷歌又炸了？](https://www.v2ex.com/t/735418) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-14 18:05:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 18:32:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2862,7 +2862,6 @@
 - [2020-12-14-感觉-spring-jpa-使用越来越广泛了](https://www.v2ex.com/t/735432) 
 - [2020-12-14-Google-全球炸了-30-分钟后貌似已经恢复了](https://www.v2ex.com/t/735431) 
 - [2020-12-14-Google-出现大规模服务中断故障](https://www.v2ex.com/t/735430) 
-- [2020-12-14-hxd-们，我的-google-账号为什么不存在了？´･_･`](https://www.v2ex.com/t/735429) 
 - [2020-12-14-程序员才懂的“凡尔赛语录”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14052&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9jdf7YN4_pIHKumAvvltLQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-14-银行规模化敏捷的窘境-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14050&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fscale-agile-transformation-four-steps%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-14-我的笔记系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14049&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fnote-taking-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -2891,12 +2890,14 @@
 - [2020-12-14-用-Go-做爬虫的话，有哪些库可以选择？](https://toutiao.io/k/qqqrmsn) 
 - [2020-12-14-前置机器学习（四）：一文掌握-Pandas-用法](https://toutiao.io/k/zly4hhu) 
 - [2020-12-14-推荐-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/qvfq564) 
-- [2020-12-14-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) 
-- [2020-12-14-推荐-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) 
+- [2020-12-14-推荐-编程语言学习心得-（精简版）：不要害怕遗忘](https://toutiao.io/k/ssh2p81) 
 - [2020-12-14-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) 
 - [2020-12-14-推荐-CTO-怒了：“如果中台不省钱，我建个屁中台啊！”](https://toutiao.io/k/batmypd) 
+- [2020-12-14-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) 
+- [2020-12-14-推荐-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) 
 - [2020-12-14-推荐-微服务架构下-CI/CD-如何落地](https://toutiao.io/k/303m5ez) 
 - [2020-12-14-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) 
+- [2020-12-14-推荐-中台的本质及中台建设的-4-点思考](https://toutiao.io/k/9octogz) 
 - [2020-12-14-笑着走向终结:Flash喜迎最后一次更新](https://sec.thief.one/article_content?a_id=befa6aba3db261bab859450d99e23a46) 
 - [2020-12-14-人物-|绿盟科技曹嘉:做管理就是做服务](https://sec.thief.one/article_content?a_id=8f7f898efd35ec844145d4ce97956c3c) 
 - [2020-12-14-【网信科普】什么是云存储?](https://sec.thief.one/article_content?a_id=80bf312031b39cc655701a00a26fc5c3) 

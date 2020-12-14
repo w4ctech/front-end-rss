@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-14 08:09:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 08:37:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -92,7 +92,6 @@
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-12-14-学而思网校直播课堂架构演进之路](https://www.ershicimi.com/p/516e1db057bf695b89f7faf10b38f43a) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
-- [2020-12-14-大家用-mac-看国内视频，比如爱奇艺、腾讯视频，是下载客户端，还是直接用浏览器看？](https://www.v2ex.com/t/735271) 
 - [2020-12-14-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-13-【视频】|-从安全运营看金融机构网络安全规划](https://sec.thief.one/article_content?a_id=badd152c5b04c76efd4d2503a6527b8f) 
 - [2020-12-11-Python核心:Django+Scrapy+Hadoop+数据挖掘+机器学习+精选视频...](https://sec.thief.one/article_content?a_id=f53839933eed8c84752a0ef7790cfa5c) 

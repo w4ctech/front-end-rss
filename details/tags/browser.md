@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-14 22:07:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 22:36:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,8 +23,15 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
+- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
+- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-12-14-不同角度看跨域那些事](https://juejin.im/post/6906078670210007053) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-12-14-上海/远程-Dimension.im-/-Mask-Network-热招-前端/Android/QA；公司高速发展，-IEEE/-ECMA&TC39-成员](https://www.v2ex.com/t/735477) 
+- [2020-12-14-轻松搞懂-Trie-树](https://toutiao.io/k/es1n2rs) 
+- [2020-12-14-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
+- [2020-12-14-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-14-【风险提示】天融信关于XStream-任意文件删除和服务端请求伪造漏洞...](https://sec.thief.one/article_content?a_id=3784894305e09f5d7da087d14435a3a3) 
 - [2020-12-14-隐藏在浏览器背后的“黑手”](https://sec.thief.one/article_content?a_id=66cdfee9bc800582c7483ae4ea8797e0) 
 - [2020-12-14-2020滴滴网络安全峰会倒计时3天!重咖来袭,不免动心](https://sec.thief.one/article_content?a_id=d85f5756040b5cda0288f4515af29eed) 

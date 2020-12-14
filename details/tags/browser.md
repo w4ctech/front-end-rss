@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-14 10:09:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 10:33:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,10 +41,16 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-12-14-服务端渲染搭建示例](https://www.v2ex.com/t/735330) 
 - [2020-12-14-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-14-轻松搞懂-Trie-树](https://toutiao.io/k/es1n2rs) 
+- [2020-12-14-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-14-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
+- [2020-12-14-【风险提示】天融信关于XStream-任意文件删除和服务端请求伪造漏洞...](https://sec.thief.one/article_content?a_id=3784894305e09f5d7da087d14435a3a3) 
+- [2020-12-14-隐藏在浏览器背后的“黑手”](https://sec.thief.one/article_content?a_id=66cdfee9bc800582c7483ae4ea8797e0) 
+- [2020-12-14-2020滴滴网络安全峰会倒计时3天!重咖来袭,不免动心](https://sec.thief.one/article_content?a_id=d85f5756040b5cda0288f4515af29eed) 
+- [2020-12-14-又一省发布工业大数据发展实施方案,重点提及工业安全](https://sec.thief.one/article_content?a_id=f52407a5e4e932730b0da1846e138b2f) 
+- [2020-12-14-漏洞情报|XStream任意文件删除/服务端请求伪造漏洞风险通告CVE-...](https://sec.thief.one/article_content?a_id=f8401711e9c7aff6820b82a8ef6d415d) 
+- [2020-12-14-历时3小时,澳门举行首次网络安全事故演习](https://sec.thief.one/article_content?a_id=f5d9d25db37dd3e52af6febbbf27900b) 
 - [2020-12-14-恶意软件Adrozek在多个浏览器中以无提示方式将广告注入搜索结果](https://sec.thief.one/article_content?a_id=bba62da489504c3314c8329243e13948) 
 - [2020-12-14-每日安全动态推送12-14](https://sec.thief.one/article_content?a_id=2e0d71bf0f3216a2050ec30ec5a7c627) 
 - [2020-12-14-安全资讯-|-2020.12.7-12.13](https://sec.thief.one/article_content?a_id=69e04183c0b710db80e276a517021cea) 
@@ -63,8 +69,4 @@
 - [2020-12-11-观察|《物联网安全改进法案》是否会成为美国针对我国物联网厂商的重...](https://sec.thief.one/article_content?a_id=9ed7b0aa50022effda98f149e1a5d88e) 
 - [2020-12-11-聚焦智慧民航发展-安全运营稳护航](https://sec.thief.one/article_content?a_id=789ca861a0aa32ec1ed601fb3b083f37) 
 - [2020-12-11-先声夺人|《2021产业互联网安全十大趋势》发布:云原生安全上榜](https://sec.thief.one/article_content?a_id=9698a40585bdbbff881b18c55d009443) 
-- [2020-12-11-产业互联网安全十大趋势2021](https://sec.thief.one/article_content?a_id=e1979b177d789e3a760cd14920ff548f) 
-- [2020-12-11-每日安全动态推送12-11](https://sec.thief.one/article_content?a_id=fa9001a63945c16bf48cb2e3925a052c) 
-- [2020-12-11-好书推荐-|-第二期:《云安全实用指南》](https://sec.thief.one/article_content?a_id=1452e7f297e8afeb526a79fc53c2adfd) 
-- [2020-12-11-【议程揭晓】贝壳找房ICS安全技术峰会精彩抢先看](https://sec.thief.one/article_content?a_id=01da816e9f1aefc991541b282ced6af3) 
 - [2020-12-11-UWB/蓝牙/WiFi/红外/Zigbee/LoRa-Edge…….室内定位技术的百家争鸣时代](https://www.ershicimi.com/p/a35fb040e7e0a28830e1717cb4094dd0) 

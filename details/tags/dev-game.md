@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-14 10:09:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 10:33:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,7 +28,6 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
-- [2020-12-14-iPhone-上求推荐好玩的游戏](https://www.v2ex.com/t/735329) 
+- [2020-12-14-如何利用-Python-实现生命游戏](https://www.v2ex.com/t/735378) 
 - [2020-12-14-冠赢网络上云-游戏盾彻底解决DDoS/CC攻击-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14039&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9097%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-14-云游戏在革谁的命？](https://toutiao.io/k/160lo6y) 
-- [2020-12-11-张一鸣批员工上班摸鱼聊游戏,字节员工怒怼:不爽那你退群啊!](https://sec.thief.one/article_content?a_id=a8633df712b6514157612749b3100782) 

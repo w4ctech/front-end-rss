@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-14 11:08:46，:rocket: 更新条数: +3875， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-14 11:29:43，:rocket: 更新条数: +3637， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-12-14-交通管制、限制外出……阿塞拜疆采取更严格防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixLWV2PnrO0HvFLAvUhtr201214&isfromapp=1) ![](assets/new.png)  
+- [2020-12-14-非洲疫情观察丨第二波新冠肺炎疫情正在非洲蔓延-假期临近-抗疫形势愈加严峻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJd14wKFdyiiWpjNEfGw8201214&isfromapp=1) ![](assets/new.png)  
+- [2020-12-14-新加坡2020年度汉字出炉-“罩”字当选](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artith1RZL3vOcqhn7xQiT4J201214&isfromapp=1) ![](assets/new.png)  
 - [2020-12-14-河南濮阳一进口冷冻带鱼核酸检测呈阳性-所涉人员、场所环境核酸检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSoyuzuoTNUg6hwGV4bKV201214&isfromapp=1) ![](assets/new.png)  
 - [2020-12-14-父母失业、靠救济粮度日……美国年轻人面临艰难选择：上学？上班？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG0wUHLQ0mNBpryZobMrt201214&isfromapp=1) ![](assets/new.png)  
-- [2020-12-14-英国间谍小说大师约翰·勒卡雷因肺炎逝世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilMAEzN6Ce5v0GbBsSMw8201214&isfromapp=1) ![](assets/new.png)  
-- [2020-12-13-阿尔及利亚总统特本积极接受新冠治疗-还需数周才能完全恢复体力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFNRsWu2mLzhWKqC74X7N201214&isfromapp=1) ![](assets/new.png)  
-- [2020-12-13-俄罗斯人民艺术家“胜利之声”霍罗舍弗采夫去世-两周前确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX4dlOJJZfIuzGRTksK7M201213&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -677,26 +677,6 @@
 </summary>
 
 
-- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +974,9 @@
 </summary>
 
 
+- [2020-12-14-2020-年了，还有用-ADSL-电话线上网的地方吗？](https://www.v2ex.com/t/735392) ![](assets/new.png)  
+- [2020-12-14-北京&远程-北美最大的免费在线流媒体播放平台-TubiTV-招聘](https://www.v2ex.com/t/735391) ![](assets/new.png)  
+- [2020-12-14-有什么实体店的-CRM-系统推荐嘛？包括结算什么的更好](https://www.v2ex.com/t/735389) ![](assets/new.png)  
 - [2020-12-14-独生子女应该上交工资给父母吗？](https://www.v2ex.com/t/735387) ![](assets/new.png)  
 - [2020-12-14-南京-citrix-美国外企-20-60k-五险一金-24％陪产假-180-天](https://www.v2ex.com/t/735386) ![](assets/new.png)  
 - [2020-12-14-Open-vSwitch-入门实践（2）使用-OVS-构建隔离网络](https://www.v2ex.com/t/735385) ![](assets/new.png)  
@@ -1011,9 +994,6 @@
 - [2020-12-14-三七互娱内推-社招-初/中/高-Android-工程师-13-25K-15-薪-广州](https://www.v2ex.com/t/735373) ![](assets/new.png)  
 - [2020-12-14-什么软件支持为已经合并的代码提评审意见](https://www.v2ex.com/t/735372) ![](assets/new.png)  
 - [2020-12-14-计算机非全考研交流](https://www.v2ex.com/t/735371) ![](assets/new.png)  
-- [2020-12-14-如何将阿里云服务器迁移到亚马逊服务器](https://www.v2ex.com/t/735370) ![](assets/new.png)  
-- [2020-12-14-Techo-动手实验室报名正式开始~](https://www.v2ex.com/t/735369) ![](assets/new.png)  
-- [2020-12-14-试开一个微信小店卖点手工织物玩偶，看看有没有感兴趣的](https://www.v2ex.com/t/735366) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

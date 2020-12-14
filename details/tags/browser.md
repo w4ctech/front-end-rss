@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-14 21:29:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 21:40:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,6 +30,7 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-12-14-不同角度看跨域那些事](https://juejin.im/post/6906078670210007053) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-14-上海/远程-Dimension.im-/-Mask-Network-热招-前端/Android/QA；公司高速发展，-IEEE/-ECMA&TC39-成员](https://www.v2ex.com/t/735477) 
 - [2020-12-14-【风险提示】天融信关于XStream-任意文件删除和服务端请求伪造漏洞...](https://sec.thief.one/article_content?a_id=3784894305e09f5d7da087d14435a3a3) 
@@ -56,3 +57,4 @@
 - [2020-12-11-观察|《物联网安全改进法案》是否会成为美国针对我国物联网厂商的重...](https://sec.thief.one/article_content?a_id=9ed7b0aa50022effda98f149e1a5d88e) 
 - [2020-12-11-聚焦智慧民航发展-安全运营稳护航](https://sec.thief.one/article_content?a_id=789ca861a0aa32ec1ed601fb3b083f37) 
 - [2020-12-11-先声夺人|《2021产业互联网安全十大趋势》发布:云原生安全上榜](https://sec.thief.one/article_content?a_id=9698a40585bdbbff881b18c55d009443) 
+- [2020-12-11-UWB/蓝牙/WiFi/红外/Zigbee/LoRa-Edge…….室内定位技术的百家争鸣时代](https://www.ershicimi.com/p/a35fb040e7e0a28830e1717cb4094dd0) 

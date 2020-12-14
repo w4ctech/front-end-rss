@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-14 02:05:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 02:36:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,10 +41,11 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-12-14-页面图标（浏览器）无法显示缩略图，如图所示。](https://www.v2ex.com/t/735145) 
+- [2020-12-14-W5-SOAR-v0.1-一个安全行业接近成熟的开源-SOAR-项目](https://www.v2ex.com/t/735136) 
 - [2020-12-14-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-14-轻松搞懂-Trie-树](https://toutiao.io/k/es1n2rs) 
 - [2020-12-14-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
-- [2020-12-14-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-14-Web安全:端口扫描工具](https://sec.thief.one/article_content?a_id=0ab3ef3fd88c4fd6d1c82c83536bf802) 
 - [2020-12-13-在招-|-润联科技诚招云安全、终端安全等方向资深安全工程师](https://sec.thief.one/article_content?a_id=42362fcfd71de4f47205802436473ea9) 
 - [2020-12-13-供不应求,《0day安全-软件漏洞分析技术》第三次再版印刷啦!](https://sec.thief.one/article_content?a_id=d342c2e11cb98383880077ad27edc791) 

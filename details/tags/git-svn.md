@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-14 05:42:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 05:49:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -17,3 +17,4 @@
 - [2020-12-13-Hexo+Kaze+Gitee-Pages-搭建静态博客网站](https://juejin.im/post/6905697486363426823) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-12-14-编程初学者如何在-GitHub-寻找适合自己的小项目？](https://www.v2ex.com/t/735239) 

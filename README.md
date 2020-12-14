@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-14 17:47:08，:rocket: 更新条数: +946， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-14 17:52:54，:rocket: 更新条数: +3868， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-12-14-12月13日全国新增确诊病例16例-本土病例2例](http://m.china.caixin.com/m/2020-12-14/101638812.html) ![](assets/new.png)  
+- [2020-12-14-【境内疫情观察】黑龙江新增2例本土确诊病例（12月13日）](http://m.database.caixin.com/m/2020-12-14/101638919.html) ![](assets/new.png)  
+- [2020-12-14-大流行手记|12月13日：美国新冠住院超10万人-秘鲁暂停国药疫苗临床试验](http://m.international.caixin.com/m/2020-12-14/101638808.html) ![](assets/new.png)  
+- [2020-12-13-【境内疫情观察】黑龙江新增4例本土确诊病例（12月12日）](http://m.database.caixin.com/m/2020-12-13/101638727.html) ![](assets/new.png)  
+- [2020-12-13-大流行手记|12月12日：六国已批准辉瑞疫苗紧急使用-英提醒关注接种过敏](http://m.international.caixin.com/m/2020-12-13/101638714.html) ![](assets/new.png)  
+- [2020-12-12-聚焦|张文宏：全球启动疫苗接种计划，疫情控制关键节点何时出现](http://m.opinion.caixin.com/m/2020-12-12/101638702.html) ![](assets/new.png)  
+- [2020-12-12-【境内疫情观察】全国新增13例境外输入病例（12月11日）](http://m.database.caixin.com/m/2020-12-12/101638660.html) ![](assets/new.png)  
+- [2020-12-12-大流行手记|12月11日：昆士兰大学新冠疫苗或致HIV假阳-赛诺菲疫苗研发受挫](http://m.international.caixin.com/m/2020-12-12/101638563.html) ![](assets/new.png)  
+- [2020-12-11-哈兽研建立新冠水貂感染模型-可模拟人类肺部病变](http://m.science.caixin.com/m/2020-12-11/101638346.html) ![](assets/new.png)  
+- [2020-12-11-港府向科兴和复星采购1500万剂新冠疫苗-首批下月到港](http://m.china.caixin.com/m/2020-12-11/101638300.html) ![](assets/new.png)  
+- [2020-12-11-【境内疫情观察】黑龙江新增2例本土病例（12月10日）](http://m.database.caixin.com/m/2020-12-11/101638126.html) ![](assets/new.png)  
+- [2020-12-11-大流行手记|12月10日：首尔建集装箱病房扩床位-研究称意大利儿童去年11月感染新冠](http://m.international.caixin.com/m/2020-12-11/101638028.html) ![](assets/new.png)  
+- [2020-12-11-聚焦|张文宏：疫苗接种计划何时可以启动](http://m.opinion.caixin.com/m/2020-12-11/101638455.html) ![](assets/new.png)  
+- [2020-12-10-最新海外疫情：新冠感染近6880万-累计死亡超156万](http://m.international.caixin.com/m/2020-12-10/101637858.html) ![](assets/new.png)  
+- [2020-12-10-香港一住宅成“疫区”-警方派谈判专家劝居民配合检疫](http://m.china.caixin.com/m/2020-12-10/101637967.html) ![](assets/new.png)  
+- [2020-12-10-【境内疫情观察】内蒙古新增1例本土病例（12月9日）](http://m.database.caixin.com/m/2020-12-10/101637710.html) ![](assets/new.png)  
+- [2020-12-10-大流行手记|12月9日：英国启动大规模疫苗接种-加拿大批准辉瑞疫苗上市](http://m.international.caixin.com/m/2020-12-10/101637605.html) ![](assets/new.png)  
+- [2020-12-09-【境内疫情观察】四川新增4例本土病例（12月8日）](http://m.database.caixin.com/m/2020-12-09/101637376.html) ![](assets/new.png)  
+- [2020-12-09-大流行手记|12月8日：印度三款疫苗申请紧急使用-中东多国部署疫苗采购](http://m.international.caixin.com/m/2020-12-09/101637221.html) ![](assets/new.png)  
+- [2020-12-09-【图集】成都全市核酸扩大检测-已覆盖25.52万人](http://m.photos.caixin.com/m/2020-12-09/101637238.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -974,6 +994,7 @@
 </summary>
 
 
+- [2020-12-14-抽奖的实现思路有哪些了？](https://www.v2ex.com/t/735478) ![](assets/new.png)  
 - [2020-12-14-上海/远程-Dimension.im-/-Mask-Network-热招-前端/Android/QA；公司高速发展，-IEEE/-ECMA&TC39-成员](https://www.v2ex.com/t/735477) ![](assets/new.png)  
 - [2020-12-14-基于-puppeteer-的高性能-SPA-SEO-解决方案](https://www.v2ex.com/t/735476) ![](assets/new.png)  
 - [2020-12-14-MacBook-外接显示器，支持-HDCP-吗？](https://www.v2ex.com/t/735473) ![](assets/new.png)  
@@ -993,7 +1014,6 @@
 - [2020-12-14-yifeishu.com](https://www.v2ex.com/t/735451) ![](assets/new.png)  
 - [2020-12-14-求判断刘海屏的解决方案-JavaScript](https://www.v2ex.com/t/735449) ![](assets/new.png)  
 - [2020-12-14-理论上-iPad-pro/air-可以装-big-sur-系统么？](https://www.v2ex.com/t/735447) ![](assets/new.png)  
-- [2020-12-14-北京-社招-伴鱼-招聘服务器/前端/算法/Android/iOS-等岗位~](https://www.v2ex.com/t/735446) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,14 +1067,14 @@
 - [2020-12-14-从-Druid-到-ClickHouse：eBay-广告平台数据-OLAP-实战](https://toutiao.io/k/zrzpydr) ![](assets/new.png)  
 - [2020-12-14-微软最强-playwright-python-自动化工具开源了！不用写一行代码](https://toutiao.io/k/31tevol) ![](assets/new.png)  
 - [2020-12-14-蚂蚁金服的一次面试你都会吗？](https://toutiao.io/k/3172y8p) ![](assets/new.png)  
-- [2020-12-14-记一起由-Clang-编译器优化触发的-Crash](https://toutiao.io/k/2as0flo) ![](assets/new.png)  
 - [2020-12-14-译-Android-Studio-和-Gradle-插件使用全新版本编号](https://toutiao.io/k/84ipocl) ![](assets/new.png)  
+- [2020-12-14-记一起由-Clang-编译器优化触发的-Crash](https://toutiao.io/k/2as0flo) ![](assets/new.png)  
 - [2020-12-14-Java-8-Stream-的这些开发技巧，你值得好好收藏](https://toutiao.io/k/fk2qdkv) ![](assets/new.png)  
 - [2020-12-14-今年我读了四个开源项目的源码，来分享下心得](https://toutiao.io/k/chzfx4u) ![](assets/new.png)  
 - [2020-12-14-轻松搞懂-Trie-树](https://toutiao.io/k/es1n2rs) ![](assets/new.png)  
 - [2020-12-14-物化列：字节为解决-Spark-嵌套列查询性能低下的优化](https://toutiao.io/k/pcxepjl) ![](assets/new.png)  
-- [2020-12-14-K8s-将弃用-Docker](https://toutiao.io/k/9gfdk7o) ![](assets/new.png)  
 - [2020-12-14-用-Go-做爬虫的话，有哪些库可以选择？](https://toutiao.io/k/qqqrmsn) ![](assets/new.png)  
+- [2020-12-14-K8s-将弃用-Docker](https://toutiao.io/k/9gfdk7o) ![](assets/new.png)  
 - [2020-12-14-前置机器学习（四）：一文掌握-Pandas-用法](https://toutiao.io/k/zly4hhu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

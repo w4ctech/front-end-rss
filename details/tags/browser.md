@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-14 17:15:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 17:30:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,6 +26,8 @@
 - [2020-12-04-前端-api-请求缓存的-5-种方案](https://www.ershicimi.com/p/0739f868c16f1fc66b41e39b676c2588) 
 - [2020-11-27-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/7609004e2f9423cf4f1b2eb5dc1b19ac) 
 - [2020-12-11-你猜一个-TCP-连接上面能发多少个-HTTP-请求](https://www.ershicimi.com/p/c60bafb3210f050def9b7719202d9750) 
+- [2020-12-09-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/73356e18cd00004d269c88984a8a61b0) 
+- [2020-12-04-前端安全编码规范](https://www.ershicimi.com/p/c8b36b7987f290a7e50281d0ad917717) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -40,8 +42,11 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-12-14-不同角度看跨域那些事](https://juejin.im/post/6906078670210007053) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-12-14-上海/远程-Dimension.im-/-Mask-Network-热招-前端/Android/QA；公司高速发展，-IEEE/-ECMA&TC39-成员](https://www.v2ex.com/t/735477) 
+- [2020-12-14-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-14-轻松搞懂-Trie-树](https://toutiao.io/k/es1n2rs) 
 - [2020-12-14-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
+- [2020-12-14-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-14-【风险提示】天融信关于XStream-任意文件删除和服务端请求伪造漏洞...](https://sec.thief.one/article_content?a_id=3784894305e09f5d7da087d14435a3a3) 
 - [2020-12-14-隐藏在浏览器背后的“黑手”](https://sec.thief.one/article_content?a_id=66cdfee9bc800582c7483ae4ea8797e0) 
 - [2020-12-14-2020滴滴网络安全峰会倒计时3天!重咖来袭,不免动心](https://sec.thief.one/article_content?a_id=d85f5756040b5cda0288f4515af29eed) 

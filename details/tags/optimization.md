@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-14 18:32:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 18:43:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -27,5 +27,4 @@
 - [2020-12-14-记一起由-Clang-编译器优化触发的-Crash](https://toutiao.io/k/2as0flo) 
 - [2020-12-14-物化列：字节为解决-Spark-嵌套列查询性能低下的优化](https://toutiao.io/k/pcxepjl) 
 - [2020-12-14-推荐-QPS、TPS、RT、并发数、吞吐量理解和性能优化深入思考](https://toutiao.io/k/e23a1e1) 
-- [2020-12-14-推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8) 
 - [2020-12-14-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) 

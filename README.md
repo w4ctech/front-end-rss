@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-14 12:10:47，:rocket: 更新条数: +3877， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-14 12:42:05，:rocket: 更新条数: +3879， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -878,7 +878,7 @@
 - [2020-12-13-【React全解2】React生命周期函数含义及使用](https://juejin.im/post/6906011163516272653) ![](assets/new.png)  
 - [2020-12-13-【React全解1】React组件、props、state&setState](https://juejin.im/post/6906010439755235336) ![](assets/new.png)  
 - [2020-12-13-vue-组件业务逻辑复用](https://juejin.im/post/6906010564175069191) ![](assets/new.png)  
-- [2020-12-13-【React全解3】React.useState原理详解，一次性搞懂useState](https://juejin.im/post/6906007507531038727) ![](assets/new.png)  
+- [2020-12-13-跟我学w3c-specifications，万字长文告诉你2020年的css都规定了什么](https://juejin.im/post/6905695376645292045) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,26 +994,26 @@
 </summary>
 
 
+- [2020-12-14-Google-账户系统已恢复正常-2020-12-14-08:30](https://www.v2ex.com/t/735433) ![](assets/new.png)  
+- [2020-12-14-感觉-spring-jpa-使用越来越广泛了](https://www.v2ex.com/t/735432) ![](assets/new.png)  
+- [2020-12-14-Google-全球炸了-30-分钟后貌似已经恢复了](https://www.v2ex.com/t/735431) ![](assets/new.png)  
+- [2020-12-14-Google-出现大规模服务中断故障](https://www.v2ex.com/t/735430) ![](assets/new.png)  
+- [2020-12-14-hxd-们，我的-google-账号为什么不存在了？´･_･`](https://www.v2ex.com/t/735429) ![](assets/new.png)  
+- [2020-12-14-youtube-又挂了](https://www.v2ex.com/t/735428) ![](assets/new.png)  
+- [2020-12-14-Google-大批服务炸了，-全球范围内](https://www.v2ex.com/t/735427) ![](assets/new.png)  
+- [2020-12-14-这次-V2EX-真的人手一个导航网站了...](https://www.v2ex.com/t/735426) ![](assets/new.png)  
+- [2020-12-14-求各位老哥推荐一个测试用例管理工具！](https://www.v2ex.com/t/735425) ![](assets/new.png)  
+- [2020-12-14-好家伙，-Google-炸了还是第一次见](https://www.v2ex.com/t/735424) ![](assets/new.png)  
+- [2020-12-14-这么多年了才发现-dnspod-可以这么玩......恨晚啊](https://www.v2ex.com/t/735423) ![](assets/new.png)  
+- [2020-12-14-Google-竟然账户系统挂了](https://www.v2ex.com/t/735422) ![](assets/new.png)  
+- [2020-12-14-Google-炸了？网盘打不开了](https://www.v2ex.com/t/735421) ![](assets/new.png)  
+- [2020-12-14-找不到您的-Google-账号](https://www.v2ex.com/t/735420) ![](assets/new.png)  
+- [2020-12-14-寻找一套“同类产品参数对比”的系统](https://www.v2ex.com/t/735419) ![](assets/new.png)  
+- [2020-12-14-谷歌又炸了？](https://www.v2ex.com/t/735418) ![](assets/new.png)  
+- [2020-12-14-坚果-R2-一加-8T-类似这种价位的，大家有什么建议么](https://www.v2ex.com/t/735417) ![](assets/new.png)  
+- [2020-12-14-油管崩了？](https://www.v2ex.com/t/735416) ![](assets/new.png)  
+- [2020-12-14-福州-找志同道合中高级-PHP-开发人员待遇-8-15K](https://www.v2ex.com/t/735414) ![](assets/new.png)  
 - [2020-12-14-有没有可以将内容在平台间迁移的工具？](https://www.v2ex.com/t/735413) ![](assets/new.png)  
-- [2020-12-14-Google-全家桶都挂了](https://www.v2ex.com/t/735412) ![](assets/new.png)  
-- [2020-12-14-感觉-jumpserver-并不是很好用啊](https://www.v2ex.com/t/735411) ![](assets/new.png)  
-- [2020-12-14-第一次看到-YouTube-挂](https://www.v2ex.com/t/735410) ![](assets/new.png)  
-- [2020-12-14-油管是不是-error-了？？](https://www.v2ex.com/t/735409) ![](assets/new.png)  
-- [2020-12-14-YouTube-是炸了吗](https://www.v2ex.com/t/735408) ![](assets/new.png)  
-- [2020-12-14-帮女孩子推荐机器配置](https://www.v2ex.com/t/735407) ![](assets/new.png)  
-- [2020-12-14-youtube-挂了-?](https://www.v2ex.com/t/735406) ![](assets/new.png)  
-- [2020-12-14-Gmail-炸了？](https://www.v2ex.com/t/735405) ![](assets/new.png)  
-- [2020-12-14-HHKB-蓝牙版暴毙三个月了，上周六去华强北修，没修好，说固件或芯片损坏，芯片有，没程序！](https://www.v2ex.com/t/735404) ![](assets/new.png)  
-- [2020-12-14-2021-年了，应届生要什么水平，才能较容易的在一线城市立足？](https://www.v2ex.com/t/735403) ![](assets/new.png)  
-- [2020-12-14-又挂啦。。。](https://www.v2ex.com/t/735401) ![](assets/new.png)  
-- [2020-12-14-有什么鼠标可以完美代替苹果自家的-magic-mouse？](https://www.v2ex.com/t/735400) ![](assets/new.png)  
-- [2020-12-14-安卓系统能搞时钟屏保吗？](https://www.v2ex.com/t/735398) ![](assets/new.png)  
-- [2020-12-14-如果人工智能是下一个风口，我想空中通勤是不是下下一个风口](https://www.v2ex.com/t/735397) ![](assets/new.png)  
-- [2020-12-14-白菜录屏-|-小巧、功能强大的-mac-录屏软件](https://www.v2ex.com/t/735396) ![](assets/new.png)  
-- [2020-12-14-Spotify-港区车](https://www.v2ex.com/t/735395) ![](assets/new.png)  
-- [2020-12-14-2020-年了，还有用-ADSL-电话线上网的地方吗？](https://www.v2ex.com/t/735392) ![](assets/new.png)  
-- [2020-12-14-北京&远程-北美最大的免费在线流媒体播放平台-TubiTV-招聘](https://www.v2ex.com/t/735391) ![](assets/new.png)  
-- [2020-12-14-有什么实体店的-CRM-系统推荐嘛？包括结算什么的更好](https://www.v2ex.com/t/735389) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1066,8 +1066,8 @@
 - [2020-12-14-从-Druid-到-ClickHouse：eBay-广告平台数据-OLAP-实战](https://toutiao.io/k/zrzpydr) ![](assets/new.png)  
 - [2020-12-14-译-代码整洁之道的-7-个方法](https://toutiao.io/k/chkucxm) ![](assets/new.png)  
 - [2020-12-14-微软最强-playwright-python-自动化工具开源了！不用写一行代码](https://toutiao.io/k/31tevol) ![](assets/new.png)  
-- [2020-12-14-记一起由-Clang-编译器优化触发的-Crash](https://toutiao.io/k/2as0flo) ![](assets/new.png)  
 - [2020-12-14-译-Android-Studio-和-Gradle-插件使用全新版本编号](https://toutiao.io/k/84ipocl) ![](assets/new.png)  
+- [2020-12-14-记一起由-Clang-编译器优化触发的-Crash](https://toutiao.io/k/2as0flo) ![](assets/new.png)  
 - [2020-12-14-蚂蚁金服的一次面试你都会吗？](https://toutiao.io/k/3172y8p) ![](assets/new.png)  
 - [2020-12-14-今年我读了四个开源项目的源码，来分享下心得](https://toutiao.io/k/chzfx4u) ![](assets/new.png)  
 - [2020-12-14-轻松搞懂-Trie-树](https://toutiao.io/k/es1n2rs) ![](assets/new.png)  

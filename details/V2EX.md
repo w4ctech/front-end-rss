@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-14 05:30:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 05:38:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -37,4 +37,3 @@
 - [2020-12-14-船新的博客主题，进来康康！-LSP](https://www.v2ex.com/t/735188) 
 - [2020-12-14-idea-get-和-set-快捷键生成的时候,-布尔类型前面的-is-会自动去掉](https://www.v2ex.com/t/735187) 
 - [2020-12-14-想法：临街动态停车位](https://www.v2ex.com/t/735186) 
-- [2020-12-14-新加坡区块链-Bybit-招聘测试工程师，-Devops，前端，后端，-Flutter-开发](https://www.v2ex.com/t/735184) 

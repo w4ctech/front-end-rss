@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-14 11:40:48，:rocket: 更新条数: +3873， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-14 11:50:13，:rocket: 更新条数: +951， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-12-14-12月13日全国新增确诊病例16例-本土病例2例](http://m.china.caixin.com/m/2020-12-14/101638812.html) ![](assets/new.png)  
-- [2020-12-14-【境内疫情观察】黑龙江新增2例本土确诊病例（12月13日）](http://m.database.caixin.com/m/2020-12-14/101638919.html) ![](assets/new.png)  
-- [2020-12-14-大流行手记|12月13日：美国新冠住院超10万人-秘鲁暂停国药疫苗临床试验](http://m.international.caixin.com/m/2020-12-14/101638808.html) ![](assets/new.png)  
-- [2020-12-13-【境内疫情观察】黑龙江新增4例本土确诊病例（12月12日）](http://m.database.caixin.com/m/2020-12-13/101638727.html) ![](assets/new.png)  
-- [2020-12-13-大流行手记|12月12日：六国已批准辉瑞疫苗紧急使用-英提醒关注接种过敏](http://m.international.caixin.com/m/2020-12-13/101638714.html) ![](assets/new.png)  
-- [2020-12-12-聚焦|张文宏：全球启动疫苗接种计划，疫情控制关键节点何时出现](http://m.opinion.caixin.com/m/2020-12-12/101638702.html) ![](assets/new.png)  
-- [2020-12-12-【境内疫情观察】全国新增13例境外输入病例（12月11日）](http://m.database.caixin.com/m/2020-12-12/101638660.html) ![](assets/new.png)  
-- [2020-12-12-大流行手记|12月11日：昆士兰大学新冠疫苗或致HIV假阳-赛诺菲疫苗研发受挫](http://m.international.caixin.com/m/2020-12-12/101638563.html) ![](assets/new.png)  
-- [2020-12-11-哈兽研建立新冠水貂感染模型-可模拟人类肺部病变](http://m.science.caixin.com/m/2020-12-11/101638346.html) ![](assets/new.png)  
-- [2020-12-11-港府向科兴和复星采购1500万剂新冠疫苗-首批下月到港](http://m.china.caixin.com/m/2020-12-11/101638300.html) ![](assets/new.png)  
-- [2020-12-11-【境内疫情观察】黑龙江新增2例本土病例（12月10日）](http://m.database.caixin.com/m/2020-12-11/101638126.html) ![](assets/new.png)  
-- [2020-12-11-大流行手记|12月10日：首尔建集装箱病房扩床位-研究称意大利儿童去年11月感染新冠](http://m.international.caixin.com/m/2020-12-11/101638028.html) ![](assets/new.png)  
-- [2020-12-11-聚焦|张文宏：疫苗接种计划何时可以启动](http://m.opinion.caixin.com/m/2020-12-11/101638455.html) ![](assets/new.png)  
-- [2020-12-10-最新海外疫情：新冠感染近6880万-累计死亡超156万](http://m.international.caixin.com/m/2020-12-10/101637858.html) ![](assets/new.png)  
-- [2020-12-10-香港一住宅成“疫区”-警方派谈判专家劝居民配合检疫](http://m.china.caixin.com/m/2020-12-10/101637967.html) ![](assets/new.png)  
-- [2020-12-10-【境内疫情观察】内蒙古新增1例本土病例（12月9日）](http://m.database.caixin.com/m/2020-12-10/101637710.html) ![](assets/new.png)  
-- [2020-12-10-大流行手记|12月9日：英国启动大规模疫苗接种-加拿大批准辉瑞疫苗上市](http://m.international.caixin.com/m/2020-12-10/101637605.html) ![](assets/new.png)  
-- [2020-12-09-【境内疫情观察】四川新增4例本土病例（12月8日）](http://m.database.caixin.com/m/2020-12-09/101637376.html) ![](assets/new.png)  
-- [2020-12-09-大流行手记|12月8日：印度三款疫苗申请紧急使用-中东多国部署疫苗采购](http://m.international.caixin.com/m/2020-12-09/101637221.html) ![](assets/new.png)  
-- [2020-12-09-【图集】成都全市核酸扩大检测-已覆盖25.52万人](http://m.photos.caixin.com/m/2020-12-09/101637238.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +974,10 @@
 </summary>
 
 
+- [2020-12-14-安卓系统能搞时钟屏保吗？](https://www.v2ex.com/t/735398) ![](assets/new.png)  
+- [2020-12-14-如果人工智能是下一个风口，我想空中通勤是不是下下一个风口](https://www.v2ex.com/t/735397) ![](assets/new.png)  
+- [2020-12-14-白菜录屏-|-小巧、功能强大的-mac-录屏软件](https://www.v2ex.com/t/735396) ![](assets/new.png)  
+- [2020-12-14-Spotify-港区车](https://www.v2ex.com/t/735395) ![](assets/new.png)  
 - [2020-12-14-2020-年了，还有用-ADSL-电话线上网的地方吗？](https://www.v2ex.com/t/735392) ![](assets/new.png)  
 - [2020-12-14-北京&远程-北美最大的免费在线流媒体播放平台-TubiTV-招聘](https://www.v2ex.com/t/735391) ![](assets/new.png)  
 - [2020-12-14-有什么实体店的-CRM-系统推荐嘛？包括结算什么的更好](https://www.v2ex.com/t/735389) ![](assets/new.png)  
@@ -1010,10 +994,6 @@
 - [2020-12-14-收费或免费，-macOS-上有哪些-Acrobat-DC-Pro-的替代品值得推荐？](https://www.v2ex.com/t/735377) ![](assets/new.png)  
 - [2020-12-14-有一个-2.8-万粉的公众号，可以免费给-v-站的大家推广你们自己开发的小程序等](https://www.v2ex.com/t/735376) ![](assets/new.png)  
 - [2020-12-14-Google-面试题：三角形计数（从暴力解到优化）](https://www.v2ex.com/t/735375) ![](assets/new.png)  
-- [2020-12-14-国家出手啦:阿里,腾讯,顺丰,-被反垄断重罚区区五千万,-张-1-分钱](https://www.v2ex.com/t/735374) ![](assets/new.png)  
-- [2020-12-14-三七互娱内推-社招-初/中/高-Android-工程师-13-25K-15-薪-广州](https://www.v2ex.com/t/735373) ![](assets/new.png)  
-- [2020-12-14-什么软件支持为已经合并的代码提评审意见](https://www.v2ex.com/t/735372) ![](assets/new.png)  
-- [2020-12-14-计算机非全考研交流](https://www.v2ex.com/t/735371) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

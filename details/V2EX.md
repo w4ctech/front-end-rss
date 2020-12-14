@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-12-14 06:37:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 06:47:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-14-突然通过不了微信的人脸反光验证，怎么整？](https://www.v2ex.com/t/735272) 
+- [2020-12-14-大家用-mac-看国内视频，比如爱奇艺、腾讯视频，是下载客户端，还是直接用浏览器看？](https://www.v2ex.com/t/735271) 
+- [2020-12-14-🔥🔥🔥-新加坡-Shopee-部门直招-招后端开发工程师，包含-OpenResty,-eBPF,-Kubernetes-等不同方向](https://www.v2ex.com/t/735270) 
+- [2020-12-14-🔥🔥🔥-新加坡-Shopee-招后端开发工程师，包含-OpenResty,-eBPF,-Kubernetes-等不同方向](https://www.v2ex.com/t/735268) 
+- [2020-12-14-sublimetext3-是不是不更新了？](https://www.v2ex.com/t/735266) 
+- [2020-12-14-米家的产品如果遗失了-homekit-二维码就无法加入-homekit-了吗？](https://www.v2ex.com/t/735265) 
 - [2020-12-14-支付宝扫二维码解码支持度好低，变个样式就扫不出来了](https://www.v2ex.com/t/735263) 
 - [2020-12-14-工作電腦上是不是不應該登錄自己的-Apple-ID？](https://www.v2ex.com/t/735262) 
 - [2020-12-14-12-mini-电池使用一个月-电池-99%正常么](https://www.v2ex.com/t/735259) 
@@ -15,7 +21,6 @@
 - [2020-12-14-15-年的老华硕想强上-4K-可行吗？](https://www.v2ex.com/t/735254) 
 - [2020-12-14-MS-Word-2019-打开大文件卡顿问题](https://www.v2ex.com/t/735253) 
 - [2020-12-14-大佬们，这种切割加拼图的功能该怎么实现啊](https://www.v2ex.com/t/735252) 
-- [2020-12-14-给大家推广一个副业赚钱的方式，比外卖-cps-的佣金多一些···](https://www.v2ex.com/t/735251) 
 - [2020-12-14-浙江电信的-GIA-路由变了](https://www.v2ex.com/t/735250) 
 - [2020-12-14-请教各位一个程序员的聊天群名](https://www.v2ex.com/t/735249) 
 - [2020-12-14-反向支付平台做个小推广。](https://www.v2ex.com/t/735247) 
@@ -33,6 +38,3 @@
 - [2020-12-14-充电宝求推荐~](https://www.v2ex.com/t/735225) 
 - [2020-12-14-pandas-操作求助，数据如下](https://www.v2ex.com/t/735224) 
 - [2020-12-14-当我们用-siri-执行类似打电话和发信息的任务时，-siri-如何验证我们是不是机主？](https://www.v2ex.com/t/735223) 
-- [2020-12-14-高级-Java-工程师-12-24K-河南郑州-河南标点科技有限公司](https://www.v2ex.com/t/735220) 
-- [2020-12-14-上海INTEL-SPDK/ISA-L/ISA-L_crypto-实习生招聘c/c++/asm](https://www.v2ex.com/t/735218) 
-- [2020-12-14-Fireeye-最近发现的那个攻击手段可真是厉害啊！](https://www.v2ex.com/t/735216) 

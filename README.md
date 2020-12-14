@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-14 06:37:54，:rocket: 更新条数: +3866， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-14 06:47:02，:rocket: 更新条数: +3633， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -66,6 +66,7 @@
 
 
 - [2020-12-14-12月13日全国新增确诊病例16例-本土病例2例](http://m.china.caixin.com/m/2020-12-14/101638812.html) ![](assets/new.png)  
+- [2020-12-14-【境内疫情观察】黑龙江新增2例本土确诊病例（12月13日）](http://m.database.caixin.com/m/2020-12-14/101638919.html) ![](assets/new.png)  
 - [2020-12-14-大流行手记|12月13日：美国新冠住院超10万人-秘鲁暂停国药疫苗临床试验](http://m.international.caixin.com/m/2020-12-14/101638808.html) ![](assets/new.png)  
 - [2020-12-13-【境内疫情观察】黑龙江新增4例本土确诊病例（12月12日）](http://m.database.caixin.com/m/2020-12-13/101638727.html) ![](assets/new.png)  
 - [2020-12-13-大流行手记|12月12日：六国已批准辉瑞疫苗紧急使用-英提醒关注接种过敏](http://m.international.caixin.com/m/2020-12-13/101638714.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2020-12-09-【境内疫情观察】四川新增4例本土病例（12月8日）](http://m.database.caixin.com/m/2020-12-09/101637376.html) ![](assets/new.png)  
 - [2020-12-09-大流行手记|12月8日：印度三款疫苗申请紧急使用-中东多国部署疫苗采购](http://m.international.caixin.com/m/2020-12-09/101637221.html) ![](assets/new.png)  
 - [2020-12-09-【图集】成都全市核酸扩大检测-已覆盖25.52万人](http://m.photos.caixin.com/m/2020-12-09/101637238.html) ![](assets/new.png)  
-- [2020-12-09-成都全市核酸扩大检测-已覆盖25.52万人](http://m.photos.caixin.com/m/2020-12-09/101637238.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -677,26 +677,6 @@
 </summary>
 
 
-- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +974,12 @@
 </summary>
 
 
+- [2020-12-14-突然通过不了微信的人脸反光验证，怎么整？](https://www.v2ex.com/t/735272) ![](assets/new.png)  
+- [2020-12-14-大家用-mac-看国内视频，比如爱奇艺、腾讯视频，是下载客户端，还是直接用浏览器看？](https://www.v2ex.com/t/735271) ![](assets/new.png)  
+- [2020-12-14-🔥🔥🔥-新加坡-Shopee-部门直招-招后端开发工程师，包含-OpenResty,-eBPF,-Kubernetes-等不同方向](https://www.v2ex.com/t/735270) ![](assets/new.png)  
+- [2020-12-14-🔥🔥🔥-新加坡-Shopee-招后端开发工程师，包含-OpenResty,-eBPF,-Kubernetes-等不同方向](https://www.v2ex.com/t/735268) ![](assets/new.png)  
+- [2020-12-14-sublimetext3-是不是不更新了？](https://www.v2ex.com/t/735266) ![](assets/new.png)  
+- [2020-12-14-米家的产品如果遗失了-homekit-二维码就无法加入-homekit-了吗？](https://www.v2ex.com/t/735265) ![](assets/new.png)  
 - [2020-12-14-支付宝扫二维码解码支持度好低，变个样式就扫不出来了](https://www.v2ex.com/t/735263) ![](assets/new.png)  
 - [2020-12-14-工作電腦上是不是不應該登錄自己的-Apple-ID？](https://www.v2ex.com/t/735262) ![](assets/new.png)  
 - [2020-12-14-12-mini-电池使用一个月-电池-99%正常么](https://www.v2ex.com/t/735259) ![](assets/new.png)  
@@ -1004,16 +990,10 @@
 - [2020-12-14-15-年的老华硕想强上-4K-可行吗？](https://www.v2ex.com/t/735254) ![](assets/new.png)  
 - [2020-12-14-MS-Word-2019-打开大文件卡顿问题](https://www.v2ex.com/t/735253) ![](assets/new.png)  
 - [2020-12-14-大佬们，这种切割加拼图的功能该怎么实现啊](https://www.v2ex.com/t/735252) ![](assets/new.png)  
-- [2020-12-14-给大家推广一个副业赚钱的方式，比外卖-cps-的佣金多一些···](https://www.v2ex.com/t/735251) ![](assets/new.png)  
 - [2020-12-14-浙江电信的-GIA-路由变了](https://www.v2ex.com/t/735250) ![](assets/new.png)  
 - [2020-12-14-请教各位一个程序员的聊天群名](https://www.v2ex.com/t/735249) ![](assets/new.png)  
 - [2020-12-14-反向支付平台做个小推广。](https://www.v2ex.com/t/735247) ![](assets/new.png)  
 - [2020-12-14-招聘-美团快驴终端招募：和优秀的人一起并肩作战](https://www.v2ex.com/t/735246) ![](assets/new.png)  
-- [2020-12-14-牙线真的有用吗？](https://www.v2ex.com/t/735242) ![](assets/new.png)  
-- [2020-12-14-转南山区桃源街道龙井村的停车月卡](https://www.v2ex.com/t/735241) ![](assets/new.png)  
-- [2020-12-14-ios14-手势操作-返回上一层只能左侧右划吗？单手操作很不友好](https://www.v2ex.com/t/735240) ![](assets/new.png)  
-- [2020-12-14-编程初学者如何在-GitHub-寻找适合自己的小项目？](https://www.v2ex.com/t/735239) ![](assets/new.png)  
-- [2020-12-14-想做一款接近-Google-photos-体验的私有云产品](https://www.v2ex.com/t/735235) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,8 +1045,8 @@
 - [2020-12-14-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
 - [2020-12-14-译-代码整洁之道的-7-个方法](https://toutiao.io/k/chkucxm) ![](assets/new.png)  
 - [2020-12-14-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
-- [2020-12-14-译-Android-Studio-和-Gradle-插件使用全新版本编号](https://toutiao.io/k/84ipocl) ![](assets/new.png)  
 - [2020-12-14-记一起由-Clang-编译器优化触发的-Crash](https://toutiao.io/k/2as0flo) ![](assets/new.png)  
+- [2020-12-14-译-Android-Studio-和-Gradle-插件使用全新版本编号](https://toutiao.io/k/84ipocl) ![](assets/new.png)  
 - [2020-12-14-微软最强-playwright-python-自动化工具开源了！不用写一行代码](https://toutiao.io/k/31tevol) ![](assets/new.png)  
 - [2020-12-14-蚂蚁金服的一次面试你都会吗？](https://toutiao.io/k/3172y8p) ![](assets/new.png)  
 - [2020-12-14-轻松搞懂-Trie-树](https://toutiao.io/k/es1n2rs) ![](assets/new.png)  

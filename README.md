@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-15 03:08:53，:rocket: 更新条数: +3872， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-15 03:33:42，:rocket: 更新条数: +3874， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -994,26 +994,26 @@
 </summary>
 
 
+- [2020-12-15-加价-1000-买了非国行的-12Pro，我是不是亏大了？](https://www.v2ex.com/t/735575) ![](assets/new.png)  
+- [2020-12-15-LEDE-远程-ssh-无法唤醒电脑是怎么回事？](https://www.v2ex.com/t/735574) ![](assets/new.png)  
+- [2020-12-15--一面数据-|-深圳-一个年轻又欢乐的队伍-等待对-Python-/大数据有热情的你~~](https://www.v2ex.com/t/735572) ![](assets/new.png)  
+- [2020-12-15-想给她一场特别的求婚，预算-6000-以内，有没有什么好的创意？](https://www.v2ex.com/t/735571) ![](assets/new.png)  
+- [2020-12-15-寻找体验用户-仅需-一个-RSS-源-即可订阅你/别人的全平台动态！](https://www.v2ex.com/t/735570) ![](assets/new.png)  
+- [2020-12-15-有在国内使用新加坡区-Apple-ID-的-V-友吗？](https://www.v2ex.com/t/735569) ![](assets/new.png)  
+- [2020-12-15-kafaka-里消息分优先级可以怎么样实现](https://www.v2ex.com/t/735568) ![](assets/new.png)  
+- [2020-12-15-腾讯音乐（全民-K-歌）急召前端，-base-深圳](https://www.v2ex.com/t/735567) ![](assets/new.png)  
+- [2020-12-15-M1-死机重启，-有同样经历的吗？](https://www.v2ex.com/t/735566) ![](assets/new.png)  
+- [2020-12-15-求教-Qt-播放网络链接视频-mp4-问题](https://www.v2ex.com/t/735565) ![](assets/new.png)  
+- [2020-12-15-mapstringinterface{}-中unit8-序列化成了-base64,](https://www.v2ex.com/t/735564) ![](assets/new.png)  
+- [2020-12-15-微信订阅号前段时间开始天天推荐，关都关不掉](https://www.v2ex.com/t/735563) ![](assets/new.png)  
+- [2020-12-15-iMac-系统降级，照片应用无法降级使用图库](https://www.v2ex.com/t/735562) ![](assets/new.png)  
+- [2020-12-15-Youtube-上发现个不错的笔记软件-Milanote](https://www.v2ex.com/t/735560) ![](assets/new.png)  
+- [2020-12-15-求推荐一个-1500-左右的安卓机，给妈妈买的](https://www.v2ex.com/t/735559) ![](assets/new.png)  
 - [2020-12-15-推荐一个不要-orm-的-Python-web-框架](https://www.v2ex.com/t/735557) ![](assets/new.png)  
 - [2020-12-15-同一个服务,-不能同时支持-ipv4-和-ipv6-对么](https://www.v2ex.com/t/735555) ![](assets/new.png)  
 - [2020-12-15-想搞个腾讯云的-CVM，网络带宽按量付费，会不会被大佬-Ddos-打到倾家荡产](https://www.v2ex.com/t/735554) ![](assets/new.png)  
 - [2020-12-15-在开发一个社区性质的-APP，各位舒马赫们有什么建议吗](https://www.v2ex.com/t/735552) ![](assets/new.png)  
 - [2020-12-15-spring-data-jpa-使用-哪个底层实现比较好？](https://www.v2ex.com/t/735550) ![](assets/new.png)  
-- [2020-12-15-各位-iOSer，你们的应用有因为-iOS14-的小组件特性，导致崩溃次数猛增吗？尤其是用了-core-data](https://www.v2ex.com/t/735549) ![](assets/new.png)  
-- [2020-12-15-有了解上海卡奥斯这家公司的朋友吗？](https://www.v2ex.com/t/735547) ![](assets/new.png)  
-- [2020-12-15-有什么-App-能将老旧-iPad-当作一个“控制台”](https://www.v2ex.com/t/735546) ![](assets/new.png)  
-- [2020-12-15-腾讯云-12-月限时秒杀，轻量-125-配置-488-元/3-年，可享代理价](https://www.v2ex.com/t/735545) ![](assets/new.png)  
-- [2020-12-15-搞了一个小说站要找一个不用备案的主机你们都在哪里买的啊](https://www.v2ex.com/t/735544) ![](assets/new.png)  
-- [2020-12-15-买新房：认多个筹，摇号选中好房的概率会高吗？](https://www.v2ex.com/t/735542) ![](assets/new.png)  
-- [2020-12-15-楼上养狗吵死人求支招](https://www.v2ex.com/t/735541) ![](assets/new.png)  
-- [2020-12-15-百里挑一的试题库管理系统以及考试答题小程序](https://www.v2ex.com/t/735540) ![](assets/new.png)  
-- [2020-12-15-现在-mac-系统有一个很容易误操作的地方，不知道怎么避免。。](https://www.v2ex.com/t/735539) ![](assets/new.png)  
-- [2020-12-15-用纯-Python-实现一个发送邮件的功能](https://www.v2ex.com/t/735537) ![](assets/new.png)  
-- [2020-12-15-掌上生活-10-元风暴](https://www.v2ex.com/t/735536) ![](assets/new.png)  
-- [2020-12-15-iPhone-12-mini-突然变绿（似乎与温度有关）](https://www.v2ex.com/t/735535) ![](assets/new.png)  
-- [2020-12-15-广东电信的-SIP-服务器地址最近变了吗？](https://www.v2ex.com/t/735533) ![](assets/new.png)  
-- [2020-12-15-现在入手-M1-mbp，还是等等党明年传说的-14-寸-mbp？](https://www.v2ex.com/t/735532) ![](assets/new.png)  
-- [2020-12-15-iOS-有没有什么支持-A—B-段循环的本地音乐播放器？](https://www.v2ex.com/t/735530) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,14 +1068,14 @@
 - [2020-12-15-React-高阶组件-Props-代理的一些小技巧](https://toutiao.io/k/7ma063a) ![](assets/new.png)  
 - [2020-12-15-优酷大数据-OLAP-技术选型](https://toutiao.io/k/xzw6oly) ![](assets/new.png)  
 - [2020-12-15-如何将-Node.js-业务迁移到-k8s-中？](https://toutiao.io/k/igeze91) ![](assets/new.png)  
-- [2020-12-15-数据与广告（二十三）：计算广告的商业本质](https://toutiao.io/k/3p5htvj) ![](assets/new.png)  
 - [2020-12-15-肝了半个月，这可能是全网最全后端技术学习路线](https://toutiao.io/k/28sit4w) ![](assets/new.png)  
+- [2020-12-15-数据与广告（二十三）：计算广告的商业本质](https://toutiao.io/k/3p5htvj) ![](assets/new.png)  
 - [2020-12-15-逻辑回归-+-GBDT-模型融合实战](https://toutiao.io/k/yngwd9k) ![](assets/new.png)  
 - [2020-12-15-理解-Spring-的-FactoryBean-没那么难](https://toutiao.io/k/iduqw9a) ![](assets/new.png)  
+- [2020-12-15-从实践到原理，带你参透-gRPC](https://toutiao.io/k/w5bxcjg) ![](assets/new.png)  
 - [2020-12-15-Golang-中的-SingleFlight-与-CyclicBarrier](https://toutiao.io/k/qmyah4c) ![](assets/new.png)  
 - [2020-12-15-SQL-Server-关于-datetime-的更新引发的思考](https://toutiao.io/k/q5w1kno) ![](assets/new.png)  
-- [2020-12-15-从实践到原理，带你参透-gRPC](https://toutiao.io/k/w5bxcjg) ![](assets/new.png)  
-- [2020-12-15-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
+- [2020-12-15-计算机学生应不应该考研？附上袁哥的考研经历](https://toutiao.io/k/56bu6ge) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1118,6 +1118,12 @@
 </summary>
 
 
+- [2020-12-14-苹果印度工厂遭打砸，员工月薪最低仅44元！复制中国奇迹印度“心比天高，命比纸薄”？](https://www.ershicimi.com/p/41a2c835d1292bef5353a0f89e38f237) ![](assets/new.png)  
+- [2020-12-14-【1月7日/北京】错过等一年，年度AIoT产业盛典重磅来袭！](https://www.ershicimi.com/p/d70ccad854f29921435a417e32507ba3) ![](assets/new.png)  
+- [2020-12-14-载波聚合，5G速率飙升的利器！](https://www.ershicimi.com/p/b61221e4d8543b56bf94171c9308f42e) ![](assets/new.png)  
+- [2020-12-14-移动芯片如何走出“高水平均衡陷阱”？](https://www.ershicimi.com/p/7d06ec68495946a6950222f11a92798f) ![](assets/new.png)  
+- [2020-12-13-读完30篇2021物联网预测，我却大失所望……【物女心经】](https://www.ershicimi.com/p/ae855200d41ed31c4bb84608de57f401) ![](assets/new.png)  
+- [2020-12-13-物联网投融资周报|小米长江产业基金入股纵慧芯光、易兆微；波士顿动力9.21亿美元被卖；移芯通信完成数](https://www.ershicimi.com/p/11a5bdf20bba7aecfc6a9aab22e4bc0c) ![](assets/new.png)  
 - [2020-12-12-腾讯搞起物联网平台来，就很有腾讯那味儿~](https://www.ershicimi.com/p/8d55f8dc68d0148f4bf24fc1f4d9bc62) ![](assets/new.png)  
 - [2020-12-12-【AIoT产业年终盛典·报名开启】拨迷见“物”，洞察物联网新十年！](https://www.ershicimi.com/p/fa050b5a77c77d136bc5d4e74667f6ad) ![](assets/new.png)  
 - [2020-12-12-技术&商业双轮驱动，黑芝麻如何实现自动驾驶芯片突围？](https://www.ershicimi.com/p/8c795dd8065e534daa552f26b08f32b4) ![](assets/new.png)  
@@ -1132,12 +1138,6 @@
 - [2020-12-09-5G-toB大戏拉开帷幕，公网专用正当其时](https://www.ershicimi.com/p/d4f9a5f21cf9d6a1ac92d36771f13412) ![](assets/new.png)  
 - [2020-12-08-智能制造站上风口](https://www.ershicimi.com/p/e9df65d416f9e67c21cfb7d8416c1600) ![](assets/new.png)  
 - [2020-12-08-华为名师拆书直播-|-5G物联网及NB-IoT技术详解](https://www.ershicimi.com/p/d0646b22f2172d8e38f50b28cf6ec704) ![](assets/new.png)  
-- [2020-12-08-【榜单】新基建成新十年风向，哪些物联网“行业/企业/人物/方案”将最具潜力？](https://www.ershicimi.com/p/ccb64363ed433f01d760903f04029d82) ![](assets/new.png)  
-- [2020-12-08-尼古拉·特斯拉，到底有多神？](https://www.ershicimi.com/p/ff17d018c7f0695b7b48a6a42806c243) ![](assets/new.png)  
-- [2020-12-07-南北大众因“缺芯”导致车企停产？比亚迪：不仅自足，还能外供！](https://www.ershicimi.com/p/59fdad8a759bde3bd927e57d62ac1049) ![](assets/new.png)  
-- [2020-12-07-搭载移远C-V2X模组-红旗旗舰级智慧全能电动SUV-E-HS9正式上市](https://www.ershicimi.com/p/6ef2ff09486cd84ccb62e8d9c4a79c39) ![](assets/new.png)  
-- [2020-12-07-2020中国国际物联网产业大奖揭晓，TOP-10榜单火热出炉！](https://www.ershicimi.com/p/a337c3b2a2b401167115a742a7d7dfaa) ![](assets/new.png)  
-- [2020-12-07-【新书发布】明晚7:00，带你读懂“新基建”背后的国家战略与行动路径](https://www.ershicimi.com/p/ad084fc0ba13c58937f95473b1e480fc) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

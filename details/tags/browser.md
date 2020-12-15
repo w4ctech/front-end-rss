@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-15 03:08:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 03:33:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,6 +46,7 @@
 - [2020-12-15-那些有趣/实用的-Chrome-扩展神器系列](https://toutiao.io/k/37mphn9) 
 - [2020-12-15-Golang-中的-SingleFlight-与-CyclicBarrier](https://toutiao.io/k/qmyah4c) 
 - [2020-12-15-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
+- [2020-12-15-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-14-工业信息安全应急国际研讨会|绿盟科技分享工业信息安全应急响应能力...](https://sec.thief.one/article_content?a_id=3802b95973cfa4e991dfa2055723575c) 
 - [2020-12-14-【安全圈】美财政部遭外国黑客袭击,西媒果然赖上了俄罗斯](https://sec.thief.one/article_content?a_id=7529e95ec9d2b2f8010aadd9d6119c44) 
 - [2020-12-14-我的电脑不联网,很安全,黑客:你还有风扇呢](https://sec.thief.one/article_content?a_id=cd1c323494ef78eef38394f92c37d9af) 

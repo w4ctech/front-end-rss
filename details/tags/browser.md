@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-15 00:18:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 01:15:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -21,13 +21,6 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2020-12-09-【第2142期】Chrome浏览器Referrer-Policy默认值变更](https://www.ershicimi.com/p/a1e5f72d1817a22d47e452fe88172faa) 
-- [2020-12-11-前端前沿观察，Cookie-居然可以这样整了](https://www.ershicimi.com/p/bfd223b8e85452ebd67a19509a3d6021) 
-- [2020-12-04-前端-api-请求缓存的-5-种方案](https://www.ershicimi.com/p/0739f868c16f1fc66b41e39b676c2588) 
-- [2020-11-27-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/7609004e2f9423cf4f1b2eb5dc1b19ac) 
-- [2020-12-11-你猜一个-TCP-连接上面能发多少个-HTTP-请求](https://www.ershicimi.com/p/c60bafb3210f050def9b7719202d9750) 
-- [2020-12-09-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/73356e18cd00004d269c88984a8a61b0) 
-- [2020-12-04-前端安全编码规范](https://www.ershicimi.com/p/c8b36b7987f290a7e50281d0ad917717) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -37,11 +30,8 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2020-12-14-不同角度看跨域那些事](https://juejin.im/post/6906078670210007053) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-14-上海/远程-Dimension.im-/-Mask-Network-热招-前端/Android/QA；公司高速发展，-IEEE/-ECMA&TC39-成员](https://www.v2ex.com/t/735477) 
-- [2020-12-15-那些有趣/实用的-Chrome-扩展神器系列](https://toutiao.io/k/37mphn9) 
-- [2020-12-15-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-14-工业信息安全应急国际研讨会|绿盟科技分享工业信息安全应急响应能力...](https://sec.thief.one/article_content?a_id=3802b95973cfa4e991dfa2055723575c) 
 - [2020-12-14-【安全圈】美财政部遭外国黑客袭击,西媒果然赖上了俄罗斯](https://sec.thief.one/article_content?a_id=7529e95ec9d2b2f8010aadd9d6119c44) 
 - [2020-12-14-我的电脑不联网,很安全,黑客:你还有风扇呢](https://sec.thief.one/article_content?a_id=cd1c323494ef78eef38394f92c37d9af) 
@@ -71,4 +61,3 @@
 - [2020-12-11-SecWiki安全招聘第46期](https://sec.thief.one/article_content?a_id=129e62ccab6b4f5fb7ba76d39af74c80) 
 - [2020-12-11-“不讲武德”的勒索江湖,360安全大脑独家披露11月勒索疫情报告](https://sec.thief.one/article_content?a_id=61b30dfbae9b94c98ca9fa3e6abf1ad2) 
 - [2020-12-11-观察|《物联网安全改进法案》是否会成为美国针对我国物联网厂商的重...](https://sec.thief.one/article_content?a_id=9ed7b0aa50022effda98f149e1a5d88e) 
-- [2020-12-11-UWB/蓝牙/WiFi/红外/Zigbee/LoRa-Edge…….室内定位技术的百家争鸣时代](https://www.ershicimi.com/p/a35fb040e7e0a28830e1717cb4094dd0) 

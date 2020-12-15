@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-15 05:08:26，:rocket: 更新条数: +3873， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-15 05:30:37，:rocket: 更新条数: +3870， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -994,6 +994,14 @@
 </summary>
 
 
+- [2020-12-15-仿照-cyberpunk2077-的电脑界面写的一个-demo](https://www.v2ex.com/t/735622) ![](assets/new.png)  
+- [2020-12-15-支持-windows10-运行的迷你主机推荐](https://www.v2ex.com/t/735619) ![](assets/new.png)  
+- [2020-12-15-大家一起来盘点下苹果画失败的饼](https://www.v2ex.com/t/735618) ![](assets/new.png)  
+- [2020-12-15-电脑熄屏一直自动唤醒，有可能是什么问题？](https://www.v2ex.com/t/735616) ![](assets/new.png)  
+- [2020-12-15-科普贴-多多买菜推出“全额返现”，我猜各位都不懂这四个字](https://www.v2ex.com/t/735615) ![](assets/new.png)  
+- [2020-12-15-希望大佬给我推荐个流畅玩-2077-的主机配置](https://www.v2ex.com/t/735614) ![](assets/new.png)  
+- [2020-12-15-推广下个人最近发开的社区系统，最近在整理代码。准备开源，谢谢支持的-V-友](https://www.v2ex.com/t/735613) ![](assets/new.png)  
+- [2020-12-15-说下我现在在用的苹果全家桶](https://www.v2ex.com/t/735612) ![](assets/new.png)  
 - [2020-12-15-plc4j-的-s7-driver-不支持写入-real-吗？](https://www.v2ex.com/t/735611) ![](assets/new.png)  
 - [2020-12-15-DevOps-中的测试实践](https://www.v2ex.com/t/735610) ![](assets/new.png)  
 - [2020-12-15-推广一下自己写的快速-bash-脚本-fast_cmd](https://www.v2ex.com/t/735609) ![](assets/new.png)  
@@ -1006,14 +1014,6 @@
 - [2020-12-15-Tiktok-视频搬迁到抖音](https://www.v2ex.com/t/735596) ![](assets/new.png)  
 - [2020-12-15-有没有个-app-可以让我们在去世前向身边的朋友告别？](https://www.v2ex.com/t/735595) ![](assets/new.png)  
 - [2020-12-15-求推荐-2000-元左右电动车，有载人需求，地铁和家接驳，单程-4km-左右，电池需可提取。](https://www.v2ex.com/t/735594) ![](assets/new.png)  
-- [2020-12-15-你们公司冷么](https://www.v2ex.com/t/735591) ![](assets/new.png)  
-- [2020-12-15-Macbook-pro-主板坏了，求推荐华强北维修店！](https://www.v2ex.com/t/735588) ![](assets/new.png)  
-- [2020-12-15-jivejdon-怎么学](https://www.v2ex.com/t/735586) ![](assets/new.png)  
-- [2020-12-15-漏洞反馈2018-年给慕课网发了封盗录-BUG-的邮件,热脸贴人家冷屁股](https://www.v2ex.com/t/735585) ![](assets/new.png)  
-- [2020-12-15-怎么让-10010-不再打骚扰电话](https://www.v2ex.com/t/735584) ![](assets/new.png)  
-- [2020-12-15-解梦：宇宙是不是可能是一种我们无法理解的生物？](https://www.v2ex.com/t/735583) ![](assets/new.png)  
-- [2020-12-15-JD-也越来越流氓，都是谁教的](https://www.v2ex.com/t/735582) ![](assets/new.png)  
-- [2020-12-15-如何将-N-条微信聊天记录文本拷贝出来？](https://www.v2ex.com/t/735580) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,7 +1087,18 @@
 </summary>
 
 
+- [2020-12-15-比特币头肩底突破,年底或涨至22000美金](https://sec.thief.one/article_content?a_id=fe059fcb665bc96509e8107da62ec92c) ![](assets/new.png)  
+- [2020-12-15-Microsoft-Teams-零点击蠕虫RCE漏洞](https://sec.thief.one/article_content?a_id=f8f62ab36fb57a25b573eb4542f1df10) ![](assets/new.png)  
+- [2020-12-15-每日安全动态推送12-15](https://sec.thief.one/article_content?a_id=70cdc55e9e7c33583953f26bfac31d0d) ![](assets/new.png)  
+- [2020-12-15-第五届“五个一百”网络正能量精品展示之网络正能量榜样一](https://sec.thief.one/article_content?a_id=84550ee67142ac715ec674ebe90d35b1) ![](assets/new.png)  
+- [2020-12-15-ISRC年终冲榜活动来啦](https://sec.thief.one/article_content?a_id=2329b0d558af5f9e7a895422e7c1a904) ![](assets/new.png)  
+- [2020-12-15-推荐-|-精品好书在这,你准备好了吗?](https://sec.thief.one/article_content?a_id=b9340c6bc39d168a84e9bd58faea3b39) ![](assets/new.png)  
+- [2020-12-15-【视频】|-金融行业网络安全现状与分析](https://sec.thief.one/article_content?a_id=91098400b04d50d88914c87915d51ce2) ![](assets/new.png)  
+- [2020-12-15-附靶场实战!如何为自己打造一个-＂网络安全军火库＂-?](https://sec.thief.one/article_content?a_id=8e6fab12685a26fc3418b2af11c60034) ![](assets/new.png)  
+- [2020-12-15-重磅!昔日手机巨头曾植入木马程序拉活赚钱,逾2000万用户成了“肉...](https://sec.thief.one/article_content?a_id=8df9c9acb7dde484bbf8fbd5f0312af6) ![](assets/new.png)  
+- [2020-12-15-Windows-10全新界面要来了:焕然一新!](https://sec.thief.one/article_content?a_id=f2690462af5d6a06f4dfe835e0127672) ![](assets/new.png)  
 - [2020-12-15-Windows-10全新界面要来了:焕然一新!](https://sec.thief.one/article_content?a_id=6abde3643b0419ef695fdb72b3cbf129) ![](assets/new.png)  
+- [2020-12-15-近半数GDPR罚款欠缴](https://sec.thief.one/article_content?a_id=5dc1c4b05197e57c1e0e8587f8000d66) ![](assets/new.png)  
 - [2020-12-15-个人信息的大规模收集与处理:一场世界性的潮流?](https://sec.thief.one/article_content?a_id=5bd34498499a7b6dc9c27475a65cf015) ![](assets/new.png)  
 - [2020-12-15-为了更好的日子](https://sec.thief.one/article_content?a_id=0162a2a848efa7d09af1b751507d70c3) ![](assets/new.png)  
 - [2020-12-15-证监会《证券期货业网络安全事件报告与调查处理办法征求意见稿...](https://sec.thief.one/article_content?a_id=c1a35bfd3a6170439d84e9b0c8358241) ![](assets/new.png)  
@@ -1096,17 +1107,6 @@
 - [2020-12-14-工业信息安全应急国际研讨会|绿盟科技分享工业信息安全应急响应能力...](https://sec.thief.one/article_content?a_id=3802b95973cfa4e991dfa2055723575c) ![](assets/new.png)  
 - [2020-12-14-APT组织针对SolarWinds产品供应链攻击事件预警](https://sec.thief.one/article_content?a_id=670fe867e17a361ea9dae9673b09510d) ![](assets/new.png)  
 - [2020-12-14-【安全圈】美财政部遭外国黑客袭击,西媒果然赖上了俄罗斯](https://sec.thief.one/article_content?a_id=7529e95ec9d2b2f8010aadd9d6119c44) ![](assets/new.png)  
-- [2020-12-14-我的电脑不联网,很安全,黑客:你还有风扇呢](https://sec.thief.one/article_content?a_id=cd1c323494ef78eef38394f92c37d9af) ![](assets/new.png)  
-- [2020-12-14-连续入围双榜!-奇安信行为安全进入Gartner魔力象限和关键能力报告](https://sec.thief.one/article_content?a_id=cd8e968848cf526dc20bec7a9ee254c2) ![](assets/new.png)  
-- [2020-12-14-流行网管软件厂商SolarWinds供应链攻击事件通告](https://sec.thief.one/article_content?a_id=a13c3c21a7dce5c70564f215752e8c04) ![](assets/new.png)  
-- [2020-12-14-【安全热点周报】第172期:奇安信CERT发布Microsoft-Exchange远程...](https://sec.thief.one/article_content?a_id=d5e7f61e6c5173868631e392de8c8b02) ![](assets/new.png)  
-- [2020-12-14-独家揭秘“看门狗”团伙三大手段,360安全大脑释能戳穿远控木马“...](https://sec.thief.one/article_content?a_id=ec7b69f5287afa93c8507e2b99975297) ![](assets/new.png)  
-- [2020-12-14-“刚毕业1年,做数据分析凭什么涨薪三连跳!”网友:吹的不多..](https://sec.thief.one/article_content?a_id=aa770e382556c3017dd6dceeb3410753) ![](assets/new.png)  
-- [2020-12-14-国家标准-|-GB/T-30276-2020-信息安全技术-网络安全漏洞管理规范](https://sec.thief.one/article_content?a_id=2654e0c3fff922c0c33f4af33e0d5e98) ![](assets/new.png)  
-- [2020-12-14-【风险提示】天融信关于XStream-任意文件删除和服务端请求伪造漏洞...](https://sec.thief.one/article_content?a_id=3784894305e09f5d7da087d14435a3a3) ![](assets/new.png)  
-- [2020-12-14-笑着走向终结:Flash喜迎最后一次更新](https://sec.thief.one/article_content?a_id=befa6aba3db261bab859450d99e23a46) ![](assets/new.png)  
-- [2020-12-14-人物-|绿盟科技曹嘉:做管理就是做服务](https://sec.thief.one/article_content?a_id=8f7f898efd35ec844145d4ce97956c3c) ![](assets/new.png)  
-- [2020-12-14-【网信科普】什么是云存储?](https://sec.thief.one/article_content?a_id=80bf312031b39cc655701a00a26fc5c3) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

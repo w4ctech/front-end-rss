@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-15 05:08:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 05:30:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -94,8 +94,7 @@
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-12-15-请教下-v-站大佬，-dash-格式的直播视频流，能转成-m3u8-么？](https://www.v2ex.com/t/735606) 
 - [2020-12-15-Tiktok-视频搬迁到抖音](https://www.v2ex.com/t/735596) 
-- [2020-12-15-求教-Qt-播放网络链接视频-mp4-问题](https://www.v2ex.com/t/735565) 
 - [2020-12-15-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-15-【视频】|-金融行业网络安全现状与分析](https://sec.thief.one/article_content?a_id=91098400b04d50d88914c87915d51ce2) 
 - [2020-12-13-【视频】|-从安全运营看金融机构网络安全规划](https://sec.thief.one/article_content?a_id=badd152c5b04c76efd4d2503a6527b8f) 
-- [2020-12-11-Python核心:Django+Scrapy+Hadoop+数据挖掘+机器学习+精选视频...](https://sec.thief.one/article_content?a_id=f53839933eed8c84752a0ef7790cfa5c) 
 - [2020-12-08-华为名师拆书直播-|-5G物联网及NB-IoT技术详解](https://www.ershicimi.com/p/d0646b22f2172d8e38f50b28cf6ec704) 

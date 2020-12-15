@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-15 09:42:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 09:54:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,7 +45,6 @@
 - [2020-12-15-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-15-那些有趣/实用的-Chrome-扩展神器系列](https://toutiao.io/k/37mphn9) 
 - [2020-12-15-Golang-中的-SingleFlight-与-CyclicBarrier](https://toutiao.io/k/qmyah4c) 
-- [2020-12-15-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-15-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-15-每日安全动态推送12-15](https://sec.thief.one/article_content?a_id=70cdc55e9e7c33583953f26bfac31d0d) 
 - [2020-12-15-附靶场实战!如何为自己打造一个-＂网络安全军火库＂-?](https://sec.thief.one/article_content?a_id=8e6fab12685a26fc3418b2af11c60034) 

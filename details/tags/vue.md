@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-15 15:56:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 16:06:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -16,7 +16,6 @@
 - [2020-11-20-Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://www.ershicimi.com/p/81af055f62c0fe98da6886323c875523) 
 - [2020-11-19-来一起用Vue3.0开发组件造轮子！](https://www.ershicimi.com/p/c6ca66cc1f8f2d4dbbb94b86f9b027ba) 
 - [2020-11-17-Vue之父尤雨溪深度解读Vue3.0开发思路【附在线视频】](https://www.ershicimi.com/p/43a4ccee3324619d7497fd3f8333b2f2) 
-- [2020-12-10-Vue-项目打包部署总结](https://www.ershicimi.com/p/cd8585626a3a5e222c6a8027a78efa12) 
 - [2020-12-14-来一起用-Vue3.0-做个飞机大战游戏](https://www.ershicimi.com/p/023beebe77d2ea7ff8ce6082d7d1a196) 
 - [2020-12-10-研究Vue源码时发现的一些好玩函数](https://www.ershicimi.com/p/d1f20cb0e5693e09b1aa4cfdcef70547) 
 - [2020-12-02-让Jenkins自动布署你的Vue项目](https://www.ershicimi.com/p/ae7b2d36902a68389ec286724192085e) 
@@ -27,10 +26,6 @@
 - [2020-04-27-视频Vue.js-3.0-什么时候可以投入生产使用](https://www.ershicimi.com/p/62da65e218585b265a4ddc89ca674b0b) 
 - [2020-04-20-尤雨溪约你聊聊Vue.js-3.0-Beta](https://www.ershicimi.com/p/6f88eda2cef2ca14858c173412919f36) 
 - [2019-06-21-视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0) 
-- [2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) 
-- [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
-- [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
-- [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
 - [2020-12-14-来一起用-Vue3.0-做个飞机大战游戏](https://www.ershicimi.com/p/dc52ec9793a2340e4bf8fd18c0b87a24) 
 - [2020-12-13-Vue-项目打包部署总结](https://www.ershicimi.com/p/d523e59e05c4c4336e6f80d09ea6ea3f) 
 - [2020-12-08-基于Vue的前端架构，我总结15点经验](https://www.ershicimi.com/p/7b35931930d4b2fbbc3ed7c6fe11a095) 
@@ -70,4 +65,3 @@
 - [2020-11-26-从0到1熟悉VUE，只需3天！](https://www.ershicimi.com/p/cda44a7d05868dc91f7414c2439d5a92) 
 - [2020-11-23-如果Element-UI-不维护了，也不支持-Vue3.0-了，怎么办？](https://www.ershicimi.com/p/5c6101bea521ded8894ea81e09dfae85) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
-- [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 

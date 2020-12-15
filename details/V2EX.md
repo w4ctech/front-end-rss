@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-14 23:54:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 00:09:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-15-有什么-App-能将老旧-iPad-当作电子相框?](https://www.v2ex.com/t/735486) 
 - [2020-12-14-DNSPOD-国际版改版了](https://www.v2ex.com/t/735484) 
 - [2020-12-14-一个辞职一个多月在家的感悟（稍有长-最后请大家听口琴）](https://www.v2ex.com/t/735483) 
 - [2020-12-14-iPhone-12-刚刚更新了-14.3，关不了机了](https://www.v2ex.com/t/735482) 

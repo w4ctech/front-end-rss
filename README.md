@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-15 08:45:57，:rocket: 更新条数: +3875， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-15 08:55:48，:rocket: 更新条数: +950， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-12-15-12月14日全国新增确诊病例17例-本土病例3例](http://m.china.caixin.com/m/2020-12-15/101639200.html) ![](assets/new.png)  
-- [2020-12-15-数地现零星本土新冠病例-冬季疫情怎么防？](https://m.caixin.com/m/2020-12-15/101639417.html) ![](assets/new.png)  
-- [2020-12-15-【境内疫情观察】黑龙江新增2例本土确诊病例（12月14日）](http://m.database.caixin.com/m/2020-12-15/101639393.html) ![](assets/new.png)  
-- [2020-12-15-大流行手记|12月14日：美国启动新冠疫苗紧急接种-报告指45国需外部援助粮食](http://m.international.caixin.com/m/2020-12-15/101639187.html) ![](assets/new.png)  
-- [2020-12-14-【境内疫情观察】黑龙江新增2例本土确诊病例（12月13日）](http://m.database.caixin.com/m/2020-12-14/101638919.html) ![](assets/new.png)  
-- [2020-12-14-大流行手记|12月13日：美国新冠住院超10万人-秘鲁暂停国药疫苗临床试验](http://m.international.caixin.com/m/2020-12-14/101638808.html) ![](assets/new.png)  
-- [2020-12-13-【境内疫情观察】黑龙江新增4例本土确诊病例（12月12日）](http://m.database.caixin.com/m/2020-12-13/101638727.html) ![](assets/new.png)  
-- [2020-12-13-大流行手记|12月12日：六国已批准辉瑞疫苗紧急使用-英提醒关注接种过敏](http://m.international.caixin.com/m/2020-12-13/101638714.html) ![](assets/new.png)  
-- [2020-12-12-聚焦|张文宏：全球启动疫苗接种计划，疫情控制关键节点何时出现](http://m.opinion.caixin.com/m/2020-12-12/101638702.html) ![](assets/new.png)  
-- [2020-12-12-【境内疫情观察】全国新增13例境外输入病例（12月11日）](http://m.database.caixin.com/m/2020-12-12/101638660.html) ![](assets/new.png)  
-- [2020-12-12-大流行手记|12月11日：昆士兰大学新冠疫苗或致HIV假阳-赛诺菲疫苗研发受挫](http://m.international.caixin.com/m/2020-12-12/101638563.html) ![](assets/new.png)  
-- [2020-12-11-港府向科兴和复星采购1500万剂新冠疫苗-首批下月到港](http://m.china.caixin.com/m/2020-12-11/101638300.html) ![](assets/new.png)  
-- [2020-12-11-【境内疫情观察】黑龙江新增2例本土病例（12月10日）](http://m.database.caixin.com/m/2020-12-11/101638126.html) ![](assets/new.png)  
-- [2020-12-11-大流行手记|12月10日：首尔建集装箱病房扩床位-研究称意大利儿童去年11月感染新冠](http://m.international.caixin.com/m/2020-12-11/101638028.html) ![](assets/new.png)  
-- [2020-12-11-哈兽研建立新冠水貂感染模型-可模拟人类肺部病变](http://m.science.caixin.com/m/2020-12-11/101638346.html) ![](assets/new.png)  
-- [2020-12-11-聚焦|张文宏：疫苗接种计划何时可以启动](http://m.opinion.caixin.com/m/2020-12-11/101638455.html) ![](assets/new.png)  
-- [2020-12-10-最新海外疫情：新冠感染近6880万-累计死亡超156万](http://m.international.caixin.com/m/2020-12-10/101637858.html) ![](assets/new.png)  
-- [2020-12-10-香港一住宅成“疫区”-警方派谈判专家劝居民配合检疫](http://m.china.caixin.com/m/2020-12-10/101637967.html) ![](assets/new.png)  
-- [2020-12-10-【境内疫情观察】内蒙古新增1例本土病例（12月9日）](http://m.database.caixin.com/m/2020-12-10/101637710.html) ![](assets/new.png)  
-- [2020-12-10-大流行手记|12月9日：英国启动大规模疫苗接种-加拿大批准辉瑞疫苗上市](http://m.international.caixin.com/m/2020-12-10/101637605.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +974,14 @@
 </summary>
 
 
+- [2020-12-15-搞了一个-PS5-主机的微信群,有没有有意思的微信群名](https://www.v2ex.com/t/735722) ![](assets/new.png)  
+- [2020-12-15-叮咚~-你的-Techo-大会云存储专场邀请函到了！](https://www.v2ex.com/t/735721) ![](assets/new.png)  
+- [2020-12-15-Fitness-App-怎么没有-Fitness+的页面-国行不支持？？](https://www.v2ex.com/t/735720) ![](assets/new.png)  
+- [2020-12-15-出一个招行体检，-120，不迫。](https://www.v2ex.com/t/735718) ![](assets/new.png)  
+- [2020-12-15-有什么双面胶揭掉之后不留痕迹吗？](https://www.v2ex.com/t/735717) ![](assets/new.png)  
+- [2020-12-15-datagrip-生成的-ddl-的问题](https://www.v2ex.com/t/735716) ![](assets/new.png)  
+- [2020-12-15-法定假日-2021-小程序](https://www.v2ex.com/t/735715) ![](assets/new.png)  
+- [2020-12-15-插件分享-国内首个支持-无缝导入项目-无需苦苦等待文件加载的-figma-插件](https://www.v2ex.com/t/735714) ![](assets/new.png)  
 - [2020-12-15-PayPal-上海招大数据研发工程师啦！](https://www.v2ex.com/t/735711) ![](assets/new.png)  
 - [2020-12-15-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/735709) ![](assets/new.png)  
 - [2020-12-15-如何把-iPhone-虚拟机升级到-iOS-14.3-呢？](https://www.v2ex.com/t/735708) ![](assets/new.png)  
@@ -1006,14 +994,6 @@
 - [2020-12-15-深圳15-30k富途网络-诚招-PHP-开发工程师](https://www.v2ex.com/t/735699) ![](assets/new.png)  
 - [2020-12-15-用-ER-模型设计数据库靠谱吗？](https://www.v2ex.com/t/735698) ![](assets/new.png)  
 - [2020-12-15-非科班报了一个-Java-培训班，现在不想去了（考虑到时间和费用），但是她提到有一些就业的帮助，前辈们给给意见](https://www.v2ex.com/t/735695) ![](assets/new.png)  
-- [2020-12-15-弱弱的想问下各位老哥，注册公司对于开发者有什么好处？](https://www.v2ex.com/t/735693) ![](assets/new.png)  
-- [2020-12-15-上海20~40K-京东-前端开发](https://www.v2ex.com/t/735692) ![](assets/new.png)  
-- [2020-12-15-亦庄-兴盛国际-开间转让-个人房东-3700-元](https://www.v2ex.com/t/735691) ![](assets/new.png)  
-- [2020-12-15-macOS-11.1-修复了-amd-显卡无法启动光追的-bug](https://www.v2ex.com/t/735690) ![](assets/new.png)  
-- [2020-12-15-关于-ECS-共享型-s6-和-突发实例-t5-区别](https://www.v2ex.com/t/735688) ![](assets/new.png)  
-- [2020-12-15-PerfDog-性能狗实测智能手表性能](https://www.v2ex.com/t/735685) ![](assets/new.png)  
-- [2020-12-15-绿米内推-米家生态链智能家居-地点深圳~~大佬们走过路过看看~~](https://www.v2ex.com/t/735684) ![](assets/new.png)  
-- [2020-12-15-求推荐能自动调用-REST-API-的队列系统](https://www.v2ex.com/t/735683) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,8 +1040,8 @@
 - [2020-12-15-架构设计：服务自动化部署和管理流程](https://toutiao.io/k/vggjh71) ![](assets/new.png)  
 - [2020-12-15-Math.random-还能这样玩？](https://toutiao.io/k/ukwznum) ![](assets/new.png)  
 - [2020-12-15-那些有趣/实用的-Chrome-扩展神器系列](https://toutiao.io/k/37mphn9) ![](assets/new.png)  
-- [2020-12-15-90%-的程序员，都没用过多线程和锁，怎么成为架构师？](https://toutiao.io/k/gak6kr8) ![](assets/new.png)  
 - [2020-12-15-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
+- [2020-12-15-90%-的程序员，都没用过多线程和锁，怎么成为架构师？](https://toutiao.io/k/gak6kr8) ![](assets/new.png)  
 - [2020-12-15-云原生体系下的技海浮沉与理论探索](https://toutiao.io/k/jij4kk0) ![](assets/new.png)  
 - [2020-12-15-Chrome-DevTools：使用-CSS-概述面板重构和改善-CSS](https://toutiao.io/k/mqrzmkb) ![](assets/new.png)  
 - [2020-12-15-基于-Kafka-Connect-的流式数据同步方案之-Mongo-Source-Connector-实践](https://toutiao.io/k/nzvwqi2) ![](assets/new.png)  

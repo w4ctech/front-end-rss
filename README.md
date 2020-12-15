@@ -11,21 +11,21 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-15 16:06:42，:rocket: 更新条数: +874， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-15 16:12:10，:rocket: 更新条数: +3623， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)![](assets/dot.png)   
-- [前端开发博客](#前端开发博客)  
+- [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
 - [前端之巅](#前端之巅)![](assets/dot.png)   
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -49,13 +49,13 @@
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
-- [编程之上](#编程之上)  
+- [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)![](assets/dot.png)   
+- [物联网智库](#物联网智库)  
 
 ## 文章链接
 
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-12-15-最新疫情：全国新冠累计确诊86758例-本土病例新增3例](https://m.caixin.com/m/2020-12-15/101639570.html) ![](assets/new.png)  
+- [2020-12-15-数地现零星本土新冠病例-冬季疫情怎么防？](https://m.caixin.com/m/2020-12-15/101639417.html) ![](assets/new.png)  
+- [2020-12-15-最新海外疫情：新冠感染超7275万-累计死亡超161万](http://m.international.caixin.com/m/2020-12-15/101639566.html) ![](assets/new.png)  
+- [2020-12-15-【境内疫情观察】黑龙江新增2例本土确诊病例（12月14日）](http://m.database.caixin.com/m/2020-12-15/101639393.html) ![](assets/new.png)  
+- [2020-12-15-大流行手记|12月14日：美国启动新冠疫苗紧急接种-报告指45国需外部援助粮食](http://m.international.caixin.com/m/2020-12-15/101639187.html) ![](assets/new.png)  
+- [2020-12-14-【境内疫情观察】黑龙江新增2例本土确诊病例（12月13日）](http://m.database.caixin.com/m/2020-12-14/101638919.html) ![](assets/new.png)  
+- [2020-12-14-大流行手记|12月13日：美国新冠住院超10万人-秘鲁暂停国药疫苗临床试验](http://m.international.caixin.com/m/2020-12-14/101638808.html) ![](assets/new.png)  
+- [2020-12-13-【境内疫情观察】黑龙江新增4例本土确诊病例（12月12日）](http://m.database.caixin.com/m/2020-12-13/101638727.html) ![](assets/new.png)  
+- [2020-12-13-大流行手记|12月12日：六国已批准辉瑞疫苗紧急使用-英提醒关注接种过敏](http://m.international.caixin.com/m/2020-12-13/101638714.html) ![](assets/new.png)  
+- [2020-12-12-聚焦|张文宏：全球启动疫苗接种计划，疫情控制关键节点何时出现](http://m.opinion.caixin.com/m/2020-12-12/101638702.html) ![](assets/new.png)  
+- [2020-12-12-【境内疫情观察】全国新增13例境外输入病例（12月11日）](http://m.database.caixin.com/m/2020-12-12/101638660.html) ![](assets/new.png)  
+- [2020-12-12-大流行手记|12月11日：昆士兰大学新冠疫苗或致HIV假阳-赛诺菲疫苗研发受挫](http://m.international.caixin.com/m/2020-12-12/101638563.html) ![](assets/new.png)  
+- [2020-12-11-港府向科兴和复星采购1500万剂新冠疫苗-首批下月到港](http://m.china.caixin.com/m/2020-12-11/101638300.html) ![](assets/new.png)  
+- [2020-12-11-【境内疫情观察】黑龙江新增2例本土病例（12月10日）](http://m.database.caixin.com/m/2020-12-11/101638126.html) ![](assets/new.png)  
+- [2020-12-11-大流行手记|12月10日：首尔建集装箱病房扩床位-研究称意大利儿童去年11月感染新冠](http://m.international.caixin.com/m/2020-12-11/101638028.html) ![](assets/new.png)  
+- [2020-12-11-哈兽研建立新冠水貂感染模型-可模拟人类肺部病变](http://m.science.caixin.com/m/2020-12-11/101638346.html) ![](assets/new.png)  
+- [2020-12-11-聚焦|张文宏：疫苗接种计划何时可以启动](http://m.opinion.caixin.com/m/2020-12-11/101638455.html) ![](assets/new.png)  
+- [2020-12-10-香港一住宅成“疫区”-警方派谈判专家劝居民配合检疫](http://m.china.caixin.com/m/2020-12-10/101637967.html) ![](assets/new.png)  
+- [2020-12-10-【境内疫情观察】内蒙古新增1例本土病例（12月9日）](http://m.database.caixin.com/m/2020-12-10/101637710.html) ![](assets/new.png)  
+- [2020-12-10-大流行手记|12月9日：英国启动大规模疫苗接种-加拿大批准辉瑞疫苗上市](http://m.international.caixin.com/m/2020-12-10/101637605.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -207,6 +227,26 @@
 </summary>
 
 
+- [2020-12-13-Node.js-实现定时每天给女朋友发消息—nodemailer模块](https://www.ershicimi.com/p/d735150f427275ce16dbde1727f52349) ![](assets/new.png)  
+- [2020-12-13-GitHub-月榜第-3，微软的老照片修复工具火了](https://www.ershicimi.com/p/fb97b4e9fd1455e1a5424deb7acbad8e) ![](assets/new.png)  
+- [2020-12-13-灵感-|-大火的夜间模式APP界面如何设计？](https://www.ershicimi.com/p/51a7ffc340e295343a5dc93fd1f59d04) ![](assets/new.png)  
+- [2020-12-12-大规模采用-TypeScript-之后的-10-个见解](https://www.ershicimi.com/p/35168a944f8dba42d1c775e4ef57ead0) ![](assets/new.png)  
+- [2020-12-12-1-万-Star-！自称“最牛叉的”负载测试工具](https://www.ershicimi.com/p/82b29b2a86e48cd0cc4cf480a28109b6) ![](assets/new.png)  
+- [2020-12-11-为什么程序员互相之间不能透露薪水？是怕“凡尔赛”吗？](https://www.ershicimi.com/p/0be73d690b5f7d9e590a42f0e1c80125) ![](assets/new.png)  
+- [2020-12-11-「科普」前端工程师简史](https://www.ershicimi.com/p/d5b6c5ad1437db530955cbda8d5a417a) ![](assets/new.png)  
+- [2020-12-11-你不能错过的超赞色彩组合！设计师的配色宝典](https://www.ershicimi.com/p/0dca022f64204a29932d5b20f28681a5) ![](assets/new.png)  
+- [2020-12-10-Vue-项目打包部署总结](https://www.ershicimi.com/p/cd8585626a3a5e222c6a8027a78efa12) ![](assets/new.png)  
+- [2020-12-10-1.4-万-Star！迄今为止速度最快的端口扫描器](https://www.ershicimi.com/p/643ccf87d5706d043b023df59574d518) ![](assets/new.png)  
+- [2020-12-10-灵感-|-12组钱包APP界面设计](https://www.ershicimi.com/p/873f8fcc88e9c4e7047cb537284237d7) ![](assets/new.png)  
+- [2020-12-09-两小时搞定-ES6：原理讲解+项目实战](https://www.ershicimi.com/p/b65c475eb70c0c89a1fe92a3a0898706) ![](assets/new.png)  
+- [2020-12-09-Math.random-还能这样玩？](https://www.ershicimi.com/p/17094de760f17b56b7ef284d8013c55d) ![](assets/new.png)  
+- [2020-12-09-灵感-|-高效工作必备的任务管理网页设计](https://www.ershicimi.com/p/b3444615a0c75fc9782af8ce527d3217) ![](assets/new.png)  
+- [2020-12-08-用-CSS-实现一个抽奖转盘附详细代码+思路](https://www.ershicimi.com/p/ad4df4b70d3898d0e6d64c188e8b89e6) ![](assets/new.png)  
+- [2020-12-08-GitHub-月榜第-3，微软的老照片修复工具火了](https://www.ershicimi.com/p/2ed6fb21af2fe1544662cd80763a7974) ![](assets/new.png)  
+- [2020-12-08-灵感-|-12组投资APP界面设计](https://www.ershicimi.com/p/afa289c9112313b393c9a91a8ef0e0b1) ![](assets/new.png)  
+- [2020-12-07-一套代码、多端运行，Flutter是如何实现的？](https://www.ershicimi.com/p/092bb0b96ddfd4245d4c2991d19578a6) ![](assets/new.png)  
+- [2020-12-07-为什么-React-源码不用-TypeScript-来写？](https://www.ershicimi.com/p/178236e68b9dbc7086326474b0ede4ea) ![](assets/new.png)  
+- [2020-12-06-网页骨架屏自动生成方案分享](https://www.ershicimi.com/p/8194978da6ad597af50424dff8847655) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -280,6 +320,26 @@
 </summary>
 
 
+- [2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) ![](assets/new.png)  
+- [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) ![](assets/new.png)  
+- [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) ![](assets/new.png)  
+- [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) ![](assets/new.png)  
+- [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) ![](assets/new.png)  
+- [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) ![](assets/new.png)  
+- [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) ![](assets/new.png)  
+- [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) ![](assets/new.png)  
+- [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) ![](assets/new.png)  
+- [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) ![](assets/new.png)  
+- [2020-02-13-工具控hoist-non-react-statics-你没用过吧](https://www.ershicimi.com/p/bb1161f2239a80f5e1b16357546ee040) ![](assets/new.png)  
+- [2020-02-12-工具控-react-优化里面用到-lodash.memoize](https://www.ershicimi.com/p/8030f9ceac2221818a92f0a24cede590) ![](assets/new.png)  
+- [2020-02-11-工具控babel-react-optimize](https://www.ershicimi.com/p/87be70d3d4719eedb42df24f6303ca69) ![](assets/new.png)  
+- [2020-02-07-工具控来看看代码高亮必备](https://www.ershicimi.com/p/56debedff7f9d3c357f3621de7a64aa2) ![](assets/new.png)  
+- [2020-02-06-阿里-ice.work-探秘系列-react-materials-之Label](https://www.ershicimi.com/p/41048b591220c58f73c8e9945b1514c1) ![](assets/new.png)  
+- [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) ![](assets/new.png)  
+- [2020-02-04-阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497) ![](assets/new.png)  
+- [2020-02-03-阿里-ice.work-探秘系列-disabled-reload](https://www.ershicimi.com/p/51eed11abceaabb3dd7f2ceed864d182) ![](assets/new.png)  
+- [2020-01-16-阿里-ice.work-探秘系列-withRouter-的使用](https://www.ershicimi.com/p/29c023dd30374ab258ceef6aeaddb1e2) ![](assets/new.png)  
+- [2020-01-15-阿里-ice.work-探秘系列-useState、useEffect](https://www.ershicimi.com/p/23159dcf23f0f8f92efd0a91c7a316f2) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发博客.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -617,26 +677,6 @@
 </summary>
 
 
-- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -872,6 +912,26 @@
 </summary>
 
 
+- [2020-04-15-第四期|前端的规划如何落地](https://www.ershicimi.com/p/4233bce2181a7f01d79d8f80ef35e244) ![](assets/new.png)  
+- [2020-04-13-我和前端早早聊的小故事](https://www.ershicimi.com/p/288c74cf24f39a4866f6b9626741452d) ![](assets/new.png)  
+- [2020-03-31-第三期-|-前端搞搭建一些思考](https://www.ershicimi.com/p/390c83d5208473b69e0d9125c49e95a9) ![](assets/new.png)  
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) ![](assets/new.png)  
+- [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) ![](assets/new.png)  
+- [2020-03-11-4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4) ![](assets/new.png)  
+- [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) ![](assets/new.png)  
+- [2020-03-01-前端如何搞基建](https://www.ershicimi.com/p/fc1af1d9cfaca3f5d7cb41470add1ace) ![](assets/new.png)  
+- [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) ![](assets/new.png)  
+- [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) ![](assets/new.png)  
+- [2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) ![](assets/new.png)  
+- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) ![](assets/new.png)  
+- [2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) ![](assets/new.png)  
+- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) ![](assets/new.png)  
+- [2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) ![](assets/new.png)  
+- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) ![](assets/new.png)  
+- [2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) ![](assets/new.png)  
+- [2019-10-14-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) ![](assets/new.png)  
+- [2019-10-13-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) ![](assets/new.png)  
+- [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) ![](assets/new.png)  
 - [......【查看更多】......](./details/编程之上.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -945,6 +1005,26 @@
 </summary>
 
 
+- [2020-12-15-程序员才懂的“凡尔赛语录”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14052&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9jdf7YN4_pIHKumAvvltLQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-白话科普系列——网站靠什么提升加载速度？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14051&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F336150534%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-银行规模化敏捷的窘境-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14050&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fscale-agile-transformation-four-steps%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-我的笔记系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14049&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fnote-taking-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-使用-DDD-指导微服务拆分的逻辑-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14048&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-split-microservices%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-码仔漫画｜重学设计模式之装饰者模式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14047&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwjyke4sj-fv324ApHGLuRA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-机器学习平台带给QA的挑战-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14046&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmachine-learning-platform-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-码仔漫画-|-TCP的三次握手-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14045&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FA-M_8NTW5OHW2olQFg7zkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-通俗易懂的解释下前复权，不复权和后复权的区别-www.zhihu.com](https://blogread.cn/news/go.php?idItem=14044&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F31004373%2Fanswer%2F242862540%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-点触科技上云-构建实时计算和数据仓库-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14042&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7589%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-在云之上的猿辅导，撑住500万中小学生的挑战-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14041&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8969%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-冠赢网络上云-游戏盾彻底解决DDoS/CC攻击-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14039&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9097%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-58到家为2000万家庭提供上门生活服务的背后是云计算的高效支撑-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14038&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F4971%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-母婴企业上云-实现线上线下互动营销、一体化管理服务-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14037&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F6721%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-上学帮上云-阿里云助力教育资讯平台防爬虫-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14036&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9197%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-微服务架构下-CI/CD-如何落地-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14035&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F328238514%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-百家云借助“容器+神龙”三天内实现数十倍扩容-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14034&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8289%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-15-太平鸟上云-推动中国服饰行业新零售转型-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14033&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8471%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1018,26 +1098,6 @@
 </summary>
 
 
-- [2020-12-14-苹果印度工厂遭打砸，员工月薪最低仅44元！复制中国奇迹印度“心比天高，命比纸薄”？](https://www.ershicimi.com/p/41a2c835d1292bef5353a0f89e38f237) ![](assets/new.png)  
-- [2020-12-14-【1月7日/北京】错过等一年，年度AIoT产业盛典重磅来袭！](https://www.ershicimi.com/p/d70ccad854f29921435a417e32507ba3) ![](assets/new.png)  
-- [2020-12-14-载波聚合，5G速率飙升的利器！](https://www.ershicimi.com/p/b61221e4d8543b56bf94171c9308f42e) ![](assets/new.png)  
-- [2020-12-14-移动芯片如何走出“高水平均衡陷阱”？](https://www.ershicimi.com/p/7d06ec68495946a6950222f11a92798f) ![](assets/new.png)  
-- [2020-12-13-读完30篇2021物联网预测，我却大失所望……【物女心经】](https://www.ershicimi.com/p/ae855200d41ed31c4bb84608de57f401) ![](assets/new.png)  
-- [2020-12-13-物联网投融资周报|小米长江产业基金入股纵慧芯光、易兆微；波士顿动力9.21亿美元被卖；移芯通信完成数](https://www.ershicimi.com/p/11a5bdf20bba7aecfc6a9aab22e4bc0c) ![](assets/new.png)  
-- [2020-12-12-腾讯搞起物联网平台来，就很有腾讯那味儿~](https://www.ershicimi.com/p/8d55f8dc68d0148f4bf24fc1f4d9bc62) ![](assets/new.png)  
-- [2020-12-12-【AIoT产业年终盛典·报名开启】拨迷见“物”，洞察物联网新十年！](https://www.ershicimi.com/p/fa050b5a77c77d136bc5d4e74667f6ad) ![](assets/new.png)  
-- [2020-12-12-技术&商业双轮驱动，黑芝麻如何实现自动驾驶芯片突围？](https://www.ershicimi.com/p/8c795dd8065e534daa552f26b08f32b4) ![](assets/new.png)  
-- [2020-12-11-UWB/蓝牙/WiFi/红外/Zigbee/LoRa-Edge…….室内定位技术的百家争鸣时代](https://www.ershicimi.com/p/a35fb040e7e0a28830e1717cb4094dd0) ![](assets/new.png)  
-- [2020-12-11-开启LPWAN-2.0时代的底层技术：Advanced-M-FSK二](https://www.ershicimi.com/p/368a46bf87349f1d9ab09fd6e7220ed7) ![](assets/new.png)  
-- [2020-12-11-灰色的暴利市场，物联网成为黑客的捞金温床](https://www.ershicimi.com/p/c4edf085bf8c3b9ff081c44c080a00b7) ![](assets/new.png)  
-- [2020-12-10-人民日报点赞的NB-IoT应用：独居老人水表12小时不走自动预警，建议全国推广](https://www.ershicimi.com/p/c27836fe439b38c11e2023d88b8c66e9) ![](assets/new.png)  
-- [2020-12-10-【AIoT产业年终盛典·报名开启】拨迷见“物”，洞察物联网新十年！](https://www.ershicimi.com/p/ba742e6a560fd6d7e280903dbfde396d) ![](assets/new.png)  
-- [2020-12-10-为什么物联网设备离不开定位功能？](https://www.ershicimi.com/p/994d410a9846900a68bba57f8292cf46) ![](assets/new.png)  
-- [2020-12-09-昨晚，苹果悄悄上线头戴式耳机AirPods-Max，4399元！“真TM贵”-还是“真NM香”？](https://www.ershicimi.com/p/d0fc8e89524bbf60cbd98581c07fb73d) ![](assets/new.png)  
-- [2020-12-09-【榜单】新基建成新十年风向，哪些物联网“行业/企业/人物/方案”将最具潜力？](https://www.ershicimi.com/p/33b06d494ff606ac59260af25de6d6c2) ![](assets/new.png)  
-- [2020-12-09-5G-toB大戏拉开帷幕，公网专用正当其时](https://www.ershicimi.com/p/d4f9a5f21cf9d6a1ac92d36771f13412) ![](assets/new.png)  
-- [2020-12-08-智能制造站上风口](https://www.ershicimi.com/p/e9df65d416f9e67c21cfb7d8416c1600) ![](assets/new.png)  
-- [2020-12-08-华为名师拆书直播-|-5G物联网及NB-IoT技术详解](https://www.ershicimi.com/p/d0646b22f2172d8e38f50b28cf6ec704) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

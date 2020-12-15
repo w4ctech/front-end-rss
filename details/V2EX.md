@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-15 23:33:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 23:43:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-15-直营店体验了-AirPods-Max](https://www.v2ex.com/t/735839) 
 - [2020-12-15-m1-装手机-app-讨论：-1-遇到的问题；-2-适合在电脑上使用的手机-app](https://www.v2ex.com/t/735838) 
 - [2020-12-15-清空剪贴板太便宜这些流氓软件了，有个邪恶的想法](https://www.v2ex.com/t/735837) 
 - [2020-12-15-求推荐开源的图形化的监控网页变化的工具](https://www.v2ex.com/t/735836) 
@@ -45,4 +46,3 @@
 - [2020-12-15-@Livid-我现在用-us.v2ex-发帖的，刚才突然-V2EX-和-www.v2ex-都提示证书错误](https://www.v2ex.com/t/735792) 
 - [2020-12-15-mbp2020-typec-外接硬盘读不到盘](https://www.v2ex.com/t/735791) 
 - [2020-12-15-vEthernet-Default-Switch-网络性能问题](https://www.v2ex.com/t/735790) 
-- [2020-12-15-有没有自动推导公式的软件呀~-我承认我懒了](https://www.v2ex.com/t/735789) 

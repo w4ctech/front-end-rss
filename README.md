@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-15 23:33:35，:rocket: 更新条数: +3880， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-15 23:43:04，:rocket: 更新条数: +3880， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-12-15-为防控疫情-东京奥运会圣火传递或将放弃让演艺明星担任火炬手](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieV3iWOqSf2JmrcYQd6La201216&isfromapp=1) ![](assets/new.png)  
+- [2020-12-15-“疫情后”旅游业走向何方？2020中国旅游业发展报告在武汉发布](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLhvFbAhcge8sA7A2ZzKL201215&isfromapp=1) ![](assets/new.png)  
+- [2020-12-15-世卫组织：全球新冠肺炎确诊病例累计超过7135万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6TvdmUe0si2cZsInRLAD201215&isfromapp=1) ![](assets/new.png)  
 - [2020-12-15-捷克新增新冠肺炎确诊病例5169例-累计确诊586251例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYeH3tk8KSSQduXYrJ7qo201215&isfromapp=1) ![](assets/new.png)  
-- [2020-12-15-美媒：美国每40秒就有1人死于新冠-数据背后上演无数家庭的悲剧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqMEDGabr4xt7Jpg4UVp1201215&isfromapp=1) ![](assets/new.png)  
-- [2020-12-15-切莫放松大意！新冠病毒在冷冻环境下或可存活几个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit78X75LdXdpNqjXvYn2Z201215&isfromapp=1) ![](assets/new.png)  
-- [2020-12-14-世卫组织：没有证据显示英国出现的变异病毒表现有所不同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip685FmbXDHThtyS5cRVQ201215&isfromapp=1) ![](assets/new.png)  
-- [2020-12-14-北马其顿副总理确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTElTqnZZ3mgRJ0EYd638201215&isfromapp=1) ![](assets/new.png)  
+- [2020-12-15-俄罗斯杜马5名议员二次确诊新冠肺炎-议员确诊总数达到157人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK7bSSTCqBa5cTi2BfLsA201215&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +994,7 @@
 </summary>
 
 
+- [2020-12-15-直营店体验了-AirPods-Max](https://www.v2ex.com/t/735839) ![](assets/new.png)  
 - [2020-12-15-m1-装手机-app-讨论：-1-遇到的问题；-2-适合在电脑上使用的手机-app](https://www.v2ex.com/t/735838) ![](assets/new.png)  
 - [2020-12-15-清空剪贴板太便宜这些流氓软件了，有个邪恶的想法](https://www.v2ex.com/t/735837) ![](assets/new.png)  
 - [2020-12-15-求推荐开源的图形化的监控网页变化的工具](https://www.v2ex.com/t/735836) ![](assets/new.png)  
@@ -1013,7 +1014,6 @@
 - [2020-12-15-你们的-M1-有遇到过软件卸载不掉，更新软件卡住等问题吗？](https://www.v2ex.com/t/735821) ![](assets/new.png)  
 - [2020-12-15-最近-onedrive-是不是有毛病？](https://www.v2ex.com/t/735819) ![](assets/new.png)  
 - [2020-12-15-关于-Tap&go](https://www.v2ex.com/t/735817) ![](assets/new.png)  
-- [2020-12-15-V2EX-的-Cyberpunk-2077-节点](https://www.v2ex.com/t/735816) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1070,9 +1070,9 @@
 - [2020-12-15-如何将-Node.js-业务迁移到-k8s-中？](https://toutiao.io/k/igeze91) ![](assets/new.png)  
 - [2020-12-15-React-高阶组件-Props-代理的一些小技巧](https://toutiao.io/k/7ma063a) ![](assets/new.png)  
 - [2020-12-15-理解-Spring-的-FactoryBean-没那么难](https://toutiao.io/k/iduqw9a) ![](assets/new.png)  
+- [2020-12-15-逻辑回归-+-GBDT-模型融合实战](https://toutiao.io/k/yngwd9k) ![](assets/new.png)  
 - [2020-12-15-数据与广告（二十三）：计算广告的商业本质](https://toutiao.io/k/3p5htvj) ![](assets/new.png)  
 - [2020-12-15-从实践到原理，带你参透-gRPC](https://toutiao.io/k/w5bxcjg) ![](assets/new.png)  
-- [2020-12-15-逻辑回归-+-GBDT-模型融合实战](https://toutiao.io/k/yngwd9k) ![](assets/new.png)  
 - [2020-12-15-计算机学生应不应该考研？附上袁哥的考研经历](https://toutiao.io/k/56bu6ge) ![](assets/new.png)  
 - [2020-12-15-Golang-中的-SingleFlight-与-CyclicBarrier](https://toutiao.io/k/qmyah4c) ![](assets/new.png)  
 - [2020-12-15-SQL-Server-关于-datetime-的更新引发的思考](https://toutiao.io/k/q5w1kno) ![](assets/new.png)  

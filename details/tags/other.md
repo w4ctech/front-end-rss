@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-15 15:04:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 15:09:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2563,6 +2563,10 @@
 - [2020-01-20-【图集】武汉每天76趟列车抵广州南-旅客少有戴口罩未见体温检测](http://m.photos.caixin.com/m/2020-01-20/101506484.html) 
 - [2020-01-16-日本公布一新型冠状病毒感染病例-患者去过武汉](http://m.china.caixin.com/m/2020-01-16/101506054.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://m.china.caixin.com/m/2020-01-11/101506220.html) 
+- [2020-12-15-美媒：美国每40秒就有1人死于新冠-数据背后上演无数家庭的悲剧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqMEDGabr4xt7Jpg4UVp1201215&isfromapp=1) 
+- [2020-12-15-切莫放松大意！新冠病毒在冷冻环境下或可存活几个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit78X75LdXdpNqjXvYn2Z201215&isfromapp=1) 
+- [2020-12-14-世卫组织：没有证据显示英国出现的变异病毒表现有所不同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip685FmbXDHThtyS5cRVQ201215&isfromapp=1) 
+- [2020-12-14-北马其顿副总理确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTElTqnZZ3mgRJ0EYd638201215&isfromapp=1) 
 - [2020-12-10-2020快结束了，为感谢粉丝们的关注，小编决定抽奖送一台新款笔记本](https://www.ershicimi.com/p/7c0e1851b193c30b6ced0f22f845116a) 
 - [2020-12-07-网页骨架屏自动生成方案分享](https://www.ershicimi.com/p/1985475982840b5b44dd03b0456b8c24) 
 - [2020-12-03-微信第-1-行代码曝光！](https://www.ershicimi.com/p/9b2e8c8eee767bfc352ef90ef44238bc) 

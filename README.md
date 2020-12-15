@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-15 15:04:42，:rocket: 更新条数: +3635， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-15 15:09:46，:rocket: 更新条数: +3640， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,11 @@
 </summary>
 
 
+- [2020-12-15-捷克新增新冠肺炎确诊病例5169例-累计确诊586251例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYeH3tk8KSSQduXYrJ7qo201215&isfromapp=1) ![](assets/new.png)  
+- [2020-12-15-美媒：美国每40秒就有1人死于新冠-数据背后上演无数家庭的悲剧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqMEDGabr4xt7Jpg4UVp1201215&isfromapp=1) ![](assets/new.png)  
+- [2020-12-15-切莫放松大意！新冠病毒在冷冻环境下或可存活几个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit78X75LdXdpNqjXvYn2Z201215&isfromapp=1) ![](assets/new.png)  
+- [2020-12-14-世卫组织：没有证据显示英国出现的变异病毒表现有所不同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip685FmbXDHThtyS5cRVQ201215&isfromapp=1) ![](assets/new.png)  
+- [2020-12-14-北马其顿副总理确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTElTqnZZ3mgRJ0EYd638201215&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

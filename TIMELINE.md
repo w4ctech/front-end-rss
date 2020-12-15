@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-15 15:04:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-15 15:09:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -115,6 +115,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-12-02-大流行手记|12月1日：美国2019年底或已出现新冠感染-韩国再上调防疫级别](https://m.caixin.com/m/2020-12-02/101634640.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-12-01-【境内疫情观察】内蒙古新增4例本土确诊病例（11月30日）](http://m.database.caixin.com/m/2020-12-01/101634347.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-12-01-大流行手记|11月30日：英滚动审评阿斯利康疫苗-Moderna疫苗申请紧急使用](https://m.caixin.com/m/2020-12-01/101634135.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-12-15-捷克新增新冠肺炎确诊病例5169例-累计确诊586251例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYeH3tk8KSSQduXYrJ7qo201215&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-12-15-美媒：美国每40秒就有1人死于新冠-数据背后上演无数家庭的悲剧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqMEDGabr4xt7Jpg4UVp1201215&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-12-15-切莫放松大意！新冠病毒在冷冻环境下或可存活几个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit78X75LdXdpNqjXvYn2Z201215&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-12-14-世卫组织：没有证据显示英国出现的变异病毒表现有所不同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip685FmbXDHThtyS5cRVQ201215&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-12-14-北马其顿副总理确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTElTqnZZ3mgRJ0EYd638201215&isfromapp=1) 
 - [【Vue社区】2020-12-11-10个前端8个用Vue的，怎么才能在面试中出彩？](https://www.ershicimi.com/p/491f496e128280a7f529700e6058b3ba) 
 - [【Vue社区】2020-12-10-2020快结束了，为感谢粉丝们的关注，小编决定抽奖送一台新款笔记本](https://www.ershicimi.com/p/7c0e1851b193c30b6ced0f22f845116a) 
 - [【Vue社区】2020-12-09-字节跳动年底招聘-10000-人，看看你符合条件么？](https://www.ershicimi.com/p/45becc670feffb4cf743c60c3ba28698) 

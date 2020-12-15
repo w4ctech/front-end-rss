@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-15 21:08:16，:rocket: 更新条数: +3880， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-15 21:29:30，:rocket: 更新条数: +3880， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -994,6 +994,7 @@
 </summary>
 
 
+- [2020-12-15-清空剪贴板太便宜这些流氓软件了，有个邪恶的想法](https://www.v2ex.com/t/735837) ![](assets/new.png)  
 - [2020-12-15-求推荐开源的图形化的监控网页变化的工具](https://www.v2ex.com/t/735836) ![](assets/new.png)  
 - [2020-12-15-坐标北京，求-Java-实习岗。](https://www.v2ex.com/t/735835) ![](assets/new.png)  
 - [2020-12-15-有没有支持-rsync-的国内速度较快的源站点，实在受不了清华大学那个龟速了](https://www.v2ex.com/t/735834) ![](assets/new.png)  
@@ -1013,7 +1014,6 @@
 - [2020-12-15-关于-Tap&go](https://www.v2ex.com/t/735817) ![](assets/new.png)  
 - [2020-12-15-V2EX-的-Cyberpunk-2077-节点](https://www.v2ex.com/t/735816) ![](assets/new.png)  
 - [2020-12-15-明天下午阿里现场面，各位老哥有啥指导吗？](https://www.v2ex.com/t/735815) ![](assets/new.png)  
-- [2020-12-15-.lu-后缀二字符单字符终于开放啦](https://www.v2ex.com/t/735814) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

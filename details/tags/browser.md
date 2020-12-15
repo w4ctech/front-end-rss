@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-15 15:45:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 15:56:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,6 +26,7 @@
 - [2020-12-11-前端前沿观察，Cookie-居然可以这样整了](https://www.ershicimi.com/p/bfd223b8e85452ebd67a19509a3d6021) 
 - [2020-12-04-前端-api-请求缓存的-5-种方案](https://www.ershicimi.com/p/0739f868c16f1fc66b41e39b676c2588) 
 - [2020-11-27-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/7609004e2f9423cf4f1b2eb5dc1b19ac) 
+- [2020-12-11-你猜一个-TCP-连接上面能发多少个-HTTP-请求](https://www.ershicimi.com/p/c60bafb3210f050def9b7719202d9750) 
 - [2020-12-09-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/73356e18cd00004d269c88984a8a61b0) 
 - [2020-12-04-前端安全编码规范](https://www.ershicimi.com/p/c8b36b7987f290a7e50281d0ad917717) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
@@ -43,10 +44,10 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-15-windows-远程服务安全性，防止爆破](https://www.v2ex.com/t/735788) 
 - [2020-12-15-开个美区的-Apple-One-Premier-的「稳定长期」车，有搭车的吗？](https://www.v2ex.com/t/735785) 
+- [2020-12-15-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-15-那些有趣/实用的-Chrome-扩展神器系列](https://toutiao.io/k/37mphn9) 
 - [2020-12-15-Golang-中的-SingleFlight-与-CyclicBarrier](https://toutiao.io/k/qmyah4c) 
 - [2020-12-15-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
-- [2020-12-15-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-15-距离2020滴滴网络安全峰会倒计时2天!后天见!](https://sec.thief.one/article_content?a_id=e38ce882e8b2e620eea5b9c567dcc306) 
 - [2020-12-15-密码安全丨你的手机锁屏密码真的安全吗?](https://sec.thief.one/article_content?a_id=562e7b4cc465eaf259468e6cfc527811) 
 - [2020-12-15-【流行威胁追踪】百足之虫:GlobeImposter勒索病毒新手法,利用...](https://sec.thief.one/article_content?a_id=2876d50a2bfe3eefaeb9ddd77610f2e3) 

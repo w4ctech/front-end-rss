@@ -1,12 +1,13 @@
-:alarm_clock: 更新时间: 2020-12-15 04:56:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 05:04:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-15-plc4j-的-s7-driver-不支持写入-real-吗？](https://www.v2ex.com/t/735611) 
+- [2020-12-15-DevOps-中的测试实践](https://www.v2ex.com/t/735610) 
 - [2020-12-15-推广一下自己写的快速-bash-脚本-fast_cmd](https://www.v2ex.com/t/735609) 
-- [2020-12-15-猿们，我退化成公狗了----别了程序员](https://www.v2ex.com/t/735608) 
 - [2020-12-15-请教下-v-站大佬，-dash-格式的直播视频流，能转成-m3u8-么？](https://www.v2ex.com/t/735606) 
 - [2020-12-15-分析一下-Java-ORM-框架的原理，大家怎么看？](https://www.v2ex.com/t/735605) 
 - [2020-12-15-问问各位老哥关于公司签虚假劳动合同以及单休等问题](https://www.v2ex.com/t/735603) 
@@ -40,4 +41,3 @@
 - [2020-12-15-mapstringinterface{}-中unit8-序列化成了-base64,](https://www.v2ex.com/t/735564) 
 - [2020-12-15-微信订阅号前段时间开始天天推荐，关都关不掉](https://www.v2ex.com/t/735563) 
 - [2020-12-15-iMac-系统降级，照片应用无法降级使用图库](https://www.v2ex.com/t/735562) 
-- [2020-12-15-Youtube-上发现个不错的笔记软件-Milanote](https://www.v2ex.com/t/735560) 

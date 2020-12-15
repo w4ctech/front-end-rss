@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-15 11:08:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 11:30:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -50,4 +50,3 @@
 - [2020-12-11-推荐一个小程序实战项目！0基础可做](https://www.ershicimi.com/p/101ffccef2fa9c22d157a7664725b323) 
 - [2020-12-15-Taro-源码解读---@tarojs/taro-篇](https://juejin.im/post/6906417392931307534) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
-- [2020-12-15-法定假日-2021-小程序](https://www.v2ex.com/t/735715) 

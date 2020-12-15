@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-15 03:42:36，:rocket: 更新条数: +3874， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-15 03:55:15，:rocket: 更新条数: +3875， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-12-15-切莫放松大意！新冠病毒在冷冻环境下或可存活几个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit78X75LdXdpNqjXvYn2Z201215&isfromapp=1) ![](assets/new.png)  
 - [2020-12-14-世卫组织：没有证据显示英国出现的变异病毒表现有所不同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip685FmbXDHThtyS5cRVQ201215&isfromapp=1) ![](assets/new.png)  
 - [2020-12-14-北马其顿副总理确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTElTqnZZ3mgRJ0EYd638201215&isfromapp=1) ![](assets/new.png)  
 - [2020-12-14-全英范围内新冠感染率最高！英国伦敦防疫等级升为最高级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikdcx0Ih4sVtOocc4jVqo201215&isfromapp=1) ![](assets/new.png)  
 - [2020-12-14-交通管制、限制外出……阿塞拜疆采取更严格防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixLWV2PnrO0HvFLAvUhtr201214&isfromapp=1) ![](assets/new.png)  
-- [2020-12-14-非洲疫情观察丨第二波新冠肺炎疫情正在非洲蔓延-假期临近-抗疫形势愈加严峻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJd14wKFdyiiWpjNEfGw8201214&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +994,10 @@
 </summary>
 
 
+- [2020-12-15-漏洞反馈2018-年给慕课网发了封盗录-BUG-的邮件,热脸贴人家冷屁股](https://www.v2ex.com/t/735585) ![](assets/new.png)  
+- [2020-12-15-怎么让-10010-不再打骚扰电话](https://www.v2ex.com/t/735584) ![](assets/new.png)  
+- [2020-12-15-解梦：宇宙是不是可能是一种我们无法理解的生物？](https://www.v2ex.com/t/735583) ![](assets/new.png)  
+- [2020-12-15-JD-也越来越流氓，都是谁教的](https://www.v2ex.com/t/735582) ![](assets/new.png)  
 - [2020-12-15-如何将-N-条微信聊天记录文本拷贝出来？](https://www.v2ex.com/t/735580) ![](assets/new.png)  
 - [2020-12-15-SpringBoot-学习、实战项目](https://www.v2ex.com/t/735579) ![](assets/new.png)  
 - [2020-12-15-我觉得升到-14.3-发现绿屏黄屏还没解决的大家先不要急](https://www.v2ex.com/t/735577) ![](assets/new.png)  
@@ -1010,10 +1014,6 @@
 - [2020-12-15-求教-Qt-播放网络链接视频-mp4-问题](https://www.v2ex.com/t/735565) ![](assets/new.png)  
 - [2020-12-15-mapstringinterface{}-中unit8-序列化成了-base64,](https://www.v2ex.com/t/735564) ![](assets/new.png)  
 - [2020-12-15-微信订阅号前段时间开始天天推荐，关都关不掉](https://www.v2ex.com/t/735563) ![](assets/new.png)  
-- [2020-12-15-iMac-系统降级，照片应用无法降级使用图库](https://www.v2ex.com/t/735562) ![](assets/new.png)  
-- [2020-12-15-Youtube-上发现个不错的笔记软件-Milanote](https://www.v2ex.com/t/735560) ![](assets/new.png)  
-- [2020-12-15-求推荐一个-1500-左右的安卓机，给妈妈买的](https://www.v2ex.com/t/735559) ![](assets/new.png)  
-- [2020-12-15-推荐一个不要-orm-的-Python-web-框架](https://www.v2ex.com/t/735557) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

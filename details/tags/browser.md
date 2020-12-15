@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-15 13:02:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 13:10:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -21,7 +21,6 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2020-12-09-【第2142期】Chrome浏览器Referrer-Policy默认值变更](https://www.ershicimi.com/p/a1e5f72d1817a22d47e452fe88172faa) 
 - [2020-12-14-跨域，不止CORS](https://www.ershicimi.com/p/4c1957186e134e081e700b2fc46e7733) 
 - [2020-12-11-前端前沿观察，Cookie-居然可以这样整了](https://www.ershicimi.com/p/bfd223b8e85452ebd67a19509a3d6021) 
 - [2020-12-04-前端-api-请求缓存的-5-种方案](https://www.ershicimi.com/p/0739f868c16f1fc66b41e39b676c2588) 
@@ -39,6 +38,7 @@
 - [2020-12-15-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-15-那些有趣/实用的-Chrome-扩展神器系列](https://toutiao.io/k/37mphn9) 
 - [2020-12-15-Golang-中的-SingleFlight-与-CyclicBarrier](https://toutiao.io/k/qmyah4c) 
+- [2020-12-15-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-15-距离2020滴滴网络安全峰会倒计时2天!后天见!](https://sec.thief.one/article_content?a_id=e38ce882e8b2e620eea5b9c567dcc306) 
 - [2020-12-15-密码安全丨你的手机锁屏密码真的安全吗?](https://sec.thief.one/article_content?a_id=562e7b4cc465eaf259468e6cfc527811) 
 - [2020-12-15-【流行威胁追踪】百足之虫:GlobeImposter勒索病毒新手法,利用...](https://sec.thief.one/article_content?a_id=2876d50a2bfe3eefaeb9ddd77610f2e3) 

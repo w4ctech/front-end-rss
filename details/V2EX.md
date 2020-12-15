@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-15 18:44:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 18:56:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-15-有没有支持-rsync-的国内速度较快的源站点，实在受不了清华大学那个龟速了](https://www.v2ex.com/t/735834) 
 - [2020-12-15-求推荐一把好用的高端客制化机械键盘？](https://www.v2ex.com/t/735833) 
 - [2020-12-15-Steam-Social-Link-on-V2EX](https://www.v2ex.com/t/735832) 
 - [2020-12-15-Cyberpunk-2077-1.04-无法保存语言设置？](https://www.v2ex.com/t/735830) 
@@ -44,4 +45,3 @@
 - [2020-12-15-windows-远程服务安全性，防止爆破](https://www.v2ex.com/t/735788) 
 - [2020-12-15-有这样的学英语（扩充单词量）的-app-吗？](https://www.v2ex.com/t/735787) 
 - [2020-12-15-开个美区的-Apple-One-Premier-的「稳定长期」车，有搭车的吗？](https://www.v2ex.com/t/735785) 
-- [2020-12-15-被降权后果是什么？发帖没人看吗？](https://www.v2ex.com/t/735784) 

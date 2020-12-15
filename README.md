@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-15 18:44:20，:rocket: 更新条数: +3879， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-15 18:56:57，:rocket: 更新条数: +3879， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -994,6 +994,7 @@
 </summary>
 
 
+- [2020-12-15-有没有支持-rsync-的国内速度较快的源站点，实在受不了清华大学那个龟速了](https://www.v2ex.com/t/735834) ![](assets/new.png)  
 - [2020-12-15-求推荐一把好用的高端客制化机械键盘？](https://www.v2ex.com/t/735833) ![](assets/new.png)  
 - [2020-12-15-Steam-Social-Link-on-V2EX](https://www.v2ex.com/t/735832) ![](assets/new.png)  
 - [2020-12-15-Cyberpunk-2077-1.04-无法保存语言设置？](https://www.v2ex.com/t/735830) ![](assets/new.png)  
@@ -1013,7 +1014,6 @@
 - [2020-12-15-.lu-后缀二字符单字符终于开放啦](https://www.v2ex.com/t/735814) ![](assets/new.png)  
 - [2020-12-15-更新后的开机声音怎么关-MBP2018-Mojave](https://www.v2ex.com/t/735813) ![](assets/new.png)  
 - [2020-12-15-big-sur-11.1-触摸板加速](https://www.v2ex.com/t/735811) ![](assets/new.png)  
-- [2020-12-15-从来没去过健身房,请问-350-的月卡是正常的吗?](https://www.v2ex.com/t/735808) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1071,8 +1071,8 @@
 - [2020-12-15-理解-Spring-的-FactoryBean-没那么难](https://toutiao.io/k/iduqw9a) ![](assets/new.png)  
 - [2020-12-15-如何将-Node.js-业务迁移到-k8s-中？](https://toutiao.io/k/igeze91) ![](assets/new.png)  
 - [2020-12-15-数据与广告（二十三）：计算广告的商业本质](https://toutiao.io/k/3p5htvj) ![](assets/new.png)  
-- [2020-12-15-从实践到原理，带你参透-gRPC](https://toutiao.io/k/w5bxcjg) ![](assets/new.png)  
 - [2020-12-15-逻辑回归-+-GBDT-模型融合实战](https://toutiao.io/k/yngwd9k) ![](assets/new.png)  
+- [2020-12-15-从实践到原理，带你参透-gRPC](https://toutiao.io/k/w5bxcjg) ![](assets/new.png)  
 - [2020-12-15-Golang-中的-SingleFlight-与-CyclicBarrier](https://toutiao.io/k/qmyah4c) ![](assets/new.png)  
 - [2020-12-15-计算机学生应不应该考研？附上袁哥的考研经历](https://toutiao.io/k/56bu6ge) ![](assets/new.png)  
 - [2020-12-15-SQL-Server-关于-datetime-的更新引发的思考](https://toutiao.io/k/q5w1kno) ![](assets/new.png)  

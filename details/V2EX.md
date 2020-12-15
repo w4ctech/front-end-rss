@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-12-15 15:09:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 15:34:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-15-我司大量使用的-kubernetes-yaml-文件生成工具](https://www.v2ex.com/t/735823) 
+- [2020-12-15-iPad-Air-4-不能用-iPad-pro-11-的磁力保护壳吗](https://www.v2ex.com/t/735822) 
+- [2020-12-15-你们的-M1-有遇到过软件卸载不掉，更新软件卡住等问题吗？](https://www.v2ex.com/t/735821) 
 - [2020-12-15-最近-onedrive-是不是有毛病？](https://www.v2ex.com/t/735819) 
 - [2020-12-15-关于-Tap&go](https://www.v2ex.com/t/735817) 
 - [2020-12-15-V2EX-的-Cyberpunk-2077-节点](https://www.v2ex.com/t/735816) 
@@ -41,4 +44,3 @@
 - [2020-12-15-iOS-捷径可以一键打开或关闭微信的地理位置权限吗](https://www.v2ex.com/t/735777) 
 - [2020-12-15-云迹科技招聘-全栈工程师-，坐标北京，有兴趣来撩~](https://www.v2ex.com/t/735775) 
 - [2020-12-15-BlackWater-基于-RUST-的端口扫描器-撼动-NMAP-地位](https://www.v2ex.com/t/735774) 
-- [2020-12-15-台区的-AM-家庭组有市场吗](https://www.v2ex.com/t/735773) 

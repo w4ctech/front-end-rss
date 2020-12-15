@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-15 12:50:58，:rocket: 更新条数: +952， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-15 13:02:01，:rocket: 更新条数: +3642， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-12-15-最新疫情：全国新冠累计确诊86758例-本土病例新增3例](https://m.caixin.com/m/2020-12-15/101639570.html) ![](assets/new.png)  
+- [2020-12-15-数地现零星本土新冠病例-冬季疫情怎么防？](https://m.caixin.com/m/2020-12-15/101639417.html) ![](assets/new.png)  
+- [2020-12-15-最新海外疫情：新冠感染超7275万-累计死亡超161万](http://m.international.caixin.com/m/2020-12-15/101639566.html) ![](assets/new.png)  
+- [2020-12-15-【境内疫情观察】黑龙江新增2例本土确诊病例（12月14日）](http://m.database.caixin.com/m/2020-12-15/101639393.html) ![](assets/new.png)  
+- [2020-12-15-大流行手记|12月14日：美国启动新冠疫苗紧急接种-报告指45国需外部援助粮食](http://m.international.caixin.com/m/2020-12-15/101639187.html) ![](assets/new.png)  
+- [2020-12-14-【境内疫情观察】黑龙江新增2例本土确诊病例（12月13日）](http://m.database.caixin.com/m/2020-12-14/101638919.html) ![](assets/new.png)  
+- [2020-12-14-大流行手记|12月13日：美国新冠住院超10万人-秘鲁暂停国药疫苗临床试验](http://m.international.caixin.com/m/2020-12-14/101638808.html) ![](assets/new.png)  
+- [2020-12-13-【境内疫情观察】黑龙江新增4例本土确诊病例（12月12日）](http://m.database.caixin.com/m/2020-12-13/101638727.html) ![](assets/new.png)  
+- [2020-12-13-大流行手记|12月12日：六国已批准辉瑞疫苗紧急使用-英提醒关注接种过敏](http://m.international.caixin.com/m/2020-12-13/101638714.html) ![](assets/new.png)  
+- [2020-12-12-聚焦|张文宏：全球启动疫苗接种计划，疫情控制关键节点何时出现](http://m.opinion.caixin.com/m/2020-12-12/101638702.html) ![](assets/new.png)  
+- [2020-12-12-【境内疫情观察】全国新增13例境外输入病例（12月11日）](http://m.database.caixin.com/m/2020-12-12/101638660.html) ![](assets/new.png)  
+- [2020-12-12-大流行手记|12月11日：昆士兰大学新冠疫苗或致HIV假阳-赛诺菲疫苗研发受挫](http://m.international.caixin.com/m/2020-12-12/101638563.html) ![](assets/new.png)  
+- [2020-12-11-港府向科兴和复星采购1500万剂新冠疫苗-首批下月到港](http://m.china.caixin.com/m/2020-12-11/101638300.html) ![](assets/new.png)  
+- [2020-12-11-【境内疫情观察】黑龙江新增2例本土病例（12月10日）](http://m.database.caixin.com/m/2020-12-11/101638126.html) ![](assets/new.png)  
+- [2020-12-11-大流行手记|12月10日：首尔建集装箱病房扩床位-研究称意大利儿童去年11月感染新冠](http://m.international.caixin.com/m/2020-12-11/101638028.html) ![](assets/new.png)  
+- [2020-12-11-哈兽研建立新冠水貂感染模型-可模拟人类肺部病变](http://m.science.caixin.com/m/2020-12-11/101638346.html) ![](assets/new.png)  
+- [2020-12-11-聚焦|张文宏：疫苗接种计划何时可以启动](http://m.opinion.caixin.com/m/2020-12-11/101638455.html) ![](assets/new.png)  
+- [2020-12-10-香港一住宅成“疫区”-警方派谈判专家劝居民配合检疫](http://m.china.caixin.com/m/2020-12-10/101637967.html) ![](assets/new.png)  
+- [2020-12-10-【境内疫情观察】内蒙古新增1例本土病例（12月9日）](http://m.database.caixin.com/m/2020-12-10/101637710.html) ![](assets/new.png)  
+- [2020-12-10-大流行手记|12月9日：英国启动大规模疫苗接种-加拿大批准辉瑞疫苗上市](http://m.international.caixin.com/m/2020-12-10/101637605.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -657,26 +677,6 @@
 </summary>
 
 
-- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -974,6 +974,10 @@
 </summary>
 
 
+- [2020-12-15-@Livid-我现在用-us.v2ex-发帖的，刚才突然-V2EX-和-www.v2ex-都提示证书错误](https://www.v2ex.com/t/735792) ![](assets/new.png)  
+- [2020-12-15-mbp2020-typec-外接硬盘读不到盘](https://www.v2ex.com/t/735791) ![](assets/new.png)  
+- [2020-12-15-vEthernet-Default-Switch-网络性能问题](https://www.v2ex.com/t/735790) ![](assets/new.png)  
+- [2020-12-15-有没有自动推导公式的软件呀~-我承认我懒了](https://www.v2ex.com/t/735789) ![](assets/new.png)  
 - [2020-12-15-windows-远程服务安全性，防止爆破](https://www.v2ex.com/t/735788) ![](assets/new.png)  
 - [2020-12-15-有这样的学英语（扩充单词量）的-app-吗？](https://www.v2ex.com/t/735787) ![](assets/new.png)  
 - [2020-12-15-开个美区的-Apple-One-Premier-的「稳定长期」车，有搭车的吗？](https://www.v2ex.com/t/735785) ![](assets/new.png)  
@@ -990,10 +994,6 @@
 - [2020-12-15-微信电脑版真占空间](https://www.v2ex.com/t/735770) ![](assets/new.png)  
 - [2020-12-15-终于发现了-ios-14.3-的一个优点](https://www.v2ex.com/t/735769) ![](assets/new.png)  
 - [2020-12-15-iPad-用蓝牙键盘打字只能用自带的输入法了吗？](https://www.v2ex.com/t/735768) ![](assets/new.png)  
-- [2020-12-15-有多少用-nodejs-写后端的，请举手？](https://www.v2ex.com/t/735766) ![](assets/new.png)  
-- [2020-12-15-我已经删掉了-beta-版测试的描述文件，为什么还是不停弹窗提示让我更新](https://www.v2ex.com/t/735765) ![](assets/new.png)  
-- [2020-12-15-推荐适合小团队协作的项目管理工具](https://www.v2ex.com/t/735764) ![](assets/new.png)  
-- [2020-12-15-关于-Spring-项目启动时初始化表结构的问题](https://www.v2ex.com/t/735763) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1042,12 +1042,12 @@
 - [2020-12-15-那些有趣/实用的-Chrome-扩展神器系列](https://toutiao.io/k/37mphn9) ![](assets/new.png)  
 - [2020-12-15-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
 - [2020-12-15-肝了半个月，这可能是全网最全后端技术学习路线](https://toutiao.io/k/28sit4w) ![](assets/new.png)  
-- [2020-12-15-90%-的程序员，都没用过多线程和锁，怎么成为架构师？](https://toutiao.io/k/gak6kr8) ![](assets/new.png)  
 - [2020-12-15-优酷大数据-OLAP-技术选型](https://toutiao.io/k/xzw6oly) ![](assets/new.png)  
+- [2020-12-15-90%-的程序员，都没用过多线程和锁，怎么成为架构师？](https://toutiao.io/k/gak6kr8) ![](assets/new.png)  
 - [2020-12-15-云原生体系下的技海浮沉与理论探索](https://toutiao.io/k/jij4kk0) ![](assets/new.png)  
 - [2020-12-15-Chrome-DevTools：使用-CSS-概述面板重构和改善-CSS](https://toutiao.io/k/mqrzmkb) ![](assets/new.png)  
-- [2020-12-15-基于-Kafka-Connect-的流式数据同步方案之-Mongo-Source-Connector-实践](https://toutiao.io/k/nzvwqi2) ![](assets/new.png)  
 - [2020-12-15-React-高阶组件-Props-代理的一些小技巧](https://toutiao.io/k/7ma063a) ![](assets/new.png)  
+- [2020-12-15-基于-Kafka-Connect-的流式数据同步方案之-Mongo-Source-Connector-实践](https://toutiao.io/k/nzvwqi2) ![](assets/new.png)  
 - [2020-12-15-如何将-Node.js-业务迁移到-k8s-中？](https://toutiao.io/k/igeze91) ![](assets/new.png)  
 - [2020-12-15-数据与广告（二十三）：计算广告的商业本质](https://toutiao.io/k/3p5htvj) ![](assets/new.png)  
 - [2020-12-15-逻辑回归-+-GBDT-模型融合实战](https://toutiao.io/k/yngwd9k) ![](assets/new.png)  

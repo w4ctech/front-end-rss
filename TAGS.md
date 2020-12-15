@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-15 19:36:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-15 19:49:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -211,7 +211,6 @@
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【前端大学】如何从0开发一个小程序？](https://www.ershicimi.com/p/0107ae857b2af0ff62beb10929a3253b)
 - [【前端大学】小程序开发其实不难！学会这几个组件你也会](https://www.ershicimi.com/p/543376d36656293f2b739d2d786ca36c)
-- [【程序员成长指北】小程序开发其实不难！学会这几个组件你也会](https://www.ershicimi.com/p/a75347a67667f19d141ea0f1a8afacf8)
 - [【凹凸实验室】京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/)
 - [【凹凸实验室】京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/)
 - [【凹凸实验室】Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/)
@@ -225,6 +224,7 @@
 - [【凹凸实验室】如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/)
 - [【凹凸实验室】Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/)
 - [【凹凸实验室】GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/)
+- [【凹凸实验室】Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -414,7 +414,6 @@
 - [【前端圈】视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a)
 - [【前端圈】视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d)
 - [【前端之巅】前端人，咱别盲目追求新技术-|-直播推荐](https://www.ershicimi.com/p/4c4c1f6dcdda44bf473508bfc9dce19e)
-- [【程序员成长指北】教你让b站视频的弹幕发出语音！](https://www.ershicimi.com/p/acceeb1adcac4cef70b70d825fd99c30)
 - [【凹凸实验室】羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/)
 - [【凹凸实验室】直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/)
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
@@ -424,6 +423,7 @@
 - [【InfoQ】学而思网校直播课堂架构演进之路](https://www.ershicimi.com/p/516e1db057bf695b89f7faf10b38f43a)
 - [【编程之上】前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978)
 - [【技术头条】全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【安全热点】【视频】|-金融行业网络安全现状与分析](https://sec.thief.one/article_content?a_id=91098400b04d50d88914c87915d51ce2)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -456,10 +456,10 @@
 - [【V2EX】vEthernet-Default-Switch-网络性能问题](https://www.v2ex.com/t/735790)
 - [【技术头条】白话科普系列——网站靠什么提升加载速度？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14051&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F336150534%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】性能提高-15-倍！只是把-MySQL-换成了-ClickHouse](https://toutiao.io/k/221a7sh)
-- [【开发者头条】推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305)
 - [【开发者头条】推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5)
-- [【开发者头条】推荐-QPS、TPS、RT、并发数、吞吐量理解和性能优化深入思考](https://toutiao.io/k/e23a1e1)
 - [【开发者头条】推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8)
+- [【开发者头条】推荐-QPS、TPS、RT、并发数、吞吐量理解和性能优化深入思考](https://toutiao.io/k/e23a1e1)
+- [【开发者头条】推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -483,7 +483,6 @@
 - [【前端开发】抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/7609004e2f9423cf4f1b2eb5dc1b19ac)
 - [【前端瓶子君】你猜一个-TCP-连接上面能发多少个-HTTP-请求](https://www.ershicimi.com/p/c60bafb3210f050def9b7719202d9750)
 - [【程序员成长指北】有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/73356e18cd00004d269c88984a8a61b0)
-- [【程序员成长指北】前端安全编码规范](https://www.ershicimi.com/p/c8b36b7987f290a7e50281d0ad917717)
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【凹凸实验室】Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)
 - [【凹凸实验室】URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/)
@@ -496,6 +495,7 @@
 - [【前端e进阶】「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559)
 - [【前端e进阶】推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
+- [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -546,6 +546,7 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【开发者头条】从实践到原理，带你参透-gRPC](https://toutiao.io/k/w5bxcjg)
+- [【开发者头条】推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -601,12 +602,12 @@
 - [【前端宇宙】阿里、腾讯、美团以及网易等一线互联网公司面试总结](https://www.ershicimi.com/p/55e36e75429d1a9542b8199fc1bfb4c1)
 - [【前端宇宙】字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/8f112a5e00b041969cfa42acb7273064)
 - [【前端宇宙】【从青铜到钻石】3-年创业公司成长经历-&&-面试总结](https://www.ershicimi.com/p/b5846a88daaa5c3cd045a3f0f5486e15)
+- [【程序员成长指北】手撕前端面试代码题大全](https://www.ershicimi.com/p/746f0a10c23fd7fec9a0043ff19f382a)
 - [【Nodejs技术栈】笔试都答对，面试却被挂，面试官到底想听到什么？](https://www.ershicimi.com/p/b8c8f7ff1b491ce281273314fb0ccfb6)
 - [【前端日刊】阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668)
 - [【前端日刊】笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b)
 - [【前端日刊】腾讯、华为前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557)
 - [【前端日刊】字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/f8720b9ba9028e4081b1345e6367f3c5)
-- [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

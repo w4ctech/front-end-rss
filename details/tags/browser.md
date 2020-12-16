@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-16 10:55:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-16 11:04:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,12 +24,16 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
+- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
+- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-12-16-【Daily-Interview】--05-单词搜索](https://juejin.im/post/6906789937165795342) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-16-gitlab-code-review-怎么多行评论呢？](https://www.v2ex.com/t/736118) 
 - [2020-12-16-有没有-Mac-QQ-的同学在这里？请解决一下不停请求-access-sngapm.qcloud.com-的问题。](https://www.v2ex.com/t/736105) 
-- [2020-12-16-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
+- [2020-12-16-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-16-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
+- [2020-12-16-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-16-距离2020滴滴网络安全峰会倒计时1天!明天见!](https://sec.thief.one/article_content?a_id=5d1f6c52156a476d2448a6203bcf8438) 
 - [2020-12-16-安全宝典-|-如何防范身份信息泄露](https://sec.thief.one/article_content?a_id=1d060ec92c9757d4c4d0c3f75c445d61) 
 - [2020-12-16-信息安全漏洞月报2020年11月](https://sec.thief.one/article_content?a_id=778142f957662f1c05ea0e309c79f8f0) 

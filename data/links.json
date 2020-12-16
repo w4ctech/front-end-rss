@@ -18692,6 +18692,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "brew install tim-hub/trackers-away/trackers-away",
+        "link": "https://www.v2ex.com/t/736216",
+        "date": "2020-12-16"
+      },
+      {
         "title": "讨论题：下一代 mbp 会不会支持双显示器",
         "link": "https://www.v2ex.com/t/736215",
         "date": "2020-12-16"
@@ -18880,11 +18885,6 @@
         "title": "俩 iPhone 使用数据迁移遇到的问题，做个小记录。",
         "link": "https://www.v2ex.com/t/736167",
         "date": "2020-12-16"
-      },
-      {
-        "title": "[上海、西安] [golang 开发工程师-CDN 调度] [PPIO-边缘计算行业] [14+薪] [可年后入职]",
-        "link": "https://www.v2ex.com/t/736166",
-        "date": "2020-12-16"
       }
     ]
   },
@@ -19066,13 +19066,13 @@
         "date": "2020-12-16"
       },
       {
-        "title": "日程及讲师话题总览｜2020 领域驱动设计峰会倒计时 5 天（文末有福利）",
-        "link": "https://toutiao.io/k/3qct70t",
+        "title": "我是如何 3 小时上手 Golang 的",
+        "link": "https://toutiao.io/k/qm81dgx",
         "date": "2020-12-16"
       },
       {
-        "title": "我是如何 3 小时上手 Golang 的",
-        "link": "https://toutiao.io/k/qm81dgx",
+        "title": "日程及讲师话题总览｜2020 领域驱动设计峰会倒计时 5 天（文末有福利）",
+        "link": "https://toutiao.io/k/3qct70t",
         "date": "2020-12-16"
       },
       {
@@ -19101,13 +19101,58 @@
         "date": "2020-12-16"
       },
       {
+        "title": "[推荐] 记一次 MySQL 的 insert 死锁",
+        "link": "https://toutiao.io/k/mbyee1y",
+        "date": "2020-12-16"
+      },
+      {
+        "title": "[推荐] 求你别再用 Swagger 了，给你推荐几个在线文档生成神器",
+        "link": "https://toutiao.io/k/ftaw3bc",
+        "date": "2020-12-16"
+      },
+      {
+        "title": "[推荐] 彻底搞懂 IO 底层原理",
+        "link": "https://toutiao.io/k/493onla",
+        "date": "2020-12-16"
+      },
+      {
+        "title": "[推荐] 四种缓存的避坑总结",
+        "link": "https://toutiao.io/k/fzh8zfu",
+        "date": "2020-12-16"
+      },
+      {
+        "title": "[推荐] MySQL 查询性能优化前，必须先掌握 MySQL 索引理论",
+        "link": "https://toutiao.io/k/klmrzk8",
+        "date": "2020-12-16"
+      },
+      {
         "title": "[推荐] explain：索引优化的这把绝世好剑，你真的会用吗？",
         "link": "https://toutiao.io/k/y3en305",
         "date": "2020-12-16"
       },
       {
-        "title": "[推荐] 漫话 Docker 的衰落与 Kubernetes 的兴起",
-        "link": "https://toutiao.io/k/h3ooyse",
+        "title": "[推荐] Go 错误处理最佳实践",
+        "link": "https://toutiao.io/k/lodfgxd",
+        "date": "2020-12-16"
+      },
+      {
+        "title": "[推荐] 微服务架构下 CI/CD 如何落地",
+        "link": "https://toutiao.io/k/303m5ez",
+        "date": "2020-12-16"
+      },
+      {
+        "title": "[推荐] 生产力工具",
+        "link": "https://toutiao.io/k/ltecz1p",
+        "date": "2020-12-16"
+      },
+      {
+        "title": "[推荐] 中台的本质及中台建设的 4 点思考",
+        "link": "https://toutiao.io/k/9octogz",
+        "date": "2020-12-16"
+      },
+      {
+        "title": "[推荐] AutoExcel 实现百万数据秒级导入导出",
+        "link": "https://toutiao.io/k/ui65fqe",
         "date": "2020-12-16"
       },
       {
@@ -19121,58 +19166,13 @@
         "date": "2020-12-16"
       },
       {
-        "title": "[推荐] 彻底搞懂 IO 底层原理",
-        "link": "https://toutiao.io/k/493onla",
-        "date": "2020-12-16"
-      },
-      {
-        "title": "[推荐] AutoExcel 实现百万数据秒级导入导出",
-        "link": "https://toutiao.io/k/ui65fqe",
-        "date": "2020-12-16"
-      },
-      {
-        "title": "[推荐] Go 错误处理最佳实践",
-        "link": "https://toutiao.io/k/lodfgxd",
+        "title": "[推荐] 漫话 Docker 的衰落与 Kubernetes 的兴起",
+        "link": "https://toutiao.io/k/h3ooyse",
         "date": "2020-12-16"
       },
       {
         "title": "[推荐] 分布式搜索引擎 Elasticsearch 的架构分析",
         "link": "https://toutiao.io/k/j4aoyho",
-        "date": "2020-12-16"
-      },
-      {
-        "title": "[推荐] 中台的本质及中台建设的 4 点思考",
-        "link": "https://toutiao.io/k/9octogz",
-        "date": "2020-12-16"
-      },
-      {
-        "title": "[推荐] 生产力工具",
-        "link": "https://toutiao.io/k/ltecz1p",
-        "date": "2020-12-16"
-      },
-      {
-        "title": "[推荐] 缓存击穿、穿透、雪崩简单总结",
-        "link": "https://toutiao.io/k/yehwkm6",
-        "date": "2020-12-16"
-      },
-      {
-        "title": "[推荐] 求你别再用 Swagger 了，给你推荐几个在线文档生成神器",
-        "link": "https://toutiao.io/k/ftaw3bc",
-        "date": "2020-12-16"
-      },
-      {
-        "title": "[推荐] 微服务架构下 CI/CD 如何落地",
-        "link": "https://toutiao.io/k/303m5ez",
-        "date": "2020-12-16"
-      },
-      {
-        "title": "[推荐] 四种缓存的避坑总结",
-        "link": "https://toutiao.io/k/fzh8zfu",
-        "date": "2020-12-16"
-      },
-      {
-        "title": "[推荐] MySQL 查询性能优化前，必须先掌握 MySQL 索引理论",
-        "link": "https://toutiao.io/k/klmrzk8",
         "date": "2020-12-16"
       }
     ]

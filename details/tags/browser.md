@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-16 02:56:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-16 03:04:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,18 +22,10 @@
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-12-16-TeamViewer-免费版的替代品？](https://www.v2ex.com/t/735917) 
 - [2020-12-16-nsurlsessiond-到底在下载什么？-installd-又在安装什么？](https://www.v2ex.com/t/735901) 
 - [2020-12-16-FireFox,-Office-有正式的-ARM64（Apple-M1）版本了](https://www.v2ex.com/t/735887) 
-- [2020-12-16-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-16-安全招聘汇总-|-第七期](https://sec.thief.one/article_content?a_id=5d5ee9a5d6db3235bd5f07473ce593ed) 
 - [2020-12-15-《中国网络安全产业分析报告2020年》全文发布](https://sec.thief.one/article_content?a_id=064d6a9c85feeec57e304ed86441d550) 
 - [2020-12-15-【安全风险通告】XStream多个高危漏洞安全风险通告](https://sec.thief.one/article_content?a_id=88e734ab1864004fb75eabf128a77f98) 
@@ -67,4 +59,3 @@
 - [2020-12-14-Web安全:端口扫描工具](https://sec.thief.one/article_content?a_id=0ab3ef3fd88c4fd6d1c82c83536bf802) 
 - [2020-12-13-在招-|-润联科技诚招云安全、终端安全等方向资深安全工程师](https://sec.thief.one/article_content?a_id=42362fcfd71de4f47205802436473ea9) 
 - [2020-12-13-供不应求,《0day安全-软件漏洞分析技术》第三次再版印刷啦!](https://sec.thief.one/article_content?a_id=d342c2e11cb98383880077ad27edc791) 
-- [2020-12-11-UWB/蓝牙/WiFi/红外/Zigbee/LoRa-Edge…….室内定位技术的百家争鸣时代](https://www.ershicimi.com/p/a35fb040e7e0a28830e1717cb4094dd0) 

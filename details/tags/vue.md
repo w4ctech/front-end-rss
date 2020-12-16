@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-16 19:36:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-16 19:49:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -49,7 +49,6 @@
 - [2020-12-06-基于Vue的前端架构，我做了这15点](https://www.ershicimi.com/p/b830e01a5d61ccce36292e330c0c681d) 
 - [2020-12-13-人人都会vue，升职加薪进大厂的突破点在哪？](https://www.ershicimi.com/p/6e1ca0359937f8e055c941f327966531) 
 - [2020-12-10-Vue项目打包部署总结](https://www.ershicimi.com/p/a2e5642ccfb01e83221deabf9c855f59) 
-- [2020-12-05-egg+vue+mongodb实践开发在线文档管理平台——水墨文档](https://www.ershicimi.com/p/6d88f67e18a98dc39ccbeead07604841) 
 - [2020-12-03-Electron-+-Vue-开发跨平台桌面应用](https://www.ershicimi.com/p/a6720fb26e39469453f05ff19657f1d3) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) 

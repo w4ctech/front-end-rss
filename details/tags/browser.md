@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-16 19:36:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-16 19:49:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,6 +28,7 @@
 - [2020-12-04-前端-api-请求缓存的-5-种方案](https://www.ershicimi.com/p/0739f868c16f1fc66b41e39b676c2588) 
 - [2020-11-27-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/7609004e2f9423cf4f1b2eb5dc1b19ac) 
 - [2020-12-11-你猜一个-TCP-连接上面能发多少个-HTTP-请求](https://www.ershicimi.com/p/c60bafb3210f050def9b7719202d9750) 
+- [2020-12-16-图解跨域请求、反向代理原理，对前端更友好的反向代理服务器---Caddy](https://www.ershicimi.com/p/0f6067b1fe001ca5abd95cb2f6cfa227) 
 - [2020-12-09-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/73356e18cd00004d269c88984a8a61b0) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
@@ -47,7 +48,6 @@
 - [2020-12-16-Proxifier-在-Bug-Sir-11.1-下是否还会五国？](https://www.v2ex.com/t/736191) 
 - [2020-12-16-大家的-Chrome-在-Apple-M1-下的冷启动速度快么？](https://www.v2ex.com/t/736187) 
 - [2020-12-16-成都/杭州-蚂蚁基础安全急招技术研发，-P6/7/8-都要，时间短、流程快、体验好！](https://www.v2ex.com/t/736177) 
-- [2020-12-16-NAS-安全的使用方式](https://www.v2ex.com/t/736163) 
 - [2020-12-16-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-16-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-16-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 

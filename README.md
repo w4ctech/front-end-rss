@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-16 21:30:39，:rocket: 更新条数: +3902， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-16 21:41:10，:rocket: 更新条数: +3902， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1089,8 +1089,8 @@
 - [2020-12-16-闲聊算法](https://toutiao.io/k/s8j11lm) ![](assets/new.png)  
 - [2020-12-16-西瓜视频稳定性治理体系建设（一）：Tailor-原理及实践](https://toutiao.io/k/u3l3hwm) ![](assets/new.png)  
 - [2020-12-16-我又开发了一个非常好用的开源库](https://toutiao.io/k/4ecmzu5) ![](assets/new.png)  
-- [2020-12-16-我是如何-3-小时上手-Golang-的](https://toutiao.io/k/qm81dgx) ![](assets/new.png)  
 - [2020-12-16-日程及讲师话题总览｜2020-领域驱动设计峰会倒计时-5-天（文末有福利）](https://toutiao.io/k/3qct70t) ![](assets/new.png)  
+- [2020-12-16-我是如何-3-小时上手-Golang-的](https://toutiao.io/k/qm81dgx) ![](assets/new.png)  
 - [2020-12-16-Netty-之事件轮询与处理](https://toutiao.io/k/q09zzu0) ![](assets/new.png)  
 - [2020-12-16-如何度量软件团队成员的技能？](https://toutiao.io/k/jt6heav) ![](assets/new.png)  
 - [2020-12-16-NIST、CIS、MITRE、SANS-傻傻分不清楚](https://toutiao.io/k/d4qx8f5) ![](assets/new.png)  

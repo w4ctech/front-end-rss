@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-16 13:39:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-16 13:44:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-16-airpods-pro-降噪模式下地铁报站异响](https://www.v2ex.com/t/736172) 
 - [2020-12-16-有人来拼团阿里云吗？](https://www.v2ex.com/t/736169) 
 - [2020-12-16-南京-citrix-美国外企-20-60k-五险一金-24％陪产假-180-天在家办公](https://www.v2ex.com/t/736168) 
 - [2020-12-16-俩-iPhone-使用数据迁移遇到的问题，做个小记录。](https://www.v2ex.com/t/736167) 
@@ -38,4 +39,3 @@
 - [2020-12-16-Zoom-终于也要支持-M1-了（即将发布）](https://www.v2ex.com/t/736128) 
 - [2020-12-16-哪位同学可以帮忙加速一下-bitcoin-交易？感谢！](https://www.v2ex.com/t/736127) 
 - [2020-12-16-成都/北京字节跳动-people前端](https://www.v2ex.com/t/736125) 
-- [2020-12-16-话说国内-ip-登陆美区-Paypal-会被风控吗？](https://www.v2ex.com/t/736122) 

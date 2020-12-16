@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-12-16 05:39:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-16 05:45:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-16-macOS-11.0-了，还没解决启动台图标跑出文件夹的-bug](https://www.v2ex.com/t/735988) 
+- [2020-12-16-元旦想去厦门玩三天，请问有什么需要注意的吗](https://www.v2ex.com/t/735987) 
 - [2020-12-16-我的-mba-买了-ac+，请问我还需要用内胆包吗?](https://www.v2ex.com/t/735986) 
 - [2020-12-16-淘宝联盟获取所有订单的接口不给个人开放了吗](https://www.v2ex.com/t/735984) 
 - [2020-12-16-VS-Code-with-Apple-Silicon-insider-release](https://www.v2ex.com/t/735983) 
@@ -40,5 +42,3 @@
 - [2020-12-16-迫于金钱的缘故，求推荐一个入门级的-nas](https://www.v2ex.com/t/735943) 
 - [2020-12-16-马上圣诞节了，送什么礼物给女朋友和同事比较好？？](https://www.v2ex.com/t/735942) 
 - [2020-12-16-通过一段时间写前端后自己的一些想法](https://www.v2ex.com/t/735941) 
-- [2020-12-16-求问一下-Sharding-Proxy-连接-pgsql-时区问题怎么解决](https://www.v2ex.com/t/735938) 
-- [2020-12-16-为什么当代年轻人愤青占多数，为什么会这样？](https://www.v2ex.com/t/735937) 

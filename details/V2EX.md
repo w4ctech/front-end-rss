@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-12-16 09:33:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-16 09:42:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-16-macos_10.15.7-homebrew-安装软件时-报-system-version-is-too-old](https://www.v2ex.com/t/736100) 
+- [2020-12-16-网页游戏，-websocket-通信，一般怎么处理用户认证？](https://www.v2ex.com/t/736099) 
+- [2020-12-16-阿里云会不会随意获取用户数据库密码？](https://www.v2ex.com/t/736098) 
+- [2020-12-16-PHP-PDO-lastinsertId-有什么要求？](https://www.v2ex.com/t/736097) 
+- [2020-12-16-近期关于-OKR-的新思考](https://www.v2ex.com/t/736096) 
+- [2020-12-16-.Net-Core-目前-GUI-开发有什么推荐？](https://www.v2ex.com/t/736095) 
+- [2020-12-16-淘宝客-APP-怎么集成百川套件？](https://www.v2ex.com/t/736094) 
 - [2020-12-16-Homepod-Mini-实际体验到底如何](https://www.v2ex.com/t/736093) 
 - [2020-12-16-Python-在线数据分析应用需要什么服务器配置？](https://www.v2ex.com/t/736092) 
 - [2020-12-16-Java-开发者建议升级-big-sur-吗](https://www.v2ex.com/t/736091) 
@@ -37,10 +44,3 @@
 - [2020-12-16-从-11-pro-max-512gb“升级”到-12-有感](https://www.v2ex.com/t/736055) 
 - [2020-12-16-stripe-普通用户-customer-账号问题](https://www.v2ex.com/t/736053) 
 - [2020-12-16-CentOS7-基于-LNMP-安装配置-Laravel](https://www.v2ex.com/t/736052) 
-- [2020-12-16-宠物的自动喂食器和自动喂水器](https://www.v2ex.com/t/736050) 
-- [2020-12-16-支付宝-iOS-负一屏不能直接显示付款码了](https://www.v2ex.com/t/736049) 
-- [2020-12-16-冬天有什么热饮推荐吗？](https://www.v2ex.com/t/736048) 
-- [2020-12-16-实习-微软亚洲研究院-基于强化学习的实时视频通讯优化实习生](https://www.v2ex.com/t/736047) 
-- [2020-12-16-AdGuard-Home-支持-prefetch-domain-么](https://www.v2ex.com/t/736046) 
-- [2020-12-16-青岛北京-什么值得买招兵买马啦~~](https://www.v2ex.com/t/736045) 
-- [2020-12-16-［-一个小调查-］你以类-996-的方式工作过吗？](https://www.v2ex.com/t/736044) 

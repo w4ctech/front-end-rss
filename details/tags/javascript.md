@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-16 15:56:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-16 16:06:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,8 +7,6 @@
 
 
 
-- [2020-12-04-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/7a4de73e7fda551dfa6c595fc8a81bde) 
-- [2020-12-12-JS-实现网页截屏五种方法](https://www.ershicimi.com/p/09ae55eb4ecace2cd71c369f8b94c6a5) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-12-12-【第2145期】JavaScript诞生25周年](https://www.ershicimi.com/p/5cc1fc552be9631d266a853cf609600f) 
@@ -27,7 +25,6 @@
 - [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) 
 - [2020-12-10-JavaScript-恩仇录](https://www.ershicimi.com/p/9975382610f218b4889844c7269c0792) 
 - [2020-12-02-前端路由原理解析，再也不怕面试官问路由问题了！](https://www.ershicimi.com/p/48b3afa0e57eca3341c615e86766ba46) 
-- [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2020-12-14-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/06af08880240e0908248ba052a0e73d8) 
 - [2020-12-13-前端周报：JS-诞生-25-周年；微软将强行升级部分旧版本Win-10用户；将编程纳入中小学课程，程](https://www.ershicimi.com/p/8f15bc65ae313923ec2405b52d2ee580) 
 - [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 

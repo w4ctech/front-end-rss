@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-12-16 03:56:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-16 04:05:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-16-阿里又来送-雨伞-卫衣了！](https://www.v2ex.com/t/735953) 
+- [2020-12-16-问一个简单的关于分布式事务的问题](https://www.v2ex.com/t/735952) 
 - [2020-12-16-站长友链互换](https://www.v2ex.com/t/735951) 
 - [2020-12-16-有没有卖京东-PLUS-的](https://www.v2ex.com/t/735950) 
 - [2020-12-16-小米部分机子使用-Intent.ACTION_CALL-拉起拨号没有反应-也不报错](https://www.v2ex.com/t/735949) 
@@ -44,5 +46,3 @@
 - [2020-12-16-leetcode/lintcode-题解-Amazon-面试题：数飞机](https://www.v2ex.com/t/735907) 
 - [2020-12-16-请问-Understand-兼容-M1-吗？](https://www.v2ex.com/t/735906) 
 - [2020-12-16-Serverless-的初心、现状和未来](https://www.v2ex.com/t/735904) 
-- [2020-12-16-广州有木有适合养老的嵌入式、手机驱动公司？](https://www.v2ex.com/t/735903) 
-- [2020-12-16-淘宝-Java-岗位招聘-少年，我看你骨骼精奇，“搭建”的未来就靠你了](https://www.v2ex.com/t/735902) 

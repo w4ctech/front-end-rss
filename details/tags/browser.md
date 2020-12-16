@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-16 16:12:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-16 16:53:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -21,7 +21,6 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2020-12-11-你猜一个-TCP-连接上面能发多少个-HTTP-请求](https://www.ershicimi.com/p/c60bafb3210f050def9b7719202d9750) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -37,6 +36,9 @@
 - [2020-12-16-大家的-Chrome-在-Apple-M1-下的冷启动速度快么？](https://www.v2ex.com/t/736187) 
 - [2020-12-16-成都/杭州-蚂蚁基础安全急招技术研发，-P6/7/8-都要，时间短、流程快、体验好！](https://www.v2ex.com/t/736177) 
 - [2020-12-16-NAS-安全的使用方式](https://www.v2ex.com/t/736163) 
+- [2020-12-16-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-16-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
+- [2020-12-16-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-16-距离2020滴滴网络安全峰会倒计时1天!明天见!](https://sec.thief.one/article_content?a_id=5d1f6c52156a476d2448a6203bcf8438) 
 - [2020-12-16-安全宝典-|-如何防范身份信息泄露](https://sec.thief.one/article_content?a_id=1d060ec92c9757d4c4d0c3f75c445d61) 
 - [2020-12-16-信息安全漏洞月报2020年11月](https://sec.thief.one/article_content?a_id=778142f957662f1c05ea0e309c79f8f0) 

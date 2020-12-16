@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-16 16:12:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-16 16:53:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -78,8 +78,10 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
+- [2020-12-16-分享一个超燃励志的视频,-不再为-996-感到痛苦](https://www.v2ex.com/t/736206) 
 - [2020-12-16-求大佬推荐算法视频？通勤路上看](https://www.v2ex.com/t/736201) 
 - [2020-12-16-Mac-有什么视频播放器能够把视频的播放音量调整到大于-100%](https://www.v2ex.com/t/736179) 
+- [2020-12-16-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-16-西瓜视频稳定性治理体系建设（一）：Tailor-原理及实践](https://toutiao.io/k/u3l3hwm) 
 - [2020-12-16-时政微视频丨韧性生长——中国经济2020](https://sec.thief.one/article_content?a_id=32350fc9ee64bac59f238e77a3899760) 
 - [2020-12-15-【视频】|-金融行业网络安全现状与分析](https://sec.thief.one/article_content?a_id=91098400b04d50d88914c87915d51ce2) 

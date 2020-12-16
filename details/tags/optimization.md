@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-16 11:04:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-16 11:09:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2020-12-11-面试官：SPA（单页应用）首屏加载速度慢怎么解决？](https://www.ershicimi.com/p/7118fde4bf9848809564f17dfca09369) 
 - [2020-12-15-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7e8f65c02e6424a888374cb792a659e3) 
 - [2020-12-14-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/2a9e02219e56475fd45fb05b331c5938) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-16 07:08:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-16 07:11:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -24,6 +24,7 @@
 - [2020-11-26-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/8f112a5e00b041969cfa42acb7273064) 
 - [2020-11-23-【从青铜到钻石】3-年创业公司成长经历-&&-面试总结](https://www.ershicimi.com/p/b5846a88daaa5c3cd045a3f0f5486e15) 
 - [2020-12-15-手撕前端面试代码题大全](https://www.ershicimi.com/p/746f0a10c23fd7fec9a0043ff19f382a) 
+- [2020-11-30-笔试都答对，面试却被挂，面试官到底想听到什么？](https://www.ershicimi.com/p/b8c8f7ff1b491ce281273314fb0ccfb6) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668) 
 - [2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
 - [2020-11-24-腾讯、华为前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-17 17:52:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 18:07:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -98,4 +98,3 @@
 - [2020-12-17-视频直播卡顿不流畅?5000余家网站遭遇了这批黑客攻击!](https://sec.thief.one/article_content?a_id=fb9ea1a2abbaaa179745f1b0816a25df) 
 - [2020-12-17-【视频】|-金融行业信息安全领域新技术的应用分析](https://sec.thief.one/article_content?a_id=109a153f8585627523ba777bf2c272c3) 
 - [2020-12-16-时政微视频丨韧性生长——中国经济2020](https://sec.thief.one/article_content?a_id=32350fc9ee64bac59f238e77a3899760) 
-- [2020-12-08-华为名师拆书直播-|-5G物联网及NB-IoT技术详解](https://www.ershicimi.com/p/d0646b22f2172d8e38f50b28cf6ec704) 

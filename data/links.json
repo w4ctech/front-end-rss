@@ -18606,6 +18606,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "看到大数据杀熟和社区团购打价格战挤压小贩的生存空间，想问下身为大厂的程序员：你们会觉得自己在作恶吗",
+        "link": "https://www.v2ex.com/t/736585",
+        "date": "2020-12-17"
+      },
+      {
         "title": "Cloudflare Pages",
         "link": "https://www.v2ex.com/t/736584",
         "date": "2020-12-17"
@@ -18778,11 +18783,6 @@
       {
         "title": "关于代码编译到最后运行过程",
         "link": "https://www.v2ex.com/t/736536",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "北京上海杭州深圳安全与风控岗位内推字节跳动",
-        "link": "https://www.v2ex.com/t/736535",
         "date": "2020-12-17"
       }
     ]
@@ -18990,8 +18990,8 @@
         "date": "2020-12-17"
       },
       {
-        "title": "[推荐] 求你别再用 Swagger 了，给你推荐几个在线文档生成神器",
-        "link": "https://toutiao.io/k/ftaw3bc",
+        "title": "[推荐] 漫话 Docker 的衰落与 Kubernetes 的兴起",
+        "link": "https://toutiao.io/k/h3ooyse",
         "date": "2020-12-17"
       },
       {
@@ -19005,13 +19005,23 @@
         "date": "2020-12-17"
       },
       {
-        "title": "[推荐] 漫话 Docker 的衰落与 Kubernetes 的兴起",
-        "link": "https://toutiao.io/k/h3ooyse",
+        "title": "[推荐] MySQL 优化神器",
+        "link": "https://toutiao.io/k/qg5adh5",
         "date": "2020-12-17"
       },
       {
-        "title": "[推荐] 35 岁以后，不要成为程序员中的钻石",
-        "link": "https://toutiao.io/k/gbakyp5",
+        "title": "[推荐] 带你扒一扒 MySQL 的数据在磁盘上到底长什么样子",
+        "link": "https://toutiao.io/k/s6jntn5",
+        "date": "2020-12-17"
+      },
+      {
+        "title": "[推荐] explain：索引优化的这把绝世好剑，你真的会用吗？",
+        "link": "https://toutiao.io/k/y3en305",
+        "date": "2020-12-17"
+      },
+      {
+        "title": "[推荐] 求你别再用 Swagger 了，给你推荐几个在线文档生成神器",
+        "link": "https://toutiao.io/k/ftaw3bc",
         "date": "2020-12-17"
       },
       {
@@ -19020,8 +19030,8 @@
         "date": "2020-12-17"
       },
       {
-        "title": "[推荐] explain：索引优化的这把绝世好剑，你真的会用吗？",
-        "link": "https://toutiao.io/k/y3en305",
+        "title": "[推荐] 记一次 MySQL 的 insert 死锁",
+        "link": "https://toutiao.io/k/mbyee1y",
         "date": "2020-12-17"
       },
       {
@@ -19035,23 +19045,13 @@
         "date": "2020-12-17"
       },
       {
-        "title": "[推荐] 记一次 MySQL 的 insert 死锁",
-        "link": "https://toutiao.io/k/mbyee1y",
+        "title": "[推荐] 35 岁以后，不要成为程序员中的钻石",
+        "link": "https://toutiao.io/k/gbakyp5",
         "date": "2020-12-17"
       },
       {
         "title": "[推荐] 生产力工具",
         "link": "https://toutiao.io/k/ltecz1p",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] 带你扒一扒 MySQL 的数据在磁盘上到底长什么样子",
-        "link": "https://toutiao.io/k/s6jntn5",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] MySQL 优化神器",
-        "link": "https://toutiao.io/k/qg5adh5",
         "date": "2020-12-17"
       }
     ]
@@ -19569,6 +19569,61 @@
     "link": "https://www.ershicimi.com/a/PQDgZ2jW",
     "items": [
       {
+        "title": "今年，智能门锁市场爆发了吗？",
+        "link": "https://www.ershicimi.com/p/d6753c79165898675a749a72b01bc8ff",
+        "date": "2020-12-17"
+      },
+      {
+        "title": "工业互联网“新晋独角兽”树根互联完成8亿人民币C轮融资",
+        "link": "https://www.ershicimi.com/p/f84672c7fea5585c4ca3b0d8ea364ec5",
+        "date": "2020-12-17"
+      },
+      {
+        "title": "为什么说碎片化对于物联网企业来说是好事？",
+        "link": "https://www.ershicimi.com/p/bc699343e4b4e740447a8185d1f682d9",
+        "date": "2020-12-17"
+      },
+      {
+        "title": "创新驱动 高质量发展｜第九届中国电子信息博览会精彩预告",
+        "link": "https://www.ershicimi.com/p/3374eed6a037c0b3a873989303aea0b8",
+        "date": "2020-12-17"
+      },
+      {
+        "title": "刚刚，华为鸿蒙OS手机版正式发布！明年覆盖1亿设备，开发者评价：超级流畅，可装安卓应用",
+        "link": "https://www.ershicimi.com/p/0dec3e2b65094300847dfa52932a0259",
+        "date": "2020-12-16"
+      },
+      {
+        "title": "【1月7日/北京】大咖云集，企业齐聚，年度AIoT产业盛典重磅来袭！",
+        "link": "https://www.ershicimi.com/p/e70033c1d1c988b572d313c47fde0b32",
+        "date": "2020-12-16"
+      },
+      {
+        "title": "AWS是如何让机器学习越来越“接地气”的？",
+        "link": "https://www.ershicimi.com/p/9994139de3467b27e1420835cce36189",
+        "date": "2020-12-16"
+      },
+      {
+        "title": "昨晚，谷歌全球宕机……",
+        "link": "https://www.ershicimi.com/p/25c64decea327675e2b7b02a9115db88",
+        "date": "2020-12-15"
+      },
+      {
+        "title": "面对疫情“大考”，医疗制造业如何从容应对？",
+        "link": "https://www.ershicimi.com/p/18bd5938ef29fbac8b34732db75e4b88",
+        "date": "2020-12-15"
+      },
+      {
+        "title": "中国信通院发布《物联网白皮书（2020年）》",
+        "link": "https://www.ershicimi.com/p/75c71476d69fef78c710115f32e4611e",
+        "date": "2020-12-15"
+      },
+      {
+        "title": "「鸿蒙OS」与「Fuchsia OS」，谁才是移动物联网时代的王者？",
+        "link": "https://www.ershicimi.com/p/cadcd143021a10d5486dd946c6bda8c9",
+        "date": "2020-12-15"
+      },
+      {
         "title": "苹果印度工厂遭打砸，员工月薪最低仅44元！复制中国奇迹印度“心比天高，命比纸薄”？",
         "link": "https://www.ershicimi.com/p/41a2c835d1292bef5353a0f89e38f237",
         "date": "2020-12-14"
@@ -19612,61 +19667,6 @@
         "title": "技术&商业双轮驱动，黑芝麻如何实现自动驾驶芯片突围？",
         "link": "https://www.ershicimi.com/p/8c795dd8065e534daa552f26b08f32b4",
         "date": "2020-12-12"
-      },
-      {
-        "title": "UWB/蓝牙/WiFi/红外/Zigbee/LoRa Edge…….室内定位技术的百家争鸣时代",
-        "link": "https://www.ershicimi.com/p/a35fb040e7e0a28830e1717cb4094dd0",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "开启LPWAN 2.0时代的底层技术：Advanced M-FSK(二)",
-        "link": "https://www.ershicimi.com/p/368a46bf87349f1d9ab09fd6e7220ed7",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "灰色的暴利市场，物联网成为黑客的捞金温床",
-        "link": "https://www.ershicimi.com/p/c4edf085bf8c3b9ff081c44c080a00b7",
-        "date": "2020-12-11"
-      },
-      {
-        "title": "人民日报点赞的NB-IoT应用：独居老人水表12小时不走自动预警，建议全国推广",
-        "link": "https://www.ershicimi.com/p/c27836fe439b38c11e2023d88b8c66e9",
-        "date": "2020-12-10"
-      },
-      {
-        "title": "【AIoT产业年终盛典·报名开启】拨迷见“物”，洞察物联网新十年！",
-        "link": "https://www.ershicimi.com/p/ba742e6a560fd6d7e280903dbfde396d",
-        "date": "2020-12-10"
-      },
-      {
-        "title": "为什么物联网设备离不开定位功能？",
-        "link": "https://www.ershicimi.com/p/994d410a9846900a68bba57f8292cf46",
-        "date": "2020-12-10"
-      },
-      {
-        "title": "昨晚，苹果悄悄上线头戴式耳机AirPods Max，4399元！“真TM贵” 还是“真NM香”？",
-        "link": "https://www.ershicimi.com/p/d0fc8e89524bbf60cbd98581c07fb73d",
-        "date": "2020-12-09"
-      },
-      {
-        "title": "【榜单】新基建成新十年风向，哪些物联网“行业/企业/人物/方案”将最具潜力？",
-        "link": "https://www.ershicimi.com/p/33b06d494ff606ac59260af25de6d6c2",
-        "date": "2020-12-09"
-      },
-      {
-        "title": "5G toB大戏拉开帷幕，公网专用正当其时",
-        "link": "https://www.ershicimi.com/p/d4f9a5f21cf9d6a1ac92d36771f13412",
-        "date": "2020-12-09"
-      },
-      {
-        "title": "智能制造站上风口",
-        "link": "https://www.ershicimi.com/p/e9df65d416f9e67c21cfb7d8416c1600",
-        "date": "2020-12-08"
-      },
-      {
-        "title": "华为名师拆书直播 | 5G物联网及NB-IoT技术详解",
-        "link": "https://www.ershicimi.com/p/d0646b22f2172d8e38f50b28cf6ec704",
-        "date": "2020-12-08"
       }
     ]
   }

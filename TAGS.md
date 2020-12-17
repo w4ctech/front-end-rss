@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-17 06:48:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 06:59:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -399,6 +399,7 @@
 - [【开发者头条】图解-Flink-Checkpoint-原理及在-1.11-版本的优化](https://toutiao.io/k/ityql6i)
 - [【开发者头条】推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5)
 - [【开发者头条】推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8)
+- [【开发者头条】推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -463,7 +464,6 @@
 - [【开发者头条】​多视图立体视觉：CVPR-2019-与-AAAI-2020-上的-ACMH、ACMM-及-ACMP-算法介绍](https://toutiao.io/k/dezpkpg)
 - [【开发者头条】论文：Doc2vec-的算法原理、代码实现及应用启发](https://toutiao.io/k/80085xd)
 - [【开发者头条】HTTP/2-协议的一个问题](https://toutiao.io/k/9akkm3w)
-- [【开发者头条】推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho)
 - [【安全热点】中招目标首次披露:SolarWinds供应链攻击相关域名生成算法可破解!](https://sec.thief.one/article_content?a_id=e5899f5f9477317ba0d0af5da26c4807)
 - [【安全热点】Gitpaste-12僵尸网络针对Linux服务器,物联网设备](https://sec.thief.one/article_content?a_id=afd8d1b3ebcb0b20aaf1ffe669f6da9a)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

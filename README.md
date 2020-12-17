@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-17 11:08:31，:rocket: 更新条数: +3903， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-17 11:31:17，:rocket: 更新条数: +3902， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-12-17-马克龙新冠检测结果呈阳性-法总理卡斯泰作为密接者开始自我隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7g5HrgpKUnI5oBCt52kP201217&isfromapp=1) ![](assets/new.png)  
 - [2020-12-17-香港新增新冠肺炎确诊病例96例-累计确诊7900例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBoInJz4MDxNts2ZCgD7e201217&isfromapp=1) ![](assets/new.png)  
 - [2020-12-17-辽宁鞍山一冷库发现1份巴西产地冷冻牛肉外包装核酸检测结果呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMLM4WWIHTJKEyuCY4oAw201217&isfromapp=1) ![](assets/new.png)  
 - [2020-12-17-四川成都确诊飞行员在江油的密接者核酸检测全部阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifP2B76E9G68pHjT6CLnw201217&isfromapp=1) ![](assets/new.png)  
 - [2020-12-17-江苏南通一批阿根廷进口冻牛肉核酸检测阳性-人员及外环境检测为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJAbT22O2qj9CZ20c7HT3201217&isfromapp=1) ![](assets/new.png)  
-- [2020-12-17-印度新增新冠肺炎确诊病例24010例-累计确诊超995万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ2SErJxMdNV1PUgMk14T201217&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1014,6 +1014,10 @@
 </summary>
 
 
+- [2020-12-17-FinTech-社区-博士招聘专场-Quant/AI--200-300-万+奖金-北京、上海](https://www.v2ex.com/t/736513) ![](assets/new.png)  
+- [2020-12-17-哪里有卖全国动态-ip-的物联卡？](https://www.v2ex.com/t/736511) ![](assets/new.png)  
+- [2020-12-17-Travis-CI-改变收费策略了，还在使用免费方案的朋友们需要注意了](https://www.v2ex.com/t/736510) ![](assets/new.png)  
+- [2020-12-17-字节跳动分布式存储产品化开发工程师](https://www.v2ex.com/t/736508) ![](assets/new.png)  
 - [2020-12-17-京东真厉害，明目张胆要求用户提交个人手持身份证正反面照片和银行卡正反面照片，不提供就不要使用。](https://www.v2ex.com/t/736507) ![](assets/new.png)  
 - [2020-12-17-请问一下各位前辈，哪个论坛有-root、magisk、xposed-相关教程额？现在网上很多都很分散不集中，有效信息很难获得](https://www.v2ex.com/t/736506) ![](assets/new.png)  
 - [2020-12-17-阿里云-datav-强制涨价-20-倍能忍？在线-pk-中](https://www.v2ex.com/t/736504) ![](assets/new.png)  
@@ -1030,10 +1034,6 @@
 - [2020-12-17-百亿私募招聘：诚奇资产--量化/机器学习/算法交易/C++](https://www.v2ex.com/t/736492) ![](assets/new.png)  
 - [2020-12-17-每次面试感觉良好，但就是过不了，是什么原因？](https://www.v2ex.com/t/736490) ![](assets/new.png)  
 - [2020-12-17-￥-4500-的-Mac-mini-值得买吗？](https://www.v2ex.com/t/736489) ![](assets/new.png)  
-- [2020-12-17-为什么在-chrome-上登录-apple.com.cn-每次都要二次验证呀](https://www.v2ex.com/t/736488) ![](assets/new.png)  
-- [2020-12-17-10-分钟速成课-计算机科学-网易公开课](https://www.v2ex.com/t/736487) ![](assets/new.png)  
-- [2020-12-17-请教公务员上岸的朋友们，考公都是怎么复习的？买了哪些书和课程？有报班吗？](https://www.v2ex.com/t/736486) ![](assets/new.png)  
-- [2020-12-17-请教大家一个爬虫问题](https://www.v2ex.com/t/736484) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1094,8 +1094,8 @@
 - [2020-12-17-八皇后问题](https://toutiao.io/k/fnk52qi) ![](assets/new.png)  
 - [2020-12-17-QA-的价值](https://toutiao.io/k/o99ishx) ![](assets/new.png)  
 - [2020-12-17-HTTP/2-协议的一个问题](https://toutiao.io/k/9akkm3w) ![](assets/new.png)  
+- [2020-12-17-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
 - [2020-12-17-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
-- [2020-12-17-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-17 02:58:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 03:08:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,8 +46,8 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-17-谷歌和高通周三宣布，从配备骁龙-888-芯片的-Android-手机开始，这两家公司将为-Android-操作系统版本和安全更新提供为期-4-年的支持](https://www.v2ex.com/t/736243) 
 - [2020-12-17-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-17-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-17-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
+- [2020-12-17-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-17-转:回馈客户|信息安全意识台历持续8年相伴](https://sec.thief.one/article_content?a_id=468fc2a93efe1503e81b648fb3101561) 
 - [2020-12-16-【安全圈】英特尔旗下-Habana-Labs-遭遇黑客攻击,53GB-数据失窃](https://sec.thief.one/article_content?a_id=1c6495fab8c53fd2fcc3f6201d800402) 
 - [2020-12-16-微步在线助力全国首个省级数字政府安全指数发布](https://sec.thief.one/article_content?a_id=a4d1178817ad7e7ec68ae7c7561aed16) 

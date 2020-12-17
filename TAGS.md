@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-17 02:58:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 03:08:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -457,8 +457,8 @@
 - [【V2EX】MyBatis-plus-的分页在压测的时候性能好差](https://www.v2ex.com/t/736258)
 - [【技术头条】白话科普系列——网站靠什么提升加载速度？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14051&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F336150534%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】图解-Flink-Checkpoint-原理及在-1.11-版本的优化](https://toutiao.io/k/ityql6i)
+- [【开发者头条】推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8)
 - [【开发者头条】推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5)
-- [【开发者头条】推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

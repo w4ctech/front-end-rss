@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-17 10:55:35，:rocket: 更新条数: +3906， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-17 11:05:23，:rocket: 更新条数: +3667， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -677,26 +677,6 @@
 </summary>
 
 
-- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -894,9 +874,9 @@
 </summary>
 
 
+- [2020-12-17-构建高质量的前端工程](https://juejin.im/post/6907178915664986120) ![](assets/new.png)  
 - [2020-12-17-昨天面试的6道面试题](https://juejin.im/post/6907146147065856013) ![](assets/new.png)  
 - [2020-12-17-简单正则一手掌握](https://juejin.im/post/6907143412227522567) ![](assets/new.png)  
-- [2020-12-16-面试题day1---](https://juejin.im/post/6907037283321397262) ![](assets/new.png)  
 - [2020-12-16-js-go-映射与结构体](https://juejin.im/post/6907037604873666567) ![](assets/new.png)  
 - [2020-12-16-易于使用的多连接数据库管理工具：Navicat-Premium-15-Mac中文破解版](https://juejin.im/post/6907032522878615560) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -1014,6 +994,9 @@
 </summary>
 
 
+- [2020-12-17-京东真厉害，明目张胆要求用户提交个人手持身份证正反面照片和银行卡正反面照片，不提供就不要使用。](https://www.v2ex.com/t/736507) ![](assets/new.png)  
+- [2020-12-17-请问一下各位前辈，哪个论坛有-root、magisk、xposed-相关教程额？现在网上很多都很分散不集中，有效信息很难获得](https://www.v2ex.com/t/736506) ![](assets/new.png)  
+- [2020-12-17-阿里云-datav-强制涨价-20-倍能忍？在线-pk-中](https://www.v2ex.com/t/736504) ![](assets/new.png)  
 - [2020-12-17-基于-Java-好多的企业应用开发可视化工具，为什么-PHP-没有？或者我没找到？](https://www.v2ex.com/t/736503) ![](assets/new.png)  
 - [2020-12-17-电信企宽崩了……](https://www.v2ex.com/t/736502) ![](assets/new.png)  
 - [2020-12-17-FinTech-社区-招聘：基金经理助理（量化）-有竞争力的薪资-上海](https://www.v2ex.com/t/736501) ![](assets/new.png)  
@@ -1025,15 +1008,12 @@
 - [2020-12-17-年底来了明年跳槽还会远吗-enioy-厂了解下-真实没那么多-996-还是看组看项目-可帮忙内推](https://www.v2ex.com/t/736494) ![](assets/new.png)  
 - [2020-12-17-Hugo-主题-Hugo-Eureka](https://www.v2ex.com/t/736493) ![](assets/new.png)  
 - [2020-12-17-百亿私募招聘：诚奇资产--量化/机器学习/算法交易/C++](https://www.v2ex.com/t/736492) ![](assets/new.png)  
-- [2020-12-17-现在收一台-time-capsule-大概多少钱呀](https://www.v2ex.com/t/736491) ![](assets/new.png)  
 - [2020-12-17-每次面试感觉良好，但就是过不了，是什么原因？](https://www.v2ex.com/t/736490) ![](assets/new.png)  
 - [2020-12-17-￥-4500-的-Mac-mini-值得买吗？](https://www.v2ex.com/t/736489) ![](assets/new.png)  
 - [2020-12-17-为什么在-chrome-上登录-apple.com.cn-每次都要二次验证呀](https://www.v2ex.com/t/736488) ![](assets/new.png)  
 - [2020-12-17-10-分钟速成课-计算机科学-网易公开课](https://www.v2ex.com/t/736487) ![](assets/new.png)  
 - [2020-12-17-请教公务员上岸的朋友们，考公都是怎么复习的？买了哪些书和课程？有报班吗？](https://www.v2ex.com/t/736486) ![](assets/new.png)  
-- [2020-12-17-11.1-安装-sketch-破解版失败](https://www.v2ex.com/t/736485) ![](assets/new.png)  
 - [2020-12-17-请教大家一个爬虫问题](https://www.v2ex.com/t/736484) ![](assets/new.png)  
-- [2020-12-17-外企工作过的各位，如何快速提高英语听力以及口语表达啊？](https://www.v2ex.com/t/736482) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1094,8 +1074,8 @@
 - [2020-12-17-八皇后问题](https://toutiao.io/k/fnk52qi) ![](assets/new.png)  
 - [2020-12-17-QA-的价值](https://toutiao.io/k/o99ishx) ![](assets/new.png)  
 - [2020-12-17-HTTP/2-协议的一个问题](https://toutiao.io/k/9akkm3w) ![](assets/new.png)  
-- [2020-12-17-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
-- [2020-12-17-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
+- [2020-12-17-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
+- [2020-12-17-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

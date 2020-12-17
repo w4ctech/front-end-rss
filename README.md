@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-17 21:31:27，:rocket: 更新条数: +943， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-17 21:41:35，:rocket: 更新条数: +943， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1050,12 +1050,12 @@
 - [2020-12-17-图解-Flink-Checkpoint-原理及在-1.11-版本的优化](https://toutiao.io/k/ityql6i) ![](assets/new.png)  
 - [2020-12-17-​多视图立体视觉：CVPR-2019-与-AAAI-2020-上的-ACMH、ACMM-及-ACMP-算法介绍](https://toutiao.io/k/dezpkpg) ![](assets/new.png)  
 - [2020-12-17-论文：Doc2vec-的算法原理、代码实现及应用启发](https://toutiao.io/k/80085xd) ![](assets/new.png)  
-- [2020-12-17-八皇后问题](https://toutiao.io/k/fnk52qi) ![](assets/new.png)  
 - [2020-12-17-关于系统总线你需要了解的](https://toutiao.io/k/dy6na4c) ![](assets/new.png)  
+- [2020-12-17-八皇后问题](https://toutiao.io/k/fnk52qi) ![](assets/new.png)  
 - [2020-12-17-QA-的价值](https://toutiao.io/k/o99ishx) ![](assets/new.png)  
 - [2020-12-17-HTTP/2-协议的一个问题](https://toutiao.io/k/9akkm3w) ![](assets/new.png)  
-- [2020-12-17-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
-- [2020-12-17-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
+- [2020-12-17-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) ![](assets/new.png)  
+- [2020-12-17-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

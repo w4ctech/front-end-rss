@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-17 13:33:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 13:41:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -32,5 +32,4 @@
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/196a7fb4fe0dda8d044135599df6e681) 
 - [2020-12-17-FinTech-社区-博士招聘专场-Quant/AI--200-300-万+奖金-北京、上海](https://www.v2ex.com/t/736513) 
 - [2020-12-17-FinTech-社区-招聘：基金经理助理（量化）-有竞争力的薪资-上海](https://www.v2ex.com/t/736501) 
-- [2020-12-17-深圳阿里中心支付宝香港团队-2020-大前端团队招聘-可春节后入职](https://www.v2ex.com/t/736500) 
 - [2020-12-17-中央网信办所属部分在京事业单位2021年度公开招聘笔试通知](https://sec.thief.one/article_content?a_id=f7617f843e17427d4587a1bc6d103978) 

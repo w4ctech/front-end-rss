@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-17 23:45:36，:rocket: 更新条数: +3874， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-17 23:56:43，:rocket: 更新条数: +3875， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -994,6 +994,7 @@
 </summary>
 
 
+- [2020-12-17-远程兼职或全职-谁会-Typescript-?](https://www.v2ex.com/t/736602) ![](assets/new.png)  
 - [2020-12-17-远程全职或兼职-诚聘经验丰富的-PHP-程序员,-懂-Python-更佳！](https://www.v2ex.com/t/736601) ![](assets/new.png)  
 - [2020-12-17-毕业三年，夫妻都是税后-30-万](https://www.v2ex.com/t/736600) ![](assets/new.png)  
 - [2020-12-17-有偿求助，求数据库大佬！](https://www.v2ex.com/t/736599) ![](assets/new.png)  
@@ -1013,7 +1014,6 @@
 - [2020-12-17-晚上过了-0-点打开-V-站忽然变快了](https://www.v2ex.com/t/736577) ![](assets/new.png)  
 - [2020-12-17-微信小程序和公众号的区别](https://www.v2ex.com/t/736576) ![](assets/new.png)  
 - [2020-12-17-看屏幕久了眼睛疼](https://www.v2ex.com/t/736575) ![](assets/new.png)  
-- [2020-12-17-7.2-系统有必要更新嘛。手表是最新的蜂窝-6-代](https://www.v2ex.com/t/736572) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,8 +1074,8 @@
 - [2020-12-17-QA-的价值](https://toutiao.io/k/o99ishx) ![](assets/new.png)  
 - [2020-12-17-关于系统总线你需要了解的](https://toutiao.io/k/dy6na4c) ![](assets/new.png)  
 - [2020-12-17-HTTP/2-协议的一个问题](https://toutiao.io/k/9akkm3w) ![](assets/new.png)  
-- [2020-12-17-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
 - [2020-12-17-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
+- [2020-12-17-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

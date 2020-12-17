@@ -18707,6 +18707,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "因为团队调整，面临换语言的问题， go -> Java",
+        "link": "https://www.v2ex.com/t/736540",
+        "date": "2020-12-17"
+      },
+      {
+        "title": "再过十几天，如果没有程序员猝死的新闻，那么今年是唯一一年，我没看到，程序员猝死的新闻。",
+        "link": "https://www.v2ex.com/t/736539",
+        "date": "2020-12-17"
+      },
+      {
         "title": "自从了解了数字游民后，就开始着迷了，建了个微信群，感兴趣的来交流学习",
         "link": "https://www.v2ex.com/t/736538",
         "date": "2020-12-17"
@@ -18899,16 +18909,6 @@
       {
         "title": "[百亿私募招聘：诚奇资产] -量化/机器学习/算法交易/C++",
         "link": "https://www.v2ex.com/t/736492",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "每次面试感觉良好，但就是过不了，是什么原因？",
-        "link": "https://www.v2ex.com/t/736490",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "￥ 4500 的 Mac mini 值得买吗？",
-        "link": "https://www.v2ex.com/t/736489",
         "date": "2020-12-17"
       }
     ]
@@ -19116,16 +19116,6 @@
         "date": "2020-12-17"
       },
       {
-        "title": "[推荐] 微服务架构下 CI/CD 如何落地",
-        "link": "https://toutiao.io/k/303m5ez",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] 中台的本质及中台建设的 4 点思考",
-        "link": "https://toutiao.io/k/9octogz",
-        "date": "2020-12-17"
-      },
-      {
         "title": "[推荐] MySQL 查询性能优化前，必须先掌握 MySQL 索引理论",
         "link": "https://toutiao.io/k/klmrzk8",
         "date": "2020-12-17"
@@ -19136,33 +19126,8 @@
         "date": "2020-12-17"
       },
       {
-        "title": "[推荐] 记一次 MySQL 的 insert 死锁",
-        "link": "https://toutiao.io/k/mbyee1y",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] 35 岁以后，不要成为程序员中的钻石",
-        "link": "https://toutiao.io/k/gbakyp5",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] 彻底搞懂 IO 底层原理",
-        "link": "https://toutiao.io/k/493onla",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] MySQL 优化神器",
-        "link": "https://toutiao.io/k/qg5adh5",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] explain：索引优化的这把绝世好剑，你真的会用吗？",
-        "link": "https://toutiao.io/k/y3en305",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] 分布式搜索引擎 Elasticsearch 的架构分析",
-        "link": "https://toutiao.io/k/j4aoyho",
+        "title": "[推荐] AutoExcel 实现百万数据秒级导入导出",
+        "link": "https://toutiao.io/k/ui65fqe",
         "date": "2020-12-17"
       },
       {
@@ -19171,8 +19136,33 @@
         "date": "2020-12-17"
       },
       {
-        "title": "[推荐] AutoExcel 实现百万数据秒级导入导出",
-        "link": "https://toutiao.io/k/ui65fqe",
+        "title": "[推荐] 中台的本质及中台建设的 4 点思考",
+        "link": "https://toutiao.io/k/9octogz",
+        "date": "2020-12-17"
+      },
+      {
+        "title": "[推荐] 彻底搞懂 IO 底层原理",
+        "link": "https://toutiao.io/k/493onla",
+        "date": "2020-12-17"
+      },
+      {
+        "title": "[推荐] 分布式搜索引擎 Elasticsearch 的架构分析",
+        "link": "https://toutiao.io/k/j4aoyho",
+        "date": "2020-12-17"
+      },
+      {
+        "title": "[推荐] 35 岁以后，不要成为程序员中的钻石",
+        "link": "https://toutiao.io/k/gbakyp5",
+        "date": "2020-12-17"
+      },
+      {
+        "title": "[推荐] explain：索引优化的这把绝世好剑，你真的会用吗？",
+        "link": "https://toutiao.io/k/y3en305",
+        "date": "2020-12-17"
+      },
+      {
+        "title": "[推荐] 漫话 Docker 的衰落与 Kubernetes 的兴起",
+        "link": "https://toutiao.io/k/h3ooyse",
         "date": "2020-12-17"
       },
       {
@@ -19181,13 +19171,23 @@
         "date": "2020-12-17"
       },
       {
+        "title": "[推荐] 记一次 MySQL 的 insert 死锁",
+        "link": "https://toutiao.io/k/mbyee1y",
+        "date": "2020-12-17"
+      },
+      {
         "title": "[推荐] 缓存击穿、穿透、雪崩简单总结",
         "link": "https://toutiao.io/k/yehwkm6",
         "date": "2020-12-17"
       },
       {
-        "title": "[推荐] 漫话 Docker 的衰落与 Kubernetes 的兴起",
-        "link": "https://toutiao.io/k/h3ooyse",
+        "title": "[推荐] 微服务架构下 CI/CD 如何落地",
+        "link": "https://toutiao.io/k/303m5ez",
+        "date": "2020-12-17"
+      },
+      {
+        "title": "[推荐] MySQL 优化神器",
+        "link": "https://toutiao.io/k/qg5adh5",
         "date": "2020-12-17"
       }
     ]

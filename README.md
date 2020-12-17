@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-17 18:46:05，:rocket: 更新条数: +3878， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-17 18:59:19，:rocket: 更新条数: +3877， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,15 +1067,15 @@
 - [2020-12-17-期待已久的-beego-2.0-来了，最简单易用的企业级应用开发框架](https://toutiao.io/k/65v2m0l) ![](assets/new.png)  
 - [2020-12-17-搞懂-HTTP-重定向：如何优雅地使用-301](https://toutiao.io/k/ap8pnj0) ![](assets/new.png)  
 - [2020-12-17-图解-Flink-Checkpoint-原理及在-1.11-版本的优化](https://toutiao.io/k/ityql6i) ![](assets/new.png)  
-- [2020-12-17-​多视图立体视觉：CVPR-2019-与-AAAI-2020-上的-ACMH、ACMM-及-ACMP-算法介绍](https://toutiao.io/k/dezpkpg) ![](assets/new.png)  
 - [2020-12-17-Zoho-中国-CEO-侯康宁：每条新曲线背后都是骨肉之痛，长期主义基于战略定力](https://toutiao.io/k/axv1ia7) ![](assets/new.png)  
+- [2020-12-17-​多视图立体视觉：CVPR-2019-与-AAAI-2020-上的-ACMH、ACMM-及-ACMP-算法介绍](https://toutiao.io/k/dezpkpg) ![](assets/new.png)  
 - [2020-12-17-论文：Doc2vec-的算法原理、代码实现及应用启发](https://toutiao.io/k/80085xd) ![](assets/new.png)  
 - [2020-12-17-关于系统总线你需要了解的](https://toutiao.io/k/dy6na4c) ![](assets/new.png)  
 - [2020-12-17-QA-的价值](https://toutiao.io/k/o99ishx) ![](assets/new.png)  
 - [2020-12-17-八皇后问题](https://toutiao.io/k/fnk52qi) ![](assets/new.png)  
 - [2020-12-17-HTTP/2-协议的一个问题](https://toutiao.io/k/9akkm3w) ![](assets/new.png)  
-- [2020-12-17-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
-- [2020-12-17-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
+- [2020-12-17-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
+- [2020-12-17-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

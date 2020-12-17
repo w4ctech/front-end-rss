@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-17 21:47:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 22:05:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-17-Parallels-16-for-M1-预览版发布](https://www.v2ex.com/t/736594) 
 - [2020-12-17-如何绕开-Outlook-设备管理器](https://www.v2ex.com/t/736592) 
 - [2020-12-17-关于-Clipboard-的使用权限](https://www.v2ex.com/t/736591) 
 - [2020-12-17-iphone12-升级到-14.3-无线充电失灵有人遇到吗](https://www.v2ex.com/t/736588) 
@@ -36,5 +37,3 @@
 - [2020-12-17-分享一些自己整理的光荣三国志的数据](https://www.v2ex.com/t/736548) 
 - [2020-12-17-填个坑。之前吐槽-CTO-的帖子。](https://www.v2ex.com/t/736547) 
 - [2020-12-17-关于微云悄咪咪隐藏了普通会员购买入口这件事](https://www.v2ex.com/t/736546) 
-- [2020-12-17-用-Golang-写了个-HTTP/HTTPS-抓包工具](https://www.v2ex.com/t/736545) 
-- [2020-12-17-错误的打字方式该怎么纠正？](https://www.v2ex.com/t/736544) 

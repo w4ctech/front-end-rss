@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-17 07:10:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 07:17:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -27,6 +27,8 @@
 - [2020-12-11-前端前沿观察，Cookie-居然可以这样整了](https://www.ershicimi.com/p/bfd223b8e85452ebd67a19509a3d6021) 
 - [2020-12-04-前端-api-请求缓存的-5-种方案](https://www.ershicimi.com/p/0739f868c16f1fc66b41e39b676c2588) 
 - [2020-11-27-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/7609004e2f9423cf4f1b2eb5dc1b19ac) 
+- [2020-12-16-前端安全编码规范](https://www.ershicimi.com/p/f7d6152579ec17d403d70bedb42d0c37) 
+- [2020-12-16-我的电脑不联网，很安全，黑客：你还有风扇呢](https://www.ershicimi.com/p/096de2d5e8adfd187a8777ee87491e35) 
 - [2020-12-11-你猜一个-TCP-连接上面能发多少个-HTTP-请求](https://www.ershicimi.com/p/c60bafb3210f050def9b7719202d9750) 
 - [2020-12-16-图解跨域请求、反向代理原理，对前端更友好的反向代理服务器---Caddy](https://www.ershicimi.com/p/0f6067b1fe001ca5abd95cb2f6cfa227) 
 - [2020-12-09-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/73356e18cd00004d269c88984a8a61b0) 
@@ -43,10 +45,13 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-12-11-腾讯-Code-Review-规范出炉！你还敢乱写代码？？](https://www.ershicimi.com/p/510c3f8a53e9cb08538d3189aecccbc3) 
+- [2020-12-16-BFC-详细讲解-渲染规则-创造条件-应用场景](https://juejin.im/post/6907118255660335117) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-12-17-IIS-伪静态，怎么才能不跳转到真实-url](https://www.v2ex.com/t/736397) 
 - [2020-12-17-M1-Chrome-冷启动的时候打不开网页](https://www.v2ex.com/t/736374) 
 - [2020-12-17-chrome-报-Mixed-Content:-The-page-at-'...'-was-loaded-over-HTTPS,-but-requested-an-insecure-image..](https://www.v2ex.com/t/736370) 
 - [2020-12-17-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-17-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-17-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-17-每日安全动态推送12-17](https://sec.thief.one/article_content?a_id=4de563d4bd839d1f98ed7c70d58cea42) 
 - [2020-12-17-转:回馈客户|信息安全意识台历持续8年相伴](https://sec.thief.one/article_content?a_id=468fc2a93efe1503e81b648fb3101561) 

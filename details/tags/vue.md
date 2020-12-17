@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-17 07:10:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 07:17:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -31,6 +31,7 @@
 - [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
 - [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
 - [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
+- [2020-12-17-涨薪成功！吐血总结月入25k的前端开发，都会的VUE面试题](https://www.ershicimi.com/p/e506bbb56717c62602d9df574d3444c8) 
 - [2020-12-15-2021年前端VUE面试题从入门到入魔](https://www.ershicimi.com/p/0ca60188667621a624dcf7394817cac9) 
 - [2020-12-14-来一起用-Vue3.0-做个飞机大战游戏](https://www.ershicimi.com/p/dc52ec9793a2340e4bf8fd18c0b87a24) 
 - [2020-12-13-Vue-项目打包部署总结](https://www.ershicimi.com/p/d523e59e05c4c4336e6f80d09ea6ea3f) 

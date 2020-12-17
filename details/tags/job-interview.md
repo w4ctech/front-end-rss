@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-17 13:41:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 13:51:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-12-09-字节跳动年底招聘-10000-人，看看你符合条件么？](https://www.ershicimi.com/p/45becc670feffb4cf743c60c3ba28698) 
 - [2020-12-15-【招聘】有赞·教育前端团队急招前端开发工程师](https://www.ershicimi.com/p/b3d402b88891ec1b88506a7bb25f631d) 
 - [2020-12-13-【招聘】美团快驴终端招募：和优秀的人一起并肩作战](https://www.ershicimi.com/p/ba99b78f490ad4932ee58422805eb68e) 
@@ -31,5 +30,4 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/196a7fb4fe0dda8d044135599df6e681) 
 - [2020-12-17-FinTech-社区-博士招聘专场-Quant/AI--200-300-万+奖金-北京、上海](https://www.v2ex.com/t/736513) 
-- [2020-12-17-FinTech-社区-招聘：基金经理助理（量化）-有竞争力的薪资-上海](https://www.v2ex.com/t/736501) 
 - [2020-12-17-中央网信办所属部分在京事业单位2021年度公开招聘笔试通知](https://sec.thief.one/article_content?a_id=f7617f843e17427d4587a1bc6d103978) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-16 23:57:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 00:18:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -48,9 +48,12 @@
 - [2020-12-16-Proxifier-在-Bug-Sir-11.1-下是否还会五国？](https://www.v2ex.com/t/736191) 
 - [2020-12-16-大家的-Chrome-在-Apple-M1-下的冷启动速度快么？](https://www.v2ex.com/t/736187) 
 - [2020-12-16-成都/杭州-蚂蚁基础安全急招技术研发，-P6/7/8-都要，时间短、流程快、体验好！](https://www.v2ex.com/t/736177) 
-- [2020-12-16-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-16-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
-- [2020-12-16-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
+- [2020-12-17-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-17-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
+- [2020-12-17-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
+- [2020-12-17-转:回馈客户|信息安全意识台历持续8年相伴](https://sec.thief.one/article_content?a_id=468fc2a93efe1503e81b648fb3101561) 
+- [2020-12-16-【安全圈】英特尔旗下-Habana-Labs-遭遇黑客攻击,53GB-数据失窃](https://sec.thief.one/article_content?a_id=1c6495fab8c53fd2fcc3f6201d800402) 
+- [2020-12-16-微步在线助力全国首个省级数字政府安全指数发布](https://sec.thief.one/article_content?a_id=a4d1178817ad7e7ec68ae7c7561aed16) 
 - [2020-12-16-距离2020滴滴网络安全峰会倒计时1天!明天见!](https://sec.thief.one/article_content?a_id=5d1f6c52156a476d2448a6203bcf8438) 
 - [2020-12-16-安全宝典-|-如何防范身份信息泄露](https://sec.thief.one/article_content?a_id=1d060ec92c9757d4c4d0c3f75c445d61) 
 - [2020-12-16-信息安全漏洞月报2020年11月](https://sec.thief.one/article_content?a_id=778142f957662f1c05ea0e309c79f8f0) 
@@ -77,11 +80,4 @@
 - [2020-12-14-连续入围双榜!-奇安信行为安全进入Gartner魔力象限和关键能力报告](https://sec.thief.one/article_content?a_id=cd8e968848cf526dc20bec7a9ee254c2) 
 - [2020-12-14-【安全热点周报】第172期:奇安信CERT发布Microsoft-Exchange远程...](https://sec.thief.one/article_content?a_id=d5e7f61e6c5173868631e392de8c8b02) 
 - [2020-12-14-独家揭秘“看门狗”团伙三大手段,360安全大脑释能戳穿远控木马“...](https://sec.thief.one/article_content?a_id=ec7b69f5287afa93c8507e2b99975297) 
-- [2020-12-14-国家标准-|-GB/T-30276-2020-信息安全技术-网络安全漏洞管理规范](https://sec.thief.one/article_content?a_id=2654e0c3fff922c0c33f4af33e0d5e98) 
-- [2020-12-14-【风险提示】天融信关于XStream-任意文件删除和服务端请求伪造漏洞...](https://sec.thief.one/article_content?a_id=3784894305e09f5d7da087d14435a3a3) 
-- [2020-12-14-隐藏在浏览器背后的“黑手”](https://sec.thief.one/article_content?a_id=66cdfee9bc800582c7483ae4ea8797e0) 
-- [2020-12-14-2020滴滴网络安全峰会倒计时3天!重咖来袭,不免动心](https://sec.thief.one/article_content?a_id=d85f5756040b5cda0288f4515af29eed) 
-- [2020-12-14-又一省发布工业大数据发展实施方案,重点提及工业安全](https://sec.thief.one/article_content?a_id=f52407a5e4e932730b0da1846e138b2f) 
-- [2020-12-14-漏洞情报|XStream任意文件删除/服务端请求伪造漏洞风险通告CVE-...](https://sec.thief.one/article_content?a_id=f8401711e9c7aff6820b82a8ef6d415d) 
-- [2020-12-14-历时3小时,澳门举行首次网络安全事故演习](https://sec.thief.one/article_content?a_id=f5d9d25db37dd3e52af6febbbf27900b) 
 - [2020-12-11-UWB/蓝牙/WiFi/红外/Zigbee/LoRa-Edge…….室内定位技术的百家争鸣时代](https://www.ershicimi.com/p/a35fb040e7e0a28830e1717cb4094dd0) 

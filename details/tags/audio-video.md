@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-16 23:57:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 00:18:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -94,8 +94,8 @@
 - [2020-12-16-分享一个超燃励志的视频,-不再为-996-感到痛苦](https://www.v2ex.com/t/736206) 
 - [2020-12-16-求大佬推荐算法视频？通勤路上看](https://www.v2ex.com/t/736201) 
 - [2020-12-16-Mac-有什么视频播放器能够把视频的播放音量调整到大于-100%](https://www.v2ex.com/t/736179) 
-- [2020-12-16-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-16-西瓜视频稳定性治理体系建设（一）：Tailor-原理及实践](https://toutiao.io/k/u3l3hwm) 
+- [2020-12-17-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-17-西瓜视频稳定性治理体系建设（一）：Tailor-原理及实践](https://toutiao.io/k/u3l3hwm) 
 - [2020-12-16-时政微视频丨韧性生长——中国经济2020](https://sec.thief.one/article_content?a_id=32350fc9ee64bac59f238e77a3899760) 
 - [2020-12-15-【视频】|-金融行业网络安全现状与分析](https://sec.thief.one/article_content?a_id=91098400b04d50d88914c87915d51ce2) 
 - [2020-12-08-华为名师拆书直播-|-5G物联网及NB-IoT技术详解](https://www.ershicimi.com/p/d0646b22f2172d8e38f50b28cf6ec704) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-16 23:57:50，:rocket: 更新条数: +3902， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-17 00:18:51，:rocket: 更新条数: +3904， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1014,6 +1014,8 @@
 </summary>
 
 
+- [2020-12-17-今天发现-M1-版-Macbook-Air-外接-Ultrafine-5K-后的一个新的很烦人的问题..](https://www.v2ex.com/t/736221) ![](assets/new.png)  
+- [2020-12-16-Java-on-Visual-Studio-Code-的更新-–-2020-年-11-月](https://www.v2ex.com/t/736220) ![](assets/new.png)  
 - [2020-12-16-ios-的钉钉取消了使用捷径自动化调用考勤打卡功能吗？](https://www.v2ex.com/t/736219) ![](assets/new.png)  
 - [2020-12-16-Docker-for-M1-预览版发布](https://www.v2ex.com/t/736218) ![](assets/new.png)  
 - [2020-12-16-win10-任务管理器总是自动停止更新](https://www.v2ex.com/t/736217) ![](assets/new.png)  
@@ -1032,8 +1034,6 @@
 - [2020-12-16-求大佬推荐算法视频？通勤路上看](https://www.v2ex.com/t/736201) ![](assets/new.png)  
 - [2020-12-16-IT-民工一枚，不小心让直属领导知道本人有入股朋友创业公司，对今后的工作会不会有影响~](https://www.v2ex.com/t/736200) ![](assets/new.png)  
 - [2020-12-16-iOS14.2-禁止应用联网-Bug](https://www.v2ex.com/t/736198) ![](assets/new.png)  
-- [2020-12-16-应该怎么拿这个-api-做接口来使用尼，](https://www.v2ex.com/t/736197) ![](assets/new.png)  
-- [2020-12-16-manjaro-gnome-界面风格和原生-android-好像啊](https://www.v2ex.com/t/736196) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1045,26 +1045,26 @@
 </summary>
 
 
-- [2020-12-16-信任的传递——为什么我们需要第三方授权？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14053&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-third-party-authorization%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-程序员才懂的“凡尔赛语录”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14052&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9jdf7YN4_pIHKumAvvltLQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-白话科普系列——网站靠什么提升加载速度？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14051&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F336150534%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-银行规模化敏捷的窘境-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14050&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fscale-agile-transformation-four-steps%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-我的笔记系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14049&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fnote-taking-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-使用-DDD-指导微服务拆分的逻辑-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14048&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-split-microservices%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-码仔漫画｜重学设计模式之装饰者模式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14047&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwjyke4sj-fv324ApHGLuRA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-机器学习平台带给QA的挑战-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14046&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmachine-learning-platform-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-码仔漫画-|-TCP的三次握手-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14045&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FA-M_8NTW5OHW2olQFg7zkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-通俗易懂的解释下前复权，不复权和后复权的区别-www.zhihu.com](https://blogread.cn/news/go.php?idItem=14044&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F31004373%2Fanswer%2F242862540%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-点触科技上云-构建实时计算和数据仓库-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14042&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7589%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-在云之上的猿辅导，撑住500万中小学生的挑战-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14041&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8969%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-冠赢网络上云-游戏盾彻底解决DDoS/CC攻击-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14039&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9097%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-58到家为2000万家庭提供上门生活服务的背后是云计算的高效支撑-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14038&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F4971%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-母婴企业上云-实现线上线下互动营销、一体化管理服务-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14037&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F6721%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-上学帮上云-阿里云助力教育资讯平台防爬虫-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14036&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9197%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-微服务架构下-CI/CD-如何落地-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14035&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F328238514%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-16-百家云借助“容器+神龙”三天内实现数十倍扩容-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14034&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8289%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-信任的传递——为什么我们需要第三方授权？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14053&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-third-party-authorization%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-程序员才懂的“凡尔赛语录”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14052&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9jdf7YN4_pIHKumAvvltLQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-白话科普系列——网站靠什么提升加载速度？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14051&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F336150534%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-银行规模化敏捷的窘境-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14050&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fscale-agile-transformation-four-steps%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-我的笔记系统-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14049&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fnote-taking-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-使用-DDD-指导微服务拆分的逻辑-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14048&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-split-microservices%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-码仔漫画｜重学设计模式之装饰者模式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14047&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwjyke4sj-fv324ApHGLuRA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-机器学习平台带给QA的挑战-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14046&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmachine-learning-platform-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-码仔漫画-|-TCP的三次握手-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14045&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FA-M_8NTW5OHW2olQFg7zkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-通俗易懂的解释下前复权，不复权和后复权的区别-www.zhihu.com](https://blogread.cn/news/go.php?idItem=14044&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F31004373%2Fanswer%2F242862540%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-点触科技上云-构建实时计算和数据仓库-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14042&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7589%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-在云之上的猿辅导，撑住500万中小学生的挑战-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14041&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8969%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-冠赢网络上云-游戏盾彻底解决DDoS/CC攻击-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14039&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9097%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-58到家为2000万家庭提供上门生活服务的背后是云计算的高效支撑-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14038&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F4971%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-母婴企业上云-实现线上线下互动营销、一体化管理服务-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14037&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F6721%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-上学帮上云-阿里云助力教育资讯平台防爬虫-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14036&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9197%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-微服务架构下-CI/CD-如何落地-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14035&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F328238514%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-17-百家云借助“容器+神龙”三天内实现数十倍扩容-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14034&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8289%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1076,26 +1076,26 @@
 </summary>
 
 
-- [2020-12-16-MySQL-索引知识点总结](https://toutiao.io/k/u9plzvk) ![](assets/new.png)  
-- [2020-12-16-常见算法模版总结（二）](https://toutiao.io/k/s66geea) ![](assets/new.png)  
-- [2020-12-16-10-张图让你彻底理解回调函数](https://toutiao.io/k/vxd1xum) ![](assets/new.png)  
-- [2020-12-16-漫谈分布式系统（二十三）：分布式数据仓库](https://toutiao.io/k/lk48kxt) ![](assets/new.png)  
-- [2020-12-16-架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://toutiao.io/k/aj36ptr) ![](assets/new.png)  
-- [2020-12-16-分享-8-个非常实用的-Vue-自定义指令](https://toutiao.io/k/zwn1ji1) ![](assets/new.png)  
-- [2020-12-16-怎么给容器抓包](https://toutiao.io/k/3regt6f) ![](assets/new.png)  
-- [2020-12-16-技术天地：FreeWheel-实时数据系统弹性伸缩实践](https://toutiao.io/k/o3l68ez) ![](assets/new.png)  
-- [2020-12-16-Python-最会变魔术的魔术方法，我觉得是它](https://toutiao.io/k/bj6r76d) ![](assets/new.png)  
-- [2020-12-16-Constraint-Layout-2.0-用法详解](https://toutiao.io/k/uvegz4s) ![](assets/new.png)  
-- [2020-12-16-闲聊算法](https://toutiao.io/k/s8j11lm) ![](assets/new.png)  
-- [2020-12-16-西瓜视频稳定性治理体系建设（一）：Tailor-原理及实践](https://toutiao.io/k/u3l3hwm) ![](assets/new.png)  
-- [2020-12-16-我又开发了一个非常好用的开源库](https://toutiao.io/k/4ecmzu5) ![](assets/new.png)  
-- [2020-12-16-我是如何-3-小时上手-Golang-的](https://toutiao.io/k/qm81dgx) ![](assets/new.png)  
-- [2020-12-16-如何度量软件团队成员的技能？](https://toutiao.io/k/jt6heav) ![](assets/new.png)  
-- [2020-12-16-NIST、CIS、MITRE、SANS-傻傻分不清楚](https://toutiao.io/k/d4qx8f5) ![](assets/new.png)  
-- [2020-12-16-日程及讲师话题总览｜2020-领域驱动设计峰会倒计时-5-天（文末有福利）](https://toutiao.io/k/3qct70t) ![](assets/new.png)  
-- [2020-12-16-Netty-之事件轮询与处理](https://toutiao.io/k/q09zzu0) ![](assets/new.png)  
-- [2020-12-16-Sentinel-是如何做限流的](https://toutiao.io/k/ojk7tjc) ![](assets/new.png)  
-- [2020-12-16-安卓逆向：重温-Thumb-汇编指令的细节](https://toutiao.io/k/uambysn) ![](assets/new.png)  
+- [2020-12-17-MySQL-索引知识点总结](https://toutiao.io/k/u9plzvk) ![](assets/new.png)  
+- [2020-12-17-常见算法模版总结（二）](https://toutiao.io/k/s66geea) ![](assets/new.png)  
+- [2020-12-17-10-张图让你彻底理解回调函数](https://toutiao.io/k/vxd1xum) ![](assets/new.png)  
+- [2020-12-17-漫谈分布式系统（二十三）：分布式数据仓库](https://toutiao.io/k/lk48kxt) ![](assets/new.png)  
+- [2020-12-17-架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://toutiao.io/k/aj36ptr) ![](assets/new.png)  
+- [2020-12-17-分享-8-个非常实用的-Vue-自定义指令](https://toutiao.io/k/zwn1ji1) ![](assets/new.png)  
+- [2020-12-17-怎么给容器抓包](https://toutiao.io/k/3regt6f) ![](assets/new.png)  
+- [2020-12-17-技术天地：FreeWheel-实时数据系统弹性伸缩实践](https://toutiao.io/k/o3l68ez) ![](assets/new.png)  
+- [2020-12-17-Python-最会变魔术的魔术方法，我觉得是它](https://toutiao.io/k/bj6r76d) ![](assets/new.png)  
+- [2020-12-17-Constraint-Layout-2.0-用法详解](https://toutiao.io/k/uvegz4s) ![](assets/new.png)  
+- [2020-12-17-闲聊算法](https://toutiao.io/k/s8j11lm) ![](assets/new.png)  
+- [2020-12-17-西瓜视频稳定性治理体系建设（一）：Tailor-原理及实践](https://toutiao.io/k/u3l3hwm) ![](assets/new.png)  
+- [2020-12-17-我又开发了一个非常好用的开源库](https://toutiao.io/k/4ecmzu5) ![](assets/new.png)  
+- [2020-12-17-我是如何-3-小时上手-Golang-的](https://toutiao.io/k/qm81dgx) ![](assets/new.png)  
+- [2020-12-17-如何度量软件团队成员的技能？](https://toutiao.io/k/jt6heav) ![](assets/new.png)  
+- [2020-12-17-NIST、CIS、MITRE、SANS-傻傻分不清楚](https://toutiao.io/k/d4qx8f5) ![](assets/new.png)  
+- [2020-12-17-Netty-之事件轮询与处理](https://toutiao.io/k/q09zzu0) ![](assets/new.png)  
+- [2020-12-17-日程及讲师话题总览｜2020-领域驱动设计峰会倒计时-5-天（文末有福利）](https://toutiao.io/k/3qct70t) ![](assets/new.png)  
+- [2020-12-17-Sentinel-是如何做限流的](https://toutiao.io/k/ojk7tjc) ![](assets/new.png)  
+- [2020-12-17-安卓逆向：重温-Thumb-汇编指令的细节](https://toutiao.io/k/uambysn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,26 +1107,26 @@
 </summary>
 
 
+- [2020-12-17-“十三五”,习近平领航中国经济巨轮破浪前行](https://sec.thief.one/article_content?a_id=dfe14ca6a573286e46b98cb84cb13d5e) ![](assets/new.png)  
+- [2020-12-17-转:回馈客户|信息安全意识台历持续8年相伴](https://sec.thief.one/article_content?a_id=468fc2a93efe1503e81b648fb3101561) ![](assets/new.png)  
+- [2020-12-16-欧盟《数字市场法》选译之一:-解释性备忘录](https://sec.thief.one/article_content?a_id=bcc278af098025e6402c0dfe0cb55ba3) ![](assets/new.png)  
+- [2020-12-16-被骗40万](https://sec.thief.one/article_content?a_id=246e7308e2342c61823e33073db0b75d) ![](assets/new.png)  
+- [2020-12-16-【补丁库更新】奇安信集团2020年12月补丁库更新通告第一次更新](https://sec.thief.one/article_content?a_id=dae3818c2379ddf9c0c21739557463b5) ![](assets/new.png)  
+- [2020-12-16-【安全圈】英特尔旗下-Habana-Labs-遭遇黑客攻击,53GB-数据失窃](https://sec.thief.one/article_content?a_id=1c6495fab8c53fd2fcc3f6201d800402) ![](assets/new.png)  
+- [2020-12-16-200家机构受害-数百人集团作战-——-拨开年度最严重APT攻击疑云](https://sec.thief.one/article_content?a_id=3db86dc18b4c79a5c14708edd43be1b3) ![](assets/new.png)  
+- [2020-12-16-每日攻防资讯简报Dec.16th](https://sec.thief.one/article_content?a_id=1195677fd6266c22b68ffa3b34444ad2) ![](assets/new.png)  
+- [2020-12-16-微步在线助力全国首个省级数字政府安全指数发布](https://sec.thief.one/article_content?a_id=a4d1178817ad7e7ec68ae7c7561aed16) ![](assets/new.png)  
+- [2020-12-16-这篇文章把-TCP/IP-讲绝了!](https://sec.thief.one/article_content?a_id=ff0f30bf0f3a40ae9789f6ff2347a1a0) ![](assets/new.png)  
+- [2020-12-16-中招目标首次披露:SolarWinds供应链攻击相关域名生成算法可破解!](https://sec.thief.one/article_content?a_id=e5899f5f9477317ba0d0af5da26c4807) ![](assets/new.png)  
+- [2020-12-16-被盗超800万美元,DeFi协议Nexus-Mutual创始人遭黑客攻击损失惨重!](https://sec.thief.one/article_content?a_id=e540d8866761bd2e303baae7a907d3f6) ![](assets/new.png)  
+- [2020-12-16-20强战队酣战26小时,ByteCTF决赛收官!](https://sec.thief.one/article_content?a_id=81d8a147865f96f2cc38b4cf3214ead1) ![](assets/new.png)  
+- [2020-12-16-爱沙尼亚今年已经撤销了1000多家加密公司的许可证](https://sec.thief.one/article_content?a_id=aa94aa1af13378f6c250a0ee90c8e958) ![](assets/new.png)  
+- [2020-12-16-记一次详细的内网渗透过程](https://sec.thief.one/article_content?a_id=d5fb1cbd535c13015012a930aca8d6fd) ![](assets/new.png)  
+- [2020-12-16-SolarWinds供应链攻击事件分析](https://sec.thief.one/article_content?a_id=80e1b6dbc47096f83470dceb3ffbb07a) ![](assets/new.png)  
 - [2020-12-16-巧用Zeek在流量层狩猎哥斯拉Godzilla](https://sec.thief.one/article_content?a_id=8d0e70b0401367618188b0e16bffcc5b) ![](assets/new.png)  
 - [2020-12-16-Datawhale十二月Pandas组学习打卡--Task01.预备知识练习题](https://sec.thief.one/article_content?a_id=13b25343b9cd201cb7bb0f3386ee518e) ![](assets/new.png)  
 - [2020-12-16-【漏洞通告】Sonatype-Nexus-Repository-Manager外部实体注入漏洞...](https://sec.thief.one/article_content?a_id=a38f119e6d2f6a6bd67a52b4c4ca0187) ![](assets/new.png)  
 - [2020-12-16-距离2020滴滴网络安全峰会倒计时1天!明天见!](https://sec.thief.one/article_content?a_id=5d1f6c52156a476d2448a6203bcf8438) ![](assets/new.png)  
-- [2020-12-16-零基础入门渗透测试工程师,2021春招还有机会吗?](https://sec.thief.one/article_content?a_id=3a9520d0f5d4ae1d7e6d38d9c48ff339) ![](assets/new.png)  
-- [2020-12-16-征文-|-李磊:企业“零信任”落地实践探索与思考](https://sec.thief.one/article_content?a_id=d52753eb7bf0b0f0566d8b20f40ab072) ![](assets/new.png)  
-- [2020-12-16-双周到手二十万!百度杯白帽众测挑战赛放榜啦~](https://sec.thief.one/article_content?a_id=28caf37b824696370897358dc64f488c) ![](assets/new.png)  
-- [2020-12-16-安全宝典-|-如何防范身份信息泄露](https://sec.thief.one/article_content?a_id=1d060ec92c9757d4c4d0c3f75c445d61) ![](assets/new.png)  
-- [2020-12-16-【以我之青春-耀祖国之荣光】40平米里的教育梦](https://sec.thief.one/article_content?a_id=165c7e28c77a45932041602d61578c04) ![](assets/new.png)  
-- [2020-12-16-Gitpaste-12僵尸网络针对Linux服务器,物联网设备](https://sec.thief.one/article_content?a_id=afd8d1b3ebcb0b20aaf1ffe669f6da9a) ![](assets/new.png)  
-- [2020-12-16-信息安全漏洞月报2020年11月](https://sec.thief.one/article_content?a_id=778142f957662f1c05ea0e309c79f8f0) ![](assets/new.png)  
-- [2020-12-16-小米信息安全与隐私保护管理体系再获ISO/IEC-27701认证](https://sec.thief.one/article_content?a_id=6a672562c098df71fa177f654ec40e34) ![](assets/new.png)  
-- [2020-12-16-聚焦-|《中国网络安全产业分析报告2020年》全文发布](https://sec.thief.one/article_content?a_id=7338039aa66b81de87791abcb881d52b) ![](assets/new.png)  
-- [2020-12-16-12月16日GUIBI早内参-比特币市值超3600亿美元,XEM或将于明日启...](https://sec.thief.one/article_content?a_id=951cff13bb7d0511b00ab8d550dec95c) ![](assets/new.png)  
-- [2020-12-16-漏洞情报|Nexus-Repository-Manager-3-XML外部实体注入漏洞风险通告...](https://sec.thief.one/article_content?a_id=a9a9eb71c2aae50c9fbb41a0e39976ba) ![](assets/new.png)  
-- [2020-12-16-Pay2Key勒索软件入侵英特尔旗下的Habana-Labs并窃取了数据](https://sec.thief.one/article_content?a_id=5585818da9a29bbdae634a1da3f81e4c) ![](assets/new.png)  
-- [2020-12-16-美国防部2021年全面推行零信任架构](https://sec.thief.one/article_content?a_id=77345ee8846f4d5674f3ac198ade7b6b) ![](assets/new.png)  
-- [2020-12-16-时政微视频丨韧性生长——中国经济2020](https://sec.thief.one/article_content?a_id=32350fc9ee64bac59f238e77a3899760) ![](assets/new.png)  
-- [2020-12-16-偷比尔盖茨、奥巴马-Twitter-的黑客被抓了,年轻到你想不到!](https://sec.thief.one/article_content?a_id=61e3578479cc9ea0cd37857e27585055) ![](assets/new.png)  
-- [2020-12-16-每日安全动态推送12-16](https://sec.thief.one/article_content?a_id=b257a90217dd37d2b167fc13191365a7) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-17 23:37:46，:rocket: 更新条数: +3874， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-17 23:45:36，:rocket: 更新条数: +3874， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-12-17-黎巴嫩疫情加剧蔓延-单日新增新冠肺炎确诊病例1960例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAxpBNsyB4AJuMWt5tUE5201218&isfromapp=1) ![](assets/new.png)  
+- [2020-12-17-法国新冠肺炎累计确诊2427316例-近日疫情有上升趋势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE1we2NGmvf8daLBQZG8b201218&isfromapp=1) ![](assets/new.png)  
 - [2020-12-17-波兰宣布实行全民隔离-新年夜将实行宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPtCLydp6WLYftay59xLy201218&isfromapp=1) ![](assets/new.png)  
 - [2020-12-17-马克龙新冠检测结果呈阳性-法总理卡斯泰作为密接者开始自我隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7g5HrgpKUnI5oBCt52kP201217&isfromapp=1) ![](assets/new.png)  
 - [2020-12-17-香港新增新冠肺炎确诊病例96例-累计确诊7900例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBoInJz4MDxNts2ZCgD7e201217&isfromapp=1) ![](assets/new.png)  
-- [2020-12-17-辽宁鞍山一冷库发现1份巴西产地冷冻牛肉外包装核酸检测结果呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMLM4WWIHTJKEyuCY4oAw201217&isfromapp=1) ![](assets/new.png)  
-- [2020-12-17-四川成都确诊飞行员在江油的密接者核酸检测全部阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifP2B76E9G68pHjT6CLnw201217&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,8 +1074,8 @@
 - [2020-12-17-QA-的价值](https://toutiao.io/k/o99ishx) ![](assets/new.png)  
 - [2020-12-17-关于系统总线你需要了解的](https://toutiao.io/k/dy6na4c) ![](assets/new.png)  
 - [2020-12-17-HTTP/2-协议的一个问题](https://toutiao.io/k/9akkm3w) ![](assets/new.png)  
-- [2020-12-17-推荐-微服务架构下-CI/CD-如何落地](https://toutiao.io/k/303m5ez) ![](assets/new.png)  
-- [2020-12-17-推荐-35-岁以后，不要成为程序员中的钻石](https://toutiao.io/k/gbakyp5) ![](assets/new.png)  
+- [2020-12-17-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
+- [2020-12-17-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

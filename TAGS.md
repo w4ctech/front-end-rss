@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-17 18:10:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 18:36:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -522,8 +522,8 @@
 - [【V2EX】用-Golang-写了个-HTTP/HTTPS-抓包工具](https://www.v2ex.com/t/736545)
 - [【开发者头条】HTTP/2-做错了什么？刚刚辉煌-2-年就要被弃用了！？](https://toutiao.io/k/v5mm32h)
 - [【开发者头条】搞懂-HTTP-重定向：如何优雅地使用-301](https://toutiao.io/k/ap8pnj0)
-- [【开发者头条】论文：Doc2vec-的算法原理、代码实现及应用启发](https://toutiao.io/k/80085xd)
 - [【开发者头条】​多视图立体视觉：CVPR-2019-与-AAAI-2020-上的-ACMH、ACMM-及-ACMP-算法介绍](https://toutiao.io/k/dezpkpg)
+- [【开发者头条】论文：Doc2vec-的算法原理、代码实现及应用启发](https://toutiao.io/k/80085xd)
 - [【开发者头条】HTTP/2-协议的一个问题](https://toutiao.io/k/9akkm3w)
 - [【开发者头条】推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

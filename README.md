@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-17 12:05:45，:rocket: 更新条数: +735， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-17 12:11:30，:rocket: 更新条数: +3668， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-12-17-12月16日全国新增确诊病例7例-均为境外输入](http://m.china.caixin.com/m/2020-12-17/101640110.html) ![](assets/new.png)  
+- [2020-12-17-法国总统马克龙新冠检测呈阳性](http://m.international.caixin.com/m/2020-12-17/101640407.html) ![](assets/new.png)  
+- [2020-12-17-【境内疫情观察】全国新增7例境外输入病例（12月16日）](http://m.database.caixin.com/m/2020-12-17/101640267.html) ![](assets/new.png)  
+- [2020-12-17-大流行手记|12月16日：白宫优先接种疫苗引争议-英国已有14万人接种](http://m.international.caixin.com/m/2020-12-17/101640135.html) ![](assets/new.png)  
+- [2020-12-16-美国报告全球首例本土野生水貂感染新冠](http://m.science.caixin.com/m/2020-12-16/101639905.html) ![](assets/new.png)  
+- [2020-12-16-【境内疫情观察】全国新增12例境外输入病例（12月15日）](http://m.database.caixin.com/m/2020-12-16/101639831.html) ![](assets/new.png)  
+- [2020-12-16-大流行手记|12月15日：加拿大开打疫苗-伦敦防疫措施升级](http://m.international.caixin.com/m/2020-12-16/101639701.html) ![](assets/new.png)  
+- [2020-12-16-美国报告全球首例本土野生水貂感染新冠](http://m.science.caixin.com/m/2020-12-16/101639905.html) ![](assets/new.png)  
+- [2020-12-15-数地现零星本土新冠病例-冬季疫情怎么防？](https://m.caixin.com/m/2020-12-15/101639417.html) ![](assets/new.png)  
+- [2020-12-15-最新海外疫情：新冠感染超7275万-累计死亡超161万](http://m.international.caixin.com/m/2020-12-15/101639566.html) ![](assets/new.png)  
+- [2020-12-15-【境内疫情观察】黑龙江新增2例本土确诊病例（12月14日）](http://m.database.caixin.com/m/2020-12-15/101639393.html) ![](assets/new.png)  
+- [2020-12-15-大流行手记|12月14日：美国启动新冠疫苗紧急接种-报告指45国需外部援助粮食](http://m.international.caixin.com/m/2020-12-15/101639187.html) ![](assets/new.png)  
+- [2020-12-14-【境内疫情观察】黑龙江新增2例本土确诊病例（12月13日）](http://m.database.caixin.com/m/2020-12-14/101638919.html) ![](assets/new.png)  
+- [2020-12-14-大流行手记|12月13日：美国新冠住院超10万人-秘鲁暂停国药疫苗临床试验](http://m.international.caixin.com/m/2020-12-14/101638808.html) ![](assets/new.png)  
+- [2020-12-13-【境内疫情观察】黑龙江新增4例本土确诊病例（12月12日）](http://m.database.caixin.com/m/2020-12-13/101638727.html) ![](assets/new.png)  
+- [2020-12-13-大流行手记|12月12日：六国已批准辉瑞疫苗紧急使用-英提醒关注接种过敏](http://m.international.caixin.com/m/2020-12-13/101638714.html) ![](assets/new.png)  
+- [2020-12-12-【境内疫情观察】全国新增13例境外输入病例（12月11日）](http://m.database.caixin.com/m/2020-12-12/101638660.html) ![](assets/new.png)  
+- [2020-12-12-大流行手记|12月11日：昆士兰大学新冠疫苗或致HIV假阳-赛诺菲疫苗研发受挫](http://m.international.caixin.com/m/2020-12-12/101638563.html) ![](assets/new.png)  
+- [2020-12-12-聚焦|张文宏：全球启动疫苗接种计划，疫情控制关键节点何时出现](http://m.opinion.caixin.com/m/2020-12-12/101638702.html) ![](assets/new.png)  
+- [2020-12-11-港府向科兴和复星采购1500万剂新冠疫苗-首批下月到港](http://m.china.caixin.com/m/2020-12-11/101638300.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -974,6 +994,8 @@
 </summary>
 
 
+- [2020-12-17-黑五软件包里还有-Movavi-Screen-Recorder-2021，-uTalk，-Gemini-2，-Art-Text-4](https://www.v2ex.com/t/736528) ![](assets/new.png)  
+- [2020-12-17-想问问大家工作时候都是，对工作的内容得心应手，没任何的担心，还是有可能遇到的是不懂的，但是迎着头皮做的。](https://www.v2ex.com/t/736527) ![](assets/new.png)  
 - [2020-12-17-iCloud-丢数据？](https://www.v2ex.com/t/736526) ![](assets/new.png)  
 - [2020-12-17-12.03-号阿里云分享链接领卫衣的同学们，你们收到了吗。](https://www.v2ex.com/t/736525) ![](assets/new.png)  
 - [2020-12-17-macbook-pro-m1-翻车](https://www.v2ex.com/t/736524) ![](assets/new.png)  
@@ -992,8 +1014,6 @@
 - [2020-12-17-请问一下各位前辈，哪个论坛有-root、magisk、xposed-相关教程额？现在网上很多都很分散不集中，有效信息很难获得](https://www.v2ex.com/t/736506) ![](assets/new.png)  
 - [2020-12-17-阿里云-datav-强制涨价-20-倍能忍？在线-pk-中](https://www.v2ex.com/t/736504) ![](assets/new.png)  
 - [2020-12-17-基于-Java-好多的企业应用开发可视化工具，为什么-PHP-没有？或者我没找到？](https://www.v2ex.com/t/736503) ![](assets/new.png)  
-- [2020-12-17-电信企宽崩了……](https://www.v2ex.com/t/736502) ![](assets/new.png)  
-- [2020-12-17-FinTech-社区-招聘：基金经理助理（量化）-有竞争力的薪资-上海](https://www.v2ex.com/t/736501) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,18 +1064,18 @@
 - [2020-12-17-信任的传递：为什么我们需要第三方授权？](https://toutiao.io/k/qbrsb6o) ![](assets/new.png)  
 - [2020-12-17-MySQL-字符集，永恒的痛](https://toutiao.io/k/r6nxi4d) ![](assets/new.png)  
 - [2020-12-17-SPI-在-Dubbo-中的应用](https://toutiao.io/k/eotgg8e) ![](assets/new.png)  
-- [2020-12-17-期待已久的-beego-2.0-来了，最简单易用的企业级应用开发框架](https://toutiao.io/k/65v2m0l) ![](assets/new.png)  
 - [2020-12-17-搞懂-HTTP-重定向：如何优雅地使用-301](https://toutiao.io/k/ap8pnj0) ![](assets/new.png)  
+- [2020-12-17-期待已久的-beego-2.0-来了，最简单易用的企业级应用开发框架](https://toutiao.io/k/65v2m0l) ![](assets/new.png)  
 - [2020-12-17-图解-Flink-Checkpoint-原理及在-1.11-版本的优化](https://toutiao.io/k/ityql6i) ![](assets/new.png)  
 - [2020-12-17-​多视图立体视觉：CVPR-2019-与-AAAI-2020-上的-ACMH、ACMM-及-ACMP-算法介绍](https://toutiao.io/k/dezpkpg) ![](assets/new.png)  
 - [2020-12-17-论文：Doc2vec-的算法原理、代码实现及应用启发](https://toutiao.io/k/80085xd) ![](assets/new.png)  
-- [2020-12-17-Zoho-中国-CEO-侯康宁：每条新曲线背后都是骨肉之痛，长期主义基于战略定力](https://toutiao.io/k/axv1ia7) ![](assets/new.png)  
 - [2020-12-17-关于系统总线你需要了解的](https://toutiao.io/k/dy6na4c) ![](assets/new.png)  
+- [2020-12-17-Zoho-中国-CEO-侯康宁：每条新曲线背后都是骨肉之痛，长期主义基于战略定力](https://toutiao.io/k/axv1ia7) ![](assets/new.png)  
 - [2020-12-17-八皇后问题](https://toutiao.io/k/fnk52qi) ![](assets/new.png)  
 - [2020-12-17-QA-的价值](https://toutiao.io/k/o99ishx) ![](assets/new.png)  
 - [2020-12-17-HTTP/2-协议的一个问题](https://toutiao.io/k/9akkm3w) ![](assets/new.png)  
-- [2020-12-17-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
 - [2020-12-17-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
+- [2020-12-17-推荐-彻底搞懂-IO-底层原理](https://toutiao.io/k/493onla) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

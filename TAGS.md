@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-17 04:09:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 04:38:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -454,9 +454,9 @@
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】发现低端手机有阉割-4G-网络性能的嫌疑（同参数的手机）](https://www.v2ex.com/t/736320)
 - [【技术头条】白话科普系列——网站靠什么提升加载速度？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14051&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F336150534%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】图解-Flink-Checkpoint-原理及在-1.11-版本的优化](https://toutiao.io/k/ityql6i)
-- [【开发者头条】推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305)
 - [【开发者头条】推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8)
 - [【开发者头条】推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -530,7 +530,7 @@
 - [【开发者头条】搞懂-HTTP-重定向：如何优雅地使用-301](https://toutiao.io/k/ap8pnj0)
 - [【开发者头条】论文：Doc2vec-的算法原理、代码实现及应用启发](https://toutiao.io/k/80085xd)
 - [【开发者头条】HTTP/2-协议的一个问题](https://toutiao.io/k/9akkm3w)
-- [【开发者头条】推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho)
+- [【安全热点】中招目标首次披露:SolarWinds供应链攻击相关域名生成算法可破解!](https://sec.thief.one/article_content?a_id=e5899f5f9477317ba0d0af5da26c4807)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

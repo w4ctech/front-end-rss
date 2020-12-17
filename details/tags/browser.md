@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-17 11:31:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 11:39:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -49,7 +49,6 @@
 - [2020-12-17-为什么在-chrome-上登录-apple.com.cn-每次都要二次验证呀](https://www.v2ex.com/t/736488) 
 - [2020-12-17-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-17-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
-- [2020-12-17-推荐-四种缓存的避坑总结](https://toutiao.io/k/fzh8zfu) 
 - [2020-12-17-聚焦数据安全合规管控-世平信息完成数千万元B轮融资丨数据安全](https://sec.thief.one/article_content?a_id=4fd89ff847a3daf0d597d9608d0ddee8) 
 - [2020-12-17-每日安全动态推送12-17](https://sec.thief.one/article_content?a_id=4de563d4bd839d1f98ed7c70d58cea42) 
 - [2020-12-17-转:回馈客户|信息安全意识台历持续8年相伴](https://sec.thief.one/article_content?a_id=468fc2a93efe1503e81b648fb3101561) 

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-12-17 04:38:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 04:46:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Nodejs技术栈
 
 
 
 
+- [2020-12-17-Egg-+-Vue-+-MongoDB-实践开发在线文档管理平台](https://www.ershicimi.com/p/11586863038539ea757d7e75c7aa45b3) 
+- [2020-12-16-前端科普系列（3）：CommonJS-不是前端却革命了前端](https://www.ershicimi.com/p/f803c835e0429302da18885a5c1987d0) 
+- [2020-12-15-Vue3-+-TypeScript-完整项目上手教程](https://www.ershicimi.com/p/ca145a9692f57294c486b226b127066d) 
+- [2020-12-14-“前端基建做过没？讲下你是如何做架构设计的。”](https://www.ershicimi.com/p/2ffca5c102b734f19e1277695eb9e2c5) 
 - [2020-12-10-前端科普系列（2）：Node.js-换个角度看世界](https://www.ershicimi.com/p/3962ce76cd801e71000604c56a3acced) 
 - [2020-12-09-年底了，给想要进阶的前端朋友一些小建议](https://www.ershicimi.com/p/f24eaed1f4eda8b86254e97654bed616) 
 - [2020-12-07-探索异步迭代器在-Node.js-中的使用](https://www.ershicimi.com/p/dfb30d6c338000014dd14e00733f6d3c) 
@@ -21,7 +25,3 @@
 - [2020-11-05-Redis-+-NodeJS-实现一个能处理海量数据的异步任务队列系统](https://www.ershicimi.com/p/e723e1b5f513d9e6d1296ac748c18acb) 
 - [2020-11-04-推荐一个京东、字节等大佬维护的宝藏技术号](https://www.ershicimi.com/p/558eb037d427262f349dfc6722a4b996) 
 - [2020-11-03-【译】Node-模块之战：为什么-CommonJS-和-ES-Module-不能共存？](https://www.ershicimi.com/p/d4abd33eb8b658527deeee0da8a56f21) 
-- [2020-11-02-看到某某大神分享的-Node-干货，怀疑自己是不是又掉队了？](https://www.ershicimi.com/p/d8b25533765e1712955c83e766153a9b) 
-- [2020-10-30-树莓派-+-Node.js-造一个有灵魂的语音助手](https://www.ershicimi.com/p/4c780d041b132fd53cc93ba0d1fbe479) 
-- [2020-10-29-Node.js-v14.15.0-已发布进入-LTS-长期支持](https://www.ershicimi.com/p/f81434601f21c7f9618b604e347e97fe) 
-- [2020-10-26-自定义根证书颁发机构-CA-生成自签名证书](https://www.ershicimi.com/p/f892fb47928f9871a390b85e3a673059) 

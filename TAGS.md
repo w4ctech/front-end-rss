@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-17 14:09:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 14:34:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -202,6 +202,7 @@
 - [【前端日刊】推荐一个小程序实战项目！0基础可做](https://www.ershicimi.com/p/18c08bde7a831bbd26ace73f5cd169ee)
 - [【前端日刊】小程序开发其实不难！学会这几个组件你也会](https://www.ershicimi.com/p/89fa25c16114790ca3b257faed3da5de)
 - [【JavaScript】推荐一个小程序实战项目！0基础可做](https://www.ershicimi.com/p/101ffccef2fa9c22d157a7664725b323)
+- [【掘金前端】Taro-周报-#7:-收获「e代驾」案例，发布-v2.2.16-和-v3.2.0-canary.2](https://juejin.im/post/6907229647294726157)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
 - [【V2EX】微信小程序支持封面广告了](https://www.v2ex.com/t/736551)
 - [......【查看更多】......](./details/tags/miniprogram.md)
@@ -397,7 +398,6 @@
 - [【技术头条】白话科普系列——网站靠什么提升加载速度？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14051&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F336150534%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】图解-Flink-Checkpoint-原理及在-1.11-版本的优化](https://toutiao.io/k/ityql6i)
 - [【开发者头条】推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305)
-- [【开发者头条】推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5)
 - [【开发者头条】推荐-MySQL-查询性能优化前，必须先掌握-MySQL-索引理论](https://toutiao.io/k/klmrzk8)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -461,8 +461,8 @@
 - [【V2EX】用-Golang-写了个-HTTP/HTTPS-抓包工具](https://www.v2ex.com/t/736545)
 - [【开发者头条】HTTP/2-做错了什么？刚刚辉煌-2-年就要被弃用了！？](https://toutiao.io/k/v5mm32h)
 - [【开发者头条】搞懂-HTTP-重定向：如何优雅地使用-301](https://toutiao.io/k/ap8pnj0)
-- [【开发者头条】论文：Doc2vec-的算法原理、代码实现及应用启发](https://toutiao.io/k/80085xd)
 - [【开发者头条】​多视图立体视觉：CVPR-2019-与-AAAI-2020-上的-ACMH、ACMM-及-ACMP-算法介绍](https://toutiao.io/k/dezpkpg)
+- [【开发者头条】论文：Doc2vec-的算法原理、代码实现及应用启发](https://toutiao.io/k/80085xd)
 - [【开发者头条】HTTP/2-协议的一个问题](https://toutiao.io/k/9akkm3w)
 - [【开发者头条】推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho)
 - [【安全热点】中招目标首次披露:SolarWinds供应链攻击相关域名生成算法可破解!](https://sec.thief.one/article_content?a_id=e5899f5f9477317ba0d0af5da26c4807)
@@ -613,7 +613,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】12月16日全国新增确诊病例7例-均为境外输入](http://m.china.caixin.com/m/2020-12-17/101640110.html)
-- [【武汉肺炎防疫全纪录(财新网)】法国总统马克龙新冠检测呈阳性](http://m.international.caixin.com/m/2020-12-17/101640407.html)
+- [【武汉肺炎防疫全纪录(财新网)】法国总统马克龙确诊新冠-西葡领导人将因密接隔离](http://m.international.caixin.com/m/2020-12-17/101640407.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增7例境外输入病例（12月16日）](http://m.database.caixin.com/m/2020-12-17/101640267.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月16日：白宫优先接种疫苗引争议-英国已有14万人接种](http://m.international.caixin.com/m/2020-12-17/101640135.html)
 - [【武汉肺炎防疫全纪录(财新网)】美国报告全球首例本土野生水貂感染新冠](http://m.science.caixin.com/m/2020-12-16/101639905.html)

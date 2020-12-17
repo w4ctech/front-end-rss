@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-17 22:59:12，:rocket: 更新条数: +3874， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-17 23:10:17，:rocket: 更新条数: +3873， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1071,11 +1071,11 @@
 - [2020-12-17-​多视图立体视觉：CVPR-2019-与-AAAI-2020-上的-ACMH、ACMM-及-ACMP-算法介绍](https://toutiao.io/k/dezpkpg) ![](assets/new.png)  
 - [2020-12-17-论文：Doc2vec-的算法原理、代码实现及应用启发](https://toutiao.io/k/80085xd) ![](assets/new.png)  
 - [2020-12-17-八皇后问题](https://toutiao.io/k/fnk52qi) ![](assets/new.png)  
-- [2020-12-17-关于系统总线你需要了解的](https://toutiao.io/k/dy6na4c) ![](assets/new.png)  
 - [2020-12-17-QA-的价值](https://toutiao.io/k/o99ishx) ![](assets/new.png)  
+- [2020-12-17-关于系统总线你需要了解的](https://toutiao.io/k/dy6na4c) ![](assets/new.png)  
 - [2020-12-17-HTTP/2-协议的一个问题](https://toutiao.io/k/9akkm3w) ![](assets/new.png)  
-- [2020-12-17-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
-- [2020-12-17-推荐-微服务架构下-CI/CD-如何落地](https://toutiao.io/k/303m5ez) ![](assets/new.png)  
+- [2020-12-17-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
+- [2020-12-17-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-18 18:15:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-18 18:42:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -37,5 +37,4 @@
 - [2020-12-18-Magic-Keyboard-妙控键盘-如何-防止-磨损？](https://www.v2ex.com/t/736903) 
 - [2020-12-18-v-站的朋友有从事电商的吗？](https://www.v2ex.com/t/736902) 
 - [2020-12-18-macbook-m1-目前很完美的一个便携-hub](https://www.v2ex.com/t/736901) 
-- [2020-12-18-值得升级-Big-Sur-吗？](https://www.v2ex.com/t/736900) 
 - [2020-12-18-西瓜视频的-PC-web-端是撤销了吗？](https://www.v2ex.com/t/736899) 

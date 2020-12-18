@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-18 08:59:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-18 09:11:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -21,10 +21,6 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2020-12-09-【第2142期】Chrome浏览器Referrer-Policy默认值变更](https://www.ershicimi.com/p/a1e5f72d1817a22d47e452fe88172faa) 
-- [2020-12-14-跨域，不止CORS](https://www.ershicimi.com/p/4c1957186e134e081e700b2fc46e7733) 
-- [2020-12-11-前端前沿观察，Cookie-居然可以这样整了](https://www.ershicimi.com/p/bfd223b8e85452ebd67a19509a3d6021) 
-- [2020-12-04-前端-api-请求缓存的-5-种方案](https://www.ershicimi.com/p/0739f868c16f1fc66b41e39b676c2588) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -38,7 +34,6 @@
 - [2020-12-18-mac-开发的页面到-windows-经常错位，同用-chrome](https://www.v2ex.com/t/736815) 
 - [2020-12-18-请问自用的-Flask-API-把开发模式当生产用有什么安全隐患](https://www.v2ex.com/t/736813) 
 - [2020-12-18-新版-EDGE-怎么能在按-alt+tab-的时候不拆分标签啊](https://www.v2ex.com/t/736798) 
-- [2020-12-18-推荐-缓存击穿、穿透、雪崩简单总结](https://toutiao.io/k/yehwkm6) 
 - [2020-12-18-报名倒计时5天-|-2020网络安全行业生态大会暨金帽子年度盛典日程出炉](https://sec.thief.one/article_content?a_id=8ec6fe270d2945ec4849b26c6ddc8c1b) 
 - [2020-12-18-了解PostgreSQL逻辑复制中的历史快照](https://sec.thief.one/article_content?a_id=4c0ec26a46aa8bbabfc5dd92d18c9169) 
 - [2020-12-18-《2020年数字安全十大产业方向、十大技术赛道研究报告》全文](https://sec.thief.one/article_content?a_id=09e12c9915c5befd787e7e8f1a78e7e1) 

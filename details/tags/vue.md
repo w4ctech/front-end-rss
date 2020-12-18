@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-18 02:11:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-18 02:47:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -17,11 +17,10 @@
 - [2020-11-23-开发一个基于-Vue3.0-的组件库是一种怎样的体验？](https://www.ershicimi.com/p/29af70722217007e98923c97b7c9bde5) 
 - [2020-12-16-最火的-Vue-前端框架，你用对了么？](https://www.ershicimi.com/p/22192dc16df677b659d8ee42082d829d) 
 - [2020-12-10-Vue-项目打包部署总结](https://www.ershicimi.com/p/cd8585626a3a5e222c6a8027a78efa12) 
+- [2020-12-17-最全-Vue-知识点（基础到进阶覆盖vue3）](https://www.ershicimi.com/p/2d9dada399dae6080c2c4acb0c34ec19) 
+- [2020-12-15-2021年前端VUE面试题从入门到入魔](https://www.ershicimi.com/p/80afaeef0d6f085438991042009096bc) 
 - [2020-12-14-来一起用-Vue3.0-做个飞机大战游戏](https://www.ershicimi.com/p/023beebe77d2ea7ff8ce6082d7d1a196) 
 - [2020-12-10-研究Vue源码时发现的一些好玩函数](https://www.ershicimi.com/p/d1f20cb0e5693e09b1aa4cfdcef70547) 
-- [2020-12-02-让Jenkins自动布署你的Vue项目](https://www.ershicimi.com/p/ae7b2d36902a68389ec286724192085e) 
-- [2020-11-30-手把手带你从零打造Vue-SSR，清晰易懂！](https://www.ershicimi.com/p/03fbc5ed410b4f8545f2743932866dac) 
-- [2020-11-26-用一个实战项目快速入门VUE3.0！](https://www.ershicimi.com/p/b1d7a0c795534b95f9f23755e07a747b) 
 - [2020-06-17-视频蒋豪群聊聊Vue-3-周边项目](https://www.ershicimi.com/p/2a12d97dd7bb04af90078ddf2b9f196d) 
 - [2020-06-08-Vue3三连发，这期聊聊Vue-3周边项目](https://www.ershicimi.com/p/97695ac09543799ef0ccda9e2479572e) 
 - [2020-04-27-视频Vue.js-3.0-什么时候可以投入生产使用](https://www.ershicimi.com/p/62da65e218585b265a4ddc89ca674b0b) 
@@ -70,6 +69,5 @@
 - [2020-12-02-只会-Vue-，已经没前途了](https://www.ershicimi.com/p/0f6da4a6bf5b014b546bdbbd882fdfd4) 
 - [2020-11-26-从0到1熟悉VUE，只需3天！](https://www.ershicimi.com/p/cda44a7d05868dc91f7414c2439d5a92) 
 - [2020-11-23-如果Element-UI-不维护了，也不支持-Vue3.0-了，怎么办？](https://www.ershicimi.com/p/5c6101bea521ded8894ea81e09dfae85) 
-- [2020-12-17-Vite使Vue-CLI过时了吗？](https://juejin.im/post/6907269427520077837) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 

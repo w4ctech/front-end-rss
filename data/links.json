@@ -18197,6 +18197,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "jsliang 求职系列 - 46 - 简历",
+        "link": "https://juejin.im/post/6907374887866892295",
+        "date": "2020-12-17"
+      },
+      {
         "title": "Vite使Vue CLI过时了吗？",
         "link": "https://juejin.im/post/6907269427520077837",
         "date": "2020-12-17"
@@ -18209,11 +18214,6 @@
       {
         "title": "从Weex到Web，性能逆势破局！飞猪双11性能优化实践",
         "link": "https://juejin.im/post/6907212467122733070",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "仿抖音视频全屏播放&滑动切换",
-        "link": "https://juejin.im/post/6907210240773586951",
         "date": "2020-12-17"
       },
       {
@@ -18606,6 +18606,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "留学服务中心网上服务大厅你家付款二维码出不来了",
+        "link": "https://www.v2ex.com/t/736604",
+        "date": "2020-12-18"
+      },
+      {
         "title": "[远程兼职或全职] 谁会 Typescript ?",
         "link": "https://www.v2ex.com/t/736602",
         "date": "2020-12-17"
@@ -18764,11 +18769,6 @@
         "title": "为啥 gmail app 无法设置所有邮件已读？将来是否会做此功能？",
         "link": "https://www.v2ex.com/t/736555",
         "date": "2020-12-17"
-      },
-      {
-        "title": "在自定义 XML 文件中引用 string 资源时，如何让 IDE 智能提示来完整输入",
-        "link": "https://www.v2ex.com/t/736554",
-        "date": "2020-12-17"
       }
     ]
   },
@@ -18780,102 +18780,102 @@
       {
         "title": "信任的传递——为什么我们需要第三方授权？ (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14053&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-third-party-authorization%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "程序员才懂的“凡尔赛语录” (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14052&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9jdf7YN4_pIHKumAvvltLQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "白话科普系列——网站靠什么提升加载速度？ (zhuanlan.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14051&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F336150534%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "银行规模化敏捷的窘境 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14050&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fscale-agile-transformation-four-steps%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "我的笔记系统 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14049&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fnote-taking-system%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "使用 DDD 指导微服务拆分的逻辑 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14048&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-split-microservices%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "码仔漫画｜重学设计模式之装饰者模式 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14047&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwjyke4sj-fv324ApHGLuRA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "机器学习平台带给QA的挑战 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14046&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmachine-learning-platform-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "码仔漫画 | TCP的三次握手 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14045&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FA-M_8NTW5OHW2olQFg7zkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "通俗易懂的解释下前复权，不复权和后复权的区别 (www.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14044&url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F31004373%2Fanswer%2F242862540%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "点触科技上云 构建实时计算和数据仓库 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14042&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7589%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "在云之上的猿辅导，撑住500万中小学生的挑战 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14041&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8969%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "酒类服务平台云上安全防护 保护消费者个人信息 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "冠赢网络上云 游戏盾彻底解决DDoS/CC攻击 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14039&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9097%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "58到家为2000万家庭提供上门生活服务的背后是云计算的高效支撑 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14038&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F4971%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "母婴企业上云 实现线上线下互动营销、一体化管理服务 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14037&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F6721%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "上学帮上云 阿里云助力教育资讯平台防爬虫 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14036&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F9197%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "微服务架构下 CI/CD 如何落地 (zhuanlan.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14035&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F328238514%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "百家云借助“容器+神龙”三天内实现数十倍扩容 (yqh.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14034&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F8289%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       }
     ]
   },
@@ -18887,157 +18887,157 @@
       {
         "title": "HTTP/2 做错了什么？刚刚辉煌 2 年就要被弃用了！？",
         "link": "https://toutiao.io/k/v5mm32h",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "美团 Commit Log 规范",
         "link": "https://toutiao.io/k/r6tsfdv",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "京东实时数据仓库开发实践",
         "link": "https://toutiao.io/k/esii5qo",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "数据分析：复杂业务场景下，量化评估流程",
         "link": "https://toutiao.io/k/9fplpyf",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "并发编程：信号量的使用方法和其实现原理",
         "link": "https://toutiao.io/k/59jykba",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "信任的传递：为什么我们需要第三方授权？",
         "link": "https://toutiao.io/k/qbrsb6o",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "SPI 在 Dubbo 中的应用",
         "link": "https://toutiao.io/k/eotgg8e",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "期待已久的 beego 2.0 来了，最简单易用的企业级应用开发框架",
         "link": "https://toutiao.io/k/65v2m0l",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "MySQL 字符集，永恒的痛",
         "link": "https://toutiao.io/k/r6nxi4d",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "搞懂 HTTP 重定向：如何优雅地使用 301",
         "link": "https://toutiao.io/k/ap8pnj0",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "Zoho 中国 CEO 侯康宁：每条新曲线背后都是骨肉之痛，长期主义基于战略定力",
         "link": "https://toutiao.io/k/axv1ia7",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "图解 Flink Checkpoint 原理及在 1.11 版本的优化",
         "link": "https://toutiao.io/k/ityql6i",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "​多视图立体视觉：CVPR 2019 与 AAAI 2020 上的 ACMH、ACMM 及 ACMP 算法介绍",
         "link": "https://toutiao.io/k/dezpkpg",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "论文：Doc2vec 的算法原理、代码实现及应用启发",
         "link": "https://toutiao.io/k/80085xd",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "八皇后问题",
         "link": "https://toutiao.io/k/fnk52qi",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "QA 的价值",
         "link": "https://toutiao.io/k/o99ishx",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "关于系统总线你需要了解的",
         "link": "https://toutiao.io/k/dy6na4c",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "HTTP/2 协议的一个问题",
         "link": "https://toutiao.io/k/9akkm3w",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] explain：索引优化的这把绝世好剑，你真的会用吗？",
-        "link": "https://toutiao.io/k/y3en305",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] MySQL 优化神器",
-        "link": "https://toutiao.io/k/qg5adh5",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] 分布式搜索引擎 Elasticsearch 的架构分析",
-        "link": "https://toutiao.io/k/j4aoyho",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "[推荐] 爱奇艺微服务标准技术架构实践",
         "link": "https://toutiao.io/k/nm97hxh",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] 缓存击穿、穿透、雪崩简单总结",
-        "link": "https://toutiao.io/k/yehwkm6",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] 记一次 MySQL 的 insert 死锁",
-        "link": "https://toutiao.io/k/mbyee1y",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] 35 岁以后，不要成为程序员中的钻石",
-        "link": "https://toutiao.io/k/gbakyp5",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] 带你扒一扒 MySQL 的数据在磁盘上到底长什么样子",
-        "link": "https://toutiao.io/k/s6jntn5",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "[推荐] 生产力工具",
-        "link": "https://toutiao.io/k/ltecz1p",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
         "title": "[推荐] Go 错误处理最佳实践",
         "link": "https://toutiao.io/k/lodfgxd",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
       },
       {
-        "title": "[推荐] 微服务架构下 CI/CD 如何落地",
-        "link": "https://toutiao.io/k/303m5ez",
-        "date": "2020-12-17"
+        "title": "[推荐] 分布式搜索引擎 Elasticsearch 的架构分析",
+        "link": "https://toutiao.io/k/j4aoyho",
+        "date": "2020-12-18"
       },
       {
-        "title": "[推荐] 求你别再用 Swagger 了，给你推荐几个在线文档生成神器",
-        "link": "https://toutiao.io/k/ftaw3bc",
-        "date": "2020-12-17"
+        "title": "[推荐] 记一次 MySQL 的 insert 死锁",
+        "link": "https://toutiao.io/k/mbyee1y",
+        "date": "2020-12-18"
       },
       {
         "title": "[推荐] 漫话 Docker 的衰落与 Kubernetes 的兴起",
         "link": "https://toutiao.io/k/h3ooyse",
-        "date": "2020-12-17"
+        "date": "2020-12-18"
+      },
+      {
+        "title": "[推荐] 求你别再用 Swagger 了，给你推荐几个在线文档生成神器",
+        "link": "https://toutiao.io/k/ftaw3bc",
+        "date": "2020-12-18"
+      },
+      {
+        "title": "[推荐] explain：索引优化的这把绝世好剑，你真的会用吗？",
+        "link": "https://toutiao.io/k/y3en305",
+        "date": "2020-12-18"
+      },
+      {
+        "title": "[推荐] 生产力工具",
+        "link": "https://toutiao.io/k/ltecz1p",
+        "date": "2020-12-18"
+      },
+      {
+        "title": "[推荐] 微服务架构下 CI/CD 如何落地",
+        "link": "https://toutiao.io/k/303m5ez",
+        "date": "2020-12-18"
+      },
+      {
+        "title": "[推荐] MySQL 优化神器",
+        "link": "https://toutiao.io/k/qg5adh5",
+        "date": "2020-12-18"
+      },
+      {
+        "title": "[推荐] 缓存击穿、穿透、雪崩简单总结",
+        "link": "https://toutiao.io/k/yehwkm6",
+        "date": "2020-12-18"
+      },
+      {
+        "title": "[推荐] 35 岁以后，不要成为程序员中的钻石",
+        "link": "https://toutiao.io/k/gbakyp5",
+        "date": "2020-12-18"
+      },
+      {
+        "title": "[推荐] 带你扒一扒 MySQL 的数据在磁盘上到底长什么样子",
+        "link": "https://toutiao.io/k/s6jntn5",
+        "date": "2020-12-18"
       }
     ]
   },

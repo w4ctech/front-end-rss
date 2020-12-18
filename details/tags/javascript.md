@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-18 04:23:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-18 04:49:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -75,6 +75,7 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-12-18-正则表达式的简化？](https://www.v2ex.com/t/736725) 
 - [2020-12-17-证监会就《证券期货业网络安全事件报告与调查处理办法》征求意见](https://sec.thief.one/article_content?a_id=0292f0ba750a5ec1f0c285e921d24dc0) 
 - [2020-12-17-pbootcms最新版本前台捡的rce-论如何绕废正则](https://sec.thief.one/article_content?a_id=ff72f88a47f5ba5ebd847c3cb4d7a9b6) 
 - [2020-12-16-SolarWinds供应链攻击事件分析](https://sec.thief.one/article_content?a_id=80e1b6dbc47096f83470dceb3ffbb07a) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-18 04:23:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-18 04:49:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,6 +86,7 @@
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-12-14-学而思网校直播课堂架构演进之路](https://www.ershicimi.com/p/516e1db057bf695b89f7faf10b38f43a) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2020-12-18-一起恰波饭。有没有搞视频监控的-V-友，怎么获取-GB28281-的视频流，并且获取设备的位置信息？](https://www.v2ex.com/t/736726) 
 - [2020-12-18-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-17-视频直播卡顿不流畅?5000余家网站遭遇了这批黑客攻击!](https://sec.thief.one/article_content?a_id=fb9ea1a2abbaaa179745f1b0816a25df) 
 - [2020-12-17-【视频】|-金融行业信息安全领域新技术的应用分析](https://sec.thief.one/article_content?a_id=109a153f8585627523ba777bf2c272c3) 

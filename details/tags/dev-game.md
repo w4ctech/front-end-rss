@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-18 17:50:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-18 17:58:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-12-12-初学前端用代码实现一个网页老虎机游戏](https://www.ershicimi.com/p/20311bb10b40059570694d4621e006d1) 
 - [2018-12-23-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/) 
 - [2018-01-28-H5游戏开发：FC小蜜蜂](https://aotu.io/notes/2018/01/28/galaxian/) 
 - [2018-01-17-H5游戏开发：消灭星星](https://aotu.io/notes/2018/01/17/popstar/) 
@@ -27,6 +28,3 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
-- [2020-12-18-希望通过-V-站老哥们了解一下-0755-的游戏及游戏相关行业现状。](https://www.v2ex.com/t/736927) 
-- [2020-12-18-0757-的谁安了新出的广东移动-500m-游戏宽带](https://www.v2ex.com/t/736911) 
-- [2020-12-18-游戏场景原画-1-年工作经验的场景原画求职](https://www.v2ex.com/t/736910) 

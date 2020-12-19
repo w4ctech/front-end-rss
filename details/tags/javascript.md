@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-19 02:08:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-19 02:46:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -70,6 +70,7 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [2020-12-19-菜鸟发问：原生或-jQuery-封装的-Ajax-和-Promise-封装的-Ajax-哪个优先级更高？](https://www.v2ex.com/t/736977) 
 - [2020-12-18-麻烦大佬帮我看个正则表达式，半天没研究懂。。](https://www.v2ex.com/t/736944) 
 - [2020-12-18-漏洞情报|Jackson-databind反序列化漏洞风险通告CVE-2020-35490,...](https://sec.thief.one/article_content?a_id=54feb356eb3bd5285b88947e1870e1a5) 
 - [2020-12-17-证监会就《证券期货业网络安全事件报告与调查处理办法》征求意见](https://sec.thief.one/article_content?a_id=0292f0ba750a5ec1f0c285e921d24dc0) 

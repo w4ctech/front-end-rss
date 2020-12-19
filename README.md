@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-19 05:09:09，:rocket: 更新条数: +3864， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-19 05:33:39，:rocket: 更新条数: +920， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-12-19-12月18日全国新增确诊病例17例-本土病例3例](http://m.china.caixin.com/m/2020-12-19/101641011.html) ![](assets/new.png)  
-- [2020-12-19-大流行手记|12月18日：欧盟拟提前评估辉瑞疫苗-部分非洲国家没钱大量购疫苗](http://m.international.caixin.com/m/2020-12-19/101641005.html) ![](assets/new.png)  
-- [2020-12-18-北京新增1例境外输入确诊病例关联病例-为14日确诊病例密接者](http://m.china.caixin.com/m/2020-12-18/101640837.html) ![](assets/new.png)  
-- [2020-12-18-全球疫苗协作中国如何参与？学者：双边与多边路径须并行](http://m.international.caixin.com/m/2020-12-18/101640781.html) ![](assets/new.png)  
-- [2020-12-18-研究：新冠抗体五个月内降至较低水平-但不意味着失去保护](http://m.science.caixin.com/m/2020-12-18/101640573.html) ![](assets/new.png)  
-- [2020-12-18-最新海外疫情：新冠感染超7485万-累计死亡超165万](http://m.international.caixin.com/m/2020-12-18/101640711.html) ![](assets/new.png)  
-- [2020-12-18-【境内疫情观察】四川新增1例本土病例（12月17日）](http://m.database.caixin.com/m/2020-12-18/101640627.html) ![](assets/new.png)  
-- [2020-12-18-大流行手记|12月17日：欧洲多名政要隔离-东京医疗资源告急](http://m.international.caixin.com/m/2020-12-18/101640522.html) ![](assets/new.png)  
-- [2020-12-18-WHO官员称2021年底疫苗应可覆盖全球高危人群](https://m.caixin.com/m/2020-12-18/101640566.html) ![](assets/new.png)  
-- [2020-12-17-【境内疫情观察】全国新增7例境外输入病例（12月16日）](http://m.database.caixin.com/m/2020-12-17/101640267.html) ![](assets/new.png)  
-- [2020-12-17-大流行手记|12月16日：白宫优先接种疫苗引争议-英国已有14万人接种](http://m.international.caixin.com/m/2020-12-17/101640135.html) ![](assets/new.png)  
-- [2020-12-17-法国总统马克龙确诊新冠-西葡领导人将因密接隔离](http://m.international.caixin.com/m/2020-12-17/101640407.html) ![](assets/new.png)  
-- [2020-12-16-【境内疫情观察】全国新增12例境外输入病例（12月15日）](http://m.database.caixin.com/m/2020-12-16/101639831.html) ![](assets/new.png)  
-- [2020-12-16-大流行手记|12月15日：加拿大开打疫苗-伦敦防疫措施升级](http://m.international.caixin.com/m/2020-12-16/101639701.html) ![](assets/new.png)  
-- [2020-12-16-美国报告全球首例本土野生水貂感染新冠](http://m.science.caixin.com/m/2020-12-16/101639905.html) ![](assets/new.png)  
-- [2020-12-16-美国报告全球首例本土野生水貂感染新冠](http://m.science.caixin.com/m/2020-12-16/101639905.html) ![](assets/new.png)  
-- [2020-12-15-数地现零星本土新冠病例-冬季疫情怎么防？](https://m.caixin.com/m/2020-12-15/101639417.html) ![](assets/new.png)  
-- [2020-12-15-【境内疫情观察】黑龙江新增2例本土确诊病例（12月14日）](http://m.database.caixin.com/m/2020-12-15/101639393.html) ![](assets/new.png)  
-- [2020-12-15-大流行手记|12月14日：美国启动新冠疫苗紧急接种-报告指45国需外部援助粮食](http://m.international.caixin.com/m/2020-12-15/101639187.html) ![](assets/new.png)  
-- [2020-12-14-【境内疫情观察】黑龙江新增2例本土确诊病例（12月13日）](http://m.database.caixin.com/m/2020-12-14/101638919.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -974,6 +954,8 @@
 </summary>
 
 
+- [2020-12-19-前端工程师招聘可远程](https://www.v2ex.com/t/737025) ![](assets/new.png)  
+- [2020-12-19-three.js-如何根据-mvp-矩阵来做渲染啊？](https://www.v2ex.com/t/737022) ![](assets/new.png)  
 - [2020-12-19-推广+抽奖每天抽一位现金红包，有钱的捧个钱场，没钱的捧个人场](https://www.v2ex.com/t/737020) ![](assets/new.png)  
 - [2020-12-19-给想尽早拿驾照的上班族推荐个驾校教练深圳宝安](https://www.v2ex.com/t/737019) ![](assets/new.png)  
 - [2020-12-19-对开源的一些思考与想法](https://www.v2ex.com/t/737018) ![](assets/new.png)  
@@ -983,13 +965,11 @@
 - [2020-12-19-flask-的-Working-outside-of-application-context-求助](https://www.v2ex.com/t/737014) ![](assets/new.png)  
 - [2020-12-19-为什么全局懒加载没有生效呢？](https://www.v2ex.com/t/737012) ![](assets/new.png)  
 - [2020-12-19-进程和线程能否有一些拟物的比喻？](https://www.v2ex.com/t/737011) ![](assets/new.png)  
-- [2020-12-19-散养的狗都不感冒，我们人输在哪里？](https://www.v2ex.com/t/737010) ![](assets/new.png)  
 - [2020-12-19-迫于有了小孩，求推荐个家庭使用的小车车](https://www.v2ex.com/t/737009) ![](assets/new.png)  
 - [2020-12-19-资源包分包问题](https://www.v2ex.com/t/737007) ![](assets/new.png)  
 - [2020-12-19-网上上采购自行车线下卖可行吗？](https://www.v2ex.com/t/737006) ![](assets/new.png)  
 - [2020-12-19-美团外卖更换手机号后，账户里面的优惠券不能使用](https://www.v2ex.com/t/737004) ![](assets/new.png)  
 - [2020-12-19-20-30-岁的程序员占-80%，-30-岁以上的程序员何去何从？](https://www.v2ex.com/t/737003) ![](assets/new.png)  
-- [2020-12-19-如何看待王垠正在做的音乐破解工作？](https://www.v2ex.com/t/737002) ![](assets/new.png)  
 - [2020-12-19-欢哥互联-免费网站虚拟主机，嘿嘿~](https://www.v2ex.com/t/737001) ![](assets/new.png)  
 - [2020-12-19-Android-的-View#setFlags-方法设置-flags-时,-为啥要同时指定一个-mask?](https://www.v2ex.com/t/737000) ![](assets/new.png)  
 - [2020-12-19-吃赛博朋克-2077-的瓜有感，中国玩家都怎么了，对资本这么宽容。](https://www.v2ex.com/t/736999) ![](assets/new.png)  
@@ -1040,22 +1020,22 @@
 - [2020-12-19-设计模式大冒险第四关：单例模式，如何成为你的-“唯一”](https://toutiao.io/k/gkagy84) ![](assets/new.png)  
 - [2020-12-19-我看技术人的成长路径](https://toutiao.io/k/qnlw4ck) ![](assets/new.png)  
 - [2020-12-19-爱奇艺数据仓库平台和服务建设实践](https://toutiao.io/k/tfi2z9t) ![](assets/new.png)  
-- [2020-12-19-vivo-官方商城架构演进之路](https://toutiao.io/k/ifppams) ![](assets/new.png)  
 - [2020-12-19-Golang-实现-Paxos-分布式共识算法](https://toutiao.io/k/54diic2) ![](assets/new.png)  
+- [2020-12-19-vivo-官方商城架构演进之路](https://toutiao.io/k/ifppams) ![](assets/new.png)  
 - [2020-12-19-来鹅厂-6-年，我学到的-5-条内容运营心法](https://toutiao.io/k/shy1opj) ![](assets/new.png)  
 - [2020-12-19-译-英雄联盟-LOL-所在公司竟然大量使用-Go-语言：这是他们的实战分享](https://toutiao.io/k/4s84o6v) ![](assets/new.png)  
 - [2020-12-19-谷歌简单粗暴-“复制-粘贴”-数据增广，刷新-COCO-目标检测与实例分割新高度](https://toutiao.io/k/3ruv7oa) ![](assets/new.png)  
 - [2020-12-19-GraphQL：从头开始](https://toutiao.io/k/3ffr91z) ![](assets/new.png)  
-- [2020-12-19-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
-- [2020-12-19-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
-- [2020-12-19-推荐-生产力工具](https://toutiao.io/k/ltecz1p) ![](assets/new.png)  
-- [2020-12-19-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
 - [2020-12-19-推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho) ![](assets/new.png)  
-- [2020-12-19-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
 - [2020-12-19-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
+- [2020-12-19-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
+- [2020-12-19-推荐-生产力工具](https://toutiao.io/k/ltecz1p) ![](assets/new.png)  
+- [2020-12-19-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
 - [2020-12-19-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
+- [2020-12-19-推荐-性能提高-15-倍！只是把-MySQL-换成了-ClickHouse](https://toutiao.io/k/221a7sh) ![](assets/new.png)  
 - [2020-12-19-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
-- [2020-12-19-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
+- [2020-12-19-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
+- [2020-12-19-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,6 +1047,15 @@
 </summary>
 
 
+- [2020-12-19-针对mac电脑Apple-Silicon系统上Netflix和Apple的漏洞修复程序](https://sec.thief.one/article_content?a_id=879b1b00bbe74d3a6e9c8ed7937184a5) ![](assets/new.png)  
+- [2020-12-19-在招-|-易念科技高达50万年薪诚招销售经理和渠道经理](https://sec.thief.one/article_content?a_id=fd4eef64dc3714a3225fa864956da8e5) ![](assets/new.png)  
+- [2020-12-19-记一次找回靶机的密码](https://sec.thief.one/article_content?a_id=1b30d04889ab8b0a4f3012b6a48cccb8) ![](assets/new.png)  
+- [2020-12-19-攻击者竟然将恶意RubyGems包用到了加密货币供应链攻击之中](https://sec.thief.one/article_content?a_id=6d5c9a5e7060b38fbcbf35a4da6f4c43) ![](assets/new.png)  
+- [2020-12-19-百度这场大会,堪称-2020-年最具「赛博朋克」风的技术大会!](https://sec.thief.one/article_content?a_id=4d97f1d2eb9f8e7d70af1bfe529beb7a) ![](assets/new.png)  
+- [2020-12-19-公司提前发了年终奖,送一个-AirPods-Pro,安安静静写代码](https://sec.thief.one/article_content?a_id=a95d92bc66fe465d0f0f229b0bd994b3) ![](assets/new.png)  
+- [2020-12-19-三亚市人民政府和安恒信息达成战略合作-安全助力自贸易港标杆建设](https://sec.thief.one/article_content?a_id=4c32682d80cc90cf98f5e7abb7c305c9) ![](assets/new.png)  
+- [2020-12-19-【视频】|-网警打击网络黑灰产业犯罪纪录片《灰与白》](https://sec.thief.one/article_content?a_id=9ecd397a5f1a1a1a31cbe554e4261726) ![](assets/new.png)  
+- [2020-12-19-水利部网信办约谈10家网络安全问题较多单位负责人](https://sec.thief.one/article_content?a_id=767a591e3e9d95ca9ce9e25e1dc2245b) ![](assets/new.png)  
 - [2020-12-19-2020哪句话最火?年度十大网络流行语出炉](https://sec.thief.one/article_content?a_id=521dd3989f05a24e5ad7339792b97998) ![](assets/new.png)  
 - [2020-12-18-【安全圈】编程语言安全漏洞:C++、PHP、Java、Python、.Net-和-...](https://sec.thief.one/article_content?a_id=05eeab798d0910ab7240f98baec60ad6) ![](assets/new.png)  
 - [2020-12-18-国家计算机网络应急技术处理协调中心省级分中心2021年度公开招聘笔...](https://sec.thief.one/article_content?a_id=3c619ee674f7e1375a135559c7c44df6) ![](assets/new.png)  
@@ -1078,15 +1067,6 @@
 - [2020-12-18-剖析xmlDecoder反序列化](https://sec.thief.one/article_content?a_id=b8c604fc06334e07c05bbd6a23cbab8f) ![](assets/new.png)  
 - [2020-12-18-勒索软件即服务已成为新流行的“疫情”](https://sec.thief.one/article_content?a_id=bea1a62fe2c78ad05da8704ec0e1a520) ![](assets/new.png)  
 - [2020-12-18-360Quake网络空间测绘系统v4.3.0重磅更新](https://sec.thief.one/article_content?a_id=ef6d021e1152ef41c8c73958e847a4b2) ![](assets/new.png)  
-- [2020-12-18-一个能批量抠图的开源神器,网友:Python-已经无所不能](https://sec.thief.one/article_content?a_id=5b3cb2d8bb9a4ebd8064e9b9c33c913e) ![](assets/new.png)  
-- [2020-12-18-「Dibrary-第二季」—好书推荐-汇总篇](https://sec.thief.one/article_content?a_id=2e58a78b8f0ec04370e17e5aa123d95c) ![](assets/new.png)  
-- [2020-12-18-28款热门浏览器插件,超300万下载量,包含恶意代码](https://sec.thief.one/article_content?a_id=effad412fd37f511920bd63acb3eb6b0) ![](assets/new.png)  
-- [2020-12-18-2020中俄网络媒体云论坛在京举行](https://sec.thief.one/article_content?a_id=6e976150f8d70e5219366ae82294859f) ![](assets/new.png)  
-- [2020-12-18-字节跳动新春礼盒派送中!](https://sec.thief.one/article_content?a_id=60b8881ebf37514dbbd52bfeae593cf3) ![](assets/new.png)  
-- [2020-12-18-BSRC-11月月度现金奖励公告](https://sec.thief.one/article_content?a_id=157fbbec711cba7a7eccd48f370e0ed3) ![](assets/new.png)  
-- [2020-12-18-新耀东方-2021上海网络安全博览会暨高峰论坛​](https://sec.thief.one/article_content?a_id=3f3ab07fe30d5bc64063f1e2e29aae93) ![](assets/new.png)  
-- [2020-12-18-双旦礼遇-携“诚”而来](https://sec.thief.one/article_content?a_id=efeeccb4dfa074c26ab5ae7d4cd0002f) ![](assets/new.png)  
-- [2020-12-18-招贤纳士-|-雷神众测招聘来袭!](https://sec.thief.one/article_content?a_id=77b046b7df4aeaf1e706baa06d3633d8) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

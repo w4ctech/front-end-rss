@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-19 05:51:49，:rocket: 更新条数: +3840， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-19 06:05:38，:rocket: 更新条数: +920， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-12-19-12月18日全国新增确诊病例17例-本土病例3例](http://m.china.caixin.com/m/2020-12-19/101641011.html) ![](assets/new.png)  
-- [2020-12-19-中国新冠疫苗接种将“两步走”-已有企业滚动提交三期数据](https://m.caixin.com/m/2020-12-19/101641096.html) ![](assets/new.png)  
-- [2020-12-19-大流行手记|12月18日：欧盟拟提前评估辉瑞疫苗-部分非洲国家没钱大量购疫苗](http://m.international.caixin.com/m/2020-12-19/101641005.html) ![](assets/new.png)  
-- [2020-12-18-北京新增1例境外输入确诊病例关联病例-为14日确诊病例密接者](http://m.china.caixin.com/m/2020-12-18/101640837.html) ![](assets/new.png)  
-- [2020-12-18-全球疫苗协作中国如何参与？学者：双边与多边路径须并行](http://m.international.caixin.com/m/2020-12-18/101640781.html) ![](assets/new.png)  
-- [2020-12-18-最新海外疫情：新冠感染超7485万-累计死亡超165万](http://m.international.caixin.com/m/2020-12-18/101640711.html) ![](assets/new.png)  
-- [2020-12-18-【境内疫情观察】四川新增1例本土病例（12月17日）](http://m.database.caixin.com/m/2020-12-18/101640627.html) ![](assets/new.png)  
-- [2020-12-18-大流行手记|12月17日：欧洲多名政要隔离-东京医疗资源告急](http://m.international.caixin.com/m/2020-12-18/101640522.html) ![](assets/new.png)  
-- [2020-12-18-WHO官员称2021年底疫苗应可覆盖全球高危人群](https://m.caixin.com/m/2020-12-18/101640566.html) ![](assets/new.png)  
-- [2020-12-18-研究：新冠抗体五个月内降至较低水平-但不意味着失去保护](http://m.science.caixin.com/m/2020-12-18/101640573.html) ![](assets/new.png)  
-- [2020-12-17-【境内疫情观察】全国新增7例境外输入病例（12月16日）](http://m.database.caixin.com/m/2020-12-17/101640267.html) ![](assets/new.png)  
-- [2020-12-17-大流行手记|12月16日：白宫优先接种疫苗引争议-英国已有14万人接种](http://m.international.caixin.com/m/2020-12-17/101640135.html) ![](assets/new.png)  
-- [2020-12-17-法国总统马克龙确诊新冠-西葡领导人将因密接隔离](http://m.international.caixin.com/m/2020-12-17/101640407.html) ![](assets/new.png)  
-- [2020-12-16-【境内疫情观察】全国新增12例境外输入病例（12月15日）](http://m.database.caixin.com/m/2020-12-16/101639831.html) ![](assets/new.png)  
-- [2020-12-16-大流行手记|12月15日：加拿大开打疫苗-伦敦防疫措施升级](http://m.international.caixin.com/m/2020-12-16/101639701.html) ![](assets/new.png)  
-- [2020-12-16-美国报告全球首例本土野生水貂感染新冠](http://m.science.caixin.com/m/2020-12-16/101639905.html) ![](assets/new.png)  
-- [2020-12-16-美国报告全球首例本土野生水貂感染新冠](http://m.science.caixin.com/m/2020-12-16/101639905.html) ![](assets/new.png)  
-- [2020-12-15-数地现零星本土新冠病例-冬季疫情怎么防？](https://m.caixin.com/m/2020-12-15/101639417.html) ![](assets/new.png)  
-- [2020-12-15-【境内疫情观察】黑龙江新增2例本土确诊病例（12月14日）](http://m.database.caixin.com/m/2020-12-15/101639393.html) ![](assets/new.png)  
-- [2020-12-15-大流行手记|12月14日：美国启动新冠疫苗紧急接种-报告指45国需外部援助粮食](http://m.international.caixin.com/m/2020-12-15/101639187.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -943,6 +923,26 @@
 </summary>
 
 
+- [2020-12-18-知乎十年来最火火火火火火火火的问题！](https://www.ershicimi.com/p/bcfc57dc43045f113385ac836b2db838) ![](assets/new.png)  
+- [2020-12-18-知乎故事-|-船新「白蛇传」](https://www.ershicimi.com/p/8c8528716c747721f76553f1acfc1b55) ![](assets/new.png)  
+- [2020-12-17-「谢邀，人在知乎，正在玩梗」](https://www.ershicimi.com/p/7d8d5ad6b86b9b920a1141c143fb82e8) ![](assets/new.png)  
+- [2020-12-17-有人@你-知乎送了你一张时光卡](https://www.ershicimi.com/p/876cfffd5bdc4208a65dc04fc34be7ee) ![](assets/new.png)  
+- [2020-12-17-2020，手机里舍不得删的-12-个公众号（值得收藏）](https://www.ershicimi.com/p/b279ef48e5f19e7f262d807a14357108) ![](assets/new.png)  
+- [2020-12-17-知乎故事-|-「世界」大战](https://www.ershicimi.com/p/a4da8a355fff3d36fc4a4693640d2520) ![](assets/new.png)  
+- [2020-12-16-叮！请领取你的十年知乎数据报告！](https://www.ershicimi.com/p/9b780fc190938aec83b3affcaaae591b) ![](assets/new.png)  
+- [2020-12-16-知乎故事-|-你有哪些尴尬到「脚趾抠鞋」的糗事？](https://www.ershicimi.com/p/5d3fe66c96df7dd100d9d39912c56704) ![](assets/new.png)  
+- [2020-12-16-为什么-7-月出生的人，最难成为-CEO？](https://www.ershicimi.com/p/6bb5e2fa0ad42472c64df50afb48aa04) ![](assets/new.png)  
+- [2020-12-15-知乎十周年特别企划来了！吐血整理知乎十年精华高赞内容！](https://www.ershicimi.com/p/188d95ac5fa22b128478427528f6813b) ![](assets/new.png)  
+- [2020-12-15-这些人把病毒注射到你体内，还救了你](https://www.ershicimi.com/p/09622d85acc385f7c91898b7cbcffaef) ![](assets/new.png)  
+- [2020-12-15-「我每天-5-点起床，跑-10-公里」：自律的人，都是如何培养好习惯的？](https://www.ershicimi.com/p/eb747fdd74a36189544c28a94322c240) ![](assets/new.png)  
+- [2020-12-15-知乎故事-|-有哪些让人听起来像小说一样的现实故事？](https://www.ershicimi.com/p/d6d9497f7b1f3c5bfb352c3f17228996) ![](assets/new.png)  
+- [2020-12-14-越难越燃！知乎发布-2011-2020-大事记短片《向上的答案》](https://www.ershicimi.com/p/698191d6415c66ab6b66c99ce31f32e6) ![](assets/new.png)  
+- [2020-12-11-知乎神吐槽-|-相亲对象忽冷忽热怎么办？](https://www.ershicimi.com/p/b202c4cfa29086416f311accbb2da889) ![](assets/new.png)  
+- [2020-12-11-知乎故事-|-《赛博朋克-2077》外的爱情](https://www.ershicimi.com/p/4737455d5786f8e611ea00712c0ea821) ![](assets/new.png)  
+- [2020-12-11-胡歌：如果你没空看书，请一定要逼自己做这件事](https://www.ershicimi.com/p/e19090e3f40e6914f4dd40a8b807aef3) ![](assets/new.png)  
+- [2020-12-10-有哪些本以为是鸡肋，用完却被瞬间圈粉的家居神器？](https://www.ershicimi.com/p/3fe77065b1512d8cadc48b3cb19b9ef1) ![](assets/new.png)  
+- [2020-12-10-如果用一部作品来形容你的-2020，你会选择什么？](https://www.ershicimi.com/p/11ca5193522e5de1cf401817b66d89d6) ![](assets/new.png)  
+- [2020-12-10-知乎故事-|-你父母都有哪些神操作？](https://www.ershicimi.com/p/a4061d0819bac3c382203e963b9ee317) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -954,6 +954,9 @@
 </summary>
 
 
+- [2020-12-19-有没有鼠标自动点击脚本？推荐一下，感激！](https://www.v2ex.com/t/737033) ![](assets/new.png)  
+- [2020-12-19-请问支持-AirPods-Pro-空间音频的本地视频播放器有哪些呀？](https://www.v2ex.com/t/737031) ![](assets/new.png)  
+- [2020-12-19-有用-yubikey-的小伙伴来分享下体验吗？](https://www.v2ex.com/t/737030) ![](assets/new.png)  
 - [2020-12-19-自己做了一个打飞机的游戏，刚上架-google-play，欢迎大家前来下载体验](https://www.v2ex.com/t/737029) ![](assets/new.png)  
 - [2020-12-19-做了个可以为工程师带来副业收入的网站，请教下大家更新哪方面内容用户会喜欢？](https://www.v2ex.com/t/737028) ![](assets/new.png)  
 - [2020-12-19-前端工程师招聘可远程](https://www.v2ex.com/t/737025) ![](assets/new.png)  
@@ -971,9 +974,6 @@
 - [2020-12-19-资源包分包问题](https://www.v2ex.com/t/737007) ![](assets/new.png)  
 - [2020-12-19-网上上采购自行车线下卖可行吗？](https://www.v2ex.com/t/737006) ![](assets/new.png)  
 - [2020-12-19-美团外卖更换手机号后，账户里面的优惠券不能使用](https://www.v2ex.com/t/737004) ![](assets/new.png)  
-- [2020-12-19-20-30-岁的程序员占-80%，-30-岁以上的程序员何去何从？](https://www.v2ex.com/t/737003) ![](assets/new.png)  
-- [2020-12-19-欢哥互联-免费网站虚拟主机，嘿嘿~](https://www.v2ex.com/t/737001) ![](assets/new.png)  
-- [2020-12-19-Android-的-View#setFlags-方法设置-flags-时,-为啥要同时指定一个-mask?](https://www.v2ex.com/t/737000) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1026,16 +1026,16 @@
 - [2020-12-19-译-英雄联盟-LOL-所在公司竟然大量使用-Go-语言：这是他们的实战分享](https://toutiao.io/k/4s84o6v) ![](assets/new.png)  
 - [2020-12-19-谷歌简单粗暴-“复制-粘贴”-数据增广，刷新-COCO-目标检测与实例分割新高度](https://toutiao.io/k/3ruv7oa) ![](assets/new.png)  
 - [2020-12-19-GraphQL：从头开始](https://toutiao.io/k/3ffr91z) ![](assets/new.png)  
-- [2020-12-19-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
-- [2020-12-19-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
-- [2020-12-19-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
-- [2020-12-19-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
-- [2020-12-19-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
-- [2020-12-19-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
-- [2020-12-19-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
-- [2020-12-19-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
 - [2020-12-19-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
+- [2020-12-19-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
+- [2020-12-19-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
+- [2020-12-19-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
+- [2020-12-19-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
+- [2020-12-19-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
 - [2020-12-19-推荐-生产力工具](https://toutiao.io/k/ltecz1p) ![](assets/new.png)  
+- [2020-12-19-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
+- [2020-12-19-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
+- [2020-12-19-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

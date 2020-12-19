@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-19 07:53:23，:rocket: 更新条数: +3857， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-19 08:05:34，:rocket: 更新条数: +916， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-12-19-12月18日全国新增确诊病例17例-本土病例3例](http://m.china.caixin.com/m/2020-12-19/101641011.html) ![](assets/new.png)  
-- [2020-12-19-中国新冠疫苗接种将“两步走”-已有企业滚动提交三期数据](https://m.caixin.com/m/2020-12-19/101641096.html) ![](assets/new.png)  
-- [2020-12-19-【境内疫情观察】北京新增2例境外输入关联病例（12月18日）](http://m.database.caixin.com/m/2020-12-19/101641131.html) ![](assets/new.png)  
-- [2020-12-19-大流行手记|12月18日：欧盟拟提前评估辉瑞疫苗-部分非洲国家没钱大量购疫苗](http://m.international.caixin.com/m/2020-12-19/101641005.html) ![](assets/new.png)  
-- [2020-12-18-北京新增1例境外输入确诊病例关联病例-为14日确诊病例密接者](http://m.china.caixin.com/m/2020-12-18/101640837.html) ![](assets/new.png)  
-- [2020-12-18-全球疫苗协作中国如何参与？学者：双边与多边路径须并行](http://m.international.caixin.com/m/2020-12-18/101640781.html) ![](assets/new.png)  
-- [2020-12-18-最新海外疫情：新冠感染超7485万-累计死亡超165万](http://m.international.caixin.com/m/2020-12-18/101640711.html) ![](assets/new.png)  
-- [2020-12-18-【境内疫情观察】四川新增1例本土病例（12月17日）](http://m.database.caixin.com/m/2020-12-18/101640627.html) ![](assets/new.png)  
-- [2020-12-18-大流行手记|12月17日：欧洲多名政要隔离-东京医疗资源告急](http://m.international.caixin.com/m/2020-12-18/101640522.html) ![](assets/new.png)  
-- [2020-12-18-WHO官员称2021年底疫苗应可覆盖全球高危人群](https://m.caixin.com/m/2020-12-18/101640566.html) ![](assets/new.png)  
-- [2020-12-18-研究：新冠抗体五个月内降至较低水平-但不意味着失去保护](http://m.science.caixin.com/m/2020-12-18/101640573.html) ![](assets/new.png)  
-- [2020-12-17-【境内疫情观察】全国新增7例境外输入病例（12月16日）](http://m.database.caixin.com/m/2020-12-17/101640267.html) ![](assets/new.png)  
-- [2020-12-17-大流行手记|12月16日：白宫优先接种疫苗引争议-英国已有14万人接种](http://m.international.caixin.com/m/2020-12-17/101640135.html) ![](assets/new.png)  
-- [2020-12-17-法国总统马克龙确诊新冠-西葡领导人将因密接隔离](http://m.international.caixin.com/m/2020-12-17/101640407.html) ![](assets/new.png)  
-- [2020-12-16-【境内疫情观察】全国新增12例境外输入病例（12月15日）](http://m.database.caixin.com/m/2020-12-16/101639831.html) ![](assets/new.png)  
-- [2020-12-16-大流行手记|12月15日：加拿大开打疫苗-伦敦防疫措施升级](http://m.international.caixin.com/m/2020-12-16/101639701.html) ![](assets/new.png)  
-- [2020-12-16-美国报告全球首例本土野生水貂感染新冠](http://m.science.caixin.com/m/2020-12-16/101639905.html) ![](assets/new.png)  
-- [2020-12-16-美国报告全球首例本土野生水貂感染新冠](http://m.science.caixin.com/m/2020-12-16/101639905.html) ![](assets/new.png)  
-- [2020-12-15-数地现零星本土新冠病例-冬季疫情怎么防？](https://m.caixin.com/m/2020-12-15/101639417.html) ![](assets/new.png)  
-- [2020-12-15-【境内疫情观察】黑龙江新增2例本土确诊病例（12月14日）](http://m.database.caixin.com/m/2020-12-15/101639393.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -792,6 +772,10 @@
 </summary>
 
 
+- [2020-12-19-阿里巴巴回应中央联合调查组进驻；全球最大成人网站Pornhub或将关停；美团否认“外卖会员杀熟”-|](https://www.ershicimi.com/p/f97980fce0dba3cae0439ce55e7f418e) ![](assets/new.png)  
+- [2020-12-19-一个50岁中国操作系统开发者的故事丨openEuler英雄汇](https://www.ershicimi.com/p/75ecd111197b995d515d622072ef7941) ![](assets/new.png)  
+- [2020-12-19-这场年度盛会，为你展现国产数据库的变革与精彩-｜-Q推荐](https://www.ershicimi.com/p/f7f8974ae312ea06fa095ed18bbaac33) ![](assets/new.png)  
+- [2020-12-19-聊聊微服务架构中的事务处理](https://www.ershicimi.com/p/47801929f0d5a93a32992f33631afac6) ![](assets/new.png)  
 - [2020-12-18-苹果颠覆广告业，脸书带头开撕！180万App受影响](https://www.ershicimi.com/p/48d7c757f1c4395935eabb9e27215edf) ![](assets/new.png)  
 - [2020-12-18-新风向标：学术界开始从Python转向Rust](https://www.ershicimi.com/p/2ca878e957af0556c459e11297a053f9) ![](assets/new.png)  
 - [2020-12-18-你的包裹来自“云端”：京东物流的上云腾飞故事](https://www.ershicimi.com/p/3f2834c07e204a544c358bb5c1caaeee) ![](assets/new.png)  
@@ -808,10 +792,6 @@
 - [2020-12-16-仅5000位开发者抢到了门票，这个技术大会有多牛？｜Q推荐](https://www.ershicimi.com/p/c5d2bbdc7f1fd487ca750ff3859cb4e4) ![](assets/new.png)  
 - [2020-12-16-.NET-5的重大改变：消失的历史技术](https://www.ershicimi.com/p/9f54fd9773930a4d81ce358c6cd202d5) ![](assets/new.png)  
 - [2020-12-15-百度不需要用户](https://www.ershicimi.com/p/e4eaa97098c5434c0071347ba93bad99) ![](assets/new.png)  
-- [2020-12-15-什么是低代码，到底用不用？](https://www.ershicimi.com/p/01805a85d85230e2b994bf68793484f5) ![](assets/new.png)  
-- [2020-12-15-关注AI/ML的小伙伴看过来：AWS年度盛会机器学习部分专家解读](https://www.ershicimi.com/p/07f6a6fc146652c77e7dbac8bd89005d) ![](assets/new.png)  
-- [2020-12-15-Microsoft-云采用框架，助力企业快速完成云迁移-｜-Q推荐](https://www.ershicimi.com/p/e9fa927cf7783041321f64690160feac) ![](assets/new.png)  
-- [2020-12-15-从单体迁移到微服务的7个重要原则](https://www.ershicimi.com/p/0432d0ee0d4732e455603e1bc5ec0bd4) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -974,6 +954,9 @@
 </summary>
 
 
+- [2020-12-19-刚过保的-iPhone-11-Pro-摄像头出了问题，真是郁闷。](https://www.v2ex.com/t/737058) ![](assets/new.png)  
+- [2020-12-19-关于使用-Google-Maps-API-的问题](https://www.v2ex.com/t/737056) ![](assets/new.png)  
+- [2020-12-19-安徽联通省网缺到-AS10099-的路由](https://www.v2ex.com/t/737055) ![](assets/new.png)  
 - [2020-12-19-我们用-9-个月的时间创造出了完美的-996-工作制度](https://www.v2ex.com/t/737054) ![](assets/new.png)  
 - [2020-12-19-有没有啥办法获取-telegram-群里的消息文本？](https://www.v2ex.com/t/737053) ![](assets/new.png)  
 - [2020-12-19-请问用-Java-实现-Excel-转-Word，有什么最佳实践吗？](https://www.v2ex.com/t/737052) ![](assets/new.png)  
@@ -991,9 +974,6 @@
 - [2020-12-19-深圳付费定制个-股票交易的客户端，个人兼职或者团队也行，长期合作](https://www.v2ex.com/t/737034) ![](assets/new.png)  
 - [2020-12-19-有没有鼠标自动点击脚本？推荐一下，感激！](https://www.v2ex.com/t/737033) ![](assets/new.png)  
 - [2020-12-19-请问支持-AirPods-Pro-空间音频的本地视频播放器有哪些呀？](https://www.v2ex.com/t/737031) ![](assets/new.png)  
-- [2020-12-19-有用-yubikey-的小伙伴来分享下体验吗？](https://www.v2ex.com/t/737030) ![](assets/new.png)  
-- [2020-12-19-自己做了一个打飞机的游戏，刚上架-google-play，欢迎大家前来下载体验](https://www.v2ex.com/t/737029) ![](assets/new.png)  
-- [2020-12-19-做了个可以为工程师带来副业收入的网站，请教下大家更新哪方面内容用户会喜欢？](https://www.v2ex.com/t/737028) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1046,16 +1026,16 @@
 - [2020-12-19-译-英雄联盟-LOL-所在公司竟然大量使用-Go-语言：这是他们的实战分享](https://toutiao.io/k/4s84o6v) ![](assets/new.png)  
 - [2020-12-19-谷歌简单粗暴-“复制-粘贴”-数据增广，刷新-COCO-目标检测与实例分割新高度](https://toutiao.io/k/3ruv7oa) ![](assets/new.png)  
 - [2020-12-19-GraphQL：从头开始](https://toutiao.io/k/3ffr91z) ![](assets/new.png)  
-- [2020-12-19-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
-- [2020-12-19-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
-- [2020-12-19-推荐-生产力工具](https://toutiao.io/k/ltecz1p) ![](assets/new.png)  
-- [2020-12-19-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
 - [2020-12-19-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
+- [2020-12-19-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
 - [2020-12-19-推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho) ![](assets/new.png)  
-- [2020-12-19-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
-- [2020-12-19-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
 - [2020-12-19-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
+- [2020-12-19-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
+- [2020-12-19-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
+- [2020-12-19-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
 - [2020-12-19-推荐-性能提高-15-倍！只是把-MySQL-换成了-ClickHouse](https://toutiao.io/k/221a7sh) ![](assets/new.png)  
+- [2020-12-19-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
+- [2020-12-19-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

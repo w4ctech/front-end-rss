@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-12-19 04:20:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-19 04:48:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-19-对开源的一些思考与想法](https://www.v2ex.com/t/737018) 
+- [2020-12-19-git-脏分支新的修改如何-merge-到开发分支](https://www.v2ex.com/t/737017) 
+- [2020-12-19-开源-简单粗暴的版本管理](https://www.v2ex.com/t/737016) 
+- [2020-12-19-iPhone-12-首发官网入的，-icloud-恢复数据，一直不能-OTA-升级，一点软件更新就卡死](https://www.v2ex.com/t/737015) 
+- [2020-12-19-flask-的-Working-outside-of-application-context-求助](https://www.v2ex.com/t/737014) 
 - [2020-12-19-为什么全局懒加载没有生效呢？](https://www.v2ex.com/t/737012) 
 - [2020-12-19-进程和线程能否有一些拟物的比喻？](https://www.v2ex.com/t/737011) 
 - [2020-12-19-散养的狗都不感冒，我们人输在哪里？](https://www.v2ex.com/t/737010) 
@@ -42,4 +47,3 @@
 - [2020-12-19-北京-&-杭州-OceanBase-诚聘多名-web-前端，十年磨一剑](https://www.v2ex.com/t/736973) 
 - [2020-12-19-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/736972) 
 - [2020-12-19-dropbox-business-advanced-开车，缺一，月付-80，年付-960-tg：-lanceres](https://www.v2ex.com/t/736970) 
-- [2020-12-19-Notion-表格怎么能获取当前列的值](https://www.v2ex.com/t/736965) 

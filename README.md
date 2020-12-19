@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-19 19:29:49，:rocket: 更新条数: +3861， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-19 19:39:01，:rocket: 更新条数: +900， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-12-19-12月18日全国新增确诊病例17例-本土病例3例](http://m.china.caixin.com/m/2020-12-19/101641011.html) ![](assets/new.png)  
-- [2020-12-19-中国新冠疫苗接种将“两步走”-已有企业滚动提交三期数据](https://m.caixin.com/m/2020-12-19/101641096.html) ![](assets/new.png)  
-- [2020-12-19-【境内疫情观察】北京新增2例境外输入关联病例（12月18日）](http://m.database.caixin.com/m/2020-12-19/101641131.html) ![](assets/new.png)  
-- [2020-12-19-大流行手记|12月18日：欧盟拟提前评估辉瑞疫苗-部分非洲国家没钱大量购疫苗](http://m.international.caixin.com/m/2020-12-19/101641005.html) ![](assets/new.png)  
-- [2020-12-18-北京新增1例境外输入确诊病例关联病例-为14日确诊病例密接者](http://m.china.caixin.com/m/2020-12-18/101640837.html) ![](assets/new.png)  
-- [2020-12-18-全球疫苗协作中国如何参与？学者：双边与多边路径须并行](http://m.international.caixin.com/m/2020-12-18/101640781.html) ![](assets/new.png)  
-- [2020-12-18-最新海外疫情：新冠感染超7485万-累计死亡超165万](http://m.international.caixin.com/m/2020-12-18/101640711.html) ![](assets/new.png)  
-- [2020-12-18-【境内疫情观察】四川新增1例本土病例（12月17日）](http://m.database.caixin.com/m/2020-12-18/101640627.html) ![](assets/new.png)  
-- [2020-12-18-大流行手记|12月17日：欧洲多名政要隔离-东京医疗资源告急](http://m.international.caixin.com/m/2020-12-18/101640522.html) ![](assets/new.png)  
-- [2020-12-18-WHO官员称2021年底疫苗应可覆盖全球高危人群](https://m.caixin.com/m/2020-12-18/101640566.html) ![](assets/new.png)  
-- [2020-12-18-研究：新冠抗体五个月内降至较低水平-但不意味着失去保护](http://m.science.caixin.com/m/2020-12-18/101640573.html) ![](assets/new.png)  
-- [2020-12-17-【境内疫情观察】全国新增7例境外输入病例（12月16日）](http://m.database.caixin.com/m/2020-12-17/101640267.html) ![](assets/new.png)  
-- [2020-12-17-大流行手记|12月16日：白宫优先接种疫苗引争议-英国已有14万人接种](http://m.international.caixin.com/m/2020-12-17/101640135.html) ![](assets/new.png)  
-- [2020-12-17-法国总统马克龙确诊新冠-西葡领导人将因密接隔离](http://m.international.caixin.com/m/2020-12-17/101640407.html) ![](assets/new.png)  
-- [2020-12-16-【境内疫情观察】全国新增12例境外输入病例（12月15日）](http://m.database.caixin.com/m/2020-12-16/101639831.html) ![](assets/new.png)  
-- [2020-12-16-大流行手记|12月15日：加拿大开打疫苗-伦敦防疫措施升级](http://m.international.caixin.com/m/2020-12-16/101639701.html) ![](assets/new.png)  
-- [2020-12-16-美国报告全球首例本土野生水貂感染新冠](http://m.science.caixin.com/m/2020-12-16/101639905.html) ![](assets/new.png)  
-- [2020-12-16-美国报告全球首例本土野生水貂感染新冠](http://m.science.caixin.com/m/2020-12-16/101639905.html) ![](assets/new.png)  
-- [2020-12-15-数地现零星本土新冠病例-冬季疫情怎么防？](https://m.caixin.com/m/2020-12-15/101639417.html) ![](assets/new.png)  
-- [2020-12-15-【境内疫情观察】黑龙江新增2例本土确诊病例（12月14日）](http://m.database.caixin.com/m/2020-12-15/101639393.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -393,26 +373,6 @@
 </summary>
 
 
-- [2020-12-16-美团：高速发展下如何做好移动端持续交付](https://www.ershicimi.com/p/333c8c83ed278616b8d021ebe66240e7) ![](assets/new.png)  
-- [2020-12-16-大龄程序员必须得转行吗？-|-活动推荐](https://www.ershicimi.com/p/e4133808e178b1469bec3a3d096ca2c9) ![](assets/new.png)  
-- [2020-12-14-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/06af08880240e0908248ba052a0e73d8) ![](assets/new.png)  
-- [2020-12-14-调用-Express-API时出现奇怪的CORS错误该怎么办？](https://www.ershicimi.com/p/e671bc7c42f514605d51da84bdb5fb88) ![](assets/new.png)  
-- [2020-12-14-数据及AI技术如何更好加持智能网联及出海业务的应用开发？|-活动推荐](https://www.ershicimi.com/p/762d2c286dfdc6d5efe024984f208a71) ![](assets/new.png)  
-- [2020-12-13-前端周报：JS-诞生-25-周年；微软将强行升级部分旧版本Win-10用户；将编程纳入中小学课程，程](https://www.ershicimi.com/p/8f15bc65ae313923ec2405b52d2ee580) ![](assets/new.png)  
-- [2020-12-11-Deno-1.6正式发布！支持将TypeScript编译成单个可执行文件，苹果M1可原生运行](https://www.ershicimi.com/p/6016c0f7080a129bf39ed7417be0953b) ![](assets/new.png)  
-- [2020-12-11-Snowpack-3-RC-版本发布：可跳过-npm-安装步骤](https://www.ershicimi.com/p/f5dc055480b766e8308941ec89ca90f8) ![](assets/new.png)  
-- [2020-12-11-你的企业还在为AI落地头疼吗？华为云ModelArts-Pro助你一臂之力｜活动推荐](https://www.ershicimi.com/p/a849acb31e70fa4e16aa52804379322b) ![](assets/new.png)  
-- [2020-12-09-要么改进要么消亡：我想跨平台应用程序快要终结了](https://www.ershicimi.com/p/5534d52bb89bb0a6e6b6d381ddb31735) ![](assets/new.png)  
-- [2020-12-09-颤抖吧，App！苹果或于明年下架窃取用户隐私的-App](https://www.ershicimi.com/p/cbe9e22ea75055011bc3aebf025127bb) ![](assets/new.png)  
-- [2020-12-09-Microsoft-云采用框架，助力企业快速完成云迁移-|-活动推荐](https://www.ershicimi.com/p/c8fb46f75c33691d44b42154486daad4) ![](assets/new.png)  
-- [2020-12-07-纯-Dart-的挑战：美团外卖-Flutter-动态化实践](https://www.ershicimi.com/p/a500006868d6e35166629cba5d567825) ![](assets/new.png)  
-- [2020-12-07-基于Vite搭建Electron+Vue3的开发环境](https://www.ershicimi.com/p/af51be56741ab415afb7ad1418a4e7b4) ![](assets/new.png)  
-- [2020-12-07-华为云开发者沙龙汇集大众智慧，ModelArts点亮企业未来-|-活动推荐](https://www.ershicimi.com/p/65a5a86e9c0c7774cce3aac13f30bac9) ![](assets/new.png)  
-- [2020-12-06-前端人，咱别盲目追求新技术-|-直播推荐](https://www.ershicimi.com/p/4c4c1f6dcdda44bf473508bfc9dce19e) ![](assets/new.png)  
-- [2020-12-06-前端周报：Element-UI-for-Vue-3.0来了；Win-10-或将于明年原生支持安卓应用](https://www.ershicimi.com/p/e85420f822a61bf6157caf1738584730) ![](assets/new.png)  
-- [2020-12-04-GraphQL是API的未来，但它并非银弹](https://www.ershicimi.com/p/c86dcafab75045f83d79655cb59e090c) ![](assets/new.png)  
-- [2020-12-04-解密智联招聘的大前端架构-Ada](https://www.ershicimi.com/p/2b4dc0ef765cb25ad951d63d2fe54fc6) ![](assets/new.png)  
-- [2020-12-04-竟然还用“土方法”学前端，怪不得你写不出来！-|-活动推荐](https://www.ershicimi.com/p/442c496471e623c7340d3444ec44f043) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1046,16 +1006,16 @@
 - [2020-12-19-来鹅厂-6-年，我学到的-5-条内容运营心法](https://toutiao.io/k/shy1opj) ![](assets/new.png)  
 - [2020-12-19-GraphQL：从头开始](https://toutiao.io/k/3ffr91z) ![](assets/new.png)  
 - [2020-12-19-谷歌简单粗暴-“复制-粘贴”-数据增广，刷新-COCO-目标检测与实例分割新高度](https://toutiao.io/k/3ruv7oa) ![](assets/new.png)  
-- [2020-12-19-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
-- [2020-12-19-推荐-常见算法模版总结（二）](https://toutiao.io/k/s66geea) ![](assets/new.png)  
+- [2020-12-19-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
+- [2020-12-19-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
+- [2020-12-19-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
 - [2020-12-19-推荐-性能提高-15-倍！只是把-MySQL-换成了-ClickHouse](https://toutiao.io/k/221a7sh) ![](assets/new.png)  
 - [2020-12-19-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
-- [2020-12-19-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
-- [2020-12-19-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
-- [2020-12-19-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
-- [2020-12-19-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
-- [2020-12-19-推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho) ![](assets/new.png)  
+- [2020-12-19-推荐-MySQL-索引知识点总结](https://toutiao.io/k/u9plzvk) ![](assets/new.png)  
+- [2020-12-19-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
+- [2020-12-19-推荐-常见算法模版总结（二）](https://toutiao.io/k/s66geea) ![](assets/new.png)  
 - [2020-12-19-推荐-生产力工具](https://toutiao.io/k/ltecz1p) ![](assets/new.png)  
+- [2020-12-19-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

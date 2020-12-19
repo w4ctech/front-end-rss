@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-19 20:34:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-19 20:41:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -88,6 +88,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-12-19-【视频】|-网警打击网络黑灰产业犯罪纪录片《灰与白》](https://sec.thief.one/article_content?a_id=9ecd397a5f1a1a1a31cbe554e4261726) 
 - [2020-12-18-CSIG图像图形中国行-走进奇安信暨可视化与可视分析专委会走进企业...](https://sec.thief.one/article_content?a_id=f57702b6f752548dac8fee800c72efea) 

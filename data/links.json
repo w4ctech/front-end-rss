@@ -14717,6 +14717,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "为避免新冠疫情影响 赞比亚为偏远地区考生空运试卷",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLClQPRylof454zYWmAp5201219&isfromapp=1",
+        "date": "2020-12-19"
+      },
+      {
+        "title": "大连市发布金润小区管控楼宇及格林小镇核酸检测结果：均为阴性",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiByAaN41oM4ecXifNUVZ0201219&isfromapp=1",
+        "date": "2020-12-19"
+      },
+      {
+        "title": "韩国首尔东部拘留所暴发集体感染 184人确诊新冠肺炎",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwDZYkvaNcTmNPplRWQYo201219&isfromapp=1",
+        "date": "2020-12-19"
+      },
+      {
         "title": "香港加强对从外国地区到港人士的新冠病毒核酸检测要求",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwHjgKNTnE5GWSNZ5hbW2201219&isfromapp=1",
         "date": "2020-12-19"
@@ -14724,21 +14739,6 @@
       {
         "title": "香港特区政府刊宪：将加拿大列为疫情极高风险地区",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie7tn0GQ9RlfCzzJO4WIu201219&isfromapp=1",
-        "date": "2020-12-19"
-      },
-      {
-        "title": "争取做到高风险人群“应接尽接”新冠疫苗 符合条件者都能按时接种",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5eojOALnBmph9KQYJsn4201219&isfromapp=1",
-        "date": "2020-12-19"
-      },
-      {
-        "title": "我国多个新冠疫苗陆续在境外开展临床试验 进展顺利",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirQx3tfxLxdkYM641IPaR201219&isfromapp=1",
-        "date": "2020-12-19"
-      },
-      {
-        "title": "哥伦比亚亚洲问题专家：中国统筹防疫与经济发展成效显著",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWIcgLP51tM0Jow2duaf1201219&isfromapp=1",
         "date": "2020-12-19"
       }
     ]
@@ -18550,6 +18550,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "小米碰碰贴 2 能不能模拟公司的员工卡（门禁+饭卡）",
+        "link": "https://www.v2ex.com/t/737106",
+        "date": "2020-12-19"
+      },
+      {
+        "title": "打算某宝买 se2 一些问题",
+        "link": "https://www.v2ex.com/t/737105",
+        "date": "2020-12-19"
+      },
+      {
+        "title": "面试官建议 总结对比业务，让外行也能听懂，什么意思？",
+        "link": "https://www.v2ex.com/t/737104",
+        "date": "2020-12-19"
+      },
+      {
         "title": "想要办个备用号码，专门接收短信，有什么便宜套餐吗？",
         "link": "https://www.v2ex.com/t/737103",
         "date": "2020-12-19"
@@ -18728,21 +18743,6 @@
         "title": "刚过保的 iPhone 11 Pro 摄像头出了问题，真是郁闷。",
         "link": "https://www.v2ex.com/t/737058",
         "date": "2020-12-19"
-      },
-      {
-        "title": "关于使用 Google Maps API 的问题",
-        "link": "https://www.v2ex.com/t/737056",
-        "date": "2020-12-19"
-      },
-      {
-        "title": "安徽联通省网缺到 AS10099 的路由",
-        "link": "https://www.v2ex.com/t/737055",
-        "date": "2020-12-19"
-      },
-      {
-        "title": "我们用 9 个月的时间创造出了完美的 996 工作制度",
-        "link": "https://www.v2ex.com/t/737054",
-        "date": "2020-12-19"
       }
     ]
   },
@@ -18909,33 +18909,8 @@
         "date": "2020-12-19"
       },
       {
-        "title": "[推荐] 记一次 MySQL 的 insert 死锁",
-        "link": "https://toutiao.io/k/mbyee1y",
-        "date": "2020-12-19"
-      },
-      {
-        "title": "[推荐] Go 错误处理最佳实践",
-        "link": "https://toutiao.io/k/lodfgxd",
-        "date": "2020-12-19"
-      },
-      {
-        "title": "[推荐] 带你扒一扒 MySQL 的数据在磁盘上到底长什么样子",
-        "link": "https://toutiao.io/k/s6jntn5",
-        "date": "2020-12-19"
-      },
-      {
-        "title": "[推荐] 漫话 Docker 的衰落与 Kubernetes 的兴起",
-        "link": "https://toutiao.io/k/h3ooyse",
-        "date": "2020-12-19"
-      },
-      {
-        "title": "[推荐] MySQL 优化神器",
-        "link": "https://toutiao.io/k/qg5adh5",
-        "date": "2020-12-19"
-      },
-      {
-        "title": "[推荐] 生产力工具",
-        "link": "https://toutiao.io/k/ltecz1p",
+        "title": "[推荐] 爱奇艺微服务标准技术架构实践",
+        "link": "https://toutiao.io/k/nm97hxh",
         "date": "2020-12-19"
       },
       {
@@ -18949,18 +18924,18 @@
         "date": "2020-12-19"
       },
       {
-        "title": "[推荐] 分布式搜索引擎 Elasticsearch 的架构分析",
-        "link": "https://toutiao.io/k/j4aoyho",
+        "title": "[推荐] 带你扒一扒 MySQL 的数据在磁盘上到底长什么样子",
+        "link": "https://toutiao.io/k/s6jntn5",
         "date": "2020-12-19"
       },
       {
-        "title": "[推荐] 求你别再用 Swagger 了，给你推荐几个在线文档生成神器",
-        "link": "https://toutiao.io/k/ftaw3bc",
+        "title": "[推荐] Go 错误处理最佳实践",
+        "link": "https://toutiao.io/k/lodfgxd",
         "date": "2020-12-19"
       },
       {
-        "title": "[推荐] 码仔漫画：TCP 的三次握手",
-        "link": "https://toutiao.io/k/mefwl8s",
+        "title": "[推荐] 记一次 MySQL 的 insert 死锁",
+        "link": "https://toutiao.io/k/mbyee1y",
         "date": "2020-12-19"
       },
       {
@@ -18969,8 +18944,33 @@
         "date": "2020-12-19"
       },
       {
-        "title": "[推荐] 爱奇艺微服务标准技术架构实践",
-        "link": "https://toutiao.io/k/nm97hxh",
+        "title": "[推荐] MySQL 优化神器",
+        "link": "https://toutiao.io/k/qg5adh5",
+        "date": "2020-12-19"
+      },
+      {
+        "title": "[推荐] 码仔漫画：TCP 的三次握手",
+        "link": "https://toutiao.io/k/mefwl8s",
+        "date": "2020-12-19"
+      },
+      {
+        "title": "[推荐] 漫话 Docker 的衰落与 Kubernetes 的兴起",
+        "link": "https://toutiao.io/k/h3ooyse",
+        "date": "2020-12-19"
+      },
+      {
+        "title": "[推荐] 求你别再用 Swagger 了，给你推荐几个在线文档生成神器",
+        "link": "https://toutiao.io/k/ftaw3bc",
+        "date": "2020-12-19"
+      },
+      {
+        "title": "[推荐] 分布式搜索引擎 Elasticsearch 的架构分析",
+        "link": "https://toutiao.io/k/j4aoyho",
+        "date": "2020-12-19"
+      },
+      {
+        "title": "[推荐] 生产力工具",
+        "link": "https://toutiao.io/k/ltecz1p",
         "date": "2020-12-19"
       }
     ]

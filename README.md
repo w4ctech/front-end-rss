@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-19 11:51:54，:rocket: 更新条数: +3862， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-19 12:05:39，:rocket: 更新条数: +3862， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-12-19-为避免新冠疫情影响-赞比亚为偏远地区考生空运试卷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLClQPRylof454zYWmAp5201219&isfromapp=1) ![](assets/new.png)  
+- [2020-12-19-大连市发布金润小区管控楼宇及格林小镇核酸检测结果：均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiByAaN41oM4ecXifNUVZ0201219&isfromapp=1) ![](assets/new.png)  
+- [2020-12-19-韩国首尔东部拘留所暴发集体感染-184人确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwDZYkvaNcTmNPplRWQYo201219&isfromapp=1) ![](assets/new.png)  
 - [2020-12-19-香港加强对从外国地区到港人士的新冠病毒核酸检测要求](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwHjgKNTnE5GWSNZ5hbW2201219&isfromapp=1) ![](assets/new.png)  
 - [2020-12-19-香港特区政府刊宪：将加拿大列为疫情极高风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie7tn0GQ9RlfCzzJO4WIu201219&isfromapp=1) ![](assets/new.png)  
-- [2020-12-19-争取做到高风险人群“应接尽接”新冠疫苗-符合条件者都能按时接种](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5eojOALnBmph9KQYJsn4201219&isfromapp=1) ![](assets/new.png)  
-- [2020-12-19-我国多个新冠疫苗陆续在境外开展临床试验-进展顺利](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirQx3tfxLxdkYM641IPaR201219&isfromapp=1) ![](assets/new.png)  
-- [2020-12-19-哥伦比亚亚洲问题专家：中国统筹防疫与经济发展成效显著](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWIcgLP51tM0Jow2duaf1201219&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -974,6 +974,9 @@
 </summary>
 
 
+- [2020-12-19-小米碰碰贴-2-能不能模拟公司的员工卡（门禁+饭卡）](https://www.v2ex.com/t/737106) ![](assets/new.png)  
+- [2020-12-19-打算某宝买-se2-一些问题](https://www.v2ex.com/t/737105) ![](assets/new.png)  
+- [2020-12-19-面试官建议-总结对比业务，让外行也能听懂，什么意思？](https://www.v2ex.com/t/737104) ![](assets/new.png)  
 - [2020-12-19-想要办个备用号码，专门接收短信，有什么便宜套餐吗？](https://www.v2ex.com/t/737103) ![](assets/new.png)  
 - [2020-12-19-有什么安卓开热点的增强工具，能把安卓机变成功能比较多的路由器？](https://www.v2ex.com/t/737102) ![](assets/new.png)  
 - [2020-12-19-请各位-V-友预测-MacBook-Pro-16-英寸（ARM-版）大概什么时候发布？](https://www.v2ex.com/t/737101) ![](assets/new.png)  
@@ -991,9 +994,6 @@
 - [2020-12-19-请教一个-C++问题，为什么加了-inline-反而效率降低了](https://www.v2ex.com/t/737087) ![](assets/new.png)  
 - [2020-12-19-我想建立一个工程师创业部落](https://www.v2ex.com/t/737086) ![](assets/new.png)  
 - [2020-12-19-最近成都楼市提前过年，出了好多神盘](https://www.v2ex.com/t/737085) ![](assets/new.png)  
-- [2020-12-19-lightroom-mobile-不用会员也能编辑-RAW？](https://www.v2ex.com/t/737084) ![](assets/new.png)  
-- [2020-12-19-花了几个小时做了个抱怨-app,ui-创新了一下](https://www.v2ex.com/t/737083) ![](assets/new.png)  
-- [2020-12-19-想入手个轻量级的云服务器,现在还有什么划算的活动吗](https://www.v2ex.com/t/737082) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1046,16 +1046,16 @@
 - [2020-12-19-译-英雄联盟-LOL-所在公司竟然大量使用-Go-语言：这是他们的实战分享](https://toutiao.io/k/4s84o6v) ![](assets/new.png)  
 - [2020-12-19-谷歌简单粗暴-“复制-粘贴”-数据增广，刷新-COCO-目标检测与实例分割新高度](https://toutiao.io/k/3ruv7oa) ![](assets/new.png)  
 - [2020-12-19-GraphQL：从头开始](https://toutiao.io/k/3ffr91z) ![](assets/new.png)  
-- [2020-12-19-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
-- [2020-12-19-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
-- [2020-12-19-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
-- [2020-12-19-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
-- [2020-12-19-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
-- [2020-12-19-推荐-生产力工具](https://toutiao.io/k/ltecz1p) ![](assets/new.png)  
+- [2020-12-19-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
 - [2020-12-19-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
 - [2020-12-19-推荐-性能提高-15-倍！只是把-MySQL-换成了-ClickHouse](https://toutiao.io/k/221a7sh) ![](assets/new.png)  
-- [2020-12-19-推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho) ![](assets/new.png)  
-- [2020-12-19-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
+- [2020-12-19-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
+- [2020-12-19-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
+- [2020-12-19-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
+- [2020-12-19-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
+- [2020-12-19-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
+- [2020-12-19-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
+- [2020-12-19-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-19 08:47:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-19 08:57:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-19-请教一下-Nginx-伪静态该怎么写](https://www.v2ex.com/t/737064) 
 - [2020-12-19-你们手机上用-V2EX-用的啥客户端？](https://www.v2ex.com/t/737063) 
 - [2020-12-19-入职不到一个月，因为明年元旦三天都要加班，又想跑了](https://www.v2ex.com/t/737062) 
 - [2020-12-19-房子问题是你会怎么选](https://www.v2ex.com/t/737061) 
@@ -40,4 +41,3 @@
 - [2020-12-19-git-脏分支新的修改如何-merge-到开发分支](https://www.v2ex.com/t/737017) 
 - [2020-12-19-开源-简单粗暴的版本管理](https://www.v2ex.com/t/737016) 
 - [2020-12-19-iPhone-12-首发官网入的，-icloud-恢复数据，一直不能-OTA-升级，一点软件更新就卡死](https://www.v2ex.com/t/737015) 
-- [2020-12-19-flask-的-Working-outside-of-application-context-求助](https://www.v2ex.com/t/737014) 

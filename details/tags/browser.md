@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 03:09:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 03:21:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,6 +28,7 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-12-20-社招-字节跳动-渗透测试工程师---安全与风控（北/上/杭/深）急招](https://www.v2ex.com/t/737172) 
 - [2020-12-20-Windows-操作系统中，-Chrome-有没有办法读写硬盘文件？](https://www.v2ex.com/t/737149) 
 - [2020-12-20-聊聊-HTTP-常见的请求方式-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14055&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337897202%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-20-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-20 19:30:39，:rocket: 更新条数: +919， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-20 19:39:16，:rocket: 更新条数: +919， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1025,17 +1025,17 @@
 - [2020-12-20-贝壳商业化算法中台架构实践](https://toutiao.io/k/fvgydff) ![](assets/new.png)  
 - [2020-12-20-浅谈阿里前端的多样化](https://toutiao.io/k/bd5fosy) ![](assets/new.png)  
 - [2020-12-20-论文：Item2vec-中值得品味的-8-个经典-tricks](https://toutiao.io/k/rvd4sev) ![](assets/new.png)  
-- [2020-12-20-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
 - [2020-12-20-推荐-常见算法模版总结（二）](https://toutiao.io/k/s66geea) ![](assets/new.png)  
-- [2020-12-20-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
-- [2020-12-20-推荐-架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://toutiao.io/k/aj36ptr) ![](assets/new.png)  
-- [2020-12-20-推荐-MySQL-索引知识点总结](https://toutiao.io/k/u9plzvk) ![](assets/new.png)  
-- [2020-12-20-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
-- [2020-12-20-推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho) ![](assets/new.png)  
 - [2020-12-20-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
-- [2020-12-20-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
-- [2020-12-20-推荐-HTTP/2-做错了什么？刚刚辉煌-2-年就要被弃用了！？](https://toutiao.io/k/v5mm32h) ![](assets/new.png)  
+- [2020-12-20-推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho) ![](assets/new.png)  
 - [2020-12-20-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
+- [2020-12-20-推荐-MySQL-索引知识点总结](https://toutiao.io/k/u9plzvk) ![](assets/new.png)  
+- [2020-12-20-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
+- [2020-12-20-推荐-架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://toutiao.io/k/aj36ptr) ![](assets/new.png)  
+- [2020-12-20-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
+- [2020-12-20-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
+- [2020-12-20-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
+- [2020-12-20-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

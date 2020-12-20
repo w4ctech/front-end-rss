@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 08:05:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-20 08:10:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -424,6 +424,11 @@
 - [【JavaScript】2020-12-03-疯了？价值上万元“Web全栈架构师”正课免费？](https://www.ershicimi.com/p/cae5f6db9a2ffaa926bb78df3323fe21) 
 - [【JavaScript】2020-12-02-只会-Vue-，已经没前途了](https://www.ershicimi.com/p/0f6da4a6bf5b014b546bdbbd882fdfd4) 
 - [【JavaScript】2020-12-01-刚刚在生产代码中找到了这个](https://www.ershicimi.com/p/fc3d78bd0b152e927c43f692cc94eb95) 
+- [【掘金前端】2020-12-19-一篇学透-类型转化（上）](https://juejin.im/post/6908239708514418702) 
+- [【掘金前端】2020-12-19-javascript之Array对象回顾](https://juejin.im/post/6908236008458813448) 
+- [【掘金前端】2020-12-19-关于txt、csv以及其他文件的下载方法。](https://juejin.im/post/6908228477628104711) 
+- [【掘金前端】2020-12-19-Vue2中的响应式系统简要分析](https://juejin.im/post/6908226803765248013) 
+- [【掘金前端】2020-12-17-在鸿蒙2.0beta手机版发布的第二天，我写了一个鸿蒙的物联网应用手机APP](https://juejin.im/post/6907411116436946952) 
 - [【知乎日报】2020-12-18-知乎十年来最火火火火火火火火的问题！](https://www.ershicimi.com/p/bcfc57dc43045f113385ac836b2db838) 
 - [【知乎日报】2020-12-18-知乎故事-|-船新「白蛇传」](https://www.ershicimi.com/p/8c8528716c747721f76553f1acfc1b55) 
 - [【知乎日报】2020-12-17-「谢邀，人在知乎，正在玩梗」](https://www.ershicimi.com/p/7d8d5ad6b86b9b920a1141c143fb82e8) 

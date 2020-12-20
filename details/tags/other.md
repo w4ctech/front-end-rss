@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 08:05:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 08:10:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2827,6 +2827,9 @@
 - [2020-11-30-大牛必备：前端与图形学](https://www.ershicimi.com/p/bd09372d8f116c35e638d0696674ea89) 
 - [2020-11-27-为什么程序员都跑去做这个？](https://www.ershicimi.com/p/c7570ac3c0f8ee4dee7608e856c31f52) 
 - [2020-11-25-初级前端的源码水平-VS-资深前端的源码水平](https://www.ershicimi.com/p/24a9326fe023cc417f59560f6a2cd9e1) 
+- [2020-12-19-一篇学透-类型转化（上）](https://juejin.im/post/6908239708514418702) 
+- [2020-12-19-关于txt、csv以及其他文件的下载方法。](https://juejin.im/post/6908228477628104711) 
+- [2020-12-17-在鸿蒙2.0beta手机版发布的第二天，我写了一个鸿蒙的物联网应用手机APP](https://juejin.im/post/6907411116436946952) 
 - [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) 
 - [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) 
 - [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) 

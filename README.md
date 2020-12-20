@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-20 04:47:03，:rocket: 更新条数: +3869， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-20 04:58:55，:rocket: 更新条数: +3870， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -974,8 +974,10 @@
 </summary>
 
 
+- [2020-12-20-如果要弄一个有-2.5G-口的软路由，用-USB3.0-来转接会不会有什么问题？](https://www.v2ex.com/t/737188) ![](assets/new.png)  
+- [2020-12-20-想冲-apple-care](https://www.v2ex.com/t/737187) ![](assets/new.png)  
 - [2020-12-20-为什么像微博-iOS-版本，还有拼多多-iOS-版，下载后不需要账号登录，下载完安装上就是登录状态？](https://www.v2ex.com/t/737186) ![](assets/new.png)  
-- [2020-12-20-一个权限设计问题](https://www.v2ex.com/t/737185) ![](assets/new.png)  
+- [2020-12-20-一个权限设计问题（-Java-）](https://www.v2ex.com/t/737185) ![](assets/new.png)  
 - [2020-12-20-Setapp-家庭订阅人均-2.5-刀，还剩-1-个车位](https://www.v2ex.com/t/737184) ![](assets/new.png)  
 - [2020-12-20-互联网十年来对社会生活的影响都有什么？](https://www.v2ex.com/t/737183) ![](assets/new.png)  
 - [2020-12-20-请问续费-ACM-得-Orelly-的最佳姿势？](https://www.v2ex.com/t/737182) ![](assets/new.png)  
@@ -992,8 +994,6 @@
 - [2020-12-20-一个命令行下看小说的工具](https://www.v2ex.com/t/737168) ![](assets/new.png)  
 - [2020-12-20-想问下大伙，有没有人知道-netbiosd-这个进程谁干啥的?](https://www.v2ex.com/t/737167) ![](assets/new.png)  
 - [2020-12-20-万青要发新专辑了](https://www.v2ex.com/t/737166) ![](assets/new.png)  
-- [2020-12-20-实习-微软亚洲研究院-全球网络实时数据采集平台-Web-前端实习生](https://www.v2ex.com/t/737165) ![](assets/new.png)  
-- [2020-12-20-手机和电脑之间传送文字用什么软件方便快捷？](https://www.v2ex.com/t/737164) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1045,17 +1045,17 @@
 - [2020-12-20-浅谈阿里前端的多样化](https://toutiao.io/k/bd5fosy) ![](assets/new.png)  
 - [2020-12-20-贝壳商业化算法中台架构实践](https://toutiao.io/k/fvgydff) ![](assets/new.png)  
 - [2020-12-20-论文：Item2vec-中值得品味的-8-个经典-tricks](https://toutiao.io/k/rvd4sev) ![](assets/new.png)  
-- [2020-12-20-推荐-常见算法模版总结（二）](https://toutiao.io/k/s66geea) ![](assets/new.png)  
-- [2020-12-20-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
-- [2020-12-20-推荐-生产力工具](https://toutiao.io/k/ltecz1p) ![](assets/new.png)  
-- [2020-12-20-推荐-架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://toutiao.io/k/aj36ptr) ![](assets/new.png)  
-- [2020-12-20-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
-- [2020-12-20-推荐-MySQL-索引知识点总结](https://toutiao.io/k/u9plzvk) ![](assets/new.png)  
-- [2020-12-20-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
 - [2020-12-20-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
+- [2020-12-20-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
+- [2020-12-20-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
+- [2020-12-20-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
+- [2020-12-20-推荐-架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://toutiao.io/k/aj36ptr) ![](assets/new.png)  
+- [2020-12-20-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
+- [2020-12-20-推荐-常见算法模版总结（二）](https://toutiao.io/k/s66geea) ![](assets/new.png)  
+- [2020-12-20-推荐-生产力工具](https://toutiao.io/k/ltecz1p) ![](assets/new.png)  
 - [2020-12-20-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
 - [2020-12-20-推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho) ![](assets/new.png)  
-- [2020-12-20-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
+- [2020-12-20-推荐-MySQL-索引知识点总结](https://toutiao.io/k/u9plzvk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

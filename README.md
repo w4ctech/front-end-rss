@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-20 11:08:46，:rocket: 更新条数: +3863， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-20 11:32:26，:rocket: 更新条数: +3862， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -974,16 +974,19 @@
 </summary>
 
 
+- [2020-12-20-有没上岸的-V-友？（考上-XX-单位铁饭碗？）](https://www.v2ex.com/t/737272) ![](assets/new.png)  
+- [2020-12-20-office-365-开车-40-一年，-长期车](https://www.v2ex.com/t/737271) ![](assets/new.png)  
+- [2020-12-20-请问开发、学习、实验，使用-vmware-好还是-docker-好？](https://www.v2ex.com/t/737270) ![](assets/new.png)  
+- [2020-12-20-Software-Engineer-Back-end-工作地点巴黎或法国当地远程](https://www.v2ex.com/t/737269) ![](assets/new.png)  
+- [2020-12-20-是时候让大伙展现真正的技术了！-帮我看看实习简历吧！-Java-后端](https://www.v2ex.com/t/737268) ![](assets/new.png)  
 - [2020-12-20-分享一个支持-MP4-M3U8-等多种格式的支持弹幕的在线视频播放器](https://www.v2ex.com/t/737266) ![](assets/new.png)  
 - [2020-12-20-大家用-Linux-或-FreeBSD-当桌面系统主要用来做什么](https://www.v2ex.com/t/737265) ![](assets/new.png)  
-- [2020-12-20-求推荐香港-VPS，生产环境做站用途。](https://www.v2ex.com/t/737263) ![](assets/new.png)  
 - [2020-12-20-英短总是不亲人，而且不让抱](https://www.v2ex.com/t/737261) ![](assets/new.png)  
 - [2020-12-20-为-CefSharp-应用内置-C++-运行环境并启用-AnyCPU-支持](https://www.v2ex.com/t/737260) ![](assets/new.png)  
 - [2020-12-20-冬天，你们是怎么防静电的？](https://www.v2ex.com/t/737259) ![](assets/new.png)  
 - [2020-12-20-拼多多百亿补贴-M1-mbp-上-16G-版本了](https://www.v2ex.com/t/737257) ![](assets/new.png)  
 - [2020-12-20-请问浙江移动现在有什么推荐的便宜套餐吗](https://www.v2ex.com/t/737256) ![](assets/new.png)  
 - [2020-12-20-这是个图床，现在支持自定义二级域名了，赶紧来抢注一个！](https://www.v2ex.com/t/737255) ![](assets/new.png)  
-- [2020-12-20-理发越来越贵了](https://www.v2ex.com/t/737254) ![](assets/new.png)  
 - [2020-12-20-全面屏-Pad-环境光传感器](https://www.v2ex.com/t/737253) ![](assets/new.png)  
 - [2020-12-20-国行-iPhone-如何能低价购入，电脑可以用学生资格](https://www.v2ex.com/t/737252) ![](assets/new.png)  
 - [2020-12-20-阿里内推-驻板内推好几年了，今年主推阿里，可以春节后入职](https://www.v2ex.com/t/737251) ![](assets/new.png)  
@@ -991,9 +994,6 @@
 - [2020-12-20-好久不装机了，-2020-年，现在装机的最好姿势是什么？](https://www.v2ex.com/t/737249) ![](assets/new.png)  
 - [2020-12-20-请问衡阳哪里有大四实习的地方吗？](https://www.v2ex.com/t/737247) ![](assets/new.png)  
 - [2020-12-20-SSD-固态硬盘对-Linux-加成有多大？](https://www.v2ex.com/t/737246) ![](assets/new.png)  
-- [2020-12-20-现在哪儿能当场买到-16G-的-M1-呀？](https://www.v2ex.com/t/737245) ![](assets/new.png)  
-- [2020-12-20-快过春节了，回家礼物咋准备？](https://www.v2ex.com/t/737244) ![](assets/new.png)  
-- [2020-12-20-发现-3500U-的-HDMI1.4-可以支持-4k60](https://www.v2ex.com/t/737243) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1045,17 +1045,17 @@
 - [2020-12-20-贝壳商业化算法中台架构实践](https://toutiao.io/k/fvgydff) ![](assets/new.png)  
 - [2020-12-20-浅谈阿里前端的多样化](https://toutiao.io/k/bd5fosy) ![](assets/new.png)  
 - [2020-12-20-论文：Item2vec-中值得品味的-8-个经典-tricks](https://toutiao.io/k/rvd4sev) ![](assets/new.png)  
-- [2020-12-20-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
-- [2020-12-20-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
-- [2020-12-20-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
-- [2020-12-20-推荐-MySQL-索引知识点总结](https://toutiao.io/k/u9plzvk) ![](assets/new.png)  
-- [2020-12-20-推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho) ![](assets/new.png)  
 - [2020-12-20-推荐-常见算法模版总结（二）](https://toutiao.io/k/s66geea) ![](assets/new.png)  
-- [2020-12-20-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
-- [2020-12-20-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
-- [2020-12-20-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
-- [2020-12-20-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
+- [2020-12-20-推荐-MySQL-索引知识点总结](https://toutiao.io/k/u9plzvk) ![](assets/new.png)  
 - [2020-12-20-推荐-生产力工具](https://toutiao.io/k/ltecz1p) ![](assets/new.png)  
+- [2020-12-20-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
+- [2020-12-20-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
+- [2020-12-20-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
+- [2020-12-20-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
+- [2020-12-20-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
+- [2020-12-20-推荐-架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://toutiao.io/k/aj36ptr) ![](assets/new.png)  
+- [2020-12-20-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
+- [2020-12-20-推荐-性能提高-15-倍！只是把-MySQL-换成了-ClickHouse](https://toutiao.io/k/221a7sh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

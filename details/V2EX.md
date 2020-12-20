@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-20 09:34:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 09:44:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-20-好久不装机了，-2020-年，现在装机的最好姿势是什么？](https://www.v2ex.com/t/737249) 
 - [2020-12-20-请问衡阳哪里有大四实习的地方吗？](https://www.v2ex.com/t/737247) 
 - [2020-12-20-SSD-固态硬盘对-Linux-加成有多大？](https://www.v2ex.com/t/737246) 
 - [2020-12-20-现在哪儿能当场买到-16G-的-M1-呀？](https://www.v2ex.com/t/737245) 
@@ -34,4 +35,3 @@
 - [2020-12-20-朋友买了两百块的国产笔，配-iPad-居然意外地好用](https://www.v2ex.com/t/737204) 
 - [2020-12-20-吐槽一下-Apple-TV-4-的百兆网口](https://www.v2ex.com/t/737202) 
 - [2020-12-20-pixel-一代-hdr-视频-Google-photos](https://www.v2ex.com/t/737201) 
-- [2020-12-20-通过-Imgur-的-API-上传的图片，没有绑定到自己的账户上？](https://www.v2ex.com/t/737199) 

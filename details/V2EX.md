@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-20 03:43:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 03:57:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-20-Preview-PDF-标注随机丢失](https://www.v2ex.com/t/737179) 
 - [2020-12-20-利用-Cloudflare-Worker-撸了一个在线爬虫，有需要的朋友可以看看。](https://www.v2ex.com/t/737178) 
 - [2020-12-20-被电信割了波韭菜，求推荐新套餐](https://www.v2ex.com/t/737177) 
 - [2020-12-20-Safari-个人收藏无法获取网站的图标](https://www.v2ex.com/t/737175) 
@@ -45,4 +46,3 @@
 - [2020-12-19-YouTube-tv-版是不是挂了](https://www.v2ex.com/t/737132) 
 - [2020-12-19-一年半经验的嵌入式软件开发在一线城市能要到多少？](https://www.v2ex.com/t/737131) 
 - [2020-12-19-索尼的长焦投影机有没有硬屏的幕布可选？](https://www.v2ex.com/t/737130) 
-- [2020-12-19-office-365-家庭版-有开车的算我一个-长期](https://www.v2ex.com/t/737129) 

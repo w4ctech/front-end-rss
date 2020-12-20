@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-12-20 04:08:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 04:39:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-20-一个权限设计问题](https://www.v2ex.com/t/737185) 
+- [2020-12-20-Setapp-家庭订阅人均-2.5-刀，还剩-1-个车位](https://www.v2ex.com/t/737184) 
+- [2020-12-20-互联网十年来对社会生活的影响都有什么？](https://www.v2ex.com/t/737183) 
+- [2020-12-20-请问续费-ACM-得-Orelly-的最佳姿势？](https://www.v2ex.com/t/737182) 
 - [2020-12-20-padavan-固件里启动-NFS-失败](https://www.v2ex.com/t/737181) 
 - [2020-12-20-原来印象笔记招聘的工程师薪资这么低](https://www.v2ex.com/t/737180) 
 - [2020-12-20-Preview-PDF-标注随机丢失](https://www.v2ex.com/t/737179) 
@@ -44,5 +48,3 @@
 - [2020-12-19-深圳电信封了-4500-和-1701-端口？](https://www.v2ex.com/t/737141) 
 - [2020-12-19-frp-开启-https-踩了几个坑...](https://www.v2ex.com/t/737137) 
 - [2020-12-19-其实电脑的主机只需要一根线就够了](https://www.v2ex.com/t/737136) 
-- [2020-12-19-阿里云-PolarDB-有人用过吗?](https://www.v2ex.com/t/737135) 
-- [2020-12-19-YouTube-tv-版是不是挂了](https://www.v2ex.com/t/737132) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 19:51:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 20:05:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -58,8 +58,6 @@
 - [2020-12-07-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/bfcc0fa011c651c5362949f91ad3d3d9) 
 - [2020-12-07-我点击页面元素，VSCode-乖乖打开了组件？原理揭秘。](https://www.ershicimi.com/p/f5013b2b5cd50e75fd40bc7a737ca731) 
 - [2020-11-27-一行能装逼的JavaScript代码](https://www.ershicimi.com/p/0bd195fae01be5fe56a5ea0f1e34274d) 
-- [2020-12-18-这样写的-JS-代码看着就很舒服](https://www.ershicimi.com/p/3683bdc778b39970b45fb2bc0135b148) 
-- [2020-12-15-关于JavaScript计时器的知识学习](https://www.ershicimi.com/p/da1f070ec3bbe167168f52a9821adff8) 
 - [2020-12-16-前端科普系列（3）：CommonJS-不是前端却革命了前端](https://www.ershicimi.com/p/f803c835e0429302da18885a5c1987d0) 
 - [2020-11-16-从理解到实现轻松掌握-ES6-中的迭代器](https://www.ershicimi.com/p/3795a41792370b270408c5350d3f5adf) 
 - [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
@@ -98,7 +96,6 @@
 - [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2020-12-16-公司这套架构统一处理try...catch这么香，求求你不要再满屏写了，再发现扣绩效！](https://www.ershicimi.com/p/cc4efe822851934c84e0bd833157dcc1) 
-- [2020-12-20-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/9fcf58b28b62a29d8df2ffa346bef03a) 
 - [2020-12-20-jsliang-求职系列---48---面试经验汇总](https://juejin.im/post/6908340072446328839) 
 - [2020-12-19-模块化的三个优化目标](https://juejin.im/post/6908222208766803976) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 

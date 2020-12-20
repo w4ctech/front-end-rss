@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 06:10:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 06:39:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,6 +42,7 @@
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2020-12-18-彻底搞懂-Http-缓存策略，切记死背概念！](https://juejin.im/post/6907592506779631623) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-20-Preview-PDF-标注随机丢失](https://www.v2ex.com/t/737179) 
 - [2020-12-20-Safari-个人收藏无法获取网站的图标](https://www.v2ex.com/t/737175) 

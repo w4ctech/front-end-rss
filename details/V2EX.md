@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-12-20 03:57:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 04:08:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-20-padavan-固件里启动-NFS-失败](https://www.v2ex.com/t/737181) 
+- [2020-12-20-原来印象笔记招聘的工程师薪资这么低](https://www.v2ex.com/t/737180) 
 - [2020-12-20-Preview-PDF-标注随机丢失](https://www.v2ex.com/t/737179) 
 - [2020-12-20-利用-Cloudflare-Worker-撸了一个在线爬虫，有需要的朋友可以看看。](https://www.v2ex.com/t/737178) 
 - [2020-12-20-被电信割了波韭菜，求推荐新套餐](https://www.v2ex.com/t/737177) 
@@ -44,5 +46,3 @@
 - [2020-12-19-其实电脑的主机只需要一根线就够了](https://www.v2ex.com/t/737136) 
 - [2020-12-19-阿里云-PolarDB-有人用过吗?](https://www.v2ex.com/t/737135) 
 - [2020-12-19-YouTube-tv-版是不是挂了](https://www.v2ex.com/t/737132) 
-- [2020-12-19-一年半经验的嵌入式软件开发在一线城市能要到多少？](https://www.v2ex.com/t/737131) 
-- [2020-12-19-索尼的长焦投影机有没有硬屏的幕布可选？](https://www.v2ex.com/t/737130) 

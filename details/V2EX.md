@@ -1,13 +1,14 @@
-:alarm_clock: 更新时间: 2020-12-20 07:52:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 08:05:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-20-快速体验-M1-之-Windows-虚拟机](https://www.v2ex.com/t/737226) 
+- [2020-12-20-问一下-大佬-Tiny-Tiny-Rss-有免费安卓客户端吗?](https://www.v2ex.com/t/737225) 
 - [2020-12-20-不会吧不会吧不会吧，虚拟机和-dhcp-冲突？](https://www.v2ex.com/t/737223) 
 - [2020-12-20-2020-微信头像圣诞帽来啦，快给-TA-戴帽子吧~](https://www.v2ex.com/t/737222) 
-- [2020-12-20-老铁们，来，说说你们遇到的人对程序员的固有印象](https://www.v2ex.com/t/737221) 
 - [2020-12-20-2020-CodersRank-yearly-report](https://www.v2ex.com/t/737220) 
 - [2020-12-20-实习Casbin-开源软件-GSoC-远程预选生+实习生](https://www.v2ex.com/t/737219) 
 - [2020-12-20-开源-写了个仿-TypeScript-的静态编译型语言，前端朋友可以重点关注一下](https://www.v2ex.com/t/737217) 
@@ -39,5 +40,3 @@
 - [2020-12-20-Preview-PDF-标注随机丢失](https://www.v2ex.com/t/737179) 
 - [2020-12-20-利用-Cloudflare-Worker-撸了一个在线爬虫，有需要的朋友可以看看。](https://www.v2ex.com/t/737178) 
 - [2020-12-20-被电信割了波韭菜，求推荐新套餐](https://www.v2ex.com/t/737177) 
-- [2020-12-20-Safari-个人收藏无法获取网站的图标](https://www.v2ex.com/t/737175) 
-- [2020-12-20-社招风控部门-金融租赁公司管理计算机供应商的风控部门](https://www.v2ex.com/t/737174) 

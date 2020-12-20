@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 07:52:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 08:05:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,7 +44,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-20-这俩下架的-chrome-扩展-有替代品吗？](https://www.v2ex.com/t/737214) 
 - [2020-12-20-Preview-PDF-标注随机丢失](https://www.v2ex.com/t/737179) 
-- [2020-12-20-Safari-个人收藏无法获取网站的图标](https://www.v2ex.com/t/737175) 
 - [2020-12-20-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-20-聊聊-HTTP-常见的请求方式-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14055&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337897202%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-20-手把手教你看懂-Chrome-火焰图](https://toutiao.io/k/p2bovqq) 

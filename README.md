@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-20 07:52:41，:rocket: 更新条数: +3858， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-20 08:05:52，:rocket: 更新条数: +3857， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -96,6 +96,11 @@
 </summary>
 
 
+- [2020-12-20-河南省19日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS1PnkDrJSGxzji1aQXSr201220&isfromapp=1) ![](assets/new.png)  
+- [2020-12-20-成都确诊飞行员密接者第二次核酸检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieO9gIKXQgnpigRK8svpz201220&isfromapp=1) ![](assets/new.png)  
+- [2020-12-19-因沟通不当致分配疫苗比预期少40%-美国疫苗项目负责人致歉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQo8kz3tT8lObkWHSXPeC201220&isfromapp=1) ![](assets/new.png)  
+- [2020-12-19-希腊21日起推出线上平台派发免费新冠病毒检测名额](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUnPpnh26nIYXmAjIS5af201220&isfromapp=1) ![](assets/new.png)  
+- [2020-12-19-为避免新冠疫情影响-赞比亚为偏远地区考生空运试卷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLClQPRylof454zYWmAp5201219&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -849,11 +854,6 @@
 </summary>
 
 
-- [2020-12-18-Vue弹出框的优雅实践](https://juejin.im/post/6907608357914607629) ![](assets/new.png)  
-- [2020-12-17-浏览器开发工具使用技巧篇（二）js调试+-与后台对接的错误调试](https://juejin.im/post/6907478521199722509) ![](assets/new.png)  
-- [2020-12-17-使用CLI开发一个Vue3的npm库](https://juejin.im/post/6907428535510499336) ![](assets/new.png)  
-- [2020-12-17-『前端工程』——如何搭建一个UI组件库](https://juejin.im/post/6907424006580731918) ![](assets/new.png)  
-- [2020-12-17-在鸿蒙2.0beta手机版发布的第二天，我写了一个鸿蒙的物联网应用手机APP](https://juejin.im/post/6907411116436946952) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -969,9 +969,10 @@
 </summary>
 
 
+- [2020-12-20-快速体验-M1-之-Windows-虚拟机](https://www.v2ex.com/t/737226) ![](assets/new.png)  
+- [2020-12-20-问一下-大佬-Tiny-Tiny-Rss-有免费安卓客户端吗?](https://www.v2ex.com/t/737225) ![](assets/new.png)  
 - [2020-12-20-不会吧不会吧不会吧，虚拟机和-dhcp-冲突？](https://www.v2ex.com/t/737223) ![](assets/new.png)  
 - [2020-12-20-2020-微信头像圣诞帽来啦，快给-TA-戴帽子吧~](https://www.v2ex.com/t/737222) ![](assets/new.png)  
-- [2020-12-20-老铁们，来，说说你们遇到的人对程序员的固有印象](https://www.v2ex.com/t/737221) ![](assets/new.png)  
 - [2020-12-20-2020-CodersRank-yearly-report](https://www.v2ex.com/t/737220) ![](assets/new.png)  
 - [2020-12-20-实习Casbin-开源软件-GSoC-远程预选生+实习生](https://www.v2ex.com/t/737219) ![](assets/new.png)  
 - [2020-12-20-开源-写了个仿-TypeScript-的静态编译型语言，前端朋友可以重点关注一下](https://www.v2ex.com/t/737217) ![](assets/new.png)  
@@ -988,7 +989,6 @@
 - [2020-12-20-iPhone-11-Pro-max-PD-快充可以达到-27W？](https://www.v2ex.com/t/737198) ![](assets/new.png)  
 - [2020-12-20-迫于久坐，身体经常特别疲累以及背部和胸部十分酸痛，大佬们，有什么健康和医学相关的书籍推荐吗？](https://www.v2ex.com/t/737197) ![](assets/new.png)  
 - [2020-12-20-微博现在信息流本体是广告，偶尔插入几条消息](https://www.v2ex.com/t/737195) ![](assets/new.png)  
-- [2020-12-20-求助-可否在公司电脑登录-Apple-ID？](https://www.v2ex.com/t/737194) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1040,16 +1040,16 @@
 - [2020-12-20-浅谈阿里前端的多样化](https://toutiao.io/k/bd5fosy) ![](assets/new.png)  
 - [2020-12-20-贝壳商业化算法中台架构实践](https://toutiao.io/k/fvgydff) ![](assets/new.png)  
 - [2020-12-20-论文：Item2vec-中值得品味的-8-个经典-tricks](https://toutiao.io/k/rvd4sev) ![](assets/new.png)  
+- [2020-12-20-推荐-常见算法模版总结（二）](https://toutiao.io/k/s66geea) ![](assets/new.png)  
 - [2020-12-20-推荐-生产力工具](https://toutiao.io/k/ltecz1p) ![](assets/new.png)  
-- [2020-12-20-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
+- [2020-12-20-推荐-MySQL-索引知识点总结](https://toutiao.io/k/u9plzvk) ![](assets/new.png)  
+- [2020-12-20-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
 - [2020-12-20-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
-- [2020-12-20-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
+- [2020-12-20-推荐-架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://toutiao.io/k/aj36ptr) ![](assets/new.png)  
 - [2020-12-20-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
 - [2020-12-20-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
 - [2020-12-20-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
-- [2020-12-20-推荐-MySQL-索引知识点总结](https://toutiao.io/k/u9plzvk) ![](assets/new.png)  
-- [2020-12-20-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
-- [2020-12-20-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
+- [2020-12-20-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
 - [2020-12-20-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

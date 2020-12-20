@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 12:53:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 13:04:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -77,6 +77,9 @@
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2020-12-16-公司这套架构统一处理try...catch这么香，求求你不要再满屏写了，再发现扣绩效！](https://www.ershicimi.com/p/cc4efe822851934c84e0bd833157dcc1) 
 - [2020-12-20-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/9fcf58b28b62a29d8df2ffa346bef03a) 
+- [2020-12-20-JavaScript网页编程之函数](https://juejin.im/post/6908254361499992072) 
+- [2020-12-20-Mockjs随机生成浅色图片-|-十六进制颜色码调色大法](https://juejin.im/post/6908253785265537032) 
+- [2020-12-20-JavaScript-数组](https://juejin.im/post/6908252952914460685) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

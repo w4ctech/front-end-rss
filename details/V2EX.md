@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 12:53:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 13:04:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,4 +40,3 @@
 - [2020-12-20-发现-3500U-的-HDMI1.4-可以支持-4k60](https://www.v2ex.com/t/737243) 
 - [2020-12-20-windows-上安卓模拟器和-virtualbox-有办法解决吗](https://www.v2ex.com/t/737240) 
 - [2020-12-20-自己买个傲风的椅子去公司会不会有点太嚣张了](https://www.v2ex.com/t/737239) 
-- [2020-12-20-新版-ECG2.0-原来开通过的不能直接升级](https://www.v2ex.com/t/737237) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 05:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 05:36:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -50,6 +50,8 @@
 - [2020-12-20-聊聊-HTTP-常见的请求方式-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14055&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337897202%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-20-酒类服务平台云上安全防护-保护消费者个人信息-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14040&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F10641%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-20-手把手教你看懂-Chrome-火焰图](https://toutiao.io/k/p2bovqq) 
+- [2020-12-20-Web安全:CSRFTester跨站请求伪造漏洞测试工具](https://sec.thief.one/article_content?a_id=d7a96ff6036151c2fbb1d81d22287170) 
+- [2020-12-20-关于安全牛前主编失实宣传的严正声明](https://sec.thief.one/article_content?a_id=80fe1f32e8bae6b2da1cd7d10bd58747) 
 - [2020-12-19-腾讯安全董志强:用云原生安全铸造产业互联网时代的坚实底座](https://sec.thief.one/article_content?a_id=c38f4d193c73742be991353f61dd5f38) 
 - [2020-12-19-三亚市人民政府和安恒信息达成战略合作-安全助力自贸易港标杆建设](https://sec.thief.one/article_content?a_id=4c32682d80cc90cf98f5e7abb7c305c9) 
 - [2020-12-19-水利部网信办约谈10家网络安全问题较多单位负责人](https://sec.thief.one/article_content?a_id=767a591e3e9d95ca9ce9e25e1dc2245b) 
@@ -68,4 +70,3 @@
 - [2020-12-17-【安全圈】Twitter-因违反数据保护条例被欧盟罚款-55-万美元](https://sec.thief.one/article_content?a_id=9548f47a211e6c8b19090a7217407eb1) 
 - [2020-12-17-《2020网络安全态势感知应用指南》发布-奇安信入选案例最多、覆盖...](https://sec.thief.one/article_content?a_id=47a83eae0f7fcf0a2e081d13b65bb8f9) 
 - [2020-12-17-聚焦数据安全合规管控-世平信息完成数千万元B轮融资丨数据安全](https://sec.thief.one/article_content?a_id=4fd89ff847a3daf0d597d9608d0ddee8) 
-- [2020-12-17-每日安全动态推送12-17](https://sec.thief.one/article_content?a_id=4de563d4bd839d1f98ed7c70d58cea42) 

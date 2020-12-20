@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 00:09:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 00:19:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -90,8 +90,6 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
-- [2020-12-20-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-19-【视频】|-网警打击网络黑灰产业犯罪纪录片《灰与白》](https://sec.thief.one/article_content?a_id=9ecd397a5f1a1a1a31cbe554e4261726) 
 - [2020-12-18-CSIG图像图形中国行-走进奇安信暨可视化与可视分析专委会走进企业...](https://sec.thief.one/article_content?a_id=f57702b6f752548dac8fee800c72efea) 
 - [2020-12-17-视频直播卡顿不流畅?5000余家网站遭遇了这批黑客攻击!](https://sec.thief.one/article_content?a_id=fb9ea1a2abbaaa179745f1b0816a25df) 
-- [2020-12-17-【视频】|-金融行业信息安全领域新技术的应用分析](https://sec.thief.one/article_content?a_id=109a153f8585627523ba777bf2c272c3) 

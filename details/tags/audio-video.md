@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 06:39:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 06:48:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -91,6 +91,6 @@
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-12-20-pixel-一代-hdr-视频-Google-photos](https://www.v2ex.com/t/737201) 
-- [2020-12-20-全球加速GA助力CCTV5直播2020年洛桑冬季青年奥运会-yqh.aliyun.com](https://blogread.cn/news/go.php?idItem=14043&url=https%3A%2F%2Fyqh.aliyun.com%2Fdetail%2F7324%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-20-你还不知道？有的软件会偷偷打开你的摄像头或麦克风-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14064&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkrpdMAqcyuiUyVJEiJHHaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-19-【视频】|-网警打击网络黑灰产业犯罪纪录片《灰与白》](https://sec.thief.one/article_content?a_id=9ecd397a5f1a1a1a31cbe554e4261726) 
 - [2020-12-18-CSIG图像图形中国行-走进奇安信暨可视化与可视分析专委会走进企业...](https://sec.thief.one/article_content?a_id=f57702b6f752548dac8fee800c72efea) 

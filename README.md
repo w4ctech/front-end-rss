@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-21 03:15:24，:rocket: 更新条数: +3900， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-21 03:40:33，:rocket: 更新条数: +3900， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -874,11 +874,11 @@
 </summary>
 
 
+- [2020-12-20-去哪儿网-ReactNative-跨小程序多端方案介绍](https://juejin.im/post/6908546607868805134) ![](assets/new.png)  
 - [2020-12-20-轻松理解HTTP缓存策略](https://juejin.im/post/6908540505115033614) ![](assets/new.png)  
 - [2020-12-20-使用git中的hook对提交代码中的TODO等关键字进行拦截](https://juejin.im/post/6908534290179424263) ![](assets/new.png)  
 - [2020-12-20-不怕忘-第十五届-D2-最简脑图笔记大合集](https://juejin.im/post/6908534713514721293) ![](assets/new.png)  
 - [2020-12-20-和你讲一件NodeJS中的Events事件触发器](https://juejin.im/post/6908529581905412109) ![](assets/new.png)  
-- [2020-12-20-Javascript-设计模式---状态模式](https://juejin.im/post/6908528150222340110) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,26 +994,26 @@
 </summary>
 
 
+- [2020-12-21-扫描-Cloudflare-最快速度的-IP-地址，-速度此时最快，过半天，一天后速度就变成不到-100K-了](https://www.v2ex.com/t/737434) ![](assets/new.png)  
+- [2020-12-21-今年大家公司还办年会吗？](https://www.v2ex.com/t/737433) ![](assets/new.png)  
+- [2020-12-21-阿里巴巴内部-Jetpack-宝典意外流出！极致经典，堪称-Android-架构组件的天花板](https://www.v2ex.com/t/737431) ![](assets/new.png)  
+- [2020-12-21-urlencode-的一些疑惑](https://www.v2ex.com/t/737430) ![](assets/new.png)  
+- [2020-12-21-跟一个典型的满口-cnm-的北京老大爷做邻居是什么体验？](https://www.v2ex.com/t/737429) ![](assets/new.png)  
+- [2020-12-21-家里有个-2016-年的-macbook-键盘不灵了](https://www.v2ex.com/t/737428) ![](assets/new.png)  
+- [2020-12-21-maven-deploy-400-bad-request](https://www.v2ex.com/t/737427) ![](assets/new.png)  
+- [2020-12-21-网站使用微信扫码登陆是如何实现自动跳转的？](https://www.v2ex.com/t/737425) ![](assets/new.png)  
+- [2020-12-21-冲啊干饭人！](https://www.v2ex.com/t/737424) ![](assets/new.png)  
+- [2020-12-21-猫疯狂攻击室友，换猫还是换房子？](https://www.v2ex.com/t/737423) ![](assets/new.png)  
+- [2020-12-21-很后悔在-b-站实名认证了，现在注销还有用吗](https://www.v2ex.com/t/737422) ![](assets/new.png)  
+- [2020-12-21-迫用户测试-求最新-Framer-教程（最好是中文的）](https://www.v2ex.com/t/737421) ![](assets/new.png)  
+- [2020-12-21-坐标广州-欧洲外企-15-30K-Javaweb-工程师-（非外包）](https://www.v2ex.com/t/737420) ![](assets/new.png)  
+- [2020-12-21-各位-V-友公司用的是什么持续集成软件？](https://www.v2ex.com/t/737418) ![](assets/new.png)  
 - [2020-12-21-本科，近-3-年-PHP-开发经验，广州深圳有好的岗位内推吗](https://www.v2ex.com/t/737417) ![](assets/new.png)  
 - [2020-12-21-golang-有类似于-Java-的-Apache-Commons,-guava-之类的工具包吗?](https://www.v2ex.com/t/737416) ![](assets/new.png)  
 - [2020-12-21-准备去滑雪，有没有抗造的便宜又好用的冲锋衣推荐啊（有大码的）](https://www.v2ex.com/t/737415) ![](assets/new.png)  
 - [2020-12-21-GV-号收不到国内部分-app-验证码，请问如何查看-GV-号的垃圾短信？](https://www.v2ex.com/t/737414) ![](assets/new.png)  
 - [2020-12-21-上海急招-UI-交互设计师](https://www.v2ex.com/t/737412) ![](assets/new.png)  
 - [2020-12-21-请教一个如何配置局域网固定机器与虚拟机互访的问题](https://www.v2ex.com/t/737411) ![](assets/new.png)  
-- [2020-12-21-是否值得入-AppleCare+？](https://www.v2ex.com/t/737410) ![](assets/new.png)  
-- [2020-12-21-今天冬至](https://www.v2ex.com/t/737408) ![](assets/new.png)  
-- [2020-12-21-创业第三年，如何选择？](https://www.v2ex.com/t/737406) ![](assets/new.png)  
-- [2020-12-21-C++有什么学习路线roadmap吗?](https://www.v2ex.com/t/737405) ![](assets/new.png)  
-- [2020-12-21-Hexo-提交报错-但是可以正常更新博客](https://www.v2ex.com/t/737404) ![](assets/new.png)  
-- [2020-12-21-《房贷》求助，在这个情况下我应该首付多少钱，怎么贷，贷多少钱？](https://www.v2ex.com/t/737403) ![](assets/new.png)  
-- [2020-12-21-ThinkPHP-里直接-DB::query$sql直接调用-sql-语句,-安全吗?](https://www.v2ex.com/t/737402) ![](assets/new.png)  
-- [2020-12-21-求推荐和-Streamable-一样的网站-最好是不用扶墙的那种，非常感谢！](https://www.v2ex.com/t/737400) ![](assets/new.png)  
-- [2020-12-21-apple-store-买断制变成订阅制的鼻祖是哪个公司？](https://www.v2ex.com/t/737399) ![](assets/new.png)  
-- [2020-12-21-北京-&-杭州-蚂蚁集团旗下-OceanBase-成立新公司，诚聘多名前端，十年磨一剑](https://www.v2ex.com/t/737398) ![](assets/new.png)  
-- [2020-12-21-有最近去有计划香港的吗，想代购一瓶双飞轮药水](https://www.v2ex.com/t/737397) ![](assets/new.png)  
-- [2020-12-21-大型内容站点,-是否鼓励生成静态页?](https://www.v2ex.com/t/737396) ![](assets/new.png)  
-- [2020-12-21-日本版的-TikTok-打开什么都没有，上传视频自己也看不到](https://www.v2ex.com/t/737394) ![](assets/new.png)  
-- [2020-12-21-Parallels、Luminarf4、PDFpenPro、MindMaster-等-12-个-macOS-bundle-70-刀值么？](https://www.v2ex.com/t/737393) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,8 +1060,8 @@
 - [2020-12-21-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
 - [2020-12-21-二进制文件是什么样的？](https://toutiao.io/k/0ztmcru) ![](assets/new.png)  
 - [2020-12-21-程序员为什么转型管理？](https://toutiao.io/k/cxuwyue) ![](assets/new.png)  
-- [2020-12-21-要写系统设计文档了，但是不知道写什么，该怎么办?](https://toutiao.io/k/mrazqtw) ![](assets/new.png)  
 - [2020-12-21-防卒指南：996-+-健身≈猝死](https://toutiao.io/k/jbhqgi4) ![](assets/new.png)  
+- [2020-12-21-要写系统设计文档了，但是不知道写什么，该怎么办?](https://toutiao.io/k/mrazqtw) ![](assets/new.png)  
 - [2020-12-21-译-50+-有用的-DevOps-工具（二）](https://toutiao.io/k/yqz5l47) ![](assets/new.png)  
 - [2020-12-21-Python-源码混淆与加密](https://toutiao.io/k/wvvxrwp) ![](assets/new.png)  
 - [2020-12-21-职场-PUA，管理者的五宗罪](https://toutiao.io/k/pynlt27) ![](assets/new.png)  
@@ -1075,7 +1075,7 @@
 - [2020-12-21-Go-并发编程二-：Go-内存模型](https://toutiao.io/k/r9fev75) ![](assets/new.png)  
 - [2020-12-21-时间序列预测的常见方法及思考](https://toutiao.io/k/lxdcub5) ![](assets/new.png)  
 - [2020-12-21-封装-axios-取消重复请求](https://toutiao.io/k/fnubok6) ![](assets/new.png)  
-- [2020-12-21-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
+- [2020-12-21-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

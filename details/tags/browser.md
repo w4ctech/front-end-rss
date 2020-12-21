@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 11:09:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 11:35:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,8 +30,6 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2020-12-21-如何避免页面大量重排reflow与重绘repaint引起的掉帧问题](https://juejin.im/post/6908638142530584590) 
-- [2020-12-21-浅析-URL](https://juejin.im/post/6908635303796441095) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-21-社招+实习-字节跳动-渗透测试工程师---安全与风控（北/上/杭/深）急招](https://www.v2ex.com/t/737587) 
 - [2020-12-21-招聘-|-美团招聘研发安全专家](https://sec.thief.one/article_content?a_id=34e9d0d5b904bf5c224f707f7a78d843) 

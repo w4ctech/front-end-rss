@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 10:12:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 10:29:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -48,6 +48,10 @@
 - [2020-12-21-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-21-聊聊-HTTP-常见的请求方式-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14055&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337897202%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-21-封装-axios-取消重复请求](https://toutiao.io/k/fnubok6) 
+- [2020-12-21-招聘-|-美团招聘研发安全专家](https://sec.thief.one/article_content?a_id=34e9d0d5b904bf5c224f707f7a78d843) 
+- [2020-12-21-【安全热点周报】第173期:顶级网络管理软件SolarWinds被植入后门](https://sec.thief.one/article_content?a_id=725b4e01ac20d1b9b9770a687e3c8760) 
+- [2020-12-21-人物|DNVGL宋琳:安全管理要说人话,越野徒步不束自由](https://sec.thief.one/article_content?a_id=8ecc9da34d4b405c10e47ecaa69c0f76) 
+- [2020-12-21-网络安全信息与动态周报2020年第50期12月7日-12月13日](https://sec.thief.one/article_content?a_id=c46bd9b41b1aa334d0de44781ed64da5) 
 - [2020-12-21-每日安全动态推送12-21](https://sec.thief.one/article_content?a_id=e413a60410e7cfd2eedf98fab2fc0c28) 
 - [2020-12-21-#冬至#-滴滴安全应急响应中心,时刻等你来挖洞,不止在这北半球最...](https://sec.thief.one/article_content?a_id=af92fe61728fd233cfcd85dc0c6165cf) 
 - [2020-12-21-一周安全头条20201214-1220](https://sec.thief.one/article_content?a_id=194ab6a0ae19285e0177e7e4602f2454) 
@@ -68,5 +72,3 @@
 - [2020-12-18-28款热门浏览器插件,超300万下载量,包含恶意代码](https://sec.thief.one/article_content?a_id=effad412fd37f511920bd63acb3eb6b0) 
 - [2020-12-18-新耀东方-2021上海网络安全博览会暨高峰论坛​](https://sec.thief.one/article_content?a_id=3f3ab07fe30d5bc64063f1e2e29aae93) 
 - [2020-12-18-【安全监测报告】奇安信-CERT-2020年11月安全监测报告](https://sec.thief.one/article_content?a_id=d58199248bbf877f46cf2ca543e0c2a6) 
-- [2020-12-18-报名倒计时5天-|-2020网络安全行业生态大会暨金帽子年度盛典日程出炉](https://sec.thief.one/article_content?a_id=8ec6fe270d2945ec4849b26c6ddc8c1b) 
-- [2020-12-18-了解PostgreSQL逻辑复制中的历史快照](https://sec.thief.one/article_content?a_id=4c0ec26a46aa8bbabfc5dd92d18c9169) 

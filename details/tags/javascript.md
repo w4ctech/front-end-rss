@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 10:12:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 10:29:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -111,4 +111,4 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-12-21-一个脚本拯救你的-windows-环境变量](https://www.v2ex.com/t/737569) 
 - [2020-12-21-m1-款的-macbook-pro-和-macbook-air-链接-Wi-Fi6-的路由器经常断线](https://www.v2ex.com/t/737556) 
-- [2020-12-18-漏洞情报|Jackson-databind反序列化漏洞风险通告CVE-2020-35490,...](https://sec.thief.one/article_content?a_id=54feb356eb3bd5285b88947e1870e1a5) 
+- [2020-12-21-【漏洞通告】Jackson-databind-远程代码执行漏洞-CVE-2020-35490/-...](https://sec.thief.one/article_content?a_id=47cff4234a09968b7bf8239223985d56) 

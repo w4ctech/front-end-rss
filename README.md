@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-21 22:12:43，:rocket: 更新条数: +3908， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-21 22:43:50，:rocket: 更新条数: +953， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-12-21-最新疫情：全国新冠累计确诊86852例-本土病例新增2例](http://m.china.caixin.com/m/2020-12-21/101641639.html) ![](assets/new.png)  
-- [2020-12-21-新变种病毒来势汹汹-港府紧急宣布英国客运航班禁抵港](http://m.china.caixin.com/m/2020-12-21/101641684.html) ![](assets/new.png)  
-- [2020-12-21-中国是否将减少英国航班应对变异毒株-外交部：将认真研究](http://m.china.caixin.com/m/2020-12-21/101641622.html) ![](assets/new.png)  
-- [2020-12-21-应对英国出现新冠变异病毒株-多国采取紧急断航措施](http://m.international.caixin.com/m/2020-12-21/101641510.html) ![](assets/new.png)  
-- [2020-12-21-最新海外疫情：新冠感染超7672万-累计死亡超168万](http://m.international.caixin.com/m/2020-12-21/101641652.html) ![](assets/new.png)  
-- [2020-12-21-【境内疫情观察】黑龙江、辽宁各新增1例本土病例（12月20日）](http://m.database.caixin.com/m/2020-12-21/101641494.html) ![](assets/new.png)  
-- [2020-12-21-大流行手记|12月20日：世卫全球疫苗计划将获20亿剂-泰国海鲜市场疫情扩散](http://m.international.caixin.com/m/2020-12-21/101641336.html) ![](assets/new.png)  
-- [2020-12-20-【境内疫情观察】辽宁新增1例本土病例（12月19日）](http://m.database.caixin.com/m/2020-12-20/101641254.html) ![](assets/new.png)  
-- [2020-12-20-大流行手记|12月19日：美国批准Moderna疫苗紧急使用-英国感染者急剧增加](http://m.international.caixin.com/m/2020-12-20/101641222.html) ![](assets/new.png)  
-- [2020-12-20-英国发现新冠变异病毒-传染性更强？](http://m.international.caixin.com/m/2020-12-20/101641312.html) ![](assets/new.png)  
-- [2020-12-20-自美返国检测标准收紧-将不再接受指尖血取样报告](http://m.international.caixin.com/m/2020-12-20/101641218.html) ![](assets/new.png)  
-- [2020-12-19-【境内疫情观察】北京新增2例境外输入关联病例（12月18日）](http://m.database.caixin.com/m/2020-12-19/101641131.html) ![](assets/new.png)  
-- [2020-12-19-大流行手记|12月18日：欧盟拟提前评估辉瑞疫苗-部分非洲国家没钱大量购疫苗](http://m.international.caixin.com/m/2020-12-19/101641005.html) ![](assets/new.png)  
-- [2020-12-19-中国新冠疫苗接种将“两步走”-已有企业滚动提交三期数据](https://m.caixin.com/m/2020-12-19/101641096.html) ![](assets/new.png)  
-- [2020-12-18-北京新增1例境外输入确诊病例关联病例-为14日确诊病例密接者](http://m.china.caixin.com/m/2020-12-18/101640837.html) ![](assets/new.png)  
-- [2020-12-18-【境内疫情观察】四川新增1例本土病例（12月17日）](http://m.database.caixin.com/m/2020-12-18/101640627.html) ![](assets/new.png)  
-- [2020-12-18-大流行手记|12月17日：欧洲多名政要隔离-东京医疗资源告急](http://m.international.caixin.com/m/2020-12-18/101640522.html) ![](assets/new.png)  
-- [2020-12-18-WHO官员称2021年底疫苗应可覆盖全球高危人群](https://m.caixin.com/m/2020-12-18/101640566.html) ![](assets/new.png)  
-- [2020-12-18-全球疫苗协作中国如何参与？学者：双边与多边路径须并行](http://m.international.caixin.com/m/2020-12-18/101640781.html) ![](assets/new.png)  
-- [2020-12-18-研究：新冠抗体五个月内降至较低水平-但不意味着失去保护](http://m.science.caixin.com/m/2020-12-18/101640573.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -96,11 +76,6 @@
 </summary>
 
 
-- [2020-12-21-德国病毒学家：英国出现的变异新冠病毒已存在于德国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRJXLbyr5gfVLOkjSLGHB201221&isfromapp=1) ![](assets/new.png)  
-- [2020-12-21-香港新增新冠肺炎确诊病例85例-累计确诊8238例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artizv6QuNQaH9GluZUmR3ia201221&isfromapp=1) ![](assets/new.png)  
-- [2020-12-21-中国疾控中心：新冠疫苗与其他疫苗尽量分开接种](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQMLGY8RZ1fctb93fEEAQ201221&isfromapp=1) ![](assets/new.png)  
-- [2020-12-21-美国疫情告急-美官员防疫“说一套做一套”惹众怒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticVANxDETcyn2RYTctD8N201221&isfromapp=1) ![](assets/new.png)  
-- [2020-12-21-传播速度增快70％、大量民众连夜“出逃”-……变异新冠病毒在英迅速蔓延](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqazTFk2LBgZSNJ4agdw201221&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +969,9 @@
 </summary>
 
 
+- [2020-12-21-iOS-上的夸克的奇怪问题](https://www.v2ex.com/t/737683) ![](assets/new.png)  
+- [2020-12-21-从没用过-chromebook，真诚请教点问题](https://www.v2ex.com/t/737682) ![](assets/new.png)  
+- [2020-12-21-招聘全职程序员-工资-15K-可在家办公](https://www.v2ex.com/t/737681) ![](assets/new.png)  
 - [2020-12-21-大家最近注意投资风险](https://www.v2ex.com/t/737680) ![](assets/new.png)  
 - [2020-12-21-求一个能自动点击指定元素的油猴脚本](https://www.v2ex.com/t/737679) ![](assets/new.png)  
 - [2020-12-21-大家开车注意打转向灯吗](https://www.v2ex.com/t/737678) ![](assets/new.png)  
@@ -1011,9 +989,6 @@
 - [2020-12-21-树莓派近期会出-4b+-或者-5-吗?](https://www.v2ex.com/t/737665) ![](assets/new.png)  
 - [2020-12-21-请问下-ultrafine5k-的-c-口充电功率是多少啊？](https://www.v2ex.com/t/737664) ![](assets/new.png)  
 - [2020-12-21-北京团建！大家有去过好玩的吗？](https://www.v2ex.com/t/737663) ![](assets/new.png)  
-- [2020-12-21-北京免费听相声-12-月-22-日](https://www.v2ex.com/t/737662) ![](assets/new.png)  
-- [2020-12-21-有-PHP-面试刷题的网站或者-app-吗？](https://www.v2ex.com/t/737660) ![](assets/new.png)  
-- [2020-12-21-M1-是不是没有办法装-ORACLE](https://www.v2ex.com/t/737659) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,8 +1047,8 @@
 - [2020-12-21-Cloudflare-接口服务中断故障复盘与思考](https://toutiao.io/k/k2cve4e) ![](assets/new.png)  
 - [2020-12-21-译-基于-C#-的-ETL-大数据并行编程](https://toutiao.io/k/ndt1v4h) ![](assets/new.png)  
 - [2020-12-21-漫谈分层架构](https://toutiao.io/k/um1p5o9) ![](assets/new.png)  
-- [2020-12-21-层次分解位置编码，让-BERT-可以处理超长文本](https://toutiao.io/k/tw6e6h5) ![](assets/new.png)  
 - [2020-12-21-时间序列预测的常见方法及思考](https://toutiao.io/k/lxdcub5) ![](assets/new.png)  
+- [2020-12-21-层次分解位置编码，让-BERT-可以处理超长文本](https://toutiao.io/k/tw6e6h5) ![](assets/new.png)  
 - [2020-12-21-封装-axios-取消重复请求](https://toutiao.io/k/fnubok6) ![](assets/new.png)  
 - [2020-12-21-拿来主义与实证精神](https://toutiao.io/k/85shpu2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 14:37:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 14:44:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-12-09-字节跳动年底招聘-10000-人，看看你符合条件么？](https://www.ershicimi.com/p/45becc670feffb4cf743c60c3ba28698) 
 - [2020-12-19-招贤纳士-|-雷神众测招聘第二弹!](https://sec.thief.one/article_content?a_id=3cdafc54c5aa0ba440cac60a24e2926f) 
 - [2020-12-19-牛聘|2020年度岗位招聘第16期](https://sec.thief.one/article_content?a_id=5ebe81179bd9b76d498a60bbb315f558) 
 - [2020-12-18-国家计算机网络应急技术处理协调中心省级分中心2021年度公开招聘笔...](https://sec.thief.one/article_content?a_id=3c619ee674f7e1375a135559c7c44df6) 

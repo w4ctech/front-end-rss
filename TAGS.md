@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-21 08:11:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 08:42:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -379,7 +379,6 @@
 - [【凹凸实验室】探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
-- [【V2EX】android-手机能不能不进-gui-界面进-Linux-终端那种交互界面](https://www.v2ex.com/t/737485)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -449,9 +448,7 @@
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【互联网架构师】注意了！System.currentTimeMillis-存在性能问题...](https://www.ershicimi.com/p/7cb37589c19918881fe01c3fde6374aa)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【V2EX】已经将普通线路优化成-cn2-速度效果](https://www.v2ex.com/t/737492)
 - [【开发者头条】推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305)
-- [【开发者头条】推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -523,7 +520,7 @@
 - [【掘金前端】快速搭建基于HTTPS的本地开发环境](https://juejin.im/post/6908220876357894158)
 - [【V2EX】东风岚图汽车招聘工程类、算法类职位](https://www.v2ex.com/t/737505)
 - [【V2EX】go-的-http.ServeFile-就只支持-utf-8/utf-16be/utf-16le?怎么把-gb2312-编码的文件返回？](https://www.v2ex.com/t/737499)
-- [【开发者头条】推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm)
+- [【开发者头条】推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -675,6 +672,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】12月20日全国新增确诊病例23例-本土病例2例](http://m.china.caixin.com/m/2020-12-21/101641344.html)
+- [【武汉肺炎防疫全纪录(财新网)】应对英国出现新冠变异病毒株-多国采取紧急断航措施](http://m.international.caixin.com/m/2020-12-21/101641510.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】黑龙江、辽宁各新增1例本土病例（12月20日）](http://m.database.caixin.com/m/2020-12-21/101641494.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月20日：世卫全球疫苗计划将获20亿剂-泰国海鲜市场疫情扩散](http://m.international.caixin.com/m/2020-12-21/101641336.html)
 - [【武汉肺炎防疫全纪录(财新网)】英国发现新冠变异病毒-传染性更强？](http://m.international.caixin.com/m/2020-12-20/101641312.html)
@@ -693,7 +691,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增7例境外输入病例（12月16日）](http://m.database.caixin.com/m/2020-12-17/101640267.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月16日：白宫优先接种疫苗引争议-英国已有14万人接种](http://m.international.caixin.com/m/2020-12-17/101640135.html)
 - [【武汉肺炎防疫全纪录(财新网)】法国总统马克龙确诊新冠-西葡领导人将因密接隔离](http://m.international.caixin.com/m/2020-12-17/101640407.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增12例境外输入病例（12月15日）](http://m.database.caixin.com/m/2020-12-16/101639831.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

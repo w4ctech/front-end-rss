@@ -10,6 +10,11 @@
         "date": "2020-12-21"
       },
       {
+        "title": "应对英国出现新冠变异病毒株 多国采取紧急断航措施",
+        "link": "http://m.international.caixin.com/m/2020-12-21/101641510.html",
+        "date": "2020-12-21"
+      },
+      {
         "title": "【境内疫情观察】黑龙江、辽宁各新增1例本土病例（12月20日）",
         "link": "http://m.database.caixin.com/m/2020-12-21/101641494.html",
         "date": "2020-12-21"
@@ -40,11 +45,6 @@
         "date": "2020-12-20"
       },
       {
-        "title": "中国新冠疫苗接种将“两步走” 已有企业滚动提交三期数据",
-        "link": "https://m.caixin.com/m/2020-12-19/101641096.html",
-        "date": "2020-12-19"
-      },
-      {
         "title": "【境内疫情观察】北京新增2例境外输入关联病例（12月18日）",
         "link": "http://m.database.caixin.com/m/2020-12-19/101641131.html",
         "date": "2020-12-19"
@@ -52,6 +52,11 @@
       {
         "title": "大流行手记|12月18日：欧盟拟提前评估辉瑞疫苗 部分非洲国家没钱大量购疫苗",
         "link": "http://m.international.caixin.com/m/2020-12-19/101641005.html",
+        "date": "2020-12-19"
+      },
+      {
+        "title": "中国新冠疫苗接种将“两步走” 已有企业滚动提交三期数据",
+        "link": "https://m.caixin.com/m/2020-12-19/101641096.html",
         "date": "2020-12-19"
       },
       {
@@ -18058,6 +18063,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "亚马逊程序员：我曾拼命逃离996",
+        "link": "https://www.ershicimi.com/p/3bdf8f905632c27172ea1392b4d95709",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "微众开源：从聚木成林到生态领先",
+        "link": "https://www.ershicimi.com/p/1a89f2f7bca7451cc002227f06e9e25d",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "阿里、快手、好未来：业务架构应该这么做！｜ QCon",
+        "link": "https://www.ershicimi.com/p/7d4ffc546eb8bfb417facceec8b8c69e",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "中台技术解析之微服务架构下的测试实践",
+        "link": "https://www.ershicimi.com/p/35256096f9916159de009295c9d055ef",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "为什么 StackOverflow 上的代码片段会摧毁你的项目？",
+        "link": "https://www.ershicimi.com/p/1ac9ac4370091e4084b383e3b7054637",
+        "date": "2020-12-21"
+      },
+      {
         "title": "谷歌、AWS宕机事故频发，热闹看完该学会什么？",
         "link": "https://www.ershicimi.com/p/202c1d1a7c8b33de4fd3dc2f251d15ce",
         "date": "2020-12-20"
@@ -18131,31 +18161,6 @@
         "title": "Kubernetes决定弃用Docker，到底会影响到谁？",
         "link": "https://www.ershicimi.com/p/428f695b770dce14219f135f02e7afb0",
         "date": "2020-12-17"
-      },
-      {
-        "title": "想把业务平稳迁移到 K8s 平台吗？这场云原生Meetup，教你知架构、懂实践！｜ Q推荐",
-        "link": "https://www.ershicimi.com/p/50c84d929ead5d8c970f4dba6283b4b9",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "vivo AI计算平台 Kubernetes集群Ingress网关实践",
-        "link": "https://www.ershicimi.com/p/504b76394245e502f1abd710ad29509b",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "企业架构中的坑：你是否搞混了“服务”？",
-        "link": "https://www.ershicimi.com/p/29536208cc784c6a1aed703d89a8d626",
-        "date": "2020-12-17"
-      },
-      {
-        "title": "鸿蒙2.0手机Beta版本发布！华为小目标：一年内自研设备搭载HarmonyOS数量过亿",
-        "link": "https://www.ershicimi.com/p/2eed43a6b399418f51499653647ddd77",
-        "date": "2020-12-16"
-      },
-      {
-        "title": "蚂蚁金服的Service Mesh实践和展望｜QCon",
-        "link": "https://www.ershicimi.com/p/44ae0d46a0c1d0c313187a378de208bb",
-        "date": "2020-12-16"
       }
     ]
   },
@@ -18681,6 +18686,81 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "又又又又又又又又做了一个社区",
+        "link": "https://www.v2ex.com/t/737548",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "请问下 Mac 上 markdown 怎么转成 Page 或者 Word？",
+        "link": "https://www.v2ex.com/t/737547",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "国内也开始出现纯 IPv6 的主机了",
+        "link": "https://www.v2ex.com/t/737546",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "前后端不分离的项目, 前端如何独立开发?",
+        "link": "https://www.v2ex.com/t/737545",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "下蛋节要到了注意页面下雪哦",
+        "link": "https://www.v2ex.com/t/737544",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "编程语言能不能算是一种软件呢？",
+        "link": "https://www.v2ex.com/t/737541",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "卑微应届生 offer 求选择",
+        "link": "https://www.v2ex.com/t/737540",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "关于内网穿透的进阶，难道我的姿势不对？",
+        "link": "https://www.v2ex.com/t/737539",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "分享一款炒股投资的小程序：大盘云图",
+        "link": "https://www.v2ex.com/t/737538",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "医保入账一分钱，有点慌",
+        "link": "https://www.v2ex.com/t/737537",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "2020 中文互联网发生了什么令人激动的事吗？",
+        "link": "https://www.v2ex.com/t/737536",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "分享一下我使用 AirPods / AirPods Pro / Powerbeats Pro 以来的感受，耳机这块还是没有银弹？",
+        "link": "https://www.v2ex.com/t/737533",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "[实习] [开黑啦] [北京] PHP 实习生",
+        "link": "https://www.v2ex.com/t/737532",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "苹果的妙控键盘体验怎么样？",
+        "link": "https://www.v2ex.com/t/737531",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "家人要换 mac",
+        "link": "https://www.v2ex.com/t/737530",
+        "date": "2020-12-21"
+      },
+      {
         "title": "想问问， MACBOOKPRO 以旧换新可以自己去店里弄吗，需要预约吗",
         "link": "https://www.v2ex.com/t/737529",
         "date": "2020-12-21"
@@ -18808,81 +18888,6 @@
       {
         "title": "go 的 http.ServeFile 就只支持 utf-8/utf-16be/utf-16le?怎么把 gb2312 编码的文件返回？",
         "link": "https://www.v2ex.com/t/737499",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "正版 Microsoft Office 2019 永久仅需 248",
-        "link": "https://www.v2ex.com/t/737497",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "IOS 相册的“发送到共享相簿”必须要先把原片从 icloud 下载回来？",
-        "link": "https://www.v2ex.com/t/737495",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "求助 pyspider 一直启动失败 y",
-        "link": "https://www.v2ex.com/t/737494",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "有用 vivo 的 orginOS 的吗？",
-        "link": "https://www.v2ex.com/t/737493",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "已经将普通线路优化成 cn2 速度效果",
-        "link": "https://www.v2ex.com/t/737492",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "分享一个从零开始手把手教你使用 Python 开发小兔要上天（平台跳跃类）游戏视频教程",
-        "link": "https://www.v2ex.com/t/737491",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "国内还有不用加班也不需要流利外语的测试岗吗?",
-        "link": "https://www.v2ex.com/t/737490",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "Apowersoft 圣诞促销",
-        "link": "https://www.v2ex.com/t/737489",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "reddit 闲逛看到个很酷炫的东西,指尖焰火",
-        "link": "https://www.v2ex.com/t/737488",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "安利一个 Android(AOSP)的源代码交叉索引",
-        "link": "https://www.v2ex.com/t/737487",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "[ 一面数据 | 深圳 ] 呀！这里有你的一份 offer 期待对 Python /大数据有热情的你加入我们！",
-        "link": "https://www.v2ex.com/t/737486",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "android 手机能不能不进 gui 界面进 Linux 终端那种交互界面",
-        "link": "https://www.v2ex.com/t/737485",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "前后端分离，用 React/Vue 框架下，用户权限应该用 cookie 验证？还是 token 验证？",
-        "link": "https://www.v2ex.com/t/737483",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "北京养狗需要注意些什么",
-        "link": "https://www.v2ex.com/t/737482",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "解决 Mac 蓝牙断联问题(Maybe Forever,Who Knows)",
-        "link": "https://www.v2ex.com/t/737480",
         "date": "2020-12-21"
       }
     ]
@@ -19040,6 +19045,11 @@
         "date": "2020-12-21"
       },
       {
+        "title": "Go 并发编程(二) ：Go 内存模型",
+        "link": "https://toutiao.io/k/r9fev75",
+        "date": "2020-12-21"
+      },
+      {
         "title": "Python 源码混淆与加密",
         "link": "https://toutiao.io/k/wvvxrwp",
         "date": "2020-12-21"
@@ -19047,11 +19057,6 @@
       {
         "title": "在淘宝，我们是这样衡量代码质量的",
         "link": "https://toutiao.io/k/n98t1gm",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "Go 并发编程(二) ：Go 内存模型",
-        "link": "https://toutiao.io/k/r9fev75",
         "date": "2020-12-21"
       },
       {
@@ -19100,8 +19105,8 @@
         "date": "2020-12-21"
       },
       {
-        "title": "[推荐] MySQL 索引知识点总结",
-        "link": "https://toutiao.io/k/u9plzvk",
+        "title": "[推荐] 记一次 MySQL 的 insert 死锁",
+        "link": "https://toutiao.io/k/mbyee1y",
         "date": "2020-12-21"
       },
       {
@@ -19110,13 +19115,8 @@
         "date": "2020-12-21"
       },
       {
-        "title": "[推荐] 关于 Elasticsearch 集群核心配置，腾讯大佬的灵魂 9 问，你能接住几个？",
-        "link": "https://toutiao.io/k/i41dalm",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "[推荐] Go 错误处理最佳实践",
-        "link": "https://toutiao.io/k/lodfgxd",
+        "title": "[推荐] 码仔漫画：TCP 的三次握手",
+        "link": "https://toutiao.io/k/mefwl8s",
         "date": "2020-12-21"
       },
       {
@@ -19130,13 +19130,18 @@
         "date": "2020-12-21"
       },
       {
-        "title": "[推荐] 爱奇艺微服务标准技术架构实践",
-        "link": "https://toutiao.io/k/nm97hxh",
+        "title": "[推荐] 分布式搜索引擎 Elasticsearch 的架构分析",
+        "link": "https://toutiao.io/k/j4aoyho",
         "date": "2020-12-21"
       },
       {
-        "title": "[推荐] 带你扒一扒 MySQL 的数据在磁盘上到底长什么样子",
-        "link": "https://toutiao.io/k/s6jntn5",
+        "title": "[推荐] 关于 Elasticsearch 集群核心配置，腾讯大佬的灵魂 9 问，你能接住几个？",
+        "link": "https://toutiao.io/k/i41dalm",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "[推荐] 常见算法模版总结（二）",
+        "link": "https://toutiao.io/k/s66geea",
         "date": "2020-12-21"
       },
       {
@@ -19145,23 +19150,18 @@
         "date": "2020-12-21"
       },
       {
-        "title": "[推荐] 分布式搜索引擎 Elasticsearch 的架构分析",
-        "link": "https://toutiao.io/k/j4aoyho",
+        "title": "[推荐] 带你扒一扒 MySQL 的数据在磁盘上到底长什么样子",
+        "link": "https://toutiao.io/k/s6jntn5",
         "date": "2020-12-21"
       },
       {
-        "title": "[推荐] 记一次 MySQL 的 insert 死锁",
-        "link": "https://toutiao.io/k/mbyee1y",
+        "title": "[推荐] MySQL 索引知识点总结",
+        "link": "https://toutiao.io/k/u9plzvk",
         "date": "2020-12-21"
       },
       {
-        "title": "[推荐] 漫话 Docker 的衰落与 Kubernetes 的兴起",
-        "link": "https://toutiao.io/k/h3ooyse",
-        "date": "2020-12-21"
-      },
-      {
-        "title": "[推荐] 码仔漫画：TCP 的三次握手",
-        "link": "https://toutiao.io/k/mefwl8s",
+        "title": "[推荐] 生产力工具",
+        "link": "https://toutiao.io/k/ltecz1p",
         "date": "2020-12-21"
       },
       {
@@ -19170,8 +19170,13 @@
         "date": "2020-12-21"
       },
       {
-        "title": "[推荐] MySQL 优化神器",
-        "link": "https://toutiao.io/k/qg5adh5",
+        "title": "[推荐] Go 错误处理最佳实践",
+        "link": "https://toutiao.io/k/lodfgxd",
+        "date": "2020-12-21"
+      },
+      {
+        "title": "[推荐] 漫话 Docker 的衰落与 Kubernetes 的兴起",
+        "link": "https://toutiao.io/k/h3ooyse",
         "date": "2020-12-21"
       }
     ]

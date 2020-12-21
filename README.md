@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-21 04:00:04，:rocket: 更新条数: +954， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-21 04:13:45，:rocket: 更新条数: +3895， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-12-21-12月20日全国新增确诊病例23例-本土病例2例](http://m.china.caixin.com/m/2020-12-21/101641344.html) ![](assets/new.png)  
+- [2020-12-21-大流行手记|12月20日：世卫全球疫苗计划将获20亿剂-泰国海鲜市场疫情扩散](http://m.international.caixin.com/m/2020-12-21/101641336.html) ![](assets/new.png)  
+- [2020-12-20-英国发现新冠变异病毒-传染性更强？](http://m.international.caixin.com/m/2020-12-20/101641312.html) ![](assets/new.png)  
+- [2020-12-20-自美返国检测标准收紧-将不再接受指尖血取样报告](http://m.international.caixin.com/m/2020-12-20/101641218.html) ![](assets/new.png)  
+- [2020-12-20-【境内疫情观察】辽宁新增1例本土病例（12月19日）](http://m.database.caixin.com/m/2020-12-20/101641254.html) ![](assets/new.png)  
+- [2020-12-20-大流行手记|12月19日：美国批准Moderna疫苗紧急使用-英国感染者急剧增加](http://m.international.caixin.com/m/2020-12-20/101641222.html) ![](assets/new.png)  
+- [2020-12-19-中国新冠疫苗接种将“两步走”-已有企业滚动提交三期数据](https://m.caixin.com/m/2020-12-19/101641096.html) ![](assets/new.png)  
+- [2020-12-19-【境内疫情观察】北京新增2例境外输入关联病例（12月18日）](http://m.database.caixin.com/m/2020-12-19/101641131.html) ![](assets/new.png)  
+- [2020-12-19-大流行手记|12月18日：欧盟拟提前评估辉瑞疫苗-部分非洲国家没钱大量购疫苗](http://m.international.caixin.com/m/2020-12-19/101641005.html) ![](assets/new.png)  
+- [2020-12-18-最新海外疫情：新冠感染超7485万-累计死亡超165万](http://m.international.caixin.com/m/2020-12-18/101640711.html) ![](assets/new.png)  
+- [2020-12-18-北京新增1例境外输入确诊病例关联病例-为14日确诊病例密接者](http://m.china.caixin.com/m/2020-12-18/101640837.html) ![](assets/new.png)  
+- [2020-12-18-【境内疫情观察】四川新增1例本土病例（12月17日）](http://m.database.caixin.com/m/2020-12-18/101640627.html) ![](assets/new.png)  
+- [2020-12-18-大流行手记|12月17日：欧洲多名政要隔离-东京医疗资源告急](http://m.international.caixin.com/m/2020-12-18/101640522.html) ![](assets/new.png)  
+- [2020-12-18-WHO官员称2021年底疫苗应可覆盖全球高危人群](https://m.caixin.com/m/2020-12-18/101640566.html) ![](assets/new.png)  
+- [2020-12-18-全球疫苗协作中国如何参与？学者：双边与多边路径须并行](http://m.international.caixin.com/m/2020-12-18/101640781.html) ![](assets/new.png)  
+- [2020-12-18-研究：新冠抗体五个月内降至较低水平-但不意味着失去保护](http://m.science.caixin.com/m/2020-12-18/101640573.html) ![](assets/new.png)  
+- [2020-12-17-【境内疫情观察】全国新增7例境外输入病例（12月16日）](http://m.database.caixin.com/m/2020-12-17/101640267.html) ![](assets/new.png)  
+- [2020-12-17-大流行手记|12月16日：白宫优先接种疫苗引争议-英国已有14万人接种](http://m.international.caixin.com/m/2020-12-17/101640135.html) ![](assets/new.png)  
+- [2020-12-17-法国总统马克龙确诊新冠-西葡领导人将因密接隔离](http://m.international.caixin.com/m/2020-12-17/101640407.html) ![](assets/new.png)  
+- [2020-12-16-【境内疫情观察】全国新增12例境外输入病例（12月15日）](http://m.database.caixin.com/m/2020-12-16/101639831.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -854,11 +874,6 @@
 </summary>
 
 
-- [2020-12-20-去哪儿网-ReactNative-跨小程序多端方案介绍](https://juejin.im/post/6908546607868805134) ![](assets/new.png)  
-- [2020-12-20-轻松理解HTTP缓存策略](https://juejin.im/post/6908540505115033614) ![](assets/new.png)  
-- [2020-12-20-使用git中的hook对提交代码中的TODO等关键字进行拦截](https://juejin.im/post/6908534290179424263) ![](assets/new.png)  
-- [2020-12-20-不怕忘-第十五届-D2-最简脑图笔记大合集](https://juejin.im/post/6908534713514721293) ![](assets/new.png)  
-- [2020-12-20-和你讲一件NodeJS中的Events事件触发器](https://juejin.im/post/6908529581905412109) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -974,6 +989,10 @@
 </summary>
 
 
+- [2020-12-21-广东联通宽带使用体验如何](https://www.v2ex.com/t/737443) ![](assets/new.png)  
+- [2020-12-21-请各位推荐一下筷子](https://www.v2ex.com/t/737442) ![](assets/new.png)  
+- [2020-12-21-腾讯云-Serverless-企业级解决方案正式发布](https://www.v2ex.com/t/737441) ![](assets/new.png)  
+- [2020-12-21-Alexa-注册试用计划报错-is-not-a-valid-2-letter-ISO-3166-country-code](https://www.v2ex.com/t/737440) ![](assets/new.png)  
 - [2020-12-21-求问：主流站点登录加密方式？](https://www.v2ex.com/t/737439) ![](assets/new.png)  
 - [2020-12-21-发个微软内推吧，-c++-和前端](https://www.v2ex.com/t/737437) ![](assets/new.png)  
 - [2020-12-21-这家神仙外资互联网公司又开始招聘啦！-Booking.com-上海-office-招募资深前后端开发/技术专家、高级产品经理、iOS-开发等职位](https://www.v2ex.com/t/737436) ![](assets/new.png)  
@@ -990,10 +1009,6 @@
 - [2020-12-21-猫疯狂攻击室友，换猫还是换房子？](https://www.v2ex.com/t/737423) ![](assets/new.png)  
 - [2020-12-21-很后悔在-b-站实名认证了，现在注销还有用吗](https://www.v2ex.com/t/737422) ![](assets/new.png)  
 - [2020-12-21-迫用户测试-求最新-Framer-教程（最好是中文的）](https://www.v2ex.com/t/737421) ![](assets/new.png)  
-- [2020-12-21-坐标广州-欧洲外企-15-30K-Javaweb-工程师-（非外包）](https://www.v2ex.com/t/737420) ![](assets/new.png)  
-- [2020-12-21-各位-V-友公司用的是什么持续集成软件？](https://www.v2ex.com/t/737418) ![](assets/new.png)  
-- [2020-12-21-本科，近-3-年-PHP-开发经验，广州深圳有好的岗位内推吗](https://www.v2ex.com/t/737417) ![](assets/new.png)  
-- [2020-12-21-golang-有类似于-Java-的-Apache-Commons,-guava-之类的工具包吗?](https://www.v2ex.com/t/737416) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1055,7 +1070,7 @@
 - [2020-12-21-层次分解位置编码，让-BERT-可以处理超长文本](https://toutiao.io/k/tw6e6h5) ![](assets/new.png)  
 - [2020-12-21-时间序列预测的常见方法及思考](https://toutiao.io/k/lxdcub5) ![](assets/new.png)  
 - [2020-12-21-封装-axios-取消重复请求](https://toutiao.io/k/fnubok6) ![](assets/new.png)  
-- [2020-12-21-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
+- [2020-12-21-推荐-生产力工具](https://toutiao.io/k/ltecz1p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

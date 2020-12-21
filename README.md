@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-21 03:48:24，:rocket: 更新条数: +3900， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-21 04:00:04，:rocket: 更新条数: +954， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-12-21-12月20日全国新增确诊病例23例-本土病例2例](http://m.china.caixin.com/m/2020-12-21/101641344.html) ![](assets/new.png)  
-- [2020-12-21-大流行手记|12月20日：世卫全球疫苗计划将获20亿剂-泰国海鲜市场疫情扩散](http://m.international.caixin.com/m/2020-12-21/101641336.html) ![](assets/new.png)  
-- [2020-12-20-英国发现新冠变异病毒-传染性更强？](http://m.international.caixin.com/m/2020-12-20/101641312.html) ![](assets/new.png)  
-- [2020-12-20-自美返国检测标准收紧-将不再接受指尖血取样报告](http://m.international.caixin.com/m/2020-12-20/101641218.html) ![](assets/new.png)  
-- [2020-12-20-【境内疫情观察】辽宁新增1例本土病例（12月19日）](http://m.database.caixin.com/m/2020-12-20/101641254.html) ![](assets/new.png)  
-- [2020-12-20-大流行手记|12月19日：美国批准Moderna疫苗紧急使用-英国感染者急剧增加](http://m.international.caixin.com/m/2020-12-20/101641222.html) ![](assets/new.png)  
-- [2020-12-19-中国新冠疫苗接种将“两步走”-已有企业滚动提交三期数据](https://m.caixin.com/m/2020-12-19/101641096.html) ![](assets/new.png)  
-- [2020-12-19-【境内疫情观察】北京新增2例境外输入关联病例（12月18日）](http://m.database.caixin.com/m/2020-12-19/101641131.html) ![](assets/new.png)  
-- [2020-12-19-大流行手记|12月18日：欧盟拟提前评估辉瑞疫苗-部分非洲国家没钱大量购疫苗](http://m.international.caixin.com/m/2020-12-19/101641005.html) ![](assets/new.png)  
-- [2020-12-18-最新海外疫情：新冠感染超7485万-累计死亡超165万](http://m.international.caixin.com/m/2020-12-18/101640711.html) ![](assets/new.png)  
-- [2020-12-18-北京新增1例境外输入确诊病例关联病例-为14日确诊病例密接者](http://m.china.caixin.com/m/2020-12-18/101640837.html) ![](assets/new.png)  
-- [2020-12-18-【境内疫情观察】四川新增1例本土病例（12月17日）](http://m.database.caixin.com/m/2020-12-18/101640627.html) ![](assets/new.png)  
-- [2020-12-18-大流行手记|12月17日：欧洲多名政要隔离-东京医疗资源告急](http://m.international.caixin.com/m/2020-12-18/101640522.html) ![](assets/new.png)  
-- [2020-12-18-WHO官员称2021年底疫苗应可覆盖全球高危人群](https://m.caixin.com/m/2020-12-18/101640566.html) ![](assets/new.png)  
-- [2020-12-18-全球疫苗协作中国如何参与？学者：双边与多边路径须并行](http://m.international.caixin.com/m/2020-12-18/101640781.html) ![](assets/new.png)  
-- [2020-12-18-研究：新冠抗体五个月内降至较低水平-但不意味着失去保护](http://m.science.caixin.com/m/2020-12-18/101640573.html) ![](assets/new.png)  
-- [2020-12-17-【境内疫情观察】全国新增7例境外输入病例（12月16日）](http://m.database.caixin.com/m/2020-12-17/101640267.html) ![](assets/new.png)  
-- [2020-12-17-大流行手记|12月16日：白宫优先接种疫苗引争议-英国已有14万人接种](http://m.international.caixin.com/m/2020-12-17/101640135.html) ![](assets/new.png)  
-- [2020-12-17-法国总统马克龙确诊新冠-西葡领导人将因密接隔离](http://m.international.caixin.com/m/2020-12-17/101640407.html) ![](assets/new.png)  
-- [2020-12-16-【境内疫情观察】全国新增12例境外输入病例（12月15日）](http://m.database.caixin.com/m/2020-12-16/101639831.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -227,6 +207,12 @@
 </summary>
 
 
+- [2020-12-21-看这篇就行！超强-VUE-+-ElementUI-管理项目来了（附实战全过程）](https://www.ershicimi.com/p/bb66dda360c3ab9573b995f58293036a) ![](assets/new.png)  
+- [2020-12-21-手写-Promise-全家桶-+-Generator-+-async/await](https://www.ershicimi.com/p/e84505aa544e1b160b38485b839f0d57) ![](assets/new.png)  
+- [2020-12-21-设计灵感：把-3D-图案应用到网页界面设计中](https://www.ershicimi.com/p/f700e914ce0735b58f5f730b03163966) ![](assets/new.png)  
+- [2020-12-20-小姐姐盗用他人设计作品找工作，入职京东...](https://www.ershicimi.com/p/82a7fab428d8f367bebc69d4aefb658f) ![](assets/new.png)  
+- [2020-12-20-从-Context-源码实现谈-React-性能优化](https://www.ershicimi.com/p/a302d516dc7302de639a8cde01500bf9) ![](assets/new.png)  
+- [2020-12-20-1.5-万-Star！Vim-党不能缺少的-IDE：SpaceVim](https://www.ershicimi.com/p/eb455fac2ef1b64de7bfe8203aa12720) ![](assets/new.png)  
 - [2020-12-19-花-4-小时写的-JS-脚本，帮医院省了-40-万澳元](https://www.ershicimi.com/p/edfc7597eedb9323010f685d8c94e002) ![](assets/new.png)  
 - [2020-12-19-6.7k-Star！超全面的中文版-JS-开发资源列表](https://www.ershicimi.com/p/ab81f321d6fd0771ba6d2e5e636e55d3) ![](assets/new.png)  
 - [2020-12-19-设计灵感：12个App的登录注册界面案例参考](https://www.ershicimi.com/p/2073d1e20693255740b36003e3e3239a) ![](assets/new.png)  
@@ -241,12 +227,6 @@
 - [2020-12-16-下载神器被-Github-下架后，作者写下了这篇回应](https://www.ershicimi.com/p/b4f8c624ebceabf1805fbb1c46a83719) ![](assets/new.png)  
 - [2020-12-15-我的电脑不联网，很安全，黑客：你还有风扇呢](https://www.ershicimi.com/p/193900fec8ed92b7acb7eedfb5a6f547) ![](assets/new.png)  
 - [2020-12-15-1.2-万-Star！Monica-为你的人际交往助力！](https://www.ershicimi.com/p/88df8ddb841f275f19fa1c003ef9fda4) ![](assets/new.png)  
-- [2020-12-14-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/2a9e02219e56475fd45fb05b331c5938) ![](assets/new.png)  
-- [2020-12-14-H5-基于-canvas-实现电子签名并生成PDF文档](https://www.ershicimi.com/p/5e07da7d12634131928d104f2003af50) ![](assets/new.png)  
-- [2020-12-14-2.8-万-Star！制作数学动画的超棒工具：Manim](https://www.ershicimi.com/p/ee856c8130ff8c8b8a9503f94efd0c64) ![](assets/new.png)  
-- [2020-12-13-Node.js-实现定时每天给女朋友发消息—nodemailer模块](https://www.ershicimi.com/p/d735150f427275ce16dbde1727f52349) ![](assets/new.png)  
-- [2020-12-13-GitHub-月榜第-3，微软的老照片修复工具火了](https://www.ershicimi.com/p/fb97b4e9fd1455e1a5424deb7acbad8e) ![](assets/new.png)  
-- [2020-12-13-灵感-|-大火的夜间模式APP界面如何设计？](https://www.ershicimi.com/p/51a7ffc340e295343a5dc93fd1f59d04) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +974,7 @@
 </summary>
 
 
+- [2020-12-21-求问：主流站点登录加密方式？](https://www.v2ex.com/t/737439) ![](assets/new.png)  
 - [2020-12-21-发个微软内推吧，-c++-和前端](https://www.v2ex.com/t/737437) ![](assets/new.png)  
 - [2020-12-21-这家神仙外资互联网公司又开始招聘啦！-Booking.com-上海-office-招募资深前后端开发/技术专家、高级产品经理、iOS-开发等职位](https://www.v2ex.com/t/737436) ![](assets/new.png)  
 - [2020-12-21-寻找企业内大屏管理方案](https://www.v2ex.com/t/737435) ![](assets/new.png)  
@@ -1013,7 +994,6 @@
 - [2020-12-21-各位-V-友公司用的是什么持续集成软件？](https://www.v2ex.com/t/737418) ![](assets/new.png)  
 - [2020-12-21-本科，近-3-年-PHP-开发经验，广州深圳有好的岗位内推吗](https://www.v2ex.com/t/737417) ![](assets/new.png)  
 - [2020-12-21-golang-有类似于-Java-的-Apache-Commons,-guava-之类的工具包吗?](https://www.v2ex.com/t/737416) ![](assets/new.png)  
-- [2020-12-21-准备去滑雪，有没有抗造的便宜又好用的冲锋衣推荐啊（有大码的）](https://www.v2ex.com/t/737415) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1075,7 +1055,7 @@
 - [2020-12-21-层次分解位置编码，让-BERT-可以处理超长文本](https://toutiao.io/k/tw6e6h5) ![](assets/new.png)  
 - [2020-12-21-时间序列预测的常见方法及思考](https://toutiao.io/k/lxdcub5) ![](assets/new.png)  
 - [2020-12-21-封装-axios-取消重复请求](https://toutiao.io/k/fnubok6) ![](assets/new.png)  
-- [2020-12-21-推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho) ![](assets/new.png)  
+- [2020-12-21-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

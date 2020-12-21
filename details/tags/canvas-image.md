@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 12:06:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 12:13:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -6,5 +6,3 @@
 > 关键字：`Canvas`、`SVG`、`WebGL`、`3D`、`PNG`、`WebP`、`RGB`、`GUI`
 
 
-
-- [2020-12-21-设计灵感：把-3D-图案应用到网页界面设计中](https://www.ershicimi.com/p/f700e914ce0735b58f5f730b03163966) 

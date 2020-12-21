@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-20 23:59:04，:rocket: 更新条数: +3883， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-21 00:21:59，:rocket: 更新条数: +3883， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,8 @@
 </summary>
 
 
-- [2020-12-20-12月19日全国新增23例确诊病例-其中1例为本土病例](http://m.china.caixin.com/m/2020-12-20/101641215.html) ![](assets/new.png)  
+- [2020-12-21-12月20日全国新增确诊病例23例-本土病例2例](http://m.china.caixin.com/m/2020-12-21/101641344.html) ![](assets/new.png)  
+- [2020-12-21-大流行手记|12月20日：世卫全球疫苗计划将获20亿剂-泰国海鲜市场疫情扩散](http://m.international.caixin.com/m/2020-12-21/101641336.html) ![](assets/new.png)  
 - [2020-12-20-英国发现新冠变异病毒-传染性更强？](http://m.international.caixin.com/m/2020-12-20/101641312.html) ![](assets/new.png)  
 - [2020-12-20-自美返国检测标准收紧-将不再接受指尖血取样报告](http://m.international.caixin.com/m/2020-12-20/101641218.html) ![](assets/new.png)  
 - [2020-12-20-【境内疫情观察】辽宁新增1例本土病例（12月19日）](http://m.database.caixin.com/m/2020-12-20/101641254.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2020-12-17-大流行手记|12月16日：白宫优先接种疫苗引争议-英国已有14万人接种](http://m.international.caixin.com/m/2020-12-17/101640135.html) ![](assets/new.png)  
 - [2020-12-17-法国总统马克龙确诊新冠-西葡领导人将因密接隔离](http://m.international.caixin.com/m/2020-12-17/101640407.html) ![](assets/new.png)  
 - [2020-12-16-【境内疫情观察】全国新增12例境外输入病例（12月15日）](http://m.database.caixin.com/m/2020-12-16/101639831.html) ![](assets/new.png)  
-- [2020-12-16-大流行手记|12月15日：加拿大开打疫苗-伦敦防疫措施升级](http://m.international.caixin.com/m/2020-12-16/101639701.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -874,11 +874,11 @@
 </summary>
 
 
+- [2020-12-20-jsliang-求职系列---49---2020-求职系列汇总【完结】](https://juejin.im/post/6908493793213808647) ![](assets/new.png)  
 - [2020-12-20-初级前端如何突破瓶颈](https://juejin.im/post/6908474217680306189) ![](assets/new.png)  
 - [2020-12-20-MongoDB-+-Mongoose与Node.js结合使用的后端开发的最佳实践](https://juejin.im/post/6908401428088225800) ![](assets/new.png)  
 - [2020-12-20-jsliang-求职系列---48---面试经验汇总](https://juejin.im/post/6908340072446328839) ![](assets/new.png)  
 - [2020-12-20-潮流前端周刊（第15期）--养猫](https://juejin.im/post/6908339444886011917) ![](assets/new.png)  
-- [2020-12-20-「笔记整理」D2前端技术论坛:-揭秘TC39:-ES2020-和-ES2021](https://juejin.im/post/6908329539525410830) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +994,9 @@
 </summary>
 
 
+- [2020-12-21-调查一下，有多少开发是懂汇编语言的](https://www.v2ex.com/t/737330) ![](assets/new.png)  
+- [2020-12-21-MacBookPro2017-13-寸（A1708-i5+8g+128g）乞丐版询价](https://www.v2ex.com/t/737329) ![](assets/new.png)  
+- [2020-12-21-现在最方便的类似"个人网站"+"笔记本"的组合有没有？-Windows-Live-Writer？-Notion？各种笔记？](https://www.v2ex.com/t/737328) ![](assets/new.png)  
 - [2020-12-20-一个分光器可以接多个-pon-口？可以指定猫注册在哪个-pon-上吗](https://www.v2ex.com/t/737324) ![](assets/new.png)  
 - [2020-12-20-一分钟了解我的个人产品](https://www.v2ex.com/t/737323) ![](assets/new.png)  
 - [2020-12-20-大伙们，这耗电正常们](https://www.v2ex.com/t/737322) ![](assets/new.png)  
@@ -1011,9 +1014,6 @@
 - [2020-12-20-万维网-WWW-今年-30-岁了。](https://www.v2ex.com/t/737303) ![](assets/new.png)  
 - [2020-12-20-社招实习北京&上海&杭州蚂蚁财富技术部--前端/iOS/Android/nodejs--级别-P678--大量-HC](https://www.v2ex.com/t/737302) ![](assets/new.png)  
 - [2020-12-20-最近日版-Switch-更新游戏的下载速度奇慢无比，怎么回事？](https://www.v2ex.com/t/737301) ![](assets/new.png)  
-- [2020-12-20-有没有统计一年自己观看-youtube-时长的方法？](https://www.v2ex.com/t/737300) ![](assets/new.png)  
-- [2020-12-20-CabloyJS-也有工作流引擎了，是你想要的吗？](https://www.v2ex.com/t/737299) ![](assets/new.png)  
-- [2020-12-20-账号被封，请求解封！](https://www.v2ex.com/t/737298) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1025,26 +1025,26 @@
 </summary>
 
 
-- [2020-12-20-鸿蒙和安卓，到底有什么区别？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14071&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpIDFvC_0XkYbfEEInso9_w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-App-Store-上架被拒，上架过程的辛酸~~~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14070&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDaLgyPbqhJMhAUgKaIE7vQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-为什么说-Flutter-可能不是下一件大事？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14069&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaR8DQea8aUsD0JOMm90rKA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-Android：MVVM-的工作原理之创建、销毁、保存、复用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14067&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXjyJg7Or8vYL-t24xtDVYQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-华为鸿蒙手机终于要来了！App生态已解决，网友：炸了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14066&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPK2k-1n9UI02IoNIPAFOVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-最详细从零开始配置-TypeScript-项目的教程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14065&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FX-MvwZN4ntOwt53pDg4OXQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-你还不知道？有的软件会偷偷打开你的摄像头或麦克风-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14064&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkrpdMAqcyuiUyVJEiJHHaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-IntelliJ-IDEA-最常用配置-详细图解（收藏篇）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14063&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaKQ5xxW5wWQRpL_ZXJPDHg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-豆瓣经典编程图书Top-10，你知道几本？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14062&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff25aSC7OqRyvQQzK5p6iBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-百度开源的-71-个炸天项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14061&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwkviR_XyJJAcy7PlxKfAog%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-互联网公司忽悠员工的黑话，套路太深了。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14060&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBOMYOpOat6V-rsxDjMNsfA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-学着爬取了某-Hub-资源，只为撸这个鉴黄平台！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14059&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwFZt0vCmnK81EGuaTV3TgQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-程序员的五种不同寻常的特质-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14058&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFX9RB3BAD4FYksP0ZTVbMQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-94-年出生，她们如今都是-985-高校博士生导师-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14057&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIgSviSWVjNDirM-OugOvKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-服务器标配-SSH-协议，你了解多少？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14056&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337890515%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-聊聊-HTTP-常见的请求方式-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14055&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337897202%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-是时候激活你的批判性思维了-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14054&url=https%3A%2F%2Finsights.thoughtworks.cn%2Factivate-critical-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-信任的传递——为什么我们需要第三方授权？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14053&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-third-party-authorization%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-20-程序员才懂的“凡尔赛语录”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14052&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9jdf7YN4_pIHKumAvvltLQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-鸿蒙和安卓，到底有什么区别？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14071&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpIDFvC_0XkYbfEEInso9_w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-App-Store-上架被拒，上架过程的辛酸~~~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14070&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDaLgyPbqhJMhAUgKaIE7vQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-为什么说-Flutter-可能不是下一件大事？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14069&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaR8DQea8aUsD0JOMm90rKA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-Android：MVVM-的工作原理之创建、销毁、保存、复用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14067&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXjyJg7Or8vYL-t24xtDVYQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-华为鸿蒙手机终于要来了！App生态已解决，网友：炸了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14066&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPK2k-1n9UI02IoNIPAFOVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-最详细从零开始配置-TypeScript-项目的教程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14065&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FX-MvwZN4ntOwt53pDg4OXQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-你还不知道？有的软件会偷偷打开你的摄像头或麦克风-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14064&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkrpdMAqcyuiUyVJEiJHHaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-IntelliJ-IDEA-最常用配置-详细图解（收藏篇）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14063&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaKQ5xxW5wWQRpL_ZXJPDHg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-豆瓣经典编程图书Top-10，你知道几本？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14062&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff25aSC7OqRyvQQzK5p6iBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-百度开源的-71-个炸天项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14061&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwkviR_XyJJAcy7PlxKfAog%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-互联网公司忽悠员工的黑话，套路太深了。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14060&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBOMYOpOat6V-rsxDjMNsfA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-学着爬取了某-Hub-资源，只为撸这个鉴黄平台！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14059&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwFZt0vCmnK81EGuaTV3TgQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-程序员的五种不同寻常的特质-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14058&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFX9RB3BAD4FYksP0ZTVbMQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-94-年出生，她们如今都是-985-高校博士生导师-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14057&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIgSviSWVjNDirM-OugOvKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-服务器标配-SSH-协议，你了解多少？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14056&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337890515%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-聊聊-HTTP-常见的请求方式-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14055&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337897202%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-是时候激活你的批判性思维了-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14054&url=https%3A%2F%2Finsights.thoughtworks.cn%2Factivate-critical-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-信任的传递——为什么我们需要第三方授权？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14053&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-third-party-authorization%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-21-程序员才懂的“凡尔赛语录”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14052&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9jdf7YN4_pIHKumAvvltLQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1056,26 +1056,26 @@
 </summary>
 
 
-- [2020-12-20-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
-- [2020-12-20-一切围绕信任：闲鱼无忧购的技术演进](https://toutiao.io/k/opd9d6w) ![](assets/new.png)  
-- [2020-12-20-我的笔记系统](https://toutiao.io/k/dpkojyz) ![](assets/new.png)  
-- [2020-12-20-手把手教你看懂-Chrome-火焰图](https://toutiao.io/k/p2bovqq) ![](assets/new.png)  
-- [2020-12-20-领域驱动设计实践之路（四）：领域驱动在微服务设计中的应用](https://toutiao.io/k/ewxi73t) ![](assets/new.png)  
-- [2020-12-20-说完观察者和发布订阅模式的区别，面试官不留我吃饭了](https://toutiao.io/k/d2c82k2) ![](assets/new.png)  
-- [2020-12-20-贝壳商业化算法中台架构实践](https://toutiao.io/k/fvgydff) ![](assets/new.png)  
-- [2020-12-20-浅谈阿里前端的多样化](https://toutiao.io/k/bd5fosy) ![](assets/new.png)  
-- [2020-12-20-论文：Item2vec-中值得品味的-8-个经典-tricks](https://toutiao.io/k/rvd4sev) ![](assets/new.png)  
-- [2020-12-20-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
-- [2020-12-20-推荐-记一次-MySQL-的-insert-死锁](https://toutiao.io/k/mbyee1y) ![](assets/new.png)  
-- [2020-12-20-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
-- [2020-12-20-推荐-HTTP/2-做错了什么？刚刚辉煌-2-年就要被弃用了！？](https://toutiao.io/k/v5mm32h) ![](assets/new.png)  
-- [2020-12-20-推荐-美团-Commit-Log-规范](https://toutiao.io/k/r6tsfdv) ![](assets/new.png)  
-- [2020-12-20-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
-- [2020-12-20-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
-- [2020-12-20-推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho) ![](assets/new.png)  
-- [2020-12-20-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
-- [2020-12-20-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) ![](assets/new.png)  
-- [2020-12-20-推荐-架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://toutiao.io/k/aj36ptr) ![](assets/new.png)  
+- [2020-12-21-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
+- [2020-12-21-要写系统设计文档了，但是不知道写什么，该怎么办?](https://toutiao.io/k/mrazqtw) ![](assets/new.png)  
+- [2020-12-21-程序员为什么转型管理？](https://toutiao.io/k/cxuwyue) ![](assets/new.png)  
+- [2020-12-21-Python-源码混淆与加密](https://toutiao.io/k/wvvxrwp) ![](assets/new.png)  
+- [2020-12-21-从面试角度分析-ArrayList-源码](https://toutiao.io/k/bgpyn76) ![](assets/new.png)  
+- [2020-12-21-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
+- [2020-12-21-译-50+-有用的-DevOps-工具（二）](https://toutiao.io/k/yqz5l47) ![](assets/new.png)  
+- [2020-12-21-二进制文件是什么样的？](https://toutiao.io/k/0ztmcru) ![](assets/new.png)  
+- [2020-12-21-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) ![](assets/new.png)  
+- [2020-12-21-推荐-常见算法模版总结（二）](https://toutiao.io/k/s66geea) ![](assets/new.png)  
+- [2020-12-21-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
+- [2020-12-21-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
+- [2020-12-21-推荐-架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://toutiao.io/k/aj36ptr) ![](assets/new.png)  
+- [2020-12-21-推荐-美团-Commit-Log-规范](https://toutiao.io/k/r6tsfdv) ![](assets/new.png)  
+- [2020-12-21-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) ![](assets/new.png)  
+- [2020-12-21-推荐-MySQL-索引知识点总结](https://toutiao.io/k/u9plzvk) ![](assets/new.png)  
+- [2020-12-21-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
+- [2020-12-21-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
+- [2020-12-21-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
+- [2020-12-21-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,6 +1087,17 @@
 </summary>
 
 
+- [2020-12-21-《Linux核心命令行》.pdf](https://sec.thief.one/article_content?a_id=1dc50de3b5bb47f3dc1c7643b2e0659a) ![](assets/new.png)  
+- [2020-12-21-与访问控制相关的安全问题](https://sec.thief.one/article_content?a_id=d2d5969a8fc70c69adf7f2c3094e821f) ![](assets/new.png)  
+- [2020-12-21-中央经济工作会议的细节故事](https://sec.thief.one/article_content?a_id=b9b96545e6770049cd4cf56bf6291534) ![](assets/new.png)  
+- [2020-12-21-欧盟《数字服务法》选译之三:实体规则方面的条文](https://sec.thief.one/article_content?a_id=95244e286675d4112985777256d37a7b) ![](assets/new.png)  
+- [2020-12-21-如何快速构建内部钓鱼平台](https://sec.thief.one/article_content?a_id=e28b78272a1f2e12f954f0df29ed2a82) ![](assets/new.png)  
+- [2020-12-21-数说央采:三年8亿网安产品采购,央采入围是大肉还是鸡肋?](https://sec.thief.one/article_content?a_id=cf4cfabe508c00135a7328db25a3f882) ![](assets/new.png)  
+- [2020-12-21-美国将59个中国实体加入“黑名单”:包括北京理工、北京邮电等五所...](https://sec.thief.one/article_content?a_id=dd6decbc6e0208df7b3e4a8b9baa03f2) ![](assets/new.png)  
+- [2020-12-20-夫妻炒比特币亏2000万后自杀,跳海前杀害三岁女儿](https://sec.thief.one/article_content?a_id=d4157b09df8659c1358a4c5e99302219) ![](assets/new.png)  
+- [2020-12-20-C++入门经典好书《C++-Primer-Plus》包邮送20本](https://sec.thief.one/article_content?a_id=12d5250873d0eb405f7069ecaa610080) ![](assets/new.png)  
+- [2020-12-20-网安三晋助力信创-OWASP中国2020山西区域技术沙龙](https://sec.thief.one/article_content?a_id=249508501c9641418c82a7207de13bf2) ![](assets/new.png)  
+- [2020-12-20-奇安信总裁吴云坤:工业网络安全要从局部整改模式升级为体系化规划...](https://sec.thief.one/article_content?a_id=ee166099d069599312e9945181e7311e) ![](assets/new.png)  
 - [2020-12-20-聊聊Gartner-2021战略技术趋势——行为互联网](https://sec.thief.one/article_content?a_id=2946166f89cc9b0a13692d8692879132) ![](assets/new.png)  
 - [2020-12-20-【网闻鉴真】这些东西是“黑科技”,还是“大忽悠”?](https://sec.thief.one/article_content?a_id=f0ae14ba7a9bac043dbdca143d4e1db4) ![](assets/new.png)  
 - [2020-12-20-周报|绿盟曹嘉、企安操作系统、零信任征文、胡洪涛谈安全投资等引热...](https://sec.thief.one/article_content?a_id=c0d6b79412bbb06585729057ff3b1828) ![](assets/new.png)  
@@ -1096,17 +1107,6 @@
 - [2020-12-20-欧盟《数字服务法》选译之二:序言](https://sec.thief.one/article_content?a_id=881bf934bdaeca2e40c95bc9a436e3b9) ![](assets/new.png)  
 - [2020-12-20-隔空取物-|-攻击者在不利用Wi-Fi硬件的情况下就可以窃取Air-gapped计...](https://sec.thief.one/article_content?a_id=ce2164d9ca8282b6196e025894880d6b) ![](assets/new.png)  
 - [2020-12-20-特权账号管理的关键特性与市场竞争分析](https://sec.thief.one/article_content?a_id=cfde1b01a353bfd5d4b3e736ae3284ae) ![](assets/new.png)  
-- [2020-12-20-2020在一起|《电子数据取证与网络犯罪调查》专刊来了!](https://sec.thief.one/article_content?a_id=ae4d8075aea1dd582906cbaf106f191b) ![](assets/new.png)  
-- [2020-12-20-CVE-2019-11043-PHP远程代码执行](https://sec.thief.one/article_content?a_id=e9f77e944eeb1a04e6a464d74efd4b1c) ![](assets/new.png)  
-- [2020-12-20-“网络公益扶贫联盟”湖北大会暨网信企业助力战疫战贫行动总结交流...](https://sec.thief.one/article_content?a_id=1b5396a97993fe59c1a5b026a7f55c93) ![](assets/new.png)  
-- [2020-12-20-FireEye和微软联手绞杀了SolarWinds后门](https://sec.thief.one/article_content?a_id=13df8b8ec542fb089af57e514e04e5a2) ![](assets/new.png)  
-- [2020-12-20-Web安全:CSRFTester跨站请求伪造漏洞测试工具](https://sec.thief.one/article_content?a_id=d7a96ff6036151c2fbb1d81d22287170) ![](assets/new.png)  
-- [2020-12-20-工作群里常见表情的真正含义……](https://sec.thief.one/article_content?a_id=c5ef41be5f211eabe177e2fabd549940) ![](assets/new.png)  
-- [2020-12-20-关于安全牛前主编失实宣传的严正声明](https://sec.thief.one/article_content?a_id=80fe1f32e8bae6b2da1cd7d10bd58747) ![](assets/new.png)  
-- [2020-12-19-欧盟《数字服务法》选译之一:解释性备忘录](https://sec.thief.one/article_content?a_id=0faed24da5e76396d65b80f09da9ecb8) ![](assets/new.png)  
-- [2020-12-19-你幸福吗?用-Python-分析幸福指数](https://sec.thief.one/article_content?a_id=316703783fd0b350ad8181c3d3049326) ![](assets/new.png)  
-- [2020-12-19-ChaMd5四年蝉联DSRC年度团队第一名](https://sec.thief.one/article_content?a_id=4ba03b34236a487f3f90a68ee3a5fd6c) ![](assets/new.png)  
-- [2020-12-19-主力资金流出,比特币要回调了?](https://sec.thief.one/article_content?a_id=8dc11118f4e61172df9525d3c5ed575d) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

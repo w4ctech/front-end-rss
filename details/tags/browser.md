@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 23:59:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 00:21:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,9 +46,10 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-20-账号被封，请求解封！](https://www.v2ex.com/t/737298) 
 - [2020-12-20-网购狂相见恨晚-遨游浏览器免登录也能用-Taobao-搜索看宝贝，是什么原理？](https://www.v2ex.com/t/737297) 
-- [2020-12-20-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-20-聊聊-HTTP-常见的请求方式-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14055&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337897202%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-20-手把手教你看懂-Chrome-火焰图](https://toutiao.io/k/p2bovqq) 
+- [2020-12-21-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-21-聊聊-HTTP-常见的请求方式-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14055&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337897202%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-21-与访问控制相关的安全问题](https://sec.thief.one/article_content?a_id=d2d5969a8fc70c69adf7f2c3094e821f) 
+- [2020-12-20-奇安信总裁吴云坤:工业网络安全要从局部整改模式升级为体系化规划...](https://sec.thief.one/article_content?a_id=ee166099d069599312e9945181e7311e) 
 - [2020-12-20-周报|绿盟曹嘉、企安操作系统、零信任征文、胡洪涛谈安全投资等引热...](https://sec.thief.one/article_content?a_id=c0d6b79412bbb06585729057ff3b1828) 
 - [2020-12-20-首发!腾讯安全云访问安全代理CASB亮相2020-Techo-Park,开辟数...](https://sec.thief.one/article_content?a_id=0407bf03970a3945f0b066bb6ef7cea5) 
 - [2020-12-20-Web安全:CSRFTester跨站请求伪造漏洞测试工具](https://sec.thief.one/article_content?a_id=d7a96ff6036151c2fbb1d81d22287170) 
@@ -69,4 +70,3 @@
 - [2020-12-18-突围百强,微步在线斩获2020网络安全创新力“年度成长力10强”](https://sec.thief.one/article_content?a_id=511cf45f2e1f47adb9eead10b524c1f3) 
 - [2020-12-17-Chrome-录屏神器!自称“最强大”的屏幕录制和注释工具!](https://sec.thief.one/article_content?a_id=de85e72202e42c31965a800ee65cc16d) 
 - [2020-12-17-【安全圈】Twitter-因违反数据保护条例被欧盟罚款-55-万美元](https://sec.thief.one/article_content?a_id=9548f47a211e6c8b19090a7217407eb1) 
-- [2020-12-17-《2020网络安全态势感知应用指南》发布-奇安信入选案例最多、覆盖...](https://sec.thief.one/article_content?a_id=47a83eae0f7fcf0a2e081d13b65bb8f9) 

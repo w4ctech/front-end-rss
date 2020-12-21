@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 23:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 23:15:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -45,9 +45,6 @@
 - [2020-12-18-来一起用-Vue3.0-造轮子](https://www.ershicimi.com/p/22422f25ae36e66c42e2fa9acac24c7f) 
 - [2020-12-17-解决vue页面刷新，数据丢失](https://www.ershicimi.com/p/3319332b4e7a6958f7db4d22c01495d3) 
 - [2020-12-16-最火的-Vue-前端框架，你用对了么？](https://www.ershicimi.com/p/f534bfdde9e6d4dfe2ed563197da3b59) 
-- [2020-12-20-Vue3有哪些不向下兼容的改变](https://www.ershicimi.com/p/ea3ec1b16083a33bd888b17fdf92a8b3) 
-- [2020-12-18-Vue-首页秒开实践指南](https://www.ershicimi.com/p/be6da31866f569ef81cc905470a30a29) 
-- [2020-12-13-人人都会vue，升职加薪进大厂的突破点在哪？](https://www.ershicimi.com/p/6e1ca0359937f8e055c941f327966531) 
 - [2020-12-17-Egg-+-Vue-+-MongoDB-实践开发在线文档管理平台](https://www.ershicimi.com/p/11586863038539ea757d7e75c7aa45b3) 
 - [2020-12-15-Vue3-+-TypeScript-完整项目上手教程](https://www.ershicimi.com/p/ca145a9692f57294c486b226b127066d) 
 - [2020-12-03-Electron-+-Vue-开发跨平台桌面应用](https://www.ershicimi.com/p/a6720fb26e39469453f05ff19657f1d3) 
@@ -70,4 +67,3 @@
 - [2020-11-26-从0到1熟悉VUE，只需3天！](https://www.ershicimi.com/p/cda44a7d05868dc91f7414c2439d5a92) 
 - [2020-12-21-Vue首次渲染过程](https://juejin.im/post/6908656804083793933) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
-- [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 

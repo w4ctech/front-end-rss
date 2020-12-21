@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 06:53:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 07:02:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,6 +7,5 @@
 
 
 
-- [2020-12-15-【第2148期】Figma-+-Gitlab-CI-一键交付-SVG-多色图标库](https://www.ershicimi.com/p/dfda52ab7a0718d6dee20f6d532842ee) 
 - [2020-12-21-设计灵感：把-3D-图案应用到网页界面设计中](https://www.ershicimi.com/p/f700e914ce0735b58f5f730b03163966) 
 - [2020-12-21-android-手机能不能不进-gui-界面进-Linux-终端那种交互界面](https://www.v2ex.com/t/737485) 

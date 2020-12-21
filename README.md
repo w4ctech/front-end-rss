@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-21 09:27:08，:rocket: 更新条数: +3900， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-21 09:45:07，:rocket: 更新条数: +3899， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,6 @@
 </summary>
 
 
-- [2020-12-21-12月20日全国新增确诊病例23例-本土病例2例](http://m.china.caixin.com/m/2020-12-21/101641344.html) ![](assets/new.png)  
 - [2020-12-21-应对英国出现新冠变异病毒株-多国采取紧急断航措施](http://m.international.caixin.com/m/2020-12-21/101641510.html) ![](assets/new.png)  
 - [2020-12-21-【境内疫情观察】黑龙江、辽宁各新增1例本土病例（12月20日）](http://m.database.caixin.com/m/2020-12-21/101641494.html) ![](assets/new.png)  
 - [2020-12-21-大流行手记|12月20日：世卫全球疫苗计划将获20亿剂-泰国海鲜市场疫情扩散](http://m.international.caixin.com/m/2020-12-21/101641336.html) ![](assets/new.png)  
@@ -85,6 +84,7 @@
 - [2020-12-18-研究：新冠抗体五个月内降至较低水平-但不意味着失去保护](http://m.science.caixin.com/m/2020-12-18/101640573.html) ![](assets/new.png)  
 - [2020-12-17-【境内疫情观察】全国新增7例境外输入病例（12月16日）](http://m.database.caixin.com/m/2020-12-17/101640267.html) ![](assets/new.png)  
 - [2020-12-17-大流行手记|12月16日：白宫优先接种疫苗引争议-英国已有14万人接种](http://m.international.caixin.com/m/2020-12-17/101640135.html) ![](assets/new.png)  
+- [2020-12-17-法国总统马克龙确诊新冠-西葡领导人将因密接隔离](http://m.international.caixin.com/m/2020-12-17/101640407.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -878,7 +878,7 @@
 - [2020-12-21-web可视化，AI数据标注的技术探索|掘金年度征文](https://juejin.im/post/6908634286146043917) ![](assets/new.png)  
 - [2020-12-21-DOM事件与事件委托（未完结）](https://juejin.im/post/6908630984749645831) ![](assets/new.png)  
 - [2020-12-21-NPM安装机制](https://juejin.im/post/6908630888343404551) ![](assets/new.png)  
-- [2020-12-21-我们为什么选择VUE来构建前端](https://juejin.im/post/6908630401464418317) ![](assets/new.png)  
+- [2020-12-19-《图解-HTTP》读书笔记](https://juejin.im/post/6907910244580638734) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +994,14 @@
 </summary>
 
 
+- [2020-12-21-996-大小周的公司值得长时间待吗，如想走多久可以走？](https://www.v2ex.com/t/737573) ![](assets/new.png)  
+- [2020-12-21-过年寻找一司机一起自驾回重庆](https://www.v2ex.com/t/737572) ![](assets/new.png)  
+- [2020-12-21-想到一个短视频自媒体的点子](https://www.v2ex.com/t/737571) ![](assets/new.png)  
+- [2020-12-21-在-V2-看到有人被骗的一些想法](https://www.v2ex.com/t/737570) ![](assets/new.png)  
+- [2020-12-21-一个脚本拯救你的-windows-环境变量](https://www.v2ex.com/t/737569) ![](assets/new.png)  
+- [2020-12-21-如何使用-Python-类装饰器，实现代码-clean](https://www.v2ex.com/t/737568) ![](assets/new.png)  
+- [2020-12-21-偶然发现，垃圾短信不会在WATCH-和-MacBook-上弹出了](https://www.v2ex.com/t/737566) ![](assets/new.png)  
+- [2020-12-21-迫于生计，出两瓶飞天茅台（成都面交）](https://www.v2ex.com/t/737565) ![](assets/new.png)  
 - [2020-12-21-求推荐简单的毕业设计题目~](https://www.v2ex.com/t/737563) ![](assets/new.png)  
 - [2020-12-21-求小程序前端外包-农业小程序求个前端](https://www.v2ex.com/t/737562) ![](assets/new.png)  
 - [2020-12-21-VUE-血洗前端招聘，未来组件化开发，对个人能力需求越来越低，薪资堪忧。](https://www.v2ex.com/t/737559) ![](assets/new.png)  
@@ -1006,14 +1014,6 @@
 - [2020-12-21-请教各位老哥一个问题-如何避免扯皮](https://www.v2ex.com/t/737551) ![](assets/new.png)  
 - [2020-12-21-父母养老房-深圳周边买哪里](https://www.v2ex.com/t/737549) ![](assets/new.png)  
 - [2020-12-21-又又又又又又又又做了一个社区](https://www.v2ex.com/t/737548) ![](assets/new.png)  
-- [2020-12-21-请问下-Mac-上-markdown-怎么转成-Page-或者-Word？](https://www.v2ex.com/t/737547) ![](assets/new.png)  
-- [2020-12-21-国内也开始出现纯-IPv6-的主机了](https://www.v2ex.com/t/737546) ![](assets/new.png)  
-- [2020-12-21-前后端不分离的项目,-前端如何独立开发?](https://www.v2ex.com/t/737545) ![](assets/new.png)  
-- [2020-12-21-下蛋节要到了注意页面下雪哦](https://www.v2ex.com/t/737544) ![](assets/new.png)  
-- [2020-12-21-编程语言能不能算是一种软件呢？](https://www.v2ex.com/t/737541) ![](assets/new.png)  
-- [2020-12-21-卑微应届生-offer-求选择](https://www.v2ex.com/t/737540) ![](assets/new.png)  
-- [2020-12-21-关于内网穿透的进阶，难道我的姿势不对？](https://www.v2ex.com/t/737539) ![](assets/new.png)  
-- [2020-12-21-分享一款炒股投资的小程序：大盘云图](https://www.v2ex.com/t/737538) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

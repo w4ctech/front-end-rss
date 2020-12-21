@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 07:49:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 08:06:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -16,3 +16,4 @@
 - [2020-12-18-GitHub新规：Git操作的身份验证将放弃密码，改用令牌或SSH密钥](https://www.ershicimi.com/p/eaa5d3d22e40a5cdb80b35e3dce7a001) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-12-21-GitOps-实战](https://www.v2ex.com/t/737528) 

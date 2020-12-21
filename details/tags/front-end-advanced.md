@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 07:49:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 08:06:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -26,7 +26,6 @@
 - [2020-12-19-快速搭建基于HTTPS的本地开发环境](https://juejin.im/post/6908220876357894158) 
 - [2020-12-21-东风岚图汽车招聘工程类、算法类职位](https://www.v2ex.com/t/737505) 
 - [2020-12-21-go-的-http.ServeFile-就只支持-utf-8/utf-16be/utf-16le?怎么把-gb2312-编码的文件返回？](https://www.v2ex.com/t/737499) 
-- [2020-12-21-推荐-HTTP/2-做错了什么？刚刚辉煌-2-年就要被弃用了！？](https://toutiao.io/k/v5mm32h) 
-- [2020-12-21-推荐-常见算法模版总结（二）](https://toutiao.io/k/s66geea) 
 - [2020-12-21-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) 
 - [2020-12-21-推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho) 
+- [2020-12-21-推荐-HTTP/2-做错了什么？刚刚辉煌-2-年就要被弃用了！？](https://toutiao.io/k/v5mm32h) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 07:49:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 08:06:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,4 +28,3 @@
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-12-21-分享一个从零开始手把手教你使用-Python-开发小兔要上天（平台跳跃类）游戏视频教程](https://www.v2ex.com/t/737491) 
-- [2020-12-21-在-M1-上的-Win10ARM-游戏体验](https://www.v2ex.com/t/737477) 

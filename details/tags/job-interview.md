@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 13:38:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 13:45:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,12 +8,7 @@
 
 
 - [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
-- [2020-08-19-政采云前端团队-2021-届校园招聘正式启动！](https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194) 
-- [2020-12-18-面试会遇到的手写-Pollyfill-都在这里了](https://www.ershicimi.com/p/40b6301861b444cd2d5ecf5d1e3b1502) 
-- [2020-12-17-字节、百度面试真题，你不会可就凉凉了](https://www.ershicimi.com/p/29047d00e0bb6947fedd32992c10a507) 
-- [2020-12-09-阿里、腾讯、美团以及网易等一线互联网公司面试总结](https://www.ershicimi.com/p/55e36e75429d1a9542b8199fc1bfb4c1) 
 - [2020-12-21-上海-武汉-字节跳动-抖音电商-部门招聘](https://www.v2ex.com/t/737609) 
-- [2020-12-21-从面试角度分析-ArrayList-源码](https://toutiao.io/k/bgpyn76) 
 - [2020-12-19-招贤纳士-|-雷神众测招聘第二弹!](https://sec.thief.one/article_content?a_id=3cdafc54c5aa0ba440cac60a24e2926f) 
 - [2020-12-19-牛聘|2020年度岗位招聘第16期](https://sec.thief.one/article_content?a_id=5ebe81179bd9b76d498a60bbb315f558) 
 - [2020-12-18-国家计算机网络应急技术处理协调中心省级分中心2021年度公开招聘笔...](https://sec.thief.one/article_content?a_id=3c619ee674f7e1375a135559c7c44df6) 

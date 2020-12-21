@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-21 04:13:45，:rocket: 更新条数: +3895， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-21 04:28:53，:rocket: 更新条数: +3665， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,14 +39,14 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-12-21-美国疫情告急-美官员防疫“说一套做一套”惹众怒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticVANxDETcyn2RYTctD8N201221&isfromapp=1) ![](assets/new.png)  
+- [2020-12-21-传播速度增快70％、大量民众连夜“出逃”-……变异新冠病毒在英迅速蔓延](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqazTFk2LBgZSNJ4agdw201221&isfromapp=1) ![](assets/new.png)  
 - [2020-12-20-英国伦敦防疫手段升至4级封锁近30万人逃离-英卫生大臣指责其不负责任](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCEBci6i44GpLmKsTg6Gy201221&isfromapp=1) ![](assets/new.png)  
 - [2020-12-20-关闭边境、停飞航班-多国采取措施应对英国发现新冠病毒新变种](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihx6z4NsdW8t6ksZMGCER201221&isfromapp=1) ![](assets/new.png)  
 - [2020-12-20-意大利报告1例从英国入境的新冠病毒新变种病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKVMQvZgEtRuzA4eH6guM201221&isfromapp=1) ![](assets/new.png)  
-- [2020-12-20-英国新增新冠肺炎确诊35928例-伦敦及英格兰东南部封锁将持续数月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticTseO03u9Jgh8GkDBJGc201221&isfromapp=1) ![](assets/new.png)  
-- [2020-12-20-南非或于2021年初收到首批新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFD2P9EYkS2lwnVFtQ57201220&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -657,26 +657,6 @@
 </summary>
 
 
-- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -874,6 +854,11 @@
 </summary>
 
 
+- [2020-12-20-相学长与魔幻2020-|-掘金年度征文](https://juejin.im/post/6908555081537454093) ![](assets/new.png)  
+- [2020-12-20-去哪儿网-ReactNative-跨小程序多端方案介绍](https://juejin.im/post/6908546607868805134) ![](assets/new.png)  
+- [2020-12-20-轻松理解HTTP缓存策略](https://juejin.im/post/6908540505115033614) ![](assets/new.png)  
+- [2020-12-20-使用git中的hook对提交代码中的TODO等关键字进行拦截](https://juejin.im/post/6908534290179424263) ![](assets/new.png)  
+- [2020-12-20-不怕忘-第十五届-D2-最简脑图笔记大合集](https://juejin.im/post/6908534713514721293) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -989,6 +974,8 @@
 </summary>
 
 
+- [2020-12-21-预付卡还有-$15.9-马上要过期了。有什么好用的小软件可以推荐的。](https://www.v2ex.com/t/737445) ![](assets/new.png)  
+- [2020-12-21-EDGE-新建标签页无法选择自定义页面布局是-bug-吗?](https://www.v2ex.com/t/737444) ![](assets/new.png)  
 - [2020-12-21-广东联通宽带使用体验如何](https://www.v2ex.com/t/737443) ![](assets/new.png)  
 - [2020-12-21-请各位推荐一下筷子](https://www.v2ex.com/t/737442) ![](assets/new.png)  
 - [2020-12-21-腾讯云-Serverless-企业级解决方案正式发布](https://www.v2ex.com/t/737441) ![](assets/new.png)  
@@ -1007,8 +994,6 @@
 - [2020-12-21-网站使用微信扫码登陆是如何实现自动跳转的？](https://www.v2ex.com/t/737425) ![](assets/new.png)  
 - [2020-12-21-冲啊干饭人！](https://www.v2ex.com/t/737424) ![](assets/new.png)  
 - [2020-12-21-猫疯狂攻击室友，换猫还是换房子？](https://www.v2ex.com/t/737423) ![](assets/new.png)  
-- [2020-12-21-很后悔在-b-站实名认证了，现在注销还有用吗](https://www.v2ex.com/t/737422) ![](assets/new.png)  
-- [2020-12-21-迫用户测试-求最新-Framer-教程（最好是中文的）](https://www.v2ex.com/t/737421) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,12 +1050,12 @@
 - [2020-12-21-Redis-速度快的原因：几点图解总结](https://toutiao.io/k/0u3mahv) ![](assets/new.png)  
 - [2020-12-21-Cloudflare-接口服务中断故障复盘与思考](https://toutiao.io/k/k2cve4e) ![](assets/new.png)  
 - [2020-12-21-译-基于-C#-的-ETL-大数据并行编程](https://toutiao.io/k/ndt1v4h) ![](assets/new.png)  
-- [2020-12-21-漫谈分层架构](https://toutiao.io/k/um1p5o9) ![](assets/new.png)  
 - [2020-12-21-Go-并发编程二-：Go-内存模型](https://toutiao.io/k/r9fev75) ![](assets/new.png)  
+- [2020-12-21-漫谈分层架构](https://toutiao.io/k/um1p5o9) ![](assets/new.png)  
 - [2020-12-21-层次分解位置编码，让-BERT-可以处理超长文本](https://toutiao.io/k/tw6e6h5) ![](assets/new.png)  
 - [2020-12-21-时间序列预测的常见方法及思考](https://toutiao.io/k/lxdcub5) ![](assets/new.png)  
 - [2020-12-21-封装-axios-取消重复请求](https://toutiao.io/k/fnubok6) ![](assets/new.png)  
-- [2020-12-21-推荐-生产力工具](https://toutiao.io/k/ltecz1p) ![](assets/new.png)  
+- [2020-12-21-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

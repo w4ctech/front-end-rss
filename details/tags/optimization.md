@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 06:10:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 06:41:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -24,5 +24,6 @@
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-12-17-注意了！System.currentTimeMillis-存在性能问题...](https://www.ershicimi.com/p/7cb37589c19918881fe01c3fde6374aa) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-12-21-已经将普通线路优化成-cn2-速度效果](https://www.v2ex.com/t/737492) 
 - [2020-12-21-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) 
 - [2020-12-21-推荐-性能提高-15-倍！只是把-MySQL-换成了-ClickHouse](https://toutiao.io/k/221a7sh) 

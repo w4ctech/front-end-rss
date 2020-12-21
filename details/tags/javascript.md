@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 11:35:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 11:41:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -29,11 +29,16 @@
 - [2020-01-23-世卫组织：对是否宣布为“国际公共卫生紧急事件”存在分歧](https://m.caixin.com/m/2020-01-23/101507521.html) 
 - [2020-01-22-如何解读WHO“国际公共卫生紧急事件”](http://m.china.caixin.com/m/2020-01-22/101507340.html) 
 - [2020-01-22-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
+- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
+- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-12-20-【4/121】在其他处理程序中附加事件处理程序](https://www.ershicimi.com/p/afff6fd88b87579fd5066ae69c2194f3) 
 - [2020-12-17-【第2150期】JavaScript的面向切面编程](https://www.ershicimi.com/p/d662be52f1d3ff530947c79bd02faa95) 
 - [2020-12-12-【第2145期】JavaScript诞生25周年](https://www.ershicimi.com/p/5cc1fc552be9631d266a853cf609600f) 
 - [2020-12-11-WebAssembly-如何提升-JavaScript-的性能？](https://www.ershicimi.com/p/d598d3b947b55e4c4d623fa9831712db) 
-- [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
+- [2020-12-21-手写-Promise-全家桶-+-Generator-+-async/await](https://www.ershicimi.com/p/e84505aa544e1b160b38485b839f0d57) 
+- [2020-12-19-花-4-小时写的-JS-脚本，帮医院省了-40-万澳元](https://www.ershicimi.com/p/edfc7597eedb9323010f685d8c94e002) 
+- [2020-12-19-6.7k-Star！超全面的中文版-JS-开发资源列表](https://www.ershicimi.com/p/ab81f321d6fd0771ba6d2e5e636e55d3) 
+- [2020-12-18-这个-29.7-K-的剪贴板-JS-库有点东西！](https://www.ershicimi.com/p/e60add1d8543af886933de01b434b95e) 
 - [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
 - [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
 - [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) 
@@ -66,6 +71,8 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-12-15-clipboard.js-的源码分析](https://www.ershicimi.com/p/90113ff600b53542b3b9cb943ec93e7e) 
+- [2020-12-20-CabloyJS-v4.0.0支持工作流引擎及更多-🎉](https://juejin.im/post/6908606681161154567) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

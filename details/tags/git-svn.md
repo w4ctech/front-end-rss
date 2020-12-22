@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-22 02:06:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-22 02:32:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -18,4 +18,3 @@
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
 - [2020-12-22-求教：-git-如何处理本地不想提交的文件？（不是添加到-ignore-文件）](https://www.v2ex.com/t/737713) 
 - [2020-12-22-Visual-Studio-Code-在-github-上的-Issue-的中文语言的黑产是怎么回事啊？](https://www.v2ex.com/t/737699) 
-- [2020-12-22-FreeBSD-开发已经迁移至-git](https://www.v2ex.com/t/737688) 

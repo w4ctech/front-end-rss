@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-22 22:49:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-22 22:54:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -26,5 +26,4 @@
 - [2020-12-22-为啥电脑和平板连一个热点，电脑搜索引擎都加载不出来，平板网速飞快](https://www.v2ex.com/t/738044) 
 - [2020-12-22-抖音-Android-性能优化系列：Java-内存优化篇](https://toutiao.io/k/ol94o2o) 
 - [2020-12-22-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) 
-- [2020-12-22-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) 
 - [2020-12-22-推荐-性能提高-15-倍！只是把-MySQL-换成了-ClickHouse](https://toutiao.io/k/221a7sh) 

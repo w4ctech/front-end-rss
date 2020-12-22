@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-22 07:43:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-22 07:50:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -29,5 +29,3 @@
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-12-22-从零开始的-RPG-游戏制作教程（第五期）](https://www.v2ex.com/t/737894) 
-- [2020-12-22-从-12-月-18-日起，-Epic-每天白送一款游戏！](https://www.v2ex.com/t/737850) 
-- [2020-12-22-头脑风暴-设计一款全民都会玩的游戏？每一个领域、阶层、年龄在里面都有其乐趣的游戏。](https://www.v2ex.com/t/737846) 

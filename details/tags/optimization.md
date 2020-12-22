@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-22 19:45:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-22 19:55:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2020-12-18-【第2151期】当我们谈前端性能的时候，我们谈的是什么](https://www.ershicimi.com/p/3e94acf908844a3d66b9acfe3c0229d4) 
 - [2020-12-15-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7e8f65c02e6424a888374cb792a659e3) 
 - [2020-12-08-Web-现代应用程序架构下的性能优化，渐进式的极致艺术。](https://www.ershicimi.com/p/78d1bd412fb531f3e5c20ee124f8c751) 
@@ -26,4 +25,4 @@
 - [2020-12-22-为啥电脑和平板连一个热点，电脑搜索引擎都加载不出来，平板网速飞快](https://www.v2ex.com/t/738044) 
 - [2020-12-22-抖音-Android-性能优化系列：Java-内存优化篇](https://toutiao.io/k/ol94o2o) 
 - [2020-12-22-推荐-性能提高-15-倍！只是把-MySQL-换成了-ClickHouse](https://toutiao.io/k/221a7sh) 
-- [2020-12-22-推荐-explain：索引优化的这把绝世好剑，你真的会用吗？](https://toutiao.io/k/y3en305) 
+- [2020-12-22-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) 

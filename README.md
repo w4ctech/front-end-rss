@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-22 11:00:04，:rocket: 更新条数: +3884， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-22 11:13:51，:rocket: 更新条数: +931， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-12-22-12月21日全国新增确诊病例15例-本土病例2例](http://m.china.caixin.com/m/2020-12-22/101641812.html) ![](assets/new.png)  
-- [2020-12-22-聚焦|张文宏：英国突变株并不意外，降低疫苗效力可能性不大](http://m.opinion.caixin.com/m/2020-12-22/101641809.html) ![](assets/new.png)  
-- [2020-12-22-【境内疫情观察】辽宁新增2例本土病例（12月21日）](http://m.database.caixin.com/m/2020-12-22/101641958.html) ![](assets/new.png)  
-- [2020-12-22-大流行手记|12月21日：英国变异病毒影响扩大-美国多州疫苗供应不足](http://m.international.caixin.com/m/2020-12-22/101641821.html) ![](assets/new.png)  
-- [2020-12-21-新变种病毒来势汹汹-港府紧急宣布英国客运航班禁抵港](http://m.china.caixin.com/m/2020-12-21/101641684.html) ![](assets/new.png)  
-- [2020-12-21-中国是否将减少英国航班应对变异毒株-外交部：将认真研究](http://m.china.caixin.com/m/2020-12-21/101641622.html) ![](assets/new.png)  
-- [2020-12-21-最新海外疫情：新冠感染超7672万-累计死亡超168万](http://m.international.caixin.com/m/2020-12-21/101641652.html) ![](assets/new.png)  
-- [2020-12-21-【境内疫情观察】黑龙江、辽宁各新增1例本土病例（12月20日）](http://m.database.caixin.com/m/2020-12-21/101641494.html) ![](assets/new.png)  
-- [2020-12-21-大流行手记|12月20日：世卫全球疫苗计划将获20亿剂-泰国海鲜市场疫情扩散](http://m.international.caixin.com/m/2020-12-21/101641336.html) ![](assets/new.png)  
-- [2020-12-21-应对英国出现新冠变异病毒株-多国采取紧急断航措施](http://m.international.caixin.com/m/2020-12-21/101641510.html) ![](assets/new.png)  
-- [2020-12-20-【境内疫情观察】辽宁新增1例本土病例（12月19日）](http://m.database.caixin.com/m/2020-12-20/101641254.html) ![](assets/new.png)  
-- [2020-12-20-大流行手记|12月19日：美国批准Moderna疫苗紧急使用-英国感染者急剧增加](http://m.international.caixin.com/m/2020-12-20/101641222.html) ![](assets/new.png)  
-- [2020-12-20-英国发现新冠变异病毒-传染性更强？](http://m.international.caixin.com/m/2020-12-20/101641312.html) ![](assets/new.png)  
-- [2020-12-20-自美返国检测标准收紧-将不再接受指尖血取样报告](http://m.international.caixin.com/m/2020-12-20/101641218.html) ![](assets/new.png)  
-- [2020-12-19-【境内疫情观察】北京新增2例境外输入关联病例（12月18日）](http://m.database.caixin.com/m/2020-12-19/101641131.html) ![](assets/new.png)  
-- [2020-12-19-大流行手记|12月18日：欧盟拟提前评估辉瑞疫苗-部分非洲国家没钱大量购疫苗](http://m.international.caixin.com/m/2020-12-19/101641005.html) ![](assets/new.png)  
-- [2020-12-19-中国新冠疫苗接种将“两步走”-已有企业滚动提交三期数据](https://m.caixin.com/m/2020-12-19/101641096.html) ![](assets/new.png)  
-- [2020-12-18-北京新增1例境外输入确诊病例关联病例-为14日确诊病例密接者](http://m.china.caixin.com/m/2020-12-18/101640837.html) ![](assets/new.png)  
-- [2020-12-18-【境内疫情观察】四川新增1例本土病例（12月17日）](http://m.database.caixin.com/m/2020-12-18/101640627.html) ![](assets/new.png)  
-- [2020-12-18-大流行手记|12月17日：欧洲多名政要隔离-东京医疗资源告急](http://m.international.caixin.com/m/2020-12-18/101640522.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -96,11 +76,11 @@
 </summary>
 
 
+- [2020-12-22-挪威要求来自英国的旅客进行新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2eK6zxB8k1SBS1sMKkXD201222&isfromapp=1) ![](assets/new.png)  
+- [2020-12-22-严防疫情输入！民航局累计发出熔断指令140次、取消国际客运航班272班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJg1IshNao3kMQJGWiGQH201222&isfromapp=1) ![](assets/new.png)  
+- [2020-12-22-金融市场受疫情冲击-欧美股市跌多涨少](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie0IlDLfwN8PtIpBAPqtx201222&isfromapp=1) ![](assets/new.png)  
 - [2020-12-22-新版《生物制品批签发管理办法》将实施-国家药监局：急需疫苗可免予批签发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikABf0PIEcbKqcB3QvDPz201222&isfromapp=1) ![](assets/new.png)  
 - [2020-12-22-智利南极基地暴发疫情：36-人新冠病毒检测呈阳性](https://finance.sina.com.cn/tech/2020-12-22/doc-iiznezxs8281256.shtml) ![](assets/new.png)  
-- [2020-12-22-美国参议院投票通过9000亿美元疫情纾困法案](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGd1DhlMIF5rc63JYud4P201222&isfromapp=1) ![](assets/new.png)  
-- [2020-12-22-英国专家：儿童或和成年人一样容易感染变异新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixwXyFpWfDYm4evriJ3i9201222&isfromapp=1) ![](assets/new.png)  
-- [2020-12-22-辽宁大连市疾病预防控制中心发布紧急寻人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAY6m2q7wQtu5Xa8XzCCQ201222&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -974,6 +954,7 @@
 </summary>
 
 
+- [2020-12-22-美团-外卖配送前端直招---坐标北京（急急急！招！简历直达部门老大）](https://www.v2ex.com/t/737991) ![](assets/new.png)  
 - [2020-12-22-阿里云国际站折扣贴！-vx：-hjlgwzww](https://www.v2ex.com/t/737990) ![](assets/new.png)  
 - [2020-12-22-堆糖-招聘产品经理，寻找独一无二的你！-15-30K-坐标：上海人广](https://www.v2ex.com/t/737988) ![](assets/new.png)  
 - [2020-12-22-Java-在-aop-里执行注解里面的方法并得到结果要怎么写啊](https://www.v2ex.com/t/737987) ![](assets/new.png)  
@@ -993,7 +974,6 @@
 - [2020-12-22-Linux-C++-大家平时都是用什么工具写代码/调试代码的,-有什么效率高的工具推荐吗？](https://www.v2ex.com/t/737966) ![](assets/new.png)  
 - [2020-12-22-MacOS-下-OneDrive+Typora-冲突？](https://www.v2ex.com/t/737964) ![](assets/new.png)  
 - [2020-12-22-Apple-Music-家庭组队](https://www.v2ex.com/t/737962) ![](assets/new.png)  
-- [2020-12-22-iOS-现在有什么软件能播放本地的-HDR-视频呢](https://www.v2ex.com/t/737961) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

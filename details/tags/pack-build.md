@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-22 10:02:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-22 10:16:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -18,6 +18,7 @@
 - [2016-09-22-通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/) 
 - [2016-02-26-使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/) 
 - [2020-12-22-亚马逊-CTO：从无数实践中总结出-4-条云端构建的铁律](https://www.ershicimi.com/p/665f797bd08338d0ae87ddfb3aa0ed60) 
+- [2020-12-22-nodejs-3分钟学会系列教程（3）-npm-第三方模块-fs模块](https://juejin.im/post/6908999327709200392) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
 - [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) 
 - [2020-03-11-4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-22 14:47:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-22 14:56:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,8 +8,6 @@
 
 
 - [2020-12-17-Chrome-录屏神器！自称“最强大”的屏幕录制和注释工具！](https://www.ershicimi.com/p/fe24d92ebe99875cec2313cbcdbbcafa) 
-- [2020-12-14-跨域，不止CORS](https://www.ershicimi.com/p/4c1957186e134e081e700b2fc46e7733) 
-- [2020-12-11-前端前沿观察，Cookie-居然可以这样整了](https://www.ershicimi.com/p/bfd223b8e85452ebd67a19509a3d6021) 
 - [2020-12-19-Trie-树是什么样的数据结构？有哪些应用场景？](https://www.ershicimi.com/p/0bdcdfa210419492c99bec64c91e36a4) 
 - [2020-12-17-使用-Performance-看看浏览器在做些什么](https://www.ershicimi.com/p/d46ecb9c976272cb97d54eef147e99bb) 
 - [2020-12-16-图解跨域请求、反向代理原理，对前端更友好的反向代理服务器---Caddy](https://www.ershicimi.com/p/0f6067b1fe001ca5abd95cb2f6cfa227) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-22 17:59:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-22 18:05:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,6 +39,11 @@
 
 
 
+- [【前端开发博客】工具控hoist-non-react-statics-你没用过吧](https://www.ershicimi.com/p/bb1161f2239a80f5e1b16357546ee040)
+- [【前端开发博客】工具控-react-优化里面用到-lodash.memoize](https://www.ershicimi.com/p/8030f9ceac2221818a92f0a24cede590)
+- [【前端开发博客】工具控babel-react-optimize](https://www.ershicimi.com/p/87be70d3d4719eedb42df24f6303ca69)
+- [【前端开发博客】阿里-ice.work-探秘系列-react-materials-之Label](https://www.ershicimi.com/p/41048b591220c58f73c8e9945b1514c1)
+- [【前端开发博客】阿里-ice.work-探秘系列-useState、useEffect](https://www.ershicimi.com/p/23159dcf23f0f8f92efd0a91c7a316f2)
 - [【凹凸实验室】React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/)
 - [【凹凸实验室】使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/)
 - [【凹凸实验室】Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/)
@@ -51,6 +56,8 @@
 - [【凹凸实验室】轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/)
 - [【凹凸实验室】feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/)
 - [【凹凸实验室】使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/)
+- [【前端日刊】这一次彻底弄懂React-Router路由原理](https://www.ershicimi.com/p/91483570618fec8b1325f5aa8e1da6ae)
+- [【掘金前端】React服务端渲染ssr之Next.js框架](https://juejin.im/post/6909021437139517454)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -67,6 +74,17 @@
 
 
 
+- [【前端圈】视频蒋豪群聊聊Vue-3-周边项目](https://www.ershicimi.com/p/2a12d97dd7bb04af90078ddf2b9f196d)
+- [【前端圈】Vue3三连发，这期聊聊Vue-3周边项目](https://www.ershicimi.com/p/97695ac09543799ef0ccda9e2479572e)
+- [【前端圈】视频Vue.js-3.0-什么时候可以投入生产使用](https://www.ershicimi.com/p/62da65e218585b265a4ddc89ca674b0b)
+- [【前端圈】尤雨溪约你聊聊Vue.js-3.0-Beta](https://www.ershicimi.com/p/6f88eda2cef2ca14858c173412919f36)
+- [【前端圈】视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0)
+- [【前端开发博客】vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8)
+- [【前端开发博客】vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602)
+- [【前端开发博客】vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36)
+- [【前端开发博客】vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c)
+- [【前端之巅】基于Vite搭建Electron+Vue3的开发环境](https://www.ershicimi.com/p/af51be56741ab415afb7ad1418a4e7b4)
+- [【前端之巅】前端周报：Element-UI-for-Vue-3.0来了；Win-10-或将于明年原生支持安卓应用](https://www.ershicimi.com/p/e85420f822a61bf6157caf1738584730)
 - [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
 - [【凹凸实验室】使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/)
 - [【凹凸实验室】Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/)
@@ -74,7 +92,8 @@
 - [【凹凸实验室】XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/)
 - [【凹凸实验室】Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/)
 - [【凹凸实验室】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
-- [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
+- [【前端日刊】又作什么妖？会-Vue-也是错……](https://www.ershicimi.com/p/ae08e4308e9b3c9c8dd44f2c7481bb14)
+- [【前端日刊】3天VUE实战，1比1还原抖音代码！](https://www.ershicimi.com/p/357d7929d9716f30eb66647a8de23f47)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -91,7 +110,8 @@
 
 
 
-- [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
+- [【前端之巅】Deno-1.6正式发布！支持将TypeScript编译成单个可执行文件，苹果M1可原生运行](https://www.ershicimi.com/p/6016c0f7080a129bf39ed7417be0953b)
+- [【技术头条】最详细从零开始配置-TypeScript-项目的教程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14065&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FX-MvwZN4ntOwt53pDg4OXQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -108,12 +128,14 @@
 
 
 
+- [【前端开发博客】webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320)
+- [【前端之巅】Snowpack-3-RC-版本发布：可跳过-npm-安装步骤](https://www.ershicimi.com/p/f5dc055480b766e8308941ec89ca90f8)
 - [【凹凸实验室】Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/)
 - [【凹凸实验室】ELF---灵活可扩展的-HTML5-构建工具](https://aotu.io/notes/2017/01/17/elf/)
 - [【凹凸实验室】Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/)
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
-- [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【InfoQ】亚马逊-CTO：从无数实践中总结出-4-条云端构建的铁律](https://www.ershicimi.com/p/665f797bd08338d0ae87ddfb3aa0ed60)
 - [【安全热点】如何快速构建内部钓鱼平台](https://sec.thief.one/article_content?a_id=e28b78272a1f2e12f954f0df29ed2a82)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
@@ -131,6 +153,7 @@
 
 
 
+- [【前端之巅】调用-Express-API时出现奇怪的CORS错误该怎么办？](https://www.ershicimi.com/p/e671bc7c42f514605d51da84bdb5fb88)
 - [【凹凸实验室】node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/)
 - [【凹凸实验室】一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/)
 - [【凹凸实验室】Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/)
@@ -139,6 +162,8 @@
 - [【凹凸实验室】Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/)
 - [【凹凸实验室】Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/)
 - [【凹凸实验室】【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
+- [【前端日刊】从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0)
+- [【掘金前端】nodejs+express-最简易的连接数据库](https://juejin.im/post/6909018241721434126)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -155,6 +180,8 @@
 
 
 
+- [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
+- [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【凹凸实验室】京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/)
 - [【凹凸实验室】京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/)
 - [【凹凸实验室】Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/)
@@ -173,8 +200,6 @@
 - [【凹凸实验室】邀您参加「Taro-x-小程序·云开发」物料开发竞赛](https://aotu.io/notes/2019/07/01/taro-ext-action/)
 - [【凹凸实验室】Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/)
 - [【凹凸实验室】小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/)
-- [【凹凸实验室】决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/)
-- [【凹凸实验室】Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -191,9 +216,11 @@
 
 
 
+- [【前端之巅】纯-Dart-的挑战：美团外卖-Flutter-动态化实践](https://www.ershicimi.com/p/a500006868d6e35166629cba5d567825)
 - [【凹凸实验室】Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/)
 - [【凹凸实验室】Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/)
 - [【凹凸实验室】Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/)
+- [【技术头条】为什么说-Flutter-可能不是下一件大事？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14069&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaR8DQea8aUsD0JOMm90rKA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -246,6 +273,15 @@
 
 
 
+- [【前端圈】用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f)
+- [【前端圈】JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d)
+- [【前端开发博客】阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba)
+- [【前端开发博客】阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16)
+- [【前端开发博客】阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee)
+- [【前端开发博客】阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce)
+- [【前端开发博客】阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e)
+- [【前端之巅】9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/06af08880240e0908248ba052a0e73d8)
+- [【前端之巅】前端周报：JS-诞生-25-周年；微软将强行升级部分旧版本Win-10用户；将编程纳入中小学课程，程](https://www.ershicimi.com/p/8f15bc65ae313923ec2405b52d2ee580)
 - [【张鑫旭-鑫空间-鑫生活】原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/)
 - [【张鑫旭-鑫空间-鑫生活】尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/)
 - [【张鑫旭-鑫空间-鑫生活】ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/)
@@ -257,15 +293,6 @@
 - [【凹凸实验室】网页适配-iPhoneX，就是这么简单](https://aotu.io/notes/2017/11/27/iphonex/)
 - [【凹凸实验室】H5动画：轨迹移动](https://aotu.io/notes/2017/11/06/path-animation/)
 - [【凹凸实验室】js创建一条通用链表](https://aotu.io/notes/2017/10/13/make-a-chain-class/)
-- [【凹凸实验室】实现-setTimeout-&-setInterval-暂停的方案](https://aotu.io/notes/2017/09/25/manage-setTimeout-an-setInterval/)
-- [【凹凸实验室】AT---前端-UI-组件库](https://aotu.io/notes/2017/08/28/at-ui/)
-- [【凹凸实验室】利用视口单位实现适配布局](https://aotu.io/notes/2017/04/28/2017-4-28-CSS-viewport-units/)
-- [【凹凸实验室】了解-Fetch-API](https://aotu.io/notes/2017/04/10/fetch-API/)
-- [【凹凸实验室】视频H5のVideo标签在微信里的坑和技巧](https://aotu.io/notes/2017/01/11/mobile-video/)
-- [【凹凸实验室】正则表达式实践篇](https://aotu.io/notes/2016/12/07/regexp-practice/)
-- [【凹凸实验室】正则表达式理论篇](https://aotu.io/notes/2016/11/17/regexp-theory/)
-- [【凹凸实验室】Javascript-中的装饰器](https://aotu.io/notes/2016/10/24/decorator/)
-- [【凹凸实验室】H5直播起航](https://aotu.io/notes/2016/10/09/HTML5-SopCast/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -282,6 +309,8 @@
 
 
 
+- [【前端圈】视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0)
+- [【前端开发博客】阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497)
 - [【张鑫旭-鑫空间-鑫生活】纯CSS实现微信列表左滑显示按钮的交互效果](https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/)
 - [【张鑫旭-鑫空间-鑫生活】几行CSS让整站支持深色模式的探索与拓展](https://www.zhangxinxu.com/wordpress/2020/11/css-mix-blend-mode-filter-dark-theme/)
 - [【张鑫旭-鑫空间-鑫生活】HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/)
@@ -300,8 +329,6 @@
 - [【凹凸实验室】深入了解font-weight](https://aotu.io/notes/2016/11/08/css3fontweight/)
 - [【凹凸实验室】border-image-的正确用法](https://aotu.io/notes/2016/11/02/border-image/)
 - [【凹凸实验室】CSS3-Mask-安利报告](https://aotu.io/notes/2016/10/19/css3-mask/)
-- [【凹凸实验室】CSS-3D-Panorama---淘宝造物节技术剖析](https://aotu.io/notes/2016/08/24/2016-8-24-css-3d-panorama/)
-- [【凹凸实验室】CSS3动画之逐帧动画](https://aotu.io/notes/2016/05/17/css3-animation-frame/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -348,11 +375,22 @@
 
 
 
+- [【前端圈】视频Winter-教你-MVVM](https://www.ershicimi.com/p/407d00f5a91b47a7f16018aaec12084f)
+- [【前端圈】更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d)
+- [【前端圈】视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b)
+- [【前端圈】视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a)
+- [【前端圈】视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed)
+- [【前端圈】视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138)
+- [【前端圈】视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a)
+- [【前端圈】视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d)
+- [【前端之巅】前端人，咱别盲目追求新技术-|-直播推荐](https://www.ershicimi.com/p/4c4c1f6dcdda44bf473508bfc9dce19e)
 - [【凹凸实验室】羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/)
 - [【凹凸实验室】直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/)
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【前端日刊】【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa)
+- [【技术头条】你还不知道？有的软件会偷偷打开你的摄像头或麦克风-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14064&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkrpdMAqcyuiUyVJEiJHHaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】“追寻先烈足迹”短视频网上征集展示活动成果发布会在京举办](https://sec.thief.one/article_content?a_id=13d49ad5fa5e918e1b7f41c6bb2d4e4a)
 - [【安全热点】创意微视频|听!中国经济引擎之声](https://sec.thief.one/article_content?a_id=c328e33853b6c4e72c94dcec700b43b3)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -371,6 +409,7 @@
 
 
 
+- [【前端之巅】提升网站的加载速度，你选择-Brotli-还是-Gzip？](https://www.ershicimi.com/p/90355d8f99005af517ea8718efca7157)
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【凹凸实验室】大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)
@@ -379,7 +418,6 @@
 - [【凹凸实验室】前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
-- [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -405,7 +443,9 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
-- [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【InfoQ】安全地拥抱数字货币，PayPal的底气是什么？](https://www.ershicimi.com/p/5d2b853ef09dfeff27301059a0112aaa)
+- [【技术头条】Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】聊聊-HTTP-常见的请求方式-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14055&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337897202%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】信息安全漏洞周报2020年第49期](https://sec.thief.one/article_content?a_id=31a54053a84aa316f2c0ba3f20d5a01a)
 - [【安全热点】荣誉+3!国舜股份业务安全产品荣获“信网杯”优秀科技成果三项大奖](https://sec.thief.one/article_content?a_id=989bee46f8360132b3617e0cd07d56cd)
 - [【安全热点】《BMZCTF第一届网络安全公开赛》](https://sec.thief.one/article_content?a_id=06ad5ba76fb59d3f17e0bff856d6aa69)
@@ -414,8 +454,6 @@
 - [【安全热点】《中国工业信息安全产业发展白皮书2019-2020》全文](https://sec.thief.one/article_content?a_id=5ba94c3295070a11ee61ab6442a5efba)
 - [【安全热点】【安全圈】学术界人士展示最新黑客技术:让内存条变身Wi-Fi泄漏数据](https://sec.thief.one/article_content?a_id=5c521d65fd02380e898a8372ca751575)
 - [【安全热点】招聘-|-美团招聘研发安全专家](https://sec.thief.one/article_content?a_id=34e9d0d5b904bf5c224f707f7a78d843)
-- [【安全热点】【安全热点周报】第173期:顶级网络管理软件SolarWinds被植入后门](https://sec.thief.one/article_content?a_id=725b4e01ac20d1b9b9770a687e3c8760)
-- [【安全热点】人物|DNVGL宋琳:安全管理要说人话,越野徒步不束自由](https://sec.thief.one/article_content?a_id=8ecc9da34d4b405c10e47ecaa69c0f76)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -439,6 +477,8 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【JavaScript】排序算法](https://www.ershicimi.com/p/1ca2e23533568845a2a484f905348a5f)
+- [【JavaScript】疯了？价值上万元“Web全栈架构师”正课免费？](https://www.ershicimi.com/p/cae5f6db9a2ffaa926bb78df3323fe21)
 - [【安全热点】1.5-万-Star!热门机器学习算法的-Python实现](https://sec.thief.one/article_content?a_id=8544472f5e8bb1a2915dc19947051fc4)
 - [【安全热点】拜托了,别再说Base64是加密算法了](https://sec.thief.one/article_content?a_id=879eba374f8ba6d41d26fb91eeb39c24)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -478,6 +518,7 @@
 - [【凹凸实验室】规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+- [【掘金前端】GitHub-2020-报告：全球开发者工作与生活的平衡情况](https://juejin.im/post/6908880779963695118)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -494,6 +535,11 @@
 
 
 
+- [【前端日刊】阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668)
+- [【前端日刊】笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b)
+- [【前端日刊】腾讯、华为前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557)
+- [【前端日刊】字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/f8720b9ba9028e4081b1345e6367f3c5)
+- [【JavaScript】阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/196a7fb4fe0dda8d044135599df6e681)
 - [【安全热点】掌握这些DNS解析故障问题,面试轻松搞定!](https://sec.thief.one/article_content?a_id=83e8bfc24aaa6fc24e8dc4177dfb36fe)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -541,26 +587,26 @@
 
 
 
-- [【张鑫旭-鑫空间-鑫生活】突发奇想，同步单复选框checked态岂不点击通杀？](https://www.zhangxinxu.com/wordpress/2020/11/label-sync-radio-checkbox-checked/)
-- [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
-- [【阮一峰的网络日志】科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html)
-- [【阮一峰的网络日志】《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html)
-- [【阮一峰的网络日志】科技爱好者周刊（第-137-期）：Slack-被收购，以及企业的技术选型](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-137.html)
-- [【京东设计中心】NutUI-CLI源码解析](https://jdc.jd.com/archives/213013)
-- [【京东设计中心】NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007)
-- [【京东设计中心】用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987)
-- [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
-- [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
-- [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
-- [【凹凸实验室】MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/)
-- [【凹凸实验室】硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/)
-- [【凹凸实验室】三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/)
-- [【凹凸实验室】Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/)
-- [【凹凸实验室】如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/)
-- [【凹凸实验室】618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/)
-- [【凹凸实验室】从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/)
-- [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
-- [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
+- [【全国新型肺炎疫情实时动态(丁香园)】挪威要求来自英国的旅客进行新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2eK6zxB8k1SBS1sMKkXD201222&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】严防疫情输入！民航局累计发出熔断指令140次、取消国际客运航班272班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJg1IshNao3kMQJGWiGQH201222&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】金融市场受疫情冲击-欧美股市跌多涨少](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie0IlDLfwN8PtIpBAPqtx201222&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】新版《生物制品批签发管理办法》将实施-国家药监局：急需疫苗可免予批签发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikABf0PIEcbKqcB3QvDPz201222&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】智利南极基地暴发疫情：36-人新冠病毒检测呈阳性](https://finance.sina.com.cn/tech/2020-12-22/doc-iiznezxs8281256.shtml)
+- [【前端圈】约吗？-Winter-问你](https://www.ershicimi.com/p/56070921db6716af5615b24f68ab643b)
+- [【前端圈】玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e)
+- [【前端开发博客】阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de)
+- [【前端开发博客】工具控来看看代码高亮必备](https://www.ershicimi.com/p/56debedff7f9d3c357f3621de7a64aa2)
+- [【前端开发博客】阿里-ice.work-探秘系列-disabled-reload](https://www.ershicimi.com/p/51eed11abceaabb3dd7f2ceed864d182)
+- [【前端开发博客】阿里-ice.work-探秘系列-withRouter-的使用](https://www.ershicimi.com/p/29c023dd30374ab258ceef6aeaddb1e2)
+- [【前端之巅】来自谷歌前员工的最佳软件开发工具指南](https://www.ershicimi.com/p/36f5b1476b4ce0f8e5a40c320afcf1fc)
+- [【前端之巅】仅5000位开发者抢到了门票，这个技术大会有多牛？-|-活动推荐](https://www.ershicimi.com/p/6176122c19ac3803716dbd7a07b86c6c)
+- [【前端之巅】美团：高速发展下如何做好移动端持续交付](https://www.ershicimi.com/p/333c8c83ed278616b8d021ebe66240e7)
+- [【前端之巅】大龄程序员必须得转行吗？-|-活动推荐](https://www.ershicimi.com/p/e4133808e178b1469bec3a3d096ca2c9)
+- [【前端之巅】数据及AI技术如何更好加持智能网联及出海业务的应用开发？|-活动推荐](https://www.ershicimi.com/p/762d2c286dfdc6d5efe024984f208a71)
+- [【前端之巅】你的企业还在为AI落地头疼吗？华为云ModelArts-Pro助你一臂之力｜活动推荐](https://www.ershicimi.com/p/a849acb31e70fa4e16aa52804379322b)
+- [【前端之巅】要么改进要么消亡：我想跨平台应用程序快要终结了](https://www.ershicimi.com/p/5534d52bb89bb0a6e6b6d381ddb31735)
+- [【前端之巅】颤抖吧，App！苹果或于明年下架窃取用户隐私的-App](https://www.ershicimi.com/p/cbe9e22ea75055011bc3aebf025127bb)
+- [【前端之巅】Microsoft-云采用框架，助力企业快速完成云迁移-|-活动推荐](https://www.ershicimi.com/p/c8fb46f75c33691d44b42154486daad4)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

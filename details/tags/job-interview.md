@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-22 05:16:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-22 05:38:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -27,6 +27,8 @@
 - [2020-11-11-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/f8720b9ba9028e4081b1345e6367f3c5) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/196a7fb4fe0dda8d044135599df6e681) 
+- [2020-12-22-杭州招聘服务端、前端、架构师、安卓工程师，双休，不-996。现金流健康。](https://www.v2ex.com/t/737815) 
+- [2020-12-22-第四期德国-IT-岗位招聘之-System-Engineer,-IT-Specialist-for-System-Integration,-Network-Allrounder,-Java-Software-Developer](https://www.v2ex.com/t/737812) 
 - [2020-12-22-深圳阿里中心支付宝香港团队-2020-大前端团队招聘-可春节后入职-1222](https://www.v2ex.com/t/737800) 
 - [2020-12-19-招贤纳士-|-雷神众测招聘第二弹!](https://sec.thief.one/article_content?a_id=3cdafc54c5aa0ba440cac60a24e2926f) 
 - [2020-12-19-牛聘|2020年度岗位招聘第16期](https://sec.thief.one/article_content?a_id=5ebe81179bd9b76d498a60bbb315f558) 

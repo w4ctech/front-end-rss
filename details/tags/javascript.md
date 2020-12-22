@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-22 04:02:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-22 04:16:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -100,7 +100,7 @@
 - [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2020-12-20-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/9fcf58b28b62a29d8df2ffa346bef03a) 
-- [2020-12-21-「面试常问」浏览器之事件机制](https://juejin.im/post/6908914341186109448) 
+- [2020-12-21-教你js生成二维码-QrCodeJS](https://juejin.im/post/6908910891173953550) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

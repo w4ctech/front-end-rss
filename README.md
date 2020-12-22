@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-22 07:57:34，:rocket: 更新条数: +3655， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-22 08:11:27，:rocket: 更新条数: +3654， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -772,6 +772,11 @@
 </summary>
 
 
+- [2020-12-22-蚂蚁金服暂缓上市，怎样凭借技术在金融机构分一杯羹-｜-极客时间](https://www.ershicimi.com/p/d00ad706febc8b2b1a2729766a08880a) ![](assets/new.png)  
+- [2020-12-22-在中国做操作系统研发-20-年是种什么体验？丨-openEuler-英雄汇](https://www.ershicimi.com/p/a949969f81586d9b3654ff3b66bffcd0) ![](assets/new.png)  
+- [2020-12-22-亚马逊-CTO：从无数实践中总结出-4-条云端构建的铁律](https://www.ershicimi.com/p/665f797bd08338d0ae87ddfb3aa0ed60) ![](assets/new.png)  
+- [2020-12-22-CentOS-：被-Red-Hat-抛弃后，我更有活力了](https://www.ershicimi.com/p/3aced2ef47377f4962a453e83467db5f) ![](assets/new.png)  
+- [2020-12-22-7个顶级静态代码分析工具](https://www.ershicimi.com/p/1d389de1b241ad0c838f5cc2c61d614d) ![](assets/new.png)  
 - [2020-12-21-亚马逊程序员：我曾拼命逃离996](https://www.ershicimi.com/p/3bdf8f905632c27172ea1392b4d95709) ![](assets/new.png)  
 - [2020-12-21-微众开源：从聚木成林到生态领先](https://www.ershicimi.com/p/1a89f2f7bca7451cc002227f06e9e25d) ![](assets/new.png)  
 - [2020-12-21-阿里、快手、好未来：业务架构应该这么做！｜-QCon](https://www.ershicimi.com/p/7d4ffc546eb8bfb417facceec8b8c69e) ![](assets/new.png)  
@@ -787,11 +792,6 @@
 - [2020-12-19-聊聊微服务架构中的事务处理](https://www.ershicimi.com/p/47801929f0d5a93a32992f33631afac6) ![](assets/new.png)  
 - [2020-12-18-苹果颠覆广告业，脸书带头开撕！180万App受影响](https://www.ershicimi.com/p/48d7c757f1c4395935eabb9e27215edf) ![](assets/new.png)  
 - [2020-12-18-新风向标：学术界开始从Python转向Rust](https://www.ershicimi.com/p/2ca878e957af0556c459e11297a053f9) ![](assets/new.png)  
-- [2020-12-18-你的包裹来自“云端”：京东物流的上云腾飞故事](https://www.ershicimi.com/p/3f2834c07e204a544c358bb5c1caaeee) ![](assets/new.png)  
-- [2020-12-18-腾讯云五大技术分享—如何利用创新技术，打破企业业务瓶颈](https://www.ershicimi.com/p/994b5a510d4d6c4f5a18963a15c27018) ![](assets/new.png)  
-- [2020-12-18-GitHub新规：Git操作的身份验证将放弃密码，改用令牌或SSH密钥](https://www.ershicimi.com/p/eaa5d3d22e40a5cdb80b35e3dce7a001) ![](assets/new.png)  
-- [2020-12-17-大厂Java工程师到底厉害在哪里？｜-极客时间](https://www.ershicimi.com/p/d3eb1564641479097a6950bbc5e9910d) ![](assets/new.png)  
-- [2020-12-17-Kubernetes决定弃用Docker，到底会影响到谁？](https://www.ershicimi.com/p/428f695b770dce14219f135f02e7afb0) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -834,7 +834,7 @@
 </summary>
 
 
-- [2020-12-21-Vue源码的概述](https://juejin.im/post/6908907712386433031) ![](assets/new.png)  
+- [2020-12-22-前端字体截取：实战篇](https://juejin.im/post/6908987172410376200) ![](assets/new.png)  
 - [2020-12-21-new的三步曲-|-初识面向对象](https://juejin.im/post/6908906537054371848) ![](assets/new.png)  
 - [2020-12-21-「react进阶」年终送给react开发者的八条优化建议篇幅较长，占用20-30分钟](https://juejin.im/post/6908895801116721160) ![](assets/new.png)  
 - [2020-12-21-GitHub-2020-报告：全球开发者工作与生活的平衡情况](https://juejin.im/post/6908880779963695118) ![](assets/new.png)  
@@ -954,6 +954,11 @@
 </summary>
 
 
+- [2020-12-22-旧版本-Yandex-安卓浏览器-+-暴力猴脚本-=-为所欲为](https://www.v2ex.com/t/737913) ![](assets/new.png)  
+- [2020-12-22-渗透测试工程师---安全与风控（北/上/杭/深）--急招](https://www.v2ex.com/t/737911) ![](assets/new.png)  
+- [2020-12-22-现在新加坡移民还香不香](https://www.v2ex.com/t/737910) ![](assets/new.png)  
+- [2020-12-22-如何在一句中文中标记出专有名词？](https://www.v2ex.com/t/737909) ![](assets/new.png)  
+- [2020-12-22-有什么是在-bug-苏上（m1）能用的音频内录软件么？](https://www.v2ex.com/t/737908) ![](assets/new.png)  
 - [2020-12-22-刚刚去打了新冠疫苗，目前状况良好。](https://www.v2ex.com/t/737907) ![](assets/new.png)  
 - [2020-12-22-版权时代，为什么还有人选择采集](https://www.v2ex.com/t/737905) ![](assets/new.png)  
 - [2020-12-22-为什么-Android-Studio-4+会推荐-List-设为-final](https://www.v2ex.com/t/737904) ![](assets/new.png)  
@@ -969,11 +974,6 @@
 - [2020-12-22-windows-下-markdown-笔记软件求推荐](https://www.v2ex.com/t/737893) ![](assets/new.png)  
 - [2020-12-22-有知乎的同学吗，我号都被你们销了怎么还发短信让我回来看看。](https://www.v2ex.com/t/737892) ![](assets/new.png)  
 - [2020-12-22-求个加湿器](https://www.v2ex.com/t/737891) ![](assets/new.png)  
-- [2020-12-22-H5-不同域名页面跳转如何携带-cookie](https://www.v2ex.com/t/737890) ![](assets/new.png)  
-- [2020-12-22-吐槽苹果-M1-的品控](https://www.v2ex.com/t/737889) ![](assets/new.png)  
-- [2020-12-22-分享我第一个-Lua-插件，-Hlsearch-Lens](https://www.v2ex.com/t/737887) ![](assets/new.png)  
-- [2020-12-22-需要一个爬虫大牛协助~价格好说~~](https://www.v2ex.com/t/737886) ![](assets/new.png)  
-- [2020-12-22-VScode-远程开发配置问题](https://www.v2ex.com/t/737883) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

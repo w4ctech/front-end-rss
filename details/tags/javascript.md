@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-22 03:15:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-22 03:44:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -100,7 +100,7 @@
 - [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2020-12-20-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/9fcf58b28b62a29d8df2ffa346bef03a) 
-- [2020-12-21-Javascript-设计模式中的原则：单一职责、最少知识和开放-封闭原则](https://juejin.im/post/6908889930701733895) 
+- [2020-12-20-聊一聊函数式编程中的副作用概念](https://juejin.im/post/6908512860683370503) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -112,5 +112,5 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-12-22-关于-js-中使用-switch-true-和-if-else](https://www.v2ex.com/t/737737) 
 - [2020-12-22-Java-对象属性复制组件：Mapstruct-的项目改造指南](https://toutiao.io/k/ilsr2zz) 
-- [2020-12-22-这个-29.7-K-的剪贴板-JS-库有点东西](https://toutiao.io/k/i5ax0d4) 
+- [2020-12-22-这个-29.7K-的剪贴板-JS-库有点东西](https://toutiao.io/k/i5ax0d4) 
 - [2020-12-21-【漏洞通告】Jackson-databind-远程代码执行漏洞-CVE-2020-35490/-...](https://sec.thief.one/article_content?a_id=47cff4234a09968b7bf8239223985d56) 

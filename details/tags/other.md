@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-22 10:41:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-22 10:48:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2929,14 +2929,13 @@
 - [2020-12-22-Java-后端模板引擎对比](https://toutiao.io/k/uu133q5) 
 - [2020-12-22-购房经验谈（下）](https://toutiao.io/k/azkxgpg) 
 - [2020-12-22-Golang-语言的内存模型](https://toutiao.io/k/k926b1a) 
-- [2020-12-22-推荐-带你扒一扒-MySQL-的数据在磁盘上到底长什么样子](https://toutiao.io/k/s6jntn5) 
-- [2020-12-22-推荐-Java-8-Stream-的这些开发技巧，你值得好好收藏](https://toutiao.io/k/fk2qdkv) 
-- [2020-12-22-推荐-MySQL-索引知识点总结](https://toutiao.io/k/u9plzvk) 
-- [2020-12-22-推荐-美团-Commit-Log-规范](https://toutiao.io/k/r6tsfdv) 
-- [2020-12-22-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) 
-- [2020-12-22-推荐-生产力工具](https://toutiao.io/k/ltecz1p) 
 - [2020-12-22-推荐-架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://toutiao.io/k/aj36ptr) 
 - [2020-12-22-推荐-求你别再用-Swagger-了，给你推荐几个在线文档生成神器](https://toutiao.io/k/ftaw3bc) 
+- [2020-12-22-推荐-Java-8-Stream-的这些开发技巧，你值得好好收藏](https://toutiao.io/k/fk2qdkv) 
+- [2020-12-22-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) 
+- [2020-12-22-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) 
+- [2020-12-22-推荐-生产力工具](https://toutiao.io/k/ltecz1p) 
+- [2020-12-22-推荐-码仔漫画：TCP-的三次握手](https://toutiao.io/k/mefwl8s) 
 - [2020-12-22-假冒新冠疫苗制造公司官网,两域名遭美国司法部棒打](https://sec.thief.one/article_content?a_id=472c968904a14bc78f7e4df7f288794c) 
 - [2020-12-22-微软最新累积更新可导致SSD损坏](https://sec.thief.one/article_content?a_id=b8b8300af68f9139b05df43fba754e33) 
 - [2020-12-22-国家级黑客使用iMessage漏洞攻击记者,无需点击即可触发](https://sec.thief.one/article_content?a_id=bf290020252d6247766b80f5c773e20a) 

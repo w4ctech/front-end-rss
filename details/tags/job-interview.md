@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-22 07:19:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-22 07:43:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -28,6 +28,5 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/196a7fb4fe0dda8d044135599df6e681) 
 - [2020-12-22-蚂蚁集团财富体验组招聘前端/客户端（急速流程,年前拿-offer,年后来上班）](https://www.v2ex.com/t/737851) 
-- [2020-12-22-扎心的面试回复](https://www.v2ex.com/t/737828) 
 - [2020-12-19-招贤纳士-|-雷神众测招聘第二弹!](https://sec.thief.one/article_content?a_id=3cdafc54c5aa0ba440cac60a24e2926f) 
 - [2020-12-19-牛聘|2020年度岗位招聘第16期](https://sec.thief.one/article_content?a_id=5ebe81179bd9b76d498a60bbb315f558) 

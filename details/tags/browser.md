@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-23 05:15:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-23 05:19:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -27,6 +27,14 @@
 - [2020-12-17-使用-Performance-看看浏览器在做些什么](https://www.ershicimi.com/p/d46ecb9c976272cb97d54eef147e99bb) 
 - [2020-12-16-图解跨域请求、反向代理原理，对前端更友好的反向代理服务器---Caddy](https://www.ershicimi.com/p/0f6067b1fe001ca5abd95cb2f6cfa227) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-12-17-封装-axios-取消重复请求](https://www.ershicimi.com/p/b1b849b82eb31c5fa359748e0c2d2e78) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
@@ -36,6 +44,9 @@
 - [2020-12-23-上海-Java-开发18-35k-*-15双休小红书招安全开发工程师](https://www.v2ex.com/t/738193) 
 - [2020-12-23-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-23-聊聊-HTTP-常见的请求方式-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14055&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337897202%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-23-戴尔Wyse设备曝两个10分安全漏洞,可远程控制并修改文件](https://sec.thief.one/article_content?a_id=85b8d7566afbde0dd9b2972a525ff3e6) 
+- [2020-12-23-《银行业数据安全体系建设指南》全文](https://sec.thief.one/article_content?a_id=93ae6006a3164d70b3cd1c9ccb44ab23) 
+- [2020-12-23-智慧城市安全二三事|创新安全运营服务为智慧环保护航](https://sec.thief.one/article_content?a_id=97e33bd8f29dc6209f1e6a8b779c9060) 
 - [2020-12-22-【安全圈】伪造学历学位信息三千条!江苏徐州警方打掉一伪造证件黑...](https://sec.thief.one/article_content?a_id=5c5fed0ad6ea17b64546e3ccacd2ebb2) 
 - [2020-12-22-绿盟科技助力2020年全国电信和互联网行业网络安全管理职业技能竞赛...](https://sec.thief.one/article_content?a_id=0290afee024413958a8b349b1391e684) 
 - [2020-12-22-信息安全漏洞周报2020年第49期](https://sec.thief.one/article_content?a_id=31a54053a84aa316f2c0ba3f20d5a01a) 
@@ -56,4 +67,3 @@
 - [2020-12-21-智慧城市安全二三事|为什么云上安全是“智慧政府”的关键命题](https://sec.thief.one/article_content?a_id=75b9120bbcc4b8385177676e7c9b1d7e) 
 - [2020-12-21-《金融行业网络安全白皮书2020年》全文](https://sec.thief.one/article_content?a_id=a8f018ac2419315439a6f890fb51e739) 
 - [2020-12-21-与访问控制相关的安全问题](https://sec.thief.one/article_content?a_id=d2d5969a8fc70c69adf7f2c3094e821f) 
-- [2020-12-20-奇安信总裁吴云坤:工业网络安全要从局部整改模式升级为体系化规划...](https://sec.thief.one/article_content?a_id=ee166099d069599312e9945181e7311e) 

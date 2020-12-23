@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-23 10:49:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-23 11:01:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -32,8 +32,6 @@
 - [2020-12-04-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/7a4de73e7fda551dfa6c595fc8a81bde) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
-- [2020-12-20-【4/121】在其他处理程序中附加事件处理程序](https://www.ershicimi.com/p/afff6fd88b87579fd5066ae69c2194f3) 
-- [2020-12-17-【第2150期】JavaScript的面向切面编程](https://www.ershicimi.com/p/d662be52f1d3ff530947c79bd02faa95) 
 - [2020-12-23-每天学点-JS-编码规范（1）：Types-和-References](https://www.ershicimi.com/p/873dfc5cece3602cfccf76788f9cbadc) 
 - [2020-12-21-手写-Promise-全家桶-+-Generator-+-async/await](https://www.ershicimi.com/p/e84505aa544e1b160b38485b839f0d57) 
 - [2020-12-19-花-4-小时写的-JS-脚本，帮医院省了-40-万澳元](https://www.ershicimi.com/p/edfc7597eedb9323010f685d8c94e002) 
@@ -54,8 +52,6 @@
 - [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 
 - [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
-- [2020-12-07-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/bfcc0fa011c651c5362949f91ad3d3d9) 
-- [2020-12-07-我点击页面元素，VSCode-乖乖打开了组件？原理揭秘。](https://www.ershicimi.com/p/f5013b2b5cd50e75fd40bc7a737ca731) 
 - [2020-12-22-前端JavaScript-常见的报错及异常捕获与处理方法](https://www.ershicimi.com/p/e4715a6db9a72323a73262745a368e6f) 
 - [2020-12-21-进阶：玩转-CSS-变量](https://www.ershicimi.com/p/78e4fce9ff45a55821b763ab5e7a8f29) 
 - [2020-12-18-这样写的-JS-代码看着就很舒服](https://www.ershicimi.com/p/3683bdc778b39970b45fb2bc0135b148) 

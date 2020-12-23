@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-23 10:49:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-23 11:01:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -94,7 +94,6 @@
 - [2020-12-23-B-站看-4K-视频弹幕卡顿啥原因？](https://www.v2ex.com/t/738359) 
 - [2020-12-23-Bilibili-播放器扩展-2.0-更新](https://www.v2ex.com/t/738357) 
 - [2020-12-23-在-b-站看到一个讲微服务很不错的视频，分享下.](https://www.v2ex.com/t/738322) 
-- [2020-12-23-你还不知道？有的软件会偷偷打开你的摄像头或麦克风-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14064&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkrpdMAqcyuiUyVJEiJHHaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-23-WebRTC-+-NDI——广播业的福音？](https://toutiao.io/k/pf98b5z) 
 - [2020-12-23-年度直播丨欢笑不断好礼不停,超嗨跨年没你不行!](https://sec.thief.one/article_content?a_id=b86883a285017c0cbe5c3cac8d76fca4) 
 - [2020-12-21-“追寻先烈足迹”短视频网上征集展示活动成果发布会在京举办](https://sec.thief.one/article_content?a_id=13d49ad5fa5e918e1b7f41c6bb2d4e4a) 

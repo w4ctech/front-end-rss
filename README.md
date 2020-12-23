@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-23 20:46:36，:rocket: 更新条数: +3885， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-23 20:56:12，:rocket: 更新条数: +3890， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,11 @@
 </summary>
 
 
+- [2020-12-23-辽宁沈阳新增确诊重型病例已排查密切接触者71人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisv08BxqgLHjWAK6N9O0R201223&isfromapp=1) ![](assets/new.png)  
+- [2020-12-23-详情公布！宁波市发现-1-例外地来甬无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUlUevvITbdOAJOFyRlxu201223&isfromapp=1) ![](assets/new.png)  
+- [2020-12-23-英国学者马丁·雅克：西方的疫情应对失败了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixvznsDUXiE6XwfLz1OWZ201223&isfromapp=1) ![](assets/new.png)  
+- [2020-12-23-美国患者激增-加州官员称医疗资源即将耗尽](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy8bpDOSOpgywsgmFpxqp201223&isfromapp=1) ![](assets/new.png)  
+- [2020-12-23-澳大利亚悉尼北部海滩社区感染人数增至97人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7DzzxhkuSmSK25Ar6meh201223&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

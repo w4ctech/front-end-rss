@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-23 05:19:33，:rocket: 更新条数: +3869， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-23 05:43:47，:rocket: 更新条数: +3867， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -954,6 +954,16 @@
 </summary>
 
 
+- [2020-12-23-实测-M1-MacBook-Air，-PD-充电功率大概在-50W，因此-65W-的头可以满足需求了。](https://www.v2ex.com/t/738212) ![](assets/new.png)  
+- [2020-12-23-都-2021-年了，-Serverless-能取代微服务吗？](https://www.v2ex.com/t/738211) ![](assets/new.png)  
+- [2020-12-23-怎样做，能让高科技低生活无力反抗的世界早来一纳秒？](https://www.v2ex.com/t/738209) ![](assets/new.png)  
+- [2020-12-23-想在成都找一份年薪-20-左右-965-的开发工作](https://www.v2ex.com/t/738208) ![](assets/new.png)  
+- [2020-12-23-杭州的互联网公司是不是都在北边，未来科技城那一圈？](https://www.v2ex.com/t/738205) ![](assets/new.png)  
+- [2020-12-23-极客时间的短信广告也太多了](https://www.v2ex.com/t/738204) ![](assets/new.png)  
+- [2020-12-23-Excel-公式格式化工具——提高你的统计效率！](https://www.v2ex.com/t/738202) ![](assets/new.png)  
+- [2020-12-23-求推荐老人用手机](https://www.v2ex.com/t/738201) ![](assets/new.png)  
+- [2020-12-23-喜马拉雅-Android-APP-禁止了-Wifi-和-4G-网络访问还能下载和正常请求内容，有人知道这是什么黑科技吗？](https://www.v2ex.com/t/738200) ![](assets/new.png)  
+- [2020-12-23-突发奇想，大家有-G-包皮的经验吗，这个对-X-生活影响有多大？](https://www.v2ex.com/t/738199) ![](assets/new.png)  
 - [2020-12-23-去雨崩徒步要跟团吗](https://www.v2ex.com/t/738198) ![](assets/new.png)  
 - [2020-12-23-多维翻译，可同时翻译多种语言和自动分句，可对照翻译，网站全球化利器](https://www.v2ex.com/t/738197) ![](assets/new.png)  
 - [2020-12-23-入职苏州微软一个月感想](https://www.v2ex.com/t/738196) ![](assets/new.png)  
@@ -964,16 +974,6 @@
 - [2020-12-23-大佬们，-switch-在哪买合适](https://www.v2ex.com/t/738191) ![](assets/new.png)  
 - [2020-12-23-安卓抖音有的有画质调节功能，有的没有](https://www.v2ex.com/t/738190) ![](assets/new.png)  
 - [2020-12-23-macOS-未正确支持-exFAT-格式？](https://www.v2ex.com/t/738189) ![](assets/new.png)  
-- [2020-12-23-6W-的-CPU-跑了-7-个虚拟机，快冒烟了](https://www.v2ex.com/t/738188) ![](assets/new.png)  
-- [2020-12-23-支付宝已经疯狂了，卖家支付宝账号收取提现费-0.1%](https://www.v2ex.com/t/738186) ![](assets/new.png)  
-- [2020-12-23-“我想赚大家的钱，请大家告诉我如何才能给我钱”](https://www.v2ex.com/t/738184) ![](assets/new.png)  
-- [2020-12-23-一个快速拷贝被类型转换为-interface-的-struct-的方法](https://www.v2ex.com/t/738182) ![](assets/new.png)  
-- [2020-12-23-被软路由搞裂开了兄弟们](https://www.v2ex.com/t/738181) ![](assets/new.png)  
-- [2020-12-23-本-PM-时隔两年回珠三角了，希望能定居广州或深圳](https://www.v2ex.com/t/738180) ![](assets/new.png)  
-- [2020-12-23-请教：关于-MBP-连接罗技蓝牙（M336）鼠标的问题。](https://www.v2ex.com/t/738179) ![](assets/new.png)  
-- [2020-12-23-通过-Apple-Pay-发现，散装江苏是真的](https://www.v2ex.com/t/738178) ![](assets/new.png)  
-- [2020-12-23-请大家推荐一部安卓手机！](https://www.v2ex.com/t/738177) ![](assets/new.png)  
-- [2020-12-23-滴滴个人客户端如何默认走个人支付，而不是企业支付？！](https://www.v2ex.com/t/738176) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

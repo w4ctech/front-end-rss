@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-23 11:01:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-23 11:14:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -21,9 +21,6 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2020-12-17-Chrome-录屏神器！自称“最强大”的屏幕录制和注释工具！](https://www.ershicimi.com/p/fe24d92ebe99875cec2313cbcdbbcafa) 
-- [2020-12-14-跨域，不止CORS](https://www.ershicimi.com/p/4c1957186e134e081e700b2fc46e7733) 
-- [2020-12-11-前端前沿观察，Cookie-居然可以这样整了](https://www.ershicimi.com/p/bfd223b8e85452ebd67a19509a3d6021) 
 - [2020-12-17-使用-Performance-看看浏览器在做些什么](https://www.ershicimi.com/p/d46ecb9c976272cb97d54eef147e99bb) 
 - [2020-12-16-图解跨域请求、反向代理原理，对前端更友好的反向代理服务器---Caddy](https://www.ershicimi.com/p/0f6067b1fe001ca5abd95cb2f6cfa227) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
@@ -41,8 +38,6 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-12-20-安全地拥抱数字货币，PayPal的底气是什么？](https://www.ershicimi.com/p/5d2b853ef09dfeff27301059a0112aaa) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-12-23-求助-windows-Google-Chrome-最新版本-87.0.4280.88（正式版本）-,-新标签-地址栏会自动-展开-google-的搜索记录,以前不会这样的-,-怎么关闭?](https://www.v2ex.com/t/738354) 
-- [2020-12-23-关于-k8s-提供外部访问的安全问题](https://www.v2ex.com/t/738332) 
 - [2020-12-23-招聘-|-VIPKID招聘安全工程师](https://sec.thief.one/article_content?a_id=02ae00478f267ab38eb2e027c4f6c42e) 
 - [2020-12-23-Chrome内存占用高的问题有望被解决](https://sec.thief.one/article_content?a_id=ea3a46d1f07f164e1b066ce71059d1ec) 
 - [2020-12-23-聚势共赢-共建行业生态发展——2020网络安全行业生态大会暨金帽子...](https://sec.thief.one/article_content?a_id=224be270e029f1b2c1bceea181bf0851) 

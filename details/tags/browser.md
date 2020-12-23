@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-23 08:23:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-23 08:52:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,8 +42,6 @@
 - [2020-12-20-安全地拥抱数字货币，PayPal的底气是什么？](https://www.ershicimi.com/p/5d2b853ef09dfeff27301059a0112aaa) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-23-SwaggerAPI-工具,-想缓存上一次请求填写结果渲染在-UI-界面保存起来,可行吗?](https://www.v2ex.com/t/738287) 
-- [2020-12-23-MacOS-Safari-拽出来的单-Tab-页怎么放回去?](https://www.v2ex.com/t/738255) 
-- [2020-12-23-The-2020-Stratechery-Year-in-Review](https://www.v2ex.com/t/738244) 
 - [2020-12-23-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-23-聊聊-HTTP-常见的请求方式-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14055&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337897202%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-23-戴尔Wyse设备曝两个10分安全漏洞,可远程控制并修改文件](https://sec.thief.one/article_content?a_id=85b8d7566afbde0dd9b2972a525ff3e6) 

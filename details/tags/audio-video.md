@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-23 12:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-23 12:51:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -91,6 +91,7 @@
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-12-23-体验提升，成本下降：直播平台的技术升级新神器](https://www.ershicimi.com/p/1864bc378a9374cc51ea9dd3130a1e1f) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2020-12-23-Java-有没有什么能获取视频元信息的开源库啊](https://www.v2ex.com/t/738389) 
 - [2020-12-23-B-站看-4K-视频弹幕卡顿啥原因？](https://www.v2ex.com/t/738359) 
 - [2020-12-23-Bilibili-播放器扩展-2.0-更新](https://www.v2ex.com/t/738357) 
 - [2020-12-23-你还不知道？有的软件会偷偷打开你的摄像头或麦克风-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14064&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkrpdMAqcyuiUyVJEiJHHaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

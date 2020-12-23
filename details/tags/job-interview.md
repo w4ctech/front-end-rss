@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-23 14:12:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-23 14:40:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -28,4 +28,3 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/196a7fb4fe0dda8d044135599df6e681) 
 - [2020-12-23-从面试角度分析-LinkedList-源码](https://toutiao.io/k/09zhrno) 
-- [2020-12-22-掌握这些DNS解析故障问题,面试轻松搞定!](https://sec.thief.one/article_content?a_id=83e8bfc24aaa6fc24e8dc4177dfb36fe) 

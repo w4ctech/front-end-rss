@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-23 00:02:25，:rocket: 更新条数: +3886， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-23 00:24:43，:rocket: 更新条数: +3873， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2020-12-22-12月21日全国新增确诊病例15例-本土病例2例](http://m.china.caixin.com/m/2020-12-22/101641812.html) ![](assets/new.png)  
+- [2020-12-23-12月22日全国新增确诊病例15例-本土病例1例](http://m.china.caixin.com/m/2020-12-23/101642241.html) ![](assets/new.png)  
 - [2020-12-22-大连启动全市核酸检测-进出港航班大量调整](https://m.caixin.com/m/2020-12-22/101642218.html) ![](assets/new.png)  
 - [2020-12-22-聚焦|张文宏：英国突变株并不意外，降低疫苗效力可能性不大](http://m.opinion.caixin.com/m/2020-12-22/101641809.html) ![](assets/new.png)  
 - [2020-12-22-【境内疫情观察】辽宁新增2例本土病例（12月21日）](http://m.database.caixin.com/m/2020-12-22/101641958.html) ![](assets/new.png)  
@@ -78,13 +78,13 @@
 - [2020-12-21-应对英国出现新冠变异病毒株-多国采取紧急断航措施](http://m.international.caixin.com/m/2020-12-21/101641510.html) ![](assets/new.png)  
 - [2020-12-20-【境内疫情观察】辽宁新增1例本土病例（12月19日）](http://m.database.caixin.com/m/2020-12-20/101641254.html) ![](assets/new.png)  
 - [2020-12-20-大流行手记|12月19日：美国批准Moderna疫苗紧急使用-英国感染者急剧增加](http://m.international.caixin.com/m/2020-12-20/101641222.html) ![](assets/new.png)  
-- [2020-12-20-英国发现新冠变异病毒-传染性更强？](http://m.international.caixin.com/m/2020-12-20/101641312.html) ![](assets/new.png)  
 - [2020-12-20-自美返国检测标准收紧-将不再接受指尖血取样报告](http://m.international.caixin.com/m/2020-12-20/101641218.html) ![](assets/new.png)  
 - [2020-12-19-【境内疫情观察】北京新增2例境外输入关联病例（12月18日）](http://m.database.caixin.com/m/2020-12-19/101641131.html) ![](assets/new.png)  
 - [2020-12-19-大流行手记|12月18日：欧盟拟提前评估辉瑞疫苗-部分非洲国家没钱大量购疫苗](http://m.international.caixin.com/m/2020-12-19/101641005.html) ![](assets/new.png)  
 - [2020-12-19-中国新冠疫苗接种将“两步走”-已有企业滚动提交三期数据](https://m.caixin.com/m/2020-12-19/101641096.html) ![](assets/new.png)  
 - [2020-12-18-北京新增1例境外输入确诊病例关联病例-为14日确诊病例密接者](http://m.china.caixin.com/m/2020-12-18/101640837.html) ![](assets/new.png)  
 - [2020-12-18-【境内疫情观察】四川新增1例本土病例（12月17日）](http://m.database.caixin.com/m/2020-12-18/101640627.html) ![](assets/new.png)  
+- [2020-12-18-大流行手记|12月17日：欧洲多名政要隔离-东京医疗资源告急](http://m.international.caixin.com/m/2020-12-18/101640522.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -96,11 +96,11 @@
 </summary>
 
 
+- [2020-12-22-国家卫健委：新增确诊病例15例-本土病例1例在辽宁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio1E1cmTUm4a3ydihZ3j3201223&isfromapp=1) ![](assets/new.png)  
+- [2020-12-22-2020年12月22日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202012/t20201223_4054641.html) ![](assets/new.png)  
 - [2020-12-22-挪威要求来自英国的旅客进行新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2eK6zxB8k1SBS1sMKkXD201222&isfromapp=1) ![](assets/new.png)  
 - [2020-12-22-严防疫情输入！民航局累计发出熔断指令140次、取消国际客运航班272班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJg1IshNao3kMQJGWiGQH201222&isfromapp=1) ![](assets/new.png)  
 - [2020-12-22-金融市场受疫情冲击-欧美股市跌多涨少](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie0IlDLfwN8PtIpBAPqtx201222&isfromapp=1) ![](assets/new.png)  
-- [2020-12-22-新版《生物制品批签发管理办法》将实施-国家药监局：急需疫苗可免予批签发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikABf0PIEcbKqcB3QvDPz201222&isfromapp=1) ![](assets/new.png)  
-- [2020-12-22-智利南极基地暴发疫情：36-人新冠病毒检测呈阳性](https://finance.sina.com.cn/tech/2020-12-22/doc-iiznezxs8281256.shtml) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -854,10 +854,10 @@
 </summary>
 
 
+- [2020-12-22-V8-引擎垃圾回收与内存分配](https://juejin.im/post/6909239354418266119) ![](assets/new.png)  
+- [2020-12-22-想要复制图像？Clipboard-API-了解一下](https://juejin.im/post/6909237803050074126) ![](assets/new.png)  
 - [2020-12-22-用神奇的-form-验证-API-来优化你的表单验证](https://juejin.im/post/6909133332064239623) ![](assets/new.png)  
 - [2020-12-22-React服务端渲染ssr之Next.js框架](https://juejin.im/post/6909021437139517454) ![](assets/new.png)  
-- [2020-12-22-nodejs+express-最简易的连接数据库](https://juejin.im/post/6909018241721434126) ![](assets/new.png)  
-- [2020-12-22-你或许不知道的小程序更新机制](https://juejin.im/post/6909017413816320007) ![](assets/new.png)  
 - [2020-12-21-GitHub-2020-报告：全球开发者工作与生活的平衡情况](https://juejin.im/post/6908880779963695118) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -974,6 +974,7 @@
 </summary>
 
 
+- [2020-12-23-阿里云正在走向垄断,程序员你们醒醒吧](https://www.v2ex.com/t/738070) ![](assets/new.png)  
 - [2020-12-22-现在地球上实际投入使用的最远电磁波能传多远？](https://www.v2ex.com/t/738069) ![](assets/new.png)  
 - [2020-12-22-Google-Search-Console-的-Request-Indexing-功能回来了](https://www.v2ex.com/t/738068) ![](assets/new.png)  
 - [2020-12-22-IOS-小白求实习，可到岗](https://www.v2ex.com/t/738066) ![](assets/new.png)  
@@ -993,7 +994,6 @@
 - [2020-12-22-有买燃气险的老哥吗？](https://www.v2ex.com/t/738045) ![](assets/new.png)  
 - [2020-12-22-为啥电脑和平板连一个热点，电脑搜索引擎都加载不出来，平板网速飞快](https://www.v2ex.com/t/738044) ![](assets/new.png)  
 - [2020-12-22-base-北京、深圳，部门直招，快手服务端海量招人，年前面试年后入职，特别优秀可谈签字费](https://www.v2ex.com/t/738043) ![](assets/new.png)  
-- [2020-12-22-收到直接去公司面试的邀请（没有电面），这种邀约靠谱吗？](https://www.v2ex.com/t/738042) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1036,26 +1036,26 @@
 </summary>
 
 
-- [2020-12-23-Java-对象属性复制组件：Mapstruct-的项目改造指南](https://toutiao.io/k/ilsr2zz) ![](assets/new.png)  
-- [2020-12-23-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
-- [2020-12-23-深入-Spring-Boot（十四）：jar/war-打包解决方案](https://toutiao.io/k/f0lsq51) ![](assets/new.png)  
-- [2020-12-23-手撸卷积神经网络之手写数字识别-Java](https://toutiao.io/k/o6s132j) ![](assets/new.png)  
-- [2020-12-23-带领团队学习成长，干货总结-2020](https://toutiao.io/k/j2sfcli) ![](assets/new.png)  
-- [2020-12-23-寒门难出贵子，我当程序员让爸妈在老家长脸了](https://toutiao.io/k/cdq2vu4) ![](assets/new.png)  
-- [2020-12-23-应急响应之-Linux-下进程隐藏](https://toutiao.io/k/1veqpfe) ![](assets/new.png)  
-- [2020-12-23-你要的-Elasticsearch-ORM-框架终于来了](https://toutiao.io/k/pm7f2if) ![](assets/new.png)  
-- [2020-12-23-抖音-Android-性能优化系列：Java-内存优化篇](https://toutiao.io/k/ol94o2o) ![](assets/new.png)  
-- [2020-12-23-译-云原生世界中的数据包标记-packet-mark-LPC,-2020](https://toutiao.io/k/45emgnz) ![](assets/new.png)  
-- [2020-12-23-这个-29.7K-的剪贴板-JS-库有点东西](https://toutiao.io/k/i5ax0d4) ![](assets/new.png)  
-- [2020-12-23-网络基本功之细说交换机](https://toutiao.io/k/jfczl5v) ![](assets/new.png)  
-- [2020-12-23-从-Context-源码实现谈-React-性能优化](https://toutiao.io/k/l71evv1) ![](assets/new.png)  
-- [2020-12-23-单周多发场景下，携程机票基于-Light-Merge-的自动化分支管理策略](https://toutiao.io/k/jb8qopx) ![](assets/new.png)  
-- [2020-12-23-如何确定需求的优先级？](https://toutiao.io/k/hpa5p96) ![](assets/new.png)  
-- [2020-12-23-购房经验谈（下）](https://toutiao.io/k/azkxgpg) ![](assets/new.png)  
-- [2020-12-23-区块链联盟链-PlatONE-的权限模型介绍](https://toutiao.io/k/bp9f9p4) ![](assets/new.png)  
-- [2020-12-23-Java-后端模板引擎对比](https://toutiao.io/k/uu133q5) ![](assets/new.png)  
-- [2020-12-23-Golang-语言的内存模型](https://toutiao.io/k/k926b1a) ![](assets/new.png)  
-- [2020-12-23-科普：Git-Commit-Guidelines](https://toutiao.io/k/zgc3e3z) ![](assets/new.png)  
+- [2020-12-23-译-Kubernetes-调度详解](https://toutiao.io/k/w17gmb0) ![](assets/new.png)  
+- [2020-12-23-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
+- [2020-12-23-如果全身心投入-1-年，但是收入是-0，你还愿意做独立开发者吗？](https://toutiao.io/k/ucwtqdo) ![](assets/new.png)  
+- [2020-12-23-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
+- [2020-12-23-API-与-SDK：有什么区别？](https://toutiao.io/k/wfho1cn) ![](assets/new.png)  
+- [2020-12-23-WebRTC-+-NDI——广播业的福音？](https://toutiao.io/k/pf98b5z) ![](assets/new.png)  
+- [2020-12-23-布隆过滤器-Bloom-Filter-详解](https://toutiao.io/k/imtmhh8) ![](assets/new.png)  
+- [2020-12-23-云原生网络代理-MOSN-的进化之路](https://toutiao.io/k/7y55vyh) ![](assets/new.png)  
+- [2020-12-23-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) ![](assets/new.png)  
+- [2020-12-23-推荐-分布式搜索引擎-Elasticsearch-的架构分析](https://toutiao.io/k/j4aoyho) ![](assets/new.png)  
+- [2020-12-23-推荐-生产力工具](https://toutiao.io/k/ltecz1p) ![](assets/new.png)  
+- [2020-12-23-推荐-数据仓库建设规范（文档版）](https://toutiao.io/k/r0e7ljx) ![](assets/new.png)  
+- [2020-12-23-推荐-性能提高-15-倍！只是把-MySQL-换成了-ClickHouse](https://toutiao.io/k/221a7sh) ![](assets/new.png)  
+- [2020-12-23-推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse) ![](assets/new.png)  
+- [2020-12-23-推荐-Go-错误处理最佳实践](https://toutiao.io/k/lodfgxd) ![](assets/new.png)  
+- [2020-12-23-推荐-爱奇艺微服务标准技术架构实践](https://toutiao.io/k/nm97hxh) ![](assets/new.png)  
+- [2020-12-23-推荐-常见算法模版总结（二）](https://toutiao.io/k/s66geea) ![](assets/new.png)  
+- [2020-12-23-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) ![](assets/new.png)  
+- [2020-12-23-推荐-肝了半个月，这可能是全网最全后端技术学习路线](https://toutiao.io/k/28sit4w) ![](assets/new.png)  
+- [2020-12-23-推荐-Java-8-Stream-的这些开发技巧，你值得好好收藏](https://toutiao.io/k/fk2qdkv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,6 +1067,17 @@
 </summary>
 
 
+- [2020-12-23-炸!史上最快网盘:83MB/s!速抢全网公测名额,送-2T-空间!](https://sec.thief.one/article_content?a_id=9d158a502a3ec4a52590567b72a2ba97) ![](assets/new.png)  
+- [2020-12-23-中央经济工作会议再提这个战略基点](https://sec.thief.one/article_content?a_id=f59125c6d8c60051c03fcfaeb6812e98) ![](assets/new.png)  
+- [2020-12-23-因买了进口白虾1万多名顾客信息被泄露!法院判赔1元钱…](https://sec.thief.one/article_content?a_id=54c3092a8febb3f1212746d66b28a6fa) ![](assets/new.png)  
+- [2020-12-22-GitHub-霸榜!比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://sec.thief.one/article_content?a_id=62d550b2217d9d85dc8c4c9fe841eb82) ![](assets/new.png)  
+- [2020-12-22-Eclipse-官宣,干掉-VS-Code-!](https://sec.thief.one/article_content?a_id=15007d223efbd76c09635ad76799db65) ![](assets/new.png)  
+- [2020-12-22-招人](https://sec.thief.one/article_content?a_id=09c5af30a52be36311f28017ec3e5d8a) ![](assets/new.png)  
+- [2020-12-22-【安全圈】伪造学历学位信息三千条!江苏徐州警方打掉一伪造证件黑...](https://sec.thief.one/article_content?a_id=5c5fed0ad6ea17b64546e3ccacd2ebb2) ![](assets/new.png)  
+- [2020-12-22-每日攻防资讯简报Dec.22th](https://sec.thief.one/article_content?a_id=62122b8c6f47d7743f62cc1b2fcc52ce) ![](assets/new.png)  
+- [2020-12-22-山东大学-奇安信集团联合实验室揭牌-王小云院士:将培养高级网安人才](https://sec.thief.one/article_content?a_id=3f7d4e81bcf55eb2b3c83e1bb64d94d3) ![](assets/new.png)  
+- [2020-12-22-绿盟科技助力2020年全国电信和互联网行业网络安全管理职业技能竞赛...](https://sec.thief.one/article_content?a_id=0290afee024413958a8b349b1391e684) ![](assets/new.png)  
+- [2020-12-22-仿冒CyberPunk-2077的勒索软件](https://sec.thief.one/article_content?a_id=95c34d27e2425eb687593aafaa8ac2b1) ![](assets/new.png)  
 - [2020-12-22-假冒新冠疫苗制造公司官网,两域名遭美国司法部棒打](https://sec.thief.one/article_content?a_id=472c968904a14bc78f7e4df7f288794c) ![](assets/new.png)  
 - [2020-12-22-微软最新累积更新可导致SSD损坏](https://sec.thief.one/article_content?a_id=b8b8300af68f9139b05df43fba754e33) ![](assets/new.png)  
 - [2020-12-22-掌握这些DNS解析故障问题,面试轻松搞定!](https://sec.thief.one/article_content?a_id=83e8bfc24aaa6fc24e8dc4177dfb36fe) ![](assets/new.png)  
@@ -1076,17 +1087,6 @@
 - [2020-12-22-信息安全漏洞周报2020年第49期](https://sec.thief.one/article_content?a_id=31a54053a84aa316f2c0ba3f20d5a01a) ![](assets/new.png)  
 - [2020-12-22-动态获得VBA中的敏感函数](https://sec.thief.one/article_content?a_id=8ba5fffce886e148d241ec1147800d3d) ![](assets/new.png)  
 - [2020-12-22-【漏洞通告】Apache-Airflow-错误的会话验证漏洞-CVE-2020-17526](https://sec.thief.one/article_content?a_id=5f901190840ddfae54a71cb3eeb06dbb) ![](assets/new.png)  
-- [2020-12-22-荣誉+3!国舜股份业务安全产品荣获“信网杯”优秀科技成果三项大奖](https://sec.thief.one/article_content?a_id=989bee46f8360132b3617e0cd07d56cd) ![](assets/new.png)  
-- [2020-12-22-《BMZCTF第一届网络安全公开赛》](https://sec.thief.one/article_content?a_id=06ad5ba76fb59d3f17e0bff856d6aa69) ![](assets/new.png)  
-- [2020-12-22-调查表明尽管人们普遍缺乏认识,NFT市场拥有“巨大空间”](https://sec.thief.one/article_content?a_id=a4c6ce44641f75eb6ab443a47253f6ba) ![](assets/new.png)  
-- [2020-12-22-12月22日GUIBI早内参-10万份比特币期权合约周五到期,以太坊改进提...](https://sec.thief.one/article_content?a_id=3857d060456b9f5e4e79f66e289387a9) ![](assets/new.png)  
-- [2020-12-22-多地降温限电,凭什么这里热度不减!](https://sec.thief.one/article_content?a_id=958a4f734903ef6647ae05d688ed05ac) ![](assets/new.png)  
-- [2020-12-22-Credential-Stealer正针对美国,加拿大银行客户发起大规模攻击](https://sec.thief.one/article_content?a_id=7547183c6b8db3507cd3673c4bc60e4a) ![](assets/new.png)  
-- [2020-12-22-2021年中国经济要抓好这些大事,奋斗者有话说](https://sec.thief.one/article_content?a_id=89ad036d11148de0bfbf2d284a88cb6c) ![](assets/new.png)  
-- [2020-12-22-中国高校产学研创新基金2020年第二批课题](https://sec.thief.one/article_content?a_id=6e36e14a87397187e490ea114053bc1c) ![](assets/new.png)  
-- [2020-12-22-每日安全动态推送12-22](https://sec.thief.one/article_content?a_id=20ecbd215c0a030803baffc445b26aa2) ![](assets/new.png)  
-- [2020-12-22-【PC样本分析】一个钓鱼后门的分析](https://sec.thief.one/article_content?a_id=961df13b8cd8e7662cfaa52e52d81816) ![](assets/new.png)  
-- [2020-12-22-数十名记者iPhone遭到NSO“零次点击”间谍攻击](https://sec.thief.one/article_content?a_id=fc53a0b999572b3e90afd7b83f9dd820) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

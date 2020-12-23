@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-23 00:02:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-23 00:24:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-23-阿里云正在走向垄断,程序员你们醒醒吧](https://www.v2ex.com/t/738070) 
 - [2020-12-22-现在地球上实际投入使用的最远电磁波能传多远？](https://www.v2ex.com/t/738069) 
 - [2020-12-22-Google-Search-Console-的-Request-Indexing-功能回来了](https://www.v2ex.com/t/738068) 
 - [2020-12-22-IOS-小白求实习，可到岗](https://www.v2ex.com/t/738066) 
@@ -42,4 +43,3 @@
 - [2020-12-22-小赫科技：招聘前端/后端/ios-开发工程师](https://www.v2ex.com/t/738023) 
 - [2020-12-22-macOS-上有类似-Windows-平台上-Listary-的-CTRL+G-路径定位的软件么？](https://www.v2ex.com/t/738022) 
 - [2020-12-22-想要自己写一个浏览器主页-大概类似于百度首页这样的](https://www.v2ex.com/t/738021) 
-- [2020-12-22-大佬们，请教一个动态-sql-问题](https://www.v2ex.com/t/738020) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-23 00:02:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-23 00:24:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -30,4 +30,4 @@
 - [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) 
-- [2020-12-22-nodejs+express-最简易的连接数据库](https://juejin.im/post/6909018241721434126) 
+- [2020-12-22-V8-引擎垃圾回收与内存分配](https://juejin.im/post/6909239354418266119) 

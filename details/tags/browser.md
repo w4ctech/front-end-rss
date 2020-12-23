@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-23 00:02:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-23 00:24:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,8 @@
 - [2020-12-22-想要自己写一个浏览器主页-大概类似于百度首页这样的](https://www.v2ex.com/t/738021) 
 - [2020-12-23-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-23-聊聊-HTTP-常见的请求方式-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14055&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337897202%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-22-【安全圈】伪造学历学位信息三千条!江苏徐州警方打掉一伪造证件黑...](https://sec.thief.one/article_content?a_id=5c5fed0ad6ea17b64546e3ccacd2ebb2) 
+- [2020-12-22-绿盟科技助力2020年全国电信和互联网行业网络安全管理职业技能竞赛...](https://sec.thief.one/article_content?a_id=0290afee024413958a8b349b1391e684) 
 - [2020-12-22-信息安全漏洞周报2020年第49期](https://sec.thief.one/article_content?a_id=31a54053a84aa316f2c0ba3f20d5a01a) 
 - [2020-12-22-荣誉+3!国舜股份业务安全产品荣获“信网杯”优秀科技成果三项大奖](https://sec.thief.one/article_content?a_id=989bee46f8360132b3617e0cd07d56cd) 
 - [2020-12-22-《BMZCTF第一届网络安全公开赛》](https://sec.thief.one/article_content?a_id=06ad5ba76fb59d3f17e0bff856d6aa69) 
@@ -66,5 +68,3 @@
 - [2020-12-20-奇安信总裁吴云坤:工业网络安全要从局部整改模式升级为体系化规划...](https://sec.thief.one/article_content?a_id=ee166099d069599312e9945181e7311e) 
 - [2020-12-20-周报|绿盟曹嘉、企安操作系统、零信任征文、胡洪涛谈安全投资等引热...](https://sec.thief.one/article_content?a_id=c0d6b79412bbb06585729057ff3b1828) 
 - [2020-12-20-首发!腾讯安全云访问安全代理CASB亮相2020-Techo-Park,开辟数...](https://sec.thief.one/article_content?a_id=0407bf03970a3945f0b066bb6ef7cea5) 
-- [2020-12-20-Web安全:CSRFTester跨站请求伪造漏洞测试工具](https://sec.thief.one/article_content?a_id=d7a96ff6036151c2fbb1d81d22287170) 
-- [2020-12-20-关于安全牛前主编失实宣传的严正声明](https://sec.thief.one/article_content?a_id=80fe1f32e8bae6b2da1cd7d10bd58747) 

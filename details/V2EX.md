@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-12-24 11:31:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-24 11:44:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-24-请问-cdn-回源的时候选择-http-类型是不是不安全？](https://www.v2ex.com/t/738695) 
+- [2020-12-24-microsoft-authenticator-支持密码管理](https://www.v2ex.com/t/738693) 
 - [2020-12-24-有什么新能源车相关的基金推荐？](https://www.v2ex.com/t/738692) 
 - [2020-12-24-关于阿里云-k8s-集群和-slb-关系的疑问](https://www.v2ex.com/t/738691) 
 - [2020-12-24-播放-AAC256文件，走蓝牙-AAC-协议，会重编码么？](https://www.v2ex.com/t/738690) 
@@ -50,6 +52,3 @@
 - [2020-12-24-Merry-Christmas-苹果-圣诞树-老头](https://www.v2ex.com/t/738648) 
 - [2020-12-24-时间机器恢复系统时，会覆盖掉-iCloud-Drive-里的文件么](https://www.v2ex.com/t/738647) 
 - [2020-12-24-米哈游-原神-上海米哈游内推](https://www.v2ex.com/t/738646) 
-- [2020-12-24-Nginx-一个主机监听多个端口](https://www.v2ex.com/t/738645) 
-- [2020-12-24-实习-Casbin-开源软件远程实习生+-GSoC-预选](https://www.v2ex.com/t/738644) 
-- [2020-12-24-MacBook-Pro-2017-Big-Sur-卡爆-最终退级](https://www.v2ex.com/t/738643) 

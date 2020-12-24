@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-24 10:17:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-24 10:43:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -20,7 +20,11 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-24-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-24-译-以太坊智能合约安全开发建议](https://toutiao.io/k/y4ag2k5) 
+- [2020-12-24-“女性买房猛增”揭露一个扎心真相:成年人的安全感,只能自己给](https://sec.thief.one/article_content?a_id=e3bae6e021adbf33b269c55835790259) 
+- [2020-12-24-再获认可-|-微步在线入选“2020网络安全产业百强”](https://sec.thief.one/article_content?a_id=97d8a1432895b49ba974635c60132d1f) 
+- [2020-12-24-南开大学网络空间安全学院人才招聘](https://sec.thief.one/article_content?a_id=a11a7645219e1cc74741335f11499610) 
 - [2020-12-24-“2020网络安全金帽子”年度杰出安全实验室五席之一?深信服千里目...](https://sec.thief.one/article_content?a_id=456827f18a749594e8964785b16ce2e7) 
+- [2020-12-24-进军工业互联网安全!国舜股份携手中化国际共建工业企业网络安全综...](https://sec.thief.one/article_content?a_id=29c0e2fd73d2b7c387eabca27d6693ab) 
 - [2020-12-24-2021年网络安全高级研修班邀请函](https://sec.thief.one/article_content?a_id=eabe1e8e7bcefac31c1b624b343729e0) 
 - [2020-12-24-Web安全:弱口令猜解和综合管理工具](https://sec.thief.one/article_content?a_id=86e5545880a342969698da19574a1c1d) 
 - [2020-12-23-【安全圈】“白帽黑客”95万次高强度模拟攻击无人得手,牛!](https://sec.thief.one/article_content?a_id=ccb0995cfdc17187f3f4299dad90c826) 
@@ -40,5 +44,3 @@
 - [2020-12-22-荣誉+3!国舜股份业务安全产品荣获“信网杯”优秀科技成果三项大奖](https://sec.thief.one/article_content?a_id=989bee46f8360132b3617e0cd07d56cd) 
 - [2020-12-22-《BMZCTF第一届网络安全公开赛》](https://sec.thief.one/article_content?a_id=06ad5ba76fb59d3f17e0bff856d6aa69) 
 - [2020-12-22-每日安全动态推送12-22](https://sec.thief.one/article_content?a_id=20ecbd215c0a030803baffc445b26aa2) 
-- [2020-12-22-京东安全亮相ICS安全技术峰会,分享甲方安全技术创新实践](https://sec.thief.one/article_content?a_id=f6db2fd4ab48f47a5057ff20c9a9d4c2) 
-- [2020-12-22-《中国工业信息安全产业发展白皮书2019-2020》全文](https://sec.thief.one/article_content?a_id=5ba94c3295070a11ee61ab6442a5efba) 

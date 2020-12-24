@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-24 10:17:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-24 10:43:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -16,3 +16,4 @@
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-12-24-数百万数据-门店销售订单-按门店-分组排序分页-取销售额前-20-条-怎么优化-order-by](https://www.v2ex.com/t/738660) 
 - [2020-12-24-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) 
+- [2020-12-24-推荐-性能提高-15-倍！只是把-MySQL-换成了-ClickHouse](https://toutiao.io/k/221a7sh) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-24 04:59:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-24 05:17:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,20 +7,10 @@
 
 
 
-- [2020-12-14-跨域，不止CORS](https://www.ershicimi.com/p/4c1957186e134e081e700b2fc46e7733) 
-- [2020-12-11-前端前沿观察，Cookie-居然可以这样整了](https://www.ershicimi.com/p/bfd223b8e85452ebd67a19509a3d6021) 
 - [2020-12-20-前端周报：华为发布鸿蒙系统手机开发者-Beta-版；上百万用户安装恶意Chrome扩展；Window](https://www.ershicimi.com/p/b1f4e59cf2defe8c07951d305243d5d2) 
 - [2020-12-17-使用-Performance-看看浏览器在做些什么](https://www.ershicimi.com/p/d46ecb9c976272cb97d54eef147e99bb) 
 - [2020-12-16-图解跨域请求、反向代理原理，对前端更友好的反向代理服务器---Caddy](https://www.ershicimi.com/p/0f6067b1fe001ca5abd95cb2f6cfa227) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-12-17-封装-axios-取消重复请求](https://www.ershicimi.com/p/b1b849b82eb31c5fa359748e0c2d2e78) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
@@ -30,9 +20,9 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-24-小内存机器（<=-8G）的浏览器省内存方法](https://www.v2ex.com/t/738537) 
 - [2020-12-24-社招+实习安全与风控-渗透测试、安全研究、风控研发等岗位内推](https://www.v2ex.com/t/738518) 
-- [2020-12-24-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-24-聊聊-HTTP-常见的请求方式-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14055&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337897202%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-24-译-以太坊智能合约安全开发建议](https://toutiao.io/k/y4ag2k5) 
+- [2020-12-24-2021年网络安全高级研修班邀请函](https://sec.thief.one/article_content?a_id=eabe1e8e7bcefac31c1b624b343729e0) 
+- [2020-12-24-Web安全:弱口令猜解和综合管理工具](https://sec.thief.one/article_content?a_id=86e5545880a342969698da19574a1c1d) 
 - [2020-12-23-【安全圈】“白帽黑客”95万次高强度模拟攻击无人得手,牛!](https://sec.thief.one/article_content?a_id=ccb0995cfdc17187f3f4299dad90c826) 
 - [2020-12-23-绿盟科技出席2020年第十届电信和互联网行业网络安全年会](https://sec.thief.one/article_content?a_id=45210591e2524093f5b8bf663a656742) 
 - [2020-12-23-招聘-|-VIPKID招聘安全工程师](https://sec.thief.one/article_content?a_id=02ae00478f267ab38eb2e027c4f6c42e) 
@@ -52,6 +42,3 @@
 - [2020-12-22-每日安全动态推送12-22](https://sec.thief.one/article_content?a_id=20ecbd215c0a030803baffc445b26aa2) 
 - [2020-12-22-京东安全亮相ICS安全技术峰会,分享甲方安全技术创新实践](https://sec.thief.one/article_content?a_id=f6db2fd4ab48f47a5057ff20c9a9d4c2) 
 - [2020-12-22-《中国工业信息安全产业发展白皮书2019-2020》全文](https://sec.thief.one/article_content?a_id=5ba94c3295070a11ee61ab6442a5efba) 
-- [2020-12-21-【安全圈】学术界人士展示最新黑客技术:让内存条变身Wi-Fi泄漏数据](https://sec.thief.one/article_content?a_id=5c521d65fd02380e898a8372ca751575) 
-- [2020-12-21-招聘-|-美团招聘研发安全专家](https://sec.thief.one/article_content?a_id=34e9d0d5b904bf5c224f707f7a78d843) 
-- [2020-12-21-【安全热点周报】第173期:顶级网络管理软件SolarWinds被植入后门](https://sec.thief.one/article_content?a_id=725b4e01ac20d1b9b9770a687e3c8760) 

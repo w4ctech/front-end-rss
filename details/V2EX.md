@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-12-24 14:12:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-24 14:40:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-24-翻唱-Last-Christmas](https://www.v2ex.com/t/738728) 
+- [2020-12-24-2021-年了，做上位机还有前途吗？](https://www.v2ex.com/t/738727) 
+- [2020-12-24-关于阿里云-OSS-的服务端签名后直传的示例代码为什么没有-node.js-版本？](https://www.v2ex.com/t/738726) 
+- [2020-12-24-大家有没有在-Notes.app-遇到这个-bug](https://www.v2ex.com/t/738725) 
+- [2020-12-24-有人使用小程序的云开发遇到过这个报错吗？-cloud-function-service-error-code--501000,-error-message-Environment-not-found](https://www.v2ex.com/t/738724) 
 - [2020-12-24-chrome-里能执行类-jquery-的一些代码，但是-css-和-prop-算-chrome-的还是-jquery，文档找不到](https://www.v2ex.com/t/738722) 
 - [2020-12-24-妖兽啦，为什么-springboot-子模块里-main-和-test-日志打印在两个地方！](https://www.v2ex.com/t/738721) 
 - [2020-12-24-大四上结束-临近毕业-绩点低，无实习经历-人生之路如何选择？](https://www.v2ex.com/t/738720) 
@@ -17,7 +22,6 @@
 - [2020-12-24-find-/home/ubuntu/yt--name-"*.mp4"-|-xargs--I-$-ffmpeg--y--re--i-$--vcodec-copy--acodec-copy--f-flv-推流地址](https://www.v2ex.com/t/738711) 
 - [2020-12-24-有没有办法在不-import-一个-Python-动态模块的情况下，-解析出这个库里面定义的函数和类](https://www.v2ex.com/t/738710) 
 - [2020-12-24-分享我做的两个东西,-Chrome/Firefox-首页扩展-和-背单词软件](https://www.v2ex.com/t/738709) 
-- [2020-12-24-兼职招-iOS/MacOS-APP-开发](https://www.v2ex.com/t/738708) 
 - [2020-12-24-Facebook-有类似于开发小程序的功能吗](https://www.v2ex.com/t/738706) 
 - [2020-12-24-公司基本没有午休如何破？](https://www.v2ex.com/t/738705) 
 - [2020-12-24-编译原理求助](https://www.v2ex.com/t/738704) 
@@ -43,9 +47,3 @@
 - [2020-12-24-有了-M1-Mac-Mini-感觉黑苹果没了生存空间](https://www.v2ex.com/t/738682) 
 - [2020-12-24-成都武汉青云科技招人啦~~-海量-HC，年前面试，年后入职，欢迎投递！](https://www.v2ex.com/t/738681) 
 - [2020-12-24-2018-款吃灰中配-mbp13-卖多少钱合适？](https://www.v2ex.com/t/738680) 
-- [2020-12-24-git-subtree-在-windows-上很慢](https://www.v2ex.com/t/738679) 
-- [2020-12-24-Mac-的-wifi-打开，同时连接-usb-的千兆网，系统是默认使用-wifi，除非手动关闭-wifi？](https://www.v2ex.com/t/738677) 
-- [2020-12-24-请问有没有能在有人登录时能立即通过-Telegram-机器人发送推送，并将操作记录实时上传到另一台服务器的开源服务器监控软件？](https://www.v2ex.com/t/738676) 
-- [2020-12-24-被百度网盘客服套娃](https://www.v2ex.com/t/738675) 
-- [2020-12-24-请问有没有脚本自动使用-app](https://www.v2ex.com/t/738674) 
-- [2020-12-24-关于-M1-芯片的-MBP-外接显示器的吐槽与疑问](https://www.v2ex.com/t/738673) 

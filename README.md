@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-24 07:20:42，:rocket: 更新条数: +3916， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-24 07:49:47，:rocket: 更新条数: +947， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2020-12-24-12月23日全国新增确诊病例17例-本土病例6例](http://m.china.caixin.com/m/2020-12-24/101642735.html) ![](assets/new.png)  
-- [2020-12-24-北京顺义确认1例无症状感染者-所在小区近2000居民检测核酸](http://m.china.caixin.com/m/2020-12-24/101642786.html) ![](assets/new.png)  
-- [2020-12-24-大流行手记|12月23日：新冠变异毒株已蔓延全英-韩日均新增近千确诊病例](http://m.international.caixin.com/m/2020-12-24/101642730.html) ![](assets/new.png)  
-- [2020-12-23-广东新冠疫苗接种已达18万例-重点人群免费](http://m.china.caixin.com/m/2020-12-23/101642689.html) ![](assets/new.png)  
-- [2020-12-23-分析|香港第四波疫情为何持续难平？](http://m.china.caixin.com/m/2020-12-23/101642685.html) ![](assets/new.png)  
-- [2020-12-23-变异病毒多地蔓延-香港两名留学生疑似感染](http://m.china.caixin.com/m/2020-12-23/101642584.html) ![](assets/new.png)  
-- [2020-12-23-沈阳发现1例核检阳性-进入战时状态](http://m.china.caixin.com/m/2020-12-23/101642569.html) ![](assets/new.png)  
-- [2020-12-23-【境内疫情观察】大连开展第二次全员核酸检测（12月22日）](http://m.database.caixin.com/m/2020-12-23/101642335.html) ![](assets/new.png)  
-- [2020-12-23-大流行手记|12月22日：英国变异病毒或更易感染儿童-欧盟批准辉瑞疫苗上市](http://m.international.caixin.com/m/2020-12-23/101642246.html) ![](assets/new.png)  
-- [2020-12-23-新冠疫苗重点人群接种进行时：基层如何准备？](https://m.caixin.com/m/2020-12-23/101642325.html) ![](assets/new.png)  
-- [2020-12-23-南航停飞中英直飞航班-英国始发中转回国航班亦中断](http://m.companies.caixin.com/m/2020-12-23/101642535.html) ![](assets/new.png)  
-- [2020-12-23-日本海上自卫队一二把手确诊新冠-忧暴发集体感染](http://m.international.caixin.com/m/2020-12-23/101642424.html) ![](assets/new.png)  
-- [2020-12-22-大连单日新增8例新冠核酸阳性-将全市核酸检测](https://m.caixin.com/m/2020-12-22/101642218.html) ![](assets/new.png)  
-- [2020-12-22-【境内疫情观察】辽宁新增2例本土病例（12月21日）](http://m.database.caixin.com/m/2020-12-22/101641958.html) ![](assets/new.png)  
-- [2020-12-22-大流行手记|12月21日：英国变异病毒影响扩大-美国多州疫苗供应不足](http://m.international.caixin.com/m/2020-12-22/101641821.html) ![](assets/new.png)  
-- [2020-12-22-聚焦|张文宏：英国突变株并不意外，降低疫苗效力可能性不大](http://m.opinion.caixin.com/m/2020-12-22/101641809.html) ![](assets/new.png)  
-- [2020-12-21-最新海外疫情：新冠感染超7672万-累计死亡超168万](http://m.international.caixin.com/m/2020-12-21/101641652.html) ![](assets/new.png)  
-- [2020-12-21-新变种病毒来势汹汹-港府紧急宣布英国客运航班禁抵港](http://m.china.caixin.com/m/2020-12-21/101641684.html) ![](assets/new.png)  
-- [2020-12-21-中国是否将减少英国航班应对变异毒株-外交部：将认真研究](http://m.china.caixin.com/m/2020-12-21/101641622.html) ![](assets/new.png)  
-- [2020-12-21-【境内疫情观察】黑龙江、辽宁各新增1例本土病例（12月20日）](http://m.database.caixin.com/m/2020-12-21/101641494.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -874,11 +854,6 @@
 </summary>
 
 
-- [2020-12-23-React-优化技巧在-Web-版光线追踪里的应用下](https://juejin.im/post/6909717229047611399) ![](assets/new.png)  
-- [2020-12-23-React-优化技巧在-Web-版光线追踪里的应用中](https://juejin.im/post/6909717109807267854) ![](assets/new.png)  
-- [2020-12-23-React-优化技巧在-Web-版光线追踪里的应用上](https://juejin.im/post/6909716626736676878) ![](assets/new.png)  
-- [2020-12-23-React-Native-优先的多端统一化方案](https://juejin.im/post/6909714200197595149) ![](assets/new.png)  
-- [2020-12-23-Qunar-营销组件中台工程化探索及实践](https://juejin.im/post/6909713167387983886) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,26 +969,26 @@
 </summary>
 
 
+- [2020-12-24-今天在闲鱼发布二手，发现也要「所有照片访问权限」了](https://www.v2ex.com/t/738622) ![](assets/new.png)  
+- [2020-12-24-挖矿两个月了,有什么想问的吗?](https://www.v2ex.com/t/738621) ![](assets/new.png)  
+- [2020-12-24-流行-ORM-框架性能测试（如图）](https://www.v2ex.com/t/738620) ![](assets/new.png)  
+- [2020-12-24-老哥们，不运动的话有什么方式能减减肥吗？靠某宝买的那些肚腩减肥器有用吗](https://www.v2ex.com/t/738618) ![](assets/new.png)  
+- [2020-12-24-M1X-什么时候上市，有消息吗？](https://www.v2ex.com/t/738617) ![](assets/new.png)  
+- [2020-12-24-谁还记得小米的全民省钱购返利是即时到账的么？](https://www.v2ex.com/t/738615) ![](assets/new.png)  
+- [2020-12-24-vue3.0-有多少人会上-ts,还是继续用-js](https://www.v2ex.com/t/738614) ![](assets/new.png)  
+- [2020-12-24-CODING-DevOps-线下沙龙回顾二：-SDK-测试最佳实践](https://www.v2ex.com/t/738613) ![](assets/new.png)  
+- [2020-12-24-有骑电动车上下班的彦祖同学吗？想问下哪款比较好](https://www.v2ex.com/t/738612) ![](assets/new.png)  
+- [2020-12-24-有人用过高德-2.0-版本的-js-吗？怎么感觉和-1.45-相比定位很慢？](https://www.v2ex.com/t/738611) ![](assets/new.png)  
+- [2020-12-24-决赛圈-a4-3-系选哪个？](https://www.v2ex.com/t/738610) ![](assets/new.png)  
+- [2020-12-24-升级到-BigBur-后，切换输入法（用的落格输入法+五笔），菊花狂转就像死机了一样](https://www.v2ex.com/t/738609) ![](assets/new.png)  
+- [2020-12-24-既然每次都要请求-token，那-token-的意义是什么](https://www.v2ex.com/t/738607) ![](assets/new.png)  
+- [2020-12-24-求女生平价衣服品牌推荐线上与线下都可以](https://www.v2ex.com/t/738606) ![](assets/new.png)  
 - [2020-12-24-前端如何实现超大图片的缩放效果?-类似地图或-Google-Arts-的缩放](https://www.v2ex.com/t/738605) ![](assets/new.png)  
 - [2020-12-24-试了下-m1-下用-docker-跑-x86-ubuntu-性能不太行](https://www.v2ex.com/t/738604) ![](assets/new.png)  
 - [2020-12-24-求-office365-车位，绿色聊天：-94864](https://www.v2ex.com/t/738603) ![](assets/new.png)  
 - [2020-12-24-2020-年投资总结](https://www.v2ex.com/t/738601) ![](assets/new.png)  
 - [2020-12-24-给客户-docker-镜像,-会导致源码泄露么?](https://www.v2ex.com/t/738600) ![](assets/new.png)  
 - [2020-12-24-有工具可以模拟-4k-屏访问网页吗？只有一台垃圾-1080p-125%~~](https://www.v2ex.com/t/738597) ![](assets/new.png)  
-- [2020-12-24-DFU-刷机真的能提升流畅度吗？](https://www.v2ex.com/t/738596) ![](assets/new.png)  
-- [2020-12-24-给-Mac-买了个多多-90-块不到的海康威视-1080P-摄像头](https://www.v2ex.com/t/738595) ![](assets/new.png)  
-- [2020-12-24-重磅发布-PerfDogService-商业版本正式开启，功能优化，体验升级！](https://www.v2ex.com/t/738592) ![](assets/new.png)  
-- [2020-12-24-有没有活跃点的小程序开发群。。](https://www.v2ex.com/t/738591) ![](assets/new.png)  
-- [2020-12-24-MAC-某天突然很卡？打开程序半天没反应？程序一直跳动甚至打开失败？可能是对苹果服务走了代理导致](https://www.v2ex.com/t/738590) ![](assets/new.png)  
-- [2020-12-24-阿里云盘的朋友来看下，空间容量变成-7TB-了，白送了？](https://www.v2ex.com/t/738589) ![](assets/new.png)  
-- [2020-12-24-发现一个神奇的东西，登录同一微软账号可以在网络中互相发现并远程连接](https://www.v2ex.com/t/738588) ![](assets/new.png)  
-- [2020-12-24-双旦活动#office-2019-永久版-仅需￥-199！](https://www.v2ex.com/t/738587) ![](assets/new.png)  
-- [2020-12-24-奇怪了，微博国际版在-iPhone-上没有广告，但是在-iPad-上广告非常多](https://www.v2ex.com/t/738584) ![](assets/new.png)  
-- [2020-12-24-猎头免费帮大家分析怎么找工作，分析工作，团队和八卦，有人有兴趣吗？](https://www.v2ex.com/t/738583) ![](assets/new.png)  
-- [2020-12-24-iPhone-12-Pro-Max-拍摄的-DNG-如何确保原文件分享到-MacBook](https://www.v2ex.com/t/738582) ![](assets/new.png)  
-- [2020-12-24-发现了个-Mac-微信的小-bug](https://www.v2ex.com/t/738581) ![](assets/new.png)  
-- [2020-12-24-有人懂这个问题吗?mbp-待机功耗.-也就是多少-w-的充电器能最小满足插电使用,而不伤电池](https://www.v2ex.com/t/738580) ![](assets/new.png)  
-- [2020-12-24-木兰语言的引用相关功能与问题新发现](https://www.v2ex.com/t/738579) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1025,6 +1000,7 @@
 </summary>
 
 
+- [2020-12-24-你懂SOLID原则吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14075&url=https%3A%2F%2Finsights.thoughtworks.cn%2Funderstand-solid-principles%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-24-码仔漫画：如何跟女朋友-“四次挥手”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14074&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzYwMTk1NA%3D%3D%26amp%3Bmid%3D2247505237%26amp%3Bidx%3D1%26amp%3Bsn%3D30eefd9dba9a72652c21dfb63df9eb07%26amp%3Bchksm%3D96ce7418a1b9fd0ecf79e16bb1a925366c7d3230876b9eb3a3620c55289539c55441dddf8a35%26amp%3Btoken%3D350405865%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-24-海外加速，让你拥有和-Steam-一样的高速下载-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14073&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F338723803%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-24-云原生网络代理（MOSN）的进化之路-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14072&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F338446678%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1044,7 +1020,6 @@
 - [2020-12-24-程序员的五种不同寻常的特质-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14058&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFX9RB3BAD4FYksP0ZTVbMQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-24-94-年出生，她们如今都是-985-高校博士生导师-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14057&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIgSviSWVjNDirM-OugOvKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-12-24-服务器标配-SSH-协议，你了解多少？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14056&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337890515%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-12-24-聊聊-HTTP-常见的请求方式-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14055&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337897202%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

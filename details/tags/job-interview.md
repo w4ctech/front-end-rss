@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-24 03:01:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-24 03:21:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-12-09-字节跳动年底招聘-10000-人，看看你符合条件么？](https://www.ershicimi.com/p/45becc670feffb4cf743c60c3ba28698) 
 - [2020-12-15-【招聘】有赞·教育前端团队急招前端开发工程师](https://www.ershicimi.com/p/b3d402b88891ec1b88506a7bb25f631d) 
 - [2020-12-13-【招聘】美团快驴终端招募：和优秀的人一起并肩作战](https://www.ershicimi.com/p/ba99b78f490ad4932ee58422805eb68e) 
@@ -28,5 +27,4 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/196a7fb4fe0dda8d044135599df6e681) 
 - [2020-12-24-北京-环信-运维工程师招聘](https://www.v2ex.com/t/738495) 
-- [2020-12-24-best-南京-公司「元贝驾考」自主研发-APP。双休，-13-薪，年假-7-15-天，招聘-iOS-开发！](https://www.v2ex.com/t/738459) 
 - [2020-12-22-掌握这些DNS解析故障问题,面试轻松搞定!](https://sec.thief.one/article_content?a_id=83e8bfc24aaa6fc24e8dc4177dfb36fe) 

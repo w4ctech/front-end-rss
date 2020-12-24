@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-23 23:52:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-24 00:15:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -515,10 +515,10 @@
 - [【JavaScript】疯了？价值上万元“Web全栈架构师”正课免费？](https://www.ershicimi.com/p/cae5f6db9a2ffaa926bb78df3323fe21)
 - [【V2EX】长沙-外企-12k-24k,-965-TigerGraph-中国区招人-前端-/-后端-/-全栈-/-infra-/-测试](https://www.v2ex.com/t/738443)
 - [【V2EX】出-Apple-Insider-捆绑包里的一些软件，例如-PDFpenPro-12，-BusyCal-3，-Screen-Recorder-2021，-Edraw-Mindmaster，-Gemini-2……](https://www.v2ex.com/t/738411)
-- [【开发者头条】推荐-HTTP/2-做错了什么？刚刚辉煌-2-年就要被弃用了！？](https://toutiao.io/k/v5mm32h)
-- [【开发者头条】推荐-常见算法模版总结（二）](https://toutiao.io/k/s66geea)
 - [【开发者头条】推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm)
+- [【开发者头条】推荐-常见算法模版总结（二）](https://toutiao.io/k/s66geea)
 - [【安全热点】1.5-万-Star!热门机器学习算法的-Python实现](https://sec.thief.one/article_content?a_id=8544472f5e8bb1a2915dc19947051fc4)
+- [【安全热点】拜托了,别再说Base64是加密算法了](https://sec.thief.one/article_content?a_id=879eba374f8ba6d41d26fb91eeb39c24)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -539,7 +539,6 @@
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【互联网架构师】一文详解-LVS、Nginx-及-HAProxy-工作原理（-附大图-）](https://www.ershicimi.com/p/3ee857ec86a7db335028f6d9daf5bd75)
 - [【V2EX】关于-REST-中的“无状态”的一个疑问。](https://www.v2ex.com/t/738435)
-- [【开发者头条】推荐-漫话-Docker-的衰落与-Kubernetes-的兴起](https://toutiao.io/k/h3ooyse)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -563,7 +562,6 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【开发者头条】工具-|-滴滴开源的基于-Jacoco、git-二次开发打造的一站式-Java-代码全量/diff-覆盖率收集平台](https://toutiao.io/k/ae0iyh7)
 - [【安全热点】GitHub-霸榜!比-ping-强大百倍的-gping-一天拿下-2.5k-Star](https://sec.thief.one/article_content?a_id=62d550b2217d9d85dc8c4c9fe841eb82)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

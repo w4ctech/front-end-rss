@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-24 03:54:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-24 04:05:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -30,6 +30,11 @@
 - [2020-01-22-如何解读WHO“国际公共卫生紧急事件”](http://m.china.caixin.com/m/2020-01-22/101507340.html) 
 - [2020-01-22-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
 - [2020-12-04-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/7a4de73e7fda551dfa6c595fc8a81bde) 
+- [2020-12-24-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/2cc232517987105ec037b547c245b537) 
+- [2020-12-23-面试官：说说你对keep-alive的理解是什么？怎么缓存当前的组件？缓存后怎么更新？](https://www.ershicimi.com/p/95debcbac225af1be71515001b426936) 
+- [2020-12-22-15道ES6-Promise实战练习题，助你快速理解Promise](https://www.ershicimi.com/p/43c60cb3d6f77207df9eede7893c37f6) 
+- [2020-12-22-8个常用的JavaScript数组方法](https://www.ershicimi.com/p/e2f5cb1ff7fa00d12d73d601dde90f74) 
+- [2020-12-21-技巧：7种办法教你判断一个APP页面是否是H5做的](https://www.ershicimi.com/p/dc26b2887682f32d39ce0735e74e186b) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-12-20-【4/121】在其他处理程序中附加事件处理程序](https://www.ershicimi.com/p/afff6fd88b87579fd5066ae69c2194f3) 
@@ -109,7 +114,6 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-12-24-现代-JavaScript：-ES6+-中的-Imports，-Exports，-Let，-Const-和-Promise](https://www.v2ex.com/t/738530) 
 - [2020-12-24-两台笔记本，一台是-MBP，一台是-Lenovo（已安装-CentOS），没有路由器怎么组建局域网？](https://www.v2ex.com/t/738515) 
-- [2020-12-24-javascript-表示-Excel-这种行列式的数据结构用哪种对象合适？](https://www.v2ex.com/t/738483) 
 - [2020-12-24-Spring-Boot-2-整合-OAuth2-组件，模拟第三方授权访问](https://toutiao.io/k/ibroeej) 
 - [2020-12-24-如何优雅地封装组件？](https://toutiao.io/k/3s7l20q) 
 - [2020-12-22-Pickle-Jar-盗币事件分析](https://sec.thief.one/article_content?a_id=4578f737b3dd74eade203e7d7c30b901) 

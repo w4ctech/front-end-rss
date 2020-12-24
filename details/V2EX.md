@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-12-24 03:54:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-24 04:05:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-24-为什么说关系型数据库，纵向设计总是优于横向设计？](https://www.v2ex.com/t/738534) 
+- [2020-12-24-pdm-1.0.0-beta-版发布，支持最新-metadata-标准-PEP-621](https://www.v2ex.com/t/738533) 
 - [2020-12-24-各位好，有没有识别特定物体视频软件](https://www.v2ex.com/t/738532) 
 - [2020-12-24-京东快递柜如何拉黑手机号码？](https://www.v2ex.com/t/738531) 
 - [2020-12-24-现代-JavaScript：-ES6+-中的-Imports，-Exports，-Let，-Const-和-Promise](https://www.v2ex.com/t/738530) 
@@ -39,5 +41,3 @@
 - [2020-12-24-访问内网的-ip-地址问题](https://www.v2ex.com/t/738488) 
 - [2020-12-24-如何用-evernote-或-notion-发博客？](https://www.v2ex.com/t/738487) 
 - [2020-12-24-Qt-如何获取操作系统标题栏的图标？？](https://www.v2ex.com/t/738486) 
-- [2020-12-24-deviantart-打不开了？老哥们帮试试看。](https://www.v2ex.com/t/738485) 
-- [2020-12-24-javascript-表示-Excel-这种行列式的数据结构用哪种对象合适？](https://www.v2ex.com/t/738483) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-24 00:15:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-24 00:29:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -29,4 +29,3 @@
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-12-23-游戏服务器开发如何入门](https://www.v2ex.com/t/738421) 
-- [2020-12-23-EPIC-是不是挂了？从晚上-9-点一直登陆不上，想领个免费游戏呢](https://www.v2ex.com/t/738398) 

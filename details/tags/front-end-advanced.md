@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-24 00:15:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-24 00:29:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -24,6 +24,5 @@
 - [2020-12-23-长沙-外企-12k-24k,-965-TigerGraph-中国区招人-前端-/-后端-/-全栈-/-infra-/-测试](https://www.v2ex.com/t/738443) 
 - [2020-12-23-出-Apple-Insider-捆绑包里的一些软件，例如-PDFpenPro-12，-BusyCal-3，-Screen-Recorder-2021，-Edraw-Mindmaster，-Gemini-2……](https://www.v2ex.com/t/738411) 
 - [2020-12-24-推荐-关于-Elasticsearch-集群核心配置，腾讯大佬的灵魂-9-问，你能接住几个？](https://toutiao.io/k/i41dalm) 
-- [2020-12-24-推荐-常见算法模版总结（二）](https://toutiao.io/k/s66geea) 
 - [2020-12-21-1.5-万-Star!热门机器学习算法的-Python实现](https://sec.thief.one/article_content?a_id=8544472f5e8bb1a2915dc19947051fc4) 
 - [2020-12-21-拜托了,别再说Base64是加密算法了](https://sec.thief.one/article_content?a_id=879eba374f8ba6d41d26fb91eeb39c24) 

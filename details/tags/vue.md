@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-24 05:47:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-24 05:54:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -44,12 +44,16 @@
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
 - [2020-12-22-Vue.js最佳静态站点生成器对比](https://www.ershicimi.com/p/4f7629e52e3e7833c4f4e8ba4b66b334) 
 - [2020-12-21-预填充Vue.js全局存储状态的三种方法](https://www.ershicimi.com/p/365bb3b6e981ce5d3bea9f8b3b39559c) 
+- [2020-10-11-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/0590b6964c9fcfc3e48286bd7d353627) 
 - [2020-12-21-来一起用-Vue3.0-造轮子](https://www.ershicimi.com/p/40857f4dfef3be75b39967215e5da61a) 
 - [2020-12-16-Vue-Router-4.0-正式发布！焕然一新。](https://www.ershicimi.com/p/a6e8add28931ef16519378188c4bab80) 
 - [2020-12-14-10个前端8个用Vue的，怎么才能在面试中出彩？](https://www.ershicimi.com/p/05a56c88738c377f4d7b231df67ede76) 
 - [2020-12-08-快速使用Vue3最新的15个常用API](https://www.ershicimi.com/p/b5b135b0d77bd836f20b50c995bc47dc) 
 - [2020-12-20-Vue3有哪些不向下兼容的改变](https://www.ershicimi.com/p/ea3ec1b16083a33bd888b17fdf92a8b3) 
 - [2020-12-18-Vue-首页秒开实践指南](https://www.ershicimi.com/p/be6da31866f569ef81cc905470a30a29) 
+- [2020-12-17-Egg-+-Vue-+-MongoDB-实践开发在线文档管理平台](https://www.ershicimi.com/p/11586863038539ea757d7e75c7aa45b3) 
+- [2020-12-15-Vue3-+-TypeScript-完整项目上手教程](https://www.ershicimi.com/p/ca145a9692f57294c486b226b127066d) 
+- [2020-12-03-Electron-+-Vue-开发跨平台桌面应用](https://www.ershicimi.com/p/a6720fb26e39469453f05ff19657f1d3) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) 
 - [2017-07-17-Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/) 

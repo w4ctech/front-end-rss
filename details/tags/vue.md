@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 03:50:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 04:11:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -15,6 +15,11 @@
 - [2020-11-30-快速使用-Vue3-最新的-15-个常用API](https://www.ershicimi.com/p/d3062672cc8515323791823013bdea7f) 
 - [2020-11-24-Vue-新语法糖魔改-JavaScript-引争议](https://www.ershicimi.com/p/1e5806b6b8c7534191ca92b66df38e33) 
 - [2020-11-23-开发一个基于-Vue3.0-的组件库是一种怎样的体验？](https://www.ershicimi.com/p/29af70722217007e98923c97b7c9bde5) 
+- [2020-12-25-面试官：Vue常用的修饰符有哪些?有什么应用场景?](https://www.ershicimi.com/p/b31fc115456d7d4519cbdfb8d3fe4c38) 
+- [2020-12-24-Vant-3.0-正式发布：全面拥抱-Vue-3](https://www.ershicimi.com/p/4f49bf08aaf59fcda37f2680c98884b4) 
+- [2020-12-21-来一起用-Vue3.0-造轮子](https://www.ershicimi.com/p/308243d8ad80392044a234ac595c2b45) 
+- [2020-12-20-分享8个非常实用的Vue自定义指令](https://www.ershicimi.com/p/21f1edb93ceefc2cb426e6d7216bd5eb) 
+- [2020-12-19-细数那些Vue3中不兼容老版本的改动](https://www.ershicimi.com/p/192cf84a605110500d8e9767bc107646) 
 - [2020-12-22-都说Vue3源码好处多，怎么读最高效？](https://www.ershicimi.com/p/ebd84e17fe2e4462fdf513b44373434f) 
 - [2020-12-24-基于-Vue-的前端架构，我做了这-15-点](https://www.ershicimi.com/p/49a31310b2bfb7159222739f70eb6a7a) 
 - [2020-12-23-用造轮子的方式学-Vue3.0-源码，真香！](https://www.ershicimi.com/p/3d60f30d7093d2c024046afd3f9f4fac) 
@@ -35,11 +40,6 @@
 - [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
 - [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
 - [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
-- [2020-07-07-1元福利-|-深度剖析Vue-.js-3.0底层逻辑，带你向高级前端进阶！](https://www.ershicimi.com/p/b7eeaaa6276d65ebe0a5252368725728) 
-- [2020-04-19-2020年-4-月-21日-星期二-晚上-9:30-Vue.js-作者尤雨溪与你相约前端圈的-B-站](https://www.ershicimi.com/p/69d20f9c5bb2de3da1dad85699594815) 
-- [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
-- [2020-12-22-Vue.js最佳静态站点生成器对比](https://www.ershicimi.com/p/4f7629e52e3e7833c4f4e8ba4b66b334) 
-- [2020-12-21-预填充Vue.js全局存储状态的三种方法](https://www.ershicimi.com/p/365bb3b6e981ce5d3bea9f8b3b39559c) 
 - [2020-10-11-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/0590b6964c9fcfc3e48286bd7d353627) 
 - [2020-12-21-来一起用-Vue3.0-造轮子](https://www.ershicimi.com/p/40857f4dfef3be75b39967215e5da61a) 
 - [2020-12-16-Vue-Router-4.0-正式发布！焕然一新。](https://www.ershicimi.com/p/a6e8add28931ef16519378188c4bab80) 

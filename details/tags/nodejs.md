@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 06:10:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 06:43:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -11,7 +11,6 @@
 - [2020-12-16-【第2149期】V8中的快属性](https://www.ershicimi.com/p/6c9c9fbf140b8acd7931300dda24d992) 
 - [2020-04-07-nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c) 
 - [2020-12-14-调用-Express-API时出现奇怪的CORS错误该怎么办？](https://www.ershicimi.com/p/e671bc7c42f514605d51da84bdb5fb88) 
-- [2020-12-22-V8-引擎垃圾回收与内存分配](https://www.ershicimi.com/p/1a0e4f18abc4d979ab8de6939f2ac8cb) 
 - [2020-12-21-复盘node项目中遇到的13+常见问题和解决方案](https://www.ershicimi.com/p/e075cd770276c522b4a510020a191e03) 
 - [2020-12-22-Node.js-实战-—-带你开发一个完整的-Node.js-项目](https://www.ershicimi.com/p/ec44324334333b6b7b51a50b46855eb7) 
 - [2020-12-21-使用-Chrome-Devtools-调试您的-Node.js-程序](https://www.ershicimi.com/p/187a096e4aea8c4e977a528d4dbb99a8) 

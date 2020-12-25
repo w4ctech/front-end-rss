@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-25 10:03:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 10:14:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -401,6 +401,8 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【安全热点】招聘-|-腾讯安全专家咨询中心web安全岗位招聘](https://sec.thief.one/article_content?a_id=ff153fe656a3bbeace4d47d4261b04d6)
+- [【安全热点】个人信息保护伞-|-绿盟BMG守护政府网站业务安全](https://sec.thief.one/article_content?a_id=0afdf6d059c674f0e46577aedd6e6846)
 - [【安全热点】嘶吼2020网络安全产业百强调研结果发布](https://sec.thief.one/article_content?a_id=1d39d20c26af67edda41787eeeae453a)
 - [【安全热点】远程办公安全,只有30%的企业准备好了](https://sec.thief.one/article_content?a_id=60ed2cdeae730ca525246b2bca269f0b)
 - [【安全热点】信息安全学习经验分享](https://sec.thief.one/article_content?a_id=938e09b4195c128b61d9930346174768)
@@ -410,8 +412,6 @@
 - [【安全热点】“女性买房猛增”揭露一个扎心真相:成年人的安全感,只能自己给](https://sec.thief.one/article_content?a_id=e3bae6e021adbf33b269c55835790259)
 - [【安全热点】再获认可-|-微步在线入选“2020网络安全产业百强”](https://sec.thief.one/article_content?a_id=97d8a1432895b49ba974635c60132d1f)
 - [【安全热点】南开大学网络空间安全学院人才招聘](https://sec.thief.one/article_content?a_id=a11a7645219e1cc74741335f11499610)
-- [【安全热点】“2020网络安全金帽子”年度杰出安全实验室五席之一?深信服千里目...](https://sec.thief.one/article_content?a_id=456827f18a749594e8964785b16ce2e7)
-- [【安全热点】进军工业互联网安全!国舜股份携手中化国际共建工业企业网络安全综...](https://sec.thief.one/article_content?a_id=29c0e2fd73d2b7c387eabca27d6693ab)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -435,6 +435,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【安全热点】【漏洞通告】TerraMaster-TOS多个漏洞通告](https://sec.thief.one/article_content?a_id=7d574f594e94e7cbfa8b39d5a5945ae2)
 - [【安全热点】记住看小电影前一定要检查一下域名是不是-HTTPS-的,不然……](https://sec.thief.one/article_content?a_id=4019bede7ccf10ca0af685d8b27083e4)
 - [【安全热点】完美,竟然用一个脚本就把系统升级到https了,且永久免费!](https://sec.thief.one/article_content?a_id=260e9833df9188c2691697f7675f190d)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

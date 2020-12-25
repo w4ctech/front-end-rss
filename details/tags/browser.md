@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 10:03:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 10:14:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,8 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-12-25-招聘-|-腾讯安全专家咨询中心web安全岗位招聘](https://sec.thief.one/article_content?a_id=ff153fe656a3bbeace4d47d4261b04d6) 
+- [2020-12-25-个人信息保护伞-|-绿盟BMG守护政府网站业务安全](https://sec.thief.one/article_content?a_id=0afdf6d059c674f0e46577aedd6e6846) 
 - [2020-12-25-嘶吼2020网络安全产业百强调研结果发布](https://sec.thief.one/article_content?a_id=1d39d20c26af67edda41787eeeae453a) 
 - [2020-12-25-远程办公安全,只有30%的企业准备好了](https://sec.thief.one/article_content?a_id=60ed2cdeae730ca525246b2bca269f0b) 
 - [2020-12-25-信息安全学习经验分享](https://sec.thief.one/article_content?a_id=938e09b4195c128b61d9930346174768) 
@@ -37,4 +39,3 @@
 - [2020-12-23-感谢信-|-国舜股份网络安全防御能力获贵阳银行认可](https://sec.thief.one/article_content?a_id=b0f62f5d87b7715f366d11b33ac47dd0) 
 - [2020-12-23-《工业互联网数据安全白皮书-2020-》发布-附下载](https://sec.thief.one/article_content?a_id=fd7142486a3135a90c693b6b92f64210) 
 - [2020-12-23-PPT下载-I-2020滴滴网络安全峰会](https://sec.thief.one/article_content?a_id=e5e7af35acf49d8929730269ca2598a5) 
-- [2020-12-23-戴尔Wyse设备曝两个10分安全漏洞,可远程控制并修改文件](https://sec.thief.one/article_content?a_id=85b8d7566afbde0dd9b2972a525ff3e6) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 04:15:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 04:47:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -25,3 +25,4 @@
 - [2020-12-25-Pulsar-和-Kafka-基准测试：Pulsar-性能精准解析（完整版）](https://toutiao.io/k/ntpn1n8) 
 - [2020-12-25-边缘渲染在首屏性能优化上的尝试与突破](https://toutiao.io/k/e900d9u) 
 - [2020-12-25-推荐-性能提高-15-倍！只是把-MySQL-换成了-ClickHouse](https://toutiao.io/k/221a7sh) 
+- [2020-12-25-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) 

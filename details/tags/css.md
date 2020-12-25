@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 07:43:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 07:50:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -48,5 +48,4 @@
 - [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
 - [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
 - [2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
-- [2020-12-25-关于-Big-Sur-过渡动画卡顿的问题](https://www.v2ex.com/t/738887) 
 - [2020-12-25-2.8-万-Star!制作数学动画的超棒工具:Manim](https://sec.thief.one/article_content?a_id=3c7e83c9314d41acbf0b1eeb12324c03) 

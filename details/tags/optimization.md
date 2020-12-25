@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 07:43:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 07:50:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2020-12-18-【第2151期】当我们谈前端性能的时候，我们谈的是什么](https://www.ershicimi.com/p/3e94acf908844a3d66b9acfe3c0229d4) 
 - [2020-12-15-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7e8f65c02e6424a888374cb792a659e3) 
 - [2020-12-18-提升网站的加载速度，你选择-Brotli-还是-Gzip？](https://www.ershicimi.com/p/90355d8f99005af517ea8718efca7157) 
@@ -25,3 +26,4 @@
 - [2020-12-25-Pulsar-和-Kafka-基准测试：Pulsar-性能精准解析（完整版）](https://toutiao.io/k/ntpn1n8) 
 - [2020-12-25-边缘渲染在首屏性能优化上的尝试与突破](https://toutiao.io/k/e900d9u) 
 - [2020-12-25-推荐-MySQL-优化神器](https://toutiao.io/k/qg5adh5) 
+- [2020-12-25-推荐-性能提高-15-倍！只是把-MySQL-换成了-ClickHouse](https://toutiao.io/k/221a7sh) 

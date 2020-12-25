@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 05:17:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 05:39:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -27,6 +27,14 @@
 - [2020-12-17-使用-Performance-看看浏览器在做些什么](https://www.ershicimi.com/p/d46ecb9c976272cb97d54eef147e99bb) 
 - [2020-12-16-图解跨域请求、反向代理原理，对前端更友好的反向代理服务器---Caddy](https://www.ershicimi.com/p/0f6067b1fe001ca5abd95cb2f6cfa227) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-12-17-封装-axios-取消重复请求](https://www.ershicimi.com/p/b1b849b82eb31c5fa359748e0c2d2e78) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
@@ -34,6 +42,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-12-25-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-25-嘶吼2020网络安全产业百强调研结果发布](https://sec.thief.one/article_content?a_id=1d39d20c26af67edda41787eeeae453a) 
+- [2020-12-25-远程办公安全,只有30%的企业准备好了](https://sec.thief.one/article_content?a_id=60ed2cdeae730ca525246b2bca269f0b) 
 - [2020-12-25-信息安全学习经验分享](https://sec.thief.one/article_content?a_id=938e09b4195c128b61d9930346174768) 
 - [2020-12-24-【安全圈】Project-Zero-团队披露微软尚未完全修复的-Windows-10-提...](https://sec.thief.one/article_content?a_id=1b378a714abaa5e2e0d57d09670277a5) 
 - [2020-12-24-奇安信发布SOAR-3.0-安全处置效率提升十倍](https://sec.thief.one/article_content?a_id=b5c2177ad90b93927435323002427d80) 
@@ -54,5 +63,3 @@
 - [2020-12-23-《工业互联网数据安全白皮书-2020-》发布-附下载](https://sec.thief.one/article_content?a_id=fd7142486a3135a90c693b6b92f64210) 
 - [2020-12-23-PPT下载-I-2020滴滴网络安全峰会](https://sec.thief.one/article_content?a_id=e5e7af35acf49d8929730269ca2598a5) 
 - [2020-12-23-戴尔Wyse设备曝两个10分安全漏洞,可远程控制并修改文件](https://sec.thief.one/article_content?a_id=85b8d7566afbde0dd9b2972a525ff3e6) 
-- [2020-12-23-《银行业数据安全体系建设指南》全文](https://sec.thief.one/article_content?a_id=93ae6006a3164d70b3cd1c9ccb44ab23) 
-- [2020-12-23-智慧城市安全二三事|创新安全运营服务为智慧环保护航](https://sec.thief.one/article_content?a_id=97e33bd8f29dc6209f1e6a8b779c9060) 

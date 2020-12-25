@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-25 00:03:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 00:25:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-12-25-Percento-2.0-年终大版本更新:-股价自动更新](https://www.v2ex.com/t/738754) 
 - [2020-12-24-想年底收个-XR，各位认为划算吗](https://www.v2ex.com/t/738753) 
 - [2020-12-24-现在是不是很多网站已经撤销对-IE-的支持了](https://www.v2ex.com/t/738751) 
 - [2020-12-24-Levels.fyi-发布-2020-年度程序员收入报告](https://www.v2ex.com/t/738750) 
@@ -41,4 +42,3 @@
 - [2020-12-24-分享我做的两个东西,-Chrome/Firefox-首页扩展-和-背单词软件](https://www.v2ex.com/t/738709) 
 - [2020-12-24-Facebook-有类似于开发小程序的功能吗](https://www.v2ex.com/t/738706) 
 - [2020-12-24-公司基本没有午休如何破？](https://www.v2ex.com/t/738705) 
-- [2020-12-24-编译原理求助](https://www.v2ex.com/t/738704) 

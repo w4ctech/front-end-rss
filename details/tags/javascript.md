@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 03:20:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 03:50:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -30,11 +30,6 @@
 - [2020-01-22-如何解读WHO“国际公共卫生紧急事件”](http://m.china.caixin.com/m/2020-01-22/101507340.html) 
 - [2020-01-22-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
 - [2020-12-04-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/7a4de73e7fda551dfa6c595fc8a81bde) 
-- [2020-12-24-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/2cc232517987105ec037b547c245b537) 
-- [2020-12-23-面试官：说说你对keep-alive的理解是什么？怎么缓存当前的组件？缓存后怎么更新？](https://www.ershicimi.com/p/95debcbac225af1be71515001b426936) 
-- [2020-12-22-15道ES6-Promise实战练习题，助你快速理解Promise](https://www.ershicimi.com/p/43c60cb3d6f77207df9eede7893c37f6) 
-- [2020-12-22-8个常用的JavaScript数组方法](https://www.ershicimi.com/p/e2f5cb1ff7fa00d12d73d601dde90f74) 
-- [2020-12-21-技巧：7种办法教你判断一个APP页面是否是H5做的](https://www.ershicimi.com/p/dc26b2887682f32d39ce0735e74e186b) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-12-20-【4/121】在其他处理程序中附加事件处理程序](https://www.ershicimi.com/p/afff6fd88b87579fd5066ae69c2194f3) 
@@ -100,8 +95,6 @@
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
 - [2020-12-15-clipboard.js-的源码分析](https://www.ershicimi.com/p/90113ff600b53542b3b9cb943ec93e7e) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
-- [2020-12-24-5分钟带你搞懂-Javascript-中的this（包含apply、call、bind）](https://juejin.im/post/6910015962058063885) 
-- [2020-12-24-聊一聊函数式编程中的pointfree](https://juejin.im/post/6910005110663806984) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -111,7 +104,6 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-12-25-h5-页面在-ios-打开的橡皮筋效果要怎么去掉，有没有相关的配置啥的？](https://www.v2ex.com/t/738796) 
 - [2020-12-25-Cleave.js：Web-表单开发之实时格式化显示](https://toutiao.io/k/pqc388o) 
 - [2020-12-24-流行网管软件厂商SolarWinds供应链攻击事件预警](https://sec.thief.one/article_content?a_id=474510d852866a98c6d6110504988c91) 
 - [2020-12-24-研究人员分享了SolarWinds攻击事件的受害者名单](https://sec.thief.one/article_content?a_id=58b6c0ed573945926f59d874560d7794) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-25 03:17:06，:rocket: 更新条数: +923， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-25 03:20:49，:rocket: 更新条数: +3920， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -46,13 +46,13 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2020-12-25-12月24日全国新增确诊病例14例-本土病例7例](http://m.china.caixin.com/m/2020-12-25/101643109.html) ![](assets/new.png)  
+- [2020-12-25-大流行手记|12月24日：又一新冠病毒变种致南非疫情恶化-瑞士接种新冠疫苗](https://m.caixin.com/m/2020-12-25/101643095.html) ![](assets/new.png)  
+- [2020-12-24-北京新增2例无症状感染者-分别来自顺义、西城](http://m.china.caixin.com/m/2020-12-24/101642943.html) ![](assets/new.png)  
+- [2020-12-24-北京顺义确认1例无症状感染者-所在小区近2000居民检测核酸](http://m.china.caixin.com/m/2020-12-24/101642786.html) ![](assets/new.png)  
+- [2020-12-24-【境内疫情观察】辽宁新增6例本土病例（12月23日）](http://m.database.caixin.com/m/2020-12-24/101642864.html) ![](assets/new.png)  
+- [2020-12-24-大流行手记|12月23日：新冠变异毒株已蔓延全英-韩日均新增近千确诊病例](http://m.international.caixin.com/m/2020-12-24/101642730.html) ![](assets/new.png)  
+- [2020-12-23-广东新冠疫苗接种已达18万例-重点人群免费](http://m.china.caixin.com/m/2020-12-23/101642689.html) ![](assets/new.png)  
+- [2020-12-23-分析|香港第四波疫情为何持续难平？](http://m.china.caixin.com/m/2020-12-23/101642685.html) ![](assets/new.png)  
+- [2020-12-23-变异病毒多地蔓延-香港两名留学生疑似感染](http://m.china.caixin.com/m/2020-12-23/101642584.html) ![](assets/new.png)  
+- [2020-12-23-沈阳发现1例核检阳性-进入战时状态](http://m.china.caixin.com/m/2020-12-23/101642569.html) ![](assets/new.png)  
+- [2020-12-23-【境内疫情观察】大连开展第二次全员核酸检测（12月22日）](http://m.database.caixin.com/m/2020-12-23/101642335.html) ![](assets/new.png)  
+- [2020-12-23-大流行手记|12月22日：英国变异病毒或更易感染儿童-欧盟批准辉瑞疫苗上市](http://m.international.caixin.com/m/2020-12-23/101642246.html) ![](assets/new.png)  
+- [2020-12-23-新冠疫苗重点人群接种进行时：基层如何准备？](https://m.caixin.com/m/2020-12-23/101642325.html) ![](assets/new.png)  
+- [2020-12-23-中国暂停中英间往返航班](http://m.companies.caixin.com/m/2020-12-23/101642535.html) ![](assets/new.png)  
+- [2020-12-23-日本海上自卫队一二把手确诊新冠-忧暴发集体感染](http://m.international.caixin.com/m/2020-12-23/101642424.html) ![](assets/new.png)  
+- [2020-12-22-大连单日新增8例新冠核酸阳性-将全市核酸检测](https://m.caixin.com/m/2020-12-22/101642218.html) ![](assets/new.png)  
+- [2020-12-22-【境内疫情观察】辽宁新增2例本土病例（12月21日）](http://m.database.caixin.com/m/2020-12-22/101641958.html) ![](assets/new.png)  
+- [2020-12-22-大流行手记|12月21日：英国变异病毒影响扩大-美国多州疫苗供应不足](http://m.international.caixin.com/m/2020-12-22/101641821.html) ![](assets/new.png)  
+- [2020-12-22-聚焦|张文宏：英国突变株并不意外，降低疫苗效力可能性不大](http://m.opinion.caixin.com/m/2020-12-22/101641809.html) ![](assets/new.png)  
+- [2020-12-21-最新海外疫情：新冠感染超7672万-累计死亡超168万](http://m.international.caixin.com/m/2020-12-21/101641652.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -76,6 +96,11 @@
 </summary>
 
 
+- [2020-12-25-国家卫健委：24日新增新冠肺炎确诊病例14例-境外输入7例-本土7例（均在辽宁）](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibjAwNb8zHhiIGdBoV1y8201225&isfromapp=1) ![](assets/new.png)  
+- [2020-12-25-大连市新增7例本土确诊病例-1例本土无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibtbFHcMjJfIbVITk99nm201225&isfromapp=1) ![](assets/new.png)  
+- [2020-12-25-西城区无症状感染者所在社区人群核酸检测结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOJk40ehZ2B7odK1kUCbQ201225&isfromapp=1) ![](assets/new.png)  
+- [2020-12-24-确诊病例数居高不下-希腊部分地区防疫限制措施延长至12月30日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3DgnKxh39B38G93BLDwi201225&isfromapp=1) ![](assets/new.png)  
+- [2020-12-24-土耳其从中国引进疫苗-土部长：试验结果表明中国疫苗安全有效](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyydQrdv7WybV09V769zQ201225&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -849,6 +874,11 @@
 </summary>
 
 
+- [2020-12-24-5分钟带你搞懂-Javascript-中的this（包含apply、call、bind）](https://juejin.im/post/6910015962058063885) ![](assets/new.png)  
+- [2020-12-24-备战2021：vite工程化实践，建议收藏](https://juejin.im/post/6910014283707318279) ![](assets/new.png)  
+- [2020-12-24-Vue3丨从-5-个维度来讲-Vue3-变化](https://juejin.im/post/6910009240053055496) ![](assets/new.png)  
+- [2020-12-24-聊一聊函数式编程中的pointfree](https://juejin.im/post/6910005110663806984) ![](assets/new.png)  
+- [2020-12-24-flutter开发指南-for-前端开发工程师](https://juejin.im/post/6910004411217477640) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -995,6 +1025,26 @@
 </summary>
 
 
+- [2020-12-25-你懂SOLID原则吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14075&url=https%3A%2F%2Finsights.thoughtworks.cn%2Funderstand-solid-principles%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-码仔漫画：如何跟女朋友-“四次挥手”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14074&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzYwMTk1NA%3D%3D%26amp%3Bmid%3D2247505237%26amp%3Bidx%3D1%26amp%3Bsn%3D30eefd9dba9a72652c21dfb63df9eb07%26amp%3Bchksm%3D96ce7418a1b9fd0ecf79e16bb1a925366c7d3230876b9eb3a3620c55289539c55441dddf8a35%26amp%3Btoken%3D350405865%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-海外加速，让你拥有和-Steam-一样的高速下载-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14073&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F338723803%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-云原生网络代理（MOSN）的进化之路-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14072&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F338446678%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-鸿蒙和安卓，到底有什么区别？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14071&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpIDFvC_0XkYbfEEInso9_w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-App-Store-上架被拒，上架过程的辛酸~~~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14070&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDaLgyPbqhJMhAUgKaIE7vQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-为什么说-Flutter-可能不是下一件大事？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14069&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaR8DQea8aUsD0JOMm90rKA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-Android：MVVM-的工作原理之创建、销毁、保存、复用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14067&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXjyJg7Or8vYL-t24xtDVYQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-华为鸿蒙手机终于要来了！App生态已解决，网友：炸了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14066&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPK2k-1n9UI02IoNIPAFOVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-最详细从零开始配置-TypeScript-项目的教程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14065&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FX-MvwZN4ntOwt53pDg4OXQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-你还不知道？有的软件会偷偷打开你的摄像头或麦克风-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14064&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkrpdMAqcyuiUyVJEiJHHaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-IntelliJ-IDEA-最常用配置-详细图解（收藏篇）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14063&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaKQ5xxW5wWQRpL_ZXJPDHg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-豆瓣经典编程图书Top-10，你知道几本？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14062&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff25aSC7OqRyvQQzK5p6iBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-百度开源的-71-个炸天项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14061&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwkviR_XyJJAcy7PlxKfAog%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-互联网公司忽悠员工的黑话，套路太深了。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14060&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBOMYOpOat6V-rsxDjMNsfA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-学着爬取了某-Hub-资源，只为撸这个鉴黄平台！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14059&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwFZt0vCmnK81EGuaTV3TgQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-程序员的五种不同寻常的特质-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14058&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFX9RB3BAD4FYksP0ZTVbMQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-94-年出生，她们如今都是-985-高校博士生导师-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14057&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIgSviSWVjNDirM-OugOvKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-12-25-服务器标配-SSH-协议，你了解多少？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14056&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F337890515%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-24 23:52:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 00:03:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -21,6 +21,7 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
+- [2020-12-24-土耳其从中国引进疫苗-土部长：试验结果表明中国疫苗安全有效](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyydQrdv7WybV09V769zQ201225&isfromapp=1) 
 - [2020-12-14-跨域，不止CORS](https://www.ershicimi.com/p/4c1957186e134e081e700b2fc46e7733) 
 - [2020-12-11-前端前沿观察，Cookie-居然可以这样整了](https://www.ershicimi.com/p/bfd223b8e85452ebd67a19509a3d6021) 
 - [2020-12-20-前端周报：华为发布鸿蒙系统手机开发者-Beta-版；上百万用户安装恶意Chrome扩展；Window](https://www.ershicimi.com/p/b1f4e59cf2defe8c07951d305243d5d2) 
@@ -45,8 +46,8 @@
 - [2020-12-24-怎样把接受到的网络请求作为-tasker-触发条件？](https://www.v2ex.com/t/738748) 
 - [2020-12-24-不是不想支持-Firefox，真的是它的新版本太多-crash-了](https://www.v2ex.com/t/738737) 
 - [2020-12-24-分享我做的两个东西,-Chrome/Firefox-首页扩展-和-背单词软件](https://www.v2ex.com/t/738709) 
-- [2020-12-24-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-12-24-译-以太坊智能合约安全开发建议](https://toutiao.io/k/y4ag2k5) 
+- [2020-12-25-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-12-25-译-以太坊智能合约安全开发建议](https://toutiao.io/k/y4ag2k5) 
 - [2020-12-24-“女性买房猛增”揭露一个扎心真相:成年人的安全感,只能自己给](https://sec.thief.one/article_content?a_id=e3bae6e021adbf33b269c55835790259) 
 - [2020-12-24-再获认可-|-微步在线入选“2020网络安全产业百强”](https://sec.thief.one/article_content?a_id=97d8a1432895b49ba974635c60132d1f) 
 - [2020-12-24-南开大学网络空间安全学院人才招聘](https://sec.thief.one/article_content?a_id=a11a7645219e1cc74741335f11499610) 

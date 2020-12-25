@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 04:55:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 05:07:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -20,6 +20,7 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-12-22-前端性能优化之自定义性能指标及上报方法详解](https://www.ershicimi.com/p/b202d42ddce89da17847ef223591e653) 
+- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-12-25-Pulsar-和-Kafka-基准测试：Pulsar-性能精准解析（完整版）](https://toutiao.io/k/ntpn1n8) 
 - [2020-12-25-边缘渲染在首屏性能优化上的尝试与突破](https://toutiao.io/k/e900d9u) 
 - [2020-12-25-推荐-性能提高-15-倍！只是把-MySQL-换成了-ClickHouse](https://toutiao.io/k/221a7sh) 

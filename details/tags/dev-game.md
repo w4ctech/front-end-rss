@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 04:55:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 05:07:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -30,5 +30,4 @@
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-12-25-设计了一个线下剧本杀（游戏），让陌生人一起来玩，不知道有没有市场](https://www.v2ex.com/t/738840) 
 - [2020-12-25-不懂就问，游戏的汉化包是怎么制作的？](https://www.v2ex.com/t/738825) 
-- [2020-12-25-Enpass-开始玩文字游戏了](https://www.v2ex.com/t/738817) 
 - [2020-12-25-游戏安全：某某游戏的反外挂检测](https://toutiao.io/k/6qciv7q) 

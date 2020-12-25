@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 10:14:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 10:40:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,16 +8,11 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-12-25-OPPO终端安全岗位招聘火热进行中](https://sec.thief.one/article_content?a_id=b096fc5aa921e06955824eeddb646454) 
 - [2020-12-25-招聘-|-腾讯安全专家咨询中心web安全岗位招聘](https://sec.thief.one/article_content?a_id=ff153fe656a3bbeace4d47d4261b04d6) 
 - [2020-12-25-个人信息保护伞-|-绿盟BMG守护政府网站业务安全](https://sec.thief.one/article_content?a_id=0afdf6d059c674f0e46577aedd6e6846) 
+- [2020-12-25-2020北向峰会召开,京东安全探索甲方安全建设破局之道](https://sec.thief.one/article_content?a_id=3ab38282feefdec880e8ab1352f0a70d) 
+- [2020-12-25-SolarWinds前员工披露:公司长期存在漏洞、管理层极不重视安全](https://sec.thief.one/article_content?a_id=3302c958cbb42aaa4a31e1688dbf202c) 
 - [2020-12-25-嘶吼2020网络安全产业百强调研结果发布](https://sec.thief.one/article_content?a_id=1d39d20c26af67edda41787eeeae453a) 
 - [2020-12-25-远程办公安全,只有30%的企业准备好了](https://sec.thief.one/article_content?a_id=60ed2cdeae730ca525246b2bca269f0b) 
 - [2020-12-25-信息安全学习经验分享](https://sec.thief.one/article_content?a_id=938e09b4195c128b61d9930346174768) 
@@ -37,5 +32,3 @@
 - [2020-12-23-Chrome内存占用高的问题有望被解决](https://sec.thief.one/article_content?a_id=ea3a46d1f07f164e1b066ce71059d1ec) 
 - [2020-12-23-聚势共赢-共建行业生态发展——2020网络安全行业生态大会暨金帽子...](https://sec.thief.one/article_content?a_id=224be270e029f1b2c1bceea181bf0851) 
 - [2020-12-23-感谢信-|-国舜股份网络安全防御能力获贵阳银行认可](https://sec.thief.one/article_content?a_id=b0f62f5d87b7715f366d11b33ac47dd0) 
-- [2020-12-23-《工业互联网数据安全白皮书-2020-》发布-附下载](https://sec.thief.one/article_content?a_id=fd7142486a3135a90c693b6b92f64210) 
-- [2020-12-23-PPT下载-I-2020滴滴网络安全峰会](https://sec.thief.one/article_content?a_id=e5e7af35acf49d8929730269ca2598a5) 

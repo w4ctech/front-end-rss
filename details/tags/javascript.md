@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 04:11:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 04:15:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -52,6 +52,9 @@
 - [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
 - [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
 - [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) 
+- [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
+- [2020-12-14-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/06af08880240e0908248ba052a0e73d8) 
+- [2020-12-13-前端周报：JS-诞生-25-周年；微软将强行升级部分旧版本Win-10用户；将编程纳入中小学课程，程](https://www.ershicimi.com/p/8f15bc65ae313923ec2405b52d2ee580) 
 - [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 
 - [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
@@ -97,6 +100,8 @@
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
 - [2020-12-15-clipboard.js-的源码分析](https://www.ershicimi.com/p/90113ff600b53542b3b9cb943ec93e7e) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
+- [2020-12-24-使用JS实现图文混发](https://juejin.im/post/6910038190829076488) 
+- [2020-12-24-5分钟带你搞懂-Javascript-中的this（包含apply、call、bind）](https://juejin.im/post/6910015962058063885) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

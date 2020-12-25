@@ -267,6 +267,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化",
+        "link": "https://aotu.io/notes/2020/12/25/ling-ai-design/",
+        "date": "2020-12-25"
+      },
+      {
         "title": "凹凸实验室的过去与未来",
         "link": "https://aotu.io/notes/2020/12/24/aotu-5-year/",
         "date": "2020-12-24"
@@ -277,13 +282,13 @@
         "date": "2020-11-30"
       },
       {
-        "title": "MongoDB 副本集之入门篇",
-        "link": "https://aotu.io/notes/2020/11/12/mongo-replica-set/",
+        "title": "React 入门儿",
+        "link": "https://aotu.io/notes/2020/11/12/react-indoor/",
         "date": "2020-11-12"
       },
       {
-        "title": "React 入门儿",
-        "link": "https://aotu.io/notes/2020/11/12/react-indoor/",
+        "title": "MongoDB 副本集之入门篇",
+        "link": "https://aotu.io/notes/2020/11/12/mongo-replica-set/",
         "date": "2020-11-12"
       },
       {
@@ -982,13 +987,13 @@
         "date": "2016-11-28"
       },
       {
-        "title": "FIGlet初识",
-        "link": "https://aotu.io/notes/2016/11/22/figlet/",
+        "title": "三看 SVG Web 动效",
+        "link": "https://aotu.io/notes/2016/11/22/SVG_Web_Animation/",
         "date": "2016-11-22"
       },
       {
-        "title": "三看 SVG Web 动效",
-        "link": "https://aotu.io/notes/2016/11/22/SVG_Web_Animation/",
+        "title": "FIGlet初识",
+        "link": "https://aotu.io/notes/2016/11/22/figlet/",
         "date": "2016-11-22"
       },
       {
@@ -1042,13 +1047,13 @@
         "date": "2016-11-07"
       },
       {
-        "title": "AdobeMax 2016回顾",
-        "link": "https://aotu.io/notes/2016/11/02/AdobeMax2016/",
+        "title": "border-image 的正确用法",
+        "link": "https://aotu.io/notes/2016/11/02/border-image/",
         "date": "2016-11-02"
       },
       {
-        "title": "border-image 的正确用法",
-        "link": "https://aotu.io/notes/2016/11/02/border-image/",
+        "title": "AdobeMax 2016回顾",
+        "link": "https://aotu.io/notes/2016/11/02/AdobeMax2016/",
         "date": "2016-11-02"
       },
       {

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 09:14:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-25 09:41:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -128,6 +128,7 @@
 - [【阮一峰的网络日志】2020-12-25-科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html) 
 - [【阮一峰的网络日志】2020-12-18-科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html) 
 - [【阮一峰的网络日志】2020-12-13-《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html) 
+- [【凹凸实验室】2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) 
 - [【凹凸实验室】2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) 
 - [【安全热点】2020-12-25-暴涨吧比特币,27000美金参见!](https://sec.thief.one/article_content?a_id=1c97fb9deab75a03f620c8ab29889875) 
 - [【安全热点】2020-12-25-2.8-万-Star!制作数学动画的超棒工具:Manim](https://sec.thief.one/article_content?a_id=3c7e83c9314d41acbf0b1eeb12324c03) 
@@ -244,8 +245,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-11-25-突发奇想，同步单复选框checked态岂不点击通杀？](https://www.zhangxinxu.com/wordpress/2020/11/label-sync-radio-checkbox-checked/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) 
 - [【凹凸实验室】2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) 
-- [【凹凸实验室】2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) 
 - [【凹凸实验室】2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) 
+- [【凹凸实验室】2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) 
 - [【凹凸实验室】2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -818,8 +819,8 @@
 
 
 - [【凹凸实验室】2016-11-28-css3-animation-属性众妙](https://aotu.io/notes/2016/11/28/css3-animation-properties/) 
-- [【凹凸实验室】2016-11-22-FIGlet初识](https://aotu.io/notes/2016/11/22/figlet/) 
 - [【凹凸实验室】2016-11-22-三看-SVG-Web-动效](https://aotu.io/notes/2016/11/22/SVG_Web_Animation/) 
+- [【凹凸实验室】2016-11-22-FIGlet初识](https://aotu.io/notes/2016/11/22/figlet/) 
 - [【凹凸实验室】2016-11-21-「塔罗牌」---轻氧-V1.4-尝鲜体验邀请](https://aotu.io/notes/2016/11/21/liteo2-app-tarots/) 
 - [【凹凸实验室】2016-11-17-正则表达式理论篇](https://aotu.io/notes/2016/11/17/regexp-theory/) 
 - [【凹凸实验室】2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/) 
@@ -830,8 +831,8 @@
 - [【凹凸实验室】2016-11-08-深入了解font-weight](https://aotu.io/notes/2016/11/08/css3fontweight/) 
 - [【凹凸实验室】2016-11-08-我的第一次移动端页面制作-—-总结与思考](https://aotu.io/notes/2016/11/08/first-mobile-rebuild/) 
 - [【凹凸实验室】2016-11-07-APNG-那些事](https://aotu.io/notes/2016/11/07/apng/) 
-- [【凹凸实验室】2016-11-02-AdobeMax-2016回顾](https://aotu.io/notes/2016/11/02/AdobeMax2016/) 
 - [【凹凸实验室】2016-11-02-border-image-的正确用法](https://aotu.io/notes/2016/11/02/border-image/) 
+- [【凹凸实验室】2016-11-02-AdobeMax-2016回顾](https://aotu.io/notes/2016/11/02/AdobeMax2016/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

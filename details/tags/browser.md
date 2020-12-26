@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-26 00:03:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-26 00:23:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,7 +16,9 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-12-25-【安全圈】泄露文件曝光任天堂侵入性监控黑客行动](https://sec.thief.one/article_content?a_id=afd16339efafc4bf6b0c15273753797e) 
 - [2020-12-25-OPPO终端安全岗位招聘火热进行中](https://sec.thief.one/article_content?a_id=b096fc5aa921e06955824eeddb646454) 
+- [2020-12-25-企业安全后期运营建设:从细微之处看起](https://sec.thief.one/article_content?a_id=5e8499f5b86a096033e20366a59f830e) 
 - [2020-12-25-招聘-|-腾讯安全专家咨询中心web安全岗位招聘](https://sec.thief.one/article_content?a_id=ff153fe656a3bbeace4d47d4261b04d6) 
 - [2020-12-25-个人信息保护伞-|-绿盟BMG守护政府网站业务安全](https://sec.thief.one/article_content?a_id=0afdf6d059c674f0e46577aedd6e6846) 
 - [2020-12-25-2020北向峰会召开,京东安全探索甲方安全建设破局之道](https://sec.thief.one/article_content?a_id=3ab38282feefdec880e8ab1352f0a70d) 
@@ -38,5 +40,3 @@
 - [2020-12-23-绿盟科技出席2020年第十届电信和互联网行业网络安全年会](https://sec.thief.one/article_content?a_id=45210591e2524093f5b8bf663a656742) 
 - [2020-12-23-招聘-|-VIPKID招聘安全工程师](https://sec.thief.one/article_content?a_id=02ae00478f267ab38eb2e027c4f6c42e) 
 - [2020-12-23-Chrome内存占用高的问题有望被解决](https://sec.thief.one/article_content?a_id=ea3a46d1f07f164e1b066ce71059d1ec) 
-- [2020-12-23-聚势共赢-共建行业生态发展——2020网络安全行业生态大会暨金帽子...](https://sec.thief.one/article_content?a_id=224be270e029f1b2c1bceea181bf0851) 
-- [2020-12-23-感谢信-|-国舜股份网络安全防御能力获贵阳银行认可](https://sec.thief.one/article_content?a_id=b0f62f5d87b7715f366d11b33ac47dd0) 

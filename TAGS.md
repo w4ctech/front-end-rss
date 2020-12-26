@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-26 05:12:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-26 05:16:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -351,8 +351,8 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【安全热点】【视频】|-Python:集合对称差集和总结](https://sec.thief.one/article_content?a_id=e752002bfd380c649eabf84181083356)
 - [【安全热点】【视频】|-关键信息基础设施保护相关政策重点解析](https://sec.thief.one/article_content?a_id=be7933f08a9b6df7a230c1a6430110a5)
-- [【安全热点】年度直播丨欢笑不断好礼不停,超嗨跨年没你不行!](https://sec.thief.one/article_content?a_id=b86883a285017c0cbe5c3cac8d76fca4)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -402,6 +402,7 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【安全热点】全面转向IPv6,美国政府如何规划安全策略?](https://sec.thief.one/article_content?a_id=65537629529fa11770815fd12f0060d7)
 - [【安全热点】【安全圈】泄露文件曝光任天堂侵入性监控黑客行动](https://sec.thief.one/article_content?a_id=afd16339efafc4bf6b0c15273753797e)
 - [【安全热点】OPPO终端安全岗位招聘火热进行中](https://sec.thief.one/article_content?a_id=b096fc5aa921e06955824eeddb646454)
 - [【安全热点】企业安全后期运营建设:从细微之处看起](https://sec.thief.one/article_content?a_id=5e8499f5b86a096033e20366a59f830e)
@@ -412,7 +413,6 @@
 - [【安全热点】嘶吼2020网络安全产业百强调研结果发布](https://sec.thief.one/article_content?a_id=1d39d20c26af67edda41787eeeae453a)
 - [【安全热点】远程办公安全,只有30%的企业准备好了](https://sec.thief.one/article_content?a_id=60ed2cdeae730ca525246b2bca269f0b)
 - [【安全热点】信息安全学习经验分享](https://sec.thief.one/article_content?a_id=938e09b4195c128b61d9930346174768)
-- [【安全热点】【安全圈】Project-Zero-团队披露微软尚未完全修复的-Windows-10-提...](https://sec.thief.one/article_content?a_id=1b378a714abaa5e2e0d57d09670277a5)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

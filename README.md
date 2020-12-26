@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-26 05:12:39，:rocket: 更新条数: +361， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-26 05:16:47，:rocket: 更新条数: +361， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -537,6 +537,12 @@
 </summary>
 
 
+- [2020-12-26-记一次传销诈骗网站的渗透测试](https://sec.thief.one/article_content?a_id=e4d09dc12cf1405b0ed62a212c8dd710) ![](assets/new.png)  
+- [2020-12-26-揭开Apple-macOS-6LowPAN漏洞CVE-2020-9967的神秘面纱](https://sec.thief.one/article_content?a_id=4229d32fe995e69cd4a4fcc42d86ef67) ![](assets/new.png)  
+- [2020-12-26-【视频】|-Python:集合对称差集和总结](https://sec.thief.one/article_content?a_id=e752002bfd380c649eabf84181083356) ![](assets/new.png)  
+- [2020-12-26-全面转向IPv6,美国政府如何规划安全策略?](https://sec.thief.one/article_content?a_id=65537629529fa11770815fd12f0060d7) ![](assets/new.png)  
+- [2020-12-26-2020最新款笔记本写代码真香,免费送一台!](https://sec.thief.one/article_content?a_id=ca8b5f31153c42796c2b792441fd417a) ![](assets/new.png)  
+- [2020-12-26-勒索软件攻击将变得更具破坏性](https://sec.thief.one/article_content?a_id=a043ac7cfca7f9b495dc625daa2a75e6) ![](assets/new.png)  
 - [2020-12-25-中央网信办召开全办干部大会传达学习中央经济工作会议精神](https://sec.thief.one/article_content?a_id=9e4bc26a7b0b3058b461f57d251c22b0) ![](assets/new.png)  
 - [2020-12-25-6-个“吓人”的-Linux-命令](https://sec.thief.one/article_content?a_id=311c508c986886f2886fac84085cbd8d) ![](assets/new.png)  
 - [2020-12-25-【安全圈】泄露文件曝光任天堂侵入性监控黑客行动](https://sec.thief.one/article_content?a_id=afd16339efafc4bf6b0c15273753797e) ![](assets/new.png)  
@@ -551,12 +557,6 @@
 - [2020-12-25-如何快速构建内部钓鱼平台](https://sec.thief.one/article_content?a_id=066e95aaf141efe4127f833bf9c82f48) ![](assets/new.png)  
 - [2020-12-25-【漏洞通告】TerraMaster-TOS多个漏洞通告](https://sec.thief.one/article_content?a_id=7d574f594e94e7cbfa8b39d5a5945ae2) ![](assets/new.png)  
 - [2020-12-25-2020北向峰会召开,京东安全探索甲方安全建设破局之道](https://sec.thief.one/article_content?a_id=3ab38282feefdec880e8ab1352f0a70d) ![](assets/new.png)  
-- [2020-12-25-SolarWinds前员工披露:公司长期存在漏洞、管理层极不重视安全](https://sec.thief.one/article_content?a_id=3302c958cbb42aaa4a31e1688dbf202c) ![](assets/new.png)  
-- [2020-12-25-Metasploit凭证入库](https://sec.thief.one/article_content?a_id=293f489d3964e67c0a5bf97974262e76) ![](assets/new.png)  
-- [2020-12-25-她只不过打了辛巴的假,却因隐私泄漏而遭“网暴”](https://sec.thief.one/article_content?a_id=c42d6374b4265937929e03373f48b446) ![](assets/new.png)  
-- [2020-12-25-Eclipse-官宣,干掉-VS-Code-!](https://sec.thief.one/article_content?a_id=538265cc1a3489f4cae15559083f297b) ![](assets/new.png)  
-- [2020-12-25-CSRC阅读大会邀请你来投稿啦](https://sec.thief.one/article_content?a_id=75662b13c1053f6c9f4d5c2b21b3f838) ![](assets/new.png)  
-- [2020-12-25-调查:2020年几乎每5个澳大利亚人中就有1人拥有加密货币](https://sec.thief.one/article_content?a_id=a0eded0c9460356963584c91bac5b82f) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

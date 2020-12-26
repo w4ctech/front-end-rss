@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-26 05:12:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-26 05:16:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,7 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-12-26-全面转向IPv6,美国政府如何规划安全策略?](https://sec.thief.one/article_content?a_id=65537629529fa11770815fd12f0060d7) 
 - [2020-12-25-【安全圈】泄露文件曝光任天堂侵入性监控黑客行动](https://sec.thief.one/article_content?a_id=afd16339efafc4bf6b0c15273753797e) 
 - [2020-12-25-OPPO终端安全岗位招聘火热进行中](https://sec.thief.one/article_content?a_id=b096fc5aa921e06955824eeddb646454) 
 - [2020-12-25-企业安全后期运营建设:从细微之处看起](https://sec.thief.one/article_content?a_id=5e8499f5b86a096033e20366a59f830e) 
@@ -38,5 +39,3 @@
 - [2020-12-24-Web安全:弱口令猜解和综合管理工具](https://sec.thief.one/article_content?a_id=86e5545880a342969698da19574a1c1d) 
 - [2020-12-23-【安全圈】“白帽黑客”95万次高强度模拟攻击无人得手,牛!](https://sec.thief.one/article_content?a_id=ccb0995cfdc17187f3f4299dad90c826) 
 - [2020-12-23-绿盟科技出席2020年第十届电信和互联网行业网络安全年会](https://sec.thief.one/article_content?a_id=45210591e2524093f5b8bf663a656742) 
-- [2020-12-23-招聘-|-VIPKID招聘安全工程师](https://sec.thief.one/article_content?a_id=02ae00478f267ab38eb2e027c4f6c42e) 
-- [2020-12-23-Chrome内存占用高的问题有望被解决](https://sec.thief.one/article_content?a_id=ea3a46d1f07f164e1b066ce71059d1ec) 

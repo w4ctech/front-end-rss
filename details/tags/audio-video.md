@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-26 05:12:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-26 05:16:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -12,5 +12,5 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-12-26-【视频】|-Python:集合对称差集和总结](https://sec.thief.one/article_content?a_id=e752002bfd380c649eabf84181083356) 
 - [2020-12-25-【视频】|-关键信息基础设施保护相关政策重点解析](https://sec.thief.one/article_content?a_id=be7933f08a9b6df7a230c1a6430110a5) 
-- [2020-12-23-年度直播丨欢笑不断好礼不停,超嗨跨年没你不行!](https://sec.thief.one/article_content?a_id=b86883a285017c0cbe5c3cac8d76fca4) 

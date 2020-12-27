@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-27 00:03:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-27 00:25:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,7 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-12-26-用奥运标准培养网络安全尖兵-第四届“蓝帽杯”大赛举行颁奖典礼](https://sec.thief.one/article_content?a_id=aab5a04666def7ce81079657a5396318) 
 - [2020-12-26-全面转向IPv6,美国政府如何规划安全策略?](https://sec.thief.one/article_content?a_id=65537629529fa11770815fd12f0060d7) 
 - [2020-12-25-【安全圈】泄露文件曝光任天堂侵入性监控黑客行动](https://sec.thief.one/article_content?a_id=afd16339efafc4bf6b0c15273753797e) 
 - [2020-12-25-OPPO终端安全岗位招聘火热进行中](https://sec.thief.one/article_content?a_id=b096fc5aa921e06955824eeddb646454) 
@@ -37,4 +38,3 @@
 - [2020-12-24-进军工业互联网安全!国舜股份携手中化国际共建工业企业网络安全综...](https://sec.thief.one/article_content?a_id=29c0e2fd73d2b7c387eabca27d6693ab) 
 - [2020-12-24-2021年网络安全高级研修班邀请函](https://sec.thief.one/article_content?a_id=eabe1e8e7bcefac31c1b624b343729e0) 
 - [2020-12-24-Web安全:弱口令猜解和综合管理工具](https://sec.thief.one/article_content?a_id=86e5545880a342969698da19574a1c1d) 
-- [2020-12-23-【安全圈】“白帽黑客”95万次高强度模拟攻击无人得手,牛!](https://sec.thief.one/article_content?a_id=ccb0995cfdc17187f3f4299dad90c826) 

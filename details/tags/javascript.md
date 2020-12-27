@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-27 11:27:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-27 11:41:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -10,5 +10,4 @@
 - [2020-12-24-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) 
 - [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
 - [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-12-24-流行网管软件厂商SolarWinds供应链攻击事件预警](https://sec.thief.one/article_content?a_id=474510d852866a98c6d6110504988c91) 

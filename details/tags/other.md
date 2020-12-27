@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-27 11:27:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-27 11:41:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -10,12 +10,6 @@
 - [2020-12-25-科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html) 
 - [2020-12-18-科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html) 
 - [2020-12-13-《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html) 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 - [2020-12-27-#年度评选#-2020-看雪年度版主评选中,为他打call!](https://sec.thief.one/article_content?a_id=e380fd25fcf4bb91c9dcb0e8f13814d0) 
 - [2020-12-27-难忘!30句话回顾一起走过的2020](https://sec.thief.one/article_content?a_id=b1731bcdaaa674742f01aa8fbe7f707b) 
 - [2020-12-27-不二论币:比特币力挽狂澜,3万指日可待.](https://sec.thief.one/article_content?a_id=6b02dfb5b5698ad81df473468034c79f) 

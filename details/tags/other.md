@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-27 05:17:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-27 05:41:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -71,6 +71,8 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-12-27-全球勒索特遣队成立!](https://sec.thief.one/article_content?a_id=f1309fd6c4ec58e05aff62e0553327c2) 
+- [2020-12-27-微软和McAfee联合成立“勒索软件特别工作组”](https://sec.thief.one/article_content?a_id=ffc212c09b02aa29268f8a7d27abed68) 
 - [2020-12-27-企业如何选择适合的SOC模型?](https://sec.thief.one/article_content?a_id=626f70e51c8354f8a6a2d124dd59b8ef) 
 - [2020-12-27-字节跳动员工晒出税后工资,网友:怀疑你是日薪](https://sec.thief.one/article_content?a_id=2dded53de037ac4908aa2ad750637543) 
 - [2020-12-27-B站,被扫黄了](https://sec.thief.one/article_content?a_id=014cde342ade0a55d4165cc555931282) 
@@ -137,5 +139,3 @@
 - [2020-12-24-Hi-您有一份圣诞礼物待签收](https://sec.thief.one/article_content?a_id=77eae00ebf22216d792d0d453700d312) 
 - [2020-12-24-勒索软件的下一个热门目标:工业控制系统](https://sec.thief.one/article_content?a_id=04331c16e9254b552aa4b4c69d7afcdf) 
 - [2020-12-24-云鼎百科|平安夜如何更平安?《真相只有一个》](https://sec.thief.one/article_content?a_id=03ddd1ac644cefd546817ab715b43841) 
-- [2020-12-24-活动-|-圣诞节送豪礼!](https://sec.thief.one/article_content?a_id=803dc825ab88cc0aa4d2f819e9c28e59) 
-- [2020-12-24-白帽汇脱颖而出成功入选为2020年北京市首批“专精特小”中小企业](https://sec.thief.one/article_content?a_id=f9776be8f363de875a0d4417dc8a3680) 

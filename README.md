@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-27 05:17:53，:rocket: 更新条数: +361， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-27 05:41:23，:rocket: 更新条数: +361， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -537,6 +537,8 @@
 </summary>
 
 
+- [2020-12-27-全球勒索特遣队成立!](https://sec.thief.one/article_content?a_id=f1309fd6c4ec58e05aff62e0553327c2) ![](assets/new.png)  
+- [2020-12-27-微软和McAfee联合成立“勒索软件特别工作组”](https://sec.thief.one/article_content?a_id=ffc212c09b02aa29268f8a7d27abed68) ![](assets/new.png)  
 - [2020-12-27-【视频】|-数据安全体系建设的探索与实践](https://sec.thief.one/article_content?a_id=d1d2d81b592c06a9e12d6aa5338142b5) ![](assets/new.png)  
 - [2020-12-27-企业如何选择适合的SOC模型?](https://sec.thief.one/article_content?a_id=626f70e51c8354f8a6a2d124dd59b8ef) ![](assets/new.png)  
 - [2020-12-27-字节跳动员工晒出税后工资,网友:怀疑你是日薪](https://sec.thief.one/article_content?a_id=2dded53de037ac4908aa2ad750637543) ![](assets/new.png)  
@@ -555,8 +557,6 @@
 - [2020-12-26-记一次传销诈骗网站的渗透测试](https://sec.thief.one/article_content?a_id=e4d09dc12cf1405b0ed62a212c8dd710) ![](assets/new.png)  
 - [2020-12-26-揭开Apple-macOS-6LowPAN漏洞CVE-2020-9967的神秘面纱](https://sec.thief.one/article_content?a_id=4229d32fe995e69cd4a4fcc42d86ef67) ![](assets/new.png)  
 - [2020-12-26-手把手教你做挖矿应急响应](https://sec.thief.one/article_content?a_id=f11e4c673d67847037844bebe7035f9c) ![](assets/new.png)  
-- [2020-12-26-欧洲刑警组织为执法部门推出新的解密平台](https://sec.thief.one/article_content?a_id=f469de946c06f38b3c79f4df17a0fb2b) ![](assets/new.png)  
-- [2020-12-26-【视频】|-Python:集合对称差集和总结](https://sec.thief.one/article_content?a_id=e752002bfd380c649eabf84181083356) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

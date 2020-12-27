@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-27 05:17:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-27 05:41:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【阮一峰的网络日志】2020-12-13-《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html) 
 - [【凹凸实验室】2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) 
 - [【凹凸实验室】2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) 
+- [【安全热点】2020-12-27-全球勒索特遣队成立!](https://sec.thief.one/article_content?a_id=f1309fd6c4ec58e05aff62e0553327c2) 
+- [【安全热点】2020-12-27-微软和McAfee联合成立“勒索软件特别工作组”](https://sec.thief.one/article_content?a_id=ffc212c09b02aa29268f8a7d27abed68) 
 - [【安全热点】2020-12-27-【视频】|-数据安全体系建设的探索与实践](https://sec.thief.one/article_content?a_id=d1d2d81b592c06a9e12d6aa5338142b5) 
 - [【安全热点】2020-12-27-企业如何选择适合的SOC模型?](https://sec.thief.one/article_content?a_id=626f70e51c8354f8a6a2d124dd59b8ef) 
 - [【安全热点】2020-12-27-字节跳动员工晒出税后工资,网友:怀疑你是日薪](https://sec.thief.one/article_content?a_id=2dded53de037ac4908aa2ad750637543) 
@@ -228,8 +230,6 @@
 - [【安全热点】2020-12-24-研究人员分享了SolarWinds攻击事件的受害者名单](https://sec.thief.one/article_content?a_id=58b6c0ed573945926f59d874560d7794) 
 - [【安全热点】2020-12-24-勒索软件的下一个热门目标:工业控制系统](https://sec.thief.one/article_content?a_id=04331c16e9254b552aa4b4c69d7afcdf) 
 - [【安全热点】2020-12-24-云鼎百科|平安夜如何更平安?《真相只有一个》](https://sec.thief.one/article_content?a_id=03ddd1ac644cefd546817ab715b43841) 
-- [【安全热点】2020-12-24-活动-|-圣诞节送豪礼!](https://sec.thief.one/article_content?a_id=803dc825ab88cc0aa4d2f819e9c28e59) 
-- [【安全热点】2020-12-24-白帽汇脱颖而出成功入选为2020年北京市首批“专精特小”中小企业](https://sec.thief.one/article_content?a_id=f9776be8f363de875a0d4417dc8a3680) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

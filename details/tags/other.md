@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-27 10:14:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-27 10:40:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -71,6 +71,11 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-12-27-#年度评选#-2020-看雪年度版主评选中,为他打call!](https://sec.thief.one/article_content?a_id=e380fd25fcf4bb91c9dcb0e8f13814d0) 
+- [2020-12-27-难忘!30句话回顾一起走过的2020](https://sec.thief.one/article_content?a_id=b1731bcdaaa674742f01aa8fbe7f707b) 
+- [2020-12-27-不二论币:比特币力挽狂澜,3万指日可待.](https://sec.thief.one/article_content?a_id=6b02dfb5b5698ad81df473468034c79f) 
+- [2020-12-27-子域名挖掘——meltego介绍](https://sec.thief.one/article_content?a_id=56dd9edac08f289fea9b1f83a75e54c1) 
+- [2020-12-27-CVE-2020-8554:Kubernetes中间人攻击漏洞](https://sec.thief.one/article_content?a_id=d6e233b581088bf9db3ed14d18696d55) 
 - [2020-12-27-全球勒索特遣队成立!](https://sec.thief.one/article_content?a_id=f1309fd6c4ec58e05aff62e0553327c2) 
 - [2020-12-27-微软和McAfee联合成立“勒索软件特别工作组”](https://sec.thief.one/article_content?a_id=ffc212c09b02aa29268f8a7d27abed68) 
 - [2020-12-27-企业如何选择适合的SOC模型?](https://sec.thief.one/article_content?a_id=626f70e51c8354f8a6a2d124dd59b8ef) 
@@ -135,7 +140,3 @@
 - [2020-12-24-2020年度中国网络诚信十大新闻之一:《网络信息内容生态治理规定》...](https://sec.thief.one/article_content?a_id=497ec87273bb6b95baca4ac78102752a) 
 - [2020-12-24-伪造学历学位信息三千条,徐州警方打掉一伪造证件黑产链](https://sec.thief.one/article_content?a_id=e3b658277e1057ac85d2a3cc36b3ae87) 
 - [2020-12-24-DSRC五周年-Give-Me-One—2020年度白帽颁奖典礼](https://sec.thief.one/article_content?a_id=2b40b315b0ae870c925ed6b56805f65a) 
-- [2020-12-24-CVSS-10分漏洞影响Dell-Wyse-Thin客户端设备](https://sec.thief.one/article_content?a_id=76a65828fc8224bca9dfa26bb778db23) 
-- [2020-12-24-Hi-您有一份圣诞礼物待签收](https://sec.thief.one/article_content?a_id=77eae00ebf22216d792d0d453700d312) 
-- [2020-12-24-勒索软件的下一个热门目标:工业控制系统](https://sec.thief.one/article_content?a_id=04331c16e9254b552aa4b4c69d7afcdf) 
-- [2020-12-24-云鼎百科|平安夜如何更平安?《真相只有一个》](https://sec.thief.one/article_content?a_id=03ddd1ac644cefd546817ab715b43841) 

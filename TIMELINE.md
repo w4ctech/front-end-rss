@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-27 10:14:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-27 10:40:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,11 @@
 - [【阮一峰的网络日志】2020-12-13-《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html) 
 - [【凹凸实验室】2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) 
 - [【凹凸实验室】2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) 
+- [【安全热点】2020-12-27-#年度评选#-2020-看雪年度版主评选中,为他打call!](https://sec.thief.one/article_content?a_id=e380fd25fcf4bb91c9dcb0e8f13814d0) 
+- [【安全热点】2020-12-27-难忘!30句话回顾一起走过的2020](https://sec.thief.one/article_content?a_id=b1731bcdaaa674742f01aa8fbe7f707b) 
+- [【安全热点】2020-12-27-不二论币:比特币力挽狂澜,3万指日可待.](https://sec.thief.one/article_content?a_id=6b02dfb5b5698ad81df473468034c79f) 
+- [【安全热点】2020-12-27-子域名挖掘——meltego介绍](https://sec.thief.one/article_content?a_id=56dd9edac08f289fea9b1f83a75e54c1) 
+- [【安全热点】2020-12-27-CVE-2020-8554:Kubernetes中间人攻击漏洞](https://sec.thief.one/article_content?a_id=d6e233b581088bf9db3ed14d18696d55) 
 - [【安全热点】2020-12-27-全球勒索特遣队成立!](https://sec.thief.one/article_content?a_id=f1309fd6c4ec58e05aff62e0553327c2) 
 - [【安全热点】2020-12-27-微软和McAfee联合成立“勒索软件特别工作组”](https://sec.thief.one/article_content?a_id=ffc212c09b02aa29268f8a7d27abed68) 
 - [【安全热点】2020-12-27-【视频】|-数据安全体系建设的探索与实践](https://sec.thief.one/article_content?a_id=d1d2d81b592c06a9e12d6aa5338142b5) 
@@ -225,11 +230,6 @@
 - [【安全热点】2020-12-24-DSRC五周年-Give-Me-One—2020年度白帽颁奖典礼](https://sec.thief.one/article_content?a_id=2b40b315b0ae870c925ed6b56805f65a) 
 - [【安全热点】2020-12-24-2021年网络安全高级研修班邀请函](https://sec.thief.one/article_content?a_id=eabe1e8e7bcefac31c1b624b343729e0) 
 - [【安全热点】2020-12-24-把握重点任务-加快构建新发展格局](https://sec.thief.one/article_content?a_id=d18e2aa9da46af7e1244510363be1df5) 
-- [【安全热点】2020-12-24-CVSS-10分漏洞影响Dell-Wyse-Thin客户端设备](https://sec.thief.one/article_content?a_id=76a65828fc8224bca9dfa26bb778db23) 
-- [【安全热点】2020-12-24-Hi-您有一份圣诞礼物待签收](https://sec.thief.one/article_content?a_id=77eae00ebf22216d792d0d453700d312) 
-- [【安全热点】2020-12-24-研究人员分享了SolarWinds攻击事件的受害者名单](https://sec.thief.one/article_content?a_id=58b6c0ed573945926f59d874560d7794) 
-- [【安全热点】2020-12-24-勒索软件的下一个热门目标:工业控制系统](https://sec.thief.one/article_content?a_id=04331c16e9254b552aa4b4c69d7afcdf) 
-- [【安全热点】2020-12-24-云鼎百科|平安夜如何更平安?《真相只有一个》](https://sec.thief.one/article_content?a_id=03ddd1ac644cefd546817ab715b43841) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

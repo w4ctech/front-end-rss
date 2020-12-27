@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-27 10:14:26，:rocket: 更新条数: +361， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-27 10:40:00，:rocket: 更新条数: +361， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -537,6 +537,11 @@
 </summary>
 
 
+- [2020-12-27-#年度评选#-2020-看雪年度版主评选中,为他打call!](https://sec.thief.one/article_content?a_id=e380fd25fcf4bb91c9dcb0e8f13814d0) ![](assets/new.png)  
+- [2020-12-27-难忘!30句话回顾一起走过的2020](https://sec.thief.one/article_content?a_id=b1731bcdaaa674742f01aa8fbe7f707b) ![](assets/new.png)  
+- [2020-12-27-不二论币:比特币力挽狂澜,3万指日可待.](https://sec.thief.one/article_content?a_id=6b02dfb5b5698ad81df473468034c79f) ![](assets/new.png)  
+- [2020-12-27-子域名挖掘——meltego介绍](https://sec.thief.one/article_content?a_id=56dd9edac08f289fea9b1f83a75e54c1) ![](assets/new.png)  
+- [2020-12-27-CVE-2020-8554:Kubernetes中间人攻击漏洞](https://sec.thief.one/article_content?a_id=d6e233b581088bf9db3ed14d18696d55) ![](assets/new.png)  
 - [2020-12-27-全球勒索特遣队成立!](https://sec.thief.one/article_content?a_id=f1309fd6c4ec58e05aff62e0553327c2) ![](assets/new.png)  
 - [2020-12-27-微软和McAfee联合成立“勒索软件特别工作组”](https://sec.thief.one/article_content?a_id=ffc212c09b02aa29268f8a7d27abed68) ![](assets/new.png)  
 - [2020-12-27-【视频】|-数据安全体系建设的探索与实践](https://sec.thief.one/article_content?a_id=d1d2d81b592c06a9e12d6aa5338142b5) ![](assets/new.png)  
@@ -552,11 +557,6 @@
 - [2020-12-26-Decoder++:一款专用于渗透的多数据格式编码解码工具](https://sec.thief.one/article_content?a_id=03484790a3e1262b44855852245caa7b) ![](assets/new.png)  
 - [2020-12-26-乌镇回眸·邂逅未来|世界互联网领先科技成果之:面向服务的未来网络...](https://sec.thief.one/article_content?a_id=d836c6c3dcecf22bb575082e24fdde94) ![](assets/new.png)  
 - [2020-12-26-Python实现大规模爬虫的一些套路](https://sec.thief.one/article_content?a_id=313064e387c57027ddda9dba0b7bf0f3) ![](assets/new.png)  
-- [2020-12-26-InfluxDB-API-未授权访问漏洞简单利用](https://sec.thief.one/article_content?a_id=f7be6a3889b076e24ea4856497385901) ![](assets/new.png)  
-- [2020-12-26-在看-|-一周网安回顾-2020.12.19~12.25](https://sec.thief.one/article_content?a_id=80d5127364eabb050fe5c047751b52ac) ![](assets/new.png)  
-- [2020-12-26-记一次传销诈骗网站的渗透测试](https://sec.thief.one/article_content?a_id=e4d09dc12cf1405b0ed62a212c8dd710) ![](assets/new.png)  
-- [2020-12-26-揭开Apple-macOS-6LowPAN漏洞CVE-2020-9967的神秘面纱](https://sec.thief.one/article_content?a_id=4229d32fe995e69cd4a4fcc42d86ef67) ![](assets/new.png)  
-- [2020-12-26-手把手教你做挖矿应急响应](https://sec.thief.one/article_content?a_id=f11e4c673d67847037844bebe7035f9c) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

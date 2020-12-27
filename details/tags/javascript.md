@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-27 10:14:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-27 10:40:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -40,4 +40,3 @@
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
 - [2020-12-24-流行网管软件厂商SolarWinds供应链攻击事件预警](https://sec.thief.one/article_content?a_id=474510d852866a98c6d6110504988c91) 
-- [2020-12-24-研究人员分享了SolarWinds攻击事件的受害者名单](https://sec.thief.one/article_content?a_id=58b6c0ed573945926f59d874560d7794) 

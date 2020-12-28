@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-28 10:06:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-28 10:16:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,19 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-12-28-字节跳动安全团队开源自研HIDS——AgentSmith-HIDS](https://sec.thief.one/article_content?a_id=921ba119a0a6a1ea1cdd7739f47c4fc2) 
+- [2020-12-28-【安全热点周报】第174期:全球4500万医学影像照片被暴露](https://sec.thief.one/article_content?a_id=048aba36f598126dad0709f23267ad8f) 
+- [2020-12-28-盘点|2020各省市网络安全园区建设与扶持政策](https://sec.thief.one/article_content?a_id=084cbe7e73dd7b0c96fc120251cab9d9) 
+- [2020-12-28-国舜股份荣登“2020年中国网络安全产业100强”榜单](https://sec.thief.one/article_content?a_id=c5739aefc8f9f77188db6a126fd8fa51) 
+- [2020-12-28-《工业互联网边缘计算安全白皮书-2020-》发布-附下载](https://sec.thief.one/article_content?a_id=9d759fb0f0e9cbe2c154697cb665997f) 
 - [2020-12-28-每日安全动态推送12-28](https://sec.thief.one/article_content?a_id=025132b18f3c05d5a7b53f9a4db3aa10) 
 - [2020-12-28-2020网络安全行业白皮书发布|携手共建打造网络安全命运共同体](https://sec.thief.one/article_content?a_id=d64738f3f3cfe4c10b8ece2c4bc1f419) 
 - [2020-12-28-Web安全:内网渗透工具](https://sec.thief.one/article_content?a_id=3cf265ac5188241fb7150149beeb0e91) 
@@ -25,4 +38,3 @@
 - [2020-12-25-SolarWinds前员工披露:公司长期存在漏洞、管理层极不重视安全](https://sec.thief.one/article_content?a_id=3302c958cbb42aaa4a31e1688dbf202c) 
 - [2020-12-25-嘶吼2020网络安全产业百强调研结果发布](https://sec.thief.one/article_content?a_id=1d39d20c26af67edda41787eeeae453a) 
 - [2020-12-25-远程办公安全,只有30%的企业准备好了](https://sec.thief.one/article_content?a_id=60ed2cdeae730ca525246b2bca269f0b) 
-- [2020-12-25-信息安全学习经验分享](https://sec.thief.one/article_content?a_id=938e09b4195c128b61d9930346174768) 

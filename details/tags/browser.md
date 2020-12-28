@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-28 00:04:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-28 00:25:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,8 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-12-27-私有云安全:边界安全设计实践](https://sec.thief.one/article_content?a_id=7ed5f62655df872571c093beae14851f) 
+- [2020-12-27-开普勒安全团队全体成员与合作伙伴公示](https://sec.thief.one/article_content?a_id=96c99a56e6147dd0d33787312b0e4f59) 
 - [2020-12-26-用奥运标准培养网络安全尖兵-第四届“蓝帽杯”大赛举行颁奖典礼](https://sec.thief.one/article_content?a_id=aab5a04666def7ce81079657a5396318) 
 - [2020-12-26-全面转向IPv6,美国政府如何规划安全策略?](https://sec.thief.one/article_content?a_id=65537629529fa11770815fd12f0060d7) 
 - [2020-12-25-【安全圈】泄露文件曝光任天堂侵入性监控黑客行动](https://sec.thief.one/article_content?a_id=afd16339efafc4bf6b0c15273753797e) 
@@ -32,8 +34,3 @@
 - [2020-12-24-奇安信发布SOAR-3.0-安全处置效率提升十倍](https://sec.thief.one/article_content?a_id=b5c2177ad90b93927435323002427d80) 
 - [2020-12-24-绿盟科技多行业案例入选安全牛《2020网络安全态势感知应用指南》](https://sec.thief.one/article_content?a_id=606a98c33d7a845a375427372d5634e6) 
 - [2020-12-24-“女性买房猛增”揭露一个扎心真相:成年人的安全感,只能自己给](https://sec.thief.one/article_content?a_id=e3bae6e021adbf33b269c55835790259) 
-- [2020-12-24-再获认可-|-微步在线入选“2020网络安全产业百强”](https://sec.thief.one/article_content?a_id=97d8a1432895b49ba974635c60132d1f) 
-- [2020-12-24-南开大学网络空间安全学院人才招聘](https://sec.thief.one/article_content?a_id=a11a7645219e1cc74741335f11499610) 
-- [2020-12-24-“2020网络安全金帽子”年度杰出安全实验室五席之一?深信服千里目...](https://sec.thief.one/article_content?a_id=456827f18a749594e8964785b16ce2e7) 
-- [2020-12-24-进军工业互联网安全!国舜股份携手中化国际共建工业企业网络安全综...](https://sec.thief.one/article_content?a_id=29c0e2fd73d2b7c387eabca27d6693ab) 
-- [2020-12-24-2021年网络安全高级研修班邀请函](https://sec.thief.one/article_content?a_id=eabe1e8e7bcefac31c1b624b343729e0) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-28 00:04:45，:rocket: 更新条数: +361， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-28 00:25:40，:rocket: 更新条数: +361， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -317,9 +317,9 @@
 </summary>
 
 
+- [2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html) ![](assets/new.png)  
 - [2020-12-25-科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html) ![](assets/new.png)  
 - [2020-12-18-科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html) ![](assets/new.png)  
-- [2020-12-13-《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -537,6 +537,16 @@
 </summary>
 
 
+- [2020-12-28-百度股价接连暴涨的背后,看Apollo的2020](https://sec.thief.one/article_content?a_id=2b252631c8b9d8ac8afea22127c09a41) ![](assets/new.png)  
+- [2020-12-28-针对数据存储区的攻击测试](https://sec.thief.one/article_content?a_id=3706c0c89a5627a3dd6ef69883df2a3e) ![](assets/new.png)  
+- [2020-12-28-发现一款容器逃逸漏洞利用神器!](https://sec.thief.one/article_content?a_id=c7c5b5892dbebf52b887b11969e15da6) ![](assets/new.png)  
+- [2020-12-28-Pandas-的这个知识点,估计-80%-的人都得挂!](https://sec.thief.one/article_content?a_id=43dc4b86843a40388d9bacdd07133cd4) ![](assets/new.png)  
+- [2020-12-27-一句话,离职了](https://sec.thief.one/article_content?a_id=e7685481bd3dc8c463f2aec2c2767f41) ![](assets/new.png)  
+- [2020-12-27-私有云安全:边界安全设计实践](https://sec.thief.one/article_content?a_id=7ed5f62655df872571c093beae14851f) ![](assets/new.png)  
+- [2020-12-27-开普勒安全团队全体成员与合作伙伴公示](https://sec.thief.one/article_content?a_id=96c99a56e6147dd0d33787312b0e4f59) ![](assets/new.png)  
+- [2020-12-27-2020圣诞解密活动-Writeup](https://sec.thief.one/article_content?a_id=658b5e88bdf5d88d06cabcdeebfe717c) ![](assets/new.png)  
+- [2020-12-27-5.4k-Star!简单又全面的容器漏洞扫描工具:Trivy](https://sec.thief.one/article_content?a_id=1cd42de0faa7a9fe196aba9783a79074) ![](assets/new.png)  
+- [2020-12-27-聊聊漏洞自动修复技术的行业现状](https://sec.thief.one/article_content?a_id=f76dad7499f9e7ce75a51c7efd26a389) ![](assets/new.png)  
 - [2020-12-27-#年度评选#-2020-看雪年度版主评选中,为他打call!](https://sec.thief.one/article_content?a_id=e380fd25fcf4bb91c9dcb0e8f13814d0) ![](assets/new.png)  
 - [2020-12-27-难忘!30句话回顾一起走过的2020](https://sec.thief.one/article_content?a_id=b1731bcdaaa674742f01aa8fbe7f707b) ![](assets/new.png)  
 - [2020-12-27-不二论币:比特币力挽狂澜,3万指日可待.](https://sec.thief.one/article_content?a_id=6b02dfb5b5698ad81df473468034c79f) ![](assets/new.png)  
@@ -547,16 +557,6 @@
 - [2020-12-27-【视频】|-数据安全体系建设的探索与实践](https://sec.thief.one/article_content?a_id=d1d2d81b592c06a9e12d6aa5338142b5) ![](assets/new.png)  
 - [2020-12-27-企业如何选择适合的SOC模型?](https://sec.thief.one/article_content?a_id=626f70e51c8354f8a6a2d124dd59b8ef) ![](assets/new.png)  
 - [2020-12-27-字节跳动员工晒出税后工资,网友:怀疑你是日薪](https://sec.thief.one/article_content?a_id=2dded53de037ac4908aa2ad750637543) ![](assets/new.png)  
-- [2020-12-27-B站,被扫黄了](https://sec.thief.one/article_content?a_id=014cde342ade0a55d4165cc555931282) ![](assets/new.png)  
-- [2020-12-27-2020,习近平同他们说了很多心里话](https://sec.thief.one/article_content?a_id=e5102c33b41e85a31064151f7187e774) ![](assets/new.png)  
-- [2020-12-26-《鸟哥-Linux-私房菜》560-页新书首发!完整中文版-PDF-下载](https://sec.thief.one/article_content?a_id=15819c4490cc3d186f727303667f00f5) ![](assets/new.png)  
-- [2020-12-26-感谢大家,第三辑专刊发放名单!看有没有你](https://sec.thief.one/article_content?a_id=4acbf19bb748bc3989e16086f7a15c0f) ![](assets/new.png)  
-- [2020-12-26-Bleach:Mozilla-出品,快速准确地清理-HTML](https://sec.thief.one/article_content?a_id=6a2538c5d656cdc8bd0c7d1c8914a067) ![](assets/new.png)  
-- [2020-12-26-主力资金仅小幅流入,比特币上涨诱多?](https://sec.thief.one/article_content?a_id=5401a56dcfa22f73d38080348c6bc6fd) ![](assets/new.png)  
-- [2020-12-26-用奥运标准培养网络安全尖兵-第四届“蓝帽杯”大赛举行颁奖典礼](https://sec.thief.one/article_content?a_id=aab5a04666def7ce81079657a5396318) ![](assets/new.png)  
-- [2020-12-26-Decoder++:一款专用于渗透的多数据格式编码解码工具](https://sec.thief.one/article_content?a_id=03484790a3e1262b44855852245caa7b) ![](assets/new.png)  
-- [2020-12-26-乌镇回眸·邂逅未来|世界互联网领先科技成果之:面向服务的未来网络...](https://sec.thief.one/article_content?a_id=d836c6c3dcecf22bb575082e24fdde94) ![](assets/new.png)  
-- [2020-12-26-Python实现大规模爬虫的一些套路](https://sec.thief.one/article_content?a_id=313064e387c57027ddda9dba0b7bf0f3) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

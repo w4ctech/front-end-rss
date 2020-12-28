@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-28 00:04:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-28 00:25:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -125,11 +125,21 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-12-24-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-12-12-纯CSS实现微信列表左滑显示按钮的交互效果](https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
+- [【阮一峰的网络日志】2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html) 
 - [【阮一峰的网络日志】2020-12-25-科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html) 
 - [【阮一峰的网络日志】2020-12-18-科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html) 
-- [【阮一峰的网络日志】2020-12-13-《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html) 
 - [【凹凸实验室】2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) 
 - [【凹凸实验室】2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) 
+- [【安全热点】2020-12-28-百度股价接连暴涨的背后,看Apollo的2020](https://sec.thief.one/article_content?a_id=2b252631c8b9d8ac8afea22127c09a41) 
+- [【安全热点】2020-12-28-针对数据存储区的攻击测试](https://sec.thief.one/article_content?a_id=3706c0c89a5627a3dd6ef69883df2a3e) 
+- [【安全热点】2020-12-28-发现一款容器逃逸漏洞利用神器!](https://sec.thief.one/article_content?a_id=c7c5b5892dbebf52b887b11969e15da6) 
+- [【安全热点】2020-12-28-Pandas-的这个知识点,估计-80%-的人都得挂!](https://sec.thief.one/article_content?a_id=43dc4b86843a40388d9bacdd07133cd4) 
+- [【安全热点】2020-12-27-一句话,离职了](https://sec.thief.one/article_content?a_id=e7685481bd3dc8c463f2aec2c2767f41) 
+- [【安全热点】2020-12-27-私有云安全:边界安全设计实践](https://sec.thief.one/article_content?a_id=7ed5f62655df872571c093beae14851f) 
+- [【安全热点】2020-12-27-开普勒安全团队全体成员与合作伙伴公示](https://sec.thief.one/article_content?a_id=96c99a56e6147dd0d33787312b0e4f59) 
+- [【安全热点】2020-12-27-2020圣诞解密活动-Writeup](https://sec.thief.one/article_content?a_id=658b5e88bdf5d88d06cabcdeebfe717c) 
+- [【安全热点】2020-12-27-5.4k-Star!简单又全面的容器漏洞扫描工具:Trivy](https://sec.thief.one/article_content?a_id=1cd42de0faa7a9fe196aba9783a79074) 
+- [【安全热点】2020-12-27-聊聊漏洞自动修复技术的行业现状](https://sec.thief.one/article_content?a_id=f76dad7499f9e7ce75a51c7efd26a389) 
 - [【安全热点】2020-12-27-#年度评选#-2020-看雪年度版主评选中,为他打call!](https://sec.thief.one/article_content?a_id=e380fd25fcf4bb91c9dcb0e8f13814d0) 
 - [【安全热点】2020-12-27-难忘!30句话回顾一起走过的2020](https://sec.thief.one/article_content?a_id=b1731bcdaaa674742f01aa8fbe7f707b) 
 - [【安全热点】2020-12-27-不二论币:比特币力挽狂澜,3万指日可待.](https://sec.thief.one/article_content?a_id=6b02dfb5b5698ad81df473468034c79f) 
@@ -220,16 +230,6 @@
 - [【安全热点】2020-12-24-2020-ByteCTF决赛Crypto题解](https://sec.thief.one/article_content?a_id=50bc0574e9c53bca2086f2f4b4eaa8cb) 
 - [【安全热点】2020-12-24-苹果新隐私保护功能测试中,Facebook表示不可](https://sec.thief.one/article_content?a_id=cc3a0be9e5a76b2eb2611855baa8c771) 
 - [【安全热点】2020-12-24-HackingClub公开课丨域渗透之Kerberos委派](https://sec.thief.one/article_content?a_id=c52ec0df9d9451441c4916f00293a31c) 
-- [【安全热点】2020-12-24-再获认可-|-微步在线入选“2020网络安全产业百强”](https://sec.thief.one/article_content?a_id=97d8a1432895b49ba974635c60132d1f) 
-- [【安全热点】2020-12-24-2020年度中国网络诚信十大新闻之一:《网络信息内容生态治理规定》...](https://sec.thief.one/article_content?a_id=497ec87273bb6b95baca4ac78102752a) 
-- [【安全热点】2020-12-24-南开大学网络空间安全学院人才招聘](https://sec.thief.one/article_content?a_id=a11a7645219e1cc74741335f11499610) 
-- [【安全热点】2020-12-24-伪造学历学位信息三千条,徐州警方打掉一伪造证件黑产链](https://sec.thief.one/article_content?a_id=e3b658277e1057ac85d2a3cc36b3ae87) 
-- [【安全热点】2020-12-24-12月24日GUIBI早内参-10万份比特币期权合约明日到期,波卡Rococo-...](https://sec.thief.one/article_content?a_id=a30b27df190ccf8f19b3c73484959b74) 
-- [【安全热点】2020-12-24-“2020网络安全金帽子”年度杰出安全实验室五席之一?深信服千里目...](https://sec.thief.one/article_content?a_id=456827f18a749594e8964785b16ce2e7) 
-- [【安全热点】2020-12-24-进军工业互联网安全!国舜股份携手中化国际共建工业企业网络安全综...](https://sec.thief.one/article_content?a_id=29c0e2fd73d2b7c387eabca27d6693ab) 
-- [【安全热点】2020-12-24-DSRC五周年-Give-Me-One—2020年度白帽颁奖典礼](https://sec.thief.one/article_content?a_id=2b40b315b0ae870c925ed6b56805f65a) 
-- [【安全热点】2020-12-24-2021年网络安全高级研修班邀请函](https://sec.thief.one/article_content?a_id=eabe1e8e7bcefac31c1b624b343729e0) 
-- [【安全热点】2020-12-24-把握重点任务-加快构建新发展格局](https://sec.thief.one/article_content?a_id=d18e2aa9da46af7e1244510363be1df5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

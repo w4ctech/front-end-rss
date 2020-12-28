@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-28 00:04:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-28 00:25:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -20,4 +20,3 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
-- [2020-12-24-12月24日GUIBI早内参-10万份比特币期权合约明日到期,波卡Rococo-...](https://sec.thief.one/article_content?a_id=a30b27df190ccf8f19b3c73484959b74) 

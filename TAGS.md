@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-28 00:04:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-28 00:25:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -112,7 +112,6 @@
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 - [【安全热点】如何快速构建内部钓鱼平台](https://sec.thief.one/article_content?a_id=066e95aaf141efe4127f833bf9c82f48)
-- [【安全热点】把握重点任务-加快构建新发展格局](https://sec.thief.one/article_content?a_id=d18e2aa9da46af7e1244510363be1df5)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -247,6 +246,7 @@
 - [【张鑫旭-鑫空间-鑫生活】几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/)
 - [【张鑫旭-鑫空间-鑫生活】原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/)
 - [【张鑫旭-鑫空间-鑫生活】尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/)
+- [【阮一峰的网络日志】Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)
 - [【京东设计中心】HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)
 - [【凹凸实验室】EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/)
 - [【凹凸实验室】移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/)
@@ -263,7 +263,6 @@
 - [【凹凸实验室】正则表达式实践篇](https://aotu.io/notes/2016/12/07/regexp-practice/)
 - [【凹凸实验室】正则表达式理论篇](https://aotu.io/notes/2016/11/17/regexp-theory/)
 - [【凹凸实验室】Javascript-中的装饰器](https://aotu.io/notes/2016/10/24/decorator/)
-- [【凹凸实验室】H5直播起航](https://aotu.io/notes/2016/10/09/HTML5-SopCast/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -329,7 +328,6 @@
 - [【凹凸实验室】探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
-- [【安全热点】12月24日GUIBI早内参-10万份比特币期权合约明日到期,波卡Rococo-...](https://sec.thief.one/article_content?a_id=a30b27df190ccf8f19b3c73484959b74)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -403,6 +401,8 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【安全热点】私有云安全:边界安全设计实践](https://sec.thief.one/article_content?a_id=7ed5f62655df872571c093beae14851f)
+- [【安全热点】开普勒安全团队全体成员与合作伙伴公示](https://sec.thief.one/article_content?a_id=96c99a56e6147dd0d33787312b0e4f59)
 - [【安全热点】用奥运标准培养网络安全尖兵-第四届“蓝帽杯”大赛举行颁奖典礼](https://sec.thief.one/article_content?a_id=aab5a04666def7ce81079657a5396318)
 - [【安全热点】全面转向IPv6,美国政府如何规划安全策略?](https://sec.thief.one/article_content?a_id=65537629529fa11770815fd12f0060d7)
 - [【安全热点】【安全圈】泄露文件曝光任天堂侵入性监控黑客行动](https://sec.thief.one/article_content?a_id=afd16339efafc4bf6b0c15273753797e)
@@ -412,8 +412,6 @@
 - [【安全热点】个人信息保护伞-|-绿盟BMG守护政府网站业务安全](https://sec.thief.one/article_content?a_id=0afdf6d059c674f0e46577aedd6e6846)
 - [【安全热点】2020北向峰会召开,京东安全探索甲方安全建设破局之道](https://sec.thief.one/article_content?a_id=3ab38282feefdec880e8ab1352f0a70d)
 - [【安全热点】SolarWinds前员工披露:公司长期存在漏洞、管理层极不重视安全](https://sec.thief.one/article_content?a_id=3302c958cbb42aaa4a31e1688dbf202c)
-- [【安全热点】嘶吼2020网络安全产业百强调研结果发布](https://sec.thief.one/article_content?a_id=1d39d20c26af67edda41787eeeae453a)
-- [【安全热点】远程办公安全,只有30%的企业准备好了](https://sec.thief.one/article_content?a_id=60ed2cdeae730ca525246b2bca269f0b)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -542,7 +540,6 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html)
-- [【阮一峰的网络日志】《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html)
 - [【京东设计中心】NutUI-CLI源码解析](https://jdc.jd.com/archives/213013)
 - [【京东设计中心】NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007)
 - [【京东设计中心】用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987)
@@ -558,6 +555,7 @@
 - [【凹凸实验室】如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/)
 - [【凹凸实验室】618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/)
 - [【凹凸实验室】从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/)
+- [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

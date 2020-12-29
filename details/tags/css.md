@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-28 23:54:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-29 00:16:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -37,4 +37,3 @@
 - [2015-11-02-使用Adobe-FLASH-CC制作Canvas动画](https://aotu.io/notes/2015/11/02/flash-canvas/) 
 - [2015-10-21-探究transform动画元素的z-index](https://aotu.io/notes/2015/10/21/z-index-and-translate3d/) 
 - [2015-10-13-PostCSS快速入门使用](https://aotu.io/notes/2015/10/13/start-postcss/) 
-- [2020-12-25-2.8-万-Star!制作数学动画的超棒工具:Manim](https://sec.thief.one/article_content?a_id=3c7e83c9314d41acbf0b1eeb12324c03) 

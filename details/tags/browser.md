@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-28 23:54:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-29 00:16:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,8 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-12-28-【安全圈】俄罗斯加密交易所-Livecoin-被黑客入侵-失去对服务器的控...](https://sec.thief.one/article_content?a_id=df2c47cb635cdca4f6fe55e0560c5611) 
+- [2020-12-28-报告发布|十种前沿数据安全技术,聚焦企业合规痛点](https://sec.thief.one/article_content?a_id=ae04476887fe9ee7c71776b44c084d9e) 
 - [2020-12-28-字节跳动安全团队开源自研HIDS——AgentSmith-HIDS](https://sec.thief.one/article_content?a_id=921ba119a0a6a1ea1cdd7739f47c4fc2) 
 - [2020-12-28-【安全热点周报】第174期:全球4500万医学影像照片被暴露](https://sec.thief.one/article_content?a_id=048aba36f598126dad0709f23267ad8f) 
 - [2020-12-28-盘点|2020各省市网络安全园区建设与扶持政策](https://sec.thief.one/article_content?a_id=084cbe7e73dd7b0c96fc120251cab9d9) 
@@ -36,5 +38,3 @@
 - [2020-12-25-个人信息保护伞-|-绿盟BMG守护政府网站业务安全](https://sec.thief.one/article_content?a_id=0afdf6d059c674f0e46577aedd6e6846) 
 - [2020-12-25-2020北向峰会召开,京东安全探索甲方安全建设破局之道](https://sec.thief.one/article_content?a_id=3ab38282feefdec880e8ab1352f0a70d) 
 - [2020-12-25-SolarWinds前员工披露:公司长期存在漏洞、管理层极不重视安全](https://sec.thief.one/article_content?a_id=3302c958cbb42aaa4a31e1688dbf202c) 
-- [2020-12-25-嘶吼2020网络安全产业百强调研结果发布](https://sec.thief.one/article_content?a_id=1d39d20c26af67edda41787eeeae453a) 
-- [2020-12-25-远程办公安全,只有30%的企业准备好了](https://sec.thief.one/article_content?a_id=60ed2cdeae730ca525246b2bca269f0b) 

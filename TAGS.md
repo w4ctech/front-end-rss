@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-28 23:54:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-29 00:16:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -400,6 +400,8 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【安全热点】【安全圈】俄罗斯加密交易所-Livecoin-被黑客入侵-失去对服务器的控...](https://sec.thief.one/article_content?a_id=df2c47cb635cdca4f6fe55e0560c5611)
+- [【安全热点】报告发布|十种前沿数据安全技术,聚焦企业合规痛点](https://sec.thief.one/article_content?a_id=ae04476887fe9ee7c71776b44c084d9e)
 - [【安全热点】字节跳动安全团队开源自研HIDS——AgentSmith-HIDS](https://sec.thief.one/article_content?a_id=921ba119a0a6a1ea1cdd7739f47c4fc2)
 - [【安全热点】【安全热点周报】第174期:全球4500万医学影像照片被暴露](https://sec.thief.one/article_content?a_id=048aba36f598126dad0709f23267ad8f)
 - [【安全热点】盘点|2020各省市网络安全园区建设与扶持政策](https://sec.thief.one/article_content?a_id=084cbe7e73dd7b0c96fc120251cab9d9)
@@ -409,8 +411,6 @@
 - [【安全热点】2020网络安全行业白皮书发布|携手共建打造网络安全命运共同体](https://sec.thief.one/article_content?a_id=d64738f3f3cfe4c10b8ece2c4bc1f419)
 - [【安全热点】Web安全:内网渗透工具](https://sec.thief.one/article_content?a_id=3cf265ac5188241fb7150149beeb0e91)
 - [【安全热点】年度特刊-|-2020年网络安全盘点](https://sec.thief.one/article_content?a_id=1c3a04fc0fdd6a7a0d54e0e29be98b83)
-- [【安全热点】私有云安全:边界安全设计实践](https://sec.thief.one/article_content?a_id=7ed5f62655df872571c093beae14851f)
-- [【安全热点】开普勒安全团队全体成员与合作伙伴公示](https://sec.thief.one/article_content?a_id=96c99a56e6147dd0d33787312b0e4f59)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -434,6 +434,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【安全热点】力扣Cookbook神器,算法刷题宝典](https://sec.thief.one/article_content?a_id=9caf2bdc896968d3dd04defd1d82cace)
 - [【安全热点】【漏洞通告】TerraMaster-TOS多个漏洞通告](https://sec.thief.one/article_content?a_id=7d574f594e94e7cbfa8b39d5a5945ae2)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

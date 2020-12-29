@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-28 23:54:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-29 00:16:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -40,3 +40,4 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-12-28-2020金帽子年度盛典召开,JSRC荣获“年度最受关注安全应急响应中...](https://sec.thief.one/article_content?a_id=be9183dd48f682272f3b9b4099c75aa0) 

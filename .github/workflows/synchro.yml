@@ -13,7 +13,10 @@ jobs:
       - name: Push
         run: |
           git clone https://github.com/w4ctech/front-end-rss.git front-end-rss && cd front-end-rss
-          git branch -m master master
+          git checkout --orphan
+          git add .
+          git commit -m "Initial"
+          git branch -D master
           git branch -m main
           git remote set-url --add origin https://gitee.com/w4ctech/front-end-rss.git
           git push origin main

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-29 10:07:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-29 10:18:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -327,6 +327,7 @@
 - [【凹凸实验室】探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
+- [【安全热点】12月29日GUIBI早内参-Coinbase明年1月暂停XRP交易,OKEx即将发...](https://sec.thief.one/article_content?a_id=fd949281e50863e2aa870de92af4adf3)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -348,9 +349,9 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【安全热点】病毒作者利用破解去广告腾讯视频噱头投递CS后门](https://sec.thief.one/article_content?a_id=703b5aa3d1029e03b1be3ca971e84198)
 - [【安全热点】【视频】|-网络安全等级保护2.0要求](https://sec.thief.one/article_content?a_id=9f69670a997ac431f90ba460482ff011)
 - [【安全热点】【视频】|-数据安全体系建设的探索与实践](https://sec.thief.one/article_content?a_id=d1d2d81b592c06a9e12d6aa5338142b5)
-- [【安全热点】【视频】|-Python:集合对称差集和总结](https://sec.thief.one/article_content?a_id=e752002bfd380c649eabf84181083356)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -400,6 +401,9 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【安全热点】加密与通讯安全丨技术大牛揭秘黑客们的密码学,原来有秘诀!](https://sec.thief.one/article_content?a_id=705ea9c0a439be3ee0b7efba9206f1ea)
+- [【安全热点】2元打包70张明星素颜照?健康宝现个人信息安全漏洞](https://sec.thief.one/article_content?a_id=2ff1b4f7b3ad2ac1a9198de717ff2eb8)
+- [【安全热点】信息安全漏洞周报2020年第50期](https://sec.thief.one/article_content?a_id=47a35f499b339f1b6e2047cdf6014268)
 - [【安全热点】微软被指旗下产品遭滥用攻击客户,一家美国顶级安全公司险些被黑](https://sec.thief.one/article_content?a_id=1dd8a06302999b7a89997c94fd2a4196)
 - [【安全热点】每日安全动态推送12-29](https://sec.thief.one/article_content?a_id=d73788a24739fbb8ef772930b1ec3296)
 - [【安全热点】2020数说安全研究报告大全丨收藏贴](https://sec.thief.one/article_content?a_id=6f690403dacf0cebe3e1f88fe2ad55a3)
@@ -408,9 +412,6 @@
 - [【安全热点】【安全圈】俄罗斯加密交易所-Livecoin-被黑客入侵-失去对服务器的控...](https://sec.thief.one/article_content?a_id=df2c47cb635cdca4f6fe55e0560c5611)
 - [【安全热点】报告发布|十种前沿数据安全技术,聚焦企业合规痛点](https://sec.thief.one/article_content?a_id=ae04476887fe9ee7c71776b44c084d9e)
 - [【安全热点】字节跳动安全团队开源自研HIDS——AgentSmith-HIDS](https://sec.thief.one/article_content?a_id=921ba119a0a6a1ea1cdd7739f47c4fc2)
-- [【安全热点】【安全热点周报】第174期:全球4500万医学影像照片被暴露](https://sec.thief.one/article_content?a_id=048aba36f598126dad0709f23267ad8f)
-- [【安全热点】盘点|2020各省市网络安全园区建设与扶持政策](https://sec.thief.one/article_content?a_id=084cbe7e73dd7b0c96fc120251cab9d9)
-- [【安全热点】国舜股份荣登“2020年中国网络安全产业100强”榜单](https://sec.thief.one/article_content?a_id=c5739aefc8f9f77188db6a126fd8fa51)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

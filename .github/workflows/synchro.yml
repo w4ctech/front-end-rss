@@ -13,7 +13,7 @@ jobs:
       - name: Push
         run: |
           git clone https://github.com/w4ctech/front-end-rss.git front-end-rss && cd front-end-rss
-          git checkout --orphan
+          git checkout --orphan orphan
           git add .
           git commit -m "Initial"
           git branch -D master

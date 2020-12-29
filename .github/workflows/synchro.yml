@@ -17,7 +17,7 @@ jobs:
       - name: Push Mirror
         env:
           SOURCE_REPO: 'https://github.com/w4ctech/front-end-rss.git'
-          DESTINATION_REPO: 'git@gitee.com:w4ctech/front-end-rss.git'
+          DESTINATION_REPO: 'https://gitee.com/w4ctech/front-end-rss.git'
         run: |
           git clone --mirror "$SOURCE_REPO" && cd `basename "$SOURCE_REPO"`
           git remote set-url --push origin "$DESTINATION_REPO"

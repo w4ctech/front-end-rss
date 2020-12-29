@@ -1,4 +1,4 @@
-name: Mirror to Gitee Repo
+name: synchro
 
 on: [ push, delete, create ]
 
@@ -6,15 +6,12 @@ jobs:
   git-mirror:
     runs-on: ubuntu-latest
     steps:
-      - name: Configure Private Key
+      - name: config
         run: |
           git config --global user.name "w4ctech"
           git config --global user.email "w3ctech@qq.com"
-      - name: Push Mirror
-        env:
-          SOURCE_REPO: 'https://github.com/w4ctech/front-end-rss.git'
-          DESTINATION_REPO: 'git@gitee.com:w4ctech/front-end-rss.git'
+      - name: Push
         run: |
           git clone https://github.com/w4ctech/front-end-rss.git front-end-rss && cd front-end-rss
-          git remote set-url --add origin https://gitee.com/w4ctech/hellogit.git
+          git remote set-url --add origin https://gitee.com/w4ctech/front-end-rss.git
           git push origin master

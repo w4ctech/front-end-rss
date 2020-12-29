@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-29 05:01:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-29 05:18:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -88,7 +88,6 @@
 
 
 
-- [【安全热点】如何快速构建内部钓鱼平台](https://sec.thief.one/article_content?a_id=066e95aaf141efe4127f833bf9c82f48)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -174,6 +173,7 @@
 - [【张鑫旭-鑫空间-鑫生活】尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/)
 - [【阮一峰的网络日志】Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)
 - [【京东设计中心】HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)
+- [【安全热点】【漏洞通告】FasterXML-Jackson-databind-远程代码执行漏洞-CVE-...](https://sec.thief.one/article_content?a_id=782c432956cf8c0d70a7afcc4957b2fc)
 - [【安全热点】2020金帽子年度盛典召开,JSRC荣获“年度最受关注安全应急响应中...](https://sec.thief.one/article_content?a_id=be9183dd48f682272f3b9b4099c75aa0)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -227,6 +227,7 @@
 
 
 
+- [【安全热点】【视频】|-网络安全等级保护2.0要求](https://sec.thief.one/article_content?a_id=9f69670a997ac431f90ba460482ff011)
 - [【安全热点】【视频】|-数据安全体系建设的探索与实践](https://sec.thief.one/article_content?a_id=d1d2d81b592c06a9e12d6aa5338142b5)
 - [【安全热点】【视频】|-Python:集合对称差集和总结](https://sec.thief.one/article_content?a_id=e752002bfd380c649eabf84181083356)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -264,6 +265,11 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
+- [【安全热点】微软被指旗下产品遭滥用攻击客户,一家美国顶级安全公司险些被黑](https://sec.thief.one/article_content?a_id=1dd8a06302999b7a89997c94fd2a4196)
+- [【安全热点】每日安全动态推送12-29](https://sec.thief.one/article_content?a_id=d73788a24739fbb8ef772930b1ec3296)
+- [【安全热点】2020数说安全研究报告大全丨收藏贴](https://sec.thief.one/article_content?a_id=6f690403dacf0cebe3e1f88fe2ad55a3)
+- [【安全热点】开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=9f248df9e7be799c93755c92ac439288)
+- [【安全热点】如何从-100-亿-URL-中找出相同的-URL?](https://sec.thief.one/article_content?a_id=49fd85557f8a981ea9d495f9f89e3b85)
 - [【安全热点】【安全圈】俄罗斯加密交易所-Livecoin-被黑客入侵-失去对服务器的控...](https://sec.thief.one/article_content?a_id=df2c47cb635cdca4f6fe55e0560c5611)
 - [【安全热点】报告发布|十种前沿数据安全技术,聚焦企业合规痛点](https://sec.thief.one/article_content?a_id=ae04476887fe9ee7c71776b44c084d9e)
 - [【安全热点】字节跳动安全团队开源自研HIDS——AgentSmith-HIDS](https://sec.thief.one/article_content?a_id=921ba119a0a6a1ea1cdd7739f47c4fc2)
@@ -278,11 +284,6 @@
 - [【安全热点】私有云安全:边界安全设计实践](https://sec.thief.one/article_content?a_id=7ed5f62655df872571c093beae14851f)
 - [【安全热点】开普勒安全团队全体成员与合作伙伴公示](https://sec.thief.one/article_content?a_id=96c99a56e6147dd0d33787312b0e4f59)
 - [【安全热点】用奥运标准培养网络安全尖兵-第四届“蓝帽杯”大赛举行颁奖典礼](https://sec.thief.one/article_content?a_id=aab5a04666def7ce81079657a5396318)
-- [【安全热点】全面转向IPv6,美国政府如何规划安全策略?](https://sec.thief.one/article_content?a_id=65537629529fa11770815fd12f0060d7)
-- [【安全热点】【安全圈】泄露文件曝光任天堂侵入性监控黑客行动](https://sec.thief.one/article_content?a_id=afd16339efafc4bf6b0c15273753797e)
-- [【安全热点】OPPO终端安全岗位招聘火热进行中](https://sec.thief.one/article_content?a_id=b096fc5aa921e06955824eeddb646454)
-- [【安全热点】企业安全后期运营建设:从细微之处看起](https://sec.thief.one/article_content?a_id=5e8499f5b86a096033e20366a59f830e)
-- [【安全热点】招聘-|-腾讯安全专家咨询中心web安全岗位招聘](https://sec.thief.one/article_content?a_id=ff153fe656a3bbeace4d47d4261b04d6)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -300,7 +301,6 @@
 
 
 - [【安全热点】力扣Cookbook神器,算法刷题宝典](https://sec.thief.one/article_content?a_id=9caf2bdc896968d3dd04defd1d82cace)
-- [【安全热点】【漏洞通告】TerraMaster-TOS多个漏洞通告](https://sec.thief.one/article_content?a_id=7d574f594e94e7cbfa8b39d5a5945ae2)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -407,16 +407,16 @@
 - [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
 - [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
+- [【安全热点】探索新大陆:基于冷门协议sctp反弹shell](https://sec.thief.one/article_content?a_id=195c054b7eb6d894ee5a67dee83a16a8)
+- [【安全热点】实际利用Kerberos-Bronze-Bit漏洞绕过委派限制CVE-2020-17049](https://sec.thief.one/article_content?a_id=2529aadd3aa85bfcb9333e13dcf83d29)
+- [【安全热点】2020,难忘那抹“中国红”](https://sec.thief.one/article_content?a_id=f3aada2efecc04b8167115b803f2f80f)
+- [【安全热点】记一次SQLmap实战](https://sec.thief.one/article_content?a_id=2936c2a3fd4156e43848641556c8b21b)
+- [【安全热点】WSUS攻击Part1:介绍PyWSUS](https://sec.thief.one/article_content?a_id=37ce38b56f59bba83d7003a7c3cb8f96)
+- [【安全热点】浙数文化与安恒信息签订战略合作协议,赋能传媒数字经济发展-安恒信...](https://sec.thief.one/article_content?a_id=957c02de65f3e6f1f220ae4536f86d0d)
+- [【安全热点】内网渗透测试:内网横向移动基础总结](https://sec.thief.one/article_content?a_id=4b2a8169e4bc7589829fcf8a1383217f)
 - [【安全热点】智能门铃-物联网的噩梦](https://sec.thief.one/article_content?a_id=32764ff80a16bce2ef8943a2624f4c19)
 - [【安全热点】【漏洞预警】SolarWinds-Orion-API-远程代码执行漏洞CVE-2020-...](https://sec.thief.one/article_content?a_id=05c31eb456b3b83350716d8bfb813225)
 - [【安全热点】前端从入门到放弃,是因为你没有这份高薪成长路线](https://sec.thief.one/article_content?a_id=bbf1a5d59e75aa1c4300d8f1fd8aeeed)
-- [【安全热点】面向对象:希望未来的他有责任心、自信,遇到问题愿意一起解决](https://sec.thief.one/article_content?a_id=8e2c3c316e1968fdb1d7ef745d76bd7a)
-- [【安全热点】奇安信集团被全国工商联授予“抗击疫情先进民营企业”荣誉称号](https://sec.thief.one/article_content?a_id=053755d8ed376f0501e3d34b431024a2)
-- [【安全热点】每日攻防资讯简报Dec.28th](https://sec.thief.one/article_content?a_id=f9956bdba58103301a838fe209a98bff)
-- [【安全热点】相约明日,不见不散-|-CIS-2020参会指南](https://sec.thief.one/article_content?a_id=f8a7893336ddff914a0201c7fc5b2a6c)
-- [【安全热点】带你一文看懂-Blockchain-+-NoSQL数据库](https://sec.thief.one/article_content?a_id=a44badc84aa438df1502bdff500b7b0f)
-- [【安全热点】#看雪2020年度优秀文章#-致敬原创内容贡献者](https://sec.thief.one/article_content?a_id=77253f804324df20d2f9f9fad0d6bd3b)
-- [【安全热点】第五届“五个一百”网络正能量精品展示之网络正能量图片一](https://sec.thief.one/article_content?a_id=241c154597223950952b48b63c359097)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

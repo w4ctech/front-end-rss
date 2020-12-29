@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-29 05:01:53，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-29 05:18:21，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -517,26 +517,26 @@
 </summary>
 
 
+- [2020-12-29-探索新大陆:基于冷门协议sctp反弹shell](https://sec.thief.one/article_content?a_id=195c054b7eb6d894ee5a67dee83a16a8) ![](assets/new.png)  
+- [2020-12-29-实际利用Kerberos-Bronze-Bit漏洞绕过委派限制CVE-2020-17049](https://sec.thief.one/article_content?a_id=2529aadd3aa85bfcb9333e13dcf83d29) ![](assets/new.png)  
+- [2020-12-29-2020,难忘那抹“中国红”](https://sec.thief.one/article_content?a_id=f3aada2efecc04b8167115b803f2f80f) ![](assets/new.png)  
+- [2020-12-29-微软被指旗下产品遭滥用攻击客户,一家美国顶级安全公司险些被黑](https://sec.thief.one/article_content?a_id=1dd8a06302999b7a89997c94fd2a4196) ![](assets/new.png)  
+- [2020-12-29-每日安全动态推送12-29](https://sec.thief.one/article_content?a_id=d73788a24739fbb8ef772930b1ec3296) ![](assets/new.png)  
+- [2020-12-29-2020数说安全研究报告大全丨收藏贴](https://sec.thief.one/article_content?a_id=6f690403dacf0cebe3e1f88fe2ad55a3) ![](assets/new.png)  
+- [2020-12-29-【漏洞通告】FasterXML-Jackson-databind-远程代码执行漏洞-CVE-...](https://sec.thief.one/article_content?a_id=782c432956cf8c0d70a7afcc4957b2fc) ![](assets/new.png)  
+- [2020-12-29-记一次SQLmap实战](https://sec.thief.one/article_content?a_id=2936c2a3fd4156e43848641556c8b21b) ![](assets/new.png)  
+- [2020-12-29-开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=9f248df9e7be799c93755c92ac439288) ![](assets/new.png)  
+- [2020-12-29-【视频】|-网络安全等级保护2.0要求](https://sec.thief.one/article_content?a_id=9f69670a997ac431f90ba460482ff011) ![](assets/new.png)  
+- [2020-12-29-WSUS攻击Part1:介绍PyWSUS](https://sec.thief.one/article_content?a_id=37ce38b56f59bba83d7003a7c3cb8f96) ![](assets/new.png)  
+- [2020-12-29-浙数文化与安恒信息签订战略合作协议,赋能传媒数字经济发展-安恒信...](https://sec.thief.one/article_content?a_id=957c02de65f3e6f1f220ae4536f86d0d) ![](assets/new.png)  
+- [2020-12-29-内网渗透测试:内网横向移动基础总结](https://sec.thief.one/article_content?a_id=4b2a8169e4bc7589829fcf8a1383217f) ![](assets/new.png)  
+- [2020-12-29-如何从-100-亿-URL-中找出相同的-URL?](https://sec.thief.one/article_content?a_id=49fd85557f8a981ea9d495f9f89e3b85) ![](assets/new.png)  
 - [2020-12-29-力扣Cookbook神器,算法刷题宝典](https://sec.thief.one/article_content?a_id=9caf2bdc896968d3dd04defd1d82cace) ![](assets/new.png)  
 - [2020-12-29-智能门铃-物联网的噩梦](https://sec.thief.one/article_content?a_id=32764ff80a16bce2ef8943a2624f4c19) ![](assets/new.png)  
 - [2020-12-28-【漏洞预警】SolarWinds-Orion-API-远程代码执行漏洞CVE-2020-...](https://sec.thief.one/article_content?a_id=05c31eb456b3b83350716d8bfb813225) ![](assets/new.png)  
 - [2020-12-28-前端从入门到放弃,是因为你没有这份高薪成长路线](https://sec.thief.one/article_content?a_id=bbf1a5d59e75aa1c4300d8f1fd8aeeed) ![](assets/new.png)  
 - [2020-12-28-面向对象:希望未来的他有责任心、自信,遇到问题愿意一起解决](https://sec.thief.one/article_content?a_id=8e2c3c316e1968fdb1d7ef745d76bd7a) ![](assets/new.png)  
 - [2020-12-28-奇安信集团被全国工商联授予“抗击疫情先进民营企业”荣誉称号](https://sec.thief.one/article_content?a_id=053755d8ed376f0501e3d34b431024a2) ![](assets/new.png)  
-- [2020-12-28-【安全圈】俄罗斯加密交易所-Livecoin-被黑客入侵-失去对服务器的控...](https://sec.thief.one/article_content?a_id=df2c47cb635cdca4f6fe55e0560c5611) ![](assets/new.png)  
-- [2020-12-28-每日攻防资讯简报Dec.28th](https://sec.thief.one/article_content?a_id=f9956bdba58103301a838fe209a98bff) ![](assets/new.png)  
-- [2020-12-28-报告发布|十种前沿数据安全技术,聚焦企业合规痛点](https://sec.thief.one/article_content?a_id=ae04476887fe9ee7c71776b44c084d9e) ![](assets/new.png)  
-- [2020-12-28-相约明日,不见不散-|-CIS-2020参会指南](https://sec.thief.one/article_content?a_id=f8a7893336ddff914a0201c7fc5b2a6c) ![](assets/new.png)  
-- [2020-12-28-2020金帽子年度盛典召开,JSRC荣获“年度最受关注安全应急响应中...](https://sec.thief.one/article_content?a_id=be9183dd48f682272f3b9b4099c75aa0) ![](assets/new.png)  
-- [2020-12-28-带你一文看懂-Blockchain-+-NoSQL数据库](https://sec.thief.one/article_content?a_id=a44badc84aa438df1502bdff500b7b0f) ![](assets/new.png)  
-- [2020-12-28-招聘-|-慧科讯业招聘逆向工程师](https://sec.thief.one/article_content?a_id=425e24d150ce3a54bf0eab47d7b6d287) ![](assets/new.png)  
-- [2020-12-28-#看雪2020年度优秀文章#-致敬原创内容贡献者](https://sec.thief.one/article_content?a_id=77253f804324df20d2f9f9fad0d6bd3b) ![](assets/new.png)  
-- [2020-12-28-字节跳动安全团队开源自研HIDS——AgentSmith-HIDS](https://sec.thief.one/article_content?a_id=921ba119a0a6a1ea1cdd7739f47c4fc2) ![](assets/new.png)  
-- [2020-12-28-【安全热点周报】第174期:全球4500万医学影像照片被暴露](https://sec.thief.one/article_content?a_id=048aba36f598126dad0709f23267ad8f) ![](assets/new.png)  
-- [2020-12-28-第五届“五个一百”网络正能量精品展示之网络正能量图片一](https://sec.thief.one/article_content?a_id=241c154597223950952b48b63c359097) ![](assets/new.png)  
-- [2020-12-28-盘点|2020各省市网络安全园区建设与扶持政策](https://sec.thief.one/article_content?a_id=084cbe7e73dd7b0c96fc120251cab9d9) ![](assets/new.png)  
-- [2020-12-28-漏洞情报|SolarWinds-Orion远程代码执行漏洞风险通告CVE-2020-...](https://sec.thief.one/article_content?a_id=8b2d2bcc992e7130b982580ea827544d) ![](assets/new.png)  
-- [2020-12-28-国舜股份荣登“2020年中国网络安全产业100强”榜单](https://sec.thief.one/article_content?a_id=c5739aefc8f9f77188db6a126fd8fa51) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

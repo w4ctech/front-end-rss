@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-29 05:01:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-29 05:18:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -12,4 +12,5 @@
 - [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
 - [2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
+- [2020-12-29-【漏洞通告】FasterXML-Jackson-databind-远程代码执行漏洞-CVE-...](https://sec.thief.one/article_content?a_id=782c432956cf8c0d70a7afcc4957b2fc) 
 - [2020-12-28-2020金帽子年度盛典召开,JSRC荣获“年度最受关注安全应急响应中...](https://sec.thief.one/article_content?a_id=be9183dd48f682272f3b9b4099c75aa0) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-29 05:01:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-29 05:18:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,11 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2020-12-29-微软被指旗下产品遭滥用攻击客户,一家美国顶级安全公司险些被黑](https://sec.thief.one/article_content?a_id=1dd8a06302999b7a89997c94fd2a4196) 
+- [2020-12-29-每日安全动态推送12-29](https://sec.thief.one/article_content?a_id=d73788a24739fbb8ef772930b1ec3296) 
+- [2020-12-29-2020数说安全研究报告大全丨收藏贴](https://sec.thief.one/article_content?a_id=6f690403dacf0cebe3e1f88fe2ad55a3) 
+- [2020-12-29-开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=9f248df9e7be799c93755c92ac439288) 
+- [2020-12-29-如何从-100-亿-URL-中找出相同的-URL?](https://sec.thief.one/article_content?a_id=49fd85557f8a981ea9d495f9f89e3b85) 
 - [2020-12-28-【安全圈】俄罗斯加密交易所-Livecoin-被黑客入侵-失去对服务器的控...](https://sec.thief.one/article_content?a_id=df2c47cb635cdca4f6fe55e0560c5611) 
 - [2020-12-28-报告发布|十种前沿数据安全技术,聚焦企业合规痛点](https://sec.thief.one/article_content?a_id=ae04476887fe9ee7c71776b44c084d9e) 
 - [2020-12-28-字节跳动安全团队开源自研HIDS——AgentSmith-HIDS](https://sec.thief.one/article_content?a_id=921ba119a0a6a1ea1cdd7739f47c4fc2) 
@@ -24,9 +29,3 @@
 - [2020-12-26-用奥运标准培养网络安全尖兵-第四届“蓝帽杯”大赛举行颁奖典礼](https://sec.thief.one/article_content?a_id=aab5a04666def7ce81079657a5396318) 
 - [2020-12-26-全面转向IPv6,美国政府如何规划安全策略?](https://sec.thief.one/article_content?a_id=65537629529fa11770815fd12f0060d7) 
 - [2020-12-25-【安全圈】泄露文件曝光任天堂侵入性监控黑客行动](https://sec.thief.one/article_content?a_id=afd16339efafc4bf6b0c15273753797e) 
-- [2020-12-25-OPPO终端安全岗位招聘火热进行中](https://sec.thief.one/article_content?a_id=b096fc5aa921e06955824eeddb646454) 
-- [2020-12-25-企业安全后期运营建设:从细微之处看起](https://sec.thief.one/article_content?a_id=5e8499f5b86a096033e20366a59f830e) 
-- [2020-12-25-招聘-|-腾讯安全专家咨询中心web安全岗位招聘](https://sec.thief.one/article_content?a_id=ff153fe656a3bbeace4d47d4261b04d6) 
-- [2020-12-25-个人信息保护伞-|-绿盟BMG守护政府网站业务安全](https://sec.thief.one/article_content?a_id=0afdf6d059c674f0e46577aedd6e6846) 
-- [2020-12-25-2020北向峰会召开,京东安全探索甲方安全建设破局之道](https://sec.thief.one/article_content?a_id=3ab38282feefdec880e8ab1352f0a70d) 
-- [2020-12-25-SolarWinds前员工披露:公司长期存在漏洞、管理层极不重视安全](https://sec.thief.one/article_content?a_id=3302c958cbb42aaa4a31e1688dbf202c) 

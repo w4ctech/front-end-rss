@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-29 05:01:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-29 05:18:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -15,6 +15,13 @@
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
 - [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
 - [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
+- [2020-12-29-探索新大陆:基于冷门协议sctp反弹shell](https://sec.thief.one/article_content?a_id=195c054b7eb6d894ee5a67dee83a16a8) 
+- [2020-12-29-实际利用Kerberos-Bronze-Bit漏洞绕过委派限制CVE-2020-17049](https://sec.thief.one/article_content?a_id=2529aadd3aa85bfcb9333e13dcf83d29) 
+- [2020-12-29-2020,难忘那抹“中国红”](https://sec.thief.one/article_content?a_id=f3aada2efecc04b8167115b803f2f80f) 
+- [2020-12-29-记一次SQLmap实战](https://sec.thief.one/article_content?a_id=2936c2a3fd4156e43848641556c8b21b) 
+- [2020-12-29-WSUS攻击Part1:介绍PyWSUS](https://sec.thief.one/article_content?a_id=37ce38b56f59bba83d7003a7c3cb8f96) 
+- [2020-12-29-浙数文化与安恒信息签订战略合作协议,赋能传媒数字经济发展-安恒信...](https://sec.thief.one/article_content?a_id=957c02de65f3e6f1f220ae4536f86d0d) 
+- [2020-12-29-内网渗透测试:内网横向移动基础总结](https://sec.thief.one/article_content?a_id=4b2a8169e4bc7589829fcf8a1383217f) 
 - [2020-12-29-智能门铃-物联网的噩梦](https://sec.thief.one/article_content?a_id=32764ff80a16bce2ef8943a2624f4c19) 
 - [2020-12-28-【漏洞预警】SolarWinds-Orion-API-远程代码执行漏洞CVE-2020-...](https://sec.thief.one/article_content?a_id=05c31eb456b3b83350716d8bfb813225) 
 - [2020-12-28-前端从入门到放弃,是因为你没有这份高薪成长路线](https://sec.thief.one/article_content?a_id=bbf1a5d59e75aa1c4300d8f1fd8aeeed) 
@@ -79,9 +86,3 @@
 - [2020-12-25-6-个“吓人”的-Linux-命令](https://sec.thief.one/article_content?a_id=311c508c986886f2886fac84085cbd8d) 
 - [2020-12-25-每日攻防资讯简报Dec.25th](https://sec.thief.one/article_content?a_id=ea33acab804bfbc6bdd85d858ef0eebf) 
 - [2020-12-25-“奇”迹2020|守护5000万政企终端-领先者奇安信天擎的自我突破](https://sec.thief.one/article_content?a_id=182c4ea9fe29bbf5019524c1df06c281) 
-- [2020-12-25-重要!认清虚拟货币欺诈,防套路指南收好了!](https://sec.thief.one/article_content?a_id=e4d2cf3d548c2cd5d68a654ee68254ce) 
-- [2020-12-25-进来学习《Intel-CPU漏洞研究》](https://sec.thief.one/article_content?a_id=00f270d62dabb573713cce362eb6ecaa) 
-- [2020-12-25-Metasploit凭证入库](https://sec.thief.one/article_content?a_id=293f489d3964e67c0a5bf97974262e76) 
-- [2020-12-25-她只不过打了辛巴的假,却因隐私泄漏而遭“网暴”](https://sec.thief.one/article_content?a_id=c42d6374b4265937929e03373f48b446) 
-- [2020-12-25-Eclipse-官宣,干掉-VS-Code-!](https://sec.thief.one/article_content?a_id=538265cc1a3489f4cae15559083f297b) 
-- [2020-12-25-CSRC阅读大会邀请你来投稿啦](https://sec.thief.one/article_content?a_id=75662b13c1053f6c9f4d5c2b21b3f838) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-29 12:06:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-29 12:12:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,14 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-12-29-加密与通讯安全丨技术大牛揭秘黑客们的密码学,原来有秘诀!](https://sec.thief.one/article_content?a_id=705ea9c0a439be3ee0b7efba9206f1ea) 
 - [2020-12-29-2元打包70张明星素颜照?健康宝现个人信息安全漏洞](https://sec.thief.one/article_content?a_id=2ff1b4f7b3ad2ac1a9198de717ff2eb8) 
 - [2020-12-29-信息安全漏洞周报2020年第50期](https://sec.thief.one/article_content?a_id=47a35f499b339f1b6e2047cdf6014268) 

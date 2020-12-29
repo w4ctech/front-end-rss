@@ -15,7 +15,7 @@ jobs:
           SOURCE_REPO: 'https://github.com/w4ctech/front-end-rss.git'
           DESTINATION_REPO: 'git@gitee.com:w4ctech/front-end-rss.git'
         run: |
-          git clone --mirror "$SOURCE_REPO" && cd `basename "$SOURCE_REPO"`
+          git clone --mirror https://github.com/w4ctech/front-end-rss.git && cd front-end-rss
           git remote set-url --push origin git@gitee.com:w4ctech/front-end-rss.git
           git fetch -p origin
           git for-each-ref --format 'delete %(refname)' refs/pull | git update-ref --stdin

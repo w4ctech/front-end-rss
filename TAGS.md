@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-30 05:01:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-30 05:18:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -350,6 +350,7 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【安全热点】【视频】|-Python:类型转换](https://sec.thief.one/article_content?a_id=5e461db0be98fbcfafd97939dcf6e802)
 - [【安全热点】【安全圈】黑客入侵摄像头,蛊惑8岁女孩砸电视,亚马逊旗下Ring遭...](https://sec.thief.one/article_content?a_id=6d8b1e3c5d8cfa8f372ce8095506652b)
 - [【安全热点】病毒作者利用破解去广告腾讯视频噱头投递CS后门](https://sec.thief.one/article_content?a_id=703b5aa3d1029e03b1be3ca971e84198)
 - [【安全热点】【视频】|-网络安全等级保护2.0要求](https://sec.thief.one/article_content?a_id=9f69670a997ac431f90ba460482ff011)
@@ -402,6 +403,10 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【安全热点】开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=58244ace5518f5bf6989b7536942ac1d)
+- [【安全热点】越南国家网络安全中心招募前网络犯罪分子](https://sec.thief.one/article_content?a_id=3ef7c668455f8310f9db5e29833ad67b)
+- [【安全热点】“奇”迹2020-|-奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=856278c2c1c13c31f5c8ff795f1dfffc)
+- [【安全热点】安全牛第八版《中国网络安全行业全景图》调研启动](https://sec.thief.one/article_content?a_id=9272cdaf1c2168f4d10ec6ef4c09a630)
 - [【安全热点】加密与通讯安全丨技术大牛揭秘黑客们的密码学,原来有秘诀!](https://sec.thief.one/article_content?a_id=705ea9c0a439be3ee0b7efba9206f1ea)
 - [【安全热点】2元打包70张明星素颜照?健康宝现个人信息安全漏洞](https://sec.thief.one/article_content?a_id=2ff1b4f7b3ad2ac1a9198de717ff2eb8)
 - [【安全热点】信息安全漏洞周报2020年第50期](https://sec.thief.one/article_content?a_id=47a35f499b339f1b6e2047cdf6014268)
@@ -409,10 +414,6 @@
 - [【安全热点】每日安全动态推送12-29](https://sec.thief.one/article_content?a_id=d73788a24739fbb8ef772930b1ec3296)
 - [【安全热点】2020数说安全研究报告大全丨收藏贴](https://sec.thief.one/article_content?a_id=6f690403dacf0cebe3e1f88fe2ad55a3)
 - [【安全热点】开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=9f248df9e7be799c93755c92ac439288)
-- [【安全热点】如何从-100-亿-URL-中找出相同的-URL?](https://sec.thief.one/article_content?a_id=49fd85557f8a981ea9d495f9f89e3b85)
-- [【安全热点】【安全圈】俄罗斯加密交易所-Livecoin-被黑客入侵-失去对服务器的控...](https://sec.thief.one/article_content?a_id=df2c47cb635cdca4f6fe55e0560c5611)
-- [【安全热点】报告发布|十种前沿数据安全技术,聚焦企业合规痛点](https://sec.thief.one/article_content?a_id=ae04476887fe9ee7c71776b44c084d9e)
-- [【安全热点】字节跳动安全团队开源自研HIDS——AgentSmith-HIDS](https://sec.thief.one/article_content?a_id=921ba119a0a6a1ea1cdd7739f47c4fc2)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -456,6 +457,7 @@
 
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【安全热点】渗透某大学从弱口令到-docker-逃逸](https://sec.thief.one/article_content?a_id=1b6da4d06ed861883e880214ef4bc2fd)
 - [【安全热点】CVE-2020-15257-Docker逃逸漏洞复现](https://sec.thief.one/article_content?a_id=5e8e2f78334ed7701c53ee214b3865fa)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -476,6 +478,7 @@
 - [【凹凸实验室】规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+- [【安全热点】收藏-|-学习Python的11个顶级Github存储库](https://sec.thief.one/article_content?a_id=5829a927bc314c6520483f100afe919c)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

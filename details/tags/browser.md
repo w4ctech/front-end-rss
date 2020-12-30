@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-30 05:01:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-30 05:18:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,10 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-12-30-开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=58244ace5518f5bf6989b7536942ac1d) 
+- [2020-12-30-越南国家网络安全中心招募前网络犯罪分子](https://sec.thief.one/article_content?a_id=3ef7c668455f8310f9db5e29833ad67b) 
+- [2020-12-30-“奇”迹2020-|-奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=856278c2c1c13c31f5c8ff795f1dfffc) 
+- [2020-12-30-安全牛第八版《中国网络安全行业全景图》调研启动](https://sec.thief.one/article_content?a_id=9272cdaf1c2168f4d10ec6ef4c09a630) 
 - [2020-12-29-加密与通讯安全丨技术大牛揭秘黑客们的密码学,原来有秘诀!](https://sec.thief.one/article_content?a_id=705ea9c0a439be3ee0b7efba9206f1ea) 
 - [2020-12-29-2元打包70张明星素颜照?健康宝现个人信息安全漏洞](https://sec.thief.one/article_content?a_id=2ff1b4f7b3ad2ac1a9198de717ff2eb8) 
 - [2020-12-29-信息安全漏洞周报2020年第50期](https://sec.thief.one/article_content?a_id=47a35f499b339f1b6e2047cdf6014268) 
@@ -35,5 +39,3 @@
 - [2020-12-28-2020网络安全行业白皮书发布|携手共建打造网络安全命运共同体](https://sec.thief.one/article_content?a_id=d64738f3f3cfe4c10b8ece2c4bc1f419) 
 - [2020-12-28-Web安全:内网渗透工具](https://sec.thief.one/article_content?a_id=3cf265ac5188241fb7150149beeb0e91) 
 - [2020-12-28-年度特刊-|-2020年网络安全盘点](https://sec.thief.one/article_content?a_id=1c3a04fc0fdd6a7a0d54e0e29be98b83) 
-- [2020-12-27-私有云安全:边界安全设计实践](https://sec.thief.one/article_content?a_id=7ed5f62655df872571c093beae14851f) 
-- [2020-12-27-开普勒安全团队全体成员与合作伙伴公示](https://sec.thief.one/article_content?a_id=96c99a56e6147dd0d33787312b0e4f59) 

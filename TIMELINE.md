@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-30 05:01:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-30 05:18:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,20 @@
 - [【阮一峰的网络日志】2020-12-18-科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html) 
 - [【凹凸实验室】2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) 
 - [【凹凸实验室】2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) 
+- [【安全热点】2020-12-30-UltraRank-黑客发起的新型攻击](https://sec.thief.one/article_content?a_id=16a9ee832d1e73d0b31743c2710f9ea8) 
+- [【安全热点】2020-12-30-迎接2021,这些硬核大项目,再让我自豪!](https://sec.thief.one/article_content?a_id=fbb4fed51eda1740d2eaed89065ffd07) 
+- [【安全热点】2020-12-30-开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=58244ace5518f5bf6989b7536942ac1d) 
+- [【安全热点】2020-12-30-记一次-PowerShell-免杀实战](https://sec.thief.one/article_content?a_id=5cb0ad3262b142b38d4848241c527a74) 
+- [【安全热点】2020-12-30-越南国家网络安全中心招募前网络犯罪分子](https://sec.thief.one/article_content?a_id=3ef7c668455f8310f9db5e29833ad67b) 
+- [【安全热点】2020-12-30-“奇”迹2020-|-奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=856278c2c1c13c31f5c8ff795f1dfffc) 
+- [【安全热点】2020-12-30-文件上传的一个骚操作低权限+BypassAV](https://sec.thief.one/article_content?a_id=6db691438e324c2e345eb5df50acaf89) 
+- [【安全热点】2020-12-30-安全牛第八版《中国网络安全行业全景图》调研启动](https://sec.thief.one/article_content?a_id=9272cdaf1c2168f4d10ec6ef4c09a630) 
+- [【安全热点】2020-12-30-太奇葩!富二代搞网络诈骗-只为证明自己不是啃老族](https://sec.thief.one/article_content?a_id=32c02ab05d8b3af79620c79b2cf9da7f) 
+- [【安全热点】2020-12-30-【漏洞通告】SolarWinds-Orion-API认证绕过漏洞CVE-2020-10148](https://sec.thief.one/article_content?a_id=1972c17a64cd066f04b62c3f8de5f9ff) 
+- [【安全热点】2020-12-30-签约!安恒信息助力唐山智慧城市开花](https://sec.thief.one/article_content?a_id=8d991ba01b09a850a9e4aaa81c024dfc) 
+- [【安全热点】2020-12-30-收藏-|-学习Python的11个顶级Github存储库](https://sec.thief.one/article_content?a_id=5829a927bc314c6520483f100afe919c) 
+- [【安全热点】2020-12-30-渗透某大学从弱口令到-docker-逃逸](https://sec.thief.one/article_content?a_id=1b6da4d06ed861883e880214ef4bc2fd) 
+- [【安全热点】2020-12-30-【视频】|-Python:类型转换](https://sec.thief.one/article_content?a_id=5e461db0be98fbcfafd97939dcf6e802) 
 - [【安全热点】2020-12-30-记一次-PowerShell-免杀实战](https://sec.thief.one/article_content?a_id=d2e7c1baf05b9ca433ee753918e4cff3) 
 - [【安全热点】2020-12-30-FreeRTOS-Reverse-Engineering](https://sec.thief.one/article_content?a_id=0ea6a3dca257958dd983bbbf875643be) 
 - [【安全热点】2020-12-30-2020,习近平用这些精神激励我们](https://sec.thief.one/article_content?a_id=1512b289589950ec8fcaba905b443cd9) 
@@ -216,20 +230,6 @@
 - [【安全热点】2020-12-28-2021年最值得学习的5种编程语言](https://sec.thief.one/article_content?a_id=6449ab5ecaba79f83f496df42fd10eb2) 
 - [【安全热点】2020-12-28-百度股价接连暴涨的背后,看Apollo的2020](https://sec.thief.one/article_content?a_id=2b252631c8b9d8ac8afea22127c09a41) 
 - [【安全热点】2020-12-28-针对数据存储区的攻击测试](https://sec.thief.one/article_content?a_id=3706c0c89a5627a3dd6ef69883df2a3e) 
-- [【安全热点】2020-12-28-发现一款容器逃逸漏洞利用神器!](https://sec.thief.one/article_content?a_id=c7c5b5892dbebf52b887b11969e15da6) 
-- [【安全热点】2020-12-28-Pandas-的这个知识点,估计-80%-的人都得挂!](https://sec.thief.one/article_content?a_id=43dc4b86843a40388d9bacdd07133cd4) 
-- [【安全热点】2020-12-27-一句话,离职了](https://sec.thief.one/article_content?a_id=e7685481bd3dc8c463f2aec2c2767f41) 
-- [【安全热点】2020-12-27-私有云安全:边界安全设计实践](https://sec.thief.one/article_content?a_id=7ed5f62655df872571c093beae14851f) 
-- [【安全热点】2020-12-27-开普勒安全团队全体成员与合作伙伴公示](https://sec.thief.one/article_content?a_id=96c99a56e6147dd0d33787312b0e4f59) 
-- [【安全热点】2020-12-27-2020圣诞解密活动-Writeup](https://sec.thief.one/article_content?a_id=658b5e88bdf5d88d06cabcdeebfe717c) 
-- [【安全热点】2020-12-27-5.4k-Star!简单又全面的容器漏洞扫描工具:Trivy](https://sec.thief.one/article_content?a_id=1cd42de0faa7a9fe196aba9783a79074) 
-- [【安全热点】2020-12-27-聊聊漏洞自动修复技术的行业现状](https://sec.thief.one/article_content?a_id=f76dad7499f9e7ce75a51c7efd26a389) 
-- [【安全热点】2020-12-27-#年度评选#-2020-看雪年度版主评选中,为他打call!](https://sec.thief.one/article_content?a_id=e380fd25fcf4bb91c9dcb0e8f13814d0) 
-- [【安全热点】2020-12-27-难忘!30句话回顾一起走过的2020](https://sec.thief.one/article_content?a_id=b1731bcdaaa674742f01aa8fbe7f707b) 
-- [【安全热点】2020-12-27-不二论币:比特币力挽狂澜,3万指日可待.](https://sec.thief.one/article_content?a_id=6b02dfb5b5698ad81df473468034c79f) 
-- [【安全热点】2020-12-27-子域名挖掘——meltego介绍](https://sec.thief.one/article_content?a_id=56dd9edac08f289fea9b1f83a75e54c1) 
-- [【安全热点】2020-12-27-CVE-2020-8554:Kubernetes中间人攻击漏洞](https://sec.thief.one/article_content?a_id=d6e233b581088bf9db3ed14d18696d55) 
-- [【安全热点】2020-12-27-全球勒索特遣队成立!](https://sec.thief.one/article_content?a_id=f1309fd6c4ec58e05aff62e0553327c2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

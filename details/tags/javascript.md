@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-30 14:57:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-30 15:11:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -11,7 +11,6 @@
 - [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
 - [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
 - [2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html) 
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-12-30-关于白帽子Doggy事件的说明](https://sec.thief.one/article_content?a_id=acf7ef15376870928b46d125a85898fe) 
 - [2020-12-30-【公告】JSRC十一月月度英雄榜](https://sec.thief.one/article_content?a_id=363fc98ea9672e601975b8b3a188df31) 
 - [2020-12-29-【漏洞通告】FasterXML-Jackson-databind-远程代码执行漏洞-CVE-...](https://sec.thief.one/article_content?a_id=782c432956cf8c0d70a7afcc4957b2fc) 

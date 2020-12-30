@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-30 10:08:09，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-30 10:18:33，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -517,6 +517,19 @@
 </summary>
 
 
+- [2020-12-30-关于白帽子Doggy事件的说明](https://sec.thief.one/article_content?a_id=acf7ef15376870928b46d125a85898fe) ![](assets/new.png)  
+- [2020-12-30-基于机器学习的漏洞检测高影响因素实证研究](https://sec.thief.one/article_content?a_id=a89a809b132f633cba45b51c1499e0b6) ![](assets/new.png)  
+- [2020-12-30-顺利脱欧后,英国电邮加密标准被曝过时](https://sec.thief.one/article_content?a_id=76abf3c07c2015364959e61fc9a78402) ![](assets/new.png)  
+- [2020-12-30-【漏洞预警】深信服SSL-VPN命令注入漏洞](https://sec.thief.one/article_content?a_id=43426f43227235cac19904d481cb4778) ![](assets/new.png)  
+- [2020-12-30-2020雷神众测线上校园行精彩回顾](https://sec.thief.one/article_content?a_id=7ec82e360c66b55cf30246bf58396035) ![](assets/new.png)  
+- [2020-12-30-专家精品|-企业数据加密策略规划与落地方案探讨](https://sec.thief.one/article_content?a_id=7ab683925c8ddb9220bcaab76b606787) ![](assets/new.png)  
+- [2020-12-30-“奇”迹2020|奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=c2bcf290640ba90eb166413b88f71a84) ![](assets/new.png)  
+- [2020-12-30-【公告】JSRC十一月月度英雄榜](https://sec.thief.one/article_content?a_id=363fc98ea9672e601975b8b3a188df31) ![](assets/new.png)  
+- [2020-12-30-1个词回顾2020,你会选____](https://sec.thief.one/article_content?a_id=901d22c6763524a30941d59ee5b45bbb) ![](assets/new.png)  
+- [2020-12-30-零信任“VPN”:从理念到落地](https://sec.thief.one/article_content?a_id=6479573fa6b52119ea7e8bc823a5edf3) ![](assets/new.png)  
+- [2020-12-30-感谢信-|-国舜股份网络安全保障实力获江苏省公安厅认可](https://sec.thief.one/article_content?a_id=fb41c6151be070f5ed5e1955272be859) ![](assets/new.png)  
+- [2020-12-30-致广大高校师生们的一封信VPN篇](https://sec.thief.one/article_content?a_id=4661033ad7185e06ee5a5a9a2992a942) ![](assets/new.png)  
+- [2020-12-30-12月30日GUIBI早内参-OKExChain即将启动主网且元旦起创世发行OKT](https://sec.thief.one/article_content?a_id=c1d20d320ddb14b8f4c31185741cc377) ![](assets/new.png)  
 - [2020-12-30-UltraRank-黑客发起的新型攻击](https://sec.thief.one/article_content?a_id=16a9ee832d1e73d0b31743c2710f9ea8) ![](assets/new.png)  
 - [2020-12-30-迎接2021,这些硬核大项目,再让我自豪!](https://sec.thief.one/article_content?a_id=fbb4fed51eda1740d2eaed89065ffd07) ![](assets/new.png)  
 - [2020-12-30-开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=58244ace5518f5bf6989b7536942ac1d) ![](assets/new.png)  
@@ -524,19 +537,6 @@
 - [2020-12-30-越南国家网络安全中心招募前网络犯罪分子](https://sec.thief.one/article_content?a_id=3ef7c668455f8310f9db5e29833ad67b) ![](assets/new.png)  
 - [2020-12-30-“奇”迹2020-|-奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=856278c2c1c13c31f5c8ff795f1dfffc) ![](assets/new.png)  
 - [2020-12-30-文件上传的一个骚操作低权限+BypassAV](https://sec.thief.one/article_content?a_id=6db691438e324c2e345eb5df50acaf89) ![](assets/new.png)  
-- [2020-12-30-安全牛第八版《中国网络安全行业全景图》调研启动](https://sec.thief.one/article_content?a_id=9272cdaf1c2168f4d10ec6ef4c09a630) ![](assets/new.png)  
-- [2020-12-30-太奇葩!富二代搞网络诈骗-只为证明自己不是啃老族](https://sec.thief.one/article_content?a_id=32c02ab05d8b3af79620c79b2cf9da7f) ![](assets/new.png)  
-- [2020-12-30-【漏洞通告】SolarWinds-Orion-API认证绕过漏洞CVE-2020-10148](https://sec.thief.one/article_content?a_id=1972c17a64cd066f04b62c3f8de5f9ff) ![](assets/new.png)  
-- [2020-12-30-签约!安恒信息助力唐山智慧城市开花](https://sec.thief.one/article_content?a_id=8d991ba01b09a850a9e4aaa81c024dfc) ![](assets/new.png)  
-- [2020-12-30-收藏-|-学习Python的11个顶级Github存储库](https://sec.thief.one/article_content?a_id=5829a927bc314c6520483f100afe919c) ![](assets/new.png)  
-- [2020-12-30-渗透某大学从弱口令到-docker-逃逸](https://sec.thief.one/article_content?a_id=1b6da4d06ed861883e880214ef4bc2fd) ![](assets/new.png)  
-- [2020-12-30-【视频】|-Python:类型转换](https://sec.thief.one/article_content?a_id=5e461db0be98fbcfafd97939dcf6e802) ![](assets/new.png)  
-- [2020-12-30-记一次-PowerShell-免杀实战](https://sec.thief.one/article_content?a_id=d2e7c1baf05b9ca433ee753918e4cff3) ![](assets/new.png)  
-- [2020-12-30-FreeRTOS-Reverse-Engineering](https://sec.thief.one/article_content?a_id=0ea6a3dca257958dd983bbbf875643be) ![](assets/new.png)  
-- [2020-12-30-2020,习近平用这些精神激励我们](https://sec.thief.one/article_content?a_id=1512b289589950ec8fcaba905b443cd9) ![](assets/new.png)  
-- [2020-12-29-窃听设备伪装成充电宝,可远程定位录音](https://sec.thief.one/article_content?a_id=c607c4be769a998666f0aa7fac69a6c8) ![](assets/new.png)  
-- [2020-12-29-CVE-2020-15257-Docker逃逸漏洞复现](https://sec.thief.one/article_content?a_id=5e8e2f78334ed7701c53ee214b3865fa) ![](assets/new.png)  
-- [2020-12-29-FVIP会员日撞上CIS-2020,福利多多!](https://sec.thief.one/article_content?a_id=d06e299fc711e7bb5b2a3a6b672c1b9d) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

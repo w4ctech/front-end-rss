@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-30 10:08:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-30 10:18:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -175,6 +175,8 @@
 - [【张鑫旭-鑫空间-鑫生活】尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/)
 - [【阮一峰的网络日志】Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)
 - [【京东设计中心】HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)
+- [【安全热点】关于白帽子Doggy事件的说明](https://sec.thief.one/article_content?a_id=acf7ef15376870928b46d125a85898fe)
+- [【安全热点】【公告】JSRC十一月月度英雄榜](https://sec.thief.one/article_content?a_id=363fc98ea9672e601975b8b3a188df31)
 - [【安全热点】【漏洞通告】FasterXML-Jackson-databind-远程代码执行漏洞-CVE-...](https://sec.thief.one/article_content?a_id=782c432956cf8c0d70a7afcc4957b2fc)
 - [【安全热点】2020金帽子年度盛典召开,JSRC荣获“年度最受关注安全应急响应中...](https://sec.thief.one/article_content?a_id=be9183dd48f682272f3b9b4099c75aa0)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -213,6 +215,7 @@
 
 
 
+- [【安全热点】12月30日GUIBI早内参-OKExChain即将启动主网且元旦起创世发行OKT](https://sec.thief.one/article_content?a_id=c1d20d320ddb14b8f4c31185741cc377)
 - [【安全热点】12月29日GUIBI早内参-Coinbase明年1月暂停XRP交易,OKEx即将发...](https://sec.thief.one/article_content?a_id=fd949281e50863e2aa870de92af4adf3)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
@@ -269,6 +272,8 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
+- [【安全热点】“奇”迹2020|奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=c2bcf290640ba90eb166413b88f71a84)
+- [【安全热点】感谢信-|-国舜股份网络安全保障实力获江苏省公安厅认可](https://sec.thief.one/article_content?a_id=fb41c6151be070f5ed5e1955272be859)
 - [【安全热点】开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=58244ace5518f5bf6989b7536942ac1d)
 - [【安全热点】越南国家网络安全中心招募前网络犯罪分子](https://sec.thief.one/article_content?a_id=3ef7c668455f8310f9db5e29833ad67b)
 - [【安全热点】“奇”迹2020-|-奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=856278c2c1c13c31f5c8ff795f1dfffc)
@@ -286,8 +291,6 @@
 - [【安全热点】字节跳动安全团队开源自研HIDS——AgentSmith-HIDS](https://sec.thief.one/article_content?a_id=921ba119a0a6a1ea1cdd7739f47c4fc2)
 - [【安全热点】【安全热点周报】第174期:全球4500万医学影像照片被暴露](https://sec.thief.one/article_content?a_id=048aba36f598126dad0709f23267ad8f)
 - [【安全热点】盘点|2020各省市网络安全园区建设与扶持政策](https://sec.thief.one/article_content?a_id=084cbe7e73dd7b0c96fc120251cab9d9)
-- [【安全热点】国舜股份荣登“2020年中国网络安全产业100强”榜单](https://sec.thief.one/article_content?a_id=c5739aefc8f9f77188db6a126fd8fa51)
-- [【安全热点】《工业互联网边缘计算安全白皮书-2020-》发布-附下载](https://sec.thief.one/article_content?a_id=9d759fb0f0e9cbe2c154697cb665997f)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -390,7 +393,6 @@
 
 
 
-- [【安全热点】首例涉新冠肺炎疫情侵犯公民隐私权案判了!书面道歉,赔偿1元](https://sec.thief.one/article_content?a_id=7b09bf717e0861a18aa67c943366472f)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -415,16 +417,16 @@
 - [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
 - [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
+- [【安全热点】基于机器学习的漏洞检测高影响因素实证研究](https://sec.thief.one/article_content?a_id=a89a809b132f633cba45b51c1499e0b6)
+- [【安全热点】顺利脱欧后,英国电邮加密标准被曝过时](https://sec.thief.one/article_content?a_id=76abf3c07c2015364959e61fc9a78402)
+- [【安全热点】【漏洞预警】深信服SSL-VPN命令注入漏洞](https://sec.thief.one/article_content?a_id=43426f43227235cac19904d481cb4778)
+- [【安全热点】2020雷神众测线上校园行精彩回顾](https://sec.thief.one/article_content?a_id=7ec82e360c66b55cf30246bf58396035)
+- [【安全热点】专家精品|-企业数据加密策略规划与落地方案探讨](https://sec.thief.one/article_content?a_id=7ab683925c8ddb9220bcaab76b606787)
+- [【安全热点】1个词回顾2020,你会选____](https://sec.thief.one/article_content?a_id=901d22c6763524a30941d59ee5b45bbb)
+- [【安全热点】零信任“VPN”:从理念到落地](https://sec.thief.one/article_content?a_id=6479573fa6b52119ea7e8bc823a5edf3)
+- [【安全热点】致广大高校师生们的一封信VPN篇](https://sec.thief.one/article_content?a_id=4661033ad7185e06ee5a5a9a2992a942)
 - [【安全热点】UltraRank-黑客发起的新型攻击](https://sec.thief.one/article_content?a_id=16a9ee832d1e73d0b31743c2710f9ea8)
 - [【安全热点】迎接2021,这些硬核大项目,再让我自豪!](https://sec.thief.one/article_content?a_id=fbb4fed51eda1740d2eaed89065ffd07)
-- [【安全热点】记一次-PowerShell-免杀实战](https://sec.thief.one/article_content?a_id=5cb0ad3262b142b38d4848241c527a74)
-- [【安全热点】文件上传的一个骚操作低权限+BypassAV](https://sec.thief.one/article_content?a_id=6db691438e324c2e345eb5df50acaf89)
-- [【安全热点】太奇葩!富二代搞网络诈骗-只为证明自己不是啃老族](https://sec.thief.one/article_content?a_id=32c02ab05d8b3af79620c79b2cf9da7f)
-- [【安全热点】【漏洞通告】SolarWinds-Orion-API认证绕过漏洞CVE-2020-10148](https://sec.thief.one/article_content?a_id=1972c17a64cd066f04b62c3f8de5f9ff)
-- [【安全热点】签约!安恒信息助力唐山智慧城市开花](https://sec.thief.one/article_content?a_id=8d991ba01b09a850a9e4aaa81c024dfc)
-- [【安全热点】记一次-PowerShell-免杀实战](https://sec.thief.one/article_content?a_id=d2e7c1baf05b9ca433ee753918e4cff3)
-- [【安全热点】FreeRTOS-Reverse-Engineering](https://sec.thief.one/article_content?a_id=0ea6a3dca257958dd983bbbf875643be)
-- [【安全热点】2020,习近平用这些精神激励我们](https://sec.thief.one/article_content?a_id=1512b289589950ec8fcaba905b443cd9)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

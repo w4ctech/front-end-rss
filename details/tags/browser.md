@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-30 10:08:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-30 10:18:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,8 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2020-12-30-“奇”迹2020|奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=c2bcf290640ba90eb166413b88f71a84) 
+- [2020-12-30-感谢信-|-国舜股份网络安全保障实力获江苏省公安厅认可](https://sec.thief.one/article_content?a_id=fb41c6151be070f5ed5e1955272be859) 
 - [2020-12-30-开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=58244ace5518f5bf6989b7536942ac1d) 
 - [2020-12-30-越南国家网络安全中心招募前网络犯罪分子](https://sec.thief.one/article_content?a_id=3ef7c668455f8310f9db5e29833ad67b) 
 - [2020-12-30-“奇”迹2020-|-奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=856278c2c1c13c31f5c8ff795f1dfffc) 
@@ -29,5 +31,3 @@
 - [2020-12-28-《工业互联网边缘计算安全白皮书-2020-》发布-附下载](https://sec.thief.one/article_content?a_id=9d759fb0f0e9cbe2c154697cb665997f) 
 - [2020-12-28-每日安全动态推送12-28](https://sec.thief.one/article_content?a_id=025132b18f3c05d5a7b53f9a4db3aa10) 
 - [2020-12-28-2020网络安全行业白皮书发布|携手共建打造网络安全命运共同体](https://sec.thief.one/article_content?a_id=d64738f3f3cfe4c10b8ece2c4bc1f419) 
-- [2020-12-28-Web安全:内网渗透工具](https://sec.thief.one/article_content?a_id=3cf265ac5188241fb7150149beeb0e91) 
-- [2020-12-28-年度特刊-|-2020年网络安全盘点](https://sec.thief.one/article_content?a_id=1c3a04fc0fdd6a7a0d54e0e29be98b83) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-30 00:07:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-30 00:33:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,4 +37,3 @@
 - [2020-12-28-年度特刊-|-2020年网络安全盘点](https://sec.thief.one/article_content?a_id=1c3a04fc0fdd6a7a0d54e0e29be98b83) 
 - [2020-12-27-私有云安全:边界安全设计实践](https://sec.thief.one/article_content?a_id=7ed5f62655df872571c093beae14851f) 
 - [2020-12-27-开普勒安全团队全体成员与合作伙伴公示](https://sec.thief.one/article_content?a_id=96c99a56e6147dd0d33787312b0e4f59) 
-- [2020-12-26-用奥运标准培养网络安全尖兵-第四届“蓝帽杯”大赛举行颁奖典礼](https://sec.thief.one/article_content?a_id=aab5a04666def7ce81079657a5396318) 

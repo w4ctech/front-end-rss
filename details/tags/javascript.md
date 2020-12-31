@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-31 00:09:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-31 00:30:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -40,6 +40,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-12-31-针对后端组件的攻击测试](https://sec.thief.one/article_content?a_id=73725bbf157533cd57e718a97cf9a2ba) 
 - [2020-12-30-关于白帽子Doggy事件的说明](https://sec.thief.one/article_content?a_id=acf7ef15376870928b46d125a85898fe) 
 - [2020-12-30-【公告】JSRC十一月月度英雄榜](https://sec.thief.one/article_content?a_id=363fc98ea9672e601975b8b3a188df31) 
 - [2020-12-29-【漏洞通告】FasterXML-Jackson-databind-远程代码执行漏洞-CVE-...](https://sec.thief.one/article_content?a_id=782c432956cf8c0d70a7afcc4957b2fc) 

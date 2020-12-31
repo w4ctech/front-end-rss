@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-31 00:09:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-31 00:30:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -7,8 +7,8 @@
 
 - [2020-11-25-突发奇想，同步单复选框checked态岂不点击通杀？](https://www.zhangxinxu.com/wordpress/2020/11/label-sync-radio-checkbox-checked/) 
 - [2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) 
+- [2020-12-31-科技爱好者周刊（第-140-期）：印度人的工资是多少？](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html) 
 - [2020-12-25-科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html) 
-- [2020-12-18-科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html) 
 - [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
 - [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 - [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
@@ -70,7 +70,13 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-12-31-鲲鹏计算专场-WriteUp](https://sec.thief.one/article_content?a_id=116c4a038fdf08570ec8608ed291856a) 
+- [2020-12-30-5道变态的Python基础题,能做出来算你厉害!](https://sec.thief.one/article_content?a_id=26abe656c9206b1c3419b66c1b491d35) 
+- [2020-12-30-除了后空翻和跑酷,Atlas-机器人又学会跳舞了.马斯克看完都惊叹](https://sec.thief.one/article_content?a_id=765ffb9c5d9ef68add4154be948ce334) 
+- [2020-12-30-绿盟科技斩获“金鼎奖”年度优秀金融科技解决方案奖](https://sec.thief.one/article_content?a_id=5be12a5381440963477005541b8884a2) 
+- [2020-12-30-小伙子,你要“耗子尾汁”](https://sec.thief.one/article_content?a_id=af55f4d79e990ce8987a9f9eea8beb2f) 
 - [2020-12-30-基于机器学习的漏洞检测高影响因素实证研究](https://sec.thief.one/article_content?a_id=a89a809b132f633cba45b51c1499e0b6) 
+- [2020-12-30-AI还原“帝王相”,背后的技术真让人惊叹!](https://sec.thief.one/article_content?a_id=2a3d69f22ef333caa948d64cf5c58b15) 
 - [2020-12-30-顺利脱欧后,英国电邮加密标准被曝过时](https://sec.thief.one/article_content?a_id=76abf3c07c2015364959e61fc9a78402) 
 - [2020-12-30-【漏洞预警】深信服SSL-VPN命令注入漏洞](https://sec.thief.one/article_content?a_id=43426f43227235cac19904d481cb4778) 
 - [2020-12-30-2020雷神众测线上校园行精彩回顾](https://sec.thief.one/article_content?a_id=7ec82e360c66b55cf30246bf58396035) 
@@ -122,10 +128,3 @@
 - [2020-12-28-#看雪2020年度优秀文章#-致敬原创内容贡献者](https://sec.thief.one/article_content?a_id=77253f804324df20d2f9f9fad0d6bd3b) 
 - [2020-12-28-第五届“五个一百”网络正能量精品展示之网络正能量图片一](https://sec.thief.one/article_content?a_id=241c154597223950952b48b63c359097) 
 - [2020-12-28-漏洞情报|SolarWinds-Orion远程代码执行漏洞风险通告CVE-2020-...](https://sec.thief.one/article_content?a_id=8b2d2bcc992e7130b982580ea827544d) 
-- [2020-12-28-叮咚,雷神众测线上校园行已启动!](https://sec.thief.one/article_content?a_id=d7e2759ef900314822c520e8994d497c) 
-- [2020-12-28-迈阿密市长探索加密治理的相关概念](https://sec.thief.one/article_content?a_id=0a924554672f418829b02434e8797b57) 
-- [2020-12-28-略微扎手的渗透测试](https://sec.thief.one/article_content?a_id=5a4a3a20b07f7eb40bf08ca39f4cb857) 
-- [2020-12-28-36-小时之后,苹果终于修复-iCloud-登录激活问题](https://sec.thief.one/article_content?a_id=61fb7c1cb06a7c6ad7b9764e4f73ee2f) 
-- [2020-12-28-央视曝光窃听黑色产业链:设备可伪装成充电宝-可远程定位和录音](https://sec.thief.one/article_content?a_id=d219818a21647a5a53102398c8f9944c) 
-- [2020-12-28-比特币短线逢三则止,后续市场操作与展望](https://sec.thief.one/article_content?a_id=f94854bb066205457a55cf4131e8e046) 
-- [2020-12-28-【经典漏洞回顾】Microsoft-Windows-Win32k本地提权漏洞分析...](https://sec.thief.one/article_content?a_id=9c384d1ded8c6f9d8d11467b8e2a6d0d) 

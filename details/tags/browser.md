@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-31 00:09:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-31 00:30:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,10 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-12-30-DevSecOps实践与技术专场圆满落幕!畅谈软件应用安全开发](https://sec.thief.one/article_content?a_id=0e2799ced863f321fd74b5d087923fa7) 
+- [2020-12-30-【安全圈】货运巨头Forward-Air遭到新型勒索软件Hades的攻击](https://sec.thief.one/article_content?a_id=38dccb8913cf2205c7bf1159e3495f49) 
+- [2020-12-30-奇安信助力“2020网络安全标准论坛”成功举办](https://sec.thief.one/article_content?a_id=7b917db559c184e575d28231fe609f6f) 
+- [2020-12-30-当食品安全遇上“区块链”](https://sec.thief.one/article_content?a_id=8d9bf89179dd497d45cb9a4316323dbd) 
 - [2020-12-30-“奇”迹2020|奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=c2bcf290640ba90eb166413b88f71a84) 
 - [2020-12-30-感谢信-|-国舜股份网络安全保障实力获江苏省公安厅认可](https://sec.thief.one/article_content?a_id=fb41c6151be070f5ed5e1955272be859) 
 - [2020-12-30-开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=58244ace5518f5bf6989b7536942ac1d) 
@@ -35,7 +39,3 @@
 - [2020-12-28-字节跳动安全团队开源自研HIDS——AgentSmith-HIDS](https://sec.thief.one/article_content?a_id=921ba119a0a6a1ea1cdd7739f47c4fc2) 
 - [2020-12-28-【安全热点周报】第174期:全球4500万医学影像照片被暴露](https://sec.thief.one/article_content?a_id=048aba36f598126dad0709f23267ad8f) 
 - [2020-12-28-盘点|2020各省市网络安全园区建设与扶持政策](https://sec.thief.one/article_content?a_id=084cbe7e73dd7b0c96fc120251cab9d9) 
-- [2020-12-28-国舜股份荣登“2020年中国网络安全产业100强”榜单](https://sec.thief.one/article_content?a_id=c5739aefc8f9f77188db6a126fd8fa51) 
-- [2020-12-28-《工业互联网边缘计算安全白皮书-2020-》发布-附下载](https://sec.thief.one/article_content?a_id=9d759fb0f0e9cbe2c154697cb665997f) 
-- [2020-12-28-每日安全动态推送12-28](https://sec.thief.one/article_content?a_id=025132b18f3c05d5a7b53f9a4db3aa10) 
-- [2020-12-28-2020网络安全行业白皮书发布|携手共建打造网络安全命运共同体](https://sec.thief.one/article_content?a_id=d64738f3f3cfe4c10b8ece2c4bc1f419) 

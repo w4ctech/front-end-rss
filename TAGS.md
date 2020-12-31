@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-31 00:09:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-31 00:30:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -404,6 +404,10 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【安全热点】DevSecOps实践与技术专场圆满落幕!畅谈软件应用安全开发](https://sec.thief.one/article_content?a_id=0e2799ced863f321fd74b5d087923fa7)
+- [【安全热点】【安全圈】货运巨头Forward-Air遭到新型勒索软件Hades的攻击](https://sec.thief.one/article_content?a_id=38dccb8913cf2205c7bf1159e3495f49)
+- [【安全热点】奇安信助力“2020网络安全标准论坛”成功举办](https://sec.thief.one/article_content?a_id=7b917db559c184e575d28231fe609f6f)
+- [【安全热点】当食品安全遇上“区块链”](https://sec.thief.one/article_content?a_id=8d9bf89179dd497d45cb9a4316323dbd)
 - [【安全热点】“奇”迹2020|奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=c2bcf290640ba90eb166413b88f71a84)
 - [【安全热点】感谢信-|-国舜股份网络安全保障实力获江苏省公安厅认可](https://sec.thief.one/article_content?a_id=fb41c6151be070f5ed5e1955272be859)
 - [【安全热点】开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=58244ace5518f5bf6989b7536942ac1d)
@@ -411,10 +415,6 @@
 - [【安全热点】“奇”迹2020-|-奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=856278c2c1c13c31f5c8ff795f1dfffc)
 - [【安全热点】安全牛第八版《中国网络安全行业全景图》调研启动](https://sec.thief.one/article_content?a_id=9272cdaf1c2168f4d10ec6ef4c09a630)
 - [【安全热点】加密与通讯安全丨技术大牛揭秘黑客们的密码学,原来有秘诀!](https://sec.thief.one/article_content?a_id=705ea9c0a439be3ee0b7efba9206f1ea)
-- [【安全热点】2元打包70张明星素颜照?健康宝现个人信息安全漏洞](https://sec.thief.one/article_content?a_id=2ff1b4f7b3ad2ac1a9198de717ff2eb8)
-- [【安全热点】信息安全漏洞周报2020年第50期](https://sec.thief.one/article_content?a_id=47a35f499b339f1b6e2047cdf6014268)
-- [【安全热点】微软被指旗下产品遭滥用攻击客户,一家美国顶级安全公司险些被黑](https://sec.thief.one/article_content?a_id=1dd8a06302999b7a89997c94fd2a4196)
-- [【安全热点】每日安全动态推送12-29](https://sec.thief.one/article_content?a_id=d73788a24739fbb8ef772930b1ec3296)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -545,8 +545,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】突发奇想，同步单复选框checked态岂不点击通杀？](https://www.zhangxinxu.com/wordpress/2020/11/label-sync-radio-checkbox-checked/)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
+- [【阮一峰的网络日志】科技爱好者周刊（第-140-期）：印度人的工资是多少？](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html)
-- [【阮一峰的网络日志】科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html)
 - [【京东设计中心】NutUI-CLI源码解析](https://jdc.jd.com/archives/213013)
 - [【京东设计中心】NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007)
 - [【京东设计中心】用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987)

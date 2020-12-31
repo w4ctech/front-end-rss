@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-31 05:02:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-31 05:45:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,14 +8,11 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-12-31-PoS终端的安全问题使消费者容易受骗](https://sec.thief.one/article_content?a_id=2e5ce29ad41614ab52d7f2fa49f346b0) 
+- [2020-12-31-谭校长新年致辞-&-数说安全致读者的一封信](https://sec.thief.one/article_content?a_id=d11ba0a9469a7467cba95e8133366cce) 
+- [2020-12-31-IPv6改造后容易被黑客攻击?推荐一个超火的Web端安全防护神器](https://sec.thief.one/article_content?a_id=a307a151393ca3aa8bcd94d83ae32946) 
+- [2020-12-31-物联网安全:区块链与可信监管](https://sec.thief.one/article_content?a_id=c1f74a59328e3a09b1e88c76df91f779) 
+- [2020-12-31-从21家入围单位脱颖而出,安恒信息成为唯一获得“年度安全品牌建设...](https://sec.thief.one/article_content?a_id=c7decfb74661fde111dea2dbcf8b315f) 
 - [2020-12-30-DevSecOps实践与技术专场圆满落幕!畅谈软件应用安全开发](https://sec.thief.one/article_content?a_id=0e2799ced863f321fd74b5d087923fa7) 
 - [2020-12-30-【安全圈】货运巨头Forward-Air遭到新型勒索软件Hades的攻击](https://sec.thief.one/article_content?a_id=38dccb8913cf2205c7bf1159e3495f49) 
 - [2020-12-30-奇安信助力“2020网络安全标准论坛”成功举办](https://sec.thief.one/article_content?a_id=7b917db559c184e575d28231fe609f6f) 
@@ -34,8 +31,3 @@
 - [2020-12-29-2020数说安全研究报告大全丨收藏贴](https://sec.thief.one/article_content?a_id=6f690403dacf0cebe3e1f88fe2ad55a3) 
 - [2020-12-29-开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=9f248df9e7be799c93755c92ac439288) 
 - [2020-12-29-如何从-100-亿-URL-中找出相同的-URL?](https://sec.thief.one/article_content?a_id=49fd85557f8a981ea9d495f9f89e3b85) 
-- [2020-12-28-【安全圈】俄罗斯加密交易所-Livecoin-被黑客入侵-失去对服务器的控...](https://sec.thief.one/article_content?a_id=df2c47cb635cdca4f6fe55e0560c5611) 
-- [2020-12-28-报告发布|十种前沿数据安全技术,聚焦企业合规痛点](https://sec.thief.one/article_content?a_id=ae04476887fe9ee7c71776b44c084d9e) 
-- [2020-12-28-字节跳动安全团队开源自研HIDS——AgentSmith-HIDS](https://sec.thief.one/article_content?a_id=921ba119a0a6a1ea1cdd7739f47c4fc2) 
-- [2020-12-28-【安全热点周报】第174期:全球4500万医学影像照片被暴露](https://sec.thief.one/article_content?a_id=048aba36f598126dad0709f23267ad8f) 
-- [2020-12-28-盘点|2020各省市网络安全园区建设与扶持政策](https://sec.thief.one/article_content?a_id=084cbe7e73dd7b0c96fc120251cab9d9) 

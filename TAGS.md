@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-31 09:58:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-31 10:23:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -404,6 +404,7 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【安全热点】【年度专题】安全脉搏优秀专栏作者2020年度报告](https://sec.thief.one/article_content?a_id=c16bc5025a8a2fbe49cfa6e2a99a4628)
 - [【安全热点】PoS终端的安全问题使消费者容易受骗](https://sec.thief.one/article_content?a_id=2e5ce29ad41614ab52d7f2fa49f346b0)
 - [【安全热点】谭校长新年致辞-&-数说安全致读者的一封信](https://sec.thief.one/article_content?a_id=d11ba0a9469a7467cba95e8133366cce)
 - [【安全热点】IPv6改造后容易被黑客攻击?推荐一个超火的Web端安全防护神器](https://sec.thief.one/article_content?a_id=a307a151393ca3aa8bcd94d83ae32946)
@@ -414,7 +415,6 @@
 - [【安全热点】奇安信助力“2020网络安全标准论坛”成功举办](https://sec.thief.one/article_content?a_id=7b917db559c184e575d28231fe609f6f)
 - [【安全热点】当食品安全遇上“区块链”](https://sec.thief.one/article_content?a_id=8d9bf89179dd497d45cb9a4316323dbd)
 - [【安全热点】“奇”迹2020|奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=c2bcf290640ba90eb166413b88f71a84)
-- [【安全热点】感谢信-|-国舜股份网络安全保障实力获江苏省公安厅认可](https://sec.thief.one/article_content?a_id=fb41c6151be070f5ed5e1955272be859)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -439,7 +439,6 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【安全热点】记住看小电影前一定要检查网址是不是-HTTPS-的,不然…](https://sec.thief.one/article_content?a_id=38471aec7b96be48978cd5f87ebb9e1b)
-- [【安全热点】力扣Cookbook神器,算法刷题宝典](https://sec.thief.one/article_content?a_id=9caf2bdc896968d3dd04defd1d82cace)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-31 09:58:04，:rocket: 更新条数: +362， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-31 10:23:11，:rocket: 更新条数: +362， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -537,6 +537,14 @@
 </summary>
 
 
+- [2020-12-31-详解模板注入漏洞上](https://sec.thief.one/article_content?a_id=2c07cb834cbd4cca9046657cf5c531a1) ![](assets/new.png)  
+- [2020-12-31-WSUS攻击Part2:CVE-2020-1013-Windows-10本地权限升级](https://sec.thief.one/article_content?a_id=5eab241956df3b943ed63df66650cddd) ![](assets/new.png)  
+- [2020-12-31-让密钥消失不见——AES密钥白盒及其攻防](https://sec.thief.one/article_content?a_id=eaf09e3255e31d63a513b1ba70ea4a5e) ![](assets/new.png)  
+- [2020-12-31-【年度专题】安全脉搏优秀专栏作者2020年度报告](https://sec.thief.one/article_content?a_id=c16bc5025a8a2fbe49cfa6e2a99a4628) ![](assets/new.png)  
+- [2020-12-31-跟2020年好好说再见|绿盟科技2020年成绩单](https://sec.thief.one/article_content?a_id=55587fce7328a3f7f200c7f3c5f68542) ![](assets/new.png)  
+- [2020-12-31-编写Metasploit模块获取MobaXtrem密码](https://sec.thief.one/article_content?a_id=9f9d9d89c4b018d6fc538f5ef8bf6a73) ![](assets/new.png)  
+- [2020-12-31-无惧挑战,踏浪前行-|-国舜股份2020年度盘点](https://sec.thief.one/article_content?a_id=f39ad842feb1c4b098229cc052d794d6) ![](assets/new.png)  
+- [2020-12-31-勒索失败后,家电巨头惠而浦敏感数据遭黑客泄露](https://sec.thief.one/article_content?a_id=ab257e97b07d1b8b24b781e2d0f2fa51) ![](assets/new.png)  
 - [2020-12-31-K神手札:再见2020——比特币的极致与颠覆](https://sec.thief.one/article_content?a_id=28db83ccfe69c151a686d5c2c36aee02) ![](assets/new.png)  
 - [2020-12-31-致广大高校师生们的一封信VPN篇](https://sec.thief.one/article_content?a_id=e138b6be87ac653209d69679a39e0d42) ![](assets/new.png)  
 - [2020-12-31-PoS终端的安全问题使消费者容易受骗](https://sec.thief.one/article_content?a_id=2e5ce29ad41614ab52d7f2fa49f346b0) ![](assets/new.png)  
@@ -549,14 +557,6 @@
 - [2020-12-31-在Instagram上查看任何人的私人电子邮件和生日的方式](https://sec.thief.one/article_content?a_id=f390d3b429911ee05daacf4c7275925b) ![](assets/new.png)  
 - [2020-12-31-物联网安全:区块链与可信监管](https://sec.thief.one/article_content?a_id=c1f74a59328e3a09b1e88c76df91f779) ![](assets/new.png)  
 - [2020-12-31-从21家入围单位脱颖而出,安恒信息成为唯一获得“年度安全品牌建设...](https://sec.thief.one/article_content?a_id=c7decfb74661fde111dea2dbcf8b315f) ![](assets/new.png)  
-- [2020-12-31-2020-年全球程序员收入报告出炉,字节跳动工程师收入中国最高](https://sec.thief.one/article_content?a_id=09b92c3cc23cce39c07df942b51beeb5) ![](assets/new.png)  
-- [2020-12-31-针对后端组件的攻击测试](https://sec.thief.one/article_content?a_id=73725bbf157533cd57e718a97cf9a2ba) ![](assets/new.png)  
-- [2020-12-31-鲲鹏计算专场-WriteUp](https://sec.thief.one/article_content?a_id=116c4a038fdf08570ec8608ed291856a) ![](assets/new.png)  
-- [2020-12-31-5G网新漏洞黑客可跟踪用户位置并窃取数据](https://sec.thief.one/article_content?a_id=0d1c3f6cf14dd58645caccf66ec7a373) ![](assets/new.png)  
-- [2020-12-30-5道变态的Python基础题,能做出来算你厉害!](https://sec.thief.one/article_content?a_id=26abe656c9206b1c3419b66c1b491d35) ![](assets/new.png)  
-- [2020-12-30-除了后空翻和跑酷,Atlas-机器人又学会跳舞了.马斯克看完都惊叹](https://sec.thief.one/article_content?a_id=765ffb9c5d9ef68add4154be948ce334) ![](assets/new.png)  
-- [2020-12-30-DevSecOps实践与技术专场圆满落幕!畅谈软件应用安全开发](https://sec.thief.one/article_content?a_id=0e2799ced863f321fd74b5d087923fa7) ![](assets/new.png)  
-- [2020-12-30-【安全圈】货运巨头Forward-Air遭到新型勒索软件Hades的攻击](https://sec.thief.one/article_content?a_id=38dccb8913cf2205c7bf1159e3495f49) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

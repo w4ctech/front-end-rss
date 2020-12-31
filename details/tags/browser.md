@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-31 09:58:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-31 10:23:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,7 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-12-31-【年度专题】安全脉搏优秀专栏作者2020年度报告](https://sec.thief.one/article_content?a_id=c16bc5025a8a2fbe49cfa6e2a99a4628) 
 - [2020-12-31-PoS终端的安全问题使消费者容易受骗](https://sec.thief.one/article_content?a_id=2e5ce29ad41614ab52d7f2fa49f346b0) 
 - [2020-12-31-谭校长新年致辞-&-数说安全致读者的一封信](https://sec.thief.one/article_content?a_id=d11ba0a9469a7467cba95e8133366cce) 
 - [2020-12-31-IPv6改造后容易被黑客攻击?推荐一个超火的Web端安全防护神器](https://sec.thief.one/article_content?a_id=a307a151393ca3aa8bcd94d83ae32946) 
@@ -38,4 +39,3 @@
 - [2020-12-29-每日安全动态推送12-29](https://sec.thief.one/article_content?a_id=d73788a24739fbb8ef772930b1ec3296) 
 - [2020-12-29-2020数说安全研究报告大全丨收藏贴](https://sec.thief.one/article_content?a_id=6f690403dacf0cebe3e1f88fe2ad55a3) 
 - [2020-12-29-开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=9f248df9e7be799c93755c92ac439288) 
-- [2020-12-29-如何从-100-亿-URL-中找出相同的-URL?](https://sec.thief.one/article_content?a_id=49fd85557f8a981ea9d495f9f89e3b85) 

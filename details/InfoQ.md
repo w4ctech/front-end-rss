@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-01-01 06:14:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-01 06:47:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-01-01-2020年度最全IT吃瓜指南](https://www.ershicimi.com/p/7fb37933b7c31fcb7ecfcab010f66052) 
+- [2021-01-01-从五家领先硅谷公司看中国To-B软件企业的“危”与“机”](https://www.ershicimi.com/p/fcb667299769cfd9600b3cbf13ec64ac) 
+- [2021-01-01-深入浅出Spark：存储系统](https://www.ershicimi.com/p/835d3f3471a3fbabfa1c81de1e71da12) 
 - [2020-12-31-微博老矣：被抖音快手拍在沙滩上](https://www.ershicimi.com/p/27ae9c46b5371daa8f8f9ba3f7560642) 
 - [2020-12-31-这100篇文章，你一定要收藏-|-InfoQ-年度最受欢迎文章排行榜](https://www.ershicimi.com/p/fa6267d232ae6cb9631e858244f6796d) 
 - [2020-12-31-行走在开源之路上的操作系统，openEuler-如何从-0-到-1-构建开放社区？](https://www.ershicimi.com/p/1e7f089458055b3dda2b11e5802d3abc) 
@@ -22,6 +25,3 @@
 - [2020-12-29-机器学习应用设计阶段的-10-个陷阱和-11-个最佳实践](https://www.ershicimi.com/p/3601d658497fc5ba92c58e3b01ce7c4f) 
 - [2020-12-28-40岁C++没有中年危机](https://www.ershicimi.com/p/087afff19f69b59db66aca33629aa306) 
 - [2020-12-28-解读Go语言的2020：变革前夜](https://www.ershicimi.com/p/b9a7695795a07659f3cf8654fce8cac4) 
-- [2020-12-28-爆火的低代码，是炒作还是趋势？｜-QCon](https://www.ershicimi.com/p/f87005162f2110bebbebcec595aa63d6) 
-- [2020-12-28-腾讯终于把云原生改造说明白了](https://www.ershicimi.com/p/5c45c23a96c7dc568193e21d396e15b9) 
-- [2020-12-28-微服务架构及其最重要的10个设计模式](https://www.ershicimi.com/p/28d0105c0cab12893fc58c1f95cc6bfb) 

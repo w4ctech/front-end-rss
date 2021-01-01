@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-01 15:52:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-01 16:07:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -17,5 +17,4 @@
 - [2020-02-26-第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
-- [2021-01-01-程序员经常看的开源月刊《HelloGitHub》第-57-期](https://toutiao.io/k/p8j4rr7) 
 - [2020-12-30-收藏-|-学习Python的11个顶级Github存储库](https://sec.thief.one/article_content?a_id=5829a927bc314c6520483f100afe919c) 

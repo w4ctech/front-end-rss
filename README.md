@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-01 15:52:10，:rocket: 更新条数: +3955， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-01 16:07:59，:rocket: 更新条数: +962， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -41,7 +41,7 @@
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-01-01-12月31日全国新增确诊病例19例-本土病例9例](https://m.caixin.com/m/2021-01-01/101645799.html) ![](assets/new.png)  
-- [2021-01-01-张文宏：变异病毒不会有临床上的特殊性](http://m.opinion.caixin.com/m/2021-01-01/101645928.html) ![](assets/new.png)  
-- [2021-01-01-北京再添一中风险地区，要求顺义市民非必要不出区](https://m.caixin.com/m/2021-01-01/101645900.html) ![](assets/new.png)  
-- [2021-01-01-中国内地发现首例英国变异病毒感染者-中疾控提示防疫新风险](https://m.caixin.com/m/2021-01-01/101645875.html) ![](assets/new.png)  
-- [2021-01-01-北京新增5本土病例-2人为婆媳关系](https://m.caixin.com/m/2021-01-01/101645921.html) ![](assets/new.png)  
-- [2021-01-01-北京12月31日新增5例本地新冠肺炎确诊病例](https://m.caixin.com/m/2021-01-01/101645793.html) ![](assets/new.png)  
-- [2021-01-01-【境内疫情观察】北京新增5例本土病例（12月31日）](http://m.database.caixin.com/m/2021-01-01/101645857.html) ![](assets/new.png)  
-- [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) ![](assets/new.png)  
-- [2020-12-31-张文宏：新冠疫苗上市，漫漫长夜迎来曙光](http://m.opinion.caixin.com/m/2020-12-31/101645519.html) ![](assets/new.png)  
-- [2020-12-31-旅游业回暖-澳门圣诞节入境旅客量出现疫情后高峰](https://m.caixin.com/m/2020-12-31/101645491.html) ![](assets/new.png)  
-- [2020-12-31-北京本地新增2例新冠-均为顺义金马工业园某公司员工](https://m.caixin.com/m/2020-12-31/101645174.html) ![](assets/new.png)  
-- [2020-12-31-【境内疫情观察】全国新增9例本土病例（12月30日）](http://m.database.caixin.com/m/2020-12-31/101645443.html) ![](assets/new.png)  
-- [2020-12-31-大流行手记|12月30日：阿斯利康疫苗在英获批-研究称变异毒株11月已现德国](https://m.caixin.com/m/2020-12-31/101645168.html) ![](assets/new.png)  
-- [2020-12-31-新冠疫苗将全民免费接种-已紧急接种450万剂次](https://m.caixin.com/m/2020-12-31/101645379.html) ![](assets/new.png)  
-- [2020-12-30-北京顺义聚集性疫情初步锁定源头：为印尼入境无症状感染者](https://m.caixin.com/m/2020-12-30/101644915.html) ![](assets/new.png)  
-- [2020-12-30-沈阳大连多个新冠病例涉院感-沈阳一级以下医疗机构停诊](https://m.caixin.com/m/2020-12-30/101644838.html) ![](assets/new.png)  
-- [2020-12-30-北京本地新增1例新冠确诊病例-为朝阳区4岁男童](https://m.caixin.com/m/2020-12-30/101644666.html) ![](assets/new.png)  
-- [2020-12-30-香港入境深圳需提前预定隔离酒店-名额有限先到先得](https://m.caixin.com/m/2020-12-30/101644733.html) ![](assets/new.png)  
-- [2020-12-30-【境内疫情观察】黑龙江新增1例本土病例（12月29日）](http://m.database.caixin.com/m/2020-12-30/101644822.html) ![](assets/new.png)  
-- [2020-12-30-大流行手记|12月29日：欧盟各国设法扩大疫苗自愿接种范围-英国医疗系统承压](https://m.caixin.com/m/2020-12-30/101644686.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -738,6 +718,26 @@
 </summary>
 
 
+- [2020-12-28-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8) ![](assets/new.png)  
+- [2020-12-25-前端从入门到放弃，是因为你没有这份高薪成长路线](https://www.ershicimi.com/p/8838e39add52a1fe039bce63030e77ce) ![](assets/new.png)  
+- [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) ![](assets/new.png)  
+- [2020-12-21-来一起用-Vue3.0-造轮子](https://www.ershicimi.com/p/34e97f93b5d651329bf09ddd0e0e8b2a) ![](assets/new.png)  
+- [2020-12-18-从0到1带你开发一个人脸识别考勤小程序](https://www.ershicimi.com/p/7fdc7a8a92088c3678ae5553440b47ec) ![](assets/new.png)  
+- [2020-12-15-3-年经验的前端开发是如何造轮子的？](https://www.ershicimi.com/p/246e9f152a0f65ffb86a034480f1146f) ![](assets/new.png)  
+- [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) ![](assets/new.png)  
+- [2020-12-11-推荐一个小程序实战项目！0基础可做](https://www.ershicimi.com/p/18c08bde7a831bbd26ace73f5cd169ee) ![](assets/new.png)  
+- [2020-12-10-又作什么妖？会-Vue-也是错……](https://www.ershicimi.com/p/ae08e4308e9b3c9c8dd44f2c7481bb14) ![](assets/new.png)  
+- [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668) ![](assets/new.png)  
+- [2020-12-04-小程序开发其实不难！学会这几个组件你也会](https://www.ershicimi.com/p/89fa25c16114790ca3b257faed3da5de) ![](assets/new.png)  
+- [2020-12-03-这一次彻底弄懂React-Router路由原理](https://www.ershicimi.com/p/91483570618fec8b1325f5aa8e1da6ae) ![](assets/new.png)  
+- [2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) ![](assets/new.png)  
+- [2020-11-30-前端人必备：前端与图形学](https://www.ershicimi.com/p/b6b31f502c3edb6798883387d936ba96) ![](assets/new.png)  
+- [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) ![](assets/new.png)  
+- [2020-11-25-看到程序员11月平均工资后，我第一反应：这是假的吧！](https://www.ershicimi.com/p/17570dd9f35d5357446c2cb8dcfad21c) ![](assets/new.png)  
+- [2020-11-24-腾讯、华为前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557) ![](assets/new.png)  
+- [2020-11-23-3天VUE实战，1比1还原抖音代码！](https://www.ershicimi.com/p/357d7929d9716f30eb66647a8de23f47) ![](assets/new.png)  
+- [2020-11-19-快人一步上手-Vue3.0](https://www.ershicimi.com/p/dfc983e441c2706df8b787642a0d4321) ![](assets/new.png)  
+- [2020-11-16-想自学Web？今天白送你1个抖音APP开发项目](https://www.ershicimi.com/p/b5eb5bf0b7f9e1b8f86cc281542bb7ce) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -993,6 +993,9 @@
 </summary>
 
 
+- [2021-01-01-paypal-的资金-提现到国内-有什么好的方式](https://www.v2ex.com/t/740975) ![](assets/new.png)  
+- [2021-01-01-交管-12123-新版本报错？](https://www.v2ex.com/t/740974) ![](assets/new.png)  
+- [2021-01-01-深圳福田区发-200-元电子红包了，-i-深圳-app-申领](https://www.v2ex.com/t/740973) ![](assets/new.png)  
 - [2021-01-01-我觉得我媳妇没有同理心，有点智障，单纯](https://www.v2ex.com/t/740972) ![](assets/new.png)  
 - [2021-01-01-Airpods-Max-的低功耗模式为什么只能在放入耳机套中才能启用？](https://www.v2ex.com/t/740971) ![](assets/new.png)  
 - [2021-01-01-paypal-里的美元-提现到国内的银行卡-有什么比较好的方式？](https://www.v2ex.com/t/740970) ![](assets/new.png)  
@@ -1010,9 +1013,6 @@
 - [2021-01-01-Pycharm-arm-版本已出！](https://www.v2ex.com/t/740954) ![](assets/new.png)  
 - [2021-01-01-《捕蛇者说》23-期发布：个人知识管理体系系列---输入篇](https://www.v2ex.com/t/740953) ![](assets/new.png)  
 - [2021-01-01-有老哥做过或者熟悉《大数据餐饮选址》系统吗？公司也行。有个生意想好你谈谈，直接谈钱的那种](https://www.v2ex.com/t/740952) ![](assets/new.png)  
-- [2021-01-01-家里盒子坏了-求推荐电视盒子-2G-RAM](https://www.v2ex.com/t/740950) ![](assets/new.png)  
-- [2021-01-01-请问-Dota2-M1-怎么调整最大分辨率](https://www.v2ex.com/t/740947) ![](assets/new.png)  
-- [2021-01-01-本地-Homebrew-formulae-arm64-兼容性查询](https://www.v2ex.com/t/740946) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1055,26 +1055,26 @@
 </summary>
 
 
-- [2021-01-01-求你了，别再随便打日志了，教你动态修改日志级别](https://toutiao.io/k/8bity1f) ![](assets/new.png)  
-- [2021-01-01-程序员经常看的开源月刊《HelloGitHub》第-57-期](https://toutiao.io/k/p8j4rr7) ![](assets/new.png)  
-- [2021-01-01-vivo-全球商城：订单中心架构设计与实践](https://toutiao.io/k/lcopypw) ![](assets/new.png)  
-- [2021-01-01-如何表扬下属](https://toutiao.io/k/jbktq52) ![](assets/new.png)  
-- [2021-01-01-跨系统数据一致性方案的思考（上）](https://toutiao.io/k/u6n8etu) ![](assets/new.png)  
-- [2021-01-01-老黑客的圣诞节](https://toutiao.io/k/zx2bksv) ![](assets/new.png)  
-- [2021-01-01-掌握这些-Go-语言特性，你的水平将提高-N-个档次（一）](https://toutiao.io/k/qjhlb78) ![](assets/new.png)  
-- [2021-01-01-Go-os/exec-简明教程](https://toutiao.io/k/73ywvmx) ![](assets/new.png)  
-- [2021-01-01-Kotlin-Vocabulary：Kotlin-委托代理](https://toutiao.io/k/9erdi1s) ![](assets/new.png)  
-- [2021-01-01-如何用线性回归模型做数据分析？](https://toutiao.io/k/anhray3) ![](assets/new.png)  
-- [2021-01-01-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
-- [2021-01-01-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
-- [2021-01-01-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
+- [2021-01-01-解读-Go-语言的-2020：变革前夜](https://toutiao.io/k/ifhix9t) ![](assets/new.png)  
+- [2021-01-01-挑战-Redis-单实例内存最大极限，“遭遇”-NUMA-陷阱](https://toutiao.io/k/4mnda7r) ![](assets/new.png)  
+- [2021-01-01-Golang-调试分析的高阶技巧](https://toutiao.io/k/9egd20y) ![](assets/new.png)  
+- [2021-01-01-可视化搭建平台的地图组件和日历组件方案选型](https://toutiao.io/k/m2mo0nj) ![](assets/new.png)  
+- [2021-01-01-数据管理流程，基础入门简介](https://toutiao.io/k/ilpdshj) ![](assets/new.png)  
+- [2021-01-01-抹平差异，统一类型转换服务-ConversionService](https://toutiao.io/k/taffxlp) ![](assets/new.png)  
+- [2021-01-01-API-分页设计与实现](https://toutiao.io/k/ctzfa8v) ![](assets/new.png)  
+- [2021-01-01-华为联合北大、悉尼大学对-Visual-Transformer-的最新综述](https://toutiao.io/k/m4ugzzo) ![](assets/new.png)  
+- [2021-01-01-也聊-Google-发布](https://toutiao.io/k/l8eqcmx) ![](assets/new.png)  
+- [2021-01-01-快手、快影-iOS-App-反调试](https://toutiao.io/k/dau2r6e) ![](assets/new.png)  
 - [2021-01-01-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
-- [2021-01-01-推荐-来和大家聊聊我是如何刷题的（第二弹）](https://toutiao.io/k/fs8tmfw) ![](assets/new.png)  
+- [2021-01-01-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
+- [2021-01-01-推荐-我看技术人的成长路径](https://toutiao.io/k/qnlw4ck) ![](assets/new.png)  
 - [2021-01-01-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
+- [2021-01-01-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
 - [2021-01-01-推荐-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
-- [2021-01-01-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
 - [2021-01-01-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
-- [2021-01-01-推荐-分布式任务调度系统设计：详解-Go-实现任务编排与工作流](https://toutiao.io/k/keetjdp) ![](assets/new.png)  
+- [2021-01-01-推荐-肝了-3-版才满意：分布式系统之-CAP-理论，我们对它的理解和误解](https://toutiao.io/k/q2fkii4) ![](assets/new.png)  
+- [2021-01-01-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
+- [2021-01-01-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

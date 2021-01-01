@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-01 11:18:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-01 11:43:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -24,5 +24,4 @@
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-12-06-排序算法](https://www.ershicimi.com/p/1ca2e23533568845a2a484f905348a5f) 
-- [2021-01-01-元旦快乐！滴滴出行-北京、杭州、成都内推，年前面试年后入职-Java-/前端/Android/iOS/算法/-PHP-/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/740873) 
 - [2020-12-29-记住看小电影前一定要检查网址是不是-HTTPS-的,不然…](https://sec.thief.one/article_content?a_id=38471aec7b96be48978cd5f87ebb9e1b) 

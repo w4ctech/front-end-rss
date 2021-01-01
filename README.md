@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-01 21:10:00，:rocket: 更新条数: +3971， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-01 21:25:10，:rocket: 更新条数: +3971， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1013,6 +1013,7 @@
 </summary>
 
 
+- [2021-01-01-新年第一天，写了个格力空调的-Homebridge-接入](https://www.v2ex.com/t/740985) ![](assets/new.png)  
 - [2021-01-01-iPad-有通知的提示音响起-但是没有看到通知-是-bug-吗](https://www.v2ex.com/t/740983) ![](assets/new.png)  
 - [2021-01-01-现在还有人用-emlog-的模板吗？前几天装了一个，结果文章没有评论区啊。。。。有兄弟知道这时什么原因吗？](https://www.v2ex.com/t/740982) ![](assets/new.png)  
 - [2021-01-01-这个-shell-脚本是病毒吗？](https://www.v2ex.com/t/740981) ![](assets/new.png)  
@@ -1032,7 +1033,6 @@
 - [2021-01-01-这种-QQ-短连接从哪里分享出来的](https://www.v2ex.com/t/740962) ![](assets/new.png)  
 - [2021-01-01-认真的，求教如何停止-win10-无耻更新的方法](https://www.v2ex.com/t/740961) ![](assets/new.png)  
 - [2021-01-01-准备入手一辆-Jeep-指南者-2021-款。](https://www.v2ex.com/t/740958) ![](assets/new.png)  
-- [2021-01-01-EVE-NG-iterm2-无法-telnet-登陆](https://www.v2ex.com/t/740957) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,16 +1085,16 @@
 - [2021-01-01-华为联合北大、悉尼大学对-Visual-Transformer-的最新综述](https://toutiao.io/k/m4ugzzo) ![](assets/new.png)  
 - [2021-01-01-也聊-Google-发布](https://toutiao.io/k/l8eqcmx) ![](assets/new.png)  
 - [2021-01-01-快手、快影-iOS-App-反调试](https://toutiao.io/k/dau2r6e) ![](assets/new.png)  
-- [2021-01-01-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
-- [2021-01-01-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
+- [2021-01-01-推荐-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
 - [2021-01-01-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) ![](assets/new.png)  
+- [2021-01-01-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-01-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
 - [2021-01-01-推荐-关于中台的思考和尝试](https://toutiao.io/k/t4shd8f) ![](assets/new.png)  
+- [2021-01-01-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
+- [2021-01-01-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
 - [2021-01-01-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
 - [2021-01-01-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
-- [2021-01-01-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
-- [2021-01-01-推荐-肝了-3-版才满意：分布式系统之-CAP-理论，我们对它的理解和误解](https://toutiao.io/k/q2fkii4) ![](assets/new.png)  
 - [2021-01-01-推荐-我看技术人的成长路径](https://toutiao.io/k/qnlw4ck) ![](assets/new.png)  
-- [2021-01-01-推荐-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

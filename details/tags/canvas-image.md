@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-01 05:07:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-01 05:25:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -21,4 +21,3 @@
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
 - [2020-12-30-12月30日GUIBI早内参-OKExChain即将启动主网且元旦起创世发行OKT](https://sec.thief.one/article_content?a_id=c1d20d320ddb14b8f4c31185741cc377) 
-- [2020-12-29-12月29日GUIBI早内参-Coinbase明年1月暂停XRP交易,OKEx即将发...](https://sec.thief.one/article_content?a_id=fd949281e50863e2aa870de92af4adf3) 

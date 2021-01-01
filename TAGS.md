@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-01 05:07:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-01 05:25:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -379,7 +379,6 @@
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
 - [【安全热点】12月30日GUIBI早内参-OKExChain即将启动主网且元旦起创世发行OKT](https://sec.thief.one/article_content?a_id=c1d20d320ddb14b8f4c31185741cc377)
-- [【安全热点】12月29日GUIBI早内参-Coinbase明年1月暂停XRP交易,OKEx即将发...](https://sec.thief.one/article_content?a_id=fd949281e50863e2aa870de92af4adf3)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -520,6 +519,7 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【JavaScript】排序算法](https://www.ershicimi.com/p/1ca2e23533568845a2a484f905348a5f)
+- [【V2EX】元旦快乐！滴滴出行-北京、杭州、成都内推，年前面试年后入职-Java-/前端/Android/iOS/算法/-PHP-/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/740873)
 - [【V2EX】SpaceVim-发布-v1.6.0](https://www.v2ex.com/t/740844)
 - [【安全热点】记住看小电影前一定要检查网址是不是-HTTPS-的,不然…](https://sec.thief.one/article_content?a_id=38471aec7b96be48978cd5f87ebb9e1b)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

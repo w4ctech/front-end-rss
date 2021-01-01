@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-01 09:28:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-01 09:51:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -22,8 +22,6 @@
 - [2020-11-24-“混合双打”之如何在-Class-Components-中使用-React-Hooks](https://www.ershicimi.com/p/0e0e249530678f763e438de795805147) 
 - [2020-09-20-浅谈-React-中的-XSS-攻击](https://www.ershicimi.com/p/cf465a8944c2bbb107812b217cc74f63) 
 - [2020-12-24-从业务讲React-Hook系列---异步与带延迟的加载指示器](https://www.ershicimi.com/p/27908161bc58c7dcae7e6db677bc591d) 
-- [2020-12-26-React-灵魂-23-问，你能答对几个？](https://www.ershicimi.com/p/effd9f0cd55bbec5681802fd04f1bf9b) 
-- [2020-12-23-为什么-React-源码不用-TypeScript-来写？](https://www.ershicimi.com/p/6fb8212ae06a701c61332b56648a89f2) 
 - [2020-12-25-网易智慧企业-Node.js-实践一-:-Node-应用架构设计和-React-同构](https://www.ershicimi.com/p/35531a0cf408a5fc37c3a363099d5d5c) 
 - [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) 
 - [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) 

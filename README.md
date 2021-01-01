@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-01 07:20:47，:rocket: 更新条数: +3967， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-01 07:51:54，:rocket: 更新条数: +3970， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,9 +96,9 @@
 </summary>
 
 
+- [2021-01-01-上海首次发现英国的变异新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBwPYnNH6FTVHDWJ7ok3A210101&isfromapp=1) ![](assets/new.png)  
 - [2021-01-01-31-日新增-9-例新冠肺炎本土确诊](http://www.nhc.gov.cn/xcs/yqtb/202101/fb6984369cf24060b5d4187e7fa3fc53.shtml) ![](assets/new.png)  
 - [2021-01-01-31-日北京新增-5-例本地确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202101/t20210101_2195130.html) ![](assets/new.png)  
-- [2020-12-31-成都本土疫情与隔离点垃圾有关](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio9fbqslKFS9b4NsZnQda201231&isfromapp=1) ![](assets/new.png)  
 - [2020-12-31-好消息！新冠疫苗中国全民免费](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifUxyaCRh4OkpXrw7ev8B201231&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
@@ -893,11 +893,11 @@
 </summary>
 
 
-- [2020-12-31-LeetCode题解：347.-前-K-个高频元素，二叉堆，JavaScript，详细注释](https://juejin.im/post/6912606054975504398) ![](assets/new.png)  
-- [2020-12-31-facebook、twitter、facebook登录、whatsapp分享、微信分享](https://juejin.im/post/6912593073067261966) ![](assets/new.png)  
-- [2020-12-31-前端就该用JS写算法1](https://juejin.im/post/6912589164584108045) ![](assets/new.png)  
-- [2020-12-31-红宝书里的这个错误你发现了吗--对象的原型](https://juejin.im/post/6912482398399627271) ![](assets/new.png)  
-- [2020-12-31-非科班出身的-5-年前端的曲折蜕变之路](https://juejin.im/post/6912470870787096589) ![](assets/new.png)  
+- [2020-12-31-JS之日常解题](https://juejin.im/post/6912685592480514055) ![](assets/new.png)  
+- [2020-12-31-学习笔记：vue-router4.x-与-vue-router3.x的区别](https://juejin.im/post/6912683689725919239) ![](assets/new.png)  
+- [2020-12-31-移动端开发套路总结](https://juejin.im/post/6912656994667069454) ![](assets/new.png)  
+- [2020-12-31-移动端组件库构建指北](https://juejin.im/post/6912648957445275655) ![](assets/new.png)  
+- [2020-12-31-【译】Vue3生命周期钩子（hooks）完整指南](https://juejin.im/post/6912632681813508109) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1013,6 +1013,11 @@
 </summary>
 
 
+- [2021-01-01-有什么-Api-文档管理工具具备-Swagger-那样直接用浏览器就能测试接口的能力吗？](https://www.v2ex.com/t/740889) ![](assets/new.png)  
+- [2021-01-01-项目莫名其妙多了两个更改，然后还抛弃不掉](https://www.v2ex.com/t/740888) ![](assets/new.png)  
+- [2021-01-01-求助：如何克服不想说话/社交障碍/情商低下/性格缺陷？](https://www.v2ex.com/t/740887) ![](assets/new.png)  
+- [2021-01-01-转管理真的是退路么？-一次和同事冲突后的思考-&-痛风后续](https://www.v2ex.com/t/740886) ![](assets/new.png)  
+- [2021-01-01-你习惯读英文原著还是中译版？](https://www.v2ex.com/t/740885) ![](assets/new.png)  
 - [2021-01-01-有人能给我推荐一个-usb-3.1-gen2-的-hub-吗-,-只要有读卡,2~3-个-usb-a-即可](https://www.v2ex.com/t/740882) ![](assets/new.png)  
 - [2021-01-01-🔥🔥🔥-新加坡-Shopee-直招-新年快乐，招后端开发工程师，包含-OpenResty,-eBPF,-DPDK,-Kubernetes-等不同方向](https://www.v2ex.com/t/740880) ![](assets/new.png)  
 - [2021-01-01-关于低功耗多-sata-的板子。](https://www.v2ex.com/t/740879) ![](assets/new.png)  
@@ -1028,11 +1033,6 @@
 - [2021-01-01-早晨-6-点，直播-700-多人一起立新年-flag-还挺有趣](https://www.v2ex.com/t/740868) ![](assets/new.png)  
 - [2021-01-01-先脑图流程图再编程还是先编程中修改？](https://www.v2ex.com/t/740867) ![](assets/new.png)  
 - [2021-01-01-这个不比-anker-八合一扩展坞-香吗?](https://www.v2ex.com/t/740865) ![](assets/new.png)  
-- [2021-01-01-求助：-apple-music-苹果音乐全局代理设置](https://www.v2ex.com/t/740864) ![](assets/new.png)  
-- [2021-01-01-有没有动手换过-surface-本电池的同学？](https://www.v2ex.com/t/740863) ![](assets/new.png)  
-- [2021-01-01-m1-一个新的扩展坞-WAVLINK-8K-Thunderbolt-3-扩展坞，具有-60W-充电，双-4K-@-60Hz-和单-8K-@-30Hz-显示屏，双-DP-1.4-、3xUSB-Gen-2-、2xUSB3.0，千兆位以太网](https://www.v2ex.com/t/740860) ![](assets/new.png)  
-- [2021-01-01-低频噪音采样工具](https://www.v2ex.com/t/740859) ![](assets/new.png)  
-- [2021-01-01-白色医用口罩怎么区分正反面啊？](https://www.v2ex.com/t/740857) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1082,19 +1082,19 @@
 - [2021-01-01-跨系统数据一致性方案的思考（上）](https://toutiao.io/k/u6n8etu) ![](assets/new.png)  
 - [2021-01-01-Kotlin-Vocabulary：Kotlin-委托代理](https://toutiao.io/k/9erdi1s) ![](assets/new.png)  
 - [2021-01-01-如何表扬下属](https://toutiao.io/k/jbktq52) ![](assets/new.png)  
-- [2021-01-01-如何用线性回归模型做数据分析？](https://toutiao.io/k/anhray3) ![](assets/new.png)  
 - [2021-01-01-掌握这些-Go-语言特性，你的水平将提高-N-个档次（一）](https://toutiao.io/k/qjhlb78) ![](assets/new.png)  
+- [2021-01-01-如何用线性回归模型做数据分析？](https://toutiao.io/k/anhray3) ![](assets/new.png)  
 - [2021-01-01-Go-os/exec-简明教程](https://toutiao.io/k/73ywvmx) ![](assets/new.png)  
-- [2021-01-01-推荐-分布式任务调度系统设计：详解-Go-实现任务编排与工作流](https://toutiao.io/k/keetjdp) ![](assets/new.png)  
-- [2021-01-01-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) ![](assets/new.png)  
-- [2021-01-01-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
-- [2021-01-01-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
-- [2021-01-01-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
-- [2021-01-01-推荐-关于中台的思考和尝试](https://toutiao.io/k/t4shd8f) ![](assets/new.png)  
-- [2021-01-01-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
 - [2021-01-01-推荐-我看技术人的成长路径](https://toutiao.io/k/qnlw4ck) ![](assets/new.png)  
 - [2021-01-01-推荐-漫画：一台-Linux-服务器最多能支撑多少个-TCP-连接？](https://toutiao.io/k/7fcauc4) ![](assets/new.png)  
-- [2021-01-01-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
+- [2021-01-01-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-01-推荐-分布式任务调度系统设计：详解-Go-实现任务编排与工作流](https://toutiao.io/k/keetjdp) ![](assets/new.png)  
+- [2021-01-01-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
+- [2021-01-01-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) ![](assets/new.png)  
+- [2021-01-01-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
+- [2021-01-01-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
+- [2021-01-01-推荐-ClickHouse-的实践之路](https://toutiao.io/k/zn7gb6j) ![](assets/new.png)  
+- [2021-01-01-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

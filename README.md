@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-01 02:37:48，:rocket: 更新条数: +3970， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-01 03:03:07，:rocket: 更新条数: +3969， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,10 +96,10 @@
 </summary>
 
 
+- [2021-01-01-31-日新增-9-例新冠肺炎本土确诊](http://www.nhc.gov.cn/xcs/yqtb/202101/fb6984369cf24060b5d4187e7fa3fc53.shtml) ![](assets/new.png)  
+- [2021-01-01-31-日北京新增-5-例本地确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202101/t20210101_2195130.html) ![](assets/new.png)  
 - [2020-12-31-成都本土疫情与隔离点垃圾有关](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio9fbqslKFS9b4NsZnQda201231&isfromapp=1) ![](assets/new.png)  
 - [2020-12-31-好消息！新冠疫苗中国全民免费](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifUxyaCRh4OkpXrw7ev8B201231&isfromapp=1) ![](assets/new.png)  
-- [2020-12-31-中国首支！国药新冠疫苗获批上市](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2BLRmSqn9y4jMC34IGLp201231&isfromapp=1) ![](assets/new.png)  
-- [2020-12-31-30-日新增-9-例新冠肺炎本土确诊](http://www.nhc.gov.cn/xcs/yqtb/202012/f3065d86524a4202a1384ed6b9b9f2b5.shtml) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1013,6 +1013,9 @@
 </summary>
 
 
+- [2021-01-01-新年第一天,-吃个瓜,-微软今年能不能凑齐龙珠召唤神龙?](https://www.v2ex.com/t/740835) ![](assets/new.png)  
+- [2021-01-01-生产环境数据库密码等私密信息怎么设置？](https://www.v2ex.com/t/740834) ![](assets/new.png)  
+- [2021-01-01-现在个人要给手机写个-App-也太不容易了](https://www.v2ex.com/t/740832) ![](assets/new.png)  
 - [2021-01-01-对上上级领导撒谎或应付吗？](https://www.v2ex.com/t/740830) ![](assets/new.png)  
 - [2021-01-01-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/740828) ![](assets/new.png)  
 - [2021-01-01-JetBrains-已几乎全系支持-M1-ARM-了](https://www.v2ex.com/t/740827) ![](assets/new.png)  
@@ -1030,9 +1033,6 @@
 - [2020-12-31-目前性能最强悍的-Pi-是哪个？](https://www.v2ex.com/t/740815) ![](assets/new.png)  
 - [2020-12-31-我的-2020-收获还是挺多的，你呢？](https://www.v2ex.com/t/740814) ![](assets/new.png)  
 - [2020-12-31-红米-AX6-路由器，-2.4G-只能百兆传输？](https://www.v2ex.com/t/740813) ![](assets/new.png)  
-- [2020-12-31-V2EX-的-CSS-资源短暂-404](https://www.v2ex.com/t/740812) ![](assets/new.png)  
-- [2020-12-31-V-站-CSS-挂掉了？](https://www.v2ex.com/t/740811) ![](assets/new.png)  
-- [2020-12-31-笔记本外接显示器不能设置-144hz-刷新率怎么办？](https://www.v2ex.com/t/740810) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,16 +1085,16 @@
 - [2021-01-01-如何用线性回归模型做数据分析？](https://toutiao.io/k/anhray3) ![](assets/new.png)  
 - [2021-01-01-掌握这些-Go-语言特性，你的水平将提高-N-个档次（一）](https://toutiao.io/k/qjhlb78) ![](assets/new.png)  
 - [2021-01-01-Go-os/exec-简明教程](https://toutiao.io/k/73ywvmx) ![](assets/new.png)  
-- [2021-01-01-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
-- [2021-01-01-推荐-分布式任务调度系统设计：详解-Go-实现任务编排与工作流](https://toutiao.io/k/keetjdp) ![](assets/new.png)  
-- [2021-01-01-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) ![](assets/new.png)  
-- [2021-01-01-推荐-来和大家聊聊我是如何刷题的（第二弹）](https://toutiao.io/k/fs8tmfw) ![](assets/new.png)  
-- [2021-01-01-推荐-我看技术人的成长路径](https://toutiao.io/k/qnlw4ck) ![](assets/new.png)  
-- [2021-01-01-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
-- [2021-01-01-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
-- [2021-01-01-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
+- [2021-01-01-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
+- [2021-01-01-推荐-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
+- [2021-01-01-推荐-漫画：一台-Linux-服务器最多能支撑多少个-TCP-连接？](https://toutiao.io/k/7fcauc4) ![](assets/new.png)  
 - [2021-01-01-推荐-关于中台的思考和尝试](https://toutiao.io/k/t4shd8f) ![](assets/new.png)  
-- [2021-01-01-推荐-ClickHouse-的实践之路](https://toutiao.io/k/zn7gb6j) ![](assets/new.png)  
+- [2021-01-01-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
+- [2021-01-01-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
+- [2021-01-01-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
+- [2021-01-01-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-01-推荐-分布式任务调度系统设计：详解-Go-实现任务编排与工作流](https://toutiao.io/k/keetjdp) ![](assets/new.png)  
+- [2021-01-01-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

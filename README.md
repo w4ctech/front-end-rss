@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-01 13:02:23，:rocket: 更新条数: +3507， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-01 13:41:19，:rocket: 更新条数: +480， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)![](assets/dot.png)   
+- [物联网智库](#物联网智库)  
 
 ## 文章链接
 
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-01-01-12月31日全国新增确诊病例19例-本土病例9例](https://m.caixin.com/m/2021-01-01/101645799.html) ![](assets/new.png)  
-- [2021-01-01-北京新增5本土病例-2人为婆媳关系](https://m.caixin.com/m/2021-01-01/101645921.html) ![](assets/new.png)  
-- [2021-01-01-北京再添一中风险地区，要求顺义市民非必要不出区](https://m.caixin.com/m/2021-01-01/101645900.html) ![](assets/new.png)  
-- [2021-01-01-中国内地发现首例英国变异病毒感染者-中疾控提示防疫新风险](https://m.caixin.com/m/2021-01-01/101645875.html) ![](assets/new.png)  
-- [2021-01-01-北京12月31日新增5例本地新冠肺炎确诊病例](https://m.caixin.com/m/2021-01-01/101645793.html) ![](assets/new.png)  
-- [2021-01-01-【境内疫情观察】北京新增5例本土病例（12月31日）](http://m.database.caixin.com/m/2021-01-01/101645857.html) ![](assets/new.png)  
-- [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) ![](assets/new.png)  
-- [2020-12-31-张文宏：新冠疫苗上市，漫漫长夜迎来曙光](http://m.opinion.caixin.com/m/2020-12-31/101645519.html) ![](assets/new.png)  
-- [2020-12-31-旅游业回暖-澳门圣诞节入境旅客量出现疫情后高峰](https://m.caixin.com/m/2020-12-31/101645491.html) ![](assets/new.png)  
-- [2020-12-31-北京本地新增2例新冠-均为顺义金马工业园某公司员工](https://m.caixin.com/m/2020-12-31/101645174.html) ![](assets/new.png)  
-- [2020-12-31-【境内疫情观察】全国新增9例本土病例（12月30日）](http://m.database.caixin.com/m/2020-12-31/101645443.html) ![](assets/new.png)  
-- [2020-12-31-大流行手记|12月30日：阿斯利康疫苗在英获批-研究称变异毒株11月已现德国](https://m.caixin.com/m/2020-12-31/101645168.html) ![](assets/new.png)  
-- [2020-12-31-新冠疫苗将全民免费接种-已紧急接种450万剂次](https://m.caixin.com/m/2020-12-31/101645379.html) ![](assets/new.png)  
-- [2020-12-30-北京顺义聚集性疫情初步锁定源头：为印尼入境无症状感染者](https://m.caixin.com/m/2020-12-30/101644915.html) ![](assets/new.png)  
-- [2020-12-30-沈阳大连多个新冠病例涉院感-沈阳一级以下医疗机构停诊](https://m.caixin.com/m/2020-12-30/101644838.html) ![](assets/new.png)  
-- [2020-12-30-北京本地新增1例新冠确诊病例-为朝阳区4岁男童](https://m.caixin.com/m/2020-12-30/101644666.html) ![](assets/new.png)  
-- [2020-12-30-香港入境深圳需提前预定隔离酒店-名额有限先到先得](https://m.caixin.com/m/2020-12-30/101644733.html) ![](assets/new.png)  
-- [2020-12-30-【境内疫情观察】黑龙江新增1例本土病例（12月29日）](http://m.database.caixin.com/m/2020-12-30/101644822.html) ![](assets/new.png)  
-- [2020-12-30-大流行手记|12月29日：欧盟各国设法扩大疫苗自愿接种范围-英国医疗系统承压](https://m.caixin.com/m/2020-12-30/101644686.html) ![](assets/new.png)  
-- [2020-12-30-独家|复星新冠mRNA疫苗冷库即将启用-拟建2亿剂生产基地](https://m.caixin.com/m/2020-12-30/101644868.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -548,6 +528,8 @@
 </summary>
 
 
+- [2021-01-01-家里盒子坏了-求推荐电视盒子-2G-RAM](https://www.v2ex.com/t/740950) ![](assets/new.png)  
+- [2021-01-01-请问-Dota2-M1-怎么调整最大分辨率](https://www.v2ex.com/t/740947) ![](assets/new.png)  
 - [2021-01-01-本地-Homebrew-formulae-arm64-兼容性查询](https://www.v2ex.com/t/740946) ![](assets/new.png)  
 - [2021-01-01-某宝官翻企业店买的-macbookpro-内屏有问题，运输过程有磕碰，商家不愿保修咋办](https://www.v2ex.com/t/740945) ![](assets/new.png)  
 - [2021-01-01-想问问大家，电信把我家的网速降至-4M,怎么解决？](https://www.v2ex.com/t/740944) ![](assets/new.png)  
@@ -566,8 +548,6 @@
 - [2021-01-01-腾讯广告半年前就不支持个人了。现在国内还有个人能对接的-APP-广告联盟吗？](https://www.v2ex.com/t/740927) ![](assets/new.png)  
 - [2021-01-01-有懂的老哥能帮忙给手机估个价嘛](https://www.v2ex.com/t/740926) ![](assets/new.png)  
 - [2021-01-01-家用台式机莫名无法正常开机，显示器无信号，求解](https://www.v2ex.com/t/740925) ![](assets/new.png)  
-- [2021-01-01-我的服务器是公共厕所](https://www.v2ex.com/t/740924) ![](assets/new.png)  
-- [2021-01-01-转租-华阳地铁站时代天城套一转租，-2000/月，还剩-3-个月。小区边上就是地铁出口和家乐福，上下班很方便。](https://www.v2ex.com/t/740923) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -613,23 +593,23 @@
 - [2021-01-01-求你了，别再随便打日志了，教你动态修改日志级别](https://toutiao.io/k/8bity1f) ![](assets/new.png)  
 - [2021-01-01-程序员经常看的开源月刊《HelloGitHub》第-57-期](https://toutiao.io/k/p8j4rr7) ![](assets/new.png)  
 - [2021-01-01-vivo-全球商城：订单中心架构设计与实践](https://toutiao.io/k/lcopypw) ![](assets/new.png)  
-- [2021-01-01-老黑客的圣诞节](https://toutiao.io/k/zx2bksv) ![](assets/new.png)  
 - [2021-01-01-如何表扬下属](https://toutiao.io/k/jbktq52) ![](assets/new.png)  
+- [2021-01-01-老黑客的圣诞节](https://toutiao.io/k/zx2bksv) ![](assets/new.png)  
 - [2021-01-01-跨系统数据一致性方案的思考（上）](https://toutiao.io/k/u6n8etu) ![](assets/new.png)  
 - [2021-01-01-掌握这些-Go-语言特性，你的水平将提高-N-个档次（一）](https://toutiao.io/k/qjhlb78) ![](assets/new.png)  
 - [2021-01-01-Kotlin-Vocabulary：Kotlin-委托代理](https://toutiao.io/k/9erdi1s) ![](assets/new.png)  
 - [2021-01-01-如何用线性回归模型做数据分析？](https://toutiao.io/k/anhray3) ![](assets/new.png)  
 - [2021-01-01-Go-os/exec-简明教程](https://toutiao.io/k/73ywvmx) ![](assets/new.png)  
-- [2021-01-01-推荐-ClickHouse-的实践之路](https://toutiao.io/k/zn7gb6j) ![](assets/new.png)  
 - [2021-01-01-推荐-关于中台的思考和尝试](https://toutiao.io/k/t4shd8f) ![](assets/new.png)  
-- [2021-01-01-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
-- [2021-01-01-推荐-分布式任务调度系统设计：详解-Go-实现任务编排与工作流](https://toutiao.io/k/keetjdp) ![](assets/new.png)  
-- [2021-01-01-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
-- [2021-01-01-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
+- [2021-01-01-推荐-ClickHouse-的实践之路](https://toutiao.io/k/zn7gb6j) ![](assets/new.png)  
+- [2021-01-01-推荐-来和大家聊聊我是如何刷题的（第二弹）](https://toutiao.io/k/fs8tmfw) ![](assets/new.png)  
 - [2021-01-01-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
+- [2021-01-01-推荐-我看技术人的成长路径](https://toutiao.io/k/qnlw4ck) ![](assets/new.png)  
+- [2021-01-01-推荐-漫画：一台-Linux-服务器最多能支撑多少个-TCP-连接？](https://toutiao.io/k/7fcauc4) ![](assets/new.png)  
+- [2021-01-01-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-01-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
 - [2021-01-01-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
-- [2021-01-01-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) ![](assets/new.png)  
-- [2021-01-01-推荐-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
+- [2021-01-01-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -672,26 +652,6 @@
 </summary>
 
 
-- [2020-12-31-2020年物联网风云大事记，妈耶，今年的重磅事件竟然这么多！](https://www.ershicimi.com/p/31b18505cf1016f229c9d303ffe190bf) ![](assets/new.png)  
-- [2020-12-31-【1月7日/线上直播】议程正式公布！年度AIoT产业盛典重磅来袭！](https://www.ershicimi.com/p/e42625de19d42f011ed78032cc318e98) ![](assets/new.png)  
-- [2020-12-31-你知道吗？“通过图像识别技术也可以完成智慧抄表”](https://www.ershicimi.com/p/acbe81d96e7fcbe9cde61ba7b5ad3f50) ![](assets/new.png)  
-- [2020-12-30-雷士照明与涂鸦智能达成重磅合作，智能化能否破解照明行业增长乏力的魔咒？](https://www.ershicimi.com/p/77d49eb9b78c8c6fad9b343814620313) ![](assets/new.png)  
-- [2020-12-30-物联网产业端应用寡头难成，“共创”生态为何如此重要？](https://www.ershicimi.com/p/d8b1c41849e493cda77447bd1c9fb906) ![](assets/new.png)  
-- [2020-12-30-【1月7日/线上直播】议程正式公布！年度AIoT产业盛典重磅来袭！](https://www.ershicimi.com/p/63d726a201738887400021ecc45eb163) ![](assets/new.png)  
-- [2020-12-30-5G确定性网络产业联盟工业互联网组研讨会成功召开](https://www.ershicimi.com/p/74e17ab436c420925359ad0643117b8b) ![](assets/new.png)  
-- [2020-12-29-“你问我为什么要抵制人脸识别？因为它啥都知道！”](https://www.ershicimi.com/p/efb97f99de08ecac02b2ce28db5a35e5) ![](assets/new.png)  
-- [2020-12-29-美国力挺的Open-RAN，真的能成功吗？](https://www.ershicimi.com/p/eb5e50b17bc4d933bfa40cf071af9104) ![](assets/new.png)  
-- [2020-12-29-谁发明了物联网？](https://www.ershicimi.com/p/7f83f9a3518d25ce8d3e530839886df2) ![](assets/new.png)  
-- [2020-12-28-实在！小米11从里到外堪称完美，别骂雷军，送充电器也3999！](https://www.ershicimi.com/p/07c69ec593e3c80ae99b74b6d698d616) ![](assets/new.png)  
-- [2020-12-28-阿里达摩院2021年十大科技趋势发布：第三代半导体大爆发，数据处理“自我进化”](https://www.ershicimi.com/p/2e5e5fbe2e7d8776aa6870b2626a099f) ![](assets/new.png)  
-- [2020-12-28-“扶不起”的5G](https://www.ershicimi.com/p/192b05a0dca8dc888063b1419e240e32) ![](assets/new.png)  
-- [2020-12-27-5G-to-B启程，行业专网开路，运营商、云服务商、行业企业…谁将是赢家?【物女心经】](https://www.ershicimi.com/p/c23401bec6f27b6b62f882635acc443d) ![](assets/new.png)  
-- [2020-12-27-【1月7日/北京】议程正式公布！年度AIoT产业盛典重磅来袭！](https://www.ershicimi.com/p/78a38622dca1da0d667da5f957003125) ![](assets/new.png)  
-- [2020-12-27-物联网投融资周报|统信软件完成11亿元融资；货拉拉获5.15亿美元E轮融资；地平线完成1.5亿美金融](https://www.ershicimi.com/p/7addb5e6d34a41e04b885b5a924a4287) ![](assets/new.png)  
-- [2020-12-26-重磅！欧盟17国联合签署万亿半导体计划，直指美国技术垄断！](https://www.ershicimi.com/p/311d771a949e07acad18267e38608cf1) ![](assets/new.png)  
-- [2020-12-26-互联网化、数字化为制造业如何赋能？](https://www.ershicimi.com/p/cd91292c6dee4472b1e54b766e0728f7) ![](assets/new.png)  
-- [2020-12-25-国家真的要给单身狗发对象了？爱情这鬼东西，人工智能说它懂！](https://www.ershicimi.com/p/34f3ec898551966c6f1067743ceb6d95) ![](assets/new.png)  
-- [2020-12-25-每月6万元起，这个5G专网收费贵不贵？](https://www.ershicimi.com/p/f39ec82282dc9d13db025225ba3107c3) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

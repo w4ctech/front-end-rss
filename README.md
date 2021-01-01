@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-01 07:51:54，:rocket: 更新条数: +3970， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-01 07:56:37，:rocket: 更新条数: +3971， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1013,6 +1013,9 @@
 </summary>
 
 
+- [2021-01-01-如坐针毡，如芒刺背，如鲠在喉......](https://www.v2ex.com/t/740892) ![](assets/new.png)  
+- [2021-01-01-12-的键盘打字音忽大忽小，都这样么？](https://www.v2ex.com/t/740891) ![](assets/new.png)  
+- [2021-01-01-辞职后的我的半年跨境电商回顾](https://www.v2ex.com/t/740890) ![](assets/new.png)  
 - [2021-01-01-有什么-Api-文档管理工具具备-Swagger-那样直接用浏览器就能测试接口的能力吗？](https://www.v2ex.com/t/740889) ![](assets/new.png)  
 - [2021-01-01-项目莫名其妙多了两个更改，然后还抛弃不掉](https://www.v2ex.com/t/740888) ![](assets/new.png)  
 - [2021-01-01-求助：如何克服不想说话/社交障碍/情商低下/性格缺陷？](https://www.v2ex.com/t/740887) ![](assets/new.png)  
@@ -1030,9 +1033,6 @@
 - [2021-01-01-真诚发问，-Intel-Macbook-想升级-Big-Sur-要不要刷机更系统呢？还是直接升级？](https://www.v2ex.com/t/740871) ![](assets/new.png)  
 - [2021-01-01-小米之家全款预定了小米-11-白色-8+256，现在隐隐感觉有些担忧](https://www.v2ex.com/t/740870) ![](assets/new.png)  
 - [2021-01-01-B-站看高码率视频卡](https://www.v2ex.com/t/740869) ![](assets/new.png)  
-- [2021-01-01-早晨-6-点，直播-700-多人一起立新年-flag-还挺有趣](https://www.v2ex.com/t/740868) ![](assets/new.png)  
-- [2021-01-01-先脑图流程图再编程还是先编程中修改？](https://www.v2ex.com/t/740867) ![](assets/new.png)  
-- [2021-01-01-这个不比-anker-八合一扩展坞-香吗?](https://www.v2ex.com/t/740865) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1080,21 +1080,21 @@
 - [2021-01-01-vivo-全球商城：订单中心架构设计与实践](https://toutiao.io/k/lcopypw) ![](assets/new.png)  
 - [2021-01-01-老黑客的圣诞节](https://toutiao.io/k/zx2bksv) ![](assets/new.png)  
 - [2021-01-01-跨系统数据一致性方案的思考（上）](https://toutiao.io/k/u6n8etu) ![](assets/new.png)  
-- [2021-01-01-Kotlin-Vocabulary：Kotlin-委托代理](https://toutiao.io/k/9erdi1s) ![](assets/new.png)  
 - [2021-01-01-如何表扬下属](https://toutiao.io/k/jbktq52) ![](assets/new.png)  
+- [2021-01-01-Kotlin-Vocabulary：Kotlin-委托代理](https://toutiao.io/k/9erdi1s) ![](assets/new.png)  
 - [2021-01-01-掌握这些-Go-语言特性，你的水平将提高-N-个档次（一）](https://toutiao.io/k/qjhlb78) ![](assets/new.png)  
 - [2021-01-01-如何用线性回归模型做数据分析？](https://toutiao.io/k/anhray3) ![](assets/new.png)  
 - [2021-01-01-Go-os/exec-简明教程](https://toutiao.io/k/73ywvmx) ![](assets/new.png)  
-- [2021-01-01-推荐-我看技术人的成长路径](https://toutiao.io/k/qnlw4ck) ![](assets/new.png)  
-- [2021-01-01-推荐-漫画：一台-Linux-服务器最多能支撑多少个-TCP-连接？](https://toutiao.io/k/7fcauc4) ![](assets/new.png)  
 - [2021-01-01-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-01-推荐-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
+- [2021-01-01-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
 - [2021-01-01-推荐-分布式任务调度系统设计：详解-Go-实现任务编排与工作流](https://toutiao.io/k/keetjdp) ![](assets/new.png)  
-- [2021-01-01-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
-- [2021-01-01-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) ![](assets/new.png)  
-- [2021-01-01-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
-- [2021-01-01-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
-- [2021-01-01-推荐-ClickHouse-的实践之路](https://toutiao.io/k/zn7gb6j) ![](assets/new.png)  
+- [2021-01-01-推荐-来和大家聊聊我是如何刷题的（第二弹）](https://toutiao.io/k/fs8tmfw) ![](assets/new.png)  
 - [2021-01-01-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
+- [2021-01-01-推荐-关于中台的思考和尝试](https://toutiao.io/k/t4shd8f) ![](assets/new.png)  
+- [2021-01-01-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
+- [2021-01-01-推荐-ClickHouse-的实践之路](https://toutiao.io/k/zn7gb6j) ![](assets/new.png)  
+- [2021-01-01-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

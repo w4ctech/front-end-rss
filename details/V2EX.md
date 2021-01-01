@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-01-01 01:41:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-01 02:10:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-01-01-JetBrains-已几乎全系支持-M1-ARM-了](https://www.v2ex.com/t/740827) 
+- [2021-01-01-老哥们-2021-年了，页脚的-copyright-年份该更新了](https://www.v2ex.com/t/740826) 
 - [2021-01-01-Python-正则问题](https://www.v2ex.com/t/740825) 
 - [2021-01-01-ffmpeg-可否做到（图片+透明通道视频+音频）的压制并实时推流](https://www.v2ex.com/t/740824) 
 - [2021-01-01-如何选择一个保险，给自己买，给长辈买](https://www.v2ex.com/t/740823) 
@@ -44,5 +46,3 @@
 - [2020-12-31-一句话总结你的-2020](https://www.v2ex.com/t/740780) 
 - [2020-12-31-Python-反序列化-YAML-有什么效率高些的库吗？](https://www.v2ex.com/t/740779) 
 - [2020-12-31-兄弟们新年快乐！](https://www.v2ex.com/t/740778) 
-- [2020-12-31-感觉美团有点过分](https://www.v2ex.com/t/740777) 
-- [2020-12-31-到底谁不是直播](https://www.v2ex.com/t/740776) 

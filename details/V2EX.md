@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-01 08:09:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-01 08:14:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2021-01-01-Android-无法使用自建-DNS？](https://www.v2ex.com/t/740848) 
 - [2021-01-01-求推荐支持-M1-比较理想的手柄](https://www.v2ex.com/t/740847) 
 - [2021-01-01-用-Discourse-搭了一个方便海外游戏玩家找队友开黑的论坛](https://www.v2ex.com/t/740846) 
-- [2021-01-01-Pixel4A-5g-英国版到手了，请问如何来电录音和微信应用分身？](https://www.v2ex.com/t/740845) 

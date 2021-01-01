@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-01 11:43:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-01 11:50:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -24,6 +24,7 @@
 - [2020-12-23-想要复制图像？Clipboard-API-了解一下](https://www.ershicimi.com/p/7fe6b2bd2ccbaa82acc0db7202ae2e78) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2021-01-01-你还不知道？有的软件会偷偷打开你的摄像头或麦克风-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14064&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkrpdMAqcyuiUyVJEiJHHaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-12-30-【视频】|-Python:类型转换](https://sec.thief.one/article_content?a_id=5e461db0be98fbcfafd97939dcf6e802) 
 - [2020-12-29-【安全圈】黑客入侵摄像头,蛊惑8岁女孩砸电视,亚马逊旗下Ring遭...](https://sec.thief.one/article_content?a_id=6d8b1e3c5d8cfa8f372ce8095506652b) 
 - [2020-12-29-病毒作者利用破解去广告腾讯视频噱头投递CS后门](https://sec.thief.one/article_content?a_id=703b5aa3d1029e03b1be3ca971e84198) 

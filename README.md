@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-02 20:13:26，:rocket: 更新条数: +3972， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-02 20:40:58，:rocket: 更新条数: +960， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-01-02-1月1日全国新增新冠确诊病例22例-其中本土8例](https://m.caixin.com/m/2021-01-02/101645957.html) ![](assets/new.png)  
-- [2021-01-02-北京本地新增1例新冠确诊病例-仍在顺义](https://m.caixin.com/m/2021-01-02/101645948.html) ![](assets/new.png)  
-- [2021-01-02-【境内疫情观察】辽宁新增7例本土病例（1月1日）](http://m.database.caixin.com/m/2021-01-02/101646068.html) ![](assets/new.png)  
-- [2021-01-02-大流行手记|1月1日：变异病毒在美已人际传播-英格兰重启方舱医院](http://m.international.caixin.com/m/2021-01-02/101645975.html) ![](assets/new.png)  
-- [2021-01-01-中国内地发现首例英国变异病毒感染者-中疾控提示防疫新风险](https://m.caixin.com/m/2021-01-01/101645875.html) ![](assets/new.png)  
-- [2021-01-01-张文宏：变异病毒不会有临床上的特殊性](http://m.opinion.caixin.com/m/2021-01-01/101645928.html) ![](assets/new.png)  
-- [2021-01-01-北京再添一中风险地区，要求顺义市民非必要不出区](https://m.caixin.com/m/2021-01-01/101645900.html) ![](assets/new.png)  
-- [2021-01-01-北京新增5本土病例-2人为婆媳关系](https://m.caixin.com/m/2021-01-01/101645921.html) ![](assets/new.png)  
-- [2021-01-01-北京12月31日新增5例本地新冠肺炎确诊病例](https://m.caixin.com/m/2021-01-01/101645793.html) ![](assets/new.png)  
-- [2021-01-01-【境内疫情观察】北京新增5例本土病例（12月31日）](http://m.database.caixin.com/m/2021-01-01/101645857.html) ![](assets/new.png)  
-- [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) ![](assets/new.png)  
-- [2020-12-31-旅游业回暖-澳门圣诞节入境旅客量出现疫情后高峰](https://m.caixin.com/m/2020-12-31/101645491.html) ![](assets/new.png)  
-- [2020-12-31-北京本地新增2例新冠-均为顺义金马工业园某公司员工](https://m.caixin.com/m/2020-12-31/101645174.html) ![](assets/new.png)  
-- [2020-12-31-【境内疫情观察】全国新增9例本土病例（12月30日）](http://m.database.caixin.com/m/2020-12-31/101645443.html) ![](assets/new.png)  
-- [2020-12-31-大流行手记|12月30日：阿斯利康疫苗在英获批-研究称变异毒株11月已现德国](https://m.caixin.com/m/2020-12-31/101645168.html) ![](assets/new.png)  
-- [2020-12-31-张文宏：新冠疫苗上市，漫漫长夜迎来曙光](http://m.opinion.caixin.com/m/2020-12-31/101645519.html) ![](assets/new.png)  
-- [2020-12-31-新冠疫苗将全民免费接种-已紧急接种450万剂次](https://m.caixin.com/m/2020-12-31/101645379.html) ![](assets/new.png)  
-- [2020-12-30-北京顺义聚集性疫情初步锁定源头：为印尼入境无症状感染者](https://m.caixin.com/m/2020-12-30/101644915.html) ![](assets/new.png)  
-- [2020-12-30-沈阳大连多个新冠病例涉院感-沈阳一级以下医疗机构停诊](https://m.caixin.com/m/2020-12-30/101644838.html) ![](assets/new.png)  
-- [2020-12-30-北京本地新增1例新冠确诊病例-为朝阳区4岁男童](https://m.caixin.com/m/2020-12-30/101644666.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,16 +1065,16 @@
 - [2021-01-02-OkHttp-框架中-Proxy-的那点事儿（一）](https://toutiao.io/k/3b54d1s) ![](assets/new.png)  
 - [2021-01-02-Docker-新发布的-Hub-Tool，真香](https://toutiao.io/k/o1xv0hv) ![](assets/new.png)  
 - [2021-01-02-Go-并发编程（八）：深入理解-sync.Once](https://toutiao.io/k/vxx4z19) ![](assets/new.png)  
-- [2021-01-02-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
-- [2021-01-02-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
-- [2021-01-02-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
-- [2021-01-02-推荐-广告系统架构解密](https://toutiao.io/k/3ydgnwy) ![](assets/new.png)  
 - [2021-01-02-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) ![](assets/new.png)  
-- [2021-01-02-推荐-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
-- [2021-01-02-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) ![](assets/new.png)  
-- [2021-01-02-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
+- [2021-01-02-推荐-关于中台的思考和尝试](https://toutiao.io/k/t4shd8f) ![](assets/new.png)  
 - [2021-01-02-推荐-领域驱动设计实践之路（四）：领域驱动在微服务设计中的应用](https://toutiao.io/k/ewxi73t) ![](assets/new.png)  
+- [2021-01-02-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-02-推荐-广告系统架构解密](https://toutiao.io/k/3ydgnwy) ![](assets/new.png)  
+- [2021-01-02-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
+- [2021-01-02-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
 - [2021-01-02-推荐-肝了-3-版才满意：分布式系统之-CAP-理论，我们对它的理解和误解](https://toutiao.io/k/q2fkii4) ![](assets/new.png)  
+- [2021-01-02-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
+- [2021-01-02-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

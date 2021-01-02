@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-02 03:13:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-02 03:22:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -49,6 +49,7 @@
 - [2015-10-21-探究transform动画元素的z-index](https://aotu.io/notes/2015/10/21/z-index-and-translate3d/) 
 - [2015-10-13-PostCSS快速入门使用](https://aotu.io/notes/2015/10/13/start-postcss/) 
 - [2020-05-03-对-Chrome-Headless-渲染的极致优化](https://www.ershicimi.com/p/750cc36a62dc2f4be88144714fde4887) 
+- [2021-01-01-CSS入门笔记4](https://juejin.im/post/6912852200985198605) 
 - [2021-01-01-【CSS】【资料】常用命名表](https://juejin.im/post/6912843204287004685) 
 - [2021-01-01-用less制作方便的媒体查询函数](https://juejin.im/post/6912842540613894157) 
 - [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) 

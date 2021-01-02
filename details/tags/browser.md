@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-02 21:00:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-02 21:10:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,6 +22,7 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
+- [2020-12-16-前端安全编码规范](https://www.ershicimi.com/p/f7d6152579ec17d403d70bedb42d0c37) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -32,6 +33,8 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-01-02-看了这篇文章准备把-chrome-换成了-edge](https://www.v2ex.com/t/741111) 
+- [2021-01-02-iOS-生态安全现状分析，只是我能想到的，欢迎大家补充信息~](https://www.v2ex.com/t/741097) 
 - [2021-01-02-Adrozek:劫持Chrome、Edge和Firefox的恶意软件](https://sec.thief.one/article_content?a_id=934052c8ea503ad4f0447c758a53156a) 
 - [2021-01-02-物联网设备安全能力基线研究](https://sec.thief.one/article_content?a_id=5659134d9f1bb4476846d89ddf3ba0fc) 
 - [2021-01-01-FreeBuf-2021网络安全行业发展预测](https://sec.thief.one/article_content?a_id=a527e5a77fc6c318f0e2493ae87b8585) 

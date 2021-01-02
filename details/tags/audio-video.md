@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-02 23:12:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-02 23:25:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -87,6 +87,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-12-23-想要复制图像？Clipboard-API-了解一下](https://www.ershicimi.com/p/7fe6b2bd2ccbaa82acc0db7202ae2e78) 
 - [2021-01-02-【视频】|-网络安全等级保护工作要求](https://sec.thief.one/article_content?a_id=41836d9e4e97c0232db28f3aea49aac4) 
 - [2020-12-30-【视频】|-Python:类型转换](https://sec.thief.one/article_content?a_id=5e461db0be98fbcfafd97939dcf6e802) 
 - [2020-12-31-【1月7日/线上直播】议程正式公布！年度AIoT产业盛典重磅来袭！](https://www.ershicimi.com/p/e42625de19d42f011ed78032cc318e98) 

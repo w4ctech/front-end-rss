@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-02 09:19:43，:rocket: 更新条数: +3976， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-02 09:48:39，:rocket: 更新条数: +3978， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -68,6 +68,7 @@
 - [2021-01-02-1月1日全国新增新冠确诊病例22例-其中本土8例](https://m.caixin.com/m/2021-01-02/101645957.html) ![](assets/new.png)  
 - [2021-01-02-北京本地新增1例新冠确诊病例-仍在顺义](https://m.caixin.com/m/2021-01-02/101645948.html) ![](assets/new.png)  
 - [2021-01-02-【境内疫情观察】辽宁新增7例本土病例（1月1日）](http://m.database.caixin.com/m/2021-01-02/101646068.html) ![](assets/new.png)  
+- [2021-01-02-大流行手记|1月1日：变异病毒在美已人际传播-英格兰重启方舱医院](http://m.international.caixin.com/m/2021-01-02/101645975.html) ![](assets/new.png)  
 - [2021-01-01-中国内地发现首例英国变异病毒感染者-中疾控提示防疫新风险](https://m.caixin.com/m/2021-01-01/101645875.html) ![](assets/new.png)  
 - [2021-01-01-张文宏：变异病毒不会有临床上的特殊性](http://m.opinion.caixin.com/m/2021-01-01/101645928.html) ![](assets/new.png)  
 - [2021-01-01-北京再添一中风险地区，要求顺义市民非必要不出区](https://m.caixin.com/m/2021-01-01/101645900.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2020-12-30-北京顺义聚集性疫情初步锁定源头：为印尼入境无症状感染者](https://m.caixin.com/m/2020-12-30/101644915.html) ![](assets/new.png)  
 - [2020-12-30-沈阳大连多个新冠病例涉院感-沈阳一级以下医疗机构停诊](https://m.caixin.com/m/2020-12-30/101644838.html) ![](assets/new.png)  
 - [2020-12-30-北京本地新增1例新冠确诊病例-为朝阳区4岁男童](https://m.caixin.com/m/2020-12-30/101644666.html) ![](assets/new.png)  
-- [2020-12-30-香港入境深圳需提前预定隔离酒店-名额有限先到先得](https://m.caixin.com/m/2020-12-30/101644733.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -96,9 +96,9 @@
 </summary>
 
 
+- [2021-01-02-北京新增确诊病例为网约车司机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifOeazQcWem9UObyp00sW210102&isfromapp=1) ![](assets/new.png)  
 - [2021-01-02-1-日新增-8-例新冠肺炎本土确诊病例](http://www.nhc.gov.cn/xcs/yqtb/202101/39a96b782bcb4118b37442ed6124380c.shtml) ![](assets/new.png)  
 - [2021-01-01-美国新冠肺炎确诊破-2000-万](https://world.huanqiu.com/article/41LRU2RqlVB) ![](assets/new.png)  
-- [2021-01-01-世界各国低调跨年迎新「有点冷」](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD9Hra4uKDsJrWRIdXpgC210101&isfromapp=1) ![](assets/new.png)  
 - [2021-01-01-上海首次发现英国的变异新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBwPYnNH6FTVHDWJ7ok3A210101&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
@@ -1013,6 +1013,13 @@
 </summary>
 
 
+- [2021-01-02-macbook-pro-键盘更换计划，键盘进水求助](https://www.v2ex.com/t/741072) ![](assets/new.png)  
+- [2021-01-02-开个美区的-Apple-One-Premier-的「稳定」车](https://www.v2ex.com/t/741071) ![](assets/new.png)  
+- [2021-01-02-公开我-2021-年的目标，你呢？](https://www.v2ex.com/t/741070) ![](assets/new.png)  
+- [2021-01-02-b-站大会员活动,我找到对抗保底礼盒藏起来的办法了！](https://www.v2ex.com/t/741069) ![](assets/new.png)  
+- [2021-01-02-京东抢购的茅台-2-瓶，上海面交](https://www.v2ex.com/t/741068) ![](assets/new.png)  
+- [2021-01-02-Android-集成推送选哪个好呢？](https://www.v2ex.com/t/741067) ![](assets/new.png)  
+- [2021-01-02-京东-plus-免费领-5-月-Apple-music](https://www.v2ex.com/t/741066) ![](assets/new.png)  
 - [2021-01-02-c++的-map-问题](https://www.v2ex.com/t/741065) ![](assets/new.png)  
 - [2021-01-02-有周末去澳门的朋友吗？求代购-iPhone12hhh](https://www.v2ex.com/t/741064) ![](assets/new.png)  
 - [2021-01-02-求能用的最旧版本-tim/qq-pc，更新了就用不了最重要的功能了](https://www.v2ex.com/t/741062) ![](assets/new.png)  
@@ -1026,13 +1033,6 @@
 - [2021-01-02-40km-越野跑-|-麦理浩径-10-6-段｜香港爬山徒步](https://www.v2ex.com/t/741051) ![](assets/new.png)  
 - [2021-01-02-推广阿噗站点:-upupor.com](https://www.v2ex.com/t/741050) ![](assets/new.png)  
 - [2021-01-02-欢迎大家来看我的摄影作品网站](https://www.v2ex.com/t/741049) ![](assets/new.png)  
-- [2021-01-02-macbook-pro-2015-还能出多少？](https://www.v2ex.com/t/741048) ![](assets/new.png)  
-- [2021-01-02-在别人来电的界面，-iPhone-上面无法切换到-AirPods-Pro-用来接听？](https://www.v2ex.com/t/741047) ![](assets/new.png)  
-- [2021-01-02-draw.io-的盈利模式是什么?-作者是谁?-有超越它的类似工具吗?](https://www.v2ex.com/t/741046) ![](assets/new.png)  
-- [2021-01-02-请教大家一个问题，在家族聚餐的时候，怎么劝说家里父母辈的不要带剩菜回家呢？](https://www.v2ex.com/t/741045) ![](assets/new.png)  
-- [2021-01-02-B-站大会员爆率几乎为零了-还有希望凑齐-366-嘛](https://www.v2ex.com/t/741044) ![](assets/new.png)  
-- [2021-01-02-不是很懂，为什么群晖-NAS-上面的文件突然变成-0-字节了？我有办法恢复吗？](https://www.v2ex.com/t/741042) ![](assets/new.png)  
-- [2021-01-02-请问如何往一个-Java-服务中集成-oauth2-authorization-server（求推荐类库）](https://www.v2ex.com/t/741041) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,16 +1085,16 @@
 - [2021-01-02-华为联合北大、悉尼大学对-Visual-Transformer-的最新综述](https://toutiao.io/k/m4ugzzo) ![](assets/new.png)  
 - [2021-01-02-也聊-Google-发布](https://toutiao.io/k/l8eqcmx) ![](assets/new.png)  
 - [2021-01-02-快手、快影-iOS-App-反调试](https://toutiao.io/k/dau2r6e) ![](assets/new.png)  
-- [2021-01-02-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
-- [2021-01-02-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
-- [2021-01-02-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) ![](assets/new.png)  
-- [2021-01-02-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
 - [2021-01-02-推荐-关于中台的思考和尝试](https://toutiao.io/k/t4shd8f) ![](assets/new.png)  
-- [2021-01-02-推荐-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
 - [2021-01-02-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
-- [2021-01-02-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) ![](assets/new.png)  
-- [2021-01-02-推荐-我看技术人的成长路径](https://toutiao.io/k/qnlw4ck) ![](assets/new.png)  
+- [2021-01-02-推荐-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
+- [2021-01-02-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
+- [2021-01-02-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
 - [2021-01-02-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
+- [2021-01-02-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
+- [2021-01-02-推荐-我看技术人的成长路径](https://toutiao.io/k/qnlw4ck) ![](assets/new.png)  
+- [2021-01-02-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) ![](assets/new.png)  
+- [2021-01-02-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

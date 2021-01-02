@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-02 13:52:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-02 14:07:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -46,8 +46,8 @@
 - [2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
-- [2021-01-02-JavaScript-异步编程](https://juejin.im/post/6913089481805725710) 
-- [2021-01-02-LeetCode题解：264.-丑数-II，暴力法，JavaScript，详细注释](https://juejin.im/post/6913086082036793358) 
+- [2021-01-02-前端就该用-JS-刷算法2](https://juejin.im/post/6913143820129402893) 
+- [2021-01-02-mock.js-的使用方法](https://juejin.im/post/6913134310895648782) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

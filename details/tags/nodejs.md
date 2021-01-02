@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-02 13:52:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-02 14:07:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -28,3 +28,4 @@
 - [2020-12-18-滴滴-NodeX-生态](https://www.ershicimi.com/p/087ae9ad8f3c63e333318a7662407923) 
 - [2020-12-10-前端科普系列（2）：Node.js-换个角度看世界](https://www.ershicimi.com/p/3962ce76cd801e71000604c56a3acced) 
 - [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) 
+- [2021-01-02-WebSocket-----Node.js实现简单聊天室](https://juejin.im/post/6913142525297606669) 

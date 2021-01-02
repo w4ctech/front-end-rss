@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-02 00:07:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-02 00:28:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,6 +41,7 @@
 - [2021-01-02-Android-OkHttp-拦截器（修改url）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14068&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Fy-ppUwiFDz4RxL1aF92Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-01-02-Golang-调试分析的高阶技巧](https://toutiao.io/k/9egd20y) 
 - [2021-01-02-快手、快影-iOS-App-反调试](https://toutiao.io/k/dau2r6e) 
+- [2021-01-01-FreeBuf-2021网络安全行业发展预测](https://sec.thief.one/article_content?a_id=a527e5a77fc6c318f0e2493ae87b8585) 
 - [2021-01-01-2021年网络安全行业预测-|-安全内参专题](https://sec.thief.one/article_content?a_id=4d762456f086e201c12fc0ea68cd8520) 
 - [2021-01-01-2020年网络安全大事记](https://sec.thief.one/article_content?a_id=ee560f104729125526d3fa235dd90049) 
 - [2021-01-01-2021,安全有我-再创奇迹](https://sec.thief.one/article_content?a_id=af1d1b0a74eadde298708fc435550c59) 

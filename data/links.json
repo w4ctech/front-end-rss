@@ -15422,6 +15422,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "可视化拖拽组件库一些技术要点原理分析",
+        "link": "https://www.ershicimi.com/p/903c07a14be084ea16836e588ddaf093",
+        "date": "2021-01-01"
+      },
+      {
+        "title": "Chrome 的小恐龙游戏，被我破解了...",
+        "link": "https://www.ershicimi.com/p/ffa5e0b6edf3d6208ac8fa547a84ad9b",
+        "date": "2021-01-01"
+      },
+      {
+        "title": "设计灵感：12 组投资 APP 界面设计",
+        "link": "https://www.ershicimi.com/p/0466cf017c87343793ffe08e12f34c96",
+        "date": "2021-01-01"
+      },
+      {
         "title": "两天狂揽 4k+ Star，抢茅台脚本霸榜 GitHub",
         "link": "https://www.ershicimi.com/p/a9d7732fa3b71eea0d76688cf6057ad2",
         "date": "2020-12-31"
@@ -15504,21 +15519,6 @@
       {
         "title": "分享 8 个非常实用的 Vue 自定义指令",
         "link": "https://www.ershicimi.com/p/d855bc0d8453186962ffdb15da7f0e9f",
-        "date": "2020-12-27"
-      },
-      {
-        "title": "备战2021：vite 工程化实践，建议收藏",
-        "link": "https://www.ershicimi.com/p/e6f7f32592acc8bfef3ddd3376536a2a",
-        "date": "2020-12-27"
-      },
-      {
-        "title": "复盘 Node 项目中遇到的 15 个常见问题和解决方案",
-        "link": "https://www.ershicimi.com/p/0586c7674708853753b320f0196a62ed",
-        "date": "2020-12-27"
-      },
-      {
-        "title": "设计灵感：App 数据图表的 12 种展示方式",
-        "link": "https://www.ershicimi.com/p/12abf3c3d77df5fc1b26ea01edb9e0be",
         "date": "2020-12-27"
       }
     ]
@@ -16773,7 +16773,23 @@
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
-    "items": []
+    "items": [
+      {
+        "title": "科技爱好者周刊（第 140 期）：印度人的工资是多少？",
+        "link": "http://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html",
+        "date": "2020-12-31"
+      },
+      {
+        "title": "Fetch API 教程",
+        "link": "http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html",
+        "date": "2020-12-28"
+      },
+      {
+        "title": "科技爱好者周刊（第 139 期）：生物学的可怕进展",
+        "link": "http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html",
+        "date": "2020-12-25"
+      }
+    ]
   },
   {
     "rss": "http://jdc.jd.com/feed",
@@ -18687,6 +18703,21 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "React 源码解读之 Concurrent 模式（一）",
+        "link": "https://juejin.im/post/6912998769869586440",
+        "date": "2021-01-01"
+      },
+      {
+        "title": "Android多线程之间通讯",
+        "link": "https://juejin.im/post/6912995210368811016",
+        "date": "2021-01-01"
+      },
+      {
+        "title": "00《玩转Git三剑客》学习笔记@开篇",
+        "link": "https://juejin.im/post/6912994440701444104",
+        "date": "2021-01-01"
+      },
+      {
         "title": "This 指向",
         "link": "https://juejin.im/post/6912804920433311758",
         "date": "2021-01-01"
@@ -18694,21 +18725,6 @@
       {
         "title": "2021 前端开发手册",
         "link": "https://juejin.im/post/6912803068228665357",
-        "date": "2021-01-01"
-      },
-      {
-        "title": "ceatePotral的使用",
-        "link": "https://juejin.im/post/6912797194882351118",
-        "date": "2021-01-01"
-      },
-      {
-        "title": "day03上传图片和名称给后端",
-        "link": "https://juejin.im/post/6912796798104895496",
-        "date": "2021-01-01"
-      },
-      {
-        "title": "leetcode 每日打卡 字符串问题",
-        "link": "https://juejin.im/post/6912795664183197710",
         "date": "2021-01-01"
       }
     ]
@@ -19096,6 +19112,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iterm2 或 terminal 是否可以自动复制已经输入的命令到系统剪贴板",
+        "link": "https://www.v2ex.com/t/741015",
+        "date": "2021-01-02"
+      },
+      {
+        "title": "Youtube 有人拼车吗？",
+        "link": "https://www.v2ex.com/t/741013",
+        "date": "2021-01-02"
+      },
+      {
+        "title": "在对一个较长的数组去重，同时要求返回重复元素索引时，哪种算法最快？",
+        "link": "https://www.v2ex.com/t/741012",
+        "date": "2021-01-02"
+      },
+      {
+        "title": "[社招] [望石智慧] NLP 算法工程师",
+        "link": "https://www.v2ex.com/t/741011",
+        "date": "2021-01-02"
+      },
+      {
         "title": "如何提取手机或者 iPad 中第三方（非 app store 下载）通过网页发布的企业版 app 的 ipa",
         "link": "https://www.v2ex.com/t/741010",
         "date": "2021-01-02"
@@ -19279,21 +19315,6 @@
         "title": "请问 Apple Watch 的数据是跟 iCloud 账户还是 Apple store",
         "link": "https://www.v2ex.com/t/740966",
         "date": "2021-01-01"
-      },
-      {
-        "title": "Flash Player 算是生命周期最长的软件产品之一吗？",
-        "link": "https://www.v2ex.com/t/740963",
-        "date": "2021-01-01"
-      },
-      {
-        "title": "这种 QQ 短连接从哪里分享出来的",
-        "link": "https://www.v2ex.com/t/740962",
-        "date": "2021-01-01"
-      },
-      {
-        "title": "认真的，求教如何停止 win10 无耻更新的方法",
-        "link": "https://www.v2ex.com/t/740961",
-        "date": "2021-01-01"
       }
     ]
   },
@@ -19460,18 +19481,23 @@
         "date": "2021-01-02"
       },
       {
+        "title": "[推荐] Netflix 是怎样做系统监控的？",
+        "link": "https://toutiao.io/k/n38vxll",
+        "date": "2021-01-02"
+      },
+      {
+        "title": "[推荐] 你在教我做事啊？Mac 节约生命的使用方法",
+        "link": "https://toutiao.io/k/ptpyv1n",
+        "date": "2021-01-02"
+      },
+      {
         "title": "[推荐] 终于明白了，一文彻底理解 I/O 多路复用",
         "link": "https://toutiao.io/k/8c12y1i",
         "date": "2021-01-02"
       },
       {
-        "title": "[推荐] 深度解析 Raft 分布式一致性协议",
-        "link": "https://toutiao.io/k/am8mql2",
-        "date": "2021-01-02"
-      },
-      {
-        "title": "[推荐] 年轻人不讲武德，乱用索引，你到底走了多少弯路？",
-        "link": "https://toutiao.io/k/ipqw7m5",
+        "title": "[推荐] 一文串联 HTTP、TCP、IP、以太网",
+        "link": "https://toutiao.io/k/dqkrq0f",
         "date": "2021-01-02"
       },
       {
@@ -19480,8 +19506,8 @@
         "date": "2021-01-02"
       },
       {
-        "title": "[推荐] Netflix 是怎样做系统监控的？",
-        "link": "https://toutiao.io/k/n38vxll",
+        "title": "[推荐] 肝了 3 版才满意：分布式系统之 CAP 理论，我们对它的理解和误解",
+        "link": "https://toutiao.io/k/q2fkii4",
         "date": "2021-01-02"
       },
       {
@@ -19490,13 +19516,8 @@
         "date": "2021-01-02"
       },
       {
-        "title": "[推荐] IntelliJ 超级实用的 8 个插件",
-        "link": "https://toutiao.io/k/vx0h11u",
-        "date": "2021-01-02"
-      },
-      {
-        "title": "[推荐] 肝了 3 版才满意：分布式系统之 CAP 理论，我们对它的理解和误解",
-        "link": "https://toutiao.io/k/q2fkii4",
+        "title": "[推荐] 深度解析 Raft 分布式一致性协议",
+        "link": "https://toutiao.io/k/am8mql2",
         "date": "2021-01-02"
       },
       {
@@ -19510,18 +19531,18 @@
         "date": "2021-01-02"
       },
       {
+        "title": "[推荐] 年轻人不讲武德，乱用索引，你到底走了多少弯路？",
+        "link": "https://toutiao.io/k/ipqw7m5",
+        "date": "2021-01-02"
+      },
+      {
+        "title": "[推荐] IntelliJ 超级实用的 8 个插件",
+        "link": "https://toutiao.io/k/vx0h11u",
+        "date": "2021-01-02"
+      },
+      {
         "title": "[推荐] 关于中台的思考和尝试",
         "link": "https://toutiao.io/k/t4shd8f",
-        "date": "2021-01-02"
-      },
-      {
-        "title": "[推荐] 你在教我做事啊？Mac 节约生命的使用方法",
-        "link": "https://toutiao.io/k/ptpyv1n",
-        "date": "2021-01-02"
-      },
-      {
-        "title": "[推荐] 一文串联 HTTP、TCP、IP、以太网",
-        "link": "https://toutiao.io/k/dqkrq0f",
         "date": "2021-01-02"
       }
     ]

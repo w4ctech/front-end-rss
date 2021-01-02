@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-02 04:26:59，:rocket: 更新条数: +3972， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-02 04:57:36，:rocket: 更新条数: +3976， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
@@ -226,6 +226,9 @@
 </summary>
 
 
+- [2021-01-01-可视化拖拽组件库一些技术要点原理分析](https://www.ershicimi.com/p/903c07a14be084ea16836e588ddaf093) ![](assets/new.png)  
+- [2021-01-01-Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/ffa5e0b6edf3d6208ac8fa547a84ad9b) ![](assets/new.png)  
+- [2021-01-01-设计灵感：12-组投资-APP-界面设计](https://www.ershicimi.com/p/0466cf017c87343793ffe08e12f34c96) ![](assets/new.png)  
 - [2020-12-31-两天狂揽-4k+-Star，抢茅台脚本霸榜-GitHub](https://www.ershicimi.com/p/a9d7732fa3b71eea0d76688cf6057ad2) ![](assets/new.png)  
 - [2020-12-31-4-万-Star！最全面的-Node.js-资源汇总](https://www.ershicimi.com/p/69048361a9cc4630bf5e8a9b2f33ea88) ![](assets/new.png)  
 - [2020-12-31-这些高阶的函数技术，你掌握了么](https://www.ershicimi.com/p/5c2ada55a6d37914b2bba452d7900c0a) ![](assets/new.png)  
@@ -243,9 +246,6 @@
 - [2020-12-28-4.2-万-Star！开发-Web-和移动端应用的全栈平台](https://www.ershicimi.com/p/e99316a14d758ea85631a0182fa0676e) ![](assets/new.png)  
 - [2020-12-28-设计灵感：12-个投资理财仪表盘界面设计](https://www.ershicimi.com/p/7c33c2d58a6f6a359e0529346a6b4b24) ![](assets/new.png)  
 - [2020-12-27-分享-8-个非常实用的-Vue-自定义指令](https://www.ershicimi.com/p/d855bc0d8453186962ffdb15da7f0e9f) ![](assets/new.png)  
-- [2020-12-27-备战2021：vite-工程化实践，建议收藏](https://www.ershicimi.com/p/e6f7f32592acc8bfef3ddd3376536a2a) ![](assets/new.png)  
-- [2020-12-27-复盘-Node-项目中遇到的-15-个常见问题和解决方案](https://www.ershicimi.com/p/0586c7674708853753b320f0196a62ed) ![](assets/new.png)  
-- [2020-12-27-设计灵感：App-数据图表的-12-种展示方式](https://www.ershicimi.com/p/12abf3c3d77df5fc1b26ea01edb9e0be) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -641,6 +641,9 @@
 </summary>
 
 
+- [2020-12-31-科技爱好者周刊（第-140-期）：印度人的工资是多少？](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html) ![](assets/new.png)  
+- [2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html) ![](assets/new.png)  
+- [2020-12-25-科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -890,11 +893,11 @@
 </summary>
 
 
+- [2021-01-01-React-源码解读之-Concurrent-模式（一）](https://juejin.im/post/6912998769869586440) ![](assets/new.png)  
+- [2021-01-01-Android多线程之间通讯](https://juejin.im/post/6912995210368811016) ![](assets/new.png)  
+- [2021-01-01-00《玩转Git三剑客》学习笔记@开篇](https://juejin.im/post/6912994440701444104) ![](assets/new.png)  
 - [2021-01-01-This-指向](https://juejin.im/post/6912804920433311758) ![](assets/new.png)  
 - [2021-01-01-2021-前端开发手册](https://juejin.im/post/6912803068228665357) ![](assets/new.png)  
-- [2021-01-01-ceatePotral的使用](https://juejin.im/post/6912797194882351118) ![](assets/new.png)  
-- [2021-01-01-day03上传图片和名称给后端](https://juejin.im/post/6912796798104895496) ![](assets/new.png)  
-- [2021-01-01-leetcode-每日打卡-字符串问题](https://juejin.im/post/6912795664183197710) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1010,6 +1013,10 @@
 </summary>
 
 
+- [2021-01-02-iterm2-或-terminal-是否可以自动复制已经输入的命令到系统剪贴板](https://www.v2ex.com/t/741015) ![](assets/new.png)  
+- [2021-01-02-Youtube-有人拼车吗？](https://www.v2ex.com/t/741013) ![](assets/new.png)  
+- [2021-01-02-在对一个较长的数组去重，同时要求返回重复元素索引时，哪种算法最快？](https://www.v2ex.com/t/741012) ![](assets/new.png)  
+- [2021-01-02-社招-望石智慧-NLP-算法工程师](https://www.v2ex.com/t/741011) ![](assets/new.png)  
 - [2021-01-02-如何提取手机或者-iPad-中第三方（非-app-store-下载）通过网页发布的企业版-app-的-ipa](https://www.v2ex.com/t/741010) ![](assets/new.png)  
 - [2021-01-02-感觉-nas-对于我来说就是伪需求](https://www.v2ex.com/t/741009) ![](assets/new.png)  
 - [2021-01-02-XR-有必要换小米-11-吗](https://www.v2ex.com/t/741008) ![](assets/new.png)  
@@ -1026,10 +1033,6 @@
 - [2021-01-02-想装个程序员用的主机，各位大佬有没有推荐的配置，优先-intel-平台（没准折腾折腾黑果）](https://www.v2ex.com/t/740994) ![](assets/new.png)  
 - [2021-01-02-大家在用什么体重秤？求推荐个能连手机的？](https://www.v2ex.com/t/740993) ![](assets/new.png)  
 - [2021-01-02-2020-年七月花-99-办理的电信会员，返-15-元权益金的选项没有了](https://www.v2ex.com/t/740992) ![](assets/new.png)  
-- [2021-01-02-小白，最近想搞个打游戏和编程的电脑-，-预算-1w-1w2（只主机），-但最近好像显卡不好抢-所以想问-什么时候入手比较好-麻烦各位大佬了](https://www.v2ex.com/t/740991) ![](assets/new.png)  
-- [2021-01-02-试用期可以不用交社保吗](https://www.v2ex.com/t/740990) ![](assets/new.png)  
-- [2021-01-02-v-站现在怎么没法浏览一个主题页的下一页内容了？现在点下一页就转到最近的所有帖子（无主题限制）？](https://www.v2ex.com/t/740989) ![](assets/new.png)  
-- [2021-01-01-蝶式键盘清灰工具推荐？](https://www.v2ex.com/t/740987) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1082,14 +1085,14 @@
 - [2021-01-02-华为联合北大、悉尼大学对-Visual-Transformer-的最新综述](https://toutiao.io/k/m4ugzzo) ![](assets/new.png)  
 - [2021-01-02-也聊-Google-发布](https://toutiao.io/k/l8eqcmx) ![](assets/new.png)  
 - [2021-01-02-快手、快影-iOS-App-反调试](https://toutiao.io/k/dau2r6e) ![](assets/new.png)  
-- [2021-01-02-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
-- [2021-01-02-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
-- [2021-01-02-推荐-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
-- [2021-01-02-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) ![](assets/new.png)  
 - [2021-01-02-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
-- [2021-01-02-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
-- [2021-01-02-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-02-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
+- [2021-01-02-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
+- [2021-01-02-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) ![](assets/new.png)  
+- [2021-01-02-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) ![](assets/new.png)  
 - [2021-01-02-推荐-肝了-3-版才满意：分布式系统之-CAP-理论，我们对它的理解和误解](https://toutiao.io/k/q2fkii4) ![](assets/new.png)  
+- [2021-01-02-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
+- [2021-01-02-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
 - [2021-01-02-推荐-我看技术人的成长路径](https://toutiao.io/k/qnlw4ck) ![](assets/new.png)  
 - [2021-01-02-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

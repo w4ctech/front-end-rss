@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-02 03:22:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-02 03:47:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -519,6 +519,7 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【JavaScript】排序算法](https://www.ershicimi.com/p/1ca2e23533568845a2a484f905348a5f)
+- [【掘金前端】2.-什么是-HTTP？](https://juejin.im/post/6912733468635955214)
 - [【开发者头条】推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f)
 - [【安全热点】记住看小电影前一定要检查网址是不是-HTTPS-的,不然…](https://sec.thief.one/article_content?a_id=38471aec7b96be48978cd5f87ebb9e1b)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

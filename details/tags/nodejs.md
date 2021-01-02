@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-02 16:06:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-02 16:21:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -14,6 +14,10 @@
 - [2020-12-31-Node.js-模块化你所需要知道的事](https://www.ershicimi.com/p/7f9e2ce8021b2e0d1c478b37701ab3f0) 
 - [2020-04-07-nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c) 
 - [2020-12-22-V8-引擎垃圾回收与内存分配](https://www.ershicimi.com/p/1a0e4f18abc4d979ab8de6939f2ac8cb) 
+- [2020-12-30-双十一大促，Node.js-做了什么？](https://www.ershicimi.com/p/b54f0097e36d57eb043551e42fb115a0) 
+- [2020-12-30-Node.js-开发实践，前端工程师的MVP利器](https://www.ershicimi.com/p/fdaa9395bb7f24003894a46648beb01a) 
+- [2020-12-26-使用-Chrome-Devtools-调试您的-Node.js-程序](https://www.ershicimi.com/p/5e17f44d97790ce8646e4e3ee3559351) 
+- [2020-12-24-从V8引擎来看JS中这个"假数组"](https://www.ershicimi.com/p/a22ebaa70c7880e26ac4a1fdfa75d9d8) 
 - [2021-01-01-Node.js-开发者，新年快乐！](https://www.ershicimi.com/p/2c7c27c70c311fe4a44ad91d77848966) 
 - [2020-12-30-腾讯-IMWeb-团队是如何使用-NodeJS-实现-JWT-原理](https://www.ershicimi.com/p/34fe75362682014fb1e64db22c16dc6a) 
 - [2020-12-29-网易智慧企业-Node.js实践三：灰度发布和应用监控](https://www.ershicimi.com/p/4c6a45bb0f230856eb6dc8c84a0956b6) 

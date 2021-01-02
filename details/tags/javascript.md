@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-02 16:06:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-02 16:21:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -36,6 +36,9 @@
 - [2020-12-27-11个-Javascript-小技巧帮你提升代码质量](https://www.ershicimi.com/p/ecf37a71478e1ec006d76c064f683d28) 
 - [2020-12-26-15道ES6-Promise实战练习题，助你快速理解Promise](https://www.ershicimi.com/p/cecdada976b0ec26577980b2289e5c83) 
 - [2020-12-23-教你判断一个APP页面是原生的还是H5页面](https://www.ershicimi.com/p/aecfbfeef6b45693f8f54fdb7d4d46d6) 
+- [2020-12-31-可视化拖拽组件库一些技术要点原理分析](https://www.ershicimi.com/p/d64147adc5617ba7b9d3ecbdc8bc3410) 
+- [2020-12-29-如何判断一个APP页面是原生的还是H5页面](https://www.ershicimi.com/p/186812d847527cbb06e10a10d537f31f) 
+- [2020-12-24-埋点自动收集方案-路由依赖分析](https://www.ershicimi.com/p/d01c2b133483672085b9202deeade015) 
 - [2020-12-16-前端科普系列（3）：CommonJS-不是前端却革命了前端](https://www.ershicimi.com/p/f803c835e0429302da18885a5c1987d0) 
 - [2020-12-24-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) 
 - [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
@@ -70,7 +73,6 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
-- [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2021-01-02-前端就该用-JS-刷算法2](https://juejin.im/post/6913143820129402893) 
 - [2021-01-02-mock.js-的使用方法](https://juejin.im/post/6913134310895648782) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
@@ -83,7 +85,6 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-01-02-请问深圳移动宽带要如何才能用路由器拨号上网?](https://www.v2ex.com/t/741121) 
-- [2021-01-02-m1-的安卓模拟器-Speedometer-2.0-是-125-分](https://www.v2ex.com/t/741078) 
 - [2020-12-31-2020年隐私安全&信息泄露大事件回顾](https://sec.thief.one/article_content?a_id=c3538f6c87a7bf75f966d20257b49912) 
 - [2020-12-31-针对后端组件的攻击测试](https://sec.thief.one/article_content?a_id=73725bbf157533cd57e718a97cf9a2ba) 
 - [2020-12-30-关于白帽子Doggy事件的说明](https://sec.thief.one/article_content?a_id=acf7ef15376870928b46d125a85898fe) 

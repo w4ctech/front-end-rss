@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-02 14:46:54，:rocket: 更新条数: +964， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-02 14:58:23，:rocket: 更新条数: +940， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
@@ -811,26 +811,6 @@
 </summary>
 
 
-- [2021-01-02-深圳发2000万数字人民币红包；奇虎360元旦植发6折福利；快手开启全员大小周；员工上厕所次数超过规](https://www.ershicimi.com/p/ac8ce5b894caf41f7341c4fc43360762) ![](assets/new.png)  
-- [2021-01-02-别再吹Rust了，它太难学了！](https://www.ershicimi.com/p/09b7a26a1e30ea15d6dee6343b26e28b) ![](assets/new.png)  
-- [2021-01-02-短短一年，-openEuler-社区是如何繁荣起来的？](https://www.ershicimi.com/p/3c0e14395e56a45e414d529722776527) ![](assets/new.png)  
-- [2021-01-02-云原生2.0：以应用为中心-构建高效、敏捷的云原生基础设施](https://www.ershicimi.com/p/d46b9aa0bc4449dda5dc092b0d547b9e) ![](assets/new.png)  
-- [2021-01-01-2020年度最全IT吃瓜指南](https://www.ershicimi.com/p/7fb37933b7c31fcb7ecfcab010f66052) ![](assets/new.png)  
-- [2021-01-01-从五家领先硅谷公司看中国To-B软件企业的“危”与“机”](https://www.ershicimi.com/p/fcb667299769cfd9600b3cbf13ec64ac) ![](assets/new.png)  
-- [2021-01-01-深入浅出Spark：存储系统](https://www.ershicimi.com/p/835d3f3471a3fbabfa1c81de1e71da12) ![](assets/new.png)  
-- [2020-12-31-微博老矣：被抖音快手拍在沙滩上](https://www.ershicimi.com/p/27ae9c46b5371daa8f8f9ba3f7560642) ![](assets/new.png)  
-- [2020-12-31-这100篇文章，你一定要收藏-|-InfoQ-年度最受欢迎文章排行榜](https://www.ershicimi.com/p/fa6267d232ae6cb9631e858244f6796d) ![](assets/new.png)  
-- [2020-12-31-行走在开源之路上的操作系统，openEuler-如何从-0-到-1-构建开放社区？](https://www.ershicimi.com/p/1e7f089458055b3dda2b11e5802d3abc) ![](assets/new.png)  
-- [2020-12-31-移动开发者的必备“助手”！AppGallery-Connect的全生命周期“服务之道”-｜-Q推荐](https://www.ershicimi.com/p/8d7bf75ba0c8ea94b1763ebb6a4ce86a) ![](assets/new.png)  
-- [2020-12-31-怎样挑选一个好的NPM包？](https://www.ershicimi.com/p/9d579f5d6d29257c7c75818e9f410e89) ![](assets/new.png)  
-- [2020-12-30-2021年，不能错过的十大技术趋势-|-InfoQ特别策划](https://www.ershicimi.com/p/2b15c7efba7004ab25d4982f9461b114) ![](assets/new.png)  
-- [2020-12-30-框架在左网格在右，云原生时代的微服务路在何方？](https://www.ershicimi.com/p/8b2006abe41ccb9a69c520ace3f14d06) ![](assets/new.png)  
-- [2020-12-30-10+位机器学习大神测评-Amazon-SageMaker-全流程实战](https://www.ershicimi.com/p/f0d036acb3bcc0e3ca96392c7f780b1f) ![](assets/new.png)  
-- [2020-12-30-移动应用发展趋势生变，AppGallery-Connect一站式服务解决应用全生命周期难点](https://www.ershicimi.com/p/95811aa2f0d69f168fc2867136c8613f) ![](assets/new.png)  
-- [2020-12-30-Kafka不是数据库](https://www.ershicimi.com/p/3e66102380b1ef30bb3447a9f191c06c) ![](assets/new.png)  
-- [2020-12-29-代码可维护性差？给你套实用的“代码坏味道”自查清单-｜-极客时间](https://www.ershicimi.com/p/cfea602df77a685956ea92db76eb6367) ![](assets/new.png)  
-- [2020-12-29-从CentOS-8停止维护说起，聊聊操作系统的另一种选择](https://www.ershicimi.com/p/36dda893cec55c77da6ee8a63a5260e3) ![](assets/new.png)  
-- [2020-12-29-云计算的再次变迁：从容器云到数据云丨报告下载](https://www.ershicimi.com/p/6bc5a68db1068cec4b728649545bcc60) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -993,12 +973,10 @@
 </summary>
 
 
-- [2021-01-02-wakatime-时间都去哪了？](https://www.v2ex.com/t/741116) ![](assets/new.png)  
 - [2021-01-02-公司网站监测，数据验证用什么软件？](https://www.v2ex.com/t/741115) ![](assets/new.png)  
 - [2021-01-02-睡在电热毯上，手机充电玩手机，感觉身上有点麻，有时候还会被电到，正常吗？](https://www.v2ex.com/t/741113) ![](assets/new.png)  
 - [2021-01-02-询问一款-nuc](https://www.v2ex.com/t/741112) ![](assets/new.png)  
 - [2021-01-02-看了这篇文章准备把-chrome-换成了-edge](https://www.v2ex.com/t/741111) ![](assets/new.png)  
-- [2021-01-02-彼特币突破-3-万美元！](https://www.v2ex.com/t/741110) ![](assets/new.png)  
 - [2021-01-02-亚马逊判赔-7646-万元，不可使用-AWS-名称](https://www.v2ex.com/t/741108) ![](assets/new.png)  
 - [2021-01-02-Apple-Music-美区车2021.1](https://www.v2ex.com/t/741107) ![](assets/new.png)  
 - [2021-01-02-当教师四个月，感到很迷茫。](https://www.v2ex.com/t/741106) ![](assets/new.png)  
@@ -1013,6 +991,8 @@
 - [2021-01-02-关于-sc.qq.com-这种短连接怎么生成的](https://www.v2ex.com/t/741094) ![](assets/new.png)  
 - [2021-01-02-有用安卓-termux-的吗？感觉问题好多](https://www.v2ex.com/t/741093) ![](assets/new.png)  
 - [2021-01-02-求推荐超小体积-NAS-硬件](https://www.v2ex.com/t/741092) ![](assets/new.png)  
+- [2021-01-02-anker-八合一扩展坞-你们要搞清楚-8083-还是-8383](https://www.v2ex.com/t/741091) ![](assets/new.png)  
+- [2021-01-02-为什么很多项目名称包含使用的编程语言名称？](https://www.v2ex.com/t/741090) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,16 +1045,16 @@
 - [2021-01-02-华为联合北大、悉尼大学对-Visual-Transformer-的最新综述](https://toutiao.io/k/m4ugzzo) ![](assets/new.png)  
 - [2021-01-02-也聊-Google-发布](https://toutiao.io/k/l8eqcmx) ![](assets/new.png)  
 - [2021-01-02-快手、快影-iOS-App-反调试](https://toutiao.io/k/dau2r6e) ![](assets/new.png)  
-- [2021-01-02-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
 - [2021-01-02-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) ![](assets/new.png)  
 - [2021-01-02-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) ![](assets/new.png)  
-- [2021-01-02-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-02-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
+- [2021-01-02-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
 - [2021-01-02-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
 - [2021-01-02-推荐-肝了-3-版才满意：分布式系统之-CAP-理论，我们对它的理解和误解](https://toutiao.io/k/q2fkii4) ![](assets/new.png)  
-- [2021-01-02-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
-- [2021-01-02-推荐-关于中台的思考和尝试](https://toutiao.io/k/t4shd8f) ![](assets/new.png)  
-- [2021-01-02-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
-- [2021-01-02-推荐-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
+- [2021-01-02-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-02-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
+- [2021-01-02-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
+- [2021-01-02-推荐-我看技术人的成长路径](https://toutiao.io/k/qnlw4ck) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

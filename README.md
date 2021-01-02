@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-02 08:15:00，:rocket: 更新条数: +3976， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-02 08:48:45，:rocket: 更新条数: +3976， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1013,6 +1013,11 @@
 </summary>
 
 
+- [2021-01-02-M1-Mac，-Big-Sur-系统，请问三指呼出系统自带字典这个功能是不是没了？](https://www.v2ex.com/t/741058) ![](assets/new.png)  
+- [2021-01-02-在-windows10-里同步时间失败，家里移动宽带糟糕透了](https://www.v2ex.com/t/741057) ![](assets/new.png)  
+- [2021-01-02-浏览器如何让访问过的链接变色?](https://www.v2ex.com/t/741056) ![](assets/new.png)  
+- [2021-01-02-现在升级-macos-bigsur-升级还有问题么](https://www.v2ex.com/t/741055) ![](assets/new.png)  
+- [2021-01-02-说说你觉得最好用的写代码和看项目源码的最趁手的工具。。](https://www.v2ex.com/t/741053) ![](assets/new.png)  
 - [2021-01-02-亲戚做蛋糕的，买什么小程序之类的软件合适？](https://www.v2ex.com/t/741052) ![](assets/new.png)  
 - [2021-01-02-40km-越野跑-|-麦理浩径-10-6-段｜香港爬山徒步](https://www.v2ex.com/t/741051) ![](assets/new.png)  
 - [2021-01-02-推广阿噗站点:-upupor.com](https://www.v2ex.com/t/741050) ![](assets/new.png)  
@@ -1028,11 +1033,6 @@
 - [2021-01-02-求推荐一款-34-寸带鱼屏显示器，价格在一千五左右，打游戏娱乐用，请各位指导！](https://www.v2ex.com/t/741039) ![](assets/new.png)  
 - [2021-01-02-超市自助结账不够完善或者说磁扣跟不上发展了](https://www.v2ex.com/t/741038) ![](assets/new.png)  
 - [2021-01-02-现在对-arm-win10-的支持少啊](https://www.v2ex.com/t/741037) ![](assets/new.png)  
-- [2021-01-02-Win/Mac-上有没有这样的剪贴板工具？](https://www.v2ex.com/t/741036) ![](assets/new.png)  
-- [2021-01-02-需要一台主机-跑-Linux-写代码开发测试用-希望大家推介](https://www.v2ex.com/t/741034) ![](assets/new.png)  
-- [2021-01-02-非常讨厌元旦加班的时候，领导每天都请所有人一起吃饭](https://www.v2ex.com/t/741033) ![](assets/new.png)  
-- [2021-01-02-天塌了，地陷了.-model-Y-降-15W-了。](https://www.v2ex.com/t/741032) ![](assets/new.png)  
-- [2021-01-02-想要通过代码发送-post-请求，如何解决-access-control-allow-origin:xxx-的问题](https://www.v2ex.com/t/741030) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,16 +1085,16 @@
 - [2021-01-02-华为联合北大、悉尼大学对-Visual-Transformer-的最新综述](https://toutiao.io/k/m4ugzzo) ![](assets/new.png)  
 - [2021-01-02-也聊-Google-发布](https://toutiao.io/k/l8eqcmx) ![](assets/new.png)  
 - [2021-01-02-快手、快影-iOS-App-反调试](https://toutiao.io/k/dau2r6e) ![](assets/new.png)  
-- [2021-01-02-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
-- [2021-01-02-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
-- [2021-01-02-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-02-推荐-关于中台的思考和尝试](https://toutiao.io/k/t4shd8f) ![](assets/new.png)  
+- [2021-01-02-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
 - [2021-01-02-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) ![](assets/new.png)  
 - [2021-01-02-推荐-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
-- [2021-01-02-推荐-肝了-3-版才满意：分布式系统之-CAP-理论，我们对它的理解和误解](https://toutiao.io/k/q2fkii4) ![](assets/new.png)  
-- [2021-01-02-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
-- [2021-01-02-推荐-关于中台的思考和尝试](https://toutiao.io/k/t4shd8f) ![](assets/new.png)  
+- [2021-01-02-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
 - [2021-01-02-推荐-我看技术人的成长路径](https://toutiao.io/k/qnlw4ck) ![](assets/new.png)  
+- [2021-01-02-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
+- [2021-01-02-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
 - [2021-01-02-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
+- [2021-01-02-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

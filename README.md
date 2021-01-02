@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-02 04:17:07，:rocket: 更新条数: +3970， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-02 04:26:59，:rocket: 更新条数: +3972， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -890,11 +890,11 @@
 </summary>
 
 
-- [2021-01-01-2020年国内前端团队都做了些什么?](https://juejin.im/post/6913003799141416973) ![](assets/new.png)  
-- [2021-01-01-Typescrit从入门到放弃系列二-基础类型](https://juejin.im/post/6912783962528022535) ![](assets/new.png)  
-- [2021-01-01-探索JavaScript](https://juejin.im/post/6912780175339945998) ![](assets/new.png)  
-- [2021-01-01-Typescrit从入门到放弃系列一-环境配置和搭建](https://juejin.im/post/6912777170130829320) ![](assets/new.png)  
-- [2021-01-01-一年半女前端的自我救赎-｜掘金年度征文](https://juejin.im/post/6912772782950629389) ![](assets/new.png)  
+- [2021-01-01-This-指向](https://juejin.im/post/6912804920433311758) ![](assets/new.png)  
+- [2021-01-01-2021-前端开发手册](https://juejin.im/post/6912803068228665357) ![](assets/new.png)  
+- [2021-01-01-ceatePotral的使用](https://juejin.im/post/6912797194882351118) ![](assets/new.png)  
+- [2021-01-01-day03上传图片和名称给后端](https://juejin.im/post/6912796798104895496) ![](assets/new.png)  
+- [2021-01-01-leetcode-每日打卡-字符串问题](https://juejin.im/post/6912795664183197710) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1010,6 +1010,8 @@
 </summary>
 
 
+- [2021-01-02-如何提取手机或者-iPad-中第三方（非-app-store-下载）通过网页发布的企业版-app-的-ipa](https://www.v2ex.com/t/741010) ![](assets/new.png)  
+- [2021-01-02-感觉-nas-对于我来说就是伪需求](https://www.v2ex.com/t/741009) ![](assets/new.png)  
 - [2021-01-02-XR-有必要换小米-11-吗](https://www.v2ex.com/t/741008) ![](assets/new.png)  
 - [2021-01-02-LSM-Log-Structured-Merge-Trees-牺牲了部分读性能，以换取写入的最大化性能，有没有反过来，牺牲写性能以最大化读性能的存储结构呢？](https://www.v2ex.com/t/741006) ![](assets/new.png)  
 - [2021-01-02-邀请大家一起做些工业级和性能向的-Rust-项目](https://www.v2ex.com/t/741005) ![](assets/new.png)  
@@ -1028,8 +1030,6 @@
 - [2021-01-02-试用期可以不用交社保吗](https://www.v2ex.com/t/740990) ![](assets/new.png)  
 - [2021-01-02-v-站现在怎么没法浏览一个主题页的下一页内容了？现在点下一页就转到最近的所有帖子（无主题限制）？](https://www.v2ex.com/t/740989) ![](assets/new.png)  
 - [2021-01-01-蝶式键盘清灰工具推荐？](https://www.v2ex.com/t/740987) ![](assets/new.png)  
-- [2021-01-01-2020-年，我跑过的步](https://www.v2ex.com/t/740986) ![](assets/new.png)  
-- [2021-01-01-新年第一天，写了个格力空调的-Homebridge-接入](https://www.v2ex.com/t/740985) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1082,16 +1082,16 @@
 - [2021-01-02-华为联合北大、悉尼大学对-Visual-Transformer-的最新综述](https://toutiao.io/k/m4ugzzo) ![](assets/new.png)  
 - [2021-01-02-也聊-Google-发布](https://toutiao.io/k/l8eqcmx) ![](assets/new.png)  
 - [2021-01-02-快手、快影-iOS-App-反调试](https://toutiao.io/k/dau2r6e) ![](assets/new.png)  
-- [2021-01-02-推荐-关于中台的思考和尝试](https://toutiao.io/k/t4shd8f) ![](assets/new.png)  
-- [2021-01-02-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
-- [2021-01-02-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
-- [2021-01-02-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
-- [2021-01-02-推荐-你在教我做事啊？Mac-节约生命的使用方法](https://toutiao.io/k/ptpyv1n) ![](assets/new.png)  
-- [2021-01-02-推荐-我看技术人的成长路径](https://toutiao.io/k/qnlw4ck) ![](assets/new.png)  
 - [2021-01-02-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) ![](assets/new.png)  
+- [2021-01-02-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) ![](assets/new.png)  
 - [2021-01-02-推荐-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) ![](assets/new.png)  
 - [2021-01-02-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) ![](assets/new.png)  
-- [2021-01-02-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) ![](assets/new.png)  
+- [2021-01-02-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) ![](assets/new.png)  
+- [2021-01-02-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
+- [2021-01-02-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-02-推荐-肝了-3-版才满意：分布式系统之-CAP-理论，我们对它的理解和误解](https://toutiao.io/k/q2fkii4) ![](assets/new.png)  
+- [2021-01-02-推荐-我看技术人的成长路径](https://toutiao.io/k/qnlw4ck) ![](assets/new.png)  
+- [2021-01-02-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

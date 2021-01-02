@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-02 16:21:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-02 17:10:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,18 +7,7 @@
 
 
 
-- [2020-12-16-前端安全编码规范](https://www.ershicimi.com/p/f7d6152579ec17d403d70bedb42d0c37) 
-- [2020-12-31-封装-axios-取消重复请求](https://www.ershicimi.com/p/38899a1576fde7c1f9df96886a190129) 
-- [2020-12-23-你猜一个-TCP-连接上面能发多少个-HTTP-请求解析](https://www.ershicimi.com/p/c6d5ee7cba63d0d57ace4e9c1abf716d) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-02-看了这篇文章准备把-chrome-换成了-edge](https://www.v2ex.com/t/741111) 
 - [2021-01-02-iOS-生态安全现状分析，只是我能想到的，欢迎大家补充信息~](https://www.v2ex.com/t/741097) 

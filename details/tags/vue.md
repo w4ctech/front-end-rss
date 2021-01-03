@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-03 03:24:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-03 03:51:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -79,5 +79,8 @@
 - [2020-12-15-人人都会Vue，想拿高薪，如何突出优势？](https://www.ershicimi.com/p/c0a62bdd8e327e1ecc67cfcc1caa6142) 
 - [2020-12-14-来一起用-Vue3.0-做个飞机大战游戏](https://www.ershicimi.com/p/873c9d11b224f5b47ddcc1e170552f6c) 
 - [2020-12-08-看这篇就行！最强VUE+ElementUI管理项目来了（附实战全过程）](https://www.ershicimi.com/p/be2fe6b481813259250c47b6cd73b659) 
+- [2021-01-02-VITE-+VUE-3.0-+jsx/tsx-工程化开发](https://juejin.im/post/6913198785904672781) 
+- [2021-01-02-Vue2核心原理简易版-异步更新](https://juejin.im/post/6913193390020493320) 
+- [2021-01-02-electron-vue-开发6-electron使用better-sqlite3插件-2](https://juejin.im/post/6913191403762188295) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 

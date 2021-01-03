@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-03 10:04:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-03 10:16:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -58,4 +58,3 @@
 - [2020-12-30-当食品安全遇上“区块链”](https://sec.thief.one/article_content?a_id=8d9bf89179dd497d45cb9a4316323dbd) 
 - [2020-12-30-“奇”迹2020|奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=c2bcf290640ba90eb166413b88f71a84) 
 - [2020-12-30-感谢信-|-国舜股份网络安全保障实力获江苏省公安厅认可](https://sec.thief.one/article_content?a_id=fb41c6151be070f5ed5e1955272be859) 
-- [2020-12-30-开源软件安全治理的抓手:资产管理](https://sec.thief.one/article_content?a_id=58244ace5518f5bf6989b7536942ac1d) 

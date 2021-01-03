@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-03 21:45:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-03 22:04:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -73,7 +73,6 @@
 - [2020-01-22-【音频|特别策划】新冠肺炎疫情是如何逼近的？](http://fm.caixin.com/m/2020-01-22/101507323.html) 
 - [2020-01-22-【视频】国新办举行发布会-介绍新冠肺炎防控情况](http://m.video.caixin.com/m/2020-01-22/101507052.html) 
 - [2020-01-20-【视频】钟南山谈新型肺炎：肯定存在人传人现象](http://m.video.caixin.com/m/2020-01-20/101506478.html) 
-- [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) 
 - [2020-05-13-视频Winter-教你-MVVM](https://www.ershicimi.com/p/407d00f5a91b47a7f16018aaec12084f) 
 - [2019-10-13-更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d) 
 - [2019-10-12-视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b) 
@@ -87,7 +86,8 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-12-23-想要复制图像？Clipboard-API-了解一下](https://www.ershicimi.com/p/7fe6b2bd2ccbaa82acc0db7202ae2e78) 
+- [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-01-03-html-怎么实现基础的音频播放功能？](https://www.v2ex.com/t/741337) 
 - [2021-01-03-你看直播带货吗？这个到底为啥火？火的点在哪里？便宜？明星？我买东西都是根据自己需求去买的，似乎跟直播带货绝缘。。。还是就是有人闲着爱看？还是我错过了什...](https://www.v2ex.com/t/741316) 
 - [2021-01-03-Manjaro，前天升级后每次启动都出现“检查您的显卡驱动”、“您的系统当前没有视频硬件加速。您可能会遇到性能差和-CPU-使用率高的问题。”的通知](https://www.v2ex.com/t/741293) 

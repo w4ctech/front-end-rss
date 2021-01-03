@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-03 04:02:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-03 04:18:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -53,11 +53,6 @@
 - [2020-12-29-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/c63d28f5cb612614d2190525cfe5c768) 
 - [2020-12-25-JavaScript-里的奇葩知识](https://www.ershicimi.com/p/6b4ad28f598d887acafc0828d3f7fafc) 
 - [2020-12-23-12-个-GitHub-上超火的-JavaScript-奇技淫巧项目，找到写-JavaScript](https://www.ershicimi.com/p/e6e7b35863ae67a4201f03d4230f61e2) 
-- [2020-12-30-增量-DOM-与虚拟-DOM-的对比使用](https://www.ershicimi.com/p/4ef6c18d905726168ed399c66f6e7097) 
-- [2020-12-30-JavaScript诞生25周年](https://www.ershicimi.com/p/97303cc4af5242e452a2ff64dbd61e2f) 
-- [2020-12-27-11个-Javascript-小技巧帮你提升代码质量](https://www.ershicimi.com/p/ecf37a71478e1ec006d76c064f683d28) 
-- [2020-12-26-15道ES6-Promise实战练习题，助你快速理解Promise](https://www.ershicimi.com/p/cecdada976b0ec26577980b2289e5c83) 
-- [2020-12-23-教你判断一个APP页面是原生的还是H5页面](https://www.ershicimi.com/p/aecfbfeef6b45693f8f54fdb7d4d46d6) 
 - [2020-12-31-可视化拖拽组件库一些技术要点原理分析](https://www.ershicimi.com/p/d64147adc5617ba7b9d3ecbdc8bc3410) 
 - [2020-12-29-如何判断一个APP页面是原生的还是H5页面](https://www.ershicimi.com/p/186812d847527cbb06e10a10d537f31f) 
 - [2020-12-24-埋点自动收集方案-路由依赖分析](https://www.ershicimi.com/p/d01c2b133483672085b9202deeade015) 
@@ -66,7 +61,6 @@
 - [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
 - [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
 - [2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html) 
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) 
 - [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) 
 - [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) 
@@ -96,7 +90,6 @@
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
-- [2021-01-02-【🆘JS基础连环问】变量/函数提升10问-|-创作者训练营](https://juejin.im/post/6913191861423833102) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

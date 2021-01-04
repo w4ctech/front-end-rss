@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-04 11:19:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-04 11:48:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -142,7 +142,6 @@
 - [【InfoQ】云原生2.0：以应用为中心-构建高效、敏捷的云原生基础设施](https://www.ershicimi.com/p/d46b9aa0bc4449dda5dc092b0d547b9e)
 - [【InfoQ】行走在开源之路上的操作系统，openEuler-如何从-0-到-1-构建开放社区？](https://www.ershicimi.com/p/1e7f089458055b3dda2b11e5802d3abc)
 - [【InfoQ】怎样挑选一个好的NPM包？](https://www.ershicimi.com/p/9d579f5d6d29257c7c75818e9f410e89)
-- [【掘金前端】npm-更新依赖包](https://juejin.im/post/6913833065647341581)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【编程之上】万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019)
 - [【编程之上】4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4)
@@ -518,6 +517,7 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【JavaScript】排序算法](https://www.ershicimi.com/p/1ca2e23533568845a2a484f905348a5f)
+- [【V2EX】百度内推-🔥🔥算法/工程/产品/设计/运营各类岗位急速内推,实时反馈~~~~~~~~~~~](https://www.v2ex.com/t/741642)
 - [【V2EX】o*^▽^*┛-更新-TestFlight-公测软件-tg-频道：-https://t.me/TestFlightX](https://www.v2ex.com/t/741597)
 - [【开发者头条】推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f)
 - [【安全热点】包邮送20本《labuladong的算法小抄》《算法第一步》任选](https://sec.thief.one/article_content?a_id=7d8a834553ead6fb41bd9a6607f138cd)

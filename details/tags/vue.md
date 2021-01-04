@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-04 11:53:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-04 12:08:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -67,6 +67,7 @@
 - [2020-12-08-看这篇就行！最强VUE+ElementUI管理项目来了（附实战全过程）](https://www.ershicimi.com/p/be2fe6b481813259250c47b6cd73b659) 
 - [2021-01-04-Vue3-Compiler-优化细节，如何手写高性能渲染函数](https://juejin.im/post/6913855965792043021) 
 - [2021-01-04-如何用Vue开发Electron桌面程序?-这篇就够了!](https://juejin.im/post/6913829610748641287) 
+- [2021-01-03-vue2依赖收集原理也太绕绕绕了](https://juejin.im/post/6913809806943846407) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
 - [2021-01-04-有公司的新项目使用-vue3+ts-开发吗?](https://www.v2ex.com/t/741632) 

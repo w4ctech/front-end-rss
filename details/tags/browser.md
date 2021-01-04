@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-04 05:05:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-04 05:20:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,8 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-04-小妹木有-iPhone-，-但有-iPad-，-请问可以-xcode-连-iPad-真机调试-APP-吗？-PS.也木有开发者账号](https://www.v2ex.com/t/741454) 
+- [2021-01-04-干货-|GitHUB安全搬运工-五](https://sec.thief.one/article_content?a_id=54cbd72446eb49603720d0edd10db773) 
+- [2021-01-04-每日安全动态推送01-04](https://sec.thief.one/article_content?a_id=31b56abbe11752e19522a7ee6b87f6bf) 
 - [2021-01-02-Adrozek:劫持Chrome、Edge和Firefox的恶意软件](https://sec.thief.one/article_content?a_id=934052c8ea503ad4f0447c758a53156a) 
 - [2021-01-02-物联网设备安全能力基线研究](https://sec.thief.one/article_content?a_id=5659134d9f1bb4476846d89ddf3ba0fc) 
 - [2021-01-01-FreeBuf-2021网络安全行业发展预测](https://sec.thief.one/article_content?a_id=a527e5a77fc6c318f0e2493ae87b8585) 
@@ -37,7 +39,3 @@
 - [2020-12-31-IPv6改造后容易被黑客攻击?推荐一个超火的Web端安全防护神器](https://sec.thief.one/article_content?a_id=a307a151393ca3aa8bcd94d83ae32946) 
 - [2020-12-31-物联网安全:区块链与可信监管](https://sec.thief.one/article_content?a_id=c1f74a59328e3a09b1e88c76df91f779) 
 - [2020-12-31-从21家入围单位脱颖而出,安恒信息成为唯一获得“年度安全品牌建设...](https://sec.thief.one/article_content?a_id=c7decfb74661fde111dea2dbcf8b315f) 
-- [2020-12-30-DevSecOps实践与技术专场圆满落幕!畅谈软件应用安全开发](https://sec.thief.one/article_content?a_id=0e2799ced863f321fd74b5d087923fa7) 
-- [2020-12-30-【安全圈】货运巨头Forward-Air遭到新型勒索软件Hades的攻击](https://sec.thief.one/article_content?a_id=38dccb8913cf2205c7bf1159e3495f49) 
-- [2020-12-30-奇安信助力“2020网络安全标准论坛”成功举办](https://sec.thief.one/article_content?a_id=7b917db559c184e575d28231fe609f6f) 
-- [2020-12-30-当食品安全遇上“区块链”](https://sec.thief.one/article_content?a_id=8d9bf89179dd497d45cb9a4316323dbd) 

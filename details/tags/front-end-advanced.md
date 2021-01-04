@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-04 22:15:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-04 22:47:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -20,7 +20,6 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
-- [2020-12-06-排序算法](https://www.ershicimi.com/p/1ca2e23533568845a2a484f905348a5f) 
 - [2021-01-04-各位老哥，请教一个时间同步的算法问题。](https://www.v2ex.com/t/741658) 
 - [2021-01-04-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) 
 - [2021-01-03-包邮送20本《labuladong的算法小抄》《算法第一步》任选](https://sec.thief.one/article_content?a_id=7d8a834553ead6fb41bd9a6607f138cd) 

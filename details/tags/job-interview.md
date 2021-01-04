@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-04 17:35:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-04 18:28:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,8 +7,5 @@
 
 
 
-- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-01-04-快手-内推-北上深杭-16-薪+-年前面试&&年后入职-即将上市](https://www.v2ex.com/t/741682) 
-- [2021-01-04-从面试角度分析-CopyOnWriteArrayList-源码](https://toutiao.io/k/3ynh21d) 
-- [2021-01-04-推荐-万字攻略，详解腾讯面试](https://toutiao.io/k/2b0b1bw) 
 - [2021-01-04-招聘-|-极光无限邀你共启2021,向新前行](https://sec.thief.one/article_content?a_id=35c3b0bf8d68178e5b4f86e343bda235) 

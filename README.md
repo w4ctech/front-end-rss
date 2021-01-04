@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-04 07:00:53，:rocket: 更新条数: +957， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-04 07:18:40，:rocket: 更新条数: +958， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -791,6 +791,13 @@
 </summary>
 
 
+- [2021-01-04-中国三大电信运营商被迫从美股退市，商务部：将采取必要措施](https://www.ershicimi.com/p/7d96ccf7b33a5d5f2f791016ac7e1605) ![](assets/new.png)  
+- [2021-01-04-解读物联网的2020：生态梦从何说起](https://www.ershicimi.com/p/0268f357eba098be97dfa3c88e5448ed) ![](assets/new.png)  
+- [2021-01-04-阿里技术实战：数十万云服务器如何高效运维？｜-QCon](https://www.ershicimi.com/p/5c89f8133bb81fabe7e45455e1f1ff17) ![](assets/new.png)  
+- [2021-01-04-TDWI：-2021数据分析与商业智能预测](https://www.ershicimi.com/p/8b1663ad8abe71d86dd46f9978cfa7a0) ![](assets/new.png)  
+- [2021-01-04-改善代码可读性的5种方法](https://www.ershicimi.com/p/97975d43d9dd4e71254b1b2b02056ff6) ![](assets/new.png)  
+- [2021-01-03-手机新战事：华为掉队，谁来补位？](https://www.ershicimi.com/p/3f8e1567e494ed128f5f893bbc22ca96) ![](assets/new.png)  
+- [2021-01-03-三十而已，工程师如何做好职业成长？](https://www.ershicimi.com/p/66afdb9217086bda4b3b404684de9184) ![](assets/new.png)  
 - [2021-01-02-深圳发2000万数字人民币红包；奇虎360元旦植发6折福利；快手开启全员大小周；员工上厕所次数超过规](https://www.ershicimi.com/p/ac8ce5b894caf41f7341c4fc43360762) ![](assets/new.png)  
 - [2021-01-02-别再吹Rust了，它太难学了！](https://www.ershicimi.com/p/09b7a26a1e30ea15d6dee6343b26e28b) ![](assets/new.png)  
 - [2021-01-02-短短一年，-openEuler-社区是如何繁荣起来的？](https://www.ershicimi.com/p/3c0e14395e56a45e414d529722776527) ![](assets/new.png)  
@@ -804,13 +811,6 @@
 - [2020-12-31-移动开发者的必备“助手”！AppGallery-Connect的全生命周期“服务之道”-｜-Q推荐](https://www.ershicimi.com/p/8d7bf75ba0c8ea94b1763ebb6a4ce86a) ![](assets/new.png)  
 - [2020-12-31-怎样挑选一个好的NPM包？](https://www.ershicimi.com/p/9d579f5d6d29257c7c75818e9f410e89) ![](assets/new.png)  
 - [2020-12-30-2021年，不能错过的十大技术趋势-|-InfoQ特别策划](https://www.ershicimi.com/p/2b15c7efba7004ab25d4982f9461b114) ![](assets/new.png)  
-- [2020-12-30-框架在左网格在右，云原生时代的微服务路在何方？](https://www.ershicimi.com/p/8b2006abe41ccb9a69c520ace3f14d06) ![](assets/new.png)  
-- [2020-12-30-10+位机器学习大神测评-Amazon-SageMaker-全流程实战](https://www.ershicimi.com/p/f0d036acb3bcc0e3ca96392c7f780b1f) ![](assets/new.png)  
-- [2020-12-30-移动应用发展趋势生变，AppGallery-Connect一站式服务解决应用全生命周期难点](https://www.ershicimi.com/p/95811aa2f0d69f168fc2867136c8613f) ![](assets/new.png)  
-- [2020-12-30-Kafka不是数据库](https://www.ershicimi.com/p/3e66102380b1ef30bb3447a9f191c06c) ![](assets/new.png)  
-- [2020-12-29-代码可维护性差？给你套实用的“代码坏味道”自查清单-｜-极客时间](https://www.ershicimi.com/p/cfea602df77a685956ea92db76eb6367) ![](assets/new.png)  
-- [2020-12-29-从CentOS-8停止维护说起，聊聊操作系统的另一种选择](https://www.ershicimi.com/p/36dda893cec55c77da6ee8a63a5260e3) ![](assets/new.png)  
-- [2020-12-29-云计算的再次变迁：从容器云到数据云丨报告下载](https://www.ershicimi.com/p/6bc5a68db1068cec4b728649545bcc60) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -973,6 +973,13 @@
 </summary>
 
 
+- [2021-01-04-公司产品被在网购平台上乱价，联系平台效率低到没用，有知道如何有效处理的方式的吗？](https://www.v2ex.com/t/741529) ![](assets/new.png)  
+- [2021-01-04-阻生智齿要不要拔](https://www.v2ex.com/t/741527) ![](assets/new.png)  
+- [2021-01-04-求推荐记录习惯的-app](https://www.v2ex.com/t/741526) ![](assets/new.png)  
+- [2021-01-04-一个去中心化的网络论坛设计](https://www.v2ex.com/t/741524) ![](assets/new.png)  
+- [2021-01-04-打算用-Laravel-建一个博客，平时我写文章都是-markdown，大佬们知道有什么好的-pdf-解析器吗?能自动解析-pdf-里面的-H1~H3-标题的](https://www.v2ex.com/t/741523) ![](assets/new.png)  
+- [2021-01-04-广州大家的房租支出多少？](https://www.v2ex.com/t/741522) ![](assets/new.png)  
+- [2021-01-04-迫于我这里的-send-anywhere-不能用了，大家跨平台传输文件都用什么](https://www.v2ex.com/t/741521) ![](assets/new.png)  
 - [2021-01-04-有这种和程序员大佬共进晚餐的机会嘛？](https://www.v2ex.com/t/741520) ![](assets/new.png)  
 - [2021-01-04-春运放假回家的票这么难抢的吗?一秒放空？](https://www.v2ex.com/t/741519) ![](assets/new.png)  
 - [2021-01-04-大佬们，推荐几款无线鼠标。](https://www.v2ex.com/t/741517) ![](assets/new.png)  
@@ -986,13 +993,6 @@
 - [2021-01-04-有哪些好用的吸盘挂钩推荐？](https://www.v2ex.com/t/741508) ![](assets/new.png)  
 - [2021-01-04-团队整合后主要业务是-DevOps，研发提效相关，请大家帮忙想一个团队名称！](https://www.v2ex.com/t/741507) ![](assets/new.png)  
 - [2021-01-04-第三方输入法每次更新都要重启机器才能用](https://www.v2ex.com/t/741506) ![](assets/new.png)  
-- [2021-01-04-换了新款的-macbook-air，键盘手感有点玄学](https://www.v2ex.com/t/741505) ![](assets/new.png)  
-- [2021-01-04-现在居然还有智能坐垫](https://www.v2ex.com/t/741504) ![](assets/new.png)  
-- [2021-01-04-您的服务器由于存在被网络犯罪分子操作或者托管，用来分发恶意软件的行为，被-spamhaus-组织封禁处理。](https://www.v2ex.com/t/741503) ![](assets/new.png)  
-- [2021-01-04-三十岁有必要做牙齿矫正吗？](https://www.v2ex.com/t/741502) ![](assets/new.png)  
-- [2021-01-04-求推荐-灶具和油烟机](https://www.v2ex.com/t/741501) ![](assets/new.png)  
-- [2021-01-04-有没有一种技术方案，能将-http-请求自动降级为本地调用，从而实现-web-应用优雅降级为单机应用](https://www.v2ex.com/t/741500) ![](assets/new.png)  
-- [2021-01-04-兄弟们问个公积金的问题，求解答。](https://www.v2ex.com/t/741499) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1045,8 +1045,8 @@
 - [2021-01-04-如何做到测试场景不遗漏？](https://toutiao.io/k/91v29b3) ![](assets/new.png)  
 - [2021-01-04-一个-Java-对象占用多大内存空间](https://toutiao.io/k/m12n691) ![](assets/new.png)  
 - [2021-01-04-区块链-2020-年度回顾（监管篇）](https://toutiao.io/k/ooftbh5) ![](assets/new.png)  
-- [2021-01-04-隔空操作有哪些应用场景？（mixlab-人机交互技术）](https://toutiao.io/k/56jevjl) ![](assets/new.png)  
 - [2021-01-04-作为项目经理应该串联起哪些流程](https://toutiao.io/k/sbx6x49) ![](assets/new.png)  
+- [2021-01-04-隔空操作有哪些应用场景？（mixlab-人机交互技术）](https://toutiao.io/k/56jevjl) ![](assets/new.png)  
 - [2021-01-04-YourBatman-2020-年感悟关键词：科比、裁员、管理层、活着](https://toutiao.io/k/54830sn) ![](assets/new.png)  
 - [2021-01-04-2020-这一年](https://toutiao.io/k/yrwp1pq) ![](assets/new.png)  
 - [2021-01-04-和过去的自己和-2020-好好道个别吧](https://toutiao.io/k/itpv2v7) ![](assets/new.png)  

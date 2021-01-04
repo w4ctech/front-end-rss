@@ -1,8 +1,26 @@
-:alarm_clock: 更新时间: 2021-01-04 21:11:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-04 21:29:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
 <table>
+
+<tr>
+<th colspan="12">2021年</th>
+</tr>
+<tr>
+<td><a href="#2021-01">01月</a></td>
+<td>02月</td>
+<td>03月</td>
+<td>04月</td>
+<td>05月</td>
+<td>06月</td>
+<td>07月</td>
+<td>08月</td>
+<td>09月</td>
+<td>10月</td>
+<td>11月</td>
+<td>12月</td>
+</tr>
 
 <tr>
 <th colspan="12">2020年</th>
@@ -38,24 +56,6 @@
 <td><a href="#2019-10">10月</a></td>
 <td><a href="#2019-11">11月</a></td>
 <td><a href="#2019-12">12月</a></td>
-</tr>
-
-<tr>
-<th colspan="12">2021年</th>
-</tr>
-<tr>
-<td><a href="#2021-01">01月</a></td>
-<td>02月</td>
-<td>03月</td>
-<td>04月</td>
-<td>05月</td>
-<td>06月</td>
-<td>07月</td>
-<td>08月</td>
-<td>09月</td>
-<td>10月</td>
-<td>11月</td>
-<td>12月</td>
 </tr>
 
 <tr>
@@ -140,6 +140,10 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2021-01-04-37-国已发现英国变异新冠病毒](https://edition.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-04-21/h_4a1951a1b2dd32cf116cf1cd1c7c02f5) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2021-01-04-石家庄宣布进入战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7iEnI5H2QpFRMHe9i8Eo210104&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2021-01-03-3-日新增-13-例新冠肺炎本土确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQdvj31VyukOFPfXL0NzQ210104&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2021-01-03-1-传-11+33！大连疫情现超级传播](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6scI8jWStbNb4bl1QlLC210103&isfromapp=1) 
 - [【前端早读课】2021-01-04-【第2166期】满帮动态化Flutter框架-—-Thresh开源啦~~](https://www.ershicimi.com/p/4c5d5427da8f20c75f83d5478f29291e) 
 - [【前端早读课】2021-01-04-【招聘】上海浪起互联网科技招前端工程师](https://www.ershicimi.com/p/d93777c94ff1eebb51f03687e751d387) 
 - [【前端早读课】2021-01-01-【第2165期】CSS现状和如何学习](https://www.ershicimi.com/p/4058ac4b87f1b89211a1cea55d6e851c) 
@@ -183,11 +187,85 @@
 - [【互联网架构师】2021-01-01-SpringBoot实战：整合Redis、mybatis，封装RedisUtils工具类等（附源码）](https://www.ershicimi.com/p/fd1a4307202d75fd2ab65de023dcb9f5) 
 - [【互联网架构师】2021-01-01-MyBatis-的-4-个妙用，别再踩坑了！](https://www.ershicimi.com/p/4cbbda75dfe0650a0598b84caf658ff4) 
 - [【互联网架构师】2021-01-01-为什么强烈推荐-Java-程序员使用-Google-Guava-编程！](https://www.ershicimi.com/p/ded22ed5fea51eadecd0e6b377ae6e9b) 
+- [【InfoQ】2021-01-04-中国三大电信运营商被迫从美股退市，商务部：将采取必要措施](https://www.ershicimi.com/p/7d96ccf7b33a5d5f2f791016ac7e1605) 
+- [【InfoQ】2021-01-04-解读物联网的2020：生态梦从何说起](https://www.ershicimi.com/p/0268f357eba098be97dfa3c88e5448ed) 
+- [【InfoQ】2021-01-04-阿里技术实战：数十万云服务器如何高效运维？｜-QCon](https://www.ershicimi.com/p/5c89f8133bb81fabe7e45455e1f1ff17) 
+- [【InfoQ】2021-01-04-TDWI：-2021数据分析与商业智能预测](https://www.ershicimi.com/p/8b1663ad8abe71d86dd46f9978cfa7a0) 
+- [【InfoQ】2021-01-04-改善代码可读性的5种方法](https://www.ershicimi.com/p/97975d43d9dd4e71254b1b2b02056ff6) 
+- [【InfoQ】2021-01-03-手机新战事：华为掉队，谁来补位？](https://www.ershicimi.com/p/3f8e1567e494ed128f5f893bbc22ca96) 
+- [【InfoQ】2021-01-03-三十而已，工程师如何做好职业成长？](https://www.ershicimi.com/p/66afdb9217086bda4b3b404684de9184) 
+- [【InfoQ】2021-01-02-深圳发2000万数字人民币红包；奇虎360元旦植发6折福利；快手开启全员大小周；员工上厕所次数超过规](https://www.ershicimi.com/p/ac8ce5b894caf41f7341c4fc43360762) 
+- [【InfoQ】2021-01-02-别再吹Rust了，它太难学了！](https://www.ershicimi.com/p/09b7a26a1e30ea15d6dee6343b26e28b) 
+- [【InfoQ】2021-01-02-短短一年，-openEuler-社区是如何繁荣起来的？](https://www.ershicimi.com/p/3c0e14395e56a45e414d529722776527) 
+- [【InfoQ】2021-01-02-云原生2.0：以应用为中心-构建高效、敏捷的云原生基础设施](https://www.ershicimi.com/p/d46b9aa0bc4449dda5dc092b0d547b9e) 
+- [【InfoQ】2021-01-01-2020年度最全IT吃瓜指南](https://www.ershicimi.com/p/7fb37933b7c31fcb7ecfcab010f66052) 
+- [【InfoQ】2021-01-01-从五家领先硅谷公司看中国To-B软件企业的“危”与“机”](https://www.ershicimi.com/p/fcb667299769cfd9600b3cbf13ec64ac) 
+- [【InfoQ】2021-01-01-深入浅出Spark：存储系统](https://www.ershicimi.com/p/835d3f3471a3fbabfa1c81de1e71da12) 
 - [【掘金前端】2021-01-04-什么是WebAuthn：在Web上使用Touch-ID和Windows-Hello登录](https://juejin.im/post/6913894433888927752) 
 - [【掘金前端】2021-01-04-Vue3-Compiler-优化细节，如何手写高性能渲染函数](https://juejin.im/post/6913855965792043021) 
 - [【掘金前端】2021-01-04-如何用Vue开发Electron桌面程序?-这篇就够了!](https://juejin.im/post/6913829610748641287) 
 - [【掘金前端】2021-01-04-浏览器架构----浏览器系列（1）](https://juejin.im/post/6913828259898195976) 
 - [【掘金前端】2021-01-03-vue2依赖收集原理也太绕绕绕了](https://juejin.im/post/6913809806943846407) 
+- [【知乎日报】2021-01-04-网传拼多多-23-岁员工加班后猝死，拼多多需要承担哪些责任？](https://www.ershicimi.com/p/47b86ebdc219ed111ca6b5404e841b4f) 
+- [【知乎日报】2021-01-04-知乎-2020｜「好物推荐官」榜单发布](https://www.ershicimi.com/p/11f362b0f4a678c784d6eb3c9b8fca34) 
+- [【知乎日报】2021-01-04-知乎故事-|-有哪些好气又好笑的复仇故事？](https://www.ershicimi.com/p/41cb3194f88967bb01788d6c24527e12) 
+- [【知乎日报】2021-01-03-本周知乎热榜-|-《心灵奇旅》热映，郭敬明于正公开道歉，杨笠脱口秀引争议](https://www.ershicimi.com/p/f520570041e20cf8292c2228e492d9b8) 
+- [【知乎日报】2021-01-03-知乎故事-|-你在学校嗑过自己班里的-CP-吗？](https://www.ershicimi.com/p/af1e05a15c47a9cf39e8b7c39425cf37) 
+- [【知乎日报】2021-01-01-知乎神吐槽-|-如何用四个字形容你上一段感情？](https://www.ershicimi.com/p/ce30fd3046de7014124d0132216fdf25) 
+- [【知乎日报】2021-01-01-知乎故事-|-你的导师对你说过什么让你至今难以忘怀的话？](https://www.ershicimi.com/p/6489c90f45f461266b1cc960777ba9b6) 
+- [【V2EX】2021-01-04-问个-jvm-拼接字符串，-heap-oom-的问题](https://www.v2ex.com/t/741705) 
+- [【V2EX】2021-01-04-各位推荐一下，-chrome-有没有收藏同时能快照网页的插件？](https://www.v2ex.com/t/741704) 
+- [【V2EX】2021-01-04-notion-崩了](https://www.v2ex.com/t/741703) 
+- [【V2EX】2021-01-04-客户对速度要求高，-nginx-的-pagespeed-模块有没有什么坑？](https://www.v2ex.com/t/741700) 
+- [【V2EX】2021-01-04-关于-Quantumult-X-SSID-策略在-M1-和-ios-下的不同表现](https://www.v2ex.com/t/741699) 
+- [【V2EX】2021-01-04-n1-如何把镜像-load-到-挂载的移动硬盘上？](https://www.v2ex.com/t/741698) 
+- [【V2EX】2021-01-04-一年后-M1-的-MBA-会不会变回性能弱鸡上网本？](https://www.v2ex.com/t/741697) 
+- [【V2EX】2021-01-04-有-android-开发了解如下的病毒吗：-RiskWare/Android.E4Ashare.aexp,prv,opc](https://www.v2ex.com/t/741695) 
+- [【V2EX】2021-01-04-「求推荐」macOS-的-Safari-去广告插件哪个最好用？](https://www.v2ex.com/t/741692) 
+- [【V2EX】2021-01-04-就国内的求职环境而言，大家觉得技术方面的-Mock-interview-有没有必要？-在国内好像没有看到基于真人面试官的模拟面试产品。](https://www.v2ex.com/t/741691) 
+- [【V2EX】2021-01-04-卸载-magisk-和-twrp-后，自带的授权管理丢失-root](https://www.v2ex.com/t/741690) 
+- [【V2EX】2021-01-04-业务迁移方案讨论](https://www.v2ex.com/t/741689) 
+- [【V2EX】2021-01-04-看了下-pon-stick，感觉就是个只有一个-SFP-口、没有-WiFi-和-RJ45-的小的光猫](https://www.v2ex.com/t/741687) 
+- [【V2EX】2021-01-04-12306bypass-可以正常在-windows10-Arm-版本跑吗？🙏](https://www.v2ex.com/t/741686) 
+- [【V2EX】2021-01-04-微信视频的自动美颜如何关闭?](https://www.v2ex.com/t/741684) 
+- [【V2EX】2021-01-04-关于戴尔-u2720qm-和-m1-芯片-mac-色彩显示问题](https://www.v2ex.com/t/741683) 
+- [【V2EX】2021-01-04-快手-内推-北上深杭-16-薪+-年前面试&&年后入职-即将上市](https://www.v2ex.com/t/741682) 
+- [【V2EX】2021-01-04-请教各位大佬，-m1-arm-win10-如何升级到-build-21277](https://www.v2ex.com/t/741681) 
+- [【V2EX】2021-01-04-X1-nano-和-matebook-X-怎么选](https://www.v2ex.com/t/741679) 
+- [【V2EX】2021-01-04-2017-款-Macbook-Pro-不充电有没有中招的](https://www.v2ex.com/t/741677) 
+- [【V2EX】2021-01-04-求助一个看不懂的网页请求问题](https://www.v2ex.com/t/741675) 
+- [【V2EX】2021-01-04-过来抽奖喂~砂糖桔哦](https://www.v2ex.com/t/741673) 
+- [【V2EX】2021-01-04-如何寻找并管理外包团队？](https://www.v2ex.com/t/741671) 
+- [【V2EX】2021-01-04-滑雪是消费主义陷阱吗？](https://www.v2ex.com/t/741670) 
+- [【V2EX】2021-01-04-利用-excel-xirr-做一道题，恒大这个商铺值多少钱。](https://www.v2ex.com/t/741669) 
+- [【V2EX】2021-01-04-Win-10-的计算器公式回显没有括号](https://www.v2ex.com/t/741668) 
+- [【V2EX】2021-01-04-特斯拉真的是卖疯了](https://www.v2ex.com/t/741667) 
+- [【V2EX】2021-01-04-这个电池包装盒要怎么打开](https://www.v2ex.com/t/741666) 
+- [【V2EX】2021-01-04-总说-iPad-可以拿来看漫画，有什么软件可以推荐的？](https://www.v2ex.com/t/741665) 
+- [【V2EX】2021-01-04-iPhone-电量暴跌和解决方案](https://www.v2ex.com/t/741663) 
+- [【V2EX】2021-01-04-2021-年-Go-和-Rust-哪门语言更值得学习？](https://www.v2ex.com/t/741662) 
+- [【V2EX】2021-01-04-工作-8-年手写不出反转链表是不是进不了-bat-了？](https://www.v2ex.com/t/741661) 
+- [【V2EX】2021-01-04-各位老哥，请教一个时间同步的算法问题。](https://www.v2ex.com/t/741658) 
+- [【技术头条】2021-01-04-App-多窗口支持架构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14094&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOv_O89n75zsEN2GBvIWNyA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-分享-Flutter-学习总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14093&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fh2QHOJXzhym83J2hnxMX_w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-谷歌正式开源-Fuchsia-OS，华为鸿蒙与之对标！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14092&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbPKtbKTveG8B_hfmFbASJw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-H5-移动端调试全攻略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14091&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJg5RUr5wRBc9fRyCjnp7Jg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-强大！ASM-插桩实现-Android-端无埋点性能监控！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14090&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXuc034VlR7TqjTaoaSuI2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-全球最大的色情网站，保留着西方媒体最后的良心-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14089&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNJWXmR2JtFKhTwk0_AsKtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-iOS-导航栏整体滑动解决方案（类似淘宝）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14088&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTllf_sEdsEY3A2PZhCnFUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-谷歌程序员-20-行代码送你一个“老婆”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14087&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FeVq3xLbfpIWHEvkMeX8uSw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-这-就是程序员的编程日常-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14086&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fm323HfTkzXrJbnALnqoRvA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-“仅三天可见”-的朋友圈有方法破解啦！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14085&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuK_gM59h49QzbnL_t3M7fA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-14个-JavaScript-代码优化技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14084&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTGBlEk_7gjhgEARA7yxd5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-浅谈机器学习模型推理性能优化-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14083&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmachine-learning-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-不同人眼中的“顶级程序员”，这差距也太大了吧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14082&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzYwMTk1NA%3D%3D%26amp%3Bmid%3D2247506423%26amp%3Bidx%3D1%26amp%3Bsn%3D6d11edb9ea159bba52e60e34e8d10c9c%26amp%3Bchksm%3D96ce78baa1b9f1ac143a0c5db9bcdb24cf6030e0dbbcd26de42a6acfe1ed871797fe25bdb654%26amp%3Btoken%3D509775044%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-“老板”和“员工”-同打一天工，差距到底有多大？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14081&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzYwMTk1NA%3D%3D%26amp%3Bmid%3D2247506324%26amp%3Bidx%3D2%26amp%3Bsn%3Da295566b5e585cdcdae515908cf212b7%26amp%3Bchksm%3D96ce78d9a1b9f1cf4c76c3d0a01ad4ce18a7c58e96c763ab2611de693e4ab9752d2a1d7cefe7%26amp%3Btoken%3D509775044%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-王者荣耀之「策略模式」-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14080&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzYwMTk1NA%3D%3D%26amp%3Bmid%3D2247506313%26amp%3Bidx%3D1%26amp%3Bsn%3D7344f5a3c8a954f1674bbade70b0b245%26amp%3Bchksm%3D96ce78c4a1b9f1d26d0345eb79abd34730102406795bef170cbaf37c569b3eee01ed41f7b60d%26amp%3Btoken%3D509775044%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-配置即代码：先有鸡还是先有蛋-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14079&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fconfiguration-as-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-麻广广-微服务架构下你的数据一致了吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14078&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-data-consistency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-土豪进化攻略：第一代互联网公司的合纵连横-www.iceo.com.cn](https://blogread.cn/news/go.php?idItem=14077&url=http%3A%2F%2Fwww.iceo.com.cn%2Fcom2013%2F2013%2F1010%2F271520.shtml%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-高性能、低成本的高防-IP-产品能现实吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14076&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F339457770%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-你懂SOLID原则吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14075&url=https%3A%2F%2Finsights.thoughtworks.cn%2Funderstand-solid-principles%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2021-01-04-2020-年，我在编程时遇见的几个好物](https://toutiao.io/k/ezq0qnu) 
 - [【开发者头条】2021-01-04-ClickHouse-是如何批量写入的？](https://toutiao.io/k/eb2nnq6) 
 - [【开发者头条】2021-01-04-靠写作杀出一条-“血”-路：我的-2020-年终总结](https://toutiao.io/k/793f4p0) 
@@ -208,20 +286,20 @@
 - [【开发者头条】2021-01-04-大数据量查询容易-OOM？试试-MySQL-流式查询](https://toutiao.io/k/78gaeqn) 
 - [【开发者头条】2021-01-04-从面试角度分析-CopyOnWriteArrayList-源码](https://toutiao.io/k/3ynh21d) 
 - [【开发者头条】2021-01-04-使用-MonoRepo-管理前端项目](https://toutiao.io/k/9rblrc6) 
-- [【开发者头条】2021-01-04-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) 
-- [【开发者头条】2021-01-04-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) 
-- [【开发者头条】2021-01-04-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) 
-- [【开发者头条】2021-01-04-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) 
-- [【开发者头条】2021-01-04-推荐-关于中台的思考和尝试](https://toutiao.io/k/t4shd8f) 
-- [【开发者头条】2021-01-04-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) 
-- [【开发者头条】2021-01-04-推荐-啥，听说你用了-Spring-Boot，但是开发的接口还在裸奔？](https://toutiao.io/k/gtkn1lp) 
-- [【开发者头条】2021-01-04-推荐-广告系统架构解密](https://toutiao.io/k/3ydgnwy) 
 - [【开发者头条】2021-01-04-推荐-求你了，别再随便打日志了，教你动态修改日志级别](https://toutiao.io/k/8bity1f) 
-- [【开发者头条】2021-01-04-推荐-vivo-全球商城：订单中心架构设计与实践](https://toutiao.io/k/lcopypw) 
 - [【开发者头条】2021-01-04-推荐-肝了-3-版才满意：分布式系统之-CAP-理论，我们对它的理解和误解](https://toutiao.io/k/q2fkii4) 
-- [【开发者头条】2021-01-04-推荐-万字攻略，详解腾讯面试](https://toutiao.io/k/2b0b1bw) 
 - [【开发者头条】2021-01-04-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) 
+- [【开发者头条】2021-01-04-推荐-啥，听说你用了-Spring-Boot，但是开发的接口还在裸奔？](https://toutiao.io/k/gtkn1lp) 
+- [【开发者头条】2021-01-04-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) 
+- [【开发者头条】2021-01-04-推荐-万字攻略，详解腾讯面试](https://toutiao.io/k/2b0b1bw) 
 - [【开发者头条】2021-01-04-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) 
+- [【开发者头条】2021-01-04-推荐-广告系统架构解密](https://toutiao.io/k/3ydgnwy) 
+- [【开发者头条】2021-01-04-推荐-vivo-全球商城：订单中心架构设计与实践](https://toutiao.io/k/lcopypw) 
+- [【开发者头条】2021-01-04-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) 
+- [【开发者头条】2021-01-04-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) 
+- [【开发者头条】2021-01-04-推荐-关于中台的思考和尝试](https://toutiao.io/k/t4shd8f) 
+- [【开发者头条】2021-01-04-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) 
+- [【开发者头条】2021-01-04-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) 
 - [【安全热点】2021-01-04-数字中国建设优秀案例展示|黑龙江打造四大平台-抢抓“数字龙江”发...](https://sec.thief.one/article_content?a_id=9c703fb103b3d10b100d2064daaf04cd) 
 - [【安全热点】2021-01-04-招聘-|-极光无限邀你共启2021,向新前行](https://sec.thief.one/article_content?a_id=35c3b0bf8d68178e5b4f86e343bda235) 
 - [【安全热点】2021-01-04-绿盟科技斩获CNVD三项大奖,连续四届获“突出贡献单位“称号](https://sec.thief.one/article_content?a_id=149d373cb8772d36880037a58556809a) 
@@ -525,6 +603,12 @@
 - [【互联网架构师】2020-12-30-秒杀系统架构分析与实战（14155字，26图）](https://www.ershicimi.com/p/93c8268e42c17e70a8f73ad5d95e9272) 
 - [【互联网架构师】2020-12-29-熬夜慢性自杀全过程曝光](https://www.ershicimi.com/p/f24ec30362ea5a506ab40992024abaa3) 
 - [【互联网架构师】2020-12-29-昨天还在for循环里写加号拼接字符串的那个同事，今天已经不在了](https://www.ershicimi.com/p/391ac1e0b9ae71a12c83120432f5320f) 
+- [【InfoQ】2020-12-31-微博老矣：被抖音快手拍在沙滩上](https://www.ershicimi.com/p/27ae9c46b5371daa8f8f9ba3f7560642) 
+- [【InfoQ】2020-12-31-这100篇文章，你一定要收藏-|-InfoQ-年度最受欢迎文章排行榜](https://www.ershicimi.com/p/fa6267d232ae6cb9631e858244f6796d) 
+- [【InfoQ】2020-12-31-行走在开源之路上的操作系统，openEuler-如何从-0-到-1-构建开放社区？](https://www.ershicimi.com/p/1e7f089458055b3dda2b11e5802d3abc) 
+- [【InfoQ】2020-12-31-移动开发者的必备“助手”！AppGallery-Connect的全生命周期“服务之道”-｜-Q推荐](https://www.ershicimi.com/p/8d7bf75ba0c8ea94b1763ebb6a4ce86a) 
+- [【InfoQ】2020-12-31-怎样挑选一个好的NPM包？](https://www.ershicimi.com/p/9d579f5d6d29257c7c75818e9f410e89) 
+- [【InfoQ】2020-12-30-2021年，不能错过的十大技术趋势-|-InfoQ特别策划](https://www.ershicimi.com/p/2b15c7efba7004ab25d4982f9461b114) 
 - [【JavaScript】2020-12-30-万物可卷的时代，程序员也被“内卷”？](https://www.ershicimi.com/p/56127bd8aa48f0cd994acbf4cef8867b) 
 - [【JavaScript】2020-12-29-《前端中文入门手册》.pdf](https://www.ershicimi.com/p/34beb2409059c6b78e3c63f643c9736a) 
 - [【JavaScript】2020-12-28-Vant3.0宣布全面拥抱Vue3，Vue3.0成为主流还有多远？](https://www.ershicimi.com/p/ce2da327d67f7cc95055497d457dfc21) 
@@ -545,6 +629,19 @@
 - [【JavaScript】2020-12-06-前端人，咱别盲目追求新技术](https://www.ershicimi.com/p/2dab674f459abd8bb8de11bf0337bf6a) 
 - [【JavaScript】2020-12-05-前端人，咱别盲目追求新技术](https://www.ershicimi.com/p/7437cea7c36a62a3dd09f7dee6b7af9c) 
 - [【JavaScript】2020-12-04-刷题2个月，工资25k，有它真香！](https://www.ershicimi.com/p/dfef796a644cb273c2d2024a1ed1c1f8) 
+- [【知乎日报】2020-12-31-我们用一年的时间，写下了这篇信息含量最大的文章](https://www.ershicimi.com/p/5c2132aefbc1b3e367f3e3ceafe28df4) 
+- [【知乎日报】2020-12-31-【请查收】-你的-2020-年度总结](https://www.ershicimi.com/p/ed661028b11d060c6d56422902ed481f) 
+- [【知乎日报】2020-12-31-新华社-X-知乎-|-2020，36-亿数据绘出这条线](https://www.ershicimi.com/p/26fe96248c9a52b0550bd241ef0b09b6) 
+- [【知乎日报】2020-12-31-知乎故事-|-生活中有哪些让你怦然心动的时刻？](https://www.ershicimi.com/p/8b7324a9fb28fbf4ad90557ce2d37d97) 
+- [【知乎日报】2020-12-30-男生朝同学泼化学试剂？！如果皮肤接触到了浓硫酸，一定要立刻做这两件事](https://www.ershicimi.com/p/714d800ef2df3b7936a3a577dc67533a) 
+- [【知乎日报】2020-12-30-4-个走路减肥的技巧，边走边瘦不是梦](https://www.ershicimi.com/p/522389048f5c6206a6ab5cc06b398f35) 
+- [【知乎日报】2020-12-30-知乎故事-|-被泼硫酸是一种什么体验？](https://www.ershicimi.com/p/7b45f85bec4a42e07e264b3f52301940) 
+- [【知乎日报】2020-12-29-在-2020-结束之前，我终于等到了今年的「零差评电影」](https://www.ershicimi.com/p/0f219c3f42963ef20e3ff7d122b08d78) 
+- [【知乎日报】2020-12-29-回顾-2020-养娃这一年，赢新年好运福利](https://www.ershicimi.com/p/7a1b7b365a99df494c76ff909f66302c) 
+- [【知乎日报】2020-12-29-口碑绝佳的-9-个公众号，越早知道越好](https://www.ershicimi.com/p/7fcec1100bfec68f7db05bede4382b65) 
+- [【知乎日报】2020-12-29-知乎故事-|-被冤枉的小孩](https://www.ershicimi.com/p/13034c98978ce1d5ad3c02a7ba99f7da) 
+- [【知乎日报】2020-12-28-指甲有纹路？感到耳鸣？这些被我们忽视的健康细节其实很重要](https://www.ershicimi.com/p/dacc72a6e84b888b84ae985468ab110f) 
+- [【知乎日报】2020-12-28-「2020，我的家」年终活动上线啦~](https://www.ershicimi.com/p/1ee519fe05cefd8ea285600b47ffba6e) 
 - [【安全热点】2020-12-31-【安全圈】明星健康宝照片2元打包70张?艺人也有隐私权!](https://sec.thief.one/article_content?a_id=3424852ed192f8d04227dd803f2c4717) 
 - [【安全热点】2020-12-31-新年礼物:奇安信ALPHA威胁情报分析平台3.0重磅发布](https://sec.thief.one/article_content?a_id=dfff87af7152a2c21da38fc2469c9fe1) 
 - [【安全热点】2020-12-31-一本用代码写出来的Fuzzing书籍](https://sec.thief.one/article_content?a_id=5fa85bc3b2bdc8f471bb99e8222fc70b) 

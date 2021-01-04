@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-04 07:59:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-04 08:18:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,7 +22,6 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-01-04-有没有一种技术方案，能将-http-请求自动降级为本地调用，从而实现-web-应用优雅降级为单机应用](https://www.v2ex.com/t/741500) 
 - [2021-01-04-干货-|GitHUB安全搬运工-五](https://sec.thief.one/article_content?a_id=54cbd72446eb49603720d0edd10db773) 
 - [2021-01-04-每日安全动态推送01-04](https://sec.thief.one/article_content?a_id=31b56abbe11752e19522a7ee6b87f6bf) 
 - [2021-01-02-Adrozek:劫持Chrome、Edge和Firefox的恶意软件](https://sec.thief.one/article_content?a_id=934052c8ea503ad4f0447c758a53156a) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-04 07:59:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-04 08:18:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -412,9 +412,9 @@
 - [【奇舞周刊】想要复制图像？Clipboard-API-了解一下](https://www.ershicimi.com/p/7fe6b2bd2ccbaa82acc0db7202ae2e78)
 - [【前端日刊】【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa)
 - [【编程之上】前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978)
+- [【V2EX】家里小米电视很卡，只看腾讯视频等-1-2-个应用的话，-N1-是很不错的选择吗？](https://www.v2ex.com/t/741553)
 - [【安全热点】【视频】|-网络安全形势分析及新技术](https://sec.thief.one/article_content?a_id=39ac07e8a2fbad97e44ede059283b04e)
 - [【安全热点】【视频】|-网络安全等级保护工作要求](https://sec.thief.one/article_content?a_id=41836d9e4e97c0232db28f3aea49aac4)
-- [【物联网智库】【1月7日/线上直播】议程正式公布！年度AIoT产业盛典重磅来袭！](https://www.ershicimi.com/p/e42625de19d42f011ed78032cc318e98)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -450,7 +450,7 @@
 - [【奇舞周刊】前端性能优化之自定义性能指标及上报方法详解](https://www.ershicimi.com/p/b202d42ddce89da17847ef223591e653)
 - [【前端日刊】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【技术头条】强大！ASM-插桩实现-Android-端无埋点性能监控！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14090&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXuc034VlR7TqjTaoaSuI2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【V2EX】还有人用.Net-吗，亲测.Net5-性能飞升](https://www.v2ex.com/t/741550)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -482,11 +482,11 @@
 - [【前端e进阶】推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】有没有一种技术方案，能将-http-请求自动降级为本地调用，从而实现-web-应用优雅降级为单机应用](https://www.v2ex.com/t/741500)
 - [【安全热点】干货-|GitHUB安全搬运工-五](https://sec.thief.one/article_content?a_id=54cbd72446eb49603720d0edd10db773)
 - [【安全热点】每日安全动态推送01-04](https://sec.thief.one/article_content?a_id=31b56abbe11752e19522a7ee6b87f6bf)
 - [【安全热点】Adrozek:劫持Chrome、Edge和Firefox的恶意软件](https://sec.thief.one/article_content?a_id=934052c8ea503ad4f0447c758a53156a)
 - [【安全热点】物联网设备安全能力基线研究](https://sec.thief.one/article_content?a_id=5659134d9f1bb4476846d89ddf3ba0fc)
+- [【安全热点】FreeBuf-2021网络安全行业发展预测](https://sec.thief.one/article_content?a_id=a527e5a77fc6c318f0e2493ae87b8585)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

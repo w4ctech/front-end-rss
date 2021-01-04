@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-04 05:56:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-04 06:11:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -15,4 +15,5 @@
 - [2020-12-04-小程序开发其实不难！学会这几个组件你也会](https://www.ershicimi.com/p/89fa25c16114790ca3b257faed3da5de) 
 - [2020-12-11-推荐一个小程序实战项目！0基础可做](https://www.ershicimi.com/p/101ffccef2fa9c22d157a7664725b323) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
+- [2021-01-04-微信小程序-web-view-本地文件上传](https://www.v2ex.com/t/741486) 
 - [2021-01-04-听说-synergy-开始收费了，分享一个局域网剪切板共享小程序](https://www.v2ex.com/t/741456) 

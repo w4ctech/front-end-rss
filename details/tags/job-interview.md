@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-04 05:56:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-04 06:11:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -29,6 +29,5 @@
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/196a7fb4fe0dda8d044135599df6e681) 
 - [2021-01-04-广州-招聘-Golang-后端工程师-18-30K](https://www.v2ex.com/t/741458) 
-- [2021-01-04-社招-内推-字节跳动-教育业务研发招聘-部门直招&海量-HC](https://www.v2ex.com/t/741441) 
 - [2021-01-04-从面试角度分析-CopyOnWriteArrayList-源码](https://toutiao.io/k/3ynh21d) 
 - [2021-01-04-推荐-万字攻略，详解腾讯面试](https://toutiao.io/k/2b0b1bw) 

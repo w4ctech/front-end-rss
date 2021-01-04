@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-04 05:56:49，:rocket: 更新条数: +715， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-04 06:11:40，:rocket: 更新条数: +713， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -953,6 +953,12 @@
 </summary>
 
 
+- [2021-01-04-关于华为-mate20pro-带指纹的曲面屏](https://www.v2ex.com/t/741490) ![](assets/new.png)  
+- [2021-01-04-Win-远程连接身份验证](https://www.v2ex.com/t/741489) ![](assets/new.png)  
+- [2021-01-04-求个网线转-usb-的转接器](https://www.v2ex.com/t/741487) ![](assets/new.png)  
+- [2021-01-04-微信小程序-web-view-本地文件上传](https://www.v2ex.com/t/741486) ![](assets/new.png)  
+- [2021-01-04-2021-年从清理收藏开始吧](https://www.v2ex.com/t/741485) ![](assets/new.png)  
+- [2021-01-04-维-Q-重大进展，关于上海商业电费，最贵-0.711！](https://www.v2ex.com/t/741484) ![](assets/new.png)  
 - [2021-01-04-根管治疗-or-拔牙，医生让我自己选择，求意见](https://www.v2ex.com/t/741483) ![](assets/new.png)  
 - [2021-01-04-添加到主屏幕上的捷径点击无任何反应。。](https://www.v2ex.com/t/741482) ![](assets/new.png)  
 - [2021-01-04-Mac-版「Google-备份与同步」无法备份移动硬盘上的-iPhoto-图库，请教解决办法](https://www.v2ex.com/t/741481) ![](assets/new.png)  
@@ -967,12 +973,6 @@
 - [2021-01-04-转租-丰潭路地铁口附近-朝南带阳台-短租-3-个月每月-1700](https://www.v2ex.com/t/741468) ![](assets/new.png)  
 - [2021-01-04-求助-两个-offer-该怎么选择？](https://www.v2ex.com/t/741467) ![](assets/new.png)  
 - [2021-01-04-砍骨头，两刀没有办法砍在同一个地方，大家是这样的吗？](https://www.v2ex.com/t/741466) ![](assets/new.png)  
-- [2021-01-04-一个大胆的想法](https://www.v2ex.com/t/741465) ![](assets/new.png)  
-- [2021-01-04-现在（20210104），应该使用什么方式给-android11-机型安装-GMS-套件？](https://www.v2ex.com/t/741464) ![](assets/new.png)  
-- [2021-01-04-2021-年了，你还在用-Vim-吗（一份-vim-导航快捷键）](https://www.v2ex.com/t/741463) ![](assets/new.png)  
-- [2021-01-04-2021-年，黑裙还是白裙？](https://www.v2ex.com/t/741462) ![](assets/new.png)  
-- [2021-01-04-Bitwarden-有些-iOS-APP-识别不到-URI，手动添加-Scheme-无效](https://www.v2ex.com/t/741461) ![](assets/new.png)  
-- [2021-01-04-有买了琼版的苹果机-V-友，跟国行有差别么](https://www.v2ex.com/t/741460) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1018,16 +1018,16 @@
 - [2021-01-04-2020-年，我在编程时遇见的几个好物](https://toutiao.io/k/ezq0qnu) ![](assets/new.png)  
 - [2021-01-04-ClickHouse-是如何批量写入的？](https://toutiao.io/k/eb2nnq6) ![](assets/new.png)  
 - [2021-01-04-MySQL-并发控制和事务（复习笔记）](https://toutiao.io/k/6aqccls) ![](assets/new.png)  
-- [2021-01-04-漫画：如何辨别二逼互联网公司！？](https://toutiao.io/k/863bgg9) ![](assets/new.png)  
 - [2021-01-04-靠写作杀出一条-“血”-路：我的-2020-年终总结](https://toutiao.io/k/793f4p0) ![](assets/new.png)  
+- [2021-01-04-漫画：如何辨别二逼互联网公司！？](https://toutiao.io/k/863bgg9) ![](assets/new.png)  
 - [2021-01-04-容器云平台在法律科技领域的落地实践](https://toutiao.io/k/gnv0fyh) ![](assets/new.png)  
 - [2021-01-04-Spring-Boot-的多数据源配置](https://toutiao.io/k/blpm04h) ![](assets/new.png)  
 - [2021-01-04-如何做到测试场景不遗漏？](https://toutiao.io/k/91v29b3) ![](assets/new.png)  
 - [2021-01-04-一个-Java-对象占用多大内存空间](https://toutiao.io/k/m12n691) ![](assets/new.png)  
 - [2021-01-04-区块链-2020-年度回顾（监管篇）](https://toutiao.io/k/ooftbh5) ![](assets/new.png)  
 - [2021-01-04-隔空操作有哪些应用场景？（mixlab-人机交互技术）](https://toutiao.io/k/56jevjl) ![](assets/new.png)  
-- [2021-01-04-YourBatman-2020-年感悟关键词：科比、裁员、管理层、活着](https://toutiao.io/k/54830sn) ![](assets/new.png)  
 - [2021-01-04-作为项目经理应该串联起哪些流程](https://toutiao.io/k/sbx6x49) ![](assets/new.png)  
+- [2021-01-04-YourBatman-2020-年感悟关键词：科比、裁员、管理层、活着](https://toutiao.io/k/54830sn) ![](assets/new.png)  
 - [2021-01-04-2020-这一年](https://toutiao.io/k/yrwp1pq) ![](assets/new.png)  
 - [2021-01-04-轻松掌握-React-Hooks-底层实现原理](https://toutiao.io/k/xvyw8eq) ![](assets/new.png)  
 - [2021-01-04-和过去的自己和-2020-好好道个别吧](https://toutiao.io/k/itpv2v7) ![](assets/new.png)  

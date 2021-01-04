@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-03 23:49:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-04 00:20:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -55,5 +55,3 @@
 - [2020-12-30-【安全圈】货运巨头Forward-Air遭到新型勒索软件Hades的攻击](https://sec.thief.one/article_content?a_id=38dccb8913cf2205c7bf1159e3495f49) 
 - [2020-12-30-奇安信助力“2020网络安全标准论坛”成功举办](https://sec.thief.one/article_content?a_id=7b917db559c184e575d28231fe609f6f) 
 - [2020-12-30-当食品安全遇上“区块链”](https://sec.thief.one/article_content?a_id=8d9bf89179dd497d45cb9a4316323dbd) 
-- [2020-12-30-“奇”迹2020|奇安信的“安全印记”](https://sec.thief.one/article_content?a_id=c2bcf290640ba90eb166413b88f71a84) 
-- [2020-12-30-感谢信-|-国舜股份网络安全保障实力获江苏省公安厅认可](https://sec.thief.one/article_content?a_id=fb41c6151be070f5ed5e1955272be859) 

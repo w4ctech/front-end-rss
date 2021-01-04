@@ -1,8 +1,26 @@
-:alarm_clock: 更新时间: 2021-01-04 10:42:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-04 10:48:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
 <table>
+
+<tr>
+<th colspan="12">2021年</th>
+</tr>
+<tr>
+<td><a href="#2021-01">01月</a></td>
+<td>02月</td>
+<td>03月</td>
+<td>04月</td>
+<td>05月</td>
+<td>06月</td>
+<td>07月</td>
+<td>08月</td>
+<td>09月</td>
+<td>10月</td>
+<td>11月</td>
+<td>12月</td>
+</tr>
 
 <tr>
 <th colspan="12">2020年</th>
@@ -112,24 +130,6 @@
 <td><a href="#2015-12">12月</a></td>
 </tr>
 
-<tr>
-<th colspan="12">2021年</th>
-</tr>
-<tr>
-<td><a href="#2021-01">01月</a></td>
-<td>02月</td>
-<td>03月</td>
-<td>04月</td>
-<td>05月</td>
-<td>06月</td>
-<td>07月</td>
-<td>08月</td>
-<td>09月</td>
-<td>10月</td>
-<td>11月</td>
-<td>12月</td>
-</tr>
-
 </table>
 
 ## 文章链接
@@ -140,6 +140,16 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2021-01-04-石家庄宣布进入战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7iEnI5H2QpFRMHe9i8Eo210104&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2021-01-03-3-日新增-13-例新冠肺炎本土确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQdvj31VyukOFPfXL0NzQ210104&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2021-01-03-1-传-11+33！大连疫情现超级传播](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6scI8jWStbNb4bl1QlLC210103&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2021-01-03-这些人群不适宜接种新冠疫苗！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWaa7pxHKZjsFBXh3CweL210103&isfromapp=1) 
+- [【掘金前端】2021-01-04-npm-更新依赖包](https://juejin.im/post/6913833065647341581) 
+- [【掘金前端】2021-01-04-《javascript高级程序设计》学习笔记-|-6.2.创建对象](https://juejin.im/post/6913832742425886733) 
+- [【掘金前端】2021-01-04-Photo-Sphere-Viewer全景图插件开箱](https://juejin.im/post/6913832533008318471) 
+- [【掘金前端】2021-01-04-如何用Vue开发Electron桌面程序?-这篇就够了!](https://juejin.im/post/6913829610748641287) 
+- [【掘金前端】2021-01-04-浏览器架构----浏览器系列（1）](https://juejin.im/post/6913828259898195976) 
+- [【V2EX】2021-01-04-有公司的新项目使用-vue3+ts-开发吗?](https://www.v2ex.com/t/741632) 
 - [【V2EX】2021-01-04-早上起来发现手机电量只剩-20%](https://www.v2ex.com/t/741631) 
 - [【V2EX】2021-01-04-是官方号发的](https://www.v2ex.com/t/741630) 
 - [【V2EX】2021-01-04-想收养一只猫咪，给家里找个伙伴](https://www.v2ex.com/t/741629) 
@@ -174,7 +184,60 @@
 - [【V2EX】2021-01-04-房贷转换成-LPR，每月少还-5-块钱](https://www.v2ex.com/t/741585) 
 - [【V2EX】2021-01-04-要不-promisify-一下原生数组？](https://www.v2ex.com/t/741584) 
 - [【V2EX】2021-01-04-知乎又挂了吗？](https://www.v2ex.com/t/741583) 
-- [【V2EX】2021-01-04-Install-macOS-Mojave.app-怎么删除](https://www.v2ex.com/t/741582) 
+- [【技术头条】2021-01-04-App-多窗口支持架构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14094&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOv_O89n75zsEN2GBvIWNyA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-分享-Flutter-学习总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14093&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fh2QHOJXzhym83J2hnxMX_w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-谷歌正式开源-Fuchsia-OS，华为鸿蒙与之对标！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14092&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbPKtbKTveG8B_hfmFbASJw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-H5-移动端调试全攻略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14091&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJg5RUr5wRBc9fRyCjnp7Jg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-强大！ASM-插桩实现-Android-端无埋点性能监控！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14090&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXuc034VlR7TqjTaoaSuI2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-全球最大的色情网站，保留着西方媒体最后的良心-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14089&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNJWXmR2JtFKhTwk0_AsKtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-iOS-导航栏整体滑动解决方案（类似淘宝）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14088&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTllf_sEdsEY3A2PZhCnFUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-谷歌程序员-20-行代码送你一个“老婆”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14087&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FeVq3xLbfpIWHEvkMeX8uSw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-这-就是程序员的编程日常-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14086&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fm323HfTkzXrJbnALnqoRvA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-“仅三天可见”-的朋友圈有方法破解啦！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14085&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuK_gM59h49QzbnL_t3M7fA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-14个-JavaScript-代码优化技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14084&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTGBlEk_7gjhgEARA7yxd5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-浅谈机器学习模型推理性能优化-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14083&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmachine-learning-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-不同人眼中的“顶级程序员”，这差距也太大了吧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14082&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzYwMTk1NA%3D%3D%26amp%3Bmid%3D2247506423%26amp%3Bidx%3D1%26amp%3Bsn%3D6d11edb9ea159bba52e60e34e8d10c9c%26amp%3Bchksm%3D96ce78baa1b9f1ac143a0c5db9bcdb24cf6030e0dbbcd26de42a6acfe1ed871797fe25bdb654%26amp%3Btoken%3D509775044%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-“老板”和“员工”-同打一天工，差距到底有多大？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14081&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzYwMTk1NA%3D%3D%26amp%3Bmid%3D2247506324%26amp%3Bidx%3D2%26amp%3Bsn%3Da295566b5e585cdcdae515908cf212b7%26amp%3Bchksm%3D96ce78d9a1b9f1cf4c76c3d0a01ad4ce18a7c58e96c763ab2611de693e4ab9752d2a1d7cefe7%26amp%3Btoken%3D509775044%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-王者荣耀之「策略模式」-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14080&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzYwMTk1NA%3D%3D%26amp%3Bmid%3D2247506313%26amp%3Bidx%3D1%26amp%3Bsn%3D7344f5a3c8a954f1674bbade70b0b245%26amp%3Bchksm%3D96ce78c4a1b9f1d26d0345eb79abd34730102406795bef170cbaf37c569b3eee01ed41f7b60d%26amp%3Btoken%3D509775044%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-配置即代码：先有鸡还是先有蛋-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14079&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fconfiguration-as-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-麻广广-微服务架构下你的数据一致了吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14078&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-data-consistency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-土豪进化攻略：第一代互联网公司的合纵连横-www.iceo.com.cn](https://blogread.cn/news/go.php?idItem=14077&url=http%3A%2F%2Fwww.iceo.com.cn%2Fcom2013%2F2013%2F1010%2F271520.shtml%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-高性能、低成本的高防-IP-产品能现实吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14076&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F339457770%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2021-01-04-你懂SOLID原则吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14075&url=https%3A%2F%2Finsights.thoughtworks.cn%2Funderstand-solid-principles%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2021-01-04-2020-年，我在编程时遇见的几个好物](https://toutiao.io/k/ezq0qnu) 
+- [【开发者头条】2021-01-04-ClickHouse-是如何批量写入的？](https://toutiao.io/k/eb2nnq6) 
+- [【开发者头条】2021-01-04-靠写作杀出一条-“血”-路：我的-2020-年终总结](https://toutiao.io/k/793f4p0) 
+- [【开发者头条】2021-01-04-漫画：如何辨别二逼互联网公司！？](https://toutiao.io/k/863bgg9) 
+- [【开发者头条】2021-01-04-MySQL-并发控制和事务（复习笔记）](https://toutiao.io/k/6aqccls) 
+- [【开发者头条】2021-01-04-作为项目经理应该串联起哪些流程](https://toutiao.io/k/sbx6x49) 
+- [【开发者头条】2021-01-04-和过去的自己和-2020-好好道个别吧](https://toutiao.io/k/itpv2v7) 
+- [【开发者头条】2021-01-04-容器云平台在法律科技领域的落地实践](https://toutiao.io/k/gnv0fyh) 
+- [【开发者头条】2021-01-04-Spring-Boot-的多数据源配置](https://toutiao.io/k/blpm04h) 
+- [【开发者头条】2021-01-04-如何做到测试场景不遗漏？](https://toutiao.io/k/91v29b3) 
+- [【开发者头条】2021-01-04-一个-Java-对象占用多大内存空间](https://toutiao.io/k/m12n691) 
+- [【开发者头条】2021-01-04-区块链-2020-年度回顾（监管篇）](https://toutiao.io/k/ooftbh5) 
+- [【开发者头条】2021-01-04-隔空操作有哪些应用场景？（mixlab-人机交互技术）](https://toutiao.io/k/56jevjl) 
+- [【开发者头条】2021-01-04-2020-这一年](https://toutiao.io/k/yrwp1pq) 
+- [【开发者头条】2021-01-04-YourBatman-2020-年感悟关键词：科比、裁员、管理层、活着](https://toutiao.io/k/54830sn) 
+- [【开发者头条】2021-01-04-轻松掌握-React-Hooks-底层实现原理](https://toutiao.io/k/xvyw8eq) 
+- [【开发者头条】2021-01-04-Go-语言高性能编程](https://toutiao.io/k/7k98lk7) 
+- [【开发者头条】2021-01-04-大数据量查询容易-OOM？试试-MySQL-流式查询](https://toutiao.io/k/78gaeqn) 
+- [【开发者头条】2021-01-04-从面试角度分析-CopyOnWriteArrayList-源码](https://toutiao.io/k/3ynh21d) 
+- [【开发者头条】2021-01-04-使用-MonoRepo-管理前端项目](https://toutiao.io/k/9rblrc6) 
+- [【开发者头条】2021-01-04-推荐-年轻人不讲武德，乱用索引，你到底走了多少弯路？](https://toutiao.io/k/ipqw7m5) 
+- [【开发者头条】2021-01-04-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) 
+- [【开发者头条】2021-01-04-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) 
+- [【开发者头条】2021-01-04-推荐-广告系统架构解密](https://toutiao.io/k/3ydgnwy) 
+- [【开发者头条】2021-01-04-推荐-终于明白了，一文彻底理解-I/O-多路复用](https://toutiao.io/k/8c12y1i) 
+- [【开发者头条】2021-01-04-推荐-肝了-3-版才满意：分布式系统之-CAP-理论，我们对它的理解和误解](https://toutiao.io/k/q2fkii4) 
+- [【开发者头条】2021-01-04-推荐-Netflix-是怎样做系统监控的？](https://toutiao.io/k/n38vxll) 
+- [【开发者头条】2021-01-04-推荐-关于中台的思考和尝试](https://toutiao.io/k/t4shd8f) 
+- [【开发者头条】2021-01-04-推荐-万字攻略，详解腾讯面试](https://toutiao.io/k/2b0b1bw) 
+- [【开发者头条】2021-01-04-推荐-啥，听说你用了-Spring-Boot，但是开发的接口还在裸奔？](https://toutiao.io/k/gtkn1lp) 
+- [【开发者头条】2021-01-04-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) 
+- [【开发者头条】2021-01-04-推荐-大话后端开发的奇淫技巧（二）](https://toutiao.io/k/7eacn7b) 
+- [【开发者头条】2021-01-04-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) 
+- [【开发者头条】2021-01-04-推荐-深度解析-Raft-分布式一致性协议](https://toutiao.io/k/am8mql2) 
 - [【安全热点】2021-01-04-数字中国建设优秀案例展示|黑龙江打造四大平台-抢抓“数字龙江”发...](https://sec.thief.one/article_content?a_id=9c703fb103b3d10b100d2064daaf04cd) 
 - [【安全热点】2021-01-04-招聘-|-极光无限邀你共启2021,向新前行](https://sec.thief.one/article_content?a_id=35c3b0bf8d68178e5b4f86e343bda235) 
 - [【安全热点】2021-01-04-绿盟科技斩获CNVD三项大奖,连续四届获“突出贡献单位“称号](https://sec.thief.one/article_content?a_id=149d373cb8772d36880037a58556809a) 

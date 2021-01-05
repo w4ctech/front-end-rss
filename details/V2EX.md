@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-01-05 22:48:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-05 23:03:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-01-05-2020，我的新习惯](https://www.v2ex.com/t/742044) 
 - [2021-01-05-SONY-WH-1000XM3,4-还断梁掉漆么？-BOSE-QC-35-2-代-至少好一点吧？不过看平均都说-35-不如-XM3-啊！～～～](https://www.v2ex.com/t/742043) 
 - [2021-01-05-Macbook-air-m1-款在这个时间段值得买吗？](https://www.v2ex.com/t/742042) 
 - [2021-01-05-Linux-on-Apple-Silicon](https://www.v2ex.com/t/742041) 

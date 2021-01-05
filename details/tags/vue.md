@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-05 00:31:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-05 01:54:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -14,7 +14,5 @@
 - [2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/) 
 - [2016-10-13-Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/) 
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
-- [2021-01-04-Vue3-Compiler-优化细节，如何手写高性能渲染函数](https://juejin.im/post/6913855965792043021) 
-- [2021-01-04-如何用Vue开发Electron桌面程序?-这篇就够了!](https://juejin.im/post/6913829610748641287) 
-- [2021-01-03-vue2依赖收集原理也太绕绕绕了](https://juejin.im/post/6913809806943846407) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2021-01-05-那种-vue-开发的页面，怎么查看实际的代码处理逻辑，比如登录密码是如何加密的](https://www.v2ex.com/t/741731) 

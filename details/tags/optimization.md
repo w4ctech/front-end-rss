@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-05 18:35:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-05 19:14:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -15,4 +15,7 @@
 - [2016-03-16-前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/) 
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
+- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2021-01-05-浅谈机器学习模型推理性能优化](https://toutiao.io/k/yxwusrj) 
+- [2021-01-05-索引为什么能提高查询性能](https://toutiao.io/k/s2d6335) 
 - [2021-01-05-揭秘QUIC的性能与安全](https://sec.thief.one/article_content?a_id=6c5c02df75ac5db6ecc6950b0a548239) 

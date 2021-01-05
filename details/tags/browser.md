@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-05 07:43:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-05 07:59:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,6 +13,7 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-01-05-iMovie-导入库乐队项目显示-iLife-文件缺失](https://www.v2ex.com/t/741899) 
 - [2021-01-05-每日安全动态推送01-05](https://sec.thief.one/article_content?a_id=e05c8c2ab136c19a437b7f5768481ed0) 
 - [2021-01-05-英国法院拒绝了美国政府对维基解密创始人的引渡请求](https://sec.thief.one/article_content?a_id=afc1b6c4640b1f2e0d44aadd7d8be875) 
 - [2021-01-05-X-NUCA-revenge骚思路之getshell](https://sec.thief.one/article_content?a_id=883fa4c1e57932dcf30caeb9cb159461) 

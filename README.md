@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-05 12:08:24，:rocket: 更新条数: +3985， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-05 12:14:30，:rocket: 更新条数: +3984， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -993,6 +993,7 @@
 </summary>
 
 
+- [2021-01-05-有没有大佬研究过国内几个视频平台的-tv-端，哪家的画质更好一些？](https://www.v2ex.com/t/741987) ![](assets/new.png)  
 - [2021-01-05-那个一个页面-5-处广告的-CSDN，推出了-chrome-插件，体验免广告，还做了不少技术手册索引](https://www.v2ex.com/t/741984) ![](assets/new.png)  
 - [2021-01-05-求-win10-cpu-使用率，要与任务管理器-性能中值一致](https://www.v2ex.com/t/741983) ![](assets/new.png)  
 - [2021-01-05-有哪些鲜为人知，但是很有意思的网站？](https://www.v2ex.com/t/741982) ![](assets/new.png)  
@@ -1012,7 +1013,6 @@
 - [2021-01-05-KMS-服务器要怎样才不会被微软检测到呢](https://www.v2ex.com/t/741968) ![](assets/new.png)  
 - [2021-01-05-RX-5700XT，-DP-接口连显示器，同时用-HDMI-接口可以直接输出数字音频到-Sound-Bar-吗？](https://www.v2ex.com/t/741967) ![](assets/new.png)  
 - [2021-01-05-safeincloud-windows-版本无法还原](https://www.v2ex.com/t/741966) ![](assets/new.png)  
-- [2021-01-05-wordpress-活动报名插件哪里有？](https://www.v2ex.com/t/741965) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

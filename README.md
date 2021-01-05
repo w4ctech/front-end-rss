@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-05 06:28:57，:rocket: 更新条数: +950， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-05 06:50:01，:rocket: 更新条数: +955， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -853,6 +853,11 @@
 </summary>
 
 
+- [2021-01-04-软件测试需要学什么？](https://juejin.im/post/6914154914352463886) ![](assets/new.png)  
+- [2021-01-04-PHP实现域名授权的两种方法](https://juejin.im/post/6914124288022986765) ![](assets/new.png)  
+- [2021-01-04-JS--浅拷贝和深拷贝](https://juejin.im/post/6914108893484285960) ![](assets/new.png)  
+- [2021-01-04-你应该了解的25个JS技巧](https://juejin.im/post/6914108205258211335) ![](assets/new.png)  
+- [2021-01-04-一网打尽JavaScript的Number类型](https://juejin.im/post/6914107435942690823) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -968,6 +973,13 @@
 </summary>
 
 
+- [2021-01-05-大佬们，我有个数据备份的问题想问一下](https://www.v2ex.com/t/741873) ![](assets/new.png)  
+- [2021-01-05-gcp-看奈飞的问题](https://www.v2ex.com/t/741872) ![](assets/new.png)  
+- [2021-01-05-深圳阿里中心支付宝香港大前端团队招聘-可春节后入职-0105](https://www.v2ex.com/t/741871) ![](assets/new.png)  
+- [2021-01-05-二进制的-OTA-是如何实现的？](https://www.v2ex.com/t/741870) ![](assets/new.png)  
+- [2021-01-05-我邀请他人同步的-Linux-图片文件夹，怎么查看他人同步的状态](https://www.v2ex.com/t/741867) ![](assets/new.png)  
+- [2021-01-05-迫于想花-200-块买个垃圾路由器](https://www.v2ex.com/t/741866) ![](assets/new.png)  
+- [2021-01-05-「成都小单间转租」因工作需要到其他城市发展，需要将现在的小单间转租，需要的速来联系](https://www.v2ex.com/t/741865) ![](assets/new.png)  
 - [2021-01-05-深圳-字节跳动-教育瓜瓜龙岗位缺口-200-HC，求简历，统统都要](https://www.v2ex.com/t/741863) ![](assets/new.png)  
 - [2021-01-05-准备开发一个软件，设置某些时间段，自动开启关闭-WLAN，因为经常回到家忘记开-WIFI。](https://www.v2ex.com/t/741862) ![](assets/new.png)  
 - [2021-01-05-iOS-的照片无法直接通过微信和-telegram-发送了？](https://www.v2ex.com/t/741861) ![](assets/new.png)  
@@ -981,13 +993,6 @@
 - [2021-01-05-小调查，你们的客户/老板是这种工作方式吗？](https://www.v2ex.com/t/741852) ![](assets/new.png)  
 - [2021-01-05-数字人民币双离线转账的原理是什么？](https://www.v2ex.com/t/741850) ![](assets/new.png)  
 - [2021-01-05-在职级对标网站里统计了一下大厂工作时长](https://www.v2ex.com/t/741849) ![](assets/new.png)  
-- [2021-01-05-各位平常都用什么软件剪视频？](https://www.v2ex.com/t/741848) ![](assets/new.png)  
-- [2021-01-05-携程-校园招聘-2021-届](https://www.v2ex.com/t/741847) ![](assets/new.png)  
-- [2021-01-05-旧笔记本有什么用？有必要升级么？](https://www.v2ex.com/t/741846) ![](assets/new.png)  
-- [2021-01-05-像-InnoDB-这种底层存储结构，在代码层面是如何实现的呢](https://www.v2ex.com/t/741845) ![](assets/new.png)  
-- [2021-01-05-webim-项目的会话列表-定时轮询问题](https://www.v2ex.com/t/741844) ![](assets/new.png)  
-- [2021-01-05-来自-WakaTime-统计的-2020-年编程语言和-IDE-数据](https://www.v2ex.com/t/741842) ![](assets/new.png)  
-- [2021-01-05-有类似-b-站-下次再看-的跨-APP-方案吗？](https://www.v2ex.com/t/741839) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

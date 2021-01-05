@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-05 23:43:36，:rocket: 更新条数: +812， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-05 23:58:08，:rocket: 更新条数: +3975， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -42,7 +42,7 @@
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
-- [前端e进阶](#前端e进阶)  
+- [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
@@ -52,9 +52,9 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
-- [安全热点](#安全热点)  
+- [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-01-05-1月4日全国新增新冠33例-河北本土14例](https://m.caixin.com/m/2021-01-05/101646565.html) ![](assets/new.png)  
+- [2021-01-05-香港再现公立医院院内感染-将加强到访患者检测](https://m.caixin.com/m/2021-01-05/101646916.html) ![](assets/new.png)  
+- [2021-01-05-大流行手记|苏格兰全面封锁-东京奥运会或取消现场观众](https://m.caixin.com/m/2021-01-05/101646573.html) ![](assets/new.png)  
+- [2021-01-05-【境内疫情观察】河北新增14例本土病例（1月4日）](http://m.database.caixin.com/m/2021-01-05/101646765.html) ![](assets/new.png)  
+- [2021-01-04-河北三日新增59例新冠感染者-石家庄启动全市核酸检测、中小学幼儿园线下停课](https://m.caixin.com/m/2021-01-04/101646546.html) ![](assets/new.png)  
+- [2021-01-04-粤港通关政策趋严-元旦假期近万港人回内地](http://m.china.caixin.com/m/2021-01-04/101646342.html) ![](assets/new.png)  
+- [2021-01-04-【境内疫情观察】河北新增4例本土病例（1月3日）](http://m.database.caixin.com/m/2021-01-04/101646327.html) ![](assets/new.png)  
+- [2021-01-04-大流行手记|1月3日：伦敦多家医院床位爆满-德国拟延长封锁期限](https://m.caixin.com/m/2021-01-04/101646215.html) ![](assets/new.png)  
+- [2021-01-03-北京8月龄女婴确诊-全市已接种新冠疫苗73537剂](https://m.caixin.com/m/2021-01-03/101646186.html) ![](assets/new.png)  
+- [2021-01-03-确诊病例带病工作造成污染-多地检出汽车零部件包装样本阳性](https://m.caixin.com/m/2021-01-03/101646191.html) ![](assets/new.png)  
+- [2021-01-03-【境内疫情观察】河北新增1例本土病例（1月2日）](http://m.database.caixin.com/m/2021-01-03/101646139.html) ![](assets/new.png)  
+- [2021-01-03-大流行手记|1月2日：美国新冠确诊者超2000万-印度即将接种疫苗](https://m.caixin.com/m/2021-01-03/101646128.html) ![](assets/new.png)  
+- [2021-01-02-北京本地新增1例新冠确诊病例-仍在顺义](https://m.caixin.com/m/2021-01-02/101645948.html) ![](assets/new.png)  
+- [2021-01-02-【境内疫情观察】辽宁新增7例本土病例（1月1日）](http://m.database.caixin.com/m/2021-01-02/101646068.html) ![](assets/new.png)  
+- [2021-01-02-大流行手记|1月1日：变异病毒在美已人际传播-英格兰重启方舱医院](http://m.international.caixin.com/m/2021-01-02/101645975.html) ![](assets/new.png)  
+- [2021-01-01-北京再添一中风险地区，要求顺义市民非必要不出区](https://m.caixin.com/m/2021-01-01/101645900.html) ![](assets/new.png)  
+- [2021-01-01-北京新增5本土病例-2人为婆媳关系](https://m.caixin.com/m/2021-01-01/101645921.html) ![](assets/new.png)  
+- [2021-01-01-北京12月31日新增5例本地新冠肺炎确诊病例](https://m.caixin.com/m/2021-01-01/101645793.html) ![](assets/new.png)  
+- [2021-01-01-【境内疫情观察】北京新增5例本土病例（12月31日）](http://m.database.caixin.com/m/2021-01-01/101645857.html) ![](assets/new.png)  
+- [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -725,6 +745,26 @@
 </summary>
 
 
+- [2020-08-21-聊聊两个状态管理库-Redux-&-Recoil](https://www.ershicimi.com/p/29fec6b9d5024568e2bd71f12ab459ec) ![](assets/new.png)  
+- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) ![](assets/new.png)  
+- [2020-07-19-「-思考-」-React-Hooks-的设计哲学](https://www.ershicimi.com/p/a06a740b0c554e7a4bf3accaa37913eb) ![](assets/new.png)  
+- [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) ![](assets/new.png)  
+- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) ![](assets/new.png)  
+- [2020-05-14-TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f) ![](assets/new.png)  
+- [2020-05-03-对-Chrome-Headless-渲染的极致优化](https://www.ershicimi.com/p/750cc36a62dc2f4be88144714fde4887) ![](assets/new.png)  
+- [2020-05-01-皮小蛋的忏悔](https://www.ershicimi.com/p/47364bc8d82dca2c4b963cb00ac0b4e9) ![](assets/new.png)  
+- [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) ![](assets/new.png)  
+- [2020-03-05-2020.03.03-互联网大厂入职薪资更新表](https://www.ershicimi.com/p/7758b0618c2076417db69702ed3bc49d) ![](assets/new.png)  
+- [2020-03-04-大厂薪资揭秘2020年初版-数据可信度比较高，-大家可以自行参考。](https://www.ershicimi.com/p/039430d577e04cceec7189892fdca5f0) ![](assets/new.png)  
+- [2020-03-03-​Ant-Disign-4.0-升级实践扑街指南-一](https://www.ershicimi.com/p/9d5a595678f0794369df0922f74275cc) ![](assets/new.png)  
+- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) ![](assets/new.png)  
+- [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) ![](assets/new.png)  
+- [2020-02-26-第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e) ![](assets/new.png)  
+- [2020-02-25-建精读阿里前端专家，揭秘职位描述下的潜台词](https://www.ershicimi.com/p/9d630ccd51ddd391139ff9ce966106b1) ![](assets/new.png)  
+- [2020-02-17-推荐两款好看的-Vscode主题插件](https://www.ershicimi.com/p/3b1007b351e094af06650fd57bdadca8) ![](assets/new.png)  
+- [2020-01-20-过年了，免费送出五本好书](https://www.ershicimi.com/p/080563fb5e0e5872eeb7b13bad02e3c6) ![](assets/new.png)  
+- [2020-01-18-送本书](https://www.ershicimi.com/p/fc85b54cd1493e38d679fcfcf525e81c) ![](assets/new.png)  
+- [2020-01-09-数据结构快速盘点---非线性结构](https://www.ershicimi.com/p/f7a5ba42a60821d218cf7ef18b662ddc) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端e进阶.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -980,6 +1020,26 @@
 </summary>
 
 
+- [2021-01-05-App-多窗口支持架构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14094&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOv_O89n75zsEN2GBvIWNyA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-分享-Flutter-学习总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14093&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fh2QHOJXzhym83J2hnxMX_w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-谷歌正式开源-Fuchsia-OS，华为鸿蒙与之对标！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14092&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbPKtbKTveG8B_hfmFbASJw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-H5-移动端调试全攻略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14091&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJg5RUr5wRBc9fRyCjnp7Jg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-强大！ASM-插桩实现-Android-端无埋点性能监控！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14090&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXuc034VlR7TqjTaoaSuI2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-全球最大的色情网站，保留着西方媒体最后的良心-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14089&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNJWXmR2JtFKhTwk0_AsKtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-iOS-导航栏整体滑动解决方案（类似淘宝）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14088&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTllf_sEdsEY3A2PZhCnFUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-谷歌程序员-20-行代码送你一个“老婆”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14087&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FeVq3xLbfpIWHEvkMeX8uSw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-这-就是程序员的编程日常-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14086&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fm323HfTkzXrJbnALnqoRvA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-“仅三天可见”-的朋友圈有方法破解啦！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14085&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuK_gM59h49QzbnL_t3M7fA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-14个-JavaScript-代码优化技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14084&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTGBlEk_7gjhgEARA7yxd5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-浅谈机器学习模型推理性能优化-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14083&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmachine-learning-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-不同人眼中的“顶级程序员”，这差距也太大了吧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14082&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzYwMTk1NA%3D%3D%26amp%3Bmid%3D2247506423%26amp%3Bidx%3D1%26amp%3Bsn%3D6d11edb9ea159bba52e60e34e8d10c9c%26amp%3Bchksm%3D96ce78baa1b9f1ac143a0c5db9bcdb24cf6030e0dbbcd26de42a6acfe1ed871797fe25bdb654%26amp%3Btoken%3D509775044%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-“老板”和“员工”-同打一天工，差距到底有多大？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14081&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzYwMTk1NA%3D%3D%26amp%3Bmid%3D2247506324%26amp%3Bidx%3D2%26amp%3Bsn%3Da295566b5e585cdcdae515908cf212b7%26amp%3Bchksm%3D96ce78d9a1b9f1cf4c76c3d0a01ad4ce18a7c58e96c763ab2611de693e4ab9752d2a1d7cefe7%26amp%3Btoken%3D509775044%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-王者荣耀之「策略模式」-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14080&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzYwMTk1NA%3D%3D%26amp%3Bmid%3D2247506313%26amp%3Bidx%3D1%26amp%3Bsn%3D7344f5a3c8a954f1674bbade70b0b245%26amp%3Bchksm%3D96ce78c4a1b9f1d26d0345eb79abd34730102406795bef170cbaf37c569b3eee01ed41f7b60d%26amp%3Btoken%3D509775044%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-配置即代码：先有鸡还是先有蛋-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14079&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fconfiguration-as-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-麻广广-微服务架构下你的数据一致了吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14078&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-data-consistency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-土豪进化攻略：第一代互联网公司的合纵连横-www.iceo.com.cn](https://blogread.cn/news/go.php?idItem=14077&url=http%3A%2F%2Fwww.iceo.com.cn%2Fcom2013%2F2013%2F1010%2F271520.shtml%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-高性能、低成本的高防-IP-产品能现实吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14076&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F339457770%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-05-你懂SOLID原则吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14075&url=https%3A%2F%2Finsights.thoughtworks.cn%2Funderstand-solid-principles%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1022,6 +1082,26 @@
 </summary>
 
 
+- [2021-01-05-CVE-2020-2555——Coherence反序列化初探](https://sec.thief.one/article_content?a_id=e5b9aa87533085b656417fe477cebc36) ![](assets/new.png)  
+- [2021-01-05-报告发布-|-基于可信数字身份的区块链应用服务白皮书](https://sec.thief.one/article_content?a_id=820e514ded756ddd07ff6a2e02149a59) ![](assets/new.png)  
+- [2021-01-05-揭秘QUIC的性能与安全](https://sec.thief.one/article_content?a_id=6c5c02df75ac5db6ecc6950b0a548239) ![](assets/new.png)  
+- [2021-01-05-BSRC用户成长体系|-2021关爱始终如一](https://sec.thief.one/article_content?a_id=8f3f9921003ec840a3f8bdd7354760dc) ![](assets/new.png)  
+- [2021-01-05-多维监测风险,全程响应安全:国舜安全态势感知平台](https://sec.thief.one/article_content?a_id=24fc4a9c08d4a8d22e65c20d5815f387) ![](assets/new.png)  
+- [2021-01-05-给你一项超能力「消灭所有诈骗网站」来吧,展示!](https://sec.thief.one/article_content?a_id=d196c2f1a99be647b611dba6deb5d991) ![](assets/new.png)  
+- [2021-01-05-数篷科技完成B轮2800万美元融资-加速构建面向数据的零信任网络安全...](https://sec.thief.one/article_content?a_id=e50404cff74cc576ca43076221611713) ![](assets/new.png)  
+- [2021-01-05-乌克兰政府选择恒星发展基金会开发国家数字货币](https://sec.thief.one/article_content?a_id=ca018544aab52219f016ad60a7a10f46) ![](assets/new.png)  
+- [2021-01-05-一不小心,Python又拿了年度最佳](https://sec.thief.one/article_content?a_id=365469e03c9a52d74dc1a2199a7e52ec) ![](assets/new.png)  
+- [2021-01-05-百年大党的现代化求索](https://sec.thief.one/article_content?a_id=e298d065be8911384c09b20d3a0cddf5) ![](assets/new.png)  
+- [2021-01-05-Vulnhub-靶机实战系列:DC--4](https://sec.thief.one/article_content?a_id=69b0c6190efc676111a5585273da92d2) ![](assets/new.png)  
+- [2021-01-05-信息安全漏洞周报2021年第1期](https://sec.thief.one/article_content?a_id=93f461f1fcd79487377df65e3b98c028) ![](assets/new.png)  
+- [2021-01-05-1月5日GUIBI早内参-以太坊再次突破1100美元,市值超越花旗、索尼等...](https://sec.thief.one/article_content?a_id=24bcd99b75fd6d9a9e71d3f03389df1a) ![](assets/new.png)  
+- [2021-01-05-揭秘网络赌博洗钱产业链](https://sec.thief.one/article_content?a_id=368c14b64d09ee487d15894eb9d1122d) ![](assets/new.png)  
+- [2021-01-05-2亿中国公民信息在暗网售卖](https://sec.thief.one/article_content?a_id=ff11b367c5176194c316f9c98c73fb21) ![](assets/new.png)  
+- [2021-01-05-【中国人的故事】每个人都了不起](https://sec.thief.one/article_content?a_id=90ddb3359a5d50ed801b02c82faf6bad) ![](assets/new.png)  
+- [2021-01-05-同态加密:密码学的“黄金时代”](https://sec.thief.one/article_content?a_id=d1eeb69dbbe360dcb98c1ad78b59661e) ![](assets/new.png)  
+- [2021-01-05-每日安全动态推送01-05](https://sec.thief.one/article_content?a_id=e05c8c2ab136c19a437b7f5768481ed0) ![](assets/new.png)  
+- [2021-01-05-商业远程控制软件误导安装的黑产攻击模式分析](https://sec.thief.one/article_content?a_id=8a1ffe71e1dfa28112c98c0a1c2c7803) ![](assets/new.png)  
+- [2021-01-05-干货-|-恶意代码分析之Office宏代码分析](https://sec.thief.one/article_content?a_id=4c6f6e7b92db030778ea871b1229c113) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

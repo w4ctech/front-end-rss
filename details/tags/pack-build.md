@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-05 23:43:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-05 23:58:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -23,3 +23,4 @@
 - [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) 
 - [2020-03-11-4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4) 
 - [2021-01-05-Hadoop-框架：Yarn-基本结构和运行原理](https://toutiao.io/k/xdig57t) 
+- [2021-01-05-数篷科技完成B轮2800万美元融资-加速构建面向数据的零信任网络安全...](https://sec.thief.one/article_content?a_id=e50404cff74cc576ca43076221611713) 

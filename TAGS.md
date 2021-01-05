@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-05 03:56:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-05 04:19:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -519,6 +519,7 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【JavaScript】排序算法](https://www.ershicimi.com/p/1ca2e23533568845a2a484f905348a5f)
+- [【V2EX】内推-社招-滴滴-后端/前端/算法/PM/测试/客户端-北京杭州成都深圳](https://www.v2ex.com/t/741807)
 - [【V2EX】分享个简易-HTTP-服务器](https://www.v2ex.com/t/741788)
 - [【开发者头条】推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f)
 - [【安全热点】包邮送20本《labuladong的算法小抄》《算法第一步》任选](https://sec.thief.one/article_content?a_id=7d8a834553ead6fb41bd9a6607f138cd)

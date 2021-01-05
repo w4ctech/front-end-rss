@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-05 10:19:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-05 10:45:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -90,7 +90,7 @@
 - [2020-12-23-想要复制图像？Clipboard-API-了解一下](https://www.ershicimi.com/p/7fe6b2bd2ccbaa82acc0db7202ae2e78) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
-- [2021-01-05-发现了一个用手绘搜图的二次元图像搜索引擎](https://www.v2ex.com/t/741916) 
+- [2021-01-05-RX-5700XT，-DP-接口连显示器，同时用-HDMI-接口可以直接输出数字音频到-Sound-Bar-吗？](https://www.v2ex.com/t/741967) 
 - [2021-01-04-【视频】|-网络安全形势分析及新技术](https://sec.thief.one/article_content?a_id=39ac07e8a2fbad97e44ede059283b04e) 
 - [2021-01-02-【视频】|-网络安全等级保护工作要求](https://sec.thief.one/article_content?a_id=41836d9e4e97c0232db28f3aea49aac4) 
 - [2020-12-31-【1月7日/线上直播】议程正式公布！年度AIoT产业盛典重磅来袭！](https://www.ershicimi.com/p/e42625de19d42f011ed78032cc318e98) 

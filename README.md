@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-06 20:53:11，:rocket: 更新条数: +836， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-06 21:03:34，:rocket: 更新条数: +856， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -942,6 +942,26 @@
 </summary>
 
 
+- [2021-01-06-为什么民航飞机不给乘客配降落伞？](https://www.ershicimi.com/p/0b1e81de9c21db2b2fe73f421e49ee49) ![](assets/new.png)  
+- [2021-01-06-拨云见日，带你科学认识宫颈癌](https://www.ershicimi.com/p/fc1ad493897f24663313ce7524aa166e) ![](assets/new.png)  
+- [2021-01-06-为啥酒店浴室都要弄成透明的？](https://www.ershicimi.com/p/6b344d0dca9bde202eabeded69f9a12d) ![](assets/new.png)  
+- [2021-01-06-知乎故事-|-你都遇到过什么三观炸裂的事情？](https://www.ershicimi.com/p/b47366e32b0a58f3bff73b76658cef30) ![](assets/new.png)  
+- [2021-01-05-我国超一半人感染这种细菌，其实做到这-5-点就可有效避免感染](https://www.ershicimi.com/p/90aece3043d7ff0d9e93350c327d47d8) ![](assets/new.png)  
+- [2021-01-05-是什么打破你对纯电动汽车的固有认知，产生信任感？](https://www.ershicimi.com/p/45c759c7f80d82d1797a77cad1de3805) ![](assets/new.png)  
+- [2021-01-05-知乎故事-|-你在不经意间看见过什么不该看的事情？](https://www.ershicimi.com/p/21aef087f941606d702c3f12210d6ac0) ![](assets/new.png)  
+- [2021-01-04-网传拼多多-23-岁员工加班后猝死，拼多多需要承担哪些责任？](https://www.ershicimi.com/p/47b86ebdc219ed111ca6b5404e841b4f) ![](assets/new.png)  
+- [2021-01-04-知乎-2020｜「好物推荐官」榜单发布](https://www.ershicimi.com/p/11f362b0f4a678c784d6eb3c9b8fca34) ![](assets/new.png)  
+- [2021-01-04-知乎故事-|-有哪些好气又好笑的复仇故事？](https://www.ershicimi.com/p/41cb3194f88967bb01788d6c24527e12) ![](assets/new.png)  
+- [2021-01-03-本周知乎热榜-|-《心灵奇旅》热映，郭敬明于正公开道歉，杨笠脱口秀引争议](https://www.ershicimi.com/p/f520570041e20cf8292c2228e492d9b8) ![](assets/new.png)  
+- [2021-01-03-知乎故事-|-你在学校嗑过自己班里的-CP-吗？](https://www.ershicimi.com/p/af1e05a15c47a9cf39e8b7c39425cf37) ![](assets/new.png)  
+- [2021-01-01-知乎神吐槽-|-如何用四个字形容你上一段感情？](https://www.ershicimi.com/p/ce30fd3046de7014124d0132216fdf25) ![](assets/new.png)  
+- [2021-01-01-知乎故事-|-你的导师对你说过什么让你至今难以忘怀的话？](https://www.ershicimi.com/p/6489c90f45f461266b1cc960777ba9b6) ![](assets/new.png)  
+- [2020-12-31-我们用一年的时间，写下了这篇信息含量最大的文章](https://www.ershicimi.com/p/5c2132aefbc1b3e367f3e3ceafe28df4) ![](assets/new.png)  
+- [2020-12-31-【请查收】-你的-2020-年度总结](https://www.ershicimi.com/p/ed661028b11d060c6d56422902ed481f) ![](assets/new.png)  
+- [2020-12-31-新华社-X-知乎-|-2020，36-亿数据绘出这条线](https://www.ershicimi.com/p/26fe96248c9a52b0550bd241ef0b09b6) ![](assets/new.png)  
+- [2020-12-31-知乎故事-|-生活中有哪些让你怦然心动的时刻？](https://www.ershicimi.com/p/8b7324a9fb28fbf4ad90557ce2d37d97) ![](assets/new.png)  
+- [2020-12-30-男生朝同学泼化学试剂？！如果皮肤接触到了浓硫酸，一定要立刻做这两件事](https://www.ershicimi.com/p/714d800ef2df3b7936a3a577dc67533a) ![](assets/new.png)  
+- [2020-12-30-4-个走路减肥的技巧，边走边瘦不是梦](https://www.ershicimi.com/p/522389048f5c6206a6ab5cc06b398f35) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1021,8 +1041,8 @@
 - [2021-01-06-高并发服务遇-Redis-瓶颈引发的事故](https://toutiao.io/k/mg8zd72) ![](assets/new.png)  
 - [2021-01-06-如何快速构建内部钓鱼平台](https://toutiao.io/k/bwj9ghz) ![](assets/new.png)  
 - [2021-01-06-面试官：说说操作系统微内核和-Dubbo-微内核？](https://toutiao.io/k/1r8c1f1) ![](assets/new.png)  
-- [2021-01-06-吐槽：Python-正在从简明转向臃肿，从实用转向媚俗](https://toutiao.io/k/wou43tf) ![](assets/new.png)  
 - [2021-01-06-看完这篇还不懂高并发中的线程与线程池你来打我（内含-20-张图）](https://toutiao.io/k/ylzj4m2) ![](assets/new.png)  
+- [2021-01-06-吐槽：Python-正在从简明转向臃肿，从实用转向媚俗](https://toutiao.io/k/wou43tf) ![](assets/new.png)  
 - [2021-01-06-指标体系：四个模型教会你指标体系构建的方法](https://toutiao.io/k/paquku6) ![](assets/new.png)  
 - [2021-01-06-深度神经⽹络为何很难训练](https://toutiao.io/k/2bgmugh) ![](assets/new.png)  
 - [2021-01-06-李飞飞：云原生分布式数据库面临哪些机遇与挑战？](https://toutiao.io/k/9whwwto) ![](assets/new.png)  
@@ -1031,8 +1051,8 @@
 - [2021-01-06-从小白到高手，你需要理解同步与异步](https://toutiao.io/k/u1v3k3j) ![](assets/new.png)  
 - [2021-01-06-目标检测的稀疏对抗攻击，代码已开源](https://toutiao.io/k/bj0fkk2) ![](assets/new.png)  
 - [2021-01-06-基于-Flink-构建实时数仓实践](https://toutiao.io/k/fzv3l96) ![](assets/new.png)  
-- [2021-01-06-LakeHouse：统一数据仓库和高级分析的新一代开放平台](https://toutiao.io/k/40ryk87) ![](assets/new.png)  
 - [2021-01-06-亿级流量峰值没在怕，“缓存”-技术来减压！](https://toutiao.io/k/2cnuog1) ![](assets/new.png)  
+- [2021-01-06-LakeHouse：统一数据仓库和高级分析的新一代开放平台](https://toutiao.io/k/40ryk87) ![](assets/new.png)  
 - [2021-01-06-假期三天，我肝了万字的-Java-垃圾回收，看完你还敢说不会？](https://toutiao.io/k/utfqhul) ![](assets/new.png)  
 - [2021-01-06-RocketMQ-简介](https://toutiao.io/k/tlgupwp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-06 04:25:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-06 05:07:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,15 +7,8 @@
 
 
 
-- [2020-12-31-封装-axios-取消重复请求](https://www.ershicimi.com/p/38899a1576fde7c1f9df96886a190129) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
-- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2021-01-05-全球第二大浏览器升级！内存/CPU占用暴降](https://www.ershicimi.com/p/cffbbc29f86b228e242ea56364b23b87) 
-- [2021-01-05-浏览器的底层渲染知识](https://juejin.im/post/6914490782229479437) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-01-06-服务器-ssh-登陆失败-Permission-denied-publickey,gssapi-keyex,gssapi-with-mic](https://www.v2ex.com/t/742105) 
 - [2021-01-06-亿级流量峰值没在怕，“缓存”-技术来减压！](https://toutiao.io/k/2cnuog1) 
 - [2021-01-06-安全攻防,从入门到进阶](https://sec.thief.one/article_content?a_id=f3b816e39e80aa2f53a43ce23a9f87c9) 
 - [2021-01-05-【安全圈】高科技坐垫“监控”员工?打工人的臀部要如何安放?](https://sec.thief.one/article_content?a_id=2c9b186b2ee78d6f3eb00e29585cb7c5) 

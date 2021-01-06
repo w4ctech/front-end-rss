@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-06 15:12:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-06 15:32:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -18,5 +18,6 @@
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
-- [2021-01-06-看了何同学的新视频-想问问大家的手机一天屏幕使用时间是多少](https://www.v2ex.com/t/742312) 
-- [2021-01-06-何同学新的关于减少手机使用时间的视频做的真好，（有可能）还是恰饭的很好示范。](https://www.v2ex.com/t/742308) 
+- [2020-12-31-【1月7日/线上直播】议程正式公布！年度AIoT产业盛典重磅来袭！](https://www.ershicimi.com/p/e42625de19d42f011ed78032cc318e98) 
+- [2020-12-31-你知道吗？“通过图像识别技术也可以完成智慧抄表”](https://www.ershicimi.com/p/acbe81d96e7fcbe9cde61ba7b5ad3f50) 
+- [2020-12-30-【1月7日/线上直播】议程正式公布！年度AIoT产业盛典重磅来袭！](https://www.ershicimi.com/p/63d726a201738887400021ecc45eb163) 

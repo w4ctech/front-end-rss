@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-06 04:20:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-06 04:25:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -13,13 +13,6 @@
 - [2020-12-28-从Flask到FastAPI的平滑迁移](https://www.ershicimi.com/p/2cd1618f1464e899f41b0af47e7d8dd7) 
 - [2020-12-28-到底要刷多少道算法题面试才稳？-|-活动推荐](https://www.ershicimi.com/p/4d609e3da2d9c0e3119fe4f024d1e9b1) 
 - [2020-12-25-解读-WebAssembly-的-2020：Web-以外的进展与计划](https://www.ershicimi.com/p/c54b722d307f70255e802679628ca5ca) 
-- [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/) 
-- [2017-04-11-GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/) 
-- [2016-12-08-vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/) 
-- [2016-08-16-Nginx-配置-HTTPS-服务器](https://aotu.io/notes/2016/08/16/nginx-https/) 
-- [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
-- [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
-- [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2021-01-04-一文串联-HTTP、TCP、IP、以太网](https://www.ershicimi.com/p/d66af908fd8ed45f87c046c96382a14b) 
 - [2020-12-06-排序算法](https://www.ershicimi.com/p/1ca2e23533568845a2a484f905348a5f) 
 - [2021-01-06-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) 

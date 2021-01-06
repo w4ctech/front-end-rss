@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-06 10:20:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-06 10:46:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,7 +22,6 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2020-12-31-封装-axios-取消重复请求](https://www.ershicimi.com/p/38899a1576fde7c1f9df96886a190129) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -32,12 +31,6 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
-- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2021-01-06-从缓存接口到axios节流](https://juejin.im/post/6914572431222898695) 
-- [2021-01-06-【Daily-Interview】--18-二叉树的最近公共祖先](https://juejin.im/post/6914556281441386509) 
-- [2021-01-05-Chrome-Tools花式玩法（一）](https://juejin.im/post/6914551244270878733) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-06-提问-虚拟机平台上安装-ubuntu-server-导致浏览器断网](https://www.v2ex.com/t/742288) 
 - [2021-01-06-有没有大厂商的任意-URL-跳转漏洞](https://www.v2ex.com/t/742282) 

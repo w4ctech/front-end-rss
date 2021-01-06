@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-06 06:50:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-06 07:20:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -23,9 +23,6 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
-- [2021-01-06-一个播放器背后的危机和博弈](https://sec.thief.one/article_content?a_id=656e3017ef69eb1c6d1ab662b8976e2e) 
-- [2021-01-06-【视频】|-网络安全运营体系建设思考](https://sec.thief.one/article_content?a_id=ea264ea6496b2d64ce2625fd9b2ea462) 
-- [2021-01-04-【视频】|-网络安全形势分析及新技术](https://sec.thief.one/article_content?a_id=39ac07e8a2fbad97e44ede059283b04e) 
 - [2020-12-31-【1月7日/线上直播】议程正式公布！年度AIoT产业盛典重磅来袭！](https://www.ershicimi.com/p/e42625de19d42f011ed78032cc318e98) 
 - [2020-12-31-你知道吗？“通过图像识别技术也可以完成智慧抄表”](https://www.ershicimi.com/p/acbe81d96e7fcbe9cde61ba7b5ad3f50) 
 - [2020-12-30-【1月7日/线上直播】议程正式公布！年度AIoT产业盛典重磅来袭！](https://www.ershicimi.com/p/63d726a201738887400021ecc45eb163) 

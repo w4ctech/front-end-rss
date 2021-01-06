@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-01-06 11:25:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-06 11:52:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-01-06-hibernate-validator-错误信息问题](https://www.v2ex.com/t/742301) 
 - [2021-01-06-京东-plus-今天的大疆-5-折真的有中的小伙伴吗](https://www.v2ex.com/t/742300) 
 - [2021-01-06-有大佬用-kettle-连过-aliyun-的-emr-吗？](https://www.v2ex.com/t/742299) 
 - [2021-01-06-DOSBox-X-开源跨平台-DOS-模拟器，支持-win-3.x-和-win9x](https://www.v2ex.com/t/742298) 
@@ -44,4 +45,3 @@
 - [2021-01-06-有无包含前台用户及后台管理员系统，最好针对小程序后端的脚手架？](https://www.v2ex.com/t/742254) 
 - [2021-01-06-macOS-无法调整系统字体大小？网上搜了一圈说是无解？](https://www.v2ex.com/t/742253) 
 - [2021-01-06-👏👏-武汉森果-测试工程师/统招本科/薪资面议（极具竞争力的薪资）](https://www.v2ex.com/t/742252) 
-- [2021-01-06-pytest-可以为每个-case-自定义-setup-和-teardown-么？](https://www.v2ex.com/t/742251) 

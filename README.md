@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-06 19:58:08，:rocket: 更新条数: +3885， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-06 20:12:38，:rocket: 更新条数: +3885， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,8 +1072,8 @@
 - [2021-01-06-目标检测的稀疏对抗攻击，代码已开源](https://toutiao.io/k/bj0fkk2) ![](assets/new.png)  
 - [2021-01-06-基于-Flink-构建实时数仓实践](https://toutiao.io/k/fzv3l96) ![](assets/new.png)  
 - [2021-01-06-LakeHouse：统一数据仓库和高级分析的新一代开放平台](https://toutiao.io/k/40ryk87) ![](assets/new.png)  
-- [2021-01-06-假期三天，我肝了万字的-Java-垃圾回收，看完你还敢说不会？](https://toutiao.io/k/utfqhul) ![](assets/new.png)  
 - [2021-01-06-亿级流量峰值没在怕，“缓存”-技术来减压！](https://toutiao.io/k/2cnuog1) ![](assets/new.png)  
+- [2021-01-06-假期三天，我肝了万字的-Java-垃圾回收，看完你还敢说不会？](https://toutiao.io/k/utfqhul) ![](assets/new.png)  
 - [2021-01-06-RocketMQ-简介](https://toutiao.io/k/tlgupwp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-06 06:12:37，:rocket: 更新条数: +714， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-06 06:40:17，:rocket: 更新条数: +717， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -953,6 +953,18 @@
 </summary>
 
 
+- [2021-01-06-有熟悉-VMware-ESXI-的老哥进来指导一下吗？配置虚拟机专属网络怎么整？](https://www.v2ex.com/t/742196) ![](assets/new.png)  
+- [2021-01-06-各位大佬，除了-go-micro-和-go-kit-以外，还有那些比较好的微服务框架吗，国内外的。](https://www.v2ex.com/t/742195) ![](assets/new.png)  
+- [2021-01-06-终端-git-相关命令卡死](https://www.v2ex.com/t/742194) ![](assets/new.png)  
+- [2021-01-06-Java-线程数过高，如何排查](https://www.v2ex.com/t/742193) ![](assets/new.png)  
+- [2021-01-06-Linux-如何实现全盘（或者/分区）加密后开机直接进入系统？](https://www.v2ex.com/t/742192) ![](assets/new.png)  
+- [2021-01-06-石家庄现在疫情怎么样了，刚看到消息廊坊师范学院一名学生无症状感染，疫情事态会变得严重吗？](https://www.v2ex.com/t/742191) ![](assets/new.png)  
+- [2021-01-06-女朋友的手工织物第五弹-2021-元旦自驾义乌小商品城之行](https://www.v2ex.com/t/742190) ![](assets/new.png)  
+- [2021-01-06-找一个注重能力-学历往后排的公司真的好难是不是？](https://www.v2ex.com/t/742189) ![](assets/new.png)  
+- [2021-01-06-想问下今年准备回家的多吗？](https://www.v2ex.com/t/742188) ![](assets/new.png)  
+- [2021-01-06-今年想换工作了，推荐哪个城市好？](https://www.v2ex.com/t/742187) ![](assets/new.png)  
+- [2021-01-06-大家有遇到关机或者重启卡住的问题吗？](https://www.v2ex.com/t/742186) ![](assets/new.png)  
+- [2021-01-06-苹果的-DTKA12Z-Macmini是不是彻底凉凉了](https://www.v2ex.com/t/742185) ![](assets/new.png)  
 - [2021-01-06-漫谈异步-IO-和线程池](https://www.v2ex.com/t/742184) ![](assets/new.png)  
 - [2021-01-06-米家-app-买个东西，质量问题退货，申请快递报销，提示-“获取小米钱包接口出错!”](https://www.v2ex.com/t/742183) ![](assets/new.png)  
 - [2021-01-06-反-996-上海/远程-Dimension.im-/-Mask-Network-热招-前端/移动端；公司高速发展，-IEEE/-ECMA&TC39-成员](https://www.v2ex.com/t/742182) ![](assets/new.png)  
@@ -961,18 +973,6 @@
 - [2021-01-06-M1-win10-arm-虚拟机可以玩使命召唤手游！](https://www.v2ex.com/t/742179) ![](assets/new.png)  
 - [2021-01-06-微信有办法自己实现云备份么？](https://www.v2ex.com/t/742178) ![](assets/new.png)  
 - [2021-01-06-招聘贴-web-前端开发工程师——来自美图公司（base-深圳）](https://www.v2ex.com/t/742177) ![](assets/new.png)  
-- [2021-01-06-2077-的后续主线/支线情节紧凑程度和复杂度没能延续序章的品质。感觉很可惜](https://www.v2ex.com/t/742176) ![](assets/new.png)  
-- [2021-01-06--iPad-换代-遇到一个问题，大家来帮忙想想办法](https://www.v2ex.com/t/742175) ![](assets/new.png)  
-- [2021-01-06-为啥-Minila-air-在空格键左右两侧都设置了个-Fn-按键，感觉左侧的-Fn-好容易误触到。](https://www.v2ex.com/t/742174) ![](assets/new.png)  
-- [2021-01-06-要过年了，单位的-2021-年春节放假时间出炉了吗？](https://www.v2ex.com/t/742173) ![](assets/new.png)  
-- [2021-01-06-右边的广告是按什么逻辑推送的？](https://www.v2ex.com/t/742170) ![](assets/new.png)  
-- [2021-01-06-年前想给父母买一个手机，有什么推荐的？](https://www.v2ex.com/t/742169) ![](assets/new.png)  
-- [2021-01-06-问一下前端大佬，你们公司的产品或者-UI，在出原型或者设计稿的时候，是怎么体现动画的？](https://www.v2ex.com/t/742168) ![](assets/new.png)  
-- [2021-01-06-Mac-突然-1%-电量](https://www.v2ex.com/t/742167) ![](assets/new.png)  
-- [2021-01-06-企业内部的独立网盘应用是否还有价值？](https://www.v2ex.com/t/742166) ![](assets/new.png)  
-- [2021-01-06-分享一款可以「图片水印批量处理」的软件](https://www.v2ex.com/t/742165) ![](assets/new.png)  
-- [2021-01-06-Python-打包问题](https://www.v2ex.com/t/742163) ![](assets/new.png)  
-- [2021-01-06-安卓这边有没有比较好的第三方软件市场](https://www.v2ex.com/t/742162) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1020,12 +1020,12 @@
 - [2021-01-06-面试官：说说操作系统微内核和-Dubbo-微内核？](https://toutiao.io/k/1r8c1f1) ![](assets/new.png)  
 - [2021-01-06-深度神经⽹络为何很难训练](https://toutiao.io/k/2bgmugh) ![](assets/new.png)  
 - [2021-01-06-如何快速构建内部钓鱼平台](https://toutiao.io/k/bwj9ghz) ![](assets/new.png)  
-- [2021-01-06-指标体系：四个模型教会你指标体系构建的方法](https://toutiao.io/k/paquku6) ![](assets/new.png)  
 - [2021-01-06-吐槽：Python-正在从简明转向臃肿，从实用转向媚俗](https://toutiao.io/k/wou43tf) ![](assets/new.png)  
+- [2021-01-06-指标体系：四个模型教会你指标体系构建的方法](https://toutiao.io/k/paquku6) ![](assets/new.png)  
 - [2021-01-06-看完这篇还不懂高并发中的线程与线程池你来打我（内含-20-张图）](https://toutiao.io/k/ylzj4m2) ![](assets/new.png)  
 - [2021-01-06-李飞飞：云原生分布式数据库面临哪些机遇与挑战？](https://toutiao.io/k/9whwwto) ![](assets/new.png)  
-- [2021-01-06-微信小程序工程化之持续集成方案](https://toutiao.io/k/9q9q6ut) ![](assets/new.png)  
 - [2021-01-06-改造遗留-App-以适应苹果-AppStore-新规](https://toutiao.io/k/ng1vygt) ![](assets/new.png)  
+- [2021-01-06-微信小程序工程化之持续集成方案](https://toutiao.io/k/9q9q6ut) ![](assets/new.png)  
 - [2021-01-06-亿级流量峰值没在怕，“缓存”-技术来减压！](https://toutiao.io/k/2cnuog1) ![](assets/new.png)  
 - [2021-01-06-高并发服务遇-Redis-瓶颈引发的事故](https://toutiao.io/k/mg8zd72) ![](assets/new.png)  
 - [2021-01-06-为你-Spring-Boot-项目自定义一个通用的异常](https://toutiao.io/k/qih9tgg) ![](assets/new.png)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-06 06:12:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-06 06:40:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -361,7 +361,6 @@
 - [【前端日刊】【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa)
 - [【编程之上】前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978)
 - [【V2EX】为什么-17-年-13-无-bar-的-mbp-用-chrome-看-b-站有弹幕的直播那么卡？](https://www.v2ex.com/t/742147)
-- [【V2EX】WIN10-视频文件夹总会出现一些奇怪的文件，求解](https://www.v2ex.com/t/742135)
 - [【安全热点】一个播放器背后的危机和博弈](https://sec.thief.one/article_content?a_id=656e3017ef69eb1c6d1ab662b8976e2e)
 - [【安全热点】【视频】|-网络安全运营体系建设思考](https://sec.thief.one/article_content?a_id=ea264ea6496b2d64ce2625fd9b2ea462)
 - [【安全热点】【视频】|-网络安全形势分析及新技术](https://sec.thief.one/article_content?a_id=39ac07e8a2fbad97e44ede059283b04e)
@@ -506,6 +505,7 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】终端-git-相关命令卡死](https://www.v2ex.com/t/742194)
 - [【安全热点】阮一峰在-GitHub-又一开源力作!](https://sec.thief.one/article_content?a_id=5b782695cfca41ab8a13212b418545c4)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

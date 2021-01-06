@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-06 06:01:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-06 06:12:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,6 +14,8 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-01-05-全球第二大浏览器升级！内存/CPU占用暴降](https://www.ershicimi.com/p/cffbbc29f86b228e242ea56364b23b87) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-01-06-反-996-上海/远程-Dimension.im-/-Mask-Network-热招-前端/移动端；公司高速发展，-IEEE/-ECMA&TC39-成员](https://www.v2ex.com/t/742182) 
+- [2021-01-06-safari-浏览器的新建标签页的界面上滑会出现很多以前的历史记录，还有个小云朵的标志，怎么删除？](https://www.v2ex.com/t/742180) 
 - [2021-01-06-亿级流量峰值没在怕，“缓存”-技术来减压！](https://toutiao.io/k/2cnuog1) 
 - [2021-01-06-推荐|建设银行金融科技子公司招聘百名安全工程师](https://sec.thief.one/article_content?a_id=fbd7952ec7a2a4aa73852a32d3611115) 
 - [2021-01-06-数据安全新年头筹:安华金和完成约2亿人民币D轮融资](https://sec.thief.one/article_content?a_id=d9d919df67da77e01569ab35a97c8303) 

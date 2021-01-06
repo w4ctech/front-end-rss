@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-06 06:01:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-06 06:12:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -28,6 +28,7 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/196a7fb4fe0dda8d044135599df6e681) 
+- [2021-01-06-招聘贴-web-前端开发工程师——来自美图公司（base-深圳）](https://www.v2ex.com/t/742177) 
 - [2021-01-06-HR招聘的10条“黑话”，能听懂的都是老司机-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14095&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgGqBAWfC_Z8Sd8GiSCaF7A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-01-06-面试官：说说操作系统微内核和-Dubbo-微内核？](https://toutiao.io/k/1r8c1f1) 
 - [2021-01-06-推荐-万字攻略，详解腾讯面试](https://toutiao.io/k/2b0b1bw) 

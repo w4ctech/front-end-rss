@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-07 11:28:19，:rocket: 更新条数: +3826， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-07 11:37:43，:rocket: 更新条数: +814， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
-- [React中文社区](#react中文社区)![](assets/dot.png)   
+- [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)![](assets/dot.png)   
@@ -45,14 +45,14 @@
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)![](assets/dot.png)   
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-01-07-1月6日新增新冠63例-河北本土51例](https://m.caixin.com/m/2021-01-07/101647493.html) ![](assets/new.png)  
-- [2021-01-07-解药|新冠重症患者何时使用激素，新研究尚待验证](https://m.caixin.com/m/2021-01-07/101647792.html) ![](assets/new.png)  
-- [2021-01-07-河北6日新增51例本地确诊病例和69例本地无症状感染者](https://m.caixin.com/m/2021-01-07/101647546.html) ![](assets/new.png)  
-- [2021-01-07-【境内疫情观察】河北新增51例本土病例（1月6日）](http://m.database.caixin.com/m/2021-01-07/101647693.html) ![](assets/new.png)  
-- [2021-01-07-大流行手记|1月6日：变种病毒引发疫苗减效忧虑-印尼下周接种疫苗](https://m.caixin.com/m/2021-01-07/101647511.html) ![](assets/new.png)  
-- [2021-01-06-河北再增120例新冠感染-火车站关闭航班续减](https://m.caixin.com/m/2021-01-06/101647205.html) ![](assets/new.png)  
-- [2021-01-06-新疆昌吉报告1例河北石家庄输入无症状感染者](https://m.caixin.com/m/2021-01-06/101647272.html) ![](assets/new.png)  
-- [2021-01-06-杭州市发现一例境外输入复阳无症状感染者](https://m.caixin.com/m/2021-01-06/101647219.html) ![](assets/new.png)  
-- [2021-01-06-【境内疫情观察】河北新增20例本土病例（1月5日）](http://m.database.caixin.com/m/2021-01-06/101647233.html) ![](assets/new.png)  
-- [2021-01-06-大流行手记|1月5日：美国新冠住院人数创新高-多国疫苗供应紧张](http://m.international.caixin.com/m/2021-01-06/101647034.html) ![](assets/new.png)  
-- [2021-01-05-香港再现公立医院院内感染-将加强到访患者检测](https://m.caixin.com/m/2021-01-05/101646916.html) ![](assets/new.png)  
-- [2021-01-05-【境内疫情观察】河北新增14例本土病例（1月4日）](http://m.database.caixin.com/m/2021-01-05/101646765.html) ![](assets/new.png)  
-- [2021-01-05-大流行手记|1月4日：苏格兰全面封锁-东京奥运会或取消现场观众](https://m.caixin.com/m/2021-01-05/101646573.html) ![](assets/new.png)  
-- [2021-01-04-河北三日新增59例新冠感染者-石家庄启动全市核酸检测、中小学幼儿园线下停课](https://m.caixin.com/m/2021-01-04/101646546.html) ![](assets/new.png)  
-- [2021-01-04-粤港通关政策趋严-元旦假期近万港人回内地](http://m.china.caixin.com/m/2021-01-04/101646342.html) ![](assets/new.png)  
-- [2021-01-04-【境内疫情观察】河北新增4例本土病例（1月3日）](http://m.database.caixin.com/m/2021-01-04/101646327.html) ![](assets/new.png)  
-- [2021-01-04-大流行手记|1月3日：伦敦多家医院床位爆满-德国拟延长封锁期限](https://m.caixin.com/m/2021-01-04/101646215.html) ![](assets/new.png)  
-- [2021-01-03-北京8月龄女婴确诊-全市已接种新冠疫苗73537剂](https://m.caixin.com/m/2021-01-03/101646186.html) ![](assets/new.png)  
-- [2021-01-03-确诊病例带病工作造成污染-多地检出汽车零部件包装样本阳性](https://m.caixin.com/m/2021-01-03/101646191.html) ![](assets/new.png)  
-- [2021-01-03-【境内疫情观察】河北新增1例本土病例（1月2日）](http://m.database.caixin.com/m/2021-01-03/101646139.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -164,26 +144,6 @@
 </summary>
 
 
-- [2020-08-19-招个数据分析工程师，我给25k](https://www.ershicimi.com/p/003c2b9ee98c0992b36c5258e82747d3) ![](assets/new.png)  
-- [2020-07-14-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) ![](assets/new.png)  
-- [2020-05-18-一文掌握GO语言实战技能三](https://www.ershicimi.com/p/46cac625ac351e226dc4486f2397cb50) ![](assets/new.png)  
-- [2020-05-17-一文掌握GO语言实战技能二](https://www.ershicimi.com/p/0efd18d6a0774aa88db09fc12989a6ab) ![](assets/new.png)  
-- [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) ![](assets/new.png)  
-- [2020-05-15-一文掌握GO语言实战技能一---万字长文](https://www.ershicimi.com/p/b4aa653a71762c4ac0d8fb3a4d4d1c63) ![](assets/new.png)  
-- [2020-05-14-一文达到Mysql实战水平-习题答案](https://www.ershicimi.com/p/541e3bf6cc03ebd608c403da8cd4f8d3) ![](assets/new.png)  
-- [2020-05-13-一文达到Mysql实战水平](https://www.ershicimi.com/p/f0acfb4c01e6e94632d6f778ab0e7048) ![](assets/new.png)  
-- [2020-05-12-一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8) ![](assets/new.png)  
-- [2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) ![](assets/new.png)  
-- [2019-12-15-双12，送33本前端书籍回馈大家及珍藏已久的几个公众号](https://www.ershicimi.com/p/8d6efb9786a98f2f9682e6bea7bcff88) ![](assets/new.png)  
-- [2019-12-11-一文深度剖析Axios源码](https://www.ershicimi.com/p/22f3dc65afaa70adb95ed48cc610af4a) ![](assets/new.png)  
-- [2019-11-28-来自蚂蚁金服的前端项目最佳实践](https://www.ershicimi.com/p/aae2f8cef34dd39021c9bd7050993a7c) ![](assets/new.png)  
-- [2019-11-25-一文掌握Webpack编译流程](https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6) ![](assets/new.png)  
-- [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) ![](assets/new.png)  
-- [2019-11-15-推荐几个公众号](https://www.ershicimi.com/p/a3828f970288d59160cda21828777128) ![](assets/new.png)  
-- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) ![](assets/new.png)  
-- [2019-11-14-推荐几个公众号](https://www.ershicimi.com/p/126b6a8d127d2a6f3eb0af6fb8a72a45) ![](assets/new.png)  
-- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) ![](assets/new.png)  
-- [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) ![](assets/new.png)  
 - [......【查看更多】......](./details/React中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -822,6 +782,26 @@
 </summary>
 
 
+- [2021-01-06-老哥们都是几点出门上班的？我目前-7-点-50](https://www.ershicimi.com/p/052a327ea920374522fdf0b3a6fc1166) ![](assets/new.png)  
+- [2021-01-05-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48) ![](assets/new.png)  
+- [2021-01-04-做前端的你，如何克服技术焦虑？](https://www.ershicimi.com/p/a2a52231262575ca27e064b97746deea) ![](assets/new.png)  
+- [2020-12-30-万物可卷的时代，程序员也被“内卷”？](https://www.ershicimi.com/p/56127bd8aa48f0cd994acbf4cef8867b) ![](assets/new.png)  
+- [2020-12-29-《前端中文入门手册》.pdf](https://www.ershicimi.com/p/34beb2409059c6b78e3c63f643c9736a) ![](assets/new.png)  
+- [2020-12-28-Vant3.0宣布全面拥抱Vue3，Vue3.0成为主流还有多远？](https://www.ershicimi.com/p/ce2da327d67f7cc95055497d457dfc21) ![](assets/new.png)  
+- [2020-12-24-前端从入门到放弃，是因为你没有这份高薪成长路线](https://www.ershicimi.com/p/14ae0d8779609a7bc198bb8e8da7b2a2) ![](assets/new.png)  
+- [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) ![](assets/new.png)  
+- [2020-12-22-这7个vue技巧，简直让效率翻倍！](https://www.ershicimi.com/p/3e1d8e9e766d6ba9739a11e029436ee7) ![](assets/new.png)  
+- [2020-12-21-Vue-3.0-进阶玩法，想一起造轮子的进](https://www.ershicimi.com/p/ecd6b1fe71dd157caf1abab769da4900) ![](assets/new.png)  
+- [2020-12-18-最火的-Vue-前端框架，你用对了么？](https://www.ershicimi.com/p/7d14f8a7f058a7d1e1ecde4ceb2b8a7f) ![](assets/new.png)  
+- [2020-12-17-太真实了](https://www.ershicimi.com/p/29a3a8478877c73487ea61f490534e49) ![](assets/new.png)  
+- [2020-12-16-为什么程序员互相之间不能透露薪水?是怕“凡尔赛”吗？](https://www.ershicimi.com/p/7836f1f8c500a1bb5a56582081e381ab) ![](assets/new.png)  
+- [2020-12-15-人人都会Vue，想拿高薪，如何突出优势？](https://www.ershicimi.com/p/c0a62bdd8e327e1ecc67cfcc1caa6142) ![](assets/new.png)  
+- [2020-12-14-来一起用-Vue3.0-做个飞机大战游戏](https://www.ershicimi.com/p/873c9d11b224f5b47ddcc1e170552f6c) ![](assets/new.png)  
+- [2020-12-11-推荐一个小程序实战项目！0基础可做](https://www.ershicimi.com/p/101ffccef2fa9c22d157a7664725b323) ![](assets/new.png)  
+- [2020-12-09-为什么总有人说：“前端饱和了”、“前端不好找工作”？](https://www.ershicimi.com/p/8110eb01c95d8f88ca335385bb3c41a2) ![](assets/new.png)  
+- [2020-12-08-看这篇就行！最强VUE+ElementUI管理项目来了（附实战全过程）](https://www.ershicimi.com/p/be2fe6b481813259250c47b6cd73b659) ![](assets/new.png)  
+- [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/196a7fb4fe0dda8d044135599df6e681) ![](assets/new.png)  
+- [2020-12-06-排序算法](https://www.ershicimi.com/p/1ca2e23533568845a2a484f905348a5f) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -953,6 +933,9 @@
 </summary>
 
 
+- [2021-01-07-上海地铁不准外放声音，但地铁内的广告声音依旧。算不算不许百姓点灯？](https://www.v2ex.com/t/742665) ![](assets/new.png)  
+- [2021-01-07-分享一个新的笔记软件，用来创作。李自然的御用写作软件-Effie-发布啦！](https://www.v2ex.com/t/742664) ![](assets/new.png)  
+- [2021-01-07-自制-API-备份虾米歌单](https://www.v2ex.com/t/742663) ![](assets/new.png)  
 - [2021-01-07-是不是只有安卓可以无忧双开微信？](https://www.v2ex.com/t/742662) ![](assets/new.png)  
 - [2021-01-07-使用-Spring-Security-后性能相差-2-4-倍？是我自己的问题吗？](https://www.v2ex.com/t/742661) ![](assets/new.png)  
 - [2021-01-07-是不是微信无忧双开只能用安卓？](https://www.v2ex.com/t/742660) ![](assets/new.png)  
@@ -970,9 +953,6 @@
 - [2021-01-07-各位，程序员转行健身教练+自媒体合适吗嘛？](https://www.v2ex.com/t/742641) ![](assets/new.png)  
 - [2021-01-07-问一个关于-kotlin-协程-lifecycleScope-用法和内存泄漏的问题。](https://www.v2ex.com/t/742640) ![](assets/new.png)  
 - [2021-01-07-字节跳动-北京后端研发工程师，面试官直招](https://www.v2ex.com/t/742639) ![](assets/new.png)  
-- [2021-01-07-sum-类聚合函数怎么用?](https://www.v2ex.com/t/742638) ![](assets/new.png)  
-- [2021-01-07-广州多益的社招申请流程需要先写作文，各位对这种形式怎么看](https://www.v2ex.com/t/742636) ![](assets/new.png)  
-- [2021-01-07-小公司，如果拿测试数据让老板换个好点的路由器？](https://www.v2ex.com/t/742635) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -984,6 +964,26 @@
 </summary>
 
 
+- [2021-01-07-性能优化那些事-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14096&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-HR招聘的10条“黑话”，能听懂的都是老司机-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14095&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgGqBAWfC_Z8Sd8GiSCaF7A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-App-多窗口支持架构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14094&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOv_O89n75zsEN2GBvIWNyA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-分享-Flutter-学习总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14093&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fh2QHOJXzhym83J2hnxMX_w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-谷歌正式开源-Fuchsia-OS，华为鸿蒙与之对标！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14092&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbPKtbKTveG8B_hfmFbASJw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-H5-移动端调试全攻略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14091&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJg5RUr5wRBc9fRyCjnp7Jg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-强大！ASM-插桩实现-Android-端无埋点性能监控！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14090&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXuc034VlR7TqjTaoaSuI2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-全球最大的色情网站，保留着西方媒体最后的良心-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14089&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNJWXmR2JtFKhTwk0_AsKtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-iOS-导航栏整体滑动解决方案（类似淘宝）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14088&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTllf_sEdsEY3A2PZhCnFUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-谷歌程序员-20-行代码送你一个“老婆”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14087&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FeVq3xLbfpIWHEvkMeX8uSw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-这-就是程序员的编程日常-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14086&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fm323HfTkzXrJbnALnqoRvA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-“仅三天可见”-的朋友圈有方法破解啦！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14085&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuK_gM59h49QzbnL_t3M7fA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-14个-JavaScript-代码优化技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14084&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTGBlEk_7gjhgEARA7yxd5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-浅谈机器学习模型推理性能优化-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14083&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmachine-learning-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-不同人眼中的“顶级程序员”，这差距也太大了吧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14082&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzYwMTk1NA%3D%3D%26amp%3Bmid%3D2247506423%26amp%3Bidx%3D1%26amp%3Bsn%3D6d11edb9ea159bba52e60e34e8d10c9c%26amp%3Bchksm%3D96ce78baa1b9f1ac143a0c5db9bcdb24cf6030e0dbbcd26de42a6acfe1ed871797fe25bdb654%26amp%3Btoken%3D509775044%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-“老板”和“员工”-同打一天工，差距到底有多大？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14081&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzYwMTk1NA%3D%3D%26amp%3Bmid%3D2247506324%26amp%3Bidx%3D2%26amp%3Bsn%3Da295566b5e585cdcdae515908cf212b7%26amp%3Bchksm%3D96ce78d9a1b9f1cf4c76c3d0a01ad4ce18a7c58e96c763ab2611de693e4ab9752d2a1d7cefe7%26amp%3Btoken%3D509775044%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-王者荣耀之「策略模式」-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14080&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzYwMTk1NA%3D%3D%26amp%3Bmid%3D2247506313%26amp%3Bidx%3D1%26amp%3Bsn%3D7344f5a3c8a954f1674bbade70b0b245%26amp%3Bchksm%3D96ce78c4a1b9f1d26d0345eb79abd34730102406795bef170cbaf37c569b3eee01ed41f7b60d%26amp%3Btoken%3D509775044%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-配置即代码：先有鸡还是先有蛋-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14079&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fconfiguration-as-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-麻广广-微服务架构下你的数据一致了吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14078&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-data-consistency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-07-土豪进化攻略：第一代互联网公司的合纵连横-www.iceo.com.cn](https://blogread.cn/news/go.php?idItem=14077&url=http%3A%2F%2Fwww.iceo.com.cn%2Fcom2013%2F2013%2F1010%2F271520.shtml%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

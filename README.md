@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-07 07:02:38，:rocket: 更新条数: +838， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-07 07:22:32，:rocket: 更新条数: +836， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -771,6 +771,11 @@
 </summary>
 
 
+- [2021-01-07-Kotlin开发团队惹上麻烦了](https://www.ershicimi.com/p/ed46337de00ea4f05eea07482a239bb2) ![](assets/new.png)  
+- [2021-01-07-别再空谈云原生，来看实战方法论](https://www.ershicimi.com/p/3d99079d3d589ab15dbc87d5072e1b3a) ![](assets/new.png)  
+- [2021-01-07-你熟悉的TDSQL不一样了](https://www.ershicimi.com/p/7af6b049f9db889c59eb2a4a7193b217) ![](assets/new.png)  
+- [2021-01-07-5大芯片代表巅峰对话：一个面向未来的操作系统是怎样的？](https://www.ershicimi.com/p/95e32ed825195f43e3c6a50bf8671b36) ![](assets/new.png)  
+- [2021-01-07-GitHub的挣扎：已获美国许可，恢复在伊朗的服务](https://www.ershicimi.com/p/6beff97a66d87d7fb70a43c9202eb686) ![](assets/new.png)  
 - [2021-01-06-前阿里P9：聊聊大厂晋升“潜规则”｜-极客时间](https://www.ershicimi.com/p/041f5a9ae91701fe4e8b168943fecfc5) ![](assets/new.png)  
 - [2021-01-06-是时候跟Docker说再见了](https://www.ershicimi.com/p/7263636401620b03c23984bbfc960cc2) ![](assets/new.png)  
 - [2021-01-06-5年间服务分钟数翻100倍，声网Agora如何做到又快又稳？](https://www.ershicimi.com/p/c0a6149caf2f7d44f9062e8d32706fd8) ![](assets/new.png)  
@@ -786,11 +791,6 @@
 - [2021-01-04-阿里技术实战：数十万云服务器如何高效运维？｜-QCon](https://www.ershicimi.com/p/5c89f8133bb81fabe7e45455e1f1ff17) ![](assets/new.png)  
 - [2021-01-04-TDWI：-2021数据分析与商业智能预测](https://www.ershicimi.com/p/8b1663ad8abe71d86dd46f9978cfa7a0) ![](assets/new.png)  
 - [2021-01-04-改善代码可读性的5种方法](https://www.ershicimi.com/p/97975d43d9dd4e71254b1b2b02056ff6) ![](assets/new.png)  
-- [2021-01-03-手机新战事：华为掉队，谁来补位？](https://www.ershicimi.com/p/3f8e1567e494ed128f5f893bbc22ca96) ![](assets/new.png)  
-- [2021-01-03-三十而已，工程师如何做好职业成长？](https://www.ershicimi.com/p/66afdb9217086bda4b3b404684de9184) ![](assets/new.png)  
-- [2021-01-02-深圳发2000万数字人民币红包；奇虎360元旦植发6折福利；快手开启全员大小周；员工上厕所次数超过规](https://www.ershicimi.com/p/ac8ce5b894caf41f7341c4fc43360762) ![](assets/new.png)  
-- [2021-01-02-别再吹Rust了，它太难学了！](https://www.ershicimi.com/p/09b7a26a1e30ea15d6dee6343b26e28b) ![](assets/new.png)  
-- [2021-01-02-短短一年，-openEuler-社区是如何繁荣起来的？](https://www.ershicimi.com/p/3c0e14395e56a45e414d529722776527) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -953,9 +953,16 @@
 </summary>
 
 
+- [2021-01-07-只打-LOL-求推荐个显卡-二手也可](https://www.v2ex.com/t/742565) ![](assets/new.png)  
+- [2021-01-07-深圳-虾皮内推，年前面试，年后入职（1/23-有供应链专场）](https://www.v2ex.com/t/742564) ![](assets/new.png)  
+- [2021-01-07-现在哪一款-m.2-nvme-的-1t-固态比较好？](https://www.v2ex.com/t/742563) ![](assets/new.png)  
+- [2021-01-07-刚拿到-M1-的-mba，有什么要注意的吗](https://www.v2ex.com/t/742562) ![](assets/new.png)  
+- [2021-01-07-到了中年就怀旧了，听一些从网易云音乐下载的老歌](https://www.v2ex.com/t/742561) ![](assets/new.png)  
+- [2021-01-07-有在海典软件工作过的老哥吗？进来唠一唠？](https://www.v2ex.com/t/742560) ![](assets/new.png)  
+- [2021-01-07-哪能找到黄金十年以上的走势图呢?](https://www.v2ex.com/t/742558) ![](assets/new.png)  
+- [2021-01-07-现在买-M1-的-Mac-mini-合适么？](https://www.v2ex.com/t/742555) ![](assets/new.png)  
 - [2021-01-07-推荐一款蓝牙迷你音箱，-300-以内](https://www.v2ex.com/t/742553) ![](assets/new.png)  
 - [2021-01-07-求助-golang-大佬](https://www.v2ex.com/t/742552) ![](assets/new.png)  
-- [2021-01-07-讨论讨论今年过年让不让返乡](https://www.v2ex.com/t/742551) ![](assets/new.png)  
 - [2021-01-07-A-股-3550-点了，兄弟们是跑了还是冲进来？](https://www.v2ex.com/t/742550) ![](assets/new.png)  
 - [2021-01-07-基于浏览器的验证码自动填写插件](https://www.v2ex.com/t/742549) ![](assets/new.png)  
 - [2021-01-07-受痘痘困扰好多年，去协和看了下，医生开了两个药膏涂非常管用，涂了一个月了效果惊人](https://www.v2ex.com/t/742547) ![](assets/new.png)  
@@ -966,13 +973,6 @@
 - [2021-01-07-有哪些和-Apple-pencil-配合不错的笔记软件和画画软件?](https://www.v2ex.com/t/742541) ![](assets/new.png)  
 - [2021-01-07-Linux-机器系统负载load-average高会影响-ping-值吗单纯地通过-ICMP-获得的值？-在-load-average-高并且进出带宽够用的情况下，-可以通过提高服务器进程的优...](https://www.v2ex.com/t/742540) ![](assets/new.png)  
 - [2021-01-07-团队直招-自如大前端团队-欢迎热爱技术的小伙伴-iOS-Android-前端！](https://www.v2ex.com/t/742539) ![](assets/new.png)  
-- [2021-01-07-有什么免费的相册吗，用于储存照片和分享照片](https://www.v2ex.com/t/742538) ![](assets/new.png)  
-- [2021-01-07-如何获取批量-Zoom-账号的状态？](https://www.v2ex.com/t/742537) ![](assets/new.png)  
-- [2021-01-07-最近在琢磨-IPFS（星际文件系统）。但仍然有些概念和逻辑问题求解](https://www.v2ex.com/t/742534) ![](assets/new.png)  
-- [2021-01-07-不懂就问：项目-springboot-mysql-表关联字段设计方案？](https://www.v2ex.com/t/742532) ![](assets/new.png)  
-- [2021-01-07-问个小众领域问题，-AMD-的-ROCm-框架有谁用过，进来交流心得](https://www.v2ex.com/t/742531) ![](assets/new.png)  
-- [2021-01-07-深圳-顺丰科技后端开发内推—团队直招](https://www.v2ex.com/t/742530) ![](assets/new.png)  
-- [2021-01-07-如何优雅的使用上闲鱼-APP-在-PC-模式上使用？](https://www.v2ex.com/t/742528) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

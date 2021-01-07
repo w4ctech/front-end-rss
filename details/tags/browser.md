@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-06 23:59:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-07 00:53:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -17,4 +17,5 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-01-06-亿级流量峰值没在怕，“缓存”-技术来减压！](https://toutiao.io/k/2cnuog1) 
+- [2021-01-06-Chrome-或者新版-Edge-有什么好用下载插件?](https://www.v2ex.com/t/742371) 
+- [2021-01-06-nginx-动态缓存，如何让-nginx-服务器知道后端数据是否发生更新？](https://www.v2ex.com/t/742352) 

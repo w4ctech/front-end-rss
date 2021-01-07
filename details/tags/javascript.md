@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-07 14:57:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-07 15:08:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,9 +17,6 @@
 - [2021-01-07-「一次写过瘾」手写-Promise-全家桶-+-Generator-+-async/await](https://www.ershicimi.com/p/2e70c183d3569a0f8d06c23ce6db3a47) 
 - [2021-01-04-JS树结构操作：查找、遍历、筛选、树结构和列表结构相互转换](https://www.ershicimi.com/p/87d1cf2d765a38c5229fd7e468af810d) 
 - [2021-01-01-可视化拖拽组件库一些技术要点原理分析](https://www.ershicimi.com/p/903c07a14be084ea16836e588ddaf093) 
-- [2021-01-06-由浅入深，66条JavaScript面试知识点](https://www.ershicimi.com/p/eec16849413680811c8f8890fa322e3b) 
-- [2020-12-26-JS-实现网页截屏五种方法](https://www.ershicimi.com/p/031b7a2712726e3c20c2b7b990f888f4) 
-- [2020-12-21-进阶：玩转-CSS-变量](https://www.ershicimi.com/p/aaf45821a7e4404885bebc57e91f3688) 
 - [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
 - [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
 - [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 
@@ -32,9 +29,6 @@
 - [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 
 - [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
-- [2020-12-29-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/c63d28f5cb612614d2190525cfe5c768) 
-- [2020-12-25-JavaScript-里的奇葩知识](https://www.ershicimi.com/p/6b4ad28f598d887acafc0828d3f7fafc) 
-- [2020-12-23-12-个-GitHub-上超火的-JavaScript-奇技淫巧项目，找到写-JavaScript](https://www.ershicimi.com/p/e6e7b35863ae67a4201f03d4230f61e2) 
 - [2021-01-06-如何用js给老婆每天发情话](https://www.ershicimi.com/p/71dbaf431988a3b3c46dfb7095e02cc9) 
 - [2021-01-05-不产生新数组，删除数组里的重复元素](https://www.ershicimi.com/p/1d2c95320abec62f275d489fe6f9e2ae) 
 - [2021-01-04-携程&蘑菇街&bilibili：手写数组去重、扁平化函数](https://www.ershicimi.com/p/473d7d4964247db78785d723dee66d44) 
@@ -62,6 +56,5 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-01-07-给一个类-rxjs-的库写了篇介绍](https://www.v2ex.com/t/742679) 
-- [2021-01-07-H5-移动端调试全攻略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14091&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJg5RUr5wRBc9fRyCjnp7Jg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-01-07-14个-JavaScript-代码优化技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14084&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTGBlEk_7gjhgEARA7yxd5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-01-07-推荐-Spring-Boot-2-整合-OAuth2-组件，模拟第三方授权访问](https://toutiao.io/k/ibroeej) 
 - [2020-12-31-2020年物联网风云大事记，妈耶，今年的重磅事件竟然这么多！](https://www.ershicimi.com/p/31b18505cf1016f229c9d303ffe190bf) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-07 14:30:19，:rocket: 更新条数: +594， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-07 14:51:49，:rocket: 更新条数: +593， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -933,6 +933,9 @@
 </summary>
 
 
+- [2021-01-07-算力已经普遍过剩](https://www.v2ex.com/t/742708) ![](assets/new.png)  
+- [2021-01-07-登录时候的验证码太难输了](https://www.v2ex.com/t/742706) ![](assets/new.png)  
+- [2021-01-07-想在照片中把一个切了部分的圆，标记出来，并且计算这个切边的圆的旋转角度和它在照片中的位置信息，请问有什么好办法？](https://www.v2ex.com/t/742704) ![](assets/new.png)  
 - [2021-01-07-为什么前缀很复杂的子域名，也经常有访问记录](https://www.v2ex.com/t/742702) ![](assets/new.png)  
 - [2021-01-07-冰箱断电后不能立即通电吗，](https://www.v2ex.com/t/742700) ![](assets/new.png)  
 - [2021-01-07-实习-微软亚洲研究院-全球网络实时数据采集平台-Web-前端实习生](https://www.v2ex.com/t/742698) ![](assets/new.png)  
@@ -950,9 +953,6 @@
 - [2021-01-07-还有人收到-shopee-的人发的招聘邮件吗？](https://www.v2ex.com/t/742682) ![](assets/new.png)  
 - [2021-01-07-用黑果一段时间了，才发现-MacOS-不支持增量覆盖？](https://www.v2ex.com/t/742681) ![](assets/new.png)  
 - [2021-01-07-Focus-聚焦社区-v0.1.0-beta,-GoFrame-开源社区项目](https://www.v2ex.com/t/742680) ![](assets/new.png)  
-- [2021-01-07-给一个类-rxjs-的库写了篇介绍](https://www.v2ex.com/t/742679) ![](assets/new.png)  
-- [2021-01-07-访问控制框架之-Casbin.NET-简介](https://www.v2ex.com/t/742678) ![](assets/new.png)  
-- [2021-01-07-iMac-最近-crash-了好几次](https://www.v2ex.com/t/742677) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

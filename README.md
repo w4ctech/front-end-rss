@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-08 10:21:35，:rocket: 更新条数: +3361， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-08 11:00:23，:rocket: 更新条数: +358， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-01-08-1月7日全国新增新冠53例-河北本土33例](https://m.caixin.com/m/2021-01-08/101647945.html) ![](assets/new.png)  
-- [2021-01-08-河北新冠感染者破300-部分人群IgG抗体阳性](https://m.caixin.com/m/2021-01-08/101648225.html) ![](assets/new.png)  
-- [2021-01-08-河北疫情源头尚未完全查明-目前阳性病例是由一起疫情串起](http://m.china.caixin.com/m/2021-01-08/101648202.html) ![](assets/new.png)  
-- [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) ![](assets/new.png)  
-- [2021-01-08-多地劝返河北籍车辆-物流快递运输受影响](http://m.companies.caixin.com/m/2021-01-08/101648014.html) ![](assets/new.png)  
-- [2021-01-08-河北1月7日新增病例轨迹公布-有教师学生确诊](https://m.caixin.com/m/2021-01-08/101647991.html) ![](assets/new.png)  
-- [2021-01-08-北京155个宗教活动场所暂停对外开放、暂停集体宗教活动](http://m.china.caixin.com/m/2021-01-08/101648270.html) ![](assets/new.png)  
-- [2021-01-08-【境内疫情观察】河北新增33例本土病例（1月7日）](http://m.database.caixin.com/m/2021-01-08/101648182.html) ![](assets/new.png)  
-- [2021-01-08-大流行手记|1月7日：Moderna获欧盟审批上市-韩国启动监狱系统大规模检测](https://m.caixin.com/m/2021-01-08/101647995.html) ![](assets/new.png)  
-- [2021-01-07-石家庄全市人员、车辆均不得离市](http://m.china.caixin.com/m/2021-01-07/101647892.html) ![](assets/new.png)  
-- [2021-01-07-河北6日新增51例本地确诊病例和69例本地无症状感染者](https://m.caixin.com/m/2021-01-07/101647546.html) ![](assets/new.png)  
-- [2021-01-07-【境内疫情观察】河北新增51例本土病例（1月6日）](http://m.database.caixin.com/m/2021-01-07/101647693.html) ![](assets/new.png)  
-- [2021-01-07-大流行手记|1月6日：变种病毒引发疫苗减效忧虑-印尼下周接种疫苗](https://m.caixin.com/m/2021-01-07/101647511.html) ![](assets/new.png)  
-- [2021-01-07-解药|新冠重症患者何时使用激素，新研究尚待验证](https://m.caixin.com/m/2021-01-07/101647792.html) ![](assets/new.png)  
-- [2021-01-06-河北再增120例新冠感染-火车站关闭航班续减](https://m.caixin.com/m/2021-01-06/101647205.html) ![](assets/new.png)  
-- [2021-01-06-新疆昌吉报告1例河北石家庄输入无症状感染者](https://m.caixin.com/m/2021-01-06/101647272.html) ![](assets/new.png)  
-- [2021-01-06-杭州市发现一例境外输入复阳无症状感染者](https://m.caixin.com/m/2021-01-06/101647219.html) ![](assets/new.png)  
-- [2021-01-06-【境内疫情观察】河北新增20例本土病例（1月5日）](http://m.database.caixin.com/m/2021-01-06/101647233.html) ![](assets/new.png)  
-- [2021-01-06-大流行手记|1月5日：美国新冠住院人数创新高-多国疫苗供应紧张](http://m.international.caixin.com/m/2021-01-06/101647034.html) ![](assets/new.png)  
-- [2021-01-05-香港再现公立医院院内感染-将加强到访患者检测](https://m.caixin.com/m/2021-01-05/101646916.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -544,6 +524,17 @@
 </summary>
 
 
+- [2021-01-08-单从界面，你能看得出这个个什么-App-吗？](https://www.v2ex.com/t/743132) ![](assets/new.png)  
+- [2021-01-08-像淘宝、拼多多、京东这类在线卖货的平台是不是加剧了区域发展不平衡？](https://www.v2ex.com/t/743131) ![](assets/new.png)  
+- [2021-01-08-迫于寒潮到来，深圳龙岗，一只流浪猫咪-求收养/非卖](https://www.v2ex.com/t/743130) ![](assets/new.png)  
+- [2021-01-08-我这个配置可以玩《赛博朋克-2077》么？](https://www.v2ex.com/t/743129) ![](assets/new.png)  
+- [2021-01-08-开源-RDPBlocker-预防-RDP-暴力破解密码的小工具](https://www.v2ex.com/t/743127) ![](assets/new.png)  
+- [2021-01-08-30-收个芒果-tv](https://www.v2ex.com/t/743126) ![](assets/new.png)  
+- [2021-01-08-北京西土城-内推-SLG-游戏公司，包吃不包住，用行动证明自己爱国](https://www.v2ex.com/t/743125) ![](assets/new.png)  
+- [2021-01-08-Pandas-的性能问题](https://www.v2ex.com/t/743124) ![](assets/new.png)  
+- [2021-01-08-听说大厂都在高薪招人工智能岗？](https://www.v2ex.com/t/743122) ![](assets/new.png)  
+- [2021-01-08-IDEA-有类似-GeneratePropertyNameConstant-的插件吗?](https://www.v2ex.com/t/743121) ![](assets/new.png)  
+- [2021-01-08-IOS14.3-Safari-Quick-Website-Search](https://www.v2ex.com/t/743120) ![](assets/new.png)  
 - [2021-01-08-40-收-qq-音乐-年卡](https://www.v2ex.com/t/743119) ![](assets/new.png)  
 - [2021-01-08-2021-了,-求好的-js-入门教程!](https://www.v2ex.com/t/743117) ![](assets/new.png)  
 - [2021-01-08-有大佬知道企业付款到零钱的接口商吗](https://www.v2ex.com/t/743116) ![](assets/new.png)  
@@ -553,17 +544,6 @@
 - [2021-01-08-2021-了,-有没有好的-js-入门教程?](https://www.v2ex.com/t/743111) ![](assets/new.png)  
 - [2021-01-08-classmethod-可以来调用类的属性，类的方法，实例化对象](https://www.v2ex.com/t/743110) ![](assets/new.png)  
 - [2021-01-08-SQL-Server-咨询](https://www.v2ex.com/t/743108) ![](assets/new.png)  
-- [2021-01-08-《互联网信息服务管理办法》修订征求意见](https://www.v2ex.com/t/743106) ![](assets/new.png)  
-- [2021-01-08-闭包和对象的区别?](https://www.v2ex.com/t/743103) ![](assets/new.png)  
-- [2021-01-08-淘宝天猫海外-P6/P7--Java-工程师招聘-年前面试---年后入职](https://www.v2ex.com/t/743100) ![](assets/new.png)  
-- [2021-01-08-v-站的程序员喜欢用什么编程语言](https://www.v2ex.com/t/743097) ![](assets/new.png)  
-- [2021-01-08-柴油加热器或其他燃料的排放数据、热效率、法规、续航打折程度,-有啥结论么?](https://www.v2ex.com/t/743092) ![](assets/new.png)  
-- [2021-01-08-curl_multi-很好用，开到-500-个，除了-cpu-变成-99%，运行十分正常，是多线程还是多进程，都用到了什么技术啊？](https://www.v2ex.com/t/743090) ![](assets/new.png)  
-- [2021-01-08-小硕寒假实习求大佬们捞，最好是数据挖掘岗，谢谢！](https://www.v2ex.com/t/743086) ![](assets/new.png)  
-- [2021-01-08-M1-版-Mac-有没有可能做出运行-x86_64-虚拟机的解决方案](https://www.v2ex.com/t/743085) ![](assets/new.png)  
-- [2021-01-08-2021-年,-最好的电视盒子系统是哪个](https://www.v2ex.com/t/743083) ![](assets/new.png)  
-- [2021-01-08-两个程序之间共享一些信息有哪些方式？](https://www.v2ex.com/t/743080) ![](assets/new.png)  
-- [2021-01-08-目前有哪些电视盒子必装应用](https://www.v2ex.com/t/743079) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -586,6 +566,26 @@
 </summary>
 
 
+- [2021-01-08-CTO-们邀请你加入码农周刊-VIP，升职加薪不再难！](https://toutiao.io/k/z9xjxc0) ![](assets/new.png)  
+- [2021-01-08-如何写出一篇技术博客](https://toutiao.io/k/gaqteq9) ![](assets/new.png)  
+- [2021-01-08-揭秘-QUIC-的性能与安全](https://toutiao.io/k/c0c23kp) ![](assets/new.png)  
+- [2021-01-08-追查闪退的六个日与夜](https://toutiao.io/k/htham98) ![](assets/new.png)  
+- [2021-01-08-抓包神器-Wireshark，帮你快速定位线上网络故障（一）](https://toutiao.io/k/5b2dh6z) ![](assets/new.png)  
+- [2021-01-08-url-的正则表达式-path-to-regexp-在-Angular-中的使用](https://toutiao.io/k/qcn26ly) ![](assets/new.png)  
+- [2021-01-08-前端进阶不可错过的-10-个-GitHub-仓库](https://toutiao.io/k/2eo05hp) ![](assets/new.png)  
+- [2021-01-08-Kubernetes：玩转-Pod-滚动更新](https://toutiao.io/k/qma518i) ![](assets/new.png)  
+- [2021-01-08-MySQL-慢查询（上）：你知道为啥会慢么？](https://toutiao.io/k/32satxx) ![](assets/new.png)  
+- [2021-01-08-信息架构和零代码应用搭建](https://toutiao.io/k/nn2qsjv) ![](assets/new.png)  
+- [2021-01-08-抖音：抖店开放平台-SDK-开源](https://toutiao.io/k/ehui22l) ![](assets/new.png)  
+- [2021-01-08-译-React-服务端组件](https://toutiao.io/k/ygkbouu) ![](assets/new.png)  
+- [2021-01-08-Spring-Cloud-Alibaba-微服务运维（一）：集成-SkyWalking](https://toutiao.io/k/tm9ik2g) ![](assets/new.png)  
+- [2021-01-08-优化总结：有哪些-App-启动提速方法？](https://toutiao.io/k/qkw9vd3) ![](assets/new.png)  
+- [2021-01-08-通用-WebAssembly-运行时：Wasmer-1.0-GA](https://toutiao.io/k/f4m7kc2) ![](assets/new.png)  
+- [2021-01-08-图文并茂剖析-Netty-编解码以及背后的设计理念](https://toutiao.io/k/omsapgi) ![](assets/new.png)  
+- [2021-01-08-译-伯克利谈-Serverless：服务器的存在，是云计算的大问题](https://toutiao.io/k/h241c55) ![](assets/new.png)  
+- [2021-01-08-瑞云创始人汪忠田：售后服务-SaaS-市场拓荒者](https://toutiao.io/k/bven9jm) ![](assets/new.png)  
+- [2021-01-08-业务场景下数据采集机制和策略](https://toutiao.io/k/uf7iqgz) ![](assets/new.png)  
+- [2021-01-08-MySQL-update-语句和原数据一样会更新么](https://toutiao.io/k/g43l1i0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

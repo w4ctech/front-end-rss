@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-08 18:34:40，:rocket: 更新条数: +828， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-08 19:03:44，:rocket: 更新条数: +850， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -76,6 +76,10 @@
 </summary>
 
 
+- [2021-01-08-美国单日死亡人数破-4000](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTLNPqyuKP5Kwq4e6WB8r210108&isfromapp=1) ![](assets/new.png)  
+- [2021-01-08-非必要不出市！非必要不进京！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidF3bzNaajtBFKguGyMRP210108&isfromapp=1) ![](assets/new.png)  
+- [2021-01-08-警惕！河北本轮疫情呈现三大特点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVdN7kh20zaJOnh8f0lyk210108&isfromapp=1) ![](assets/new.png)  
+- [2021-01-08-7-日新增新冠肺炎本土确诊-37-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPGAPwbhpN7DFyGNPBoBN210108&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -938,6 +942,26 @@
 </summary>
 
 
+- [2021-01-06-为什么民航飞机不给乘客配降落伞？](https://www.ershicimi.com/p/0b1e81de9c21db2b2fe73f421e49ee49) ![](assets/new.png)  
+- [2021-01-06-拨云见日，带你科学认识宫颈癌](https://www.ershicimi.com/p/fc1ad493897f24663313ce7524aa166e) ![](assets/new.png)  
+- [2021-01-06-为啥酒店浴室都要弄成透明的？](https://www.ershicimi.com/p/6b344d0dca9bde202eabeded69f9a12d) ![](assets/new.png)  
+- [2021-01-06-知乎故事-|-你都遇到过什么三观炸裂的事情？](https://www.ershicimi.com/p/b47366e32b0a58f3bff73b76658cef30) ![](assets/new.png)  
+- [2021-01-05-我国超一半人感染这种细菌，其实做到这-5-点就可有效避免感染](https://www.ershicimi.com/p/90aece3043d7ff0d9e93350c327d47d8) ![](assets/new.png)  
+- [2021-01-05-是什么打破你对纯电动汽车的固有认知，产生信任感？](https://www.ershicimi.com/p/45c759c7f80d82d1797a77cad1de3805) ![](assets/new.png)  
+- [2021-01-05-知乎故事-|-你在不经意间看见过什么不该看的事情？](https://www.ershicimi.com/p/21aef087f941606d702c3f12210d6ac0) ![](assets/new.png)  
+- [2021-01-04-网传拼多多-23-岁员工加班后猝死，拼多多需要承担哪些责任？](https://www.ershicimi.com/p/47b86ebdc219ed111ca6b5404e841b4f) ![](assets/new.png)  
+- [2021-01-04-知乎-2020｜「好物推荐官」榜单发布](https://www.ershicimi.com/p/11f362b0f4a678c784d6eb3c9b8fca34) ![](assets/new.png)  
+- [2021-01-04-知乎故事-|-有哪些好气又好笑的复仇故事？](https://www.ershicimi.com/p/41cb3194f88967bb01788d6c24527e12) ![](assets/new.png)  
+- [2021-01-03-本周知乎热榜-|-《心灵奇旅》热映，郭敬明于正公开道歉，杨笠脱口秀引争议](https://www.ershicimi.com/p/f520570041e20cf8292c2228e492d9b8) ![](assets/new.png)  
+- [2021-01-03-知乎故事-|-你在学校嗑过自己班里的-CP-吗？](https://www.ershicimi.com/p/af1e05a15c47a9cf39e8b7c39425cf37) ![](assets/new.png)  
+- [2021-01-01-知乎神吐槽-|-如何用四个字形容你上一段感情？](https://www.ershicimi.com/p/ce30fd3046de7014124d0132216fdf25) ![](assets/new.png)  
+- [2021-01-01-知乎故事-|-你的导师对你说过什么让你至今难以忘怀的话？](https://www.ershicimi.com/p/6489c90f45f461266b1cc960777ba9b6) ![](assets/new.png)  
+- [2020-12-31-我们用一年的时间，写下了这篇信息含量最大的文章](https://www.ershicimi.com/p/5c2132aefbc1b3e367f3e3ceafe28df4) ![](assets/new.png)  
+- [2020-12-31-【请查收】-你的-2020-年度总结](https://www.ershicimi.com/p/ed661028b11d060c6d56422902ed481f) ![](assets/new.png)  
+- [2020-12-31-新华社-X-知乎-|-2020，36-亿数据绘出这条线](https://www.ershicimi.com/p/26fe96248c9a52b0550bd241ef0b09b6) ![](assets/new.png)  
+- [2020-12-31-知乎故事-|-生活中有哪些让你怦然心动的时刻？](https://www.ershicimi.com/p/8b7324a9fb28fbf4ad90557ce2d37d97) ![](assets/new.png)  
+- [2020-12-30-男生朝同学泼化学试剂？！如果皮肤接触到了浓硫酸，一定要立刻做这两件事](https://www.ershicimi.com/p/714d800ef2df3b7936a3a577dc67533a) ![](assets/new.png)  
+- [2020-12-30-4-个走路减肥的技巧，边走边瘦不是梦](https://www.ershicimi.com/p/522389048f5c6206a6ab5cc06b398f35) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -949,11 +973,9 @@
 </summary>
 
 
-- [2021-01-08-HelloWorldMC，北美最大的华人我的世界（minecraft）服务器招人啦！](https://www.v2ex.com/t/743225) ![](assets/new.png)  
 - [2021-01-08-求问-macos-这内存占用是个什么道理？](https://www.v2ex.com/t/743224) ![](assets/new.png)  
 - [2021-01-08-想找一个开源的多人联机的-web-游戏项目](https://www.v2ex.com/t/743223) ![](assets/new.png)  
 - [2021-01-08-HelloWorldMC，程序员的我的世界（minecraft）服务器！欢迎加入我们！](https://www.v2ex.com/t/743222) ![](assets/new.png)  
-- [2021-01-08-前女友要结婚了-我该如何挽回她？](https://www.v2ex.com/t/743221) ![](assets/new.png)  
 - [2021-01-08-求-React-大佬-如何在浏览器控制台通过-JS-或-JQ-触发-React-的数据修改事件，并修改变量内容](https://www.v2ex.com/t/743219) ![](assets/new.png)  
 - [2021-01-08-使用可变长度编码作为内部形式的字符串，如何实现访问某个具体位置的字符？](https://www.v2ex.com/t/743215) ![](assets/new.png)  
 - [2021-01-08-我这一生都是坚定的唯物主义者，唯有你我希望有来生](https://www.v2ex.com/t/743211) ![](assets/new.png)  
@@ -969,6 +991,8 @@
 - [2021-01-08-Alfred-4-powerpack-值得买吗？](https://www.v2ex.com/t/743198) ![](assets/new.png)  
 - [2021-01-08-请问游戏硬盘如何搭建？](https://www.v2ex.com/t/743197) ![](assets/new.png)  
 - [2021-01-08-为什么正则表达式里的\s-能匹配空字符串呢？-\s-的解释不是“匹配任何空白字符，包括空格、制表符、换页符等等吗”？](https://www.v2ex.com/t/743194) ![](assets/new.png)  
+- [2021-01-08-三星账户要求强制绑定手机号，潘多拉盒子打开了关不上](https://www.v2ex.com/t/743193) ![](assets/new.png)  
+- [2021-01-08-请教用云服务器-ECS-下载大文件方法](https://www.v2ex.com/t/743192) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1026,8 +1050,8 @@
 - [2021-01-08-优化总结：有哪些-App-启动提速方法？](https://toutiao.io/k/qkw9vd3) ![](assets/new.png)  
 - [2021-01-08-抖音：抖店开放平台-SDK-开源](https://toutiao.io/k/ehui22l) ![](assets/new.png)  
 - [2021-01-08-图文并茂剖析-Netty-编解码以及背后的设计理念](https://toutiao.io/k/omsapgi) ![](assets/new.png)  
-- [2021-01-08-通用-WebAssembly-运行时：Wasmer-1.0-GA](https://toutiao.io/k/f4m7kc2) ![](assets/new.png)  
 - [2021-01-08-译-伯克利谈-Serverless：服务器的存在，是云计算的大问题](https://toutiao.io/k/h241c55) ![](assets/new.png)  
+- [2021-01-08-通用-WebAssembly-运行时：Wasmer-1.0-GA](https://toutiao.io/k/f4m7kc2) ![](assets/new.png)  
 - [2021-01-08-瑞云创始人汪忠田：售后服务-SaaS-市场拓荒者](https://toutiao.io/k/bven9jm) ![](assets/new.png)  
 - [2021-01-08-业务场景下数据采集机制和策略](https://toutiao.io/k/uf7iqgz) ![](assets/new.png)  
 - [2021-01-08-MySQL-update-语句和原数据一样会更新么](https://toutiao.io/k/g43l1i0) ![](assets/new.png)  

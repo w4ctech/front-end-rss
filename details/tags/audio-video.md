@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-08 00:57:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-08 01:29:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -12,3 +12,5 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2021-01-08-京东联合会员，出腾讯视频的注意](https://www.v2ex.com/t/742753) 
+- [2021-01-07-b-站西瓜视频嵌入-iframe-视频能自动播放吗](https://www.v2ex.com/t/742735) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-08 03:11:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-08 03:33:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,5 +15,6 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-01-07-Spring-Boot-解决跨域问题的-3-种方案！](https://www.ershicimi.com/p/840e630e0e3ecfcbfbf976b9219f9e5f) 
 - [2021-01-05-全球第二大浏览器升级！内存/CPU占用暴降](https://www.ershicimi.com/p/cffbbc29f86b228e242ea56364b23b87) 
+- [2021-01-07-http入门笔记2HTTP请求和响应](https://juejin.im/post/6915073101466173447) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-01-08-Postgre-有办法迁移到-TiDB-嘛](https://www.v2ex.com/t/742838) 
+- [2021-01-08-有没有将-HttpServletRequest-转成-cURL-格式文本的工具类](https://www.v2ex.com/t/742888) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-08 11:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-08 11:33:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,6 +7,13 @@
 
 
 
+- [2020-12-31-【第2164期】在-Node.js-中避免内存泄漏：性能最佳实践](https://www.ershicimi.com/p/25f59f18c2f3cabe5bcb26eed7632105) 
+- [2021-01-01-实战Node.js-实现抢票小工具&短信通知提醒](https://www.ershicimi.com/p/07c568530cf8001c8e1033f73d3838ae) 
+- [2021-01-06-使用NodeJS实现JWT原理](https://www.ershicimi.com/p/c906f969d3662bf518968a440b3e4d8f) 
+- [2021-01-05-Node开发实践总结-定时脚本的设计与实现](https://www.ershicimi.com/p/e2cf701d59c31ab086908edcee1d3e8e) 
+- [2021-01-04-Node.js-搭建-HTTPS-服务器](https://www.ershicimi.com/p/c2cb9ae6cb74799ebaf8fb92efa5abf2) 
+- [2020-12-30-双十一大促，Node.js-做了什么？](https://www.ershicimi.com/p/b54f0097e36d57eb043551e42fb115a0) 
+- [2020-12-30-Node.js-开发实践，前端工程师的MVP利器](https://www.ershicimi.com/p/fdaa9395bb7f24003894a46648beb01a) 
 - [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) 
 - [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) 
 - [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 

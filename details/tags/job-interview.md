@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-09 04:08:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-09 04:31:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -29,5 +29,6 @@
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/196a7fb4fe0dda8d044135599df6e681) 
 - [2021-01-08-2021-年前端应该如何招聘](https://juejin.im/post/6915587452535046151) 
+- [2021-01-09-OPPO-开源团队招聘](https://www.v2ex.com/t/743286) 
 - [2021-01-09-HR招聘的10条“黑话”，能听懂的都是老司机-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14095&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgGqBAWfC_Z8Sd8GiSCaF7A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-01-09-推荐-万字攻略，详解腾讯面试](https://toutiao.io/k/2b0b1bw) 

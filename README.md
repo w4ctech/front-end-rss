@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-09 20:55:16，:rocket: 更新条数: +3872， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-09 21:10:26，:rocket: 更新条数: +3871， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -977,7 +977,6 @@
 - [2021-01-09-有用-tinder-的吗，为什么新号码注册秒封啊](https://www.v2ex.com/t/743461) ![](assets/new.png)  
 - [2021-01-09-新发布的帖子看不到，个人页面显示-4-天前](https://www.v2ex.com/t/743460) ![](assets/new.png)  
 - [2021-01-09-又熬夜到这个点了，想死](https://www.v2ex.com/t/743458) ![](assets/new.png)  
-- [2021-01-09-土区-Netflix-有一个车位，来个兄弟！月付-15](https://www.v2ex.com/t/743457) ![](assets/new.png)  
 - [2021-01-09-AirPods-Pro-换新成功](https://www.v2ex.com/t/743455) ![](assets/new.png)  
 - [2021-01-09-在-Apple-Store-遇到-799-换电池的](https://www.v2ex.com/t/743453) ![](assets/new.png)  
 - [2021-01-09-一款纪念日应用](https://www.v2ex.com/t/743452) ![](assets/new.png)  
@@ -993,6 +992,7 @@
 - [2021-01-09-请问如何界定帖子是否推广？](https://www.v2ex.com/t/743438) ![](assets/new.png)  
 - [2021-01-09-google-voice-已绑定美国手机号，但只要选号就显示“出了点问题。请重试。”导致无法选号。怎么解决啊？](https://www.v2ex.com/t/743437) ![](assets/new.png)  
 - [2021-01-09-记录丽江之旅](https://www.v2ex.com/t/743432) ![](assets/new.png)  
+- [2021-01-09-分享一个-vue-开发的即时通讯应用](https://www.v2ex.com/t/743431) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1045,16 +1045,16 @@
 - [2021-01-09-DeFi-闪电贷攻防之战（Hacking-Time-议题）](https://toutiao.io/k/vhzj0bv) ![](assets/new.png)  
 - [2021-01-09-如何实现-ASP.NET-Core-WebAPI-的版本化](https://toutiao.io/k/3suf1ep) ![](assets/new.png)  
 - [2021-01-09-词向量](https://toutiao.io/k/zhehgcc) ![](assets/new.png)  
-- [2021-01-09-推荐-Spring：我是如何解决循环依赖的？](https://toutiao.io/k/ib9ck31) ![](assets/new.png)  
-- [2021-01-09-推荐-2020-年，我在编程时遇见的几个好物](https://toutiao.io/k/ezq0qnu) ![](assets/new.png)  
+- [2021-01-09-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西](https://toutiao.io/k/im0exw3) ![](assets/new.png)  
 - [2021-01-09-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) ![](assets/new.png)  
-- [2021-01-09-推荐-JVM-基础，快进来复习复习吧](https://toutiao.io/k/snunrr7) ![](assets/new.png)  
-- [2021-01-09-推荐-工程师职级胜任力框架](https://toutiao.io/k/rxxemhb) ![](assets/new.png)  
-- [2021-01-09-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
-- [2021-01-09-推荐-5-分钟掌握-Spring-Boot-自动配置原理](https://toutiao.io/k/8p5funr) ![](assets/new.png)  
-- [2021-01-09-推荐-高并发服务遇-Redis-瓶颈引发的事故](https://toutiao.io/k/mg8zd72) ![](assets/new.png)  
-- [2021-01-09-推荐-万字攻略，详解腾讯面试](https://toutiao.io/k/2b0b1bw) ![](assets/new.png)  
 - [2021-01-09-推荐-啥，听说你用了-Spring-Boot，但是开发的接口还在裸奔？](https://toutiao.io/k/gtkn1lp) ![](assets/new.png)  
+- [2021-01-09-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
+- [2021-01-09-推荐-肝了-3-版才满意：分布式系统之-CAP-理论，我们对它的理解和误解](https://toutiao.io/k/q2fkii4) ![](assets/new.png)  
+- [2021-01-09-推荐-求你了，别再随便打日志了，教你动态修改日志级别](https://toutiao.io/k/8bity1f) ![](assets/new.png)  
+- [2021-01-09-推荐-2020-年，我在编程时遇见的几个好物](https://toutiao.io/k/ezq0qnu) ![](assets/new.png)  
+- [2021-01-09-推荐-JVM-基础，快进来复习复习吧](https://toutiao.io/k/snunrr7) ![](assets/new.png)  
+- [2021-01-09-推荐-5-分钟掌握-Spring-Boot-自动配置原理](https://toutiao.io/k/8p5funr) ![](assets/new.png)  
+- [2021-01-09-推荐-当年，我的架构师之路差点完蛋，幸亏了它](https://toutiao.io/k/10zqtkl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

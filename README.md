@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-09 00:01:34，:rocket: 更新条数: +3425， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-09 01:26:37，:rocket: 更新条数: +3414， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2021-01-08-1月7日全国新增新冠53例-河北本土33例](https://m.caixin.com/m/2021-01-08/101647945.html) ![](assets/new.png)  
+- [2021-01-09-1月8日新增新冠33例-河北本土14例](https://m.caixin.com/m/2021-01-09/101648490.html) ![](assets/new.png)  
 - [2021-01-08-河北进京管控升级-通勤人群需持“三证”进京](http://m.companies.caixin.com/m/2021-01-08/101648458.html) ![](assets/new.png)  
 - [2021-01-08-石家庄藁城区共测出阳性患者259人-全员检测阳性率0.038%](https://m.caixin.com/m/2021-01-08/101648350.html) ![](assets/new.png)  
 - [2021-01-08-河北新冠感染者破300-部分人群IgG抗体阳性](https://m.caixin.com/m/2021-01-08/101648225.html) ![](assets/new.png)  
@@ -544,6 +544,12 @@
 </summary>
 
 
+- [2021-01-09-公司快速扩张的混乱](https://www.v2ex.com/t/743238) ![](assets/new.png)  
+- [2021-01-09-新手频道，敬请指导-王者荣耀视频](https://www.v2ex.com/t/743236) ![](assets/new.png)  
+- [2021-01-09-2021-了,-求好的-React-入门教程!](https://www.v2ex.com/t/743235) ![](assets/new.png)  
+- [2021-01-09-Vue2-项目怎么整合-esbuild-loader，研究了很久还是失败](https://www.v2ex.com/t/743232) ![](assets/new.png)  
+- [2021-01-09-研究一个路由器行为的问题](https://www.v2ex.com/t/743231) ![](assets/new.png)  
+- [2021-01-09-lcd-顶级处理器-大电池-安卓机-有哪些？](https://www.v2ex.com/t/743230) ![](assets/new.png)  
 - [2021-01-08-请问手上闲置的-iPad-air-初代有什么好的利用/出手渠道吗？](https://www.v2ex.com/t/743229) ![](assets/new.png)  
 - [2021-01-08-中国人不会日语，怎么在日本看病](https://www.v2ex.com/t/743227) ![](assets/new.png)  
 - [2021-01-08-如何实现-Linux-中的直接在当前文件夹打开-Terminal-的功能](https://www.v2ex.com/t/743226) ![](assets/new.png)  
@@ -558,12 +564,6 @@
 - [2021-01-08-m1-macbook-pro-拖影严重，老哥们有这种情况吗？](https://www.v2ex.com/t/743206) ![](assets/new.png)  
 - [2021-01-08-Adobe-LR、PS-应该选择商店版还是官网版？](https://www.v2ex.com/t/743205) ![](assets/new.png)  
 - [2021-01-08-Xiami-Exporter-虾米数据导出和音乐下载工具](https://www.v2ex.com/t/743204) ![](assets/new.png)  
-- [2021-01-08-实战：-150-行-Go-实现高性能加密隧道](https://www.v2ex.com/t/743203) ![](assets/new.png)  
-- [2021-01-08-真实姓名属于个人隐私吗？](https://www.v2ex.com/t/743201) ![](assets/new.png)  
-- [2021-01-08-哪位大佬如何下载-wx-小程序中的音频-付费也可以](https://www.v2ex.com/t/743200) ![](assets/new.png)  
-- [2021-01-08-接受大佬们的建议，上了-ubnt-全家桶了，求大佬教配置怎么设置比较好啊，类似一些什么自动优化网络开不开之类的设置](https://www.v2ex.com/t/743199) ![](assets/new.png)  
-- [2021-01-08-Alfred-4-powerpack-值得买吗？](https://www.v2ex.com/t/743198) ![](assets/new.png)  
-- [2021-01-08-请问游戏硬盘如何搭建？](https://www.v2ex.com/t/743197) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -606,26 +606,26 @@
 </summary>
 
 
-- [2021-01-09-CTO-们邀请你加入码农周刊-VIP，升职加薪不再难！](https://toutiao.io/k/z9xjxc0) ![](assets/new.png)  
-- [2021-01-09-如何写出一篇技术博客](https://toutiao.io/k/gaqteq9) ![](assets/new.png)  
-- [2021-01-09-揭秘-QUIC-的性能与安全](https://toutiao.io/k/c0c23kp) ![](assets/new.png)  
-- [2021-01-09-追查闪退的六个日与夜](https://toutiao.io/k/htham98) ![](assets/new.png)  
-- [2021-01-09-抓包神器-Wireshark，帮你快速定位线上网络故障（一）](https://toutiao.io/k/5b2dh6z) ![](assets/new.png)  
-- [2021-01-09-url-的正则表达式-path-to-regexp-在-Angular-中的使用](https://toutiao.io/k/qcn26ly) ![](assets/new.png)  
-- [2021-01-09-前端进阶不可错过的-10-个-GitHub-仓库](https://toutiao.io/k/2eo05hp) ![](assets/new.png)  
-- [2021-01-09-Kubernetes：玩转-Pod-滚动更新](https://toutiao.io/k/qma518i) ![](assets/new.png)  
-- [2021-01-09-信息架构和零代码应用搭建](https://toutiao.io/k/nn2qsjv) ![](assets/new.png)  
-- [2021-01-09-MySQL-慢查询（上）：你知道为啥会慢么？](https://toutiao.io/k/32satxx) ![](assets/new.png)  
-- [2021-01-09-Spring-Cloud-Alibaba-微服务运维（一）：集成-SkyWalking](https://toutiao.io/k/tm9ik2g) ![](assets/new.png)  
-- [2021-01-09-译-React-服务端组件](https://toutiao.io/k/ygkbouu) ![](assets/new.png)  
-- [2021-01-09-优化总结：有哪些-App-启动提速方法？](https://toutiao.io/k/qkw9vd3) ![](assets/new.png)  
-- [2021-01-09-图文并茂剖析-Netty-编解码以及背后的设计理念](https://toutiao.io/k/omsapgi) ![](assets/new.png)  
-- [2021-01-09-译-伯克利谈-Serverless：服务器的存在，是云计算的大问题](https://toutiao.io/k/h241c55) ![](assets/new.png)  
-- [2021-01-09-通用-WebAssembly-运行时：Wasmer-1.0-GA](https://toutiao.io/k/f4m7kc2) ![](assets/new.png)  
-- [2021-01-09-抖音：抖店开放平台-SDK-开源](https://toutiao.io/k/ehui22l) ![](assets/new.png)  
-- [2021-01-09-瑞云创始人汪忠田：售后服务-SaaS-市场拓荒者](https://toutiao.io/k/bven9jm) ![](assets/new.png)  
-- [2021-01-09-业务场景下数据采集机制和策略](https://toutiao.io/k/uf7iqgz) ![](assets/new.png)  
-- [2021-01-09-MySQL-update-语句和原数据一样会更新么](https://toutiao.io/k/g43l1i0) ![](assets/new.png)  
+- [2021-01-09-Java-并发编程之-JMM-&-volatile-详解](https://toutiao.io/k/imzo6m8) ![](assets/new.png)  
+- [2021-01-09-从零打造一款轻量且天然支持-SSR-的-CMS-系统：simpleCMS](https://toutiao.io/k/xino5n2) ![](assets/new.png)  
+- [2021-01-09-视频人员重识别：关系引导空间注意力-+-时间特征提取模型](https://toutiao.io/k/7yaycao) ![](assets/new.png)  
+- [2021-01-09-MySQL-索引优化](https://toutiao.io/k/wwi18sc) ![](assets/new.png)  
+- [2021-01-09-如何实现-ASP.NET-Core-WebAPI-的版本化](https://toutiao.io/k/3suf1ep) ![](assets/new.png)  
+- [2021-01-09-性能优化那些事](https://toutiao.io/k/ml4lzrd) ![](assets/new.png)  
+- [2021-01-09-加班是努力还是表演？](https://toutiao.io/k/ezqj4ad) ![](assets/new.png)  
+- [2021-01-09-DeFi-闪电贷攻防之战（Hacking-Time-议题）](https://toutiao.io/k/vhzj0bv) ![](assets/new.png)  
+- [2021-01-09-一个简约、漂亮的日期时间选择器](https://toutiao.io/k/5yr798q) ![](assets/new.png)  
+- [2021-01-09-词向量](https://toutiao.io/k/zhehgcc) ![](assets/new.png)  
+- [2021-01-09-推荐-广告系统架构解密](https://toutiao.io/k/3ydgnwy) ![](assets/new.png)  
+- [2021-01-09-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
+- [2021-01-09-推荐-当年，我的架构师之路差点完蛋，幸亏了它](https://toutiao.io/k/10zqtkl) ![](assets/new.png)  
+- [2021-01-09-推荐-工程师职级胜任力框架](https://toutiao.io/k/rxxemhb) ![](assets/new.png)  
+- [2021-01-09-推荐-Spring：我是如何解决循环依赖的？](https://toutiao.io/k/ib9ck31) ![](assets/new.png)  
+- [2021-01-09-推荐-啥，听说你用了-Spring-Boot，但是开发的接口还在裸奔？](https://toutiao.io/k/gtkn1lp) ![](assets/new.png)  
+- [2021-01-09-推荐-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/231rpaj) ![](assets/new.png)  
+- [2021-01-09-推荐-肝了-3-版才满意：分布式系统之-CAP-理论，我们对它的理解和误解](https://toutiao.io/k/q2fkii4) ![](assets/new.png)  
+- [2021-01-09-推荐-支撑-700-亿数据量的-ClickHouse-高可用架构实践](https://toutiao.io/k/f5v4m55) ![](assets/new.png)  
+- [2021-01-09-推荐-求你了，别再随便打日志了，教你动态修改日志级别](https://toutiao.io/k/8bity1f) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

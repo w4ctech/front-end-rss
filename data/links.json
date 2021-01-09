@@ -5,9 +5,9 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "1月7日全国新增新冠53例 河北本土33例",
-        "link": "https://m.caixin.com/m/2021-01-08/101647945.html",
-        "date": "2021-01-08"
+        "title": "1月8日新增新冠33例 河北本土14例",
+        "link": "https://m.caixin.com/m/2021-01-09/101648490.html",
+        "date": "2021-01-09"
       },
       {
         "title": "河北进京管控升级 通勤人群需持“三证”进京",
@@ -16922,6 +16922,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "公司快速扩张的混乱",
+        "link": "https://www.v2ex.com/t/743238",
+        "date": "2021-01-09"
+      },
+      {
+        "title": "新手频道，敬请指导-王者荣耀视频",
+        "link": "https://www.v2ex.com/t/743236",
+        "date": "2021-01-09"
+      },
+      {
+        "title": "2021 了, 求好的 React 入门教程!",
+        "link": "https://www.v2ex.com/t/743235",
+        "date": "2021-01-09"
+      },
+      {
+        "title": "Vue2 项目怎么整合 esbuild-loader，研究了很久还是失败",
+        "link": "https://www.v2ex.com/t/743232",
+        "date": "2021-01-09"
+      },
+      {
+        "title": "研究一个路由器行为的问题",
+        "link": "https://www.v2ex.com/t/743231",
+        "date": "2021-01-09"
+      },
+      {
+        "title": "lcd 顶级处理器 大电池 安卓机 有哪些？",
+        "link": "https://www.v2ex.com/t/743230",
+        "date": "2021-01-09"
+      },
+      {
         "title": "请问手上闲置的 iPad air 初代有什么好的利用/出手渠道吗？",
         "link": "https://www.v2ex.com/t/743229",
         "date": "2021-01-08"
@@ -16997,11 +17027,6 @@
         "date": "2021-01-08"
       },
       {
-        "title": "真实姓名属于个人隐私吗？",
-        "link": "https://www.v2ex.com/t/743201",
-        "date": "2021-01-08"
-      },
-      {
         "title": "哪位大佬如何下载 wx 小程序中的音频 付费也可以",
         "link": "https://www.v2ex.com/t/743200",
         "date": "2021-01-08"
@@ -17044,36 +17069,6 @@
       {
         "title": "市面上的物联卡是怎么实现的。",
         "link": "https://www.v2ex.com/t/743189",
-        "date": "2021-01-08"
-      },
-      {
-        "title": "为啥 LG UltraFine 4K 有 2 个雷雳 3 接口， 5K 贵出那么多却只有一个？",
-        "link": "https://www.v2ex.com/t/743188",
-        "date": "2021-01-08"
-      },
-      {
-        "title": "来，晒一晒首页高频应用～",
-        "link": "https://www.v2ex.com/t/743187",
-        "date": "2021-01-08"
-      },
-      {
-        "title": "为什么深圳社保和公积金如此突出",
-        "link": "https://www.v2ex.com/t/743186",
-        "date": "2021-01-08"
-      },
-      {
-        "title": "路上被行人扎出血了, 大家看看如何避免",
-        "link": "https://www.v2ex.com/t/743185",
-        "date": "2021-01-08"
-      },
-      {
-        "title": "装修吸顶式 AP 家庭全屋无死角 Wi-Fi 方案",
-        "link": "https://www.v2ex.com/t/743184",
-        "date": "2021-01-08"
-      },
-      {
-        "title": "有没有需要交杭州的社保的小伙伴、要求计算机或动漫设计相关专业，公司补贴一部分",
-        "link": "https://www.v2ex.com/t/743183",
         "date": "2021-01-08"
       }
     ]
@@ -17191,108 +17186,83 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "CTO 们邀请你加入码农周刊 VIP，升职加薪不再难！",
-        "link": "https://toutiao.io/k/z9xjxc0",
+        "title": "Java 并发编程之 JMM & volatile 详解",
+        "link": "https://toutiao.io/k/imzo6m8",
         "date": "2021-01-09"
       },
       {
-        "title": "如何写出一篇技术博客",
-        "link": "https://toutiao.io/k/gaqteq9",
+        "title": "从零打造一款轻量且天然支持 SSR 的 CMS 系统：simpleCMS",
+        "link": "https://toutiao.io/k/xino5n2",
         "date": "2021-01-09"
       },
       {
-        "title": "揭秘 QUIC 的性能与安全",
-        "link": "https://toutiao.io/k/c0c23kp",
+        "title": "视频人员重识别：关系引导空间注意力 + 时间特征提取模型",
+        "link": "https://toutiao.io/k/7yaycao",
         "date": "2021-01-09"
       },
       {
-        "title": "追查闪退的六个日与夜",
-        "link": "https://toutiao.io/k/htham98",
+        "title": "MySQL 索引优化",
+        "link": "https://toutiao.io/k/wwi18sc",
         "date": "2021-01-09"
       },
       {
-        "title": "抓包神器 Wireshark，帮你快速定位线上网络故障（一）",
-        "link": "https://toutiao.io/k/5b2dh6z",
+        "title": "如何实现 ASP.NET Core WebAPI 的版本化",
+        "link": "https://toutiao.io/k/3suf1ep",
         "date": "2021-01-09"
       },
       {
-        "title": "url 的正则表达式 path-to-regexp 在 Angular 中的使用",
-        "link": "https://toutiao.io/k/qcn26ly",
+        "title": "性能优化那些事",
+        "link": "https://toutiao.io/k/ml4lzrd",
         "date": "2021-01-09"
       },
       {
-        "title": "前端进阶不可错过的 10 个 GitHub 仓库",
-        "link": "https://toutiao.io/k/2eo05hp",
+        "title": "加班是努力还是表演？",
+        "link": "https://toutiao.io/k/ezqj4ad",
         "date": "2021-01-09"
       },
       {
-        "title": "Kubernetes：玩转 Pod 滚动更新",
-        "link": "https://toutiao.io/k/qma518i",
+        "title": "DeFi 闪电贷攻防之战（Hacking Time 议题）",
+        "link": "https://toutiao.io/k/vhzj0bv",
         "date": "2021-01-09"
       },
       {
-        "title": "信息架构和零代码应用搭建",
-        "link": "https://toutiao.io/k/nn2qsjv",
+        "title": "一个简约、漂亮的日期时间选择器",
+        "link": "https://toutiao.io/k/5yr798q",
         "date": "2021-01-09"
       },
       {
-        "title": "MySQL 慢查询（上）：你知道为啥会慢么？",
-        "link": "https://toutiao.io/k/32satxx",
+        "title": "词向量",
+        "link": "https://toutiao.io/k/zhehgcc",
         "date": "2021-01-09"
       },
       {
-        "title": "Spring Cloud Alibaba 微服务运维（一）：集成 SkyWalking",
-        "link": "https://toutiao.io/k/tm9ik2g",
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/3ydgnwy",
         "date": "2021-01-09"
       },
       {
-        "title": "[译] React 服务端组件",
-        "link": "https://toutiao.io/k/ygkbouu",
+        "title": "[推荐] 万字 Java 知识地图助你成为 Offer 收割机",
+        "link": "https://toutiao.io/k/sdna90o",
         "date": "2021-01-09"
       },
       {
-        "title": "优化总结：有哪些 App 启动提速方法？",
-        "link": "https://toutiao.io/k/qkw9vd3",
+        "title": "[推荐] 当年，我的架构师之路差点完蛋，幸亏了它",
+        "link": "https://toutiao.io/k/10zqtkl",
         "date": "2021-01-09"
       },
       {
-        "title": "图文并茂剖析 Netty 编解码以及背后的设计理念",
-        "link": "https://toutiao.io/k/omsapgi",
+        "title": "[推荐] 工程师职级胜任力框架",
+        "link": "https://toutiao.io/k/rxxemhb",
         "date": "2021-01-09"
       },
       {
-        "title": "[译] 伯克利谈 Serverless：服务器的存在，是云计算的大问题",
-        "link": "https://toutiao.io/k/h241c55",
+        "title": "[推荐] Spring：我是如何解决循环依赖的？",
+        "link": "https://toutiao.io/k/ib9ck31",
         "date": "2021-01-09"
       },
       {
-        "title": "通用 WebAssembly 运行时：Wasmer 1.0 GA",
-        "link": "https://toutiao.io/k/f4m7kc2",
-        "date": "2021-01-09"
-      },
-      {
-        "title": "抖音：抖店开放平台 SDK 开源",
-        "link": "https://toutiao.io/k/ehui22l",
-        "date": "2021-01-09"
-      },
-      {
-        "title": "瑞云创始人汪忠田：售后服务 SaaS 市场拓荒者",
-        "link": "https://toutiao.io/k/bven9jm",
-        "date": "2021-01-09"
-      },
-      {
-        "title": "业务场景下数据采集机制和策略",
-        "link": "https://toutiao.io/k/uf7iqgz",
-        "date": "2021-01-09"
-      },
-      {
-        "title": "MySQL update 语句和原数据一样会更新么",
-        "link": "https://toutiao.io/k/g43l1i0",
-        "date": "2021-01-09"
-      },
-      {
-        "title": "[推荐] IntelliJ 超级实用的 8 个插件",
-        "link": "https://toutiao.io/k/vx0h11u",
+        "title": "[推荐] 啥，听说你用了 Spring Boot，但是开发的接口还在裸奔？",
+        "link": "https://toutiao.io/k/gtkn1lp",
         "date": "2021-01-09"
       },
       {
@@ -17306,43 +17276,8 @@
         "date": "2021-01-09"
       },
       {
-        "title": "[推荐] 挑战 Redis 单实例内存最大极限，“遭遇” NUMA 陷阱",
-        "link": "https://toutiao.io/k/4mnda7r",
-        "date": "2021-01-09"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的堆题，我发现了这些东西",
-        "link": "https://toutiao.io/k/im0exw3",
-        "date": "2021-01-09"
-      },
-      {
-        "title": "[推荐] 工程师职级胜任力框架",
-        "link": "https://toutiao.io/k/rxxemhb",
-        "date": "2021-01-09"
-      },
-      {
-        "title": "[推荐] 5 分钟掌握 Spring Boot 自动配置原理",
-        "link": "https://toutiao.io/k/8p5funr",
-        "date": "2021-01-09"
-      },
-      {
-        "title": "[推荐] 2020 年，我在编程时遇见的几个好物",
-        "link": "https://toutiao.io/k/ezq0qnu",
-        "date": "2021-01-09"
-      },
-      {
-        "title": "[推荐] Spring：我是如何解决循环依赖的？",
-        "link": "https://toutiao.io/k/ib9ck31",
-        "date": "2021-01-09"
-      },
-      {
-        "title": "[推荐] 硬核 Redis 总结，看这篇就够了",
-        "link": "https://toutiao.io/k/z01bcz5",
-        "date": "2021-01-09"
-      },
-      {
-        "title": "[推荐] 一文串联 HTTP、TCP、IP、以太网",
-        "link": "https://toutiao.io/k/dqkrq0f",
+        "title": "[推荐] 支撑 700 亿数据量的 ClickHouse 高可用架构实践",
+        "link": "https://toutiao.io/k/f5v4m55",
         "date": "2021-01-09"
       },
       {
@@ -17351,18 +17286,28 @@
         "date": "2021-01-09"
       },
       {
-        "title": "[推荐] 支撑 700 亿数据量的 ClickHouse 高可用架构实践",
-        "link": "https://toutiao.io/k/f5v4m55",
+        "title": "[推荐] 5 分钟掌握 Spring Boot 自动配置原理",
+        "link": "https://toutiao.io/k/8p5funr",
         "date": "2021-01-09"
       },
       {
-        "title": "[推荐] 当年，我的架构师之路差点完蛋，幸亏了它",
-        "link": "https://toutiao.io/k/10zqtkl",
+        "title": "[推荐] 挑战 Redis 单实例内存最大极限，“遭遇” NUMA 陷阱",
+        "link": "https://toutiao.io/k/4mnda7r",
         "date": "2021-01-09"
       },
       {
-        "title": "[推荐] 广告系统架构解密",
-        "link": "https://toutiao.io/k/3ydgnwy",
+        "title": "[推荐] vivo 全球商城：订单中心架构设计与实践",
+        "link": "https://toutiao.io/k/lcopypw",
+        "date": "2021-01-09"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的堆题，我发现了这些东西",
+        "link": "https://toutiao.io/k/im0exw3",
+        "date": "2021-01-09"
+      },
+      {
+        "title": "[推荐] 硬核 Redis 总结，看这篇就够了",
+        "link": "https://toutiao.io/k/z01bcz5",
         "date": "2021-01-09"
       }
     ]

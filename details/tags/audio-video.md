@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-09 00:01:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-09 01:26:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -78,3 +78,5 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2021-01-09-新手频道，敬请指导-王者荣耀视频](https://www.v2ex.com/t/743236) 
+- [2021-01-09-视频人员重识别：关系引导空间注意力-+-时间特征提取模型](https://toutiao.io/k/7yaycao) 

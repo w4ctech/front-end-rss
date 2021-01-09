@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-09 09:06:58，:rocket: 更新条数: +3871， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-09 09:22:18，:rocket: 更新条数: +3892， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
@@ -392,6 +392,26 @@
 </summary>
 
 
+- [2021-01-06-2021年Web开发的7大趋势](https://www.ershicimi.com/p/3b9804fbd88d2e1d5928c9eecc6d1db0) ![](assets/new.png)  
+- [2021-01-06-滴滴DoKit-For-Flutter正式开源，功能及核心实现解读](https://www.ershicimi.com/p/bc9e685e409839177e94d751afd62e73) ![](assets/new.png)  
+- [2021-01-06-2021年注定又是程序员最内卷的一年，提前做好面试准备很关键-|-活动推荐](https://www.ershicimi.com/p/83bc7ecc4c679e72b7ce598d2da9df96) ![](assets/new.png)  
+- [2021-01-04-你应该了解的25个JS技巧](https://www.ershicimi.com/p/2f392c26ff75efe0a0bfb03d83af565f) ![](assets/new.png)  
+- [2021-01-04-30个编程领域的趣图](https://www.ershicimi.com/p/aca5ad15de4dddd493c1902382d711ff) ![](assets/new.png)  
+- [2021-01-04-产品经理训练营有偿招募兼职助教-|-助教招募](https://www.ershicimi.com/p/f4cca46b2d6aba75ee6cfef472ce90a7) ![](assets/new.png)  
+- [2021-01-03-前端周报：开发者向开源项目提交-issue-表达谢意引发争论；国内开发者开源抢茅台软件；小米新手机](https://www.ershicimi.com/p/53514a4d3a2900719ae6ab02eab56d21) ![](assets/new.png)  
+- [2020-12-31-Thresh-今天正式开源，有望成为替代-RN-的一种长期方案](https://www.ershicimi.com/p/1556263b759a915fcc4a1e92c9e877b3) ![](assets/new.png)  
+- [2020-12-31-如何在Flutter和JavaScript之间创建通信桥](https://www.ershicimi.com/p/afee8aac2c23114983a99f5b8a432781) ![](assets/new.png)  
+- [2020-12-30-大前端不是全栈](https://www.ershicimi.com/p/24bcab9669a4618d58e69af5414166c4) ![](assets/new.png)  
+- [2020-12-30-改善代码可读性的5种方法](https://www.ershicimi.com/p/849d22e4f721435ace29d5fb92438d89) ![](assets/new.png)  
+- [2020-12-30-最火的-Vue-前端框架，你用对了么？-|-活动推荐](https://www.ershicimi.com/p/d5202a9c9ee47ad5c371204cddf26da5) ![](assets/new.png)  
+- [2020-12-29-别让框架成为你前端成长路上的“绊脚石”](https://www.ershicimi.com/p/04ed722884e53c7aa6619f96dd3ac617) ![](assets/new.png)  
+- [2020-12-29-用编程赚外快的三个“副业”](https://www.ershicimi.com/p/81e5ed78a6fd57469f44a7303c0a3708) ![](assets/new.png)  
+- [2020-12-28-解读前端的2020：一直走在“变化”的路上](https://www.ershicimi.com/p/8c5b0f19dd73dba936f2d3bb7acdb357) ![](assets/new.png)  
+- [2020-12-28-从Flask到FastAPI的平滑迁移](https://www.ershicimi.com/p/2cd1618f1464e899f41b0af47e7d8dd7) ![](assets/new.png)  
+- [2020-12-28-到底要刷多少道算法题面试才稳？-|-活动推荐](https://www.ershicimi.com/p/4d609e3da2d9c0e3119fe4f024d1e9b1) ![](assets/new.png)  
+- [2020-12-27-前端周报：VS-Code的Issue列表被黑产“攻陷”；国产开源软件“购买”GitHub星标被批评；](https://www.ershicimi.com/p/514b20007ed8b002fdaa40f940dbb77b) ![](assets/new.png)  
+- [2020-12-26-月影：别更新了，学不动了？千万别有这样的心态](https://www.ershicimi.com/p/ee26edb03b77092a522518ab9ebba576) ![](assets/new.png)  
+- [2020-12-25-Flutter真香！2020大事件全纪录](https://www.ershicimi.com/p/42f09af6139c9aad7691a9fa45efb30f) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -973,6 +993,10 @@
 </summary>
 
 
+- [2021-01-09-深圳-Shopee-算法岗招人啦!-新成立的部门](https://www.v2ex.com/t/743360) ![](assets/new.png)  
+- [2021-01-09-请教一个-SQL-按关键词查询的问题](https://www.v2ex.com/t/743359) ![](assets/new.png)  
+- [2021-01-09-用关系型数据库存储查询时序数据怎么样？](https://www.v2ex.com/t/743358) ![](assets/new.png)  
+- [2021-01-09-有没有办法实现，在电脑快要内存不足卡死的时候先提示我](https://www.v2ex.com/t/743356) ![](assets/new.png)  
 - [2021-01-09-菜鸟前端求助,-项目发布后-sources-里没有-element-的相关资源](https://www.v2ex.com/t/743355) ![](assets/new.png)  
 - [2021-01-09-对职业发展的迷茫~~](https://www.v2ex.com/t/743354) ![](assets/new.png)  
 - [2021-01-09-segmentfault-的问答是不是已经是半废状态了](https://www.v2ex.com/t/743352) ![](assets/new.png)  
@@ -989,10 +1013,6 @@
 - [2021-01-09-近-5-年感觉内存容量没怎么提升](https://www.v2ex.com/t/743337) ![](assets/new.png)  
 - [2021-01-09-台式机总烧电源是这么回事？](https://www.v2ex.com/t/743336) ![](assets/new.png)  
 - [2021-01-09-作为一个非专业网络运维的运维开发工程师想学习一下学习计算机网络有什么资料推荐吗？](https://www.v2ex.com/t/743335) ![](assets/new.png)  
-- [2021-01-09-挑战：用更简洁优美的方式将《程序员修炼之道》中的-Shell-命令转为-PowerShell](https://www.v2ex.com/t/743334) ![](assets/new.png)  
-- [2021-01-09-有没有兄弟姐妹使用-68/71-键的键盘连接-macos-使用？](https://www.v2ex.com/t/743333) ![](assets/new.png)  
-- [2021-01-09-M1-芯片-Mac-mini-PyCharm-打开未响应](https://www.v2ex.com/t/743332) ![](assets/new.png)  
-- [2021-01-09-SDVX-的好弟弟和-ecloud-选哪个好？](https://www.v2ex.com/t/743330) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1045,16 +1065,16 @@
 - [2021-01-09-DeFi-闪电贷攻防之战（Hacking-Time-议题）](https://toutiao.io/k/vhzj0bv) ![](assets/new.png)  
 - [2021-01-09-如何实现-ASP.NET-Core-WebAPI-的版本化](https://toutiao.io/k/3suf1ep) ![](assets/new.png)  
 - [2021-01-09-词向量](https://toutiao.io/k/zhehgcc) ![](assets/new.png)  
-- [2021-01-09-推荐-工程师职级胜任力框架](https://toutiao.io/k/rxxemhb) ![](assets/new.png)  
-- [2021-01-09-推荐-肝了-3-版才满意：分布式系统之-CAP-理论，我们对它的理解和误解](https://toutiao.io/k/q2fkii4) ![](assets/new.png)  
-- [2021-01-09-推荐-5-分钟掌握-Spring-Boot-自动配置原理](https://toutiao.io/k/8p5funr) ![](assets/new.png)  
-- [2021-01-09-推荐-vivo-全球商城：订单中心架构设计与实践](https://toutiao.io/k/lcopypw) ![](assets/new.png)  
-- [2021-01-09-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) ![](assets/new.png)  
-- [2021-01-09-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
-- [2021-01-09-推荐-支撑-700-亿数据量的-ClickHouse-高可用架构实践](https://toutiao.io/k/f5v4m55) ![](assets/new.png)  
-- [2021-01-09-推荐-万字攻略，详解腾讯面试](https://toutiao.io/k/2b0b1bw) ![](assets/new.png)  
-- [2021-01-09-推荐-求你了，别再随便打日志了，教你动态修改日志级别](https://toutiao.io/k/8bity1f) ![](assets/new.png)  
 - [2021-01-09-推荐-硬核-Redis-总结，看这篇就够了](https://toutiao.io/k/z01bcz5) ![](assets/new.png)  
+- [2021-01-09-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西](https://toutiao.io/k/im0exw3) ![](assets/new.png)  
+- [2021-01-09-推荐-啥，听说你用了-Spring-Boot，但是开发的接口还在裸奔？](https://toutiao.io/k/gtkn1lp) ![](assets/new.png)  
+- [2021-01-09-推荐-当年，我的架构师之路差点完蛋，幸亏了它](https://toutiao.io/k/10zqtkl) ![](assets/new.png)  
+- [2021-01-09-推荐-2020-年，我在编程时遇见的几个好物](https://toutiao.io/k/ezq0qnu) ![](assets/new.png)  
+- [2021-01-09-推荐-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/231rpaj) ![](assets/new.png)  
+- [2021-01-09-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-09-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
+- [2021-01-09-推荐-Spring：我是如何解决循环依赖的？](https://toutiao.io/k/ib9ck31) ![](assets/new.png)  
+- [2021-01-09-推荐-支撑-700-亿数据量的-ClickHouse-高可用架构实践](https://toutiao.io/k/f5v4m55) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-09 20:05:31，:rocket: 更新条数: +821， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-09 20:15:53，:rocket: 更新条数: +821， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1025,16 +1025,16 @@
 - [2021-01-09-DeFi-闪电贷攻防之战（Hacking-Time-议题）](https://toutiao.io/k/vhzj0bv) ![](assets/new.png)  
 - [2021-01-09-如何实现-ASP.NET-Core-WebAPI-的版本化](https://toutiao.io/k/3suf1ep) ![](assets/new.png)  
 - [2021-01-09-词向量](https://toutiao.io/k/zhehgcc) ![](assets/new.png)  
-- [2021-01-09-推荐-JVM-基础，快进来复习复习吧](https://toutiao.io/k/snunrr7) ![](assets/new.png)  
-- [2021-01-09-推荐-5-分钟掌握-Spring-Boot-自动配置原理](https://toutiao.io/k/8p5funr) ![](assets/new.png)  
-- [2021-01-09-推荐-当年，我的架构师之路差点完蛋，幸亏了它](https://toutiao.io/k/10zqtkl) ![](assets/new.png)  
-- [2021-01-09-推荐-高并发服务遇-Redis-瓶颈引发的事故](https://toutiao.io/k/mg8zd72) ![](assets/new.png)  
-- [2021-01-09-推荐-2020-年，我在编程时遇见的几个好物](https://toutiao.io/k/ezq0qnu) ![](assets/new.png)  
-- [2021-01-09-推荐-万字攻略，详解腾讯面试](https://toutiao.io/k/2b0b1bw) ![](assets/new.png)  
-- [2021-01-09-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) ![](assets/new.png)  
-- [2021-01-09-推荐-求你了，别再随便打日志了，教你动态修改日志级别](https://toutiao.io/k/8bity1f) ![](assets/new.png)  
-- [2021-01-09-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-09-推荐-微服务架构-10-个最重要的设计模式](https://toutiao.io/k/krsjiu0) ![](assets/new.png)  
 - [2021-01-09-推荐-vivo-全球商城：订单中心架构设计与实践](https://toutiao.io/k/lcopypw) ![](assets/new.png)  
+- [2021-01-09-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
+- [2021-01-09-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-09-推荐-啥，听说你用了-Spring-Boot，但是开发的接口还在裸奔？](https://toutiao.io/k/gtkn1lp) ![](assets/new.png)  
+- [2021-01-09-推荐-2020-年，我在编程时遇见的几个好物](https://toutiao.io/k/ezq0qnu) ![](assets/new.png)  
+- [2021-01-09-推荐-JVM-基础，快进来复习复习吧](https://toutiao.io/k/snunrr7) ![](assets/new.png)  
+- [2021-01-09-推荐-求你了，别再随便打日志了，教你动态修改日志级别](https://toutiao.io/k/8bity1f) ![](assets/new.png)  
+- [2021-01-09-推荐-支撑-700-亿数据量的-ClickHouse-高可用架构实践](https://toutiao.io/k/f5v4m55) ![](assets/new.png)  
+- [2021-01-09-推荐-工程师职级胜任力框架](https://toutiao.io/k/rxxemhb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

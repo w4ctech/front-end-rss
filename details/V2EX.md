@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-09 14:45:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-09 15:03:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,5 +39,3 @@
 - [2021-01-09-移动硬盘在-M1-Mac-上用，-HDD-移动硬盘格式成-HFS+还是-APFS？理由是什么？大家都是用的什么格式。](https://www.v2ex.com/t/743389) 
 - [2021-01-09-Caldigit-TS3-Plus-内网有线网速为什么会那么慢](https://www.v2ex.com/t/743388) 
 - [2021-01-09-有目的di地de瞎折腾——为了温暖的被窝而实现远程开机](https://www.v2ex.com/t/743387) 
-- [2021-01-09-代码存-github-同步到-docker-hub-有什么用](https://www.v2ex.com/t/743386) 
-- [2021-01-09-最近有打算离开-IT-行业转行自媒体的朋友吗？](https://www.v2ex.com/t/743384) 

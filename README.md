@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-10 21:50:29，:rocket: 更新条数: +3858， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-10 22:06:45，:rocket: 更新条数: +3858， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1025,16 +1025,16 @@
 - [2021-01-10-2021-再看-Deno（关于-CDN-for-JavaScript-modules-的思考）](https://toutiao.io/k/5mt75te) ![](assets/new.png)  
 - [2021-01-10-想要什么变一个出来？GPT-3-的生成能力](https://toutiao.io/k/x1m3u3x) ![](assets/new.png)  
 - [2021-01-10-浅析-Vue.js-中那些空间换时间的优化操作](https://toutiao.io/k/m19xx0u) ![](assets/new.png)  
-- [2021-01-10-推荐-广告系统架构解密](https://toutiao.io/k/3ydgnwy) ![](assets/new.png)  
-- [2021-01-10-推荐-微服务架构-10-个最重要的设计模式](https://toutiao.io/k/krsjiu0) ![](assets/new.png)  
-- [2021-01-10-推荐-2020-年，我在编程时遇见的几个好物](https://toutiao.io/k/ezq0qnu) ![](assets/new.png)  
-- [2021-01-10-推荐-挑战-Redis-单实例内存最大极限，“遭遇”-NUMA-陷阱](https://toutiao.io/k/4mnda7r) ![](assets/new.png)  
-- [2021-01-10-推荐-如何优雅地重试](https://toutiao.io/k/z3j5ni9) ![](assets/new.png)  
-- [2021-01-10-推荐-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/231rpaj) ![](assets/new.png)  
 - [2021-01-10-推荐-5-分钟掌握-Spring-Boot-自动配置原理](https://toutiao.io/k/8p5funr) ![](assets/new.png)  
-- [2021-01-10-推荐-当年，我的架构师之路差点完蛋，幸亏了它](https://toutiao.io/k/10zqtkl) ![](assets/new.png)  
-- [2021-01-10-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
-- [2021-01-10-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西](https://toutiao.io/k/im0exw3) ![](assets/new.png)  
+- [2021-01-10-推荐-JVM-基础，快进来复习复习吧](https://toutiao.io/k/snunrr7) ![](assets/new.png)  
+- [2021-01-10-推荐-高并发服务遇-Redis-瓶颈引发的事故](https://toutiao.io/k/mg8zd72) ![](assets/new.png)  
+- [2021-01-10-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) ![](assets/new.png)  
+- [2021-01-10-推荐-万字攻略，详解腾讯面试](https://toutiao.io/k/2b0b1bw) ![](assets/new.png)  
+- [2021-01-10-推荐-工程师职级胜任力框架](https://toutiao.io/k/rxxemhb) ![](assets/new.png)  
+- [2021-01-10-推荐-广告系统架构解密](https://toutiao.io/k/3ydgnwy) ![](assets/new.png)  
+- [2021-01-10-推荐-Spring：我是如何解决循环依赖的？](https://toutiao.io/k/ib9ck31) ![](assets/new.png)  
+- [2021-01-10-推荐-挑战-Redis-单实例内存最大极限，“遭遇”-NUMA-陷阱](https://toutiao.io/k/4mnda7r) ![](assets/new.png)  
+- [2021-01-10-推荐-啥，听说你用了-Spring-Boot，但是开发的接口还在裸奔？](https://toutiao.io/k/gtkn1lp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-10 18:37:12，:rocket: 更新条数: +3859， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-10 19:07:21，:rocket: 更新条数: +3858， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -963,7 +963,6 @@
 - [2021-01-10-apple-watch-有时候出现不要密码直接解锁屏幕的情况](https://www.v2ex.com/t/743655) ![](assets/new.png)  
 - [2021-01-10-m1-macbook-pro-用-3.5-毫米耳机切歌时出现爆音](https://www.v2ex.com/t/743654) ![](assets/new.png)  
 - [2021-01-10-程序员专职投资可行性](https://www.v2ex.com/t/743653) ![](assets/new.png)  
-- [2021-01-10-PDD-发抬上救护车照片导致被裁的当事人发视频了。](https://www.v2ex.com/t/743652) ![](assets/new.png)  
 - [2021-01-10-求问深圳移动如何办理游戏宽带？-现在-1000/50~感觉没-500/250-给力啊](https://www.v2ex.com/t/743650) ![](assets/new.png)  
 - [2021-01-10-《现代体系结构上的-UNIX-系统-内核程序员的对称多处理和缓存技术修订版》的读后观感和小总结](https://www.v2ex.com/t/743649) ![](assets/new.png)  
 - [2021-01-10-GlusterFS-增加节点扩容的疑问，旧节点还继续会存大量的数据吗？](https://www.v2ex.com/t/743647) ![](assets/new.png)  
@@ -973,6 +972,7 @@
 - [2021-01-10-JBL-FILP5-和-sony-HG2-蓝牙音箱对比~](https://www.v2ex.com/t/743641) ![](assets/new.png)  
 - [2021-01-10-诡异的项目开发时热加载丢失编译的类文件问题](https://www.v2ex.com/t/743638) ![](assets/new.png)  
 - [2021-01-10-2020-年数码产品购物总结](https://www.v2ex.com/t/743636) ![](assets/new.png)  
+- [2021-01-10-字节跳动-TikTok-上海测试团队，海量社招岗空缺等你来！年前面试，年后入职！](https://www.v2ex.com/t/743635) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1025,16 +1025,16 @@
 - [2021-01-10-2021-再看-Deno（关于-CDN-for-JavaScript-modules-的思考）](https://toutiao.io/k/5mt75te) ![](assets/new.png)  
 - [2021-01-10-浅析-Vue.js-中那些空间换时间的优化操作](https://toutiao.io/k/m19xx0u) ![](assets/new.png)  
 - [2021-01-10-想要什么变一个出来？GPT-3-的生成能力](https://toutiao.io/k/x1m3u3x) ![](assets/new.png)  
-- [2021-01-10-推荐-Spring：我是如何解决循环依赖的？](https://toutiao.io/k/ib9ck31) ![](assets/new.png)  
-- [2021-01-10-推荐-万字攻略，详解腾讯面试](https://toutiao.io/k/2b0b1bw) ![](assets/new.png)  
-- [2021-01-10-推荐-支撑-700-亿数据量的-ClickHouse-高可用架构实践](https://toutiao.io/k/f5v4m55) ![](assets/new.png)  
-- [2021-01-10-推荐-软件架构基础（一）：架构师的-8-大核心能力](https://toutiao.io/k/mk9kqnq) ![](assets/new.png)  
-- [2021-01-10-推荐-求你了，别再随便打日志了，教你动态修改日志级别](https://toutiao.io/k/8bity1f) ![](assets/new.png)  
-- [2021-01-10-推荐-肝了-3-版才满意：分布式系统之-CAP-理论，我们对它的理解和误解](https://toutiao.io/k/q2fkii4) ![](assets/new.png)  
 - [2021-01-10-推荐-vivo-全球商城：订单中心架构设计与实践](https://toutiao.io/k/lcopypw) ![](assets/new.png)  
-- [2021-01-10-推荐-5-分钟掌握-Spring-Boot-自动配置原理](https://toutiao.io/k/8p5funr) ![](assets/new.png)  
-- [2021-01-10-推荐-高并发服务遇-Redis-瓶颈引发的事故](https://toutiao.io/k/mg8zd72) ![](assets/new.png)  
-- [2021-01-10-推荐-JVM-基础，快进来复习复习吧](https://toutiao.io/k/snunrr7) ![](assets/new.png)  
+- [2021-01-10-推荐-软件架构基础（一）：架构师的-8-大核心能力](https://toutiao.io/k/mk9kqnq) ![](assets/new.png)  
+- [2021-01-10-推荐-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/231rpaj) ![](assets/new.png)  
+- [2021-01-10-推荐-求你了，别再随便打日志了，教你动态修改日志级别](https://toutiao.io/k/8bity1f) ![](assets/new.png)  
+- [2021-01-10-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西](https://toutiao.io/k/im0exw3) ![](assets/new.png)  
+- [2021-01-10-推荐-支撑-700-亿数据量的-ClickHouse-高可用架构实践](https://toutiao.io/k/f5v4m55) ![](assets/new.png)  
+- [2021-01-10-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
+- [2021-01-10-推荐-工程师职级胜任力框架](https://toutiao.io/k/rxxemhb) ![](assets/new.png)  
+- [2021-01-10-推荐-啥，听说你用了-Spring-Boot，但是开发的接口还在裸奔？](https://toutiao.io/k/gtkn1lp) ![](assets/new.png)  
+- [2021-01-10-推荐-如何优雅地重试](https://toutiao.io/k/z3j5ni9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

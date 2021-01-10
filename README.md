@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-10 03:19:50，:rocket: 更新条数: +3876， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-10 03:35:12，:rocket: 更新条数: +3877， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -973,6 +973,10 @@
 </summary>
 
 
+- [2021-01-10-安卓内置存储默认加密是不是会导致刷机后数据无法读取了？](https://www.v2ex.com/t/743497) ![](assets/new.png)  
+- [2021-01-10-我想到一个整合所有视频资源或者音乐的想法，有可行性吗？](https://www.v2ex.com/t/743496) ![](assets/new.png)  
+- [2021-01-10-想自己刷一个-ROM-来玩，有开源项目学习吗？](https://www.v2ex.com/t/743495) ![](assets/new.png)  
+- [2021-01-10-看看-CSDN-的骚操作](https://www.v2ex.com/t/743494) ![](assets/new.png)  
 - [2021-01-10-Docker-可以不掉帧直接使用物理机网卡吗](https://www.v2ex.com/t/743493) ![](assets/new.png)  
 - [2021-01-10-LeetCode-中使用-StringBuilder-连接字符串为什么会比用+号连接快？](https://www.v2ex.com/t/743492) ![](assets/new.png)  
 - [2021-01-10-老爸-iPhone6-淘汰了-现在想换-iPhone8-咋样](https://www.v2ex.com/t/743490) ![](assets/new.png)  
@@ -989,10 +993,6 @@
 - [2021-01-10-请教一个《C-Primer-Plus》上一个代码的问题](https://www.v2ex.com/t/743475) ![](assets/new.png)  
 - [2021-01-10-找一起学的队友-The-Complete-React-Native-+-Hooks-Course](https://www.v2ex.com/t/743473) ![](assets/new.png)  
 - [2021-01-10-有人把小牛电动车骑上北京天桥吗？](https://www.v2ex.com/t/743471) ![](assets/new.png)  
-- [2021-01-10-我这个内存使用情况，换成-8G-的-M1-够不够？（现在-16G-的-Intel-mbp，平时一般-65-70%内存使用率）](https://www.v2ex.com/t/743470) ![](assets/new.png)  
-- [2021-01-10-nas-硬盘怎样选择？](https://www.v2ex.com/t/743469) ![](assets/new.png)  
-- [2021-01-10-easyswoole,swoft,hyperf-选型？](https://www.v2ex.com/t/743468) ![](assets/new.png)  
-- [2021-01-10-大家会经常和周围的程序员对比吗](https://www.v2ex.com/t/743467) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1036,8 +1036,8 @@
 
 
 - [2021-01-10-2020-读过的好书推荐](https://toutiao.io/k/ocr2mmk) ![](assets/new.png)  
-- [2021-01-10-9-条消除-if...else-的锦囊妙计，助你写出更优雅的代码](https://toutiao.io/k/6o9uhdv) ![](assets/new.png)  
 - [2021-01-10-译-Hugo-作者、Go-核心团队成员-Steve-Francia-谈诞生-13-年的-Go-语言](https://toutiao.io/k/3tvjjmq) ![](assets/new.png)  
+- [2021-01-10-9-条消除-if...else-的锦囊妙计，助你写出更优雅的代码](https://toutiao.io/k/6o9uhdv) ![](assets/new.png)  
 - [2021-01-10-Improving-DL-for-Airbnb-Search：科学炼丹实践指南](https://toutiao.io/k/g99hk6t) ![](assets/new.png)  
 - [2021-01-10-商业、自由和公平](https://toutiao.io/k/key686a) ![](assets/new.png)  
 - [2021-01-10-高效会议](https://toutiao.io/k/p0eoj2e) ![](assets/new.png)  
@@ -1045,16 +1045,16 @@
 - [2021-01-10-以-Markdown-撰写文稿，以-LaTeX-排版](https://toutiao.io/k/mb9mpl4) ![](assets/new.png)  
 - [2021-01-10-想要什么变一个出来？GPT-3-的生成能力](https://toutiao.io/k/x1m3u3x) ![](assets/new.png)  
 - [2021-01-10-浅析-Vue.js-中那些空间换时间的优化操作](https://toutiao.io/k/m19xx0u) ![](assets/new.png)  
-- [2021-01-10-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
-- [2021-01-10-推荐-5-分钟掌握-Spring-Boot-自动配置原理](https://toutiao.io/k/8p5funr) ![](assets/new.png)  
-- [2021-01-10-推荐-当年，我的架构师之路差点完蛋，幸亏了它](https://toutiao.io/k/10zqtkl) ![](assets/new.png)  
-- [2021-01-10-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西](https://toutiao.io/k/im0exw3) ![](assets/new.png)  
-- [2021-01-10-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) ![](assets/new.png)  
-- [2021-01-10-推荐-求你了，别再随便打日志了，教你动态修改日志级别](https://toutiao.io/k/8bity1f) ![](assets/new.png)  
-- [2021-01-10-推荐-vivo-全球商城：订单中心架构设计与实践](https://toutiao.io/k/lcopypw) ![](assets/new.png)  
-- [2021-01-10-推荐-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/231rpaj) ![](assets/new.png)  
 - [2021-01-10-推荐-肝了-3-版才满意：分布式系统之-CAP-理论，我们对它的理解和误解](https://toutiao.io/k/q2fkii4) ![](assets/new.png)  
-- [2021-01-10-推荐-IntelliJ-超级实用的-8-个插件](https://toutiao.io/k/vx0h11u) ![](assets/new.png)  
+- [2021-01-10-推荐-5-分钟掌握-Spring-Boot-自动配置原理](https://toutiao.io/k/8p5funr) ![](assets/new.png)  
+- [2021-01-10-推荐-Spring：我是如何解决循环依赖的？](https://toutiao.io/k/ib9ck31) ![](assets/new.png)  
+- [2021-01-10-推荐-万字-Java-知识地图助你成为-Offer-收割机](https://toutiao.io/k/sdna90o) ![](assets/new.png)  
+- [2021-01-10-推荐-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/231rpaj) ![](assets/new.png)  
+- [2021-01-10-推荐-一文串联-HTTP、TCP、IP、以太网](https://toutiao.io/k/dqkrq0f) ![](assets/new.png)  
+- [2021-01-10-推荐-微服务架构-10-个最重要的设计模式](https://toutiao.io/k/krsjiu0) ![](assets/new.png)  
+- [2021-01-10-推荐-求你了，别再随便打日志了，教你动态修改日志级别](https://toutiao.io/k/8bity1f) ![](assets/new.png)  
+- [2021-01-10-推荐-广告系统架构解密](https://toutiao.io/k/3ydgnwy) ![](assets/new.png)  
+- [2021-01-10-推荐-高并发服务遇-Redis-瓶颈引发的事故](https://toutiao.io/k/mg8zd72) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

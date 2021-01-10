@@ -19358,13 +19358,13 @@
         "date": "2021-01-10"
       },
       {
-        "title": "2021 再看 Deno（关于 CDN for JavaScript modules 的思考）",
-        "link": "https://toutiao.io/k/5mt75te",
+        "title": "Improving DL for Airbnb Search：科学炼丹实践指南",
+        "link": "https://toutiao.io/k/g99hk6t",
         "date": "2021-01-10"
       },
       {
-        "title": "Improving DL for Airbnb Search：科学炼丹实践指南",
-        "link": "https://toutiao.io/k/g99hk6t",
+        "title": "2021 再看 Deno（关于 CDN for JavaScript modules 的思考）",
+        "link": "https://toutiao.io/k/5mt75te",
         "date": "2021-01-10"
       },
       {
@@ -19378,8 +19378,8 @@
         "date": "2021-01-10"
       },
       {
-        "title": "[推荐] 求你了，别再随便打日志了，教你动态修改日志级别",
-        "link": "https://toutiao.io/k/8bity1f",
+        "title": "[推荐] 肝了 3 版才满意：分布式系统之 CAP 理论，我们对它的理解和误解",
+        "link": "https://toutiao.io/k/q2fkii4",
         "date": "2021-01-10"
       },
       {
@@ -19388,48 +19388,8 @@
         "date": "2021-01-10"
       },
       {
-        "title": "[推荐] 当年，我的架构师之路差点完蛋，幸亏了它",
-        "link": "https://toutiao.io/k/10zqtkl",
-        "date": "2021-01-10"
-      },
-      {
-        "title": "[推荐] 如何优雅地重试",
-        "link": "https://toutiao.io/k/z3j5ni9",
-        "date": "2021-01-10"
-      },
-      {
-        "title": "[推荐] 万字攻略，详解腾讯面试",
-        "link": "https://toutiao.io/k/2b0b1bw",
-        "date": "2021-01-10"
-      },
-      {
-        "title": "[推荐] JVM 基础，快进来复习复习吧",
-        "link": "https://toutiao.io/k/snunrr7",
-        "date": "2021-01-10"
-      },
-      {
-        "title": "[推荐] 肝了 3 版才满意：分布式系统之 CAP 理论，我们对它的理解和误解",
-        "link": "https://toutiao.io/k/q2fkii4",
-        "date": "2021-01-10"
-      },
-      {
-        "title": "[推荐] 5 分钟掌握 Spring Boot 自动配置原理",
-        "link": "https://toutiao.io/k/8p5funr",
-        "date": "2021-01-10"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的堆题，我发现了这些东西",
-        "link": "https://toutiao.io/k/im0exw3",
-        "date": "2021-01-10"
-      },
-      {
-        "title": "[推荐] 啥，听说你用了 Spring Boot，但是开发的接口还在裸奔？",
-        "link": "https://toutiao.io/k/gtkn1lp",
-        "date": "2021-01-10"
-      },
-      {
-        "title": "[推荐] 软件架构基础（一）：架构师的 8 大核心能力",
-        "link": "https://toutiao.io/k/mk9kqnq",
+        "title": "[推荐] vivo 全球商城：订单中心架构设计与实践",
+        "link": "https://toutiao.io/k/lcopypw",
         "date": "2021-01-10"
       },
       {
@@ -19438,8 +19398,43 @@
         "date": "2021-01-10"
       },
       {
-        "title": "[推荐] 工程师职级胜任力框架",
-        "link": "https://toutiao.io/k/rxxemhb",
+        "title": "[推荐] 微服务架构 10 个最重要的设计模式",
+        "link": "https://toutiao.io/k/krsjiu0",
+        "date": "2021-01-10"
+      },
+      {
+        "title": "[推荐] 一文串联 HTTP、TCP、IP、以太网",
+        "link": "https://toutiao.io/k/dqkrq0f",
+        "date": "2021-01-10"
+      },
+      {
+        "title": "[推荐] 啥，听说你用了 Spring Boot，但是开发的接口还在裸奔？",
+        "link": "https://toutiao.io/k/gtkn1lp",
+        "date": "2021-01-10"
+      },
+      {
+        "title": "[推荐] 硬核！15 张图解 Redis 为什么这么快",
+        "link": "https://toutiao.io/k/231rpaj",
+        "date": "2021-01-10"
+      },
+      {
+        "title": "[推荐] 万字 Java 知识地图助你成为 Offer 收割机",
+        "link": "https://toutiao.io/k/sdna90o",
+        "date": "2021-01-10"
+      },
+      {
+        "title": "[推荐] 2020 年，我在编程时遇见的几个好物",
+        "link": "https://toutiao.io/k/ezq0qnu",
+        "date": "2021-01-10"
+      },
+      {
+        "title": "[推荐] 如何优雅地重试",
+        "link": "https://toutiao.io/k/z3j5ni9",
+        "date": "2021-01-10"
+      },
+      {
+        "title": "[推荐] 高并发服务遇 Redis 瓶颈引发的事故",
+        "link": "https://toutiao.io/k/mg8zd72",
         "date": "2021-01-10"
       },
       {
@@ -19448,8 +19443,13 @@
         "date": "2021-01-10"
       },
       {
-        "title": "[推荐] 硬核！15 张图解 Redis 为什么这么快",
-        "link": "https://toutiao.io/k/231rpaj",
+        "title": "[推荐] JVM 基础，快进来复习复习吧",
+        "link": "https://toutiao.io/k/snunrr7",
+        "date": "2021-01-10"
+      },
+      {
+        "title": "[推荐] 5 分钟掌握 Spring Boot 自动配置原理",
+        "link": "https://toutiao.io/k/8p5funr",
         "date": "2021-01-10"
       }
     ]

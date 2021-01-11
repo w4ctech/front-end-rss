@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-11 13:58:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-11 14:22:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -12,3 +12,4 @@
 - [2021-01-08-前端三连问，typescript的??-和?:-和?.是什么意思？](https://www.ershicimi.com/p/82652fcbf203b85053ed0c5f4e8c5d45) 
 - [2020-05-14-TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f) 
 - [2021-01-11-推荐-7-个-GitHub-上很火的-TypeScript-的宝库，2021-学-TS-看这篇就够了！](https://juejin.im/post/6916495590754877453) 
+- [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 

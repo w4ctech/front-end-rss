@@ -1,11 +1,12 @@
-:alarm_clock: 更新时间: 2021-01-11 14:57:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-11 15:13:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2021-01-11-俺貌似做了一件蠢事，-Linux-上一个空硬盘没有创建分区，就直接扩展到-lvm。](https://www.v2ex.com/t/744011) 
+- [2021-01-11-2021-年了有没有推荐的美国实体电话卡](https://www.v2ex.com/t/744012) 
+- [2021-01-11-引以为戒-俺貌似做了一件蠢事，-Linux-上一个空硬盘没有创建分区，就直接扩展到-LVM。](https://www.v2ex.com/t/744011) 
 - [2021-01-11-微软升级了-Surface-Pro-7，可换-ssd-!](https://www.v2ex.com/t/744010) 
 - [2021-01-11-集群内部的服务发现最新的是用-coredns-吗，谷歌-borg-用什么](https://www.v2ex.com/t/744009) 
 - [2021-01-11-内推-小米内推，欢迎有需要的老哥自取](https://www.v2ex.com/t/744008) 
@@ -41,4 +42,3 @@
 - [2021-01-11-Rust-Report-Card---为你的-Rust-代码生成质量报告](https://www.v2ex.com/t/743966) 
 - [2021-01-11-mac-系统如何设置可以让鼠标是非自然滚动，而触控板是自然滚动方向？](https://www.v2ex.com/t/743965) 
 - [2021-01-11-Python-遇到一个列表问题，感觉很奇怪，也不知道怎么-Google，希望老哥们帮忙看看](https://www.v2ex.com/t/743964) 
-- [2021-01-11-Java-后端结合-freemarker-做毕设前端合适么](https://www.v2ex.com/t/743962) 

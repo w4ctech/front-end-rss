@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-11 13:06:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-11 13:35:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -114,7 +114,6 @@
 - [【前端大全】Typescript-代码整洁之道](https://www.ershicimi.com/p/d34429a7721f63a8146a338759744470)
 - [【政采云前端团队】编写高质量可维护的代码：Awesome-TypeScript](https://www.ershicimi.com/p/0e0e4e00548bd0c316732a2a25594a04)
 - [【程序员成长指北】前端三连问，typescript的??-和?:-和?.是什么意思？](https://www.ershicimi.com/p/82652fcbf203b85053ed0c5f4e8c5d45)
-- [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -562,7 +561,6 @@
 - [【凹凸实验室】规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
-- [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【InfoQ】GitHub的挣扎：已获美国许可，恢复在伊朗的服务](https://www.ershicimi.com/p/6beff97a66d87d7fb70a43c9202eb686)
 - [【掘金前端】译|GitHub-Package-Registry-值得尝试吗](https://juejin.im/post/6915255280959750152)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
@@ -599,11 +597,11 @@
 - [【前端日刊】阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668)
 - [【前端日刊】笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b)
 - [【前端日刊】腾讯、华为前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557)
-- [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
 - [【V2EX】如何在面试的-2-3-小时内判断出一个公司是否值得入职？](https://www.v2ex.com/t/743981)
 - [【V2EX】淘宝-杭州-社招-淘系互动专场招聘，诚招-P5-P7-前端开发工程师](https://www.v2ex.com/t/743967)
 - [【V2EX】上海支付宝社招P6-P8-支付宝大出行技术部招聘-Java-研发](https://www.v2ex.com/t/743961)
+- [【V2EX】开源笔记-Logseq-远程团队招聘两位开发工程师](https://www.v2ex.com/t/743946)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-11 20:55:36，:rocket: 更新条数: +3901， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-11 21:13:25，:rocket: 更新条数: +3902， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -973,6 +973,7 @@
 </summary>
 
 
+- [2021-01-11-专科毕业，只会点计算机皮毛，该如何找到程序员工作](https://www.v2ex.com/t/744036) ![](assets/new.png)  
 - [2021-01-11-经常会出现避世的心态，怎么破？](https://www.v2ex.com/t/744035) ![](assets/new.png)  
 - [2021-01-11-剪贴板工具除-ditto-和-clcl-外，还有两者优点结合的替代品吗？](https://www.v2ex.com/t/744034) ![](assets/new.png)  
 - [2021-01-11-为什么我的世界（minecraft）不是游戏节点下的子节点而在-Geek-下面？](https://www.v2ex.com/t/744033) ![](assets/new.png)  
@@ -992,7 +993,6 @@
 - [2021-01-11-分享基于-bitwarden-的自建密码管理方案](https://www.v2ex.com/t/744017) ![](assets/new.png)  
 - [2021-01-11-为什么同一个-pdf-的注释，在-windows-下和-mac-下显示不一样？](https://www.v2ex.com/t/744015) ![](assets/new.png)  
 - [2021-01-11-2021-年了有没有推荐的美国实体电话卡](https://www.v2ex.com/t/744012) ![](assets/new.png)  
-- [2021-01-11-引以为戒-俺貌似做了一件蠢事，-Linux-上一个空硬盘没有创建分区，就直接扩展到-LVM。](https://www.v2ex.com/t/744011) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,13 +1047,13 @@
 - [2021-01-11-内存分页不就够了？为什么还要分段？](https://toutiao.io/k/fe9hq9z) ![](assets/new.png)  
 - [2021-01-11-CrateDb-在携程机票-BI-的实践](https://toutiao.io/k/nfmtddc) ![](assets/new.png)  
 - [2021-01-11-速度与压缩比如何兼得？压缩算法在构建部署中的优化](https://toutiao.io/k/pqwu7xw) ![](assets/new.png)  
-- [2021-01-11-如何让前端程序员没有后端也能完成项目?](https://toutiao.io/k/a3ta8qm) ![](assets/new.png)  
 - [2021-01-11-作为研发经理，你对产品经理知多少](https://toutiao.io/k/1l360pl) ![](assets/new.png)  
+- [2021-01-11-如何让前端程序员没有后端也能完成项目?](https://toutiao.io/k/a3ta8qm) ![](assets/new.png)  
 - [2021-01-11-ARM64-撬开安卓逆向大门](https://toutiao.io/k/cwesfdb) ![](assets/new.png)  
 - [2021-01-11-Kafka-探险：架构简介](https://toutiao.io/k/hj8otbu) ![](assets/new.png)  
 - [2021-01-11-通过-WSL-本地启动-Nacos](https://toutiao.io/k/1pxd9xf) ![](assets/new.png)  
-- [2021-01-11-基于-Kubernetes-部署-Apache-Zookeeper](https://toutiao.io/k/ng4oxix) ![](assets/new.png)  
 - [2021-01-11-PHP-开发的-GitHub-文件下载加速项目](https://toutiao.io/k/3pw1bho) ![](assets/new.png)  
+- [2021-01-11-基于-Kubernetes-部署-Apache-Zookeeper](https://toutiao.io/k/ng4oxix) ![](assets/new.png)  
 - [2021-01-11-Netty-源码解析：事件循环机制实现原理](https://toutiao.io/k/67e9vmu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

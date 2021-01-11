@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-11 14:22:15，:rocket: 更新条数: +3855， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-11 14:57:22，:rocket: 更新条数: +3869， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
@@ -66,7 +66,7 @@
 
 
 - [2021-01-11-最新疫情：全国新冠累计确诊87536例-本土病例新增85例](https://m.caixin.com/m/2021-01-11/101649246.html) ![](assets/new.png)  
-- [2021-01-11-黑龙江望奎县报告20例无症状感染者-县里封城涉多场婚礼聚餐](https://m.caixin.com/m/2021-01-11/101649381.html) ![](assets/new.png)  
+- [2021-01-11-绥化报告20例无症状感染者-县里封城涉多场婚礼聚餐](https://m.caixin.com/m/2021-01-11/101649381.html) ![](assets/new.png)  
 - [2021-01-11-世卫新冠溯源国际专家组要来了！-1月14日](https://m.caixin.com/m/2021-01-11/101648991.html) ![](assets/new.png)  
 - [2021-01-11-日本发现新变异病毒-八成民意对东京奥运如期举办悲观](http://m.international.caixin.com/m/2021-01-11/101649010.html) ![](assets/new.png)  
 - [2021-01-11-最新海外疫情：新冠感染超9018万-累计死亡近193万](https://m.caixin.com/m/2021-01-11/101649317.html) ![](assets/new.png)  
@@ -580,16 +580,6 @@
 </summary>
 
 
-- [2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) ![](assets/new.png)  
-- [2020-12-24-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) ![](assets/new.png)  
-- [2020-12-12-纯CSS实现微信列表左滑显示按钮的交互效果](https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/) ![](assets/new.png)  
-- [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) ![](assets/new.png)  
-- [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) ![](assets/new.png)  
-- [2020-11-27-几行CSS让整站支持深色模式的探索与拓展](https://www.zhangxinxu.com/wordpress/2020/11/css-mix-blend-mode-filter-dark-theme/) ![](assets/new.png)  
-- [2020-11-25-突发奇想，同步单复选框checked态岂不点击通杀？](https://www.zhangxinxu.com/wordpress/2020/11/label-sync-radio-checkbox-checked/) ![](assets/new.png)  
-- [2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) ![](assets/new.png)  
-- [2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) ![](assets/new.png)  
-- [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -771,6 +761,26 @@
 </summary>
 
 
+- [2021-01-11-被特朗普带火后，这款软件却被苹果、谷歌和亚马逊全面封杀](https://www.ershicimi.com/p/b0e54f8ee7b358c1c9de40c4568f54d2) ![](assets/new.png)  
+- [2021-01-11-Spark-3.0新特性在FreeWheel核心业务数据团队的应用与实战](https://www.ershicimi.com/p/cc72897d3dec7e5b327b03ec9c96479e) ![](assets/new.png)  
+- [2021-01-11-QCon全球软件开发大会：推动创新，实现技术落地](https://www.ershicimi.com/p/76c46306a52eadec1ca7663d8b40004c) ![](assets/new.png)  
+- [2021-01-11-避免不完全的云原生（一）：云原生到底意味着什么？](https://www.ershicimi.com/p/7fba6fb1196d162bd27316357c805f75) ![](assets/new.png)  
+- [2021-01-11-2020年10个不错的Python库](https://www.ershicimi.com/p/f3d22b36720c1a809536df7cd4e3504b) ![](assets/new.png)  
+- [2021-01-10-链家40岁员工删除公司9T数据，被判7年](https://www.ershicimi.com/p/0a4cef098c88195dfc1654db48ba5754) ![](assets/new.png)  
+- [2021-01-10-架构升级，Serverless到底是不是趋势？](https://www.ershicimi.com/p/541c45cdbfce0c2873ef3b9fac37cddb) ![](assets/new.png)  
+- [2021-01-10-4种主流的API架构风格对比](https://www.ershicimi.com/p/2a5f660f33a1b29b131086f373d050dd) ![](assets/new.png)  
+- [2021-01-09-抖音因涉黄受行政处罚；应届生拒绝996被申通辞退；拼多多23岁员工猝死引发广泛关注-|-Q资讯](https://www.ershicimi.com/p/a8ca809aebae4e752f884fc148a8202b) ![](assets/new.png)  
+- [2021-01-09-从-DAU-5-万到用户数破亿，揭秘腾讯会议增长背后的技术实践](https://www.ershicimi.com/p/216a16abf0007cdf8a24aa722b1dff62) ![](assets/new.png)  
+- [2021-01-09-解读容器的-2020：寻找云原生的下一站](https://www.ershicimi.com/p/379c531e9118028672215113ac77f85f) ![](assets/new.png)  
+- [2021-01-08-比特币首次突破40000美元，10年涨千万倍但依然极具风险](https://www.ershicimi.com/p/559ad36b094f2f0cd62cd77931831fb2) ![](assets/new.png)  
+- [2021-01-08-中小团队开始回归单体架构，那么电信运营商该不该用微服务？](https://www.ershicimi.com/p/38e2d2694cb261beeb250611db885bd3) ![](assets/new.png)  
+- [2021-01-08-Fit健身APP联手HarmonyOS，升级在线健身体验](https://www.ershicimi.com/p/44d884c6a50821bc52bcdfe6fbf59ad4) ![](assets/new.png)  
+- [2021-01-08-2021年Web开发的7大趋势](https://www.ershicimi.com/p/fa0f8fab632219f45a3b452199b58fcd) ![](assets/new.png)  
+- [2021-01-08-Docker镜像优化：从1.16GB到22.4MB](https://www.ershicimi.com/p/b0074d439ce05777dbfde78580920777) ![](assets/new.png)  
+- [2021-01-07-Kotlin开发团队惹上麻烦了](https://www.ershicimi.com/p/ed46337de00ea4f05eea07482a239bb2) ![](assets/new.png)  
+- [2021-01-07-别再空谈云原生，来看实战方法论](https://www.ershicimi.com/p/3d99079d3d589ab15dbc87d5072e1b3a) ![](assets/new.png)  
+- [2021-01-07-你熟悉的TDSQL不一样了](https://www.ershicimi.com/p/7af6b049f9db889c59eb2a4a7193b217) ![](assets/new.png)  
+- [2021-01-07-5大芯片代表巅峰对话：一个面向未来的操作系统是怎样的？](https://www.ershicimi.com/p/95e32ed825195f43e3c6a50bf8671b36) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -933,6 +943,16 @@
 </summary>
 
 
+- [2021-01-11-俺貌似做了一件蠢事，-Linux-上一个空硬盘没有创建分区，就直接扩展到-lvm。](https://www.v2ex.com/t/744011) ![](assets/new.png)  
+- [2021-01-11-微软升级了-Surface-Pro-7，可换-ssd-!](https://www.v2ex.com/t/744010) ![](assets/new.png)  
+- [2021-01-11-集群内部的服务发现最新的是用-coredns-吗，谷歌-borg-用什么](https://www.v2ex.com/t/744009) ![](assets/new.png)  
+- [2021-01-11-内推-小米内推，欢迎有需要的老哥自取](https://www.v2ex.com/t/744008) ![](assets/new.png)  
+- [2021-01-11-希望-no-means-no-原则可以作为员工是否被强迫加班的认定](https://www.v2ex.com/t/744007) ![](assets/new.png)  
+- [2021-01-11-上海美团生态金融社招-3-年以上-Java-后端研发](https://www.v2ex.com/t/744006) ![](assets/new.png)  
+- [2021-01-11-国美-app-改名「真快乐」，满头问号？](https://www.v2ex.com/t/744005) ![](assets/new.png)  
+- [2021-01-11-技术渣裸辞休息几个月后拿到几个-Offer-纠结中](https://www.v2ex.com/t/744003) ![](assets/new.png)  
+- [2021-01-11-m1-版-mac-聚焦搜索偶尔失效](https://www.v2ex.com/t/744001) ![](assets/new.png)  
+- [2021-01-11-Typescript-能否达成这个效果？](https://www.v2ex.com/t/744000) ![](assets/new.png)  
 - [2021-01-11-杭州-内推-顶级美企，不加班，待遇对标-BAT。开发，技术支持多职位热招。](https://www.v2ex.com/t/743999) ![](assets/new.png)  
 - [2021-01-11-如何获得美国的住宅-IP-代理](https://www.v2ex.com/t/743997) ![](assets/new.png)  
 - [2021-01-11-如何注销知乎账号（绑定的手机已经注销了）](https://www.v2ex.com/t/743995) ![](assets/new.png)  
@@ -943,16 +963,6 @@
 - [2021-01-11-写了一个系列的文章--JUC-框架源码解析系列文章](https://www.v2ex.com/t/743989) ![](assets/new.png)  
 - [2021-01-11-所以这个节点和问与答节点有什么区别？](https://www.v2ex.com/t/743988) ![](assets/new.png)  
 - [2021-01-11-请教各位大佬，-m1-有哪些方便的代理软件可以使用？-proxifier-试过貌似不行](https://www.v2ex.com/t/743987) ![](assets/new.png)  
-- [2021-01-11-大家开始适配鸿蒙-OS-了吗？我是前端，今天被告知鸿蒙没有-webview😅](https://www.v2ex.com/t/743983) ![](assets/new.png)  
-- [2021-01-11-如何在面试的-2-3-小时内判断出一个公司是否值得入职？](https://www.v2ex.com/t/743981) ![](assets/new.png)  
-- [2021-01-11-深圳/杭州/校招/社招-前端、Android、-Java-、测试-蚂蚁科技集团境外银行技术部招贤纳士](https://www.v2ex.com/t/743979) ![](assets/new.png)  
-- [2021-01-11-国美-改名-真快乐，这是怎么了](https://www.v2ex.com/t/743978) ![](assets/new.png)  
-- [2021-01-11-分享一个平台，目前有定位模块，大家有什么好的建议吗？](https://www.v2ex.com/t/743977) ![](assets/new.png)  
-- [2021-01-11-HQ-Linux-v11-社区预览版超简单体验](https://www.v2ex.com/t/743976) ![](assets/new.png)  
-- [2021-01-11-AX210-出来了，-AX200-有没有必要换？](https://www.v2ex.com/t/743975) ![](assets/new.png)  
-- [2021-01-11-被今天的-LeetCode-打卡题搞吐了，思路和代码都和题解基本一样，但就是一直超时不过](https://www.v2ex.com/t/743974) ![](assets/new.png)  
-- [2021-01-11-在-Texlive-文件再打开编译时遇到-'ctex.sty'-not-found](https://www.v2ex.com/t/743973) ![](assets/new.png)  
-- [2021-01-11-请教：远程-Get-到复杂-JSON-极少修改之后传给前端用，怎么做最快捷高效？](https://www.v2ex.com/t/743972) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

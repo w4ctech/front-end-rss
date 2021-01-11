@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-11 14:22:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-11 14:57:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -59,10 +59,6 @@
 - [2021-01-05-一文搞懂-Web-Worker原理到实践](https://www.ershicimi.com/p/63554210aba9a373c5b77489f602f3d4) 
 - [2021-01-04-为什么不推荐用for...in遍历数组](https://www.ershicimi.com/p/577c6beaab3872ce26770bd396bd0e62) 
 - [2020-12-31-可视化拖拽组件库一些技术要点原理分析](https://www.ershicimi.com/p/d64147adc5617ba7b9d3ecbdc8bc3410) 
-- [2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 
-- [2020-12-24-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) 
-- [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
-- [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
 - [2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) 

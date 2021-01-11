@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-11 15:20:23，:rocket: 更新条数: +3867， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-11 15:42:15，:rocket: 更新条数: +3848， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
-- [物联网智库](#物联网智库)![](assets/dot.png)   
+- [物联网智库](#物联网智库)  
 
 ## 文章链接
 
@@ -943,6 +943,9 @@
 </summary>
 
 
+- [2021-01-11-OBS-使用“苹果-VT-H264-硬件编码器”录制的屏幕录像无法拖动](https://www.v2ex.com/t/744019) ![](assets/new.png)  
+- [2021-01-11-求助-V-友：寻一个可以单机部署，不依赖外部的微服务框架（运行时）](https://www.v2ex.com/t/744018) ![](assets/new.png)  
+- [2021-01-11-分享基于-bitwarden-的自建密码管理方案](https://www.v2ex.com/t/744017) ![](assets/new.png)  
 - [2021-01-11-为什么同一个-pdf-的注释，在-windows-下和-mac-下显示不一样？](https://www.v2ex.com/t/744015) ![](assets/new.png)  
 - [2021-01-11-2021-年了有没有推荐的美国实体电话卡](https://www.v2ex.com/t/744012) ![](assets/new.png)  
 - [2021-01-11-引以为戒-俺貌似做了一件蠢事，-Linux-上一个空硬盘没有创建分区，就直接扩展到-LVM。](https://www.v2ex.com/t/744011) ![](assets/new.png)  
@@ -960,9 +963,6 @@
 - [2021-01-11-如何注销知乎账号（绑定的手机已经注销了）](https://www.v2ex.com/t/743995) ![](assets/new.png)  
 - [2021-01-11-蚂蚁-CTO-线招聘云原生微服务治理专家（杭州/上海-p5-p8）](https://www.v2ex.com/t/743994) ![](assets/new.png)  
 - [2021-01-11-各位大神安利一个电脑复制手机粘贴的好用软件](https://www.v2ex.com/t/743993) ![](assets/new.png)  
-- [2021-01-11-redis-cluster-模式在-kubernetes-平台部署方案-只能提供给-k8s-集群内的应用使用，对集群外的应用根本用不了](https://www.v2ex.com/t/743991) ![](assets/new.png)  
-- [2021-01-11-蚂蚁-CTO-线招聘-IDE-插件开发人员](https://www.v2ex.com/t/743990) ![](assets/new.png)  
-- [2021-01-11-写了一个系列的文章--JUC-框架源码解析系列文章](https://www.v2ex.com/t/743989) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1019,8 +1019,8 @@
 - [2021-01-11-作为研发经理，你对产品经理知多少](https://toutiao.io/k/1l360pl) ![](assets/new.png)  
 - [2021-01-11-速度与压缩比如何兼得？压缩算法在构建部署中的优化](https://toutiao.io/k/pqwu7xw) ![](assets/new.png)  
 - [2021-01-11-如何让前端程序员没有后端也能完成项目?](https://toutiao.io/k/a3ta8qm) ![](assets/new.png)  
-- [2021-01-11-Kafka-探险：架构简介](https://toutiao.io/k/hj8otbu) ![](assets/new.png)  
 - [2021-01-11-ARM64-撬开安卓逆向大门](https://toutiao.io/k/cwesfdb) ![](assets/new.png)  
+- [2021-01-11-Kafka-探险：架构简介](https://toutiao.io/k/hj8otbu) ![](assets/new.png)  
 - [2021-01-11-PHP-开发的-GitHub-文件下载加速项目](https://toutiao.io/k/3pw1bho) ![](assets/new.png)  
 - [2021-01-11-基于-Kubernetes-部署-Apache-Zookeeper](https://toutiao.io/k/ng4oxix) ![](assets/new.png)  
 - [2021-01-11-通过-WSL-本地启动-Nacos](https://toutiao.io/k/1pxd9xf) ![](assets/new.png)  
@@ -1047,26 +1047,6 @@
 </summary>
 
 
-- [2021-01-10-我为什么认为AIoT产业在2020年跨越了拐点？【物女心经】](https://www.ershicimi.com/p/96d440b546d35094f3ee119292a9e309) ![](assets/new.png)  
-- [2021-01-10-物联网投融资周报|燧原科技获18亿元融资；地平线完成4亿美元融资；汇顶科技战投航顺芯片；丰疆智能获腾](https://www.ershicimi.com/p/8c19386d15ed4e017c79701883643ef9) ![](assets/new.png)  
-- [2021-01-09-5G产业十年掘金，万亿市场全面打开丨《2021中国5G产业全景图谱报告》重磅发布【附全文下载】](https://www.ershicimi.com/p/d483954b4e15cba06a5d79ad49dc2d02) ![](assets/new.png)  
-- [2021-01-09-为何说“5G+工业互联网”大有可为？这份《5G+工业互联网发展评估白皮书》告诉你](https://www.ershicimi.com/p/c68cca21ddf1664465b03ac39cbdf7ac) ![](assets/new.png)  
-- [2021-01-08-大咖演讲精华/产业重磅图谱/榜单新鲜出炉！2020-AIoT产业年终盛典圆满落幕](https://www.ershicimi.com/p/4795d71f5708faa4a93b3c09b4f0ffd6) ![](assets/new.png)  
-- [2021-01-07-刚刚，《2021中国AIoT产业全景图谱报告》重磅发布！物联网发展跨越拐点](https://www.ershicimi.com/p/87964ca49f1261078edc51cb8faa719e) ![](assets/new.png)  
-- [2021-01-07-2020-AIoT产业年终盛典正在直播！速进~](https://www.ershicimi.com/p/303c4da836d6c0695a4c5753d50d2812) ![](assets/new.png)  
-- [2021-01-06-【重磅发布】10大最有影响力的物联网行业大事件（2020）](https://www.ershicimi.com/p/19192ce0bff73d8c532a8aa287c666f7) ![](assets/new.png)  
-- [2021-01-06-小小模组结束传统汽车百年“移动出行工具”属性？](https://www.ershicimi.com/p/fc6155796c9999ccf431faa9a8242c03) ![](assets/new.png)  
-- [2021-01-06-明天，重大发布！](https://www.ershicimi.com/p/c0f0ee59da54dfd16434471a8cc94c35) ![](assets/new.png)  
-- [2021-01-05-可怕的不只是“拼多多们”的冷漠回复，还有物联网技术对“打工人”的极致压榨……](https://www.ershicimi.com/p/1c57611e8e0cd5e7249564253fc7ec83) ![](assets/new.png)  
-- [2021-01-05-【倒计时2天】大咖演讲/产业图谱/行业榜单即将出炉！年度AIoT产业盛典重磅来袭](https://www.ershicimi.com/p/c94f3c12d900b6804ea58be6b0024bf9) ![](assets/new.png)  
-- [2021-01-05-室内5G？轻松搞定！](https://www.ershicimi.com/p/393643c8fa2dc711776f5670d101fc44) ![](assets/new.png)  
-- [2021-01-05-川普跳「鸡你太美」？这么专业，一定是AI合成的！](https://www.ershicimi.com/p/ec59ad1ecb5ddb28266ba5505d4e44d9) ![](assets/new.png)  
-- [2021-01-04-特斯拉这几天生意特！别！好！](https://www.ershicimi.com/p/f4ee978545940f2103ad275f9600e7c8) ![](assets/new.png)  
-- [2021-01-04-【倒计时3天】大咖演讲/产业图谱/行业榜单即将出炉！年度AIoT产业盛典重磅来袭](https://www.ershicimi.com/p/f87eab0491af3ce17cc669ce82bae1d2) ![](assets/new.png)  
-- [2021-01-04-AIoT产业起飞前夜，开发者成为了最不可缺的核心资源](https://www.ershicimi.com/p/6f6705080e705d323127c8e5f9bfdf44) ![](assets/new.png)  
-- [2021-01-03-AIoT图谱、5G图谱、物链网图谱、5G+工业互联网发展指数…年度重磅报告即将出炉【物女心经】](https://www.ershicimi.com/p/6ba4834afbf7050165787a88cf32b991) ![](assets/new.png)  
-- [2021-01-03-物联网投融资周报|小米长江产业基金入股泰凌微电子；软银亚洲风投领投擎朗智能；矽昌通信数亿融资落定](https://www.ershicimi.com/p/47ba6181b460187d00050a32d5fd130a) ![](assets/new.png)  
-- [2021-01-02-2021年新建60万5G基站，发挥的是超过100万基站的作用](https://www.ershicimi.com/p/6b97757417cbd82acc43ca8a253eb0e2) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

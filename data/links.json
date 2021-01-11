@@ -19584,13 +19584,13 @@
         "date": "2021-01-11"
       },
       {
-        "title": "基于 Kubernetes 部署 Apache Zookeeper",
-        "link": "https://toutiao.io/k/ng4oxix",
+        "title": "PHP 开发的 GitHub 文件下载加速项目",
+        "link": "https://toutiao.io/k/3pw1bho",
         "date": "2021-01-11"
       },
       {
-        "title": "PHP 开发的 GitHub 文件下载加速项目",
-        "link": "https://toutiao.io/k/3pw1bho",
+        "title": "基于 Kubernetes 部署 Apache Zookeeper",
+        "link": "https://toutiao.io/k/ng4oxix",
         "date": "2021-01-11"
       },
       {
@@ -19599,63 +19599,8 @@
         "date": "2021-01-11"
       },
       {
-        "title": "[推荐] Spring：我是如何解决循环依赖的？",
-        "link": "https://toutiao.io/k/ib9ck31",
-        "date": "2021-01-11"
-      },
-      {
-        "title": "[推荐] 啥，听说你用了 Spring Boot，但是开发的接口还在裸奔？",
-        "link": "https://toutiao.io/k/gtkn1lp",
-        "date": "2021-01-11"
-      },
-      {
-        "title": "[推荐] 2020 年，我在编程时遇见的几个好物",
-        "link": "https://toutiao.io/k/ezq0qnu",
-        "date": "2021-01-11"
-      },
-      {
-        "title": "[推荐] 微服务架构 10 个最重要的设计模式",
-        "link": "https://toutiao.io/k/krsjiu0",
-        "date": "2021-01-11"
-      },
-      {
-        "title": "[推荐] vivo 全球商城：订单中心架构设计与实践",
-        "link": "https://toutiao.io/k/lcopypw",
-        "date": "2021-01-11"
-      },
-      {
-        "title": "[推荐] JVM 基础，快进来复习复习吧",
-        "link": "https://toutiao.io/k/snunrr7",
-        "date": "2021-01-11"
-      },
-      {
-        "title": "[推荐] 广告系统架构解密",
-        "link": "https://toutiao.io/k/3ydgnwy",
-        "date": "2021-01-11"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的堆题，我发现了这些东西",
-        "link": "https://toutiao.io/k/im0exw3",
-        "date": "2021-01-11"
-      },
-      {
-        "title": "[推荐] 如何优雅地重试",
-        "link": "https://toutiao.io/k/z3j5ni9",
-        "date": "2021-01-11"
-      },
-      {
-        "title": "[推荐] 软件架构基础（一）：架构师的 8 大核心能力",
-        "link": "https://toutiao.io/k/mk9kqnq",
-        "date": "2021-01-11"
-      },
-      {
-        "title": "[推荐] 当年，我的架构师之路差点完蛋，幸亏了它",
-        "link": "https://toutiao.io/k/10zqtkl",
-        "date": "2021-01-11"
-      },
-      {
-        "title": "[推荐] 高并发服务遇 Redis 瓶颈引发的事故",
-        "link": "https://toutiao.io/k/mg8zd72",
+        "title": "[推荐] 支撑 700 亿数据量的 ClickHouse 高可用架构实践",
+        "link": "https://toutiao.io/k/f5v4m55",
         "date": "2021-01-11"
       },
       {
@@ -19664,13 +19609,68 @@
         "date": "2021-01-11"
       },
       {
+        "title": "[推荐] JVM 基础，快进来复习复习吧",
+        "link": "https://toutiao.io/k/snunrr7",
+        "date": "2021-01-11"
+      },
+      {
+        "title": "[推荐] 工程师职级胜任力框架",
+        "link": "https://toutiao.io/k/rxxemhb",
+        "date": "2021-01-11"
+      },
+      {
+        "title": "[推荐] Spring：我是如何解决循环依赖的？",
+        "link": "https://toutiao.io/k/ib9ck31",
+        "date": "2021-01-11"
+      },
+      {
+        "title": "[推荐] 2020 年，我在编程时遇见的几个好物",
+        "link": "https://toutiao.io/k/ezq0qnu",
+        "date": "2021-01-11"
+      },
+      {
+        "title": "[推荐] 啥，听说你用了 Spring Boot，但是开发的接口还在裸奔？",
+        "link": "https://toutiao.io/k/gtkn1lp",
+        "date": "2021-01-11"
+      },
+      {
+        "title": "[推荐] 如何优雅地重试",
+        "link": "https://toutiao.io/k/z3j5ni9",
+        "date": "2021-01-11"
+      },
+      {
+        "title": "[推荐] 一个产品需求的研发流程是怎样的？",
+        "link": "https://toutiao.io/k/fb90qrq",
+        "date": "2021-01-11"
+      },
+      {
+        "title": "[推荐] 求你了，别再随便打日志了，教你动态修改日志级别",
+        "link": "https://toutiao.io/k/8bity1f",
+        "date": "2021-01-11"
+      },
+      {
         "title": "[推荐] 挑战 Redis 单实例内存最大极限，“遭遇” NUMA 陷阱",
         "link": "https://toutiao.io/k/4mnda7r",
         "date": "2021-01-11"
       },
       {
-        "title": "[推荐] 支撑 700 亿数据量的 ClickHouse 高可用架构实践",
-        "link": "https://toutiao.io/k/f5v4m55",
+        "title": "[推荐] 软件架构基础（一）：架构师的 8 大核心能力",
+        "link": "https://toutiao.io/k/mk9kqnq",
+        "date": "2021-01-11"
+      },
+      {
+        "title": "[推荐] 硬核！15 张图解 Redis 为什么这么快",
+        "link": "https://toutiao.io/k/231rpaj",
+        "date": "2021-01-11"
+      },
+      {
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/3ydgnwy",
+        "date": "2021-01-11"
+      },
+      {
+        "title": "[推荐] 高并发服务遇 Redis 瓶颈引发的事故",
+        "link": "https://toutiao.io/k/mg8zd72",
         "date": "2021-01-11"
       }
     ]

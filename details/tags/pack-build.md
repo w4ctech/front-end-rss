@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-11 09:11:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-11 09:58:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -13,3 +13,4 @@
 - [2016-09-22-通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/) 
 - [2016-02-26-使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
+- [2021-01-11-速度与压缩比如何兼得？压缩算法在构建部署中的优化](https://toutiao.io/k/pqwu7xw) 

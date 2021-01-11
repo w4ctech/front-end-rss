@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-11 21:54:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-11 22:08:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,4 +42,6 @@
 - [2021-01-07-Spring-Boot-解决跨域问题的-3-种方案！](https://www.ershicimi.com/p/840e630e0e3ecfcbfbf976b9219f9e5f) 
 - [2021-01-05-全球第二大浏览器升级！内存/CPU占用暴降](https://www.ershicimi.com/p/cffbbc29f86b228e242ea56364b23b87) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-01-11-有没有专门用于-缓存-动态-API-返回-的缓存中间件（反向代理带有缓存功能）中间件](https://www.v2ex.com/t/744032) 
+- [2021-01-11-请教各位大佬，-m1-有哪些方便的代理软件可以使用？-proxifier-试过貌似不行](https://www.v2ex.com/t/743987) 
 - [2021-01-11-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) 

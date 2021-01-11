@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-11 20:18:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-11 20:22:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -49,6 +49,7 @@
 - [2021-01-05-Vue-开发实战-—-从-0-开始搭建大型-Vue-项目](https://www.ershicimi.com/p/61003712e83b5779a3397a61b0239431) 
 - [2020-12-27-如何把平凡的-vue-项目，做的出彩！](https://www.ershicimi.com/p/df4127bf032a34059cfac1ed954876ca) 
 - [2020-12-26-Electron-+-Vue-从零开始打造一个本地播放器](https://www.ershicimi.com/p/994cc93b7ee777080cb99ea3a2c8c450) 
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) 
 - [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) 
 - [2017-07-17-Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/) 

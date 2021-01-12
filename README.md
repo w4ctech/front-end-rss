@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-12 05:15:37，:rocket: 更新条数: +390， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-12 06:02:40，:rocket: 更新条数: +3457， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-01-12-1月11日新增新冠55例-河北本土40例](https://m.caixin.com/m/2021-01-12/101649418.html) ![](assets/new.png)  
+- [2021-01-12-河北固安确诊者为北京西城庄胜广场某公司员工-密接95人](https://m.caixin.com/m/2021-01-12/101649440.html) ![](assets/new.png)  
+- [2021-01-12-张文宏：河北疫情约1个月将控制-疫苗推进速度决定未来](http://m.opinion.caixin.com/m/2021-01-12/101649425.html) ![](assets/new.png)  
+- [2021-01-12-大流行手记|1月11日：BioNTech建新工厂加速疫苗供应-非洲多国医院超负荷](https://m.caixin.com/m/2021-01-12/101649445.html) ![](assets/new.png)  
+- [2021-01-11-绥化报告45例无症状感染1人确诊-望奎县封城涉多场婚礼聚餐](https://m.caixin.com/m/2021-01-11/101649381.html) ![](assets/new.png)  
+- [2021-01-11-最新海外疫情：新冠感染超9018万-累计死亡近193万](https://m.caixin.com/m/2021-01-11/101649317.html) ![](assets/new.png)  
+- [2021-01-11-山西晋中查出2名河北输入无症状感染者-行程轨迹公布](http://m.china.caixin.com/m/2021-01-11/101649402.html) ![](assets/new.png)  
+- [2021-01-11-1月10日河北新增82例新冠肺炎确诊病例，行动轨迹公布](https://m.caixin.com/m/2021-01-11/101648920.html) ![](assets/new.png)  
+- [2021-01-11-【境内疫情观察】河北新增82例本土病例（1月10日）](http://m.database.caixin.com/m/2021-01-11/101649164.html) ![](assets/new.png)  
+- [2021-01-11-大流行手记|1月10日：英德新冠死亡人数连续四日破千-日本发现全新变种病毒](https://m.caixin.com/m/2021-01-11/101648880.html) ![](assets/new.png)  
+- [2021-01-11-日本发现新变异病毒-八成民意对东京奥运如期举办悲观](http://m.international.caixin.com/m/2021-01-11/101649010.html) ![](assets/new.png)  
+- [2021-01-11-中英客运航班继续取消-英国确诊病例加速增长](http://m.companies.caixin.com/m/2021-01-11/101648980.html) ![](assets/new.png)  
+- [2021-01-11-世卫新冠溯源国际专家组要来了！-1月14日](https://m.caixin.com/m/2021-01-11/101648991.html) ![](assets/new.png)  
+- [2021-01-10-石家庄“零号病例”或早于12月15日-五条路径溯源](https://m.caixin.com/m/2021-01-10/101648828.html) ![](assets/new.png)  
+- [2021-01-10-北京顺义新增1+1轨迹，乘客乘网约车需扫健康码](http://m.china.caixin.com/m/2021-01-10/101648831.html) ![](assets/new.png)  
+- [2021-01-10-武汉新冠患者随访：超7成在确诊6个月后仍有至少一项症状](https://m.caixin.com/m/2021-01-10/101648807.html) ![](assets/new.png)  
+- [2021-01-10-【境内疫情观察】河北新增46例本土病例（1月9日）](http://m.database.caixin.com/m/2021-01-10/101648809.html) ![](assets/new.png)  
+- [2021-01-10-大流行手记|1月9日：WHO吁发达国不要“插队”抢疫苗-欧盟调整接种剂量](https://m.caixin.com/m/2021-01-10/101648761.html) ![](assets/new.png)  
+- [2021-01-09-石家庄回应网传小果庄村宗教活动](http://m.china.caixin.com/m/2021-01-09/101648718.html) ![](assets/new.png)  
+- [2021-01-09-石家庄首轮核酸检测完成-疫情尚未出现明显拐点](https://m.caixin.com/m/2021-01-09/101648678.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -76,6 +96,10 @@
 </summary>
 
 
+- [2021-01-12-石家庄新增确诊病例行动轨迹公布](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiljEZHgsltJYa6Ph3Iask210112&isfromapp=1) ![](assets/new.png)  
+- [2021-01-12-11-日新增新冠肺炎本土确诊-42-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC17QTb57yOxao36LTxC3210112&isfromapp=1) ![](assets/new.png)  
+- [2021-01-11-黑龙江一地封城，河北多地升为中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid9FJBSPvvBXErrTTYHp3210111&isfromapp=1) ![](assets/new.png)  
+- [2021-01-11-北京一家-7-口感染，密接-432-人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRsVzmTffHdlYLwyKPZta210111&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -524,6 +548,17 @@
 </summary>
 
 
+- [2021-01-12-你试用-Parallels-Desktop-For-M1-芯片-Mac-技术预览版了吗？](https://www.v2ex.com/t/744164) ![](assets/new.png)  
+- [2021-01-12-六月份入的-iPhone-SE-2,电池健康只有-89-了，自从更新到-iOS14-以后跳跃式下降](https://www.v2ex.com/t/744163) ![](assets/new.png)  
+- [2021-01-12-typescript-类型推导的问题](https://www.v2ex.com/t/744162) ![](assets/new.png)  
+- [2021-01-12-分享一下深度学习笔记](https://www.v2ex.com/t/744161) ![](assets/new.png)  
+- [2021-01-12-app-store-真让人头疼，有个库乐队应用老是提示更新，然后点进去更新又不兼容-macos10。我就-ca-了，这种兼容-macos11-的在-macos10-上就不要显示并提示需要更新...](https://www.v2ex.com/t/744159) ![](assets/new.png)  
+- [2021-01-12-Macbook-PRO-2016-千兆网卡只有-100M](https://www.v2ex.com/t/744158) ![](assets/new.png)  
+- [2021-01-12-udp-转发](https://www.v2ex.com/t/744154) ![](assets/new.png)  
+- [2021-01-12-最近的病假有点多，公司让整理一下现在日常工作的流程，出一个流程文档。这是什么节奏呀。](https://www.v2ex.com/t/744152) ![](assets/new.png)  
+- [2021-01-12-分享-最流行的-10-个-JavaScript-库](https://www.v2ex.com/t/744151) ![](assets/new.png)  
+- [2021-01-12-你们用-BetterTouchTool-在干什么?](https://www.v2ex.com/t/744150) ![](assets/new.png)  
+- [2021-01-12-盒马-新零售供应链/生鲜供应链---Java-技术专家](https://www.v2ex.com/t/744149) ![](assets/new.png)  
 - [2021-01-12-多进程写入文件时，-windows-和-Linux-表现不一样，是什么原因](https://www.v2ex.com/t/744148) ![](assets/new.png)  
 - [2021-01-12-Google-app-是不是在某个时候取消了内置-Gboard？](https://www.v2ex.com/t/744147) ![](assets/new.png)  
 - [2021-01-12-迫于疫情，来聊聊异地过年的节目](https://www.v2ex.com/t/744146) ![](assets/new.png)  
@@ -533,17 +568,6 @@
 - [2021-01-12-百度翻译和谷歌翻译的差距……](https://www.v2ex.com/t/744140) ![](assets/new.png)  
 - [2021-01-12-实习-微软亚洲研究院-基于-FPGA-的云加速技术开发实习生](https://www.v2ex.com/t/744139) ![](assets/new.png)  
 - [2021-01-12-请教一个问题，想搭建一个网站，目的就是一些人发一些文章用的](https://www.v2ex.com/t/744137) ![](assets/new.png)  
-- [2021-01-12-分享一个基于-Rust-的搜索引擎-MeiliSearch](https://www.v2ex.com/t/744135) ![](assets/new.png)  
-- [2021-01-12-现在2021-年用于开发调试的-android-机有推荐的吗？](https://www.v2ex.com/t/744134) ![](assets/new.png)  
-- [2021-01-12-不用写文档，靠说就可以](https://www.v2ex.com/t/744133) ![](assets/new.png)  
-- [2021-01-12-目前-M1-平台有可以修改-MAC-地址的外置网卡吗？](https://www.v2ex.com/t/744130) ![](assets/new.png)  
-- [2021-01-12-2021-了，免费领个阿里云棒球帽吧](https://www.v2ex.com/t/744129) ![](assets/new.png)  
-- [2021-01-12-分享一个迷之操作](https://www.v2ex.com/t/744128) ![](assets/new.png)  
-- [2021-01-12-招聘中高级工程师一名，-Java-程序员-3-5-名，公司自主开发，招聘正式员工，不要派遣或兼职。](https://www.v2ex.com/t/744127) ![](assets/new.png)  
-- [2021-01-12-怎么做个能远程操控的门铃？需要什么软件和硬件吗？](https://www.v2ex.com/t/744126) ![](assets/new.png)  
-- [2021-01-12-哪位大佬有幼儿英语教学视频资源的哈，可以分享下不](https://www.v2ex.com/t/744125) ![](assets/new.png)  
-- [2021-01-12-iMessage-这种情况有人遇到过吗？](https://www.v2ex.com/t/744124) ![](assets/new.png)  
-- [2021-01-12-第一次买游戏主机，不知道是选择索尼家还是微软家](https://www.v2ex.com/t/744122) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -593,12 +617,12 @@
 - [2021-01-12-人人都是-LSP？：种子与文件下载的相爱相杀](https://toutiao.io/k/mkgyw4w) ![](assets/new.png)  
 - [2021-01-12-Python-协程的本质？原来也不过如此](https://toutiao.io/k/bbvwde8) ![](assets/new.png)  
 - [2021-01-12-Seata-是什么](https://toutiao.io/k/nij5hjh) ![](assets/new.png)  
-- [2021-01-12-k8s-学习之路（二）：基础概念介绍](https://toutiao.io/k/b4umboe) ![](assets/new.png)  
 - [2021-01-12-Vue-3，我决定不再使用-Vuex](https://toutiao.io/k/7n0sf25) ![](assets/new.png)  
+- [2021-01-12-k8s-学习之路（二）：基础概念介绍](https://toutiao.io/k/b4umboe) ![](assets/new.png)  
 - [2021-01-12-Rust-的一些科学计算相关经验](https://toutiao.io/k/93s3iuc) ![](assets/new.png)  
 - [2021-01-12-译-50+-有用的-DevOps-工具（三）](https://toutiao.io/k/r0j4w5t) ![](assets/new.png)  
-- [2021-01-12-深度学习行人重识别综述与展望，TPAMI-2021-最新文章](https://toutiao.io/k/zoyl10s) ![](assets/new.png)  
 - [2021-01-12-Go-并发编程（九）：深入理解-Context](https://toutiao.io/k/h3qtyq7) ![](assets/new.png)  
+- [2021-01-12-深度学习行人重识别综述与展望，TPAMI-2021-最新文章](https://toutiao.io/k/zoyl10s) ![](assets/new.png)  
 - [2021-01-12-从流水线到独立办公桌](https://toutiao.io/k/huzx1dq) ![](assets/new.png)  
 - [2021-01-12-你真的懂异步编程吗？](https://toutiao.io/k/qq18kec) ![](assets/new.png)  
 - [2021-01-12-Android-应用的版本兼容了解一下（理解-minSdkVersion、targetSdkVersion）](https://toutiao.io/k/0glk13i) ![](assets/new.png)  

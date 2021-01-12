@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-12 20:27:58，:rocket: 更新条数: +3677， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-12 21:00:21，:rocket: 更新条数: +580， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -28,29 +28,29 @@
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
-- [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)  
+- [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
+- [前端宇宙](#前端宇宙)![](assets/dot.png)   
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
-- [奇舞周刊](#奇舞周刊)  
+- [凹凸实验室](#凹凸实验室)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)![](assets/dot.png)   
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
-- [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [编程之上](#编程之上)![](assets/dot.png)   
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-01-12-最新疫情：全国新冠累计确诊87591例-本土病例新增42例](https://m.caixin.com/m/2021-01-12/101649965.html) ![](assets/new.png)  
-- [2021-01-12-哈尔滨新增1例新冠确诊病例-由望奎县返哈](https://m.caixin.com/m/2021-01-12/101649969.html) ![](assets/new.png)  
-- [2021-01-12-河北三市全域封闭管理-一镇超2万名村民正在转移隔离](https://m.caixin.com/m/2021-01-12/101649865.html) ![](assets/new.png)  
-- [2021-01-12-廊坊实行封闭式管理-部分进京通道关闭、公交停运](https://m.caixin.com/m/2021-01-12/101649812.html) ![](assets/new.png)  
-- [2021-01-12-最新海外疫情：新冠感染超9079万-累计死亡近194万](https://m.caixin.com/m/2021-01-12/101649821.html) ![](assets/new.png)  
-- [2021-01-12-石家庄、邢台、廊坊全域封闭](https://m.caixin.com/m/2021-01-12/101649735.html) ![](assets/new.png)  
-- [2021-01-12-北京新增一确诊病例-为顺义5岁儿童](https://m.caixin.com/m/2021-01-12/101649758.html) ![](assets/new.png)  
-- [2021-01-12-河北固安确诊者为北京西城庄胜广场某公司员工-密接95人](https://m.caixin.com/m/2021-01-12/101649440.html) ![](assets/new.png)  
-- [2021-01-12-【境内疫情观察】河北新增40例本土病例（1月11日）](http://m.database.caixin.com/m/2021-01-12/101649664.html) ![](assets/new.png)  
-- [2021-01-12-大流行手记|1月11日：BioNTech建新工厂加速疫苗供应-非洲多国医院超负荷](https://m.caixin.com/m/2021-01-12/101649445.html) ![](assets/new.png)  
-- [2021-01-12-数字说|新冠疫苗都被哪些国家抢购？多少人接种了？](http://m.datanews.caixin.com/m/2021-01-12/101649826.html) ![](assets/new.png)  
-- [2021-01-12-张文宏：河北疫情约1个月将控制-疫苗推进速度决定未来](http://m.opinion.caixin.com/m/2021-01-12/101649425.html) ![](assets/new.png)  
-- [2021-01-12-意大利一女子2019年11月已感染新冠病毒](http://m.international.caixin.com/m/2021-01-12/101649794.html) ![](assets/new.png)  
-- [2021-01-11-绥化报告45例无症状感染1人确诊-望奎县封城涉多场婚礼聚餐](https://m.caixin.com/m/2021-01-11/101649381.html) ![](assets/new.png)  
-- [2021-01-11-山西晋中查出2名河北输入无症状感染者-行程轨迹公布](http://m.china.caixin.com/m/2021-01-11/101649402.html) ![](assets/new.png)  
-- [2021-01-11-1月10日河北新增82例新冠肺炎确诊病例，行动轨迹公布](https://m.caixin.com/m/2021-01-11/101648920.html) ![](assets/new.png)  
-- [2021-01-11-【境内疫情观察】河北新增82例本土病例（1月10日）](http://m.database.caixin.com/m/2021-01-11/101649164.html) ![](assets/new.png)  
-- [2021-01-11-大流行手记|1月10日：英德新冠死亡人数连续四日破千-日本发现全新变种病毒](https://m.caixin.com/m/2021-01-11/101648880.html) ![](assets/new.png)  
-- [2021-01-11-日本发现新变异病毒-八成民意对东京奥运如期举办悲观](http://m.international.caixin.com/m/2021-01-11/101649010.html) ![](assets/new.png)  
-- [2021-01-11-中英客运航班继续取消-英国确诊病例加速增长](http://m.companies.caixin.com/m/2021-01-11/101648980.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -408,6 +388,26 @@
 </summary>
 
 
+- [2021-01-11-Flutter-的性能分析、工程架构与细节处理](https://www.ershicimi.com/p/9853a03827d044f44972d09c9e8450f1) ![](assets/new.png)  
+- [2021-01-11-大型-web-前端架构设计-面向抽象编程入门](https://www.ershicimi.com/p/7634b3a8194b29cfb5ec9e841bef7551) ![](assets/new.png)  
+- [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？-|-活动推荐](https://www.ershicimi.com/p/1cc079efeafb7358827dc65c38bff401) ![](assets/new.png)  
+- [2021-01-10-前端周报：前链家员工删库跑路，被判-7-年；向-Mac-移植-Linux-的项目正式启动；互联网公司](https://www.ershicimi.com/p/a7a07d74acd8938d955f0ae9bf76cc10) ![](assets/new.png)  
+- [2021-01-08-从Weex到Web，性能逆势如何破局？](https://www.ershicimi.com/p/a016af5ced7b162f3c018c205a70671c) ![](assets/new.png)  
+- [2021-01-08-腾讯文档表格：大型前端项目架构优化探索之路](https://www.ershicimi.com/p/6ba888fc6deaa0a1c1f6344892cc0bd7) ![](assets/new.png)  
+- [2021-01-08-转行难道不是因为想拿高薪？-|-活动推荐](https://www.ershicimi.com/p/bb6169fdd317e18348113fc45e5f0dbb) ![](assets/new.png)  
+- [2021-01-06-2021年Web开发的7大趋势](https://www.ershicimi.com/p/3b9804fbd88d2e1d5928c9eecc6d1db0) ![](assets/new.png)  
+- [2021-01-06-滴滴DoKit-For-Flutter正式开源，功能及核心实现解读](https://www.ershicimi.com/p/bc9e685e409839177e94d751afd62e73) ![](assets/new.png)  
+- [2021-01-06-2021年注定又是程序员最内卷的一年，提前做好面试准备很关键-|-活动推荐](https://www.ershicimi.com/p/83bc7ecc4c679e72b7ce598d2da9df96) ![](assets/new.png)  
+- [2021-01-04-你应该了解的25个JS技巧](https://www.ershicimi.com/p/2f392c26ff75efe0a0bfb03d83af565f) ![](assets/new.png)  
+- [2021-01-04-30个编程领域的趣图](https://www.ershicimi.com/p/aca5ad15de4dddd493c1902382d711ff) ![](assets/new.png)  
+- [2021-01-04-产品经理训练营有偿招募兼职助教-|-助教招募](https://www.ershicimi.com/p/f4cca46b2d6aba75ee6cfef472ce90a7) ![](assets/new.png)  
+- [2021-01-03-前端周报：开发者向开源项目提交-issue-表达谢意引发争论；国内开发者开源抢茅台软件；小米新手机](https://www.ershicimi.com/p/53514a4d3a2900719ae6ab02eab56d21) ![](assets/new.png)  
+- [2020-12-31-Thresh-今天正式开源，有望成为替代-RN-的一种长期方案](https://www.ershicimi.com/p/1556263b759a915fcc4a1e92c9e877b3) ![](assets/new.png)  
+- [2020-12-31-如何在Flutter和JavaScript之间创建通信桥](https://www.ershicimi.com/p/afee8aac2c23114983a99f5b8a432781) ![](assets/new.png)  
+- [2020-12-30-大前端不是全栈](https://www.ershicimi.com/p/24bcab9669a4618d58e69af5414166c4) ![](assets/new.png)  
+- [2020-12-30-改善代码可读性的5种方法](https://www.ershicimi.com/p/849d22e4f721435ace29d5fb92438d89) ![](assets/new.png)  
+- [2020-12-30-最火的-Vue-前端框架，你用对了么？-|-活动推荐](https://www.ershicimi.com/p/d5202a9c9ee47ad5c371204cddf26da5) ![](assets/new.png)  
+- [2020-12-29-别让框架成为你前端成长路上的“绊脚石”](https://www.ershicimi.com/p/04ed722884e53c7aa6619f96dd3ac617) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -441,6 +441,26 @@
 </summary>
 
 
+- [2021-01-05-编写高质量可维护的代码：Awesome-TypeScript](https://www.ershicimi.com/p/0e0e4e00548bd0c316732a2a25594a04) ![](assets/new.png)  
+- [2020-12-29-前端工程师的自我修养：React-Fiber-是如何实现更新过程可控的](https://www.ershicimi.com/p/72dc6b442470071a8e05aa0ceba63acb) ![](assets/new.png)  
+- [2020-12-22-V8-引擎垃圾回收与内存分配](https://www.ershicimi.com/p/1a0e4f18abc4d979ab8de6939f2ac8cb) ![](assets/new.png)  
+- [2020-12-15-初中级工程师如何快速成长和寻求突破](https://www.ershicimi.com/p/dcc6ec6265d1ebba66605cf04d38b0c9) ![](assets/new.png)  
+- [2020-12-08-NPM-私库从搭建到数据迁移最后容灾备份的一些解决方案](https://www.ershicimi.com/p/7f053b7e4395be0afc90a5470a580df9) ![](assets/new.png)  
+- [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) ![](assets/new.png)  
+- [2020-11-24-“混合双打”之如何在-Class-Components-中使用-React-Hooks](https://www.ershicimi.com/p/0e0e249530678f763e438de795805147) ![](assets/new.png)  
+- [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) ![](assets/new.png)  
+- [2020-11-08-结合阿里云-FC-谈谈我对-FaaS-的理解](https://www.ershicimi.com/p/da748cc719267d5c4e9af5f0c47fa90d) ![](assets/new.png)  
+- [2020-11-01-【告别复制粘贴】动态模板生成小技巧](https://www.ershicimi.com/p/ab1714766066254e7a95c5bda49fa6e1) ![](assets/new.png)  
+- [2020-10-29-如何从-0-到-1-搭建性能检测系统修正版](https://www.ershicimi.com/p/caf97cfac5fe753a40ff1f199bf6abfe) ![](assets/new.png)  
+- [2020-10-18-敏感数据加密方案及实现](https://www.ershicimi.com/p/c27ed4cfbf8289a917dbdee2c7be650a) ![](assets/new.png)  
+- [2020-10-11-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/0590b6964c9fcfc3e48286bd7d353627) ![](assets/new.png)  
+- [2020-09-27-编写高质量可维护的代码：一目了然的注释](https://www.ershicimi.com/p/7a7575a896b232f5080440829b899ae2) ![](assets/new.png)  
+- [2020-09-20-浅谈-React-中的-XSS-攻击](https://www.ershicimi.com/p/cf465a8944c2bbb107812b217cc74f63) ![](assets/new.png)  
+- [2020-09-13-女生如何在前端职业发展中寻求突破](https://www.ershicimi.com/p/4296d65c95f80b7fd6430aecbd1931aa) ![](assets/new.png)  
+- [2020-09-06-从实习到入职：与你分享我在政采云的工作和成长](https://www.ershicimi.com/p/240a7a2378dc1f788c26d22f4e87ee6c) ![](assets/new.png)  
+- [2020-08-30-编写高质量可维护的代码：数据建模](https://www.ershicimi.com/p/543500756a69a867cf0e0f76d1da977b) ![](assets/new.png)  
+- [2020-08-23-npm-依赖管理中被忽略的那些细节](https://www.ershicimi.com/p/dbc75e14c0a00bf3a7a748722c7077b2) ![](assets/new.png)  
+- [2020-08-19-政采云前端团队-2021-届校园招聘正式启动！](https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194) ![](assets/new.png)  
 - [......【查看更多】......](./details/政采云前端团队.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -452,6 +472,26 @@
 </summary>
 
 
+- [2021-01-12-为什么那么多自学Web前端的人后来都放弃了?](https://www.ershicimi.com/p/ee9ef8b1f90159bffcce5f7793f150f9) ![](assets/new.png)  
+- [2021-01-12-为什么-Vue3-选择了-CSS-变量](https://www.ershicimi.com/p/91569cd6415df5bd6b090d1b7c92e0ae) ![](assets/new.png)  
+- [2021-01-11-推荐-12-个学习前端必备的神仙级工具类项目与网站](https://www.ershicimi.com/p/0ad8734b076c111780ea0ad220bec3a0) ![](assets/new.png)  
+- [2021-01-08-大厂面试中那些无中生有的事](https://www.ershicimi.com/p/18f7162969d66a06d5d6e572d73be680) ![](assets/new.png)  
+- [2021-01-08-我不配-？？？？？？？？？](https://www.ershicimi.com/p/f51d0599335d6f2f9eff93fe824e90b0) ![](assets/new.png)  
+- [2021-01-07-封装-axios-取消重复请求](https://www.ershicimi.com/p/034b0e14f964706740244bdd96b3de26) ![](assets/new.png)  
+- [2021-01-06-Vue.js开发移动端经验总结](https://www.ershicimi.com/p/724c0f48c4b1a9f2ac3b394524946cc8) ![](assets/new.png)  
+- [2021-01-05-2021年，你该学点-Vue3.0-源码了](https://www.ershicimi.com/p/ddd6cda8a8128c22379e30f9301d2171) ![](assets/new.png)  
+- [2021-01-04-你会用到的-15个前端小知识](https://www.ershicimi.com/p/5d47856547572663124602a7a3d09255) ![](assets/new.png)  
+- [2020-12-31-5年时间，我是如何在帝都全款买房的！！！](https://www.ershicimi.com/p/77c32ca8c19d315f4bc2722cf787df0c) ![](assets/new.png)  
+- [2020-12-31-推荐几个涨姿势的前端公众号](https://www.ershicimi.com/p/1a9570786648becc1660621c4647ac70) ![](assets/new.png)  
+- [2020-12-30-从前端性能优化引申出来的5道经典面试题值得收藏](https://www.ershicimi.com/p/7a9d80fbcc9823bbc5884b0894af23a6) ![](assets/new.png)  
+- [2020-12-29-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/c63d28f5cb612614d2190525cfe5c768) ![](assets/new.png)  
+- [2020-12-28-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/ecc2a70caec8952abc4bbcc109ec857e) ![](assets/new.png)  
+- [2020-12-25-JavaScript-里的奇葩知识](https://www.ershicimi.com/p/6b4ad28f598d887acafc0828d3f7fafc) ![](assets/new.png)  
+- [2020-12-24-2020年最后一个月，再拼一把！](https://www.ershicimi.com/p/f883ae0b44b1824a5d1ba56e30d26287) ![](assets/new.png)  
+- [2020-12-23-12-个-GitHub-上超火的-JavaScript-奇技淫巧项目，找到写-JavaScript](https://www.ershicimi.com/p/e6e7b35863ae67a4201f03d4230f61e2) ![](assets/new.png)  
+- [2020-12-22-2020年12月程序员工资新出炉，你拖后腿了吗？](https://www.ershicimi.com/p/0d7de00c6a3f375cff7f64f43483f929) ![](assets/new.png)  
+- [2020-12-21-来一起用-Vue3.0-造轮子](https://www.ershicimi.com/p/40857f4dfef3be75b39967215e5da61a) ![](assets/new.png)  
+- [2020-12-21-4个Github上的沙雕开源项目](https://www.ershicimi.com/p/0da77430b61b7d0b2bcb608731ec5b5c) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端宇宙.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -474,6 +514,26 @@
 </summary>
 
 
+- [2021-01-11-vue3.0团队内部分享总结](https://www.ershicimi.com/p/48fb5c0de2c09dda36f4449f746745f6) ![](assets/new.png)  
+- [2021-01-11-位运算符在-JS-中的妙用](https://www.ershicimi.com/p/c401c5e5ae6063c485183acadbe5b3a4) ![](assets/new.png)  
+- [2021-01-10-前端设置任何颜色作为主题色不用预先指定固定几种，吐血整理](https://www.ershicimi.com/p/70218deb67225c5b222f9d15e1ea132a) ![](assets/new.png)  
+- [2021-01-10-基于-Unix-Socket-的可靠-Node.js-HTTP-代理实现（支持-WebSocket](https://www.ershicimi.com/p/c35ae953b496f6a4de234bc845f62e63) ![](assets/new.png)  
+- [2021-01-08-一个-Antd-级联多选组件开发全过程含源码地址](https://www.ershicimi.com/p/d953d40fd7d76bd357164f54cd7a0e71) ![](assets/new.png)  
+- [2021-01-08-前端三连问，typescript的??-和?:-和?.是什么意思？](https://www.ershicimi.com/p/82652fcbf203b85053ed0c5f4e8c5d45) ![](assets/new.png)  
+- [2021-01-07-2021年，你该学点-Vue3.0-源码了](https://www.ershicimi.com/p/957238662858d71a35849ea5ca5ffb2c) ![](assets/new.png)  
+- [2021-01-07-面试题：JS-获取某月的天数](https://www.ershicimi.com/p/14a1f64128b3263389b6a668aa902ebd) ![](assets/new.png)  
+- [2021-01-07-GraphQL-初体验，Node.js-构建-GraphQL-API-指南](https://www.ershicimi.com/p/da1110505e2f15a6b12210a9766134d3) ![](assets/new.png)  
+- [2021-01-06-Vue.js开发移动端经验总结](https://www.ershicimi.com/p/4f17418f39562e864c8f8535cf1bcfd0) ![](assets/new.png)  
+- [2021-01-06-使用NodeJS实现JWT原理](https://www.ershicimi.com/p/c906f969d3662bf518968a440b3e4d8f) ![](assets/new.png)  
+- [2021-01-06-如何发布-npm-包](https://www.ershicimi.com/p/58eba0c2ca5d475954bd99051fa8984b) ![](assets/new.png)  
+- [2021-01-05-一文搞懂-Web-Worker原理到实践](https://www.ershicimi.com/p/63554210aba9a373c5b77489f602f3d4) ![](assets/new.png)  
+- [2021-01-05-Node开发实践总结-定时脚本的设计与实现](https://www.ershicimi.com/p/e2cf701d59c31ab086908edcee1d3e8e) ![](assets/new.png)  
+- [2021-01-04-2021了，你的vue实践够熟练了吗？源码思维呢？](https://www.ershicimi.com/p/6ec6c9516794db4ad7d7179f9aca70cb) ![](assets/new.png)  
+- [2021-01-04-Node.js-搭建-HTTPS-服务器](https://www.ershicimi.com/p/c2cb9ae6cb74799ebaf8fb92efa5abf2) ![](assets/new.png)  
+- [2021-01-04-为什么不推荐用for...in遍历数组](https://www.ershicimi.com/p/577c6beaab3872ce26770bd396bd0e62) ![](assets/new.png)  
+- [2021-01-03-捕获用户在该页面停留的时长，我是这样做的（前端监测）](https://www.ershicimi.com/p/77151f5185a0d7c6797314c397777e2c) ![](assets/new.png)  
+- [2021-01-03-彻底搞懂-Object.defineProperty](https://www.ershicimi.com/p/401f1c1c03de36a73b62cf4f178a1a17) ![](assets/new.png)  
+- [2021-01-02-我从-Vuejs-中学到了什么](https://www.ershicimi.com/p/d4a5f5bed6b9194b7375a1d755f8ccd8) ![](assets/new.png)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -485,6 +545,26 @@
 </summary>
 
 
+- [2021-01-09-盘点几个-2021-年值得关注的前端公众号](https://www.ershicimi.com/p/120d6fd118deda510022ee1d118e7a2e) ![](assets/new.png)  
+- [2021-01-09-监控、链路追踪、日志的区别，傻傻分不清？](https://www.ershicimi.com/p/c63cfac21cd51e402f2c7703af237131) ![](assets/new.png)  
+- [2021-01-08-复盘-Node.js-项目中遇到的-13+-常见问题和解决方案](https://www.ershicimi.com/p/eeb0d07e81e4766d06634dda2d30bfa1) ![](assets/new.png)  
+- [2021-01-07-Node.js-对于-Java-开发者而言是什么？](https://www.ershicimi.com/p/8b5a8fc97cbd35c3c1ff77bb1029ea31) ![](assets/new.png)  
+- [2021-01-06-使用-Node.js-搭建一个-API-网关助力微服务](https://www.ershicimi.com/p/6b1e4ad55afc893fe8dfe0818d973e96) ![](assets/new.png)  
+- [2021-01-05-Vue-开发实战-—-从-0-开始搭建大型-Vue-项目](https://www.ershicimi.com/p/61003712e83b5779a3397a61b0239431) ![](assets/new.png)  
+- [2021-01-04-Node.js-小知识-—-实现图片上传写入磁盘的接口](https://www.ershicimi.com/p/d89941ef4cd3fef88fbd7aa59824aa11) ![](assets/new.png)  
+- [2021-01-03-Github-4-万-Star！最全面的-Node.js-资源汇总推荐](https://www.ershicimi.com/p/a3e0d68484c37750677c8b81c310199d) ![](assets/new.png)  
+- [2021-01-01-Node.js-开发者，新年快乐！](https://www.ershicimi.com/p/2c7c27c70c311fe4a44ad91d77848966) ![](assets/new.png)  
+- [2020-12-31-从零实现-React-官方脚手架-create-react-app](https://www.ershicimi.com/p/2b6de2e219a22771fecc6e13be91db59) ![](assets/new.png)  
+- [2020-12-31-漫画：通俗易懂负载均衡器](https://www.ershicimi.com/p/3fd0768ddc211aa2bcdbc6cec23b4215) ![](assets/new.png)  
+- [2020-12-30-腾讯-IMWeb-团队是如何使用-NodeJS-实现-JWT-原理](https://www.ershicimi.com/p/34fe75362682014fb1e64db22c16dc6a) ![](assets/new.png)  
+- [2020-12-29-网易智慧企业-Node.js实践三：灰度发布和应用监控](https://www.ershicimi.com/p/4c6a45bb0f230856eb6dc8c84a0956b6) ![](assets/new.png)  
+- [2020-12-28-网易智慧企业-Node.js-实践二:-平滑发布和前端代码](https://www.ershicimi.com/p/12dbee242f2aeca4e5ff17594be7e349) ![](assets/new.png)  
+- [2020-12-27-如何把平凡的-vue-项目，做的出彩！](https://www.ershicimi.com/p/df4127bf032a34059cfac1ed954876ca) ![](assets/new.png)  
+- [2020-12-26-Electron-+-Vue-从零开始打造一个本地播放器](https://www.ershicimi.com/p/994cc93b7ee777080cb99ea3a2c8c450) ![](assets/new.png)  
+- [2020-12-26-欢迎-Nodejs-的一些爱好者、学习者和开发者入群共同交流](https://www.ershicimi.com/p/6b42ae7c141cf138b54732477c9cbe66) ![](assets/new.png)  
+- [2020-12-25-网易智慧企业-Node.js-实践一-:-Node-应用架构设计和-React-同构](https://www.ershicimi.com/p/35531a0cf408a5fc37c3a363099d5d5c) ![](assets/new.png)  
+- [2020-12-24-阿里、腾讯举大力做的-Serverless-，你了解多少？](https://www.ershicimi.com/p/a19d98afd0ad0516a3bd420f18587bde) ![](assets/new.png)  
+- [2020-12-23-一个有趣的内存泄漏案例](https://www.ershicimi.com/p/c3bd580010e602cb79c3eeffa0ed8a6c) ![](assets/new.png)  
 - [......【查看更多】......](./details/Nodejs技术栈.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -542,26 +622,6 @@
 </summary>
 
 
-- [2021-01-06-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) ![](assets/new.png)  
-- [2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) ![](assets/new.png)  
-- [2020-12-31-凹凸技术揭秘-·-Deco-智能代码-·-开启产研效率革命](https://aotu.io/notes/2020/12/31/deco/) ![](assets/new.png)  
-- [2020-12-31-凹凸技术揭秘·羚珑页面可视化·成长蜕变之路](https://aotu.io/notes/2020/12/31/ling-atom-design/) ![](assets/new.png)  
-- [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) ![](assets/new.png)  
-- [2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) ![](assets/new.png)  
-- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
-- [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) ![](assets/new.png)  
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,6 +633,26 @@
 </summary>
 
 
+- [2021-01-12-Vue-CLI-是如何实现的----终端命令行工具篇](https://www.ershicimi.com/p/1b55a056a289ff86505dbe60773daacc) ![](assets/new.png)  
+- [2021-01-12-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/b0165a5f43d868efea92180365f13314) ![](assets/new.png)  
+- [2021-01-12-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/3817e947919c47b0352020f8cbc55390) ![](assets/new.png)  
+- [2021-01-11-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/91c0243f7ad03076951d8240005831de) ![](assets/new.png)  
+- [2021-01-11-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/e44787f2143ba120e35cf2ca5bf70319) ![](assets/new.png)  
+- [2021-01-11-JavaScript-世界万物诞生记](https://www.ershicimi.com/p/a5cb6ca02c757298f550c9f3aa23291c) ![](assets/new.png)  
+- [2021-01-08-奇舞周刊第-380-期：CSS-现状和如何学习？](https://www.ershicimi.com/p/6eeb23d933346b58209d7c9f63725f76) ![](assets/new.png)  
+- [2021-01-07-node_modules-困境](https://www.ershicimi.com/p/d6339c9b33ebf720cbb5a915817e0d9b) ![](assets/new.png)  
+- [2021-01-07-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/fbd0fc2053cfead22f545dd8d0cb2c82) ![](assets/new.png)  
+- [2021-01-07-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/894fc47e6b4874ba0194c3e9eb29a160) ![](assets/new.png)  
+- [2021-01-06-可视化拖拽组件库一些技术要点原理分析](https://www.ershicimi.com/p/bd9294fc2739db31cdec59c6100cdee3) ![](assets/new.png)  
+- [2021-01-06-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/70e93a9d2e8ce8702d2a8b20e79c30c6) ![](assets/new.png)  
+- [2021-01-06-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6ffa0468e4d11e7ee8f8ec0d48c9efbb) ![](assets/new.png)  
+- [2021-01-05-我是如何将网页性能提升5倍的-—-网络优化篇](https://www.ershicimi.com/p/43c90f7f7ed205c839476a1f909c1990) ![](assets/new.png)  
+- [2021-01-05-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/1048ab7161c2c25082fa69624b6590eb) ![](assets/new.png)  
+- [2021-01-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/9af0e223cdfb645610163a1928eb33e8) ![](assets/new.png)  
+- [2021-01-04-一文串联-HTTP、TCP、IP、以太网](https://www.ershicimi.com/p/d66af908fd8ed45f87c046c96382a14b) ![](assets/new.png)  
+- [2021-01-04-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/799119c38fe5fa17aeaf3e5637df8bfa) ![](assets/new.png)  
+- [2021-01-04-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6102d779640918f7d4aec1ef88f33f18) ![](assets/new.png)  
+- [2020-12-31-奇舞周刊第-379-期：框架带来了什么？](https://www.ershicimi.com/p/da1a56f076e421dbc3145c0f92e891a2) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -646,6 +726,26 @@
 </summary>
 
 
+- [2021-01-11-别找了，这才是应对高并发的正确处理思路](https://www.ershicimi.com/p/8fb80b5d4cfd16e8c631cd39c27abee9) ![](assets/new.png)  
+- [2021-01-11-再见了SpringMVC！这个框架有点厉害，甚至干掉了Servlet！](https://www.ershicimi.com/p/2a5f867b5240b729c20436c147a47745) ![](assets/new.png)  
+- [2021-01-11-Intellij-IDEA-不愧是最智能-IDE，轻松解决了-Java-8-数据流问题](https://www.ershicimi.com/p/9be383c7f6994d3e6407497f3c312e1e) ![](assets/new.png)  
+- [2021-01-10-2020-中国软件-100-强，腾讯第二、阿里第三，他第一！](https://www.ershicimi.com/p/305bbd1884687046600288f8fd9b55a5) ![](assets/new.png)  
+- [2021-01-10-IntelliJ-IDEA-15款-神级超级牛逼插件推荐（自用，真的超级牛逼）](https://www.ershicimi.com/p/08b4ee3d0db7183c6877c8650455a0c1) ![](assets/new.png)  
+- [2021-01-10-SpringBoot2.x-官方墙裂推荐的缓存框架，竟然不是Redis！](https://www.ershicimi.com/p/f000e404acc6c175e3f0f4279116bde7) ![](assets/new.png)  
+- [2021-01-09-宇宙最全的架构开发技术百科全书](https://www.ershicimi.com/p/b32118d4d5fc8d805c666d5714eea183) ![](assets/new.png)  
+- [2021-01-09-P0级重大事故：超卖了100瓶飞天茅台，整个项目组慌得一逼~](https://www.ershicimi.com/p/b65b30c004c9fa3292ed6f7231692833) ![](assets/new.png)  
+- [2021-01-09-排名前-16-的-Java-工具类，哪个你没用过？](https://www.ershicimi.com/p/cafed98915f448d3ba87827c0eb8a9d1) ![](assets/new.png)  
+- [2021-01-08-牛逼！Docker遇到Intellij-IDEA，再次解放了生产力~](https://www.ershicimi.com/p/a8ef387560c1834841a25d5c1be891e7) ![](assets/new.png)  
+- [2021-01-08-Chrome-上最必不可少的29-款插件，超级提高效率](https://www.ershicimi.com/p/5ae7b4c22ba61e81d8b0809f0a006bd5) ![](assets/new.png)  
+- [2021-01-08-有了这个王座，写代码的速度都加快了](https://www.ershicimi.com/p/33b3672c223ebb1db753058953184315) ![](assets/new.png)  
+- [2021-01-07-让你页面速度飞起来的前端性能优化方案](https://www.ershicimi.com/p/9e0578eab7ad4f3a2fdcb6da1bb9d584) ![](assets/new.png)  
+- [2021-01-07-12306架构到底是不是国内最牛逼的架构](https://www.ershicimi.com/p/0bd472fc29f61a3aff4fd800ac612f52) ![](assets/new.png)  
+- [2021-01-07-Spring-Boot-解决跨域问题的-3-种方案！](https://www.ershicimi.com/p/840e630e0e3ecfcbfbf976b9219f9e5f) ![](assets/new.png)  
+- [2021-01-06-自从上了-SkyWalking，睡觉真香！！来，通过-Excel-来认识神器——POI](https://www.ershicimi.com/p/c448f62fe3e39ebc3f045c327b174767) ![](assets/new.png)  
+- [2021-01-06-一个小小的签到功能，到底用MySQL还是Redis？](https://www.ershicimi.com/p/08fe8c0cddb9e01936b7f2c7bb008c8f) ![](assets/new.png)  
+- [2021-01-06-牛逼！只需-3-步，Java-也能做图片识别！](https://www.ershicimi.com/p/00e51348c1a40edfc69a947554262f74) ![](assets/new.png)  
+- [2021-01-05-好家伙！B站，被扫黄了！B站变P站？](https://www.ershicimi.com/p/09bfc712168570007288386c29231968) ![](assets/new.png)  
+- [2021-01-05-全球第二大浏览器升级！内存/CPU占用暴降](https://www.ershicimi.com/p/cffbbc29f86b228e242ea56364b23b87) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -657,6 +757,26 @@
 </summary>
 
 
+- [2021-01-11-被特朗普带火后，这款软件却被苹果、谷歌和亚马逊全面封杀](https://www.ershicimi.com/p/b0e54f8ee7b358c1c9de40c4568f54d2) ![](assets/new.png)  
+- [2021-01-11-Spark-3.0新特性在FreeWheel核心业务数据团队的应用与实战](https://www.ershicimi.com/p/cc72897d3dec7e5b327b03ec9c96479e) ![](assets/new.png)  
+- [2021-01-11-QCon全球软件开发大会：推动创新，实现技术落地](https://www.ershicimi.com/p/76c46306a52eadec1ca7663d8b40004c) ![](assets/new.png)  
+- [2021-01-11-避免不完全的云原生（一）：云原生到底意味着什么？](https://www.ershicimi.com/p/7fba6fb1196d162bd27316357c805f75) ![](assets/new.png)  
+- [2021-01-11-2020年10个不错的Python库](https://www.ershicimi.com/p/f3d22b36720c1a809536df7cd4e3504b) ![](assets/new.png)  
+- [2021-01-10-链家40岁员工删除公司9T数据，被判7年](https://www.ershicimi.com/p/0a4cef098c88195dfc1654db48ba5754) ![](assets/new.png)  
+- [2021-01-10-架构升级，Serverless到底是不是趋势？](https://www.ershicimi.com/p/541c45cdbfce0c2873ef3b9fac37cddb) ![](assets/new.png)  
+- [2021-01-10-4种主流的API架构风格对比](https://www.ershicimi.com/p/2a5f660f33a1b29b131086f373d050dd) ![](assets/new.png)  
+- [2021-01-09-抖音因涉黄受行政处罚；应届生拒绝996被申通辞退；拼多多23岁员工猝死引发广泛关注-|-Q资讯](https://www.ershicimi.com/p/a8ca809aebae4e752f884fc148a8202b) ![](assets/new.png)  
+- [2021-01-09-从-DAU-5-万到用户数破亿，揭秘腾讯会议增长背后的技术实践](https://www.ershicimi.com/p/216a16abf0007cdf8a24aa722b1dff62) ![](assets/new.png)  
+- [2021-01-09-解读容器的-2020：寻找云原生的下一站](https://www.ershicimi.com/p/379c531e9118028672215113ac77f85f) ![](assets/new.png)  
+- [2021-01-08-比特币首次突破40000美元，10年涨千万倍但依然极具风险](https://www.ershicimi.com/p/559ad36b094f2f0cd62cd77931831fb2) ![](assets/new.png)  
+- [2021-01-08-中小团队开始回归单体架构，那么电信运营商该不该用微服务？](https://www.ershicimi.com/p/38e2d2694cb261beeb250611db885bd3) ![](assets/new.png)  
+- [2021-01-08-Fit健身APP联手HarmonyOS，升级在线健身体验](https://www.ershicimi.com/p/44d884c6a50821bc52bcdfe6fbf59ad4) ![](assets/new.png)  
+- [2021-01-08-2021年Web开发的7大趋势](https://www.ershicimi.com/p/fa0f8fab632219f45a3b452199b58fcd) ![](assets/new.png)  
+- [2021-01-08-Docker镜像优化：从1.16GB到22.4MB](https://www.ershicimi.com/p/b0074d439ce05777dbfde78580920777) ![](assets/new.png)  
+- [2021-01-07-Kotlin开发团队惹上麻烦了](https://www.ershicimi.com/p/ed46337de00ea4f05eea07482a239bb2) ![](assets/new.png)  
+- [2021-01-07-别再空谈云原生，来看实战方法论](https://www.ershicimi.com/p/3d99079d3d589ab15dbc87d5072e1b3a) ![](assets/new.png)  
+- [2021-01-07-你熟悉的TDSQL不一样了](https://www.ershicimi.com/p/7af6b049f9db889c59eb2a4a7193b217) ![](assets/new.png)  
+- [2021-01-07-5大芯片代表巅峰对话：一个面向未来的操作系统是怎样的？](https://www.ershicimi.com/p/95e32ed825195f43e3c6a50bf8671b36) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -668,6 +788,26 @@
 </summary>
 
 
+- [2021-01-08-2021年，这或许是你最容易把握住的高薪岗位](https://www.ershicimi.com/p/be88456b0b78ed7144c941ba22b6801f) ![](assets/new.png)  
+- [2021-01-07-2021年Web开发的7大趋势](https://www.ershicimi.com/p/f873fbbbdc11676db62fb2cc32ba0668) ![](assets/new.png)  
+- [2021-01-06-老哥们都是几点出门上班的？我目前-7-点-50](https://www.ershicimi.com/p/052a327ea920374522fdf0b3a6fc1166) ![](assets/new.png)  
+- [2021-01-05-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48) ![](assets/new.png)  
+- [2021-01-04-做前端的你，如何克服技术焦虑？](https://www.ershicimi.com/p/a2a52231262575ca27e064b97746deea) ![](assets/new.png)  
+- [2020-12-30-万物可卷的时代，程序员也被“内卷”？](https://www.ershicimi.com/p/56127bd8aa48f0cd994acbf4cef8867b) ![](assets/new.png)  
+- [2020-12-29-《前端中文入门手册》.pdf](https://www.ershicimi.com/p/34beb2409059c6b78e3c63f643c9736a) ![](assets/new.png)  
+- [2020-12-28-Vant3.0宣布全面拥抱Vue3，Vue3.0成为主流还有多远？](https://www.ershicimi.com/p/ce2da327d67f7cc95055497d457dfc21) ![](assets/new.png)  
+- [2020-12-24-前端从入门到放弃，是因为你没有这份高薪成长路线](https://www.ershicimi.com/p/14ae0d8779609a7bc198bb8e8da7b2a2) ![](assets/new.png)  
+- [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) ![](assets/new.png)  
+- [2020-12-22-这7个vue技巧，简直让效率翻倍！](https://www.ershicimi.com/p/3e1d8e9e766d6ba9739a11e029436ee7) ![](assets/new.png)  
+- [2020-12-21-Vue-3.0-进阶玩法，想一起造轮子的进](https://www.ershicimi.com/p/ecd6b1fe71dd157caf1abab769da4900) ![](assets/new.png)  
+- [2020-12-18-最火的-Vue-前端框架，你用对了么？](https://www.ershicimi.com/p/7d14f8a7f058a7d1e1ecde4ceb2b8a7f) ![](assets/new.png)  
+- [2020-12-17-太真实了](https://www.ershicimi.com/p/29a3a8478877c73487ea61f490534e49) ![](assets/new.png)  
+- [2020-12-16-为什么程序员互相之间不能透露薪水?是怕“凡尔赛”吗？](https://www.ershicimi.com/p/7836f1f8c500a1bb5a56582081e381ab) ![](assets/new.png)  
+- [2020-12-15-人人都会Vue，想拿高薪，如何突出优势？](https://www.ershicimi.com/p/c0a62bdd8e327e1ecc67cfcc1caa6142) ![](assets/new.png)  
+- [2020-12-14-来一起用-Vue3.0-做个飞机大战游戏](https://www.ershicimi.com/p/873c9d11b224f5b47ddcc1e170552f6c) ![](assets/new.png)  
+- [2020-12-11-推荐一个小程序实战项目！0基础可做](https://www.ershicimi.com/p/101ffccef2fa9c22d157a7664725b323) ![](assets/new.png)  
+- [2020-12-09-为什么总有人说：“前端饱和了”、“前端不好找工作”？](https://www.ershicimi.com/p/8110eb01c95d8f88ca335385bb3c41a2) ![](assets/new.png)  
+- [2020-12-08-看这篇就行！最强VUE+ElementUI管理项目来了（附实战全过程）](https://www.ershicimi.com/p/be2fe6b481813259250c47b6cd73b659) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -737,6 +877,26 @@
 </summary>
 
 
+- [2020-04-15-第四期|前端的规划如何落地](https://www.ershicimi.com/p/4233bce2181a7f01d79d8f80ef35e244) ![](assets/new.png)  
+- [2020-04-13-我和前端早早聊的小故事](https://www.ershicimi.com/p/288c74cf24f39a4866f6b9626741452d) ![](assets/new.png)  
+- [2020-03-31-第三期-|-前端搞搭建一些思考](https://www.ershicimi.com/p/390c83d5208473b69e0d9125c49e95a9) ![](assets/new.png)  
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) ![](assets/new.png)  
+- [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) ![](assets/new.png)  
+- [2020-03-11-4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4) ![](assets/new.png)  
+- [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) ![](assets/new.png)  
+- [2020-03-01-前端如何搞基建](https://www.ershicimi.com/p/fc1af1d9cfaca3f5d7cb41470add1ace) ![](assets/new.png)  
+- [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) ![](assets/new.png)  
+- [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) ![](assets/new.png)  
+- [2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) ![](assets/new.png)  
+- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) ![](assets/new.png)  
+- [2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) ![](assets/new.png)  
+- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) ![](assets/new.png)  
+- [2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) ![](assets/new.png)  
+- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) ![](assets/new.png)  
+- [2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) ![](assets/new.png)  
+- [2019-10-14-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) ![](assets/new.png)  
+- [2019-10-13-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) ![](assets/new.png)  
+- [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) ![](assets/new.png)  
 - [......【查看更多】......](./details/编程之上.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -748,6 +908,26 @@
 </summary>
 
 
+- [2021-01-08-知乎神吐槽-|-你有哪些不小心露富的骚操作？](https://www.ershicimi.com/p/8e5ee337b4ea0dc0b363e57922389630) ![](assets/new.png)  
+- [2021-01-08-知乎故事-|-如果能选，你愿意娶薛宝钗还是林黛玉？](https://www.ershicimi.com/p/94344d7f30980f629e05fc5ca04bb408) ![](assets/new.png)  
+- [2021-01-08-口碑绝佳的-9-个公众号，越早知道越好](https://www.ershicimi.com/p/b1511e857ab541ec1a2ed992eafe9ea6) ![](assets/new.png)  
+- [2021-01-07-2021-年才刚开始，五条人就出问题了](https://www.ershicimi.com/p/7336b2df6aa038d4aeff96ef088cdc77) ![](assets/new.png)  
+- [2021-01-06-为什么民航飞机不给乘客配降落伞？](https://www.ershicimi.com/p/0b1e81de9c21db2b2fe73f421e49ee49) ![](assets/new.png)  
+- [2021-01-06-拨云见日，带你科学认识宫颈癌](https://www.ershicimi.com/p/fc1ad493897f24663313ce7524aa166e) ![](assets/new.png)  
+- [2021-01-06-为啥酒店浴室都要弄成透明的？](https://www.ershicimi.com/p/6b344d0dca9bde202eabeded69f9a12d) ![](assets/new.png)  
+- [2021-01-06-知乎故事-|-你都遇到过什么三观炸裂的事情？](https://www.ershicimi.com/p/b47366e32b0a58f3bff73b76658cef30) ![](assets/new.png)  
+- [2021-01-05-我国超一半人感染这种细菌，其实做到这-5-点就可有效避免感染](https://www.ershicimi.com/p/90aece3043d7ff0d9e93350c327d47d8) ![](assets/new.png)  
+- [2021-01-05-是什么打破你对纯电动汽车的固有认知，产生信任感？](https://www.ershicimi.com/p/45c759c7f80d82d1797a77cad1de3805) ![](assets/new.png)  
+- [2021-01-05-知乎故事-|-你在不经意间看见过什么不该看的事情？](https://www.ershicimi.com/p/21aef087f941606d702c3f12210d6ac0) ![](assets/new.png)  
+- [2021-01-04-网传拼多多-23-岁员工加班后猝死，拼多多需要承担哪些责任？](https://www.ershicimi.com/p/47b86ebdc219ed111ca6b5404e841b4f) ![](assets/new.png)  
+- [2021-01-04-知乎-2020｜「好物推荐官」榜单发布](https://www.ershicimi.com/p/11f362b0f4a678c784d6eb3c9b8fca34) ![](assets/new.png)  
+- [2021-01-04-知乎故事-|-有哪些好气又好笑的复仇故事？](https://www.ershicimi.com/p/41cb3194f88967bb01788d6c24527e12) ![](assets/new.png)  
+- [2021-01-03-本周知乎热榜-|-《心灵奇旅》热映，郭敬明于正公开道歉，杨笠脱口秀引争议](https://www.ershicimi.com/p/f520570041e20cf8292c2228e492d9b8) ![](assets/new.png)  
+- [2021-01-03-知乎故事-|-你在学校嗑过自己班里的-CP-吗？](https://www.ershicimi.com/p/af1e05a15c47a9cf39e8b7c39425cf37) ![](assets/new.png)  
+- [2021-01-01-知乎神吐槽-|-如何用四个字形容你上一段感情？](https://www.ershicimi.com/p/ce30fd3046de7014124d0132216fdf25) ![](assets/new.png)  
+- [2021-01-01-知乎故事-|-你的导师对你说过什么让你至今难以忘怀的话？](https://www.ershicimi.com/p/6489c90f45f461266b1cc960777ba9b6) ![](assets/new.png)  
+- [2020-12-31-我们用一年的时间，写下了这篇信息含量最大的文章](https://www.ershicimi.com/p/5c2132aefbc1b3e367f3e3ceafe28df4) ![](assets/new.png)  
+- [2020-12-31-【请查收】-你的-2020-年度总结](https://www.ershicimi.com/p/ed661028b11d060c6d56422902ed481f) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

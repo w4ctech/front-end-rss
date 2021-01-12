@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-12 19:41:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-12 20:17:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -11,7 +11,6 @@
 - [2021-01-10-2020年Serverless对初创企业的好处](https://www.ershicimi.com/p/f4abdd8bb825067464abf3102ae9d8ed) 
 - [2021-01-09-【第2171期】一行-CSS-代码的魅力](https://www.ershicimi.com/p/f21bdfd418ef74386d824a0a9e9e74ad) 
 - [2021-01-01-【第2165期】CSS现状和如何学习](https://www.ershicimi.com/p/4058ac4b87f1b89211a1cea55d6e851c) 
-- [2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) 
 - [2020-02-04-阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497) 
 - [2020-12-24-阿里、腾讯举大力做的-Serverless-，你了解多少？](https://www.ershicimi.com/p/a19d98afd0ad0516a3bd420f18587bde) 
 - [2020-12-12-纯CSS实现微信列表左滑显示按钮的交互效果](https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/) 

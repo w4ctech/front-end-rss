@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-01-12 19:41:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-12 20:17:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-01-12-想做一个提词器-App，目前市面上已有很多，但是主打便宜，还值得去做吗？](https://www.v2ex.com/t/744390) 
+- [2021-01-12-迪拜没人么~](https://www.v2ex.com/t/744389) 
 - [2021-01-12-Python-快速进行大量序列化的最佳选择是什么？-Pickle？-json？](https://www.v2ex.com/t/744388) 
 - [2021-01-12-说个闲话，算质数的算法，是不是无法多线程并行？](https://www.v2ex.com/t/744387) 
 - [2021-01-12-Golang-范型-proposal](https://www.v2ex.com/t/744386) 
@@ -39,6 +41,3 @@
 - [2021-01-12-Linux-系统如何获取-像-Windows-系统下所谓的机器码？](https://www.v2ex.com/t/744346) 
 - [2021-01-12-通过-NS-检查域名可用性的思路?](https://www.v2ex.com/t/744343) 
 - [2021-01-12-tcp-网关如何做负载均衡](https://www.v2ex.com/t/744342) 
-- [2021-01-12-分享一个-cube-game](https://www.v2ex.com/t/744341) 
-- [2021-01-12-20-45K-PingCAP-工程效率研发工程师-北京，上海，广州，深圳，杭州，成都](https://www.v2ex.com/t/744340) 
-- [2021-01-12-Fitness+使用体验](https://www.v2ex.com/t/744339) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-12 12:03:19，:rocket: 更新条数: +3686， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-12 12:16:36，:rocket: 更新条数: +3687， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,8 +96,8 @@
 </summary>
 
 
-- [2021-01-12-石家庄新增-21-例本土确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPgchMCaUXTXnnJncrM3n210112&isfromapp=1) ![](assets/new.png)  
 - [2021-01-12-被困住的石家庄](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw9i9y6tlU5kmdI0GELZ5210112&isfromapp=1) ![](assets/new.png)  
+- [2021-01-12-黑龙江绥化：交通管制，小区管控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibGVfI4NfbNtY81ykmfsJ210112&isfromapp=1) ![](assets/new.png)  
 - [2021-01-12-河北三地区实行封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir4CbfWEEoSVKxQSl0W4p210112&isfromapp=1) ![](assets/new.png)  
 - [2021-01-11-黑龙江一地封城，河北多地升为中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid9FJBSPvvBXErrTTYHp3210111&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
@@ -973,6 +973,7 @@
 </summary>
 
 
+- [2021-01-12-再见，-localhost！](https://www.v2ex.com/t/744323) ![](assets/new.png)  
 - [2021-01-12-在办公室打喷嚏要不要讲武德？](https://www.v2ex.com/t/744320) ![](assets/new.png)  
 - [2021-01-12-beego-有单点登录的-SSO-轮子吗?-比较可靠趟过坑的那种,-就算有坑也是容易解决的.](https://www.v2ex.com/t/744319) ![](assets/new.png)  
 - [2021-01-12-InternalBrowserRedirect-模块被-Magisk-仓库下架，目前找不到任何下载方式](https://www.v2ex.com/t/744318) ![](assets/new.png)  
@@ -992,7 +993,6 @@
 - [2021-01-12-给新手-C++-Developer-的-Tips-1](https://www.v2ex.com/t/744299) ![](assets/new.png)  
 - [2021-01-12-迫于小学生算术题,-连加连减生成可以用了](https://www.v2ex.com/t/744297) ![](assets/new.png)  
 - [2021-01-12-HashMap-在-jdk-1.7-中为什么选的头插法，而不是尾插法](https://www.v2ex.com/t/744296) ![](assets/new.png)  
-- [2021-01-12-idea2020-版自动检查是不是有点问题？](https://www.v2ex.com/t/744295) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-12 04:09:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-12 04:22:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,15 +7,6 @@
 
 
 
-- [2021-01-04-【招聘】上海浪起互联网科技招前端工程师](https://www.ershicimi.com/p/d93777c94ff1eebb51f03687e751d387) 
-- [2020-12-30-【招聘】北京京东物流招聘4~5年前端工程师](https://www.ershicimi.com/p/487ef57d1694920c67a9a3c3e321022c) 
-- [2020-12-28-【招聘】淘宝事业群淘宝特价版前端团队招聘前端开发工程师](https://www.ershicimi.com/p/dc057cb14f59c3aa510fbf3d9be1c253) 
-- [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
-- [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
-- [2020-08-19-政采云前端团队-2021-届校园招聘正式启动！](https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194) 
-- [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-01-12-招聘中高级工程师一名，-Java-程序员-3-5-名，公司自主开发，招聘正式员工，不要派遣或兼职。](https://www.v2ex.com/t/744127) 
 - [2021-01-12-深圳-虾皮内推，年前面试，年后入职（供应链团队近期有专场）](https://www.v2ex.com/t/744121) 
 - [2021-01-12-字节-内推-北上深杭-15-薪-年前面试&&年后入职](https://www.v2ex.com/t/744098) 
-- [2021-01-12-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) 
-- [2021-01-12-推荐-万字攻略，详解腾讯面试](https://toutiao.io/k/2b0b1bw) 

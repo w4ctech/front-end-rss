@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-12 01:52:06，:rocket: 更新条数: +336， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-12 02:07:35，:rocket: 更新条数: +3181， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -39,14 +39,14 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)  
-- [物联网智库](#物联网智库)  
+- [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-01-12-1月11日新增新冠55例-河北本土40例](https://m.caixin.com/m/2021-01-12/101649418.html) ![](assets/new.png)  
+- [2021-01-12-河北固安确诊者为北京西城庄胜广场某公司员工-密接95人](https://m.caixin.com/m/2021-01-12/101649440.html) ![](assets/new.png)  
+- [2021-01-12-张文宏：河北疫情1个月左右将得到控制](http://m.opinion.caixin.com/m/2021-01-12/101649425.html) ![](assets/new.png)  
+- [2021-01-12-大流行手记|1月11日：BioNTech建新工厂加速疫苗供应-非洲多国医院超负荷](https://m.caixin.com/m/2021-01-12/101649445.html) ![](assets/new.png)  
+- [2021-01-11-绥化报告45例无症状感染1人确诊-望奎县封城涉多场婚礼聚餐](https://m.caixin.com/m/2021-01-11/101649381.html) ![](assets/new.png)  
+- [2021-01-11-最新海外疫情：新冠感染超9018万-累计死亡近193万](https://m.caixin.com/m/2021-01-11/101649317.html) ![](assets/new.png)  
+- [2021-01-11-山西晋中查出两名2名河北输入无症状感染者-行程轨迹公布](http://m.china.caixin.com/m/2021-01-11/101649402.html) ![](assets/new.png)  
+- [2021-01-11-1月10日河北新增82例新冠肺炎确诊病例，行动轨迹公布](https://m.caixin.com/m/2021-01-11/101648920.html) ![](assets/new.png)  
+- [2021-01-11-【境内疫情观察】河北新增82例本土病例（1月10日）](http://m.database.caixin.com/m/2021-01-11/101649164.html) ![](assets/new.png)  
+- [2021-01-11-大流行手记|1月10日：英德新冠死亡人数连续四日破千-日本发现全新变种病毒](https://m.caixin.com/m/2021-01-11/101648880.html) ![](assets/new.png)  
+- [2021-01-11-日本发现新变异病毒-八成民意对东京奥运如期举办悲观](http://m.international.caixin.com/m/2021-01-11/101649010.html) ![](assets/new.png)  
+- [2021-01-11-中英客运航班继续取消-英国确诊病例加速增长](http://m.companies.caixin.com/m/2021-01-11/101648980.html) ![](assets/new.png)  
+- [2021-01-11-世卫新冠溯源国际专家组要来了！-1月14日](https://m.caixin.com/m/2021-01-11/101648991.html) ![](assets/new.png)  
+- [2021-01-10-石家庄“零号病例”或早于12月15日-五条路径溯源](https://m.caixin.com/m/2021-01-10/101648828.html) ![](assets/new.png)  
+- [2021-01-10-北京顺义新增1+1轨迹，乘客乘网约车需扫健康码](http://m.china.caixin.com/m/2021-01-10/101648831.html) ![](assets/new.png)  
+- [2021-01-10-武汉新冠患者随访：超7成在确诊6个月后仍有至少一项症状](https://m.caixin.com/m/2021-01-10/101648807.html) ![](assets/new.png)  
+- [2021-01-10-【境内疫情观察】河北新增46例本土病例（1月9日）](http://m.database.caixin.com/m/2021-01-10/101648809.html) ![](assets/new.png)  
+- [2021-01-10-大流行手记|1月9日：WHO吁发达国不要“插队”抢疫苗-欧盟调整接种剂量](https://m.caixin.com/m/2021-01-10/101648761.html) ![](assets/new.png)  
+- [2021-01-09-石家庄回应网传小果庄村宗教活动](http://m.china.caixin.com/m/2021-01-09/101648718.html) ![](assets/new.png)  
+- [2021-01-09-石家庄首轮核酸检测完成-疫情尚未出现明显拐点](https://m.caixin.com/m/2021-01-09/101648678.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -352,26 +372,6 @@
 </summary>
 
 
-- [2021-01-06-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) ![](assets/new.png)  
-- [2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) ![](assets/new.png)  
-- [2020-12-31-凹凸技术揭秘-·-Deco-智能代码-·-开启产研效率革命](https://aotu.io/notes/2020/12/31/deco/) ![](assets/new.png)  
-- [2020-12-31-凹凸技术揭秘·羚珑页面可视化·成长蜕变之路](https://aotu.io/notes/2020/12/31/ling-atom-design/) ![](assets/new.png)  
-- [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) ![](assets/new.png)  
-- [2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) ![](assets/new.png)  
-- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
-- [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) ![](assets/new.png)  
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -449,6 +449,11 @@
 </summary>
 
 
+- [2021-01-11-在轮播图里寻求新颖是不是搞错了什么](https://juejin.im/post/6916678317736132615) ![](assets/new.png)  
+- [2021-01-11-推荐-7-个-GitHub-上很火的-TypeScript-的宝库，2021-学-TS-看这篇就够了！](https://juejin.im/post/6916495590754877453) ![](assets/new.png)  
+- [2021-01-11-React-Native-原理与实践](https://juejin.im/post/6916452544956858382) ![](assets/new.png)  
+- [2020-12-31-Flutter-基础组件中文API大全](https://juejin.im/post/6912349054265458701) ![](assets/new.png)  
+- [2020-12-30-【KT】sugard自定义主题皮肤实践踩坑总结](https://juejin.im/post/6912061407961808903) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -524,6 +529,10 @@
 </summary>
 
 
+- [2021-01-12-初一学生自学编程学哪门语言好](https://www.v2ex.com/t/744073) ![](assets/new.png)  
+- [2021-01-12-求推荐一款-ios-角色扮演手游](https://www.v2ex.com/t/744071) ![](assets/new.png)  
+- [2021-01-12-腾讯云-1-月限时秒杀，轻量-113-配置-95-元/1-年，可享代理价](https://www.v2ex.com/t/744069) ![](assets/new.png)  
+- [2021-01-12-vivo-手机新系统所谓的"内存融合"到底是什么原理？](https://www.v2ex.com/t/744067) ![](assets/new.png)  
 - [2021-01-12-ios-备忘录开-icloud-就不能用？](https://www.v2ex.com/t/744066) ![](assets/new.png)  
 - [2021-01-12-新房子组网请教，-AP-有线-MESH-的话主路由用-ER-X-还是-R2S-好？以及-AP-的选择](https://www.v2ex.com/t/744064) ![](assets/new.png)  
 - [2021-01-12-在北京整个皮卡开怎么样-不拥摇号-也不进-5-环](https://www.v2ex.com/t/744063) ![](assets/new.png)  
@@ -540,10 +549,6 @@
 - [2021-01-12-Ubiquiti-服务器被入侵，对就是做-ubnt-路由器的那家。](https://www.v2ex.com/t/744046) ![](assets/new.png)  
 - [2021-01-12-N1-到手了，清晰度似乎差了点](https://www.v2ex.com/t/744045) ![](assets/new.png)  
 - [2021-01-12-做了一个-iOS-浏览器里可以玩的-GBA-模拟器，性能还不错。](https://www.v2ex.com/t/744043) ![](assets/new.png)  
-- [2021-01-12-关于年底涨薪和大学生生活补贴的几个疑问](https://www.v2ex.com/t/744042) ![](assets/new.png)  
-- [2021-01-12-外媒：苹果-M1-芯片-Mac-蓝牙鼠标连接问题将得到修复](https://www.v2ex.com/t/744041) ![](assets/new.png)  
-- [2021-01-12-Macbook-M1-的微信经常崩溃什么时候能修复啊](https://www.v2ex.com/t/744040) ![](assets/new.png)  
-- [2021-01-12-开个-Apple-One-美区-Family-套餐，要求长期使用。](https://www.v2ex.com/t/744039) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -588,6 +593,26 @@
 </summary>
 
 
+- [2021-01-10-我为什么认为AIoT产业在2020年跨越了拐点？【物女心经】](https://www.ershicimi.com/p/96d440b546d35094f3ee119292a9e309) ![](assets/new.png)  
+- [2021-01-10-物联网投融资周报|燧原科技获18亿元融资；地平线完成4亿美元融资；汇顶科技战投航顺芯片；丰疆智能获腾](https://www.ershicimi.com/p/8c19386d15ed4e017c79701883643ef9) ![](assets/new.png)  
+- [2021-01-09-5G产业十年掘金，万亿市场全面打开丨《2021中国5G产业全景图谱报告》重磅发布【附全文下载】](https://www.ershicimi.com/p/d483954b4e15cba06a5d79ad49dc2d02) ![](assets/new.png)  
+- [2021-01-09-为何说“5G+工业互联网”大有可为？这份《5G+工业互联网发展评估白皮书》告诉你](https://www.ershicimi.com/p/c68cca21ddf1664465b03ac39cbdf7ac) ![](assets/new.png)  
+- [2021-01-08-大咖演讲精华/产业重磅图谱/榜单新鲜出炉！2020-AIoT产业年终盛典圆满落幕](https://www.ershicimi.com/p/4795d71f5708faa4a93b3c09b4f0ffd6) ![](assets/new.png)  
+- [2021-01-07-刚刚，《2021中国AIoT产业全景图谱报告》重磅发布！物联网发展跨越拐点](https://www.ershicimi.com/p/87964ca49f1261078edc51cb8faa719e) ![](assets/new.png)  
+- [2021-01-07-2020-AIoT产业年终盛典正在直播！速进~](https://www.ershicimi.com/p/303c4da836d6c0695a4c5753d50d2812) ![](assets/new.png)  
+- [2021-01-06-【重磅发布】10大最有影响力的物联网行业大事件（2020）](https://www.ershicimi.com/p/19192ce0bff73d8c532a8aa287c666f7) ![](assets/new.png)  
+- [2021-01-06-小小模组结束传统汽车百年“移动出行工具”属性？](https://www.ershicimi.com/p/fc6155796c9999ccf431faa9a8242c03) ![](assets/new.png)  
+- [2021-01-06-明天，重大发布！](https://www.ershicimi.com/p/c0f0ee59da54dfd16434471a8cc94c35) ![](assets/new.png)  
+- [2021-01-05-可怕的不只是“拼多多们”的冷漠回复，还有物联网技术对“打工人”的极致压榨……](https://www.ershicimi.com/p/1c57611e8e0cd5e7249564253fc7ec83) ![](assets/new.png)  
+- [2021-01-05-【倒计时2天】大咖演讲/产业图谱/行业榜单即将出炉！年度AIoT产业盛典重磅来袭](https://www.ershicimi.com/p/c94f3c12d900b6804ea58be6b0024bf9) ![](assets/new.png)  
+- [2021-01-05-室内5G？轻松搞定！](https://www.ershicimi.com/p/393643c8fa2dc711776f5670d101fc44) ![](assets/new.png)  
+- [2021-01-05-川普跳「鸡你太美」？这么专业，一定是AI合成的！](https://www.ershicimi.com/p/ec59ad1ecb5ddb28266ba5505d4e44d9) ![](assets/new.png)  
+- [2021-01-04-特斯拉这几天生意特！别！好！](https://www.ershicimi.com/p/f4ee978545940f2103ad275f9600e7c8) ![](assets/new.png)  
+- [2021-01-04-【倒计时3天】大咖演讲/产业图谱/行业榜单即将出炉！年度AIoT产业盛典重磅来袭](https://www.ershicimi.com/p/f87eab0491af3ce17cc669ce82bae1d2) ![](assets/new.png)  
+- [2021-01-04-AIoT产业起飞前夜，开发者成为了最不可缺的核心资源](https://www.ershicimi.com/p/6f6705080e705d323127c8e5f9bfdf44) ![](assets/new.png)  
+- [2021-01-03-AIoT图谱、5G图谱、物链网图谱、5G+工业互联网发展指数…年度重磅报告即将出炉【物女心经】](https://www.ershicimi.com/p/6ba4834afbf7050165787a88cf32b991) ![](assets/new.png)  
+- [2021-01-03-物联网投融资周报|小米长江产业基金入股泰凌微电子；软银亚洲风投领投擎朗智能；矽昌通信数亿融资落定](https://www.ershicimi.com/p/47ba6181b460187d00050a32d5fd130a) ![](assets/new.png)  
+- [2021-01-02-2021年新建60万5G基站，发挥的是超过100万基站的作用](https://www.ershicimi.com/p/6b97757417cbd82acc43ca8a253eb0e2) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

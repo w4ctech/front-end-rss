@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-12 06:02:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-12 06:10:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,4 +27,5 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2021-01-12-一个游戏从-Apple-Store-下架了，还会上架吗？](https://www.v2ex.com/t/744168) 
 - [2021-01-12-第一次买游戏主机，不知道是选择索尼家还是微软家](https://www.v2ex.com/t/744122) 

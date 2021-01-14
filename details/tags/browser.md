@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-14 16:06:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-14 16:30:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,7 +26,6 @@
 - [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/cacecf530e97b404d830c2a50be041d6) 
 - [2021-01-08-【第2170期】在Web应用中减少CORS预检时间的4种方法](https://www.ershicimi.com/p/f46bbe08cb788f93de000136e14979e2) 
 - [2021-01-07-封装-axios-取消重复请求](https://www.ershicimi.com/p/034b0e14f964706740244bdd96b3de26) 
-- [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
 - [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-14 16:06:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-14 16:30:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -91,4 +91,3 @@
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-01-14-网易-CC-直播事业部-base-广州-社招技术内推，-各方向都有，年前面试年后入职](https://www.v2ex.com/t/745072) 
 - [2021-01-13-3240个小时打磨-|-用视频还原攻防演练中台淬炼过程](https://sec.thief.one/article_content?a_id=dfdb52afbfc048fefda96539f2289fd5) 
-- [2021-01-07-2020-AIoT产业年终盛典正在直播！速进~](https://www.ershicimi.com/p/303c4da836d6c0695a4c5753d50d2812) 

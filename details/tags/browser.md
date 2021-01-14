@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-14 18:01:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-14 18:05:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,8 +8,6 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-01-14-Safari14-在-Big-Sur-上频繁崩溃？](https://www.v2ex.com/t/745078) 
 - [2021-01-14-工信部开展工业互联网企业网络安全分类分级管理试点工作](https://sec.thief.one/article_content?a_id=5e0de814fc26f3aeb3257f0c7c22f574) 
 - [2021-01-14-2021年网络安全高级研修班圆满结束](https://sec.thief.one/article_content?a_id=8ed512bebb0e49dc18589297b5f6eb47) 
 - [2021-01-14-安全招聘-|-水滴实验室上海分部](https://sec.thief.one/article_content?a_id=737748540142334a82b84baea4816345) 

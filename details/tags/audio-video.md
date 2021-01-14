@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-14 15:09:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-14 15:54:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -78,4 +78,5 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2021-01-14-网易-CC-直播事业部-base-广州-社招技术内推，-各方向都有，年前面试年后入职](https://www.v2ex.com/t/745072) 
 - [2021-01-13-3240个小时打磨-|-用视频还原攻防演练中台淬炼过程](https://sec.thief.one/article_content?a_id=dfdb52afbfc048fefda96539f2289fd5) 

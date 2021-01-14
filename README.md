@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-14 13:54:02，:rocket: 更新条数: +955， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-14 14:18:43，:rocket: 更新条数: +976， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -49,7 +49,7 @@
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
-- [编程之上](#编程之上)  
+- [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
@@ -931,6 +931,26 @@
 </summary>
 
 
+- [2020-04-15-第四期|前端的规划如何落地](https://www.ershicimi.com/p/4233bce2181a7f01d79d8f80ef35e244) ![](assets/new.png)  
+- [2020-04-13-我和前端早早聊的小故事](https://www.ershicimi.com/p/288c74cf24f39a4866f6b9626741452d) ![](assets/new.png)  
+- [2020-03-31-第三期-|-前端搞搭建一些思考](https://www.ershicimi.com/p/390c83d5208473b69e0d9125c49e95a9) ![](assets/new.png)  
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) ![](assets/new.png)  
+- [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) ![](assets/new.png)  
+- [2020-03-11-4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4) ![](assets/new.png)  
+- [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) ![](assets/new.png)  
+- [2020-03-01-前端如何搞基建](https://www.ershicimi.com/p/fc1af1d9cfaca3f5d7cb41470add1ace) ![](assets/new.png)  
+- [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) ![](assets/new.png)  
+- [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) ![](assets/new.png)  
+- [2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) ![](assets/new.png)  
+- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) ![](assets/new.png)  
+- [2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) ![](assets/new.png)  
+- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) ![](assets/new.png)  
+- [2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) ![](assets/new.png)  
+- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) ![](assets/new.png)  
+- [2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) ![](assets/new.png)  
+- [2019-10-14-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) ![](assets/new.png)  
+- [2019-10-13-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) ![](assets/new.png)  
+- [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) ![](assets/new.png)  
 - [......【查看更多】......](./details/编程之上.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -973,6 +993,12 @@
 </summary>
 
 
+- [2021-01-14-mac-使用-virtual-box-唤醒时-cpu-100%-大家有遇到过吗?](https://www.v2ex.com/t/745050) ![](assets/new.png)  
+- [2021-01-14-工作七年换了-6-家公司](https://www.v2ex.com/t/745049) ![](assets/new.png)  
+- [2021-01-14-你们家小孩登记的农历还是国历？](https://www.v2ex.com/t/745047) ![](assets/new.png)  
+- [2021-01-14-ubuntu-服务器部署应该选哪个版本，占用内存最小？](https://www.v2ex.com/t/745045) ![](assets/new.png)  
+- [2021-01-14-关于国外开发者账号，现在有什么好办法申请吗？](https://www.v2ex.com/t/745044) ![](assets/new.png)  
+- [2021-01-14-超轻量级安卓设备如何实现-AR-功能？](https://www.v2ex.com/t/745043) ![](assets/new.png)  
 - [2021-01-14-py-文件编译成.so-文件之后,-logging-无法获取当前具体是哪个文件的哪行代码了.](https://www.v2ex.com/t/745041) ![](assets/new.png)  
 - [2021-01-14-问下各位大侠，我自己在淘宝开了个店铺接项目，应该发到什么类目啊。这样的怎么提升自己的店铺排名，几天过去一个浏览都没有，这样下去要饿死街头了](https://www.v2ex.com/t/745040) ![](assets/new.png)  
 - [2021-01-14-955-也没法-WLB](https://www.v2ex.com/t/745039) ![](assets/new.png)  
@@ -987,12 +1013,6 @@
 - [2021-01-14-有创业的朋友要做小程序吗](https://www.v2ex.com/t/745023) ![](assets/new.png)  
 - [2021-01-14-准备去南京溜达两天，求推荐南京的美食和啤酒屋](https://www.v2ex.com/t/745022) ![](assets/new.png)  
 - [2021-01-14-如何取一个既好听又好记-英文名？](https://www.v2ex.com/t/745021) ![](assets/new.png)  
-- [2021-01-14-im/co/io-域名选择哪个好呢](https://www.v2ex.com/t/745019) ![](assets/new.png)  
-- [2021-01-14-2021！来分享你的-HomeBase-背景下的桌面配置！](https://www.v2ex.com/t/745018) ![](assets/new.png)  
-- [2021-01-14-医渡科技今日暗盘-↑123%](https://www.v2ex.com/t/745015) ![](assets/new.png)  
-- [2021-01-14-想问一下-K8S/Docker-里的-node-有没有必要利用-cluster-启用多进程](https://www.v2ex.com/t/745014) ![](assets/new.png)  
-- [2021-01-14-招募初创研发&测试团队-客户端研发负责人&测试同学看过来](https://www.v2ex.com/t/745013) ![](assets/new.png)  
-- [2021-01-14-用虚拟信用卡，或在淘宝找服务商注册-Google-Play-开发者，有什么建议吗？](https://www.v2ex.com/t/745012) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1039,11 +1059,11 @@
 - [2021-01-14-工具-|-滴滴开源的，高性能高可用的跨端开发框架](https://toutiao.io/k/afb7a01) ![](assets/new.png)  
 - [2021-01-14-数据全景洞察概念简介](https://toutiao.io/k/0t26f76) ![](assets/new.png)  
 - [2021-01-14-一文带你解密-Go-语言之通道-channel](https://toutiao.io/k/jhyptjc) ![](assets/new.png)  
-- [2021-01-14-抓包神器-Wireshark，帮你快速定位线上网络故障（五）](https://toutiao.io/k/oxyi4m9) ![](assets/new.png)  
 - [2021-01-14-如何做好一场技术分享，100%-纯干货输出](https://toutiao.io/k/koecfqz) ![](assets/new.png)  
+- [2021-01-14-抓包神器-Wireshark，帮你快速定位线上网络故障（五）](https://toutiao.io/k/oxyi4m9) ![](assets/new.png)  
 - [2021-01-14-Kubernetes-存储原理解析](https://toutiao.io/k/mhbru1t) ![](assets/new.png)  
-- [2021-01-14-PHP-扩展开发中引用计数与-GC](https://toutiao.io/k/adcltdr) ![](assets/new.png)  
 - [2021-01-14-领导力：不要做个-“好人”](https://toutiao.io/k/mf8y3jt) ![](assets/new.png)  
+- [2021-01-14-PHP-扩展开发中引用计数与-GC](https://toutiao.io/k/adcltdr) ![](assets/new.png)  
 - [2021-01-14-网络抓包大法好，tcpdump-和-Wireshark-少不了](https://toutiao.io/k/5ssh1zt) ![](assets/new.png)  
 - [2021-01-14-Go-指针的使用限制和-unsafe.Pointer-的突破之路](https://toutiao.io/k/11uqlo8) ![](assets/new.png)  
 - [2021-01-14-如何充分利用-Composition-API-对-Vue-3-项目进行代码抽离](https://toutiao.io/k/2xawpay) ![](assets/new.png)  

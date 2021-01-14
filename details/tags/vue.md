@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-14 13:54:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-14 14:18:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -80,4 +80,5 @@
 - [2021-01-14-使用Vue3的CompositionAPI来优化代码量](https://juejin.im/post/6917592199140458504) 
 - [2021-01-14-Vue中使用Axios](https://juejin.im/post/6917580889413451790) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
 - [2021-01-14-如何充分利用-Composition-API-对-Vue-3-项目进行代码抽离](https://toutiao.io/k/2xawpay) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-14 08:09:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-14 08:35:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-01-13-我写CSS的常用套路附demo的效果实现与源码）](https://www.ershicimi.com/p/218ce3eb2bbb9af353466e690d2027e0) 
 - [2021-01-10-2020年Serverless对初创企业的好处](https://www.ershicimi.com/p/f4abdd8bb825067464abf3102ae9d8ed) 
 - [2021-01-09-【第2171期】一行-CSS-代码的魅力](https://www.ershicimi.com/p/f21bdfd418ef74386d824a0a9e9e74ad) 
 - [2021-01-01-【第2165期】CSS现状和如何学习](https://www.ershicimi.com/p/4058ac4b87f1b89211a1cea55d6e851c) 
@@ -43,8 +44,6 @@
 - [2015-11-02-使用Adobe-FLASH-CC制作Canvas动画](https://aotu.io/notes/2015/11/02/flash-canvas/) 
 - [2015-10-21-探究transform动画元素的z-index](https://aotu.io/notes/2015/10/21/z-index-and-translate3d/) 
 - [2015-10-13-PostCSS快速入门使用](https://aotu.io/notes/2015/10/13/start-postcss/) 
-- [2021-01-08-奇舞周刊第-380-期：CSS-现状和如何学习？](https://www.ershicimi.com/p/6eeb23d933346b58209d7c9f63725f76) 
-- [2020-05-03-对-Chrome-Headless-渲染的极致优化](https://www.ershicimi.com/p/750cc36a62dc2f4be88144714fde4887) 
 - [2021-01-13-真香，又一款纯CSS实现的图标库！](https://juejin.im/post/6917446456605409294) 
 - [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) 
 - [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 

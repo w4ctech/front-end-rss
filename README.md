@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-14 20:05:04，:rocket: 更新条数: +368， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-14 20:46:36，:rocket: 更新条数: +433， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -47,11 +47,11 @@
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
-- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
+- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -460,6 +460,26 @@
 </summary>
 
 
+- [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) ![](assets/new.png)  
+- [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) ![](assets/new.png)  
+- [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) ![](assets/new.png)  
+- [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) ![](assets/new.png)  
+- [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) ![](assets/new.png)  
+- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) ![](assets/new.png)  
+- [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) ![](assets/new.png)  
+- [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) ![](assets/new.png)  
+- [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) ![](assets/new.png)  
+- [2019-12-16-以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3) ![](assets/new.png)  
+- [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) ![](assets/new.png)  
+- [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) ![](assets/new.png)  
+- [2019-12-09-9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320) ![](assets/new.png)  
+- [2019-12-09-图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648) ![](assets/new.png)  
+- [2019-12-06-微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796) ![](assets/new.png)  
+- [2019-12-06-解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598) ![](assets/new.png)  
+- [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) ![](assets/new.png)  
+- [2019-12-05-crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221) ![](assets/new.png)  
+- [2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) ![](assets/new.png)  
+- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端艺术家&&飞冰早报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -504,6 +524,26 @@
 </summary>
 
 
+- [2021-01-14-16-寸-MBP-接显示器遇到的各种问题-4k60hz-和-HDR-是否不可兼得？](https://www.v2ex.com/t/745083) ![](assets/new.png)  
+- [2021-01-14-刷-leetcode-的都是怎么进行本地调试的？](https://www.v2ex.com/t/745082) ![](assets/new.png)  
+- [2021-01-14-哪里可以雇到人手工录入一些信息](https://www.v2ex.com/t/745081) ![](assets/new.png)  
+- [2021-01-14-广西沃柑（橘子）上市了，不甜不要钱](https://www.v2ex.com/t/745080) ![](assets/new.png)  
+- [2021-01-14-Google-Play-Store-是不是不能像-iOS-那样简单通过两个帐号换区？](https://www.v2ex.com/t/745079) ![](assets/new.png)  
+- [2021-01-14-Safari14-在-Big-Sur-上频繁崩溃？](https://www.v2ex.com/t/745078) ![](assets/new.png)  
+- [2021-01-14-求一个合适的管理多份文档（Markdown）的静态站点生成器](https://www.v2ex.com/t/745077) ![](assets/new.png)  
+- [2021-01-14-树莓派使用-ffmpeg+rtmp-推流直播，延迟严重](https://www.v2ex.com/t/745076) ![](assets/new.png)  
+- [2021-01-14-有个-2016-年的-mbp-出售，-8+512。限成都面交。](https://www.v2ex.com/t/745075) ![](assets/new.png)  
+- [2021-01-14-显卡贩子太恐怖了...咸鱼一点发布瞬间被脚本围攻](https://www.v2ex.com/t/745073) ![](assets/new.png)  
+- [2021-01-14-网易-CC-直播事业部-base-广州-社招技术内推，-各方向都有，年前面试年后入职](https://www.v2ex.com/t/745072) ![](assets/new.png)  
+- [2021-01-14-程序员入职大厂后是否都有技能考试？](https://www.v2ex.com/t/745071) ![](assets/new.png)  
+- [2021-01-14-027-电信-最近感觉网络质量好差啊，被折磨到抓狂](https://www.v2ex.com/t/745069) ![](assets/new.png)  
+- [2021-01-14-字节跳动-北京/杭州抖音电商社招/校招/实习带-offer-回家过年后端研发工程师](https://www.v2ex.com/t/745068) ![](assets/new.png)  
+- [2021-01-14-何为-Java-高手？](https://www.v2ex.com/t/745067) ![](assets/new.png)  
+- [2021-01-14-编织单圈表带适合游泳时戴吗？](https://www.v2ex.com/t/745064) ![](assets/new.png)  
+- [2021-01-14-Mac-系统升级后，-zshrc-重置如何解决](https://www.v2ex.com/t/745063) ![](assets/new.png)  
+- [2021-01-14-对人工智能方向感到迷茫，求求给点儿建议](https://www.v2ex.com/t/745062) ![](assets/new.png)  
+- [2021-01-14-Win10-的台式机，要想得到稳定的蓝牙来连接耳机，有什么比较好的方案？](https://www.v2ex.com/t/745058) ![](assets/new.png)  
+- [2021-01-14-平时闭上眼睛，一对眼睛用力就会收缩](https://www.v2ex.com/t/745057) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-15 02:00:25，:rocket: 更新条数: +467， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-15 02:17:38，:rocket: 更新条数: +437， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)  
 
@@ -449,6 +449,11 @@
 </summary>
 
 
+- [2021-01-14-轻松教你搞定组件的拖拽,-缩放,-多控制点伸缩和拖拽数据上报](https://juejin.im/post/6917648021794586631) ![](assets/new.png)  
+- [2021-01-14-使用Vue3的CompositionAPI来优化代码量](https://juejin.im/post/6917592199140458504) ![](assets/new.png)  
+- [2021-01-14-代码规模飙升，前端如何走好工程化之路？](https://juejin.im/post/6917588945991630861) ![](assets/new.png)  
+- [2021-01-14-Vue中使用Axios](https://juejin.im/post/6917580889413451790) ![](assets/new.png)  
+- [2021-01-14-关于第一个项目中主进程与渲染进程各模块功能的理解](https://juejin.im/post/6917553729881260046) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -524,6 +529,10 @@
 </summary>
 
 
+- [2021-01-15-聊聊关于回形针出的股票视频](https://www.v2ex.com/t/745131) ![](assets/new.png)  
+- [2021-01-15-请问有哪位-V-友买过-Apple-TV](https://www.v2ex.com/t/745128) ![](assets/new.png)  
+- [2021-01-15-开源：-react-天气组件](https://www.v2ex.com/t/745127) ![](assets/new.png)  
+- [2021-01-15-JS-调用读卡器应该怎么实现比较好？](https://www.v2ex.com/t/745126) ![](assets/new.png)  
 - [2021-01-15-一直不明白，防-bot-很难吗？现在很多官方发售都被-bot-包场，像茅台啊，耐克阿迪的鞋子，是不想做还是说，需要二手市场来给自己造流量啊？](https://www.v2ex.com/t/745125) ![](assets/new.png)  
 - [2021-01-15-现在快递好慢呀-京东自营都要一周了](https://www.v2ex.com/t/745124) ![](assets/new.png)  
 - [2021-01-15-请问这是什么规律排序？](https://www.v2ex.com/t/745123) ![](assets/new.png)  
@@ -540,10 +549,6 @@
 - [2021-01-15-微软面试题：带环链表-II](https://www.v2ex.com/t/745106) ![](assets/new.png)  
 - [2021-01-15-北京-&-杭州-蚂蚁集团-OceanBase-十年磨一剑,-诚聘多位-Web-前端工程师~](https://www.v2ex.com/t/745104) ![](assets/new.png)  
 - [2021-01-15-macOS-为什么过一段时间打开某些-app-就会提示下载字体？](https://www.v2ex.com/t/745102) ![](assets/new.png)  
-- [2021-01-15-iOS14.3-升级后小米手机-5nfc-收不到-app-的通知了](https://www.v2ex.com/t/745101) ![](assets/new.png)  
-- [2021-01-15-联通宽带问题](https://www.v2ex.com/t/745100) ![](assets/new.png)  
-- [2021-01-15-对三星-s21-系列的评价](https://www.v2ex.com/t/745099) ![](assets/new.png)  
-- [2021-01-15-网易邮箱，登录时记住密码似乎记了个寂寞？](https://www.v2ex.com/t/745098) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,26 +571,6 @@
 </summary>
 
 
-- [2021-01-15-如何成为快乐高产的程序员](https://toutiao.io/k/pfv4tyx) ![](assets/new.png)  
-- [2021-01-15-谈谈拼夕夕事件！为什么我们拼尽全力却还要-996](https://toutiao.io/k/jrzbd22) ![](assets/new.png)  
-- [2021-01-15-这款插件让你在-VSCode-上也能答题背单词](https://toutiao.io/k/re1w0oi) ![](assets/new.png)  
-- [2021-01-15-重磅！两万字长文总结，梳理-Java-入门进阶哪些事](https://toutiao.io/k/2jdovdn) ![](assets/new.png)  
-- [2021-01-15-软件架构基础（三）:-什么是好的模块化代码？高内聚、低耦合如何衡量？](https://toutiao.io/k/hi2cbep) ![](assets/new.png)  
-- [2021-01-15-如何自定义-Kubernetes-CRD](https://toutiao.io/k/0f62dbd) ![](assets/new.png)  
-- [2021-01-15-为什么说-Pulsar-是云原生的消息平台？](https://toutiao.io/k/ejrosur) ![](assets/new.png)  
-- [2021-01-15-原则系列－敏捷开发适合-B-端产品吗？](https://toutiao.io/k/i5mqh3h) ![](assets/new.png)  
-- [2021-01-15-全网首发！Laravel-远程代码执行漏洞-POC](https://toutiao.io/k/2p1ckvd) ![](assets/new.png)  
-- [2021-01-15-深度解析云原生消息队列-AMQP](https://toutiao.io/k/qd8o9ky) ![](assets/new.png)  
-- [2021-01-15-基于-Prometheus-的高可用-Redis-多实例监控实践](https://toutiao.io/k/lib9gfd) ![](assets/new.png)  
-- [2021-01-15-我是这样学-synchronized-关键字的](https://toutiao.io/k/zro17aa) ![](assets/new.png)  
-- [2021-01-15-设计模式大冒险第五关：状态模式，if/else-的“终结者”](https://toutiao.io/k/bd4i8he) ![](assets/new.png)  
-- [2021-01-15-译-人工智能这十年](https://toutiao.io/k/551973t) ![](assets/new.png)  
-- [2021-01-15-重定向的九种方案及性能比较](https://toutiao.io/k/i5nj2jm) ![](assets/new.png)  
-- [2021-01-15-推荐-一个-Java-对象占用多大内存空间](https://toutiao.io/k/m12n691) ![](assets/new.png)  
-- [2021-01-15-推荐-vivo-全球商城：订单中心架构设计与实践](https://toutiao.io/k/lcopypw) ![](assets/new.png)  
-- [2021-01-15-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西](https://toutiao.io/k/im0exw3) ![](assets/new.png)  
-- [2021-01-15-推荐-9-条消除-if...else-的锦囊妙计，助你写出更优雅的代码](https://toutiao.io/k/6o9uhdv) ![](assets/new.png)  
-- [2021-01-15-推荐-2020-读过的好书推荐](https://toutiao.io/k/ocr2mmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

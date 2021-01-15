@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-15 15:08:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 15:54:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,6 +39,7 @@
 
 
 
+- [【开发者头条】世界上第一个可用于-React、Vue、纯-HTML-和-CSS-的可组合-CSS-动画工具包：-AnimXYZ](https://toutiao.io/k/oscwob0)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -56,6 +57,8 @@
 
 
 - [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
+- [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
+- [【V2EX】vue-devtools-支持-vue3.0-吗？我用-Vue3-的时候插件检测不到，网上搜的那些貌似只是描述-2.0-的](https://www.v2ex.com/t/745361)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -72,6 +75,7 @@
 
 
 
+- [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -88,6 +92,7 @@
 
 
 
+- [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -120,6 +125,7 @@
 
 
 
+- [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -136,6 +142,7 @@
 
 
 
+- [【技术头条】分享-Flutter-学习总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14093&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fh2QHOJXzhym83J2hnxMX_w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -152,6 +159,7 @@
 
 
 
+- [【V2EX】怎么搭建-op.gg-这样的游戏数据查询网站](https://www.v2ex.com/t/745339)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -168,10 +176,26 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/)
+- [【张鑫旭-鑫空间-鑫生活】几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/)
+- [【张鑫旭-鑫空间-鑫生活】原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/)
+- [【张鑫旭-鑫空间-鑫生活】尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/)
 - [【京东设计中心】HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)
-- [【安全热点】JSRC牛气冲天的“年货旅行箱”,5积分开抢!](https://sec.thief.one/article_content?a_id=f2e94c15ca2400b231e62f6d573d37d3)
-- [【安全热点】年度盘点-|-2020重大网络安全事件-·-能源篇](https://sec.thief.one/article_content?a_id=3ada419049faa7d552b9db6bdcae1260)
-- [【安全热点】对incaseformat蠕虫事件一些思考](https://sec.thief.one/article_content?a_id=2b1c587b756743a130dc21aeb8dc9b2c)
+- [【掘金前端】el-dialog-填写表单时，蒙版下面的列表跟着变化](https://juejin.im/post/6917931182718107662)
+- [【掘金前端】点击浏览器后退按钮-chrome-不会触发popstate事件分析-七日打卡5](https://juejin.im/post/6917926291614203911)
+- [【前端艺术家&&飞冰早报】JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb)
+- [【前端艺术家&&飞冰早报】JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828)
+- [【前端艺术家&&飞冰早报】你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome)
+- [【前端艺术家&&飞冰早报】How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/)
+- [【前端艺术家&&飞冰早报】EHTML:-HTML-Framework-that-allows-you-write-no-JavaScript-code-at-all.](https://guseyn.com/posts/frontend-development-can-and-should-be-simple?v=1.0.173)
+- [【前端艺术家&&飞冰早报】一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175)
+- [【前端艺术家&&飞冰早报】（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b)
+- [【前端艺术家&&飞冰早报】JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56)
+- [【V2EX】CabloyJS-自带工作流引擎的文档清单](https://www.v2ex.com/t/745342)
+- [【技术头条】H5-移动端调试全攻略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14091&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJg5RUr5wRBc9fRyCjnp7Jg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】14个-JavaScript-代码优化技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14084&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTGBlEk_7gjhgEARA7yxd5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】谈谈拼夕夕事件！为什么我们拼尽全力却还要-996](https://toutiao.io/k/jrzbd22)
+- [【开发者头条】软件架构基础（三）:-什么是好的模块化代码？高内聚、低耦合如何衡量？](https://toutiao.io/k/hi2cbep)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -188,6 +212,13 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】纯CSS实现微信列表左滑显示按钮的交互效果](https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/)
+- [【张鑫旭-鑫空间-鑫生活】几行CSS让整站支持深色模式的探索与拓展](https://www.zhangxinxu.com/wordpress/2020/11/css-mix-blend-mode-filter-dark-theme/)
+- [【张鑫旭-鑫空间-鑫生活】HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/)
+- [【前端艺术家&&飞冰早报】【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0)
+- [【前端艺术家&&飞冰早报】b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882)
+- [【前端艺术家&&飞冰早报】Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202)
+- [【前端艺术家&&飞冰早报】动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -204,6 +235,7 @@
 
 
 
+- [【掘金前端】撸一个简易canvas动态时钟表盘](https://juejin.im/post/6917928848868950024)
 - [【安全热点】1月13日GUIBI早内参-灰度恢复加密信托基金申购,以太坊EIP-1559或...](https://sec.thief.one/article_content?a_id=0bcbe1204511e01eddf492710fa3173e)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
@@ -221,6 +253,11 @@
 
 
 
+- [【掘金前端】必学必会-音频和视频-|-七日打卡](https://juejin.im/post/6918011549231775751)
+- [【V2EX】国内什么视频会议软件用的比较多？支持浏览器，支持非注册用户参加，支持共享画面。](https://www.v2ex.com/t/745387)
+- [【V2EX】腾讯视频（PC-版）疑似私下启用-p2p-网络加速，偷占用户带宽？](https://www.v2ex.com/t/745365)
+- [【V2EX】求-iOS-爱优腾视频客户端满屏广告屏蔽办法](https://www.v2ex.com/t/745359)
+- [【V2EX】大家平时在-Windows-系统上使用哪些音视频类播放器，要软硬件编解码能力强的，都有哪些应用程序或大家经常用的。谢谢。](https://www.v2ex.com/t/745347)
 - [【安全热点】【视频】|-Python:关键字参数和默认值参数](https://sec.thief.one/article_content?a_id=0e26847cf7e910b2aafeb9ec2e837909)
 - [【安全热点】3240个小时打磨-|-用视频还原攻防演练中台淬炼过程](https://sec.thief.one/article_content?a_id=dfdb52afbfc048fefda96539f2289fd5)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -241,6 +278,11 @@
 
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
+- [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【技术头条】性能优化那些事-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14096&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】强大！ASM-插桩实现-Android-端无埋点性能监控！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14090&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXuc034VlR7TqjTaoaSuI2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】浅谈机器学习模型推理性能优化-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14083&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmachine-learning-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】重定向的九种方案及性能比较](https://toutiao.io/k/i5nj2jm)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -257,6 +299,12 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
+- [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】字节跳动-安全与风控团队，持续热招中！北京&上海&深圳&杭州…](https://www.v2ex.com/t/745386)
+- [【V2EX】前端挂外网，后端放内网，请问怎么解决-https-请求问题？](https://www.v2ex.com/t/745385)
+- [【V2EX】Chrome-87.0.4280.141-终于把讨人厌的地址栏历史记录去掉了](https://www.v2ex.com/t/745366)
+- [【V2EX】目前内网远程控制最好的方案就是-VNC-吗？最近试了-teamviewer-和-anydesk，都不太爽](https://www.v2ex.com/t/745358)
 - [【安全热点】超级CSO-|-刘新凯:数据安全,合规挑战](https://sec.thief.one/article_content?a_id=f0021f42ceb9d9cb5a991d8354163bb5)
 - [【安全热点】中国国家互联网信息办公室与印尼国家网络与密码局签署网络安全领域...](https://sec.thief.one/article_content?a_id=28989ea74cd508c1a9004e355fd0d0f8)
 - [【安全热点】每日安全动态推送01-15](https://sec.thief.one/article_content?a_id=53ce161ec56e40147d0d3adfc463cbd1)
@@ -271,9 +319,6 @@
 - [【安全热点】微软补丁日安全通告|1月份](https://sec.thief.one/article_content?a_id=271025f52b5a742e91017b9cbc51a851)
 - [【安全热点】守护工业互联网安全|绿盟工业互联网平台企业安全综合防护方案荣获嘉...](https://sec.thief.one/article_content?a_id=046d705978c316e9a1a8bc0eee725d93)
 - [【安全热点】虎符智库|至暗时刻:如何应对全球网络安全威胁?](https://sec.thief.one/article_content?a_id=d7e2bf5f2f0f1b3dc6634170dd100440)
-- [【安全热点】对Facebook进行安全测试之账户劫持实验](https://sec.thief.one/article_content?a_id=c8ae42b725ba52496d90de3ad2363c8f)
-- [【安全热点】安全创业企业如何从从巨头环伺中逆袭突围](https://sec.thief.one/article_content?a_id=36691eaab8b51af0c66f7779c43e6b17)
-- [【安全热点】【漏洞通告】深信服安全蓝军灯火实验室向微软提交并协助修复了12个...](https://sec.thief.one/article_content?a_id=952fccd789704baf265ac68c0be54841)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -290,6 +335,7 @@
 
 
 
+- [【V2EX】滴滴出行-北京、杭州、成都内推-Java-/前端/Android/iOS/算法/-PHP-/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/745379)
 - [【安全热点】记住看小电影前一定要检查网址是不是-HTTPS-的,不然…](https://sec.thief.one/article_content?a_id=db771af171a6c22a3562d3bded3f55a2)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -339,6 +385,9 @@
 
 
 
+- [【V2EX】北京-招聘兼职-光学传感器仪表-STM32-硬件开发工程师---寻找你，成就你](https://www.v2ex.com/t/745356)
+- [【V2EX】北京-字节电商测试/测试开发招聘](https://www.v2ex.com/t/745340)
+- [【技术头条】HR招聘的10条“黑话”，能听懂的都是老司机-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14095&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgGqBAWfC_Z8Sd8GiSCaF7A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】招聘-|-无糖信息招聘渗透测试工程师](https://sec.thief.one/article_content?a_id=d03264debe02013d15eb2269b5cf2782)
 - [【安全热点】招聘-|-钉钉中国信息技术有限公司](https://sec.thief.one/article_content?a_id=a8a01ed8435413f71131cbe72dc6fe83)
 - [......【查看更多】......](./details/tags/job-interview.md)
@@ -387,6 +436,12 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】吉林｜1-传-19-！吉林出现超级传播，多位老人参加活动被感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiftZfmumTIvfV2NKrMVl9210115&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】石家庄｜第二轮核酸检测全部完成，累计发现阳性病例-247-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio0qGZdxps9TH7U7k1dXF210115&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】1.15｜石家庄-9-地调为中风险，东北多地出现新增，北京浙江修改外地返回政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEIAdFbchdecgBmN5jS8A210115&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】北京｜中高风险地区人员非必要不进京，防止通过第三地进返京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYmqcYtzFWTNk59YtuSdr210115&isfromapp=1)
+- [【张鑫旭-鑫空间-鑫生活】突发奇想，同步单复选框checked态岂不点击通杀？](https://www.zhangxinxu.com/wordpress/2020/11/label-sync-radio-checkbox-checked/)
+- [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-142-期）：2020年才是21世纪元年](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-141-期）：封闭系统的胜利](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-140-期）：印度人的工资是多少？](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html)
@@ -396,17 +451,11 @@
 - [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
 - [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
-- [【安全热点】为何incaseformat病毒在1月13日集中爆发,下次爆发时间为?](https://sec.thief.one/article_content?a_id=6883f57c6e81918aec845d67248161ff)
-- [【安全热点】基于机器学习的Web管理后台识别方法探索](https://sec.thief.one/article_content?a_id=a8fae647249a8c8301201b353eceff3a)
-- [【安全热点】pe结构详解](https://sec.thief.one/article_content?a_id=0c2587f6834b8fda747156c8bee7722f)
-- [【安全热点】新机构正在等待比特币价格过山车的结束](https://sec.thief.one/article_content?a_id=4b31fb26d695153516bc19796279dd22)
-- [【安全热点】环境署数据库的一个漏洞暴露联合国雇员数据](https://sec.thief.one/article_content?a_id=eaad401e9643ccd252d6ddd15a82d8a8)
-- [【安全热点】Vulnhub靶机Five86-1详细解析](https://sec.thief.one/article_content?a_id=2a4567032a64154b025a95df78436a28)
-- [【安全热点】56岁美国国家工程院院士陈刚教授被捕!MIT校长:校方愿与之共度艰...](https://sec.thief.one/article_content?a_id=2a9deb8480f6fe96f58398472e320ccf)
-- [【安全热点】蓝队视角下的“HVV利剑”-钓鱼攻击案例分享与总结](https://sec.thief.one/article_content?a_id=8f5881ce8fe4007d01526cf3f1ad405f)
-- [【安全热点】比特币重回40000美金,周末或成重要变盘点](https://sec.thief.one/article_content?a_id=214d3dbcf89e859cd58fb466af63ecad)
-- [【安全热点】在PyPI上寻找恶意程序包](https://sec.thief.one/article_content?a_id=c7f4d7f5374faf3f291e95a76ddded62)
-- [【安全热点】美国防部又“拉黑”小米、中国商飞等9家中企附名单](https://sec.thief.one/article_content?a_id=1f2495d4443238aacac82e6ab97443d2)
+- [【掘金前端】技术周报-·-2020-前端技术发展回顾](https://juejin.im/post/6917905474947907591)
+- [【前端艺术家&&飞冰早报】自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560)
+- [【前端艺术家&&飞冰早报】让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b)
+- [【前端艺术家&&飞冰早报】淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ)
+- [【前端艺术家&&飞冰早报】以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

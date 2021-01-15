@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 15:08:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 15:54:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,7 +7,26 @@
 
 
 
+- [2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 
+- [2020-12-24-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) 
+- [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
+- [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
+- [2021-01-15-el-dialog-填写表单时，蒙版下面的列表跟着变化](https://juejin.im/post/6917931182718107662) 
+- [2021-01-15-点击浏览器后退按钮-chrome-不会触发popstate事件分析-七日打卡5](https://juejin.im/post/6917926291614203911) 
+- [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
+- [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
+- [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
+- [2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) 
+- [2019-12-04-EHTML:-HTML-Framework-that-allows-you-write-no-JavaScript-code-at-all.](https://guseyn.com/posts/frontend-development-can-and-should-be-simple?v=1.0.173) 
+- [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
+- [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
+- [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [2021-01-15-CabloyJS-自带工作流引擎的文档清单](https://www.v2ex.com/t/745342) 
+- [2021-01-15-H5-移动端调试全攻略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14091&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJg5RUr5wRBc9fRyCjnp7Jg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-01-15-14个-JavaScript-代码优化技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14084&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTGBlEk_7gjhgEARA7yxd5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-01-15-谈谈拼夕夕事件！为什么我们拼尽全力却还要-996](https://toutiao.io/k/jrzbd22) 
+- [2021-01-15-软件架构基础（三）:-什么是好的模块化代码？高内聚、低耦合如何衡量？](https://toutiao.io/k/hi2cbep) 
 - [2021-01-15-JSRC牛气冲天的“年货旅行箱”,5积分开抢!](https://sec.thief.one/article_content?a_id=f2e94c15ca2400b231e62f6d573d37d3) 
 - [2021-01-14-年度盘点-|-2020重大网络安全事件-·-能源篇](https://sec.thief.one/article_content?a_id=3ada419049faa7d552b9db6bdcae1260) 
 - [2021-01-14-对incaseformat蠕虫事件一些思考](https://sec.thief.one/article_content?a_id=2b1c587b756743a130dc21aeb8dc9b2c) 

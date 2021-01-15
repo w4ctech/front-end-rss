@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 03:35:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 04:06:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -40,9 +40,7 @@
 - [2020-07-19-「-思考-」-React-Hooks-的设计哲学](https://www.ershicimi.com/p/a06a740b0c554e7a4bf3accaa37913eb) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2021-01-13-如何编写漂亮的-React-代码？](https://www.ershicimi.com/p/a0e88cf65b99ca48a2019b52df07d4d2) 
-- [2021-01-14-ReactFiber节点的更新入口：beginWork](https://juejin.im/post/6917799654520258573) 
 - [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) 
 - [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) 
 - [2021-01-15-把-macOS-版的微信-hook-之后，我解锁了几个新玩法](https://www.v2ex.com/t/745169) 
-- [2021-01-15-开源：-react-天气组件](https://www.v2ex.com/t/745127) 
 - [2021-01-15-世界上第一个可用于-React、Vue、纯-HTML-和-CSS-的可组合-CSS-动画工具包：-AnimXYZ](https://toutiao.io/k/oscwob0) 

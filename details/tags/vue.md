@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 03:35:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 04:06:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -83,4 +83,3 @@
 - [2021-01-14-详解Vue中的computed和watch](https://juejin.im/post/6917805693860839431) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
-- [2021-01-15-在-vue-的原型上注入配置文件，配置文件通过异步-http-访问获取，如何控制初始化顺序？](https://www.v2ex.com/t/745136) 

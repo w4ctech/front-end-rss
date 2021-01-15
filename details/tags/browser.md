@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 03:35:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 04:06:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,6 +43,8 @@
 - [2021-01-08-Chrome-上最必不可少的29-款插件，超级提高效率](https://www.ershicimi.com/p/5ae7b4c22ba61e81d8b0809f0a006bd5) 
 - [2021-01-14-容器安全最佳实践入门](https://www.ershicimi.com/p/f769c10b653233b0dc77fd6206bb4983) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-01-15-如何获得虾米音乐这个跳转后的-URL](https://www.v2ex.com/t/745188) 
+- [2021-01-15-Beaker-Browser-P2P-实验性-Web-浏览器-不用服务器搭建网站](https://www.v2ex.com/t/745178) 
 - [2021-01-14-工信部开展工业互联网企业网络安全分类分级管理试点工作](https://sec.thief.one/article_content?a_id=5e0de814fc26f3aeb3257f0c7c22f574) 
 - [2021-01-14-2021年网络安全高级研修班圆满结束](https://sec.thief.one/article_content?a_id=8ed512bebb0e49dc18589297b5f6eb47) 
 - [2021-01-14-安全招聘-|-水滴实验室上海分部](https://sec.thief.one/article_content?a_id=737748540142334a82b84baea4816345) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 16:29:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 18:01:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,5 +7,4 @@
 
 
 
-- [2021-01-15-撸一个简易canvas动态时钟表盘](https://juejin.im/post/6917928848868950024) 
 - [2021-01-13-1月13日GUIBI早内参-灰度恢复加密信托基金申购,以太坊EIP-1559或...](https://sec.thief.one/article_content?a_id=0bcbe1204511e01eddf492710fa3173e) 

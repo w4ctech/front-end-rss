@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 13:49:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 14:19:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -16,6 +16,11 @@
 - [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) 
+- [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
+- [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
+- [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
+- [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-01-15-腾讯视频（PC-版）疑似私下启用-p2p-网络加速，偷占用户带宽？](https://www.v2ex.com/t/745365) 
@@ -23,4 +28,3 @@
 - [2021-01-15-大家平时在-Windows-系统上使用哪些音视频类播放器，要软硬件编解码能力强的，都有哪些应用程序或大家经常用的。谢谢。](https://www.v2ex.com/t/745347) 
 - [2021-01-15-【视频】|-Python:关键字参数和默认值参数](https://sec.thief.one/article_content?a_id=0e26847cf7e910b2aafeb9ec2e837909) 
 - [2021-01-13-3240个小时打磨-|-用视频还原攻防演练中台淬炼过程](https://sec.thief.one/article_content?a_id=dfdb52afbfc048fefda96539f2289fd5) 
-- [2021-01-07-2020-AIoT产业年终盛典正在直播！速进~](https://www.ershicimi.com/p/303c4da836d6c0695a4c5753d50d2812) 

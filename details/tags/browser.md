@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 06:05:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 06:30:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,8 +8,6 @@
 
 
 - [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/cacecf530e97b404d830c2a50be041d6) 
-- [2021-01-08-【第2170期】在Web应用中减少CORS预检时间的4种方法](https://www.ershicimi.com/p/f46bbe08cb788f93de000136e14979e2) 
-- [2021-01-07-封装-axios-取消重复请求](https://www.ershicimi.com/p/034b0e14f964706740244bdd96b3de26) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -22,13 +20,8 @@
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2021-01-12-缓存，确实很香，却也很受伤！](https://www.ershicimi.com/p/d5d0f3ec9115c1a37bf3bef939c01c21) 
-- [2021-01-10-SpringBoot2.x-官方墙裂推荐的缓存框架，竟然不是Redis！](https://www.ershicimi.com/p/f000e404acc6c175e3f0f4279116bde7) 
-- [2021-01-08-Chrome-上最必不可少的29-款插件，超级提高效率](https://www.ershicimi.com/p/5ae7b4c22ba61e81d8b0809f0a006bd5) 
-- [2021-01-14-容器安全最佳实践入门](https://www.ershicimi.com/p/f769c10b653233b0dc77fd6206bb4983) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-15-如何获得虾米音乐这个跳转后的-URL](https://www.v2ex.com/t/745188) 
-- [2021-01-15-Beaker-Browser-P2P-实验性-Web-浏览器-不用服务器搭建网站](https://www.v2ex.com/t/745178) 
 - [2021-01-15-中国国家互联网信息办公室与印尼国家网络与密码局签署网络安全领域...](https://sec.thief.one/article_content?a_id=28989ea74cd508c1a9004e355fd0d0f8) 
 - [2021-01-15-每日安全动态推送01-15](https://sec.thief.one/article_content?a_id=53ce161ec56e40147d0d3adfc463cbd1) 
 - [2021-01-14-工信部开展工业互联网企业网络安全分类分级管理试点工作](https://sec.thief.one/article_content?a_id=5e0de814fc26f3aeb3257f0c7c22f574) 

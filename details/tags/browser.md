@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 18:59:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 19:14:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,9 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
+- [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/cacecf530e97b404d830c2a50be041d6) 
+- [2021-01-08-【第2170期】在Web应用中减少CORS预检时间的4种方法](https://www.ershicimi.com/p/f46bbe08cb788f93de000136e14979e2) 
+- [2021-01-07-封装-axios-取消重复请求](https://www.ershicimi.com/p/034b0e14f964706740244bdd96b3de26) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
 - [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
@@ -31,6 +34,13 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
+- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
+- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2021-01-12-缓存，确实很香，却也很受伤！](https://www.ershicimi.com/p/d5d0f3ec9115c1a37bf3bef939c01c21) 
+- [2021-01-10-SpringBoot2.x-官方墙裂推荐的缓存框架，竟然不是Redis！](https://www.ershicimi.com/p/f000e404acc6c175e3f0f4279116bde7) 
+- [2021-01-08-Chrome-上最必不可少的29-款插件，超级提高效率](https://www.ershicimi.com/p/5ae7b4c22ba61e81d8b0809f0a006bd5) 
+- [2021-01-14-容器安全最佳实践入门](https://www.ershicimi.com/p/f769c10b653233b0dc77fd6206bb4983) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-15-字节跳动-安全与风控团队，持续热招中！北京&上海&深圳&杭州…](https://www.v2ex.com/t/745386) 
 - [2021-01-15-前端挂外网，后端放内网，请问怎么解决-https-请求问题？](https://www.v2ex.com/t/745385) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 20:05:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 20:34:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,8 +7,6 @@
 
 
 
-- [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/cacecf530e97b404d830c2a50be041d6) 
-- [2021-01-08-【第2170期】在Web应用中减少CORS预检时间的4种方法](https://www.ershicimi.com/p/f46bbe08cb788f93de000136e14979e2) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
 - [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
@@ -17,10 +15,11 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2021-01-12-缓存，确实很香，却也很受伤！](https://www.ershicimi.com/p/d5d0f3ec9115c1a37bf3bef939c01c21) 
-- [2021-01-10-SpringBoot2.x-官方墙裂推荐的缓存框架，竟然不是Redis！](https://www.ershicimi.com/p/f000e404acc6c175e3f0f4279116bde7) 
-- [2021-01-08-Chrome-上最必不可少的29-款插件，超级提高效率](https://www.ershicimi.com/p/5ae7b4c22ba61e81d8b0809f0a006bd5) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-01-15-字节跳动-安全与风控团队，持续热招中！北京&上海&深圳&杭州…](https://www.v2ex.com/t/745386) 
+- [2021-01-15-前端挂外网，后端放内网，请问怎么解决-https-请求问题？](https://www.v2ex.com/t/745385) 
+- [2021-01-15-Chrome-87.0.4280.141-终于把讨人厌的地址栏历史记录去掉了](https://www.v2ex.com/t/745366) 
+- [2021-01-15-目前内网远程控制最好的方案就是-VNC-吗？最近试了-teamviewer-和-anydesk，都不太爽](https://www.v2ex.com/t/745358) 
 - [2021-01-15-超级CSO-|-刘新凯:数据安全,合规挑战](https://sec.thief.one/article_content?a_id=f0021f42ceb9d9cb5a991d8354163bb5) 
 - [2021-01-15-中国国家互联网信息办公室与印尼国家网络与密码局签署网络安全领域...](https://sec.thief.one/article_content?a_id=28989ea74cd508c1a9004e355fd0d0f8) 
 - [2021-01-15-每日安全动态推送01-15](https://sec.thief.one/article_content?a_id=53ce161ec56e40147d0d3adfc463cbd1) 

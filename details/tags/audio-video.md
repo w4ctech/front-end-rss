@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 12:59:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 13:26:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -12,6 +12,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2021-01-15-腾讯视频（PC-版）疑似私下启用-p2p-网络加速，偷占用户带宽？](https://www.v2ex.com/t/745365) 
 - [2021-01-15-求-iOS-爱优腾视频客户端满屏广告屏蔽办法](https://www.v2ex.com/t/745359) 
 - [2021-01-15-大家平时在-Windows-系统上使用哪些音视频类播放器，要软硬件编解码能力强的，都有哪些应用程序或大家经常用的。谢谢。](https://www.v2ex.com/t/745347) 
 - [2021-01-15-【视频】|-Python:关键字参数和默认值参数](https://sec.thief.one/article_content?a_id=0e26847cf7e910b2aafeb9ec2e837909) 

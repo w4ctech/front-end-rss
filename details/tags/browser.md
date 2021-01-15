@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 12:59:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 13:26:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,7 +16,6 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-15-目前内网远程控制最好的方案就是-VNC-吗？最近试了-teamviewer-和-anydesk，都不太爽](https://www.v2ex.com/t/745358) 
 - [2021-01-15-超级CSO-|-刘新凯:数据安全,合规挑战](https://sec.thief.one/article_content?a_id=f0021f42ceb9d9cb5a991d8354163bb5) 
 - [2021-01-15-中国国家互联网信息办公室与印尼国家网络与密码局签署网络安全领域...](https://sec.thief.one/article_content?a_id=28989ea74cd508c1a9004e355fd0d0f8) 

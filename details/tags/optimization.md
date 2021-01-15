@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 14:19:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 14:27:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -8,12 +8,12 @@
 
 
 - [2020-12-29-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/50bd1306cf6d1b79cd1e7d871c0c4408) 
-- [2021-01-10-拯救你的年底-KPI：前端性能优化](https://www.ershicimi.com/p/beb6433197213a5d151bdb3fa2ce73ea) 
 - [2020-12-28-让你页面速度飞起来的前端性能优化方案](https://www.ershicimi.com/p/642eb649ce26af1ccc65b03d2d2f1618) 
 - [2021-01-08-从Weex到Web，性能逆势如何破局？](https://www.ershicimi.com/p/a016af5ced7b162f3c018c205a70671c) 
 - [2021-01-08-腾讯文档表格：大型前端项目架构优化探索之路](https://www.ershicimi.com/p/6ba888fc6deaa0a1c1f6344892cc0bd7) 
 - [2020-12-17-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/db63b84f2a177769c439050f85b80cd7) 
 - [2020-12-16-前端页面性能及其分析工具](https://www.ershicimi.com/p/30480802881377748b42509d31445ad7) 
+- [2021-01-11-拯救你的年底-KPI：前端性能优化](https://www.ershicimi.com/p/3a05c6e0468ab5391d85c3514b3e4333) 
 - [2020-10-29-如何从-0-到-1-搭建性能检测系统修正版](https://www.ershicimi.com/p/caf97cfac5fe753a40ff1f199bf6abfe) 
 - [2020-12-30-从前端性能优化引申出来的5道经典面试题值得收藏](https://www.ershicimi.com/p/7a9d80fbcc9823bbc5884b0894af23a6) 
 - [2020-12-28-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/ecc2a70caec8952abc4bbcc109ec857e) 

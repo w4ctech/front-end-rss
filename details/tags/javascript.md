@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 14:19:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 14:27:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,8 +17,6 @@
 - [2021-01-05-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/0f02749522e52c03ddf87b7d335a0493) 
 - [2021-01-05-【第2167期】埋点自动收集方案-路由依赖分析](https://www.ershicimi.com/p/37f3a1fea04ee65d0e70d747db49c693) 
 - [2020-12-30-【第2163期】增量-DOM-与虚拟-DOM-的对比使用](https://www.ershicimi.com/p/ac8532bf0851e1a69e57c07a1b4f6fdb) 
-- [2021-01-14-RxJS：给你如丝一般顺滑的编程体验（建议收藏）](https://www.ershicimi.com/p/9b29ed68d8235b521238f3ed6ea150b3) 
-- [2021-01-11-如何利用-JavaScript-实现并发控制](https://www.ershicimi.com/p/3392e1d103bd795b19a08c5deafde33b) 
 - [2021-01-06-由浅入深，66条JavaScript面试知识点](https://www.ershicimi.com/p/eec16849413680811c8f8890fa322e3b) 
 - [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
 - [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
@@ -27,12 +25,15 @@
 - [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
 - [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
 - [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) 
+- [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？-|-活动推荐](https://www.ershicimi.com/p/1cc079efeafb7358827dc65c38bff401) 
 - [2021-01-04-你应该了解的25个JS技巧](https://www.ershicimi.com/p/2f392c26ff75efe0a0bfb03d83af565f) 
 - [2021-01-12-原生JS基础巩固](https://www.ershicimi.com/p/583e4c9899b78a8b33508ca1204d9661) 
 - [2021-01-07-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/7d41d4d856c69f390908f36fa56d9944) 
 - [2020-12-29-事件循环机制的那些事](https://www.ershicimi.com/p/0a048090705ab10a0e65e1b27c68ff45) 
 - [2020-12-20-JavaScript第四版红宝书,抽奖送20本！](https://www.ershicimi.com/p/fc2f1231972060acb3174b48bca8f5b4) 
+- [2021-01-11-你不知道的JavaScript计时器知识](https://www.ershicimi.com/p/83260b6d20018f3789e55763859be949) 
+- [2021-01-06-正则表达式是如何让你的网页卡住的](https://www.ershicimi.com/p/a081a93dffabf8cd7bcbcedb38817b0e) 
 - [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 
 - [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
 - [2020-12-29-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/c63d28f5cb612614d2190525cfe5c768) 
@@ -43,7 +44,6 @@
 - [2021-01-07-面试题：JS-获取某月的天数](https://www.ershicimi.com/p/14a1f64128b3263389b6a668aa902ebd) 
 - [2021-01-05-一文搞懂-Web-Worker原理到实践](https://www.ershicimi.com/p/63554210aba9a373c5b77489f602f3d4) 
 - [2021-01-04-为什么不推荐用for...in遍历数组](https://www.ershicimi.com/p/577c6beaab3872ce26770bd396bd0e62) 
-- [2021-01-12-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/ddb5d32e4717fb973d232a3b6305f28e) 
 - [2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 
 - [2020-12-24-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) 
 - [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 

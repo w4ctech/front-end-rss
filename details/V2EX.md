@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-01-16 04:22:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-16 04:33:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-01-16-实习-微软亚洲研究院-基于-FPGA-的云加速技术开发实习生](https://www.v2ex.com/t/745454) 
 - [2021-01-16-看到一个有意思的视频，预示着人类的未来](https://www.v2ex.com/t/745452) 
 - [2021-01-16-几乎-100%-还原了黑客帝国中的代码雨特效](https://www.v2ex.com/t/745451) 
 - [2021-01-16-苹果已在服务器端阻止了在-M1-Mac-上使用-iMazing-等手动方式安装-iOS-应用程序](https://www.v2ex.com/t/745449) 
@@ -39,4 +40,3 @@
 - [2021-01-16-不会吧！不会还有人不知道-iPhone-会自动删除通话记录吧](https://www.v2ex.com/t/745407) 
 - [2021-01-16-airpod-pro-JD-上的价格比苹果官网便宜好几百？](https://www.v2ex.com/t/745406) 
 - [2021-01-16-有在-IOS-上订阅过时代周刊吗，值得买吗？](https://www.v2ex.com/t/745405) 
-- [2021-01-16-The-OLED-touch-bar-is-removed,-and-the-physical-function-buttons-are-restored.](https://www.v2ex.com/t/745404) 

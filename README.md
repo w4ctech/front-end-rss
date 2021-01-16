@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-16 18:44:49，:rocket: 更新条数: +486， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-16 19:37:36，:rocket: 更新条数: +490， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -76,6 +76,10 @@
 </summary>
 
 
+- [2021-01-16-辽宁｜大连-11-个封闭管控社区将于-17-日-0-时解封](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisLclGKd36sc7qjRxEroi210116&isfromapp=1) ![](assets/new.png)  
+- [2021-01-16-1.16｜石家庄检出-247-例阳性，吉林出现超级传播，北京-1-地升级中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDHZmc39Ya06maeTEt80j210116&isfromapp=1) ![](assets/new.png)  
+- [2021-01-16-吉林｜长春新增-3-例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuMexm5UFMN7knTlGAzLi210116&isfromapp=1) ![](assets/new.png)  
+- [2021-01-16-河北｜石家庄新增-83-例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHE1Y5Yw8QmgmzDDWCo0L210116&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -524,6 +528,8 @@
 </summary>
 
 
+- [2021-01-16-手机拍照之前要清洁镜头吗？](https://www.v2ex.com/t/745583) ![](assets/new.png)  
+- [2021-01-16-官网买的-iPhone-补买-AC+竟然不能参加年年换新计划？](https://www.v2ex.com/t/745582) ![](assets/new.png)  
 - [2021-01-16-如果有钱，谁又愿意-996-呢，那么钱都去哪了呢？](https://www.v2ex.com/t/745581) ![](assets/new.png)  
 - [2021-01-16-大多数人的观点=正确=我也要加入他们？](https://www.v2ex.com/t/745580) ![](assets/new.png)  
 - [2021-01-16-求真正支持内网穿透-websocket-的软件](https://www.v2ex.com/t/745579) ![](assets/new.png)  
@@ -542,8 +548,6 @@
 - [2021-01-16-迫于快吐了，咨询下树莓派上-Python-自启问题](https://www.v2ex.com/t/745563) ![](assets/new.png)  
 - [2021-01-16-关于-ios-app-上架的网络请求问题](https://www.v2ex.com/t/745562) ![](assets/new.png)  
 - [2021-01-16-求助：购买前端模版的平台](https://www.v2ex.com/t/745561) ![](assets/new.png)  
-- [2021-01-16-投影仪如何看网络电视](https://www.v2ex.com/t/745560) ![](assets/new.png)  
-- [2021-01-16-迫于逻辑实在理不清了，-Python-求助](https://www.v2ex.com/t/745559) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -588,24 +592,24 @@
 
 - [2021-01-16-珍爱生命，珍惜健康](https://toutiao.io/k/78bhd5y) ![](assets/new.png)  
 - [2021-01-16-可能是说的最分明的-IaaS,-PaaS,-FaaS,-SaaS,-MicroService,-Serverless-了](https://toutiao.io/k/p2q8xl8) ![](assets/new.png)  
-- [2021-01-16-一个-Golang-版本-XSS-过滤模块](https://toutiao.io/k/dvqbquo) ![](assets/new.png)  
 - [2021-01-16-Serverless-音视频转码：芒果-TV-落地实践（下）](https://toutiao.io/k/talunv3) ![](assets/new.png)  
+- [2021-01-16-一个-Golang-版本-XSS-过滤模块](https://toutiao.io/k/dvqbquo) ![](assets/new.png)  
 - [2021-01-16-Seata-事务提交流程](https://toutiao.io/k/wqkoino) ![](assets/new.png)  
 - [2021-01-16-三万字，Spark-学习笔记](https://toutiao.io/k/wjp0vit) ![](assets/new.png)  
-- [2021-01-16-​领域模型-vs-数据模型，应该怎么用？](https://toutiao.io/k/d077iat) ![](assets/new.png)  
-- [2021-01-16-假如-2020-是个孩子](https://toutiao.io/k/1m9blvr) ![](assets/new.png)  
 - [2021-01-16-漫谈分布式系统（二十四）：MPP](https://toutiao.io/k/xl3kfsl) ![](assets/new.png)  
+- [2021-01-16-​领域模型-vs-数据模型，应该怎么用？](https://toutiao.io/k/d077iat) ![](assets/new.png)  
 - [2021-01-16-译-如何遍历-DOM？](https://toutiao.io/k/xm4fd78) ![](assets/new.png)  
-- [2021-01-16-推荐-软件架构基础（一）：架构师的-8-大核心能力](https://toutiao.io/k/mk9kqnq) ![](assets/new.png)  
-- [2021-01-16-推荐-一个产品需求的研发流程是怎样的？](https://toutiao.io/k/fb90qrq) ![](assets/new.png)  
-- [2021-01-16-推荐-微服务架构-10-个最重要的设计模式](https://toutiao.io/k/krsjiu0) ![](assets/new.png)  
-- [2021-01-16-推荐-2021-值得推荐的优质在线服务](https://toutiao.io/k/l2t22c8) ![](assets/new.png)  
-- [2021-01-16-推荐-支撑-700-亿数据量的-ClickHouse-高可用架构实践](https://toutiao.io/k/f5v4m55) ![](assets/new.png)  
-- [2021-01-16-推荐-Spring-中这些能升华代码的技巧，可能会让你爱不释手](https://toutiao.io/k/d374mr5) ![](assets/new.png)  
-- [2021-01-16-推荐-MySQL-索引优化](https://toutiao.io/k/wwi18sc) ![](assets/new.png)  
-- [2021-01-16-推荐-技术人如何加速成长？提升你的思维和学习方式](https://toutiao.io/k/kon8rtq) ![](assets/new.png)  
+- [2021-01-16-假如-2020-是个孩子](https://toutiao.io/k/1m9blvr) ![](assets/new.png)  
+- [2021-01-16-推荐-2020-年，我在编程时遇见的几个好物](https://toutiao.io/k/ezq0qnu) ![](assets/new.png)  
+- [2021-01-16-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西](https://toutiao.io/k/im0exw3) ![](assets/new.png)  
 - [2021-01-16-推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie) ![](assets/new.png)  
-- [2021-01-16-推荐-当年，我的架构师之路差点完蛋，幸亏了它](https://toutiao.io/k/10zqtkl) ![](assets/new.png)  
+- [2021-01-16-推荐-高并发服务遇-Redis-瓶颈引发的事故](https://toutiao.io/k/mg8zd72) ![](assets/new.png)  
+- [2021-01-16-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) ![](assets/new.png)  
+- [2021-01-16-推荐-技术人如何加速成长？提升你的思维和学习方式](https://toutiao.io/k/kon8rtq) ![](assets/new.png)  
+- [2021-01-16-推荐-支撑-700-亿数据量的-ClickHouse-高可用架构实践](https://toutiao.io/k/f5v4m55) ![](assets/new.png)  
+- [2021-01-16-推荐-Java-线程池总结](https://toutiao.io/k/4z3o5gw) ![](assets/new.png)  
+- [2021-01-16-推荐-软件架构基础（一）：架构师的-8-大核心能力](https://toutiao.io/k/mk9kqnq) ![](assets/new.png)  
+- [2021-01-16-推荐-Spring-中这些能升华代码的技巧，可能会让你爱不释手](https://toutiao.io/k/d374mr5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

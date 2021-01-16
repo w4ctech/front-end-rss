@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-16 21:10:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-16 21:47:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,10 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-01-16-求真正支持内网穿透-websocket-的软件](https://www.v2ex.com/t/745579) 
+- [2021-01-16-关于-ios-app-上架的网络请求问题](https://www.v2ex.com/t/745562) 
+- [2021-01-16-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) 
 - [2021-01-16-网络安全编程:Windows消息机制](https://sec.thief.one/article_content?a_id=cc4b659fba595273c2fe7555c50ee96b) 
 - [2021-01-16-微软在2021年的首次安全更新中修复了83个漏洞](https://sec.thief.one/article_content?a_id=9e2818e0f2b566f19db7652da2e18d36) 
 - [2021-01-16-【安全风险通告】奇安信CERT监测到细节公开,JumpServer未授权访...](https://sec.thief.one/article_content?a_id=7e68c70aa0e4d700d3b19e8c90dd2ddd) 

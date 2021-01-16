@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-16 15:05:50，:rocket: 更新条数: +241， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-16 15:52:17，:rocket: 更新条数: +3336， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-01-16-最新疫情：全国新冠累计确诊88118例-本土病例新增115例](https://m.caixin.com/m/2021-01-16/101651700.html) ![](assets/new.png)  
+- [2021-01-16-所有居民居家隔离-河北邢台南宫实行最严厉封控](https://m.caixin.com/m/2021-01-16/101651735.html) ![](assets/new.png)  
+- [2021-01-16-吉林现“1传81”超级传播-源头指向一K350次列车乘客](https://m.caixin.com/m/2021-01-16/101651611.html) ![](assets/new.png)  
+- [2021-01-16-河北16日十小时再增32例-此前一日90例轨迹公布](https://m.caixin.com/m/2021-01-16/101651556.html) ![](assets/new.png)  
+- [2021-01-16-最新海外疫情：新冠感染近9375万-累计死亡超200万](https://m.caixin.com/m/2021-01-16/101651697.html) ![](assets/new.png)  
+- [2021-01-16-【境内疫情观察】河北新增90例本土病例（1月15日）](http://m.database.caixin.com/m/2021-01-16/101651596.html) ![](assets/new.png)  
+- [2021-01-16-大流行手记|1月15日：巴西一州受变异病毒冲击-挪威23名老人接种辉瑞疫苗后死亡](https://m.caixin.com/m/2021-01-16/101651537.html) ![](assets/new.png)  
+- [2021-01-15-北京顺义一新冠确诊病例隐瞒行程涉嫌犯罪被立案](http://m.china.caixin.com/m/2021-01-15/101651249.html) ![](assets/new.png)  
+- [2021-01-15-【境内疫情观察】全国新增本土病例连续3日破百（1月14日）](http://m.database.caixin.com/m/2021-01-15/101651150.html) ![](assets/new.png)  
+- [2021-01-15-大流行手记|1月14日：全球新冠确诊超9000万例-土耳其批准紧急使用科兴疫苗](https://m.caixin.com/m/2021-01-15/101650925.html) ![](assets/new.png)  
+- [2021-01-15-美动物园三只大猩猩确认染新冠-乃全球首例](http://m.science.caixin.com/m/2021-01-15/101651077.html) ![](assets/new.png)  
+- [2021-01-14-广西南宁新增1例本土确诊-行程轨迹公布](http://m.china.caixin.com/m/2021-01-14/101650859.html) ![](assets/new.png)  
+- [2021-01-14-1月13日河北新增1例新冠死亡病例-此前全国已272天无死亡病例](https://m.caixin.com/m/2021-01-14/101650547.html) ![](assets/new.png)  
+- [2021-01-14-1月13日河北81例新冠病例轨迹公布-涉及陕西内蒙古](https://m.caixin.com/m/2021-01-14/101650517.html) ![](assets/new.png)  
+- [2021-01-14-【境内疫情观察】河北新增81例确诊病例、1例死亡病例（1月13日）](http://m.database.caixin.com/m/2021-01-14/101650731.html) ![](assets/new.png)  
+- [2021-01-14-大流行手记|1月13日：日本扩大紧急状态范围-持续停课或致全球失学儿童增2400万](https://m.caixin.com/m/2021-01-14/101650468.html) ![](assets/new.png)  
+- [2021-01-14-外交部：世卫专家组签证期限可满足在华工作需要](http://m.international.caixin.com/m/2021-01-14/101650860.html) ![](assets/new.png)  
+- [2021-01-14-【图集】石家庄建设集中隔离点-工人紧张忙碌进行作业](http://m.photos.caixin.com/m/2021-01-14/101650689.html) ![](assets/new.png)  
+- [2021-01-13-黑龙江新增40例确诊病例和50例无症状感染者](https://m.caixin.com/m/2021-01-13/101650416.html) ![](assets/new.png)  
+- [2021-01-13-藁城、望奎为中心，河北黑龙江疫情波及多省](https://m.caixin.com/m/2021-01-13/101650284.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -335,16 +355,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -508,6 +518,14 @@
 </summary>
 
 
+- [2021-01-16-Ribbit-不再维护---基于以太坊智能合约开发的去中心化微型博客](https://www.v2ex.com/t/745565) ![](assets/new.png)  
+- [2021-01-16-北京，家住马路边，家里灰尘多，有什么好办法吗？](https://www.v2ex.com/t/745564) ![](assets/new.png)  
+- [2021-01-16-迫于快吐了，咨询下树莓派上-Python-自启问题](https://www.v2ex.com/t/745563) ![](assets/new.png)  
+- [2021-01-16-关于-ios-app-上架的网络请求问题](https://www.v2ex.com/t/745562) ![](assets/new.png)  
+- [2021-01-16-求助：购买前端模版的平台](https://www.v2ex.com/t/745561) ![](assets/new.png)  
+- [2021-01-16-投影仪如何看网络电视](https://www.v2ex.com/t/745560) ![](assets/new.png)  
+- [2021-01-16-迫于逻辑实在理不清了，-Python-求助](https://www.v2ex.com/t/745559) ![](assets/new.png)  
+- [2021-01-16-同一段-C++代码在-AWS-aarch64-机器下居然有超过-40ms-的延迟？](https://www.v2ex.com/t/745558) ![](assets/new.png)  
 - [2021-01-16-关于微信支付申请](https://www.v2ex.com/t/745557) ![](assets/new.png)  
 - [2021-01-16-请问有人遇到-Handoff-显示“来自-iPhone-4”的-bug-吗](https://www.v2ex.com/t/745556) ![](assets/new.png)  
 - [2021-01-16-电脑怎么把听到的声音变声，比如在看直播和视频的时候，把播放时听到的男声变成女生](https://www.v2ex.com/t/745555) ![](assets/new.png)  
@@ -520,14 +538,6 @@
 - [2021-01-16-百度网盘-社招-PHP-/Go-研发工程师---北京](https://www.v2ex.com/t/745546) ![](assets/new.png)  
 - [2021-01-16-雷电-3/4-桌面扩展坞求推荐](https://www.v2ex.com/t/745545) ![](assets/new.png)  
 - [2021-01-16-上海七宝-Apple-Store-零售店体验](https://www.v2ex.com/t/745544) ![](assets/new.png)  
-- [2021-01-16-常用的数据可视化工具是啥?](https://www.v2ex.com/t/745543) ![](assets/new.png)  
-- [2021-01-16-骑车厌倦了-发现了新的锻炼身体方式-劈柴](https://www.v2ex.com/t/745542) ![](assets/new.png)  
-- [2021-01-16-iPhone-不支持远控，但支持-USB-鼠标，为什么没有出现-USB-远控？](https://www.v2ex.com/t/745541) ![](assets/new.png)  
-- [2021-01-16-大家网购配送体验是不是每况愈下了](https://www.v2ex.com/t/745540) ![](assets/new.png)  
-- [2021-01-16-寻买菜程序源码-Java-or-PHP-，能开箱即用或小幅修改后上线，客户端团长端功能完整，支持微信小程序即可；开源或商业均可，来者均予感谢。](https://www.v2ex.com/t/745539) ![](assets/new.png)  
-- [2021-01-16-联通观看欧美直播虽吊打电信，但还有加速的方法吗](https://www.v2ex.com/t/745538) ![](assets/new.png)  
-- [2021-01-16-btctrade.im-这家网站更名成什么了？](https://www.v2ex.com/t/745536) ![](assets/new.png)  
-- [2021-01-16-如果一些用户量大的软件在闲暇的时候，做一些赚钱的计算，那它是不是可以赚翻了？](https://www.v2ex.com/t/745534) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -580,16 +590,16 @@
 - [2021-01-16-闲鱼是如何实践一套完整的埋点自动化验证方案的？](https://toutiao.io/k/097yw9d) ![](assets/new.png)  
 - [2021-01-16-Hadoop-平台进阶之路：HDFS-NameNode-性能优化实践](https://toutiao.io/k/tn3mj1c) ![](assets/new.png)  
 - [2021-01-16-Kylin-在-eBay-的成长历程与实践](https://toutiao.io/k/t9tgdle) ![](assets/new.png)  
-- [2021-01-16-推荐-软件架构基础（一）：架构师的-8-大核心能力](https://toutiao.io/k/mk9kqnq) ![](assets/new.png)  
+- [2021-01-16-推荐-挑战-Redis-单实例内存最大极限，“遭遇”-NUMA-陷阱](https://toutiao.io/k/4mnda7r) ![](assets/new.png)  
+- [2021-01-16-推荐-技术人如何加速成长？提升你的思维和学习方式](https://toutiao.io/k/kon8rtq) ![](assets/new.png)  
 - [2021-01-16-推荐-一个-Java-对象占用多大内存空间](https://toutiao.io/k/m12n691) ![](assets/new.png)  
-- [2021-01-16-推荐-支撑-700-亿数据量的-ClickHouse-高可用架构实践](https://toutiao.io/k/f5v4m55) ![](assets/new.png)  
-- [2021-01-16-推荐-如何写出一篇技术博客](https://toutiao.io/k/gaqteq9) ![](assets/new.png)  
+- [2021-01-16-推荐-软件架构基础（一）：架构师的-8-大核心能力](https://toutiao.io/k/mk9kqnq) ![](assets/new.png)  
+- [2021-01-16-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) ![](assets/new.png)  
+- [2021-01-16-推荐-一个产品需求的研发流程是怎样的？](https://toutiao.io/k/fb90qrq) ![](assets/new.png)  
+- [2021-01-16-推荐-如何优雅地重试](https://toutiao.io/k/z3j5ni9) ![](assets/new.png)  
+- [2021-01-16-推荐-高并发服务遇-Redis-瓶颈引发的事故](https://toutiao.io/k/mg8zd72) ![](assets/new.png)  
 - [2021-01-16-推荐-9-条消除-if...else-的锦囊妙计，助你写出更优雅的代码](https://toutiao.io/k/6o9uhdv) ![](assets/new.png)  
 - [2021-01-16-推荐-Java-线程池总结](https://toutiao.io/k/4z3o5gw) ![](assets/new.png)  
-- [2021-01-16-推荐-MySQL-索引优化](https://toutiao.io/k/wwi18sc) ![](assets/new.png)  
-- [2021-01-16-推荐-挑战-Redis-单实例内存最大极限，“遭遇”-NUMA-陷阱](https://toutiao.io/k/4mnda7r) ![](assets/new.png)  
-- [2021-01-16-推荐-微服务架构-10-个最重要的设计模式](https://toutiao.io/k/krsjiu0) ![](assets/new.png)  
-- [2021-01-16-推荐-当年，我的架构师之路差点完蛋，幸亏了它](https://toutiao.io/k/10zqtkl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-17 07:23:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-17 08:06:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -7,9 +7,6 @@
 
 
 
-- [2021-01-06-【第2168期】如何建立GitHub地球仪的](https://www.ershicimi.com/p/4a1718b6ffac9e02196c75f1d654a583) 
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) 
-- [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
-- [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
-- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
-- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2021-01-17-私有云-gitee-私有云业务有没有了解的，想知道发展前景如何呢？](https://www.v2ex.com/t/745663) 
+- [2021-01-17-推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie) 
+- [2021-01-17-推荐-前端进阶不可错过的-10-个-GitHub-仓库](https://toutiao.io/k/2eo05hp) 

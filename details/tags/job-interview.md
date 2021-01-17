@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-17 16:04:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-17 16:27:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-01-14-【招聘】钉钉宜搭生产力平台部招P6~P7前端工程师](https://www.ershicimi.com/p/46eebaa27971e168c435d056f646554f) 
 - [2021-01-13-【招聘】上海字节跳动商业变现上海前端布谷团队招前端工程师](https://www.ershicimi.com/p/5eb41071634ff9086cc1dda52edb9c50) 
 - [2021-01-04-【招聘】上海浪起互联网科技招前端工程师](https://www.ershicimi.com/p/d93777c94ff1eebb51f03687e751d387) 
@@ -22,5 +21,6 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-01-14-大厂面试必问的设计模式，看这一篇就够了-｜-极客时间](https://www.ershicimi.com/p/73f86dd9aa66ad336767422f37bc9ebd) 
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
+- [2021-01-17-HR招聘的10条“黑话”，能听懂的都是老司机-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14095&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgGqBAWfC_Z8Sd8GiSCaF7A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-01-17-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) 
 - [2021-01-15-招聘-|-无糖信息招聘渗透测试工程师](https://sec.thief.one/article_content?a_id=d03264debe02013d15eb2269b5cf2782) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-17 23:01:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-17 23:18:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -600,7 +600,7 @@
 - [【InfoQ】大厂面试必问的设计模式，看这一篇就够了-｜-极客时间](https://www.ershicimi.com/p/73f86dd9aa66ad336767422f37bc9ebd)
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
 - [【技术头条】HR招聘的10条“黑话”，能听懂的都是老司机-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14095&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgGqBAWfC_Z8Sd8GiSCaF7A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye)
+- [【开发者头条】推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa)
 - [【安全热点】招聘-|-无糖信息招聘渗透测试工程师](https://sec.thief.one/article_content?a_id=d03264debe02013d15eb2269b5cf2782)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

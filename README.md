@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-17 00:16:11，:rocket: 更新条数: +4098， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-17 00:35:43，:rocket: 更新条数: +4098， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1033,6 +1033,7 @@
 </summary>
 
 
+- [2021-01-17-微软云存储中国事业部，热招！](https://www.v2ex.com/t/745591) ![](assets/new.png)  
 - [2021-01-17-大家用蹲坑拉屎，会拉出来一点就冲掉吗，还是全拉完了再冲](https://www.v2ex.com/t/745590) ![](assets/new.png)  
 - [2021-01-16-坐标北京，大家现在打车一般用啥软件？](https://www.v2ex.com/t/745588) ![](assets/new.png)  
 - [2021-01-16-阿里云的按量使用,设置了定时释放实例并未起作用....](https://www.v2ex.com/t/745587) ![](assets/new.png)  
@@ -1052,7 +1053,6 @@
 - [2021-01-16-如果有个分布式的外卖平台](https://www.v2ex.com/t/745571) ![](assets/new.png)  
 - [2021-01-16-大连车务段人人都是高手](https://www.v2ex.com/t/745570) ![](assets/new.png)  
 - [2021-01-16-macOS-下如何快捷键打开当前-Finder-页面的新的标签页](https://www.v2ex.com/t/745568) ![](assets/new.png)  
-- [2021-01-16-nuc8i5-额定功率是-90w，我买-100w-的-pd-充电器插上会不会出事？](https://www.v2ex.com/t/745567) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1097,24 +1097,24 @@
 
 - [2021-01-17-珍爱生命，珍惜健康](https://toutiao.io/k/78bhd5y) ![](assets/new.png)  
 - [2021-01-17-可能是说的最分明的-IaaS,-PaaS,-FaaS,-SaaS,-MicroService,-Serverless-了](https://toutiao.io/k/p2q8xl8) ![](assets/new.png)  
-- [2021-01-17-Serverless-音视频转码：芒果-TV-落地实践（下）](https://toutiao.io/k/talunv3) ![](assets/new.png)  
 - [2021-01-17-三万字，Spark-学习笔记](https://toutiao.io/k/wjp0vit) ![](assets/new.png)  
+- [2021-01-17-Serverless-音视频转码：芒果-TV-落地实践（下）](https://toutiao.io/k/talunv3) ![](assets/new.png)  
 - [2021-01-17-​领域模型-vs-数据模型，应该怎么用？](https://toutiao.io/k/d077iat) ![](assets/new.png)  
-- [2021-01-17-Seata-事务提交流程](https://toutiao.io/k/wqkoino) ![](assets/new.png)  
 - [2021-01-17-漫谈分布式系统（二十四）：MPP](https://toutiao.io/k/xl3kfsl) ![](assets/new.png)  
+- [2021-01-17-Seata-事务提交流程](https://toutiao.io/k/wqkoino) ![](assets/new.png)  
 - [2021-01-17-一个-Golang-版本-XSS-过滤模块](https://toutiao.io/k/dvqbquo) ![](assets/new.png)  
 - [2021-01-17-假如-2020-是个孩子](https://toutiao.io/k/1m9blvr) ![](assets/new.png)  
 - [2021-01-17-译-如何遍历-DOM？](https://toutiao.io/k/xm4fd78) ![](assets/new.png)  
+- [2021-01-17-推荐-如何优雅地重试](https://toutiao.io/k/z3j5ni9) ![](assets/new.png)  
+- [2021-01-17-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西](https://toutiao.io/k/im0exw3) ![](assets/new.png)  
 - [2021-01-17-推荐-高并发服务遇-Redis-瓶颈引发的事故](https://toutiao.io/k/mg8zd72) ![](assets/new.png)  
-- [2021-01-17-推荐-一个-Java-对象占用多大内存空间](https://toutiao.io/k/m12n691) ![](assets/new.png)  
-- [2021-01-17-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) ![](assets/new.png)  
 - [2021-01-17-推荐-支撑-700-亿数据量的-ClickHouse-高可用架构实践](https://toutiao.io/k/f5v4m55) ![](assets/new.png)  
-- [2021-01-17-推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie) ![](assets/new.png)  
+- [2021-01-17-推荐-技术人如何加速成长？提升你的思维和学习方式](https://toutiao.io/k/kon8rtq) ![](assets/new.png)  
 - [2021-01-17-推荐-2020-读过的好书推荐](https://toutiao.io/k/ocr2mmk) ![](assets/new.png)  
-- [2021-01-17-推荐-当年，我的架构师之路差点完蛋，幸亏了它](https://toutiao.io/k/10zqtkl) ![](assets/new.png)  
-- [2021-01-17-推荐-2020-年，我在编程时遇见的几个好物](https://toutiao.io/k/ezq0qnu) ![](assets/new.png)  
+- [2021-01-17-推荐-一个-Java-对象占用多大内存空间](https://toutiao.io/k/m12n691) ![](assets/new.png)  
 - [2021-01-17-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) ![](assets/new.png)  
-- [2021-01-17-推荐-MySQL-索引优化](https://toutiao.io/k/wwi18sc) ![](assets/new.png)  
+- [2021-01-17-推荐-Spring-中这些能升华代码的技巧，可能会让你爱不释手](https://toutiao.io/k/d374mr5) ![](assets/new.png)  
+- [2021-01-17-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-17 21:07:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-17 21:47:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,6 +35,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-17-firefox-如何关闭更新提示弹窗？](https://www.v2ex.com/t/745727) 
 - [2021-01-17-求教，关于将-TIM-关在-Sandboxie-内的一些问题](https://www.v2ex.com/t/745718) 
+- [2021-01-17-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) 
 - [2021-01-17-2021数字中国创新大赛启动-第二届“虎符网络安全赛道”升级助推数...](https://sec.thief.one/article_content?a_id=6103095a808867b619c6dbda4d62f5d8) 
 - [2021-01-17-周报|网安执法与网安大会盘点、2020PC安全、零信任征文、刘新凯...](https://sec.thief.one/article_content?a_id=d194777e5e5e0678a938b1623f44f4a9) 
 - [2021-01-17-干货-|-渗透之网站Getshell最全总结](https://sec.thief.one/article_content?a_id=efd37063de21fa870121c4bb2cf3ef4b) 

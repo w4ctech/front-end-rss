@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-18 00:16:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-18 00:35:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-01-14-【招聘】钉钉宜搭生产力平台部招P6~P7前端工程师](https://www.ershicimi.com/p/46eebaa27971e168c435d056f646554f) 
 - [2021-01-13-【招聘】上海字节跳动商业变现上海前端布谷团队招前端工程师](https://www.ershicimi.com/p/5eb41071634ff9086cc1dda52edb9c50) 
 - [2021-01-04-【招聘】上海浪起互联网科技招前端工程师](https://www.ershicimi.com/p/d93777c94ff1eebb51f03687e751d387) 

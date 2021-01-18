@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-18 16:07:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-18 16:30:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -445,6 +445,8 @@
 - [【前端迷】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/db63b84f2a177769c439050f85b80cd7)
 - [【全栈前端精选】拯救你的年底-KPI：前端性能优化](https://www.ershicimi.com/p/3a05c6e0468ab5391d85c3514b3e4333)
 - [【政采云前端团队】如何从-0-到-1-搭建性能检测系统修正版](https://www.ershicimi.com/p/caf97cfac5fe753a40ff1f199bf6abfe)
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【凹凸实验室】大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)
 - [【凹凸实验室】京喜首页（微信购物入口）跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/)
 - [【凹凸实验室】前端优化实践总结](https://aotu.io/notes/2016/04/12/jcloud-opt/)
@@ -455,8 +457,6 @@
 - [【前端日刊】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8)
 - [【JavaScript】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【V2EX】mac-充电充到-80%就不充电了，是开了充电优化的缘故吗？](https://www.v2ex.com/t/746079)
-- [【技术头条】记一次线上商城系统-Tomcat、JVM-高并发的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14105&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0h9t4LqzICIJcopJiP73XA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -605,7 +605,7 @@
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
 - [【V2EX】打算年后（3、4-月份）离职跳槽，我该怎么样准备面试呢？](https://www.v2ex.com/t/746110)
 - [【开发者头条】我的舍友去面试字节跳动啦](https://toutiao.io/k/0xl5t82)
-- [【开发者头条】推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa)
+- [【开发者头条】推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye)
 - [【安全热点】招聘-|-无糖信息招聘渗透测试工程师](https://sec.thief.one/article_content?a_id=d03264debe02013d15eb2269b5cf2782)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

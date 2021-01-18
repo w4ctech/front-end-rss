@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-18 03:38:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-18 04:24:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,9 +20,7 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
-- [2021-01-18-H5-移动端调试全攻略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14091&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJg5RUr5wRBc9fRyCjnp7Jg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-01-18-14个-JavaScript-代码优化技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14084&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTGBlEk_7gjhgEARA7yxd5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-01-18-醒醒！Python-已经支持中文变量名啦](https://toutiao.io/k/jhmz8w2) 
+- [2021-01-18-不在一个内网环境下怎么保证一些组件的安全？](https://www.v2ex.com/t/745857) 
 - [2021-01-18-安全事件应急响应工具箱](https://sec.thief.one/article_content?a_id=c39c583a0d4d77f2d6c8f7a80f1876ed) 
 - [2021-01-15-JSRC牛气冲天的“年货旅行箱”,5积分开抢!](https://sec.thief.one/article_content?a_id=f2e94c15ca2400b231e62f6d573d37d3) 
 - [2021-01-14-年度盘点-|-2020重大网络安全事件-·-能源篇](https://sec.thief.one/article_content?a_id=3ada419049faa7d552b9db6bdcae1260) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-19 00:17:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 02:02:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,4 +27,5 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2021-01-19-深圳-趣游戏-游戏交易平台创始人百万年薪寻找技术极客合伙人](https://www.v2ex.com/t/746159) 
 - [2021-01-18-书、音乐、电影、游戏可以统称为什么？](https://www.v2ex.com/t/746131) 

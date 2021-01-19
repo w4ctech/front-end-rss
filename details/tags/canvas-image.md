@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-19 09:41:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 10:10:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -20,5 +20,6 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2021-01-18-SVG-与环形进度条](https://juejin.im/post/6919363499931992078) 
 - [2021-01-18-1月18日GUIBI早内参-OKExChain主网正式上线,LINK市值排名升至第...](https://sec.thief.one/article_content?a_id=c08cb5acb03e8ef678dba8bd868154e9) 
 - [2021-01-17-用-PyQt-打造具有专业外观的-GUI](https://sec.thief.one/article_content?a_id=061ca1d59313ac37e000b3a1d8f0ca9f) 

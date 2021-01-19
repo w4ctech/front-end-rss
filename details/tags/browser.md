@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-19 19:13:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 19:48:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,6 +29,7 @@
 - [2021-01-17-Shopify-如何在浏览器之外使用-WebAssembly？](https://www.ershicimi.com/p/62a885bfc97bd5882524a41646853c07) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-19-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
+- [2021-01-19-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) 
 - [2021-01-19-百家-|-信息安全需要沉静的力量](https://sec.thief.one/article_content?a_id=5d80ba57951a43c22e04daeef74a9742) 
 - [2021-01-19-信息安全漏洞周报2021年第3期](https://sec.thief.one/article_content?a_id=6a9ae5ae5d638984cb739e3b6df46eae) 
 - [2021-01-19-腾讯QQ团队解释读取浏览器历史记录原因](https://sec.thief.one/article_content?a_id=98b9613fd26ff547c3df0c458fe371ee) 

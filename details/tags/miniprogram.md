@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-19 21:27:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 21:42:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,7 +7,6 @@
 
 
 
-- [2021-01-18-【招聘】百度智能小程序研发部招Web前端研发工程师（高级、21届校招、实习）](https://www.ershicimi.com/p/c05416bfa3b2ca1b2d62b0ce805704af) 
 - [2021-01-14-凹凸技术揭秘-·-Taro-·-开放式跨端跨框架之路](https://aotu.io/notes/2021/01/14/taro-history/) 
 - [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) 
 - [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) 

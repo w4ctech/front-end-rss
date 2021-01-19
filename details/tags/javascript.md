@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-19 21:27:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 21:42:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -29,20 +29,10 @@
 - [2020-01-23-世卫组织：对是否宣布为“国际公共卫生紧急事件”存在分歧](https://m.caixin.com/m/2020-01-23/101507521.html) 
 - [2020-01-22-如何解读WHO“国际公共卫生紧急事件”](http://m.china.caixin.com/m/2020-01-22/101507340.html) 
 - [2020-01-22-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
-- [2021-01-18-【视频】JS年度报告完整解读！](https://www.ershicimi.com/p/b70f1a56496b4d539fff6a62fbfec95b) 
-- [2021-01-11-【第2173期】JavaScript元编程](https://www.ershicimi.com/p/b27f540b884f155d6529e8b9ab9e5646) 
-- [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 
-- [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) 
-- [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
-- [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
-- [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) 
-- [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 
-- [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
 - [2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 
 - [2020-12-24-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) 
 - [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
 - [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-11-05-EaseJs-中-regX-/-regY-的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) 
 - [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) 
 - [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) 
@@ -80,5 +70,6 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2021-01-19-请问一下大家，在-MAC-OS-里怎么看-com.apple.mdworker.bundles-这个-PID-呢？](https://www.v2ex.com/t/746452) 
+- [2021-01-19-使用-conventional-changelog-和-Strapdown.js-为-git-仓库自动生成-changelog-html-页面](https://toutiao.io/k/si7bkrj) 
 - [2021-01-18-安全事件应急响应工具箱](https://sec.thief.one/article_content?a_id=caf40e5a7ade863c207a20da6fdba57a) 
 - [2021-01-18-安全事件应急响应工具箱](https://sec.thief.one/article_content?a_id=c39c583a0d4d77f2d6c8f7a80f1876ed) 

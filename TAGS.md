@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-19 05:41:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 06:06:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -572,7 +572,6 @@
 - [【技术头条】开眼了，腾讯是如何使用-Git-的-？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14113&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fa1Eral_n4NfksDCE7ZeN5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】谷歌的这个开源项目霸榜-Github-第一，我服了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14104&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO8SZ3JPVLNRrRk6JoKkcMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-前端进阶不可错过的-10-个-GitHub-仓库](https://toutiao.io/k/2eo05hp)
-- [【开发者头条】推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -607,7 +606,7 @@
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
 - [【V2EX】北京/深圳-c++开发工程师招聘，-30-60-万](https://www.v2ex.com/t/746251)
 - [【V2EX】杭州研趣招聘前端啦](https://www.v2ex.com/t/746248)
-- [【V2EX】阿里巴巴-菜鸟核心业务大量招-P6-及-P6-以上，现在面试可选年后入职](https://www.v2ex.com/t/746234)
+- [【开发者头条】推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye)
 - [【开发者头条】推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

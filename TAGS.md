@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-19 16:16:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 16:29:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -610,6 +610,7 @@
 - [【InfoQ】大厂面试必问的设计模式，看这一篇就够了-｜-极客时间](https://www.ershicimi.com/p/73f86dd9aa66ad336767422f37bc9ebd)
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
 - [【V2EX】之前面试的时候问我怎么进行知识管理的？我有点懵了？](https://www.v2ex.com/t/746467)
+- [【开发者头条】推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

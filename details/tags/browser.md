@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-19 00:06:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 00:17:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,11 @@
 
 
 
+- [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/cacecf530e97b404d830c2a50be041d6) 
+- [2021-01-08-【第2170期】在Web应用中减少CORS预检时间的4种方法](https://www.ershicimi.com/p/f46bbe08cb788f93de000136e14979e2) 
+- [2021-01-13-网络浏览器大战（Google与IE的较量）](https://www.ershicimi.com/p/903af54917d87e584a8e6888d1d8cea4) 
+- [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/97c8f2063da6a48911619da798bba87a) 
+- [2021-01-17-GET-和-POST请求的本质区别是什么？](https://www.ershicimi.com/p/1b2e8075ab78496b80940178dd1a464c) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -16,9 +21,20 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
+- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
+- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2021-01-15-还在用-Guava-Cache？它才是-Java-本地缓存之王！](https://www.ershicimi.com/p/df84aaa49e850b82ec80d7c75b0faf3c) 
+- [2021-01-12-缓存，确实很香，却也很受伤！](https://www.ershicimi.com/p/d5d0f3ec9115c1a37bf3bef939c01c21) 
+- [2021-01-17-Shopify-如何在浏览器之外使用-WebAssembly？](https://www.ershicimi.com/p/62a885bfc97bd5882524a41646853c07) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-18-求解-iris-的-websocket-问题](https://www.v2ex.com/t/746107) 
 - [2021-01-18-Spring-Rest-Controller-@PostMapping-parameter-best-practice-？](https://www.v2ex.com/t/746092) 
+- [2021-01-19-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) 
+- [2021-01-18-【安全圈】网友质疑QQ窃取用户浏览器隐私-腾讯这样回应!](https://sec.thief.one/article_content?a_id=8ea27e975fee413273069a2647aac667) 
+- [2021-01-18-戒虚务实,一往无前|2020年信息安全与隐私委员会总结大会](https://sec.thief.one/article_content?a_id=f7b70cae8686ed0060a5dd1025834695) 
+- [2021-01-18-【安全热点周报】第177期:JumpServer未授权访问漏洞细节被公开](https://sec.thief.one/article_content?a_id=fdc7fccc3c4bf79ac26544aab9be92fe) 
+- [2021-01-18-盘点-|-2020网络安全报告最全大合集PDF下载](https://sec.thief.one/article_content?a_id=b87657c7ace18cad3053548b3849ffa8) 
 - [2021-01-18-招聘-|-重庆公安信息安全岗](https://sec.thief.one/article_content?a_id=424c548db22b121eb0665bc4951c8334) 
 - [2021-01-18-“安全风控号”字节技术训练营即刻发车](https://sec.thief.one/article_content?a_id=12db268a316800da8efd97756ec91c78) 
 - [2021-01-18-2020物联网安全年报|漏洞从被公开到利用不到24小时,物联网安全已...](https://sec.thief.one/article_content?a_id=6511617d3f54c8590587dc1cee348941) 
@@ -39,5 +55,3 @@
 - [2021-01-15-绿盟科技获2020年度中国网络安全产业联盟“突出贡献单位”、“技术...](https://sec.thief.one/article_content?a_id=f81321a9910528b85cf9d9db9cf51477) 
 - [2021-01-15-上证报:“5G+安全”点题-工业互联网三年发展图景绘就](https://sec.thief.one/article_content?a_id=537beb5649882830fb59eae676430268) 
 - [2021-01-15-超级CSO-|-刘新凯:数据安全,合规挑战](https://sec.thief.one/article_content?a_id=f0021f42ceb9d9cb5a991d8354163bb5) 
-- [2021-01-15-中国国家互联网信息办公室与印尼国家网络与密码局签署网络安全领域...](https://sec.thief.one/article_content?a_id=28989ea74cd508c1a9004e355fd0d0f8) 
-- [2021-01-15-每日安全动态推送01-15](https://sec.thief.one/article_content?a_id=53ce161ec56e40147d0d3adfc463cbd1) 

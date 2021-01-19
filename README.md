@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-19 10:10:33，:rocket: 更新条数: +4098， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-19 10:43:42，:rocket: 更新条数: +978， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-01-19-最新疫情：全国新冠累计确诊88454例-本土病例新增106例](https://m.caixin.com/m/2021-01-19/101652734.html) ![](assets/new.png)  
-- [2021-01-19-河北两家医院因疫情院感防控不力被通报-已对相关人员问责](http://m.china.caixin.com/m/2021-01-19/101652615.html) ![](assets/new.png)  
-- [2021-01-19-1月18日北京新增新冠1例-在大兴天宫院融汇社区](https://m.caixin.com/m/2021-01-19/101652437.html) ![](assets/new.png)  
-- [2021-01-19-香港单日新增病例再破百-少数族裔聚集地成“重灾区”](https://m.caixin.com/m/2021-01-19/101652421.html) ![](assets/new.png)  
-- [2021-01-19-1月18日新增新冠118例-本土吉林43例河北35例黑龙江27例北京1例](https://m.caixin.com/m/2021-01-19/101652444.html) ![](assets/new.png)  
-- [2021-01-19-【境内疫情观察】全国新增106例本土病例（1月18日）](http://m.database.caixin.com/m/2021-01-19/101652647.html) ![](assets/new.png)  
-- [2021-01-19-科兴疫苗获批巴西紧急使用-日本或现变种病毒社区传播|大流行手记1月18日](https://m.caixin.com/m/2021-01-19/101652459.html) ![](assets/new.png)  
-- [2021-01-18-吉林疫情“超级传播”持续-通化、公主岭两市封闭管理](https://m.caixin.com/m/2021-01-18/101652384.html) ![](assets/new.png)  
-- [2021-01-18-吉林新增本地确诊病例30例，公主岭市全员核酸检测](http://m.china.caixin.com/m/2021-01-18/101652008.html) ![](assets/new.png)  
-- [2021-01-18-1月17日河北54例病例详情：年龄最大85岁-有病例轨迹涉贵州天津辽宁](https://m.caixin.com/m/2021-01-18/101651947.html) ![](assets/new.png)  
-- [2021-01-18-1月17日北京本地新增2例新冠-均在大兴区](https://m.caixin.com/m/2021-01-18/101651905.html) ![](assets/new.png)  
-- [2021-01-18-【境内疫情观察】吉林“超级传播链”再延长（1月17日）](http://m.database.caixin.com/m/2021-01-18/101652140.html) ![](assets/new.png)  
-- [2021-01-18-大流行手记|1月17日：欧洲多国要求欧盟促辉瑞及时供给疫苗-巴西亚马孙州氧气告急](https://m.caixin.com/m/2021-01-18/101651918.html) ![](assets/new.png)  
-- [2021-01-18-香港八成新冠康复者半年后仍会疲倦失眠记性差](https://m.caixin.com/m/2021-01-18/101652304.html) ![](assets/new.png)  
-- [2021-01-18-聚焦|张文宏：2021全球疫情“好不到哪也坏不到哪”](http://m.opinion.caixin.com/m/2021-01-18/101651897.html) ![](assets/new.png)  
-- [2021-01-17-邢台隆尧新增3例阳性：检测机构谎报检测结果-责任人已被控制](http://m.china.caixin.com/m/2021-01-17/101651853.html) ![](assets/new.png)  
-- [2021-01-17-1月16日河北72例病例详情：最小3个月-轨迹涉广西河南等地](http://m.china.caixin.com/m/2021-01-17/101651773.html) ![](assets/new.png)  
-- [2021-01-17-【境内疫情观察】吉林新增10例本土病例（1月16日）](http://m.database.caixin.com/m/2021-01-17/101651815.html) ![](assets/new.png)  
-- [2021-01-17-大流行手记|1月16日：美国至少61名国会议员感染新冠-韩国发布春节特别防疫对策](https://m.caixin.com/m/2021-01-17/101651776.html) ![](assets/new.png)  
-- [2021-01-16-吉林超级传播升至94例-源头系K350次列车乘客](https://m.caixin.com/m/2021-01-16/101651611.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -96,10 +76,9 @@
 </summary>
 
 
-- [2021-01-19-北京｜1081名师生进行集中隔离-顺义一地降为低风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGXGcBtnQoLYZ5O8fgmY4210119&isfromapp=1) ![](assets/new.png)  
+- [2021-01-19-北京｜1081-名师生进行集中隔离-顺义一地降为低风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGXGcBtnQoLYZ5O8fgmY4210119&isfromapp=1) ![](assets/new.png)  
 - [2021-01-19-西安｜1-月-25-日起停止任何形式线下教育教学及培训活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqOZVwODnGSF6XbVDBdf3210119&isfromapp=1) ![](assets/new.png)  
 - [2021-01-19-河北｜石家庄明日起开展新一轮核酸检测-3-天内完成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiefolfRJyps60f30bWKwy210119&isfromapp=1) ![](assets/new.png)  
-- [2021-01-18-1.18-|-四省新增本土确诊，东北河北多地提高隔离要求，哈尔滨呼兰将开展全民核酸检测]() ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -893,11 +872,11 @@
 </summary>
 
 
-- [2021-01-18-Win7-IE11中使用Videojs播放HLS视频](https://juejin.im/post/6919370074545455112) ![](assets/new.png)  
-- [2021-01-18-SVG-与环形进度条](https://juejin.im/post/6919363499931992078) ![](assets/new.png)  
-- [2021-01-18-【翻译】只需几步，轻松提高Typescript性能](https://juejin.im/post/6919361059019358215) ![](assets/new.png)  
-- [2021-01-18-【翻译】React-服务端组件](https://juejin.im/post/6919360441139331080) ![](assets/new.png)  
-- [2020-08-07-css-position-实现左侧图片滑动-直到触达父窗口的底部-而不是触到视图的底部效果](https://juejin.im/post/6858152352220250125) ![](assets/new.png)  
+- [2021-01-19-古老的MFC，你还会用吗？](https://juejin.im/post/6919411466739122184) ![](assets/new.png)  
+- [2021-01-19-2020.01.12-Week-原型与原型链](https://juejin.im/post/6919405778671501320) ![](assets/new.png)  
+- [2021-01-19-Vue中transition过渡组件全掌握](https://juejin.im/post/6919404953203277832) ![](assets/new.png)  
+- [2021-01-19-使用nuxtjs实现vue项目的同构渲染（客户端渲染+服务器端渲染）](https://juejin.im/post/6919404925747200007) ![](assets/new.png)  
+- [2021-01-19-React知识点-（必知必会）](https://juejin.im/post/6919404272887169038) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1013,7 +992,13 @@
 </summary>
 
 
-- [2021-01-19-有朋友出蜗牛星际吗](https://www.v2ex.com/t/746398) ![](assets/new.png)  
+- [2021-01-19-如何提升-Linux-下触摸板的使用体验？](https://www.v2ex.com/t/746405) ![](assets/new.png)  
+- [2021-01-19-mbp-低温电池充不进电是不是只能换电池了？](https://www.v2ex.com/t/746404) ![](assets/new.png)  
+- [2021-01-19-求助：-gin-大文件上传](https://www.v2ex.com/t/746403) ![](assets/new.png)  
+- [2021-01-19-反向代理比原接口性能还低是怎么回事呢，能不能改善](https://www.v2ex.com/t/746402) ![](assets/new.png)  
+- [2021-01-19-请问国区的-PAYPAL-可以接收别人转账的美刀再转账给别人吗？](https://www.v2ex.com/t/746401) ![](assets/new.png)  
+- [2021-01-19-唯一感觉到汇率变化的情况->godaddy-续费便宜了](https://www.v2ex.com/t/746400) ![](assets/new.png)  
+- [2021-01-19-此站如何发布图片](https://www.v2ex.com/t/746399) ![](assets/new.png)  
 - [2021-01-19-阿里巴巴-广州-优视科技UC-客户端团队招人啦](https://www.v2ex.com/t/746397) ![](assets/new.png)  
 - [2021-01-19-M1-mbp-第二次卡住，紫屏重启](https://www.v2ex.com/t/746396) ![](assets/new.png)  
 - [2021-01-19-大家遇到过突然大部分-app-都卡在启动界面的情况吗](https://www.v2ex.com/t/746395) ![](assets/new.png)  
@@ -1027,12 +1012,6 @@
 - [2021-01-19-免费送-25-个-商推荐系统实战项目-特训课-免单券](https://www.v2ex.com/t/746384) ![](assets/new.png)  
 - [2021-01-19-哈哈哈，他慌了。](https://www.v2ex.com/t/746382) ![](assets/new.png)  
 - [2021-01-19-组装的有线耳机竟然能当蓝牙耳机用](https://www.v2ex.com/t/746381) ![](assets/new.png)  
-- [2021-01-19-#苹果线下店购买-mac-air-m1-可以直接拿货吗？可以使用教育优惠吗？](https://www.v2ex.com/t/746378) ![](assets/new.png)  
-- [2021-01-19-编程语言语法中文化设计探讨一例](https://www.v2ex.com/t/746376) ![](assets/new.png)  
-- [2021-01-19-求推荐一款性价比较高的行车记录仪](https://www.v2ex.com/t/746375) ![](assets/new.png)  
-- [2021-01-19-企业微信挂了？](https://www.v2ex.com/t/746374) ![](assets/new.png)  
-- [2021-01-19-企业微信崩了，](https://www.v2ex.com/t/746372) ![](assets/new.png)  
-- [2021-01-19-现在-win10-系统上用什么软件跑-win10-虚拟机比较好？](https://www.v2ex.com/t/746371) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1106,6 +1085,19 @@
 </summary>
 
 
+- [2021-01-19-一场特别的颁奖典礼,一份精心准备的新年礼物](https://sec.thief.one/article_content?a_id=2726be27e2964ab2f5768c8e1babc8fd) ![](assets/new.png)  
+- [2021-01-19-CVE-2019-2725高版本POC拓展](https://sec.thief.one/article_content?a_id=9976e7dbe7bd6b47df417fd8d953b777) ![](assets/new.png)  
+- [2021-01-19-看雪学院荣获TSRC-2020年度优秀合作伙伴](https://sec.thief.one/article_content?a_id=a8b8c0b1dd099f2a199ff8aabaae2ebd) ![](assets/new.png)  
+- [2021-01-19-【漏洞通告】Microsoft-Windows-NTFS磁盘损坏漏洞](https://sec.thief.one/article_content?a_id=118bf5f819d372e3249611bac160a79e) ![](assets/new.png)  
+- [2021-01-19-百家-|-信息安全需要沉静的力量](https://sec.thief.one/article_content?a_id=5d80ba57951a43c22e04daeef74a9742) ![](assets/new.png)  
+- [2021-01-19-STOP!这种无线键盘,黑客能轻松窥探到你的隐私信息!](https://sec.thief.one/article_content?a_id=e98ba1d2174b311a0e2fd3a963fc2569) ![](assets/new.png)  
+- [2021-01-19-信息安全漏洞周报2021年第3期](https://sec.thief.one/article_content?a_id=6a9ae5ae5d638984cb739e3b6df46eae) ![](assets/new.png)  
+- [2021-01-19-深度分享|关于恶意软件加密流量检测的思考](https://sec.thief.one/article_content?a_id=cdbc9dcdf8e89cb28da58c3ed2ca9157) ![](assets/new.png)  
+- [2021-01-19-每日攻防资讯简报Jan.19th](https://sec.thief.one/article_content?a_id=e9b6af99febda061d86eab3c4694470f) ![](assets/new.png)  
+- [2021-01-19-多方联动、反赌反诈:全国“断卡”行动第二轮集中收网](https://sec.thief.one/article_content?a_id=5f0eef95a97fb1ad59ef6c573cc42ec4) ![](assets/new.png)  
+- [2021-01-19-拜登团队宣布领导SEC人选](https://sec.thief.one/article_content?a_id=7ca7f6c75bde89fdb0cc78507f3ca540) ![](assets/new.png)  
+- [2021-01-19-拯救“独行侠”,一起hacker呀](https://sec.thief.one/article_content?a_id=52bdf0182a2beb177609b5cc687f3825) ![](assets/new.png)  
+- [2021-01-19-1月19日GUIBI早内参-Gary-Gensler确认当选美国SEC主席,Coinbase...](https://sec.thief.one/article_content?a_id=104249d29e47b3d406a73edca68561ca) ![](assets/new.png)  
 - [2021-01-19-中国经济大写的V](https://sec.thief.one/article_content?a_id=da4f4e5f908d6290df391db9c7b41722) ![](assets/new.png)  
 - [2021-01-19-Google在其Android应用商店中封杀了Parler程序](https://sec.thief.one/article_content?a_id=40746c296b8b6b0691390b539cacf4ed) ![](assets/new.png)  
 - [2021-01-19-“月薪1万和-月薪10万”的真实差距扎心了:穷人差的根本不是钱!](https://sec.thief.one/article_content?a_id=21e91a6de1b85c0ebb93d23a3d4d764e) ![](assets/new.png)  
@@ -1113,19 +1105,6 @@
 - [2021-01-19-每日安全动态推送01-19](https://sec.thief.one/article_content?a_id=9058a5f24a0a16a9568bb84f2fe3ca36) ![](assets/new.png)  
 - [2021-01-19-隐私搜索引擎DuckDuckGo流量暴增62%](https://sec.thief.one/article_content?a_id=42e5d1e9f95ad674410aeb0913b69ef4) ![](assets/new.png)  
 - [2021-01-19-“Preload”SDK:又一个影响数百万Android手机的黑产营销插件网络...](https://sec.thief.one/article_content?a_id=67daccd8950394c1d312e3968ba8e412) ![](assets/new.png)  
-- [2021-01-19-CVE-2021-3019:Lanproxy任意文件读取漏洞复现](https://sec.thief.one/article_content?a_id=071a33f93ce9b42ce5cfd699c0f47f05) ![](assets/new.png)  
-- [2021-01-19-*CTF-WriteUp](https://sec.thief.one/article_content?a_id=9cf502d4bcf4765badf56e37d3a60bd3) ![](assets/new.png)  
-- [2021-01-19-【视频】|-Python:可变参数之列表拆装+总结](https://sec.thief.one/article_content?a_id=3d762a4dce3b9132549124d5920902f2) ![](assets/new.png)  
-- [2021-01-19-又一例“监视员工?”百度回应:和-996-无关,目前没有任何应用](https://sec.thief.one/article_content?a_id=ab5ccdb5439d589abdb497be1015b070) ![](assets/new.png)  
-- [2021-01-19-绕过CDN寻找真实IP的8种方法](https://sec.thief.one/article_content?a_id=2acc4f412f8873409be3e75252757b48) ![](assets/new.png)  
-- [2021-01-19-切记!MySQL中order-by与limit不要一起用!](https://sec.thief.one/article_content?a_id=e17d557f300a2f44d0afe63649a27fad) ![](assets/new.png)  
-- [2021-01-18-【安全圈】网友质疑QQ窃取用户浏览器隐私-腾讯这样回应!](https://sec.thief.one/article_content?a_id=8ea27e975fee413273069a2647aac667) ![](assets/new.png)  
-- [2021-01-18-Eclipse-出品,1.3-万-Star!网友说要干掉-VS-Code-的新工具](https://sec.thief.one/article_content?a_id=7dcf5507b01a5822ec3648e0cc77e1e8) ![](assets/new.png)  
-- [2021-01-18-各位大侠,我们江湖再会](https://sec.thief.one/article_content?a_id=56c03fd3f961d0764578012d6d146cee) ![](assets/new.png)  
-- [2021-01-18-架构太难了?那是你不知道这3个要点!](https://sec.thief.one/article_content?a_id=5692751907bc955ff03ae30a9242f225) ![](assets/new.png)  
-- [2021-01-18-每日攻防资讯简报Jan.18th](https://sec.thief.one/article_content?a_id=4712ca8414bcb0413115d3e6da4f4c98) ![](assets/new.png)  
-- [2021-01-18-戒虚务实,一往无前|2020年信息安全与隐私委员会总结大会](https://sec.thief.one/article_content?a_id=f7b70cae8686ed0060a5dd1025834695) ![](assets/new.png)  
-- [2021-01-18-【安全热点周报】第177期:JumpServer未授权访问漏洞细节被公开](https://sec.thief.one/article_content?a_id=fdc7fccc3c4bf79ac26544aab9be92fe) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

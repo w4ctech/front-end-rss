@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-19 08:08:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 08:34:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2020-12-29-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/50bd1306cf6d1b79cd1e7d871c0c4408) 
 - [2021-01-08-从Weex到Web，性能逆势如何破局？](https://www.ershicimi.com/p/a016af5ced7b162f3c018c205a70671c) 
 - [2021-01-08-腾讯文档表格：大型前端项目架构优化探索之路](https://www.ershicimi.com/p/6ba888fc6deaa0a1c1f6344892cc0bd7) 
@@ -25,8 +24,12 @@
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2021-01-13-解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/ef007c83081a8513821e28bf22d2d98b) 
 - [2020-12-28-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8) 
+- [2021-01-05-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2021-01-19-VLC-发布了-M1-优化的更新](https://www.v2ex.com/t/746323) 
+- [2021-01-19-记一次线上商城系统-Tomcat、JVM-高并发的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14105&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0h9t4LqzICIJcopJiP73XA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-01-19-性能优化那些事-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14096&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-01-19-译-Apache-Pulsar-性能调优之架构](https://toutiao.io/k/wkiuyw8) 
+- [2021-01-19-推荐-MySQL-索引优化](https://toutiao.io/k/wwi18sc) 
 - [2021-01-19-“Preload”SDK:又一个影响数百万Android手机的黑产营销插件网络...](https://sec.thief.one/article_content?a_id=67daccd8950394c1d312e3968ba8e412) 
 - [2021-01-16-奇安信浏览器关于Adobe-Flash无法正常加载的客户建议](https://sec.thief.one/article_content?a_id=26c3b71990cd9e9c5a2fd94dd8973a02) 

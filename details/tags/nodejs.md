@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-19 08:08:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 08:34:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-07-14-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) 
 - [2021-01-14-node_modules-困境](https://www.ershicimi.com/p/89df5e23ecf1b88417922a14a73fe0c7) 
 - [2021-01-12-Node.js-实现抢票小工具&短信通知提醒](https://www.ershicimi.com/p/0bede926f9e43b5bf4acf810143cb3a0) 
 - [2020-04-07-nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c) 
@@ -37,4 +38,3 @@
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2021-01-07-node_modules-困境](https://www.ershicimi.com/p/d6339c9b33ebf720cbb5a915817e0d9b) 
 - [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) 
-- [2021-01-18-node入门学习笔记（超基础）](https://juejin.im/post/6919353388391989262) 

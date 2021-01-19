@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-19 11:40:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 12:01:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -25,4 +25,5 @@
 - [2021-01-14-大厂面试必问的设计模式，看这一篇就够了-｜-极客时间](https://www.ershicimi.com/p/73f86dd9aa66ad336767422f37bc9ebd) 
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-01-19-阿里巴巴-广州-优视科技UC-客户端团队招聘啦](https://www.v2ex.com/t/746387) 
+- [2021-01-19-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) 
 - [2021-01-19-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) 

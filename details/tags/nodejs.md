@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-19 09:10:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 09:41:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-12-22-V8-引擎垃圾回收与内存分配](https://www.ershicimi.com/p/1a0e4f18abc4d979ab8de6939f2ac8cb) 
 - [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) 
 - [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) 
 - [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 
@@ -16,5 +15,4 @@
 - [2016-04-07-Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/) 
 - [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
-- [2021-01-07-node_modules-困境](https://www.ershicimi.com/p/d6339c9b33ebf720cbb5a915817e0d9b) 
 - [2021-01-19-使用-node-提供的`gzip`为什么压缩表格的结果会是一个文件夹（txt-文本没有这个问题）？](https://www.v2ex.com/t/746361) 

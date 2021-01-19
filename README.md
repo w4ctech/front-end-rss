@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-19 03:38:21，:rocket: 更新条数: +3853， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-19 04:14:22，:rocket: 更新条数: +3855， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -993,26 +993,26 @@
 </summary>
 
 
+- [2021-01-19-求推荐-DITA-OT-二次开发服务商](https://www.v2ex.com/t/746255) ![](assets/new.png)  
+- [2021-01-19-杭州上海北京成都-蚂蚁金服-C++-Python-/Go-SRE-工程师。-大量-HC。-只等你简历](https://www.v2ex.com/t/746254) ![](assets/new.png)  
+- [2021-01-19-上海-米哈游内推～一月更新](https://www.v2ex.com/t/746253) ![](assets/new.png)  
+- [2021-01-19-npdpp-最新版不支持简体中文了](https://www.v2ex.com/t/746252) ![](assets/new.png)  
+- [2021-01-19-北京/深圳-c++开发工程师招聘，-30-60-万](https://www.v2ex.com/t/746251) ![](assets/new.png)  
+- [2021-01-19-企业签名-app-两周左右证书信任自动消失，有人知道为什么吗](https://www.v2ex.com/t/746250) ![](assets/new.png)  
+- [2021-01-19-前几天那个穗岁康没有生效的新闻有没有后续？](https://www.v2ex.com/t/746249) ![](assets/new.png)  
+- [2021-01-19-杭州研趣招聘前端啦](https://www.v2ex.com/t/746248) ![](assets/new.png)  
+- [2021-01-19-你们打疫苗了吗?](https://www.v2ex.com/t/746247) ![](assets/new.png)  
+- [2021-01-19-渗透测试带-offer-回家过年字节跳动社招/校招/实习北/上/杭/深](https://www.v2ex.com/t/746245) ![](assets/new.png)  
+- [2021-01-19-支付宝之前的零钱卡消失了？](https://www.v2ex.com/t/746244) ![](assets/new.png)  
+- [2021-01-19-总价-0.065-亿，在上海外环内能买到好房子么?](https://www.v2ex.com/t/746243) ![](assets/new.png)  
+- [2021-01-19-求帮我简化-yml-文件-使用类似变量,-或-anchor-替换的方式](https://www.v2ex.com/t/746242) ![](assets/new.png)  
+- [2021-01-19-武汉森果招前端、后端、测试、运维，可年后入职！欢迎各位大佬投简历~](https://www.v2ex.com/t/746241) ![](assets/new.png)  
+- [2021-01-19-杭州研趣招前端啦](https://www.v2ex.com/t/746240) ![](assets/new.png)  
+- [2021-01-19-求问个如何购买保险的渠道](https://www.v2ex.com/t/746239) ![](assets/new.png)  
+- [2021-01-19-现在最好的-Mac-远程桌面解决方案是什么？](https://www.v2ex.com/t/746238) ![](assets/new.png)  
 - [2021-01-19-有买-switch-和小孩一起玩的吗啊？（跳舞、拳击之类的游戏）](https://www.v2ex.com/t/746237) ![](assets/new.png)  
 - [2021-01-19-有没有靠谱的卖-iPhone-x-电池店铺，求推荐](https://www.v2ex.com/t/746235) ![](assets/new.png)  
 - [2021-01-19-阿里巴巴-菜鸟核心业务大量招-P6-及-P6-以上，现在面试可选年后入职](https://www.v2ex.com/t/746234) ![](assets/new.png)  
-- [2021-01-19-为-flomo-灵感笔记提供的命令行工具](https://www.v2ex.com/t/746233) ![](assets/new.png)  
-- [2021-01-19-办公微信群发了游戏公告，超过-2-分钟没撤回，简直社死。微信产品经理真棒。](https://www.v2ex.com/t/746231) ![](assets/new.png)  
-- [2021-01-19-redis-pipeline-的问题](https://www.v2ex.com/t/746230) ![](assets/new.png)  
-- [2021-01-19-请推荐一款升降办公桌子，支持双显示器的](https://www.v2ex.com/t/746229) ![](assets/new.png)  
-- [2021-01-19-PHPSTORM-里这种写法有什么好的方法实现方法间的跳转和代码提示吗](https://www.v2ex.com/t/746228) ![](assets/new.png)  
-- [2021-01-19-安徽移动宽带进不去农业银行啊](https://www.v2ex.com/t/746227) ![](assets/new.png)  
-- [2021-01-19-把视频掐头去尾了上传百度云，能躲避-8s-吗？](https://www.v2ex.com/t/746226) ![](assets/new.png)  
-- [2021-01-19-safari-翻译只支持英文么？](https://www.v2ex.com/t/746225) ![](assets/new.png)  
-- [2021-01-19-Mac-电脑打开-App-黑屏一下](https://www.v2ex.com/t/746222) ![](assets/new.png)  
-- [2021-01-19-黑人群殴中国人，咋整](https://www.v2ex.com/t/746221) ![](assets/new.png)  
-- [2021-01-19-北京社招阿里巴巴诚聘深度学习训练引擎研发工程师](https://www.v2ex.com/t/746220) ![](assets/new.png)  
-- [2021-01-19-刚抢到了三星-S21，关于全额保值服务，有没有存在坑？](https://www.v2ex.com/t/746219) ![](assets/new.png)  
-- [2021-01-19-有没有购买-XSX-靠谱的海淘渠道？或者靠谱的代购?](https://www.v2ex.com/t/746218) ![](assets/new.png)  
-- [2021-01-19-一代-Surface-RT-还能干点啥？](https://www.v2ex.com/t/746217) ![](assets/new.png)  
-- [2021-01-19-2008-年买的卡片数码相机本机会存储任何个人信息拍摄记录、使用记录吗？](https://www.v2ex.com/t/746216) ![](assets/new.png)  
-- [2021-01-19-前后端分离的网站，部署在内网，提供公网访问时候，需要映射两个端口号，能找到办法只映射一个吗？](https://www.v2ex.com/t/746215) ![](assets/new.png)  
-- [2021-01-19-手游中的任务是创建角色的时候，把能接的任务都自动塞给这个角色了么？](https://www.v2ex.com/t/746214) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1056,8 +1056,8 @@
 
 
 - [2021-01-19-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) ![](assets/new.png)  
-- [2021-01-19-Spring-中的-IoC-容器](https://toutiao.io/k/p1pqb8m) ![](assets/new.png)  
 - [2021-01-19-武汉知名-IT-公司大盘点](https://toutiao.io/k/pntjinj) ![](assets/new.png)  
+- [2021-01-19-Spring-中的-IoC-容器](https://toutiao.io/k/p1pqb8m) ![](assets/new.png)  
 - [2021-01-19-工具-|-滴滴开源的一站式-Apache-Kafka-集群指标监控与运维管控平台](https://toutiao.io/k/jz2zdk9) ![](assets/new.png)  
 - [2021-01-19-聊聊-Web-API-认证方案那点儿事](https://toutiao.io/k/g4n6h6f) ![](assets/new.png)  
 - [2021-01-19-JDK-8-升级-JDK-11-过程记录](https://toutiao.io/k/s6qi3p7) ![](assets/new.png)  
@@ -1072,8 +1072,8 @@
 - [2021-01-19-译-Apache-Pulsar-性能调优之架构](https://toutiao.io/k/wkiuyw8) ![](assets/new.png)  
 - [2021-01-19-小型团队内网创建-Docker-registry](https://toutiao.io/k/vwqu2tw) ![](assets/new.png)  
 - [2021-01-19-OS-的调度基础（一）](https://toutiao.io/k/vwqv481) ![](assets/new.png)  
-- [2021-01-19-使用-conventional-changelog-和-Strapdown.js-为-git-仓库自动生成-changelog-html-页面](https://toutiao.io/k/si7bkrj) ![](assets/new.png)  
 - [2021-01-19-译-API-设计最佳实践](https://toutiao.io/k/zxvyi14) ![](assets/new.png)  
+- [2021-01-19-使用-conventional-changelog-和-Strapdown.js-为-git-仓库自动生成-changelog-html-页面](https://toutiao.io/k/si7bkrj) ![](assets/new.png)  
 - [2021-01-19-Rxjs-+-React-实战，看完你就知道为什么说-Angular-在-5-年后等你](https://toutiao.io/k/erdh9cz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

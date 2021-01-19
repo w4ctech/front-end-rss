@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-19 03:38:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 04:14:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,8 +38,6 @@
 - [2021-01-17-Shopify-如何在浏览器之外使用-WebAssembly？](https://www.ershicimi.com/p/62a885bfc97bd5882524a41646853c07) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-19-safari-翻译只支持英文么？](https://www.v2ex.com/t/746225) 
-- [2021-01-19-分享一个-chrome-的插件-Wappalyzer](https://www.v2ex.com/t/746190) 
-- [2021-01-19-QQ-浏览器为啥能直接读取我手机所有东西](https://www.v2ex.com/t/746188) 
 - [2021-01-19-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
 - [2021-01-19-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) 
 - [2021-01-18-【安全圈】网友质疑QQ窃取用户浏览器隐私-腾讯这样回应!](https://sec.thief.one/article_content?a_id=8ea27e975fee413273069a2647aac667) 

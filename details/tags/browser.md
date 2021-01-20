@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-20 22:04:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-20 22:21:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,13 +36,6 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
-- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2021-01-15-还在用-Guava-Cache？它才是-Java-本地缓存之王！](https://www.ershicimi.com/p/df84aaa49e850b82ec80d7c75b0faf3c) 
-- [2021-01-12-缓存，确实很香，却也很受伤！](https://www.ershicimi.com/p/d5d0f3ec9115c1a37bf3bef939c01c21) 
-- [2021-01-20-云原生带来的云安全领域变化｜Q推荐](https://www.ershicimi.com/p/3c606b70f990988ce97c55164396b1dd) 
-- [2021-01-17-Shopify-如何在浏览器之外使用-WebAssembly？](https://www.ershicimi.com/p/62a885bfc97bd5882524a41646853c07) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-20-ESET-安全软件读取-Edge-历史记录](https://www.v2ex.com/t/746861) 
 - [2021-01-20-工具-|-腾讯开源的，基于-Whistle-实现的多账号多环境远程配置及抓包调试平台](https://toutiao.io/k/iq87lih) 

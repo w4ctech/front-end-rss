@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-20 04:38:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-20 05:24:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -73,11 +73,15 @@
 - [2020-01-22-【音频|特别策划】新冠肺炎疫情是如何逼近的？](http://fm.caixin.com/m/2020-01-22/101507323.html) 
 - [2020-01-22-【视频】国新办举行发布会-介绍新冠肺炎防控情况](http://m.video.caixin.com/m/2020-01-22/101507052.html) 
 - [2020-01-20-【视频】钟南山谈新型肺炎：肯定存在人传人现象](http://m.video.caixin.com/m/2020-01-20/101506478.html) 
-- [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) 
-- [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) 
+- [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
+- [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
+- [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
+- [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2021-01-20-我们输入-Google-验证码的时候-是不是在为它训练图像识别模型?](https://www.v2ex.com/t/746657) 
 - [2021-01-20-产品经理读《张小龙微信十年直播》](https://www.v2ex.com/t/746643) 
 - [2021-01-20-Android-平台上有没有可以搭配-Plex-远程播放视频的软件呢？-Kodi-操作太难了，-nPlayer-不支持-Plex，-Plex-安卓端不支持硬解而且播放不了，有别的推荐？](https://www.v2ex.com/t/746618) 
 - [2021-01-20-手上有华为，小米，小蚁，小白摄像头。有统一管理各个摄像头的-APP-么](https://www.v2ex.com/t/746617) 
+- [2021-01-20-【视频】|-网络安全形势培训](https://sec.thief.one/article_content?a_id=50f54e7c59eb5f4f04815fd672890ea0) 
 - [2021-01-19-【视频】|-Python:可变参数之列表拆装+总结](https://sec.thief.one/article_content?a_id=3d762a4dce3b9132549124d5920902f2) 
 - [2021-01-18-【视频】|-网络安全意识:社会工程学](https://sec.thief.one/article_content?a_id=0cb80f4f02d525cefd4e2db62ce7d81b) 
-- [2021-01-17-【视频】|-Python:可变参数和关键字参数](https://sec.thief.one/article_content?a_id=0289f17c9bbffc7317ee9dacecf56e00) 

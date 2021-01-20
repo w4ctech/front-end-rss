@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-20 12:10:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-20 12:29:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -15,6 +15,7 @@
 - [2021-01-13-【招聘】上海字节跳动商业变现上海前端布谷团队招前端工程师](https://www.ershicimi.com/p/5eb41071634ff9086cc1dda52edb9c50) 
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
+- [2021-01-12-程序员面试-10-大潜规则，千万不要踩坑！](https://www.ershicimi.com/p/0f6e4c46564945c1b3ffc4f33c9eb63a) 
 - [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668) 
 - [2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
@@ -27,6 +28,5 @@
 - [2021-01-20-深圳-Lazada-招聘-内推-（增长数据分析师-/数据研发-/技术-PM）](https://www.v2ex.com/t/746801) 
 - [2021-01-20-阿里巴巴-广州-优视科技UC-客户端团队招聘啦！感兴趣的来聊哇](https://www.v2ex.com/t/746792) 
 - [2021-01-20-上海/杭州支付宝P6-P8-支付宝大出行技术部招聘-Java-研发](https://www.v2ex.com/t/746780) 
-- [2021-01-20-社招内推北京/杭州阿里巴巴智能引擎前端/大数据/引擎/分布式系统等多个岗位招聘](https://www.v2ex.com/t/746761) 
-- [2021-01-20-日本东京-/-广州-ChargeSPOT-后端-/-前端-/-SRE-/-IoT-/-测试-/-设计，年前面试，年后入职](https://www.v2ex.com/t/746760) 
+- [2021-01-20-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) 
 - [2021-01-20-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) 

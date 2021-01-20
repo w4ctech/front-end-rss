@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-01-20 19:04:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-20 19:40:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-01-20-这里已经拿到小米-11-Snapdragon-888-的同学，在这个测试里可以跑到多少分？](https://www.v2ex.com/t/746871) 
 - [2021-01-20-云手机的项目有没有开源的参考？](https://www.v2ex.com/t/746870) 
 - [2021-01-20-微信-for-macOS-今天更新，可是还是不适配-M1](https://www.v2ex.com/t/746867) 
 - [2021-01-20-迫于买电脑，-97-折收-5000-京东-e-卡](https://www.v2ex.com/t/746866) 
@@ -43,4 +44,3 @@
 - [2021-01-20-酷安软件更新问题](https://www.v2ex.com/t/746824) 
 - [2021-01-20-YouTube-删评论](https://www.v2ex.com/t/746823) 
 - [2021-01-20-网易云音乐适配-M1-Apple-Silicon](https://www.v2ex.com/t/746822) 
-- [2021-01-20-预测明天医疗股要涨了](https://www.v2ex.com/t/746821) 

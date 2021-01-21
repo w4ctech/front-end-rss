@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 20:03:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-21 20:31:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -20,4 +20,8 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2021-01-20-Elastic坚决更改开源协议抵制“白嫖”，CEO狂怼AWS行为不端](https://www.ershicimi.com/p/38c759260c8361775f44e4945d7f814c) 
+- [2021-01-18-不满云厂商“白嫖”，Elasticsearch-和-Kibana更改开源协议](https://www.ershicimi.com/p/a5a25caae72829be4c5bc4770499b639) 
 - [2021-01-21-杭州阿里拍卖招-Java-后端/前端/算法/测试，大量-HC，流程飞快！](https://www.v2ex.com/t/747199) 
+- [2021-01-21-写给开发人员的实用密码学：对称加密算法](https://toutiao.io/k/34ju2ru) 
+- [2021-01-21-HTTPS-单项认证原理](https://toutiao.io/k/bl1o0le) 

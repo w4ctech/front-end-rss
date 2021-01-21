@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 10:12:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-21 10:43:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -89,9 +89,9 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2021-01-21-B-站视频看完后，自动播放推荐](https://www.v2ex.com/t/747156) 
+- [2021-01-21-求助：台式电脑播放视频特别慢（慢动作那种）是什么原因？本地视频和网上的都一样](https://www.v2ex.com/t/747152) 
 - [2021-01-21-微视频-|-一座红楼点亮了中国的颜色](https://sec.thief.one/article_content?a_id=253f23e1b45d7080f2630e78b7228965) 
 - [2021-01-21-【视频】|-Python:函数之返回值](https://sec.thief.one/article_content?a_id=32ef7157ef218e051ba6230ff6e3b948) 
 - [2021-01-20-【视频】|-网络安全形势培训](https://sec.thief.one/article_content?a_id=50f54e7c59eb5f4f04815fd672890ea0) 
-- [2021-01-19-【视频】|-Python:可变参数之列表拆装+总结](https://sec.thief.one/article_content?a_id=3d762a4dce3b9132549124d5920902f2) 

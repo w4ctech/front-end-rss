@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-21 16:09:41，:rocket: 更新条数: +751， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-21 16:31:09，:rocket: 更新条数: +4137， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-01-21-最新疫情：全国新冠累计确诊88701例-本土病例新增126例](https://m.caixin.com/m/2021-01-21/101653788.html) ![](assets/new.png)  
+- [2021-01-21-中国新冠疫苗接种量已超1500万人次-3月前有望扩至3—17岁人群](https://m.caixin.com/m/2021-01-21/101653915.html) ![](assets/new.png)  
+- [2021-01-21-上海报告3例本土确诊病例-张文宏称对疫情控制有信心](https://m.caixin.com/m/2021-01-21/101653731.html) ![](assets/new.png)  
+- [2021-01-21-卫健委：“返乡人员”指从外地返回农村地区的人员](http://m.china.caixin.com/m/2021-01-21/101653451.html) ![](assets/new.png)  
+- [2021-01-21-最新海外疫情：新冠感染近9676万-累计死亡近207万](http://m.international.caixin.com/m/2021-01-21/101653791.html) ![](assets/new.png)  
+- [2021-01-21-上海报告3例本土确诊病例，黄浦一居民区被列为中风险地区](https://m.caixin.com/m/2021-01-21/101653624.html) ![](assets/new.png)  
+- [2021-01-21-1月20日北京新增2例新冠-在大兴天宫院融汇社区](https://m.caixin.com/m/2021-01-21/101653462.html) ![](assets/new.png)  
+- [2021-01-21-1月20日黑龙江新增153例阳性-其中85例无症状](https://m.caixin.com/m/2021-01-21/101653459.html) ![](assets/new.png)  
+- [2021-01-21-【境内疫情观察】黑龙江新增68例本土病例（1月20日）](http://m.database.caixin.com/m/2021-01-21/101653668.html) ![](assets/new.png)  
+- [2021-01-21-美国新冠死亡病例突破40万-欧盟拟夏季完成70%成人疫苗接种|大流行手记（1月20日）](https://m.caixin.com/m/2021-01-21/101653480.html) ![](assets/new.png)  
+- [2021-01-20-北京大兴基本完成全员核酸检测-再增两名确诊病例](https://m.caixin.com/m/2021-01-20/101653399.html) ![](assets/new.png)  
+- [2021-01-20-河北疫情增势放缓-多地疫情难溯源](https://m.caixin.com/m/2021-01-20/101653370.html) ![](assets/new.png)  
+- [2021-01-20-降低疫情防控压力-各地政府花式留人](https://m.caixin.com/m/2021-01-20/101653321.html) ![](assets/new.png)  
+- [2021-01-20-卫健委：返乡人员实行14天居家健康监测](https://m.caixin.com/m/2021-01-20/101653196.html) ![](assets/new.png)  
+- [2021-01-20-北京大兴现英国新冠变异毒株！-十条措施防控](http://m.china.caixin.com/m/2021-01-20/101653266.html) ![](assets/new.png)  
+- [2021-01-20-北京大兴新增6例新冠病例行动轨迹公布](https://m.caixin.com/m/2021-01-20/101653268.html) ![](assets/new.png)  
+- [2021-01-20-学者预测3月初全球新冠患者可达1.7亿-中国如何应对？](https://m.caixin.com/m/2021-01-20/101653098.html) ![](assets/new.png)  
+- [2021-01-20-北京大兴公布疫情防控十条措施：全员检测-所有人员原则上禁止离京](https://m.caixin.com/m/2021-01-20/101652941.html) ![](assets/new.png)  
+- [2021-01-20-1月19日北京新增7例新冠-其中6例在大兴天宫院融汇社区](https://m.caixin.com/m/2021-01-20/101652934.html) ![](assets/new.png)  
+- [2021-01-20-【境内疫情观察】北京新增7例本土病例（1月19日）](http://m.database.caixin.com/m/2021-01-20/101653139.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -676,6 +696,26 @@
 </summary>
 
 
+- [2021-01-14-凹凸技术揭秘-·-Taro-·-开放式跨端跨框架之路](https://aotu.io/notes/2021/01/14/taro-history/) ![](assets/new.png)  
+- [2021-01-14-凹凸技术揭秘-·-基础服务体系-·-构筑服务端技术中枢](https://aotu.io/notes/2021/01/14/exa-server/) ![](assets/new.png)  
+- [2021-01-06-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) ![](assets/new.png)  
+- [2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) ![](assets/new.png)  
+- [2020-12-31-凹凸技术揭秘-·-Deco-智能代码-·-开启产研效率革命](https://aotu.io/notes/2020/12/31/deco/) ![](assets/new.png)  
+- [2020-12-31-凹凸技术揭秘·羚珑页面可视化·成长蜕变之路](https://aotu.io/notes/2020/12/31/ling-atom-design/) ![](assets/new.png)  
+- [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) ![](assets/new.png)  
+- [2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) ![](assets/new.png)  
+- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
+- [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) ![](assets/new.png)  
+- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-05-EaseJs-中-regX-/-regY-的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -876,8 +916,8 @@
 - [2021-01-21-一文搞定-npm-包发布与管理](https://juejin.im/post/6920231981834108942) ![](assets/new.png)  
 - [2021-01-21-图可视化之图布局](https://juejin.im/post/6920183250833014797) ![](assets/new.png)  
 - [2021-01-21-【译】深入了解-JavaScript-模块](https://juejin.im/post/6920153306392166413) ![](assets/new.png)  
-- [2021-01-21-别责怪框架：我使用-AngularJS-和-ReactJS-的经验](https://juejin.im/post/6920153099092885511) ![](assets/new.png)  
 - [2021-01-21-面试官：老是问我深浅拷贝问题，自己看文章](https://juejin.im/post/6920151254156967950) ![](assets/new.png)  
+- [2020-08-29-前端业务开发的通用经验---需求评审](https://juejin.im/post/6866648180537491463) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -993,7 +1033,12 @@
 </summary>
 
 
-- [2021-01-21-人人影视官网再一次挂了，各方消息都说以后不会再有了。。求问有无其他字幕组资源网站？？](https://www.v2ex.com/t/747225) ![](assets/new.png)  
+- [2021-01-21-iOS-备份虚占空间](https://www.v2ex.com/t/747232) ![](assets/new.png)  
+- [2021-01-21-谷歌云即将到期，没有双倍信用卡怎么办？](https://www.v2ex.com/t/747231) ![](assets/new.png)  
+- [2021-01-21-不知该如何办只能来-v-站求助。父亲陷入新型传销骗局。](https://www.v2ex.com/t/747230) ![](assets/new.png)  
+- [2021-01-21-价格差不多的话，这三款笔记本选择哪一个，给点意见^_^](https://www.v2ex.com/t/747229) ![](assets/new.png)  
+- [2021-01-21-Raspberry-Pi-Pico-发售](https://www.v2ex.com/t/747228) ![](assets/new.png)  
+- [2021-01-21-深圳-字节跳动-EA---企业应用前端大量-HC~社招/实习均可~](https://www.v2ex.com/t/747227) ![](assets/new.png)  
 - [2021-01-21-《山海情》这剧还真挺好看](https://www.v2ex.com/t/747224) ![](assets/new.png)  
 - [2021-01-21-20210122-午夜俱乐部](https://www.v2ex.com/t/747223) ![](assets/new.png)  
 - [2021-01-21-Google-Play-版-QQ-涉嫌诱导用户应用内更新，已举报](https://www.v2ex.com/t/747220) ![](assets/new.png)  
@@ -1008,11 +1053,6 @@
 - [2021-01-21-MongoDB-的-cursor-到底是怎么工作的？](https://www.v2ex.com/t/747209) ![](assets/new.png)  
 - [2021-01-21-在淘宝买的面包吃出头发，找售后同意让我申请退款，退款的时候我选择原因有异物，售后让我改成退运费，这合理吗？](https://www.v2ex.com/t/747208) ![](assets/new.png)  
 - [2021-01-21-土区-Netflix-邀请车友-35/季-首月免费送你白嫖-欢迎上车](https://www.v2ex.com/t/747207) ![](assets/new.png)  
-- [2021-01-21-Matebook-14、小新-Pro-14、Yoga-14S-求分析](https://www.v2ex.com/t/747206) ![](assets/new.png)  
-- [2021-01-21-刚做的产品官网，求指点如何](https://www.v2ex.com/t/747203) ![](assets/new.png)  
-- [2021-01-21-Java-操作-MySQL-的时候，为什么瞬间会产生大量的-sleep-的连接。](https://www.v2ex.com/t/747202) ![](assets/new.png)  
-- [2021-01-21-应届生恳请大家指点-解决方案测试岗位未来发展](https://www.v2ex.com/t/747201) ![](assets/new.png)  
-- [2021-01-21-杭州阿里拍卖招-Java-后端/前端/算法/测试，大量-HC，流程飞快！](https://www.v2ex.com/t/747199) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1059,14 +1099,14 @@
 - [2021-01-21-聊聊风口上的-eBPF](https://toutiao.io/k/53qmmzi) ![](assets/new.png)  
 - [2021-01-21-下一代消息队列-Pulsar-到底是什么？](https://toutiao.io/k/zdb2zbb) ![](assets/new.png)  
 - [2021-01-21-Spring-Boot-集成-JUnit-单元测试](https://toutiao.io/k/60g50xw) ![](assets/new.png)  
-- [2021-01-21-数据仓库组件：Hive-环境搭建和基础用法](https://toutiao.io/k/8igq6ef) ![](assets/new.png)  
 - [2021-01-21-基于-Prometheus-+-Grafana-打造企业级-Flink-监控系统](https://toutiao.io/k/9zevvwo) ![](assets/new.png)  
+- [2021-01-21-数据仓库组件：Hive-环境搭建和基础用法](https://toutiao.io/k/8igq6ef) ![](assets/new.png)  
 - [2021-01-21-MySQL-海量运维管理如何保障京东大促？](https://toutiao.io/k/1pmdtwx) ![](assets/new.png)  
 - [2021-01-21-营销自动化系统设计与实现](https://toutiao.io/k/p67theg) ![](assets/new.png)  
 - [2021-01-21-Java-项目中几个必不可少的小功能](https://toutiao.io/k/knnu2d6) ![](assets/new.png)  
 - [2021-01-21-深入剖析-RSA-密钥原理及实践](https://toutiao.io/k/opx170q) ![](assets/new.png)  
-- [2021-01-21-写给开发人员的实用密码学：对称加密算法](https://toutiao.io/k/34ju2ru) ![](assets/new.png)  
 - [2021-01-21-数据库高可用架构了解一下](https://toutiao.io/k/slq1xsa) ![](assets/new.png)  
+- [2021-01-21-写给开发人员的实用密码学：对称加密算法](https://toutiao.io/k/34ju2ru) ![](assets/new.png)  
 - [2021-01-21-技术人员做数据质量治理实践总结](https://toutiao.io/k/rzew8k9) ![](assets/new.png)  
 - [2021-01-21-全链路压测落地和演进之路](https://toutiao.io/k/18xkuxi) ![](assets/new.png)  
 - [2021-01-21-开放式-API-安全防护的七大原则](https://toutiao.io/k/z5inxjf) ![](assets/new.png)  

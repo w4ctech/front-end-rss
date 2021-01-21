@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 00:05:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-21 00:17:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-01-20-【第2182期】揭秘3D互动技术在蚂蚁数字金融的应用实战](https://www.ershicimi.com/p/92a6054e6f93f924bb1d5052bc1955e8) 
 - [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) 
 - [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) 
 - [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/) 
@@ -22,4 +23,3 @@
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
 - [2021-01-20-有没有这样一种工具或者框架可以通过-GUI-来运行一些脚本](https://www.v2ex.com/t/746827) 
 - [2021-01-19-1月19日GUIBI早内参-Gary-Gensler确认当选美国SEC主席,Coinbase...](https://sec.thief.one/article_content?a_id=104249d29e47b3d406a73edca68561ca) 
-- [2021-01-18-1月18日GUIBI早内参-OKExChain主网正式上线,LINK市值排名升至第...](https://sec.thief.one/article_content?a_id=c08cb5acb03e8ef678dba8bd868154e9) 

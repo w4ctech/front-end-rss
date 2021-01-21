@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 06:17:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-21 06:36:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -67,6 +67,9 @@
 - [2021-01-18-一步一步手写完美符合PromiseA+规范的Promise](https://www.ershicimi.com/p/896234b36cebd26c15f83fb4d7e11f75) 
 - [2021-01-16-RxJS：给你如丝一般顺滑的编程体验（建议收藏）](https://www.ershicimi.com/p/bdf9457747c40e247670464fac4998cb) 
 - [2021-01-11-44道JS难题，做对一半就是高手](https://www.ershicimi.com/p/02cade170b0cfdfe4fbd43257795bb70) 
+- [2021-01-18-几次重构代码-总结的一些JavaScript代码整洁清晰注意点](https://www.ershicimi.com/p/ce0224843c8b0ca1936d659ab6726b24) 
+- [2021-01-17-JavaScript-第四版红宝书真香，送-20-本！](https://www.ershicimi.com/p/5f6b3d0e20e6b1107003f53efa620200) 
+- [2021-01-11-位运算符在-JS-中的妙用](https://www.ershicimi.com/p/c401c5e5ae6063c485183acadbe5b3a4) 
 - [2021-01-12-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/ddb5d32e4717fb973d232a3b6305f28e) 
 - [2021-01-20-巧用DOM-API实现HTML字符的转义和反转义](https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/) 
 - [2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 

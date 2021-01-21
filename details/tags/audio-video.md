@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 06:17:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-21 06:36:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -73,7 +73,6 @@
 - [2020-01-22-【音频|特别策划】新冠肺炎疫情是如何逼近的？](http://fm.caixin.com/m/2020-01-22/101507323.html) 
 - [2020-01-22-【视频】国新办举行发布会-介绍新冠肺炎防控情况](http://m.video.caixin.com/m/2020-01-22/101507052.html) 
 - [2020-01-20-【视频】钟南山谈新型肺炎：肯定存在人传人现象](http://m.video.caixin.com/m/2020-01-20/101506478.html) 
-- [2021-01-21-上海｜新闻发布会直播中：已排查到-3-例确诊病例的密接者-71-人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDidrhQTcSdd7JiLio2o2210121&isfromapp=1) 
 - [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) 
 - [2021-01-16-【第2178期】我在阿里云做前端智能化（Dumbo）--图像分析](https://www.ershicimi.com/p/bcf4a12e174219de46785e439bb4a96d) 
 - [2020-05-13-视频Winter-教你-MVVM](https://www.ershicimi.com/p/407d00f5a91b47a7f16018aaec12084f) 
@@ -87,7 +86,6 @@
 - [2021-01-15-闲庭信步聊前端---揭开视频直播神秘面纱](https://www.ershicimi.com/p/e61fe653b58e07c85463290c83861b48) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
-- [2021-01-21-1-月-21-日免费直播：隐马尔可夫-HMM-模型精讲——模型定义及概率计算](https://www.v2ex.com/t/746974) 
 - [2021-01-21-微视频-|-一座红楼点亮了中国的颜色](https://sec.thief.one/article_content?a_id=253f23e1b45d7080f2630e78b7228965) 
 - [2021-01-21-【视频】|-Python:函数之返回值](https://sec.thief.one/article_content?a_id=32ef7157ef218e051ba6230ff6e3b948) 
 - [2021-01-20-【视频】|-网络安全形势培训](https://sec.thief.one/article_content?a_id=50f54e7c59eb5f4f04815fd672890ea0) 

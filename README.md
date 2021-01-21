@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-21 06:17:30，:rocket: 更新条数: +3868， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-21 06:36:29，:rocket: 更新条数: +3887， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
@@ -67,8 +67,8 @@
 
 - [2021-01-21-全国1月20日新增确诊新冠144例-其中本土126例](https://m.caixin.com/m/2021-01-21/101653472.html) ![](assets/new.png)  
 - [2021-01-21-1月20日北京新增2例新冠-在大兴天宫院融汇社区](https://m.caixin.com/m/2021-01-21/101653462.html) ![](assets/new.png)  
-- [2021-01-21-1月20日黑龙江新增153例阳性-其中85例无症状](https://m.caixin.com/m/2021-01-21/101653459.html) ![](assets/new.png)  
 - [2021-01-21-卫健委：“返乡人员”指从外地返回农村地区的人员](http://m.china.caixin.com/m/2021-01-21/101653451.html) ![](assets/new.png)  
+- [2021-01-21-1月20日黑龙江新增153例阳性-其中85例无症状](https://m.caixin.com/m/2021-01-21/101653459.html) ![](assets/new.png)  
 - [2021-01-21-美国新冠死亡病例突破40万-欧盟拟夏季完成70%成人疫苗接种|大流行手记（1月20日）](https://m.caixin.com/m/2021-01-21/101653480.html) ![](assets/new.png)  
 - [2021-01-20-最新海外疫情：新冠感染近9606万-累计死亡超205万](http://m.international.caixin.com/m/2021-01-20/101653206.html) ![](assets/new.png)  
 - [2021-01-20-大兴两病例感染英国变异毒株-哈尔滨确诊一名大兴病例密接人员](https://m.caixin.com/m/2021-01-20/101653399.html) ![](assets/new.png)  
@@ -96,7 +96,7 @@
 </summary>
 
 
-- [2021-01-21-上海｜新闻发布会直播中：已排查到-3-例确诊病例的密接者-71-人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDidrhQTcSdd7JiLio2o2210121&isfromapp=1) ![](assets/new.png)  
+- [2021-01-21-上海｜报告-3-例本土确诊病例，昭通路居民区（福州路以南）列为中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDidrhQTcSdd7JiLio2o2210121&isfromapp=1) ![](assets/new.png)  
 - [2021-01-21-北京｜2-例确诊病例曾在山东济南莱芜区活动-在北京南站乘车](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit4hPwBwI8GWZegobZtUf210121&isfromapp=1) ![](assets/new.png)  
 - [2021-01-21-全国-|-返乡人员如何划定？国家卫健委回应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5JGVELiOs0Xc0iJsYJew210121&isfromapp=1) ![](assets/new.png)  
 - [2021-01-20-1.20｜春节返乡需-7-日内核酸证明，黑龙江-2569-养老机构封闭，大兴全员原则上禁止离京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioGlyWWQbHxM88G5tdBlR210120&isfromapp=1) ![](assets/new.png)  
@@ -578,6 +578,26 @@
 </summary>
 
 
+- [2021-01-20-深入了解页面生命周期API](https://www.ershicimi.com/p/db05686e084a2f849673ef712277ed2c) ![](assets/new.png)  
+- [2021-01-20-如何在-Node.js-中判断一个文件是否存在？](https://www.ershicimi.com/p/81e85262770f0ed2e7fc974036389e0f) ![](assets/new.png)  
+- [2021-01-19-Chrome-上开发调试的九个技巧](https://www.ershicimi.com/p/8f4cf4b699486a67182fac5f4420b1e5) ![](assets/new.png)  
+- [2021-01-19-Vue的异步更新实现原理](https://www.ershicimi.com/p/53912509b37b234a1cbeb57e5b18151b) ![](assets/new.png)  
+- [2021-01-18-华为免费培养2000名移动端开发者！](https://www.ershicimi.com/p/7dd294e1d1ee493f0fa525bcb312f4aa) ![](assets/new.png)  
+- [2021-01-18-几次重构代码-总结的一些JavaScript代码整洁清晰注意点](https://www.ershicimi.com/p/ce0224843c8b0ca1936d659ab6726b24) ![](assets/new.png)  
+- [2021-01-17-JavaScript-第四版红宝书真香，送-20-本！](https://www.ershicimi.com/p/5f6b3d0e20e6b1107003f53efa620200) ![](assets/new.png)  
+- [2021-01-17-GET-和-POST请求的本质区别是什么？](https://www.ershicimi.com/p/1b2e8075ab78496b80940178dd1a464c) ![](assets/new.png)  
+- [2021-01-15-让Jenkins自动布署你的Vue项目CI/CD](https://www.ershicimi.com/p/c389c105838adeed7cbade1bb3ad19e7) ![](assets/new.png)  
+- [2021-01-14-前端入门容易，进阶难](https://www.ershicimi.com/p/7e335e05b7f236e32eb7961cda9663b6) ![](assets/new.png)  
+- [2021-01-14-Nodejs-Stream-pipe-的使用与实现原理分析](https://www.ershicimi.com/p/72b9d4c21f6d449eb6b6166f3257a379) ![](assets/new.png)  
+- [2021-01-14-监控、链路追踪、日志的区别，傻傻分不清？](https://www.ershicimi.com/p/dbb8a9b83802802e6d20f87f56398bc6) ![](assets/new.png)  
+- [2021-01-13-TypeScript：一个好泛型的价值](https://www.ershicimi.com/p/ff3f4662c56089fb07c367092f1ea70b) ![](assets/new.png)  
+- [2021-01-13-顶级React组件库推荐](https://www.ershicimi.com/p/0d6cee3d579e255b4e13cb825cc3dddf) ![](assets/new.png)  
+- [2021-01-12-css晦涩难懂的点都在这啦](https://www.ershicimi.com/p/160145d3f2f6f966640398117c258daa) ![](assets/new.png)  
+- [2021-01-12-Node+Redis进行API速率限制的方法介绍](https://www.ershicimi.com/p/12a3ff1fd6077103586ddc205ef1d223) ![](assets/new.png)  
+- [2021-01-11-vue3.0团队内部分享总结](https://www.ershicimi.com/p/48fb5c0de2c09dda36f4449f746745f6) ![](assets/new.png)  
+- [2021-01-11-位运算符在-JS-中的妙用](https://www.ershicimi.com/p/c401c5e5ae6063c485183acadbe5b3a4) ![](assets/new.png)  
+- [2021-01-10-前端设置任何颜色作为主题色不用预先指定固定几种，吐血整理](https://www.ershicimi.com/p/70218deb67225c5b222f9d15e1ea132a) ![](assets/new.png)  
+- [2021-01-10-基于-Unix-Socket-的可靠-Node.js-HTTP-代理实现（支持-WebSocket](https://www.ershicimi.com/p/c35ae953b496f6a4de234bc845f62e63) ![](assets/new.png)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -993,6 +1013,15 @@
 </summary>
 
 
+- [2021-01-21-木兰编程语言一岁了！](https://www.v2ex.com/t/747030) ![](assets/new.png)  
+- [2021-01-21-常见分布式应用系统设计图解（十二）：证券交易系统-|-极客分享第-12-期](https://www.v2ex.com/t/747028) ![](assets/new.png)  
+- [2021-01-21-想回家过年真的是越来越难了](https://www.v2ex.com/t/747025) ![](assets/new.png)  
+- [2021-01-21-管理学的一点理论-马太效应](https://www.v2ex.com/t/747024) ![](assets/new.png)  
+- [2021-01-21-谷歌云-新建的香港节点速度拉了-现在还有那个免费的服务商或者便宜的香港服务器](https://www.v2ex.com/t/747023) ![](assets/new.png)  
+- [2021-01-21-Java-开发一些好的习惯记录与收集，欢迎大家分享](https://www.v2ex.com/t/747022) ![](assets/new.png)  
+- [2021-01-21-有比较好的，适合前端学习-android-原生开发的地方吗？](https://www.v2ex.com/t/747021) ![](assets/new.png)  
+- [2021-01-21-请问各位-V-友，-PayPal-支付平台收到大量“未经授权的交易”这种纠纷该如何正确处理](https://www.v2ex.com/t/747020) ![](assets/new.png)  
+- [2021-01-21-北京-&-杭州-蚂蚁集团-OceanBase-业务十年磨一剑，诚聘多名-Web-前端工程师](https://www.v2ex.com/t/747019) ![](assets/new.png)  
 - [2021-01-21-2021-年了，想学后端，-NodeJS-、-Python-和-Go-三选一。](https://www.v2ex.com/t/747018) ![](assets/new.png)  
 - [2021-01-21-新开一个坑，开源一个-ffmpeg-gui-客户端](https://www.v2ex.com/t/747017) ![](assets/new.png)  
 - [2021-01-21-外置-trackpad2-使用-bettertouchtool-如何设置防误触？](https://www.v2ex.com/t/747015) ![](assets/new.png)  
@@ -1004,15 +1033,6 @@
 - [2021-01-21-广州、佛山-年后有没有合适的-Android-坑位](https://www.v2ex.com/t/747004) ![](assets/new.png)  
 - [2021-01-21-为了论坛的存在，希望不要发阴阳怪气口嗨的评论，-IT-之家的评论区现在还封着呢](https://www.v2ex.com/t/747002) ![](assets/new.png)  
 - [2021-01-21-这两天发现-frp-rdp-一直连不上-才发现-Sakurafrp-居然要实名认证了](https://www.v2ex.com/t/747001) ![](assets/new.png)  
-- [2021-01-21-想用來寫日記，有密碼加密嗎？](https://www.v2ex.com/t/746999) ![](assets/new.png)  
-- [2021-01-21-青岛青岛国真智慧科技软件研发部招聘前后端开发](https://www.v2ex.com/t/746996) ![](assets/new.png)  
-- [2021-01-21-谈谈自己的技术积累和生活思考](https://www.v2ex.com/t/746995) ![](assets/new.png)  
-- [2021-01-21-出一台高配-Mac-mini，送显示器和键盘](https://www.v2ex.com/t/746994) ![](assets/new.png)  
-- [2021-01-21-iOS13-的功能，都-iOS14-了，阿里系软件，淘宝，支付宝，咸鱼的深色模式依旧铁打不动的不引入](https://www.v2ex.com/t/746993) ![](assets/new.png)  
-- [2021-01-21-由-Flash-停止支持引发的-bug-想起](https://www.v2ex.com/t/746992) ![](assets/new.png)  
-- [2021-01-21-快手要上市了，你想打新吗](https://www.v2ex.com/t/746991) ![](assets/new.png)  
-- [2021-01-21-现在疫情-14+7-都不保险了](https://www.v2ex.com/t/746990) ![](assets/new.png)  
-- [2021-01-21-碎片化学习-Java-（七）---Java-常量的使用](https://www.v2ex.com/t/746989) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

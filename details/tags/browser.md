@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 08:35:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-21 09:16:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,13 +23,9 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/cacecf530e97b404d830c2a50be041d6) 
-- [2021-01-19-Chrome-上开发调试的九个技巧](https://www.ershicimi.com/p/8f4cf4b699486a67182fac5f4420b1e5) 
-- [2021-01-17-GET-和-POST请求的本质区别是什么？](https://www.ershicimi.com/p/1b2e8075ab78496b80940178dd1a464c) 
-- [2021-01-15-还在用-Guava-Cache？它才是-Java-本地缓存之王！](https://www.ershicimi.com/p/df84aaa49e850b82ec80d7c75b0faf3c) 
-- [2021-01-12-缓存，确实很香，却也很受伤！](https://www.ershicimi.com/p/d5d0f3ec9115c1a37bf3bef939c01c21) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-01-21-一个付费-chrome-插件的一生](https://www.v2ex.com/t/747058) 
+- [2021-01-21-libp2p-rs-kad-使用及调试方法](https://toutiao.io/k/buk1ifk) 
+- [2021-01-21-开放式-API-安全防护的七大原则](https://toutiao.io/k/z5inxjf) 
 - [2021-01-21-医疗器械的安全至关重要](https://sec.thief.one/article_content?a_id=482e5d74041b3a64dd44ced74151a589) 
 - [2021-01-21-喜讯-|-国舜股份中标中国人保寿险,赋能全生命周期安全开发](https://sec.thief.one/article_content?a_id=04e2aa084b11e6e5f823d9e8f35649d1) 
 - [2021-01-21-缓存键规范化](https://sec.thief.one/article_content?a_id=73817c5331d7a73087e8a712296f8070) 

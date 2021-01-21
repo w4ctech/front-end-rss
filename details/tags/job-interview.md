@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 09:42:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-21 10:12:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -27,6 +27,5 @@
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-01-21-北京市-海淀区-招聘中级/初级.Net-开发工程师（零基础肯下功夫学也行）](https://www.v2ex.com/t/747122) 
 - [2021-01-21-Python-开发工程师招聘，待遇优厚，地点北京，周末双休](https://www.v2ex.com/t/747113) 
-- [2021-01-21-北京-望京社招阿里云达摩院智能服务事业部招聘-Java-技术专家](https://www.v2ex.com/t/747091) 
 - [2021-01-21-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) 
 - [2021-01-21-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) 

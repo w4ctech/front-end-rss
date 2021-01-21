@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 09:42:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-21 10:12:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,6 +44,7 @@
 - [2021-01-20-云原生带来的云安全领域变化｜Q推荐](https://www.ershicimi.com/p/3c606b70f990988ce97c55164396b1dd) 
 - [2021-01-17-Shopify-如何在浏览器之外使用-WebAssembly？](https://www.ershicimi.com/p/62a885bfc97bd5882524a41646853c07) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-01-21-Safari-的字体没有-chrome-里面的好看](https://www.v2ex.com/t/747144) 
 - [2021-01-21-libp2p-rs-kad-使用及调试方法](https://toutiao.io/k/buk1ifk) 
 - [2021-01-21-开放式-API-安全防护的七大原则](https://toutiao.io/k/z5inxjf) 
 - [2021-01-21-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) 

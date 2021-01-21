@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 11:10:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-21 11:40:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-01-20-【招聘】阿里云流量产品事业部前端技术团队招P6~P7](https://www.ershicimi.com/p/f8b8b892f7350a5858b3b3d71289138a) 
 - [2021-01-19-【招聘】阿里1688体验技术团队招前端工程师](https://www.ershicimi.com/p/55af2a5ad442e9778f7f622ae7d46ae4) 
 - [2021-01-17-【招聘】欢聚集团用户体验中心招前端工程师](https://www.ershicimi.com/p/e4f4fa4dfce1e312ee259881d24a1bed) 
@@ -23,8 +24,6 @@
 - [2020-11-24-腾讯、华为前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-01-17-面试官：MyBatis的SQL执行流程说这么详细，网上抄的吧！](https://www.ershicimi.com/p/0b60de4fdcd052f414d58f757a9b7196) 
-- [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-01-21-深圳阿里中心支付宝香港大前端团队招聘-可春节后入职-0121](https://www.v2ex.com/t/747157) 
-- [2021-01-21-北京市-海淀区-招聘中级/初级.Net-开发工程师（零基础肯下功夫学也行）](https://www.v2ex.com/t/747122) 
-- [2021-01-21-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) 
 - [2021-01-21-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) 
+- [2021-01-21-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) 

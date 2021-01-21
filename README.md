@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-20 23:13:19，:rocket: 更新条数: +541， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-21 00:05:58，:rocket: 更新条数: +3622， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -45,12 +45,12 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [JavaScript](#javascript)  
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-01-20-最新疫情：全国新冠累计确诊88557例-本土病例新增88例](https://m.caixin.com/m/2021-01-20/101653189.html) ![](assets/new.png)  
+- [2021-01-20-大兴两病例感染英国变异毒株-哈尔滨确诊一名大兴病例密接人员](https://m.caixin.com/m/2021-01-20/101653399.html) ![](assets/new.png)  
+- [2021-01-20-国务院发出新冠防疫通知-要求突出抓好农村防控](https://m.caixin.com/m/2021-01-20/101653431.html) ![](assets/new.png)  
+- [2021-01-20-春节返乡需14天居家监测-铁路、航空春运需求大降](http://m.companies.caixin.com/m/2021-01-20/101653384.html) ![](assets/new.png)  
+- [2021-01-20-最新海外疫情：新冠感染近9606万-累计死亡超205万](http://m.international.caixin.com/m/2021-01-20/101653206.html) ![](assets/new.png)  
+- [2021-01-20-河北疫情增势放缓-多地疫情难溯源](https://m.caixin.com/m/2021-01-20/101653370.html) ![](assets/new.png)  
+- [2021-01-20-降低疫情防控压力-各地政府花式留人](https://m.caixin.com/m/2021-01-20/101653321.html) ![](assets/new.png)  
+- [2021-01-20-卫健委：返乡人员实行14天居家健康监测](https://m.caixin.com/m/2021-01-20/101653196.html) ![](assets/new.png)  
+- [2021-01-20-北京大兴现英国新冠变异毒株！-十条措施防控](http://m.china.caixin.com/m/2021-01-20/101653266.html) ![](assets/new.png)  
+- [2021-01-20-北京大兴新增6例新冠病例行动轨迹公布](https://m.caixin.com/m/2021-01-20/101653268.html) ![](assets/new.png)  
+- [2021-01-20-学者预测3月初全球新冠患者可达1.7亿-中国如何应对？](https://m.caixin.com/m/2021-01-20/101653098.html) ![](assets/new.png)  
+- [2021-01-20-北京大兴公布疫情防控十条措施：全员检测-所有人员原则上禁止离京](https://m.caixin.com/m/2021-01-20/101652941.html) ![](assets/new.png)  
+- [2021-01-20-1月19日北京新增7例新冠-其中6例在大兴天宫院融汇社区](https://m.caixin.com/m/2021-01-20/101652934.html) ![](assets/new.png)  
+- [2021-01-20-【境内疫情观察】北京新增7例本土病例（1月19日）](http://m.database.caixin.com/m/2021-01-20/101653139.html) ![](assets/new.png)  
+- [2021-01-19-香港单日新增病例再破百-少数族裔聚集地成“重灾区”](https://m.caixin.com/m/2021-01-19/101652421.html) ![](assets/new.png)  
+- [2021-01-19-1月18日北京新增新冠1例-在大兴天宫院融汇社区](https://m.caixin.com/m/2021-01-19/101652437.html) ![](assets/new.png)  
+- [2021-01-19-1月18日新增新冠118例-本土吉林43例河北35例黑龙江27例北京1例](https://m.caixin.com/m/2021-01-19/101652444.html) ![](assets/new.png)  
+- [2021-01-19-【境内疫情观察】全国新增106例本土病例（1月18日）](http://m.database.caixin.com/m/2021-01-19/101652647.html) ![](assets/new.png)  
+- [2021-01-19-科兴疫苗获批巴西紧急使用-日本或现变种病毒社区传播|大流行手记1月18日](https://m.caixin.com/m/2021-01-19/101652459.html) ![](assets/new.png)  
+- [2021-01-19-河北两家医院因疫情院感防控不力被通报-已对相关人员问责](http://m.china.caixin.com/m/2021-01-19/101652615.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -76,10 +96,6 @@
 </summary>
 
 
-- [2021-01-20-1.20｜春节返乡需-7-日内核酸证明，黑龙江-2569-养老机构封闭，大兴全员原则上禁止离京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioGlyWWQbHxM88G5tdBlR210120&isfromapp=1) ![](assets/new.png)  
-- [2021-01-20-春节返乡必须有-7-日内核酸检测证明！回家前，你一定要知道的-8-个问题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilmoevgPMUSqjDe4uTVRh210120&isfromapp=1) ![](assets/new.png)  
-- [2021-01-20-北京｜大兴天宫院融汇社区突发聚集性疫情-11-例确诊涉-7-家庭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipuFkBLJn9trLEFLereLu210120&isfromapp=1) ![](assets/new.png)  
-- [2021-01-20-吉林｜昨日新增本地确诊病例-46-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwYa8YeouxEYYXaQoqvCp210120&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -442,26 +458,6 @@
 </summary>
 
 
-- [2021-01-19-自学前端的高效学习路线.avi](https://www.ershicimi.com/p/f096f8383788d741cc414b783c499e46) ![](assets/new.png)  
-- [2021-01-15-一起手写Vue3核心模块源码，掌握阅读源码的正确方法](https://www.ershicimi.com/p/3493d7cf9b33872393ebbf87dfad2eaa) ![](assets/new.png)  
-- [2021-01-13-做前端4年，还是进不去大厂，原来是…](https://www.ershicimi.com/p/a393279db14e220ac3f92acfd95346cb) ![](assets/new.png)  
-- [2021-01-12-这篇文章，我决定不再讲技巧](https://www.ershicimi.com/p/a394762efeb67979d43b6a01f8f5b8ee) ![](assets/new.png)  
-- [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？](https://www.ershicimi.com/p/27033dcdf27caaae7012a928c62ea0ea) ![](assets/new.png)  
-- [2021-01-08-2021年，这或许是你最容易把握住的高薪岗位](https://www.ershicimi.com/p/be88456b0b78ed7144c941ba22b6801f) ![](assets/new.png)  
-- [2021-01-07-2021年Web开发的7大趋势](https://www.ershicimi.com/p/f873fbbbdc11676db62fb2cc32ba0668) ![](assets/new.png)  
-- [2021-01-06-老哥们都是几点出门上班的？我目前-7-点-50](https://www.ershicimi.com/p/052a327ea920374522fdf0b3a6fc1166) ![](assets/new.png)  
-- [2021-01-05-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48) ![](assets/new.png)  
-- [2021-01-04-做前端的你，如何克服技术焦虑？](https://www.ershicimi.com/p/a2a52231262575ca27e064b97746deea) ![](assets/new.png)  
-- [2020-12-30-万物可卷的时代，程序员也被“内卷”？](https://www.ershicimi.com/p/56127bd8aa48f0cd994acbf4cef8867b) ![](assets/new.png)  
-- [2020-12-29-《前端中文入门手册》.pdf](https://www.ershicimi.com/p/34beb2409059c6b78e3c63f643c9736a) ![](assets/new.png)  
-- [2020-12-28-Vant3.0宣布全面拥抱Vue3，Vue3.0成为主流还有多远？](https://www.ershicimi.com/p/ce2da327d67f7cc95055497d457dfc21) ![](assets/new.png)  
-- [2020-12-24-前端从入门到放弃，是因为你没有这份高薪成长路线](https://www.ershicimi.com/p/14ae0d8779609a7bc198bb8e8da7b2a2) ![](assets/new.png)  
-- [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) ![](assets/new.png)  
-- [2020-12-22-这7个vue技巧，简直让效率翻倍！](https://www.ershicimi.com/p/3e1d8e9e766d6ba9739a11e029436ee7) ![](assets/new.png)  
-- [2020-12-21-Vue-3.0-进阶玩法，想一起造轮子的进](https://www.ershicimi.com/p/ecd6b1fe71dd157caf1abab769da4900) ![](assets/new.png)  
-- [2020-12-18-最火的-Vue-前端框架，你用对了么？](https://www.ershicimi.com/p/7d14f8a7f058a7d1e1ecde4ceb2b8a7f) ![](assets/new.png)  
-- [2020-12-17-太真实了](https://www.ershicimi.com/p/29a3a8478877c73487ea61f490534e49) ![](assets/new.png)  
-- [2020-12-16-为什么程序员互相之间不能透露薪水?是怕“凡尔赛”吗？](https://www.ershicimi.com/p/7836f1f8c500a1bb5a56582081e381ab) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -473,11 +469,6 @@
 </summary>
 
 
-- [2021-01-20-前端学习笔记（十八）--React学习-4](https://juejin.im/post/6919800368046178318) ![](assets/new.png)  
-- [2021-01-20-nodejs搭建简单易用的本地代理服务器](https://juejin.im/post/6919796601477136398) ![](assets/new.png)  
-- [2021-01-20-进阶的正则表达式](https://juejin.im/post/6919787265489109005) ![](assets/new.png)  
-- [2021-01-20-Kurimudb：简单又强大的前端数据库](https://juejin.im/post/6919784942352367624) ![](assets/new.png)  
-- [2021-01-20-JavaScript函数](https://juejin.im/post/6919782918227230728) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -542,26 +533,6 @@
 </summary>
 
 
-- [2021-01-19-猪八戒是黑猪还是白猪？这涉及到了我国养猪史上一次「史诗级偷梁换柱」](https://www.ershicimi.com/p/7ba9e3318a2d30958406a16912ad9717) ![](assets/new.png)  
-- [2021-01-19-便秘别只知道吃香蕉！！12-个缓解便秘的方法，总有一个用得上](https://www.ershicimi.com/p/43b98f092bd5dbb651f2dc09e9dbc74c) ![](assets/new.png)  
-- [2021-01-19-知乎故事-|-人为什么要善良？](https://www.ershicimi.com/p/acac0f745a73e4247f772977da6f0714) ![](assets/new.png)  
-- [2021-01-18-那些过年不想回家的年轻人，今年怎么想？](https://www.ershicimi.com/p/b9c7694f208dfb1d10595600271602ee) ![](assets/new.png)  
-- [2021-01-17-本周知乎热榜-|-外卖员点火自伤，丁真抽烟引争议，元气森林乳茶假无糖，女童模仿动画片坠亡](https://www.ershicimi.com/p/bd4bad1f302b5f2ec7ac9d1009d6170f) ![](assets/new.png)  
-- [2021-01-17-知乎故事-|-养宠物可以缓解孤独吗？](https://www.ershicimi.com/p/d3214982ffb5c7a4d9eb79c10ad12941) ![](assets/new.png)  
-- [2021-01-17-公众号那么多，凭什么这-10-个口碑超高？](https://www.ershicimi.com/p/bc529436dfa1a4faf961dd81fa8aba2a) ![](assets/new.png)  
-- [2021-01-16-假如你不会用智能手机，该如何在这个时代生活？](https://www.ershicimi.com/p/029f8d1ff8513b025dc9e70708efbd71) ![](assets/new.png)  
-- [2021-01-15-知乎神吐槽-|-前任都会因为什么原因联系你？](https://www.ershicimi.com/p/de915281f421e49db523239117f85df7) ![](assets/new.png)  
-- [2021-01-15-如何才能在春节回家时「惊艳众人」？](https://www.ershicimi.com/p/d0ff4af5c80d893a854de26eb2f763f6) ![](assets/new.png)  
-- [2021-01-15-知乎故事-|-你发现过家里宠物的什么秘密？](https://www.ershicimi.com/p/35bd3b270a952420fc2c52538bed86e3) ![](assets/new.png)  
-- [2021-01-14-知乎-2021「新知青年大会」回顾：知乎十周年的谢答礼](https://www.ershicimi.com/p/5a4e6a4a8e31af7f039f2f8049273c70) ![](assets/new.png)  
-- [2021-01-13-2021-新知青年大会-|-知乎十周年周源演讲全文](https://www.ershicimi.com/p/8b5293185bb68b56e64200b13c77e62a) ![](assets/new.png)  
-- [2021-01-12-摊牌了，这是我最最最最最想感谢的人](https://www.ershicimi.com/p/1c179c7b87b28801424da910d8763833) ![](assets/new.png)  
-- [2021-01-12-知乎故事-|-你知道什么很甜的故事？](https://www.ershicimi.com/p/4c7342f046e0283d5f8b63851f52c2fb) ![](assets/new.png)  
-- [2021-01-11-为什么大多数动物的大脑都在头部，而不是长在胸腔里？](https://www.ershicimi.com/p/072b4ce52c3d5e9993c3211ab40144a6) ![](assets/new.png)  
-- [2021-01-11-别光跑步了，每天花-10-分钟做这件事，身材越来越好](https://www.ershicimi.com/p/93e6ec20402cbf3961ec32030dfb3a99) ![](assets/new.png)  
-- [2021-01-11-知乎故事-|-北方室外大便会秒变冰棍吗？](https://www.ershicimi.com/p/eb69c6c51f4872f68fd79b72d99079eb) ![](assets/new.png)  
-- [2021-01-08-知乎神吐槽-|-你有哪些不小心露富的骚操作？](https://www.ershicimi.com/p/8e5ee337b4ea0dc0b363e57922389630) ![](assets/new.png)  
-- [2021-01-08-知乎故事-|-如果能选，你愿意娶薛宝钗还是林黛玉？](https://www.ershicimi.com/p/94344d7f30980f629e05fc5ca04bb408) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,6 +544,7 @@
 </summary>
 
 
+- [2021-01-21-二维动画轮廓线穿帮，像胳膊关节处加轮廓线，补间动画很容易出现断开，交叉。怎么处理？](https://www.v2ex.com/t/746873) ![](assets/new.png)  
 - [2021-01-20-这里已经拿到小米-11-Snapdragon-888-的同学，在这个测试里可以跑到多少分？](https://www.v2ex.com/t/746871) ![](assets/new.png)  
 - [2021-01-20-云手机的项目有没有开源的参考？](https://www.v2ex.com/t/746870) ![](assets/new.png)  
 - [2021-01-20-微信-for-macOS-今天更新，可是还是不适配-M1](https://www.v2ex.com/t/746867) ![](assets/new.png)  
@@ -592,7 +564,6 @@
 - [2021-01-20-分享刚看的《逃避虽可耻但有用-新春特别篇》中的几张截图，欢迎各位程序员进](https://www.v2ex.com/t/746848) ![](assets/new.png)  
 - [2021-01-20-字节跳动怎么内推](https://www.v2ex.com/t/746846) ![](assets/new.png)  
 - [2021-01-20-迫于-2.4GHz-同频干扰，求推荐一款路由器](https://www.v2ex.com/t/746844) ![](assets/new.png)  
-- [2021-01-20-求推荐一个替代-evernote-的笔记软件，有如下要求](https://www.v2ex.com/t/746843) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -604,26 +575,26 @@
 </summary>
 
 
-- [2021-01-20-DDD实现之路-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14116&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpath-to-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-国内开发者开源爬虫工具箱爆红-GitHub-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14115&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FutssjMZMTI3ecNMWDm02BA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-为什么建议大家用-Linux-开发？爽啊！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14114&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fo3cvUojbE3g-Ft4edgU4Ig%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-开眼了，腾讯是如何使用-Git-的-？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14113&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fa1Eral_n4NfksDCE7ZeN5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-华为-Java-编程军规-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14112&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FI84MfGHVTQ6bpaDRl6MiSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-2020-最好的-10-大学习编程网站！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14111&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2kh3jUpJl_tmtPofcULh6Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-成为优秀程序员需要具备的-6-个特质-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14110&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fouzs80F6F_NnnOP1_z6ELQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-Java-版植物大战僵尸思路和源码分享！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14109&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_GoT11Fpe9DM2vF0yN9fxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-从此！程序员找对象没那么难了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14108&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F13hOo7j-kgpKsOH_oF7yZw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-面向所有人的-UI-编程-：透过点按弹窗初尝-SwiftUI-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14107&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7mX3-yBQHXLTdeE7YmHqFQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-17-张程序员壁纸（使用频率很高）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14106&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_CRO5UKUTUmy2C6Atzo0dQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-记一次线上商城系统-Tomcat、JVM-高并发的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14105&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0h9t4LqzICIJcopJiP73XA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-谷歌的这个开源项目霸榜-Github-第一，我服了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14104&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO8SZ3JPVLNRrRk6JoKkcMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-从程序员到-33-岁的亿万富翁-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14103&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5eQz5fQQwslR5JKyJdokSA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-聊聊风口上的-eBPF-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14102&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F343376492%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-Wi-Fi-6-与-5G-相比哪个更快？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14101&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F345147856%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-软件需求膨胀系数-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14100&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-requirement-expansivity%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-如何成为值得信赖的合作伙伴-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14099&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-trust%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-数据仓库项目中的数据建模和ETL日志体系-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14098&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-warehouse-modeling-etl%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-20-2021-值得推荐的优质在线服务-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=14097&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F01%2F05%2F178-recommendations-for-quality-online-services-in-2021%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-DDD实现之路-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14116&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpath-to-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-国内开发者开源爬虫工具箱爆红-GitHub-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14115&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FutssjMZMTI3ecNMWDm02BA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-为什么建议大家用-Linux-开发？爽啊！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14114&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fo3cvUojbE3g-Ft4edgU4Ig%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-开眼了，腾讯是如何使用-Git-的-？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14113&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fa1Eral_n4NfksDCE7ZeN5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-华为-Java-编程军规-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14112&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FI84MfGHVTQ6bpaDRl6MiSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-2020-最好的-10-大学习编程网站！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14111&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2kh3jUpJl_tmtPofcULh6Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-成为优秀程序员需要具备的-6-个特质-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14110&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fouzs80F6F_NnnOP1_z6ELQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-Java-版植物大战僵尸思路和源码分享！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14109&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_GoT11Fpe9DM2vF0yN9fxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-从此！程序员找对象没那么难了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14108&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F13hOo7j-kgpKsOH_oF7yZw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-面向所有人的-UI-编程-：透过点按弹窗初尝-SwiftUI-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14107&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7mX3-yBQHXLTdeE7YmHqFQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-17-张程序员壁纸（使用频率很高）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14106&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_CRO5UKUTUmy2C6Atzo0dQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-记一次线上商城系统-Tomcat、JVM-高并发的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14105&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0h9t4LqzICIJcopJiP73XA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-谷歌的这个开源项目霸榜-Github-第一，我服了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14104&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO8SZ3JPVLNRrRk6JoKkcMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-从程序员到-33-岁的亿万富翁-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14103&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5eQz5fQQwslR5JKyJdokSA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-聊聊风口上的-eBPF-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14102&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F343376492%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-Wi-Fi-6-与-5G-相比哪个更快？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14101&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F345147856%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-软件需求膨胀系数-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14100&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-requirement-expansivity%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-如何成为值得信赖的合作伙伴-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14099&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-trust%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-数据仓库项目中的数据建模和ETL日志体系-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14098&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-warehouse-modeling-etl%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-01-21-2021-值得推荐的优质在线服务-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=14097&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F01%2F05%2F178-recommendations-for-quality-online-services-in-2021%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -635,26 +606,26 @@
 </summary>
 
 
-- [2021-01-20-Spring-中那些让你爱不释手的代码技巧](https://toutiao.io/k/lev94mm) ![](assets/new.png)  
-- [2021-01-20-我的-2020-年阅读书单](https://toutiao.io/k/e83kg1a) ![](assets/new.png)  
-- [2021-01-20-工具-|-腾讯开源的，基于-Whistle-实现的多账号多环境远程配置及抓包调试平台](https://toutiao.io/k/iq87lih) ![](assets/new.png)  
-- [2021-01-20-认识-V8-引擎（一）](https://toutiao.io/k/tdc9eou) ![](assets/new.png)  
-- [2021-01-20-换个角度，聊聊全链路压测](https://toutiao.io/k/46w7ldx) ![](assets/new.png)  
-- [2021-01-20-VirtualAPP-源码解析：Native-Hook-技术](https://toutiao.io/k/ryt03gi) ![](assets/new.png)  
-- [2021-01-20-1-个人独立变现-6-种途径收入-130-万美金在-2020-年（人物志-21-篇）](https://toutiao.io/k/ci3lzlc) ![](assets/new.png)  
-- [2021-01-20-如何做到每秒接收-100-万个数据包](https://toutiao.io/k/hu9ng1x) ![](assets/new.png)  
-- [2021-01-20-Golang-最细节篇：struct{}-空结构体究竟是啥？](https://toutiao.io/k/xr4hfsr) ![](assets/new.png)  
-- [2021-01-20-讲解-Zookeeper-的五个核心知识点](https://toutiao.io/k/te1s8su) ![](assets/new.png)  
-- [2021-01-20-如何落地云原生-DevOps？](https://toutiao.io/k/y9orfmo) ![](assets/new.png)  
-- [2021-01-20-译-Gumroad：不开会，无全职员工，年入-$1100-万](https://toutiao.io/k/cerpe4f) ![](assets/new.png)  
-- [2021-01-20-GBDT-+-LR-理论与实践](https://toutiao.io/k/hb92lvc) ![](assets/new.png)  
-- [2021-01-20-brpc-的精华全在-bthread-上啦](https://toutiao.io/k/ejfn69u) ![](assets/new.png)  
-- [2021-01-20-踩坑日志之-Elasticsearch](https://toutiao.io/k/v2000c9) ![](assets/new.png)  
-- [2021-01-20-译-应用架构：为什么要随着市场演进](https://toutiao.io/k/adqu0ad) ![](assets/new.png)  
-- [2021-01-20-Kubernetes-源码分析之-kubelet（五）](https://toutiao.io/k/dprdowe) ![](assets/new.png)  
-- [2021-01-20-我是这样对灰产游戏外挂下手的](https://toutiao.io/k/9c35hbn) ![](assets/new.png)  
-- [2021-01-20-这样提问，大牛纷纷为我解答](https://toutiao.io/k/ubcsmvd) ![](assets/new.png)  
-- [2021-01-20-带团队分身乏术怎么办?](https://toutiao.io/k/d14m0ys) ![](assets/new.png)  
+- [2021-01-21-Spring-中那些让你爱不释手的代码技巧](https://toutiao.io/k/lev94mm) ![](assets/new.png)  
+- [2021-01-21-我的-2020-年阅读书单](https://toutiao.io/k/e83kg1a) ![](assets/new.png)  
+- [2021-01-21-工具-|-腾讯开源的，基于-Whistle-实现的多账号多环境远程配置及抓包调试平台](https://toutiao.io/k/iq87lih) ![](assets/new.png)  
+- [2021-01-21-认识-V8-引擎（一）](https://toutiao.io/k/tdc9eou) ![](assets/new.png)  
+- [2021-01-21-换个角度，聊聊全链路压测](https://toutiao.io/k/46w7ldx) ![](assets/new.png)  
+- [2021-01-21-VirtualAPP-源码解析：Native-Hook-技术](https://toutiao.io/k/ryt03gi) ![](assets/new.png)  
+- [2021-01-21-1-个人独立变现-6-种途径收入-130-万美金在-2020-年（人物志-21-篇）](https://toutiao.io/k/ci3lzlc) ![](assets/new.png)  
+- [2021-01-21-如何做到每秒接收-100-万个数据包](https://toutiao.io/k/hu9ng1x) ![](assets/new.png)  
+- [2021-01-21-Golang-最细节篇：struct{}-空结构体究竟是啥？](https://toutiao.io/k/xr4hfsr) ![](assets/new.png)  
+- [2021-01-21-讲解-Zookeeper-的五个核心知识点](https://toutiao.io/k/te1s8su) ![](assets/new.png)  
+- [2021-01-21-如何落地云原生-DevOps？](https://toutiao.io/k/y9orfmo) ![](assets/new.png)  
+- [2021-01-21-译-Gumroad：不开会，无全职员工，年入-$1100-万](https://toutiao.io/k/cerpe4f) ![](assets/new.png)  
+- [2021-01-21-GBDT-+-LR-理论与实践](https://toutiao.io/k/hb92lvc) ![](assets/new.png)  
+- [2021-01-21-brpc-的精华全在-bthread-上啦](https://toutiao.io/k/ejfn69u) ![](assets/new.png)  
+- [2021-01-21-踩坑日志之-Elasticsearch](https://toutiao.io/k/v2000c9) ![](assets/new.png)  
+- [2021-01-21-译-应用架构：为什么要随着市场演进](https://toutiao.io/k/adqu0ad) ![](assets/new.png)  
+- [2021-01-21-我是这样对灰产游戏外挂下手的](https://toutiao.io/k/9c35hbn) ![](assets/new.png)  
+- [2021-01-21-Kubernetes-源码分析之-kubelet（五）](https://toutiao.io/k/dprdowe) ![](assets/new.png)  
+- [2021-01-21-这样提问，大牛纷纷为我解答](https://toutiao.io/k/ubcsmvd) ![](assets/new.png)  
+- [2021-01-21-带团队分身乏术怎么办?](https://toutiao.io/k/d14m0ys) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

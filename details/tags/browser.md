@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-22 12:28:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 12:57:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -12,6 +12,14 @@
 - [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/97c8f2063da6a48911619da798bba87a) 
 - [2021-01-19-Chrome-上开发调试的九个技巧](https://www.ershicimi.com/p/8f4cf4b699486a67182fac5f4420b1e5) 
 - [2021-01-17-GET-和-POST请求的本质区别是什么？](https://www.ershicimi.com/p/1b2e8075ab78496b80940178dd1a464c) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
@@ -21,7 +29,6 @@
 - [2021-01-22-跨域和模版引擎的使用](https://juejin.im/post/6920501068002508814) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-22-短网址都会有一串随机的短码，如果直接使用保存原始-url-的数据库主键-id-会有什么问题](https://www.v2ex.com/t/747506) 
-- [2021-01-22-央企招聘/内推/雄安-兄台你确定错过这次央企的招聘吗？中移雄安信息通信科技有限公司招聘测试/测开/安全工程师/研发质量管理/研发配置管理等大量岗位](https://www.v2ex.com/t/747480) 
 - [2021-01-22-无需软件，教你用-Chrome-原生工具给网页长截图](https://toutiao.io/k/risxq3s) 
 - [2021-01-22-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) 
 - [2021-01-22-2021网络安全“大众点评”问卷调查第三次抽奖公告](https://sec.thief.one/article_content?a_id=d018a2d88e29784d085dc4effd6c8e0a) 

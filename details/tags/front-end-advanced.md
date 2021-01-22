@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-22 11:39:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 12:00:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -22,5 +22,4 @@
 - [2021-01-20-Elastic坚决更改开源协议抵制“白嫖”，CEO狂怼AWS行为不端](https://www.ershicimi.com/p/38c759260c8361775f44e4945d7f814c) 
 - [2021-01-18-不满云厂商“白嫖”，Elasticsearch-和-Kibana更改开源协议](https://www.ershicimi.com/p/a5a25caae72829be4c5bc4770499b639) 
 - [2021-01-22-有偿请教-fec-Reed-Solomon-数据纠错算法代码实现](https://www.v2ex.com/t/747497) 
-- [2021-01-22-由于-Elasticsearch-和-Kibana-更改开源协议，-AWS-选择开发新分支](https://www.v2ex.com/t/747465) 
 - [2021-01-21-其实吧,算法也就那么回事儿](https://sec.thief.one/article_content?a_id=6a5a74181592b783aec60937a729c08a) 

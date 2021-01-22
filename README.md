@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-22 20:06:00，:rocket: 更新条数: +4136， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-22 20:34:28，:rocket: 更新条数: +4137， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1033,6 +1033,8 @@
 </summary>
 
 
+- [2021-01-22-字节跳动内推不了解一下吗？?](https://www.v2ex.com/t/747581) ![](assets/new.png)  
+- [2021-01-22-字节跳动内推不了解一下吗？](https://www.v2ex.com/t/747580) ![](assets/new.png)  
 - [2021-01-22-Shelter-里面的程序怎么样调用三星-pay-支付？](https://www.v2ex.com/t/747577) ![](assets/new.png)  
 - [2021-01-22-有人遇到过-vmware-在-ubuntu-下显示异常的问题吗？请问如何解决？](https://www.v2ex.com/t/747576) ![](assets/new.png)  
 - [2021-01-22-猫盘-X3p-疑似存在后门](https://www.v2ex.com/t/747575) ![](assets/new.png)  
@@ -1051,8 +1053,6 @@
 - [2021-01-22-我的内存都去哪了-关于内存占用的问题请教](https://www.v2ex.com/t/747560) ![](assets/new.png)  
 - [2021-01-22-是否存在两台-MacOS-之间无缝切换的办法？](https://www.v2ex.com/t/747559) ![](assets/new.png)  
 - [2021-01-22-NUC11-评测](https://www.v2ex.com/t/747558) ![](assets/new.png)  
-- [2021-01-22-ubuntu16.04---Chromium-导致-xorg-100%](https://www.v2ex.com/t/747555) ![](assets/new.png)  
-- [2021-01-22-众筹几个号主抽奖送个显示器可变现](https://www.v2ex.com/t/747553) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,25 +1096,25 @@
 
 
 - [2021-01-22-微服务实现简单的分布式日志追踪](https://toutiao.io/k/s7af3dl) ![](assets/new.png)  
+- [2021-01-22-最终一致性，一致只会迟到，但绝不会缺席](https://toutiao.io/k/9q7yxnu) ![](assets/new.png)  
 - [2021-01-22-阿里面试官问我-Java-线程和操作系统线程什么关系](https://toutiao.io/k/oh81sch) ![](assets/new.png)  
 - [2021-01-22-什么样的人，在职场中更容易晋升？](https://toutiao.io/k/i08hgn2) ![](assets/new.png)  
-- [2021-01-22-最终一致性，一致只会迟到，但绝不会缺席](https://toutiao.io/k/9q7yxnu) ![](assets/new.png)  
 - [2021-01-22-突发流量洪峰应对之道：疫情期间京东口罩预约抢购系统优化](https://toutiao.io/k/eqjaf6k) ![](assets/new.png)  
 - [2021-01-22-Android-Studio-4.1-中的本地内存分析](https://toutiao.io/k/0hkmuyt) ![](assets/new.png)  
 - [2021-01-22-哔哩哔哩面试官：你可以手写-Vue-2-的响应式原理吗？](https://toutiao.io/k/iv9rsoc) ![](assets/new.png)  
 - [2021-01-22-可视化拖拽组件库一些技术要点原理分析（二）](https://toutiao.io/k/2tocbu5) ![](assets/new.png)  
 - [2021-01-22-聊聊如何构建一支自驱团队（一）](https://toutiao.io/k/yltqtpy) ![](assets/new.png)  
 - [2021-01-22-Spring-Boot-集成-MyBatis-Plus](https://toutiao.io/k/83tnoyv) ![](assets/new.png)  
-- [2021-01-22-推荐-Spring-中这些能升华代码的技巧，可能会让你爱不释手](https://toutiao.io/k/d374mr5) ![](assets/new.png)  
+- [2021-01-22-推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie) ![](assets/new.png)  
+- [2021-01-22-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) ![](assets/new.png)  
 - [2021-01-22-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) ![](assets/new.png)  
-- [2021-01-22-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) ![](assets/new.png)  
-- [2021-01-22-推荐-三万字，Spark-学习笔记](https://toutiao.io/k/wjp0vit) ![](assets/new.png)  
+- [2021-01-22-推荐-超越身边-80%-的人，其实没有你想象的那么难](https://toutiao.io/k/ns5biqo) ![](assets/new.png)  
+- [2021-01-22-推荐-Spring-中这些能升华代码的技巧，可能会让你爱不释手](https://toutiao.io/k/d374mr5) ![](assets/new.png)  
+- [2021-01-22-推荐-2021-值得推荐的优质在线服务](https://toutiao.io/k/l2t22c8) ![](assets/new.png)  
 - [2021-01-22-推荐-技术人如何加速成长？提升你的思维和学习方式](https://toutiao.io/k/kon8rtq) ![](assets/new.png)  
 - [2021-01-22-推荐-可能是说的最分明的-IaaS,-PaaS,-FaaS,-SaaS,-MicroService,-Serverless-了](https://toutiao.io/k/p2q8xl8) ![](assets/new.png)  
-- [2021-01-22-推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie) ![](assets/new.png)  
-- [2021-01-22-推荐-9-条消除-if...else-的锦囊妙计，助你写出更优雅的代码](https://toutiao.io/k/6o9uhdv) ![](assets/new.png)  
-- [2021-01-22-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) ![](assets/new.png)  
-- [2021-01-22-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) ![](assets/new.png)  
+- [2021-01-22-推荐-我竟然被-“双亲委派”-给虐了](https://toutiao.io/k/l9vnnm6) ![](assets/new.png)  
+- [2021-01-22-推荐-2020-读过的好书推荐](https://toutiao.io/k/ocr2mmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

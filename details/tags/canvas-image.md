@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 23:34:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 00:15:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,7 +7,6 @@
 
 
 
-- [2021-01-20-【第2182期】揭秘3D互动技术在蚂蚁数字金融的应用实战](https://www.ershicimi.com/p/92a6054e6f93f924bb1d5052bc1955e8) 
 - [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) 
 - [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) 
 - [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/) 
@@ -22,4 +21,3 @@
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
 - [2021-01-21-1月21日GUIBI早内参-.深圳龙华发放2000万数字人民币春节留深红包,...](https://sec.thief.one/article_content?a_id=27af80b626b37eef85d47f6d7a36fec6) 
-- [2021-01-19-1月19日GUIBI早内参-Gary-Gensler确认当选美国SEC主席,Coinbase...](https://sec.thief.one/article_content?a_id=104249d29e47b3d406a73edca68561ca) 

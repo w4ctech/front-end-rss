@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-22 10:09:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 10:42:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,9 +44,11 @@
 - [2021-01-20-云原生带来的云安全领域变化｜Q推荐](https://www.ershicimi.com/p/3c606b70f990988ce97c55164396b1dd) 
 - [2021-01-22-跨域和模版引擎的使用](https://juejin.im/post/6920501068002508814) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-01-22-短网址都会有一串随机的短码，如果直接使用保存原始-url-的数据库主键-id-会有什么问题](https://www.v2ex.com/t/747506) 
 - [2021-01-22-央企招聘/内推/雄安-兄台你确定错过这次央企的招聘吗？中移雄安信息通信科技有限公司招聘测试/测开/安全工程师/研发质量管理/研发配置管理等大量岗位](https://www.v2ex.com/t/747480) 
 - [2021-01-22-M1-上的图片预览-Preview-增加文字就-Crash，你们有这个情况吗？](https://www.v2ex.com/t/747458) 
 - [2021-01-22-无需软件，教你用-Chrome-原生工具给网页长截图](https://toutiao.io/k/risxq3s) 
+- [2021-01-22-2021网络安全“大众点评”问卷调查第三次抽奖公告](https://sec.thief.one/article_content?a_id=d018a2d88e29784d085dc4effd6c8e0a) 
 - [2021-01-22-使用Refresh-Rect-PDU和RDPDR客户端名称请求PDU获取具有系统特...](https://sec.thief.one/article_content?a_id=7ee9e79a7248c1e6adae2ce8150bfbee) 
 - [2021-01-22-每日安全动态推送01-22](https://sec.thief.one/article_content?a_id=d93e90cb282ea8ca2e474d10500d2e55) 
 - [2021-01-22-拜登新政:加速网络安全主流化](https://sec.thief.one/article_content?a_id=831e1dc1ab1e16dc67ff6a4632b4babc) 
@@ -70,8 +72,3 @@
 - [2021-01-20-FreeBuf甲方群-|-2020甲方安全总结&2021甲方安全建设预算](https://sec.thief.one/article_content?a_id=d481d050d027bebe3c74768c8a5607fe) 
 - [2021-01-20-绿盟科技荣获广州市网络安全技术支撑单位](https://sec.thief.one/article_content?a_id=71424073f2fdb8c164e7064f115301b3) 
 - [2021-01-20-【安全风险通告】部分漏洞细节已公开,奇安信安全产品已支持防护,...](https://sec.thief.one/article_content?a_id=9b991b7eea3e37bd9d4c43f80d3da460) 
-- [2021-01-20-#腊八#多种食材,调和新年五谷丰登多重防护,守护用户信息安全滴滴...](https://sec.thief.one/article_content?a_id=d2395de871e49d688903166d6d0c136e) 
-- [2021-01-20-破坏浏览器-——-IPC,凭据和后门](https://sec.thief.one/article_content?a_id=e7d8ea1b169fc2bdbe5980d45b3e05bb) 
-- [2021-01-20-Oracle高危漏洞安全公告|2021年1月份](https://sec.thief.one/article_content?a_id=e3b90cf78f207c072e48c636fbbf6b7a) 
-- [2021-01-20-阿里云安全获Oracle官方致谢-|Weblogic-Server远程代码执行漏洞预警...](https://sec.thief.one/article_content?a_id=bdaf0d0a1299ac2139c4673a42dd2d4d) 
-- [2021-01-20-文末好礼|美国国家安全局提供使用加密DNS的指导](https://sec.thief.one/article_content?a_id=e3bab5a36bd94928c304052737027021) 

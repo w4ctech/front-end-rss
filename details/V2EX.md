@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2021-01-22 10:09:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 10:42:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-01-22-短网址都会有一串随机的短码，如果直接使用保存原始-url-的数据库主键-id-会有什么问题](https://www.v2ex.com/t/747506) 
+- [2021-01-22-iPhone-版微信读取通讯录](https://www.v2ex.com/t/747505) 
+- [2021-01-22-同样是个-gui-为嘛差距这么大....](https://www.v2ex.com/t/747504) 
+- [2021-01-22-内推一则](https://www.v2ex.com/t/747503) 
+- [2021-01-22-美团-上海-信贷业务前端团队求简历~](https://www.v2ex.com/t/747502) 
+- [2021-01-22-idea-JobScheduler-FJ-pool.-cpu-占用率很高](https://www.v2ex.com/t/747500) 
+- [2021-01-22-ld-链接出来的可执行文件无法被执行？提示-No-such-file-or-directory](https://www.v2ex.com/t/747499) 
 - [2021-01-22-IT-行业，还有没有朝九晚五的公司？](https://www.v2ex.com/t/747498) 
 - [2021-01-22-有偿请教-fec-Reed-Solomon-数据纠错算法代码实现](https://www.v2ex.com/t/747497) 
 - [2021-01-22-一键人血馒头](https://www.v2ex.com/t/747495) 
@@ -34,7 +41,3 @@
 - [2021-01-22-中小型-Java-项目中-Service-层的必要性？真的有必要吗？](https://www.v2ex.com/t/747463) 
 - [2021-01-22-k8s-有什么应用管理系统吗?其实我只想要个从-git-部署应用的功能](https://www.v2ex.com/t/747461) 
 - [2021-01-22-M1-上的图片预览-Preview-增加文字就-Crash，你们有这个情况吗？](https://www.v2ex.com/t/747458) 
-- [2021-01-22-关于分表分库的原因](https://www.v2ex.com/t/747456) 
-- [2021-01-22-微信红包封面-继外卖红包之后，做了一个简单的红包封面领取小程序](https://www.v2ex.com/t/747454) 
-- [2021-01-22-发现了一个新的群聊产品，井盖-Chat，无人数上限和分频道聊天](https://www.v2ex.com/t/747453) 
-- [2021-01-22-有没有大佬试过把-ATX-主机改造成-ITX-主机？](https://www.v2ex.com/t/747451) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-22 05:44:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 06:17:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -17,7 +17,12 @@
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2021-01-06-2021年注定又是程序员最内卷的一年，提前做好面试准备很关键-|-活动推荐](https://www.ershicimi.com/p/83bc7ecc4c679e72b7ce598d2da9df96) 
+- [2021-01-12-程序员面试-10-大潜规则，千万不要踩坑！](https://www.ershicimi.com/p/0f6e4c46564945c1b3ffc4f33c9eb63a) 
 - [2021-01-21-这么靠谱的前端面试指南你都不看？耗子尾汁！](https://www.ershicimi.com/p/4fd72de2039fa25a04b52bf1f9326f77) 
+- [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
+- [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668) 
+- [2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
+- [2020-11-24-腾讯、华为前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-01-20-知乎面试官：为什么不建议在-MySQL-中使用-UTF-8？](https://www.ershicimi.com/p/39aaedc1e88f0fdd8432a185332e9684) 
 - [2021-01-17-面试官：MyBatis的SQL执行流程说这么详细，网上抄的吧！](https://www.ershicimi.com/p/0b60de4fdcd052f414d58f757a9b7196) 
@@ -25,4 +30,3 @@
 - [2021-01-22-苏州-同学请留步！-B-轮融资-8000-万，“万店掌”招聘啦](https://www.v2ex.com/t/747363) 
 - [2021-01-22-漫画：我把面试官整崩溃了](https://toutiao.io/k/liape15) 
 - [2021-01-22-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) 
-- [2021-01-22-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) 

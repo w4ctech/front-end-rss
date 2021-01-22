@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-22 15:08:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 15:55:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,7 +8,6 @@
 
 
 - [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
-- [2021-01-22-阿里巴巴-菜鸟-p6/7/8-base-深圳-杭州-16-薪-年前面试-年后入职](https://www.v2ex.com/t/747520) 
 - [2021-01-22-漫画：我把面试官整崩溃了](https://toutiao.io/k/liape15) 
 - [2021-01-22-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) 
 - [2021-01-22-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) 

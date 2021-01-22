@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-01-22 20:59:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 21:26:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-01-22-Senior-Full-Stack-Engineer-工作地点巴黎](https://www.v2ex.com/t/747582) 
 - [2021-01-22-Shelter-里面的程序怎么样调用三星-pay-支付？](https://www.v2ex.com/t/747577) 
 - [2021-01-22-有人遇到过-vmware-在-ubuntu-下显示异常的问题吗？请问如何解决？](https://www.v2ex.com/t/747576) 
 - [2021-01-22-猫盘-X3p-疑似存在后门](https://www.v2ex.com/t/747575) 
@@ -38,4 +39,3 @@
 - [2021-01-22-万物皆可软路由](https://www.v2ex.com/t/747538) 
 - [2021-01-22-有老哥用-Time-Machine-迁移-M1-设备的吗？是否碰到了什么问题？](https://www.v2ex.com/t/747535) 
 - [2021-01-22-amd-显卡如何玩串流？](https://www.v2ex.com/t/747534) 
-- [2021-01-22-pointfree.co-订阅](https://www.v2ex.com/t/747532) 

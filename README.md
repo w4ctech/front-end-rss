@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-22 19:13:48，:rocket: 更新条数: +3867， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-22 19:48:21，:rocket: 更新条数: +4137， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
@@ -696,6 +696,26 @@
 </summary>
 
 
+- [2021-01-14-凹凸技术揭秘-·-Taro-·-开放式跨端跨框架之路](https://aotu.io/notes/2021/01/14/taro-history/) ![](assets/new.png)  
+- [2021-01-14-凹凸技术揭秘-·-基础服务体系-·-构筑服务端技术中枢](https://aotu.io/notes/2021/01/14/exa-server/) ![](assets/new.png)  
+- [2021-01-06-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) ![](assets/new.png)  
+- [2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) ![](assets/new.png)  
+- [2020-12-31-凹凸技术揭秘-·-Deco-智能代码-·-开启产研效率革命](https://aotu.io/notes/2020/12/31/deco/) ![](assets/new.png)  
+- [2020-12-31-凹凸技术揭秘·羚珑页面可视化·成长蜕变之路](https://aotu.io/notes/2020/12/31/ling-atom-design/) ![](assets/new.png)  
+- [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) ![](assets/new.png)  
+- [2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) ![](assets/new.png)  
+- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
+- [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) ![](assets/new.png)  
+- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-05-EaseJs-中-regX-/-regY-的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -800,6 +820,9 @@
 </summary>
 
 
+- [2021-01-22-最深刻最通俗的HTTPS-原理详解，图文并茂](https://www.ershicimi.com/p/ee10efebe3425ac9864822e54e827697) ![](assets/new.png)  
+- [2021-01-22-离任前，特朗普再"疯狂"一把：将千亿中芯国际彻底"封杀"！更狠的是...](https://www.ershicimi.com/p/5439b997e86befa6c2514c33cc82bc46) ![](assets/new.png)  
+- [2021-01-22-39-个奇葩代码注释，看完笑哭了。](https://www.ershicimi.com/p/e3dec2040050556d6b891387554e1826) ![](assets/new.png)  
 - [2021-01-21-码写得好就是架构师？你太天真了！](https://www.ershicimi.com/p/aca9a62fc3010cc6bb4ae38834219eee) ![](assets/new.png)  
 - [2021-01-21-阿里“拆台”，中台真的不香了？](https://www.ershicimi.com/p/c6a36c2c62d7d34dc02f9ff289904f2c) ![](assets/new.png)  
 - [2021-01-21-推荐一款-ES-集群可视化工具：Cerebro，简单、实用！](https://www.ershicimi.com/p/9db372e40a49ab931c7dd73229c85252) ![](assets/new.png)  
@@ -817,9 +840,6 @@
 - [2021-01-17-面试官：MyBatis的SQL执行流程说这么详细，网上抄的吧！](https://www.ershicimi.com/p/0b60de4fdcd052f414d58f757a9b7196) ![](assets/new.png)  
 - [2021-01-16-看了扎心：39岁单身程序员入住养老院！养老院：院内平均年龄瞬间年轻了](https://www.ershicimi.com/p/7510dd2331146e43f8618ccf7becadf0) ![](assets/new.png)  
 - [2021-01-16-我为什么要放弃RESTful，选择拥抱GraphQL？](https://www.ershicimi.com/p/988355b07130f641da8f634072fad949) ![](assets/new.png)  
-- [2021-01-16-卧槽！我的IDEA中XML显示屎黄色，怎么去掉？](https://www.ershicimi.com/p/a96980ddbd1c8b0e7a96de70d27c3aff) ![](assets/new.png)  
-- [2021-01-15-还在用-Guava-Cache？它才是-Java-本地缓存之王！](https://www.ershicimi.com/p/df84aaa49e850b82ec80d7c75b0faf3c) ![](assets/new.png)  
-- [2021-01-15-大佬的"抢茅台"脚本开源了，网友：太强了~](https://www.ershicimi.com/p/5fa4dc144093da91fa11ae804d864a75) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1075,6 +1095,26 @@
 </summary>
 
 
+- [2021-01-22-微服务实现简单的分布式日志追踪](https://toutiao.io/k/s7af3dl) ![](assets/new.png)  
+- [2021-01-22-阿里面试官问我-Java-线程和操作系统线程什么关系](https://toutiao.io/k/oh81sch) ![](assets/new.png)  
+- [2021-01-22-最终一致性，一致只会迟到，但绝不会缺席](https://toutiao.io/k/9q7yxnu) ![](assets/new.png)  
+- [2021-01-22-突发流量洪峰应对之道：疫情期间京东口罩预约抢购系统优化](https://toutiao.io/k/eqjaf6k) ![](assets/new.png)  
+- [2021-01-22-什么样的人，在职场中更容易晋升？](https://toutiao.io/k/i08hgn2) ![](assets/new.png)  
+- [2021-01-22-Android-Studio-4.1-中的本地内存分析](https://toutiao.io/k/0hkmuyt) ![](assets/new.png)  
+- [2021-01-22-哔哩哔哩面试官：你可以手写-Vue-2-的响应式原理吗？](https://toutiao.io/k/iv9rsoc) ![](assets/new.png)  
+- [2021-01-22-可视化拖拽组件库一些技术要点原理分析（二）](https://toutiao.io/k/2tocbu5) ![](assets/new.png)  
+- [2021-01-22-聊聊如何构建一支自驱团队（一）](https://toutiao.io/k/yltqtpy) ![](assets/new.png)  
+- [2021-01-22-Spring-Boot-集成-MyBatis-Plus](https://toutiao.io/k/83tnoyv) ![](assets/new.png)  
+- [2021-01-22-推荐-9-条消除-if...else-的锦囊妙计，助你写出更优雅的代码](https://toutiao.io/k/6o9uhdv) ![](assets/new.png)  
+- [2021-01-22-推荐-超越身边-80%-的人，其实没有你想象的那么难](https://toutiao.io/k/ns5biqo) ![](assets/new.png)  
+- [2021-01-22-推荐-Spring-中这些能升华代码的技巧，可能会让你爱不释手](https://toutiao.io/k/d374mr5) ![](assets/new.png)  
+- [2021-01-22-推荐-我竟然被-“双亲委派”-给虐了](https://toutiao.io/k/l9vnnm6) ![](assets/new.png)  
+- [2021-01-22-推荐-技术人如何加速成长？提升你的思维和学习方式](https://toutiao.io/k/kon8rtq) ![](assets/new.png)  
+- [2021-01-22-推荐-2021-值得推荐的优质在线服务](https://toutiao.io/k/l2t22c8) ![](assets/new.png)  
+- [2021-01-22-推荐-如何成为快乐高产的程序员](https://toutiao.io/k/pfv4tyx) ![](assets/new.png)  
+- [2021-01-22-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) ![](assets/new.png)  
+- [2021-01-22-推荐-三万字，Spark-学习笔记](https://toutiao.io/k/wjp0vit) ![](assets/new.png)  
+- [2021-01-22-推荐-闯过这-54-关，点亮你的-Git-技能树](https://toutiao.io/k/6kqnm2d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

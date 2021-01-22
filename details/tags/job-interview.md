@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-22 04:19:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 04:39:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -30,4 +30,5 @@
 - [2021-01-22-字节这道面试原题除了用二分查找，暴力枚举，还有别的方法吗？](https://www.v2ex.com/t/747305) 
 - [2021-01-22-最近面试这么难么？](https://www.v2ex.com/t/747304) 
 - [2021-01-22-漫画：我把面试官整崩溃了](https://toutiao.io/k/liape15) 
+- [2021-01-22-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) 
 - [2021-01-22-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) 

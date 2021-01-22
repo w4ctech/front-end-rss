@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-22 07:41:18，:rocket: 更新条数: +4140， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-22 08:09:07，:rocket: 更新条数: +4137， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -913,10 +913,10 @@
 </summary>
 
 
+- [2021-01-21-2021年前端会有什么新变化？](https://juejin.im/post/6920487374543831053) ![](assets/new.png)  
 - [2021-01-21-从D2语言与框架专场到modern-JavaScript](https://juejin.im/post/6920468704090128397) ![](assets/new.png)  
 - [2021-01-21-从D2语言与框架专场到modern-JavaScript](https://juejin.im/post/6920468237419282445) ![](assets/new.png)  
 - [2021-01-21-2、Symbol](https://juejin.im/post/6920467486798249991) ![](assets/new.png)  
-- [2021-01-21-使用vue3重构拼图游戏,真香!](https://juejin.im/post/6920464793900384270) ![](assets/new.png)  
 - [2021-01-18-Deno-2020-回顾：API-稳定、1.0-发布、重构大型基础设施](https://juejin.im/post/6919325740420825096) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1033,6 +1033,11 @@
 </summary>
 
 
+- [2021-01-22-什么样的人在用微博？](https://www.v2ex.com/t/747439) ![](assets/new.png)  
+- [2021-01-22-招聘-永旺-深圳-测试开发工程师](https://www.v2ex.com/t/747438) ![](assets/new.png)  
+- [2021-01-22-基于-golang-开发的-AnyLink-企业级远程办公-ssl-vpn-软件开源了](https://www.v2ex.com/t/747435) ![](assets/new.png)  
+- [2021-01-22-请问是否有工具可以支持-eclipse-使用远程-tomcat-服务器进行-web-开发，要求修改代码实时生效（热部署）](https://www.v2ex.com/t/747433) ![](assets/new.png)  
+- [2021-01-22-大佬们一般都是怎么学习新技术的？](https://www.v2ex.com/t/747432) ![](assets/new.png)  
 - [2021-01-22-寻求-Python-代码管控方案](https://www.v2ex.com/t/747430) ![](assets/new.png)  
 - [2021-01-22-"a-==-b"-与"ida-==-idb"的本质区别](https://www.v2ex.com/t/747425) ![](assets/new.png)  
 - [2021-01-22-在-Oracle（达梦）中如何获取表字段的声明类型，比如-CHAR32-这种？](https://www.v2ex.com/t/747424) ![](assets/new.png)  
@@ -1048,11 +1053,6 @@
 - [2021-01-22-Affinity-官网打五折，我卖的比他们还低！](https://www.v2ex.com/t/747411) ![](assets/new.png)  
 - [2021-01-22-校招-社招-快手主站急招推荐算法工程师](https://www.v2ex.com/t/747409) ![](assets/new.png)  
 - [2021-01-22-分享一个饮料搭配，三顿半+元气森林乳酸菌](https://www.v2ex.com/t/747407) ![](assets/new.png)  
-- [2021-01-22-网易北京园区一员工核酸阳性，待确诊（重点）！有网易的兄弟萌吗？](https://www.v2ex.com/t/747406) ![](assets/new.png)  
-- [2021-01-22-app-闪退相关问题](https://www.v2ex.com/t/747403) ![](assets/new.png)  
-- [2021-01-22-蚂蚁集团官方极速招聘渠道-Java-研发/-数据研发/GoLang-研发-薪资-30K-60K+股票期权2021-年前发-off，年后可入职](https://www.v2ex.com/t/747400) ![](assets/new.png)  
-- [2021-01-22-一个基于分布式数据库-OrbitDB-的-Todo-Demo](https://www.v2ex.com/t/747399) ![](assets/new.png)  
-- [2021-01-22-使用-git-subtree-add-将一个仓库-a-添加到了仓库-b-的-a-目录下，现在想分离出来应该如何操作？](https://www.v2ex.com/t/747395) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,14 +1107,14 @@
 - [2021-01-22-容器技术之容器镜像篇](https://toutiao.io/k/5ha55ml) ![](assets/new.png)  
 - [2021-01-22-关于未来数据开发技术方向的观点](https://toutiao.io/k/tkr0rav) ![](assets/new.png)  
 - [2021-01-22-无需软件，教你用-Chrome-原生工具给网页长截图](https://toutiao.io/k/risxq3s) ![](assets/new.png)  
+- [2021-01-22-前端自动化测试浅析](https://toutiao.io/k/bbz4uir) ![](assets/new.png)  
 - [2021-01-22-关于以太坊-2.0-路线图，搞研究的大脑在想什么？](https://toutiao.io/k/ehrua6r) ![](assets/new.png)  
 - [2021-01-22-人脸超分辨率，基于迭代合作的方法](https://toutiao.io/k/5r2gqfg) ![](assets/new.png)  
-- [2021-01-22-前端自动化测试浅析](https://toutiao.io/k/bbz4uir) ![](assets/new.png)  
 - [2021-01-22-漫画：我把面试官整崩溃了](https://toutiao.io/k/liape15) ![](assets/new.png)  
 - [2021-01-22-全新的-Fragment：使用新的状态管理器](https://toutiao.io/k/s646yal) ![](assets/new.png)  
 - [2021-01-22-Wi-Fi-6-与-5G-相比哪个更快？](https://toutiao.io/k/b7itlq6) ![](assets/new.png)  
-- [2021-01-22-为什么我认为使用-blender-一定会用到-Python](https://toutiao.io/k/k7fsuom) ![](assets/new.png)  
 - [2021-01-22-一文带你走进-ClickHouse-的世界](https://toutiao.io/k/ugmca67) ![](assets/new.png)  
+- [2021-01-22-为什么我认为使用-blender-一定会用到-Python](https://toutiao.io/k/k7fsuom) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-22 19:48:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 20:06:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,6 +44,8 @@
 - [2021-01-22-跨域和模版引擎的使用](https://juejin.im/post/6920501068002508814) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-22-ubuntu16.04---Chromium-导致-xorg-100%](https://www.v2ex.com/t/747555) 
+- [2021-01-22-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
+- [2021-01-22-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) 
 - [2021-01-22-2021网络安全“大众点评”问卷调查第三次抽奖公告](https://sec.thief.one/article_content?a_id=d018a2d88e29784d085dc4effd6c8e0a) 
 - [2021-01-22-使用Refresh-Rect-PDU和RDPDR客户端名称请求PDU获取具有系统特...](https://sec.thief.one/article_content?a_id=7ee9e79a7248c1e6adae2ce8150bfbee) 
 - [2021-01-22-每日安全动态推送01-22](https://sec.thief.one/article_content?a_id=d93e90cb282ea8ca2e474d10500d2e55) 

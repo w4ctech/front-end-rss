@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-23 21:13:12，:rocket: 更新条数: +4172， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-23 21:48:39，:rocket: 更新条数: +4171， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1071,8 +1071,8 @@
 - [2021-01-23-西安哪个医院皮肤科比较好？](https://www.v2ex.com/t/747767) ![](assets/new.png)  
 - [2021-01-23-戴森球计划---Dyson-Sphere-Program](https://www.v2ex.com/t/747766) ![](assets/new.png)  
 - [2021-01-23-不能和家人一起过年感觉好难过啊。](https://www.v2ex.com/t/747765) ![](assets/new.png)  
-- [2021-01-23-许多人在贵阳火车站附近，收到号码-111-发来的短信-『请关手机』，有人知道为什么嘛？](https://www.v2ex.com/t/747764) ![](assets/new.png)  
 - [2021-01-23-不懂就问，-ss,ssr,v2ray-之流优势在哪](https://www.v2ex.com/t/747763) ![](assets/new.png)  
+- [2021-01-23-edge-chromium-stable-版本支持浏览记录等的全部同步了~](https://www.v2ex.com/t/747762) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,16 +1125,16 @@
 - [2021-01-23-Presto-运行时浅析](https://toutiao.io/k/q7scd09) ![](assets/new.png)  
 - [2021-01-23-纯-CSS-实现-React-Logo-图形，内含详细解析](https://toutiao.io/k/r0zp6fd) ![](assets/new.png)  
 - [2021-01-23-seata-TC-请求处理流程](https://toutiao.io/k/qlhta82) ![](assets/new.png)  
-- [2021-01-23-推荐-2021-值得推荐的优质在线服务](https://toutiao.io/k/l2t22c8) ![](assets/new.png)  
-- [2021-01-23-推荐-我竟然被-“双亲委派”-给虐了](https://toutiao.io/k/l9vnnm6) ![](assets/new.png)  
-- [2021-01-23-推荐-Spring-中这些能升华代码的技巧，可能会让你爱不释手](https://toutiao.io/k/d374mr5) ![](assets/new.png)  
-- [2021-01-23-推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie) ![](assets/new.png)  
-- [2021-01-23-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) ![](assets/new.png)  
-- [2021-01-23-推荐-Golang-最细节篇：struct{}-空结构体究竟是啥？](https://toutiao.io/k/xr4hfsr) ![](assets/new.png)  
-- [2021-01-23-推荐-超越身边-80%-的人，其实没有你想象的那么难](https://toutiao.io/k/ns5biqo) ![](assets/new.png)  
 - [2021-01-23-推荐-Spring-中那些让你爱不释手的代码技巧](https://toutiao.io/k/lev94mm) ![](assets/new.png)  
-- [2021-01-23-推荐-闯过这-54-关，点亮你的-Git-技能树](https://toutiao.io/k/6kqnm2d) ![](assets/new.png)  
-- [2021-01-23-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) ![](assets/new.png)  
+- [2021-01-23-推荐-可能是说的最分明的-IaaS,-PaaS,-FaaS,-SaaS,-MicroService,-Serverless-了](https://toutiao.io/k/p2q8xl8) ![](assets/new.png)  
+- [2021-01-23-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) ![](assets/new.png)  
+- [2021-01-23-推荐-2020-读过的好书推荐](https://toutiao.io/k/ocr2mmk) ![](assets/new.png)  
+- [2021-01-23-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) ![](assets/new.png)  
+- [2021-01-23-推荐-如何成为快乐高产的程序员](https://toutiao.io/k/pfv4tyx) ![](assets/new.png)  
+- [2021-01-23-推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie) ![](assets/new.png)  
+- [2021-01-23-推荐-Golang-最细节篇：struct{}-空结构体究竟是啥？](https://toutiao.io/k/xr4hfsr) ![](assets/new.png)  
+- [2021-01-23-推荐-2021-值得推荐的优质在线服务](https://toutiao.io/k/l2t22c8) ![](assets/new.png)  
+- [2021-01-23-推荐-超越身边-80%-的人，其实没有你想象的那么难](https://toutiao.io/k/ns5biqo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

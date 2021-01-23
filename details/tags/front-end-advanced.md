@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-23 15:06:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-23 15:53:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -14,4 +14,5 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2021-01-23-最近两次面试都被问到“http-的三次握手和四次挥手流程”](https://www.v2ex.com/t/747776) 
 - [2021-01-21-其实吧,算法也就那么回事儿](https://sec.thief.one/article_content?a_id=6a5a74181592b783aec60937a729c08a) 

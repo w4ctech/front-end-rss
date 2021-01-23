@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-23 07:25:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-23 08:07:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,11 +7,6 @@
 
 
 
-- [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/cacecf530e97b404d830c2a50be041d6) 
-- [2021-01-13-网络浏览器大战（Google与IE的较量）](https://www.ershicimi.com/p/903af54917d87e584a8e6888d1d8cea4) 
-- [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/97c8f2063da6a48911619da798bba87a) 
-- [2021-01-19-Chrome-上开发调试的九个技巧](https://www.ershicimi.com/p/8f4cf4b699486a67182fac5f4420b1e5) 
-- [2021-01-17-GET-和-POST请求的本质区别是什么？](https://www.ershicimi.com/p/1b2e8075ab78496b80940178dd1a464c) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
 - [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
@@ -20,12 +15,8 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
-- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2021-01-21-在日新月异的数字世界加速前行：Akamai-Edge-Live峰会精彩全回顾](https://www.ershicimi.com/p/8a3c72e9676339c41e37a1920afb387a) 
-- [2021-01-20-云原生带来的云安全领域变化｜Q推荐](https://www.ershicimi.com/p/3c606b70f990988ce97c55164396b1dd) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-01-23-继-QQ-读用户浏览器之后,一边说保护用户隐私要做输入法,一边读取用户浏览器的微信](https://www.v2ex.com/t/747692) 
 - [2021-01-23-ios-似乎其它浏览器都明显慢与-Safari](https://www.v2ex.com/t/747658) 
 - [2021-01-23-Microsoft-Edge-等在-Mac-下全屏时体验有点差](https://www.v2ex.com/t/747656) 
 - [2021-01-23-Chrome-书签同步，文件夹删不掉](https://www.v2ex.com/t/747647) 

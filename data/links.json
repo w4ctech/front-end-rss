@@ -20109,6 +20109,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Xmacs v2020.4 alpha2 for macOS 发布了",
+        "link": "https://www.v2ex.com/t/747791",
+        "date": "2021-01-23"
+      },
+      {
         "title": "电话网络和计算机网络有哪些不同?",
         "link": "https://www.v2ex.com/t/747790",
         "date": "2021-01-23"
@@ -20408,6 +20413,11 @@
         "date": "2021-01-23"
       },
       {
+        "title": "也谈 996",
+        "link": "https://toutiao.io/k/7zv2wac",
+        "date": "2021-01-23"
+      },
+      {
         "title": "DDD 实现之路",
         "link": "https://toutiao.io/k/9r5qrcy",
         "date": "2021-01-23"
@@ -20415,11 +20425,6 @@
       {
         "title": "Flutter 高性能、多功能的全场景滚动容器，一定要看",
         "link": "https://toutiao.io/k/y7gdnbv",
-        "date": "2021-01-23"
-      },
-      {
-        "title": "也谈 996",
-        "link": "https://toutiao.io/k/7zv2wac",
         "date": "2021-01-23"
       },
       {
@@ -20453,58 +20458,8 @@
         "date": "2021-01-23"
       },
       {
-        "title": "[推荐] Spring 中那些让你爱不释手的代码技巧",
-        "link": "https://toutiao.io/k/lev94mm",
-        "date": "2021-01-23"
-      },
-      {
-        "title": "[推荐] 讲解 Zookeeper 的五个核心知识点",
-        "link": "https://toutiao.io/k/te1s8su",
-        "date": "2021-01-23"
-      },
-      {
-        "title": "[推荐] 我的 2020 年阅读书单",
-        "link": "https://toutiao.io/k/e83kg1a",
-        "date": "2021-01-23"
-      },
-      {
-        "title": "[推荐] 2020 读过的好书推荐",
-        "link": "https://toutiao.io/k/ocr2mmk",
-        "date": "2021-01-23"
-      },
-      {
-        "title": "[推荐] 面试：Redis 为什么快呢？查询为何会变慢？",
-        "link": "https://toutiao.io/k/uktnxye",
-        "date": "2021-01-23"
-      },
-      {
-        "title": "[推荐] 9 条消除 if...else 的锦囊妙计，助你写出更优雅的代码",
-        "link": "https://toutiao.io/k/6o9uhdv",
-        "date": "2021-01-23"
-      },
-      {
-        "title": "[推荐] 基于 SSD 的 Kafka 应用层缓存架构设计与实现",
-        "link": "https://toutiao.io/k/ddgxe6s",
-        "date": "2021-01-23"
-      },
-      {
-        "title": "[推荐] 换个角度，聊聊全链路压测",
-        "link": "https://toutiao.io/k/46w7ldx",
-        "date": "2021-01-23"
-      },
-      {
-        "title": "[推荐] 技术人如何加速成长？提升你的思维和学习方式",
-        "link": "https://toutiao.io/k/kon8rtq",
-        "date": "2021-01-23"
-      },
-      {
-        "title": "[推荐] GitHub 访问加速指南",
-        "link": "https://toutiao.io/k/5mauvie",
-        "date": "2021-01-23"
-      },
-      {
-        "title": "[推荐] Golang 最细节篇：struct{} 空结构体究竟是啥？",
-        "link": "https://toutiao.io/k/xr4hfsr",
+        "title": "[推荐] 三万字，Spark 学习笔记",
+        "link": "https://toutiao.io/k/wjp0vit",
         "date": "2021-01-23"
       },
       {
@@ -20513,18 +20468,68 @@
         "date": "2021-01-23"
       },
       {
-        "title": "[推荐] Spring 中这些能升华代码的技巧，可能会让你爱不释手",
-        "link": "https://toutiao.io/k/d374mr5",
+        "title": "[推荐] 9 条消除 if...else 的锦囊妙计，助你写出更优雅的代码",
+        "link": "https://toutiao.io/k/6o9uhdv",
         "date": "2021-01-23"
       },
       {
-        "title": "[推荐] 可能是说的最分明的 IaaS, PaaS, FaaS, SaaS, MicroService, Serverless 了",
-        "link": "https://toutiao.io/k/p2q8xl8",
+        "title": "[推荐] 换个角度，聊聊全链路压测",
+        "link": "https://toutiao.io/k/46w7ldx",
+        "date": "2021-01-23"
+      },
+      {
+        "title": "[推荐] 如何成为快乐高产的程序员",
+        "link": "https://toutiao.io/k/pfv4tyx",
+        "date": "2021-01-23"
+      },
+      {
+        "title": "[推荐] Java 线程池总结",
+        "link": "https://toutiao.io/k/4z3o5gw",
+        "date": "2021-01-23"
+      },
+      {
+        "title": "[推荐] 我的 2020 年阅读书单",
+        "link": "https://toutiao.io/k/e83kg1a",
+        "date": "2021-01-23"
+      },
+      {
+        "title": "[推荐] 技术人如何加速成长？提升你的思维和学习方式",
+        "link": "https://toutiao.io/k/kon8rtq",
+        "date": "2021-01-23"
+      },
+      {
+        "title": "[推荐] Spring 中那些让你爱不释手的代码技巧",
+        "link": "https://toutiao.io/k/lev94mm",
+        "date": "2021-01-23"
+      },
+      {
+        "title": "[推荐] 基于 SSD 的 Kafka 应用层缓存架构设计与实现",
+        "link": "https://toutiao.io/k/ddgxe6s",
+        "date": "2021-01-23"
+      },
+      {
+        "title": "[推荐] 超越身边 80% 的人，其实没有你想象的那么难",
+        "link": "https://toutiao.io/k/ns5biqo",
+        "date": "2021-01-23"
+      },
+      {
+        "title": "[推荐] 面试：Redis 为什么快呢？查询为何会变慢？",
+        "link": "https://toutiao.io/k/uktnxye",
         "date": "2021-01-23"
       },
       {
         "title": "[推荐] 网络抓包大法好，tcpdump 和 Wireshark 少不了",
         "link": "https://toutiao.io/k/5ssh1zt",
+        "date": "2021-01-23"
+      },
+      {
+        "title": "[推荐] GitHub 访问加速指南",
+        "link": "https://toutiao.io/k/5mauvie",
+        "date": "2021-01-23"
+      },
+      {
+        "title": "[推荐] 可能是说的最分明的 IaaS, PaaS, FaaS, SaaS, MicroService, Serverless 了",
+        "link": "https://toutiao.io/k/p2q8xl8",
         "date": "2021-01-23"
       }
     ]

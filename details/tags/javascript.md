@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-23 06:32:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-23 07:05:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -73,11 +73,6 @@
 - [2021-01-18-几次重构代码-总结的一些JavaScript代码整洁清晰注意点](https://www.ershicimi.com/p/ce0224843c8b0ca1936d659ab6726b24) 
 - [2021-01-17-JavaScript-第四版红宝书真香，送-20-本！](https://www.ershicimi.com/p/5f6b3d0e20e6b1107003f53efa620200) 
 - [2021-01-12-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/ddb5d32e4717fb973d232a3b6305f28e) 
-- [2021-01-20-巧用DOM-API实现HTML字符的转义和反转义](https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/) 
-- [2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 
-- [2020-12-24-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) 
-- [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
-- [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2021-01-21-JS-Bridge-通信原理](https://www.ershicimi.com/p/9d8e5891e7848424673d88e953115a41) 
 - [2021-01-15-奇舞周刊第-381-期：2020-年度-JavaScript-现状调查报告](https://www.ershicimi.com/p/5c5ef59b9a94dd3de634313aa6fc6bc8) 
@@ -95,6 +90,7 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-01-23-人在国企，维护老系统，-JSP-写到🤮](https://www.v2ex.com/t/747678) 
 - [2021-01-23-可视化拖拽组件库一些技术要点原理分析（二）](https://toutiao.io/k/2tocbu5) 
 - [2021-01-22-【公告】JSRC-十二月月度英雄榜](https://sec.thief.one/article_content?a_id=da090026d29cb42b401da77dfd93a8c4) 
 - [2021-01-21-年度盘点-|-2020重大网络安全事件-·-工控篇](https://sec.thief.one/article_content?a_id=b98884a01f10d1e8d25f2bf897567037) 

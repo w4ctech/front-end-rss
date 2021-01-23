@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-23 22:01:22，:rocket: 更新条数: +1008， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-23 22:20:49，:rocket: 更新条数: +1008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1105,15 +1105,15 @@
 - [2021-01-23-Presto-运行时浅析](https://toutiao.io/k/q7scd09) ![](assets/new.png)  
 - [2021-01-23-纯-CSS-实现-React-Logo-图形，内含详细解析](https://toutiao.io/k/r0zp6fd) ![](assets/new.png)  
 - [2021-01-23-seata-TC-请求处理流程](https://toutiao.io/k/qlhta82) ![](assets/new.png)  
-- [2021-01-23-推荐-讲解-Zookeeper-的五个核心知识点](https://toutiao.io/k/te1s8su) ![](assets/new.png)  
-- [2021-01-23-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) ![](assets/new.png)  
+- [2021-01-23-推荐-2021-值得推荐的优质在线服务](https://toutiao.io/k/l2t22c8) ![](assets/new.png)  
+- [2021-01-23-推荐-三万字，Spark-学习笔记](https://toutiao.io/k/wjp0vit) ![](assets/new.png)  
+- [2021-01-23-推荐-Golang-最细节篇：struct{}-空结构体究竟是啥？](https://toutiao.io/k/xr4hfsr) ![](assets/new.png)  
+- [2021-01-23-推荐-超越身边-80%-的人，其实没有你想象的那么难](https://toutiao.io/k/ns5biqo) ![](assets/new.png)  
+- [2021-01-23-推荐-闯过这-54-关，点亮你的-Git-技能树](https://toutiao.io/k/6kqnm2d) ![](assets/new.png)  
+- [2021-01-23-推荐-可能是说的最分明的-IaaS,-PaaS,-FaaS,-SaaS,-MicroService,-Serverless-了](https://toutiao.io/k/p2q8xl8) ![](assets/new.png)  
 - [2021-01-23-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) ![](assets/new.png)  
-- [2021-01-23-推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie) ![](assets/new.png)  
+- [2021-01-23-推荐-技术人如何加速成长？提升你的思维和学习方式](https://toutiao.io/k/kon8rtq) ![](assets/new.png)  
 - [2021-01-23-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) ![](assets/new.png)  
-- [2021-01-23-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) ![](assets/new.png)  
-- [2021-01-23-推荐-Java-线程池总结](https://toutiao.io/k/4z3o5gw) ![](assets/new.png)  
-- [2021-01-23-推荐-2020-读过的好书推荐](https://toutiao.io/k/ocr2mmk) ![](assets/new.png)  
-- [2021-01-23-推荐-9-条消除-if...else-的锦囊妙计，助你写出更优雅的代码](https://toutiao.io/k/6o9uhdv) ![](assets/new.png)  
 - [2021-01-23-推荐-换个角度，聊聊全链路压测](https://toutiao.io/k/46w7ldx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

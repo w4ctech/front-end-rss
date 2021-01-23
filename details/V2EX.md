@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-01-23 14:17:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-23 14:23:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-01-23-edge-chromium-stable-版本支持浏览记录等的全部同步了~](https://www.v2ex.com/t/747762) 
 - [2021-01-23-如何隐藏火狐浏览器左下角的悬浮状态栏？](https://www.v2ex.com/t/747761) 
 - [2021-01-23-有个-api-只能返回所有数据大小大概-200k，想让前端直接第一次直接请求，然后放-localStorage-里可行吗](https://www.v2ex.com/t/747760) 
 - [2021-01-23-keepassXC，如何调整数据库的条目（entry）和群组（group）的上下位置？](https://www.v2ex.com/t/747756) 
@@ -42,4 +43,3 @@
 - [2021-01-23-关系型数据库入门的疑问:-SQLite-定位是？](https://www.v2ex.com/t/747715) 
 - [2021-01-23-社招-美资外企-iOS、Android-高级工程师](https://www.v2ex.com/t/747714) 
 - [2021-01-23-Python-reload-对单例对象的影响](https://www.v2ex.com/t/747713) 
-- [2021-01-23-没有安装-Oracle-的电脑，应该如何连接到-oracle-数据库？](https://www.v2ex.com/t/747712) 

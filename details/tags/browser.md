@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-24 10:06:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-24 10:39:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,6 +43,8 @@
 - [2021-01-20-云原生带来的云安全领域变化｜Q推荐](https://www.ershicimi.com/p/3c606b70f990988ce97c55164396b1dd) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-24-seata-TC-请求处理流程](https://toutiao.io/k/qlhta82) 
+- [2021-01-24-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
+- [2021-01-24-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) 
 - [2021-01-24-网络安全编程:VC相关开发辅助工具](https://sec.thief.one/article_content?a_id=e6c7ebf99e60b73745e247653bf2a8e7) 
 - [2021-01-23-网络安全攻防:基于CTF的实战演练](https://sec.thief.one/article_content?a_id=6ac0dca85afe814ba505b511a3a18c30) 
 - [2021-01-22-【安全风险通告】CVE-2021-2108已复现并支持防护,WebLogic-...](https://sec.thief.one/article_content?a_id=079ef072a5a95ef94763454f26b23c33) 
@@ -58,4 +60,3 @@
 - [2021-01-21-超5000人在线|绿盟科技与石油石化企业共话工控安全](https://sec.thief.one/article_content?a_id=5af4426a6741cee6c717524d8d6f83ca) 
 - [2021-01-21-探索网安“北京模式”、筑牢安全底板-政协委员齐向东:有信心!](https://sec.thief.one/article_content?a_id=802df8ddcd53734401d78507a446ac6b) 
 - [2021-01-21-医疗器械的安全至关重要](https://sec.thief.one/article_content?a_id=482e5d74041b3a64dd44ced74151a589) 
-- [2021-01-21-喜讯-|-国舜股份中标中国人保寿险,赋能全生命周期安全开发](https://sec.thief.one/article_content?a_id=04e2aa084b11e6e5f823d9e8f35649d1) 

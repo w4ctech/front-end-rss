@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-24 12:27:37，:rocket: 更新条数: +970， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-24 12:48:31，:rocket: 更新条数: +4148， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-01-24-最新疫情：全国新冠累计确诊88991例-本土病例新增65例](https://m.caixin.com/m/2021-01-24/101655026.html) ![](assets/new.png)  
+- [2021-01-24-北京西城区一人初筛新冠阳性](https://m.caixin.com/m/2021-01-24/101655051.html) ![](assets/new.png)  
+- [2021-01-24-北京疾控：建议市民在京过春节](https://m.caixin.com/m/2021-01-24/101655019.html) ![](assets/new.png)  
+- [2021-01-24-张文宏：“陶瓷店里抓老鼠”，防疫在与病毒赛跑避免社会停摆](http://m.opinion.caixin.com/m/2021-01-24/101654918.html) ![](assets/new.png)  
+- [2021-01-24-最新海外疫情：新冠感染超9864万-累计死亡超211万](https://m.caixin.com/m/2021-01-24/101655022.html) ![](assets/new.png)  
+- [2021-01-24-1月23日河北19例新冠确诊病例轨迹公布](https://m.caixin.com/m/2021-01-24/101654949.html) ![](assets/new.png)  
+- [2021-01-24-1月23日吉林本地新增新冠确诊12例-无症状感染者29例](https://m.caixin.com/m/2021-01-24/101654915.html) ![](assets/new.png)  
+- [2021-01-24-1月23日全国新增新冠80例-其中本土65例](https://m.caixin.com/m/2021-01-24/101654921.html) ![](assets/new.png)  
+- [2021-01-24-1月23日北京新增本地新冠2例-分别在大兴融汇、云立方社区](https://m.caixin.com/m/2021-01-24/101654912.html) ![](assets/new.png)  
+- [2021-01-24-1月23日河北本地新增新冠19例-石家庄17例邢台2例](https://m.caixin.com/m/2021-01-24/101654944.html) ![](assets/new.png)  
+- [2021-01-24-1月23日上海新增本地新冠确诊3例-均常住黄浦区](https://m.caixin.com/m/2021-01-24/101654909.html) ![](assets/new.png)  
+- [2021-01-24-1月23日黑龙江新增新冠确诊病例29例-无症状感染者51例](https://m.caixin.com/m/2021-01-24/101654906.html) ![](assets/new.png)  
+- [2021-01-24-【境内疫情观察】全国现有本土病例1502例（1月23日）](http://m.database.caixin.com/m/2021-01-24/101654978.html) ![](assets/new.png)  
+- [2021-01-24-拜登称疫情应对是战时任务-全球新冠确诊逼近1亿|大流行手记（1月23日）](https://m.caixin.com/m/2021-01-24/101654938.html) ![](assets/new.png)  
+- [2021-01-23-港府凌晨封锁佐敦疫区-居民检测完成前禁止离开该区](https://m.caixin.com/m/2021-01-23/101654768.html) ![](assets/new.png)  
+- [2021-01-23-北京大兴区聚集性疫情6天新增20例-东西城全员核酸检测](https://m.caixin.com/m/2021-01-23/101654882.html) ![](assets/new.png)  
+- [2021-01-23-北京网易大厦一人员确诊新冠-全员核酸检测阴性](https://m.caixin.com/m/2021-01-23/101654593.html) ![](assets/new.png)  
+- [2021-01-23-1月22日全国新增新冠确诊病例107例-本土病例90例](https://m.caixin.com/m/2021-01-23/101654607.html) ![](assets/new.png)  
+- [2021-01-23-吉林通化第二轮全员核酸检测88例结果呈阳性](https://m.caixin.com/m/2021-01-23/101654805.html) ![](assets/new.png)  
+- [2021-01-23-上海通报22日新增3例本地新冠肺炎确诊病例相关情况](https://m.caixin.com/m/2021-01-23/101654801.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -993,6 +1013,11 @@
 </summary>
 
 
+- [2021-01-24-有必要注册-Linkedin-吗？](https://www.v2ex.com/t/747941) ![](assets/new.png)  
+- [2021-01-24-字节跳动，-西安-内推火热进行中，平面设计、视觉设计，有意向的小伙伴快点加入吧！](https://www.v2ex.com/t/747940) ![](assets/new.png)  
+- [2021-01-24-做了一个骚话生成器生成器](https://www.v2ex.com/t/747939) ![](assets/new.png)  
+- [2021-01-24-大家分享下自己的数码装备吧](https://www.v2ex.com/t/747938) ![](assets/new.png)  
+- [2021-01-24-如何在-Uniapp-中访问-CabloyJS-后端管理系统-API](https://www.v2ex.com/t/747937) ![](assets/new.png)  
 - [2021-01-24-如何启用-cloudflare-的-cdn？-ERR_SSL_VERSION_OR_CIPHER_MISMATCH](https://www.v2ex.com/t/747936) ![](assets/new.png)  
 - [2021-01-24-有个关于网络的问题需要请教下大家](https://www.v2ex.com/t/747935) ![](assets/new.png)  
 - [2021-01-24-关于-M1-电脑软件适配问题](https://www.v2ex.com/t/747933) ![](assets/new.png)  
@@ -1008,11 +1033,6 @@
 - [2021-01-24-字节跳动推荐新鲜出炉](https://www.v2ex.com/t/747920) ![](assets/new.png)  
 - [2021-01-24-golang-mongo-driver-如何更新某个字段](https://www.v2ex.com/t/747919) ![](assets/new.png)  
 - [2021-01-24-迫于音乐，收个-QQ-音乐-年卡，带价来；迫于吃饭，收饿了么/美团会员](https://www.v2ex.com/t/747918) ![](assets/new.png)  
-- [2021-01-24-旧闻：树莓派出新产品了----树莓派-pico](https://www.v2ex.com/t/747917) ![](assets/new.png)  
-- [2021-01-24-两个孕妇相关职场话题有感](https://www.v2ex.com/t/747916) ![](assets/new.png)  
-- [2021-01-24-小白一个，求-Java-学习网站！](https://www.v2ex.com/t/747914) ![](assets/new.png)  
-- [2021-01-24-一个关于-Flexbox-布局的问题](https://www.v2ex.com/t/747913) ![](assets/new.png)  
-- [2021-01-24-大家有没有视频剪辑和变声的软件推荐](https://www.v2ex.com/t/747912) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1056,8 +1076,8 @@
 
 
 - [2021-01-24-DDD-实现之路](https://toutiao.io/k/9r5qrcy) ![](assets/new.png)  
-- [2021-01-24-敏捷管理系列：学习实践-Scrum，看这一篇就够了](https://toutiao.io/k/wd0phnm) ![](assets/new.png)  
 - [2021-01-24-跳表：会跳的链表原来这么-diao](https://toutiao.io/k/fobkj0c) ![](assets/new.png)  
+- [2021-01-24-敏捷管理系列：学习实践-Scrum，看这一篇就够了](https://toutiao.io/k/wd0phnm) ![](assets/new.png)  
 - [2021-01-24-也谈-996](https://toutiao.io/k/7zv2wac) ![](assets/new.png)  
 - [2021-01-24-Dubbo-靠它崭露头角](https://toutiao.io/k/3f4emhg) ![](assets/new.png)  
 - [2021-01-24-云原生-DevOps-的-5-步升级路径](https://toutiao.io/k/5bnjbcl) ![](assets/new.png)  
@@ -1065,16 +1085,16 @@
 - [2021-01-24-Presto-运行时浅析](https://toutiao.io/k/q7scd09) ![](assets/new.png)  
 - [2021-01-24-Flutter-高性能、多功能的全场景滚动容器，一定要看](https://toutiao.io/k/y7gdnbv) ![](assets/new.png)  
 - [2021-01-24-纯-CSS-实现-React-Logo-图形，内含详细解析](https://toutiao.io/k/r0zp6fd) ![](assets/new.png)  
-- [2021-01-24-推荐-2020-读过的好书推荐](https://toutiao.io/k/ocr2mmk) ![](assets/new.png)  
-- [2021-01-24-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) ![](assets/new.png)  
-- [2021-01-24-推荐-Spring-中那些让你爱不释手的代码技巧](https://toutiao.io/k/lev94mm) ![](assets/new.png)  
-- [2021-01-24-推荐-讲解-Zookeeper-的五个核心知识点](https://toutiao.io/k/te1s8su) ![](assets/new.png)  
-- [2021-01-24-推荐-我竟然被-“双亲委派”-给虐了](https://toutiao.io/k/l9vnnm6) ![](assets/new.png)  
-- [2021-01-24-推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie) ![](assets/new.png)  
+- [2021-01-24-推荐-Spring-中这些能升华代码的技巧，可能会让你爱不释手](https://toutiao.io/k/d374mr5) ![](assets/new.png)  
 - [2021-01-24-推荐-可能是说的最分明的-IaaS,-PaaS,-FaaS,-SaaS,-MicroService,-Serverless-了](https://toutiao.io/k/p2q8xl8) ![](assets/new.png)  
-- [2021-01-24-推荐-换个角度，聊聊全链路压测](https://toutiao.io/k/46w7ldx) ![](assets/new.png)  
 - [2021-01-24-推荐-如何成为快乐高产的程序员](https://toutiao.io/k/pfv4tyx) ![](assets/new.png)  
+- [2021-01-24-推荐-技术人如何加速成长？提升你的思维和学习方式](https://toutiao.io/k/kon8rtq) ![](assets/new.png)  
+- [2021-01-24-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) ![](assets/new.png)  
+- [2021-01-24-推荐-闯过这-54-关，点亮你的-Git-技能树](https://toutiao.io/k/6kqnm2d) ![](assets/new.png)  
+- [2021-01-24-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) ![](assets/new.png)  
 - [2021-01-24-推荐-网络抓包大法好，tcpdump-和-Wireshark-少不了](https://toutiao.io/k/5ssh1zt) ![](assets/new.png)  
+- [2021-01-24-推荐-换个角度，聊聊全链路压测](https://toutiao.io/k/46w7ldx) ![](assets/new.png)  
+- [2021-01-24-推荐-超越身边-80%-的人，其实没有你想象的那么难](https://toutiao.io/k/ns5biqo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

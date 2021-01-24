@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-24 11:37:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-24 12:00:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -122,6 +122,8 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-01-24-关于-M1-电脑软件适配问题](https://www.v2ex.com/t/747933) 
+- [2021-01-24-2021-年，用-Python-部署异步网络服务的最佳实践是什么？](https://www.v2ex.com/t/747931) 
 - [2021-01-24-PyCharm-总是提示-unresolved-attribute-reference，是依据变量名？还是路径？](https://www.v2ex.com/t/747930) 
 - [2021-01-24-函数式编程有没有什么经典，系统的书可以学习](https://www.v2ex.com/t/747899) 
 - [2021-01-22-【公告】JSRC-十二月月度英雄榜](https://sec.thief.one/article_content?a_id=da090026d29cb42b401da77dfd93a8c4) 

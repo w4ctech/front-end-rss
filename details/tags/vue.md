@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-24 07:10:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-24 07:40:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -47,7 +47,6 @@
 - [2021-01-11-看完这篇文章，你还觉得Vue3.0源码很难吗？](https://www.ershicimi.com/p/06bec0e642a77ed6e7ed8317aa0ae46c) 
 - [2021-01-11-一个-1-分钟就学会的-vue-小技巧（真的一看就会）](https://www.ershicimi.com/p/1833d4fcdf155ac1c6edf59498f4a9ef) 
 - [2021-01-05-Vue-开发实战-—-从-0-开始搭建大型-Vue-项目](https://www.ershicimi.com/p/61003712e83b5779a3397a61b0239431) 
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) 
 - [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) 
 - [2017-07-17-Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/) 
@@ -65,6 +64,5 @@
 - [2020-12-22-这7个vue技巧，简直让效率翻倍！](https://www.ershicimi.com/p/3e1d8e9e766d6ba9739a11e029436ee7) 
 - [2020-12-21-Vue-3.0-进阶玩法，想一起造轮子的进](https://www.ershicimi.com/p/ecd6b1fe71dd157caf1abab769da4900) 
 - [2020-12-18-最火的-Vue-前端框架，你用对了么？](https://www.ershicimi.com/p/7d14f8a7f058a7d1e1ecde4ceb2b8a7f) 
-- [2021-01-22-Vue-组件通信的-8-种方式](https://juejin.im/post/6920645929187934216) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 

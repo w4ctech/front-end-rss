@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-24 00:03:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-24 00:22:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,14 +31,6 @@
 - [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/97c8f2063da6a48911619da798bba87a) 
 - [2021-01-19-Chrome-上开发调试的九个技巧](https://www.ershicimi.com/p/8f4cf4b699486a67182fac5f4420b1e5) 
 - [2021-01-17-GET-和-POST请求的本质区别是什么？](https://www.ershicimi.com/p/1b2e8075ab78496b80940178dd1a464c) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
@@ -69,6 +61,3 @@
 - [2021-01-21-喜讯-|-国舜股份中标中国人保寿险,赋能全生命周期安全开发](https://sec.thief.one/article_content?a_id=04e2aa084b11e6e5f823d9e8f35649d1) 
 - [2021-01-21-缓存键规范化](https://sec.thief.one/article_content?a_id=73817c5331d7a73087e8a712296f8070) 
 - [2021-01-21-40岁程序员“删库”被判7年,曾提出系统安全问题被无视,怒删9TB...](https://sec.thief.one/article_content?a_id=a38df701d418378fba29e499eec1093a) 
-- [2021-01-21-FAVICONS和缓存:浏览器中的持久跟踪](https://sec.thief.one/article_content?a_id=f827e7a05bac17db6ab39930d4304509) 
-- [2021-01-21-常见Web安全漏洞攻防实战](https://sec.thief.one/article_content?a_id=6b032a2e56ceb32ba4ff93568b5711c4) 
-- [2021-01-21-派盾-PeckShield-2020-年年度数字货币反洗钱报告下载](https://sec.thief.one/article_content?a_id=40e2310133af76ec42b827eaf0c061ce) 

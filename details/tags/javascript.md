@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-24 22:22:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-24 22:49:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -35,9 +35,8 @@
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2021-01-21-【第2183期】Promise原理&宏微任务](https://www.ershicimi.com/p/da1f0849cfdefa3d3b67e63a76177117) 
 - [2021-01-18-【视频】JS年度报告完整解读！](https://www.ershicimi.com/p/b70f1a56496b4d539fff6a62fbfec95b) 
+- [2021-01-24-可视化拖拽组件库一些技术要点原理分析（二）](https://www.ershicimi.com/p/966196d7e978fc496c00c8f86f700d5c) 
 - [2021-01-19-深拷贝-浅拷贝](https://www.ershicimi.com/p/15c7654014ef8a7171c7f2e19b4a9e59) 
-- [2021-01-17-11个-Javascript-小技巧帮你提升代码质量](https://www.ershicimi.com/p/09fd671e6a4f65957eda5434113dc906) 
-- [2021-01-16-大前端进击之路二：JavaScript异步编程](https://www.ershicimi.com/p/8f1da5856a11c367157fd26deab9923d) 
 - [2021-01-20-超详细的-JS-数组方法](https://www.ershicimi.com/p/3c7b546430c363fad841d14f3f7bc822) 
 - [2021-01-19-10-个提升代码质量的-JS-技巧](https://www.ershicimi.com/p/66b505935981a14988e0c87283890ad9) 
 - [2021-01-14-总结了工作中常用的-ES6-代码片段，整理后的-24-个值得拥有](https://www.ershicimi.com/p/5784f280f099d6e0aa732d1f6be76c33) 

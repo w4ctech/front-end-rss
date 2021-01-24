@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-24 00:22:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-24 02:22:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -21,7 +21,6 @@
 - [2021-01-13-大厂面试中那些无中生有的事-|-活动推荐](https://www.ershicimi.com/p/9ebe3a08763ceea6e19535548e24bd20) 
 - [2021-01-23-美团金融服务的技术平台前端组招聘](https://www.ershicimi.com/p/2b69900358d3a0812c05fc9d8fdc1d35) 
 - [2021-01-12-程序员面试-10-大潜规则，千万不要踩坑！](https://www.ershicimi.com/p/0f6e4c46564945c1b3ffc4f33c9eb63a) 
-- [2021-01-21-这么靠谱的前端面试指南你都不看？耗子尾汁！](https://www.ershicimi.com/p/4fd72de2039fa25a04b52bf1f9326f77) 
 - [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668) 
 - [2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
@@ -31,5 +30,6 @@
 - [2021-01-17-面试官：MyBatis的SQL执行流程说这么详细，网上抄的吧！](https://www.ershicimi.com/p/0b60de4fdcd052f414d58f757a9b7196) 
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-01-24-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) 
+- [2021-01-24-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) 
 - [2021-01-23-牛聘|2020年度岗位招聘第17期](https://sec.thief.one/article_content?a_id=8f5305fb70ad607190900105581382f8) 
 - [2021-01-23-这边招聘了解一下?](https://sec.thief.one/article_content?a_id=bfea3e1790f4264b229ab65f3cf20e4b) 

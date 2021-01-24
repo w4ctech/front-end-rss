@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-24 10:39:39，:rocket: 更新条数: +4144， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-24 11:08:27，:rocket: 更新条数: +4124， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -1013,6 +1013,9 @@
 </summary>
 
 
+- [2021-01-24-uber-go-中的-ratelimit-包,-为何-sleepFor-不能小于-maxSlack-呢?](https://www.v2ex.com/t/747926) ![](assets/new.png)  
+- [2021-01-24-移动端分工职责划分](https://www.v2ex.com/t/747924) ![](assets/new.png)  
+- [2021-01-24-有多少人已经陷进-pdd-中了？](https://www.v2ex.com/t/747923) ![](assets/new.png)  
 - [2021-01-24-再做一个堡垒机？希望大家给一点建议。](https://www.v2ex.com/t/747922) ![](assets/new.png)  
 - [2021-01-24-大家是怎么控制连在电视上的电脑的？](https://www.v2ex.com/t/747921) ![](assets/new.png)  
 - [2021-01-24-字节跳动推荐新鲜出炉](https://www.v2ex.com/t/747920) ![](assets/new.png)  
@@ -1030,9 +1033,6 @@
 - [2021-01-24-在-Mac-上运行-Python-tkinter-的图形界面时,有什么办法可以隐藏或最小化同步运行的-terminal-窗口?](https://www.v2ex.com/t/747906) ![](assets/new.png)  
 - [2021-01-24-深圳所谓的农民房，是个人所有吗？](https://www.v2ex.com/t/747905) ![](assets/new.png)  
 - [2021-01-24-Xmacs-v2020.4-alpha2-发布了](https://www.v2ex.com/t/747904) ![](assets/new.png)  
-- [2021-01-24-Evernote-笔记页面无法打开](https://www.v2ex.com/t/747902) ![](assets/new.png)  
-- [2021-01-24-快手-移动端基础架构新坑，对标-Google-和-FB-的轮子部门，专业造效率轮子，不内卷不加班！](https://www.v2ex.com/t/747901) ![](assets/new.png)  
-- [2021-01-24-光猫桥接](https://www.v2ex.com/t/747900) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,26 +1044,6 @@
 </summary>
 
 
-- [2021-01-24-敏捷测试的核心-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14117&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-testing-core%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-DDD实现之路-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14116&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpath-to-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-国内开发者开源爬虫工具箱爆红-GitHub-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14115&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FutssjMZMTI3ecNMWDm02BA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-为什么建议大家用-Linux-开发？爽啊！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14114&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fo3cvUojbE3g-Ft4edgU4Ig%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-开眼了，腾讯是如何使用-Git-的-？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14113&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fa1Eral_n4NfksDCE7ZeN5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-华为-Java-编程军规-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14112&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FI84MfGHVTQ6bpaDRl6MiSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-2020-最好的-10-大学习编程网站！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14111&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2kh3jUpJl_tmtPofcULh6Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-成为优秀程序员需要具备的-6-个特质-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14110&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fouzs80F6F_NnnOP1_z6ELQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-Java-版植物大战僵尸思路和源码分享！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14109&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_GoT11Fpe9DM2vF0yN9fxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-从此！程序员找对象没那么难了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14108&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F13hOo7j-kgpKsOH_oF7yZw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-面向所有人的-UI-编程-：透过点按弹窗初尝-SwiftUI-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14107&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7mX3-yBQHXLTdeE7YmHqFQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-17-张程序员壁纸（使用频率很高）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14106&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_CRO5UKUTUmy2C6Atzo0dQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-记一次线上商城系统-Tomcat、JVM-高并发的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14105&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0h9t4LqzICIJcopJiP73XA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-谷歌的这个开源项目霸榜-Github-第一，我服了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14104&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO8SZ3JPVLNRrRk6JoKkcMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-从程序员到-33-岁的亿万富翁-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14103&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5eQz5fQQwslR5JKyJdokSA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-聊聊风口上的-eBPF-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14102&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F343376492%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-Wi-Fi-6-与-5G-相比哪个更快？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14101&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F345147856%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-软件需求膨胀系数-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14100&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-requirement-expansivity%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-如何成为值得信赖的合作伙伴-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14099&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-trust%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-24-数据仓库项目中的数据建模和ETL日志体系-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14098&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-warehouse-modeling-etl%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,16 +1065,16 @@
 - [2021-01-24-Presto-运行时浅析](https://toutiao.io/k/q7scd09) ![](assets/new.png)  
 - [2021-01-24-Flutter-高性能、多功能的全场景滚动容器，一定要看](https://toutiao.io/k/y7gdnbv) ![](assets/new.png)  
 - [2021-01-24-纯-CSS-实现-React-Logo-图形，内含详细解析](https://toutiao.io/k/r0zp6fd) ![](assets/new.png)  
-- [2021-01-24-推荐-网络抓包大法好，tcpdump-和-Wireshark-少不了](https://toutiao.io/k/5ssh1zt) ![](assets/new.png)  
-- [2021-01-24-推荐-我竟然被-“双亲委派”-给虐了](https://toutiao.io/k/l9vnnm6) ![](assets/new.png)  
-- [2021-01-24-推荐-讲解-Zookeeper-的五个核心知识点](https://toutiao.io/k/te1s8su) ![](assets/new.png)  
-- [2021-01-24-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) ![](assets/new.png)  
-- [2021-01-24-推荐-可能是说的最分明的-IaaS,-PaaS,-FaaS,-SaaS,-MicroService,-Serverless-了](https://toutiao.io/k/p2q8xl8) ![](assets/new.png)  
 - [2021-01-24-推荐-Golang-最细节篇：struct{}-空结构体究竟是啥？](https://toutiao.io/k/xr4hfsr) ![](assets/new.png)  
-- [2021-01-24-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) ![](assets/new.png)  
-- [2021-01-24-推荐-Java-线程池总结](https://toutiao.io/k/4z3o5gw) ![](assets/new.png)  
+- [2021-01-24-推荐-2021-值得推荐的优质在线服务](https://toutiao.io/k/l2t22c8) ![](assets/new.png)  
 - [2021-01-24-推荐-2020-读过的好书推荐](https://toutiao.io/k/ocr2mmk) ![](assets/new.png)  
 - [2021-01-24-推荐-技术人如何加速成长？提升你的思维和学习方式](https://toutiao.io/k/kon8rtq) ![](assets/new.png)  
+- [2021-01-24-推荐-9-条消除-if...else-的锦囊妙计，助你写出更优雅的代码](https://toutiao.io/k/6o9uhdv) ![](assets/new.png)  
+- [2021-01-24-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) ![](assets/new.png)  
+- [2021-01-24-推荐-超越身边-80%-的人，其实没有你想象的那么难](https://toutiao.io/k/ns5biqo) ![](assets/new.png)  
+- [2021-01-24-推荐-三万字，Spark-学习笔记](https://toutiao.io/k/wjp0vit) ![](assets/new.png)  
+- [2021-01-24-推荐-闯过这-54-关，点亮你的-Git-技能树](https://toutiao.io/k/6kqnm2d) ![](assets/new.png)  
+- [2021-01-24-推荐-Spring-中那些让你爱不释手的代码技巧](https://toutiao.io/k/lev94mm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

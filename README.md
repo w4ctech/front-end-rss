@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-24 19:43:03，:rocket: 更新条数: +3673， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-24 20:24:02，:rocket: 更新条数: +3662， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)![](assets/dot.png)   
+- [物联网智库](#物联网智库)  
 
 ## 文章链接
 
@@ -96,6 +96,10 @@
 </summary>
 
 
+- [2021-01-24-1.24-|-吉林通化副市长就生活物资配送不及时道歉，哈尔滨-2-地调为中风险]() ![](assets/new.png)  
+- [2021-01-24-吉林-|-通化：生活物资按每户-5-天需求量供应蔬菜包](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQc5RSBQOEaEk2YtNAH5L210124&isfromapp=1) ![](assets/new.png)  
+- [2021-01-24-天津-|-新增-2-例确诊病例和-1-例无症状感染者，均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv5LZDPamwV9nA5Fa5jEh210124&isfromapp=1) ![](assets/new.png)  
+- [2021-01-24-吉林-|-关停酒吧、图书馆等场所，暂停各类人员聚集活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuRaDA4SregOYKhFwu4f7210124&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -351,6 +355,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -459,11 +473,6 @@
 </summary>
 
 
-- [2021-01-24-潮流前端周刊（第20期）--草海](https://juejin.im/post/6921320651122802701) ![](assets/new.png)  
-- [2021-01-23-使用FrameController.js优雅的处理单页多框架窗口（<iframe>）管理同步问题](https://juejin.im/post/6921223943219544078) ![](assets/new.png)  
-- [2021-01-23-一套标准的前端代码工作流](https://juejin.im/post/6921223155621036039) ![](assets/new.png)  
-- [2021-01-23-面向对象练习（函数的多种角色）](https://juejin.im/post/6921220036917608462) ![](assets/new.png)  
-- [2021-01-23-级联选择组件（一）](https://juejin.im/post/6921215988511817742) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -611,15 +620,15 @@
 - [2021-01-24-Presto-运行时浅析](https://toutiao.io/k/q7scd09) ![](assets/new.png)  
 - [2021-01-24-Flutter-高性能、多功能的全场景滚动容器，一定要看](https://toutiao.io/k/y7gdnbv) ![](assets/new.png)  
 - [2021-01-24-纯-CSS-实现-React-Logo-图形，内含详细解析](https://toutiao.io/k/r0zp6fd) ![](assets/new.png)  
-- [2021-01-24-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) ![](assets/new.png)  
-- [2021-01-24-推荐-可能是说的最分明的-IaaS,-PaaS,-FaaS,-SaaS,-MicroService,-Serverless-了](https://toutiao.io/k/p2q8xl8) ![](assets/new.png)  
-- [2021-01-24-推荐-面试官：能说一说-MySQL-缓存池吗？](https://toutiao.io/k/3e3cyll) ![](assets/new.png)  
-- [2021-01-24-推荐-技术人如何加速成长？提升你的思维和学习方式](https://toutiao.io/k/kon8rtq) ![](assets/new.png)  
-- [2021-01-24-推荐-如何成为快乐高产的程序员](https://toutiao.io/k/pfv4tyx) ![](assets/new.png)  
+- [2021-01-24-推荐-Spring-中这些能升华代码的技巧，可能会让你爱不释手](https://toutiao.io/k/d374mr5) ![](assets/new.png)  
+- [2021-01-24-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) ![](assets/new.png)  
 - [2021-01-24-推荐-三万字，Spark-学习笔记](https://toutiao.io/k/wjp0vit) ![](assets/new.png)  
-- [2021-01-24-推荐-换个角度，聊聊全链路压测](https://toutiao.io/k/46w7ldx) ![](assets/new.png)  
-- [2021-01-24-推荐-我竟然被-“双亲委派”-给虐了](https://toutiao.io/k/l9vnnm6) ![](assets/new.png)  
-- [2021-01-24-推荐-Java-线程池总结](https://toutiao.io/k/4z3o5gw) ![](assets/new.png)  
+- [2021-01-24-推荐-2021-值得推荐的优质在线服务](https://toutiao.io/k/l2t22c8) ![](assets/new.png)  
+- [2021-01-24-推荐-可能是说的最分明的-IaaS,-PaaS,-FaaS,-SaaS,-MicroService,-Serverless-了](https://toutiao.io/k/p2q8xl8) ![](assets/new.png)  
+- [2021-01-24-推荐-如何成为快乐高产的程序员](https://toutiao.io/k/pfv4tyx) ![](assets/new.png)  
+- [2021-01-24-推荐-使用了这个神器，让我的代码-bug-少了一半](https://toutiao.io/k/w8zvjee) ![](assets/new.png)  
+- [2021-01-24-推荐-我的-2020-年阅读书单](https://toutiao.io/k/e83kg1a) ![](assets/new.png)  
+- [2021-01-24-推荐-讲解-Zookeeper-的五个核心知识点](https://toutiao.io/k/te1s8su) ![](assets/new.png)  
 - [2021-01-24-推荐-Golang-最细节篇：struct{}-空结构体究竟是啥？](https://toutiao.io/k/xr4hfsr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
@@ -663,26 +672,6 @@
 </summary>
 
 
-- [2021-01-21-开源：物联网发展的“中场战事”丨物深度004](https://www.ershicimi.com/p/7e85843e75cd8b77304257d41644e516) ![](assets/new.png)  
-- [2021-01-21-AIoT产业全景图谱系列解读（三）|“管”侧持续探索，连接能力成物联网发展助推剂！](https://www.ershicimi.com/p/db60803bdaf9f325cb50e504ce310aa1) ![](assets/new.png)  
-- [2021-01-21-2021年，谁发现了边缘计算的赚钱生意？](https://www.ershicimi.com/p/ac83293c8035d18ef7494396adcbbb91) ![](assets/new.png)  
-- [2021-01-20-浙江或诞生第二所“西湖大学”！中国芯片首富斥资200亿建“东方理工大学”……](https://www.ershicimi.com/p/7c42402c54440b73949d082ac5d0209e) ![](assets/new.png)  
-- [2021-01-20-​AIoT产业全景图谱系列解读（二）|能力下沉，边缘智能全面赋能低时延场景](https://www.ershicimi.com/p/a581461e523f266fc28e8c62bc731934) ![](assets/new.png)  
-- [2021-01-20-美的IoT入选2020年度产业领袖系列榜单之融合新基建榜单](https://www.ershicimi.com/p/1fd6d0e661c8d14de20c954a82515a24) ![](assets/new.png)  
-- [2021-01-20-募资200亿加码物联网，京东方能成吗？](https://www.ershicimi.com/p/b7597231b6aa97363d5bcf49b73b3623) ![](assets/new.png)  
-- [2021-01-19-特朗普任期最后一天也“背锅”！他要对全球车企芯片大短缺负责吗？](https://www.ershicimi.com/p/e862f0e20cc3d7156881fd3ad5a39184) ![](assets/new.png)  
-- [2021-01-19-AIoT产业全景图谱系列解读（一）|“端”侧玩家接棒，物联网终端井喷！](https://www.ershicimi.com/p/cabc1ddd14208a5a549dab3732163561) ![](assets/new.png)  
-- [2021-01-19-广电的700M为什么被称为黄金频段？](https://www.ershicimi.com/p/a7a04b8e9931f6b9a7333e804548c910) ![](assets/new.png)  
-- [2021-01-19-从0G到5G，移动通信的百年沉浮](https://www.ershicimi.com/p/04740667e2159131c5d13eb1da531eee) ![](assets/new.png)  
-- [2021-01-18-Cat.1在2021年还能再火一年吗？](https://www.ershicimi.com/p/12b32d5725d2166799b7977cdb15a3c1) ![](assets/new.png)  
-- [2021-01-18-魅族在智能家居领域高调卷土重来，这一次能成吗？](https://www.ershicimi.com/p/fbff6675386037711f6c2243a36be5db) ![](assets/new.png)  
-- [2021-01-18-特朗普对华为最后一击！暂停-Intel-供货华为，吊销-4-家公司的-8-份许可证](https://www.ershicimi.com/p/e4eb236411f52bee4d57ba69ea4927c1) ![](assets/new.png)  
-- [2021-01-17-工业互联网，高光之下的冰火两重天【物女心经】](https://www.ershicimi.com/p/9c2da6959a40aa79630142bdf908c650) ![](assets/new.png)  
-- [2021-01-17-信息新基建榜单重磅发布！底层技术如何赋能产业应用？](https://www.ershicimi.com/p/a7ddc7d01c5ce8d560071309bf4afca5) ![](assets/new.png)  
-- [2021-01-17-物联网投融资周报|高通拟14亿美元收购芯片公司Nuvia；节卡机器人完成超3亿元融资；大地量子完成A](https://www.ershicimi.com/p/5068a57e2bb9bc80fd294ccc728e1128) ![](assets/new.png)  
-- [2021-01-16-工业互联网重磅纲领性文件出炉，但促发展的钱从哪里来？](https://www.ershicimi.com/p/1d0ba98017aad92d8ee582891eb1d1a6) ![](assets/new.png)  
-- [2021-01-16-AIoT企业新锐榜重磅发布！哪些企业洞见未来并成长最快？](https://www.ershicimi.com/p/c2b49c29a4d386cddf9adb98634f7f3b) ![](assets/new.png)  
-- [2021-01-15-突发！小米、中国商飞、中微半导体等9家企业被美拉黑，特朗普誓将疯狂进行到底](https://www.ershicimi.com/p/2e041822db81b60fb3856a3865206164) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

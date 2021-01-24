@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-24 08:34:12，:rocket: 更新条数: +4138， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-24 09:07:29，:rocket: 更新条数: +4132， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -96,10 +96,6 @@
 </summary>
 
 
-- [2021-01-24-江苏-|-镇江一人核酸阳性，系之前境外输入确诊病例的父亲](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEeM72a5MWL9kl1zj4V4C210124&isfromapp=1) ![](assets/new.png)  
-- [2021-01-24-吉林-|-关停酒吧、图书馆等场所，暂停各类人员聚集活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuRaDA4SregOYKhFwu4f7210124&isfromapp=1) ![](assets/new.png)  
-- [2021-01-24-吉林-|-通化副市长就生活物资配送不及时道歉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigPs9idQQ8a0MgUUKeKxu210124&isfromapp=1) ![](assets/new.png)  
-- [2021-01-24-黑龙江-|-哈尔滨新增无症状感染者-15-例，均为正大公司员工](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVNOyIykcwA6DKBUMaDwp210124&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1013,6 +1009,12 @@
 </summary>
 
 
+- [2021-01-24-Evernote-笔记页面无法打开](https://www.v2ex.com/t/747902) ![](assets/new.png)  
+- [2021-01-24-快手-移动端基础架构新坑，对标-Google-和-FB-的轮子部门，专业造效率轮子，不内卷不加班！](https://www.v2ex.com/t/747901) ![](assets/new.png)  
+- [2021-01-24-光猫桥接](https://www.v2ex.com/t/747900) ![](assets/new.png)  
+- [2021-01-24-函数式编程有没有什么经典，系统的书可以学习](https://www.v2ex.com/t/747899) ![](assets/new.png)  
+- [2021-01-24-离线语音识别方案](https://www.v2ex.com/t/747897) ![](assets/new.png)  
+- [2021-01-24-什么是「业务」？](https://www.v2ex.com/t/747895) ![](assets/new.png)  
 - [2021-01-24-大佬们求一个-webpack-的打包模板](https://www.v2ex.com/t/747893) ![](assets/new.png)  
 - [2021-01-24-迫于双亲办公硬件需求，请教一下各位](https://www.v2ex.com/t/747892) ![](assets/new.png)  
 - [2021-01-24-一般出国留学是本科留学还是烟酒生呢？各位大佬](https://www.v2ex.com/t/747890) ![](assets/new.png)  
@@ -1027,12 +1029,6 @@
 - [2021-01-24-求分享一些美女图-rss-源](https://www.v2ex.com/t/747876) ![](assets/new.png)  
 - [2021-01-24-草木皆兵？腾讯微云提示-JQuery-文件“内容可能违法相关法规”不还我文件了](https://www.v2ex.com/t/747875) ![](assets/new.png)  
 - [2021-01-24-网易-CBG-内推-广州-社招内推，-各岗位都有，年前面试年后入职](https://www.v2ex.com/t/747874) ![](assets/new.png)  
-- [2021-01-24-招聘-React-Native-2-人，可-Remote，可落地苏州](https://www.v2ex.com/t/747870) ![](assets/new.png)  
-- [2021-01-24-请问-DNS-查询服务一般需要占用多少宽带？](https://www.v2ex.com/t/747869) ![](assets/new.png)  
-- [2021-01-24-微信直播那味儿太足了，土，-low，俗](https://www.v2ex.com/t/747868) ![](assets/new.png)  
-- [2021-01-24-Macbook-pro-16-inch-电池健康急剧下降](https://www.v2ex.com/t/747867) ![](assets/new.png)  
-- [2021-01-24-“读典籍”：文白对照、交互式注释读古书](https://www.v2ex.com/t/747866) ![](assets/new.png)  
-- [2021-01-24-一直想问了，六字真言究竟什么意思？](https://www.v2ex.com/t/747865) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,16 +1081,16 @@
 - [2021-01-24-Presto-运行时浅析](https://toutiao.io/k/q7scd09) ![](assets/new.png)  
 - [2021-01-24-Flutter-高性能、多功能的全场景滚动容器，一定要看](https://toutiao.io/k/y7gdnbv) ![](assets/new.png)  
 - [2021-01-24-纯-CSS-实现-React-Logo-图形，内含详细解析](https://toutiao.io/k/r0zp6fd) ![](assets/new.png)  
-- [2021-01-24-推荐-三万字，Spark-学习笔记](https://toutiao.io/k/wjp0vit) ![](assets/new.png)  
-- [2021-01-24-推荐-技术人如何加速成长？提升你的思维和学习方式](https://toutiao.io/k/kon8rtq) ![](assets/new.png)  
-- [2021-01-24-推荐-2020-读过的好书推荐](https://toutiao.io/k/ocr2mmk) ![](assets/new.png)  
-- [2021-01-24-推荐-Java-线程池总结](https://toutiao.io/k/4z3o5gw) ![](assets/new.png)  
-- [2021-01-24-推荐-讲解-Zookeeper-的五个核心知识点](https://toutiao.io/k/te1s8su) ![](assets/new.png)  
-- [2021-01-24-推荐-Spring-中那些让你爱不释手的代码技巧](https://toutiao.io/k/lev94mm) ![](assets/new.png)  
+- [2021-01-24-推荐-Spring-中这些能升华代码的技巧，可能会让你爱不释手](https://toutiao.io/k/d374mr5) ![](assets/new.png)  
 - [2021-01-24-推荐-换个角度，聊聊全链路压测](https://toutiao.io/k/46w7ldx) ![](assets/new.png)  
-- [2021-01-24-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) ![](assets/new.png)  
-- [2021-01-24-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) ![](assets/new.png)  
-- [2021-01-24-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) ![](assets/new.png)  
+- [2021-01-24-推荐-2020-读过的好书推荐](https://toutiao.io/k/ocr2mmk) ![](assets/new.png)  
+- [2021-01-24-推荐-2021-值得推荐的优质在线服务](https://toutiao.io/k/l2t22c8) ![](assets/new.png)  
+- [2021-01-24-推荐-Spring-中那些让你爱不释手的代码技巧](https://toutiao.io/k/lev94mm) ![](assets/new.png)  
+- [2021-01-24-推荐-9-条消除-if...else-的锦囊妙计，助你写出更优雅的代码](https://toutiao.io/k/6o9uhdv) ![](assets/new.png)  
+- [2021-01-24-推荐-如何成为快乐高产的程序员](https://toutiao.io/k/pfv4tyx) ![](assets/new.png)  
+- [2021-01-24-推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie) ![](assets/new.png)  
+- [2021-01-24-推荐-Golang-最细节篇：struct{}-空结构体究竟是啥？](https://toutiao.io/k/xr4hfsr) ![](assets/new.png)  
+- [2021-01-24-推荐-可能是说的最分明的-IaaS,-PaaS,-FaaS,-SaaS,-MicroService,-Serverless-了](https://toutiao.io/k/p2q8xl8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

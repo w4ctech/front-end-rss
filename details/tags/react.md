@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-24 08:34:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-24 09:07:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -48,6 +48,4 @@
 - [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) 
 - [2021-01-24-招聘-React-Native-2-人，可-Remote，可落地苏州](https://www.v2ex.com/t/747870) 
 - [2021-01-24-远程，落地均可-React-Native-,-Nodejs-自研物流项目，坐标苏，沪](https://www.v2ex.com/t/747864) 
-- [2021-01-24-物流项目招-React-Native-，及-Nodejs,-Remote-或全职苏州均可](https://www.v2ex.com/t/747849) 
-- [2021-01-24-物流项目招-React-Native-，-Remote-或全职苏州均可](https://www.v2ex.com/t/747846) 
 - [2021-01-24-纯-CSS-实现-React-Logo-图形，内含详细解析](https://toutiao.io/k/r0zp6fd) 

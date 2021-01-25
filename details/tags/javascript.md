@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-25 09:41:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-25 10:12:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -54,6 +54,7 @@
 - [2020-12-24-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) 
 - [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
 - [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-11-05-EaseJs-中-regX-/-regY-的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) 
 - [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) 
 - [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) 
@@ -100,7 +101,10 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-01-25-闭包可以引用其外部函数的局部变量和参数](https://www.v2ex.com/t/748241) 
+- [2021-01-25-Python-async/await-的协程-怎么取到返回值呢？](https://www.v2ex.com/t/748234) 
 - [2021-01-25-颜色处理之-color.js](https://www.v2ex.com/t/748232) 
+- [2021-01-25-【安全热点周报】第178期:WebLogic多个组件高危漏洞部分漏洞细节...](https://sec.thief.one/article_content?a_id=44eeaa32ffbd11a17a1eb407aff426f5) 
 - [2021-01-24-BUF大事件丨Win10出现严重蓝屏漏洞;PC版QQ读取用户浏览记录](https://sec.thief.one/article_content?a_id=e3cedcde5dfe65896014c143497d6c59) 
 - [2021-01-22-【公告】JSRC-十二月月度英雄榜](https://sec.thief.one/article_content?a_id=da090026d29cb42b401da77dfd93a8c4) 
 - [2021-01-24-2020年全球物联网10大事件盘点，其中透露了哪些信号?【物女心经】](https://www.ershicimi.com/p/24b73a8b60945d835ed003eb9f370663) 

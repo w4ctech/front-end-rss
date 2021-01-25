@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-25 09:41:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-25 10:12:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -25,7 +25,5 @@
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-01-25-为什么爱奇艺会员比腾讯优酷贵，哪个视频网站的会员值得买](https://www.v2ex.com/t/748220) 
-- [2021-01-25-有没有一款带有实时翻译功能的视频播放器？](https://www.v2ex.com/t/748188) 
-- [2021-01-25-有没有-m3u8-格式的视频下载器？？](https://www.v2ex.com/t/748184) 
 - [2021-01-25-【视频】|-Python:函数嵌套调用](https://sec.thief.one/article_content?a_id=978aa3453d5409d5a86380423cca5f69) 
 - [2021-01-22-【视频】|-网络安全意识培训](https://sec.thief.one/article_content?a_id=2e48cfbeba2bb3e076e68974c64d74c3) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-25 14:21:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-25 14:29:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,6 +28,14 @@
 - [2021-01-22-云原生带来的云安全领域变化-|-活动推荐](https://www.ershicimi.com/p/2bf7f7494361b6638ae82b2a31ef67a3) 
 - [2021-01-15-Shopify如何在浏览器之外使用WebAssembly？](https://www.ershicimi.com/p/8a0a2bc7e621d6e5e18ef5bfabc8fed4) 
 - [2021-01-19-用-HTTPS-就安全了？HTTPS-会被抓包吗？](https://www.ershicimi.com/p/e0f1241f5dd074ce6e8bfef8703de879) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
@@ -39,7 +47,6 @@
 - [2021-01-25-从浏览器原理谈EventLoop与微任务宏任务](https://juejin.im/post/6921638355214008334) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-25-k8s-client-go-源码剖析（一）](https://toutiao.io/k/gfirkqf) 
-- [2021-01-25-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
 - [2021-01-25-新锐-|-雾帜智能傅奎:以提升安全人员幸福感为创业使命](https://sec.thief.one/article_content?a_id=17f155df102ff5535bcf4e299bedc04f) 
 - [2021-01-25-破坏Windows-Defender应用程序的控制功能——安全研究案例](https://sec.thief.one/article_content?a_id=af9c9f2b1ef5201dc5d134854c674218) 
 - [2021-01-25-每日安全动态推送01-25](https://sec.thief.one/article_content?a_id=9c963e30bf153f0a6f55aa1290cf684e) 

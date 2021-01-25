@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-25 04:20:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-25 04:45:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -82,7 +82,6 @@
 - [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
-- [2021-01-15-闲庭信步聊前端---揭开视频直播神秘面纱](https://www.ershicimi.com/p/e61fe653b58e07c85463290c83861b48) 
 - [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) 
 - [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 

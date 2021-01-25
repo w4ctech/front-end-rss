@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-25 15:09:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-25 15:55:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -14,5 +14,6 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2021-01-25-分布式一致性-Paxos-算法原理与推导-疑问](https://www.v2ex.com/t/748328) 
 - [2021-01-25-由-Mastodon-想到，问答网站也可以分布式](https://www.v2ex.com/t/748324) 
 - [2021-01-25-两次霸榜GitHub!这个神器不写代码也可以完成AI算法训练](https://sec.thief.one/article_content?a_id=6b2049377a0d4a892222ddefc50585b5) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-25 11:11:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-25 11:39:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -9,8 +9,6 @@
 
 - [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) 
 - [2021-01-12-几幅图，拿下-HTTPS](https://www.ershicimi.com/p/32e692a515d5a651cae00bdc707bcf9e) 
-- [2021-01-15-卧槽！字节跳动《算法中文手册》火了，完整版-PDF-开放下载！](https://www.ershicimi.com/p/ea4939e73a14cdf1160ee10a43622df0) 
-- [2021-01-13-《图解-HTTP》读书笔记](https://www.ershicimi.com/p/448f4ef10f80eed1614cc5a605618b8f) 
 - [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/) 
 - [2017-04-11-GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/) 
 - [2016-12-08-vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/) 

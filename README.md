@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-25 11:39:58，:rocket: 更新条数: +979， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-25 12:01:13，:rocket: 更新条数: +4162， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-01-25-最新疫情：全国新冠累计确诊89115例-本土病例新增117例](https://m.caixin.com/m/2021-01-25/101655532.html) ![](assets/new.png)  
+- [2021-01-25-通化市新冠感染者达246人-人力紧缺致生活物资配送难](https://m.caixin.com/m/2021-01-25/101655322.html) ![](assets/new.png)  
+- [2021-01-25-火线评论|通化疫情防控教训为各地敲响警钟](http://m.opinion.caixin.com/m/2021-01-25/101655402.html) ![](assets/new.png)  
+- [2021-01-25-最新海外疫情：新冠感染超9909万-累计死亡超212万](https://m.caixin.com/m/2021-01-25/101655536.html) ![](assets/new.png)  
+- [2021-01-25-上海本地24日新增新冠确诊1例-常住黄浦区](https://m.caixin.com/m/2021-01-25/101655121.html) ![](assets/new.png)  
+- [2021-01-25-北京本地24日新增新冠确诊3例-均在大兴融汇社区](https://m.caixin.com/m/2021-01-25/101655115.html) ![](assets/new.png)  
+- [2021-01-25-吉林24日新增新冠确诊67例-其中通化56例](https://m.caixin.com/m/2021-01-25/101655112.html) ![](assets/new.png)  
+- [2021-01-25-黑龙江24日新增新冠确诊35例-无症状感染者20例](https://m.caixin.com/m/2021-01-25/101655109.html) ![](assets/new.png)  
+- [2021-01-25-【境内疫情观察】全国现有重症病例超百例（1月24日）](http://m.database.caixin.com/m/2021-01-25/101655303.html) ![](assets/new.png)  
+- [2021-01-25-欧盟多国新冠疫苗供应延误-以色列青少年纳入接种计划|大流行手记（1月24日）](https://m.caixin.com/m/2021-01-25/101655142.html) ![](assets/new.png)  
+- [2021-01-24-北京西城区一人初筛新冠阳性-不排除复阳可能](https://m.caixin.com/m/2021-01-24/101655051.html) ![](assets/new.png)  
+- [2021-01-24-北京疾控：建议市民在京过春节](https://m.caixin.com/m/2021-01-24/101655019.html) ![](assets/new.png)  
+- [2021-01-24-1月23日河北19例新冠确诊病例轨迹公布](https://m.caixin.com/m/2021-01-24/101654949.html) ![](assets/new.png)  
+- [2021-01-24-1月23日河北本地新增新冠19例-石家庄17例邢台2例](https://m.caixin.com/m/2021-01-24/101654944.html) ![](assets/new.png)  
+- [2021-01-24-1月23日全国新增新冠80例-其中本土65例](https://m.caixin.com/m/2021-01-24/101654921.html) ![](assets/new.png)  
+- [2021-01-24-1月23日吉林本地新增新冠确诊12例-无症状感染者29例](https://m.caixin.com/m/2021-01-24/101654915.html) ![](assets/new.png)  
+- [2021-01-24-1月23日北京新增本地新冠2例-分别在大兴融汇、云立方社区](https://m.caixin.com/m/2021-01-24/101654912.html) ![](assets/new.png)  
+- [2021-01-24-1月23日上海新增本地新冠确诊3例-均常住黄浦区](https://m.caixin.com/m/2021-01-24/101654909.html) ![](assets/new.png)  
+- [2021-01-24-1月23日黑龙江新增新冠确诊病例29例-无症状感染者51例](https://m.caixin.com/m/2021-01-24/101654906.html) ![](assets/new.png)  
+- [2021-01-24-【境内疫情观察】全国现有本土病例1502例（1月23日）](http://m.database.caixin.com/m/2021-01-24/101654978.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -993,6 +1013,12 @@
 </summary>
 
 
+- [2021-01-25-快手的小程序注册要的个人信息太离谱了吧](https://www.v2ex.com/t/748272) ![](assets/new.png)  
+- [2021-01-25-（北京）因为要回老家，今天去做了核酸检测，排队的人很多](https://www.v2ex.com/t/748271) ![](assets/new.png)  
+- [2021-01-25-快手-深圳-策略算法实习生](https://www.v2ex.com/t/748270) ![](assets/new.png)  
+- [2021-01-25-TB-上-Mikrotik-prepaid-key-的"CHR"-sku-貌似是智商税？](https://www.v2ex.com/t/748269) ![](assets/new.png)  
+- [2021-01-25-你糟糕的绩效评分是因为上司无能、妒才和虚伪时，你怎么办？](https://www.v2ex.com/t/748268) ![](assets/new.png)  
+- [2021-01-25-认筹了武汉绿地的房子...-有了解这个楼盘的武汉老哥吗](https://www.v2ex.com/t/748267) ![](assets/new.png)  
 - [2021-01-25-远程共享盘？](https://www.v2ex.com/t/748263) ![](assets/new.png)  
 - [2021-01-25-建站-VPS-求推荐](https://www.v2ex.com/t/748261) ![](assets/new.png)  
 - [2021-01-25-最近买哪款手机比较好？](https://www.v2ex.com/t/748260) ![](assets/new.png)  
@@ -1007,12 +1033,6 @@
 - [2021-01-25-关于返乡的思考](https://www.v2ex.com/t/748246) ![](assets/new.png)  
 - [2021-01-25-因返乡带来的核酸检测市场，现在入场医疗股算韭精中毒吗？](https://www.v2ex.com/t/748245) ![](assets/new.png)  
 - [2021-01-25-为远程办公团队设计了语音优先的沟通工具，开始早期测试啦](https://www.v2ex.com/t/748244) ![](assets/new.png)  
-- [2021-01-25-有知乎的替代品吗](https://www.v2ex.com/t/748243) ![](assets/new.png)  
-- [2021-01-25-有没有大佬来介绍一下-vue3，现在能用了吗？](https://www.v2ex.com/t/748242) ![](assets/new.png)  
-- [2021-01-25-闭包可以引用其外部函数的局部变量和参数](https://www.v2ex.com/t/748241) ![](assets/new.png)  
-- [2021-01-25-上海内推招前端工程师-薪资范围-12-18K](https://www.v2ex.com/t/748240) ![](assets/new.png)  
-- [2021-01-25-Java-Asm-修改-jdk-源码中的-ThreadPoolExecutor-execute-不能引入-不是-jdk-的包下的类吗？](https://www.v2ex.com/t/748239) ![](assets/new.png)  
-- [2021-01-25-Swisse-是智商税吗？](https://www.v2ex.com/t/748235) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1073,8 +1093,8 @@
 - [2021-01-25-Tailwindcss-尤大神都-fork-了，是未来的趋势？](https://toutiao.io/k/9mbwzev) ![](assets/new.png)  
 - [2021-01-25-质量保障新手段，携程回归测试平台实践](https://toutiao.io/k/xuznrxh) ![](assets/new.png)  
 - [2021-01-25-简单示例说明-kube-proxy-如何与-iptables-配合使用](https://toutiao.io/k/jsawfs8) ![](assets/new.png)  
-- [2021-01-25-Bazel-使用经验和记录（bazel-rules-开发爬坑入门）](https://toutiao.io/k/o0n0j1e) ![](assets/new.png)  
 - [2021-01-25-图文并茂！微服务流控防护场景与应对措施](https://toutiao.io/k/0h4h9g7) ![](assets/new.png)  
+- [2021-01-25-Bazel-使用经验和记录（bazel-rules-开发爬坑入门）](https://toutiao.io/k/o0n0j1e) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

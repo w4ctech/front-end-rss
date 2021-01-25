@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-25 10:42:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-25 11:11:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -113,7 +113,6 @@
 - [2021-01-19-数数FastJson那些年犯下的'血案'...](https://www.ershicimi.com/p/478efa9b21e83ec17a7f05e4b0bab5c3) 
 - [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？](https://www.ershicimi.com/p/27033dcdf27caaae7012a928c62ea0ea) 
 - [2021-01-25-javascript内存机制](https://juejin.im/post/6921604686508195854) 
-- [2021-01-24-一文理解javascript中的call、apply-和-bind](https://juejin.im/post/6921598555417214984) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -123,6 +122,8 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-01-25-关于机顶盒和分布式路由器的一些问题，先感谢诸位-v2er](https://www.v2ex.com/t/748256) 
+- [2021-01-25-可扩展接口协议设计-自定义-schema/Json-配置化？](https://www.v2ex.com/t/748255) 
 - [2021-01-25-闭包可以引用其外部函数的局部变量和参数](https://www.v2ex.com/t/748241) 
 - [2021-01-25-Python-async/await-的协程-怎么取到返回值呢？](https://www.v2ex.com/t/748234) 
 - [2021-01-25-颜色处理之-color.js](https://www.v2ex.com/t/748232) 

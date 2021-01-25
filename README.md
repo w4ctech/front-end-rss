@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-25 10:42:32，:rocket: 更新条数: +4166， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-25 11:11:10，:rocket: 更新条数: +4163， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,16 +65,16 @@
 </summary>
 
 
-- [2021-01-25-1月24日全国新增新冠确诊124例-本土117例](https://m.caixin.com/m/2021-01-25/101655125.html) ![](assets/new.png)  
+- [2021-01-25-最新疫情：全国新冠累计确诊89115例-本土病例新增117例](https://m.caixin.com/m/2021-01-25/101655532.html) ![](assets/new.png)  
 - [2021-01-25-通化市新冠感染者达246人-人力紧缺致生活物资配送难](https://m.caixin.com/m/2021-01-25/101655322.html) ![](assets/new.png)  
 - [2021-01-25-火线评论|通化疫情防控教训为各地敲响警钟](http://m.opinion.caixin.com/m/2021-01-25/101655402.html) ![](assets/new.png)  
+- [2021-01-25-最新海外疫情：新冠感染超9909万-累计死亡超212万](https://m.caixin.com/m/2021-01-25/101655536.html) ![](assets/new.png)  
 - [2021-01-25-上海本地24日新增新冠确诊1例-常住黄浦区](https://m.caixin.com/m/2021-01-25/101655121.html) ![](assets/new.png)  
 - [2021-01-25-北京本地24日新增新冠确诊3例-均在大兴融汇社区](https://m.caixin.com/m/2021-01-25/101655115.html) ![](assets/new.png)  
 - [2021-01-25-吉林24日新增新冠确诊67例-其中通化56例](https://m.caixin.com/m/2021-01-25/101655112.html) ![](assets/new.png)  
 - [2021-01-25-黑龙江24日新增新冠确诊35例-无症状感染者20例](https://m.caixin.com/m/2021-01-25/101655109.html) ![](assets/new.png)  
 - [2021-01-25-【境内疫情观察】全国现有重症病例超百例（1月24日）](http://m.database.caixin.com/m/2021-01-25/101655303.html) ![](assets/new.png)  
 - [2021-01-25-欧盟多国新冠疫苗供应延误-以色列青少年纳入接种计划|大流行手记（1月24日）](https://m.caixin.com/m/2021-01-25/101655142.html) ![](assets/new.png)  
-- [2021-01-24-最新海外疫情：新冠感染超9864万-累计死亡超211万](https://m.caixin.com/m/2021-01-24/101655022.html) ![](assets/new.png)  
 - [2021-01-24-北京西城区一人初筛新冠阳性-不排除复阳可能](https://m.caixin.com/m/2021-01-24/101655051.html) ![](assets/new.png)  
 - [2021-01-24-北京疾控：建议市民在京过春节](https://m.caixin.com/m/2021-01-24/101655019.html) ![](assets/new.png)  
 - [2021-01-24-1月23日河北19例新冠确诊病例轨迹公布](https://m.caixin.com/m/2021-01-24/101654949.html) ![](assets/new.png)  
@@ -893,11 +893,11 @@
 </summary>
 
 
+- [2021-01-25-关于双列瀑布流布局的优化思考](https://juejin.im/post/6921636695423057933) ![](assets/new.png)  
 - [2021-01-25-javascript内存机制](https://juejin.im/post/6921604686508195854) ![](assets/new.png)  
 - [2021-01-25-Rust语言开源杂志（2021）](https://juejin.im/post/6921604693281996814) ![](assets/new.png)  
 - [2021-01-24-前端埋点、无埋点](https://juejin.im/post/6921602132928167949) ![](assets/new.png)  
 - [2021-01-24-CSS定位position](https://juejin.im/post/6921600028821684237) ![](assets/new.png)  
-- [2021-01-24-一文理解javascript中的call、apply-和-bind](https://juejin.im/post/6921598555417214984) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1013,6 +1013,12 @@
 </summary>
 
 
+- [2021-01-25-最近买哪款手机比较好？](https://www.v2ex.com/t/748260) ![](assets/new.png)  
+- [2021-01-25-懂电脑硬件的老哥帮个忙](https://www.v2ex.com/t/748259) ![](assets/new.png)  
+- [2021-01-25-关于机顶盒和分布式路由器的一些问题，先感谢诸位-v2er](https://www.v2ex.com/t/748256) ![](assets/new.png)  
+- [2021-01-25-可扩展接口协议设计-自定义-schema/Json-配置化？](https://www.v2ex.com/t/748255) ![](assets/new.png)  
+- [2021-01-25-蚂蚁金服-北京和杭州部门急招-Java-~-可以年前面试，年后入职](https://www.v2ex.com/t/748253) ![](assets/new.png)  
+- [2021-01-25-字节跳动友情推](https://www.v2ex.com/t/748252) ![](assets/new.png)  
 - [2021-01-25-iOS-不越狱有没有类似-web-F12-的界面调试工具](https://www.v2ex.com/t/748249) ![](assets/new.png)  
 - [2021-01-25-爱彼迎中国研发团队直招](https://www.v2ex.com/t/748248) ![](assets/new.png)  
 - [2021-01-25-除了-pdf-还有什么格式是可以在微信内-“多图浏览”-的？](https://www.v2ex.com/t/748247) ![](assets/new.png)  
@@ -1027,12 +1033,6 @@
 - [2021-01-25-Swisse-是智商税吗？](https://www.v2ex.com/t/748235) ![](assets/new.png)  
 - [2021-01-25-Python-async/await-的协程-怎么取到返回值呢？](https://www.v2ex.com/t/748234) ![](assets/new.png)  
 - [2021-01-25-武汉-上市公司-招.net-core-架构师-薪资范围-18-25K](https://www.v2ex.com/t/748233) ![](assets/new.png)  
-- [2021-01-25-颜色处理之-color.js](https://www.v2ex.com/t/748232) ![](assets/new.png)  
-- [2021-01-25-武汉-上市公司-招.net-core-开发工程师-薪资范围-12-18K](https://www.v2ex.com/t/748231) ![](assets/new.png)  
-- [2021-01-25-请教一个-AtomicBoolean-与-volatile-的问题](https://www.v2ex.com/t/748230) ![](assets/new.png)  
-- [2021-01-25-除了使用杀毒软件外，如何防护-QQ-等程序对隐私数据的读取？](https://www.v2ex.com/t/748229) ![](assets/new.png)  
-- [2021-01-25-如何筛选出今日头条用户中的中小学教师群体呢？](https://www.v2ex.com/t/748227) ![](assets/new.png)  
-- [2021-01-25-上海-外企-Afterpay-Risk-Team-招人啦](https://www.v2ex.com/t/748225) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,8 +1087,8 @@
 - [2021-01-25-WACV-2021-论文大盘点：人脸技术篇](https://toutiao.io/k/famp74s) ![](assets/new.png)  
 - [2021-01-25-抖音-Android-性能优化系列：新一代全能型性能分析工具-Rhea](https://toutiao.io/k/p99i0mc) ![](assets/new.png)  
 - [2021-01-25-抓取-Grafana-Panel-视图](https://toutiao.io/k/7sc9z1x) ![](assets/new.png)  
-- [2021-01-25-区块链联盟链-PlatONE-Wasm-合约开发深入详解](https://toutiao.io/k/cl244fm) ![](assets/new.png)  
 - [2021-01-25-一天狂揽-3000-Star！程序员考公指南登上-GitHub-热榜](https://toutiao.io/k/ylin9fg) ![](assets/new.png)  
+- [2021-01-25-区块链联盟链-PlatONE-Wasm-合约开发深入详解](https://toutiao.io/k/cl244fm) ![](assets/new.png)  
 - [2021-01-25-Linkis-0.11.0-版本发布](https://toutiao.io/k/lzoz9a5) ![](assets/new.png)  
 - [2021-01-25-Tailwindcss-尤大神都-fork-了，是未来的趋势？](https://toutiao.io/k/9mbwzev) ![](assets/new.png)  
 - [2021-01-25-质量保障新手段，携程回归测试平台实践](https://toutiao.io/k/xuznrxh) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-25 12:58:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-25 13:29:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -28,8 +28,11 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-01-20-知乎面试官：为什么不建议在-MySQL-中使用-UTF-8？](https://www.ershicimi.com/p/39aaedc1e88f0fdd8432a185332e9684) 
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
+- [2021-01-25-实习-内推-阿里云-云原生中间件团队-2022-届春季实习⽣招聘](https://www.v2ex.com/t/748294) 
+- [2021-01-25-招聘前端开发工程师-15k-20k-/上海-/-经验-3-5-年-/-本科及以上-/-全职-电商前端开发-Web-前端](https://www.v2ex.com/t/748293) 
 - [2021-01-25-社招，阿里巴巴盒马鲜生-核心部门物流仓储招聘啦，-XDM-速速来撩](https://www.v2ex.com/t/748278) 
 - [2021-01-25-蚂蚁金服-北京和杭州部门急招-Java-~-可以年前面试，年后入职](https://www.v2ex.com/t/748253) 
+- [2021-01-25-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) 
 - [2021-01-25-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) 
 - [2021-01-23-牛聘|2020年度岗位招聘第17期](https://sec.thief.one/article_content?a_id=8f5305fb70ad607190900105581382f8) 
 - [2021-01-23-这边招聘了解一下?](https://sec.thief.one/article_content?a_id=bfea3e1790f4264b229ab65f3cf20e4b) 

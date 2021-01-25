@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-25 16:08:39，:rocket: 更新条数: +728， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-25 16:31:33，:rocket: 更新条数: +3919， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-01-25-最新疫情：全国新冠累计确诊89115例-本土病例新增117例](https://m.caixin.com/m/2021-01-25/101655532.html) ![](assets/new.png)  
+- [2021-01-25-哈尔滨一农牧龙头企业关联新冠感染者破百-产品已下架](https://m.caixin.com/m/2021-01-25/101655630.html) ![](assets/new.png)  
+- [2021-01-25-通化市新冠感染者达246人-人力紧缺致生活物资配送难](https://m.caixin.com/m/2021-01-25/101655322.html) ![](assets/new.png)  
+- [2021-01-25-火线评论|通化疫情防控教训为各地敲响警钟](http://m.opinion.caixin.com/m/2021-01-25/101655402.html) ![](assets/new.png)  
+- [2021-01-25-最新海外疫情：新冠感染超9909万-累计死亡超212万](https://m.caixin.com/m/2021-01-25/101655536.html) ![](assets/new.png)  
+- [2021-01-25-河北本地24日新增新冠确诊11例-石家庄7例邢台4例（附轨迹）](https://m.caixin.com/m/2021-01-25/101655134.html) ![](assets/new.png)  
+- [2021-01-25-上海本地24日新增新冠确诊1例-常住黄浦区](https://m.caixin.com/m/2021-01-25/101655121.html) ![](assets/new.png)  
+- [2021-01-25-北京本地24日新增新冠确诊3例-均在大兴融汇社区](https://m.caixin.com/m/2021-01-25/101655115.html) ![](assets/new.png)  
+- [2021-01-25-吉林24日新增新冠确诊67例-其中通化56例](https://m.caixin.com/m/2021-01-25/101655112.html) ![](assets/new.png)  
+- [2021-01-25-黑龙江24日新增新冠确诊35例-无症状感染者20例](https://m.caixin.com/m/2021-01-25/101655109.html) ![](assets/new.png)  
+- [2021-01-25-【境内疫情观察】全国现有重症病例超百例（1月24日）](http://m.database.caixin.com/m/2021-01-25/101655303.html) ![](assets/new.png)  
+- [2021-01-25-欧盟多国新冠疫苗供应延误-以色列青少年纳入接种计划|大流行手记（1月24日）](https://m.caixin.com/m/2021-01-25/101655142.html) ![](assets/new.png)  
+- [2021-01-24-北京西城区一人初筛新冠阳性-不排除复阳可能](https://m.caixin.com/m/2021-01-24/101655051.html) ![](assets/new.png)  
+- [2021-01-24-北京疾控：建议市民在京过春节](https://m.caixin.com/m/2021-01-24/101655019.html) ![](assets/new.png)  
+- [2021-01-24-1月23日河北19例新冠确诊病例轨迹公布](https://m.caixin.com/m/2021-01-24/101654949.html) ![](assets/new.png)  
+- [2021-01-24-1月23日河北本地新增新冠19例-石家庄17例邢台2例](https://m.caixin.com/m/2021-01-24/101654944.html) ![](assets/new.png)  
+- [2021-01-24-1月23日全国新增新冠80例-其中本土65例](https://m.caixin.com/m/2021-01-24/101654921.html) ![](assets/new.png)  
+- [2021-01-24-1月23日吉林本地新增新冠确诊12例-无症状感染者29例](https://m.caixin.com/m/2021-01-24/101654915.html) ![](assets/new.png)  
+- [2021-01-24-1月23日北京新增本地新冠2例-分别在大兴融汇、云立方社区](https://m.caixin.com/m/2021-01-24/101654912.html) ![](assets/new.png)  
+- [2021-01-24-1月23日上海新增本地新冠确诊3例-均常住黄浦区](https://m.caixin.com/m/2021-01-24/101654909.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -76,6 +96,10 @@
 </summary>
 
 
+- [2021-01-25-1.25｜大兴隔离政策有调整，全国中风险地区原则上就地过年](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiooy8hrBouYhk0TOUz5lj210125&isfromapp=1) ![](assets/new.png)  
+- [2021-01-25-全国｜国务院：合理有序引导群众就地过年](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYVvyJ4y3ZbuvaQ2aZQC2210125&isfromapp=1) ![](assets/new.png)  
+- [2021-01-25-北京｜南郊肿瘤医院垃圾车核酸检测结果可疑，暂停门诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin2cj5TaVR9rUJDrO2Uco210125&isfromapp=1) ![](assets/new.png)  
+- [2021-01-25-河北｜石家庄中高风险地区和隔离点全员-2-天一次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIWAAloYl678mt54LG9jM210125&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -969,6 +993,8 @@
 </summary>
 
 
+- [2021-01-25-Hugo-主题-Fluency](https://www.v2ex.com/t/748337) ![](assets/new.png)  
+- [2021-01-25-U-盘或者移动硬盘经常只有-2.0-的速度,-该如何优化或者避免](https://www.v2ex.com/t/748336) ![](assets/new.png)  
 - [2021-01-25-github-搜索如何屏蔽对岸一些战略性发言](https://www.v2ex.com/t/748335) ![](assets/new.png)  
 - [2021-01-25-一个真诚的招聘帖--阿里云后端研发-p6-p7](https://www.v2ex.com/t/748334) ![](assets/new.png)  
 - [2021-01-25-打工人过年回家需要一个请假理由](https://www.v2ex.com/t/748333) ![](assets/new.png)  
@@ -987,8 +1013,6 @@
 - [2021-01-25-免息分期-or-一次性付清](https://www.v2ex.com/t/748319) ![](assets/new.png)  
 - [2021-01-25-现在有什么-4k-独显白色的砖头本推荐？](https://www.v2ex.com/t/748318) ![](assets/new.png)  
 - [2021-01-25-各位-帮忙看下这个固态的读写是否正常](https://www.v2ex.com/t/748316) ![](assets/new.png)  
-- [2021-01-25-三星-s21ultra-的屏幕有个问题](https://www.v2ex.com/t/748315) ![](assets/new.png)  
-- [2021-01-25-重发我的微信广告收入----总结-2020，展望-2021](https://www.v2ex.com/t/748314) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

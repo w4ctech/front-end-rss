@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-01-26 16:38:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 17:21:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-01-26-M1-已安装-Rosetta-版本的-NodeJS-如何改成原生版本的](https://www.v2ex.com/t/748731) 
+- [2021-01-26-iOS-14.4-即将释出](https://www.v2ex.com/t/748730) 
+- [2021-01-26-求推荐-iOS-下好用的-djvu-阅读器](https://www.v2ex.com/t/748729) 
 - [2021-01-26-最近入了-OWC-USB-C-TRAVEL-DOCK-E](https://www.v2ex.com/t/748728) 
 - [2021-01-26-咨询-MBP-换电池](https://www.v2ex.com/t/748727) 
 - [2021-01-26-MacBook-Pro-自动锁屏后再解锁屏幕会爆音，正常吗？](https://www.v2ex.com/t/748726) 
@@ -42,5 +45,3 @@
 - [2021-01-26-Windows-手动关闭显示器一夜过后打开显示器竟然无法恢复之前状态](https://www.v2ex.com/t/748685) 
 - [2021-01-26-洗衣机清洗日常衣物，你是否有自己的参数设定？](https://www.v2ex.com/t/748684) 
 - [2021-01-26-向未来证明，你可以征服金融职业生涯所必须技能](https://www.v2ex.com/t/748682) 
-- [2021-01-26-win10-如何重置-powershell](https://www.v2ex.com/t/748681) 
-- [2021-01-26-美团金融服务平台急招-急招~~~-~~~期待你的加入](https://www.v2ex.com/t/748680) 

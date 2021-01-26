@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 10:46:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 10:51:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -7,8 +7,7 @@
 
 
 
-- [2021-01-22-【第2184期】CSS-奇思妙想边框动画](https://www.ershicimi.com/p/b0bf2d7fe6f90dc145287e8295420baa) 
-- [2020-02-04-阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497) 
+- [2021-01-23-【CSS】骨架屏-Skeleton-效果](https://www.ershicimi.com/p/ca7afebd58f254e9372b405756b1a5d3) 
 - [2020-12-12-纯CSS实现微信列表左滑显示按钮的交互效果](https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/) 
 - [2020-11-27-几行CSS让整站支持深色模式的探索与拓展](https://www.zhangxinxu.com/wordpress/2020/11/css-mix-blend-mode-filter-dark-theme/) 
 - [2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) 

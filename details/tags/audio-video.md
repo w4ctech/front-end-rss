@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 04:43:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 04:52:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -92,5 +92,4 @@
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-01-26-有没有哪个视频软件有类似-B-站放映室的”一起看“功能](https://www.v2ex.com/t/748466) 
 - [2021-01-26-京东金融-IOS-客户端还款时弹出一个假冒的-Faceid-界面并开启摄像头……](https://www.v2ex.com/t/748459) 
-- [2021-01-26-2021-音视频技术趋势不完全预测](https://www.v2ex.com/t/748425) 
 - [2021-01-25-【视频】|-Python:函数嵌套调用](https://sec.thief.one/article_content?a_id=978aa3453d5409d5a86380423cca5f69) 

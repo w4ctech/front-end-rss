@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 18:48:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 18:59:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-01-21-使用-Node.js-对文本内容分词和关键词抽取](https://www.ershicimi.com/p/b9e4d788a3e9bf902daf4ca3b9651ae2) 
 - [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) 
 - [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) 
 - [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 

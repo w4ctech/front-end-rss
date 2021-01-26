@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 07:12:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 07:39:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -29,11 +29,10 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-01-20-知乎面试官：为什么不建议在-MySQL-中使用-UTF-8？](https://www.ershicimi.com/p/39aaedc1e88f0fdd8432a185332e9684) 
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
-- [2021-01-26-你们面试都是能准备到造火箭那个地步在去吗？](https://www.v2ex.com/t/748497) 
-- [2021-01-26-刷一套亚麻面试真题：单词接龙-II](https://www.v2ex.com/t/748494) 
+- [2021-01-26-招聘远程-Software-Testing-engineer-软件测试工程师](https://www.v2ex.com/t/748547) 
 - [2021-01-26-记一次阿里面试，止步第三轮，发现这个是硬伤-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14124&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8qMS5AD91-VLyYZmOrcjYA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-01-26-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) 
-- [2021-01-26-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) 
 - [2021-01-26-推荐-最近的一些-Java-面试小结](https://toutiao.io/k/ffm07xa) 
+- [2021-01-26-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) 
 - [2021-01-23-牛聘|2020年度岗位招聘第17期](https://sec.thief.one/article_content?a_id=8f5305fb70ad607190900105581382f8) 
 - [2021-01-23-这边招聘了解一下?](https://sec.thief.one/article_content?a_id=bfea3e1790f4264b229ab65f3cf20e4b) 

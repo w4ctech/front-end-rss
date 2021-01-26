@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 00:02:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 00:22:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -20,4 +20,5 @@
 - [2021-01-20-Elastic坚决更改开源协议抵制“白嫖”，CEO狂怼AWS行为不端](https://www.ershicimi.com/p/38c759260c8361775f44e4945d7f814c) 
 - [2021-01-25-分布式一致性-Paxos-算法原理与推导-疑问](https://www.v2ex.com/t/748328) 
 - [2021-01-25-由-Mastodon-想到，问答网站也可以分布式](https://www.v2ex.com/t/748324) 
+- [2021-01-26-基于儿童积木玩具图解-Elasticsearch-聚合](https://toutiao.io/k/pqidc6l) 
 - [2021-01-25-两次霸榜GitHub!这个神器不写代码也可以完成AI算法训练](https://sec.thief.one/article_content?a_id=6b2049377a0d4a892222ddefc50585b5) 

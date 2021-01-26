@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-01-26 05:04:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 05:13:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-01-26-MinIO-如何保证可用性啊](https://www.v2ex.com/t/748486) 
+- [2021-01-26-飞猪机票安卓与-iOS-价格不一致](https://www.v2ex.com/t/748485) 
+- [2021-01-26-作品展示：股市板块量化监控小助手](https://www.v2ex.com/t/748484) 
 - [2021-01-26-Linux-有比-deepin-更好用的桌面系统吗？](https://www.v2ex.com/t/748483) 
 - [2021-01-26-返回学生的平均学分绩点，-可以不用-ROW_NUMBER-和-CASE-语句-吗？-目前的数据库-（话说这样的问题-放哪个节点最”合理“-呢？-对提问者，-最友好呢？](https://www.v2ex.com/t/748482) 
 - [2021-01-26-Big-Sur-系统下的加密备忘录不支持用-Apple-Watch-解锁了吗？](https://www.v2ex.com/t/748481) 
@@ -42,5 +45,3 @@
 - [2021-01-26-日版-Switch-有值得买/玩的双人/多人游戏吗？](https://www.v2ex.com/t/748441) 
 - [2021-01-26-在线版-typora，目前最好用的-markdown-编辑器，没有之一](https://www.v2ex.com/t/748439) 
 - [2021-01-26-V2EX-HD-Testflight-测试](https://www.v2ex.com/t/748437) 
-- [2021-01-26-Mac-mini-被静电黑屏，苦恼](https://www.v2ex.com/t/748435) 
-- [2021-01-26-求助：几年前小米钱包开通米-pay，手机和手机号均不再使用，但名下的二类卡使原银行卡无法注销。](https://www.v2ex.com/t/748434) 

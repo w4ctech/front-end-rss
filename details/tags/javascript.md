@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 19:38:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 19:46:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -104,6 +104,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-01-26-求个特殊的双向绑定的-JS-库？](https://www.v2ex.com/t/748712) 
+- [2021-01-26-一行能装逼的-JavaScript-代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14125&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqLtILt-1f8GwVj3IknryQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-01-26-向-Modern-JavaScript-转型](https://toutiao.io/k/rd1gakr) 
 - [2021-01-26-谷歌表单成为了BEC攻击的工具](https://sec.thief.one/article_content?a_id=c96be091323718af541cec2df77a807e) 
 - [2021-01-26-【公告】JSRC第四季度英雄榜公告](https://sec.thief.one/article_content?a_id=9215c264309f946a6513565f59db4970) 

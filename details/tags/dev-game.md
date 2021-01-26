@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 03:14:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 03:41:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,5 +27,4 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
-- [2021-01-26-公司年会取消，改为玩喝酒小游戏，你怎么看](https://www.v2ex.com/t/748386) 
-- [2021-01-26-进来玩个“关系接龙”游戏吧！](https://www.v2ex.com/t/748379) 
+- [2021-01-26-日版-Switch-有值得买/玩的双人/多人游戏吗？](https://www.v2ex.com/t/748441) 

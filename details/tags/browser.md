@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 02:27:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 02:48:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,9 +42,7 @@
 - [2021-01-23-并发重复请求，这才是优雅的处理方式！](https://www.ershicimi.com/p/a2cedd6a265ba3537fcf6c62d7570611) 
 - [2021-01-21-在日新月异的数字世界加速前行：Akamai-Edge-Live峰会精彩全回顾](https://www.ershicimi.com/p/8a3c72e9676339c41e37a1920afb387a) 
 - [2021-01-20-云原生带来的云安全领域变化｜Q推荐](https://www.ershicimi.com/p/3c606b70f990988ce97c55164396b1dd) 
-- [2021-01-25-图解浏览器](https://juejin.im/post/6921656089364660231) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-01-25-新版-Chrome-修复了在地址栏/搜索框使用-Mac-原生输入法键入文本方向键选词时的-bug](https://www.v2ex.com/t/748350) 
 - [2021-01-26-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-01-26-Go：基于-GORM-获取当前请求所执行的-SQL-信息](https://toutiao.io/k/a5tn1ue) 
 - [2021-01-26-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) 

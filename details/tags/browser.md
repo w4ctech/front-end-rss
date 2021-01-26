@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 06:51:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 07:04:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,12 +43,12 @@
 - [2021-01-21-在日新月异的数字世界加速前行：Akamai-Edge-Live峰会精彩全回顾](https://www.ershicimi.com/p/8a3c72e9676339c41e37a1920afb387a) 
 - [2021-01-20-云原生带来的云安全领域变化｜Q推荐](https://www.ershicimi.com/p/3c606b70f990988ce97c55164396b1dd) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-01-26-关于-MacOS-chrome-浏览器地址栏全选（command+a）快捷键的问题](https://www.v2ex.com/t/748528) 
 - [2021-01-26-网络安全到底干些啥啊-入职之后带我的师傅也跟我猜谜](https://www.v2ex.com/t/748517) 
 - [2021-01-26-如何设置使-chrome-打开外部软件的链接用后台打开？](https://www.v2ex.com/t/748505) 
 - [2021-01-26-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-01-26-Go：基于-GORM-获取当前请求所执行的-SQL-信息](https://toutiao.io/k/a5tn1ue) 
 - [2021-01-26-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) 
-- [2021-01-26-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
 - [2021-01-26-每日安全动态推送01-26](https://sec.thief.one/article_content?a_id=017196532556b869cfb552c137179ce8) 
 - [2021-01-26-【更新】DNSmasq-DNSpooq缓存中毒漏洞通告-CVE-2020-25686/...](https://sec.thief.one/article_content?a_id=39a058f397336e06bcc8174c974261c1) 
 - [2021-01-25-【安全圈】相亲网站-MeetMindful遭攻击,-228-万条用户信息泄露](https://sec.thief.one/article_content?a_id=f39da5a24a9d4f493629aa1945ca59a0) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 11:40:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 11:53:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,7 +7,6 @@
 
 
 
-- [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/cacecf530e97b404d830c2a50be041d6) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
 - [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
@@ -16,6 +15,9 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-01-26-Google-称朝鲜黑客伪装成信息安全研究者在-Twitter-上钓鱼](https://www.v2ex.com/t/748660) 
+- [2021-01-26-请求一个关于-firewall-cmd-的问题](https://www.v2ex.com/t/748643) 
 - [2021-01-26-SSRF安全指北](https://sec.thief.one/article_content?a_id=90c2d1604996c1446b47a07ea005afe6) 
 - [2021-01-26-提及网络安全挑战-|-郭树清谈金融科技发展、挑战与监管](https://sec.thief.one/article_content?a_id=def2adeae856eb74ae1e54fea2c99e03) 
 - [2021-01-26-记一次面试bypass宝塔+安全狗的手注](https://sec.thief.one/article_content?a_id=15bad92278929ec15fbd0a1c3bb3ea2b) 

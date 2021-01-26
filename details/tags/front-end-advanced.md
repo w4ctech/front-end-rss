@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 04:02:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 04:15:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -18,7 +18,8 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2021-01-22-最深刻最通俗的HTTPS-原理详解，图文并茂](https://www.ershicimi.com/p/ee10efebe3425ac9864822e54e827697) 
 - [2021-01-20-Elastic坚决更改开源协议抵制“白嫖”，CEO狂怼AWS行为不端](https://www.ershicimi.com/p/38c759260c8361775f44e4945d7f814c) 
-- [2021-01-26-一个生成打乱的魔方的算法应该怎么写呢（正文里有详情）](https://www.v2ex.com/t/748415) 
+- [2021-01-25-WebAssembly入门](https://juejin.im/post/6921909021020520455) 
+- [2021-01-26-请问个-nvim-的-FZF-插件如何切换目录的问题](https://www.v2ex.com/t/748463) 
 - [2021-01-26-基于儿童积木玩具图解-Elasticsearch-聚合](https://toutiao.io/k/pqidc6l) 
 - [2021-01-26-容器中使用-GPU-的基础环境搭建](https://toutiao.io/k/vuoifr1) 
 - [2021-01-25-两次霸榜GitHub!这个神器不写代码也可以完成AI算法训练](https://sec.thief.one/article_content?a_id=6b2049377a0d4a892222ddefc50585b5) 

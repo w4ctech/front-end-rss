@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 04:02:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 04:15:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -15,5 +15,6 @@
 - [2016-02-27-初探Docker](https://aotu.io/notes/2016/02/27/docker/) 
 - [2021-01-23-API-开发者永不“REST”](https://www.ershicimi.com/p/e2adf48f25f098cf72c16ff293ae3002) 
 - [2021-01-22-5种常见的Docker-Compose错误](https://www.ershicimi.com/p/c84344a8ca35f845f340e852af2b7d83) 
+- [2021-01-26-开源-将-Nginx-日志发送给-Google-Analytics](https://www.v2ex.com/t/748462) 
 - [2021-01-26-有用过-GraphQL-的吗？可以进来说说相比-restful-的优劣吗?](https://www.v2ex.com/t/748432) 
 - [2021-01-22-我为什么要放弃-RESTful,选择拥抱-GraphQL](https://sec.thief.one/article_content?a_id=b1c42da4fc5150230b5b0b3bc92b5154) 

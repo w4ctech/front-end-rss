@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 22:09:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 22:37:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -8,7 +8,6 @@
 
 
 - [2020-07-14-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) 
-- [2021-01-21-使用-Node.js-对文本内容分词和关键词抽取](https://www.ershicimi.com/p/b9e4d788a3e9bf902daf4ca3b9651ae2) 
 - [2020-04-07-nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c) 
 - [2020-12-22-V8-引擎垃圾回收与内存分配](https://www.ershicimi.com/p/1a0e4f18abc4d979ab8de6939f2ac8cb) 
 - [2021-01-20-Node.js-与未来](https://www.ershicimi.com/p/0e2d73b2a776a269b54644bfd84f531d) 

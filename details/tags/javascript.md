@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 21:50:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 22:04:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -53,6 +53,8 @@
 - [2021-01-19-11个-Javascript-小技巧帮你提升代码质量](https://www.ershicimi.com/p/361e60879247bba788a8a8a43ca0e4b5) 
 - [2021-01-12-JavaScript-核心原理精讲](https://www.ershicimi.com/p/70d3a2aa207b7b8c23ce7cf4d98dbd3a) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
+- [2021-01-20-2020-年的-JavaScript-后起之秀](https://www.ershicimi.com/p/8b78b8fa39a2e074be565db953f7f27d) 
+- [2021-01-13-2021-年-JS-框架预测和-IT-领域技术趋势](https://www.ershicimi.com/p/f9ca799eb17113c22f4f22df4177f45c) 
 - [2021-01-21-【翻译】JavaScript-中的函数式编程：函数、组合与柯里化](https://www.ershicimi.com/p/052d6ec3139fb4274eaf074e7b2800a9) 
 - [2021-01-19-可视化拖拽组件库一些技术要点原理分析](https://www.ershicimi.com/p/8c91ebf990d75c3ec95a15cbf415745c) 
 - [2021-01-18-JS-Bridge-通信原理](https://www.ershicimi.com/p/650613121ba86255aebda787a50c74d5) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 10:11:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 10:31:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -40,14 +40,10 @@
 - [2017-03-03-轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/) 
 - [2016-07-05-feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/) 
 - [2016-01-07-使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/) 
-- [2020-12-03-这一次彻底弄懂React-Router路由原理](https://www.ershicimi.com/p/91483570618fec8b1325f5aa8e1da6ae) 
 - [2020-08-21-聊聊两个状态管理库-Redux-&-Recoil](https://www.ershicimi.com/p/29fec6b9d5024568e2bd71f12ab459ec) 
 - [2020-07-19-「-思考-」-React-Hooks-的设计哲学](https://www.ershicimi.com/p/a06a740b0c554e7a4bf3accaa37913eb) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2021-01-23-在应用开发中，我为什么选择-Flutter-而不是-React-Native-？](https://www.ershicimi.com/p/0c724ee312996c3c9bc4549d4a226eeb) 
-- [2021-01-26-react的生命周期有哪些？有什么需要注意的地方?](https://juejin.im/post/6921986041541263374) 
-- [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) 
-- [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) 
 - [2021-01-26-「郑州」「微播易」React-前端、-Java-后端、测试招聘-「8---30K」](https://www.v2ex.com/t/748626) 
 - [2021-01-26-React-程序自动跳转](https://www.v2ex.com/t/748599) 
 - [2021-01-26-React-Server-Component-可能并没有那么香](https://toutiao.io/k/x0td3d6) 

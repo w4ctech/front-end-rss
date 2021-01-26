@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 21:43:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 21:50:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -89,6 +89,7 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-01-26-看看你们的微信公众号文章音频播放按钮还在不在](https://www.v2ex.com/t/748699) 
 - [2021-01-26-【视频】|-“四件套”黑色产业链:出卖“身份”的人](https://sec.thief.one/article_content?a_id=3926b260c29a731d91764c9182e86187) 
 - [2021-01-25-【视频】|-Python:函数嵌套调用](https://sec.thief.one/article_content?a_id=978aa3453d5409d5a86380423cca5f69) 

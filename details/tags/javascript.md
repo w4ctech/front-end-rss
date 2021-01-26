@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-26 21:43:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-26 21:50:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -53,8 +53,6 @@
 - [2021-01-19-11个-Javascript-小技巧帮你提升代码质量](https://www.ershicimi.com/p/361e60879247bba788a8a8a43ca0e4b5) 
 - [2021-01-12-JavaScript-核心原理精讲](https://www.ershicimi.com/p/70d3a2aa207b7b8c23ce7cf4d98dbd3a) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
-- [2021-01-20-2020-年的-JavaScript-后起之秀](https://www.ershicimi.com/p/8b78b8fa39a2e074be565db953f7f27d) 
-- [2021-01-13-2021-年-JS-框架预测和-IT-领域技术趋势](https://www.ershicimi.com/p/f9ca799eb17113c22f4f22df4177f45c) 
 - [2021-01-21-【翻译】JavaScript-中的函数式编程：函数、组合与柯里化](https://www.ershicimi.com/p/052d6ec3139fb4274eaf074e7b2800a9) 
 - [2021-01-19-可视化拖拽组件库一些技术要点原理分析](https://www.ershicimi.com/p/8c91ebf990d75c3ec95a15cbf415745c) 
 - [2021-01-18-JS-Bridge-通信原理](https://www.ershicimi.com/p/650613121ba86255aebda787a50c74d5) 
@@ -124,8 +122,10 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-01-26-win10-网卡适配器状态里的-ipv4、ipv6-连接状态是通过什么地址检测的](https://www.v2ex.com/t/748738) 
 - [2021-01-26-求个特殊的双向绑定的-JS-库？](https://www.v2ex.com/t/748712) 
+- [2021-01-26-一行能装逼的-JavaScript-代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14125&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqLtILt-1f8GwVj3IknryQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-01-26-向-Modern-JavaScript-转型](https://toutiao.io/k/rd1gakr) 
 - [2021-01-26-谷歌表单成为了BEC攻击的工具](https://sec.thief.one/article_content?a_id=c96be091323718af541cec2df77a807e) 
 - [2021-01-26-【公告】JSRC第四季度英雄榜公告](https://sec.thief.one/article_content?a_id=9215c264309f946a6513565f59db4970) 

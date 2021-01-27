@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 04:02:43，:rocket: 更新条数: +4204， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 04:12:51，:rocket: 更新条数: +4208， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,10 @@
 </summary>
 
 
+- [2021-01-27-黑龙江-|-望奎全县加强管控-禁止出行-公共场所关停](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFN75DazF4uvFsB4F6CgM210127&isfromapp=1) ![](assets/new.png)  
+- [2021-01-27-河北-|-定州-27-日开始新一轮全员核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti85cDPjzQBF4GRz2bAdXr210127&isfromapp=1) ![](assets/new.png)  
+- [2021-01-27-全国｜26-日新增确诊病例-75-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib5EGpVxChK4J3Rd3qnMR210127&isfromapp=1) ![](assets/new.png)  
+- [2021-01-26-1.26｜春节期间机票可免费退改，来甘返甘人员须提供-72-小时内核酸检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFbwCeAEfODkK5NKyR8if210126&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1029,6 +1033,14 @@
 </summary>
 
 
+- [2021-01-27-人工智能，升级亦或者是终结你的审计生涯？](https://www.v2ex.com/t/748867) ![](assets/new.png)  
+- [2021-01-27-短视频去水印微信小程序完整文章及源码](https://www.v2ex.com/t/748865) ![](assets/new.png)  
+- [2021-01-27-吓死人，-Google-Voice-号码的广告怎么会知道我的真名？？](https://www.v2ex.com/t/748864) ![](assets/new.png)  
+- [2021-01-27-BootCamp-是否会引发-APFS-容器的稳定问题？](https://www.v2ex.com/t/748863) ![](assets/new.png)  
+- [2021-01-27-iOS-14.4-修复了两个可能已经被利用的-0day-漏洞](https://www.v2ex.com/t/748862) ![](assets/new.png)  
+- [2021-01-27-Mac-合盖时如何关闭外接显示器](https://www.v2ex.com/t/748861) ![](assets/new.png)  
+- [2021-01-27-Google-将禁止第三方基于-Chromium-的浏览器同步-Chrome-数据](https://www.v2ex.com/t/748860) ![](assets/new.png)  
+- [2021-01-27-全职成都创业型团队寻找-WEB-前端开发工程师](https://www.v2ex.com/t/748859) ![](assets/new.png)  
 - [2021-01-27-用-LibVLC-做-RTSP-低延时直播，最低能到多少延时？](https://www.v2ex.com/t/748858) ![](assets/new.png)  
 - [2021-01-27-vim-的行号，可以同时显示实际行号和相对行号在两列上面，而不是一列么？](https://www.v2ex.com/t/748857) ![](assets/new.png)  
 - [2021-01-27-公开课:隐马尔可夫-HMM-模型精讲（下）——期望最大-EM-算法及模型学习](https://www.v2ex.com/t/748855) ![](assets/new.png)  
@@ -1041,14 +1053,6 @@
 - [2021-01-27-关于不-root-的手机抓-UDP-包问题](https://www.v2ex.com/t/748848) ![](assets/new.png)  
 - [2021-01-27-游戏](https://www.v2ex.com/t/748847) ![](assets/new.png)  
 - [2021-01-27-分享下新作：什么东西。一个类似苹果小组件的组件库网站。](https://www.v2ex.com/t/748846) ![](assets/new.png)  
-- [2021-01-27-iOS-14.4-依旧没解决绿屏问题](https://www.v2ex.com/t/748845) ![](assets/new.png)  
-- [2021-01-27-难得有一次老用户也能照常参与，终于不是老用户与狗了](https://www.v2ex.com/t/748843) ![](assets/new.png)  
-- [2021-01-27-基于-git-的去中心化内容收发平台](https://www.v2ex.com/t/748842) ![](assets/new.png)  
-- [2021-01-27-baulk-极简的-Windows-包管理器-2.0-发布，使用-C++20-编写了新的-tar/zip-解压缩功能](https://www.v2ex.com/t/748840) ![](assets/new.png)  
-- [2021-01-27-折叠自行车入门有推荐吗，是不是直接上大行-p8（预算-3000）](https://www.v2ex.com/t/748837) ![](assets/new.png)  
-- [2021-01-27-突然有一个想法，新冠疫情好像末日孤舰的剧情](https://www.v2ex.com/t/748836) ![](assets/new.png)  
-- [2021-01-27-APP-轻舟---多地点规划最短路线---Moyck](https://www.v2ex.com/t/748833) ![](assets/new.png)  
-- [2021-01-27-上海张江-nVidia-招聘测试开发职位，-965](https://www.v2ex.com/t/748832) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1092,25 +1096,25 @@
 
 
 - [2021-01-27-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
-- [2021-01-27-教你如何使用-Node-+-Express-+-Typescript-开发一个应用](https://toutiao.io/k/6yxdar1) ![](assets/new.png)  
 - [2021-01-27-什么是-TMD-的-MVP（最小可行性产品）?](https://toutiao.io/k/t4xmyfk) ![](assets/new.png)  
+- [2021-01-27-教你如何使用-Node-+-Express-+-Typescript-开发一个应用](https://toutiao.io/k/6yxdar1) ![](assets/new.png)  
 - [2021-01-27-Spring-Boot-集成-ActiveMQ-Artemis](https://toutiao.io/k/vplubh1) ![](assets/new.png)  
 - [2021-01-27-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
 - [2021-01-27-如何编写有效的接口测试？](https://toutiao.io/k/t2xdq9d) ![](assets/new.png)  
 - [2021-01-27-LocalDateTime、OffsetDateTime、ZonedDateTime-互转，这一篇绝对喂饱你](https://toutiao.io/k/5bq62lq) ![](assets/new.png)  
-- [2021-01-27-面对-Kafka-消费不给力，如何轻松解决呢？](https://toutiao.io/k/o75dtcd) ![](assets/new.png)  
 - [2021-01-27-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
+- [2021-01-27-面对-Kafka-消费不给力，如何轻松解决呢？](https://toutiao.io/k/o75dtcd) ![](assets/new.png)  
 - [2021-01-27-PULSE：一种基于隐式空间的图像超分辨率算法](https://toutiao.io/k/bjaeu6n) ![](assets/new.png)  
 - [2021-01-27-BCryptPasswordEncoder-的使用及原理](https://toutiao.io/k/fbbq4ax) ![](assets/new.png)  
 - [2021-01-27-GraphQL-让调用接口变的更丝滑](https://toutiao.io/k/6ysje7y) ![](assets/new.png)  
 - [2021-01-27-AWS-开始反击-Elastic-公司：将要创建维护-Apache-2.0-协议的-ElasticSearch-分支](https://toutiao.io/k/p8cd9hl) ![](assets/new.png)  
 - [2021-01-27-“年前”-的团队总结我是这么做的](https://toutiao.io/k/234wdld) ![](assets/new.png)  
-- [2021-01-27-译-高级-Promise-模式：Promise-缓存](https://toutiao.io/k/ig2ighi) ![](assets/new.png)  
 - [2021-01-27-MySQL-5.6.35-索引优化导致的死锁案例解析](https://toutiao.io/k/wuikf7s) ![](assets/new.png)  
+- [2021-01-27-译-高级-Promise-模式：Promise-缓存](https://toutiao.io/k/ig2ighi) ![](assets/new.png)  
 - [2021-01-27-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
 - [2021-01-27-Piping-Server：实现设备间通过纯-HTTP-无限传输数据](https://toutiao.io/k/abe056b) ![](assets/new.png)  
-- [2021-01-27-云原生-AI-平台的加速与实践](https://toutiao.io/k/yojhbhm) ![](assets/new.png)  
 - [2021-01-27-产品经理的-“临界点”](https://toutiao.io/k/kgdz4qg) ![](assets/new.png)  
+- [2021-01-27-云原生-AI-平台的加速与实践](https://toutiao.io/k/yojhbhm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

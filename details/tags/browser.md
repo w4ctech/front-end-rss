@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-27 05:05:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 05:14:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,6 +29,14 @@
 - [2021-01-22-云原生带来的云安全领域变化-|-活动推荐](https://www.ershicimi.com/p/2bf7f7494361b6638ae82b2a31ef67a3) 
 - [2021-01-15-Shopify如何在浏览器之外使用WebAssembly？](https://www.ershicimi.com/p/8a0a2bc7e621d6e5e18ef5bfabc8fed4) 
 - [2021-01-19-用-HTTPS-就安全了？HTTPS-会被抓包吗？](https://www.ershicimi.com/p/e0f1241f5dd074ce6e8bfef8703de879) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
@@ -38,6 +46,9 @@
 - [2021-01-27-北京/上海-内推🔥🔥🔥外企-1075-实际六点半电商公司欢迎各位加入-Java-/QA/客户端/大数据/风控-Java-/Data-Scientist](https://www.v2ex.com/t/748874) 
 - [2021-01-27-Google-将禁止第三方基于-Chromium-的浏览器同步-Chrome-数据](https://www.v2ex.com/t/748860) 
 - [2021-01-27-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-01-27-微软Edge浏览器和谷歌浏览器推出密码保护工具](https://sec.thief.one/article_content?a_id=ea67be28f5f45f9405654f59b626099c) 
+- [2021-01-27-网络安全信息与动态周报2021年第3期1月11日-1月17日](https://sec.thief.one/article_content?a_id=58fddfbb454f4d9f36c9d48c21af6d94) 
+- [2021-01-27-论坛分享-|-中外数据安全立法脉络梳理:变与不变](https://sec.thief.one/article_content?a_id=4ffb6fc33ef17800da339784c624dc96) 
 - [2021-01-26-【安全圈】30人贩卖6亿个人信息获利800万-受害者遍布全国数十个省市](https://sec.thief.one/article_content?a_id=b89f48e38a9ac54ba45203094e5aba00) 
 - [2021-01-26-企业安全开发建设-|-软件开发流程是主线,管控需贯穿全生命周期](https://sec.thief.one/article_content?a_id=aac94e772524b4536ddf5b42be3c3756) 
 - [2021-01-26-SSRF安全指北](https://sec.thief.one/article_content?a_id=90c2d1604996c1446b47a07ea005afe6) 
@@ -53,4 +64,3 @@
 - [2021-01-25-【重要提醒】“Seraph安全实验室官网”重磅上线!!!](https://sec.thief.one/article_content?a_id=c00fe116d5960eef7d211fe7821d301d) 
 - [2021-01-25-调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=225b1095d91ec8edfceb18345e4146a7) 
 - [2021-01-24-周报|安全报告与网安热词盘点、超级CSO研修班结营、网安市场经费...](https://sec.thief.one/article_content?a_id=2120ba426847a7f714820dca252a86be) 
-- [2021-01-24-网络安全编程:VC相关开发辅助工具](https://sec.thief.one/article_content?a_id=e6c7ebf99e60b73745e247653bf2a8e7) 

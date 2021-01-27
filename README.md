@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 10:11:16，:rocket: 更新条数: +4213， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 10:32:14，:rocket: 更新条数: +4212， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -916,7 +916,7 @@
 - [2021-01-27-你可能已经忘记了这些-HTML标签的作用](https://juejin.im/post/6922378087254786061) ![](assets/new.png)  
 - [2021-01-27-G2Plot-不能重交互？结合-CreatePortal-为所欲为吧](https://juejin.im/post/6922348523769823245) ![](assets/new.png)  
 - [2021-01-27-Flutter工程体系化建设与实践：flutter-zycli-app脚手架（一）](https://juejin.im/post/6922346808769413128) ![](assets/new.png)  
-- [2021-01-26-移动端常用的css代码段](https://juejin.im/post/6922342731175952398) ![](assets/new.png)  
+- [2021-01-26-有道云笔记新版编辑器架构设计（下）](https://juejin.im/post/6922343979325325319) ![](assets/new.png)  
 - [2021-01-26-「react缓存页面」从需求到开源（我是怎么样让产品小姐姐刮目相看的）](https://juejin.im/post/6922340460136513549) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1033,6 +1033,13 @@
 </summary>
 
 
+- [2021-01-27-表妹毕业三年，严重厌工。](https://www.v2ex.com/t/749005) ![](assets/new.png)  
+- [2021-01-27-碎片化学习-Java-（十三）-Java-判断对应的数字为星期几](https://www.v2ex.com/t/749004) ![](assets/new.png)  
+- [2021-01-27-后台定时任务怎么将定时获取的数据传递给-controller-或者其他-service？](https://www.v2ex.com/t/749003) ![](assets/new.png)  
+- [2021-01-27-有没有在工作后开始读-CSAPP-并把习题做完的?-来说说你的感受](https://www.v2ex.com/t/749002) ![](assets/new.png)  
+- [2021-01-27-如何批量转换-xls-文件为-xlsx?](https://www.v2ex.com/t/749001) ![](assets/new.png)  
+- [2021-01-27-#AshamPoo-卸载优化清理软件，官网活动价-189.5-元，用我的优惠券-58-元到手！](https://www.v2ex.com/t/748999) ![](assets/new.png)  
+- [2021-01-27-史上最全面的运营教程，读完就拿到-30-万年薪。。。](https://www.v2ex.com/t/748998) ![](assets/new.png)  
 - [2021-01-27-国内专业数据库讨论社区，加入可否？](https://www.v2ex.com/t/748996) ![](assets/new.png)  
 - [2021-01-27-Ant-Design-的同学-我不知道有个东西当讲不当讲，关于你们官网的一个外链政审不严](https://www.v2ex.com/t/748995) ![](assets/new.png)  
 - [2021-01-27-$GME-盘前翻了一倍，还有比这更精彩的剧本么？](https://www.v2ex.com/t/748994) ![](assets/new.png)  
@@ -1046,13 +1053,6 @@
 - [2021-01-27-更新-go,-go-src-底下的项目被清空了怎么办？](https://www.v2ex.com/t/748981) ![](assets/new.png)  
 - [2021-01-27-mysql5.7-json-类型字段的聚合统计问题](https://www.v2ex.com/t/748980) ![](assets/new.png)  
 - [2021-01-27-合肥/中科类脑-高级-AI-算法工程师](https://www.v2ex.com/t/748979) ![](assets/new.png)  
-- [2021-01-27-求一个-内置天线路由器-的推荐](https://www.v2ex.com/t/748978) ![](assets/new.png)  
-- [2021-01-27-多进程里嵌套协程，并发数增加的时候，程序卡死是怎么回事？](https://www.v2ex.com/t/748977) ![](assets/new.png)  
-- [2021-01-27-移动端有必要学算法么](https://www.v2ex.com/t/748976) ![](assets/new.png)  
-- [2021-01-27-房东直租-->南山区南山书城地铁站，现代城华庭直租三室一厅其中主卧次卧两室](https://www.v2ex.com/t/748975) ![](assets/new.png)  
-- [2021-01-27-国外有类似七牛（qiniu-这样提供图片处理和文件打包的云服务商吗？](https://www.v2ex.com/t/748974) ![](assets/new.png)  
-- [2021-01-27-DJI-大疆创新---自动驾驶招聘前端测试辅助软件开发实习生-请联系：-彭先生，-13286687676微信同号](https://www.v2ex.com/t/748973) ![](assets/new.png)  
-- [2021-01-27-腾讯云-CDN-加速-GitHub-图床](https://www.v2ex.com/t/748972) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,8 +1105,8 @@
 - [2021-01-27-LocalDateTime、OffsetDateTime、ZonedDateTime-互转，这一篇绝对喂饱你](https://toutiao.io/k/5bq62lq) ![](assets/new.png)  
 - [2021-01-27-面对-Kafka-消费不给力，如何轻松解决呢？](https://toutiao.io/k/o75dtcd) ![](assets/new.png)  
 - [2021-01-27-MySQL-5.6.35-索引优化导致的死锁案例解析](https://toutiao.io/k/wuikf7s) ![](assets/new.png)  
-- [2021-01-27-BCryptPasswordEncoder-的使用及原理](https://toutiao.io/k/fbbq4ax) ![](assets/new.png)  
 - [2021-01-27-“年前”-的团队总结我是这么做的](https://toutiao.io/k/234wdld) ![](assets/new.png)  
+- [2021-01-27-BCryptPasswordEncoder-的使用及原理](https://toutiao.io/k/fbbq4ax) ![](assets/new.png)  
 - [2021-01-27-PULSE：一种基于隐式空间的图像超分辨率算法](https://toutiao.io/k/bjaeu6n) ![](assets/new.png)  
 - [2021-01-27-GraphQL-让调用接口变的更丝滑](https://toutiao.io/k/6ysje7y) ![](assets/new.png)  
 - [2021-01-27-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
@@ -1126,6 +1126,19 @@
 </summary>
 
 
+- [2021-01-27-Egregor勒索软件简要分析报告](https://sec.thief.one/article_content?a_id=82426fc4cfca21bf2d547c0d9bd3908a) ![](assets/new.png)  
+- [2021-01-27-*CTF2021-By-天璇Merak](https://sec.thief.one/article_content?a_id=0f6c1c4879be7014637ed656d7d3e15b) ![](assets/new.png)  
+- [2021-01-27-狼烟再起-|-物联网僵尸家族入侵模式再更新,阻击需提前](https://sec.thief.one/article_content?a_id=2d39d31e29b8017f39ad5e081c12e1fd) ![](assets/new.png)  
+- [2021-01-27-TBOX分析含拿权限思路](https://sec.thief.one/article_content?a_id=125352244d04c179db44c3b0352555e8) ![](assets/new.png)  
+- [2021-01-27-利用微信的更新功能进行权限维持](https://sec.thief.one/article_content?a_id=6c96817efaae02c9f5750094bad570b7) ![](assets/new.png)  
+- [2021-01-27-比特币占2021年总加密流入量的97%](https://sec.thief.one/article_content?a_id=7f5092d167eb7710dd33759180c2fe87) ![](assets/new.png)  
+- [2021-01-27-共同维护网络清朗空间|安徽坚持“三个围绕”深入推进网络直播行业规...](https://sec.thief.one/article_content?a_id=8c8d7eeda98cca54928068b7c88c85d0) ![](assets/new.png)  
+- [2021-01-27-每日攻防资讯简报Jan.27th](https://sec.thief.one/article_content?a_id=c739ff27f6f2052cfd32ad00ff4f7a5a) ![](assets/new.png)  
+- [2021-01-27-谁说SQL注入不行了](https://sec.thief.one/article_content?a_id=a591475e6ad92334928b4372744df1c9) ![](assets/new.png)  
+- [2021-01-27-诸子星球-|-微话题:“逃生账号”怎么管?](https://sec.thief.one/article_content?a_id=eab4b884fefdd68d9e3108f783ff02df) ![](assets/new.png)  
+- [2021-01-27-开放银行蓬勃发展,网络风险规避与业务安全建设亟需重视](https://sec.thief.one/article_content?a_id=e035c48fc7fe5b4cf929cd4441a8c228) ![](assets/new.png)  
+- [2021-01-27-文内福利-|-雷神众测陪你牛气哄哄过大年!](https://sec.thief.one/article_content?a_id=29af161c0f906574205b2f2d87072646) ![](assets/new.png)  
+- [2021-01-27-比特币现3K看涨组合,反弹随时可能展开](https://sec.thief.one/article_content?a_id=d0c88e6214e0c1c25840a2e01905afe1) ![](assets/new.png)  
 - [2021-01-27-微软Edge浏览器和谷歌浏览器推出密码保护工具](https://sec.thief.one/article_content?a_id=ea67be28f5f45f9405654f59b626099c) ![](assets/new.png)  
 - [2021-01-27-再见!IBM-中国研究院](https://sec.thief.one/article_content?a_id=6d38e441e7ddac694fe9ad133e4f54f3) ![](assets/new.png)  
 - [2021-01-27-国家漏洞库CNNVD:关于致远OA文件上传漏洞情况的通报](https://sec.thief.one/article_content?a_id=8b05c88e2d346c6b59d44736d3db26c2) ![](assets/new.png)  
@@ -1133,19 +1146,6 @@
 - [2021-01-27-漏洞情报|Linux-Sudo-本地权限提升高危漏洞风险通告CVE-2021-...](https://sec.thief.one/article_content?a_id=75237cbd4a45e0119d978c2c79c59dfc) ![](assets/new.png)  
 - [2021-01-27-习近平自述:“我”的互联网思维](https://sec.thief.one/article_content?a_id=367d54d2582f30d88058ef280968e949) ![](assets/new.png)  
 - [2021-01-27-“熊孩子”乱敲键盘就攻破了Linux桌面-大神:17年前我就警告过你们](https://sec.thief.one/article_content?a_id=4d1d4a290da839cade9ba58179f7369f) ![](assets/new.png)  
-- [2021-01-27-网络安全信息与动态周报2021年第3期1月11日-1月17日](https://sec.thief.one/article_content?a_id=58fddfbb454f4d9f36c9d48c21af6d94) ![](assets/new.png)  
-- [2021-01-27-$-10000-Facebook-SSRFBug赏金](https://sec.thief.one/article_content?a_id=1bc4009d5106ed1c5f3f12e7a2f6daa2) ![](assets/new.png)  
-- [2021-01-27-特斯拉工程师窃取特斯拉全部运营自动化代码](https://sec.thief.one/article_content?a_id=f7f9cac6967b9a397072af227dc864bd) ![](assets/new.png)  
-- [2021-01-27-【漏洞通告】SAP-Solution-Manager-远程代码执行漏洞CVE-2020-...](https://sec.thief.one/article_content?a_id=8d813f213bf7fd263daf211513174e15) ![](assets/new.png)  
-- [2021-01-27-转:悬剑4.1比赛版发布暨抽奖活动公告](https://sec.thief.one/article_content?a_id=08877969ee1b558538400c909945be8a) ![](assets/new.png)  
-- [2021-01-27-【视频】|-Python:全局变量和局部变量](https://sec.thief.one/article_content?a_id=822acee2266b7e1db715341805e19efc) ![](assets/new.png)  
-- [2021-01-27-论坛分享-|-中外数据安全立法脉络梳理:变与不变](https://sec.thief.one/article_content?a_id=4ffb6fc33ef17800da339784c624dc96) ![](assets/new.png)  
-- [2021-01-27-分享几个默认密码在线查询网站](https://sec.thief.one/article_content?a_id=4e37bff2bbdf44f5e6b54af0a6cf780d) ![](assets/new.png)  
-- [2021-01-27-用于远程执行代码漏洞的Web应用程序的路径敏感静态分析](https://sec.thief.one/article_content?a_id=d509671138a81767e8bf266738d023ad) ![](assets/new.png)  
-- [2021-01-27-卧槽!字节跳动《算法中文手册》火了,完整版-PDF-开放下载!](https://sec.thief.one/article_content?a_id=70bfa38097efc189a94b9cd2d0daa40b) ![](assets/new.png)  
-- [2021-01-27-破解与攻击智能门锁](https://sec.thief.one/article_content?a_id=0bdd34153441b320683f267dd5577444) ![](assets/new.png)  
-- [2021-01-27-特斯拉起诉前员工窃取26000份机密文件,该员工表示只是无意中犯错](https://sec.thief.one/article_content?a_id=f9801285ba10fb1f0a040ba3f6e5ee67) ![](assets/new.png)  
-- [2021-01-26-【安全圈】30人贩卖6亿个人信息获利800万-受害者遍布全国数十个省市](https://sec.thief.one/article_content?a_id=b89f48e38a9ac54ba45203094e5aba00) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

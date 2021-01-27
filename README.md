@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 15:08:48，:rocket: 更新条数: +3956， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 15:35:54，:rocket: 更新条数: +3966， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -66,6 +66,7 @@
 
 
 - [2021-01-27-最新疫情：全国新冠累计确诊89272例-本土病例新增55例](https://m.caixin.com/m/2021-01-27/101656596.html) ![](assets/new.png)  
+- [2021-01-27-盖茨吁建全球“大流行病消防队”-忧心疫苗分配贫富国间悬殊](http://m.international.caixin.com/m/2021-01-27/101656759.html) ![](assets/new.png)  
 - [2021-01-27-低风险地区人员进返京后实行14天健康监测](http://m.china.caixin.com/m/2021-01-27/101656637.html) ![](assets/new.png)  
 - [2021-01-27-BioNTech复星疫苗正与药监局探讨内地上市时间](https://m.caixin.com/m/2021-01-27/101656349.html) ![](assets/new.png)  
 - [2021-01-27-最新海外疫情：新冠感染超1亿-累计死亡超215万](https://m.caixin.com/m/2021-01-27/101656589.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-01-26-【境内疫情观察】全国新增69例本土病例（1月25日）](http://m.database.caixin.com/m/2021-01-26/101655860.html) ![](assets/new.png)  
 - [2021-01-26-意大利波兰警告或因疫苗供应不足起诉辉瑞-韩国再现宗教机构集体感染｜大流行手记（1月25日）](https://m.caixin.com/m/2021-01-26/101655645.html) ![](assets/new.png)  
 - [2021-01-26-Moderna疫苗对南非变种病毒保护力减弱-正开发加强版](https://m.caixin.com/m/2021-01-26/101656200.html) ![](assets/new.png)  
-- [2021-01-26-如何应对突发疫情？上海政协委员建言“平战结合”](https://m.caixin.com/m/2021-01-26/101656203.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -675,6 +675,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1003,6 +1013,9 @@
 </summary>
 
 
+- [2021-01-27-入手-iPad-姿势推荐](https://www.v2ex.com/t/749071) ![](assets/new.png)  
+- [2021-01-27-直接替换聊天记录文件夹后，-M1-的-Mac-QQ-打开后总是提示要获取截图权限](https://www.v2ex.com/t/749070) ![](assets/new.png)  
+- [2021-01-27-蹲了好些天-xbox-刚有货-亚马逊账号就被封](https://www.v2ex.com/t/749069) ![](assets/new.png)  
 - [2021-01-27-VSCode-6-天前更新了-Python-扩展,-默认不带代码片段,-不是自动补全坏了,-望周知](https://www.v2ex.com/t/749066) ![](assets/new.png)  
 - [2021-01-27-裸聊诈骗套路](https://www.v2ex.com/t/749065) ![](assets/new.png)  
 - [2021-01-27-渣渣，搭建了-k8s-集群，不知道可以部署什么好玩的东西练练手](https://www.v2ex.com/t/749064) ![](assets/new.png)  
@@ -1020,9 +1033,6 @@
 - [2021-01-27-蚂蚁集团招聘客户端开发，坐标杭州](https://www.v2ex.com/t/749048) ![](assets/new.png)  
 - [2021-01-27-求圈-X-使用教程](https://www.v2ex.com/t/749045) ![](assets/new.png)  
 - [2021-01-27-安卓开发新方式](https://www.v2ex.com/t/749044) ![](assets/new.png)  
-- [2021-01-27-大公司一团队技术实力一般且无很牛逼的技术人才时，你们会怎么想？](https://www.v2ex.com/t/749043) ![](assets/new.png)  
-- [2021-01-27-有什么简单好用的表格插件吗，-handsontable-挺合适，可惜是收费的](https://www.v2ex.com/t/749042) ![](assets/new.png)  
-- [2021-01-27-有没有什么钱少事少离家近的工作](https://www.v2ex.com/t/749040) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,9 +1077,9 @@
 
 - [2021-01-27-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
 - [2021-01-27-什么是-TMD-的-MVP（最小可行性产品）?](https://toutiao.io/k/t4xmyfk) ![](assets/new.png)  
+- [2021-01-27-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
 - [2021-01-27-教你如何使用-Node-+-Express-+-Typescript-开发一个应用](https://toutiao.io/k/6yxdar1) ![](assets/new.png)  
 - [2021-01-27-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
-- [2021-01-27-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
 - [2021-01-27-Spring-Boot-集成-ActiveMQ-Artemis](https://toutiao.io/k/vplubh1) ![](assets/new.png)  
 - [2021-01-27-如何编写有效的接口测试？](https://toutiao.io/k/t2xdq9d) ![](assets/new.png)  
 - [2021-01-27-LocalDateTime、OffsetDateTime、ZonedDateTime-互转，这一篇绝对喂饱你](https://toutiao.io/k/5bq62lq) ![](assets/new.png)  

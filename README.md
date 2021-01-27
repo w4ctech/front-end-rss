@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 19:47:31，:rocket: 更新条数: +4207， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 19:56:33，:rocket: 更新条数: +4211， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,10 @@
 </summary>
 
 
+- [2021-01-27-1.27｜符合规定人员持核酸阴性结果到目的地不用隔离，中高风险地区禁止进京]() ![](assets/new.png)  
+- [2021-01-27-全国｜中高风险地区及全域封闭管理人员，原则上不能进京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEJo002pOmuXrqNH971vm210127&isfromapp=1) ![](assets/new.png)  
+- [2021-01-27-全国｜卫健委：春运期间，符合规定人员持核酸阴性结果到目的地后不用隔离](http://m.news.cctv.com/2021/01/27/ARTIdw44kiJLieppLW3KDpZ3210127.shtml) ![](assets/new.png)  
+- [2021-01-27-黑龙江｜望奎全县禁止出行，公共场所关停](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFN75DazF4uvFsB4F6CgM210127&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

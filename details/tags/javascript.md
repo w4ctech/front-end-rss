@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-27 20:56:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 21:04:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -35,8 +35,6 @@
 - [2021-01-22-【吐血整理】前端JavaScript高频手写面试大全，助你查漏补缺](https://www.ershicimi.com/p/7bdfcadfa8a2be73976a3b7181881e52) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
-- [2021-01-26-【第2188期】使用JavaScript跟踪Web应用程序的性能](https://www.ershicimi.com/p/53b8722972f3fbf804b9b5e5ec14fcc1) 
-- [2021-01-21-【第2183期】Promise原理&宏微任务](https://www.ershicimi.com/p/da1f0849cfdefa3d3b67e63a76177117) 
 - [2021-01-24-可视化拖拽组件库一些技术要点原理分析（二）](https://www.ershicimi.com/p/966196d7e978fc496c00c8f86f700d5c) 
 - [2021-01-20-超详细的-JS-数组方法](https://www.ershicimi.com/p/3c7b546430c363fad841d14f3f7bc822) 
 - [2021-01-19-10-个提升代码质量的-JS-技巧](https://www.ershicimi.com/p/66b505935981a14988e0c87283890ad9) 
@@ -59,6 +57,10 @@
 - [2021-01-18-JS-Bridge-通信原理](https://www.ershicimi.com/p/650613121ba86255aebda787a50c74d5) 
 - [2021-01-12-原生JS基础巩固](https://www.ershicimi.com/p/583e4c9899b78a8b33508ca1204d9661) 
 - [2021-01-07-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/7d41d4d856c69f390908f36fa56d9944) 
+- [2021-01-25-JS-Bridge-通信原理](https://www.ershicimi.com/p/f16a28cc19f302d7bbad3014a3726344) 
+- [2021-01-22-15道ES6-Promise实战练习题，助你快速理解Promise](https://www.ershicimi.com/p/b7dc3e7abeb0c12efda70863f1689e47) 
+- [2021-01-19-如何利用-JavaScript-实现并发控制](https://www.ershicimi.com/p/46e18156998da44b5a93b9a5c244d772) 
+- [2021-01-18-11个棘手的JavaScript面试题](https://www.ershicimi.com/p/a8d8b1c6be50e3ee8a6f6b9a51c90eb4) 
 - [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 
 - [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
 - [2021-01-25-温故而知新，8张-Javascript-思维导图助你成长](https://www.ershicimi.com/p/2da04931a44af5b13124e23151453ce1) 

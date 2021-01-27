@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 10:32:14，:rocket: 更新条数: +4212， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 10:46:28，:rocket: 更新条数: +4213， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-01-27-最新疫情：全国新冠累计确诊89272例-本土病例新增55例](https://m.caixin.com/m/2021-01-27/101656596.html) ![](assets/new.png)  
+- [2021-01-27-低风险地区人员进返京后实行14天健康检测](http://m.china.caixin.com/m/2021-01-27/101656637.html) ![](assets/new.png)  
 - [2021-01-27-BioNTech复星疫苗正与药监局探讨内地上市时间](https://m.caixin.com/m/2021-01-27/101656349.html) ![](assets/new.png)  
 - [2021-01-27-最新海外疫情：新冠感染超1亿-累计死亡超215万](https://m.caixin.com/m/2021-01-27/101656589.html) ![](assets/new.png)  
 - [2021-01-27-吉林26日新增本地确诊病例14例-长春12例通化2例](https://m.caixin.com/m/2021-01-27/101656263.html) ![](assets/new.png)  
@@ -76,7 +77,6 @@
 - [2021-01-27-【境内疫情观察】黑龙江新增29例本土病例（1月26日）](http://m.database.caixin.com/m/2021-01-27/101656447.html) ![](assets/new.png)  
 - [2021-01-27-英国拟要求入境旅客酒店集中隔离-新德里六成民众新冠抗体阳性｜大流行手记（1月26日）](https://m.caixin.com/m/2021-01-27/101656267.html) ![](assets/new.png)  
 - [2021-01-26-如何应对突发疫情？上海政协委员建言“平战结合”](https://m.caixin.com/m/2021-01-26/101656203.html) ![](assets/new.png)  
-- [2021-01-26-隐瞒症状回国后确诊新冠-一美国输入病例被判缓刑](http://m.china.caixin.com/m/2021-01-26/101656171.html) ![](assets/new.png)  
 - [2021-01-26-北京25日新增本地新冠确诊2例-均在大兴融汇社区](https://m.caixin.com/m/2021-01-26/101655659.html) ![](assets/new.png)  
 - [2021-01-26-河北25日新增本地新冠确诊5例-均在石家庄（附轨迹）](https://m.caixin.com/m/2021-01-26/101655672.html) ![](assets/new.png)  
 - [2021-01-26-上海25日新增本地新冠确诊2例-分别在黄浦区和长宁区](https://m.caixin.com/m/2021-01-26/101655655.html) ![](assets/new.png)  
@@ -1033,6 +1033,10 @@
 </summary>
 
 
+- [2021-01-27-哪里可以找到比较无聊的人或者群？](https://www.v2ex.com/t/749009) ![](assets/new.png)  
+- [2021-01-27-Kindle-热门标注就显示-10-条么？](https://www.v2ex.com/t/749008) ![](assets/new.png)  
+- [2021-01-27-你的童年美好吗？](https://www.v2ex.com/t/749007) ![](assets/new.png)  
+- [2021-01-27-怎么在-pg-的镜像中初始化数据，是为了单元测试后重置数据库用的，](https://www.v2ex.com/t/749006) ![](assets/new.png)  
 - [2021-01-27-表妹毕业三年，严重厌工。](https://www.v2ex.com/t/749005) ![](assets/new.png)  
 - [2021-01-27-碎片化学习-Java-（十三）-Java-判断对应的数字为星期几](https://www.v2ex.com/t/749004) ![](assets/new.png)  
 - [2021-01-27-后台定时任务怎么将定时获取的数据传递给-controller-或者其他-service？](https://www.v2ex.com/t/749003) ![](assets/new.png)  
@@ -1049,10 +1053,6 @@
 - [2021-01-27-字节跳动-内推，部门人员准备在-2021-年-Double，海量-客户端、前端、后端-HC;-各个级别，-Leader-岗位都有](https://www.v2ex.com/t/748988) ![](assets/new.png)  
 - [2021-01-27-有没有画知识点先后的工具?](https://www.v2ex.com/t/748986) ![](assets/new.png)  
 - [2021-01-27-抓包拿到的数据都是加密的，求帮忙看下是什么加密方式](https://www.v2ex.com/t/748983) ![](assets/new.png)  
-- [2021-01-27-如何看待-ZLMediaKit-这个流媒体框架](https://www.v2ex.com/t/748982) ![](assets/new.png)  
-- [2021-01-27-更新-go,-go-src-底下的项目被清空了怎么办？](https://www.v2ex.com/t/748981) ![](assets/new.png)  
-- [2021-01-27-mysql5.7-json-类型字段的聚合统计问题](https://www.v2ex.com/t/748980) ![](assets/new.png)  
-- [2021-01-27-合肥/中科类脑-高级-AI-算法工程师](https://www.v2ex.com/t/748979) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1110,10 +1110,10 @@
 - [2021-01-27-PULSE：一种基于隐式空间的图像超分辨率算法](https://toutiao.io/k/bjaeu6n) ![](assets/new.png)  
 - [2021-01-27-GraphQL-让调用接口变的更丝滑](https://toutiao.io/k/6ysje7y) ![](assets/new.png)  
 - [2021-01-27-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
-- [2021-01-27-AWS-开始反击-Elastic-公司：将要创建维护-Apache-2.0-协议的-ElasticSearch-分支](https://toutiao.io/k/p8cd9hl) ![](assets/new.png)  
 - [2021-01-27-译-高级-Promise-模式：Promise-缓存](https://toutiao.io/k/ig2ighi) ![](assets/new.png)  
-- [2021-01-27-Piping-Server：实现设备间通过纯-HTTP-无限传输数据](https://toutiao.io/k/abe056b) ![](assets/new.png)  
+- [2021-01-27-AWS-开始反击-Elastic-公司：将要创建维护-Apache-2.0-协议的-ElasticSearch-分支](https://toutiao.io/k/p8cd9hl) ![](assets/new.png)  
 - [2021-01-27-产品经理的-“临界点”](https://toutiao.io/k/kgdz4qg) ![](assets/new.png)  
+- [2021-01-27-Piping-Server：实现设备间通过纯-HTTP-无限传输数据](https://toutiao.io/k/abe056b) ![](assets/new.png)  
 - [2021-01-27-云原生-AI-平台的加速与实践](https://toutiao.io/k/yojhbhm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

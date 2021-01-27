@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-27 08:53:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 09:03:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -30,5 +30,7 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-01-20-知乎面试官：为什么不建议在-MySQL-中使用-UTF-8？](https://www.ershicimi.com/p/39aaedc1e88f0fdd8432a185332e9684) 
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
+- [2021-01-27-DJI-大疆创新---自动驾驶招聘前端测试辅助软件开发实习生-请联系：-彭先生，-13286687676微信同号](https://www.v2ex.com/t/748973) 
+- [2021-01-27-深圳-深圳虾皮内推，年前面试，年后入职（近期有面试专场）](https://www.v2ex.com/t/748970) 
 - [2021-01-27-记一次阿里面试，止步第三轮，发现这个是硬伤-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14124&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8qMS5AD91-VLyYZmOrcjYA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-01-27-推荐-面试：Redis-为什么快呢？查询为何会变慢？](https://toutiao.io/k/uktnxye) 

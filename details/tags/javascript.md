@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-27 08:53:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 09:03:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -91,6 +91,14 @@
 - [2021-01-19-数数FastJson那些年犯下的'血案'...](https://www.ershicimi.com/p/478efa9b21e83ec17a7f05e4b0bab5c3) 
 - [2021-01-26-2020-年的-JavaScript-后起之秀](https://www.ershicimi.com/p/561dbe7c196a6e251c4fe7f306ae2e93) 
 - [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？](https://www.ershicimi.com/p/27033dcdf27caaae7012a928c62ea0ea) 
+- [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
+- [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
+- [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
+- [2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) 
+- [2019-12-04-EHTML:-HTML-Framework-that-allows-you-write-no-JavaScript-code-at-all.](https://guseyn.com/posts/frontend-development-can-and-should-be-simple?v=1.0.173) 
+- [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
+- [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
+- [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-01-27-求助联通宽带+普通路由器支持-ipv6-方法](https://www.v2ex.com/t/748949) 
 - [2021-01-27-楼主入职一个小公司做前端，该公司之前都是做-cs-项目的，现在要做-web-项目，后端让我用-js-读写本地文件、让我用-js-把文件下载到指定文件夹...](https://www.v2ex.com/t/748937) 

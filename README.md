@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 12:05:53，:rocket: 更新条数: +4210， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 12:13:50，:rocket: 更新条数: +4210， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1033,6 +1033,7 @@
 </summary>
 
 
+- [2021-01-27-最近的新发现，天分比我们想象的要重要。](https://www.v2ex.com/t/749026) ![](assets/new.png)  
 - [2021-01-27-有朋友知道为啥我的-firefox-为啥打开网页速度奇慢无比吗？](https://www.v2ex.com/t/749024) ![](assets/new.png)  
 - [2021-01-27-请教数据库查询的聚合值的排序问题](https://www.v2ex.com/t/749022) ![](assets/new.png)  
 - [2021-01-27-一个人过年搞点什么活动比较好？](https://www.v2ex.com/t/749021) ![](assets/new.png)  
@@ -1052,7 +1053,6 @@
 - [2021-01-27-表妹毕业三年，严重厌工。](https://www.v2ex.com/t/749005) ![](assets/new.png)  
 - [2021-01-27-碎片化学习-Java-（十三）-Java-判断对应的数字为星期几](https://www.v2ex.com/t/749004) ![](assets/new.png)  
 - [2021-01-27-后台定时任务怎么将定时获取的数据传递给-controller-或者其他-service？](https://www.v2ex.com/t/749003) ![](assets/new.png)  
-- [2021-01-27-有没有在工作后开始读-CSAPP-并把习题做完的?-来说说你的感受](https://www.v2ex.com/t/749002) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

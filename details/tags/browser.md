@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-27 12:05:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 12:13:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,7 +45,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-27-有朋友知道为啥我的-firefox-为啥打开网页速度奇慢无比吗？](https://www.v2ex.com/t/749024) 
 - [2021-01-27-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-01-27-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
 - [2021-01-27-开放银行蓬勃发展,网络风险规避与业务安全建设亟需重视](https://sec.thief.one/article_content?a_id=e035c48fc7fe5b4cf929cd4441a8c228) 
 - [2021-01-27-微软Edge浏览器和谷歌浏览器推出密码保护工具](https://sec.thief.one/article_content?a_id=ea67be28f5f45f9405654f59b626099c) 
 - [2021-01-27-每日安全动态推送01-27](https://sec.thief.one/article_content?a_id=8601f001fa478fcf3d44908a0bdefc2b) 

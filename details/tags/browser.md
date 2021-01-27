@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-27 00:00:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 00:21:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,8 +44,9 @@
 - [2021-01-25-Postman-如何处理庞大难以管理的网关服务](https://www.ershicimi.com/p/fe0bafb534dc83b2df4a75e7f2196eb2) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-27-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-01-27-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) 
-- [2021-01-27-Go：基于-GORM-获取当前请求所执行的-SQL-信息](https://toutiao.io/k/a5tn1ue) 
+- [2021-01-27-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
+- [2021-01-26-【安全圈】30人贩卖6亿个人信息获利800万-受害者遍布全国数十个省市](https://sec.thief.one/article_content?a_id=b89f48e38a9ac54ba45203094e5aba00) 
+- [2021-01-26-企业安全开发建设-|-软件开发流程是主线,管控需贯穿全生命周期](https://sec.thief.one/article_content?a_id=aac94e772524b4536ddf5b42be3c3756) 
 - [2021-01-26-SSRF安全指北](https://sec.thief.one/article_content?a_id=90c2d1604996c1446b47a07ea005afe6) 
 - [2021-01-26-提及网络安全挑战-|-郭树清谈金融科技发展、挑战与监管](https://sec.thief.one/article_content?a_id=def2adeae856eb74ae1e54fea2c99e03) 
 - [2021-01-26-记一次面试bypass宝塔+安全狗的手注](https://sec.thief.one/article_content?a_id=15bad92278929ec15fbd0a1c3bb3ea2b) 
@@ -60,5 +61,3 @@
 - [2021-01-25-调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=225b1095d91ec8edfceb18345e4146a7) 
 - [2021-01-24-周报|安全报告与网安热词盘点、超级CSO研修班结营、网安市场经费...](https://sec.thief.one/article_content?a_id=2120ba426847a7f714820dca252a86be) 
 - [2021-01-24-网络安全编程:VC相关开发辅助工具](https://sec.thief.one/article_content?a_id=e6c7ebf99e60b73745e247653bf2a8e7) 
-- [2021-01-23-网络安全攻防:基于CTF的实战演练](https://sec.thief.one/article_content?a_id=6ac0dca85afe814ba505b511a3a18c30) 
-- [2021-01-22-【安全风险通告】CVE-2021-2108已复现并支持防护,WebLogic-...](https://sec.thief.one/article_content?a_id=079ef072a5a95ef94763454f26b23c33) 

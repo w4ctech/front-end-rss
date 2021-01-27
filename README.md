@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 11:09:48，:rocket: 更新条数: +4211， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 11:33:38，:rocket: 更新条数: +4208， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -96,9 +96,9 @@
 </summary>
 
 
+- [2021-01-27-全国-|-中高风险地区及全域封闭管理人员，原则上不能进京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEJo002pOmuXrqNH971vm210127&isfromapp=1) ![](assets/new.png)  
 - [2021-01-27-全国｜卫健委：春运期间，符合规定人员持核酸阴性结果到目的地后不用隔离](http://m.news.cctv.com/2021/01/27/ARTIdw44kiJLieppLW3KDpZ3210127.shtml) ![](assets/new.png)  
-- [2021-01-27-北京｜大兴天宫院辖区隔离期孕产妇实行隔离就诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7gVMjcH7HsQBbnHwbdKo210127&isfromapp=1) ![](assets/new.png)  
-- [2021-01-27-黑龙江-|-望奎全县加强管控-禁止出行-公共场所关停](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFN75DazF4uvFsB4F6CgM210127&isfromapp=1) ![](assets/new.png)  
+- [2021-01-27-黑龙江｜望奎全县禁止出行，公共场所关停](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFN75DazF4uvFsB4F6CgM210127&isfromapp=1) ![](assets/new.png)  
 - [2021-01-26-1.26｜春节期间机票可免费退改，来甘返甘人员须提供-72-小时内核酸检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFbwCeAEfODkK5NKyR8if210126&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
@@ -913,11 +913,6 @@
 </summary>
 
 
-- [2021-01-27-我对浏览器的浅微认知](https://juejin.im/post/6922375051794874375) ![](assets/new.png)  
-- [2021-01-27-angular>4版本-----引用echarts插件（记录）](https://juejin.im/post/6922374111096209422) ![](assets/new.png)  
-- [2021-01-27-原生webview和javascript交互](https://juejin.im/post/6922372594578489352) ![](assets/new.png)  
-- [2021-01-27-node学习之http一简介](https://juejin.im/post/6922369516756271111) ![](assets/new.png)  
-- [2021-01-27-JavaScript中的继承](https://juejin.im/post/6922369035501830157) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1033,6 +1028,8 @@
 </summary>
 
 
+- [2021-01-27-在-AppStore-找不到简单能玩的休闲游戏了,请问类似-2048-之类的游戏源码一般都去哪里找?](https://www.v2ex.com/t/749014) ![](assets/new.png)  
+- [2021-01-27-MySQL-5-亿数据查询如何优化](https://www.v2ex.com/t/749013) ![](assets/new.png)  
 - [2021-01-27-上级的心理有点阴暗...](https://www.v2ex.com/t/749012) ![](assets/new.png)  
 - [2021-01-27-非程序员，想做一些自动化操作，学点啥能实现？](https://www.v2ex.com/t/749010) ![](assets/new.png)  
 - [2021-01-27-哪里可以找到比较无聊的人或者群？](https://www.v2ex.com/t/749009) ![](assets/new.png)  
@@ -1051,8 +1048,6 @@
 - [2021-01-27-Python-requests-库下载文件有点问题](https://www.v2ex.com/t/748993) ![](assets/new.png)  
 - [2021-01-27-阿里巴巴-CRO-技术部-诚招服务端-P6-P8-Base-杭州](https://www.v2ex.com/t/748992) ![](assets/new.png)  
 - [2021-01-27-史上最全面的运营教程，读完就拿到-30-万年薪](https://www.v2ex.com/t/748991) ![](assets/new.png)  
-- [2021-01-27-字节跳动-内推，部门人员准备在-2021-年-Double，海量-客户端、前端、后端-HC;-各个级别，-Leader-岗位都有](https://www.v2ex.com/t/748988) ![](assets/new.png)  
-- [2021-01-27-有没有画知识点先后的工具?](https://www.v2ex.com/t/748986) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1104,8 +1099,8 @@
 - [2021-01-27-如何编写有效的接口测试？](https://toutiao.io/k/t2xdq9d) ![](assets/new.png)  
 - [2021-01-27-LocalDateTime、OffsetDateTime、ZonedDateTime-互转，这一篇绝对喂饱你](https://toutiao.io/k/5bq62lq) ![](assets/new.png)  
 - [2021-01-27-面对-Kafka-消费不给力，如何轻松解决呢？](https://toutiao.io/k/o75dtcd) ![](assets/new.png)  
-- [2021-01-27-MySQL-5.6.35-索引优化导致的死锁案例解析](https://toutiao.io/k/wuikf7s) ![](assets/new.png)  
 - [2021-01-27-“年前”-的团队总结我是这么做的](https://toutiao.io/k/234wdld) ![](assets/new.png)  
+- [2021-01-27-MySQL-5.6.35-索引优化导致的死锁案例解析](https://toutiao.io/k/wuikf7s) ![](assets/new.png)  
 - [2021-01-27-BCryptPasswordEncoder-的使用及原理](https://toutiao.io/k/fbbq4ax) ![](assets/new.png)  
 - [2021-01-27-PULSE：一种基于隐式空间的图像超分辨率算法](https://toutiao.io/k/bjaeu6n) ![](assets/new.png)  
 - [2021-01-27-GraphQL-让调用接口变的更丝滑](https://toutiao.io/k/6ysje7y) ![](assets/new.png)  

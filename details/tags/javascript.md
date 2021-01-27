@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-27 20:35:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 20:45:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -31,8 +31,6 @@
 - [2020-01-22-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
 - [2021-01-16-送粉丝20本-JavaScript-第四版红宝书！](https://www.ershicimi.com/p/c6021cabaab1ce405ac3ec41bddb3a4a) 
 - [2020-12-30-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/3f96aadaecf0c026a0c141d46f35d7dd) 
-- [2021-01-25-13个JavaScript单行代码，让你看起来更专业](https://www.ershicimi.com/p/6d650af044f9ef46bed094211480109e) 
-- [2021-01-22-【吐血整理】前端JavaScript高频手写面试大全，助你查漏补缺](https://www.ershicimi.com/p/7bdfcadfa8a2be73976a3b7181881e52) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2021-01-26-【第2188期】使用JavaScript跟踪Web应用程序的性能](https://www.ershicimi.com/p/53b8722972f3fbf804b9b5e5ec14fcc1) 

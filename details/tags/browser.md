@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-27 20:35:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 20:45:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,7 +24,6 @@
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/cacecf530e97b404d830c2a50be041d6) 
-- [2021-01-21-GET-和-POST请求的本质区别是什么？原来我一直理解错了](https://www.ershicimi.com/p/26f1662f05f41a676c94f7b206a6e273) 
 - [2021-01-24-【第2186期】使用浏览器开发工具测试网站可访问性的七种方法](https://www.ershicimi.com/p/8b50b5781261719062d5a13246a1fed5) 
 - [2021-01-22-云原生带来的云安全领域变化-|-活动推荐](https://www.ershicimi.com/p/2bf7f7494361b6638ae82b2a31ef67a3) 
 - [2021-01-15-Shopify如何在浏览器之外使用WebAssembly？](https://www.ershicimi.com/p/8a0a2bc7e621d6e5e18ef5bfabc8fed4) 
@@ -44,7 +43,6 @@
 - [2021-01-25-Postman-如何处理庞大难以管理的网关服务](https://www.ershicimi.com/p/fe0bafb534dc83b2df4a75e7f2196eb2) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-27-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-01-27-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
 - [2021-01-27-开放银行蓬勃发展,网络风险规避与业务安全建设亟需重视](https://sec.thief.one/article_content?a_id=e035c48fc7fe5b4cf929cd4441a8c228) 
 - [2021-01-27-微软Edge浏览器和谷歌浏览器推出密码保护工具](https://sec.thief.one/article_content?a_id=ea67be28f5f45f9405654f59b626099c) 
 - [2021-01-27-每日安全动态推送01-27](https://sec.thief.one/article_content?a_id=8601f001fa478fcf3d44908a0bdefc2b) 

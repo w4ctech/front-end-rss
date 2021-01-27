@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 20:35:51，:rocket: 更新条数: +4207， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 20:45:10，:rocket: 更新条数: +4191， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
@@ -96,6 +96,10 @@
 </summary>
 
 
+- [2021-01-27-1.27｜符合规定人员持核酸阴性结果到目的地不用隔离，中高风险地区禁止进京]() ![](assets/new.png)  
+- [2021-01-27-全国｜中高风险地区及全域封闭管理人员，原则上不能进京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEJo002pOmuXrqNH971vm210127&isfromapp=1) ![](assets/new.png)  
+- [2021-01-27-全国｜卫健委：春运期间，符合规定人员持核酸阴性结果到目的地后不用隔离](http://m.news.cctv.com/2021/01/27/ARTIdw44kiJLieppLW3KDpZ3210127.shtml) ![](assets/new.png)  
+- [2021-01-27-黑龙江｜望奎全县禁止出行，公共场所关停](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFN75DazF4uvFsB4F6CgM210127&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -138,26 +142,6 @@
 </summary>
 
 
-- [2021-01-26-GitHub上-10-个超好看可视化面板](https://www.ershicimi.com/p/f8707d639176a881064477078585dfd8) ![](assets/new.png)  
-- [2021-01-26-面试官：你是怎么处理vue项目中的错误的？](https://www.ershicimi.com/p/2bd92e103c283d4a64ce8cc9d273ef74) ![](assets/new.png)  
-- [2021-01-26-2021-年互联网大厂职级对应薪资一览表](https://www.ershicimi.com/p/ff0a37d36ecc595bccabd30b5a10f8eb) ![](assets/new.png)  
-- [2021-01-25-看到阿里的年终奖，网友：人家年终奖赶上咱们干一年了。](https://www.ershicimi.com/p/1e0daed352f2fa6d4d88d749beaf1d68) ![](assets/new.png)  
-- [2021-01-25-13个JavaScript单行代码，让你看起来更专业](https://www.ershicimi.com/p/6d650af044f9ef46bed094211480109e) ![](assets/new.png)  
-- [2021-01-25-如果程序员面试都说真话…画面过于真实，哈哈哈哈哈哈](https://www.ershicimi.com/p/062196b7a57b8a4a4059deea2f641408) ![](assets/new.png)  
-- [2021-01-24-Vue.js-首次屈居第二，JavaScript-2020-年度“新起之秀”都有谁？谁是第一呢？](https://www.ershicimi.com/p/b9315c382a34782437a632ead9f01977) ![](assets/new.png)  
-- [2021-01-24-盘点-Github-上的高仿-app-项目，B站-微博-微信等等](https://www.ershicimi.com/p/07df4a8697ec3718917b544b1a4fbdd4) ![](assets/new.png)  
-- [2021-01-23-大厂神器：LeetCode-算法刷题宝典](https://www.ershicimi.com/p/0f138f3823d910613b2a794335c79a9b) ![](assets/new.png)  
-- [2021-01-23-面试官：vue项目如何部署？有遇到布署服务器后刷新404问题吗？](https://www.ershicimi.com/p/58342233d97f099d4b31df4420ad8af9) ![](assets/new.png)  
-- [2021-01-22-自学前端的高效学习路线.avi](https://www.ershicimi.com/p/8b56108f496c67776a8d238bc50f5e08) ![](assets/new.png)  
-- [2021-01-22-1.1万字从零解读Vue3.0源码响应式系统](https://www.ershicimi.com/p/f2e65eed34f5ba23023896b1f72d82f7) ![](assets/new.png)  
-- [2021-01-22-【吐血整理】前端JavaScript高频手写面试大全，助你查漏补缺](https://www.ershicimi.com/p/7bdfcadfa8a2be73976a3b7181881e52) ![](assets/new.png)  
-- [2021-01-21-GET-和-POST请求的本质区别是什么？原来我一直理解错了](https://www.ershicimi.com/p/26f1662f05f41a676c94f7b206a6e273) ![](assets/new.png)  
-- [2021-01-21-@微信官方：十年荣誉勋章免费领取](https://www.ershicimi.com/p/fe1c56b7d789a1ca5fbf7fcb560a143e) ![](assets/new.png)  
-- [2021-01-21-34条我能告诉你的Vue之实操篇](https://www.ershicimi.com/p/a7183a3c10809ef6dd8f010a0d5b71bc) ![](assets/new.png)  
-- [2021-01-20-如何精确统计页面停留时长](https://www.ershicimi.com/p/62e3f4641d445b6ee3cb0cba3b6317a0) ![](assets/new.png)  
-- [2021-01-20-面试官：跨域是什么？Vue项目中你是如何解决跨域的呢？](https://www.ershicimi.com/p/8f8303344f075fdb24bd7975f768ddf4) ![](assets/new.png)  
-- [2021-01-20-在成人网站-PornHub-做前端开发是一种什么样的体验](https://www.ershicimi.com/p/a6fe6a1c1c1fc3b3e3bd32f8fab1d1e1) ![](assets/new.png)  
-- [2021-01-19-官宣：腾讯2021春招不要21届！](https://www.ershicimi.com/p/7b385d5fe388125de75c0db30b93f55a) ![](assets/new.png)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1100,8 +1084,8 @@
 - [2021-01-27-如何编写有效的接口测试？](https://toutiao.io/k/t2xdq9d) ![](assets/new.png)  
 - [2021-01-27-LocalDateTime、OffsetDateTime、ZonedDateTime-互转，这一篇绝对喂饱你](https://toutiao.io/k/5bq62lq) ![](assets/new.png)  
 - [2021-01-27-面对-Kafka-消费不给力，如何轻松解决呢？](https://toutiao.io/k/o75dtcd) ![](assets/new.png)  
-- [2021-01-27-“年前”-的团队总结我是这么做的](https://toutiao.io/k/234wdld) ![](assets/new.png)  
 - [2021-01-27-MySQL-5.6.35-索引优化导致的死锁案例解析](https://toutiao.io/k/wuikf7s) ![](assets/new.png)  
+- [2021-01-27-“年前”-的团队总结我是这么做的](https://toutiao.io/k/234wdld) ![](assets/new.png)  
 - [2021-01-27-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
 - [2021-01-27-BCryptPasswordEncoder-的使用及原理](https://toutiao.io/k/fbbq4ax) ![](assets/new.png)  
 - [2021-01-27-GraphQL-让调用接口变的更丝滑](https://toutiao.io/k/6ysje7y) ![](assets/new.png)  

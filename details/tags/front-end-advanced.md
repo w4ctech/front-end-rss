@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-27 12:13:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 12:49:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -18,7 +18,6 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2021-01-22-最深刻最通俗的HTTPS-原理详解，图文并茂](https://www.ershicimi.com/p/ee10efebe3425ac9864822e54e827697) 
 - [2021-01-27-【读书笔记】:图解http协议](https://juejin.im/post/6922378085241356302) 
-- [2021-01-27-合肥/中科类脑-高级-AI-算法工程师](https://www.v2ex.com/t/748979) 
 - [2021-01-27-AWS-开始反击-Elastic-公司：将要创建维护-Apache-2.0-协议的-ElasticSearch-分支](https://toutiao.io/k/p8cd9hl) 
 - [2021-01-27-Piping-Server：实现设备间通过纯-HTTP-无限传输数据](https://toutiao.io/k/abe056b) 
 - [2021-01-27-卧槽!字节跳动《算法中文手册》火了,完整版-PDF-开放下载!](https://sec.thief.one/article_content?a_id=70bfa38097efc189a94b9cd2d0daa40b) 

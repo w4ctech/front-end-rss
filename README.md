@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 12:13:50，:rocket: 更新条数: +4210， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 12:49:04，:rocket: 更新条数: +4210， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,7 @@
 
 
 - [2021-01-27-最新疫情：全国新冠累计确诊89272例-本土病例新增55例](https://m.caixin.com/m/2021-01-27/101656596.html) ![](assets/new.png)  
-- [2021-01-27-低风险地区人员进返京后实行14天健康检测](http://m.china.caixin.com/m/2021-01-27/101656637.html) ![](assets/new.png)  
+- [2021-01-27-低风险地区人员进返京后实行14天健康监测](http://m.china.caixin.com/m/2021-01-27/101656637.html) ![](assets/new.png)  
 - [2021-01-27-BioNTech复星疫苗正与药监局探讨内地上市时间](https://m.caixin.com/m/2021-01-27/101656349.html) ![](assets/new.png)  
 - [2021-01-27-最新海外疫情：新冠感染超1亿-累计死亡超215万](https://m.caixin.com/m/2021-01-27/101656589.html) ![](assets/new.png)  
 - [2021-01-27-吉林26日新增本地确诊病例14例-长春12例通化2例](https://m.caixin.com/m/2021-01-27/101656263.html) ![](assets/new.png)  
@@ -1033,6 +1033,13 @@
 </summary>
 
 
+- [2021-01-27-2021-年了,-学习英文语法好的资料或工具?](https://www.v2ex.com/t/749033) ![](assets/new.png)  
+- [2021-01-27-黑苹果开机卡-logo-不读条了。。。](https://www.v2ex.com/t/749032) ![](assets/new.png)  
+- [2021-01-27-VirtualBox-无法启动刻录在光盘的-vbox-文件（vdi-文件也在光盘）怎么解决？](https://www.v2ex.com/t/749031) ![](assets/new.png)  
+- [2021-01-27-想找个网上可以做的兼职](https://www.v2ex.com/t/749030) ![](assets/new.png)  
+- [2021-01-27-迫于穷-求推荐一个性价比高的-iPad-便携键盘](https://www.v2ex.com/t/749029) ![](assets/new.png)  
+- [2021-01-27-摩托罗拉骁龙-870-仅-1999，当备用机怎么样](https://www.v2ex.com/t/749028) ![](assets/new.png)  
+- [2021-01-27-有没有人在-big-sur-上切换桌面弹出输入法的情况，这个-bug-是真的烦人](https://www.v2ex.com/t/749027) ![](assets/new.png)  
 - [2021-01-27-最近的新发现，天分比我们想象的要重要。](https://www.v2ex.com/t/749026) ![](assets/new.png)  
 - [2021-01-27-有朋友知道为啥我的-firefox-为啥打开网页速度奇慢无比吗？](https://www.v2ex.com/t/749024) ![](assets/new.png)  
 - [2021-01-27-请教数据库查询的聚合值的排序问题](https://www.v2ex.com/t/749022) ![](assets/new.png)  
@@ -1046,13 +1053,6 @@
 - [2021-01-27-MySQL-5-亿数据查询如何优化](https://www.v2ex.com/t/749013) ![](assets/new.png)  
 - [2021-01-27-上级的心理有点阴暗...](https://www.v2ex.com/t/749012) ![](assets/new.png)  
 - [2021-01-27-非程序员，想做一些自动化操作，学点啥能实现？](https://www.v2ex.com/t/749010) ![](assets/new.png)  
-- [2021-01-27-哪里可以找到比较无聊的人或者群？](https://www.v2ex.com/t/749009) ![](assets/new.png)  
-- [2021-01-27-Kindle-热门标注就显示-10-条么？](https://www.v2ex.com/t/749008) ![](assets/new.png)  
-- [2021-01-27-你的童年美好吗？](https://www.v2ex.com/t/749007) ![](assets/new.png)  
-- [2021-01-27-怎么在-pg-的镜像中初始化数据，是为了单元测试后重置数据库用的，](https://www.v2ex.com/t/749006) ![](assets/new.png)  
-- [2021-01-27-表妹毕业三年，严重厌工。](https://www.v2ex.com/t/749005) ![](assets/new.png)  
-- [2021-01-27-碎片化学习-Java-（十三）-Java-判断对应的数字为星期几](https://www.v2ex.com/t/749004) ![](assets/new.png)  
-- [2021-01-27-后台定时任务怎么将定时获取的数据传递给-controller-或者其他-service？](https://www.v2ex.com/t/749003) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1111,8 +1111,8 @@
 - [2021-01-27-GraphQL-让调用接口变的更丝滑](https://toutiao.io/k/6ysje7y) ![](assets/new.png)  
 - [2021-01-27-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
 - [2021-01-27-译-高级-Promise-模式：Promise-缓存](https://toutiao.io/k/ig2ighi) ![](assets/new.png)  
-- [2021-01-27-AWS-开始反击-Elastic-公司：将要创建维护-Apache-2.0-协议的-ElasticSearch-分支](https://toutiao.io/k/p8cd9hl) ![](assets/new.png)  
 - [2021-01-27-产品经理的-“临界点”](https://toutiao.io/k/kgdz4qg) ![](assets/new.png)  
+- [2021-01-27-AWS-开始反击-Elastic-公司：将要创建维护-Apache-2.0-协议的-ElasticSearch-分支](https://toutiao.io/k/p8cd9hl) ![](assets/new.png)  
 - [2021-01-27-Piping-Server：实现设备间通过纯-HTTP-无限传输数据](https://toutiao.io/k/abe056b) ![](assets/new.png)  
 - [2021-01-27-云原生-AI-平台的加速与实践](https://toutiao.io/k/yojhbhm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

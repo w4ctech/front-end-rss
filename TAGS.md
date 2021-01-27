@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-27 12:13:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 12:49:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -518,7 +518,6 @@
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【互联网架构师】最深刻最通俗的HTTPS-原理详解，图文并茂](https://www.ershicimi.com/p/ee10efebe3425ac9864822e54e827697)
 - [【掘金前端】【读书笔记】:图解http协议](https://juejin.im/post/6922378085241356302)
-- [【V2EX】合肥/中科类脑-高级-AI-算法工程师](https://www.v2ex.com/t/748979)
 - [【开发者头条】AWS-开始反击-Elastic-公司：将要创建维护-Apache-2.0-协议的-ElasticSearch-分支](https://toutiao.io/k/p8cd9hl)
 - [【开发者头条】Piping-Server：实现设备间通过纯-HTTP-无限传输数据](https://toutiao.io/k/abe056b)
 - [【安全热点】卧槽!字节跳动《算法中文手册》火了,完整版-PDF-开放下载!](https://sec.thief.one/article_content?a_id=70bfa38097efc189a94b9cd2d0daa40b)
@@ -579,8 +578,8 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【技术头条】GitHub-上最励志的计算机自学教程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14121&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA-p9MmdXeV8loVq_WBk5Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie)
 - [【开发者头条】推荐-闯过这-54-关，点亮你的-Git-技能树](https://toutiao.io/k/6kqnm2d)
+- [【开发者头条】推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie)
 - [【安全热点】CVE-2020-26233:GIT命令行工具远程代码执行漏洞分析](https://sec.thief.one/article_content?a_id=a01f5b42ef619a186d092f6e5c1a4dae)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -685,7 +684,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊89272例-本土病例新增55例](https://m.caixin.com/m/2021-01-27/101656596.html)
-- [【武汉肺炎防疫全纪录(财新网)】低风险地区人员进返京后实行14天健康检测](http://m.china.caixin.com/m/2021-01-27/101656637.html)
+- [【武汉肺炎防疫全纪录(财新网)】低风险地区人员进返京后实行14天健康监测](http://m.china.caixin.com/m/2021-01-27/101656637.html)
 - [【武汉肺炎防疫全纪录(财新网)】BioNTech复星疫苗正与药监局探讨内地上市时间](https://m.caixin.com/m/2021-01-27/101656349.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超1亿-累计死亡超215万](https://m.caixin.com/m/2021-01-27/101656589.html)
 - [【武汉肺炎防疫全纪录(财新网)】吉林26日新增本地确诊病例14例-长春12例通化2例](https://m.caixin.com/m/2021-01-27/101656263.html)

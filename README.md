@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 08:05:46，:rocket: 更新条数: +995， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 08:13:13，:rocket: 更新条数: +4205， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-01-27-26日全国新增新冠确诊75例-本土病例55例](https://m.caixin.com/m/2021-01-27/101656259.html) ![](assets/new.png)  
+- [2021-01-27-BioNTech复星疫苗正与药监局探讨内地上市时间](https://m.caixin.com/m/2021-01-27/101656349.html) ![](assets/new.png)  
+- [2021-01-27-吉林26日新增本地确诊病例14例-长春12例通化2例](https://m.caixin.com/m/2021-01-27/101656263.html) ![](assets/new.png)  
+- [2021-01-27-河北26日新增7例本地新冠确诊病例-石家庄5例邢台市1例定州1例（附轨迹）](https://m.caixin.com/m/2021-01-27/101656255.html) ![](assets/new.png)  
+- [2021-01-27-北京26日新增4例本地新冠确诊病例-均在大兴融汇社区](https://m.caixin.com/m/2021-01-27/101656249.html) ![](assets/new.png)  
+- [2021-01-27-黑龙江26日新增新冠确诊29例-无症状感染者28例](https://m.caixin.com/m/2021-01-27/101656246.html) ![](assets/new.png)  
+- [2021-01-27-上海26日新增1例本地新冠确诊病例-来自黄浦区](https://m.caixin.com/m/2021-01-27/101656242.html) ![](assets/new.png)  
+- [2021-01-27-【境内疫情观察】黑龙江新增29例本土病例（1月26日）](http://m.database.caixin.com/m/2021-01-27/101656447.html) ![](assets/new.png)  
+- [2021-01-27-英国拟要求入境旅客酒店集中隔离-新德里六成民众新冠抗体阳性｜大流行手记（1月26日）](https://m.caixin.com/m/2021-01-27/101656267.html) ![](assets/new.png)  
+- [2021-01-26-如何应对突发疫情？上海政协委员建言“平战结合”](https://m.caixin.com/m/2021-01-26/101656203.html) ![](assets/new.png)  
+- [2021-01-26-隐瞒症状回国后确诊新冠-一美国输入病例被判缓刑](http://m.china.caixin.com/m/2021-01-26/101656171.html) ![](assets/new.png)  
+- [2021-01-26-最新海外疫情：新冠感染近9962万-累计死亡超213万](https://m.caixin.com/m/2021-01-26/101655946.html) ![](assets/new.png)  
+- [2021-01-26-北京25日新增本地新冠确诊2例-均在大兴融汇社区](https://m.caixin.com/m/2021-01-26/101655659.html) ![](assets/new.png)  
+- [2021-01-26-河北25日新增本地新冠确诊5例-均在石家庄（附轨迹）](https://m.caixin.com/m/2021-01-26/101655672.html) ![](assets/new.png)  
+- [2021-01-26-上海25日新增本地新冠确诊2例-分别在黄浦区和长宁区](https://m.caixin.com/m/2021-01-26/101655655.html) ![](assets/new.png)  
+- [2021-01-26-黑龙江25日新增新冠确诊53例-无症状感染者24例](https://m.caixin.com/m/2021-01-26/101655651.html) ![](assets/new.png)  
+- [2021-01-26-吉林25日新增本地新冠确诊7例-新增死亡1例](https://m.caixin.com/m/2021-01-26/101655731.html) ![](assets/new.png)  
+- [2021-01-26-【境内疫情观察】全国新增69例本土病例（1月25日）](http://m.database.caixin.com/m/2021-01-26/101655860.html) ![](assets/new.png)  
+- [2021-01-26-意大利波兰警告或因疫苗供应不足起诉辉瑞-韩国再现宗教机构集体感染｜大流行手记（1月25日）](https://m.caixin.com/m/2021-01-26/101655645.html) ![](assets/new.png)  
+- [2021-01-26-Moderna疫苗对南非变种病毒保护力减弱-正开发加强版](https://m.caixin.com/m/2021-01-26/101656200.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1013,6 +1033,10 @@
 </summary>
 
 
+- [2021-01-27-负一屏需要等好几秒或者点进去才能更新是正常的吗？](https://www.v2ex.com/t/748950) ![](assets/new.png)  
+- [2021-01-27-求助联通宽带+普通路由器支持-ipv6-方法](https://www.v2ex.com/t/748949) ![](assets/new.png)  
+- [2021-01-27-有人知道大厂里面的新闻后台的发布流程都是啥样的嘛。](https://www.v2ex.com/t/748948) ![](assets/new.png)  
+- [2021-01-27-分享一个-macOS-上的-Rime-鼠须管-配置详解步骤](https://www.v2ex.com/t/748947) ![](assets/new.png)  
 - [2021-01-27-macOS-怎么设置全局代理呢？](https://www.v2ex.com/t/748946) ![](assets/new.png)  
 - [2021-01-27-北美-PhD-遭遇中东人降智打击](https://www.v2ex.com/t/748945) ![](assets/new.png)  
 - [2021-01-27-广州穗岁康和支付宝好医保怎么选择?](https://www.v2ex.com/t/748944) ![](assets/new.png)  
@@ -1029,10 +1053,6 @@
 - [2021-01-27-13-年的-mbp13-寸，-现在电池总是报建议维修，-请教如何屏蔽掉。](https://www.v2ex.com/t/748926) ![](assets/new.png)  
 - [2021-01-27-求助-cn->ustd->paxful->paypal->hkbank->futu-or-cn->ustd->epay->hkbank->futu-or-cn->ustd->tidebit->hkbank->futu](https://www.v2ex.com/t/748923) ![](assets/new.png)  
 - [2021-01-27-想学造火箭了，有说明书嘛~](https://www.v2ex.com/t/748922) ![](assets/new.png)  
-- [2021-01-27-k8s-动态存储卷问题](https://www.v2ex.com/t/748921) ![](assets/new.png)  
-- [2021-01-27-招人-阿里云原生团队-容器-春招实习生-欢迎交流](https://www.v2ex.com/t/748919) ![](assets/new.png)  
-- [2021-01-27-域名到期到期了，那里有便宜的可以安全续费的？](https://www.v2ex.com/t/748917) ![](assets/new.png)  
-- [2021-01-27-SQL-查询父子节点并限制行数的写法？](https://www.v2ex.com/t/748916) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

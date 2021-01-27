@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 05:14:02，:rocket: 更新条数: +4206， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 05:36:59，:rocket: 更新条数: +3962， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -696,26 +696,6 @@
 </summary>
 
 
-- [2021-01-14-凹凸技术揭秘-·-Taro-·-开放式跨端跨框架之路](https://aotu.io/notes/2021/01/14/taro-history/) ![](assets/new.png)  
-- [2021-01-14-凹凸技术揭秘-·-基础服务体系-·-构筑服务端技术中枢](https://aotu.io/notes/2021/01/14/exa-server/) ![](assets/new.png)  
-- [2021-01-06-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) ![](assets/new.png)  
-- [2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) ![](assets/new.png)  
-- [2020-12-31-凹凸技术揭秘-·-Deco-智能代码-·-开启产研效率革命](https://aotu.io/notes/2020/12/31/deco/) ![](assets/new.png)  
-- [2020-12-31-凹凸技术揭秘·羚珑页面可视化·成长蜕变之路](https://aotu.io/notes/2020/12/31/ling-atom-design/) ![](assets/new.png)  
-- [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) ![](assets/new.png)  
-- [2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) ![](assets/new.png)  
-- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
-- [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) ![](assets/new.png)  
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs-中-regX-/-regY-的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1033,6 +1013,11 @@
 </summary>
 
 
+- [2021-01-27-撸了个-PDF-在线文件转换器](https://www.v2ex.com/t/748887) ![](assets/new.png)  
+- [2021-01-27-北京回成都需要核酸检测吗？](https://www.v2ex.com/t/748886) ![](assets/new.png)  
+- [2021-01-27-转租-北京-东城区-东南二环内，价格约-5000](https://www.v2ex.com/t/748885) ![](assets/new.png)  
+- [2021-01-27-一个账号密码加密器](https://www.v2ex.com/t/748884) ![](assets/new.png)  
+- [2021-01-27-求推荐一款平板电脑](https://www.v2ex.com/t/748883) ![](assets/new.png)  
 - [2021-01-27-发现大厂核心部门北京招-Java-好难啊，简历都没有](https://www.v2ex.com/t/748880) ![](assets/new.png)  
 - [2021-01-27-上海-心动网络-UE4-引擎开发-/-DevOps-/-安全技术类-/-C/Lua-游戏服务端-/-美术](https://www.v2ex.com/t/748879) ![](assets/new.png)  
 - [2021-01-27-招聘-Java-专家/架构师-30~60K-16-薪-成都](https://www.v2ex.com/t/748878) ![](assets/new.png)  
@@ -1048,11 +1033,6 @@
 - [2021-01-27-吓死人，-Google-Voice-号码的广告怎么会知道我的真名？？](https://www.v2ex.com/t/748864) ![](assets/new.png)  
 - [2021-01-27-BootCamp-是否会引发-APFS-容器的稳定问题？](https://www.v2ex.com/t/748863) ![](assets/new.png)  
 - [2021-01-27-iOS-14.4-修复了两个可能已经被利用的-0day-漏洞](https://www.v2ex.com/t/748862) ![](assets/new.png)  
-- [2021-01-27-Mac-合盖时如何关闭外接显示器](https://www.v2ex.com/t/748861) ![](assets/new.png)  
-- [2021-01-27-Google-将禁止第三方基于-Chromium-的浏览器同步-Chrome-数据](https://www.v2ex.com/t/748860) ![](assets/new.png)  
-- [2021-01-27-全职成都创业型团队寻找-WEB-前端开发工程师](https://www.v2ex.com/t/748859) ![](assets/new.png)  
-- [2021-01-27-用-LibVLC-做-RTSP-低延时直播，最低能到多少延时？](https://www.v2ex.com/t/748858) ![](assets/new.png)  
-- [2021-01-27-vim-的行号，可以同时显示实际行号和相对行号在两列上面，而不是一列么？](https://www.v2ex.com/t/748857) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,12 +1109,14 @@
 - [2021-01-27-微软Edge浏览器和谷歌浏览器推出密码保护工具](https://sec.thief.one/article_content?a_id=ea67be28f5f45f9405654f59b626099c) ![](assets/new.png)  
 - [2021-01-27-再见!IBM-中国研究院](https://sec.thief.one/article_content?a_id=6d38e441e7ddac694fe9ad133e4f54f3) ![](assets/new.png)  
 - [2021-01-27-国家漏洞库CNNVD:关于致远OA文件上传漏洞情况的通报](https://sec.thief.one/article_content?a_id=8b05c88e2d346c6b59d44736d3db26c2) ![](assets/new.png)  
+- [2021-01-27-每日安全动态推送01-27](https://sec.thief.one/article_content?a_id=8601f001fa478fcf3d44908a0bdefc2b) ![](assets/new.png)  
 - [2021-01-27-漏洞情报|Linux-Sudo-本地权限提升高危漏洞风险通告CVE-2021-...](https://sec.thief.one/article_content?a_id=75237cbd4a45e0119d978c2c79c59dfc) ![](assets/new.png)  
 - [2021-01-27-习近平自述:“我”的互联网思维](https://sec.thief.one/article_content?a_id=367d54d2582f30d88058ef280968e949) ![](assets/new.png)  
 - [2021-01-27-“熊孩子”乱敲键盘就攻破了Linux桌面-大神:17年前我就警告过你们](https://sec.thief.one/article_content?a_id=4d1d4a290da839cade9ba58179f7369f) ![](assets/new.png)  
 - [2021-01-27-网络安全信息与动态周报2021年第3期1月11日-1月17日](https://sec.thief.one/article_content?a_id=58fddfbb454f4d9f36c9d48c21af6d94) ![](assets/new.png)  
 - [2021-01-27-$-10000-Facebook-SSRFBug赏金](https://sec.thief.one/article_content?a_id=1bc4009d5106ed1c5f3f12e7a2f6daa2) ![](assets/new.png)  
 - [2021-01-27-特斯拉工程师窃取特斯拉全部运营自动化代码](https://sec.thief.one/article_content?a_id=f7f9cac6967b9a397072af227dc864bd) ![](assets/new.png)  
+- [2021-01-27-【漏洞通告】SAP-Solution-Manager-远程代码执行漏洞CVE-2020-...](https://sec.thief.one/article_content?a_id=8d813f213bf7fd263daf211513174e15) ![](assets/new.png)  
 - [2021-01-27-转:悬剑4.1比赛版发布暨抽奖活动公告](https://sec.thief.one/article_content?a_id=08877969ee1b558538400c909945be8a) ![](assets/new.png)  
 - [2021-01-27-【视频】|-Python:全局变量和局部变量](https://sec.thief.one/article_content?a_id=822acee2266b7e1db715341805e19efc) ![](assets/new.png)  
 - [2021-01-27-论坛分享-|-中外数据安全立法脉络梳理:变与不变](https://sec.thief.one/article_content?a_id=4ffb6fc33ef17800da339784c624dc96) ![](assets/new.png)  
@@ -1144,8 +1126,6 @@
 - [2021-01-27-破解与攻击智能门锁](https://sec.thief.one/article_content?a_id=0bdd34153441b320683f267dd5577444) ![](assets/new.png)  
 - [2021-01-27-特斯拉起诉前员工窃取26000份机密文件,该员工表示只是无意中犯错](https://sec.thief.one/article_content?a_id=f9801285ba10fb1f0a040ba3f6e5ee67) ![](assets/new.png)  
 - [2021-01-26-【安全圈】30人贩卖6亿个人信息获利800万-受害者遍布全国数十个省市](https://sec.thief.one/article_content?a_id=b89f48e38a9ac54ba45203094e5aba00) ![](assets/new.png)  
-- [2021-01-26-大一新生开发的小工具火了!不一样的-Python-编程体验,还是可视化...](https://sec.thief.one/article_content?a_id=e3719e180637e23f550cb137363bace8) ![](assets/new.png)  
-- [2021-01-26-雄安科企联第一届理事会二次会议召开-齐向东连任联会长](https://sec.thief.one/article_content?a_id=80041b551b8d0f6f3852f5abbd126c41) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

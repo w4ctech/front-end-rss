@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-27 06:09:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 06:39:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -315,6 +315,7 @@
 - [【前端艺术家&&飞冰早报】Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202)
 - [【前端艺术家&&飞冰早报】动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a)
 - [【知乎日报】本周知乎热榜-|-外卖员点火自伤，丁真抽烟引争议，元气森林乳茶假无糖，女童模仿动画片坠亡](https://www.ershicimi.com/p/bd4bad1f302b5f2ec7ac9d1009d6170f)
+- [【开发者头条】推荐-可能是说的最分明的-IaaS,-PaaS,-FaaS,-SaaS,-MicroService,-Serverless-了](https://toutiao.io/k/p2q8xl8)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -450,8 +451,7 @@
 - [【Vue中文社区】大厂神器：LeetCode-算法刷题宝典](https://www.ershicimi.com/p/0f138f3823d910613b2a794335c79a9b)
 - [【React中文社区】实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1)
 - [【互联网架构师】最深刻最通俗的HTTPS-原理详解，图文并茂](https://www.ershicimi.com/p/ee10efebe3425ac9864822e54e827697)
-- [【V2EX】vim-的行号，可以同时显示实际行号和相对行号在两列上面，而不是一列么？](https://www.v2ex.com/t/748857)
-- [【V2EX】公开课:隐马尔可夫-HMM-模型精讲（下）——期望最大-EM-算法及模型学习](https://www.v2ex.com/t/748855)
+- [【V2EX】百度无广告开发者搜索上线啦-https://kaifa.baidu.com/](https://www.v2ex.com/t/748904)
 - [【开发者头条】AWS-开始反击-Elastic-公司：将要创建维护-Apache-2.0-协议的-ElasticSearch-分支](https://toutiao.io/k/p8cd9hl)
 - [【开发者头条】Piping-Server：实现设备间通过纯-HTTP-无限传输数据](https://toutiao.io/k/abe056b)
 - [【安全热点】卧槽!字节跳动《算法中文手册》火了,完整版-PDF-开放下载!](https://sec.thief.one/article_content?a_id=70bfa38097efc189a94b9cd2d0daa40b)
@@ -509,7 +509,6 @@
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【技术头条】GitHub-上最励志的计算机自学教程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14121&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA-p9MmdXeV8loVq_WBk5Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】国内开发者开源爬虫工具箱爆红-GitHub-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14115&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FutssjMZMTI3ecNMWDm02BA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-闯过这-54-关，点亮你的-Git-技能树](https://toutiao.io/k/6kqnm2d)
 - [【开发者头条】推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie)
 - [【安全热点】CVE-2020-26233:GIT命令行工具远程代码执行漏洞分析](https://sec.thief.one/article_content?a_id=a01f5b42ef619a186d092f6e5c1a4dae)
 - [......【查看更多】......](./details/tags/git-svn.md)

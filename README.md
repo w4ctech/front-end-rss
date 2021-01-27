@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 09:03:39，:rocket: 更新条数: +1001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 09:12:28，:rocket: 更新条数: +975， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -46,13 +46,13 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -76,10 +76,6 @@
 </summary>
 
 
-- [2021-01-27-北京｜大兴天宫院辖区隔离期孕产妇实行隔离就诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7gVMjcH7HsQBbnHwbdKo210127&isfromapp=1) ![](assets/new.png)  
-- [2021-01-27-黑龙江-|-望奎全县加强管控-禁止出行-公共场所关停](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFN75DazF4uvFsB4F6CgM210127&isfromapp=1) ![](assets/new.png)  
-- [2021-01-27-河北-|-定州-27-日开始新一轮全员核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti85cDPjzQBF4GRz2bAdXr210127&isfromapp=1) ![](assets/new.png)  
-- [2021-01-26-1.26｜春节期间机票可免费退改，来甘返甘人员须提供-72-小时内核酸检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFbwCeAEfODkK5NKyR8if210126&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -893,11 +889,6 @@
 </summary>
 
 
-- [2021-01-27-G2Plot-不能重交互？结合-CreatePortal-为所欲为吧](https://juejin.im/post/6922348523769823245) ![](assets/new.png)  
-- [2021-01-26-移动端常用的css代码段](https://juejin.im/post/6922342731175952398) ![](assets/new.png)  
-- [2021-01-26-「react缓存页面」从需求到开源（我是怎么样让产品小姐姐刮目相看的）](https://juejin.im/post/6922340460136513549) ![](assets/new.png)  
-- [2021-01-26-Vuex-源码浅析（概览）](https://juejin.im/post/6922338170746978317) ![](assets/new.png)  
-- [2021-01-26-Docker的基本使用](https://juejin.im/post/6922334650769604622) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1013,6 +1004,11 @@
 </summary>
 
 
+- [2021-01-27-求一个-内置天线路由器-的推荐](https://www.v2ex.com/t/748978) ![](assets/new.png)  
+- [2021-01-27-多进程里嵌套协程，并发数增加的时候，程序卡死是怎么回事？](https://www.v2ex.com/t/748977) ![](assets/new.png)  
+- [2021-01-27-移动端有必要学算法么](https://www.v2ex.com/t/748976) ![](assets/new.png)  
+- [2021-01-27-房东直租-->南山区南山书城地铁站，现代城华庭直租三室一厅其中主卧次卧两室](https://www.v2ex.com/t/748975) ![](assets/new.png)  
+- [2021-01-27-国外有类似七牛（qiniu-这样提供图片处理和文件打包的云服务商吗？](https://www.v2ex.com/t/748974) ![](assets/new.png)  
 - [2021-01-27-DJI-大疆创新---自动驾驶招聘前端测试辅助软件开发实习生-请联系：-彭先生，-13286687676微信同号](https://www.v2ex.com/t/748973) ![](assets/new.png)  
 - [2021-01-27-腾讯云-CDN-加速-GitHub-图床](https://www.v2ex.com/t/748972) ![](assets/new.png)  
 - [2021-01-27-我总是不想按照产品的原型进行开发](https://www.v2ex.com/t/748971) ![](assets/new.png)  
@@ -1028,11 +1024,6 @@
 - [2021-01-27-如何将我的-markdown-包装在-HTML-div-中？](https://www.v2ex.com/t/748958) ![](assets/new.png)  
 - [2021-01-27-有没有-NAS-资源分享群,家里-ipv6-有-200M-上传带宽,足够在线看-4K-HDR-电影了.-有没有类似的群组,不想下载一些内容,希望能直接共享](https://www.v2ex.com/t/748957) ![](assets/new.png)  
 - [2021-01-27-《关于我对审核同事代码的标准已经降低到“只要把所有成员命名按照驼峰规则+单词拼写没有错误就行了”然而她还是做不到的这件事》](https://www.v2ex.com/t/748956) ![](assets/new.png)  
-- [2021-01-27-求仿生机器人开源技术相关平台或网站，国内外亦可。](https://www.v2ex.com/t/748955) ![](assets/new.png)  
-- [2021-01-27-注册简单注销难？](https://www.v2ex.com/t/748954) ![](assets/new.png)  
-- [2021-01-27-recyclerview-用-glide-加载图片不显示问题](https://www.v2ex.com/t/748953) ![](assets/new.png)  
-- [2021-01-27-一个困扰了我-2-天的前端问题咨询](https://www.v2ex.com/t/748952) ![](assets/new.png)  
-- [2021-01-27-家里有点小关系，能去电力国企，要去吗](https://www.v2ex.com/t/748951) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,26 +1035,6 @@
 </summary>
 
 
-- [2021-01-27-演进式数据架构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14135&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fevolutionary-data-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-iOS-14-从-Android-中"窃取"-了这-8-个有用的功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14134&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFp8y8yyOeyW1aOLaS3TB8w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-Android各版本迭代信息集合-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14133&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsPWqE8h_HqBh4H5OGudKuQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-谷歌：未来-Android-手机将获得-4-年软件更新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14132&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_U8ZMEvOWtgmBgaMNSGBcg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-17-张程序员壁纸（使用频率很高）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14131&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoYTqjKDEJxhSKziOy6lI0w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-Android-11-内置原生壁纸！速度来取-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14130&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfpKHlo_aDAeLm-ybCCsUJg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-iOS-APP图标版本化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14129&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FA3CPIf7nBoOVW1OB_ZnWPA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-24-款效率办公神器，简直不要太强大！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14128&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fc-ko6bEtXkofUmq269oadg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-一个-Java-开源商城项目，值得好好研究一下！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14127&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1UTG7xwcSKXyyvExtGVy7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-一条-SQL-引发的事故，同事直接被开除！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14126&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-aNXhgcCkXppsNR6mipZ7w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-一行能装逼的-JavaScript-代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14125&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqLtILt-1f8GwVj3IknryQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-记一次阿里面试，止步第三轮，发现这个是硬伤-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14124&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8qMS5AD91-VLyYZmOrcjYA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-Vue-超清晰思维导图，带你详细梳理知识点-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14122&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fww6gsD64DDacWnvbI68HwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-GitHub-上最励志的计算机自学教程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14121&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA-p9MmdXeV8loVq_WBk5Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-最受欢迎的女友职业排行榜-Top10-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14120&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZgPpVMWE573F-rGQoUJN0w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-8-个超赞的机器学习项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14119&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzUBTWUfy81cfOLViyfFrVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-这份《REAME-书写指南》送给不写文档的程序员-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14118&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV88qkEdpVGV5aylVL8doig%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-敏捷测试的核心-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14117&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-testing-core%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-01-27-DDD实现之路-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14116&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpath-to-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

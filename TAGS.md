@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-27 09:48:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 10:01:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -520,6 +520,7 @@
 - [【互联网架构师】最深刻最通俗的HTTPS-原理详解，图文并茂](https://www.ershicimi.com/p/ee10efebe3425ac9864822e54e827697)
 - [【V2EX】合肥/中科类脑-高级-AI-算法工程师](https://www.v2ex.com/t/748979)
 - [【V2EX】移动端有必要学算法么](https://www.v2ex.com/t/748976)
+- [【V2EX】招人-合肥-中科类脑-高级-AI-算法工程师](https://www.v2ex.com/t/748968)
 - [【开发者头条】AWS-开始反击-Elastic-公司：将要创建维护-Apache-2.0-协议的-ElasticSearch-分支](https://toutiao.io/k/p8cd9hl)
 - [【开发者头条】Piping-Server：实现设备间通过纯-HTTP-无限传输数据](https://toutiao.io/k/abe056b)
 - [【安全热点】卧槽!字节跳动《算法中文手册》火了,完整版-PDF-开放下载!](https://sec.thief.one/article_content?a_id=70bfa38097efc189a94b9cd2d0daa40b)
@@ -581,6 +582,8 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】腾讯云-CDN-加速-GitHub-图床](https://www.v2ex.com/t/748972)
+- [【技术头条】GitHub-上最励志的计算机自学教程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14121&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA-p9MmdXeV8loVq_WBk5Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】推荐-闯过这-54-关，点亮你的-Git-技能树](https://toutiao.io/k/6kqnm2d)
 - [【开发者头条】推荐-GitHub-访问加速指南](https://toutiao.io/k/5mauvie)
 - [【安全热点】CVE-2020-26233:GIT命令行工具远程代码执行漏洞分析](https://sec.thief.one/article_content?a_id=a01f5b42ef619a186d092f6e5c1a4dae)
 - [......【查看更多】......](./details/tags/git-svn.md)

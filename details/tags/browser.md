@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-27 04:44:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 04:53:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,6 +46,7 @@
 - [2021-01-27-北京/上海-内推🔥🔥🔥外企-1075-实际六点半电商公司欢迎各位加入-Java-/QA/客户端/大数据/风控-Java-/Data-Scientist](https://www.v2ex.com/t/748874) 
 - [2021-01-27-Google-将禁止第三方基于-Chromium-的浏览器同步-Chrome-数据](https://www.v2ex.com/t/748860) 
 - [2021-01-27-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-01-27-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
 - [2021-01-26-【安全圈】30人贩卖6亿个人信息获利800万-受害者遍布全国数十个省市](https://sec.thief.one/article_content?a_id=b89f48e38a9ac54ba45203094e5aba00) 
 - [2021-01-26-企业安全开发建设-|-软件开发流程是主线,管控需贯穿全生命周期](https://sec.thief.one/article_content?a_id=aac94e772524b4536ddf5b42be3c3756) 
 - [2021-01-26-SSRF安全指北](https://sec.thief.one/article_content?a_id=90c2d1604996c1446b47a07ea005afe6) 

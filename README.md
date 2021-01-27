@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 19:28:07，:rocket: 更新条数: +4211， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 19:39:48，:rocket: 更新条数: +4211， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1033,6 +1033,7 @@
 </summary>
 
 
+- [2021-01-27-广东地区优先远程兼职ReactRuby-on-Rails寻一个小伙伴和我一起做项目](https://www.v2ex.com/t/749089) ![](assets/new.png)  
 - [2021-01-27-Win/Mac/-Linux-共用磁盘的文件系统选择](https://www.v2ex.com/t/749087) ![](assets/new.png)  
 - [2021-01-27-win7-灵异事件](https://www.v2ex.com/t/749086) ![](assets/new.png)  
 - [2021-01-27-虽然-npm-很拉跨，但是-package.json-真香](https://www.v2ex.com/t/749085) ![](assets/new.png)  
@@ -1052,7 +1053,6 @@
 - [2021-01-27-蹲了好些天-xbox-刚有货-亚马逊账号就被封](https://www.v2ex.com/t/749069) ![](assets/new.png)  
 - [2021-01-27-VSCode-6-天前更新了-Python-扩展,-默认不带代码片段,-不是自动补全坏了,-望周知](https://www.v2ex.com/t/749066) ![](assets/new.png)  
 - [2021-01-27-裸聊诈骗套路](https://www.v2ex.com/t/749065) ![](assets/new.png)  
-- [2021-01-27-渣渣，搭建了-k8s-集群，不知道可以部署什么好玩的东西练练手](https://www.v2ex.com/t/749064) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1097,8 +1097,8 @@
 
 - [2021-01-27-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
 - [2021-01-27-什么是-TMD-的-MVP（最小可行性产品）?](https://toutiao.io/k/t4xmyfk) ![](assets/new.png)  
-- [2021-01-27-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
 - [2021-01-27-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
+- [2021-01-27-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
 - [2021-01-27-教你如何使用-Node-+-Express-+-Typescript-开发一个应用](https://toutiao.io/k/6yxdar1) ![](assets/new.png)  
 - [2021-01-27-Spring-Boot-集成-ActiveMQ-Artemis](https://toutiao.io/k/vplubh1) ![](assets/new.png)  
 - [2021-01-27-如何编写有效的接口测试？](https://toutiao.io/k/t2xdq9d) ![](assets/new.png)  

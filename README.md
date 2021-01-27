@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 14:56:23，:rocket: 更新条数: +4207， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 15:04:53，:rocket: 更新条数: +4211， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,10 @@
 </summary>
 
 
+- [2021-01-27-1.27｜符合规定人员持核酸阴性结果到目的地不用隔离，中高风险地区禁止进京]() ![](assets/new.png)  
+- [2021-01-27-全国｜中高风险地区及全域封闭管理人员，原则上不能进京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEJo002pOmuXrqNH971vm210127&isfromapp=1) ![](assets/new.png)  
+- [2021-01-27-全国｜卫健委：春运期间，符合规定人员持核酸阴性结果到目的地后不用隔离](http://m.news.cctv.com/2021/01/27/ARTIdw44kiJLieppLW3KDpZ3210127.shtml) ![](assets/new.png)  
+- [2021-01-27-黑龙江｜望奎全县禁止出行，公共场所关停](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFN75DazF4uvFsB4F6CgM210127&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1029,6 +1033,7 @@
 </summary>
 
 
+- [2021-01-27-VSCode-6-天前更新了-Python-扩展,-默认不带代码片段,-不是自动补全坏了,-望周知](https://www.v2ex.com/t/749066) ![](assets/new.png)  
 - [2021-01-27-裸聊诈骗套路](https://www.v2ex.com/t/749065) ![](assets/new.png)  
 - [2021-01-27-渣渣，搭建了-k8s-集群，不知道可以部署什么好玩的东西练练手](https://www.v2ex.com/t/749064) ![](assets/new.png)  
 - [2021-01-27-目前重疾险有没有类似返利的机制/渠道？](https://www.v2ex.com/t/749063) ![](assets/new.png)  
@@ -1048,7 +1053,6 @@
 - [2021-01-27-大公司一团队技术实力一般且无很牛逼的技术人才时，你们会怎么想？](https://www.v2ex.com/t/749043) ![](assets/new.png)  
 - [2021-01-27-有什么简单好用的表格插件吗，-handsontable-挺合适，可惜是收费的](https://www.v2ex.com/t/749042) ![](assets/new.png)  
 - [2021-01-27-有没有什么钱少事少离家近的工作](https://www.v2ex.com/t/749040) ![](assets/new.png)  
-- [2021-01-27-买了个二手-poker-pro2.4G，没有说明书，官网也没找到说明书，有没有道友给介绍下](https://www.v2ex.com/t/749039) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

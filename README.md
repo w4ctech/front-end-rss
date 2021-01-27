@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 02:17:49，:rocket: 更新条数: +4199， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 02:48:17，:rocket: 更新条数: +996， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-01-27-26日全国新增新冠确诊75例-本土病例55例](https://m.caixin.com/m/2021-01-27/101656259.html) ![](assets/new.png)  
-- [2021-01-27-吉林26日新增本地确诊病例14例-长春12例通化2例](https://m.caixin.com/m/2021-01-27/101656263.html) ![](assets/new.png)  
-- [2021-01-27-河北26日新增7例本地新冠确诊病例-石家庄5例邢台市1例定州1例（附轨迹）](https://m.caixin.com/m/2021-01-27/101656255.html) ![](assets/new.png)  
-- [2021-01-27-北京26日新增4例本地新冠确诊病例-均在大兴融汇社区](https://m.caixin.com/m/2021-01-27/101656249.html) ![](assets/new.png)  
-- [2021-01-27-黑龙江26日新增新冠确诊29例-无症状感染者28例](https://m.caixin.com/m/2021-01-27/101656246.html) ![](assets/new.png)  
-- [2021-01-27-上海26日新增1例本地新冠确诊病例-来自黄浦区](https://m.caixin.com/m/2021-01-27/101656242.html) ![](assets/new.png)  
-- [2021-01-27-英国拟要求入境旅客酒店集中隔离-新德里六成民众新冠抗体阳性｜大流行手记（1月26日）](https://m.caixin.com/m/2021-01-27/101656267.html) ![](assets/new.png)  
-- [2021-01-26-如何应对突发疫情？上海政协委员建言“平战结合”](https://m.caixin.com/m/2021-01-26/101656203.html) ![](assets/new.png)  
-- [2021-01-26-隐瞒症状回国后确诊新冠-一美国输入病例被判缓刑](http://m.china.caixin.com/m/2021-01-26/101656171.html) ![](assets/new.png)  
-- [2021-01-26-Moderna疫苗对南非变种病毒保护力减弱-正开发加强版](https://m.caixin.com/m/2021-01-26/101656200.html) ![](assets/new.png)  
-- [2021-01-26-最新海外疫情：新冠感染近9962万-累计死亡超213万](https://m.caixin.com/m/2021-01-26/101655946.html) ![](assets/new.png)  
-- [2021-01-26-北京25日新增本地新冠确诊2例-均在大兴融汇社区](https://m.caixin.com/m/2021-01-26/101655659.html) ![](assets/new.png)  
-- [2021-01-26-河北25日新增本地新冠确诊5例-均在石家庄（附轨迹）](https://m.caixin.com/m/2021-01-26/101655672.html) ![](assets/new.png)  
-- [2021-01-26-上海25日新增本地新冠确诊2例-分别在黄浦区和长宁区](https://m.caixin.com/m/2021-01-26/101655655.html) ![](assets/new.png)  
-- [2021-01-26-黑龙江25日新增新冠确诊53例-无症状感染者24例](https://m.caixin.com/m/2021-01-26/101655651.html) ![](assets/new.png)  
-- [2021-01-26-吉林25日新增本地新冠确诊7例-新增死亡1例](https://m.caixin.com/m/2021-01-26/101655731.html) ![](assets/new.png)  
-- [2021-01-26-【境内疫情观察】全国新增69例本土病例（1月25日）](http://m.database.caixin.com/m/2021-01-26/101655860.html) ![](assets/new.png)  
-- [2021-01-26-意大利波兰警告或因疫苗供应不足起诉辉瑞-韩国再现宗教机构集体感染｜大流行手记（1月25日）](https://m.caixin.com/m/2021-01-26/101655645.html) ![](assets/new.png)  
-- [2021-01-26-高、中、低风险地区人员在哪儿过年？中办、国办发文提要求](http://m.china.caixin.com/m/2021-01-26/101655960.html) ![](assets/new.png)  
-- [2021-01-26-【图集】核酸检测复核均为阴性-上海红房子医院正常开诊](http://m.photos.caixin.com/m/2021-01-26/101655920.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -913,11 +893,11 @@
 </summary>
 
 
+- [2021-01-26-CSS奇思妙想----使用-CSS-创造艺术](https://juejin.im/post/6922257014840098830) ![](assets/new.png)  
 - [2021-01-26-记录一个-Vue3-源码压缩错误引出的声明提升知识点](https://juejin.im/post/6922252880474505229) ![](assets/new.png)  
 - [2021-01-26-带你入门前端工程（十）：重构](https://juejin.im/post/6922245359137718279) ![](assets/new.png)  
 - [2021-01-26-编写高质量可维护的代码：优雅命名](https://juejin.im/post/6922225108094287880) ![](assets/new.png)  
 - [2021-01-26-数字指纹有什么用？赶紧来了解一下](https://juejin.im/post/6922212820280934413) ![](assets/new.png)  
-- [2021-01-26-看了10款文档编辑器之后,-我决定...](https://juejin.im/post/6922025191967031310) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1033,26 +1013,26 @@
 </summary>
 
 
-- [2021-01-27-2020-年你做过的最让你开心的事？](https://www.v2ex.com/t/748781) ![](assets/new.png)  
-- [2021-01-27-怎么好多-app-自动更新了](https://www.v2ex.com/t/748780) ![](assets/new.png)  
-- [2021-01-27-不懂就问，公司计划做一个游戏加速器，在没有经验的情况下，如何选择开发技术栈](https://www.v2ex.com/t/748779) ![](assets/new.png)  
-- [2021-01-27-iOS-上面的-Chrome-好像一直有个横屏后再竖屏网页排版错误的-BUG，帮我验证一下你们有没有，还是只是个例。](https://www.v2ex.com/t/748776) ![](assets/new.png)  
-- [2021-01-27-请教一下关于使用-Python-的-scapy-库通过-npcap-驱动抓包时遇到的无法抓取无线网卡流量的问题](https://www.v2ex.com/t/748775) ![](assets/new.png)  
-- [2021-01-27-日经贴，此时此刻（2021.1.27），如何才能办理-HK-银行卡？](https://www.v2ex.com/t/748774) ![](assets/new.png)  
-- [2021-01-27-服务端用-Kotlin-开发的多不多？](https://www.v2ex.com/t/748773) ![](assets/new.png)  
-- [2021-01-27-2020-你看过的最值得推荐的电影，电视剧或者动漫？](https://www.v2ex.com/t/748770) ![](assets/new.png)  
-- [2021-01-27-谷歌高频面试题：程序检查](https://www.v2ex.com/t/748769) ![](assets/new.png)  
-- [2021-01-27-airpods-pro-和-qc35-哪个降噪好些？](https://www.v2ex.com/t/748767) ![](assets/new.png)  
-- [2021-01-27-远程全职Team247-最新-Sales/Marketing-岗位开招啦～](https://www.v2ex.com/t/748762) ![](assets/new.png)  
-- [2021-01-27-分享一个我平时优惠充话费的地方，一般用慢充比较多](https://www.v2ex.com/t/748761) ![](assets/new.png)  
-- [2021-01-27-年底涨薪或发年终奖了吗？](https://www.v2ex.com/t/748760) ![](assets/new.png)  
-- [2021-01-27-iphone11-电池问题](https://www.v2ex.com/t/748759) ![](assets/new.png)  
-- [2021-01-27-个人整理的-iOS-旧应用推荐列表](https://www.v2ex.com/t/748758) ![](assets/new.png)  
-- [2021-01-27-要面大厂了，特别焦虑](https://www.v2ex.com/t/748756) ![](assets/new.png)  
-- [2021-01-27-早上打开手机微信，发现退出登录了](https://www.v2ex.com/t/748755) ![](assets/new.png)  
-- [2021-01-27-关于-typec-转-3.5mm-接头兼容性](https://www.v2ex.com/t/748754) ![](assets/new.png)  
-- [2021-01-27-有没有关于数据查询权限控制的优雅实现方式](https://www.v2ex.com/t/748753) ![](assets/new.png)  
-- [2021-01-27-请教各位大神，有没有一种网盘是自己买了-VIP，然后开个目录给别人不限速上传的？](https://www.v2ex.com/t/748750) ![](assets/new.png)  
+- [2021-01-27-有没有把多个摄像头的画面融合成一个画面的硬件？](https://www.v2ex.com/t/748811) ![](assets/new.png)  
+- [2021-01-27-iOS14.4-谨慎升级](https://www.v2ex.com/t/748810) ![](assets/new.png)  
+- [2021-01-27-分享一下各位自己搭建的博客](https://www.v2ex.com/t/748808) ![](assets/new.png)  
+- [2021-01-27-这个闪迪卡靠谱不？](https://www.v2ex.com/t/748806) ![](assets/new.png)  
+- [2021-01-27-請使用-h5ai-的大佬帮忙](https://www.v2ex.com/t/748805) ![](assets/new.png)  
+- [2021-01-27-刚入职两周多，就辞职会有影响吗](https://www.v2ex.com/t/748804) ![](assets/new.png)  
+- [2021-01-27-electron-本地应用有什么流行的离线持久化数据库选择](https://www.v2ex.com/t/748803) ![](assets/new.png)  
+- [2021-01-27-求助-redis-hash-类型排序问题](https://www.v2ex.com/t/748802) ![](assets/new.png)  
+- [2021-01-27-私人照片备份的选择](https://www.v2ex.com/t/748801) ![](assets/new.png)  
+- [2021-01-27-Java-调用-https-接口报错:javax.net.ssl.SSLException:-Server-key,这个报错原理有大神能科普一下吗？](https://www.v2ex.com/t/748798) ![](assets/new.png)  
+- [2021-01-27-春运机票可以免费退了，接下来的机票价格是会涨还是跌呢](https://www.v2ex.com/t/748797) ![](assets/new.png)  
+- [2021-01-27-苏州-物流项目招募-Golang---全职](https://www.v2ex.com/t/748796) ![](assets/new.png)  
+- [2021-01-27-加班能导致头发变白吗](https://www.v2ex.com/t/748793) ![](assets/new.png)  
+- [2021-01-27-dead-cells-日区-5-折，-dlc-也打折](https://www.v2ex.com/t/748792) ![](assets/new.png)  
+- [2021-01-27-mac-下有没有可以愉快划水看股票的小软件（插件）](https://www.v2ex.com/t/748790) ![](assets/new.png)  
+- [2021-01-27-打算重构一个项目使用-Django，大佬们给点建议](https://www.v2ex.com/t/748789) ![](assets/new.png)  
+- [2021-01-27-mac-book-pro-m1-进入屏幕保护后无法退出-只有合上盖子再打开才好](https://www.v2ex.com/t/748788) ![](assets/new.png)  
+- [2021-01-27-为了推广开源项目,-第一次尝试录了个入门视频](https://www.v2ex.com/t/748787) ![](assets/new.png)  
+- [2021-01-27-一个人在上海租房字，留在工作地过年怎么过的开心？](https://www.v2ex.com/t/748786) ![](assets/new.png)  
+- [2021-01-27-刚开发的贴不见了???看中几个-ink-的域名-,请大家帮忙看看值不得入不](https://www.v2ex.com/t/748785) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1099,22 +1079,22 @@
 - [2021-01-27-教你如何使用-Node-+-Express-+-Typescript-开发一个应用](https://toutiao.io/k/6yxdar1) ![](assets/new.png)  
 - [2021-01-27-什么是-TMD-的-MVP（最小可行性产品）?](https://toutiao.io/k/t4xmyfk) ![](assets/new.png)  
 - [2021-01-27-Spring-Boot-集成-ActiveMQ-Artemis](https://toutiao.io/k/vplubh1) ![](assets/new.png)  
+- [2021-01-27-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
+- [2021-01-27-如何编写有效的接口测试？](https://toutiao.io/k/t2xdq9d) ![](assets/new.png)  
 - [2021-01-27-PULSE：一种基于隐式空间的图像超分辨率算法](https://toutiao.io/k/bjaeu6n) ![](assets/new.png)  
 - [2021-01-27-BCryptPasswordEncoder-的使用及原理](https://toutiao.io/k/fbbq4ax) ![](assets/new.png)  
-- [2021-01-27-如何编写有效的接口测试？](https://toutiao.io/k/t2xdq9d) ![](assets/new.png)  
-- [2021-01-27-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
 - [2021-01-27-AWS-开始反击-Elastic-公司：将要创建维护-Apache-2.0-协议的-ElasticSearch-分支](https://toutiao.io/k/p8cd9hl) ![](assets/new.png)  
-- [2021-01-27-GraphQL-让调用接口变的更丝滑](https://toutiao.io/k/6ysje7y) ![](assets/new.png)  
-- [2021-01-27-译-高级-Promise-模式：Promise-缓存](https://toutiao.io/k/ig2ighi) ![](assets/new.png)  
-- [2021-01-27-“年前”-的团队总结我是这么做的](https://toutiao.io/k/234wdld) ![](assets/new.png)  
-- [2021-01-27-面对-Kafka-消费不给力，如何轻松解决呢？](https://toutiao.io/k/o75dtcd) ![](assets/new.png)  
 - [2021-01-27-LocalDateTime、OffsetDateTime、ZonedDateTime-互转，这一篇绝对喂饱你](https://toutiao.io/k/5bq62lq) ![](assets/new.png)  
+- [2021-01-27-GraphQL-让调用接口变的更丝滑](https://toutiao.io/k/6ysje7y) ![](assets/new.png)  
+- [2021-01-27-面对-Kafka-消费不给力，如何轻松解决呢？](https://toutiao.io/k/o75dtcd) ![](assets/new.png)  
+- [2021-01-27-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
+- [2021-01-27-“年前”-的团队总结我是这么做的](https://toutiao.io/k/234wdld) ![](assets/new.png)  
+- [2021-01-27-译-高级-Promise-模式：Promise-缓存](https://toutiao.io/k/ig2ighi) ![](assets/new.png)  
 - [2021-01-27-MySQL-5.6.35-索引优化导致的死锁案例解析](https://toutiao.io/k/wuikf7s) ![](assets/new.png)  
-- [2021-01-27-Go-embed-简明教程](https://toutiao.io/k/c3jscng) ![](assets/new.png)  
-- [2021-01-27-推荐-Spring-中这些能升华代码的技巧，可能会让你爱不释手](https://toutiao.io/k/d374mr5) ![](assets/new.png)  
-- [2021-01-27-推荐-闯过这-54-关，点亮你的-Git-技能树](https://toutiao.io/k/6kqnm2d) ![](assets/new.png)  
-- [2021-01-27-推荐-三万字，Spark-学习笔记](https://toutiao.io/k/wjp0vit) ![](assets/new.png)  
-- [2021-01-27-推荐-换个角度，聊聊全链路压测](https://toutiao.io/k/46w7ldx) ![](assets/new.png)  
+- [2021-01-27-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
+- [2021-01-27-Piping-Server：实现设备间通过纯-HTTP-无限传输数据](https://toutiao.io/k/abe056b) ![](assets/new.png)  
+- [2021-01-27-云原生-AI-平台的加速与实践](https://toutiao.io/k/yojhbhm) ![](assets/new.png)  
+- [2021-01-27-产品经理的-"临界点"](https://toutiao.io/k/kgdz4qg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

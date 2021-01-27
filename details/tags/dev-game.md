@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-27 02:17:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 02:48:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,5 +28,4 @@
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2021-01-27-不懂就问，公司计划做一个游戏加速器，在没有经验的情况下，如何选择开发技术栈](https://www.v2ex.com/t/748779) 
-- [2021-01-26-你们觉得独立游戏应该免费加内购还是买断制收费比较好？](https://www.v2ex.com/t/748735) 
 - [2021-01-26-游戏公司The9同意购买26,000台矿机](https://sec.thief.one/article_content?a_id=833a797d056d34e94ae46b22cc841626) 

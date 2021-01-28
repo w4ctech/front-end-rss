@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 19:34:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 19:46:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -35,8 +35,6 @@
 - [2021-01-22-【吐血整理】前端JavaScript高频手写面试大全，助你查漏补缺](https://www.ershicimi.com/p/7bdfcadfa8a2be73976a3b7181881e52) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
-- [2021-01-26-【第2188期】使用JavaScript跟踪Web应用程序的性能](https://www.ershicimi.com/p/53b8722972f3fbf804b9b5e5ec14fcc1) 
-- [2021-01-21-【第2183期】Promise原理&宏微任务](https://www.ershicimi.com/p/da1f0849cfdefa3d3b67e63a76177117) 
 - [2021-01-24-可视化拖拽组件库一些技术要点原理分析（二）](https://www.ershicimi.com/p/966196d7e978fc496c00c8f86f700d5c) 
 - [2021-01-20-超详细的-JS-数组方法](https://www.ershicimi.com/p/3c7b546430c363fad841d14f3f7bc822) 
 - [2021-01-19-10-个提升代码质量的-JS-技巧](https://www.ershicimi.com/p/66b505935981a14988e0c87283890ad9) 
@@ -115,7 +113,6 @@
 - [2021-01-21-JS-Bridge-通信原理](https://www.ershicimi.com/p/9d8e5891e7848424673d88e953115a41) 
 - [2021-01-15-奇舞周刊第-381-期：2020-年度-JavaScript-现状调查报告](https://www.ershicimi.com/p/5c5ef59b9a94dd3de634313aa6fc6bc8) 
 - [2021-01-11-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/fa27bfb41b2cd95468c33a411b83ba33) 
-- [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2021-01-26-2020-年的-JavaScript-后起之秀](https://www.ershicimi.com/p/561dbe7c196a6e251c4fe7f306ae2e93) 
 - [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？](https://www.ershicimi.com/p/27033dcdf27caaae7012a928c62ea0ea) 
 - [2021-01-28-Module-Seed:-一套优雅的-Github-工作流](https://juejin.im/post/6922745155229319181) 

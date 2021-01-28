@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 07:30:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 07:40:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -50,6 +50,7 @@
 - [2021-01-28-chrome-浏览器重大更新？-BUG？该怎么办](https://www.v2ex.com/t/749248) 
 - [2021-01-28-chrome-浏览器的一个弱智设定](https://www.v2ex.com/t/749236) 
 - [2021-01-28-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-01-28-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
 - [2021-01-28-每日安全动态推送01-28](https://sec.thief.one/article_content?a_id=756e76e6b6f0261a6d257b84bb6ef63b) 
 - [2021-01-28-网络安全编程:Winsock编程之基于TCP的通信](https://sec.thief.one/article_content?a_id=80a2a032e134e04e033ba5614abf823f) 
 - [2021-01-27-SecWiki安全招聘第47期](https://sec.thief.one/article_content?a_id=542328a280daa6e201d7c9837a723de0) 

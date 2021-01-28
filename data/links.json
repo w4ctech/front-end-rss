@@ -45,6 +45,11 @@
         "date": "2021-01-28"
       },
       {
+        "title": "【境内疫情观察】陕西新增1例本土病例（1月27日）",
+        "link": "http://m.database.caixin.com/m/2021-01-28/101657100.html",
+        "date": "2021-01-28"
+      },
+      {
         "title": "全球确诊过亿 秘鲁受试者死于国药疫苗试验？已澄清丨大流行手记（1月27日）",
         "link": "https://m.caixin.com/m/2021-01-28/101656842.html",
         "date": "2021-01-28"
@@ -19970,11 +19975,6 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "0到1：闲鱼高复杂度高性能社区圈子开发实录",
-        "link": "https://juejin.im/post/6922695202847064072",
-        "date": "2021-01-27"
-      },
-      {
         "title": "一起聊天吃瓜放烟花-仿微信聊天放烟花特效",
         "link": "https://juejin.im/post/6922687846205620238",
         "date": "2021-01-27"
@@ -19992,6 +19992,11 @@
       {
         "title": "[翻译 & 补充] - 异或操作小技巧",
         "link": "https://juejin.im/post/6922667752972894221",
+        "date": "2021-01-27"
+      },
+      {
+        "title": "日常开发常用Git指令笔记",
+        "link": "https://juejin.im/post/6922667686224887816",
         "date": "2021-01-27"
       }
     ]
@@ -20379,6 +20384,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "上海后端高级开发 / 资深 Java / Java 技术专家 / 架构师 / 资深架构师",
+        "link": "https://www.v2ex.com/t/749261",
+        "date": "2021-01-28"
+      },
+      {
+        "title": "发年终奖了, 换台机, 机械革命这 2 个咋选, 钛钽 PLUS (贵 500) & 蛟龙 7 , 安卓开发使用+游戏",
+        "link": "https://www.v2ex.com/t/749259",
+        "date": "2021-01-28"
+      },
+      {
+        "title": "高铁 5h 飞机 2h 你选哪一个？",
+        "link": "https://www.v2ex.com/t/749258",
+        "date": "2021-01-28"
+      },
+      {
+        "title": "rabbitmq 关于 Routing key 的疑问",
+        "link": "https://www.v2ex.com/t/749257",
+        "date": "2021-01-28"
+      },
+      {
+        "title": "有不吵的 1U 电源推荐吗？",
+        "link": "https://www.v2ex.com/t/749256",
+        "date": "2021-01-28"
+      },
+      {
         "title": "哪位有 ubuntu/manjaro 在 4k 分辨率下的截图?",
         "link": "https://www.v2ex.com/t/749254",
         "date": "2021-01-28"
@@ -20516,21 +20546,6 @@
       {
         "title": "坐标广东，电信怎么可以办 100m 的纯宽带",
         "link": "https://www.v2ex.com/t/749212",
-        "date": "2021-01-28"
-      },
-      {
-        "title": "迫于找不到好用的 Android 自动化软件，自己做了一套，顺带开个源",
-        "link": "https://www.v2ex.com/t/749211",
-        "date": "2021-01-28"
-      },
-      {
-        "title": "[新浪] 招 C++开发工程师",
-        "link": "https://www.v2ex.com/t/749209",
-        "date": "2021-01-28"
-      },
-      {
-        "title": "[上海] 近期技术职位总览，请赶紧戳进来",
-        "link": "https://www.v2ex.com/t/749207",
         "date": "2021-01-28"
       }
     ]
@@ -20753,58 +20768,18 @@
         "date": "2021-01-28"
       },
       {
-        "title": "[推荐] 闯过这 54 关，点亮你的 Git 技能树",
-        "link": "https://toutiao.io/k/6kqnm2d",
-        "date": "2021-01-28"
-      },
-      {
-        "title": "[推荐] 线程池最佳线程数量到底要如何配置？",
-        "link": "https://toutiao.io/k/pf728mr",
-        "date": "2021-01-28"
-      },
-      {
-        "title": "[推荐] 三万字，Spark 学习笔记",
-        "link": "https://toutiao.io/k/wjp0vit",
-        "date": "2021-01-28"
-      },
-      {
-        "title": "[推荐] 全网最全！彻底弄透 Java 处理 GMT/UTC 日期时间",
-        "link": "https://toutiao.io/k/mmjgntt",
-        "date": "2021-01-28"
-      },
-      {
-        "title": "[推荐] 下一代消息队列 Pulsar 到底是什么？",
-        "link": "https://toutiao.io/k/zdb2zbb",
-        "date": "2021-01-28"
-      },
-      {
-        "title": "[推荐] 讲解 Zookeeper 的五个核心知识点",
-        "link": "https://toutiao.io/k/te1s8su",
-        "date": "2021-01-28"
-      },
-      {
         "title": "[推荐] 如何成为快乐高产的程序员",
         "link": "https://toutiao.io/k/pfv4tyx",
         "date": "2021-01-28"
       },
       {
-        "title": "[推荐] 超越身边 80% 的人，其实没有你想象的那么难",
-        "link": "https://toutiao.io/k/ns5biqo",
+        "title": "[推荐] 我竟然被 “双亲委派” 给虐了",
+        "link": "https://toutiao.io/k/l9vnnm6",
         "date": "2021-01-28"
       },
       {
-        "title": "[推荐] Spring Boot 中的多数据源配置方案",
-        "link": "https://toutiao.io/k/qvw7yq6",
-        "date": "2021-01-28"
-      },
-      {
-        "title": "[推荐] 跳表：会跳的链表原来这么 diao",
-        "link": "https://toutiao.io/k/fobkj0c",
-        "date": "2021-01-28"
-      },
-      {
-        "title": "[推荐] 聊聊风口上的 eBPF",
-        "link": "https://toutiao.io/k/53qmmzi",
+        "title": "[推荐] 使用了这个神器，让我的代码 bug 少了一半",
+        "link": "https://toutiao.io/k/w8zvjee",
         "date": "2021-01-28"
       },
       {
@@ -20813,18 +20788,58 @@
         "date": "2021-01-28"
       },
       {
+        "title": "[推荐] 讲解 Zookeeper 的五个核心知识点",
+        "link": "https://toutiao.io/k/te1s8su",
+        "date": "2021-01-28"
+      },
+      {
+        "title": "[推荐] 线程池最佳线程数量到底要如何配置？",
+        "link": "https://toutiao.io/k/pf728mr",
+        "date": "2021-01-28"
+      },
+      {
+        "title": "[推荐] Spring 中那些让你爱不释手的代码技巧",
+        "link": "https://toutiao.io/k/lev94mm",
+        "date": "2021-01-28"
+      },
+      {
+        "title": "[推荐] [译] API 设计最佳实践",
+        "link": "https://toutiao.io/k/zxvyi14",
+        "date": "2021-01-28"
+      },
+      {
+        "title": "[推荐] 微服务实现简单的分布式日志追踪",
+        "link": "https://toutiao.io/k/s7af3dl",
+        "date": "2021-01-28"
+      },
+      {
         "title": "[推荐] 可能是说的最分明的 IaaS, PaaS, FaaS, SaaS, MicroService, Serverless 了",
         "link": "https://toutiao.io/k/p2q8xl8",
         "date": "2021-01-28"
       },
       {
-        "title": "[推荐] 最终一致性，一致只会迟到，但绝不会缺席",
-        "link": "https://toutiao.io/k/9q7yxnu",
+        "title": "[推荐] 网络抓包大法好，tcpdump 和 Wireshark 少不了",
+        "link": "https://toutiao.io/k/5ssh1zt",
         "date": "2021-01-28"
       },
       {
-        "title": "[推荐] Golang 最细节篇：struct{} 空结构体究竟是啥？",
-        "link": "https://toutiao.io/k/xr4hfsr",
+        "title": "[推荐] 超越身边 80% 的人，其实没有你想象的那么难",
+        "link": "https://toutiao.io/k/ns5biqo",
+        "date": "2021-01-28"
+      },
+      {
+        "title": "[推荐] 基于 SSD 的 Kafka 应用层缓存架构设计与实现",
+        "link": "https://toutiao.io/k/ddgxe6s",
+        "date": "2021-01-28"
+      },
+      {
+        "title": "[推荐] 闯过这 54 关，点亮你的 Git 技能树",
+        "link": "https://toutiao.io/k/6kqnm2d",
+        "date": "2021-01-28"
+      },
+      {
+        "title": "[推荐] 聊聊风口上的 eBPF",
+        "link": "https://toutiao.io/k/53qmmzi",
         "date": "2021-01-28"
       }
     ]

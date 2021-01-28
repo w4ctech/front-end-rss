@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-28 07:30:31，:rocket: 更新条数: +4232， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-28 07:40:15，:rocket: 更新条数: +4235， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -73,6 +73,7 @@
 - [2021-01-28-北京27日无新增新冠确诊病例](https://m.caixin.com/m/2021-01-28/101656829.html) ![](assets/new.png)  
 - [2021-01-28-上海27日无新增本地新冠确诊病例-新增7例境外输入病例](https://m.caixin.com/m/2021-01-28/101656826.html) ![](assets/new.png)  
 - [2021-01-28-黑龙江27日新增新冠确诊28例-无症状感染者8例](https://m.caixin.com/m/2021-01-28/101656823.html) ![](assets/new.png)  
+- [2021-01-28-【境内疫情观察】陕西新增1例本土病例（1月27日）](http://m.database.caixin.com/m/2021-01-28/101657100.html) ![](assets/new.png)  
 - [2021-01-28-全球确诊过亿-秘鲁受试者死于国药疫苗试验？已澄清丨大流行手记（1月27日）](https://m.caixin.com/m/2021-01-28/101656842.html) ![](assets/new.png)  
 - [2021-01-27-盖茨吁建全球“大流行病消防队”-忧心疫苗分配贫富国间悬殊](http://m.international.caixin.com/m/2021-01-27/101656759.html) ![](assets/new.png)  
 - [2021-01-27-低风险地区人员进返京后实行14天健康监测](http://m.china.caixin.com/m/2021-01-27/101656637.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-01-27-黑龙江26日新增新冠确诊29例-无症状感染者28例](https://m.caixin.com/m/2021-01-27/101656246.html) ![](assets/new.png)  
 - [2021-01-27-上海26日新增1例本地新冠确诊病例-来自黄浦区](https://m.caixin.com/m/2021-01-27/101656242.html) ![](assets/new.png)  
 - [2021-01-27-【境内疫情观察】黑龙江新增29例本土病例（1月26日）](http://m.database.caixin.com/m/2021-01-27/101656447.html) ![](assets/new.png)  
-- [2021-01-27-英国拟要求入境旅客酒店集中隔离-新德里六成民众新冠抗体阳性｜大流行手记（1月26日）](https://m.caixin.com/m/2021-01-27/101656267.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -933,11 +933,11 @@
 </summary>
 
 
-- [2021-01-27-0到1：闲鱼高复杂度高性能社区圈子开发实录](https://juejin.im/post/6922695202847064072) ![](assets/new.png)  
 - [2021-01-27-一起聊天吃瓜放烟花-仿微信聊天放烟花特效](https://juejin.im/post/6922687846205620238) ![](assets/new.png)  
 - [2021-01-27-我是如何开发第一个-chrome-插件的](https://juejin.im/post/6922687963407548424) ![](assets/new.png)  
 - [2021-01-27-聊聊前端-UI-组件：组件设计](https://juejin.im/post/6922684882690768904) ![](assets/new.png)  
 - [2021-01-27-翻译-&-补充---异或操作小技巧](https://juejin.im/post/6922667752972894221) ![](assets/new.png)  
+- [2021-01-27-日常开发常用Git指令笔记](https://juejin.im/post/6922667686224887816) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1053,6 +1053,11 @@
 </summary>
 
 
+- [2021-01-28-上海后端高级开发-/-资深-Java-/-Java-技术专家-/-架构师-/-资深架构师](https://www.v2ex.com/t/749261) ![](assets/new.png)  
+- [2021-01-28-发年终奖了,-换台机,-机械革命这-2-个咋选,-钛钽-PLUS-贵-500-&-蛟龙-7-,-安卓开发使用+游戏](https://www.v2ex.com/t/749259) ![](assets/new.png)  
+- [2021-01-28-高铁-5h-飞机-2h-你选哪一个？](https://www.v2ex.com/t/749258) ![](assets/new.png)  
+- [2021-01-28-rabbitmq-关于-Routing-key-的疑问](https://www.v2ex.com/t/749257) ![](assets/new.png)  
+- [2021-01-28-有不吵的-1U-电源推荐吗？](https://www.v2ex.com/t/749256) ![](assets/new.png)  
 - [2021-01-28-哪位有-ubuntu/manjaro-在-4k-分辨率下的截图?](https://www.v2ex.com/t/749254) ![](assets/new.png)  
 - [2021-01-28-Navciat-for-mysql-工具编写-sql-语句工作区域](https://www.v2ex.com/t/749249) ![](assets/new.png)  
 - [2021-01-28-chrome-浏览器重大更新？-BUG？该怎么办](https://www.v2ex.com/t/749248) ![](assets/new.png)  
@@ -1068,11 +1073,6 @@
 - [2021-01-28-chrome-浏览器的一个弱智设定](https://www.v2ex.com/t/749236) ![](assets/new.png)  
 - [2021-01-28-有没有什么简单的前端代码批量压缩的工具](https://www.v2ex.com/t/749235) ![](assets/new.png)  
 - [2021-01-28-坐标上海长宁外资电商-iHerb，-2021-年-Q1-新开职位汇总，有意向的欢迎自荐或引荐朋友，-965+福利好+员工满意度高](https://www.v2ex.com/t/749232) ![](assets/new.png)  
-- [2021-01-28-为什么-mac-电脑右上角没有消息横幅通知了？](https://www.v2ex.com/t/749229) ![](assets/new.png)  
-- [2021-01-28-不支持-goto-的语言，不是好语言](https://www.v2ex.com/t/749228) ![](assets/new.png)  
-- [2021-01-28-对于非软件开发者，编程是什么样子？多大程度上能理解？](https://www.v2ex.com/t/749227) ![](assets/new.png)  
-- [2021-01-28-国内某手机厂商急招-Android-图形图像专家](https://www.v2ex.com/t/749225) ![](assets/new.png)  
-- [2021-01-28-上海期权激励招-PHP-程序猿和前端工程师-薪资范围-12-18K](https://www.v2ex.com/t/749223) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

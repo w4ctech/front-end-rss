@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 22:40:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 22:51:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -13,4 +13,5 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2021-01-27-用WebAssembly在浏览器中对视频进行转码](https://juejin.im/post/6922652997646286856) 
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-01-27-共同维护网络清朗空间|安徽坚持“三个围绕”深入推进网络直播行业规...](https://sec.thief.one/article_content?a_id=8c8d7eeda98cca54928068b7c88c85d0) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 22:40:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 22:51:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,11 @@
 
 
 
+- [2021-01-26-【第2188期】使用JavaScript跟踪Web应用程序的性能](https://www.ershicimi.com/p/53b8722972f3fbf804b9b5e5ec14fcc1) 
+- [2021-01-21-【第2183期】Promise原理&宏微任务](https://www.ershicimi.com/p/da1f0849cfdefa3d3b67e63a76177117) 
+- [2021-01-20-超详细的-JS-数组方法](https://www.ershicimi.com/p/3c7b546430c363fad841d14f3f7bc822) 
+- [2021-01-19-10-个提升代码质量的-JS-技巧](https://www.ershicimi.com/p/66b505935981a14988e0c87283890ad9) 
+- [2021-01-14-总结了工作中常用的-ES6-代码片段，整理后的-24-个值得拥有](https://www.ershicimi.com/p/5784f280f099d6e0aa732d1f6be76c33) 
 - [2021-01-20-巧用DOM-API实现HTML字符的转义和反转义](https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/) 
 - [2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 
 - [2020-12-24-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) 
@@ -41,6 +46,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？](https://www.ershicimi.com/p/27033dcdf27caaae7012a928c62ea0ea) 
 - [2021-01-28-Module-Seed:-一套优雅的-Github-工作流](https://juejin.im/post/6922745155229319181) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
@@ -50,10 +56,12 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-01-28-有没有“css-适配-html”的-css-框架？](https://www.v2ex.com/t/749395) 
 - [2021-01-28-spring-声明式事务---线程池并发](https://www.v2ex.com/t/749380) 
 - [2021-01-28-ECMA-标准的-Promise-对象和-Promises/A+-标准的有什么不同之处？](https://www.v2ex.com/t/749377) 
 - [2021-01-28-一行能装逼的-JavaScript-代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14125&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqLtILt-1f8GwVj3IknryQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-01-28-重学-JS-系列：slice-用法大合集](https://toutiao.io/k/vcuuth3) 
 - [2021-01-28-盘点:2020年最大的十起数据泄露事件](https://sec.thief.one/article_content?a_id=358a9387497ff910e02fa89c32f21012) 
 - [2021-01-27-年度盘点-|-2020重大网络安全事件-·-医疗&教育篇](https://sec.thief.one/article_content?a_id=5d77922cbee5d42847c84fc1b8da84b6) 
 - [2021-01-27-【视频】|-Python:全局变量和局部变量](https://sec.thief.one/article_content?a_id=822acee2266b7e1db715341805e19efc) 

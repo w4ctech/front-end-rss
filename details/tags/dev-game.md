@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 03:51:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 07:09:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,5 +27,6 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
-- [2021-01-28-游戏网站，每日不断更新中，欢迎来品尝](https://www.v2ex.com/t/749148) 
+- [2021-01-28-pygame-写的小游戏：图片贪吃蛇image-snake](https://www.v2ex.com/t/749194) 
+- [2021-01-28-推荐一个解压游戏:合成大西瓜](https://sec.thief.one/article_content?a_id=7767f38acc6e230017cc7c00843fe044) 
 - [2021-01-26-游戏公司The9同意购买26,000台矿机](https://sec.thief.one/article_content?a_id=833a797d056d34e94ae46b22cc841626) 

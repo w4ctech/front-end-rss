@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-28 15:09:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 15:36:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -439,6 +439,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html)
 - [【Vue社区】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/50bd1306cf6d1b79cd1e7d871c0c4408)
 - [【政采云前端团队】如何从-0-到-1-搭建性能检测系统修正版](https://www.ershicimi.com/p/caf97cfac5fe753a40ff1f199bf6abfe)
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【凹凸实验室】大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)
 - [【凹凸实验室】京喜首页（微信购物入口）跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/)
 - [【凹凸实验室】前端优化实践总结](https://aotu.io/notes/2016/04/12/jcloud-opt/)
@@ -450,7 +452,6 @@
 - [【互联网架构师】网易开源的高性能、高可用、高可靠分布式存储系统！](https://www.ershicimi.com/p/408482c3c8f03ace47c64b2cb6e08d75)
 - [【JavaScript】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【V2EX】go-写文件的问题，请问如何优化](https://www.v2ex.com/t/749330)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -541,6 +542,7 @@
 - [【InfoQ】Netflix-联邦-GraphQL-平台的实现过程及经验教训](https://www.ershicimi.com/p/0f4ac5092485f0087f13009c6f6b8a45)
 - [【InfoQ】API-开发者永不“REST”](https://www.ershicimi.com/p/e2adf48f25f098cf72c16ff293ae3002)
 - [【InfoQ】5种常见的Docker-Compose错误](https://www.ershicimi.com/p/c84344a8ca35f845f340e852af2b7d83)
+- [【V2EX】在家的服务器，几十个-docker-应用，省心稳定，用什么底层虚拟化技术？](https://www.v2ex.com/t/749379)
 - [【开发者头条】RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -571,7 +573,9 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】有没有自己部署-gitlab-ce-服务和-CI/CD-的？体验怎么样？](https://www.v2ex.com/t/749372)
 - [【技术头条】GitHub-上最励志的计算机自学教程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14121&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA-p9MmdXeV8loVq_WBk5Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】推荐-闯过这-54-关，点亮你的-Git-技能树](https://toutiao.io/k/6kqnm2d)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

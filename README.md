@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-28 15:09:20，:rocket: 更新条数: +4230， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-28 15:36:48，:rocket: 更新条数: +4241， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -695,6 +695,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1043,6 +1053,18 @@
 </summary>
 
 
+- [2021-01-28-通过-pod-名称找到配置文件路径](https://www.v2ex.com/t/749385) ![](assets/new.png)  
+- [2021-01-28-坐标上海，寻一名春节期间一起合作的前端工程师](https://www.v2ex.com/t/749383) ![](assets/new.png)  
+- [2021-01-28-spring-声明式事务---线程池并发](https://www.v2ex.com/t/749380) ![](assets/new.png)  
+- [2021-01-28-在家的服务器，几十个-docker-应用，省心稳定，用什么底层虚拟化技术？](https://www.v2ex.com/t/749379) ![](assets/new.png)  
+- [2021-01-28-最廉价的家用别墅组网方案。。。](https://www.v2ex.com/t/749378) ![](assets/new.png)  
+- [2021-01-28-ECMA-标准的-Promise-对象和-Promises/A+-标准的有什么不同之处？](https://www.v2ex.com/t/749377) ![](assets/new.png)  
+- [2021-01-28-vue-中显示带有-latex-数学语法的-html-内容的方案](https://www.v2ex.com/t/749376) ![](assets/new.png)  
+- [2021-01-28-试验了很多-GTD-的-APP，最后还是回归了纸笔+列清单](https://www.v2ex.com/t/749375) ![](assets/new.png)  
+- [2021-01-28-ios14.4-貌似已经修复了下拉屏幕-spotlight-无法弹出「siri-建议」的-bug。](https://www.v2ex.com/t/749374) ![](assets/new.png)  
+- [2021-01-28-JetBrains-2021-年开发人员生态系统调查](https://www.v2ex.com/t/749373) ![](assets/new.png)  
+- [2021-01-28-有没有自己部署-gitlab-ce-服务和-CI/CD-的？体验怎么样？](https://www.v2ex.com/t/749372) ![](assets/new.png)  
+- [2021-01-28-关于分布式缓存，有点疑问，不吝赐教](https://www.v2ex.com/t/749371) ![](assets/new.png)  
 - [2021-01-28-有无北京的老哥解答一下疫情问题](https://www.v2ex.com/t/749370) ![](assets/new.png)  
 - [2021-01-28-利用-CF-做-V2ray-负载均衡，实现跑满宽带](https://www.v2ex.com/t/749369) ![](assets/new.png)  
 - [2021-01-28-兄-die-们，有好的智能硬件/物联网公司推荐么](https://www.v2ex.com/t/749367) ![](assets/new.png)  
@@ -1051,18 +1073,6 @@
 - [2021-01-28-Microsoft-Store-中的-QQ-桌面版更新](https://www.v2ex.com/t/749363) ![](assets/new.png)  
 - [2021-01-28-请问一下，-2-年-Java-开发，帝都，现在-税前-10K*15，跳大厂要多少合适？](https://www.v2ex.com/t/749362) ![](assets/new.png)  
 - [2021-01-28-阿里巴巴数字供应链-基础技术团队招人啦ps:-内推~~）](https://www.v2ex.com/t/749361) ![](assets/new.png)  
-- [2021-01-28-golang-的指针地址问题](https://www.v2ex.com/t/749359) ![](assets/new.png)  
-- [2021-01-28-10g-大文件-txt-如何转-sql](https://www.v2ex.com/t/749356) ![](assets/new.png)  
-- [2021-01-28-待机耗电异常的，关掉“接力”可能可以恢复正常](https://www.v2ex.com/t/749355) ![](assets/new.png)  
-- [2021-01-28-谜一样的-FITNESS+连接逻辑](https://www.v2ex.com/t/749354) ![](assets/new.png)  
-- [2021-01-28-我把用了一年多的-G-Suite-账号退订了，每个月是-12-刀，但是我发现我的共享的团队盘还是能用，之前加的几个小号也都能看见](https://www.v2ex.com/t/749353) ![](assets/new.png)  
-- [2021-01-28-一句话消息：苹果将推出-Chrome-扩展程序-“iCloud-钥匙串密码”，-Windows-将获支持](https://www.v2ex.com/t/749351) ![](assets/new.png)  
-- [2021-01-28-为啥已读不回？](https://www.v2ex.com/t/749350) ![](assets/new.png)  
-- [2021-01-28-有什么买前无需求，买后变刚需的提高幸福感的东西？比如降噪耳机？](https://www.v2ex.com/t/749349) ![](assets/new.png)  
-- [2021-01-28-I5-四代台式，想加个二手显卡上-4K-屏，买哪个可以？](https://www.v2ex.com/t/749348) ![](assets/new.png)  
-- [2021-01-28-请教一下各类大佬,-这个概率题我错在哪里?](https://www.v2ex.com/t/749346) ![](assets/new.png)  
-- [2021-01-28-WPS-FOR-MAC-怎么屏蔽版本更新检测?](https://www.v2ex.com/t/749345) ![](assets/new.png)  
-- [2021-01-28-springBoot-项目异常求解决：-IncompatibleClassChangeError](https://www.v2ex.com/t/749344) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,7 +1134,7 @@
 - [2021-01-28-使用-Android-模拟器容器来实现持续集成测试](https://toutiao.io/k/fsz5fyq) ![](assets/new.png)  
 - [2021-01-28-深度学习人体姿态估计：2014-2020-全面调研](https://toutiao.io/k/t2ee6ul) ![](assets/new.png)  
 - [2021-01-28-译-为什么-Tailwind-和我八字不合](https://toutiao.io/k/wr82g47) ![](assets/new.png)  
-- [2021-01-28-Python-机器学习：超参数调优](https://toutiao.io/k/8ih1j6y) ![](assets/new.png)  
+- [2021-01-28-资料-|-Go-语言学习入门和进阶知识](https://toutiao.io/k/395ag1b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

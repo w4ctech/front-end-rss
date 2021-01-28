@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 07:53:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 08:10:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -23,7 +23,6 @@
 - [2021-01-26-如何解释Event-Loop面试官才满意？](https://www.ershicimi.com/p/062759f43b2621f54cf5543109da75e0) 
 - [2021-01-23-美团金融服务的技术平台前端组招聘](https://www.ershicimi.com/p/2b69900358d3a0812c05fc9d8fdc1d35) 
 - [2021-01-22-和许多大厂面试官交流后，我总结了一份面试经验](https://www.ershicimi.com/p/613df6be35c1a53a39c64064311829e5) 
-- [2021-01-19-如果程序员面试都说真话…画面过于真实，哈哈哈哈哈哈](https://www.ershicimi.com/p/38dab8b6385ceec035978e3d94a8fcb4) 
 - [2021-01-21-这么靠谱的前端面试指南你都不看？耗子尾汁！](https://www.ershicimi.com/p/4fd72de2039fa25a04b52bf1f9326f77) 
 - [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668) 

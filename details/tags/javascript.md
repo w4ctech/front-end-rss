@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 07:53:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 08:10:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -65,11 +65,13 @@
 - [2021-01-18-11个棘手的JavaScript面试题](https://www.ershicimi.com/p/a8d8b1c6be50e3ee8a6f6b9a51c90eb4) 
 - [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 
 - [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
+- [2021-01-28-从打字机效果的-N-种实现看JS定时器机制和前端动画](https://www.ershicimi.com/p/08c731b47c7c75eab92b29f68d0d12b8) 
+- [2021-01-28-这些一行-JS-实现功能的代码，让你看起来像一个前端专家](https://www.ershicimi.com/p/9037932d1dd88cc9127bb434611931aa) 
+- [2021-01-27-JavaScript-世界万物诞生记](https://www.ershicimi.com/p/c397ccccffbaf61fa631c67a563ef32e) 
 - [2021-01-25-温故而知新，8张-Javascript-思维导图助你成长](https://www.ershicimi.com/p/2da04931a44af5b13124e23151453ce1) 
 - [2021-01-24-JavaScript代理的惊人力量](https://www.ershicimi.com/p/72c470e4d61c8c67ebb9bb906e2fc265) 
 - [2021-01-22-H5基于canvas实现电子签名并生成PDF文档](https://www.ershicimi.com/p/4705628569bc5a89be9ce2ab1597c8e1) 
 - [2021-01-21-为什么要用-setTimeout-模拟-setInterval-？](https://www.ershicimi.com/p/d5d1425a08ec152ba0cc16b6e2599925) 
-- [2021-01-18-一步一步手写完美符合PromiseA+规范的Promise](https://www.ershicimi.com/p/896234b36cebd26c15f83fb4d7e11f75) 
 - [2021-01-27-或许这就是下一代组件库](https://www.ershicimi.com/p/9c5d99175a4acfb343bb2552754499db) 
 - [2021-01-26-24个解决实际问题的ES6代码段](https://www.ershicimi.com/p/1219c446ced18b9aab10697af6d64039) 
 - [2021-01-21-Virtual-DOM-认知误区](https://www.ershicimi.com/p/3ca1e06681d404480ff10443194df734) 

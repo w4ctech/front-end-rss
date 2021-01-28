@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 07:53:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 08:10:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -50,6 +50,7 @@
 - [2021-01-05-3个概念，入门-Vue-组件开发](https://www.ershicimi.com/p/a66cdfe5501cc1e7c51443d931859a6c) 
 - [2021-01-14-剖析-Vue-CLI-实现原理](https://www.ershicimi.com/p/9d4ebb5e03faeaa6593e44e286296314) 
 - [2020-10-11-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/0590b6964c9fcfc3e48286bd7d353627) 
+- [2021-01-26-基于-Vue-实现一个简易-MVVM](https://www.ershicimi.com/p/5924bd2eacae095df9226171e9e444fb) 
 - [2021-01-26-实战：在Node.js和Vue.js中构建文件压缩应用程序](https://www.ershicimi.com/p/2461bcd0d78766f7971b8cd1c8ebbf52) 
 - [2021-01-19-Vue的异步更新实现原理](https://www.ershicimi.com/p/53912509b37b234a1cbeb57e5b18151b) 
 - [2021-01-05-Vue-开发实战-—-从-0-开始搭建大型-Vue-项目](https://www.ershicimi.com/p/61003712e83b5779a3397a61b0239431) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 13:01:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 13:17:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -49,6 +49,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-28-edge-使用快捷键访问历史记录非全屏，求解决](https://www.v2ex.com/t/749300) 
 - [2021-01-28-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-01-28-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
 - [2021-01-28-FreeBuf字幕组-|-Hacker101白帽进阶:移动应用安全速成讲解一](https://sec.thief.one/article_content?a_id=dcd3638480dbe09dce6c5e6e9bb33460) 
 - [2021-01-28-Java安全之Weblogic-2016-3510-分析](https://sec.thief.one/article_content?a_id=baf2ef227d35151b686a4f21d0a5b720) 
 - [2021-01-28-CNNVD-关于SonicWall-SSL-VPN-安全漏洞的预警](https://sec.thief.one/article_content?a_id=695bf774e9bf22c0b3ba77b217f2d710) 

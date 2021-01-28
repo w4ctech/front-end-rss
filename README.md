@@ -11,20 +11,20 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-28 21:51:42，:rocket: 更新条数: +525， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-28 22:05:43，:rocket: 更新条数: +3685， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
-- [前端圈](#前端圈)![](assets/dot.png)   
+- [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)![](assets/dot.png)   
+- [物联网智库](#物联网智库)  
 
 ## 文章链接
 
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-01-28-最新疫情：全国新冠累计确诊89326例-本土病例新增41例](https://m.caixin.com/m/2021-01-28/101657155.html) ![](assets/new.png)  
+- [2021-01-28-火线评论|上海应对疫情，为何不用“封字诀”](http://m.opinion.caixin.com/m/2021-01-28/101657180.html) ![](assets/new.png)  
+- [2021-01-28-最新海外疫情：新冠感染超1亿-累计死亡超216万](https://m.caixin.com/m/2021-01-28/101657152.html) ![](assets/new.png)  
+- [2021-01-28-吉林通化疫情“0号传染源”确认，检察机关提前介入](https://m.caixin.com/m/2021-01-28/101657036.html) ![](assets/new.png)  
+- [2021-01-28-陕西27日新增1例新冠确诊病例](https://m.caixin.com/m/2021-01-28/101656866.html) ![](assets/new.png)  
+- [2021-01-28-吉林27日新增新冠确诊9例-长春3例通化6例](https://m.caixin.com/m/2021-01-28/101656846.html) ![](assets/new.png)  
+- [2021-01-28-河北27日新增3例新冠-石家庄2例邢台1例（附轨迹）](https://m.caixin.com/m/2021-01-28/101656832.html) ![](assets/new.png)  
+- [2021-01-28-北京27日无新增新冠确诊病例](https://m.caixin.com/m/2021-01-28/101656829.html) ![](assets/new.png)  
+- [2021-01-28-上海27日无新增本地新冠确诊病例-新增7例境外输入病例](https://m.caixin.com/m/2021-01-28/101656826.html) ![](assets/new.png)  
+- [2021-01-28-黑龙江27日新增新冠确诊28例-无症状感染者8例](https://m.caixin.com/m/2021-01-28/101656823.html) ![](assets/new.png)  
+- [2021-01-28-【境内疫情观察】陕西新增1例本土病例（1月27日）](http://m.database.caixin.com/m/2021-01-28/101657100.html) ![](assets/new.png)  
+- [2021-01-28-全球确诊过亿-秘鲁受试者死于国药疫苗试验？已澄清丨大流行手记（1月27日）](https://m.caixin.com/m/2021-01-28/101656842.html) ![](assets/new.png)  
+- [2021-01-27-盖茨吁建全球“大流行病消防队”-忧心疫苗分配贫富国间悬殊](http://m.international.caixin.com/m/2021-01-27/101656759.html) ![](assets/new.png)  
+- [2021-01-27-低风险地区人员进返京后实行14天健康监测](http://m.china.caixin.com/m/2021-01-27/101656637.html) ![](assets/new.png)  
+- [2021-01-27-吉林26日新增本地确诊病例14例-长春12例通化2例](https://m.caixin.com/m/2021-01-27/101656263.html) ![](assets/new.png)  
+- [2021-01-27-河北26日新增7例本地新冠确诊病例-石家庄5例邢台市1例定州1例（附轨迹）](https://m.caixin.com/m/2021-01-27/101656255.html) ![](assets/new.png)  
+- [2021-01-27-北京26日新增4例本地新冠确诊病例-均在大兴融汇社区](https://m.caixin.com/m/2021-01-27/101656249.html) ![](assets/new.png)  
+- [2021-01-27-黑龙江26日新增新冠确诊29例-无症状感染者28例](https://m.caixin.com/m/2021-01-27/101656246.html) ![](assets/new.png)  
+- [2021-01-27-上海26日新增1例本地新冠确诊病例-来自黄浦区](https://m.caixin.com/m/2021-01-27/101656242.html) ![](assets/new.png)  
+- [2021-01-27-【境内疫情观察】黑龙江新增29例本土病例（1月26日）](http://m.database.caixin.com/m/2021-01-27/101656447.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -135,26 +155,6 @@
 </summary>
 
 
-- [2021-01-26-你不知道的Vue3.0-和React-17的异同点](https://www.ershicimi.com/p/25f83304c015190c36ce9f721341a8a4) ![](assets/new.png)  
-- [2021-01-26-【第2188期】使用JavaScript跟踪Web应用程序的性能](https://www.ershicimi.com/p/53b8722972f3fbf804b9b5e5ec14fcc1) ![](assets/new.png)  
-- [2021-01-26-【招聘】阿里巴巴考拉海购体验技术部招P6～P8前端工程师](https://www.ershicimi.com/p/3c1ab7f50c252c05cb6392f52e99839c) ![](assets/new.png)  
-- [2021-01-25-【第2187期】AntV图可视分析解决方案---设计篇](https://www.ershicimi.com/p/e44935d55edeb62a9156cbe2766e5be3) ![](assets/new.png)  
-- [2021-01-25-【招聘】腾讯CSIG教育部门招前端工程师](https://www.ershicimi.com/p/12f6135314350d7681977a4558f4a093) ![](assets/new.png)  
-- [2021-01-24-【第2186期】使用浏览器开发工具测试网站可访问性的七种方法](https://www.ershicimi.com/p/8b50b5781261719062d5a13246a1fed5) ![](assets/new.png)  
-- [2021-01-24-【招聘】阿里业务平台体验技术部招前端技术专家](https://www.ershicimi.com/p/3434a39f3aecfcb16f88d71367b10b22) ![](assets/new.png)  
-- [2021-01-23-【第2185期】我在阿里云做前端智能化（Dumbo）--智能代码生成](https://www.ershicimi.com/p/f3d188395feec261bd15cf44414eae6d) ![](assets/new.png)  
-- [2021-01-23-【招聘】网易严选招资深前端开发工程师数据可视化](https://www.ershicimi.com/p/432aa217e1ed3ebe6b60d860c169de45) ![](assets/new.png)  
-- [2021-01-22-【第2184期】CSS-奇思妙想边框动画](https://www.ershicimi.com/p/b0bf2d7fe6f90dc145287e8295420baa) ![](assets/new.png)  
-- [2021-01-22-【招聘】十年磨一剑，百年-DataV，邀你同路](https://www.ershicimi.com/p/ca0f3f1ca4589cecc895704a16068215) ![](assets/new.png)  
-- [2021-01-21-3个概念，入门-Vue-组件开发](https://www.ershicimi.com/p/b2f561a0bb3d7618cb8005b69d33e121) ![](assets/new.png)  
-- [2021-01-21-【第2183期】Promise原理&宏微任务](https://www.ershicimi.com/p/da1f0849cfdefa3d3b67e63a76177117) ![](assets/new.png)  
-- [2021-01-21-【招聘】京东零售平台业务中心招前端工程师](https://www.ershicimi.com/p/f56e26b33207172b056c14d5365ea1ce) ![](assets/new.png)  
-- [2021-01-20-【第2182期】揭秘3D互动技术在蚂蚁数字金融的应用实战](https://www.ershicimi.com/p/92a6054e6f93f924bb1d5052bc1955e8) ![](assets/new.png)  
-- [2021-01-20-【招聘】阿里云流量产品事业部前端技术团队招P6~P7](https://www.ershicimi.com/p/f8b8b892f7350a5858b3b3d71289138a) ![](assets/new.png)  
-- [2021-01-20-【视频】-你在使用React、Vue还是jQuery？](https://www.ershicimi.com/p/3ac822959e16d4ad522be895f8b6ed6c) ![](assets/new.png)  
-- [2021-01-19-《前端中文入门手册》.pdf](https://www.ershicimi.com/p/5ebaaf53a3427eda2d9045d1daf1ed0c) ![](assets/new.png)  
-- [2021-01-19-【第2181期】我在阿里云做前端智能化（Dumbo）--页面布局分析](https://www.ershicimi.com/p/c41eef549bc6ddcc999b7bec14de2595) ![](assets/new.png)  
-- [2021-01-19-【招聘】阿里1688体验技术团队招前端工程师](https://www.ershicimi.com/p/55af2a5ad442e9778f7f622ae7d46ae4) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,26 +188,6 @@
 </summary>
 
 
-- [2020-06-17-视频蒋豪群聊聊Vue-3-周边项目](https://www.ershicimi.com/p/2a12d97dd7bb04af90078ddf2b9f196d) ![](assets/new.png)  
-- [2020-06-08-Vue3三连发，这期聊聊Vue-3周边项目](https://www.ershicimi.com/p/97695ac09543799ef0ccda9e2479572e) ![](assets/new.png)  
-- [2020-05-13-视频Winter-教你-MVVM](https://www.ershicimi.com/p/407d00f5a91b47a7f16018aaec12084f) ![](assets/new.png)  
-- [2020-05-09-约吗？-Winter-问你](https://www.ershicimi.com/p/56070921db6716af5615b24f68ab643b) ![](assets/new.png)  
-- [2020-04-27-视频Vue.js-3.0-什么时候可以投入生产使用](https://www.ershicimi.com/p/62da65e218585b265a4ddc89ca674b0b) ![](assets/new.png)  
-- [2020-04-20-尤雨溪约你聊聊Vue.js-3.0-Beta](https://www.ershicimi.com/p/6f88eda2cef2ca14858c173412919f36) ![](assets/new.png)  
-- [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) ![](assets/new.png)  
-- [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) ![](assets/new.png)  
-- [2019-10-13-视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5) ![](assets/new.png)  
-- [2019-10-13-更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d) ![](assets/new.png)  
-- [2019-10-12-视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b) ![](assets/new.png)  
-- [2019-10-11-视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b) ![](assets/new.png)  
-- [2019-10-10-视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a) ![](assets/new.png)  
-- [2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) ![](assets/new.png)  
-- [2019-10-08-视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed) ![](assets/new.png)  
-- [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) ![](assets/new.png)  
-- [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) ![](assets/new.png)  
-- [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) ![](assets/new.png)  
-- [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) ![](assets/new.png)  
-- [2019-06-21-视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端圈.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -677,26 +657,6 @@
 </summary>
 
 
-- [2021-01-25-IBM中国研究院全面关闭！网友感慨：不996的公司都死了……](https://www.ershicimi.com/p/87ddaad2db19cc922fa442e385e95d7c) ![](assets/new.png)  
-- [2021-01-25-5nm芯片为何集体翻车？10年前困扰台积电三星的问题又回来了](https://www.ershicimi.com/p/b9b87ffd0d40da25268ae0ff09fe3233) ![](assets/new.png)  
-- [2021-01-25-如何在万米高空畅享5G？](https://www.ershicimi.com/p/c0523120e455016b82bc40dd38eaecfb) ![](assets/new.png)  
-- [2021-01-24-2020年全球物联网10大事件盘点，其中透露了哪些信号?【物女心经】](https://www.ershicimi.com/p/24b73a8b60945d835ed003eb9f370663) ![](assets/new.png)  
-- [2021-01-24-物联网投融资周报|通用Cruise获20亿美元融资；字节跳动投资盈合机器人；货拉拉将完成15亿美元融](https://www.ershicimi.com/p/8073e06fc50af2dcda7ca648a41ba59d) ![](assets/new.png)  
-- [2021-01-23-刚刚，工信部发布的《2020年通信业统计公报》透露了哪些重要数据？](https://www.ershicimi.com/p/7895d26923ca4931b716efae0ceea126) ![](assets/new.png)  
-- [2021-01-23-AIoT产业全景图谱系列解读（五）|“用”侧贴近市场，努力探索产品场景化落地](https://www.ershicimi.com/p/585e745efe1978dab8a5e409d74c0e0f) ![](assets/new.png)  
-- [2021-01-22-华为、小米、百度、魅族…激战全屋智能，谁的底牌更硬？](https://www.ershicimi.com/p/3afd714dcff4e22c54e3f05111c3ba8b) ![](assets/new.png)  
-- [2021-01-22-AIoT产业全景图谱系列解读（四）丨“云”玩家秩序重整，物联网产业良序发展！](https://www.ershicimi.com/p/9c983494b13241bbfa4ac44881e72f94) ![](assets/new.png)  
-- [2021-01-22-以后业务员也能直接开发APP了？Mendix让这一切成为可能](https://www.ershicimi.com/p/c7702b1f1bd200b338c43eed8a032f12) ![](assets/new.png)  
-- [2021-01-21-开源：物联网发展的“中场战事”丨物深度004](https://www.ershicimi.com/p/7e85843e75cd8b77304257d41644e516) ![](assets/new.png)  
-- [2021-01-21-AIoT产业全景图谱系列解读（三）|“管”侧持续探索，连接能力成物联网发展助推剂！](https://www.ershicimi.com/p/db60803bdaf9f325cb50e504ce310aa1) ![](assets/new.png)  
-- [2021-01-21-2021年，谁发现了边缘计算的赚钱生意？](https://www.ershicimi.com/p/ac83293c8035d18ef7494396adcbbb91) ![](assets/new.png)  
-- [2021-01-20-浙江或诞生第二所“西湖大学”！中国芯片首富斥资200亿建“东方理工大学”……](https://www.ershicimi.com/p/7c42402c54440b73949d082ac5d0209e) ![](assets/new.png)  
-- [2021-01-20-​AIoT产业全景图谱系列解读（二）|能力下沉，边缘智能全面赋能低时延场景](https://www.ershicimi.com/p/a581461e523f266fc28e8c62bc731934) ![](assets/new.png)  
-- [2021-01-20-美的IoT入选2020年度产业领袖系列榜单之融合新基建榜单](https://www.ershicimi.com/p/1fd6d0e661c8d14de20c954a82515a24) ![](assets/new.png)  
-- [2021-01-20-募资200亿加码物联网，京东方能成吗？](https://www.ershicimi.com/p/b7597231b6aa97363d5bcf49b73b3623) ![](assets/new.png)  
-- [2021-01-19-特朗普任期最后一天也“背锅”！他要对全球车企芯片大短缺负责吗？](https://www.ershicimi.com/p/e862f0e20cc3d7156881fd3ad5a39184) ![](assets/new.png)  
-- [2021-01-19-AIoT产业全景图谱系列解读（一）|“端”侧玩家接棒，物联网终端井喷！](https://www.ershicimi.com/p/cabc1ddd14208a5a549dab3732163561) ![](assets/new.png)  
-- [2021-01-19-广电的700M为什么被称为黄金频段？](https://www.ershicimi.com/p/a7a04b8e9931f6b9a7333e804548c910) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

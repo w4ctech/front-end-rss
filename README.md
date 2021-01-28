@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-28 09:42:46，:rocket: 更新条数: +4245， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-28 09:51:02，:rocket: 更新条数: +4243， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,7 +1057,6 @@
 - [2021-01-28-逃离深圳半年多了，说说体验](https://www.v2ex.com/t/749304) ![](assets/new.png)  
 - [2021-01-28-社招急招-北京-新浪-安卓开发-20k-40k-在线审核简历，合适马上约面试。](https://www.v2ex.com/t/749303) ![](assets/new.png)  
 - [2021-01-28-Windows-电脑录音/录屏软件求推荐，在电话会议时使用](https://www.v2ex.com/t/749302) ![](assets/new.png)  
-- [2021-01-28-有没有可以对喷的地方啊~~~](https://www.v2ex.com/t/749301) ![](assets/new.png)  
 - [2021-01-28-edge-使用快捷键访问历史记录非全屏，求解决](https://www.v2ex.com/t/749300) ![](assets/new.png)  
 - [2021-01-28-迫于本人要跑路，所以找一个人来接替我的岗位](https://www.v2ex.com/t/749299) ![](assets/new.png)  
 - [2021-01-28-BigONE北京百子湾-求-Go-后端及区块链钱包开发！](https://www.v2ex.com/t/749298) ![](assets/new.png)  
@@ -1074,6 +1073,7 @@
 - [2021-01-28-请假各位程序猿一个问题](https://www.v2ex.com/t/749285) ![](assets/new.png)  
 - [2021-01-28-年底想换工作？阿里旗下高德地图，大量-JD-快到碗里来，内推发送简历到-lianjun.zlj@alibaba-inc.com](https://www.v2ex.com/t/749284) ![](assets/new.png)  
 - [2021-01-28-笔记本电池可拆卸，怎么不像以前手机那样流行外置座充充电器呢？](https://www.v2ex.com/t/749283) ![](assets/new.png)  
+- [2021-01-28-有什么个人可以操作的人工智能赚钱项目，比如-AI-游戏代练、AI-视频编辑...](https://www.v2ex.com/t/749282) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

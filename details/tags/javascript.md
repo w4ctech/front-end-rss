@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 02:59:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 03:11:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -126,7 +126,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-01-28-京东云路由真香呀](https://www.v2ex.com/t/749121) 
-- [2021-01-28-一行能装逼的-JavaScript-代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14125&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqLtILt-1f8GwVj3IknryQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-01-28-重学-JS-系列：slice-用法大合集](https://toutiao.io/k/vcuuth3) 
 - [2021-01-27-年度盘点-|-2020重大网络安全事件-·-医疗&教育篇](https://sec.thief.one/article_content?a_id=5d77922cbee5d42847c84fc1b8da84b6) 
 - [2021-01-27-【视频】|-Python:全局变量和局部变量](https://sec.thief.one/article_content?a_id=822acee2266b7e1db715341805e19efc) 
 - [2021-01-26-年度盘点-|-2020重大网络安全事件-·-政府篇](https://sec.thief.one/article_content?a_id=6b3721c13699e486e8f43320d3d9a784) 

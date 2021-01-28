@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 02:59:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 03:11:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -18,5 +18,6 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2021-01-27-你还在用HTTP吗？HTTP/3都来了。。。](https://www.ershicimi.com/p/c74af2403a9f81f1c832835995b78d46) 
 - [2021-01-22-最深刻最通俗的HTTPS-原理详解，图文并茂](https://www.ershicimi.com/p/ee10efebe3425ac9864822e54e827697) 
+- [2021-01-28-neovim-的-float-window-不消失](https://www.v2ex.com/t/749158) 
 - [2021-01-28-Python-全栈开发岗位越来越多了吗](https://www.v2ex.com/t/749111) 
 - [2021-01-27-卧槽!字节跳动《算法中文手册》火了,完整版-PDF-开放下载!](https://sec.thief.one/article_content?a_id=70bfa38097efc189a94b9cd2d0daa40b) 

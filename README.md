@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-28 00:11:53，:rocket: 更新条数: +4211， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-28 00:23:16，:rocket: 更新条数: +4190， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1095,26 +1095,21 @@
 </summary>
 
 
-- [2021-01-28-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
-- [2021-01-28-什么是-TMD-的-MVP（最小可行性产品）?](https://toutiao.io/k/t4xmyfk) ![](assets/new.png)  
-- [2021-01-28-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
-- [2021-01-28-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
-- [2021-01-28-教你如何使用-Node-+-Express-+-Typescript-开发一个应用](https://toutiao.io/k/6yxdar1) ![](assets/new.png)  
-- [2021-01-28-Spring-Boot-集成-ActiveMQ-Artemis](https://toutiao.io/k/vplubh1) ![](assets/new.png)  
-- [2021-01-28-如何编写有效的接口测试？](https://toutiao.io/k/t2xdq9d) ![](assets/new.png)  
-- [2021-01-28-面对-Kafka-消费不给力，如何轻松解决呢？](https://toutiao.io/k/o75dtcd) ![](assets/new.png)  
-- [2021-01-28-LocalDateTime、OffsetDateTime、ZonedDateTime-互转，这一篇绝对喂饱你](https://toutiao.io/k/5bq62lq) ![](assets/new.png)  
-- [2021-01-28-MySQL-5.6.35-索引优化导致的死锁案例解析](https://toutiao.io/k/wuikf7s) ![](assets/new.png)  
-- [2021-01-28-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
-- [2021-01-28-“年前”-的团队总结我是这么做的](https://toutiao.io/k/234wdld) ![](assets/new.png)  
-- [2021-01-28-BCryptPasswordEncoder-的使用及原理](https://toutiao.io/k/fbbq4ax) ![](assets/new.png)  
-- [2021-01-28-GraphQL-让调用接口变的更丝滑](https://toutiao.io/k/6ysje7y) ![](assets/new.png)  
-- [2021-01-28-PULSE：一种基于隐式空间的图像超分辨率算法](https://toutiao.io/k/bjaeu6n) ![](assets/new.png)  
-- [2021-01-28-译-高级-Promise-模式：Promise-缓存](https://toutiao.io/k/ig2ighi) ![](assets/new.png)  
-- [2021-01-28-产品经理的-“临界点”](https://toutiao.io/k/kgdz4qg) ![](assets/new.png)  
-- [2021-01-28-Piping-Server：实现设备间通过纯-HTTP-无限传输数据](https://toutiao.io/k/abe056b) ![](assets/new.png)  
-- [2021-01-28-AWS-开始反击-Elastic-公司：将要创建维护-Apache-2.0-协议的-ElasticSearch-分支](https://toutiao.io/k/p8cd9hl) ![](assets/new.png)  
-- [2021-01-28-云原生-AI-平台的加速与实践](https://toutiao.io/k/yojhbhm) ![](assets/new.png)  
+- [2021-01-28-推荐-使用了这个神器，让我的代码-bug-少了一半](https://toutiao.io/k/w8zvjee) ![](assets/new.png)  
+- [2021-01-28-推荐-网络抓包大法好，tcpdump-和-Wireshark-少不了](https://toutiao.io/k/5ssh1zt) ![](assets/new.png)  
+- [2021-01-28-推荐-讲解-Zookeeper-的五个核心知识点](https://toutiao.io/k/te1s8su) ![](assets/new.png)  
+- [2021-01-28-推荐-阿里面试官问我-Java-线程和操作系统线程什么关系](https://toutiao.io/k/oh81sch) ![](assets/new.png)  
+- [2021-01-28-推荐-下一代消息队列-Pulsar-到底是什么？](https://toutiao.io/k/zdb2zbb) ![](assets/new.png)  
+- [2021-01-28-推荐-把-VSCode-打造成技术写作神器](https://toutiao.io/k/4n0p7ex) ![](assets/new.png)  
+- [2021-01-28-推荐-DDD-实现之路](https://toutiao.io/k/9r5qrcy) ![](assets/new.png)  
+- [2021-01-28-推荐-换个角度，聊聊全链路压测](https://toutiao.io/k/46w7ldx) ![](assets/new.png)  
+- [2021-01-28-推荐-1-个人独立变现-6-种途径收入-130-万美金在-2020-年（人物志-21-篇）](https://toutiao.io/k/ci3lzlc) ![](assets/new.png)  
+- [2021-01-28-推荐-最终一致性，一致只会迟到，但绝不会缺席](https://toutiao.io/k/9q7yxnu) ![](assets/new.png)  
+- [2021-01-28-推荐-聊聊风口上的-eBPF](https://toutiao.io/k/53qmmzi) ![](assets/new.png)  
+- [2021-01-28-推荐-全网最全！彻底弄透-Java-处理-GMT/UTC-日期时间](https://toutiao.io/k/mmjgntt) ![](assets/new.png)  
+- [2021-01-28-推荐-译-API-设计最佳实践](https://toutiao.io/k/zxvyi14) ![](assets/new.png)  
+- [2021-01-28-推荐-可能是说的最分明的-IaaS,-PaaS,-FaaS,-SaaS,-MicroService,-Serverless-了](https://toutiao.io/k/p2q8xl8) ![](assets/new.png)  
+- [2021-01-28-推荐-微服务实现简单的分布式日志追踪](https://toutiao.io/k/s7af3dl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,6 +1121,18 @@
 </summary>
 
 
+- [2021-01-28-SciSec-2021论文征稿-2021/5/1](https://sec.thief.one/article_content?a_id=717e6caa4463b13801f3624b99bb800d) ![](assets/new.png)  
+- [2021-01-28-《涉密信息系统集成资质管理办法》发布2021年3月1日施行](https://sec.thief.one/article_content?a_id=ed945c66027bd95e2bc50553565852c1) ![](assets/new.png)  
+- [2021-01-27-中国巴菲特:段永平](https://sec.thief.one/article_content?a_id=faf4b0846590bc9ae7e6c9a95fdfa83e) ![](assets/new.png)  
+- [2021-01-27-SecWiki安全招聘第47期](https://sec.thief.one/article_content?a_id=542328a280daa6e201d7c9837a723de0) ![](assets/new.png)  
+- [2021-01-27-调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=c35fb2b04e8135a94b1af29694f65277) ![](assets/new.png)  
+- [2021-01-27-linux系统管理指令Sudo出现重大漏洞!影响绝大多数Linux系统](https://sec.thief.one/article_content?a_id=fb3c5893ac05a140c808fa6b9e20595e) ![](assets/new.png)  
+- [2021-01-27-开课啦!《绿盟安全服务技术认证-安全运维》报名开启](https://sec.thief.one/article_content?a_id=7b92b179b51cf277bbb0335fd6984106) ![](assets/new.png)  
+- [2021-01-27-【安全圈】特斯拉工程师窃取特斯拉全部运营自动化代码](https://sec.thief.one/article_content?a_id=5eb375fa762ef0f34e45e05c80236cec) ![](assets/new.png)  
+- [2021-01-27-【漏洞通告】Linux-sudo权限提升漏洞CVE-2021-3156](https://sec.thief.one/article_content?a_id=9e6ebe93f5d8662a72888d690ad3d9d6) ![](assets/new.png)  
+- [2021-01-27-老码农公开!我是这样不花钱开CSDN会员的......](https://sec.thief.one/article_content?a_id=1cf12e9403c37f233a56211a3524e0fe) ![](assets/new.png)  
+- [2021-01-27-年度盘点-|-2020重大网络安全事件-·-医疗&教育篇](https://sec.thief.one/article_content?a_id=5d77922cbee5d42847c84fc1b8da84b6) ![](assets/new.png)  
+- [2021-01-27-《网安26号院》|前方到站,奇安信](https://sec.thief.one/article_content?a_id=3a2a6072afa2976463e4508d356d885a) ![](assets/new.png)  
 - [2021-01-27-Egregor勒索软件简要分析报告](https://sec.thief.one/article_content?a_id=82426fc4cfca21bf2d547c0d9bd3908a) ![](assets/new.png)  
 - [2021-01-27-*CTF2021-By-天璇Merak](https://sec.thief.one/article_content?a_id=0f6c1c4879be7014637ed656d7d3e15b) ![](assets/new.png)  
 - [2021-01-27-狼烟再起-|-物联网僵尸家族入侵模式再更新,阻击需提前](https://sec.thief.one/article_content?a_id=2d39d31e29b8017f39ad5e081c12e1fd) ![](assets/new.png)  
@@ -1134,18 +1141,6 @@
 - [2021-01-27-比特币占2021年总加密流入量的97%](https://sec.thief.one/article_content?a_id=7f5092d167eb7710dd33759180c2fe87) ![](assets/new.png)  
 - [2021-01-27-共同维护网络清朗空间|安徽坚持“三个围绕”深入推进网络直播行业规...](https://sec.thief.one/article_content?a_id=8c8d7eeda98cca54928068b7c88c85d0) ![](assets/new.png)  
 - [2021-01-27-每日攻防资讯简报Jan.27th](https://sec.thief.one/article_content?a_id=c739ff27f6f2052cfd32ad00ff4f7a5a) ![](assets/new.png)  
-- [2021-01-27-谁说SQL注入不行了](https://sec.thief.one/article_content?a_id=a591475e6ad92334928b4372744df1c9) ![](assets/new.png)  
-- [2021-01-27-诸子星球-|-微话题:“逃生账号”怎么管?](https://sec.thief.one/article_content?a_id=eab4b884fefdd68d9e3108f783ff02df) ![](assets/new.png)  
-- [2021-01-27-开放银行蓬勃发展,网络风险规避与业务安全建设亟需重视](https://sec.thief.one/article_content?a_id=e035c48fc7fe5b4cf929cd4441a8c228) ![](assets/new.png)  
-- [2021-01-27-文内福利-|-雷神众测陪你牛气哄哄过大年!](https://sec.thief.one/article_content?a_id=29af161c0f906574205b2f2d87072646) ![](assets/new.png)  
-- [2021-01-27-比特币现3K看涨组合,反弹随时可能展开](https://sec.thief.one/article_content?a_id=d0c88e6214e0c1c25840a2e01905afe1) ![](assets/new.png)  
-- [2021-01-27-微软Edge浏览器和谷歌浏览器推出密码保护工具](https://sec.thief.one/article_content?a_id=ea67be28f5f45f9405654f59b626099c) ![](assets/new.png)  
-- [2021-01-27-再见!IBM-中国研究院](https://sec.thief.one/article_content?a_id=6d38e441e7ddac694fe9ad133e4f54f3) ![](assets/new.png)  
-- [2021-01-27-国家漏洞库CNNVD:关于致远OA文件上传漏洞情况的通报](https://sec.thief.one/article_content?a_id=8b05c88e2d346c6b59d44736d3db26c2) ![](assets/new.png)  
-- [2021-01-27-每日安全动态推送01-27](https://sec.thief.one/article_content?a_id=8601f001fa478fcf3d44908a0bdefc2b) ![](assets/new.png)  
-- [2021-01-27-漏洞情报|Linux-Sudo-本地权限提升高危漏洞风险通告CVE-2021-...](https://sec.thief.one/article_content?a_id=75237cbd4a45e0119d978c2c79c59dfc) ![](assets/new.png)  
-- [2021-01-27-习近平自述:“我”的互联网思维](https://sec.thief.one/article_content?a_id=367d54d2582f30d88058ef280968e949) ![](assets/new.png)  
-- [2021-01-27-“熊孩子”乱敲键盘就攻破了Linux桌面-大神:17年前我就警告过你们](https://sec.thief.one/article_content?a_id=4d1d4a290da839cade9ba58179f7369f) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

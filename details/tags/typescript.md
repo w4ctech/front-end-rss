@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 00:11:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 00:23:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -13,4 +13,3 @@
 - [2021-01-19-实现一个-async/await-（typescript-版）](https://www.ershicimi.com/p/b4672ec4e87f1079d21d9c490592542f) 
 - [2020-05-14-TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f) 
 - [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 
-- [2021-01-28-教你如何使用-Node-+-Express-+-Typescript-开发一个应用](https://toutiao.io/k/6yxdar1) 

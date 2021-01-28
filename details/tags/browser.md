@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 00:11:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 00:23:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,7 +44,10 @@
 - [2021-01-25-Postman-如何处理庞大难以管理的网关服务](https://www.ershicimi.com/p/fe0bafb534dc83b2df4a75e7f2196eb2) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-28-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-01-28-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
+- [2021-01-27-SecWiki安全招聘第47期](https://sec.thief.one/article_content?a_id=542328a280daa6e201d7c9837a723de0) 
+- [2021-01-27-调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=c35fb2b04e8135a94b1af29694f65277) 
+- [2021-01-27-开课啦!《绿盟安全服务技术认证-安全运维》报名开启](https://sec.thief.one/article_content?a_id=7b92b179b51cf277bbb0335fd6984106) 
+- [2021-01-27-【安全圈】特斯拉工程师窃取特斯拉全部运营自动化代码](https://sec.thief.one/article_content?a_id=5eb375fa762ef0f34e45e05c80236cec) 
 - [2021-01-27-开放银行蓬勃发展,网络风险规避与业务安全建设亟需重视](https://sec.thief.one/article_content?a_id=e035c48fc7fe5b4cf929cd4441a8c228) 
 - [2021-01-27-微软Edge浏览器和谷歌浏览器推出密码保护工具](https://sec.thief.one/article_content?a_id=ea67be28f5f45f9405654f59b626099c) 
 - [2021-01-27-每日安全动态推送01-27](https://sec.thief.one/article_content?a_id=8601f001fa478fcf3d44908a0bdefc2b) 
@@ -61,5 +64,3 @@
 - [2021-01-25-继续领跑信创赛道-奇安信可信浏览器升级至最新90内核](https://sec.thief.one/article_content?a_id=ab964f10bcf6a41fcb880c3eea30df30) 
 - [2021-01-25-新锐-|-雾帜智能傅奎:以提升安全人员幸福感为创业使命](https://sec.thief.one/article_content?a_id=17f155df102ff5535bcf4e299bedc04f) 
 - [2021-01-25-破坏Windows-Defender应用程序的控制功能——安全研究案例](https://sec.thief.one/article_content?a_id=af9c9f2b1ef5201dc5d134854c674218) 
-- [2021-01-25-每日安全动态推送01-25](https://sec.thief.one/article_content?a_id=9c963e30bf153f0a6f55aa1290cf684e) 
-- [2021-01-25-【重要提醒】“Seraph安全实验室官网”重磅上线!!!](https://sec.thief.one/article_content?a_id=c00fe116d5960eef7d211fe7821d301d) 

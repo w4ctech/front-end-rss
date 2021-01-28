@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 03:23:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 03:42:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,8 +38,6 @@
 - [2021-01-23-并发重复请求，这才是优雅的处理方式！](https://www.ershicimi.com/p/a2cedd6a265ba3537fcf6c62d7570611) 
 - [2021-01-25-Postman-如何处理庞大难以管理的网关服务](https://www.ershicimi.com/p/fe0bafb534dc83b2df4a75e7f2196eb2) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-01-28-为什么这么多年了还不修复日志和-cookies-会写到“鑻遍泟鑱旂洘”目录下的问题](https://www.v2ex.com/t/749123) 
-- [2021-01-28-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
 - [2021-01-27-SecWiki安全招聘第47期](https://sec.thief.one/article_content?a_id=542328a280daa6e201d7c9837a723de0) 
 - [2021-01-27-调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=c35fb2b04e8135a94b1af29694f65277) 
 - [2021-01-27-开课啦!《绿盟安全服务技术认证-安全运维》报名开启](https://sec.thief.one/article_content?a_id=7b92b179b51cf277bbb0335fd6984106) 

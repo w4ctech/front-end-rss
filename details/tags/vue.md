@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 03:23:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 03:42:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -65,4 +65,6 @@
 - [2020-12-18-最火的-Vue-前端框架，你用对了么？](https://www.ershicimi.com/p/7d14f8a7f058a7d1e1ecde4ceb2b8a7f) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
+- [2021-01-28-建了个-VuePress-主题的交流群,欢迎喜欢用-vuepress-制作和使用主题的小伙伴进群交流](https://www.v2ex.com/t/749170) 
+- [2021-01-28-Vue-3-自定义指令开发](https://www.v2ex.com/t/749169) 
 - [2021-01-28-为什么-Vue-3.0-要重写响应式系统](https://toutiao.io/k/mcy3bl9) 

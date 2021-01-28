@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 03:23:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 03:42:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -31,5 +31,6 @@
 - [2020-11-24-腾讯、华为前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/ffe7530ce4a69354ec8f0534ebcac557) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
+- [2021-01-28-阿里云-云原生团队-2022-届春季实习⽣招聘](https://www.v2ex.com/t/749171) 
 - [2021-01-28-总结后发问-作为一个面试者在面试的时候到底要注意哪些坑](https://www.v2ex.com/t/749152) 
 - [2021-01-28-招聘：交叉科技-基金经理/机器学习/系统开发等-北京](https://www.v2ex.com/t/749129) 

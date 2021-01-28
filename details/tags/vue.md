@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 20:15:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 20:39:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -40,13 +40,15 @@
 - [2021-01-14-华为免费培养2000名VUE&H5开发者！](https://www.ershicimi.com/p/0882c6c137c668d165ad16163e274c9d) 
 - [2021-01-11-前端开发进阶必备：Vue3.0源码解析](https://www.ershicimi.com/p/50cf808a084c98772cd3491ff42de13d) 
 - [2021-01-06-一次关于-Vue-的自我模拟面试](https://www.ershicimi.com/p/035d9c8c4713436e1abccff85a1703a0) 
+- [2020-07-07-1元福利-|-深度剖析Vue-.js-3.0底层逻辑，带你向高级前端进阶！](https://www.ershicimi.com/p/b7eeaaa6276d65ebe0a5252368725728) 
+- [2020-04-19-2020年-4-月-21日-星期二-晚上-9:30-Vue.js-作者尤雨溪与你相约前端圈的-B-站](https://www.ershicimi.com/p/69d20f9c5bb2de3da1dad85699594815) 
+- [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
+- [2021-01-18-最火的-Vue-前端框架，你用对了么？-|-活动推荐](https://www.ershicimi.com/p/72ad25667280750cf4ada80e9ae06081) 
 - [2021-01-25-大厂2个Vue实践总结，效率提升80%！](https://www.ershicimi.com/p/8fbad0f4d4795b922b9bb38a38d80e5e) 
 - [2021-01-13-手写Vue3核心模块源码，掌握阅读源码的正确方法](https://www.ershicimi.com/p/be36dfc0ed0050defd0780e5cf7bfc5c) 
 - [2021-01-06-我从-Vuejs-中学到了什么](https://www.ershicimi.com/p/cc841025ab1b10adbad5f17329cd793f) 
 - [2021-01-05-3个概念，入门-Vue-组件开发](https://www.ershicimi.com/p/a66cdfe5501cc1e7c51443d931859a6c) 
-- [2021-01-14-剖析-Vue-CLI-实现原理](https://www.ershicimi.com/p/9d4ebb5e03faeaa6593e44e286296314) 
 - [2020-10-11-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/0590b6964c9fcfc3e48286bd7d353627) 
-- [2021-01-26-基于-Vue-实现一个简易-MVVM](https://www.ershicimi.com/p/5924bd2eacae095df9226171e9e444fb) 
 - [2021-01-26-实战：在Node.js和Vue.js中构建文件压缩应用程序](https://www.ershicimi.com/p/2461bcd0d78766f7971b8cd1c8ebbf52) 
 - [2021-01-19-Vue的异步更新实现原理](https://www.ershicimi.com/p/53912509b37b234a1cbeb57e5b18151b) 
 - [2021-01-05-Vue-开发实战-—-从-0-开始搭建大型-Vue-项目](https://www.ershicimi.com/p/61003712e83b5779a3397a61b0239431) 
@@ -63,7 +65,6 @@
 - [2020-12-21-来一起用-Vue3.0-造轮子](https://www.ershicimi.com/p/34e97f93b5d651329bf09ddd0e0e8b2a) 
 - [2020-12-10-又作什么妖？会-Vue-也是错……](https://www.ershicimi.com/p/ae08e4308e9b3c9c8dd44f2c7481bb14) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
-- [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
 - [2021-01-28-vue-中显示带有-latex-数学语法的-html-内容的方案](https://www.v2ex.com/t/749376) 
 - [2021-01-28-Vue-超清晰思维导图，带你详细梳理知识点-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14122&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fww6gsD64DDacWnvbI68HwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-01-28-为什么-Vue-3.0-要重写响应式系统](https://toutiao.io/k/mcy3bl9) 

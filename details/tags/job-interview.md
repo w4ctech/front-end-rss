@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-28 07:19:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 07:26:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -33,5 +33,4 @@
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-01-28-社招-大数据外企-招聘-前端/后端/大数据研发/架构师](https://www.v2ex.com/t/749246) 
 - [2021-01-28-上海-积梦智能招聘工业互联网-Go-应用开发工程师](https://www.v2ex.com/t/749242) 
-- [2021-01-28-招聘-Java-工程师与前端工程师-14~60K-16-薪-成都-可远程办公](https://www.v2ex.com/t/749204) 
 - [2021-01-28-记一次阿里面试，止步第三轮，发现这个是硬伤-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14124&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8qMS5AD91-VLyYZmOrcjYA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-01-28 07:19:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 07:26:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-01-28-哪位有-ubuntu/manjaro-在-4k-分辨率下的截图?](https://www.v2ex.com/t/749254) 
 - [2021-01-28-Navciat-for-mysql-工具编写-sql-语句工作区域](https://www.v2ex.com/t/749249) 
 - [2021-01-28-chrome-浏览器重大更新？-BUG？该怎么办](https://www.v2ex.com/t/749248) 
 - [2021-01-28-求推荐适合菜鸟的轻量级-PHP-框架-😅](https://www.v2ex.com/t/749247) 
@@ -35,7 +36,3 @@
 - [2021-01-28-迫于找不到好用的-Android-自动化软件，自己做了一套，顺带开个源](https://www.v2ex.com/t/749211) 
 - [2021-01-28-新浪-招-C++开发工程师](https://www.v2ex.com/t/749209) 
 - [2021-01-28-上海-近期技术职位总览，请赶紧戳进来](https://www.v2ex.com/t/749207) 
-- [2021-01-28-招聘-Java-工程师与前端工程师-14~60K-16-薪-成都-可远程办公](https://www.v2ex.com/t/749204) 
-- [2021-01-28-求助-MACBOOK-PRO-16-关闭自动更新后恢复的问题](https://www.v2ex.com/t/749203) 
-- [2021-01-28-出些-Google-Voice-/-GV-靓号](https://www.v2ex.com/t/749202) 
-- [2021-01-28-墨菲定律在我身上屡试不爽。](https://www.v2ex.com/t/749201) 

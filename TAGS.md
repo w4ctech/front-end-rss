@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-29 05:15:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-29 05:39:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -399,6 +399,7 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【安全热点】每日安全动态推送01-29](https://sec.thief.one/article_content?a_id=e42c9163452351379ed255cd91c7c4b6)
 - [【安全热点】营业厅能看到详细上网数据?专家:功能必需,可提升安全认证等级](https://sec.thief.one/article_content?a_id=0eb20364a5a5febae116780026479aec)
 - [【安全热点】【安全圈】不用密码就能获取root权限?Sudo被曝新漏洞](https://sec.thief.one/article_content?a_id=bd9a9065a20a13ec1c03b9383bf09449)
 - [【安全热点】奇安信与科蓝软件达成战略合作-助力金融科技安全融合创新发展](https://sec.thief.one/article_content?a_id=c255c308b6e9f8227e6fa5829f9454d4)
@@ -410,7 +411,6 @@
 - [【安全热点】每日安全动态推送01-28](https://sec.thief.one/article_content?a_id=756e76e6b6f0261a6d257b84bb6ef63b)
 - [【安全热点】网络安全编程:Winsock编程之基于TCP的通信](https://sec.thief.one/article_content?a_id=80a2a032e134e04e033ba5614abf823f)
 - [【安全热点】SecWiki安全招聘第47期](https://sec.thief.one/article_content?a_id=542328a280daa6e201d7c9837a723de0)
-- [【安全热点】调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=c35fb2b04e8135a94b1af29694f65277)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-29 05:15:51，:rocket: 更新条数: +368， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-29 05:39:54，:rocket: 更新条数: +368， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -537,8 +537,10 @@
 </summary>
 
 
+- [2021-01-29-【漏洞通告】WebLogic-T3/IIOP反序列化漏洞-XXE漏洞](https://sec.thief.one/article_content?a_id=62b90ba5f81c57d675ae193809b5975e) ![](assets/new.png)  
 - [2021-01-29-CVE-2021-3115——Golang-Windows版本-RCE漏洞](https://sec.thief.one/article_content?a_id=bfb5afae11294f9ed9f3ec95e94407b0) ![](assets/new.png)  
 - [2021-01-29-史上最短命-Windows-系统!比尔盖茨研发,用过几乎都是差评...](https://sec.thief.one/article_content?a_id=fe19b7b84f1c521b017a7807d7a51e42) ![](assets/new.png)  
+- [2021-01-29-每日安全动态推送01-29](https://sec.thief.one/article_content?a_id=e42c9163452351379ed255cd91c7c4b6) ![](assets/new.png)  
 - [2021-01-29-用-VS-Code-写-Python,这几个插件是必装的](https://sec.thief.one/article_content?a_id=b2902a6ee51206d3057bf5792df07a80) ![](assets/new.png)  
 - [2021-01-29-工信部回应APP侵害用户权益问题:2019年至今已责令整改2234款违...](https://sec.thief.one/article_content?a_id=1d66fc891301674315944184926025ca) ![](assets/new.png)  
 - [2021-01-29-用数字货币洗钱,警察蜀黍就没招了吗?|-浅黑笔记](https://sec.thief.one/article_content?a_id=fe084babb12079022ce62e65f15b32d6) ![](assets/new.png)  
@@ -555,8 +557,6 @@
 - [2021-01-28-推荐一个解压游戏:合成大西瓜](https://sec.thief.one/article_content?a_id=95f630f03118d3a33fa30378a6f5c9a7) ![](assets/new.png)  
 - [2021-01-28-ShellCode免杀框架|内附SysWhispers2_x86直接系统调用](https://sec.thief.one/article_content?a_id=dac4b37c348f91dedd80a03dc7ac0180) ![](assets/new.png)  
 - [2021-01-28-每日攻防资讯简报Jan.28th](https://sec.thief.one/article_content?a_id=80cb6852e9b5a8f7e6cf3c67444de00a) ![](assets/new.png)  
-- [2021-01-28-【安全圈】不用密码就能获取root权限?Sudo被曝新漏洞](https://sec.thief.one/article_content?a_id=bd9a9065a20a13ec1c03b9383bf09449) ![](assets/new.png)  
-- [2021-01-28-再见-Win10!下一代操作系统要来了!](https://sec.thief.one/article_content?a_id=8fb309d85b6780ca29f92bf5222cfe79) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

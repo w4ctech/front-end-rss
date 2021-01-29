@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-29 05:15:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-29 05:39:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -46,4 +46,3 @@
 - [2021-01-28-盘点:2020年最大的十起数据泄露事件](https://sec.thief.one/article_content?a_id=358a9387497ff910e02fa89c32f21012) 
 - [2021-01-27-年度盘点-|-2020重大网络安全事件-·-医疗&教育篇](https://sec.thief.one/article_content?a_id=5d77922cbee5d42847c84fc1b8da84b6) 
 - [2021-01-27-【视频】|-Python:全局变量和局部变量](https://sec.thief.one/article_content?a_id=822acee2266b7e1db715341805e19efc) 
-- [2021-01-26-年度盘点-|-2020重大网络安全事件-·-政府篇](https://sec.thief.one/article_content?a_id=6b3721c13699e486e8f43320d3d9a784) 

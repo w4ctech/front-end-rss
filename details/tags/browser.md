@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-29 00:03:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-29 00:21:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,7 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
+- [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/cacecf530e97b404d830c2a50be041d6) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
 - [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
@@ -34,7 +35,10 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-01-28-关于分布式缓存，有点疑问，不吝赐教](https://www.v2ex.com/t/749371) 
 - [2021-01-28-兄-die-们，有好的智能硬件/物联网公司推荐么](https://www.v2ex.com/t/749367) 
-- [2021-01-29-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-01-28-【安全圈】不用密码就能获取root权限?Sudo被曝新漏洞](https://sec.thief.one/article_content?a_id=bd9a9065a20a13ec1c03b9383bf09449) 
+- [2021-01-28-奇安信与科蓝软件达成战略合作-助力金融科技安全融合创新发展](https://sec.thief.one/article_content?a_id=c255c308b6e9f8227e6fa5829f9454d4) 
+- [2021-01-28-《2020企业安全威胁统一应对指南》正式发布-|-FreeBuf咨询](https://sec.thief.one/article_content?a_id=dcb4d4ce358081c2b6e44541955e0f23) 
+- [2021-01-28-【安全风险通告】Linux-sudo堆溢出本地提权漏洞安全风险通告](https://sec.thief.one/article_content?a_id=57fc9b769c2ab1380ede85424ba81442) 
 - [2021-01-28-FreeBuf字幕组-|-Hacker101白帽进阶:移动应用安全速成讲解一](https://sec.thief.one/article_content?a_id=dcd3638480dbe09dce6c5e6e9bb33460) 
 - [2021-01-28-Java安全之Weblogic-2016-3510-分析](https://sec.thief.one/article_content?a_id=baf2ef227d35151b686a4f21d0a5b720) 
 - [2021-01-28-CNNVD-关于SonicWall-SSL-VPN-安全漏洞的预警](https://sec.thief.one/article_content?a_id=695bf774e9bf22c0b3ba77b217f2d710) 
@@ -53,6 +57,3 @@
 - [2021-01-26-企业安全开发建设-|-软件开发流程是主线,管控需贯穿全生命周期](https://sec.thief.one/article_content?a_id=aac94e772524b4536ddf5b42be3c3756) 
 - [2021-01-26-SSRF安全指北](https://sec.thief.one/article_content?a_id=90c2d1604996c1446b47a07ea005afe6) 
 - [2021-01-26-提及网络安全挑战-|-郭树清谈金融科技发展、挑战与监管](https://sec.thief.one/article_content?a_id=def2adeae856eb74ae1e54fea2c99e03) 
-- [2021-01-26-记一次面试bypass宝塔+安全狗的手注](https://sec.thief.one/article_content?a_id=15bad92278929ec15fbd0a1c3bb3ea2b) 
-- [2021-01-26-每日安全动态推送01-26](https://sec.thief.one/article_content?a_id=017196532556b869cfb552c137179ce8) 
-- [2021-01-26-【更新】DNSmasq-DNSpooq缓存中毒漏洞通告-CVE-2020-25686/...](https://sec.thief.one/article_content?a_id=39a058f397336e06bcc8174c974261c1) 

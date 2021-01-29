@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-29 10:12:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-29 10:39:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -45,4 +45,3 @@
 - [2021-01-28-披着羊皮的狼:Lazarus-针对安全研究人员的攻击事件分析](https://sec.thief.one/article_content?a_id=a2ea657c1bae56bf52be9354a8be98c8) 
 - [2021-01-28-盘点:2020年最大的十起数据泄露事件](https://sec.thief.one/article_content?a_id=358a9387497ff910e02fa89c32f21012) 
 - [2021-01-27-年度盘点-|-2020重大网络安全事件-·-医疗&教育篇](https://sec.thief.one/article_content?a_id=5d77922cbee5d42847c84fc1b8da84b6) 
-- [2021-01-27-【视频】|-Python:全局变量和局部变量](https://sec.thief.one/article_content?a_id=822acee2266b7e1db715341805e19efc) 

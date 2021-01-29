@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-29 05:08:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-29 05:15:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,6 +15,7 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2021-01-29-营业厅能看到详细上网数据?专家:功能必需,可提升安全认证等级](https://sec.thief.one/article_content?a_id=0eb20364a5a5febae116780026479aec) 
 - [2021-01-28-【安全圈】不用密码就能获取root权限?Sudo被曝新漏洞](https://sec.thief.one/article_content?a_id=bd9a9065a20a13ec1c03b9383bf09449) 
 - [2021-01-28-奇安信与科蓝软件达成战略合作-助力金融科技安全融合创新发展](https://sec.thief.one/article_content?a_id=c255c308b6e9f8227e6fa5829f9454d4) 
 - [2021-01-28-《2020企业安全威胁统一应对指南》正式发布-|-FreeBuf咨询](https://sec.thief.one/article_content?a_id=dcb4d4ce358081c2b6e44541955e0f23) 
@@ -34,6 +35,3 @@
 - [2021-01-27-网络安全信息与动态周报2021年第3期1月11日-1月17日](https://sec.thief.one/article_content?a_id=58fddfbb454f4d9f36c9d48c21af6d94) 
 - [2021-01-27-论坛分享-|-中外数据安全立法脉络梳理:变与不变](https://sec.thief.one/article_content?a_id=4ffb6fc33ef17800da339784c624dc96) 
 - [2021-01-26-【安全圈】30人贩卖6亿个人信息获利800万-受害者遍布全国数十个省市](https://sec.thief.one/article_content?a_id=b89f48e38a9ac54ba45203094e5aba00) 
-- [2021-01-26-企业安全开发建设-|-软件开发流程是主线,管控需贯穿全生命周期](https://sec.thief.one/article_content?a_id=aac94e772524b4536ddf5b42be3c3756) 
-- [2021-01-26-SSRF安全指北](https://sec.thief.one/article_content?a_id=90c2d1604996c1446b47a07ea005afe6) 
-- [2021-01-26-提及网络安全挑战-|-郭树清谈金融科技发展、挑战与监管](https://sec.thief.one/article_content?a_id=def2adeae856eb74ae1e54fea2c99e03) 

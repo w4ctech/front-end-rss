@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-30 10:11:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-30 10:31:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,5 +37,3 @@
 - [2021-01-28-网络安全编程:Winsock编程之基于TCP的通信](https://sec.thief.one/article_content?a_id=80a2a032e134e04e033ba5614abf823f) 
 - [2021-01-27-SecWiki安全招聘第47期](https://sec.thief.one/article_content?a_id=542328a280daa6e201d7c9837a723de0) 
 - [2021-01-27-调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=c35fb2b04e8135a94b1af29694f65277) 
-- [2021-01-27-开课啦!《绿盟安全服务技术认证-安全运维》报名开启](https://sec.thief.one/article_content?a_id=7b92b179b51cf277bbb0335fd6984106) 
-- [2021-01-27-【安全圈】特斯拉工程师窃取特斯拉全部运营自动化代码](https://sec.thief.one/article_content?a_id=5eb375fa762ef0f34e45e05c80236cec) 

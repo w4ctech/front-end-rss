@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-30 10:11:35，:rocket: 更新条数: +368， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-30 10:31:26，:rocket: 更新条数: +368， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -537,6 +537,10 @@
 </summary>
 
 
+- [2021-01-30-BUF大事件丨sudo被曝新漏洞;人脸识别15分钟解锁19款安卓手机](https://sec.thief.one/article_content?a_id=1e3a9a4d36f8be66ce4771ecdf86e0f7) ![](assets/new.png)  
+- [2021-01-30-在看-|-一周网安回顾-2020.1.23~1.29](https://sec.thief.one/article_content?a_id=3a0857056983069d22526dba2f898082) ![](assets/new.png)  
+- [2021-01-30-牛聘|2020年度岗位招聘第18期](https://sec.thief.one/article_content?a_id=5fa2872a0121fccb2bce143f4cb72584) ![](assets/new.png)  
+- [2021-01-30-用新动能推动新发展-习近平这样论述信息化作用](https://sec.thief.one/article_content?a_id=4f7573275cc2151805a3854be66c4c6b) ![](assets/new.png)  
 - [2021-01-30-数据跨境流动-|-东盟跨境数据流动示范合同条款全文翻译](https://sec.thief.one/article_content?a_id=369bad92a44c5a4ce2fb42aa25245fd4) ![](assets/new.png)  
 - [2021-01-30-逆向分析工程师硬件调试入门,第1篇:SWD、OpenOCD与Xbox-One...](https://sec.thief.one/article_content?a_id=64af91d26426da2c06a9625138915d48) ![](assets/new.png)  
 - [2021-01-30-内网渗透|Chisel内网穿透工具](https://sec.thief.one/article_content?a_id=509da7b1157a1148afc9f0c4eb325abe) ![](assets/new.png)  
@@ -553,10 +557,6 @@
 - [2021-01-29-美股散户抱团运动证明了群众力量是可以对抗资本](https://sec.thief.one/article_content?a_id=ecd2bcc5e6d5e3e880f9f8da736eb0d5) ![](assets/new.png)  
 - [2021-01-29-2020年全国网信行政执法持续深入推进](https://sec.thief.one/article_content?a_id=2ca3c53153734f88e778f58794f27c03) ![](assets/new.png)  
 - [2021-01-29-【安全圈】零售巨头牛奶集团遭勒索软件攻击,赎金高达3000万美元](https://sec.thief.one/article_content?a_id=af80e65f2ea9d765503d1149c4168d52) ![](assets/new.png)  
-- [2021-01-29-酸了!看到抖音上Python程序员晒得工资条......](https://sec.thief.one/article_content?a_id=b15def4619facee1378993d0535ab105) ![](assets/new.png)  
-- [2021-01-29-【安全大事件】Win10-NTFS文件系统特制字符串导致磁盘异常](https://sec.thief.one/article_content?a_id=9541881983192939be014e38b7c7aada) ![](assets/new.png)  
-- [2021-01-29-每日攻防资讯简报Jan.29th](https://sec.thief.one/article_content?a_id=ef8fcbedc93e3a70a3b32c8c1d47798d) ![](assets/new.png)  
-- [2021-01-29-《2020中国白帽子调查报告》出炉-|-FreeBuf咨询-x-漏洞盒子](https://sec.thief.one/article_content?a_id=be4c42a6d1d2657edbfa9146436c3500) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

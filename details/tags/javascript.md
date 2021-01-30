@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-30 10:11:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-30 10:31:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -41,6 +41,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2021-01-30-BUF大事件丨sudo被曝新漏洞;人脸识别15分钟解锁19款安卓手机](https://sec.thief.one/article_content?a_id=1e3a9a4d36f8be66ce4771ecdf86e0f7) 
 - [2021-01-30-中国农业因重要信息系统突发事件未报告等6项原因被罚420万元](https://sec.thief.one/article_content?a_id=2915872707f18650bc7afb9d0701b9ee) 
 - [2021-01-29-【安全大事件】Win10-NTFS文件系统特制字符串导致磁盘异常](https://sec.thief.one/article_content?a_id=9541881983192939be014e38b7c7aada) 
 - [2021-01-29-【视频】|-Python:全局变量是列表类型](https://sec.thief.one/article_content?a_id=5506031a3f11966c6eab53634416c128) 

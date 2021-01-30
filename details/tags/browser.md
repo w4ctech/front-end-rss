@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-30 00:10:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-30 00:20:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,6 +15,9 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2021-01-29-【安全圈】零售巨头牛奶集团遭勒索软件攻击,赎金高达3000万美元](https://sec.thief.one/article_content?a_id=af80e65f2ea9d765503d1149c4168d52) 
+- [2021-01-29-《信息技术与网络安全》专访齐向东:守正创新-推进网络安全科技自...](https://sec.thief.one/article_content?a_id=0917ac5e4fd9d675d6b47c4e8fee55c0) 
+- [2021-01-29-基于智能手机的近源渗透案例分享——“点到为止”的测试某网络安全...](https://sec.thief.one/article_content?a_id=57af35b89fdec7bb206c7f95263df5f5) 
 - [2021-01-29-加入我们|腾讯云安全大后方,等你唤醒西部的力量](https://sec.thief.one/article_content?a_id=dc2b4976222a3e78d4c66690a3f44458) 
 - [2021-01-29-安全建议:MSRPC打印机后台处理程序中继CVE-2021-1678](https://sec.thief.one/article_content?a_id=af18b4fcebb08ae79f4275ac5418de3d) 
 - [2021-01-29-每日安全动态推送01-29](https://sec.thief.one/article_content?a_id=e42c9163452351379ed255cd91c7c4b6) 
@@ -32,7 +35,3 @@
 - [2021-01-27-调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=c35fb2b04e8135a94b1af29694f65277) 
 - [2021-01-27-开课啦!《绿盟安全服务技术认证-安全运维》报名开启](https://sec.thief.one/article_content?a_id=7b92b179b51cf277bbb0335fd6984106) 
 - [2021-01-27-【安全圈】特斯拉工程师窃取特斯拉全部运营自动化代码](https://sec.thief.one/article_content?a_id=5eb375fa762ef0f34e45e05c80236cec) 
-- [2021-01-27-开放银行蓬勃发展,网络风险规避与业务安全建设亟需重视](https://sec.thief.one/article_content?a_id=e035c48fc7fe5b4cf929cd4441a8c228) 
-- [2021-01-27-微软Edge浏览器和谷歌浏览器推出密码保护工具](https://sec.thief.one/article_content?a_id=ea67be28f5f45f9405654f59b626099c) 
-- [2021-01-27-每日安全动态推送01-27](https://sec.thief.one/article_content?a_id=8601f001fa478fcf3d44908a0bdefc2b) 
-- [2021-01-27-网络安全信息与动态周报2021年第3期1月11日-1月17日](https://sec.thief.one/article_content?a_id=58fddfbb454f4d9f36c9d48c21af6d94) 

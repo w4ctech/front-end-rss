@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-01-31 05:07:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-31 05:14:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-11-25-突发奇想，同步单复选框checked态岂不点击通杀？](https://www.zhangxinxu.com/wordpress/2020/11/label-sync-radio-checkbox-checked/) 
 - [2021-01-29-科技爱好者周刊（第-144-期）：提高收入的根本途径](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-144.html) 
 - [2021-01-27-异或运算-XOR-教程](http://www.ruanyifeng.com/blog/2021/01/_xor.html) 
 - [2021-01-22-科技爱好者周刊（第-143-期）：世界尽头与冷酷仙境](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-143.html) 
@@ -14,6 +15,10 @@
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
 - [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
 - [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
+- [2021-01-31-《北向文集-面向2021》-07期-山海论坛-|-吴一洲-央企入局,布局不搅局](https://sec.thief.one/article_content?a_id=f34f0013b958b0332c5b0bec78290ed4) 
+- [2021-01-31-火力发电厂控制系统的纵深防御](https://sec.thief.one/article_content?a_id=0a6d2b104637092fbb66181aa3988b48) 
+- [2021-01-31-多国执法机构一起出手,恶意软件的“寒冬”将至](https://sec.thief.one/article_content?a_id=c110dabc175b4daa92b60a5cec15baf6) 
+- [2021-01-31-17-张程序员壁纸使用频率很高](https://sec.thief.one/article_content?a_id=dffc65073617d32fe9bb2790b15cca1c) 
 - [2021-01-30-看完互联网大厂新年礼盒,我炸了.](https://sec.thief.one/article_content?a_id=ad78a008d104c7c3fc9df84addcc00cd) 
 - [2021-01-30-为了向女友炫耀!程序员魔改《合成大西瓜》:暴力吃瓜](https://sec.thief.one/article_content?a_id=7236fde1e3dc5aacb8ffa7fc1355b91c) 
 - [2021-01-30-在看-|-一周网安回顾-2020.1.23~1.29](https://sec.thief.one/article_content?a_id=3a0857056983069d22526dba2f898082) 
@@ -77,6 +82,3 @@
 - [2021-01-28-BitLocker锁屏绕过](https://sec.thief.one/article_content?a_id=d817787b9e92e05fd1899737359381b3) 
 - [2021-01-28-苹果已知三个重大漏洞被黑客利用-iOS-14.4-强烈建议更新](https://sec.thief.one/article_content?a_id=ffef99f282291dcdc675c887ccced842) 
 - [2021-01-28-知名健康公司数据泄露,万名客户信息遭曝光](https://sec.thief.one/article_content?a_id=d34b822e9714b990c6657167d65c96ee) 
-- [2021-01-28-【漏洞通告】Oracle-Coherence-远程代码执行漏洞CVE-2020-...](https://sec.thief.one/article_content?a_id=d0fdd92eec9167fa216607c40583fa26) 
-- [2021-01-28-SciSec-2021论文征稿-2021/5/1](https://sec.thief.one/article_content?a_id=717e6caa4463b13801f3624b99bb800d) 
-- [2021-01-28-《涉密信息系统集成资质管理办法》发布2021年3月1日施行](https://sec.thief.one/article_content?a_id=ed945c66027bd95e2bc50553565852c1) 

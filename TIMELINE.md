@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-31 05:07:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-31 05:14:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -36,8 +36,8 @@
 <td>08月</td>
 <td>09月</td>
 <td>10月</td>
-<td>11月</td>
-<td>12月</td>
+<td><a href="#2020-11">11月</a></td>
+<td><a href="#2020-12">12月</a></td>
 </tr>
 
 <tr>
@@ -86,9 +86,17 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2021-01-26-一行CSS实现全站中文简繁转换](https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-01-20-巧用DOM-API实现HTML字符的转义和反转义](https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 
 - [【阮一峰的网络日志】2021-01-29-科技爱好者周刊（第-144-期）：提高收入的根本途径](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-144.html) 
 - [【阮一峰的网络日志】2021-01-27-异或运算-XOR-教程](http://www.ruanyifeng.com/blog/2021/01/_xor.html) 
 - [【阮一峰的网络日志】2021-01-22-科技爱好者周刊（第-143-期）：世界尽头与冷酷仙境](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-143.html) 
+- [【安全热点】2021-01-31-《北向文集-面向2021》-07期-山海论坛-|-吴一洲-央企入局,布局不搅局](https://sec.thief.one/article_content?a_id=f34f0013b958b0332c5b0bec78290ed4) 
+- [【安全热点】2021-01-31-火力发电厂控制系统的纵深防御](https://sec.thief.one/article_content?a_id=0a6d2b104637092fbb66181aa3988b48) 
+- [【安全热点】2021-01-31-多国执法机构一起出手,恶意软件的“寒冬”将至](https://sec.thief.one/article_content?a_id=c110dabc175b4daa92b60a5cec15baf6) 
+- [【安全热点】2021-01-31-中国农业因重要信息系统突发事件未报告等6项原因被罚420万元](https://sec.thief.one/article_content?a_id=fc33f599df2d611ccd89c106192006c4) 
+- [【安全热点】2021-01-31-17-张程序员壁纸使用频率很高](https://sec.thief.one/article_content?a_id=dffc65073617d32fe9bb2790b15cca1c) 
 - [【安全热点】2021-01-31-安全行业如何找有前景的公司](https://sec.thief.one/article_content?a_id=ea6cfa0f821169c7a98bb593f25b5ae2) 
 - [【安全热点】2021-01-30-看完互联网大厂新年礼盒,我炸了.](https://sec.thief.one/article_content?a_id=ad78a008d104c7c3fc9df84addcc00cd) 
 - [【安全热点】2021-01-30-【安全圈】2021年第一张罚单!-因网络安全等问题中国农业银行被罚...](https://sec.thief.one/article_content?a_id=83fcf864bd206c27d398b284cdfd0f16) 
@@ -184,11 +192,33 @@
 - [【安全热点】2021-01-28-BitLocker锁屏绕过](https://sec.thief.one/article_content?a_id=d817787b9e92e05fd1899737359381b3) 
 - [【安全热点】2021-01-28-苹果已知三个重大漏洞被黑客利用-iOS-14.4-强烈建议更新](https://sec.thief.one/article_content?a_id=ffef99f282291dcdc675c887ccced842) 
 - [【安全热点】2021-01-28-知名健康公司数据泄露,万名客户信息遭曝光](https://sec.thief.one/article_content?a_id=d34b822e9714b990c6657167d65c96ee) 
-- [【安全热点】2021-01-28-【漏洞通告】Oracle-Coherence-远程代码执行漏洞CVE-2020-...](https://sec.thief.one/article_content?a_id=d0fdd92eec9167fa216607c40583fa26) 
-- [【安全热点】2021-01-28-网络安全编程:Winsock编程之基于TCP的通信](https://sec.thief.one/article_content?a_id=80a2a032e134e04e033ba5614abf823f) 
-- [【安全热点】2021-01-28-推荐一个解压游戏:合成大西瓜](https://sec.thief.one/article_content?a_id=7767f38acc6e230017cc7c00843fe044) 
-- [【安全热点】2021-01-28-SciSec-2021论文征稿-2021/5/1](https://sec.thief.one/article_content?a_id=717e6caa4463b13801f3624b99bb800d) 
-- [【安全热点】2021-01-28-《涉密信息系统集成资质管理办法》发布2021年3月1日施行](https://sec.thief.one/article_content?a_id=ed945c66027bd95e2bc50553565852c1) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2020-12">
+ 2020-12
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2020-12-24-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) 
+- [【张鑫旭-鑫空间-鑫生活】2020-12-12-纯CSS实现微信列表左滑显示按钮的交互效果](https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/) 
+- [【张鑫旭-鑫空间-鑫生活】2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2020-11">
+ 2020-11
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
+- [【张鑫旭-鑫空间-鑫生活】2020-11-27-几行CSS让整站支持深色模式的探索与拓展](https://www.zhangxinxu.com/wordpress/2020/11/css-mix-blend-mode-filter-dark-theme/) 
+- [【张鑫旭-鑫空间-鑫生活】2020-11-25-突发奇想，同步单复选框checked态岂不点击通杀？](https://www.zhangxinxu.com/wordpress/2020/11/label-sync-radio-checkbox-checked/) 
+- [【张鑫旭-鑫空间-鑫生活】2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

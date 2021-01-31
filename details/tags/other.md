@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-31 00:10:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-31 00:23:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -75,6 +75,8 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2021-01-30-看完互联网大厂新年礼盒,我炸了.](https://sec.thief.one/article_content?a_id=ad78a008d104c7c3fc9df84addcc00cd) 
+- [2021-01-30-为了向女友炫耀!程序员魔改《合成大西瓜》:暴力吃瓜](https://sec.thief.one/article_content?a_id=7236fde1e3dc5aacb8ffa7fc1355b91c) 
 - [2021-01-30-在看-|-一周网安回顾-2020.1.23~1.29](https://sec.thief.one/article_content?a_id=3a0857056983069d22526dba2f898082) 
 - [2021-01-30-用新动能推动新发展-习近平这样论述信息化作用](https://sec.thief.one/article_content?a_id=4f7573275cc2151805a3854be66c4c6b) 
 - [2021-01-30-数据跨境流动-|-东盟跨境数据流动示范合同条款全文翻译](https://sec.thief.one/article_content?a_id=369bad92a44c5a4ce2fb42aa25245fd4) 
@@ -139,5 +141,3 @@
 - [2021-01-28-【漏洞通告】Oracle-Coherence-远程代码执行漏洞CVE-2020-...](https://sec.thief.one/article_content?a_id=d0fdd92eec9167fa216607c40583fa26) 
 - [2021-01-28-SciSec-2021论文征稿-2021/5/1](https://sec.thief.one/article_content?a_id=717e6caa4463b13801f3624b99bb800d) 
 - [2021-01-28-《涉密信息系统集成资质管理办法》发布2021年3月1日施行](https://sec.thief.one/article_content?a_id=ed945c66027bd95e2bc50553565852c1) 
-- [2021-01-27-中国巴菲特:段永平](https://sec.thief.one/article_content?a_id=faf4b0846590bc9ae7e6c9a95fdfa83e) 
-- [2021-01-27-linux系统管理指令Sudo出现重大漏洞!影响绝大多数Linux系统](https://sec.thief.one/article_content?a_id=fb3c5893ac05a140c808fa6b9e20595e) 

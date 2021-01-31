@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-31 00:10:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-31 00:23:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,6 +15,8 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2021-01-31-安全行业如何找有前景的公司](https://sec.thief.one/article_content?a_id=ea6cfa0f821169c7a98bb593f25b5ae2) 
+- [2021-01-30-【安全圈】2021年第一张罚单!-因网络安全等问题中国农业银行被罚...](https://sec.thief.one/article_content?a_id=83fcf864bd206c27d398b284cdfd0f16) 
 - [2021-01-30-逆向分析工程师硬件调试入门,第1篇:SWD、OpenOCD与Xbox-One...](https://sec.thief.one/article_content?a_id=64af91d26426da2c06a9625138915d48) 
 - [2021-01-30-网络安全编程:Winsock编程之基于UDP的通信](https://sec.thief.one/article_content?a_id=ca3b734b734bdc399793b42a2fbfa30d) 
 - [2021-01-30-南非政府自研浏览器续命Flash](https://sec.thief.one/article_content?a_id=7541f9badba0e70eea6fe37fa6194904) 
@@ -35,5 +37,3 @@
 - [2021-01-28-CNNVD-关于SonicWall-SSL-VPN-安全漏洞的预警](https://sec.thief.one/article_content?a_id=695bf774e9bf22c0b3ba77b217f2d710) 
 - [2021-01-28-每日安全动态推送01-28](https://sec.thief.one/article_content?a_id=756e76e6b6f0261a6d257b84bb6ef63b) 
 - [2021-01-28-网络安全编程:Winsock编程之基于TCP的通信](https://sec.thief.one/article_content?a_id=80a2a032e134e04e033ba5614abf823f) 
-- [2021-01-27-SecWiki安全招聘第47期](https://sec.thief.one/article_content?a_id=542328a280daa6e201d7c9837a723de0) 
-- [2021-01-27-调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=c35fb2b04e8135a94b1af29694f65277) 

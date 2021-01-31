@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-31 00:10:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-31 00:23:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -399,6 +399,8 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【安全热点】安全行业如何找有前景的公司](https://sec.thief.one/article_content?a_id=ea6cfa0f821169c7a98bb593f25b5ae2)
+- [【安全热点】【安全圈】2021年第一张罚单!-因网络安全等问题中国农业银行被罚...](https://sec.thief.one/article_content?a_id=83fcf864bd206c27d398b284cdfd0f16)
 - [【安全热点】逆向分析工程师硬件调试入门,第1篇:SWD、OpenOCD与Xbox-One...](https://sec.thief.one/article_content?a_id=64af91d26426da2c06a9625138915d48)
 - [【安全热点】网络安全编程:Winsock编程之基于UDP的通信](https://sec.thief.one/article_content?a_id=ca3b734b734bdc399793b42a2fbfa30d)
 - [【安全热点】南非政府自研浏览器续命Flash](https://sec.thief.one/article_content?a_id=7541f9badba0e70eea6fe37fa6194904)
@@ -409,8 +411,6 @@
 - [【安全热点】加入我们|腾讯云安全大后方,等你唤醒西部的力量](https://sec.thief.one/article_content?a_id=dc2b4976222a3e78d4c66690a3f44458)
 - [【安全热点】安全建议:MSRPC打印机后台处理程序中继CVE-2021-1678](https://sec.thief.one/article_content?a_id=af18b4fcebb08ae79f4275ac5418de3d)
 - [【安全热点】每日安全动态推送01-29](https://sec.thief.one/article_content?a_id=e42c9163452351379ed255cd91c7c4b6)
-- [【安全热点】营业厅能看到详细上网数据?专家:功能必需,可提升安全认证等级](https://sec.thief.one/article_content?a_id=0eb20364a5a5febae116780026479aec)
-- [【安全热点】【安全圈】不用密码就能获取root权限?Sudo被曝新漏洞](https://sec.thief.one/article_content?a_id=bd9a9065a20a13ec1c03b9383bf09449)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

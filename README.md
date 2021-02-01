@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-01 03:04:25，:rocket: 更新条数: +4249， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-01 03:14:23，:rocket: 更新条数: +4249， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -915,9 +915,9 @@
 
 - [2021-01-31-小白学习-Vue-3.绑定-Class-与-Style](https://juejin.im/post/6924120069702156301) ![](assets/new.png)  
 - [2021-01-31-初识ES6](https://juejin.im/post/6924110256138092558) ![](assets/new.png)  
+- [2021-01-31-给-ES6-class-说句公道话](https://juejin.im/post/6924108426125508616) ![](assets/new.png)  
 - [2021-01-31-『前端安全』——-友情链接捅你一刀没商量](https://juejin.im/post/6924104879216689159) ![](assets/new.png)  
 - [2021-01-31-极简实现系列——三行代码搞定LRU](https://juejin.im/post/6924098688939720717) ![](assets/new.png)  
-- [2021-01-31-js实现点击输入框外按钮，给光标位置添加指定内容及替换选中内容](https://juejin.im/post/6924072715565400071) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1033,6 +1033,9 @@
 </summary>
 
 
+- [2021-02-01-怎么关闭-iPhone-锁屏界面下-屏幕下方的手电筒和相机](https://www.v2ex.com/t/750197) ![](assets/new.png)  
+- [2021-02-01-被恶心到，新公司已经三个月，又被上了一课](https://www.v2ex.com/t/750196) ![](assets/new.png)  
+- [2021-02-01-刚发现-V2EX-已被微信内置浏览器拉黑](https://www.v2ex.com/t/750195) ![](assets/new.png)  
 - [2021-02-01-想收个同事年会中的未拆封小米-11，-8+256-的，一般可以砍多少收到呢](https://www.v2ex.com/t/750194) ![](assets/new.png)  
 - [2021-02-01-挣钱不靠-FLAG！这些独角兽$230K-招-SDE1](https://www.v2ex.com/t/750193) ![](assets/new.png)  
 - [2021-02-01-昨天周末研究了整整一天的液晶电视，结论：索尼真的无敌](https://www.v2ex.com/t/750191) ![](assets/new.png)  
@@ -1050,9 +1053,6 @@
 - [2021-02-01-关于-Java-定时任务](https://www.v2ex.com/t/750175) ![](assets/new.png)  
 - [2021-02-01-有人用过网上问诊吗，效果如何？](https://www.v2ex.com/t/750172) ![](assets/new.png)  
 - [2021-02-01-pdb-支持-gdb-的-watch-功能吗?](https://www.v2ex.com/t/750171) ![](assets/new.png)  
-- [2021-02-01-PCDN-是否真的有前途？类似京东云无线宝或者赚钱宝网心云那类的？](https://www.v2ex.com/t/750170) ![](assets/new.png)  
-- [2021-02-01-mysql-导入超大-sql-文件有什么办法](https://www.v2ex.com/t/750169) ![](assets/new.png)  
-- [2021-02-01-使用代理软件后防火墙-Little-Snitch-被绕开怎么办？](https://www.v2ex.com/t/750168) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1113,8 +1113,8 @@
 - [2021-02-01-一个使用-xmake-构建-c/c++-模块的-luarocks-插件](https://toutiao.io/k/e9szv6i) ![](assets/new.png)  
 - [2021-02-01-堪比当年的-LSTM，Transformer-引燃机器学习圈：它是万能的](https://toutiao.io/k/l4s7tdr) ![](assets/new.png)  
 - [2021-02-01-函数是一等公民，这到底在说什么？](https://toutiao.io/k/nu0j2kk) ![](assets/new.png)  
-- [2021-02-01-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) ![](assets/new.png)  
 - [2021-02-01-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
+- [2021-02-01-推荐-最终一致性，一致只会迟到，但绝不会缺席](https://toutiao.io/k/9q7yxnu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

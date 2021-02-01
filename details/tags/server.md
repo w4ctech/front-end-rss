@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-01 23:40:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 23:49:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -13,4 +13,3 @@
 - [2021-01-20-是时候跟Docker说再见了](https://www.ershicimi.com/p/86e876d29607df2865c29fa7cd247037) 
 - [2017-12-15-GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/) 
 - [2016-02-27-初探Docker](https://aotu.io/notes/2016/02/27/docker/) 
-- [2021-02-01-在-cloudflare-上启用了-Brotli-压缩，请问在本地服务器上-nginx-还需要安装-Brotli-模块吗？](https://www.v2ex.com/t/750431) 

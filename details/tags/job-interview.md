@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-01 13:45:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 13:57:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-01-22-这么靠谱的前端面试指南你都不看？耗子尾汁！](https://www.ershicimi.com/p/c2d46e723bb8ffa9eb47b96e6904dd9b) 
 - [2021-01-27-面试的-10-大潜规则，你中招了吗！](https://www.ershicimi.com/p/a5375767c8a24680df491a6ad4271635) 
 - [2021-01-25-如果程序员面试都说真话…画面过于真实，哈哈哈哈哈哈](https://www.ershicimi.com/p/062196b7a57b8a4a4059deea2f641408) 

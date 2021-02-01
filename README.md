@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-01 07:14:09，:rocket: 更新条数: +4249， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-01 07:39:26，:rocket: 更新条数: +3999， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,14 +39,14 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -69,6 +69,7 @@
 - [2021-02-01-河北1月31日新增1例本地确诊病例-在石家庄（附轨迹）](https://m.caixin.com/m/2021-02-01/101658504.html) ![](assets/new.png)  
 - [2021-02-01-吉林1月31新增确诊病例10例-长春2例通化8例](https://m.caixin.com/m/2021-02-01/101658492.html) ![](assets/new.png)  
 - [2021-02-01-黑龙江31日新增22例确诊病例-新增9例无症状感染者](https://m.caixin.com/m/2021-02-01/101658475.html) ![](assets/new.png)  
+- [2021-02-01-【境内疫情观察】全国新增33例本土病例（1月31日）](http://m.database.caixin.com/m/2021-02-01/101658720.html) ![](assets/new.png)  
 - [2021-02-01-Moderna疫苗供货减量-变异病毒或令美国死亡激增丨大流行手记（1月31日）](https://m.caixin.com/m/2021-02-01/101658526.html) ![](assets/new.png)  
 - [2021-02-01-【图集】世卫组织国际专家组在武汉持续展开研究](http://m.photos.caixin.com/m/2021-02-01/101658573.html) ![](assets/new.png)  
 - [2021-01-31-国务院联防联控机制：返乡防疫盲目加码就是“懒政”](http://m.china.caixin.com/m/2021-01-31/101658414.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-01-30-北京29日新增1例本地确诊病例-在大兴融汇社区](https://m.caixin.com/m/2021-01-30/101658097.html) ![](assets/new.png)  
 - [2021-01-30-吉林29日新增确诊5例-长春3例通化2例](https://m.caixin.com/m/2021-01-30/101658090.html) ![](assets/new.png)  
 - [2021-01-30-黑龙江29日新增确诊27例-无症状感染者6例](https://m.caixin.com/m/2021-01-30/101658045.html) ![](assets/new.png)  
-- [2021-01-30-【境内疫情观察】吉林通化开展第四次全员核酸检测（1月29日）](http://m.database.caixin.com/m/2021-01-30/101658275.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -696,26 +696,6 @@
 </summary>
 
 
-- [2021-01-14-凹凸技术揭秘-·-Taro-·-开放式跨端跨框架之路](https://aotu.io/notes/2021/01/14/taro-history/) ![](assets/new.png)  
-- [2021-01-14-凹凸技术揭秘-·-基础服务体系-·-构筑服务端技术中枢](https://aotu.io/notes/2021/01/14/exa-server/) ![](assets/new.png)  
-- [2021-01-06-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) ![](assets/new.png)  
-- [2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) ![](assets/new.png)  
-- [2020-12-31-凹凸技术揭秘-·-Deco-智能代码-·-开启产研效率革命](https://aotu.io/notes/2020/12/31/deco/) ![](assets/new.png)  
-- [2020-12-31-凹凸技术揭秘·羚珑页面可视化·成长蜕变之路](https://aotu.io/notes/2020/12/31/ling-atom-design/) ![](assets/new.png)  
-- [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) ![](assets/new.png)  
-- [2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) ![](assets/new.png)  
-- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
-- [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) ![](assets/new.png)  
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs-中-regX-/-regY-的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -913,11 +893,6 @@
 </summary>
 
 
-- [2021-01-31-Apache-ECharts-5-系列教程（1）动态叙事](https://juejin.im/post/6924171406737424398) ![](assets/new.png)  
-- [2021-01-31-构建设计系统和组件库](https://juejin.im/post/6924152501805678606) ![](assets/new.png)  
-- [2021-01-31-国内首款-Serverless-MySQL-数据库重磅发布！](https://juejin.im/post/6924121708416729095) ![](assets/new.png)  
-- [2021-01-31-小白学习-Vue-3.绑定-Class-与-Style](https://juejin.im/post/6924120069702156301) ![](assets/new.png)  
-- [2021-01-31-给-ES6-class-说句公道话](https://juejin.im/post/6924108426125508616) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1033,26 +1008,26 @@
 </summary>
 
 
+- [2021-02-01-总结一些常见的-npm-包，提高开发效率，欢迎-v2er-补充～](https://www.v2ex.com/t/750326) ![](assets/new.png)  
+- [2021-02-01-看直播多开会有延迟卡顿现象，如何解决？](https://www.v2ex.com/t/750325) ![](assets/new.png)  
+- [2021-02-01-徐州-现在-Java-开发相关怎么样](https://www.v2ex.com/t/750324) ![](assets/new.png)  
+- [2021-02-01-查一条-CM5D](https://www.v2ex.com/t/750323) ![](assets/new.png)  
+- [2021-02-01-关于-M1-下-homebrew-的问题](https://www.v2ex.com/t/750321) ![](assets/new.png)  
+- [2021-02-01-想去广州发展](https://www.v2ex.com/t/750318) ![](assets/new.png)  
+- [2021-02-01-深圳阿里中心支付宝香港-大前端团队招聘-可春节后入职-0201](https://www.v2ex.com/t/750317) ![](assets/new.png)  
+- [2021-02-01-成形的前端项目，如何进行更好的-toB-定制（千人千面的定制）](https://www.v2ex.com/t/750316) ![](assets/new.png)  
+- [2021-02-01-sm3国密签名算法的-PHP-实现](https://www.v2ex.com/t/750315) ![](assets/new.png)  
+- [2021-02-01-能不能通过命令判断当前设备是安卓系统？](https://www.v2ex.com/t/750314) ![](assets/new.png)  
+- [2021-02-01-北京-360-招聘-Golang-/-DevOps-25-45k](https://www.v2ex.com/t/750313) ![](assets/new.png)  
+- [2021-02-01-今天在向日葵-8-号卫星的实时页面中发现一个有意思的东西](https://www.v2ex.com/t/750312) ![](assets/new.png)  
+- [2021-02-01-北京通港大厦（西单）某银行-测试人员（功能测试）](https://www.v2ex.com/t/750311) ![](assets/new.png)  
+- [2021-02-01-FreeBSD-将降低对-i386-架构的支持力度](https://www.v2ex.com/t/750310) ![](assets/new.png)  
 - [2021-02-01-showdoc-在-chrome-内存爆了](https://www.v2ex.com/t/750307) ![](assets/new.png)  
-- [2021-02-01-港区-Netflix-合租找车友-55-每季-20-每月](https://www.v2ex.com/t/750305) ![](assets/new.png)  
 - [2021-02-01-思否观看其他问题关注的问题](https://www.v2ex.com/t/750304) ![](assets/new.png)  
 - [2021-02-01-公司内部使用机架服务器如何选择？](https://www.v2ex.com/t/750303) ![](assets/new.png)  
 - [2021-02-01-支付宝苹果可以领红包啦](https://www.v2ex.com/t/750302) ![](assets/new.png)  
 - [2021-02-01-轻雀协作应用场景模板之-企业年会管理](https://www.v2ex.com/t/750301) ![](assets/new.png)  
 - [2021-02-01-各位-v-友，开发使用-Java-，测试写接口自动化用的-Python](https://www.v2ex.com/t/750300) ![](assets/new.png)  
-- [2021-02-01-pthread_join-为什么在这个代码里面不-block？](https://www.v2ex.com/t/750299) ![](assets/new.png)  
-- [2021-02-01-还记得那个用-5-年女朋友聊天记录训练聊天机器人的需求吗？微软刚申请了专利。。](https://www.v2ex.com/t/750297) ![](assets/new.png)  
-- [2021-02-01-程序员转产品经理求建议+自己的记录](https://www.v2ex.com/t/750295) ![](assets/new.png)  
-- [2021-02-01-建了一个-golang-的微信交流群，平时会聊聊圈子，生活，基金之类的。有兴趣的朋友加微信blacksheep2021拉进群～](https://www.v2ex.com/t/750294) ![](assets/new.png)  
-- [2021-02-01-《Go-语言轻松进阶》更新啦，快来看看-Go-内存的实现原理~](https://www.v2ex.com/t/750293) ![](assets/new.png)  
-- [2021-02-01-求问，自建博客有一篇-v2ray-的教程，然后收到一封删除违法-FQ-信息邮件，求问这种是骗子还是？](https://www.v2ex.com/t/750292) ![](assets/new.png)  
-- [2021-02-01-Chrome-Webdriver-如何将窗口设为可见，或者设为-active-状态](https://www.v2ex.com/t/750291) ![](assets/new.png)  
-- [2021-02-01-生活就是个缓慢受锤的过程~](https://www.v2ex.com/t/750290) ![](assets/new.png)  
-- [2021-02-01-有轻度焦虑/轻度抑郁的-V-友多吗?当下社会感觉精神出现问题的友友越来越多了](https://www.v2ex.com/t/750289) ![](assets/new.png)  
-- [2021-02-01-有没有现在是远程工作状态或者正在寻找或计划远程工作的朋友来交流经验，自已想计划在未来找一个安稳的远程工作，所以希望有人可以一起交流或者有此想法的人一起...](https://www.v2ex.com/t/750288) ![](assets/new.png)  
-- [2021-02-01-Final-Cut-Pro-有什么插件，可以让鼠标滚轮水平滚动吗？](https://www.v2ex.com/t/750287) ![](assets/new.png)  
-- [2021-02-01-打榜应援、行程分享？适用于粉丝应援的相关管理平台？](https://www.v2ex.com/t/750286) ![](assets/new.png)  
-- [2021-02-01-在-WebAssembly-中实现回调的方式](https://www.v2ex.com/t/750283) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1113,8 +1088,8 @@
 - [2021-02-01-一个使用-xmake-构建-C/C++-模块的-luarocks-插件](https://toutiao.io/k/e9szv6i) ![](assets/new.png)  
 - [2021-02-01-初识智能网联汽车安全](https://toutiao.io/k/4l91em5) ![](assets/new.png)  
 - [2021-02-01-堪比当年的-LSTM，Transformer-引燃机器学习圈：它是万能的](https://toutiao.io/k/l4s7tdr) ![](assets/new.png)  
-- [2021-02-01-函数是一等公民，这到底在说什么？](https://toutiao.io/k/nu0j2kk) ![](assets/new.png)  
 - [2021-02-01-Envoy-基础及其可扩展性要领](https://toutiao.io/k/uon751x) ![](assets/new.png)  
+- [2021-02-01-函数是一等公民，这到底在说什么？](https://toutiao.io/k/nu0j2kk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

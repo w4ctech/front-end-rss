@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-01 11:40:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 11:54:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -118,8 +118,8 @@
 - [2021-01-29-如何在纯-JavaScript-中使用-GraphQL](https://www.ershicimi.com/p/55895bf6e965db8170ff6369a6a4209c) 
 - [2021-01-26-2020-年的-JavaScript-后起之秀](https://www.ershicimi.com/p/561dbe7c196a6e251c4fe7f306ae2e93) 
 - [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？](https://www.ershicimi.com/p/27033dcdf27caaae7012a928c62ea0ea) 
-- [2021-02-01-web-worker和service-worker](https://juejin.im/post/6924211891719897101) 
-- [2021-02-01-聊点JavaScript中的数组方法](https://juejin.im/post/6924211360566312973) 
+- [2021-02-01-给初学者的-JavaScript-Promise-教程-|-Scotch](https://juejin.im/post/6924229991240564744) 
+- [2021-02-01-高并发-Javascript/-存在的！-|-WebKit](https://juejin.im/post/6924229590919413773) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

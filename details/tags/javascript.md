@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-01 19:18:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 19:35:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -32,6 +32,10 @@
 - [2021-01-25-请查收-2020-全球-JS-现状调查报告](https://www.ershicimi.com/p/5262b7cc71c0c9f0441a3045ad2d5248) 
 - [2021-01-16-送粉丝20本-JavaScript-第四版红宝书！](https://www.ershicimi.com/p/c6021cabaab1ce405ac3ec41bddb3a4a) 
 - [2020-12-30-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/3f96aadaecf0c026a0c141d46f35d7dd) 
+- [2021-02-01-2020-年的-JavaScript-后起之秀](https://www.ershicimi.com/p/30816e209f8465f999e4904e511e7107) 
+- [2021-01-29-技巧：禁止蒙层底部页面跟随滚动](https://www.ershicimi.com/p/88e666de50a4f4bbb9948ee0d6f33984) 
+- [2021-01-28-20个常用的JavaScript简写技巧](https://www.ershicimi.com/p/43ef878e85bcdc42938aba6525709134) 
+- [2021-01-25-13个JavaScript单行代码，让你看起来更专业](https://www.ershicimi.com/p/6d650af044f9ef46bed094211480109e) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2021-02-01-【第2194期】SPA-路由三部曲之核心原理](https://www.ershicimi.com/p/72e90fa35080ac31a5b06c8f13504ffe) 
@@ -109,8 +113,6 @@
 - [2021-01-15-奇舞周刊第-381-期：2020-年度-JavaScript-现状调查报告](https://www.ershicimi.com/p/5c5ef59b9a94dd3de634313aa6fc6bc8) 
 - [2021-01-11-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/fa27bfb41b2cd95468c33a411b83ba33) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
-- [2021-01-29-如何在纯-JavaScript-中使用-GraphQL](https://www.ershicimi.com/p/55895bf6e965db8170ff6369a6a4209c) 
-- [2021-01-26-2020-年的-JavaScript-后起之秀](https://www.ershicimi.com/p/561dbe7c196a6e251c4fe7f306ae2e93) 
 - [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？](https://www.ershicimi.com/p/27033dcdf27caaae7012a928c62ea0ea) 
 - [2021-02-01-JavaScript深入之从类型到深浅拷贝](https://juejin.im/post/6924293215730270215) 
 - [2021-02-01-高并发-Javascript/-存在的！-|-WebKit](https://juejin.im/post/6924229590919413773) 
@@ -124,4 +126,8 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-02-01-一行能装逼的-JavaScript-代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14125&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqLtILt-1f8GwVj3IknryQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-01-31-中国农业因重要信息系统突发事件未报告等6项原因被罚420万元](https://sec.thief.one/article_content?a_id=fc33f599df2d611ccd89c106192006c4) 
+- [2021-01-30-BUF大事件丨sudo被曝新漏洞;人脸识别15分钟解锁19款安卓手机](https://sec.thief.one/article_content?a_id=1e3a9a4d36f8be66ce4771ecdf86e0f7) 
+- [2021-01-30-中国农业因重要信息系统突发事件未报告等6项原因被罚420万元](https://sec.thief.one/article_content?a_id=2915872707f18650bc7afb9d0701b9ee) 
+- [2021-01-29-【安全大事件】Win10-NTFS文件系统特制字符串导致磁盘异常](https://sec.thief.one/article_content?a_id=9541881983192939be014e38b7c7aada) 
 - [2021-01-24-2020年全球物联网10大事件盘点，其中透露了哪些信号?【物女心经】](https://www.ershicimi.com/p/24b73a8b60945d835ed003eb9f370663) 

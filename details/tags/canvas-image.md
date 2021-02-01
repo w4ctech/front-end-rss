@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-01 19:18:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 19:35:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -20,3 +20,4 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2021-02-01-2月1日GUIBI早内参-全球加密货币总市值重回1万亿美元,灰度以太坊...](https://sec.thief.one/article_content?a_id=153779060000b82c709d364d4b0f9bc5) 

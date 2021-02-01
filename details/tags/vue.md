@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-01 15:05:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 15:08:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -50,6 +50,7 @@
 - [2021-01-31-极为细致的Vue的Diff流程详解——以流程图表达](https://www.ershicimi.com/p/7bb45d917318ee9e83bee4db68692ae7) 
 - [2021-01-26-实战：在Node.js和Vue.js中构建文件压缩应用程序](https://www.ershicimi.com/p/2461bcd0d78766f7971b8cd1c8ebbf52) 
 - [2021-01-05-Vue-开发实战-—-从-0-开始搭建大型-Vue-项目](https://www.ershicimi.com/p/61003712e83b5779a3397a61b0239431) 
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2021-01-20-【Vuejs】探索-Vue.js-响应式原理](https://www.ershicimi.com/p/b6f2133f0faafeda06701ab8b2024e72) 
 - [2021-01-19-使用Vue3的CompositionAPI来优化代码量](https://www.ershicimi.com/p/8c77af703990b71572f88e1abf5c3919) 
 - [2020-12-21-来一起用-Vue3.0-造轮子](https://www.ershicimi.com/p/34e97f93b5d651329bf09ddd0e0e8b2a) 

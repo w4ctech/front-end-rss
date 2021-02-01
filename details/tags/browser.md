@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-01 04:03:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 04:15:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,7 +45,6 @@
 - [2021-01-31-『前端安全』——-友情链接捅你一刀没商量](https://juejin.im/post/6924104879216689159) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-01-edge-浏览器都变成了](https://www.v2ex.com/t/750205) 
-- [2021-02-01-如何在不升级至-Big-Sur-的前提下安装-Catalina-的安全性更新？](https://www.v2ex.com/t/750185) 
 - [2021-02-01-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-01-初识智能网联汽车安全](https://toutiao.io/k/4l91em5) 
 - [2021-02-01-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 

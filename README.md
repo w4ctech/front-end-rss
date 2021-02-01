@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-01 04:03:56，:rocket: 更新条数: +4243， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-01 04:15:52，:rocket: 更新条数: +4245， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1033,6 +1033,10 @@
 </summary>
 
 
+- [2021-02-01-美团社招-北京-美团优选-推荐系统/算法工程架构师-L7/L8](https://www.v2ex.com/t/750236) ![](assets/new.png)  
+- [2021-02-01-FreeBSD-12.2-阿里云镜像使用说明](https://www.v2ex.com/t/750235) ![](assets/new.png)  
+- [2021-02-01-JetBrains-2021-年度调查，可以获得-MBP、XPS、Sony-MX4,感兴趣可以参与](https://www.v2ex.com/t/750234) ![](assets/new.png)  
+- [2021-02-01-「网速+」更新发布，新增查看-iPhone-/-iPad-电池健康功能，前排送码](https://www.v2ex.com/t/750233) ![](assets/new.png)  
 - [2021-02-01-SonarQube-处理标准和规范？](https://www.v2ex.com/t/750232) ![](assets/new.png)  
 - [2021-02-01-美团社招-北京-美团优选-物流算法工程架构师-L7/L8](https://www.v2ex.com/t/750231) ![](assets/new.png)  
 - [2021-02-01-为啥现在偶尔吃泡面，就会觉得有种恶心的感觉](https://www.v2ex.com/t/750230) ![](assets/new.png)  
@@ -1049,10 +1053,6 @@
 - [2021-02-01-求助一个-C++-构造函数问题](https://www.v2ex.com/t/750211) ![](assets/new.png)  
 - [2021-02-01-关于立项风险的矛盾](https://www.v2ex.com/t/750210) ![](assets/new.png)  
 - [2021-02-01-如何解决-ffmpeg-转码以后，群晖的-ds-video-无声音的问题？](https://www.v2ex.com/t/750208) ![](assets/new.png)  
-- [2021-02-01-有没有那种网站，我提供一个接口，它定时访问一下，如果和预期不一致就发邮件或者短信通知](https://www.v2ex.com/t/750207) ![](assets/new.png)  
-- [2021-02-01-edge-浏览器都变成了](https://www.v2ex.com/t/750205) ![](assets/new.png)  
-- [2021-02-01-请问大家用剪切板工具时候有没有遇到这个问题](https://www.v2ex.com/t/750204) ![](assets/new.png)  
-- [2021-02-01-文件币（FIL-COIN）有人了解吗，用这个服务存储文件怎么样](https://www.v2ex.com/t/750203) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1111,8 +1111,8 @@
 - [2021-02-01-透明压缩技术如何缓解数据库中写放大](https://toutiao.io/k/ogbzzqt) ![](assets/new.png)  
 - [2021-02-01-初识智能网联汽车安全](https://toutiao.io/k/4l91em5) ![](assets/new.png)  
 - [2021-02-01-一个使用-xmake-构建-c/c++-模块的-luarocks-插件](https://toutiao.io/k/e9szv6i) ![](assets/new.png)  
-- [2021-02-01-堪比当年的-LSTM，Transformer-引燃机器学习圈：它是万能的](https://toutiao.io/k/l4s7tdr) ![](assets/new.png)  
 - [2021-02-01-仅使用-HTML-和-CSS-实现的标签云效果](https://toutiao.io/k/2sakpvz) ![](assets/new.png)  
+- [2021-02-01-堪比当年的-LSTM，Transformer-引燃机器学习圈：它是万能的](https://toutiao.io/k/l4s7tdr) ![](assets/new.png)  
 - [2021-02-01-函数是一等公民，这到底在说什么？](https://toutiao.io/k/nu0j2kk) ![](assets/new.png)  
 - [2021-02-01-Envoy-基础及其可扩展性要领](https://toutiao.io/k/uon751x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

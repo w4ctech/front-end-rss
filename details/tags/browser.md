@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-01 10:03:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 10:12:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,8 +45,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-01-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-01-初识智能网联汽车安全](https://toutiao.io/k/4l91em5) 
-- [2021-02-01-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
-- [2021-02-01-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) 
+- [2021-02-01-这封致谢信背后,是绿盟科技打造网络安全防护“金钟罩”的不懈追求](https://sec.thief.one/article_content?a_id=96bcedd7a881c5857beb02fbc7f2e1ef) 
 - [2021-02-01-富士代码执行漏洞使工业设备面临安全风险](https://sec.thief.one/article_content?a_id=511eede6b5ea9e8b35704ceff3f44b5f) 
 - [2021-02-01-2020网络安全投融资报告:透视投资热点与动向](https://sec.thief.one/article_content?a_id=3e9a0dec47e77c17b50d713e818a0576) 
 - [2021-02-01-每日安全动态推送02-01](https://sec.thief.one/article_content?a_id=2aa8015408f084918cebf00c88144ac2) 
@@ -64,4 +63,3 @@
 - [2021-01-29-每日安全动态推送01-29](https://sec.thief.one/article_content?a_id=e42c9163452351379ed255cd91c7c4b6) 
 - [2021-01-29-营业厅能看到详细上网数据?专家:功能必需,可提升安全认证等级](https://sec.thief.one/article_content?a_id=0eb20364a5a5febae116780026479aec) 
 - [2021-01-28-【安全圈】不用密码就能获取root权限?Sudo被曝新漏洞](https://sec.thief.one/article_content?a_id=bd9a9065a20a13ec1c03b9383bf09449) 
-- [2021-01-28-奇安信与科蓝软件达成战略合作-助力金融科技安全融合创新发展](https://sec.thief.one/article_content?a_id=c255c308b6e9f8227e6fa5829f9454d4) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-01 10:03:23，:rocket: 更新条数: +4255， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-01 10:12:44，:rocket: 更新条数: +4255， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1126,6 +1126,9 @@
 </summary>
 
 
+- [2021-02-01-这封致谢信背后,是绿盟科技打造网络安全防护“金钟罩”的不懈追求](https://sec.thief.one/article_content?a_id=96bcedd7a881c5857beb02fbc7f2e1ef) ![](assets/new.png)  
+- [2021-02-01-牛气offer,TA来了!](https://sec.thief.one/article_content?a_id=90cffc480454158ffbca807ad8a8cced) ![](assets/new.png)  
+- [2021-02-01-云的声音|“刺杀”腾讯云](https://sec.thief.one/article_content?a_id=a2052c3520cf54f949ffd9d4051fdcb1) ![](assets/new.png)  
 - [2021-02-01-富士代码执行漏洞使工业设备面临安全风险](https://sec.thief.one/article_content?a_id=511eede6b5ea9e8b35704ceff3f44b5f) ![](assets/new.png)  
 - [2021-02-01-2020网络安全投融资报告:透视投资热点与动向](https://sec.thief.one/article_content?a_id=3e9a0dec47e77c17b50d713e818a0576) ![](assets/new.png)  
 - [2021-02-01-每日安全动态推送02-01](https://sec.thief.one/article_content?a_id=2aa8015408f084918cebf00c88144ac2) ![](assets/new.png)  
@@ -1143,9 +1146,6 @@
 - [2021-02-01-庄荣文:网络强国建设的思想武器和行动指南——学习《习近平关于网...](https://sec.thief.one/article_content?a_id=013d0ae498ca4fb1d7a91a5ba1924c0b) ![](assets/new.png)  
 - [2021-02-01-随着网络犯罪分子瞄准新行业,网络勒索也相应增长](https://sec.thief.one/article_content?a_id=ac0eeace289b428e0c2d67f7ef1324c7) ![](assets/new.png)  
 - [2021-02-01-再见,杀毒软件之父,王江民!](https://sec.thief.one/article_content?a_id=6100719e9c8edf15e438b0ca8e330d60) ![](assets/new.png)  
-- [2021-02-01-数据跨境流动-|-东盟数据管理框架全文翻译](https://sec.thief.one/article_content?a_id=6b863f3cc909962de39d535029fc8a1e) ![](assets/new.png)  
-- [2021-02-01-Linux-sudo权限提升漏洞复现CVE-2021-3156](https://sec.thief.one/article_content?a_id=f8d320e698a7be8f0862412bc9662f41) ![](assets/new.png)  
-- [2021-02-01-0x41414141-CTF-WriteUp](https://sec.thief.one/article_content?a_id=4a37c44eed8bc8707b14daac166300b7) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

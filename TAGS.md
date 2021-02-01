@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-01 10:12:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 10:39:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -381,6 +381,7 @@
 - [【凹凸实验室】探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
+- [【安全热点】2月1日GUIBI早内参-全球加密货币总市值重回1万亿美元,灰度以太坊...](https://sec.thief.one/article_content?a_id=153779060000b82c709d364d4b0f9bc5)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -512,6 +513,7 @@
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【互联网架构师】你还在用HTTP吗？HTTP/3都来了。。。](https://www.ershicimi.com/p/c74af2403a9f81f1c832835995b78d46)
 - [【开发者头条】自动驾驶轨迹预测算法：NeurIPS-挑战赛冠军方案](https://toutiao.io/k/c7sytu4)
+- [【开发者头条】推荐-分布式唯一-ID-解决方案：雪花算法](https://toutiao.io/k/eyvwks8)
 - [【安全热点】GitHub-68.8k-star的硬核算法教程](https://sec.thief.one/article_content?a_id=436300f0dab55ab3e5f6f974aeb81f1d)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -670,7 +672,7 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】1月31日全国新增新冠42例-本土病例33例](https://m.caixin.com/m/2021-02-01/101658482.html)
+- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊89564例-本土病例新增33例](https://m.caixin.com/m/2021-02-01/101658875.html)
 - [【武汉肺炎防疫全纪录(财新网)】河北1月31日新增1例本地确诊病例-在石家庄（附轨迹）](https://m.caixin.com/m/2021-02-01/101658504.html)
 - [【武汉肺炎防疫全纪录(财新网)】吉林1月31新增确诊病例10例-长春2例通化8例](https://m.caixin.com/m/2021-02-01/101658492.html)
 - [【武汉肺炎防疫全纪录(财新网)】黑龙江31日新增22例确诊病例-新增9例无症状感染者](https://m.caixin.com/m/2021-02-01/101658475.html)

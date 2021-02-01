@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-01 10:12:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 10:39:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -118,7 +118,6 @@
 - [2021-01-29-如何在纯-JavaScript-中使用-GraphQL](https://www.ershicimi.com/p/55895bf6e965db8170ff6369a6a4209c) 
 - [2021-01-26-2020-年的-JavaScript-后起之秀](https://www.ershicimi.com/p/561dbe7c196a6e251c4fe7f306ae2e93) 
 - [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？](https://www.ershicimi.com/p/27033dcdf27caaae7012a928c62ea0ea) 
-- [2021-02-01-interact.js-中文文档（功能选项）](https://juejin.im/post/6924203941517328397) 
 - [2021-01-31-来看一看Virtual-DOM是什么](https://juejin.im/post/6924198851343712269) 
 - [2021-01-31-【翻译】JavaScript-中的函数式编程：函数、组合与柯里化](https://juejin.im/post/6924174809366528008) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
@@ -137,5 +136,4 @@
 - [2021-01-30-BUF大事件丨sudo被曝新漏洞;人脸识别15分钟解锁19款安卓手机](https://sec.thief.one/article_content?a_id=1e3a9a4d36f8be66ce4771ecdf86e0f7) 
 - [2021-01-30-中国农业因重要信息系统突发事件未报告等6项原因被罚420万元](https://sec.thief.one/article_content?a_id=2915872707f18650bc7afb9d0701b9ee) 
 - [2021-01-29-【安全大事件】Win10-NTFS文件系统特制字符串导致磁盘异常](https://sec.thief.one/article_content?a_id=9541881983192939be014e38b7c7aada) 
-- [2021-01-29-【视频】|-Python:全局变量是列表类型](https://sec.thief.one/article_content?a_id=5506031a3f11966c6eab53634416c128) 
 - [2021-01-24-2020年全球物联网10大事件盘点，其中透露了哪些信号?【物女心经】](https://www.ershicimi.com/p/24b73a8b60945d835ed003eb9f370663) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-01 09:50:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 10:03:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -90,5 +90,6 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2021-02-01-在虚拟机里使用微信视频聊天无法显示图像](https://www.v2ex.com/t/750381) 
 - [2021-02-01-虚拟机微信视频聊天无法显示图像](https://www.v2ex.com/t/750356) 
 - [2021-01-29-今晚19点丨技术大牛亲临直播间,邀你共赴知识盛宴!](https://sec.thief.one/article_content?a_id=246910bc65d046f4d5355402c0ad23ad) 

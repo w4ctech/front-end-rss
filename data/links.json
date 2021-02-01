@@ -19938,6 +19938,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "实现Web端自定义截屏",
+        "link": "https://juejin.im/post/6924368956950052877",
+        "date": "2021-02-01"
+      },
+      {
         "title": "潮流前端周刊（第21期）- 汤圆",
         "link": "https://juejin.im/post/6924301040674144264",
         "date": "2021-02-01"
@@ -19955,11 +19960,6 @@
       {
         "title": "使用 Structured-React-Hook 编写\"真 ` 易于维护和扩展\"的组件(一)",
         "link": "https://juejin.im/post/6924232276012171272",
-        "date": "2021-02-01"
-      },
-      {
-        "title": "高并发 Javascript/ 存在的！ | WebKit",
-        "link": "https://juejin.im/post/6924229590919413773",
         "date": "2021-02-01"
       }
     ]
@@ -20766,23 +20766,8 @@
         "date": "2021-02-01"
       },
       {
-        "title": "[推荐] DDD 实现之路",
-        "link": "https://toutiao.io/k/9r5qrcy",
-        "date": "2021-02-01"
-      },
-      {
-        "title": "[推荐] 跳表：会跳的链表原来这么 diao",
-        "link": "https://toutiao.io/k/fobkj0c",
-        "date": "2021-02-01"
-      },
-      {
-        "title": "[推荐] 最终一致性，一致只会迟到，但绝不会缺席",
-        "link": "https://toutiao.io/k/9q7yxnu",
-        "date": "2021-02-01"
-      },
-      {
-        "title": "[推荐] [译] API 设计最佳实践",
-        "link": "https://toutiao.io/k/zxvyi14",
+        "title": "[推荐] 把 VSCode 打造成技术写作神器",
+        "link": "https://toutiao.io/k/4n0p7ex",
         "date": "2021-02-01"
       },
       {
@@ -20791,23 +20776,28 @@
         "date": "2021-02-01"
       },
       {
-        "title": "[推荐] 线程池最佳线程数量到底要如何配置？",
-        "link": "https://toutiao.io/k/pf728mr",
+        "title": "[推荐] 基于开源技术打造 DevSecOps 工具链",
+        "link": "https://toutiao.io/k/8dcb5n8",
         "date": "2021-02-01"
       },
       {
-        "title": "[推荐] Spring 中那些让你爱不释手的代码技巧",
-        "link": "https://toutiao.io/k/lev94mm",
+        "title": "[推荐] Golang 最细节篇：struct{} 空结构体究竟是啥？",
+        "link": "https://toutiao.io/k/xr4hfsr",
         "date": "2021-02-01"
       },
       {
-        "title": "[推荐] 又一个大数据相关项目成为顶级项目",
-        "link": "https://toutiao.io/k/pcnig17",
+        "title": "[推荐] 线程池实时管理与监控工具的实现与思考",
+        "link": "https://toutiao.io/k/3yigd21",
         "date": "2021-02-01"
       },
       {
-        "title": "[推荐] 1 个人独立变现 6 种途径收入 130 万美金在 2020 年（人物志 21 篇）",
-        "link": "https://toutiao.io/k/ci3lzlc",
+        "title": "[推荐] 阿里面试官问我 Java 线程和操作系统线程什么关系",
+        "link": "https://toutiao.io/k/oh81sch",
+        "date": "2021-02-01"
+      },
+      {
+        "title": "[推荐] 跳表：会跳的链表原来这么 diao",
+        "link": "https://toutiao.io/k/fobkj0c",
         "date": "2021-02-01"
       },
       {
@@ -20816,8 +20806,8 @@
         "date": "2021-02-01"
       },
       {
-        "title": "[推荐] 漫画：理解了 TCP 连接的实现以后，客户端的并发也爆发了",
-        "link": "https://toutiao.io/k/zvcfkca",
+        "title": "[推荐] 基于 SSD 的 Kafka 应用层缓存架构设计与实现",
+        "link": "https://toutiao.io/k/ddgxe6s",
         "date": "2021-02-01"
       },
       {
@@ -20826,18 +20816,28 @@
         "date": "2021-02-01"
       },
       {
-        "title": "[推荐] 我的 2020 年阅读书单",
-        "link": "https://toutiao.io/k/e83kg1a",
+        "title": "[推荐] Spring 中那些让你爱不释手的代码技巧",
+        "link": "https://toutiao.io/k/lev94mm",
         "date": "2021-02-01"
       },
       {
-        "title": "[推荐] 如何做到每秒接收 100 万个数据包",
-        "link": "https://toutiao.io/k/hu9ng1x",
+        "title": "[推荐] 漫画：理解了 TCP 连接的实现以后，客户端的并发也爆发了",
+        "link": "https://toutiao.io/k/zvcfkca",
         "date": "2021-02-01"
       },
       {
-        "title": "[推荐] Redis 在 Linux 系统的配置优化",
-        "link": "https://toutiao.io/k/cgfim2o",
+        "title": "[推荐] 如何做好技术 Team Leader？",
+        "link": "https://toutiao.io/k/7lfbxyd",
+        "date": "2021-02-01"
+      },
+      {
+        "title": "[推荐] 来，一起品品 Google 的 Code Review 规范",
+        "link": "https://toutiao.io/k/tz4h6d7",
+        "date": "2021-02-01"
+      },
+      {
+        "title": "[推荐] 1 个人独立变现 6 种途径收入 130 万美金在 2020 年（人物志 21 篇）",
+        "link": "https://toutiao.io/k/ci3lzlc",
         "date": "2021-02-01"
       }
     ]

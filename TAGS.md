@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-01 03:51:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 04:03:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -512,6 +512,7 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【互联网架构师】你还在用HTTP吗？HTTP/3都来了。。。](https://www.ershicimi.com/p/c74af2403a9f81f1c832835995b78d46)
+- [【V2EX】美团社招-北京-美团优选-物流算法工程架构师-L7/L8](https://www.v2ex.com/t/750231)
 - [【开发者头条】自动驾驶轨迹预测算法：NeurIPS-挑战赛冠军方案](https://toutiao.io/k/c7sytu4)
 - [【开发者头条】推荐-分布式唯一-ID-解决方案：雪花算法](https://toutiao.io/k/eyvwks8)
 - [【安全热点】GitHub-68.8k-star的硬核算法教程](https://sec.thief.one/article_content?a_id=436300f0dab55ab3e5f6f974aeb81f1d)
@@ -568,7 +569,6 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【V2EX】Github-国内要改下名称了](https://www.v2ex.com/t/750179)
 - [【技术头条】GitHub-上最励志的计算机自学教程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14121&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA-p9MmdXeV8loVq_WBk5Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -604,8 +604,8 @@
 - [【前端日刊】笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b)
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
-- [【V2EX】招聘啦，帮忙推荐朋友成功入职，推荐费全额带走](https://www.v2ex.com/t/750182)
 - [【技术头条】记一次阿里面试，止步第三轮，发现这个是硬伤-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14124&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8qMS5AD91-VLyYZmOrcjYA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】详解并发编程之-sync.Once-的实现（附上三道面试题）](https://toutiao.io/k/jly4lrh)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

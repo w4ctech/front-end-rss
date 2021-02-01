@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-31 23:53:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 00:12:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,4 +27,5 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2021-01-31-云原生项目实践-DevOpsGitOps+K8S+BPF+SRE，从-0-到-1-使用-Golang-开发生产级麻将游戏服务器—第-1-篇](https://www.v2ex.com/t/750099) 
 - [2021-01-28-推荐一个解压游戏:合成大西瓜](https://sec.thief.one/article_content?a_id=95f630f03118d3a33fa30378a6f5c9a7) 

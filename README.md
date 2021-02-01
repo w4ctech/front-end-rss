@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-01 07:05:15，:rocket: 更新条数: +4251， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-01 07:14:09，:rocket: 更新条数: +4249， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -915,8 +915,8 @@
 
 - [2021-01-31-Apache-ECharts-5-系列教程（1）动态叙事](https://juejin.im/post/6924171406737424398) ![](assets/new.png)  
 - [2021-01-31-构建设计系统和组件库](https://juejin.im/post/6924152501805678606) ![](assets/new.png)  
+- [2021-01-31-国内首款-Serverless-MySQL-数据库重磅发布！](https://juejin.im/post/6924121708416729095) ![](assets/new.png)  
 - [2021-01-31-小白学习-Vue-3.绑定-Class-与-Style](https://juejin.im/post/6924120069702156301) ![](assets/new.png)  
-- [2021-01-31-ES6特性总结](https://juejin.im/post/6924110256138092558) ![](assets/new.png)  
 - [2021-01-31-给-ES6-class-说句公道话](https://juejin.im/post/6924108426125508616) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 

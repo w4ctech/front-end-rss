@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-01 08:10:45，:rocket: 更新条数: +4249， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-01 08:44:11，:rocket: 更新条数: +4247， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -913,11 +913,6 @@
 </summary>
 
 
-- [2021-01-31-看懂此文，手写十种Promise！](https://juejin.im/post/6924188714419634190) ![](assets/new.png)  
-- [2021-01-31-React-Hooks的常见应用及一些原理](https://juejin.im/post/6924182510133837838) ![](assets/new.png)  
-- [2021-01-31-Nunjucks模板引擎，前端页面修改后同步刷新](https://juejin.im/post/6924182462813700110) ![](assets/new.png)  
-- [2021-01-31-前端异常处理](https://juejin.im/post/6924181931412160526) ![](assets/new.png)  
-- [2021-01-31-Vue常用API、高级API笔记](https://juejin.im/post/6924181583373500430) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1033,6 +1028,19 @@
 </summary>
 
 
+- [2021-02-01-一款基于-Web-的通用数据管理工具-CloudQuery（转载）](https://www.v2ex.com/t/750360) ![](assets/new.png)  
+- [2021-02-01-大佬们，我想开发一款比较普遍使用的手机打车应用，是-web-端网页、快应用、微信小程序好还是-app-好？](https://www.v2ex.com/t/750359) ![](assets/new.png)  
+- [2021-02-01-财新网（财新通）有合租上车吗？](https://www.v2ex.com/t/750357) ![](assets/new.png)  
+- [2021-02-01-虚拟机微信视频聊天无法显示图像](https://www.v2ex.com/t/750356) ![](assets/new.png)  
+- [2021-02-01-阿里云有哪些节点访问境外和国内的速度比较快？](https://www.v2ex.com/t/750355) ![](assets/new.png)  
+- [2021-02-01-技术大佬们，-CI/CD持续集成/持续发布的方案有哪些](https://www.v2ex.com/t/750352) ![](assets/new.png)  
+- [2021-02-01-BTRFS-当前（2021-年初）稳定性如何？](https://www.v2ex.com/t/750351) ![](assets/new.png)  
+- [2021-02-01-对于-Clubhouse-这种基于声音社交形式，大家怎么看？](https://www.v2ex.com/t/750350) ![](assets/new.png)  
+- [2021-02-01-印象笔记的广告能选择不弹出么](https://www.v2ex.com/t/750349) ![](assets/new.png)  
+- [2021-02-01-react-native-还有前途么？](https://www.v2ex.com/t/750348) ![](assets/new.png)  
+- [2021-02-01-北京-前端-18K-30K-Moka-招聘前端工程师啦，来一起-ts-类型体操](https://www.v2ex.com/t/750347) ![](assets/new.png)  
+- [2021-02-01-有没有过来人说说，总价-200-万以内在广州能买啥房？](https://www.v2ex.com/t/750346) ![](assets/new.png)  
+- [2021-02-01-关于罗技-easy-switch-切换键鼠的问题](https://www.v2ex.com/t/750345) ![](assets/new.png)  
 - [2021-02-01-请问-Goland-和-IDEA-怎么同时高亮多个不同的变量？](https://www.v2ex.com/t/750344) ![](assets/new.png)  
 - [2021-02-01-杭州-字节跳动-的-商业化部门，怎么样，工作强度，团队氛围？](https://www.v2ex.com/t/750343) ![](assets/new.png)  
 - [2021-02-01-一个想法：现在手机成为出门必带品后，衣服裤子的口袋是否应该设计得更人性化？](https://www.v2ex.com/t/750342) ![](assets/new.png)  
@@ -1040,19 +1048,6 @@
 - [2021-02-01-ALIYUN-新出了-2-核-2G-的突发性能型服务器，新户-99-一年](https://www.v2ex.com/t/750340) ![](assets/new.png)  
 - [2021-02-01-域名被劫持，也有可能是域名-dns-解析错误，能通知运营商主动刷新-dns-吗](https://www.v2ex.com/t/750338) ![](assets/new.png)  
 - [2021-02-01-有什么好用的，免费的-whatsapp-PC-版，管理工具么？](https://www.v2ex.com/t/750337) ![](assets/new.png)  
-- [2021-02-01-iOS-邮箱-Outlook-账户频繁要求重输密码](https://www.v2ex.com/t/750335) ![](assets/new.png)  
-- [2021-02-01-北京|杭州-蚂蚁集团-OceanBase-业务十年磨一剑，诚聘多名-Web-前端工程师](https://www.v2ex.com/t/750333) ![](assets/new.png)  
-- [2021-02-01-诸位，新的春节返乡要求已经出来了，大家还打算回家吗？](https://www.v2ex.com/t/750331) ![](assets/new.png)  
-- [2021-02-01-jenkins-pipeline-+-gitlab](https://www.v2ex.com/t/750328) ![](assets/new.png)  
-- [2021-02-01-视频-写了一个浏览器扩展，可以在任何网页打开一个代码编辑器，我录制了两段视频](https://www.v2ex.com/t/750327) ![](assets/new.png)  
-- [2021-02-01-总结一些常见的-npm-包，提高开发效率，欢迎-v2er-补充～](https://www.v2ex.com/t/750326) ![](assets/new.png)  
-- [2021-02-01-看直播多开会有延迟卡顿现象，如何解决？](https://www.v2ex.com/t/750325) ![](assets/new.png)  
-- [2021-02-01-徐州-现在-Java-开发相关怎么样](https://www.v2ex.com/t/750324) ![](assets/new.png)  
-- [2021-02-01-查一条-CM5D](https://www.v2ex.com/t/750323) ![](assets/new.png)  
-- [2021-02-01-关于-M1-下-homebrew-的问题](https://www.v2ex.com/t/750321) ![](assets/new.png)  
-- [2021-02-01-想去广州发展](https://www.v2ex.com/t/750318) ![](assets/new.png)  
-- [2021-02-01-深圳阿里中心支付宝香港-大前端团队招聘-可春节后入职-0201](https://www.v2ex.com/t/750317) ![](assets/new.png)  
-- [2021-02-01-成形的前端项目，如何进行更好的-toB-定制（千人千面的定制）](https://www.v2ex.com/t/750316) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1102,8 +1097,8 @@
 - [2021-02-01-一站式机器学习云研发平台](https://toutiao.io/k/rcuveh1) ![](assets/new.png)  
 - [2021-02-01-对象怎么无中生有的？看完这一篇就懂了](https://toutiao.io/k/oey80jk) ![](assets/new.png)  
 - [2021-02-01-译-利用-eBPF-redirection-提升-socket-性能-2020](https://toutiao.io/k/dy4ix0k) ![](assets/new.png)  
-- [2021-02-01-解读-InfluxDB-IOx：基于列存的时序数据库](https://toutiao.io/k/xqlk9mj) ![](assets/new.png)  
 - [2021-02-01-SwitchHosts!-还能这样管理-hosts，后悔没早点用](https://toutiao.io/k/tj11o4h) ![](assets/new.png)  
+- [2021-02-01-解读-InfluxDB-IOx：基于列存的时序数据库](https://toutiao.io/k/xqlk9mj) ![](assets/new.png)  
 - [2021-02-01-推荐系统工程篇之搭建以图搜图服务](https://toutiao.io/k/943qquk) ![](assets/new.png)  
 - [2021-02-01-详解并发编程之-sync.Once-的实现（附上三道面试题）](https://toutiao.io/k/jly4lrh) ![](assets/new.png)  
 - [2021-02-01-Flink-+-Iceberg-全场景实时数仓的建设实践](https://toutiao.io/k/o0k8pzo) ![](assets/new.png)  
@@ -1111,8 +1106,8 @@
 - [2021-02-01-透明压缩技术如何缓解数据库中写放大](https://toutiao.io/k/ogbzzqt) ![](assets/new.png)  
 - [2021-02-01-仅使用-HTML-和-CSS-实现的标签云效果](https://toutiao.io/k/2sakpvz) ![](assets/new.png)  
 - [2021-02-01-一个使用-xmake-构建-C/C++-模块的-luarocks-插件](https://toutiao.io/k/e9szv6i) ![](assets/new.png)  
-- [2021-02-01-初识智能网联汽车安全](https://toutiao.io/k/4l91em5) ![](assets/new.png)  
 - [2021-02-01-Envoy-基础及其可扩展性要领](https://toutiao.io/k/uon751x) ![](assets/new.png)  
+- [2021-02-01-初识智能网联汽车安全](https://toutiao.io/k/4l91em5) ![](assets/new.png)  
 - [2021-02-01-堪比当年的-LSTM，Transformer-引燃机器学习圈：它是万能的](https://toutiao.io/k/l4s7tdr) ![](assets/new.png)  
 - [2021-02-01-函数是一等公民，这到底在说什么？](https://toutiao.io/k/nu0j2kk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

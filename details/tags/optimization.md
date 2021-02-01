@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-01 22:39:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 22:51:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -23,4 +23,3 @@
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2021-02-01-如何实现页面加载完毕之后再跳转](https://www.v2ex.com/t/750444) 
 - [2021-02-01-译-利用-eBPF-redirection-提升-socket-性能-2020](https://toutiao.io/k/dy4ix0k) 
-- [2021-02-01-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) 

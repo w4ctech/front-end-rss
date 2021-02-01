@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-01 15:46:41，:rocket: 更新条数: +4010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-01 16:01:24，:rocket: 更新条数: +4009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1013,6 +1013,7 @@
 </summary>
 
 
+- [2021-02-01-新版-miui-已禁用谷歌服务](https://www.v2ex.com/t/750463) ![](assets/new.png)  
 - [2021-02-01-jpa，两个表加一个中间表，如何才能不生成外键](https://www.v2ex.com/t/750459) ![](assets/new.png)  
 - [2021-02-01-对鼠须管来说，这个内存占用量算不算大](https://www.v2ex.com/t/750458) ![](assets/new.png)  
 - [2021-02-01-感觉今年苹果的新春宣传片《阿年》和平常年味这种过于白开水啊](https://www.v2ex.com/t/750455) ![](assets/new.png)  
@@ -1032,7 +1033,6 @@
 - [2021-02-01-实现一个-Python-编辑器需要哪些技术栈](https://www.v2ex.com/t/750439) ![](assets/new.png)  
 - [2021-02-01-前端想学后端知识走全栈，请问怎么规划。学-node-还是-PHP-，-mysql-还是-mongodb-还是-redis。](https://www.v2ex.com/t/750438) ![](assets/new.png)  
 - [2021-02-01-49-年入国军，这个时间点购入了一台-16-寸-mbp](https://www.v2ex.com/t/750437) ![](assets/new.png)  
-- [2021-02-01-翻译：《实用的-Python-编程》README](https://www.v2ex.com/t/750436) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-02 05:07:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 05:15:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,7 +44,8 @@
 - [2021-02-02-apache-没办法获取请求的域名](https://www.v2ex.com/t/750538) 
 - [2021-02-02-求助小米刷国际版-ROM,手机不安全问题](https://www.v2ex.com/t/750537) 
 - [2021-02-02-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-02-02-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
+- [2021-02-02-澳大利亚政府推出敏感数据安全共享的新工具](https://sec.thief.one/article_content?a_id=381b14f3e49efb7912f1b4b3fe9b1f8b) 
+- [2021-02-02-每日安全动态推送02-02](https://sec.thief.one/article_content?a_id=8000830f1dfb32aa162efad0317b336a) 
 - [2021-02-02-阿里云安全获Apache官方致谢-|Apache-Druid-远程代码执行漏洞预警...](https://sec.thief.one/article_content?a_id=78791463a276e23533d65f71c15787fc) 
 - [2021-02-01-【安全圈】富士代码执行漏洞使工业设备面临安全风险](https://sec.thief.one/article_content?a_id=2c116221f2cc9af672273bbf3daefb9f) 
 - [2021-02-01-2021年端点安全8大趋势预测分析——安恒信息发布](https://sec.thief.one/article_content?a_id=3ad20457a522e79f1d9093ff565e42c0) 
@@ -62,7 +63,3 @@
 - [2021-01-30-南非政府自研浏览器续命Flash](https://sec.thief.one/article_content?a_id=7541f9badba0e70eea6fe37fa6194904) 
 - [2021-01-30-安全基线建设指南](https://sec.thief.one/article_content?a_id=d28b6bfd0aa72b963170768a29d4667b) 
 - [2021-01-29-【安全圈】零售巨头牛奶集团遭勒索软件攻击,赎金高达3000万美元](https://sec.thief.one/article_content?a_id=af80e65f2ea9d765503d1149c4168d52) 
-- [2021-01-29-《信息技术与网络安全》专访齐向东:守正创新-推进网络安全科技自...](https://sec.thief.one/article_content?a_id=0917ac5e4fd9d675d6b47c4e8fee55c0) 
-- [2021-01-29-基于智能手机的近源渗透案例分享——“点到为止”的测试某网络安全...](https://sec.thief.one/article_content?a_id=57af35b89fdec7bb206c7f95263df5f5) 
-- [2021-01-29-加入我们|腾讯云安全大后方,等你唤醒西部的力量](https://sec.thief.one/article_content?a_id=dc2b4976222a3e78d4c66690a3f44458) 
-- [2021-01-29-安全建议:MSRPC打印机后台处理程序中继CVE-2021-1678](https://sec.thief.one/article_content?a_id=af18b4fcebb08ae79f4275ac5418de3d) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-02 06:07:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 06:40:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -14,7 +14,6 @@
 - [2021-01-24-盘点-Github-上的高仿-app-项目，B站-微博-微信等等](https://www.ershicimi.com/p/390870d484ce81189740a96ff7736c3c) 
 - [2021-01-23-盘点-Github-上的高仿-app-项目，B站-微博-微信等等](https://www.ershicimi.com/p/e0f0baee3acf42e95a9b36c8d8c6da61) 
 - [2020-02-26-第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e) 
-- [2021-02-01-推荐程序员必备的-10-大-GitHub-仓库，前端占了-7-个！](https://juejin.im/post/6924520063399624712) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
 - [2021-02-02-分享一个用于生成-Github-Readme-Profile-的脚本](https://www.v2ex.com/t/750574) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-02 06:07:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 06:40:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -26,5 +26,5 @@
 - [2021-01-04-Node.js-小知识-—-实现图片上传写入磁盘的接口](https://www.ershicimi.com/p/d89941ef4cd3fef88fbd7aa59824aa11) 
 - [2021-01-03-Github-4-万-Star！最全面的-Node.js-资源汇总推荐](https://www.ershicimi.com/p/a3e0d68484c37750677c8b81c310199d) 
 - [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) 
-- [2021-02-01-如实使用-Node-开发一款命令行工具](https://juejin.im/post/6924498607655616520) 
+- [2021-02-02-远程-Casbin-开源软件“Talent-2021”研发实习+GSoC-2021-预选（急招-k8s-云原生，-Nodejs,-Python-,-Rust,-Lua）](https://www.v2ex.com/t/750604) 
 - [2021-02-02-译-Node.js-安全指南](https://toutiao.io/k/w4uopss) 

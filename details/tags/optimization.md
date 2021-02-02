@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-02 04:45:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 04:55:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -23,4 +23,3 @@
 - [2021-02-01-Cypress首屏加载时间测试](https://juejin.im/post/6924495415316316167) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2021-02-02-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) 
-- [2021-02-02-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) 

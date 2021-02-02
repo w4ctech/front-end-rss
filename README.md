@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-02 11:25:30，:rocket: 更新条数: +1006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-02 11:40:49，:rocket: 更新条数: +4264， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-02-02-最新疫情：全国新冠累计确诊89594例-本土病例新增12例](https://m.caixin.com/m/2021-02-02/101659311.html) ![](assets/new.png)  
+- [2021-02-02-吉林2月1日新增确诊病例4例-无症状感染者3例](https://m.caixin.com/m/2021-02-02/101659014.html) ![](assets/new.png)  
+- [2021-02-02-河北2月1日无新增新冠确诊病例](https://m.caixin.com/m/2021-02-02/101659006.html) ![](assets/new.png)  
+- [2021-02-02-黑龙江2月1日新增8例确诊病例-4例无症状感染者](https://m.caixin.com/m/2021-02-02/101659000.html) ![](assets/new.png)  
+- [2021-02-02-最新海外疫情：新冠感染超1.03亿-累计死亡超223万](https://m.caixin.com/m/2021-02-02/101659307.html) ![](assets/new.png)  
+- [2021-02-02-【境内疫情观察】河北石家庄已有超60%确诊患者治愈出院（2月1日）](http://m.database.caixin.com/m/2021-02-02/101659256.html) ![](assets/new.png)  
+- [2021-02-02-辉瑞向欧盟追加7500万剂疫苗-日本拟延长紧急事态宣言一个月|大流行手记（2月1日）](https://m.caixin.com/m/2021-02-02/101659003.html) ![](assets/new.png)  
+- [2021-02-01-吉林1月31新增确诊病例10例-长春2例通化8例](https://m.caixin.com/m/2021-02-01/101658492.html) ![](assets/new.png)  
+- [2021-02-01-河北1月31日新增1例本地确诊病例-在石家庄（附轨迹）](https://m.caixin.com/m/2021-02-01/101658504.html) ![](assets/new.png)  
+- [2021-02-01-黑龙江31日新增22例确诊病例-新增9例无症状感染者](https://m.caixin.com/m/2021-02-01/101658475.html) ![](assets/new.png)  
+- [2021-02-01-【境内疫情观察】全国新增33例本土病例（1月31日）](http://m.database.caixin.com/m/2021-02-01/101658720.html) ![](assets/new.png)  
+- [2021-02-01-Moderna疫苗供货减量-变异病毒或令美国死亡激增丨大流行手记（1月31日）](https://m.caixin.com/m/2021-02-01/101658526.html) ![](assets/new.png)  
+- [2021-02-01-【图集】世卫组织国际专家组在武汉持续展开研究](http://m.photos.caixin.com/m/2021-02-01/101658573.html) ![](assets/new.png)  
+- [2021-01-31-在正大公司疫情防控中履职不力-哈尔滨问责12人](http://m.china.caixin.com/m/2021-01-31/101658403.html) ![](assets/new.png)  
+- [2021-01-31-吉林30日新增本地新冠确诊63例-长春5例通化58例](https://m.caixin.com/m/2021-01-31/101658372.html) ![](assets/new.png)  
+- [2021-01-31-河北30日新增1例本地确诊病例-石家庄报告（附轨迹）](https://m.caixin.com/m/2021-01-31/101658366.html) ![](assets/new.png)  
+- [2021-01-31-黑龙江30日新增确诊病例9例-无症状感染者4例](https://m.caixin.com/m/2021-01-31/101658357.html) ![](assets/new.png)  
+- [2021-01-31-【境内疫情观察】黑龙江哈尔滨呼兰区呼兰街道升为高风险地区（1月30日）](http://m.database.caixin.com/m/2021-01-31/101658390.html) ![](assets/new.png)  
+- [2021-01-31-法国禁非欧盟人士入境-巴西一城自然感染难获群体免疫丨大流行手记](https://m.caixin.com/m/2021-01-31/101658380.html) ![](assets/new.png)  
+- [2021-01-31-聚焦|张文宏：就地过年是为全中国人做贡献，不是理所应当](http://m.opinion.caixin.com/m/2021-01-31/101658355.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1013,6 +1033,7 @@
 </summary>
 
 
+- [2021-02-02-求问一个关于-apple-care-+的问题](https://www.v2ex.com/t/750707) ![](assets/new.png)  
 - [2021-02-02-大佬们,关于-puppeteer-的问题](https://www.v2ex.com/t/750706) ![](assets/new.png)  
 - [2021-02-02-杭州阿里拍卖招人，前端/后端/算法/测试/产品，全都要，流程飞快！](https://www.v2ex.com/t/750705) ![](assets/new.png)  
 - [2021-02-02-哔哩哔哩京东移动云炸了](https://www.v2ex.com/t/750703) ![](assets/new.png)  
@@ -1032,7 +1053,6 @@
 - [2021-02-02-请教将服务器控制面板映射到公网是否安全？](https://www.v2ex.com/t/750688) ![](assets/new.png)  
 - [2021-02-02-哪里可以不用登录下载-jre8](https://www.v2ex.com/t/750687) ![](assets/new.png)  
 - [2021-02-02-请问除了笔记软件，还有什么方便本地做知识管理的软件吗？](https://www.v2ex.com/t/750686) ![](assets/new.png)  
-- [2021-02-02-脑洞大开,设计个-bug](https://www.v2ex.com/t/750685) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,8 +1103,8 @@
 - [2021-02-02-RocketMQ-常用消息类型](https://toutiao.io/k/4praxx4) ![](assets/new.png)  
 - [2021-02-02-Prometheus-为你的微服务保驾护航](https://toutiao.io/k/vluo1zw) ![](assets/new.png)  
 - [2021-02-02-Spring-IoC-容器初始化（二）](https://toutiao.io/k/gi0oywi) ![](assets/new.png)  
-- [2021-02-02-有赞个性化推荐能力的演进与实践](https://toutiao.io/k/vhnufoa) ![](assets/new.png)  
 - [2021-02-02-JWT-库生成-Token-的使用与原理](https://toutiao.io/k/ywmkpo3) ![](assets/new.png)  
+- [2021-02-02-有赞个性化推荐能力的演进与实践](https://toutiao.io/k/vhnufoa) ![](assets/new.png)  
 - [2021-02-02-大量图片数据导出为-excel-导致内存溢出解决方案落地](https://toutiao.io/k/yaptg61) ![](assets/new.png)  
 - [2021-02-02-设计模式之工厂模式](https://toutiao.io/k/1gfcjyf) ![](assets/new.png)  
 - [2021-02-02-xcli，一个简单易用的命令行工具](https://toutiao.io/k/zcon06x) ![](assets/new.png)  

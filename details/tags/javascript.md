@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-02 21:08:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 21:29:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -69,13 +69,11 @@
 - [2021-01-21-22个超详细的-JS-数组方法](https://www.ershicimi.com/p/0bf08a57f1cd5515242f1735e16db6a2) 
 - [2021-01-20-让你的-JS-代码变得更加优雅且可维护](https://www.ershicimi.com/p/2234eb788ee1f6347dbaf8dbff2e8805) 
 - [2021-01-19-请查收-2020-全球-JS-现状调查报告](https://www.ershicimi.com/p/06475752dd83e5f17668c63ba8db9430) 
+- [2021-02-01-或许这就是下一代组件库](https://www.ershicimi.com/p/869e3034552f7a28c5b09ff3c57a6eda) 
 - [2021-01-28-从打字机效果的-N-种实现看JS定时器机制和前端动画](https://www.ershicimi.com/p/08c731b47c7c75eab92b29f68d0d12b8) 
 - [2021-01-28-这些一行-JS-实现功能的代码，让你看起来像一个前端专家](https://www.ershicimi.com/p/9037932d1dd88cc9127bb434611931aa) 
 - [2021-01-27-JavaScript-世界万物诞生记](https://www.ershicimi.com/p/c397ccccffbaf61fa631c67a563ef32e) 
 - [2021-01-25-温故而知新，8张-Javascript-思维导图助你成长](https://www.ershicimi.com/p/2da04931a44af5b13124e23151453ce1) 
-- [2021-01-24-JavaScript代理的惊人力量](https://www.ershicimi.com/p/72c470e4d61c8c67ebb9bb906e2fc265) 
-- [2021-01-22-H5基于canvas实现电子签名并生成PDF文档](https://www.ershicimi.com/p/4705628569bc5a89be9ce2ab1597c8e1) 
-- [2021-01-21-为什么要用-setTimeout-模拟-setInterval-？](https://www.ershicimi.com/p/d5d1425a08ec152ba0cc16b6e2599925) 
 - [2021-01-12-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/ddb5d32e4717fb973d232a3b6305f28e) 
 - [2021-01-20-巧用DOM-API实现HTML字符的转义和反转义](https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/) 
 - [2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 

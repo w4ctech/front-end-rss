@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-02 02:20:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 02:49:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -115,7 +115,7 @@
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2021-01-29-如何在纯-JavaScript-中使用-GraphQL](https://www.ershicimi.com/p/55895bf6e965db8170ff6369a6a4209c) 
 - [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？](https://www.ershicimi.com/p/27033dcdf27caaae7012a928c62ea0ea) 
-- [2021-02-01-函数式编程库：Ramda函数思维导图，帮你快速选择要用的函数](https://juejin.im/post/6924482741396307975) 
+- [2021-02-01-探索JavaScript对象构造函数都有哪些模式](https://juejin.im/post/6924474288225566727) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -127,6 +127,7 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-02-02-一行能装逼的-JavaScript-代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14125&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqLtILt-1f8GwVj3IknryQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-02-数据仓库组件：HBase-集群环境搭建和应用案例](https://toutiao.io/k/33rd3q6) 
+- [2021-02-02-爱奇艺知识-Web-前端组件化实践](https://toutiao.io/k/d1wxzkz) 
 - [2021-01-31-中国农业因重要信息系统突发事件未报告等6项原因被罚420万元](https://sec.thief.one/article_content?a_id=fc33f599df2d611ccd89c106192006c4) 
 - [2021-01-30-BUF大事件丨sudo被曝新漏洞;人脸识别15分钟解锁19款安卓手机](https://sec.thief.one/article_content?a_id=1e3a9a4d36f8be66ce4771ecdf86e0f7) 
 - [2021-01-30-中国农业因重要信息系统突发事件未报告等6项原因被罚420万元](https://sec.thief.one/article_content?a_id=2915872707f18650bc7afb9d0701b9ee) 

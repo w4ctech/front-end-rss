@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-02 13:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 13:16:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-01-22-这么靠谱的前端面试指南你都不看？耗子尾汁！](https://www.ershicimi.com/p/c2d46e723bb8ffa9eb47b96e6904dd9b) 
 - [2021-02-01-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/599633227858038b3ff7075f6154e647) 
 - [2021-01-27-面试的-10-大潜规则，你中招了吗！](https://www.ershicimi.com/p/a5375767c8a24680df491a6ad4271635) 
@@ -29,10 +28,8 @@
 - [2021-02-02-北京/杭州/深圳-阿里云云原生应用平台容器服务招聘实习生](https://www.v2ex.com/t/750724) 
 - [2021-02-02-上海-小红书｜招聘-B-端前后端开发工程师|-HC-多、福利好、部门发展快](https://www.v2ex.com/t/750694) 
 - [2021-02-02-深圳-社招内推富途证券-互联网证券公司-招聘](https://www.v2ex.com/t/750693) 
-- [2021-02-02-杭州-imToken-招聘前端、后端、运维、产品、运营、PR-等岗位](https://www.v2ex.com/t/750678) 
 - [2021-02-02-记一次阿里面试，止步第三轮，发现这个是硬伤-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14124&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8qMS5AD91-VLyYZmOrcjYA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-02-系统设计面试-5-步曲](https://toutiao.io/k/kklhvj9) 
 - [2021-02-02-推荐-阿里面试官问我-Java-线程和操作系统线程什么关系](https://toutiao.io/k/oh81sch) 
-- [2021-02-02-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) 
 - [2021-02-01-内推福利-|-大量招聘HW人员,待遇极高,不限水平](https://sec.thief.one/article_content?a_id=9fbaa082a1776d0d0dea5a679b6f733b) 
 - [2021-01-30-牛聘|2020年度岗位招聘第18期](https://sec.thief.one/article_content?a_id=5fa2872a0121fccb2bce143f4cb72584) 

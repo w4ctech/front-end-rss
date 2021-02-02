@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-02 09:40:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 09:49:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -514,6 +514,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】新华智云招聘啦-16-薪，技术、运维、测试、算法、支持](https://www.v2ex.com/t/750689)
 - [【V2EX】🔥🔥🔥新加坡-技术移民纽交所上市互联网公司，热招后台开发，云平台开发，大数据工程师，-以及各类（后台架构，大数据，算法，基础架构，运维，-DBA-...](https://www.v2ex.com/t/750668)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-02 09:40:25，:rocket: 更新条数: +4259， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-02 09:49:34，:rocket: 更新条数: +4259， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1033,6 +1033,7 @@
 </summary>
 
 
+- [2021-02-02-新华智云招聘啦-16-薪，技术、运维、测试、算法、支持](https://www.v2ex.com/t/750689) ![](assets/new.png)  
 - [2021-02-02-请教将服务器控制面板映射到公网是否安全？](https://www.v2ex.com/t/750688) ![](assets/new.png)  
 - [2021-02-02-哪里可以不用登录下载-jre8](https://www.v2ex.com/t/750687) ![](assets/new.png)  
 - [2021-02-02-请问除了笔记软件，还有什么方便本地做知识管理的软件吗？](https://www.v2ex.com/t/750686) ![](assets/new.png)  
@@ -1052,7 +1053,6 @@
 - [2021-02-02-微信网页显示-img-问题](https://www.v2ex.com/t/750669) ![](assets/new.png)  
 - [2021-02-02-🔥🔥🔥新加坡-技术移民纽交所上市互联网公司，热招后台开发，云平台开发，大数据工程师，-以及各类（后台架构，大数据，算法，基础架构，运维，-DBA-...](https://www.v2ex.com/t/750668) ![](assets/new.png)  
 - [2021-02-02-做了一个，多合一搜索，但是有些问题，求帮助](https://www.v2ex.com/t/750667) ![](assets/new.png)  
-- [2021-02-02-IDEA-这个“Compilation-Finished”变态的弹窗怎么关掉？太烦人了](https://www.v2ex.com/t/750664) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

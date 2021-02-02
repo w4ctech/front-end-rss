@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-02 00:02:22，:rocket: 更新条数: +4235， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-02 00:22:48，:rocket: 更新条数: +968， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-02-01-最新疫情：全国新冠累计确诊89564例-本土病例新增33例](https://m.caixin.com/m/2021-02-01/101658875.html) ![](assets/new.png)  
-- [2021-02-01-河北1月31日新增1例本地确诊病例-在石家庄（附轨迹）](https://m.caixin.com/m/2021-02-01/101658504.html) ![](assets/new.png)  
-- [2021-02-01-吉林1月31新增确诊病例10例-长春2例通化8例](https://m.caixin.com/m/2021-02-01/101658492.html) ![](assets/new.png)  
-- [2021-02-01-黑龙江31日新增22例确诊病例-新增9例无症状感染者](https://m.caixin.com/m/2021-02-01/101658475.html) ![](assets/new.png)  
-- [2021-02-01-【境内疫情观察】全国新增33例本土病例（1月31日）](http://m.database.caixin.com/m/2021-02-01/101658720.html) ![](assets/new.png)  
-- [2021-02-01-Moderna疫苗供货减量-变异病毒或令美国死亡激增丨大流行手记（1月31日）](https://m.caixin.com/m/2021-02-01/101658526.html) ![](assets/new.png)  
-- [2021-02-01-【图集】世卫组织国际专家组在武汉持续展开研究](http://m.photos.caixin.com/m/2021-02-01/101658573.html) ![](assets/new.png)  
-- [2021-01-31-国务院联防联控机制：返乡防疫盲目加码就是“懒政”](http://m.china.caixin.com/m/2021-01-31/101658414.html) ![](assets/new.png)  
-- [2021-01-31-在正大公司疫情防控中履职不力-哈尔滨问责12人](http://m.china.caixin.com/m/2021-01-31/101658403.html) ![](assets/new.png)  
-- [2021-01-31-吉林30日新增本地新冠确诊63例-长春5例通化58例](https://m.caixin.com/m/2021-01-31/101658372.html) ![](assets/new.png)  
-- [2021-01-31-河北30日新增1例本地确诊病例-石家庄报告（附轨迹）](https://m.caixin.com/m/2021-01-31/101658366.html) ![](assets/new.png)  
-- [2021-01-31-黑龙江30日新增确诊病例9例-无症状感染者4例](https://m.caixin.com/m/2021-01-31/101658357.html) ![](assets/new.png)  
-- [2021-01-31-【境内疫情观察】黑龙江哈尔滨呼兰区呼兰街道升为高风险地区（1月30日）](http://m.database.caixin.com/m/2021-01-31/101658390.html) ![](assets/new.png)  
-- [2021-01-31-法国禁非欧盟人士入境-巴西一城自然感染难获群体免疫丨大流行手记](https://m.caixin.com/m/2021-01-31/101658380.html) ![](assets/new.png)  
-- [2021-01-31-聚焦|张文宏：就地过年是为全中国人做贡献，不是理所应当](http://m.opinion.caixin.com/m/2021-01-31/101658355.html) ![](assets/new.png)  
-- [2021-01-30-河北29日新增1例本地确诊病例-在石家庄（附轨迹）](https://m.caixin.com/m/2021-01-30/101658111.html) ![](assets/new.png)  
-- [2021-01-30-上海29日新增2例本地确诊病例-分别来自黄浦区和宝山区](https://m.caixin.com/m/2021-01-30/101658103.html) ![](assets/new.png)  
-- [2021-01-30-北京29日新增1例本地确诊病例-在大兴融汇社区](https://m.caixin.com/m/2021-01-30/101658097.html) ![](assets/new.png)  
-- [2021-01-30-吉林29日新增确诊5例-长春3例通化2例](https://m.caixin.com/m/2021-01-30/101658090.html) ![](assets/new.png)  
-- [2021-01-30-黑龙江29日新增确诊27例-无症状感染者6例](https://m.caixin.com/m/2021-01-30/101658045.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1075,26 +1055,26 @@
 </summary>
 
 
-- [2021-02-02-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-02-玩转-IDEA-项目结构-Project-Structure，打-Jar-包、模块/依赖管理全搞定](https://toutiao.io/k/5wyta6s) ![](assets/new.png)  
-- [2021-02-02-Spring-Boot-集成-Kafka](https://toutiao.io/k/j47hymr) ![](assets/new.png)  
-- [2021-02-02-自动驾驶轨迹预测算法：NeurIPS-挑战赛冠军方案](https://toutiao.io/k/c7sytu4) ![](assets/new.png)  
-- [2021-02-02-一站式机器学习云研发平台](https://toutiao.io/k/rcuveh1) ![](assets/new.png)  
-- [2021-02-02-对象怎么无中生有的？看完这一篇就懂了](https://toutiao.io/k/oey80jk) ![](assets/new.png)  
-- [2021-02-02-译-利用-eBPF-redirection-提升-socket-性能-2020](https://toutiao.io/k/dy4ix0k) ![](assets/new.png)  
-- [2021-02-02-SwitchHosts!-还能这样管理-hosts，后悔没早点用](https://toutiao.io/k/tj11o4h) ![](assets/new.png)  
-- [2021-02-02-推荐系统工程篇之搭建以图搜图服务](https://toutiao.io/k/943qquk) ![](assets/new.png)  
-- [2021-02-02-解读-InfluxDB-IOx：基于列存的时序数据库](https://toutiao.io/k/xqlk9mj) ![](assets/new.png)  
-- [2021-02-02-详解并发编程之-sync.Once-的实现（附上三道面试题）](https://toutiao.io/k/jly4lrh) ![](assets/new.png)  
-- [2021-02-02-Flink-+-Iceberg-全场景实时数仓的建设实践](https://toutiao.io/k/o0k8pzo) ![](assets/new.png)  
-- [2021-02-02-仅使用-HTML-和-CSS-实现的标签云效果](https://toutiao.io/k/2sakpvz) ![](assets/new.png)  
-- [2021-02-02-透明压缩技术如何缓解数据库中写放大](https://toutiao.io/k/ogbzzqt) ![](assets/new.png)  
-- [2021-02-02-Apply-Changes-在-Android-11-中的增强特性](https://toutiao.io/k/ktop1i9) ![](assets/new.png)  
-- [2021-02-02-堪比当年的-LSTM，Transformer-引燃机器学习圈：它是万能的](https://toutiao.io/k/l4s7tdr) ![](assets/new.png)  
-- [2021-02-02-一个使用-xmake-构建-C/C++-模块的-luarocks-插件](https://toutiao.io/k/e9szv6i) ![](assets/new.png)  
-- [2021-02-02-Envoy-基础及其可扩展性要领](https://toutiao.io/k/uon751x) ![](assets/new.png)  
-- [2021-02-02-函数是一等公民，这到底在说什么？](https://toutiao.io/k/nu0j2kk) ![](assets/new.png)  
-- [2021-02-02-初识智能网联汽车安全](https://toutiao.io/k/4l91em5) ![](assets/new.png)  
+- [2021-02-02-译-50+-有用的-DevOps-工具（四）](https://toutiao.io/k/xj75ci5) ![](assets/new.png)  
+- [2021-02-02-Prometheus-为你的微服务保驾护航](https://toutiao.io/k/vluo1zw) ![](assets/new.png)  
+- [2021-02-02-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
+- [2021-02-02-Wolfram-语言设计-3D-打印的珠宝首饰](https://toutiao.io/k/ynke2t9) ![](assets/new.png)  
+- [2021-02-02-RocketMQ-常用消息类型](https://toutiao.io/k/4praxx4) ![](assets/new.png)  
+- [2021-02-02-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-02-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
+- [2021-02-02-推荐-如何做到每秒接收-100-万个数据包](https://toutiao.io/k/hu9ng1x) ![](assets/new.png)  
+- [2021-02-02-推荐-下一代消息队列-Pulsar-到底是什么？](https://toutiao.io/k/zdb2zbb) ![](assets/new.png)  
+- [2021-02-02-推荐-讲解-Zookeeper-的五个核心知识点](https://toutiao.io/k/te1s8su) ![](assets/new.png)  
+- [2021-02-02-推荐-全网最全！彻底弄透-Java-处理-GMT/UTC-日期时间](https://toutiao.io/k/mmjgntt) ![](assets/new.png)  
+- [2021-02-02-推荐-线程池最佳线程数量到底要如何配置？](https://toutiao.io/k/pf728mr) ![](assets/new.png)  
+- [2021-02-02-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) ![](assets/new.png)  
+- [2021-02-02-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
+- [2021-02-02-推荐-DDD-实现之路](https://toutiao.io/k/9r5qrcy) ![](assets/new.png)  
+- [2021-02-02-推荐-阿里面试官问我-Java-线程和操作系统线程什么关系](https://toutiao.io/k/oh81sch) ![](assets/new.png)  
+- [2021-02-02-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) ![](assets/new.png)  
+- [2021-02-02-推荐-微服务实现简单的分布式日志追踪](https://toutiao.io/k/s7af3dl) ![](assets/new.png)  
+- [2021-02-02-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
+- [2021-02-02-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1106,26 +1086,26 @@
 </summary>
 
 
+- [2021-02-02-DSML-2021论文征稿-2021/2/15](https://sec.thief.one/article_content?a_id=cc7af6b7cd8f64d63866451632e42b33) ![](assets/new.png)  
+- [2021-02-02-中央网信办部署加强全平台网络传播秩序管理](https://sec.thief.one/article_content?a_id=e1b1095be666a5032a8a876e01f8b50c) ![](assets/new.png)  
+- [2021-02-02-阿里云安全获Apache官方致谢-|Apache-Druid-远程代码执行漏洞预警...](https://sec.thief.one/article_content?a_id=78791463a276e23533d65f71c15787fc) ![](assets/new.png)  
+- [2021-02-01-脚本语言Perl官网被黑客劫持](https://sec.thief.one/article_content?a_id=b94a6f506b6438dcd98e383b17bd042d) ![](assets/new.png)  
+- [2021-02-01-【安全圈】富士代码执行漏洞使工业设备面临安全风险](https://sec.thief.one/article_content?a_id=2c116221f2cc9af672273bbf3daefb9f) ![](assets/new.png)  
+- [2021-02-01-每日攻防资讯简报Feb.1th](https://sec.thief.one/article_content?a_id=6e14fb779ebb53022eb83ecc3d538073) ![](assets/new.png)  
+- [2021-02-01-《虎符智库年刊》发布了](https://sec.thief.one/article_content?a_id=dae266bc0f76e41a2cf7ea19fa7efb2e) ![](assets/new.png)  
+- [2021-02-01-这款神器,完美解决了手机投屏的问题](https://sec.thief.one/article_content?a_id=fa91bd62de1546a19d7616b841002062) ![](assets/new.png)  
+- [2021-02-01-2021年区块链开发框架选择指南推荐/踩雷](https://sec.thief.one/article_content?a_id=656e3818d03fbb17ed574b20dfba00aa) ![](assets/new.png)  
+- [2021-02-01-【漏洞通告】Apache-Shiro权限绕过漏洞-CVE-2020-17523](https://sec.thief.one/article_content?a_id=06e4dcd7b4c9ab46459bc325286ef66c) ![](assets/new.png)  
+- [2021-02-01-又现新型恶意软件:针对意大利用户的Android恶意软件Oscorp](https://sec.thief.one/article_content?a_id=df09a922768388a8a05d091051d55972) ![](assets/new.png)  
+- [2021-02-01-诚招人才-|-欢迎加入360网络空间测绘部门](https://sec.thief.one/article_content?a_id=917420cfaf2194fe21ff0be29668c323) ![](assets/new.png)  
+- [2021-02-01-2021年端点安全8大趋势预测分析——安恒信息发布](https://sec.thief.one/article_content?a_id=3ad20457a522e79f1d9093ff565e42c0) ![](assets/new.png)  
+- [2021-02-01-Apache-Druid-远程代码执行漏洞CVE-2021-25646](https://sec.thief.one/article_content?a_id=a93e070457d64f64a77385c16f2982ee) ![](assets/new.png)  
 - [2021-02-01-这封致谢信背后,是绿盟科技打造网络安全防护“金钟罩”的不懈追求](https://sec.thief.one/article_content?a_id=96bcedd7a881c5857beb02fbc7f2e1ef) ![](assets/new.png)  
+- [2021-02-01-Chrome关闭7大端口,抵御NAT-Slipstreaming-2.0-漏洞攻击](https://sec.thief.one/article_content?a_id=1bf82953b6aa8f15fc0d946e308e9511) ![](assets/new.png)  
 - [2021-02-01-春秋年夜饭丨践行使命,不忘初心,蓄力远航!](https://sec.thief.one/article_content?a_id=e46efe5b77b7a2a89bbcd0f795abbe38) ![](assets/new.png)  
 - [2021-02-01-牛气offer,TA来了!](https://sec.thief.one/article_content?a_id=90cffc480454158ffbca807ad8a8cced) ![](assets/new.png)  
 - [2021-02-01-【安全热点周报】第179期:Linux-sudo堆溢出本地提权漏洞,EXP已...](https://sec.thief.one/article_content?a_id=338b33a9c1d8742e23941c7679c434da) ![](assets/new.png)  
 - [2021-02-01-使用谷歌-Colab-Notebooks,这6个小技巧你需要掌握](https://sec.thief.one/article_content?a_id=ffd60c89ca3c5f5801d7cc10621c5736) ![](assets/new.png)  
-- [2021-02-01-诸子云-|-2020评优:最佳分享候选展播及投票](https://sec.thief.one/article_content?a_id=f1dcd05a12d487279b3c7647c7ea880b) ![](assets/new.png)  
-- [2021-02-01-山东12部门联合印发《关于促进山东省网络安全产业发展的指导意见》](https://sec.thief.one/article_content?a_id=5d99a83f436376f10e44f4553a75bec5) ![](assets/new.png)  
-- [2021-02-01-WebLogic-CVE-2020-14756-T3/IIOP-反序列化RCE](https://sec.thief.one/article_content?a_id=0bf4e05ffdcaa76eb718bf98f493a34b) ![](assets/new.png)  
-- [2021-02-01-富达对拜登政府的比特币监管政策感到乐观](https://sec.thief.one/article_content?a_id=b932cf3e225367f600faf6894fddaa74) ![](assets/new.png)  
-- [2021-02-01-云的声音|“刺杀”腾讯云](https://sec.thief.one/article_content?a_id=a2052c3520cf54f949ffd9d4051fdcb1) ![](assets/new.png)  
-- [2021-02-01-2月1日GUIBI早内参-全球加密货币总市值重回1万亿美元,灰度以太坊...](https://sec.thief.one/article_content?a_id=153779060000b82c709d364d4b0f9bc5) ![](assets/new.png)  
-- [2021-02-01-富士代码执行漏洞使工业设备面临安全风险](https://sec.thief.one/article_content?a_id=511eede6b5ea9e8b35704ceff3f44b5f) ![](assets/new.png)  
-- [2021-02-01-2020网络安全投融资报告:透视投资热点与动向](https://sec.thief.one/article_content?a_id=3e9a0dec47e77c17b50d713e818a0576) ![](assets/new.png)  
-- [2021-02-01-每日安全动态推送02-01](https://sec.thief.one/article_content?a_id=2aa8015408f084918cebf00c88144ac2) ![](assets/new.png)  
-- [2021-02-01-终于有人把如何精通C++讲明白了!](https://sec.thief.one/article_content?a_id=c6c1db2860b7ee04088c5a7a5469fbb8) ![](assets/new.png)  
-- [2021-02-01-点击查看|-你和美团SRC的2020年独家记忆](https://sec.thief.one/article_content?a_id=4836829acf0121f63a01d588174075ed) ![](assets/new.png)  
-- [2021-02-01-【漏洞预警】Apache-Druid-远程代码执行漏洞-CVE-2021-25646](https://sec.thief.one/article_content?a_id=f57a1535ec71afba024999fb14503596) ![](assets/new.png)  
-- [2021-02-01-内推福利-|-大量招聘HW人员,待遇极高,不限水平](https://sec.thief.one/article_content?a_id=9fbaa082a1776d0d0dea5a679b6f733b) ![](assets/new.png)  
-- [2021-02-01-“刺杀”腾讯云](https://sec.thief.one/article_content?a_id=f45a67fe6a4929a11a1933b6fdf95a9f) ![](assets/new.png)  
-- [2021-02-01-如何选择业务欺诈检测方案?](https://sec.thief.one/article_content?a_id=1585f199ab6bbcf2123a3bd450c3b517) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

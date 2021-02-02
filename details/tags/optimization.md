@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-02 10:39:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 10:48:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -23,4 +23,3 @@
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2021-02-02-16-英寸-MacBook-Pro-最低配置使用-Xcode-流畅吗？还是建议使用最高配置？或者-M1-13-寸-Pro？考虑到性能效率和散热方面，请各位给一些建议。。](https://www.v2ex.com/t/750676) 
 - [2021-02-02-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) 
-- [2021-02-02-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) 

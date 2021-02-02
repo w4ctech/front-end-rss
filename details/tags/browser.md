@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-02 05:57:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 06:07:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -32,12 +32,13 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-01-28-SpringBoot集成WebSocket，实现后台向前端推送信息](https://www.ershicimi.com/p/b1377779cd0a4e7583add7ef0b211879) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
+- [2021-02-01-前端通过Nginx反向代理解决跨域问题](https://juejin.im/post/6924498650311688200) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-02-02-safari-打不开-V2EX-了](https://www.v2ex.com/t/750596) 
 - [2021-02-02-这两天很多人-Chrome-出现不能直接点击下载文件的-BUG？](https://www.v2ex.com/t/750593) 
 - [2021-02-02-Firefox-的讨论上热门，推荐一个-Mozilla-的互联网报告，挺好看的](https://www.v2ex.com/t/750588) 
 - [2021-02-02-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-02-推荐-基于-SSD-的-Kafka-应用层缓存架构设计与实现](https://toutiao.io/k/ddgxe6s) 
-- [2021-02-02-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) 
 - [2021-02-02-澳大利亚政府推出敏感数据安全共享的新工具](https://sec.thief.one/article_content?a_id=381b14f3e49efb7912f1b4b3fe9b1f8b) 
 - [2021-02-02-每日安全动态推送02-02](https://sec.thief.one/article_content?a_id=8000830f1dfb32aa162efad0317b336a) 
 - [2021-02-02-阿里云安全获Apache官方致谢-|Apache-Druid-远程代码执行漏洞预警...](https://sec.thief.one/article_content?a_id=78791463a276e23533d65f71c15787fc) 

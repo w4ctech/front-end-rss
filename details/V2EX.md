@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-02 06:40:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 06:51:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -44,4 +44,3 @@
 - [2021-02-02-supervisor-守护进程热更新的时候大家怎么处理的](https://www.v2ex.com/t/750563) 
 - [2021-02-02-到底多少-mbps-可以流畅看-4K-8k？](https://www.v2ex.com/t/750562) 
 - [2021-02-02-招聘-ThoughWorks-招聘帖](https://www.v2ex.com/t/750561) 
-- [2021-02-02-请问如何降低-K8s-调度-Pod-的速度](https://www.v2ex.com/t/750560) 

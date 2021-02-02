@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-02 15:36:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 15:46:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2021-02-02-m1-Mac-有办法玩戴森球计划么？心水](https://www.v2ex.com/t/750712) 
 - [2021-02-02-ext4-移动硬盘读写十分缓慢](https://www.v2ex.com/t/750709) 
 - [2021-02-02-apple-watch-解锁-iPhone-体验](https://www.v2ex.com/t/750708) 
-- [2021-02-02-求问一个关于-apple-care-+的问题](https://www.v2ex.com/t/750707) 

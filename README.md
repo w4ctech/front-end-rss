@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-02 13:45:11，:rocket: 更新条数: +4240， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-02 13:53:17，:rocket: 更新条数: +1001， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-02-02-最新疫情：全国新冠累计确诊89594例-本土病例新增12例](https://m.caixin.com/m/2021-02-02/101659311.html) ![](assets/new.png)  
-- [2021-02-02-吉林2月1日新增确诊病例4例-无症状感染者3例](https://m.caixin.com/m/2021-02-02/101659014.html) ![](assets/new.png)  
-- [2021-02-02-河北2月1日无新增新冠确诊病例](https://m.caixin.com/m/2021-02-02/101659006.html) ![](assets/new.png)  
-- [2021-02-02-黑龙江2月1日新增8例确诊病例-4例无症状感染者](https://m.caixin.com/m/2021-02-02/101659000.html) ![](assets/new.png)  
-- [2021-02-02-最新海外疫情：新冠感染超1.03亿-累计死亡超223万](https://m.caixin.com/m/2021-02-02/101659307.html) ![](assets/new.png)  
-- [2021-02-02-内蒙古鄂尔多斯杭锦旗2名货运司乘人员核酸检测初检呈阳性](https://m.caixin.com/m/2021-02-02/101659526.html) ![](assets/new.png)  
-- [2021-02-02-【境内疫情观察】河北石家庄已有超60%确诊患者治愈出院（2月1日）](http://m.database.caixin.com/m/2021-02-02/101659256.html) ![](assets/new.png)  
-- [2021-02-02-辉瑞向欧盟追加7500万剂疫苗-日本拟延长紧急事态宣言一个月|大流行手记（2月1日）](https://m.caixin.com/m/2021-02-02/101659003.html) ![](assets/new.png)  
-- [2021-02-01-吉林1月31新增确诊病例10例-长春2例通化8例](https://m.caixin.com/m/2021-02-01/101658492.html) ![](assets/new.png)  
-- [2021-02-01-河北1月31日新增1例本地确诊病例-在石家庄（附轨迹）](https://m.caixin.com/m/2021-02-01/101658504.html) ![](assets/new.png)  
-- [2021-02-01-黑龙江31日新增22例确诊病例-新增9例无症状感染者](https://m.caixin.com/m/2021-02-01/101658475.html) ![](assets/new.png)  
-- [2021-02-01-【境内疫情观察】全国新增33例本土病例（1月31日）](http://m.database.caixin.com/m/2021-02-01/101658720.html) ![](assets/new.png)  
-- [2021-02-01-Moderna疫苗供货减量-变异病毒或令美国死亡激增丨大流行手记（1月31日）](https://m.caixin.com/m/2021-02-01/101658526.html) ![](assets/new.png)  
-- [2021-02-01-【图集】世卫组织国际专家组在武汉持续展开研究](http://m.photos.caixin.com/m/2021-02-01/101658573.html) ![](assets/new.png)  
-- [2021-01-31-在正大公司疫情防控中履职不力-哈尔滨问责12人](http://m.china.caixin.com/m/2021-01-31/101658403.html) ![](assets/new.png)  
-- [2021-01-31-吉林30日新增本地新冠确诊63例-长春5例通化58例](https://m.caixin.com/m/2021-01-31/101658372.html) ![](assets/new.png)  
-- [2021-01-31-河北30日新增1例本地确诊病例-石家庄报告（附轨迹）](https://m.caixin.com/m/2021-01-31/101658366.html) ![](assets/new.png)  
-- [2021-01-31-黑龙江30日新增确诊病例9例-无症状感染者4例](https://m.caixin.com/m/2021-01-31/101658357.html) ![](assets/new.png)  
-- [2021-01-31-【境内疫情观察】黑龙江哈尔滨呼兰区呼兰街道升为高风险地区（1月30日）](http://m.database.caixin.com/m/2021-01-31/101658390.html) ![](assets/new.png)  
-- [2021-01-31-法国禁非欧盟人士入境-巴西一城自然感染难获群体免疫丨大流行手记](https://m.caixin.com/m/2021-01-31/101658380.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1033,6 +1013,8 @@
 </summary>
 
 
+- [2021-02-02-社交-app-怎么赚钱](https://www.v2ex.com/t/750737) ![](assets/new.png)  
+- [2021-02-02-深圳电信确实牛逼，城中村迁移小区，必须换-269-的套餐。](https://www.v2ex.com/t/750736) ![](assets/new.png)  
 - [2021-02-02-你的人生有哪些遗憾？](https://www.v2ex.com/t/750733) ![](assets/new.png)  
 - [2021-02-02-Mac-内存不足会自动分配-Swap，是不是买-8G-内存就够了？](https://www.v2ex.com/t/750730) ![](assets/new.png)  
 - [2021-02-02-泡面记账-可能是世界上速度最快的记账工具](https://www.v2ex.com/t/750729) ![](assets/new.png)  
@@ -1051,8 +1033,6 @@
 - [2021-02-02-m1-Mac-有办法玩戴森球计划么？心水](https://www.v2ex.com/t/750712) ![](assets/new.png)  
 - [2021-02-02-ext4-移动硬盘读写十分缓慢](https://www.v2ex.com/t/750709) ![](assets/new.png)  
 - [2021-02-02-apple-watch-解锁-iPhone-体验](https://www.v2ex.com/t/750708) ![](assets/new.png)  
-- [2021-02-02-求问一个关于-apple-care-+的问题](https://www.v2ex.com/t/750707) ![](assets/new.png)  
-- [2021-02-02-大佬们,关于-puppeteer-的问题](https://www.v2ex.com/t/750706) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,6 +1044,26 @@
 </summary>
 
 
+- [2021-02-02-到底什么是敏捷-teobler.com](https://blogread.cn/news/go.php?idItem=14140&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210123-what-is-agile%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-有赞个性化推荐能力的演进与实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14139&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F347936335%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-写了十年技术博客，我收获了什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14138&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnical-wblog-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-疫情之下的科技普惠：阿里云科技驱动中小企业数字化-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14137&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F781545%3Futm_content%3Dg_1000235521%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-实操｜如何将-Containerd-用作-Kubernetes-runtime-www.upyun.com](https://blogread.cn/news/go.php?idItem=14136&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F611%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-演进式数据架构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14135&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fevolutionary-data-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-iOS-14-从-Android-中"窃取"-了这-8-个有用的功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14134&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFp8y8yyOeyW1aOLaS3TB8w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-Android各版本迭代信息集合-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14133&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsPWqE8h_HqBh4H5OGudKuQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-谷歌：未来-Android-手机将获得-4-年软件更新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14132&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_U8ZMEvOWtgmBgaMNSGBcg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-17-张程序员壁纸（使用频率很高）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14131&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoYTqjKDEJxhSKziOy6lI0w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-Android-11-内置原生壁纸！速度来取-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14130&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfpKHlo_aDAeLm-ybCCsUJg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-iOS-APP图标版本化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14129&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FA3CPIf7nBoOVW1OB_ZnWPA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-24-款效率办公神器，简直不要太强大！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14128&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fc-ko6bEtXkofUmq269oadg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-一个-Java-开源商城项目，值得好好研究一下！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14127&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1UTG7xwcSKXyyvExtGVy7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-一条-SQL-引发的事故，同事直接被开除！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14126&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-aNXhgcCkXppsNR6mipZ7w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-一行能装逼的-JavaScript-代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14125&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqLtILt-1f8GwVj3IknryQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-记一次阿里面试，止步第三轮，发现这个是硬伤-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14124&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8qMS5AD91-VLyYZmOrcjYA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-Vue-超清晰思维导图，带你详细梳理知识点-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14122&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fww6gsD64DDacWnvbI68HwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-02-02-GitHub-上最励志的计算机自学教程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14121&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA-p9MmdXeV8loVq_WBk5Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

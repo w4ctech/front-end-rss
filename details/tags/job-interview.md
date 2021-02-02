@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-02 06:51:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 07:04:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -19,6 +19,7 @@
 - [2021-01-23-【招聘】网易严选招资深前端开发工程师数据可视化](https://www.ershicimi.com/p/432aa217e1ed3ebe6b60d860c169de45) 
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
+- [2021-02-02-知乎高赞：大厂面试的2个关键点](https://www.ershicimi.com/p/d4b2bef4ef3445ef06176a2a2a443319) 
 - [2021-01-22-和许多大厂面试官交流后，我总结了一份面试经验](https://www.ershicimi.com/p/613df6be35c1a53a39c64064311829e5) 
 - [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668) 
@@ -27,8 +28,9 @@
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-02-02-ThoughtWorks-招聘帖-欢迎-TWers-找我内推！](https://www.v2ex.com/t/750608) 
 - [2021-02-02-想开始写一系列关于-Python-面试点的文章，请大佬们教育下我这篇文章写的不足之处](https://www.v2ex.com/t/750597) 
-- [2021-02-02-招聘-ThoughWorks-招聘帖](https://www.v2ex.com/t/750561) 
 - [2021-02-02-记一次阿里面试，止步第三轮，发现这个是硬伤-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14124&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8qMS5AD91-VLyYZmOrcjYA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-02-系统设计面试-5-步曲](https://toutiao.io/k/kklhvj9) 
+- [2021-02-02-推荐-阿里面试官问我-Java-线程和操作系统线程什么关系](https://toutiao.io/k/oh81sch) 
+- [2021-02-02-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) 
 - [2021-02-01-内推福利-|-大量招聘HW人员,待遇极高,不限水平](https://sec.thief.one/article_content?a_id=9fbaa082a1776d0d0dea5a679b6f733b) 
 - [2021-01-30-牛聘|2020年度岗位招聘第18期](https://sec.thief.one/article_content?a_id=5fa2872a0121fccb2bce143f4cb72584) 

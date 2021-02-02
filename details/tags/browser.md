@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-02 14:35:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 14:44:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,6 +15,8 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-02-02-翻译：《实用的-Python-编程》01_Introduction_00_Overview](https://www.v2ex.com/t/750740) 
 - [2021-02-02-安全无休|绿盟科技SaaS安全服务免费试用指南](https://sec.thief.one/article_content?a_id=311254820f8b35b61ce51cf881aa8847) 
 - [2021-02-02-遇到威胁不要慌,安全大佬集体贡献应急响应方案!](https://sec.thief.one/article_content?a_id=708b3db8fc88a601003820dfbee6ab3e) 
 - [2021-02-02-2021-|-网络安全等级保护不可不知的几点内容](https://sec.thief.one/article_content?a_id=d0626799a00a5ad667d7f216a1f4caf0) 

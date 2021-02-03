@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-03 23:04:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-03 23:09:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-01-22-这么靠谱的前端面试指南你都不看？耗子尾汁！](https://www.ershicimi.com/p/c2d46e723bb8ffa9eb47b96e6904dd9b) 
 - [2021-02-01-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/599633227858038b3ff7075f6154e647) 
 - [2021-01-27-面试的-10-大潜规则，你中招了吗！](https://www.ershicimi.com/p/a5375767c8a24680df491a6ad4271635) 
@@ -25,4 +26,5 @@
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-02-03-北上广深杭成-PingCAP-大量招聘额度-数据库研发/分布式系统/存储/Web-前后端/K8s-等-帮内推/简历评估/职位匹配/问题解答](https://www.v2ex.com/t/751099) 
 - [2021-02-03-这几天看-Java-招聘需求的一些疑问](https://www.v2ex.com/t/751081) 
+- [2021-02-03-记一次阿里面试，止步第三轮，发现这个是硬伤-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14124&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8qMS5AD91-VLyYZmOrcjYA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-01-内推福利-|-大量招聘HW人员,待遇极高,不限水平](https://sec.thief.one/article_content?a_id=9fbaa082a1776d0d0dea5a679b6f733b) 

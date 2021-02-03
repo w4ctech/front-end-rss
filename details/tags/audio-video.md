@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-03 14:08:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-03 14:32:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -85,6 +85,7 @@
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2021-02-03-在线制作背景虚化的视频](https://www.v2ex.com/t/751075) 
 - [2021-02-03-腾讯视频官方好价-98-一年，可使用-Q-币](https://www.v2ex.com/t/751040) 
 - [2021-02-03-WACV-2021-论文大盘点：图像与视频检索篇](https://toutiao.io/k/4im61w0) 
 - [2021-02-03-绿盟星课堂公益直播课,来了](https://sec.thief.one/article_content?a_id=05946269d4bed33f757d730fac61acd0) 

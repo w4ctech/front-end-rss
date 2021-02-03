@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-03 02:11:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-03 13:37:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,9 +41,16 @@
 - [2021-02-02-Apache-软件基金会-2020-安全报告：六件值得被关注的事](https://www.ershicimi.com/p/13f8ca47c355c4c533f63679834b188c) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-02-03-Vector-的-get-方法为什么也要同步呢？](https://www.v2ex.com/t/750783) 
-- [2021-02-02-苹果给-Chrome-On-Windows-用户提供了一个-iCloud-密码库插件](https://www.v2ex.com/t/750761) 
 - [2021-02-03-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-02-03-一个付费-Chrome-插件的一生](https://toutiao.io/k/cm37pdg) 
+- [2021-02-03-信息安全漏洞月报2021年1月](https://sec.thief.one/article_content?a_id=7e2364a9696c9ffbe889bcf30da04db2) 
+- [2021-02-03-2020年OPPO安全大事记](https://sec.thief.one/article_content?a_id=5aeeb083ca6db256570c22247f832c8f) 
+- [2021-02-03-听着,某控安全](https://sec.thief.one/article_content?a_id=6a13f587ae05ff0dbaff37183e4607d7) 
+- [2021-02-03-《北向文集-面向2021》-10期-都江堰论坛-|-孙薇-场景化安全思维-助力...](https://sec.thief.one/article_content?a_id=2ff7aff2689799cb586091fb962c6416) 
+- [2021-02-03-每日安全动态推送02-03](https://sec.thief.one/article_content?a_id=5f8c0de71d93b4f96dcb8cbcf3d2095b) 
+- [2021-02-03-【安全风险通告】EXP已验证,Windows-Installer特权提升漏洞安全风...](https://sec.thief.one/article_content?a_id=d8b557efa3d15e47dcc16f1cb5977156) 
+- [2021-02-03-姜向前:内存安全能让CSO放心](https://sec.thief.one/article_content?a_id=eaf7a1068aee98baae6a7031c6376003) 
+- [2021-02-03-一款安全管理神器,炸了..](https://sec.thief.one/article_content?a_id=32342569cd42a980e563eab1371ddddd) 
 - [2021-02-03-常见三大Web安全攻防解析](https://sec.thief.one/article_content?a_id=0e19f6f72ee27be5aaa33da86263ac0c) 
 - [2021-02-02-【安全风险通告】Apache-Shiro身份认证绕过漏洞安全风险通告](https://sec.thief.one/article_content?a_id=93936e1eac607b5f4b863a8d73ccf954) 
 - [2021-02-02-【安全圈】Perl.com-官网被劫持用以分发恶意软件](https://sec.thief.one/article_content?a_id=98967d453fba0bc4aa9534fc54262c16) 
@@ -65,5 +72,3 @@
 - [2021-02-01-富士代码执行漏洞使工业设备面临安全风险](https://sec.thief.one/article_content?a_id=511eede6b5ea9e8b35704ceff3f44b5f) 
 - [2021-02-01-2020网络安全投融资报告:透视投资热点与动向](https://sec.thief.one/article_content?a_id=3e9a0dec47e77c17b50d713e818a0576) 
 - [2021-02-01-每日安全动态推送02-01](https://sec.thief.one/article_content?a_id=2aa8015408f084918cebf00c88144ac2) 
-- [2021-01-31-安全行业如何找有前景的公司](https://sec.thief.one/article_content?a_id=ea6cfa0f821169c7a98bb593f25b5ae2) 
-- [2021-01-30-【安全圈】2021年第一张罚单!-因网络安全等问题中国农业银行被罚...](https://sec.thief.one/article_content?a_id=83fcf864bd206c27d398b284cdfd0f16) 

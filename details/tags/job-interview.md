@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-03 02:11:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-03 13:37:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -16,7 +16,6 @@
 - [2021-01-26-【招聘】阿里巴巴考拉海购体验技术部招P6～P8前端工程师](https://www.ershicimi.com/p/3c1ab7f50c252c05cb6392f52e99839c) 
 - [2021-01-25-【招聘】腾讯CSIG教育部门招前端工程师](https://www.ershicimi.com/p/12f6135314350d7681977a4558f4a093) 
 - [2021-01-24-【招聘】阿里业务平台体验技术部招前端技术专家](https://www.ershicimi.com/p/3434a39f3aecfcb16f88d71367b10b22) 
-- [2021-01-23-【招聘】网易严选招资深前端开发工程师数据可视化](https://www.ershicimi.com/p/432aa217e1ed3ebe6b60d860c169de45) 
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2021-02-02-知乎高赞：大厂面试的2个关键点](https://www.ershicimi.com/p/d4b2bef4ef3445ef06176a2a2a443319) 

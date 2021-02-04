@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-04 09:54:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 10:05:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -17,8 +17,8 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2021-02-04-Elasticsearch-中的-terms-聚合，如何得到所有-buckets-的数量？](https://www.v2ex.com/t/751336) 
 - [2021-02-04-深圳/北京/上海/成都等地内推腾讯后端、算法、前端、设计等各类岗位](https://www.v2ex.com/t/751333) 
-- [2021-02-04-算法岗校招-offer-求比较](https://www.v2ex.com/t/751288) 
 - [2021-02-04-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) 
 - [2021-02-04-可怕，原来-HTTPS-也没用](https://toutiao.io/k/ky0p6j4) 
 - [2021-02-02-点名炮轰亚马逊,Elastic-修改开源许可](https://sec.thief.one/article_content?a_id=e43ced370d645ae280e90d81c82fea74) 

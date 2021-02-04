@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-04 02:37:37，:rocket: 更新条数: +4270， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-04 02:42:51，:rocket: 更新条数: +4270， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1033,6 +1033,7 @@
 </summary>
 
 
+- [2021-02-04-我没懂，当时的-DTK-租金-500-刀不是写得明明白白吗？](https://www.v2ex.com/t/751159) ![](assets/new.png)  
 - [2021-02-04-问大家一个六字真言的问题，看看大家的看法。](https://www.v2ex.com/t/751157) ![](assets/new.png)  
 - [2021-02-04-新版的-edge-做的比-chrome-优秀吗？](https://www.v2ex.com/t/751156) ![](assets/new.png)  
 - [2021-02-04-是先和老板说要涨薪还是先面试拿-offer](https://www.v2ex.com/t/751155) ![](assets/new.png)  
@@ -1052,7 +1053,6 @@
 - [2021-02-04-有老伙计知道-LVServiceAgent-这个安全终端吗](https://www.v2ex.com/t/751137) ![](assets/new.png)  
 - [2021-02-04-想学扒谱,-怎么破?](https://www.v2ex.com/t/751136) ![](assets/new.png)  
 - [2021-02-04-现在的-Web-前端，比较好用的-免费的-ui-library-有哪些？除了-Bootstrap](https://www.v2ex.com/t/751135) ![](assets/new.png)  
-- [2021-02-04-整理了海内外公司的靠谱内推-｜-Github](https://www.v2ex.com/t/751134) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1112,9 +1112,9 @@
 - [2021-02-04-如何设计一个高性能网关](https://toutiao.io/k/50qvpmi) ![](assets/new.png)  
 - [2021-02-04-漫画：半夜，我差点揍了十年前的自己](https://toutiao.io/k/bjbe8ch) ![](assets/new.png)  
 - [2021-02-04-Vue-实现原理-+-前端性能优化](https://toutiao.io/k/mv5xikc) ![](assets/new.png)  
-- [2021-02-04-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) ![](assets/new.png)  
-- [2021-02-04-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
-- [2021-02-04-推荐-微服务实现简单的分布式日志追踪](https://toutiao.io/k/s7af3dl) ![](assets/new.png)  
+- [2021-02-04-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
+- [2021-02-04-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
+- [2021-02-04-推荐-DDD-实现之路](https://toutiao.io/k/9r5qrcy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

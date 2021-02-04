@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-04 10:09:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 10:31:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,7 +42,7 @@
 - [2021-02-02-Apache-软件基金会-2020-安全报告：六件值得被关注的事](https://www.ershicimi.com/p/13f8ca47c355c4c533f63679834b188c) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-02-04-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-02-04-是否可以批量抓取-google-搜索的第一结果的-URL?](https://www.v2ex.com/t/751340) 
 - [2021-02-04-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) 
 - [2021-02-04-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) 
 - [2021-02-04-我的安全梦](https://sec.thief.one/article_content?a_id=600978ceb3fe4a2bca64abcc3600f435) 
@@ -73,5 +73,3 @@
 - [2021-02-02-信息安全漏洞周报2021年第5期](https://sec.thief.one/article_content?a_id=a84a8ad544bb7a9a29e1872fcd028c25) 
 - [2021-02-02-澳大利亚政府推出敏感数据安全共享的新工具](https://sec.thief.one/article_content?a_id=381b14f3e49efb7912f1b4b3fe9b1f8b) 
 - [2021-02-02-每日安全动态推送02-02](https://sec.thief.one/article_content?a_id=8000830f1dfb32aa162efad0317b336a) 
-- [2021-02-02-阿里云安全获Apache官方致谢-|Apache-Druid-远程代码执行漏洞预警...](https://sec.thief.one/article_content?a_id=78791463a276e23533d65f71c15787fc) 
-- [2021-02-01-【安全圈】富士代码执行漏洞使工业设备面临安全风险](https://sec.thief.one/article_content?a_id=2c116221f2cc9af672273bbf3daefb9f) 

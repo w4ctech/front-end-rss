@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-04 07:48:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 08:05:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -17,6 +17,7 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2021-02-04-算法岗校招-offer-求比较](https://www.v2ex.com/t/751288) 
 - [2021-02-04-「dell-u2720QM」显示器-HDMI-外接-eGPU-黑屏问题](https://www.v2ex.com/t/751268) 
 - [2021-02-04-九章算法-|-字节跳动面试题：滑动拼图-II](https://www.v2ex.com/t/751266) 
 - [2021-02-04-北京/上海/深圳-量化交易--AI-infrastructure-leader/engineer-封顶-300-万](https://www.v2ex.com/t/751263) 

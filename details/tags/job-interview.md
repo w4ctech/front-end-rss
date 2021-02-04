@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-04 04:35:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 04:44:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -26,7 +26,6 @@
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-02-04-人工智能-AI-机器人“小冰”招聘啦，资深后端研发经理，等你来](https://www.v2ex.com/t/751197) 
 - [2021-02-04-V2-有没有想搞航天的？微分航宇招聘机械工程师](https://www.v2ex.com/t/751166) 
-- [2021-02-04-造车新势力公司自动驾驶部门系统研发方向岗位招聘](https://www.v2ex.com/t/751160) 
 - [2021-02-04-记一次阿里面试，止步第三轮，发现这个是硬伤-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14124&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8qMS5AD91-VLyYZmOrcjYA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-04-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) 
 - [2021-02-04-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) 

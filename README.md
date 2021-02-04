@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-04 04:35:46，:rocket: 更新条数: +4230， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-04 04:44:15，:rocket: 更新条数: +4270， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,7 +23,7 @@
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)![](assets/dot.png)   
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -277,6 +277,26 @@
 </summary>
 
 
+- [2021-02-04-华为宣布：免费培养2000名VUE&H5开发者！](https://www.ershicimi.com/p/a4111e63d4d453b0ff4654da7721636b) ![](assets/new.png)  
+- [2021-02-04-Vue3+TypeScript完整项目上手教程](https://www.ershicimi.com/p/7d363b24622efb11e63dc63f0ff7b9dd) ![](assets/new.png)  
+- [2021-02-03-面试Vue3难点问题，看这篇就够了](https://www.ershicimi.com/p/e9f634ba9e3710fcc8075938273b13ac) ![](assets/new.png)  
+- [2021-02-03-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/af71b782c06b4bc13d3eae0ab8100fe6) ![](assets/new.png)  
+- [2021-02-02-时代变了，来看看你用的哪些前端技术已经过时了](https://www.ershicimi.com/p/77833abaa3d45302c06faea5336e4c0b) ![](assets/new.png)  
+- [2021-02-01-node_modules-困境](https://www.ershicimi.com/p/a275293bd5c33275440bf51ffcc5ebc1) ![](assets/new.png)  
+- [2021-01-29-20个-CSS-快速提升技巧](https://www.ershicimi.com/p/a4d04f7de44a774663aec60535490101) ![](assets/new.png)  
+- [2021-01-28-1亿人留守，今年你还回家过年吗？](https://www.ershicimi.com/p/678b0047dbf464be36c8cfa9c450b99b) ![](assets/new.png)  
+- [2021-01-28-实战-|-使用-Webpack5-搭建多页面应用](https://www.ershicimi.com/p/f50c64242239a7c672c4791d36c299ea) ![](assets/new.png)  
+- [2021-01-27-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/dedb1aa626bb99ce57b99a35ca44b8a0) ![](assets/new.png)  
+- [2021-01-26-记一次Vue3.0技术分享会](https://www.ershicimi.com/p/e9a5319fd152c904f42c89b991ccdf49) ![](assets/new.png)  
+- [2021-01-25-从-Vue3.0-和React17-对比谈前端如何构建核心竞争力](https://www.ershicimi.com/p/dd7e55e89e3de38590584f50ff8bede4) ![](assets/new.png)  
+- [2021-01-25-5个很常用的CSS3网页小实例](https://www.ershicimi.com/p/ed5c32ea9155a6224d00998b53ef56e4) ![](assets/new.png)  
+- [2021-01-22-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/c1ab6af9e5de8317d968010524e4db03) ![](assets/new.png)  
+- [2021-01-21-如何精确统计页面停留时长](https://www.ershicimi.com/p/630decc0e0f4b716c7299b677b862efc) ![](assets/new.png)  
+- [2021-01-20-超详细的-JS-数组方法](https://www.ershicimi.com/p/3c7b546430c363fad841d14f3f7bc822) ![](assets/new.png)  
+- [2021-01-19-10-个提升代码质量的-JS-技巧](https://www.ershicimi.com/p/66b505935981a14988e0c87283890ad9) ![](assets/new.png)  
+- [2021-01-18-看完这篇文章，Vue3.0一点都不难！](https://www.ershicimi.com/p/7ed9fb6bb69a04d0af1be578bba5650f) ![](assets/new.png)  
+- [2021-01-18-3-行-CSS-代码实现日历界面](https://www.ershicimi.com/p/f15bbf14ed27d2acc8622b0501a557f2) ![](assets/new.png)  
+- [2021-01-15-三种-Loading-制作方案](https://www.ershicimi.com/p/1152dce2843225e412b48322ee8e9313) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -982,6 +1002,26 @@
 </summary>
 
 
+- [2021-02-03-细节狂魔、沉浸式体验……没想到-2021-刚开始就有「神剧」](https://www.ershicimi.com/p/7be152fbce1ff0b1da2b9c9bd46b8b49) ![](assets/new.png)  
+- [2021-02-03-知识变现的机会来了！看看谁的脑洞更大](https://www.ershicimi.com/p/314b279b4f050422747c4ce907ea9e11) ![](assets/new.png)  
+- [2021-02-03-微信新功能：我们双向互删吧](https://www.ershicimi.com/p/cd05b8a5ef36021f865ec8af59a88598) ![](assets/new.png)  
+- [2021-02-03-知乎故事-|-未婚先孕的女生](https://www.ershicimi.com/p/1d9d9179952f815118004532b46ffa56) ![](assets/new.png)  
+- [2021-02-02-当南方人第一次来到北方之后……](https://www.ershicimi.com/p/f17db13eeb2bbb4dd24e9d0946ec5611) ![](assets/new.png)  
+- [2021-02-02-「年薪百万」的知友们能有什么烦心事呢?](https://www.ershicimi.com/p/35086de36c41520aad3d49fbbc8897ac) ![](assets/new.png)  
+- [2021-02-02-知乎故事-|-突然发现自己家里很穷是种怎样的体验？](https://www.ershicimi.com/p/abbec15d1ddc3189099b4b24c02a300e) ![](assets/new.png)  
+- [2021-02-01-知乎好问题：为什么会有人瞧不起《静夜思》《咏鹅》这类诗？](https://www.ershicimi.com/p/985655fe1d76c1f76d6592961c11b4d9) ![](assets/new.png)  
+- [2021-02-01-春节太敏感？我建议你带这份锦囊回家](https://www.ershicimi.com/p/6b771fa7fd70677c75b269de286890f9) ![](assets/new.png)  
+- [2021-02-01-知乎故事-|-你是从哪个细节发现男友/老公出轨的？](https://www.ershicimi.com/p/7ad5027657c197b59c26f0d4643ddd69) ![](assets/new.png)  
+- [2021-01-31-本周知乎热榜-|-不堪重负的「樊胜美」，毛晓彤曝与陈翔录音，男子因父去世强行休假遭辞退](https://www.ershicimi.com/p/a43f376023e502d9c9252ca35160ccf5) ![](assets/new.png)  
+- [2021-01-31-普通女孩怎么快速提升穿衣品味？](https://www.ershicimi.com/p/387ea025524c77f22f02ddaf9a58e12e) ![](assets/new.png)  
+- [2021-01-31-知乎故事-|-女朋友生气时爱爬树怎么办？](https://www.ershicimi.com/p/8fa09d23a0be73b64930b1539df993ad) ![](assets/new.png)  
+- [2021-01-29-知乎神吐槽-|-有哪些绝对真实的娱乐圈爆料？](https://www.ershicimi.com/p/4b108796d7b16a4d7140985c8831aeaa) ![](assets/new.png)  
+- [2021-01-29-知乎故事-|-你听过最可爱的鬼故事是什么？](https://www.ershicimi.com/p/4d3f98d8e5d63568891ec9d63fd6dd9f) ![](assets/new.png)  
+- [2021-01-28-风靡朋友圈的「合成大西瓜」专业攻略来了！手残也能拿下-1000-分](https://www.ershicimi.com/p/baca1f4d5ec0f1cd7d3dc1a07d6c3f57) ![](assets/new.png)  
+- [2021-01-28-过去十年你做了哪些「探索」，让你变得不同？](https://www.ershicimi.com/p/78211af1d0db58f7cec9c31735772ead) ![](assets/new.png)  
+- [2021-01-28-知乎故事-|-重男轻女的家庭](https://www.ershicimi.com/p/e987756fbc7153d1d25019308c72105a) ![](assets/new.png)  
+- [2021-01-27-当女生在聊天软件上被性骚扰时，我们该怎么办？](https://www.ershicimi.com/p/65620ae07aaff3d90384719001be6c2b) ![](assets/new.png)  
+- [2021-01-27-知乎故事-|-你最尴尬的一次经历是怎样的？](https://www.ershicimi.com/p/a43de967198b3923e7df4b9dfd9f4f62) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -993,6 +1033,7 @@
 </summary>
 
 
+- [2021-02-04-Mac-数据线连接-iPhone-或者-iPad-后，能不能直接拔掉，不去-finder-里面点弹出](https://www.v2ex.com/t/751210) ![](assets/new.png)  
 - [2021-02-04-AirPods-不拿出盒的情况下，-MacBook-自动连接-AirPods](https://www.v2ex.com/t/751209) ![](assets/new.png)  
 - [2021-02-04--一面数据-|-深圳-新的一年，新的开始！是时候来看看我们的职位啦~](https://www.v2ex.com/t/751206) ![](assets/new.png)  
 - [2021-02-04-为什么有些回帖要-1000-天，即使内容很正常？](https://www.v2ex.com/t/751205) ![](assets/new.png)  
@@ -1012,7 +1053,6 @@
 - [2021-02-04-选择在外企呆着还是辞职去试试大厂？](https://www.v2ex.com/t/751184) ![](assets/new.png)  
 - [2021-02-04-请教下，前端有哪些比较好用的付费框架啊？](https://www.v2ex.com/t/751182) ![](assets/new.png)  
 - [2021-02-04-小程序+app基于地理位置查询周边有优惠促销的加油站](https://www.v2ex.com/t/751181) ![](assets/new.png)  
-- [2021-02-04-北京VueJS百度---移动生态战略规划部-招聘前端](https://www.v2ex.com/t/751180) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

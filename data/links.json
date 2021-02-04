@@ -16360,7 +16360,28 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "全国｜重点人群接种新冠疫苗3123.6万剂次",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw1b2vojn1LPangCI20FL210204&isfromapp=1",
+        "date": "2021-02-04"
+      },
+      {
+        "title": "全国｜新增确诊病例 30 例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0hJ2fboMB0n2GnkHTAFD210204&isfromapp=1",
+        "date": "2021-02-04"
+      },
+      {
+        "title": "吉林｜新增 8 例本地确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ1KnMZHDTvT2RG9rEbEs210204&isfromapp=1",
+        "date": "2021-02-04"
+      },
+      {
+        "title": "2.3｜多地返乡政策有调整，石家庄逐步复工复产，河南下调核酸检测费",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisHK6MPD4Cow3TgYUi7xl210203&isfromapp=1",
+        "date": "2021-02-03"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",

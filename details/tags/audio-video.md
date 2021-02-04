@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-04 07:38:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 07:48:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -90,6 +90,7 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2021-02-04-社招-美股上市公司-高级-Android/iOS-工程师/音视频工程师](https://www.v2ex.com/t/751280) 
 - [2021-02-04-有朋友用过米家的那个摄像头吗？想问下那个摄像头支不支持-SMB2。](https://www.v2ex.com/t/751269) 
 - [2021-02-03-绿盟星课堂公益直播课,来了](https://sec.thief.one/article_content?a_id=05946269d4bed33f757d730fac61acd0) 
 - [2021-02-02-【视频】|-Python:内部函数](https://sec.thief.one/article_content?a_id=5c8fce8cb3e747185ccffa666891fdee) 

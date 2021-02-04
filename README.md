@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-04 04:56:06，:rocket: 更新条数: +4269， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-04 05:04:36，:rocket: 更新条数: +4269， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1102,17 +1102,17 @@
 - [2021-02-04-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
 - [2021-02-04-Golang-语言三方库-lumberjack-日志切割组件怎么使用？](https://toutiao.io/k/0u78ukd) ![](assets/new.png)  
 - [2021-02-04-漫谈实时数仓架构](https://toutiao.io/k/5x1z1yu) ![](assets/new.png)  
-- [2021-02-04-C++-模板：编写泛型库需要的基本技术](https://toutiao.io/k/g39nq4n) ![](assets/new.png)  
 - [2021-02-04-你以为用了-BigDecimal-后，计算结果就一定精确了？](https://toutiao.io/k/jn3texk) ![](assets/new.png)  
+- [2021-02-04-C++-模板：编写泛型库需要的基本技术](https://toutiao.io/k/g39nq4n) ![](assets/new.png)  
 - [2021-02-04-Flink-在-1.10-版本之前如何生成-Watermark](https://toutiao.io/k/masfk1f) ![](assets/new.png)  
 - [2021-02-04-敏捷业务实践之计划游戏](https://toutiao.io/k/0z3txf7) ![](assets/new.png)  
 - [2021-02-04-深入解析-incaseformat-病毒](https://toutiao.io/k/519ekzw) ![](assets/new.png)  
 - [2021-02-04-快狗打车-CTO-沈剑：低成本搞定分布式调用链追踪系统](https://toutiao.io/k/b7zrx95) ![](assets/new.png)  
 - [2021-02-04-反应式编程概览（中文版）](https://toutiao.io/k/rv9jg61) ![](assets/new.png)  
 - [2021-02-04-如何设计一个高性能网关](https://toutiao.io/k/50qvpmi) ![](assets/new.png)  
+- [2021-02-04-Vue-实现原理-+-前端性能优化](https://toutiao.io/k/mv5xikc) ![](assets/new.png)  
 - [2021-02-04-用-helm-chart-将-chripstack-部署到-k8s-之上](https://toutiao.io/k/s0nrxju) ![](assets/new.png)  
 - [2021-02-04-可怕，原来-HTTPS-也没用](https://toutiao.io/k/ky0p6j4) ![](assets/new.png)  
-- [2021-02-04-Vue-实现原理-+-前端性能优化](https://toutiao.io/k/mv5xikc) ![](assets/new.png)  
 - [2021-02-04-漫画：半夜，我差点揍了十年前的自己](https://toutiao.io/k/bjbe8ch) ![](assets/new.png)  
 - [2021-02-04-啥-啥-啥，服务治理是个啥](https://toutiao.io/k/s9bxywp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

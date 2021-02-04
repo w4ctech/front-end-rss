@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-04 09:47:19，:rocket: 更新条数: +4268， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-04 09:54:41，:rocket: 更新条数: +4267， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1034,7 +1034,6 @@
 
 
 - [2021-02-04-深圳/北京/上海/成都等地内推腾讯后端、算法、前端、设计等各类岗位](https://www.v2ex.com/t/751333) ![](assets/new.png)  
-- [2021-02-04-询价自己组装主机，大概多少出呢](https://www.v2ex.com/t/751332) ![](assets/new.png)  
 - [2021-02-04-「Hulu-北京研发中心------内推」](https://www.v2ex.com/t/751331) ![](assets/new.png)  
 - [2021-02-04-社招-杭州-悠可-PHP-开发工程师/devops-工程师](https://www.v2ex.com/t/751328) ![](assets/new.png)  
 - [2021-02-04-油管家庭版会员一年，-80-元-还差最后一位](https://www.v2ex.com/t/751327) ![](assets/new.png)  
@@ -1053,6 +1052,7 @@
 - [2021-02-04-想弄张卡用来注册微信等小号有什么推荐的吗](https://www.v2ex.com/t/751312) ![](assets/new.png)  
 - [2021-02-04-ios14.5-beta-升级后-safari-播放音频内容异常](https://www.v2ex.com/t/751311) ![](assets/new.png)  
 - [2021-02-04-最近一直到点下班，感觉发现了新世界](https://www.v2ex.com/t/751309) ![](assets/new.png)  
+- [2021-02-04-面对搜狗输入法的精神胜利法](https://www.v2ex.com/t/751308) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

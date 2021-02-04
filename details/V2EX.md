@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-02-04 02:25:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 02:37:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-04-问大家一个六字真言的问题，看看大家的看法。](https://www.v2ex.com/t/751157) 
+- [2021-02-04-新版的-edge-做的比-chrome-优秀吗？](https://www.v2ex.com/t/751156) 
 - [2021-02-04-是先和老板说要涨薪还是先面试拿-offer](https://www.v2ex.com/t/751155) 
 - [2021-02-04-下一个网站该做啥呢，做什么样的网站会有趣呢？](https://www.v2ex.com/t/751153) 
 - [2021-02-04-开源-<-800-bytes-用一个更爽的方式生成-mock-假数据](https://www.v2ex.com/t/751152) 
@@ -43,6 +45,3 @@
 - [2021-02-03-去年深圳的-10%家电补贴还没到账？](https://www.v2ex.com/t/751112) 
 - [2021-02-03-所以不-Update-到-BigSur-就不给用-iCloud-吗](https://www.v2ex.com/t/751110) 
 - [2021-02-03-怎么关闭-ios-快捷指令里-safari-的通知](https://www.v2ex.com/t/751109) 
-- [2021-02-03-macOS-11.3-支持以立体声-HomePods-输出音频了](https://www.v2ex.com/t/751108) 
-- [2021-02-03-carbon-copy-cloner-只拷贝-windows-bootcamp-的内容，无法拷贝可启动的-windows-拷贝bootable-clone。这到底是什么意思？](https://www.v2ex.com/t/751107) 
-- [2021-02-03-在北美用国区账号-iCloud-备份文件速度怎么样](https://www.v2ex.com/t/751106) 

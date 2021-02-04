@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-04 03:07:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 03:29:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,8 +44,6 @@
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-04-新版的-edge-做的比-chrome-优秀吗？](https://www.v2ex.com/t/751156) 
-- [2021-02-04-有老伙计知道-LVServiceAgent-这个安全终端吗](https://www.v2ex.com/t/751137) 
-- [2021-02-04-微信这是属于读取我的浏览器记录？](https://www.v2ex.com/t/751132) 
 - [2021-02-04-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-04-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) 
 - [2021-02-04-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) 

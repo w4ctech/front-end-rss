@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-04 03:07:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 03:29:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -59,6 +59,9 @@
 - [2021-01-15-一起手写Vue3核心模块源码，掌握阅读源码的正确方法](https://www.ershicimi.com/p/3493d7cf9b33872393ebbf87dfad2eaa) 
 - [2020-12-28-Vant3.0宣布全面拥抱Vue3，Vue3.0成为主流还有多远？](https://www.ershicimi.com/p/ce2da327d67f7cc95055497d457dfc21) 
 - [2020-12-22-这7个vue技巧，简直让效率翻倍！](https://www.ershicimi.com/p/3e1d8e9e766d6ba9739a11e029436ee7) 
+- [2021-02-03-vue原理学习系列五：路由](https://juejin.im/post/6925063505460609037) 
+- [2021-02-03-Vue-Router学习笔记（基础篇）](https://juejin.im/post/6925063922999361549) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
+- [2021-02-04-北京VueJS百度---移动生态战略规划部-招聘前端](https://www.v2ex.com/t/751180) 
 - [2021-02-04-Vue-实现原理-+-前端性能优化](https://toutiao.io/k/mv5xikc) 

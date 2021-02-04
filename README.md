@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-04 09:40:39，:rocket: 更新条数: +996， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-04 09:47:19，:rocket: 更新条数: +4268， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-02-04-最新疫情：全国新冠累计确诊89649例-本土病例新增17例](https://m.caixin.com/m/2021-02-04/101660424.html) ![](assets/new.png)  
+- [2021-02-04-吉林2月3日新增8例本地确诊病例-长春2例通化6例](https://m.caixin.com/m/2021-02-04/101660156.html) ![](assets/new.png)  
+- [2021-02-04-河北2月3日新增2例本地确诊病例-均在石家庄（附轨迹）](https://m.caixin.com/m/2021-02-04/101660153.html) ![](assets/new.png)  
+- [2021-02-04-上海2月3日新增3例本地确诊病例-常住黄浦区和宝山区](https://m.caixin.com/m/2021-02-04/101660139.html) ![](assets/new.png)  
+- [2021-02-04-最新海外疫情：新冠感染超1.04亿-累计死亡超226万](http://m.international.caixin.com/m/2021-02-04/101660420.html) ![](assets/new.png)  
+- [2021-02-04-黑龙江2月3日新增确诊病例4例-无症状感染者1例](https://m.caixin.com/m/2021-02-04/101660132.html) ![](assets/new.png)  
+- [2021-02-04-牛津称打一剂阿斯利康疫苗有效率超七成-中国拟向COVAX计划供1000万剂疫苗｜大流行手记（2月3日）](https://m.caixin.com/m/2021-02-04/101660161.html) ![](assets/new.png)  
+- [2021-02-03-石家庄：即日起，全面推动复工复产](https://m.caixin.com/m/2021-02-03/101659966.html) ![](assets/new.png)  
+- [2021-02-03-河北2月2日新增1例本地确诊病例-在石家庄（附轨迹）](https://m.caixin.com/m/2021-02-03/101659567.html) ![](assets/new.png)  
+- [2021-02-03-吉林2月2日新增8例确诊病例-长春3例通化5例](https://m.caixin.com/m/2021-02-03/101659563.html) ![](assets/new.png)  
+- [2021-02-03-黑龙江2月2日新增6例确诊病例-3例无症状感染者](https://m.caixin.com/m/2021-02-03/101659560.html) ![](assets/new.png)  
+- [2021-02-03-【境内疫情观察】黑龙江哈尔滨利民开发区利民街道升为高风险地区（2月2日）](http://m.database.caixin.com/m/2021-02-03/101659795.html) ![](assets/new.png)  
+- [2021-02-03-英变异病毒再生突变-俄“卫星-V”疫苗三期临床有效性达91.6%｜大流行手记（2月2日）](https://m.caixin.com/m/2021-02-03/101659602.html) ![](assets/new.png)  
+- [2021-02-02-河北2月1日无新增新冠确诊病例](https://m.caixin.com/m/2021-02-02/101659006.html) ![](assets/new.png)  
+- [2021-02-02-吉林2月1日新增确诊病例4例-无症状感染者3例](https://m.caixin.com/m/2021-02-02/101659014.html) ![](assets/new.png)  
+- [2021-02-02-黑龙江2月1日新增8例确诊病例-4例无症状感染者](https://m.caixin.com/m/2021-02-02/101659000.html) ![](assets/new.png)  
+- [2021-02-02-内蒙古鄂尔多斯杭锦旗2名货运司乘人员核酸检测初检呈阳性](https://m.caixin.com/m/2021-02-02/101659526.html) ![](assets/new.png)  
+- [2021-02-02-【境内疫情观察】河北石家庄已有超60%确诊患者治愈出院（2月1日）](http://m.database.caixin.com/m/2021-02-02/101659256.html) ![](assets/new.png)  
+- [2021-02-02-辉瑞向欧盟追加7500万剂疫苗-日本拟延长紧急事态宣言一个月|大流行手记（2月1日）](https://m.caixin.com/m/2021-02-02/101659003.html) ![](assets/new.png)  
+- [2021-02-01-吉林1月31新增确诊病例10例-长春2例通化8例](https://m.caixin.com/m/2021-02-01/101658492.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -195,6 +215,8 @@
 </summary>
 
 
+- [2021-02-04-【第2197期】如何为多元化的产品场景选择完美的色彩组合？](https://www.ershicimi.com/p/fe2eed7f108c6c6407a5576e25e5d9f2) ![](assets/new.png)  
+- [2021-02-04-【招聘】UCloud优刻得招聘前端工程师](https://www.ershicimi.com/p/9c4958428d5b916fd12e4c85f41c81d7) ![](assets/new.png)  
 - [2021-02-03-来一起手写Vue3核心源码，掌握大厂面试必备知识](https://www.ershicimi.com/p/936b5ae0f1ebc5a4b16382ecf6a3d6ea) ![](assets/new.png)  
 - [2021-02-03-【第2196期】shader风格化---热成像](https://www.ershicimi.com/p/705625cac6e53ee423cc617d2f005284) ![](assets/new.png)  
 - [2021-02-02-【第2195期】对互联网/智能产品“适老化”的思考](https://www.ershicimi.com/p/bf63577b057f6dc78b3473839d905c8e) ![](assets/new.png)  
@@ -213,8 +235,6 @@
 - [2021-01-26-【招聘】阿里巴巴考拉海购体验技术部招P6～P8前端工程师](https://www.ershicimi.com/p/3c1ab7f50c252c05cb6392f52e99839c) ![](assets/new.png)  
 - [2021-01-25-【第2187期】AntV图可视分析解决方案---设计篇](https://www.ershicimi.com/p/e44935d55edeb62a9156cbe2766e5be3) ![](assets/new.png)  
 - [2021-01-25-【招聘】腾讯CSIG教育部门招前端工程师](https://www.ershicimi.com/p/12f6135314350d7681977a4558f4a093) ![](assets/new.png)  
-- [2021-01-24-【第2186期】使用浏览器开发工具测试网站可访问性的七种方法](https://www.ershicimi.com/p/8b50b5781261719062d5a13246a1fed5) ![](assets/new.png)  
-- [2021-01-24-【招聘】阿里业务平台体验技术部招前端技术专家](https://www.ershicimi.com/p/3434a39f3aecfcb16f88d71367b10b22) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1013,6 +1033,9 @@
 </summary>
 
 
+- [2021-02-04-深圳/北京/上海/成都等地内推腾讯后端、算法、前端、设计等各类岗位](https://www.v2ex.com/t/751333) ![](assets/new.png)  
+- [2021-02-04-询价自己组装主机，大概多少出呢](https://www.v2ex.com/t/751332) ![](assets/new.png)  
+- [2021-02-04-「Hulu-北京研发中心------内推」](https://www.v2ex.com/t/751331) ![](assets/new.png)  
 - [2021-02-04-社招-杭州-悠可-PHP-开发工程师/devops-工程师](https://www.v2ex.com/t/751328) ![](assets/new.png)  
 - [2021-02-04-油管家庭版会员一年，-80-元-还差最后一位](https://www.v2ex.com/t/751327) ![](assets/new.png)  
 - [2021-02-04-这两周一直在参加面试，但是到目前为止一个-offer-都没有收到，当下这么难吗？](https://www.v2ex.com/t/751325) ![](assets/new.png)  
@@ -1030,9 +1053,6 @@
 - [2021-02-04-想弄张卡用来注册微信等小号有什么推荐的吗](https://www.v2ex.com/t/751312) ![](assets/new.png)  
 - [2021-02-04-ios14.5-beta-升级后-safari-播放音频内容异常](https://www.v2ex.com/t/751311) ![](assets/new.png)  
 - [2021-02-04-最近一直到点下班，感觉发现了新世界](https://www.v2ex.com/t/751309) ![](assets/new.png)  
-- [2021-02-04-面对搜狗输入法的精神胜利法](https://www.v2ex.com/t/751308) ![](assets/new.png)  
-- [2021-02-04-无聊的时候，老哥们都怎么打发时间？](https://www.v2ex.com/t/751306) ![](assets/new.png)  
-- [2021-02-04-微软苏州-Teams-团队急招多媒体与计算机视觉相关人才，-HC-多多](https://www.v2ex.com/t/751305) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

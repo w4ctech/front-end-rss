@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-04 17:05:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 17:17:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -76,7 +76,6 @@
 - [2021-02-04-JSConf-在哪里可以免费看？](https://www.v2ex.com/t/751395) 
 - [2021-02-04-IOS14-负一屏叠加小组件卡到爆有没有¬‿¬](https://www.v2ex.com/t/751384) 
 - [2021-02-04-不懂就问，路由器接光猫的-ip-设置问题](https://www.v2ex.com/t/751381) 
-- [2021-02-04-一行能装逼的-JavaScript-代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14125&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqLtILt-1f8GwVj3IknryQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-04-Golang-语言三方库-lumberjack-日志切割组件怎么使用？](https://toutiao.io/k/0u78ukd) 
 - [2021-02-03-2020年美国数据泄露事件减少19%,原因竟是……](https://sec.thief.one/article_content?a_id=5f1f7354e7075f37b404c54bd8607141) 
 - [2021-02-02-年度盘点-|-2020重大网络安全事件-·-疫情篇](https://sec.thief.one/article_content?a_id=af7faaa6eb7ce8013e757f3f0a2bbddb) 

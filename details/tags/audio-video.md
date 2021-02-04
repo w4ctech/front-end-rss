@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-04 18:42:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 18:56:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -22,6 +22,8 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-02-04-微信-8.0-状态-添加高清无码视频-可搜索下载](https://www.v2ex.com/t/751399) 
 - [2021-02-03-绿盟星课堂公益直播课,来了](https://sec.thief.one/article_content?a_id=05946269d4bed33f757d730fac61acd0) 
 - [2021-02-02-【视频】|-Python:内部函数](https://sec.thief.one/article_content?a_id=5c8fce8cb3e747185ccffa666891fdee) 

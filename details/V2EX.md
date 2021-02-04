@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-02-04 05:37:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 05:48:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-04-分享一下我购买华为儿童手表-3Pro-超能版的体验，提到具体型号，是建议大家不要买。](https://www.v2ex.com/t/751225) 
 - [2021-02-04-同一块-Nas-盘-windows-挂载没问题-Centos-mount-cifs-出现-Permission-denid-问题（username-和-password-确认没问题）](https://www.v2ex.com/t/751224) 
 - [2021-02-04-不吐不快，最近在看《Go-语言编程》，同类型的参考书也看了下《Go-语言编程入门与实战技巧》，发现后书作者真的是厚颜无耻，接口一章的开头理论说明部分抄得一字...](https://www.v2ex.com/t/751222) 
 - [2021-02-04-现在-Bilibili-内容质量也太差了吧](https://www.v2ex.com/t/751221) 
@@ -39,4 +40,3 @@
 - [2021-02-04-北京VueJS百度---移动生态战略规划部-招聘前端](https://www.v2ex.com/t/751180) 
 - [2021-02-04-公司电脑有域管理策略，避免自动锁屏，可以使用什么方法？](https://www.v2ex.com/t/751179) 
 - [2021-02-04-求教下-V-友，这种组件从哪引用的？](https://www.v2ex.com/t/751176) 
-- [2021-02-04-北京-React-Typescript-前端-Moka-招募前端小伙伴啦](https://www.v2ex.com/t/751175) 

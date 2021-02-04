@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-04 05:48:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 06:05:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -98,8 +98,8 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-02-04-迫于要回家过年，搞了一个-H5-video-进度条同步的脚本，方便和女朋友一起刷剧刷综艺](https://www.v2ex.com/t/751229) 
 - [2021-02-04-Picsee---看图-&-截图-1.2.4-更新了，这次更新主要优化图片整理和滚动截图](https://www.v2ex.com/t/751198) 
-- [2021-02-04-求教下-V-友，这种组件从哪引用的？](https://www.v2ex.com/t/751176) 
 - [2021-02-04-一行能装逼的-JavaScript-代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14125&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqLtILt-1f8GwVj3IknryQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-04-Golang-语言三方库-lumberjack-日志切割组件怎么使用？](https://toutiao.io/k/0u78ukd) 
 - [2021-02-03-2020年美国数据泄露事件减少19%,原因竟是……](https://sec.thief.one/article_content?a_id=5f1f7354e7075f37b404c54bd8607141) 

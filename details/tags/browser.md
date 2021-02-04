@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-04 23:31:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 23:41:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -32,7 +32,8 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-02-04-想请教大家中文-URL-的编码问题](https://www.v2ex.com/t/751392) 
+- [2021-02-04-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) 
+- [2021-02-04-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) 
 - [2021-02-04-我的安全梦](https://sec.thief.one/article_content?a_id=600978ceb3fe4a2bca64abcc3600f435) 
 - [2021-02-04-每日安全动态推送02-04](https://sec.thief.one/article_content?a_id=3429b285d44590e63f7f3fa7de83e370) 
 - [2021-02-04-处理公告丨2021年1月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=23f175c56966559be3d5a0525dcd7bb9) 

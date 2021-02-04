@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-04 23:31:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 23:41:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -17,3 +17,5 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2021-02-04-如何设计一个高性能网关](https://toutiao.io/k/50qvpmi) 
+- [2021-02-04-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) 

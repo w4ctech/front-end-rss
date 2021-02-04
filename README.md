@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-04 23:31:56，:rocket: 更新条数: +3705， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-04 23:41:10，:rocket: 更新条数: +3729， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,16 +46,16 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)  
+- [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -469,6 +469,11 @@
 </summary>
 
 
+- [2021-02-04-前端逐帧动画性能探究和比较](https://juejin.im/post/6925400603300478983) ![](assets/new.png)  
+- [2021-02-04-JS基础梳理（一）](https://juejin.im/post/6925330657472151565) ![](assets/new.png)  
+- [2021-02-04-今天聊：为什么你简历上写不出亮点](https://juejin.im/post/6925328952068145165) ![](assets/new.png)  
+- [2021-02-04-React规范](https://juejin.im/post/6925328014565703693) ![](assets/new.png)  
+- [2021-02-03-若川的2020年度总结，水波不兴](https://juejin.im/post/6925267201372995597) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -544,26 +549,6 @@
 </summary>
 
 
-- [2021-02-04-前端引用开源-CDN-的字体、图标等，有什么好办法能下载到本地服务器吗？](https://www.v2ex.com/t/751433) ![](assets/new.png)  
-- [2021-02-04-吐槽一下美国-Apple-Store-换-AirPods-的超低效率](https://www.v2ex.com/t/751432) ![](assets/new.png)  
-- [2021-02-04-盆友们，上海众安保险这家公司怎么样](https://www.v2ex.com/t/751429) ![](assets/new.png)  
-- [2021-02-04-拿了生涯中最高的-OFFER。但是是外包。不想去怎么办？](https://www.v2ex.com/t/751427) ![](assets/new.png)  
-- [2021-02-04-为什么会有人喜欢用搜狗输入法](https://www.v2ex.com/t/751426) ![](assets/new.png)  
-- [2021-02-04-TG-酱-server-酱的-telegram-简版](https://www.v2ex.com/t/751424) ![](assets/new.png)  
-- [2021-02-04-关于-V2EX-的-戴森球计划-节点](https://www.v2ex.com/t/751422) ![](assets/new.png)  
-- [2021-02-04-怎样让手机不能下载抖音](https://www.v2ex.com/t/751421) ![](assets/new.png)  
-- [2021-02-04-网易云音乐随机播放怎么老那几首歌？](https://www.v2ex.com/t/751420) ![](assets/new.png)  
-- [2021-02-04-iOS-预装的文件-app-没法通过-SMB-连接-Windows](https://www.v2ex.com/t/751418) ![](assets/new.png)  
-- [2021-02-04-开代理软件是不是会使-host-禁止联网策略失效？](https://www.v2ex.com/t/751417) ![](assets/new.png)  
-- [2021-02-04-Nas-上的日立盘挂了](https://www.v2ex.com/t/751415) ![](assets/new.png)  
-- [2021-02-04-吐槽搜狗输入法-mac-版](https://www.v2ex.com/t/751414) ![](assets/new.png)  
-- [2021-02-04-MirrorZ:-教育网软件源镜像整合站](https://www.v2ex.com/t/751410) ![](assets/new.png)  
-- [2021-02-04-位于同一局域网段的云服务器怎么购买呢](https://www.v2ex.com/t/751409) ![](assets/new.png)  
-- [2021-02-04-关于-CRC-循环冗余校验的问题](https://www.v2ex.com/t/751408) ![](assets/new.png)  
-- [2021-02-04-Bilibili-iPad-版必须给本地网络访问权限才能打开怎么办？](https://www.v2ex.com/t/751405) ![](assets/new.png)  
-- [2021-02-04-如果在三线小城市，在某个不是很偏的小区门口有一个单独的底商，里面这样](https://www.v2ex.com/t/751404) ![](assets/new.png)  
-- [2021-02-04-有移民海外的朋友吗？我准备做一款华人社区，有兴趣加入的吗](https://www.v2ex.com/t/751403) ![](assets/new.png)  
-- [2021-02-04-深圳人才引进补贴超时了还有办法吗？急！](https://www.v2ex.com/t/751402) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -586,6 +571,26 @@
 </summary>
 
 
+- [2021-02-04-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-04-在-MySQL-中查询时间和日期](https://toutiao.io/k/i71sj4o) ![](assets/new.png)  
+- [2021-02-04-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-04-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
+- [2021-02-04-Go：实现项目内链路追踪](https://toutiao.io/k/ic65md7) ![](assets/new.png)  
+- [2021-02-04-漫谈实时数仓架构](https://toutiao.io/k/5x1z1yu) ![](assets/new.png)  
+- [2021-02-04-你以为用了-BigDecimal-后，计算结果就一定精确了？](https://toutiao.io/k/jn3texk) ![](assets/new.png)  
+- [2021-02-04-快狗打车-CTO-沈剑：低成本搞定分布式调用链追踪系统](https://toutiao.io/k/b7zrx95) ![](assets/new.png)  
+- [2021-02-04-反应式编程概览（中文版）](https://toutiao.io/k/rv9jg61) ![](assets/new.png)  
+- [2021-02-04-如何设计一个高性能网关](https://toutiao.io/k/50qvpmi) ![](assets/new.png)  
+- [2021-02-04-可怕，原来-HTTPS-也没用](https://toutiao.io/k/ky0p6j4) ![](assets/new.png)  
+- [2021-02-04-C++-模板：编写泛型库需要的基本技术](https://toutiao.io/k/g39nq4n) ![](assets/new.png)  
+- [2021-02-04-Golang-语言三方库-lumberjack-日志切割组件怎么使用？](https://toutiao.io/k/0u78ukd) ![](assets/new.png)  
+- [2021-02-04-Vue-实现原理-+-前端性能优化](https://toutiao.io/k/mv5xikc) ![](assets/new.png)  
+- [2021-02-04-Flink-在-1.10-版本之前如何生成-Watermark](https://toutiao.io/k/masfk1f) ![](assets/new.png)  
+- [2021-02-04-敏捷业务实践之计划游戏](https://toutiao.io/k/0z3txf7) ![](assets/new.png)  
+- [2021-02-04-深入解析-incaseformat-病毒](https://toutiao.io/k/519ekzw) ![](assets/new.png)  
+- [2021-02-04-啥-啥-啥，服务治理是个啥](https://toutiao.io/k/s9bxywp) ![](assets/new.png)  
+- [2021-02-04-漫画：半夜，我差点揍了十年前的自己](https://toutiao.io/k/bjbe8ch) ![](assets/new.png)  
+- [2021-02-04-用-helm-chart-将-chripstack-部署到-k8s-之上](https://toutiao.io/k/s0nrxju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -628,6 +633,26 @@
 </summary>
 
 
+- [2021-02-02-联发科首次打入苹果供应链，京东方知道有多难……](https://www.ershicimi.com/p/b157b413444a134b30ff4450269968a3) ![](assets/new.png)  
+- [2021-02-02-【首发】华为专家4周带你零基础考取华为物联网工程师认证！](https://www.ershicimi.com/p/e5a4d7c7bc977891277438a15c4c4dcb) ![](assets/new.png)  
+- [2021-02-02-再见，气球基站](https://www.ershicimi.com/p/7a8676516336ad3d374db5942a978485) ![](assets/new.png)  
+- [2021-02-01-撞了国家电网这堵“南墙”，特斯拉罕见光速道歉，别让“甩锅”成了企业文化！](https://www.ershicimi.com/p/e018cc1b6bb70c1c55625be20db01507) ![](assets/new.png)  
+- [2021-02-01-中国半导体行业会不会迎来整合潮？-|-新年展望](https://www.ershicimi.com/p/3c67d27b4d2dbe29af797c4aff53bd4b) ![](assets/new.png)  
+- [2021-02-01-混合云究竟得罪了谁，竟然要遭这样的罪？](https://www.ershicimi.com/p/9cd58113634a66a425919346f24832e7) ![](assets/new.png)  
+- [2021-01-31-智能家居的中场战事，从2C到2H、从室内到室外、从家庭到社区【物女心经】](https://www.ershicimi.com/p/e90594507cf23301dd406d4d4689c59d) ![](assets/new.png)  
+- [2021-01-31-物联网投融资周报|滴滴货运完成15亿美元融资；法拉第未来获得新投资；恒大汽车引入260亿港元战投；驭](https://www.ershicimi.com/p/580dea5adb58bdb9ad64da15f8078c03) ![](assets/new.png)  
+- [2021-01-30-“手机兜里揣，电从天上来”！雷军正式发布隔空充电技术，小米11首发](https://www.ershicimi.com/p/c1ccac1b0bdbe1be4342d46b3aa8eacb) ![](assets/new.png)  
+- [2021-01-30-3个IoT平台的失败案例，帮我们趟过了哪些雷](https://www.ershicimi.com/p/522cdfee27a34122f36749181ad33464) ![](assets/new.png)  
+- [2021-01-29-PLC-IoT将在智能家居领域取代ZigBee？](https://www.ershicimi.com/p/34b08ef2e41bd2f5aea444506ee7d2f5) ![](assets/new.png)  
+- [2021-01-29-拜登会放过华为吗？](https://www.ershicimi.com/p/398f4e7500bb799d5c4e9151d877e258) ![](assets/new.png)  
+- [2021-01-29-她因重仓马斯克和比特币封神！现在分享了十大2021技术趋势](https://www.ershicimi.com/p/17399c0c550b34d08d1ea5b03770b930) ![](assets/new.png)  
+- [2021-01-28-腾讯历史上首位17级杰出科学家诞生，大三才开始接触电脑，1985年就确定AI是未来方向](https://www.ershicimi.com/p/5ae6ce4c7daea0e309af5ad624b68fa8) ![](assets/new.png)  
+- [2021-01-28-5G-ToB加速发展，行业专网将成下一个黄金赛道](https://www.ershicimi.com/p/2897ce63b65adfac0c5e486985980cdd) ![](assets/new.png)  
+- [2021-01-28-不忘初心，西门子坚守数字化创新之路](https://www.ershicimi.com/p/31fca5062a246e7f1d1f8f4b1900be68) ![](assets/new.png)  
+- [2021-01-27-重磅！传余承东将带队华为云与计算BG，2月宣布新任命，若成功则“封神”](https://www.ershicimi.com/p/1292a2d8866fb317c13d22c755c8d4be) ![](assets/new.png)  
+- [2021-01-27-远水难解华为的近渴](https://www.ershicimi.com/p/e8a0213f947ba256ac0c316f667b8e9f) ![](assets/new.png)  
+- [2021-01-27-区块链+边缘计算应用研究与探讨](https://www.ershicimi.com/p/fd14d9b193e1c796c9b23e6db818f9a8) ![](assets/new.png)  
+- [2021-01-26-一部手机秒变两部，花千元享受万元旗舰机体验？中国电信天翼1号2021云手机发布-1199元起](https://www.ershicimi.com/p/918e01ca8396c2f717177b7f961f1d17) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

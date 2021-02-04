@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-04 05:28:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-04 05:37:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,11 +39,9 @@
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2021-01-28-SpringBoot集成WebSocket，实现后台向前端推送信息](https://www.ershicimi.com/p/b1377779cd0a4e7583add7ef0b211879) 
 - [2021-02-02-Apache-软件基金会-2020-安全报告：六件值得被关注的事](https://www.ershicimi.com/p/13f8ca47c355c4c533f63679834b188c) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-02-04-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) 
 - [2021-02-04-我的安全梦](https://sec.thief.one/article_content?a_id=600978ceb3fe4a2bca64abcc3600f435) 
 - [2021-02-04-每日安全动态推送02-04](https://sec.thief.one/article_content?a_id=3429b285d44590e63f7f3fa7de83e370) 
 - [2021-02-04-处理公告丨2021年1月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=23f175c56966559be3d5a0525dcd7bb9) 

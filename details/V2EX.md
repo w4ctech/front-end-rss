@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-02-05 15:43:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 15:53:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-05-大学要被退学了，有什么好地方可以去工作吗？](https://www.v2ex.com/t/751709) 
+- [2021-02-05-mysql-里-非事务的-update-语句，会自动加排它锁吗](https://www.v2ex.com/t/751707) 
 - [2021-02-05-将自己在用的主题-Pure-移植到-Hexo-上了](https://www.v2ex.com/t/751706) 
 - [2021-02-05-keychron-k1-到了，无法在开机的时候使用-option-键选择启动硬盘](https://www.v2ex.com/t/751705) 
 - [2021-02-05-由-Notepad++帖子和哪里有好的实事讨论区想到的](https://www.v2ex.com/t/751704) 
@@ -40,4 +42,3 @@
 - [2021-02-05-有没有哪里能通俗易懂地讲明白-Go-的并发？](https://www.v2ex.com/t/751663) 
 - [2021-02-05-推荐一些-YT-频道](https://www.v2ex.com/t/751662) 
 - [2021-02-05-VUE2-异步更新视图，为什么要在-watcher.update-时创建队列](https://www.v2ex.com/t/751661) 
-- [2021-02-05-大家平时是怎么看股票的资金的流入流出的？](https://www.v2ex.com/t/751657) 

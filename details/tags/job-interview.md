@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-05 08:44:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 08:54:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -24,4 +24,3 @@
 - [2021-02-05-上海SAP-Consumer-Industry-Cloud-大量招聘了！](https://www.v2ex.com/t/751586) 
 - [2021-02-05-「深圳｜-15-28k」量城科技-2021-数据分析师招聘](https://www.v2ex.com/t/751583) 
 - [2021-02-05-推荐-阿里面试官问我-Java-线程和操作系统线程什么关系](https://toutiao.io/k/oh81sch) 
-- [2021-02-05-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) 

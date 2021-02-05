@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-05 09:31:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 09:40:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,7 +44,6 @@
 - [2021-02-04-Chrome-Extensions-开发简介](https://juejin.im/post/6925657427908132877) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-05-Java-websocket-部署-centos7.6,同时连接-7000-个连接，总是报文件打开过多，有大佬处理过这种高并发吗](https://www.v2ex.com/t/751587) 
-- [2021-02-05-Chrome-浏览器-"阅读清单"如何关闭?](https://www.v2ex.com/t/751577) 
 - [2021-02-05-没错！100%-解决浏览器内存占用大的问题](https://toutiao.io/k/fi5wji4) 
 - [2021-02-05-网络安全央采明星产品TOP20&采购单位TOP30](https://sec.thief.one/article_content?a_id=0a020e4ad499084ae5acb3d83a282592) 
 - [2021-02-05-BlastDoor:iOS-14安全新特征](https://sec.thief.one/article_content?a_id=a196e6426a9d189007b08f657ee23eb4) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-05 03:30:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 03:40:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -452,7 +452,6 @@
 - [【V2EX】图片懒加载前后高度不一致的问题](https://www.v2ex.com/t/751476)
 - [【开发者头条】内联函数和编译器对-Go-代码的优化](https://toutiao.io/k/6m0flfq)
 - [【开发者头条】腾讯基于-Flink-SQL-的功能扩展与深度优化实践](https://toutiao.io/k/iixgu21)
-- [【开发者头条】推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -594,12 +593,12 @@
 - [【前端日刊】笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b)
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
+- [【V2EX】成都天府五街15-30kbst.ai-招聘-devops-开发工程师](https://www.v2ex.com/t/751504)
+- [【V2EX】FinTech-社区-招聘：全球资产配置分析师-基本面](https://www.v2ex.com/t/751503)
 - [【V2EX】那些前端面试问-iframe-优缺点的是不是应该马上逃离？](https://www.v2ex.com/t/751502)
 - [【V2EX】腾讯面试题：一和零](https://www.v2ex.com/t/751484)
 - [【V2EX】FinTech-社区-招聘：基本面量化研究](https://www.v2ex.com/t/751478)
 - [【V2EX】招聘-安卓开发工程师](https://www.v2ex.com/t/751472)
-- [【V2EX】技术面试的平等](https://www.v2ex.com/t/751465)
-- [【技术头条】记一次阿里面试，止步第三轮，发现这个是硬伤-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14124&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8qMS5AD91-VLyYZmOrcjYA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

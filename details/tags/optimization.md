@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-05 03:30:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 03:40:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -24,4 +24,3 @@
 - [2021-02-05-图片懒加载前后高度不一致的问题](https://www.v2ex.com/t/751476) 
 - [2021-02-05-内联函数和编译器对-Go-代码的优化](https://toutiao.io/k/6m0flfq) 
 - [2021-02-05-腾讯基于-Flink-SQL-的功能扩展与深度优化实践](https://toutiao.io/k/iixgu21) 
-- [2021-02-05-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) 

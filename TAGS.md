@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-05 21:08:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 21:26:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -592,6 +592,7 @@
 - [【前端日刊】笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b)
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
+- [【开发者头条】推荐-阿里面试官问我-Java-线程和操作系统线程什么关系](https://toutiao.io/k/oh81sch)
 - [【开发者头条】推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

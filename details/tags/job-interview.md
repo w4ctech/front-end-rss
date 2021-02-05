@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-05 06:34:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 06:43:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -22,5 +22,6 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-02-05-上海/北京-年前大量-hc，-Java-后端、前端、测试简历砸过来，面试流程快](https://www.v2ex.com/t/751542) 
-- [2021-02-05-香农投资-招聘：机器学习/C++/数据工程师-上海](https://www.v2ex.com/t/751524) 
 - [2021-02-05-记一次阿里面试，止步第三轮，发现这个是硬伤-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14124&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8qMS5AD91-VLyYZmOrcjYA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-02-05-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) 
+- [2021-02-05-推荐-阿里面试官问我-Java-线程和操作系统线程什么关系](https://toutiao.io/k/oh81sch) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-05 05:08:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 05:28:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,7 +43,10 @@
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-05-没错！100%-解决浏览器内存占用大的问题](https://toutiao.io/k/fi5wji4) 
-- [2021-02-05-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) 
+- [2021-02-05-网络安全央采明星产品TOP20&采购单位TOP30](https://sec.thief.one/article_content?a_id=0a020e4ad499084ae5acb3d83a282592) 
+- [2021-02-05-BlastDoor:iOS-14安全新特征](https://sec.thief.one/article_content?a_id=a196e6426a9d189007b08f657ee23eb4) 
+- [2021-02-05-每日安全动态推送02-05](https://sec.thief.one/article_content?a_id=459ae26de5bd456d339373725dd9fc07) 
+- [2021-02-05-调试Python代码,不要再用print了!](https://sec.thief.one/article_content?a_id=639f267e4776a5251107287629d244c9) 
 - [2021-02-05-安全招聘汇总-|-第九期](https://sec.thief.one/article_content?a_id=8ee39a12679fc68f41cb873e233e23e1) 
 - [2021-02-04-谷歌提出开源安全漏洞的处理新框架](https://sec.thief.one/article_content?a_id=c6238e26509411fe527667f91e3d6aa1) 
 - [2021-02-04-我的安全梦](https://sec.thief.one/article_content?a_id=600978ceb3fe4a2bca64abcc3600f435) 
@@ -67,8 +70,3 @@
 - [2021-02-02-【安全风险通告】Apache-Shiro身份认证绕过漏洞安全风险通告](https://sec.thief.one/article_content?a_id=93936e1eac607b5f4b863a8d73ccf954) 
 - [2021-02-02-【安全圈】Perl.com-官网被劫持用以分发恶意软件](https://sec.thief.one/article_content?a_id=98967d453fba0bc4aa9534fc54262c16) 
 - [2021-02-02-【漏洞通告】MinIO-服务端请求伪造漏洞](https://sec.thief.one/article_content?a_id=2261c2a4245f58b3cc4f49b4632590b2) 
-- [2021-02-02-奇安信获赛可达实验室两项大奖-终端安全能力再获认可](https://sec.thief.one/article_content?a_id=3e5771ea921bf3424767d0557cde9c9f) 
-- [2021-02-02-安全无休|绿盟科技SaaS安全服务免费试用指南](https://sec.thief.one/article_content?a_id=311254820f8b35b61ce51cf881aa8847) 
-- [2021-02-02-遇到威胁不要慌,安全大佬集体贡献应急响应方案!](https://sec.thief.one/article_content?a_id=708b3db8fc88a601003820dfbee6ab3e) 
-- [2021-02-02-2021-|-网络安全等级保护不可不知的几点内容](https://sec.thief.one/article_content?a_id=d0626799a00a5ad667d7f216a1f4caf0) 
-- [2021-02-02-信息安全漏洞周报2021年第5期](https://sec.thief.one/article_content?a_id=a84a8ad544bb7a9a29e1872fcd028c25) 

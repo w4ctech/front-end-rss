@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-04 23:54:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 00:08:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -76,8 +76,6 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
-- [2021-02-04-今天聊：为什么你简历上写不出亮点](https://juejin.im/post/6925328952068145165) 
-- [2021-02-03-若川的2020年度总结，水波不兴](https://juejin.im/post/6925267201372995597) 
 - [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) 
 - [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) 
 - [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) 
@@ -90,6 +88,8 @@
 - [2019-12-03-从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f) 
 - [2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
 - [2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
+- [2021-02-05-昨晚开门钻突然进来一只小橘猫，求领养，坐标深圳！](https://www.v2ex.com/t/751440) 
+- [2021-02-05-分享个配置好的-macOS-鼠须管-词库（含-12-个分类）](https://www.v2ex.com/t/751439) 
 - [2021-02-04-做个导航网站的导航网站，有前途吗？](https://www.v2ex.com/t/751437) 
 - [2021-02-04-前端引用开源-CDN-的字体、图标等，有什么好办法能下载到本地服务器吗？](https://www.v2ex.com/t/751433) 
 - [2021-02-04-吐槽一下美国-Apple-Store-换-AirPods-的超低效率](https://www.v2ex.com/t/751432) 
@@ -115,9 +115,6 @@
 - [2021-02-04-阿里云华东扑街？丢包竟然到了-4%！](https://www.v2ex.com/t/751396) 
 - [2021-02-04-macOS-Big-Sur-以来-Apple-Music-开始播放后几秒内音量过高的问题](https://www.v2ex.com/t/751394) 
 - [2021-02-04-有没有-typec-hub-，分多个-typec-出来，不是-usb-a-口](https://www.v2ex.com/t/751393) 
-- [2021-02-04-招-百度网盘-超级会员-拼车](https://www.v2ex.com/t/751390) 
-- [2021-02-04-每天看新闻联播，开启人生新视角。](https://www.v2ex.com/t/751389) 
-- [2021-02-04-坐上了回家的小火车，我却一点也开心不起来](https://www.v2ex.com/t/751388) 
 - [2021-02-04-JAVA反序列化漏洞实例解析](https://sec.thief.one/article_content?a_id=fb31c05295202d55497abe62da867ce3) 
 - [2021-02-04-参与抖音20亿大项目,拿3倍积分奖励!](https://sec.thief.one/article_content?a_id=eabf04cc4ba788247ccaa81e5aab72e2) 
 - [2021-02-04-2020年度最佳合作伙伴奖](https://sec.thief.one/article_content?a_id=e6728c998834682993c633c1bb3dba22) 

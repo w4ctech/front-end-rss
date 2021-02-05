@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-05 07:37:57，:rocket: 更新条数: +4261， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-05 07:48:13，:rocket: 更新条数: +4260， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1013,6 +1013,8 @@
 </summary>
 
 
+- [2021-02-05-小白请教加速器在光猫下失效的问题](https://www.v2ex.com/t/751596) ![](assets/new.png)  
+- [2021-02-05-分享一个-notepad3-的安装配置（右键添加-Edit-with-Nodepad3-菜单、设置启动语言默认简体中文）](https://www.v2ex.com/t/751595) ![](assets/new.png)  
 - [2021-02-05-想肉翻加拿大，看到一个适合程序员的途径，不知道大家有了解的没？](https://www.v2ex.com/t/751593) ![](assets/new.png)  
 - [2021-02-05-发现个-Pycharm-的代码模板不提示的-bug~](https://www.v2ex.com/t/751592) ![](assets/new.png)  
 - [2021-02-05-数据库要实现一个固定大小的用户消息队列要怎做？（术语似乎是叫环形队列](https://www.v2ex.com/t/751591) ![](assets/new.png)  
@@ -1031,8 +1033,6 @@
 - [2021-02-05-请问-macOS-上的鼠须管是否可以通过命令行重新部署吗？](https://www.v2ex.com/t/751576) ![](assets/new.png)  
 - [2021-02-05-Python-数据结构内存占用是原始数据的-5-倍左右](https://www.v2ex.com/t/751574) ![](assets/new.png)  
 - [2021-02-05-利用-Github-Actions-写-Markdown-文章，自动更新到-WordPress](https://www.v2ex.com/t/751573) ![](assets/new.png)  
-- [2021-02-05-API-开源的管理平台](https://www.v2ex.com/t/751572) ![](assets/new.png)  
-- [2021-02-05-Clubhouse-该如何玩](https://www.v2ex.com/t/751571) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-05 07:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 08:05:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -23,5 +23,4 @@
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-02-05-上海SAP-Consumer-Industry-Cloud-大量招聘了！](https://www.v2ex.com/t/751586) 
 - [2021-02-05-「深圳｜-15-28k」量城科技-2021-数据分析师招聘](https://www.v2ex.com/t/751583) 
-- [2021-02-05-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) 
 - [2021-02-05-推荐-阿里面试官问我-Java-线程和操作系统线程什么关系](https://toutiao.io/k/oh81sch) 

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-02-05 15:30:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 15:40:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-05-将自己在用的主题-Pure-移植到-Hexo-上了](https://www.v2ex.com/t/751706) 
+- [2021-02-05-keychron-k1-到了，无法在开机的时候使用-option-键选择启动硬盘](https://www.v2ex.com/t/751705) 
+- [2021-02-05-由-Notepad++帖子和哪里有好的实事讨论区想到的](https://www.v2ex.com/t/751704) 
 - [2021-02-05-如何在-Mongoose-里面获取子文档的兄弟？](https://www.v2ex.com/t/751702) 
 - [2021-02-05-北京联通宽带的上行提速包又上架了](https://www.v2ex.com/t/751701) 
 - [2021-02-05-分享一个跨平台的操作数据库工具](https://www.v2ex.com/t/751700) 
@@ -38,5 +41,3 @@
 - [2021-02-05-推荐一些-YT-频道](https://www.v2ex.com/t/751662) 
 - [2021-02-05-VUE2-异步更新视图，为什么要在-watcher.update-时创建队列](https://www.v2ex.com/t/751661) 
 - [2021-02-05-大家平时是怎么看股票的资金的流入流出的？](https://www.v2ex.com/t/751657) 
-- [2021-02-05-有什么程序或者写法，可以自动运行提交信息给另一个网页，然后在接受信息](https://www.v2ex.com/t/751655) 
-- [2021-02-05-今天-MacBook-Pro-的-Touch-Bar-突然不亮了](https://www.v2ex.com/t/751654) 

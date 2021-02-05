@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-05 03:45:37，:rocket: 更新条数: +986， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-05 03:54:02，:rocket: 更新条数: +4261， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-02-05-2月4日全国新增确诊病例20例-本土病例6例](https://m.caixin.com/m/2021-02-05/101660602.html) ![](assets/new.png)  
+- [2021-02-05-吉林省2月4日无新增确诊病例-新增无症状感染者2例](https://m.caixin.com/m/2021-02-05/101660599.html) ![](assets/new.png)  
+- [2021-02-05-上海2月4日新增1例本地确诊病例-常住浦东新区](https://m.caixin.com/m/2021-02-05/101660585.html) ![](assets/new.png)  
+- [2021-02-05-黑龙江2月4日新增确诊病例5例-无症状感染者3例](https://m.caixin.com/m/2021-02-05/101660582.html) ![](assets/new.png)  
+- [2021-02-05-新冠疫苗接种意愿上升-英国研究混打功效｜大流行手记（2月4日）](https://m.caixin.com/m/2021-02-05/101660616.html) ![](assets/new.png)  
+- [2021-02-04-最新海外疫情：新冠感染超1.04亿-累计死亡超226万](http://m.international.caixin.com/m/2021-02-04/101660420.html) ![](assets/new.png)  
+- [2021-02-04-吉林2月3日新增8例本地确诊病例-长春2例通化6例](https://m.caixin.com/m/2021-02-04/101660156.html) ![](assets/new.png)  
+- [2021-02-04-河北2月3日新增2例本地确诊病例-均在石家庄（附轨迹）](https://m.caixin.com/m/2021-02-04/101660153.html) ![](assets/new.png)  
+- [2021-02-04-上海2月3日新增3例本地确诊病例-常住黄浦区和宝山区](https://m.caixin.com/m/2021-02-04/101660139.html) ![](assets/new.png)  
+- [2021-02-04-黑龙江2月3日新增确诊病例4例-无症状感染者1例](https://m.caixin.com/m/2021-02-04/101660132.html) ![](assets/new.png)  
+- [2021-02-04-【境内疫情观察】全国新增17例本土病例（2月3日）](http://m.database.caixin.com/m/2021-02-04/101660315.html) ![](assets/new.png)  
+- [2021-02-04-牛津称打一剂阿斯利康疫苗有效率超七成-中国拟向COVAX计划供1000万剂疫苗｜大流行手记（2月3日）](https://m.caixin.com/m/2021-02-04/101660161.html) ![](assets/new.png)  
+- [2021-02-03-石家庄：即日起，全面推动复工复产](https://m.caixin.com/m/2021-02-03/101659966.html) ![](assets/new.png)  
+- [2021-02-03-河北2月2日新增1例本地确诊病例-在石家庄（附轨迹）](https://m.caixin.com/m/2021-02-03/101659567.html) ![](assets/new.png)  
+- [2021-02-03-吉林2月2日新增8例确诊病例-长春3例通化5例](https://m.caixin.com/m/2021-02-03/101659563.html) ![](assets/new.png)  
+- [2021-02-03-黑龙江2月2日新增6例确诊病例-3例无症状感染者](https://m.caixin.com/m/2021-02-03/101659560.html) ![](assets/new.png)  
+- [2021-02-03-【境内疫情观察】黑龙江哈尔滨利民开发区利民街道升为高风险地区（2月2日）](http://m.database.caixin.com/m/2021-02-03/101659795.html) ![](assets/new.png)  
+- [2021-02-03-英变异病毒再生突变-俄“卫星-V”疫苗三期临床有效性达91.6%｜大流行手记（2月2日）](https://m.caixin.com/m/2021-02-03/101659602.html) ![](assets/new.png)  
+- [2021-02-02-河北2月1日无新增新冠确诊病例](https://m.caixin.com/m/2021-02-02/101659006.html) ![](assets/new.png)  
+- [2021-02-02-吉林2月1日新增确诊病例4例-无症状感染者3例](https://m.caixin.com/m/2021-02-02/101659014.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -993,6 +1013,11 @@
 </summary>
 
 
+- [2021-02-05-homepod-mini-无法使用接力功能](https://www.v2ex.com/t/751518) ![](assets/new.png)  
+- [2021-02-05-学好不容易，学坏一出溜](https://www.v2ex.com/t/751516) ![](assets/new.png)  
+- [2021-02-05-量游资产-招聘：量化研究/开发工程师](https://www.v2ex.com/t/751515) ![](assets/new.png)  
+- [2021-02-05-迫于年底，我有一些-OFFER-待认领！](https://www.v2ex.com/t/751514) ![](assets/new.png)  
+- [2021-02-05-请教-iPhone-数字密码经常少输一位的-bug-在-iOS14-解决了吗？](https://www.v2ex.com/t/751513) ![](assets/new.png)  
 - [2021-02-05-泉州有什么互联网公司推荐的吗？](https://www.v2ex.com/t/751512) ![](assets/new.png)  
 - [2021-02-05-设置微信群自己的昵称为网址-其他人就可以直接点击进入是怎么设置的？](https://www.v2ex.com/t/751511) ![](assets/new.png)  
 - [2021-02-05-有什么关于技术分享技术讲座的网站？](https://www.v2ex.com/t/751510) ![](assets/new.png)  
@@ -1008,11 +1033,6 @@
 - [2021-02-05-Win+Tab-任务视图-可以关闭动画吗](https://www.v2ex.com/t/751498) ![](assets/new.png)  
 - [2021-02-05-租房-C2C-的-idea，盼同好交流](https://www.v2ex.com/t/751497) ![](assets/new.png)  
 - [2021-02-05-diy-主机谨慎使用廉价-rgb](https://www.v2ex.com/t/751496) ![](assets/new.png)  
-- [2021-02-05-迫于焦虑，想了解一下医生这个行业的竞争与内卷](https://www.v2ex.com/t/751495) ![](assets/new.png)  
-- [2021-02-05-成都金融城12k-20khuski.ai-招聘全栈开发工程师](https://www.v2ex.com/t/751494) ![](assets/new.png)  
-- [2021-02-05-笔记本预装的-Office-家庭学生版可以转移给其他账号吗？](https://www.v2ex.com/t/751493) ![](assets/new.png)  
-- [2021-02-05-请问下-markdown-中的-table-中的``里面如何转义|字符呢？](https://www.v2ex.com/t/751492) ![](assets/new.png)  
-- [2021-02-05-就地过年你打算怎么过](https://www.v2ex.com/t/751491) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

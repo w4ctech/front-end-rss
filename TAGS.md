@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-05 07:08:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 07:30:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -468,6 +468,7 @@
 
 
 - [【前端开发】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/c1ab6af9e5de8317d968010524e4db03)
+- [【开发者头条】推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -521,8 +522,8 @@
 - [【前端日刊】笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b)
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
+- [【V2EX】上海SAP-Consumer-Industry-Cloud-大量招聘了！](https://www.v2ex.com/t/751586)
 - [【V2EX】「深圳｜-15-28k」量城科技-2021-数据分析师招聘](https://www.v2ex.com/t/751583)
-- [【V2EX】上海/北京-年前大量-hc，-Java-后端、前端、测试简历砸过来，面试流程快](https://www.v2ex.com/t/751542)
 - [【开发者头条】推荐-阿里面试官问我-Java-线程和操作系统线程什么关系](https://toutiao.io/k/oh81sch)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-05 07:08:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 07:30:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,6 +35,7 @@
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2021-02-04-Chrome-Extensions-开发简介](https://juejin.im/post/6925657427908132877) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-02-05-Java-websocket-部署-centos7.6,同时连接-7000-个连接，总是报文件打开过多，有大佬处理过这种高并发吗](https://www.v2ex.com/t/751587) 
 - [2021-02-05-Chrome-浏览器-"阅读清单"如何关闭?](https://www.v2ex.com/t/751577) 
 - [2021-02-05-没错！100%-解决浏览器内存占用大的问题](https://toutiao.io/k/fi5wji4) 
 - [2021-02-05-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) 

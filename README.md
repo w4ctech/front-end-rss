@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-05 18:33:56，:rocket: 更新条数: +4258， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-05 18:44:09，:rocket: 更新条数: +4254， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -96,10 +96,6 @@
 </summary>
 
 
-- [2021-02-05-全国｜走出武汉实验室，世卫专家的话要让西方一些人失望了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHexbAeDC1m0mACkMwcrZ210205&isfromapp=1) ![](assets/new.png)  
-- [2021-02-05-山西｜两节期间不再审批大型群众性活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinboADhWW84cmeJj2impy210205&isfromapp=1) ![](assets/new.png)  
-- [2021-02-05-河北｜除藁城区外-石家庄-57-个高速出市口均已开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilD7gZWLodMIHCRC90M92210205&isfromapp=1) ![](assets/new.png)  
-- [2021-02-04-2.4｜上海浦东发现核酸结果可疑，山西涉疫奶枣食用者首次核酸阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLmB0k12naNxSJadYmIdm210204&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

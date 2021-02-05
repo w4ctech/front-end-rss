@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-02-05 02:35:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 02:42:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-05-不喜欢-Notepad++的态度，求-Win-下替代软件？](https://www.v2ex.com/t/751483) 
+- [2021-02-05-过年回不了家干点啥好](https://www.v2ex.com/t/751482) 
 - [2021-02-05-老赵在-clubhouse-纽约文化沙龙在开线上分享](https://www.v2ex.com/t/751481) 
 - [2021-02-05-问下有没有开源的中国象棋-app？](https://www.v2ex.com/t/751480) 
 - [2021-02-05-FinTech-社区-招聘：基本面量化研究](https://www.v2ex.com/t/751478) 
@@ -42,5 +44,3 @@
 - [2021-02-04-求教那些-patch-方法管理的仓库怎么迁移到-git](https://www.v2ex.com/t/751438) 
 - [2021-02-04-做个导航网站的导航网站，有前途吗？](https://www.v2ex.com/t/751437) 
 - [2021-02-04-微信消息内容安全吗](https://www.v2ex.com/t/751434) 
-- [2021-02-04-前端引用开源-CDN-的字体、图标等，有什么好办法能下载到本地服务器吗？](https://www.v2ex.com/t/751433) 
-- [2021-02-04-吐槽一下美国-Apple-Store-换-AirPods-的超低效率](https://www.v2ex.com/t/751432) 

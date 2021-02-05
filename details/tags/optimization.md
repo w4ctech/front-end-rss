@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-05 10:43:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 10:51:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -24,4 +24,3 @@
 - [2021-02-05-实习-微软亚洲研究院-机器学习系统网络优化实习生实习生](https://www.v2ex.com/t/751639) 
 - [2021-02-05-内联函数和编译器对-Go-代码的优化](https://toutiao.io/k/6m0flfq) 
 - [2021-02-05-腾讯基于-Flink-SQL-的功能扩展与深度优化实践](https://toutiao.io/k/iixgu21) 
-- [2021-02-05-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) 

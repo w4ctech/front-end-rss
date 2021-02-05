@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-05 10:43:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 10:51:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -381,6 +381,7 @@
 - [【凹凸实验室】探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
+- [【掘金前端】图片压缩Canvas](https://juejin.im/post/6925719941962268680)
 - [【安全热点】2月5日GUIBI早内参-以太坊市值升至全球资产第48位,超越百事等公司](https://sec.thief.one/article_content?a_id=ae7f6ca4e0d21157ba0acd1713ce6175)
 - [【安全热点】2月4日GUIBI早内参-比特币突破3.8万美金,价值10亿美元的比特币期...](https://sec.thief.one/article_content?a_id=32160d29ed0df0a446398e51f3716b1b)
 - [【安全热点】2月3日GUIBI早内参-以太坊市值升至全球资产第56位,超越埃森哲等公...](https://sec.thief.one/article_content?a_id=d6c976b7f151fc265289e467df2e954d)
@@ -453,7 +454,6 @@
 - [【V2EX】实习-微软亚洲研究院-机器学习系统网络优化实习生实习生](https://www.v2ex.com/t/751639)
 - [【开发者头条】内联函数和编译器对-Go-代码的优化](https://toutiao.io/k/6m0flfq)
 - [【开发者头条】腾讯基于-Flink-SQL-的功能扩展与深度优化实践](https://toutiao.io/k/iixgu21)
-- [【开发者头条】推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -537,6 +537,7 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【V2EX】有没有图形化的工具来配置-nginx？](https://www.v2ex.com/t/751617)
+- [【开发者头条】推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -659,9 +660,11 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊89669例-本土病例新增6例](https://m.caixin.com/m/2021-02-05/101661003.html)
 - [【武汉肺炎防疫全纪录(财新网)】吉林省2月4日无新增确诊病例-新增无症状感染者2例](https://m.caixin.com/m/2021-02-05/101660599.html)
 - [【武汉肺炎防疫全纪录(财新网)】上海2月4日新增1例本地确诊病例-常住浦东新区](https://m.caixin.com/m/2021-02-05/101660585.html)
 - [【武汉肺炎防疫全纪录(财新网)】黑龙江2月4日新增确诊病例5例-无症状感染者3例](https://m.caixin.com/m/2021-02-05/101660582.html)
+- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染近1.05亿-累计死亡近228万](http://m.international.caixin.com/m/2021-02-05/101660999.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增14例境外输入病例（2月4日）](http://m.database.caixin.com/m/2021-02-05/101660797.html)
 - [【武汉肺炎防疫全纪录(财新网)】新冠疫苗接种意愿上升-英国研究混打功效｜大流行手记（2月4日）](https://m.caixin.com/m/2021-02-05/101660616.html)
 - [【武汉肺炎防疫全纪录(财新网)】吉林2月3日新增8例本地确诊病例-长春2例通化6例](https://m.caixin.com/m/2021-02-04/101660156.html)
@@ -677,8 +680,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】黑龙江哈尔滨利民开发区利民街道升为高风险地区（2月2日）](http://m.database.caixin.com/m/2021-02-03/101659795.html)
 - [【武汉肺炎防疫全纪录(财新网)】英变异病毒再生突变-俄“卫星-V”疫苗三期临床有效性达91.6%｜大流行手记（2月2日）](https://m.caixin.com/m/2021-02-03/101659602.html)
 - [【武汉肺炎防疫全纪录(财新网)】河北2月1日无新增新冠确诊病例](https://m.caixin.com/m/2021-02-02/101659006.html)
-- [【武汉肺炎防疫全纪录(财新网)】吉林2月1日新增确诊病例4例-无症状感染者3例](https://m.caixin.com/m/2021-02-02/101659014.html)
-- [【武汉肺炎防疫全纪录(财新网)】黑龙江2月1日新增8例确诊病例-4例无症状感染者](https://m.caixin.com/m/2021-02-02/101659000.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

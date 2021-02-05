@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-05 10:51:51，:rocket: 更新条数: +4261， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-05 11:04:26，:rocket: 更新条数: +4261， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1013,6 +1013,10 @@
 </summary>
 
 
+- [2021-02-05-求助一个-lighttpd-auth-认证的问题](https://www.v2ex.com/t/751653) ![](assets/new.png)  
+- [2021-02-05-7-点钟就开始下班放假了，对放假感到不开心](https://www.v2ex.com/t/751652) ![](assets/new.png)  
+- [2021-02-05-活动监视器的磁盘监视，统计量是从上一次开机开始计算还是从上一次睡眠唤醒开始计算](https://www.v2ex.com/t/751651) ![](assets/new.png)  
+- [2021-02-05-运维是鄙视链底层吗？](https://www.v2ex.com/t/751650) ![](assets/new.png)  
 - [2021-02-05-Clubhouse-真的很像不久以前我测试过的一个-app](https://www.v2ex.com/t/751649) ![](assets/new.png)  
 - [2021-02-05-百度免费加速器内测---带宽-8-10Mbps---注册拳头账户，加速-LOL，吃鸡，-Nintendo-Switch-Online，-Twitch-直播，日本二次元游戏，有什么想加速的直接进群提](https://www.v2ex.com/t/751648) ![](assets/new.png)  
 - [2021-02-05-数据库迁移，恢复热备数据，为什么恢复不了？](https://www.v2ex.com/t/751647) ![](assets/new.png)  
@@ -1029,10 +1033,6 @@
 - [2021-02-05-工作选择-南都全媒体-or-碧桂园博智林-怎么选](https://www.v2ex.com/t/751633) ![](assets/new.png)  
 - [2021-02-05-男朋友好烦](https://www.v2ex.com/t/751632) ![](assets/new.png)  
 - [2021-02-05-FUNPLUS-趣加-大量岗位内推](https://www.v2ex.com/t/751631) ![](assets/new.png)  
-- [2021-02-05-快放假了，公司还没提十三薪的事情，我私下去问下人事合不合适？](https://www.v2ex.com/t/751630) ![](assets/new.png)  
-- [2021-02-05-深圳联通宽带问题求教](https://www.v2ex.com/t/751629) ![](assets/new.png)  
-- [2021-02-05-刚才在-nga-看到一个关于男同性恋的讨论贴](https://www.v2ex.com/t/751628) ![](assets/new.png)  
-- [2021-02-05-朋友们，上次说要搞-defi，这次来前端和智能合约开发的伙伴了；非常不好意思，让部分水友失望了，不仅局攒成了，居然还拿到了投资。](https://www.v2ex.com/t/751627) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

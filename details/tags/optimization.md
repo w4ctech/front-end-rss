@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-05 02:10:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 02:25:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -22,4 +22,3 @@
 - [2021-01-05-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2021-02-05-内联函数和编译器对-Go-代码的优化](https://toutiao.io/k/6m0flfq) 
-- [2021-02-05-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) 

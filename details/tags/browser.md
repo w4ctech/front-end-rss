@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-05 02:10:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-05 02:25:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,6 +44,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-05-The-Great-Suspender-因为恶意漏洞被-Chrome-商店下架了](https://www.v2ex.com/t/751442) 
 - [2021-02-04-微信消息内容安全吗](https://www.v2ex.com/t/751434) 
+- [2021-02-05-Chrome-开发者工具的11-个高级使用技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14123&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1su3vYIMcSQbslnJ3oUWwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-05-没错！100%-解决浏览器内存占用大的问题](https://toutiao.io/k/fi5wji4) 
 - [2021-02-05-安全招聘汇总-|-第九期](https://sec.thief.one/article_content?a_id=8ee39a12679fc68f41cb873e233e23e1) 
 - [2021-02-04-谷歌提出开源安全漏洞的处理新框架](https://sec.thief.one/article_content?a_id=c6238e26509411fe527667f91e3d6aa1) 

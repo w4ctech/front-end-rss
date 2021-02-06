@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-06 11:08:16，:rocket: 更新条数: +4254， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-06 11:27:39，:rocket: 更新条数: +4252， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,12 +1012,12 @@
 </summary>
 
 
+- [2021-02-06-请教一个电脑小白的问题，鼠标右键弹出来的菜单里面的条目如何用快捷键选择？](https://www.v2ex.com/t/751870) ![](assets/new.png)  
 - [2021-02-06-更符合直觉的-Snippet-输入方式](https://www.v2ex.com/t/751869) ![](assets/new.png)  
 - [2021-02-06-求证一下现在的上网行为感知能做到什么地步？](https://www.v2ex.com/t/751866) ![](assets/new.png)  
 - [2021-02-06-仿国外-pinterest-做的-App-上线了,ios-用户可下体验](https://www.v2ex.com/t/751864) ![](assets/new.png)  
 - [2021-02-06-苹果这浓眉大眼的也。。。](https://www.v2ex.com/t/751863) ![](assets/new.png)  
 - [2021-02-06-速盘是不是也被跑路了？](https://www.v2ex.com/t/751861) ![](assets/new.png)  
-- [2021-02-06-明盘-255RMB-出一个耶鲁大学校友](https://www.v2ex.com/t/751860) ![](assets/new.png)  
 - [2021-02-06-深圳哪里买烟比较好？](https://www.v2ex.com/t/751859) ![](assets/new.png)  
 - [2021-02-06-留深圳还是到广州工作？](https://www.v2ex.com/t/751858) ![](assets/new.png)  
 - [2021-02-06-为啥有些鸡场（红莓/羊圈。）要用手机号绑定才能试用？而且还只接受三大运营商的手机号。。。](https://www.v2ex.com/t/751857) ![](assets/new.png)  
@@ -1084,16 +1084,16 @@
 - [2021-02-06-这位图灵奖得主大佬，你可知道？](https://toutiao.io/k/wrv2dc4) ![](assets/new.png)  
 - [2021-02-06-实现-Web-端自定义截屏](https://toutiao.io/k/rnph6i4) ![](assets/new.png)  
 - [2021-02-06-边缘计算场景下云边端一体化的挑战与实践](https://toutiao.io/k/u7evc2j) ![](assets/new.png)  
-- [2021-02-06-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
-- [2021-02-06-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
+- [2021-02-06-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
 - [2021-02-06-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
-- [2021-02-06-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) ![](assets/new.png)  
 - [2021-02-06-推荐-阿里面试官问我-Java-线程和操作系统线程什么关系](https://toutiao.io/k/oh81sch) ![](assets/new.png)  
-- [2021-02-06-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) ![](assets/new.png)  
-- [2021-02-06-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-06-推荐-微服务实现简单的分布式日志追踪](https://toutiao.io/k/s7af3dl) ![](assets/new.png)  
-- [2021-02-06-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
 - [2021-02-06-推荐-DDD-实现之路](https://toutiao.io/k/9r5qrcy) ![](assets/new.png)  
+- [2021-02-06-推荐-最终一致性，一致只会迟到，但绝不会缺席](https://toutiao.io/k/9q7yxnu) ![](assets/new.png)  
+- [2021-02-06-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
+- [2021-02-06-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
+- [2021-02-06-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-06-推荐-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
+- [2021-02-06-推荐-微服务实现简单的分布式日志追踪](https://toutiao.io/k/s7af3dl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

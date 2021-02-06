@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-06 18:56:35，:rocket: 更新条数: +4255， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-06 19:04:03，:rocket: 更新条数: +4230， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
@@ -1012,6 +1012,7 @@
 </summary>
 
 
+- [2021-02-06-10-年程序员-vs-公务员](https://www.v2ex.com/t/751931) ![](assets/new.png)  
 - [2021-02-06-网易云音乐擅自操作用户关注](https://www.v2ex.com/t/751929) ![](assets/new.png)  
 - [2021-02-06-2021-年了-换路由器哪家强？](https://www.v2ex.com/t/751928) ![](assets/new.png)  
 - [2021-02-06-在-marcaria-注册域名要求公司注册证明怎么解决？](https://www.v2ex.com/t/751927) ![](assets/new.png)  
@@ -1031,7 +1032,6 @@
 - [2021-02-06-ios-的待办提醒怎么能用闹钟提醒-默认的提醒方式太容易忽略了](https://www.v2ex.com/t/751909) ![](assets/new.png)  
 - [2021-02-06-想把旧的-iPad-Air-和-iPad-Mini-卖了换新款，有什么好渠道吗？](https://www.v2ex.com/t/751908) ![](assets/new.png)  
 - [2021-02-06-mongodb-有没有方法可以判断一个-filter-文档是否满足某一个数据文档](https://www.v2ex.com/t/751907) ![](assets/new.png)  
-- [2021-02-06-防止宠物丢失的装置](https://www.v2ex.com/t/751906) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,26 +1074,6 @@
 </summary>
 
 
-- [2021-02-06-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-06-如何改变-Docker-的数据目录](https://toutiao.io/k/etee1wd) ![](assets/new.png)  
-- [2021-02-06-日常开发之重构](https://toutiao.io/k/zxi5ajb) ![](assets/new.png)  
-- [2021-02-06-开源了！从-0-到-1-实现-“合成大西瓜”](https://toutiao.io/k/jpidpq7) ![](assets/new.png)  
-- [2021-02-06-美团图数据库平台建设及业务实践](https://toutiao.io/k/c4zr3qj) ![](assets/new.png)  
-- [2021-02-06-Doris-SQL-原理解析](https://toutiao.io/k/vn9hzv2) ![](assets/new.png)  
-- [2021-02-06-这位图灵奖得主大佬，你可知道？](https://toutiao.io/k/wrv2dc4) ![](assets/new.png)  
-- [2021-02-06-实现-Web-端自定义截屏](https://toutiao.io/k/rnph6i4) ![](assets/new.png)  
-- [2021-02-06-边缘计算场景下云边端一体化的挑战与实践](https://toutiao.io/k/u7evc2j) ![](assets/new.png)  
-- [2021-02-06-导航组件概览：MAD-Skills](https://toutiao.io/k/vs7o8yj) ![](assets/new.png)  
-- [2021-02-06-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
-- [2021-02-06-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
-- [2021-02-06-推荐-DDD-实现之路](https://toutiao.io/k/9r5qrcy) ![](assets/new.png)  
-- [2021-02-06-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
-- [2021-02-06-推荐-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
-- [2021-02-06-推荐-跳表：会跳的链表原来这么-diao](https://toutiao.io/k/fobkj0c) ![](assets/new.png)  
-- [2021-02-06-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
-- [2021-02-06-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
-- [2021-02-06-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
-- [2021-02-06-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

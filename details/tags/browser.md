@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-06 06:09:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-06 06:33:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,7 +43,6 @@
 - [2021-02-03-云计算助力影视行业，揭开《刺杀小说家》电影特效渲染的秘密](https://www.ershicimi.com/p/e3e84eb1e9c41d42fcdb8abe95686020) 
 - [2021-02-02-Apache-软件基金会-2020-安全报告：六件值得被关注的事](https://www.ershicimi.com/p/13f8ca47c355c4c533f63679834b188c) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
-- [2021-02-05-三分钟知识点：http请求流程](https://juejin.im/post/6925716461897908237) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-06-chrome-地址栏按-tab-切换候选时如何不让它切到“移除推荐内容”按钮上？](https://www.v2ex.com/t/751789) 
 - [2021-02-06-《北向文集-面向2021》-13期-文森峰论坛-|-段海新-DNS安全的前世今生...](https://sec.thief.one/article_content?a_id=2ae0e41fe71d6fc0d8e0f97cb14596d9) 

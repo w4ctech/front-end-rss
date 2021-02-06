@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-02-06 12:10:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-06 12:39:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-06-安卓手机要用语音输入的话还是只能选讯飞啊](https://www.v2ex.com/t/751884) 
+- [2021-02-06-ubuntu-应对卡死存档重启桌面技巧](https://www.v2ex.com/t/751883) 
+- [2021-02-06-为什么我不喜欢"钉钉"？](https://www.v2ex.com/t/751881) 
 - [2021-02-06-分享取消](https://www.v2ex.com/t/751880) 
 - [2021-02-06-这个电池损耗速度是不是太快了，感觉抗不了多久了](https://www.v2ex.com/t/751879) 
 - [2021-02-06-云原生项目实践-DevOpsGitOps+K8S+BPF+SRE，从-0-到-1-使用-Golang-开发生产级麻将游戏服务器—第-3-篇](https://www.v2ex.com/t/751878) 
@@ -38,6 +41,3 @@
 - [2021-02-06-大量-sunionstore-怎么提高性能？](https://www.v2ex.com/t/751838) 
 - [2021-02-06-R2s-IPTV&互联网融合疑问](https://www.v2ex.com/t/751837) 
 - [2021-02-06-鹅厂轻量/Scaleway-连接-WARP-获取-IPv6/IPv4](https://www.v2ex.com/t/751835) 
-- [2021-02-06-除了-Google-Play-商店-还有什么商店比较方便安装-app-的-比如-tg-dropbox-这类酷安上也没有的](https://www.v2ex.com/t/751833) 
-- [2021-02-06-Coursera-的课程有需要的么？免费送](https://www.v2ex.com/t/751832) 
-- [2021-02-06-在所有工作中，编程对智力要求是不是算高的？](https://www.v2ex.com/t/751831) 

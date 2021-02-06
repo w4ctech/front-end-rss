@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-06 03:30:43，:rocket: 更新条数: +4245， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-06 03:40:36，:rocket: 更新条数: +4244， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -799,6 +799,18 @@
 </summary>
 
 
+- [2021-02-06-9名程序员被抓！这次我并不同情他们！](https://www.ershicimi.com/p/fd65d35b8a72f80e809312cffff969cd) ![](assets/new.png)  
+- [2021-02-06-我们公司放弃了微服务，重回单体架构](https://www.ershicimi.com/p/5bd6cfcc8456f4de8f3ff97b42edb69b) ![](assets/new.png)  
+- [2021-02-06-2021-年-Web-开发的-7-大趋势，我只能说牛逼！](https://www.ershicimi.com/p/1d777d54716915f6fbcf467e6c5bff68) ![](assets/new.png)  
+- [2021-02-05-收到大厂-Offer之后，我难过的睡不着，决定....](https://www.ershicimi.com/p/3a8cef9b14c25c62b82d670d5f26125f) ![](assets/new.png)  
+- [2021-02-05-新来的老大说，“公司以后禁止使用Lombok”，我表示反对~](https://www.ershicimi.com/p/256ab58555ac0ccbebf579689d3152e0) ![](assets/new.png)  
+- [2021-02-05-为什么-Nginx-比-Apache-更牛叉？](https://www.ershicimi.com/p/087030cd225833ccffcd42f6fb40fbee) ![](assets/new.png)  
+- [2021-02-04-阿里-Nacos-惊爆安全漏洞，火速升级！](https://www.ershicimi.com/p/8e55eb2dc31e7ef154fadd9a2ba16b26) ![](assets/new.png)  
+- [2021-02-04-面试官：你能说清楚分布式锁，进程锁，线程锁的区别吗？](https://www.ershicimi.com/p/5e7c40e3cb1e149daf0bf89b43a251b8) ![](assets/new.png)  
+- [2021-02-04-日志收集神器-Logstash，闪亮登场～](https://www.ershicimi.com/p/ff72287e28f7f014998cef40e05fcb9e) ![](assets/new.png)  
+- [2021-02-03-太火了！MyBatis-Plus为啥这么牛？](https://www.ershicimi.com/p/7f715c906c101cc8ee4ab97c24832b5b) ![](assets/new.png)  
+- [2021-02-03-腾讯推出高性能-RPC-开发框架](https://www.ershicimi.com/p/d3a73492ed6e31f4db98669c00a63fa7) ![](assets/new.png)  
+- [2021-02-03-并发减库存，怎么保证不超卖？](https://www.ershicimi.com/p/c77b451a4c73dd7832c6763f14d7e00f) ![](assets/new.png)  
 - [2021-02-02-TMD，肾虚了...早知道不看这些网站了！](https://www.ershicimi.com/p/ae8275fac9500cad456b04f19479827d) ![](assets/new.png)  
 - [2021-02-02-推荐一款日志切割神器！我常用~](https://www.ershicimi.com/p/6158a1d633cf4271524612b6286ba5f1) ![](assets/new.png)  
 - [2021-02-02-如何合理地估算线程池大小？](https://www.ershicimi.com/p/eb432fc9dc747cdda483d9b8f3e52661) ![](assets/new.png)  
@@ -807,18 +819,6 @@
 - [2021-02-01-重庆百架无人机集体撞楼，疑因程序写错，程序员背锅。。](https://www.ershicimi.com/p/f2f2309b076d4062f0a5bdbd5bf92924) ![](assets/new.png)  
 - [2021-01-31-收到阿里年终奖后，我感觉穷的睡不着，网友：贫穷限制了我的想象力](https://www.ershicimi.com/p/9921d8ed3496d23d32edc16528087be3) ![](assets/new.png)  
 - [2021-01-31-IntelliJ-IDEA-卡成球了？](https://www.ershicimi.com/p/d3c6ce786ff5bcfed4d443e7f8fd9c6c) ![](assets/new.png)  
-- [2021-01-31-StackOverflow热帖：Java整数相加溢出怎么办？Java8一步搞定~](https://www.ershicimi.com/p/e483cc368514e615953cce85b73c75db) ![](assets/new.png)  
-- [2021-01-30-技术公司与非技术公司的区别，太真实了…](https://www.ershicimi.com/p/5d4adb6401759a0c56c7ed3ef2411b3f) ![](assets/new.png)  
-- [2021-01-30-微服务的简介和技术栈，太牛逼了！](https://www.ershicimi.com/p/c3da447143fdf058d9d5ff2486b237e3) ![](assets/new.png)  
-- [2021-01-30-程序员才懂的-1-首歌和-6-张图](https://www.ershicimi.com/p/95870927cd4c4ad58733644975247966) ![](assets/new.png)  
-- [2021-01-29-卧槽！Intellij-IDEA中竟然有这么多炫酷的插件，啪啪啪~](https://www.ershicimi.com/p/5fafa58e0440b9a961801692d6cea688) ![](assets/new.png)  
-- [2021-01-29-8,888+-字，彻底征服-Spring-AOP！](https://www.ershicimi.com/p/8944d39497de44352ce697f42c9b2b32) ![](assets/new.png)  
-- [2021-01-29-看了-Google-大神-Jeff-Dean-的传说，我拜服了～](https://www.ershicimi.com/p/69c23ea9282439571a366292440df95d) ![](assets/new.png)  
-- [2021-01-28-蚂蚁金服开源增强版-Spring-Boot-的研发框架！](https://www.ershicimi.com/p/ab6fac498e0f79a64a85ebcc358aec13) ![](assets/new.png)  
-- [2021-01-28-字节跳动员工晒出税后工资，网友：怀疑你是日薪](https://www.ershicimi.com/p/1560c3c9d48c2be256f2d8994f52528b) ![](assets/new.png)  
-- [2021-01-28-SpringBoot集成WebSocket，实现后台向前端推送信息](https://www.ershicimi.com/p/b1377779cd0a4e7583add7ef0b211879) ![](assets/new.png)  
-- [2021-01-27-女友的一个建议，让26岁程序员做了个价值-10-亿美元的-App](https://www.ershicimi.com/p/f96333482b9bbb284dad98aca34bd700) ![](assets/new.png)  
-- [2021-01-27-NullPointerException-的处理新方式，Java14-真的太香了！](https://www.ershicimi.com/p/fda75a2ba7a28c4129e693a5e9b6125e) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1012,6 +1012,7 @@
 </summary>
 
 
+- [2021-02-06-云游戏是全量传输画面还是增量？](https://www.v2ex.com/t/751774) ![](assets/new.png)  
 - [2021-02-06-看望生了小孩子-1-个多月后的妇女,-送啥好呢?](https://www.v2ex.com/t/751773) ![](assets/new.png)  
 - [2021-02-06-16-寸-macbook-有什么散热或者保持性能的好方法么](https://www.v2ex.com/t/751771) ![](assets/new.png)  
 - [2021-02-06-Android-图像编辑用什么实现比较好？](https://www.v2ex.com/t/751770) ![](assets/new.png)  
@@ -1031,7 +1032,6 @@
 - [2021-02-06-滴滴出行-北京、杭州、成都、深圳内推-前端/-Java-/Android/iOS/Go/算法/C++/-PHP-/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/751748) ![](assets/new.png)  
 - [2021-02-06-App-Store-充值优惠！-50-10，-10-随机减，一天一次](https://www.v2ex.com/t/751745) ![](assets/new.png)  
 - [2021-02-06-开始学习线代](https://www.v2ex.com/t/751744) ![](assets/new.png)  
-- [2021-02-06-Kurzgesagt-关于-Dyson-Sphere-概念的介绍视频](https://www.v2ex.com/t/751743) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1078,22 +1078,22 @@
 - [2021-02-06-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
 - [2021-02-06-日常开发之重构](https://toutiao.io/k/zxi5ajb) ![](assets/new.png)  
 - [2021-02-06-Doris-SQL-原理解析](https://toutiao.io/k/vn9hzv2) ![](assets/new.png)  
-- [2021-02-06-美团图数据库平台建设及业务实践](https://toutiao.io/k/c4zr3qj) ![](assets/new.png)  
 - [2021-02-06-开源了！从-0-到-1-实现-“合成大西瓜”](https://toutiao.io/k/jpidpq7) ![](assets/new.png)  
+- [2021-02-06-美团图数据库平台建设及业务实践](https://toutiao.io/k/c4zr3qj) ![](assets/new.png)  
 - [2021-02-06-导航组件概览：MAD-Skills](https://toutiao.io/k/vs7o8yj) ![](assets/new.png)  
 - [2021-02-06-这位图灵奖得主大佬，你可知道？](https://toutiao.io/k/wrv2dc4) ![](assets/new.png)  
 - [2021-02-06-实现-Web-端自定义截屏](https://toutiao.io/k/rnph6i4) ![](assets/new.png)  
 - [2021-02-06-边缘计算场景下云边端一体化的挑战与实践](https://toutiao.io/k/u7evc2j) ![](assets/new.png)  
-- [2021-02-06-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
-- [2021-02-06-推荐-最终一致性，一致只会迟到，但绝不会缺席](https://toutiao.io/k/9q7yxnu) ![](assets/new.png)  
-- [2021-02-06-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
-- [2021-02-06-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
-- [2021-02-06-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
-- [2021-02-06-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-06-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
-- [2021-02-06-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
 - [2021-02-06-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) ![](assets/new.png)  
+- [2021-02-06-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) ![](assets/new.png)  
+- [2021-02-06-推荐-DDD-实现之路](https://toutiao.io/k/9r5qrcy) ![](assets/new.png)  
+- [2021-02-06-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
+- [2021-02-06-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
+- [2021-02-06-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
 - [2021-02-06-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
+- [2021-02-06-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
+- [2021-02-06-推荐-最终一致性，一致只会迟到，但绝不会缺席](https://toutiao.io/k/9q7yxnu) ![](assets/new.png)  
+- [2021-02-06-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-02-06 07:48:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-06 08:05:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-06-2021-年给你的-MacbookPro-安装-Ubuntu](https://www.v2ex.com/t/751846) 
+- [2021-02-06-发现一个提词免费的手机提词器-app](https://www.v2ex.com/t/751844) 
+- [2021-02-06-移植了-20-万行代码才发现树莓派-Pico-双核-MCU-竟是三无产品?是真香还是真不香?](https://www.v2ex.com/t/751843) 
 - [2021-02-06-昨天坐飞机抖得非常厉害，我以为飞机要解体了](https://www.v2ex.com/t/751842) 
 - [2021-02-06-怎样让-Windows-沙盒在启动的时候自己安装好中文输入法](https://www.v2ex.com/t/751840) 
 - [2021-02-06-有大佬用过类似-HBase、TableStore-之类的-NoSQL-数据库吗？](https://www.v2ex.com/t/751839) 
@@ -39,7 +42,3 @@
 - [2021-02-06-职级对标-duibiao.info-小程序上线了](https://www.v2ex.com/t/751799) 
 - [2021-02-06-DTK-返现-$500-已经到账，-11.2-以后设备停止更新](https://www.v2ex.com/t/751798) 
 - [2021-02-06-docker-compose-部署-vue-element-admin-时候如何修改其中部分内容](https://www.v2ex.com/t/751797) 
-- [2021-02-06-Apple-回收-DTK-改成给$500，而且有效期延长到年底](https://www.v2ex.com/t/751796) 
-- [2021-02-06-招募兼职合伙人](https://www.v2ex.com/t/751795) 
-- [2021-02-06-DTK-返还规则改变，赠送-500＄](https://www.v2ex.com/t/751794) 
-- [2021-02-06-回收-DTK-价格涨价到$500-了](https://www.v2ex.com/t/751793) 

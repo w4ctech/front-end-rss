@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-06 02:41:14，:rocket: 更新条数: +4250， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-06 02:51:12，:rocket: 更新条数: +968， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-02-06-2月5日全国新增新冠12例-本土病例4例](https://m.caixin.com/m/2021-02-06/101661248.html) ![](assets/new.png)  
-- [2021-02-06-黑龙江2月5日新增确诊病例3例-均在绥化市望奎县](https://m.caixin.com/m/2021-02-06/101661217.html) ![](assets/new.png)  
-- [2021-02-06-吉林省2月5日新增确诊病例1例-无症状感染者1例](https://m.caixin.com/m/2021-02-06/101661209.html) ![](assets/new.png)  
-- [2021-02-06-多国拟签发“疫苗护照”便利出境-强生疫苗在美申请紧急使用｜大流行手记（2月5日）](https://m.caixin.com/m/2021-02-06/101661244.html) ![](assets/new.png)  
-- [2021-02-05-最新海外疫情：新冠感染近1.05亿-累计死亡近228万](http://m.international.caixin.com/m/2021-02-05/101660999.html) ![](assets/new.png)  
-- [2021-02-05-香港新冠病人称怕打针逃出医院-被判囚六个月](https://m.caixin.com/m/2021-02-05/101661036.html) ![](assets/new.png)  
-- [2021-02-05-吉林省2月4日无新增确诊病例-新增无症状感染者2例](https://m.caixin.com/m/2021-02-05/101660599.html) ![](assets/new.png)  
-- [2021-02-05-上海2月4日新增1例本地确诊病例-常住浦东新区](https://m.caixin.com/m/2021-02-05/101660585.html) ![](assets/new.png)  
-- [2021-02-05-黑龙江2月4日新增确诊病例5例-无症状感染者3例](https://m.caixin.com/m/2021-02-05/101660582.html) ![](assets/new.png)  
-- [2021-02-05-【境内疫情观察】全国新增14例境外输入病例（2月4日）](http://m.database.caixin.com/m/2021-02-05/101660797.html) ![](assets/new.png)  
-- [2021-02-05-新冠疫苗接种意愿上升-英国研究混打功效｜大流行手记（2月4日）](https://m.caixin.com/m/2021-02-05/101660616.html) ![](assets/new.png)  
-- [2021-02-04-吉林2月3日新增8例本地确诊病例-长春2例通化6例](https://m.caixin.com/m/2021-02-04/101660156.html) ![](assets/new.png)  
-- [2021-02-04-河北2月3日新增2例本地确诊病例-均在石家庄（附轨迹）](https://m.caixin.com/m/2021-02-04/101660153.html) ![](assets/new.png)  
-- [2021-02-04-上海2月3日新增3例本地确诊病例-常住黄浦区和宝山区](https://m.caixin.com/m/2021-02-04/101660139.html) ![](assets/new.png)  
-- [2021-02-04-黑龙江2月3日新增确诊病例4例-无症状感染者1例](https://m.caixin.com/m/2021-02-04/101660132.html) ![](assets/new.png)  
-- [2021-02-04-【境内疫情观察】全国新增17例本土病例（2月3日）](http://m.database.caixin.com/m/2021-02-04/101660315.html) ![](assets/new.png)  
-- [2021-02-04-牛津称打一剂阿斯利康疫苗有效率超七成-中国拟向COVAX计划供1000万剂疫苗｜大流行手记（2月3日）](https://m.caixin.com/m/2021-02-04/101660161.html) ![](assets/new.png)  
-- [2021-02-03-石家庄：即日起，全面推动复工复产](https://m.caixin.com/m/2021-02-03/101659966.html) ![](assets/new.png)  
-- [2021-02-03-河北2月2日新增1例本地确诊病例-在石家庄（附轨迹）](https://m.caixin.com/m/2021-02-03/101659567.html) ![](assets/new.png)  
-- [2021-02-03-吉林2月2日新增8例确诊病例-长春3例通化5例](https://m.caixin.com/m/2021-02-03/101659563.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1012,6 +992,8 @@
 </summary>
 
 
+- [2021-02-06-谷歌云免费-1-年明天到期了，到期要续费吗？还有-200-多刀的备用金没使用](https://www.v2ex.com/t/751760) ![](assets/new.png)  
+- [2021-02-06-送码-猜对腾讯股价，赠送-Percento-iOS-高级会员](https://www.v2ex.com/t/751757) ![](assets/new.png)  
 - [2021-02-06-实习-微软亚洲研究院-全球网络实时数据采集平台-Web-前端实习生](https://www.v2ex.com/t/751756) ![](assets/new.png)  
 - [2021-02-06-求科普，关于期权](https://www.v2ex.com/t/751755) ![](assets/new.png)  
 - [2021-02-06-初创-4-年---羽翼渐丰---火力全开---观远数据-2021-韧性成长-新年内推开启！-HC-多多，找我内推吧](https://www.v2ex.com/t/751754) ![](assets/new.png)  
@@ -1030,8 +1012,6 @@
 - [2021-02-06-类似-r9000x-的笔记本还有哪些推荐](https://www.v2ex.com/t/751737) ![](assets/new.png)  
 - [2021-02-06-从小就功能性消化不良，检查什么项目比较好？](https://www.v2ex.com/t/751733) ![](assets/new.png)  
 - [2021-02-06-被欠薪，大家都是怎么破的？](https://www.v2ex.com/t/751732) ![](assets/new.png)  
-- [2021-02-05-为什么手柄连接安卓设备经常需要连接电脑激活映射？这个过程没办法在设备上独立完成吗？](https://www.v2ex.com/t/751729) ![](assets/new.png)  
-- [2021-02-05-html-中-div-切换背景图片事件是否有办法绑定过度动画？](https://www.v2ex.com/t/751728) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,16 +1064,16 @@
 - [2021-02-06-这位图灵奖得主大佬，你可知道？](https://toutiao.io/k/wrv2dc4) ![](assets/new.png)  
 - [2021-02-06-实现-Web-端自定义截屏](https://toutiao.io/k/rnph6i4) ![](assets/new.png)  
 - [2021-02-06-边缘计算场景下云边端一体化的挑战与实践](https://toutiao.io/k/u7evc2j) ![](assets/new.png)  
-- [2021-02-06-推荐-跳表：会跳的链表原来这么-diao](https://toutiao.io/k/fobkj0c) ![](assets/new.png)  
-- [2021-02-06-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
+- [2021-02-06-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
 - [2021-02-06-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
+- [2021-02-06-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
 - [2021-02-06-推荐-最终一致性，一致只会迟到，但绝不会缺席](https://toutiao.io/k/9q7yxnu) ![](assets/new.png)  
-- [2021-02-06-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
-- [2021-02-06-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
-- [2021-02-06-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
-- [2021-02-06-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
-- [2021-02-06-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
 - [2021-02-06-推荐-DDD-实现之路](https://toutiao.io/k/9r5qrcy) ![](assets/new.png)  
+- [2021-02-06-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
+- [2021-02-06-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
+- [2021-02-06-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
+- [2021-02-06-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
+- [2021-02-06-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

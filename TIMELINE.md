@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-06 12:05:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-02-06 12:10:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -295,6 +295,7 @@
 - [【知乎日报】2021-02-01-知乎好问题：为什么会有人瞧不起《静夜思》《咏鹅》这类诗？](https://www.ershicimi.com/p/985655fe1d76c1f76d6592961c11b4d9) 
 - [【知乎日报】2021-02-01-春节太敏感？我建议你带这份锦囊回家](https://www.ershicimi.com/p/6b771fa7fd70677c75b269de286890f9) 
 - [【知乎日报】2021-02-01-知乎故事-|-你是从哪个细节发现男友/老公出轨的？](https://www.ershicimi.com/p/7ad5027657c197b59c26f0d4643ddd69) 
+- [【V2EX】2021-02-06-分享取消](https://www.v2ex.com/t/751880) 
 - [【V2EX】2021-02-06-这个电池损耗速度是不是太快了，感觉抗不了多久了](https://www.v2ex.com/t/751879) 
 - [【V2EX】2021-02-06-云原生项目实践-DevOpsGitOps+K8S+BPF+SRE，从-0-到-1-使用-Golang-开发生产级麻将游戏服务器—第-3-篇](https://www.v2ex.com/t/751878) 
 - [【V2EX】2021-02-06-是否能将奇迹暖暖真人化，用来以解决衣服穿搭问题](https://www.v2ex.com/t/751876) 
@@ -330,7 +331,6 @@
 - [【V2EX】2021-02-06-除了-Google-Play-商店-还有什么商店比较方便安装-app-的-比如-tg-dropbox-这类酷安上也没有的](https://www.v2ex.com/t/751833) 
 - [【V2EX】2021-02-06-Coursera-的课程有需要的么？免费送](https://www.v2ex.com/t/751832) 
 - [【V2EX】2021-02-06-在所有工作中，编程对智力要求是不是算高的？](https://www.v2ex.com/t/751831) 
-- [【V2EX】2021-02-06-求一个性价比之王，做软路由用](https://www.v2ex.com/t/751830) 
 - [【技术头条】2021-02-06-关于年终奖的故事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14145&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FF3u7KhJaBUSPm6H-Fy3hQw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-02-06-个推异常值检测和实战应用-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14144&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F349477322%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-02-06-我的第一本英文技术书-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14143&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmy-first-english-tech-book%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

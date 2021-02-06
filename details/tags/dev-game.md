@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-06 11:35:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-06 11:47:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,5 +28,4 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
-- [2021-02-06-体验了云游戏之后的一些感想](https://www.v2ex.com/t/751823) 
 - [2021-02-04-【安全圈】VIPGames泄露了2300万游戏玩家的信息](https://sec.thief.one/article_content?a_id=881051bf3198417920523fe39930f635) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-06 03:54:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-06 04:05:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -23,5 +23,4 @@
 - [2021-02-04-面试官：你能说清楚分布式锁，进程锁，线程锁的区别吗？](https://www.ershicimi.com/p/5e7c40e3cb1e149daf0bf89b43a251b8) 
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-02-06-2-年工作经验的程序员面试应该准备什么？](https://www.v2ex.com/t/751752) 
-- [2021-02-06-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) 
 - [2021-02-06-推荐-阿里面试官问我-Java-线程和操作系统线程什么关系](https://toutiao.io/k/oh81sch) 

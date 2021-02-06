@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-06 03:40:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-06 03:46:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,7 +45,6 @@
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2021-02-05-三分钟知识点：http请求流程](https://juejin.im/post/6925716461897908237) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-02-05-Alfred-插件---搜索并-focus-打开的-Chrome-标签-tab-或书签---求-star](https://www.v2ex.com/t/751726) 
 - [2021-02-06-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) 
 - [2021-02-06-Microsoft-IE远程命令执行在野-0day-漏洞通告](https://sec.thief.one/article_content?a_id=0eab01cc40f454190c8bbbbc44f8207a) 
 - [2021-02-05-Chrome用户谨记更新!含重大0day漏洞修复](https://sec.thief.one/article_content?a_id=164bda181c41f85e6877ecdd393757e0) 

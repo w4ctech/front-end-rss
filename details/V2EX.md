@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-06 03:40:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-06 03:46:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -36,4 +36,3 @@
 - [2021-02-05-为什么手柄连接安卓设备经常需要连接电脑激活映射？这个过程没办法在设备上独立完成吗？](https://www.v2ex.com/t/751729) 
 - [2021-02-05-html-中-div-切换背景图片事件是否有办法绑定过度动画？](https://www.v2ex.com/t/751728) 
 - [2021-02-05-重新定义-Social-QA-网站](https://www.v2ex.com/t/751727) 
-- [2021-02-05-Alfred-插件---搜索并-focus-打开的-Chrome-标签-tab-或书签---求-star](https://www.v2ex.com/t/751726) 

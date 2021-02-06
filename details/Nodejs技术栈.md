@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2021-02-06 23:31:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-06 23:40:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Nodejs技术栈
 
 
 
 
+- [2021-02-06-字节跳动最爱考的前端面试题：JavaScript-基础](https://www.ershicimi.com/p/2d9bc14be14f64c9bb0909060e86cc3a) 
+- [2021-02-05-新年牛牛牛-2021-年关注这几个高质量公众号](https://www.ershicimi.com/p/4d44506a4a5691a5e836502700faa1ab) 
+- [2021-02-05-简单代码的秘诀](https://www.ershicimi.com/p/1302ef4e8b52247e719a72470c7409a1) 
+- [2021-02-04-使用-Node.js-开发一个客户端小工具](https://www.ershicimi.com/p/ebe7983a542a771788ebf91615fc0e9a) 
+- [2021-02-03-当今开发三大块，Node.js-覆盖一半以上？](https://www.ershicimi.com/p/5ee2c06521a88f2ec9e5fd9509d5f6e4) 
+- [2021-02-01-一起来看看-Node.js-v14.x-LTS-中的这些新功能](https://www.ershicimi.com/p/d89364809bae71504e44352f4ae5ad3d) 
 - [2021-01-29-推荐-一个-Node.js-技术选型案例：使用-CARMEN-作为卡牌手游技术栈](https://www.ershicimi.com/p/568eb02c3f2f55d1d32cfaa171ec94fa) 
 - [2021-01-27-在-Node.js-中使用-Async-Hooks-处理-HTTP-请求上下文实现链路追踪](https://www.ershicimi.com/p/1270a12753d9f70dfbc7a2bd3e29ae21) 
 - [2021-01-26-使用-Node.js-的-Async-Hooks-模块追踪异步资源](https://www.ershicimi.com/p/81e816413c9493268fa526b9c99ece11) 
@@ -19,9 +25,3 @@
 - [2021-01-11-Node.js-高级进阶之-fs-文件模块学习](https://www.ershicimi.com/p/8ed810169365915978b48ff67b995605) 
 - [2021-01-09-盘点几个-2021-年值得关注的前端公众号](https://www.ershicimi.com/p/120d6fd118deda510022ee1d118e7a2e) 
 - [2021-01-09-监控、链路追踪、日志的区别，傻傻分不清？](https://www.ershicimi.com/p/c63cfac21cd51e402f2c7703af237131) 
-- [2021-01-08-复盘-Node.js-项目中遇到的-13+-常见问题和解决方案](https://www.ershicimi.com/p/eeb0d07e81e4766d06634dda2d30bfa1) 
-- [2021-01-07-Node.js-对于-Java-开发者而言是什么？](https://www.ershicimi.com/p/8b5a8fc97cbd35c3c1ff77bb1029ea31) 
-- [2021-01-06-使用-Node.js-搭建一个-API-网关助力微服务](https://www.ershicimi.com/p/6b1e4ad55afc893fe8dfe0818d973e96) 
-- [2021-01-05-Vue-开发实战-—-从-0-开始搭建大型-Vue-项目](https://www.ershicimi.com/p/61003712e83b5779a3397a61b0239431) 
-- [2021-01-04-Node.js-小知识-—-实现图片上传写入磁盘的接口](https://www.ershicimi.com/p/d89941ef4cd3fef88fbd7aa59824aa11) 
-- [2021-01-03-Github-4-万-Star！最全面的-Node.js-资源汇总推荐](https://www.ershicimi.com/p/a3e0d68484c37750677c8b81c310199d) 

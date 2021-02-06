@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-06 23:31:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-06 23:40:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -69,6 +69,7 @@
 - [2021-01-28-这些一行-JS-实现功能的代码，让你看起来像一个前端专家](https://www.ershicimi.com/p/9037932d1dd88cc9127bb434611931aa) 
 - [2021-01-27-JavaScript-世界万物诞生记](https://www.ershicimi.com/p/c397ccccffbaf61fa631c67a563ef32e) 
 - [2021-01-25-温故而知新，8张-Javascript-思维导图助你成长](https://www.ershicimi.com/p/2da04931a44af5b13124e23151453ce1) 
+- [2021-02-06-字节跳动最爱考的前端面试题：JavaScript-基础](https://www.ershicimi.com/p/2d9bc14be14f64c9bb0909060e86cc3a) 
 - [2021-01-12-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/ddb5d32e4717fb973d232a3b6305f28e) 
 - [2021-02-05-使用::part伪元素改变Shadow-DOM的CSS样式](https://www.zhangxinxu.com/wordpress/2021/02/css-part-shadow-dom/) 
 - [2021-01-20-巧用DOM-API实现HTML字符的转义和反转义](https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/) 

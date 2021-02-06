@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-06 23:31:11，:rocket: 更新条数: +4254， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-06 23:40:51，:rocket: 更新条数: +4254， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -588,6 +588,12 @@
 </summary>
 
 
+- [2021-02-06-字节跳动最爱考的前端面试题：JavaScript-基础](https://www.ershicimi.com/p/2d9bc14be14f64c9bb0909060e86cc3a) ![](assets/new.png)  
+- [2021-02-05-新年牛牛牛-2021-年关注这几个高质量公众号](https://www.ershicimi.com/p/4d44506a4a5691a5e836502700faa1ab) ![](assets/new.png)  
+- [2021-02-05-简单代码的秘诀](https://www.ershicimi.com/p/1302ef4e8b52247e719a72470c7409a1) ![](assets/new.png)  
+- [2021-02-04-使用-Node.js-开发一个客户端小工具](https://www.ershicimi.com/p/ebe7983a542a771788ebf91615fc0e9a) ![](assets/new.png)  
+- [2021-02-03-当今开发三大块，Node.js-覆盖一半以上？](https://www.ershicimi.com/p/5ee2c06521a88f2ec9e5fd9509d5f6e4) ![](assets/new.png)  
+- [2021-02-01-一起来看看-Node.js-v14.x-LTS-中的这些新功能](https://www.ershicimi.com/p/d89364809bae71504e44352f4ae5ad3d) ![](assets/new.png)  
 - [2021-01-29-推荐-一个-Node.js-技术选型案例：使用-CARMEN-作为卡牌手游技术栈](https://www.ershicimi.com/p/568eb02c3f2f55d1d32cfaa171ec94fa) ![](assets/new.png)  
 - [2021-01-27-在-Node.js-中使用-Async-Hooks-处理-HTTP-请求上下文实现链路追踪](https://www.ershicimi.com/p/1270a12753d9f70dfbc7a2bd3e29ae21) ![](assets/new.png)  
 - [2021-01-26-使用-Node.js-的-Async-Hooks-模块追踪异步资源](https://www.ershicimi.com/p/81e816413c9493268fa526b9c99ece11) ![](assets/new.png)  
@@ -602,12 +608,6 @@
 - [2021-01-11-Node.js-高级进阶之-fs-文件模块学习](https://www.ershicimi.com/p/8ed810169365915978b48ff67b995605) ![](assets/new.png)  
 - [2021-01-09-盘点几个-2021-年值得关注的前端公众号](https://www.ershicimi.com/p/120d6fd118deda510022ee1d118e7a2e) ![](assets/new.png)  
 - [2021-01-09-监控、链路追踪、日志的区别，傻傻分不清？](https://www.ershicimi.com/p/c63cfac21cd51e402f2c7703af237131) ![](assets/new.png)  
-- [2021-01-08-复盘-Node.js-项目中遇到的-13+-常见问题和解决方案](https://www.ershicimi.com/p/eeb0d07e81e4766d06634dda2d30bfa1) ![](assets/new.png)  
-- [2021-01-07-Node.js-对于-Java-开发者而言是什么？](https://www.ershicimi.com/p/8b5a8fc97cbd35c3c1ff77bb1029ea31) ![](assets/new.png)  
-- [2021-01-06-使用-Node.js-搭建一个-API-网关助力微服务](https://www.ershicimi.com/p/6b1e4ad55afc893fe8dfe0818d973e96) ![](assets/new.png)  
-- [2021-01-05-Vue-开发实战-—-从-0-开始搭建大型-Vue-项目](https://www.ershicimi.com/p/61003712e83b5779a3397a61b0239431) ![](assets/new.png)  
-- [2021-01-04-Node.js-小知识-—-实现图片上传写入磁盘的接口](https://www.ershicimi.com/p/d89941ef4cd3fef88fbd7aa59824aa11) ![](assets/new.png)  
-- [2021-01-03-Github-4-万-Star！最全面的-Node.js-资源汇总推荐](https://www.ershicimi.com/p/a3e0d68484c37750677c8b81c310199d) ![](assets/new.png)  
 - [......【查看更多】......](./details/Nodejs技术栈.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,16 +1084,16 @@
 - [2021-02-06-实现-Web-端自定义截屏](https://toutiao.io/k/rnph6i4) ![](assets/new.png)  
 - [2021-02-06-边缘计算场景下云边端一体化的挑战与实践](https://toutiao.io/k/u7evc2j) ![](assets/new.png)  
 - [2021-02-06-导航组件概览：MAD-Skills](https://toutiao.io/k/vs7o8yj) ![](assets/new.png)  
+- [2021-02-06-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
+- [2021-02-06-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
 - [2021-02-06-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
 - [2021-02-06-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
+- [2021-02-06-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-06-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-06-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
+- [2021-02-06-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
 - [2021-02-06-推荐-跳表：会跳的链表原来这么-diao](https://toutiao.io/k/fobkj0c) ![](assets/new.png)  
 - [2021-02-06-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
-- [2021-02-06-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
-- [2021-02-06-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) ![](assets/new.png)  
-- [2021-02-06-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
-- [2021-02-06-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-06-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
-- [2021-02-06-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,11 +1,11 @@
-:alarm_clock: 更新时间: 2021-02-06 10:52:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-06 11:04:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2021-02-06-试用-Snippet-的新方式](https://www.v2ex.com/t/751869) 
+- [2021-02-06-更符合直觉的-Snippet-输入方式](https://www.v2ex.com/t/751869) 
 - [2021-02-06-求证一下现在的上网行为感知能做到什么地步？](https://www.v2ex.com/t/751866) 
 - [2021-02-06-仿国外-pinterest-做的-App-上线了,ios-用户可下体验](https://www.v2ex.com/t/751864) 
 - [2021-02-06-苹果这浓眉大眼的也。。。](https://www.v2ex.com/t/751863) 

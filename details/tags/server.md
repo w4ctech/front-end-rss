@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-06 03:08:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-06 03:30:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -12,4 +12,3 @@
 - [2016-02-27-初探Docker](https://aotu.io/notes/2016/02/27/docker/) 
 - [2021-02-03-Uber-实时推送平台实践：gRPC-推动基础设施的发展](https://www.ershicimi.com/p/b432d32f9a8031f3e19155fe1f2f7961) 
 - [2021-02-06-如何改变-Docker-的数据目录](https://toutiao.io/k/etee1wd) 
-- [2021-02-06-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) 

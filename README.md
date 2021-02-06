@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-06 23:45:30，:rocket: 更新条数: +4254， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-06 23:53:19，:rocket: 更新条数: +4254， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1084,16 +1084,16 @@
 - [2021-02-06-实现-Web-端自定义截屏](https://toutiao.io/k/rnph6i4) ![](assets/new.png)  
 - [2021-02-06-边缘计算场景下云边端一体化的挑战与实践](https://toutiao.io/k/u7evc2j) ![](assets/new.png)  
 - [2021-02-06-导航组件概览：MAD-Skills](https://toutiao.io/k/vs7o8yj) ![](assets/new.png)  
-- [2021-02-06-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-06-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
-- [2021-02-06-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
-- [2021-02-06-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
-- [2021-02-06-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
-- [2021-02-06-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
-- [2021-02-06-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-06-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
-- [2021-02-06-推荐-跳表：会跳的链表原来这么-diao](https://toutiao.io/k/fobkj0c) ![](assets/new.png)  
+- [2021-02-06-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
 - [2021-02-06-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
+- [2021-02-06-推荐-跳表：会跳的链表原来这么-diao](https://toutiao.io/k/fobkj0c) ![](assets/new.png)  
+- [2021-02-06-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
+- [2021-02-06-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
+- [2021-02-06-推荐-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
+- [2021-02-06-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
+- [2021-02-06-推荐-DDD-实现之路](https://toutiao.io/k/9r5qrcy) ![](assets/new.png)  
+- [2021-02-06-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
+- [2021-02-06-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

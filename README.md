@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-06 11:47:55，:rocket: 更新条数: +4252， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-06 12:05:05，:rocket: 更新条数: +4252， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,10 @@
 </summary>
 
 
+- [2021-02-06-这个电池损耗速度是不是太快了，感觉抗不了多久了](https://www.v2ex.com/t/751879) ![](assets/new.png)  
+- [2021-02-06-云原生项目实践-DevOpsGitOps+K8S+BPF+SRE，从-0-到-1-使用-Golang-开发生产级麻将游戏服务器—第-3-篇](https://www.v2ex.com/t/751878) ![](assets/new.png)  
+- [2021-02-06-是否能将奇迹暖暖真人化，用来以解决衣服穿搭问题](https://www.v2ex.com/t/751876) ![](assets/new.png)  
+- [2021-02-06-今年回到家突然看到家里的毛鞋,大家父母亲做/织的物品都还在吗](https://www.v2ex.com/t/751875) ![](assets/new.png)  
 - [2021-02-06-Apple-Music-里面的歌词进度不对，怎么调整？](https://www.v2ex.com/t/751874) ![](assets/new.png)  
 - [2021-02-06-微软-edge-跨大版本不能升级吗？检查更新提示是最新，实际已经是很老的版本了](https://www.v2ex.com/t/751872) ![](assets/new.png)  
 - [2021-02-06-请教一个电脑小白的问题，鼠标右键弹出来的菜单里面的条目如何用快捷键选择？](https://www.v2ex.com/t/751870) ![](assets/new.png)  
@@ -1028,10 +1032,6 @@
 - [2021-02-06-CentOS7-编译-Linux-内核报错](https://www.v2ex.com/t/751853) ![](assets/new.png)  
 - [2021-02-06-你们觉得软件专业的学生应该注重算法还是项目？](https://www.v2ex.com/t/751851) ![](assets/new.png)  
 - [2021-02-06-深圳家庭宽带都上行限速么？](https://www.v2ex.com/t/751850) ![](assets/new.png)  
-- [2021-02-06-有个邪恶的-IDEA，通过键盘敲击的声音判断是否摸鱼。](https://www.v2ex.com/t/751849) ![](assets/new.png)  
-- [2021-02-06-linxu-哪个命令可以以指定速率发-tcp-包？？](https://www.v2ex.com/t/751848) ![](assets/new.png)  
-- [2021-02-06-腾讯云服务器怎么释放公网-ip](https://www.v2ex.com/t/751847) ![](assets/new.png)  
-- [2021-02-06-2021-年给你的-MacbookPro-安装-Ubuntu](https://www.v2ex.com/t/751846) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,15 +1084,15 @@
 - [2021-02-06-这位图灵奖得主大佬，你可知道？](https://toutiao.io/k/wrv2dc4) ![](assets/new.png)  
 - [2021-02-06-实现-Web-端自定义截屏](https://toutiao.io/k/rnph6i4) ![](assets/new.png)  
 - [2021-02-06-边缘计算场景下云边端一体化的挑战与实践](https://toutiao.io/k/u7evc2j) ![](assets/new.png)  
-- [2021-02-06-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
-- [2021-02-06-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
-- [2021-02-06-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
 - [2021-02-06-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
-- [2021-02-06-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
-- [2021-02-06-推荐-跳表：会跳的链表原来这么-diao](https://toutiao.io/k/fobkj0c) ![](assets/new.png)  
-- [2021-02-06-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
-- [2021-02-06-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) ![](assets/new.png)  
+- [2021-02-06-推荐-最终一致性，一致只会迟到，但绝不会缺席](https://toutiao.io/k/9q7yxnu) ![](assets/new.png)  
+- [2021-02-06-推荐-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
 - [2021-02-06-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
+- [2021-02-06-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
+- [2021-02-06-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-06-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
+- [2021-02-06-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
+- [2021-02-06-推荐-阿里面试官问我-Java-线程和操作系统线程什么关系](https://toutiao.io/k/oh81sch) ![](assets/new.png)  
 - [2021-02-06-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

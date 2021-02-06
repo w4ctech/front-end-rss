@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-06 00:16:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-06 01:06:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2021-02-05-还求-Clubhouse-邀请码？先警惕各种邀请的隐私泄露吧！](https://www.v2ex.com/t/751691) 
 - [2021-02-05-迫于学习-蹲个打印机](https://www.v2ex.com/t/751689) 
 - [2021-02-05-请教一下各位老哥-Cors-的配置问题](https://www.v2ex.com/t/751688) 
-- [2021-02-05-redhat-的开发者订阅申请，-HOW？](https://www.v2ex.com/t/751684) 

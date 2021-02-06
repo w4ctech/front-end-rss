@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-06 20:08:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-06 20:29:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -94,6 +94,5 @@
 - [2021-02-06-安卓浏览器全屏播放视频时候右上角两个斜杠是啥意思？](https://www.v2ex.com/t/751913) 
 - [2021-02-06-YouTube-怎么移除了为其他人的视频添加字幕的功能？](https://www.v2ex.com/t/751895) 
 - [2021-02-06-发姐在-youtube-直播。。](https://www.v2ex.com/t/751893) 
-- [2021-02-06-202102062100-某知名退役主播在国外平台直播](https://www.v2ex.com/t/751889) 
 - [2021-02-06-【视频】|-Python:闭包](https://sec.thief.one/article_content?a_id=778ff9f0dfb0457844859136b0d695db) 
 - [2021-02-03-绿盟星课堂公益直播课,来了](https://sec.thief.one/article_content?a_id=05946269d4bed33f757d730fac61acd0) 

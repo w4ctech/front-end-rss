@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-07 06:08:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 06:32:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -81,7 +81,6 @@
 - [2021-01-11-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/fa27bfb41b2cd95468c33a411b83ba33) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？](https://www.ershicimi.com/p/27033dcdf27caaae7012a928c62ea0ea) 
-- [2021-02-06-登录表单的最佳实践-/-Sign-in-form-best-practices](https://juejin.im/post/6926354700564430855) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -91,8 +90,8 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-02-07-求-X86-类型的软路由推荐，主要用于策略分流](https://www.v2ex.com/t/752056) 
 - [2021-02-07-请问多端适配有用-Expo-Web-的思路的吗](https://www.v2ex.com/t/752043) 
 - [2021-02-07-为什么-Java-lib-源码中总是习惯用-var-加数字命名变量](https://www.v2ex.com/t/752013) 
-- [2021-02-07-跨域-cookie-到底应该怎么实现？我需要在-domain-1.com-通过-jquery-调用-domain-2.com-上的-PHP-写-cookie，在-domain-1.com-上读取，有可能实现么？](https://www.v2ex.com/t/752006) 
 - [2021-02-07-工具-|-网易数帆微服务团队开源的服务网格组件](https://toutiao.io/k/uokx0dc) 
 - [2021-02-05-“网络珍珠港”事件再反思:为何供应链攻击如此难以防范?](https://sec.thief.one/article_content?a_id=c0bc3851c59e58379f79b29915be9f9c) 

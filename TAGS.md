@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-07 06:08:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 06:32:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -117,6 +117,7 @@
 - [【前端宇宙】TypeScript-4.2-Beta版本发布：带来诸多更新，营造更好的开发体验](https://www.ershicimi.com/p/bbbd9a87ccda98a2e75d976b8fe53c03)
 - [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
+- [【V2EX】上海-975-30~45-*-13+-ARKIE-工业设计产品-软件工程师---Web-全栈/前端架构师-TypeScript](https://www.v2ex.com/t/752053)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -399,7 +400,7 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】ES-中物联网数据获取最新一条，那种写法性能最好？](https://www.v2ex.com/t/752038)
 - [【V2EX】django-orm-优化请教](https://www.v2ex.com/t/752018)
-- [【开发者头条】推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o)
+- [【开发者头条】推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -474,8 +475,6 @@
 - [【前端开发】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/c1ab6af9e5de8317d968010524e4db03)
 - [【互联网架构师】为什么-Nginx-比-Apache-更牛叉？](https://www.ershicimi.com/p/087030cd225833ccffcd42f6fb40fbee)
 - [【InfoQ】Uber-实时推送平台实践：gRPC-推动基础设施的发展](https://www.ershicimi.com/p/b432d32f9a8031f3e19155fe1f2f7961)
-- [【开发者头条】推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq)
-- [【开发者头条】推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

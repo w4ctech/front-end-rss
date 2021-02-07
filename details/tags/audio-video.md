@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-07 05:09:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 05:28:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -94,4 +94,5 @@
 - [2021-02-07-闪电转-3.5-毫米音频线（双向）只有苹果官方的可以用么？](https://www.v2ex.com/t/752000) 
 - [2021-02-07-tiktok-视频下载](https://www.v2ex.com/t/751991) 
 - [2021-02-07-WACV-2021-论文大盘点：图像质量篇](https://toutiao.io/k/s7bbn1y) 
+- [2021-02-07-【视频】|-防火墙分类与运行模式](https://sec.thief.one/article_content?a_id=85b60d0b4be6612b44d0af77eab2a567) 
 - [2021-02-06-【视频】|-Python:闭包](https://sec.thief.one/article_content?a_id=778ff9f0dfb0457844859136b0d695db) 

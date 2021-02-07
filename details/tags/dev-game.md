@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-07 08:09:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 08:35:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,6 +28,7 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2021-02-07-想买一个桌面播放/暂停按钮，用于打游戏匹配的时候看电视/直播随时暂停](https://www.v2ex.com/t/752103) 
 - [2021-02-07-最近想做一个文字版-web-游戏](https://www.v2ex.com/t/752096) 
 - [2021-02-07-求推荐一款-PC-游戏，过年在家玩](https://www.v2ex.com/t/752069) 
 - [2021-02-04-【安全圈】VIPGames泄露了2300万游戏玩家的信息](https://sec.thief.one/article_content?a_id=881051bf3198417920523fe39930f635) 

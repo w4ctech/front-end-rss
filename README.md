@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-07 08:09:17，:rocket: 更新条数: +4259， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-07 08:35:07，:rocket: 更新条数: +4258， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,16 @@
 </summary>
 
 
+- [2021-02-07-被老婆删掉那些小-H-图表情后，我发现我不会聊天了。。。](https://www.v2ex.com/t/752114) ![](assets/new.png)  
+- [2021-02-07-hrbp-面完全不谈薪资，是不是凉了？](https://www.v2ex.com/t/752113) ![](assets/new.png)  
+- [2021-02-07-老哥老弟们，旧笔记本改造黑群怎么样？](https://www.v2ex.com/t/752112) ![](assets/new.png)  
+- [2021-02-07-请教大佬们如何用-pandas-高效读取被分片的-csv-文件](https://www.v2ex.com/t/752110) ![](assets/new.png)  
+- [2021-02-07-一起博饼分享个有趣的博饼小程序](https://www.v2ex.com/t/752107) ![](assets/new.png)  
+- [2021-02-07-求：浏览器直接打开而非下载.yaml-后缀文件的方法](https://www.v2ex.com/t/752106) ![](assets/new.png)  
+- [2021-02-07-Apple-books-书籍阅读进度、书签、笔记同步问题](https://www.v2ex.com/t/752105) ![](assets/new.png)  
+- [2021-02-07-到了年根，应酬不断增多，喝酒不可避免，喝酒是吐了好，还是不吐好？](https://www.v2ex.com/t/752104) ![](assets/new.png)  
+- [2021-02-07-想买一个桌面播放/暂停按钮，用于打游戏匹配的时候看电视/直播随时暂停](https://www.v2ex.com/t/752103) ![](assets/new.png)  
+- [2021-02-07-迫于不会，请教大佬们如何用-pandas-分片读取-csv-文件](https://www.v2ex.com/t/752102) ![](assets/new.png)  
 - [2021-02-07-能否在-debug-的时候生成相应的测试用例？](https://www.v2ex.com/t/752101) ![](assets/new.png)  
 - [2021-02-07-这网站哪位大佬做的啊-有点牛逼](https://www.v2ex.com/t/752100) ![](assets/new.png)  
 - [2021-02-07-使用-Clubhouse-时切换到微信经常会导致前者音量变弱到几乎听不见](https://www.v2ex.com/t/752099) ![](assets/new.png)  
@@ -1022,16 +1032,6 @@
 - [2021-02-07-过年放假前上班最后几天，你们都在干什么？](https://www.v2ex.com/t/752091) ![](assets/new.png)  
 - [2021-02-07-Type-C-转-dp-线不能-4k-60Hz](https://www.v2ex.com/t/752090) ![](assets/new.png)  
 - [2021-02-07-怎么限制应用互相打开](https://www.v2ex.com/t/752089) ![](assets/new.png)  
-- [2021-02-07-Mac-上-Chrome-浏览器下载链接无效](https://www.v2ex.com/t/752087) ![](assets/new.png)  
-- [2021-02-07-上海/北京/深圳-量化交易-C++-Developer-50-150-万/年-不加班！](https://www.v2ex.com/t/752086) ![](assets/new.png)  
-- [2021-02-07-公司对于优秀员工的评判标准，是看钉钉上谁的工作时间最长。我有一个大胆的想法](https://www.v2ex.com/t/752085) ![](assets/new.png)  
-- [2021-02-07-极客时间_许式伟架构课_快速上车](https://www.v2ex.com/t/752084) ![](assets/new.png)  
-- [2021-02-07-一个普通的服务端-APP，启动时间多少是比较合理的？](https://www.v2ex.com/t/752083) ![](assets/new.png)  
-- [2021-02-07-如何看待跳槽两年后工资不如前同事的问题](https://www.v2ex.com/t/752082) ![](assets/new.png)  
-- [2021-02-07-如何看待创业公司给你发期权，却不发年终奖？](https://www.v2ex.com/t/752081) ![](assets/new.png)  
-- [2021-02-07-有算法大佬来帮我证明一个定理吗？](https://www.v2ex.com/t/752080) ![](assets/new.png)  
-- [2021-02-07-上海也送-20G-流量了，需要的自取](https://www.v2ex.com/t/752076) ![](assets/new.png)  
-- [2021-02-07-Python-time.strftime"%W"-怎么是第五周，今天不是第七周吗?](https://www.v2ex.com/t/752075) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1081,19 +1081,19 @@
 - [2021-02-07-译-使用-QueryDSL-过程中你肯定遇到过的问题](https://toutiao.io/k/az1umqg) ![](assets/new.png)  
 - [2021-02-07-译-为什么人们还没有转向-Svelte](https://toutiao.io/k/gyzoweq) ![](assets/new.png)  
 - [2021-02-07-Go-源码阅读之-flag-包](https://toutiao.io/k/4nqqg6x) ![](assets/new.png)  
-- [2021-02-07-WACV-2021-论文大盘点：图像质量篇](https://toutiao.io/k/s7bbn1y) ![](assets/new.png)  
 - [2021-02-07-Gradle-与-Android-构建入门](https://toutiao.io/k/9ynuqn3) ![](assets/new.png)  
+- [2021-02-07-WACV-2021-论文大盘点：图像质量篇](https://toutiao.io/k/s7bbn1y) ![](assets/new.png)  
 - [2021-02-07-形式生成，当字体遇上参数化设计](https://toutiao.io/k/69pquo5) ![](assets/new.png)  
 - [2021-02-07-工具-|-网易数帆微服务团队开源的服务网格组件](https://toutiao.io/k/uokx0dc) ![](assets/new.png)  
-- [2021-02-07-推荐-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
 - [2021-02-07-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
-- [2021-02-07-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-07-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
+- [2021-02-07-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
 - [2021-02-07-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
-- [2021-02-07-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
-- [2021-02-07-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) ![](assets/new.png)  
-- [2021-02-07-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
-- [2021-02-07-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-07-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
+- [2021-02-07-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
+- [2021-02-07-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
+- [2021-02-07-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-07-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
+- [2021-02-07-推荐-DDD-实现之路](https://toutiao.io/k/9r5qrcy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

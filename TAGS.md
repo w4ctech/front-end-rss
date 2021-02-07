@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-07 07:47:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 08:04:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -246,6 +246,7 @@
 
 
 - [【前端早读课】【招聘】腾讯游戏流量中台招前端开发工程师](https://www.ershicimi.com/p/29a523d80c925512b18aebe0de7429e9)
+- [【V2EX】最近想做一个文字版-web-游戏](https://www.v2ex.com/t/752096)
 - [【V2EX】求推荐一款-PC-游戏，过年在家玩](https://www.v2ex.com/t/752069)
 - [【安全热点】【安全圈】VIPGames泄露了2300万游戏玩家的信息](https://sec.thief.one/article_content?a_id=881051bf3198417920523fe39930f635)
 - [......【查看更多】......](./details/tags/dev-game.md)
@@ -399,6 +400,7 @@
 - [【互联网架构师】腾讯推出高性能-RPC-开发框架](https://www.ershicimi.com/p/d3a73492ed6e31f4db98669c00a63fa7)
 - [【JavaScript】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【开发者头条】推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -474,7 +476,7 @@
 - [【前端开发】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/c1ab6af9e5de8317d968010524e4db03)
 - [【互联网架构师】为什么-Nginx-比-Apache-更牛叉？](https://www.ershicimi.com/p/087030cd225833ccffcd42f6fb40fbee)
 - [【InfoQ】Uber-实时推送平台实践：gRPC-推动基础设施的发展](https://www.ershicimi.com/p/b432d32f9a8031f3e19155fe1f2f7961)
-- [【开发者头条】推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah)
+- [【开发者头条】推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

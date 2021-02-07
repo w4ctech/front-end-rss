@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-07 08:44:14，:rocket: 更新条数: +4257， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-07 08:54:20，:rocket: 更新条数: +4258， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,11 @@
 </summary>
 
 
+- [2021-02-07-你们的小爱音箱有-qq-音乐没有会员能播放，但小爱是灰色歌曲的吗](https://www.v2ex.com/t/752124) ![](assets/new.png)  
+- [2021-02-07-现在有什么-steam-赚钱的路子吗？](https://www.v2ex.com/t/752123) ![](assets/new.png)  
+- [2021-02-07-macbookpro-官翻-1.4g-8+128-现在出多少合适。](https://www.v2ex.com/t/752122) ![](assets/new.png)  
+- [2021-02-07-py2-中写入文本可以不-close-只-flush-吗？](https://www.v2ex.com/t/752121) ![](assets/new.png)  
+- [2021-02-07-请问有啥-chrome-扩展能阻止复制的时候被网站带上一堆来源的内容么?](https://www.v2ex.com/t/752120) ![](assets/new.png)  
 - [2021-02-07-不会有人跟我一样，也准备在假期里憋大招吧](https://www.v2ex.com/t/752119) ![](assets/new.png)  
 - [2021-02-07-关于我的程序员定位问题](https://www.v2ex.com/t/752118) ![](assets/new.png)  
 - [2021-02-07-想养只猫，请教一些问题。](https://www.v2ex.com/t/752116) ![](assets/new.png)  
@@ -1027,11 +1032,6 @@
 - [2021-02-07-想买一个桌面播放/暂停按钮，用于打游戏匹配的时候看电视/直播随时暂停](https://www.v2ex.com/t/752103) ![](assets/new.png)  
 - [2021-02-07-迫于不会，请教大佬们如何用-pandas-分片读取-csv-文件](https://www.v2ex.com/t/752102) ![](assets/new.png)  
 - [2021-02-07-能否在-debug-的时候生成相应的测试用例？](https://www.v2ex.com/t/752101) ![](assets/new.png)  
-- [2021-02-07-这网站哪位大佬做的啊-有点牛逼](https://www.v2ex.com/t/752100) ![](assets/new.png)  
-- [2021-02-07-使用-Clubhouse-时切换到微信经常会导致前者音量变弱到几乎听不见](https://www.v2ex.com/t/752099) ![](assets/new.png)  
-- [2021-02-07-Python-出现-certificate-verify-failed:-unable-to-get-local-issuer-certificate](https://www.v2ex.com/t/752098) ![](assets/new.png)  
-- [2021-02-07-最近想做一个文字版-web-游戏](https://www.v2ex.com/t/752096) ![](assets/new.png)  
-- [2021-02-07-受够了-es-的-curl-搜索语法](https://www.v2ex.com/t/752095) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,14 +1085,14 @@
 - [2021-02-07-WACV-2021-论文大盘点：图像质量篇](https://toutiao.io/k/s7bbn1y) ![](assets/new.png)  
 - [2021-02-07-形式生成，当字体遇上参数化设计](https://toutiao.io/k/69pquo5) ![](assets/new.png)  
 - [2021-02-07-工具-|-网易数帆微服务团队开源的服务网格组件](https://toutiao.io/k/uokx0dc) ![](assets/new.png)  
-- [2021-02-07-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
-- [2021-02-07-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) ![](assets/new.png)  
+- [2021-02-07-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
+- [2021-02-07-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) ![](assets/new.png)  
+- [2021-02-07-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
 - [2021-02-07-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-07-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
-- [2021-02-07-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
+- [2021-02-07-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-07-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
 - [2021-02-07-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
-- [2021-02-07-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
-- [2021-02-07-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
+- [2021-02-07-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
 - [2021-02-07-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

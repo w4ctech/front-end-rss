@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-07 22:43:07，:rocket: 更新条数: +4266， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-07 22:53:35，:rocket: 更新条数: +4266， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1085,15 +1085,15 @@
 - [2021-02-07-WACV-2021-论文大盘点：图像质量篇](https://toutiao.io/k/s7bbn1y) ![](assets/new.png)  
 - [2021-02-07-工具-|-网易数帆微服务团队开源的服务网格组件](https://toutiao.io/k/uokx0dc) ![](assets/new.png)  
 - [2021-02-07-形式生成，当字体遇上参数化设计](https://toutiao.io/k/69pquo5) ![](assets/new.png)  
-- [2021-02-07-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
-- [2021-02-07-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
-- [2021-02-07-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
-- [2021-02-07-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
+- [2021-02-07-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
+- [2021-02-07-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
 - [2021-02-07-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
-- [2021-02-07-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
-- [2021-02-07-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
+- [2021-02-07-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
+- [2021-02-07-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
+- [2021-02-07-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
+- [2021-02-07-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
 - [2021-02-07-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
-- [2021-02-07-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
+- [2021-02-07-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

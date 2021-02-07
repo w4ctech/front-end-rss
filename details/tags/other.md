@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-07 22:43:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 22:53:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3294,15 +3294,16 @@
 - [2021-02-07-Go-源码阅读之-flag-包](https://toutiao.io/k/4nqqg6x) 
 - [2021-02-07-译-为什么人们还没有转向-Svelte](https://toutiao.io/k/gyzoweq) 
 - [2021-02-07-形式生成，当字体遇上参数化设计](https://toutiao.io/k/69pquo5) 
+- [2021-02-07-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) 
+- [2021-02-07-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) 
+- [2021-02-07-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) 
 - [2021-02-07-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) 
-- [2021-02-07-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) 
+- [2021-02-07-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) 
 - [2021-02-07-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) 
-- [2021-02-07-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) 
 - [2021-02-07-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) 
 - [2021-02-07-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) 
-- [2021-02-07-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) 
-- [2021-02-07-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) 
-- [2021-02-07-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) 
+- [2021-02-07-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) 
+- [2021-02-07-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) 
 - [2021-02-07-TSRC红包封面领取时间是____](https://sec.thief.one/article_content?a_id=7e6c799864ab2474ecd3b534baca8a07) 
 - [2021-02-07-中国网络社会组织联合会启动“领航新征程——庆祝建党100周年”系...](https://sec.thief.one/article_content?a_id=ae9e9a7a685c52692cdd0d779dd689bb) 
 - [2021-02-07-2021年1月份奖励公告](https://sec.thief.one/article_content?a_id=d0c2ef5643505e8cb4a8018dbb2db046) 

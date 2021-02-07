@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-07 09:14:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 09:30:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -116,6 +116,7 @@
 - [【前端宇宙】推荐-7-个学习-TypeScript-的宝库，2021-是时候给自己加薪了！](https://www.ershicimi.com/p/b57c1a987fa377782b4e223a2eef1e46)
 - [【前端宇宙】TypeScript-4.2-Beta版本发布：带来诸多更新，营造更好的开发体验](https://www.ershicimi.com/p/bbbd9a87ccda98a2e75d976b8fe53c03)
 - [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
+- [【掘金前端】为什么说-TypeScript-是开发大型前端项目的必备语言](https://juejin.im/post/6926432698139590670)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [【V2EX】技术文章-为什么说-TypeScript-是开发大型前端项目的必备语言？](https://www.v2ex.com/t/752126)
 - [......【查看更多】......](./details/tags/typescript.md)
@@ -452,7 +453,7 @@
 - [【互联网架构师】腾讯推出高性能-RPC-开发框架](https://www.ershicimi.com/p/d3a73492ed6e31f4db98669c00a63fa7)
 - [【JavaScript】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【开发者头条】推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o)
+- [【开发者头条】推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -515,7 +516,6 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
-- [【掘金前端】算法刷题——二叉树](https://juejin.im/post/6926408162425864199)
 - [【V2EX】Setapp-上的-paste，-iOS-更新了-3.0-是否不能继续云同步了？](https://www.v2ex.com/t/752131)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -539,6 +539,7 @@
 - [【互联网架构师】为什么-Nginx-比-Apache-更牛叉？](https://www.ershicimi.com/p/087030cd225833ccffcd42f6fb40fbee)
 - [【InfoQ】Uber-实时推送平台实践：gRPC-推动基础设施的发展](https://www.ershicimi.com/p/b432d32f9a8031f3e19155fe1f2f7961)
 - [【开发者头条】推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq)
+- [【开发者头条】推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-07 10:08:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 10:30:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -47,7 +47,8 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-07-关于-SwiftUI-屏幕旋转和-NavigationView-的一个小疑问](https://www.v2ex.com/t/752147) 
 - [2021-02-07-请问有啥-chrome-扩展能阻止复制的时候被网站带上一堆来源的内容么?](https://www.v2ex.com/t/752120) 
-- [2021-02-07-求：浏览器直接打开而非下载.yaml-后缀文件的方法](https://www.v2ex.com/t/752106) 
+- [2021-02-07-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) 
+- [2021-02-07-感谢信-|-国舜股份安全研发支持能力获某大型国有银行认可](https://sec.thief.one/article_content?a_id=a8c76fb5a519170bdf2a1b380893bdb5) 
 - [2021-02-07-《2020年工业信息安全态势报告》发布-附下载](https://sec.thief.one/article_content?a_id=0191271a143af7bb80b6f3e832d09b8f) 
 - [2021-02-07-空天信息安全与可信计算教育部重点实验室2021年开放基金](https://sec.thief.one/article_content?a_id=a28633730ff10c28c967b7f466f547ef) 
 - [2021-02-06-《北向文集-面向2021》-13期-文森峰论坛-|-段海新-DNS安全的前世今生...](https://sec.thief.one/article_content?a_id=2ae0e41fe71d6fc0d8e0f97cb14596d9) 
@@ -66,5 +67,3 @@
 - [2021-02-05-调试Python代码,不要再用print了!](https://sec.thief.one/article_content?a_id=639f267e4776a5251107287629d244c9) 
 - [2021-02-05-安全招聘汇总-|-第九期](https://sec.thief.one/article_content?a_id=8ee39a12679fc68f41cb873e233e23e1) 
 - [2021-02-04-谷歌提出开源安全漏洞的处理新框架](https://sec.thief.one/article_content?a_id=c6238e26509411fe527667f91e3d6aa1) 
-- [2021-02-04-我的安全梦](https://sec.thief.one/article_content?a_id=600978ceb3fe4a2bca64abcc3600f435) 
-- [2021-02-04-每日安全动态推送02-04](https://sec.thief.one/article_content?a_id=3429b285d44590e63f7f3fa7de83e370) 

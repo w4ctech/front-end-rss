@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-07 10:08:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 10:30:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -35,3 +35,4 @@
 - [2021-02-03-Node-如何开发一个命令行工具](https://www.ershicimi.com/p/722fd10dbd2adcf728f10b3cf9b16b3b) 
 - [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) 
 - [2021-02-07-node.js实现前后端简单博客](https://juejin.im/post/6926440096178634760) 
+- [2021-02-07-【安全风险通告】谷歌-V8-JavaScript引擎堆溢出漏洞安全风险通告](https://sec.thief.one/article_content?a_id=6eac61e16a2bb6d4895d48b6ad8575e8) 

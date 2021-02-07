@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-07 01:54:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 02:01:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,7 @@
 - [2021-02-02-Apache-软件基金会-2020-安全报告：六件值得被关注的事](https://www.ershicimi.com/p/13f8ca47c355c4c533f63679834b188c) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-02-07-谷歌浏览器强制转-https-问题](https://www.v2ex.com/t/751961) 
 - [2021-02-07-Google-Chrome-迷惑语言同步问题](https://www.v2ex.com/t/751942) 
 - [2021-02-06-教程-如何让-Proxifier-监管-VMware-的-NAT-流量？](https://www.v2ex.com/t/751915) 
 - [2021-02-07-空天信息安全与可信计算教育部重点实验室2021年开放基金](https://sec.thief.one/article_content?a_id=a28633730ff10c28c967b7f466f547ef) 

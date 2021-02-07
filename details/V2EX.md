@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-02-07 15:40:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 15:53:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-07-XTerm-的-1016-模式存在-bug](https://www.v2ex.com/t/752220) 
 - [2021-02-07-Shopee-社招内推（长期有效）](https://www.v2ex.com/t/752219) 
 - [2021-02-07-遇到一个奇怪的-oc-lgoin-登录失败问题](https://www.v2ex.com/t/752218) 
 - [2021-02-07-Clubhouse-之三大吐槽](https://www.v2ex.com/t/752217) 
@@ -46,4 +47,3 @@
 - [2021-02-07-公众号大概有-30-万数据，需要对符合条件的用户发送消息](https://www.v2ex.com/t/752175) 
 - [2021-02-07-发现市场上还没有集成-CUP-的显卡，是不是代表有市场](https://www.v2ex.com/t/752174) 
 - [2021-02-07-想招靠谱的-Android，咋就这么难呢](https://www.v2ex.com/t/752173) 
-- [2021-02-07-求推荐一款能在京东买到的、便宜的安卓平板](https://www.v2ex.com/t/752170) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-07 00:08:30，:rocket: 更新条数: +4254， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-07 00:16:56，:rocket: 更新条数: +4254， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,8 @@
 </summary>
 
 
+- [2021-02-07-“骑驴找马”如何避免“弃驴失马”](https://www.v2ex.com/t/751934) ![](assets/new.png)  
+- [2021-02-07-打不开贴吧-AMD-吧](https://www.v2ex.com/t/751933) ![](assets/new.png)  
 - [2021-02-06-10-年程序员-vs-公务员](https://www.v2ex.com/t/751931) ![](assets/new.png)  
 - [2021-02-06-网易云音乐擅自操作用户关注](https://www.v2ex.com/t/751929) ![](assets/new.png)  
 - [2021-02-06-2021-年了-换路由器哪家强？](https://www.v2ex.com/t/751928) ![](assets/new.png)  
@@ -1030,8 +1032,6 @@
 - [2021-02-06-翻译：《实用的-Python-编程》01_01_Python](https://www.v2ex.com/t/751912) ![](assets/new.png)  
 - [2021-02-06-什么软件能阅读-PDF，并且在上面做标注（画图、打字），并且支持导出（Evernote、有道）？](https://www.v2ex.com/t/751910) ![](assets/new.png)  
 - [2021-02-06-ios-的待办提醒怎么能用闹钟提醒-默认的提醒方式太容易忽略了](https://www.v2ex.com/t/751909) ![](assets/new.png)  
-- [2021-02-06-想把旧的-iPad-Air-和-iPad-Mini-卖了换新款，有什么好渠道吗？](https://www.v2ex.com/t/751908) ![](assets/new.png)  
-- [2021-02-06-mongodb-有没有方法可以判断一个-filter-文档是否满足某一个数据文档](https://www.v2ex.com/t/751907) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,16 +1084,16 @@
 - [2021-02-07-实现-Web-端自定义截屏](https://toutiao.io/k/rnph6i4) ![](assets/new.png)  
 - [2021-02-07-边缘计算场景下云边端一体化的挑战与实践](https://toutiao.io/k/u7evc2j) ![](assets/new.png)  
 - [2021-02-07-导航组件概览：MAD-Skills](https://toutiao.io/k/vs7o8yj) ![](assets/new.png)  
+- [2021-02-07-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
 - [2021-02-07-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
-- [2021-02-07-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
-- [2021-02-07-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-07-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
-- [2021-02-07-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
-- [2021-02-07-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
+- [2021-02-07-推荐-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
 - [2021-02-07-推荐-跳表：会跳的链表原来这么-diao](https://toutiao.io/k/fobkj0c) ![](assets/new.png)  
-- [2021-02-07-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
-- [2021-02-07-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
-- [2021-02-07-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
+- [2021-02-07-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
+- [2021-02-07-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) ![](assets/new.png)  
+- [2021-02-07-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
+- [2021-02-07-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
+- [2021-02-07-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
+- [2021-02-07-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,6 +1105,12 @@
 </summary>
 
 
+- [2021-02-07-​Python又添一大科学计算库,基于Armadillo矩阵库的PyArmadillo发布](https://sec.thief.one/article_content?a_id=565a6600ce464060f84ece2e3d58005d) ![](assets/new.png)  
+- [2021-02-07-NanoString技术方法](https://sec.thief.one/article_content?a_id=73e209fcb6ecc4c41dcf276dcf16bc14) ![](assets/new.png)  
+- [2021-02-07-空天信息安全与可信计算教育部重点实验室2021年开放基金](https://sec.thief.one/article_content?a_id=a28633730ff10c28c967b7f466f547ef) ![](assets/new.png)  
+- [2021-02-06-破解某违法色情App](https://sec.thief.one/article_content?a_id=9a33394b7508ae4a245b006ac582f0b4) ![](assets/new.png)  
+- [2021-02-06-科学家「黑进」果蝇大脑跑NLP任务,发现效率比BERT高](https://sec.thief.one/article_content?a_id=8a40a3a729967b28da98d159e22c537a) ![](assets/new.png)  
+- [2021-02-06-针对巴基斯坦用户的新Android木马程序](https://sec.thief.one/article_content?a_id=5e36d2e6cc1f3022cbf1916b825ad849) ![](assets/new.png)  
 - [2021-02-06-Win10-DiSPATCH_LEVEL下读取物理内存](https://sec.thief.one/article_content?a_id=c7de969c99ae46b5fa092a0450a4a219) ![](assets/new.png)  
 - [2021-02-06-我是这样对灰产-外挂-下手的](https://sec.thief.one/article_content?a_id=58dae4764fc6f3e3b62f9f8aab6050c2) ![](assets/new.png)  
 - [2021-02-06-中国互联网发展基金会联手国家卫健部门举办公益演讲《生命的微光》](https://sec.thief.one/article_content?a_id=e4dc8098778726acf998f09c2f258bf2) ![](assets/new.png)  
@@ -1119,12 +1125,6 @@
 - [2021-02-06-零信任落地路径研究](https://sec.thief.one/article_content?a_id=a6c4f3aef6624f73ffd7ba81f5518d76) ![](assets/new.png)  
 - [2021-02-06-魔罗桫组织新一轮对南亚军工企业的窃密攻击](https://sec.thief.one/article_content?a_id=b147763a854a52ca9c1da1a17e5b504b) ![](assets/new.png)  
 - [2021-02-06-一个员工的离职成本,很恐怖!](https://sec.thief.one/article_content?a_id=935634f12cf8caf1c1638f4c4e266ae5) ![](assets/new.png)  
-- [2021-02-06-教你怎么写出让同事无法维护的代码](https://sec.thief.one/article_content?a_id=ebeec11bcb129a0adaded48e0799332a) ![](assets/new.png)  
-- [2021-02-06-使用BloodHound分析域的攻击路径](https://sec.thief.one/article_content?a_id=e11a9710fa88859b76ee2877587b2488) ![](assets/new.png)  
-- [2021-02-06-数字PCR的应用](https://sec.thief.one/article_content?a_id=0adc05ea4845c44f21a67aa4d3be7b86) ![](assets/new.png)  
-- [2021-02-06-Microsoft-IE远程命令执行在野-0day-漏洞通告](https://sec.thief.one/article_content?a_id=0eab01cc40f454190c8bbbbc44f8207a) ![](assets/new.png)  
-- [2021-02-05-Chrome用户谨记更新!含重大0day漏洞修复](https://sec.thief.one/article_content?a_id=164bda181c41f85e6877ecdd393757e0) ![](assets/new.png)  
-- [2021-02-05-每日攻防资讯简报Feb.5th](https://sec.thief.one/article_content?a_id=3919ee1e616c7f865dd72d1bfc7e9e10) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-07 19:04:07，:rocket: 更新条数: +4242， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-07 19:24:00，:rocket: 更新条数: +4268， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
@@ -1074,6 +1074,26 @@
 </summary>
 
 
+- [2021-02-07-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
+- [2021-02-07-不要让追求完美阻碍你做决策](https://toutiao.io/k/mah7i09) ![](assets/new.png)  
+- [2021-02-07-Go-embed-简明教程](https://toutiao.io/k/c3jscng) ![](assets/new.png)  
+- [2021-02-07-如何评估大二计算机学生的认知能力？](https://toutiao.io/k/x1wu11p) ![](assets/new.png)  
+- [2021-02-07-Gradle-与-Android-构建入门](https://toutiao.io/k/9ynuqn3) ![](assets/new.png)  
+- [2021-02-07-译-使用-QueryDSL-过程中你肯定遇到过的问题](https://toutiao.io/k/az1umqg) ![](assets/new.png)  
+- [2021-02-07-Go-源码阅读之-flag-包](https://toutiao.io/k/4nqqg6x) ![](assets/new.png)  
+- [2021-02-07-译-为什么人们还没有转向-Svelte](https://toutiao.io/k/gyzoweq) ![](assets/new.png)  
+- [2021-02-07-WACV-2021-论文大盘点：图像质量篇](https://toutiao.io/k/s7bbn1y) ![](assets/new.png)  
+- [2021-02-07-工具-|-网易数帆微服务团队开源的服务网格组件](https://toutiao.io/k/uokx0dc) ![](assets/new.png)  
+- [2021-02-07-形式生成，当字体遇上参数化设计](https://toutiao.io/k/69pquo5) ![](assets/new.png)  
+- [2021-02-07-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
+- [2021-02-07-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
+- [2021-02-07-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
+- [2021-02-07-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
+- [2021-02-07-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
+- [2021-02-07-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-07-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-07-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
+- [2021-02-07-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

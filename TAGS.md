@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-07 09:30:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 09:40:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -116,7 +116,7 @@
 - [【前端宇宙】推荐-7-个学习-TypeScript-的宝库，2021-是时候给自己加薪了！](https://www.ershicimi.com/p/b57c1a987fa377782b4e223a2eef1e46)
 - [【前端宇宙】TypeScript-4.2-Beta版本发布：带来诸多更新，营造更好的开发体验](https://www.ershicimi.com/p/bbbd9a87ccda98a2e75d976b8fe53c03)
 - [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
-- [【掘金前端】为什么说-TypeScript-是开发大型前端项目的必备语言](https://juejin.im/post/6926432698139590670)
+- [【掘金前端】Typescript-4.0新特性一览｜牛气冲天新年征文](https://juejin.im/post/6926445148880502792)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [【V2EX】技术文章-为什么说-TypeScript-是开发大型前端项目的必备语言？](https://www.v2ex.com/t/752126)
 - [......【查看更多】......](./details/tags/typescript.md)

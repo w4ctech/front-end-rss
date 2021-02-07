@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-07 09:30:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 09:40:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -12,6 +12,6 @@
 - [2021-01-31-推荐-7-个学习-TypeScript-的宝库，2021-是时候给自己加薪了！](https://www.ershicimi.com/p/b57c1a987fa377782b4e223a2eef1e46) 
 - [2021-01-18-TypeScript-4.2-Beta版本发布：带来诸多更新，营造更好的开发体验](https://www.ershicimi.com/p/bbbd9a87ccda98a2e75d976b8fe53c03) 
 - [2020-05-14-TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f) 
-- [2021-02-07-为什么说-TypeScript-是开发大型前端项目的必备语言](https://juejin.im/post/6926432698139590670) 
+- [2021-02-07-Typescript-4.0新特性一览｜牛气冲天新年征文](https://juejin.im/post/6926445148880502792) 
 - [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 
 - [2021-02-07-技术文章-为什么说-TypeScript-是开发大型前端项目的必备语言？](https://www.v2ex.com/t/752126) 

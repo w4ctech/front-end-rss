@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-07 02:01:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 02:10:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -15,3 +15,4 @@
 - [2021-02-07-招商系科技公司，坐标蛇口，运维开发方向，-Python-、golang、docker、etc](https://www.v2ex.com/t/751947) 
 - [2021-02-07-招商系科技公司，坐标深圳南山蛇口，运维开发方向，-Python-、golang、docker、云计算、etc](https://www.v2ex.com/t/751939) 
 - [2021-02-07-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) 
+- [2021-02-07-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) 

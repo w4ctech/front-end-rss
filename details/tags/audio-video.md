@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-07 02:01:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 02:10:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -93,6 +93,5 @@
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-02-07-想拍短视频，但是又不知道拍点啥，有什么好点子吗？](https://www.v2ex.com/t/751948) 
 - [2021-02-07-做了个弹幕视频网站](https://www.v2ex.com/t/751944) 
-- [2021-02-06-安卓浏览器全屏播放视频时候右上角两个斜杠是啥意思？](https://www.v2ex.com/t/751913) 
 - [2021-02-07-WACV-2021-论文大盘点：图像质量篇](https://toutiao.io/k/s7bbn1y) 
 - [2021-02-06-【视频】|-Python:闭包](https://sec.thief.one/article_content?a_id=778ff9f0dfb0457844859136b0d695db) 

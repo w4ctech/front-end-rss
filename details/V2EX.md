@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2021-02-07 02:01:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 02:10:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-07-迫于过年不回家，有啥可以屯着吃的，求推荐](https://www.v2ex.com/t/751968) 
+- [2021-02-07-请教两台显示器和两台设备Win-PC＆-MBP之间的连接该怎么优化](https://www.v2ex.com/t/751967) 
+- [2021-02-07-iPhone-的全屏手势，对老年人操作没-home-键友好](https://www.v2ex.com/t/751966) 
+- [2021-02-07-淘宝几十块一个的-Omnifocus-PRO-授权码是不是盗版？](https://www.v2ex.com/t/751965) 
+- [2021-02-07-我应不应该辞职](https://www.v2ex.com/t/751964) 
+- [2021-02-07-Chrome-报了个新-0day，用-Chrome-的都升级一下吧。](https://www.v2ex.com/t/751962) 
 - [2021-02-07-谷歌浏览器强制转-https-问题](https://www.v2ex.com/t/751961) 
 - [2021-02-07-有无前端大佬，问一下这个警告要怎么去掉？](https://www.v2ex.com/t/751960) 
 - [2021-02-07-北京地区，京东搜-数字人民币](https://www.v2ex.com/t/751959) 
@@ -41,9 +47,3 @@
 - [2021-02-06-如何在-macOS-11.2-激活-Spotlight-时，切换到指定输入法？](https://www.v2ex.com/t/751922) 
 - [2021-02-06-被-bug-环绕的一天](https://www.v2ex.com/t/751921) 
 - [2021-02-06-请教-同一网络环境，通过-ip:port-的方式访问本地部署的网站](https://www.v2ex.com/t/751920) 
-- [2021-02-06-端传媒畅读会员车～](https://www.v2ex.com/t/751918) 
-- [2021-02-06-鼠须管（Squirrel）更新至-0.15.0](https://www.v2ex.com/t/751917) 
-- [2021-02-06-教程-如何让-Proxifier-监管-VMware-的-NAT-流量？](https://www.v2ex.com/t/751915) 
-- [2021-02-06-坐标上海，-3-年后端，-offer-比较，求意见](https://www.v2ex.com/t/751914) 
-- [2021-02-06-安卓浏览器全屏播放视频时候右上角两个斜杠是啥意思？](https://www.v2ex.com/t/751913) 
-- [2021-02-06-翻译：《实用的-Python-编程》01_01_Python](https://www.v2ex.com/t/751912) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-07 08:35:07，:rocket: 更新条数: +4258， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-07 08:44:14，:rocket: 更新条数: +4257， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,10 @@
 </summary>
 
 
+- [2021-02-07-不会有人跟我一样，也准备在假期里憋大招吧](https://www.v2ex.com/t/752119) ![](assets/new.png)  
+- [2021-02-07-关于我的程序员定位问题](https://www.v2ex.com/t/752118) ![](assets/new.png)  
+- [2021-02-07-想养只猫，请教一些问题。](https://www.v2ex.com/t/752116) ![](assets/new.png)  
+- [2021-02-07-湖南长沙联通如何要公网-IPV4](https://www.v2ex.com/t/752115) ![](assets/new.png)  
 - [2021-02-07-被老婆删掉那些小-H-图表情后，我发现我不会聊天了。。。](https://www.v2ex.com/t/752114) ![](assets/new.png)  
 - [2021-02-07-hrbp-面完全不谈薪资，是不是凉了？](https://www.v2ex.com/t/752113) ![](assets/new.png)  
 - [2021-02-07-老哥老弟们，旧笔记本改造黑群怎么样？](https://www.v2ex.com/t/752112) ![](assets/new.png)  
@@ -1028,10 +1032,6 @@
 - [2021-02-07-Python-出现-certificate-verify-failed:-unable-to-get-local-issuer-certificate](https://www.v2ex.com/t/752098) ![](assets/new.png)  
 - [2021-02-07-最近想做一个文字版-web-游戏](https://www.v2ex.com/t/752096) ![](assets/new.png)  
 - [2021-02-07-受够了-es-的-curl-搜索语法](https://www.v2ex.com/t/752095) ![](assets/new.png)  
-- [2021-02-07-青蛙短信-分享一个基于-Core-ML-的智能短信过滤-App](https://www.v2ex.com/t/752092) ![](assets/new.png)  
-- [2021-02-07-过年放假前上班最后几天，你们都在干什么？](https://www.v2ex.com/t/752091) ![](assets/new.png)  
-- [2021-02-07-Type-C-转-dp-线不能-4k-60Hz](https://www.v2ex.com/t/752090) ![](assets/new.png)  
-- [2021-02-07-怎么限制应用互相打开](https://www.v2ex.com/t/752089) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1086,14 +1086,14 @@
 - [2021-02-07-形式生成，当字体遇上参数化设计](https://toutiao.io/k/69pquo5) ![](assets/new.png)  
 - [2021-02-07-工具-|-网易数帆微服务团队开源的服务网格组件](https://toutiao.io/k/uokx0dc) ![](assets/new.png)  
 - [2021-02-07-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
-- [2021-02-07-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
-- [2021-02-07-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
-- [2021-02-07-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
-- [2021-02-07-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
+- [2021-02-07-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) ![](assets/new.png)  
 - [2021-02-07-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-07-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-07-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
 - [2021-02-07-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
-- [2021-02-07-推荐-DDD-实现之路](https://toutiao.io/k/9r5qrcy) ![](assets/new.png)  
+- [2021-02-07-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-07-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
+- [2021-02-07-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
+- [2021-02-07-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

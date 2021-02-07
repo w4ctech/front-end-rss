@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-07 06:55:02，:rocket: 更新条数: +974， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-07 07:04:34，:rocket: 更新条数: +4261， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-02-07-2月6日全国新增新冠11例-本土病例1例](https://m.caixin.com/m/2021-02-07/101661455.html) ![](assets/new.png)  
+- [2021-02-07-对话|BioNTech创始人详解mRNA新冠疫苗：任何不良反应都将披露](https://m.caixin.com/m/2021-02-07/101661474.html) ![](assets/new.png)  
+- [2021-02-07-吉林省2月6日新增确诊病例1例-无症状感染者1例](https://m.caixin.com/m/2021-02-07/101661450.html) ![](assets/new.png)  
+- [2021-02-07-【境内疫情观察】吉林新增1例无症状转归确诊病例（2月6日）](http://m.database.caixin.com/m/2021-02-07/101661560.html) ![](assets/new.png)  
+- [2021-02-07-加拿大狂扫疫苗约订人均9剂-美国拟派军人支援接种-|-大流行手记2月6日](https://m.caixin.com/m/2021-02-07/101661437.html) ![](assets/new.png)  
+- [2021-02-06-吉林省2月5日新增确诊病例1例-无症状感染者1例](https://m.caixin.com/m/2021-02-06/101661209.html) ![](assets/new.png)  
+- [2021-02-06-黑龙江2月5日新增确诊病例3例-均在绥化市望奎县](https://m.caixin.com/m/2021-02-06/101661217.html) ![](assets/new.png)  
+- [2021-02-06-最新封面报道之一|新冠疫苗有多大效力？](http://m.weekly.caixin.com/m/2021-02-06/101661206.html) ![](assets/new.png)  
+- [2021-02-06-最新封面报道之二|接种能否如期完成？](http://m.weekly.caixin.com/m/2021-02-06/101661212.html) ![](assets/new.png)  
+- [2021-02-06-最新封面报道之三|群体免疫能否实现？](http://m.weekly.caixin.com/m/2021-02-06/101661220.html) ![](assets/new.png)  
+- [2021-02-06-【境内疫情观察】全国新增4例本土病例（2月5日）](http://m.database.caixin.com/m/2021-02-06/101661356.html) ![](assets/new.png)  
+- [2021-02-06-多国拟签发“疫苗护照”便利出境-强生疫苗在美申请紧急使用｜大流行手记（2月5日）](https://m.caixin.com/m/2021-02-06/101661244.html) ![](assets/new.png)  
+- [2021-02-05-香港新冠病人称怕打针逃出医院-被判囚六个月](https://m.caixin.com/m/2021-02-05/101661036.html) ![](assets/new.png)  
+- [2021-02-05-吉林省2月4日无新增确诊病例-新增无症状感染者2例](https://m.caixin.com/m/2021-02-05/101660599.html) ![](assets/new.png)  
+- [2021-02-05-上海2月4日新增1例本地确诊病例-常住浦东新区](https://m.caixin.com/m/2021-02-05/101660585.html) ![](assets/new.png)  
+- [2021-02-05-黑龙江2月4日新增确诊病例5例-无症状感染者3例](https://m.caixin.com/m/2021-02-05/101660582.html) ![](assets/new.png)  
+- [2021-02-05-最新封面报道|新冠抗疫定局](http://m.weekly.caixin.com/m/2021-02-05/101660835.html) ![](assets/new.png)  
+- [2021-02-05-【境内疫情观察】全国新增14例境外输入病例（2月4日）](http://m.database.caixin.com/m/2021-02-05/101660797.html) ![](assets/new.png)  
+- [2021-02-05-新冠疫苗接种意愿上升-英国研究混打功效｜大流行手记（2月4日）](https://m.caixin.com/m/2021-02-05/101660616.html) ![](assets/new.png)  
+- [2021-02-04-吉林2月3日新增8例本地确诊病例-长春2例通化6例](https://m.caixin.com/m/2021-02-04/101660156.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,7 +1014,6 @@
 
 - [2021-02-07-上海也送-20G-流量了，需要的自取](https://www.v2ex.com/t/752076) ![](assets/new.png)  
 - [2021-02-07-Python-time.strftime"%W"-怎么是第五周，今天不是第七周吗?](https://www.v2ex.com/t/752075) ![](assets/new.png)  
-- [2021-02-07-打算做一款-PDF-编辑器，在这里请问一下大家，都希望有什么样的功能？](https://www.v2ex.com/t/752074) ![](assets/new.png)  
 - [2021-02-07-迫于在网上资源过期，求一份-n1-盒子的电视盒子固件](https://www.v2ex.com/t/752073) ![](assets/new.png)  
 - [2021-02-07-飞书多维表格、vika-维格表、黑帕云、简道云、伙伴云等团队协作工具，你会选择哪一个？](https://www.v2ex.com/t/752071) ![](assets/new.png)  
 - [2021-02-07-请教个-multipart/form-data-类型的-post-请求!](https://www.v2ex.com/t/752070) ![](assets/new.png)  
@@ -1012,6 +1031,7 @@
 - [2021-02-07-ubuntu-可否自己被把硬盘换到其他主板（芯片组不一样）上开机即用？](https://www.v2ex.com/t/752055) ![](assets/new.png)  
 - [2021-02-07-2w-qps-查询-这套接口怎么搞呢？](https://www.v2ex.com/t/752054) ![](assets/new.png)  
 - [2021-02-07-上海-975-30~45-*-13+-ARKIE-工业设计产品-软件工程师---Web-全栈/前端架构师-TypeScript](https://www.v2ex.com/t/752053) ![](assets/new.png)  
+- [2021-02-07-Resilio-sync-同步时可以加密文件夹，将来用-Key-下载还原，这个功能-Syncthing、微力同步，群晖自带，都没有，其它软件可是实现么？最好开源的。](https://www.v2ex.com/t/752052) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1061,19 +1081,19 @@
 - [2021-02-07-译-使用-QueryDSL-过程中你肯定遇到过的问题](https://toutiao.io/k/az1umqg) ![](assets/new.png)  
 - [2021-02-07-译-为什么人们还没有转向-Svelte](https://toutiao.io/k/gyzoweq) ![](assets/new.png)  
 - [2021-02-07-Go-源码阅读之-flag-包](https://toutiao.io/k/4nqqg6x) ![](assets/new.png)  
-- [2021-02-07-Gradle-与-Android-构建入门](https://toutiao.io/k/9ynuqn3) ![](assets/new.png)  
 - [2021-02-07-WACV-2021-论文大盘点：图像质量篇](https://toutiao.io/k/s7bbn1y) ![](assets/new.png)  
+- [2021-02-07-Gradle-与-Android-构建入门](https://toutiao.io/k/9ynuqn3) ![](assets/new.png)  
 - [2021-02-07-形式生成，当字体遇上参数化设计](https://toutiao.io/k/69pquo5) ![](assets/new.png)  
 - [2021-02-07-工具-|-网易数帆微服务团队开源的服务网格组件](https://toutiao.io/k/uokx0dc) ![](assets/new.png)  
-- [2021-02-07-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-07-推荐-DDD-实现之路](https://toutiao.io/k/9r5qrcy) ![](assets/new.png)  
 - [2021-02-07-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
-- [2021-02-07-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
-- [2021-02-07-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
-- [2021-02-07-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
-- [2021-02-07-推荐-跳表：会跳的链表原来这么-diao](https://toutiao.io/k/fobkj0c) ![](assets/new.png)  
-- [2021-02-07-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
 - [2021-02-07-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
+- [2021-02-07-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) ![](assets/new.png)  
+- [2021-02-07-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
+- [2021-02-07-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
+- [2021-02-07-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
+- [2021-02-07-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
+- [2021-02-07-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-07-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

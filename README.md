@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-07 14:27:57，:rocket: 更新条数: +4014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-07 14:37:28，:rocket: 更新条数: +4014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -992,6 +992,7 @@
 </summary>
 
 
+- [2021-02-07-今年本科毕业-只会装系统-刷机-，不知何去何从](https://www.v2ex.com/t/752205) ![](assets/new.png)  
 - [2021-02-07-Microsoft-Edge-for-Mac-的跑马场大黑边没有了](https://www.v2ex.com/t/752204) ![](assets/new.png)  
 - [2021-02-07-一个方便-LeetCode-复习的脚本](https://www.v2ex.com/t/752203) ![](assets/new.png)  
 - [2021-02-07-深信服内推（内附岗位详情）-深圳/长沙-全职-云安全资源池软件开发工程师、云安全测试工程师、WAF-产品-Linux-C/C++开发](https://www.v2ex.com/t/752202) ![](assets/new.png)  
@@ -1011,7 +1012,6 @@
 - [2021-02-07-蓝牙电子秤对接库](https://www.v2ex.com/t/752187) ![](assets/new.png)  
 - [2021-02-07-大家还在公司的，你们的公司气氛是什么样子的？](https://www.v2ex.com/t/752186) ![](assets/new.png)  
 - [2021-02-07-为什么《无职转生》争议这么大](https://www.v2ex.com/t/752185) ![](assets/new.png)  
-- [2021-02-07-工作之余弄了-Web-打印解决方案](https://www.v2ex.com/t/752183) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,15 +1065,15 @@
 - [2021-02-07-WACV-2021-论文大盘点：图像质量篇](https://toutiao.io/k/s7bbn1y) ![](assets/new.png)  
 - [2021-02-07-工具-|-网易数帆微服务团队开源的服务网格组件](https://toutiao.io/k/uokx0dc) ![](assets/new.png)  
 - [2021-02-07-形式生成，当字体遇上参数化设计](https://toutiao.io/k/69pquo5) ![](assets/new.png)  
+- [2021-02-07-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-07-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
+- [2021-02-07-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-07-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
+- [2021-02-07-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
 - [2021-02-07-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-07-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
-- [2021-02-07-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
-- [2021-02-07-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-07-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
-- [2021-02-07-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
 - [2021-02-07-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
 - [2021-02-07-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
-- [2021-02-07-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
+- [2021-02-07-推荐-跳表：会跳的链表原来这么-diao](https://toutiao.io/k/fobkj0c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

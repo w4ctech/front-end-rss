@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-07 14:27:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 14:37:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -401,6 +401,7 @@
 - [【JavaScript】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48)
 - [【掘金前端】web性能测试及优化](https://juejin.im/post/6926461459341934600)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【开发者头条】推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o)
 - [【开发者头条】推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -477,6 +478,7 @@
 - [【前端开发】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/c1ab6af9e5de8317d968010524e4db03)
 - [【互联网架构师】为什么-Nginx-比-Apache-更牛叉？](https://www.ershicimi.com/p/087030cd225833ccffcd42f6fb40fbee)
 - [【InfoQ】Uber-实时推送平台实践：gRPC-推动基础设施的发展](https://www.ershicimi.com/p/b432d32f9a8031f3e19155fe1f2f7961)
+- [【开发者头条】推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

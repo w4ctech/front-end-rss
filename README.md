@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-07 01:21:36，:rocket: 更新条数: +4250， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-07 01:54:15，:rocket: 更新条数: +4258， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -68,18 +68,18 @@
 - [2021-02-07-2月6日全国新增新冠11例-本土病例1例](https://m.caixin.com/m/2021-02-07/101661455.html) ![](assets/new.png)  
 - [2021-02-07-吉林省2月6日新增确诊病例1例-无症状感染者1例](https://m.caixin.com/m/2021-02-07/101661450.html) ![](assets/new.png)  
 - [2021-02-07-加拿大狂扫疫苗约订人均9剂-美国拟派军人支援接种-|-大流行手记2月6日](https://m.caixin.com/m/2021-02-07/101661437.html) ![](assets/new.png)  
+- [2021-02-06-吉林省2月5日新增确诊病例1例-无症状感染者1例](https://m.caixin.com/m/2021-02-06/101661209.html) ![](assets/new.png)  
+- [2021-02-06-黑龙江2月5日新增确诊病例3例-均在绥化市望奎县](https://m.caixin.com/m/2021-02-06/101661217.html) ![](assets/new.png)  
 - [2021-02-06-最新封面报道之一|新冠疫苗有多大效力？](http://m.weekly.caixin.com/m/2021-02-06/101661206.html) ![](assets/new.png)  
 - [2021-02-06-最新封面报道之二|接种能否如期完成？](http://m.weekly.caixin.com/m/2021-02-06/101661212.html) ![](assets/new.png)  
 - [2021-02-06-最新封面报道之三|群体免疫能否实现？](http://m.weekly.caixin.com/m/2021-02-06/101661220.html) ![](assets/new.png)  
-- [2021-02-06-吉林省2月5日新增确诊病例1例-无症状感染者1例](https://m.caixin.com/m/2021-02-06/101661209.html) ![](assets/new.png)  
-- [2021-02-06-黑龙江2月5日新增确诊病例3例-均在绥化市望奎县](https://m.caixin.com/m/2021-02-06/101661217.html) ![](assets/new.png)  
 - [2021-02-06-【境内疫情观察】全国新增4例本土病例（2月5日）](http://m.database.caixin.com/m/2021-02-06/101661356.html) ![](assets/new.png)  
 - [2021-02-06-多国拟签发“疫苗护照”便利出境-强生疫苗在美申请紧急使用｜大流行手记（2月5日）](https://m.caixin.com/m/2021-02-06/101661244.html) ![](assets/new.png)  
-- [2021-02-05-最新封面报道|新冠抗疫定局](http://m.weekly.caixin.com/m/2021-02-05/101660835.html) ![](assets/new.png)  
 - [2021-02-05-香港新冠病人称怕打针逃出医院-被判囚六个月](https://m.caixin.com/m/2021-02-05/101661036.html) ![](assets/new.png)  
 - [2021-02-05-吉林省2月4日无新增确诊病例-新增无症状感染者2例](https://m.caixin.com/m/2021-02-05/101660599.html) ![](assets/new.png)  
 - [2021-02-05-上海2月4日新增1例本地确诊病例-常住浦东新区](https://m.caixin.com/m/2021-02-05/101660585.html) ![](assets/new.png)  
 - [2021-02-05-黑龙江2月4日新增确诊病例5例-无症状感染者3例](https://m.caixin.com/m/2021-02-05/101660582.html) ![](assets/new.png)  
+- [2021-02-05-最新封面报道|新冠抗疫定局](http://m.weekly.caixin.com/m/2021-02-05/101660835.html) ![](assets/new.png)  
 - [2021-02-05-【境内疫情观察】全国新增14例境外输入病例（2月4日）](http://m.database.caixin.com/m/2021-02-05/101660797.html) ![](assets/new.png)  
 - [2021-02-05-新冠疫苗接种意愿上升-英国研究混打功效｜大流行手记（2月4日）](https://m.caixin.com/m/2021-02-05/101660616.html) ![](assets/new.png)  
 - [2021-02-04-吉林2月3日新增8例本地确诊病例-长春2例通化6例](https://m.caixin.com/m/2021-02-04/101660156.html) ![](assets/new.png)  
@@ -1012,6 +1012,14 @@
 </summary>
 
 
+- [2021-02-07-北京地区，京东搜-数字人民币](https://www.v2ex.com/t/751959) ![](assets/new.png)  
+- [2021-02-07-工作地过年，求推荐一款果酒](https://www.v2ex.com/t/751958) ![](assets/new.png)  
+- [2021-02-07-打工人为公司奋斗的意义是什么？](https://www.v2ex.com/t/751957) ![](assets/new.png)  
+- [2021-02-07-请问更新鼠须管到-0.15.0-后自定义配置失效如何解决？](https://www.v2ex.com/t/751955) ![](assets/new.png)  
+- [2021-02-07-让我来看看今天还有谁在上班](https://www.v2ex.com/t/751953) ![](assets/new.png)  
+- [2021-02-07-安卓/前端-宝安坪洲，泰国越南-新闻资讯-TOP1，靠谱团队融资-B+轮已盈利，可年后入职](https://www.v2ex.com/t/751951) ![](assets/new.png)  
+- [2021-02-07-前所未有的用心招聘！与硅谷大牛一起创业，感受一流的技术文化与发展空间，错过等-X-年！](https://www.v2ex.com/t/751950) ![](assets/new.png)  
+- [2021-02-07-儿童线上早教课推荐](https://www.v2ex.com/t/751949) ![](assets/new.png)  
 - [2021-02-07-想拍短视频，但是又不知道拍点啥，有什么好点子吗？](https://www.v2ex.com/t/751948) ![](assets/new.png)  
 - [2021-02-07-招商系科技公司，坐标蛇口，运维开发方向，-Python-、golang、docker、etc](https://www.v2ex.com/t/751947) ![](assets/new.png)  
 - [2021-02-07-《普里希别耶夫中士》——-契柯夫](https://www.v2ex.com/t/751946) ![](assets/new.png)  
@@ -1024,14 +1032,6 @@
 - [2021-02-07-招商系科技公司，坐标深圳南山蛇口，运维开发方向，-Python-、golang、docker、云计算、etc](https://www.v2ex.com/t/751939) ![](assets/new.png)  
 - [2021-02-07-给父母选台手机](https://www.v2ex.com/t/751938) ![](assets/new.png)  
 - [2021-02-07-Vue-构建的项目中，重定向得到的图片无法正常加载，可能是什么原因造成的？](https://www.v2ex.com/t/751937) ![](assets/new.png)  
-- [2021-02-07-如何在-XCode-里使用-Vim](https://www.v2ex.com/t/751936) ![](assets/new.png)  
-- [2021-02-07-管不住别人信中药-好累](https://www.v2ex.com/t/751935) ![](assets/new.png)  
-- [2021-02-07-“骑驴找马”如何避免“弃驴失马”](https://www.v2ex.com/t/751934) ![](assets/new.png)  
-- [2021-02-07-打不开贴吧-AMD-吧](https://www.v2ex.com/t/751933) ![](assets/new.png)  
-- [2021-02-06-10-年程序员-vs-公务员](https://www.v2ex.com/t/751931) ![](assets/new.png)  
-- [2021-02-06-网易云音乐擅自操作用户关注](https://www.v2ex.com/t/751929) ![](assets/new.png)  
-- [2021-02-06-2021-年了-换路由器哪家强？](https://www.v2ex.com/t/751928) ![](assets/new.png)  
-- [2021-02-06-在-marcaria-注册域名要求公司注册证明怎么解决？](https://www.v2ex.com/t/751927) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,21 +1074,26 @@
 </summary>
 
 
-- [2021-02-07-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
-- [2021-02-07-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
-- [2021-02-07-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-07-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
-- [2021-02-07-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
-- [2021-02-07-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-07-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) ![](assets/new.png)  
-- [2021-02-07-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
-- [2021-02-07-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
-- [2021-02-07-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
+- [2021-02-07-不要让追求完美阻碍你做决策](https://toutiao.io/k/mah7i09) ![](assets/new.png)  
+- [2021-02-07-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
+- [2021-02-07-译-使用-QueryDSL-过程中你肯定遇到过的问题](https://toutiao.io/k/az1umqg) ![](assets/new.png)  
+- [2021-02-07-Gradle-与-Android-构建入门](https://toutiao.io/k/9ynuqn3) ![](assets/new.png)  
+- [2021-02-07-如何评估大二计算机学生的认知能力？](https://toutiao.io/k/x1wu11p) ![](assets/new.png)  
+- [2021-02-07-形式生成，当字体遇上参数化设计](https://toutiao.io/k/69pquo5) ![](assets/new.png)  
+- [2021-02-07-译-为什么人们还没有转向-Svelte](https://toutiao.io/k/gyzoweq) ![](assets/new.png)  
+- [2021-02-07-WACV-2021-论文大盘点：图像质量篇](https://toutiao.io/k/s7bbn1y) ![](assets/new.png)  
+- [2021-02-07-Go-源码阅读之-flag-包](https://toutiao.io/k/4nqqg6x) ![](assets/new.png)  
 - [2021-02-07-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) ![](assets/new.png)  
+- [2021-02-07-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
+- [2021-02-07-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
+- [2021-02-07-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
+- [2021-02-07-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
 - [2021-02-07-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
-- [2021-02-07-推荐-跳表：会跳的链表原来这么-diao](https://toutiao.io/k/fobkj0c) ![](assets/new.png)  
+- [2021-02-07-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
+- [2021-02-07-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
 - [2021-02-07-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
-- [2021-02-07-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
+- [2021-02-07-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-07-推荐-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

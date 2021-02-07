@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-07 18:04:31，:rocket: 更新条数: +979， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-07 18:09:06，:rocket: 更新条数: +4268， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-02-07-最新疫情：全国新冠累计确诊89692例-本土病例新增1例](https://m.caixin.com/m/2021-02-07/101661634.html) ![](assets/new.png)  
+- [2021-02-07-对话|BioNTech创始人详解mRNA新冠疫苗：任何不良反应都将披露](https://m.caixin.com/m/2021-02-07/101661474.html) ![](assets/new.png)  
+- [2021-02-07-吉林省2月6日新增确诊病例1例-无症状感染者1例](https://m.caixin.com/m/2021-02-07/101661450.html) ![](assets/new.png)  
+- [2021-02-07-最新海外疫情：新冠感染近1.06亿-累计死亡超230万](https://m.caixin.com/m/2021-02-07/101661638.html) ![](assets/new.png)  
+- [2021-02-07-【境内疫情观察】吉林新增1例无症状转归确诊病例（2月6日）](http://m.database.caixin.com/m/2021-02-07/101661560.html) ![](assets/new.png)  
+- [2021-02-07-加拿大狂扫疫苗约订人均9剂-美国拟派军人支援接种-|-大流行手记2月6日](https://m.caixin.com/m/2021-02-07/101661437.html) ![](assets/new.png)  
+- [2021-02-06-吉林省2月5日新增确诊病例1例-无症状感染者1例](https://m.caixin.com/m/2021-02-06/101661209.html) ![](assets/new.png)  
+- [2021-02-06-黑龙江2月5日新增确诊病例3例-均在绥化市望奎县](https://m.caixin.com/m/2021-02-06/101661217.html) ![](assets/new.png)  
+- [2021-02-06-最新封面报道之一|新冠疫苗有多大效力？](http://m.weekly.caixin.com/m/2021-02-06/101661206.html) ![](assets/new.png)  
+- [2021-02-06-最新封面报道之二|接种能否如期完成？](http://m.weekly.caixin.com/m/2021-02-06/101661212.html) ![](assets/new.png)  
+- [2021-02-06-最新封面报道之三|群体免疫能否实现？](http://m.weekly.caixin.com/m/2021-02-06/101661220.html) ![](assets/new.png)  
+- [2021-02-06-【境内疫情观察】全国新增4例本土病例（2月5日）](http://m.database.caixin.com/m/2021-02-06/101661356.html) ![](assets/new.png)  
+- [2021-02-06-多国拟签发“疫苗护照”便利出境-强生疫苗在美申请紧急使用｜大流行手记（2月5日）](https://m.caixin.com/m/2021-02-06/101661244.html) ![](assets/new.png)  
+- [2021-02-05-香港新冠病人称怕打针逃出医院-被判囚六个月](https://m.caixin.com/m/2021-02-05/101661036.html) ![](assets/new.png)  
+- [2021-02-05-吉林省2月4日无新增确诊病例-新增无症状感染者2例](https://m.caixin.com/m/2021-02-05/101660599.html) ![](assets/new.png)  
+- [2021-02-05-上海2月4日新增1例本地确诊病例-常住浦东新区](https://m.caixin.com/m/2021-02-05/101660585.html) ![](assets/new.png)  
+- [2021-02-05-黑龙江2月4日新增确诊病例5例-无症状感染者3例](https://m.caixin.com/m/2021-02-05/101660582.html) ![](assets/new.png)  
+- [2021-02-05-最新封面报道|新冠抗疫定局](http://m.weekly.caixin.com/m/2021-02-05/101660835.html) ![](assets/new.png)  
+- [2021-02-05-【境内疫情观察】全国新增14例境外输入病例（2月4日）](http://m.database.caixin.com/m/2021-02-05/101660797.html) ![](assets/new.png)  
+- [2021-02-05-新冠疫苗接种意愿上升-英国研究混打功效｜大流行手记（2月4日）](https://m.caixin.com/m/2021-02-05/101660616.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-07 06:32:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 06:42:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -92,6 +92,5 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-02-07-求-X86-类型的软路由推荐，主要用于策略分流](https://www.v2ex.com/t/752056) 
 - [2021-02-07-请问多端适配有用-Expo-Web-的思路的吗](https://www.v2ex.com/t/752043) 
-- [2021-02-07-为什么-Java-lib-源码中总是习惯用-var-加数字命名变量](https://www.v2ex.com/t/752013) 
 - [2021-02-07-工具-|-网易数帆微服务团队开源的服务网格组件](https://toutiao.io/k/uokx0dc) 
 - [2021-02-05-“网络珍珠港”事件再反思:为何供应链攻击如此难以防范?](https://sec.thief.one/article_content?a_id=c0bc3851c59e58379f79b29915be9f9c) 

@@ -1,15 +1,15 @@
-:alarm_clock: 更新时间: 2021-02-07 03:45:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 03:54:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2021-02-07-出垃圾成色小米-9](https://www.v2ex.com/t/752011) 
+- [2021-02-07-为什么-Java-lib-源码中总是习惯用-var-加数字命名变量](https://www.v2ex.com/t/752013) 
+- [2021-02-07-USDT-理财靠谱吗？](https://www.v2ex.com/t/752012) 
 - [2021-02-07-想骂骂搜狗输入法](https://www.v2ex.com/t/752010) 
 - [2021-02-07-校招+社招-百度异构计算&AI-方向](https://www.v2ex.com/t/752009) 
 - [2021-02-07-如何在服务端做大量的用户自定义的定时任务](https://www.v2ex.com/t/752008) 
-- [2021-02-07-贵司几号放假？放几天](https://www.v2ex.com/t/752007) 
 - [2021-02-07-跨域-cookie-到底应该怎么实现？我需要在-domain-1.com-通过-jquery-调用-domain-2.com-上的-PHP-写-cookie，在-domain-1.com-上读取，有可能实现么？](https://www.v2ex.com/t/752006) 
 - [2021-02-07--一面数据-|-深圳-真诚寻找对-AI/大数据/-Python-有热情的同学，欢迎砸简历~~](https://www.v2ex.com/t/752005) 
 - [2021-02-07-红米-K30-5G（骁龙-765）VS-红米-Note-9-Pro-5G（骁龙-750）](https://www.v2ex.com/t/752003) 
@@ -20,7 +20,6 @@
 - [2021-02-07-春招-淘宝消息基础-Java-开发](https://www.v2ex.com/t/751997) 
 - [2021-02-07-除了微信支付宝，还有哪里能使用北京健康码呢？感觉把这种东西限定在社交和支付平台里面就很离谱](https://www.v2ex.com/t/751996) 
 - [2021-02-07-请教-sql-统计查询](https://www.v2ex.com/t/751995) 
-- [2021-02-07-法律之美好，维权之艰难，环境之险恶](https://www.v2ex.com/t/751994) 
 - [2021-02-07-如何更好的制止别人插队？](https://www.v2ex.com/t/751992) 
 - [2021-02-07-tiktok-视频下载](https://www.v2ex.com/t/751991) 
 - [2021-02-07-The-Greate-Suspender-扩展包含恶意软件，已被停用。](https://www.v2ex.com/t/751990) 
@@ -44,5 +43,3 @@
 - [2021-02-07-请教两台显示器和两台设备Win-PC＆-MBP之间的连接该怎么优化](https://www.v2ex.com/t/751967) 
 - [2021-02-07-iPhone-的全屏手势，对老年人操作没-home-键友好](https://www.v2ex.com/t/751966) 
 - [2021-02-07-淘宝几十块一个的-Omnifocus-PRO-授权码是不是盗版？](https://www.v2ex.com/t/751965) 
-- [2021-02-07-我应不应该辞职](https://www.v2ex.com/t/751964) 
-- [2021-02-07-Chrome-报了个新-0day，用-Chrome-的都升级一下吧。](https://www.v2ex.com/t/751962) 

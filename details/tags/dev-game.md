@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-07 13:48:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 14:04:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,6 +28,5 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
-- [2021-02-07-现在广东移动宽带全部取消了游戏宽带的安装吗？](https://www.v2ex.com/t/752149) 
 - [2021-02-07-浅谈iOS游戏的汉化](https://sec.thief.one/article_content?a_id=217ef32bf987e99332beac0c78ba709e) 
 - [2021-02-04-【安全圈】VIPGames泄露了2300万游戏玩家的信息](https://sec.thief.one/article_content?a_id=881051bf3198417920523fe39930f635) 

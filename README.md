@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-07 05:38:19，:rocket: 更新条数: +4260， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-07 05:47:58，:rocket: 更新条数: +4260， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,9 @@
 </summary>
 
 
+- [2021-02-07-关于我在青云买服务器亏了好几百还被销售给训斥了一顿这件事](https://www.v2ex.com/t/752047) ![](assets/new.png)  
+- [2021-02-07-用户的-DNS-地址要怎样获取？](https://www.v2ex.com/t/752046) ![](assets/new.png)  
+- [2021-02-07-大家房贷都欠了多少？](https://www.v2ex.com/t/752045) ![](assets/new.png)  
 - [2021-02-07-m1-mbp-上安装-iPad-的微信语音或者视频，怎么没有声音呢](https://www.v2ex.com/t/752044) ![](assets/new.png)  
 - [2021-02-07-请问多端适配有用-Expo-Web-的思路的吗](https://www.v2ex.com/t/752043) ![](assets/new.png)  
 - [2021-02-07-哪里能租电动车？](https://www.v2ex.com/t/752042) ![](assets/new.png)  
@@ -1029,9 +1032,6 @@
 - [2021-02-07-有没有出-air2-或者-mini2-的](https://www.v2ex.com/t/752026) ![](assets/new.png)  
 - [2021-02-07-昨天差点被诈骗一万五](https://www.v2ex.com/t/752025) ![](assets/new.png)  
 - [2021-02-07-试用期没有年终](https://www.v2ex.com/t/752024) ![](assets/new.png)  
-- [2021-02-07-为什么总感觉外面卖的螺蛳粉没有自己在家住的好吃呢？](https://www.v2ex.com/t/752023) ![](assets/new.png)  
-- [2021-02-07-b-站会员最高买一年送一年](https://www.v2ex.com/t/752022) ![](assets/new.png)  
-- [2021-02-07-请教带机量-wifi-100-台的方案，预算-2000-内](https://www.v2ex.com/t/752021) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,23 +1077,23 @@
 - [2021-02-07-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
 - [2021-02-07-不要让追求完美阻碍你做决策](https://toutiao.io/k/mah7i09) ![](assets/new.png)  
 - [2021-02-07-译-使用-QueryDSL-过程中你肯定遇到过的问题](https://toutiao.io/k/az1umqg) ![](assets/new.png)  
-- [2021-02-07-译-为什么人们还没有转向-Svelte](https://toutiao.io/k/gyzoweq) ![](assets/new.png)  
 - [2021-02-07-如何评估大二计算机学生的认知能力？](https://toutiao.io/k/x1wu11p) ![](assets/new.png)  
+- [2021-02-07-译-为什么人们还没有转向-Svelte](https://toutiao.io/k/gyzoweq) ![](assets/new.png)  
 - [2021-02-07-Go-源码阅读之-flag-包](https://toutiao.io/k/4nqqg6x) ![](assets/new.png)  
 - [2021-02-07-Go-embed-简明教程](https://toutiao.io/k/c3jscng) ![](assets/new.png)  
 - [2021-02-07-Gradle-与-Android-构建入门](https://toutiao.io/k/9ynuqn3) ![](assets/new.png)  
 - [2021-02-07-形式生成，当字体遇上参数化设计](https://toutiao.io/k/69pquo5) ![](assets/new.png)  
 - [2021-02-07-WACV-2021-论文大盘点：图像质量篇](https://toutiao.io/k/s7bbn1y) ![](assets/new.png)  
 - [2021-02-07-工具-|-网易数帆微服务团队开源的服务网格组件](https://toutiao.io/k/uokx0dc) ![](assets/new.png)  
-- [2021-02-07-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) ![](assets/new.png)  
-- [2021-02-07-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
-- [2021-02-07-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
+- [2021-02-07-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
 - [2021-02-07-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-07-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
-- [2021-02-07-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
+- [2021-02-07-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
+- [2021-02-07-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
 - [2021-02-07-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
+- [2021-02-07-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
 - [2021-02-07-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
-- [2021-02-07-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
+- [2021-02-07-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
+- [2021-02-07-推荐-DDD-实现之路](https://toutiao.io/k/9r5qrcy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-02-07 02:44:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 02:53:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-07-要怎么理解-update-和-upgrade-这两个词的区别](https://www.v2ex.com/t/751983) 
+- [2021-02-07-Python-zipfile-性能问题](https://www.v2ex.com/t/751982) 
+- [2021-02-07-有没有小程序开发交流群](https://www.v2ex.com/t/751981) 
+- [2021-02-07-2021-第-7-届中国国际汽车先进电子展览会](https://www.v2ex.com/t/751980) 
 - [2021-02-07-gormt-数据库转换工具-grom-v2-上新](https://www.v2ex.com/t/751978) 
 - [2021-02-07-实习-微软亚洲研究院-全球网络实时数据采集平台-Web-前端实习生](https://www.v2ex.com/t/751977) 
 - [2021-02-07-实在不想安装-xcode，已经从-Apple-Developer-安装-Command-Line-Tools-成功了，为啥-brew-upgrade-还是提示需要执行-xcode-select---install?](https://www.v2ex.com/t/751974) 
@@ -43,5 +47,3 @@
 - [2021-02-07-如何在-XCode-里使用-Vim](https://www.v2ex.com/t/751936) 
 - [2021-02-07-管不住别人信中药-好累](https://www.v2ex.com/t/751935) 
 - [2021-02-07-“骑驴找马”如何避免“弃驴失马”](https://www.v2ex.com/t/751934) 
-- [2021-02-07-打不开贴吧-AMD-吧](https://www.v2ex.com/t/751933) 
-- [2021-02-06-10-年程序员-vs-公务员](https://www.v2ex.com/t/751931) 

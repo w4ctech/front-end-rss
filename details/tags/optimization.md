@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-07 03:30:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-07 03:40:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -23,3 +23,5 @@
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2021-02-07-Python-zipfile-性能问题](https://www.v2ex.com/t/751982) 
 - [2021-02-07-请教两台显示器和两台设备Win-PC＆-MBP之间的连接该怎么优化](https://www.v2ex.com/t/751967) 
+- [2021-02-07-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) 
+- [2021-02-07-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) 

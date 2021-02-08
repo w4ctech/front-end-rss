@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-08 18:57:26，:rocket: 更新条数: +934， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-08 19:04:36，:rocket: 更新条数: +4200， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-02-08-最新疫情：全国新冠累计确诊89706例-无新增本土病例](https://m.caixin.com/m/2021-02-08/101661892.html) ![](assets/new.png)  
+- [2021-02-08-中国向53个发展中国家提供疫苗援助-并为COVAX提供1000万剂](http://m.international.caixin.com/m/2021-02-08/101662003.html) ![](assets/new.png)  
+- [2021-02-08-最新海外疫情：新冠感染近1.07亿-累计死亡超231万](https://m.caixin.com/m/2021-02-08/101661877.html) ![](assets/new.png)  
+- [2021-02-08-【境内疫情观察】河北重症病例清零，多地调整风险等级（2月7日）](http://m.database.caixin.com/m/2021-02-08/101661781.html) ![](assets/new.png)  
+- [2021-02-08-非洲已筹10亿支新冠疫苗-牛津疫苗对南非变异株效果有限丨大流行手记2月7日](https://m.caixin.com/m/2021-02-08/101661709.html) ![](assets/new.png)  
+- [2021-02-08-【图集】石家庄部分村民结束隔离分批返家](http://m.photos.caixin.com/m/2021-02-08/101661870.html) ![](assets/new.png)  
+- [2021-02-07-对话|BioNTech创始人详解mRNA新冠疫苗：任何不良反应都将披露](https://m.caixin.com/m/2021-02-07/101661474.html) ![](assets/new.png)  
+- [2021-02-07-吉林省2月6日新增确诊病例1例-无症状感染者1例](https://m.caixin.com/m/2021-02-07/101661450.html) ![](assets/new.png)  
+- [2021-02-07-【境内疫情观察】吉林新增1例无症状转归确诊病例（2月6日）](http://m.database.caixin.com/m/2021-02-07/101661560.html) ![](assets/new.png)  
+- [2021-02-07-加拿大狂扫疫苗约订人均9剂-美国拟派军人支援接种-|-大流行手记2月6日](https://m.caixin.com/m/2021-02-07/101661437.html) ![](assets/new.png)  
+- [2021-02-06-吉林省2月5日新增确诊病例1例-无症状感染者1例](https://m.caixin.com/m/2021-02-06/101661209.html) ![](assets/new.png)  
+- [2021-02-06-黑龙江2月5日新增确诊病例3例-均在绥化市望奎县](https://m.caixin.com/m/2021-02-06/101661217.html) ![](assets/new.png)  
+- [2021-02-06-最新封面报道之一|新冠疫苗有多大效力？](http://m.weekly.caixin.com/m/2021-02-06/101661206.html) ![](assets/new.png)  
+- [2021-02-06-最新封面报道之二|接种能否如期完成？](http://m.weekly.caixin.com/m/2021-02-06/101661212.html) ![](assets/new.png)  
+- [2021-02-06-最新封面报道之三|群体免疫能否实现？](http://m.weekly.caixin.com/m/2021-02-06/101661220.html) ![](assets/new.png)  
+- [2021-02-06-【境内疫情观察】全国新增4例本土病例（2月5日）](http://m.database.caixin.com/m/2021-02-06/101661356.html) ![](assets/new.png)  
+- [2021-02-06-多国拟签发“疫苗护照”便利出境-强生疫苗在美申请紧急使用｜大流行手记（2月5日）](https://m.caixin.com/m/2021-02-06/101661244.html) ![](assets/new.png)  
+- [2021-02-05-香港新冠病人称怕打针逃出医院-被判囚六个月](https://m.caixin.com/m/2021-02-05/101661036.html) ![](assets/new.png)  
+- [2021-02-05-吉林省2月4日无新增确诊病例-新增无症状感染者2例](https://m.caixin.com/m/2021-02-05/101660599.html) ![](assets/new.png)  
+- [2021-02-05-上海2月4日新增1例本地确诊病例-常住浦东新区](https://m.caixin.com/m/2021-02-05/101660585.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1034,26 +1054,6 @@
 </summary>
 
 
-- [2021-02-08-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
-- [2021-02-08-Go-工程化（一）：架构整洁之道阅读笔记](https://toutiao.io/k/tvbyx7f) ![](assets/new.png)  
-- [2021-02-08-结合论文看-Youtube-推荐系统中召回和排序的演进之路（中）：深度召回排序](https://toutiao.io/k/bojhsa2) ![](assets/new.png)  
-- [2021-02-08-面向初学者的实用教程合集，欢迎-PR](https://toutiao.io/k/tee3go6) ![](assets/new.png)  
-- [2021-02-08-演进式数据架构](https://toutiao.io/k/ck7f43n) ![](assets/new.png)  
-- [2021-02-08-Seata-RM-源码分析](https://toutiao.io/k/iev7uls) ![](assets/new.png)  
-- [2021-02-08-上市企业安全合规审计探索实践](https://toutiao.io/k/a54g3fn) ![](assets/new.png)  
-- [2021-02-08-不可忽视的-PHP-数据精度损失问题](https://toutiao.io/k/zb53nhb) ![](assets/new.png)  
-- [2021-02-08-一文带你了解适配-Android-11-分区存储](https://toutiao.io/k/gl9qwc3) ![](assets/new.png)  
-- [2021-02-08-大数据-+-云：Kylin/Spark/Clickhouse/Hudi-的大佬们怎么看？](https://toutiao.io/k/u1ojp41) ![](assets/new.png)  
-- [2021-02-08-React-Core-Team-成员开发的-“火焰图组件”-技术揭秘](https://toutiao.io/k/ar8ibup) ![](assets/new.png)  
-- [2021-02-08-我用两周开发了一个图片类应用微信小程序（一）](https://toutiao.io/k/z989o2g) ![](assets/new.png)  
-- [2021-02-08-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
-- [2021-02-08-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) ![](assets/new.png)  
-- [2021-02-08-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-08-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
-- [2021-02-08-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
-- [2021-02-08-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-08-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
-- [2021-02-08-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

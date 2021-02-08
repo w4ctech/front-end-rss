@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-08 02:00:44，:rocket: 更新条数: +4268， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-08 02:10:54，:rocket: 更新条数: +4268， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,9 @@
 </summary>
 
 
+- [2021-02-08-老爸被证券公司的人劝的买了好多基金,大家看看哪些能抛出去](https://www.v2ex.com/t/752265) ![](assets/new.png)  
+- [2021-02-08-gerrit-code-review-的一些困惑](https://www.v2ex.com/t/752264) ![](assets/new.png)  
+- [2021-02-08-微信公众号与微信小程序在用户上如何打通？](https://www.v2ex.com/t/752263) ![](assets/new.png)  
 - [2021-02-08-又错失一波暴富机会，-doge-币](https://www.v2ex.com/t/752262) ![](assets/new.png)  
 - [2021-02-08-netbiosd-100%](https://www.v2ex.com/t/752261) ![](assets/new.png)  
 - [2021-02-08-求助：-Macbook-装虚拟机的问题](https://www.v2ex.com/t/752260) ![](assets/new.png)  
@@ -1029,9 +1032,6 @@
 - [2021-02-08-uu-加速器能突破上传的限制？](https://www.v2ex.com/t/752247) ![](assets/new.png)  
 - [2021-02-08-毫米波便携-wifi](https://www.v2ex.com/t/752245) ![](assets/new.png)  
 - [2021-02-08-年前最后几天上班时间划下水，年会中了-switch，真香](https://www.v2ex.com/t/752243) ![](assets/new.png)  
-- [2021-02-08-三线小城市，听闻同事（销售）扣税-2000，有些小羡慕。做技术还是不行，我每月就扣-200。](https://www.v2ex.com/t/752242) ![](assets/new.png)  
-- [2021-02-08-上班炒股的人让人挺难受的](https://www.v2ex.com/t/752241) ![](assets/new.png)  
-- [2021-02-08-淘宝的商品中心和类目体系是怎么设计的-|-极客分享第-16-期](https://www.v2ex.com/t/752240) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1076,8 +1076,8 @@
 
 - [2021-02-08-Go-工程化（一）：架构整洁之道阅读笔记](https://toutiao.io/k/tvbyx7f) ![](assets/new.png)  
 - [2021-02-08-结合论文看-Youtube-推荐系统中召回和排序的演进之路（中）：深度召回排序](https://toutiao.io/k/bojhsa2) ![](assets/new.png)  
-- [2021-02-08-上市企业安全合规审计探索实践](https://toutiao.io/k/a54g3fn) ![](assets/new.png)  
 - [2021-02-08-演进式数据架构](https://toutiao.io/k/ck7f43n) ![](assets/new.png)  
+- [2021-02-08-上市企业安全合规审计探索实践](https://toutiao.io/k/a54g3fn) ![](assets/new.png)  
 - [2021-02-08-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
 - [2021-02-08-Seata-RM-源码分析](https://toutiao.io/k/iev7uls) ![](assets/new.png)  
 - [2021-02-08-不可忽视的-PHP-数据精度损失问题](https://toutiao.io/k/zb53nhb) ![](assets/new.png)  
@@ -1086,14 +1086,14 @@
 - [2021-02-08-面向初学者的实用教程合集，欢迎-PR](https://toutiao.io/k/tee3go6) ![](assets/new.png)  
 - [2021-02-08-React-Core-Team-成员开发的-“火焰图组件”-技术揭秘](https://toutiao.io/k/ar8ibup) ![](assets/new.png)  
 - [2021-02-08-我用两周开发了一个图片类应用微信小程序（一）](https://toutiao.io/k/z989o2g) ![](assets/new.png)  
-- [2021-02-08-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
-- [2021-02-08-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) ![](assets/new.png)  
-- [2021-02-08-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
-- [2021-02-08-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-08-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
+- [2021-02-08-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-08-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
 - [2021-02-08-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-08-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-08-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
 - [2021-02-08-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
 - [2021-02-08-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
+- [2021-02-08-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

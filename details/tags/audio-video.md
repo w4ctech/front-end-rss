@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-08 09:54:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-08 10:05:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -73,14 +73,6 @@
 - [2020-01-22-【音频|特别策划】新冠肺炎疫情是如何逼近的？](http://fm.caixin.com/m/2020-01-22/101507323.html) 
 - [2020-01-22-【视频】国新办举行发布会-介绍新冠肺炎防控情况](http://m.video.caixin.com/m/2020-01-22/101507052.html) 
 - [2020-01-20-【视频】钟南山谈新型肺炎：肯定存在人传人现象](http://m.video.caixin.com/m/2020-01-20/101506478.html) 
-- [2020-05-13-视频Winter-教你-MVVM](https://www.ershicimi.com/p/407d00f5a91b47a7f16018aaec12084f) 
-- [2019-10-13-更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d) 
-- [2019-10-12-视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b) 
-- [2019-10-10-视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a) 
-- [2019-10-08-视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed) 
-- [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
-- [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
-- [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2021-02-08-【视频】|-Python:闭包保存参数的状态](https://sec.thief.one/article_content?a_id=cbda993739c965be53cba7e60a4c499b) 
 - [2021-02-07-【视频】|-防火墙分类与运行模式](https://sec.thief.one/article_content?a_id=85b60d0b4be6612b44d0af77eab2a567) 
 - [2021-02-06-【视频】|-Python:闭包](https://sec.thief.one/article_content?a_id=778ff9f0dfb0457844859136b0d695db) 

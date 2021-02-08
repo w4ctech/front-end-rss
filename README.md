@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-08 19:04:36，:rocket: 更新条数: +4200， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-08 19:24:32，:rocket: 更新条数: +4227， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
@@ -1054,6 +1054,26 @@
 </summary>
 
 
+- [2021-02-08-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
+- [2021-02-08-Go-工程化（一）：架构整洁之道阅读笔记](https://toutiao.io/k/tvbyx7f) ![](assets/new.png)  
+- [2021-02-08-结合论文看-Youtube-推荐系统中召回和排序的演进之路（中）：深度召回排序](https://toutiao.io/k/bojhsa2) ![](assets/new.png)  
+- [2021-02-08-面向初学者的实用教程合集，欢迎-PR](https://toutiao.io/k/tee3go6) ![](assets/new.png)  
+- [2021-02-08-演进式数据架构](https://toutiao.io/k/ck7f43n) ![](assets/new.png)  
+- [2021-02-08-Seata-RM-源码分析](https://toutiao.io/k/iev7uls) ![](assets/new.png)  
+- [2021-02-08-上市企业安全合规审计探索实践](https://toutiao.io/k/a54g3fn) ![](assets/new.png)  
+- [2021-02-08-不可忽视的-PHP-数据精度损失问题](https://toutiao.io/k/zb53nhb) ![](assets/new.png)  
+- [2021-02-08-一文带你了解适配-Android-11-分区存储](https://toutiao.io/k/gl9qwc3) ![](assets/new.png)  
+- [2021-02-08-大数据-+-云：Kylin/Spark/Clickhouse/Hudi-的大佬们怎么看？](https://toutiao.io/k/u1ojp41) ![](assets/new.png)  
+- [2021-02-08-React-Core-Team-成员开发的-“火焰图组件”-技术揭秘](https://toutiao.io/k/ar8ibup) ![](assets/new.png)  
+- [2021-02-08-我用两周开发了一个图片类应用微信小程序（一）](https://toutiao.io/k/z989o2g) ![](assets/new.png)  
+- [2021-02-08-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
+- [2021-02-08-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
+- [2021-02-08-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
+- [2021-02-08-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-08-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
+- [2021-02-08-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
+- [2021-02-08-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-08-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

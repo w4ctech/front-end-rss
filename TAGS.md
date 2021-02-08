@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-08 04:09:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-08 04:35:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -147,6 +147,7 @@
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 - [【InfoQ】基于-Kafka-技术栈构建和部署实时搜索引擎的实践](https://www.ershicimi.com/p/7d6b04afd014188d71fa26d96196fbdf)
 - [【InfoQ】我们为什么构建自己的-serverless-机器学习平台，而非使用-AWS-Lambda？](https://www.ershicimi.com/p/a97957b6a9599f0c76cd3c5ca9805695)
+- [【掘金前端】yarn-和-npm-命令行小抄](https://juejin.im/post/6926467652748017671)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【编程之上】万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019)
 - [【编程之上】4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4)
@@ -448,8 +449,8 @@
 - [【前端日刊】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8)
 - [【互联网架构师】腾讯推出高性能-RPC-开发框架](https://www.ershicimi.com/p/d3a73492ed6e31f4db98669c00a63fa7)
 - [【JavaScript】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48)
-- [【掘金前端】被高估的网站性能统计-|-Standardista](https://juejin.im/post/6926466892534284296)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【开发者头条】推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o)
 - [【开发者头条】推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -533,7 +534,6 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【互联网架构师】为什么-Nginx-比-Apache-更牛叉？](https://www.ershicimi.com/p/087030cd225833ccffcd42f6fb40fbee)
-- [【开发者头条】推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -559,7 +559,6 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【V2EX】github-项目名格式疑惑：为什么很少见到有用下划线_分隔的项目名的？](https://www.v2ex.com/t/752257)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -590,7 +589,7 @@
 - [【互联网架构师】面试官：你能说清楚分布式锁，进程锁，线程锁的区别吗？](https://www.ershicimi.com/p/5e7c40e3cb1e149daf0bf89b43a251b8)
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
 - [【V2EX】节前再招聘一波，蚂蚁上海技术风险数据平台，-Java-/数据研发](https://www.v2ex.com/t/752272)
-- [【开发者头条】推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26)
+- [【开发者头条】推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk)
 - [【安全热点】牛聘|2021年度岗位招聘第1期](https://sec.thief.one/article_content?a_id=e4e0e1a477fbf319234303744511ce5a)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

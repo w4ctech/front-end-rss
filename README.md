@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-08 12:40:24，:rocket: 更新条数: +970， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-08 12:49:28，:rocket: 更新条数: +970， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -872,8 +872,8 @@
 </summary>
 
 
+- [2021-02-08-轻松教你使用纯css实现H5-Doorin编辑器中的水波动画](https://juejin.im/post/6926872402307579911) ![](assets/new.png)  
 - [2021-02-08-Taro-助力京喜拼拼项目性能体验优化](https://juejin.im/post/6926822751380307976) ![](assets/new.png)  
-- [2021-02-08-Docsify-v4.12.0-发布，神奇的文档网站生成工具](https://juejin.im/post/6926812009006628871) ![](assets/new.png)  
 - [2021-02-07-TypeScript-高级用法](https://juejin.im/post/6926794697553739784) ![](assets/new.png)  
 - [2021-02-07-被收费绘图工具-PUA-了怎么办？来看看这个老实工具吧](https://juejin.im/post/6926688956977250317) ![](assets/new.png)  
 - [2021-02-07-浅谈对-React-Fiber-的理解](https://juejin.im/post/6926432527980691470) ![](assets/new.png)  
@@ -992,6 +992,7 @@
 </summary>
 
 
+- [2021-02-08-这年头还有人搞-PC-的-USB-口电压吗?](https://www.v2ex.com/t/752446) ![](assets/new.png)  
 - [2021-02-08-过年了，客户给的红包能收吗？](https://www.v2ex.com/t/752445) ![](assets/new.png)  
 - [2021-02-08-快递物流更新的信息可以被内部更改的吗](https://www.v2ex.com/t/752444) ![](assets/new.png)  
 - [2021-02-08-杭州/远程-前端工程师快来呀，优秀的杭州区块链小公司招人了](https://www.v2ex.com/t/752443) ![](assets/new.png)  
@@ -1011,7 +1012,6 @@
 - [2021-02-08-大家在路上遇到漂亮的异性是如何搭讪并索要联系方式的？](https://www.v2ex.com/t/752420) ![](assets/new.png)  
 - [2021-02-08-求大佬推荐好用的-React-移动端-UI-框架.](https://www.v2ex.com/t/752418) ![](assets/new.png)  
 - [2021-02-08-有没有手柄可以同时支持-PC、PS4-和-Switch-的？](https://www.v2ex.com/t/752417) ![](assets/new.png)  
-- [2021-02-08-15-薪关于年底-3-薪的问题](https://www.v2ex.com/t/752416) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1066,14 +1066,14 @@
 - [2021-02-08-大数据-+-云：Kylin/Spark/Clickhouse/Hudi-的大佬们怎么看？](https://toutiao.io/k/u1ojp41) ![](assets/new.png)  
 - [2021-02-08-React-Core-Team-成员开发的-“火焰图组件”-技术揭秘](https://toutiao.io/k/ar8ibup) ![](assets/new.png)  
 - [2021-02-08-我用两周开发了一个图片类应用微信小程序（一）](https://toutiao.io/k/z989o2g) ![](assets/new.png)  
-- [2021-02-08-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-08-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
-- [2021-02-08-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) ![](assets/new.png)  
-- [2021-02-08-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
+- [2021-02-08-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-08-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-08-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-08-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
 - [2021-02-08-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
-- [2021-02-08-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
+- [2021-02-08-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) ![](assets/new.png)  
 - [2021-02-08-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
-- [2021-02-08-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
+- [2021-02-08-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

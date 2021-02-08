@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-08 02:10:54，:rocket: 更新条数: +4268， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-08 02:29:26，:rocket: 更新条数: +4259， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -654,16 +654,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -893,10 +883,10 @@
 
 
 - [2021-02-07-被收费绘图工具-PUA-了怎么办？来看看这个老实工具吧](https://juejin.im/post/6926688956977250317) ![](assets/new.png)  
-- [2021-02-07-漫画-|-北上广深打工人月薪五万回老家的“注意事项”](https://juejin.im/post/6926687251770376206) ![](assets/new.png)  
-- [2021-02-07-译-Optional-Chaining-操作符](https://juejin.im/post/6926525106323881997) ![](assets/new.png)  
-- [2021-02-06-前端猛男带你玩转typescript（下）](https://juejin.im/post/6926391888345989134) ![](assets/new.png)  
-- [2021-02-06-手摸手Go-接口与反射](https://juejin.im/post/6926145826842640391) ![](assets/new.png)  
+- [2021-02-07-被高估的网站性能统计-|-Standardista](https://juejin.im/post/6926466892534284296) ![](assets/new.png)  
+- [2021-02-07-为什么总有人黑-JavaScript？](https://juejin.im/post/6926466523666055175) ![](assets/new.png)  
+- [2021-02-07-实践向-从小白视角实现React的Fiber架构](https://juejin.im/post/6926441875784073223) ![](assets/new.png)  
+- [2021-02-06-牛年春节特别活动｜参与赢取价值2021元锦鲤礼包！](https://juejin.im/post/6926362406717423629) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1012,6 +1002,9 @@
 </summary>
 
 
+- [2021-02-08-问问有-Apple-Watch-的朋友们，🍎️手表拿来看微信通知-看-app-通知有延迟吗-效果如何？](https://www.v2ex.com/t/752268) ![](assets/new.png)  
+- [2021-02-08-图片处理（海报生成-and-二维码生成）,由前端处理还是后端处理好？](https://www.v2ex.com/t/752267) ![](assets/new.png)  
+- [2021-02-08-结完婚的，你们过年会给父辈（爸妈，爷爷奶奶，姥姥姥爷）准备红包吗？](https://www.v2ex.com/t/752266) ![](assets/new.png)  
 - [2021-02-08-老爸被证券公司的人劝的买了好多基金,大家看看哪些能抛出去](https://www.v2ex.com/t/752265) ![](assets/new.png)  
 - [2021-02-08-gerrit-code-review-的一些困惑](https://www.v2ex.com/t/752264) ![](assets/new.png)  
 - [2021-02-08-微信公众号与微信小程序在用户上如何打通？](https://www.v2ex.com/t/752263) ![](assets/new.png)  
@@ -1029,9 +1022,6 @@
 - [2021-02-08-请问，同一个项目组，-win-和-osx-都有的情况下如何解决版本控制问题](https://www.v2ex.com/t/752250) ![](assets/new.png)  
 - [2021-02-08-套路云轻量-singapore-区的搭鸡场容易被封吗](https://www.v2ex.com/t/752249) ![](assets/new.png)  
 - [2021-02-08-clubhouse-房间预报频道-clubhouseRooms](https://www.v2ex.com/t/752248) ![](assets/new.png)  
-- [2021-02-08-uu-加速器能突破上传的限制？](https://www.v2ex.com/t/752247) ![](assets/new.png)  
-- [2021-02-08-毫米波便携-wifi](https://www.v2ex.com/t/752245) ![](assets/new.png)  
-- [2021-02-08-年前最后几天上班时间划下水，年会中了-switch，真香](https://www.v2ex.com/t/752243) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,23 +1067,23 @@
 - [2021-02-08-Go-工程化（一）：架构整洁之道阅读笔记](https://toutiao.io/k/tvbyx7f) ![](assets/new.png)  
 - [2021-02-08-结合论文看-Youtube-推荐系统中召回和排序的演进之路（中）：深度召回排序](https://toutiao.io/k/bojhsa2) ![](assets/new.png)  
 - [2021-02-08-演进式数据架构](https://toutiao.io/k/ck7f43n) ![](assets/new.png)  
-- [2021-02-08-上市企业安全合规审计探索实践](https://toutiao.io/k/a54g3fn) ![](assets/new.png)  
 - [2021-02-08-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
-- [2021-02-08-Seata-RM-源码分析](https://toutiao.io/k/iev7uls) ![](assets/new.png)  
-- [2021-02-08-不可忽视的-PHP-数据精度损失问题](https://toutiao.io/k/zb53nhb) ![](assets/new.png)  
-- [2021-02-08-大数据-+-云：Kylin/Spark/Clickhouse/Hudi-的大佬们怎么看？](https://toutiao.io/k/u1ojp41) ![](assets/new.png)  
-- [2021-02-08-一文带你了解适配-Android-11-分区存储](https://toutiao.io/k/gl9qwc3) ![](assets/new.png)  
 - [2021-02-08-面向初学者的实用教程合集，欢迎-PR](https://toutiao.io/k/tee3go6) ![](assets/new.png)  
+- [2021-02-08-上市企业安全合规审计探索实践](https://toutiao.io/k/a54g3fn) ![](assets/new.png)  
+- [2021-02-08-Seata-RM-源码分析](https://toutiao.io/k/iev7uls) ![](assets/new.png)  
+- [2021-02-08-大数据-+-云：Kylin/Spark/Clickhouse/Hudi-的大佬们怎么看？](https://toutiao.io/k/u1ojp41) ![](assets/new.png)  
+- [2021-02-08-不可忽视的-PHP-数据精度损失问题](https://toutiao.io/k/zb53nhb) ![](assets/new.png)  
+- [2021-02-08-一文带你了解适配-Android-11-分区存储](https://toutiao.io/k/gl9qwc3) ![](assets/new.png)  
 - [2021-02-08-React-Core-Team-成员开发的-“火焰图组件”-技术揭秘](https://toutiao.io/k/ar8ibup) ![](assets/new.png)  
 - [2021-02-08-我用两周开发了一个图片类应用微信小程序（一）](https://toutiao.io/k/z989o2g) ![](assets/new.png)  
-- [2021-02-08-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
-- [2021-02-08-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
-- [2021-02-08-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
-- [2021-02-08-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-08-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-08-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
+- [2021-02-08-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-08-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-08-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
+- [2021-02-08-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
+- [2021-02-08-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
 - [2021-02-08-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
-- [2021-02-08-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) ![](assets/new.png)  
+- [2021-02-08-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-08-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

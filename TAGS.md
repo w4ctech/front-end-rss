@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-08 02:10:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-08 02:29:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -115,7 +115,6 @@
 - [【政采云前端团队】编写高质量可维护的代码：Awesome-TypeScript](https://www.ershicimi.com/p/0e0e4e00548bd0c316732a2a25594a04)
 - [【前端宇宙】推荐-7-个学习-TypeScript-的宝库，2021-是时候给自己加薪了！](https://www.ershicimi.com/p/b57c1a987fa377782b4e223a2eef1e46)
 - [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
-- [【掘金前端】前端猛男带你玩转typescript（下）](https://juejin.im/post/6926391888345989134)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -438,8 +437,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html)
 - [【政采云前端团队】如何从-0-到-1-搭建性能检测系统修正版](https://www.ershicimi.com/p/caf97cfac5fe753a40ff1f199bf6abfe)
-- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
-- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【凹凸实验室】大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)
 - [【凹凸实验室】京喜首页（微信购物入口）跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/)
 - [【凹凸实验室】前端优化实践总结](https://aotu.io/notes/2016/04/12/jcloud-opt/)
@@ -449,7 +446,9 @@
 - [【前端日刊】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8)
 - [【互联网架构师】腾讯推出高性能-RPC-开发框架](https://www.ershicimi.com/p/d3a73492ed6e31f4db98669c00a63fa7)
 - [【JavaScript】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48)
+- [【掘金前端】被高估的网站性能统计-|-Standardista](https://juejin.im/post/6926466892534284296)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【开发者头条】推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o)
 - [【开发者头条】推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -591,7 +590,7 @@
 - [【互联网架构师】面试官：你能说清楚分布式锁，进程锁，线程锁的区别吗？](https://www.ershicimi.com/p/5e7c40e3cb1e149daf0bf89b43a251b8)
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
 - [【V2EX】法国巴黎大数据采集公司招聘-Data-engineer-Python-/-C#-编程各一名](https://www.v2ex.com/t/752233)
-- [【开发者头条】推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26)
+- [【开发者头条】推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk)
 - [【安全热点】牛聘|2021年度岗位招聘第1期](https://sec.thief.one/article_content?a_id=e4e0e1a477fbf319234303744511ce5a)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

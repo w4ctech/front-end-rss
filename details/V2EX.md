@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-08 13:00:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-08 13:08:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2021-02-08-邮政储蓄银行好坑](https://www.v2ex.com/t/752405) 
 - [2021-02-08-联通宽带被诉信号变差向用户推付费产品，营销套路多用户流失严重](https://www.v2ex.com/t/752404) 
 - [2021-02-08-求助-关于-MIUI-EdXposed-占用空间过大问题](https://www.v2ex.com/t/752403) 
-- [2021-02-08-podman-的-rootless-是不是和-k8s-冲突了](https://www.v2ex.com/t/752402) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-08 14:49:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-08 15:04:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -16,11 +16,7 @@
 - [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668) 
 - [2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
-- [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-02-04-面试官：你能说清楚分布式锁，进程锁，线程锁的区别吗？](https://www.ershicimi.com/p/5e7c40e3cb1e149daf0bf89b43a251b8) 
-- [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
-- [2021-02-08-蚂蚁金服-港澳业务招聘-前端、客户端、服务器-春节后入职](https://www.v2ex.com/t/752467) 
 - [2021-02-08-成都-集团转型互联网，搭建产研团队，招聘产研负责人，-965-不加班，直接汇报-CTO](https://www.v2ex.com/t/752441) 
 - [2021-02-08-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) 
-- [2021-02-08-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) 
 - [2021-02-06-牛聘|2021年度岗位招聘第1期](https://sec.thief.one/article_content?a_id=e4e0e1a477fbf319234303744511ce5a) 

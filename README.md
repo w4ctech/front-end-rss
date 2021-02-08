@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-08 10:09:11，:rocket: 更新条数: +4264， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-08 10:31:38，:rocket: 更新条数: +971， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-02-08-最新疫情：全国新冠累计确诊89706例-无新增本土病例](https://m.caixin.com/m/2021-02-08/101661892.html) ![](assets/new.png)  
-- [2021-02-08-最新海外疫情：新冠感染近1.07亿-累计死亡超231万](https://m.caixin.com/m/2021-02-08/101661877.html) ![](assets/new.png)  
-- [2021-02-08-【境内疫情观察】河北重症病例清零，多地调整风险等级（2月7日）](http://m.database.caixin.com/m/2021-02-08/101661781.html) ![](assets/new.png)  
-- [2021-02-08-非洲已筹10亿支新冠疫苗-牛津疫苗对南非变异株效果有限丨大流行手记2月7日](https://m.caixin.com/m/2021-02-08/101661709.html) ![](assets/new.png)  
-- [2021-02-08-【图集】石家庄部分村民结束隔离分批返家](http://m.photos.caixin.com/m/2021-02-08/101661870.html) ![](assets/new.png)  
-- [2021-02-07-对话|BioNTech创始人详解mRNA新冠疫苗：任何不良反应都将披露](https://m.caixin.com/m/2021-02-07/101661474.html) ![](assets/new.png)  
-- [2021-02-07-吉林省2月6日新增确诊病例1例-无症状感染者1例](https://m.caixin.com/m/2021-02-07/101661450.html) ![](assets/new.png)  
-- [2021-02-07-【境内疫情观察】吉林新增1例无症状转归确诊病例（2月6日）](http://m.database.caixin.com/m/2021-02-07/101661560.html) ![](assets/new.png)  
-- [2021-02-07-加拿大狂扫疫苗约订人均9剂-美国拟派军人支援接种-|-大流行手记2月6日](https://m.caixin.com/m/2021-02-07/101661437.html) ![](assets/new.png)  
-- [2021-02-06-吉林省2月5日新增确诊病例1例-无症状感染者1例](https://m.caixin.com/m/2021-02-06/101661209.html) ![](assets/new.png)  
-- [2021-02-06-黑龙江2月5日新增确诊病例3例-均在绥化市望奎县](https://m.caixin.com/m/2021-02-06/101661217.html) ![](assets/new.png)  
-- [2021-02-06-最新封面报道之一|新冠疫苗有多大效力？](http://m.weekly.caixin.com/m/2021-02-06/101661206.html) ![](assets/new.png)  
-- [2021-02-06-最新封面报道之二|接种能否如期完成？](http://m.weekly.caixin.com/m/2021-02-06/101661212.html) ![](assets/new.png)  
-- [2021-02-06-最新封面报道之三|群体免疫能否实现？](http://m.weekly.caixin.com/m/2021-02-06/101661220.html) ![](assets/new.png)  
-- [2021-02-06-【境内疫情观察】全国新增4例本土病例（2月5日）](http://m.database.caixin.com/m/2021-02-06/101661356.html) ![](assets/new.png)  
-- [2021-02-06-多国拟签发“疫苗护照”便利出境-强生疫苗在美申请紧急使用｜大流行手记（2月5日）](https://m.caixin.com/m/2021-02-06/101661244.html) ![](assets/new.png)  
-- [2021-02-05-香港新冠病人称怕打针逃出医院-被判囚六个月](https://m.caixin.com/m/2021-02-05/101661036.html) ![](assets/new.png)  
-- [2021-02-05-吉林省2月4日无新增确诊病例-新增无症状感染者2例](https://m.caixin.com/m/2021-02-05/101660599.html) ![](assets/new.png)  
-- [2021-02-05-上海2月4日新增1例本地确诊病例-常住浦东新区](https://m.caixin.com/m/2021-02-05/101660585.html) ![](assets/new.png)  
-- [2021-02-05-黑龙江2月4日新增确诊病例5例-无症状感染者3例](https://m.caixin.com/m/2021-02-05/101660582.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -96,9 +76,9 @@
 </summary>
 
 
+- [2021-02-08-全国｜低风险地区群众可进行混样核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiusAPpT13LQrI5tqUENgs210208&isfromapp=1) ![](assets/new.png)  
 - [2021-02-08-山西｜晋中生产生活全面恢复正常](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiorLw1bGTQjKz2fSyC5Ep210208&isfromapp=1) ![](assets/new.png)  
 - [2021-02-08-全国｜新增-14-例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizY0YLWTTM0PCng6IjJRa210208&isfromapp=1) ![](assets/new.png)  
-- [2021-02-07-黑龙江｜绥化安达服务业有序复业复市](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy5ltzHdIhlB2PSCzMhtZ210207&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -895,8 +875,8 @@
 - [2021-02-08-Taro-助力京喜拼拼项目性能体验优化](https://juejin.im/post/6926822751380307976) ![](assets/new.png)  
 - [2021-02-08-Docsify-v4.12.0-发布，神奇的文档网站生成工具](https://juejin.im/post/6926812009006628871) ![](assets/new.png)  
 - [2021-02-07-TypeScript-高级用法](https://juejin.im/post/6926794697553739784) ![](assets/new.png)  
-- [2021-02-07-你不知道的前端软技能，反制职场PUA](https://juejin.im/post/6926787585423933448) ![](assets/new.png)  
-- [2021-02-07-用-Serverless-开发一个-React+Koa+PostgreSQL-全栈项目](https://juejin.im/post/6926785380066967559) ![](assets/new.png)  
+- [2021-02-07-被收费绘图工具-PUA-了怎么办？来看看这个老实工具吧](https://juejin.im/post/6926688956977250317) ![](assets/new.png)  
+- [2021-02-07-浅谈对-React-Fiber-的理解](https://juejin.im/post/6926432527980691470) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1012,6 +992,9 @@
 </summary>
 
 
+- [2021-02-08-铁子们过来上班儿啊，出粮准时！北京、深圳、广州、郑州、宁波都要！](https://www.v2ex.com/t/752424) ![](assets/new.png)  
+- [2021-02-08-有没有过年不回家的分享几个留深好去处呀](https://www.v2ex.com/t/752421) ![](assets/new.png)  
+- [2021-02-08-大家在路上遇到漂亮的异性是如何搭讪并索要联系方式的？](https://www.v2ex.com/t/752420) ![](assets/new.png)  
 - [2021-02-08-求大佬推荐好用的-React-移动端-UI-框架.](https://www.v2ex.com/t/752418) ![](assets/new.png)  
 - [2021-02-08-有没有手柄可以同时支持-PC、PS4-和-Switch-的？](https://www.v2ex.com/t/752417) ![](assets/new.png)  
 - [2021-02-08-15-薪关于年底-3-薪的问题](https://www.v2ex.com/t/752416) ![](assets/new.png)  
@@ -1029,9 +1012,6 @@
 - [2021-02-08-深圳-Shopee-3-月-6-日,-各个部门招聘会,-火力全开！🔥🔥🔥](https://www.v2ex.com/t/752401) ![](assets/new.png)  
 - [2021-02-08-查几个-cmd5](https://www.v2ex.com/t/752400) ![](assets/new.png)  
 - [2021-02-08-Openproject-有人二次开发过么](https://www.v2ex.com/t/752399) ![](assets/new.png)  
-- [2021-02-08-请问一下-你们在家都是这么布置自己的书桌的另外求推荐桌子和椅子以及台灯](https://www.v2ex.com/t/752397) ![](assets/new.png)  
-- [2021-02-08-上海/远程-反-996-Dimension.im-/-Mask-Network-热招-前端/移动端；公司高速发展，-IEEE/-ECMA&TC39-成员](https://www.v2ex.com/t/752396) ![](assets/new.png)  
-- [2021-02-08-求助：-docker-拉取镜像文件出错](https://www.v2ex.com/t/752395) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1086,14 +1066,14 @@
 - [2021-02-08-不可忽视的-PHP-数据精度损失问题](https://toutiao.io/k/zb53nhb) ![](assets/new.png)  
 - [2021-02-08-React-Core-Team-成员开发的-“火焰图组件”-技术揭秘](https://toutiao.io/k/ar8ibup) ![](assets/new.png)  
 - [2021-02-08-我用两周开发了一个图片类应用微信小程序（一）](https://toutiao.io/k/z989o2g) ![](assets/new.png)  
-- [2021-02-08-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) ![](assets/new.png)  
-- [2021-02-08-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
-- [2021-02-08-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
-- [2021-02-08-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
+- [2021-02-08-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
+- [2021-02-08-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
+- [2021-02-08-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) ![](assets/new.png)  
+- [2021-02-08-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-08-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
 - [2021-02-08-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-08-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
-- [2021-02-08-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
-- [2021-02-08-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
+- [2021-02-08-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
+- [2021-02-08-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,6 +1085,15 @@
 </summary>
 
 
+- [2021-02-08-招聘-|-Garena信息安全中心](https://sec.thief.one/article_content?a_id=46d686a0fb838a0061e1b3bc8ae70ac2) ![](assets/new.png)  
+- [2021-02-08-华为终端云服务安全奖励计划众测活动第一期上线啦](https://sec.thief.one/article_content?a_id=76cf6d98474819ec3c4af3ae00cd281f) ![](assets/new.png)  
+- [2021-02-08-基于威胁情报周期模型的APT木马剖析](https://sec.thief.one/article_content?a_id=52c5cb9ffe9ff168c605e390976b2e9b) ![](assets/new.png)  
+- [2021-02-08-【安全热点周报】第180期:Windows-Installer特权提升漏洞EXP已验证](https://sec.thief.one/article_content?a_id=28e6104cb884320fddf34a4c92243ba6) ![](assets/new.png)  
+- [2021-02-08-CNNVD-关于Sonicwall-SMA100-SQL注入漏洞的预警](https://sec.thief.one/article_content?a_id=83cda612aa733ce7d5163f8294cbd9d5) ![](assets/new.png)  
+- [2021-02-08-俄罗斯监管沙箱及区块链技术的实施](https://sec.thief.one/article_content?a_id=647b578429a514eb2a0436ccb803f4da) ![](assets/new.png)  
+- [2021-02-08-感谢信-|-国舜股份开发安全及反欺诈支持能力获某大型股份制银行认可](https://sec.thief.one/article_content?a_id=0a1902b72a779ca6617add103f59171b) ![](assets/new.png)  
+- [2021-02-08-TA551Shathak正通过IcedID银行木马发起新一轮攻势](https://sec.thief.one/article_content?a_id=0b9fe76dc1c98daf563fb4c75bfe04e2) ![](assets/new.png)  
+- [2021-02-08-你的时光邮局来信-|-致2020年-ZUI-酷的人](https://sec.thief.one/article_content?a_id=4d45beaff8237d4948530d43e36b577c) ![](assets/new.png)  
 - [2021-02-08-一起利用浏览器扩展劫持搜索结果的攻击活动](https://sec.thief.one/article_content?a_id=9019821170cb0cf34158306d25b05940) ![](assets/new.png)  
 - [2021-02-08-供应链攻击类型与防范](https://sec.thief.one/article_content?a_id=8189efe0990fae76e0cf36ff83dbbbc4) ![](assets/new.png)  
 - [2021-02-08-每日安全动态推送02-08](https://sec.thief.one/article_content?a_id=7ee912f87834e1ef08ed253e4c7da38e) ![](assets/new.png)  
@@ -1115,16 +1104,7 @@
 - [2021-02-08-第三次浪潮:全球市值最高的十大专业网络安全公司](https://sec.thief.one/article_content?a_id=354623b6a3d825961a7fbcb6fa04a69a) ![](assets/new.png)  
 - [2021-02-08-2月8日贵币GUIBI早内参-芝加哥商品交易所推出的以太坊期货开始交易...](https://sec.thief.one/article_content?a_id=1bc1a9ff90b2ced4139561fe3686b754) ![](assets/new.png)  
 - [2021-02-08-未修补的WordPress插件代码注入漏洞影响5万个网站](https://sec.thief.one/article_content?a_id=7601ad361c6de0df0103b1ff5fd1264f) ![](assets/new.png)  
-- [2021-02-08-拜登:美国采取“紧急”措施改善网络安全](https://sec.thief.one/article_content?a_id=3c0e1fa4ded22efe63a08e229b563003) ![](assets/new.png)  
-- [2021-02-08-【视频】|-Python:闭包保存参数的状态](https://sec.thief.one/article_content?a_id=cbda993739c965be53cba7e60a4c499b) ![](assets/new.png)  
-- [2021-02-08-当SameSite属性为默认值Lax时,绕过它并获得一个CSRF](https://sec.thief.one/article_content?a_id=e9ef180ea5799d6dbca09c9599e1e555) ![](assets/new.png)  
-- [2021-02-08-免疫治疗丨血液TMBbTMB可有效预测免疫治疗疗效且成功检测率高...](https://sec.thief.one/article_content?a_id=e048c6f35f7eb347b62c9913cd813b89) ![](assets/new.png)  
-- [2021-02-07-每日攻防资讯简报Feb.7th](https://sec.thief.one/article_content?a_id=0727bad649f4396f9cb933e564ad2fc0) ![](assets/new.png)  
-- [2021-02-07-Science公布:全世界最前沿的125个科学问题](https://sec.thief.one/article_content?a_id=a84c4ee34016c117f16da4a241df9ca0) ![](assets/new.png)  
-- [2021-02-07-区块链底层系统漏洞类型之-双生树漏洞](https://sec.thief.one/article_content?a_id=c62dfd9f6af529e2d4024daad94bbeda) ![](assets/new.png)  
-- [2021-02-07-2021年1月南亚地区APT组织攻击活动总结分析](https://sec.thief.one/article_content?a_id=14a5e80e12c95fa05ede1fb518a496c8) ![](assets/new.png)  
-- [2021-02-07-金融信创生态建设成效显著-奇安信获专业实验室认可](https://sec.thief.one/article_content?a_id=0fa931ccec824f62696e194a4d0c5d87) ![](assets/new.png)  
-- [2021-02-07-浅谈iOS游戏的汉化](https://sec.thief.one/article_content?a_id=217ef32bf987e99332beac0c78ba709e) ![](assets/new.png)  
+- [2021-02-08-基金这么赚钱!!python实现基金从采集到数据分析通用模板!白酒...](https://sec.thief.one/article_content?a_id=c849c2ef81f53bffc485677b8c468664) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

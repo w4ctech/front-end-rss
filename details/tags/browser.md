@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-08 10:09:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-08 10:31:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,22 +7,6 @@
 
 
 
-- [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
-- [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
-- [2020-08-25-大流行手记|8月24日：疫情威胁全球粮食安全-美国新增病例增势趋缓](https://m.caixin.com/m/2020-08-25/101596567.html) 
-- [2020-04-22-非洲新冠疫情叠加蝗灾-2000万人面临粮食安全威胁](http://m.science.caixin.com/m/2020-04-22/101545698.html) 
-- [2020-04-14-科技部：疫苗研发加快推进-确保安全性](http://m.china.caixin.com/m/2020-04-14/101542545.html) 
-- [2020-04-13-肺炎日记|4月12日：复学加快步伐，如何保障师生安全？](http://m.china.caixin.com/m/2020-04-13/101541775.html) 
-- [2020-04-12-崔天凯：只要有一国还有疫情，就没有人是安全的](http://m.international.caixin.com/m/2020-04-12/101541606.html) 
-- [2020-04-09-非洲确诊病例破万-粮食安全风险高企](http://m.international.caixin.com/m/2020-04-09/101540248.html) 
-- [2020-04-07-大流行手记|4月7日：口罩被截胡？-柏林请求军方“押镖”](https://m.caixin.com/m/2020-04-07/101539735.html) 
-- [2020-03-28-纽约市近半确诊者未满45岁-特朗普明确“先安全后经济”](http://m.international.caixin.com/m/2020-03-28/101535354.html) 
-- [2020-03-27-泰国暂停鸡蛋出口-疫情当下粮食安全受关注](http://m.china.caixin.com/m/2020-03-27/101535032.html) 
-- [2020-03-26-美新冠死亡病例破千-美专家呼吁取消对华关税保障医护安全](http://m.international.caixin.com/m/2020-03-26/101534192.html) 
-- [2020-03-24-中英领导人通话-约翰逊称尽力照顾留学生等中国公民的健康安全](http://m.international.caixin.com/m/2020-03-24/101532958.html) 
-- [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
-- [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
-- [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/cacecf530e97b404d830c2a50be041d6) 
 - [2021-02-06-【招聘】阿里云云安全前端团队招资深前端工程师、数据可视化工程师](https://www.ershicimi.com/p/65506e62cb1dfa61f94281b8063e1939) 
 - [2021-02-03-API请求失败后发生了什么？](https://www.ershicimi.com/p/cf521555b6f7d2c0d0fcca507baa1769) 
@@ -47,8 +31,12 @@
 - [2021-02-08-上海/远程-反-996-Dimension.im-/-Mask-Network-热招-前端/移动端；公司高速发展，-IEEE/-ECMA&TC39-成员](https://www.v2ex.com/t/752396) 
 - [2021-02-08-win10-上，为什么关闭-chrome-后，-reddit-之类的还能推送桌面消息，而谷歌系的似乎不行](https://www.v2ex.com/t/752385) 
 - [2021-02-08-上市企业安全合规审计探索实践](https://toutiao.io/k/a54g3fn) 
-- [2021-02-08-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) 
 - [2021-02-08-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) 
+- [2021-02-08-推荐-来，一起品品-Google-的-Code-Review-规范](https://toutiao.io/k/tz4h6d7) 
+- [2021-02-08-招聘-|-Garena信息安全中心](https://sec.thief.one/article_content?a_id=46d686a0fb838a0061e1b3bc8ae70ac2) 
+- [2021-02-08-华为终端云服务安全奖励计划众测活动第一期上线啦](https://sec.thief.one/article_content?a_id=76cf6d98474819ec3c4af3ae00cd281f) 
+- [2021-02-08-【安全热点周报】第180期:Windows-Installer特权提升漏洞EXP已验证](https://sec.thief.one/article_content?a_id=28e6104cb884320fddf34a4c92243ba6) 
+- [2021-02-08-感谢信-|-国舜股份开发安全及反欺诈支持能力获某大型股份制银行认可](https://sec.thief.one/article_content?a_id=0a1902b72a779ca6617add103f59171b) 
 - [2021-02-08-一起利用浏览器扩展劫持搜索结果的攻击活动](https://sec.thief.one/article_content?a_id=9019821170cb0cf34158306d25b05940) 
 - [2021-02-08-每日安全动态推送02-08](https://sec.thief.one/article_content?a_id=7ee912f87834e1ef08ed253e4c7da38e) 
 - [2021-02-08-第三次浪潮:全球市值最高的十大专业网络安全公司](https://sec.thief.one/article_content?a_id=354623b6a3d825961a7fbcb6fa04a69a) 
@@ -70,5 +58,3 @@
 - [2021-02-05-网络安全央采明星产品TOP20&采购单位TOP30](https://sec.thief.one/article_content?a_id=0a020e4ad499084ae5acb3d83a282592) 
 - [2021-02-05-BlastDoor:iOS-14安全新特征](https://sec.thief.one/article_content?a_id=a196e6426a9d189007b08f657ee23eb4) 
 - [2021-02-05-每日安全动态推送02-05](https://sec.thief.one/article_content?a_id=459ae26de5bd456d339373725dd9fc07) 
-- [2021-02-05-调试Python代码,不要再用print了!](https://sec.thief.one/article_content?a_id=639f267e4776a5251107287629d244c9) 
-- [2021-02-05-安全招聘汇总-|-第九期](https://sec.thief.one/article_content?a_id=8ee39a12679fc68f41cb873e233e23e1) 

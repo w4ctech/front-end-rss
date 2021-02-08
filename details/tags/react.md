@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-08 11:04:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-08 11:08:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -11,6 +11,7 @@
 - [2021-01-26-你不知道的Vue3.0-和React-17的异同点](https://www.ershicimi.com/p/25f83304c015190c36ce9f721341a8a4) 
 - [2021-01-30-我与hooks的这一年,-万字长文总结](https://www.ershicimi.com/p/2ccc330935e4bde850930b115411ad09) 
 - [2021-01-27-Vue-在哪些方面比-React-做得更好？](https://www.ershicimi.com/p/bd481f03487aae9590b64ed0315af065) 
+- [2021-01-25-从-Vue3.0-和React17-对比谈前端如何构建核心竞争力](https://www.ershicimi.com/p/dd7e55e89e3de38590584f50ff8bede4) 
 - [2020-02-13-工具控hoist-non-react-statics-你没用过吧](https://www.ershicimi.com/p/bb1161f2239a80f5e1b16357546ee040) 
 - [2020-02-12-工具控-react-优化里面用到-lodash.memoize](https://www.ershicimi.com/p/8030f9ceac2221818a92f0a24cede590) 
 - [2020-02-11-工具控babel-react-optimize](https://www.ershicimi.com/p/87be70d3d4719eedb42df24f6303ca69) 
@@ -21,6 +22,9 @@
 - [2020-04-16-ali-react-table：高性能-React-表格组件](https://www.ershicimi.com/p/4aeff96a51a674d7a02add3f8bd49c11) 
 - [2021-01-25-JS框架性能对比：Soild-高居榜首，Vue、React-和-Angular-竟纷纷跌出前十](https://www.ershicimi.com/p/6f6ee81610578200a4edbee69d2ca53e) 
 - [2021-01-20-2021年React学习路线图](https://www.ershicimi.com/p/812a0993614ebc499a6707b0cb02d99a) 
+- [2021-01-30-聊聊-React-组件库的技术选型与设计](https://www.ershicimi.com/p/7bd2f2f251c2c8fe908288639625073c) 
+- [2021-01-29-React-Server-Component-可能并没有那么香](https://www.ershicimi.com/p/122c5cf3301dddbdfe273014f11b6e81) 
+- [2021-01-26-写React-Hooks前必读](https://www.ershicimi.com/p/cd0c64820b52175838e903a7618b70bd) 
 - [2021-01-12-结合-React-源码，五分钟带你掌握优先队列](https://www.ershicimi.com/p/de9ab369d325d5590d0f583733ab9210) 
 - [2020-12-29-前端工程师的自我修养：React-Fiber-是如何实现更新过程可控的](https://www.ershicimi.com/p/72dc6b442470071a8e05aa0ceba63acb) 
 - [2020-11-24-“混合双打”之如何在-Class-Components-中使用-React-Hooks](https://www.ershicimi.com/p/0e0e249530678f763e438de795805147) 
@@ -49,5 +53,8 @@
 - [2020-07-19-「-思考-」-React-Hooks-的设计哲学](https://www.ershicimi.com/p/a06a740b0c554e7a4bf3accaa37913eb) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2021-02-07-浅谈对-React-Fiber-的理解](https://juejin.im/post/6926432527980691470) 
+- [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) 
+- [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) 
 - [2021-02-08-求大佬推荐好用的-React-移动端-UI-框架.](https://www.v2ex.com/t/752418) 
 - [2021-02-08-求推荐-React-框架下的-UI-库.](https://www.v2ex.com/t/752413) 
+- [2021-02-08-React-Core-Team-成员开发的-“火焰图组件”-技术揭秘](https://toutiao.io/k/ar8ibup) 

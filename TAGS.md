@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-08 03:31:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-08 03:40:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -450,7 +450,6 @@
 - [【JavaScript】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48)
 - [【掘金前端】被高估的网站性能统计-|-Standardista](https://juejin.im/post/6926466892534284296)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【开发者头条】推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk)
 - [【开发者头条】推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -535,6 +534,7 @@
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【互联网架构师】为什么-Nginx-比-Apache-更牛叉？](https://www.ershicimi.com/p/087030cd225833ccffcd42f6fb40fbee)
 - [【开发者头条】推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah)
+- [【开发者头条】推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -592,7 +592,6 @@
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
 - [【V2EX】节前再招聘一波，蚂蚁上海技术风险数据平台，-Java-/数据研发](https://www.v2ex.com/t/752272)
 - [【开发者头条】推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26)
-- [【开发者头条】推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk)
 - [【安全热点】牛聘|2021年度岗位招聘第1期](https://sec.thief.one/article_content?a_id=e4e0e1a477fbf319234303744511ce5a)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

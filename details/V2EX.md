@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-02-08 03:31:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-08 03:40:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-08-应该有办法能让-iOS-和-android-的应用图标不被厂商随意贴“分-X-亿”这种东西的吧？](https://www.v2ex.com/t/752296) 
+- [2021-02-08-有没有电视有这功能：小孩子离电视过近就自动报警，或提示灭屏](https://www.v2ex.com/t/752295) 
+- [2021-02-08-Windows-系统，键盘上的-ctrl-和-shift，大家什么情况下使用右边的-ctrl-和-shift](https://www.v2ex.com/t/752294) 
+- [2021-02-08-知乎的外部链接加上"https://link.zhihu.com/?target="可以用什么技术实现？](https://www.v2ex.com/t/752293) 
 - [2021-02-08-过年不回家-七天时间都干嘛啊](https://www.v2ex.com/t/752292) 
 - [2021-02-08-Linux-窗口-最大化-设置](https://www.v2ex.com/t/752291) 
 - [2021-02-08-pyppeteer-中文乱码](https://www.v2ex.com/t/752290) 
@@ -42,6 +46,3 @@
 - [2021-02-08-请问，同一个项目组，-win-和-osx-都有的情况下如何解决版本控制问题](https://www.v2ex.com/t/752250) 
 - [2021-02-08-套路云轻量-singapore-区的搭鸡场容易被封吗](https://www.v2ex.com/t/752249) 
 - [2021-02-08-clubhouse-房间预报频道-clubhouseRooms](https://www.v2ex.com/t/752248) 
-- [2021-02-08-uu-加速器能突破上传的限制？](https://www.v2ex.com/t/752247) 
-- [2021-02-08-毫米波便携-wifi](https://www.v2ex.com/t/752245) 
-- [2021-02-08-年前最后几天上班时间划下水，年会中了-switch，真香](https://www.v2ex.com/t/752243) 

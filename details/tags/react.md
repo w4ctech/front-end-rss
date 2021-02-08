@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-08 13:22:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-08 13:35:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -7,6 +7,9 @@
 
 
 
+- [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) 
+- [2021-01-25-从-Vue3.0-和React17-对比谈前端如何构建核心竞争力](https://www.ershicimi.com/p/dd7e55e89e3de38590584f50ff8bede4) 
+- [2020-04-16-ali-react-table：高性能-React-表格组件](https://www.ershicimi.com/p/4aeff96a51a674d7a02add3f8bd49c11) 
 - [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) 
 - [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) 
 - [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) 
@@ -21,3 +24,4 @@
 - [2016-01-07-使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/) 
 - [2021-02-08-求大佬推荐好用的-React-移动端-UI-框架.](https://www.v2ex.com/t/752418) 
 - [2021-02-08-求推荐-React-框架下的-UI-库.](https://www.v2ex.com/t/752413) 
+- [2021-02-08-React-Core-Team-成员开发的-“火焰图组件”-技术揭秘](https://toutiao.io/k/ar8ibup) 

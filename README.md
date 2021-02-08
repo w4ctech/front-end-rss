@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-08 23:08:03，:rocket: 更新条数: +4227， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-08 23:31:29，:rocket: 更新条数: +4227， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1066,14 +1066,14 @@
 - [2021-02-08-一文带你了解适配-Android-11-分区存储](https://toutiao.io/k/gl9qwc3) ![](assets/new.png)  
 - [2021-02-08-React-Core-Team-成员开发的-“火焰图组件”-技术揭秘](https://toutiao.io/k/ar8ibup) ![](assets/new.png)  
 - [2021-02-08-我用两周开发了一个图片类应用微信小程序（一）](https://toutiao.io/k/z989o2g) ![](assets/new.png)  
-- [2021-02-08-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
+- [2021-02-08-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
+- [2021-02-08-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
+- [2021-02-08-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-08-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
+- [2021-02-08-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
+- [2021-02-08-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
 - [2021-02-08-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
-- [2021-02-08-推荐-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
-- [2021-02-08-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
 - [2021-02-08-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
-- [2021-02-08-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
-- [2021-02-08-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
-- [2021-02-08-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

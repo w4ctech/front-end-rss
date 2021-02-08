@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-08 05:08:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-08 05:29:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -50,6 +50,10 @@
 - [2021-02-08-知乎的外部链接加上"https://link.zhihu.com/?target="可以用什么技术实现？](https://www.v2ex.com/t/752293) 
 - [2021-02-08-上市企业安全合规审计探索实践](https://toutiao.io/k/a54g3fn) 
 - [2021-02-08-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) 
+- [2021-02-08-一起利用浏览器扩展劫持搜索结果的攻击活动](https://sec.thief.one/article_content?a_id=9019821170cb0cf34158306d25b05940) 
+- [2021-02-08-每日安全动态推送02-08](https://sec.thief.one/article_content?a_id=7ee912f87834e1ef08ed253e4c7da38e) 
+- [2021-02-08-第三次浪潮:全球市值最高的十大专业网络安全公司](https://sec.thief.one/article_content?a_id=354623b6a3d825961a7fbcb6fa04a69a) 
+- [2021-02-08-拜登:美国采取“紧急”措施改善网络安全](https://sec.thief.one/article_content?a_id=3c0e1fa4ded22efe63a08e229b563003) 
 - [2021-02-07-Science公布:全世界最前沿的125个科学问题](https://sec.thief.one/article_content?a_id=a84c4ee34016c117f16da4a241df9ca0) 
 - [2021-02-07-感谢信-|-国舜股份安全研发支持能力获某大型国有银行认可](https://sec.thief.one/article_content?a_id=a8c76fb5a519170bdf2a1b380893bdb5) 
 - [2021-02-07-《2020年工业信息安全态势报告》发布-附下载](https://sec.thief.one/article_content?a_id=0191271a143af7bb80b6f3e832d09b8f) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-08 05:08:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-02-08 05:29:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -44,7 +44,7 @@
 <th colspan="12">2019年</th>
 </tr>
 <tr>
-<td><a href="#2019-01">01月</a></td>
+<td>01月</td>
 <td><a href="#2019-02">02月</a></td>
 <td><a href="#2019-03">03月</a></td>
 <td>04月</td>
@@ -141,6 +141,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2021-02-08-2月7日全国新增新冠14例-无本土病例](https://m.caixin.com/m/2021-02-08/101661706.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2021-02-08-【境内疫情观察】河北重症病例清零，多地调整风险等级（2月7日）](http://m.database.caixin.com/m/2021-02-08/101661781.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-02-08-非洲已筹10亿支新冠疫苗-牛津疫苗对南非变异株效果有限丨大流行手记2月7日](https://m.caixin.com/m/2021-02-08/101661709.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-02-07-对话|BioNTech创始人详解mRNA新冠疫苗：任何不良反应都将披露](https://m.caixin.com/m/2021-02-07/101661474.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-02-07-吉林省2月6日新增确诊病例1例-无症状感染者1例](https://m.caixin.com/m/2021-02-07/101661450.html) 
@@ -311,6 +312,9 @@
 - [【知乎日报】2021-02-01-知乎好问题：为什么会有人瞧不起《静夜思》《咏鹅》这类诗？](https://www.ershicimi.com/p/985655fe1d76c1f76d6592961c11b4d9) 
 - [【知乎日报】2021-02-01-春节太敏感？我建议你带这份锦囊回家](https://www.ershicimi.com/p/6b771fa7fd70677c75b269de286890f9) 
 - [【知乎日报】2021-02-01-知乎故事-|-你是从哪个细节发现男友/老公出轨的？](https://www.ershicimi.com/p/7ad5027657c197b59c26f0d4643ddd69) 
+- [【V2EX】2021-02-08-不要错过每次的潮起潮落](https://www.v2ex.com/t/752323) 
+- [【V2EX】2021-02-08-万能的-V-友们，请问-AppStore-新加坡区有什么好的充值渠道吗？](https://www.v2ex.com/t/752322) 
+- [【V2EX】2021-02-08-大家所在的公司有-commit-message-规范吗？](https://www.v2ex.com/t/752319) 
 - [【V2EX】2021-02-08-哔哩哔哩-APP-也开始删除用户照片了？](https://www.v2ex.com/t/752317) 
 - [【V2EX】2021-02-08-目前大环境下工作好找吗？](https://www.v2ex.com/t/752316) 
 - [【V2EX】2021-02-08-父亲去世、离婚，不堪回首的-2020](https://www.v2ex.com/t/752315) 
@@ -344,12 +348,6 @@
 - [【V2EX】2021-02-08-各位会用“语法高亮”的特性来做心得/笔记吗？](https://www.v2ex.com/t/752277) 
 - [【V2EX】2021-02-08-求助，-Google-play-上搜不到微信和-apple-music](https://www.v2ex.com/t/752276) 
 - [【V2EX】2021-02-08-有没有音频处理软件可以实现-overcast-的音量增大与跳过空白功能？](https://www.v2ex.com/t/752275) 
-- [【V2EX】2021-02-08-牛年到，提前给大家拜年发红包了~~~](https://www.v2ex.com/t/752273) 
-- [【V2EX】2021-02-08-节前再招聘一波，蚂蚁上海技术风险数据平台，-Java-/数据研发](https://www.v2ex.com/t/752272) 
-- [【V2EX】2021-02-08-实习-微软亚洲研究院-全球网络实时数据采集平台-Web-前端实习生](https://www.v2ex.com/t/752271) 
-- [【V2EX】2021-02-08-大伙儿一定要趁着年轻锻炼起来，不然后悔就来不及了](https://www.v2ex.com/t/752270) 
-- [【V2EX】2021-02-08-作为一个强迫症的烦恼](https://www.v2ex.com/t/752269) 
-- [【V2EX】2021-02-08-问问有-Apple-Watch-的朋友们，🍎️手表拿来看微信通知-看-app-通知有延迟吗-效果如何？](https://www.v2ex.com/t/752268) 
 - [【技术头条】2021-02-08-关于年终奖的故事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14145&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FF3u7KhJaBUSPm6H-Fy3hQw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-02-08-个推异常值检测和实战应用-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14144&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F349477322%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-02-08-我的第一本英文技术书-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14143&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmy-first-english-tech-book%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -373,8 +371,8 @@
 - [【开发者头条】2021-02-08-Go-工程化（一）：架构整洁之道阅读笔记](https://toutiao.io/k/tvbyx7f) 
 - [【开发者头条】2021-02-08-结合论文看-Youtube-推荐系统中召回和排序的演进之路（中）：深度召回排序](https://toutiao.io/k/bojhsa2) 
 - [【开发者头条】2021-02-08-面向初学者的实用教程合集，欢迎-PR](https://toutiao.io/k/tee3go6) 
-- [【开发者头条】2021-02-08-演进式数据架构](https://toutiao.io/k/ck7f43n) 
 - [【开发者头条】2021-02-08-深入了解-SSH](https://toutiao.io/k/8y463n2) 
+- [【开发者头条】2021-02-08-演进式数据架构](https://toutiao.io/k/ck7f43n) 
 - [【开发者头条】2021-02-08-Seata-RM-源码分析](https://toutiao.io/k/iev7uls) 
 - [【开发者头条】2021-02-08-上市企业安全合规审计探索实践](https://toutiao.io/k/a54g3fn) 
 - [【开发者头条】2021-02-08-大数据-+-云：Kylin/Spark/Clickhouse/Hudi-的大佬们怎么看？](https://toutiao.io/k/u1ojp41) 
@@ -382,21 +380,33 @@
 - [【开发者头条】2021-02-08-不可忽视的-PHP-数据精度损失问题](https://toutiao.io/k/zb53nhb) 
 - [【开发者头条】2021-02-08-React-Core-Team-成员开发的-“火焰图组件”-技术揭秘](https://toutiao.io/k/ar8ibup) 
 - [【开发者头条】2021-02-08-我用两周开发了一个图片类应用微信小程序（一）](https://toutiao.io/k/z989o2g) 
+- [【开发者头条】2021-02-08-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) 
+- [【开发者头条】2021-02-08-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) 
 - [【开发者头条】2021-02-08-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) 
-- [【开发者头条】2021-02-08-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) 
-- [【开发者头条】2021-02-08-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) 
-- [【开发者头条】2021-02-08-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) 
-- [【开发者头条】2021-02-08-推荐-金字塔思维，所有厉害的人都在用](https://toutiao.io/k/j22t4lx) 
-- [【开发者头条】2021-02-08-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) 
-- [【开发者头条】2021-02-08-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) 
 - [【开发者头条】2021-02-08-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) 
-- [【开发者头条】2021-02-08-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) 
+- [【开发者头条】2021-02-08-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) 
+- [【开发者头条】2021-02-08-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) 
+- [【开发者头条】2021-02-08-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) 
+- [【开发者头条】2021-02-08-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) 
+- [【开发者头条】2021-02-08-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) 
+- [【开发者头条】2021-02-08-推荐-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) 
+- [【开发者头条】2021-02-08-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) 
 - [【开发者头条】2021-02-08-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) 
 - [【开发者头条】2021-02-08-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) 
-- [【开发者头条】2021-02-08-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) 
-- [【开发者头条】2021-02-08-推荐-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) 
-- [【开发者头条】2021-02-08-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) 
-- [【开发者头条】2021-02-08-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) 
+- [【开发者头条】2021-02-08-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) 
+- [【开发者头条】2021-02-08-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) 
+- [【安全热点】2021-02-08-一起利用浏览器扩展劫持搜索结果的攻击活动](https://sec.thief.one/article_content?a_id=9019821170cb0cf34158306d25b05940) 
+- [【安全热点】2021-02-08-供应链攻击类型与防范](https://sec.thief.one/article_content?a_id=8189efe0990fae76e0cf36ff83dbbbc4) 
+- [【安全热点】2021-02-08-每日安全动态推送02-08](https://sec.thief.one/article_content?a_id=7ee912f87834e1ef08ed253e4c7da38e) 
+- [【安全热点】2021-02-08-“十四五”拍了拍你——少年对话“十四五”-畅想2035美好未来](https://sec.thief.one/article_content?a_id=6432d32e7ac59172552474e47a953eff) 
+- [【安全热点】2021-02-08-安利一个Python大数据分析神器!](https://sec.thief.one/article_content?a_id=4fd05e4eeccb39c2456c2a7e08fe6ee1) 
+- [【安全热点】2021-02-08-华为手机里的“麦田守望者”](https://sec.thief.one/article_content?a_id=ab9f6dc89b874e49d4d868fb0de4e195) 
+- [【安全热点】2021-02-08-公安提醒:男孩子,不要裸聊!](https://sec.thief.one/article_content?a_id=537e01c6a05634d5cb648cdb648ab6df) 
+- [【安全热点】2021-02-08-第三次浪潮:全球市值最高的十大专业网络安全公司](https://sec.thief.one/article_content?a_id=354623b6a3d825961a7fbcb6fa04a69a) 
+- [【安全热点】2021-02-08-2月8日贵币GUIBI早内参-芝加哥商品交易所推出的以太坊期货开始交易...](https://sec.thief.one/article_content?a_id=1bc1a9ff90b2ced4139561fe3686b754) 
+- [【安全热点】2021-02-08-未修补的WordPress插件代码注入漏洞影响5万个网站](https://sec.thief.one/article_content?a_id=7601ad361c6de0df0103b1ff5fd1264f) 
+- [【安全热点】2021-02-08-拜登:美国采取“紧急”措施改善网络安全](https://sec.thief.one/article_content?a_id=3c0e1fa4ded22efe63a08e229b563003) 
+- [【安全热点】2021-02-08-【视频】|-Python:闭包保存参数的状态](https://sec.thief.one/article_content?a_id=cbda993739c965be53cba7e60a4c499b) 
 - [【安全热点】2021-02-08-当SameSite属性为默认值Lax时,绕过它并获得一个CSRF](https://sec.thief.one/article_content?a_id=e9ef180ea5799d6dbca09c9599e1e555) 
 - [【安全热点】2021-02-08-免疫治疗丨血液TMBbTMB可有效预测免疫治疗疗效且成功检测率高...](https://sec.thief.one/article_content?a_id=e048c6f35f7eb347b62c9913cd813b89) 
 - [【安全热点】2021-02-07-每日攻防资讯简报Feb.7th](https://sec.thief.one/article_content?a_id=0727bad649f4396f9cb933e564ad2fc0) 
@@ -485,18 +495,6 @@
 - [【安全热点】2021-02-05-NumPy迎规模最大版本更新,新增函数注释等功能,支持Python-3.7+](https://sec.thief.one/article_content?a_id=59d90487dfa6a1a94f1f966da779d9ef) 
 - [【安全热点】2021-02-05-程序员因拒绝带电脑回家被开除,获赔-19.4-万元](https://sec.thief.one/article_content?a_id=c9cdb60ef435c458c9303a9835bd07bb) 
 - [【安全热点】2021-02-05-安全招聘汇总-|-第九期](https://sec.thief.one/article_content?a_id=8ee39a12679fc68f41cb873e233e23e1) 
-- [【安全热点】2021-02-05-中央网信办主任庄荣文:深入学习贯彻党的十九届五中全会精神-大力提...](https://sec.thief.one/article_content?a_id=2c4fe40ba13f02bead7c27fe68e87986) 
-- [【安全热点】2021-02-04-【格物猎踪】格物实验室发现针对物联网设备的新型攻击手法,攻击物...](https://sec.thief.one/article_content?a_id=a0575cee99905bf7dc8ed7d32a3cd57f) 
-- [【安全热点】2021-02-04-【安全圈】VIPGames泄露了2300万游戏玩家的信息](https://sec.thief.one/article_content?a_id=881051bf3198417920523fe39930f635) 
-- [【安全热点】2021-02-04-【通告更新】奇安信天擎已支持查杀,Windows-Installer特权提升漏洞...](https://sec.thief.one/article_content?a_id=89b24da6923c5ea94a1e2a731d824b4a) 
-- [【安全热点】2021-02-04-俄罗斯社交网络禁止骂人,违者最高罚款34万人民币](https://sec.thief.one/article_content?a_id=b6978e1d11c3684efa4b54a48c86a47e) 
-- [【安全热点】2021-02-04-15分钟破解人脸识别!19款国产手机无一幸免](https://sec.thief.one/article_content?a_id=6403864cca6fa1841ce1c34487761794) 
-- [【安全热点】2021-02-04-【漏洞更新】Windows-Installer-权限提升漏洞](https://sec.thief.one/article_content?a_id=29a3d6db8e99aef62d588f64c7ac6a17) 
-- [【安全热点】2021-02-04-SerialDetector:Web对象注入漏洞的原理和实践探索](https://sec.thief.one/article_content?a_id=bcf5fa2e0ef03e1e90aed31ea0416927) 
-- [【安全热点】2021-02-04-诸子云-|-2020评优:最佳分会候选展示与投票](https://sec.thief.one/article_content?a_id=15850de2a128b20b508912ad597c75b1) 
-- [【安全热点】2021-02-04-每日攻防资讯简报Feb.4th](https://sec.thief.one/article_content?a_id=64c4001ca760728d9968d41468878ebb) 
-- [【安全热点】2021-02-04-酷!一个仿漫画手绘风格的-Python-图表库](https://sec.thief.one/article_content?a_id=f6b39e999549ce6fc4316538975d8dcc) 
-- [【安全热点】2021-02-04-RWCTF-3rd-router3-&-CVE-2020-14104-writeup](https://sec.thief.one/article_content?a_id=387dd9ff42df28f96b1a69f1a9618726) 
 - [【物联网智库】2021-02-02-联发科首次打入苹果供应链，京东方知道有多难……](https://www.ershicimi.com/p/b157b413444a134b30ff4450269968a3) 
 - [【物联网智库】2021-02-02-【首发】华为专家4周带你零基础考取华为物联网工程师认证！](https://www.ershicimi.com/p/e5a4d7c7bc977891277438a15c4c4dcb) 
 - [【物联网智库】2021-02-02-再见，气球基站](https://www.ershicimi.com/p/7a8676516336ad3d374db5942a978485) 
@@ -3231,8 +3229,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-80名中国公民在莫斯科遭指定地点隔离-中国使馆高度关注](http://m.international.caixin.com/m/2020-03-01/101522378.html) 
 - [【前端开发博客】2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) 
 - [【前端开发博客】2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
-- [【京东设计中心】2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
-- [【京东设计中心】2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 - [【凹凸实验室】2020-03-25-如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/) 
 - [【凹凸实验室】2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
 - [【前端e进阶】2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
@@ -4421,7 +4417,6 @@
 
 
 - [【前端圈】2019-06-21-视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0) 
-- [【京东设计中心】2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
 - [【凹凸实验室】2019-06-21-Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/) 
 - [【凹凸实验室】2019-06-13-Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/) 
 
@@ -4434,7 +4429,6 @@
 </summary>
 
 
-- [【京东设计中心】2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [【凹凸实验室】2019-03-12-小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -4446,21 +4440,8 @@
 </summary>
 
 
-- [【京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [【凹凸实验室】2019-02-28-决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/) 
 - [【凹凸实验室】2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-01">
- 2019-01
-</summary>
-
-
-- [【京东设计中心】2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
-- [【京东设计中心】2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -4471,9 +4452,6 @@
 </summary>
 
 
-- [【京东设计中心】2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
-- [【京东设计中心】2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
-- [【京东设计中心】2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 - [【凹凸实验室】2018-12-23-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/) 
 - [【凹凸实验室】2018-12-17-Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/) 
 

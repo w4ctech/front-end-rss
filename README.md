@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-09 05:39:36，:rocket: 更新条数: +4214， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-09 05:48:56，:rocket: 更新条数: +4214， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1046,19 +1046,19 @@
 - [2021-02-09-前端跨端业务整合的探索与实践](https://toutiao.io/k/mabqvm7) ![](assets/new.png)  
 - [2021-02-09-C++-模板参数：按值传递-vs-按引用传递](https://toutiao.io/k/47y0xnb) ![](assets/new.png)  
 - [2021-02-09-Golang-sync.Cond-条件变量源码分析](https://toutiao.io/k/cdum7xp) ![](assets/new.png)  
-- [2021-02-09-别眨眼！58-集团-Kylin-平台已完成一次查询](https://toutiao.io/k/hyxj47e) ![](assets/new.png)  
 - [2021-02-09-Apache-Flink-在快手的过去、现在和未来](https://toutiao.io/k/hmo13mw) ![](assets/new.png)  
+- [2021-02-09-别眨眼！58-集团-Kylin-平台已完成一次查询](https://toutiao.io/k/hyxj47e) ![](assets/new.png)  
 - [2021-02-09-不用备案也能支持微信自定义分享](https://toutiao.io/k/rftlj0l) ![](assets/new.png)  
-- [2021-02-09-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
-- [2021-02-09-推荐-漫画：理解了-TCP-连接的实现以后，客户端的并发也爆发了](https://toutiao.io/k/zvcfkca) ![](assets/new.png)  
-- [2021-02-09-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
-- [2021-02-09-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
 - [2021-02-09-推荐-如何做好技术-Team-Leader？](https://toutiao.io/k/7lfbxyd) ![](assets/new.png)  
-- [2021-02-09-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
-- [2021-02-09-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
-- [2021-02-09-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
-- [2021-02-09-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
-- [2021-02-09-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
+- [2021-02-09-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
+- [2021-02-09-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
+- [2021-02-09-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
+- [2021-02-09-推荐-线程池实时管理与监控工具的实现与思考](https://toutiao.io/k/3yigd21) ![](assets/new.png)  
+- [2021-02-09-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
+- [2021-02-09-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
+- [2021-02-09-推荐-又一个大数据相关项目成为顶级项目](https://toutiao.io/k/pcnig17) ![](assets/new.png)  
+- [2021-02-09-推荐-阿里面试官：接口的幂等性怎么设计？](https://toutiao.io/k/411ns26) ![](assets/new.png)  
+- [2021-02-09-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

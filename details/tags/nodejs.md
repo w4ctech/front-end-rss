@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-09 06:09:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-09 06:33:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -34,5 +34,6 @@
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2021-02-03-Node-如何开发一个命令行工具](https://www.ershicimi.com/p/722fd10dbd2adcf728f10b3cf9b16b3b) 
 - [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) 
+- [2021-02-08-JavaScript性能优化---V8-如何回收老生代对象](https://juejin.im/post/6927100870765051917) 
 - [2021-02-09-【漏洞通告】Google-V8引擎堆溢出漏洞-建议尽快更新浏览器](https://sec.thief.one/article_content?a_id=ff193c9e3d2181f20803eaf0f8002f6f) 
 - [2021-02-07-【安全风险通告】谷歌-V8-JavaScript引擎堆溢出漏洞安全风险通告](https://sec.thief.one/article_content?a_id=6eac61e16a2bb6d4895d48b6ad8575e8) 

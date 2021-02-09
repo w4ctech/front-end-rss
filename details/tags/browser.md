@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-09 22:32:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-09 22:43:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,7 @@
 - [2021-02-03-云计算助力影视行业，揭开《刺杀小说家》电影特效渲染的秘密](https://www.ershicimi.com/p/e3e84eb1e9c41d42fcdb8abe95686020) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-02-09-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) 
 - [2021-02-09-「Burpsuite练兵场」HTTP请求走私的基本原理](https://sec.thief.one/article_content?a_id=177879472e0eeead3c7b0bfcc237cade) 
 - [2021-02-09-信息安全漏洞周报2021年第6期](https://sec.thief.one/article_content?a_id=a162bfe11594509cc6972a457c17bd71) 
 - [2021-02-09-大国网络安全博弈,博弈的是什么?](https://sec.thief.one/article_content?a_id=027d5998e028b8eb8c29c5aef1a32e29) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-09 19:04:22，:rocket: 更新条数: +4206， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-09 19:24:36，:rocket: 更新条数: +4231， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
@@ -1054,6 +1054,26 @@
 </summary>
 
 
+- [2021-02-09-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
+- [2021-02-09-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
+- [2021-02-09-etcd：从应用场景到实现原理的全方位解读（修订版）](https://toutiao.io/k/u032bu3) ![](assets/new.png)  
+- [2021-02-09-一种比特级别的数据交换格式](https://toutiao.io/k/v6zcjxw) ![](assets/new.png)  
+- [2021-02-09-前端跨端业务整合的探索与实践](https://toutiao.io/k/mabqvm7) ![](assets/new.png)  
+- [2021-02-09-Apache-Flink-在快手的过去、现在和未来](https://toutiao.io/k/hmo13mw) ![](assets/new.png)  
+- [2021-02-09-C++-模板参数：按值传递-vs-按引用传递](https://toutiao.io/k/47y0xnb) ![](assets/new.png)  
+- [2021-02-09-Golang-sync.Cond-条件变量源码分析](https://toutiao.io/k/cdum7xp) ![](assets/new.png)  
+- [2021-02-09-别眨眼！58-集团-Kylin-平台已完成一次查询](https://toutiao.io/k/hyxj47e) ![](assets/new.png)  
+- [2021-02-09-不用备案也能支持微信自定义分享](https://toutiao.io/k/rftlj0l) ![](assets/new.png)  
+- [2021-02-09-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
+- [2021-02-09-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
+- [2021-02-09-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
+- [2021-02-09-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
+- [2021-02-09-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-09-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
+- [2021-02-09-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
+- [2021-02-09-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-09-推荐-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
+- [2021-02-09-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

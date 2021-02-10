@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-10 02:42:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-10 02:49:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -91,6 +91,7 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2021-02-10-大家推荐个高清视频聊天软件，最好国内能用的。](https://www.v2ex.com/t/752776) 
 - [2021-02-09-国家七部门联合发布《关于加强网络直播规范管理工作的指导意见》](https://sec.thief.one/article_content?a_id=bc0f2fd96a4b3272e26ccbeceb04341b) 
 - [2021-02-08-【视频】|-Python:闭包保存参数的状态](https://sec.thief.one/article_content?a_id=cbda993739c965be53cba7e60a4c499b) 
 - [2021-02-07-【视频】|-防火墙分类与运行模式](https://sec.thief.one/article_content?a_id=85b60d0b4be6612b44d0af77eab2a567) 

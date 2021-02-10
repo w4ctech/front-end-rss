@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-10 09:47:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-10 09:54:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3298,16 +3298,17 @@
 - [2021-02-10-个推异常值检测和实战应用](https://toutiao.io/k/tpgdqsf) 
 - [2021-02-10-快手基于-RocketMQ-的在线消息系统建设实践](https://toutiao.io/k/i4aznl2) 
 - [2021-02-10-Kubernetes-二进制安装过程](https://toutiao.io/k/gd3iahi) 
-- [2021-02-10-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) 
-- [2021-02-10-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) 
 - [2021-02-10-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) 
-- [2021-02-10-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) 
 - [2021-02-10-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) 
+- [2021-02-10-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) 
+- [2021-02-10-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) 
+- [2021-02-10-推荐-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) 
 - [2021-02-10-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) 
 - [2021-02-10-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) 
-- [2021-02-10-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) 
+- [2021-02-10-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) 
+- [2021-02-10-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) 
 - [2021-02-10-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) 
-- [2021-02-10-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) 
+- [2021-02-10-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) 
 - [2021-02-10-习近平总书记9年新春足迹](https://sec.thief.one/article_content?a_id=db024dcff0033f7953fdf601f603e5d8) 
 - [2021-02-10-《北向文集-面向2021》-15期-|-潘柱廷-循路-2021完结](https://sec.thief.one/article_content?a_id=1d5258f9c2192857bf1d68e169566a6b) 
 - [2021-02-10-【漏洞预警】Windows-多个严重高危漏洞预警CVE-2021-24074、...](https://sec.thief.one/article_content?a_id=9e660909c5019ce42f81228b922e0997) 

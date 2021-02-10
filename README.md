@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-10 08:43:41，:rocket: 更新条数: +4272， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-10 08:54:02，:rocket: 更新条数: +4272， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,9 @@
 </summary>
 
 
+- [2021-02-10-迫于文章阅读量差一点点就达标，给大家点新年小红包](https://www.v2ex.com/t/752840) ![](assets/new.png)  
+- [2021-02-10-Spring-MVC:-如何自动生成-RequestID-并在需要时访问](https://www.v2ex.com/t/752839) ![](assets/new.png)  
+- [2021-02-10-有没有今天上线然后发现问题回滚版本的？](https://www.v2ex.com/t/752838) ![](assets/new.png)  
 - [2021-02-10-求助，之前下载-enpass-试了一下，删除之后，-iCloud-中的-look-me-up-by-email-多了个东西，怎么删除？](https://www.v2ex.com/t/752836) ![](assets/new.png)  
 - [2021-02-10-广州/西安-外企金融-内推-上千海量-HC-前后端、运维、产品、开发、测试、设计](https://www.v2ex.com/t/752835) ![](assets/new.png)  
 - [2021-02-10-Jace-陳凱詠-X-林家謙-《隔離》](https://www.v2ex.com/t/752834) ![](assets/new.png)  
@@ -1029,9 +1032,6 @@
 - [2021-02-10-不懂就问，-6SP-如何从-14.4-降级到-13？-之前把老妈的-6SP-系统屏蔽更新通道，不知为何，被强行升级到了-14.4，火大](https://www.v2ex.com/t/752819) ![](assets/new.png)  
 - [2021-02-10-分享MQTT-MQTT-X-一款像-IM-聊天工具一样收发消息的-MQTT-Client](https://www.v2ex.com/t/752818) ![](assets/new.png)  
 - [2021-02-10-基金这几天喝了点汤，那么要不要空仓过年呢](https://www.v2ex.com/t/752816) ![](assets/new.png)  
-- [2021-02-10-如何关闭在-iPhone-和其他设备间切换-AirPods？](https://www.v2ex.com/t/752815) ![](assets/new.png)  
-- [2021-02-10-lambdex---让-Python-支持更复杂的-lambda-匿名函数表达式](https://www.v2ex.com/t/752813) ![](assets/new.png)  
-- [2021-02-10-狗币、ltc-钱包恢复可以不同步完成发款不？](https://www.v2ex.com/t/752811) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,16 +1084,16 @@
 - [2021-02-10-Kubernetes-二进制安装过程](https://toutiao.io/k/gd3iahi) ![](assets/new.png)  
 - [2021-02-10-快手基于-RocketMQ-的在线消息系统建设实践](https://toutiao.io/k/i4aznl2) ![](assets/new.png)  
 - [2021-02-10-Webpack-5-新特性尝鲜](https://toutiao.io/k/r2xdowh) ![](assets/new.png)  
-- [2021-02-10-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
-- [2021-02-10-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
-- [2021-02-10-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
-- [2021-02-10-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
-- [2021-02-10-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
-- [2021-02-10-推荐-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
 - [2021-02-10-推荐-价值百万的技术人创业复盘](https://toutiao.io/k/z91auhw) ![](assets/new.png)  
-- [2021-02-10-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
-- [2021-02-10-推荐-Spring-中那些让你爱不释手的代码技巧（续集）](https://toutiao.io/k/qk22gxk) ![](assets/new.png)  
+- [2021-02-10-推荐-Go-精妙的互斥锁设计](https://toutiao.io/k/bitszv2) ![](assets/new.png)  
+- [2021-02-10-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
 - [2021-02-10-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
+- [2021-02-10-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-10-推荐-做业务系统研发如何做到认真负责？](https://toutiao.io/k/6iusrlx) ![](assets/new.png)  
+- [2021-02-10-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-10-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
+- [2021-02-10-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
+- [2021-02-10-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-10 22:33:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-10 22:43:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -366,14 +366,14 @@
 - [2021-02-10-一条-SQL-引发的事故，同事直接被开除！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14126&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-aNXhgcCkXppsNR6mipZ7w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-10-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) 
 - [2021-02-10-到达率-99.9%：闲鱼消息在高速上换引擎（集大成）](https://toutiao.io/k/9u3thf6) 
-- [2021-02-10-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) 
-- [2021-02-10-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) 
-- [2021-02-10-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) 
-- [2021-02-10-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) 
-- [2021-02-10-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) 
 - [2021-02-10-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) 
+- [2021-02-10-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) 
+- [2021-02-10-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) 
+- [2021-02-10-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) 
 - [2021-02-10-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) 
-- [2021-02-10-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) 
+- [2021-02-10-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) 
+- [2021-02-10-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) 
+- [2021-02-10-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) 
 - [2021-02-10-2020年全球十大流行勒索病毒](https://sec.thief.one/article_content?a_id=0354113e037d99a05259c1c9196f4cee) 
 - [2021-02-10-【漏洞通告】Windows-TCP/IP-远程代码执行漏洞CVE-2021-24074](https://sec.thief.one/article_content?a_id=a99676f2ffde3014f0bbddac32d47385) 
 - [2021-02-10-春节放假通知!](https://sec.thief.one/article_content?a_id=6b22bfc938e1917720ead6a3cdc32cf1) 

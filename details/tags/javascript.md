@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-10 19:24:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-10 19:34:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,8 @@
 
 
 
+- [2021-01-25-请查收-2020-全球-JS-现状调查报告](https://www.ershicimi.com/p/5262b7cc71c0c9f0441a3045ad2d5248) 
+- [2021-01-16-送粉丝20本-JavaScript-第四版红宝书！](https://www.ershicimi.com/p/c6021cabaab1ce405ac3ec41bddb3a4a) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2021-02-01-【第2194期】SPA-路由三部曲之核心原理](https://www.ershicimi.com/p/72e90fa35080ac31a5b06c8f13504ffe) 

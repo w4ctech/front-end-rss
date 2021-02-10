@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-02-10 05:38:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-10 05:48:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-10-在给-1Password-个人版付了几年钱以后，我觉得自己不能再做冤大头了。](https://www.v2ex.com/t/752805) 
 - [2021-02-10-如何查询-Bose-耳机是不是国行?](https://www.v2ex.com/t/752804) 
 - [2021-02-10-2-年三跳是否过于频繁呢](https://www.v2ex.com/t/752802) 
 - [2021-02-10-如何克服“想得太多，做的太少”的心态。](https://www.v2ex.com/t/752801) 
@@ -42,4 +43,3 @@
 - [2021-02-10-蚂蚁集团内推-蚂蚁技术风险部-2022-届毕业生实习内推](https://www.v2ex.com/t/752759) 
 - [2021-02-10-Star-Link-Gaming-Test](https://www.v2ex.com/t/752757) 
 - [2021-02-10-mbp-和联想小新-13Pro-都冻得开不了机了。-iPhone-XR-和-iPad-以及-redmi-k30-没问题，想拿-iPad-做生产力工具了😂](https://www.v2ex.com/t/752756) 
-- [2021-02-10-今天最后一天，你还在坚守岗位上（mo）班（yu）吗？](https://www.v2ex.com/t/752755) 

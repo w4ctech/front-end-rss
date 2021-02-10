@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-10 16:12:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-10 16:51:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -9,5 +9,5 @@
 
 - [2017-12-15-GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/) 
 - [2016-02-27-初探Docker](https://aotu.io/notes/2016/02/27/docker/) 
-- [2021-02-10-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) 
 - [2021-02-10-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) 
+- [2021-02-10-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) 

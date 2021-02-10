@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-10 22:43:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-10 22:54:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -439,8 +439,6 @@
 
 
 - [【政采云前端团队】如何从-0-到-1-搭建性能检测系统修正版](https://www.ershicimi.com/p/caf97cfac5fe753a40ff1f199bf6abfe)
-- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
-- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【凹凸实验室】大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)
 - [【凹凸实验室】京喜首页（微信购物入口）跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/)
 - [【凹凸实验室】前端优化实践总结](https://aotu.io/notes/2016/04/12/jcloud-opt/)
@@ -450,7 +448,6 @@
 - [【前端日刊】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8)
 - [【JavaScript】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【开发者头条】推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk)
 - [【开发者头条】推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o)
 - [【安全热点】钓鱼攻击:远程加载恶意Word模版文件上线CS](https://sec.thief.one/article_content?a_id=fd9c3af8594f3cc54c36486b707dab1a)
 - [......【查看更多】......](./details/tags/optimization.md)

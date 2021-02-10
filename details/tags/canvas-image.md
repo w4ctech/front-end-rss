@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-10 21:04:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-10 21:08:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -21,7 +21,6 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
-- [2021-01-30-如何1人5天开发超炫酷3D数据可视化大屏](https://www.ershicimi.com/p/e21ac27d93c1275d8d458a6e30e442ad) 
 - [2021-02-10-贵币GUIBI关于春节放假期间版主值班等的通知](https://sec.thief.one/article_content?a_id=8181554b4dc91cc7e27462c2f2644aed) 
 - [2021-02-09-2月9日贵币GUIBI早内参-全球加密货币总市值突破1.3万亿美元,比特...](https://sec.thief.one/article_content?a_id=72d9183e7618478de117deaca63f43ff) 
 - [2021-02-08-2月8日贵币GUIBI早内参-芝加哥商品交易所推出的以太坊期货开始交易...](https://sec.thief.one/article_content?a_id=1bc1a9ff90b2ced4139561fe3686b754) 

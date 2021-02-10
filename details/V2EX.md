@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-02-10 06:56:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-10 07:04:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-10-不懂就问，-6SP-如何从-14.4-降级到-13？-之前把老妈的-6SP-系统屏蔽更新通道，不知为何，被强行升级到了-14.4，火大](https://www.v2ex.com/t/752819) 
 - [2021-02-10-分享MQTT-MQTT-X-一款像-IM-聊天工具一样收发消息的-MQTT-Client](https://www.v2ex.com/t/752818) 
 - [2021-02-10-基金这几天喝了点汤，那么要不要空仓过年呢](https://www.v2ex.com/t/752816) 
 - [2021-02-10-如何关闭在-iPhone-和其他设备间切换-AirPods？](https://www.v2ex.com/t/752815) 

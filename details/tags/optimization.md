@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-10 08:34:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-10 08:43:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -21,6 +21,5 @@
 - [2021-01-05-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2021-02-10-一个关键字提升-ClickHouse-1.6-倍聚合性能](https://toutiao.io/k/s27fe8j) 
-- [2021-02-10-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) 
 - [2021-02-10-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) 
 - [2021-02-09-钓鱼攻击:远程加载恶意Word模版文件上线CS](https://sec.thief.one/article_content?a_id=fd9c3af8594f3cc54c36486b707dab1a) 

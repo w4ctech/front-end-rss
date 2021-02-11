@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-11 10:31:13，:rocket: 更新条数: +973， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-11 10:39:42，:rocket: 更新条数: +973， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -76,8 +76,8 @@
 </summary>
 
 
+- [2021-02-11-黑龙江｜哈尔滨南岗区和兴路街道调整为低风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHVZFqDqKdYBT2F4nREaX210211&isfromapp=1) ![](assets/new.png)  
 - [2021-02-11-吉林｜通化市东昌区-16-个小区仍为高风险地区-其他区域均调整为低风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtishseByb0M6KHrFazUCWv210211&isfromapp=1) ![](assets/new.png)  
-- [2021-02-11-浙江｜金华-1-份美国进口奥克兰猪手样品检出阳性-未流入市场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGjCnbNszbubNlA5G7PdZ210211&isfromapp=1) ![](assets/new.png)  
 - [2021-02-11-全国｜新增-2-例确诊病例-均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigTxe8vv8BQubJTRGaZx0210211&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
@@ -992,6 +992,7 @@
 </summary>
 
 
+- [2021-02-11-edge-终于支持历史记录同步了？](https://www.v2ex.com/t/752968) ![](assets/new.png)  
 - [2021-02-11-求助：-ubuntu-安装程序出现错误](https://www.v2ex.com/t/752967) ![](assets/new.png)  
 - [2021-02-11-春晚-8K，燃鹅我只想找个-4K-直播源来看。能用-potplay-的](https://www.v2ex.com/t/752966) ![](assets/new.png)  
 - [2021-02-11-春节求推荐单机游戏！](https://www.v2ex.com/t/752965) ![](assets/new.png)  
@@ -1011,7 +1012,6 @@
 - [2021-02-11-问大家一个关于-msrdp-和-ssh-隧道的问题](https://www.v2ex.com/t/752948) ![](assets/new.png)  
 - [2021-02-11-为什么-Mac-切换输入法的快捷键（Fn-或者-control+space）很多时候都会失灵，按好几次都没用？](https://www.v2ex.com/t/752947) ![](assets/new.png)  
 - [2021-02-11-用-ripgrep+fonttools-动态压缩网站中的字体](https://www.v2ex.com/t/752946) ![](assets/new.png)  
-- [2021-02-11-把音乐从-Mac-同步到-iPhone-中的-Apple-Music，有更好的方式吗](https://www.v2ex.com/t/752945) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,16 +1064,16 @@
 - [2021-02-11-贝壳-DMP-平台建设实践](https://toutiao.io/k/if3abxd) ![](assets/new.png)  
 - [2021-02-11-Flink-核心组件原理多图剖析](https://toutiao.io/k/ld0gru9) ![](assets/new.png)  
 - [2021-02-11-基于深度学习的短文本相似度学习与行业测评](https://toutiao.io/k/x2yxptb) ![](assets/new.png)  
-- [2021-02-11-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-11-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-11-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
-- [2021-02-11-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-11-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-11-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
-- [2021-02-11-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
-- [2021-02-11-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
-- [2021-02-11-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
 - [2021-02-11-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
+- [2021-02-11-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-11-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
+- [2021-02-11-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
+- [2021-02-11-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
+- [2021-02-11-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
+- [2021-02-11-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
+- [2021-02-11-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-11-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
+- [2021-02-11-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-11 10:31:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-11 10:39:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,11 +29,11 @@
 - [2021-02-10-每秒最多-6.5-万个事务，我们的-PostgreSQL-12-迁移之路](https://www.ershicimi.com/p/e2b6e0fb1d370cd3b7c717a69a41dfe9) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-02-11-edge-终于支持历史记录同步了？](https://www.v2ex.com/t/752968) 
 - [2021-02-11-chrome-现在都主动在网页中注入广告了，有没有办法把广告去掉？](https://www.v2ex.com/t/752958) 
 - [2021-02-11-求助：-Safari-上的这个图标有人见过么](https://www.v2ex.com/t/752944) 
 - [2021-02-11-PostgreSQL-为什么不使用-direct-IO，而要依赖-os-page-cahce？](https://www.v2ex.com/t/752942) 
 - [2021-02-11-win，-chrome-关闭后，还有两个-google-进程，如何自动停掉](https://www.v2ex.com/t/752926) 
-- [2021-02-11-postfix-发送邮件到腾讯企业邮箱被拦截-系统拦截](https://www.v2ex.com/t/752918) 
 - [2021-02-11-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) 
 - [2021-02-11-邑安科技安全团队祝您新春快乐,牛年安康!](https://sec.thief.one/article_content?a_id=baab5c3caae89c847946dafefab8a68f) 
 - [2021-02-11-#安全过新年#-除夕的钟声即将敲响,牛年的脚步越来越近,在此360安...](https://sec.thief.one/article_content?a_id=19faa46617567fce171b38c6a5c333e7) 

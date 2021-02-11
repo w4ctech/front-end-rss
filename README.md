@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-11 09:47:38，:rocket: 更新条数: +4278， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-11 10:04:36，:rocket: 更新条数: +4279， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,7 @@
 </summary>
 
 
+- [2021-02-11-说说吧，作为一个程序员，大年三十为什么逛-v-站？](https://www.v2ex.com/t/752964) ![](assets/new.png)  
 - [2021-02-11-iPhone-屏蔽升级的描述文件有效期怎么变长。](https://www.v2ex.com/t/752963) ![](assets/new.png)  
 - [2021-02-11-利用特制输入法在公开群组开秘密会议](https://www.v2ex.com/t/752961) ![](assets/new.png)  
 - [2021-02-11-人生迷茫，我该如何寻找前进的路，请大家给点人生建议！](https://www.v2ex.com/t/752959) ![](assets/new.png)  
@@ -1031,7 +1032,6 @@
 - [2021-02-11-求助：-Safari-上的这个图标有人见过么](https://www.v2ex.com/t/752944) ![](assets/new.png)  
 - [2021-02-11-PostgreSQL-为什么不使用-direct-IO，而要依赖-os-page-cahce？](https://www.v2ex.com/t/752942) ![](assets/new.png)  
 - [2021-02-11-刚入手了-MacBook-Pro-M1，很开心，求大佬们推荐点配件](https://www.v2ex.com/t/752940) ![](assets/new.png)  
-- [2021-02-11-没办有线电视怎么看春晚？](https://www.v2ex.com/t/752939) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,16 +1084,16 @@
 - [2021-02-11-贝壳-DMP-平台建设实践](https://toutiao.io/k/if3abxd) ![](assets/new.png)  
 - [2021-02-11-Flink-核心组件原理多图剖析](https://toutiao.io/k/ld0gru9) ![](assets/new.png)  
 - [2021-02-11-基于深度学习的短文本相似度学习与行业测评](https://toutiao.io/k/x2yxptb) ![](assets/new.png)  
-- [2021-02-11-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-11-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
+- [2021-02-11-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
 - [2021-02-11-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
 - [2021-02-11-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
-- [2021-02-11-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
-- [2021-02-11-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
-- [2021-02-11-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
-- [2021-02-11-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
 - [2021-02-11-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
 - [2021-02-11-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
+- [2021-02-11-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-11-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
+- [2021-02-11-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-11-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-11-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

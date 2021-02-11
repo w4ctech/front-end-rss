@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-11 08:44:18，:rocket: 更新条数: +4279， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-11 09:00:11，:rocket: 更新条数: +4278， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,7 @@
 </summary>
 
 
+- [2021-02-11-人生迷茫，我该如何寻找前进的路，请大家给点人生建议！](https://www.v2ex.com/t/752959) ![](assets/new.png)  
 - [2021-02-11-chrome-现在都主动在网页中注入广告了，有没有办法把广告去掉？](https://www.v2ex.com/t/752958) ![](assets/new.png)  
 - [2021-02-11-算法岗校招-offer-比较](https://www.v2ex.com/t/752957) ![](assets/new.png)  
 - [2021-02-11-对于新的开始这个意义，你们更倾向于元旦还是春节？](https://www.v2ex.com/t/752956) ![](assets/new.png)  
@@ -1031,7 +1032,6 @@
 - [2021-02-11-没办有线电视怎么看春晚？](https://www.v2ex.com/t/752939) ![](assets/new.png)  
 - [2021-02-11-过年了，有没有什么打折的虚拟商品推荐？](https://www.v2ex.com/t/752938) ![](assets/new.png)  
 - [2021-02-11-大家用什么双拼方案？？](https://www.v2ex.com/t/752937) ![](assets/new.png)  
-- [2021-02-11-iPhone-已经存在的音乐可以同步到-iCloud-Music-Library-吗？](https://www.v2ex.com/t/752936) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1078,22 +1078,22 @@
 - [2021-02-11-到达率-99.9%：闲鱼消息在高速上换引擎（集大成）](https://toutiao.io/k/9u3thf6) ![](assets/new.png)  
 - [2021-02-11-面试中-LRU-/-LFU-的青铜与王者](https://toutiao.io/k/o9kubh1) ![](assets/new.png)  
 - [2021-02-11-实战：Express-模拟-CSRF-攻击](https://toutiao.io/k/sgmfmzm) ![](assets/new.png)  
-- [2021-02-11-机器学习-KNN-算法](https://toutiao.io/k/wdedm1k) ![](assets/new.png)  
 - [2021-02-11-微信-8.0，初心改不改？](https://toutiao.io/k/7ewlvws) ![](assets/new.png)  
+- [2021-02-11-机器学习-KNN-算法](https://toutiao.io/k/wdedm1k) ![](assets/new.png)  
 - [2021-02-11-lambda-表达式-Java-vs-JS](https://toutiao.io/k/ndk5sxa) ![](assets/new.png)  
 - [2021-02-11-贝壳-DMP-平台建设实践](https://toutiao.io/k/if3abxd) ![](assets/new.png)  
 - [2021-02-11-Flink-核心组件原理多图剖析](https://toutiao.io/k/ld0gru9) ![](assets/new.png)  
 - [2021-02-11-基于深度学习的短文本相似度学习与行业测评](https://toutiao.io/k/x2yxptb) ![](assets/new.png)  
-- [2021-02-11-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
-- [2021-02-11-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
-- [2021-02-11-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-11-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
-- [2021-02-11-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
-- [2021-02-11-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
+- [2021-02-11-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
 - [2021-02-11-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
-- [2021-02-11-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
-- [2021-02-11-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
+- [2021-02-11-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-11-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
 - [2021-02-11-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-11-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
+- [2021-02-11-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
+- [2021-02-11-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
+- [2021-02-11-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
+- [2021-02-11-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

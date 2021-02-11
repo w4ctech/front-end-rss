@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-11 03:53:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-11 04:05:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -14,4 +14,3 @@
 - [2021-02-08-Docker宣布将Docker-Distribution捐赠给CNCF](https://www.ershicimi.com/p/81a5ba57e20e4d8bf395a5537f773f11) 
 - [2021-02-10-Docker-打不开可执行文件](https://www.v2ex.com/t/752897) 
 - [2021-02-11-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) 
-- [2021-02-11-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) 

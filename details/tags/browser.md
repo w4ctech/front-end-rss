@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-11 00:16:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-11 01:06:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,7 +31,11 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
+- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
+- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-02-11-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) 
 - [2021-02-10-SecWiki安全招聘第48期](https://sec.thief.one/article_content?a_id=d2720720da758d6abd32ea64cbae7cda) 
 - [2021-02-10-【漏洞通告】2021年2月深信服安全蓝军灯火实验室向微软提交并协助...](https://sec.thief.one/article_content?a_id=a3e827d0ae320809c60fd742605d4caa) 
 - [2021-02-10-活动-|-安全客祝大家牛转“钱”坤,双倍稿费陪你开心过大年](https://sec.thief.one/article_content?a_id=4771cabd4a08e5b343b141abb6312338) 

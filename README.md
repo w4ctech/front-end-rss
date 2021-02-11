@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-11 05:08:02，:rocket: 更新条数: +4278， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-11 05:29:13，:rocket: 更新条数: +4277， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,9 @@
 </summary>
 
 
+- [2021-02-11-Paw-发布-Web/Windows/-Linux-版](https://www.v2ex.com/t/752931) ![](assets/new.png)  
+- [2021-02-11-推荐下证书？](https://www.v2ex.com/t/752930) ![](assets/new.png)  
+- [2021-02-11-小白求推荐给父母的保险！](https://www.v2ex.com/t/752928) ![](assets/new.png)  
 - [2021-02-11-北京联通宽带选哪个套餐划算一些呢？](https://www.v2ex.com/t/752927) ![](assets/new.png)  
 - [2021-02-11-win，-chrome-关闭后，还有两个-google-进程，如何自动停掉](https://www.v2ex.com/t/752926) ![](assets/new.png)  
 - [2021-02-11-过年无聊，-iPhone-上有啥好玩的游戏推荐不？](https://www.v2ex.com/t/752924) ![](assets/new.png)  
@@ -1029,9 +1032,6 @@
 - [2021-02-11-请教-PHP-存取大量预设映射数据的最佳实践](https://www.v2ex.com/t/752908) ![](assets/new.png)  
 - [2021-02-11-IOS-APP-模拟器调试完成,-现在要分发给用户试用,-如何完成分发给用户试用这个步骤?](https://www.v2ex.com/t/752907) ![](assets/new.png)  
 - [2021-02-11-新年快乐！](https://www.v2ex.com/t/752906) ![](assets/new.png)  
-- [2021-02-11-关于步数｜-Apple-Watch-手表和-iPhone-分开给两个人使用](https://www.v2ex.com/t/752904) ![](assets/new.png)  
-- [2021-02-11-老爸每个月斗地主花-300-多，咋弄？](https://www.v2ex.com/t/752903) ![](assets/new.png)  
-- [2021-02-11-speedtest-新版本不支持记录和显示无线网络名称-SSID-了吗？](https://www.v2ex.com/t/752902) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,16 +1084,16 @@
 - [2021-02-11-贝壳-DMP-平台建设实践](https://toutiao.io/k/if3abxd) ![](assets/new.png)  
 - [2021-02-11-Flink-核心组件原理多图剖析](https://toutiao.io/k/ld0gru9) ![](assets/new.png)  
 - [2021-02-11-基于深度学习的短文本相似度学习与行业测评](https://toutiao.io/k/x2yxptb) ![](assets/new.png)  
-- [2021-02-11-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
-- [2021-02-11-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
-- [2021-02-11-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-11-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
-- [2021-02-11-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-11-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-11-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
-- [2021-02-11-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
 - [2021-02-11-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
+- [2021-02-11-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
+- [2021-02-11-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
+- [2021-02-11-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
+- [2021-02-11-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
+- [2021-02-11-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
+- [2021-02-11-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-11-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
 - [2021-02-11-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-11-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,26 +1105,26 @@
 </summary>
 
 
+- [2021-02-11-黑客100万美元起拍卖《赛博朋克2077》《巫师3》源码](https://sec.thief.one/article_content?a_id=e7c01e8f1931798365a16137f091ce24) ![](assets/new.png)  
+- [2021-02-11-辞旧迎新,牛年安康!](https://sec.thief.one/article_content?a_id=dccf38cd70e6e5095f25d46f62d395ba) ![](assets/new.png)  
+- [2021-02-11-【视频】|-网络安全:防火墙的综合知识](https://sec.thief.one/article_content?a_id=1d140cffc188786ac407c7c8f209c095) ![](assets/new.png)  
+- [2021-02-11-第二波红包封面限量发放,速来!](https://sec.thief.one/article_content?a_id=7a0e4205e9c024acd7fcbc8dc5916320) ![](assets/new.png)  
+- [2021-02-11-2月11日贵币GUIBI早内参-马斯克要求Freewallet解锁其加密账户,或透...](https://sec.thief.one/article_content?a_id=69064b777855254f68380a927cf6808c) ![](assets/new.png)  
+- [2021-02-11-i春秋祝大家新年快乐,牛年大吉!](https://sec.thief.one/article_content?a_id=7304556a98995833715cdbcae22b60bf) ![](assets/new.png)  
+- [2021-02-11-#安全过新年#-除夕的钟声即将敲响,牛年的脚步越来越近,在此360安...](https://sec.thief.one/article_content?a_id=19faa46617567fce171b38c6a5c333e7) ![](assets/new.png)  
+- [2021-02-11-红包封面大放送-|-恭贺新禧,牛年鸿运](https://sec.thief.one/article_content?a_id=8bb7fb97c8ecb745204cca8ff253bd04) ![](assets/new.png)  
+- [2021-02-11-#除夕#-用牛气冲破旧岁全部烦恼,️极致守护迎新年事事平安.滴滴...](https://sec.thief.one/article_content?a_id=9e2490bf04632de4f241a73ae9b6c2cb) ![](assets/new.png)  
+- [2021-02-11-小米安全中心祝大家新春快乐,牛气冲天!](https://sec.thief.one/article_content?a_id=59ee174be48ac3dadeee1531d1dd5a93) ![](assets/new.png)  
+- [2021-02-11-【2021春节】解题领红包活动开始喽,解出就送论坛币!](https://sec.thief.one/article_content?a_id=76c46475e67276209ac6702c61748e12) ![](assets/new.png)  
+- [2021-02-11-牛年大吉!报告存货分享](https://sec.thief.one/article_content?a_id=907416a57090230343f3f7a9e8034cc5) ![](assets/new.png)  
+- [2021-02-11-2020年全球国防网络空间情况综述演习竞赛篇](https://sec.thief.one/article_content?a_id=65eb86908f6b65c80a862763eeb6176b) ![](assets/new.png)  
+- [2021-02-11-程序猿经典语录](https://sec.thief.one/article_content?a_id=11d4d4a792ac9eadde4bf5f8207c70cb) ![](assets/new.png)  
+- [2021-02-11-牛年大吉-安全守护](https://sec.thief.one/article_content?a_id=b26573ef07ef6e49a77092200a193867) ![](assets/new.png)  
 - [2021-02-11-来测一测,你有全国计算机二级水平吗?](https://sec.thief.one/article_content?a_id=d1685b1bb9413da18a850cc540550818) ![](assets/new.png)  
 - [2021-02-11-绿盟科技祝您除夕快乐!](https://sec.thief.one/article_content?a_id=bfa9ace7770eeb5951228ab7bb2d1aa2) ![](assets/new.png)  
 - [2021-02-11-弘扬“三牛”精神-深耕网信新篇](https://sec.thief.one/article_content?a_id=29ed3e24fd14de4f63d7a77741f59341) ![](assets/new.png)  
 - [2021-02-11-牛!](https://sec.thief.one/article_content?a_id=c99c7c7b30d933ceaaa113c1eeaef362) ![](assets/new.png)  
 - [2021-02-10-漏洞银行祝您2021新春快乐!](https://sec.thief.one/article_content?a_id=5c1e27b63e50b0947b7686ff04ca2e6d) ![](assets/new.png)  
-- [2021-02-10-SecWiki安全招聘第48期](https://sec.thief.one/article_content?a_id=d2720720da758d6abd32ea64cbae7cda) ![](assets/new.png)  
-- [2021-02-10-【漏洞通告】2021年2月深信服安全蓝军灯火实验室向微软提交并协助...](https://sec.thief.one/article_content?a_id=a3e827d0ae320809c60fd742605d4caa) ![](assets/new.png)  
-- [2021-02-10-提升编码水平,这本-Python-软件工程开源书籍为研究人员量身打造](https://sec.thief.one/article_content?a_id=1c80c377c494fc242396ec3943e6942b) ![](assets/new.png)  
-- [2021-02-10-活动-|-安全客祝大家牛转“钱”坤,双倍稿费陪你开心过大年](https://sec.thief.one/article_content?a_id=4771cabd4a08e5b343b141abb6312338) ![](assets/new.png)  
-- [2021-02-10-2020年全球十大流行勒索病毒](https://sec.thief.one/article_content?a_id=0354113e037d99a05259c1c9196f4cee) ![](assets/new.png)  
-- [2021-02-10-2021年小型网络安全团队的安全挑战与应对之道](https://sec.thief.one/article_content?a_id=1b1f223c68bc3ce752add1c76e2e2c09) ![](assets/new.png)  
-- [2021-02-10-百度安全压轴红包来了!](https://sec.thief.one/article_content?a_id=51892ee7ceb3a61c80340d842fdd2fea) ![](assets/new.png)  
-- [2021-02-10-【漏洞通告】Windows-TCP/IP-远程代码执行漏洞CVE-2021-24074](https://sec.thief.one/article_content?a_id=a99676f2ffde3014f0bbddac32d47385) ![](assets/new.png)  
-- [2021-02-10-奇安信云安全管理平台案例入选安全牛《私有云安全防护能力构建研究...](https://sec.thief.one/article_content?a_id=11c1721ac0e4eb7844297ecfbf32cbfa) ![](assets/new.png)  
-- [2021-02-10-春节放假通知!](https://sec.thief.one/article_content?a_id=6b22bfc938e1917720ead6a3cdc32cf1) ![](assets/new.png)  
-- [2021-02-10-黑客入侵供水系统并将氢氧化钠含量提高百倍](https://sec.thief.one/article_content?a_id=3c684dae1dd3bd47109728cc114b7fd9) ![](assets/new.png)  
-- [2021-02-10-2020年工业控制网络安全态势白皮书-附下载](https://sec.thief.one/article_content?a_id=e944d4bf06ba844ef47caea76a441a88) ![](assets/new.png)  
-- [2021-02-10-习近平总书记9年新春足迹](https://sec.thief.one/article_content?a_id=db024dcff0033f7953fdf601f603e5d8) ![](assets/new.png)  
-- [2021-02-10-百位董事长/CEO/总裁:预见2021网络安全细分领域发展](https://sec.thief.one/article_content?a_id=44323fb8837d5fb726acbefc0dec96fa) ![](assets/new.png)  
-- [2021-02-10-《北向文集-面向2021》-15期-|-潘柱廷-循路-2021完结](https://sec.thief.one/article_content?a_id=1d5258f9c2192857bf1d68e169566a6b) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

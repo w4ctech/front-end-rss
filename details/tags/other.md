@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-11 02:09:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-11 02:25:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3302,15 +3302,14 @@
 - [2021-02-11-微信-8.0，初心改不改？](https://toutiao.io/k/7ewlvws) 
 - [2021-02-11-贝壳-DMP-平台建设实践](https://toutiao.io/k/if3abxd) 
 - [2021-02-11-基于深度学习的短文本相似度学习与行业测评](https://toutiao.io/k/x2yxptb) 
-- [2021-02-11-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) 
-- [2021-02-11-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) 
-- [2021-02-11-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) 
-- [2021-02-11-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) 
-- [2021-02-11-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) 
-- [2021-02-11-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) 
-- [2021-02-11-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) 
 - [2021-02-11-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) 
+- [2021-02-11-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) 
+- [2021-02-11-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) 
 - [2021-02-11-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) 
+- [2021-02-11-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) 
+- [2021-02-11-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) 
+- [2021-02-11-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) 
+- [2021-02-11-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) 
 - [2021-02-11-来测一测,你有全国计算机二级水平吗?](https://sec.thief.one/article_content?a_id=d1685b1bb9413da18a850cc540550818) 
 - [2021-02-11-绿盟科技祝您除夕快乐!](https://sec.thief.one/article_content?a_id=bfa9ace7770eeb5951228ab7bb2d1aa2) 
 - [2021-02-11-弘扬“三牛”精神-深耕网信新篇](https://sec.thief.one/article_content?a_id=29ed3e24fd14de4f63d7a77741f59341) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-02-11 06:55:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-11 07:04:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-11-用-ripgrep+fonttools-动态压缩网站中的字体](https://www.v2ex.com/t/752946) 
 - [2021-02-11-把音乐从-Mac-同步到-iPhone-中的-Apple-Music，有更好的方式吗](https://www.v2ex.com/t/752945) 
 - [2021-02-11-求助：-Safari-上的这个图标有人见过么](https://www.v2ex.com/t/752944) 
 - [2021-02-11-PostgreSQL-为什么不使用-direct-IO，而要依赖-os-page-cahce？](https://www.v2ex.com/t/752942) 
@@ -45,4 +46,3 @@
 - [2021-02-10-新做了一个测速软件，欢迎大家试用，有建议也可以直接留言哦](https://www.v2ex.com/t/752899) 
 - [2021-02-10-目前在用的黑苹果为什么时常会有“静如处子，动如脱兔”的感觉？](https://www.v2ex.com/t/752898) 
 - [2021-02-10-Docker-打不开可执行文件](https://www.v2ex.com/t/752897) 
-- [2021-02-10-win10-系统-如何添加多个-ipv6-地址，](https://www.v2ex.com/t/752896) 

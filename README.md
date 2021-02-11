@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-11 09:41:41，:rocket: 更新条数: +4278， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-11 09:47:38，:rocket: 更新条数: +4278， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -892,9 +892,9 @@
 </summary>
 
 
-- [2021-02-10-学文同学的-2020-年度总结](https://juejin.im/post/6927874038207348744) ![](assets/new.png)  
+- [2021-02-10-单例内置对象-|Global和Math](https://juejin.im/post/6927856964328226829) ![](assets/new.png)  
+- [2021-02-10-前端学习日记-一）---TypeScript基础篇](https://juejin.im/post/6927858213106745352) ![](assets/new.png)  
 - [2021-02-10-面试快回快答系列（二）：基本数据类型和类型检测](https://juejin.im/post/6927832474236125192) ![](assets/new.png)  
-- [2021-02-10-JavaScript-算法之树的深度优先与广度优先](https://juejin.im/post/6927604441415680014) ![](assets/new.png)  
 - [2021-02-10-2021-年-JavaScript-测试框架回顾](https://juejin.im/post/6927585452253790216) ![](assets/new.png)  
 - [2021-02-10-0.1-加-0.2-不等于-0.3-？从计算机角度深挖-JavaScript-浮点数存储机制](https://juejin.im/post/6927578911517868046) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -1085,15 +1085,15 @@
 - [2021-02-11-Flink-核心组件原理多图剖析](https://toutiao.io/k/ld0gru9) ![](assets/new.png)  
 - [2021-02-11-基于深度学习的短文本相似度学习与行业测评](https://toutiao.io/k/x2yxptb) ![](assets/new.png)  
 - [2021-02-11-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-11-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
-- [2021-02-11-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
-- [2021-02-11-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-11-推荐-分布式延时任务调度系统设计与-Golang-实现](https://toutiao.io/k/y4y7pl1) ![](assets/new.png)  
+- [2021-02-11-推荐-RESTful-API-如何进行版本控制](https://toutiao.io/k/na04wzq) ![](assets/new.png)  
 - [2021-02-11-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-11-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
 - [2021-02-11-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
-- [2021-02-11-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
-- [2021-02-11-推荐-基于开源技术打造-DevSecOps-工具链](https://toutiao.io/k/8dcb5n8) ![](assets/new.png)  
+- [2021-02-11-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
+- [2021-02-11-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
+- [2021-02-11-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-11-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-11-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
+- [2021-02-11-推荐-几乎刷完了力扣所有的堆题，我发现了这些东西（第二弹）](https://toutiao.io/k/x15jtei) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

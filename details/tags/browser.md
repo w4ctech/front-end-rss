@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-12 02:35:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-12 02:45:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,7 +46,6 @@
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-11-MacOS-在-chrome-里右键经常失效](https://www.v2ex.com/t/753006) 
-- [2021-02-11-edge-终于支持历史记录同步了？](https://www.v2ex.com/t/752968) 
 - [2021-02-12-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) 
 - [2021-02-11-安全客祝大家新春快乐,牛年大吉!](https://sec.thief.one/article_content?a_id=6edb0bde544ae9ba96c9f658dfff9dd1) 
 - [2021-02-11-邑安科技安全团队祝您新春快乐,牛年安康!](https://sec.thief.one/article_content?a_id=baab5c3caae89c847946dafefab8a68f) 

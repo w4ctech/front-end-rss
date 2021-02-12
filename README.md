@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-12 04:09:51，:rocket: 更新条数: +970， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-12 04:35:52，:rocket: 更新条数: +4277， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-02-12-2月11日全国新增新冠12例-均由境外输入](https://m.caixin.com/m/2021-02-12/101663306.html) ![](assets/new.png)  
+- [2021-02-12-德国延长封城期-美CDC称打疫苗后密接无须隔离|大流行手记（2月11日）](https://m.caixin.com/m/2021-02-12/101663309.html) ![](assets/new.png)  
+- [2021-02-11-最新海外疫情：新冠感染超1.07亿-累计死亡近235万](https://m.caixin.com/m/2021-02-11/101663268.html) ![](assets/new.png)  
+- [2021-02-11-【境内疫情观察】吉林通化新增1例本无症状感染者（2月10日）](http://m.database.caixin.com/m/2021-02-11/101663240.html) ![](assets/new.png)  
+- [2021-02-11-全球新增感染连续四周下降-研究称英变异毒株致死率更高丨大流行手记（2月10日）](https://m.caixin.com/m/2021-02-11/101663216.html) ![](assets/new.png)  
+- [2021-02-10-联合专家组：新冠病毒“极不可能”是通过实验室引入人类](http://m.china.caixin.com/m/2021-02-10/101662699.html) ![](assets/new.png)  
+- [2021-02-10-以色列9成老人已接种新冠疫苗-效果有待观察](https://m.caixin.com/m/2021-02-10/101662689.html) ![](assets/new.png)  
+- [2021-02-10-【境内疫情观察】全国连续3日无新增本土病例（2月9日）](http://m.database.caixin.com/m/2021-02-10/101662898.html) ![](assets/new.png)  
+- [2021-02-10-新冠溯源专家组称武汉疫情蝙蝠传人几率低-南非暂缓阿斯利康疫苗接种丨大流行手记（2月9日）](https://m.caixin.com/m/2021-02-10/101662695.html) ![](assets/new.png)  
+- [2021-02-10-【图集】直击上海精准防控](http://m.photos.caixin.com/m/2021-02-10/101663132.html) ![](assets/new.png)  
+- [2021-02-09-石家庄铁路、公路交通解封-河北境内进京火车票恢复出售](http://m.companies.caixin.com/m/2021-02-09/101662145.html) ![](assets/new.png)  
+- [2021-02-09-【境内疫情观察】黑龙江现有在院病例316例（2月8日）](http://m.database.caixin.com/m/2021-02-09/101662366.html) ![](assets/new.png)  
+- [2021-02-09-巴基斯坦称康希诺疫苗单剂保护率74.8%-南非改变阿斯利康疫苗接种策略丨大流行手记（2月8日）](https://m.caixin.com/m/2021-02-09/101662140.html) ![](assets/new.png)  
+- [2021-02-09-科兴新冠疫苗年产量将提升至10亿剂，灌包装能力能否跟上？](https://m.caixin.com/m/2021-02-09/101662135.html) ![](assets/new.png)  
+- [2021-02-09-全民疫苗接种率已逾六成-以色列发生了哪些变化](http://m.international.caixin.com/m/2021-02-09/101662431.html) ![](assets/new.png)  
+- [2021-02-09-【图集】时隔34天-石家庄站重新开启进站通道](http://m.photos.caixin.com/m/2021-02-09/101662171.html) ![](assets/new.png)  
+- [2021-02-08-【境内疫情观察】河北重症病例清零，多地调整风险等级（2月7日）](http://m.database.caixin.com/m/2021-02-08/101661781.html) ![](assets/new.png)  
+- [2021-02-08-非洲已筹10亿支新冠疫苗-牛津疫苗对南非变异株效果有限丨大流行手记2月7日](https://m.caixin.com/m/2021-02-08/101661709.html) ![](assets/new.png)  
+- [2021-02-08-中国向53个发展中国家提供疫苗援助-并为COVAX提供1000万剂](http://m.international.caixin.com/m/2021-02-08/101662003.html) ![](assets/new.png)  
+- [2021-02-08-【图集】石家庄部分村民结束隔离分批返家](http://m.photos.caixin.com/m/2021-02-08/101661870.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -992,6 +1012,8 @@
 </summary>
 
 
+- [2021-02-12-我来送-DV-通配符了-兼容性=DigiCert-Limited-Offer-50-张](https://www.v2ex.com/t/753028) ![](assets/new.png)  
+- [2021-02-12-N1-盒子这类带有-emmc-存储的设备关机可以直接拔电源吗？](https://www.v2ex.com/t/753027) ![](assets/new.png)  
 - [2021-02-12-CPU-1-比-CPU-0-温度高-10-度，长期下来会不会炸？](https://www.v2ex.com/t/753025) ![](assets/new.png)  
 - [2021-02-12-css-闪烁特效求助](https://www.v2ex.com/t/753024) ![](assets/new.png)  
 - [2021-02-12-18-款-MacBookPro-出现使用过程中强制黑屏或电池问题，解决办法](https://www.v2ex.com/t/753023) ![](assets/new.png)  
@@ -1010,8 +1032,6 @@
 - [2021-02-11-R5-3600-居然被我用坏了](https://www.v2ex.com/t/753007) ![](assets/new.png)  
 - [2021-02-11-MacOS-在-chrome-里右键经常失效](https://www.v2ex.com/t/753006) ![](assets/new.png)  
 - [2021-02-11-请问有人确诊焦虑症，并且在吃药的吗？](https://www.v2ex.com/t/753005) ![](assets/new.png)  
-- [2021-02-11-Win10-系统使用一个月左右就会出现卡窗口画面](https://www.v2ex.com/t/753002) ![](assets/new.png)  
-- [2021-02-11-大家是怎么管理分散的服务器的](https://www.v2ex.com/t/753001) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1056,24 +1076,24 @@
 
 - [2021-02-12-卧槽，SQL-注入竟然把我们的系统搞挂了](https://toutiao.io/k/5rmy079) ![](assets/new.png)  
 - [2021-02-12-最好的-IDEA-debug-长文？看完我佛了](https://toutiao.io/k/c2t9cp9) ![](assets/new.png)  
-- [2021-02-12-如何用-Vue-实现简易的富文本编辑器，并支持-Markdown-语法](https://toutiao.io/k/3v8f2zn) ![](assets/new.png)  
 - [2021-02-12-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
+- [2021-02-12-如何用-Vue-实现简易的富文本编辑器，并支持-Markdown-语法](https://toutiao.io/k/3v8f2zn) ![](assets/new.png)  
 - [2021-02-12-你引以为傲的经验还奏效吗？](https://toutiao.io/k/xwpfz4c) ![](assets/new.png)  
 - [2021-02-12-Bazel-Macro-的开发](https://toutiao.io/k/tj4y20u) ![](assets/new.png)  
 - [2021-02-12-Flink-状态管理详解-State-TTL、Operator-state、Keyed-state](https://toutiao.io/k/8zc0ozk) ![](assets/new.png)  
 - [2021-02-12-五福背后的-Web-3D-引擎-Oasis-Engine-正式开源](https://toutiao.io/k/1uvhcw1) ![](assets/new.png)  
 - [2021-02-12-使用导航组件:-对话框目的地](https://toutiao.io/k/o6nthpk) ![](assets/new.png)  
 - [2021-02-12-C++-模版的本质](https://toutiao.io/k/1rrznmr) ![](assets/new.png)  
-- [2021-02-12-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-12-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
-- [2021-02-12-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
-- [2021-02-12-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
 - [2021-02-12-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-12-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
-- [2021-02-12-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
 - [2021-02-12-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-12-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-12-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
+- [2021-02-12-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
 - [2021-02-12-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-12-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
+- [2021-02-12-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-12-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
+- [2021-02-12-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-12-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

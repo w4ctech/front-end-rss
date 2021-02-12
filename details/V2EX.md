@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-02-12 04:09:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-12 04:35:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-12-我来送-DV-通配符了-兼容性=DigiCert-Limited-Offer-50-张](https://www.v2ex.com/t/753028) 
+- [2021-02-12-N1-盒子这类带有-emmc-存储的设备关机可以直接拔电源吗？](https://www.v2ex.com/t/753027) 
 - [2021-02-12-CPU-1-比-CPU-0-温度高-10-度，长期下来会不会炸？](https://www.v2ex.com/t/753025) 
 - [2021-02-12-css-闪烁特效求助](https://www.v2ex.com/t/753024) 
 - [2021-02-12-18-款-MacBookPro-出现使用过程中强制黑屏或电池问题，解决办法](https://www.v2ex.com/t/753023) 
@@ -42,5 +44,3 @@
 - [2021-02-11-Angular-最新版本内置支持-TailwindCSS](https://www.v2ex.com/t/752982) 
 - [2021-02-11-利用线程和事件系统更新-tkinter-的进度条，在同步的时候卡住了，求大佬帮看下。。。](https://www.v2ex.com/t/752981) 
 - [2021-02-11-春节快乐，春晚直播在哪看画质最好?](https://www.v2ex.com/t/752979) 
-- [2021-02-11-群发的依然不想回](https://www.v2ex.com/t/752978) 
-- [2021-02-11-m1-mba-每次-macOS-更新后卡在开机-loading-转圈](https://www.v2ex.com/t/752977) 

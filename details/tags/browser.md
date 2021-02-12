@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-12 12:10:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-12 12:41:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,7 @@
 - [2021-02-10-每秒最多-6.5-万个事务，我们的-PostgreSQL-12-迁移之路](https://www.ershicimi.com/p/e2b6e0fb1d370cd3b7c717a69a41dfe9) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-02-12-你们买-t+0-银行理财产品吗，安全吗？](https://www.v2ex.com/t/753083) 
 - [2021-02-12-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) 
 - [2021-02-12-等保2.0安全计算环境之云计算扩展标准测评云平台](https://sec.thief.one/article_content?a_id=e0721a6eb6d05e6959710a4e1f538d4b) 
 - [2021-02-12-网络安全攻防:密码技术之密码协议](https://sec.thief.one/article_content?a_id=89a4caec3b40a18cb73c32178c39c6f5) 

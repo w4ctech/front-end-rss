@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-12 17:18:43，:rocket: 更新条数: +4032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-12 17:43:52，:rocket: 更新条数: +4276， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -619,6 +619,7 @@
 </summary>
 
 
+- [2021-02-12-water.css项目简介](https://www.zhangxinxu.com/wordpress/2021/02/water-css/) ![](assets/new.png)  
 - [2021-02-12-使用grid-area等Grid布局属性轻松实现元素层叠效果](https://www.zhangxinxu.com/wordpress/2021/02/grid-area-absolute-cover/) ![](assets/new.png)  
 - [2021-02-11-巧用两个type=range-input实现区域范围选择](https://www.zhangxinxu.com/wordpress/2021/02/range-input/) ![](assets/new.png)  
 - [2021-02-05-使用::part伪元素改变Shadow-DOM的CSS样式](https://www.zhangxinxu.com/wordpress/2021/02/css-part-shadow-dom/) ![](assets/new.png)  
@@ -628,7 +629,6 @@
 - [2020-12-24-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) ![](assets/new.png)  
 - [2020-12-12-纯CSS实现微信列表左滑显示按钮的交互效果](https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/) ![](assets/new.png)  
 - [2020-12-05-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) ![](assets/new.png)  
-- [2020-11-30-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -675,6 +675,26 @@
 </summary>
 
 
+- [2021-02-01-凹凸技术揭秘-·-技术精进与业务发展两不误](https://aotu.io/notes/2021/02/01/both-tech-n-biz/) ![](assets/new.png)  
+- [2021-01-14-凹凸技术揭秘-·-Taro-·-开放式跨端跨框架之路](https://aotu.io/notes/2021/01/14/taro-history/) ![](assets/new.png)  
+- [2021-01-14-凹凸技术揭秘-·-基础服务体系-·-构筑服务端技术中枢](https://aotu.io/notes/2021/01/14/exa-server/) ![](assets/new.png)  
+- [2021-01-06-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) ![](assets/new.png)  
+- [2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) ![](assets/new.png)  
+- [2020-12-31-凹凸技术揭秘-·-Deco-智能代码-·-开启产研效率革命](https://aotu.io/notes/2020/12/31/deco/) ![](assets/new.png)  
+- [2020-12-31-凹凸技术揭秘·羚珑页面可视化·成长蜕变之路](https://aotu.io/notes/2020/12/31/ling-atom-design/) ![](assets/new.png)  
+- [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) ![](assets/new.png)  
+- [2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) ![](assets/new.png)  
+- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
+- [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) ![](assets/new.png)  
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
+- [2020-11-05-EaseJs-中-regX-/-regY-的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,16 +1084,16 @@
 - [2021-02-12-C++-模版的本质](https://toutiao.io/k/1rrznmr) ![](assets/new.png)  
 - [2021-02-12-使用导航组件:-对话框目的地](https://toutiao.io/k/o6nthpk) ![](assets/new.png)  
 - [2021-02-12-Bazel-Macro-的开发](https://toutiao.io/k/tj4y20u) ![](assets/new.png)  
-- [2021-02-12-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-12-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
-- [2021-02-12-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
 - [2021-02-12-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
-- [2021-02-12-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-12-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
-- [2021-02-12-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
-- [2021-02-12-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
 - [2021-02-12-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
 - [2021-02-12-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
+- [2021-02-12-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-12-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
+- [2021-02-12-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-12-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
+- [2021-02-12-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
+- [2021-02-12-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
+- [2021-02-12-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

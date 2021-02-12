@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-02-12 15:08:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-12 15:31:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-12-想退学去做桌面运维，可行性怎样？](https://www.v2ex.com/t/753116) 
+- [2021-02-12-整理-B-站能够观看的「豆瓣电影-Top250-榜单」中的影片](https://www.v2ex.com/t/753114) 
 - [2021-02-12-一起来刷题](https://www.v2ex.com/t/753113) 
 - [2021-02-12-有没有觉得今年的央视春晚越来越难看？](https://www.v2ex.com/t/753112) 
 - [2021-02-12-匈牙利-Microsoft-Store-中-Affinity-系列-Bug-价-3-美金一个-Affinity-Photo,-Designer,-Pulisher](https://www.v2ex.com/t/753111) 
@@ -43,5 +45,3 @@
 - [2021-02-12-apple-watch-蓝牙自动断开](https://www.v2ex.com/t/753071) 
 - [2021-02-12-第三方软件能调用-MacBook-的环境光传感器吗。](https://www.v2ex.com/t/753069) 
 - [2021-02-12-问下公交专用道是不是周末和法定节假日随便走的？](https://www.v2ex.com/t/753067) 
-- [2021-02-12-服务发现的作用是什么，有什么好处](https://www.v2ex.com/t/753065) 
-- [2021-02-12-来深圳-21-年，第一次在深圳过年感觉不开心](https://www.v2ex.com/t/753064) 

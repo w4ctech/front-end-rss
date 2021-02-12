@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-12 15:08:13，:rocket: 更新条数: +4033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-12 15:31:17，:rocket: 更新条数: +4033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -992,6 +992,8 @@
 </summary>
 
 
+- [2021-02-12-想退学去做桌面运维，可行性怎样？](https://www.v2ex.com/t/753116) ![](assets/new.png)  
+- [2021-02-12-整理-B-站能够观看的「豆瓣电影-Top250-榜单」中的影片](https://www.v2ex.com/t/753114) ![](assets/new.png)  
 - [2021-02-12-一起来刷题](https://www.v2ex.com/t/753113) ![](assets/new.png)  
 - [2021-02-12-有没有觉得今年的央视春晚越来越难看？](https://www.v2ex.com/t/753112) ![](assets/new.png)  
 - [2021-02-12-匈牙利-Microsoft-Store-中-Affinity-系列-Bug-价-3-美金一个-Affinity-Photo,-Designer,-Pulisher](https://www.v2ex.com/t/753111) ![](assets/new.png)  
@@ -1010,8 +1012,6 @@
 - [2021-02-12-有使用-vim-写代码的兄弟姐妹么？你们都安装了哪些插件？](https://www.v2ex.com/t/753095) ![](assets/new.png)  
 - [2021-02-12-观看-2021-春节晚会小品《每逢佳节被催婚》有感](https://www.v2ex.com/t/753094) ![](assets/new.png)  
 - [2021-02-12-求一个仙剑奇侠传-98-柔情版-安卓包](https://www.v2ex.com/t/753092) ![](assets/new.png)  
-- [2021-02-12-有需要账号的吗，有大批美国-ip-注册的-fb-和-tw-gmail，一手账号](https://www.v2ex.com/t/753091) ![](assets/new.png)  
-- [2021-02-12-使用-Rider-创建-WPF-程序是-如何创建-Control-template](https://www.v2ex.com/t/753090) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,15 +1065,15 @@
 - [2021-02-12-使用导航组件:-对话框目的地](https://toutiao.io/k/o6nthpk) ![](assets/new.png)  
 - [2021-02-12-Bazel-Macro-的开发](https://toutiao.io/k/tj4y20u) ![](assets/new.png)  
 - [2021-02-12-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-12-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
-- [2021-02-12-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
-- [2021-02-12-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
-- [2021-02-12-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
-- [2021-02-12-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
-- [2021-02-12-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
-- [2021-02-12-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
-- [2021-02-12-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
 - [2021-02-12-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
+- [2021-02-12-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
+- [2021-02-12-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-12-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-12-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-12-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
+- [2021-02-12-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
+- [2021-02-12-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
+- [2021-02-12-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-12 11:48:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-12 12:05:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3243,6 +3243,8 @@
 - [2021-02-05-如果累了不想上班了，我强烈建议你看看这组小漫画](https://www.ershicimi.com/p/86bd570df3564ec6d7f1fc4acc28073f) 
 - [2021-02-05-知乎故事-|-你吃过什么毕生难忘的东西？](https://www.ershicimi.com/p/c3a02ebeb314ab08749372fbe8683783) 
 - [2021-02-04-明明什么都没做却总感觉很疲惫？小心患上「慢性疲劳综合症」](https://www.ershicimi.com/p/5eb5f71e041ff56c544b6ed1eac8004a) 
+- [2021-02-12-Python-的-int.bit_length-函数的时间复杂度是多少呢？](https://www.v2ex.com/t/753082) 
+- [2021-02-12-治愈系女声主播求推荐](https://www.v2ex.com/t/753081) 
 - [2021-02-12-求助贴！大过年的家里买的杂牌安卓电视开机死机，网上搜不到资料，有什么办法知道怎么进入-recover-模式吗？](https://www.v2ex.com/t/753080) 
 - [2021-02-12-改造北京联通-TW-800E-光猫，使得可以跑极限发包率时时候大大减少延迟~](https://www.v2ex.com/t/753079) 
 - [2021-02-12-想在杭州租一个摄影工作室，小伙伴们有何建议？](https://www.v2ex.com/t/753078) 
@@ -3303,14 +3305,14 @@
 - [2021-02-12-Flink-状态管理详解-State-TTL、Operator-state、Keyed-state](https://toutiao.io/k/8zc0ozk) 
 - [2021-02-12-C++-模版的本质](https://toutiao.io/k/1rrznmr) 
 - [2021-02-12-Bazel-Macro-的开发](https://toutiao.io/k/tj4y20u) 
-- [2021-02-12-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) 
+- [2021-02-12-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) 
 - [2021-02-12-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) 
 - [2021-02-12-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) 
 - [2021-02-12-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) 
-- [2021-02-12-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) 
-- [2021-02-12-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) 
 - [2021-02-12-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) 
 - [2021-02-12-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) 
+- [2021-02-12-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) 
+- [2021-02-12-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) 
 - [2021-02-12-网信数据观|今天,你上网了吗?](https://sec.thief.one/article_content?a_id=28619906893619b08a81451363429280) 
 - [2021-02-12-逼近5万美金!了解比特币看这部顶级纪录片和这些币圈流行词](https://sec.thief.one/article_content?a_id=5db09969a11ef68e247b2ddf544fa8fa) 
 - [2021-02-12-每周高级威胁情报解读2021.02.04~02.11](https://sec.thief.one/article_content?a_id=d08e2e2a130037d51ca0507d023f5f06) 

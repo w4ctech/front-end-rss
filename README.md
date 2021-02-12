@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-12 10:09:04，:rocket: 更新条数: +4276， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-12 10:31:25，:rocket: 更新条数: +4276， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,9 @@
 </summary>
 
 
+- [2021-02-12-apple-watch-蓝牙自动断开](https://www.v2ex.com/t/753071) ![](assets/new.png)  
+- [2021-02-12-第三方软件能调用-MacBook-的环境光传感器吗。](https://www.v2ex.com/t/753069) ![](assets/new.png)  
+- [2021-02-12-问下公交专用道是不是周末和法定节假日随便走的？](https://www.v2ex.com/t/753067) ![](assets/new.png)  
 - [2021-02-12-服务发现的作用是什么，有什么好处](https://www.v2ex.com/t/753065) ![](assets/new.png)  
 - [2021-02-12-来深圳-21-年，第一次在深圳过年感觉不开心](https://www.v2ex.com/t/753064) ![](assets/new.png)  
 - [2021-02-12-在中国租房经验交流，租一个稍微安静的房子](https://www.v2ex.com/t/753062) ![](assets/new.png)  
@@ -1029,9 +1032,6 @@
 - [2021-02-12-局域网内联机的-pc-游戏推荐](https://www.v2ex.com/t/753046) ![](assets/new.png)  
 - [2021-02-12-求职-后端准备出来工作了，北上广都可以，-PHP-开发工程师。](https://www.v2ex.com/t/753045) ![](assets/new.png)  
 - [2021-02-12-迫于工作电脑被装了天擎，淘了一个-sb2-用来上网](https://www.v2ex.com/t/753044) ![](assets/new.png)  
-- [2021-02-12-windows-上-IPSec-IKEv1-with-PSK-and-Xauth-的有什么可以用的客户端吗](https://www.v2ex.com/t/753043) ![](assets/new.png)  
-- [2021-02-12-春节期间提交离职申请是否不太好？。。](https://www.v2ex.com/t/753042) ![](assets/new.png)  
-- [2021-02-12-Window-默认的时间同步服务-time.windows.com-似乎挂了？](https://www.v2ex.com/t/753041) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,16 +1084,16 @@
 - [2021-02-12-C++-模版的本质](https://toutiao.io/k/1rrznmr) ![](assets/new.png)  
 - [2021-02-12-使用导航组件:-对话框目的地](https://toutiao.io/k/o6nthpk) ![](assets/new.png)  
 - [2021-02-12-Bazel-Macro-的开发](https://toutiao.io/k/tj4y20u) ![](assets/new.png)  
-- [2021-02-12-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-12-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-12-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
-- [2021-02-12-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
-- [2021-02-12-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
 - [2021-02-12-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
-- [2021-02-12-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
+- [2021-02-12-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-12-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-12-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-12-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
 - [2021-02-12-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
 - [2021-02-12-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
-- [2021-02-12-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-12-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
+- [2021-02-12-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
+- [2021-02-12-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,6 +1105,8 @@
 </summary>
 
 
+- [2021-02-12-等保2.0安全计算环境之云计算扩展标准测评云平台](https://sec.thief.one/article_content?a_id=e0721a6eb6d05e6959710a4e1f538d4b) ![](assets/new.png)  
+- [2021-02-12-网信数据观|今天,你上网了吗?](https://sec.thief.one/article_content?a_id=28619906893619b08a81451363429280) ![](assets/new.png)  
 - [2021-02-12-利用shodan搜索公网摄像头](https://sec.thief.one/article_content?a_id=1f250771cea1fbb75a45dab4b9097fee) ![](assets/new.png)  
 - [2021-02-12-逼近5万美金!了解比特币看这部顶级纪录片和这些币圈流行词](https://sec.thief.one/article_content?a_id=5db09969a11ef68e247b2ddf544fa8fa) ![](assets/new.png)  
 - [2021-02-12-每周高级威胁情报解读2021.02.04~02.11](https://sec.thief.one/article_content?a_id=d08e2e2a130037d51ca0507d023f5f06) ![](assets/new.png)  
@@ -1112,6 +1114,7 @@
 - [2021-02-12-pandas100个骚操作:再见-for-循环!速度提升315倍!](https://sec.thief.one/article_content?a_id=b96ac23df3a79c5a4c7c70bdd99d11d6) ![](assets/new.png)  
 - [2021-02-12-奇安信祝您:牛转乾坤!犇向辉煌!](https://sec.thief.one/article_content?a_id=1b6a30a92573b8e2577c750670304aa4) ![](assets/new.png)  
 - [2021-02-12-网络安全攻防:密码技术之密码协议](https://sec.thief.one/article_content?a_id=89a4caec3b40a18cb73c32178c39c6f5) ![](assets/new.png)  
+- [2021-02-12-调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=147a02b53e3f7293fdce0aa406884945) ![](assets/new.png)  
 - [2021-02-12-多喜乐](https://sec.thief.one/article_content?a_id=7d209f6da6e9e5d310df72001aa8597c) ![](assets/new.png)  
 - [2021-02-12-开启辛丑新程序,绿盟科技祝您春节快乐!](https://sec.thief.one/article_content?a_id=85acac98ffeb5a3bb58fc10f9428cada) ![](assets/new.png)  
 - [2021-02-12-2021,新春贺喜-牛年大吉](https://sec.thief.one/article_content?a_id=9864de8cc197b599f4d2bb0729c3a2ba) ![](assets/new.png)  
@@ -1122,9 +1125,6 @@
 - [2021-02-11-2020别了,2021我们来了!](https://sec.thief.one/article_content?a_id=d6f831439e764b415b445c5c9de2a718) ![](assets/new.png)  
 - [2021-02-11-满怀希望-全力奔跑|齐向东农历辛丑年新春贺词](https://sec.thief.one/article_content?a_id=e03d445cc83e91dff6528559f40317f2) ![](assets/new.png)  
 - [2021-02-11-从第47次《中国互联网络发展状况统计报告》看我国互联网发展趋势八...](https://sec.thief.one/article_content?a_id=5e2aafb58f5d1c5838b1d3005bba8f1f) ![](assets/new.png)  
-- [2021-02-11-邑安科技安全团队祝您新春快乐,牛年安康!](https://sec.thief.one/article_content?a_id=baab5c3caae89c847946dafefab8a68f) ![](assets/new.png)  
-- [2021-02-11-黑客100万美元起拍卖《赛博朋克2077》《巫师3》源码](https://sec.thief.one/article_content?a_id=e7c01e8f1931798365a16137f091ce24) ![](assets/new.png)  
-- [2021-02-11-辞旧迎新,牛年安康!](https://sec.thief.one/article_content?a_id=dccf38cd70e6e5095f25d46f62d395ba) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

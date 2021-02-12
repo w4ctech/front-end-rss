@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-12 10:09:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-12 10:31:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,7 +46,9 @@
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-12-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) 
+- [2021-02-12-等保2.0安全计算环境之云计算扩展标准测评云平台](https://sec.thief.one/article_content?a_id=e0721a6eb6d05e6959710a4e1f538d4b) 
 - [2021-02-12-网络安全攻防:密码技术之密码协议](https://sec.thief.one/article_content?a_id=89a4caec3b40a18cb73c32178c39c6f5) 
+- [2021-02-12-调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=147a02b53e3f7293fdce0aa406884945) 
 - [2021-02-11-安全客祝大家新春快乐,牛年大吉!](https://sec.thief.one/article_content?a_id=6edb0bde544ae9ba96c9f658dfff9dd1) 
 - [2021-02-11-邑安科技安全团队祝您新春快乐,牛年安康!](https://sec.thief.one/article_content?a_id=baab5c3caae89c847946dafefab8a68f) 
 - [2021-02-11-#安全过新年#-除夕的钟声即将敲响,牛年的脚步越来越近,在此360安...](https://sec.thief.one/article_content?a_id=19faa46617567fce171b38c6a5c333e7) 
@@ -67,4 +69,3 @@
 - [2021-02-09-大国网络安全博弈,博弈的是什么?](https://sec.thief.one/article_content?a_id=027d5998e028b8eb8c29c5aef1a32e29) 
 - [2021-02-09-新网络钓鱼攻击使用莫尔斯码隐藏恶意URL](https://sec.thief.one/article_content?a_id=0e4b29ab33901a0bed86e00f66aab89a) 
 - [2021-02-09-2021年全球网络安全投资六大热点](https://sec.thief.one/article_content?a_id=f573a34a9ded6951b8683b0ff65fdea2) 
-- [2021-02-08-【安全圈】印度男子遭勒索,谁料这个老练的黑客是自己11岁的儿子](https://sec.thief.one/article_content?a_id=52474d328c66f4240f52f5e572c919a7) 

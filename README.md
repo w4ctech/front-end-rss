@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-12 14:08:01，:rocket: 更新条数: +4279， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-12 14:29:07，:rocket: 更新条数: +4277， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -96,9 +96,6 @@
 </summary>
 
 
-- [2021-02-12-全国｜昨日新增新冠肺炎确诊病例-12-例-均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAEVDm1ilUx2haCASnVx210212&isfromapp=1) ![](assets/new.png)  
-- [2021-02-12-辽宁｜新增-1-例境外输入新冠肺炎确诊病例](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202102/t20210212_4084283.html) ![](assets/new.png)  
-- [2021-02-11-上海｜新增-7-例境外输入病例-无新增本地新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2y6INywhpavkrX2DnO7W210212&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1012,6 +1009,10 @@
 </summary>
 
 
+- [2021-02-12-加密货币疯涨可能成为金融危机的导火索吗？](https://www.v2ex.com/t/753109) ![](assets/new.png)  
+- [2021-02-12-有没有什么接口可以接收企业微信里员工或者机器人收到的消息？](https://www.v2ex.com/t/753108) ![](assets/new.png)  
+- [2021-02-12-求推荐弹性好的运动鞋、跳绳用](https://www.v2ex.com/t/753107) ![](assets/new.png)  
+- [2021-02-12-个人做投资交易，准备找个下单员，-有人有意向不？](https://www.v2ex.com/t/753106) ![](assets/new.png)  
 - [2021-02-12-Go-的并发模型的一些问题](https://www.v2ex.com/t/753105) ![](assets/new.png)  
 - [2021-02-12-如何简短表述“适用每周中的几天”](https://www.v2ex.com/t/753104) ![](assets/new.png)  
 - [2021-02-12-你的-notion-打得开吗](https://www.v2ex.com/t/753103) ![](assets/new.png)  
@@ -1028,10 +1029,6 @@
 - [2021-02-12-面向校招/社招，开源社区系统-Echo，基于目前主流-Java-Web-技术栈，并提供详细的开发文档和配套教程](https://www.v2ex.com/t/753088) ![](assets/new.png)  
 - [2021-02-12-Django-如何根据字段中相同数据出现频率排序？](https://www.v2ex.com/t/753087) ![](assets/new.png)  
 - [2021-02-12-现在下漫画有什么推荐的论坛么?](https://www.v2ex.com/t/753086) ![](assets/new.png)  
-- [2021-02-12-下一代的家庭网络带宽及设备？](https://www.v2ex.com/t/753085) ![](assets/new.png)  
-- [2021-02-12-BBC-干了什么？](https://www.v2ex.com/t/753084) ![](assets/new.png)  
-- [2021-02-12-你们买-t+0-银行理财产品吗，安全吗？](https://www.v2ex.com/t/753083) ![](assets/new.png)  
-- [2021-02-12-Python-的-int.bit_length-函数的时间复杂度是多少呢？](https://www.v2ex.com/t/753082) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,16 +1081,16 @@
 - [2021-02-12-C++-模版的本质](https://toutiao.io/k/1rrznmr) ![](assets/new.png)  
 - [2021-02-12-使用导航组件:-对话框目的地](https://toutiao.io/k/o6nthpk) ![](assets/new.png)  
 - [2021-02-12-Bazel-Macro-的开发](https://toutiao.io/k/tj4y20u) ![](assets/new.png)  
-- [2021-02-12-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
-- [2021-02-12-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
-- [2021-02-12-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-12-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
-- [2021-02-12-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
-- [2021-02-12-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
-- [2021-02-12-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
 - [2021-02-12-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-12-推荐-Redis-在-Linux-系统的配置优化](https://toutiao.io/k/cgfim2o) ![](assets/new.png)  
+- [2021-02-12-推荐-Spring-Boot-2.0-中-HikariCP-数据库连接池原理解析](https://toutiao.io/k/c42bstk) ![](assets/new.png)  
+- [2021-02-12-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
 - [2021-02-12-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-12-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
+- [2021-02-12-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
+- [2021-02-12-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
+- [2021-02-12-推荐-我的-top-私人珍藏开发工具集](https://toutiao.io/k/pq2o3oh) ![](assets/new.png)  
+- [2021-02-12-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-12-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

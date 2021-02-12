@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-12 09:47:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-12 10:05:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -113,7 +113,6 @@
 - [2021-02-06-深圳南山法院：微信好友关系不属于用户隐私；任正非就注册姚安娜商标事件道歉；基金成为年终奖投资首选-|](https://www.ershicimi.com/p/95822ff8dbd2a8a02678b449ece5f212) 
 - [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？](https://www.ershicimi.com/p/27033dcdf27caaae7012a928c62ea0ea) 
 - [2021-02-11-JS犀牛书笔记1.-类型，值和变量](https://juejin.im/post/6927969966985576455) 
-- [2021-02-10-JavaScript----变量](https://juejin.im/post/6927873553639407624) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -125,5 +124,4 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-02-12-哪款路由器可以实现-gost-转发？](https://www.v2ex.com/t/753039) 
 - [2021-02-12-能让光猫-600M-带宽跑满大概需要什么样的路由器？](https://www.v2ex.com/t/753030) 
-- [2021-02-12-请推荐迷你路由器，需要能刷-openwrt](https://www.v2ex.com/t/753015) 
 - [2021-02-12-使用导航组件:-对话框目的地](https://toutiao.io/k/o6nthpk) 

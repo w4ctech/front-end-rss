@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-13 03:08:09，:rocket: 更新条数: +4276， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-13 03:30:57，:rocket: 更新条数: +4275， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-02-13-2月12日全国新增新冠8例-均为境外输入](https://m.caixin.com/m/2021-02-13/101663419.html) ![](assets/new.png)  
+- [2021-02-13-聚焦|张文宏：抗新冠一年回顾与展望](http://m.opinion.caixin.com/m/2021-02-13/101663439.html) ![](assets/new.png)  
 - [2021-02-13-巴西变异病毒传染力强3倍-研究指法国前年11月已现疑似病例丨大流行手记（2月12日）](https://m.caixin.com/m/2021-02-13/101663431.html) ![](assets/new.png)  
 - [2021-02-12-最新海外疫情：新冠感染近1.08亿-累计死亡超236万](https://m.caixin.com/m/2021-02-12/101663374.html) ![](assets/new.png)  
 - [2021-02-12-【境内疫情观察】全国连续5日无新增本土病例（2月11日）](http://m.database.caixin.com/m/2021-02-12/101663358.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-02-09-全民疫苗接种率已逾六成-以色列发生了哪些变化](http://m.international.caixin.com/m/2021-02-09/101662431.html) ![](assets/new.png)  
 - [2021-02-09-【图集】时隔34天-石家庄站重新开启进站通道](http://m.photos.caixin.com/m/2021-02-09/101662171.html) ![](assets/new.png)  
 - [2021-02-08-【境内疫情观察】河北重症病例清零，多地调整风险等级（2月7日）](http://m.database.caixin.com/m/2021-02-08/101661781.html) ![](assets/new.png)  
-- [2021-02-08-非洲已筹10亿支新冠疫苗-牛津疫苗对南非变异株效果有限丨大流行手记2月7日](https://m.caixin.com/m/2021-02-08/101661709.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1012,6 +1012,7 @@
 </summary>
 
 
+- [2021-02-13-听说很多人都受楼上噪音影响，所以我打算直接买个顶楼](https://www.v2ex.com/t/753154) ![](assets/new.png)  
 - [2021-02-13-通过-strapi-这类产品，是不是就没有-CRUD-boy/gril-了](https://www.v2ex.com/t/753152) ![](assets/new.png)  
 - [2021-02-13-唐探-3-中提到的「密室之王」13-种室杀人手法，是哪十三种？](https://www.v2ex.com/t/753151) ![](assets/new.png)  
 - [2021-02-13-翻译：《实用的-Python-编程》01_02_Hello_world](https://www.v2ex.com/t/753149) ![](assets/new.png)  
@@ -1031,7 +1032,6 @@
 - [2021-02-12-大年初一-跑个牛](https://www.v2ex.com/t/753128) ![](assets/new.png)  
 - [2021-02-12-社交网络里的关注实现（类似-V2EX-的关注）](https://www.v2ex.com/t/753127) ![](assets/new.png)  
 - [2021-02-12-Nginx-能否将本地的多个端口转发到同一端口的不同目录](https://www.v2ex.com/t/753126) ![](assets/new.png)  
-- [2021-02-12-macOS-Catalina10.15.7-下更新到-0.15-后,导致系统频繁死机](https://www.v2ex.com/t/753121) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,23 +1077,23 @@
 - [2021-02-13-用-Pandas-计算日志中事件的时间间隔](https://toutiao.io/k/o73tkeh) ![](assets/new.png)  
 - [2021-02-13-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
 - [2021-02-13-译-编程高手是如何练成的？](https://toutiao.io/k/7c85i29) ![](assets/new.png)  
-- [2021-02-13-为什么说-TypeScript-是开发大型前端项目的必备语言](https://toutiao.io/k/eivpxcf) ![](assets/new.png)  
 - [2021-02-13-如何构建业务数据分析体系](https://toutiao.io/k/2zcuj5x) ![](assets/new.png)  
+- [2021-02-13-为什么说-TypeScript-是开发大型前端项目的必备语言](https://toutiao.io/k/eivpxcf) ![](assets/new.png)  
 - [2021-02-13-用了很多年-Dubbo，连-Dubbo-线程池监控都不知道，觉得自己很厉害？](https://toutiao.io/k/ph03air) ![](assets/new.png)  
 - [2021-02-13-Redis-专题：持久化方式之-RDB](https://toutiao.io/k/4tfdc2g) ![](assets/new.png)  
 - [2021-02-13-跨年都在更新的-vite-到底有多香？](https://toutiao.io/k/88f2ffe) ![](assets/new.png)  
 - [2021-02-13-拯救你的春节无聊假期：书单、影单、游戏推荐](https://toutiao.io/k/bjo8jj8) ![](assets/new.png)  
 - [2021-02-13-使用-RoughViz-可视化-Vue.js-中的草绘图表](https://toutiao.io/k/o6xj7a3) ![](assets/new.png)  
-- [2021-02-13-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-13-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-13-推荐-大流量场景下如何云淡风轻地进行线上发布？](https://toutiao.io/k/mg7l9r4) ![](assets/new.png)  
 - [2021-02-13-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
-- [2021-02-13-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
-- [2021-02-13-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
 - [2021-02-13-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-13-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-13-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
 - [2021-02-13-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-13-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-13-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-13-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
+- [2021-02-13-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
+- [2021-02-13-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-13-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
+- [2021-02-13-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

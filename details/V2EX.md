@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-13 12:40:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-13 12:51:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -47,4 +47,3 @@
 - [2021-02-13-钉钉的离职申请不算书面申请吧？](https://www.v2ex.com/t/753160) 
 - [2021-02-13-求解：键盘能够使用快捷键但是不能输入内容](https://www.v2ex.com/t/753159) 
 - [2021-02-13-Big-sur-每次升级后都要重新安装-xcode-select？](https://www.v2ex.com/t/753158) 
-- [2021-02-13-Github-Package-如何自动同步已发布在-Npm-的包](https://www.v2ex.com/t/753157) 

@@ -1,11 +1,10 @@
-:alarm_clock: 更新时间: 2021-02-14 08:43:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-14 08:54:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2021-02-14-2月13日全国新增新冠7例-均由境外输入](https://m.caixin.com/m/2021-02-14/101663544.html) 
 - [2021-02-14-【境内疫情观察】全国连续一周无新增本土病例（2月13日）](http://m.database.caixin.com/m/2021-02-14/101663573.html) 
 - [2021-02-14-韩国将下调防疫等级-英国疫情增势放缓丨大流行手记（2月13日）](https://m.caixin.com/m/2021-02-14/101663556.html) 
 - [2021-02-13-聚焦|张文宏：抗新冠一年回顾与展望](http://m.opinion.caixin.com/m/2021-02-13/101663439.html) 
@@ -3250,6 +3249,8 @@
 - [2021-02-07-男女交往有哪些潜规则？不贪，不缠，主动](https://www.ershicimi.com/p/968590f84a58f501136b4643d77dc5fb) 
 - [2021-02-07-知乎故事-|-你刚出国时闹过哪些笑话？](https://www.ershicimi.com/p/643bc742566689070773d69d5afbf80b) 
 - [2021-02-05-知乎神吐槽-|-人在医院能无知到何种程度？](https://www.ershicimi.com/p/07066a0cd6e8fe05e202d8d954c0c3d9) 
+- [2021-02-14-大佬们想问一下,-下图中的红色警告波浪线-有去除办法吗?](https://www.v2ex.com/t/753291) 
+- [2021-02-14-打开-Apple-Watch-解锁-Mac-导致指纹识别变慢](https://www.v2ex.com/t/753290) 
 - [2021-02-14-notion-没有浮动目录,-只有一个-toc-好难受.](https://www.v2ex.com/t/753288) 
 - [2021-02-14-请问大家工作的时候，除了-windows-和-macos-外，用的是哪个-Linux-桌面操作系统呢？](https://www.v2ex.com/t/753283) 
 - [2021-02-14-大家的-iPhone-锁屏后放在口袋会经常误触吗？](https://www.v2ex.com/t/753282) 
@@ -3275,8 +3276,6 @@
 - [2021-02-14-有了外接硬盘-Mac-mini-确实可以无压力选最低配了](https://www.v2ex.com/t/753250) 
 - [2021-02-14-m1-MacBook-Air-手动添加散热硅片会不会对电池有什么影响？](https://www.v2ex.com/t/753247) 
 - [2021-02-13-老精品网用户也-218.80-58.41-了](https://www.v2ex.com/t/753244) 
-- [2021-02-13-更新过的超业余足球联赛网站生成器。期待有人能用在自己的社区联赛大学院队比赛里](https://www.v2ex.com/t/753241) 
-- [2021-02-13-做了一个哔哩哔哩相关的工具类网站](https://www.v2ex.com/t/753240) 
 - [2021-02-14-外卖客户端容器化架构的演进-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14148&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F09%2F30%2Fwaimai-mobile-architecture-evolution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-14-TCP-窗口缩放、时间戳和-SACK-linux.cn](https://blogread.cn/news/go.php?idItem=14146&url=https%3A%2F%2Flinux.cn%2Farticle-12710-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-14-关于年终奖的故事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14145&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FF3u7KhJaBUSPm6H-Fy3hQw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -3303,15 +3302,15 @@
 - [2021-02-14-媒体传输的可靠性](https://toutiao.io/k/xrfsfbn) 
 - [2021-02-14-技术总监教你如何提升深度思考能力](https://toutiao.io/k/hyjjlna) 
 - [2021-02-14-一个程序员是怎么被逼疯的？](https://toutiao.io/k/uv99woc) 
-- [2021-02-14-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) 
-- [2021-02-14-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) 
-- [2021-02-14-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) 
 - [2021-02-14-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) 
 - [2021-02-14-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) 
-- [2021-02-14-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) 
-- [2021-02-14-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) 
 - [2021-02-14-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) 
+- [2021-02-14-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) 
+- [2021-02-14-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) 
 - [2021-02-14-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) 
+- [2021-02-14-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) 
+- [2021-02-14-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) 
+- [2021-02-14-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) 
 - [2021-02-14-【2021春节】解题领红包活动排行榜](https://sec.thief.one/article_content?a_id=9a0dd611acfd125e90a4f4115dc6016d) 
 - [2021-02-14-写代码注意了,打死都不要用-User-这个单词](https://sec.thief.one/article_content?a_id=f786e13bc3509377d9ec251e593d7a0d) 
 - [2021-02-14-奇安信祝您:气冲斗牛!百毒不侵!](https://sec.thief.one/article_content?a_id=f9e7ecef003b16d58736f1663a104b97) 

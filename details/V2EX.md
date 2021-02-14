@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-02-14 06:08:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-14 06:33:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-14-为什么邮件在服务器上通常不加密？](https://www.v2ex.com/t/753274) 
+- [2021-02-14-有那些软件你停在某个版本不更新了？](https://www.v2ex.com/t/753273) 
 - [2021-02-14-大年初二-跑个-ox](https://www.v2ex.com/t/753272) 
 - [2021-02-14-有没有练习书法的朋友大家交流交流](https://www.v2ex.com/t/753271) 
 - [2021-02-14-印度的蘑菇街做的还挺好的](https://www.v2ex.com/t/753270) 
@@ -40,4 +42,3 @@
 - [2021-02-13-docker-portainer-显示正在运行的容器-docker-ps-却无法显示](https://www.v2ex.com/t/753229) 
 - [2021-02-13-疑似自己手贱操作导致-Apple-ID-美区账号永久封停，分享给大家避坑](https://www.v2ex.com/t/753227) 
 - [2021-02-13-为什么很多国产安卓-APP-都不支持-fcm-推送呢？](https://www.v2ex.com/t/753226) 
-- [2021-02-13-系统报告里-usb-可以看到-iPhone-，但访达读取不到-iPhone-，系统-big-sur11.2.1](https://www.v2ex.com/t/753223) 

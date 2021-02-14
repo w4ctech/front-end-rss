@@ -20647,6 +20647,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有了外接硬盘 Mac mini 确实可以无压力选最低配了",
+        "link": "https://www.v2ex.com/t/753250",
+        "date": "2021-02-14"
+      },
+      {
         "title": "m1 MacBook Air 手动添加散热硅片会不会对电池有什么影响？",
         "link": "https://www.v2ex.com/t/753247",
         "date": "2021-02-14"
@@ -20840,11 +20845,6 @@
         "title": "觉得自己是弱智，是不是没救了？要去医院看吗？",
         "link": "https://www.v2ex.com/t/753201",
         "date": "2021-02-13"
-      },
-      {
-        "title": "请教一个 CSS 样式",
-        "link": "https://www.v2ex.com/t/753200",
-        "date": "2021-02-13"
       }
     ]
   },
@@ -20971,13 +20971,18 @@
         "date": "2021-02-14"
       },
       {
+        "title": "小步发布、验收测试和完整团队",
+        "link": "https://toutiao.io/k/2z99lmo",
+        "date": "2021-02-14"
+      },
+      {
         "title": "TypeScript 的 Substitutability",
         "link": "https://toutiao.io/k/2k5jqh2",
         "date": "2021-02-14"
       },
       {
-        "title": "小步发布、验收测试和完整团队",
-        "link": "https://toutiao.io/k/2z99lmo",
+        "title": "用户画像从 0 到 100 的构建思路",
+        "link": "https://toutiao.io/k/wbatwrb",
         "date": "2021-02-14"
       },
       {
@@ -20991,8 +20996,8 @@
         "date": "2021-02-14"
       },
       {
-        "title": "用户画像从 0 到 100 的构建思路",
-        "link": "https://toutiao.io/k/wbatwrb",
+        "title": "领域驱动设计 (DDD) 在百度爱番番的实践",
+        "link": "https://toutiao.io/k/djhtzln",
         "date": "2021-02-14"
       },
       {
@@ -21001,48 +21006,13 @@
         "date": "2021-02-14"
       },
       {
-        "title": "领域驱动设计 (DDD) 在百度爱番番的实践",
-        "link": "https://toutiao.io/k/djhtzln",
-        "date": "2021-02-14"
-      },
-      {
         "title": "技术总监教你如何提升深度思考能力",
         "link": "https://toutiao.io/k/hyjjlna",
         "date": "2021-02-14"
       },
       {
-        "title": "[推荐] Elasticsearch 聚合性能优化六大猛招",
-        "link": "https://toutiao.io/k/otz7tnk",
-        "date": "2021-02-14"
-      },
-      {
-        "title": "[推荐] 阅读源码的真正价值",
-        "link": "https://toutiao.io/k/yupb5ya",
-        "date": "2021-02-14"
-      },
-      {
-        "title": "[推荐] Redis 遇到的那些坑",
-        "link": "https://toutiao.io/k/k4blfqn",
-        "date": "2021-02-14"
-      },
-      {
-        "title": "[推荐] 我对技术架构的理解与架构师角色的思考",
-        "link": "https://toutiao.io/k/crw00du",
-        "date": "2021-02-14"
-      },
-      {
-        "title": "[推荐] 深入了解 SSH",
-        "link": "https://toutiao.io/k/8y463n2",
-        "date": "2021-02-14"
-      },
-      {
-        "title": "[推荐] 硬不硬你说了算！近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题",
-        "link": "https://toutiao.io/k/3a36mkk",
-        "date": "2021-02-14"
-      },
-      {
-        "title": "[推荐] 引入 Gateway 网关，这些坑一定要学会避开",
-        "link": "https://toutiao.io/k/60gr6a8",
+        "title": "[推荐] 3+1 保障：高可用系统稳定性是如何炼成的？",
+        "link": "https://toutiao.io/k/u8lcu6b",
         "date": "2021-02-14"
       },
       {
@@ -21056,8 +21026,48 @@
         "date": "2021-02-14"
       },
       {
-        "title": "[推荐] 3+1 保障：高可用系统稳定性是如何炼成的？",
-        "link": "https://toutiao.io/k/u8lcu6b",
+        "title": "[推荐] 深入了解 SSH",
+        "link": "https://toutiao.io/k/8y463n2",
+        "date": "2021-02-14"
+      },
+      {
+        "title": "[推荐] Elasticsearch 聚合性能优化六大猛招",
+        "link": "https://toutiao.io/k/otz7tnk",
+        "date": "2021-02-14"
+      },
+      {
+        "title": "[推荐] 快速了解云原生架构",
+        "link": "https://toutiao.io/k/zz0ckz0",
+        "date": "2021-02-14"
+      },
+      {
+        "title": "[推荐] 条分缕析 Raft 算法",
+        "link": "https://toutiao.io/k/pa5a9hf",
+        "date": "2021-02-14"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建很 easy",
+        "link": "https://toutiao.io/k/m4mw3sc",
+        "date": "2021-02-14"
+      },
+      {
+        "title": "[推荐] 引入 Gateway 网关，这些坑一定要学会避开",
+        "link": "https://toutiao.io/k/60gr6a8",
+        "date": "2021-02-14"
+      },
+      {
+        "title": "[推荐] 硬不硬你说了算！近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题",
+        "link": "https://toutiao.io/k/3a36mkk",
+        "date": "2021-02-14"
+      },
+      {
+        "title": "[推荐] 我对技术架构的理解与架构师角色的思考",
+        "link": "https://toutiao.io/k/crw00du",
+        "date": "2021-02-14"
+      },
+      {
+        "title": "[推荐] Redis 遇到的那些坑",
+        "link": "https://toutiao.io/k/k4blfqn",
         "date": "2021-02-14"
       },
       {
@@ -21071,18 +21081,8 @@
         "date": "2021-02-14"
       },
       {
-        "title": "[推荐] 条分缕析 Raft 算法",
-        "link": "https://toutiao.io/k/pa5a9hf",
-        "date": "2021-02-14"
-      },
-      {
-        "title": "[推荐] 快速了解云原生架构",
-        "link": "https://toutiao.io/k/zz0ckz0",
-        "date": "2021-02-14"
-      },
-      {
-        "title": "[推荐] Redis 集群搭建很 easy",
-        "link": "https://toutiao.io/k/m4mw3sc",
+        "title": "[推荐] 阅读源码的真正价值",
+        "link": "https://toutiao.io/k/yupb5ya",
         "date": "2021-02-14"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-14 00:08:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-14 00:19:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -47,4 +47,3 @@
 - [2021-02-13-在一个嵌入式-Linux-上如何安装软件?](https://www.v2ex.com/t/753198) 
 - [2021-02-13-应用最小化后，应用图标会丢失](https://www.v2ex.com/t/753197) 
 - [2021-02-13-awk-的-pattern-在-shell-脚本中如何调用位置参数?](https://www.v2ex.com/t/753196) 
-- [2021-02-13-你们的-mbp-有用有线网卡上网的吗？](https://www.v2ex.com/t/753195) 

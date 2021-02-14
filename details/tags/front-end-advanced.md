@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-14 16:06:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-14 16:14:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -18,6 +18,5 @@
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2021-02-14-日本-InfiPower-招全栈软工](https://www.v2ex.com/t/753332) 
-- [2021-02-14-gitee-怎么把-master-改成-main?](https://www.v2ex.com/t/753286) 
-- [2021-02-14-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) 
 - [2021-02-14-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) 
+- [2021-02-14-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-14 14:08:25，:rocket: 更新条数: +4284， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-14 14:28:34，:rocket: 更新条数: +4284， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,8 @@
 </summary>
 
 
+- [2021-02-14-新年奇事：我的-firefox-浏览器可以在不走云梯-的情况下直接打开鸭鸭走](https://www.v2ex.com/t/753329) ![](assets/new.png)  
+- [2021-02-14-Proxmox-VE-非订阅/免费源如何，可以放心用吗？](https://www.v2ex.com/t/753328) ![](assets/new.png)  
 - [2021-02-14-各位大佬们，你们放假都在做自己的项目？](https://www.v2ex.com/t/753327) ![](assets/new.png)  
 - [2021-02-14-请教这是个啥内存？用在啥上面的？](https://www.v2ex.com/t/753326) ![](assets/new.png)  
 - [2021-02-14-现在还有什么办法在-Chrome-里离线安装扩展](https://www.v2ex.com/t/753325) ![](assets/new.png)  
@@ -1030,8 +1032,6 @@
 - [2021-02-14-凯立德导航和百度地图、高德相比，功能有什么优势吗？](https://www.v2ex.com/t/753309) ![](assets/new.png)  
 - [2021-02-14-MacBook-送天才吧换电池，-A-面多了一道很明显的划痕，天才吧人员说调查后给出结果。](https://www.v2ex.com/t/753308) ![](assets/new.png)  
 - [2021-02-14-佛系刷题群-LeetCode-积分排行榜-榜单每周更新。加微信-ACM-er-加群。本群很佛系，讨论刷题和瞎-BB。](https://www.v2ex.com/t/753306) ![](assets/new.png)  
-- [2021-02-14-Apple-Watch-心跳挑战-超过-60min-了-为什么没有获得勋章？](https://www.v2ex.com/t/753305) ![](assets/new.png)  
-- [2021-02-14-Linux-系统编程中,-如果信号处理函数里面写一个死循环-会怎么样?](https://www.v2ex.com/t/753303) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,16 +1084,16 @@
 - [2021-02-14-媒体传输的可靠性](https://toutiao.io/k/xrfsfbn) ![](assets/new.png)  
 - [2021-02-14-TypeScript-的-Substitutability](https://toutiao.io/k/2k5jqh2) ![](assets/new.png)  
 - [2021-02-14-一个程序员是怎么被逼疯的？](https://toutiao.io/k/uv99woc) ![](assets/new.png)  
-- [2021-02-14-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
-- [2021-02-14-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
-- [2021-02-14-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
-- [2021-02-14-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
-- [2021-02-14-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
+- [2021-02-14-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
 - [2021-02-14-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-14-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
+- [2021-02-14-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
+- [2021-02-14-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
+- [2021-02-14-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-14-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
+- [2021-02-14-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
 - [2021-02-14-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
 - [2021-02-14-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
-- [2021-02-14-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
-- [2021-02-14-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

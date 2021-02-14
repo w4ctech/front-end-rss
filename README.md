@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-14 10:08:56，:rocket: 更新条数: +4282， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-14 10:31:12，:rocket: 更新条数: +969， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-02-14-最新疫情：全国新冠累计确诊89763例-无新增本土病例](https://m.caixin.com/m/2021-02-14/101663587.html) ![](assets/new.png)  
-- [2021-02-14-最新海外疫情：新冠感染超1.08亿-累计死亡近239万](http://m.international.caixin.com/m/2021-02-14/101663590.html) ![](assets/new.png)  
-- [2021-02-14-【境内疫情观察】全国连续一周无新增本土病例（2月13日）](http://m.database.caixin.com/m/2021-02-14/101663573.html) ![](assets/new.png)  
-- [2021-02-14-韩国将下调防疫等级-英国疫情增势放缓丨大流行手记（2月13日）](https://m.caixin.com/m/2021-02-14/101663556.html) ![](assets/new.png)  
-- [2021-02-13-聚焦|张文宏：抗新冠一年回顾与展望](http://m.opinion.caixin.com/m/2021-02-13/101663439.html) ![](assets/new.png)  
-- [2021-02-13-【境内疫情观察】全国新增8例境外输入病例（2月12日）](http://m.database.caixin.com/m/2021-02-13/101663455.html) ![](assets/new.png)  
-- [2021-02-13-巴西变异病毒传染力强3倍-研究指法国前年11月已现疑似病例丨大流行手记（2月12日）](https://m.caixin.com/m/2021-02-13/101663431.html) ![](assets/new.png)  
-- [2021-02-12-【境内疫情观察】全国连续5日无新增本土病例（2月11日）](http://m.database.caixin.com/m/2021-02-12/101663358.html) ![](assets/new.png)  
-- [2021-02-12-德国延长封城期-美CDC称打疫苗后密接无须隔离|大流行手记（2月11日）](https://m.caixin.com/m/2021-02-12/101663309.html) ![](assets/new.png)  
-- [2021-02-11-【境内疫情观察】吉林通化新增1例本无症状感染者（2月10日）](http://m.database.caixin.com/m/2021-02-11/101663240.html) ![](assets/new.png)  
-- [2021-02-11-全球新增感染连续四周下降-研究称英变异毒株致死率更高丨大流行手记（2月10日）](https://m.caixin.com/m/2021-02-11/101663216.html) ![](assets/new.png)  
-- [2021-02-10-联合专家组：新冠病毒“极不可能”是通过实验室引入人类](http://m.china.caixin.com/m/2021-02-10/101662699.html) ![](assets/new.png)  
-- [2021-02-10-以色列9成老人已接种新冠疫苗-效果有待观察](https://m.caixin.com/m/2021-02-10/101662689.html) ![](assets/new.png)  
-- [2021-02-10-【境内疫情观察】全国连续3日无新增本土病例（2月9日）](http://m.database.caixin.com/m/2021-02-10/101662898.html) ![](assets/new.png)  
-- [2021-02-10-新冠溯源专家组称武汉疫情蝙蝠传人几率低-南非暂缓阿斯利康疫苗接种丨大流行手记（2月9日）](https://m.caixin.com/m/2021-02-10/101662695.html) ![](assets/new.png)  
-- [2021-02-10-【图集】直击上海精准防控](http://m.photos.caixin.com/m/2021-02-10/101663132.html) ![](assets/new.png)  
-- [2021-02-09-石家庄铁路、公路交通解封-河北境内进京火车票恢复出售](http://m.companies.caixin.com/m/2021-02-09/101662145.html) ![](assets/new.png)  
-- [2021-02-09-【境内疫情观察】黑龙江现有在院病例316例（2月8日）](http://m.database.caixin.com/m/2021-02-09/101662366.html) ![](assets/new.png)  
-- [2021-02-09-巴基斯坦称康希诺疫苗单剂保护率74.8%-南非改变阿斯利康疫苗接种策略丨大流行手记（2月8日）](https://m.caixin.com/m/2021-02-09/101662140.html) ![](assets/new.png)  
-- [2021-02-09-科兴新冠疫苗年产量将提升至10亿剂，灌包装能力能否跟上？](https://m.caixin.com/m/2021-02-09/101662135.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1078,22 +1058,22 @@
 - [2021-02-14-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
 - [2021-02-14-小步发布、验收测试和完整团队](https://toutiao.io/k/2z99lmo) ![](assets/new.png)  
 - [2021-02-14-领域驱动设计-DDD-在百度爱番番的实践](https://toutiao.io/k/djhtzln) ![](assets/new.png)  
-- [2021-02-14-Flink-的状态数据到底存到哪了？](https://toutiao.io/k/udxt0h1) ![](assets/new.png)  
 - [2021-02-14-源码剖析-sync.WaitGroup](https://toutiao.io/k/nqxco3o) ![](assets/new.png)  
+- [2021-02-14-Flink-的状态数据到底存到哪了？](https://toutiao.io/k/udxt0h1) ![](assets/new.png)  
 - [2021-02-14-媒体传输的可靠性](https://toutiao.io/k/xrfsfbn) ![](assets/new.png)  
-- [2021-02-14-TypeScript-的-Substitutability](https://toutiao.io/k/2k5jqh2) ![](assets/new.png)  
 - [2021-02-14-技术总监教你如何提升深度思考能力](https://toutiao.io/k/hyjjlna) ![](assets/new.png)  
+- [2021-02-14-TypeScript-的-Substitutability](https://toutiao.io/k/2k5jqh2) ![](assets/new.png)  
 - [2021-02-14-一个程序员是怎么被逼疯的？](https://toutiao.io/k/uv99woc) ![](assets/new.png)  
+- [2021-02-14-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
+- [2021-02-14-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-14-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
 - [2021-02-14-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
 - [2021-02-14-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
-- [2021-02-14-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
-- [2021-02-14-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-14-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-14-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
-- [2021-02-14-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
 - [2021-02-14-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-14-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
-- [2021-02-14-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
+- [2021-02-14-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-14-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
+- [2021-02-14-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
+- [2021-02-14-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,8 +1085,12 @@
 </summary>
 
 
+- [2021-02-14-SonicWall-Global-VPN客户端新型权限提升漏洞分析](https://sec.thief.one/article_content?a_id=52ec33f5e5c68d0e8976a1a546c5a67d) ![](assets/new.png)  
+- [2021-02-14-TrustCom-2020-论文录用列表](https://sec.thief.one/article_content?a_id=4c104d84949a85db98ef5877de8f5a3b) ![](assets/new.png)  
+- [2021-02-14-网信数据观|扶贫上“网”,互联网带你脱贫致富](https://sec.thief.one/article_content?a_id=de2746d90d0eed3052de531c680c4f52) ![](assets/new.png)  
 - [2021-02-14-2月微软安全更新修复56个安全漏洞](https://sec.thief.one/article_content?a_id=f9ed8a46c11da95acfe1a05c0efd299b) ![](assets/new.png)  
 - [2021-02-14-【2021春节】解题领红包活动排行榜](https://sec.thief.one/article_content?a_id=9a0dd611acfd125e90a4f4115dc6016d) ![](assets/new.png)  
+- [2021-02-14-钓鱼攻击:Gophish邮件钓鱼平台搭建](https://sec.thief.one/article_content?a_id=eaf2c69ccca7577b185fdd5ddd5260a1) ![](assets/new.png)  
 - [2021-02-14-《云计算安全责任共担白皮书-2020年》全文及解读](https://sec.thief.one/article_content?a_id=4d05f66991a246dbd6f0e6ccddac817b) ![](assets/new.png)  
 - [2021-02-14-写代码注意了,打死都不要用-User-这个单词](https://sec.thief.one/article_content?a_id=f786e13bc3509377d9ec251e593d7a0d) ![](assets/new.png)  
 - [2021-02-14-奇安信祝您:气冲斗牛!百毒不侵!](https://sec.thief.one/article_content?a_id=f9e7ecef003b16d58736f1663a104b97) ![](assets/new.png)  
@@ -1121,10 +1105,6 @@
 - [2021-02-13-【视频】|-网络安全:入侵检测的基本知识](https://sec.thief.one/article_content?a_id=59ba9377fc7a30f48f150de37474c111) ![](assets/new.png)  
 - [2021-02-13-拜登政府准备暂停抖音、微信禁令,无限期搁置TikTok出售计划](https://sec.thief.one/article_content?a_id=420877cdda773a69ba6869ef27013538) ![](assets/new.png)  
 - [2021-02-13-奇安信祝您:牛气十足!幸福相随!](https://sec.thief.one/article_content?a_id=7f6adebddf903571631793bafc9444e1) ![](assets/new.png)  
-- [2021-02-12-黑入苹果特斯拉竟如此容易!这位鬼才的攻击方法火了,微软等-35-家...](https://sec.thief.one/article_content?a_id=878277939fd1c931deb62e0e40314a6c) ![](assets/new.png)  
-- [2021-02-12-等保2.0安全计算环境之云计算扩展标准测评云平台](https://sec.thief.one/article_content?a_id=e0721a6eb6d05e6959710a4e1f538d4b) ![](assets/new.png)  
-- [2021-02-12-网信数据观|今天,你上网了吗?](https://sec.thief.one/article_content?a_id=28619906893619b08a81451363429280) ![](assets/new.png)  
-- [2021-02-12-利用shodan搜索公网摄像头](https://sec.thief.one/article_content?a_id=1f250771cea1fbb75a45dab4b9097fee) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

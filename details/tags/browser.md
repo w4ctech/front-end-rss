@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-14 13:34:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-14 13:47:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,6 +46,7 @@
 - [2021-02-10-每秒最多-6.5-万个事务，我们的-PostgreSQL-12-迁移之路](https://www.ershicimi.com/p/e2b6e0fb1d370cd3b7c717a69a41dfe9) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-02-14-现在还有什么办法在-Chrome-里离线安装扩展](https://www.v2ex.com/t/753325) 
 - [2021-02-14-Chrome-地址栏输入搜索引擎关键字后无法通过空格进入自定义搜索状态？](https://www.v2ex.com/t/753294) 
 - [2021-02-14-请教一个问题：我现在使用-vivaldi-浏览器，每次退出浏览器后，已登录的站点都会退出登录。-比如我登录-v-站，然后关闭浏览器，再次打开就是未登录状态。](https://www.v2ex.com/t/753280) 
 - [2021-02-14-Nginx-日志里发现了奇怪的请求，请问各位有没有头绪](https://www.v2ex.com/t/753278) 

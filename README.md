@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-14 07:29:51，:rocket: 更新条数: +4282， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-14 07:38:12，:rocket: 更新条数: +4283， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -892,11 +892,11 @@
 </summary>
 
 
-- [2021-02-13-“动态换肤”-踩坑记录｜牛气冲天新年征文](https://juejin.im/post/6928922445311115278) ![](assets/new.png)  
-- [2021-02-13-高级JavaScript](https://juejin.im/post/6928786921728507912) ![](assets/new.png)  
-- [2021-02-13-事件委托简介](https://juejin.im/post/6928786818854813703) ![](assets/new.png)  
-- [2021-02-13-还有人不知道防抖节流？（三）](https://juejin.im/post/6928775733300953096) ![](assets/new.png)  
-- [2021-02-13-前端学习日记-二）---Vue-3-基础篇-·-上](https://juejin.im/post/6928775382149627918) ![](assets/new.png)  
+- [2021-02-13-02-vue常用特性](https://juejin.im/post/6929009622854418439) ![](assets/new.png)  
+- [2021-02-13-Vue源码解读入口到构造函数整体流程](https://juejin.im/post/6929008264906539022) ![](assets/new.png)  
+- [2021-02-13-重构时的不同场景及其策略](https://juejin.im/post/6928987813467652104) ![](assets/new.png)  
+- [2021-02-13-跨域CORS、JSONP、服务器中转](https://juejin.im/post/6928977908262567950) ![](assets/new.png)  
+- [2021-02-13-console.log-真的可信吗？](https://juejin.im/post/6928968738196684813) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1012,6 +1012,9 @@
 </summary>
 
 
+- [2021-02-14-请教一个问题：我现在使用-vivaldi-浏览器，每次退出浏览器后，已登录的站点都会退出登录。-比如我登录-v-站，然后关闭浏览器，再次打开就是未登录状态。](https://www.v2ex.com/t/753280) ![](assets/new.png)  
+- [2021-02-14-Apple-Watch-和-AirPods-Max-的旋转按钮有没有可能来到-iPhone-上](https://www.v2ex.com/t/753279) ![](assets/new.png)  
+- [2021-02-14-Nginx-日志里发现了奇怪的请求，请问各位有没有头绪](https://www.v2ex.com/t/753278) ![](assets/new.png)  
 - [2021-02-14-大佬们，调试-thrift-rpc-接口大家一般用啥工具，有啥类似-postman-这种可以调试-rpc-接口的工具吗](https://www.v2ex.com/t/753277) ![](assets/new.png)  
 - [2021-02-14-寻找儿时看过的一部动画片。](https://www.v2ex.com/t/753276) ![](assets/new.png)  
 - [2021-02-14-为什么邮件在服务器上通常不加密？](https://www.v2ex.com/t/753274) ![](assets/new.png)  
@@ -1029,9 +1032,6 @@
 - [2021-02-14-当面问别人朋友圈为什么屏蔽自己是没有情商的行为](https://www.v2ex.com/t/753261) ![](assets/new.png)  
 - [2021-02-14-合同到期不续签需要提前通知公司吗？](https://www.v2ex.com/t/753259) ![](assets/new.png)  
 - [2021-02-14-优酷和酷喵的资源不互通?](https://www.v2ex.com/t/753258) ![](assets/new.png)  
-- [2021-02-14-1password-不会提示添加新密码](https://www.v2ex.com/t/753254) ![](assets/new.png)  
-- [2021-02-14-ios-版的百度贴吧-app-是不是用了啥代码对抗苹果杀后台？](https://www.v2ex.com/t/753253) ![](assets/new.png)  
-- [2021-02-14-Apple-Music-国区有关账号和内容的问题](https://www.v2ex.com/t/753252) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,16 +1084,16 @@
 - [2021-02-14-TypeScript-的-Substitutability](https://toutiao.io/k/2k5jqh2) ![](assets/new.png)  
 - [2021-02-14-技术总监教你如何提升深度思考能力](https://toutiao.io/k/hyjjlna) ![](assets/new.png)  
 - [2021-02-14-一个程序员是怎么被逼疯的？](https://toutiao.io/k/uv99woc) ![](assets/new.png)  
-- [2021-02-14-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
-- [2021-02-14-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
-- [2021-02-14-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-14-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
-- [2021-02-14-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
-- [2021-02-14-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-14-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-14-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
-- [2021-02-14-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
 - [2021-02-14-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
+- [2021-02-14-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
+- [2021-02-14-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
+- [2021-02-14-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
+- [2021-02-14-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
+- [2021-02-14-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
+- [2021-02-14-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
+- [2021-02-14-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-14-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
+- [2021-02-14-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

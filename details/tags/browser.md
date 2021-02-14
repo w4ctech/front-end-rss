@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-14 07:08:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-14 07:29:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,6 +46,7 @@
 - [2021-02-10-每秒最多-6.5-万个事务，我们的-PostgreSQL-12-迁移之路](https://www.ershicimi.com/p/e2b6e0fb1d370cd3b7c717a69a41dfe9) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-02-14-大佬们，调试-thrift-rpc-接口大家一般用啥工具，有啥类似-postman-这种可以调试-rpc-接口的工具吗](https://www.v2ex.com/t/753277) 
 - [2021-02-14-你们的-edge-可以-QQ-快速登录吗？](https://www.v2ex.com/t/753246) 
 - [2021-02-13-bitwarden-的自动填充在安卓浏览器上没反应-有朋友知道是怎么回事吗？](https://www.v2ex.com/t/753242) 
 - [2021-02-14-清华大学莫一林：信息物理系统中的安全控制算法-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14147&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F09%2F30%2Fmeituan-top-talk-moyilin-cps.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

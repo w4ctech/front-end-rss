@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-02-14 14:49:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-14 15:04:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-14-简单谈谈我的-MacBook-以旧换新纪](https://www.v2ex.com/t/753333) 
+- [2021-02-14-日本-InfiPower-招全栈软工](https://www.v2ex.com/t/753332) 
 - [2021-02-14-新买的-m1-一直冲不进去电](https://www.v2ex.com/t/753331) 
 - [2021-02-14-SmartX北京/深圳/上海多职位研发/产品/设计社招可能是最负责的内推](https://www.v2ex.com/t/753330) 
 - [2021-02-14-新年奇事：我的-firefox-浏览器可以在不走云梯-的情况下直接打开鸭鸭走](https://www.v2ex.com/t/753329) 
@@ -42,5 +44,3 @@
 - [2021-02-14-打开-Apple-Watch-解锁-Mac-导致指纹识别变慢](https://www.v2ex.com/t/753290) 
 - [2021-02-14-notion-没有浮动目录,-只有一个-toc-好难受.](https://www.v2ex.com/t/753288) 
 - [2021-02-14-gitee-怎么把-master-改成-main?](https://www.v2ex.com/t/753286) 
-- [2021-02-14-请问大家工作的时候，除了-windows-和-macos-外，用的是哪个-Linux-桌面操作系统呢？](https://www.v2ex.com/t/753283) 
-- [2021-02-14-大家的-iPhone-锁屏后放在口袋会经常误触吗？](https://www.v2ex.com/t/753282) 

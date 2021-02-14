@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-14 07:40:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-14 07:48:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -343,9 +343,9 @@
 - [【前端开发博客】阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497)
 - [【全栈前端精选】你可能不知道的-CSS-阴影技巧与细节](https://www.ershicimi.com/p/3dab5c1285e6cd39d8c1e847600a11f7)
 - [【前端宇宙】Facebook-重构：抛弃-Sass-/-Less-，迎接原子化-CSS-时代](https://www.ershicimi.com/p/cf6a2e6655f132e6809ebdf0be969efe)
+- [【张鑫旭-鑫空间-鑫生活】了解CSS-revert全局关键字](https://www.zhangxinxu.com/wordpress/2021/02/css-revert/)
 - [【张鑫旭-鑫空间-鑫生活】water.css项目简介](https://www.zhangxinxu.com/wordpress/2021/02/water-css/)
 - [【张鑫旭-鑫空间-鑫生活】一行CSS实现全站中文简繁转换](https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/)
-- [【张鑫旭-鑫空间-鑫生活】纯CSS实现微信列表左滑显示按钮的交互效果](https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/)
 - [【凹凸实验室】从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/)
 - [【凹凸实验室】你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/)
 - [【凹凸实验室】几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/)
@@ -514,8 +514,8 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
-- [【开发者头条】推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf)
 - [【开发者头条】推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h)
+- [【开发者头条】推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

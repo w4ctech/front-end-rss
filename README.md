@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-14 01:19:20，:rocket: 更新条数: +4285， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-14 01:55:23，:rocket: 更新条数: +4283， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,7 @@
 </summary>
 
 
+- [2021-02-14-m1-MacBook-Air-手动添加散热硅片会不会对电池有什么影响？](https://www.v2ex.com/t/753247) ![](assets/new.png)  
 - [2021-02-14-你们的-edge-可以-QQ-快速登录吗？](https://www.v2ex.com/t/753246) ![](assets/new.png)  
 - [2021-02-13-老精品网用户也-218.80-58.41-了](https://www.v2ex.com/t/753244) ![](assets/new.png)  
 - [2021-02-13-Youtube-Premium-日区家庭组有车位吗？🤔](https://www.v2ex.com/t/753243) ![](assets/new.png)  
@@ -1031,7 +1032,6 @@
 - [2021-02-13-疑似自己手贱操作导致-Apple-ID-美区账号永久封停，分享给大家避坑](https://www.v2ex.com/t/753227) ![](assets/new.png)  
 - [2021-02-13-为什么很多国产安卓-APP-都不支持-fcm-推送呢？](https://www.v2ex.com/t/753226) ![](assets/new.png)  
 - [2021-02-13-系统报告里-usb-可以看到-iPhone-，但访达读取不到-iPhone-，系统-big-sur11.2.1](https://www.v2ex.com/t/753223) ![](assets/new.png)  
-- [2021-02-13-换了新电脑却舍不得我的旧电脑](https://www.v2ex.com/t/753222) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,26 +1074,26 @@
 </summary>
 
 
-- [2021-02-14-Flink-的状态数据到底存到哪了？](https://toutiao.io/k/udxt0h1) ![](assets/new.png)  
-- [2021-02-14-TypeScript-的-Substitutability](https://toutiao.io/k/2k5jqh2) ![](assets/new.png)  
 - [2021-02-14-互联网基建成果，快速实现一个-Clubhouse-要多久](https://toutiao.io/k/1u192lr) ![](assets/new.png)  
+- [2021-02-14-Flink-的状态数据到底存到哪了？](https://toutiao.io/k/udxt0h1) ![](assets/new.png)  
 - [2021-02-14-小步发布、验收测试和完整团队](https://toutiao.io/k/2z99lmo) ![](assets/new.png)  
+- [2021-02-14-TypeScript-的-Substitutability](https://toutiao.io/k/2k5jqh2) ![](assets/new.png)  
 - [2021-02-14-媒体传输的可靠性](https://toutiao.io/k/xrfsfbn) ![](assets/new.png)  
 - [2021-02-14-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
 - [2021-02-14-源码剖析-sync.WaitGroup](https://toutiao.io/k/nqxco3o) ![](assets/new.png)  
 - [2021-02-14-一个程序员是怎么被逼疯的？](https://toutiao.io/k/uv99woc) ![](assets/new.png)  
 - [2021-02-14-领域驱动设计-DDD-在百度爱番番的实践](https://toutiao.io/k/djhtzln) ![](assets/new.png)  
 - [2021-02-14-技术总监教你如何提升深度思考能力](https://toutiao.io/k/hyjjlna) ![](assets/new.png)  
-- [2021-02-14-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
-- [2021-02-14-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
-- [2021-02-14-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
-- [2021-02-14-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
-- [2021-02-14-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
-- [2021-02-14-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
-- [2021-02-14-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
+- [2021-02-14-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
+- [2021-02-14-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
 - [2021-02-14-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-14-推荐-Docker-镜像瘦身](https://toutiao.io/k/t92f0ah) ![](assets/new.png)  
+- [2021-02-14-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
+- [2021-02-14-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
+- [2021-02-14-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-14-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
 - [2021-02-14-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
+- [2021-02-14-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
+- [2021-02-14-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

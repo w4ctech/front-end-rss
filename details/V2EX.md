@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-02-14 19:47:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-14 20:04:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-14-Big-Sur-Intel安装-Python3-的正确姿势是什么](https://www.v2ex.com/t/753348) 
 - [2021-02-14-个体工商户申请-的微信小程序能用-web-view-组件么？](https://www.v2ex.com/t/753347) 
 - [2021-02-14-Ant-Design-仓库没了？](https://www.v2ex.com/t/753346) 
 - [2021-02-14-这个时间节点是买-M1-还是等-M1X/M2](https://www.v2ex.com/t/753345) 

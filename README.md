@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-15 14:09:23，:rocket: 更新条数: +4045， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-15 14:29:21，:rocket: 更新条数: +4047， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -619,6 +619,7 @@
 </summary>
 
 
+- [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) ![](assets/new.png)  
 - [2021-02-14-直线等图形从中间穿过元素或文字的CSS实现](https://www.zhangxinxu.com/wordpress/2021/02/css-3d-through/) ![](assets/new.png)  
 - [2021-02-14-了解CSS-revert全局关键字](https://www.zhangxinxu.com/wordpress/2021/02/css-revert/) ![](assets/new.png)  
 - [2021-02-13-Web-Components中引入外部CSS的3种方法](https://www.zhangxinxu.com/wordpress/2021/02/web-components-import-css/) ![](assets/new.png)  
@@ -628,7 +629,6 @@
 - [2021-02-05-使用::part伪元素改变Shadow-DOM的CSS样式](https://www.zhangxinxu.com/wordpress/2021/02/css-part-shadow-dom/) ![](assets/new.png)  
 - [2021-01-26-一行CSS实现全站中文简繁转换](https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/) ![](assets/new.png)  
 - [2021-01-20-巧用DOM-API实现HTML字符的转义和反转义](https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/) ![](assets/new.png)  
-- [2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -992,6 +992,9 @@
 </summary>
 
 
+- [2021-02-15-Windows-10-语言栏的问题](https://www.v2ex.com/t/753451) ![](assets/new.png)  
+- [2021-02-15-简单评价几款-app-的青少年模式](https://www.v2ex.com/t/753450) ![](assets/new.png)  
+- [2021-02-15-过年期间，你每天都上些什么网站？](https://www.v2ex.com/t/753449) ![](assets/new.png)  
 - [2021-02-15-有换-m1-或-m1xm2的-mbp-的想法，鉴于第一次使用苹果家的笔记本，有几个疑惑想提前问一下。](https://www.v2ex.com/t/753448) ![](assets/new.png)  
 - [2021-02-15-想要一个能跑-Linux-桌面的电视盒子](https://www.v2ex.com/t/753447) ![](assets/new.png)  
 - [2021-02-15-现在还有没有可以临时变更-google-play-地区的方法呢？](https://www.v2ex.com/t/753446) ![](assets/new.png)  
@@ -1009,9 +1012,6 @@
 - [2021-02-15-项目经过-Nginx-均衡负载后产生的日志问题](https://www.v2ex.com/t/753432) ![](assets/new.png)  
 - [2021-02-15-大家过年都相亲了吗？-感觉怎么样](https://www.v2ex.com/t/753431) ![](assets/new.png)  
 - [2021-02-15-除了参与开源项目开发，还有什么方法来丰富应届生简历](https://www.v2ex.com/t/753430) ![](assets/new.png)  
-- [2021-02-15-Ant.design-又回来了！](https://www.v2ex.com/t/753429) ![](assets/new.png)  
-- [2021-02-15-无意中发现点进用户主页有一个-Block-按钮，好奇我-Block-了-livid-他会不会发现](https://www.v2ex.com/t/753428) ![](assets/new.png)  
-- [2021-02-15-求推荐-24-吋-2K144Hz-显示器](https://www.v2ex.com/t/753427) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,16 +1064,16 @@
 - [2021-02-15-实践持续交付一年后的反思](https://toutiao.io/k/rv1k3vs) ![](assets/new.png)  
 - [2021-02-15-Taro-助力京喜拼拼项目性能体验优化](https://toutiao.io/k/xjafyzx) ![](assets/new.png)  
 - [2021-02-15-如何参与-Python-官方文档简体中文翻译](https://toutiao.io/k/6mg6chj) ![](assets/new.png)  
-- [2021-02-15-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
-- [2021-02-15-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
-- [2021-02-15-推荐-我对技术架构的理解与架构师角色的思考](https://toutiao.io/k/crw00du) ![](assets/new.png)  
-- [2021-02-15-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-15-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
-- [2021-02-15-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-15-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
+- [2021-02-15-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
 - [2021-02-15-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
+- [2021-02-15-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
+- [2021-02-15-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
+- [2021-02-15-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
+- [2021-02-15-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
+- [2021-02-15-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
 - [2021-02-15-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
-- [2021-02-15-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
+- [2021-02-15-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
+- [2021-02-15-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

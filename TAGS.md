@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-15 11:29:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-15 11:37:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -514,8 +514,8 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【V2EX】请教一道算法编程题](https://www.v2ex.com/t/753424)
-- [【开发者头条】推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h)
 - [【开发者头条】推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf)
+- [【开发者头条】推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

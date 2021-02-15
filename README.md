@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-15 23:41:38，:rocket: 更新条数: +4290， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-15 23:53:05，:rocket: 更新条数: +4290， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -892,11 +892,11 @@
 </summary>
 
 
+- [2021-02-15-vue开发如何提高效率?-|-牛气冲天新年征文](https://juejin.im/post/6929506986182590477) ![](assets/new.png)  
 - [2021-02-14-（十九）TypeScript-命名空间（上）](https://juejin.im/post/6929370042589151246) ![](assets/new.png)  
 - [2021-02-14-Vuex实用分享](https://juejin.im/post/6929366029059489805) ![](assets/new.png)  
 - [2021-02-14-异步编程](https://juejin.im/post/6929364242101452808) ![](assets/new.png)  
 - [2021-02-14-JS犀牛书英文第七版笔记4.-对象，原型，原型链](https://juejin.im/post/6929351680669122568) ![](assets/new.png)  
-- [2021-02-14-npm源码分析二之npm-install执行逻辑](https://juejin.im/post/6929335223498833928) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,16 +1084,16 @@
 - [2021-02-15-Python-和-JavaScript：这两种流行的编程语言之间的主要区别是什么？](https://toutiao.io/k/gjipfn7) ![](assets/new.png)  
 - [2021-02-15-实践持续交付一年后的反思](https://toutiao.io/k/rv1k3vs) ![](assets/new.png)  
 - [2021-02-15-如何参与-Python-官方文档简体中文翻译](https://toutiao.io/k/6mg6chj) ![](assets/new.png)  
-- [2021-02-15-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
-- [2021-02-15-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
+- [2021-02-15-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
 - [2021-02-15-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
 - [2021-02-15-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
-- [2021-02-15-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
-- [2021-02-15-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-15-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
-- [2021-02-15-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
-- [2021-02-15-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
+- [2021-02-15-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
+- [2021-02-15-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
+- [2021-02-15-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
 - [2021-02-15-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-15-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-15-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
+- [2021-02-15-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

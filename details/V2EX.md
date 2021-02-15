@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-02-15 13:25:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-15 13:36:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-15-iPhone-12-mini-刚购入两天，电源键软趴趴的，可以申请换机吗？](https://www.v2ex.com/t/753443) 
+- [2021-02-15-使用-nextjs-搭建博客系统](https://www.v2ex.com/t/753442) 
 - [2021-02-15-大家的-M1-有没有这个问题](https://www.v2ex.com/t/753441) 
 - [2021-02-15-有什么命令行简写或者自动补全的工具](https://www.v2ex.com/t/753440) 
 - [2021-02-15-现在小程序上传怎么上传呢？](https://www.v2ex.com/t/753439) 
@@ -43,4 +45,3 @@
 - [2021-02-15-某天忘记带表，如何创建活动圆环？](https://www.v2ex.com/t/753400) 
 - [2021-02-15-紧急求助，-chkdsk-后硬盘文件丢失](https://www.v2ex.com/t/753398) 
 - [2021-02-15-Akkocloud-德国-CN2-GIA-全新套餐促销已上线](https://www.v2ex.com/t/753397) 
-- [2021-02-15-好奇问一下-sidecar-的屏幕算是-mac-的屏幕支持上限中吗](https://www.v2ex.com/t/753394) 

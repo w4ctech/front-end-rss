@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-02-15 07:49:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-15 08:06:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-15-某天忘记带表，如何创建活动圆环？](https://www.v2ex.com/t/753400) 
 - [2021-02-15-紧急求助，-chkdsk-后硬盘文件丢失](https://www.v2ex.com/t/753398) 
 - [2021-02-15-Akkocloud-德国-CN2-GIA-全新套餐促销已上线](https://www.v2ex.com/t/753397) 
 - [2021-02-15-好奇问一下-sidecar-的屏幕算是-mac-的屏幕支持上限中吗](https://www.v2ex.com/t/753394) 
@@ -40,5 +41,3 @@
 - [2021-02-15-实习-微软亚洲研究院-基于-FPGA-的云加速技术开发实习生](https://www.v2ex.com/t/753355) 
 - [2021-02-15-C-语言第三方库-Melon-开箱即用之词法分析器使用](https://www.v2ex.com/t/753354) 
 - [2021-02-15-Ant-Design-没了](https://www.v2ex.com/t/753353) 
-- [2021-02-15-WebRTC-正式成为-W3C-和-IETF-标准。国内有哪些网站支持吗](https://www.v2ex.com/t/753351) 
-- [2021-02-15-提出离职后本来安排给我的新项目是否属于交接内容？](https://www.v2ex.com/t/753350) 

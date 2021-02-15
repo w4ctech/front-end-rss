@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-15 07:49:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-15 08:06:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,7 +86,6 @@
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-02-15-网易-CC-直播事业部-base-广州-社招技术内推，-各方向都有，年后跳槽的小伙伴动起来~](https://www.v2ex.com/t/753363) 
-- [2021-02-15-WebRTC-正式成为-W3C-和-IETF-标准。国内有哪些网站支持吗](https://www.v2ex.com/t/753351) 
 - [2021-02-13-【视频】|-网络安全:入侵检测的基本知识](https://sec.thief.one/article_content?a_id=59ba9377fc7a30f48f150de37474c111) 
 - [2021-02-12-利用shodan搜索公网摄像头](https://sec.thief.one/article_content?a_id=1f250771cea1fbb75a45dab4b9097fee) 
 - [2021-02-11-【视频】|-网络安全:防火墙的综合知识](https://sec.thief.one/article_content?a_id=1d140cffc188786ac407c7c8f209c095) 

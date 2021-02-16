@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-16 18:57:27，:rocket: 更新条数: +4287， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-16 19:04:17，:rocket: 更新条数: +4263， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
@@ -1012,6 +1012,7 @@
 </summary>
 
 
+- [2021-02-16-不要报怨，报怨解决不了任何问题](https://www.v2ex.com/t/753629) ![](assets/new.png)  
 - [2021-02-16-一年前在去哪儿买的新加坡航空，新加坡中转的票。已经过去一年了。还没退。](https://www.v2ex.com/t/753628) ![](assets/new.png)  
 - [2021-02-16-主机开机后一段时间黑屏，重新插拔-HDMI-又可正常工作，想知道原因](https://www.v2ex.com/t/753627) ![](assets/new.png)  
 - [2021-02-16-基于-llvm-开发编程语言，有必要学汇编吗？理由是什么，谢谢](https://www.v2ex.com/t/753626) ![](assets/new.png)  
@@ -1031,7 +1032,6 @@
 - [2021-02-16-请问-django-如何连接-mongo，并且能使用-django-自带的-admin？？](https://www.v2ex.com/t/753607) ![](assets/new.png)  
 - [2021-02-16-有哪些安静地叫醒自己的方法](https://www.v2ex.com/t/753605) ![](assets/new.png)  
 - [2021-02-16-最近迷上了小小梦魇-2，已经通关但意犹未尽，帮忙推荐下类似的游戏](https://www.v2ex.com/t/753604) ![](assets/new.png)  
-- [2021-02-16-毁三观：原来柯基的尾巴是剪掉的](https://www.v2ex.com/t/753603) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,26 +1074,6 @@
 </summary>
 
 
-- [2021-02-16-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) ![](assets/new.png)  
-- [2021-02-16-如何判断一个员工是潜力无限，还是-“烂泥扶不上墙”？](https://toutiao.io/k/cga5vsn) ![](assets/new.png)  
-- [2021-02-16-阿里研究员：线下环境为何不稳定？怎么破](https://toutiao.io/k/45uco2u) ![](assets/new.png)  
-- [2021-02-16-微信小程序之大转盘抽奖原生开发](https://toutiao.io/k/hp5efzn) ![](assets/new.png)  
-- [2021-02-16-唯品会-Spark-3.0-升级之路](https://toutiao.io/k/lom46j6) ![](assets/new.png)  
-- [2021-02-16-取代-HDFS？Ozone-在腾讯的最新研究进展](https://toutiao.io/k/k0eglo1) ![](assets/new.png)  
-- [2021-02-16-云计算技术从业者心中的云原生](https://toutiao.io/k/ggujf8o) ![](assets/new.png)  
-- [2021-02-16-Chrome-高频操作梳理](https://toutiao.io/k/33lxafh) ![](assets/new.png)  
-- [2021-02-16-一文带你详尽-Lifelong-Learning：终生学习](https://toutiao.io/k/btzxho3) ![](assets/new.png)  
-- [2021-02-16-一种运用标签知识网络的搜索应用系统](https://toutiao.io/k/m8t43ua) ![](assets/new.png)  
-- [2021-02-16-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
-- [2021-02-16-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
-- [2021-02-16-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
-- [2021-02-16-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
-- [2021-02-16-推荐-如何设计一个高性能网关](https://toutiao.io/k/50qvpmi) ![](assets/new.png)  
-- [2021-02-16-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
-- [2021-02-16-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-16-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
-- [2021-02-16-推荐-快狗打车-CTO-沈剑：低成本搞定分布式调用链追踪系统](https://toutiao.io/k/b7zrx95) ![](assets/new.png)  
-- [2021-02-16-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

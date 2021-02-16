@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-16 06:34:07，:rocket: 更新条数: +4287， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-16 06:44:19，:rocket: 更新条数: +4287， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,7 @@
 </summary>
 
 
+- [2021-02-16-微软-store-里面的远程桌面，是否能够移除顶部中间的的放大镜和..-横条？](https://www.v2ex.com/t/753543) ![](assets/new.png)  
 - [2021-02-16-在整个应用中，-v-友是怎样去禁用某个用户的](https://www.v2ex.com/t/753542) ![](assets/new.png)  
 - [2021-02-16-我来试试](https://www.v2ex.com/t/753541) ![](assets/new.png)  
 - [2021-02-16-垃圾微信更新到-8.0-后，接收个图片，有没有发现比以前慢几倍了？](https://www.v2ex.com/t/753540) ![](assets/new.png)  
@@ -1031,7 +1032,6 @@
 - [2021-02-16-碰碰运气，在东莞松山湖路上丢了件东西看能找回不](https://www.v2ex.com/t/753522) ![](assets/new.png)  
 - [2021-02-16-大家有没有国内访问相对不错的海外高防-CDN-推荐](https://www.v2ex.com/t/753520) ![](assets/new.png)  
 - [2021-02-16-关于用-DUNS-Number-申请-EV-SSL-的问题](https://www.v2ex.com/t/753519) ![](assets/new.png)  
-- [2021-02-16-哪个-app-能保存推特上的视频？](https://www.v2ex.com/t/753518) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,16 +1084,16 @@
 - [2021-02-16-Chrome-高频操作梳理](https://toutiao.io/k/33lxafh) ![](assets/new.png)  
 - [2021-02-16-一文带你详尽-Lifelong-Learning：终生学习](https://toutiao.io/k/btzxho3) ![](assets/new.png)  
 - [2021-02-16-一种运用标签知识网络的搜索应用系统](https://toutiao.io/k/m8t43ua) ![](assets/new.png)  
-- [2021-02-16-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
 - [2021-02-16-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
-- [2021-02-16-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
-- [2021-02-16-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
+- [2021-02-16-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
+- [2021-02-16-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
 - [2021-02-16-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
+- [2021-02-16-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
+- [2021-02-16-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
 - [2021-02-16-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
 - [2021-02-16-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
-- [2021-02-16-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
-- [2021-02-16-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-16-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
+- [2021-02-16-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
+- [2021-02-16-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

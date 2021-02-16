@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-16 14:08:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-16 14:29:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -11,5 +11,5 @@
 - [2021-02-01-到底要刷多少道算法题面试才稳？](https://www.ershicimi.com/p/7c9a8c1bfefc3b25cf96f14eeb0f8cd3) 
 - [2021-01-31-卧槽！字节跳动《算法中文手册》火了，完整版-PDF-开放下载！](https://www.ershicimi.com/p/63f82267497a6a309585f0ce6c618f14) 
 - [2021-02-16-🔥🔥🔥新加坡-技术移民纽交所上市互联网公司，招前端，后端开发，云平台开发，大数据工程师，-以及各类（后台架构，大数据，算法，基础架构，运维，-D...](https://www.v2ex.com/t/753574) 
-- [2021-02-16-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) 
 - [2021-02-16-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) 
+- [2021-02-16-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) 

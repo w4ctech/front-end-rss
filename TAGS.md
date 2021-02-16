@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-16 10:09:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-16 10:34:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -383,9 +383,6 @@
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
 - [【奇舞周刊】如何1人5天开发超炫酷3D数据可视化大屏](https://www.ershicimi.com/p/e21ac27d93c1275d8d458a6e30e442ad)
-- [【安全热点】2月16日贵币GUIBI早内参--V神提出以太坊信标链首个硬分叉提案,以...](https://sec.thief.one/article_content?a_id=beb72bb39c28959ec89778753a728e27)
-- [【安全热点】2月15日贵币GUIBI早内参-全球加密货币总市值突破1.5万亿美元,现已...](https://sec.thief.one/article_content?a_id=976dbdba125d792503ceee75cbac0aee)
-- [【安全热点】2月11日贵币GUIBI早内参-马斯克要求Freewallet解锁其加密账户,或透...](https://sec.thief.one/article_content?a_id=69064b777855254f68380a927cf6808c)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -514,6 +511,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】🔥🔥🔥新加坡-技术移民纽交所上市互联网公司，招前端，后端开发，云平台开发，大数据工程师，-以及各类（后台架构，大数据，算法，基础架构，运维，-D...](https://www.v2ex.com/t/753574)
 - [【开发者头条】推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf)
 - [【开发者头条】推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -536,7 +534,6 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【InfoQ】Docker宣布将Docker-Distribution捐赠给CNCF](https://www.ershicimi.com/p/81a5ba57e20e4d8bf395a5537f773f11)
-- [【V2EX】求助，-docker-for-mac-设置国内代理加速无效](https://www.v2ex.com/t/753525)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

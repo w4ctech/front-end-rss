@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-16 10:09:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-16 10:34:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -17,5 +17,6 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2021-02-16-🔥🔥🔥新加坡-技术移民纽交所上市互联网公司，招前端，后端开发，云平台开发，大数据工程师，-以及各类（后台架构，大数据，算法，基础架构，运维，-D...](https://www.v2ex.com/t/753574) 
 - [2021-02-16-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) 
 - [2021-02-16-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) 

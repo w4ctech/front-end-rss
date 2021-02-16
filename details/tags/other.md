@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-16 20:30:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-16 20:39:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3311,16 +3311,16 @@
 - [2021-02-16-云计算技术从业者心中的云原生](https://toutiao.io/k/ggujf8o) 
 - [2021-02-16-一文带你详尽-Lifelong-Learning：终生学习](https://toutiao.io/k/btzxho3) 
 - [2021-02-16-一种运用标签知识网络的搜索应用系统](https://toutiao.io/k/m8t43ua) 
-- [2021-02-16-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) 
-- [2021-02-16-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) 
-- [2021-02-16-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) 
-- [2021-02-16-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) 
+- [2021-02-16-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) 
+- [2021-02-16-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) 
 - [2021-02-16-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) 
 - [2021-02-16-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) 
-- [2021-02-16-推荐-快狗打车-CTO-沈剑：低成本搞定分布式调用链追踪系统](https://toutiao.io/k/b7zrx95) 
 - [2021-02-16-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) 
-- [2021-02-16-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) 
+- [2021-02-16-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) 
 - [2021-02-16-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) 
+- [2021-02-16-推荐-快狗打车-CTO-沈剑：低成本搞定分布式调用链追踪系统](https://toutiao.io/k/b7zrx95) 
+- [2021-02-16-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) 
+- [2021-02-16-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) 
 - [2021-02-16-Linux下wine运行Windows服务的缓冲区溢出](https://sec.thief.one/article_content?a_id=aa972dfa2746836efe0bc4466df6506d) 
 - [2021-02-16-CODASPY-2021-论文录用列表](https://sec.thief.one/article_content?a_id=8b30302ee112d8b504e1bd06fddb1ab6) 
 - [2021-02-16-网信数据观|7.82亿用户!网络购物“嗨翻天”](https://sec.thief.one/article_content?a_id=060e23b20a5076046944c6acb5b46266) 

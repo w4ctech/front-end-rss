@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-16 00:08:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-16 00:17:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -123,3 +123,4 @@
 - [2021-02-15-使用-nextjs-搭建博客系统](https://www.v2ex.com/t/753442) 
 - [2021-02-16-自定义C/C++日志输出函数-www.kymjs.com](https://blogread.cn/news/go.php?idItem=14149&url=https%3A%2F%2Fwww.kymjs.com%2Fcode%2F2020%2F08%2F07%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-16-Python-和-JavaScript：这两种流行的编程语言之间的主要区别是什么？](https://toutiao.io/k/gjipfn7) 
+- [2021-02-15-当爆破遇到JS加密](https://sec.thief.one/article_content?a_id=3c6c3424f25ce904d6a1705a56e3a81c) 

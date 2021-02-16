@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-16 05:08:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-16 05:29:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,7 @@
 - [2021-02-10-每秒最多-6.5-万个事务，我们的-PostgreSQL-12-迁移之路](https://www.ershicimi.com/p/e2b6e0fb1d370cd3b7c717a69a41dfe9) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-02-16-访问-http-不安全网站问题](https://www.v2ex.com/t/753535) 
 - [2021-02-16-safair-有个功能好像在其他浏览器上没见到过，-chrome-有插件可以代替吗？](https://www.v2ex.com/t/753527) 
 - [2021-02-16-设计一个-chrome-extension-对-pdf-文件的-widtth-和-height-进行-resize](https://www.v2ex.com/t/753488) 
 - [2021-02-16-清华大学莫一林：信息物理系统中的安全控制算法-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14147&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F09%2F30%2Fmeituan-top-talk-moyilin-cps.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -70,5 +71,3 @@
 - [2021-02-10-百度安全压轴红包来了!](https://sec.thief.one/article_content?a_id=51892ee7ceb3a61c80340d842fdd2fea) 
 - [2021-02-10-2020年工业控制网络安全态势白皮书-附下载](https://sec.thief.one/article_content?a_id=e944d4bf06ba844ef47caea76a441a88) 
 - [2021-02-10-百位董事长/CEO/总裁:预见2021网络安全细分领域发展](https://sec.thief.one/article_content?a_id=44323fb8837d5fb726acbefc0dec96fa) 
-- [2021-02-10-【安全风险通告】CVE-2021-24086漏洞已验证,可远程拒绝服务,...](https://sec.thief.one/article_content?a_id=e5f1fa74048fb33aa586dbff4614ab37) 
-- [2021-02-10-CNNVD关于微软多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=05408a08218cc21e537fcdf969b05711) 

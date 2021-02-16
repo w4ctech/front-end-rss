@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-16 01:08:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-16 01:17:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-02-06-【第2199期】如何在WebGL中实现短视频卡点动效](https://www.ershicimi.com/p/7b6c7d30b8c160461a5762264628b852) 
 - [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) 
 - [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) 
 - [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/) 
@@ -20,6 +21,7 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2021-01-30-如何1人5天开发超炫酷3D数据可视化大屏](https://www.ershicimi.com/p/e21ac27d93c1275d8d458a6e30e442ad) 
 - [2021-02-15-2月15日贵币GUIBI早内参-全球加密货币总市值突破1.5万亿美元,现已...](https://sec.thief.one/article_content?a_id=976dbdba125d792503ceee75cbac0aee) 
 - [2021-02-11-2月11日贵币GUIBI早内参-马斯克要求Freewallet解锁其加密账户,或透...](https://sec.thief.one/article_content?a_id=69064b777855254f68380a927cf6808c) 
 - [2021-02-10-贵币GUIBI关于春节放假期间版主值班等的通知](https://sec.thief.one/article_content?a_id=8181554b4dc91cc7e27462c2f2644aed) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-16 08:35:28，:rocket: 更新条数: +4289， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-16 08:44:16，:rocket: 更新条数: +4289， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -893,10 +893,10 @@
 
 
 - [2021-02-15-🐮写给零基础的前端算法入门指南，acmer带女友刷80+【递归与回溯篇】｜牛气冲天新年征文](https://juejin.im/post/6929755669683765261) ![](assets/new.png)  
+- [2021-02-15-你好，npx](https://juejin.im/post/6929742176268058631) ![](assets/new.png)  
+- [2021-02-15-「长文警告⚠️」从-url-输入页面到页面展示到底发生了什么?（多方参考篇）](https://juejin.im/post/6929740282322026509) ![](assets/new.png)  
 - [2021-02-15-react技术栈：从原理到源码](https://juejin.im/post/6929699562697261064) ![](assets/new.png)  
 - [2021-02-15-使用puppeteer生成自动分页PDF指南](https://juejin.im/post/6929695866940817416) ![](assets/new.png)  
-- [2021-02-09-译|简述-HTTP-请求与跨域资源共享-CORS](https://juejin.im/post/6927191095470194695) ![](assets/new.png)  
-- [2021-02-08-译定义-Python-函数时的5种参数](https://juejin.im/post/6927094483200770062) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1012,7 +1012,9 @@
 </summary>
 
 
-- [2021-02-16-请教-k8s-JSON-patch-如何同时更新多个-deployment-的-image](https://www.v2ex.com/t/753557) ![](assets/new.png)  
+- [2021-02-16-“-Linux-系统应用”系列短视频集](https://www.v2ex.com/t/753559) ![](assets/new.png)  
+- [2021-02-16-macOS-上-iTerm2-出现如下情况](https://www.v2ex.com/t/753558) ![](assets/new.png)  
+- [2021-02-16-请教-k8s-JSON-patch-如何同时-Patch-多个目标](https://www.v2ex.com/t/753557) ![](assets/new.png)  
 - [2021-02-16-快速切换-ROM-的设想](https://www.v2ex.com/t/753554) ![](assets/new.png)  
 - [2021-02-16-独立开发者到底应该怎么做？我开发了一个分开项目可看趋势的标记-app，但是下载量太少了](https://www.v2ex.com/t/753553) ![](assets/new.png)  
 - [2021-02-16-开发了一个支持-markdown-文件预览、编辑和下载的微信小程序](https://www.v2ex.com/t/753552) ![](assets/new.png)  
@@ -1030,8 +1032,6 @@
 - [2021-02-16-垃圾微信更新到-8.0-后，接收个图片，有没有发现比以前慢几倍了？](https://www.v2ex.com/t/753540) ![](assets/new.png)  
 - [2021-02-16-网络传输明文密码安全吗？](https://www.v2ex.com/t/753539) ![](assets/new.png)  
 - [2021-02-16-关于-Google-账号美区和土耳其的选择疑问。](https://www.v2ex.com/t/753538) ![](assets/new.png)  
-- [2021-02-16-开工红包](https://www.v2ex.com/t/753537) ![](assets/new.png)  
-- [2021-02-16-单个服务拉取大量队列消息有什么好的方法么](https://www.v2ex.com/t/753536) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,16 +1084,16 @@
 - [2021-02-16-Chrome-高频操作梳理](https://toutiao.io/k/33lxafh) ![](assets/new.png)  
 - [2021-02-16-一文带你详尽-Lifelong-Learning：终生学习](https://toutiao.io/k/btzxho3) ![](assets/new.png)  
 - [2021-02-16-一种运用标签知识网络的搜索应用系统](https://toutiao.io/k/m8t43ua) ![](assets/new.png)  
-- [2021-02-16-推荐-18-张图解密新时代内存分配器-TCMalloc](https://toutiao.io/k/zwzin8t) ![](assets/new.png)  
-- [2021-02-16-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-16-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
-- [2021-02-16-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
-- [2021-02-16-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
-- [2021-02-16-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
 - [2021-02-16-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
-- [2021-02-16-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-16-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
+- [2021-02-16-推荐-快速了解云原生架构](https://toutiao.io/k/zz0ckz0) ![](assets/new.png)  
 - [2021-02-16-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
-- [2021-02-16-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
+- [2021-02-16-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
+- [2021-02-16-推荐-Elasticsearch-聚合性能优化六大猛招](https://toutiao.io/k/otz7tnk) ![](assets/new.png)  
+- [2021-02-16-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-16-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
+- [2021-02-16-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
+- [2021-02-16-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

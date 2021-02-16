@@ -1,11 +1,13 @@
-:alarm_clock: 更新时间: 2021-02-16 08:35:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-16 08:44:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2021-02-16-请教-k8s-JSON-patch-如何同时更新多个-deployment-的-image](https://www.v2ex.com/t/753557) 
+- [2021-02-16-“-Linux-系统应用”系列短视频集](https://www.v2ex.com/t/753559) 
+- [2021-02-16-macOS-上-iTerm2-出现如下情况](https://www.v2ex.com/t/753558) 
+- [2021-02-16-请教-k8s-JSON-patch-如何同时-Patch-多个目标](https://www.v2ex.com/t/753557) 
 - [2021-02-16-快速切换-ROM-的设想](https://www.v2ex.com/t/753554) 
 - [2021-02-16-独立开发者到底应该怎么做？我开发了一个分开项目可看趋势的标记-app，但是下载量太少了](https://www.v2ex.com/t/753553) 
 - [2021-02-16-开发了一个支持-markdown-文件预览、编辑和下载的微信小程序](https://www.v2ex.com/t/753552) 
@@ -41,5 +43,3 @@
 - [2021-02-16-请教几个正则表达式](https://www.v2ex.com/t/753514) 
 - [2021-02-16-开发了-uidea.tools，尝试解决独立工作者的一部分设计问题](https://www.v2ex.com/t/753513) 
 - [2021-02-16-日本乐天新推出了流量套餐，每月-1GB-以内-0-元](https://www.v2ex.com/t/753512) 
-- [2021-02-16-主力语言或者技术栈不同会对跳槽产生多大的影响？](https://www.v2ex.com/t/753509) 
-- [2021-02-16-安卓-neo-reader-中-mobi-epub-或者-azw3-的高亮笔记是保存在哪个文件里的？](https://www.v2ex.com/t/753508) 

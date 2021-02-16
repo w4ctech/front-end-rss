@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-16 19:04:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-16 19:24:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -19,3 +19,5 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2021-02-16-lastpass-无法继续使用，求推荐跨平台的密码管理软件](https://www.v2ex.com/t/753622) 
 - [2021-02-16-lastpass-免费版从-3-月-16-号后只能选择一种类型的设备访问](https://www.v2ex.com/t/753616) 
+- [2021-02-16-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) 
+- [2021-02-16-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) 

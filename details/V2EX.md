@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-02-16 15:08:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-16 15:30:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-16-switch-购买渠道咨询-友和](https://www.v2ex.com/t/753612) 
+- [2021-02-16-zfs-三个-ssd-做-mirror-坏了两个，剩下一个也有错误，如何恢复数据和排查原因？](https://www.v2ex.com/t/753610) 
 - [2021-02-16-开源播客茶馆导航---批量导出播客订阅](https://www.v2ex.com/t/753609) 
 - [2021-02-16-请问-django-如何连接-mongo，并且能使用-django-自带的-admin？？](https://www.v2ex.com/t/753607) 
 - [2021-02-16-有哪些安静地叫醒自己的方法](https://www.v2ex.com/t/753605) 
@@ -40,4 +42,3 @@
 - [2021-02-16-Linux-下有没有类似-ddm-的显示器软件呢](https://www.v2ex.com/t/753565) 
 - [2021-02-16-计算机大二发展规划，放弃-Java-,以-Python-，-go-为技术栈发展可以吗，老哥们帮看看给点建议呗](https://www.v2ex.com/t/753564) 
 - [2021-02-16-继续工作还是去考研？](https://www.v2ex.com/t/753563) 
-- [2021-02-16-一个关于语言学习的创业项目](https://www.v2ex.com/t/753560) 

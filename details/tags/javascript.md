@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-16 10:45:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-16 10:53:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -122,3 +122,4 @@
 - [2021-02-16-请教-k8s-JSON-patch-如何同时-Patch-多个目标](https://www.v2ex.com/t/753557) 
 - [2021-02-16-手机出现诡异事件，彻底删除的照片重新出现在相册，有人遇到过吗？](https://www.v2ex.com/t/753549) 
 - [2021-02-16-自定义C/C++日志输出函数-www.kymjs.com](https://blogread.cn/news/go.php?idItem=14149&url=https%3A%2F%2Fwww.kymjs.com%2Fcode%2F2020%2F08%2F07%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-02-15-当爆破遇到JS加密](https://sec.thief.one/article_content?a_id=3c6c3424f25ce904d6a1705a56e3a81c) 

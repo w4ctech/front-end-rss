@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-17 01:08:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-17 01:17:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-01-28-【招聘】腾讯游戏流量中台招前端开发工程师](https://www.ershicimi.com/p/29a523d80c925512b18aebe0de7429e9) 
 - [2018-12-23-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/) 
 - [2018-01-28-H5游戏开发：FC小蜜蜂](https://aotu.io/notes/2018/01/28/galaxian/) 
 - [2018-01-17-H5游戏开发：消灭星星](https://aotu.io/notes/2018/01/17/popstar/) 
@@ -27,3 +28,7 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2021-02-16-Show-V2EX:-LPVPN:-通过-Discord-建立局域网玩游戏](https://www.v2ex.com/t/753632) 
+- [2021-02-16-游戏里开挂的到底是什么样的人？](https://www.v2ex.com/t/753625) 
+- [2021-02-16-最近迷上了小小梦魇-2，已经通关但意犹未尽，帮忙推荐下类似的游戏](https://www.v2ex.com/t/753604) 
+- [2021-02-16-盛趣游戏原盛大服务器三天两头被人打怎么回事](https://www.v2ex.com/t/753599) 

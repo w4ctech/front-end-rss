@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-17 01:17:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-17 01:53:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -20,5 +20,5 @@
 - [2021-02-17-Lastpass-不能跨平台使用了。](https://www.v2ex.com/t/753636) 
 - [2021-02-16-lastpass-无法继续使用，求推荐跨平台的密码管理软件](https://www.v2ex.com/t/753622) 
 - [2021-02-16-lastpass-免费版从-3-月-16-号后只能选择一种类型的设备访问](https://www.v2ex.com/t/753616) 
-- [2021-02-17-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) 
 - [2021-02-17-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) 
+- [2021-02-17-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) 

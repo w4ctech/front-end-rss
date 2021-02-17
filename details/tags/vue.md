@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-17 14:49:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-17 15:04:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -41,6 +41,7 @@
 - [2020-10-11-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/0590b6964c9fcfc3e48286bd7d353627) 
 - [2021-01-18-为什么我建议你学习Vue3.0？](https://www.ershicimi.com/p/2ac6e186ca88002949edc4a6b80f4e91) 
 - [2021-02-07-Vue.js开发移动端经验总结](https://www.ershicimi.com/p/3f93fc2658a50d1c5ce32441d9f07a2f) 
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) 
 - [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) 
 - [2017-07-17-Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-17 13:23:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-17 13:35:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,7 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-02-17-本人想搞个微信公众号玩玩，请求帮忙取个好名字？](https://www.v2ex.com/t/753742) 
 - [2021-02-17-《信息安全技术-网络产品和服务安全通用要求》全文](https://sec.thief.one/article_content?a_id=19a3558b4ef473d2324856b77380d240) 
 - [2021-02-15-【安全热点周报】第181期:CVE-2021-24086漏洞已验证,可远程拒...](https://sec.thief.one/article_content?a_id=70944818a33483b21d81cbbb0bea3f83) 
 - [2021-02-15-《信息安全技术-电子文件密码应用指南》全文](https://sec.thief.one/article_content?a_id=49475688e01891aa6e1a48e64bd32b72) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-17 04:35:53，:rocket: 更新条数: +4263， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-17 04:43:52，:rocket: 更新条数: +4263， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1053,19 +1053,19 @@
 - [2021-02-17-Go-实现项目内链路追踪（二）](https://toutiao.io/k/bau5b4x) ![](assets/new.png)  
 - [2021-02-17-使用服务网格来实现-Kubernetes-可观察性](https://toutiao.io/k/e52p42t) ![](assets/new.png)  
 - [2021-02-17-机器学习-15-种常用数学符号](https://toutiao.io/k/26p3go6) ![](assets/new.png)  
-- [2021-02-17-微信红包封面，2021-年为啥突然火了？](https://toutiao.io/k/2rbxt3t) ![](assets/new.png)  
 - [2021-02-17-Rust-版本的-peerstore-落地实践](https://toutiao.io/k/ymphs2m) ![](assets/new.png)  
+- [2021-02-17-微信红包封面，2021-年为啥突然火了？](https://toutiao.io/k/2rbxt3t) ![](assets/new.png)  
 - [2021-02-17-译-Flink-实时数据分析（一）：有状态流处理简介](https://toutiao.io/k/7jmpkik) ![](assets/new.png)  
 - [2021-02-17-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
-- [2021-02-17-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
-- [2021-02-17-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
-- [2021-02-17-推荐-如何设计一个高性能网关](https://toutiao.io/k/50qvpmi) ![](assets/new.png)  
-- [2021-02-17-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-17-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
-- [2021-02-17-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
 - [2021-02-17-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
+- [2021-02-17-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
+- [2021-02-17-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
 - [2021-02-17-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-17-推荐-如何设计一个高性能网关](https://toutiao.io/k/50qvpmi) ![](assets/new.png)  
 - [2021-02-17-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
+- [2021-02-17-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
+- [2021-02-17-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
+- [2021-02-17-推荐-快狗打车-CTO-沈剑：低成本搞定分布式调用链追踪系统](https://toutiao.io/k/b7zrx95) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-17 06:43:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-17 06:55:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -244,7 +244,6 @@
 
 
 - [【前端早读课】【招聘】腾讯游戏流量中台招前端开发工程师](https://www.ershicimi.com/p/29a523d80c925512b18aebe0de7429e9)
-- [【V2EX】Show-V2EX:-LPVPN:-通过-Discord-建立局域网玩游戏](https://www.v2ex.com/t/753632)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -427,10 +426,10 @@
 - [【掘金前端】手写一个基于-Proxy-的缓存库](https://juejin.im/post/6930080960826474504)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【V2EX】Lastpass-开始强制收费了，请推荐好用安全的桌面和移动端代替品](https://www.v2ex.com/t/753651)
-- [【技术头条】清华大学莫一林：信息物理系统中的安全控制算法-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14147&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F09%2F30%2Fmeituan-top-talk-moyilin-cps.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew)
 - [【安全热点】《信息安全技术-网络产品和服务安全通用要求》全文](https://sec.thief.one/article_content?a_id=19a3558b4ef473d2324856b77380d240)
 - [【安全热点】【安全热点周报】第181期:CVE-2021-24086漏洞已验证,可远程拒...](https://sec.thief.one/article_content?a_id=70944818a33483b21d81cbbb0bea3f83)
+- [【安全热点】《信息安全技术-电子文件密码应用指南》全文](https://sec.thief.one/article_content?a_id=49475688e01891aa6e1a48e64bd32b72)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -452,8 +451,8 @@
 - [【前端瓶子君】卧槽！字节跳动《算法中文手册》火了，完整版-PDF-开放下载！](https://www.ershicimi.com/p/63f82267497a6a309585f0ce6c618f14)
 - [【V2EX】一个用-VPS-实现多租户，并根据租户订阅对-VPS-进行自动管理的小工具-→-https://github.com/easychen/docker2saas](https://www.v2ex.com/t/753665)
 - [【V2EX】Lastpass-不能跨平台使用了。](https://www.v2ex.com/t/753636)
-- [【开发者头条】推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf)
 - [【开发者头条】推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h)
+- [【开发者头条】推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

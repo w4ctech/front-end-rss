@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-02-17 03:41:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-17 03:48:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-17-替表妹求助各位大佬，-Excel-文件貌似损坏打不开，一个月的工作白费了，咋办？](https://www.v2ex.com/t/753658) 
+- [2021-02-17-Mac-的-1password-beta-最新版指纹解锁速度快了很多](https://www.v2ex.com/t/753657) 
 - [2021-02-17-Future-多线程用-urllib-抓取的优化](https://www.v2ex.com/t/753656) 
 - [2021-02-17-M1-Mac-使用未上架-MAS-的-iOS-应用的途径似乎已经被堵死](https://www.v2ex.com/t/753655) 
 - [2021-02-17-CPU-动态调频是否会显著降低性能？](https://www.v2ex.com/t/753654) 
@@ -44,4 +46,3 @@
 - [2021-02-16-switch-购买渠道咨询-友和](https://www.v2ex.com/t/753612) 
 - [2021-02-16-zfs-三个-ssd-做-mirror-坏了两个，剩下一个也有错误，如何恢复数据和排查原因？](https://www.v2ex.com/t/753610) 
 - [2021-02-16-开源播客茶馆导航---批量导出播客订阅](https://www.v2ex.com/t/753609) 
-- [2021-02-16-请问-django-如何连接-mongo，并且能使用-django-自带的-admin？？](https://www.v2ex.com/t/753607) 

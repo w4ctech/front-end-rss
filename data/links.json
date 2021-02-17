@@ -18268,6 +18268,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "好消息，CSS text-underline-offset可以用起来了",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset/",
+        "date": "2021-02-17"
+      },
+      {
         "title": "CSS ::marker伪元素简介",
         "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-marker-pseudo-element/",
         "date": "2021-02-16"
@@ -18311,11 +18316,6 @@
         "title": "巧用两个type=range input实现区域范围选择",
         "link": "https://www.zhangxinxu.com/wordpress/2021/02/range-input/",
         "date": "2021-02-11"
-      },
-      {
-        "title": "使用::part伪元素改变Shadow DOM的CSS样式",
-        "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-part-shadow-dom/",
-        "date": "2021-02-05"
       }
     ]
   },
@@ -20692,6 +20692,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "一个 P2P 跨网段组网的小工具",
+        "link": "https://www.v2ex.com/t/753717",
+        "date": "2021-02-17"
+      },
+      {
+        "title": "Macbook Pro 2013 late 今天出掉了，回收给了 3200，挺给力了",
+        "link": "https://www.v2ex.com/t/753716",
+        "date": "2021-02-17"
+      },
+      {
         "title": "做了个查询 mac m1 适配 app 的网站",
         "link": "https://www.v2ex.com/t/753715",
         "date": "2021-02-17"
@@ -20865,16 +20875,6 @@
         "title": "迫于下周又要开始休年假，疫情期间的年假干点什么好？",
         "link": "https://www.v2ex.com/t/753668",
         "date": "2021-02-17"
-      },
-      {
-        "title": "求分享你的 Playlist 管理经验，如何起名分类，普通人有必要用 playlist 吗，还是都丢 library 里？",
-        "link": "https://www.v2ex.com/t/753667",
-        "date": "2021-02-17"
-      },
-      {
-        "title": "充电限制应用 AlDente 已经支持 M1",
-        "link": "https://www.v2ex.com/t/753666",
-        "date": "2021-02-17"
       }
     ]
   },
@@ -21041,8 +21041,23 @@
         "date": "2021-02-17"
       },
       {
-        "title": "[推荐] 条分缕析 Raft 算法",
-        "link": "https://toutiao.io/k/pa5a9hf",
+        "title": "[推荐] 快速了解云原生架构",
+        "link": "https://toutiao.io/k/zz0ckz0",
+        "date": "2021-02-17"
+      },
+      {
+        "title": "[推荐] 硬不硬你说了算！近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题",
+        "link": "https://toutiao.io/k/3a36mkk",
+        "date": "2021-02-17"
+      },
+      {
+        "title": "[推荐] 阅读源码的真正价值",
+        "link": "https://toutiao.io/k/yupb5ya",
+        "date": "2021-02-17"
+      },
+      {
+        "title": "[推荐] 3+1 保障：高可用系统稳定性是如何炼成的？",
+        "link": "https://toutiao.io/k/u8lcu6b",
         "date": "2021-02-17"
       },
       {
@@ -21051,18 +21066,18 @@
         "date": "2021-02-17"
       },
       {
+        "title": "[推荐] 条分缕析 Raft 算法",
+        "link": "https://toutiao.io/k/pa5a9hf",
+        "date": "2021-02-17"
+      },
+      {
+        "title": "[推荐] 一文带你了解推荐系统之标签体系",
+        "link": "https://toutiao.io/k/nyb3xq7",
+        "date": "2021-02-17"
+      },
+      {
         "title": "[推荐] Redis 集群搭建很 easy",
         "link": "https://toutiao.io/k/m4mw3sc",
-        "date": "2021-02-17"
-      },
-      {
-        "title": "[推荐] Redis 遇到的那些坑",
-        "link": "https://toutiao.io/k/k4blfqn",
-        "date": "2021-02-17"
-      },
-      {
-        "title": "[推荐] 缓存原理与微服务缓存自动管理",
-        "link": "https://toutiao.io/k/t2bvzew",
         "date": "2021-02-17"
       },
       {
@@ -21076,18 +21091,8 @@
         "date": "2021-02-17"
       },
       {
-        "title": "[推荐] 2021 春节书单：110 位 CEO 心中的 NO.1",
-        "link": "https://toutiao.io/k/p6kzudl",
-        "date": "2021-02-17"
-      },
-      {
-        "title": "[推荐] 引入 Gateway 网关，这些坑一定要学会避开",
-        "link": "https://toutiao.io/k/60gr6a8",
-        "date": "2021-02-17"
-      },
-      {
-        "title": "[推荐] 一文带你了解推荐系统之标签体系",
-        "link": "https://toutiao.io/k/nyb3xq7",
+        "title": "[推荐] Redis 遇到的那些坑",
+        "link": "https://toutiao.io/k/k4blfqn",
         "date": "2021-02-17"
       },
       {
@@ -21096,23 +21101,18 @@
         "date": "2021-02-17"
       },
       {
-        "title": "[推荐] 阅读源码的真正价值",
-        "link": "https://toutiao.io/k/yupb5ya",
+        "title": "[推荐] 引入 Gateway 网关，这些坑一定要学会避开",
+        "link": "https://toutiao.io/k/60gr6a8",
         "date": "2021-02-17"
       },
       {
-        "title": "[推荐] 快速了解云原生架构",
-        "link": "https://toutiao.io/k/zz0ckz0",
+        "title": "[推荐] 2021 春节书单：110 位 CEO 心中的 NO.1",
+        "link": "https://toutiao.io/k/p6kzudl",
         "date": "2021-02-17"
       },
       {
-        "title": "[推荐] 硬不硬你说了算！近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题",
-        "link": "https://toutiao.io/k/3a36mkk",
-        "date": "2021-02-17"
-      },
-      {
-        "title": "[推荐] 3+1 保障：高可用系统稳定性是如何炼成的？",
-        "link": "https://toutiao.io/k/u8lcu6b",
+        "title": "[推荐] 快狗打车 CTO 沈剑：低成本搞定分布式调用链追踪系统",
+        "link": "https://toutiao.io/k/b7zrx95",
         "date": "2021-02-17"
       }
     ]

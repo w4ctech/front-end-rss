@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-18 03:32:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-18 03:41:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,8 +23,10 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/cacecf530e97b404d830c2a50be041d6) 
 - [2021-02-07-封装-axios-取消重复请求](https://www.ershicimi.com/p/4be69911a4eaa52b2a115eec083a9545) 
+- [2021-02-03-API请求失败后发生了什么？](https://www.ershicimi.com/p/cf521555b6f7d2c0d0fcca507baa1769) 
+- [2021-01-31-Angular-发布新调试指南；谷歌正在研发“新”安卓系统；Twitter-为-iOS-开发者开源文](https://www.ershicimi.com/p/aca4a8d40096cc5688675b58d8bfda73) 
+- [2021-01-22-云原生带来的云安全领域变化-|-活动推荐](https://www.ershicimi.com/p/2bf7f7494361b6638ae82b2a31ef67a3) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -37,6 +39,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-18-苹果不是禁止-app-用非苹果通道付款吗？为什么-Firefox-VPN-可以](https://www.v2ex.com/t/753845) 
 - [2021-02-18-怎么能让-chrome-浏览器的-google-翻译插件停止-打开网页就自动翻译-的行为？](https://www.v2ex.com/t/753836) 
+- [2021-02-18-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) 
 - [2021-02-17-《信息安全技术-网络产品和服务安全通用要求》全文](https://sec.thief.one/article_content?a_id=19a3558b4ef473d2324856b77380d240) 
 - [2021-02-15-【安全热点周报】第181期:CVE-2021-24086漏洞已验证,可远程拒...](https://sec.thief.one/article_content?a_id=70944818a33483b21d81cbbb0bea3f83) 
 - [2021-02-15-《信息安全技术-电子文件密码应用指南》全文](https://sec.thief.one/article_content?a_id=49475688e01891aa6e1a48e64bd32b72) 

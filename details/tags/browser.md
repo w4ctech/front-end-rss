@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-18 09:41:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-18 09:48:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,10 +24,6 @@
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2021-02-05-奇舞周刊第-384-期：-Chrome-88-重要更新解读](https://www.ershicimi.com/p/18cb7e1d895b1c911f22c3d4ce19d70e) 
-- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
-- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-18-求问大佬：-Windows-Server-2016/2019-的磁盘缓存策略有没有官方的文档介绍？](https://www.v2ex.com/t/753962) 
 - [2021-02-18-邑安科技安全团队祝大家开工大吉!](https://sec.thief.one/article_content?a_id=937ee0e833ae550b50f9a90041097f20) 

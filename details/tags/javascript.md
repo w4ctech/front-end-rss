@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-18 09:41:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-18 09:48:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -33,12 +33,19 @@
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
 - [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
-- [2021-02-01-或许这就是下一代组件库](https://www.ershicimi.com/p/869e3034552f7a28c5b09ff3c57a6eda) 
+- [2021-01-20-深拷贝-浅拷贝](https://www.ershicimi.com/p/dfb54aa52c988c0e5ac606ec2993c059) 
+- [2021-01-19-11个-Javascript-小技巧帮你提升代码质量](https://www.ershicimi.com/p/361e60879247bba788a8a8a43ca0e4b5) 
+- [2021-01-12-JavaScript-核心原理精讲](https://www.ershicimi.com/p/70d3a2aa207b7b8c23ce7cf4d98dbd3a) 
+- [2021-02-05-不用try-catch，如何机智的捕获错误](https://www.ershicimi.com/p/fe4310d6940b69d9dd4221af76504622) 
+- [2021-02-04-JavaScript-ES12新特性抢先体验](https://www.ershicimi.com/p/ca3173fb7b253fb61b99b4657b4fc1bf) 
+- [2021-01-21-22个超详细的-JS-数组方法](https://www.ershicimi.com/p/0bf08a57f1cd5515242f1735e16db6a2) 
+- [2021-01-20-让你的-JS-代码变得更加优雅且可维护](https://www.ershicimi.com/p/2234eb788ee1f6347dbaf8dbff2e8805) 
+- [2021-01-19-请查收-2020-全球-JS-现状调查报告](https://www.ershicimi.com/p/06475752dd83e5f17668c63ba8db9430) 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 
 - [2021-02-13-Web-Components中引入外部CSS的3种方法](https://www.zhangxinxu.com/wordpress/2021/02/web-components-import-css/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
-- [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
+- [2021-02-18-LeetCode题解：63.-不同路径-II，动态规划，JavaScript，详细注释](https://juejin.im/post/6930514752724533256) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

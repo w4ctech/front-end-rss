@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-18 09:41:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-18 09:48:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -82,10 +82,10 @@
 - [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
+- [2021-02-18-360-哪来的这“毛病”？解绑云摄像头还要手持身份证照片](https://www.v2ex.com/t/753986) 
 - [2021-02-18-腾讯视频是不是有坑?](https://www.v2ex.com/t/753944) 
 - [2021-02-18-人脸识别-|-EDPB“关于通过视频设备处理个人数据的指南”全文翻...](https://sec.thief.one/article_content?a_id=3cb71a6756fe57d00c9428b7572920e8) 
 - [2021-02-18-【视频】|-Python:多层装饰器](https://sec.thief.one/article_content?a_id=d711e888063f260b67d4ac194d925b57) 
 - [2021-02-13-【视频】|-网络安全:入侵检测的基本知识](https://sec.thief.one/article_content?a_id=59ba9377fc7a30f48f150de37474c111) 
 - [2021-02-12-利用shodan搜索公网摄像头](https://sec.thief.one/article_content?a_id=1f250771cea1fbb75a45dab4b9097fee) 
 - [2021-02-11-【视频】|-网络安全:防火墙的综合知识](https://sec.thief.one/article_content?a_id=1d140cffc188786ac407c7c8f209c095) 
-- [2021-02-15-视频彩铃，在5G时代能否迎来春天？](https://www.ershicimi.com/p/c6522a45a1c30680c1a74fa565604403) 

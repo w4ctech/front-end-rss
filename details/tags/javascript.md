@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-18 18:44:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-18 18:59:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -117,5 +117,4 @@
 - [2021-02-18-JS-怎么在页面实现延时提醒？（外部-API-请求慢-2~3-秒返回数据-|-也可能失连：让用户重新加载一下）](https://www.v2ex.com/t/754073) 
 - [2021-02-18-如何让程序在单个-Event.isSet时也能利用事件锁暂停运行？](https://www.v2ex.com/t/754063) 
 - [2021-02-18-「next-terminal-」开源-html5-远程桌面网关更新啦。](https://www.v2ex.com/t/754043) 
-- [2021-02-18-自定义C/C++日志输出函数-www.kymjs.com](https://blogread.cn/news/go.php?idItem=14149&url=https%3A%2F%2Fwww.kymjs.com%2Fcode%2F2020%2F08%2F07%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-15-当爆破遇到JS加密](https://sec.thief.one/article_content?a_id=3c6c3424f25ce904d6a1705a56e3a81c) 

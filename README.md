@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-18 14:30:10，:rocket: 更新条数: +4276， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-18 14:38:23，:rocket: 更新条数: +4276， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1064,16 +1064,16 @@
 - [2021-02-18-分析-AGI-纹理数据并提升-GPU-性能](https://toutiao.io/k/iyhr7xd) ![](assets/new.png)  
 - [2021-02-18-人话解读-GPLv3](https://toutiao.io/k/bfxlqqw) ![](assets/new.png)  
 - [2021-02-18-三年数据沉淀！2020-年度测试行业问卷调查结果火热出炉](https://toutiao.io/k/ksij2x0) ![](assets/new.png)  
-- [2021-02-18-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
-- [2021-02-18-推荐-快狗打车-CTO-沈剑：低成本搞定分布式调用链追踪系统](https://toutiao.io/k/b7zrx95) ![](assets/new.png)  
-- [2021-02-18-推荐-条分缕析-Raft-算法](https://toutiao.io/k/pa5a9hf) ![](assets/new.png)  
-- [2021-02-18-推荐-如何提升系统可用性？](https://toutiao.io/k/4whx0p6) ![](assets/new.png)  
-- [2021-02-18-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
-- [2021-02-18-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
-- [2021-02-18-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
-- [2021-02-18-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
+- [2021-02-18-推荐-缓存原理与微服务缓存自动管理](https://toutiao.io/k/t2bvzew) ![](assets/new.png)  
 - [2021-02-18-推荐-如何设计一个高性能网关](https://toutiao.io/k/50qvpmi) ![](assets/new.png)  
-- [2021-02-18-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
+- [2021-02-18-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
+- [2021-02-18-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
+- [2021-02-18-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
+- [2021-02-18-推荐-硬不硬你说了算！近-40-张图解被问千百遍的-TCP-三次握手和四次挥手面试题](https://toutiao.io/k/3a36mkk) ![](assets/new.png)  
+- [2021-02-18-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
+- [2021-02-18-推荐-如何提升系统可用性？](https://toutiao.io/k/4whx0p6) ![](assets/new.png)  
+- [2021-02-18-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
+- [2021-02-18-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

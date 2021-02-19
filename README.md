@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-19 23:31:45，:rocket: 更新条数: +4299， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-19 23:41:02，:rocket: 更新条数: +4299， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,7 @@
 </summary>
 
 
+- [2021-02-19-最近在新的-win10-笔记本电脑上用触摸板替代鼠标很惊艳](https://www.v2ex.com/t/754440) ![](assets/new.png)  
 - [2021-02-19-有玩超小型-Linux-发行版的大佬吗？-Porteus-和-slax-这俩选哪个比较好？](https://www.v2ex.com/t/754438) ![](assets/new.png)  
 - [2021-02-19-服务器不能访问-Google，但是-Google-Bot-可以访问服务器](https://www.v2ex.com/t/754435) ![](assets/new.png)  
 - [2021-02-19-垃圾老薛主机，谨慎购买](https://www.v2ex.com/t/754434) ![](assets/new.png)  
@@ -1031,7 +1032,6 @@
 - [2021-02-19-食道癌有什么好的药物么？](https://www.v2ex.com/t/754415) ![](assets/new.png)  
 - [2021-02-19-有办法重置淘宝的推荐商品吗？手贱点了一些花里胡哨的，现在都是我不想看的了。](https://www.v2ex.com/t/754414) ![](assets/new.png)  
 - [2021-02-19-App-提示音去哪里找](https://www.v2ex.com/t/754412) ![](assets/new.png)  
-- [2021-02-19-为什么“cpu-是-32-核，任务管理器中显示占用为-03，则意味着单核占用为-96%了”？](https://www.v2ex.com/t/754411) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1090,10 +1090,10 @@
 - [2021-02-19-Impala-3.4-在网易的最新实践](https://toutiao.io/k/473if07) ![](assets/new.png)  
 - [2021-02-19-坑系列之-canal-的-json-解析-bug](https://toutiao.io/k/iwru0im) ![](assets/new.png)  
 - [2021-02-19-Privoxy-动态代理和广告过滤](https://toutiao.io/k/sfhgbu6) ![](assets/new.png)  
-- [2021-02-19-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
-- [2021-02-19-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
 - [2021-02-19-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
-- [2021-02-19-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
+- [2021-02-19-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
+- [2021-02-19-推荐-领域驱动设计-DDD-在百度爱番番的实践](https://toutiao.io/k/djhtzln) ![](assets/new.png)  
+- [2021-02-19-推荐-最好的-IDEA-debug-长文？看完我佛了](https://toutiao.io/k/c2t9cp9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

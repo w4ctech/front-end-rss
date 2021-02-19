@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-19 12:41:37，:rocket: 更新条数: +4302， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-19 12:50:43，:rocket: 更新条数: +4301， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,7 @@
 </summary>
 
 
+- [2021-02-19-git-snapshot](https://www.v2ex.com/t/754382) ![](assets/new.png)  
 - [2021-02-19-前端技术方面的性能优化有哪些？](https://www.v2ex.com/t/754379) ![](assets/new.png)  
 - [2021-02-19-求推荐-移动上网卡套餐](https://www.v2ex.com/t/754378) ![](assets/new.png)  
 - [2021-02-19-求问-mac-上有什么截图软件能在截图后自动添加水印图片？](https://www.v2ex.com/t/754377) ![](assets/new.png)  
@@ -1031,7 +1032,6 @@
 - [2021-02-19-上海金科路-外企-招聘-Java-React-Salesforce-开发-955+可全国远程办公](https://www.v2ex.com/t/754357) ![](assets/new.png)  
 - [2021-02-19-大家帮忙决策一下两个-offers](https://www.v2ex.com/t/754356) ![](assets/new.png)  
 - [2021-02-19-升级到-macOS-Big-Sur-11.2.1-风扇狂转-发热严重](https://www.v2ex.com/t/754355) ![](assets/new.png)  
-- [2021-02-19-上海-区块链相关前端开发工程师（React-or-Vue）](https://www.v2ex.com/t/754354) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1090,10 +1090,10 @@
 - [2021-02-19-如何学习新的编程语言？](https://toutiao.io/k/q5fvf7o) ![](assets/new.png)  
 - [2021-02-19-坑系列之-canal-的-json-解析-bug](https://toutiao.io/k/iwru0im) ![](assets/new.png)  
 - [2021-02-19-Privoxy-动态代理和广告过滤](https://toutiao.io/k/sfhgbu6) ![](assets/new.png)  
-- [2021-02-19-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
+- [2021-02-19-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
 - [2021-02-19-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
+- [2021-02-19-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
 - [2021-02-19-推荐-如何提升系统可用性？](https://toutiao.io/k/4whx0p6) ![](assets/new.png)  
-- [2021-02-19-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

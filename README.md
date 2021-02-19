@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-19 10:09:06，:rocket: 更新条数: +4304， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-19 10:32:13，:rocket: 更新条数: +4286， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -892,11 +892,11 @@
 </summary>
 
 
-- [2021-02-19-如何基于已有的-REST-API-实现-GraphQL-API](https://juejin.im/post/6930911717950947341) ![](assets/new.png)  
-- [2021-02-19-译|如何在浏览器上使用-NoSQL-数据库-IndexedDB](https://juejin.im/post/6930883284456964109) ![](assets/new.png)  
-- [2021-02-18-Vue3组件库工程化实战---Element3](https://juejin.im/post/6930879590554402830) ![](assets/new.png)  
-- [2021-02-18-解密协议层的攻击——HTTP请求走私](https://juejin.im/post/6930802842148012039) ![](assets/new.png)  
-- [2021-02-18-译-函数式编程-——-使用-Python、JavaScript-和-Java-描述](https://juejin.im/post/6930638275241574407) ![](assets/new.png)  
+- [2021-02-19-前端缓存的理解-或者-前端数据持久化的理解强制缓存、协商缓存](https://juejin.im/post/6930904746727325709) ![](assets/new.png)  
+- [2021-02-19-Serverless-初探](https://juejin.im/post/6930903956835008526) ![](assets/new.png)  
+- [2021-02-19-前端性能检测工具-----Web-Vitals](https://juejin.im/post/6930903996127248392) ![](assets/new.png)  
+- [2021-02-19-前端跨域](https://juejin.im/post/6930903887385886727) ![](assets/new.png)  
+- [2021-02-19-前端开发常用的几种请求方式](https://juejin.im/post/6930903529712254989) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1012,7 +1012,14 @@
 </summary>
 
 
+- [2021-02-19-百度北京-云原生研发岗、产品岗大量-HC，快来快来！](https://www.v2ex.com/t/754351) ![](assets/new.png)  
+- [2021-02-19-听说-V-站人手一个导航？看看我的-xxoo](https://www.v2ex.com/t/754350) ![](assets/new.png)  
+- [2021-02-19-如何才能入选-iOS-默认浏览器？](https://www.v2ex.com/t/754349) ![](assets/new.png)  
+- [2021-02-19-迫于快有娃，准备买车，有什么要注意的？](https://www.v2ex.com/t/754348) ![](assets/new.png)  
+- [2021-02-19-广州前端求内推](https://www.v2ex.com/t/754347) ![](assets/new.png)  
+- [2021-02-19-求助：公司宣布临时转为-996，你们会怎么办？](https://www.v2ex.com/t/754346) ![](assets/new.png)  
 - [2021-02-19-Parallels-Desktop-16-for-Mac-应用捆绑包又来了](https://www.v2ex.com/t/754345) ![](assets/new.png)  
+- [2021-02-19-ios-app-内购解锁功能，购买后发现功能无法使用，怎么退款](https://www.v2ex.com/t/754344) ![](assets/new.png)  
 - [2021-02-19-鼠须管-0.15.x-开始，候选条高度上下横跳问题好烦人](https://www.v2ex.com/t/754343) ![](assets/new.png)  
 - [2021-02-19-北京-/-上海-/-深圳-/-杭州-技术布道师-20k-40k-15-薪](https://www.v2ex.com/t/754342) ![](assets/new.png)  
 - [2021-02-19-iPhone12-你们真的没有遇到过屏幕突然变黑吗？](https://www.v2ex.com/t/754341) ![](assets/new.png)  
@@ -1025,13 +1032,6 @@
 - [2021-02-19-iOS14.4-打开闲鱼输入法变黑](https://www.v2ex.com/t/754332) ![](assets/new.png)  
 - [2021-02-19-shareinstall-是不是要凉了啊？](https://www.v2ex.com/t/754331) ![](assets/new.png)  
 - [2021-02-19-大厂面试黑幕：面试完美也白搭，最后败在-HR-这一关……](https://www.v2ex.com/t/754330) ![](assets/new.png)  
-- [2021-02-19-吐个槽，手机换个屏幕咋就要锁屏密码了](https://www.v2ex.com/t/754328) ![](assets/new.png)  
-- [2021-02-19-预算-4000～-6500，我该选择小米-11-还是-iPhone12](https://www.v2ex.com/t/754327) ![](assets/new.png)  
-- [2021-02-19-Mac-版的网易云音乐才-8.5MB？](https://www.v2ex.com/t/754326) ![](assets/new.png)  
-- [2021-02-19-大脑内置的-AdBlock-—-Banner-广告盲区](https://www.v2ex.com/t/754324) ![](assets/new.png)  
-- [2021-02-19-主力设备是-iPhone-，需要兼顾听音乐和通话的需求，在-HiRes-有线耳机和蓝牙降噪耳机（尤其是-Airpods-Pro）之间，怎么选？](https://www.v2ex.com/t/754323) ![](assets/new.png)  
-- [2021-02-19-求职：技术合伙人，前端经理](https://www.v2ex.com/t/754322) ![](assets/new.png)  
-- [2021-02-19-有把程序员作为副业的朋友吗？](https://www.v2ex.com/t/754321) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1043,26 +1043,6 @@
 </summary>
 
 
-- [2021-02-19-Base-x-编码的奥秘-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14152&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecret-of-base-coding%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-给你的工艺品署个名吧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14151&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-sign-git-commit%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-拼多多的期权、股权激励-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14150&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F199155606%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-自定义C/C++日志输出函数-www.kymjs.com](https://blogread.cn/news/go.php?idItem=14149&url=https%3A%2F%2Fwww.kymjs.com%2Fcode%2F2020%2F08%2F07%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-外卖客户端容器化架构的演进-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14148&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F09%2F30%2Fwaimai-mobile-architecture-evolution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-清华大学莫一林：信息物理系统中的安全控制算法-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14147&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F09%2F30%2Fmeituan-top-talk-moyilin-cps.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-TCP-窗口缩放、时间戳和-SACK-linux.cn](https://blogread.cn/news/go.php?idItem=14146&url=https%3A%2F%2Flinux.cn%2Farticle-12710-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-关于年终奖的故事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14145&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FF3u7KhJaBUSPm6H-Fy3hQw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-个推异常值检测和实战应用-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14144&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F349477322%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-我的第一本英文技术书-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14143&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmy-first-english-tech-book%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-如何提升系统可用性？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14142&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-system-availability%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-网页出现不河蟹弹窗？那是被劫持了！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14141&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F348964013%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-到底什么是敏捷-teobler.com](https://blogread.cn/news/go.php?idItem=14140&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210123-what-is-agile%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-有赞个性化推荐能力的演进与实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14139&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F347936335%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-写了十年技术博客，我收获了什么-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14138&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnical-wblog-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-疫情之下的科技普惠：阿里云科技驱动中小企业数字化-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=14137&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F781545%3Futm_content%3Dg_1000235521%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-实操｜如何将-Containerd-用作-Kubernetes-runtime-www.upyun.com](https://blogread.cn/news/go.php?idItem=14136&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F611%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-演进式数据架构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14135&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fevolutionary-data-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-iOS-14-从-Android-中"窃取"-了这-8-个有用的功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14134&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFp8y8yyOeyW1aOLaS3TB8w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-02-19-Android各版本迭代信息集合-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14133&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsPWqE8h_HqBh4H5OGudKuQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,8 +1057,8 @@
 - [2021-02-19-中国最著名的黑客排行榜](https://toutiao.io/k/gcdt8gi) ![](assets/new.png)  
 - [2021-02-19-这些不可不知的-JVM-知识，我都用思维导图整理好了](https://toutiao.io/k/vxuckw2) ![](assets/new.png)  
 - [2021-02-19-Java-中那些让你傻傻分不清楚的小细节](https://toutiao.io/k/mj4pi93) ![](assets/new.png)  
-- [2021-02-19-敏捷团队实践](https://toutiao.io/k/6mfogkx) ![](assets/new.png)  
 - [2021-02-19-译-为容器时代设计的高级-eBPF-内核特性-FOSDEM,-2021](https://toutiao.io/k/sqc33s5) ![](assets/new.png)  
+- [2021-02-19-敏捷团队实践](https://toutiao.io/k/6mfogkx) ![](assets/new.png)  
 - [2021-02-19-如何培养你的团队？](https://toutiao.io/k/vnl0hl2) ![](assets/new.png)  
 - [2021-02-19-Go-语言中时间轮的实现](https://toutiao.io/k/rdyr6nl) ![](assets/new.png)  
 - [2021-02-19-单链表是否有环，两种方式搞定](https://toutiao.io/k/e1mui5x) ![](assets/new.png)  
@@ -1090,10 +1070,10 @@
 - [2021-02-19-如何学习新的编程语言？](https://toutiao.io/k/q5fvf7o) ![](assets/new.png)  
 - [2021-02-19-坑系列之-canal-的-json-解析-bug](https://toutiao.io/k/iwru0im) ![](assets/new.png)  
 - [2021-02-19-Privoxy-动态代理和广告过滤](https://toutiao.io/k/sfhgbu6) ![](assets/new.png)  
+- [2021-02-19-推荐-最好的-IDEA-debug-长文？看完我佛了](https://toutiao.io/k/c2t9cp9) ![](assets/new.png)  
 - [2021-02-19-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
+- [2021-02-19-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
 - [2021-02-19-推荐-Lucene-倒排索引原理](https://toutiao.io/k/ew5ozjp) ![](assets/new.png)  
-- [2021-02-19-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
-- [2021-02-19-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,6 +1085,12 @@
 </summary>
 
 
+- [2021-02-19-SSH-MITM:支持公钥认证&会话劫持和文件篡改的安全审计MITM服务器](https://sec.thief.one/article_content?a_id=85d132c9036da298fe0b58a82422700f) ![](assets/new.png)  
+- [2021-02-19-招聘-|-富友招聘Java代码审计工程师](https://sec.thief.one/article_content?a_id=8883f1774534b9541807fa0edb5657df) ![](assets/new.png)  
+- [2021-02-19-首个针对苹果M1芯片的恶意软件来了!](https://sec.thief.one/article_content?a_id=76379d8410502cff7cbada74707c307f) ![](assets/new.png)  
+- [2021-02-19-加拿大首个比特币ETF交易开始数小时内达成近1亿美元交易量](https://sec.thief.one/article_content?a_id=fdfa35484e7ca40b759345e25a80f69a) ![](assets/new.png)  
+- [2021-02-19-因协警泄露个人信息-老婆要跟我离婚](https://sec.thief.one/article_content?a_id=3b17c55a897f8b8a8bf9e4ee3c3a1aa1) ![](assets/new.png)  
+- [2021-02-19-公安部网安局公布2020年十大网络黑产案例](https://sec.thief.one/article_content?a_id=2002a270a3a4e62df70af9f333742ebc) ![](assets/new.png)  
 - [2021-02-19-NIST要建立模拟网络钓鱼的测评标准](https://sec.thief.one/article_content?a_id=2f505c3a84243a3ceb00da1b655a5aca) ![](assets/new.png)  
 - [2021-02-19-2月19日贵币GUIBI早内参-Cosmos-Hub已完成星际之门Stargate的升级...](https://sec.thief.one/article_content?a_id=a7dba01444639441b52b771fbc2048d6) ![](assets/new.png)  
 - [2021-02-19-安卓设备容易受到僵尸网络的DDoS攻击](https://sec.thief.one/article_content?a_id=696ea27d87c94fc53d61cba80fbc8148) ![](assets/new.png)  
@@ -1119,12 +1105,6 @@
 - [2021-02-19-新冠疫苗广泛使用的同时,数据泄露风险也显著增加](https://sec.thief.one/article_content?a_id=0d27570e207ab05ec426db680cd68473) ![](assets/new.png)  
 - [2021-02-19-一图读懂:工业互联网创新发展行动计划2021-2023年](https://sec.thief.one/article_content?a_id=473908bc273cf20da97e40141718bc2a) ![](assets/new.png)  
 - [2021-02-19-新加坡电信巨头近13万客户信息遭泄露,涉身份证号等](https://sec.thief.one/article_content?a_id=b0f71065f66485170a02db80d61e0cab) ![](assets/new.png)  
-- [2021-02-18-【安全圈】8名黑客,盗窃美国名人的1亿多美元虚拟货币](https://sec.thief.one/article_content?a_id=d7ddf6d34e284bb7622ed47fb27b98e6) ![](assets/new.png)  
-- [2021-02-18-3-天新增-4700-Star-!开源实时屏幕共享工具在-GitHub-火了](https://sec.thief.one/article_content?a_id=bfe3f84b5dfe8e68ccc3ecefaa86cf59) ![](assets/new.png)  
-- [2021-02-18-【应急响应】windows入侵检查流程](https://sec.thief.one/article_content?a_id=fdeeec0fb14be49c9e35f8fd6cc7c3e1) ![](assets/new.png)  
-- [2021-02-18-圣路易斯州联邦储蓄行行长称比特币不会对美元统治地位构成挑战](https://sec.thief.one/article_content?a_id=3736375c348bfcb455a327c1ab0bd77e) ![](assets/new.png)  
-- [2021-02-18-科创板225家上市企业有效发明专利排行榜-奇安信位列第五](https://sec.thief.one/article_content?a_id=4393ce6f6777ac1d0512d655848880c5) ![](assets/new.png)  
-- [2021-02-18-内推岗位-|-大量招HW人员,待遇极高](https://sec.thief.one/article_content?a_id=7c67f569993cc6b97dac913fc6be8bc6) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

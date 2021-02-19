@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-19 02:36:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-19 02:48:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -23,5 +23,4 @@
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-02-19-杭州盒马鲜生招聘-Java-工程师-P6-P8](https://www.v2ex.com/t/754147) 
 - [2021-02-19-这是一篇招聘贴,-坐标深圳南山，-Automizely，很缺人----](https://www.v2ex.com/t/754135) 
-- [2021-02-19-亚马逊面试题：尽量减少恶意软件的传播-II](https://www.v2ex.com/t/754111) 
 - [2021-02-09-华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987) 

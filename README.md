@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-19 02:36:19，:rocket: 更新条数: +4301， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-19 02:48:32，:rocket: 更新条数: +4298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -892,11 +892,11 @@
 </summary>
 
 
-- [2021-02-18-Vite-2.0-发布了！](https://juejin.im/post/6930792459567890446) ![](assets/new.png)  
-- [2021-02-18-洛竹的2021年度目标通晒|牛气冲天新年征文](https://juejin.im/post/6930623622944358408) ![](assets/new.png)  
-- [2021-02-18-极速入门微信小程序-之-生命周期篇3-组件](https://juejin.im/post/6930614644889845768) ![](assets/new.png)  
-- [2021-02-18-一文搞懂Vue2和Vue3的Proxy](https://juejin.im/post/6930539560476606478) ![](assets/new.png)  
-- [2021-02-18-译-为什么-React-Hooks-是错误的抽象](https://juejin.im/post/6930529765048713229) ![](assets/new.png)  
+- [2021-02-18-一个-web-页面的生命周期](https://juejin.im/post/6930571801382780941) ![](assets/new.png)  
+- [2021-02-18-Node.js-+-typescript-写一个命令批处理辅助工具](https://juejin.im/post/6930565860348461063) ![](assets/new.png)  
+- [2021-02-18-js继承](https://juejin.im/post/6930552591059255303) ![](assets/new.png)  
+- [2021-02-18-jsconfig.json-中文文档](https://juejin.im/post/6930549887402672135) ![](assets/new.png)  
+- [2021-02-17-AJAX、Axios和Fetch的那些恩怨情仇](https://juejin.im/post/6930503156598226951) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1012,6 +1012,11 @@
 </summary>
 
 
+- [2021-02-19-求助-广州靠谱的-Macbook-维修店](https://www.v2ex.com/t/754162) ![](assets/new.png)  
+- [2021-02-19-阿里天猫国际技术部招（前端/服务端/算法）实习生了](https://www.v2ex.com/t/754161) ![](assets/new.png)  
+- [2021-02-19-联通-9929-和-4837-区别大吗](https://www.v2ex.com/t/754160) ![](assets/new.png)  
+- [2021-02-19-Emoji-“短”网址服务-👉🔗.ml-，供大家使用并提供一些思路](https://www.v2ex.com/t/754157) ![](assets/new.png)  
+- [2021-02-19-有点后悔买了-Apple-watch](https://www.v2ex.com/t/754155) ![](assets/new.png)  
 - [2021-02-19-阿里北京/杭州内推-高性能存储网络开发工程师](https://www.v2ex.com/t/754153) ![](assets/new.png)  
 - [2021-02-19-深圳福田福民哪里停车呀](https://www.v2ex.com/t/754151) ![](assets/new.png)  
 - [2021-02-19-我有个做电影、景点、美食推荐小程序的想法](https://www.v2ex.com/t/754150) ![](assets/new.png)  
@@ -1027,11 +1032,6 @@
 - [2021-02-19-「墨刀春招」「远程/北京/长沙」前后端/产品/设计职位开放，北京薪资，远程/北京/长沙可选](https://www.v2ex.com/t/754138) ![](assets/new.png)  
 - [2021-02-19-菊厂-社招西安、东莞、南京、上海-Java-中级/高级开发工程师](https://www.v2ex.com/t/754137) ![](assets/new.png)  
 - [2021-02-19-联想梦镜是智商税嘛？](https://www.v2ex.com/t/754136) ![](assets/new.png)  
-- [2021-02-19-这是一篇招聘贴,-坐标深圳南山，-Automizely，很缺人----](https://www.v2ex.com/t/754135) ![](assets/new.png)  
-- [2021-02-19-请问各位都用什么牌子的行车记录仪，有性价比高的推荐下吗？](https://www.v2ex.com/t/754134) ![](assets/new.png)  
-- [2021-02-19-自学-UI/UX-两个月了，怎样持续进步？](https://www.v2ex.com/t/754133) ![](assets/new.png)  
-- [2021-02-19-关于社保欠缴，想咨询一下大家](https://www.v2ex.com/t/754132) ![](assets/new.png)  
-- [2021-02-19-pptp-连上了，但是上不了网](https://www.v2ex.com/t/754130) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,26 +1074,26 @@
 </summary>
 
 
-- [2021-02-19-CSS-实现各种-Loading-效果附带解析](https://toutiao.io/k/j3ujvwo) ![](assets/new.png)  
 - [2021-02-19-译-为容器时代设计的高级-eBPF-内核特性-FOSDEM,-2021](https://toutiao.io/k/sqc33s5) ![](assets/new.png)  
-- [2021-02-19-Java-中那些让你傻傻分不清楚的小细节](https://toutiao.io/k/mj4pi93) ![](assets/new.png)  
+- [2021-02-19-CSS-实现各种-Loading-效果附带解析](https://toutiao.io/k/j3ujvwo) ![](assets/new.png)  
 - [2021-02-19-这些不可不知的-JVM-知识，我都用思维导图整理好了](https://toutiao.io/k/vxuckw2) ![](assets/new.png)  
+- [2021-02-19-Java-中那些让你傻傻分不清楚的小细节](https://toutiao.io/k/mj4pi93) ![](assets/new.png)  
 - [2021-02-19-敏捷团队实践](https://toutiao.io/k/6mfogkx) ![](assets/new.png)  
-- [2021-02-19-单链表是否有环，两种方式搞定](https://toutiao.io/k/e1mui5x) ![](assets/new.png)  
 - [2021-02-19-Go-语言中时间轮的实现](https://toutiao.io/k/rdyr6nl) ![](assets/new.png)  
+- [2021-02-19-单链表是否有环，两种方式搞定](https://toutiao.io/k/e1mui5x) ![](assets/new.png)  
+- [2021-02-19-如何培养你的团队？](https://toutiao.io/k/vnl0hl2) ![](assets/new.png)  
 - [2021-02-19-为什么要读-nodejs-源码？](https://toutiao.io/k/km4egwy) ![](assets/new.png)  
 - [2021-02-19-揭秘登上-2021-春晚舞台的黑科技：XR-技术](https://toutiao.io/k/pj9g9f8) ![](assets/new.png)  
-- [2021-02-19-如何培养你的团队？](https://toutiao.io/k/vnl0hl2) ![](assets/new.png)  
 - [2021-02-19-Impala-3.4-在网易的最新实践](https://toutiao.io/k/473if07) ![](assets/new.png)  
 - [2021-02-19-内存耗尽后-Redis-会发生什么？](https://toutiao.io/k/jaa74k6) ![](assets/new.png)  
 - [2021-02-19-坑系列之-canal-的-json-解析-bug](https://toutiao.io/k/iwru0im) ![](assets/new.png)  
+- [2021-02-19-中国最著名的黑客排行榜](https://toutiao.io/k/gcdt8gi) ![](assets/new.png)  
 - [2021-02-19-如何学习新的编程语言？](https://toutiao.io/k/q5fvf7o) ![](assets/new.png)  
 - [2021-02-19-Privoxy-动态代理和广告过滤](https://toutiao.io/k/sfhgbu6) ![](assets/new.png)  
-- [2021-02-19-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
-- [2021-02-19-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
-- [2021-02-19-推荐-如何提升系统可用性？](https://toutiao.io/k/4whx0p6) ![](assets/new.png)  
-- [2021-02-19-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
 - [2021-02-19-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
+- [2021-02-19-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
+- [2021-02-19-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
+- [2021-02-19-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

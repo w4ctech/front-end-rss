@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-19 02:36:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-19 02:48:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -115,6 +115,7 @@
 - [【政采云前端团队】编写高质量可维护的代码：Awesome-TypeScript](https://www.ershicimi.com/p/0e0e4e00548bd0c316732a2a25594a04)
 - [【前端宇宙】推荐-7-个学习-TypeScript-的宝库，2021-是时候给自己加薪了！](https://www.ershicimi.com/p/b57c1a987fa377782b4e223a2eef1e46)
 - [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
+- [【掘金前端】Node.js-+-typescript-写一个命令批处理辅助工具](https://juejin.im/post/6930565860348461063)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -515,6 +516,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】阿里天猫国际技术部招（前端/服务端/算法）实习生了](https://www.v2ex.com/t/754161)
 - [【V2EX】远程全职Team247-又来寻找高/中/初级软件工程师啦～全栈方向早班工作制](https://www.v2ex.com/t/754127)
 - [【开发者头条】推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -596,7 +598,6 @@
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
 - [【V2EX】杭州盒马鲜生招聘-Java-工程师-P6-P8](https://www.v2ex.com/t/754147)
 - [【V2EX】这是一篇招聘贴,-坐标深圳南山，-Automizely，很缺人----](https://www.v2ex.com/t/754135)
-- [【V2EX】亚马逊面试题：尽量减少恶意软件的传播-II](https://www.v2ex.com/t/754111)
 - [【物联网智库】华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

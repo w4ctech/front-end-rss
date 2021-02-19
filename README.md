@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-19 15:56:25，:rocket: 更新条数: +4282， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-19 16:06:33，:rocket: 更新条数: +4283， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,8 @@
 </summary>
 
 
+- [2021-02-19-网易互娱技术中心-base-广州、杭州、上海-社招技术内推，-年后跳槽的小伙伴动起来~](https://www.v2ex.com/t/754424) ![](assets/new.png)  
+- [2021-02-19-怎么写代码才能让-springboot-应用进程停止啊](https://www.v2ex.com/t/754423) ![](assets/new.png)  
 - [2021-02-19-分享一款高仿-V2EX-且有望超越的开源论坛-Casbin-forum](https://www.v2ex.com/t/754421) ![](assets/new.png)  
 - [2021-02-19-CPU-Monkey-曝光-Apple-M1X-规格](https://www.v2ex.com/t/754420) ![](assets/new.png)  
 - [2021-02-19-深圳有会-GO-或者-discuz-的小伙伴吗](https://www.v2ex.com/t/754419) ![](assets/new.png)  
@@ -1030,8 +1032,6 @@
 - [2021-02-19-SpringBoot+Vue-豆宝社区前后端分离项目手把手实战系列教程-02---创建后端工程](https://www.v2ex.com/t/754405) ![](assets/new.png)  
 - [2021-02-19-上-4k-显示器，无法实现-60hz，好憋屈](https://www.v2ex.com/t/754403) ![](assets/new.png)  
 - [2021-02-19-Python-学习遇到瓶颈了，不知道往哪个方向发展](https://www.v2ex.com/t/754402) ![](assets/new.png)  
-- [2021-02-19-吐槽两句-@alexkuang-大佬搭建的-RSS-服务](https://www.v2ex.com/t/754399) ![](assets/new.png)  
-- [2021-02-19-华硕的-RX580-2048SP-8G-有希望黑苹果吗？](https://www.v2ex.com/t/754398) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1070,10 +1070,10 @@
 - [2021-02-19-如何学习新的编程语言？](https://toutiao.io/k/q5fvf7o) ![](assets/new.png)  
 - [2021-02-19-坑系列之-canal-的-json-解析-bug](https://toutiao.io/k/iwru0im) ![](assets/new.png)  
 - [2021-02-19-Privoxy-动态代理和广告过滤](https://toutiao.io/k/sfhgbu6) ![](assets/new.png)  
-- [2021-02-19-推荐-如何提升系统可用性？](https://toutiao.io/k/4whx0p6) ![](assets/new.png)  
-- [2021-02-19-推荐-Lucene-倒排索引原理](https://toutiao.io/k/ew5ozjp) ![](assets/new.png)  
 - [2021-02-19-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
-- [2021-02-19-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
+- [2021-02-19-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
+- [2021-02-19-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
+- [2021-02-19-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

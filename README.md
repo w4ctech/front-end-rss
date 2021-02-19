@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-19 22:08:29，:rocket: 更新条数: +4298， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-19 22:33:17，:rocket: 更新条数: +4298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1090,9 +1090,9 @@
 - [2021-02-19-Impala-3.4-在网易的最新实践](https://toutiao.io/k/473if07) ![](assets/new.png)  
 - [2021-02-19-坑系列之-canal-的-json-解析-bug](https://toutiao.io/k/iwru0im) ![](assets/new.png)  
 - [2021-02-19-Privoxy-动态代理和广告过滤](https://toutiao.io/k/sfhgbu6) ![](assets/new.png)  
-- [2021-02-19-推荐-最好的-IDEA-debug-长文？看完我佛了](https://toutiao.io/k/c2t9cp9) ![](assets/new.png)  
+- [2021-02-19-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
 - [2021-02-19-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
-- [2021-02-19-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) ![](assets/new.png)  
+- [2021-02-19-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
 - [2021-02-19-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

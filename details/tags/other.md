@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-19 22:08:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-19 22:33:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3336,16 +3336,16 @@
 - [2021-02-19-如何学习新的编程语言？](https://toutiao.io/k/q5fvf7o) 
 - [2021-02-19-Impala-3.4-在网易的最新实践](https://toutiao.io/k/473if07) 
 - [2021-02-19-Privoxy-动态代理和广告过滤](https://toutiao.io/k/sfhgbu6) 
-- [2021-02-19-推荐-最好的-IDEA-debug-长文？看完我佛了](https://toutiao.io/k/c2t9cp9) 
 - [2021-02-19-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) 
 - [2021-02-19-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) 
-- [2021-02-19-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) 
-- [2021-02-19-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) 
 - [2021-02-19-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) 
-- [2021-02-19-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) 
 - [2021-02-19-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) 
-- [2021-02-19-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) 
+- [2021-02-19-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) 
 - [2021-02-19-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) 
+- [2021-02-19-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) 
+- [2021-02-19-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) 
+- [2021-02-19-推荐-最好的-IDEA-debug-长文？看完我佛了](https://toutiao.io/k/c2t9cp9) 
+- [2021-02-19-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) 
 - [2021-02-19-首个针对苹果M1芯片的恶意软件来了!](https://sec.thief.one/article_content?a_id=76379d8410502cff7cbada74707c307f) 
 - [2021-02-19-加拿大首个比特币ETF交易开始数小时内达成近1亿美元交易量](https://sec.thief.one/article_content?a_id=fdfa35484e7ca40b759345e25a80f69a) 
 - [2021-02-19-因协警泄露个人信息-老婆要跟我离婚](https://sec.thief.one/article_content?a_id=3b17c55a897f8b8a8bf9e4ee3c3a1aa1) 

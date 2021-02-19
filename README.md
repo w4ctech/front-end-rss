@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-19 04:55:04，:rocket: 更新条数: +4297， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-19 05:04:06，:rocket: 更新条数: +4297， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,8 @@
 </summary>
 
 
+- [2021-02-19-熬夜肝了个-IDEA-插件整合程序员常用的工具](https://www.v2ex.com/t/754213) ![](assets/new.png)  
+- [2021-02-19-翻译：《实用的-Python-编程》01_07_Functions](https://www.v2ex.com/t/754212) ![](assets/new.png)  
 - [2021-02-19-请教关于档案的问题](https://www.v2ex.com/t/754211) ![](assets/new.png)  
 - [2021-02-19-四线城市外包公司五块钱买火星，后续……](https://www.v2ex.com/t/754210) ![](assets/new.png)  
 - [2021-02-19-网易云音乐-macOS-2.3.4_846_web-是不是有-Bug-呀？打不开了，-NSWindow-warning:-adding-an-unknown-subview](https://www.v2ex.com/t/754206) ![](assets/new.png)  
@@ -1030,8 +1032,6 @@
 - [2021-02-19-关于无顶层设计的公司内部独立系统调用的问题，求指点迷津](https://www.v2ex.com/t/754190) ![](assets/new.png)  
 - [2021-02-19-北京-酒仙桥-创业公司-内容流--Java](https://www.v2ex.com/t/754189) ![](assets/new.png)  
 - [2021-02-19-杭州-量化私募基金-云平台开发--60~120-万](https://www.v2ex.com/t/754188) ![](assets/new.png)  
-- [2021-02-19-实习-微软亚洲研究院-基于资源池化的硬件虚拟化技术研究实习生](https://www.v2ex.com/t/754187) ![](assets/new.png)  
-- [2021-02-19-口头“优化”人才的坑](https://www.v2ex.com/t/754185) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1090,10 +1090,10 @@
 - [2021-02-19-坑系列之-canal-的-json-解析-bug](https://toutiao.io/k/iwru0im) ![](assets/new.png)  
 - [2021-02-19-如何学习新的编程语言？](https://toutiao.io/k/q5fvf7o) ![](assets/new.png)  
 - [2021-02-19-Privoxy-动态代理和广告过滤](https://toutiao.io/k/sfhgbu6) ![](assets/new.png)  
+- [2021-02-19-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
+- [2021-02-19-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
 - [2021-02-19-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
 - [2021-02-19-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
-- [2021-02-19-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
-- [2021-02-19-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

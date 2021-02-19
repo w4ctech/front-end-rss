@@ -19481,6 +19481,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "ppt 的在线预览与编辑",
+        "link": "https://www.v2ex.com/t/754224",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "滨江区长河站白金海岸主卧转租 2250[随时可搬入]",
+        "link": "https://www.v2ex.com/t/754223",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "大家的第一套房都是怎么来的？",
+        "link": "https://www.v2ex.com/t/754222",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "在线求助，部门领导孤立老大，越过老大直接指挥干活，怎么破",
+        "link": "https://www.v2ex.com/t/754221",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "Google Drive 教育版即将取消无限空间",
+        "link": "https://www.v2ex.com/t/754220",
+        "date": "2021-02-19"
+      },
+      {
         "title": "[新加坡/上海] [20 薪] 区块链交易所 Bybit 大量 HC",
         "link": "https://www.v2ex.com/t/754219",
         "date": "2021-02-19"
@@ -19644,26 +19669,6 @@
         "title": "年后 eBay 上海研发中心(张江)大量招人 非 996 有股票",
         "link": "https://www.v2ex.com/t/754175",
         "date": "2021-02-19"
-      },
-      {
-        "title": "请问 IDEA 内有没有光标移动到黄色下划线处的快捷键？ F2 好像只能在红色中移动？",
-        "link": "https://www.v2ex.com/t/754173",
-        "date": "2021-02-19"
-      },
-      {
-        "title": "受到启发，实现了在浏览器用 VSCode 编辑并提交变更到 GitHub",
-        "link": "https://www.v2ex.com/t/754172",
-        "date": "2021-02-19"
-      },
-      {
-        "title": "m1 Macmini 接双显示器！是 bug？还是不支持？",
-        "link": "https://www.v2ex.com/t/754171",
-        "date": "2021-02-19"
-      },
-      {
-        "title": "Spug 开源运维项目被老男孩教育抄袭怎么办?",
-        "link": "https://www.v2ex.com/t/754170",
-        "date": "2021-02-19"
       }
     ]
   },
@@ -19671,7 +19676,108 @@
     "rss": "https://front-rss.herokuapp.com/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "Base-x 编码的奥秘 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14152&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecret-of-base-coding%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "给你的工艺品署个名吧 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14151&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-sign-git-commit%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "拼多多的期权、股权激励 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14150&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F199155606%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "自定义C/C++日志输出函数 (www.kymjs.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14149&url=https%3A%2F%2Fwww.kymjs.com%2Fcode%2F2020%2F08%2F07%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "外卖客户端容器化架构的演进 (tech.meituan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14148&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F09%2F30%2Fwaimai-mobile-architecture-evolution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "清华大学莫一林：信息物理系统中的安全控制算法 (tech.meituan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14147&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F09%2F30%2Fmeituan-top-talk-moyilin-cps.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "TCP 窗口缩放、时间戳和 SACK (linux.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14146&url=https%3A%2F%2Flinux.cn%2Farticle-12710-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "关于年终奖的故事 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14145&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FF3u7KhJaBUSPm6H-Fy3hQw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "个推异常值检测和实战应用 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14144&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F349477322%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "我的第一本英文技术书 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14143&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmy-first-english-tech-book%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "如何提升系统可用性？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14142&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-system-availability%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "网页出现不河蟹弹窗？那是被劫持了！ (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14141&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F348964013%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "到底什么是敏捷 (teobler.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14140&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210123-what-is-agile%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "有赞个性化推荐能力的演进与实践 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14139&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F347936335%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "写了十年技术博客，我收获了什么 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14138&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnical-wblog-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "疫情之下的科技普惠：阿里云科技驱动中小企业数字化 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14137&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F781545%3Futm_content%3Dg_1000235521%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "实操｜如何将 Containerd 用作 Kubernetes runtime (www.upyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14136&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F611%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "演进式数据架构 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14135&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fevolutionary-data-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "iOS 14 从 Android 中\"窃取\" 了这 8 个有用的功能 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14134&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFp8y8yyOeyW1aOLaS3TB8w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "Android各版本迭代信息集合 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14133&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsPWqE8h_HqBh4H5OGudKuQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
@@ -19724,13 +19830,13 @@
         "date": "2021-02-19"
       },
       {
-        "title": "内存耗尽后 Redis 会发生什么？",
-        "link": "https://toutiao.io/k/jaa74k6",
+        "title": "揭秘登上 2021 春晚舞台的黑科技：XR 技术",
+        "link": "https://toutiao.io/k/pj9g9f8",
         "date": "2021-02-19"
       },
       {
-        "title": "揭秘登上 2021 春晚舞台的黑科技：XR 技术",
-        "link": "https://toutiao.io/k/pj9g9f8",
+        "title": "内存耗尽后 Redis 会发生什么？",
+        "link": "https://toutiao.io/k/jaa74k6",
         "date": "2021-02-19"
       },
       {
@@ -19759,18 +19865,8 @@
         "date": "2021-02-19"
       },
       {
-        "title": "[推荐] Git 全栈开发使用指南",
-        "link": "https://toutiao.io/k/v4gks4h",
-        "date": "2021-02-19"
-      },
-      {
-        "title": "[推荐] Redis 遇到的那些坑",
-        "link": "https://toutiao.io/k/k4blfqn",
-        "date": "2021-02-19"
-      },
-      {
-        "title": "[推荐] Lucene 倒排索引原理",
-        "link": "https://toutiao.io/k/ew5ozjp",
+        "title": "[推荐] 用户画像从 0 到 100 的构建思路",
+        "link": "https://toutiao.io/k/wbatwrb",
         "date": "2021-02-19"
       },
       {
@@ -19779,23 +19875,13 @@
         "date": "2021-02-19"
       },
       {
-        "title": "[推荐] 用户画像从 0 到 100 的构建思路",
-        "link": "https://toutiao.io/k/wbatwrb",
-        "date": "2021-02-19"
-      },
-      {
         "title": "[推荐] Redis 集群搭建很 easy",
         "link": "https://toutiao.io/k/m4mw3sc",
         "date": "2021-02-19"
       },
       {
-        "title": "[推荐] 阅读源码的真正价值",
-        "link": "https://toutiao.io/k/yupb5ya",
-        "date": "2021-02-19"
-      },
-      {
-        "title": "[推荐] 一文带你了解推荐系统之标签体系",
-        "link": "https://toutiao.io/k/nyb3xq7",
+        "title": "[推荐] 3+1 保障：高可用系统稳定性是如何炼成的？",
+        "link": "https://toutiao.io/k/u8lcu6b",
         "date": "2021-02-19"
       },
       {
@@ -19804,13 +19890,18 @@
         "date": "2021-02-19"
       },
       {
-        "title": "[推荐] 引入 Gateway 网关，这些坑一定要学会避开",
-        "link": "https://toutiao.io/k/60gr6a8",
+        "title": "[推荐] 一文带你了解推荐系统之标签体系",
+        "link": "https://toutiao.io/k/nyb3xq7",
         "date": "2021-02-19"
       },
       {
-        "title": "[推荐] 2021 春节书单：110 位 CEO 心中的 NO.1",
-        "link": "https://toutiao.io/k/p6kzudl",
+        "title": "[推荐] Redis 遇到的那些坑",
+        "link": "https://toutiao.io/k/k4blfqn",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "[推荐] Git 全栈开发使用指南",
+        "link": "https://toutiao.io/k/v4gks4h",
         "date": "2021-02-19"
       },
       {
@@ -19819,8 +19910,28 @@
         "date": "2021-02-19"
       },
       {
-        "title": "[推荐] 3+1 保障：高可用系统稳定性是如何炼成的？",
-        "link": "https://toutiao.io/k/u8lcu6b",
+        "title": "[推荐] 阅读源码的真正价值",
+        "link": "https://toutiao.io/k/yupb5ya",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "[推荐] 2021 春节书单：110 位 CEO 心中的 NO.1",
+        "link": "https://toutiao.io/k/p6kzudl",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "[推荐] 引入 Gateway 网关，这些坑一定要学会避开",
+        "link": "https://toutiao.io/k/60gr6a8",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "[推荐] 最好的 IDEA debug 长文？看完我佛了",
+        "link": "https://toutiao.io/k/c2t9cp9",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "[推荐] Lucene 倒排索引原理",
+        "link": "https://toutiao.io/k/ew5ozjp",
         "date": "2021-02-19"
       }
     ]

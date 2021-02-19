@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-19 13:01:49，:rocket: 更新条数: +4053， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-19 13:09:27，:rocket: 更新条数: +4056， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,9 @@
 </summary>
 
 
+- [2021-02-19-北京｜低风险区返京旅客登机须持-7-日内核酸证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBZw0ZBLzpVWveSoveLkx210219&isfromapp=1) ![](assets/new.png)  
+- [2021-02-19-河北｜石家庄地铁全面恢复运营](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGU2uPR3UvcKgyL9YWm6u210219&isfromapp=1) ![](assets/new.png)  
+- [2021-02-18-黑龙江｜新增-12-例治愈出院确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtismUh0McEHZt0zTpG8Qq3210219&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -989,6 +992,8 @@
 </summary>
 
 
+- [2021-02-19-想做与会做的问题：你只有明确要做什么，才会去做什么](https://www.v2ex.com/t/754386) ![](assets/new.png)  
+- [2021-02-19-V2EX-开始支持-http3-了。](https://www.v2ex.com/t/754385) ![](assets/new.png)  
 - [2021-02-19-上海/新加坡-Artefact-法资数据咨询团队招聘---数据开发，数据科学家，咨询顾问...](https://www.v2ex.com/t/754384) ![](assets/new.png)  
 - [2021-02-19-Ethernet-Over-Walkie-Talkie？有没有一种低频无线网络桥接方式能够穿透楼层,-例如基于对讲机的以太网?](https://www.v2ex.com/t/754383) ![](assets/new.png)  
 - [2021-02-19-git-snapshot](https://www.v2ex.com/t/754382) ![](assets/new.png)  
@@ -1007,8 +1012,6 @@
 - [2021-02-19-GCP-的免费试用时间从一年变成了-90-天](https://www.v2ex.com/t/754364) ![](assets/new.png)  
 - [2021-02-19-windows-测试集群用什么管理比较合适？微软的-system-center-有人用过么？](https://www.v2ex.com/t/754361) ![](assets/new.png)  
 - [2021-02-19-社会的氛围确实在逐渐变差了！==](https://www.v2ex.com/t/754359) ![](assets/new.png)  
-- [2021-02-19-昨天在-CH-上偶遇大佬在布道抗量子计算机破解的数字货币](https://www.v2ex.com/t/754358) ![](assets/new.png)  
-- [2021-02-19-上海金科路-外企-招聘-Java-React-Salesforce-开发-955+可全国远程办公](https://www.v2ex.com/t/754357) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,10 +1070,10 @@
 - [2021-02-19-如何学习新的编程语言？](https://toutiao.io/k/q5fvf7o) ![](assets/new.png)  
 - [2021-02-19-坑系列之-canal-的-json-解析-bug](https://toutiao.io/k/iwru0im) ![](assets/new.png)  
 - [2021-02-19-Privoxy-动态代理和广告过滤](https://toutiao.io/k/sfhgbu6) ![](assets/new.png)  
-- [2021-02-19-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
-- [2021-02-19-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
 - [2021-02-19-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
-- [2021-02-19-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
+- [2021-02-19-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
+- [2021-02-19-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
+- [2021-02-19-推荐-Lucene-倒排索引原理](https://toutiao.io/k/ew5ozjp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

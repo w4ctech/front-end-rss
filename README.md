@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-19 07:48:37，:rocket: 更新条数: +4297， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-19 08:05:23，:rocket: 更新条数: +4297， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,11 +65,9 @@
 </summary>
 
 
-- [2021-02-19-2月18日全国新增新冠10例-均由境外输入](https://m.caixin.com/m/2021-02-19/101664479.html) ![](assets/new.png)  
 - [2021-02-19-【境内疫情观察】全国新增10例境外输入病例（2月18日）](http://m.database.caixin.com/m/2021-02-19/101664607.html) ![](assets/new.png)  
 - [2021-02-19-130多国仍未启动疫苗接种-美拨款超16亿美元扩大检测|大流行手记（2月18日）](https://m.caixin.com/m/2021-02-19/101664470.html) ![](assets/new.png)  
 - [2021-02-18-通化新冠“超级传播”细节公布-一传播链涉141人](https://m.caixin.com/m/2021-02-18/101664220.html) ![](assets/new.png)  
-- [2021-02-18-最新海外疫情：新冠感染近1.1亿-累计死亡超242万](http://m.international.caixin.com/m/2021-02-18/101664245.html) ![](assets/new.png)  
 - [2021-02-18-【境内疫情观察】全国高风险地区清零（2月17日）](http://m.database.caixin.com/m/2021-02-18/101664199.html) ![](assets/new.png)  
 - [2021-02-18-全球上周新增病例下降16%-南非拟接种强生新冠疫苗|大流行手记（2月17日）](https://m.caixin.com/m/2021-02-18/101664038.html) ![](assets/new.png)  
 - [2021-02-17-【境内疫情观察】全国新增7例境外输入病例（2月16日）](http://m.database.caixin.com/m/2021-02-17/101663911.html) ![](assets/new.png)  
@@ -85,6 +83,8 @@
 - [2021-02-13-聚焦|张文宏：抗新冠一年回顾与展望](http://m.opinion.caixin.com/m/2021-02-13/101663439.html) ![](assets/new.png)  
 - [2021-02-13-【境内疫情观察】全国新增8例境外输入病例（2月12日）](http://m.database.caixin.com/m/2021-02-13/101663455.html) ![](assets/new.png)  
 - [2021-02-13-巴西变异病毒传染力强3倍-研究指法国前年11月已现疑似病例丨大流行手记（2月12日）](https://m.caixin.com/m/2021-02-13/101663431.html) ![](assets/new.png)  
+- [2021-02-12-【境内疫情观察】全国连续5日无新增本土病例（2月11日）](http://m.database.caixin.com/m/2021-02-12/101663358.html) ![](assets/new.png)  
+- [2021-02-12-德国延长封城期-美CDC称打疫苗后密接无须隔离|大流行手记（2月11日）](https://m.caixin.com/m/2021-02-12/101663309.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -892,11 +892,11 @@
 </summary>
 
 
-- [2021-02-18-手写一个promise](https://juejin.im/post/6930866211819356167) ![](assets/new.png)  
-- [2021-02-18-记es6箭头函数特性](https://juejin.im/post/6930864903402029064) ![](assets/new.png)  
-- [2021-02-18-图解Promise](https://juejin.im/post/6930859627961647117) ![](assets/new.png)  
-- [2021-02-18-浅拷贝的原理、实现及限制](https://juejin.im/post/6930859134958960654) ![](assets/new.png)  
-- [2021-02-18-ES5.1和ES6中创建对象的区别](https://juejin.im/post/6930858235197030413) ![](assets/new.png)  
+- [2021-02-18-备战2021：vite2插件开发指南](https://juejin.im/post/6930878407559348231) ![](assets/new.png)  
+- [2021-02-18-React组件库完整搭建流程（持续更新）](https://juejin.im/post/6930876951439605767) ![](assets/new.png)  
+- [2021-02-18-记一次echarts移动端的问题和解决](https://juejin.im/post/6930870914892431367) ![](assets/new.png)  
+- [2021-02-18-shell脚本](https://juejin.im/post/6930867965202006024) ![](assets/new.png)  
+- [2021-02-18-let-和-const-命令](https://juejin.im/post/6930866915183165447) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1012,6 +1012,13 @@
 </summary>
 
 
+- [2021-02-19-请教一个短距离用于替代网线的稳定无线网络桥接方案](https://www.v2ex.com/t/754285) ![](assets/new.png)  
+- [2021-02-19-删除合并记录「git-rebase--i」只保留最新一个](https://www.v2ex.com/t/754283) ![](assets/new.png)  
+- [2021-02-19-杭州涂鸦智能Hybrid-前端开发工程师](https://www.v2ex.com/t/754282) ![](assets/new.png)  
+- [2021-02-19-Vercel-添加-domain-好像并不会核查当前用户是否是这个-domain-的-owner？](https://www.v2ex.com/t/754281) ![](assets/new.png)  
+- [2021-02-19-小米决定造车怎么看？](https://www.v2ex.com/t/754280) ![](assets/new.png)  
+- [2021-02-19-感觉-mx-master3-和-mx-anywhere-3-的滚轮在-mac-下用问题](https://www.v2ex.com/t/754279) ![](assets/new.png)  
+- [2021-02-19-智能设备语音助手是否有靠谱的第三方服务？](https://www.v2ex.com/t/754278) ![](assets/new.png)  
 - [2021-02-19-这个整机配置现在能卖多少钱？](https://www.v2ex.com/t/754276) ![](assets/new.png)  
 - [2021-02-19-LastPass-免费版要限制了，换了-microsoft-authenticator，-chrome-下的密码自动填充功能不是很灵光啊？](https://www.v2ex.com/t/754275) ![](assets/new.png)  
 - [2021-02-19-IsssxFrp-内网穿透-实现内网穿透异地远程桌面](https://www.v2ex.com/t/754274) ![](assets/new.png)  
@@ -1025,13 +1032,6 @@
 - [2021-02-19-实时公交-api](https://www.v2ex.com/t/754262) ![](assets/new.png)  
 - [2021-02-19-阿里云-ECS-云服务器新手上路](https://www.v2ex.com/t/754261) ![](assets/new.png)  
 - [2021-02-19-Office365-的-Excel-居然有专属函数。。。一般版本用不了](https://www.v2ex.com/t/754260) ![](assets/new.png)  
-- [2021-02-19-投影仪有没有推荐的？](https://www.v2ex.com/t/754258) ![](assets/new.png)  
-- [2021-02-19-兄弟们我实在憋不住了，刚过完春节，我想知道「人生的意义是什么」](https://www.v2ex.com/t/754256) ![](assets/new.png)  
-- [2021-02-19-大家有统计过过年发红包的钱的总额吗？](https://www.v2ex.com/t/754255) ![](assets/new.png)  
-- [2021-02-19-微博的同学看过来：只有昵称怎么登陆](https://www.v2ex.com/t/754252) ![](assets/new.png)  
-- [2021-02-19-为什么-Google-Doc-无法解决输入法不能跟随光标的问题？](https://www.v2ex.com/t/754251) ![](assets/new.png)  
-- [2021-02-19-关于-1password-定价的疑惑](https://www.v2ex.com/t/754250) ![](assets/new.png)  
-- [2021-02-19-求大佬指教，-Swift-服务端-vapor4.0-websocket-client-问题](https://www.v2ex.com/t/754249) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1090,10 +1090,10 @@
 - [2021-02-19-如何学习新的编程语言？](https://toutiao.io/k/q5fvf7o) ![](assets/new.png)  
 - [2021-02-19-坑系列之-canal-的-json-解析-bug](https://toutiao.io/k/iwru0im) ![](assets/new.png)  
 - [2021-02-19-Privoxy-动态代理和广告过滤](https://toutiao.io/k/sfhgbu6) ![](assets/new.png)  
-- [2021-02-19-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
-- [2021-02-19-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
-- [2021-02-19-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
-- [2021-02-19-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
+- [2021-02-19-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
+- [2021-02-19-推荐-最好的-IDEA-debug-长文？看完我佛了](https://toutiao.io/k/c2t9cp9) ![](assets/new.png)  
+- [2021-02-19-推荐-Lucene-倒排索引原理](https://toutiao.io/k/ew5ozjp) ![](assets/new.png)  
+- [2021-02-19-推荐-如何提升系统可用性？](https://toutiao.io/k/4whx0p6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

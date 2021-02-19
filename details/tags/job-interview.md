@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-19 03:41:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-19 03:48:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -21,6 +21,6 @@
 - [2021-02-10-我和面试官之间关于操作系统的一场对弈！写了很久，希望对你有帮助！](https://www.ershicimi.com/p/7019f8518c80fa542fab4a0eb2e7c134) 
 - [2021-02-09-BOSS直聘变BOSS直约，这种招聘太荒唐](https://www.ershicimi.com/p/594e3696906f6c8e9698cebf484a7c2a) 
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
+- [2021-02-19-FinTech-社区-招聘：-FOF-投资研究员-北京](https://www.v2ex.com/t/754198) 
 - [2021-02-19-叮咚买菜上海内推-3-5-年-Java-/架构-招聘](https://www.v2ex.com/t/754165) 
-- [2021-02-19-杭州盒马鲜生招聘-Java-工程师-P6-P8](https://www.v2ex.com/t/754147) 
 - [2021-02-09-华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987) 

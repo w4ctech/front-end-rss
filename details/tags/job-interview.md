@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-19 05:08:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-19 05:29:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -23,5 +23,4 @@
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-02-19-云南腾云信息产业公司招聘大数据工程师](https://www.v2ex.com/t/754205) 
 - [2021-02-19-FinTech-社区-招聘：-FOF-投资研究员-北京](https://www.v2ex.com/t/754198) 
-- [2021-02-19-叮咚买菜上海内推-3-5-年-Java-/架构-招聘](https://www.v2ex.com/t/754165) 
 - [2021-02-09-华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987) 

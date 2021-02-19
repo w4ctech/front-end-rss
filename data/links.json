@@ -16637,13 +16637,13 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
-        "title": "全国｜新增确诊病例 11 例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidHyG7QIPVf0WySYMI8lB210218&isfromapp=1",
-        "date": "2021-02-18"
+        "title": "河北｜石家庄地铁全面恢复运营",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGU2uPR3UvcKgyL9YWm6u210219&isfromapp=1",
+        "date": "2021-02-19"
       },
       {
-        "title": "广东｜新增境外输入确诊病例 3 例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG4Uy8DJoHcYWTvsqAqjG210218&isfromapp=1",
+        "title": "全国｜新增确诊病例 11 例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidHyG7QIPVf0WySYMI8lB210218&isfromapp=1",
         "date": "2021-02-18"
       },
       {
@@ -20712,6 +20712,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "自学 UI/UX 两个月了，怎样持续进步？",
+        "link": "https://www.v2ex.com/t/754133",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "关于社保欠缴，想咨询一下大家",
+        "link": "https://www.v2ex.com/t/754132",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "pptp 连上了，但是上不了网",
+        "link": "https://www.v2ex.com/t/754130",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "[扩展坞问题] da300 不支持 m1 吗",
+        "link": "https://www.v2ex.com/t/754129",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "[杭州][ Java p6/p7] 阿里巴巴数据技术及产品部-云上数据中台",
+        "link": "https://www.v2ex.com/t/754128",
+        "date": "2021-02-19"
+      },
+      {
         "title": "[远程][全职]Team247 又来寻找高/中/初级软件工程师啦～(全栈方向)(早班工作制)",
         "link": "https://www.v2ex.com/t/754127",
         "date": "2021-02-19"
@@ -20885,31 +20910,6 @@
         "title": "腾讯云学生机升级之后带宽这么大了吗",
         "link": "https://www.v2ex.com/t/754084",
         "date": "2021-02-18"
-      },
-      {
-        "title": "电信精品网已死",
-        "link": "https://www.v2ex.com/t/754083",
-        "date": "2021-02-18"
-      },
-      {
-        "title": "[源码] 免费阿里云 CDN 图床-用 unicloud 开发环境搭建",
-        "link": "https://www.v2ex.com/t/754082",
-        "date": "2021-02-18"
-      },
-      {
-        "title": "一枚渣渣前端近期遇到的问题求大佬解惑",
-        "link": "https://www.v2ex.com/t/754080",
-        "date": "2021-02-18"
-      },
-      {
-        "title": "萌新求教",
-        "link": "https://www.v2ex.com/t/754079",
-        "date": "2021-02-18"
-      },
-      {
-        "title": "其他/Other 的过度磁盘占用",
-        "link": "https://www.v2ex.com/t/754078",
-        "date": "2021-02-18"
       }
     ]
   },
@@ -20918,6 +20918,16 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "Base-x 编码的奥秘 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14152&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecret-of-base-coding%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "给你的工艺品署个名吧 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14151&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-sign-git-commit%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-02-19"
+      },
       {
         "title": "拼多多的期权、股权激励 (zhuanlan.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14150&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F199155606%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -21007,16 +21017,6 @@
         "title": "Android各版本迭代信息集合 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14133&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsPWqE8h_HqBh4H5OGudKuQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2021-02-19"
-      },
-      {
-        "title": "谷歌：未来 Android 手机将获得 4 年软件更新 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14132&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_U8ZMEvOWtgmBgaMNSGBcg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-02-19"
-      },
-      {
-        "title": "17 张程序员壁纸（使用频率很高） (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14131&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoYTqjKDEJxhSKziOy6lI0w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-02-19"
       }
     ]
   },
@@ -21041,23 +21041,13 @@
         "date": "2021-02-19"
       },
       {
-        "title": "单链表是否有环，两种方式搞定",
-        "link": "https://toutiao.io/k/e1mui5x",
-        "date": "2021-02-19"
-      },
-      {
         "title": "这些不可不知的 JVM 知识，我都用思维导图整理好了",
         "link": "https://toutiao.io/k/vxuckw2",
         "date": "2021-02-19"
       },
       {
-        "title": "为什么要读 nodejs 源码？",
-        "link": "https://toutiao.io/k/km4egwy",
-        "date": "2021-02-19"
-      },
-      {
-        "title": "揭秘登上 2021 春晚舞台的黑科技：XR 技术",
-        "link": "https://toutiao.io/k/pj9g9f8",
+        "title": "单链表是否有环，两种方式搞定",
+        "link": "https://toutiao.io/k/e1mui5x",
         "date": "2021-02-19"
       },
       {
@@ -21066,8 +21056,18 @@
         "date": "2021-02-19"
       },
       {
+        "title": "为什么要读 nodejs 源码？",
+        "link": "https://toutiao.io/k/km4egwy",
+        "date": "2021-02-19"
+      },
+      {
         "title": "Go 语言中时间轮的实现",
         "link": "https://toutiao.io/k/rdyr6nl",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "揭秘登上 2021 春晚舞台的黑科技：XR 技术",
+        "link": "https://toutiao.io/k/pj9g9f8",
         "date": "2021-02-19"
       },
       {
@@ -21081,18 +21081,28 @@
         "date": "2021-02-19"
       },
       {
-        "title": "[推荐] Redis 集群搭建很 easy",
-        "link": "https://toutiao.io/k/m4mw3sc",
+        "title": "内存耗尽后 Redis 会发生什么？",
+        "link": "https://toutiao.io/k/jaa74k6",
         "date": "2021-02-19"
       },
       {
-        "title": "[推荐] 用户画像从 0 到 100 的构建思路",
-        "link": "https://toutiao.io/k/wbatwrb",
+        "title": "如何培养你的团队？",
+        "link": "https://toutiao.io/k/vnl0hl2",
         "date": "2021-02-19"
       },
       {
-        "title": "[推荐] 阅读源码的真正价值",
-        "link": "https://toutiao.io/k/yupb5ya",
+        "title": "如何学习新的编程语言？",
+        "link": "https://toutiao.io/k/q5fvf7o",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "Privoxy 动态代理和广告过滤",
+        "link": "https://toutiao.io/k/sfhgbu6",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "[推荐] 如何提升系统可用性？",
+        "link": "https://toutiao.io/k/4whx0p6",
         "date": "2021-02-19"
       },
       {
@@ -21106,23 +21116,13 @@
         "date": "2021-02-19"
       },
       {
-        "title": "[推荐] 引入 Gateway 网关，这些坑一定要学会避开",
-        "link": "https://toutiao.io/k/60gr6a8",
-        "date": "2021-02-19"
-      },
-      {
         "title": "[推荐] 2021 春节书单：110 位 CEO 心中的 NO.1",
         "link": "https://toutiao.io/k/p6kzudl",
         "date": "2021-02-19"
       },
       {
-        "title": "[推荐] 每个程序员都应该知道的 latency time",
-        "link": "https://toutiao.io/k/ol06bm3",
-        "date": "2021-02-19"
-      },
-      {
-        "title": "[推荐] 如何提升系统可用性？",
-        "link": "https://toutiao.io/k/4whx0p6",
+        "title": "[推荐] 用户画像从 0 到 100 的构建思路",
+        "link": "https://toutiao.io/k/wbatwrb",
         "date": "2021-02-19"
       },
       {
@@ -21131,8 +21131,13 @@
         "date": "2021-02-19"
       },
       {
-        "title": "[推荐] 深入了解 SSH",
-        "link": "https://toutiao.io/k/8y463n2",
+        "title": "[推荐] Redis 集群搭建很 easy",
+        "link": "https://toutiao.io/k/m4mw3sc",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "[推荐] 每个程序员都应该知道的 latency time",
+        "link": "https://toutiao.io/k/ol06bm3",
         "date": "2021-02-19"
       },
       {
@@ -21143,6 +21148,21 @@
       {
         "title": "[推荐] Lucene 倒排索引原理",
         "link": "https://toutiao.io/k/ew5ozjp",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "[推荐] 阅读源码的真正价值",
+        "link": "https://toutiao.io/k/yupb5ya",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "[推荐] 深入了解 SSH",
+        "link": "https://toutiao.io/k/8y463n2",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "[推荐] 引入 Gateway 网关，这些坑一定要学会避开",
+        "link": "https://toutiao.io/k/60gr6a8",
         "date": "2021-02-19"
       }
     ]

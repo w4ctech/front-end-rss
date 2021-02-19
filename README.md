@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-19 12:10:09，:rocket: 更新条数: +4304， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-19 12:41:37，:rocket: 更新条数: +4302， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,8 +96,8 @@
 </summary>
 
 
+- [2021-02-19-北京｜低风险区返京旅客登机须持-7-日内核酸证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBZw0ZBLzpVWveSoveLkx210219&isfromapp=1) ![](assets/new.png)  
 - [2021-02-19-河北｜石家庄地铁全面恢复运营](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGU2uPR3UvcKgyL9YWm6u210219&isfromapp=1) ![](assets/new.png)  
-- [2021-02-19-全国｜新增确诊病例-10-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaJPR2XJlhdkYjyO8Epm5210219&isfromapp=1) ![](assets/new.png)  
 - [2021-02-18-黑龙江｜新增-12-例治愈出院确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtismUh0McEHZt0zTpG8Qq3210219&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
@@ -1012,6 +1012,12 @@
 </summary>
 
 
+- [2021-02-19-前端技术方面的性能优化有哪些？](https://www.v2ex.com/t/754379) ![](assets/new.png)  
+- [2021-02-19-求推荐-移动上网卡套餐](https://www.v2ex.com/t/754378) ![](assets/new.png)  
+- [2021-02-19-求问-mac-上有什么截图软件能在截图后自动添加水印图片？](https://www.v2ex.com/t/754377) ![](assets/new.png)  
+- [2021-02-19-公司强制加班，想被辞退拿赔偿，有什么合情合理又不和公司撕破脸的方法](https://www.v2ex.com/t/754376) ![](assets/new.png)  
+- [2021-02-19-深圳南山附近工作，去哪里租房好些呢，价位大概-2k~3k-左右](https://www.v2ex.com/t/754375) ![](assets/new.png)  
+- [2021-02-19-爬虫工程师想转中间件研发或者数据库研发](https://www.v2ex.com/t/754371) ![](assets/new.png)  
 - [2021-02-19-阿里云北京/杭州数据库产品-Gartner2020-行业领导者，欢迎各路大神一起来修福报](https://www.v2ex.com/t/754370) ![](assets/new.png)  
 - [2021-02-19-腾讯深圳/西安-招聘-web-前端工程师（西安也招后台）](https://www.v2ex.com/t/754369) ![](assets/new.png)  
 - [2021-02-19-过年写了个-app玩具-QuickTime-Player-看视频可以用外挂字幕了](https://www.v2ex.com/t/754368) ![](assets/new.png)  
@@ -1026,12 +1032,6 @@
 - [2021-02-19-大家帮忙决策一下两个-offers](https://www.v2ex.com/t/754356) ![](assets/new.png)  
 - [2021-02-19-升级到-macOS-Big-Sur-11.2.1-风扇狂转-发热严重](https://www.v2ex.com/t/754355) ![](assets/new.png)  
 - [2021-02-19-上海-区块链相关前端开发工程师（React-or-Vue）](https://www.v2ex.com/t/754354) ![](assets/new.png)  
-- [2021-02-19-百度北京-云原生研发岗、产品岗大量-HC，快来快来！](https://www.v2ex.com/t/754351) ![](assets/new.png)  
-- [2021-02-19-听说-V-站人手一个导航？看看我的-xxoo](https://www.v2ex.com/t/754350) ![](assets/new.png)  
-- [2021-02-19-如何才能入选-iOS-默认浏览器？](https://www.v2ex.com/t/754349) ![](assets/new.png)  
-- [2021-02-19-迫于快有娃，准备买车，有什么要注意的？](https://www.v2ex.com/t/754348) ![](assets/new.png)  
-- [2021-02-19-广州前端求内推](https://www.v2ex.com/t/754347) ![](assets/new.png)  
-- [2021-02-19-求助：公司宣布临时转为-996，你们会怎么办？](https://www.v2ex.com/t/754346) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1090,10 +1090,10 @@
 - [2021-02-19-如何学习新的编程语言？](https://toutiao.io/k/q5fvf7o) ![](assets/new.png)  
 - [2021-02-19-坑系列之-canal-的-json-解析-bug](https://toutiao.io/k/iwru0im) ![](assets/new.png)  
 - [2021-02-19-Privoxy-动态代理和广告过滤](https://toutiao.io/k/sfhgbu6) ![](assets/new.png)  
+- [2021-02-19-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
+- [2021-02-19-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
+- [2021-02-19-推荐-如何提升系统可用性？](https://toutiao.io/k/4whx0p6) ![](assets/new.png)  
 - [2021-02-19-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
-- [2021-02-19-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
-- [2021-02-19-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
-- [2021-02-19-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

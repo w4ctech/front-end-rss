@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-19 12:10:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-19 12:41:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -454,6 +454,7 @@
 - [【掘金前端】前端性能检测工具-----Web-Vitals](https://juejin.im/post/6930903996127248392)
 - [【掘金前端】前端性能优化指南8--页面呈现过程之网络加载篇](https://juejin.im/post/6930890886616350734)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】前端技术方面的性能优化有哪些？](https://www.v2ex.com/t/754379)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -595,7 +596,6 @@
 - [【互联网架构师】BOSS直聘变BOSS直约，这种招聘太荒唐](https://www.ershicimi.com/p/594e3696906f6c8e9698cebf484a7c2a)
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
 - [【V2EX】腾讯深圳/西安-招聘-web-前端工程师（西安也招后台）](https://www.v2ex.com/t/754369)
-- [【V2EX】大厂面试黑幕：面试完美也白搭，最后败在-HR-这一关……](https://www.v2ex.com/t/754330)
 - [【安全热点】招聘-|-富友招聘Java代码审计工程师](https://sec.thief.one/article_content?a_id=8883f1774534b9541807fa0edb5657df)
 - [【物联网智库】华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987)
 - [......【查看更多】......](./details/tags/job-interview.md)

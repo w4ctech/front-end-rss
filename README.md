@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-19 00:08:49，:rocket: 更新条数: +4013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-19 00:18:12，:rocket: 更新条数: +4262， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -96,6 +96,9 @@
 </summary>
 
 
+- [2021-02-18-全国｜新增确诊病例-11-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidHyG7QIPVf0WySYMI8lB210218&isfromapp=1) ![](assets/new.png)  
+- [2021-02-18-广东｜新增境外输入确诊病例-3-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG4Uy8DJoHcYWTvsqAqjG210218&isfromapp=1) ![](assets/new.png)  
+- [2021-02-17-黑龙江｜新增境外输入确诊病例-1-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWETocZOLsgD5Hdali02210218&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -662,6 +665,26 @@
 </summary>
 
 
+- [2021-02-01-凹凸技术揭秘-·-技术精进与业务发展两不误](https://aotu.io/notes/2021/02/01/both-tech-n-biz/) ![](assets/new.png)  
+- [2021-01-14-凹凸技术揭秘-·-Taro-·-开放式跨端跨框架之路](https://aotu.io/notes/2021/01/14/taro-history/) ![](assets/new.png)  
+- [2021-01-14-凹凸技术揭秘-·-基础服务体系-·-构筑服务端技术中枢](https://aotu.io/notes/2021/01/14/exa-server/) ![](assets/new.png)  
+- [2021-01-06-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) ![](assets/new.png)  
+- [2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) ![](assets/new.png)  
+- [2020-12-31-凹凸技术揭秘-·-Deco-智能代码-·-开启产研效率革命](https://aotu.io/notes/2020/12/31/deco/) ![](assets/new.png)  
+- [2020-12-31-凹凸技术揭秘·羚珑页面可视化·成长蜕变之路](https://aotu.io/notes/2020/12/31/ling-atom-design/) ![](assets/new.png)  
+- [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) ![](assets/new.png)  
+- [2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) ![](assets/new.png)  
+- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
+- [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) ![](assets/new.png)  
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
+- [2020-11-05-EaseJs-中-regX-/-regY-的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1031,16 +1054,16 @@
 - [2021-02-19-分析-AGI-纹理数据并提升-GPU-性能](https://toutiao.io/k/iyhr7xd) ![](assets/new.png)  
 - [2021-02-19-人话解读-GPLv3](https://toutiao.io/k/bfxlqqw) ![](assets/new.png)  
 - [2021-02-19-三年数据沉淀！2020-年度测试行业问卷调查结果火热出炉](https://toutiao.io/k/ksij2x0) ![](assets/new.png)  
+- [2021-02-19-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
 - [2021-02-19-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
-- [2021-02-19-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
+- [2021-02-19-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
+- [2021-02-19-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
+- [2021-02-19-推荐-如何提升系统可用性？](https://toutiao.io/k/4whx0p6) ![](assets/new.png)  
 - [2021-02-19-推荐-Lucene-倒排索引原理](https://toutiao.io/k/ew5ozjp) ![](assets/new.png)  
 - [2021-02-19-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
-- [2021-02-19-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
-- [2021-02-19-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
-- [2021-02-19-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
-- [2021-02-19-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
-- [2021-02-19-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
 - [2021-02-19-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
+- [2021-02-19-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
+- [2021-02-19-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1075,14 @@
 </summary>
 
 
+- [2021-02-19-新加坡电信巨头近13万客户信息遭泄露,涉身份证号等](https://sec.thief.one/article_content?a_id=b0f71065f66485170a02db80d61e0cab) ![](assets/new.png)  
+- [2021-02-18-【安全圈】8名黑客,盗窃美国名人的1亿多美元虚拟货币](https://sec.thief.one/article_content?a_id=d7ddf6d34e284bb7622ed47fb27b98e6) ![](assets/new.png)  
+- [2021-02-18-3-天新增-4700-Star-!开源实时屏幕共享工具在-GitHub-火了](https://sec.thief.one/article_content?a_id=bfe3f84b5dfe8e68ccc3ecefaa86cf59) ![](assets/new.png)  
+- [2021-02-18-【应急响应】windows入侵检查流程](https://sec.thief.one/article_content?a_id=fdeeec0fb14be49c9e35f8fd6cc7c3e1) ![](assets/new.png)  
+- [2021-02-18-圣路易斯州联邦储蓄行行长称比特币不会对美元统治地位构成挑战](https://sec.thief.one/article_content?a_id=3736375c348bfcb455a327c1ab0bd77e) ![](assets/new.png)  
+- [2021-02-18-科创板225家上市企业有效发明专利排行榜-奇安信位列第五](https://sec.thief.one/article_content?a_id=4393ce6f6777ac1d0512d655848880c5) ![](assets/new.png)  
+- [2021-02-18-内推岗位-|-大量招HW人员,待遇极高](https://sec.thief.one/article_content?a_id=7c67f569993cc6b97dac913fc6be8bc6) ![](assets/new.png)  
+- [2021-02-18-Project-TKBOX:蛰伏数年的“短信收割机”](https://sec.thief.one/article_content?a_id=540666c6ba27f692c0b44662368776e6) ![](assets/new.png)  
 - [2021-02-18-Win10强制更新,永久卸载-Adobe-Flash-Player](https://sec.thief.one/article_content?a_id=0aec5db17acb6d7ab77ad63b02d12c8c) ![](assets/new.png)  
 - [2021-02-18-当面对动态参数爆破时,我们该如何处理?](https://sec.thief.one/article_content?a_id=0b4bf55d72702cfd506d5d15b65cbb22) ![](assets/new.png)  
 - [2021-02-18-如何使用RESTler对云服务中的REST-API进行模糊测试](https://sec.thief.one/article_content?a_id=8e7da14cfcd66971174c9480347cd099) ![](assets/new.png)  
@@ -1064,14 +1095,6 @@
 - [2021-02-18-起亚汽车遭遇勒索软件攻击,赎金高达2000万美元](https://sec.thief.one/article_content?a_id=914c8238896bf4804c62fa127d196c73) ![](assets/new.png)  
 - [2021-02-18-iOS-14.5将引入隐私浏览新功能](https://sec.thief.one/article_content?a_id=87ffbb4bf7fe5ec12a02564ba0431cb9) ![](assets/new.png)  
 - [2021-02-18-干货-|-渗透测试全流程归纳总结](https://sec.thief.one/article_content?a_id=8bbbc9beebe870d2cef168ecd74e1943) ![](assets/new.png)  
-- [2021-02-18-邑安科技安全团队祝大家开工大吉!](https://sec.thief.one/article_content?a_id=937ee0e833ae550b50f9a90041097f20) ![](assets/new.png)  
-- [2021-02-18-地震监测预警面临三大网络安全威胁](https://sec.thief.one/article_content?a_id=532c73942136f59087a2fd6b65ffa58a) ![](assets/new.png)  
-- [2021-02-18-印度男子遭勒索,谁料这个老练的黑客是自己11岁的儿子](https://sec.thief.one/article_content?a_id=6ae32f94be6d276df373f017694eccbe) ![](assets/new.png)  
-- [2021-02-18-正月初七,开工大吉](https://sec.thief.one/article_content?a_id=1a2a9b1f46394b3e88a323f3f911a687) ![](assets/new.png)  
-- [2021-02-18-早晨起来,拥抱太阳,满满的正能量!](https://sec.thief.one/article_content?a_id=9301a42b037cba03f8a11dd891d2ac13) ![](assets/new.png)  
-- [2021-02-18-【视频】|-Python:多层装饰器](https://sec.thief.one/article_content?a_id=d711e888063f260b67d4ac194d925b57) ![](assets/new.png)  
-- [2021-02-18-有奖吐槽-|-寻找“他”生活里的“漏洞”](https://sec.thief.one/article_content?a_id=f82bb0941103e8e4067633978727e48e) ![](assets/new.png)  
-- [2021-02-18-钓鱼邮件使全球企业年损失达17.7亿美元,居众网络攻击形式之最](https://sec.thief.one/article_content?a_id=b5218926e7e218ed4c4aa0908d0b4bb4) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

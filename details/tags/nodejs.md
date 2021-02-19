@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-19 02:48:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-19 02:54:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -34,4 +34,6 @@
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2021-02-03-Node-如何开发一个命令行工具](https://www.ershicimi.com/p/722fd10dbd2adcf728f10b3cf9b16b3b) 
 - [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) 
+- [2021-02-18-Node-RED系列（三）：Node-RED公共节点的使用](https://juejin.im/post/6930599349026193421) 
+- [2021-02-18-Node-RED系列（二）：Node-RED的面板的操作](https://juejin.im/post/6930598580726005767) 
 - [2021-02-19-为什么要读-nodejs-源码？](https://toutiao.io/k/km4egwy) 

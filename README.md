@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-19 01:55:20，:rocket: 更新条数: +4290， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-19 02:01:45，:rocket: 更新条数: +4296， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,11 @@
 </summary>
 
 
+- [2021-02-19-远程全职Team247-又来寻找高/中/初级软件工程师啦～全栈方向早班工作制](https://www.v2ex.com/t/754127) ![](assets/new.png)  
+- [2021-02-19-单身的各位都多大年龄了？对比下，也许心里好受些。](https://www.v2ex.com/t/754126) ![](assets/new.png)  
+- [2021-02-19-合肥和南京怎么选？](https://www.v2ex.com/t/754125) ![](assets/new.png)  
+- [2021-02-19-开朗的性格需要什么来支撑？](https://www.v2ex.com/t/754124) ![](assets/new.png)  
+- [2021-02-19-外地驾照快要过期，如何在深圳更新？](https://www.v2ex.com/t/754123) ![](assets/new.png)  
 - [2021-02-19-不懂就问，我想抓-LOL-韩国服的-ip-集，怎么才能获取到](https://www.v2ex.com/t/754122) ![](assets/new.png)  
 - [2021-02-19-关于开通-ECG](https://www.v2ex.com/t/754119) ![](assets/new.png)  
 - [2021-02-19-求助-关于-Spofity-与-Apple-ID-的问题](https://www.v2ex.com/t/754117) ![](assets/new.png)  
@@ -1027,11 +1032,6 @@
 - [2021-02-19-遇到不讲理租客，决定以后出租房子都一年一签然后每年涨价了。](https://www.v2ex.com/t/754105) ![](assets/new.png)  
 - [2021-02-19-初八上班啦，开工大吉。大家的开门红包是多少呢？](https://www.v2ex.com/t/754104) ![](assets/new.png)  
 - [2021-02-19-求助：如何卸载卡巴斯基杀毒软件](https://www.v2ex.com/t/754103) ![](assets/new.png)  
-- [2021-02-19-相亲没感情](https://www.v2ex.com/t/754102) ![](assets/new.png)  
-- [2021-02-19-现在-chrome-是不是依旧没有办法让音频自动播放？](https://www.v2ex.com/t/754101) ![](assets/new.png)  
-- [2021-02-19-大家的新房子都是如何装修的，自己设计找人-or-找装修公司？有什么坑可以避免？求支招！](https://www.v2ex.com/t/754100) ![](assets/new.png)  
-- [2021-02-19-精美的淘客项目完全开源啦，确定不来围观吗](https://www.v2ex.com/t/754098) ![](assets/new.png)  
-- [2021-02-19-Iphone12-或是-ios14.4-间接性无法使用微信语音](https://www.v2ex.com/t/754095) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1081,19 +1081,19 @@
 - [2021-02-19-这些不可不知的-JVM-知识，我都用思维导图整理好了](https://toutiao.io/k/vxuckw2) ![](assets/new.png)  
 - [2021-02-19-为什么要读-nodejs-源码？](https://toutiao.io/k/km4egwy) ![](assets/new.png)  
 - [2021-02-19-揭秘登上-2021-春晚舞台的黑科技：XR-技术](https://toutiao.io/k/pj9g9f8) ![](assets/new.png)  
+- [2021-02-19-敏捷团队实践](https://toutiao.io/k/6mfogkx) ![](assets/new.png)  
 - [2021-02-19-Go-语言中时间轮的实现](https://toutiao.io/k/rdyr6nl) ![](assets/new.png)  
-- [2021-02-19-推荐-如何提升系统可用性？](https://toutiao.io/k/4whx0p6) ![](assets/new.png)  
-- [2021-02-19-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
-- [2021-02-19-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
-- [2021-02-19-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
-- [2021-02-19-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
-- [2021-02-19-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
-- [2021-02-19-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
-- [2021-02-19-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
-- [2021-02-19-推荐-Lucene-倒排索引原理](https://toutiao.io/k/ew5ozjp) ![](assets/new.png)  
-- [2021-02-19-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
+- [2021-02-19-Impala-3.4-在网易的最新实践](https://toutiao.io/k/473if07) ![](assets/new.png)  
+- [2021-02-19-坑系列之-canal-的-json-解析-bug](https://toutiao.io/k/iwru0im) ![](assets/new.png)  
 - [2021-02-19-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
 - [2021-02-19-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
+- [2021-02-19-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
+- [2021-02-19-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
+- [2021-02-19-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
+- [2021-02-19-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
+- [2021-02-19-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
+- [2021-02-19-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
+- [2021-02-19-推荐-如何提升系统可用性？](https://toutiao.io/k/4whx0p6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

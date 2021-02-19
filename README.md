@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-19 05:49:23，:rocket: 更新条数: +4054， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-19 06:05:11，:rocket: 更新条数: +4300， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -675,6 +675,26 @@
 </summary>
 
 
+- [2021-02-01-凹凸技术揭秘-·-技术精进与业务发展两不误](https://aotu.io/notes/2021/02/01/both-tech-n-biz/) ![](assets/new.png)  
+- [2021-01-14-凹凸技术揭秘-·-Taro-·-开放式跨端跨框架之路](https://aotu.io/notes/2021/01/14/taro-history/) ![](assets/new.png)  
+- [2021-01-14-凹凸技术揭秘-·-基础服务体系-·-构筑服务端技术中枢](https://aotu.io/notes/2021/01/14/exa-server/) ![](assets/new.png)  
+- [2021-01-06-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) ![](assets/new.png)  
+- [2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) ![](assets/new.png)  
+- [2020-12-31-凹凸技术揭秘-·-Deco-智能代码-·-开启产研效率革命](https://aotu.io/notes/2020/12/31/deco/) ![](assets/new.png)  
+- [2020-12-31-凹凸技术揭秘·羚珑页面可视化·成长蜕变之路](https://aotu.io/notes/2020/12/31/ling-atom-design/) ![](assets/new.png)  
+- [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) ![](assets/new.png)  
+- [2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) ![](assets/new.png)  
+- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
+- [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) ![](assets/new.png)  
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
+- [2020-11-05-EaseJs-中-regX-/-regY-的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -992,8 +1012,12 @@
 </summary>
 
 
+- [2021-02-19-过年后突然想脱单，码农+内向，注册了某-平台，现在被电话轰炸，又不想脱单了额。讨厌沟通。](https://www.v2ex.com/t/754228) ![](assets/new.png)  
+- [2021-02-19-都-1202-年了,如何禁止-chrome-自动播放视频](https://www.v2ex.com/t/754227) ![](assets/new.png)  
+- [2021-02-19-上海/开发主管/预算-30-40k/房地产科技方向小型创业公司诚寻-CTO](https://www.v2ex.com/t/754226) ![](assets/new.png)  
+- [2021-02-19-请问怎么根据接口找到对应的处理代码在哪](https://www.v2ex.com/t/754225) ![](assets/new.png)  
 - [2021-02-19-ppt-的在线预览与编辑](https://www.v2ex.com/t/754224) ![](assets/new.png)  
-- [2021-02-19-滨江区长河站白金海岸主卧转租-2250随时可搬入](https://www.v2ex.com/t/754223) ![](assets/new.png)  
+- [2021-02-19-转租滨江区长河站白金海岸主卧转租-2250-随时可搬入](https://www.v2ex.com/t/754223) ![](assets/new.png)  
 - [2021-02-19-大家的第一套房都是怎么来的？](https://www.v2ex.com/t/754222) ![](assets/new.png)  
 - [2021-02-19-在线求助，部门领导孤立老大，越过老大直接指挥干活，怎么破](https://www.v2ex.com/t/754221) ![](assets/new.png)  
 - [2021-02-19-Google-Drive-教育版即将取消无限空间](https://www.v2ex.com/t/754220) ![](assets/new.png)  
@@ -1008,10 +1032,6 @@
 - [2021-02-19-四线城市外包公司五块钱买火星，后续……](https://www.v2ex.com/t/754210) ![](assets/new.png)  
 - [2021-02-19-网易云音乐-macOS-2.3.4_846_web-是不是有-Bug-呀？打不开了，-NSWindow-warning:-adding-an-unknown-subview](https://www.v2ex.com/t/754206) ![](assets/new.png)  
 - [2021-02-19-云南腾云信息产业公司招聘大数据工程师](https://www.v2ex.com/t/754205) ![](assets/new.png)  
-- [2021-02-19-爱奇艺劣化投屏视频流导致投屏卡顿](https://www.v2ex.com/t/754204) ![](assets/new.png)  
-- [2021-02-19-开源年前做了一个外卖红包封面小程序，每天饭钱有了，没想到同行是冤家...](https://www.v2ex.com/t/754203) ![](assets/new.png)  
-- [2021-02-19-考驾照失败之后现在想到学车就感觉恐惧](https://www.v2ex.com/t/754202) ![](assets/new.png)  
-- [2021-02-19-莉莉丝内推上海前端开发工程师（React&RN）](https://www.v2ex.com/t/754201) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1070,10 +1090,10 @@
 - [2021-02-19-坑系列之-canal-的-json-解析-bug](https://toutiao.io/k/iwru0im) ![](assets/new.png)  
 - [2021-02-19-如何学习新的编程语言？](https://toutiao.io/k/q5fvf7o) ![](assets/new.png)  
 - [2021-02-19-Privoxy-动态代理和广告过滤](https://toutiao.io/k/sfhgbu6) ![](assets/new.png)  
-- [2021-02-19-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
-- [2021-02-19-推荐-如何提升系统可用性？](https://toutiao.io/k/4whx0p6) ![](assets/new.png)  
-- [2021-02-19-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
+- [2021-02-19-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
 - [2021-02-19-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
+- [2021-02-19-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
+- [2021-02-19-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

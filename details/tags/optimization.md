@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-19 18:08:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-19 18:34:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -16,3 +16,9 @@
 - [2016-03-16-前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/) 
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
+- [2021-02-19-实现图文消息的正确加载](https://juejin.im/post/6930921612917080072) 
+- [2021-02-19-前端性能检测工具-----Web-Vitals](https://juejin.im/post/6930903996127248392) 
+- [2021-02-19-前端性能优化指南8--页面呈现过程之网络加载篇](https://juejin.im/post/6930890886616350734) 
+- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2021-02-19-c#，-c/pp-平台有哪些高性能的嵌入式脚本？](https://www.v2ex.com/t/754407) 
+- [2021-02-19-实习-微软亚洲研究院-机器学习系统性能评测及相关研究实习生](https://www.v2ex.com/t/754388) 

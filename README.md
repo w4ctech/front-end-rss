@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-20 11:48:09，:rocket: 更新条数: +954， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-20 12:05:50，:rocket: 更新条数: +954， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -989,6 +989,7 @@
 </summary>
 
 
+- [2021-02-20-向各位老哥请教下-nest.js-全局变量的问题](https://www.v2ex.com/t/754716) ![](assets/new.png)  
 - [2021-02-20-社招-哔哩哔哩技术岗招聘（算法、工程岗均有-hc）](https://www.v2ex.com/t/754715) ![](assets/new.png)  
 - [2021-02-20-区间合并-断断续续想了-2-天-执行时间竟然-100%](https://www.v2ex.com/t/754714) ![](assets/new.png)  
 - [2021-02-20-糟心的离职](https://www.v2ex.com/t/754713) ![](assets/new.png)  
@@ -1008,7 +1009,6 @@
 - [2021-02-20-es-中分页是怎么使用到分片的呢](https://www.v2ex.com/t/754695) ![](assets/new.png)  
 - [2021-02-20-你们平时都是从哪里找学习视频的呢？](https://www.v2ex.com/t/754694) ![](assets/new.png)  
 - [2021-02-20-B-站老哥有木有?你家小电视在-ShieldTV-上无法快进快退暂停~](https://www.v2ex.com/t/754693) ![](assets/new.png)  
-- [2021-02-20-初中学历不在工厂还能做什么职业呢？各位大佬](https://www.v2ex.com/t/754692) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1046,11 +1046,11 @@
 - [2021-02-20-C++-folly-库解读之-Fbstring：一个完美替代-std::string-的库（下）](https://toutiao.io/k/t4f1zbf) ![](assets/new.png)  
 - [2021-02-20-各位大V，留点德，别割韭菜了](https://toutiao.io/k/7h5v5l8) ![](assets/new.png)  
 - [2021-02-20-.NET-中使用-DebuggerDisplay-轻松定制调试](https://toutiao.io/k/1vynbj6) ![](assets/new.png)  
-- [2021-02-20-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
 - [2021-02-20-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
 - [2021-02-20-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
-- [2021-02-20-推荐-Go-工程化（二）：项目目录结构](https://toutiao.io/k/9p2dvmm) ![](assets/new.png)  
+- [2021-02-20-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
 - [2021-02-20-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
+- [2021-02-20-推荐-Go-工程化（二）：项目目录结构](https://toutiao.io/k/9p2dvmm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

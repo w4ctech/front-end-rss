@@ -4070,6 +4070,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "向各位老哥请教下 nest.js 全局变量的问题",
+        "link": "https://www.v2ex.com/t/754716",
+        "date": "2021-02-20"
+      },
+      {
         "title": "[社招] 哔哩哔哩技术岗招聘（算法、工程岗均有 hc）",
         "link": "https://www.v2ex.com/t/754715",
         "date": "2021-02-20"
@@ -4263,11 +4268,6 @@
         "title": "怎么才能安全的给 spring bean 的静态变量注入值？",
         "link": "https://www.v2ex.com/t/754667",
         "date": "2021-02-20"
-      },
-      {
-        "title": "[深圳 / 杭州] 阿里巴巴速卖通 (AliExpress) 社交互动业务 P6~P8 Java HC 充足",
-        "link": "https://www.v2ex.com/t/754666",
-        "date": "2021-02-20"
       }
     ]
   },
@@ -4358,11 +4358,6 @@
         "date": "2021-02-20"
       },
       {
-        "title": "[推荐] Git 全栈开发使用指南",
-        "link": "https://toutiao.io/k/v4gks4h",
-        "date": "2021-02-20"
-      },
-      {
         "title": "[推荐] 3+1 保障：高可用系统稳定性是如何炼成的？",
         "link": "https://toutiao.io/k/u8lcu6b",
         "date": "2021-02-20"
@@ -4373,13 +4368,23 @@
         "date": "2021-02-20"
       },
       {
-        "title": "[推荐] Go 工程化（二）：项目目录结构",
-        "link": "https://toutiao.io/k/9p2dvmm",
+        "title": "[推荐] 2021 春节书单：110 位 CEO 心中的 NO.1",
+        "link": "https://toutiao.io/k/p6kzudl",
         "date": "2021-02-20"
       },
       {
         "title": "[推荐] 阅读源码的真正价值",
         "link": "https://toutiao.io/k/yupb5ya",
+        "date": "2021-02-20"
+      },
+      {
+        "title": "[推荐] Go 工程化（二）：项目目录结构",
+        "link": "https://toutiao.io/k/9p2dvmm",
+        "date": "2021-02-20"
+      },
+      {
+        "title": "[推荐] 深入了解 SSH",
+        "link": "https://toutiao.io/k/8y463n2",
         "date": "2021-02-20"
       },
       {
@@ -4393,23 +4398,8 @@
         "date": "2021-02-20"
       },
       {
-        "title": "[推荐] Redis 集群搭建很 easy",
-        "link": "https://toutiao.io/k/m4mw3sc",
-        "date": "2021-02-20"
-      },
-      {
-        "title": "[推荐] 2021 春节书单：110 位 CEO 心中的 NO.1",
-        "link": "https://toutiao.io/k/p6kzudl",
-        "date": "2021-02-20"
-      },
-      {
-        "title": "[推荐] 深入了解 SSH",
-        "link": "https://toutiao.io/k/8y463n2",
-        "date": "2021-02-20"
-      },
-      {
-        "title": "[推荐] Redis 遇到的那些坑",
-        "link": "https://toutiao.io/k/k4blfqn",
+        "title": "[推荐] 最好的 IDEA debug 长文？看完我佛了",
+        "link": "https://toutiao.io/k/c2t9cp9",
         "date": "2021-02-20"
       },
       {
@@ -4418,18 +4408,28 @@
         "date": "2021-02-20"
       },
       {
-        "title": "[推荐] 最好的 IDEA debug 长文？看完我佛了",
-        "link": "https://toutiao.io/k/c2t9cp9",
-        "date": "2021-02-20"
-      },
-      {
         "title": "[推荐] 堪称神器的命令行工具系列之 curl",
         "link": "https://toutiao.io/k/paa1opr",
         "date": "2021-02-20"
       },
       {
+        "title": "[推荐] Redis 遇到的那些坑",
+        "link": "https://toutiao.io/k/k4blfqn",
+        "date": "2021-02-20"
+      },
+      {
         "title": "[推荐] 一文带你了解推荐系统之标签体系",
         "link": "https://toutiao.io/k/nyb3xq7",
+        "date": "2021-02-20"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建很 easy",
+        "link": "https://toutiao.io/k/m4mw3sc",
+        "date": "2021-02-20"
+      },
+      {
+        "title": "[推荐] Git 全栈开发使用指南",
+        "link": "https://toutiao.io/k/v4gks4h",
         "date": "2021-02-20"
       }
     ]

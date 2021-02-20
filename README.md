@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-20 09:41:00，:rocket: 更新条数: +3774， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-20 09:47:26，:rocket: 更新条数: +3544， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,14 +39,14 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)  
+- [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -372,26 +372,6 @@
 </summary>
 
 
-- [2021-02-01-凹凸技术揭秘-·-技术精进与业务发展两不误](https://aotu.io/notes/2021/02/01/both-tech-n-biz/) ![](assets/new.png)  
-- [2021-01-14-凹凸技术揭秘-·-Taro-·-开放式跨端跨框架之路](https://aotu.io/notes/2021/01/14/taro-history/) ![](assets/new.png)  
-- [2021-01-14-凹凸技术揭秘-·-基础服务体系-·-构筑服务端技术中枢](https://aotu.io/notes/2021/01/14/exa-server/) ![](assets/new.png)  
-- [2021-01-06-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) ![](assets/new.png)  
-- [2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) ![](assets/new.png)  
-- [2020-12-31-凹凸技术揭秘-·-Deco-智能代码-·-开启产研效率革命](https://aotu.io/notes/2020/12/31/deco/) ![](assets/new.png)  
-- [2020-12-31-凹凸技术揭秘·羚珑页面可视化·成长蜕变之路](https://aotu.io/notes/2020/12/31/ling-atom-design/) ![](assets/new.png)  
-- [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) ![](assets/new.png)  
-- [2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) ![](assets/new.png)  
-- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
-- [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-05-EaseJs-中-regX-/-regY-的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -469,11 +449,6 @@
 </summary>
 
 
-- [2021-02-20-React-为什么不推荐修改-state？](https://juejin.im/post/6931265430459777037) ![](assets/new.png)  
-- [2021-02-20-【Rust-中文精选-1-月刊】-本月简报：官方动态](https://juejin.im/post/6931256302450507784) ![](assets/new.png)  
-- [2021-02-20-使用express框架+mongodb快速搭建后端项目](https://juejin.im/post/6931253375195414535) ![](assets/new.png)  
-- [2021-02-19-ES6学习笔记——async](https://juejin.im/post/6931251514425999368) ![](assets/new.png)  
-- [2021-02-19-奇怪的知识——位掩码](https://juejin.im/post/6931250132861648910) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -549,6 +524,7 @@
 </summary>
 
 
+- [2021-02-20-你们的-MBP-也是这样吗？](https://www.v2ex.com/t/754688) ![](assets/new.png)  
 - [2021-02-20-Oculus-Rift-S-的-USB-接头坏了有什么地方可以维修吗？](https://www.v2ex.com/t/754687) ![](assets/new.png)  
 - [2021-02-20-为什么影视侵权都是告知采集资源的影视站而不是存储资源的资源站](https://www.v2ex.com/t/754686) ![](assets/new.png)  
 - [2021-02-20--一面数据-|-深圳-又是一年招聘季~来砸简历呀！](https://www.v2ex.com/t/754685) ![](assets/new.png)  
@@ -568,7 +544,6 @@
 - [2021-02-20-吐槽一下-iPhone12-的-AC+](https://www.v2ex.com/t/754665) ![](assets/new.png)  
 - [2021-02-20-实习支付宝广告事业部招聘工程/算法同学](https://www.v2ex.com/t/754664) ![](assets/new.png)  
 - [2021-02-20-曝光一个钓鱼骗子网站-www.hostskilful.com](https://www.v2ex.com/t/754663) ![](assets/new.png)  
-- [2021-02-20-infinityfree.net-支持免费一键部署-FreshRSS](https://www.v2ex.com/t/754662) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -633,6 +608,26 @@
 </summary>
 
 
+- [2021-02-16-任正非首提“南泥湾”计划，华为推“智慧养猪”，不只为赚钱这么简单……](https://www.ershicimi.com/p/eb2e57e571bfc6212b65fc8a033a3336) ![](assets/new.png)  
+- [2021-02-16-TikTok在美逃过一劫，但在印度……](https://www.ershicimi.com/p/fc6df8da7be77a7f8a2c3b8f4eea976f) ![](assets/new.png)  
+- [2021-02-15-《唐宫夜宴》爆火！5G+AR让少女们从盛唐穿越而来](https://www.ershicimi.com/p/b176f07becc2599efefe9d69427e61d6) ![](assets/new.png)  
+- [2021-02-15-视频彩铃，在5G时代能否迎来春天？](https://www.ershicimi.com/p/c6522a45a1c30680c1a74fa565604403) ![](assets/new.png)  
+- [2021-02-14-三分之一的前辈已经倒下，1600家物联网平台将何去何从？【物女心经】](https://www.ershicimi.com/p/3e3f42950056d194eba0c6df6eedfc3e) ![](assets/new.png)  
+- [2021-02-14-英伟达收购-Arm-悬了？高通-Google-微软都反对，美国政府已展开深入调查](https://www.ershicimi.com/p/baf3a22253989c3d1f1b33ba89dba248) ![](assets/new.png)  
+- [2021-02-13-任正非宣布华为成立“煤炭军团”，5G如何赋能千年古老行业？](https://www.ershicimi.com/p/cccff9f552e2875f3341070296567b95) ![](assets/new.png)  
+- [2021-02-13-百度被曝将成立芯片公司！头部互联网玩家，为何纷纷入局造芯？](https://www.ershicimi.com/p/922ce44fac6d0f6dbdc6df7fc423e108) ![](assets/new.png)  
+- [2021-02-12-拜登“送祝福”？叫停特朗普微信和TikTok禁令，还承诺解决全球芯片短缺问题](https://www.ershicimi.com/p/2641ecc249b25cc1f998a231d0d2eb70) ![](assets/new.png)  
+- [2021-02-12-一顿丰盛的年夜饭经历了多少物联网技术的“洗礼”？](https://www.ershicimi.com/p/389275692b1bf4930e839c7d4ab97bfe) ![](assets/new.png)  
+- [2021-02-11-物联网智库给各位“智友”们拜年啦！](https://www.ershicimi.com/p/9421a0dda6c582a190c55f50c9d7784e) ![](assets/new.png)  
+- [2021-02-10-智能家居的“战火”，从“后装”烧到了“前装”市场](https://www.ershicimi.com/p/233f1a826ac6b72b55ce52e16eff15b5) ![](assets/new.png)  
+- [2021-02-10-移远通信率先推出支持3GPP-R16协议的第二代5G模组](https://www.ershicimi.com/p/1a48c90182a01528130b3f76c979edf5) ![](assets/new.png)  
+- [2021-02-09-华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987) ![](assets/new.png)  
+- [2021-02-09-重磅！2020无锡物联网产业集群十件大事](https://www.ershicimi.com/p/d4daf00a77de4ed790a9378bf0319172) ![](assets/new.png)  
+- [2021-02-09-巨龙通信的成与败](https://www.ershicimi.com/p/7dfa845bfbccf6027cd594dc67a645d2) ![](assets/new.png)  
+- [2021-02-08-UWB定位技术靠“找东西”开辟百亿美元市场，苹果/三星已入局，国内厂商等待何时?](https://www.ershicimi.com/p/197e9b90c98d273ef9d536d82ae6b110) ![](assets/new.png)  
+- [2021-02-08-激战工业物联网未来，平台商的“制胜之道”](https://www.ershicimi.com/p/50976922c22b520a8e2bcbf77775a2cd) ![](assets/new.png)  
+- [2021-02-08-全球5G测速启示：运营商能否摆脱同质化竞争？](https://www.ershicimi.com/p/7c75c99553756f8526b2ede118031c29) ![](assets/new.png)  
+- [2021-02-07-信号！工业互联网向纵深跃迁，2021将是“软件定义工控”拐点之年【物女心经】](https://www.ershicimi.com/p/961452f6fc6bbab3433448bbfb81ac3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

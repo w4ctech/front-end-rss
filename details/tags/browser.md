@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-20 19:04:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-20 19:24:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -17,6 +17,8 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-02-20-Linux-系统里有没有类似-windows-系统上的-Proxifier-的程序？？](https://www.v2ex.com/t/754761) 
+- [2021-02-20-怎样获取浏览器当前的-url?](https://www.v2ex.com/t/754723) 
 - [2021-02-20-信息安全漏洞周报2021年第7期](https://sec.thief.one/article_content?a_id=6301e16fea89bbf9f01fb636d50bd3b7) 
 - [2021-02-20-百度安全再次亮相安全顶级会议NDSS--研究幽灵代码利用片段检测的...](https://sec.thief.one/article_content?a_id=a2bffdb123ed7551ca2e1e285681cb1f) 
 - [2021-02-20-安全资讯|看看最近发生的事儿~](https://sec.thief.one/article_content?a_id=f0682e71ba7d356e742cc18f3d066766) 

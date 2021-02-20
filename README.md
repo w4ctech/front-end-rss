@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-20 02:47:04，:rocket: 更新条数: +911， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-20 02:53:54，:rocket: 更新条数: +705， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,12 +39,12 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
@@ -652,26 +652,6 @@
 </summary>
 
 
-- [2021-02-01-凹凸技术揭秘-·-技术精进与业务发展两不误](https://aotu.io/notes/2021/02/01/both-tech-n-biz/) ![](assets/new.png)  
-- [2021-01-14-凹凸技术揭秘-·-Taro-·-开放式跨端跨框架之路](https://aotu.io/notes/2021/01/14/taro-history/) ![](assets/new.png)  
-- [2021-01-14-凹凸技术揭秘-·-基础服务体系-·-构筑服务端技术中枢](https://aotu.io/notes/2021/01/14/exa-server/) ![](assets/new.png)  
-- [2021-01-06-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) ![](assets/new.png)  
-- [2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) ![](assets/new.png)  
-- [2020-12-31-凹凸技术揭秘-·-Deco-智能代码-·-开启产研效率革命](https://aotu.io/notes/2020/12/31/deco/) ![](assets/new.png)  
-- [2020-12-31-凹凸技术揭秘·羚珑页面可视化·成长蜕变之路](https://aotu.io/notes/2020/12/31/ling-atom-design/) ![](assets/new.png)  
-- [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) ![](assets/new.png)  
-- [2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) ![](assets/new.png)  
-- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
-- [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) ![](assets/new.png)  
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
-- [2020-11-05-EaseJs-中-regX-/-regY-的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -776,6 +756,26 @@
 </summary>
 
 
+- [2021-02-15-平均-15144-元、软件工程师占比最高，2021-年-2-月程序员工资最新出炉！](https://www.ershicimi.com/p/c31b7f26b35a1ca02e09651d4e2e1fce) ![](assets/new.png)  
+- [2021-02-15-涨姿势了！delete后加-limit是个好习惯么？](https://www.ershicimi.com/p/1e1b6eda07b97f8188b38e66518d76d7) ![](assets/new.png)  
+- [2021-02-15-领导叫我要好好带新人。。。](https://www.ershicimi.com/p/d638cab15b309e0c245b44c302b38d61) ![](assets/new.png)  
+- [2021-02-11-【新春福利】2021就要牛转钱坤！您的新春红包待领取>>>](https://www.ershicimi.com/p/b0d539d14a7695e66051e6ad9237cba1) ![](assets/new.png)  
+- [2021-02-11-Java-集合处理/-空值处理/-异常处理，使用心得分享！](https://www.ershicimi.com/p/c28936c6700c20a47529f20edc374792) ![](assets/new.png)  
+- [2021-02-10-阿里技术小哥，写了一个“​废话生成器”！火爆内网，演绎了什么叫“阿里味“！](https://www.ershicimi.com/p/2c386e8b578c21177a59bf0c845cc992) ![](assets/new.png)  
+- [2021-02-10-分库分表-vs-NewSQL，怎么选择？](https://www.ershicimi.com/p/5295462bd943ecea34dd40d26e76cdf1) ![](assets/new.png)  
+- [2021-02-10-我和面试官之间关于操作系统的一场对弈！写了很久，希望对你有帮助！](https://www.ershicimi.com/p/7019f8518c80fa542fab4a0eb2e7c134) ![](assets/new.png)  
+- [2021-02-09-BOSS直聘变BOSS直约，这种招聘太荒唐](https://www.ershicimi.com/p/594e3696906f6c8e9698cebf484a7c2a) ![](assets/new.png)  
+- [2021-02-09-K8S-还没用，K9S-又是什么鬼？](https://www.ershicimi.com/p/620047585c85ae06e45092b2f80c7cdb) ![](assets/new.png)  
+- [2021-02-09-全球当下最厉害的14位程序员，说没听过简直离谱~](https://www.ershicimi.com/p/ced8eb5c372a860348a753e1619c47a1) ![](assets/new.png)  
+- [2021-02-08-说实话，DataGrip真得牛逼，只是你不会用而已~](https://www.ershicimi.com/p/18faa84f94d52ee248254cbb62fe674c) ![](assets/new.png)  
+- [2021-02-08-IntelliJ-IDEA-查看类继承关系图，太强大了！](https://www.ershicimi.com/p/09effa9a36ff558a269070328999f27a) ![](assets/new.png)  
+- [2021-02-08-让程序员崩溃的一句话。。。](https://www.ershicimi.com/p/09a397453f7fda05d49bd3fd83f5c7a7) ![](assets/new.png)  
+- [2021-02-07-你还在用命令看日志？快用-Kibana-吧，一张图片胜过千万行日志！](https://www.ershicimi.com/p/691df37a095fd16c9c2f799e1625996b) ![](assets/new.png)  
+- [2021-02-07-推荐一款神仙颜值的-Redis-客户端工具](https://www.ershicimi.com/p/09d44983eb7e0ee8f8c1875f8c58b028) ![](assets/new.png)  
+- [2021-02-07-职近10年被查出学历虚假，公司还能解雇吗？](https://www.ershicimi.com/p/17570d83e9b751c2f71ad25f692deb75) ![](assets/new.png)  
+- [2021-02-06-9名程序员被抓！这次我并不同情他们！](https://www.ershicimi.com/p/fd65d35b8a72f80e809312cffff969cd) ![](assets/new.png)  
+- [2021-02-06-我们公司放弃了微服务，重回单体架构](https://www.ershicimi.com/p/5bd6cfcc8456f4de8f3ff97b42edb69b) ![](assets/new.png)  
+- [2021-02-06-2021-年-Web-开发的-7-大趋势，我只能说牛逼！](https://www.ershicimi.com/p/1d777d54716915f6fbcf467e6c5bff68) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -787,6 +787,26 @@
 </summary>
 
 
+- [2021-02-18-应用上云2小时烧掉近50万，创始人：差点破产，简直噩梦](https://www.ershicimi.com/p/55b32fa76b5860a3f961ae89d5fd82dd) ![](assets/new.png)  
+- [2021-02-18-InfoQ-编程语言-2-月排行榜，更好的投票活动来了](https://www.ershicimi.com/p/e56f69e5169f081b032f35d7c1fa33ba) ![](assets/new.png)  
+- [2021-02-18-15-个常见的-Node.js-面试问题及答案](https://www.ershicimi.com/p/28bf51b6e65a98ba0e0d667f97b27218) ![](assets/new.png)  
+- [2021-02-18-2020-年十大热门机器学习项目](https://www.ershicimi.com/p/5aeaa294b3751d614d441d80a23ebe58) ![](assets/new.png)  
+- [2021-02-17-蚂蚁Ant-Design遭删库；俄罗斯：不排除在面对敌对行动时切断外国互联网服务-|-程序员开工指南](https://www.ershicimi.com/p/3ce715452de612a1946485dfd8fa4ec6) ![](assets/new.png)  
+- [2021-02-16-Linux-操作系统太难？先爬过这-6-个陡坡-｜-极客时间](https://www.ershicimi.com/p/cb4bb30df610c46b3c1a887e1f417e30) ![](assets/new.png)  
+- [2021-02-15-这些垃圾代码是谁写的？哦，原来小丑竟是我自己](https://www.ershicimi.com/p/820dbede2dab9e23a1cbd51e6314302c) ![](assets/new.png)  
+- [2021-02-14-爱情才是程序员的第一生产力](https://www.ershicimi.com/p/3cb51c38ce05ff1f81f44a236cfdc97e) ![](assets/new.png)  
+- [2021-02-13-“就地过年，我觉得挺爽的”](https://www.ershicimi.com/p/fee2e122d7a6b07eb2693993b7b60ab9) ![](assets/new.png)  
+- [2021-02-12-今天你开奖了吗？细数大厂春节红包背后的技术支撑](https://www.ershicimi.com/p/59060cd03965cd1218044a21f60a218d) ![](assets/new.png)  
+- [2021-02-11-当个积极废人！2021打工人Flag图鉴](https://www.ershicimi.com/p/401022c43cbaeecab2f5bfb5816bdb93) ![](assets/new.png)  
+- [2021-02-11-建在大数据上的郑州地铁](https://www.ershicimi.com/p/272b8678318c35a68b6fbd16f46d91ee) ![](assets/new.png)  
+- [2021-02-11-可信编程-–-Rust语言开发的实践和愿景](https://www.ershicimi.com/p/faa5981a6230843cbbe7ba7b800660b2) ![](assets/new.png)  
+- [2021-02-10-他们的成功，从离开互联网开始](https://www.ershicimi.com/p/9e6c025a7505d277287a83e7ebaf2b16) ![](assets/new.png)  
+- [2021-02-10-每秒最多-6.5-万个事务，我们的-PostgreSQL-12-迁移之路](https://www.ershicimi.com/p/e2b6e0fb1d370cd3b7c717a69a41dfe9) ![](assets/new.png)  
+- [2021-02-10-助教兼职招募-|-小马哥的Java项目实战营](https://www.ershicimi.com/p/c0e62d87879499d79df6a65d79b25920) ![](assets/new.png)  
+- [2021-02-10-盘点-2020｜一个三线程序员的-2020-年，不卑不亢](https://www.ershicimi.com/p/ecec070a974598b10a65196fd220d60f) ![](assets/new.png)  
+- [2021-02-10-12-个顶级-Bug-跟踪工具](https://www.ershicimi.com/p/b9a9eb510aa2e3384468beaa14de4acf) ![](assets/new.png)  
+- [2021-02-09-如何抢占先机，成为抢手后端开发人才！-|-极客时间](https://www.ershicimi.com/p/9256e63101e5e96deca3d15ab51b59b2) ![](assets/new.png)  
+- [2021-02-09-技术债，怎么还？](https://www.ershicimi.com/p/3aa0e0e580fee9d805ecd5d76b1eefc3) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -992,20 +1012,20 @@
 - [2021-02-20-一秒钟打开在线-VS-Code-阅读-GitHub-代码！真的只需-+1s](https://toutiao.io/k/wz04au9) ![](assets/new.png)  
 - [2021-02-20-非暴力沟通让我学会了接纳](https://toutiao.io/k/qzftxiv) ![](assets/new.png)  
 - [2021-02-20-前端如何进行日志驱动开发](https://toutiao.io/k/4d1b17k) ![](assets/new.png)  
+- [2021-02-20-用户画像分析与场景应用](https://toutiao.io/k/6b35glz) ![](assets/new.png)  
 - [2021-02-20-初探毕昇-JDK-8-AppCDS-特性对-Hadoop-的性能提升](https://toutiao.io/k/4llmmtx) ![](assets/new.png)  
 - [2021-02-20-AI-入行那些事儿（一）：人工智能简史](https://toutiao.io/k/githuff) ![](assets/new.png)  
-- [2021-02-20-用户画像分析与场景应用](https://toutiao.io/k/6b35glz) ![](assets/new.png)  
 - [2021-02-20-来了来了！Go-1.16-重磅发布](https://toutiao.io/k/ep0ily9) ![](assets/new.png)  
 - [2021-02-20-Flink-窗口之-WindowFunction](https://toutiao.io/k/u7sanas) ![](assets/new.png)  
 - [2021-02-20-《控制论和科学方法论》读书笔记](https://toutiao.io/k/y76ccw3) ![](assets/new.png)  
 - [2021-02-20-C++-folly-库解读之-Fbstring：一个完美替代-std::string-的库（下）](https://toutiao.io/k/t4f1zbf) ![](assets/new.png)  
 - [2021-02-20-.NET-中使用-DebuggerDisplay-轻松定制调试](https://toutiao.io/k/1vynbj6) ![](assets/new.png)  
 - [2021-02-20-各位大V，留点德，别割韭菜了](https://toutiao.io/k/7h5v5l8) ![](assets/new.png)  
-- [2021-02-20-推荐-Go-工程化（二）：项目目录结构](https://toutiao.io/k/9p2dvmm) ![](assets/new.png)  
-- [2021-02-20-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
-- [2021-02-20-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
+- [2021-02-20-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
 - [2021-02-20-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
-- [2021-02-20-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
+- [2021-02-20-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
+- [2021-02-20-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
+- [2021-02-20-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

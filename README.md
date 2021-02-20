@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-20 00:07:59，:rocket: 更新条数: +4299， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-20 00:16:37，:rocket: 更新条数: +4300， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,8 @@
 </summary>
 
 
+- [2021-02-20-有做智能硬件/物联网的公司么，求推荐项目经理岗位](https://www.v2ex.com/t/754442) ![](assets/new.png)  
+- [2021-02-20-半夜起来上厕所，回来后发现老婆变成了猪](https://www.v2ex.com/t/754441) ![](assets/new.png)  
 - [2021-02-19-最近在新的-win10-笔记本电脑上用触摸板替代鼠标很惊艳](https://www.v2ex.com/t/754440) ![](assets/new.png)  
 - [2021-02-19-有玩超小型-Linux-发行版的大佬吗？-Porteus-和-slax-这俩选哪个比较好？](https://www.v2ex.com/t/754438) ![](assets/new.png)  
 - [2021-02-19-服务器不能访问-Google，但是-Google-Bot-可以访问服务器](https://www.v2ex.com/t/754435) ![](assets/new.png)  
@@ -1030,8 +1032,6 @@
 - [2021-02-19-我就在迪拜](https://www.v2ex.com/t/754417) ![](assets/new.png)  
 - [2021-02-19-wordpress-想给每个用户赠送-100-积分-修改数据库可以实现吗](https://www.v2ex.com/t/754416) ![](assets/new.png)  
 - [2021-02-19-食道癌有什么好的药物么？](https://www.v2ex.com/t/754415) ![](assets/new.png)  
-- [2021-02-19-有办法重置淘宝的推荐商品吗？手贱点了一些花里胡哨的，现在都是我不想看的了。](https://www.v2ex.com/t/754414) ![](assets/new.png)  
-- [2021-02-19-App-提示音去哪里找](https://www.v2ex.com/t/754412) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1090,10 +1090,10 @@
 - [2021-02-20-Impala-3.4-在网易的最新实践](https://toutiao.io/k/473if07) ![](assets/new.png)  
 - [2021-02-20-坑系列之-canal-的-json-解析-bug](https://toutiao.io/k/iwru0im) ![](assets/new.png)  
 - [2021-02-20-Privoxy-动态代理和广告过滤](https://toutiao.io/k/sfhgbu6) ![](assets/new.png)  
-- [2021-02-20-推荐-领域驱动设计-DDD-在百度爱番番的实践](https://toutiao.io/k/djhtzln) ![](assets/new.png)  
-- [2021-02-20-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
+- [2021-02-20-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
+- [2021-02-20-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) ![](assets/new.png)  
 - [2021-02-20-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
-- [2021-02-20-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
+- [2021-02-20-推荐-引入-Gateway-网关，这些坑一定要学会避开](https://toutiao.io/k/60gr6a8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,26 +1105,26 @@
 </summary>
 
 
+- [2021-02-20-聊天斗图要承担法律风险?](https://sec.thief.one/article_content?a_id=8d2c94cd59def80a596072d10198d536) ![](assets/new.png)  
+- [2021-02-20-用VS-Code直接浏览GitHub代码-|-12.1K星](https://sec.thief.one/article_content?a_id=295e9f59e7033f36e293c572727f4628) ![](assets/new.png)  
+- [2021-02-19-【安全圈】加州车辆管理局警告称其承包商遭遇勒索软件攻击后-数据或...](https://sec.thief.one/article_content?a_id=348f3ff8cef405df3c30c721594133c8) ![](assets/new.png)  
+- [2021-02-19-加勒万河谷冲突现场视频公开](https://sec.thief.one/article_content?a_id=753c7d33f222589affc2b2b34d6b6f2d) ![](assets/new.png)  
+- [2021-02-19-15-个开源示例手把手带你用-PyQt-做小型桌面应用](https://sec.thief.one/article_content?a_id=fad60f76a663b97efbc4cdd8e1cb9c37) ![](assets/new.png)  
+- [2021-02-19-物联网开源组件安全:Node-RED白盒审计](https://sec.thief.one/article_content?a_id=c4b70a9427023f246a6dd8c7d7184bbb) ![](assets/new.png)  
+- [2021-02-19-最强带货王马斯克也要入手比特币了?](https://sec.thief.one/article_content?a_id=8741b752b25db5e7f532bc45f75a722a) ![](assets/new.png)  
+- [2021-02-19-灵魂拷问:如何把网络攻击从数百万合法行为里抓出来?](https://sec.thief.one/article_content?a_id=3d77c33dbccb04ada2de2856fc82aab9) ![](assets/new.png)  
 - [2021-02-19-SSH-MITM:支持公钥认证&会话劫持和文件篡改的安全审计MITM服务器](https://sec.thief.one/article_content?a_id=85d132c9036da298fe0b58a82422700f) ![](assets/new.png)  
 - [2021-02-19-招聘-|-富友招聘Java代码审计工程师](https://sec.thief.one/article_content?a_id=8883f1774534b9541807fa0edb5657df) ![](assets/new.png)  
 - [2021-02-19-首个针对苹果M1芯片的恶意软件来了!](https://sec.thief.one/article_content?a_id=76379d8410502cff7cbada74707c307f) ![](assets/new.png)  
 - [2021-02-19-加拿大首个比特币ETF交易开始数小时内达成近1亿美元交易量](https://sec.thief.one/article_content?a_id=fdfa35484e7ca40b759345e25a80f69a) ![](assets/new.png)  
 - [2021-02-19-因协警泄露个人信息-老婆要跟我离婚](https://sec.thief.one/article_content?a_id=3b17c55a897f8b8a8bf9e4ee3c3a1aa1) ![](assets/new.png)  
 - [2021-02-19-公安部网安局公布2020年十大网络黑产案例](https://sec.thief.one/article_content?a_id=2002a270a3a4e62df70af9f333742ebc) ![](assets/new.png)  
+- [2021-02-19-新的一年,从零开始的提升计划又启动了](https://sec.thief.one/article_content?a_id=b1117f5c27290cebbb2fdb3678e9eb6e) ![](assets/new.png)  
 - [2021-02-19-NIST要建立模拟网络钓鱼的测评标准](https://sec.thief.one/article_content?a_id=2f505c3a84243a3ceb00da1b655a5aca) ![](assets/new.png)  
 - [2021-02-19-2月19日贵币GUIBI早内参-Cosmos-Hub已完成星际之门Stargate的升级...](https://sec.thief.one/article_content?a_id=a7dba01444639441b52b771fbc2048d6) ![](assets/new.png)  
 - [2021-02-19-安卓设备容易受到僵尸网络的DDoS攻击](https://sec.thief.one/article_content?a_id=696ea27d87c94fc53d61cba80fbc8148) ![](assets/new.png)  
 - [2021-02-19-19款国产手机无一幸免:15分钟破解人脸识别,打印眼镜让刷脸形同虚...](https://sec.thief.one/article_content?a_id=b3dcf0ef5cc6a8561ac38eb2bb4f89ef) ![](assets/new.png)  
 - [2021-02-19-招聘|CSRC招资深业务安全专家](https://sec.thief.one/article_content?a_id=4daca33629c8d01c15d77a64d660b35f) ![](assets/new.png)  
-- [2021-02-19-美国个信保护立法-|-州层面三部法案系列研究之一:个人敏感信息定义](https://sec.thief.one/article_content?a_id=e588bfebc425dd4a5881ce53fa10ee69) ![](assets/new.png)  
-- [2021-02-19-起亚汽车疑遭勒索软件攻击,赎金高达2000万美元](https://sec.thief.one/article_content?a_id=13cd1d0b1e06a631031085ebd9bf1f7d) ![](assets/new.png)  
-- [2021-02-19-每周高级威胁情报解读2021.02.11~02.18](https://sec.thief.one/article_content?a_id=6e6e550b630bf3dad146c0d51f6bdca0) ![](assets/new.png)  
-- [2021-02-19-法国ANSSI:俄黑客对Centreon服务器展开了持续多年的攻击](https://sec.thief.one/article_content?a_id=b5e5a4c3414ade8775453f5b88161190) ![](assets/new.png)  
-- [2021-02-19-新加坡电信巨头近13万客户信息遭泄露,涉身份证号等](https://sec.thief.one/article_content?a_id=1242c717227d3d215d41c828cf7db531) ![](assets/new.png)  
-- [2021-02-19-我所有的项目,代码都在这里了](https://sec.thief.one/article_content?a_id=643462ff23ee4fc4d6e33aec88351f6d) ![](assets/new.png)  
-- [2021-02-19-新冠疫苗广泛使用的同时,数据泄露风险也显著增加](https://sec.thief.one/article_content?a_id=0d27570e207ab05ec426db680cd68473) ![](assets/new.png)  
-- [2021-02-19-一图读懂:工业互联网创新发展行动计划2021-2023年](https://sec.thief.one/article_content?a_id=473908bc273cf20da97e40141718bc2a) ![](assets/new.png)  
-- [2021-02-19-新加坡电信巨头近13万客户信息遭泄露,涉身份证号等](https://sec.thief.one/article_content?a_id=b0f71065f66485170a02db80d61e0cab) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

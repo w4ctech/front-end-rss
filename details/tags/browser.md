@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-20 00:07:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-20 00:16:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -49,6 +49,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-20-清华大学莫一林：信息物理系统中的安全控制算法-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14147&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F09%2F30%2Fmeituan-top-talk-moyilin-cps.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-20-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) 
+- [2021-02-19-【安全圈】加州车辆管理局警告称其承包商遭遇勒索软件攻击后-数据或...](https://sec.thief.one/article_content?a_id=348f3ff8cef405df3c30c721594133c8) 
 - [2021-02-19-SSH-MITM:支持公钥认证&会话劫持和文件篡改的安全审计MITM服务器](https://sec.thief.one/article_content?a_id=85d132c9036da298fe0b58a82422700f) 
 - [2021-02-19-招聘|CSRC招资深业务安全专家](https://sec.thief.one/article_content?a_id=4daca33629c8d01c15d77a64d660b35f) 
 - [2021-02-18-【安全圈】8名黑客,盗窃美国名人的1亿多美元虚拟货币](https://sec.thief.one/article_content?a_id=d7ddf6d34e284bb7622ed47fb27b98e6) 
@@ -59,4 +60,3 @@
 - [2021-02-15-【安全热点周报】第181期:CVE-2021-24086漏洞已验证,可远程拒...](https://sec.thief.one/article_content?a_id=70944818a33483b21d81cbbb0bea3f83) 
 - [2021-02-15-《信息安全技术-电子文件密码应用指南》全文](https://sec.thief.one/article_content?a_id=49475688e01891aa6e1a48e64bd32b72) 
 - [2021-02-14-2月微软安全更新修复56个安全漏洞](https://sec.thief.one/article_content?a_id=f9ed8a46c11da95acfe1a05c0efd299b) 
-- [2021-02-14-《云计算安全责任共担白皮书-2020年》全文及解读](https://sec.thief.one/article_content?a_id=4d05f66991a246dbd6f0e6ccddac817b) 

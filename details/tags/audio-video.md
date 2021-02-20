@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-20 09:47:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-20 10:05:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -73,9 +73,14 @@
 - [2020-01-22-【音频|特别策划】新冠肺炎疫情是如何逼近的？](http://fm.caixin.com/m/2020-01-22/101507323.html) 
 - [2020-01-22-【视频】国新办举行发布会-介绍新冠肺炎防控情况](http://m.video.caixin.com/m/2020-01-22/101507052.html) 
 - [2020-01-20-【视频】钟南山谈新型肺炎：肯定存在人传人现象](http://m.video.caixin.com/m/2020-01-20/101506478.html) 
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) 
+- [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
+- [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
+- [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
+- [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2021-02-20-你们平时都是从哪里找学习视频的呢？](https://www.v2ex.com/t/754694) 
 - [2021-02-20-有-root-的程序可以绕过系统直接访问摄像头吗？](https://www.v2ex.com/t/754684) 
 - [2021-02-20-为什么罗技摄像头-streamcam-显示的画面是左右颠倒的](https://www.v2ex.com/t/754674) 
 - [2021-02-19-加勒万河谷冲突现场视频公开](https://sec.thief.one/article_content?a_id=753c7d33f222589affc2b2b34d6b6f2d) 
 - [2021-02-18-人脸识别-|-EDPB“关于通过视频设备处理个人数据的指南”全文翻...](https://sec.thief.one/article_content?a_id=3cb71a6756fe57d00c9428b7572920e8) 
 - [2021-02-18-【视频】|-Python:多层装饰器](https://sec.thief.one/article_content?a_id=d711e888063f260b67d4ac194d925b57) 
-- [2021-02-15-视频彩铃，在5G时代能否迎来春天？](https://www.ershicimi.com/p/c6522a45a1c30680c1a74fa565604403) 

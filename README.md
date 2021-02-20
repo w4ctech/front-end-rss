@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-20 06:55:35，:rocket: 更新条数: +442， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-20 07:04:52，:rocket: 更新条数: +3811， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
-- [React中文社区](#react中文社区)  
+- [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)  
+- [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-02-20-WHO启动20亿美元新冠应对计划-以色列披露辉瑞疫苗真实世界数据|大流行手记（2月19日）](https://m.caixin.com/m/2021-02-20/101664991.html) ![](assets/new.png)  
+- [2021-02-19-【境内疫情观察】全国新增10例境外输入病例（2月18日）](http://m.database.caixin.com/m/2021-02-19/101664607.html) ![](assets/new.png)  
+- [2021-02-19-130多国仍未启动疫苗接种-美拨款超16亿美元扩大检测|大流行手记（2月18日）](https://m.caixin.com/m/2021-02-19/101664470.html) ![](assets/new.png)  
+- [2021-02-18-通化新冠“超级传播”细节公布-一传播链涉141人](https://m.caixin.com/m/2021-02-18/101664220.html) ![](assets/new.png)  
+- [2021-02-18-【境内疫情观察】全国高风险地区清零（2月17日）](http://m.database.caixin.com/m/2021-02-18/101664199.html) ![](assets/new.png)  
+- [2021-02-18-全球上周新增病例下降16%-南非拟接种强生新冠疫苗|大流行手记（2月17日）](https://m.caixin.com/m/2021-02-18/101664038.html) ![](assets/new.png)  
+- [2021-02-17-【境内疫情观察】全国新增7例境外输入病例（2月16日）](http://m.database.caixin.com/m/2021-02-17/101663911.html) ![](assets/new.png)  
+- [2021-02-17-东京都漏报800余病例-阿斯利康疫苗获世卫紧急使用认证|大流行手记（2月16日）](https://m.caixin.com/m/2021-02-17/101663887.html) ![](assets/new.png)  
+- [2021-02-16-【境内疫情观察】全国新增16例境外输入病例（2月15日）](http://m.database.caixin.com/m/2021-02-16/101663778.html) ![](assets/new.png)  
+- [2021-02-16-英1500万人已接种首剂疫苗-欧盟加速审批抗变种疫苗|大流行手记（2月15日）](https://m.caixin.com/m/2021-02-16/101663753.html) ![](assets/new.png)  
+- [2021-02-15-2月14日全国新增新冠9例，其中本土1例](https://m.caixin.com/m/2021-02-15/101663632.html) ![](assets/new.png)  
+- [2021-02-15-河北2月14日新增1例本地新冠确诊病例-在石家庄（附轨迹）](https://m.caixin.com/m/2021-02-15/101663621.html) ![](assets/new.png)  
+- [2021-02-15-【境内疫情观察】河北新增1例本土病例（2月14日）](http://m.database.caixin.com/m/2021-02-15/101663666.html) ![](assets/new.png)  
+- [2021-02-15-以色列传染率显著下降-美英规划学校复课|大流行手记（2月14日）](https://m.caixin.com/m/2021-02-15/101663640.html) ![](assets/new.png)  
+- [2021-02-14-【境内疫情观察】全国连续一周无新增本土病例（2月13日）](http://m.database.caixin.com/m/2021-02-14/101663573.html) ![](assets/new.png)  
+- [2021-02-14-韩国将下调防疫等级-英国疫情增势放缓丨大流行手记（2月13日）](https://m.caixin.com/m/2021-02-14/101663556.html) ![](assets/new.png)  
+- [2021-02-13-聚焦|张文宏：抗新冠一年回顾与展望](http://m.opinion.caixin.com/m/2021-02-13/101663439.html) ![](assets/new.png)  
+- [2021-02-13-【境内疫情观察】全国新增8例境外输入病例（2月12日）](http://m.database.caixin.com/m/2021-02-13/101663455.html) ![](assets/new.png)  
+- [2021-02-13-巴西变异病毒传染力强3倍-研究指法国前年11月已现疑似病例丨大流行手记（2月12日）](https://m.caixin.com/m/2021-02-13/101663431.html) ![](assets/new.png)  
+- [2021-02-12-【境内疫情观察】全国连续5日无新增本土病例（2月11日）](http://m.database.caixin.com/m/2021-02-12/101663358.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -120,6 +140,26 @@
 </summary>
 
 
+- [2020-08-19-招个数据分析工程师，我给25k](https://www.ershicimi.com/p/003c2b9ee98c0992b36c5258e82747d3) ![](assets/new.png)  
+- [2020-07-14-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) ![](assets/new.png)  
+- [2020-05-18-一文掌握GO语言实战技能三](https://www.ershicimi.com/p/46cac625ac351e226dc4486f2397cb50) ![](assets/new.png)  
+- [2020-05-17-一文掌握GO语言实战技能二](https://www.ershicimi.com/p/0efd18d6a0774aa88db09fc12989a6ab) ![](assets/new.png)  
+- [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) ![](assets/new.png)  
+- [2020-05-15-一文掌握GO语言实战技能一---万字长文](https://www.ershicimi.com/p/b4aa653a71762c4ac0d8fb3a4d4d1c63) ![](assets/new.png)  
+- [2020-05-14-一文达到Mysql实战水平-习题答案](https://www.ershicimi.com/p/541e3bf6cc03ebd608c403da8cd4f8d3) ![](assets/new.png)  
+- [2020-05-13-一文达到Mysql实战水平](https://www.ershicimi.com/p/f0acfb4c01e6e94632d6f778ab0e7048) ![](assets/new.png)  
+- [2020-05-12-一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8) ![](assets/new.png)  
+- [2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) ![](assets/new.png)  
+- [2019-12-15-双12，送33本前端书籍回馈大家及珍藏已久的几个公众号](https://www.ershicimi.com/p/8d6efb9786a98f2f9682e6bea7bcff88) ![](assets/new.png)  
+- [2019-12-11-一文深度剖析Axios源码](https://www.ershicimi.com/p/22f3dc65afaa70adb95ed48cc610af4a) ![](assets/new.png)  
+- [2019-11-28-来自蚂蚁金服的前端项目最佳实践](https://www.ershicimi.com/p/aae2f8cef34dd39021c9bd7050993a7c) ![](assets/new.png)  
+- [2019-11-25-一文掌握Webpack编译流程](https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6) ![](assets/new.png)  
+- [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) ![](assets/new.png)  
+- [2019-11-15-推荐几个公众号](https://www.ershicimi.com/p/a3828f970288d59160cda21828777128) ![](assets/new.png)  
+- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) ![](assets/new.png)  
+- [2019-11-14-推荐几个公众号](https://www.ershicimi.com/p/126b6a8d127d2a6f3eb0af6fb8a72a45) ![](assets/new.png)  
+- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) ![](assets/new.png)  
+- [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) ![](assets/new.png)  
 - [......【查看更多】......](./details/React中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -449,6 +489,11 @@
 </summary>
 
 
+- [2021-02-19-亿点点玩-CSS-|-水平渐变-linear-gradient](https://juejin.im/post/6931206551466475528) ![](assets/new.png)  
+- [2021-02-19-今天聊：前端工程师的晋升逻辑到底是什么](https://juejin.im/post/6931204993395621895) ![](assets/new.png)  
+- [2021-02-19-EventEmitter-的核心功能实现](https://juejin.im/post/6931187413356118030) ![](assets/new.png)  
+- [2021-02-19-polyfill-在babel7时代何去何从](https://juejin.im/post/6931186451224887309) ![](assets/new.png)  
+- [2021-02-19-前端学习-正则表达式](https://juejin.im/post/6931185530709213197) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -526,7 +571,7 @@
 
 - [2021-02-20-想做个萌宠-app，项目在构思阶段～寻找伙伴一同参与聊聊](https://www.v2ex.com/t/754615) ![](assets/new.png)  
 - [2021-02-20-求科普：-1Password-有那些招牌式的功能？](https://www.v2ex.com/t/754614) ![](assets/new.png)  
-- [2021-02-20-请问关于一个内容重权匹配问题，用户输入内容，网站根据权重返回对应的答案排序。这个是属于搜索引擎什么算法？或者要做这样的系统需要去了解哪些知识点？](https://www.v2ex.com/t/754613) ![](assets/new.png)  
+- [2021-02-20-请问关于一个内容权重匹配问题，用户输入内容，网站根据权重返回对应的答案排序。这个是属于什么算法？或者要做这样的系统需要去了解哪些知识点？](https://www.v2ex.com/t/754613) ![](assets/new.png)  
 - [2021-02-20-iPhone12-真的越用越绿](https://www.v2ex.com/t/754612) ![](assets/new.png)  
 - [2021-02-20-爱奇艺-tv-端存在会员也无法跳过的广告](https://www.v2ex.com/t/754611) ![](assets/new.png)  
 - [2021-02-20-打算用-vue3-试水起个项目，有什么要注意的坑吗](https://www.v2ex.com/t/754610) ![](assets/new.png)  
@@ -608,6 +653,26 @@
 </summary>
 
 
+- [2021-02-16-任正非首提“南泥湾”计划，华为推“智慧养猪”，不只为赚钱这么简单……](https://www.ershicimi.com/p/eb2e57e571bfc6212b65fc8a033a3336) ![](assets/new.png)  
+- [2021-02-16-TikTok在美逃过一劫，但在印度……](https://www.ershicimi.com/p/fc6df8da7be77a7f8a2c3b8f4eea976f) ![](assets/new.png)  
+- [2021-02-15-《唐宫夜宴》爆火！5G+AR让少女们从盛唐穿越而来](https://www.ershicimi.com/p/b176f07becc2599efefe9d69427e61d6) ![](assets/new.png)  
+- [2021-02-15-视频彩铃，在5G时代能否迎来春天？](https://www.ershicimi.com/p/c6522a45a1c30680c1a74fa565604403) ![](assets/new.png)  
+- [2021-02-14-三分之一的前辈已经倒下，1600家物联网平台将何去何从？【物女心经】](https://www.ershicimi.com/p/3e3f42950056d194eba0c6df6eedfc3e) ![](assets/new.png)  
+- [2021-02-14-英伟达收购-Arm-悬了？高通-Google-微软都反对，美国政府已展开深入调查](https://www.ershicimi.com/p/baf3a22253989c3d1f1b33ba89dba248) ![](assets/new.png)  
+- [2021-02-13-任正非宣布华为成立“煤炭军团”，5G如何赋能千年古老行业？](https://www.ershicimi.com/p/cccff9f552e2875f3341070296567b95) ![](assets/new.png)  
+- [2021-02-13-百度被曝将成立芯片公司！头部互联网玩家，为何纷纷入局造芯？](https://www.ershicimi.com/p/922ce44fac6d0f6dbdc6df7fc423e108) ![](assets/new.png)  
+- [2021-02-12-拜登“送祝福”？叫停特朗普微信和TikTok禁令，还承诺解决全球芯片短缺问题](https://www.ershicimi.com/p/2641ecc249b25cc1f998a231d0d2eb70) ![](assets/new.png)  
+- [2021-02-12-一顿丰盛的年夜饭经历了多少物联网技术的“洗礼”？](https://www.ershicimi.com/p/389275692b1bf4930e839c7d4ab97bfe) ![](assets/new.png)  
+- [2021-02-11-物联网智库给各位“智友”们拜年啦！](https://www.ershicimi.com/p/9421a0dda6c582a190c55f50c9d7784e) ![](assets/new.png)  
+- [2021-02-10-智能家居的“战火”，从“后装”烧到了“前装”市场](https://www.ershicimi.com/p/233f1a826ac6b72b55ce52e16eff15b5) ![](assets/new.png)  
+- [2021-02-10-移远通信率先推出支持3GPP-R16协议的第二代5G模组](https://www.ershicimi.com/p/1a48c90182a01528130b3f76c979edf5) ![](assets/new.png)  
+- [2021-02-09-华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987) ![](assets/new.png)  
+- [2021-02-09-重磅！2020无锡物联网产业集群十件大事](https://www.ershicimi.com/p/d4daf00a77de4ed790a9378bf0319172) ![](assets/new.png)  
+- [2021-02-09-巨龙通信的成与败](https://www.ershicimi.com/p/7dfa845bfbccf6027cd594dc67a645d2) ![](assets/new.png)  
+- [2021-02-08-UWB定位技术靠“找东西”开辟百亿美元市场，苹果/三星已入局，国内厂商等待何时?](https://www.ershicimi.com/p/197e9b90c98d273ef9d536d82ae6b110) ![](assets/new.png)  
+- [2021-02-08-激战工业物联网未来，平台商的“制胜之道”](https://www.ershicimi.com/p/50976922c22b520a8e2bcbf77775a2cd) ![](assets/new.png)  
+- [2021-02-08-全球5G测速启示：运营商能否摆脱同质化竞争？](https://www.ershicimi.com/p/7c75c99553756f8526b2ede118031c29) ![](assets/new.png)  
+- [2021-02-07-信号！工业互联网向纵深跃迁，2021将是“软件定义工控”拐点之年【物女心经】](https://www.ershicimi.com/p/961452f6fc6bbab3433448bbfb81ac3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

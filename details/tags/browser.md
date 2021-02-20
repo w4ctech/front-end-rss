@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-20 16:51:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-20 17:07:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,18 +8,8 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-20-怎样获取浏览器当前的-url?](https://www.v2ex.com/t/754723) 
-- [2021-02-20-译-《软件架构》缓存技术](https://toutiao.io/k/djqw1c8) 
-- [2021-02-20-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) 
 - [2021-02-20-信息安全漏洞周报2021年第7期](https://sec.thief.one/article_content?a_id=6301e16fea89bbf9f01fb636d50bd3b7) 
 - [2021-02-20-百度安全再次亮相安全顶级会议NDSS--研究幽灵代码利用片段检测的...](https://sec.thief.one/article_content?a_id=a2bffdb123ed7551ca2e1e285681cb1f) 
 - [2021-02-20-安全资讯|看看最近发生的事儿~](https://sec.thief.one/article_content?a_id=f0682e71ba7d356e742cc18f3d066766) 

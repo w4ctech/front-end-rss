@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-20 08:09:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-20 08:35:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,10 +7,5 @@
 
 
 
-- [2020-07-14-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) 
-- [2021-01-30-深入理解Chrome-V8垃圾回收机制](https://www.ershicimi.com/p/ff0b9c190d4054cf3a6fedf798d3ff1b) 
-- [2021-02-01-node_modules-困境](https://www.ershicimi.com/p/a275293bd5c33275440bf51ffcc5ebc1) 
-- [2020-04-07-nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c) 
-- [2020-12-22-V8-引擎垃圾回收与内存分配](https://www.ershicimi.com/p/1a0e4f18abc4d979ab8de6939f2ac8cb) 
-- [2021-02-09-15-个常见的-Node.js-面试问题及答案](https://www.ershicimi.com/p/e6ebeacd2db1cbc32cc84289d95450a4) 
+- [2021-02-20-深圳一起练琴招聘服务端开发工程师（Node.js），发展空间大，不-996](https://www.v2ex.com/t/754627) 
 - [2021-02-19-物联网开源组件安全:Node-RED白盒审计](https://sec.thief.one/article_content?a_id=c4b70a9427023f246a6dd8c7d7184bbb) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-20 04:37:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-20 04:45:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,20 +23,13 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2021-01-12-封装-axios-取消重复请求](https://www.ershicimi.com/p/cacecf530e97b404d830c2a50be041d6) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-20-请求几个关于-ts-封装-axios-的问题](https://www.v2ex.com/t/754555) 
 - [2021-02-20-Chrome-有没有啥插件类似-edge-的集锦功能的？](https://www.v2ex.com/t/754548) 
 - [2021-02-20-经常在网络上下载东西，如何保证下载的文件安全？](https://www.v2ex.com/t/754514) 
+- [2021-02-20-译-《软件架构》缓存技术](https://toutiao.io/k/djqw1c8) 
+- [2021-02-20-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) 
 - [2021-02-19-【安全圈】加州车辆管理局警告称其承包商遭遇勒索软件攻击后-数据或...](https://sec.thief.one/article_content?a_id=348f3ff8cef405df3c30c721594133c8) 
 - [2021-02-19-SSH-MITM:支持公钥认证&会话劫持和文件篡改的安全审计MITM服务器](https://sec.thief.one/article_content?a_id=85d132c9036da298fe0b58a82422700f) 
 - [2021-02-19-招聘|CSRC招资深业务安全专家](https://sec.thief.one/article_content?a_id=4daca33629c8d01c15d77a64d660b35f) 

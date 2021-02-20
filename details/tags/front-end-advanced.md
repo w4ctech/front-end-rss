@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-20 05:39:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-20 05:49:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -15,3 +15,4 @@
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2021-02-20-北京-百度搜索策略部社招_机器学习/数据挖掘/NLP-算法工程师](https://www.v2ex.com/t/754564) 
+- [2021-02-20-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) 

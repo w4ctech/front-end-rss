@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-02-21 10:53:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-21 11:07:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-21-嵌入式软件主程序结构的问题](https://www.v2ex.com/t/754892) 
+- [2021-02-21-以后的-x86-芯片会不会向-Apple-M1-这种包含更多部件（或者说集成度更高）的-SoC-的方向靠拢](https://www.v2ex.com/t/754891) 
 - [2021-02-21-win10-输入法占用了-Ctrl+Shift+F-快捷键导致-idea-的-find-in-files-快捷键失效](https://www.v2ex.com/t/754890) 
 - [2021-02-21-各位如何看待分手费？](https://www.v2ex.com/t/754889) 
 - [2021-02-21-求推荐:-软件架构图用什么工具画](https://www.v2ex.com/t/754887) 
@@ -40,5 +42,3 @@
 - [2021-02-21-南瓜电影，你家充值系统有-bug](https://www.v2ex.com/t/754845) 
 - [2021-02-21-对粉笔之类考公培训机构的专业性表示怀疑](https://www.v2ex.com/t/754844) 
 - [2021-02-21-alpine-Linux-运行-glibc-的程序，-libasound.so.2:-no-version-information-available](https://www.v2ex.com/t/754843) 
-- [2021-02-21-Trackpad2-safari-后退手势不灵敏](https://www.v2ex.com/t/754842) 
-- [2021-02-21-奈何不懂，如何给-macOS-下的-Java-开发的-app，单独替换-JRE?](https://www.v2ex.com/t/754841) 

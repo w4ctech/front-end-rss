@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-21 07:04:42，:rocket: 更新条数: +948， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-21 07:08:08，:rocket: 更新条数: +4224， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,11 +51,11 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)![](assets/dot.png)   
+- [物联网智库](#物联网智库)  
 
 ## 文章链接
 
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-02-21-2月20日全国新增新冠7例-均由境外输入](https://m.caixin.com/m/2021-02-21/101665324.html) ![](assets/new.png)  
+- [2021-02-21-【境内疫情观察】全国新增7例境外输入病例（2月20日）](http://m.database.caixin.com/m/2021-02-21/101665342.html) ![](assets/new.png)  
+- [2021-02-21-富国囤积疫苗总量远超所需-南非变异病毒或减少抗体生成量丨大流行手记（2月20日）](https://m.caixin.com/m/2021-02-21/101665311.html) ![](assets/new.png)  
+- [2021-02-20-华大新冠检测现16宗假阳性-香港化验所一助理被捕](http://m.china.caixin.com/m/2021-02-20/101665152.html) ![](assets/new.png)  
+- [2021-02-20-最新海外疫情：新冠感染超1.1亿-累计死亡近245万](https://m.caixin.com/m/2021-02-20/101665118.html) ![](assets/new.png)  
+- [2021-02-20-【境内疫情观察】民航局对多个航班发出熔断指令（2月19日）](http://m.database.caixin.com/m/2021-02-20/101665128.html) ![](assets/new.png)  
+- [2021-02-20-WHO启动20亿美元新冠应对计划-以色列披露辉瑞疫苗真实世界数据丨大流行手记（2月19日）](https://m.caixin.com/m/2021-02-20/101664991.html) ![](assets/new.png)  
+- [2021-02-20-图集|首批科兴新冠疫苗运抵香港-26日启动疫苗接种工作](http://m.photos.caixin.com/m/2021-02-20/101665144.html) ![](assets/new.png)  
+- [2021-02-19-【境内疫情观察】全国新增10例境外输入病例（2月18日）](http://m.database.caixin.com/m/2021-02-19/101664607.html) ![](assets/new.png)  
+- [2021-02-19-130多国仍未启动疫苗接种-美拨款超16亿美元扩大检测丨大流行手记（2月18日）](https://m.caixin.com/m/2021-02-19/101664470.html) ![](assets/new.png)  
+- [2021-02-18-通化新冠“超级传播”细节公布-一传播链涉141人](https://m.caixin.com/m/2021-02-18/101664220.html) ![](assets/new.png)  
+- [2021-02-18-【境内疫情观察】全国高风险地区清零（2月17日）](http://m.database.caixin.com/m/2021-02-18/101664199.html) ![](assets/new.png)  
+- [2021-02-18-全球上周新增病例下降16%-南非拟接种强生新冠疫苗丨大流行手记（2月17日）](https://m.caixin.com/m/2021-02-18/101664038.html) ![](assets/new.png)  
+- [2021-02-17-【境内疫情观察】全国新增7例境外输入病例（2月16日）](http://m.database.caixin.com/m/2021-02-17/101663911.html) ![](assets/new.png)  
+- [2021-02-17-东京都漏报800余病例-阿斯利康疫苗获世卫紧急使用认证丨大流行手记（2月16日）](https://m.caixin.com/m/2021-02-17/101663887.html) ![](assets/new.png)  
+- [2021-02-16-【境内疫情观察】全国新增16例境外输入病例（2月15日）](http://m.database.caixin.com/m/2021-02-16/101663778.html) ![](assets/new.png)  
+- [2021-02-16-英1500万人已接种首剂疫苗-欧盟加速审批抗变种疫苗丨大流行手记（2月15日）](https://m.caixin.com/m/2021-02-16/101663753.html) ![](assets/new.png)  
+- [2021-02-15-2月14日全国新增新冠9例，其中本土1例](https://m.caixin.com/m/2021-02-15/101663632.html) ![](assets/new.png)  
+- [2021-02-15-河北2月14日新增1例本地新冠确诊病例-在石家庄（附轨迹）](https://m.caixin.com/m/2021-02-15/101663621.html) ![](assets/new.png)  
+- [2021-02-15-【境内疫情观察】河北新增1例本土病例（2月14日）](http://m.database.caixin.com/m/2021-02-15/101663666.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -76,6 +96,9 @@
 </summary>
 
 
+- [2021-02-21-全国｜新增确诊病例-7-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGjL7JYVuYgMIAzqtHxbD210221&isfromapp=1) ![](assets/new.png)  
+- [2021-02-21-广东｜新增-1-例确诊-3-例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ua4SGSZsbHtvZC6yKRE210221&isfromapp=1) ![](assets/new.png)  
+- [2021-02-20-吉林｜通化市东昌区调整为低风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimA90NmR0wjpCFBiJPrUE210220&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -989,26 +1012,6 @@
 </summary>
 
 
-- [2021-02-21-谁来翻译翻译，什么他吗的叫惊喜？什么他吗的叫他吗的惊喜。。。](https://www.v2ex.com/t/754840) ![](assets/new.png)  
-- [2021-02-21-映客用了-6-天-copy-了-Clubhouse-的全部功能，刚刚上线-5-天，你们认为有戏吗？](https://www.v2ex.com/t/754838) ![](assets/new.png)  
-- [2021-02-21-有人知道-inews.gtimg.com-这个是-TX-的哪个图床吗？](https://www.v2ex.com/t/754837) ![](assets/new.png)  
-- [2021-02-21-实习-微软亚洲研究院-全球网络实时数据训练平台实习生](https://www.v2ex.com/t/754836) ![](assets/new.png)  
-- [2021-02-21-一张照片在不同质量的屏幕上无限截图转发下去……](https://www.v2ex.com/t/754835) ![](assets/new.png)  
-- [2021-02-21-手撸-golang-原生腾讯云-SDK，大家给品品](https://www.v2ex.com/t/754834) ![](assets/new.png)  
-- [2021-02-21-实习](https://www.v2ex.com/t/754833) ![](assets/new.png)  
-- [2021-02-21-求租-上海闵行合川路地铁站附近-一室-有独卫-3.5k-以下](https://www.v2ex.com/t/754832) ![](assets/new.png)  
-- [2021-02-21-typecho-移植主题-Pure-,适合文艺生活类博客](https://www.v2ex.com/t/754831) ![](assets/new.png)  
-- [2021-02-21-Clubhouse-好像有漏洞可以实现在现在使用非-iOS-设备登陆？](https://www.v2ex.com/t/754830) ![](assets/new.png)  
-- [2021-02-21-花三天做完了两个月的活是什么体验？](https://www.v2ex.com/t/754829) ![](assets/new.png)  
-- [2021-02-21-才意识到，花呗白条都要上征信，会有什么影响吗？](https://www.v2ex.com/t/754828) ![](assets/new.png)  
-- [2021-02-21-什么办法注册养家一公司比较便宜，用来注册个公众号?](https://www.v2ex.com/t/754827) ![](assets/new.png)  
-- [2021-02-21-不想换手机，-iphone7-怎么加内存和换电池？](https://www.v2ex.com/t/754826) ![](assets/new.png)  
-- [2021-02-21-实习-微软亚洲研究院-机器学习系统性能评测及相关研究实习生](https://www.v2ex.com/t/754825) ![](assets/new.png)  
-- [2021-02-21-翻译：《实用的-Python-编程》02_02_Containers](https://www.v2ex.com/t/754824) ![](assets/new.png)  
-- [2021-02-21-求前几天出现的一款-github-插件](https://www.v2ex.com/t/754823) ![](assets/new.png)  
-- [2021-02-21-xgpu-有哪些值得玩的游戏推荐](https://www.v2ex.com/t/754821) ![](assets/new.png)  
-- [2021-02-21-远程加班的吐槽](https://www.v2ex.com/t/754819) ![](assets/new.png)  
-- [2021-02-21-正在学习英语，-求一款能够查看音频文本的-podcast-app](https://www.v2ex.com/t/754818) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1093,26 +1096,6 @@
 </summary>
 
 
-- [2021-02-16-任正非首提“南泥湾”计划，华为推“智慧养猪”，不只为赚钱这么简单……](https://www.ershicimi.com/p/eb2e57e571bfc6212b65fc8a033a3336) ![](assets/new.png)  
-- [2021-02-16-TikTok在美逃过一劫，但在印度……](https://www.ershicimi.com/p/fc6df8da7be77a7f8a2c3b8f4eea976f) ![](assets/new.png)  
-- [2021-02-15-《唐宫夜宴》爆火！5G+AR让少女们从盛唐穿越而来](https://www.ershicimi.com/p/b176f07becc2599efefe9d69427e61d6) ![](assets/new.png)  
-- [2021-02-15-视频彩铃，在5G时代能否迎来春天？](https://www.ershicimi.com/p/c6522a45a1c30680c1a74fa565604403) ![](assets/new.png)  
-- [2021-02-14-三分之一的前辈已经倒下，1600家物联网平台将何去何从？【物女心经】](https://www.ershicimi.com/p/3e3f42950056d194eba0c6df6eedfc3e) ![](assets/new.png)  
-- [2021-02-14-英伟达收购-Arm-悬了？高通-Google-微软都反对，美国政府已展开深入调查](https://www.ershicimi.com/p/baf3a22253989c3d1f1b33ba89dba248) ![](assets/new.png)  
-- [2021-02-13-任正非宣布华为成立“煤炭军团”，5G如何赋能千年古老行业？](https://www.ershicimi.com/p/cccff9f552e2875f3341070296567b95) ![](assets/new.png)  
-- [2021-02-13-百度被曝将成立芯片公司！头部互联网玩家，为何纷纷入局造芯？](https://www.ershicimi.com/p/922ce44fac6d0f6dbdc6df7fc423e108) ![](assets/new.png)  
-- [2021-02-12-拜登“送祝福”？叫停特朗普微信和TikTok禁令，还承诺解决全球芯片短缺问题](https://www.ershicimi.com/p/2641ecc249b25cc1f998a231d0d2eb70) ![](assets/new.png)  
-- [2021-02-12-一顿丰盛的年夜饭经历了多少物联网技术的“洗礼”？](https://www.ershicimi.com/p/389275692b1bf4930e839c7d4ab97bfe) ![](assets/new.png)  
-- [2021-02-11-物联网智库给各位“智友”们拜年啦！](https://www.ershicimi.com/p/9421a0dda6c582a190c55f50c9d7784e) ![](assets/new.png)  
-- [2021-02-10-智能家居的“战火”，从“后装”烧到了“前装”市场](https://www.ershicimi.com/p/233f1a826ac6b72b55ce52e16eff15b5) ![](assets/new.png)  
-- [2021-02-10-移远通信率先推出支持3GPP-R16协议的第二代5G模组](https://www.ershicimi.com/p/1a48c90182a01528130b3f76c979edf5) ![](assets/new.png)  
-- [2021-02-09-华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987) ![](assets/new.png)  
-- [2021-02-09-重磅！2020无锡物联网产业集群十件大事](https://www.ershicimi.com/p/d4daf00a77de4ed790a9378bf0319172) ![](assets/new.png)  
-- [2021-02-09-巨龙通信的成与败](https://www.ershicimi.com/p/7dfa845bfbccf6027cd594dc67a645d2) ![](assets/new.png)  
-- [2021-02-08-UWB定位技术靠“找东西”开辟百亿美元市场，苹果/三星已入局，国内厂商等待何时?](https://www.ershicimi.com/p/197e9b90c98d273ef9d536d82ae6b110) ![](assets/new.png)  
-- [2021-02-08-激战工业物联网未来，平台商的“制胜之道”](https://www.ershicimi.com/p/50976922c22b520a8e2bcbf77775a2cd) ![](assets/new.png)  
-- [2021-02-08-全球5G测速启示：运营商能否摆脱同质化竞争？](https://www.ershicimi.com/p/7c75c99553756f8526b2ede118031c29) ![](assets/new.png)  
-- [2021-02-07-信号！工业互联网向纵深跃迁，2021将是“软件定义工控”拐点之年【物女心经】](https://www.ershicimi.com/p/961452f6fc6bbab3433448bbfb81ac3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

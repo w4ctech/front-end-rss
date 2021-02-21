@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-21 14:05:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-21 14:29:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,11 +7,6 @@
 
 
 
-- [2020-07-14-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) 
-- [2021-02-01-node_modules-困境](https://www.ershicimi.com/p/a275293bd5c33275440bf51ffcc5ebc1) 
-- [2020-04-07-nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c) 
-- [2020-12-22-V8-引擎垃圾回收与内存分配](https://www.ershicimi.com/p/1a0e4f18abc4d979ab8de6939f2ac8cb) 
-- [2021-02-09-15-个常见的-Node.js-面试问题及答案](https://www.ershicimi.com/p/e6ebeacd2db1cbc32cc84289d95450a4) 
 - [2021-02-04-使用-Node.js-开发一个客户端小工具](https://www.ershicimi.com/p/ebe7983a542a771788ebf91615fc0e9a) 
 - [2021-02-03-当今开发三大块，Node.js-覆盖一半以上？](https://www.ershicimi.com/p/5ee2c06521a88f2ec9e5fd9509d5f6e4) 
 - [2021-02-01-一起来看看-Node.js-v14.x-LTS-中的这些新功能](https://www.ershicimi.com/p/d89364809bae71504e44352f4ae5ad3d) 
@@ -23,7 +18,4 @@
 - [2021-01-14-Qcon-分享-|-从-NodeX-到-Serverless,-滴滴前端服务工程化实践之路](https://www.ershicimi.com/p/94762781f148f31cf6f76fbde22c8775) 
 - [2021-01-13-Node.js-搭建一个-API-接口服务（实战）](https://www.ershicimi.com/p/4879b73bff33128ebffcfd2eb21c80c1) 
 - [2021-01-11-Node.js-高级进阶之-fs-文件模块学习](https://www.ershicimi.com/p/8ed810169365915978b48ff67b995605) 
-- [2021-02-03-Node-如何开发一个命令行工具](https://www.ershicimi.com/p/722fd10dbd2adcf728f10b3cf9b16b3b) 
-- [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) 
-- [2021-02-18-15-个常见的-Node.js-面试问题及答案](https://www.ershicimi.com/p/28bf51b6e65a98ba0e0d667f97b27218) 
 - [2021-02-19-物联网开源组件安全:Node-RED白盒审计](https://sec.thief.one/article_content?a_id=c4b70a9427023f246a6dd8c7d7184bbb) 

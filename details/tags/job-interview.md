@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-21 16:11:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-21 16:51:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -9,4 +9,3 @@
 
 - [2021-02-21-内推字节跳动-2021-研发类实习生招聘开始！](https://www.v2ex.com/t/754910) 
 - [2021-02-19-招聘-|-富友招聘Java代码审计工程师](https://sec.thief.one/article_content?a_id=8883f1774534b9541807fa0edb5657df) 
-- [2021-02-09-华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987) 

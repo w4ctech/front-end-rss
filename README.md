@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-21 09:31:19，:rocket: 更新条数: +930， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-21 09:41:23，:rocket: 更新条数: +950， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -49,7 +49,7 @@
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
-- [编程之上](#编程之上)  
+- [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
@@ -927,6 +927,26 @@
 </summary>
 
 
+- [2020-04-15-第四期|前端的规划如何落地](https://www.ershicimi.com/p/4233bce2181a7f01d79d8f80ef35e244) ![](assets/new.png)  
+- [2020-04-13-我和前端早早聊的小故事](https://www.ershicimi.com/p/288c74cf24f39a4866f6b9626741452d) ![](assets/new.png)  
+- [2020-03-31-第三期-|-前端搞搭建一些思考](https://www.ershicimi.com/p/390c83d5208473b69e0d9125c49e95a9) ![](assets/new.png)  
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) ![](assets/new.png)  
+- [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) ![](assets/new.png)  
+- [2020-03-11-4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4) ![](assets/new.png)  
+- [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) ![](assets/new.png)  
+- [2020-03-01-前端如何搞基建](https://www.ershicimi.com/p/fc1af1d9cfaca3f5d7cb41470add1ace) ![](assets/new.png)  
+- [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) ![](assets/new.png)  
+- [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) ![](assets/new.png)  
+- [2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) ![](assets/new.png)  
+- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) ![](assets/new.png)  
+- [2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) ![](assets/new.png)  
+- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) ![](assets/new.png)  
+- [2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) ![](assets/new.png)  
+- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) ![](assets/new.png)  
+- [2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) ![](assets/new.png)  
+- [2019-10-14-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) ![](assets/new.png)  
+- [2019-10-13-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) ![](assets/new.png)  
+- [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) ![](assets/new.png)  
 - [......【查看更多】......](./details/编程之上.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -969,6 +989,7 @@
 </summary>
 
 
+- [2021-02-21-离职的烦恼](https://www.v2ex.com/t/754877) ![](assets/new.png)  
 - [2021-02-21-转租南翔一个次卧-求租真如上海西站李子园附近次卧](https://www.v2ex.com/t/754875) ![](assets/new.png)  
 - [2021-02-21-dz+分类插件,生成-app-有什么好建议的么?或者有独立原生的分类信息-app-卖么?](https://www.v2ex.com/t/754874) ![](assets/new.png)  
 - [2021-02-21-3-月发布会有可能发-iPhone-吗？如-iPhone-se-3-这种](https://www.v2ex.com/t/754873) ![](assets/new.png)  
@@ -988,7 +1009,6 @@
 - [2021-02-21-杭州-微拍堂内推-前端-&-PHP-&-Go-&-产品-等等，这里都需要](https://www.v2ex.com/t/754855) ![](assets/new.png)  
 - [2021-02-21-2-核-4G-的轻量云服务器可以搭建-Hadoop-平台吗？](https://www.v2ex.com/t/754853) ![](assets/new.png)  
 - [2021-02-21-office365-family-1-位](https://www.v2ex.com/t/754852) ![](assets/new.png)  
-- [2021-02-21-Python-log-阻止其他类打印？](https://www.v2ex.com/t/754851) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1021,16 +1041,16 @@
 - [2021-02-21-Ubuntu-18-及以上版本的用户务必掌握的新的-IP-配置方式](https://toutiao.io/k/c3nh3nh) ![](assets/new.png)  
 - [2021-02-21-春节大礼，Vite-2.0-正式发布，中文手册同步更新](https://toutiao.io/k/307qp2v) ![](assets/new.png)  
 - [2021-02-21-哲少荐书：鞋狗](https://toutiao.io/k/nxf9osw) ![](assets/new.png)  
+- [2021-02-21-推荐-Go-工程化（二）：项目目录结构](https://toutiao.io/k/9p2dvmm) ![](assets/new.png)  
+- [2021-02-21-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
+- [2021-02-21-推荐-最好的-IDEA-debug-长文？看完我佛了](https://toutiao.io/k/c2t9cp9) ![](assets/new.png)  
+- [2021-02-21-推荐-领域驱动设计-DDD-在百度爱番番的实践](https://toutiao.io/k/djhtzln) ![](assets/new.png)  
+- [2021-02-21-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
+- [2021-02-21-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) ![](assets/new.png)  
+- [2021-02-21-推荐-3+1-保障：高可用系统稳定性是如何炼成的？](https://toutiao.io/k/u8lcu6b) ![](assets/new.png)  
+- [2021-02-21-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
 - [2021-02-21-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
 - [2021-02-21-推荐-Redis-集群搭建很-easy](https://toutiao.io/k/m4mw3sc) ![](assets/new.png)  
-- [2021-02-21-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) ![](assets/new.png)  
-- [2021-02-21-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
-- [2021-02-21-推荐-Go-工程化（二）：项目目录结构](https://toutiao.io/k/9p2dvmm) ![](assets/new.png)  
-- [2021-02-21-推荐-深入了解-SSH](https://toutiao.io/k/8y463n2) ![](assets/new.png)  
-- [2021-02-21-推荐-一周上线百万级高并发系统！鹅厂真实爆肝经验分享](https://toutiao.io/k/ojer153) ![](assets/new.png)  
-- [2021-02-21-推荐-最好的-IDEA-debug-长文？看完我佛了](https://toutiao.io/k/c2t9cp9) ![](assets/new.png)  
-- [2021-02-21-推荐-阅读源码的真正价值](https://toutiao.io/k/yupb5ya) ![](assets/new.png)  
-- [2021-02-21-推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

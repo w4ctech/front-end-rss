@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-02-21 07:38:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-21 07:48:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-21-求推荐一款高性价比布艺沙发](https://www.v2ex.com/t/754850) 
+- [2021-02-21-求正态分布标准差σ](https://www.v2ex.com/t/754848) 
 - [2021-02-21-字节跳动-北京/杭州实习/校招/社招抖音电商后端开发工程师](https://www.v2ex.com/t/754847) 
 - [2021-02-21-南瓜电影，你家充值系统有-bug](https://www.v2ex.com/t/754845) 
 - [2021-02-21-对粉笔之类考公培训机构的专业性表示怀疑](https://www.v2ex.com/t/754844) 
@@ -42,5 +44,3 @@
 - [2021-02-21-大家好，我们做了一个「稍后阅读」iOS-app，可以把网页永久保存在你的-iOS-设备（和-iCloud）上，现在邀请大家来内测～](https://www.v2ex.com/t/754808) 
 - [2021-02-21-小白问个关于-Hugo-的问题，如何添加友情链接？](https://www.v2ex.com/t/754804) 
 - [2021-02-21-万能的-v-友们，有熟悉百度地图-api-的吗?](https://www.v2ex.com/t/754801) 
-- [2021-02-21-在新分支-commit-之后，切换到-master-分支，为什么会提示-Your-branch-is-ahead-of-'origin/master'-by-1-commit.](https://www.v2ex.com/t/754800) 
-- [2021-02-21-彦祖们，你们有抢购-ps5-成功的经验吗？](https://www.v2ex.com/t/754799) 

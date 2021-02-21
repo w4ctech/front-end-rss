@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-21 10:32:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-21 10:41:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2021-02-21-Trackpad2-safari-后退手势不灵敏](https://www.v2ex.com/t/754842) 
 - [2021-02-21-奈何不懂，如何给-macOS-下的-Java-开发的-app，单独替换-JRE?](https://www.v2ex.com/t/754841) 
 - [2021-02-21-谁来翻译翻译，什么他吗的叫惊喜？什么他吗的叫他吗的惊喜。。。](https://www.v2ex.com/t/754840) 
-- [2021-02-21-映客用了-6-天-copy-了-Clubhouse-的全部功能，刚刚上线-5-天，你们认为有戏吗？](https://www.v2ex.com/t/754838) 

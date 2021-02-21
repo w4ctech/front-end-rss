@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-21 07:48:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-21 08:05:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -11,6 +11,14 @@
 - [2021-02-07-【视频】剖析三个常见的API调试工具](https://www.ershicimi.com/p/05ac9db4cb0f6d1a6a8f41bbf5828061) 
 - [2021-02-05-【视频】玉伯心中的好团队](https://www.ershicimi.com/p/fd77b4fd70b619f15c45f093d5181387) 
 - [2021-02-15-前端搞工程化：从零打造性能检测库「源码-+-视频」](https://www.ershicimi.com/p/c9cb0f7f76b88d12e8daea28b2c1871a) 
+- [2020-05-13-视频Winter-教你-MVVM](https://www.ershicimi.com/p/407d00f5a91b47a7f16018aaec12084f) 
+- [2019-10-13-更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d) 
+- [2019-10-12-视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b) 
+- [2019-10-10-视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a) 
+- [2019-10-08-视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed) 
+- [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
+- [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
+- [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2021-02-21-正在学习英语，-求一款能够查看音频文本的-podcast-app](https://www.v2ex.com/t/754818) 
 - [2021-02-21-【视频】|-网络安全:常见漏洞扫描技术](https://sec.thief.one/article_content?a_id=00ac4214a468e58a752d79edc0dc3b69) 
 - [2021-02-19-加勒万河谷冲突现场视频公开](https://sec.thief.one/article_content?a_id=753c7d33f222589affc2b2b34d6b6f2d) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-21 07:48:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-21 08:05:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -12,11 +12,8 @@
 - [2021-02-07-【第2200期】Chrome-88-重要更新解读](https://www.ershicimi.com/p/ac897bb426d46eb7b6ecc93f2ae7b5a2) 
 - [2021-02-06-【招聘】阿里云云安全前端团队招资深前端工程师、数据可视化工程师](https://www.ershicimi.com/p/65506e62cb1dfa61f94281b8063e1939) 
 - [2021-02-17-阿里面试官的“说一下从url输入到返回请求的过程”问的难度就是不一样！](https://www.ershicimi.com/p/03c0838e219f82c7ab5afc7585ea1245) 
+- [2021-02-07-封装-axios-取消重复请求](https://www.ershicimi.com/p/4be69911a4eaa52b2a115eec083a9545) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2021-02-05-奇舞周刊第-384-期：-Chrome-88-重要更新解读](https://www.ershicimi.com/p/18cb7e1d895b1c911f22c3d4ce19d70e) 
-- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
-- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-21-Trackpad2-safari-后退手势不灵敏](https://www.v2ex.com/t/754842) 
 - [2021-02-21-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) 

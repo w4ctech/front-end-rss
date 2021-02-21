@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-21 11:07:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-21 11:28:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2021-02-21-字节跳动-北京/杭州实习/校招/社招抖音电商后端开发工程师](https://www.v2ex.com/t/754847) 
 - [2021-02-21-南瓜电影，你家充值系统有-bug](https://www.v2ex.com/t/754845) 
 - [2021-02-21-对粉笔之类考公培训机构的专业性表示怀疑](https://www.v2ex.com/t/754844) 
-- [2021-02-21-alpine-Linux-运行-glibc-的程序，-libasound.so.2:-no-version-information-available](https://www.v2ex.com/t/754843) 

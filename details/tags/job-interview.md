@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-22 14:08:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-22 14:29:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -21,6 +21,7 @@
 - [2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
+- [2021-02-22-招聘：阿里集团-国际化中台事业部-高级-Java-开发工程师/技术专家-杭州](https://www.v2ex.com/t/755268) 
 - [2021-02-22-如果不是为了应付面试，对于技术我们真的有必要深入底层的去研究吗？](https://www.v2ex.com/t/755239) 
 - [2021-02-22-阿里巴巴淘系商家平台招聘啦！-22-年应届毕业生，暑期实习招聘！](https://www.v2ex.com/t/755229) 
 - [2021-02-19-招聘-|-富友招聘Java代码审计工程师](https://sec.thief.one/article_content?a_id=8883f1774534b9541807fa0edb5657df) 

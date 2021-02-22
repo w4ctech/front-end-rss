@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-22 19:06:36，:rocket: 更新条数: +4272， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-22 19:24:33，:rocket: 更新条数: +4317， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
@@ -654,6 +654,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,6 +1074,26 @@
 </summary>
 
 
+- [2021-02-22-著名的-Java-并发编程大师都这么说了，你还不知道伪共享么](https://toutiao.io/k/3q7ujrr) ![](assets/new.png)  
+- [2021-02-22-生产力至少提升-5-倍，大厂火拼的低代码平台究竟还有哪些坑？](https://toutiao.io/k/ipuno05) ![](assets/new.png)  
+- [2021-02-22-Java-8-为什么需要引入新的日期和时间库](https://toutiao.io/k/4bii1m0) ![](assets/new.png)  
+- [2021-02-22-身份认证之双因素认证-2FA](https://toutiao.io/k/4sfxuxd) ![](assets/new.png)  
+- [2021-02-22-CPU-缓存一致性协议-MESI](https://toutiao.io/k/zks9o4u) ![](assets/new.png)  
+- [2021-02-22-介绍一个小工具：网络策略可视化编辑器](https://toutiao.io/k/pkdp4sn) ![](assets/new.png)  
+- [2021-02-22-涂鸦智能的-Istio-企业级生产环境的实践](https://toutiao.io/k/k3miz8m) ![](assets/new.png)  
+- [2021-02-22-在-Spring-Boot-2-中致敬-JSP](https://toutiao.io/k/f6a93u9) ![](assets/new.png)  
+- [2021-02-22-面试官问：在读多写少的情况下，如果优化-MySQL-的数据查询方案](https://toutiao.io/k/kvgofut) ![](assets/new.png)  
+- [2021-02-22-你只添加了两行代码，为什么要花两天时间](https://toutiao.io/k/tl3pnrs) ![](assets/new.png)  
+- [2021-02-22-编程方式建视频：GitHub-热点速览-v.21.07](https://toutiao.io/k/d7p9fqd) ![](assets/new.png)  
+- [2021-02-22-有赞支付-SRE-体系建设实践](https://toutiao.io/k/vbjkykn) ![](assets/new.png)  
+- [2021-02-22-如何将-GitHub-上的代码一键部署到服务器？](https://toutiao.io/k/7czg4b0) ![](assets/new.png)  
+- [2021-02-22-看我如何逆向-Go-二进制文件](https://toutiao.io/k/iwlylcu) ![](assets/new.png)  
+- [2021-02-22-《TestNG》源码学习笔记](https://toutiao.io/k/ywk7lua) ![](assets/new.png)  
+- [2021-02-22-讲讲如何制作一份出彩的个人简历，我就是靠这份简历拿到鹅厂-offer-的](https://toutiao.io/k/ntlvmre) ![](assets/new.png)  
+- [2021-02-22-数据中台建设成功的三个阶段](https://toutiao.io/k/h1vngqg) ![](assets/new.png)  
+- [2021-02-22-Lucene-索引文件的载入（一）](https://toutiao.io/k/l58ark7) ![](assets/new.png)  
+- [2021-02-22-为什么-Python-的-f-string-可以连接字符串与数字？](https://toutiao.io/k/qo1x96m) ![](assets/new.png)  
+- [2021-02-22-物联网开源组件安全：Node-RED-白盒审计](https://toutiao.io/k/dhihy3j) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

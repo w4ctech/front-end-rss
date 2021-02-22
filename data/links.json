@@ -18414,7 +18414,58 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [],
+    "items": [
+      {
+        "title": "NutUI CLI源码解析",
+        "link": "https://jdc.jd.com/archives/213013",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "NutUI 3.0 中单元测试的探索和实践",
+        "link": "https://jdc.jd.com/archives/213007",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "用户说的都是真的吗？这些陷阱要避开",
+        "link": "https://jdc.jd.com/archives/212987",
+        "date": "2019-06-28"
+      },
+      {
+        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
+        "link": "https://jdc.jd.com/archives/212979",
+        "date": "2019-03-15"
+      },
+      {
+        "title": "京东PLUS会员项目前端性能优化实践",
+        "link": "https://jdc.jd.com/archives/212962",
+        "date": "2019-02-15"
+      },
+      {
+        "title": "8个常见的研究者认知偏误陷阱",
+        "link": "https://jdc.jd.com/archives/212946",
+        "date": "2019-01-28"
+      },
+      {
+        "title": "用户访谈——哪些原则简单却有效",
+        "link": "https://jdc.jd.com/archives/212927",
+        "date": "2019-01-24"
+      },
+      {
+        "title": "体现工匠精神的Resource Hints",
+        "link": "https://jdc.jd.com/archives/212917",
+        "date": "2018-12-29"
+      },
+      {
+        "title": "HTML5 Audio的兼容性问题和优化",
+        "link": "https://jdc.jd.com/archives/212874",
+        "date": "2018-12-26"
+      },
+      {
+        "title": "一个表情引发的思考",
+        "link": "https://jdc.jd.com/archives/212870",
+        "date": "2018-12-26"
+      }
+    ],
     "link": "https://jdc.jd.com"
   },
   {
@@ -21023,7 +21074,183 @@
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "著名的 Java 并发编程大师都这么说了，你还不知道伪共享么",
+        "link": "https://toutiao.io/k/3q7ujrr",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "生产力至少提升 5 倍，大厂火拼的低代码平台究竟还有哪些坑？",
+        "link": "https://toutiao.io/k/ipuno05",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "Java 8 为什么需要引入新的日期和时间库",
+        "link": "https://toutiao.io/k/4bii1m0",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "身份认证之双因素认证 2FA",
+        "link": "https://toutiao.io/k/4sfxuxd",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "CPU 缓存一致性协议 MESI",
+        "link": "https://toutiao.io/k/zks9o4u",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "介绍一个小工具：网络策略可视化编辑器",
+        "link": "https://toutiao.io/k/pkdp4sn",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "涂鸦智能的 Istio 企业级生产环境的实践",
+        "link": "https://toutiao.io/k/k3miz8m",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "在 Spring Boot 2 中致敬 JSP",
+        "link": "https://toutiao.io/k/f6a93u9",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "面试官问：在读多写少的情况下，如果优化 MySQL 的数据查询方案",
+        "link": "https://toutiao.io/k/kvgofut",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "你只添加了两行代码，为什么要花两天时间",
+        "link": "https://toutiao.io/k/tl3pnrs",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "编程方式建视频：GitHub 热点速览 v.21.07",
+        "link": "https://toutiao.io/k/d7p9fqd",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "有赞支付 SRE 体系建设实践",
+        "link": "https://toutiao.io/k/vbjkykn",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "如何将 GitHub 上的代码一键部署到服务器？",
+        "link": "https://toutiao.io/k/7czg4b0",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "看我如何逆向 Go 二进制文件",
+        "link": "https://toutiao.io/k/iwlylcu",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "《TestNG》源码学习笔记",
+        "link": "https://toutiao.io/k/ywk7lua",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "讲讲如何制作一份出彩的个人简历，我就是靠这份简历拿到鹅厂 offer 的",
+        "link": "https://toutiao.io/k/ntlvmre",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "数据中台建设成功的三个阶段",
+        "link": "https://toutiao.io/k/h1vngqg",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "Lucene 索引文件的载入（一）",
+        "link": "https://toutiao.io/k/l58ark7",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "为什么 Python 的 f-string 可以连接字符串与数字？",
+        "link": "https://toutiao.io/k/qo1x96m",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "物联网开源组件安全：Node-RED 白盒审计",
+        "link": "https://toutiao.io/k/dhihy3j",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] 2021 春节书单：110 位 CEO 心中的 NO.1",
+        "link": "https://toutiao.io/k/p6kzudl",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] 年轻人，看看 Redisson 分布式锁——可重入锁吧！太重要了",
+        "link": "https://toutiao.io/k/5xy8o0x",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] Git 全栈开发使用指南",
+        "link": "https://toutiao.io/k/v4gks4h",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] 一周上线百万级高并发系统！鹅厂真实爆肝经验分享",
+        "link": "https://toutiao.io/k/ojer153",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] 用户画像从 0 到 100 的构建思路",
+        "link": "https://toutiao.io/k/wbatwrb",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建很 easy",
+        "link": "https://toutiao.io/k/m4mw3sc",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] Go 工程化（二）：项目目录结构",
+        "link": "https://toutiao.io/k/9p2dvmm",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] 最好的 IDEA debug 长文？看完我佛了",
+        "link": "https://toutiao.io/k/c2t9cp9",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] 一文带你了解推荐系统之标签体系",
+        "link": "https://toutiao.io/k/nyb3xq7",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] Redis 遇到的那些坑",
+        "link": "https://toutiao.io/k/k4blfqn",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] 阅读源码的真正价值",
+        "link": "https://toutiao.io/k/yupb5ya",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] 领域驱动设计 (DDD) 在百度爱番番的实践",
+        "link": "https://toutiao.io/k/djhtzln",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] 这些不可不知的 JVM 知识，我都用思维导图整理好了",
+        "link": "https://toutiao.io/k/vxuckw2",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] 堪称神器的命令行工具系列之 curl",
+        "link": "https://toutiao.io/k/paa1opr",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "[推荐] 每个程序员都应该知道的 latency time",
+        "link": "https://toutiao.io/k/ol06bm3",
+        "date": "2021-02-22"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

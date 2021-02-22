@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-22 14:49:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-22 15:05:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -140,6 +140,7 @@
 - [【政采云前端团队】NPM-私库从搭建到数据迁移最后容灾备份的一些解决方案](https://www.ershicimi.com/p/7f053b7e4395be0afc90a5470a580df9)
 - [【政采云前端团队】npm-依赖管理中被忽略的那些细节](https://www.ershicimi.com/p/dbc75e14c0a00bf3a7a748722c7077b2)
 - [【Nodejs技术栈】你想知道的关于-Babel-及其相关工具使用都在这里了！](https://www.ershicimi.com/p/58bc7651bba9354dbbdd266872ed9cdb)
+- [【InfoQ】在-NVIDIA-的-GPU-中构建高速计算的大脑，带-Python-玩的那种-｜-Q推荐](https://www.ershicimi.com/p/72303fe5bf532e899ff80d1652cfee69)
 - [【掘金前端】关于现代包管理器的深度思考——为什么现在我更推荐-pnpm-而不是-npm/yarn?](https://juejin.im/post/6932046455733485575)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【编程之上】万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019)
@@ -389,8 +390,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html)
 - [【政采云前端团队】如何从-0-到-1-搭建性能检测系统修正版](https://www.ershicimi.com/p/caf97cfac5fe753a40ff1f199bf6abfe)
-- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
-- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【前端日刊】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8)
 - [【互联网架构师】再见，MySQL！性能被-MariaDB-吊打…](https://www.ershicimi.com/p/c5983166b5b981a701c82a173a023f80)
 - [【互联网架构师】一次线上商城系统高并发优化，涨姿势了～](https://www.ershicimi.com/p/7a820ac0368406c51a51797afd402b1b)
@@ -453,6 +452,7 @@
 - [【React中文社区】实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1)
 - [【全栈前端精选】一个-HTTP-打趴-80%-面试者](https://www.ershicimi.com/p/58b0559d296594c1172a1e9e108c2002)
 - [【全栈前端精选】搞懂-HTTP-重定向---如何优雅地使用-301](https://www.ershicimi.com/p/e5a8e54be4dea2e92c54c68e108a2dae)
+- [【开发者头条】推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h)
 - [【安全热点】7-个小仙女花3年时间写了一本1200页的机器学习算法手册限时开放...](https://sec.thief.one/article_content?a_id=8318767131eb201f3b3dcdcd7b9d70e5)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

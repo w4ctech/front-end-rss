@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-22 14:49:58，:rocket: 更新条数: +4074， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-22 15:05:37，:rocket: 更新条数: +4064， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -654,16 +654,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -810,6 +800,11 @@
 </summary>
 
 
+- [2021-02-22-放弃大厂高薪的程序员，涌进体制内](https://www.ershicimi.com/p/a871796a687dae724922e057aff41ab8) ![](assets/new.png)  
+- [2021-02-22-2021-年，中台的“瓜”你还吃吗？](https://www.ershicimi.com/p/5b6cadf181365cdbf9abc42d80db243c) ![](assets/new.png)  
+- [2021-02-22-吴翰清、汪源、叶绍志等大咖确认出席4月25日上海架构师峰会](https://www.ershicimi.com/p/00be4161de8e7bb4d782c147c071e93a) ![](assets/new.png)  
+- [2021-02-22-在-NVIDIA-的-GPU-中构建高速计算的大脑，带-Python-玩的那种-｜-Q推荐](https://www.ershicimi.com/p/72303fe5bf532e899ff80d1652cfee69) ![](assets/new.png)  
+- [2021-02-22-4个强大JavaScript运算符](https://www.ershicimi.com/p/04e9eec838506cf987e828f7889e1416) ![](assets/new.png)  
 - [2021-02-21-硅式鄙视：我们还在996，他们已经连955都不要了](https://www.ershicimi.com/p/6a31b09477d61af7b083d11586d34a03) ![](assets/new.png)  
 - [2021-02-21-50年长盛不衰，SQL为什么如此成功？](https://www.ershicimi.com/p/5ff241901f252eaad4e6c56bb84c2d9e) ![](assets/new.png)  
 - [2021-02-21-每一位程序员都应该学习的优秀代码](https://www.ershicimi.com/p/ed4745f89864f9b076462ecc2f7ef045) ![](assets/new.png)  
@@ -825,11 +820,6 @@
 - [2021-02-18-15-个常见的-Node.js-面试问题及答案](https://www.ershicimi.com/p/28bf51b6e65a98ba0e0d667f97b27218) ![](assets/new.png)  
 - [2021-02-18-2020-年十大热门机器学习项目](https://www.ershicimi.com/p/5aeaa294b3751d614d441d80a23ebe58) ![](assets/new.png)  
 - [2021-02-17-蚂蚁Ant-Design遭删库；俄罗斯：不排除在面对敌对行动时切断外国互联网服务-|-程序员开工指南](https://www.ershicimi.com/p/3ce715452de612a1946485dfd8fa4ec6) ![](assets/new.png)  
-- [2021-02-16-Linux-操作系统太难？先爬过这-6-个陡坡-｜-极客时间](https://www.ershicimi.com/p/cb4bb30df610c46b3c1a887e1f417e30) ![](assets/new.png)  
-- [2021-02-15-这些垃圾代码是谁写的？哦，原来小丑竟是我自己](https://www.ershicimi.com/p/820dbede2dab9e23a1cbd51e6314302c) ![](assets/new.png)  
-- [2021-02-14-爱情才是程序员的第一生产力](https://www.ershicimi.com/p/3cb51c38ce05ff1f81f44a236cfdc97e) ![](assets/new.png)  
-- [2021-02-13-“就地过年，我觉得挺爽的”](https://www.ershicimi.com/p/fee2e122d7a6b07eb2693993b7b60ab9) ![](assets/new.png)  
-- [2021-02-12-今天你开奖了吗？细数大厂春节红包背后的技术支撑](https://www.ershicimi.com/p/59060cd03965cd1218044a21f60a218d) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -992,6 +982,8 @@
 </summary>
 
 
+- [2021-02-22-北京火车站核酸检测严吗？](https://www.v2ex.com/t/755274) ![](assets/new.png)  
+- [2021-02-22-请问我这样分配硬盘是否合理？](https://www.v2ex.com/t/755273) ![](assets/new.png)  
 - [2021-02-22-求助-如何用捷径快速调用随申办市民云-app-中的健康码？](https://www.v2ex.com/t/755272) ![](assets/new.png)  
 - [2021-02-22-ubuntu-有没有微信企业版？](https://www.v2ex.com/t/755271) ![](assets/new.png)  
 - [2021-02-22-分享个很棒的插件-Search-Blocklist，特别适合屏蔽-CSDN、百家号之流](https://www.v2ex.com/t/755270) ![](assets/new.png)  
@@ -1010,8 +1002,6 @@
 - [2021-02-22-实现了一个模型压缩对比工具](https://www.v2ex.com/t/755256) ![](assets/new.png)  
 - [2021-02-22-求助！-ubuntu20.10-网卡问题](https://www.v2ex.com/t/755255) ![](assets/new.png)  
 - [2021-02-22-大家在拒绝/隔离国产软件方面有哪些好用的实践经验？](https://www.v2ex.com/t/755253) ![](assets/new.png)  
-- [2021-02-22-新加坡-数字货币交易所-Bybit-内推](https://www.v2ex.com/t/755252) ![](assets/new.png)  
-- [2021-02-22-终于买了人生第一台相机，索尼残画幅相机搭配适马镜头-请问有推荐的入门和进阶教程吗？想学习一下](https://www.v2ex.com/t/755251) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

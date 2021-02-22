@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-22 08:31:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-22 08:39:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -21,6 +21,8 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2021-01-30-如何1人5天开发超炫酷3D数据可视化大屏](https://www.ershicimi.com/p/e21ac27d93c1275d8d458a6e30e442ad) 
+- [2021-02-21-用canvas编辑你的图片](https://juejin.im/post/6931994384892166151) 
 - [2021-02-22-2月22日GUIBI早内参-以太坊市值排名升至第34,超越耐克拼多多附...](https://sec.thief.one/article_content?a_id=1599d79cc870f3a972a1e46d3fe5648b) 
 - [2021-02-19-2月19日贵币GUIBI早内参-Cosmos-Hub已完成星际之门Stargate的升级...](https://sec.thief.one/article_content?a_id=a7dba01444639441b52b771fbc2048d6) 
 - [2021-02-18-2月18日贵币GUIBI早内参-美联储重申保持宽松政策,多个机构入场助...](https://sec.thief.one/article_content?a_id=a6196afe7a2a17ce2a4f02f5881aa320) 

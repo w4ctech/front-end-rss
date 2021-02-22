@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-22 15:05:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-22 15:31:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -72,6 +72,7 @@
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 
 - [2021-02-13-Web-Components中引入外部CSS的3种方法](https://www.zhangxinxu.com/wordpress/2021/02/web-components-import-css/) 
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2021-01-11-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/fa27bfb41b2cd95468c33a411b83ba33) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2021-02-22-4个强大JavaScript运算符](https://www.ershicimi.com/p/04e9eec838506cf987e828f7889e1416) 
@@ -86,6 +87,7 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-02-22-0-代码实现-this-repo-has-xxx-stars](https://www.v2ex.com/t/755278) 
 - [2021-02-22-有什么类似-CloudFlare-Workers-的产品吗](https://www.v2ex.com/t/755259) 
 - [2021-02-22-自定义C/C++日志输出函数-www.kymjs.com](https://blogread.cn/news/go.php?idItem=14149&url=https%3A%2F%2Fwww.kymjs.com%2Fcode%2F2020%2F08%2F07%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-22-在-Spring-Boot-2-中致敬-JSP](https://toutiao.io/k/f6a93u9) 

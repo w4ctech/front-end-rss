@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-22 09:07:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-22 09:27:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -14,4 +14,7 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2021-02-22-🔥🔥🔥新加坡-技术移民知名上市互联网公司，招前端，后端开发，云平台开发，大数据工程师，-以及各类（后台架构，大数据，算法，基础架构，运维，-DBA...](https://www.v2ex.com/t/755166) 
+- [2021-02-22-https://appleid.apple.com/auth/token-被墙了？](https://www.v2ex.com/t/755163) 
+- [2021-02-22-arch-Linux-上面装了-vmware-workstation-虚拟机，无法通过-drag-and-drop-的方式或者-copy-paste-方式从-guest-OS-向-host-粘贴文件](https://www.v2ex.com/t/755143) 
 - [2021-02-21-7-个小仙女花3年时间写了一本1200页的机器学习算法手册限时开放...](https://sec.thief.one/article_content?a_id=8318767131eb201f3b3dcdcd7b9d70e5) 

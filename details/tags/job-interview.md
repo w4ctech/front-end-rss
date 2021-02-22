@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-22 17:08:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-22 17:21:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -20,7 +20,6 @@
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668) 
 - [2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
-- [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-02-22-实习杭州/北京/上海-蚂蚁集团中间件-22-届实习生招聘](https://www.v2ex.com/t/755279) 
 - [2021-02-22-base-北京-招产品-医疗大数据，组内直招产品，光速面试](https://www.v2ex.com/t/755277) 
 - [2021-02-22-招聘：阿里集团-国际化中台事业部-高级-Java-开发工程师/技术专家-杭州](https://www.v2ex.com/t/755268) 

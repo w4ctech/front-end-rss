@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-21 23:47:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-22 00:08:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -92,6 +92,5 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
-- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-02-21-为什么-chrome-没有-Safari-流畅啊。。特别-YouTube-下滑滚动时候。。。刷新评论会“卡”一丝能-feel-到](https://www.v2ex.com/t/754921) 
 - [2021-02-21-又一起类似-Java-时间格式化-yyyy-和-YYYY-引发的事件？](https://www.v2ex.com/t/754902) 

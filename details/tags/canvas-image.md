@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-22 18:45:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-22 18:59:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -22,5 +22,6 @@
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
 - [2021-01-30-如何1人5天开发超炫酷3D数据可视化大屏](https://www.ershicimi.com/p/e21ac27d93c1275d8d458a6e30e442ad) 
+- [2021-02-22-有没有熟悉-3D-建模的同学，想请教一下模型有办法压缩体积吗？](https://www.v2ex.com/t/755296) 
 - [2021-02-22-2月22日GUIBI早内参-以太坊市值排名升至第34,超越耐克拼多多附...](https://sec.thief.one/article_content?a_id=1599d79cc870f3a972a1e46d3fe5648b) 
 - [2021-02-19-2月19日贵币GUIBI早内参-Cosmos-Hub已完成星际之门Stargate的升级...](https://sec.thief.one/article_content?a_id=a7dba01444639441b52b771fbc2048d6) 

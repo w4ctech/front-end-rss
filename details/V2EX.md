@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-02-22 00:08:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-22 00:18:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-02-22-Apple-Watch-充电能充着充着充到掉电](https://www.v2ex.com/t/754937) 
+- [2021-02-22-早上睁开眼，王伟说，不想活了](https://www.v2ex.com/t/754936) 
 - [2021-02-21-加拿大移民-Start-up-Visa-项目团队急需一位-IT](https://www.v2ex.com/t/754933) 
 - [2021-02-21-有没有人想做后端实习的啊](https://www.v2ex.com/t/754932) 
 - [2021-02-21-想学习-Nginx-稍复杂一些的使用方式，有什么比较好的学习的地方吗？](https://www.v2ex.com/t/754930) 
@@ -40,5 +42,3 @@
 - [2021-02-21-嵌入式软件主程序结构的问题](https://www.v2ex.com/t/754892) 
 - [2021-02-21-以后的-x86-芯片会不会向-Apple-M1-这种包含更多部件（或者说集成度更高）的-SoC-的方向靠拢](https://www.v2ex.com/t/754891) 
 - [2021-02-21-win10-输入法占用了-Ctrl+Shift+F-快捷键导致-idea-的-find-in-files-快捷键失效](https://www.v2ex.com/t/754890) 
-- [2021-02-21-求推荐:-软件架构图用什么工具画](https://www.v2ex.com/t/754887) 
-- [2021-02-21-潭村附近哪里可以滑板？](https://www.v2ex.com/t/754886) 

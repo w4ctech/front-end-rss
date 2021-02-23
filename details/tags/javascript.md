@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-23 13:30:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 13:37:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,12 +16,6 @@
 - [2021-02-19-我终于弄懂了Promise](https://www.ershicimi.com/p/7e5a7cf1ebd341a31875529e1a0cf1ef) 
 - [2021-02-18-可视化拖拽组件库一些技术要点原理分析（三）](https://www.ershicimi.com/p/7d65e077f38a0bcb8d1125b4456b568c) 
 - [2021-02-16-JavaScript之深入理解this](https://www.ershicimi.com/p/b76e57c11d3345ec359aa20040ddc20b) 
-- [2021-02-19-别只用-console.log-调试-js-代码了](https://www.ershicimi.com/p/06071cbde8874bb5b680a643bdf06b0a) 
-- [2021-02-17-【2.16】巨大提升！更快的-async-函数和-promises](https://www.ershicimi.com/p/47cab255452d0593c38c1c4c1ec88ed0) 
-- [2021-02-09-15道ES6-Promise实战练习题，助你快速理解Promise](https://www.ershicimi.com/p/0cc58cc98e2cc8111f5be0caddc91fb2) 
-- [2021-02-08-15条你可能不知道的JS高效技巧](https://www.ershicimi.com/p/2c691130190b4e42258f8f1dd54fadf1) 
-- [2021-02-03-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/af71b782c06b4bc13d3eae0ab8100fe6) 
-- [2021-01-27-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/dedb1aa626bb99ce57b99a35ca44b8a0) 
 - [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
 - [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
 - [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 

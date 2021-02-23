@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-23 16:58:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 17:09:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -353,10 +353,13 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【V2EX】求分析海雀摄像头本地的-v264-文件](https://www.v2ex.com/t/755654)
+- [【V2EX】如何把基于深度学习的图像分类模型做成-LibTorch-调用的动态连接库？](https://www.v2ex.com/t/755634)
 - [【安全热点】Clubhouse音频数据遭泄露-引发安全性担忧](https://sec.thief.one/article_content?a_id=404ba169087fc8e7f2016a6a7e7f982d)
 - [【安全热点】火爆的音频聊天应用Clubhouse音频恐泄露](https://sec.thief.one/article_content?a_id=93faf6d3d600e11d28a48986ae36e768)
 - [【安全热点】【视频】|-网络安全:常见漏洞扫描技术](https://sec.thief.one/article_content?a_id=00ac4214a468e58a752d79edc0dc3b69)
 - [【安全热点】加勒万河谷冲突现场视频公开](https://sec.thief.one/article_content?a_id=753c7d33f222589affc2b2b34d6b6f2d)
+- [【物联网智库】视频彩铃，在5G时代能否迎来春天？](https://www.ershicimi.com/p/c6522a45a1c30680c1a74fa565604403)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -382,6 +385,7 @@
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】无需申明格式的跨语言高性能序列化格式有哪些？](https://www.v2ex.com/t/755640)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -408,6 +412,8 @@
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】第一次见到大厂不兼容新浏览器、不兼容旧浏览器、移动端体验也巨差的功能](https://www.v2ex.com/t/755635)
+- [【V2EX】RdViewer-免费跨平台可以自建服务器节点的远控软件](https://www.v2ex.com/t/755621)
 - [【安全热点】专访小米宋文宽:IoT时代的安全隐私保护](https://sec.thief.one/article_content?a_id=97f91c066207ec62e685b2de8e922cb7)
 - [【安全热点】信用卡安全?看完这个,你就不会这么淡定了!](https://sec.thief.one/article_content?a_id=aa73ce623c1b618400ab7acb4403c3c0)
 - [【安全热点】cajviewer逆向分析与漏洞挖掘](https://sec.thief.one/article_content?a_id=77b68e52a0981f0e2c999e3ed109f60d)
@@ -416,8 +422,6 @@
 - [【安全热点】社招内推-|-工商银行安全攻防实验室](https://sec.thief.one/article_content?a_id=deccd58abfa72f13a0f5425e14c37cbf)
 - [【安全热点】网络安全编程:结束进程](https://sec.thief.one/article_content?a_id=7388efc569ad85cf4805b4fcef3330e9)
 - [【安全热点】排名前100位的网络安全黑客](https://sec.thief.one/article_content?a_id=6bf24dc72c1241924a54798ac50d66f9)
-- [【安全热点】【安全圈】2020年最大的4起勒索软件攻击竟存在关联?](https://sec.thief.one/article_content?a_id=75d4c44b9724bfe831dadde97f52e641)
-- [【安全热点】【安全热点周报】第182期:“依赖混淆”新型供应链攻击,攻陷超过...](https://sec.thief.one/article_content?a_id=86fc2fa1d57b41dd17ef66707856823c)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -441,6 +445,9 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】微软-苏州/北京-大量招聘前端/后台/算法工程师](https://www.v2ex.com/t/755614)
+- [【V2EX】微软-北京/苏州-大量-hc，招聘前端/后台/算法工程师](https://www.v2ex.com/t/755611)
+- [【V2EX】网易音乐事业部-杭州-社招技术内推，-Java-、C++、前端、Android、iOS、测开、运维开发、算法、数据都有，跳槽的小伙伴动起来~](https://www.v2ex.com/t/755608)
 - [【安全热点】熟知社区发现算法,你不能错过这个-Python-库](https://sec.thief.one/article_content?a_id=60c01922bbbbd425fe076c2496b814dd)
 - [【安全热点】7-个小仙女花3年时间写了一本1200页的机器学习算法手册限时开放...](https://sec.thief.one/article_content?a_id=8318767131eb201f3b3dcdcd7b9d70e5)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -498,6 +505,8 @@
 
 
 
+- [【V2EX】组内直推-字节跳动飞书「创作与生态」研发团队招聘啦---iOS/Android/嵌入式/前端/后端](https://www.v2ex.com/t/755613)
+- [【物联网智库】华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

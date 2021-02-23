@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-23 16:58:01，:rocket: 更新条数: +399， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-23 17:09:52，:rocket: 更新条数: +457， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,11 +51,11 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)  
+- [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -524,6 +524,26 @@
 </summary>
 
 
+- [2021-02-23-深圳-TCL-怎么样啊有了解的吗](https://www.v2ex.com/t/755655) ![](assets/new.png)  
+- [2021-02-23-求分析海雀摄像头本地的-v264-文件](https://www.v2ex.com/t/755654) ![](assets/new.png)  
+- [2021-02-23-SA-1-Root](https://www.v2ex.com/t/755653) ![](assets/new.png)  
+- [2021-02-23-求职-Javascript-开发，-8-年工作经验，-base-广州](https://www.v2ex.com/t/755652) ![](assets/new.png)  
+- [2021-02-23-现在有什么比较好的解决方案可以做-VR-看房或者谷歌街景类似的全景图效果？](https://www.v2ex.com/t/755651) ![](assets/new.png)  
+- [2021-02-23-多多买菜成功退款经验](https://www.v2ex.com/t/755649) ![](assets/new.png)  
+- [2021-02-23-家庭网络网关实现故障转移](https://www.v2ex.com/t/755647) ![](assets/new.png)  
+- [2021-02-23-有可以做腾讯上海内推的吗？](https://www.v2ex.com/t/755645) ![](assets/new.png)  
+- [2021-02-23-Cloudflare-要怎么开启五秒的-ddos-防护呢？](https://www.v2ex.com/t/755644) ![](assets/new.png)  
+- [2021-02-23-网站面向国内访客，-fonts.googleapis.com-和-fonts.loli.net-哪个快？](https://www.v2ex.com/t/755643) ![](assets/new.png)  
+- [2021-02-23-台式主机噪音问题,如何解?](https://www.v2ex.com/t/755642) ![](assets/new.png)  
+- [2021-02-23-CSS-能否实现这样的排序？](https://www.v2ex.com/t/755641) ![](assets/new.png)  
+- [2021-02-23-无需申明格式的跨语言高性能序列化格式有哪些？](https://www.v2ex.com/t/755640) ![](assets/new.png)  
+- [2021-02-23-今年会发新模具的-mac-mini-吗？](https://www.v2ex.com/t/755639) ![](assets/new.png)  
+- [2021-02-23-家里网络出现一个奇怪的问题](https://www.v2ex.com/t/755637) ![](assets/new.png)  
+- [2021-02-23-有在特斯拉-Tesla-做软开工作的么，能谈谈工作感受么](https://www.v2ex.com/t/755636) ![](assets/new.png)  
+- [2021-02-23-第一次见到大厂不兼容新浏览器、不兼容旧浏览器、移动端体验也巨差的功能](https://www.v2ex.com/t/755635) ![](assets/new.png)  
+- [2021-02-23-如何把基于深度学习的图像分类模型做成-LibTorch-调用的动态连接库？](https://www.v2ex.com/t/755634) ![](assets/new.png)  
+- [2021-02-23-支付宝账单无法查看来往记录](https://www.v2ex.com/t/755633) ![](assets/new.png)  
+- [2021-02-23-一边是牛客网人人-sp-offer，一边是身边-985-硕士找实习进不了三试](https://www.v2ex.com/t/755631) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -588,6 +608,26 @@
 </summary>
 
 
+- [2021-02-16-任正非首提“南泥湾”计划，华为推“智慧养猪”，不只为赚钱这么简单……](https://www.ershicimi.com/p/eb2e57e571bfc6212b65fc8a033a3336) ![](assets/new.png)  
+- [2021-02-16-TikTok在美逃过一劫，但在印度……](https://www.ershicimi.com/p/fc6df8da7be77a7f8a2c3b8f4eea976f) ![](assets/new.png)  
+- [2021-02-15-《唐宫夜宴》爆火！5G+AR让少女们从盛唐穿越而来](https://www.ershicimi.com/p/b176f07becc2599efefe9d69427e61d6) ![](assets/new.png)  
+- [2021-02-15-视频彩铃，在5G时代能否迎来春天？](https://www.ershicimi.com/p/c6522a45a1c30680c1a74fa565604403) ![](assets/new.png)  
+- [2021-02-14-三分之一的前辈已经倒下，1600家物联网平台将何去何从？【物女心经】](https://www.ershicimi.com/p/3e3f42950056d194eba0c6df6eedfc3e) ![](assets/new.png)  
+- [2021-02-14-英伟达收购-Arm-悬了？高通-Google-微软都反对，美国政府已展开深入调查](https://www.ershicimi.com/p/baf3a22253989c3d1f1b33ba89dba248) ![](assets/new.png)  
+- [2021-02-13-任正非宣布华为成立“煤炭军团”，5G如何赋能千年古老行业？](https://www.ershicimi.com/p/cccff9f552e2875f3341070296567b95) ![](assets/new.png)  
+- [2021-02-13-百度被曝将成立芯片公司！头部互联网玩家，为何纷纷入局造芯？](https://www.ershicimi.com/p/922ce44fac6d0f6dbdc6df7fc423e108) ![](assets/new.png)  
+- [2021-02-12-拜登“送祝福”？叫停特朗普微信和TikTok禁令，还承诺解决全球芯片短缺问题](https://www.ershicimi.com/p/2641ecc249b25cc1f998a231d0d2eb70) ![](assets/new.png)  
+- [2021-02-12-一顿丰盛的年夜饭经历了多少物联网技术的“洗礼”？](https://www.ershicimi.com/p/389275692b1bf4930e839c7d4ab97bfe) ![](assets/new.png)  
+- [2021-02-11-物联网智库给各位“智友”们拜年啦！](https://www.ershicimi.com/p/9421a0dda6c582a190c55f50c9d7784e) ![](assets/new.png)  
+- [2021-02-10-智能家居的“战火”，从“后装”烧到了“前装”市场](https://www.ershicimi.com/p/233f1a826ac6b72b55ce52e16eff15b5) ![](assets/new.png)  
+- [2021-02-10-移远通信率先推出支持3GPP-R16协议的第二代5G模组](https://www.ershicimi.com/p/1a48c90182a01528130b3f76c979edf5) ![](assets/new.png)  
+- [2021-02-09-华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987) ![](assets/new.png)  
+- [2021-02-09-重磅！2020无锡物联网产业集群十件大事](https://www.ershicimi.com/p/d4daf00a77de4ed790a9378bf0319172) ![](assets/new.png)  
+- [2021-02-09-巨龙通信的成与败](https://www.ershicimi.com/p/7dfa845bfbccf6027cd594dc67a645d2) ![](assets/new.png)  
+- [2021-02-08-UWB定位技术靠“找东西”开辟百亿美元市场，苹果/三星已入局，国内厂商等待何时?](https://www.ershicimi.com/p/197e9b90c98d273ef9d536d82ae6b110) ![](assets/new.png)  
+- [2021-02-08-激战工业物联网未来，平台商的“制胜之道”](https://www.ershicimi.com/p/50976922c22b520a8e2bcbf77775a2cd) ![](assets/new.png)  
+- [2021-02-08-全球5G测速启示：运营商能否摆脱同质化竞争？](https://www.ershicimi.com/p/7c75c99553756f8526b2ede118031c29) ![](assets/new.png)  
+- [2021-02-07-信号！工业互联网向纵深跃迁，2021将是“软件定义工控”拐点之年【物女心经】](https://www.ershicimi.com/p/961452f6fc6bbab3433448bbfb81ac3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

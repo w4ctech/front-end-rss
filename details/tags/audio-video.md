@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-23 16:58:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 17:09:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -12,7 +12,10 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2021-02-23-求分析海雀摄像头本地的-v264-文件](https://www.v2ex.com/t/755654) 
+- [2021-02-23-如何把基于深度学习的图像分类模型做成-LibTorch-调用的动态连接库？](https://www.v2ex.com/t/755634) 
 - [2021-02-23-Clubhouse音频数据遭泄露-引发安全性担忧](https://sec.thief.one/article_content?a_id=404ba169087fc8e7f2016a6a7e7f982d) 
 - [2021-02-22-火爆的音频聊天应用Clubhouse音频恐泄露](https://sec.thief.one/article_content?a_id=93faf6d3d600e11d28a48986ae36e768) 
 - [2021-02-21-【视频】|-网络安全:常见漏洞扫描技术](https://sec.thief.one/article_content?a_id=00ac4214a468e58a752d79edc0dc3b69) 
 - [2021-02-19-加勒万河谷冲突现场视频公开](https://sec.thief.one/article_content?a_id=753c7d33f222589affc2b2b34d6b6f2d) 
+- [2021-02-15-视频彩铃，在5G时代能否迎来春天？](https://www.ershicimi.com/p/c6522a45a1c30680c1a74fa565604403) 

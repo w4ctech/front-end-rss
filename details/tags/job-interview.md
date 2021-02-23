@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-23 14:41:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 14:50:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -14,5 +14,10 @@
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2021-02-08-程序员面试-10-大潜规则，千万不要踩坑！](https://www.ershicimi.com/p/33885aa441cb80bb81fd841f80a3620d) 
-- [2021-02-02-知乎高赞：大厂面试的2个关键点](https://www.ershicimi.com/p/d4b2bef4ef3445ef06176a2a2a443319) 
 - [2021-02-20-最火大厂面试题、面试技巧汇总及简历编写（附简历模版下载）](https://www.ershicimi.com/p/6d170a3bd4d9dc9a1c9e0ce6f8c08c03) 
+- [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
+- [2021-02-23-组内直推-字节跳动飞书「创作与生态」研发团队招聘啦---iOS/Android/嵌入式/前端/后端](https://www.v2ex.com/t/755613) 
+- [2021-02-23-同学内推，周五要去面试了，意外发现前几天在农村老家一桌吃饭的远房亲戚在那里当-CTO](https://www.v2ex.com/t/755603) 
+- [2021-02-23-招聘：技术总监（上海）](https://www.v2ex.com/t/755599) 
+- [2021-02-23-欢迎投递-Shopee深圳专场招聘会~](https://www.v2ex.com/t/755598) 
+- [2021-02-09-华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987) 

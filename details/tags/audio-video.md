@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-23 03:32:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 03:41:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,6 +86,7 @@
 - [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
+- [2021-02-19-面向新一代视频编码标准的高自适应性扩展四叉树划分技术](https://juejin.im/post/6931149283093676039) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-02-22-火爆的音频聊天应用Clubhouse音频恐泄露](https://sec.thief.one/article_content?a_id=93faf6d3d600e11d28a48986ae36e768) 
 - [2021-02-21-【视频】|-网络安全:常见漏洞扫描技术](https://sec.thief.one/article_content?a_id=00ac4214a468e58a752d79edc0dc3b69) 

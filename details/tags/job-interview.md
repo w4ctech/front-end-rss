@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-23 07:08:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 07:30:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -21,6 +21,5 @@
 - [2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
-- [2021-02-23-字节抖音电商-上海北京杭州历时-2-个月小厂双非的我总算入职，组内招前端，客户端，测试。内推分享自己面试小经验和刷题技巧](https://www.v2ex.com/t/755431) 
 - [2021-02-19-招聘-|-富友招聘Java代码审计工程师](https://sec.thief.one/article_content?a_id=8883f1774534b9541807fa0edb5657df) 
 - [2021-02-09-华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987) 

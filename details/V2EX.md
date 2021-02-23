@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-23 04:57:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 05:04:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -38,4 +38,3 @@
 - [2021-02-23-入瘦主机还是家用服务器](https://www.v2ex.com/t/755370) 
 - [2021-02-23-求教：怎么查看用户通过开始菜单打开过哪些程序](https://www.v2ex.com/t/755369) 
 - [2021-02-23-三天了，项目关闭的时候，日志有-shutting-down-ExecutorService-'taskSchedule'](https://www.v2ex.com/t/755367) 
-- [2021-02-23-微信实验系统招算法研究员和大数据后台开发（base-深圳，北京，广州）](https://www.v2ex.com/t/755365) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-23 18:33:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 18:43:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,7 +7,6 @@
 
 
 
-- [2021-02-20-一个-HTTP-打趴-80%-前端面试者](https://www.ershicimi.com/p/22a60d006552de8528c8d605c238757c) 
 - [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/) 
 - [2017-04-11-GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/) 
 - [2016-12-08-vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-23 01:09:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 01:23:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,4 +28,3 @@
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2021-02-22-从-0-到-1-使用-Golang-开发生产级麻将游戏服务器—第-6-篇图解-Manager-游戏逻辑组件](https://www.v2ex.com/t/755292) 
-- [2021-02-22-用意念玩游戏，已经有产品了](https://www.v2ex.com/t/755266) 

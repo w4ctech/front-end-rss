@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-23 10:09:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 10:34:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -23,6 +23,4 @@
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
 - [2021-02-23-Dropbox-面试题：左旋右旋迭代器](https://www.v2ex.com/t/755560) 
 - [2021-02-23-西安-腾讯云子公司招聘-golang-后台开发](https://www.v2ex.com/t/755554) 
-- [2021-02-23-西安-SAP-招聘-Fullstack-工程师](https://www.v2ex.com/t/755525) 
-- [2021-02-19-招聘-|-富友招聘Java代码审计工程师](https://sec.thief.one/article_content?a_id=8883f1774534b9541807fa0edb5657df) 
 - [2021-02-09-华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987) 

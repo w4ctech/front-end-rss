@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-23 11:29:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 11:38:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -8,4 +8,3 @@
 
 
 - [2021-02-18-GraphQL-实战篇之前端+后端](https://www.ershicimi.com/p/1252fe573a7e9084d514c25a9f822124) 
-- [2021-02-23-!小白请教一个-nginx-重定向问题](https://www.v2ex.com/t/755543) 

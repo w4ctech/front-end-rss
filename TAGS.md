@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-23 01:56:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 02:03:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -146,6 +146,7 @@
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 - [【InfoQ】在-NVIDIA-的-GPU-中构建高速计算的大脑，带-Python-玩的那种-｜-Q推荐](https://www.ershicimi.com/p/72303fe5bf532e899ff80d1652cfee69)
+- [【掘金前端】关于现代包管理器的深度思考——为什么现在我更推荐-pnpm-而不是-npm/yarn?](https://juejin.im/post/6932046455733485575)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【编程之上】万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019)
 - [【编程之上】4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4)
@@ -535,7 +536,6 @@
 - [【前端大全】GraphQL-实战篇之前端+后端](https://www.ershicimi.com/p/1252fe573a7e9084d514c25a9f822124)
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
-- [【V2EX】请教-Nginx-反向代理-proxy_set_header-如何配置-Authorization-参数](https://www.v2ex.com/t/755285)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

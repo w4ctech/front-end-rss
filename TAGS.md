@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-23 01:23:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 01:56:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -598,9 +598,8 @@
 - [【V2EX】广州晓教育-招聘前端~~](https://www.v2ex.com/t/755318)
 - [【V2EX】FinTech-社区-招聘：全球资产配置高级分析师-基本面+量化-北京/上海](https://www.v2ex.com/t/755304)
 - [【V2EX】FinTech-社区-招聘：-CTA-量化投资经理-上海](https://www.v2ex.com/t/755300)
-- [【V2EX】实习杭州/北京/上海-蚂蚁集团中间件-22-届实习生招聘](https://www.v2ex.com/t/755279)
-- [【V2EX】base-北京-招产品-医疗大数据，组内直招产品，光速面试](https://www.v2ex.com/t/755277)
 - [【安全热点】招聘-|-富友招聘Java代码审计工程师](https://sec.thief.one/article_content?a_id=8883f1774534b9541807fa0edb5657df)
+- [【物联网智库】华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

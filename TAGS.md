@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-23 11:08:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 11:29:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -452,7 +452,6 @@
 - [【React中文社区】实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1)
 - [【全栈前端精选】一个-HTTP-打趴-80%-面试者](https://www.ershicimi.com/p/58b0559d296594c1172a1e9e108c2002)
 - [【全栈前端精选】搞懂-HTTP-重定向---如何优雅地使用-301](https://www.ershicimi.com/p/e5a8e54be4dea2e92c54c68e108a2dae)
-- [【开发者头条】推荐-Git-全栈开发使用指南](https://toutiao.io/k/v4gks4h)
 - [【安全热点】熟知社区发现算法,你不能错过这个-Python-库](https://sec.thief.one/article_content?a_id=60c01922bbbbd425fe076c2496b814dd)
 - [【安全热点】7-个小仙女花3年时间写了一本1200页的机器学习算法手册限时开放...](https://sec.thief.one/article_content?a_id=8318767131eb201f3b3dcdcd7b9d70e5)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

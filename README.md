@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-23 02:38:37，:rocket: 更新条数: +4052， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-23 02:45:00，:rocket: 更新条数: +4306， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,10 +36,10 @@
 - [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -619,6 +619,16 @@
 </summary>
 
 
+- [2021-02-18-使用CSS-text-combine-upright实现字符的横向合并](https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/) ![](assets/new.png)  
+- [2021-02-18-CSS-line-break属性与中文标点换行](https://www.zhangxinxu.com/wordpress/2021/02/css-line-break/) ![](assets/new.png)  
+- [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) ![](assets/new.png)  
+- [2021-02-17-好消息，CSS-text-underline-offset可以用起来了](https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset/) ![](assets/new.png)  
+- [2021-02-16-CSS-::marker伪元素简介](https://www.zhangxinxu.com/wordpress/2021/02/css-marker-pseudo-element/) ![](assets/new.png)  
+- [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) ![](assets/new.png)  
+- [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) ![](assets/new.png)  
+- [2021-02-14-直线等图形从中间穿过元素或文字的CSS实现](https://www.zhangxinxu.com/wordpress/2021/02/css-3d-through/) ![](assets/new.png)  
+- [2021-02-14-了解CSS-revert全局关键字](https://www.zhangxinxu.com/wordpress/2021/02/css-revert/) ![](assets/new.png)  
+- [2021-02-13-Web-Components中引入外部CSS的3种方法](https://www.zhangxinxu.com/wordpress/2021/02/web-components-import-css/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -630,9 +640,6 @@
 </summary>
 
 
-- [2021-02-19-科技爱好者周刊（第-146-期）：网课应该怎么上？](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-146.html) ![](assets/new.png)  
-- [2021-02-05-科技爱好者周刊（第-145-期）：大家不出门，经济怎么办？](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-145.html) ![](assets/new.png)  
-- [2021-01-29-科技爱好者周刊（第-144-期）：提高收入的根本途径](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-144.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -665,6 +672,26 @@
 </summary>
 
 
+- [2021-02-01-凹凸技术揭秘-·-技术精进与业务发展两不误](https://aotu.io/notes/2021/02/01/both-tech-n-biz/) ![](assets/new.png)  
+- [2021-01-14-凹凸技术揭秘-·-Taro-·-开放式跨端跨框架之路](https://aotu.io/notes/2021/01/14/taro-history/) ![](assets/new.png)  
+- [2021-01-14-凹凸技术揭秘-·-基础服务体系-·-构筑服务端技术中枢](https://aotu.io/notes/2021/01/14/exa-server/) ![](assets/new.png)  
+- [2021-01-06-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) ![](assets/new.png)  
+- [2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) ![](assets/new.png)  
+- [2020-12-31-凹凸技术揭秘-·-Deco-智能代码-·-开启产研效率革命](https://aotu.io/notes/2020/12/31/deco/) ![](assets/new.png)  
+- [2020-12-31-凹凸技术揭秘·羚珑页面可视化·成长蜕变之路](https://aotu.io/notes/2020/12/31/ling-atom-design/) ![](assets/new.png)  
+- [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) ![](assets/new.png)  
+- [2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) ![](assets/new.png)  
+- [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) ![](assets/new.png)  
+- [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) ![](assets/new.png)  
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) ![](assets/new.png)  
+- [2020-11-05-EaseJs-中-regX-/-regY-的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -977,6 +1004,8 @@
 </summary>
 
 
+- [2021-02-23-未来技术赛道-阿里达摩院诚征前端](https://www.v2ex.com/t/755355) ![](assets/new.png)  
+- [2021-02-23-元宵活动-集材料做元宵，海盗船机械键盘-k70、星巴克卡、小米音响、代金券任你抽](https://www.v2ex.com/t/755354) ![](assets/new.png)  
 - [2021-02-23-实习-微软亚洲研究院-机器学习系统性能评测及相关研究实习生](https://www.v2ex.com/t/755352) ![](assets/new.png)  
 - [2021-02-23-M1-芯片-安装最新版的-Homebrew-并替换成清华大学的源后无法安装软件](https://www.v2ex.com/t/755350) ![](assets/new.png)  
 - [2021-02-23-无锡有什么还不错的互联网公司吗？](https://www.v2ex.com/t/755349) ![](assets/new.png)  
@@ -995,8 +1024,6 @@
 - [2021-02-23-从-iCloud-恢复备份失败](https://www.v2ex.com/t/755332) ![](assets/new.png)  
 - [2021-02-23-VLOOK-10.0-发布！速览-2：表格篇——开箱即用的-Typora-Markdown-插件](https://www.v2ex.com/t/755331) ![](assets/new.png)  
 - [2021-02-23-国内外有哪些好的前端实战网站？](https://www.v2ex.com/t/755329) ![](assets/new.png)  
-- [2021-02-23-微信开放社区这一大坨极速赛车是什么鬼，这是被刷屏了？doge](https://www.v2ex.com/t/755326) ![](assets/new.png)  
-- [2021-02-23-19-个实用前端网站推荐](https://www.v2ex.com/t/755325) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1055,10 +1082,10 @@
 - [2021-02-23-什么是前端工程化](https://toutiao.io/k/n2i3qq7) ![](assets/new.png)  
 - [2021-02-23-硬盘的秘密](https://toutiao.io/k/mszq0ch) ![](assets/new.png)  
 - [2021-02-23-一致性-Hash-原理及-GroupCache-源码分析](https://toutiao.io/k/7542154) ![](assets/new.png)  
+- [2021-02-23-AI-入行那些事儿（二）：人工智能的应用和技术](https://toutiao.io/k/20lfpkn) ![](assets/new.png)  
 - [2021-02-23-Python-项目的虚拟环境](https://toutiao.io/k/3oncfj9) ![](assets/new.png)  
-- [2021-02-23-推荐-Redis-遇到的那些坑](https://toutiao.io/k/k4blfqn) ![](assets/new.png)  
+- [2021-02-23-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
 - [2021-02-23-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
-- [2021-02-23-推荐-领域驱动设计-DDD-在百度爱番番的实践](https://toutiao.io/k/djhtzln) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

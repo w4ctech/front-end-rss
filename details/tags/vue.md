@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-23 14:38:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-23 14:41:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -41,5 +41,3 @@
 - [2021-02-18-基于-Vite-搭建-Electron-+-Vue3-的开发环境](https://www.ershicimi.com/p/55f406ce24ac6df5c3af9689933a5105) 
 - [2021-02-07-Vue.js开发移动端经验总结](https://www.ershicimi.com/p/3f93fc2658a50d1c5ce32441d9f07a2f) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
-- [2021-02-23-网易广州招聘-Java-后台，-Electron+VueJs-前端，-U3D-客户端](https://www.v2ex.com/t/755590) 
-- [2021-02-23-使用-VuePress-搭建一个自己的知识文档](https://toutiao.io/k/makr7pc) 

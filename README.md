@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-24 03:42:04，:rocket: 更新条数: +4319， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-24 03:54:51，:rocket: 更新条数: +4319， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1012,6 +1012,7 @@
 </summary>
 
 
+- [2021-02-24-广州/北京Bigo-内推大量-HC周六双薪房补+四餐+薪资高15-薪以上发展前景好福利超好](https://www.v2ex.com/t/755767) ![](assets/new.png)  
 - [2021-02-24-准备回西安了](https://www.v2ex.com/t/755763) ![](assets/new.png)  
 - [2021-02-24-绿厂内推需要的吗?](https://www.v2ex.com/t/755761) ![](assets/new.png)  
 - [2021-02-24-回老家还是留在北京再刚一年？](https://www.v2ex.com/t/755760) ![](assets/new.png)  
@@ -1021,7 +1022,6 @@
 - [2021-02-24-有没有函数式编程比较经典的实践？](https://www.v2ex.com/t/755754) ![](assets/new.png)  
 - [2021-02-24-Vite-与-Umi-相比](https://www.v2ex.com/t/755753) ![](assets/new.png)  
 - [2021-02-24-有大佬知道根据筛选条件给出余下符合可组合标签/分类的数量这个是用什么数据库或方法实现的?](https://www.v2ex.com/t/755752) ![](assets/new.png)  
-- [2021-02-24-某乎现在发言必须-zz-正确了。我看法规是鼓励-zz-正确，某乎却会对相反言论删帖，应该是人工审核的。](https://www.v2ex.com/t/755751) ![](assets/new.png)  
 - [2021-02-24-收到灯塔国-TOP10-大学的-CS-PhD-Offer-了，但是女朋友还在内地工作](https://www.v2ex.com/t/755750) ![](assets/new.png)  
 - [2021-02-24-Starlink-已可以在国内地址预约购买](https://www.v2ex.com/t/755749) ![](assets/new.png)  
 - [2021-02-24-上海传统行业公司扩大技术团队，产品/开发/测试/QA/运维](https://www.v2ex.com/t/755747) ![](assets/new.png)  
@@ -1092,8 +1092,8 @@
 - [2021-02-24-浅析-VO、DTO、DO、PO-的概念、区别和用处](https://toutiao.io/k/twvf5lk) ![](assets/new.png)  
 - [2021-02-24-C-程序编程四步走](https://toutiao.io/k/pvvhxkk) ![](assets/new.png)  
 - [2021-02-24-Redis-实现发布订阅原理与实践](https://toutiao.io/k/vyrfy3g) ![](assets/new.png)  
-- [2021-02-24-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
-- [2021-02-24-推荐-一周上线百万级高并发系统！鹅厂真实爆肝经验分享](https://toutiao.io/k/ojer153) ![](assets/new.png)  
+- [2021-02-24-什么样的岗位会最先被人工智能-AI-取代？](https://toutiao.io/k/f1t98wg) ![](assets/new.png)  
+- [2021-02-24-软件安全能力成熟度评估实践](https://toutiao.io/k/a8bw6su) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

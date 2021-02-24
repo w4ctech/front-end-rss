@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-24 03:54:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-24 04:04:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -114,6 +114,7 @@
 - [【政采云前端团队】编写高质量可维护的代码：Awesome-TypeScript](https://www.ershicimi.com/p/0e0e4e00548bd0c316732a2a25594a04)
 - [【前端宇宙】推荐-7-个学习-TypeScript-的宝库，2021-是时候给自己加薪了！](https://www.ershicimi.com/p/b57c1a987fa377782b4e223a2eef1e46)
 - [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
+- [【掘金前端】Design-Pattern-|-策略模式（-Strategy-Pattern-）前端-TypeScript](https://juejin.im/post/6932643453301948424)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -451,9 +452,9 @@
 - [【互联网架构师】太牛逼了！自从项目中用了Disruptor之后，性能提升了2.5倍](https://www.ershicimi.com/p/472e6d99831998dc169481759cb5c8aa)
 - [【InfoQ】代码优化是一把双刃剑](https://www.ershicimi.com/p/07ca72685979106ec8b0f188f4fa19de)
 - [【JavaScript】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48)
-- [【掘金前端】图片延迟加载的2种实现方案](https://juejin.im/post/6932508683041505294)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】实习-微软亚洲研究院-机器学习系统性能评测及相关研究实习生](https://www.v2ex.com/t/755725)
+- [【开发者头条】Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -517,7 +518,6 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
-- [【V2EX】怎么优雅的实现-Java-语言中的排列组合算法的结果集合？](https://www.v2ex.com/t/755718)
 - [【开发者头条】通过-httpcmd-来灵活的管理的云服务器再也不担心被轻易-F4-了](https://toutiao.io/k/q57m20v)
 - [【安全热点】限时删除,《去你丫的算法》开放电子书下载!](https://sec.thief.one/article_content?a_id=1c2e89c43f3ae79ba733b75dd1f81e59)
 - [【安全热点】熟知社区发现算法,你不能错过这个-Python-库](https://sec.thief.one/article_content?a_id=60c01922bbbbd425fe076c2496b814dd)
@@ -598,8 +598,7 @@
 - [【前端日刊】笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b)
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
-- [【V2EX】FinTech-社区-招聘：投资经理-固收-上海](https://www.v2ex.com/t/755721)
-- [【V2EX】阿里新零售技术-2022-年毕业实习岗招聘（内推）](https://www.v2ex.com/t/755719)
+- [【V2EX】深圳-奇志科技-丨招聘-SaaS-/-中后台产品经理-丨-965-/-地产科技-/-无人机](https://www.v2ex.com/t/755771)
 - [【物联网智库】华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-24 09:08:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-24 09:32:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -19,7 +19,7 @@
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2021-02-24-webassembly-基础](https://juejin.im/post/6932741982447992845) 
-- [2021-02-24-🔥🔥🔥新加坡-技术移民知名上市互联网公司，招各类（前端，后台架构，大数据，地图数据平台，算法，基础架构，运维，-DBA-等等各方向）技术专家和技术...](https://www.v2ex.com/t/755846) 
+- [2021-02-24-网易音乐事业部-杭州-社招技术内推，-Java-、C++、前端、Android、iOS、测开、运维开发、算法、数据都有，跳槽的小伙伴动起来](https://www.v2ex.com/t/755907) 
 - [2021-02-24-通过-httpcmd-来灵活的管理的云服务器再也不担心被轻易-F4-了](https://toutiao.io/k/q57m20v) 
 - [2021-02-24-限时删除,《去你丫的算法》开放电子书下载!](https://sec.thief.one/article_content?a_id=1c2e89c43f3ae79ba733b75dd1f81e59) 
 - [2021-02-23-熟知社区发现算法,你不能错过这个-Python-库](https://sec.thief.one/article_content?a_id=60c01922bbbbd425fe076c2496b814dd) 

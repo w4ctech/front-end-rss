@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-24 22:06:47，:rocket: 更新条数: +4326， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-24 22:34:32，:rocket: 更新条数: +4327， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -736,6 +736,9 @@
 </summary>
 
 
+- [2021-02-23-那些只会-Vue-的前端，过的怎么样了？](https://www.ershicimi.com/p/7f8e91c9240a54bcc837f8d62539f72c) ![](assets/new.png)  
+- [2021-02-22-面试官：谈一下React-的Fiber架构和Hooks](https://www.ershicimi.com/p/28c9dc799df2d7a8a8577ec53e400342) ![](assets/new.png)  
+- [2021-02-18-从入门时月薪2K到跳槽大厂月薪40K,他经历了什么？](https://www.ershicimi.com/p/ba37ba06aa1cc74d89cf855e89f651b6) ![](assets/new.png)  
 - [2021-02-04-面试官：谈一下Vue3响应式数据原理](https://www.ershicimi.com/p/d66cd5e3973a28eed5cc5c8b5114a6be) ![](assets/new.png)  
 - [2021-02-01-就地过年！看看程序员们都在囤什么？](https://www.ershicimi.com/p/35cd10904f2768d2521add0c792ab155) ![](assets/new.png)  
 - [2021-01-28-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/4d5c147d5b5e7dac5ceaa7320b5677b3) ![](assets/new.png)  
@@ -753,9 +756,6 @@
 - [2020-12-10-又作什么妖？会-Vue-也是错……](https://www.ershicimi.com/p/ae08e4308e9b3c9c8dd44f2c7481bb14) ![](assets/new.png)  
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668) ![](assets/new.png)  
 - [2020-12-04-小程序开发其实不难！学会这几个组件你也会](https://www.ershicimi.com/p/89fa25c16114790ca3b257faed3da5de) ![](assets/new.png)  
-- [2020-12-03-这一次彻底弄懂React-Router路由原理](https://www.ershicimi.com/p/91483570618fec8b1325f5aa8e1da6ae) ![](assets/new.png)  
-- [2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) ![](assets/new.png)  
-- [2020-11-30-前端人必备：前端与图形学](https://www.ershicimi.com/p/b6b31f502c3edb6798883387d936ba96) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1011,6 +1011,8 @@
 </summary>
 
 
+- [2021-02-24-AirPods-Pro-已经过保，但居然还是免费换新了](https://www.v2ex.com/t/756026) ![](assets/new.png)  
+- [2021-02-24-恕我直言，-Airpods-Pro-慢了](https://www.v2ex.com/t/756025) ![](assets/new.png)  
 - [2021-02-24-Speedtest.im-已修复一直准备中的-bug](https://www.v2ex.com/t/756024) ![](assets/new.png)  
 - [2021-02-24-海外曝-iPad-放大版的-iMac-今年要来了](https://www.v2ex.com/t/756022) ![](assets/new.png)  
 - [2021-02-24-hosts-小程序有多少人用过了？](https://www.v2ex.com/t/756021) ![](assets/new.png)  
@@ -1029,8 +1031,6 @@
 - [2021-02-24-建站咨询](https://www.v2ex.com/t/756006) ![](assets/new.png)  
 - [2021-02-24-base-广州，大型央企内推，-100+岗位，不限开发岗，七险二金/公租房/三餐食堂/班车/各种补贴/工会福利/高年终奖](https://www.v2ex.com/t/756005) ![](assets/new.png)  
 - [2021-02-24-MacBook-Pro-15-inch,-2018-usb-c-to-c-链接到-U2720QM-音量无法调节么？-monitorControl-可调节但不生效](https://www.v2ex.com/t/756004) ![](assets/new.png)  
-- [2021-02-24-涂鸦智能实习-前端/C++/移动端/Golang-开发](https://www.v2ex.com/t/756003) ![](assets/new.png)  
-- [2021-02-24-涂鸦智能实习-前端/C++/移动端/Golang-开发](https://www.v2ex.com/t/756002) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

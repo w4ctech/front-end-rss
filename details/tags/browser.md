@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-24 10:09:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-24 10:33:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -48,7 +48,6 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
-- [2021-02-24-Webview的使用-|-VSCode插件开发系列教程](https://juejin.im/post/6932766917694324749) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-24-关于信息安全系统检测的问题](https://www.v2ex.com/t/755909) 
 - [2021-02-24-edge-浏览器的上半部消失了，有大仙知道咋回事不，只有重启电脑才恢复。](https://www.v2ex.com/t/755896) 
@@ -56,6 +55,8 @@
 - [2021-02-24-清华大学莫一林：信息物理系统中的安全控制算法-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14147&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F09%2F30%2Fmeituan-top-talk-moyilin-cps.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-24-软件安全能力成熟度评估实践](https://toutiao.io/k/a8bw6su) 
 - [2021-02-24-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) 
+- [2021-02-24-《2020年工业信息安全态势报告》:工业安全态势复杂化,须加码风险...](https://sec.thief.one/article_content?a_id=d2c431cab85efee21c72177b8daab0dc) 
+- [2021-02-24-好书推荐-|-第四期:《内网安全攻防:渗透测试实战指南》](https://sec.thief.one/article_content?a_id=d2d5c29ec24df515f56155eb35d554b9) 
 - [2021-02-24-强制性国家标准《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=3575dfb11442bbda888a36f7bf21ab29) 
 - [2021-02-24-红杉资本遭遇黑客攻击,网络安全或将成为企业最大难题](https://sec.thief.one/article_content?a_id=83af4f9b62d2cd871774f79ac1797a4c) 
 - [2021-02-23-【安全圈】微软:Solorigate-攻击未使客户数据泄露](https://sec.thief.one/article_content?a_id=c6124db8779b4c8b1840f33aed482d8c) 
@@ -74,6 +75,3 @@
 - [2021-02-22-每日安全动态推送02-22](https://sec.thief.one/article_content?a_id=b1773d08e12dfd2bc1b572bcfa115931) 
 - [2021-02-22-网络安全攻防:Linux系统安全之OpenSSH安全配置](https://sec.thief.one/article_content?a_id=882636d5ba05ab84b08b27638f1165c4) 
 - [2021-02-21-在招|前海人寿高薪诚招应用安全岗](https://sec.thief.one/article_content?a_id=e04a63fe96358a06a7ba7e5af686027a) 
-- [2021-02-21-“十四五”时期网络安全的五大转变](https://sec.thief.one/article_content?a_id=26ae938899552eed345a2d7d96a49f8d) 
-- [2021-02-20-虎符智库|“十四五”时期网络安全的五大转变](https://sec.thief.one/article_content?a_id=de7d3d045c43dc649d6940b5d8518cb6) 
-- [2021-02-20-Canalys:2021年网络安全投资将增长10%](https://sec.thief.one/article_content?a_id=f10d842918f42f8148ce1f865268cab1) 

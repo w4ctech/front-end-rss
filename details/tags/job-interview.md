@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-24 02:18:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-24 02:44:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -21,7 +21,8 @@
 - [2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-12-23-刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f) 
+- [2021-02-24-FinTech-社区-招聘：投资经理-固收-上海](https://www.v2ex.com/t/755721) 
+- [2021-02-24-阿里新零售技术-2022-年毕业实习岗招聘（内推）](https://www.v2ex.com/t/755719) 
 - [2021-02-24-FinTech-社区-招聘：-FPGA-开发工程师-上海](https://www.v2ex.com/t/755707) 
 - [2021-02-24-广州晓教育-招聘中高级前端~](https://www.v2ex.com/t/755696) 
-- [2021-02-24-网易面试题：最大线段覆盖](https://www.v2ex.com/t/755682) 
 - [2021-02-09-华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987) 

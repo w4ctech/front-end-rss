@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-24 06:09:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-24 06:36:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -76,8 +76,8 @@
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2021-02-22-4个强大JavaScript运算符](https://www.ershicimi.com/p/04e9eec838506cf987e828f7889e1416) 
 - [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？](https://www.ershicimi.com/p/27033dcdf27caaae7012a928c62ea0ea) 
-- [2021-02-23-Web-Components-上手指南](https://juejin.im/post/6932675132284633101) 
-- [2021-02-23-CSS弹性布局FLEX,媒体查询,移动端点击事件](https://juejin.im/post/6932648467617710094) 
+- [2021-02-23-JS实现多行文本的展开/收起](https://juejin.im/post/6932663004416868365) 
+- [2021-02-23-原生JS实现音乐播放器](https://juejin.im/post/6932662088250687501) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -88,7 +88,5 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-02-24-如何获取命令标准输出到变量里并保留颜色？或者能不能一边输出一边赋值或判断。](https://www.v2ex.com/t/755769) 
-- [2021-02-24-有没有函数式编程比较经典的实践？](https://www.v2ex.com/t/755754) 
-- [2021-02-24-自定义C/C++日志输出函数-www.kymjs.com](https://blogread.cn/news/go.php?idItem=14149&url=https%3A%2F%2Fwww.kymjs.com%2Fcode%2F2020%2F08%2F07%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-23-“适配”M1芯片的新型Mac电脑病毒爆发](https://sec.thief.one/article_content?a_id=d7d0da295609491fb7fc90da62b4849f) 
 - [2021-02-21-通过Windows事件日志介绍APT-Hunter](https://sec.thief.one/article_content?a_id=0e2a52ea616d03453773c1076e74f2c9) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-24 05:07:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-24 05:30:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,14 +35,6 @@
 - [2021-02-19-使用-Performance-看看浏览器在做些什么](https://www.ershicimi.com/p/a03f493702ae7aba197afa9476650048) 
 - [2021-02-21-前端-Code-Review-的最佳实践方案](https://www.ershicimi.com/p/8f4c1fb010cc20a0ff64f60686f02d5b) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2021-02-05-奇舞周刊第-384-期：-Chrome-88-重要更新解读](https://www.ershicimi.com/p/18cb7e1d895b1c911f22c3d4ce19d70e) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
@@ -53,6 +45,8 @@
 - [2021-02-24-清华大学莫一林：信息物理系统中的安全控制算法-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14147&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F09%2F30%2Fmeituan-top-talk-moyilin-cps.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-24-软件安全能力成熟度评估实践](https://toutiao.io/k/a8bw6su) 
 - [2021-02-24-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) 
+- [2021-02-24-强制性国家标准《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=3575dfb11442bbda888a36f7bf21ab29) 
+- [2021-02-24-红杉资本遭遇黑客攻击,网络安全或将成为企业最大难题](https://sec.thief.one/article_content?a_id=83af4f9b62d2cd871774f79ac1797a4c) 
 - [2021-02-23-【安全圈】微软:Solorigate-攻击未使客户数据泄露](https://sec.thief.one/article_content?a_id=c6124db8779b4c8b1840f33aed482d8c) 
 - [2021-02-23-GSMA发布《人工智能赋能安全应用案例集》-奇安信多项成果入选](https://sec.thief.one/article_content?a_id=091d2e83a6839ff9870e01006adaffcb) 
 - [2021-02-23-专访小米宋文宽:IoT时代的安全隐私保护](https://sec.thief.one/article_content?a_id=97f91c066207ec62e685b2de8e922cb7) 
@@ -72,7 +66,3 @@
 - [2021-02-21-“十四五”时期网络安全的五大转变](https://sec.thief.one/article_content?a_id=26ae938899552eed345a2d7d96a49f8d) 
 - [2021-02-20-虎符智库|“十四五”时期网络安全的五大转变](https://sec.thief.one/article_content?a_id=de7d3d045c43dc649d6940b5d8518cb6) 
 - [2021-02-20-Canalys:2021年网络安全投资将增长10%](https://sec.thief.one/article_content?a_id=f10d842918f42f8148ce1f865268cab1) 
-- [2021-02-20-信息安全漏洞周报2021年第7期](https://sec.thief.one/article_content?a_id=6301e16fea89bbf9f01fb636d50bd3b7) 
-- [2021-02-20-百度安全再次亮相安全顶级会议NDSS--研究幽灵代码利用片段检测的...](https://sec.thief.one/article_content?a_id=a2bffdb123ed7551ca2e1e285681cb1f) 
-- [2021-02-20-安全资讯|看看最近发生的事儿~](https://sec.thief.one/article_content?a_id=f0682e71ba7d356e742cc18f3d066766) 
-- [2021-02-20-智能制造新技术应用的安全风险分析与建议](https://sec.thief.one/article_content?a_id=2043c38bca44492d58838a1871012d28) 

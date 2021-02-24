@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-24 10:43:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-24 10:54:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -53,7 +53,6 @@
 - [2021-02-24-关于信息安全系统检测的问题](https://www.v2ex.com/t/755909) 
 - [2021-02-24-edge-浏览器的上半部消失了，有大仙知道咋回事不，只有重启电脑才恢复。](https://www.v2ex.com/t/755896) 
 - [2021-02-24-最近准备做一个对项目所有数据源数据库的健康监测系统，数据库主要涉及-MySQL，-Oracle，-MongoDB，-PostgreSQL，-redis，-SQLserver-等，有推荐的开源实现方案...](https://www.v2ex.com/t/755894) 
-- [2021-02-24-清华大学莫一林：信息物理系统中的安全控制算法-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14147&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F09%2F30%2Fmeituan-top-talk-moyilin-cps.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-02-24-软件安全能力成熟度评估实践](https://toutiao.io/k/a8bw6su) 
 - [2021-02-24-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) 
 - [2021-02-24-《2020年工业信息安全态势报告》:工业安全态势复杂化,须加码风险...](https://sec.thief.one/article_content?a_id=d2c431cab85efee21c72177b8daab0dc) 

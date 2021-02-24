@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-24 10:43:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-24 10:54:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -25,5 +25,6 @@
 - [2021-02-23-代码优化是一把双刃剑](https://www.ershicimi.com/p/07ca72685979106ec8b0f188f4fa19de) 
 - [2021-01-05-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2021-02-24-大佬们帮忙看看我的网站导航快点搜还有什么值得优化的地方么？](https://www.v2ex.com/t/755938) 
 - [2021-02-24-SQL-小白咨询个性能优化方案](https://www.v2ex.com/t/755915) 
 - [2021-02-24-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8) 

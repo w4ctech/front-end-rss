@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-24 10:43:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-24 10:54:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -454,8 +454,8 @@
 - [【InfoQ】代码优化是一把双刃剑](https://www.ershicimi.com/p/07ca72685979106ec8b0f188f4fa19de)
 - [【JavaScript】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】大佬们帮忙看看我的网站导航快点搜还有什么值得优化的地方么？](https://www.v2ex.com/t/755938)
 - [【V2EX】SQL-小白咨询个性能优化方案](https://www.v2ex.com/t/755915)
-- [【开发者头条】Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

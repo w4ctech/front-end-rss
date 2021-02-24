@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-24 03:09:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-24 03:32:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -91,7 +91,6 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2021-02-23-手撕前端面试之经典排序算法-动图+视频](https://juejin.im/post/6932482325159067656) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-02-23-Clubhouse音频数据遭泄露-引发安全性担忧](https://sec.thief.one/article_content?a_id=404ba169087fc8e7f2016a6a7e7f982d) 
 - [2021-02-22-火爆的音频聊天应用Clubhouse音频恐泄露](https://sec.thief.one/article_content?a_id=93faf6d3d600e11d28a48986ae36e768) 

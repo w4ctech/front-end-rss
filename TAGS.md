@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-24 03:09:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-24 03:32:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -600,7 +600,6 @@
 - [【JavaScript】刚刚面试，我被拒了！HR回复了-4-个字…](https://www.ershicimi.com/p/ca3117b40fd625d77a41509f81d26c6f)
 - [【V2EX】FinTech-社区-招聘：投资经理-固收-上海](https://www.v2ex.com/t/755721)
 - [【V2EX】阿里新零售技术-2022-年毕业实习岗招聘（内推）](https://www.v2ex.com/t/755719)
-- [【V2EX】FinTech-社区-招聘：-FPGA-开发工程师-上海](https://www.v2ex.com/t/755707)
 - [【物联网智库】华为拿下支付牌照，正大量招聘相关岗位，将助推鸿蒙生态建设？](https://www.ershicimi.com/p/03a798bd3dfcbd1f7a2bac148b1c6987)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

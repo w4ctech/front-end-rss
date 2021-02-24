@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-24 19:07:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-24 19:24:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -13,6 +13,7 @@
 - [2021-02-04-【招聘】UCloud优刻得招聘前端工程师](https://www.ershicimi.com/p/9c4958428d5b916fd12e4c85f41c81d7) 
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
+- [2021-02-24-小伙伴新鲜出炉面试题目总结含中大厂，已拿offer](https://www.ershicimi.com/p/bb2a4f773e4075feb6efab1c06c9e389) 
 - [2021-02-08-程序员面试-10-大潜规则，千万不要踩坑！](https://www.ershicimi.com/p/33885aa441cb80bb81fd841f80a3620d) 
 - [2021-02-02-知乎高赞：大厂面试的2个关键点](https://www.ershicimi.com/p/d4b2bef4ef3445ef06176a2a2a443319) 
 - [2021-02-20-最火大厂面试题、面试技巧汇总及简历编写（附简历模版下载）](https://www.ershicimi.com/p/6d170a3bd4d9dc9a1c9e0ce6f8c08c03) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-24 08:09:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-24 08:37:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -41,7 +41,6 @@
 - [2021-02-22-GraphQL-实战篇之前端Vue+后端](https://www.ershicimi.com/p/b4158b933e82eeb0b4d79ff884ac2119) 
 - [2021-02-18-基于-Vite-搭建-Electron-+-Vue3-的开发环境](https://www.ershicimi.com/p/55f406ce24ac6df5c3af9689933a5105) 
 - [2021-02-07-Vue.js开发移动端经验总结](https://www.ershicimi.com/p/3f93fc2658a50d1c5ce32441d9f07a2f) 
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-11-23-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) 
 - [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) 
 - [2017-07-17-Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/) 
@@ -56,7 +55,7 @@
 - [2020-12-28-Vant3.0宣布全面拥抱Vue3，Vue3.0成为主流还有多远？](https://www.ershicimi.com/p/ce2da327d67f7cc95055497d457dfc21) 
 - [2020-12-22-这7个vue技巧，简直让效率翻倍！](https://www.ershicimi.com/p/3e1d8e9e766d6ba9739a11e029436ee7) 
 - [2021-02-23-Vue3疑问系列2-—-在component-vnode上绑定指令,指令是如何工作的？](https://juejin.im/post/6932695758664073223) 
-- [2021-02-23-vue3项目搭建](https://juejin.im/post/6932389261681360904) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
+- [2021-02-24-vue-cli4-里面，如何用-import-语法同步加载一个-public-文件夹里面的-json-文件？](https://www.v2ex.com/t/755867) 
 - [2021-02-24-Vue-服务端渲染原理及入门](https://toutiao.io/k/e4xelg9) 

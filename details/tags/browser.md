@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-24 10:33:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-24 10:43:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -48,6 +48,7 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
+- [2021-02-24-如何解决跨域](https://juejin.im/post/6932772634157383693) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-24-关于信息安全系统检测的问题](https://www.v2ex.com/t/755909) 
 - [2021-02-24-edge-浏览器的上半部消失了，有大仙知道咋回事不，只有重启电脑才恢复。](https://www.v2ex.com/t/755896) 

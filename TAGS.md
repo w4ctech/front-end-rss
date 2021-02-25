@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-25 00:07:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-25 00:17:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -150,7 +150,7 @@
 - [【编程之上】万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019)
 - [【编程之上】4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4)
 - [【开发者头条】推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb)
-- [【物联网智库】芯讯通一口气发布5款模组，蜂窝物联网模组厂商如何构建万物互联大时代？](https://www.ershicimi.com/p/1690a236c67604d827d8064cbfa84bff)
+- [【安全热点】【安全通知】NPM遭遇供应链投毒攻击窃取K8S集群凭证](https://sec.thief.one/article_content?a_id=4f6d33d8766fda469f67eb2ac8a52085)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -455,7 +455,6 @@
 - [【InfoQ】代码优化是一把双刃剑](https://www.ershicimi.com/p/07ca72685979106ec8b0f188f4fa19de)
 - [【JavaScript】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【开发者头条】Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8)
 - [【开发者头条】推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -521,7 +520,7 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【V2EX】在-VIM-中如何提高中文编辑效率](https://www.v2ex.com/t/755992)
-- [【开发者头条】通过-httpcmd-来灵活的管理的云服务器再也不担心被轻易-F4-了](https://toutiao.io/k/q57m20v)
+- [【安全热点】卧槽!字节跳动《算法中文手册》火了,完整版-PDF-开放下载!](https://sec.thief.one/article_content?a_id=0107502d1526a5830bd0c59f196f405a)
 - [【安全热点】限时删除,《去你丫的算法》开放电子书下载!](https://sec.thief.one/article_content?a_id=1c2e89c43f3ae79ba733b75dd1f81e59)
 - [【安全热点】熟知社区发现算法,你不能错过这个-Python-库](https://sec.thief.one/article_content?a_id=60c01922bbbbd425fe076c2496b814dd)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

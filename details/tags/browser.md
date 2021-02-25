@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-25 00:07:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-25 00:17:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -52,8 +52,11 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-02-24-Postman-模拟登录问题](https://www.v2ex.com/t/756009) 
 - [2021-02-25-清华大学莫一林：信息物理系统中的安全控制算法-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14147&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F09%2F30%2Fmeituan-top-talk-moyilin-cps.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-02-25-软件安全能力成熟度评估实践](https://toutiao.io/k/a8bw6su) 
 - [2021-02-25-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) 
+- [2021-02-25-强制性国标GB40050-2021《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=b1fbfdc0471c9433c772217753f4197e) 
+- [2021-02-24-【安全风险通告】VMware产品多个高危漏洞安全风险通告](https://sec.thief.one/article_content?a_id=7664d9b997c5fa14316a4e47ad2c6140) 
+- [2021-02-24-【安全圈】警惕钓鱼邮件,海莲花组织攻击越南人权捍卫者](https://sec.thief.one/article_content?a_id=4a263f195bc829a1bdca1bd61fa27b85) 
+- [2021-02-24-赋能AI安全,绿盟科技多项成果入选GSMA《人工智能赋能安全应用案...](https://sec.thief.one/article_content?a_id=380a3555eb359f3c709ee109fbd2d41c) 
 - [2021-02-24-《2020年工业信息安全态势报告》:工业安全态势复杂化,须加码风险...](https://sec.thief.one/article_content?a_id=d2c431cab85efee21c72177b8daab0dc) 
 - [2021-02-24-好书推荐-|-第四期:《内网安全攻防:渗透测试实战指南》](https://sec.thief.one/article_content?a_id=d2d5c29ec24df515f56155eb35d554b9) 
 - [2021-02-24-强制性国家标准《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=3575dfb11442bbda888a36f7bf21ab29) 
@@ -72,5 +75,3 @@
 - [2021-02-22-【安全热点周报】第182期:“依赖混淆”新型供应链攻击,攻陷超过...](https://sec.thief.one/article_content?a_id=86fc2fa1d57b41dd17ef66707856823c) 
 - [2021-02-22-招聘-|-微步在线招聘安全内容运营](https://sec.thief.one/article_content?a_id=7468149e37760fa8dd7a326532bcc060) 
 - [2021-02-22-每日安全动态推送02-22](https://sec.thief.one/article_content?a_id=b1773d08e12dfd2bc1b572bcfa115931) 
-- [2021-02-22-网络安全攻防:Linux系统安全之OpenSSH安全配置](https://sec.thief.one/article_content?a_id=882636d5ba05ab84b08b27638f1165c4) 
-- [2021-02-21-在招|前海人寿高薪诚招应用安全岗](https://sec.thief.one/article_content?a_id=e04a63fe96358a06a7ba7e5af686027a) 

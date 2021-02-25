@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-25 00:07:52，:rocket: 更新条数: +4327， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-25 00:17:39，:rocket: 更新条数: +4309， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1073,26 +1073,21 @@
 </summary>
 
 
-- [2021-02-25-互联网架构演进之路](https://toutiao.io/k/6w82jhc) ![](assets/new.png)  
-- [2021-02-25-看完这篇你一定能掌握-Linux](https://toutiao.io/k/ycdmy3y) ![](assets/new.png)  
-- [2021-02-25-网络存储文件共享之-WebDAV](https://toutiao.io/k/zccejvk) ![](assets/new.png)  
-- [2021-02-25-Java-实现大文件多线程下载，提速-30-倍！想学？我教你啊](https://toutiao.io/k/jvd3wnb) ![](assets/new.png)  
-- [2021-02-25-10-个内存引发的大坑，你能躲开几个？（一）](https://toutiao.io/k/s1b0ao9) ![](assets/new.png)  
-- [2021-02-25-通过-httpcmd-来灵活的管理的云服务器再也不担心被轻易-F4-了](https://toutiao.io/k/q57m20v) ![](assets/new.png)  
-- [2021-02-25-遇见-ZooKeeper：初识](https://toutiao.io/k/ikxx2fi) ![](assets/new.png)  
-- [2021-02-25-远见：如何规划职业生涯-3-大阶段](https://toutiao.io/k/ck26u05) ![](assets/new.png)  
-- [2021-02-25-Vue-服务端渲染原理及入门](https://toutiao.io/k/e4xelg9) ![](assets/new.png)  
-- [2021-02-25-Go-工程化（三）：依赖注入框架-wire](https://toutiao.io/k/0151waj) ![](assets/new.png)  
-- [2021-02-25-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8) ![](assets/new.png)  
-- [2021-02-25-蚂蚁绊倒大象？不起眼的小文件竟拖了-Hadoop-大佬的后腿](https://toutiao.io/k/yqav5qf) ![](assets/new.png)  
-- [2021-02-25-浅析-VO、DTO、DO、PO-的概念、区别和用处](https://toutiao.io/k/twvf5lk) ![](assets/new.png)  
-- [2021-02-25-MIT-6.824-学习笔记（一）：-MapReduce](https://toutiao.io/k/9zx7ui9) ![](assets/new.png)  
-- [2021-02-25-微博爬虫与水军识别（基于文本分析），超高准确率](https://toutiao.io/k/nwa4sei) ![](assets/new.png)  
-- [2021-02-25-C-程序编程四步走](https://toutiao.io/k/pvvhxkk) ![](assets/new.png)  
-- [2021-02-25-什么样的岗位会最先被人工智能-AI-取代？](https://toutiao.io/k/f1t98wg) ![](assets/new.png)  
-- [2021-02-25-刚学会-C++-的小白用这个开源框架，做个-RPC-服务要多久？](https://toutiao.io/k/05rdpzf) ![](assets/new.png)  
-- [2021-02-25-Redis-实现发布订阅原理与实践](https://toutiao.io/k/vyrfy3g) ![](assets/new.png)  
-- [2021-02-25-软件安全能力成熟度评估实践](https://toutiao.io/k/a8bw6su) ![](assets/new.png)  
+- [2021-02-25-Java-12-新特性介绍](https://toutiao.io/k/4tl64jr) ![](assets/new.png)  
+- [2021-02-25-一次-MySQL-线上死锁分析实战](https://toutiao.io/k/pys6jzz) ![](assets/new.png)  
+- [2021-02-25-推荐-Go-工程化（二）：项目目录结构](https://toutiao.io/k/9p2dvmm) ![](assets/new.png)  
+- [2021-02-25-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) ![](assets/new.png)  
+- [2021-02-25-推荐-领域驱动设计-DDD-在百度爱番番的实践](https://toutiao.io/k/djhtzln) ![](assets/new.png)  
+- [2021-02-25-推荐-用户画像从-0-到-100-的构建思路](https://toutiao.io/k/wbatwrb) ![](assets/new.png)  
+- [2021-02-25-推荐-一文带你了解推荐系统之标签体系](https://toutiao.io/k/nyb3xq7) ![](assets/new.png)  
+- [2021-02-25-推荐-一周上线百万级高并发系统！鹅厂真实爆肝经验分享](https://toutiao.io/k/ojer153) ![](assets/new.png)  
+- [2021-02-25-推荐-年轻人，看看-Redisson-分布式锁——可重入锁吧！太重要了](https://toutiao.io/k/5xy8o0x) ![](assets/new.png)  
+- [2021-02-25-推荐-每个程序员都应该知道的-latency-time](https://toutiao.io/k/ol06bm3) ![](assets/new.png)  
+- [2021-02-25-推荐-Redis-专题：万字长文详解持久化原理](https://toutiao.io/k/9d3bawg) ![](assets/new.png)  
+- [2021-02-25-推荐-2021-春节书单：110-位-CEO-心中的-NO.1](https://toutiao.io/k/p6kzudl) ![](assets/new.png)  
+- [2021-02-25-推荐-最好的-IDEA-debug-长文？看完我佛了](https://toutiao.io/k/c2t9cp9) ![](assets/new.png)  
+- [2021-02-25-推荐-这些不可不知的-JVM-知识，我都用思维导图整理好了](https://toutiao.io/k/vxuckw2) ![](assets/new.png)  
+- [2021-02-25-推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1104,26 +1099,26 @@
 </summary>
 
 
+- [2021-02-25-卧槽!字节跳动《算法中文手册》火了,完整版-PDF-开放下载!](https://sec.thief.one/article_content?a_id=0107502d1526a5830bd0c59f196f405a) ![](assets/new.png)  
+- [2021-02-25-强制性国标GB40050-2021《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=b1fbfdc0471c9433c772217753f4197e) ![](assets/new.png)  
+- [2021-02-25-网安杂谈收藏夹2021.2.24](https://sec.thief.one/article_content?a_id=73f151f5e606970bd156493a8417f845) ![](assets/new.png)  
+- [2021-02-24-【安全风险通告】VMware产品多个高危漏洞安全风险通告](https://sec.thief.one/article_content?a_id=7664d9b997c5fa14316a4e47ad2c6140) ![](assets/new.png)  
+- [2021-02-24-比特币巨鲸们抛出了14万枚BTC](https://sec.thief.one/article_content?a_id=8bbf982a8e2b38383d76888db40bfa7d) ![](assets/new.png)  
+- [2021-02-24-【安全圈】警惕钓鱼邮件,海莲花组织攻击越南人权捍卫者](https://sec.thief.one/article_content?a_id=4a263f195bc829a1bdca1bd61fa27b85) ![](assets/new.png)  
+- [2021-02-24-【漏洞通告】VMware-多个高危漏洞](https://sec.thief.one/article_content?a_id=dcbcba43aa92942222a2f76868fa908f) ![](assets/new.png)  
+- [2021-02-24-爱奇艺程序员落户北京后离职被判赔-10-万,网友:太值了简直白送](https://sec.thief.one/article_content?a_id=60f01d676679268291ffdb641a8ac2b1) ![](assets/new.png)  
+- [2021-02-24-程序员晒元宵节福利,网友:看了我想砸键盘......](https://sec.thief.one/article_content?a_id=d6ba8069ed2c774b4c39f4197c5b96df) ![](assets/new.png)  
+- [2021-02-24-虎符智库|深度剖析:美国网络空间攻击特点与模式](https://sec.thief.one/article_content?a_id=da7ef189df9f88ae4568ebcb76829d8a) ![](assets/new.png)  
+- [2021-02-24-【安全通知】NPM遭遇供应链投毒攻击窃取K8S集群凭证](https://sec.thief.one/article_content?a_id=4f6d33d8766fda469f67eb2ac8a52085) ![](assets/new.png)  
+- [2021-02-24-Python二级考试考啥?](https://sec.thief.one/article_content?a_id=99ff98537ec58153244d38a8604fe59f) ![](assets/new.png)  
+- [2021-02-24-赋能AI安全,绿盟科技多项成果入选GSMA《人工智能赋能安全应用案...](https://sec.thief.one/article_content?a_id=380a3555eb359f3c709ee109fbd2d41c) ![](assets/new.png)  
+- [2021-02-24-VMware-多个高危漏洞CVE-2021-21972/21973/21974​](https://sec.thief.one/article_content?a_id=2636a8b8f136519b684e58f6864aa7bd) ![](assets/new.png)  
+- [2021-02-24-“透明部落”-APT组织移动端新近活动披露](https://sec.thief.one/article_content?a_id=22b36e34e6d7cded8d110b59b0a1b604) ![](assets/new.png)  
+- [2021-02-24-全球近3万台Mac电脑已感染恶意软件Silver-Sparrow,尚不清楚其目标](https://sec.thief.one/article_content?a_id=1bded2d3101c4c2ba379e47d5236e266) ![](assets/new.png)  
 - [2021-02-24-VMware多个高危漏洞通告](https://sec.thief.one/article_content?a_id=545288de283a4c979e6a6804f6808893) ![](assets/new.png)  
 - [2021-02-24-一名网安工程师的365天成长全记录](https://sec.thief.one/article_content?a_id=42023f0d1b8e98d30cf66884c4681a04) ![](assets/new.png)  
 - [2021-02-24-专业交易员在比特币下跌时依旧做多,清算59亿美元](https://sec.thief.one/article_content?a_id=a2535f3b14877af0efdb4886d9e66e89) ![](assets/new.png)  
 - [2021-02-24-《2020年工业信息安全态势报告》:工业安全态势复杂化,须加码风险...](https://sec.thief.one/article_content?a_id=d2c431cab85efee21c72177b8daab0dc) ![](assets/new.png)  
-- [2021-02-24-“网络招嫖”都进化出了哪些诈骗套路?](https://sec.thief.one/article_content?a_id=483a4e9e16313c65d61d5a7236ce4cf8) ![](assets/new.png)  
-- [2021-02-24-一次服务器被黑的全过程排查和思考](https://sec.thief.one/article_content?a_id=9b640b6c419f6738c479eb776b8b1ee9) ![](assets/new.png)  
-- [2021-02-24-史上最怂的“小强”木马,发现360急救箱即刻自杀](https://sec.thief.one/article_content?a_id=ca49c70344ac28cd96fcc030c4c3a1b3) ![](assets/new.png)  
-- [2021-02-24-【漏洞预警】VMware-多个高危漏洞CVE-2021-21972等](https://sec.thief.one/article_content?a_id=8e2eda5d74169b1f859492e190756b33) ![](assets/new.png)  
-- [2021-02-24-关于Cobalt-Strike中几种常见Beacon的特性及使用](https://sec.thief.one/article_content?a_id=e54539da895868c6e820f4f1dfd01486) ![](assets/new.png)  
-- [2021-02-24-网络犯罪集团通过COVID-19诈骗等手段获利5500万美元](https://sec.thief.one/article_content?a_id=f0eec48b46955d28e08dda2cbc6a1952) ![](assets/new.png)  
-- [2021-02-24-好书推荐-|-第四期:《内网安全攻防:渗透测试实战指南》](https://sec.thief.one/article_content?a_id=d2d5c29ec24df515f56155eb35d554b9) ![](assets/new.png)  
-- [2021-02-24-2月24日GUIBI早内参-鲍威尔就半年度货币政策发表证词,偏鸽讲话或...](https://sec.thief.one/article_content?a_id=fee22d961ea12d11c93f0424253066ca) ![](assets/new.png)  
-- [2021-02-24-强制性国家标准《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=3575dfb11442bbda888a36f7bf21ab29) ![](assets/new.png)  
-- [2021-02-24-2026年全球零信任市场规模将达到516亿美元](https://sec.thief.one/article_content?a_id=b4e6097bad3a0b305aeb87062c034b0e) ![](assets/new.png)  
-- [2021-02-24-红杉资本遭遇黑客攻击,网络安全或将成为企业最大难题](https://sec.thief.one/article_content?a_id=83af4f9b62d2cd871774f79ac1797a4c) ![](assets/new.png)  
-- [2021-02-24-神兵利器---DirDar-目录爆破](https://sec.thief.one/article_content?a_id=48df38fe6114bbaa64b8fe77eb7aacc8) ![](assets/new.png)  
-- [2021-02-24-微软悄然推出“杀手补丁”:彻底封杀Flash-Player](https://sec.thief.one/article_content?a_id=c0457d9c3593422be1d415a10e0c0a7e) ![](assets/new.png)  
-- [2021-02-24-【干货】送你一份黑客技能大全,请查收!](https://sec.thief.one/article_content?a_id=81e2710ae5324ab8b7a51c3177f8d99c) ![](assets/new.png)  
-- [2021-02-24-近30,000台Mac设备感染了新型Silver-Sparrow恶意软件](https://sec.thief.one/article_content?a_id=5f18a280623791bc5e3d48440348cb5d) ![](assets/new.png)  
-- [2021-02-24-【视频】|-Python:小节回顾+作用域](https://sec.thief.one/article_content?a_id=20cf788c2275d4ebfc753329cadbb68e) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-25 05:07:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-25 05:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,7 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-02-25-强制性国标GB40050-2021《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=5809b343d1fcb8abd06dbbddaad0fa20) 
 - [2021-02-25-强制性国标GB40050-2021《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=b1fbfdc0471c9433c772217753f4197e) 
 - [2021-02-24-【安全风险通告】VMware产品多个高危漏洞安全风险通告](https://sec.thief.one/article_content?a_id=7664d9b997c5fa14316a4e47ad2c6140) 
 - [2021-02-24-【安全圈】警惕钓鱼邮件,海莲花组织攻击越南人权捍卫者](https://sec.thief.one/article_content?a_id=4a263f195bc829a1bdca1bd61fa27b85) 
@@ -29,4 +30,3 @@
 - [2021-02-22-【安全圈】2020年最大的4起勒索软件攻击竟存在关联?](https://sec.thief.one/article_content?a_id=75d4c44b9724bfe831dadde97f52e641) 
 - [2021-02-22-【安全热点周报】第182期:“依赖混淆”新型供应链攻击,攻陷超过...](https://sec.thief.one/article_content?a_id=86fc2fa1d57b41dd17ef66707856823c) 
 - [2021-02-22-招聘-|-微步在线招聘安全内容运营](https://sec.thief.one/article_content?a_id=7468149e37760fa8dd7a326532bcc060) 
-- [2021-02-22-每日安全动态推送02-22](https://sec.thief.one/article_content?a_id=b1773d08e12dfd2bc1b572bcfa115931) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-25 10:14:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-25 10:40:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -405,6 +405,8 @@
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [【安全热点】Chrome-issue-1793分析](https://sec.thief.one/article_content?a_id=d7b74fc92b52d26b8851b712005967d3)
+- [【安全热点】和月薪3万的腾讯安全工程师聊天后,我想辞职了.....](https://sec.thief.one/article_content?a_id=898366a60c9302aa2bdd1df8f98374c7)
+- [【安全热点】央视新闻联播|全国政协委员周鸿祎:用好大数据,要运营安全两手抓](https://sec.thief.one/article_content?a_id=358765ce5f7d4142c566a50a26528d66)
 - [【安全热点】强制性国标GB40050-2021《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=5809b343d1fcb8abd06dbbddaad0fa20)
 - [【安全热点】强制性国标GB40050-2021《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=b1fbfdc0471c9433c772217753f4197e)
 - [【安全热点】【安全风险通告】VMware产品多个高危漏洞安全风险通告](https://sec.thief.one/article_content?a_id=7664d9b997c5fa14316a4e47ad2c6140)
@@ -413,8 +415,6 @@
 - [【安全热点】《2020年工业信息安全态势报告》:工业安全态势复杂化,须加码风险...](https://sec.thief.one/article_content?a_id=d2c431cab85efee21c72177b8daab0dc)
 - [【安全热点】好书推荐-|-第四期:《内网安全攻防:渗透测试实战指南》](https://sec.thief.one/article_content?a_id=d2d5c29ec24df515f56155eb35d554b9)
 - [【安全热点】强制性国家标准《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=3575dfb11442bbda888a36f7bf21ab29)
-- [【安全热点】红杉资本遭遇黑客攻击,网络安全或将成为企业最大难题](https://sec.thief.one/article_content?a_id=83af4f9b62d2cd871774f79ac1797a4c)
-- [【安全热点】【安全圈】微软:Solorigate-攻击未使客户数据泄露](https://sec.thief.one/article_content?a_id=c6124db8779b4c8b1840f33aed482d8c)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -478,7 +478,6 @@
 - [【凹凸实验室】规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
-- [【安全热点】GitHub-18.5K-Star,超实用Python-速查表](https://sec.thief.one/article_content?a_id=96b016ea5c2b9ce8bcf751be6780e48a)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

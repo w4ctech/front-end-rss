@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-25 10:10:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-25 10:14:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,7 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2021-02-25-Chrome-issue-1793分析](https://sec.thief.one/article_content?a_id=d7b74fc92b52d26b8851b712005967d3) 
 - [2021-02-25-强制性国标GB40050-2021《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=5809b343d1fcb8abd06dbbddaad0fa20) 
 - [2021-02-25-强制性国标GB40050-2021《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=b1fbfdc0471c9433c772217753f4197e) 
 - [2021-02-24-【安全风险通告】VMware产品多个高危漏洞安全风险通告](https://sec.thief.one/article_content?a_id=7664d9b997c5fa14316a4e47ad2c6140) 
@@ -36,5 +37,3 @@
 - [2021-02-23-网络安全编程:结束进程](https://sec.thief.one/article_content?a_id=7388efc569ad85cf4805b4fcef3330e9) 
 - [2021-02-22-排名前100位的网络安全黑客](https://sec.thief.one/article_content?a_id=6bf24dc72c1241924a54798ac50d66f9) 
 - [2021-02-22-【安全圈】2020年最大的4起勒索软件攻击竟存在关联?](https://sec.thief.one/article_content?a_id=75d4c44b9724bfe831dadde97f52e641) 
-- [2021-02-22-【安全热点周报】第182期:“依赖混淆”新型供应链攻击,攻陷超过...](https://sec.thief.one/article_content?a_id=86fc2fa1d57b41dd17ef66707856823c) 
-- [2021-02-22-招聘-|-微步在线招聘安全内容运营](https://sec.thief.one/article_content?a_id=7468149e37760fa8dd7a326532bcc060) 

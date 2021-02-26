@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-26 14:34:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-26 14:41:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,14 +8,6 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2021-02-26-【滴滴信息安全招聘】一份令人心动的offer-欲投从速!](https://sec.thief.one/article_content?a_id=8fa9b2249a41035caa62aaae9dbf0ef7) 
 - [2021-02-26-灯起初春-乐启元宵|网络安全灯谜,你能猜对几个?](https://sec.thief.one/article_content?a_id=8da715af7b575e07f8826ee0d159ad01) 
 - [2021-02-26-CNNVD-关于VMware-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=4f53559b9d61021e682e6bb150e1fe22) 

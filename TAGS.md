@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-27 05:08:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-27 05:30:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -88,7 +88,6 @@
 
 
 
-- [【安全热点】【安全通知】NPM遭遇供应链投毒攻击窃取K8S集群凭证](https://sec.thief.one/article_content?a_id=4f6d33d8766fda469f67eb2ac8a52085)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -231,7 +230,9 @@
 
 
 
+- [【安全热点】【视频】|-网络安全:安全审计的基础知识](https://sec.thief.one/article_content?a_id=5f2c19a4696f6ff4f4c288fc9263b966)
 - [【安全热点】网安新焦点,安在讲堂公益直播新春预热](https://sec.thief.one/article_content?a_id=1d2a1a125592c884420915222a6a82ed)
+- [【安全热点】元宵佳节赠送十张腾讯视频VIP月卡](https://sec.thief.one/article_content?a_id=e6fe74841bec71b5c281b787d92d96a3)
 - [【安全热点】【视频】|-网络安全:基于网络与基于主机的漏洞扫描系统](https://sec.thief.one/article_content?a_id=5279462cf744fbf5ebf1d6369c6fcdc6)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -269,6 +270,8 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/)
+- [【安全热点】Flash-中国版会安装广告程序,被曝存在严重安全问题](https://sec.thief.one/article_content?a_id=d60486708a7402d004b4ca7730cf1b48)
+- [【安全热点】答应我,调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=b7cc6296f797cf950e01b9f2f1b47680)
 - [【安全热点】【安全风险通告】细节已公开,奇安信产品支持防护,SaltStack多个高...](https://sec.thief.one/article_content?a_id=b996d97426e05769a330d941662274e1)
 - [【安全热点】【安全圈】Flash-中国版会安装广告程序,被曝存在严重安全问题](https://sec.thief.one/article_content?a_id=db21f284036917bb23b8b68d74d0cb02)
 - [【安全热点】【滴滴信息安全招聘】一份令人心动的offer-欲投从速!](https://sec.thief.one/article_content?a_id=8fa9b2249a41035caa62aaae9dbf0ef7)
@@ -286,8 +289,6 @@
 - [【安全热点】和月薪3万的腾讯安全工程师聊天后,我想辞职了.....](https://sec.thief.one/article_content?a_id=898366a60c9302aa2bdd1df8f98374c7)
 - [【安全热点】央视新闻联播|全国政协委员周鸿祎:用好大数据,要运营安全两手抓](https://sec.thief.one/article_content?a_id=358765ce5f7d4142c566a50a26528d66)
 - [【安全热点】强制性国标GB40050-2021《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=5809b343d1fcb8abd06dbbddaad0fa20)
-- [【安全热点】强制性国标GB40050-2021《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=b1fbfdc0471c9433c772217753f4197e)
-- [【安全热点】【安全风险通告】VMware产品多个高危漏洞安全风险通告](https://sec.thief.one/article_content?a_id=7664d9b997c5fa14316a4e47ad2c6140)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -411,17 +412,17 @@
 - [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
 - [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
+- [【安全热点】一个存在于sudo程序中接近10年的漏洞](https://sec.thief.one/article_content?a_id=b1be819b755b137d4155d4edfae787fb)
+- [【安全热点】黄道十二宫杀手和他的密码谜局](https://sec.thief.one/article_content?a_id=29e2b317ae8403f3e5773ab146f4cc0c)
+- [【安全热点】文件包含的基本操作](https://sec.thief.one/article_content?a_id=1041ca65d88bbd19c2a93c380d0fc562)
+- [【安全热点】乌克兰:针对政府网站的DDoS攻击源自俄罗斯](https://sec.thief.one/article_content?a_id=592b0ea81c8df1c3c88bc4b4ee777e46)
+- [【安全热点】深度剖析:美国网络空间攻击特点与模式](https://sec.thief.one/article_content?a_id=ed725aed12bb325442ae0499316ec5c9)
+- [【安全热点】深信服2020年营收54.6亿,同期增长18.92%,净利8亿元](https://sec.thief.one/article_content?a_id=b9033a7b7eedb18714ba353c7b326cb2)
 - [【安全热点】软件测试人员的职业发展之路](https://sec.thief.one/article_content?a_id=8caf1b64ec46021946c6c7564ee1461b)
 - [【安全热点】网安杂谈收藏夹2021.2.26-元宵节](https://sec.thief.one/article_content?a_id=13bfb55bdad84c4c931353e698074616)
 - [【安全热点】@所有人,我发起了一个抽奖活动](https://sec.thief.one/article_content?a_id=a1ccea4dceb732446966b132244bc08f)
 - [【安全热点】终于有人把Python讲清楚了!](https://sec.thief.one/article_content?a_id=805e1e9e04990ec9339bf973b769fbd6)
 - [【安全热点】NSS-2021论文征稿-2021/6/10](https://sec.thief.one/article_content?a_id=8ceb25cab2f2696d76f4c68dddc33488)
-- [【安全热点】闹元宵,猜灯谜,留言互动有好礼~](https://sec.thief.one/article_content?a_id=22a0e76cbe1638d16421187d6468848c)
-- [【安全热点】《网安26号院》|我在奇安信一层一层叠出世界](https://sec.thief.one/article_content?a_id=7f35446ee07f1494b8bb5548160b9e19)
-- [【安全热点】【漏洞通告】SaltStack-多个高危漏洞](https://sec.thief.one/article_content?a_id=8a8d74bd17c3d1da41b960d51fa16de1)
-- [【安全热点】福利相伴闹元宵,FVIP会员日活动开始啦!](https://sec.thief.one/article_content?a_id=852a99fafb6969bf16ab52974607d28b)
-- [【安全热点】黑客思维养成记-——黑客的“小鸡”](https://sec.thief.one/article_content?a_id=da99ff32a494a74c134be5e48da3a271)
-- [【安全热点】MiSRC-2021年最新奖励规则~](https://sec.thief.one/article_content?a_id=ae59c11b7077938fb3df5a6e124de604)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

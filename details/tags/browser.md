@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-27 05:08:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-27 05:30:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,8 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-02-27-Flash-中国版会安装广告程序,被曝存在严重安全问题](https://sec.thief.one/article_content?a_id=d60486708a7402d004b4ca7730cf1b48) 
+- [2021-02-27-答应我,调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=b7cc6296f797cf950e01b9f2f1b47680) 
 - [2021-02-26-【安全风险通告】细节已公开,奇安信产品支持防护,SaltStack多个高...](https://sec.thief.one/article_content?a_id=b996d97426e05769a330d941662274e1) 
 - [2021-02-26-【安全圈】Flash-中国版会安装广告程序,被曝存在严重安全问题](https://sec.thief.one/article_content?a_id=db21f284036917bb23b8b68d74d0cb02) 
 - [2021-02-26-【滴滴信息安全招聘】一份令人心动的offer-欲投从速!](https://sec.thief.one/article_content?a_id=8fa9b2249a41035caa62aaae9dbf0ef7) 
@@ -28,4 +30,3 @@
 - [2021-02-25-强制性国标GB40050-2021《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=b1fbfdc0471c9433c772217753f4197e) 
 - [2021-02-24-【安全风险通告】VMware产品多个高危漏洞安全风险通告](https://sec.thief.one/article_content?a_id=7664d9b997c5fa14316a4e47ad2c6140) 
 - [2021-02-24-【安全圈】警惕钓鱼邮件,海莲花组织攻击越南人权捍卫者](https://sec.thief.one/article_content?a_id=4a263f195bc829a1bdca1bd61fa27b85) 
-- [2021-02-24-赋能AI安全,绿盟科技多项成果入选GSMA《人工智能赋能安全应用案...](https://sec.thief.one/article_content?a_id=380a3555eb359f3c709ee109fbd2d41c) 

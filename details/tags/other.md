@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-27 05:08:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-27 05:30:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -14,6 +14,12 @@
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
 - [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
 - [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
+- [2021-02-27-一个存在于sudo程序中接近10年的漏洞](https://sec.thief.one/article_content?a_id=b1be819b755b137d4155d4edfae787fb) 
+- [2021-02-27-黄道十二宫杀手和他的密码谜局](https://sec.thief.one/article_content?a_id=29e2b317ae8403f3e5773ab146f4cc0c) 
+- [2021-02-27-文件包含的基本操作](https://sec.thief.one/article_content?a_id=1041ca65d88bbd19c2a93c380d0fc562) 
+- [2021-02-27-乌克兰:针对政府网站的DDoS攻击源自俄罗斯](https://sec.thief.one/article_content?a_id=592b0ea81c8df1c3c88bc4b4ee777e46) 
+- [2021-02-27-深度剖析:美国网络空间攻击特点与模式](https://sec.thief.one/article_content?a_id=ed725aed12bb325442ae0499316ec5c9) 
+- [2021-02-27-深信服2020年营收54.6亿,同期增长18.92%,净利8亿元](https://sec.thief.one/article_content?a_id=b9033a7b7eedb18714ba353c7b326cb2) 
 - [2021-02-27-软件测试人员的职业发展之路](https://sec.thief.one/article_content?a_id=8caf1b64ec46021946c6c7564ee1461b) 
 - [2021-02-27-网安杂谈收藏夹2021.2.26-元宵节](https://sec.thief.one/article_content?a_id=13bfb55bdad84c4c931353e698074616) 
 - [2021-02-26-@所有人,我发起了一个抽奖活动](https://sec.thief.one/article_content?a_id=a1ccea4dceb732446966b132244bc08f) 
@@ -73,11 +79,3 @@
 - [2021-02-24-【漏洞通告】VMware-多个高危漏洞](https://sec.thief.one/article_content?a_id=dcbcba43aa92942222a2f76868fa908f) 
 - [2021-02-24-爱奇艺程序员落户北京后离职被判赔-10-万,网友:太值了简直白送](https://sec.thief.one/article_content?a_id=60f01d676679268291ffdb641a8ac2b1) 
 - [2021-02-24-程序员晒元宵节福利,网友:看了我想砸键盘......](https://sec.thief.one/article_content?a_id=d6ba8069ed2c774b4c39f4197c5b96df) 
-- [2021-02-24-虎符智库|深度剖析:美国网络空间攻击特点与模式](https://sec.thief.one/article_content?a_id=da7ef189df9f88ae4568ebcb76829d8a) 
-- [2021-02-24-Python二级考试考啥?](https://sec.thief.one/article_content?a_id=99ff98537ec58153244d38a8604fe59f) 
-- [2021-02-24-VMware-多个高危漏洞CVE-2021-21972/21973/21974​](https://sec.thief.one/article_content?a_id=2636a8b8f136519b684e58f6864aa7bd) 
-- [2021-02-24-“透明部落”-APT组织移动端新近活动披露](https://sec.thief.one/article_content?a_id=22b36e34e6d7cded8d110b59b0a1b604) 
-- [2021-02-24-全球近3万台Mac电脑已感染恶意软件Silver-Sparrow,尚不清楚其目标](https://sec.thief.one/article_content?a_id=1bded2d3101c4c2ba379e47d5236e266) 
-- [2021-02-24-VMware多个高危漏洞通告](https://sec.thief.one/article_content?a_id=545288de283a4c979e6a6804f6808893) 
-- [2021-02-24-一名网安工程师的365天成长全记录](https://sec.thief.one/article_content?a_id=42023f0d1b8e98d30cf66884c4681a04) 
-- [2021-02-24-专业交易员在比特币下跌时依旧做多,清算59亿美元](https://sec.thief.one/article_content?a_id=a2535f3b14877af0efdb4886d9e66e89) 

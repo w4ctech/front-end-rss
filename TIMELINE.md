@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-27 05:08:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-02-27 05:30:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -99,6 +99,15 @@
 - [【阮一峰的网络日志】2021-02-26-科技爱好者周刊（第-147-期）：寻找你愿意忍受的痛苦](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-147.html) 
 - [【阮一峰的网络日志】2021-02-19-科技爱好者周刊（第-146-期）：网课应该怎么上？](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-146.html) 
 - [【阮一峰的网络日志】2021-02-05-科技爱好者周刊（第-145-期）：大家不出门，经济怎么办？](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-145.html) 
+- [【安全热点】2021-02-27-一个存在于sudo程序中接近10年的漏洞](https://sec.thief.one/article_content?a_id=b1be819b755b137d4155d4edfae787fb) 
+- [【安全热点】2021-02-27-黄道十二宫杀手和他的密码谜局](https://sec.thief.one/article_content?a_id=29e2b317ae8403f3e5773ab146f4cc0c) 
+- [【安全热点】2021-02-27-文件包含的基本操作](https://sec.thief.one/article_content?a_id=1041ca65d88bbd19c2a93c380d0fc562) 
+- [【安全热点】2021-02-27-Flash-中国版会安装广告程序,被曝存在严重安全问题](https://sec.thief.one/article_content?a_id=d60486708a7402d004b4ca7730cf1b48) 
+- [【安全热点】2021-02-27-乌克兰:针对政府网站的DDoS攻击源自俄罗斯](https://sec.thief.one/article_content?a_id=592b0ea81c8df1c3c88bc4b4ee777e46) 
+- [【安全热点】2021-02-27-深度剖析:美国网络空间攻击特点与模式](https://sec.thief.one/article_content?a_id=ed725aed12bb325442ae0499316ec5c9) 
+- [【安全热点】2021-02-27-【视频】|-网络安全:安全审计的基础知识](https://sec.thief.one/article_content?a_id=5f2c19a4696f6ff4f4c288fc9263b966) 
+- [【安全热点】2021-02-27-深信服2020年营收54.6亿,同期增长18.92%,净利8亿元](https://sec.thief.one/article_content?a_id=b9033a7b7eedb18714ba353c7b326cb2) 
+- [【安全热点】2021-02-27-答应我,调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=b7cc6296f797cf950e01b9f2f1b47680) 
 - [【安全热点】2021-02-27-软件测试人员的职业发展之路](https://sec.thief.one/article_content?a_id=8caf1b64ec46021946c6c7564ee1461b) 
 - [【安全热点】2021-02-27-网安杂谈收藏夹2021.2.26-元宵节](https://sec.thief.one/article_content?a_id=13bfb55bdad84c4c931353e698074616) 
 - [【安全热点】2021-02-26-【安全风险通告】细节已公开,奇安信产品支持防护,SaltStack多个高...](https://sec.thief.one/article_content?a_id=b996d97426e05769a330d941662274e1) 
@@ -106,6 +115,7 @@
 - [【安全热点】2021-02-26-网安新焦点,安在讲堂公益直播新春预热](https://sec.thief.one/article_content?a_id=1d2a1a125592c884420915222a6a82ed) 
 - [【安全热点】2021-02-26-【安全圈】Flash-中国版会安装广告程序,被曝存在严重安全问题](https://sec.thief.one/article_content?a_id=db21f284036917bb23b8b68d74d0cb02) 
 - [【安全热点】2021-02-26-终于有人把Python讲清楚了!](https://sec.thief.one/article_content?a_id=805e1e9e04990ec9339bf973b769fbd6) 
+- [【安全热点】2021-02-26-元宵佳节赠送十张腾讯视频VIP月卡](https://sec.thief.one/article_content?a_id=e6fe74841bec71b5c281b787d92d96a3) 
 - [【安全热点】2021-02-26-NSS-2021论文征稿-2021/6/10](https://sec.thief.one/article_content?a_id=8ceb25cab2f2696d76f4c68dddc33488) 
 - [【安全热点】2021-02-26-闹元宵,猜灯谜,留言互动有好礼~](https://sec.thief.one/article_content?a_id=22a0e76cbe1638d16421187d6468848c) 
 - [【安全热点】2021-02-26-《网安26号院》|我在奇安信一层一层叠出世界](https://sec.thief.one/article_content?a_id=7f35446ee07f1494b8bb5548160b9e19) 
@@ -189,16 +199,6 @@
 - [【安全热点】2021-02-24-【漏洞通告】VMware-多个高危漏洞](https://sec.thief.one/article_content?a_id=dcbcba43aa92942222a2f76868fa908f) 
 - [【安全热点】2021-02-24-爱奇艺程序员落户北京后离职被判赔-10-万,网友:太值了简直白送](https://sec.thief.one/article_content?a_id=60f01d676679268291ffdb641a8ac2b1) 
 - [【安全热点】2021-02-24-程序员晒元宵节福利,网友:看了我想砸键盘......](https://sec.thief.one/article_content?a_id=d6ba8069ed2c774b4c39f4197c5b96df) 
-- [【安全热点】2021-02-24-虎符智库|深度剖析:美国网络空间攻击特点与模式](https://sec.thief.one/article_content?a_id=da7ef189df9f88ae4568ebcb76829d8a) 
-- [【安全热点】2021-02-24-【安全通知】NPM遭遇供应链投毒攻击窃取K8S集群凭证](https://sec.thief.one/article_content?a_id=4f6d33d8766fda469f67eb2ac8a52085) 
-- [【安全热点】2021-02-24-Python二级考试考啥?](https://sec.thief.one/article_content?a_id=99ff98537ec58153244d38a8604fe59f) 
-- [【安全热点】2021-02-24-赋能AI安全,绿盟科技多项成果入选GSMA《人工智能赋能安全应用案...](https://sec.thief.one/article_content?a_id=380a3555eb359f3c709ee109fbd2d41c) 
-- [【安全热点】2021-02-24-VMware-多个高危漏洞CVE-2021-21972/21973/21974​](https://sec.thief.one/article_content?a_id=2636a8b8f136519b684e58f6864aa7bd) 
-- [【安全热点】2021-02-24-“透明部落”-APT组织移动端新近活动披露](https://sec.thief.one/article_content?a_id=22b36e34e6d7cded8d110b59b0a1b604) 
-- [【安全热点】2021-02-24-全球近3万台Mac电脑已感染恶意软件Silver-Sparrow,尚不清楚其目标](https://sec.thief.one/article_content?a_id=1bded2d3101c4c2ba379e47d5236e266) 
-- [【安全热点】2021-02-24-VMware多个高危漏洞通告](https://sec.thief.one/article_content?a_id=545288de283a4c979e6a6804f6808893) 
-- [【安全热点】2021-02-24-一名网安工程师的365天成长全记录](https://sec.thief.one/article_content?a_id=42023f0d1b8e98d30cf66884c4681a04) 
-- [【安全热点】2021-02-24-专业交易员在比特币下跌时依旧做多,清算59亿美元](https://sec.thief.one/article_content?a_id=a2535f3b14877af0efdb4886d9e66e89) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-27 05:08:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-27 05:30:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -7,5 +7,7 @@
 
 
 
+- [2021-02-27-【视频】|-网络安全:安全审计的基础知识](https://sec.thief.one/article_content?a_id=5f2c19a4696f6ff4f4c288fc9263b966) 
 - [2021-02-26-网安新焦点,安在讲堂公益直播新春预热](https://sec.thief.one/article_content?a_id=1d2a1a125592c884420915222a6a82ed) 
+- [2021-02-26-元宵佳节赠送十张腾讯视频VIP月卡](https://sec.thief.one/article_content?a_id=e6fe74841bec71b5c281b787d92d96a3) 
 - [2021-02-25-【视频】|-网络安全:基于网络与基于主机的漏洞扫描系统](https://sec.thief.one/article_content?a_id=5279462cf744fbf5ebf1d6369c6fcdc6) 

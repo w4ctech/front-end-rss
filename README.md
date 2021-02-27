@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-27 05:08:36，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-27 05:30:57，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -517,6 +517,15 @@
 </summary>
 
 
+- [2021-02-27-一个存在于sudo程序中接近10年的漏洞](https://sec.thief.one/article_content?a_id=b1be819b755b137d4155d4edfae787fb) ![](assets/new.png)  
+- [2021-02-27-黄道十二宫杀手和他的密码谜局](https://sec.thief.one/article_content?a_id=29e2b317ae8403f3e5773ab146f4cc0c) ![](assets/new.png)  
+- [2021-02-27-文件包含的基本操作](https://sec.thief.one/article_content?a_id=1041ca65d88bbd19c2a93c380d0fc562) ![](assets/new.png)  
+- [2021-02-27-Flash-中国版会安装广告程序,被曝存在严重安全问题](https://sec.thief.one/article_content?a_id=d60486708a7402d004b4ca7730cf1b48) ![](assets/new.png)  
+- [2021-02-27-乌克兰:针对政府网站的DDoS攻击源自俄罗斯](https://sec.thief.one/article_content?a_id=592b0ea81c8df1c3c88bc4b4ee777e46) ![](assets/new.png)  
+- [2021-02-27-深度剖析:美国网络空间攻击特点与模式](https://sec.thief.one/article_content?a_id=ed725aed12bb325442ae0499316ec5c9) ![](assets/new.png)  
+- [2021-02-27-【视频】|-网络安全:安全审计的基础知识](https://sec.thief.one/article_content?a_id=5f2c19a4696f6ff4f4c288fc9263b966) ![](assets/new.png)  
+- [2021-02-27-深信服2020年营收54.6亿,同期增长18.92%,净利8亿元](https://sec.thief.one/article_content?a_id=b9033a7b7eedb18714ba353c7b326cb2) ![](assets/new.png)  
+- [2021-02-27-答应我,调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=b7cc6296f797cf950e01b9f2f1b47680) ![](assets/new.png)  
 - [2021-02-27-软件测试人员的职业发展之路](https://sec.thief.one/article_content?a_id=8caf1b64ec46021946c6c7564ee1461b) ![](assets/new.png)  
 - [2021-02-27-网安杂谈收藏夹2021.2.26-元宵节](https://sec.thief.one/article_content?a_id=13bfb55bdad84c4c931353e698074616) ![](assets/new.png)  
 - [2021-02-26-【安全风险通告】细节已公开,奇安信产品支持防护,SaltStack多个高...](https://sec.thief.one/article_content?a_id=b996d97426e05769a330d941662274e1) ![](assets/new.png)  
@@ -524,19 +533,10 @@
 - [2021-02-26-网安新焦点,安在讲堂公益直播新春预热](https://sec.thief.one/article_content?a_id=1d2a1a125592c884420915222a6a82ed) ![](assets/new.png)  
 - [2021-02-26-【安全圈】Flash-中国版会安装广告程序,被曝存在严重安全问题](https://sec.thief.one/article_content?a_id=db21f284036917bb23b8b68d74d0cb02) ![](assets/new.png)  
 - [2021-02-26-终于有人把Python讲清楚了!](https://sec.thief.one/article_content?a_id=805e1e9e04990ec9339bf973b769fbd6) ![](assets/new.png)  
+- [2021-02-26-元宵佳节赠送十张腾讯视频VIP月卡](https://sec.thief.one/article_content?a_id=e6fe74841bec71b5c281b787d92d96a3) ![](assets/new.png)  
 - [2021-02-26-NSS-2021论文征稿-2021/6/10](https://sec.thief.one/article_content?a_id=8ceb25cab2f2696d76f4c68dddc33488) ![](assets/new.png)  
 - [2021-02-26-闹元宵,猜灯谜,留言互动有好礼~](https://sec.thief.one/article_content?a_id=22a0e76cbe1638d16421187d6468848c) ![](assets/new.png)  
 - [2021-02-26-《网安26号院》|我在奇安信一层一层叠出世界](https://sec.thief.one/article_content?a_id=7f35446ee07f1494b8bb5548160b9e19) ![](assets/new.png)  
-- [2021-02-26-【漏洞通告】SaltStack-多个高危漏洞](https://sec.thief.one/article_content?a_id=8a8d74bd17c3d1da41b960d51fa16de1) ![](assets/new.png)  
-- [2021-02-26-福利相伴闹元宵,FVIP会员日活动开始啦!](https://sec.thief.one/article_content?a_id=852a99fafb6969bf16ab52974607d28b) ![](assets/new.png)  
-- [2021-02-26-黑客思维养成记-——黑客的“小鸡”](https://sec.thief.one/article_content?a_id=da99ff32a494a74c134be5e48da3a271) ![](assets/new.png)  
-- [2021-02-26-MiSRC-2021年最新奖励规则~](https://sec.thief.one/article_content?a_id=ae59c11b7077938fb3df5a6e124de604) ![](assets/new.png)  
-- [2021-02-26-某陪玩软件协议加密算法分析so层分析](https://sec.thief.one/article_content?a_id=4d920437fb095ecbe7c29b927398c1a2) ![](assets/new.png)  
-- [2021-02-26-SaltStack多个高危漏洞CVE-2021-25283/25281/3197等](https://sec.thief.one/article_content?a_id=7a0ab496de33268338cb7be359fff999) ![](assets/new.png)  
-- [2021-02-26-【滴滴信息安全招聘】一份令人心动的offer-欲投从速!](https://sec.thief.one/article_content?a_id=8fa9b2249a41035caa62aaae9dbf0ef7) ![](assets/new.png)  
-- [2021-02-26-Python-被爆大-Bug,攻击者可远程代码执行漏洞!](https://sec.thief.one/article_content?a_id=eb308316a8f155bc7e416bc58ede07ac) ![](assets/new.png)  
-- [2021-02-26-给我个空碗啥意思??](https://sec.thief.one/article_content?a_id=420c2718957e172ded6e62772cc2a939) ![](assets/new.png)  
-- [2021-02-26-灯起初春-乐启元宵|网络安全灯谜,你能猜对几个?](https://sec.thief.one/article_content?a_id=8da715af7b575e07f8826ee0d159ad01) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

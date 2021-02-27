@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-27 00:08:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-27 00:17:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -330,7 +330,6 @@
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
 - [【安全热点】GUIBI区块链公开课—《多维共振交易系统》之基础K线实战](https://sec.thief.one/article_content?a_id=10d14991e21965afc830cc29d5e06adc)
-- [【安全热点】2月24日GUIBI早内参-鲍威尔就半年度货币政策发表证词,偏鸽讲话或...](https://sec.thief.one/article_content?a_id=fee22d961ea12d11c93f0424253066ca)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -352,6 +351,7 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【安全热点】网安新焦点,安在讲堂公益直播新春预热](https://sec.thief.one/article_content?a_id=1d2a1a125592c884420915222a6a82ed)
 - [【安全热点】【视频】|-网络安全:基于网络与基于主机的漏洞扫描系统](https://sec.thief.one/article_content?a_id=5279462cf744fbf5ebf1d6369c6fcdc6)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -403,6 +403,8 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【安全热点】【安全风险通告】细节已公开,奇安信产品支持防护,SaltStack多个高...](https://sec.thief.one/article_content?a_id=b996d97426e05769a330d941662274e1)
+- [【安全热点】【安全圈】Flash-中国版会安装广告程序,被曝存在严重安全问题](https://sec.thief.one/article_content?a_id=db21f284036917bb23b8b68d74d0cb02)
 - [【安全热点】【滴滴信息安全招聘】一份令人心动的offer-欲投从速!](https://sec.thief.one/article_content?a_id=8fa9b2249a41035caa62aaae9dbf0ef7)
 - [【安全热点】灯起初春-乐启元宵|网络安全灯谜,你能猜对几个?](https://sec.thief.one/article_content?a_id=8da715af7b575e07f8826ee0d159ad01)
 - [【安全热点】CNNVD-关于VMware-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=4f53559b9d61021e682e6bb150e1fe22)
@@ -412,8 +414,6 @@
 - [【安全热点】安全招聘汇总-|-第十期](https://sec.thief.one/article_content?a_id=5b6ec38798823331fa708d5938050eaf)
 - [【安全热点】【安全圈】滴滴崩了!你今天打到车了吗?](https://sec.thief.one/article_content?a_id=ed34c7c6a16d6d52cefc2cee42af38ca)
 - [【安全热点】捕获一段攻击代码之后,她发现了一款安全软件的“安全危机”](https://sec.thief.one/article_content?a_id=41f62a9ed93e68583320b78170b215ab)
-- [【安全热点】能被“华为严选”的安全产品都是什么样的?](https://sec.thief.one/article_content?a_id=3280395b59c9e4606f4dd4c4e7a4787f)
-- [【安全热点】一月我国互联网各类安全威胁态势分析报告|境内119万余终端感染木马](https://sec.thief.one/article_content?a_id=07af478b3b7d3fe344b5d02f950a9b32)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

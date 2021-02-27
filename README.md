@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-27 00:08:25，:rocket: 更新条数: +369， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-27 00:17:40，:rocket: 更新条数: +369， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -537,6 +537,18 @@
 </summary>
 
 
+- [2021-02-27-软件测试人员的职业发展之路](https://sec.thief.one/article_content?a_id=8caf1b64ec46021946c6c7564ee1461b) ![](assets/new.png)  
+- [2021-02-27-网安杂谈收藏夹2021.2.26-元宵节](https://sec.thief.one/article_content?a_id=13bfb55bdad84c4c931353e698074616) ![](assets/new.png)  
+- [2021-02-26-【安全风险通告】细节已公开,奇安信产品支持防护,SaltStack多个高...](https://sec.thief.one/article_content?a_id=b996d97426e05769a330d941662274e1) ![](assets/new.png)  
+- [2021-02-26-@所有人,我发起了一个抽奖活动](https://sec.thief.one/article_content?a_id=a1ccea4dceb732446966b132244bc08f) ![](assets/new.png)  
+- [2021-02-26-网安新焦点,安在讲堂公益直播新春预热](https://sec.thief.one/article_content?a_id=1d2a1a125592c884420915222a6a82ed) ![](assets/new.png)  
+- [2021-02-26-【安全圈】Flash-中国版会安装广告程序,被曝存在严重安全问题](https://sec.thief.one/article_content?a_id=db21f284036917bb23b8b68d74d0cb02) ![](assets/new.png)  
+- [2021-02-26-终于有人把Python讲清楚了!](https://sec.thief.one/article_content?a_id=805e1e9e04990ec9339bf973b769fbd6) ![](assets/new.png)  
+- [2021-02-26-NSS-2021论文征稿-2021/6/10](https://sec.thief.one/article_content?a_id=8ceb25cab2f2696d76f4c68dddc33488) ![](assets/new.png)  
+- [2021-02-26-闹元宵,猜灯谜,留言互动有好礼~](https://sec.thief.one/article_content?a_id=22a0e76cbe1638d16421187d6468848c) ![](assets/new.png)  
+- [2021-02-26-《网安26号院》|我在奇安信一层一层叠出世界](https://sec.thief.one/article_content?a_id=7f35446ee07f1494b8bb5548160b9e19) ![](assets/new.png)  
+- [2021-02-26-【漏洞通告】SaltStack-多个高危漏洞](https://sec.thief.one/article_content?a_id=8a8d74bd17c3d1da41b960d51fa16de1) ![](assets/new.png)  
+- [2021-02-26-福利相伴闹元宵,FVIP会员日活动开始啦!](https://sec.thief.one/article_content?a_id=852a99fafb6969bf16ab52974607d28b) ![](assets/new.png)  
 - [2021-02-26-黑客思维养成记-——黑客的“小鸡”](https://sec.thief.one/article_content?a_id=da99ff32a494a74c134be5e48da3a271) ![](assets/new.png)  
 - [2021-02-26-MiSRC-2021年最新奖励规则~](https://sec.thief.one/article_content?a_id=ae59c11b7077938fb3df5a6e124de604) ![](assets/new.png)  
 - [2021-02-26-某陪玩软件协议加密算法分析so层分析](https://sec.thief.one/article_content?a_id=4d920437fb095ecbe7c29b927398c1a2) ![](assets/new.png)  
@@ -545,18 +557,6 @@
 - [2021-02-26-Python-被爆大-Bug,攻击者可远程代码执行漏洞!](https://sec.thief.one/article_content?a_id=eb308316a8f155bc7e416bc58ede07ac) ![](assets/new.png)  
 - [2021-02-26-给我个空碗啥意思??](https://sec.thief.one/article_content?a_id=420c2718957e172ded6e62772cc2a939) ![](assets/new.png)  
 - [2021-02-26-灯起初春-乐启元宵|网络安全灯谜,你能猜对几个?](https://sec.thief.one/article_content?a_id=8da715af7b575e07f8826ee0d159ad01) ![](assets/new.png)  
-- [2021-02-26-HW行动执行官联盟建立!专治护网失信人员](https://sec.thief.one/article_content?a_id=8c164f37dd8294d6e0076db451988a43) ![](assets/new.png)  
-- [2021-02-26-正月十五,元宵喜乐!](https://sec.thief.one/article_content?a_id=57cce40d8798ef9a6063269cbdc1022b) ![](assets/new.png)  
-- [2021-02-26-【公告】JSRC-一月月度英雄榜](https://sec.thief.one/article_content?a_id=21bf128c8628fe8be2a2a3def4c8ec9c) ![](assets/new.png)  
-- [2021-02-26-FATF愿意修改加密旅行规则指南](https://sec.thief.one/article_content?a_id=2282efbae9d4160afeafa356228dcf9c) ![](assets/new.png)  
-- [2021-02-26-CNNVD-关于VMware-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=4f53559b9d61021e682e6bb150e1fe22) ![](assets/new.png)  
-- [2021-02-26-【漏洞预警】SaltStack-多个高危漏洞CVE-2021-25283等](https://sec.thief.one/article_content?a_id=1dea7e3f4624061cf0207267b5608a55) ![](assets/new.png)  
-- [2021-02-26-比特币涨跌问题,实际上一根线就能解决](https://sec.thief.one/article_content?a_id=a5e4435c28d53245178800d405c37629) ![](assets/new.png)  
-- [2021-02-26-拜登签署行政命令,要求对供应链进行安全审查](https://sec.thief.one/article_content?a_id=9a22a8425552802460c3faacd3d98b08) ![](assets/new.png)  
-- [2021-02-26-畸形的URL前缀钓鱼攻击激增了6000%](https://sec.thief.one/article_content?a_id=c3e67e53126ce3e98c2c78a6334b44d2) ![](assets/new.png)  
-- [2021-02-26-漏洞情报-|-SaltStack多个高危漏洞风险通告](https://sec.thief.one/article_content?a_id=8cc4e4fa03a89bfa151003332e6b4714) ![](assets/new.png)  
-- [2021-02-26-俄罗斯黑客组织部署IronPython恶意软件加载程序](https://sec.thief.one/article_content?a_id=e44083bcc7baa24df1a8b94042aee91b) ![](assets/new.png)  
-- [2021-02-26-2020年中国网络安全十大事件](https://sec.thief.one/article_content?a_id=a9eba1a42f04035490b275c94a0ad651) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

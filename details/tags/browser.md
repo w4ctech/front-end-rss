@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-27 00:08:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-27 00:17:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,8 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2021-02-26-【安全风险通告】细节已公开,奇安信产品支持防护,SaltStack多个高...](https://sec.thief.one/article_content?a_id=b996d97426e05769a330d941662274e1) 
+- [2021-02-26-【安全圈】Flash-中国版会安装广告程序,被曝存在严重安全问题](https://sec.thief.one/article_content?a_id=db21f284036917bb23b8b68d74d0cb02) 
 - [2021-02-26-【滴滴信息安全招聘】一份令人心动的offer-欲投从速!](https://sec.thief.one/article_content?a_id=8fa9b2249a41035caa62aaae9dbf0ef7) 
 - [2021-02-26-灯起初春-乐启元宵|网络安全灯谜,你能猜对几个?](https://sec.thief.one/article_content?a_id=8da715af7b575e07f8826ee0d159ad01) 
 - [2021-02-26-CNNVD-关于VMware-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=4f53559b9d61021e682e6bb150e1fe22) 
@@ -35,7 +37,3 @@
 - [2021-02-24-【安全风险通告】VMware产品多个高危漏洞安全风险通告](https://sec.thief.one/article_content?a_id=7664d9b997c5fa14316a4e47ad2c6140) 
 - [2021-02-24-【安全圈】警惕钓鱼邮件,海莲花组织攻击越南人权捍卫者](https://sec.thief.one/article_content?a_id=4a263f195bc829a1bdca1bd61fa27b85) 
 - [2021-02-24-赋能AI安全,绿盟科技多项成果入选GSMA《人工智能赋能安全应用案...](https://sec.thief.one/article_content?a_id=380a3555eb359f3c709ee109fbd2d41c) 
-- [2021-02-24-《2020年工业信息安全态势报告》:工业安全态势复杂化,须加码风险...](https://sec.thief.one/article_content?a_id=d2c431cab85efee21c72177b8daab0dc) 
-- [2021-02-24-好书推荐-|-第四期:《内网安全攻防:渗透测试实战指南》](https://sec.thief.one/article_content?a_id=d2d5c29ec24df515f56155eb35d554b9) 
-- [2021-02-24-强制性国家标准《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=3575dfb11442bbda888a36f7bf21ab29) 
-- [2021-02-24-红杉资本遭遇黑客攻击,网络安全或将成为企业最大难题](https://sec.thief.one/article_content?a_id=83af4f9b62d2cd871774f79ac1797a4c) 

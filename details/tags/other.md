@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-27 00:08:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-27 00:17:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -75,6 +75,15 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2021-02-27-软件测试人员的职业发展之路](https://sec.thief.one/article_content?a_id=8caf1b64ec46021946c6c7564ee1461b) 
+- [2021-02-27-网安杂谈收藏夹2021.2.26-元宵节](https://sec.thief.one/article_content?a_id=13bfb55bdad84c4c931353e698074616) 
+- [2021-02-26-@所有人,我发起了一个抽奖活动](https://sec.thief.one/article_content?a_id=a1ccea4dceb732446966b132244bc08f) 
+- [2021-02-26-终于有人把Python讲清楚了!](https://sec.thief.one/article_content?a_id=805e1e9e04990ec9339bf973b769fbd6) 
+- [2021-02-26-NSS-2021论文征稿-2021/6/10](https://sec.thief.one/article_content?a_id=8ceb25cab2f2696d76f4c68dddc33488) 
+- [2021-02-26-闹元宵,猜灯谜,留言互动有好礼~](https://sec.thief.one/article_content?a_id=22a0e76cbe1638d16421187d6468848c) 
+- [2021-02-26-《网安26号院》|我在奇安信一层一层叠出世界](https://sec.thief.one/article_content?a_id=7f35446ee07f1494b8bb5548160b9e19) 
+- [2021-02-26-【漏洞通告】SaltStack-多个高危漏洞](https://sec.thief.one/article_content?a_id=8a8d74bd17c3d1da41b960d51fa16de1) 
+- [2021-02-26-福利相伴闹元宵,FVIP会员日活动开始啦!](https://sec.thief.one/article_content?a_id=852a99fafb6969bf16ab52974607d28b) 
 - [2021-02-26-黑客思维养成记-——黑客的“小鸡”](https://sec.thief.one/article_content?a_id=da99ff32a494a74c134be5e48da3a271) 
 - [2021-02-26-MiSRC-2021年最新奖励规则~](https://sec.thief.one/article_content?a_id=ae59c11b7077938fb3df5a6e124de604) 
 - [2021-02-26-SaltStack多个高危漏洞CVE-2021-25283/25281/3197等](https://sec.thief.one/article_content?a_id=7a0ab496de33268338cb7be359fff999) 
@@ -133,10 +142,3 @@
 - [2021-02-24-VMware多个高危漏洞通告](https://sec.thief.one/article_content?a_id=545288de283a4c979e6a6804f6808893) 
 - [2021-02-24-一名网安工程师的365天成长全记录](https://sec.thief.one/article_content?a_id=42023f0d1b8e98d30cf66884c4681a04) 
 - [2021-02-24-专业交易员在比特币下跌时依旧做多,清算59亿美元](https://sec.thief.one/article_content?a_id=a2535f3b14877af0efdb4886d9e66e89) 
-- [2021-02-24-“网络招嫖”都进化出了哪些诈骗套路?](https://sec.thief.one/article_content?a_id=483a4e9e16313c65d61d5a7236ce4cf8) 
-- [2021-02-24-一次服务器被黑的全过程排查和思考](https://sec.thief.one/article_content?a_id=9b640b6c419f6738c479eb776b8b1ee9) 
-- [2021-02-24-史上最怂的“小强”木马,发现360急救箱即刻自杀](https://sec.thief.one/article_content?a_id=ca49c70344ac28cd96fcc030c4c3a1b3) 
-- [2021-02-24-【漏洞预警】VMware-多个高危漏洞CVE-2021-21972等](https://sec.thief.one/article_content?a_id=8e2eda5d74169b1f859492e190756b33) 
-- [2021-02-24-关于Cobalt-Strike中几种常见Beacon的特性及使用](https://sec.thief.one/article_content?a_id=e54539da895868c6e820f4f1dfd01486) 
-- [2021-02-24-网络犯罪集团通过COVID-19诈骗等手段获利5500万美元](https://sec.thief.one/article_content?a_id=f0eec48b46955d28e08dda2cbc6a1952) 
-- [2021-02-24-2026年全球零信任市场规模将达到516亿美元](https://sec.thief.one/article_content?a_id=b4e6097bad3a0b305aeb87062c034b0e) 

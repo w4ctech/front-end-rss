@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-28 05:08:30，:rocket: 更新条数: +369， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-28 05:31:12，:rocket: 更新条数: +369， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -537,6 +537,15 @@
 </summary>
 
 
+- [2021-02-28-风投巨头红杉资本遭受BEC攻击](https://sec.thief.one/article_content?a_id=23b1eb84caadcb930a8b11de341b9215) ![](assets/new.png)  
+- [2021-02-28-勒索,恶意软件和残酷的骗局——恶意软件2021年报告](https://sec.thief.one/article_content?a_id=89f4e03a47d4b99ec44b4c39fce7cd7e) ![](assets/new.png)  
+- [2021-02-28-【清理未活跃会员】清理2020年光棍节开放注册未活跃会员公告](https://sec.thief.one/article_content?a_id=e652e5e13b96d511699bbf654519d692) ![](assets/new.png)  
+- [2021-02-28-网安行业“糊弄学”:你多动手练就好了!](https://sec.thief.one/article_content?a_id=3b19506b163f21b3a7f9bc3700c98a85) ![](assets/new.png)  
+- [2021-02-28-微软NetLogon特权提升漏洞复现CVE-2020-1472](https://sec.thief.one/article_content?a_id=79e344debce9e8a3603ca5ff2c9ad018) ![](assets/new.png)  
+- [2021-02-28-《涉密信息系统集成资质管理办法》明日起正式实施附全文](https://sec.thief.one/article_content?a_id=76c40ec15fd457a5f42fbc199b9f538b) ![](assets/new.png)  
+- [2021-02-28-这个图聚类Python工具火了:可对社群结构进行可视化、检测-|-开源](https://sec.thief.one/article_content?a_id=04de186b7efc5f3a0abebeb54d903a02) ![](assets/new.png)  
+- [2021-02-28-【视频】|-Python:内置函数+匿名函数](https://sec.thief.one/article_content?a_id=7b2ddc58ac8807bce2ce88435fea053b) ![](assets/new.png)  
+- [2021-02-28-30-行Python代码实现蚂蚁森林自动收能量附送源码](https://sec.thief.one/article_content?a_id=be8950e396071c11e5fd5a7eeaf1d2a6) ![](assets/new.png)  
 - [2021-02-28-网安杂谈收藏夹2021.2.27](https://sec.thief.one/article_content?a_id=10fcdbaa3a5e86679b0213c4739432f6) ![](assets/new.png)  
 - [2021-02-27-30个Python常用极简代码,拿走就能用](https://sec.thief.one/article_content?a_id=631a54b6404926db67ec4b1666f53111) ![](assets/new.png)  
 - [2021-02-27-炸裂!MySQL-82-张图带你飞](https://sec.thief.one/article_content?a_id=33e80208a5ad1e5468e5894bb5cfc07f) ![](assets/new.png)  
@@ -548,15 +557,6 @@
 - [2021-02-27-3月20日,DEF-CON-CHINA-Party来了!我们架构了一颗虚拟极客星球!](https://sec.thief.one/article_content?a_id=b33e9808d0996d8ec0e0f686c48a4050) ![](assets/new.png)  
 - [2021-02-27-一个存在于sudo程序中接近10年的漏洞](https://sec.thief.one/article_content?a_id=b1be819b755b137d4155d4edfae787fb) ![](assets/new.png)  
 - [2021-02-27-黄道十二宫杀手和他的密码谜局](https://sec.thief.one/article_content?a_id=29e2b317ae8403f3e5773ab146f4cc0c) ![](assets/new.png)  
-- [2021-02-27-文件包含的基本操作](https://sec.thief.one/article_content?a_id=1041ca65d88bbd19c2a93c380d0fc562) ![](assets/new.png)  
-- [2021-02-27-Flash-中国版会安装广告程序,被曝存在严重安全问题](https://sec.thief.one/article_content?a_id=d60486708a7402d004b4ca7730cf1b48) ![](assets/new.png)  
-- [2021-02-27-乌克兰:针对政府网站的DDoS攻击源自俄罗斯](https://sec.thief.one/article_content?a_id=592b0ea81c8df1c3c88bc4b4ee777e46) ![](assets/new.png)  
-- [2021-02-27-深度剖析:美国网络空间攻击特点与模式](https://sec.thief.one/article_content?a_id=ed725aed12bb325442ae0499316ec5c9) ![](assets/new.png)  
-- [2021-02-27-【视频】|-网络安全:安全审计的基础知识](https://sec.thief.one/article_content?a_id=5f2c19a4696f6ff4f4c288fc9263b966) ![](assets/new.png)  
-- [2021-02-27-深信服2020年营收54.6亿,同期增长18.92%,净利8亿元](https://sec.thief.one/article_content?a_id=b9033a7b7eedb18714ba353c7b326cb2) ![](assets/new.png)  
-- [2021-02-27-答应我,调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=b7cc6296f797cf950e01b9f2f1b47680) ![](assets/new.png)  
-- [2021-02-27-软件测试人员的职业发展之路](https://sec.thief.one/article_content?a_id=8caf1b64ec46021946c6c7564ee1461b) ![](assets/new.png)  
-- [2021-02-27-网安杂谈收藏夹2021.2.26-元宵节](https://sec.thief.one/article_content?a_id=13bfb55bdad84c4c931353e698074616) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

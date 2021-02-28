@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-28 10:09:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-28 10:33:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -75,6 +75,8 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2021-02-28-论大数据时代下组织内的隐私信息保护管理体系建设](https://sec.thief.one/article_content?a_id=fffc8c022f0466ffb6b8e92d426c7638) 
+- [2021-02-28-Vmware-vcenter未授权任意文件/RCE漏洞的复现与分析](https://sec.thief.one/article_content?a_id=dd0e1503c62c06eaeecf7d54dd4e5e34) 
 - [2021-02-28-风投巨头红杉资本遭受BEC攻击](https://sec.thief.one/article_content?a_id=23b1eb84caadcb930a8b11de341b9215) 
 - [2021-02-28-勒索,恶意软件和残酷的骗局——恶意软件2021年报告](https://sec.thief.one/article_content?a_id=89f4e03a47d4b99ec44b4c39fce7cd7e) 
 - [2021-02-28-【清理未活跃会员】清理2020年光棍节开放注册未活跃会员公告](https://sec.thief.one/article_content?a_id=e652e5e13b96d511699bbf654519d692) 
@@ -142,5 +144,3 @@
 - [2021-02-25-漏洞风险提示-|-VMware-多个高危漏洞](https://sec.thief.one/article_content?a_id=244b754911da514ad8b12567ceebfb9f) 
 - [2021-02-25-逆向分析iMessage:Apple如何利用硬件来保护软件](https://sec.thief.one/article_content?a_id=b1ef9bdd417fcf5391d3d1d0093fee1d) 
 - [2021-02-25-【通告更新】RCE漏洞已验证危害较大,奇安信产品可防,VMware产...](https://sec.thief.one/article_content?a_id=68a3dd844b95e9cd59fba65e6ec0754b) 
-- [2021-02-25-【2021春节】解题领红包活动排行榜更新](https://sec.thief.one/article_content?a_id=f05d84e5af628a7f72da96f2c1cf0b52) 
-- [2021-02-25-2026年全球零信任市场规模将达到516亿美元](https://sec.thief.one/article_content?a_id=021bb815ea916991ece7de36ff03e92f) 

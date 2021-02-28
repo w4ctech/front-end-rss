@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-28 10:09:05，:rocket: 更新条数: +369， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-28 10:33:18，:rocket: 更新条数: +369， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -537,6 +537,8 @@
 </summary>
 
 
+- [2021-02-28-论大数据时代下组织内的隐私信息保护管理体系建设](https://sec.thief.one/article_content?a_id=fffc8c022f0466ffb6b8e92d426c7638) ![](assets/new.png)  
+- [2021-02-28-Vmware-vcenter未授权任意文件/RCE漏洞的复现与分析](https://sec.thief.one/article_content?a_id=dd0e1503c62c06eaeecf7d54dd4e5e34) ![](assets/new.png)  
 - [2021-02-28-风投巨头红杉资本遭受BEC攻击](https://sec.thief.one/article_content?a_id=23b1eb84caadcb930a8b11de341b9215) ![](assets/new.png)  
 - [2021-02-28-勒索,恶意软件和残酷的骗局——恶意软件2021年报告](https://sec.thief.one/article_content?a_id=89f4e03a47d4b99ec44b4c39fce7cd7e) ![](assets/new.png)  
 - [2021-02-28-【清理未活跃会员】清理2020年光棍节开放注册未活跃会员公告](https://sec.thief.one/article_content?a_id=e652e5e13b96d511699bbf654519d692) ![](assets/new.png)  
@@ -555,8 +557,6 @@
 - [2021-02-27-币说币语:稳住心态,比特币70000美元行情即将开启!!!](https://sec.thief.one/article_content?a_id=4c3591fddf618826211f5f341ddd2c2d) ![](assets/new.png)  
 - [2021-02-27-在看-|-一周网安回顾2021.2.20—2.26](https://sec.thief.one/article_content?a_id=2cc65772db254af8ca3b4d79d8c591f5) ![](assets/new.png)  
 - [2021-02-27-3月20日,DEF-CON-CHINA-Party来了!我们架构了一颗虚拟极客星球!](https://sec.thief.one/article_content?a_id=b33e9808d0996d8ec0e0f686c48a4050) ![](assets/new.png)  
-- [2021-02-27-一个存在于sudo程序中接近10年的漏洞](https://sec.thief.one/article_content?a_id=b1be819b755b137d4155d4edfae787fb) ![](assets/new.png)  
-- [2021-02-27-黄道十二宫杀手和他的密码谜局](https://sec.thief.one/article_content?a_id=29e2b317ae8403f3e5773ab146f4cc0c) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

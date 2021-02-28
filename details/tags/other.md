@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-28 00:08:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-28 00:18:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -75,6 +75,9 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2021-02-28-网安杂谈收藏夹2021.2.27](https://sec.thief.one/article_content?a_id=10fcdbaa3a5e86679b0213c4739432f6) 
+- [2021-02-27-30个Python常用极简代码,拿走就能用](https://sec.thief.one/article_content?a_id=631a54b6404926db67ec4b1666f53111) 
+- [2021-02-27-炸裂!MySQL-82-张图带你飞](https://sec.thief.one/article_content?a_id=33e80208a5ad1e5468e5894bb5cfc07f) 
 - [2021-02-27-机会难得,高级威胁团队招人啦](https://sec.thief.one/article_content?a_id=1fe2bf3aea99219dfc5f3a22cc50ee73) 
 - [2021-02-27-《高研班》2021年3月班正在火热招生中!](https://sec.thief.one/article_content?a_id=1e87817fb779dec407341047a721ad8d) 
 - [2021-02-27-币说币语:稳住心态,比特币70000美元行情即将开启!!!](https://sec.thief.one/article_content?a_id=4c3591fddf618826211f5f341ddd2c2d) 
@@ -140,4 +143,3 @@
 - [2021-02-25-2020年针对大学的勒索软件攻击同比翻倍-赎金达44.7万美元](https://sec.thief.one/article_content?a_id=fe224a7e41d4eb2c965b908f3886e99c) 
 - [2021-02-25-python-处理-csv-文件](https://sec.thief.one/article_content?a_id=ddd778f3493b73cd332ca6646c124a4c) 
 - [2021-02-25-VMware-vCenter-Server和ESXi高危漏洞风险提示](https://sec.thief.one/article_content?a_id=9e6ccf9f60b2324426efb428561624a2) 
-- [2021-02-25-网安杂谈收藏夹2021.2.24](https://sec.thief.one/article_content?a_id=73f151f5e606970bd156493a8417f845) 

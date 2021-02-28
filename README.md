@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-28 00:08:29，:rocket: 更新条数: +369， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-28 00:18:53，:rocket: 更新条数: +369， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -537,6 +537,9 @@
 </summary>
 
 
+- [2021-02-28-网安杂谈收藏夹2021.2.27](https://sec.thief.one/article_content?a_id=10fcdbaa3a5e86679b0213c4739432f6) ![](assets/new.png)  
+- [2021-02-27-30个Python常用极简代码,拿走就能用](https://sec.thief.one/article_content?a_id=631a54b6404926db67ec4b1666f53111) ![](assets/new.png)  
+- [2021-02-27-炸裂!MySQL-82-张图带你飞](https://sec.thief.one/article_content?a_id=33e80208a5ad1e5468e5894bb5cfc07f) ![](assets/new.png)  
 - [2021-02-27-机会难得,高级威胁团队招人啦](https://sec.thief.one/article_content?a_id=1fe2bf3aea99219dfc5f3a22cc50ee73) ![](assets/new.png)  
 - [2021-02-27-使用git-wild-hunt来搜索GitHub中暴露的凭证](https://sec.thief.one/article_content?a_id=a1d382bd02eb8bb1b8d12ba2a77dba9d) ![](assets/new.png)  
 - [2021-02-27-《高研班》2021年3月班正在火热招生中!](https://sec.thief.one/article_content?a_id=1e87817fb779dec407341047a721ad8d) ![](assets/new.png)  
@@ -554,9 +557,6 @@
 - [2021-02-27-答应我,调试Python代码,不要再用Print了!](https://sec.thief.one/article_content?a_id=b7cc6296f797cf950e01b9f2f1b47680) ![](assets/new.png)  
 - [2021-02-27-软件测试人员的职业发展之路](https://sec.thief.one/article_content?a_id=8caf1b64ec46021946c6c7564ee1461b) ![](assets/new.png)  
 - [2021-02-27-网安杂谈收藏夹2021.2.26-元宵节](https://sec.thief.one/article_content?a_id=13bfb55bdad84c4c931353e698074616) ![](assets/new.png)  
-- [2021-02-26-【安全风险通告】细节已公开,奇安信产品支持防护,SaltStack多个高...](https://sec.thief.one/article_content?a_id=b996d97426e05769a330d941662274e1) ![](assets/new.png)  
-- [2021-02-26-@所有人,我发起了一个抽奖活动](https://sec.thief.one/article_content?a_id=a1ccea4dceb732446966b132244bc08f) ![](assets/new.png)  
-- [2021-02-26-网安新焦点,安在讲堂公益直播新春预热](https://sec.thief.one/article_content?a_id=1d2a1a125592c884420915222a6a82ed) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

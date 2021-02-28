@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-28 00:08:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-02-28 00:18:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -154,6 +154,9 @@
 - [【阮一峰的网络日志】2021-02-19-科技爱好者周刊（第-146-期）：网课应该怎么上？](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-146.html) 
 - [【阮一峰的网络日志】2021-02-05-科技爱好者周刊（第-145-期）：大家不出门，经济怎么办？](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-145.html) 
 - [【凹凸实验室】2021-02-01-凹凸技术揭秘-·-技术精进与业务发展两不误](https://aotu.io/notes/2021/02/01/both-tech-n-biz/) 
+- [【安全热点】2021-02-28-网安杂谈收藏夹2021.2.27](https://sec.thief.one/article_content?a_id=10fcdbaa3a5e86679b0213c4739432f6) 
+- [【安全热点】2021-02-27-30个Python常用极简代码,拿走就能用](https://sec.thief.one/article_content?a_id=631a54b6404926db67ec4b1666f53111) 
+- [【安全热点】2021-02-27-炸裂!MySQL-82-张图带你飞](https://sec.thief.one/article_content?a_id=33e80208a5ad1e5468e5894bb5cfc07f) 
 - [【安全热点】2021-02-27-机会难得,高级威胁团队招人啦](https://sec.thief.one/article_content?a_id=1fe2bf3aea99219dfc5f3a22cc50ee73) 
 - [【安全热点】2021-02-27-使用git-wild-hunt来搜索GitHub中暴露的凭证](https://sec.thief.one/article_content?a_id=a1d382bd02eb8bb1b8d12ba2a77dba9d) 
 - [【安全热点】2021-02-27-《高研班》2021年3月班正在火热招生中!](https://sec.thief.one/article_content?a_id=1e87817fb779dec407341047a721ad8d) 
@@ -251,9 +254,6 @@
 - [【安全热点】2021-02-25-2020年针对大学的勒索软件攻击同比翻倍-赎金达44.7万美元](https://sec.thief.one/article_content?a_id=fe224a7e41d4eb2c965b908f3886e99c) 
 - [【安全热点】2021-02-25-python-处理-csv-文件](https://sec.thief.one/article_content?a_id=ddd778f3493b73cd332ca6646c124a4c) 
 - [【安全热点】2021-02-25-VMware-vCenter-Server和ESXi高危漏洞风险提示](https://sec.thief.one/article_content?a_id=9e6ccf9f60b2324426efb428561624a2) 
-- [【安全热点】2021-02-25-卧槽!字节跳动《算法中文手册》火了,完整版-PDF-开放下载!](https://sec.thief.one/article_content?a_id=0107502d1526a5830bd0c59f196f405a) 
-- [【安全热点】2021-02-25-强制性国标GB40050-2021《网络关键设备安全通用要求》发布](https://sec.thief.one/article_content?a_id=b1fbfdc0471c9433c772217753f4197e) 
-- [【安全热点】2021-02-25-网安杂谈收藏夹2021.2.24](https://sec.thief.one/article_content?a_id=73f151f5e606970bd156493a8417f845) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-01 02:42:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-01 02:50:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -19,5 +19,6 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2021-02-28-任务一解锁：刷算法、写点评开启闯关之路！｜-掘金寻人，Offer-临门](https://juejin.im/post/6934506742986309639) 
 - [2021-03-01-推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts) 
 - [2021-02-26-某陪玩软件协议加密算法分析so层分析](https://sec.thief.one/article_content?a_id=4d920437fb095ecbe7c29b927398c1a2) 

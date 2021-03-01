@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-01 20:09:11，:rocket: 更新条数: +4354， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-01 20:32:46，:rocket: 更新条数: +4352， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1041,7 +1041,6 @@
 - [2021-03-01-女朋友说话让我很不舒服怎么办？各位能帮忙分析一下我应该何去何从？](https://www.v2ex.com/t/757473) ![](assets/new.png)  
 - [2021-03-01-请教-nginx-的-rewrite-配置问题](https://www.v2ex.com/t/757472) ![](assets/new.png)  
 - [2021-03-01-2021-年-3-月-1-日晚上买了个-apple-watch-s6](https://www.v2ex.com/t/757471) ![](assets/new.png)  
-- [2021-03-01-有没有人吃氨基酸补大脑](https://www.v2ex.com/t/757470) ![](assets/new.png)  
 - [2021-03-01-抱着学习的目的，自己做的一个免费的行业报告分享网站](https://www.v2ex.com/t/757469) ![](assets/new.png)  
 - [2021-03-01-抵制跨站点隐私追踪库-supercookie](https://www.v2ex.com/t/757467) ![](assets/new.png)  
 - [2021-03-01-想去腾讯怎么做？](https://www.v2ex.com/t/757466) ![](assets/new.png)  
@@ -1051,6 +1050,7 @@
 - [2021-03-01-求问，同一个局域网下，分别挂两个路由，如何只把这两个路由连成一个子网？](https://www.v2ex.com/t/757462) ![](assets/new.png)  
 - [2021-03-01-MBP-合盖休眠后被-iCloud-剪贴板共享handoff唤醒](https://www.v2ex.com/t/757460) ![](assets/new.png)  
 - [2021-03-01-想了解国内的信息安全发展](https://www.v2ex.com/t/757457) ![](assets/new.png)  
+- [2021-03-01-惠普战-66-锐龙版-r7-5800u-安装-manjaro-i3-最新版失败](https://www.v2ex.com/t/757455) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

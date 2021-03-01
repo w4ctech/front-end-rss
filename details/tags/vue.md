@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-01 22:47:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-01 22:57:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -61,3 +61,4 @@
 - [2021-01-15-一起手写Vue3核心模块源码，掌握阅读源码的正确方法](https://www.ershicimi.com/p/3493d7cf9b33872393ebbf87dfad2eaa) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
+- [2021-03-01-问个问题，-Vue-能否实现动态地以-html-的方式加载-js-文件？](https://www.v2ex.com/t/757488) 

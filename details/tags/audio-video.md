@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-01 10:41:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-01 10:59:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -89,9 +89,6 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2021-02-28-今日直播-|-数字化变革阶段，如何打造10倍速IT团队？](https://www.ershicimi.com/p/5b26216802d8504322be2fed7fa8ae3f) 
-- [2021-02-24-83-位嘉宾，71场录制｜-InfoQ-最具收获感的视频栏目盘点](https://www.ershicimi.com/p/9849c22f529df8c2ed4415efd05c0640) 
-- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-03-01-国内-iOS-有没有办法看-tiktok，有替代的短视频产品吗？](https://www.v2ex.com/t/757345) 
 - [2021-03-01-【视频】|-网络安全:审计系统的基本知识](https://sec.thief.one/article_content?a_id=d9ee8a1b6ce0a6a70bd32a3cc41fbe7c) 
 - [2021-02-28-【视频】|-Python:内置函数+匿名函数](https://sec.thief.one/article_content?a_id=7b2ddc58ac8807bce2ce88435fea053b) 

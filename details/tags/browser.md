@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-01 13:31:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-01 13:38:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,12 +23,11 @@
 - [2021-02-19-一文带你全面解析postman工具的使用](https://www.ershicimi.com/p/ed6a087da4f62d7fcf33499e3e8b771c) 
 - [2021-02-21-前端-Code-Review-的最佳实践方案](https://www.ershicimi.com/p/8f4c1fb010cc20a0ff64f60686f02d5b) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2021-02-05-奇舞周刊第-384-期：-Chrome-88-重要更新解读](https://www.ershicimi.com/p/18cb7e1d895b1c911f22c3d4ce19d70e) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2021-02-23-API-面试四连杀：接口如何设计？安全如何保证？签名如何实现？防重如何实现？](https://www.ershicimi.com/p/d84d65c7d356b4017d20134b964001e1) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
+- [2021-03-01-一起源码-之-GetX一-：从官方demo开始](https://juejin.im/post/6934628323712892941) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-01-Safari-个人收藏网页图标刷不出来/不显示，有没有办法？](https://www.v2ex.com/t/757404) 
 - [2021-03-01-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) 

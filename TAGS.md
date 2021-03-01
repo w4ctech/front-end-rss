@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-01 13:31:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-01 13:38:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -145,8 +145,6 @@
 - [【政采云前端团队】npm-依赖管理中被忽略的那些细节](https://www.ershicimi.com/p/dbc75e14c0a00bf3a7a748722c7077b2)
 - [【Nodejs技术栈】你想知道的关于-Babel-及其相关工具使用都在这里了！](https://www.ershicimi.com/p/58bc7651bba9354dbbdd266872ed9cdb)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
-- [【编程之上】万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019)
-- [【编程之上】4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4)
 - [【开发者头条】关于构建数据仓库的几个问题](https://toutiao.io/k/8894fk1)
 - [【开发者头条】构建通用-WebSocket-推送网关的设计与实践](https://toutiao.io/k/byy0nha)
 - [【物联网智库】芯讯通一口气发布5款模组，蜂窝物联网模组厂商如何构建万物互联大时代？](https://www.ershicimi.com/p/1690a236c67604d827d8064cbfa84bff)
@@ -184,8 +182,8 @@
 - [【Nodejs技术栈】Node.js-与未来](https://www.ershicimi.com/p/0e2d73b2a776a269b54644bfd84f531d)
 - [【Nodejs技术栈】有意思的-Node.js-内存泄漏问题](https://www.ershicimi.com/p/a6d63b7fcc56af0ca815af70be37e3a2)
 - [【Nodejs技术栈】在-Node.js-中使用诊断报告快速追踪问题](https://www.ershicimi.com/p/c07b52fcf96055a76fe848b3c2fb7d01)
-- [【奇舞周刊】Node-如何开发一个命令行工具](https://www.ershicimi.com/p/722fd10dbd2adcf728f10b3cf9b16b3b)
 - [【前端日刊】从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0)
+- [【JavaScript】【纯文字】2021-的-Node.js-开发人员路线图](https://www.ershicimi.com/p/5bca80dd99c61fad9cae2c3f288d40c1)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -204,12 +202,6 @@
 
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
-- [【奇舞周刊】奇舞团-小程序-招聘高级前端工程师](https://www.ershicimi.com/p/94ed5240cc1c7a49f22eee54c4ac2dcd)
-- [【奇舞周刊】奇舞团-小程序-招聘高级前端工程师](https://www.ershicimi.com/p/352cdb61aa55c80aa647c0f2a10a6a06)
-- [【奇舞周刊】奇舞团-小程序-招聘高级前端工程师](https://www.ershicimi.com/p/4e1f4618518ab3401fc7462a2c06053d)
-- [【奇舞周刊】奇舞团-小程序-招聘高级前端工程师](https://www.ershicimi.com/p/97253932cf6e2522c2b8b475109b0a5f)
-- [【奇舞周刊】奇舞团-小程序-招聘高级前端工程师](https://www.ershicimi.com/p/face0c92e797318fd9bba1441b6cecd3)
-- [【奇舞周刊】奇舞团-小程序-招聘高级前端工程师](https://www.ershicimi.com/p/f79690ea17ffcc1d6c8db9836825aa2e)
 - [【前端日刊】从0到1带你开发一个人脸识别考勤小程序](https://www.ershicimi.com/p/7fdc7a8a92088c3678ae5553440b47ec)
 - [【前端日刊】推荐一个小程序实战项目！0基础可做](https://www.ershicimi.com/p/18c08bde7a831bbd26ace73f5cd169ee)
 - [【前端日刊】小程序开发其实不难！学会这几个组件你也会](https://www.ershicimi.com/p/89fa25c16114790ca3b257faed3da5de)
@@ -334,7 +326,6 @@
 
 
 
-- [【奇舞周刊】如何1人5天开发超炫酷3D数据可视化大屏](https://www.ershicimi.com/p/e21ac27d93c1275d8d458a6e30e442ad)
 - [【安全热点】3月1日GUIBI早内参-波卡平行链或将在本季度末发布,Robinhood或将...](https://sec.thief.one/article_content?a_id=6e644dcfc11f061bc198bb58c7ffafa6)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
@@ -361,9 +352,6 @@
 - [【前端圈】视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138)
 - [【前端圈】视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a)
 - [【前端圈】视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d)
-- [【InfoQ】今日直播-|-数字化变革阶段，如何打造10倍速IT团队？](https://www.ershicimi.com/p/5b26216802d8504322be2fed7fa8ae3f)
-- [【InfoQ】83-位嘉宾，71场录制｜-InfoQ-最具收获感的视频栏目盘点](https://www.ershicimi.com/p/9849c22f529df8c2ed4415efd05c0640)
-- [【编程之上】前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978)
 - [【V2EX】阿里巴巴-广州-音视频专家-Windows-开发-新团队-25-35-16-薪](https://www.v2ex.com/t/757437)
 - [【V2EX】阿里巴巴-广州-音视频专家-工程渲染方向-新团队-25-45-16-薪](https://www.v2ex.com/t/757436)
 - [【V2EX】一个视频里剪出多段只想要的内容](https://www.v2ex.com/t/757419)
@@ -372,6 +360,7 @@
 - [【安全热点】【视频】|-网络安全:安全审计的基础知识](https://sec.thief.one/article_content?a_id=5f2c19a4696f6ff4f4c288fc9263b966)
 - [【安全热点】网安新焦点,安在讲堂公益直播新春预热](https://sec.thief.one/article_content?a_id=1d2a1a125592c884420915222a6a82ed)
 - [【安全热点】元宵佳节赠送十张腾讯视频VIP月卡](https://sec.thief.one/article_content?a_id=e6fe74841bec71b5c281b787d92d96a3)
+- [【物联网智库】【直播报名】物联网数据4.0时代，企业还有哪些新的存储需求？](https://www.ershicimi.com/p/38cd58ec7eba50794e472b524952553c)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -394,10 +383,8 @@
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【前端日刊】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8)
-- [【InfoQ】VUCA时代，打造-10-倍速-IT-团队的优化调整法则](https://www.ershicimi.com/p/ae3944e43871f50bf5a82dbe8e59b89f)
 - [【JavaScript】熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【V2EX】阿里云采购季促销活动开始了，新增的-2-核-2g-突发性能型材-86-元一年](https://www.v2ex.com/t/757392)
 - [【开发者头条】推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1)
 - [【开发者头条】推荐-面试官问：在读多写少的情况下，如果优化-MySQL-的数据查询方案](https://toutiao.io/k/kvgofut)
 - [【安全热点】俄罗斯黑客组织部署IronPython恶意软件加载程序](https://sec.thief.one/article_content?a_id=e44083bcc7baa24df1a8b94042aee91b)
@@ -433,10 +420,10 @@
 - [【程序员成长指北】一文带你全面解析postman工具的使用](https://www.ershicimi.com/p/ed6a087da4f62d7fcf33499e3e8b771c)
 - [【Nodejs技术栈】前端-Code-Review-的最佳实践方案](https://www.ershicimi.com/p/8f4c1fb010cc20a0ff64f60686f02d5b)
 - [【张鑫旭-鑫空间-鑫生活】Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/)
-- [【奇舞周刊】奇舞周刊第-384-期：-Chrome-88-重要更新解读](https://www.ershicimi.com/p/18cb7e1d895b1c911f22c3d4ce19d70e)
 - [【前端e进阶】「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559)
 - [【前端e进阶】推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
+- [【JavaScript】Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -459,7 +446,6 @@
 - [【全栈前端精选】一个-HTTP-打趴-80%-面试者](https://www.ershicimi.com/p/58b0559d296594c1172a1e9e108c2002)
 - [【全栈前端精选】搞懂-HTTP-重定向---如何优雅地使用-301](https://www.ershicimi.com/p/e5a8e54be4dea2e92c54c68e108a2dae)
 - [【开发者头条】Elasticsearch-线程池和队列问题，请先看这一篇](https://toutiao.io/k/9m4u3j8)
-- [【开发者头条】推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts)
 - [【安全热点】某陪玩软件协议加密算法分析so层分析](https://sec.thief.one/article_content?a_id=4d920437fb095ecbe7c29b927398c1a2)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -477,8 +463,6 @@
 
 
 
-- [【互联网架构师】再见！RESTful...](https://www.ershicimi.com/p/59ce98553014309c5f1b3153d911fc6a)
-- [【InfoQ】5款好用且有代表性的GraphQL工具](https://www.ershicimi.com/p/4a5bfab767f6566d40ee8dd4178a0fda)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -501,9 +485,6 @@
 - [【全栈前端精选】使用-github-快速搭建属于自己的图床](https://www.ershicimi.com/p/dd4794108ef92220722533e1f4695883)
 - [【前端宇宙】Github域名加上1s，在线VS-Code阅读源码神器诞生](https://www.ershicimi.com/p/a30bec06e3d4831fd8b2830b555c1eb7)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
-- [【互联网架构师】牛逼了！第一份程序员考公指南居然在Github上被我扒出来](https://www.ershicimi.com/p/edf9566f7fb4afc5e3ba05d4006e10d2)
-- [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
-- [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【安全热点】使用git-wild-hunt来搜索GitHub中暴露的凭证](https://sec.thief.one/article_content?a_id=a1d382bd02eb8bb1b8d12ba2a77dba9d)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

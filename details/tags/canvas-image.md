@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-28 23:54:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-01 00:09:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -20,4 +20,5 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2021-02-28-skyline，输入账户，根据-2020-年-contribution-生成-3D-建模，好酷](https://www.v2ex.com/t/757050) 
 - [2021-02-25-GUIBI区块链公开课—《多维共振交易系统》之基础K线实战](https://sec.thief.one/article_content?a_id=10d14991e21965afc830cc29d5e06adc) 

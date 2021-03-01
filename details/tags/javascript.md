@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-01 16:07:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-01 16:15:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -37,20 +37,9 @@
 - [2021-02-26-JS算法：图文并茂讲解堆排序](https://www.ershicimi.com/p/88634cd6a4cd26a15f2a980a7a110d87) 
 - [2021-02-25-Javascript-中数据类型那些可能会中招的细节](https://www.ershicimi.com/p/3bf41b2b3b1ade5d39e121ba1631d275) 
 - [2021-02-24-实时监测手部运动的-JS-库，可以实现很多有趣功能](https://www.ershicimi.com/p/c141ed7b22df70ad210c86cbd8999d1b) 
-- [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
-- [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
-- [2021-02-03-JavaScript两个快速调试的技巧](https://www.ershicimi.com/p/0d19318aab88a90e38195784d200db9c) 
-- [2021-01-20-深拷贝-浅拷贝](https://www.ershicimi.com/p/dfb54aa52c988c0e5ac606ec2993c059) 
-- [2021-01-19-11个-Javascript-小技巧帮你提升代码质量](https://www.ershicimi.com/p/361e60879247bba788a8a8a43ca0e4b5) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
-- [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 
-- [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
-- [2021-02-20-写了这么多年-JavaScript-，竟然还不知道这些技巧？](https://www.ershicimi.com/p/24e006352be974d2392950f1a41aec9f) 
-- [2021-02-05-不用try-catch，如何机智的捕获错误](https://www.ershicimi.com/p/fe4310d6940b69d9dd4221af76504622) 
-- [2021-02-04-JavaScript-ES12新特性抢先体验](https://www.ershicimi.com/p/ca3173fb7b253fb61b99b4657b4fc1bf) 
-- [2021-02-28-中高级前端须注意的40条移动端H5坑位指南-|-网易三年实践](https://www.ershicimi.com/p/dd62feb194190a46e689795f3512d55f) 
-- [2021-02-25-字节跳动最爱考的前端面试题：JavaScript-基础](https://www.ershicimi.com/p/571d3092db5e48339cfd8fc02939746c) 
-- [2021-02-18-用英雄联盟的方式讲解JavaScript设计模式](https://www.ershicimi.com/p/b7451dd0005ceccc1486494a3398c1a6) 
+- [2021-02-26-理解JavaScript闭包9大使用场景](https://www.ershicimi.com/p/0e8e54a5ff5d08ed7522f4d57a51dd50) 
+- [2021-02-25-Virtual-DOM-认知误区](https://www.ershicimi.com/p/974cf454d6e7ac27f8c9f9217a2ce567) 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 
 - [2021-02-13-Web-Components中引入外部CSS的3种方法](https://www.zhangxinxu.com/wordpress/2021/02/web-components-import-css/) 

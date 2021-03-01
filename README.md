@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-01 23:08:22，:rocket: 更新条数: +4353， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-01 23:31:16，:rocket: 更新条数: +4353， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1099,8 +1099,8 @@
 - [2021-03-01-关于构建数据仓库的几个问题](https://toutiao.io/k/8894fk1) ![](assets/new.png)  
 - [2021-03-01-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) ![](assets/new.png)  
 - [2021-03-01-Arthas-定位-CPU-跑满问题，源头竟是-Apache-Beanutils](https://toutiao.io/k/npjfyml) ![](assets/new.png)  
-- [2021-03-01-不会使用虚拟机的程序员不是好程序员](https://toutiao.io/k/h4ekz51) ![](assets/new.png)  
 - [2021-03-01-构建通用-WebSocket-推送网关的设计与实践](https://toutiao.io/k/byy0nha) ![](assets/new.png)  
+- [2021-03-01-不会使用虚拟机的程序员不是好程序员](https://toutiao.io/k/h4ekz51) ![](assets/new.png)  
 - [2021-03-01-从预编译的角度理解-Swift-与-Objective-C-及混编机制](https://toutiao.io/k/frl1lkh) ![](assets/new.png)  
 - [2021-03-01-AI-入行那些事儿（三）：机器是如何学习的？](https://toutiao.io/k/txceqvf) ![](assets/new.png)  
 - [2021-03-01-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) ![](assets/new.png)  

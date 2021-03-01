@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-01 05:09:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-01 05:31:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,3 +27,4 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2021-03-01-敏捷业务实践之计划游戏-teobler.com](https://blogread.cn/news/go.php?idItem=14175&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210201-agile-business-practice-planning-games%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

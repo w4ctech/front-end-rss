@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-01 05:09:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-01 05:31:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -25,6 +25,7 @@
 - [2021-02-28-今日直播-|-数字化变革阶段，如何打造10倍速IT团队？](https://www.ershicimi.com/p/5b26216802d8504322be2fed7fa8ae3f) 
 - [2021-02-24-83-位嘉宾，71场录制｜-InfoQ-最具收获感的视频栏目盘点](https://www.ershicimi.com/p/9849c22f529df8c2ed4415efd05c0640) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2021-03-01-【视频】|-网络安全:审计系统的基本知识](https://sec.thief.one/article_content?a_id=d9ee8a1b6ce0a6a70bd32a3cc41fbe7c) 
 - [2021-02-28-【视频】|-Python:内置函数+匿名函数](https://sec.thief.one/article_content?a_id=7b2ddc58ac8807bce2ce88435fea053b) 
 - [2021-02-27-【视频】|-网络安全:安全审计的基础知识](https://sec.thief.one/article_content?a_id=5f2c19a4696f6ff4f4c288fc9263b966) 
 - [2021-02-26-网安新焦点,安在讲堂公益直播新春预热](https://sec.thief.one/article_content?a_id=1d2a1a125592c884420915222a6a82ed) 

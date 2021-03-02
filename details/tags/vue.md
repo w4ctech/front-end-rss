@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-02 07:10:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 07:30:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -52,4 +52,3 @@
 - [2021-03-01-Vue基础入门二）](https://juejin.im/post/6934897578668458015) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
-- [2021-03-02-求-vue-前端兼职，最好能固定的，按月或者按项目支付薪酬可谈，需要效率高的](https://www.v2ex.com/t/757604) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-02 22:55:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 23:04:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -456,7 +456,6 @@
 - [【开发者头条】译-Uber-的-zap-库是如何做到高性能的？](https://toutiao.io/k/hjwyg9f)
 - [【开发者头条】推荐-面试官问：在读多写少的情况下，如果优化-MySQL-的数据查询方案](https://toutiao.io/k/kvgofut)
 - [【开发者头条】推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8)
-- [【开发者头条】推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

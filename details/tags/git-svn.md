@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-02 12:55:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 13:04:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -13,8 +13,6 @@
 - [2021-02-19-Github域名加上1s，在线VS-Code阅读源码神器诞生](https://www.ershicimi.com/p/a30bec06e3d4831fd8b2830b555c1eb7) 
 - [2020-02-26-第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e) 
 - [2021-02-25-牛逼了！第一份程序员考公指南居然在Github上被我扒出来](https://www.ershicimi.com/p/edf9566f7fb4afc5e3ba05d4006e10d2) 
-- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
-- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
 - [2021-03-02-github-炸了吗](https://www.v2ex.com/t/757787) 
 - [2021-03-02-Git-代码回滚与找回的艺术](https://www.v2ex.com/t/757773) 
 - [2021-03-02-大章鱼（GitKraken）头像不显示了](https://www.v2ex.com/t/757769) 

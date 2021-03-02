@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-02 12:55:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 13:04:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,7 +37,6 @@
 - [2021-02-19-一文带你全面解析postman工具的使用](https://www.ershicimi.com/p/ed6a087da4f62d7fcf33499e3e8b771c) 
 - [2021-02-21-前端-Code-Review-的最佳实践方案](https://www.ershicimi.com/p/8f4c1fb010cc20a0ff64f60686f02d5b) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2021-02-05-奇舞周刊第-384-期：-Chrome-88-重要更新解读](https://www.ershicimi.com/p/18cb7e1d895b1c911f22c3d4ce19d70e) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
@@ -46,7 +45,6 @@
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-02-22-应届硕士想做安全，有什么建议吗](https://www.v2ex.com/t/757768) 
-- [2021-03-02-推荐-堪称神器的命令行工具系列之-curl](https://toutiao.io/k/paa1opr) 
 - [2021-03-02-2021春招-安识科技诚聘安全人才](https://sec.thief.one/article_content?a_id=077c4c88ac3d67b4a0e8994bee689b4a) 
 - [2021-03-02-信息安全漏洞周报2021年第9期](https://sec.thief.one/article_content?a_id=97070ed4989c288fdca9bf564a60c98a) 
 - [2021-03-02-【通告更新】SaltStack多个高危安全风险第二次更新](https://sec.thief.one/article_content?a_id=ef0a187e9f905eb5a511badab59bcc94) 

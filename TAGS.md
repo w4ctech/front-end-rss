@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-02 19:36:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 19:48:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -454,8 +454,7 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】使用-fiddler-抓包,app-直接无法加载数据,显示-tunnelto](https://www.v2ex.com/t/757819)
 - [【开发者头条】译-Uber-的-zap-库是如何做到高性能的？](https://toutiao.io/k/hjwyg9f)
-- [【开发者头条】推荐-面试官问：在读多写少的情况下，如果优化-MySQL-的数据查询方案](https://toutiao.io/k/kvgofut)
-- [【开发者头条】推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8)
+- [【开发者头条】推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -491,7 +490,7 @@
 - [【Vue中文社区】cURL-原作者收到死亡恐吓邮件！](https://www.ershicimi.com/p/df2c1198b383754cd74c534fe49b8e68)
 - [【Vue中文社区】阿里面试官的“说一下从url输入到返回请求的过程”问的难度就是不一样！](https://www.ershicimi.com/p/b0631b90cbef403f78005513629a0907)
 - [【Vue中文社区】为什么cookie会有httponly属性?真实案例解释XSS的三种攻击](https://www.ershicimi.com/p/1a51ac896c2a2cbc1acf6c9fc0456957)
-- [【前端早读课】【第2201期】在Chromium、Safari预览版和Firefox-Nightly中支持新的宽高](https://www.ershicimi.com/p/47c8320572a6ae8faa26ca1501f22367)
+- [【前端开发】封装-axios-取消重复请求](https://www.ershicimi.com/p/4be69911a4eaa52b2a115eec083a9545)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -509,6 +508,7 @@
 
 
 - [【React中文社区】实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1)
+- [【前端早读课】每天都在使用的-HTTP-协议，到底是什么](https://www.ershicimi.com/p/d0a5387da49b930125a64dca71462a92)
 - [【前端大学】一个-HTTP-打趴-80%-前端面试者](https://www.ershicimi.com/p/22a60d006552de8528c8d605c238757c)
 - [【前端之巅】面试官考察HTTP，把我的智商按在地上摩擦？-|-活动推荐](https://www.ershicimi.com/p/ece645da1420611eb55a9620e02522fd)
 - [【全栈前端精选】一个-HTTP-打趴-80%-面试者](https://www.ershicimi.com/p/58b0559d296594c1172a1e9e108c2002)

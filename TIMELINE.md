@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-02 22:05:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-02 22:08:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -150,6 +150,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-03-01-【境内疫情观察】黑龙江现有本土病例及无症状感染者清零（2月28日）](http://m.database.caixin.com/m/2021-03-01/101668626.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-03-01-泰国政要接种中国新冠疫苗-美国批准强生疫苗紧急使用|大流行手记（2月28日）](https://m.caixin.com/m/2021-03-01/101668395.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-03-01-康希诺称新冠疫苗产能年内有望增至5亿剂-18岁以上均可接种](https://m.caixin.com/m/2021-03-01/101668401.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2021-03-02-广东｜新增-3-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ0RlteHDLKxGjVy1k6kF210302&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2021-03-02-四川｜新增-4-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti97KikSb6RguhyAQHH41n210302&isfromapp=1) 
 - [【Vue中文社区】2021-03-02-JS语法-ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/9f56beff3d1a8552972c43cf7db2773f) 
 - [【Vue中文社区】2021-03-02-5个不常提及的HTML技巧](https://www.ershicimi.com/p/c45c757687b2e562d337c4a782f48942) 
 - [【Vue中文社区】2021-03-01-《前端中文入门手册》.pdf](https://www.ershicimi.com/p/8f58d2ece189a8706221588859834a4c) 

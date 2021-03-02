@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-02 22:05:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 22:08:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2993,6 +2993,8 @@
 - [2020-01-20-【图集】武汉每天76趟列车抵广州南-旅客少有戴口罩未见体温检测](http://m.photos.caixin.com/m/2020-01-20/101506484.html) 
 - [2020-01-16-日本公布一新型冠状病毒感染病例-患者去过武汉](http://m.china.caixin.com/m/2020-01-16/101506054.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://m.china.caixin.com/m/2020-01-11/101506220.html) 
+- [2021-03-02-广东｜新增-3-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ0RlteHDLKxGjVy1k6kF210302&isfromapp=1) 
+- [2021-03-02-四川｜新增-4-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti97KikSb6RguhyAQHH41n210302&isfromapp=1) 
 - [2021-03-02-5个不常提及的HTML技巧](https://www.ershicimi.com/p/c45c757687b2e562d337c4a782f48942) 
 - [2021-03-01-《前端中文入门手册》.pdf](https://www.ershicimi.com/p/8f58d2ece189a8706221588859834a4c) 
 - [2021-02-27-新书速递，股市无情人有情​，任你挑！](https://www.ershicimi.com/p/0ec02063144722e2ddab92faba6d1d23) 

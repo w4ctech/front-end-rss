@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-02 02:52:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 03:05:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -83,6 +83,7 @@
 - [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
+- [2021-02-28-今日直播-|-数字化变革阶段，如何打造10倍速IT团队？](https://www.ershicimi.com/p/5b26216802d8504322be2fed7fa8ae3f) 
 - [2021-03-02-webrtc-的-demo](https://www.v2ex.com/t/757530) 
 - [2021-03-01-【视频】|-网络安全:审计系统的基本知识](https://sec.thief.one/article_content?a_id=d9ee8a1b6ce0a6a70bd32a3cc41fbe7c) 
 - [2021-02-28-【视频】|-Python:内置函数+匿名函数](https://sec.thief.one/article_content?a_id=7b2ddc58ac8807bce2ce88435fea053b) 

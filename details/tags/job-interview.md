@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-02 03:33:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 03:42:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-02-23-这是我面试-42-场拿下字节、微软-offer-的方法论！](https://www.ershicimi.com/p/6585403556df762fbe6b4ed90dd02607) 
 - [2021-03-01-【招聘】阿里本地生活外卖商家团队招P6、P7前端工程师](https://www.ershicimi.com/p/157d9438717775728f8dc4c1bd2b69dc) 
 - [2021-02-26-【招聘】长沙芒果TV招聘产品、前端、IOS和安卓开发](https://www.ershicimi.com/p/4ddd26b2e8d47039e69ec1b0ed8fe554) 
@@ -25,4 +26,3 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
 - [2021-03-02-蚂蚁-大数据部-22-届-Java-研发实习生招聘可转正](https://www.v2ex.com/t/757550) 
-- [2021-03-02-FB-开始招聘-E3、E4-岗位-！已拿-offer-上岸）](https://www.v2ex.com/t/757510) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-02 20:08:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 20:32:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -454,7 +454,6 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】使用-fiddler-抓包,app-直接无法加载数据,显示-tunnelto](https://www.v2ex.com/t/757819)
 - [【开发者头条】译-Uber-的-zap-库是如何做到高性能的？](https://toutiao.io/k/hjwyg9f)
-- [【开发者头条】推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1)
 - [【开发者头条】推荐-面试官问：在读多写少的情况下，如果优化-MySQL-的数据查询方案](https://toutiao.io/k/kvgofut)
 - [【开发者头条】推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -527,6 +526,7 @@
 - [【开发者头条】硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1)
 - [【开发者头条】字符串匹配：Boyer–Moore-算法-（详细图文）](https://toutiao.io/k/vc2yvr7)
 - [【开发者头条】雪花算法、原理及-Java-版实现](https://toutiao.io/k/ozeh0rs)
+- [【开发者头条】推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

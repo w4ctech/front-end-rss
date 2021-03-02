@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-02 10:04:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 10:08:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -32,8 +32,14 @@
 - [2021-03-01-收藏-|-移动端H5开发常用技巧总结](https://www.ershicimi.com/p/9bf4d554bfe246a70b7a6bcba22ee99f) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
+- [2021-02-25-【第2208期】SPA-路由三部曲之实战演练](https://www.ershicimi.com/p/668af225837fa310f075396798eb2043) 
 - [2021-02-26-JS算法：图文并茂讲解堆排序](https://www.ershicimi.com/p/88634cd6a4cd26a15f2a980a7a110d87) 
 - [2021-02-25-Javascript-中数据类型那些可能会中招的细节](https://www.ershicimi.com/p/3bf41b2b3b1ade5d39e121ba1631d275) 
+- [2021-02-23-蚂蚁金服网红技术团队分享，用-JavaScript-全栈打造商业级应用](https://www.ershicimi.com/p/f8e8f7a9da39eb553e140d8fb14e018b) 
+- [2021-02-19-别只用-console.log-调试-js-代码了](https://www.ershicimi.com/p/06071cbde8874bb5b680a643bdf06b0a) 
+- [2021-02-17-【2.16】巨大提升！更快的-async-函数和-promises](https://www.ershicimi.com/p/47cab255452d0593c38c1c4c1ec88ed0) 
+- [2021-02-09-15道ES6-Promise实战练习题，助你快速理解Promise](https://www.ershicimi.com/p/0cc58cc98e2cc8111f5be0caddc91fb2) 
+- [2021-02-08-15条你可能不知道的JS高效技巧](https://www.ershicimi.com/p/2c691130190b4e42258f8f1dd54fadf1) 
 - [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
 - [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
 - [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 
@@ -90,10 +96,12 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2021-01-11-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/fa27bfb41b2cd95468c33a411b83ba33) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2021-02-25-低代码开发平台缺失的5个关键组件](https://www.ershicimi.com/p/0c2ea2e55c6075fa423c6e21ea8cffce) 
 - [2021-02-04-2021-年你需要了解的-13-种-JavaScript-代码技巧](https://www.ershicimi.com/p/2e5501ec8920ba7e18c2ea453ff4fc1d) 
 - [2021-02-03-3-个被低估的-JavaScript-框架](https://www.ershicimi.com/p/7987b1eb71f59d2bfe8fc473931688d5) 
+- [2021-03-02-前端面试之JavaScript基础（五）——-闭包](https://juejin.im/post/6934981934887993351) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

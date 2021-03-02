@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-02 10:37:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 10:48:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -30,7 +30,8 @@
 - [2020-01-22-如何解读WHO“国际公共卫生紧急事件”](http://m.china.caixin.com/m/2020-01-22/101507340.html) 
 - [2020-01-22-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
 - [2021-03-01-收藏-|-移动端H5开发常用技巧总结](https://www.ershicimi.com/p/9bf4d554bfe246a70b7a6bcba22ee99f) 
-- [2021-02-25-【第2208期】SPA-路由三部曲之实战演练](https://www.ershicimi.com/p/668af225837fa310f075396798eb2043) 
+- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
+- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2021-02-26-JS算法：图文并茂讲解堆排序](https://www.ershicimi.com/p/88634cd6a4cd26a15f2a980a7a110d87) 
 - [2021-02-25-Javascript-中数据类型那些可能会中招的细节](https://www.ershicimi.com/p/3bf41b2b3b1ade5d39e121ba1631d275) 
 - [2021-02-23-蚂蚁金服网红技术团队分享，用-JavaScript-全栈打造商业级应用](https://www.ershicimi.com/p/f8e8f7a9da39eb553e140d8fb14e018b) 
@@ -61,8 +62,6 @@
 - [2021-02-28-中高级前端须注意的40条移动端H5坑位指南-|-网易三年实践](https://www.ershicimi.com/p/dd62feb194190a46e689795f3512d55f) 
 - [2021-02-25-字节跳动最爱考的前端面试题：JavaScript-基础](https://www.ershicimi.com/p/571d3092db5e48339cfd8fc02939746c) 
 - [2021-02-18-用英雄联盟的方式讲解JavaScript设计模式](https://www.ershicimi.com/p/b7451dd0005ceccc1486494a3398c1a6) 
-- [2021-02-19-一份开源的编码规范：代码整洁的-JavaScript](https://www.ershicimi.com/p/4198fe8690fe8224e288d038bc1ee2fd) 
-- [2021-02-06-字节跳动最爱考的前端面试题：JavaScript-基础](https://www.ershicimi.com/p/2d9bc14be14f64c9bb0909060e86cc3a) 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 
 - [2021-02-13-Web-Components中引入外部CSS的3种方法](https://www.zhangxinxu.com/wordpress/2021/02/web-components-import-css/) 
@@ -96,7 +95,6 @@
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
 - [2021-01-11-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/fa27bfb41b2cd95468c33a411b83ba33) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
-- [2021-02-25-低代码开发平台缺失的5个关键组件](https://www.ershicimi.com/p/0c2ea2e55c6075fa423c6e21ea8cffce) 
 - [2021-02-04-2021-年你需要了解的-13-种-JavaScript-代码技巧](https://www.ershicimi.com/p/2e5501ec8920ba7e18c2ea453ff4fc1d) 
 - [2021-02-03-3-个被低估的-JavaScript-框架](https://www.ershicimi.com/p/7987b1eb71f59d2bfe8fc473931688d5) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 

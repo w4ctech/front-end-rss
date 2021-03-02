@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-02 10:37:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 10:48:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -29,6 +29,7 @@
 - [2020-07-07-1元福利-|-深度剖析Vue-.js-3.0底层逻辑，带你向高级前端进阶！](https://www.ershicimi.com/p/b7eeaaa6276d65ebe0a5252368725728) 
 - [2020-04-19-2020年-4-月-21日-星期二-晚上-9:30-Vue.js-作者尤雨溪与你相约前端圈的-B-站](https://www.ershicimi.com/p/69d20f9c5bb2de3da1dad85699594815) 
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
+- [2021-02-20-Vite-2.0-正式发布，开发者：终于可以不用-Webpack-写-Vue-了](https://www.ershicimi.com/p/9c32c78a74e8d8e22a9085a0253ea33c) 
 - [2021-02-24-前端面试亮点杀器:来一起用Vue3做个飞机大战游戏](https://www.ershicimi.com/p/b12353179400340f97d24ecbf73c818d) 
 - [2020-10-11-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/0590b6964c9fcfc3e48286bd7d353627) 
 - [2021-02-26-前端面试亮点杀器:来一起用Vue3做个飞机大战游戏](https://www.ershicimi.com/p/e096f08d49210dca4dbc942edb17546c) 

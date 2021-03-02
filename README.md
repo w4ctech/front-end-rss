@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-02 18:38:20，:rocket: 更新条数: +4337， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-02 18:47:02，:rocket: 更新条数: +4339， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,8 @@
 </summary>
 
 
+- [2021-03-02-广东｜新增-3-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ0RlteHDLKxGjVy1k6kF210302&isfromapp=1) ![](assets/new.png)  
+- [2021-03-02-四川｜新增-4-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti97KikSb6RguhyAQHH41n210302&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

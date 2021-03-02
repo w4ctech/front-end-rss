@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-02 03:09:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 03:33:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -37,5 +37,4 @@
 - [2021-02-03-Node-如何开发一个命令行工具](https://www.ershicimi.com/p/722fd10dbd2adcf728f10b3cf9b16b3b) 
 - [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) 
 - [2021-02-24-【纯文字】2021-的-Node.js-开发人员路线图](https://www.ershicimi.com/p/5bca80dd99c61fad9cae2c3f288d40c1) 
-- [2021-03-01-阿里-AliExpress-前端团队-2022-春招开始了！](https://juejin.im/post/6934653940470546439) 
 - [2021-03-02-学习-node-gyp-有什么资料？](https://www.v2ex.com/t/757542) 

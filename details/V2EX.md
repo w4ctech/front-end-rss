@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-03-02 14:30:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 14:38:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-02-AA-小经费](https://www.v2ex.com/t/757801) 
+- [2021-03-02-翻译：《实用的-Python-编程》03_03_Error_checking](https://www.v2ex.com/t/757800) 
 - [2021-03-02-阿里轻量服务器，-centos7-系统使用-reboot，出现长期无法远程登录问题，-CPU-使用率从-9%冲到-40%，这是什么原因？](https://www.v2ex.com/t/757799) 
 - [2021-03-02-关于-ImageIO.write的奇怪-exception](https://www.v2ex.com/t/757798) 
 - [2021-03-02-上海外企福利多内推，招移动端-iOS、-安卓、前端、测试、UI-等岗位](https://www.v2ex.com/t/757797) 
@@ -49,5 +51,3 @@
 - [2021-03-02-出新作了](https://www.v2ex.com/t/757755) 
 - [2021-03-02-有点期待苹果-2021-发布会的-iPad-mini](https://www.v2ex.com/t/757754) 
 - [2021-03-02-Rust-泛型求助](https://www.v2ex.com/t/757752) 
-- [2021-03-02-上海-米哈游内推---Java](https://www.v2ex.com/t/757751) 
-- [2021-03-02-请教个-mysql-单表查询走索引但是很慢的问题。](https://www.v2ex.com/t/757750) 

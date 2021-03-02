@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-02 23:08:26，:rocket: 更新条数: +4338， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-02 23:32:49，:rocket: 更新条数: +4338， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,8 +1074,8 @@
 - [2021-03-02-译-用-@WebMvcTest-测试-MVC-Web-Contorller（一）](https://toutiao.io/k/m9gsidx) ![](assets/new.png)  
 - [2021-03-02-数据治理：90%-的人搞不清的事情](https://toutiao.io/k/mvyb9c2) ![](assets/new.png)  
 - [2021-03-02-Go：代码生成工具](https://toutiao.io/k/sc7tqnb) ![](assets/new.png)  
-- [2021-03-02-极限编程下的红绿重构和简单设计](https://toutiao.io/k/ws9ho1w) ![](assets/new.png)  
 - [2021-03-02-收藏！这些-IDE-使用技巧，你都知道吗](https://toutiao.io/k/641dz59) ![](assets/new.png)  
+- [2021-03-02-极限编程下的红绿重构和简单设计](https://toutiao.io/k/ws9ho1w) ![](assets/new.png)  
 - [2021-03-02-读-Kafka-源码写优雅业务代码：配置类](https://toutiao.io/k/occ0rgm) ![](assets/new.png)  
 - [2021-03-02-分享硬核的前端编程知识](https://toutiao.io/k/n6mhf5v) ![](assets/new.png)  
 - [2021-03-02-Webfunny-前端监控如何搭建高并发使用场景](https://toutiao.io/k/isgjgkk) ![](assets/new.png)  

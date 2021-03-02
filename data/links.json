@@ -20109,7 +20109,108 @@
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/6304",
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
-    "items": []
+    "items": [
+      {
+        "title": "自从上了 Prometheus 监控，睡觉真香！",
+        "link": "https://www.ershicimi.com/p/cc439ced9c59d04bd006228fc3727f50",
+        "date": "2021-03-02"
+      },
+      {
+        "title": "再见！公司的烂系统……",
+        "link": "https://www.ershicimi.com/p/aeb1eb325ab07c7dc881111fb7e85207",
+        "date": "2021-03-02"
+      },
+      {
+        "title": "今天来了一位妹纸面试，我问她：线程池中多余的线程是如何回收的？她有点懵~",
+        "link": "https://www.ershicimi.com/p/57d8180acc6ee344fa23f6bb2c7236d0",
+        "date": "2021-03-02"
+      },
+      {
+        "title": "“力挺Java！拒绝Python”9万程序员刷爆朋友圈……",
+        "link": "https://www.ershicimi.com/p/89ddd06cec07d13a1b1e9db6d0560c70",
+        "date": "2021-03-01"
+      },
+      {
+        "title": "校招毁约污点公司名录.pdf",
+        "link": "https://www.ershicimi.com/p/f147b4f439b9a316bd2eb75c45d4bea4",
+        "date": "2021-03-01"
+      },
+      {
+        "title": "27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构，彭博：Superstar",
+        "link": "https://www.ershicimi.com/p/cda63e7bf8030fe04e75ee73b5fbf338",
+        "date": "2021-03-01"
+      },
+      {
+        "title": "程序员失业一月转行去送外卖，晒出当天收入，还以为看错了",
+        "link": "https://www.ershicimi.com/p/b9ee86dd9ebe3fb6231dc69ff523b7ab",
+        "date": "2021-02-28"
+      },
+      {
+        "title": "新特效火爆抖音！各路神仙齐唱《蚂蚁呀嘿》，网友：短短几秒需一生来治愈",
+        "link": "https://www.ershicimi.com/p/8492c3cd272b3ebea7f90dec453808bd",
+        "date": "2021-02-28"
+      },
+      {
+        "title": "Spring 中的重试机制，简单、实用！",
+        "link": "https://www.ershicimi.com/p/ee66497397ac25dec5657a7aeb92baf2",
+        "date": "2021-02-28"
+      },
+      {
+        "title": "20亿条记录的MySQL大表，我们这样迁移的",
+        "link": "https://www.ershicimi.com/p/07af9fb6d260cddf3add4441a5997d23",
+        "date": "2021-02-27"
+      },
+      {
+        "title": "程序员过年大数据：最怕问工资、谈对象，要见的姑娘比亲戚还多。。",
+        "link": "https://www.ershicimi.com/p/8e622431869950814fc6b23be24645e4",
+        "date": "2021-02-27"
+      },
+      {
+        "title": "再见！RESTful...",
+        "link": "https://www.ershicimi.com/p/59ce98553014309c5f1b3153d911fc6a",
+        "date": "2021-02-27"
+      },
+      {
+        "title": "再见了，收费的Navicat",
+        "link": "https://www.ershicimi.com/p/b2759e4ed4c5fee5936a790f4becf11f",
+        "date": "2021-02-26"
+      },
+      {
+        "title": "清华大学：人脸识别技术爆出巨大丑闻！",
+        "link": "https://www.ershicimi.com/p/cfa4c2a4f55d5e7739d87d0eb4f5696c",
+        "date": "2021-02-26"
+      },
+      {
+        "title": "各位，请慎用 subList！原来这么多坑！！",
+        "link": "https://www.ershicimi.com/p/72eb9abdda09a9d6966c49ebb15a1b33",
+        "date": "2021-02-26"
+      },
+      {
+        "title": "Idea公司真牛逼，发行最适合程序员编程字体~",
+        "link": "https://www.ershicimi.com/p/920ded666a89e19d1060a7c2170bf848",
+        "date": "2021-02-25"
+      },
+      {
+        "title": "牛逼了！第一份程序员考公指南居然在Github上被我扒出来",
+        "link": "https://www.ershicimi.com/p/edf9566f7fb4afc5e3ba05d4006e10d2",
+        "date": "2021-02-25"
+      },
+      {
+        "title": "来自Airbnb、Netflix等公司的代码评审最佳实践",
+        "link": "https://www.ershicimi.com/p/cbf5cbaa29e79c7f335dc73aff03cb04",
+        "date": "2021-02-25"
+      },
+      {
+        "title": "华为正式宣布养猪，网友沸腾：支持华为自救！",
+        "link": "https://www.ershicimi.com/p/5e2fd4e0a7210b5ad784145f8602c3fd",
+        "date": "2021-02-24"
+      },
+      {
+        "title": "你还在手写 CRUD？试试 MybatisGenerator，再也不用加班了！",
+        "link": "https://www.ershicimi.com/p/354859696bfd1f05ca3bd04fe89bbaf2",
+        "date": "2021-02-24"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/89",
@@ -21184,13 +21285,13 @@
         "date": "2021-03-02"
       },
       {
-        "title": "[推荐] Redis 为什么变慢了？一文讲透如何排查 Redis 性能问题",
-        "link": "https://toutiao.io/k/90116j8",
+        "title": "[推荐] 这些不可不知的 JVM 知识，我都用思维导图整理好了",
+        "link": "https://toutiao.io/k/vxuckw2",
         "date": "2021-03-02"
       },
       {
-        "title": "[推荐] HTTP header 中的黑科技",
-        "link": "https://toutiao.io/k/ep472ts",
+        "title": "[推荐] 互联网架构演进之路",
+        "link": "https://toutiao.io/k/6w82jhc",
         "date": "2021-03-02"
       },
       {
@@ -21199,8 +21300,18 @@
         "date": "2021-03-02"
       },
       {
-        "title": "[推荐] 这些不可不知的 JVM 知识，我都用思维导图整理好了",
-        "link": "https://toutiao.io/k/vxuckw2",
+        "title": "[推荐] Redis 专题：万字长文详解持久化原理",
+        "link": "https://toutiao.io/k/9d3bawg",
+        "date": "2021-03-02"
+      },
+      {
+        "title": "[推荐] Java 中那些让你傻傻分不清楚的小细节",
+        "link": "https://toutiao.io/k/mj4pi93",
+        "date": "2021-03-02"
+      },
+      {
+        "title": "[推荐] 一周上线百万级高并发系统！鹅厂真实爆肝经验分享",
+        "link": "https://toutiao.io/k/ojer153",
         "date": "2021-03-02"
       },
       {
@@ -21209,8 +21320,8 @@
         "date": "2021-03-02"
       },
       {
-        "title": "[推荐] ​程序员划水指南",
-        "link": "https://toutiao.io/k/gheevc3",
+        "title": "[推荐] Web 安全头号大敌 XSS 漏洞解决最佳实践",
+        "link": "https://toutiao.io/k/jfopywh",
         "date": "2021-03-02"
       },
       {
@@ -21224,38 +21335,28 @@
         "date": "2021-03-02"
       },
       {
+        "title": "[推荐] Redis 为什么变慢了？一文讲透如何排查 Redis 性能问题",
+        "link": "https://toutiao.io/k/90116j8",
+        "date": "2021-03-02"
+      },
+      {
+        "title": "[推荐] ​程序员划水指南",
+        "link": "https://toutiao.io/k/gheevc3",
+        "date": "2021-03-02"
+      },
+      {
+        "title": "[推荐] HTTP header 中的黑科技",
+        "link": "https://toutiao.io/k/ep472ts",
+        "date": "2021-03-02"
+      },
+      {
         "title": "[推荐] 看完这篇你一定能掌握 Linux",
         "link": "https://toutiao.io/k/ycdmy3y",
         "date": "2021-03-02"
       },
       {
-        "title": "[推荐] Web 安全头号大敌 XSS 漏洞解决最佳实践",
-        "link": "https://toutiao.io/k/jfopywh",
-        "date": "2021-03-02"
-      },
-      {
-        "title": "[推荐] 著名的 Java 并发编程大师都这么说了，你还不知道伪共享么",
-        "link": "https://toutiao.io/k/3q7ujrr",
-        "date": "2021-03-02"
-      },
-      {
-        "title": "[推荐] 一周上线百万级高并发系统！鹅厂真实爆肝经验分享",
-        "link": "https://toutiao.io/k/ojer153",
-        "date": "2021-03-02"
-      },
-      {
-        "title": "[推荐] 我用 Kafka 两年踩过的一些非比寻常的坑",
-        "link": "https://toutiao.io/k/95yxept",
-        "date": "2021-03-02"
-      },
-      {
-        "title": "[推荐] 几年前，我撸了一套 RabbitMQ 的客户端",
-        "link": "https://toutiao.io/k/7sdt779",
-        "date": "2021-03-02"
-      },
-      {
-        "title": "[推荐] 互联网架构演进之路",
-        "link": "https://toutiao.io/k/6w82jhc",
+        "title": "[推荐] 年轻人，看看 Redisson 分布式锁——可重入锁吧！太重要了",
+        "link": "https://toutiao.io/k/5xy8o0x",
         "date": "2021-03-02"
       }
     ]

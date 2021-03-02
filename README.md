@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-02 19:27:33，:rocket: 更新条数: +4319， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-02 19:36:28，:rocket: 更新条数: +4339， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
@@ -788,6 +788,26 @@
 </summary>
 
 
+- [2021-03-02-自从上了-Prometheus-监控，睡觉真香！](https://www.ershicimi.com/p/cc439ced9c59d04bd006228fc3727f50) ![](assets/new.png)  
+- [2021-03-02-再见！公司的烂系统……](https://www.ershicimi.com/p/aeb1eb325ab07c7dc881111fb7e85207) ![](assets/new.png)  
+- [2021-03-02-今天来了一位妹纸面试，我问她：线程池中多余的线程是如何回收的？她有点懵~](https://www.ershicimi.com/p/57d8180acc6ee344fa23f6bb2c7236d0) ![](assets/new.png)  
+- [2021-03-01-“力挺Java！拒绝Python”9万程序员刷爆朋友圈……](https://www.ershicimi.com/p/89ddd06cec07d13a1b1e9db6d0560c70) ![](assets/new.png)  
+- [2021-03-01-校招毁约污点公司名录.pdf](https://www.ershicimi.com/p/f147b4f439b9a316bd2eb75c45d4bea4) ![](assets/new.png)  
+- [2021-03-01-27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构，彭博：Superstar](https://www.ershicimi.com/p/cda63e7bf8030fe04e75ee73b5fbf338) ![](assets/new.png)  
+- [2021-02-28-程序员失业一月转行去送外卖，晒出当天收入，还以为看错了](https://www.ershicimi.com/p/b9ee86dd9ebe3fb6231dc69ff523b7ab) ![](assets/new.png)  
+- [2021-02-28-新特效火爆抖音！各路神仙齐唱《蚂蚁呀嘿》，网友：短短几秒需一生来治愈](https://www.ershicimi.com/p/8492c3cd272b3ebea7f90dec453808bd) ![](assets/new.png)  
+- [2021-02-28-Spring-中的重试机制，简单、实用！](https://www.ershicimi.com/p/ee66497397ac25dec5657a7aeb92baf2) ![](assets/new.png)  
+- [2021-02-27-20亿条记录的MySQL大表，我们这样迁移的](https://www.ershicimi.com/p/07af9fb6d260cddf3add4441a5997d23) ![](assets/new.png)  
+- [2021-02-27-程序员过年大数据：最怕问工资、谈对象，要见的姑娘比亲戚还多。。](https://www.ershicimi.com/p/8e622431869950814fc6b23be24645e4) ![](assets/new.png)  
+- [2021-02-27-再见！RESTful...](https://www.ershicimi.com/p/59ce98553014309c5f1b3153d911fc6a) ![](assets/new.png)  
+- [2021-02-26-再见了，收费的Navicat](https://www.ershicimi.com/p/b2759e4ed4c5fee5936a790f4becf11f) ![](assets/new.png)  
+- [2021-02-26-清华大学：人脸识别技术爆出巨大丑闻！](https://www.ershicimi.com/p/cfa4c2a4f55d5e7739d87d0eb4f5696c) ![](assets/new.png)  
+- [2021-02-26-各位，请慎用-subList！原来这么多坑！！](https://www.ershicimi.com/p/72eb9abdda09a9d6966c49ebb15a1b33) ![](assets/new.png)  
+- [2021-02-25-Idea公司真牛逼，发行最适合程序员编程字体~](https://www.ershicimi.com/p/920ded666a89e19d1060a7c2170bf848) ![](assets/new.png)  
+- [2021-02-25-牛逼了！第一份程序员考公指南居然在Github上被我扒出来](https://www.ershicimi.com/p/edf9566f7fb4afc5e3ba05d4006e10d2) ![](assets/new.png)  
+- [2021-02-25-来自Airbnb、Netflix等公司的代码评审最佳实践](https://www.ershicimi.com/p/cbf5cbaa29e79c7f335dc73aff03cb04) ![](assets/new.png)  
+- [2021-02-24-华为正式宣布养猪，网友沸腾：支持华为自救！](https://www.ershicimi.com/p/5e2fd4e0a7210b5ad784145f8602c3fd) ![](assets/new.png)  
+- [2021-02-24-你还在手写-CRUD？试试-MybatisGenerator，再也不用加班了！](https://www.ershicimi.com/p/354859696bfd1f05ca3bd04fe89bbaf2) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

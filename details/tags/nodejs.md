@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-03 11:08:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-03 11:31:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -39,4 +39,5 @@
 - [2021-02-03-Node-如何开发一个命令行工具](https://www.ershicimi.com/p/722fd10dbd2adcf728f10b3cf9b16b3b) 
 - [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) 
 - [2021-02-24-【纯文字】2021-的-Node.js-开发人员路线图](https://www.ershicimi.com/p/5bca80dd99c61fad9cae2c3f288d40c1) 
+- [2021-03-02-windows下通过nvm安装node内含卸载node](https://juejin.im/post/6935334265760514085) 
 - [2021-03-03-CVE-2021-21315-Node.JS-OS命令执行](https://sec.thief.one/article_content?a_id=f4769f035d3a3e3e23c70b3b3f50ce62) 

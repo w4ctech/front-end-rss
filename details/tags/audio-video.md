@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-03 06:35:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-03 06:44:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -90,6 +90,7 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2021-02-28-今日直播-|-数字化变革阶段，如何打造10倍速IT团队？](https://www.ershicimi.com/p/5b26216802d8504322be2fed7fa8ae3f) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2021-03-03-AirPods-Pro-本地视频稳定触发空间音频效果方法](https://www.v2ex.com/t/758018) 
 - [2021-03-03-40-万奖金邀你来战，阿里云联手-Intel-举办首届视频云挑战赛！](https://www.v2ex.com/t/758008) 
 - [2021-03-03-迫于下载视频，哪里有租百度网盘的网站](https://www.v2ex.com/t/757995) 
 - [2021-03-03-两会微视频:携手](https://sec.thief.one/article_content?a_id=0abb738b1597a5bec869b3fab0db6f6e) 

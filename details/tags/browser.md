@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-03 07:50:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-03 08:05:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,7 +26,6 @@
 - [2021-03-01-cURL-原作者收到死亡恐吓邮件！](https://www.ershicimi.com/p/df2c1198b383754cd74c534fe49b8e68) 
 - [2021-02-25-阿里面试官的“说一下从url输入到返回请求的过程”问的难度就是不一样！](https://www.ershicimi.com/p/b0631b90cbef403f78005513629a0907) 
 - [2021-02-22-为什么cookie会有httponly属性?真实案例解释XSS的三种攻击](https://www.ershicimi.com/p/1a51ac896c2a2cbc1acf6c9fc0456957) 
-- [2021-02-07-封装-axios-取消重复请求](https://www.ershicimi.com/p/4be69911a4eaa52b2a115eec083a9545) 
 - [2021-02-21-Ant-Design源码已恢复，并冲上榜二；开源Web扩展项目推送恶意程序，影响数百万浏览器；小米回](https://www.ershicimi.com/p/3b81bb498051563f5353716a839aec62) 
 - [2021-02-13-《赛博朋克-2077》源码通过地下交易售出；Win10强制性更新将彻底杀死旧Edge；腾讯回应年终奖](https://www.ershicimi.com/p/ccffeeb69f00441da2318e7b741c7155) 
 - [2021-02-19-使用-Performance-看看浏览器在做些什么](https://www.ershicimi.com/p/a03f493702ae7aba197afa9476650048) 

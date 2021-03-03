@@ -20116,6 +20116,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "3600万中国人在抖音“上清华”",
+        "link": "https://www.ershicimi.com/p/21b05ee56b1303d951b71fdead2af04b",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "推荐一款强大的国产开源监控系统！",
+        "link": "https://www.ershicimi.com/p/adf7e6cb0106a805885c91060fd16133",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "如果mysql磁盘满了，会发生什么？还真被我遇到了～",
+        "link": "https://www.ershicimi.com/p/2f50d64c7bb1163bca15222641e7f24d",
+        "date": "2021-03-03"
+      },
+      {
         "title": "自从上了 Prometheus 监控，睡觉真香！",
         "link": "https://www.ershicimi.com/p/cc439ced9c59d04bd006228fc3727f50",
         "date": "2021-03-02"
@@ -20199,21 +20214,6 @@
         "title": "牛逼了！第一份程序员考公指南居然在Github上被我扒出来",
         "link": "https://www.ershicimi.com/p/edf9566f7fb4afc5e3ba05d4006e10d2",
         "date": "2021-02-25"
-      },
-      {
-        "title": "来自Airbnb、Netflix等公司的代码评审最佳实践",
-        "link": "https://www.ershicimi.com/p/cbf5cbaa29e79c7f335dc73aff03cb04",
-        "date": "2021-02-25"
-      },
-      {
-        "title": "华为正式宣布养猪，网友沸腾：支持华为自救！",
-        "link": "https://www.ershicimi.com/p/5e2fd4e0a7210b5ad784145f8602c3fd",
-        "date": "2021-02-24"
-      },
-      {
-        "title": "你还在手写 CRUD？试试 MybatisGenerator，再也不用加班了！",
-        "link": "https://www.ershicimi.com/p/354859696bfd1f05ca3bd04fe89bbaf2",
-        "date": "2021-02-24"
       }
     ]
   },
@@ -20437,6 +20437,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "[译]JavaScript 调优：如何处理  bundle 大小 ｜ 技术点评",
+        "link": "https://juejin.im/post/6935306384724459551",
+        "date": "2021-03-02"
+      },
+      {
         "title": "今天聊：新人如何快速融入技术实力强的前端团队",
         "link": "https://juejin.im/post/6935299031543316494",
         "date": "2021-03-02"
@@ -20449,11 +20454,6 @@
       {
         "title": "CSS学习- 层叠、优先级、继承",
         "link": "https://juejin.im/post/6935269870191771662",
-        "date": "2021-03-02"
-      },
-      {
-        "title": "控制台的一些调试技巧",
-        "link": "https://juejin.im/post/6935269192107048967",
         "date": "2021-03-02"
       },
       {
@@ -20846,6 +20846,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[实习] [微软亚洲研究院] 机器学习系统性能评测及相关研究实习生",
+        "link": "https://www.v2ex.com/t/758012",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "坐标北京，买房相关",
+        "link": "https://www.v2ex.com/t/758010",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "想请问一下北京汉克时代的杭州分公司怎么样",
+        "link": "https://www.v2ex.com/t/758009",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "40 万奖金邀你来战，阿里云联手 Intel 举办首届视频云挑战赛！",
+        "link": "https://www.v2ex.com/t/758008",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "求推荐副业",
+        "link": "https://www.v2ex.com/t/758007",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "mac 上的 usb 设备能转发到局域网里另一台 win10 上么？",
+        "link": "https://www.v2ex.com/t/758005",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "2021 年中， 25W 左右的 SUV 有推荐的么？",
+        "link": "https://www.v2ex.com/t/758004",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "上海掌数科技有限公司 厦门部门招程序猿",
+        "link": "https://www.v2ex.com/t/758003",
+        "date": "2021-03-03"
+      },
+      {
         "title": "美团-北京-内推- Java 资深开发工程师-策略工程方向",
         "link": "https://www.v2ex.com/t/758000",
         "date": "2021-03-03"
@@ -20993,46 +21033,6 @@
       {
         "title": "[上海] [漕河泾] [ Python 后端开发] [965]",
         "link": "https://www.v2ex.com/t/757963",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "税收年度汇算那个，能不能把某单约工资修改为“全年一次性奖金”",
-        "link": "https://www.v2ex.com/t/757962",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "go-carbon 1.3.4 版本发布，新增 Century()方法获取世纪和修复已知 bug",
-        "link": "https://www.v2ex.com/t/757961",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "现在绿茶还没上市，有什么推荐的嘛",
-        "link": "https://www.v2ex.com/t/757960",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "分享收藏的搜狗输入法邪恶皮肤",
-        "link": "https://www.v2ex.com/t/757959",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "请问如何自己做 pcdn 平台？",
-        "link": "https://www.v2ex.com/t/757958",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "TeamCity 能部署镜像到 k8s 上吗？",
-        "link": "https://www.v2ex.com/t/757955",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "有不收费电和网络放置一个什么设备好呢？",
-        "link": "https://www.v2ex.com/t/757954",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "请问，实现一个类似 Mellow 的全局代理应用，需要的基础知识，或者学习路线图",
-        "link": "https://www.v2ex.com/t/757953",
         "date": "2021-03-03"
       }
     ]
@@ -21250,23 +21250,13 @@
         "date": "2021-03-03"
       },
       {
-        "title": "[推荐] 著名的 Java 并发编程大师都这么说了，你还不知道伪共享么",
-        "link": "https://toutiao.io/k/3q7ujrr",
+        "title": "[推荐] Java 中那些让你傻傻分不清楚的小细节",
+        "link": "https://toutiao.io/k/mj4pi93",
         "date": "2021-03-03"
       },
       {
-        "title": "[推荐] Redis 专题：万字长文详解持久化原理",
-        "link": "https://toutiao.io/k/9d3bawg",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "[推荐] 一周上线百万级高并发系统！鹅厂真实爆肝经验分享",
-        "link": "https://toutiao.io/k/ojer153",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "[推荐] Java 高并发编程基础之 AQS",
-        "link": "https://toutiao.io/k/6s1vey3",
+        "title": "[推荐] Redis 为什么变慢了？一文讲透如何排查 Redis 性能问题",
+        "link": "https://toutiao.io/k/90116j8",
         "date": "2021-03-03"
       },
       {
@@ -21275,18 +21265,8 @@
         "date": "2021-03-03"
       },
       {
-        "title": "[推荐] Java 中那些让你傻傻分不清楚的小细节",
-        "link": "https://toutiao.io/k/mj4pi93",
-        "date": "2021-03-03"
-      },
-      {
         "title": "[推荐] Web 安全头号大敌 XSS 漏洞解决最佳实践",
         "link": "https://toutiao.io/k/jfopywh",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "[推荐] 几年前，我撸了一套 RabbitMQ 的客户端",
-        "link": "https://toutiao.io/k/7sdt779",
         "date": "2021-03-03"
       },
       {
@@ -21295,8 +21275,43 @@
         "date": "2021-03-03"
       },
       {
+        "title": "[推荐] 这些不可不知的 JVM 知识，我都用思维导图整理好了",
+        "link": "https://toutiao.io/k/vxuckw2",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "[推荐] 一周上线百万级高并发系统！鹅厂真实爆肝经验分享",
+        "link": "https://toutiao.io/k/ojer153",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "[推荐] 几年前，我撸了一套 RabbitMQ 的客户端",
+        "link": "https://toutiao.io/k/7sdt779",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "[推荐] ​程序员划水指南",
+        "link": "https://toutiao.io/k/gheevc3",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "[推荐] Java 实现大文件多线程下载，提速 30 倍！想学？我教你啊",
+        "link": "https://toutiao.io/k/jvd3wnb",
+        "date": "2021-03-03"
+      },
+      {
         "title": "[推荐] HTTP header 中的黑科技",
         "link": "https://toutiao.io/k/ep472ts",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "[推荐] 著名的 Java 并发编程大师都这么说了，你还不知道伪共享么",
+        "link": "https://toutiao.io/k/3q7ujrr",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "[推荐] Java 高并发编程基础之 AQS",
+        "link": "https://toutiao.io/k/6s1vey3",
         "date": "2021-03-03"
       },
       {
@@ -21305,23 +21320,8 @@
         "date": "2021-03-03"
       },
       {
-        "title": "[推荐] 这些不可不知的 JVM 知识，我都用思维导图整理好了",
-        "link": "https://toutiao.io/k/vxuckw2",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "[推荐] 我用 Kafka 两年踩过的一些非比寻常的坑",
-        "link": "https://toutiao.io/k/95yxept",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "[推荐] 面试官问：在读多写少的情况下，如果优化 MySQL 的数据查询方案",
-        "link": "https://toutiao.io/k/kvgofut",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "[推荐] 条分缕析 Raft 算法（续）：日志压缩和性能优化",
-        "link": "https://toutiao.io/k/sfxw3o1",
+        "title": "[推荐] Redis 专题：万字长文详解持久化原理",
+        "link": "https://toutiao.io/k/9d3bawg",
         "date": "2021-03-03"
       }
     ]

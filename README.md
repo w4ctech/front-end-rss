@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-03 10:39:37，:rocket: 更新条数: +4337， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-03 10:46:38，:rocket: 更新条数: +4336， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1001,6 +1001,7 @@
 </summary>
 
 
+- [2021-03-03-浪费了一次面试机会](https://www.v2ex.com/t/758141) ![](assets/new.png)  
 - [2021-03-03-小弟不才，年后找工作就找到金蝶账无忧-14*13-和深圳市瑞云科技-15*13，不知道去那个比较好](https://www.v2ex.com/t/758139) ![](assets/new.png)  
 - [2021-03-03-上海急招20-30k-前端开发工程师](https://www.v2ex.com/t/758138) ![](assets/new.png)  
 - [2021-03-03-重要-75CDN-静态资源库-CDN-地址更新](https://www.v2ex.com/t/758137) ![](assets/new.png)  
@@ -1020,7 +1021,6 @@
 - [2021-03-03-求推荐可以在电脑看电视节目的软件](https://www.v2ex.com/t/758122) ![](assets/new.png)  
 - [2021-03-03-关于数据管理的一些思考](https://www.v2ex.com/t/758121) ![](assets/new.png)  
 - [2021-03-03-coreos-docker-让你方便快捷的使用-docker](https://www.v2ex.com/t/758120) ![](assets/new.png)  
-- [2021-03-03-大伙都来分享书单](https://www.v2ex.com/t/758119) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

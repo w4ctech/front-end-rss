@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-03 08:46:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-03 08:56:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -457,7 +457,7 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】定制优化-Nextcloud-镜像](https://toutiao.io/k/4sqq7pl)
 - [【开发者头条】性能优化：一个-Flink-参数节省了-50%-的-CPU-消耗](https://toutiao.io/k/8vvjems)
-- [【开发者头条】推荐-面试官问：在读多写少的情况下，如果优化-MySQL-的数据查询方案](https://toutiao.io/k/kvgofut)
+- [【开发者头条】推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1)
 - [【开发者头条】推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -572,7 +572,6 @@
 - [【互联网架构师】牛逼了！第一份程序员考公指南居然在Github上被我扒出来](https://www.ershicimi.com/p/edf9566f7fb4afc5e3ba05d4006e10d2)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【V2EX】如果网页用一些托管服务，比如-github-page，比如-netlify，然后买一个自定义域名，这种情况还需要备案吗](https://www.v2ex.com/t/758033)
 - [【开发者头条】如何自动同步博客到-GitHub-主页？](https://toutiao.io/k/p980gmm)
 - [【开发者头条】副业刚需：在-GitHub-上也能年入百万？](https://toutiao.io/k/r9tqaw3)
 - [......【查看更多】......](./details/tags/git-svn.md)

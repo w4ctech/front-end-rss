@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-03 12:05:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-03 12:10:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,7 +39,6 @@
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-03-译-基于-Favicon-的超级-Cookie](https://toutiao.io/k/akknfnl) 
-- [2021-03-03-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-03-网安新焦点|数篷科技高杨:零信任终端安全工作空间POC测试](https://sec.thief.one/article_content?a_id=92b476e220e2f61e97b54397378ceddd) 
 - [2021-03-03-SecWiki安全招聘第49期](https://sec.thief.one/article_content?a_id=a500105b8ee2252b5037729f933cff45) 
 - [2021-03-03-CNNVD-关于Microsoft-Exchange-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=376be75770c6f1ce1accf187fed396fa) 

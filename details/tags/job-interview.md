@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-03 03:08:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-03 03:28:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -26,4 +26,5 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-03-02-今天来了一位妹纸面试，我问她：线程池中多余的线程是如何回收的？她有点懵~](https://www.ershicimi.com/p/57d8180acc6ee344fa23f6bb2c7236d0) 
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
+- [2021-03-03-招聘-深圳-非-996，来自美国洛杉矶宠物科技创业公司，寻找优秀的研发人员](https://www.v2ex.com/t/757925) 
 - [2021-03-03-上海得物/识货-Golang/-Java-/客户端招聘-长期有效](https://www.v2ex.com/t/757902) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-03 15:38:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-03 15:49:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -16,3 +16,4 @@
 - [2021-02-23-使用-Typescript-的一些注意事项回顾总结](https://www.ershicimi.com/p/5e9753f89592e20a3b4fa2f7b8e6626f) 
 - [2020-05-14-TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f) 
 - [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 
+- [2021-03-03-请教一道-TypeScript-的面试题](https://www.v2ex.com/t/758216) 

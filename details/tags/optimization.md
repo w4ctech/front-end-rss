@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-03 03:38:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-03 03:49:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -20,8 +20,8 @@
 - [2020-12-28-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8) 
 - [2021-02-22-熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2021-03-03-请教一下-diango-项目用-nameko-实现微服务性能怎么样？请大佬多多指教](https://www.v2ex.com/t/757945) 
 - [2021-03-03-定制优化-Nextcloud-镜像](https://toutiao.io/k/4sqq7pl) 
 - [2021-03-03-性能优化：一个-Flink-参数节省了-50%-的-CPU-消耗](https://toutiao.io/k/8vvjems) 
 - [2021-03-03-推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8) 
 - [2021-03-03-推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1) 
-- [2021-03-03-推荐-面试官问：在读多写少的情况下，如果优化-MySQL-的数据查询方案](https://toutiao.io/k/kvgofut) 

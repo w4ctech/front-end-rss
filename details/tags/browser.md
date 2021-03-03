@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-03 03:38:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-03 03:49:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -50,7 +50,6 @@
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-03-公司只允许开放-80，-443-两个端口，-websocket-的端口不知道怎么处理好！](https://www.v2ex.com/t/757907) 
-- [2021-03-03-mac-打开-Secoclient-报错"系统文件写入失败"](https://www.v2ex.com/t/757894) 
 - [2021-03-03-译-基于-Favicon-的超级-Cookie](https://toutiao.io/k/akknfnl) 
 - [2021-03-03-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-02-【安全圈】西山居旗下逍遥网遭攻击致数据泄露](https://sec.thief.one/article_content?a_id=cfd97e0aecf4e61fd3e0f4c2658b1242) 

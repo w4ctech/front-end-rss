@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-03 02:51:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-03 03:04:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -119,6 +119,7 @@
 - [【程序员成长指北】Node.js-+-typescript-写一个命令批处理辅助工具](https://www.ershicimi.com/p/d49774346cebe9b7770e5ce88c3e8e6e)
 - [【程序员成长指北】使用-Typescript-的一些注意事项回顾总结](https://www.ershicimi.com/p/5e9753f89592e20a3b4fa2f7b8e6626f)
 - [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
+- [【掘金前端】TypeScript-4.2-正式发布：优化了类型和开发者体验](https://juejin.im/post/6935255387893399560)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -454,6 +455,7 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】定制优化-Nextcloud-镜像](https://toutiao.io/k/4sqq7pl)
 - [【开发者头条】性能优化：一个-Flink-参数节省了-50%-的-CPU-消耗](https://toutiao.io/k/8vvjems)
+- [【开发者头条】推荐-面试官问：在读多写少的情况下，如果优化-MySQL-的数据查询方案](https://toutiao.io/k/kvgofut)
 - [【开发者头条】推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1)
 - [【开发者头条】推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -541,6 +543,7 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【互联网架构师】再见！RESTful...](https://www.ershicimi.com/p/59ce98553014309c5f1b3153d911fc6a)
+- [【V2EX】请问有静态编译-nginx-的吗？](https://www.v2ex.com/t/757913)
 - [【V2EX】刚刚配置-nginx，设置的根路径文件-r-开头的他直接把\r-识别为转行符去掉了-裂开](https://www.v2ex.com/t/757903)
 - [【V2EX】更新-ssl-证书时痛苦，求推荐比-nginx-好用的反向代理服务](https://www.v2ex.com/t/757873)
 - [......【查看更多】......](./details/tags/server.md)
@@ -676,6 +679,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】3月2日全国新增新冠10例-均由境外输入](https://m.caixin.com/m/2021-03-03/101669684.html)
+- [【武汉肺炎防疫全纪录(财新网)】得州废止口罩令重开经济-拜登承诺5月底前备好足够疫苗](http://m.international.caixin.com/m/2021-03-03/101669779.html)
 - [【武汉肺炎防疫全纪录(财新网)】全球单周新增新冠病例数回升-芬兰进入紧急状态|大流行手记（3月2日）](https://m.caixin.com/m/2021-03-03/101669681.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|中国已有四款新冠疫苗获批-未来产能几何？](https://m.caixin.com/m/2021-03-02/101669155.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超1.14亿-累计死亡超253万](https://m.caixin.com/m/2021-03-02/101669369.html)
@@ -694,7 +698,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国现有本土病例降至百例以下（2月25日）](http://m.database.caixin.com/m/2021-02-26/101667556.html)
 - [【武汉肺炎防疫全纪录(财新网)】WHO称大流行或明年初结束-芬兰现核酸检测无效变种病毒｜大流行手记（2月25日）](https://m.caixin.com/m/2021-02-26/101667401.html)
 - [【武汉肺炎防疫全纪录(财新网)】聚焦|张文宏：今年下半年到明年年初，世界可能会重新打开](http://m.opinion.caixin.com/m/2021-02-26/101667478.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增9例无症状感染者（2月24日）](http://m.database.caixin.com/m/2021-02-25/101667085.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

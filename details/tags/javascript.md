@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-03 18:03:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-03 18:11:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -38,7 +38,3 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
-- [2021-03-03-使数组的元素尽量平均的一道算法题](https://www.v2ex.com/t/758227) 
-- [2021-03-03-对-C-语言中变量的声明和定义，可以这样用类比-Java-的方式来理解吗？](https://www.v2ex.com/t/758211) 
-- [2021-03-03-这个正则表达式有问题嘛？](https://www.v2ex.com/t/758203) 
-- [2021-03-03-翻译：《实用的-Python-编程》03_04_Modules](https://www.v2ex.com/t/758198) 

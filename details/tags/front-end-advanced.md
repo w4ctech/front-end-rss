@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-03 00:07:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-03 00:17:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -21,5 +21,4 @@
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2021-03-02-2021-年了为什么国家大部分网站都没有-https-的部署呢?-来自萌新的好奇心.](https://www.v2ex.com/t/757786) 
-- [2021-03-02-内推-社招-滴滴-持续招收-后端/前端/算法/PM/测试/客户端-北京杭州成都深圳2](https://www.v2ex.com/t/757785) 
 - [2021-03-03-推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts) 

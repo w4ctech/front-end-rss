@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-03 09:08:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-03 09:33:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,11 +46,9 @@
 - [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-03-03-http-协议中关于缓存过期的两个字段-`Expires`-和-`max-age`-几个问题](https://www.v2ex.com/t/758095) 
 - [2021-03-03-ts-接口请求，如何去定义返回-data-的数据类型](https://www.v2ex.com/t/758082) 
-- [2021-03-03-关于-go-的-http-post-请求重定向后变成-get-请求问题。](https://www.v2ex.com/t/758069) 
-- [2021-03-03-什么样的开发环境是比较合理安全稳定的](https://www.v2ex.com/t/758060) 
 - [2021-03-03-译-基于-Favicon-的超级-Cookie](https://toutiao.io/k/akknfnl) 
-- [2021-03-03-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-03-【安全风险通告】无需验证和交互即可触发,危害极大,Microsoft-...](https://sec.thief.one/article_content?a_id=710c1885af3e4d70661a08406812f345) 
 - [2021-03-03-无需验证和交互,微软Exchange严重组合漏洞安全风险通告](https://sec.thief.one/article_content?a_id=be28d2eb6cc9f7574544e3d01cbe1aa1) 
 - [2021-03-03-【安全风险通告】无需验证和交互即可触发,危害极大,Microsoft-...](https://sec.thief.one/article_content?a_id=3f51520de8c684a77d20a9ce1ed2e707) 

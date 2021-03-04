@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-04 09:05:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-04 09:09:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -88,6 +88,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-03-03-两会微视频:携手](https://sec.thief.one/article_content?a_id=0abb738b1597a5bec869b3fab0db6f6e) 
 - [2021-03-02-【胖猴小玩闹】智能设备分析:-华为智联旗下小豚AI摄像头的完整分析...](https://sec.thief.one/article_content?a_id=bf4264412186f464c63e9354624a8b32) 
 - [2021-03-01-【直播报名】物联网数据4.0时代，企业还有哪些新的存储需求？](https://www.ershicimi.com/p/38cd58ec7eba50794e472b524952553c) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-04 18:45:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-04 18:56:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -457,6 +457,7 @@
 - [【JavaScript】熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】快手基于-Flink-的持续优化与实践](https://toutiao.io/k/6bryn5f)
+- [【开发者头条】推荐-面试官问：在读多写少的情况下，如果优化-MySQL-的数据查询方案](https://toutiao.io/k/kvgofut)
 - [【开发者头条】推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1)
 - [【安全热点】​Python优化机制:常量折叠](https://sec.thief.one/article_content?a_id=31f30d588a1dbb4f6d4ed8e653f02201)
 - [......【查看更多】......](./details/tags/optimization.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-04 11:53:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-04 12:11:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,8 +8,7 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2021-03-04-Safari-访问-whmcs-网站老是自动登出是为什么？](https://www.v2ex.com/t/758561) 
-- [2021-03-04-为什么越来越多的企业都在使用安全星球企业云盘办公？](https://www.v2ex.com/t/758524) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-04-处理公告丨2021年2月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=50cb122260a43b613248c22239f92ca2) 
 - [2021-03-04-Teaclave-0.2.0-发布:让隐私安全计算更简单](https://sec.thief.one/article_content?a_id=30f909a59943a6dbaa60c8bcb63d37ff) 
 - [2021-03-04-农业4.0的网络安全挑战](https://sec.thief.one/article_content?a_id=67a8d14171ef6dd55d497379667a00e6) 

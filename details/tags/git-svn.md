@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-04 12:53:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-04 13:03:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -6,3 +6,9 @@
 > 关键字：`Git`、`SVN`
 
 
+
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) 
+- [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
+- [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
+- [2021-03-04-只要-Github-域名指向任意-IP，该-IP-的-443-端口就会超时-3-分钟（TCPing，-80-端口正常），求解！](https://www.v2ex.com/t/758568) 
+- [2021-03-04-迫于-github-没有小星星，能请大家帮帮忙不？](https://www.v2ex.com/t/758540) 

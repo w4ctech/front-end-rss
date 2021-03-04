@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-04 19:35:15，:rocket: 更新条数: +4336， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-04 19:47:58，:rocket: 更新条数: +4334， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,7 +996,7 @@
 </summary>
 
 
-- [2021-03-04-为什么王成录说鸿蒙使用-AOSP？鸿蒙不是自主研发的吗？](https://www.v2ex.com/t/758638) ![](assets/new.png)  
+- [2021-03-04-可永久免费使用修图软件-Pixelmator-Pro-2-,-支持-M1-处理器](https://www.v2ex.com/t/758639) ![](assets/new.png)  
 - [2021-03-04-请问有没有一款知识图谱可以编辑词典软件？](https://www.v2ex.com/t/758637) ![](assets/new.png)  
 - [2021-03-04-proxifier-竟然更新了](https://www.v2ex.com/t/758635) ![](assets/new.png)  
 - [2021-03-04-想开发个网站，技术内容聚合网站，各位程序员有看法吗？](https://www.v2ex.com/t/758634) ![](assets/new.png)  

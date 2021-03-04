@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-04 23:33:02，:rocket: 更新条数: +4355， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-04 23:42:54，:rocket: 更新条数: +4356， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,14 +65,15 @@
 </summary>
 
 
+- [2021-03-05-解药|用于检测新冠疫苗效力的中和抗体试剂盒来了](https://m.caixin.com/m/2021-03-05/101670726.html) ![](assets/new.png)  
 - [2021-03-04-3月3日全国新增新冠10例-均由境外输入](https://m.caixin.com/m/2021-03-04/101670264.html) ![](assets/new.png)  
 - [2021-03-04-【境内疫情观察】中国已累计接种疫苗5200多万剂次（3月3日）](http://m.database.caixin.com/m/2021-03-04/101670472.html) ![](assets/new.png)  
 - [2021-03-04-日韩现接种疫苗后死亡病例-沙特仅限疫苗接种者麦加朝觐|大流行手记（3月3日）](https://m.caixin.com/m/2021-03-04/101670252.html) ![](assets/new.png)  
-- [2021-03-03-中国接种新冠疫苗超5200万剂次-出口28个国家](https://m.caixin.com/m/2021-03-03/101670016.html) ![](assets/new.png)  
-- [2021-03-03-得州废止口罩令重开经济-拜登承诺5月底前备好足够疫苗](http://m.international.caixin.com/m/2021-03-03/101669779.html) ![](assets/new.png)  
 - [2021-03-03-最新海外疫情：新冠感染超1.14亿-累计死亡超254万](https://m.caixin.com/m/2021-03-03/101670109.html) ![](assets/new.png)  
 - [2021-03-03-【境内疫情观察】全国新增10例境外输入病例（3月2日）](http://m.database.caixin.com/m/2021-03-03/101669953.html) ![](assets/new.png)  
 - [2021-03-03-全球单周新增新冠病例数回升-芬兰进入紧急状态|大流行手记（3月2日）](https://m.caixin.com/m/2021-03-03/101669681.html) ![](assets/new.png)  
+- [2021-03-03-得州废止口罩令重开经济-拜登承诺5月底前备好足够疫苗](http://m.international.caixin.com/m/2021-03-03/101669779.html) ![](assets/new.png)  
+- [2021-03-03-中国接种新冠疫苗超5200万剂次-出口28个国家](https://m.caixin.com/m/2021-03-03/101670016.html) ![](assets/new.png)  
 - [2021-03-02-【境内疫情观察】全国重症病例清零（3月1日）](http://m.database.caixin.com/m/2021-03-02/101669167.html) ![](assets/new.png)  
 - [2021-03-02-美儿童或可年底前接种疫苗-英国创全欧最快接种速度丨大流行手记（3月1日）](https://m.caixin.com/m/2021-03-02/101668904.html) ![](assets/new.png)  
 - [2021-03-02-解药|中国已有四款新冠疫苗获批-未来产能几何？](https://m.caixin.com/m/2021-03-02/101669155.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-02-28-【境内疫情观察】吉林无症状感染者清零（2月27日）](http://m.database.caixin.com/m/2021-02-28/101668302.html) ![](assets/new.png)  
 - [2021-02-28-复星mRNA疫苗运抵港澳-美FDA顾问组支持批准强生疫苗｜大流行手记（2月27日）](https://m.caixin.com/m/2021-02-28/101668266.html) ![](assets/new.png)  
 - [2021-02-27-【境内疫情观察】全国新增10例境外输入病例（2月26日）](http://m.database.caixin.com/m/2021-02-27/101668151.html) ![](assets/new.png)  
-- [2021-02-27-英国下调疫情警戒级别-澳门特许进口复星mRNA疫苗｜大流行手记（2月26日）](https://m.caixin.com/m/2021-02-27/101668015.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

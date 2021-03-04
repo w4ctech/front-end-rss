@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-04 23:33:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-04 23:42:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -47,7 +47,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-04-proxifier-竟然更新了](https://www.v2ex.com/t/758635) 
 - [2021-03-04-一文快速-Get-Kylin-4.0.0-beta-新功能](https://toutiao.io/k/22fufjo) 
-- [2021-03-04-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-04-处理公告丨2021年2月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=50cb122260a43b613248c22239f92ca2) 
 - [2021-03-04-Teaclave-0.2.0-发布:让隐私安全计算更简单](https://sec.thief.one/article_content?a_id=30f909a59943a6dbaa60c8bcb63d37ff) 
 - [2021-03-04-农业4.0的网络安全挑战](https://sec.thief.one/article_content?a_id=67a8d14171ef6dd55d497379667a00e6) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-05 22:09:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-05 22:34:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -535,8 +535,7 @@
 - [【奇舞周刊】一文串联-HTTP-/-0.9-|-1.0-|-1.1-|-2-|-3-](https://www.ershicimi.com/p/f226f1aedc3d2efe83e89fdaf1fb9015)
 - [【InfoQ】一个-HTTP-打趴-80%-面试者-｜-极客时间](https://www.ershicimi.com/p/99f1f34c951520fbf8cfebfdf287fe21)
 - [【开发者头条】令人激动！Go-泛型代码合入-master（附尝鲜方法）](https://toutiao.io/k/icpj0qz)
-- [【开发者头条】推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1)
-- [【开发者头条】推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts)
+- [【安全热点】几幅图,拿下-HTTPS](https://sec.thief.one/article_content?a_id=f9a06c9ccb88cbb0f1929cac9c672dab)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

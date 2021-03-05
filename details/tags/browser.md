@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-05 04:59:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-05 05:07:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,7 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
+- [2021-03-02-前端拓展：如何开发一个-Chrome-插件？](https://www.ershicimi.com/p/e21959f7f8c8c34ceb31238d4fff0084) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -34,7 +35,9 @@
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-05-假如我的域名是国外网站买的没有实名，网站前端托管在-github-page，网站请求的后端部署在国内主机上](https://www.v2ex.com/t/758754) 
-- [2021-03-05-11.2.2-有更新的必要吗？这个版本只有对外设的安全性更新？](https://www.v2ex.com/t/758711) 
+- [2021-03-05-2021-年-10-款优质-Chrome-浏览器插件推荐](https://toutiao.io/k/9h1strj) 
+- [2021-03-05-为什么不要轻易使用-Chrome-复制的-XPath？](https://toutiao.io/k/wzbn4lb) 
+- [2021-03-05-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-05-安全招聘汇总-|-第十一期](https://sec.thief.one/article_content?a_id=d714fd8d44f66424e23cc44379c2bfdc) 
 - [2021-03-04-网安新焦点|悬镜安全周幸:悬镜灵脉IAST平台测试POC](https://sec.thief.one/article_content?a_id=7d9244c21aae8717a0765a7e53114528) 
 - [2021-03-04-【安全圈】用户账户被劫持,微软披露价值50000美金的新漏洞](https://sec.thief.one/article_content?a_id=49955ab1d205fd683a5876cbe695c4b2) 

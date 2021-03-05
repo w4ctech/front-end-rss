@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-05 12:10:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-05 12:42:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,4 +27,7 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2021-03-05-上海-社招内推-莉莉丝游戏-急招各种岗位-WLB-965-大量-HC](https://www.v2ex.com/t/758891) 
+- [2021-03-05-上海莉莉丝游戏三月内推web-前端，-RN，客户端，服务器，引擎，测开，运维，产品，美术，发行](https://www.v2ex.com/t/758888) 
 - [2021-03-05-游戏安全评审的技术进阶之路](https://sec.thief.one/article_content?a_id=d6d50b4fa9fd78243a436cec8d02f3ed) 
+- [2021-02-26-中国网友大规模组建家庭式矿场，韩国两成网吧关门挖比特币，游戏玩家：求求你们别抢我的GPU了……](https://www.ershicimi.com/p/63a6442f40c53e453577d16fff3cfd16) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-05 05:52:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-05 06:05:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -19,9 +19,4 @@
 - [2020-12-28-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8) 
 - [2021-02-22-熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
-- [2021-03-05-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) 
-- [2021-03-05-一种极致性能的缓冲队列](https://toutiao.io/k/u0qbf2x) 
-- [2021-03-05-峰值-QPS-50-万-+，性能优异的网络框架开源力作-Sogou-Workflow](https://toutiao.io/k/8mab1fj) 
-- [2021-03-05-推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8) 
-- [2021-03-05-推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1) 
 - [2021-03-04-​Python优化机制:常量折叠](https://sec.thief.one/article_content?a_id=31f30d588a1dbb4f6d4ed8e653f02201) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-05 10:55:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-05 11:04:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,10 @@
 
 
 
+- [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
+- [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
+- [2021-02-19-一份开源的编码规范：代码整洁的-JavaScript](https://www.ershicimi.com/p/4198fe8690fe8224e288d038bc1ee2fd) 
+- [2021-02-06-字节跳动最爱考的前端面试题：JavaScript-基础](https://www.ershicimi.com/p/2d9bc14be14f64c9bb0909060e86cc3a) 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 
 - [2021-02-13-Web-Components中引入外部CSS的3种方法](https://www.zhangxinxu.com/wordpress/2021/02/web-components-import-css/) 
@@ -46,7 +50,6 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
-- [2021-03-05-LeetCode-中完成了一道题后将之加入做题记录的语句是什么?是否能通过-js-脚本将做过的-LeetCode-题记录到本地数据库?](https://www.v2ex.com/t/758854) 
 - [2021-03-05-Immunity-Canvas-7.26泄露事件概览](https://sec.thief.one/article_content?a_id=91eea96b08ae708e7fd90ebb9822598e) 
 - [2021-03-05-全球航空运输数据巨头SITA称其航空客运系统遭遇数据泄露事件](https://sec.thief.one/article_content?a_id=2196d38bc246b80fb1405a790750fbc6) 
 - [2021-03-04-【安全事件】精准短信钓鱼频发,已有多个银行用户中招!](https://sec.thief.one/article_content?a_id=be02d83838abc316118986519b0b8cde) 

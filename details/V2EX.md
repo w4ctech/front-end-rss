@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-03-05 23:43:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-05 23:55:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-05-实在是不适应-Mac-的按键](https://www.v2ex.com/t/758970) 
+- [2021-03-05-变量名采用中文最大的障碍是什么？](https://www.v2ex.com/t/758969) 
 - [2021-03-05-公司在中午休息时间不让在公司里面看视频和玩游戏是什么操作？](https://www.v2ex.com/t/758968) 
 - [2021-03-05-请问机械硬盘竖装只安装两颗螺丝可以吗？](https://www.v2ex.com/t/758967) 
 - [2021-03-05-docker-命令里面的-`pwd`:/work-是什么意思？谢谢](https://www.v2ex.com/t/758966) 
@@ -45,5 +47,3 @@
 - [2021-03-05-Kafka-实例偶发出现-PreparingRebalance-状态](https://www.v2ex.com/t/758923) 
 - [2021-03-05-这是我看到过瘫痪的最厉害的云厂商---青云-Qingcloud](https://www.v2ex.com/t/758922) 
 - [2021-03-05-mbp-链接远程的-Mac-mini](https://www.v2ex.com/t/758921) 
-- [2021-03-05-关于-memory_order_relaxed](https://www.v2ex.com/t/758920) 
-- [2021-03-05-中信银行-2021-社招---开发/系统设计/产品经理---薪资范围：-35-50K，-base-北京-与中信银行总行签署劳动合同](https://www.v2ex.com/t/758919) 

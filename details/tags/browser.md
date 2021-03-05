@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-05 06:46:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-05 06:58:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,7 +41,6 @@
 - [2021-03-05-假如我的域名是国外网站买的没有实名，网站前端托管在-github-page，网站请求的后端部署在国内主机上](https://www.v2ex.com/t/758754) 
 - [2021-03-05-2021-年-10-款优质-Chrome-浏览器插件推荐](https://toutiao.io/k/9h1strj) 
 - [2021-03-05-为什么不要轻易使用-Chrome-复制的-XPath？](https://toutiao.io/k/wzbn4lb) 
-- [2021-03-05-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-05-新的Chrome-0day漏洞正被利用](https://sec.thief.one/article_content?a_id=051acf5572a2ce9fa881ac1ac468a64d) 
 - [2021-03-05-尬中尬?网络安全公司Qualys被勒索软件攻击](https://sec.thief.one/article_content?a_id=e39db487a9bfae0af4df256e28b39419) 
 - [2021-03-05-安全招聘汇总-|-第十一期](https://sec.thief.one/article_content?a_id=d714fd8d44f66424e23cc44379c2bfdc) 

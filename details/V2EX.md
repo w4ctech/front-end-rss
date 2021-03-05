@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-05 10:35:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-05 10:43:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -49,4 +49,3 @@
 - [2021-03-05-Minikube---LoadBalancer-类型的-service-无法成功被分配到-EXTERNAL-IP](https://www.v2ex.com/t/758853) 
 - [2021-03-05-有大佬讲一下，大厂外包值得去吗？应届生](https://www.v2ex.com/t/758852) 
 - [2021-03-05-肉蟹煲里面最好吃的是什么？](https://www.v2ex.com/t/758851) 
-- [2021-03-05-20-届校招生工作半年被裁，社招有什么建议吗](https://www.v2ex.com/t/758850) 

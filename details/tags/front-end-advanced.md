@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-05 11:49:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-05 12:05:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -15,4 +15,5 @@
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2021-03-05-https://github.com/wenshunbiao/docker-求各位大佬给个-star](https://www.v2ex.com/t/758871) 
+- [2021-03-05-令人激动！Go-泛型代码合入-master（附尝鲜方法）](https://toutiao.io/k/icpj0qz) 
 - [2021-03-05-几幅图,拿下-HTTPS](https://sec.thief.one/article_content?a_id=f9a06c9ccb88cbb0f1929cac9c672dab) 

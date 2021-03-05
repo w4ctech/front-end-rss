@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-05 11:49:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-05 12:05:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -20,6 +20,9 @@
 - [2021-03-05-移动设备数据安全话题的专业论文](https://www.v2ex.com/t/758912) 
 - [2021-03-05-请教-request-模块，-get-url-回来的.text，有非-gbk-码\xef，无法正常-print...](https://www.v2ex.com/t/758884) 
 - [2021-03-05-如何用-GDI-正确渲染部分-Opentype-字体](https://www.v2ex.com/t/758870) 
+- [2021-03-05-2021-年-10-款优质-Chrome-浏览器插件推荐](https://toutiao.io/k/9h1strj) 
+- [2021-03-05-为什么不要轻易使用-Chrome-复制的-XPath？](https://toutiao.io/k/wzbn4lb) 
+- [2021-03-05-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-05-CSO说安全-|-廖位明:信息安全建设思考](https://sec.thief.one/article_content?a_id=6b92b0424a78487038b84e0152fc4de4) 
 - [2021-03-05-信息安全漏洞月报2021年2月](https://sec.thief.one/article_content?a_id=3cb82b3290be1c9d69f46e05ffe64906) 
 - [2021-03-05-【招聘】2021,小米安全“职”等你来](https://sec.thief.one/article_content?a_id=dc7575616a82de2fca54e46586b1fbb7) 

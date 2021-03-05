@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-05 21:52:55，:rocket: 更新条数: +4358， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-05 22:04:58，:rocket: 更新条数: +4359， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,7 @@
 </summary>
 
 
+- [2021-03-05-请问机械硬盘竖装只安装两颗螺丝可以吗？](https://www.v2ex.com/t/758967) ![](assets/new.png)  
 - [2021-03-05-docker-命令里面的-`pwd`:/work-是什么意思？谢谢](https://www.v2ex.com/t/758966) ![](assets/new.png)  
 - [2021-03-05-最近想玩-ue4-发现全是大驼峰](https://www.v2ex.com/t/758965) ![](assets/new.png)  
 - [2021-03-05-请问专科暑假要不要找份实习](https://www.v2ex.com/t/758964) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-03-05-翻译：《实用的-Python-编程》03_06_Design_discussion](https://www.v2ex.com/t/758947) ![](assets/new.png)  
 - [2021-03-05-阿里巴巴国际部招聘贴，社招大佬，校招实习的大佬赏脸看一下吧~](https://www.v2ex.com/t/758946) ![](assets/new.png)  
 - [2021-03-05-国内的云服务器有必要装-BBR-吗？](https://www.v2ex.com/t/758945) ![](assets/new.png)  
-- [2021-03-05-Dell-笔记本这种问题大概是哪里有问题？](https://www.v2ex.com/t/758944) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

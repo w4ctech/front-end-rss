@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-06 08:45:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-06 08:56:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -18,5 +18,5 @@
 - [2021-03-06-B-站的弹幕播放很吃电脑性能吗](https://www.v2ex.com/t/759075) 
 - [2021-03-06-实习-微软亚洲研究院-机器学习系统性能评测及相关研究实习生](https://www.v2ex.com/t/759040) 
 - [2021-03-06-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) 
-- [2021-03-06-推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8) 
+- [2021-03-06-推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1) 
 - [2021-03-04-​Python优化机制:常量折叠](https://sec.thief.one/article_content?a_id=31f30d588a1dbb4f6d4ed8e653f02201) 

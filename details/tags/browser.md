@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-06 10:43:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-06 10:55:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,8 +26,10 @@
 - [2021-03-05-chrome开发者工具各种骚技巧](https://www.ershicimi.com/p/c07fd5eb7150a64bea69c3a2f4f296cc) 
 - [2021-03-01-cURL-原作者收到死亡恐吓邮件！](https://www.ershicimi.com/p/df2c1198b383754cd74c534fe49b8e68) 
 - [2021-02-25-阿里面试官的“说一下从url输入到返回请求的过程”问的难度就是不一样！](https://www.ershicimi.com/p/b0631b90cbef403f78005513629a0907) 
-- [2021-03-05-【第2216期】CORS-完全手册之为什么会发生CORS-错误？](https://www.ershicimi.com/p/6cbf45be18a23d82257923256f8303a3) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
+- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
+- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-06-macOS-Big-Sur：聚焦搜索的第一项总是-chrome-的搜索项而不是应用](https://www.v2ex.com/t/759098) 
 - [2021-03-06-在Z|东呈、木链高薪招贤;10年+安全经验求职IT/安全总监](https://sec.thief.one/article_content?a_id=18bc0c4737df2a87bf23ba376bbd970e) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-06 11:39:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-06 11:42:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -83,6 +83,9 @@
 - [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
+- [2021-03-06-短视频风口，如何实现快速变现？](https://www.ershicimi.com/p/36a3d02e9ada682359d6b89704ce1a27) 
+- [2021-03-05-字节、美团、阿里等国内大公司的200+技术干货视频，任你选](https://www.ershicimi.com/p/2a878a17a49230bcd0dd6373c99c479d) 
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-03-06-xbox-手柄网页上的介绍视频怎么这么大？](https://www.v2ex.com/t/759113) 
 - [2021-03-05-公益直播课|网络安全攻防初窥-冰山之下攻守之道](https://sec.thief.one/article_content?a_id=dfa0bde4d6eb9b0eb51f1c8037a96d4b) 
 - [2021-03-05-【视频】|-网络安全:风险控制的相关知识](https://sec.thief.one/article_content?a_id=9c9a1c6d959b3815cc0961e19969403f) 

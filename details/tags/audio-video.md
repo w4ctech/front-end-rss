@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-06 21:40:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-06 21:52:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -88,6 +88,9 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2021-03-06-短视频风口，如何实现快速变现？](https://www.ershicimi.com/p/36a3d02e9ada682359d6b89704ce1a27) 
+- [2021-03-05-字节、美团、阿里等国内大公司的200+技术干货视频，任你选](https://www.ershicimi.com/p/2a878a17a49230bcd0dd6373c99c479d) 
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-03-06-2018-MBP-视频会议-100-分钟掉电-50%](https://www.v2ex.com/t/759195) 
 - [2021-03-06-找-bilibili-脚本，标题可以放视频下方](https://www.v2ex.com/t/759181) 
 - [2021-03-05-公益直播课|网络安全攻防初窥-冰山之下攻守之道](https://sec.thief.one/article_content?a_id=dfa0bde4d6eb9b0eb51f1c8037a96d4b) 

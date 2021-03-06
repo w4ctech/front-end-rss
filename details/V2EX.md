@@ -1,11 +1,12 @@
-:alarm_clock: 更新时间: 2021-03-06 03:33:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-06 03:42:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2021-03-06-业务运维、系统运维、业务运维哪个选择](https://www.v2ex.com/t/759002) 
+- [2021-03-06-有没有免费的-MySQL-监控工具，或者开源代码。-Python-、-Java-、-PHP-都可以](https://www.v2ex.com/t/759003) 
+- [2021-03-06-业务运维、系统运维、业务运维，这三个岗位哪个对后期的职业发展好一点](https://www.v2ex.com/t/759002) 
 - [2021-03-06-关于虚拟内存](https://www.v2ex.com/t/759000) 
 - [2021-03-06-写了篇-微服务上-kubernetes-的入门文章-欢迎加星-https://github.com/xiaojiaqi/deploy-microservices-to-a-Kubernetes-cluster](https://www.v2ex.com/t/758999) 
 - [2021-03-06-石头扫地机器人-T7-Pro-使用体验](https://www.v2ex.com/t/758997) 
@@ -44,4 +45,3 @@
 - [2021-03-05-DevOpsGitOps+K8S+BPF+SRE，从-0-到-1-使用-Golang-开发生产级麻将游戏服务器—第-7-篇](https://www.v2ex.com/t/758956) 
 - [2021-03-05-CF-自选-IP-为什么-22-点后就很慢了?](https://www.v2ex.com/t/758955) 
 - [2021-03-05-买了皮质链式表带......](https://www.v2ex.com/t/758954) 
-- [2021-03-05-网易-广州、杭州-运营中心-&&-邮件事业部技术内推](https://www.v2ex.com/t/758953) 

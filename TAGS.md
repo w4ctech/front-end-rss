@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-06 23:33:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-06 23:42:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -463,9 +463,9 @@
 - [【JavaScript】熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u)
+- [【开发者头条】推荐-面试官问：在读多写少的情况下，如果优化-MySQL-的数据查询方案](https://toutiao.io/k/kvgofut)
 - [【开发者头条】推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8)
 - [【开发者头条】推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1)
-- [【开发者头条】推荐-面试官问：在读多写少的情况下，如果优化-MySQL-的数据查询方案](https://toutiao.io/k/kvgofut)
 - [【安全热点】​Python优化机制:常量折叠](https://sec.thief.one/article_content?a_id=31f30d588a1dbb4f6d4ed8e653f02201)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -536,7 +536,6 @@
 - [【奇舞周刊】一文串联-HTTP-/-0.9-|-1.0-|-1.1-|-2-|-3-](https://www.ershicimi.com/p/f226f1aedc3d2efe83e89fdaf1fb9015)
 - [【InfoQ】一个-HTTP-打趴-80%-面试者-｜-极客时间](https://www.ershicimi.com/p/99f1f34c951520fbf8cfebfdf287fe21)
 - [【V2EX】golang-http-内存泄漏的问题](https://www.v2ex.com/t/759153)
-- [【开发者头条】推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts)
 - [【安全热点】几幅图,拿下-HTTPS](https://sec.thief.one/article_content?a_id=f9a06c9ccb88cbb0f1929cac9c672dab)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

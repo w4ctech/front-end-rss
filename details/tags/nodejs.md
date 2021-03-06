@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-06 20:46:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-06 20:51:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -38,3 +38,4 @@
 - [2021-03-01-实战：Express-模拟-CSRF-攻击](https://www.ershicimi.com/p/df45c6b3647b1559a1ba5f3491b9a468) 
 - [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) 
 - [2021-02-24-【纯文字】2021-的-Node.js-开发人员路线图](https://www.ershicimi.com/p/5bca80dd99c61fad9cae2c3f288d40c1) 
+- [2021-03-06-实战：Express-模拟-CSRF-攻击](https://toutiao.io/k/og78n8c) 

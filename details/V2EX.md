@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-06 11:42:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-06 11:49:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -46,5 +46,3 @@
 - [2021-03-06-glibc-是-Linux-的标准库，是不是在-Linux-上编译出的程序，底层都会和-glibc-有关联？](https://www.v2ex.com/t/759071) 
 - [2021-03-06-推荐游戏:Loop-Hero](https://www.v2ex.com/t/759068) 
 - [2021-03-06-有多少人和我一样使用这套实时桌面加密同步方案？](https://www.v2ex.com/t/759067) 
-- [2021-03-06-cf-Partner-的-CNAME-怎么关联到服务器源-IP](https://www.v2ex.com/t/759066) 
-- [2021-03-06-移动宽带还是不行啊，坐标四川](https://www.v2ex.com/t/759065) 

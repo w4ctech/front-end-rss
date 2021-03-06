@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-06 08:05:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-06 08:09:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -6,9 +6,3 @@
 > 关键字：`Git`、`SVN`
 
 
-
-- [2021-02-24-GitHub-+1s-—-像使用-VS-Code-一样在线预览代码](https://www.ershicimi.com/p/a919443da4ce428dca57e5f83dfd8157) 
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) 
-- [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
-- [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
-- [2021-03-06-吃相难看-腾讯直接把-Github-上加速-GTAOL-的代码放进加速器里了](https://www.v2ex.com/t/759043) 

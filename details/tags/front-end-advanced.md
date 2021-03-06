@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-06 06:35:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-06 06:45:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,13 +7,9 @@
 
 
 
-- [2021-02-20-一个-HTTP-打趴-80%-前端面试者](https://www.ershicimi.com/p/22a60d006552de8528c8d605c238757c) 
-- [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/) 
-- [2017-04-11-GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/) 
-- [2016-12-08-vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/) 
-- [2016-08-16-Nginx-配置-HTTPS-服务器](https://aotu.io/notes/2016/08/16/nginx-https/) 
-- [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
-- [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
-- [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) 
 - [2021-03-06-有-vim-的交流群吗？微信，-qq，或者-TG-都行，最近一直在猛搜-vim-的使用技巧。](https://www.v2ex.com/t/759032) 
 - [2021-03-06-写了篇-微服务上-kubernetes-的入门文章-欢迎加星-https://github.com/xiaojiaqi/deploy-microservices-to-a-Kubernetes-cluster](https://www.v2ex.com/t/758999) 
+- [2021-03-06-推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1) 
+- [2021-03-06-推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts) 
+- [2021-03-05-几幅图,拿下-HTTPS](https://sec.thief.one/article_content?a_id=f9a06c9ccb88cbb0f1929cac9c672dab) 

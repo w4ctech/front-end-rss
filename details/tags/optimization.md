@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-07 07:44:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 07:50:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -19,6 +19,6 @@
 - [2021-03-07-实习-微软亚洲研究院-机器学习系统性能评测及相关研究实习生](https://www.v2ex.com/t/759282) 
 - [2021-03-07-苹果-M1-单线程性能超过-AMD-Ryzen-7-5800X，接近英特尔酷睿-i7-11700K](https://www.v2ex.com/t/759274) 
 - [2021-03-07-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) 
-- [2021-03-07-推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1) 
 - [2021-03-07-推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8) 
+- [2021-03-07-推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1) 
 - [2021-03-04-​Python优化机制:常量折叠](https://sec.thief.one/article_content?a_id=31f30d588a1dbb4f6d4ed8e653f02201) 

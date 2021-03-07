@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-07 10:09:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 10:34:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,7 +45,6 @@
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-07-firefox-在-Linux-下的硬解终于可以和-chromium/chrome-一战了](https://www.v2ex.com/t/759330) 
-- [2021-03-07-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-07-思科发布了3条有关ACI和NS-OX安全漏洞的严重警告](https://sec.thief.one/article_content?a_id=d32c46ea42a4fa8d4560ad4d9a71d367) 
 - [2021-03-06-在Z|东呈、木链高薪招贤;10年+安全经验求职IT/安全总监](https://sec.thief.one/article_content?a_id=18bc0c4737df2a87bf23ba376bbd970e) 
 - [2021-03-06-GlobeImposter勒索热度不减,改头换面再出5.1变种](https://sec.thief.one/article_content?a_id=7f4f5e5dc0a9db1903d25ff702e5e60f) 
@@ -68,4 +67,3 @@
 - [2021-03-04-处理公告丨2021年2月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=50cb122260a43b613248c22239f92ca2) 
 - [2021-03-04-Teaclave-0.2.0-发布:让隐私安全计算更简单](https://sec.thief.one/article_content?a_id=30f909a59943a6dbaa60c8bcb63d37ff) 
 - [2021-03-04-农业4.0的网络安全挑战](https://sec.thief.one/article_content?a_id=67a8d14171ef6dd55d497379667a00e6) 
-- [2021-03-04-网络安全攻防:Linux系统安全之常用安全策略](https://sec.thief.one/article_content?a_id=64e93820047572182f7733f8a9e4dc31) 

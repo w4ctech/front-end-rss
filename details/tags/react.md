@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-07 22:45:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 22:55:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -7,11 +7,10 @@
 
 
 
+- [2021-03-04-React面试必问Fiber和Hooks，一次解决](https://www.ershicimi.com/p/428524dc2157f782dfb818cf30dcc0e3) 
+- [2021-03-03-【第2214期】前端测试心法-+-React-组件测试实践](https://www.ershicimi.com/p/1313feabd32a26b13b1d99851ca7a3d6) 
 - [2021-03-01-Vue-和-React-大厂面试通关指南.pdf](https://www.ershicimi.com/p/4824419aa64d3ca6856af35bbb406126) 
 - [2021-02-22-React面试必问的Fiber和Hooks，一次解决](https://www.ershicimi.com/p/0d7dad69cc60c41d2fb7da7932a5d575) 
-- [2021-03-02-Vue-和-React-大厂面试通关指南.pdf](https://www.ershicimi.com/p/462477bafe26be26d97920aee4941038) 
-- [2021-02-22-React面试必问的Fiber和Hooks，一次解决](https://www.ershicimi.com/p/731f40a58e2c5599e7744afb7486b3b0) 
-- [2021-02-22-React面试必问的Fiber和Hooks，这回有答案了](https://www.ershicimi.com/p/155e395a3f765f99d007ca9620d2319a) 
 - [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/) 
 - [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) 
 - [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) 

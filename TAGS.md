@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-07 14:43:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 14:51:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -412,7 +412,7 @@
 - [【JavaScript】熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】快手超大规模集群调度优化实践](https://toutiao.io/k/671eano)
-- [【开发者头条】推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8)
+- [【开发者头条】推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1)
 - [【安全热点】​Python优化机制:常量折叠](https://sec.thief.one/article_content?a_id=31f30d588a1dbb4f6d4ed8e653f02201)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -474,6 +474,7 @@
 - [【前端之巅】面试官考察HTTP，把我的智商按在地上摩擦？-|-活动推荐](https://www.ershicimi.com/p/ece645da1420611eb55a9620e02522fd)
 - [【奇舞周刊】一文串联-HTTP-/-0.9-|-1.0-|-1.1-|-2-|-3-](https://www.ershicimi.com/p/f226f1aedc3d2efe83e89fdaf1fb9015)
 - [【V2EX】猿辅导-北京-校招&社招-内推，-算法、-Java-、前端、Android、iOS、测试都有，跳槽的小伙伴动起来~](https://www.v2ex.com/t/759358)
+- [【开发者头条】推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts)
 - [【安全热点】几幅图,拿下-HTTPS](https://sec.thief.one/article_content?a_id=f9a06c9ccb88cbb0f1929cac9c672dab)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -517,7 +518,6 @@
 - [【V2EX】kapable.github.io-求教这个心理源码怎么安装网页的？？](https://www.v2ex.com/t/759378)
 - [【V2EX】Github-pages-出问题了？](https://www.v2ex.com/t/759363)
 - [【开发者头条】小心你的个人信息：GitHub-热点速览-v.21.09](https://toutiao.io/k/bat83ej)
-- [【开发者头条】推荐-副业刚需：在-GitHub-上也能年入百万？](https://toutiao.io/k/r9tqaw3)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

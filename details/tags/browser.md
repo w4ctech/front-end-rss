@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-07 14:43:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 14:51:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-07-这就是传说中的主动安全？](https://www.v2ex.com/t/759366) 
 - [2021-03-07-Linux-下-Chromium-的两个问题,-有关下载以及虚拟内存过大](https://www.v2ex.com/t/759360) 
+- [2021-03-07-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-07-思科发布了3条有关ACI和NS-OX安全漏洞的严重警告](https://sec.thief.one/article_content?a_id=d32c46ea42a4fa8d4560ad4d9a71d367) 
 - [2021-03-06-在Z|东呈、木链高薪招贤;10年+安全经验求职IT/安全总监](https://sec.thief.one/article_content?a_id=18bc0c4737df2a87bf23ba376bbd970e) 
 - [2021-03-06-GlobeImposter勒索热度不减,改头换面再出5.1变种](https://sec.thief.one/article_content?a_id=7f4f5e5dc0a9db1903d25ff702e5e60f) 

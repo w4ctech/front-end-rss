@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-07 12:10:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 12:42:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -13,7 +13,6 @@
 - [2021-03-05-【招聘】字节跳动教育招聘前端开发工程师、实习前端工程师](https://www.ershicimi.com/p/47153f3e1214fb5362182804476b6b15) 
 - [2021-03-01-【招聘】阿里本地生活外卖商家团队招P6、P7前端工程师](https://www.ershicimi.com/p/157d9438717775728f8dc4c1bd2b69dc) 
 - [2021-02-26-【招聘】长沙芒果TV招聘产品、前端、IOS和安卓开发](https://www.ershicimi.com/p/4ddd26b2e8d47039e69ec1b0ed8fe554) 
-- [2021-02-25-【招聘】北京用友BIP云平台招聘中高级前端开发](https://www.ershicimi.com/p/f6ac98bcf128f6a5584df1a463cd51f8) 
 - [2021-03-03-这道前端面试必问题，你会吗？](https://www.ershicimi.com/p/f226e09cabf7b05f7c03a148abb871bc) 
 - [2021-02-23-字节-40k+-的前端面试题，该怎么回答？](https://www.ershicimi.com/p/459a2a12edc67ce862afcecbed56894b) 
 - [2021-02-22-小伙伴新鲜出炉面试题目总结含中大厂，已拿offer](https://www.ershicimi.com/p/74b4ffc76e17434a83aee6054d735a64) 

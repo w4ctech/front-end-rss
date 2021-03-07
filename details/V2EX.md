@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-06 23:55:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 00:08:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2021-03-06-JAP-v1.0.1-alpha-发布，适配前后端分离的项目](https://www.v2ex.com/t/759152) 
 - [2021-03-06-MacOS-下奇怪的-Git，为啥升级就要重装。](https://www.v2ex.com/t/759151) 
 - [2021-03-06-电脑拨号上网，-clash-上不去，怎么排查是不是机场跑路](https://www.v2ex.com/t/759149) 
-- [2021-03-06-假的全球主机交流](https://www.v2ex.com/t/759148) 

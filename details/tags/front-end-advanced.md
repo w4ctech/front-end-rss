@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-07 06:34:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 06:45:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -16,5 +16,4 @@
 - [2021-02-21-一个-HTTP-打趴-80%-面试者](https://www.ershicimi.com/p/58b0559d296594c1172a1e9e108c2002) 
 - [2021-02-22-一文串联-HTTP-/-0.9-|-1.0-|-1.1-|-2-|-3-](https://www.ershicimi.com/p/f226f1aedc3d2efe83e89fdaf1fb9015) 
 - [2021-03-07-k2p-华硕系统，如何设置-http-代理？](https://www.v2ex.com/t/759264) 
-- [2021-03-07-推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts) 
 - [2021-03-05-几幅图,拿下-HTTPS](https://sec.thief.one/article_content?a_id=f9a06c9ccb88cbb0f1929cac9c672dab) 

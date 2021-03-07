@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-07 06:34:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 06:45:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,8 +37,6 @@
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-07-Microsoft-Edge-访问-dribbble-一直是手机版](https://www.v2ex.com/t/759243) 
-- [2021-03-07-chrome-浏览器的历史记录不小心清空了，想找回以前的某个记录，有办法吗？当时谷歌账号处于登录状态。如何把已经清空的谷歌浏览器的记录找回来？](https://www.v2ex.com/t/759235) 
-- [2021-03-07-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-07-思科发布了3条有关ACI和NS-OX安全漏洞的严重警告](https://sec.thief.one/article_content?a_id=d32c46ea42a4fa8d4560ad4d9a71d367) 
 - [2021-03-06-在Z|东呈、木链高薪招贤;10年+安全经验求职IT/安全总监](https://sec.thief.one/article_content?a_id=18bc0c4737df2a87bf23ba376bbd970e) 
 - [2021-03-06-GlobeImposter勒索热度不减,改头换面再出5.1变种](https://sec.thief.one/article_content?a_id=7f4f5e5dc0a9db1903d25ff702e5e60f) 

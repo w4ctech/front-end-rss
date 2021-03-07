@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-07 11:40:54，:rocket: 更新条数: +4355， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-07 11:49:35，:rocket: 更新条数: +4354， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -808,6 +808,9 @@
 </summary>
 
 
+- [2021-03-07-别瞎学了，这几门语言要被淘汰了！](https://www.ershicimi.com/p/1328f9eb47d3480aeb3aa36396c2aff0) ![](assets/new.png)  
+- [2021-03-07-21大软件架构特点的全面解析](https://www.ershicimi.com/p/f6054b6a0a6aa3bb4dcc0f517fd10e30) ![](assets/new.png)  
+- [2021-03-07-动动手指就有钱收！最近这款APP服务器都被网友挤爆了](https://www.ershicimi.com/p/34a00ddfb5236ce85fcc31518b800ebd) ![](assets/new.png)  
 - [2021-03-06-想接私活收入翻倍，建议根据这几个开源SpringBoot项目（含小程序）改改~](https://www.ershicimi.com/p/f9d0b0c6dbc9ac45d666c377a6e76dd4) ![](assets/new.png)  
 - [2021-03-06-再见，996！程序员开源考公指南火了：三人已成功上岸！](https://www.ershicimi.com/p/72a45be752d5dc1b7c71807514309fbf) ![](assets/new.png)  
 - [2021-03-06-一二线城市有哪些值得加入的互联网公司？](https://www.ershicimi.com/p/324e8fda5fb72e3c845dff5d78ea744b) ![](assets/new.png)  
@@ -825,9 +828,6 @@
 - [2021-03-02-今天来了一位妹纸面试，我问她：线程池中多余的线程是如何回收的？她有点懵~](https://www.ershicimi.com/p/57d8180acc6ee344fa23f6bb2c7236d0) ![](assets/new.png)  
 - [2021-03-01-“力挺Java！拒绝Python”9万程序员刷爆朋友圈……](https://www.ershicimi.com/p/89ddd06cec07d13a1b1e9db6d0560c70) ![](assets/new.png)  
 - [2021-03-01-校招毁约污点公司名录.pdf](https://www.ershicimi.com/p/f147b4f439b9a316bd2eb75c45d4bea4) ![](assets/new.png)  
-- [2021-03-01-27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构，彭博：Superstar](https://www.ershicimi.com/p/cda63e7bf8030fe04e75ee73b5fbf338) ![](assets/new.png)  
-- [2021-02-28-程序员失业一月转行去送外卖，晒出当天收入，还以为看错了](https://www.ershicimi.com/p/b9ee86dd9ebe3fb6231dc69ff523b7ab) ![](assets/new.png)  
-- [2021-02-28-新特效火爆抖音！各路神仙齐唱《蚂蚁呀嘿》，网友：短短几秒需一生来治愈](https://www.ershicimi.com/p/8492c3cd272b3ebea7f90dec453808bd) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-03-07-「蚂蚁呀哈哈」说火就火了，说下架就下架了](https://toutiao.io/k/4p14o1p) ![](assets/new.png)  
 - [2021-03-07-Webpack-基石-tapable-揭秘](https://toutiao.io/k/cpvgtw6) ![](assets/new.png)  
 - [2021-03-07-Testin-云测总裁徐琨：创业必须要创造出肉眼可见的价值](https://toutiao.io/k/txx29jh) ![](assets/new.png)  
+- [2021-03-07-推荐-帮助阅读源码的-8-个技巧](https://toutiao.io/k/9v93x32) ![](assets/new.png)  
+- [2021-03-07-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) ![](assets/new.png)  
 - [2021-03-07-推荐-一次-MySQL-线上死锁分析实战](https://toutiao.io/k/pys6jzz) ![](assets/new.png)  
-- [2021-03-07-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) ![](assets/new.png)  
-- [2021-03-07-推荐-生产力至少提升-5-倍，大厂火拼的低代码平台究竟还有哪些坑？](https://toutiao.io/k/ipuno05) ![](assets/new.png)  
-- [2021-03-07-推荐-我用-Kafka-两年踩过的一些非比寻常的坑](https://toutiao.io/k/95yxept) ![](assets/new.png)  
-- [2021-03-07-推荐-面试官问：在读多写少的情况下，如果优化-MySQL-的数据查询方案](https://toutiao.io/k/kvgofut) ![](assets/new.png)  
-- [2021-03-07-推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1) ![](assets/new.png)  
-- [2021-03-07-推荐-Linux-内存管理](https://toutiao.io/k/h2vf9va) ![](assets/new.png)  
-- [2021-03-07-推荐-Java-高并发编程基础之-AQS](https://toutiao.io/k/6s1vey3) ![](assets/new.png)  
-- [2021-03-07-推荐-几年前，我撸了一套-RabbitMQ-的客户端](https://toutiao.io/k/7sdt779) ![](assets/new.png)  
+- [2021-03-07-推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts) ![](assets/new.png)  
+- [2021-03-07-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) ![](assets/new.png)  
 - [2021-03-07-推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1) ![](assets/new.png)  
+- [2021-03-07-推荐-看完这篇文章，别再说不会-Redis-的高级特性了](https://toutiao.io/k/xl63gz1) ![](assets/new.png)  
+- [2021-03-07-推荐-互联网架构演进之路](https://toutiao.io/k/6w82jhc) ![](assets/new.png)  
+- [2021-03-07-推荐-Java-实现大文件多线程下载，提速-30-倍！想学？我教你啊](https://toutiao.io/k/jvd3wnb) ![](assets/new.png)  
+- [2021-03-07-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

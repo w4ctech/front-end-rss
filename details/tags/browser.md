@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-07 05:41:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 05:50:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,14 +30,6 @@
 - [2021-03-02-前端拓展：如何开发一个-Chrome-插件？](https://www.ershicimi.com/p/e21959f7f8c8c34ceb31238d4fff0084) 
 - [2021-02-21-前端-Code-Review-的最佳实践方案](https://www.ershicimi.com/p/8f4c1fb010cc20a0ff64f60686f02d5b) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
@@ -48,6 +40,7 @@
 - [2021-03-07-chrome-浏览器的历史记录不小心清空了，想找回以前的某个记录，有办法吗？当时谷歌账号处于登录状态。如何把已经清空的谷歌浏览器的记录找回来？](https://www.v2ex.com/t/759235) 
 - [2021-03-07-有没有安全使用公共-WiFi-的方法](https://www.v2ex.com/t/759222) 
 - [2021-03-07-自己手撸了一个网络验证和示例程序，求给点安全方面的指导](https://www.v2ex.com/t/759221) 
+- [2021-03-07-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-07-思科发布了3条有关ACI和NS-OX安全漏洞的严重警告](https://sec.thief.one/article_content?a_id=d32c46ea42a4fa8d4560ad4d9a71d367) 
 - [2021-03-06-在Z|东呈、木链高薪招贤;10年+安全经验求职IT/安全总监](https://sec.thief.one/article_content?a_id=18bc0c4737df2a87bf23ba376bbd970e) 
 - [2021-03-06-GlobeImposter勒索热度不减,改头换面再出5.1变种](https://sec.thief.one/article_content?a_id=7f4f5e5dc0a9db1903d25ff702e5e60f) 

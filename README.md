@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-07 08:36:44，:rocket: 更新条数: +4351， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-07 08:45:51，:rocket: 更新条数: +4351， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,7 @@
 </summary>
 
 
+- [2021-03-07-转岗一年，发现自己还是做开发比较开心并且擅长，新岗位虽然过去一年做的也不错，但是自己无法从工作中获得一点愉悦的反馈。](https://www.v2ex.com/t/759316) ![](assets/new.png)  
 - [2021-03-07-有没有程序员转技术支持岗位的，？](https://www.v2ex.com/t/759315) ![](assets/new.png)  
 - [2021-03-07-因换工作转租-16-号线永丰南永旺家园-2-区一件主卧,离地铁-5-分钟距离](https://www.v2ex.com/t/759314) ![](assets/new.png)  
 - [2021-03-07-用-wifi-发射硬盘里的内容，手机连-wifi-访问](https://www.v2ex.com/t/759313) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-03-07-大家有遗愿清单吗？](https://www.v2ex.com/t/759296) ![](assets/new.png)  
 - [2021-03-07-各位大佬，求台式组装机推荐](https://www.v2ex.com/t/759295) ![](assets/new.png)  
 - [2021-03-07-工作遇到迷茫了，求各位大佬指点](https://www.v2ex.com/t/759292) ![](assets/new.png)  
-- [2021-03-07-vue-cli4.5-及以上版本提供了对-vue3-的支持，那像我这种还在用-vue2.6-的，是不是选择-vue-cli4.4.6-比较好？](https://www.v2ex.com/t/759288) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-03-07-「蚂蚁呀哈哈」说火就火了，说下架就下架了](https://toutiao.io/k/4p14o1p) ![](assets/new.png)  
 - [2021-03-07-Webpack-基石-tapable-揭秘](https://toutiao.io/k/cpvgtw6) ![](assets/new.png)  
 - [2021-03-07-Testin-云测总裁徐琨：创业必须要创造出肉眼可见的价值](https://toutiao.io/k/txx29jh) ![](assets/new.png)  
-- [2021-03-07-推荐-Linux-内存管理](https://toutiao.io/k/h2vf9va) ![](assets/new.png)  
-- [2021-03-07-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) ![](assets/new.png)  
-- [2021-03-07-推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8) ![](assets/new.png)  
-- [2021-03-07-推荐-生产力至少提升-5-倍，大厂火拼的低代码平台究竟还有哪些坑？](https://toutiao.io/k/ipuno05) ![](assets/new.png)  
-- [2021-03-07-推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1) ![](assets/new.png)  
-- [2021-03-07-推荐-一次-MySQL-线上死锁分析实战](https://toutiao.io/k/pys6jzz) ![](assets/new.png)  
+- [2021-03-07-推荐-最新互联网大厂职位薪资，快来对号入座吧](https://toutiao.io/k/jpow46x) ![](assets/new.png)  
 - [2021-03-07-推荐-著名的-Java-并发编程大师都这么说了，你还不知道伪共享么](https://toutiao.io/k/3q7ujrr) ![](assets/new.png)  
-- [2021-03-07-推荐-互联网架构演进之路](https://toutiao.io/k/6w82jhc) ![](assets/new.png)  
-- [2021-03-07-推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts) ![](assets/new.png)  
-- [2021-03-07-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) ![](assets/new.png)  
+- [2021-03-07-推荐-看完这篇你一定能掌握-Linux](https://toutiao.io/k/ycdmy3y) ![](assets/new.png)  
+- [2021-03-07-推荐-帮助阅读源码的-8-个技巧](https://toutiao.io/k/9v93x32) ![](assets/new.png)  
+- [2021-03-07-推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1) ![](assets/new.png)  
+- [2021-03-07-推荐-生产力至少提升-5-倍，大厂火拼的低代码平台究竟还有哪些坑？](https://toutiao.io/k/ipuno05) ![](assets/new.png)  
+- [2021-03-07-推荐-​程序员划水指南](https://toutiao.io/k/gheevc3) ![](assets/new.png)  
+- [2021-03-07-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) ![](assets/new.png)  
+- [2021-03-07-推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1) ![](assets/new.png)  
+- [2021-03-07-推荐-看完这篇文章，别再说不会-Redis-的高级特性了](https://toutiao.io/k/xl63gz1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

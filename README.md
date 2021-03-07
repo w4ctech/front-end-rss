@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-07 07:05:25，:rocket: 更新条数: +4349， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-07 07:31:10，:rocket: 更新条数: +4348， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -839,6 +839,9 @@
 </summary>
 
 
+- [2021-03-07-如何通过分解和增量更改将单体迁移到微服务？](https://www.ershicimi.com/p/028b5c8fb177755fa7f249e3bca69bd2) ![](assets/new.png)  
+- [2021-03-07-技术人如何无障碍阅读官方文档？](https://www.ershicimi.com/p/5f92c99fcb36a3149485ff47c1619850) ![](assets/new.png)  
+- [2021-03-07-量子机器学习-：IT-领域的下一件大事](https://www.ershicimi.com/p/614047c1f864f47a98528f2e76fd6e02) ![](assets/new.png)  
 - [2021-03-07-大手笔！中芯国际狂砸78亿买光刻机](https://www.ershicimi.com/p/488e840ba0e6b62c0a60d945998e1de6) ![](assets/new.png)  
 - [2021-03-06-腾讯前员工因违反竞业协议赔偿近百万；中国居民人均资产36万元；拼多多日活首超淘宝；网络表情已成为“呈](https://www.ershicimi.com/p/2b01c3d4f5a84e6320b0e34b8f28f21a) ![](assets/new.png)  
 - [2021-03-06-2021-年-Istio-大型“入坑”指南](https://www.ershicimi.com/p/87f98aa84f567eda439a41a831bbb7cc) ![](assets/new.png)  
@@ -856,9 +859,6 @@
 - [2021-03-04-配置语言的黄金时代](https://www.ershicimi.com/p/d85b4e124e6fdcb4ab33e70d6fa33204) ![](assets/new.png)  
 - [2021-03-03-水货CTO入职不到半年犯下低级错误，将公司拖入无底深渊](https://www.ershicimi.com/p/200fc64f6eb2545f51fa24b9f02b2f11) ![](assets/new.png)  
 - [2021-03-03-拥抱-Golang-和云原生的日志系统实践](https://www.ershicimi.com/p/5267e2e836925b76c0d968f919c64b85) ![](assets/new.png)  
-- [2021-03-03-带你看全新的-TGO-鲲鹏会-2021-年度共创伙伴计划！](https://www.ershicimi.com/p/db6ce8ca5b0153aff08326780e87f46d) ![](assets/new.png)  
-- [2021-03-03-“网络协议，我明明学过的呀？”-｜-极客时间](https://www.ershicimi.com/p/0bb86135d117547b8df8cb26d4cdb3eb) ![](assets/new.png)  
-- [2021-03-03-成功开发了一个SaaS项目，技术栈是这样的](https://www.ershicimi.com/p/d9787d5bff605a86ce71b2e21c27d046) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-03-07-各位大佬，求台式组装机推荐](https://www.v2ex.com/t/759295) ![](assets/new.png)  
+- [2021-03-07-工作遇到迷茫了，求各位大佬指点](https://www.v2ex.com/t/759292) ![](assets/new.png)  
 - [2021-03-07-vue-cli4.5-及以上版本提供了对-vue3-的支持，那像我这种还在用-vue2.6-的，是不是选择-vue-cli4.4.6-比较好？](https://www.v2ex.com/t/759288) ![](assets/new.png)  
 - [2021-03-07-现在有-AI-智能接听回复的安卓系统，应该是-MIUI-的最好吧？大家来讨论一下~~~](https://www.v2ex.com/t/759287) ![](assets/new.png)  
 - [2021-03-07-小白求教，怎么通过一个视图函数，返回多个应用-app-里的模型类信息](https://www.v2ex.com/t/759286) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-03-07-实习-微软亚洲研究院-全球网络实时数据采集平台-Web-前端实习生](https://www.v2ex.com/t/759269) ![](assets/new.png)  
 - [2021-03-07-请问在-13-站有没有靠谱的电子琴入门教程?](https://www.v2ex.com/t/759268) ![](assets/new.png)  
 - [2021-03-07-请教关于-lvm-的疑问](https://www.v2ex.com/t/759267) ![](assets/new.png)  
-- [2021-03-07-迫于父母身体经常腰疼，腿疼，牙龈疼痛，吃了一些普通的钙片没多大见效，求-v-友推荐推荐](https://www.v2ex.com/t/759266) ![](assets/new.png)  
-- [2021-03-07-iPhone-有什么理由禁止用户自行安装-app？](https://www.v2ex.com/t/759265) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-03-07-「蚂蚁呀哈哈」说火就火了，说下架就下架了](https://toutiao.io/k/4p14o1p) ![](assets/new.png)  
 - [2021-03-07-Webpack-基石-tapable-揭秘](https://toutiao.io/k/cpvgtw6) ![](assets/new.png)  
 - [2021-03-07-Testin-云测总裁徐琨：创业必须要创造出肉眼可见的价值](https://toutiao.io/k/txx29jh) ![](assets/new.png)  
-- [2021-03-07-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) ![](assets/new.png)  
-- [2021-03-07-推荐-互联网架构演进之路](https://toutiao.io/k/6w82jhc) ![](assets/new.png)  
-- [2021-03-07-推荐-Java-实现大文件多线程下载，提速-30-倍！想学？我教你啊](https://toutiao.io/k/jvd3wnb) ![](assets/new.png)  
 - [2021-03-07-推荐-一次-MySQL-线上死锁分析实战](https://toutiao.io/k/pys6jzz) ![](assets/new.png)  
+- [2021-03-07-推荐-​程序员划水指南](https://toutiao.io/k/gheevc3) ![](assets/new.png)  
+- [2021-03-07-推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1) ![](assets/new.png)  
 - [2021-03-07-推荐-看完这篇你一定能掌握-Linux](https://toutiao.io/k/ycdmy3y) ![](assets/new.png)  
-- [2021-03-07-推荐-我用-Kafka-两年踩过的一些非比寻常的坑](https://toutiao.io/k/95yxept) ![](assets/new.png)  
 - [2021-03-07-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) ![](assets/new.png)  
-- [2021-03-07-推荐-著名的-Java-并发编程大师都这么说了，你还不知道伪共享么](https://toutiao.io/k/3q7ujrr) ![](assets/new.png)  
-- [2021-03-07-推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8) ![](assets/new.png)  
-- [2021-03-07-推荐-条分缕析-Raft-算法（续）：日志压缩和性能优化](https://toutiao.io/k/sfxw3o1) ![](assets/new.png)  
+- [2021-03-07-推荐-Linux-内存管理](https://toutiao.io/k/h2vf9va) ![](assets/new.png)  
+- [2021-03-07-推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts) ![](assets/new.png)  
+- [2021-03-07-推荐-副业刚需：在-GitHub-上也能年入百万？](https://toutiao.io/k/r9tqaw3) ![](assets/new.png)  
+- [2021-03-07-推荐-Java-实现大文件多线程下载，提速-30-倍！想学？我教你啊](https://toutiao.io/k/jvd3wnb) ![](assets/new.png)  
+- [2021-03-07-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

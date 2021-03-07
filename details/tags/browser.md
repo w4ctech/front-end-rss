@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-07 00:08:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 00:18:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -47,6 +47,7 @@
 - [2021-03-06-最近-Chrome-不支持打开本地-html-文件翻译了，各位大佬有什么解决方法吗？](https://www.v2ex.com/t/759192) 
 - [2021-03-06-翻译：《实用的-Python-编程》04_00_Overview](https://www.v2ex.com/t/759164) 
 - [2021-03-07-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
+- [2021-03-07-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-06-在Z|东呈、木链高薪招贤;10年+安全经验求职IT/安全总监](https://sec.thief.one/article_content?a_id=18bc0c4737df2a87bf23ba376bbd970e) 
 - [2021-03-06-GlobeImposter勒索热度不减,改头换面再出5.1变种](https://sec.thief.one/article_content?a_id=7f4f5e5dc0a9db1903d25ff702e5e60f) 
 - [2021-03-06-要素市场化配置下的数据安全挑战及应对策略](https://sec.thief.one/article_content?a_id=f0b5cdb28f3330343ab0268ec9ccdc26) 
@@ -69,5 +70,3 @@
 - [2021-03-04-Teaclave-0.2.0-发布:让隐私安全计算更简单](https://sec.thief.one/article_content?a_id=30f909a59943a6dbaa60c8bcb63d37ff) 
 - [2021-03-04-农业4.0的网络安全挑战](https://sec.thief.one/article_content?a_id=67a8d14171ef6dd55d497379667a00e6) 
 - [2021-03-04-网络安全攻防:Linux系统安全之常用安全策略](https://sec.thief.one/article_content?a_id=64e93820047572182f7733f8a9e4dc31) 
-- [2021-03-03-【安全圈】黑客曝料:因空调故障-特斯拉正偷偷“召回”Model-3/Y](https://sec.thief.one/article_content?a_id=0910950d77c5cc910cf2f305da426cc4) 
-- [2021-03-03-＂黑客＂一词被污名化了,安全大佬为“白帽子黑客”发声](https://sec.thief.one/article_content?a_id=da8975cd76c5980a027ac133a53594e0) 

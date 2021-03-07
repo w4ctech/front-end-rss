@@ -16895,7 +16895,18 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "四川｜新增确诊 7 例  无症状感染者 1 例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKjHlsKNJeXPe9yBgjutW210307&isfromapp=1",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "全国｜新增确诊病例 13 例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuHGof3d1pgBEQyC9h9Q3210307&isfromapp=1",
+        "date": "2021-03-07"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",
@@ -18417,7 +18428,108 @@
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/10108",
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
-    "items": []
+    "items": [
+      {
+        "title": "这是我面试42场拿下微软、蚂蚁、头条offer的方法论",
+        "link": "https://www.ershicimi.com/p/75473e455defccd594bb33c47b88657d",
+        "date": "2021-03-06"
+      },
+      {
+        "title": "28岁华为员工工资表曝光，牛逼的人注定会牛逼",
+        "link": "https://www.ershicimi.com/p/6ae69cd2df95bfc3c81e69132268e22e",
+        "date": "2021-03-05"
+      },
+      {
+        "title": "为什么要用 setTimeout 模拟 setInterval ？",
+        "link": "https://www.ershicimi.com/p/6e460143e6e3ca01762cb74d25d2e415",
+        "date": "2021-03-05"
+      },
+      {
+        "title": "一份开源的编码规范：代码整洁的 JavaScript",
+        "link": "https://www.ershicimi.com/p/4102b1b8b708dae810b00afddf4c5798",
+        "date": "2021-03-05"
+      },
+      {
+        "title": "React17源码深入解析，进阶必备",
+        "link": "https://www.ershicimi.com/p/e3f905af7ede28aaf57a4ebe8331658b",
+        "date": "2021-03-04"
+      },
+      {
+        "title": "Nodejs 14 大版本中新增特性总结",
+        "link": "https://www.ershicimi.com/p/52e1dc265f4573ea02ef7193e8530d8a",
+        "date": "2021-03-04"
+      },
+      {
+        "title": "接到“网站动态换主题”的需求，我是如何踩坑的",
+        "link": "https://www.ershicimi.com/p/6caeac815cf94819800f224fb8624475",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "为何在 JavaScript 中使用顶层 await？",
+        "link": "https://www.ershicimi.com/p/4b32953b845cd6f147332d6a7bde3d37",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "开发中经常遇到的JavaScript问题整理(超实用)",
+        "link": "https://www.ershicimi.com/p/aea9e1f76393d5abdeb99b64f95f429d",
+        "date": "2021-03-02"
+      },
+      {
+        "title": "Node.js + typescript 写一个命令批处理辅助工具",
+        "link": "https://www.ershicimi.com/p/d49774346cebe9b7770e5ce88c3e8e6e",
+        "date": "2021-03-02"
+      },
+      {
+        "title": "别再用 Webpack 打包了，试试更快的 Vite！",
+        "link": "https://www.ershicimi.com/p/b66c6d8564d7cdfd8c5f39ed47095a7c",
+        "date": "2021-03-01"
+      },
+      {
+        "title": "2021 阿里字节快手面经 & 个人成长经验分享",
+        "link": "https://www.ershicimi.com/p/74b2da6f000c053b8a26379e558bea25",
+        "date": "2021-03-01"
+      },
+      {
+        "title": "中高级前端须注意的40条移动端H5坑位指南 | 网易三年实践",
+        "link": "https://www.ershicimi.com/p/dd62feb194190a46e689795f3512d55f",
+        "date": "2021-02-28"
+      },
+      {
+        "title": "Github 4 万 Star！最全面的 Node.js 资源汇总推荐",
+        "link": "https://www.ershicimi.com/p/03abfbffae7152d2124087e2253e5889",
+        "date": "2021-02-26"
+      },
+      {
+        "title": "在 Node.js 中使用诊断报告快速追踪问题",
+        "link": "https://www.ershicimi.com/p/b240f665df773c483332e0446fa83818",
+        "date": "2021-02-26"
+      },
+      {
+        "title": "限时福利 | 零基础学126节Python仅限今日手慢无",
+        "link": "https://www.ershicimi.com/p/4a9d425c8d35495228a5920c1d40aed6",
+        "date": "2021-02-25"
+      },
+      {
+        "title": "字节跳动最爱考的前端面试题：JavaScript 基础",
+        "link": "https://www.ershicimi.com/p/571d3092db5e48339cfd8fc02939746c",
+        "date": "2021-02-25"
+      },
+      {
+        "title": "字节跳动2021前端技术岗发布+最新内部面试题",
+        "link": "https://www.ershicimi.com/p/3893e36315a61f1ba3a519c2027a7a3d",
+        "date": "2021-02-24"
+      },
+      {
+        "title": "一套标准的前端代码工作流",
+        "link": "https://www.ershicimi.com/p/70670f00fc5e0ce2705b925160b40ef6",
+        "date": "2021-02-24"
+      },
+      {
+        "title": "使用 Typescript 的一些注意事项(回顾总结)",
+        "link": "https://www.ershicimi.com/p/5e9753f89592e20a3b4fa2f7b8e6626f",
+        "date": "2021-02-23"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/10545",
@@ -21089,7 +21201,108 @@
     "rss": "https://front-rss.herokuapp.com/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "谷歌最支持的 Android 开发架构指南 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14194&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEQBSZ-aCpxI_S1oFt54D3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "在应用开发中，我为什么选择 Flutter 而不是 React Native ？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14193&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO5Je72UbAlygTsNZSuzUkQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "Android 开发中那些无中生有的事 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14192&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCWSv615Qkh3TDAXSumP7cQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "是的，入职中软一个月（外包华为）就离职了！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14191&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHes3zxg6CFc6xpnRMsbC8A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "快速实现微信图片裁剪功能 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14190&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7miVWEBhvr17Okx4T14saQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "这一个插件，玩爆知乎和思否 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14189&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1n_xjKgPW3tJ-rvnKUAD-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "超全！常用的 70 个数据分析网址 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14188&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEQvnz7GiRzOLJ10Ua3cimg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "华为提出十大数学挑战！解出一个就是年薪百万！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14187&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyYYM-Hqb6aNJze9BG26Vkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "互联网工作 常用名词及基础知识扫盲 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14186&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjTw8WwLW4SQu0PmH8lVv2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "表情包 AI 生成器：识别人脸情绪，自动配文字 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14185&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJhVS1GxUnzXyU6_obBNz5A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "真实案例详述：丢手机太危险了 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14184&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ftt-3z7AlCNV-9P9XiNTktw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "成为一流软件开发者的 34 条建议 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14183&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQqNLaehHTtC6lm8IQ2SWGQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "优秀，起诉网站，可尼玛太秀了 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14182&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBWSQVs3apxAJYrKT2QWqnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "Win 10 隐藏功能：手机离开，系统自动锁定 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14181&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKdavJUHXl9cRoJKTREFOAA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "程序员在家都逛哪些网站？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14180&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fl2d1LutlxbjCTBfUhqAahg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "最容易被盗的密码，你中了么？ (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14179&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F354496951%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "小步发布、验收测试和完整团队 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14178&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483761%26amp%3Bidx%3D1%26amp%3Bsn%3Dce50fa8da6b7c00de46a794394fe17a6%26amp%3Bchksm%3De903476ade74ce7c4fe186ca6657ae728453fb5ac4cc6f477ad66491b6cfdc442b682bcfc70d%26amp%3Btoken%3D514253440%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "让我们再聊聊TDD 续-正其思规其行 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14177&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftalk-about-tdd-again-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "有了产品负责人，还需要业务分析师吗？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14176&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproduct-owner-or-business-analyst%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "敏捷业务实践之计划游戏 (teobler.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14175&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210201-agile-business-practice-planning-games%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-07"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
@@ -21147,53 +21360,8 @@
         "date": "2021-03-07"
       },
       {
-        "title": "[推荐] 面试官问：在读多写少的情况下，如果优化 MySQL 的数据查询方案",
-        "link": "https://toutiao.io/k/kvgofut",
-        "date": "2021-03-07"
-      },
-      {
-        "title": "[推荐] 看完这篇文章，别再说不会 Redis 的高级特性了",
-        "link": "https://toutiao.io/k/xl63gz1",
-        "date": "2021-03-07"
-      },
-      {
-        "title": "[推荐] 面试 Redis 没底？这 40 道面试题让你不再慌（附答案）",
-        "link": "https://toutiao.io/k/0b1v2v6",
-        "date": "2021-03-07"
-      },
-      {
-        "title": "[推荐] 一次 MySQL 线上死锁分析实战",
-        "link": "https://toutiao.io/k/pys6jzz",
-        "date": "2021-03-07"
-      },
-      {
-        "title": "[推荐] Redis 为什么变慢了？一文讲透如何排查 Redis 性能问题",
-        "link": "https://toutiao.io/k/90116j8",
-        "date": "2021-03-07"
-      },
-      {
-        "title": "[推荐] Java 实现大文件多线程下载，提速 30 倍！想学？我教你啊",
-        "link": "https://toutiao.io/k/jvd3wnb",
-        "date": "2021-03-07"
-      },
-      {
-        "title": "[推荐] 做一个很出色的程序员",
-        "link": "https://toutiao.io/k/g6xlwp2",
-        "date": "2021-03-07"
-      },
-      {
-        "title": "[推荐] Redis 专题：深入解读哨兵模式",
-        "link": "https://toutiao.io/k/tm4wyb0",
-        "date": "2021-03-07"
-      },
-      {
-        "title": "[推荐] Web 安全头号大敌 XSS 漏洞解决最佳实践",
-        "link": "https://toutiao.io/k/jfopywh",
-        "date": "2021-03-07"
-      },
-      {
-        "title": "[推荐] 互联网架构演进之路",
-        "link": "https://toutiao.io/k/6w82jhc",
+        "title": "[推荐] 流量复制方案对比：TCPCopy vs Goreplay",
+        "link": "https://toutiao.io/k/cpf8p4q",
         "date": "2021-03-07"
       },
       {
@@ -21202,13 +21370,13 @@
         "date": "2021-03-07"
       },
       {
-        "title": "[推荐] 我用 Kafka 两年踩过的一些非比寻常的坑",
-        "link": "https://toutiao.io/k/95yxept",
+        "title": "[推荐] Java 高并发编程基础之 AQS",
+        "link": "https://toutiao.io/k/6s1vey3",
         "date": "2021-03-07"
       },
       {
-        "title": "[推荐] 帮助阅读源码的 8 个技巧",
-        "link": "https://toutiao.io/k/9v93x32",
+        "title": "[推荐] Redis 专题：深入解读哨兵模式",
+        "link": "https://toutiao.io/k/tm4wyb0",
         "date": "2021-03-07"
       },
       {
@@ -21217,8 +21385,53 @@
         "date": "2021-03-07"
       },
       {
-        "title": "[推荐] 最新互联网大厂职位薪资，快来对号入座吧",
-        "link": "https://toutiao.io/k/jpow46x",
+        "title": "[推荐] Linux 内存管理",
+        "link": "https://toutiao.io/k/h2vf9va",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "[推荐] Redis 为什么变慢了？一文讲透如何排查 Redis 性能问题",
+        "link": "https://toutiao.io/k/90116j8",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "[推荐] 副业刚需：在 GitHub 上也能年入百万？",
+        "link": "https://toutiao.io/k/r9tqaw3",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "[推荐] 生产力至少提升 5 倍，大厂火拼的低代码平台究竟还有哪些坑？",
+        "link": "https://toutiao.io/k/ipuno05",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "[推荐] 著名的 Java 并发编程大师都这么说了，你还不知道伪共享么",
+        "link": "https://toutiao.io/k/3q7ujrr",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "[推荐] Web 安全头号大敌 XSS 漏洞解决最佳实践",
+        "link": "https://toutiao.io/k/jfopywh",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "[推荐] 做一个很出色的程序员",
+        "link": "https://toutiao.io/k/g6xlwp2",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "[推荐] HTTP header 中的黑科技",
+        "link": "https://toutiao.io/k/ep472ts",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "[推荐] Java 实现大文件多线程下载，提速 30 倍！想学？我教你啊",
+        "link": "https://toutiao.io/k/jvd3wnb",
+        "date": "2021-03-07"
+      },
+      {
+        "title": "[推荐] 看完这篇你一定能掌握 Linux",
+        "link": "https://toutiao.io/k/ycdmy3y",
         "date": "2021-03-07"
       }
     ]

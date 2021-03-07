@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-07 02:43:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 02:52:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,6 +44,8 @@
 - [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) 
 - [2021-01-22-Chrome-88-稳定版现已发布，不再支持-Flash](https://www.ershicimi.com/p/1a0a27014262ee33b6c4d63dbceeba9e) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-03-07-有没有安全使用公共-WiFi-的方法](https://www.v2ex.com/t/759222) 
+- [2021-03-07-自己手撸了一个网络验证和示例程序，求给点安全方面的指导](https://www.v2ex.com/t/759221) 
 - [2021-03-06-最近-Chrome-不支持打开本地-html-文件翻译了，各位大佬有什么解决方法吗？](https://www.v2ex.com/t/759192) 
 - [2021-03-07-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-06-在Z|东呈、木链高薪招贤;10年+安全经验求职IT/安全总监](https://sec.thief.one/article_content?a_id=18bc0c4737df2a87bf23ba376bbd970e) 

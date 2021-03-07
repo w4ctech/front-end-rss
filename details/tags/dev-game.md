@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-07 08:55:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 09:04:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,6 +28,7 @@
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2021-03-04-字节游戏疯狂砸钱，头腾大战越打越烈](https://www.ershicimi.com/p/7c7b31191120a5871d13781edf50d70f) 
+- [2021-03-07-Three.js-添加纹理的问题求助.](https://www.v2ex.com/t/759320) 
 - [2021-03-07-Xbox-Series-S-对轻度游戏玩家太香了](https://www.v2ex.com/t/759281) 
 - [2021-03-07-M1-有啥-ios-游戏可以玩啊](https://www.v2ex.com/t/759273) 
 - [2021-03-07-敏捷业务实践之计划游戏-teobler.com](https://blogread.cn/news/go.php?idItem=14175&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210201-agile-business-practice-planning-games%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

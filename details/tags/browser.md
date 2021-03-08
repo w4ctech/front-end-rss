@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-08 10:08:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-08 10:39:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,6 +46,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-08-郑州-面试拧螺丝入职造火箭-高级-Linux-C-网络安全软件开发岗](https://www.v2ex.com/t/759689) 
 - [2021-03-08-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
+- [2021-03-08-【安全热点周报】第184期:Microsoft-Exchange组合漏洞无需验证和...](https://sec.thief.one/article_content?a_id=875385cf72a5a31cba9075cf0cffb1c5) 
 - [2021-03-08-网络安全巾帼力量](https://sec.thief.one/article_content?a_id=7389ac7c82cda9d31cafe27780d4f015) 
 - [2021-03-08-每日安全动态推送03-08](https://sec.thief.one/article_content?a_id=20bfb1ab074a5d89f3ae871055738141) 
 - [2021-03-08-X浏览器程凯:一个互联网犟人的故事](https://sec.thief.one/article_content?a_id=4b7ee0751fb59feec3a8ad9d61a77a86) 
@@ -69,6 +70,3 @@
 - [2021-03-05-【滴滴信息安全招聘】点击确认你的offer!](https://sec.thief.one/article_content?a_id=0c5a6546e180ab5c44c083a985e0baa0) 
 - [2021-03-05-新的Chrome-0day漏洞正被利用](https://sec.thief.one/article_content?a_id=051acf5572a2ce9fa881ac1ac468a64d) 
 - [2021-03-05-尬中尬?网络安全公司Qualys被勒索软件攻击](https://sec.thief.one/article_content?a_id=e39db487a9bfae0af4df256e28b39419) 
-- [2021-03-05-安全招聘汇总-|-第十一期](https://sec.thief.one/article_content?a_id=d714fd8d44f66424e23cc44379c2bfdc) 
-- [2021-03-04-网安新焦点|悬镜安全周幸:悬镜灵脉IAST平台测试POC](https://sec.thief.one/article_content?a_id=7d9244c21aae8717a0765a7e53114528) 
-- [2021-03-04-【安全圈】用户账户被劫持,微软披露价值50000美金的新漏洞](https://sec.thief.one/article_content?a_id=49955ab1d205fd683a5876cbe695c4b2) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-08 06:58:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-08 07:08:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -49,4 +49,3 @@
 - [2021-02-05-Vue面试必问虚拟dom和diff算法，一次解决](https://www.ershicimi.com/p/43f6b9c635ff3ccba8d875730609e156) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
-- [2021-03-08-有没有一种工具/框架可以让我自己用-vue-写博客主题，然后又可以在本地生成所有-html-文件](https://www.v2ex.com/t/759577) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-08 06:58:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-08 07:08:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -531,6 +531,7 @@
 - [【V2EX】内推-春招/实习-阿里巴巴-Java-/Web/移动端/算法-同城零售事业部](https://www.v2ex.com/t/759619)
 - [【V2EX】贴个简历，求职一份-Python-/Golang-的工作，已经有四年工作经验，有全栈能力，可写-Java-，坐标成都。](https://www.v2ex.com/t/759579)
 - [【开发者头条】推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1)
+- [【开发者头条】推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts)
 - [【安全热点】几幅图,拿下-HTTPS](https://sec.thief.one/article_content?a_id=f9a06c9ccb88cbb0f1929cac9c672dab)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

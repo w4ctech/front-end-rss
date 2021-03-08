@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-03-08 05:08:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-08 05:15:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-08-sureness-正式-GA-啦，比-shiro,spring-security-快几倍，面向-rest-api-的安全框架](https://www.v2ex.com/t/759565) 
+- [2021-03-08-低位取反](https://www.v2ex.com/t/759564) 
 - [2021-03-08-Edge-Chromium-存在观看-YouTube-视频时不能自动播放的-feature-?](https://www.v2ex.com/t/759562) 
 - [2021-03-08-翻译：《实用的-Python-编程》04_02_Inheritance](https://www.v2ex.com/t/759561) 
 - [2021-03-08-上海米哈游春季社招内推](https://www.v2ex.com/t/759560) 
@@ -44,6 +46,3 @@
 - [2021-03-08-南京-亚信安全前端有坑，可内推，-wx：-d2g2MjUwMzEwMg==](https://www.v2ex.com/t/759519) 
 - [2021-03-08-北京-前端-20K-30K-Moka-招聘前端攻城狮](https://www.v2ex.com/t/759518) 
 - [2021-03-08-Microsoft-Edge-的竖直标签有点鸡肋](https://www.v2ex.com/t/759516) 
-- [2021-03-08-联通-APP-越改越垃圾，想看个主副卡使用流量情况，都看不了](https://www.v2ex.com/t/759515) 
-- [2021-03-08-MX-Master-老是卡顿，怀疑是蓝牙干扰](https://www.v2ex.com/t/759514) 
-- [2021-03-08-最近北京房价行情如何?](https://www.v2ex.com/t/759513) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-08 05:08:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-08 05:15:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -30,9 +30,7 @@
 - [2021-02-23-360导航招聘高级前端开发工程师](https://www.ershicimi.com/p/48415f6edec7b3e9efe072b97cd5560c) 
 - [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668) 
-- [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-03-02-今天来了一位妹纸面试，我问她：线程池中多余的线程是如何回收的？她有点懵~](https://www.ershicimi.com/p/57d8180acc6ee344fa23f6bb2c7236d0) 
-- [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
 - [2021-03-08-阿里巴巴-菜鸟网络-仓储技术部-实习生招聘内推，师兄师姐一对一解答-go!-go!-go!](https://www.v2ex.com/t/759549) 
 - [2021-03-08-北京-前端-20K-30K-Moka-招聘前端攻城狮](https://www.v2ex.com/t/759518) 
-- [2021-03-04-招聘-|-默安科技](https://sec.thief.one/article_content?a_id=daba73dda669a193acb09a50ef412d8d) 
+- [2021-03-08-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) 

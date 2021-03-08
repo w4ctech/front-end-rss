@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-08 02:12:20，:rocket: 更新条数: +4355， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-08 02:44:04，:rocket: 更新条数: +4359， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,26 +1016,26 @@
 </summary>
 
 
+- [2021-03-08-北京/杭州-前端-蚂蚁集团-OceanBase-十年磨一剑商业化铺开诚聘多名前端同事](https://www.v2ex.com/t/759492) ![](assets/new.png)  
+- [2021-03-08-求助没做过高并发真的进不了-BAT-么](https://www.v2ex.com/t/759491) ![](assets/new.png)  
+- [2021-03-08-谁需要阿里云-ACP-证书的，-3-人-3-证-可自由挂靠！](https://www.v2ex.com/t/759490) ![](assets/new.png)  
+- [2021-03-08-基特哈勃的-README.md-上的这个信息栏是怎么生成的？](https://www.v2ex.com/t/759489) ![](assets/new.png)  
+- [2021-03-08-做了一款笔记类-APP，希望大家能给点建议，支持-iPhone-、-iPad-和-Mac-电脑！](https://www.v2ex.com/t/759488) ![](assets/new.png)  
+- [2021-03-08-Youtube-premium-美区咖喱车-40/Year](https://www.v2ex.com/t/759487) ![](assets/new.png)  
+- [2021-03-08-mbp-wifi-断流-大家是用什么方法成功的？？](https://www.v2ex.com/t/759485) ![](assets/new.png)  
+- [2021-03-08-蚂蚁集团区块链平台部实习招聘](https://www.v2ex.com/t/759484) ![](assets/new.png)  
+- [2021-03-08-《国土安全》沉默粉丝的再度唤醒](https://www.v2ex.com/t/759483) ![](assets/new.png)  
+- [2021-03-08-百度网盘限速](https://www.v2ex.com/t/759481) ![](assets/new.png)  
+- [2021-03-08-如何修改修改-hosts-访问-cloudflare，-cloudflare-老是访问不了？](https://www.v2ex.com/t/759480) ![](assets/new.png)  
+- [2021-03-08-继续说-N1-做旁路由端口转发的俩坑](https://www.v2ex.com/t/759479) ![](assets/new.png)  
+- [2021-03-08-想请教大家一个有关-ddos-防御的问题](https://www.v2ex.com/t/759478) ![](assets/new.png)  
+- [2021-03-08-美区账号如何搞](https://www.v2ex.com/t/759477) ![](assets/new.png)  
+- [2021-03-08-大家好，深圳有没有前端或者-UI-正在找坑的呢？](https://www.v2ex.com/t/759475) ![](assets/new.png)  
+- [2021-03-08-闲下来想学一门别的编程语言，-go-还是-Java](https://www.v2ex.com/t/759474) ![](assets/new.png)  
 - [2021-03-08-坐标武汉，招聘软件测试，周末双休，朝九晚六，欢迎大家投简历，](https://www.v2ex.com/t/759473) ![](assets/new.png)  
 - [2021-03-08-airpods-pro-维修问题](https://www.v2ex.com/t/759471) ![](assets/new.png)  
 - [2021-03-08-做了一年多的网站终于上线了，看看可还行？](https://www.v2ex.com/t/759469) ![](assets/new.png)  
 - [2021-03-08-字节启动春招狂揽-7000+人，一面竟然就遇到了原题…](https://www.v2ex.com/t/759468) ![](assets/new.png)  
-- [2021-03-08-新能源车，是否能安心在车内睡觉？](https://www.v2ex.com/t/759466) ![](assets/new.png)  
-- [2021-03-08-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/759465) ![](assets/new.png)  
-- [2021-03-08-淘宝山寨官方保护壳推荐](https://www.v2ex.com/t/759464) ![](assets/new.png)  
-- [2021-03-08-杭州米加健康集团招聘，-无-996](https://www.v2ex.com/t/759463) ![](assets/new.png)  
-- [2021-03-08-社招深圳南山-富途证券-互联网券商](https://www.v2ex.com/t/759461) ![](assets/new.png)  
-- [2021-03-08-请教一个正则的正确写法？](https://www.v2ex.com/t/759460) ![](assets/new.png)  
-- [2021-03-08-安卓端请求接口证书报错问题](https://www.v2ex.com/t/759457) ![](assets/new.png)  
-- [2021-03-08-程序员老鸟崩溃瞬间：-FLAG-新岗位上万，为啥没有我的坑?](https://www.v2ex.com/t/759456) ![](assets/new.png)  
-- [2021-03-08-翻译文档有什么「专业的工具」或者「实践」吗？](https://www.v2ex.com/t/759455) ![](assets/new.png)  
-- [2021-03-08-前端/Go//-Java-/安卓-深圳宝安，-团队靠谱-B+轮业务已盈利，泰国越南-TOP1](https://www.v2ex.com/t/759454) ![](assets/new.png)  
-- [2021-03-08-一号线共富新村房间转租](https://www.v2ex.com/t/759452) ![](assets/new.png)  
-- [2021-03-08-合租舍友不想交电费，群里收款假装看不见，怎么办](https://www.v2ex.com/t/759451) ![](assets/new.png)  
-- [2021-03-08-登陆用户的行为分析应该怎么做？](https://www.v2ex.com/t/759450) ![](assets/new.png)  
-- [2021-03-08-周末无聊做了个外卖领券小程序-欢迎体验](https://www.v2ex.com/t/759449) ![](assets/new.png)  
-- [2021-03-08-分享一个汽车机械类科普-youtuber：-11-磅小老虎](https://www.v2ex.com/t/759448) ![](assets/new.png)  
-- [2021-03-08-有做过导航站的朋友吗？请问下跳出率有多高？](https://www.v2ex.com/t/759446) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1081,23 +1081,23 @@
 - [2021-03-08-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
 - [2021-03-08-译-Offer-薪资不如预期？你或许需要薪酬谈判服务](https://toutiao.io/k/f7fdiw9) ![](assets/new.png)  
 - [2021-03-08-终于讲清楚了：深入理解-Java-应用程序中-final-关键字的各种使用场景](https://toutiao.io/k/febn4rp) ![](assets/new.png)  
-- [2021-03-08-不用代码趣讲-ZooKeeper-集群](https://toutiao.io/k/3j3kd2k) ![](assets/new.png)  
 - [2021-03-08-美团外卖特征平台的建设与实践](https://toutiao.io/k/zwp7jms) ![](assets/new.png)  
-- [2021-03-08-HBase-架构及原理](https://toutiao.io/k/8464zt2) ![](assets/new.png)  
+- [2021-03-08-不用代码趣讲-ZooKeeper-集群](https://toutiao.io/k/3j3kd2k) ![](assets/new.png)  
 - [2021-03-08-有赞-BI-平台设计及实现](https://toutiao.io/k/a595tmo) ![](assets/new.png)  
+- [2021-03-08-HBase-架构及原理](https://toutiao.io/k/8464zt2) ![](assets/new.png)  
 - [2021-03-08-一个开源的服务器框架，特别适用于开发小游戏](https://toutiao.io/k/lxa0q4p) ![](assets/new.png)  
 - [2021-03-08-一次完整的源码阅读过程](https://toutiao.io/k/2uja06c) ![](assets/new.png)  
 - [2021-03-08-​Python-如何仅用-5000-行代码，实现强大的-logging-模块？](https://toutiao.io/k/pev3zzj) ![](assets/new.png)  
 - [2021-03-08-Figma：跨平台-UI-设计工具](https://toutiao.io/k/tnz13qb) ![](assets/new.png)  
-- [2021-03-08-我花了-5-小时死磕这个俄罗斯套娃信封问题](https://toutiao.io/k/i4ij6n4) ![](assets/new.png)  
 - [2021-03-08-如何构建系统优化成本，携程出海云原生实践](https://toutiao.io/k/h6qcdyf) ![](assets/new.png)  
+- [2021-03-08-我花了-5-小时死磕这个俄罗斯套娃信封问题](https://toutiao.io/k/i4ij6n4) ![](assets/new.png)  
 - [2021-03-08-进行架构设计要了解的几种思维方式](https://toutiao.io/k/7twdtvt) ![](assets/new.png)  
-- [2021-03-08-推荐-互联网架构演进之路](https://toutiao.io/k/6w82jhc) ![](assets/new.png)  
-- [2021-03-08-推荐-著名的-Java-并发编程大师都这么说了，你还不知道伪共享么](https://toutiao.io/k/3q7ujrr) ![](assets/new.png)  
-- [2021-03-08-推荐-​程序员划水指南](https://toutiao.io/k/gheevc3) ![](assets/new.png)  
-- [2021-03-08-推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts) ![](assets/new.png)  
-- [2021-03-08-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) ![](assets/new.png)  
+- [2021-03-08-你的内存对齐了吗](https://toutiao.io/k/v9n8i3p) ![](assets/new.png)  
+- [2021-03-08-如何编写-C++-20-协程-Coroutines](https://toutiao.io/k/mz6tg81) ![](assets/new.png)  
 - [2021-03-08-推荐-Java-高并发编程基础之-AQS](https://toutiao.io/k/6s1vey3) ![](assets/new.png)  
+- [2021-03-08-推荐-帮助阅读源码的-8-个技巧](https://toutiao.io/k/9v93x32) ![](assets/new.png)  
+- [2021-03-08-推荐-最新互联网大厂职位薪资，快来对号入座吧](https://toutiao.io/k/jpow46x) ![](assets/new.png)  
+- [2021-03-08-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

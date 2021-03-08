@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-08 19:05:36，:rocket: 更新条数: +4337， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-08 19:22:14，:rocket: 更新条数: +4372， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
@@ -1016,6 +1016,7 @@
 </summary>
 
 
+- [2021-03-08-来分享下你们家里网络的设备和布线？](https://www.v2ex.com/t/759802) ![](assets/new.png)  
 - [2021-03-08-64kb-每秒，谁限了我？](https://www.v2ex.com/t/759799) ![](assets/new.png)  
 - [2021-03-08-origin-果然是最垃圾的-launcher](https://www.v2ex.com/t/759798) ![](assets/new.png)  
 - [2021-03-08-校园招聘-滴滴出行-2021-春季校园招聘内推](https://www.v2ex.com/t/759797) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-03-08-破解/etc/shadow-密码的最佳办法？](https://www.v2ex.com/t/759780) ![](assets/new.png)  
 - [2021-03-08-你是我一生中最爱的女人](https://www.v2ex.com/t/759779) ![](assets/new.png)  
 - [2021-03-08-Android10-的解锁-pin-码能否像-win10-那样不用再输入回车？](https://www.v2ex.com/t/759778) ![](assets/new.png)  
-- [2021-03-08-MrDoc-0.6.5-发布，开源的在线文档系统，类似语雀、GitBook……](https://www.v2ex.com/t/759777) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1078,6 +1078,26 @@
 </summary>
 
 
+- [2021-03-08-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
+- [2021-03-08-有赞-BI-平台设计及实现](https://toutiao.io/k/a595tmo) ![](assets/new.png)  
+- [2021-03-08-译-Offer-薪资不如预期？你或许需要薪酬谈判服务](https://toutiao.io/k/f7fdiw9) ![](assets/new.png)  
+- [2021-03-08-终于讲清楚了：深入理解-Java-应用程序中-final-关键字的各种使用场景](https://toutiao.io/k/febn4rp) ![](assets/new.png)  
+- [2021-03-08-不用代码趣讲-ZooKeeper-集群](https://toutiao.io/k/3j3kd2k) ![](assets/new.png)  
+- [2021-03-08-HBase-架构及原理](https://toutiao.io/k/8464zt2) ![](assets/new.png)  
+- [2021-03-08-美团外卖特征平台的建设与实践](https://toutiao.io/k/zwp7jms) ![](assets/new.png)  
+- [2021-03-08-一个开源的服务器框架，特别适用于开发小游戏](https://toutiao.io/k/lxa0q4p) ![](assets/new.png)  
+- [2021-03-08-一次完整的源码阅读过程](https://toutiao.io/k/2uja06c) ![](assets/new.png)  
+- [2021-03-08-​Python-如何仅用-5000-行代码，实现强大的-logging-模块？](https://toutiao.io/k/pev3zzj) ![](assets/new.png)  
+- [2021-03-08-Netty-源码解析：零拷贝机制与-ByteBuf](https://toutiao.io/k/ijrpjrx) ![](assets/new.png)  
+- [2021-03-08-Figma：跨平台-UI-设计工具](https://toutiao.io/k/tnz13qb) ![](assets/new.png)  
+- [2021-03-08-WinMerge：一个免费开源的文件对比神器](https://toutiao.io/k/7msedjb) ![](assets/new.png)  
+- [2021-03-08-进行架构设计要了解的几种思维方式](https://toutiao.io/k/7twdtvt) ![](assets/new.png)  
+- [2021-03-08-如何构建系统优化成本，携程出海云原生实践](https://toutiao.io/k/h6qcdyf) ![](assets/new.png)  
+- [2021-03-08-你的内存对齐了吗](https://toutiao.io/k/v9n8i3p) ![](assets/new.png)  
+- [2021-03-08-如何编写-C++-20-协程-Coroutines](https://toutiao.io/k/mz6tg81) ![](assets/new.png)  
+- [2021-03-08-入门-Serverless：简介与实践](https://toutiao.io/k/7p6qxks) ![](assets/new.png)  
+- [2021-03-08-我花了-5-小时死磕这个俄罗斯套娃信封问题](https://toutiao.io/k/i4ij6n4) ![](assets/new.png)  
+- [2021-03-08-在主动要求涨工资这事上，不要学我](https://toutiao.io/k/tqukert) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

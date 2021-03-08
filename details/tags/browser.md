@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-08 07:39:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-08 07:45:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,6 +36,7 @@
 - [2021-03-08-怎样安全地关闭老旧的-API？](https://www.ershicimi.com/p/2dbee48784961b8d13630e3fb066bc41) 
 - [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-03-08-怪事，-chrome-没法访问-github，-firefox-却没事](https://www.v2ex.com/t/759649) 
 - [2021-03-08-问一个缓存穿透的技术问题](https://www.v2ex.com/t/759644) 
 - [2021-03-08-golang-gin-如何在在返回数据之后就断开请求](https://www.v2ex.com/t/759632) 
 - [2021-03-08-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 

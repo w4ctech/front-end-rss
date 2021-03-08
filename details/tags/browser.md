@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-08 22:55:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-08 23:04:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,7 @@
 - [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-08-用-Vulkan-渲染写一个-Android-GPUImage](https://www.v2ex.com/t/759756) 
+- [2021-03-08-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-08-【安全热点周报】第184期:Microsoft-Exchange组合漏洞无需验证和...](https://sec.thief.one/article_content?a_id=875385cf72a5a31cba9075cf0cffb1c5) 
 - [2021-03-08-网络安全巾帼力量](https://sec.thief.one/article_content?a_id=7389ac7c82cda9d31cafe27780d4f015) 
 - [2021-03-08-每日安全动态推送03-08](https://sec.thief.one/article_content?a_id=20bfb1ab074a5d89f3ae871055738141) 

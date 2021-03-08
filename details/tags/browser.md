@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-08 08:09:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-08 08:38:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,8 +46,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-08-怪事，-chrome-没法访问-github，-firefox-却没事](https://www.v2ex.com/t/759649) 
 - [2021-03-08-问一个缓存穿透的技术问题](https://www.v2ex.com/t/759644) 
-- [2021-03-08-golang-gin-如何在在返回数据之后就断开请求](https://www.v2ex.com/t/759632) 
-- [2021-03-08-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-08-网络安全巾帼力量](https://sec.thief.one/article_content?a_id=7389ac7c82cda9d31cafe27780d4f015) 
 - [2021-03-08-每日安全动态推送03-08](https://sec.thief.one/article_content?a_id=20bfb1ab074a5d89f3ae871055738141) 
 - [2021-03-08-X浏览器程凯:一个互联网犟人的故事](https://sec.thief.one/article_content?a_id=4b7ee0751fb59feec3a8ad9d61a77a86) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-08 03:42:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-08 03:55:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -48,7 +48,6 @@
 - [2021-03-08-Microsoft-Edge-的竖直标签有点鸡肋](https://www.v2ex.com/t/759516) 
 - [2021-03-08-招聘-2021，小米安全“职”等你来](https://www.v2ex.com/t/759503) 
 - [2021-03-08-chrome-上有-SwitchyOmega，请问其他浏览器有类似的插件吗](https://www.v2ex.com/t/759497) 
-- [2021-03-08-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-07-思科发布了3条有关ACI和NS-OX安全漏洞的严重警告](https://sec.thief.one/article_content?a_id=d32c46ea42a4fa8d4560ad4d9a71d367) 
 - [2021-03-06-在Z|东呈、木链高薪招贤;10年+安全经验求职IT/安全总监](https://sec.thief.one/article_content?a_id=18bc0c4737df2a87bf23ba376bbd970e) 
 - [2021-03-06-GlobeImposter勒索热度不减,改头换面再出5.1变种](https://sec.thief.one/article_content?a_id=7f4f5e5dc0a9db1903d25ff702e5e60f) 

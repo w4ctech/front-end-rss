@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-08 03:42:30，:rocket: 更新条数: +4366， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-08 03:55:43，:rocket: 更新条数: +4363， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,13 @@
 </summary>
 
 
+- [2021-03-08-Material-Theme-UI-开始收费了，有啥比较牛批的替代品么](https://www.v2ex.com/t/759543) ![](assets/new.png)  
+- [2021-03-08-安卓上的开屏广告+自动跳转才是最烦人的](https://www.v2ex.com/t/759542) ![](assets/new.png)  
+- [2021-03-08-校招&社招作业帮智能技术实验室诚招-c++开发工程师](https://www.v2ex.com/t/759541) ![](assets/new.png)  
+- [2021-03-08-开源用-Go-写的一个天翼网盘的下载器（NAS-神器）](https://www.v2ex.com/t/759539) ![](assets/new.png)  
+- [2021-03-08-gpg-加密文件：一份加密文件，可以被不同的密码解密](https://www.v2ex.com/t/759538) ![](assets/new.png)  
+- [2021-03-08-摸鱼的来看个谜案](https://www.v2ex.com/t/759536) ![](assets/new.png)  
+- [2021-03-08-求推荐一款心率检测手表](https://www.v2ex.com/t/759535) ![](assets/new.png)  
 - [2021-03-08-作为程序员，写代码在你工作中的比重占了多少？](https://www.v2ex.com/t/759534) ![](assets/new.png)  
 - [2021-03-08-杭州-淘系前端-2022-春招实习生](https://www.v2ex.com/t/759533) ![](assets/new.png)  
 - [2021-03-08-生活-倒都是和开车有关的讨论](https://www.v2ex.com/t/759531) ![](assets/new.png)  
@@ -1029,13 +1036,6 @@
 - [2021-03-08-大家手中的手机，拍照好用么，我想买个拍照手机日常拍拍-vlog-之类得，求推荐](https://www.v2ex.com/t/759522) ![](assets/new.png)  
 - [2021-03-08-Java-集群服务不一致怎么处理](https://www.v2ex.com/t/759521) ![](assets/new.png)  
 - [2021-03-08-内推-杭州抖音-Android/iOS-开发-20-60K](https://www.v2ex.com/t/759520) ![](assets/new.png)  
-- [2021-03-08-南京-亚信安全前端有坑，可内推，-wx：-d2g2MjUwMzEwMg==](https://www.v2ex.com/t/759519) ![](assets/new.png)  
-- [2021-03-08-北京-前端-20K-30K-Moka-招聘前端攻城狮](https://www.v2ex.com/t/759518) ![](assets/new.png)  
-- [2021-03-08-Microsoft-Edge-的竖直标签有点鸡肋](https://www.v2ex.com/t/759516) ![](assets/new.png)  
-- [2021-03-08-联通-APP-越改越垃圾，想看个主副卡使用流量情况，都看不了](https://www.v2ex.com/t/759515) ![](assets/new.png)  
-- [2021-03-08-MX-Master-老是卡顿，怀疑是蓝牙干扰](https://www.v2ex.com/t/759514) ![](assets/new.png)  
-- [2021-03-08-最近北京房价行情如何?](https://www.v2ex.com/t/759513) ![](assets/new.png)  
-- [2021-03-08-说说墨案-InkPad-X-墨水屏阅读器、微信读书与多看读书](https://www.v2ex.com/t/759512) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,15 +1089,15 @@
 - [2021-03-08-一次完整的源码阅读过程](https://toutiao.io/k/2uja06c) ![](assets/new.png)  
 - [2021-03-08-​Python-如何仅用-5000-行代码，实现强大的-logging-模块？](https://toutiao.io/k/pev3zzj) ![](assets/new.png)  
 - [2021-03-08-Figma：跨平台-UI-设计工具](https://toutiao.io/k/tnz13qb) ![](assets/new.png)  
-- [2021-03-08-如何构建系统优化成本，携程出海云原生实践](https://toutiao.io/k/h6qcdyf) ![](assets/new.png)  
 - [2021-03-08-进行架构设计要了解的几种思维方式](https://toutiao.io/k/7twdtvt) ![](assets/new.png)  
+- [2021-03-08-如何构建系统优化成本，携程出海云原生实践](https://toutiao.io/k/h6qcdyf) ![](assets/new.png)  
 - [2021-03-08-我花了-5-小时死磕这个俄罗斯套娃信封问题](https://toutiao.io/k/i4ij6n4) ![](assets/new.png)  
 - [2021-03-08-你的内存对齐了吗](https://toutiao.io/k/v9n8i3p) ![](assets/new.png)  
 - [2021-03-08-Netty-源码解析：零拷贝机制与-ByteBuf](https://toutiao.io/k/ijrpjrx) ![](assets/new.png)  
 - [2021-03-08-如何编写-C++-20-协程-Coroutines](https://toutiao.io/k/mz6tg81) ![](assets/new.png)  
+- [2021-03-08-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) ![](assets/new.png)  
+- [2021-03-08-推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8) ![](assets/new.png)  
 - [2021-03-08-推荐-帮助阅读源码的-8-个技巧](https://toutiao.io/k/9v93x32) ![](assets/new.png)  
-- [2021-03-08-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) ![](assets/new.png)  
-- [2021-03-08-推荐-Java-高并发编程基础之-AQS](https://toutiao.io/k/6s1vey3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

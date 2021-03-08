@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-08 03:07:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-08 03:13:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -35,6 +35,5 @@
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
 - [2021-03-08-蚂蚁集团区块链平台部实习招聘](https://www.v2ex.com/t/759484) 
 - [2021-03-08-坐标武汉，招聘软件测试，周末双休，朝九晚六，欢迎大家投简历，](https://www.v2ex.com/t/759473) 
-- [2021-03-08-杭州米加健康集团招聘，-无-996](https://www.v2ex.com/t/759463) 
 - [2021-03-08-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) 
 - [2021-03-04-招聘-|-默安科技](https://sec.thief.one/article_content?a_id=daba73dda669a193acb09a50ef412d8d) 

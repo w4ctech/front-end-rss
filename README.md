@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-08 21:40:58，:rocket: 更新条数: +990， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-08 21:53:47，:rocket: 更新条数: +4352， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-03-08-最新疫情：全国新冠累计确诊89994例-无新增本土病例](https://m.caixin.com/m/2021-03-08/101672588.html) ![](assets/new.png)  
+- [2021-03-08-科兴疫苗全球接种4400万剂-56宗死亡病例经评估与疫苗无关](http://m.china.caixin.com/m/2021-03-08/101672645.html) ![](assets/new.png)  
+- [2021-03-08-香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](http://m.china.caixin.com/m/2021-03-08/101672619.html) ![](assets/new.png)  
+- [2021-03-08-记者手记|春节前鼓励医院可新冠混检-多地为何至今难觅？](https://m.caixin.com/m/2021-03-08/101672099.html) ![](assets/new.png)  
+- [2021-03-08-最新海外疫情：新冠感染近1.17亿-累计死亡超258万](https://m.caixin.com/m/2021-03-08/101672583.html) ![](assets/new.png)  
+- [2021-03-08-【境内疫情观察】全国新增19例境外输入病例（3月7日）](http://m.database.caixin.com/m/2021-03-08/101672301.html) ![](assets/new.png)  
+- [2021-03-08-英格兰学校8日复课-韩国报3698例疫苗接种异常反应丨大流行手记（3月7日）](https://m.caixin.com/m/2021-03-08/101672088.html) ![](assets/new.png)  
+- [2021-03-07-【境内疫情观察】四川新增7例境外输入病例（3月6日）](http://m.database.caixin.com/m/2021-03-07/101671983.html) ![](assets/new.png)  
+- [2021-03-07-COVAX新冠疫苗数量不足-“疫苗旅游”现象涌现丨大流行手记（3月6日）](https://m.caixin.com/m/2021-03-07/101671912.html) ![](assets/new.png)  
+- [2021-03-06-【境内疫情观察】全国新增10例境外输入病例（3月5日）](http://m.database.caixin.com/m/2021-03-06/101671693.html) ![](assets/new.png)  
+- [2021-03-06-欧盟疫苗出口管制或延至6月底-南非查获假新冠疫苗|大流行手记（3月5日）](https://m.caixin.com/m/2021-03-06/101671526.html) ![](assets/new.png)  
+- [2021-03-05-【境内疫情观察】上海新增6例境外输入病例（3月4日）](http://m.database.caixin.com/m/2021-03-05/101671063.html) ![](assets/new.png)  
+- [2021-03-05-欧药管局启动俄罗斯疫苗审批-英国拨款研究mRNA疫苗|大流行手记（3月4日）](https://m.caixin.com/m/2021-03-05/101670796.html) ![](assets/new.png)  
+- [2021-03-05-解药|用于检测新冠疫苗效力的中和抗体试剂盒来了](https://m.caixin.com/m/2021-03-05/101670726.html) ![](assets/new.png)  
+- [2021-03-05-拜登上台月余美疫情渐受控-近5300万人已接种疫苗](http://m.international.caixin.com/m/2021-03-05/101670780.html) ![](assets/new.png)  
+- [2021-03-05-日本再延长首都圈防疫紧急状态-东京奥运或谢绝海外观众](http://m.international.caixin.com/m/2021-03-05/101671258.html) ![](assets/new.png)  
+- [2021-03-04-【境内疫情观察】中国已累计接种疫苗5200多万剂次（3月3日）](http://m.database.caixin.com/m/2021-03-04/101670472.html) ![](assets/new.png)  
+- [2021-03-04-日韩现接种疫苗后死亡病例-沙特仅限疫苗接种者麦加朝觐|大流行手记（3月3日）](https://m.caixin.com/m/2021-03-04/101670252.html) ![](assets/new.png)  
+- [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) ![](assets/new.png)  
+- [2021-03-03-【境内疫情观察】全国新增10例境外输入病例（3月2日）](http://m.database.caixin.com/m/2021-03-03/101669953.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1027,26 +1047,6 @@
 </summary>
 
 
-- [2021-03-08-谷歌最支持的-Android-开发架构指南-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14194&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEQBSZ-aCpxI_S1oFt54D3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-在应用开发中，我为什么选择-Flutter-而不是-React-Native-？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14193&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO5Je72UbAlygTsNZSuzUkQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-Android-开发中那些无中生有的事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14192&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCWSv615Qkh3TDAXSumP7cQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-是的，入职中软一个月（外包华为）就离职了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14191&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHes3zxg6CFc6xpnRMsbC8A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-快速实现微信图片裁剪功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14190&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7miVWEBhvr17Okx4T14saQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-这一个插件，玩爆知乎和思否-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14189&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1n_xjKgPW3tJ-rvnKUAD-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-超全！常用的-70-个数据分析网址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14188&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEQvnz7GiRzOLJ10Ua3cimg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-华为提出十大数学挑战！解出一个就是年薪百万！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14187&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyYYM-Hqb6aNJze9BG26Vkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-互联网工作-常用名词及基础知识扫盲-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14186&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjTw8WwLW4SQu0PmH8lVv2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-表情包-AI-生成器：识别人脸情绪，自动配文字-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14185&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJhVS1GxUnzXyU6_obBNz5A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-真实案例详述：丢手机太危险了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14184&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ftt-3z7AlCNV-9P9XiNTktw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-成为一流软件开发者的-34-条建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14183&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQqNLaehHTtC6lm8IQ2SWGQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-优秀，起诉网站，可尼玛太秀了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14182&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBWSQVs3apxAJYrKT2QWqnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-Win-10-隐藏功能：手机离开，系统自动锁定-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14181&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKdavJUHXl9cRoJKTREFOAA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-程序员在家都逛哪些网站？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14180&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fl2d1LutlxbjCTBfUhqAahg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-最容易被盗的密码，你中了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14179&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F354496951%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-小步发布、验收测试和完整团队-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14178&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483761%26amp%3Bidx%3D1%26amp%3Bsn%3Dce50fa8da6b7c00de46a794394fe17a6%26amp%3Bchksm%3De903476ade74ce7c4fe186ca6657ae728453fb5ac4cc6f477ad66491b6cfdc442b682bcfc70d%26amp%3Btoken%3D514253440%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-让我们再聊聊TDD-续-正其思规其行-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14177&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftalk-about-tdd-again-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-有了产品负责人，还需要业务分析师吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14176&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fproduct-owner-or-business-analyst%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-08-敏捷业务实践之计划游戏-teobler.com](https://blogread.cn/news/go.php?idItem=14175&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210201-agile-business-practice-planning-games%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

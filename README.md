@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-08 09:02:24，:rocket: 更新条数: +4365， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-08 09:13:58，:rocket: 更新条数: +4363， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,7 +1016,10 @@
 </summary>
 
 
-- [2021-03-08-恳请站长不要一刀切禁止合租类的帖子](https://www.v2ex.com/t/759694) ![](assets/new.png)  
+- [2021-03-08-想要把-Ubuntu-装在-U-盘里带着走，有什么优雅一些的办法吗？](https://www.v2ex.com/t/759699) ![](assets/new.png)  
+- [2021-03-08-微信能否打通-QQ？](https://www.v2ex.com/t/759698) ![](assets/new.png)  
+- [2021-03-08-校招-阿里云-阿里云块存储团队校招实习生-团队直推开始啦！](https://www.v2ex.com/t/759697) ![](assets/new.png)  
+- [2021-03-08-杭州蓝卓工业互联网春季招聘，大量-Java-，前端](https://www.v2ex.com/t/759695) ![](assets/new.png)  
 - [2021-03-08-只有周末又不想居于一隅，有什么好玩的路线推荐吗](https://www.v2ex.com/t/759692) ![](assets/new.png)  
 - [2021-03-08-好久没看片了，今天发现-movist-没法用了，是我一个人吗？](https://www.v2ex.com/t/759690) ![](assets/new.png)  
 - [2021-03-08-郑州-面试拧螺丝入职造火箭-高级-Linux-C-网络安全软件开发岗](https://www.v2ex.com/t/759689) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-03-08-Mac-4K-显示器-如何设置缩放？](https://www.v2ex.com/t/759674) ![](assets/new.png)  
 - [2021-03-08-如何统计某个功能模块的运行成功率，数据库该怎么设计不冗余？](https://www.v2ex.com/t/759673) ![](assets/new.png)  
 - [2021-03-08-实习生招聘-阿里巴巴飞猪酒店技术部招聘-2021-年实习生（2022-年毕业）](https://www.v2ex.com/t/759670) ![](assets/new.png)  
-- [2021-03-08-移动来回瓦工出口不走-CN2GIA-了嘛](https://www.v2ex.com/t/759669) ![](assets/new.png)  
-- [2021-03-08-请教下-文件下载服务器-提供小文件下载-高并发访问-有没有什么低价解决方案](https://www.v2ex.com/t/759668) ![](assets/new.png)  
-- [2021-03-08-测试了一下-DoH/DoT-的可用性，讨论一下今后加密-DNS-的解决方案](https://www.v2ex.com/t/759666) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

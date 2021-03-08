@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-08 13:41:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-08 13:50:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-03-06-来看看阿里2021前端工程师技术要求（附面试题）](https://www.ershicimi.com/p/1a5ce888c42c155d6f77d63003c3a0a8) 
 - [2021-03-03-这道前端面试必问题，你会吗？](https://www.ershicimi.com/p/f0bf82c7b80fe56b480dd8e1bb352924) 
 - [2021-03-08-【招聘】在蚂蚁的前端工程团队工作是怎样一种体验](https://www.ershicimi.com/p/bc2cf72e01313a2f620f55d7d2f52863) 
@@ -33,5 +34,6 @@
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
+- [2021-03-08-一次面试的吐槽（主要是吐槽自己）](https://www.v2ex.com/t/759773) 
 - [2021-03-08-「阿里巴巴」淘系技术部-2021-前端开发实习生招聘--「实习」「杭州」](https://www.v2ex.com/t/759740) 
 - [2021-03-08-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) 

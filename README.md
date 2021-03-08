@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-08 00:08:27，:rocket: 更新条数: +976， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-08 00:17:17，:rocket: 更新条数: +969， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1058,26 +1058,24 @@
 </summary>
 
 
-- [2021-03-08-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
-- [2021-03-08-小心你的个人信息：GitHub-热点速览-v.21.09](https://toutiao.io/k/bat83ej) ![](assets/new.png)  
-- [2021-03-08-PySpark：用-Word2Vec-计算文本相似度](https://toutiao.io/k/cfpu4ts) ![](assets/new.png)  
-- [2021-03-08-To-B-产品经理需要哪些能力呢？](https://toutiao.io/k/ind3rp3) ![](assets/new.png)  
-- [2021-03-08-解剖-Babel：向前端架构师迈出一小步](https://toutiao.io/k/izh0wu8) ![](assets/new.png)  
-- [2021-03-08-Kotlin-Symbol-Processing-KSP-Alpha-版现已发布](https://toutiao.io/k/m48xs4b) ![](assets/new.png)  
-- [2021-03-08-有了产品负责人，还需要业务分析师吗？](https://toutiao.io/k/xn7qlo5) ![](assets/new.png)  
-- [2021-03-08-「蚂蚁呀哈哈」说火就火了，说下架就下架了](https://toutiao.io/k/4p14o1p) ![](assets/new.png)  
-- [2021-03-08-Webpack-基石-tapable-揭秘](https://toutiao.io/k/cpvgtw6) ![](assets/new.png)  
-- [2021-03-08-Testin-云测总裁徐琨：创业必须要创造出肉眼可见的价值](https://toutiao.io/k/txx29jh) ![](assets/new.png)  
-- [2021-03-08-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) ![](assets/new.png)  
-- [2021-03-08-推荐-最新互联网大厂职位薪资，快来对号入座吧](https://toutiao.io/k/jpow46x) ![](assets/new.png)  
+- [2021-03-08-译-Offer-薪资不如预期？你或许需要薪酬谈判服务](https://toutiao.io/k/f7fdiw9) ![](assets/new.png)  
+- [2021-03-08-终于讲清楚了：深入理解-Java-应用程序中-final-关键字的各种使用场景](https://toutiao.io/k/febn4rp) ![](assets/new.png)  
+- [2021-03-08-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
+- [2021-03-08-推荐-生产力至少提升-5-倍，大厂火拼的低代码平台究竟还有哪些坑？](https://toutiao.io/k/ipuno05) ![](assets/new.png)  
 - [2021-03-08-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) ![](assets/new.png)  
-- [2021-03-08-推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1) ![](assets/new.png)  
-- [2021-03-08-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) ![](assets/new.png)  
-- [2021-03-08-推荐-面试官问：在读多写少的情况下，如果优化-MySQL-的数据查询方案](https://toutiao.io/k/kvgofut) ![](assets/new.png)  
-- [2021-03-08-推荐-做一个很出色的程序员](https://toutiao.io/k/g6xlwp2) ![](assets/new.png)  
-- [2021-03-08-推荐-Linux-内存管理](https://toutiao.io/k/h2vf9va) ![](assets/new.png)  
-- [2021-03-08-推荐-Java-实现大文件多线程下载，提速-30-倍！想学？我教你啊](https://toutiao.io/k/jvd3wnb) ![](assets/new.png)  
 - [2021-03-08-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) ![](assets/new.png)  
+- [2021-03-08-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) ![](assets/new.png)  
+- [2021-03-08-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) ![](assets/new.png)  
+- [2021-03-08-推荐-面试官问：在读多写少的情况下，如果优化-MySQL-的数据查询方案](https://toutiao.io/k/kvgofut) ![](assets/new.png)  
+- [2021-03-08-推荐-互联网架构演进之路](https://toutiao.io/k/6w82jhc) ![](assets/new.png)  
+- [2021-03-08-推荐-Java-实现大文件多线程下载，提速-30-倍！想学？我教你啊](https://toutiao.io/k/jvd3wnb) ![](assets/new.png)  
+- [2021-03-08-推荐-Linux-内存管理](https://toutiao.io/k/h2vf9va) ![](assets/new.png)  
+- [2021-03-08-推荐-著名的-Java-并发编程大师都这么说了，你还不知道伪共享么](https://toutiao.io/k/3q7ujrr) ![](assets/new.png)  
+- [2021-03-08-推荐-一次-MySQL-线上死锁分析实战](https://toutiao.io/k/pys6jzz) ![](assets/new.png)  
+- [2021-03-08-推荐-帮助阅读源码的-8-个技巧](https://toutiao.io/k/9v93x32) ![](assets/new.png)  
+- [2021-03-08-推荐-​程序员划水指南](https://toutiao.io/k/gheevc3) ![](assets/new.png)  
+- [2021-03-08-推荐-Java-高并发编程基础之-AQS](https://toutiao.io/k/6s1vey3) ![](assets/new.png)  
+- [2021-03-08-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,6 +1087,15 @@
 </summary>
 
 
+- [2021-03-08-聊一聊我对红蓝对抗的理解](https://sec.thief.one/article_content?a_id=943e507e92a88dcd0162e99d7033fd57) ![](assets/new.png)  
+- [2021-03-08-如何批量在多台服务器上执行命令](https://sec.thief.one/article_content?a_id=028f0411e431cbc28a5fbab3a719c2d6) ![](assets/new.png)  
+- [2021-03-08-从PR中学习如何修改-flashrom-读取国产-flash](https://sec.thief.one/article_content?a_id=445f1a9bd8f840ce30ac83168295e679) ![](assets/new.png)  
+- [2021-03-08-网安杂谈收藏夹3.8](https://sec.thief.one/article_content?a_id=7e0a37b4d8a195529e9b53b001de1ffc) ![](assets/new.png)  
+- [2021-03-07-俄军监督的大型比特币矿场](https://sec.thief.one/article_content?a_id=0241f3a61393aab0db7f6fa40554850d) ![](assets/new.png)  
+- [2021-03-07-如何阅读《深入理解计算机系统》包邮送书](https://sec.thief.one/article_content?a_id=7acfd5d69e2025d3a81730c626466130) ![](assets/new.png)  
+- [2021-03-07-应用上云-2-小时烧掉近-50-万,创始人:差点破产,简直噩梦](https://sec.thief.one/article_content?a_id=9c070ea534206b921860096e71ef5b41) ![](assets/new.png)  
+- [2021-03-07-关于威胁猎捕的那些事](https://sec.thief.one/article_content?a_id=eaa25ce32cf564a266c3f5dafd8d6d94) ![](assets/new.png)  
+- [2021-03-07-神器:用-pyppeteer-转换公众号文章为PDF](https://sec.thief.one/article_content?a_id=245908a0b8c4fdc9d921b611da7983e8) ![](assets/new.png)  
 - [2021-03-07-Avaddon勒索病毒解密工具及原理](https://sec.thief.one/article_content?a_id=31de0f9306698b575ddc2bc81c6a2e3a) ![](assets/new.png)  
 - [2021-03-07-2021年2月全国受理网络违法和不良信息举报984.5万件](https://sec.thief.one/article_content?a_id=3f5a65c331d0003f748f192d47cf26a4) ![](assets/new.png)  
 - [2021-03-07-利用微信“清粉”软件非法获取微信用户信息-8人获刑](https://sec.thief.one/article_content?a_id=06f249e893c7880205cdb9720b0d697a) ![](assets/new.png)  
@@ -1100,15 +1107,6 @@
 - [2021-03-07-微软发布免费的文件恢复工具](https://sec.thief.one/article_content?a_id=93713b5bebcdb441a5583df52ddeedd7) ![](assets/new.png)  
 - [2021-03-07-网安杂谈收藏夹3.7](https://sec.thief.one/article_content?a_id=a00a03f96eb2f9ff91ec9597f2f3d567) ![](assets/new.png)  
 - [2021-03-06-字节跳动专利:一键生成员工薪资方案及装置](https://sec.thief.one/article_content?a_id=51dc3b8492f3db41f5a2a5f700202d44) ![](assets/new.png)  
-- [2021-03-06-在看-|-一周网安回顾2021.2.27—3.5](https://sec.thief.one/article_content?a_id=0729737fd0a8d5f331dacefcf1d17cd9) ![](assets/new.png)  
-- [2021-03-06-Hinton独立发布44页论文火爆社区,没有实验:给你们个idea,自己去...](https://sec.thief.one/article_content?a_id=0de5510c2a717897d73f6bc312c05307) ![](assets/new.png)  
-- [2021-03-06-955-互联网公司白名单来了!](https://sec.thief.one/article_content?a_id=7a958a21bf11cb7fd294328ef2676b3f) ![](assets/new.png)  
-- [2021-03-06-BEC诈骗犯已瞄准华尔街,如何防御电汇诈骗需重视](https://sec.thief.one/article_content?a_id=84bea9a180c9b443132892aaf8d76225) ![](assets/new.png)  
-- [2021-03-06-海报|2021年政府工作报告,科技创新提到这些关键词](https://sec.thief.one/article_content?a_id=e78d640f7ac91fa3906cd66288f47358) ![](assets/new.png)  
-- [2021-03-06-在Z|东呈、木链高薪招贤;10年+安全经验求职IT/安全总监](https://sec.thief.one/article_content?a_id=18bc0c4737df2a87bf23ba376bbd970e) ![](assets/new.png)  
-- [2021-03-06-MicroStrategy股价腰斩,特斯拉暴跌,上市公司抱团比特币“造富梦”...](https://sec.thief.one/article_content?a_id=f44d66e2f1ced577136962b41e1987e2) ![](assets/new.png)  
-- [2021-03-06-GlobeImposter勒索热度不减,改头换面再出5.1变种](https://sec.thief.one/article_content?a_id=7f4f5e5dc0a9db1903d25ff702e5e60f) ![](assets/new.png)  
-- [2021-03-06-Process-Herpaderping-:通过替换进程的映像文件来躲避杀软检测的技...](https://sec.thief.one/article_content?a_id=90ea2c1dac39754aaeb6ac13c3dc7cb7) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

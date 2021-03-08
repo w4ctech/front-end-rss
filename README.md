@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-08 08:46:42，:rocket: 更新条数: +4365， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-08 09:02:24，:rocket: 更新条数: +4365， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,10 @@
 </summary>
 
 
+- [2021-03-08-恳请站长不要一刀切禁止合租类的帖子](https://www.v2ex.com/t/759694) ![](assets/new.png)  
+- [2021-03-08-只有周末又不想居于一隅，有什么好玩的路线推荐吗](https://www.v2ex.com/t/759692) ![](assets/new.png)  
+- [2021-03-08-好久没看片了，今天发现-movist-没法用了，是我一个人吗？](https://www.v2ex.com/t/759690) ![](assets/new.png)  
+- [2021-03-08-郑州-面试拧螺丝入职造火箭-高级-Linux-C-网络安全软件开发岗](https://www.v2ex.com/t/759689) ![](assets/new.png)  
 - [2021-03-08-计算一个数的平方和两个数的乘积复杂度一样么？](https://www.v2ex.com/t/759687) ![](assets/new.png)  
 - [2021-03-08-端稳饭碗和创业怎么抉择呢?](https://www.v2ex.com/t/759686) ![](assets/new.png)  
 - [2021-03-08-大家有没有需要买保险的呀](https://www.v2ex.com/t/759685) ![](assets/new.png)  
@@ -1032,10 +1036,6 @@
 - [2021-03-08-移动来回瓦工出口不走-CN2GIA-了嘛](https://www.v2ex.com/t/759669) ![](assets/new.png)  
 - [2021-03-08-请教下-文件下载服务器-提供小文件下载-高并发访问-有没有什么低价解决方案](https://www.v2ex.com/t/759668) ![](assets/new.png)  
 - [2021-03-08-测试了一下-DoH/DoT-的可用性，讨论一下今后加密-DNS-的解决方案](https://www.v2ex.com/t/759666) ![](assets/new.png)  
-- [2021-03-08-请教修改现有一个传统正则表达式（非-Perl-风格）的问题（截取区间文字，但保留起始文字）](https://www.v2ex.com/t/759665) ![](assets/new.png)  
-- [2021-03-08-请问有什么好的方法使用-WeChat-CallKit-吗](https://www.v2ex.com/t/759664) ![](assets/new.png)  
-- [2021-03-08-太喜欢-miku-了，怎么办呐](https://www.v2ex.com/t/759663) ![](assets/new.png)  
-- [2021-03-08-杭州阿里巴巴盒马-22-届实习生招聘](https://www.v2ex.com/t/759661) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1080,8 +1080,8 @@
 
 - [2021-03-08-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
 - [2021-03-08-译-Offer-薪资不如预期？你或许需要薪酬谈判服务](https://toutiao.io/k/f7fdiw9) ![](assets/new.png)  
-- [2021-03-08-终于讲清楚了：深入理解-Java-应用程序中-final-关键字的各种使用场景](https://toutiao.io/k/febn4rp) ![](assets/new.png)  
 - [2021-03-08-有赞-BI-平台设计及实现](https://toutiao.io/k/a595tmo) ![](assets/new.png)  
+- [2021-03-08-终于讲清楚了：深入理解-Java-应用程序中-final-关键字的各种使用场景](https://toutiao.io/k/febn4rp) ![](assets/new.png)  
 - [2021-03-08-不用代码趣讲-ZooKeeper-集群](https://toutiao.io/k/3j3kd2k) ![](assets/new.png)  
 - [2021-03-08-美团外卖特征平台的建设与实践](https://toutiao.io/k/zwp7jms) ![](assets/new.png)  
 - [2021-03-08-HBase-架构及原理](https://toutiao.io/k/8464zt2) ![](assets/new.png)  
@@ -1092,8 +1092,8 @@
 - [2021-03-08-Figma：跨平台-UI-设计工具](https://toutiao.io/k/tnz13qb) ![](assets/new.png)  
 - [2021-03-08-如何构建系统优化成本，携程出海云原生实践](https://toutiao.io/k/h6qcdyf) ![](assets/new.png)  
 - [2021-03-08-进行架构设计要了解的几种思维方式](https://toutiao.io/k/7twdtvt) ![](assets/new.png)  
-- [2021-03-08-你的内存对齐了吗](https://toutiao.io/k/v9n8i3p) ![](assets/new.png)  
 - [2021-03-08-WinMerge：一个免费开源的文件对比神器](https://toutiao.io/k/7msedjb) ![](assets/new.png)  
+- [2021-03-08-你的内存对齐了吗](https://toutiao.io/k/v9n8i3p) ![](assets/new.png)  
 - [2021-03-08-如何编写-C++-20-协程-Coroutines](https://toutiao.io/k/mz6tg81) ![](assets/new.png)  
 - [2021-03-08-我花了-5-小时死磕这个俄罗斯套娃信封问题](https://toutiao.io/k/i4ij6n4) ![](assets/new.png)  
 - [2021-03-08-在主动要求涨工资这事上，不要学我](https://toutiao.io/k/tqukert) ![](assets/new.png)  

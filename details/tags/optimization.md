@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-09 02:43:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-09 02:52:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -16,5 +16,5 @@
 - [2021-03-06-技术大神破解苹果M1-MacBook-Air-挖矿，性能却被吊打了](https://www.ershicimi.com/p/3e975ae03acf2966136093f7d8a90335) 
 - [2021-02-22-熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
-- [2021-03-09-推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8) 
 - [2021-03-09-推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) 
+- [2021-03-09-推荐-Redis-为什么变慢了？一文讲透如何排查-Redis-性能问题](https://toutiao.io/k/90116j8) 

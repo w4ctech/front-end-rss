@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-09 07:50:55，:rocket: 更新条数: +741， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-09 08:05:19，:rocket: 更新条数: +4127， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-03-09-3月8日全国新增新冠8例-均由境外输入](https://m.caixin.com/m/2021-03-09/101672680.html) ![](assets/new.png)  
+- [2021-03-09-【境内疫情观察】全国累计确诊病例超9万例（3月8日）](http://m.database.caixin.com/m/2021-03-09/101672900.html) ![](assets/new.png)  
+- [2021-03-09-巴西疫情大幅反弹-中国版“国际旅行健康证明”出炉｜大流行手记（3月8日）](https://m.caixin.com/m/2021-03-09/101672674.html) ![](assets/new.png)  
+- [2021-03-08-科兴疫苗全球接种4400万剂-56宗死亡病例经评估与疫苗无关](http://m.china.caixin.com/m/2021-03-08/101672645.html) ![](assets/new.png)  
+- [2021-03-08-香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](http://m.china.caixin.com/m/2021-03-08/101672619.html) ![](assets/new.png)  
+- [2021-03-08-记者手记|春节前鼓励医院可新冠混检-多地为何至今难觅？](https://m.caixin.com/m/2021-03-08/101672099.html) ![](assets/new.png)  
+- [2021-03-08-最新海外疫情：新冠感染近1.17亿-累计死亡超258万](https://m.caixin.com/m/2021-03-08/101672583.html) ![](assets/new.png)  
+- [2021-03-08-【境内疫情观察】全国新增19例境外输入病例（3月7日）](http://m.database.caixin.com/m/2021-03-08/101672301.html) ![](assets/new.png)  
+- [2021-03-08-英格兰学校8日复课-韩国报3698例疫苗接种异常反应丨大流行手记（3月7日）](https://m.caixin.com/m/2021-03-08/101672088.html) ![](assets/new.png)  
+- [2021-03-07-【境内疫情观察】四川新增7例境外输入病例（3月6日）](http://m.database.caixin.com/m/2021-03-07/101671983.html) ![](assets/new.png)  
+- [2021-03-07-COVAX新冠疫苗数量不足-“疫苗旅游”现象涌现丨大流行手记（3月6日）](https://m.caixin.com/m/2021-03-07/101671912.html) ![](assets/new.png)  
+- [2021-03-06-【境内疫情观察】全国新增10例境外输入病例（3月5日）](http://m.database.caixin.com/m/2021-03-06/101671693.html) ![](assets/new.png)  
+- [2021-03-06-欧盟疫苗出口管制或延至6月底-南非查获假新冠疫苗|大流行手记（3月5日）](https://m.caixin.com/m/2021-03-06/101671526.html) ![](assets/new.png)  
+- [2021-03-05-【境内疫情观察】上海新增6例境外输入病例（3月4日）](http://m.database.caixin.com/m/2021-03-05/101671063.html) ![](assets/new.png)  
+- [2021-03-05-欧药管局启动俄罗斯疫苗审批-英国拨款研究mRNA疫苗|大流行手记（3月4日）](https://m.caixin.com/m/2021-03-05/101670796.html) ![](assets/new.png)  
+- [2021-03-05-解药|用于检测新冠疫苗效力的中和抗体试剂盒来了](https://m.caixin.com/m/2021-03-05/101670726.html) ![](assets/new.png)  
+- [2021-03-05-拜登上台月余美疫情渐受控-近5300万人已接种疫苗](http://m.international.caixin.com/m/2021-03-05/101670780.html) ![](assets/new.png)  
+- [2021-03-05-日本再延长首都圈防疫紧急状态-东京奥运或谢绝海外观众](http://m.international.caixin.com/m/2021-03-05/101671258.html) ![](assets/new.png)  
+- [2021-03-04-【境内疫情观察】中国已累计接种疫苗5200多万剂次（3月3日）](http://m.database.caixin.com/m/2021-03-04/101670472.html) ![](assets/new.png)  
+- [2021-03-04-日韩现接种疫苗后死亡病例-沙特仅限疫苗接种者麦加朝觐|大流行手记（3月3日）](https://m.caixin.com/m/2021-03-04/101670252.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -976,7 +996,11 @@
 </summary>
 
 
-- [2021-03-09-安卓-iOS-QA-engineer-看过来，-Senior-&-Staff,-base-深圳，美资外企-965-不加班有股票](https://www.v2ex.com/t/760010) ![](assets/new.png)  
+- [2021-03-09-迫于-200G-不够用，国区-iCloud-计划出两个车位，有需要的吗？](https://www.v2ex.com/t/760014) ![](assets/new.png)  
+- [2021-03-09-某小有名气开源插件仓库-issue-惊现台_独言论](https://www.v2ex.com/t/760013) ![](assets/new.png)  
+- [2021-03-09-Apple-Watch-S5-设置解锁-MBP-2015-一直失败](https://www.v2ex.com/t/760012) ![](assets/new.png)  
+- [2021-03-09-阿里云镜像坏了吗？？怎么-404-了呀](https://www.v2ex.com/t/760011) ![](assets/new.png)  
+- [2021-03-09-深圳-安卓-iOS-QA-engineer-看过来，-Senior-&-Staff,-base-深圳，美资外企-965-不加班有股票](https://www.v2ex.com/t/760010) ![](assets/new.png)  
 - [2021-03-09-4399-春招内推（校招）](https://www.v2ex.com/t/760009) ![](assets/new.png)  
 - [2021-03-09-有-HDR-视频，那么有没-HDR-照片？](https://www.v2ex.com/t/760007) ![](assets/new.png)  
 - [2021-03-09-求抱团求拯救啊，接下来基金怎么办啊？亏惨了](https://www.v2ex.com/t/760006) ![](assets/new.png)  
@@ -992,10 +1016,6 @@
 - [2021-03-09-求助：有一个平台公司违约，有什么办法进行投诉吗？](https://www.v2ex.com/t/759994) ![](assets/new.png)  
 - [2021-03-09-小程序开发工具有点骚操作啊。](https://www.v2ex.com/t/759993) ![](assets/new.png)  
 - [2021-03-09-《高效程序员的五个习惯》.pdf](https://www.v2ex.com/t/759992) ![](assets/new.png)  
-- [2021-03-09-再也不想看到中转的确认页面了](https://www.v2ex.com/t/759991) ![](assets/new.png)  
-- [2021-03-09-飞猪-技术部-大交通-出行服务与生态---组内直招-Java-开发工程师，坐标北京望京金辉大厦](https://www.v2ex.com/t/759990) ![](assets/new.png)  
-- [2021-03-09-问下如下代码-Python-类为啥有不同的结果？](https://www.v2ex.com/t/759989) ![](assets/new.png)  
-- [2021-03-09-有没有检测微信好友是否删除你的工具](https://www.v2ex.com/t/759988) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1055,8 +1075,8 @@
 - [2021-03-09-React-面试不完全指南](https://toutiao.io/k/s0dskwy) ![](assets/new.png)  
 - [2021-03-09-上线-Python-应用仅需一条命令的开源框架：Zappa（详细教程）](https://toutiao.io/k/psxr0j5) ![](assets/new.png)  
 - [2021-03-09-在-Kubernetes-Pod-中如何获取客户端的真实-IP](https://toutiao.io/k/0a15f6p) ![](assets/new.png)  
-- [2021-03-09-前端周刊：2021-2-期](https://toutiao.io/k/waxqsut) ![](assets/new.png)  
 - [2021-03-09-工具-|-一款使用-TypeScript-开发的-Web-富文本编辑器](https://toutiao.io/k/5dj13zo) ![](assets/new.png)  
+- [2021-03-09-前端周刊：2021-2-期](https://toutiao.io/k/waxqsut) ![](assets/new.png)  
 - [2021-03-09-.NET-Core-dump-分析](https://toutiao.io/k/c50wq39) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

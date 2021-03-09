@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-09 06:09:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-09 06:36:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -33,9 +33,7 @@
 - [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
+- [2021-03-09-想组个求职/内推群，群里只允许发内推招聘和求职的信息，谢绝一切广告](https://www.v2ex.com/t/759959) 
 - [2021-03-09-滴滴自动驾驶后端服务职位招聘内推](https://www.v2ex.com/t/759952) 
-- [2021-03-09-我刷到了-金拱门-招聘研发测试](https://www.v2ex.com/t/759921) 
-- [2021-03-09-4-年-C++菜鸡面试十几家，终于拿到两个-offer，想让各位大佬帮忙出出主意](https://www.v2ex.com/t/759913) 
-- [2021-03-09-SAP-西安招聘-Developer-for-SAP-Data-intelligence-cloud](https://www.v2ex.com/t/759910) 
-- [2021-03-09-帮朋友咨询下关于面试的事情，求关注。](https://www.v2ex.com/t/759909) 
 - [2021-03-09-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) 
+- [2021-03-09-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) 

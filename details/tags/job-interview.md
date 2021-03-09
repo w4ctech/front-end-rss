@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-09 02:52:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-09 02:58:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -37,5 +37,5 @@
 - [2021-03-09-字节跳动上海/杭州/北京急招字节教育部门，大力招聘](https://www.v2ex.com/t/759871) 
 - [2021-03-09-FinTech-社区-招聘：-Option-Trader--上海-推荐奖-1-万](https://www.v2ex.com/t/759857) 
 - [2021-03-09-阿里面试官分享：我遇到过的那些质量很高的-Java-面试](https://www.v2ex.com/t/759843) 
-- [2021-03-09-Google-热乎面试题：堆化](https://www.v2ex.com/t/759835) 
 - [2021-03-09-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) 
+- [2021-03-09-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-09 09:47:48，:rocket: 更新条数: +4122， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-09 10:00:12，:rocket: 更新条数: +4125， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,10 @@
 </summary>
 
 
+- [2021-03-09-mysql-的-select-结果集中某个列可以是集合类型吗？](https://www.v2ex.com/t/760071) ![](assets/new.png)  
+- [2021-03-09-成都招聘物联网-C/Golang-开发工程师，-15-25](https://www.v2ex.com/t/760070) ![](assets/new.png)  
+- [2021-03-09-迫于审美太渣，想寻找一个靠谱的设计师同学合作](https://www.v2ex.com/t/760069) ![](assets/new.png)  
+- [2021-03-09-求助-上海浦东哪里有可以买电动车的地方（希望推荐地点店铺多一些，可选项多一些，最好可以帮办车牌）](https://www.v2ex.com/t/760068) ![](assets/new.png)  
 - [2021-03-09-求助!-Redis-集群搭建和数据迁移以及停机问题](https://www.v2ex.com/t/760067) ![](assets/new.png)  
 - [2021-03-09-排查问题真的好费精力.](https://www.v2ex.com/t/760066) ![](assets/new.png)  
 - [2021-03-09-杭州/上海招聘，前后端，测试，产品，-BD,销售，短视频剪辑等](https://www.v2ex.com/t/760065) ![](assets/new.png)  
@@ -1012,10 +1016,6 @@
 - [2021-03-09-设计出的东西很丑，怎么快速提升](https://www.v2ex.com/t/760052) ![](assets/new.png)  
 - [2021-03-09-写了一个基于评论管理-GitHub-Issus/PR-的机器人](https://www.v2ex.com/t/760051) ![](assets/new.png)  
 - [2021-03-09-可不可以用-taptic-engine-来代替-mac-上的实体按键键盘？](https://www.v2ex.com/t/760050) ![](assets/new.png)  
-- [2021-03-09-js-的回调如何给父级赋值？](https://www.v2ex.com/t/760049) ![](assets/new.png)  
-- [2021-03-09-咨询下各位大佬-ES-聚合排序的问题](https://www.v2ex.com/t/760048) ![](assets/new.png)  
-- [2021-03-09-搜狗-内推-社招、应届均可内推](https://www.v2ex.com/t/760047) ![](assets/new.png)  
-- [2021-03-09-苹果限免应用推荐3/9⏰|App-Store](https://www.v2ex.com/t/760046) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,8 +1068,8 @@
 - [2021-03-09-图解设计模式](https://toutiao.io/k/7hmi0dw) ![](assets/new.png)  
 - [2021-03-09-Chrome-OS-超便捷安装指南](https://toutiao.io/k/ams28hi) ![](assets/new.png)  
 - [2021-03-09-杂谈第-36-期：大厂不要再被员工吐槽了](https://toutiao.io/k/cd64qao) ![](assets/new.png)  
-- [2021-03-09-AI-入行那些事儿（四）：最简单的机器学习模型之线性回归](https://toutiao.io/k/8qvgxzj) ![](assets/new.png)  
 - [2021-03-09-使用-Emacs-阅读邮件与-Feed-信息流](https://toutiao.io/k/m8kwjbu) ![](assets/new.png)  
+- [2021-03-09-AI-入行那些事儿（四）：最简单的机器学习模型之线性回归](https://toutiao.io/k/8qvgxzj) ![](assets/new.png)  
 - [2021-03-09-译-迈向完全可编程-tc-分类器-NetdevConf，2016](https://toutiao.io/k/l90itb4) ![](assets/new.png)  
 - [2021-03-09-网络运营落地页风控实践](https://toutiao.io/k/gpxv2qf) ![](assets/new.png)  
 - [2021-03-09-React-面试不完全指南](https://toutiao.io/k/s0dskwy) ![](assets/new.png)  

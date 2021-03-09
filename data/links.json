@@ -19795,6 +19795,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "mysql 的 select 结果集中某个列可以是集合类型吗？",
+        "link": "https://www.v2ex.com/t/760071",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "[成都][招聘]物联网 C/Golang 开发工程师， 15-25",
+        "link": "https://www.v2ex.com/t/760070",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "迫于审美太渣，想寻找一个靠谱的设计师同学合作",
+        "link": "https://www.v2ex.com/t/760069",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "[求助] 上海浦东哪里有可以买电动车的地方（希望推荐地点店铺多一些，可选项多一些，最好可以帮办车牌）",
+        "link": "https://www.v2ex.com/t/760068",
+        "date": "2021-03-09"
+      },
+      {
         "title": "[求助!] Redis 集群搭建和数据迁移以及停机问题",
         "link": "https://www.v2ex.com/t/760067",
         "date": "2021-03-09"
@@ -19978,11 +19998,6 @@
         "title": "根据 6 位数字，生成 6 激活码大概用的是什么加密",
         "link": "https://www.v2ex.com/t/760024",
         "date": "2021-03-09"
-      },
-      {
-        "title": "微信小程序 能否对 pdf 进行批注。",
-        "link": "https://www.v2ex.com/t/760020",
-        "date": "2021-03-09"
       }
     ]
   },
@@ -20149,13 +20164,13 @@
         "date": "2021-03-09"
       },
       {
-        "title": "AI 入行那些事儿（四）：最简单的机器学习模型之线性回归",
-        "link": "https://toutiao.io/k/8qvgxzj",
+        "title": "使用 Emacs 阅读邮件与 Feed 信息流",
+        "link": "https://toutiao.io/k/m8kwjbu",
         "date": "2021-03-09"
       },
       {
-        "title": "使用 Emacs 阅读邮件与 Feed 信息流",
-        "link": "https://toutiao.io/k/m8kwjbu",
+        "title": "AI 入行那些事儿（四）：最简单的机器学习模型之线性回归",
+        "link": "https://toutiao.io/k/8qvgxzj",
         "date": "2021-03-09"
       },
       {
@@ -20199,8 +20214,13 @@
         "date": "2021-03-09"
       },
       {
-        "title": "[推荐] 一次 MySQL 线上死锁分析实战",
-        "link": "https://toutiao.io/k/pys6jzz",
+        "title": "[推荐] Java 高并发编程基础之 AQS",
+        "link": "https://toutiao.io/k/6s1vey3",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "[推荐] 2021 阿里淘系工程师推荐书单",
+        "link": "https://toutiao.io/k/txzl2gg",
         "date": "2021-03-09"
       },
       {
@@ -20209,33 +20229,18 @@
         "date": "2021-03-09"
       },
       {
-        "title": "[推荐] 看完这篇你一定能掌握 Linux",
-        "link": "https://toutiao.io/k/ycdmy3y",
+        "title": "[推荐] 高并发系统的限流策略：漏桶和令牌桶（附源码剖析）",
+        "link": "https://toutiao.io/k/x6ro69m",
         "date": "2021-03-09"
       },
       {
-        "title": "[推荐] HTTP header 中的黑科技",
-        "link": "https://toutiao.io/k/ep472ts",
+        "title": "[推荐] Java 实现大文件多线程下载，提速 30 倍！想学？我教你啊",
+        "link": "https://toutiao.io/k/jvd3wnb",
         "date": "2021-03-09"
       },
       {
-        "title": "[推荐] 帮助阅读源码的 8 个技巧",
-        "link": "https://toutiao.io/k/9v93x32",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "[推荐] 流量复制方案对比：TCPCopy vs Goreplay",
-        "link": "https://toutiao.io/k/cpf8p4q",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "[推荐] Linux 内存管理",
-        "link": "https://toutiao.io/k/h2vf9va",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "[推荐] Java 高并发编程基础之 AQS",
-        "link": "https://toutiao.io/k/6s1vey3",
+        "title": "[推荐] 硬核！漫画图解 HTTP 基础 + 面试题",
+        "link": "https://toutiao.io/k/rmckht1",
         "date": "2021-03-09"
       },
       {
@@ -20249,13 +20254,28 @@
         "date": "2021-03-09"
       },
       {
-        "title": "[推荐] Web 安全头号大敌 XSS 漏洞解决最佳实践",
-        "link": "https://toutiao.io/k/jfopywh",
+        "title": "[推荐] Spring Boot 异步调用",
+        "link": "https://toutiao.io/k/xxk05uj",
         "date": "2021-03-09"
       },
       {
-        "title": "[推荐] 做一个很出色的程序员",
-        "link": "https://toutiao.io/k/g6xlwp2",
+        "title": "[推荐] 副业刚需：在 GitHub 上也能年入百万？",
+        "link": "https://toutiao.io/k/r9tqaw3",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "[推荐] HTTP header 中的黑科技",
+        "link": "https://toutiao.io/k/ep472ts",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "[推荐] Redis 专题：深入解读哨兵模式",
+        "link": "https://toutiao.io/k/tm4wyb0",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "[推荐] 国内有哪些顶级技术团队的博客值得推荐？",
+        "link": "https://toutiao.io/k/j7v5pee",
         "date": "2021-03-09"
       },
       {
@@ -20264,13 +20284,8 @@
         "date": "2021-03-09"
       },
       {
-        "title": "[推荐] 最新互联网大厂职位薪资，快来对号入座吧",
-        "link": "https://toutiao.io/k/jpow46x",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "[推荐] 国内有哪些顶级技术团队的博客值得推荐？",
-        "link": "https://toutiao.io/k/j7v5pee",
+        "title": "[推荐] 互联网架构演进之路",
+        "link": "https://toutiao.io/k/6w82jhc",
         "date": "2021-03-09"
       }
     ]

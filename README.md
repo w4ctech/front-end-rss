@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-09 10:00:12，:rocket: 更新条数: +4125， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-09 10:09:19，:rocket: 更新条数: +4126， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-03-09-急招聘-大疆自动驾驶招聘，团队氛围融洽，待遇优厚，优秀的你请看过来-微信同号：-13286687676](https://www.v2ex.com/t/760074) ![](assets/new.png)  
+- [2021-03-09-物联网嵌入式软件开发](https://www.v2ex.com/t/760073) ![](assets/new.png)  
 - [2021-03-09-mysql-的-select-结果集中某个列可以是集合类型吗？](https://www.v2ex.com/t/760071) ![](assets/new.png)  
 - [2021-03-09-成都招聘物联网-C/Golang-开发工程师，-15-25](https://www.v2ex.com/t/760070) ![](assets/new.png)  
 - [2021-03-09-迫于审美太渣，想寻找一个靠谱的设计师同学合作](https://www.v2ex.com/t/760069) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-03-09-求问中兴长沙，视频研发二部，软开](https://www.v2ex.com/t/760054) ![](assets/new.png)  
 - [2021-03-09-高速-120，高德地图小米-note9Pro-的-GPS-定位问题](https://www.v2ex.com/t/760053) ![](assets/new.png)  
 - [2021-03-09-设计出的东西很丑，怎么快速提升](https://www.v2ex.com/t/760052) ![](assets/new.png)  
-- [2021-03-09-写了一个基于评论管理-GitHub-Issus/PR-的机器人](https://www.v2ex.com/t/760051) ![](assets/new.png)  
-- [2021-03-09-可不可以用-taptic-engine-来代替-mac-上的实体按键键盘？](https://www.v2ex.com/t/760050) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,8 +1068,8 @@
 - [2021-03-09-图解设计模式](https://toutiao.io/k/7hmi0dw) ![](assets/new.png)  
 - [2021-03-09-Chrome-OS-超便捷安装指南](https://toutiao.io/k/ams28hi) ![](assets/new.png)  
 - [2021-03-09-杂谈第-36-期：大厂不要再被员工吐槽了](https://toutiao.io/k/cd64qao) ![](assets/new.png)  
-- [2021-03-09-使用-Emacs-阅读邮件与-Feed-信息流](https://toutiao.io/k/m8kwjbu) ![](assets/new.png)  
 - [2021-03-09-AI-入行那些事儿（四）：最简单的机器学习模型之线性回归](https://toutiao.io/k/8qvgxzj) ![](assets/new.png)  
+- [2021-03-09-使用-Emacs-阅读邮件与-Feed-信息流](https://toutiao.io/k/m8kwjbu) ![](assets/new.png)  
 - [2021-03-09-译-迈向完全可编程-tc-分类器-NetdevConf，2016](https://toutiao.io/k/l90itb4) ![](assets/new.png)  
 - [2021-03-09-网络运营落地页风控实践](https://toutiao.io/k/gpxv2qf) ![](assets/new.png)  
 - [2021-03-09-React-面试不完全指南](https://toutiao.io/k/s0dskwy) ![](assets/new.png)  

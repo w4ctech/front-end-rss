@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-09 05:09:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-09 05:20:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -49,6 +49,8 @@
 - [2021-03-09-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-09-Chrome-OS-超便捷安装指南](https://toutiao.io/k/ams28hi) 
 - [2021-03-09-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
+- [2021-03-09-春日招聘|滴滴、京东招聘安全工程师](https://sec.thief.one/article_content?a_id=9bb7fbe9d91ee6e93b5efd9ce70f91be) 
+- [2021-03-09-网络安全编程:驱动程序开发之“Hello-World”](https://sec.thief.one/article_content?a_id=32f12db87759ce89ce1b5bc5468cc787) 
 - [2021-03-08-【安全圈】员工为报复前公司,删数据改配置,法院:判刑2年6个月](https://sec.thief.one/article_content?a_id=4a6b662e27da3fc321a19e635659917b) 
 - [2021-03-08-调研启动-|-2020-2021年金融行业网络安全研究报告](https://sec.thief.one/article_content?a_id=c1440ec66a085682aa9d7c6ec0288c56) 
 - [2021-03-08-【安全热点周报】第184期:Microsoft-Exchange组合漏洞无需验证和...](https://sec.thief.one/article_content?a_id=875385cf72a5a31cba9075cf0cffb1c5) 
@@ -69,7 +71,3 @@
 - [2021-03-05-【漏洞通告】VMware-View-Planner远程代码执行漏洞CVE-2021-...](https://sec.thief.one/article_content?a_id=551bb3dc130f8944c2e191898efeaf5b) 
 - [2021-03-05-委员通道丨周鸿祎:提升老百姓在数字化进程中的网络安全感](https://sec.thief.one/article_content?a_id=768d90a4fda734ecec212e9db45b840d) 
 - [2021-03-05-更新提示!Chrome新的零日漏洞正被利用](https://sec.thief.one/article_content?a_id=e80b2b18c05aae5810abf0598a8b2d2f) 
-- [2021-03-05-CSO说安全-|-廖位明:信息安全建设思考](https://sec.thief.one/article_content?a_id=6b92b0424a78487038b84e0152fc4de4) 
-- [2021-03-05-信息安全漏洞月报2021年2月](https://sec.thief.one/article_content?a_id=3cb82b3290be1c9d69f46e05ffe64906) 
-- [2021-03-05-【招聘】2021,小米安全“职”等你来](https://sec.thief.one/article_content?a_id=dc7575616a82de2fca54e46586b1fbb7) 
-- [2021-03-05-【滴滴信息安全招聘】点击确认你的offer!](https://sec.thief.one/article_content?a_id=0c5a6546e180ab5c44c083a985e0baa0) 

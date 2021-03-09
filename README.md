@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-09 07:39:19，:rocket: 更新条数: +4124， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-09 07:45:00，:rocket: 更新条数: +4125， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-03-09-有-HDR-视频，那么有没-HDR-照片？](https://www.v2ex.com/t/760007) ![](assets/new.png)  
 - [2021-03-09-求抱团求拯救啊，接下来基金怎么办啊？亏惨了](https://www.v2ex.com/t/760006) ![](assets/new.png)  
 - [2021-03-09-花了一个月总结的前端面试宝典，怎么推广呢？](https://www.v2ex.com/t/760005) ![](assets/new.png)  
 - [2021-03-09-请问-py-有类似于-kaffy-这种东西吗？](https://www.v2ex.com/t/760004) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-03-09-有没有检测微信好友是否删除你的工具](https://www.v2ex.com/t/759988) ![](assets/new.png)  
 - [2021-03-09-怎么更改-SVG-中的<image>图片的颜色](https://www.v2ex.com/t/759987) ![](assets/new.png)  
 - [2021-03-09-借着-vue-和-react-的思路，跟着-b-站视频学了三天-angluar11-后，我来吐吐槽。。。](https://www.v2ex.com/t/759986) ![](assets/new.png)  
-- [2021-03-09-全国各地-前端、后端、测试等等-招聘啦！](https://www.v2ex.com/t/759985) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,8 +1074,8 @@
 - [2021-03-09-网络运营落地页风控实践](https://toutiao.io/k/gpxv2qf) ![](assets/new.png)  
 - [2021-03-09-React-面试不完全指南](https://toutiao.io/k/s0dskwy) ![](assets/new.png)  
 - [2021-03-09-上线-Python-应用仅需一条命令的开源框架：Zappa（详细教程）](https://toutiao.io/k/psxr0j5) ![](assets/new.png)  
-- [2021-03-09-前端周刊：2021-2-期](https://toutiao.io/k/waxqsut) ![](assets/new.png)  
 - [2021-03-09-在-Kubernetes-Pod-中如何获取客户端的真实-IP](https://toutiao.io/k/0a15f6p) ![](assets/new.png)  
+- [2021-03-09-前端周刊：2021-2-期](https://toutiao.io/k/waxqsut) ![](assets/new.png)  
 - [2021-03-09-工具-|-一款使用-TypeScript-开发的-Web-富文本编辑器](https://toutiao.io/k/5dj13zo) ![](assets/new.png)  
 - [2021-03-09-.NET-Core-dump-分析](https://toutiao.io/k/c50wq39) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

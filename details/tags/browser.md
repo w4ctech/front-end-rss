@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-09 00:08:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-09 00:17:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,6 +46,8 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-08-用-Vulkan-渲染写一个-Android-GPUImage](https://www.v2ex.com/t/759756) 
 - [2021-03-09-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
+- [2021-03-08-【安全圈】员工为报复前公司,删数据改配置,法院:判刑2年6个月](https://sec.thief.one/article_content?a_id=4a6b662e27da3fc321a19e635659917b) 
+- [2021-03-08-调研启动-|-2020-2021年金融行业网络安全研究报告](https://sec.thief.one/article_content?a_id=c1440ec66a085682aa9d7c6ec0288c56) 
 - [2021-03-08-【安全热点周报】第184期:Microsoft-Exchange组合漏洞无需验证和...](https://sec.thief.one/article_content?a_id=875385cf72a5a31cba9075cf0cffb1c5) 
 - [2021-03-08-网络安全巾帼力量](https://sec.thief.one/article_content?a_id=7389ac7c82cda9d31cafe27780d4f015) 
 - [2021-03-08-每日安全动态推送03-08](https://sec.thief.one/article_content?a_id=20bfb1ab074a5d89f3ae871055738141) 
@@ -68,5 +70,3 @@
 - [2021-03-05-信息安全漏洞月报2021年2月](https://sec.thief.one/article_content?a_id=3cb82b3290be1c9d69f46e05ffe64906) 
 - [2021-03-05-【招聘】2021,小米安全“职”等你来](https://sec.thief.one/article_content?a_id=dc7575616a82de2fca54e46586b1fbb7) 
 - [2021-03-05-【滴滴信息安全招聘】点击确认你的offer!](https://sec.thief.one/article_content?a_id=0c5a6546e180ab5c44c083a985e0baa0) 
-- [2021-03-05-新的Chrome-0day漏洞正被利用](https://sec.thief.one/article_content?a_id=051acf5572a2ce9fa881ac1ac468a64d) 
-- [2021-03-05-尬中尬?网络安全公司Qualys被勒索软件攻击](https://sec.thief.one/article_content?a_id=e39db487a9bfae0af4df256e28b39419) 

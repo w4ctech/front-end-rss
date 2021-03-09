@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-09 00:08:01，:rocket: 更新条数: +4372， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-09 00:17:32，:rocket: 更新条数: +4372， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1080,8 +1080,8 @@
 
 - [2021-03-09-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
 - [2021-03-09-有赞-BI-平台设计及实现](https://toutiao.io/k/a595tmo) ![](assets/new.png)  
-- [2021-03-09-译-Offer-薪资不如预期？你或许需要薪酬谈判服务](https://toutiao.io/k/f7fdiw9) ![](assets/new.png)  
 - [2021-03-09-终于讲清楚了：深入理解-Java-应用程序中-final-关键字的各种使用场景](https://toutiao.io/k/febn4rp) ![](assets/new.png)  
+- [2021-03-09-译-Offer-薪资不如预期？你或许需要薪酬谈判服务](https://toutiao.io/k/f7fdiw9) ![](assets/new.png)  
 - [2021-03-09-不用代码趣讲-ZooKeeper-集群](https://toutiao.io/k/3j3kd2k) ![](assets/new.png)  
 - [2021-03-09-HBase-架构及原理](https://toutiao.io/k/8464zt2) ![](assets/new.png)  
 - [2021-03-09-美团外卖特征平台的建设与实践](https://toutiao.io/k/zwp7jms) ![](assets/new.png)  
@@ -1109,6 +1109,15 @@
 </summary>
 
 
+- [2021-03-09-网安杂谈收藏夹3.9](https://sec.thief.one/article_content?a_id=68b44894d630da86b230c1ecc5f21611) ![](assets/new.png)  
+- [2021-03-08-台美情报合作日辉计划监听大陆](https://sec.thief.one/article_content?a_id=4a5838e2d4436f7c4442e12ede6a5a47) ![](assets/new.png)  
+- [2021-03-08-【安全圈】员工为报复前公司,删数据改配置,法院:判刑2年6个月](https://sec.thief.one/article_content?a_id=4a6b662e27da3fc321a19e635659917b) ![](assets/new.png)  
+- [2021-03-08-实战记录-|-自主搭建的三层网络域渗透靶场](https://sec.thief.one/article_content?a_id=ca916e9525da3645bb232064a9dacf91) ![](assets/new.png)  
+- [2021-03-08-VCR.py:自动模拟-HTTP-交互,以简化和加速测试](https://sec.thief.one/article_content?a_id=2f11d50eb7824ed4a63c6f6e863021df) ![](assets/new.png)  
+- [2021-03-08-调研启动-|-2020-2021年金融行业网络安全研究报告](https://sec.thief.one/article_content?a_id=c1440ec66a085682aa9d7c6ec0288c56) ![](assets/new.png)  
+- [2021-03-08-100美元换1.15公斤的黄金,比特币骗局圈钱千万美元!](https://sec.thief.one/article_content?a_id=4bfe6fcccb61ccbe5f9e25e0d900fcdd) ![](assets/new.png)  
+- [2021-03-08-论道|云原生应用保护平台的发展演进脉络](https://sec.thief.one/article_content?a_id=67b678c7efacd535bff8dcb5d03af5aa) ![](assets/new.png)  
+- [2021-03-08-刚刚!腾讯官宣Python人才这样选](https://sec.thief.one/article_content?a_id=891f7744b7380472e7e5b9ff30b11010) ![](assets/new.png)  
 - [2021-03-08-双月10w元额外奖励花落谁家?](https://sec.thief.one/article_content?a_id=d27d994a7f02330b34fcdb09662e7e4d) ![](assets/new.png)  
 - [2021-03-08-最新越狱工具Unc0ver-v6.1.1发布!兼容所有iPhone手机](https://sec.thief.one/article_content?a_id=f23f522888499d601b7f13138b8c3817) ![](assets/new.png)  
 - [2021-03-08-以太坊杀手?链上数据表明竞争网络依旧落后于以太坊](https://sec.thief.one/article_content?a_id=dc86f0b4866efce26fa9ab16ad993d9d) ![](assets/new.png)  
@@ -1120,15 +1129,6 @@
 - [2021-03-08-雷神众测漏洞周报2021.03.01-2021.03.07-4](https://sec.thief.one/article_content?a_id=f6f243cd660329cf5a50adb91e4dd25a) ![](assets/new.png)  
 - [2021-03-08-每日攻防资讯简报Mar.8th](https://sec.thief.one/article_content?a_id=102749cc6b77ce64f9288c9a635d7de1) ![](assets/new.png)  
 - [2021-03-08-人物|杨文峰:天赋与努力并存,视野领先技术风潮](https://sec.thief.one/article_content?a_id=f16f35dd78f9f18290d4e3a2998a1810) ![](assets/new.png)  
-- [2021-03-08-俄罗斯顶级网络犯罪论坛遭攻击,黑客用户担心身份曝光](https://sec.thief.one/article_content?a_id=211758383613ba2e856f23ec2356434d) ![](assets/new.png)  
-- [2021-03-08-漏洞挖掘-|-登录某大学VPN系统](https://sec.thief.one/article_content?a_id=763c260eb3a3164584ec6768d91d2dfe) ![](assets/new.png)  
-- [2021-03-08-紧急情况—在Microsoft-Exchange中发现了4个频繁利用的0-day漏洞](https://sec.thief.one/article_content?a_id=aaf2b062072434f8b092463710d8dece) ![](assets/new.png)  
-- [2021-03-08-【重要】微软Exchange高危漏洞通告](https://sec.thief.one/article_content?a_id=fce0fd53944c63d57e699e4c37fc3508) ![](assets/new.png)  
-- [2021-03-08-比特币两种方式共振期,耐心等待](https://sec.thief.one/article_content?a_id=74f0af15d943ed568d8a9c1961672493) ![](assets/new.png)  
-- [2021-03-08-网络安全巾帼力量](https://sec.thief.one/article_content?a_id=7389ac7c82cda9d31cafe27780d4f015) ![](assets/new.png)  
-- [2021-03-08-几家航空公司的数百旅客受SITA数据泄露影响](https://sec.thief.one/article_content?a_id=7c8fabc253305c537e297fab6a6384ce) ![](assets/new.png)  
-- [2021-03-08-每日安全动态推送03-08](https://sec.thief.one/article_content?a_id=20bfb1ab074a5d89f3ae871055738141) ![](assets/new.png)  
-- [2021-03-08-X浏览器程凯:一个互联网犟人的故事](https://sec.thief.one/article_content?a_id=4b7ee0751fb59feec3a8ad9d61a77a86) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

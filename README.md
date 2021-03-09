@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-09 23:43:19，:rocket: 更新条数: +4129， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-09 23:56:12，:rocket: 更新条数: +4129， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-03-09-大家怎么看待企业/公司的-KPI-员工绩效排名和末位淘汰制度？](https://www.v2ex.com/t/760172) ![](assets/new.png)  
 - [2021-03-09-1Password-家庭组车-1=4，每月每人-1-美元](https://www.v2ex.com/t/760171) ![](assets/new.png)  
 - [2021-03-09-移植了一个库，眼睛快要瞎了。](https://www.v2ex.com/t/760170) ![](assets/new.png)  
 - [2021-03-09-套路云tx真这么垃圾？](https://www.v2ex.com/t/760169) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-03-09-中继路由导致主路由整个网络-ping-值不稳定丢包。。查了半天也没搞清楚为什么。。求教。。](https://www.v2ex.com/t/760155) ![](assets/new.png)  
 - [2021-03-09-美区订阅的-Apple-one-账单这月为什么少了-4.99-美元](https://www.v2ex.com/t/760154) ![](assets/new.png)  
 - [2021-03-09-小米盒子自带的高清播放器无法通过-SMB-协议访问群晖-NAS，怎么解决呢？](https://www.v2ex.com/t/760153) ![](assets/new.png)  
-- [2021-03-09-求类似滴答清单，价格低的软件](https://www.v2ex.com/t/760152) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

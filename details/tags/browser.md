@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-09 18:47:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-09 19:01:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,8 @@
 - [2021-03-09-定制化-chrome-的-new-tab-页面](https://www.v2ex.com/t/760165) 
 - [2021-03-09-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-09-Chrome-OS-超便捷安装指南](https://toutiao.io/k/ams28hi) 
+- [2021-03-09-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
+- [2021-03-09-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-09-招聘-|-三月招聘季开启,携程广邀各大安全圈人才共创精彩!](https://sec.thief.one/article_content?a_id=d459ea9ac1b0b6c70f2c2348bdae511d) 
 - [2021-03-09-网络安全狙击战丨面对疯狂的网络攻击,威胁情报出手了!](https://sec.thief.one/article_content?a_id=eba36fbd01a3946fb53d8a10288c6ec4) 
 - [2021-03-09-盘点-|-2021年两会网络安全相关提案大全](https://sec.thief.one/article_content?a_id=d19e375a84eb48db6b630d62d1bdeace) 

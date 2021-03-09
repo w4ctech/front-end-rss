@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-09 08:37:09，:rocket: 更新条数: +4123， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-09 08:46:40，:rocket: 更新条数: +4122， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,7 +996,12 @@
 </summary>
 
 
-- [2021-03-09-资深量化系统开发工程师（C++/-Python-）](https://www.v2ex.com/t/760038) ![](assets/new.png)  
+- [2021-03-09-使用-openmp-数组数据乱码](https://www.v2ex.com/t/760044) ![](assets/new.png)  
+- [2021-03-09-携号转网过程中大概有多久手机号是不能用的？](https://www.v2ex.com/t/760043) ![](assets/new.png)  
+- [2021-03-09-做了一个爱小说导航站，但是思路没有了，大家看下](https://www.v2ex.com/t/760041) ![](assets/new.png)  
+- [2021-03-09-Git-加速---目前正在用的方法，个人觉得挺有效果的](https://www.v2ex.com/t/760040) ![](assets/new.png)  
+- [2021-03-09-兄弟们-济南好的软件公司推荐一下](https://www.v2ex.com/t/760039) ![](assets/new.png)  
+- [2021-03-09-资深量化系统开发工程师（C++/-Python-），六险一金，拒绝-996，级别-p7-p8](https://www.v2ex.com/t/760038) ![](assets/new.png)  
 - [2021-03-09-副业开-taobao-店卖花以及花种如何？](https://www.v2ex.com/t/760037) ![](assets/new.png)  
 - [2021-03-09-长沙高新诚招后端开发工程师，大数据开发工程师，-c-语言开发工程师-薪资和一线持平。](https://www.v2ex.com/t/760036) ![](assets/new.png)  
 - [2021-03-09-免费或者低价-ssl-证书哪家强?](https://www.v2ex.com/t/760035) ![](assets/new.png)  
@@ -1011,11 +1016,6 @@
 - [2021-03-09-微信小程序-能否对-pdf-进行批注。](https://www.v2ex.com/t/760020) ![](assets/new.png)  
 - [2021-03-09-Bigo-内推广州/北京大量-HC周六双薪房补+四餐+薪资高15-薪以上发展前景好福利超好](https://www.v2ex.com/t/760018) ![](assets/new.png)  
 - [2021-03-09-Android-手机求推荐](https://www.v2ex.com/t/760017) ![](assets/new.png)  
-- [2021-03-09-iPhone-可以通过-USB-线把-Wi-Fi-网络共享给-MBP？](https://www.v2ex.com/t/760016) ![](assets/new.png)  
-- [2021-03-09-奇异人生（Life-is-strange）个人游玩感受](https://www.v2ex.com/t/760015) ![](assets/new.png)  
-- [2021-03-09-迫于-200G-不够用，国区-iCloud-计划出两个车位，有需要的吗？](https://www.v2ex.com/t/760014) ![](assets/new.png)  
-- [2021-03-09-某小有名气开源插件仓库-issue-惊现台_独言论](https://www.v2ex.com/t/760013) ![](assets/new.png)  
-- [2021-03-09-Apple-Watch-S5-设置解锁-MBP-2015-一直失败](https://www.v2ex.com/t/760012) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

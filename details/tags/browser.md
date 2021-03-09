@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-09 10:09:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-09 10:39:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,10 +35,13 @@
 - [2021-03-08-怎样安全地关闭老旧的-API？](https://www.ershicimi.com/p/2dbee48784961b8d13630e3fb066bc41) 
 - [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-03-09-Coinmarketcap-全球招聘：区块链浏览器开发工程师](https://www.v2ex.com/t/760028) 
 - [2021-03-09-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-09-Chrome-OS-超便捷安装指南](https://toutiao.io/k/ams28hi) 
 - [2021-03-09-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
+- [2021-03-09-招聘-|-三月招聘季开启,携程广邀各大安全圈人才共创精彩!](https://sec.thief.one/article_content?a_id=d459ea9ac1b0b6c70f2c2348bdae511d) 
+- [2021-03-09-网络安全狙击战丨面对疯狂的网络攻击,威胁情报出手了!](https://sec.thief.one/article_content?a_id=eba36fbd01a3946fb53d8a10288c6ec4) 
+- [2021-03-09-盘点-|-2021年两会网络安全相关提案大全](https://sec.thief.one/article_content?a_id=d19e375a84eb48db6b630d62d1bdeace) 
+- [2021-03-09-数据安全合规新动向:央行发布《金融业数据能力建设指引》附全文](https://sec.thief.one/article_content?a_id=53b822c835c89d408c6589cac047c438) 
 - [2021-03-09-春日招聘|滴滴、京东招聘安全工程师](https://sec.thief.one/article_content?a_id=9bb7fbe9d91ee6e93b5efd9ce70f91be) 
 - [2021-03-09-网络安全编程:驱动程序开发之“Hello-World”](https://sec.thief.one/article_content?a_id=32f12db87759ce89ce1b5bc5468cc787) 
 - [2021-03-08-【安全圈】员工为报复前公司,删数据改配置,法院:判刑2年6个月](https://sec.thief.one/article_content?a_id=4a6b662e27da3fc321a19e635659917b) 
@@ -54,10 +57,3 @@
 - [2021-03-07-思科发布了3条有关ACI和NS-OX安全漏洞的严重警告](https://sec.thief.one/article_content?a_id=d32c46ea42a4fa8d4560ad4d9a71d367) 
 - [2021-03-06-在Z|东呈、木链高薪招贤;10年+安全经验求职IT/安全总监](https://sec.thief.one/article_content?a_id=18bc0c4737df2a87bf23ba376bbd970e) 
 - [2021-03-06-GlobeImposter勒索热度不减,改头换面再出5.1变种](https://sec.thief.one/article_content?a_id=7f4f5e5dc0a9db1903d25ff702e5e60f) 
-- [2021-03-06-要素市场化配置下的数据安全挑战及应对策略](https://sec.thief.one/article_content?a_id=f0b5cdb28f3330343ab0268ec9ccdc26) 
-- [2021-03-06-网络安全攻防:Windows系统安全之端口安全](https://sec.thief.one/article_content?a_id=226aa94e58dbcf874f9216f32b64a7ef) 
-- [2021-03-05-【安全圈】尬中尬?网络安全公司Qualys被勒索软件攻击](https://sec.thief.one/article_content?a_id=bb927dafef5f09f236f3c5533549857a) 
-- [2021-03-05-虎符智库|要素市场化配置下的数据安全挑战及应对策略](https://sec.thief.one/article_content?a_id=eeb956f25331928e8f9a5ce1eaef32c1) 
-- [2021-03-05-【漏洞通告】VMware-View-Planner远程代码执行漏洞CVE-2021-...](https://sec.thief.one/article_content?a_id=551bb3dc130f8944c2e191898efeaf5b) 
-- [2021-03-05-委员通道丨周鸿祎:提升老百姓在数字化进程中的网络安全感](https://sec.thief.one/article_content?a_id=768d90a4fda734ecec212e9db45b840d) 
-- [2021-03-05-更新提示!Chrome新的零日漏洞正被利用](https://sec.thief.one/article_content?a_id=e80b2b18c05aae5810abf0598a8b2d2f) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-03-08 23:55:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-09 00:08:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-09-王伟说：“我可以做一个傻子吗？”](https://www.v2ex.com/t/759805) 
 - [2021-03-08-想找一份-DevOps-相关的工作需要哪些技术栈与知识？](https://www.v2ex.com/t/759804) 
 - [2021-03-08-Pear-Admin-Ant-1.3.0.Release-正式发布，基于-Ant-Design-与-Vue3-的模板框架](https://www.v2ex.com/t/759803) 
 - [2021-03-08-来分享下你们家里网络的设备和布线？](https://www.v2ex.com/t/759802) 
@@ -48,4 +49,3 @@
 - [2021-03-08-寻前端、UI，自由工作者，兼职，可以建立长期合作的伙伴](https://www.v2ex.com/t/759758) 
 - [2021-03-08-求推荐去油蓬松洗发水](https://www.v2ex.com/t/759757) 
 - [2021-03-08-用-Vulkan-渲染写一个-Android-GPUImage](https://www.v2ex.com/t/759756) 
-- [2021-03-08-求助：启动器从-openrc-切换到-systemd，因-systemd-networkd-配置网络，导致-dnsmasq-启动失败！](https://www.v2ex.com/t/759755) 

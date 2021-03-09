@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-09 02:12:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-09 02:43:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,7 +37,9 @@
 - [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-09-不懂就问，求指教-Windows-Server-有什么必要的安全配置？](https://www.v2ex.com/t/759840) 
+- [2021-03-09-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-09-Chrome-OS-超便捷安装指南](https://toutiao.io/k/ams28hi) 
+- [2021-03-09-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-08-【安全圈】员工为报复前公司,删数据改配置,法院:判刑2年6个月](https://sec.thief.one/article_content?a_id=4a6b662e27da3fc321a19e635659917b) 
 - [2021-03-08-调研启动-|-2020-2021年金融行业网络安全研究报告](https://sec.thief.one/article_content?a_id=c1440ec66a085682aa9d7c6ec0288c56) 
 - [2021-03-08-【安全热点周报】第184期:Microsoft-Exchange组合漏洞无需验证和...](https://sec.thief.one/article_content?a_id=875385cf72a5a31cba9075cf0cffb1c5) 

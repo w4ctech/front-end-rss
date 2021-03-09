@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-09 09:38:22，:rocket: 更新条数: +4123， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-09 09:47:48，:rocket: 更新条数: +4122， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,10 @@
 </summary>
 
 
+- [2021-03-09-求助!-Redis-集群搭建和数据迁移以及停机问题](https://www.v2ex.com/t/760067) ![](assets/new.png)  
+- [2021-03-09-排查问题真的好费精力.](https://www.v2ex.com/t/760066) ![](assets/new.png)  
+- [2021-03-09-杭州/上海招聘，前后端，测试，产品，-BD,销售，短视频剪辑等](https://www.v2ex.com/t/760065) ![](assets/new.png)  
+- [2021-03-09-郑州-2021-Google-Women-Techmakers（谷歌女性开发者大会）讲师招募啦！](https://www.v2ex.com/t/760064) ![](assets/new.png)  
 - [2021-03-09-到底要不要选外包，给了让人难以拒绝的薪资](https://www.v2ex.com/t/760063) ![](assets/new.png)  
 - [2021-03-09-关于期权激励交税问题](https://www.v2ex.com/t/760062) ![](assets/new.png)  
 - [2021-03-09-深圳-字节跳动-前端招人](https://www.v2ex.com/t/760061) ![](assets/new.png)  
@@ -1012,10 +1016,6 @@
 - [2021-03-09-咨询下各位大佬-ES-聚合排序的问题](https://www.v2ex.com/t/760048) ![](assets/new.png)  
 - [2021-03-09-搜狗-内推-社招、应届均可内推](https://www.v2ex.com/t/760047) ![](assets/new.png)  
 - [2021-03-09-苹果限免应用推荐3/9⏰|App-Store](https://www.v2ex.com/t/760046) ![](assets/new.png)  
-- [2021-03-09-HikariCP-中的-maxLifetime-的作用是什么？](https://www.v2ex.com/t/760045) ![](assets/new.png)  
-- [2021-03-09-使用-openmp-数组数据乱码](https://www.v2ex.com/t/760044) ![](assets/new.png)  
-- [2021-03-09-携号转网过程中大概有多久手机号是不能用的？](https://www.v2ex.com/t/760043) ![](assets/new.png)  
-- [2021-03-09-做了一个爱小说导航站，但是思路没有了，大家看下](https://www.v2ex.com/t/760041) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1059,8 +1059,8 @@
 
 
 - [2021-03-09-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
-- [2021-03-09-Spring-如何创建-bean-对象？](https://toutiao.io/k/1a67fbw) ![](assets/new.png)  
 - [2021-03-09-通知-&-告警治理（降噪）的-7-种方法](https://toutiao.io/k/556xuh7) ![](assets/new.png)  
+- [2021-03-09-Spring-如何创建-bean-对象？](https://toutiao.io/k/1a67fbw) ![](assets/new.png)  
 - [2021-03-09-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
 - [2021-03-09-架构设计笔记（八）：详细方案设计](https://toutiao.io/k/pbf0cqj) ![](assets/new.png)  
 - [2021-03-09-Linux-文件-I/O-进化史（二）：mmap](https://toutiao.io/k/5v7yo5t) ![](assets/new.png)  

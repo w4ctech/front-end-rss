@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-09 13:12:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-09 13:38:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -41,6 +41,7 @@
 - [2021-03-09-【图书】前端函数式演进](https://www.ershicimi.com/p/2bef2a76d5e2d630bb606029e881b52c) 
 - [2021-03-07-【招聘】杭州小影科技招前端工程师、高级前端H5跨端、基础架构](https://www.ershicimi.com/p/dbd578710db6acdae00c9749f908daa4) 
 - [2021-03-02-【第2213期】原子设计：如何设计组件体系](https://www.ershicimi.com/p/afaa92748057988420f09ac2969924f2) 
+- [2021-03-09-使用顶层-await-简化-JS-代码](https://www.ershicimi.com/p/381f871279592786dff7b95c261fea39) 
 - [2021-03-08-什么是JavaScript的作用域](https://www.ershicimi.com/p/91057db27f837e895944b6f121ef2589) 
 - [2021-03-04-图文并茂讲清楚-JavaScript-内存管理](https://www.ershicimi.com/p/6176d796290edca7b1d2444b486e7b0c) 
 - [2021-03-05-这个异步问题你肯定遇到过，但是会解决的并不多](https://www.ershicimi.com/p/f57b3d1ec8f481307e3de355af5edd67) 
@@ -93,6 +94,5 @@
 - [2021-03-07-本周知乎热榜-|-货拉拉跳车事件最新进展，姚策郭威错换人生案，复旦教授打车证明价格歧视](https://www.ershicimi.com/p/c3bfd3b2b1b99731e5441256e1a97310) 
 - [2021-03-09-请教一个-js-字符串问题。。](https://www.v2ex.com/t/760082) 
 - [2021-03-09-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) 
-- [2021-03-09-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) 
 - [2021-03-09-火眼发现SolarWinds事件第2个恶意后门Sunshuttle,微软发现3个恶意...](https://sec.thief.one/article_content?a_id=067a178638122aa50df90e2dbc8104a3) 
 - [2021-03-07-网络安全编程:异步过程调用](https://sec.thief.one/article_content?a_id=bdfed1e9288a845bb8cbba6d203feaa1) 

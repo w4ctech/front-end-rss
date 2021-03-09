@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-09 10:47:50，:rocket: 更新条数: +4126， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-09 11:00:13，:rocket: 更新条数: +4126， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,8 @@
 </summary>
 
 
+- [2021-03-09-最新疫情：全国新冠累计确诊90002例-无新增本土病例](https://m.caixin.com/m/2021-03-09/101673104.html) ![](assets/new.png)  
+- [2021-03-09-最新海外疫情：新冠感染超1.17亿-累计死亡超259万](https://m.caixin.com/m/2021-03-09/101673097.html) ![](assets/new.png)  
 - [2021-03-09-【境内疫情观察】全国累计确诊病例超9万例（3月8日）](http://m.database.caixin.com/m/2021-03-09/101672900.html) ![](assets/new.png)  
 - [2021-03-09-巴西疫情大幅反弹-中国版“国际旅行健康证明”出炉｜大流行手记（3月8日）](https://m.caixin.com/m/2021-03-09/101672674.html) ![](assets/new.png)  
 - [2021-03-08-科兴疫苗全球接种4400万剂-56宗死亡病例经评估与疫苗无关](http://m.china.caixin.com/m/2021-03-08/101672645.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2021-03-05-日本再延长首都圈防疫紧急状态-东京奥运或谢绝海外观众](http://m.international.caixin.com/m/2021-03-05/101671258.html) ![](assets/new.png)  
 - [2021-03-04-【境内疫情观察】中国已累计接种疫苗5200多万剂次（3月3日）](http://m.database.caixin.com/m/2021-03-04/101670472.html) ![](assets/new.png)  
 - [2021-03-04-日韩现接种疫苗后死亡病例-沙特仅限疫苗接种者麦加朝觐|大流行手记（3月3日）](https://m.caixin.com/m/2021-03-04/101670252.html) ![](assets/new.png)  
-- [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) ![](assets/new.png)  
-- [2021-03-03-【境内疫情观察】全国新增10例境外输入病例（3月2日）](http://m.database.caixin.com/m/2021-03-03/101669953.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-03-09-一定要买在最高点，否则亏的没感觉](https://www.v2ex.com/t/760087) ![](assets/new.png)  
+- [2021-03-09-女朋友是小粉红怎么办，很粉的那种？](https://www.v2ex.com/t/760086) ![](assets/new.png)  
 - [2021-03-09-杭州溪鸟物流科技有人了解吗](https://www.v2ex.com/t/760084) ![](assets/new.png)  
 - [2021-03-09-快捷指令执行到达或离开自动化的问题](https://www.v2ex.com/t/760083) ![](assets/new.png)  
 - [2021-03-09-请教一个-js-字符串问题。。](https://www.v2ex.com/t/760082) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-03-09-排查问题真的好费精力.](https://www.v2ex.com/t/760066) ![](assets/new.png)  
 - [2021-03-09-杭州/上海招聘，前后端，测试，产品，-BD,销售，短视频剪辑等](https://www.v2ex.com/t/760065) ![](assets/new.png)  
 - [2021-03-09-郑州-2021-Google-Women-Techmakers（谷歌女性开发者大会）讲师招募啦！](https://www.v2ex.com/t/760064) ![](assets/new.png)  
-- [2021-03-09-到底要不要选外包，给了让人难以拒绝的薪资](https://www.v2ex.com/t/760063) ![](assets/new.png)  
-- [2021-03-09-关于期权激励交税问题](https://www.v2ex.com/t/760062) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,13 +1068,13 @@
 - [2021-03-09-图解设计模式](https://toutiao.io/k/7hmi0dw) ![](assets/new.png)  
 - [2021-03-09-Chrome-OS-超便捷安装指南](https://toutiao.io/k/ams28hi) ![](assets/new.png)  
 - [2021-03-09-杂谈第-36-期：大厂不要再被员工吐槽了](https://toutiao.io/k/cd64qao) ![](assets/new.png)  
-- [2021-03-09-AI-入行那些事儿（四）：最简单的机器学习模型之线性回归](https://toutiao.io/k/8qvgxzj) ![](assets/new.png)  
 - [2021-03-09-使用-Emacs-阅读邮件与-Feed-信息流](https://toutiao.io/k/m8kwjbu) ![](assets/new.png)  
+- [2021-03-09-AI-入行那些事儿（四）：最简单的机器学习模型之线性回归](https://toutiao.io/k/8qvgxzj) ![](assets/new.png)  
 - [2021-03-09-译-迈向完全可编程-tc-分类器-NetdevConf，2016](https://toutiao.io/k/l90itb4) ![](assets/new.png)  
 - [2021-03-09-网络运营落地页风控实践](https://toutiao.io/k/gpxv2qf) ![](assets/new.png)  
 - [2021-03-09-React-面试不完全指南](https://toutiao.io/k/s0dskwy) ![](assets/new.png)  
-- [2021-03-09-在-Kubernetes-Pod-中如何获取客户端的真实-IP](https://toutiao.io/k/0a15f6p) ![](assets/new.png)  
 - [2021-03-09-工具-|-一款使用-TypeScript-开发的-Web-富文本编辑器](https://toutiao.io/k/5dj13zo) ![](assets/new.png)  
+- [2021-03-09-在-Kubernetes-Pod-中如何获取客户端的真实-IP](https://toutiao.io/k/0a15f6p) ![](assets/new.png)  
 - [2021-03-09-上线-Python-应用仅需一条命令的开源框架：Zappa（详细教程）](https://toutiao.io/k/psxr0j5) ![](assets/new.png)  
 - [2021-03-09-前端周刊：2021-2-期](https://toutiao.io/k/waxqsut) ![](assets/new.png)  
 - [2021-03-09-.NET-Core-dump-分析](https://toutiao.io/k/c50wq39) ![](assets/new.png)  

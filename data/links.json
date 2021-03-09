@@ -19198,6 +19198,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "如何看待 70% 的程序员缺乏数据结构和算法知识？ ｜  极客时间",
+        "link": "https://www.ershicimi.com/p/6c36ac3d226a7b361cefbb9191bc9a0d",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "程序员必读的涨薪指南",
+        "link": "https://www.ershicimi.com/p/fe090415bada714f39d98a89d1ad9e43",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "面对 996，耗子叔也是很刚了！ ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/ce5b739a09ecd78373a47eba3e3822bf",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "为什么 Haskell 是我们构建生产软件系统的首选",
+        "link": "https://www.ershicimi.com/p/bc84666d450adac1f898f3ec1e8ee535",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "揭秘新的供应链攻击：一研究员靠它成功入侵微软、苹果等 35 家科技公司",
+        "link": "https://www.ershicimi.com/p/05f0bdae74c5eb6051b6bad67db86927",
+        "date": "2021-03-09"
+      },
+      {
         "title": "网易云醒醒吧，虾米都被“情怀”搞死了",
         "link": "https://www.ershicimi.com/p/7d0e6b1a2bf487e5ae91a4e6762b7006",
         "date": "2021-03-08"
@@ -19271,31 +19296,6 @@
         "title": "InfoQ编程语言2月排行榜结果出炉：最难的语言竟是它",
         "link": "https://www.ershicimi.com/p/2d5e95463d692f19280d0675d9d17dae",
         "date": "2021-03-05"
-      },
-      {
-        "title": "字节、美团、阿里等国内大公司的200+技术干货视频，任你选",
-        "link": "https://www.ershicimi.com/p/2a878a17a49230bcd0dd6373c99c479d",
-        "date": "2021-03-05"
-      },
-      {
-        "title": "打破门槛，探索用Python写CUDA的技巧",
-        "link": "https://www.ershicimi.com/p/7a6219cc85bc0f96c705528603bd8bb3",
-        "date": "2021-03-05"
-      },
-      {
-        "title": "区块链深入“健康码”验证、疫苗打假",
-        "link": "https://www.ershicimi.com/p/5dbd84ac3463dfcac64dc58cdd4fef2a",
-        "date": "2021-03-05"
-      },
-      {
-        "title": "字节游戏疯狂砸钱，头腾大战越打越烈",
-        "link": "https://www.ershicimi.com/p/7c7b31191120a5871d13781edf50d70f",
-        "date": "2021-03-04"
-      },
-      {
-        "title": "我在Uber亲历的最严重的工程灾难",
-        "link": "https://www.ershicimi.com/p/e449c2f98f9d16d4e076b7e9fa137df3",
-        "date": "2021-03-04"
       }
     ]
   },
@@ -19795,6 +19795,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "killblanks 预渲染和骨架屏解决白屏问题",
+        "link": "https://www.v2ex.com/t/760001",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "有阿里的小伙伴吗，求 Lazada 语言标注任务负责人的联系人的联系方式，求介绍，有酬谢",
+        "link": "https://www.v2ex.com/t/760000",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "Microsoft 365 ， 现缺 2 人",
+        "link": "https://www.v2ex.com/t/759999",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "还有十个月就过年了 v 友们有什么想说的吗",
+        "link": "https://www.v2ex.com/t/759997",
+        "date": "2021-03-09"
+      },
+      {
         "title": "既然 V 站没有私信功能，作为程序员是否可以用不对称加密方式来实现“私信”交流",
         "link": "https://www.v2ex.com/t/759996",
         "date": "2021-03-09"
@@ -19967,26 +19987,6 @@
       {
         "title": "滴滴自动驾驶后端服务职位招聘内推",
         "link": "https://www.v2ex.com/t/759952",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "有会做那种自定义文字背景图的吗",
-        "link": "https://www.v2ex.com/t/759951",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "M1 mini 写入 SSD 挺夸张的 9 点半到现在写入 48G",
-        "link": "https://www.v2ex.com/t/759950",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "[实习] [微软亚洲研究院] 全球网络实时数据采集平台 Web 前端实习生",
-        "link": "https://www.v2ex.com/t/759949",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "[支付宝] [实习] [上海杭州] 数据质量团队校招实习内推启动！",
-        "link": "https://www.v2ex.com/t/759948",
         "date": "2021-03-09"
       }
     ]
@@ -20204,18 +20204,8 @@
         "date": "2021-03-09"
       },
       {
-        "title": "[推荐] 中高级前端须注意的 40 条移动端 H5 坑位指南（网易三年实践）",
-        "link": "https://toutiao.io/k/ix2e9ja",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "[推荐] Redis 专题：深入解读哨兵模式",
-        "link": "https://toutiao.io/k/tm4wyb0",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "[推荐] Java 实现大文件多线程下载，提速 30 倍！想学？我教你啊",
-        "link": "https://toutiao.io/k/jvd3wnb",
+        "title": "[推荐] ​程序员划水指南",
+        "link": "https://toutiao.io/k/gheevc3",
         "date": "2021-03-09"
       },
       {
@@ -20224,28 +20214,13 @@
         "date": "2021-03-09"
       },
       {
-        "title": "[推荐] 2021 阿里淘系工程师推荐书单",
-        "link": "https://toutiao.io/k/txzl2gg",
+        "title": "[推荐] Linux 内存管理",
+        "link": "https://toutiao.io/k/h2vf9va",
         "date": "2021-03-09"
       },
       {
-        "title": "[推荐] 高并发系统的限流策略：漏桶和令牌桶（附源码剖析）",
-        "link": "https://toutiao.io/k/x6ro69m",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "[推荐] 国内有哪些顶级技术团队的博客值得推荐？",
-        "link": "https://toutiao.io/k/j7v5pee",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "[推荐] 硬核！漫画图解 HTTP 基础 + 面试题",
-        "link": "https://toutiao.io/k/rmckht1",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "[推荐] ​程序员划水指南",
-        "link": "https://toutiao.io/k/gheevc3",
+        "title": "[推荐] Spring Boot 异步调用",
+        "link": "https://toutiao.io/k/xxk05uj",
         "date": "2021-03-09"
       },
       {
@@ -20254,8 +20229,38 @@
         "date": "2021-03-09"
       },
       {
-        "title": "[推荐] Tomcat 性能调优应该注意什么？",
-        "link": "https://toutiao.io/k/kldrkzc",
+        "title": "[推荐] 副业刚需：在 GitHub 上也能年入百万？",
+        "link": "https://toutiao.io/k/r9tqaw3",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "[推荐] 2021 阿里淘系工程师推荐书单",
+        "link": "https://toutiao.io/k/txzl2gg",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "[推荐] Web 安全头号大敌 XSS 漏洞解决最佳实践",
+        "link": "https://toutiao.io/k/jfopywh",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "[推荐] 高并发系统的限流策略：漏桶和令牌桶（附源码剖析）",
+        "link": "https://toutiao.io/k/x6ro69m",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "[推荐] Redis 专题：深入解读哨兵模式",
+        "link": "https://toutiao.io/k/tm4wyb0",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "[推荐] 帮助阅读源码的 8 个技巧",
+        "link": "https://toutiao.io/k/9v93x32",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "[推荐] Redis 为什么变慢了？一文讲透如何排查 Redis 性能问题",
+        "link": "https://toutiao.io/k/90116j8",
         "date": "2021-03-09"
       },
       {
@@ -20264,18 +20269,13 @@
         "date": "2021-03-09"
       },
       {
-        "title": "[推荐] 做一个很出色的程序员",
-        "link": "https://toutiao.io/k/g6xlwp2",
+        "title": "[推荐] Java 实现大文件多线程下载，提速 30 倍！想学？我教你啊",
+        "link": "https://toutiao.io/k/jvd3wnb",
         "date": "2021-03-09"
       },
       {
-        "title": "[推荐] HTTP header 中的黑科技",
-        "link": "https://toutiao.io/k/ep472ts",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "[推荐] Web 安全头号大敌 XSS 漏洞解决最佳实践",
-        "link": "https://toutiao.io/k/jfopywh",
+        "title": "[推荐] 国内有哪些顶级技术团队的博客值得推荐？",
+        "link": "https://toutiao.io/k/j7v5pee",
         "date": "2021-03-09"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-09 12:53:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-09 13:04:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -37,6 +37,8 @@
 - [2021-03-01-收藏-|-移动端H5开发常用技巧总结](https://www.ershicimi.com/p/9bf4d554bfe246a70b7a6bcba22ee99f) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
+- [2021-03-09-【第2220期】前端函数式演进之函数式思维和前端特征](https://www.ershicimi.com/p/d38736095776f458e4dd2c01b96ff810) 
+- [2021-03-09-【图书】前端函数式演进](https://www.ershicimi.com/p/2bef2a76d5e2d630bb606029e881b52c) 
 - [2021-03-07-【招聘】杭州小影科技招前端工程师、高级前端H5跨端、基础架构](https://www.ershicimi.com/p/dbd578710db6acdae00c9749f908daa4) 
 - [2021-03-02-【第2213期】原子设计：如何设计组件体系](https://www.ershicimi.com/p/afaa92748057988420f09ac2969924f2) 
 - [2021-03-08-什么是JavaScript的作用域](https://www.ershicimi.com/p/91057db27f837e895944b6f121ef2589) 
@@ -90,6 +92,6 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-03-07-本周知乎热榜-|-货拉拉跳车事件最新进展，姚策郭威错换人生案，复旦教授打车证明价格歧视](https://www.ershicimi.com/p/c3bfd3b2b1b99731e5441256e1a97310) 
 - [2021-03-09-请教一个-js-字符串问题。。](https://www.v2ex.com/t/760082) 
-- [2021-03-09-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) 
+- [2021-03-09-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) 
 - [2021-03-09-火眼发现SolarWinds事件第2个恶意后门Sunshuttle,微软发现3个恶意...](https://sec.thief.one/article_content?a_id=067a178638122aa50df90e2dbc8104a3) 
 - [2021-03-07-网络安全编程:异步过程调用](https://sec.thief.one/article_content?a_id=bdfed1e9288a845bb8cbba6d203feaa1) 

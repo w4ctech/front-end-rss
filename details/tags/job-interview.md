@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-09 11:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-09 11:09:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -37,4 +37,3 @@
 - [2021-03-09-成都招聘物联网-C/Golang-开发工程师，-15-25](https://www.v2ex.com/t/760070) 
 - [2021-03-09-北京-招聘-Java-/go/-Python-工程师](https://www.v2ex.com/t/760057) 
 - [2021-03-09-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) 
-- [2021-03-09-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) 

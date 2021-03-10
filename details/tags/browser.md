@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-10 04:33:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-10 04:41:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,7 @@
 - [2021-03-10-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-10-那些有趣/实用的-Chrome-扩展神器系列（三）](https://toutiao.io/k/ai9nb69) 
 - [2021-03-10-详细聊聊-RecyclerView-缓存机制](https://toutiao.io/k/my0ws7p) 
+- [2021-03-10-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
 - [2021-03-10-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-09-【安全圈】Microsoft-发布脚本以检查-ProxyLogon-漏洞](https://sec.thief.one/article_content?a_id=a62e7735c7e3593f69057be44260c8f5) 
 - [2021-03-09-两会热议“系统安全”-奇安信智能网联车安全实践成典型案例](https://sec.thief.one/article_content?a_id=b5a46521ad727e440d2325328634e5ec) 

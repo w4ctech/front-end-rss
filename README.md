@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-10 06:36:07，:rocket: 更新条数: +4124， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-10 06:46:13，:rocket: 更新条数: +4122， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,10 @@
 </summary>
 
 
+- [2021-03-10-村通网，原来-brew-可以安装微信、网易云音乐啥的](https://www.v2ex.com/t/760333) ![](assets/new.png)  
+- [2021-03-10-全干工程师想跳槽了，各位看看简历，给个建议吧](https://www.v2ex.com/t/760331) ![](assets/new.png)  
+- [2021-03-10-知春路-寻附近的合租室友](https://www.v2ex.com/t/760330) ![](assets/new.png)  
+- [2021-03-10-微信支付社招正式C++深圳](https://www.v2ex.com/t/760329) ![](assets/new.png)  
 - [2021-03-10-实习-微软亚洲研究院-全球网络实时数据采集平台-Web-前端实习生](https://www.v2ex.com/t/760326) ![](assets/new.png)  
 - [2021-03-10-蚂蚁金服体验技术部-蚂蚁区块链前端招聘资深前端工程师/专家](https://www.v2ex.com/t/760325) ![](assets/new.png)  
 - [2021-03-10-海外远程-Java-职位，-react-职位](https://www.v2ex.com/t/760324) ![](assets/new.png)  
@@ -1004,7 +1008,6 @@
 - [2021-03-10-mac-mini-2018-在-big-sur-下面插着网线连着-wifi-一会就断网](https://www.v2ex.com/t/760319) ![](assets/new.png)  
 - [2021-03-10-招聘-App-爬虫工程师，国内一线大厂最核心团队，加班少](https://www.v2ex.com/t/760318) ![](assets/new.png)  
 - [2021-03-10-炒股对抗失业-2021-03-续](https://www.v2ex.com/t/760317) ![](assets/new.png)  
-- [2021-03-10-打工人归属感简单调查](https://www.v2ex.com/t/760316) ![](assets/new.png)  
 - [2021-03-10-不懂就问，一直搞不懂为啥放假会有补上班一说，为何不直接少放呢？](https://www.v2ex.com/t/760315) ![](assets/new.png)  
 - [2021-03-10-产品+设计狗，有啥低代码开发小程序或-APP-的技术方案？](https://www.v2ex.com/t/760314) ![](assets/new.png)  
 - [2021-03-10-同样的机型某云国内一年是-700-块，国外一年居然-3500，有什么方法可破。](https://www.v2ex.com/t/760313) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-03-10-有没有大佬解释一下空安全？](https://www.v2ex.com/t/760309) ![](assets/new.png)  
 - [2021-03-10-世界上能不劳而获的只有体重、年龄和贫穷，但只是穷人这样](https://www.v2ex.com/t/760306) ![](assets/new.png)  
 - [2021-03-10-成都招-Go](https://www.v2ex.com/t/760304) ![](assets/new.png)  
-- [2021-03-10-社区财富榜是否可以推出非充值财富的榜单](https://www.v2ex.com/t/760302) ![](assets/new.png)  
-- [2021-03-10-有生发的洗发水吗](https://www.v2ex.com/t/760301) ![](assets/new.png)  
-- [2021-03-10-做个小调查，作为设计师您接受有偿试稿么？](https://www.v2ex.com/t/760300) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

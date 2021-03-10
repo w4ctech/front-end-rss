@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-10 10:55:39，:rocket: 更新条数: +4124， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-10 11:04:45，:rocket: 更新条数: +4124， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1073,8 +1073,8 @@
 - [2021-03-10-Eureka-Server-开关流程](https://toutiao.io/k/8lvy3ef) ![](assets/new.png)  
 - [2021-03-10-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
 - [2021-03-10-详细聊聊-RecyclerView-缓存机制](https://toutiao.io/k/my0ws7p) ![](assets/new.png)  
-- [2021-03-10-程序员必须知道的数据结构：队列与栈](https://toutiao.io/k/77gyr7m) ![](assets/new.png)  
 - [2021-03-10-书单：互联网企业面试案头书之程序员技术篇](https://toutiao.io/k/ihhl9au) ![](assets/new.png)  
+- [2021-03-10-程序员必须知道的数据结构：队列与栈](https://toutiao.io/k/77gyr7m) ![](assets/new.png)  
 - [2021-03-10-几乎刷完了力扣所有的二分题，我发现了这些东西（上）](https://toutiao.io/k/d8c7pym) ![](assets/new.png)  
 - [2021-03-10-Git-文章集锦](https://toutiao.io/k/ugfcoby) ![](assets/new.png)  
 - [2021-03-10-译-Jetpack-Compose-Beta-版现已发布](https://toutiao.io/k/fgc5g8r) ![](assets/new.png)  

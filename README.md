@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-10 19:34:53，:rocket: 更新条数: +737， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-10 19:47:32，:rocket: 更新条数: +737， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -976,6 +976,7 @@
 </summary>
 
 
+- [2021-03-10-Alfred-Powerpack-Mega-Supporter-开车啦](https://www.v2ex.com/t/760522) ![](assets/new.png)  
 - [2021-03-10-以字符串形式存储证书，密码还有用吗？](https://www.v2ex.com/t/760521) ![](assets/new.png)  
 - [2021-03-10-说个真正的-IC，大神中的大神](https://www.v2ex.com/t/760520) ![](assets/new.png)  
 - [2021-03-10-工作地点怎么选在毕业实习](https://www.v2ex.com/t/760519) ![](assets/new.png)  
@@ -995,7 +996,6 @@
 - [2021-03-10-被-lastpass-玩坏！求有经验的大佬指导方法。](https://www.v2ex.com/t/760499) ![](assets/new.png)  
 - [2021-03-10-有大佬指点一下吗，该走哪条路，选-3d-可视化还是框架这种业务类的呢，现在换了新公司有点迷茫](https://www.v2ex.com/t/760497) ![](assets/new.png)  
 - [2021-03-10-上海电信精品网不走-59.34-了](https://www.v2ex.com/t/760496) ![](assets/new.png)  
-- [2021-03-10-劳动合同到期未续签](https://www.v2ex.com/t/760495) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

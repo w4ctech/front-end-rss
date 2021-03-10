@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-03-10 19:34:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-10 19:47:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-10-Alfred-Powerpack-Mega-Supporter-开车啦](https://www.v2ex.com/t/760522) 
 - [2021-03-10-以字符串形式存储证书，密码还有用吗？](https://www.v2ex.com/t/760521) 
 - [2021-03-10-说个真正的-IC，大神中的大神](https://www.v2ex.com/t/760520) 
 - [2021-03-10-工作地点怎么选在毕业实习](https://www.v2ex.com/t/760519) 
@@ -41,4 +42,3 @@
 - [2021-03-10-请教一个-MySQL-数据库-redo-日志恢复的问题](https://www.v2ex.com/t/760478) 
 - [2021-03-10-接受不了-#FFFF00-的内容正常吗](https://www.v2ex.com/t/760476) 
 - [2021-03-10-请问可以根据-android-的-app-的-apk-推出源码吗？是一个声波通信的-app，做课设想参考一下](https://www.v2ex.com/t/760475) 
-- [2021-03-10-有类似于阿里云-Redis-DMS-的开源产品吗？](https://www.v2ex.com/t/760472) 

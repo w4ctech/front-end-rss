@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-10 08:09:33，:rocket: 更新条数: +4126， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-10 08:37:11，:rocket: 更新条数: +4129， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,26 +996,26 @@
 </summary>
 
 
+- [2021-03-10-Rails-的-setting.yml-在-go-中有什么替代方案吗？](https://www.v2ex.com/t/760380) ![](assets/new.png)  
+- [2021-03-10-你一直坚持写博客有多久了？](https://www.v2ex.com/t/760379) ![](assets/new.png)  
+- [2021-03-10-关于-HTTP-服务器实现的小白级别的问题](https://www.v2ex.com/t/760378) ![](assets/new.png)  
+- [2021-03-10-求推荐适合老人的视频通话工具](https://www.v2ex.com/t/760377) ![](assets/new.png)  
+- [2021-03-10-大家觉得已经签正式工作的留学生以想去学校看看的理由，请假一个半月合理吗](https://www.v2ex.com/t/760376) ![](assets/new.png)  
+- [2021-03-10-1080*2160-的视频，-iPhone-12-系列为什么会卡死？](https://www.v2ex.com/t/760375) ![](assets/new.png)  
+- [2021-03-10-校招实习阿里巴巴淘系技术部招聘!-前端、后台、算法](https://www.v2ex.com/t/760373) ![](assets/new.png)  
+- [2021-03-10-mac-os-下如何更改-vnc://-格式的启动程序](https://www.v2ex.com/t/760372) ![](assets/new.png)  
+- [2021-03-10-请问非-macOS-下有像-Terminal.app-CMD+K-这样终端侧清屏的终端程序吗？](https://www.v2ex.com/t/760371) ![](assets/new.png)  
+- [2021-03-10-做个小调查，国内的前端开发们要写单元测试吗？](https://www.v2ex.com/t/760370) ![](assets/new.png)  
+- [2021-03-10-centos7-服务器通过交换机连接网络，交换机有两根不同运营商的网线，但是拔掉电信的网线之后，就无法上网了](https://www.v2ex.com/t/760369) ![](assets/new.png)  
+- [2021-03-10-表扬一下斐尔可官方售后](https://www.v2ex.com/t/760368) ![](assets/new.png)  
+- [2021-03-10-广州-珠海-内推-金山办公-wps-招聘-Go-中高级开发,云存储开发,k8s-开发](https://www.v2ex.com/t/760367) ![](assets/new.png)  
+- [2021-03-10-想开了,-人生苦短,-及时行乐](https://www.v2ex.com/t/760366) ![](assets/new.png)  
+- [2021-03-10-成都外企，来一个靠谱的-iOSer](https://www.v2ex.com/t/760365) ![](assets/new.png)  
+- [2021-03-10-有没有私人市场的解决方案？](https://www.v2ex.com/t/760364) ![](assets/new.png)  
+- [2021-03-10-苹果限免应用推荐3/10⏰|App-Store](https://www.v2ex.com/t/760363) ![](assets/new.png)  
 - [2021-03-10-深圳-虾皮内推，-最近有专场哈～一天走完所有流程](https://www.v2ex.com/t/760362) ![](assets/new.png)  
 - [2021-03-10-离职了，想-4-月份去西藏，有什么好的建议吗](https://www.v2ex.com/t/760361) ![](assets/new.png)  
 - [2021-03-10-使用-MyBatis，怎么优雅地获取到-insert-时自动生成的-id？](https://www.v2ex.com/t/760359) ![](assets/new.png)  
-- [2021-03-10-移动出境带宽叕抽风了。。。](https://www.v2ex.com/t/760358) ![](assets/new.png)  
-- [2021-03-10-我司新开源了一个代码搜索工具，欢迎试用并提建议～](https://www.v2ex.com/t/760357) ![](assets/new.png)  
-- [2021-03-10-小米-10S-发布了，-870-处理器](https://www.v2ex.com/t/760356) ![](assets/new.png)  
-- [2021-03-10-实习-微软亚洲研究院-机器学习系统性能评测及相关研究实习生](https://www.v2ex.com/t/760355) ![](assets/new.png)  
-- [2021-03-10-数学难题，如何计算长宽比例？](https://www.v2ex.com/t/760354) ![](assets/new.png)  
-- [2021-03-10-360-政企安全-Java-工程师岗位，寻找优秀的你！欢迎砸简历](https://www.v2ex.com/t/760353) ![](assets/new.png)  
-- [2021-03-10-感觉大部分人的开源只是为了对学习技术的实践](https://www.v2ex.com/t/760352) ![](assets/new.png)  
-- [2021-03-10-“普却信”怎样沉淀自己，变得谦卑？](https://www.v2ex.com/t/760351) ![](assets/new.png)  
-- [2021-03-10-screenfetch-在-macos-big-sur-系统上不可用问题，请问如何解决？](https://www.v2ex.com/t/760350) ![](assets/new.png)  
-- [2021-03-10-求个-smb-浏览器方案](https://www.v2ex.com/t/760347) ![](assets/new.png)  
-- [2021-03-10-今天你们微信-Windows-电脑端有接收信息延迟很高吗](https://www.v2ex.com/t/760346) ![](assets/new.png)  
-- [2021-03-10-iOS-应用的-通知-是和下载软件用的-App-Store-账号绑定的吗](https://www.v2ex.com/t/760345) ![](assets/new.png)  
-- [2021-03-10-请教一下，百度是如何屏蔽模拟器用户的。](https://www.v2ex.com/t/760344) ![](assets/new.png)  
-- [2021-03-10-哪个区的-Google-Play-有闲鱼？](https://www.v2ex.com/t/760343) ![](assets/new.png)  
-- [2021-03-10-校招应届生工作选择，求各位前辈建议](https://www.v2ex.com/t/760342) ![](assets/new.png)  
-- [2021-03-10--一面数据|-深圳-年轻团队-文化氛围好-~~我们在寻找对大数据/-Python-有热情的小伙伴](https://www.v2ex.com/t/760341) ![](assets/new.png)  
-- [2021-03-10-令人制烯的操作](https://www.v2ex.com/t/760340) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,19 +1064,19 @@
 - [2021-03-10-下一代微服务-Service-Mesh-原理及实践](https://toutiao.io/k/hxrinvv) ![](assets/new.png)  
 - [2021-03-10-2021-技术展望-|-走向未来的实时生成技术](https://toutiao.io/k/fyysozx) ![](assets/new.png)  
 - [2021-03-10-告诉你-5-个足以让你装逼到飞的-Excel-小技巧](https://toutiao.io/k/ss4ai4h) ![](assets/new.png)  
+- [2021-03-10-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
 - [2021-03-10-iOS-稳定性问题治理：卡死崩溃监控原理及最佳实践](https://toutiao.io/k/8gc0m8s) ![](assets/new.png)  
 - [2021-03-10-那些有趣/实用的-Chrome-扩展神器系列（三）](https://toutiao.io/k/ai9nb69) ![](assets/new.png)  
-- [2021-03-10-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
-- [2021-03-10-漫画｜程序员：大师，我想写个操作系统](https://toutiao.io/k/8nlra4s) ![](assets/new.png)  
 - [2021-03-10-去哪里找-Java-练手项目？](https://toutiao.io/k/qh7wgrx) ![](assets/new.png)  
-- [2021-03-10-详细聊聊-RecyclerView-缓存机制](https://toutiao.io/k/my0ws7p) ![](assets/new.png)  
+- [2021-03-10-漫画｜程序员：大师，我想写个操作系统](https://toutiao.io/k/8nlra4s) ![](assets/new.png)  
 - [2021-03-10-手摸手-Go-深入剖析-sync.Pool](https://toutiao.io/k/on8e69z) ![](assets/new.png)  
+- [2021-03-10-详细聊聊-RecyclerView-缓存机制](https://toutiao.io/k/my0ws7p) ![](assets/new.png)  
 - [2021-03-10-程序员必须知道的数据结构：队列与栈](https://toutiao.io/k/77gyr7m) ![](assets/new.png)  
 - [2021-03-10-Eureka-Server-开关流程](https://toutiao.io/k/8lvy3ef) ![](assets/new.png)  
 - [2021-03-10-书单：互联网企业面试案头书之程序员技术篇](https://toutiao.io/k/ihhl9au) ![](assets/new.png)  
 - [2021-03-10-Git-文章集锦](https://toutiao.io/k/ugfcoby) ![](assets/new.png)  
-- [2021-03-10-几乎刷完了力扣所有的二分题，我发现了这些东西（上）](https://toutiao.io/k/d8c7pym) ![](assets/new.png)  
 - [2021-03-10-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
+- [2021-03-10-几乎刷完了力扣所有的二分题，我发现了这些东西（上）](https://toutiao.io/k/d8c7pym) ![](assets/new.png)  
 - [2021-03-10-译-Jetpack-Compose-Beta-版现已发布](https://toutiao.io/k/fgc5g8r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

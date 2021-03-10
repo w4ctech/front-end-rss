@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-10 06:46:13，:rocket: 更新条数: +4122， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-10 06:57:43，:rocket: 更新条数: +4120， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,11 @@
 </summary>
 
 
+- [2021-03-10-令人制烯的操作](https://www.v2ex.com/t/760340) ![](assets/new.png)  
+- [2021-03-10-无意间看见-35-岁的由来](https://www.v2ex.com/t/760339) ![](assets/new.png)  
+- [2021-03-10-戴尔-U2720Q-的-USB-口坏了](https://www.v2ex.com/t/760338) ![](assets/new.png)  
+- [2021-03-10-寻求一位朋友帮忙远程改代码-需求不难-有报酬](https://www.v2ex.com/t/760337) ![](assets/new.png)  
+- [2021-03-10-离职交接期被安排改需求,-最后要求的交接文档没写完,现在不给开离职证明和结算工资](https://www.v2ex.com/t/760334) ![](assets/new.png)  
 - [2021-03-10-村通网，原来-brew-可以安装微信、网易云音乐啥的](https://www.v2ex.com/t/760333) ![](assets/new.png)  
 - [2021-03-10-全干工程师想跳槽了，各位看看简历，给个建议吧](https://www.v2ex.com/t/760331) ![](assets/new.png)  
 - [2021-03-10-知春路-寻附近的合租室友](https://www.v2ex.com/t/760330) ![](assets/new.png)  
@@ -1011,11 +1016,6 @@
 - [2021-03-10-不懂就问，一直搞不懂为啥放假会有补上班一说，为何不直接少放呢？](https://www.v2ex.com/t/760315) ![](assets/new.png)  
 - [2021-03-10-产品+设计狗，有啥低代码开发小程序或-APP-的技术方案？](https://www.v2ex.com/t/760314) ![](assets/new.png)  
 - [2021-03-10-同样的机型某云国内一年是-700-块，国外一年居然-3500，有什么方法可破。](https://www.v2ex.com/t/760313) ![](assets/new.png)  
-- [2021-03-10-新闻采集网站](https://www.v2ex.com/t/760312) ![](assets/new.png)  
-- [2021-03-10-5-年老-Android-打算换城市，求大佬们指导一下](https://www.v2ex.com/t/760310) ![](assets/new.png)  
-- [2021-03-10-有没有大佬解释一下空安全？](https://www.v2ex.com/t/760309) ![](assets/new.png)  
-- [2021-03-10-世界上能不劳而获的只有体重、年龄和贫穷，但只是穷人这样](https://www.v2ex.com/t/760306) ![](assets/new.png)  
-- [2021-03-10-成都招-Go](https://www.v2ex.com/t/760304) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1027,6 +1027,7 @@
 </summary>
 
 
+- [2021-03-10-【白话科普】CDN-&-游戏加速器，两者是一个原理吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14200&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F355985175%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-10-使用不多但又十分重要的：风控策略-www.woshipm.com](https://blogread.cn/news/go.php?idItem=14199&url=http%3A%2F%2Fwww.woshipm.com%2Fzhichang%2F1682661.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-10-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-10-全链路风控解决方案深度解读-segmentfault.com](https://blogread.cn/news/go.php?idItem=14197&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000020535780%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1046,7 +1047,6 @@
 - [2021-03-10-成为一流软件开发者的-34-条建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14183&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQqNLaehHTtC6lm8IQ2SWGQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-10-优秀，起诉网站，可尼玛太秀了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14182&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBWSQVs3apxAJYrKT2QWqnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-10-Win-10-隐藏功能：手机离开，系统自动锁定-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14181&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKdavJUHXl9cRoJKTREFOAA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-10-程序员在家都逛哪些网站？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14180&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fl2d1LutlxbjCTBfUhqAahg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

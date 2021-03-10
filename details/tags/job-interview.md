@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-10 02:55:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-10 03:04:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -31,7 +31,8 @@
 - [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
+- [2021-03-10-招聘：-C++/-Python-/Data-Engineer---北京-/上海：-50-150-万，没有-996](https://www.v2ex.com/t/760241) 
 - [2021-03-10-总结出一个现象，如果面试时面试官当着你的面看你的简历，也就是说他之前没看过你的简历，说明这家公司根本不招人](https://www.v2ex.com/t/760227) 
-- [2021-03-10-领英面试题：-x-的-n-次幂](https://www.v2ex.com/t/760192) 
 - [2021-03-10-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) 
 - [2021-03-10-书单：互联网企业面试案头书之程序员技术篇](https://toutiao.io/k/ihhl9au) 
+- [2021-03-10-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) 

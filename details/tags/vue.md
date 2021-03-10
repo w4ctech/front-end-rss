@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-10 02:12:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-10 02:43:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -7,8 +7,8 @@
 
 
 
+- [2021-03-08-实战-|-Vite2.0搭建Vue3移动端项目](https://www.ershicimi.com/p/e8c718e607ce5646d5c4dda1e876a608) 
 - [2021-03-04-面试官：用Vue3.0-写过组件吗？如果想实现一个-Modal你会怎么设计？](https://www.ershicimi.com/p/741c199aefe29965da1a93689dda89d3) 
-- [2021-02-27-Vue3.0-所采用的-Composition-Api-与-Vue2.x-使用的-Options-A](https://www.ershicimi.com/p/3ba27b12c2e073dfe889918a2d9fae8d) 
 - [2021-03-03-【开源】基于Vue3的京东组件库NutUI来了](https://www.ershicimi.com/p/9fbcb51c2c67c7612e41b43e02243a5b) 
 - [2021-03-08-我从-Vuejs-中学到了什么](https://www.ershicimi.com/p/76380e1a7d8af519708e2cb74e0705bb) 
 - [2021-03-06-Vue-组件通信方式及其应用场景总结](https://www.ershicimi.com/p/54d1659358c48bf94d9318e710757d1c) 

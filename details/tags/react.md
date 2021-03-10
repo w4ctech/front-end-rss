@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-10 02:12:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-10 02:43:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-03-08-面试官：谈谈虚拟dom在Vue和React中的应用](https://www.ershicimi.com/p/803abd8d5d9be410e6feabcc43e73ca9) 
 - [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) 
 - [2021-03-04-React面试必问Fiber和Hooks，一次解决](https://www.ershicimi.com/p/428524dc2157f782dfb818cf30dcc0e3) 
 - [2021-03-03-【第2214期】前端测试心法-+-React-组件测试实践](https://www.ershicimi.com/p/1313feabd32a26b13b1d99851ca7a3d6) 

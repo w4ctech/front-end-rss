@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-03-10 14:45:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-10 14:52:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-10-害怕死亡，经常半夜惊醒](https://www.v2ex.com/t/760490) 
 - [2021-03-10-2-年-Python-，-2-年-golang，求广州的-golang-坑位](https://www.v2ex.com/t/760489) 
 - [2021-03-10-现在买-iPad-pro-2020-是不是-49-年入国军？](https://www.v2ex.com/t/760487) 
 - [2021-03-10-翻译：《实用的-Python-编程》04_04_Defining_exceptions](https://www.v2ex.com/t/760486) 
@@ -44,5 +45,3 @@
 - [2021-03-10-求职的时候如何判断一家公司的好坏](https://www.v2ex.com/t/760445) 
 - [2021-03-10-做了一个在线复读机](https://www.v2ex.com/t/760444) 
 - [2021-03-10-记单词的网站推荐](https://www.v2ex.com/t/760443) 
-- [2021-03-10-海雀摄像头打开云存储闪退。](https://www.v2ex.com/t/760441) 
-- [2021-03-10-大家有没有使用语雀记录的呀，相互关注，相互学习呀呀呀](https://www.v2ex.com/t/760440) 

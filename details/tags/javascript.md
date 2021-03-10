@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-10 09:08:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-10 09:33:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -78,6 +78,7 @@
 - [2021-02-24-可视化拖拽组件库一些技术要点原理分析（二）](https://www.ershicimi.com/p/b7bccdc930a3778b93950179e022c7e1) 
 - [2021-01-11-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/fa27bfb41b2cd95468c33a411b83ba33) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
+- [2021-03-10-RedMonk编程语言排名：JS占据统治地位，Ruby持续下滑，Dart上升最多](https://www.ershicimi.com/p/ea19821caf9d163623c54e8f864939f0) 
 - [2021-02-04-2021-年你需要了解的-13-种-JavaScript-代码技巧](https://www.ershicimi.com/p/2e5501ec8920ba7e18c2ea453ff4fc1d) 
 - [2021-02-03-3-个被低估的-JavaScript-框架](https://www.ershicimi.com/p/7987b1eb71f59d2bfe8fc473931688d5) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
@@ -92,7 +93,6 @@
 - [2021-03-07-本周知乎热榜-|-货拉拉跳车事件最新进展，姚策郭威错换人生案，复旦教授打车证明价格歧视](https://www.ershicimi.com/p/c3bfd3b2b1b99731e5441256e1a97310) 
 - [2021-03-10-如何实现数据根据某个键值将相同键值合并生成新二维数组的方法](https://www.v2ex.com/t/760396) 
 - [2021-03-10-screenfetch-在-macos-big-sur-系统上不可用，请问如何解决？](https://www.v2ex.com/t/760393) 
-- [2021-03-10-基于-argparse-实现的，以修饰器-decorator-形式设置命令行参数](https://www.v2ex.com/t/760390) 
-- [2021-03-10-screenfetch-在-macos-big-sur-系统上不可用问题，请问如何解决？](https://www.v2ex.com/t/760350) 
+- [2021-03-10-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) 
 - [2021-03-10-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) 
 - [2021-03-09-火眼发现SolarWinds事件第2个恶意后门Sunshuttle,微软发现3个恶意...](https://sec.thief.one/article_content?a_id=067a178638122aa50df90e2dbc8104a3) 

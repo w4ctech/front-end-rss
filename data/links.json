@@ -19213,6 +19213,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "腾讯八年春节保卫战：流量爆表宕机、现场应急开发，技术人上演最强“剧本杀”",
+        "link": "https://www.ershicimi.com/p/1b3a56112d52c19c074ca6cd1e400469",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "2021技术趋势展望：行业光速变化背后，底层技术有哪些趋势？",
+        "link": "https://www.ershicimi.com/p/72c9ed0bd0a0efdc616ec189e588121a",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "有感：仅在面试时攻克 MySQL 还不够 ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/d415221b3c2a9a4f8b0b07616a9f6fc5",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "RedMonk编程语言排名：JS占据统治地位，Ruby持续下滑，Dart上升最多",
+        "link": "https://www.ershicimi.com/p/ea19821caf9d163623c54e8f864939f0",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "Dropbox 如何通过机器学习每年节省 170 万美元的？",
+        "link": "https://www.ershicimi.com/p/995e98a6d0b04e91d8e61e2414c9f1b0",
+        "date": "2021-03-10"
+      },
+      {
         "title": "如何看待 70% 的程序员缺乏数据结构和算法知识？ ｜  极客时间",
         "link": "https://www.ershicimi.com/p/6c36ac3d226a7b361cefbb9191bc9a0d",
         "date": "2021-03-09"
@@ -19286,31 +19311,6 @@
         "title": "腾讯前员工因违反竞业协议赔偿近百万；中国居民人均资产36万元；拼多多日活首超淘宝；网络表情已成为“呈",
         "link": "https://www.ershicimi.com/p/2b01c3d4f5a84e6320b0e34b8f28f21a",
         "date": "2021-03-06"
-      },
-      {
-        "title": "2021 年 Istio 大型“入坑”指南",
-        "link": "https://www.ershicimi.com/p/87f98aa84f567eda439a41a831bbb7cc",
-        "date": "2021-03-06"
-      },
-      {
-        "title": "短视频风口，如何实现快速变现？",
-        "link": "https://www.ershicimi.com/p/36a3d02e9ada682359d6b89704ce1a27",
-        "date": "2021-03-06"
-      },
-      {
-        "title": "技术大神破解苹果M1 MacBook Air 挖矿，性能却被吊打了",
-        "link": "https://www.ershicimi.com/p/3e975ae03acf2966136093f7d8a90335",
-        "date": "2021-03-06"
-      },
-      {
-        "title": "Flutter 2.0来了！成为跨平台开发终极之选",
-        "link": "https://www.ershicimi.com/p/1881551658c01625bb78837d0b3869a8",
-        "date": "2021-03-05"
-      },
-      {
-        "title": "InfoQ编程语言2月排行榜结果出炉：最难的语言竟是它",
-        "link": "https://www.ershicimi.com/p/2d5e95463d692f19280d0675d9d17dae",
-        "date": "2021-03-05"
       }
     ]
   },
@@ -19810,6 +19810,76 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "做创业公司股东会影响自己找工作吗？",
+        "link": "https://www.v2ex.com/t/760413",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "再也不想看到中转的确认页面了 油猴脚本版",
+        "link": "https://www.v2ex.com/t/760412",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "收集了一些和房地产有关的数据",
+        "link": "https://www.v2ex.com/t/760410",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "今天面试了一个牛逼的大专生 (转载来自虎扑)",
+        "link": "https://www.v2ex.com/t/760409",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "[内推] 体素科技诚招产品交互设计师",
+        "link": "https://www.v2ex.com/t/760407",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "MySQL group_concat 为什么会有长度限制?",
+        "link": "https://www.v2ex.com/t/760406",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "也来分享个 iPhone 输入法的小功能",
+        "link": "https://www.v2ex.com/t/760405",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "老哥们小米商城预付了 100 订金到时付尾款还需要抢吗",
+        "link": "https://www.v2ex.com/t/760404",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "20~25 万左右搞定（买车+沪牌），求推荐",
+        "link": "https://www.v2ex.com/t/760403",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "gin 对于请求参数解密处理的优雅实现",
+        "link": "https://www.v2ex.com/t/760401",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "学校 onedrive 里的内容可以被学校的管理员看到吗？",
+        "link": "https://www.v2ex.com/t/760400",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "ubuntu 下 docker 无法启动",
+        "link": "https://www.v2ex.com/t/760399",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "[上海-虹桥][中\\高级前端开发][15k-25k] 上海聚水潭招多名前端开发-React-toB 业务",
+        "link": "https://www.v2ex.com/t/760398",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "手机厂的大佬们看过来",
+        "link": "https://www.v2ex.com/t/760397",
+        "date": "2021-03-10"
+      },
+      {
         "title": "如何实现数据根据某个键值将相同键值合并生成新二维数组的方法",
         "link": "https://www.v2ex.com/t/760396",
         "date": "2021-03-10"
@@ -19840,7 +19910,7 @@
         "date": "2021-03-10"
       },
       {
-        "title": "基于 argparse 实现的，以修饰器 decorator 形式设置命令行参数",
+        "title": "让 argparse 也可以通过修饰器形式设置命令行参数",
         "link": "https://www.v2ex.com/t/760390",
         "date": "2021-03-10"
       },
@@ -19948,76 +20018,6 @@
         "title": "有没有私人市场的解决方案？",
         "link": "https://www.v2ex.com/t/760364",
         "date": "2021-03-10"
-      },
-      {
-        "title": "[苹果限免应用推荐]3/10⏰|App Store",
-        "link": "https://www.v2ex.com/t/760363",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "[深圳] 虾皮内推， 最近有专场哈～一天走完所有流程",
-        "link": "https://www.v2ex.com/t/760362",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "离职了，想 4 月份去西藏，有什么好的建议吗",
-        "link": "https://www.v2ex.com/t/760361",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "使用 MyBatis，怎么优雅地获取到 insert 时自动生成的 id？",
-        "link": "https://www.v2ex.com/t/760359",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "移动出境带宽叕抽风了。。。",
-        "link": "https://www.v2ex.com/t/760358",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "我司新开源了一个代码搜索工具，欢迎试用并提建议～",
-        "link": "https://www.v2ex.com/t/760357",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "小米 10S 发布了， 870 处理器",
-        "link": "https://www.v2ex.com/t/760356",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "[实习] [微软亚洲研究院] 机器学习系统性能评测及相关研究实习生",
-        "link": "https://www.v2ex.com/t/760355",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "数学难题，如何计算长宽比例？",
-        "link": "https://www.v2ex.com/t/760354",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "360 政企安全 Java 工程师岗位，寻找优秀的你！欢迎砸简历",
-        "link": "https://www.v2ex.com/t/760353",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "感觉大部分人的开源只是为了对学习技术的实践",
-        "link": "https://www.v2ex.com/t/760352",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "“普却信”怎样沉淀自己，变得谦卑？",
-        "link": "https://www.v2ex.com/t/760351",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "screenfetch 在 macos big sur 系统上不可用问题，请问如何解决？",
-        "link": "https://www.v2ex.com/t/760350",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "求个 smb 浏览器方案",
-        "link": "https://www.v2ex.com/t/760347",
-        "date": "2021-03-10"
       }
     ]
   },
@@ -20026,6 +20026,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "假如现在你有30分钟，你会做什么？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14201&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdaily-time-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-10"
+      },
       {
         "title": "【白话科普】CDN & 游戏加速器，两者是一个原理吗？ (zhuanlan.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14200&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F355985175%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -20120,11 +20125,6 @@
         "title": "优秀，起诉网站，可尼玛太秀了 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14182&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBWSQVs3apxAJYrKT2QWqnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2021-03-10"
-      },
-      {
-        "title": "Win 10 隐藏功能：手机离开，系统自动锁定 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14181&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKdavJUHXl9cRoJKTREFOAA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-03-10"
       }
     ]
   },
@@ -20169,6 +20169,11 @@
         "date": "2021-03-10"
       },
       {
+        "title": "去哪里找 Java 练手项目？",
+        "link": "https://toutiao.io/k/qh7wgrx",
+        "date": "2021-03-10"
+      },
+      {
         "title": "iOS 稳定性问题治理：卡死崩溃监控原理及最佳实践",
         "link": "https://toutiao.io/k/8gc0m8s",
         "date": "2021-03-10"
@@ -20176,11 +20181,6 @@
       {
         "title": "那些有趣/实用的 Chrome 扩展神器系列（三）",
         "link": "https://toutiao.io/k/ai9nb69",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "去哪里找 Java 练手项目？",
-        "link": "https://toutiao.io/k/qh7wgrx",
         "date": "2021-03-10"
       },
       {
@@ -20209,18 +20209,13 @@
         "date": "2021-03-10"
       },
       {
-        "title": "书单：互联网企业面试案头书之程序员技术篇",
-        "link": "https://toutiao.io/k/ihhl9au",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "Git 文章集锦",
-        "link": "https://toutiao.io/k/ugfcoby",
-        "date": "2021-03-10"
-      },
-      {
         "title": "Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
         "link": "https://toutiao.io/k/yduqoev",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "书单：互联网企业面试案头书之程序员技术篇",
+        "link": "https://toutiao.io/k/ihhl9au",
         "date": "2021-03-10"
       },
       {
@@ -20229,33 +20224,23 @@
         "date": "2021-03-10"
       },
       {
+        "title": "Git 文章集锦",
+        "link": "https://toutiao.io/k/ugfcoby",
+        "date": "2021-03-10"
+      },
+      {
         "title": "[译] Jetpack Compose Beta 版现已发布",
         "link": "https://toutiao.io/k/fgc5g8r",
         "date": "2021-03-10"
       },
       {
-        "title": "[推荐] Java 实现大文件多线程下载，提速 30 倍！想学？我教你啊",
-        "link": "https://toutiao.io/k/jvd3wnb",
+        "title": "[推荐] 看完这篇你一定能掌握 Linux",
+        "link": "https://toutiao.io/k/ycdmy3y",
         "date": "2021-03-10"
       },
       {
-        "title": "[推荐] 做一个很出色的程序员",
-        "link": "https://toutiao.io/k/g6xlwp2",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "[推荐] 高并发系统的限流策略：漏桶和令牌桶（附源码剖析）",
-        "link": "https://toutiao.io/k/x6ro69m",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "[推荐] Redis 为什么变慢了？一文讲透如何排查 Redis 性能问题",
-        "link": "https://toutiao.io/k/90116j8",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "[推荐] ​程序员划水指南",
-        "link": "https://toutiao.io/k/gheevc3",
+        "title": "[推荐] HTTP header 中的黑科技",
+        "link": "https://toutiao.io/k/ep472ts",
         "date": "2021-03-10"
       },
       {
@@ -20264,28 +20249,38 @@
         "date": "2021-03-10"
       },
       {
-        "title": "[推荐] 最新互联网大厂职位薪资，快来对号入座吧",
-        "link": "https://toutiao.io/k/jpow46x",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "[推荐] 帮助阅读源码的 8 个技巧",
-        "link": "https://toutiao.io/k/9v93x32",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "[推荐] 流量复制方案对比：TCPCopy vs Goreplay",
-        "link": "https://toutiao.io/k/cpf8p4q",
-        "date": "2021-03-10"
-      },
-      {
         "title": "[推荐] Java 高并发编程基础之 AQS",
         "link": "https://toutiao.io/k/6s1vey3",
         "date": "2021-03-10"
       },
       {
-        "title": "[推荐] 硬核！漫画图解 HTTP 基础 + 面试题",
-        "link": "https://toutiao.io/k/rmckht1",
+        "title": "[推荐] 中高级前端须注意的 40 条移动端 H5 坑位指南（网易三年实践）",
+        "link": "https://toutiao.io/k/ix2e9ja",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "[推荐] 互联网架构演进之路",
+        "link": "https://toutiao.io/k/6w82jhc",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "[推荐] 副业刚需：在 GitHub 上也能年入百万？",
+        "link": "https://toutiao.io/k/r9tqaw3",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "[推荐] Tomcat 性能调优应该注意什么？",
+        "link": "https://toutiao.io/k/kldrkzc",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "[推荐] 面试 Redis 没底？这 40 道面试题让你不再慌（附答案）",
+        "link": "https://toutiao.io/k/0b1v2v6",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "[推荐] Redis 为什么变慢了？一文讲透如何排查 Redis 性能问题",
+        "link": "https://toutiao.io/k/90116j8",
         "date": "2021-03-10"
       },
       {
@@ -20294,18 +20289,23 @@
         "date": "2021-03-10"
       },
       {
-        "title": "[推荐] MySQL 索引从基础到原理，看这一篇就够了",
-        "link": "https://toutiao.io/k/hueiax0",
-        "date": "2021-03-10"
-      },
-      {
-        "title": "[推荐] Web 安全头号大敌 XSS 漏洞解决最佳实践",
-        "link": "https://toutiao.io/k/jfopywh",
+        "title": "[推荐] 一次 MySQL 线上死锁分析实战",
+        "link": "https://toutiao.io/k/pys6jzz",
         "date": "2021-03-10"
       },
       {
         "title": "[推荐] 2021 阿里淘系工程师推荐书单",
         "link": "https://toutiao.io/k/txzl2gg",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "[推荐] Java 实现大文件多线程下载，提速 30 倍！想学？我教你啊",
+        "link": "https://toutiao.io/k/jvd3wnb",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "[推荐] 高并发系统的限流策略：漏桶和令牌桶（附源码剖析）",
+        "link": "https://toutiao.io/k/x6ro69m",
         "date": "2021-03-10"
       }
     ]

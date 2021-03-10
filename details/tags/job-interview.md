@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-10 04:08:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-10 04:33:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -31,6 +31,7 @@
 - [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
+- [2021-03-10-实习用户研究北京快手用户研究岗实习生招聘](https://www.v2ex.com/t/760287) 
 - [2021-03-10-阿里巴巴-2022-届实习生招聘-数据平台技术团队](https://www.v2ex.com/t/760259) 
 - [2021-03-10-这里有一个线上模拟面试的机会，感兴趣的同学快来参与！](https://www.v2ex.com/t/760250) 
 - [2021-03-10-招聘：-C++/-Python-/Data-Engineer---北京-/上海：-50-150-万，没有-996](https://www.v2ex.com/t/760241) 

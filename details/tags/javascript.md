@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-10 02:50:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-10 02:55:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -90,6 +90,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-03-07-本周知乎热榜-|-货拉拉跳车事件最新进展，姚策郭威错换人生案，复旦教授打车证明价格歧视](https://www.ershicimi.com/p/c3bfd3b2b1b99731e5441256e1a97310) 
+- [2021-03-10-用边缘-CDN-加速的-JS-SDK，大家在实际场景是否有需要使用？](https://www.v2ex.com/t/760236) 
 - [2021-03-10-有没有什么“跨语言”的正则表达式RegEx实现？](https://www.v2ex.com/t/760209) 
 - [2021-03-09-火眼发现SolarWinds事件第2个恶意后门Sunshuttle,微软发现3个恶意...](https://sec.thief.one/article_content?a_id=067a178638122aa50df90e2dbc8104a3) 
 - [2021-03-07-网络安全编程:异步过程调用](https://sec.thief.one/article_content?a_id=bdfed1e9288a845bb8cbba6d203feaa1) 

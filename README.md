@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-10 14:40:02，:rocket: 更新条数: +4128， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-10 14:45:48，:rocket: 更新条数: +4129， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-03-10-2-年-Python-，-2-年-golang，求广州的-golang-坑位](https://www.v2ex.com/t/760489) ![](assets/new.png)  
 - [2021-03-10-现在买-iPad-pro-2020-是不是-49-年入国军？](https://www.v2ex.com/t/760487) ![](assets/new.png)  
 - [2021-03-10-翻译：《实用的-Python-编程》04_04_Defining_exceptions](https://www.v2ex.com/t/760486) ![](assets/new.png)  
 - [2021-03-10-华为设计快捷开启-TalkBack-功能是何居心？](https://www.v2ex.com/t/760485) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-03-10-回顾历史，展望未来](https://www.v2ex.com/t/760466) ![](assets/new.png)  
 - [2021-03-10-北京、成都火花思维内推前端、后端、nodejs、-Java-、游戏课件等多岗位急招~](https://www.v2ex.com/t/760465) ![](assets/new.png)  
 - [2021-03-10-有人喜欢自己的工作吗？](https://www.v2ex.com/t/760463) ![](assets/new.png)  
-- [2021-03-10-A-轮-BitMart-数字货币交易所-招聘-后端-/-产品-/-测试-/-区块链-工程师。](https://www.v2ex.com/t/760462) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

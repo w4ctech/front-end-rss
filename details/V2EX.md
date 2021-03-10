@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-03-10 20:33:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-10 20:41:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-10-有任何办法可以更改-macOS-启动台（Launchpad）里的应用名称字体大小吗](https://www.v2ex.com/t/760524) 
 - [2021-03-10-造了一个-beancount-的插件用于复杂的-balance-check](https://www.v2ex.com/t/760523) 
 - [2021-03-10-Alfred-Powerpack-Mega-Supporter-开车啦](https://www.v2ex.com/t/760522) 
 - [2021-03-10-以字符串形式存储证书，密码还有用吗？](https://www.v2ex.com/t/760521) 

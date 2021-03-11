@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-11 02:43:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 02:52:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -402,8 +402,6 @@
 - [【前端日刊】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8)
 - [【JavaScript】熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【开发者头条】推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u)
-- [【开发者头条】推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano)
 - [【开发者头条】推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -466,6 +464,7 @@
 - [【V2EX】校招实习网易互联网-2022-届招聘!-后端、算法、前端](https://www.v2ex.com/t/760570)
 - [【V2EX】校招实习蚂蚁金服技术部招聘!-后端、算法](https://www.v2ex.com/t/760562)
 - [【V2EX】GitHub-最强算法刷题笔记：手撕算法面试，连拿-5-个-offer!](https://www.v2ex.com/t/760546)
+- [【开发者头条】推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts)
 - [【安全热点】PyTorch-1.8发布,支持-AMD-GPU-和-Python-函数转换](https://sec.thief.one/article_content?a_id=5c1332ab9ec81f452a41024e65562e83)
 - [【安全热点】VCR.py:自动模拟-HTTP-交互,以简化和加速测试](https://sec.thief.one/article_content?a_id=2f11d50eb7824ed4a63c6f6e863021df)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -510,7 +509,6 @@
 - [【V2EX】github-上有人发邮件给我，说看到我写的代码有疑问，需要向我请教，这种情况怎么处理呢？](https://www.v2ex.com/t/760555)
 - [【开发者头条】谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0)
 - [【开发者头条】不一样的软件们：GitHub-热点速览-v.21.10](https://toutiao.io/k/iq4myt9)
-- [【开发者头条】推荐-副业刚需：在-GitHub-上也能年入百万？](https://toutiao.io/k/r9tqaw3)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

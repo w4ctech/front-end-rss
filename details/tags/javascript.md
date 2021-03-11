@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-11 15:05:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 15:38:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -38,10 +38,10 @@
 - [2021-03-09-【第2220期】前端函数式演进之函数式思维和前端特征](https://www.ershicimi.com/p/d38736095776f458e4dd2c01b96ff810) 
 - [2021-03-09-【图书】前端函数式演进](https://www.ershicimi.com/p/2bef2a76d5e2d630bb606029e881b52c) 
 - [2021-03-07-【招聘】杭州小影科技招前端工程师、高级前端H5跨端、基础架构](https://www.ershicimi.com/p/dbd578710db6acdae00c9749f908daa4) 
-- [2021-03-02-【第2213期】原子设计：如何设计组件体系](https://www.ershicimi.com/p/afaa92748057988420f09ac2969924f2) 
 - [2021-03-09-使用顶层-await-简化-JS-代码](https://www.ershicimi.com/p/381f871279592786dff7b95c261fea39) 
 - [2021-03-08-什么是JavaScript的作用域](https://www.ershicimi.com/p/91057db27f837e895944b6f121ef2589) 
 - [2021-03-04-图文并茂讲清楚-JavaScript-内存管理](https://www.ershicimi.com/p/6176d796290edca7b1d2444b486e7b0c) 
+- [2021-03-10-靠，神了！居然能通过-DOM-来改变-JS！](https://www.ershicimi.com/p/408eca3e8028dd94e00696e122a43025) 
 - [2021-03-05-这个异步问题你肯定遇到过，但是会解决的并不多](https://www.ershicimi.com/p/f57b3d1ec8f481307e3de355af5edd67) 
 - [2021-03-03-44-道-JS-'难'题，做对一半就是高手](https://www.ershicimi.com/p/0b51d5a7347e6e4ecb0850c94404f37d) 
 - [2021-02-23-蚂蚁金服网红技术团队分享，用-JavaScript-全栈打造商业级应用](https://www.ershicimi.com/p/f8e8f7a9da39eb553e140d8fb14e018b) 
@@ -56,7 +56,6 @@
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2021-03-01-「一次写过瘾」手写-Promise-全家桶-+-Generator-+-async/await](https://www.ershicimi.com/p/59577f96a3f349b86336da1e12537f40) 
 - [2021-02-26-理解JavaScript闭包9大使用场景](https://www.ershicimi.com/p/0e8e54a5ff5d08ed7522f4d57a51dd50) 
-- [2021-02-25-Virtual-DOM-认知误区](https://www.ershicimi.com/p/974cf454d6e7ac27f8c9f9217a2ce567) 
 - [2021-03-02-如何用-JS-实现二叉堆](https://www.ershicimi.com/p/7042ca89ec61f44863acb7c888ae365f) 
 - [2021-02-02-动态表单之表单组件的插件式加载方案](https://www.ershicimi.com/p/8cc8832fe3c00b073d2e023bcbf6947f) 
 - [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 
@@ -64,11 +63,11 @@
 - [2021-02-20-写了这么多年-JavaScript-，竟然还不知道这些技巧？](https://www.ershicimi.com/p/24e006352be974d2392950f1a41aec9f) 
 - [2021-02-05-不用try-catch，如何机智的捕获错误](https://www.ershicimi.com/p/fe4310d6940b69d9dd4221af76504622) 
 - [2021-02-04-JavaScript-ES12新特性抢先体验](https://www.ershicimi.com/p/ca3173fb7b253fb61b99b4657b4fc1bf) 
+- [2021-03-11-汇总JS语法-ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/63d0d95d3967290b02c84763b1a271d2) 
 - [2021-03-05-为什么要用-setTimeout-模拟-setInterval-？](https://www.ershicimi.com/p/6e460143e6e3ca01762cb74d25d2e415) 
 - [2021-03-05-一份开源的编码规范：代码整洁的-JavaScript](https://www.ershicimi.com/p/4102b1b8b708dae810b00afddf4c5798) 
 - [2021-03-03-为何在-JavaScript-中使用顶层-await？](https://www.ershicimi.com/p/4b32953b845cd6f147332d6a7bde3d37) 
 - [2021-03-02-开发中经常遇到的JavaScript问题整理超实用](https://www.ershicimi.com/p/aea9e1f76393d5abdeb99b64f95f429d) 
-- [2021-02-28-中高级前端须注意的40条移动端H5坑位指南-|-网易三年实践](https://www.ershicimi.com/p/dd62feb194190a46e689795f3512d55f) 
 - [2021-02-19-一份开源的编码规范：代码整洁的-JavaScript](https://www.ershicimi.com/p/4198fe8690fe8224e288d038bc1ee2fd) 
 - [2021-02-06-字节跳动最爱考的前端面试题：JavaScript-基础](https://www.ershicimi.com/p/2d9bc14be14f64c9bb0909060e86cc3a) 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 

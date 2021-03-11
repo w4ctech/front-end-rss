@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-11 00:08:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 00:17:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -32,6 +32,3 @@
 - [2021-03-10-有感：仅在面试时攻克-MySQL-还不够-｜-极客时间](https://www.ershicimi.com/p/d415221b3c2a9a4f8b0b07616a9f6fc5) 
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
 - [2021-03-10-FinTech-社区-招聘：前端开发工程师---上海---没有-996](https://www.v2ex.com/t/760525) 
-- [2021-03-11-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) 
-- [2021-03-11-书单：互联网企业面试案头书之程序员技术篇](https://toutiao.io/k/ihhl9au) 
-- [2021-03-11-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) 

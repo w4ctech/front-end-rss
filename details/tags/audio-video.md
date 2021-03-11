@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-11 00:08:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 00:17:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -85,6 +85,7 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2021-03-11-黑客入侵15万个Verkada监控摄像头-特斯拉被黑上海仓库视频曝光](https://sec.thief.one/article_content?a_id=5ad365aab97ecc29063c91acb3adf653) 
 - [2021-03-10-这个图像生成领域的PyTorch库火了,涵盖18+-SOTA-GAN实现](https://sec.thief.one/article_content?a_id=b606eb180b91ded2fe353fbcc42a5928) 
 - [2021-03-09-今晚19:30,直播揭秘信息泄露的“面纱”](https://sec.thief.one/article_content?a_id=c9379abe45cb5b6ead96a4a6d9cdbe59) 
 - [2021-03-01-【直播报名】物联网数据4.0时代，企业还有哪些新的存储需求？](https://www.ershicimi.com/p/38cd58ec7eba50794e472b524952553c) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-11 09:56:11，:rocket: 更新条数: +4132， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-11 10:04:36，:rocket: 更新条数: +4130， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,12 +65,10 @@
 </summary>
 
 
-- [2021-03-11-3月10日全国新增新冠11例-均由境外输入](https://m.caixin.com/m/2021-03-11/101673762.html) ![](assets/new.png)  
 - [2021-03-11-【境内疫情观察】全国新增11例境外输入病例（3月10日）](http://m.database.caixin.com/m/2021-03-11/101673880.html) ![](assets/new.png)  
 - [2021-03-11-韩国多例接种首剂疫苗者感染新冠-贫困国家疫苗严重短缺｜大流行手记（3月10日）](https://m.caixin.com/m/2021-03-11/101673729.html) ![](assets/new.png)  
 - [2021-03-10-新冠变异毒株逃逸治疗-何大一团队推出抗体“鸡尾酒疗法”](https://m.caixin.com/m/2021-03-10/101673627.html) ![](assets/new.png)  
 - [2021-03-10-欧盟因疫苗分配不力挨批-生产重镇为何供货仍告急](http://m.international.caixin.com/m/2021-03-10/101673313.html) ![](assets/new.png)  
-- [2021-03-10-最新海外疫情：新冠感染超1.17亿-累计死亡超260万](https://m.caixin.com/m/2021-03-10/101673654.html) ![](assets/new.png)  
 - [2021-03-10-【境内疫情观察】全国本土无症状感染者清零（3月9日）](http://m.database.caixin.com/m/2021-03-10/101673443.html) ![](assets/new.png)  
 - [2021-03-10-泰国推出“数字游艇隔离”-欧盟二季度将接收3亿剂疫苗｜大流行手记（3月9日）](https://m.caixin.com/m/2021-03-10/101673243.html) ![](assets/new.png)  
 - [2021-03-09-【境内疫情观察】全国累计确诊病例超9万例（3月8日）](http://m.database.caixin.com/m/2021-03-09/101672900.html) ![](assets/new.png)  
@@ -85,6 +83,8 @@
 - [2021-03-06-【境内疫情观察】全国新增10例境外输入病例（3月5日）](http://m.database.caixin.com/m/2021-03-06/101671693.html) ![](assets/new.png)  
 - [2021-03-06-欧盟疫苗出口管制或延至6月底-南非查获假新冠疫苗|大流行手记（3月5日）](https://m.caixin.com/m/2021-03-06/101671526.html) ![](assets/new.png)  
 - [2021-03-05-【境内疫情观察】上海新增6例境外输入病例（3月4日）](http://m.database.caixin.com/m/2021-03-05/101671063.html) ![](assets/new.png)  
+- [2021-03-05-欧药管局启动俄罗斯疫苗审批-英国拨款研究mRNA疫苗|大流行手记（3月4日）](https://m.caixin.com/m/2021-03-05/101670796.html) ![](assets/new.png)  
+- [2021-03-05-解药|用于检测新冠疫苗效力的中和抗体试剂盒来了](https://m.caixin.com/m/2021-03-05/101670726.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-03-11-同事-Service-层的方法有几个比较通用的写成静态？这会造成什么样的问题？](https://www.v2ex.com/t/760774) ![](assets/new.png)  
+- [2021-03-11-快手-核心部门社区科学部招聘，推荐算法包括模型，策略，架构，欢迎各位来看看机会](https://www.v2ex.com/t/760773) ![](assets/new.png)  
+- [2021-03-11-我直接好家伙](https://www.v2ex.com/t/760772) ![](assets/new.png)  
 - [2021-03-11-有人自定义过-SharedJedis-的-Hashing-么?](https://www.v2ex.com/t/760771) ![](assets/new.png)  
 - [2021-03-11-加入-Cobo，一起用区块链改变世界](https://www.v2ex.com/t/760770) ![](assets/new.png)  
 - [2021-03-11-终于关了蚂蚁森林](https://www.v2ex.com/t/760769) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-03-11-有人知道敏捷宣言作者-Brian-Marick-吗？有什么资料不，求助！](https://www.v2ex.com/t/760755) ![](assets/new.png)  
 - [2021-03-11-现在想在苹果入个门，怎么选择？](https://www.v2ex.com/t/760754) ![](assets/new.png)  
 - [2021-03-11-如果大家在职场遇到这表格里的情况，要怎么样应对以及维护自己的权利呢？](https://www.v2ex.com/t/760752) ![](assets/new.png)  
-- [2021-03-11-公司服务器被挖矿的入侵了](https://www.v2ex.com/t/760751) ![](assets/new.png)  
-- [2021-03-11-咨询一下各位大-D1ao，哦不，大佬，做-Go-需要必须要会-Linux-吗](https://www.v2ex.com/t/760750) ![](assets/new.png)  
-- [2021-03-11-请问有什么可以替代-server-酱的开源替代品吗？](https://www.v2ex.com/t/760749) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-11 12:44:05，:rocket: 更新条数: +4133， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-11 12:54:42，:rocket: 更新条数: +4133， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-03-11-putty-老是断线，求解决，求推荐其他工具](https://www.v2ex.com/t/760821) ![](assets/new.png)  
 - [2021-03-11-印象笔记对触屏的支持真的是辣鸡啊，我用-SURFACE-连点住右键都跳不出来](https://www.v2ex.com/t/760820) ![](assets/new.png)  
 - [2021-03-11-不知道家里有娃的来逛-V2EX-多不](https://www.v2ex.com/t/760819) ![](assets/new.png)  
 - [2021-03-11-鉴于大家习惯使用-tg，建了个群，欢迎大家交流学习](https://www.v2ex.com/t/760818) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-03-11-PDD-突然给我推荐-马桶清洁神器-除尿碱](https://www.v2ex.com/t/760801) ![](assets/new.png)  
 - [2021-03-11-为了注册微信小程序想去注册个公司，求打醒。。。](https://www.v2ex.com/t/760800) ![](assets/new.png)  
 - [2021-03-11-漏斗数据分析的技术选项](https://www.v2ex.com/t/760799) ![](assets/new.png)  
-- [2021-03-11-CloudQuery-一款基于-WEB-的数据库客户端（转自杨建荣的学习笔记）](https://www.v2ex.com/t/760798) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

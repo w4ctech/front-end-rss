@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-11 07:29:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 07:37:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,7 +36,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-11-最近用多台电脑工作，发现-Chrome-同步需要比较不方便，有没有其他浏览器推荐？](https://www.v2ex.com/t/760669) 
 - [2021-03-11-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-03-11-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
+- [2021-03-11-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-11-Firefox-86-限制通过跨网站-Cookie-共享追踪用户](https://sec.thief.one/article_content?a_id=c7ccc440f66d27ea2f23fc0f3c9dd254) 
 - [2021-03-11-安全新系统之后的必备软件推荐](https://sec.thief.one/article_content?a_id=c6a2abe72d81c8684f31f356a86cc979) 
 - [2021-03-11-欧洲最大托管服务商OVH数据中心遭遇火灾,敲响数据物理安全警钟](https://sec.thief.one/article_content?a_id=3cb4de79b38e6a9b77a871fc2d8d7992) 

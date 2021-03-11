@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-11 10:09:30，:rocket: 更新条数: +4129， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-11 10:35:46，:rocket: 更新条数: +4131， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,8 @@
 </summary>
 
 
+- [2021-03-11-最新疫情：全国新冠累计确诊90018例-无新增本土病例](https://m.caixin.com/m/2021-03-11/101674120.html) ![](assets/new.png)  
+- [2021-03-11-最新海外疫情：新冠感染近1.18亿-累计死亡超261万](https://m.caixin.com/m/2021-03-11/101674117.html) ![](assets/new.png)  
 - [2021-03-11-【境内疫情观察】全国新增11例境外输入病例（3月10日）](http://m.database.caixin.com/m/2021-03-11/101673880.html) ![](assets/new.png)  
 - [2021-03-11-韩国多例接种首剂疫苗者感染新冠-贫困国家疫苗严重短缺｜大流行手记（3月10日）](https://m.caixin.com/m/2021-03-11/101673729.html) ![](assets/new.png)  
 - [2021-03-10-新冠变异毒株逃逸治疗-何大一团队推出抗体“鸡尾酒疗法”](https://m.caixin.com/m/2021-03-10/101673627.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2021-03-06-【境内疫情观察】全国新增10例境外输入病例（3月5日）](http://m.database.caixin.com/m/2021-03-06/101671693.html) ![](assets/new.png)  
 - [2021-03-06-欧盟疫苗出口管制或延至6月底-南非查获假新冠疫苗|大流行手记（3月5日）](https://m.caixin.com/m/2021-03-06/101671526.html) ![](assets/new.png)  
 - [2021-03-05-【境内疫情观察】上海新增6例境外输入病例（3月4日）](http://m.database.caixin.com/m/2021-03-05/101671063.html) ![](assets/new.png)  
-- [2021-03-05-欧药管局启动俄罗斯疫苗审批-英国拨款研究mRNA疫苗|大流行手记（3月4日）](https://m.caixin.com/m/2021-03-05/101670796.html) ![](assets/new.png)  
-- [2021-03-05-解药|用于检测新冠疫苗效力的中和抗体试剂盒来了](https://m.caixin.com/m/2021-03-05/101670726.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -819,6 +819,11 @@
 </summary>
 
 
+- [2021-03-11-联想杨元庆：旗帜鲜明反对996，两会多位委员“声讨”企业长期加班现象](https://www.ershicimi.com/p/b78b05d4c86a619571c92b36cae0ad7f) ![](assets/new.png)  
+- [2021-03-11-百亿级流量的百度搜索中台，是怎么做可观测性建设的？](https://www.ershicimi.com/p/2b70da10b3eed46b0ffaa22a0b07781e) ![](assets/new.png)  
+- [2021-03-11-分析师：苹果最大的错误是没有收购-Netflix](https://www.ershicimi.com/p/41e7830e41bf4cfa9aa4413a943345a5) ![](assets/new.png)  
+- [2021-03-11-为什么-K8s-能在阿里成功？-｜-极客时间](https://www.ershicimi.com/p/1240521b7163d05771f6e32154ac5e40) ![](assets/new.png)  
+- [2021-03-11-生意好到干不完？台积电再招9000人，全员涨薪20%](https://www.ershicimi.com/p/01bbc007f3761f037286b642eccbd8a7) ![](assets/new.png)  
 - [2021-03-10-腾讯八年春节保卫战：流量爆表宕机、现场应急开发，技术人上演最强“剧本杀”](https://www.ershicimi.com/p/1b3a56112d52c19c074ca6cd1e400469) ![](assets/new.png)  
 - [2021-03-10-2021技术趋势展望：行业光速变化背后，底层技术有哪些趋势？](https://www.ershicimi.com/p/72c9ed0bd0a0efdc616ec189e588121a) ![](assets/new.png)  
 - [2021-03-10-有感：仅在面试时攻克-MySQL-还不够-｜-极客时间](https://www.ershicimi.com/p/d415221b3c2a9a4f8b0b07616a9f6fc5) ![](assets/new.png)  
@@ -834,11 +839,6 @@
 - [2021-03-08-队伍逐渐庞大，谁说女程序员是稀缺物种？|-附38节惊喜福利](https://www.ershicimi.com/p/aa85f6e1566a8b04f401004983a01069) ![](assets/new.png)  
 - [2021-03-08-人生苦短，我用-Python](https://www.ershicimi.com/p/71d769103ced8e81d9d3d1801cd8edd2) ![](assets/new.png)  
 - [2021-03-08-怎样安全地关闭老旧的-API？](https://www.ershicimi.com/p/2dbee48784961b8d13630e3fb066bc41) ![](assets/new.png)  
-- [2021-03-07-如何通过分解和增量更改将单体迁移到微服务？](https://www.ershicimi.com/p/028b5c8fb177755fa7f249e3bca69bd2) ![](assets/new.png)  
-- [2021-03-07-技术人如何无障碍阅读官方文档？](https://www.ershicimi.com/p/5f92c99fcb36a3149485ff47c1619850) ![](assets/new.png)  
-- [2021-03-07-量子机器学习-：IT-领域的下一件大事](https://www.ershicimi.com/p/614047c1f864f47a98528f2e76fd6e02) ![](assets/new.png)  
-- [2021-03-07-大手笔！中芯国际狂砸78亿买光刻机](https://www.ershicimi.com/p/488e840ba0e6b62c0a60d945998e1de6) ![](assets/new.png)  
-- [2021-03-06-腾讯前员工因违反竞业协议赔偿近百万；中国居民人均资产36万元；拼多多日活首超淘宝；网络表情已成为“呈](https://www.ershicimi.com/p/2b01c3d4f5a84e6320b0e34b8f28f21a) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,13 @@
 </summary>
 
 
+- [2021-03-11-3060-的算力会被破解么？](https://www.v2ex.com/t/760784) ![](assets/new.png)  
+- [2021-03-11-刚才-M1-的-pro-鼠标卡住了。迷之-bug。然后又自动恢复了](https://www.v2ex.com/t/760782) ![](assets/new.png)  
+- [2021-03-11-折腾了一个通过-ssh/scp-同步本地修改文件到远程服务器的小工具，结果发现和-vscode-remote-的功能重叠，求挽尊。。](https://www.v2ex.com/t/760781) ![](assets/new.png)  
+- [2021-03-11-第一次相亲，好紧张，跟男生要聊点什么呀？](https://www.v2ex.com/t/760780) ![](assets/new.png)  
+- [2021-03-11-V-友有没有喜欢抠牙齿的癖好的？很困惑，也想戒掉](https://www.v2ex.com/t/760779) ![](assets/new.png)  
+- [2021-03-11-有没有交易苹果上架应用的](https://www.v2ex.com/t/760778) ![](assets/new.png)  
+- [2021-03-11-一个专门为程序员朋友准备的短链接程序](https://www.v2ex.com/t/760777) ![](assets/new.png)  
 - [2021-03-11-上海-得物-前端招聘😊😊](https://www.v2ex.com/t/760776) ![](assets/new.png)  
 - [2021-03-11-同事-Service-层的方法有几个比较通用的写成静态？这会造成什么样的问题？](https://www.v2ex.com/t/760774) ![](assets/new.png)  
 - [2021-03-11-快手-核心部门社区科学部招聘，推荐算法包括模型，策略，架构，欢迎各位来看看机会](https://www.v2ex.com/t/760773) ![](assets/new.png)  
@@ -1009,13 +1016,6 @@
 - [2021-03-11-上海-30~45-*-13+-ARKIE-软件工程师---Web-全栈/前端架构师-TypeScript](https://www.v2ex.com/t/760764) ![](assets/new.png)  
 - [2021-03-11-有没有文章质量和知识广度能和-https://draveness.me/接近的博客？](https://www.v2ex.com/t/760763) ![](assets/new.png)  
 - [2021-03-11-小程序这是在搞什么？](https://www.v2ex.com/t/760762) ![](assets/new.png)  
-- [2021-03-11-有没有比较实惠好用的游客-WIFI-管理登记方案？](https://www.v2ex.com/t/760761) ![](assets/new.png)  
-- [2021-03-11-阿里云促销活动，-2-核-2g-突发性能型材-86-元一年](https://www.v2ex.com/t/760760) ![](assets/new.png)  
-- [2021-03-11-深圳-创业明星项目-生猪方向独角兽公司技术招幕！](https://www.v2ex.com/t/760759) ![](assets/new.png)  
-- [2021-03-11-企业网盘哪个好？](https://www.v2ex.com/t/760758) ![](assets/new.png)  
-- [2021-03-11-新注册了一家软件公司，怎样去赚取第一桶金](https://www.v2ex.com/t/760756) ![](assets/new.png)  
-- [2021-03-11-有人知道敏捷宣言作者-Brian-Marick-吗？有什么资料不，求助！](https://www.v2ex.com/t/760755) ![](assets/new.png)  
-- [2021-03-11-现在想在苹果入个门，怎么选择？](https://www.v2ex.com/t/760754) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1066,8 +1066,8 @@
 - [2021-03-11-不一样的软件们：GitHub-热点速览-v.21.10](https://toutiao.io/k/iq4myt9) ![](assets/new.png)  
 - [2021-03-11-为什么老板宁愿高薪招新员工，也不愿意给老员工加薪](https://toutiao.io/k/1vor5f2) ![](assets/new.png)  
 - [2021-03-11-译-面向对象编程是计算机科学的最大错误](https://toutiao.io/k/e79rw6v) ![](assets/new.png)  
-- [2021-03-11-闲鱼如何建设技术舆情治理体系](https://toutiao.io/k/1vhb17g) ![](assets/new.png)  
 - [2021-03-11-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) ![](assets/new.png)  
+- [2021-03-11-闲鱼如何建设技术舆情治理体系](https://toutiao.io/k/1vhb17g) ![](assets/new.png)  
 - [2021-03-11-18-种常见的-React-模式附带案例解析](https://toutiao.io/k/dkfuykw) ![](assets/new.png)  
 - [2021-03-11-应届生加入阿里，进入自己想去的部门不容易](https://toutiao.io/k/yddoiqn) ![](assets/new.png)  
 - [2021-03-11-Go-中-errgroup-源码解读](https://toutiao.io/k/175y4s9) ![](assets/new.png)  
@@ -1089,26 +1089,26 @@
 </summary>
 
 
+- [2021-03-11-零信任专场议题全解析,京麒沙龙第4期火热报名中~](https://sec.thief.one/article_content?a_id=abca5ab6778aabbb454cbb91c7839663) ![](assets/new.png)  
+- [2021-03-11-F5-BIG-IP/BIG-IQ-多个高危漏洞](https://sec.thief.one/article_content?a_id=a23e7d6240f1dff586aaa59f56145094) ![](assets/new.png)  
+- [2021-03-11-韩国新韩银行为央行数字货币开发试点项目](https://sec.thief.one/article_content?a_id=0fd07910188e791cdcd690b00b19f69e) ![](assets/new.png)  
+- [2021-03-11-招聘-|-北京中测安华科技有限公司](https://sec.thief.one/article_content?a_id=e0fd84cc856423de53cf69fa7446629f) ![](assets/new.png)  
+- [2021-03-11-POC-|-数篷科技:零信任DACS,随时随地安全使用数据](https://sec.thief.one/article_content?a_id=c3029b598d55a9e29a4f62432bb27746) ![](assets/new.png)  
+- [2021-03-11-渗透测试工程师丨助力技能提升,在线课程免费学!](https://sec.thief.one/article_content?a_id=1938ce04d106a86b466606a49a7da2b3) ![](assets/new.png)  
+- [2021-03-11-记一次内网渗透二](https://sec.thief.one/article_content?a_id=1a4126f3892caf7aa68eddecd7f1bf39) ![](assets/new.png)  
+- [2021-03-11-向安全攻击说NO,请翻开体系化防御的三页“教科书”](https://sec.thief.one/article_content?a_id=ba8bfaf1b146c9ea3571f9667e211797) ![](assets/new.png)  
+- [2021-03-11-揭秘潜藏在你手机里的“广告大师”](https://sec.thief.one/article_content?a_id=287d85639a8a86bb1f18df999667a1ce) ![](assets/new.png)  
+- [2021-03-11-【漏洞通告】F5-BIG-IP/BIG-IQ-多个严重漏洞](https://sec.thief.one/article_content?a_id=058e21641b2bf6a8c6ad3e54397583c8) ![](assets/new.png)  
+- [2021-03-11-CNNVD-关于F5-BIG-IP-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=670de5c41f5d2df3cd7703f3838bb458) ![](assets/new.png)  
+- [2021-03-11-开发安全与软件供应链安全的关系](https://sec.thief.one/article_content?a_id=2477a8ed3b788b9ce692f30181e1b49a) ![](assets/new.png)  
+- [2021-03-11-CVE-2021-21972:VMware-vCenter-Server远程代码执行漏洞复现](https://sec.thief.one/article_content?a_id=763fda61d2d63d164de825bf199c9b4e) ![](assets/new.png)  
+- [2021-03-11-3月11日贵币GUIBI早内参-灰度母公司DCG计划购买2.5亿美元GBTC,...](https://sec.thief.one/article_content?a_id=60d1358db0e7dcd652ae99a53e853022) ![](assets/new.png)  
 - [2021-03-11-Firefox-86-限制通过跨网站-Cookie-共享追踪用户](https://sec.thief.one/article_content?a_id=c7ccc440f66d27ea2f23fc0f3c9dd254) ![](assets/new.png)  
 - [2021-03-11-安全新系统之后的必备软件推荐](https://sec.thief.one/article_content?a_id=c6a2abe72d81c8684f31f356a86cc979) ![](assets/new.png)  
 - [2021-03-11-美国计划近期对俄罗斯发起报复性网络攻击行动](https://sec.thief.one/article_content?a_id=1cab06afcf593efc7496c60ca3da4113) ![](assets/new.png)  
 - [2021-03-11-美团春季校园招聘—2022届实习生,找的人就是你!](https://sec.thief.one/article_content?a_id=b5f0a02aa0f369ed7e16d5a9573eabff) ![](assets/new.png)  
 - [2021-03-11-全线业务加倍奖励活动来啦!](https://sec.thief.one/article_content?a_id=781f2912beb5c8c08d7774079873228d) ![](assets/new.png)  
 - [2021-03-11-研究人员发现插件中的零日漏洞,可接管WordPress网站](https://sec.thief.one/article_content?a_id=6183086ae6b51cd740d683ca9b4ef559) ![](assets/new.png)  
-- [2021-03-11-欧洲最大托管服务商OVH数据中心遭遇火灾,敲响数据物理安全警钟](https://sec.thief.one/article_content?a_id=3cb4de79b38e6a9b77a871fc2d8d7992) ![](assets/new.png)  
-- [2021-03-11-特斯拉监控摄像头被黑](https://sec.thief.one/article_content?a_id=0ace8ba6f7d1944b4fed4593e91b88e3) ![](assets/new.png)  
-- [2021-03-11-「抽奖赠书」CTF竞赛权威指南](https://sec.thief.one/article_content?a_id=a8e23ae04f4e59c6d78bae026ead0196) ![](assets/new.png)  
-- [2021-03-11-西汉姆球迷的个人信息在俱乐部网站上被泄露](https://sec.thief.one/article_content?a_id=a96a1a25b68c2742e6abaf20dda8c5ab) ![](assets/new.png)  
-- [2021-03-11-春日招聘|美团19个职位寻“牛”人](https://sec.thief.one/article_content?a_id=853fc372808e2f793ed5716629680123) ![](assets/new.png)  
-- [2021-03-11-人均月薪6万起,网友:酸!](https://sec.thief.one/article_content?a_id=a948f55b113276277abde5126d06782f) ![](assets/new.png)  
-- [2021-03-11-0-代码就能做-Python-数据分析,这个-Jupyter-插件,用起来就像-Excel-...](https://sec.thief.one/article_content?a_id=7e08c4f1de2045634772875335acc6e5) ![](assets/new.png)  
-- [2021-03-11-《全球网络安全政策法律动态与研判2020》全文](https://sec.thief.one/article_content?a_id=09757cfc662a13d87ec04705014bf880) ![](assets/new.png)  
-- [2021-03-11-黑客入侵15万个Verkada监控摄像头-特斯拉被黑上海仓库视频曝光](https://sec.thief.one/article_content?a_id=5ad365aab97ecc29063c91acb3adf653) ![](assets/new.png)  
-- [2021-03-11-网安杂谈收藏夹3.11](https://sec.thief.one/article_content?a_id=64ba5f9b2d07cf06b05e2c8c11ad5f4b) ![](assets/new.png)  
-- [2021-03-10-＂百度联盟＂内鬼案](https://sec.thief.one/article_content?a_id=53eb2ae112f047def44feaa7e804a1b5) ![](assets/new.png)  
-- [2021-03-10-【安全圈】90后搭建平台做“码商”-法院终审驳回上诉,维持原判!](https://sec.thief.one/article_content?a_id=8c680c6b7b11e3f40bc3483f3f3308d1) ![](assets/new.png)  
-- [2021-03-10-MKLG行动:疑似针对中东地区长达数年的攻击活动分析](https://sec.thief.one/article_content?a_id=e6557a1efa6e01b75c758d7cdffc28ab) ![](assets/new.png)  
-- [2021-03-10-小心!你下载的机器学习工具包可能是病毒:CuPy被掉包,官方一天...](https://sec.thief.one/article_content?a_id=b3908b62b8cb733ff0f51fcb11801e6d) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -5,6 +5,16 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "最新疫情：全国新冠累计确诊90018例 无新增本土病例",
+        "link": "https://m.caixin.com/m/2021-03-11/101674120.html",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "最新海外疫情：新冠感染近1.18亿 累计死亡超261万",
+        "link": "https://m.caixin.com/m/2021-03-11/101674117.html",
+        "date": "2021-03-11"
+      },
+      {
         "title": "【境内疫情观察】全国新增11例境外输入病例（3月10日）",
         "link": "http://m.database.caixin.com/m/2021-03-11/101673880.html",
         "date": "2021-03-11"
@@ -19218,6 +19228,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "联想杨元庆：旗帜鲜明反对996，两会多位委员“声讨”企业长期加班现象",
+        "link": "https://www.ershicimi.com/p/b78b05d4c86a619571c92b36cae0ad7f",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "百亿级流量的百度搜索中台，是怎么做可观测性建设的？",
+        "link": "https://www.ershicimi.com/p/2b70da10b3eed46b0ffaa22a0b07781e",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "分析师：苹果最大的错误是没有收购 Netflix",
+        "link": "https://www.ershicimi.com/p/41e7830e41bf4cfa9aa4413a943345a5",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "为什么 K8s 能在阿里成功？ ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/1240521b7163d05771f6e32154ac5e40",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "生意好到干不完？台积电再招9000人，全员涨薪20%",
+        "link": "https://www.ershicimi.com/p/01bbc007f3761f037286b642eccbd8a7",
+        "date": "2021-03-11"
+      },
+      {
         "title": "腾讯八年春节保卫战：流量爆表宕机、现场应急开发，技术人上演最强“剧本杀”",
         "link": "https://www.ershicimi.com/p/1b3a56112d52c19c074ca6cd1e400469",
         "date": "2021-03-10"
@@ -19291,31 +19326,6 @@
         "title": "怎样安全地关闭老旧的 API？",
         "link": "https://www.ershicimi.com/p/2dbee48784961b8d13630e3fb066bc41",
         "date": "2021-03-08"
-      },
-      {
-        "title": "如何通过分解和增量更改将单体迁移到微服务？",
-        "link": "https://www.ershicimi.com/p/028b5c8fb177755fa7f249e3bca69bd2",
-        "date": "2021-03-07"
-      },
-      {
-        "title": "技术人如何无障碍阅读官方文档？",
-        "link": "https://www.ershicimi.com/p/5f92c99fcb36a3149485ff47c1619850",
-        "date": "2021-03-07"
-      },
-      {
-        "title": "量子机器学习 ：IT 领域的下一件大事",
-        "link": "https://www.ershicimi.com/p/614047c1f864f47a98528f2e76fd6e02",
-        "date": "2021-03-07"
-      },
-      {
-        "title": "大手笔！中芯国际狂砸78亿买光刻机",
-        "link": "https://www.ershicimi.com/p/488e840ba0e6b62c0a60d945998e1de6",
-        "date": "2021-03-07"
-      },
-      {
-        "title": "腾讯前员工因违反竞业协议赔偿近百万；中国居民人均资产36万元；拼多多日活首超淘宝；网络表情已成为“呈",
-        "link": "https://www.ershicimi.com/p/2b01c3d4f5a84e6320b0e34b8f28f21a",
-        "date": "2021-03-06"
       }
     ]
   },
@@ -19815,6 +19825,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "3060 的算力会被破解么？",
+        "link": "https://www.v2ex.com/t/760784",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "刚才 M1 的 pro 鼠标卡住了。迷之 bug。然后又自动恢复了",
+        "link": "https://www.v2ex.com/t/760782",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "折腾了一个通过 ssh/scp 同步本地修改文件到远程服务器的小工具，结果发现和 vscode remote 的功能重叠，求挽尊。。",
+        "link": "https://www.v2ex.com/t/760781",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "第一次相亲，好紧张，跟男生要聊点什么呀？",
+        "link": "https://www.v2ex.com/t/760780",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "V 友有没有喜欢抠牙齿的癖好的？很困惑，也想戒掉",
+        "link": "https://www.v2ex.com/t/760779",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "有没有交易苹果上架应用的",
+        "link": "https://www.v2ex.com/t/760778",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "一个专门为程序员朋友准备的短链接程序",
+        "link": "https://www.v2ex.com/t/760777",
+        "date": "2021-03-11"
+      },
+      {
         "title": "[上海-得物]-前端招聘😊😊",
         "link": "https://www.v2ex.com/t/760776",
         "date": "2021-03-11"
@@ -19983,41 +20028,6 @@
         "title": "兄弟们,有没有遇到过 Java 线程堵塞至死的情况",
         "link": "https://www.v2ex.com/t/760736",
         "date": "2021-03-11"
-      },
-      {
-        "title": "翻新的 M1 处理器 MacBook Pro 来了",
-        "link": "https://www.v2ex.com/t/760734",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "杭州临安的房子推荐买吗",
-        "link": "https://www.v2ex.com/t/760732",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "安卓开发随便聊聊",
-        "link": "https://www.v2ex.com/t/760731",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "记录一次神奇的 BIOS 时钟停止 BUG",
-        "link": "https://www.v2ex.com/t/760730",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "赋闲在家的 IT 人，有时间来看看这份兼职",
-        "link": "https://www.v2ex.com/t/760729",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "openshift 中的 s2i 和 docker 官方的多阶段构建有啥区别",
-        "link": "https://www.v2ex.com/t/760728",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[苹果限免应用推荐]3/11⏰|App Store",
-        "link": "https://www.v2ex.com/t/760727",
-        "date": "2021-03-11"
       }
     ]
   },
@@ -20174,13 +20184,13 @@
         "date": "2021-03-11"
       },
       {
-        "title": "闲鱼如何建设技术舆情治理体系",
-        "link": "https://toutiao.io/k/1vhb17g",
+        "title": "面试被吊打：Redis 原理",
+        "link": "https://toutiao.io/k/pmxukkm",
         "date": "2021-03-11"
       },
       {
-        "title": "面试被吊打：Redis 原理",
-        "link": "https://toutiao.io/k/pmxukkm",
+        "title": "闲鱼如何建设技术舆情治理体系",
+        "link": "https://toutiao.io/k/1vhb17g",
         "date": "2021-03-11"
       },
       {
@@ -20234,53 +20244,13 @@
         "date": "2021-03-11"
       },
       {
-        "title": "[推荐] 快手超大规模集群调度优化实践",
-        "link": "https://toutiao.io/k/671eano",
+        "title": "[推荐] 面试 Redis 没底？这 40 道面试题让你不再慌（附答案）",
+        "link": "https://toutiao.io/k/0b1v2v6",
         "date": "2021-03-11"
       },
       {
-        "title": "[推荐] Spring Boot 异步调用",
-        "link": "https://toutiao.io/k/xxk05uj",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] 万字长文聊缓存（下）：应用级缓存",
-        "link": "https://toutiao.io/k/c1uc4c2",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] 中高级前端须注意的 40 条移动端 H5 坑位指南（网易三年实践）",
-        "link": "https://toutiao.io/k/ix2e9ja",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] Java 高并发编程基础之 AQS",
-        "link": "https://toutiao.io/k/6s1vey3",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] 硬核！漫画图解 HTTP 基础 + 面试题",
-        "link": "https://toutiao.io/k/rmckht1",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] HTTP header 中的黑科技",
-        "link": "https://toutiao.io/k/ep472ts",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] 看完这篇文章，别再说不会 Redis 的高级特性了",
-        "link": "https://toutiao.io/k/xl63gz1",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] 最新互联网大厂职位薪资，快来对号入座吧",
-        "link": "https://toutiao.io/k/jpow46x",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] 做一个很出色的程序员",
-        "link": "https://toutiao.io/k/g6xlwp2",
+        "title": "[推荐] ​程序员划水指南",
+        "link": "https://toutiao.io/k/gheevc3",
         "date": "2021-03-11"
       },
       {
@@ -20289,23 +20259,63 @@
         "date": "2021-03-11"
       },
       {
+        "title": "[推荐] Tomcat 性能调优应该注意什么？",
+        "link": "https://toutiao.io/k/kldrkzc",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "[推荐] 万字长文聊缓存（下）：应用级缓存",
+        "link": "https://toutiao.io/k/c1uc4c2",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "[推荐] MySQL 索引从基础到原理，看这一篇就够了",
+        "link": "https://toutiao.io/k/hueiax0",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "[推荐] Redis 专题：深入解读哨兵模式",
+        "link": "https://toutiao.io/k/tm4wyb0",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "[推荐] 帮助阅读源码的 8 个技巧",
+        "link": "https://toutiao.io/k/9v93x32",
+        "date": "2021-03-11"
+      },
+      {
         "title": "[推荐] Linux 内存管理",
         "link": "https://toutiao.io/k/h2vf9va",
         "date": "2021-03-11"
       },
       {
-        "title": "[推荐] 流量复制方案对比：TCPCopy vs Goreplay",
-        "link": "https://toutiao.io/k/cpf8p4q",
+        "title": "[推荐] Golang 性能诊断看这篇就够了",
+        "link": "https://toutiao.io/k/3loin1u",
         "date": "2021-03-11"
       },
       {
-        "title": "[推荐] 高并发系统的限流策略：漏桶和令牌桶（附源码剖析）",
-        "link": "https://toutiao.io/k/x6ro69m",
+        "title": "[推荐] 快手超大规模集群调度优化实践",
+        "link": "https://toutiao.io/k/671eano",
         "date": "2021-03-11"
       },
       {
-        "title": "[推荐] 面试 Redis 没底？这 40 道面试题让你不再慌（附答案）",
-        "link": "https://toutiao.io/k/0b1v2v6",
+        "title": "[推荐] 做一个很出色的程序员",
+        "link": "https://toutiao.io/k/g6xlwp2",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "[推荐] HTTP header 中的黑科技",
+        "link": "https://toutiao.io/k/ep472ts",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "[推荐] Spring Boot 异步调用",
+        "link": "https://toutiao.io/k/xxk05uj",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "[推荐] 内存管理设计精要",
+        "link": "https://toutiao.io/k/4f2u3c5",
         "date": "2021-03-11"
       }
     ]
@@ -20315,6 +20325,76 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "零信任专场议题全解析,京麒沙龙第4期火热报名中~",
+        "link": "https://sec.thief.one/article_content?a_id=abca5ab6778aabbb454cbb91c7839663",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "F5 BIG-IP/BIG-IQ 多个高危漏洞",
+        "link": "https://sec.thief.one/article_content?a_id=a23e7d6240f1dff586aaa59f56145094",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "韩国新韩银行为央行数字货币开发试点项目",
+        "link": "https://sec.thief.one/article_content?a_id=0fd07910188e791cdcd690b00b19f69e",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "招聘 | 北京中测安华科技有限公司",
+        "link": "https://sec.thief.one/article_content?a_id=e0fd84cc856423de53cf69fa7446629f",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "POC | 数篷科技:零信任DACS,随时随地安全使用数据",
+        "link": "https://sec.thief.one/article_content?a_id=c3029b598d55a9e29a4f62432bb27746",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "渗透测试工程师丨助力技能提升,在线课程免费学!",
+        "link": "https://sec.thief.one/article_content?a_id=1938ce04d106a86b466606a49a7da2b3",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "记一次内网渗透(二)",
+        "link": "https://sec.thief.one/article_content?a_id=1a4126f3892caf7aa68eddecd7f1bf39",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "向安全攻击说NO,请翻开体系化防御的三页“教科书”",
+        "link": "https://sec.thief.one/article_content?a_id=ba8bfaf1b146c9ea3571f9667e211797",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "揭秘潜藏在你手机里的“广告大师”",
+        "link": "https://sec.thief.one/article_content?a_id=287d85639a8a86bb1f18df999667a1ce",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "【漏洞通告】F5 BIG-IP/BIG-IQ 多个严重漏洞",
+        "link": "https://sec.thief.one/article_content?a_id=058e21641b2bf6a8c6ad3e54397583c8",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "CNNVD 关于F5 BIG-IP 多个安全漏洞的预警",
+        "link": "https://sec.thief.one/article_content?a_id=670de5c41f5d2df3cd7703f3838bb458",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "开发安全与软件供应链安全的关系",
+        "link": "https://sec.thief.one/article_content?a_id=2477a8ed3b788b9ce692f30181e1b49a",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "CVE-2021-21972:VMware vCenter Server远程代码执行漏洞复现",
+        "link": "https://sec.thief.one/article_content?a_id=763fda61d2d63d164de825bf199c9b4e",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "3月11日贵币GUIBI早内参-灰度母公司DCG计划购买2.5亿美元GBTC,...",
+        "link": "https://sec.thief.one/article_content?a_id=60d1358db0e7dcd652ae99a53e853022",
+        "date": "2021-03-11"
+      },
       {
         "title": "Firefox 86 限制通过跨网站 Cookie 共享追踪用户",
         "link": "https://sec.thief.one/article_content?a_id=c7ccc440f66d27ea2f23fc0f3c9dd254",
@@ -20743,76 +20823,6 @@
       {
         "title": "PyTorch 1.8发布,支持 AMD GPU 和 Python 函数转换",
         "link": "https://sec.thief.one/article_content?a_id=5c1332ab9ec81f452a41024e65562e83",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "Intel CPU爆侧信道攻击",
-        "link": "https://sec.thief.one/article_content?a_id=2f743d10e72921d1bb56f7b43019cfbe",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "下一代SOC的支点:如何选择SOAR解决方案?",
-        "link": "https://sec.thief.one/article_content?a_id=ba9320a92b45b79297de6ee2f22e0fc7",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "又一种资本崛起!买房亏50万,他靠这种方式三年赚回10倍!",
-        "link": "https://sec.thief.one/article_content?a_id=b1a03d454bad6df59bb3aadcd48a8f76",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "华云安发布“漏洞情报平台”,帮您实时掌握全部漏洞情报",
-        "link": "https://sec.thief.one/article_content?a_id=8d7efcd04621165ec8f2a90a31fdbbc9",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "实战 | 记一次Vulnstack靶场内网渗透(三)",
-        "link": "https://sec.thief.one/article_content?a_id=ad5eb7745431c98c4b7d1ef2774f264b",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "火眼发现SolarWinds事件第2个恶意后门Sunshuttle,微软发现3个恶意...",
-        "link": "https://sec.thief.one/article_content?a_id=067a178638122aa50df90e2dbc8104a3",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "密码爆破之验证码的识别",
-        "link": "https://sec.thief.one/article_content?a_id=cd39d54d8a7c4857ca91bb8c050602ca",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "电子发票有漏洞:“影子攻击”可篡改数字签名的PDF文档",
-        "link": "https://sec.thief.one/article_content?a_id=3df2926a6b4340db67696d104deea0c7",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "2020年全球勒索软件造成了3.7亿美元损失",
-        "link": "https://sec.thief.one/article_content?a_id=90e57cf917e55ee92e9a566757a71cf6",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "春日招聘|滴滴、京东招聘安全工程师",
-        "link": "https://sec.thief.one/article_content?a_id=9bb7fbe9d91ee6e93b5efd9ce70f91be",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "面额66亿!80后阿里员工四年贩卖Ta获利千万,结果…",
-        "link": "https://sec.thief.one/article_content?a_id=c0d00674ed504f0787d2982ace969195",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "干货!一文看懂漏洞攻击那些事儿",
-        "link": "https://sec.thief.one/article_content?a_id=dfa24c7e932ec2508210446835d82a71",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "信安技术学习还是要化被动为主动",
-        "link": "https://sec.thief.one/article_content?a_id=f3f0a93be1036b7283a68b8efe8b13c9",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "网络安全编程:驱动程序开发之“Hello World”",
-        "link": "https://sec.thief.one/article_content?a_id=32f12db87759ce89ce1b5bc5468cc787",
         "date": "2021-03-09"
       }
     ]

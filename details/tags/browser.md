@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-11 10:09:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 10:35:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,6 +36,10 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-11-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-11-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
+- [2021-03-11-POC-|-数篷科技:零信任DACS,随时随地安全使用数据](https://sec.thief.one/article_content?a_id=c3029b598d55a9e29a4f62432bb27746) 
+- [2021-03-11-向安全攻击说NO,请翻开体系化防御的三页“教科书”](https://sec.thief.one/article_content?a_id=ba8bfaf1b146c9ea3571f9667e211797) 
+- [2021-03-11-CNNVD-关于F5-BIG-IP-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=670de5c41f5d2df3cd7703f3838bb458) 
+- [2021-03-11-开发安全与软件供应链安全的关系](https://sec.thief.one/article_content?a_id=2477a8ed3b788b9ce692f30181e1b49a) 
 - [2021-03-11-Firefox-86-限制通过跨网站-Cookie-共享追踪用户](https://sec.thief.one/article_content?a_id=c7ccc440f66d27ea2f23fc0f3c9dd254) 
 - [2021-03-11-安全新系统之后的必备软件推荐](https://sec.thief.one/article_content?a_id=c6a2abe72d81c8684f31f356a86cc979) 
 - [2021-03-11-欧洲最大托管服务商OVH数据中心遭遇火灾,敲响数据物理安全警钟](https://sec.thief.one/article_content?a_id=3cb4de79b38e6a9b77a871fc2d8d7992) 
@@ -60,5 +64,3 @@
 - [2021-03-09-网络安全狙击战丨面对疯狂的网络攻击,威胁情报出手了!](https://sec.thief.one/article_content?a_id=eba36fbd01a3946fb53d8a10288c6ec4) 
 - [2021-03-09-盘点-|-2021年两会网络安全相关提案大全](https://sec.thief.one/article_content?a_id=d19e375a84eb48db6b630d62d1bdeace) 
 - [2021-03-09-数据安全合规新动向:央行发布《金融业数据能力建设指引》附全文](https://sec.thief.one/article_content?a_id=53b822c835c89d408c6589cac047c438) 
-- [2021-03-09-春日招聘|滴滴、京东招聘安全工程师](https://sec.thief.one/article_content?a_id=9bb7fbe9d91ee6e93b5efd9ce70f91be) 
-- [2021-03-09-网络安全编程:驱动程序开发之“Hello-World”](https://sec.thief.one/article_content?a_id=32f12db87759ce89ce1b5bc5468cc787) 

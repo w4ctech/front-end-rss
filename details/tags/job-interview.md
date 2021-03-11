@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-11 06:35:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 06:43:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -31,6 +31,7 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-03-10-有感：仅在面试时攻克-MySQL-还不够-｜-极客时间](https://www.ershicimi.com/p/d415221b3c2a9a4f8b0b07616a9f6fc5) 
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
+- [2021-03-11-出一道前端面试题，按这个标准在二三线城市招前端好招吗？](https://www.v2ex.com/t/760690) 
 - [2021-03-11-如何给有一定工作年限的候选人面试？](https://www.v2ex.com/t/760686) 
 - [2021-03-11-美团---招聘---后端-Java-开发---不加班/福利好/氛围佳](https://www.v2ex.com/t/760675) 
 - [2021-03-11-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) 

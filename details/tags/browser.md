@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-11 19:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 20:04:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -33,6 +33,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-03-08-怎样安全地关闭老旧的-API？](https://www.ershicimi.com/p/2dbee48784961b8d13630e3fb066bc41) 
 - [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-11-翻译：《实用的-Python-编程》05_00_Overview](https://www.v2ex.com/t/760857) 
 - [2021-03-11-使用-Chrome-浏览器打开「博客园」上这个人的页面，电脑-CPU-会到-100%，请问是什么原因呢？](https://www.v2ex.com/t/760855) 
 - [2021-03-11-edge-手机版是不是不能同步-PC-版的书签和保存的密码啊](https://www.v2ex.com/t/760842) 

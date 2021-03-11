@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-11 19:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 20:04:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -14,6 +14,5 @@
 - [2021-03-04-如何编写神奇的「插件机制」，优化基于-Antd-Table-封装表格的混乱代码](https://www.ershicimi.com/p/a57d1f4c1aa7aa3139593df6b59f94c9) 
 - [2020-12-28-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8) 
 - [2021-02-22-熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142) 
+- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2021-03-11-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) 
-- [2021-03-11-推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) 
-- [2021-03-11-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) 

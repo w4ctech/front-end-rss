@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-11 04:48:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 05:00:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -87,7 +87,6 @@
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-03-11-深圳三维特效短视频-45-秒-5000-块，这个价格怎么样？](https://www.v2ex.com/t/760640) 
 - [2021-03-11-老板伙同员工窃取直播平台数据牟利被抓](https://www.v2ex.com/t/760631) 
-- [2021-03-11-如果需要播放一些-MP4-格式的视频，云服务器的带宽需要选择多大？](https://www.v2ex.com/t/760593) 
 - [2021-03-11-黑客入侵15万个Verkada监控摄像头-特斯拉被黑上海仓库视频曝光](https://sec.thief.one/article_content?a_id=5ad365aab97ecc29063c91acb3adf653) 
 - [2021-03-10-这个图像生成领域的PyTorch库火了,涵盖18+-SOTA-GAN实现](https://sec.thief.one/article_content?a_id=b606eb180b91ded2fe353fbcc42a5928) 
 - [2021-03-09-今晚19:30,直播揭秘信息泄露的“面纱”](https://sec.thief.one/article_content?a_id=c9379abe45cb5b6ead96a4a6d9cdbe59) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-11 14:06:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 14:35:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,8 +34,9 @@
 - [2021-03-08-怎样安全地关闭老旧的-API？](https://www.ershicimi.com/p/2dbee48784961b8d13630e3fb066bc41) 
 - [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-03-11-edge-手机版是不是不能同步-PC-版的书签和保存的密码啊](https://www.v2ex.com/t/760842) 
 - [2021-03-11-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-03-11-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
+- [2021-03-11-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
 - [2021-03-11-POC-|-数篷科技:零信任DACS,随时随地安全使用数据](https://sec.thief.one/article_content?a_id=c3029b598d55a9e29a4f62432bb27746) 
 - [2021-03-11-向安全攻击说NO,请翻开体系化防御的三页“教科书”](https://sec.thief.one/article_content?a_id=ba8bfaf1b146c9ea3571f9667e211797) 
 - [2021-03-11-CNNVD-关于F5-BIG-IP-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=670de5c41f5d2df3cd7703f3838bb458) 

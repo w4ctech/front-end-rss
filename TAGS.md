@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-11 14:06:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 14:35:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -146,6 +146,7 @@
 - [【程序员成长指北】让我们来构建一个迷你版浏览器引擎吧（建议收藏）](https://www.ershicimi.com/p/136b20dd049e3401e4c51dfb2633b36f)
 - [【程序员成长指北】别再用-Webpack-打包了，试试更快的-Vite！](https://www.ershicimi.com/p/b66c6d8564d7cdfd8c5f39ed47095a7c)
 - [【Nodejs技术栈】基于-Lerna-管理-packages-的-Monorepo-项目最佳实践](https://www.ershicimi.com/p/c8c307ca1ab84e2de94e2155739d5853)
+- [【奇舞周刊】【webpack-进阶】Webpack-打包后的代码是怎样的？](https://www.ershicimi.com/p/16161cc4ce1ef416f2766ddd04bd9b4f)
 - [【奇舞周刊】解剖Babel-——-向前端架构师迈出一小步](https://www.ershicimi.com/p/0ac82e61e04e67149cdbcd898dff4a1e)
 - [【奇舞周刊】为什么现在我更推荐-pnpm-而不是-npm/yarn?](https://www.ershicimi.com/p/581fa66c0810db0e3dad4e17cacd130d)
 - [【InfoQ】为什么-Haskell-是我们构建生产软件系统的首选](https://www.ershicimi.com/p/bc84666d450adac1f898f3ec1e8ee535)
@@ -461,7 +462,9 @@
 - [【前端早读课】每天都在使用的-HTTP-协议，到底是什么](https://www.ershicimi.com/p/d0a5387da49b930125a64dca71462a92)
 - [【前端大学】一个-HTTP-打趴-80%-前端面试者](https://www.ershicimi.com/p/22a60d006552de8528c8d605c238757c)
 - [【前端之巅】你每天都在使用的HTTP协议，到底是什么鬼？-|-活动推荐](https://www.ershicimi.com/p/7aca27fefd0e28c3fa0e825e404e1e4c)
+- [【互联网架构师】5-个牛逼的算法设计，你知道几个？](https://www.ershicimi.com/p/21034bda017baeefe8a778d7fab9ebb5)
 - [【InfoQ】如何看待-70%-的程序员缺乏数据结构和算法知识？-｜-极客时间](https://www.ershicimi.com/p/6c36ac3d226a7b361cefbb9191bc9a0d)
+- [【开发者头条】推荐-HTTP-header-中的黑科技](https://toutiao.io/k/ep472ts)
 - [【开发者头条】推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1)
 - [【安全热点】PyTorch-1.8发布,支持-AMD-GPU-和-Python-函数转换](https://sec.thief.one/article_content?a_id=5c1332ab9ec81f452a41024e65562e83)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

@@ -19825,6 +19825,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iPhone 如何设置能让来电和通知只有震动没有声音但其他声音都保留",
+        "link": "https://www.v2ex.com/t/760864",
+        "date": "2021-03-11"
+      },
+      {
         "title": "[火星救援]原来 apple watch 也可以通过 iPhone 来解锁。。",
         "link": "https://www.v2ex.com/t/760863",
         "date": "2021-03-11"
@@ -20032,11 +20037,6 @@
       {
         "title": "求最新 Mac Beta 微信 3.0.0.1 安装文件分享",
         "link": "https://www.v2ex.com/t/760815",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "有程序员炒币发家的吗，比如赚了几十万以上或者财务自由的",
-        "link": "https://www.v2ex.com/t/760814",
         "date": "2021-03-11"
       }
     ]
@@ -20254,33 +20254,13 @@
         "date": "2021-03-11"
       },
       {
-        "title": "[推荐] 2021 阿里淘系工程师推荐书单",
-        "link": "https://toutiao.io/k/txzl2gg",
+        "title": "[推荐] 流量复制方案对比：TCPCopy vs Goreplay",
+        "link": "https://toutiao.io/k/cpf8p4q",
         "date": "2021-03-11"
       },
       {
-        "title": "[推荐] 万字长文聊缓存（下）：应用级缓存",
-        "link": "https://toutiao.io/k/c1uc4c2",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] Tomcat 性能调优应该注意什么？",
-        "link": "https://toutiao.io/k/kldrkzc",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] Java 高并发编程基础之 AQS",
-        "link": "https://toutiao.io/k/6s1vey3",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] Web 安全头号大敌 XSS 漏洞解决最佳实践",
-        "link": "https://toutiao.io/k/jfopywh",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] Redis 专题：深入解读哨兵模式",
-        "link": "https://toutiao.io/k/tm4wyb0",
+        "title": "[推荐] ​程序员划水指南",
+        "link": "https://toutiao.io/k/gheevc3",
         "date": "2021-03-11"
       },
       {
@@ -20289,8 +20269,13 @@
         "date": "2021-03-11"
       },
       {
-        "title": "[推荐] 副业刚需：在 GitHub 上也能年入百万？",
-        "link": "https://toutiao.io/k/r9tqaw3",
+        "title": "[推荐] 最新互联网大厂职位薪资，快来对号入座吧",
+        "link": "https://toutiao.io/k/jpow46x",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "[推荐] Redis 专题：深入解读哨兵模式",
+        "link": "https://toutiao.io/k/tm4wyb0",
         "date": "2021-03-11"
       },
       {
@@ -20299,23 +20284,8 @@
         "date": "2021-03-11"
       },
       {
-        "title": "[推荐] 硬核！漫画图解 HTTP 基础 + 面试题",
-        "link": "https://toutiao.io/k/rmckht1",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] 内存管理设计精要",
-        "link": "https://toutiao.io/k/4f2u3c5",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] 流量复制方案对比：TCPCopy vs Goreplay",
-        "link": "https://toutiao.io/k/cpf8p4q",
-        "date": "2021-03-11"
-      },
-      {
-        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
-        "link": "https://toutiao.io/k/xuv7rlf",
+        "title": "[推荐] 面试 Redis 没底？这 40 道面试题让你不再慌（附答案）",
+        "link": "https://toutiao.io/k/0b1v2v6",
         "date": "2021-03-11"
       },
       {
@@ -20324,8 +20294,38 @@
         "date": "2021-03-11"
       },
       {
-        "title": "[推荐] 做一个很出色的程序员",
-        "link": "https://toutiao.io/k/g6xlwp2",
+        "title": "[推荐] Tomcat 性能调优应该注意什么？",
+        "link": "https://toutiao.io/k/kldrkzc",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "[推荐] 内存管理设计精要",
+        "link": "https://toutiao.io/k/4f2u3c5",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "[推荐] 快手超大规模集群调度优化实践",
+        "link": "https://toutiao.io/k/671eano",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "[推荐] 看完这篇文章，别再说不会 Redis 的高级特性了",
+        "link": "https://toutiao.io/k/xl63gz1",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "[推荐] Golang 性能诊断看这篇就够了",
+        "link": "https://toutiao.io/k/3loin1u",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "[推荐] 副业刚需：在 GitHub 上也能年入百万？",
+        "link": "https://toutiao.io/k/r9tqaw3",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "[推荐] 万字长文聊缓存（下）：应用级缓存",
+        "link": "https://toutiao.io/k/c1uc4c2",
         "date": "2021-03-11"
       }
     ]

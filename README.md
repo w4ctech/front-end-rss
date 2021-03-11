@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-11 21:07:58，:rocket: 更新条数: +4132， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-11 21:29:33，:rocket: 更新条数: +4132， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,7 +996,7 @@
 </summary>
 
 
-- [2021-03-11-BSL1.1-开源协议和-MIT-的区别大吗?商用的话需要注意什么?](https://www.v2ex.com/t/760872) ![](assets/new.png)  
+- [2021-03-11-BSL1.1-开源协议和-MIT-的区别大吗?可商用吗?需要注意什么?](https://www.v2ex.com/t/760872) ![](assets/new.png)  
 - [2021-03-11-FinTech-社区-招聘：量化研究员--高频---北京/上海---50-100-万+奖金](https://www.v2ex.com/t/760871) ![](assets/new.png)  
 - [2021-03-11-FinTech-社区-招聘：宏观研究员---上海---推荐奖-5000](https://www.v2ex.com/t/760870) ![](assets/new.png)  
 - [2021-03-11-晚上做梦梦到进了阿里](https://www.v2ex.com/t/760869) ![](assets/new.png)  

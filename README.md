@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-11 20:09:03，:rocket: 更新条数: +4132， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-11 20:32:29，:rocket: 更新条数: +4132， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-03-11-FinTech-社区-招聘：量化研究员--高频---北京/上海---50-100-万+奖金](https://www.v2ex.com/t/760871) ![](assets/new.png)  
 - [2021-03-11-FinTech-社区-招聘：宏观研究员---上海---推荐奖-5000](https://www.v2ex.com/t/760870) ![](assets/new.png)  
 - [2021-03-11-晚上做梦梦到进了阿里](https://www.v2ex.com/t/760869) ![](assets/new.png)  
 - [2021-03-11-请问江苏电信有什么办法可以提上传吗？](https://www.v2ex.com/t/760868) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-03-11-踩着-19-岁的红线发发牢骚](https://www.v2ex.com/t/760851) ![](assets/new.png)  
 - [2021-03-11-杭州东南亚跨境电商来赞宝扩招，快来找我内推啊!有意者留言啊!](https://www.v2ex.com/t/760850) ![](assets/new.png)  
 - [2021-03-11-新家装修，关于网线和-AP-的选择有点困惑](https://www.v2ex.com/t/760849) ![](assets/new.png)  
-- [2021-03-11-实习阿里巴巴-飞猪用户技术部-前端和客户端内推（杭州、北京）](https://www.v2ex.com/t/760848) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

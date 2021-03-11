@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-11 20:09:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 20:32:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -92,4 +92,5 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-03-07-本周知乎热榜-|-货拉拉跳车事件最新进展，姚策郭威错换人生案，复旦教授打车证明价格歧视](https://www.ershicimi.com/p/c3bfd3b2b1b99731e5441256e1a97310) 
 - [2021-03-11-Go工程化（七）：Go-Module](https://toutiao.io/k/xyzsjto) 
+- [2021-03-11-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) 
 - [2021-03-10-2020年度安全事件响应观察报告|挖矿病毒再次活跃,云计算/大数据平...](https://sec.thief.one/article_content?a_id=c000205ba3835eabf439924c2832a831) 

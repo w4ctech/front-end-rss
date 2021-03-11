@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-11 11:39:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 11:45:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -27,7 +27,6 @@
 - [2021-03-05-【第2216期】CORS-完全手册之为什么会发生CORS-错误？](https://www.ershicimi.com/p/6cbf45be18a23d82257923256f8303a3) 
 - [2021-03-02-前端拓展：如何开发一个-Chrome-插件？](https://www.ershicimi.com/p/e21959f7f8c8c34ceb31238d4fff0084) 
 - [2021-02-21-前端-Code-Review-的最佳实践方案](https://www.ershicimi.com/p/8f4c1fb010cc20a0ff64f60686f02d5b) 
-- [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-11 13:41:02，:rocket: 更新条数: +4133， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-11 13:51:03，:rocket: 更新条数: +4132， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-03-11-Notability-降价啦⏰](https://www.v2ex.com/t/760835) ![](assets/new.png)  
 - [2021-03-11-2021-年-thinkpad-有没有比较推荐的型号？-1w-以内，学习工作，不玩游戏](https://www.v2ex.com/t/760833) ![](assets/new.png)  
 - [2021-03-11-VS-Code-Remote-的方案？-Jetbrains-发布了-Projector](https://www.v2ex.com/t/760831) ![](assets/new.png)  
 - [2021-03-11-2021-年阿里云采购季，适合个人和企业优惠采购云产品了](https://www.v2ex.com/t/760830) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-03-11-求最新-Mac-Beta-微信-3.0.0.1-安装文件分享](https://www.v2ex.com/t/760815) ![](assets/new.png)  
 - [2021-03-11-有程序员炒币发家的吗，比如赚了几十万以上或者财务自由的](https://www.v2ex.com/t/760814) ![](assets/new.png)  
 - [2021-03-11-深圳/广州阿里旗下-Lazada-社招校招内推移动端入职-p6-和-p7-均有五位数奖金](https://www.v2ex.com/t/760813) ![](assets/new.png)  
-- [2021-03-11-亚马逊中国员工办公都需要连公司内部微皮恩，太麻烦了吧](https://www.v2ex.com/t/760812) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

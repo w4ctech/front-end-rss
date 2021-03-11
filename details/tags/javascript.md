@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-11 15:38:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 15:47:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -38,9 +38,10 @@
 - [2021-03-09-【第2220期】前端函数式演进之函数式思维和前端特征](https://www.ershicimi.com/p/d38736095776f458e4dd2c01b96ff810) 
 - [2021-03-09-【图书】前端函数式演进](https://www.ershicimi.com/p/2bef2a76d5e2d630bb606029e881b52c) 
 - [2021-03-07-【招聘】杭州小影科技招前端工程师、高级前端H5跨端、基础架构](https://www.ershicimi.com/p/dbd578710db6acdae00c9749f908daa4) 
+- [2021-03-11-你真的了解-ES6-中的函数特性么？](https://www.ershicimi.com/p/7d566c598c5ad4a1b96e2fcfda42016e) 
+- [2021-03-10-常用的前端JavaScript方法封装](https://www.ershicimi.com/p/738f1283ae4640bccf5d7fd5daf02d46) 
 - [2021-03-09-使用顶层-await-简化-JS-代码](https://www.ershicimi.com/p/381f871279592786dff7b95c261fea39) 
 - [2021-03-08-什么是JavaScript的作用域](https://www.ershicimi.com/p/91057db27f837e895944b6f121ef2589) 
-- [2021-03-04-图文并茂讲清楚-JavaScript-内存管理](https://www.ershicimi.com/p/6176d796290edca7b1d2444b486e7b0c) 
 - [2021-03-10-靠，神了！居然能通过-DOM-来改变-JS！](https://www.ershicimi.com/p/408eca3e8028dd94e00696e122a43025) 
 - [2021-03-05-这个异步问题你肯定遇到过，但是会解决的并不多](https://www.ershicimi.com/p/f57b3d1ec8f481307e3de355af5edd67) 
 - [2021-03-03-44-道-JS-'难'题，做对一半就是高手](https://www.ershicimi.com/p/0b51d5a7347e6e4ecb0850c94404f37d) 
@@ -91,5 +92,6 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-03-07-本周知乎热榜-|-货拉拉跳车事件最新进展，姚策郭威错换人生案，复旦教授打车证明价格歧视](https://www.ershicimi.com/p/c3bfd3b2b1b99731e5441256e1a97310) 
 - [2021-03-11-Go工程化（七）：Go-Module](https://toutiao.io/k/xyzsjto) 
+- [2021-03-11-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) 
 - [2021-03-11-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) 
 - [2021-03-10-2020年度安全事件响应观察报告|挖矿病毒再次活跃,云计算/大数据平...](https://sec.thief.one/article_content?a_id=c000205ba3835eabf439924c2832a831) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-11 15:38:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-11 15:47:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -31,6 +31,7 @@
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
 - [2021-03-11-阿里云-阿里巴巴-阿里云智能销售中台-2021-年实习生招聘开始啦](https://www.v2ex.com/t/760808) 
 - [2021-03-11-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) 
+- [2021-03-11-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) 
 - [2021-03-11-招聘-|-北京中测安华科技有限公司](https://sec.thief.one/article_content?a_id=e0fd84cc856423de53cf69fa7446629f) 
 - [2021-03-11-美团春季校园招聘—2022届实习生,找的人就是你!](https://sec.thief.one/article_content?a_id=b5f0a02aa0f369ed7e16d5a9573eabff) 
 - [2021-03-11-春日招聘|美团19个职位寻“牛”人](https://sec.thief.one/article_content?a_id=853fc372808e2f793ed5716629680123) 

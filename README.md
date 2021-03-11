@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-11 16:00:48，:rocket: 更新条数: +4131， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-11 16:11:04，:rocket: 更新条数: +4131， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-03-11-翻译：《实用的-Python-编程》05_00_Overview](https://www.v2ex.com/t/760857) ![](assets/new.png)  
 - [2021-03-11-字节跳动-上海/北京/杭州实习/校招/社招抖音电商后端开发工程师](https://www.v2ex.com/t/760856) ![](assets/new.png)  
 - [2021-03-11-使用-Chrome-浏览器打开「博客园」上这个人的页面，电脑-CPU-会到-100%，请问是什么原因呢？](https://www.v2ex.com/t/760855) ![](assets/new.png)  
 - [2021-03-11-skyline-3D-打印效果，哈哈，还可以哟](https://www.v2ex.com/t/760853) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-03-11-Switch-通过啥渠道买最划算？](https://www.v2ex.com/t/760836) ![](assets/new.png)  
 - [2021-03-11-Notability-降价啦⏰](https://www.v2ex.com/t/760835) ![](assets/new.png)  
 - [2021-03-11-2021-年-thinkpad-有没有比较推荐的型号？-1w-以内，学习工作，不玩游戏](https://www.v2ex.com/t/760833) ![](assets/new.png)  
-- [2021-03-11-VS-Code-Remote-的方案？-Jetbrains-发布了-Projector](https://www.v2ex.com/t/760831) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

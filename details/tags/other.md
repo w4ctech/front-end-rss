@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-12 11:44:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-12 11:50:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2021-03-12-最新疫情：全国新冠累计确诊90027例-无新增本土病例](https://m.caixin.com/m/2021-03-12/101674614.html) 
+- [2021-03-12-北京取消进返京核酸证明-机票火车票预订量翻番](http://m.companies.caixin.com/m/2021-03-12/101674657.html) 
 - [2021-03-12-研究指百年老药苏拉明抗新冠效力远超瑞德西韦-尚待临床验证](https://m.caixin.com/m/2021-03-12/101674205.html) 
 - [2021-03-12-最新海外疫情：新冠感染超1.18亿-累计死亡超262万](https://m.caixin.com/m/2021-03-12/101674611.html) 
 - [2021-03-12-【境内疫情观察】全国新增9例境外输入病例（3月11日）](http://m.database.caixin.com/m/2021-03-12/101674494.html) 
@@ -3323,14 +3324,14 @@
 - [2021-03-12-重构于-Vite](https://toutiao.io/k/neju1s7) 
 - [2021-03-12-你真的理解主从复制吗？](https://toutiao.io/k/n6yjple) 
 - [2021-03-12-Django-3.2-LTS-版-4-月即将发布，带你提前尝鲜](https://toutiao.io/k/irmc1at) 
-- [2021-03-12-推荐-最新互联网大厂职位薪资，快来对号入座吧](https://toutiao.io/k/jpow46x) 
-- [2021-03-12-推荐-MySQL-索引从基础到原理，看这一篇就够了](https://toutiao.io/k/hueiax0) 
-- [2021-03-12-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) 
-- [2021-03-12-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) 
-- [2021-03-12-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) 
+- [2021-03-12-推荐-​程序员划水指南](https://toutiao.io/k/gheevc3) 
+- [2021-03-12-推荐-做一个很出色的程序员](https://toutiao.io/k/g6xlwp2) 
 - [2021-03-12-推荐-看完这篇文章，别再说不会-Redis-的高级特性了](https://toutiao.io/k/xl63gz1) 
-- [2021-03-12-推荐-国内有哪些顶级技术团队的博客值得推荐？](https://toutiao.io/k/j7v5pee) 
-- [2021-03-12-推荐-Java-高并发编程基础之-AQS](https://toutiao.io/k/6s1vey3) 
+- [2021-03-12-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) 
+- [2021-03-12-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) 
+- [2021-03-12-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) 
+- [2021-03-12-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) 
+- [2021-03-12-推荐-内存管理设计精要](https://toutiao.io/k/4f2u3c5) 
 - [2021-03-12-深入剖析SVE-2020-18610漏洞中](https://sec.thief.one/article_content?a_id=eaf88b8a64fd67a12f53a44e9732add9) 
 - [2021-03-12-防守方速看:攻击方「招数」揭秘](https://sec.thief.one/article_content?a_id=44bcc2908e1f13614a1082c83911defb) 
 - [2021-03-12-AISecOps白皮书精华解读之技术体系篇](https://sec.thief.one/article_content?a_id=544c49df787b08ef07c9ea88fdd2dacd) 

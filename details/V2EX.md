@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-03-12 13:10:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-12 13:38:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-12-Mac-上的-OCR-软件求推荐](https://www.v2ex.com/t/761176) 
+- [2021-03-12-智能猫眼，有啥不错的品牌推荐么？谢谢大家](https://www.v2ex.com/t/761174) 
+- [2021-03-12-用-iterm2-ssh-到服务器上，如何把服务器的文件内容或者标准输出直接复制到-Mac-本地的剪贴板里？](https://www.v2ex.com/t/761173) 
 - [2021-03-12-時間管理軟件-habitica.com-招募隊友](https://www.v2ex.com/t/761172) 
 - [2021-03-12-怎样让搜索引擎更好的理解我的需求？](https://www.v2ex.com/t/761170) 
 - [2021-03-12-Apple-ID-登录地区反复横跳会导致封号吗？](https://www.v2ex.com/t/761169) 
@@ -41,5 +44,3 @@
 - [2021-03-12-Elasticsearch-做文本相似度匹配，有现成的算法吗](https://www.v2ex.com/t/761132) 
 - [2021-03-12-m1-测试版-11.3beta,chrome-浏览器会偶尔闪退,你们有没有遇到过](https://www.v2ex.com/t/761129) 
 - [2021-03-12-有没有替换-iOS-系统相册的第三方-APP？](https://www.v2ex.com/t/761128) 
-- [2021-03-12-Rclone-browser-里面怎么用--track-rename](https://www.v2ex.com/t/761126) 
-- [2021-03-12-如果腾讯系产品禁止在装有阿里系产品的手机上运行，能否对阿里产生致命打击？](https://www.v2ex.com/t/761125) 

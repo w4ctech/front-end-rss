@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-12 15:45:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-12 15:56:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -22,7 +22,6 @@
 - [2021-03-04-基于-Lerna-管理-packages-的-Monorepo-项目最佳实践](https://www.ershicimi.com/p/c8c307ca1ab84e2de94e2155739d5853) 
 - [2021-03-11-【webpack-进阶】Webpack-打包后的代码是怎样的？](https://www.ershicimi.com/p/16161cc4ce1ef416f2766ddd04bd9b4f) 
 - [2021-03-02-解剖Babel-——-向前端架构师迈出一小步](https://www.ershicimi.com/p/0ac82e61e04e67149cdbcd898dff4a1e) 
-- [2021-02-25-为什么现在我更推荐-pnpm-而不是-npm/yarn?](https://www.ershicimi.com/p/581fa66c0810db0e3dad4e17cacd130d) 
 - [2021-03-09-为什么-Haskell-是我们构建生产软件系统的首选](https://www.ershicimi.com/p/bc84666d450adac1f898f3ec1e8ee535) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
 - [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) 

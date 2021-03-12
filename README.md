@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-12 15:45:44，:rocket: 更新条数: +4135， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-12 15:56:40，:rocket: 更新条数: +4135， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -695,6 +695,7 @@
 </summary>
 
 
+- [2021-03-12-奇舞周刊第-388-期：探索微前端的场景极限](https://www.ershicimi.com/p/223acb7867c59111adddce30126b2176) ![](assets/new.png)  
 - [2021-03-11-【webpack-进阶】Webpack-打包后的代码是怎样的？](https://www.ershicimi.com/p/16161cc4ce1ef416f2766ddd04bd9b4f) ![](assets/new.png)  
 - [2021-03-11-奇舞团，岗位多，机会好，快点来！](https://www.ershicimi.com/p/f8ffa14a5eac9261367e1a5138952eba) ![](assets/new.png)  
 - [2021-03-10-可视化拖拽组件库一些技术要点原理分析（三）](https://www.ershicimi.com/p/e58567dd33121d51a1d938024f25b437) ![](assets/new.png)  
@@ -714,7 +715,6 @@
 - [2021-03-01-奇舞团，岗位多，机会好，快点来！](https://www.ershicimi.com/p/9949f1e8dcfc3cca5b3879667d9327ed) ![](assets/new.png)  
 - [2021-02-26-奇舞周刊第-386-期：TC39-2021年-1-月会议提案进度汇总](https://www.ershicimi.com/p/70e50281411bcd145db54fcd84c82b86) ![](assets/new.png)  
 - [2021-02-26-奇舞团，岗位多，机会好，快点来！](https://www.ershicimi.com/p/5979bf65c4a882a445b577e9eaa2089e) ![](assets/new.png)  
-- [2021-02-25-为什么现在我更推荐-pnpm-而不是-npm/yarn?](https://www.ershicimi.com/p/581fa66c0810db0e3dad4e17cacd130d) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

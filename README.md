@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-12 06:58:45，:rocket: 更新条数: +4132， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-12 07:08:08，:rocket: 更新条数: +4132， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-03-12-AirPods2-连接-iPhone-时左耳总是连接不上](https://www.v2ex.com/t/761041) ![](assets/new.png)  
+- [2021-03-12-分布式存储高级架构师](https://www.v2ex.com/t/761040) ![](assets/new.png)  
 - [2021-03-12-上海电信精品网-OR-上海联通宽带？](https://www.v2ex.com/t/761039) ![](assets/new.png)  
 - [2021-03-12-高级-C++开发工程师（分布式存储研发方向）](https://www.v2ex.com/t/761038) ![](assets/new.png)  
 - [2021-03-12-上海叠纸游戏-恋与制作人-闪耀暖暖](https://www.v2ex.com/t/761035) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-03-12-为什么我添加/设置的-vim-命令，在:so-%后总是报错？](https://www.v2ex.com/t/761020) ![](assets/new.png)  
 - [2021-03-12-迫于定下的目标总是无法坚持，并且没有找到满意的打卡应用，所以手撸了一个打卡小程序](https://www.v2ex.com/t/761019) ![](assets/new.png)  
 - [2021-03-12-打工人归属感简单调查---数据同步（二）](https://www.v2ex.com/t/761018) ![](assets/new.png)  
-- [2021-03-12-招爬虫兼职，有闲暇的同学加-TG-详聊:-skfbnc](https://www.v2ex.com/t/761017) ![](assets/new.png)  
-- [2021-03-12-法大大，做的是什么生意？](https://www.v2ex.com/t/761016) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

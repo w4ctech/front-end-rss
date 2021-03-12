@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-12 06:58:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-12 07:08:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,6 +36,7 @@
 - [2021-03-12-蚂蚁实习蚂蚁集团-基础安全研发团队-实习生招聘&答疑辅导](https://www.v2ex.com/t/761025) 
 - [2021-03-12-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-12-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
+- [2021-03-12-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-12-春日招聘|58同城、微民保险招聘安全工程师](https://sec.thief.one/article_content?a_id=c680e598ac9f7caa2f8fd58acc332658) 
 - [2021-03-12-#植树节#种一颗树最好的时间是十年前,其次是现在;培养信息安全习...](https://sec.thief.one/article_content?a_id=4b0166571b3072bb418b48c92a642f59) 
 - [2021-03-12-《电力监控系统安全防护评估规范》全文](https://sec.thief.one/article_content?a_id=d3c680559a3bda2f07e9e30b779fa4eb) 

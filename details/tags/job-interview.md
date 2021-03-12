@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-12 06:09:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-12 06:36:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -30,9 +30,7 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-03-10-有感：仅在面试时攻克-MySQL-还不够-｜-极客时间](https://www.ershicimi.com/p/d415221b3c2a9a4f8b0b07616a9f6fc5) 
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
-- [2021-03-12-上海-加特兰微电子招聘-Python-测试开发](https://www.v2ex.com/t/760981) 
-- [2021-03-12-阿里实习-阿里巴巴-数字供应链团队-暑期实习生招聘&答疑辅导](https://www.v2ex.com/t/760979) 
-- [2021-03-12-杭州-阿里巴巴国际技术部招聘实习生和校招生](https://www.v2ex.com/t/760976) 
+- [2021-03-12-上海-外企-招聘-2-名-Java-后端工程师](https://www.v2ex.com/t/761024) 
 - [2021-03-12-我用一个小小的开放设计题，干掉了-40%-的面试候选人](https://toutiao.io/k/pnvrsao) 
 - [2021-03-12-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) 
 - [2021-03-11-招聘-|-北京中测安华科技有限公司](https://sec.thief.one/article_content?a_id=e0fd84cc856423de53cf69fa7446629f) 

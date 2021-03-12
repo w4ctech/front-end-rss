@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-12 09:07:37，:rocket: 更新条数: +4137， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-12 09:33:42，:rocket: 更新条数: +4135， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,11 +65,9 @@
 </summary>
 
 
-- [2021-03-12-3月11日全国新增新冠9例-均由境外输入](https://m.caixin.com/m/2021-03-12/101674305.html) ![](assets/new.png)  
 - [2021-03-12-研究指百年老药苏拉明抗新冠效力远超瑞德西韦-尚待临床验证](https://m.caixin.com/m/2021-03-12/101674205.html) ![](assets/new.png)  
 - [2021-03-12-【境内疫情观察】全国新增9例境外输入病例（3月11日）](http://m.database.caixin.com/m/2021-03-12/101674494.html) ![](assets/new.png)  
 - [2021-03-12-丹麦暂停接种阿斯利康疫苗-研究指英变异病毒致死风险更高｜大流行手记（3月11日）](https://m.caixin.com/m/2021-03-12/101674276.html) ![](assets/new.png)  
-- [2021-03-11-最新海外疫情：新冠感染近1.18亿-累计死亡超261万](https://m.caixin.com/m/2021-03-11/101674117.html) ![](assets/new.png)  
 - [2021-03-11-【境内疫情观察】全国新增11例境外输入病例（3月10日）](http://m.database.caixin.com/m/2021-03-11/101673880.html) ![](assets/new.png)  
 - [2021-03-11-韩国多例接种首剂疫苗者感染新冠-贫困国家疫苗严重短缺｜大流行手记（3月10日）](https://m.caixin.com/m/2021-03-11/101673729.html) ![](assets/new.png)  
 - [2021-03-10-新冠变异毒株逃逸治疗-何大一团队推出抗体“鸡尾酒疗法”](https://m.caixin.com/m/2021-03-10/101673627.html) ![](assets/new.png)  
@@ -85,6 +83,8 @@
 - [2021-03-08-记者手记|春节前鼓励医院可新冠混检-多地为何至今难觅？](https://m.caixin.com/m/2021-03-08/101672099.html) ![](assets/new.png)  
 - [2021-03-07-【境内疫情观察】四川新增7例境外输入病例（3月6日）](http://m.database.caixin.com/m/2021-03-07/101671983.html) ![](assets/new.png)  
 - [2021-03-07-COVAX新冠疫苗数量不足-“疫苗旅游”现象涌现丨大流行手记（3月6日）](https://m.caixin.com/m/2021-03-07/101671912.html) ![](assets/new.png)  
+- [2021-03-06-【境内疫情观察】全国新增10例境外输入病例（3月5日）](http://m.database.caixin.com/m/2021-03-06/101671693.html) ![](assets/new.png)  
+- [2021-03-06-欧盟疫苗出口管制或延至6月底-南非查获假新冠疫苗|大流行手记（3月5日）](https://m.caixin.com/m/2021-03-06/101671526.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,18 @@
 </summary>
 
 
+- [2021-03-12-名字域名问题](https://www.v2ex.com/t/761121) ![](assets/new.png)  
+- [2021-03-12-美团---急招后台开发](https://www.v2ex.com/t/761120) ![](assets/new.png)  
+- [2021-03-12-程序员人手一个博客？](https://www.v2ex.com/t/761118) ![](assets/new.png)  
+- [2021-03-12-请教大佬们：类似“某宝”“某东”的商城平台软件哪家强？](https://www.v2ex.com/t/761117) ![](assets/new.png)  
+- [2021-03-12-有没有大佬可以根据加密算法（base64ToUuid）写出解密算法（uuidToBase64）的，加密算法如下：-在这里先谢谢各位大佬啦](https://www.v2ex.com/t/761116) ![](assets/new.png)  
+- [2021-03-12-如何对单体应用的-api-进行恶意访问的防范](https://www.v2ex.com/t/761115) ![](assets/new.png)  
+- [2021-03-12-请问想要进军人工智能，数学基础有哪些推荐书目](https://www.v2ex.com/t/761114) ![](assets/new.png)  
+- [2021-03-12-iOS-版本信息-这个小程序的假页面呼出是怎么做的啊？](https://www.v2ex.com/t/761113) ![](assets/new.png)  
+- [2021-03-12-听英语，骨传导蓝牙耳机怎么样？](https://www.v2ex.com/t/761112) ![](assets/new.png)  
+- [2021-03-12-promise-+-settimeout-的问题](https://www.v2ex.com/t/761111) ![](assets/new.png)  
+- [2021-03-12-请教下深圳益田苹果店可以花-799-更换-ipad2-吗？](https://www.v2ex.com/t/761110) ![](assets/new.png)  
+- [2021-03-12-王伟小故事的产量比我写代码的产量高十倍](https://www.v2ex.com/t/761109) ![](assets/new.png)  
 - [2021-03-12-杭州领克交友](https://www.v2ex.com/t/761108) ![](assets/new.png)  
 - [2021-03-12-刚发现的一种-iOS-分应用代理新思路](https://www.v2ex.com/t/761107) ![](assets/new.png)  
 - [2021-03-12-美团---急招后台开发](https://www.v2ex.com/t/761106) ![](assets/new.png)  
@@ -1004,18 +1016,6 @@
 - [2021-03-12-吐槽一下现在的前端语法](https://www.v2ex.com/t/761102) ![](assets/new.png)  
 - [2021-03-12-问个“自顾人士”的社保问题](https://www.v2ex.com/t/761101) ![](assets/new.png)  
 - [2021-03-12-因为养猫了，想买个摄像头上班偷偷观察它，求推荐。](https://www.v2ex.com/t/761100) ![](assets/new.png)  
-- [2021-03-12-3-月-15-日谷歌就要停止第三方-chrome-浏览器的同步功能了，我该怎么办？](https://www.v2ex.com/t/761099) ![](assets/new.png)  
-- [2021-03-12-各位现在都工位有多大啊](https://www.v2ex.com/t/761098) ![](assets/new.png)  
-- [2021-03-12-咕咕咕咕-再度！分享一下我写的发票信息提取服务～](https://www.v2ex.com/t/761097) ![](assets/new.png)  
-- [2021-03-12-社招&校招作业帮智能技术实验室诚招-c++开发工程师（检索/推荐/ocr）](https://www.v2ex.com/t/761096) ![](assets/new.png)  
-- [2021-03-12-推荐几款设计美观大气实用的-window-桌面端应用程序](https://www.v2ex.com/t/761095) ![](assets/new.png)  
-- [2021-03-12-c-语言新手求助](https://www.v2ex.com/t/761094) ![](assets/new.png)  
-- [2021-03-12-德华们，有什么办法能让-redis-某个-key-锁定（进行业务操作），在期间不让其他线程去读。](https://www.v2ex.com/t/761093) ![](assets/new.png)  
-- [2021-03-12-Java-.util.Date.getTime-两次调用不相等](https://www.v2ex.com/t/761092) ![](assets/new.png)  
-- [2021-03-12-netfilter-两次路由选择](https://www.v2ex.com/t/761091) ![](assets/new.png)  
-- [2021-03-12-阅读进度条的颜色有几种](https://www.v2ex.com/t/761090) ![](assets/new.png)  
-- [2021-03-12-杭州酷家乐招聘前端开发工程师，无级别限制](https://www.v2ex.com/t/761089) ![](assets/new.png)  
-- [2021-03-12-Tesla-Model-3、AION-车主看过来-：找新能源车主分时共享-E-充站-APP-充电！](https://www.v2ex.com/t/761088) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

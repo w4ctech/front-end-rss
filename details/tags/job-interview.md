@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-12 09:43:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-12 09:55:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -31,7 +31,6 @@
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
 - [2021-03-12-杭州酷家乐招聘前端开发工程师，无级别限制](https://www.v2ex.com/t/761089) 
 - [2021-03-12-上海/新加坡/北京/广州-区块链交易所-bybit-技术部招聘](https://www.v2ex.com/t/761084) 
-- [2021-03-12-北京-薪资面议-360-招聘-Golang-/-DevOps](https://www.v2ex.com/t/761077) 
 - [2021-03-12-我用一个小小的开放设计题，干掉了-40%-的面试候选人](https://toutiao.io/k/pnvrsao) 
 - [2021-03-12-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) 
 - [2021-03-11-招聘-|-北京中测安华科技有限公司](https://sec.thief.one/article_content?a_id=e0fd84cc856423de53cf69fa7446629f) 

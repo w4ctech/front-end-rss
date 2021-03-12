@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-12 10:09:18，:rocket: 更新条数: +4134， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-12 10:35:15，:rocket: 更新条数: +4134， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,14 @@
 </summary>
 
 
+- [2021-03-12-肯德基嫩牛五方啥时候重新上架啊，好想吃](https://www.v2ex.com/t/761145) ![](assets/new.png)  
+- [2021-03-12-flutter-支持在打开的网页里注入自己写的-js-吗](https://www.v2ex.com/t/761144) ![](assets/new.png)  
+- [2021-03-12-诚心提问，大家平时怎么交友？除了探探和陌陌以外](https://www.v2ex.com/t/761143) ![](assets/new.png)  
+- [2021-03-12-1vN-的-git-仓库,-应该怎么管理](https://www.v2ex.com/t/761142) ![](assets/new.png)  
+- [2021-03-12-求-Gopher-工程师，北京朝阳望京](https://www.v2ex.com/t/761141) ![](assets/new.png)  
+- [2021-03-12-苏南某市图书馆-wifi-直接分公网-ip](https://www.v2ex.com/t/761140) ![](assets/new.png)  
+- [2021-03-12-gap-一年半，还是选择工作好了？](https://www.v2ex.com/t/761139) ![](assets/new.png)  
+- [2021-03-12-🔥🔥新加坡-技术移民大型互联网公司，招后端，云平台，大数据，-移动端（iOS,安卓，-RN）等开发工程师-，以及各类（后台架构，大数据，算法，基础架构，...](https://www.v2ex.com/t/761138) ![](assets/new.png)  
 - [2021-03-12-市场调查：-2017-之后毕业的小伙伴们现在薪资税前多少](https://www.v2ex.com/t/761136) ![](assets/new.png)  
 - [2021-03-12-如何提升项目的运营和管理？](https://www.v2ex.com/t/761135) ![](assets/new.png)  
 - [2021-03-12-宝宝两个月后就出生了，有必要买婴儿床么，如果买了一般用到孩子多大？](https://www.v2ex.com/t/761134) ![](assets/new.png)  
@@ -1008,14 +1016,6 @@
 - [2021-03-12-名字域名问题](https://www.v2ex.com/t/761121) ![](assets/new.png)  
 - [2021-03-12-美团---急招后台开发](https://www.v2ex.com/t/761120) ![](assets/new.png)  
 - [2021-03-12-程序员人手一个博客？](https://www.v2ex.com/t/761118) ![](assets/new.png)  
-- [2021-03-12-请教大佬们：类似“某宝”“某东”的商城平台软件哪家强？](https://www.v2ex.com/t/761117) ![](assets/new.png)  
-- [2021-03-12-有没有大佬可以根据加密算法（base64ToUuid）写出解密算法（uuidToBase64）的，加密算法如下：-在这里先谢谢各位大佬啦](https://www.v2ex.com/t/761116) ![](assets/new.png)  
-- [2021-03-12-如何对单体应用的-api-进行恶意访问的防范](https://www.v2ex.com/t/761115) ![](assets/new.png)  
-- [2021-03-12-请问想要进军人工智能，数学基础有哪些推荐书目](https://www.v2ex.com/t/761114) ![](assets/new.png)  
-- [2021-03-12-iOS-版本信息-这个小程序的假页面呼出是怎么做的啊？](https://www.v2ex.com/t/761113) ![](assets/new.png)  
-- [2021-03-12-听英语，骨传导蓝牙耳机怎么样？](https://www.v2ex.com/t/761112) ![](assets/new.png)  
-- [2021-03-12-promise-+-settimeout-的问题](https://www.v2ex.com/t/761111) ![](assets/new.png)  
-- [2021-03-12-请教下深圳益田苹果店可以花-799-更换-ipad2-吗？](https://www.v2ex.com/t/761110) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,10 +1074,10 @@
 - [2021-03-12-译-使用-Flink-前需要知道的-10-个-“陷阱”](https://toutiao.io/k/ok0u2ul) ![](assets/new.png)  
 - [2021-03-12-漫画：那些把公司当家的程序员，后来怎么样了...](https://toutiao.io/k/vce3e1w) ![](assets/new.png)  
 - [2021-03-12-重构于-Vite](https://toutiao.io/k/neju1s7) ![](assets/new.png)  
+- [2021-03-12-我用一个小小的开放设计题，干掉了-40%-的面试候选人](https://toutiao.io/k/pnvrsao) ![](assets/new.png)  
 - [2021-03-12-你真的理解主从复制吗？](https://toutiao.io/k/n6yjple) ![](assets/new.png)  
 - [2021-03-12-JPower：一个可以快速进入业务开发的后台框架](https://toutiao.io/k/108e5ly) ![](assets/new.png)  
 - [2021-03-12-Django-3.2-LTS-版-4-月即将发布，带你提前尝鲜](https://toutiao.io/k/irmc1at) ![](assets/new.png)  
-- [2021-03-12-我用一个小小的开放设计题，干掉了-40%-的面试候选人](https://toutiao.io/k/pnvrsao) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,6 +1089,16 @@
 </summary>
 
 
+- [2021-03-12-深入剖析SVE-2020-18610漏洞中](https://sec.thief.one/article_content?a_id=eaf88b8a64fd67a12f53a44e9732add9) ![](assets/new.png)  
+- [2021-03-12-首个基于浏览器的旁道攻击,苹果M1、因特尔、AMD等芯片均沦陷](https://sec.thief.one/article_content?a_id=c0fc482b1bcca20eec390df761758649) ![](assets/new.png)  
+- [2021-03-12-网络安全头部企业亚信安全终于申报IPO科创板](https://sec.thief.one/article_content?a_id=49063dcf1f99f7792a316992a0fdb5f0) ![](assets/new.png)  
+- [2021-03-12-防守方速看:攻击方「招数」揭秘](https://sec.thief.one/article_content?a_id=44bcc2908e1f13614a1082c83911defb) ![](assets/new.png)  
+- [2021-03-12-【JSRC爱心季活动】做守护大病孩子们的超级英雄](https://sec.thief.one/article_content?a_id=a3dc9ada0368de667c549f360303b279) ![](assets/new.png)  
+- [2021-03-12-AISecOps白皮书精华解读之技术体系篇](https://sec.thief.one/article_content?a_id=544c49df787b08ef07c9ea88fdd2dacd) ![](assets/new.png)  
+- [2021-03-12-区块链漏洞风险提示|Cosmos-Hub-链节点崩溃漏洞](https://sec.thief.one/article_content?a_id=c66a679b0edb2ac5fbbcdc38ed1dcfcd) ![](assets/new.png)  
+- [2021-03-12-自从用了这个神器,我再也不想写代码了...](https://sec.thief.one/article_content?a_id=0809ba9f3843a13b635d0963e19e674b) ![](assets/new.png)  
+- [2021-03-12-POC-|-悬镜安全:新一代代码灰盒安全测试](https://sec.thief.one/article_content?a_id=9bb5bf66f2e6b0bac37ef8564e38c850) ![](assets/new.png)  
+- [2021-03-12-Oracle对购买比特币传言保持沉默,比特币价格之后回落5%](https://sec.thief.one/article_content?a_id=887b6b9b0a26f43c0371168281867f3d) ![](assets/new.png)  
 - [2021-03-12-欧洲云计算巨头数据中心起火,350万家网站下线](https://sec.thief.one/article_content?a_id=9051995c819da8cfc6726f54c43eee2a) ![](assets/new.png)  
 - [2021-03-12-Clast82:利用谷歌应用商店来传播恶意软件](https://sec.thief.one/article_content?a_id=32623d3e0b538da82f50a625f15620a7) ![](assets/new.png)  
 - [2021-03-12-挪威议会数据在Microsoft-Exchange攻击中被盗](https://sec.thief.one/article_content?a_id=99bbc3d95453337e1affd078a7216cd9) ![](assets/new.png)  
@@ -1099,16 +1109,6 @@
 - [2021-03-12-每周高级威胁情报解读2021.03.04~03.11](https://sec.thief.one/article_content?a_id=ab8646ec1d87a32af31224e76b9f56f4) ![](assets/new.png)  
 - [2021-03-12-黑客入侵15万个Verkada监控摄像头-特斯拉被黑上海仓库视频曝光](https://sec.thief.one/article_content?a_id=c0658da70bc5a59a254b344752b0b1bb) ![](assets/new.png)  
 - [2021-03-12-#植树节#种一颗树最好的时间是十年前,其次是现在;培养信息安全习...](https://sec.thief.one/article_content?a_id=4b0166571b3072bb418b48c92a642f59) ![](assets/new.png)  
-- [2021-03-12-超级巨星K-Pop乐队的TikTok被黑客攻击](https://sec.thief.one/article_content?a_id=b6b89882500de10a120d85d5ae8140f7) ![](assets/new.png)  
-- [2021-03-12-Python爬虫定时计划任务的几种常见方法](https://sec.thief.one/article_content?a_id=c4b0452397112b3aab76c56b9162b2e5) ![](assets/new.png)  
-- [2021-03-12-想成为白帽黑客吗?送你一份超实用黑客技能资料](https://sec.thief.one/article_content?a_id=02021c72f06de5e2fd5d89d72fb16a6a) ![](assets/new.png)  
-- [2021-03-12-常见未授权访问漏洞实例](https://sec.thief.one/article_content?a_id=fe64a71b8a524f9a7e177ccfbc62c80a) ![](assets/new.png)  
-- [2021-03-12-《电力监控系统安全防护评估规范》全文](https://sec.thief.one/article_content?a_id=d3c680559a3bda2f07e9e30b779fa4eb) ![](assets/new.png)  
-- [2021-03-12-网安杂谈收藏夹3.12](https://sec.thief.one/article_content?a_id=6eabde62430e77d1a8b63fba54365506) ![](assets/new.png)  
-- [2021-03-12-央行发布《金融业数据能力建设指引JR/T0218—2021》附全文](https://sec.thief.one/article_content?a_id=4158195cb6c355471b225779894ef530) ![](assets/new.png)  
-- [2021-03-11-【安全圈】欧洲最大数据中心OVH发生火灾,Rust游戏损失惨重](https://sec.thief.one/article_content?a_id=946613371b02debd2f779c10b660eea3) ![](assets/new.png)  
-- [2021-03-11-【漏洞通告】QNAP-Nas-Helpdesk未授权远程代码执行漏洞CVE-...](https://sec.thief.one/article_content?a_id=7868d901e8a45c01880c4495eb0ae3b6) ![](assets/new.png)  
-- [2021-03-11-Exchange补丁发布前后至少有十个APT组织利用漏洞攻击](https://sec.thief.one/article_content?a_id=78c4110fe1a2885f6a03284837fd525e) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

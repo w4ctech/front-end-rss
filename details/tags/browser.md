@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-12 10:09:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-12 10:35:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,10 +35,12 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-12-m1-测试版-11.3beta,chrome-浏览器会偶尔闪退,你们有没有遇到过](https://www.v2ex.com/t/761129) 
 - [2021-03-12-3-月-15-日谷歌就要停止第三方-chrome-浏览器的同步功能了，我该怎么办？](https://www.v2ex.com/t/761099) 
-- [2021-03-12-Java-.util.Date.getTime-两次调用不相等](https://www.v2ex.com/t/761092) 
 - [2021-03-12-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-12-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
 - [2021-03-12-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
+- [2021-03-12-首个基于浏览器的旁道攻击,苹果M1、因特尔、AMD等芯片均沦陷](https://sec.thief.one/article_content?a_id=c0fc482b1bcca20eec390df761758649) 
+- [2021-03-12-网络安全头部企业亚信安全终于申报IPO科创板](https://sec.thief.one/article_content?a_id=49063dcf1f99f7792a316992a0fdb5f0) 
+- [2021-03-12-POC-|-悬镜安全:新一代代码灰盒安全测试](https://sec.thief.one/article_content?a_id=9bb5bf66f2e6b0bac37ef8564e38c850) 
 - [2021-03-12-春日招聘|58同城、微民保险招聘安全工程师](https://sec.thief.one/article_content?a_id=c680e598ac9f7caa2f8fd58acc332658) 
 - [2021-03-12-#植树节#种一颗树最好的时间是十年前,其次是现在;培养信息安全习...](https://sec.thief.one/article_content?a_id=4b0166571b3072bb418b48c92a642f59) 
 - [2021-03-12-《电力监控系统安全防护评估规范》全文](https://sec.thief.one/article_content?a_id=d3c680559a3bda2f07e9e30b779fa4eb) 
@@ -62,4 +64,3 @@
 - [2021-03-10-微软3月安全更新补丁和Exchange高危漏洞风险提示](https://sec.thief.one/article_content?a_id=05132b0be4312848711c2798bc678d67) 
 - [2021-03-10-国家信息安全漏洞库发布2020技术支撑单位评优结果](https://sec.thief.one/article_content?a_id=fde65f6752a46616c7c61588632a582b) 
 - [2021-03-10-【安全风险通告】DNS高危漏洞细节已公开,奇安信产品支持防护,...](https://sec.thief.one/article_content?a_id=49669da0856804d92962b9c242e90d47) 
-- [2021-03-10-春日招聘|微众、Garena招聘安全人才](https://sec.thief.one/article_content?a_id=aee3fc77f3252405a0ef066949a3f8b5) 

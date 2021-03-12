@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-12 08:39:32，:rocket: 更新条数: +4114， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-12 08:48:26，:rocket: 更新条数: +4138， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -96,6 +96,8 @@
 </summary>
 
 
+- [2021-03-12-全国｜新增确诊病例-9-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXyvbMwdluxTRh2xLP528210312&isfromapp=1) ![](assets/new.png)  
+- [2021-03-12-​山东｜青岛新增无症状感染者-1-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0c1CkpIItEXdpwWD6SaD210312&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +996,16 @@
 </summary>
 
 
+- [2021-03-12-各位现在都工位有多大啊](https://www.v2ex.com/t/761098) ![](assets/new.png)  
+- [2021-03-12-咕咕咕咕-再度！分享一下我写的发票信息提取服务～](https://www.v2ex.com/t/761097) ![](assets/new.png)  
+- [2021-03-12-社招&校招作业帮智能技术实验室诚招-c++开发工程师（检索/推荐/ocr）](https://www.v2ex.com/t/761096) ![](assets/new.png)  
+- [2021-03-12-推荐几款设计美观大气实用的-window-桌面端应用程序](https://www.v2ex.com/t/761095) ![](assets/new.png)  
+- [2021-03-12-c-语言新手求助](https://www.v2ex.com/t/761094) ![](assets/new.png)  
+- [2021-03-12-德华们，有什么办法能让-redis-某个-key-锁定（进行业务操作），在期间不让其他线程去读。](https://www.v2ex.com/t/761093) ![](assets/new.png)  
+- [2021-03-12-Java-.util.Date.getTime-两次调用不相等](https://www.v2ex.com/t/761092) ![](assets/new.png)  
+- [2021-03-12-netfilter-两次路由选择](https://www.v2ex.com/t/761091) ![](assets/new.png)  
+- [2021-03-12-阅读进度条的颜色有几种](https://www.v2ex.com/t/761090) ![](assets/new.png)  
+- [2021-03-12-杭州酷家乐招聘前端开发工程师，无级别限制](https://www.v2ex.com/t/761089) ![](assets/new.png)  
 - [2021-03-12-Tesla-Model-3、AION-车主看过来-：找新能源车主分时共享-E-充站-APP-充电！](https://www.v2ex.com/t/761088) ![](assets/new.png)  
 - [2021-03-12-美区-apple-one-长期-豪华车](https://www.v2ex.com/t/761086) ![](assets/new.png)  
 - [2021-03-12-财#新#通一年-150-元，有上车的吗？](https://www.v2ex.com/t/761085) ![](assets/new.png)  
@@ -1004,16 +1016,6 @@
 - [2021-03-12-苹果限免应用推荐3/12⏰|App-Store](https://www.v2ex.com/t/761080) ![](assets/new.png)  
 - [2021-03-12-关于微信小程序使用香港服务器的问题](https://www.v2ex.com/t/761078) ![](assets/new.png)  
 - [2021-03-12-北京-薪资面议-360-招聘-Golang-/-DevOps](https://www.v2ex.com/t/761077) ![](assets/new.png)  
-- [2021-03-12-一气之下写了个图床网站](https://www.v2ex.com/t/761076) ![](assets/new.png)  
-- [2021-03-12-iOS-开启-Quan-后，访问国内网站变慢是什么原因？](https://www.v2ex.com/t/761075) ![](assets/new.png)  
-- [2021-03-12-使用代理池+-Puppeteer-是否可以弄一个-SEO-的工具出来](https://www.v2ex.com/t/761074) ![](assets/new.png)  
-- [2021-03-12-Hiretual-北京-Paid-Ads-Specialist](https://www.v2ex.com/t/761073) ![](assets/new.png)  
-- [2021-03-12-找车位：-国区-Apple-iCloud-2T-家庭组-有无-Apple-Music-都可以](https://www.v2ex.com/t/761072) ![](assets/new.png)  
-- [2021-03-12-想买房了,-有经验的铁子们说说要看重哪些因素?](https://www.v2ex.com/t/761070) ![](assets/new.png)  
-- [2021-03-12-声波通信怎么实现？需要掌握哪些技术？希望成品是一个-zai-安卓手机上可以运行的-app](https://www.v2ex.com/t/761068) ![](assets/new.png)  
-- [2021-03-12-迫于贫穷，准备今年暑假的学生优惠入手-MBP](https://www.v2ex.com/t/761067) ![](assets/new.png)  
-- [2021-03-12-AR-地图可视化导航有什么-SDK-可以用吗？](https://www.v2ex.com/t/761066) ![](assets/new.png)  
-- [2021-03-12-淘宝实现高并发下抢单的锁单机制](https://www.v2ex.com/t/761065) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1025,6 +1027,26 @@
 </summary>
 
 
+- [2021-03-12-假如现在你有30分钟，你会做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14201&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdaily-time-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-【白话科普】CDN-&-游戏加速器，两者是一个原理吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14200&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F355985175%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-使用不多但又十分重要的：风控策略-www.woshipm.com](https://blogread.cn/news/go.php?idItem=14199&url=http%3A%2F%2Fwww.woshipm.com%2Fzhichang%2F1682661.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-全链路风控解决方案深度解读-segmentfault.com](https://blogread.cn/news/go.php?idItem=14197&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000020535780%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-京东集团的风控实践-www.infoq.cn](https://blogread.cn/news/go.php?idItem=14196&url=https%3A%2F%2Fwww.infoq.cn%2Farticle%2Fgr8q8d8cazjx3z8giar2%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-复杂风控场景下，如何打造一款高效的规则引擎-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14195&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F05%2F14%2Fmeituan-security-zeus.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-谷歌最支持的-Android-开发架构指南-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14194&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEQBSZ-aCpxI_S1oFt54D3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-在应用开发中，我为什么选择-Flutter-而不是-React-Native-？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14193&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO5Je72UbAlygTsNZSuzUkQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-Android-开发中那些无中生有的事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14192&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCWSv615Qkh3TDAXSumP7cQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-是的，入职中软一个月（外包华为）就离职了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14191&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHes3zxg6CFc6xpnRMsbC8A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-快速实现微信图片裁剪功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14190&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7miVWEBhvr17Okx4T14saQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-这一个插件，玩爆知乎和思否-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14189&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1n_xjKgPW3tJ-rvnKUAD-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-超全！常用的-70-个数据分析网址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14188&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEQvnz7GiRzOLJ10Ua3cimg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-华为提出十大数学挑战！解出一个就是年薪百万！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14187&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyYYM-Hqb6aNJze9BG26Vkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-互联网工作-常用名词及基础知识扫盲-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14186&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjTw8WwLW4SQu0PmH8lVv2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-表情包-AI-生成器：识别人脸情绪，自动配文字-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14185&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJhVS1GxUnzXyU6_obBNz5A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-真实案例详述：丢手机太危险了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14184&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ftt-3z7AlCNV-9P9XiNTktw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-成为一流软件开发者的-34-条建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14183&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQqNLaehHTtC6lm8IQ2SWGQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-优秀，起诉网站，可尼玛太秀了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14182&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBWSQVs3apxAJYrKT2QWqnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

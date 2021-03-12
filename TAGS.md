@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-12 06:47:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-12 06:58:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -260,7 +260,6 @@
 
 
 - [【V2EX】上海叠纸游戏-恋与制作人-闪耀暖暖](https://www.v2ex.com/t/761035)
-- [【V2EX】上海-游戏公司-招聘中高级的-C++服务端开发，渲染引擎，-SDK-开发-iOS-方向，-PHP-开发](https://www.v2ex.com/t/760988)
 - [【技术头条】【白话科普】CDN-&-游戏加速器，两者是一个原理吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14200&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F355985175%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】CDN-&-游戏加速器，两者是一个原理吗？](https://toutiao.io/k/iizkszd)
 - [【安全热点】【安全圈】欧洲最大数据中心OVH发生火灾,Rust游戏损失惨重](https://sec.thief.one/article_content?a_id=946613371b02debd2f779c10b660eea3)
@@ -413,6 +412,7 @@
 - [【JavaScript】熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u)
+- [【开发者头条】推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

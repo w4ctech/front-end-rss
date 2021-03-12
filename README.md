@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-12 00:08:37，:rocket: 更新条数: +700， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-12 00:18:14，:rocket: 更新条数: +4117， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-03-11-最新疫情：全国新冠累计确诊90018例-无新增本土病例](https://m.caixin.com/m/2021-03-11/101674120.html) ![](assets/new.png)  
+- [2021-03-11-最新海外疫情：新冠感染近1.18亿-累计死亡超261万](https://m.caixin.com/m/2021-03-11/101674117.html) ![](assets/new.png)  
+- [2021-03-11-【境内疫情观察】全国新增11例境外输入病例（3月10日）](http://m.database.caixin.com/m/2021-03-11/101673880.html) ![](assets/new.png)  
+- [2021-03-11-韩国多例接种首剂疫苗者感染新冠-贫困国家疫苗严重短缺｜大流行手记（3月10日）](https://m.caixin.com/m/2021-03-11/101673729.html) ![](assets/new.png)  
+- [2021-03-10-新冠变异毒株逃逸治疗-何大一团队推出抗体“鸡尾酒疗法”](https://m.caixin.com/m/2021-03-10/101673627.html) ![](assets/new.png)  
+- [2021-03-10-欧盟因疫苗分配不力挨批-生产重镇为何供货仍告急](http://m.international.caixin.com/m/2021-03-10/101673313.html) ![](assets/new.png)  
+- [2021-03-10-【境内疫情观察】全国本土无症状感染者清零（3月9日）](http://m.database.caixin.com/m/2021-03-10/101673443.html) ![](assets/new.png)  
+- [2021-03-10-泰国推出“数字游艇隔离”-欧盟二季度将接收3亿剂疫苗｜大流行手记（3月9日）](https://m.caixin.com/m/2021-03-10/101673243.html) ![](assets/new.png)  
+- [2021-03-09-【境内疫情观察】全国累计确诊病例超9万例（3月8日）](http://m.database.caixin.com/m/2021-03-09/101672900.html) ![](assets/new.png)  
+- [2021-03-09-巴西疫情大幅反弹-中国版“国际旅行健康证明”出炉｜大流行手记（3月8日）](https://m.caixin.com/m/2021-03-09/101672674.html) ![](assets/new.png)  
+- [2021-03-08-科兴疫苗全球接种4400万剂-56宗死亡病例经评估与疫苗无关](http://m.china.caixin.com/m/2021-03-08/101672645.html) ![](assets/new.png)  
+- [2021-03-08-香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](http://m.china.caixin.com/m/2021-03-08/101672619.html) ![](assets/new.png)  
+- [2021-03-08-【境内疫情观察】全国新增19例境外输入病例（3月7日）](http://m.database.caixin.com/m/2021-03-08/101672301.html) ![](assets/new.png)  
+- [2021-03-08-英格兰学校8日复课-韩国报3698例疫苗接种异常反应丨大流行手记（3月7日）](https://m.caixin.com/m/2021-03-08/101672088.html) ![](assets/new.png)  
+- [2021-03-08-记者手记|春节前鼓励医院可新冠混检-多地为何至今难觅？](https://m.caixin.com/m/2021-03-08/101672099.html) ![](assets/new.png)  
+- [2021-03-07-【境内疫情观察】四川新增7例境外输入病例（3月6日）](http://m.database.caixin.com/m/2021-03-07/101671983.html) ![](assets/new.png)  
+- [2021-03-07-COVAX新冠疫苗数量不足-“疫苗旅游”现象涌现丨大流行手记（3月6日）](https://m.caixin.com/m/2021-03-07/101671912.html) ![](assets/new.png)  
+- [2021-03-06-【境内疫情观察】全国新增10例境外输入病例（3月5日）](http://m.database.caixin.com/m/2021-03-06/101671693.html) ![](assets/new.png)  
+- [2021-03-06-欧盟疫苗出口管制或延至6月底-南非查获假新冠疫苗|大流行手记（3月5日）](https://m.caixin.com/m/2021-03-06/101671526.html) ![](assets/new.png)  
+- [2021-03-05-【境内疫情观察】上海新增6例境外输入病例（3月4日）](http://m.database.caixin.com/m/2021-03-05/101671063.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -76,6 +96,8 @@
 </summary>
 
 
+- [2021-03-11-全国｜新增确诊病例-11-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9HNF20F5oaktvohpwK4C210311&isfromapp=1) ![](assets/new.png)  
+- [2021-03-10-黑龙江｜哈尔滨全面有序恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiib8TMTA3XVEmTnK0TxcU210310&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -326,6 +348,8 @@
 </summary>
 
 
+- [2021-03-11-2天开发上线一个自己的微信小程序](https://www.ershicimi.com/p/dadc758f0e5b5c8fdf3fc0c2a230bb53) ![](assets/new.png)  
+- [2021-03-10-阿里宣布扩招！最新内部面试题已脱敏](https://www.ershicimi.com/p/986cac34636cf0fe805a1abe7e08b23d) ![](assets/new.png)  
 - [2021-03-09-Node.js-前端开发者高薪之路绕不过去的坎！](https://www.ershicimi.com/p/f034bfc97de84b197853e3ef2530cfb6) ![](assets/new.png)  
 - [2021-03-08-前端开发从入门到精通，一次解决](https://www.ershicimi.com/p/9379a52a69c3a21cbc96054ee82b4804) ![](assets/new.png)  
 - [2021-03-07-vite2.0搭建Vue3移动端项目](https://www.ershicimi.com/p/a45b5514f8a46b3013a4f19d69aa24d1) ![](assets/new.png)  
@@ -344,8 +368,6 @@
 - [2021-02-23-关于Web前端性能优化，你想了解都在这了～](https://www.ershicimi.com/p/f4a6f1e6e6f5b215f663599f40bbb3ca) ![](assets/new.png)  
 - [2021-02-22-React面试必问的Fiber和Hooks，一次解决](https://www.ershicimi.com/p/731f40a58e2c5599e7744afb7486b3b0) ![](assets/new.png)  
 - [2021-02-20-一个-HTTP-打趴-80%-前端面试者](https://www.ershicimi.com/p/22a60d006552de8528c8d605c238757c) ![](assets/new.png)  
-- [2021-02-18-GraphQL-实战篇之前端Vue+后端](https://www.ershicimi.com/p/9c7adcbb9f66408473b78245d8633f91) ![](assets/new.png)  
-- [2021-02-08-前端项目:从0开始实现一个合成大西瓜](https://www.ershicimi.com/p/2587be642159a42cab2ad6bb08e8103d) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -974,6 +996,9 @@
 </summary>
 
 
+- [2021-03-12-求助，该买哪款-Macbook](https://www.v2ex.com/t/760881) ![](assets/new.png)  
+- [2021-03-12-本科快三年了，想进字节，要在哪些方面提高自己呢？](https://www.v2ex.com/t/760880) ![](assets/new.png)  
+- [2021-03-12-求职web-前端,vue,小程序](https://www.v2ex.com/t/760879) ![](assets/new.png)  
 - [2021-03-12-未来太空城，王伟是一棵树](https://www.v2ex.com/t/760878) ![](assets/new.png)  
 - [2021-03-11-你觉得那些惊艳的歌词](https://www.v2ex.com/t/760877) ![](assets/new.png)  
 - [2021-03-11-看到这么多前端这么有交流欲望，为啥不建个电报前端魔法交流群呢？](https://www.v2ex.com/t/760876) ![](assets/new.png)  
@@ -991,9 +1016,6 @@
 - [2021-03-11-知道服务器上-mysql-端口，也知道-root-密码，怎么把其中一个数据库所有表每天自动同步到家里的-PC-上？](https://www.v2ex.com/t/760862) ![](assets/new.png)  
 - [2021-03-11-go-gin-绑定静态文件-报错](https://www.v2ex.com/t/760861) ![](assets/new.png)  
 - [2021-03-11-面试题，商品有多种分类，如何快速查找？](https://www.v2ex.com/t/760860) ![](assets/new.png)  
-- [2021-03-11-电信光猫频繁发-arp-广播包，正常吗？](https://www.v2ex.com/t/760859) ![](assets/new.png)  
-- [2021-03-11-M1-MacBook-Pro-使用贝尔金扩展坞与-U2720QM-的兼容性问题](https://www.v2ex.com/t/760858) ![](assets/new.png)  
-- [2021-03-11-翻译：《实用的-Python-编程》05_00_Overview](https://www.v2ex.com/t/760857) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1005,6 +1027,26 @@
 </summary>
 
 
+- [2021-03-12-假如现在你有30分钟，你会做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14201&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdaily-time-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-【白话科普】CDN-&-游戏加速器，两者是一个原理吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14200&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F355985175%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-使用不多但又十分重要的：风控策略-www.woshipm.com](https://blogread.cn/news/go.php?idItem=14199&url=http%3A%2F%2Fwww.woshipm.com%2Fzhichang%2F1682661.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-全链路风控解决方案深度解读-segmentfault.com](https://blogread.cn/news/go.php?idItem=14197&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000020535780%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-京东集团的风控实践-www.infoq.cn](https://blogread.cn/news/go.php?idItem=14196&url=https%3A%2F%2Fwww.infoq.cn%2Farticle%2Fgr8q8d8cazjx3z8giar2%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-复杂风控场景下，如何打造一款高效的规则引擎-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14195&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F05%2F14%2Fmeituan-security-zeus.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-谷歌最支持的-Android-开发架构指南-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14194&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEQBSZ-aCpxI_S1oFt54D3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-在应用开发中，我为什么选择-Flutter-而不是-React-Native-？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14193&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO5Je72UbAlygTsNZSuzUkQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-Android-开发中那些无中生有的事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14192&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCWSv615Qkh3TDAXSumP7cQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-是的，入职中软一个月（外包华为）就离职了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14191&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHes3zxg6CFc6xpnRMsbC8A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-快速实现微信图片裁剪功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14190&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7miVWEBhvr17Okx4T14saQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-这一个插件，玩爆知乎和思否-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14189&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1n_xjKgPW3tJ-rvnKUAD-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-超全！常用的-70-个数据分析网址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14188&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEQvnz7GiRzOLJ10Ua3cimg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-华为提出十大数学挑战！解出一个就是年薪百万！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14187&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyYYM-Hqb6aNJze9BG26Vkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-互联网工作-常用名词及基础知识扫盲-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14186&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjTw8WwLW4SQu0PmH8lVv2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-表情包-AI-生成器：识别人脸情绪，自动配文字-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14185&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJhVS1GxUnzXyU6_obBNz5A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-真实案例详述：丢手机太危险了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14184&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ftt-3z7AlCNV-9P9XiNTktw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-成为一流软件开发者的-34-条建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14183&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQqNLaehHTtC6lm8IQ2SWGQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-12-优秀，起诉网站，可尼玛太秀了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14182&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBWSQVs3apxAJYrKT2QWqnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,22 +1058,26 @@
 </summary>
 
 
+- [2021-03-12-CDN-&-游戏加速器，两者是一个原理吗？](https://toutiao.io/k/iizkszd) ![](assets/new.png)  
 - [2021-03-12-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
-- [2021-03-12-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) ![](assets/new.png)  
-- [2021-03-12-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) ![](assets/new.png)  
-- [2021-03-12-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) ![](assets/new.png)  
-- [2021-03-12-推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) ![](assets/new.png)  
-- [2021-03-12-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
-- [2021-03-12-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) ![](assets/new.png)  
-- [2021-03-12-推荐-看完这篇文章，别再说不会-Redis-的高级特性了](https://toutiao.io/k/xl63gz1) ![](assets/new.png)  
-- [2021-03-12-推荐-MySQL-索引从基础到原理，看这一篇就够了](https://toutiao.io/k/hueiax0) ![](assets/new.png)  
-- [2021-03-12-推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1) ![](assets/new.png)  
-- [2021-03-12-推荐-国内有哪些顶级技术团队的博客值得推荐？](https://toutiao.io/k/j7v5pee) ![](assets/new.png)  
-- [2021-03-12-推荐-​程序员划水指南](https://toutiao.io/k/gheevc3) ![](assets/new.png)  
-- [2021-03-12-推荐-Java-高并发编程基础之-AQS](https://toutiao.io/k/6s1vey3) ![](assets/new.png)  
+- [2021-03-12-手摸手搭建一个实时数据仓库](https://toutiao.io/k/lhucyfr) ![](assets/new.png)  
+- [2021-03-12-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
+- [2021-03-12-译-使用-Flink-前需要知道的-10-个-“陷阱”](https://toutiao.io/k/ok0u2ul) ![](assets/new.png)  
 - [2021-03-12-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) ![](assets/new.png)  
-- [2021-03-12-推荐-副业刚需：在-GitHub-上也能年入百万？](https://toutiao.io/k/r9tqaw3) ![](assets/new.png)  
+- [2021-03-12-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
+- [2021-03-12-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) ![](assets/new.png)  
+- [2021-03-12-推荐-Java-高并发编程基础之-AQS](https://toutiao.io/k/6s1vey3) ![](assets/new.png)  
+- [2021-03-12-推荐-内存管理设计精要](https://toutiao.io/k/4f2u3c5) ![](assets/new.png)  
+- [2021-03-12-推荐-最新互联网大厂职位薪资，快来对号入座吧](https://toutiao.io/k/jpow46x) ![](assets/new.png)  
+- [2021-03-12-推荐-帮助阅读源码的-8-个技巧](https://toutiao.io/k/9v93x32) ![](assets/new.png)  
 - [2021-03-12-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) ![](assets/new.png)  
+- [2021-03-12-推荐-国内有哪些顶级技术团队的博客值得推荐？](https://toutiao.io/k/j7v5pee) ![](assets/new.png)  
+- [2021-03-12-推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) ![](assets/new.png)  
+- [2021-03-12-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) ![](assets/new.png)  
+- [2021-03-12-推荐-做一个很出色的程序员](https://toutiao.io/k/g6xlwp2) ![](assets/new.png)  
+- [2021-03-12-推荐-​程序员划水指南](https://toutiao.io/k/gheevc3) ![](assets/new.png)  
+- [2021-03-12-推荐-看完这篇文章，别再说不会-Redis-的高级特性了](https://toutiao.io/k/xl63gz1) ![](assets/new.png)  
+- [2021-03-12-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1043,6 +1089,19 @@
 </summary>
 
 
+- [2021-03-12-《电力监控系统安全防护评估规范》全文](https://sec.thief.one/article_content?a_id=d3c680559a3bda2f07e9e30b779fa4eb) ![](assets/new.png)  
+- [2021-03-12-网安杂谈收藏夹3.12](https://sec.thief.one/article_content?a_id=6eabde62430e77d1a8b63fba54365506) ![](assets/new.png)  
+- [2021-03-12-央行发布《金融业数据能力建设指引JR/T0218—2021》附全文](https://sec.thief.one/article_content?a_id=4158195cb6c355471b225779894ef530) ![](assets/new.png)  
+- [2021-03-11-【安全圈】欧洲最大数据中心OVH发生火灾,Rust游戏损失惨重](https://sec.thief.one/article_content?a_id=946613371b02debd2f779c10b660eea3) ![](assets/new.png)  
+- [2021-03-11-【漏洞通告】QNAP-Nas-Helpdesk未授权远程代码执行漏洞CVE-...](https://sec.thief.one/article_content?a_id=7868d901e8a45c01880c4495eb0ae3b6) ![](assets/new.png)  
+- [2021-03-11-Exchange补丁发布前后至少有十个APT组织利用漏洞攻击](https://sec.thief.one/article_content?a_id=78c4110fe1a2885f6a03284837fd525e) ![](assets/new.png)  
+- [2021-03-11-【通告更新】漏洞详情已在多个渠道公开,部分PoC公开,Microsoft-...](https://sec.thief.one/article_content?a_id=2d016a1f108888b234f4bf16720090eb) ![](assets/new.png)  
+- [2021-03-11-每日攻防资讯简报Mar.11th](https://sec.thief.one/article_content?a_id=7e95edec6d8bb6a8ffc311e201df7d37) ![](assets/new.png)  
+- [2021-03-11-【红雨滴沙箱支持提权漏洞利用检测】CVE-2021-1732-Microsoft-...](https://sec.thief.one/article_content?a_id=2c542aa1447fb3881d36ef25e008dffd) ![](assets/new.png)  
+- [2021-03-11-Python-有可能删除-GIL-吗?](https://sec.thief.one/article_content?a_id=c9210204736456600a2a69f1c5bb9164) ![](assets/new.png)  
+- [2021-03-11-奇安信网神获CNNVD年度优秀技术支撑单位等两项荣誉](https://sec.thief.one/article_content?a_id=7c0c6b134af532b8185ccfbf4b8c9e88) ![](assets/new.png)  
+- [2021-03-11-欧洲最大数据中心OVH发生火灾,Rust游戏损失惨重](https://sec.thief.one/article_content?a_id=67159520aaf2e593d2277c30ac0a8b2e) ![](assets/new.png)  
+- [2021-03-11-Chrome-UAF漏洞模式浅析二:callback-storing-raw-pointer](https://sec.thief.one/article_content?a_id=b5c7e01283199a58cb1f5a2c540db407) ![](assets/new.png)  
 - [2021-03-11-零信任专场议题全解析,京麒沙龙第4期火热报名中~](https://sec.thief.one/article_content?a_id=abca5ab6778aabbb454cbb91c7839663) ![](assets/new.png)  
 - [2021-03-11-F5-BIG-IP/BIG-IQ-多个高危漏洞](https://sec.thief.one/article_content?a_id=a23e7d6240f1dff586aaa59f56145094) ![](assets/new.png)  
 - [2021-03-11-韩国新韩银行为央行数字货币开发试点项目](https://sec.thief.one/article_content?a_id=0fd07910188e791cdcd690b00b19f69e) ![](assets/new.png)  
@@ -1050,19 +1109,6 @@
 - [2021-03-11-POC-|-数篷科技:零信任DACS,随时随地安全使用数据](https://sec.thief.one/article_content?a_id=c3029b598d55a9e29a4f62432bb27746) ![](assets/new.png)  
 - [2021-03-11-渗透测试工程师丨助力技能提升,在线课程免费学!](https://sec.thief.one/article_content?a_id=1938ce04d106a86b466606a49a7da2b3) ![](assets/new.png)  
 - [2021-03-11-记一次内网渗透二](https://sec.thief.one/article_content?a_id=1a4126f3892caf7aa68eddecd7f1bf39) ![](assets/new.png)  
-- [2021-03-11-向安全攻击说NO,请翻开体系化防御的三页“教科书”](https://sec.thief.one/article_content?a_id=ba8bfaf1b146c9ea3571f9667e211797) ![](assets/new.png)  
-- [2021-03-11-揭秘潜藏在你手机里的“广告大师”](https://sec.thief.one/article_content?a_id=287d85639a8a86bb1f18df999667a1ce) ![](assets/new.png)  
-- [2021-03-11-【漏洞通告】F5-BIG-IP/BIG-IQ-多个严重漏洞](https://sec.thief.one/article_content?a_id=058e21641b2bf6a8c6ad3e54397583c8) ![](assets/new.png)  
-- [2021-03-11-CNNVD-关于F5-BIG-IP-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=670de5c41f5d2df3cd7703f3838bb458) ![](assets/new.png)  
-- [2021-03-11-开发安全与软件供应链安全的关系](https://sec.thief.one/article_content?a_id=2477a8ed3b788b9ce692f30181e1b49a) ![](assets/new.png)  
-- [2021-03-11-CVE-2021-21972:VMware-vCenter-Server远程代码执行漏洞复现](https://sec.thief.one/article_content?a_id=763fda61d2d63d164de825bf199c9b4e) ![](assets/new.png)  
-- [2021-03-11-3月11日贵币GUIBI早内参-灰度母公司DCG计划购买2.5亿美元GBTC,...](https://sec.thief.one/article_content?a_id=60d1358db0e7dcd652ae99a53e853022) ![](assets/new.png)  
-- [2021-03-11-Firefox-86-限制通过跨网站-Cookie-共享追踪用户](https://sec.thief.one/article_content?a_id=c7ccc440f66d27ea2f23fc0f3c9dd254) ![](assets/new.png)  
-- [2021-03-11-安全新系统之后的必备软件推荐](https://sec.thief.one/article_content?a_id=c6a2abe72d81c8684f31f356a86cc979) ![](assets/new.png)  
-- [2021-03-11-美国计划近期对俄罗斯发起报复性网络攻击行动](https://sec.thief.one/article_content?a_id=1cab06afcf593efc7496c60ca3da4113) ![](assets/new.png)  
-- [2021-03-11-美团春季校园招聘—2022届实习生,找的人就是你!](https://sec.thief.one/article_content?a_id=b5f0a02aa0f369ed7e16d5a9573eabff) ![](assets/new.png)  
-- [2021-03-11-全线业务加倍奖励活动来啦!](https://sec.thief.one/article_content?a_id=781f2912beb5c8c08d7774079873228d) ![](assets/new.png)  
-- [2021-03-11-研究人员发现插件中的零日漏洞,可接管WordPress网站](https://sec.thief.one/article_content?a_id=6183086ae6b51cd740d683ca9b4ef559) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

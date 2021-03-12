@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-12 15:09:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-12 15:38:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -31,6 +31,7 @@
 - [2021-03-12-“金三银四”，InfoQ-编程语言-3-月排行榜之求职面试篇开启投票](https://www.ershicimi.com/p/afac3732c2b238454c4ee1a795e77cbd) 
 - [2021-03-10-有感：仅在面试时攻克-MySQL-还不够-｜-极客时间](https://www.ershicimi.com/p/d415221b3c2a9a4f8b0b07616a9f6fc5) 
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
+- [2021-03-12-西安外企招聘965iOS/Android/后端/Solution-Architecture11k---面议](https://www.v2ex.com/t/761194) 
 - [2021-03-12-北京六道口-悉之教育招-实习生，日薪-400-元，-211-本科及以上，机会贼多，面试贼简单](https://www.v2ex.com/t/761187) 
 - [2021-03-12-北京西二旗-快手招聘-Java-后端开发，-HC-贼多，面试贼简单](https://www.v2ex.com/t/761177) 
 - [2021-03-12-我用一个小小的开放设计题，干掉了-40%-的面试候选人](https://toutiao.io/k/pnvrsao) 

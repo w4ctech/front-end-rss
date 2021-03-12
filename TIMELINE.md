@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-12 08:05:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-12 08:10:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -345,6 +345,8 @@
 - [【知乎日报】2021-03-04-知乎故事-|-我居然对孟婆汤过敏](https://www.ershicimi.com/p/b492e6f64c99ec8e8a9a307eca166c28) 
 - [【知乎日报】2021-03-03-我们现在看到的宇宙照片，其实都是「假的」](https://www.ershicimi.com/p/69bce8141557718d75e8fc97dcb540b8) 
 - [【知乎日报】2021-03-03-想在夏天前瘦-10-斤，这么吃就可以](https://www.ershicimi.com/p/aeb0f375bc1d79f376c9ed037234535f) 
+- [【V2EX】2021-03-12-想买房了,-有经验的铁子们说说要看重哪些因素?](https://www.v2ex.com/t/761070) 
+- [【V2EX】2021-03-12-声波通信怎么实现？需要掌握哪些技术？希望成品是一个-zai-安卓手机上可以运行的-app](https://www.v2ex.com/t/761068) 
 - [【V2EX】2021-03-12-迫于贫穷，准备今年暑假的学生优惠入手-MBP](https://www.v2ex.com/t/761067) 
 - [【V2EX】2021-03-12-AR-地图可视化导航有什么-SDK-可以用吗？](https://www.v2ex.com/t/761066) 
 - [【V2EX】2021-03-12-淘宝实现高并发下抢单的锁单机制](https://www.v2ex.com/t/761065) 
@@ -385,9 +387,6 @@
 - [【V2EX】2021-03-12-上海-外企-招聘-2-名-Java-后端工程师](https://www.v2ex.com/t/761024) 
 - [【V2EX】2021-03-12-算法对高等数学，微积分要求高么？](https://www.v2ex.com/t/761023) 
 - [【V2EX】2021-03-12-分享下我写的第一篇博客](https://www.v2ex.com/t/761022) 
-- [【V2EX】2021-03-12-为什么我添加/设置的-vim-命令，在:so-%后总是报错？](https://www.v2ex.com/t/761020) 
-- [【V2EX】2021-03-12-迫于定下的目标总是无法坚持，并且没有找到满意的打卡应用，所以手撸了一个打卡小程序](https://www.v2ex.com/t/761019) 
-- [【V2EX】2021-03-12-打工人归属感简单调查---数据同步（二）](https://www.v2ex.com/t/761018) 
 - [【技术头条】2021-03-12-假如现在你有30分钟，你会做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14201&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdaily-time-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-03-12-【白话科普】CDN-&-游戏加速器，两者是一个原理吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14200&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F355985175%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-03-12-使用不多但又十分重要的：风控策略-www.woshipm.com](https://blogread.cn/news/go.php?idItem=14199&url=http%3A%2F%2Fwww.woshipm.com%2Fzhichang%2F1682661.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

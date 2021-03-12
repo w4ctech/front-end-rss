@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-12 14:45:50，:rocket: 更新条数: +4137， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-12 14:57:25，:rocket: 更新条数: +4137， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1063,8 +1063,8 @@
 - [2021-03-12-手摸手搭建一个实时数据仓库](https://toutiao.io/k/lhucyfr) ![](assets/new.png)  
 - [2021-03-12-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
 - [2021-03-12-xxl-job-执行器启动流程](https://toutiao.io/k/lu7f9yx) ![](assets/new.png)  
-- [2021-03-12-你真的了解-sync.Mutex-吗？](https://toutiao.io/k/fvmre0w) ![](assets/new.png)  
 - [2021-03-12-CDN-&-游戏加速器，两者是一个原理吗？](https://toutiao.io/k/iizkszd) ![](assets/new.png)  
+- [2021-03-12-你真的了解-sync.Mutex-吗？](https://toutiao.io/k/fvmre0w) ![](assets/new.png)  
 - [2021-03-12-吐血整理：推荐几款顶级好用的-IDEA-插件](https://toutiao.io/k/qwe0xar) ![](assets/new.png)  
 - [2021-03-12-吃透-MQ](https://toutiao.io/k/vzx2ky5) ![](assets/new.png)  
 - [2021-03-12-写给开发人员的实用密码学：国密对称加密算法-SM4-实现要点](https://toutiao.io/k/npb4554) ![](assets/new.png)  

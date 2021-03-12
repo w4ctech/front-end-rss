@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-12 02:46:18，:rocket: 更新条数: +4130， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-12 02:54:54，:rocket: 更新条数: +4130， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,14 @@
 </summary>
 
 
+- [2021-03-12-请教问题，网络不通。运营商是否有免费技术支持](https://www.v2ex.com/t/760955) ![](assets/new.png)  
+- [2021-03-12-各位设计或者绘图的老哥用的啥显示器呀](https://www.v2ex.com/t/760954) ![](assets/new.png)  
+- [2021-03-12-新应用上线，容量规划怎么做大家有啥思路吗？](https://www.v2ex.com/t/760953) ![](assets/new.png)  
+- [2021-03-12-大家的博客都用的什么框架？](https://www.v2ex.com/t/760952) ![](assets/new.png)  
+- [2021-03-12-成为一名后端（看起来像-YX-文）](https://www.v2ex.com/t/760951) ![](assets/new.png)  
+- [2021-03-12-macOS-版的-Edge-下不了了？](https://www.v2ex.com/t/760949) ![](assets/new.png)  
+- [2021-03-12-你有多久没有认认真真的看过网页了「2」](https://www.v2ex.com/t/760948) ![](assets/new.png)  
+- [2021-03-12-Windows-下微信消息提醒](https://www.v2ex.com/t/760947) ![](assets/new.png)  
 - [2021-03-12-FinTech-社区-招聘：-AI-算法工程师---上海---40-70-万-+-奖金](https://www.v2ex.com/t/760946) ![](assets/new.png)  
 - [2021-03-12-杭州-涂鸦智能-内推-长期有效-研发工程师/架构师/技术专家](https://www.v2ex.com/t/760945) ![](assets/new.png)  
 - [2021-03-12-Mac-版内测微信，可以刷朋友圈了！真香](https://www.v2ex.com/t/760944) ![](assets/new.png)  
@@ -1008,14 +1016,6 @@
 - [2021-03-12-pandas-相关，求教如何对-group-以后的每个-df-中生成一个新列，由-x'旧列'-x'旧列'.shift1生成](https://www.v2ex.com/t/760937) ![](assets/new.png)  
 - [2021-03-12-北京除了哪块儿房子还有升值空间？](https://www.v2ex.com/t/760936) ![](assets/new.png)  
 - [2021-03-12-新浪-招聘-C++开发工程师](https://www.v2ex.com/t/760935) ![](assets/new.png)  
-- [2021-03-12-大家入职新公司有遇到这种情况吗？](https://www.v2ex.com/t/760934) ![](assets/new.png)  
-- [2021-03-12-看图&素材整理软件-1.2.6-更新了，现免费下载。](https://www.v2ex.com/t/760932) ![](assets/new.png)  
-- [2021-03-12-印象中有个-Linux-的推流软件,好像是-CN-域名](https://www.v2ex.com/t/760931) ![](assets/new.png)  
-- [2021-03-12-非-985/211-的-30+岁程序员，连面试机会都没了吗？](https://www.v2ex.com/t/760929) ![](assets/new.png)  
-- [2021-03-12-Java-读写-Stream-时,-如果-close-失败了,-应该怎样保证-Stream-最终会被关闭呢?](https://www.v2ex.com/t/760928) ![](assets/new.png)  
-- [2021-03-12-戴尔-u2720q-type-c-充电问题](https://www.v2ex.com/t/760926) ![](assets/new.png)  
-- [2021-03-12-浏览器的最小渲染单位不是-1px？](https://www.v2ex.com/t/760925) ![](assets/new.png)  
-- [2021-03-12-在-Java-业务系统的开发中，-service-层有必要写个接口吗？](https://www.v2ex.com/t/760924) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,8 +1065,8 @@
 - [2021-03-12-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
 - [2021-03-12-写给开发人员的实用密码学：国密对称加密算法-SM4-实现要点](https://toutiao.io/k/npb4554) ![](assets/new.png)  
 - [2021-03-12-你真的了解-sync.Mutex-吗？](https://toutiao.io/k/fvmre0w) ![](assets/new.png)  
-- [2021-03-12-译-使用-Flink-前需要知道的-10-个-“陷阱”](https://toutiao.io/k/ok0u2ul) ![](assets/new.png)  
 - [2021-03-12-xxl-job-执行器启动流程](https://toutiao.io/k/lu7f9yx) ![](assets/new.png)  
+- [2021-03-12-译-使用-Flink-前需要知道的-10-个-“陷阱”](https://toutiao.io/k/ok0u2ul) ![](assets/new.png)  
 - [2021-03-12-漫画：那些把公司当家的程序员，后来怎么样了...](https://toutiao.io/k/vce3e1w) ![](assets/new.png)  
 - [2021-03-12-吐血整理：推荐几款顶级好用的-IDEA-插件](https://toutiao.io/k/qwe0xar) ![](assets/new.png)  
 - [2021-03-12-工作中遇到的疑难问题：闪退](https://toutiao.io/k/b858vwn) ![](assets/new.png)  
@@ -1074,10 +1074,10 @@
 - [2021-03-12-重构于-Vite](https://toutiao.io/k/neju1s7) ![](assets/new.png)  
 - [2021-03-12-吃透-MQ](https://toutiao.io/k/vzx2ky5) ![](assets/new.png)  
 - [2021-03-12-OpenSSH-实践手册](https://toutiao.io/k/s8jbzwi) ![](assets/new.png)  
-- [2021-03-12-推荐-Java-高并发编程基础之-AQS](https://toutiao.io/k/6s1vey3) ![](assets/new.png)  
-- [2021-03-12-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) ![](assets/new.png)  
-- [2021-03-12-推荐-最新互联网大厂职位薪资，快来对号入座吧](https://toutiao.io/k/jpow46x) ![](assets/new.png)  
+- [2021-03-12-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) ![](assets/new.png)  
+- [2021-03-12-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) ![](assets/new.png)  
 - [2021-03-12-推荐-​程序员划水指南](https://toutiao.io/k/gheevc3) ![](assets/new.png)  
+- [2021-03-12-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

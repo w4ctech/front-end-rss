@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-12 16:06:15，:rocket: 更新条数: +4096， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-12 16:12:08，:rocket: 更新条数: +4116， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
@@ -788,6 +788,26 @@
 </summary>
 
 
+- [2021-03-12-三年白干！程序员孙某因违反《竞业协议》赔偿腾讯-97.6-万元，返还-15.8-万元](https://www.ershicimi.com/p/8da63b425f1c43c1a0e7983dcc708e06) ![](assets/new.png)  
+- [2021-03-12-再见-FTP/SFTP！是时候拥抱下一代文件传输利器-Croc-了！](https://www.ershicimi.com/p/baf0b51671f1ed8a40c6658c5dc41c3e) ![](assets/new.png)  
+- [2021-03-12-程序员必须清楚的专业名词，你知道几个？](https://www.ershicimi.com/p/95afce2cc01936b3b90ad4b6f42d1c27) ![](assets/new.png)  
+- [2021-03-11-委员建议对996工作制进行监管，热搜第一！网友沸腾了，这个必须转～](https://www.ershicimi.com/p/226a828fc7b0df56c8ce43b1eb493b11) ![](assets/new.png)  
+- [2021-03-11-虽然这些代码很少，就几行，但却很牛逼！](https://www.ershicimi.com/p/ce7d79be1cfe5e4233af79c3802e8c7b) ![](assets/new.png)  
+- [2021-03-11-5-个牛逼的算法设计，你知道几个？](https://www.ershicimi.com/p/21034bda017baeefe8a778d7fab9ebb5) ![](assets/new.png)  
+- [2021-03-10-淘宝为什么放弃SpringCloud、Dubbo，选择了这个牛逼的神仙框架！贼爽](https://www.ershicimi.com/p/5ccbcd89b23e6912c59f5ba4a2519263) ![](assets/new.png)  
+- [2021-03-10-深圳一普通中学老师工资单曝光，秒杀程序员](https://www.ershicimi.com/p/ad268106316093038781cd752a91be23) ![](assets/new.png)  
+- [2021-03-10-一个-Java-对象到底有多大？](https://www.ershicimi.com/p/7071e71f29b0ef768c7c524a28921ef6) ![](assets/new.png)  
+- [2021-03-09-水货CTO入职不到半年犯下低级错误，将公司拖入无底深渊](https://www.ershicimi.com/p/3100d06141e576833ed808775ad920ea) ![](assets/new.png)  
+- [2021-03-09-这才是全球最大的-色情网站，冲呀-！！！](https://www.ershicimi.com/p/f20ce1cf30deeb485b41a6840b4d0144) ![](assets/new.png)  
+- [2021-03-09-B站up主用AI还原李焕英-动态影像](https://www.ershicimi.com/p/bec6a21d6fe1f99ef1f1c8294ad6815e) ![](assets/new.png)  
+- [2021-03-08-17-张程序员专属壁纸，太太太太太太骚了…](https://www.ershicimi.com/p/0ad5607a388138bf5caf53c9a4caf36b) ![](assets/new.png)  
+- [2021-03-08-ZooKeeper、Eureka、Consul-、Nacos，微服务注册中心怎么选？](https://www.ershicimi.com/p/ccc84946267b80c1e4a605fff967b771) ![](assets/new.png)  
+- [2021-03-08-强大，腾讯开源前后端接口开发工具！](https://www.ershicimi.com/p/cf1097f1918d3c9ff7c59008f488a472) ![](assets/new.png)  
+- [2021-03-07-别瞎学了，这几门语言要被淘汰了！](https://www.ershicimi.com/p/1328f9eb47d3480aeb3aa36396c2aff0) ![](assets/new.png)  
+- [2021-03-07-21大软件架构特点的全面解析](https://www.ershicimi.com/p/f6054b6a0a6aa3bb4dcc0f517fd10e30) ![](assets/new.png)  
+- [2021-03-07-动动手指就有钱收！最近这款APP服务器都被网友挤爆了](https://www.ershicimi.com/p/34a00ddfb5236ce85fcc31518b800ebd) ![](assets/new.png)  
+- [2021-03-06-想接私活收入翻倍，建议根据这几个开源SpringBoot项目（含小程序）改改~](https://www.ershicimi.com/p/f9d0b0c6dbc9ac45d666c377a6e76dd4) ![](assets/new.png)  
+- [2021-03-06-再见，996！程序员开源考公指南火了：三人已成功上岸！](https://www.ershicimi.com/p/72a45be752d5dc1b7c71807514309fbf) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -976,6 +996,7 @@
 </summary>
 
 
+- [2021-03-12-如何快速改变-markdown-字体的颜色-底纹](https://www.v2ex.com/t/761201) ![](assets/new.png)  
 - [2021-03-12-我的天那！-nextcloud-里所以文件都永久删除了，"/var/www/nextcloud/data"目录怎么还好几十个-G？](https://www.v2ex.com/t/761200) ![](assets/new.png)  
 - [2021-03-12-有没有充电器是接地的-USB-充电器或者插线板？](https://www.v2ex.com/t/761198) ![](assets/new.png)  
 - [2021-03-12-轮子迭代骗-star:-All-In-One-DNS](https://www.v2ex.com/t/761197) ![](assets/new.png)  
@@ -995,7 +1016,6 @@
 - [2021-03-12-报名了-3-月-27-号的公务员考试，弄得自己最近这段时间太焦虑了，求问已经上岸的各位大佬有没有啥经验可以分享下](https://www.v2ex.com/t/761181) ![](assets/new.png)  
 - [2021-03-12-Golang-死循环只能占用大于-20%的-CPU？？](https://www.v2ex.com/t/761180) ![](assets/new.png)  
 - [2021-03-12-数据从业者在苹果-M1-芯片上用过-pandas-和-numpy-的，可以谈谈使用感受么？](https://www.v2ex.com/t/761178) ![](assets/new.png)  
-- [2021-03-12-北京西二旗-快手招聘-Java-后端开发，-HC-贼多，面试贼简单](https://www.v2ex.com/t/761177) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1038,21 +1058,21 @@
 </summary>
 
 
-- [2021-03-12-推荐-副业刚需：在-GitHub-上也能年入百万？](https://toutiao.io/k/r9tqaw3) ![](assets/new.png)  
-- [2021-03-12-推荐-MySQL-索引从基础到原理，看这一篇就够了](https://toutiao.io/k/hueiax0) ![](assets/new.png)  
-- [2021-03-12-推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) ![](assets/new.png)  
-- [2021-03-12-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
-- [2021-03-12-推荐-看完这篇文章，别再说不会-Redis-的高级特性了](https://toutiao.io/k/xl63gz1) ![](assets/new.png)  
-- [2021-03-12-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) ![](assets/new.png)  
-- [2021-03-12-推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1) ![](assets/new.png)  
+- [2021-03-12-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) ![](assets/new.png)  
 - [2021-03-12-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) ![](assets/new.png)  
-- [2021-03-12-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) ![](assets/new.png)  
+- [2021-03-12-推荐-看完这篇文章，别再说不会-Redis-的高级特性了](https://toutiao.io/k/xl63gz1) ![](assets/new.png)  
 - [2021-03-12-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
-- [2021-03-12-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) ![](assets/new.png)  
+- [2021-03-12-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
 - [2021-03-12-推荐-最新互联网大厂职位薪资，快来对号入座吧](https://toutiao.io/k/jpow46x) ![](assets/new.png)  
-- [2021-03-12-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
+- [2021-03-12-推荐-副业刚需：在-GitHub-上也能年入百万？](https://toutiao.io/k/r9tqaw3) ![](assets/new.png)  
+- [2021-03-12-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) ![](assets/new.png)  
+- [2021-03-12-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) ![](assets/new.png)  
 - [2021-03-12-推荐-帮助阅读源码的-8-个技巧](https://toutiao.io/k/9v93x32) ![](assets/new.png)  
+- [2021-03-12-推荐-内存管理设计精要](https://toutiao.io/k/4f2u3c5) ![](assets/new.png)  
 - [2021-03-12-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
+- [2021-03-12-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) ![](assets/new.png)  
+- [2021-03-12-推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) ![](assets/new.png)  
+- [2021-03-12-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

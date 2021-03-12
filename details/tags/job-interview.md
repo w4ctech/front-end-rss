@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-12 22:05:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-12 22:09:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-03-06-来看看阿里2021前端工程师技术要求（附面试题）](https://www.ershicimi.com/p/1a5ce888c42c155d6f77d63003c3a0a8) 
 - [2021-03-12-【招聘】蚂蚁金服体验技术部地平线招聘p5~p8前端](https://www.ershicimi.com/p/3c64b714fe791757274ed726ab2e74af) 
 - [2021-03-11-【招聘】蘑菇街-锐鲨科技招前端开发工程师](https://www.ershicimi.com/p/c133a31506f6852705cd275f0d5389cc) 

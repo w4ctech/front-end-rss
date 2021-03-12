@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-12 03:01:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-12 03:09:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -33,7 +33,6 @@
 - [2021-03-12-成都百度智能云招聘](https://www.v2ex.com/t/760938) 
 - [2021-03-12-新浪-招聘-C++开发工程师](https://www.v2ex.com/t/760935) 
 - [2021-03-12-非-985/211-的-30+岁程序员，连面试机会都没了吗？](https://www.v2ex.com/t/760929) 
-- [2021-03-12-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) 
 - [2021-03-11-招聘-|-北京中测安华科技有限公司](https://sec.thief.one/article_content?a_id=e0fd84cc856423de53cf69fa7446629f) 
 - [2021-03-11-美团春季校园招聘—2022届实习生,找的人就是你!](https://sec.thief.one/article_content?a_id=b5f0a02aa0f369ed7e16d5a9573eabff) 
 - [2021-03-11-春日招聘|美团19个职位寻“牛”人](https://sec.thief.one/article_content?a_id=853fc372808e2f793ed5716629680123) 

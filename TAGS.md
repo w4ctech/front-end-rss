@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-12 15:38:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-12 15:45:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -215,7 +215,6 @@
 - [【前端大学】2天开发上线一个自己的微信小程序](https://www.ershicimi.com/p/dadc758f0e5b5c8fdf3fc0c2a230bb53)
 - [【Nodejs技术栈】两天快速开发一个自己的微信小程序](https://www.ershicimi.com/p/a1d5b90a969dd851472f08a9b6749930)
 - [【前端日刊】从0到1带你开发一个人脸识别考勤小程序](https://www.ershicimi.com/p/7fdc7a8a92088c3678ae5553440b47ec)
-- [【前端日刊】推荐一个小程序实战项目！0基础可做](https://www.ershicimi.com/p/18c08bde7a831bbd26ace73f5cd169ee)
 - [【互联网架构师】想接私活收入翻倍，建议根据这几个开源SpringBoot项目（含小程序）改改~](https://www.ershicimi.com/p/f9d0b0c6dbc9ac45d666c377a6e76dd4)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
 - [......【查看更多】......](./details/tags/miniprogram.md)
@@ -411,6 +410,8 @@
 - [【JavaScript】熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc)
+- [【开发者头条】推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano)
+- [【开发者头条】推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -510,7 +511,6 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】证明-GitHub-不是白茫茫的方法：设置->社交网络->GitHub-处输入自己的-github-用户名->Save](https://www.v2ex.com/t/761165)
-- [【V2EX】不要再拿-30+年龄当借口了！既然你选择了当程序员就要做好持续学习的心里准备！证明自己的途径不是通过用嘴吧啦吧啦啦！很简单去-GitHub-持续提交你的代码！每当...](https://www.v2ex.com/t/761149)
 - [【开发者头条】推荐-副业刚需：在-GitHub-上也能年入百万？](https://toutiao.io/k/r9tqaw3)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

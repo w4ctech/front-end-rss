@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-13 00:08:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-13 00:17:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,10 +23,17 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
+- [2021-03-05-【第2216期】CORS-完全手册之为什么会发生CORS-错误？](https://www.ershicimi.com/p/6cbf45be18a23d82257923256f8303a3) 
+- [2021-03-02-前端拓展：如何开发一个-Chrome-插件？](https://www.ershicimi.com/p/e21959f7f8c8c34ceb31238d4fff0084) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-12-firefox-的书签栏快给我整疯了](https://www.v2ex.com/t/761189) 
 - [2021-03-12-请教关于-MVCC-ReadView-的问题](https://www.v2ex.com/t/761185) 
+- [2021-03-13-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
+- [2021-03-13-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
+- [2021-03-12-【安全圈】微软封堵-IE-漏洞:曾被黑客疯狂利用](https://sec.thief.one/article_content?a_id=2ee89a66904b530b2781143dc3857a9e) 
+- [2021-03-12-【安全风险通告】Git远程命令执行漏洞安全风险通告](https://sec.thief.one/article_content?a_id=0798855617336e95c44724dda371618d) 
+- [2021-03-12-奇安信顺利完成2021全国“两会”网络安全保障工作](https://sec.thief.one/article_content?a_id=16b6dc5693e0c66f6e3bb7766d3eb5ea) 
 - [2021-03-12-首个基于浏览器的旁道攻击,苹果M1、因特尔、AMD等芯片均沦陷](https://sec.thief.one/article_content?a_id=c0fc482b1bcca20eec390df761758649) 
 - [2021-03-12-网络安全头部企业亚信安全终于申报IPO科创板](https://sec.thief.one/article_content?a_id=49063dcf1f99f7792a316992a0fdb5f0) 
 - [2021-03-12-POC-|-悬镜安全:新一代代码灰盒安全测试](https://sec.thief.one/article_content?a_id=9bb5bf66f2e6b0bac37ef8564e38c850) 
@@ -48,8 +55,3 @@
 - [2021-03-10-和旧版Edge浏览器说再见!微软将不再提供技术支持](https://sec.thief.one/article_content?a_id=4ac0ec385604d612909ebc2c7fea0317) 
 - [2021-03-10-聚焦两会-|-2021“两会”围绕网络安全有哪些热点提案?](https://sec.thief.one/article_content?a_id=cd97e7db5f7e02322a100a2175a0bb28) 
 - [2021-03-10-正式成为-Apache-Teaclave-子项目,百度安全-Rust-TrustZone-SDK-赋...](https://sec.thief.one/article_content?a_id=11580a8bac2bdb8775d6ff9e34b59581) 
-- [2021-03-10-【通告更新】新增官方缓解措施和官方安全扫描程序,Microsoft-...](https://sec.thief.one/article_content?a_id=c1d900ae57c428eaf558ab109a56617f) 
-- [2021-03-10-诸子云-|话题:渗透测试怎么选?主机安全咋考虑?安全产品本身不安...](https://sec.thief.one/article_content?a_id=bd56d2d4e6bfd4562539ee0afbcbb10c) 
-- [2021-03-10-微软3月安全更新补丁和Exchange高危漏洞风险提示](https://sec.thief.one/article_content?a_id=05132b0be4312848711c2798bc678d67) 
-- [2021-03-10-国家信息安全漏洞库发布2020技术支撑单位评优结果](https://sec.thief.one/article_content?a_id=fde65f6752a46616c7c61588632a582b) 
-- [2021-03-10-【安全风险通告】DNS高危漏洞细节已公开,奇安信产品支持防护,...](https://sec.thief.one/article_content?a_id=49669da0856804d92962b9c242e90d47) 

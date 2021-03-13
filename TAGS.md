@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-13 17:12:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-13 17:25:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -412,6 +412,7 @@
 - [【JavaScript】熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】每天随随便便开的软件都这么多，该咋整？。。。性能不够啊，感觉电脑从来没有速度快过。](https://www.v2ex.com/t/761377)
+- [【开发者头条】推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u)
 - [【开发者头条】推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc)
 - [【开发者头条】推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano)
 - [......【查看更多】......](./details/tags/optimization.md)

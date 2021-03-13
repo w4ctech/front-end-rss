@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-13 15:55:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-13 16:06:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,4 +7,8 @@
 
 
 
-- [2021-02-26-VUCA时代，打造-10-倍速-IT-团队的优化调整法则-|-活动推荐](https://www.ershicimi.com/p/b709e7053c2a5710bd4f0da64320bbaa) 
+- [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
+- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2021-03-13-每天随随便便开的软件都这么多，该咋整？。。。性能不够啊，感觉电脑从来没有速度快过。](https://www.v2ex.com/t/761377) 
+- [2021-03-13-推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) 
+- [2021-03-13-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) 

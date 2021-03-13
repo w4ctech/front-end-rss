@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-13 02:12:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-13 02:45:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,6 +34,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-12-firefox-的书签栏快给我整疯了](https://www.v2ex.com/t/761189) 
 - [2021-03-13-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-13-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) 
 - [2021-03-12-【安全圈】微软封堵-IE-漏洞:曾被黑客疯狂利用](https://sec.thief.one/article_content?a_id=2ee89a66904b530b2781143dc3857a9e) 
 - [2021-03-12-【安全风险通告】Git远程命令执行漏洞安全风险通告](https://sec.thief.one/article_content?a_id=0798855617336e95c44724dda371618d) 
 - [2021-03-12-奇安信顺利完成2021全国“两会”网络安全保障工作](https://sec.thief.one/article_content?a_id=16b6dc5693e0c66f6e3bb7766d3eb5ea) 

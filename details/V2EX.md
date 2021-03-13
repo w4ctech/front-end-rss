@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-03-13 13:32:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-13 13:40:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-13-怎么用-mac-自带的「自动操作」实现用指定应用打开文件夹](https://www.v2ex.com/t/761375) 
+- [2021-03-13-Telegram-二次验证被其他人设置密码](https://www.v2ex.com/t/761374) 
 - [2021-03-13-prostack，一个程序员互助群体。](https://www.v2ex.com/t/761373) 
 - [2021-03-13-2021-年的-HW-行动-4-月就要开始了](https://www.v2ex.com/t/761372) 
 - [2021-03-13-腾讯云轻量服务器流量超出限制自动关机脚本](https://www.v2ex.com/t/761371) 
@@ -45,5 +47,3 @@
 - [2021-03-13-这是一条靠谱的南京招聘贴](https://www.v2ex.com/t/761331) 
 - [2021-03-13-听说-CloudReady-虚拟机版本没有-Play-Store？](https://www.v2ex.com/t/761330) 
 - [2021-03-13-请教一个-dict-中取相同-value-的方法](https://www.v2ex.com/t/761328) 
-- [2021-03-13-为什么国内视频网站快捷键极少或者没有？](https://www.v2ex.com/t/761325) 
-- [2021-03-13-北京/成都-后端工程师-Python-中台服务/APP-后端-部门直招](https://www.v2ex.com/t/761324) 

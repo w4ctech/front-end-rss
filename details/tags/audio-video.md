@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-13 03:56:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-13 04:05:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-03-13-前端录制视频的方法](https://www.v2ex.com/t/761261) 
 - [2021-03-13-为什么关掉显示器电源，在关于本机里面还显示自己的显示器？这时候显卡还绘制图像吗？](https://www.v2ex.com/t/761218) 
 - [2021-03-12-黑客入侵15万个Verkada监控摄像头-特斯拉被黑上海仓库视频曝光](https://sec.thief.one/article_content?a_id=c0658da70bc5a59a254b344752b0b1bb) 
 - [2021-03-11-特斯拉监控摄像头被黑](https://sec.thief.one/article_content?a_id=0ace8ba6f7d1944b4fed4593e91b88e3) 

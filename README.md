@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-13 23:42:52，:rocket: 更新条数: +4128， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-13 23:55:48，:rocket: 更新条数: +4128， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1058,26 +1058,26 @@
 </summary>
 
 
-- [2021-03-13-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
-- [2021-03-13-以模型为中心，携程契约系统的演进](https://toutiao.io/k/mlv82jf) ![](assets/new.png)  
-- [2021-03-13-醒一醒，讲到-ZooKeeper-的选举机制了](https://toutiao.io/k/ft1r1q4) ![](assets/new.png)  
-- [2021-03-13-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
-- [2021-03-13-设计模式：基于容器的分布式系统](https://toutiao.io/k/f9tkx8s) ![](assets/new.png)  
-- [2021-03-13-聊聊-Git-的三种传输协议及实现](https://toutiao.io/k/maymnjh) ![](assets/new.png)  
-- [2021-03-13-网易云音乐数仓维度建模实践：模型设计篇](https://toutiao.io/k/tkv0drb) ![](assets/new.png)  
-- [2021-03-13-出大事了！IBM-的数仓项目黄了，赔了好几亿](https://toutiao.io/k/yzatci2) ![](assets/new.png)  
-- [2021-03-13-快来领取你的-GitHub-3D-手办](https://toutiao.io/k/2lrwffc) ![](assets/new.png)  
-- [2021-03-13-译-打造符合用户期望的应用质量](https://toutiao.io/k/4imqrw9) ![](assets/new.png)  
-- [2021-03-13-推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) ![](assets/new.png)  
-- [2021-03-13-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
-- [2021-03-13-推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1) ![](assets/new.png)  
-- [2021-03-13-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) ![](assets/new.png)  
-- [2021-03-13-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) ![](assets/new.png)  
+- [2021-03-13-Linux-文件-I/O-进化史（三）：Direct-I/O-和-Linux-AIO](https://toutiao.io/k/peychra) ![](assets/new.png)  
+- [2021-03-13-Java-基础：日期与时间-API-用法详解](https://toutiao.io/k/soqwk0v) ![](assets/new.png)  
+- [2021-03-13-聊一聊设计模式究竟是什么](https://toutiao.io/k/yqyaefq) ![](assets/new.png)  
+- [2021-03-13-CompletableFuture-让你的代码免受阻塞之苦](https://toutiao.io/k/6sgy0vy) ![](assets/new.png)  
+- [2021-03-13-Go-工程化（九）：项目重构实践](https://toutiao.io/k/et0t2lk) ![](assets/new.png)  
+- [2021-03-13-C++-folly-库解读（二）：small_vector-之小数据集下的-std::vector-替代方案](https://toutiao.io/k/r8yatl9) ![](assets/new.png)  
+- [2021-03-13-任务队列-与-Celery-概述](https://toutiao.io/k/2zp36fa) ![](assets/new.png)  
+- [2021-03-13-ChirpStack-自定义-JS-codec-函数](https://toutiao.io/k/55xwxun) ![](assets/new.png)  
+- [2021-03-13-小布助手算法系统的探索、实践与思考](https://toutiao.io/k/cdxmfnt) ![](assets/new.png)  
+- [2021-03-13-怎么推导《最大子序和》的动态规划解法](https://toutiao.io/k/0l1fx3m) ![](assets/new.png)  
+- [2021-03-13-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) ![](assets/new.png)  
+- [2021-03-13-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) ![](assets/new.png)  
 - [2021-03-13-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) ![](assets/new.png)  
-- [2021-03-13-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
-- [2021-03-13-推荐-MySQL-索引从基础到原理，看这一篇就够了](https://toutiao.io/k/hueiax0) ![](assets/new.png)  
+- [2021-03-13-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) ![](assets/new.png)  
+- [2021-03-13-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) ![](assets/new.png)  
+- [2021-03-13-推荐-译-构建微服务的十大-Go-框架/库](https://toutiao.io/k/44rsmt3) ![](assets/new.png)  
+- [2021-03-13-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) ![](assets/new.png)  
+- [2021-03-13-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) ![](assets/new.png)  
+- [2021-03-13-推荐-帮助阅读源码的-8-个技巧](https://toutiao.io/k/9v93x32) ![](assets/new.png)  
 - [2021-03-13-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) ![](assets/new.png)  
-- [2021-03-13-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

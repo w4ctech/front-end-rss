@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-13 13:04:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-13 13:12:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -79,3 +79,4 @@
 - [2021-03-12-黑客入侵15万个Verkada监控摄像头-特斯拉被黑上海仓库视频曝光](https://sec.thief.one/article_content?a_id=c0658da70bc5a59a254b344752b0b1bb) 
 - [2021-03-11-特斯拉监控摄像头被黑](https://sec.thief.one/article_content?a_id=0ace8ba6f7d1944b4fed4593e91b88e3) 
 - [2021-03-11-黑客入侵15万个Verkada监控摄像头-特斯拉被黑上海仓库视频曝光](https://sec.thief.one/article_content?a_id=5ad365aab97ecc29063c91acb3adf653) 
+- [2021-03-01-【直播报名】物联网数据4.0时代，企业还有哪些新的存储需求？](https://www.ershicimi.com/p/38cd58ec7eba50794e472b524952553c) 

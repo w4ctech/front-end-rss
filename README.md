@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-13 12:53:44，:rocket: 更新条数: +3536， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-13 13:04:45，:rocket: 更新条数: +3581， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -47,13 +47,13 @@
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
-- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
+- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)  
 
@@ -450,6 +450,26 @@
 </summary>
 
 
+- [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) ![](assets/new.png)  
+- [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) ![](assets/new.png)  
+- [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) ![](assets/new.png)  
+- [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) ![](assets/new.png)  
+- [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) ![](assets/new.png)  
+- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) ![](assets/new.png)  
+- [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) ![](assets/new.png)  
+- [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) ![](assets/new.png)  
+- [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) ![](assets/new.png)  
+- [2019-12-16-以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3) ![](assets/new.png)  
+- [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) ![](assets/new.png)  
+- [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) ![](assets/new.png)  
+- [2019-12-09-9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320) ![](assets/new.png)  
+- [2019-12-09-图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648) ![](assets/new.png)  
+- [2019-12-06-微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796) ![](assets/new.png)  
+- [2019-12-06-解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598) ![](assets/new.png)  
+- [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) ![](assets/new.png)  
+- [2019-12-05-crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221) ![](assets/new.png)  
+- [2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) ![](assets/new.png)  
+- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端艺术家&&飞冰早报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +514,26 @@
 </summary>
 
 
+- [2021-03-13-出京东一手-wh1000xm2-耳机](https://www.v2ex.com/t/761368) ![](assets/new.png)  
+- [2021-03-13-现在怎么这么多外包公司。。。](https://www.v2ex.com/t/761367) ![](assets/new.png)  
+- [2021-03-13-腾讯云社区开发者手册，原来就是爬取其他官方文档啊，真是改不了抄袭的毛病](https://www.v2ex.com/t/761366) ![](assets/new.png)  
+- [2021-03-13-个人博客数据库设计问题](https://www.v2ex.com/t/761365) ![](assets/new.png)  
+- [2021-03-13-上海/北京/杭州实习/校招/社招抖音电商救救孩子后端开发工程师](https://www.v2ex.com/t/761364) ![](assets/new.png)  
+- [2021-03-13-大神们电脑识别出双通道-8G-内存反而卡，是为什么呢？](https://www.v2ex.com/t/761363) ![](assets/new.png)  
+- [2021-03-13-大家觉得目前软件开发领域最卷的是什么方向呢？](https://www.v2ex.com/t/761362) ![](assets/new.png)  
+- [2021-03-13-v2ex-主页或上角的进度条干啥的？满了会变成绿色？](https://www.v2ex.com/t/761361) ![](assets/new.png)  
+- [2021-03-13-开源-周末更新了一下-V-File-Name-的文档](https://www.v2ex.com/t/761360) ![](assets/new.png)  
+- [2021-03-13-如何在自己的服务器上部署-Cloudflare-woker-的代码？](https://www.v2ex.com/t/761359) ![](assets/new.png)  
+- [2021-03-13-人际关系题，如何委婉的回复](https://www.v2ex.com/t/761358) ![](assets/new.png)  
+- [2021-03-13-请教-台北节点和香港节点的服务器选择？求建议！](https://www.v2ex.com/t/761357) ![](assets/new.png)  
+- [2021-03-13-大家-WiFi-的延迟是多少？](https://www.v2ex.com/t/761356) ![](assets/new.png)  
+- [2021-03-13-Linux-环境编程有什么经典教材吗](https://www.v2ex.com/t/761355) ![](assets/new.png)  
+- [2021-03-13-带地图查看功能的-NAS-照片管理软件，插件也行](https://www.v2ex.com/t/761354) ![](assets/new.png)  
+- [2021-03-13-需要做一个细分领域的企业自我评估网站，想找技术合伙人或外包合作](https://www.v2ex.com/t/761353) ![](assets/new.png)  
+- [2021-03-13-遇到个-FaceTime-的奇怪问题](https://www.v2ex.com/t/761351) ![](assets/new.png)  
+- [2021-03-13-有什么手机-APP-可以跑起来-py-文件吗？-IOS、Android-都可以。](https://www.v2ex.com/t/761350) ![](assets/new.png)  
+- [2021-03-13-银行前置系统是做什么的？](https://www.v2ex.com/t/761349) ![](assets/new.png)  
+- [2021-03-13-笔记本换代求推荐-macbook-air-m1-|-redmibook-pro14-|-小新-pro14](https://www.v2ex.com/t/761348) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -516,26 +556,6 @@
 </summary>
 
 
-- [2021-03-13-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
-- [2021-03-13-以模型为中心，携程契约系统的演进](https://toutiao.io/k/mlv82jf) ![](assets/new.png)  
-- [2021-03-13-醒一醒，讲到-ZooKeeper-的选举机制了](https://toutiao.io/k/ft1r1q4) ![](assets/new.png)  
-- [2021-03-13-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
-- [2021-03-13-设计模式：基于容器的分布式系统](https://toutiao.io/k/f9tkx8s) ![](assets/new.png)  
-- [2021-03-13-聊聊-Git-的三种传输协议及实现](https://toutiao.io/k/maymnjh) ![](assets/new.png)  
-- [2021-03-13-网易云音乐数仓维度建模实践：模型设计篇](https://toutiao.io/k/tkv0drb) ![](assets/new.png)  
-- [2021-03-13-出大事了！IBM-的数仓项目黄了，赔了好几亿](https://toutiao.io/k/yzatci2) ![](assets/new.png)  
-- [2021-03-13-快来领取你的-GitHub-3D-手办](https://toutiao.io/k/2lrwffc) ![](assets/new.png)  
-- [2021-03-13-译-打造符合用户期望的应用质量](https://toutiao.io/k/4imqrw9) ![](assets/new.png)  
-- [2021-03-13-推荐-Web-安全头号大敌-XSS-漏洞解决最佳实践](https://toutiao.io/k/jfopywh) ![](assets/new.png)  
-- [2021-03-13-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) ![](assets/new.png)  
-- [2021-03-13-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) ![](assets/new.png)  
-- [2021-03-13-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
-- [2021-03-13-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) ![](assets/new.png)  
-- [2021-03-13-推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1) ![](assets/new.png)  
-- [2021-03-13-推荐-MySQL-索引从基础到原理，看这一篇就够了](https://toutiao.io/k/hueiax0) ![](assets/new.png)  
-- [2021-03-13-推荐-做一个很出色的程序员](https://toutiao.io/k/g6xlwp2) ![](assets/new.png)  
-- [2021-03-13-推荐-内存管理设计精要](https://toutiao.io/k/4f2u3c5) ![](assets/new.png)  
-- [2021-03-13-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

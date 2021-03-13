@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-13 19:34:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-13 19:47:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3293,7 +3293,6 @@
 - [2021-03-13-阿里巴巴阿里云上海北京杭州成都内推混合云存储团队职位C++-Java-Golang](https://www.v2ex.com/t/761376) 
 - [2021-03-13-怎么用-mac-自带的「自动操作」实现用指定应用打开文件夹](https://www.v2ex.com/t/761375) 
 - [2021-03-13-Telegram-二次验证被其他人设置密码](https://www.v2ex.com/t/761374) 
-- [2021-03-13-prostack，一个程序员互助群体。](https://www.v2ex.com/t/761373) 
 - [2021-03-13-假如现在你有30分钟，你会做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14201&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdaily-time-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-13-使用不多但又十分重要的：风控策略-www.woshipm.com](https://blogread.cn/news/go.php?idItem=14199&url=http%3A%2F%2Fwww.woshipm.com%2Fzhichang%2F1682661.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-13-全链路风控解决方案深度解读-segmentfault.com](https://blogread.cn/news/go.php?idItem=14197&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000020535780%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -3319,12 +3318,13 @@
 - [2021-03-13-网易云音乐数仓维度建模实践：模型设计篇](https://toutiao.io/k/tkv0drb) 
 - [2021-03-13-出大事了！IBM-的数仓项目黄了，赔了好几亿](https://toutiao.io/k/yzatci2) 
 - [2021-03-13-译-打造符合用户期望的应用质量](https://toutiao.io/k/4imqrw9) 
-- [2021-03-13-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) 
-- [2021-03-13-推荐-内存管理设计精要](https://toutiao.io/k/4f2u3c5) 
-- [2021-03-13-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) 
+- [2021-03-13-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) 
+- [2021-03-13-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) 
 - [2021-03-13-推荐-做一个很出色的程序员](https://toutiao.io/k/g6xlwp2) 
-- [2021-03-13-推荐-帮助阅读源码的-8-个技巧](https://toutiao.io/k/9v93x32) 
+- [2021-03-13-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) 
 - [2021-03-13-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) 
+- [2021-03-13-推荐-国内有哪些顶级技术团队的博客值得推荐？](https://toutiao.io/k/j7v5pee) 
+- [2021-03-13-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) 
 - [2021-03-13-借鸡生蛋!“驱动人生”挖矿木马使用Outlaw僵尸网络模块进行广泛传播](https://sec.thief.one/article_content?a_id=832cf65e9baa901b8a8a64f79786b4da) 
 - [2021-03-13-国投董事长、党组书记白涛一行调研奇安信](https://sec.thief.one/article_content?a_id=6d001929cef509a67a262e04c5418797) 
 - [2021-03-13-知名男艺人1条微博转发过亿?开发者被判获刑五年](https://sec.thief.one/article_content?a_id=f86a96178ee40addcbfcc92cd2c7b5e7) 

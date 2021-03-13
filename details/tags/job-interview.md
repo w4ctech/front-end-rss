@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-13 04:10:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-13 04:39:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -32,7 +32,6 @@
 - [2021-03-10-有感：仅在面试时攻克-MySQL-还不够-｜-极客时间](https://www.ershicimi.com/p/d415221b3c2a9a4f8b0b07616a9f6fc5) 
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
 - [2021-03-13-社招-大数据外企-招聘-前端/后端/大数据研发/经理](https://www.v2ex.com/t/761247) 
-- [2021-03-13-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) 
 - [2021-03-13-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) 
 - [2021-03-12-中央网信办2021年度考试录用公务员面试递补公告](https://sec.thief.one/article_content?a_id=d8893076c639041511e9671650d87df0) 
 - [2021-03-11-招聘-|-北京中测安华科技有限公司](https://sec.thief.one/article_content?a_id=e0fd84cc856423de53cf69fa7446629f) 

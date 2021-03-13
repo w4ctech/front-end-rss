@@ -19865,6 +19865,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "希望能够帮助你,ps:自考",
+        "link": "https://www.v2ex.com/t/761424",
+        "date": "2021-03-13"
+      },
+      {
         "title": "有没有办法把 Edge 的内置微软翻译换掉？",
         "link": "https://www.v2ex.com/t/761423",
         "date": "2021-03-13"
@@ -20063,11 +20068,6 @@
         "title": "怎么用 mac 自带的「自动操作」实现用指定应用打开文件夹",
         "link": "https://www.v2ex.com/t/761375",
         "date": "2021-03-13"
-      },
-      {
-        "title": "Telegram 二次验证被其他人设置密码",
-        "link": "https://www.v2ex.com/t/761374",
-        "date": "2021-03-13"
       }
     ]
   },
@@ -20234,8 +20234,8 @@
         "date": "2021-03-13"
       },
       {
-        "title": "[推荐] [译] 构建微服务的十大 Go 框架/库",
-        "link": "https://toutiao.io/k/44rsmt3",
+        "title": "[推荐] 面试 Redis 没底？这 40 道面试题让你不再慌（附答案）",
+        "link": "https://toutiao.io/k/0b1v2v6",
         "date": "2021-03-13"
       },
       {
@@ -20244,18 +20244,18 @@
         "date": "2021-03-13"
       },
       {
-        "title": "[推荐] MySQL 索引从基础到原理，看这一篇就够了",
-        "link": "https://toutiao.io/k/hueiax0",
+        "title": "[推荐] 副业刚需：在 GitHub 上也能年入百万？",
+        "link": "https://toutiao.io/k/r9tqaw3",
         "date": "2021-03-13"
       },
       {
-        "title": "[推荐] 高并发系统的限流策略：漏桶和令牌桶（附源码剖析）",
-        "link": "https://toutiao.io/k/x6ro69m",
+        "title": "[推荐] 2021 阿里淘系工程师推荐书单",
+        "link": "https://toutiao.io/k/txzl2gg",
         "date": "2021-03-13"
       },
       {
-        "title": "[推荐] 流量复制方案对比：TCPCopy vs Goreplay",
-        "link": "https://toutiao.io/k/cpf8p4q",
+        "title": "[推荐] 中高级前端须注意的 40 条移动端 H5 坑位指南（网易三年实践）",
+        "link": "https://toutiao.io/k/ix2e9ja",
         "date": "2021-03-13"
       },
       {
@@ -20264,23 +20264,18 @@
         "date": "2021-03-13"
       },
       {
-        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
-        "link": "https://toutiao.io/k/tgp1ua8",
-        "date": "2021-03-13"
-      },
-      {
-        "title": "[推荐] 万字长文聊缓存（下）：应用级缓存",
-        "link": "https://toutiao.io/k/c1uc4c2",
-        "date": "2021-03-13"
-      },
-      {
         "title": "[推荐] 做一个很出色的程序员",
         "link": "https://toutiao.io/k/g6xlwp2",
         "date": "2021-03-13"
       },
       {
-        "title": "[推荐] 内存管理设计精要",
-        "link": "https://toutiao.io/k/4f2u3c5",
+        "title": "[推荐] Tomcat 性能调优应该注意什么？",
+        "link": "https://toutiao.io/k/kldrkzc",
+        "date": "2021-03-13"
+      },
+      {
+        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
+        "link": "https://toutiao.io/k/yduqoev",
         "date": "2021-03-13"
       },
       {
@@ -20289,8 +20284,18 @@
         "date": "2021-03-13"
       },
       {
-        "title": "[推荐] Spring Boot 异步调用",
-        "link": "https://toutiao.io/k/xxk05uj",
+        "title": "[推荐] MySQL 索引从基础到原理，看这一篇就够了",
+        "link": "https://toutiao.io/k/hueiax0",
+        "date": "2021-03-13"
+      },
+      {
+        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
+        "link": "https://toutiao.io/k/tgp1ua8",
+        "date": "2021-03-13"
+      },
+      {
+        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
+        "link": "https://toutiao.io/k/xuv7rlf",
         "date": "2021-03-13"
       },
       {
@@ -20299,13 +20304,8 @@
         "date": "2021-03-13"
       },
       {
-        "title": "[推荐] 这几款 JVM 故障诊断处理工具你还不会？",
-        "link": "https://toutiao.io/k/dux0ogl",
-        "date": "2021-03-13"
-      },
-      {
-        "title": "[推荐] 2021 阿里淘系工程师推荐书单",
-        "link": "https://toutiao.io/k/txzl2gg",
+        "title": "[推荐] 从技术专家到技术管理，我对管理的思考",
+        "link": "https://toutiao.io/k/r5kgujp",
         "date": "2021-03-13"
       }
     ]

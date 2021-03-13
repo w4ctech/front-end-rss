@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-13 10:43:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-13 10:55:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -20,6 +20,8 @@
 - [2019-12-03-从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f) 
 - [2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
 - [2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
+- [2021-03-13-带地图查看功能的-NAS-照片管理软件，插件也行](https://www.v2ex.com/t/761354) 
+- [2021-03-13-需要做一个细分领域的企业自我评估网站，想找技术合伙人或外包合作](https://www.v2ex.com/t/761353) 
 - [2021-03-13-遇到个-FaceTime-的奇怪问题](https://www.v2ex.com/t/761351) 
 - [2021-03-13-有什么手机-APP-可以跑起来-py-文件吗？-IOS、Android-都可以。](https://www.v2ex.com/t/761350) 
 - [2021-03-13-银行前置系统是做什么的？](https://www.v2ex.com/t/761349) 
@@ -49,7 +51,6 @@
 - [2021-03-13-年薪百万的-V-友们都怎么解决午饭的](https://www.v2ex.com/t/761308) 
 - [2021-03-13-Go-channel-用-range-取数据的时候，应该啥时候关闭呢](https://www.v2ex.com/t/761306) 
 - [2021-03-13-Parcel-打包没法忽略-HTML-节点吗？](https://www.v2ex.com/t/761305) 
-- [2021-03-13-为什么主流编程语言来来回回就那么不到十几种，有很多还是衍生出来的，有什么好用但是不火的语言么？](https://www.v2ex.com/t/761304) 
 - [2021-03-13-借鸡生蛋!“驱动人生”挖矿木马使用Outlaw僵尸网络模块进行广泛传播](https://sec.thief.one/article_content?a_id=832cf65e9baa901b8a8a64f79786b4da) 
 - [2021-03-13-国投董事长、党组书记白涛一行调研奇安信](https://sec.thief.one/article_content?a_id=6d001929cef509a67a262e04c5418797) 
 - [2021-03-13-知名男艺人1条微博转发过亿?开发者被判获刑五年](https://sec.thief.one/article_content?a_id=f86a96178ee40addcbfcc92cd2c7b5e7) 

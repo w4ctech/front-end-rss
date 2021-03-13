@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-13 10:43:24，:rocket: 更新条数: +181， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-13 10:55:11，:rocket: 更新条数: +182， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-03-13-带地图查看功能的-NAS-照片管理软件，插件也行](https://www.v2ex.com/t/761354) ![](assets/new.png)  
+- [2021-03-13-需要做一个细分领域的企业自我评估网站，想找技术合伙人或外包合作](https://www.v2ex.com/t/761353) ![](assets/new.png)  
 - [2021-03-13-遇到个-FaceTime-的奇怪问题](https://www.v2ex.com/t/761351) ![](assets/new.png)  
 - [2021-03-13-有什么手机-APP-可以跑起来-py-文件吗？-IOS、Android-都可以。](https://www.v2ex.com/t/761350) ![](assets/new.png)  
 - [2021-03-13-银行前置系统是做什么的？](https://www.v2ex.com/t/761349) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-03-13-Obsidian-中文字体设置](https://www.v2ex.com/t/761335) ![](assets/new.png)  
 - [2021-03-13-为什么我安装不上去-neovim-for-Python-?-ruby-也配置不好，我已经升级到最新了呢。](https://www.v2ex.com/t/761334) ![](assets/new.png)  
 - [2021-03-13-分享个在线-Excel-转-JSON-和-JSON-转-Excel-的工具](https://www.v2ex.com/t/761332) ![](assets/new.png)  
-- [2021-03-13-这是一条靠谱的南京招聘贴](https://www.v2ex.com/t/761331) ![](assets/new.png)  
-- [2021-03-13-听说-CloudReady-虚拟机版本没有-Play-Store？](https://www.v2ex.com/t/761330) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

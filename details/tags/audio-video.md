@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-13 04:48:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-13 04:59:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -87,7 +87,6 @@
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-03-11-有奖｜晒居家整理视频，瓜分万元现金奖励](https://www.ershicimi.com/p/e1b8f95401f47fc9ec9962cd403d7fa2) 
 - [2021-03-13-前端录制视频的方法](https://www.v2ex.com/t/761261) 
-- [2021-03-13-为什么关掉显示器电源，在关于本机里面还显示自己的显示器？这时候显卡还绘制图像吗？](https://www.v2ex.com/t/761218) 
 - [2021-03-12-黑客入侵15万个Verkada监控摄像头-特斯拉被黑上海仓库视频曝光](https://sec.thief.one/article_content?a_id=c0658da70bc5a59a254b344752b0b1bb) 
 - [2021-03-11-特斯拉监控摄像头被黑](https://sec.thief.one/article_content?a_id=0ace8ba6f7d1944b4fed4593e91b88e3) 
 - [2021-03-11-黑客入侵15万个Verkada监控摄像头-特斯拉被黑上海仓库视频曝光](https://sec.thief.one/article_content?a_id=5ad365aab97ecc29063c91acb3adf653) 

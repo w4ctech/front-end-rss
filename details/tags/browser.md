@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-14 10:09:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-14 10:34:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,6 +37,7 @@
 - [2021-03-14-浏览器插件-Command/Ctrl-+-B-快速收藏书签，-支持拼音，创建新目录或者子目录](https://www.v2ex.com/t/761540) 
 - [2021-03-14-滴滴现在撒谎都不需要-peer-review-么](https://www.v2ex.com/t/761501) 
 - [2021-03-14-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-14-在Z|京东安全、某国企高薪诚招安全各类工程师与研究员](https://sec.thief.one/article_content?a_id=11e5517d0771d9ddca17acb10e1d66bc) 
 - [2021-03-14-春日招聘|贝壳找房、富途招聘安全人才](https://sec.thief.one/article_content?a_id=cd62fd4620a68add01ff29938075312f) 
 - [2021-03-13-网络安全技术发展方向与趋势研究](https://sec.thief.one/article_content?a_id=16a57dd983952648c00c23f84ceeb5b7) 
 - [2021-03-13-春日招聘|同程艺龙招聘安全工程师](https://sec.thief.one/article_content?a_id=d896a4bb6d58b6ab33227462ade2fb6b) 
@@ -56,4 +57,3 @@
 - [2021-03-11-开发安全与软件供应链安全的关系](https://sec.thief.one/article_content?a_id=2477a8ed3b788b9ce692f30181e1b49a) 
 - [2021-03-11-Firefox-86-限制通过跨网站-Cookie-共享追踪用户](https://sec.thief.one/article_content?a_id=c7ccc440f66d27ea2f23fc0f3c9dd254) 
 - [2021-03-11-安全新系统之后的必备软件推荐](https://sec.thief.one/article_content?a_id=c6a2abe72d81c8684f31f356a86cc979) 
-- [2021-03-11-欧洲最大托管服务商OVH数据中心遭遇火灾,敲响数据物理安全警钟](https://sec.thief.one/article_content?a_id=3cb4de79b38e6a9b77a871fc2d8d7992) 

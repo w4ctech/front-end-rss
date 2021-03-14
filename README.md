@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-14 10:43:02，:rocket: 更新条数: +4132， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-14 10:54:54，:rocket: 更新条数: +4132， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,8 +96,8 @@
 </summary>
 
 
+- [2021-03-14-广东｜首次发现新冠病毒尼日利亚突变株](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSX7OB7pX45knSFig0jb5210314&isfromapp=1) ![](assets/new.png)  
 - [2021-03-14-全国｜新增确诊病例-10-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinUq8WCblfoJCtGQSVggh210314&isfromapp=1) ![](assets/new.png)  
-- [2021-03-14-四川｜新增治愈出院病例-3-例](http://wsjkw.sc.gov.cn/scwsjkw/gggs/2021/3/14/fc9ed976b13449d5b9dd97e66beb0d13.shtml) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,11 @@
 </summary>
 
 
+- [2021-03-14-滴滴出行-北京、杭州、深圳、成都内推-前端/-Java-/Go/C++/Android/iOS/-Python-/算法/-PHP-/数据/产品/运营等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/761554) ![](assets/new.png)  
+- [2021-03-14-电脑使用-HDMI-连接电视，偶发会出现-HDMI-没有音频是线路有问题吗？](https://www.v2ex.com/t/761553) ![](assets/new.png)  
+- [2021-03-14-请问是否有方案,可以实现禁止移动段网页自动拉起本地应用](https://www.v2ex.com/t/761552) ![](assets/new.png)  
+- [2021-03-14-GitHub-Codespaces-有些慢且收费，于是自己做了一个（浏览器内的-VSCode，带云端开发环境）](https://www.v2ex.com/t/761551) ![](assets/new.png)  
+- [2021-03-14-人在非常安静的情况下,将注意力转移到耳朵,会听到什么声音?](https://www.v2ex.com/t/761549) ![](assets/new.png)  
 - [2021-03-14-2020-年收入调查](https://www.v2ex.com/t/761547) ![](assets/new.png)  
 - [2021-03-14-阿里钉钉-商业化中台团队诚招实习生,认真对待每一位投递者~](https://www.v2ex.com/t/761546) ![](assets/new.png)  
 - [2021-03-14-整理了份所有版本的-Font-Awesome-图标及-Unicode-对照表](https://www.v2ex.com/t/761545) ![](assets/new.png)  
@@ -1011,11 +1016,6 @@
 - [2021-03-14-如何节约-40%的-CDN-成本](https://www.v2ex.com/t/761533) ![](assets/new.png)  
 - [2021-03-14-WIN10-家庭版，任务栏的图标宽度怎么调啊](https://www.v2ex.com/t/761532) ![](assets/new.png)  
 - [2021-03-14-大家帮估一下这台-19-的-MacBook-Pro-出二手值多少？](https://www.v2ex.com/t/761531) ![](assets/new.png)  
-- [2021-03-14-校招入职求助](https://www.v2ex.com/t/761530) ![](assets/new.png)  
-- [2021-03-14-Acrobat-后台运行一段时间后，打开-pdf-文件慢](https://www.v2ex.com/t/761528) ![](assets/new.png)  
-- [2021-03-14-从-Linux-换到黑苹果的一些感想](https://www.v2ex.com/t/761527) ![](assets/new.png)  
-- [2021-03-14-NFTs-和-「Comedian（胶带香蕉）」、杜尚的「泉」、天价的收集卡片和球鞋有什么区别？](https://www.v2ex.com/t/761526) ![](assets/new.png)  
-- [2021-03-14-Windows-10-自带输入法避免在英文键盘/中文键盘中/英正确姿势是什么？](https://www.v2ex.com/t/761525) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1068,16 @@
 - [2021-03-14-C++-folly-库解读（二）：small_vector-之小数据集下的-std::vector-替代方案](https://toutiao.io/k/r8yatl9) ![](assets/new.png)  
 - [2021-03-14-怎么推导《最大子序和》的动态规划解法](https://toutiao.io/k/0l1fx3m) ![](assets/new.png)  
 - [2021-03-14-ChirpStack-自定义-JS-codec-函数](https://toutiao.io/k/55xwxun) ![](assets/new.png)  
-- [2021-03-14-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) ![](assets/new.png)  
-- [2021-03-14-推荐-译-构建微服务的十大-Go-框架/库](https://toutiao.io/k/44rsmt3) ![](assets/new.png)  
-- [2021-03-14-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
-- [2021-03-14-推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) ![](assets/new.png)  
-- [2021-03-14-推荐-做一个很出色的程序员](https://toutiao.io/k/g6xlwp2) ![](assets/new.png)  
-- [2021-03-14-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) ![](assets/new.png)  
-- [2021-03-14-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
-- [2021-03-14-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) ![](assets/new.png)  
+- [2021-03-14-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
+- [2021-03-14-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) ![](assets/new.png)  
+- [2021-03-14-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
+- [2021-03-14-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
+- [2021-03-14-推荐-内存管理设计精要](https://toutiao.io/k/4f2u3c5) ![](assets/new.png)  
+- [2021-03-14-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) ![](assets/new.png)  
+- [2021-03-14-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) ![](assets/new.png)  
 - [2021-03-14-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
-- [2021-03-14-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) ![](assets/new.png)  
+- [2021-03-14-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) ![](assets/new.png)  
+- [2021-03-14-推荐-做一个很出色的程序员](https://toutiao.io/k/g6xlwp2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

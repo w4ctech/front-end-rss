@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-14 12:05:45，:rocket: 更新条数: +728， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-14 12:10:33，:rocket: 更新条数: +4128， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-03-14-最新疫情：全国新冠累计确诊90044例-无新增本土病例](https://m.caixin.com/m/2021-03-14/101675083.html) ![](assets/new.png)  
+- [2021-03-14-张文宏：怎么看待疫苗接种偶发不良反应事件](http://m.opinion.caixin.com/m/2021-03-14/101675088.html) ![](assets/new.png)  
+- [2021-03-14-最新海外疫情：新冠感染超1.19亿-累计死亡超264万](http://m.international.caixin.com/m/2021-03-14/101675080.html) ![](assets/new.png)  
+- [2021-03-14-美国累计接种1亿剂疫苗-欧洲多国疫情再抬头丨大流行手记（3月13日）](https://m.caixin.com/m/2021-03-14/101675023.html) ![](assets/new.png)  
+- [2021-03-13-3月12日全国新增新冠7例-均由境外输入](https://m.caixin.com/m/2021-03-13/101674842.html) ![](assets/new.png)  
+- [2021-03-13-【境内疫情观察】辽宁沈阳1例康复患者复阳（3月12日）](http://m.database.caixin.com/m/2021-03-13/101674969.html) ![](assets/new.png)  
+- [2021-03-13-巴黎ICU床位告急-诺瓦瓦克斯疫苗有效性达96.4%丨大流行手记（3月12日）](https://m.caixin.com/m/2021-03-13/101674818.html) ![](assets/new.png)  
+- [2021-03-12-香港疫情蔓延金融业-单日新增60新冠病例](http://m.china.caixin.com/m/2021-03-12/101674704.html) ![](assets/new.png)  
+- [2021-03-12-北京取消进返京核酸证明-机票火车票预订量翻番](http://m.companies.caixin.com/m/2021-03-12/101674657.html) ![](assets/new.png)  
+- [2021-03-12-【境内疫情观察】全国新增9例境外输入病例（3月11日）](http://m.database.caixin.com/m/2021-03-12/101674494.html) ![](assets/new.png)  
+- [2021-03-12-丹麦暂停接种阿斯利康疫苗-研究指英变异病毒致死风险更高｜大流行手记（3月11日）](https://m.caixin.com/m/2021-03-12/101674276.html) ![](assets/new.png)  
+- [2021-03-12-研究指百年老药苏拉明抗新冠效力远超瑞德西韦-尚待临床验证](https://m.caixin.com/m/2021-03-12/101674205.html) ![](assets/new.png)  
+- [2021-03-11-【境内疫情观察】全国新增11例境外输入病例（3月10日）](http://m.database.caixin.com/m/2021-03-11/101673880.html) ![](assets/new.png)  
+- [2021-03-11-韩国多例接种首剂疫苗者感染新冠-贫困国家疫苗严重短缺｜大流行手记（3月10日）](https://m.caixin.com/m/2021-03-11/101673729.html) ![](assets/new.png)  
+- [2021-03-10-【境内疫情观察】全国本土无症状感染者清零（3月9日）](http://m.database.caixin.com/m/2021-03-10/101673443.html) ![](assets/new.png)  
+- [2021-03-10-泰国推出“数字游艇隔离”-欧盟二季度将接收3亿剂疫苗｜大流行手记（3月9日）](https://m.caixin.com/m/2021-03-10/101673243.html) ![](assets/new.png)  
+- [2021-03-10-新冠变异毒株逃逸治疗-何大一团队推出抗体“鸡尾酒疗法”](https://m.caixin.com/m/2021-03-10/101673627.html) ![](assets/new.png)  
+- [2021-03-10-欧盟因疫苗分配不力挨批-生产重镇为何供货仍告急](http://m.international.caixin.com/m/2021-03-10/101673313.html) ![](assets/new.png)  
+- [2021-03-09-【境内疫情观察】全国累计确诊病例超9万例（3月8日）](http://m.database.caixin.com/m/2021-03-09/101672900.html) ![](assets/new.png)  
+- [2021-03-09-巴西疫情大幅反弹-中国版“国际旅行健康证明”出炉｜大流行手记（3月8日）](https://m.caixin.com/m/2021-03-09/101672674.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1048,16 +1068,16 @@
 - [2021-03-14-C++-folly-库解读（二）：small_vector-之小数据集下的-std::vector-替代方案](https://toutiao.io/k/r8yatl9) ![](assets/new.png)  
 - [2021-03-14-怎么推导《最大子序和》的动态规划解法](https://toutiao.io/k/0l1fx3m) ![](assets/new.png)  
 - [2021-03-14-ChirpStack-自定义-JS-codec-函数](https://toutiao.io/k/55xwxun) ![](assets/new.png)  
-- [2021-03-14-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
-- [2021-03-14-推荐-做一个很出色的程序员](https://toutiao.io/k/g6xlwp2) ![](assets/new.png)  
-- [2021-03-14-推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1) ![](assets/new.png)  
-- [2021-03-14-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) ![](assets/new.png)  
-- [2021-03-14-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
-- [2021-03-14-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
-- [2021-03-14-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) ![](assets/new.png)  
-- [2021-03-14-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) ![](assets/new.png)  
+- [2021-03-14-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
+- [2021-03-14-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
+- [2021-03-14-推荐-内存管理设计精要](https://toutiao.io/k/4f2u3c5) ![](assets/new.png)  
 - [2021-03-14-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) ![](assets/new.png)  
-- [2021-03-14-推荐-国内有哪些顶级技术团队的博客值得推荐？](https://toutiao.io/k/j7v5pee) ![](assets/new.png)  
+- [2021-03-14-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) ![](assets/new.png)  
+- [2021-03-14-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
+- [2021-03-14-推荐-副业刚需：在-GitHub-上也能年入百万？](https://toutiao.io/k/r9tqaw3) ![](assets/new.png)  
+- [2021-03-14-推荐-做一个很出色的程序员](https://toutiao.io/k/g6xlwp2) ![](assets/new.png)  
+- [2021-03-14-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
+- [2021-03-14-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

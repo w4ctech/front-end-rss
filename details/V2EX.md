@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-14 12:43:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-14 12:53:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,5 +40,3 @@
 - [2021-03-14-深圳地铁+ApplePay-多次重试..](https://www.v2ex.com/t/761537) 
 - [2021-03-14-戴尔-U2720Q-屏磕裂了，才用了三个月，-尸体还能卖多少钱。](https://www.v2ex.com/t/761536) 
 - [2021-03-14-RetroArch-的-macOS-Nightly-版本开始提供对-M1-的支持](https://www.v2ex.com/t/761535) 
-- [2021-03-14-哪里有价格适中的-Level2-行情数据提供？](https://www.v2ex.com/t/761534) 
-- [2021-03-14-如何节约-40%的-CDN-成本](https://www.v2ex.com/t/761533) 

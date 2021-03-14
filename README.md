@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-14 00:08:23，:rocket: 更新条数: +4128， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-14 00:18:10，:rocket: 更新条数: +4128， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1061,23 +1061,23 @@
 - [2021-03-14-Java-基础：日期与时间-API-用法详解](https://toutiao.io/k/soqwk0v) ![](assets/new.png)  
 - [2021-03-14-Linux-文件-I/O-进化史（三）：Direct-I/O-和-Linux-AIO](https://toutiao.io/k/peychra) ![](assets/new.png)  
 - [2021-03-14-Go-工程化（九）：项目重构实践](https://toutiao.io/k/et0t2lk) ![](assets/new.png)  
-- [2021-03-14-CompletableFuture-让你的代码免受阻塞之苦](https://toutiao.io/k/6sgy0vy) ![](assets/new.png)  
 - [2021-03-14-聊一聊设计模式究竟是什么](https://toutiao.io/k/yqyaefq) ![](assets/new.png)  
+- [2021-03-14-CompletableFuture-让你的代码免受阻塞之苦](https://toutiao.io/k/6sgy0vy) ![](assets/new.png)  
 - [2021-03-14-C++-folly-库解读（二）：small_vector-之小数据集下的-std::vector-替代方案](https://toutiao.io/k/r8yatl9) ![](assets/new.png)  
 - [2021-03-14-任务队列-与-Celery-概述](https://toutiao.io/k/2zp36fa) ![](assets/new.png)  
 - [2021-03-14-ChirpStack-自定义-JS-codec-函数](https://toutiao.io/k/55xwxun) ![](assets/new.png)  
-- [2021-03-14-小布助手算法系统的探索、实践与思考](https://toutiao.io/k/cdxmfnt) ![](assets/new.png)  
 - [2021-03-14-怎么推导《最大子序和》的动态规划解法](https://toutiao.io/k/0l1fx3m) ![](assets/new.png)  
-- [2021-03-14-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) ![](assets/new.png)  
+- [2021-03-14-小布助手算法系统的探索、实践与思考](https://toutiao.io/k/cdxmfnt) ![](assets/new.png)  
 - [2021-03-14-推荐-帮助阅读源码的-8-个技巧](https://toutiao.io/k/9v93x32) ![](assets/new.png)  
-- [2021-03-14-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) ![](assets/new.png)  
-- [2021-03-14-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) ![](assets/new.png)  
+- [2021-03-14-推荐-内存管理设计精要](https://toutiao.io/k/4f2u3c5) ![](assets/new.png)  
+- [2021-03-14-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
+- [2021-03-14-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) ![](assets/new.png)  
+- [2021-03-14-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
+- [2021-03-14-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
 - [2021-03-14-推荐-做一个很出色的程序员](https://toutiao.io/k/g6xlwp2) ![](assets/new.png)  
 - [2021-03-14-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) ![](assets/new.png)  
-- [2021-03-14-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
-- [2021-03-14-推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) ![](assets/new.png)  
-- [2021-03-14-推荐-MySQL-索引从基础到原理，看这一篇就够了](https://toutiao.io/k/hueiax0) ![](assets/new.png)  
-- [2021-03-14-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
+- [2021-03-14-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) ![](assets/new.png)  
+- [2021-03-14-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,6 +1089,12 @@
 </summary>
 
 
+- [2021-03-14-文本对抗综述二](https://sec.thief.one/article_content?a_id=b28d8ba21d231a2a32080d53e6014be4) ![](assets/new.png)  
+- [2021-03-14-网安杂谈收藏夹3.14](https://sec.thief.one/article_content?a_id=ba69460c724fd4d0828874f298a0fdc4) ![](assets/new.png)  
+- [2021-03-14-微信突然更新,等了6年的功能,终于来了!](https://sec.thief.one/article_content?a_id=27d95174a0a508dfaa1978e5f50027f0) ![](assets/new.png)  
+- [2021-03-13-苹果Find-My特征bug暴露用户位置信息](https://sec.thief.one/article_content?a_id=c7898fe6a13bd5192406e7df67cdbd51) ![](assets/new.png)  
+- [2021-03-13-MySQL索引原理,一篇从头到尾讲清楚](https://sec.thief.one/article_content?a_id=e8c743e9eced7a3b22d4db6744376108) ![](assets/new.png)  
+- [2021-03-13-BUF大事件丨黑客入侵-15-万个监控摄像头;低级Bug导致网站被两度...](https://sec.thief.one/article_content?a_id=0877893217f0788b7d40ac0ce7ada3c9) ![](assets/new.png)  
 - [2021-03-13-实现游戏角色的穿墙](https://sec.thief.one/article_content?a_id=8af543828b98800142aa283581b34729) ![](assets/new.png)  
 - [2021-03-13-借鸡生蛋!“驱动人生”挖矿木马使用Outlaw僵尸网络模块进行广泛传播](https://sec.thief.one/article_content?a_id=832cf65e9baa901b8a8a64f79786b4da) ![](assets/new.png)  
 - [2021-03-13-牛聘|2021年度岗位招聘第3期](https://sec.thief.one/article_content?a_id=a1a88de6de75256f082adf536656616b) ![](assets/new.png)  
@@ -1103,12 +1109,6 @@
 - [2021-03-13-又一个可视化神器-Highcharts,Python版!](https://sec.thief.one/article_content?a_id=302f3da537c45e6adb6b1b7a58202b7b) ![](assets/new.png)  
 - [2021-03-13-实战-|-某大学注入+逻辑漏洞挖掘](https://sec.thief.one/article_content?a_id=3a1e7832c2d0c5629e32e50601526e8c) ![](assets/new.png)  
 - [2021-03-13-春日招聘|同程艺龙招聘安全工程师](https://sec.thief.one/article_content?a_id=d896a4bb6d58b6ab33227462ade2fb6b) ![](assets/new.png)  
-- [2021-03-13-【视频】|-网络安全:信息安全管理制度](https://sec.thief.one/article_content?a_id=c7ee4fca2cfeb09d674e5c19ae6c655b) ![](assets/new.png)  
-- [2021-03-13-程序员才能理解的22张动图,你懂几个?](https://sec.thief.one/article_content?a_id=54f507934ee8d13c95eca53412381b2b) ![](assets/new.png)  
-- [2021-03-13-网安杂谈收藏夹3.13](https://sec.thief.one/article_content?a_id=3b1b644e9c6a9eb6a902521762bdc5fd) ![](assets/new.png)  
-- [2021-03-12-勒索软件团伙正在利用Exchange漏洞疯狂攻击](https://sec.thief.one/article_content?a_id=ab4739d678d5e677b75a8cf937d6291f) ![](assets/new.png)  
-- [2021-03-12-中央网信办2021年度考试录用公务员面试递补公告](https://sec.thief.one/article_content?a_id=d8893076c639041511e9671650d87df0) ![](assets/new.png)  
-- [2021-03-12-【安全圈】微软封堵-IE-漏洞:曾被黑客疯狂利用](https://sec.thief.one/article_content?a_id=2ee89a66904b530b2781143dc3857a9e) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

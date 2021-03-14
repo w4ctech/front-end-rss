@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-14 00:08:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-14 00:18:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -57,5 +57,3 @@
 - [2021-03-11-安全新系统之后的必备软件推荐](https://sec.thief.one/article_content?a_id=c6a2abe72d81c8684f31f356a86cc979) 
 - [2021-03-11-欧洲最大托管服务商OVH数据中心遭遇火灾,敲响数据物理安全警钟](https://sec.thief.one/article_content?a_id=3cb4de79b38e6a9b77a871fc2d8d7992) 
 - [2021-03-11-《全球网络安全政策法律动态与研判2020》全文](https://sec.thief.one/article_content?a_id=09757cfc662a13d87ec04705014bf880) 
-- [2021-03-10-【安全圈】90后搭建平台做“码商”-法院终审驳回上诉,维持原判!](https://sec.thief.one/article_content?a_id=8c680c6b7b11e3f40bc3483f3f3308d1) 
-- [2021-03-10-北京打造国际一流金融科技示范区-奇安信提供网络安全保障](https://sec.thief.one/article_content?a_id=94312ad1706a04fc87d375d80045bad4) 

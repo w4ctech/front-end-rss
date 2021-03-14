@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-14 05:51:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-14 06:05:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,9 +8,9 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-14-Mac-版-edge-更新总是出现问题](https://www.v2ex.com/t/761483) 
 - [2021-03-14-chrome-打开网页慢，无痕模式、其他浏览器没这个问题](https://www.v2ex.com/t/761468) 
-- [2021-03-14-有没有什么第三方工具能让-chrome-实现类似-alt+tab-显示所有窗口的功能？](https://www.v2ex.com/t/761448) 
 - [2021-03-14-春日招聘|贝壳找房、富途招聘安全人才](https://sec.thief.one/article_content?a_id=cd62fd4620a68add01ff29938075312f) 
 - [2021-03-13-网络安全技术发展方向与趋势研究](https://sec.thief.one/article_content?a_id=16a57dd983952648c00c23f84ceeb5b7) 
 - [2021-03-13-春日招聘|同程艺龙招聘安全工程师](https://sec.thief.one/article_content?a_id=d896a4bb6d58b6ab33227462ade2fb6b) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-14 18:58:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-14 19:07:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-03-12-损失惨重！数据中心失火，360万个网站下线，Rust游戏25台服务器数据永久丢失](https://www.ershicimi.com/p/d994499dbae1c07234f1dddde77e3a03) 
 - [2021-03-14-内推-校招-22-届-网易春季实习生招聘开始啦~海量岗位全面开放（互联网、游戏）](https://www.v2ex.com/t/761588) 
 - [2021-03-13-实现游戏角色的穿墙](https://sec.thief.one/article_content?a_id=8af543828b98800142aa283581b34729) 
 - [2021-03-11-【安全圈】欧洲最大数据中心OVH发生火灾,Rust游戏损失惨重](https://sec.thief.one/article_content?a_id=946613371b02debd2f779c10b660eea3) 

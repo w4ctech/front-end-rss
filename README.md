@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-13 23:55:48，:rocket: 更新条数: +4128， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-14 00:08:23，:rocket: 更新条数: +4128， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1027,26 +1027,26 @@
 </summary>
 
 
-- [2021-03-13-假如现在你有30分钟，你会做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14201&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdaily-time-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-【白话科普】CDN-&-游戏加速器，两者是一个原理吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14200&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F355985175%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-使用不多但又十分重要的：风控策略-www.woshipm.com](https://blogread.cn/news/go.php?idItem=14199&url=http%3A%2F%2Fwww.woshipm.com%2Fzhichang%2F1682661.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-全链路风控解决方案深度解读-segmentfault.com](https://blogread.cn/news/go.php?idItem=14197&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000020535780%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-京东集团的风控实践-www.infoq.cn](https://blogread.cn/news/go.php?idItem=14196&url=https%3A%2F%2Fwww.infoq.cn%2Farticle%2Fgr8q8d8cazjx3z8giar2%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-复杂风控场景下，如何打造一款高效的规则引擎-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14195&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F05%2F14%2Fmeituan-security-zeus.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-谷歌最支持的-Android-开发架构指南-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14194&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEQBSZ-aCpxI_S1oFt54D3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-在应用开发中，我为什么选择-Flutter-而不是-React-Native-？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14193&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO5Je72UbAlygTsNZSuzUkQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-Android-开发中那些无中生有的事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14192&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCWSv615Qkh3TDAXSumP7cQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-是的，入职中软一个月（外包华为）就离职了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14191&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHes3zxg6CFc6xpnRMsbC8A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-快速实现微信图片裁剪功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14190&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7miVWEBhvr17Okx4T14saQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-这一个插件，玩爆知乎和思否-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14189&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1n_xjKgPW3tJ-rvnKUAD-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-超全！常用的-70-个数据分析网址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14188&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEQvnz7GiRzOLJ10Ua3cimg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-华为提出十大数学挑战！解出一个就是年薪百万！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14187&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyYYM-Hqb6aNJze9BG26Vkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-互联网工作-常用名词及基础知识扫盲-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14186&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjTw8WwLW4SQu0PmH8lVv2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-表情包-AI-生成器：识别人脸情绪，自动配文字-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14185&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJhVS1GxUnzXyU6_obBNz5A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-真实案例详述：丢手机太危险了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14184&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ftt-3z7AlCNV-9P9XiNTktw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-成为一流软件开发者的-34-条建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14183&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQqNLaehHTtC6lm8IQ2SWGQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-13-优秀，起诉网站，可尼玛太秀了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14182&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBWSQVs3apxAJYrKT2QWqnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-假如现在你有30分钟，你会做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14201&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdaily-time-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-【白话科普】CDN-&-游戏加速器，两者是一个原理吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14200&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F355985175%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-使用不多但又十分重要的：风控策略-www.woshipm.com](https://blogread.cn/news/go.php?idItem=14199&url=http%3A%2F%2Fwww.woshipm.com%2Fzhichang%2F1682661.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-全链路风控解决方案深度解读-segmentfault.com](https://blogread.cn/news/go.php?idItem=14197&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000020535780%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-京东集团的风控实践-www.infoq.cn](https://blogread.cn/news/go.php?idItem=14196&url=https%3A%2F%2Fwww.infoq.cn%2Farticle%2Fgr8q8d8cazjx3z8giar2%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-复杂风控场景下，如何打造一款高效的规则引擎-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14195&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F05%2F14%2Fmeituan-security-zeus.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-谷歌最支持的-Android-开发架构指南-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14194&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEQBSZ-aCpxI_S1oFt54D3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-在应用开发中，我为什么选择-Flutter-而不是-React-Native-？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14193&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO5Je72UbAlygTsNZSuzUkQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-Android-开发中那些无中生有的事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14192&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCWSv615Qkh3TDAXSumP7cQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-是的，入职中软一个月（外包华为）就离职了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14191&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHes3zxg6CFc6xpnRMsbC8A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-快速实现微信图片裁剪功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14190&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7miVWEBhvr17Okx4T14saQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-这一个插件，玩爆知乎和思否-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14189&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1n_xjKgPW3tJ-rvnKUAD-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-超全！常用的-70-个数据分析网址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14188&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEQvnz7GiRzOLJ10Ua3cimg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-华为提出十大数学挑战！解出一个就是年薪百万！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14187&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyYYM-Hqb6aNJze9BG26Vkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-互联网工作-常用名词及基础知识扫盲-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14186&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjTw8WwLW4SQu0PmH8lVv2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-表情包-AI-生成器：识别人脸情绪，自动配文字-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14185&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJhVS1GxUnzXyU6_obBNz5A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-真实案例详述：丢手机太危险了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14184&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ftt-3z7AlCNV-9P9XiNTktw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-成为一流软件开发者的-34-条建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14183&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQqNLaehHTtC6lm8IQ2SWGQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-14-优秀，起诉网站，可尼玛太秀了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14182&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBWSQVs3apxAJYrKT2QWqnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1058,26 +1058,26 @@
 </summary>
 
 
-- [2021-03-13-Linux-文件-I/O-进化史（三）：Direct-I/O-和-Linux-AIO](https://toutiao.io/k/peychra) ![](assets/new.png)  
-- [2021-03-13-Java-基础：日期与时间-API-用法详解](https://toutiao.io/k/soqwk0v) ![](assets/new.png)  
-- [2021-03-13-聊一聊设计模式究竟是什么](https://toutiao.io/k/yqyaefq) ![](assets/new.png)  
-- [2021-03-13-CompletableFuture-让你的代码免受阻塞之苦](https://toutiao.io/k/6sgy0vy) ![](assets/new.png)  
-- [2021-03-13-Go-工程化（九）：项目重构实践](https://toutiao.io/k/et0t2lk) ![](assets/new.png)  
-- [2021-03-13-C++-folly-库解读（二）：small_vector-之小数据集下的-std::vector-替代方案](https://toutiao.io/k/r8yatl9) ![](assets/new.png)  
-- [2021-03-13-任务队列-与-Celery-概述](https://toutiao.io/k/2zp36fa) ![](assets/new.png)  
-- [2021-03-13-ChirpStack-自定义-JS-codec-函数](https://toutiao.io/k/55xwxun) ![](assets/new.png)  
-- [2021-03-13-小布助手算法系统的探索、实践与思考](https://toutiao.io/k/cdxmfnt) ![](assets/new.png)  
-- [2021-03-13-怎么推导《最大子序和》的动态规划解法](https://toutiao.io/k/0l1fx3m) ![](assets/new.png)  
-- [2021-03-13-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) ![](assets/new.png)  
-- [2021-03-13-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) ![](assets/new.png)  
-- [2021-03-13-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) ![](assets/new.png)  
-- [2021-03-13-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) ![](assets/new.png)  
-- [2021-03-13-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) ![](assets/new.png)  
-- [2021-03-13-推荐-译-构建微服务的十大-Go-框架/库](https://toutiao.io/k/44rsmt3) ![](assets/new.png)  
-- [2021-03-13-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) ![](assets/new.png)  
-- [2021-03-13-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) ![](assets/new.png)  
-- [2021-03-13-推荐-帮助阅读源码的-8-个技巧](https://toutiao.io/k/9v93x32) ![](assets/new.png)  
-- [2021-03-13-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) ![](assets/new.png)  
+- [2021-03-14-Java-基础：日期与时间-API-用法详解](https://toutiao.io/k/soqwk0v) ![](assets/new.png)  
+- [2021-03-14-Linux-文件-I/O-进化史（三）：Direct-I/O-和-Linux-AIO](https://toutiao.io/k/peychra) ![](assets/new.png)  
+- [2021-03-14-Go-工程化（九）：项目重构实践](https://toutiao.io/k/et0t2lk) ![](assets/new.png)  
+- [2021-03-14-CompletableFuture-让你的代码免受阻塞之苦](https://toutiao.io/k/6sgy0vy) ![](assets/new.png)  
+- [2021-03-14-聊一聊设计模式究竟是什么](https://toutiao.io/k/yqyaefq) ![](assets/new.png)  
+- [2021-03-14-C++-folly-库解读（二）：small_vector-之小数据集下的-std::vector-替代方案](https://toutiao.io/k/r8yatl9) ![](assets/new.png)  
+- [2021-03-14-任务队列-与-Celery-概述](https://toutiao.io/k/2zp36fa) ![](assets/new.png)  
+- [2021-03-14-ChirpStack-自定义-JS-codec-函数](https://toutiao.io/k/55xwxun) ![](assets/new.png)  
+- [2021-03-14-小布助手算法系统的探索、实践与思考](https://toutiao.io/k/cdxmfnt) ![](assets/new.png)  
+- [2021-03-14-怎么推导《最大子序和》的动态规划解法](https://toutiao.io/k/0l1fx3m) ![](assets/new.png)  
+- [2021-03-14-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) ![](assets/new.png)  
+- [2021-03-14-推荐-帮助阅读源码的-8-个技巧](https://toutiao.io/k/9v93x32) ![](assets/new.png)  
+- [2021-03-14-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) ![](assets/new.png)  
+- [2021-03-14-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) ![](assets/new.png)  
+- [2021-03-14-推荐-做一个很出色的程序员](https://toutiao.io/k/g6xlwp2) ![](assets/new.png)  
+- [2021-03-14-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) ![](assets/new.png)  
+- [2021-03-14-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
+- [2021-03-14-推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) ![](assets/new.png)  
+- [2021-03-14-推荐-MySQL-索引从基础到原理，看这一篇就够了](https://toutiao.io/k/hueiax0) ![](assets/new.png)  
+- [2021-03-14-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

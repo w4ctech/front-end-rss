@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-14 10:34:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-14 10:43:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,6 +37,7 @@
 - [2021-03-14-浏览器插件-Command/Ctrl-+-B-快速收藏书签，-支持拼音，创建新目录或者子目录](https://www.v2ex.com/t/761540) 
 - [2021-03-14-滴滴现在撒谎都不需要-peer-review-么](https://www.v2ex.com/t/761501) 
 - [2021-03-14-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-14-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
 - [2021-03-14-在Z|京东安全、某国企高薪诚招安全各类工程师与研究员](https://sec.thief.one/article_content?a_id=11e5517d0771d9ddca17acb10e1d66bc) 
 - [2021-03-14-春日招聘|贝壳找房、富途招聘安全人才](https://sec.thief.one/article_content?a_id=cd62fd4620a68add01ff29938075312f) 
 - [2021-03-13-网络安全技术发展方向与趋势研究](https://sec.thief.one/article_content?a_id=16a57dd983952648c00c23f84ceeb5b7) 

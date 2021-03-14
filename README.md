@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-14 16:06:15，:rocket: 更新条数: +730， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-14 16:12:02，:rocket: 更新条数: +730， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -976,6 +976,7 @@
 </summary>
 
 
+- [2021-03-14-迫于中文搜索引擎无法解决，所以问一下，空气炸锅粘锅应该怎么办？](https://www.v2ex.com/t/761620) ![](assets/new.png)  
 - [2021-03-14-找个设计合作，主要做-LOGO-方面](https://www.v2ex.com/t/761619) ![](assets/new.png)  
 - [2021-03-14-网易网盘要关了，我去拥抱坚果云了！](https://www.v2ex.com/t/761617) ![](assets/new.png)  
 - [2021-03-14-V2EX-APP](https://www.v2ex.com/t/761616) ![](assets/new.png)  
@@ -995,7 +996,6 @@
 - [2021-03-14-杭州-招前端，独立小洋房办公，没有-996，不加班好吧，因为我们相信努力工作是为了更好的生活，而不是反过来。](https://www.v2ex.com/t/761602) ![](assets/new.png)  
 - [2021-03-14-苏州-自研物流项目，招全职数据分析-/-数据可视化-Web-前端工程师，具备初级算法基础优先。965](https://www.v2ex.com/t/761599) ![](assets/new.png)  
 - [2021-03-14-prostack，一个程序员互助群体。**房屋求租/转租/合租,技术交流,-求职交流**](https://www.v2ex.com/t/761598) ![](assets/new.png)  
-- [2021-03-14-eslint+prettier-如何配置才能允许标签内与括号内空行](https://www.v2ex.com/t/761597) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1049,15 +1049,15 @@
 - [2021-03-14-怎么推导《最大子序和》的动态规划解法](https://toutiao.io/k/0l1fx3m) ![](assets/new.png)  
 - [2021-03-14-ChirpStack-自定义-JS-codec-函数](https://toutiao.io/k/55xwxun) ![](assets/new.png)  
 - [2021-03-14-工具-|-阿里开源的-iOS-自动化工具](https://toutiao.io/k/g0ejizv) ![](assets/new.png)  
-- [2021-03-14-推荐-做一个很出色的程序员](https://toutiao.io/k/g6xlwp2) ![](assets/new.png)  
-- [2021-03-14-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) ![](assets/new.png)  
-- [2021-03-14-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) ![](assets/new.png)  
-- [2021-03-14-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
-- [2021-03-14-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) ![](assets/new.png)  
-- [2021-03-14-推荐-国内有哪些顶级技术团队的博客值得推荐？](https://toutiao.io/k/j7v5pee) ![](assets/new.png)  
-- [2021-03-14-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
-- [2021-03-14-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) ![](assets/new.png)  
+- [2021-03-14-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
 - [2021-03-14-推荐-内存管理设计精要](https://toutiao.io/k/4f2u3c5) ![](assets/new.png)  
+- [2021-03-14-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
+- [2021-03-14-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
+- [2021-03-14-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) ![](assets/new.png)  
+- [2021-03-14-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
+- [2021-03-14-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
+- [2021-03-14-推荐-国内有哪些顶级技术团队的博客值得推荐？](https://toutiao.io/k/j7v5pee) ![](assets/new.png)  
+- [2021-03-14-推荐-面试-Redis-没底？这-40-道面试题让你不再慌（附答案）](https://toutiao.io/k/0b1v2v6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

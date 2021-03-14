@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-14 05:09:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-14 05:21:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -36,14 +36,7 @@
 - [2021-03-11-你真的了解-ES6-中的函数特性么？](https://www.ershicimi.com/p/7d566c598c5ad4a1b96e2fcfda42016e) 
 - [2021-03-10-常用的前端JavaScript方法封装](https://www.ershicimi.com/p/738f1283ae4640bccf5d7fd5daf02d46) 
 - [2021-03-09-使用顶层-await-简化-JS-代码](https://www.ershicimi.com/p/381f871279592786dff7b95c261fea39) 
-- [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
-- [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
-- [2021-03-12-你的应用需要一个-“可取消的异步-HTTP-请求模块”](https://www.ershicimi.com/p/9964f0faa9b3f871d856cee9f2439c50) 
-- [2021-03-11-汇总JS语法-ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/63d0d95d3967290b02c84763b1a271d2) 
-- [2021-03-05-为什么要用-setTimeout-模拟-setInterval-？](https://www.ershicimi.com/p/6e460143e6e3ca01762cb74d25d2e415) 
-- [2021-03-05-一份开源的编码规范：代码整洁的-JavaScript](https://www.ershicimi.com/p/4102b1b8b708dae810b00afddf4c5798) 
-- [2021-03-03-为何在-JavaScript-中使用顶层-await？](https://www.ershicimi.com/p/4b32953b845cd6f147332d6a7bde3d37) 
-- [2021-03-02-开发中经常遇到的JavaScript问题整理超实用](https://www.ershicimi.com/p/aea9e1f76393d5abdeb99b64f95f429d) 
+- [2021-03-06-超实用-—-开发中常见-JavaScript-问题整理](https://www.ershicimi.com/p/54be0fbda17b78478ec0cea069cdfa1a) 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
@@ -57,6 +50,8 @@
 - [2021-03-14-写给前端工程师看的函数式编程对话（系列文章）](https://www.v2ex.com/t/761482) 
 - [2021-03-14-json-editor-in-mac](https://www.v2ex.com/t/761455) 
 - [2021-03-14-软路由](https://www.v2ex.com/t/761443) 
+- [2021-03-14-ChirpStack-自定义-JS-codec-函数](https://toutiao.io/k/55xwxun) 
+- [2021-03-14-推荐-Spring-Boot-异步调用](https://toutiao.io/k/xxk05uj) 
 - [2021-03-13-BUF大事件丨黑客入侵-15-万个监控摄像头;低级Bug导致网站被两度...](https://sec.thief.one/article_content?a_id=0877893217f0788b7d40ac0ce7ada3c9) 
 - [2021-03-12-【安全大事件】Win10-3月累积补丁-KB5000802导致系统蓝屏崩溃](https://sec.thief.one/article_content?a_id=bf861e759b7e870b1e05932942c44214) 
 - [2021-03-12-特斯拉监控入侵事件-敏感信息泄露下的黑客狂欢](https://sec.thief.one/article_content?a_id=37c04d75dbfcfbcbbbb2ac554ece9810) 

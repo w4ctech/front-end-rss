@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-15 19:48:04，:rocket: 更新条数: +3548， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-15 20:34:56，:rocket: 更新条数: +3663， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -42,7 +42,7 @@
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [前端e进阶](#前端e进阶)  
+- [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)  
 
@@ -96,6 +96,8 @@
 </summary>
 
 
+- [2021-03-15-全国｜新冠疫苗与其他疫苗接种间隔至少两周](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq3yhTKBm9aM09YcRVwPF210315&isfromapp=1) ![](assets/new.png)  
+- [2021-03-15-全国｜新增-5-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDxYeEqGPNucIAgMEkByU210315&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -395,6 +397,26 @@
 </summary>
 
 
+- [2020-08-21-聊聊两个状态管理库-Redux-&-Recoil](https://www.ershicimi.com/p/29fec6b9d5024568e2bd71f12ab459ec) ![](assets/new.png)  
+- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) ![](assets/new.png)  
+- [2020-07-19-「-思考-」-React-Hooks-的设计哲学](https://www.ershicimi.com/p/a06a740b0c554e7a4bf3accaa37913eb) ![](assets/new.png)  
+- [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) ![](assets/new.png)  
+- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) ![](assets/new.png)  
+- [2020-05-14-TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f) ![](assets/new.png)  
+- [2020-05-03-对-Chrome-Headless-渲染的极致优化](https://www.ershicimi.com/p/750cc36a62dc2f4be88144714fde4887) ![](assets/new.png)  
+- [2020-05-01-皮小蛋的忏悔](https://www.ershicimi.com/p/47364bc8d82dca2c4b963cb00ac0b4e9) ![](assets/new.png)  
+- [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) ![](assets/new.png)  
+- [2020-03-05-2020.03.03-互联网大厂入职薪资更新表](https://www.ershicimi.com/p/7758b0618c2076417db69702ed3bc49d) ![](assets/new.png)  
+- [2020-03-04-大厂薪资揭秘2020年初版-数据可信度比较高，-大家可以自行参考。](https://www.ershicimi.com/p/039430d577e04cceec7189892fdca5f0) ![](assets/new.png)  
+- [2020-03-03-​Ant-Disign-4.0-升级实践扑街指南-一](https://www.ershicimi.com/p/9d5a595678f0794369df0922f74275cc) ![](assets/new.png)  
+- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) ![](assets/new.png)  
+- [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) ![](assets/new.png)  
+- [2020-02-26-第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e) ![](assets/new.png)  
+- [2020-02-25-建精读阿里前端专家，揭秘职位描述下的潜台词](https://www.ershicimi.com/p/9d630ccd51ddd391139ff9ce966106b1) ![](assets/new.png)  
+- [2020-02-17-推荐两款好看的-Vscode主题插件](https://www.ershicimi.com/p/3b1007b351e094af06650fd57bdadca8) ![](assets/new.png)  
+- [2020-01-20-过年了，免费送出五本好书](https://www.ershicimi.com/p/080563fb5e0e5872eeb7b13bad02e3c6) ![](assets/new.png)  
+- [2020-01-18-送本书](https://www.ershicimi.com/p/fc85b54cd1493e38d679fcfcf525e81c) ![](assets/new.png)  
+- [2020-01-09-数据结构快速盘点---非线性结构](https://www.ershicimi.com/p/f7a5ba42a60821d218cf7ef18b662ddc) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端e进阶.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -514,6 +536,26 @@
 </summary>
 
 
+- [2021-03-15-有国内码农老哥考虑过去日本吗](https://www.v2ex.com/t/761926) ![](assets/new.png)  
+- [2021-03-15-一种根据声音判断婴儿大小便的硬件-#要负责任设计](https://www.v2ex.com/t/761925) ![](assets/new.png)  
+- [2021-03-15-hbase-有优雅的分页方式吗？](https://www.v2ex.com/t/761924) ![](assets/new.png)  
+- [2021-03-15-Apple-Music-的一些歌曲是灰的，要怎么才能播放呢？](https://www.v2ex.com/t/761922) ![](assets/new.png)  
+- [2021-03-15-Azure-学生福利被薅没了](https://www.v2ex.com/t/761920) ![](assets/new.png)  
+- [2021-03-15-再谈安全开发](https://www.v2ex.com/t/761919) ![](assets/new.png)  
+- [2021-03-15-rust-练手项目](https://www.v2ex.com/t/761918) ![](assets/new.png)  
+- [2021-03-15-上海/北京/杭州实习/校招/社招救救孩子抖音电商后端开发工程师](https://www.v2ex.com/t/761917) ![](assets/new.png)  
+- [2021-03-15-求助徐建明著的《选择做富人》电子书资源](https://www.v2ex.com/t/761916) ![](assets/new.png)  
+- [2021-03-15-VS2017-怎么在一个项目里面生成多个-DLL，刚接触-dll-编写，现在只知道一个生成一个-dll-项目产出一个-dll，不知道有没有办法一个项目生成多个-dll-呢？](https://www.v2ex.com/t/761915) ![](assets/new.png)  
+- [2021-03-15-Redis-使用求助](https://www.v2ex.com/t/761914) ![](assets/new.png)  
+- [2021-03-15-用新的编程语言，创造一个类似-qt-这样的界面库，难度有多大？](https://www.v2ex.com/t/761913) ![](assets/new.png)  
+- [2021-03-15-酒足饭饱思淫欲](https://www.v2ex.com/t/761912) ![](assets/new.png)  
+- [2021-03-15-注意-iPod-权限！-iOS-某音乐软件删本地歌曲！](https://www.v2ex.com/t/761910) ![](assets/new.png)  
+- [2021-03-15-买了个妙控板-2-请教有没有长期使用手腕不适的](https://www.v2ex.com/t/761909) ![](assets/new.png)  
+- [2021-03-15-目前解决-M1-本磁盘读写量大的一个方法](https://www.v2ex.com/t/761908) ![](assets/new.png)  
+- [2021-03-15-求助！最近-GitHub-间歇性连不上](https://www.v2ex.com/t/761907) ![](assets/new.png)  
+- [2021-03-15-都说-macos-多媒体性能比-windows-好，然而...](https://www.v2ex.com/t/761906) ![](assets/new.png)  
+- [2021-03-15-美区-Paypal-已经不能绑定国内信用卡？](https://www.v2ex.com/t/761905) ![](assets/new.png)  
+- [2021-03-15-日常使用是选择默认路由-DNS-还是好用的公共-DNS？](https://www.v2ex.com/t/761904) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -525,6 +567,26 @@
 </summary>
 
 
+- [2021-03-15-一文说透依赖注入-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dependency-injection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-为什么-Activity.finish-之后-10s-才-onDestroy-？我蒙蔽了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14212&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff30oh8781IYj2Rdq8UJfUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-华为高管再放狠话：鸿蒙不是安卓、iOS-的拷贝！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14211&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaiToCRUMtTz4BODqDGayuw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-鸿蒙开发初体验-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14210&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYBHOTtLjp7PuIGh5k0fnTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-阿里平头哥成功将-Android-10-移植到-RISC-V-架构上-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14209&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FShmgLyQnwuzEmO_OuNh7MA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-PanDownload-复活了！60MB/s！附下载地址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14208&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwi4cVwqkHO_kwZFBuFfAPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-绝了！搜狗输入法这骚操作！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14207&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfG6Nx8JAnajo7arkb9IqGA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-为什么黑客从不用鼠标，一直在敲键盘？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14206&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Frvd2wYnuVI-E2spLMmEgMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-微软将允许员工永久性远程办公-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14205&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5OEv52xLT6ZOCqZD2uvrzA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-某度搜索，有点黄~~~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14204&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Aqjl5qf4l4pLisOauSF1g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-成为最差前端开发的-10-个建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14203&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FagGvCPDpM9tFzzgRrCPFog%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-乔布斯的这-3-个故事依然激励着我-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14202&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZHR_J2ghXIb2TCfV7w_Hng%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-假如现在你有30分钟，你会做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14201&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdaily-time-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-【白话科普】CDN-&-游戏加速器，两者是一个原理吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14200&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F355985175%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-使用不多但又十分重要的：风控策略-www.woshipm.com](https://blogread.cn/news/go.php?idItem=14199&url=http%3A%2F%2Fwww.woshipm.com%2Fzhichang%2F1682661.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-全链路风控解决方案深度解读-segmentfault.com](https://blogread.cn/news/go.php?idItem=14197&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000020535780%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-京东集团的风控实践-www.infoq.cn](https://blogread.cn/news/go.php?idItem=14196&url=https%3A%2F%2Fwww.infoq.cn%2Farticle%2Fgr8q8d8cazjx3z8giar2%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-复杂风控场景下，如何打造一款高效的规则引擎-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14195&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F05%2F14%2Fmeituan-security-zeus.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-15-谷歌最支持的-Android-开发架构指南-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14194&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEQBSZ-aCpxI_S1oFt54D3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -536,6 +598,26 @@
 </summary>
 
 
+- [2021-03-15-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
+- [2021-03-15-Go-工程化（八）：单元测试](https://toutiao.io/k/svx31y3) ![](assets/new.png)  
+- [2021-03-15-详解低延时高音质：回声消除与降噪篇](https://toutiao.io/k/axnb7n6) ![](assets/new.png)  
+- [2021-03-15-大话-Python-之-Python-基础巩固：Python-3-*-和-**-运算符使用场景](https://toutiao.io/k/wp1dj1g) ![](assets/new.png)  
+- [2021-03-15-总在不轻易间就留了个频繁-GC-的坑](https://toutiao.io/k/pkg9mj6) ![](assets/new.png)  
+- [2021-03-15-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-15-你见过的-“垃圾”-项目是这样子么？](https://toutiao.io/k/73ise1u) ![](assets/new.png)  
+- [2021-03-15-架构设计笔记（九）：关键模式之无状态服务](https://toutiao.io/k/daw0bbr) ![](assets/new.png)  
+- [2021-03-15-Java-高并发编程基础三大利器之-CountDownLatch](https://toutiao.io/k/memd2u9) ![](assets/new.png)  
+- [2021-03-15-写给前端的手动内存管理基础入门（一）：返璞归真之从引用类型到裸指针](https://toutiao.io/k/po5tc3d) ![](assets/new.png)  
+- [2021-03-15-漫谈分布式系统（二十五）：另辟蹊径的-Kylin](https://toutiao.io/k/9vt2dic) ![](assets/new.png)  
+- [2021-03-15-X-Meetup丨『高质量、高并发的实时通信架构设计与探索』重庆站火热报名中……](https://toutiao.io/k/xasnv77) ![](assets/new.png)  
+- [2021-03-15-一道面试题让你更加了解事件队列](https://toutiao.io/k/5r4yur7) ![](assets/new.png)  
+- [2021-03-15-代码审查：从-ArrayList-说线程安全](https://toutiao.io/k/rime52z) ![](assets/new.png)  
+- [2021-03-15-监控全覆盖，接入只需-5-分钟：爱奇艺内容中台基于-CAT-的服务监控实践](https://toutiao.io/k/bh0anxp) ![](assets/new.png)  
+- [2021-03-15-优秀开源框架就一定靠谱么？五招助你驾驭源代码](https://toutiao.io/k/wqegdp6) ![](assets/new.png)  
+- [2021-03-15-联合国新闻专访颜宁：科学无性别，勇敢做自己](https://toutiao.io/k/gcovkw2) ![](assets/new.png)  
+- [2021-03-15-看这里！鹅厂大佬深度解析-Apache-Pulsar-五大应用场景](https://toutiao.io/k/ptznfju) ![](assets/new.png)  
+- [2021-03-15-了不起的-Chrome-浏览器：Chrome-89-开启-Web-应用的物联网时代](https://toutiao.io/k/bqnhl3x) ![](assets/new.png)  
+- [2021-03-15-从宇宙大尺度结构到胎心监测，从手机消息推送到物联网大数据处理：跨界是创新的主要源泉](https://toutiao.io/k/yxagicd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

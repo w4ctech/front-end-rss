@@ -17027,13 +17027,13 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
-        "title": "全国｜新增 5 例确诊病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDxYeEqGPNucIAgMEkByU210315&isfromapp=1",
+        "title": "全国｜我国已累计接种新冠病毒疫苗 6498 万人次",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1J3Yr70tr7nldjvta6jo210315&isfromapp=1",
         "date": "2021-03-15"
       },
       {
-        "title": "辽宁｜新增 1 例无症状感染者",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM16CNwROunRz58qLrW0Y210315&isfromapp=1",
+        "title": "全国｜新增 5 例确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDxYeEqGPNucIAgMEkByU210315&isfromapp=1",
         "date": "2021-03-15"
       }
     ]
@@ -19890,6 +19890,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "The newInstance() call is a work around for some broken Java implementations",
+        "link": "https://www.v2ex.com/t/761823",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "广州老破小和新塘 or 南沙新小区怎么选",
+        "link": "https://www.v2ex.com/t/761822",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "掌握某种技能需要足够多的时间，你们是否对此感到过苦恼",
+        "link": "https://www.v2ex.com/t/761821",
+        "date": "2021-03-15"
+      },
+      {
         "title": "广州 VC++ windows 客户端开发求职",
         "link": "https://www.v2ex.com/t/761820",
         "date": "2021-03-15"
@@ -20072,16 +20087,6 @@
       {
         "title": "之前摩拜被美团收购，摩拜员工的期权怎么办了？转换成美团的股票了？",
         "link": "https://www.v2ex.com/t/761774",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "全职远程 + No 996 + No PUA + 招 React 高级前端开发工程师",
-        "link": "https://www.v2ex.com/t/761773",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "Vue-Router 用 router.go(-1) 返回上级页面后，如何不刷新数据？",
-        "link": "https://www.v2ex.com/t/761772",
         "date": "2021-03-15"
       }
     ]
@@ -20299,63 +20304,8 @@
         "date": "2021-03-15"
       },
       {
-        "title": "[推荐] 去哪里找 Java 练手项目？",
-        "link": "https://toutiao.io/k/qh7wgrx",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
-        "link": "https://toutiao.io/k/xuv7rlf",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "[推荐] 这几款 JVM 故障诊断处理工具你还不会？",
-        "link": "https://toutiao.io/k/dux0ogl",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
-        "link": "https://toutiao.io/k/tgp1ua8",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "[推荐] 流量复制方案对比：TCPCopy vs Goreplay",
-        "link": "https://toutiao.io/k/cpf8p4q",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "[推荐] 帮助阅读源码的 8 个技巧",
-        "link": "https://toutiao.io/k/9v93x32",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "[推荐] Tomcat 性能调优应该注意什么？",
-        "link": "https://toutiao.io/k/kldrkzc",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "[推荐] 有赞 BI 平台设计及实现",
-        "link": "https://toutiao.io/k/a595tmo",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "[推荐] 快手超大规模集群调度优化实践",
-        "link": "https://toutiao.io/k/671eano",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "[推荐] 内存管理设计精要",
-        "link": "https://toutiao.io/k/4f2u3c5",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
-        "link": "https://toutiao.io/k/mzszqf0",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "[推荐] 做一个很出色的程序员",
-        "link": "https://toutiao.io/k/g6xlwp2",
+        "title": "[推荐] Redis 专题：深入解读哨兵模式",
+        "link": "https://toutiao.io/k/tm4wyb0",
         "date": "2021-03-15"
       },
       {
@@ -20364,13 +20314,68 @@
         "date": "2021-03-15"
       },
       {
+        "title": "[推荐] MySQL 索引从基础到原理，看这一篇就够了",
+        "link": "https://toutiao.io/k/hueiax0",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "[推荐] 国内有哪些顶级技术团队的博客值得推荐？",
+        "link": "https://toutiao.io/k/j7v5pee",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "[推荐] MySQL 读写分离，写完读不到问题如何解决",
+        "link": "https://toutiao.io/k/ga340bq",
+        "date": "2021-03-15"
+      },
+      {
         "title": "[推荐] 2021 阿里淘系工程师推荐书单",
         "link": "https://toutiao.io/k/txzl2gg",
         "date": "2021-03-15"
       },
       {
-        "title": "[推荐] 面试 Redis 没底？这 40 道面试题让你不再慌（附答案）",
-        "link": "https://toutiao.io/k/0b1v2v6",
+        "title": "[推荐] 快手超大规模集群调度优化实践",
+        "link": "https://toutiao.io/k/671eano",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "[推荐] 硬核！漫画图解 HTTP 基础 + 面试题",
+        "link": "https://toutiao.io/k/rmckht1",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "[推荐] 万字长文聊缓存（下）：应用级缓存",
+        "link": "https://toutiao.io/k/c1uc4c2",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "[推荐] Golang 性能诊断看这篇就够了",
+        "link": "https://toutiao.io/k/3loin1u",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "[推荐] Tomcat 性能调优应该注意什么？",
+        "link": "https://toutiao.io/k/kldrkzc",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "[推荐] 做一个很出色的程序员",
+        "link": "https://toutiao.io/k/g6xlwp2",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "[推荐] 内存管理设计精要",
+        "link": "https://toutiao.io/k/4f2u3c5",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
+        "link": "https://toutiao.io/k/tgp1ua8",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "[推荐] 副业刚需：在 GitHub 上也能年入百万？",
+        "link": "https://toutiao.io/k/r9tqaw3",
         "date": "2021-03-15"
       }
     ]

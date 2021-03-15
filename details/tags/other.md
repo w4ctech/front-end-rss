@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-15 23:36:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-15 23:46:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3337,15 +3337,16 @@
 - [2021-03-15-联合国新闻专访颜宁：科学无性别，勇敢做自己](https://toutiao.io/k/gcovkw2) 
 - [2021-03-15-看这里！鹅厂大佬深度解析-Apache-Pulsar-五大应用场景](https://toutiao.io/k/ptznfju) 
 - [2021-03-15-从宇宙大尺度结构到胎心监测，从手机消息推送到物联网大数据处理：跨界是创新的主要源泉](https://toutiao.io/k/yxagicd) 
-- [2021-03-15-推荐-做一个很出色的程序员](https://toutiao.io/k/g6xlwp2) 
 - [2021-03-15-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) 
-- [2021-03-15-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) 
+- [2021-03-15-推荐-内存管理设计精要](https://toutiao.io/k/4f2u3c5) 
+- [2021-03-15-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) 
+- [2021-03-15-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) 
+- [2021-03-15-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) 
+- [2021-03-15-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) 
 - [2021-03-15-推荐-MySQL-索引从基础到原理，看这一篇就够了](https://toutiao.io/k/hueiax0) 
 - [2021-03-15-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) 
-- [2021-03-15-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) 
 - [2021-03-15-推荐-去哪里找-Java-练手项目？](https://toutiao.io/k/qh7wgrx) 
-- [2021-03-15-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) 
-- [2021-03-15-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) 
+- [2021-03-15-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) 
 - [2021-03-15-DSRC2021年度奖励升级-&-第一季度奖励公告](https://sec.thief.one/article_content?a_id=1b8a583bc0f98e915afa3042641c16b5) 
 - [2021-03-15-速来|ISACA-CDPSE证书早期免考申请报名即将截止](https://sec.thief.one/article_content?a_id=4fbae4d9ea1587fdb5707524ce480d51) 
 - [2021-03-15-实战-|-记一次靶场内网渗透五](https://sec.thief.one/article_content?a_id=e08a7002f8767a5f4c0cda1f60d31d2f) 

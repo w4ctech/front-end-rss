@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-15 17:28:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-15 17:52:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,8 +7,6 @@
 
 
 
-- [2021-03-09-阿里宣布扩招！最新内部面试题已脱敏](https://www.ershicimi.com/p/504574315f62c2676c74e8ce2a5b64a5) 
-- [2021-03-06-这是我面试42场拿下微软、蚂蚁、头条offer的方法论](https://www.ershicimi.com/p/75473e455defccd594bb33c47b88657d) 
 - [2021-03-15-全国、杭州阿里巴巴面向-2022-届实习招聘和-2021-的补录和应届社招](https://www.v2ex.com/t/761902) 
 - [2021-03-15-中央网信办所属部分在京事业单位2021年度公开招聘资格复审和面试通...](https://sec.thief.one/article_content?a_id=29b2a998ba495d157ad976f9681c3e10) 
 - [2021-03-15-面试常问!!TCP-的三次握手与四次挥手理解](https://sec.thief.one/article_content?a_id=6ba2cf28d54ec2e7b9faeae7bad5f4a0) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-15 04:05:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-15 04:09:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -119,6 +119,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-03-01-泰国政要接种中国新冠疫苗-美国批准强生疫苗紧急使用|大流行手记（2月28日）](https://m.caixin.com/m/2021-03-01/101668395.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-03-01-康希诺称新冠疫苗产能年内有望增至5亿剂-18岁以上均可接种](https://m.caixin.com/m/2021-03-01/101668401.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-03-01-聚焦|张文宏：中国跟全球之间存在免疫缺口](http://m.opinion.caixin.com/m/2021-03-01/101668884.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2021-03-15-全国｜新增-5-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDxYeEqGPNucIAgMEkByU210315&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2021-03-15-辽宁｜新增-1-例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM16CNwROunRz58qLrW0Y210315&isfromapp=1) 
 - [【Vue中文社区】2021-03-13-微信3.0来了，用电脑刷朋友圈是一种什么样的体验（内含内测版下载链接）](https://www.ershicimi.com/p/abfd68bf4be189dd7572c12df4b14a17) 
 - [【Vue中文社区】2021-03-13-VS-Code-插件开发入门教程](https://www.ershicimi.com/p/a555e9030ffe442d8f74705af996f041) 
 - [【Vue中文社区】2021-03-12-程序员如果想要进阶年薪-50-万，需要掌握的能力是什么？](https://www.ershicimi.com/p/fd0b60eda30fb33a2f5ab9f5e4b65384) 

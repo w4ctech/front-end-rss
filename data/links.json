@@ -17020,7 +17020,18 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "全国｜新增 5 例确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDxYeEqGPNucIAgMEkByU210315&isfromapp=1",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "辽宁｜新增 1 例无症状感染者",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM16CNwROunRz58qLrW0Y210315&isfromapp=1",
+        "date": "2021-03-15"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",

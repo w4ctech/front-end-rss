@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-15 11:30:36，:rocket: 更新条数: +4140， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-15 11:39:49，:rocket: 更新条数: +4040， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -54,7 +54,7 @@
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
-- [安全热点](#安全热点)![](assets/dot.png)   
+- [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-03-15-在网页设置网站的部分功能是否启用（功能开关），应该如何书写逻辑？](https://www.v2ex.com/t/761865) ![](assets/new.png)  
 - [2021-03-15-支付宝高端理财里的厦门信托靠谱吗？有没有买过的老哥](https://www.v2ex.com/t/761863) ![](assets/new.png)  
 - [2021-03-15-家用灭火器买水基还是气溶胶的好？](https://www.v2ex.com/t/761862) ![](assets/new.png)  
 - [2021-03-15-千万级的数据库怎么加上字段/索引，老哥们](https://www.v2ex.com/t/761861) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-03-15-游戏分级是怎么个落地法呢？](https://www.v2ex.com/t/761841) ![](assets/new.png)  
 - [2021-03-15-求助，-ulimit-参数改了无效](https://www.v2ex.com/t/761840) ![](assets/new.png)  
 - [2021-03-15-CODING-DevOps-高可用实践，保障服务稳定的“定海神针”](https://www.v2ex.com/t/761839) ![](assets/new.png)  
-- [2021-03-15-boss-直聘人脸识别如何跳过？](https://www.v2ex.com/t/761838) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,26 +1089,6 @@
 </summary>
 
 
-- [2021-03-15-DSRC2021年度奖励升级-&-第一季度奖励公告](https://sec.thief.one/article_content?a_id=1b8a583bc0f98e915afa3042641c16b5) ![](assets/new.png)  
-- [2021-03-15-Chrome-UAF漏洞模式浅析三:unique-key容器emplace重复key](https://sec.thief.one/article_content?a_id=6ef1c4998cf777364f5e4338271fef24) ![](assets/new.png)  
-- [2021-03-15-Chrome被控隐身模式下仍然追踪用户](https://sec.thief.one/article_content?a_id=e86e1de65938bcb640a708562e6c7e56) ![](assets/new.png)  
-- [2021-03-15-速来|ISACA-CDPSE证书早期免考申请报名即将截止](https://sec.thief.one/article_content?a_id=4fbae4d9ea1587fdb5707524ce480d51) ![](assets/new.png)  
-- [2021-03-15-字节跳动安全与风控春招来啦!](https://sec.thief.one/article_content?a_id=366a6f96f9d50510dc4b054f93dd45b2) ![](assets/new.png)  
-- [2021-03-15-实战-|-记一次靶场内网渗透五](https://sec.thief.one/article_content?a_id=e08a7002f8767a5f4c0cda1f60d31d2f) ![](assets/new.png)  
-- [2021-03-15-【风险提示】天融信关于XStream多个高危漏洞风险提示](https://sec.thief.one/article_content?a_id=2d481edaca3b88d94261c39607ddd5f0) ![](assets/new.png)  
-- [2021-03-15-中央网信办所属部分在京事业单位2021年度公开招聘资格复审和面试通...](https://sec.thief.one/article_content?a_id=29b2a998ba495d157ad976f9681c3e10) ![](assets/new.png)  
-- [2021-03-15-喜报:「华云安」完成数千万元A轮融资](https://sec.thief.one/article_content?a_id=0b04f3c0b86c806e3a56229e1b7d7c96) ![](assets/new.png)  
-- [2021-03-15-黑客发送假冒邮件试图让安全公司将其恶意软件加白名单](https://sec.thief.one/article_content?a_id=6f45ccc13fc5d78f95c891dd9245f963) ![](assets/new.png)  
-- [2021-03-15-雷神众测漏洞周报2021.03.08-2021.03.14-4](https://sec.thief.one/article_content?a_id=efa42747c46b4340b076e6025c3a579f) ![](assets/new.png)  
-- [2021-03-15-针对M1芯片的Mac恶意软件XCSSET发生新变种](https://sec.thief.one/article_content?a_id=f7b0a115364b59b2ffd78cb368e2ec81) ![](assets/new.png)  
-- [2021-03-15-感谢信-|-国舜股份攻防能力获南方电网认可](https://sec.thief.one/article_content?a_id=01429e826ddc10b2cb8ca90ad2ecc32c) ![](assets/new.png)  
-- [2021-03-15-Buterin帮助制定防御针对以太坊的51%攻击的战略](https://sec.thief.one/article_content?a_id=9ce83f731a7fb8d2c253cbf2a8f6886d) ![](assets/new.png)  
-- [2021-03-15-3月15日贵币GUIBI早内参-比特币总市值已超加元货币供应量M1,以太...](https://sec.thief.one/article_content?a_id=0a1881af3628045dd0db937a814e7e79) ![](assets/new.png)  
-- [2021-03-15-Microsoft-Exchange-ProxyLogon-PoC漏洞利用公布](https://sec.thief.one/article_content?a_id=7d0e647da8fa339d3529900155dad8d7) ![](assets/new.png)  
-- [2021-03-15-“两个历史时期”血脉相连](https://sec.thief.one/article_content?a_id=8bf592a9ac49ce1366a21388629f932b) ![](assets/new.png)  
-- [2021-03-15-对某OA系统后台的一次sql注入漏洞挖掘](https://sec.thief.one/article_content?a_id=79e26ec08c36d58522166a0616ec6413) ![](assets/new.png)  
-- [2021-03-15-恶意软件新王:TrickBot](https://sec.thief.one/article_content?a_id=521882004a008653949a862935570316) ![](assets/new.png)  
-- [2021-03-15-《个人健康信息码-参考模型》全文](https://sec.thief.one/article_content?a_id=e64a1d1423b7761cc73ed7fb12f05c9a) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

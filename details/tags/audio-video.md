@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-15 09:08:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-15 09:34:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -85,7 +85,4 @@
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-03-11-有奖｜晒居家整理视频，瓜分万元现金奖励](https://www.ershicimi.com/p/e1b8f95401f47fc9ec9962cd403d7fa2) 
-- [2021-03-15-公司需要信息安全方面的视频课程，我该找谁合作或购买？](https://www.v2ex.com/t/761787) 
-- [2021-03-13-【视频】|-网络安全:信息安全管理制度](https://sec.thief.one/article_content?a_id=c7ee4fca2cfeb09d674e5c19ae6c655b) 
-- [2021-03-12-黑客入侵15万个Verkada监控摄像头-特斯拉被黑上海仓库视频曝光](https://sec.thief.one/article_content?a_id=c0658da70bc5a59a254b344752b0b1bb) 
 - [2021-03-01-【直播报名】物联网数据4.0时代，企业还有哪些新的存储需求？](https://www.ershicimi.com/p/38cd58ec7eba50794e472b524952553c) 

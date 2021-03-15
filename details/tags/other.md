@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-15 10:34:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-15 10:43:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3335,13 +3335,13 @@
 - [2021-03-15-监控全覆盖，接入只需-5-分钟：爱奇艺内容中台基于-CAT-的服务监控实践](https://toutiao.io/k/bh0anxp) 
 - [2021-03-15-从宇宙大尺度结构到胎心监测，从手机消息推送到物联网大数据处理：跨界是创新的主要源泉](https://toutiao.io/k/yxagicd) 
 - [2021-03-15-优秀开源框架就一定靠谱么？五招助你驾驭源代码](https://toutiao.io/k/wqegdp6) 
-- [2021-03-15-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) 
-- [2021-03-15-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) 
 - [2021-03-15-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) 
-- [2021-03-15-推荐-内存管理设计精要](https://toutiao.io/k/4f2u3c5) 
-- [2021-03-15-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) 
+- [2021-03-15-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) 
+- [2021-03-15-推荐-国内有哪些顶级技术团队的博客值得推荐？](https://toutiao.io/k/j7v5pee) 
 - [2021-03-15-推荐-流量复制方案对比：TCPCopy-vs-Goreplay](https://toutiao.io/k/cpf8p4q) 
-- [2021-03-15-推荐-做一个很出色的程序员](https://toutiao.io/k/g6xlwp2) 
+- [2021-03-15-推荐-MySQL-索引从基础到原理，看这一篇就够了](https://toutiao.io/k/hueiax0) 
+- [2021-03-15-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) 
+- [2021-03-15-推荐-Redis-专题：深入解读哨兵模式](https://toutiao.io/k/tm4wyb0) 
 - [2021-03-15-DSRC2021年度奖励升级-&-第一季度奖励公告](https://sec.thief.one/article_content?a_id=1b8a583bc0f98e915afa3042641c16b5) 
 - [2021-03-15-速来|ISACA-CDPSE证书早期免考申请报名即将截止](https://sec.thief.one/article_content?a_id=4fbae4d9ea1587fdb5707524ce480d51) 
 - [2021-03-15-实战-|-记一次靶场内网渗透五](https://sec.thief.one/article_content?a_id=e08a7002f8767a5f4c0cda1f60d31d2f) 

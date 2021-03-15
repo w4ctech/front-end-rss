@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-15 00:09:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-15 00:18:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -21,7 +21,8 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-14-翻译：《实用的-Python-编程》06_00_Overview](https://www.v2ex.com/t/761593) 
 - [2021-03-15-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-03-15-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
+- [2021-03-14-【安全圈】千万别碰!买卖比特币“跑分”盈利8500元被认定协助洗钱...](https://sec.thief.one/article_content?a_id=5559eb65de11926ed30d90d365d561fe) 
+- [2021-03-14-小姐姐的信息安全技术学习经验分享](https://sec.thief.one/article_content?a_id=1b46097b7930f2b2572bc6bf75da6b18) 
 - [2021-03-14-在Z|京东安全、某国企高薪诚招安全各类工程师与研究员](https://sec.thief.one/article_content?a_id=11e5517d0771d9ddca17acb10e1d66bc) 
 - [2021-03-14-春日招聘|贝壳找房、富途招聘安全人才](https://sec.thief.one/article_content?a_id=cd62fd4620a68add01ff29938075312f) 
 - [2021-03-13-网络安全技术发展方向与趋势研究](https://sec.thief.one/article_content?a_id=16a57dd983952648c00c23f84ceeb5b7) 
@@ -38,7 +39,3 @@
 - [2021-03-11-Chrome-UAF漏洞模式浅析二:callback-storing-raw-pointer](https://sec.thief.one/article_content?a_id=b5c7e01283199a58cb1f5a2c540db407) 
 - [2021-03-11-POC-|-数篷科技:零信任DACS,随时随地安全使用数据](https://sec.thief.one/article_content?a_id=c3029b598d55a9e29a4f62432bb27746) 
 - [2021-03-11-向安全攻击说NO,请翻开体系化防御的三页“教科书”](https://sec.thief.one/article_content?a_id=ba8bfaf1b146c9ea3571f9667e211797) 
-- [2021-03-11-CNNVD-关于F5-BIG-IP-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=670de5c41f5d2df3cd7703f3838bb458) 
-- [2021-03-11-开发安全与软件供应链安全的关系](https://sec.thief.one/article_content?a_id=2477a8ed3b788b9ce692f30181e1b49a) 
-- [2021-03-11-Firefox-86-限制通过跨网站-Cookie-共享追踪用户](https://sec.thief.one/article_content?a_id=c7ccc440f66d27ea2f23fc0f3c9dd254) 
-- [2021-03-11-安全新系统之后的必备软件推荐](https://sec.thief.one/article_content?a_id=c6a2abe72d81c8684f31f356a86cc979) 

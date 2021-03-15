@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-15 07:39:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-15 07:44:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -469,7 +469,6 @@
 - [【前端之巅】你每天都在使用的HTTP协议，到底是什么鬼？-|-活动推荐](https://www.ershicimi.com/p/7aca27fefd0e28c3fa0e825e404e1e4c)
 - [【互联网架构师】5-个牛逼的算法设计，你知道几个？](https://www.ershicimi.com/p/21034bda017baeefe8a778d7fab9ebb5)
 - [【V2EX】🔥🔥新加坡-技术移民大型互联网公司，招后端，云平台，大数据，-移动端（iOS,安卓，-RN）等各类高级开发工程师-，以及各类（后台架构，大数据，算法，基...](https://www.v2ex.com/t/761781)
-- [【开发者头条】推荐-硬核！漫画图解-HTTP-基础-+-面试题](https://toutiao.io/k/rmckht1)
 - [【安全热点】Clast82:利用谷歌应用商店来传播恶意软件](https://sec.thief.one/article_content?a_id=32623d3e0b538da82f50a625f15620a7)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

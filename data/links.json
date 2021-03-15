@@ -17020,7 +17020,18 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "全国｜新增 5 例确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDxYeEqGPNucIAgMEkByU210315&isfromapp=1",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "辽宁｜新增 1 例无症状感染者",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM16CNwROunRz58qLrW0Y210315&isfromapp=1",
+        "date": "2021-03-15"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",
@@ -19874,6 +19885,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "jrebel 修改 shiro 的配置后，报空指针错误，怎么解决？还有， shiro 怎么不校验用户权限，还能获取到用户信息？",
+        "link": "https://www.v2ex.com/t/761746",
+        "date": "2021-03-15"
+      },
+      {
         "title": "单圈硅胶回环表带松垮了，能有售后服务吗？",
         "link": "https://www.v2ex.com/t/761744",
         "date": "2021-03-15"
@@ -20046,16 +20062,6 @@
       {
         "title": "富途招聘",
         "link": "https://www.v2ex.com/t/761697",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "查看日志，发现 redis socket 报错",
-        "link": "https://www.v2ex.com/t/761696",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "SpringMVC 的后端，前端需要传一个比较复杂的数据过来，但后端不打算在 DAO 层为它设 pojo 类，那在 Controller 中为它设一个内部类是好的处理办法么？",
-        "link": "https://www.v2ex.com/t/761695",
         "date": "2021-03-15"
       }
     ]
@@ -20253,13 +20259,13 @@
         "date": "2021-03-15"
       },
       {
-        "title": "代码审查：从 ArrayList 说线程安全",
-        "link": "https://toutiao.io/k/rime52z",
+        "title": "一道面试题让你更加了解事件队列",
+        "link": "https://toutiao.io/k/5r4yur7",
         "date": "2021-03-15"
       },
       {
-        "title": "一道面试题让你更加了解事件队列",
-        "link": "https://toutiao.io/k/5r4yur7",
+        "title": "代码审查：从 ArrayList 说线程安全",
+        "link": "https://toutiao.io/k/rime52z",
         "date": "2021-03-15"
       },
       {
@@ -20273,8 +20279,13 @@
         "date": "2021-03-15"
       },
       {
-        "title": "[推荐] Redis 专题：深入解读哨兵模式",
-        "link": "https://toutiao.io/k/tm4wyb0",
+        "title": "[推荐] 2021 阿里淘系工程师推荐书单",
+        "link": "https://toutiao.io/k/txzl2gg",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "[推荐] MySQL 读写分离，写完读不到问题如何解决",
+        "link": "https://toutiao.io/k/ga340bq",
         "date": "2021-03-15"
       },
       {
@@ -20283,23 +20294,18 @@
         "date": "2021-03-15"
       },
       {
-        "title": "[推荐] MySQL 索引从基础到原理，看这一篇就够了",
-        "link": "https://toutiao.io/k/hueiax0",
+        "title": "[推荐] 面试 Redis 没底？这 40 道面试题让你不再慌（附答案）",
+        "link": "https://toutiao.io/k/0b1v2v6",
         "date": "2021-03-15"
       },
       {
-        "title": "[推荐] 流量复制方案对比：TCPCopy vs Goreplay",
-        "link": "https://toutiao.io/k/cpf8p4q",
+        "title": "[推荐] 做一个很出色的程序员",
+        "link": "https://toutiao.io/k/g6xlwp2",
         "date": "2021-03-15"
       },
       {
-        "title": "[推荐] 高并发系统的限流策略：漏桶和令牌桶（附源码剖析）",
-        "link": "https://toutiao.io/k/x6ro69m",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "[推荐] Golang 性能诊断看这篇就够了",
-        "link": "https://toutiao.io/k/3loin1u",
+        "title": "[推荐] 国内有哪些顶级技术团队的博客值得推荐？",
+        "link": "https://toutiao.io/k/j7v5pee",
         "date": "2021-03-15"
       },
       {
@@ -20308,13 +20314,18 @@
         "date": "2021-03-15"
       },
       {
-        "title": "[推荐] 2021 阿里淘系工程师推荐书单",
-        "link": "https://toutiao.io/k/txzl2gg",
+        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
+        "link": "https://toutiao.io/k/tgp1ua8",
         "date": "2021-03-15"
       },
       {
-        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
-        "link": "https://toutiao.io/k/tgp1ua8",
+        "title": "[推荐] 副业刚需：在 GitHub 上也能年入百万？",
+        "link": "https://toutiao.io/k/r9tqaw3",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "[推荐] 有赞 BI 平台设计及实现",
+        "link": "https://toutiao.io/k/a595tmo",
         "date": "2021-03-15"
       },
       {
@@ -20323,13 +20334,8 @@
         "date": "2021-03-15"
       },
       {
-        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
-        "link": "https://toutiao.io/k/xuv7rlf",
-        "date": "2021-03-15"
-      },
-      {
-        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
-        "link": "https://toutiao.io/k/yduqoev",
+        "title": "[推荐] 从技术专家到技术管理，我对管理的思考",
+        "link": "https://toutiao.io/k/r5kgujp",
         "date": "2021-03-15"
       },
       {
@@ -20338,13 +20344,13 @@
         "date": "2021-03-15"
       },
       {
-        "title": "[推荐] 帮助阅读源码的 8 个技巧",
-        "link": "https://toutiao.io/k/9v93x32",
+        "title": "[推荐] [译] 构建微服务的十大 Go 框架/库",
+        "link": "https://toutiao.io/k/44rsmt3",
         "date": "2021-03-15"
       },
       {
-        "title": "[推荐] 快手超大规模集群调度优化实践",
-        "link": "https://toutiao.io/k/671eano",
+        "title": "[推荐] Redis 专题：深入解读哨兵模式",
+        "link": "https://toutiao.io/k/tm4wyb0",
         "date": "2021-03-15"
       }
     ]

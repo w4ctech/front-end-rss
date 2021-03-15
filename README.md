@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-15 07:44:39，:rocket: 更新条数: +4144， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-15 07:50:18，:rocket: 更新条数: +4144， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1074,8 +1074,8 @@
 - [2021-03-15-漫谈分布式系统（二十五）：另辟蹊径的-Kylin](https://toutiao.io/k/9vt2dic) ![](assets/new.png)  
 - [2021-03-15-监控全覆盖，接入只需-5-分钟：爱奇艺内容中台基于-CAT-的服务监控实践](https://toutiao.io/k/bh0anxp) ![](assets/new.png)  
 - [2021-03-15-一道面试题让你更加了解事件队列](https://toutiao.io/k/5r4yur7) ![](assets/new.png)  
-- [2021-03-15-了不起的-Chrome-浏览器：Chrome-89-开启-Web-应用的物联网时代](https://toutiao.io/k/bqnhl3x) ![](assets/new.png)  
 - [2021-03-15-代码审查：从-ArrayList-说线程安全](https://toutiao.io/k/rime52z) ![](assets/new.png)  
+- [2021-03-15-了不起的-Chrome-浏览器：Chrome-89-开启-Web-应用的物联网时代](https://toutiao.io/k/bqnhl3x) ![](assets/new.png)  
 - [2021-03-15-从宇宙大尺度结构到胎心监测，从手机消息推送到物联网大数据处理：跨界是创新的主要源泉](https://toutiao.io/k/yxagicd) ![](assets/new.png)  
 - [2021-03-15-优秀开源框架就一定靠谱么？五招助你驾驭源代码](https://toutiao.io/k/wqegdp6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

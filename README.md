@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-15 10:09:54，:rocket: 更新条数: +4039， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-15 10:34:32，:rocket: 更新条数: +4141， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -54,7 +54,7 @@
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
-- [安全热点](#安全热点)  
+- [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
@@ -66,6 +66,7 @@
 
 
 - [2021-03-15-3月14日全国新增新冠5例-均由境外输入](https://m.caixin.com/m/2021-03-15/101675118.html) ![](assets/new.png)  
+- [2021-03-15-香港放宽优先接种疫苗群体至30岁以上-可接种人群扩大至550万](https://m.caixin.com/m/2021-03-15/101675542.html) ![](assets/new.png)  
 - [2021-03-15-解药|住院死亡风险降低87%-中和抗体抗新冠前景如何？](https://m.caixin.com/m/2021-03-15/101675161.html) ![](assets/new.png)  
 - [2021-03-15-【境内疫情观察】全国新增5例境外输入病例（3月14日）](http://m.database.caixin.com/m/2021-03-15/101675369.html) ![](assets/new.png)  
 - [2021-03-15-多国发现新型变异病毒-强生疫苗纳入世卫紧急使用清单|大流行手记（3月14日）](https://m.caixin.com/m/2021-03-15/101675115.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-03-11-韩国多例接种首剂疫苗者感染新冠-贫困国家疫苗严重短缺｜大流行手记（3月10日）](https://m.caixin.com/m/2021-03-11/101673729.html) ![](assets/new.png)  
 - [2021-03-10-【境内疫情观察】全国本土无症状感染者清零（3月9日）](http://m.database.caixin.com/m/2021-03-10/101673443.html) ![](assets/new.png)  
 - [2021-03-10-泰国推出“数字游艇隔离”-欧盟二季度将接收3亿剂疫苗｜大流行手记（3月9日）](https://m.caixin.com/m/2021-03-10/101673243.html) ![](assets/new.png)  
-- [2021-03-10-新冠变异毒株逃逸治疗-何大一团队推出抗体“鸡尾酒疗法”](https://m.caixin.com/m/2021-03-10/101673627.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,11 @@
 </summary>
 
 
+- [2021-03-15-win10-杀掉后台进程](https://www.v2ex.com/t/761857) ![](assets/new.png)  
+- [2021-03-15-感觉很无力](https://www.v2ex.com/t/761856) ![](assets/new.png)  
+- [2021-03-15-北京/上海/深圳瓜瓜龙启蒙，自己所在团队直招，非常缺人，团队翻倍（Android/IOS）](https://www.v2ex.com/t/761855) ![](assets/new.png)  
+- [2021-03-15-低代码有行业限制吗？适合哪些行业？](https://www.v2ex.com/t/761854) ![](assets/new.png)  
+- [2021-03-15-网页如何与-Chrome-扩展进行通信呢？](https://www.v2ex.com/t/761853) ![](assets/new.png)  
 - [2021-03-15-20k-40k-杭州有赞招前端工程师，-Java-工程师](https://www.v2ex.com/t/761852) ![](assets/new.png)  
 - [2021-03-15-M1-MacBook-Pro-系统最近几次无反应，问题报告附上，大家来分析分析](https://www.v2ex.com/t/761850) ![](assets/new.png)  
 - [2021-03-15-字节跳到-内推.-PreK-教育招各个级别-初/中/高/资深-Android/IOS/前端工程师-Leader-岗位也有](https://www.v2ex.com/t/761849) ![](assets/new.png)  
@@ -1011,11 +1016,6 @@
 - [2021-03-15-Big-sur-每次升级小版本，-git-环境就会消失。需要运行-xcode-select---install-重新安装](https://www.v2ex.com/t/761836) ![](assets/new.png)  
 - [2021-03-15-android-如何实现-webview-通过代理访问网络](https://www.v2ex.com/t/761835) ![](assets/new.png)  
 - [2021-03-15-求职-广深/远程-5-年后端开发，-Node.js-+-Go](https://www.v2ex.com/t/761830) ![](assets/new.png)  
-- [2021-03-15-如何看待-swoole-团队反对-PHP-fiber?](https://www.v2ex.com/t/761829) ![](assets/new.png)  
-- [2021-03-15-可以买个-8+256G-的-m1-mac-mini，之后把系统装在-USB-转接出来的-NVMe-SSD-上吗](https://www.v2ex.com/t/761828) ![](assets/new.png)  
-- [2021-03-15-微软拼音输入法里面的表情包有办法关掉吗](https://www.v2ex.com/t/761827) ![](assets/new.png)  
-- [2021-03-15-育碧成都-内推-Tool-Programmer-工具程序员](https://www.v2ex.com/t/761825) ![](assets/new.png)  
-- [2021-03-15-使用-Chrome-on-Android-打开-V2EX-时，为什么状态栏会变成黑色？](https://www.v2ex.com/t/761824) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1070,8 +1070,8 @@
 - [2021-03-15-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
 - [2021-03-15-X-Meetup丨『高质量、高并发的实时通信架构设计与探索』重庆站火热报名中……](https://toutiao.io/k/xasnv77) ![](assets/new.png)  
 - [2021-03-15-漫谈分布式系统（二十五）：另辟蹊径的-Kylin](https://toutiao.io/k/9vt2dic) ![](assets/new.png)  
-- [2021-03-15-联合国新闻专访颜宁：科学无性别，勇敢做自己](https://toutiao.io/k/gcovkw2) ![](assets/new.png)  
 - [2021-03-15-一道面试题让你更加了解事件队列](https://toutiao.io/k/5r4yur7) ![](assets/new.png)  
+- [2021-03-15-联合国新闻专访颜宁：科学无性别，勇敢做自己](https://toutiao.io/k/gcovkw2) ![](assets/new.png)  
 - [2021-03-15-代码审查：从-ArrayList-说线程安全](https://toutiao.io/k/rime52z) ![](assets/new.png)  
 - [2021-03-15-看这里！鹅厂大佬深度解析-Apache-Pulsar-五大应用场景](https://toutiao.io/k/ptznfju) ![](assets/new.png)  
 - [2021-03-15-监控全覆盖，接入只需-5-分钟：爱奇艺内容中台基于-CAT-的服务监控实践](https://toutiao.io/k/bh0anxp) ![](assets/new.png)  
@@ -1089,6 +1089,26 @@
 </summary>
 
 
+- [2021-03-15-DSRC2021年度奖励升级-&-第一季度奖励公告](https://sec.thief.one/article_content?a_id=1b8a583bc0f98e915afa3042641c16b5) ![](assets/new.png)  
+- [2021-03-15-Chrome-UAF漏洞模式浅析三:unique-key容器emplace重复key](https://sec.thief.one/article_content?a_id=6ef1c4998cf777364f5e4338271fef24) ![](assets/new.png)  
+- [2021-03-15-Chrome被控隐身模式下仍然追踪用户](https://sec.thief.one/article_content?a_id=e86e1de65938bcb640a708562e6c7e56) ![](assets/new.png)  
+- [2021-03-15-速来|ISACA-CDPSE证书早期免考申请报名即将截止](https://sec.thief.one/article_content?a_id=4fbae4d9ea1587fdb5707524ce480d51) ![](assets/new.png)  
+- [2021-03-15-字节跳动安全与风控春招来啦!](https://sec.thief.one/article_content?a_id=366a6f96f9d50510dc4b054f93dd45b2) ![](assets/new.png)  
+- [2021-03-15-实战-|-记一次靶场内网渗透五](https://sec.thief.one/article_content?a_id=e08a7002f8767a5f4c0cda1f60d31d2f) ![](assets/new.png)  
+- [2021-03-15-【风险提示】天融信关于XStream多个高危漏洞风险提示](https://sec.thief.one/article_content?a_id=2d481edaca3b88d94261c39607ddd5f0) ![](assets/new.png)  
+- [2021-03-15-中央网信办所属部分在京事业单位2021年度公开招聘资格复审和面试通...](https://sec.thief.one/article_content?a_id=29b2a998ba495d157ad976f9681c3e10) ![](assets/new.png)  
+- [2021-03-15-喜报:「华云安」完成数千万元A轮融资](https://sec.thief.one/article_content?a_id=0b04f3c0b86c806e3a56229e1b7d7c96) ![](assets/new.png)  
+- [2021-03-15-黑客发送假冒邮件试图让安全公司将其恶意软件加白名单](https://sec.thief.one/article_content?a_id=6f45ccc13fc5d78f95c891dd9245f963) ![](assets/new.png)  
+- [2021-03-15-雷神众测漏洞周报2021.03.08-2021.03.14-4](https://sec.thief.one/article_content?a_id=efa42747c46b4340b076e6025c3a579f) ![](assets/new.png)  
+- [2021-03-15-针对M1芯片的Mac恶意软件XCSSET发生新变种](https://sec.thief.one/article_content?a_id=f7b0a115364b59b2ffd78cb368e2ec81) ![](assets/new.png)  
+- [2021-03-15-感谢信-|-国舜股份攻防能力获南方电网认可](https://sec.thief.one/article_content?a_id=01429e826ddc10b2cb8ca90ad2ecc32c) ![](assets/new.png)  
+- [2021-03-15-Buterin帮助制定防御针对以太坊的51%攻击的战略](https://sec.thief.one/article_content?a_id=9ce83f731a7fb8d2c253cbf2a8f6886d) ![](assets/new.png)  
+- [2021-03-15-3月15日贵币GUIBI早内参-比特币总市值已超加元货币供应量M1,以太...](https://sec.thief.one/article_content?a_id=0a1881af3628045dd0db937a814e7e79) ![](assets/new.png)  
+- [2021-03-15-Microsoft-Exchange-ProxyLogon-PoC漏洞利用公布](https://sec.thief.one/article_content?a_id=7d0e647da8fa339d3529900155dad8d7) ![](assets/new.png)  
+- [2021-03-15-“两个历史时期”血脉相连](https://sec.thief.one/article_content?a_id=8bf592a9ac49ce1366a21388629f932b) ![](assets/new.png)  
+- [2021-03-15-对某OA系统后台的一次sql注入漏洞挖掘](https://sec.thief.one/article_content?a_id=79e26ec08c36d58522166a0616ec6413) ![](assets/new.png)  
+- [2021-03-15-恶意软件新王:TrickBot](https://sec.thief.one/article_content?a_id=521882004a008653949a862935570316) ![](assets/new.png)  
+- [2021-03-15-《个人健康信息码-参考模型》全文](https://sec.thief.one/article_content?a_id=e64a1d1423b7761cc73ed7fb12f05c9a) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

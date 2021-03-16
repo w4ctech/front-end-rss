@@ -20445,58 +20445,18 @@
         "date": "2021-03-16"
       },
       {
-        "title": "[推荐] 21 大软件架构特点的全面解析",
-        "link": "https://toutiao.io/k/2n0entj",
+        "title": "[推荐] 做一个很出色的程序员",
+        "link": "https://toutiao.io/k/g6xlwp2",
         "date": "2021-03-16"
       },
       {
-        "title": "[推荐] Golang 性能诊断看这篇就够了",
-        "link": "https://toutiao.io/k/3loin1u",
+        "title": "[推荐] Redis 专题：深入解读哨兵模式",
+        "link": "https://toutiao.io/k/tm4wyb0",
         "date": "2021-03-16"
       },
       {
-        "title": "[推荐] 高并发系统的限流策略：漏桶和令牌桶（附源码剖析）",
-        "link": "https://toutiao.io/k/x6ro69m",
-        "date": "2021-03-16"
-      },
-      {
-        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
-        "link": "https://toutiao.io/k/mzszqf0",
-        "date": "2021-03-16"
-      },
-      {
-        "title": "[推荐] 从技术专家到技术管理，我对管理的思考",
-        "link": "https://toutiao.io/k/r5kgujp",
-        "date": "2021-03-16"
-      },
-      {
-        "title": "[推荐] 聊聊 IT 技术人的知识体系",
-        "link": "https://toutiao.io/k/vmimc5g",
-        "date": "2021-03-16"
-      },
-      {
-        "title": "[推荐] Tomcat 性能调优应该注意什么？",
-        "link": "https://toutiao.io/k/kldrkzc",
-        "date": "2021-03-16"
-      },
-      {
-        "title": "[推荐] Redis 教程：Redis 知识体系详解",
-        "link": "https://toutiao.io/k/av396i0",
-        "date": "2021-03-16"
-      },
-      {
-        "title": "[推荐] 2021 有哪些不容错过的后端技术趋势",
-        "link": "https://toutiao.io/k/e3lq37o",
-        "date": "2021-03-16"
-      },
-      {
-        "title": "[推荐] 内存管理设计精要",
-        "link": "https://toutiao.io/k/4f2u3c5",
-        "date": "2021-03-16"
-      },
-      {
-        "title": "[推荐] 这几款 JVM 故障诊断处理工具你还不会？",
-        "link": "https://toutiao.io/k/dux0ogl",
+        "title": "[推荐] 面试被吊打：Redis 原理",
+        "link": "https://toutiao.io/k/pmxukkm",
         "date": "2021-03-16"
       },
       {
@@ -20505,13 +20465,53 @@
         "date": "2021-03-16"
       },
       {
-        "title": "[推荐] 去哪里找 Java 练手项目？",
-        "link": "https://toutiao.io/k/qh7wgrx",
+        "title": "[推荐] [译] 构建微服务的十大 Go 框架/库",
+        "link": "https://toutiao.io/k/44rsmt3",
         "date": "2021-03-16"
       },
       {
-        "title": "[推荐] 快手超大规模集群调度优化实践",
-        "link": "https://toutiao.io/k/671eano",
+        "title": "[推荐] 内存管理设计精要",
+        "link": "https://toutiao.io/k/4f2u3c5",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "[推荐] 2021 阿里淘系工程师推荐书单",
+        "link": "https://toutiao.io/k/txzl2gg",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "[推荐] 副业刚需：在 GitHub 上也能年入百万？",
+        "link": "https://toutiao.io/k/r9tqaw3",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "[推荐] 从技术专家到技术管理，我对管理的思考",
+        "link": "https://toutiao.io/k/r5kgujp",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
+        "link": "https://toutiao.io/k/mzszqf0",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
+        "link": "https://toutiao.io/k/yduqoev",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "[推荐] 2021 有哪些不容错过的后端技术趋势",
+        "link": "https://toutiao.io/k/e3lq37o",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "[推荐] 21 大软件架构特点的全面解析",
+        "link": "https://toutiao.io/k/2n0entj",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "[推荐] MySQL 索引从基础到原理，看这一篇就够了",
+        "link": "https://toutiao.io/k/hueiax0",
         "date": "2021-03-16"
       }
     ]

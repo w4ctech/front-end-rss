@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-16 08:45:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-16 08:55:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2021-03-13-Chrome-89-新功能一览，性能提升明显，大量-DevTools-新特性！](https://www.ershicimi.com/p/ae968d313b06723a82c785b190ce71f3) 
 - [2020-10-29-如何从-0-到-1-搭建性能检测系统修正版](https://www.ershicimi.com/p/caf97cfac5fe753a40ff1f199bf6abfe) 
 - [2021-03-04-如何编写神奇的「插件机制」，优化基于-Antd-Table-封装表格的混乱代码](https://www.ershicimi.com/p/a57d1f4c1aa7aa3139593df6b59f94c9) 
@@ -14,3 +15,4 @@
 - [2021-02-22-熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2021-03-16-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) 
+- [2021-03-16-推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) 

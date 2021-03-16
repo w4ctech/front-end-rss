@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-16 10:09:22，:rocket: 更新条数: +4171， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-16 10:34:58，:rocket: 更新条数: +4151， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -96,8 +96,6 @@
 </summary>
 
 
-- [2021-03-16-黑龙江｜绥化市望奎县继续实施分级管控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZIED9skYVOUOgddKXVek210316&isfromapp=1) ![](assets/new.png)  
-- [2021-03-16-全国｜新增确诊病例-13-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif1QiMNf8mYpBnJpjisyQ210316&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1014,15 @@
 </summary>
 
 
+- [2021-03-16-《推杯唤斩》第-009-期-磨栏风车知多少](https://www.v2ex.com/t/762220) ![](assets/new.png)  
+- [2021-03-16-Shadowrocket-经常自动断开怎么办？](https://www.v2ex.com/t/762219) ![](assets/new.png)  
+- [2021-03-16-分享一次墙外大量文件到墙内的经历](https://www.v2ex.com/t/762218) ![](assets/new.png)  
+- [2021-03-16-家里-openvpn-外网无法连接](https://www.v2ex.com/t/762217) ![](assets/new.png)  
+- [2021-03-16-两位-97-年的大佬，为何小姐姐更胜一筹呢？](https://www.v2ex.com/t/762215) ![](assets/new.png)  
+- [2021-03-16-请教一个奇怪的-ffmpeg-Not-a-video-capture-device.的错误](https://www.v2ex.com/t/762214) ![](assets/new.png)  
+- [2021-03-16-IDE-怎么同时高亮多个变量，进行跟踪，比如-Goland、IDEA-等工具？](https://www.v2ex.com/t/762213) ![](assets/new.png)  
+- [2021-03-16-请问关于家里网络的问题。](https://www.v2ex.com/t/762212) ![](assets/new.png)  
+- [2021-03-16-国产-App-为什么体积这么大](https://www.v2ex.com/t/762211) ![](assets/new.png)  
 - [2021-03-16-最近拿了个-offer-在深圳朝-9.5-晚-6.5-双休-15k-iOS-开发-算低吗](https://www.v2ex.com/t/762210) ![](assets/new.png)  
 - [2021-03-16-windows-端有咩有这样的微信拓展插件？](https://www.v2ex.com/t/762209) ![](assets/new.png)  
 - [2021-03-16-被淘宝买家恶意投诉，骗保证金。向淘宝申诉被驳回，怎么办？](https://www.v2ex.com/t/762208) ![](assets/new.png)  
@@ -1027,15 +1034,6 @@
 - [2021-03-16-字节跳动飞书服务端架构团队招聘](https://www.v2ex.com/t/762200) ![](assets/new.png)  
 - [2021-03-16-成都求职-Web-前端](https://www.v2ex.com/t/762199) ![](assets/new.png)  
 - [2021-03-16-大家如何解决云服务器上连接各大代码仓库太慢的问题的](https://www.v2ex.com/t/762198) ![](assets/new.png)  
-- [2021-03-16-wordpress-国内网速慢加速及防-DDOS-攻击快速-CF-切换教程](https://www.v2ex.com/t/762197) ![](assets/new.png)  
-- [2021-03-16-mongodb-是不是不适合搜索逻辑复杂且不固定的场景？](https://www.v2ex.com/t/762196) ![](assets/new.png)  
-- [2021-03-16-分享一个自用的傻瓜-lol-小蜜蜂代币脚本](https://www.v2ex.com/t/762195) ![](assets/new.png)  
-- [2021-03-16-多对多关系有不用一张新表表示关联关系的么？-比如学生和选修课-建一张学生表，一张选修课表，然后在学生字段加了一个数组字段，存储选修课的-id](https://www.v2ex.com/t/762194) ![](assets/new.png)  
-- [2021-03-16-关于在某些板块被降权了的话，导致发帖不显示了](https://www.v2ex.com/t/762193) ![](assets/new.png)  
-- [2021-03-16-有没有快手海外设计组的大神啊，拿了-offer，在纠结~](https://www.v2ex.com/t/762191) ![](assets/new.png)  
-- [2021-03-16-一键自签本地-TLSv3-多域名-SAN-域名证书工具-HTTPS最新版-Chrome-浏览器策略测试通过](https://www.v2ex.com/t/762189) ![](assets/new.png)  
-- [2021-03-16-想问一下兄弟们，-xr-国行-64g-电池-92%-月底过保成色很新基本无划痕，现在能出多少？](https://www.v2ex.com/t/762188) ![](assets/new.png)  
-- [2021-03-16-一个面向个体的轻社区，想听听大家的意见。](https://www.v2ex.com/t/762187) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,26 +1045,6 @@
 </summary>
 
 
-- [2021-03-16-软件匠艺-teobler.com](https://blogread.cn/news/go.php?idItem=14214&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210314-software-craftsmanship%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-一文说透依赖注入-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dependency-injection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-为什么-Activity.finish-之后-10s-才-onDestroy-？我蒙蔽了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14212&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff30oh8781IYj2Rdq8UJfUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-华为高管再放狠话：鸿蒙不是安卓、iOS-的拷贝！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14211&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaiToCRUMtTz4BODqDGayuw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-鸿蒙开发初体验-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14210&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYBHOTtLjp7PuIGh5k0fnTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-阿里平头哥成功将-Android-10-移植到-RISC-V-架构上-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14209&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FShmgLyQnwuzEmO_OuNh7MA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-PanDownload-复活了！60MB/s！附下载地址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14208&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwi4cVwqkHO_kwZFBuFfAPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-绝了！搜狗输入法这骚操作！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14207&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfG6Nx8JAnajo7arkb9IqGA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-为什么黑客从不用鼠标，一直在敲键盘？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14206&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Frvd2wYnuVI-E2spLMmEgMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-微软将允许员工永久性远程办公-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14205&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5OEv52xLT6ZOCqZD2uvrzA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-某度搜索，有点黄~~~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14204&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Aqjl5qf4l4pLisOauSF1g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-成为最差前端开发的-10-个建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14203&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FagGvCPDpM9tFzzgRrCPFog%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-乔布斯的这-3-个故事依然激励着我-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14202&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZHR_J2ghXIb2TCfV7w_Hng%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-假如现在你有30分钟，你会做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14201&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdaily-time-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-【白话科普】CDN-&-游戏加速器，两者是一个原理吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14200&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F355985175%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-使用不多但又十分重要的：风控策略-www.woshipm.com](https://blogread.cn/news/go.php?idItem=14199&url=http%3A%2F%2Fwww.woshipm.com%2Fzhichang%2F1682661.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-全链路风控解决方案深度解读-segmentfault.com](https://blogread.cn/news/go.php?idItem=14197&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000020535780%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-京东集团的风控实践-www.infoq.cn](https://blogread.cn/news/go.php?idItem=14196&url=https%3A%2F%2Fwww.infoq.cn%2Farticle%2Fgr8q8d8cazjx3z8giar2%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-16-复杂风控场景下，如何打造一款高效的规则引擎-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14195&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F05%2F14%2Fmeituan-security-zeus.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,6 +1087,17 @@
 </summary>
 
 
+- [2021-03-16-春日招聘|网易、小米十个岗位热招中](https://sec.thief.one/article_content?a_id=12def8655a36ed5a97d1f4a334c533a6) ![](assets/new.png)  
+- [2021-03-16-【安全头条】比特币飙升显卡陪跑,限速被破或再临涨价潮](https://sec.thief.one/article_content?a_id=e7e944d4f00376c121a4614f135d9361) ![](assets/new.png)  
+- [2021-03-16-干货-|GitHUB安全搬运工-七](https://sec.thief.one/article_content?a_id=b71041c296b9c5f70842fd0c1cb3f498) ![](assets/new.png)  
+- [2021-03-16-703亿次抖音春晚红包背后的故事](https://sec.thief.one/article_content?a_id=bfef5efcc5366104cef976688bc7d971) ![](assets/new.png)  
+- [2021-03-16-信息安全漏洞周报2021年第11期](https://sec.thief.one/article_content?a_id=3d42e7d45cff2fe0f1fff99ddca7585d) ![](assets/new.png)  
+- [2021-03-16-谷歌、苹果、微软纷纷禁用它,第三方Cookie该何去何从?](https://sec.thief.one/article_content?a_id=1cb65c989974d605194a718f53102a7b) ![](assets/new.png)  
+- [2021-03-16-安全资讯|-Microsoft-365服务中断,可能影响全球用户!](https://sec.thief.one/article_content?a_id=7d810a0ff506eaebfe8e4f68bafe48cb) ![](assets/new.png)  
+- [2021-03-16-2021年2月份奖励公告](https://sec.thief.one/article_content?a_id=f3d7d66c1acff471002b27eb966b920e) ![](assets/new.png)  
+- [2021-03-16-信安十年,进入人生下一个阶段](https://sec.thief.one/article_content?a_id=3fffbcef7314e3b87aa1dc25251fe7f6) ![](assets/new.png)  
+- [2021-03-16-蓝队防守必须排查的57个安全漏洞与解决方案](https://sec.thief.one/article_content?a_id=4e21ce9f414fda5ee1f6e3b7fe68b00d) ![](assets/new.png)  
+- [2021-03-16-3月16日贵币GUIBI早内参-马斯克将职位头衔改为“特斯拉电音之王”...](https://sec.thief.one/article_content?a_id=859a68cf6c81ac6e357c0601c2b90dae) ![](assets/new.png)  
 - [2021-03-16-从网络空间国际准则看国际关键信息基础设施保护及启示建议](https://sec.thief.one/article_content?a_id=4ccae9bf2f597a0ec2dd2c65b00579e1) ![](assets/new.png)  
 - [2021-03-16-快快看过来!Microsoft-Exchange-Server漏洞迄今为止最全面的修复信...](https://sec.thief.one/article_content?a_id=a76c68e38f485a538bb6fd746b7a955b) ![](assets/new.png)  
 - [2021-03-16-《网络交易监督管理办法》全文及答记者问](https://sec.thief.one/article_content?a_id=9c2f950f3acfcd28fa0f826ccddd9166) ![](assets/new.png)  
@@ -1118,17 +1107,6 @@
 - [2021-03-16-巧用SSH转发功能深入穿透内网](https://sec.thief.one/article_content?a_id=dbd9a040ffe3a0b75f43641e9be0b1e0) ![](assets/new.png)  
 - [2021-03-16-五家中国科技公司被拜登政府列入“国家安全威胁清单”](https://sec.thief.one/article_content?a_id=6f2f8ef061aa8272ee20198fc3627e77) ![](assets/new.png)  
 - [2021-03-16-交易所利用勒索软件所获收入激增6倍](https://sec.thief.one/article_content?a_id=401cd8baf7bd83c39bbc927fc4508f90) ![](assets/new.png)  
-- [2021-03-16-自己动手编写远控工具及检测思路](https://sec.thief.one/article_content?a_id=12e90712f4267689191ce692c0734c4a) ![](assets/new.png)  
-- [2021-03-16-教你一招!如何用-Python-实现-QQ-消息自动回复?](https://sec.thief.one/article_content?a_id=f3030212e847a68d2e5909b48fa994df) ![](assets/new.png)  
-- [2021-03-16-漫画:为什么程序猿-996-会猝死,而企业家-007-却不会?](https://sec.thief.one/article_content?a_id=6051f900f9c76a58c124245ae09f4a46) ![](assets/new.png)  
-- [2021-03-16-建设世界科技强国,总书记发出“动员令”](https://sec.thief.one/article_content?a_id=610a84b569e4ca7fc95c0a0bc1813a03) ![](assets/new.png)  
-- [2021-03-16-数百万网站瘫痪,因一云服务公司火灾!网友:担心游戏装备丢失...](https://sec.thief.one/article_content?a_id=2c0452583867fc209a52249af81ffdd5) ![](assets/new.png)  
-- [2021-03-16-网安杂谈收藏夹2021.3.16](https://sec.thief.one/article_content?a_id=bb1576f4bf518d41a5f642b477727fd4) ![](assets/new.png)  
-- [2021-03-15-【漏洞通告】XStream多个漏洞通告](https://sec.thief.one/article_content?a_id=b09a63119e8e559dc1a9c5a060469ea6) ![](assets/new.png)  
-- [2021-03-15-央视曝光360搜索违规投放造假医疗广告](https://sec.thief.one/article_content?a_id=30c1a31970afbcafd18e672d7866f104) ![](assets/new.png)  
-- [2021-03-15-【安全圈】黑客用Exchange-Server漏洞植入勒索软件](https://sec.thief.one/article_content?a_id=9006fd469a3ab5ebe3f1b87357b0d28e) ![](assets/new.png)  
-- [2021-03-15-XStream-多个高危漏洞](https://sec.thief.one/article_content?a_id=221c9c7fe295d93c9de661f6412e22bb) ![](assets/new.png)  
-- [2021-03-15-分析了那么多攻击队样本,你知道TA的终极价值吗?内含福利](https://sec.thief.one/article_content?a_id=6ca2eeaca2fff2d12564df516d707bf5) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

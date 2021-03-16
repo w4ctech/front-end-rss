@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-16 06:46:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-16 06:57:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,7 +36,9 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-03-16-怎么取消-Edge-浏览器开发者工具的快捷关闭](https://www.v2ex.com/t/762131) 
 - [2021-03-16-PHP-远程调试最佳实践](https://toutiao.io/k/bwryqwa) 
+- [2021-03-16-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
 - [2021-03-16-五家中国科技公司被拜登政府列入“国家安全威胁清单”](https://sec.thief.one/article_content?a_id=6f2f8ef061aa8272ee20198fc3627e77) 
 - [2021-03-15-【安全圈】黑客用Exchange-Server漏洞植入勒索软件](https://sec.thief.one/article_content?a_id=9006fd469a3ab5ebe3f1b87357b0d28e) 
 - [2021-03-15-【安全热点周报】第185期:微软3月补丁日多产品高危漏洞细节已公开](https://sec.thief.one/article_content?a_id=ad986f040a8f941d537c9fe3e97196f9) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-16 14:10:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-16 14:37:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,8 +25,9 @@
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-03-16-Microsoft-Edge-的竖直标签下已经可以隐藏标题栏了](https://www.v2ex.com/t/762269) 
+- [2021-03-16-Microsoft-Edge-的竖直标签下已经可以隐藏标题栏了Canary](https://www.v2ex.com/t/762269) 
 - [2021-03-16-IOS-端有没有能屏蔽-chrome-浏览器广告的-APP？](https://www.v2ex.com/t/762250) 
+- [2021-03-16-PHP-远程调试最佳实践](https://toutiao.io/k/bwryqwa) 
 - [2021-03-16-【安全头条】比特币飙升显卡陪跑,限速被破或再临涨价潮](https://sec.thief.one/article_content?a_id=e7e944d4f00376c121a4614f135d9361) 
 - [2021-03-16-干货-|GitHUB安全搬运工-七](https://sec.thief.one/article_content?a_id=b71041c296b9c5f70842fd0c1cb3f498) 
 - [2021-03-16-信息安全漏洞周报2021年第11期](https://sec.thief.one/article_content?a_id=3d42e7d45cff2fe0f1fff99ddca7585d) 

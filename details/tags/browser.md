@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-16 00:10:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-16 00:17:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,11 +38,15 @@
 - [2021-03-15-再谈安全开发](https://www.v2ex.com/t/761919) 
 - [2021-03-15-chrome-书签栏右侧的「阅读清单」按钮有办法关闭吗？](https://www.v2ex.com/t/761901) 
 - [2021-03-16-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-03-16-代码审查：从-ArrayList-说线程安全](https://toutiao.io/k/rime52z) 
-- [2021-03-16-了不起的-Chrome-浏览器：Chrome-89-开启-Web-应用的物联网时代](https://toutiao.io/k/bqnhl3x) 
 - [2021-03-16-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
+- [2021-03-15-【安全圈】黑客用Exchange-Server漏洞植入勒索软件](https://sec.thief.one/article_content?a_id=9006fd469a3ab5ebe3f1b87357b0d28e) 
+- [2021-03-15-【安全热点周报】第185期:微软3月补丁日多产品高危漏洞细节已公开](https://sec.thief.one/article_content?a_id=ad986f040a8f941d537c9fe3e97196f9) 
+- [2021-03-15-从国家“十四五”规划纲要看网络安全发展趋势](https://sec.thief.one/article_content?a_id=cad075ae073d4c22f3052d1fbc8137f0) 
+- [2021-03-15-安全研究-|-如何查看GitLab中的共享敏感数据](https://sec.thief.one/article_content?a_id=25c253da38a5685b406ef90bcb1d0b47) 
+- [2021-03-15-春日招聘|携程招聘安全人才](https://sec.thief.one/article_content?a_id=4be25cfe05e5f4f50dd8971355b9224c) 
 - [2021-03-15-Chrome-UAF漏洞模式浅析三:unique-key容器emplace重复key](https://sec.thief.one/article_content?a_id=6ef1c4998cf777364f5e4338271fef24) 
 - [2021-03-15-Chrome被控隐身模式下仍然追踪用户](https://sec.thief.one/article_content?a_id=e86e1de65938bcb640a708562e6c7e56) 
+- [2021-03-15-智能安全运营“预备翼”|浅谈知识图谱技术如何赋能智能安全运营](https://sec.thief.one/article_content?a_id=53896103af876191840e9da1a5f0a955) 
 - [2021-03-15-字节跳动安全与风控春招来啦!](https://sec.thief.one/article_content?a_id=366a6f96f9d50510dc4b054f93dd45b2) 
 - [2021-03-15-黑客发送假冒邮件试图让安全公司将其恶意软件加白名单](https://sec.thief.one/article_content?a_id=6f45ccc13fc5d78f95c891dd9245f963) 
 - [2021-03-15-远程工作的增加导致IT安全漏洞的增加](https://sec.thief.one/article_content?a_id=b5ba44db071ff84b50d1a0488d3fd8a4) 
@@ -57,6 +61,3 @@
 - [2021-03-12-奇安信顺利完成2021全国“两会”网络安全保障工作](https://sec.thief.one/article_content?a_id=16b6dc5693e0c66f6e3bb7766d3eb5ea) 
 - [2021-03-12-首个基于浏览器的旁道攻击,苹果M1、因特尔、AMD等芯片均沦陷](https://sec.thief.one/article_content?a_id=c0fc482b1bcca20eec390df761758649) 
 - [2021-03-12-网络安全头部企业亚信安全终于申报IPO科创板](https://sec.thief.one/article_content?a_id=49063dcf1f99f7792a316992a0fdb5f0) 
-- [2021-03-12-POC-|-悬镜安全:新一代代码灰盒安全测试](https://sec.thief.one/article_content?a_id=9bb5bf66f2e6b0bac37ef8564e38c850) 
-- [2021-03-12-春日招聘|58同城、微民保险招聘安全工程师](https://sec.thief.one/article_content?a_id=c680e598ac9f7caa2f8fd58acc332658) 
-- [2021-03-12-#植树节#种一颗树最好的时间是十年前,其次是现在;培养信息安全习...](https://sec.thief.one/article_content?a_id=4b0166571b3072bb418b48c92a642f59) 

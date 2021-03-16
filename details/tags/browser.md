@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-16 10:34:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-16 10:44:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,17 +28,14 @@
 - [2021-03-14-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/256db53e1130ad8bbf89b49547f47cb8) 
 - [2021-03-09-那些与-IE-相伴的日子](https://www.ershicimi.com/p/d9c911d3c0835bf8f9743b70add1478c) 
 - [2021-03-05-酷炫！巧用--webkit-box-reflect-倒影实现各类动效](https://www.ershicimi.com/p/409aca96cca68aa8e7ade98b2e0bbf34) 
-- [2021-03-07-这些鲜为人知的前端冷知识，你都GET了吗？](https://www.ershicimi.com/p/4d4a34b4b7d3b122e5a10567066636db) 
 - [2021-02-21-前端-Code-Review-的最佳实践方案](https://www.ershicimi.com/p/8f4c1fb010cc20a0ff64f60686f02d5b) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
-- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-16-一键自签本地-TLSv3-多域名-SAN-域名证书工具-HTTPS最新版-Chrome-浏览器策略测试通过](https://www.v2ex.com/t/762189) 
 - [2021-03-16-chrome-的书签崩溃如何解决？](https://www.v2ex.com/t/762184) 
 - [2021-03-16-PHP-远程调试最佳实践](https://toutiao.io/k/bwryqwa) 
+- [2021-03-16-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
 - [2021-03-16-【安全头条】比特币飙升显卡陪跑,限速被破或再临涨价潮](https://sec.thief.one/article_content?a_id=e7e944d4f00376c121a4614f135d9361) 
 - [2021-03-16-干货-|GitHUB安全搬运工-七](https://sec.thief.one/article_content?a_id=b71041c296b9c5f70842fd0c1cb3f498) 
 - [2021-03-16-信息安全漏洞周报2021年第11期](https://sec.thief.one/article_content?a_id=3d42e7d45cff2fe0f1fff99ddca7585d) 

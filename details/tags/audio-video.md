@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-16 10:34:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-16 10:44:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -84,10 +84,5 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2021-03-12-字节跳动、美团、阿里等国内大公司的-200+-技术干货视频，任你选-|-活动推荐](https://www.ershicimi.com/p/2aff6bd68b5bffede3f84395069e1105) 
-- [2021-03-15-又到315，实时音视频行业“入学避坑”测试题出炉了](https://www.ershicimi.com/p/c04ad5cc7688df7d0375580cb1715aaf) 
-- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
-- [2021-03-11-有奖｜晒居家整理视频，瓜分万元现金奖励](https://www.ershicimi.com/p/e1b8f95401f47fc9ec9962cd403d7fa2) 
 - [2021-03-16-请教一个奇怪的-ffmpeg-Not-a-video-capture-device.的错误](https://www.v2ex.com/t/762214) 
-- [2021-03-16-App-Store-新增了-HDR-规格的展示视频](https://www.v2ex.com/t/762175) 
-- [2021-03-16-专利技术-----视频贴片广告的替代者：验证码广告](https://www.v2ex.com/t/762174) 
 - [2021-03-01-【直播报名】物联网数据4.0时代，企业还有哪些新的存储需求？](https://www.ershicimi.com/p/38cd58ec7eba50794e472b524952553c) 

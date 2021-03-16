@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-16 05:41:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-16 05:51:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-03-15-【招聘】阿里大文娱招高级前端开发/技术专家](https://www.ershicimi.com/p/86233692af31dc54f76f460672fde0e1) 
 - [2021-03-14-【招聘】字节飞书增长与平台团队招高级、资深前后端工程师](https://www.ershicimi.com/p/9919493d554ee89586cf8c4cd131056e) 
 - [2021-03-13-【招聘】腾讯VTeam技术团队招前端、应用、后台开发工程师](https://www.ershicimi.com/p/92a79306c4c3ecbda8929a18a6b35a44) 
@@ -33,7 +32,7 @@
 - [2021-02-02-《-2020-互联网人才招聘白皮书》出路，2021最热门职位是？](https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195) 
 - [2021-03-16-福利-2022-届网易实习生招聘内推福利，需要的-v-友自取。](https://www.v2ex.com/t/762074) 
 - [2021-03-16-面试官：啥？SynchronousQueue-是钟？点？房？](https://toutiao.io/k/tsohi4b) 
-- [2021-03-16-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) 
+- [2021-03-16-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) 
 - [2021-03-15-中央网信办所属部分在京事业单位2021年度公开招聘资格复审和面试通...](https://sec.thief.one/article_content?a_id=29b2a998ba495d157ad976f9681c3e10) 
 - [2021-03-15-面试常问!!TCP-的三次握手与四次挥手理解](https://sec.thief.one/article_content?a_id=6ba2cf28d54ec2e7b9faeae7bad5f4a0) 
 - [2021-03-14-面试官问:如何设计一个基于token的多平台身份认证系统](https://sec.thief.one/article_content?a_id=81f43dc61990b2b256aa950d0c6edc4a) 

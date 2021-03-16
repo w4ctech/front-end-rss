@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-16 07:04:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-16 07:08:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-03-15-【招聘】阿里大文娱招高级前端开发/技术专家](https://www.ershicimi.com/p/86233692af31dc54f76f460672fde0e1) 
 - [2021-03-14-【招聘】字节飞书增长与平台团队招高级、资深前后端工程师](https://www.ershicimi.com/p/9919493d554ee89586cf8c4cd131056e) 
 - [2021-03-13-【招聘】腾讯VTeam技术团队招前端、应用、后台开发工程师](https://www.ershicimi.com/p/92a79306c4c3ecbda8929a18a6b35a44) 

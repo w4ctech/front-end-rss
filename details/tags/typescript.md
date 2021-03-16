@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-16 13:39:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-16 13:58:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -7,4 +7,8 @@
 
 
 
+- [2021-03-12-要改掉的-10-种-TypeScript-坏习惯](https://www.ershicimi.com/p/78e5431baa0515e7ec4907fc113f81e6) 
+- [2021-02-26-TypeScript-4.2-正式发布：更智能的类型别名保留，声明缺失的帮助函数，还有许多破坏性更新](https://www.ershicimi.com/p/7c52f43f9a5989614be4973fb020a71d) 
+- [2020-05-14-TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f) 
 - [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 
+- [2021-03-16-小程序-TypeScript-最佳实践](https://toutiao.io/k/8vc4s7u) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-16 08:55:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-16 09:04:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -90,6 +90,5 @@
 - [2021-03-16-App-Store-新增了-HDR-规格的展示视频](https://www.v2ex.com/t/762175) 
 - [2021-03-16-专利技术-----视频贴片广告的替代者：验证码广告](https://www.v2ex.com/t/762174) 
 - [2021-03-16-专利技术-----视频贴片广告的替代者：验证码广告-这是我们的专利技术产品，广告验证码，即是广告也是验证码，](https://www.v2ex.com/t/762145) 
-- [2021-03-16-webRTC-能在移动端实现吗](https://www.v2ex.com/t/762133) 
 - [2021-03-13-【视频】|-网络安全:信息安全管理制度](https://sec.thief.one/article_content?a_id=c7ee4fca2cfeb09d674e5c19ae6c655b) 
 - [2021-03-01-【直播报名】物联网数据4.0时代，企业还有哪些新的存储需求？](https://www.ershicimi.com/p/38cd58ec7eba50794e472b524952553c) 

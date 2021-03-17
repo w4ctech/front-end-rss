@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-17 02:14:36，:rocket: 更新条数: +4163， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-17 02:47:04，:rocket: 更新条数: +4161， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,26 +1016,26 @@
 </summary>
 
 
+- [2021-03-17-北京-前端-20K-30K-Moka-招募前端攻城狮](https://www.v2ex.com/t/762372) ![](assets/new.png)  
+- [2021-03-17-长沙值得去的公司有哪些？](https://www.v2ex.com/t/762371) ![](assets/new.png)  
+- [2021-03-17-sql-问题的求助](https://www.v2ex.com/t/762370) ![](assets/new.png)  
+- [2021-03-17-社招内推深圳南山区-招后台-web-前端-客户端等富途证券-互联网券商](https://www.v2ex.com/t/762369) ![](assets/new.png)  
+- [2021-03-17-现在还有绕开手机验证注册-gmail-的方法吗？](https://www.v2ex.com/t/762368) ![](assets/new.png)  
+- [2021-03-17-实习-微软亚洲研究院-全球网络实时数据采集平台-Web-前端实习生](https://www.v2ex.com/t/762364) ![](assets/new.png)  
+- [2021-03-17-懒癌应该没得治吧](https://www.v2ex.com/t/762363) ![](assets/new.png)  
+- [2021-03-17-m1-MacBook-Air-有办法在内建显示器开启-1920*1200-hidpi-缩放吗？](https://www.v2ex.com/t/762362) ![](assets/new.png)  
+- [2021-03-17-后端开发如何学习前端，达到能用-React-和-AntD-UI-组件库做一个管理系统的水平？](https://www.v2ex.com/t/762361) ![](assets/new.png)  
+- [2021-03-17-nwjs-开发-vue-桌面-exe-遇到的问题，求帮助](https://www.v2ex.com/t/762360) ![](assets/new.png)  
+- [2021-03-17-exchange-online-的域名邮箱不能用作-Microsoft-账户的登录邮箱](https://www.v2ex.com/t/762358) ![](assets/new.png)  
+- [2021-03-17-托管在-vercel-的静态博客网站，还有没有再提升速度的可能](https://www.v2ex.com/t/762357) ![](assets/new.png)  
+- [2021-03-17-迫于最近睡眠多梦前来询问大佬有没有方法。。](https://www.v2ex.com/t/762355) ![](assets/new.png)  
+- [2021-03-17-60-多平米的一居室有必要买扫地机器人吗？](https://www.v2ex.com/t/762353) ![](assets/new.png)  
+- [2021-03-17-如何用声波判断位置移动？比如一个手机持续发出声音，另一个手机接收后要判断是否移动这样](https://www.v2ex.com/t/762352) ![](assets/new.png)  
 - [2021-03-17-跟室友前后脚拿了-Google-offer，总包居然差了$100k…](https://www.v2ex.com/t/762351) ![](assets/new.png)  
 - [2021-03-17-airpods-充电盒无法充满电](https://www.v2ex.com/t/762350) ![](assets/new.png)  
 - [2021-03-17-在“同性交友”的日子里，你是否遇到过这样心动的瞬间～](https://www.v2ex.com/t/762349) ![](assets/new.png)  
 - [2021-03-17-经过了一年多，我的小程序终于被我重构了，给大家看看](https://www.v2ex.com/t/762348) ![](assets/new.png)  
 - [2021-03-17-留我一人运维，好吗？](https://www.v2ex.com/t/762347) ![](assets/new.png)  
-- [2021-03-17-m1-mbp-便携扩展坞求推荐](https://www.v2ex.com/t/762346) ![](assets/new.png)  
-- [2021-03-17-怎么屏蔽娱乐圈和主播数据？不想在信息流上看到！](https://www.v2ex.com/t/762345) ![](assets/new.png)  
-- [2021-03-17-logseq-真不错，顺带问问是不是有更强的。](https://www.v2ex.com/t/762344) ![](assets/new.png)  
-- [2021-03-17-老员工卖命加班却被裁，领导一句话扎心了...](https://www.v2ex.com/t/762343) ![](assets/new.png)  
-- [2021-03-17-求推荐吸尘器，主要用来吸床上用品，沙发之类的。](https://www.v2ex.com/t/762342) ![](assets/new.png)  
-- [2021-03-17-苹果发出-3.23-的发布会邀请函](https://www.v2ex.com/t/762341) ![](assets/new.png)  
-- [2021-03-17-阿里巴巴-22-实习21-校招应届的同学看过来呀](https://www.v2ex.com/t/762340) ![](assets/new.png)  
-- [2021-03-17-大数据开发要不要转机器学习](https://www.v2ex.com/t/762338) ![](assets/new.png)  
-- [2021-03-17-三七互娱内推-社招-中/高-运维开发工程师-15-薪-广州](https://www.v2ex.com/t/762336) ![](assets/new.png)  
-- [2021-03-17-闲聊-2](https://www.v2ex.com/t/762333) ![](assets/new.png)  
-- [2021-03-17-菜鸟在快递上贴割割好恶心](https://www.v2ex.com/t/762332) ![](assets/new.png)  
-- [2021-03-17-win7-上-QQ-老是弹出“腾讯-QQ-已停止工作”的弹窗](https://www.v2ex.com/t/762330) ![](assets/new.png)  
-- [2021-03-17-收集了很多用户咨询的问题，如何采用-Python-提取出最常见的问题那？](https://www.v2ex.com/t/762328) ![](assets/new.png)  
-- [2021-03-17-某宝上说-TX-的游戏虚拟币慢充，-8-折，甚至更低，这是什么原理](https://www.v2ex.com/t/762327) ![](assets/new.png)  
-- [2021-03-17-迫于不开空调，有哪些透气散热的长裤和内裤啊，上班穿](https://www.v2ex.com/t/762326) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,6 +1047,7 @@
 </summary>
 
 
+- [2021-03-17-提升软件交付效能——初探“按需发布”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpublish-as-needed%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-17-软件匠艺-teobler.com](https://blogread.cn/news/go.php?idItem=14214&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210314-software-craftsmanship%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-17-一文说透依赖注入-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dependency-injection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-17-为什么-Activity.finish-之后-10s-才-onDestroy-？我蒙蔽了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14212&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff30oh8781IYj2Rdq8UJfUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1066,7 +1067,6 @@
 - [2021-03-17-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-17-全链路风控解决方案深度解读-segmentfault.com](https://blogread.cn/news/go.php?idItem=14197&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000020535780%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-17-京东集团的风控实践-www.infoq.cn](https://blogread.cn/news/go.php?idItem=14196&url=https%3A%2F%2Fwww.infoq.cn%2Farticle%2Fgr8q8d8cazjx3z8giar2%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-17-复杂风控场景下，如何打造一款高效的规则引擎-tech.meituan.com](https://blogread.cn/news/go.php?idItem=14195&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F05%2F14%2Fmeituan-security-zeus.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1078,25 +1078,25 @@
 </summary>
 
 
-- [2021-03-17-浅谈数仓、数仓模型分层](https://toutiao.io/k/151twp1) ![](assets/new.png)  
 - [2021-03-17-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) ![](assets/new.png)  
+- [2021-03-17-浅谈数仓、数仓模型分层](https://toutiao.io/k/151twp1) ![](assets/new.png)  
 - [2021-03-17-史上超强拷贝仓：GitHub-热点速览-v.21.11](https://toutiao.io/k/8ku8lte) ![](assets/new.png)  
 - [2021-03-17-2021-技术展望-|-弱网下的极限实时视频通信](https://toutiao.io/k/rmj15hr) ![](assets/new.png)  
-- [2021-03-17-译-在-.NET-Core-中构建-REST-API](https://toutiao.io/k/zplzay4) ![](assets/new.png)  
 - [2021-03-17-Rhit：高效可视化-Nginx-日志查看工具，每秒处理百万行日志数据](https://toutiao.io/k/vhnnxpo) ![](assets/new.png)  
-- [2021-03-17-译-Kubernetes-群集的零停机服务器更新](https://toutiao.io/k/drasg6f) ![](assets/new.png)  
 - [2021-03-17-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
+- [2021-03-17-译-在-.NET-Core-中构建-REST-API](https://toutiao.io/k/zplzay4) ![](assets/new.png)  
 - [2021-03-17-硬核操作系统讲解](https://toutiao.io/k/i85nyvh) ![](assets/new.png)  
+- [2021-03-17-译-Kubernetes-群集的零停机服务器更新](https://toutiao.io/k/drasg6f) ![](assets/new.png)  
 - [2021-03-17-如何算法实现加减乘除四则运算](https://toutiao.io/k/id8aj81) ![](assets/new.png)  
 - [2021-03-17-浅谈-Pull-Request-与-Change-Request-研发协作模式](https://toutiao.io/k/l0omohg) ![](assets/new.png)  
 - [2021-03-17-免费的-Mac-电脑录屏方式（支持-M1-芯片）](https://toutiao.io/k/krfy529) ![](assets/new.png)  
 - [2021-03-17-AI-入行那些事儿（五）：以模型为驱动学习机器学习](https://toutiao.io/k/wjrep39) ![](assets/new.png)  
-- [2021-03-17-架构设计笔记（十）：关键模式_负载均衡](https://toutiao.io/k/17cuy5c) ![](assets/new.png)  
+- [2021-03-17-架构设计笔记（十）：关键模式之负载均衡](https://toutiao.io/k/17cuy5c) ![](assets/new.png)  
 - [2021-03-17-存量用户运营企业微信的-“用户端小程序”-优化方案](https://toutiao.io/k/hq5eqo8) ![](assets/new.png)  
-- [2021-03-17-推荐-去哪里找-Java-练手项目？](https://toutiao.io/k/qh7wgrx) ![](assets/new.png)  
 - [2021-03-17-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) ![](assets/new.png)  
-- [2021-03-17-推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) ![](assets/new.png)  
-- [2021-03-17-推荐-副业刚需：在-GitHub-上也能年入百万？](https://toutiao.io/k/r9tqaw3) ![](assets/new.png)  
+- [2021-03-17-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
+- [2021-03-17-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
+- [2021-03-17-推荐-高并发系统的限流策略：漏桶和令牌桶（附源码剖析）](https://toutiao.io/k/x6ro69m) ![](assets/new.png)  
 - [2021-03-17-推荐-2021-阿里淘系工程师推荐书单](https://toutiao.io/k/txzl2gg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-17 12:10:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 12:43:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -17,3 +17,4 @@
 - [2020-05-14-TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f) 
 - [2021-03-16-要改掉的10种TypeScript-坏习惯](https://www.ershicimi.com/p/e08ff5d1d685d8029013e49c1c028e2d) 
 - [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 
+- [2021-03-17-typescript-类型推导，-如何提取嵌入很深的类型（场景：-swagger-生成接口类型后，怎么快速的提取需要的参数类型）](https://www.v2ex.com/t/762597) 

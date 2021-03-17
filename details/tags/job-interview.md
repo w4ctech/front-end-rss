@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-17 22:46:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 22:56:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -29,7 +29,6 @@
 - [2021-03-17-社招/内推-京东-招聘资深开发工程师---B2B-电商平台---北京](https://www.v2ex.com/t/762623) 
 - [2021-03-17-书单：互联网企业面试案头书之程序员软技能篇](https://toutiao.io/k/lhikp72) 
 - [2021-03-17-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) 
-- [2021-03-17-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) 
 - [2021-03-17-HW干货集合-|-HW面试题记录](https://sec.thief.one/article_content?a_id=076dcb2bdb45e9d2478c236f3f065249) 
 - [2021-03-16-春日招聘|网易、小米十个岗位热招中](https://sec.thief.one/article_content?a_id=12def8655a36ed5a97d1f4a334c533a6) 
 - [2021-03-15-中央网信办所属部分在京事业单位2021年度公开招聘资格复审和面试通...](https://sec.thief.one/article_content?a_id=29b2a998ba495d157ad976f9681c3e10) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-17 10:39:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 10:49:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -45,5 +45,3 @@
 - [2021-03-17-兄弟们，系统分布式本地缓存有没有什么好的策略](https://www.v2ex.com/t/762528) 
 - [2021-03-17-下班、打卡、离职、走人、到了说再见的时候](https://www.v2ex.com/t/762527) 
 - [2021-03-17-移动设备（手机）的运动检测怎么做？大概就是两个手机-A-和-B，-A-可以检测-B-的移动](https://www.v2ex.com/t/762526) 
-- [2021-03-17-阿里面试流程问题](https://www.v2ex.com/t/762525) 
-- [2021-03-17-心动-Job-Software-developer-web-interface-and-database。德资，上海。精通-C#，-Angular。英文流利。2-年以上工作。月薪-20k。sarah.li@csuite.com.cn](https://www.v2ex.com/t/762524) 

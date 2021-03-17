@@ -18918,7 +18918,58 @@
     "rss": "https://www.zhangxinxu.com/wordpress/feed/",
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
-    "items": []
+    "items": [
+      {
+        "title": "CSS line-height-step属性简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/",
+        "date": "2021-03-14"
+      },
+      {
+        "title": "使用CSS text-combine-upright实现字符的横向合并",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/",
+        "date": "2021-02-18"
+      },
+      {
+        "title": "CSS line-break属性与中文标点换行",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-line-break/",
+        "date": "2021-02-18"
+      },
+      {
+        "title": "Chrome 88已经支持aspect-ratio属性了，学起来",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/",
+        "date": "2021-02-17"
+      },
+      {
+        "title": "好消息，CSS text-underline-offset可以用起来了",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset/",
+        "date": "2021-02-17"
+      },
+      {
+        "title": "CSS ::marker伪元素简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-marker-pseudo-element/",
+        "date": "2021-02-16"
+      },
+      {
+        "title": "盘点HTML字符串转DOM的各种方法及细节",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/",
+        "date": "2021-02-16"
+      },
+      {
+        "title": "如何使用JS检测用户是否缩放了页面？",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/",
+        "date": "2021-02-15"
+      },
+      {
+        "title": "直线等图形从中间穿过元素或文字的CSS实现",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-3d-through/",
+        "date": "2021-02-14"
+      },
+      {
+        "title": "了解CSS revert全局关键字",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-revert/",
+        "date": "2021-02-14"
+      }
+    ]
   },
   {
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
@@ -19985,6 +20036,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "今天入手了主动降噪耳机，索尼 WH-1000XM3，还没到货，用过的大佬们来给普及下感受啊",
+        "link": "https://www.v2ex.com/t/762530",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "迫于穷，我想出卖自己的时间与技能（低级）",
+        "link": "https://www.v2ex.com/t/762529",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "兄弟们，系统分布式本地缓存有没有什么好的策略",
+        "link": "https://www.v2ex.com/t/762528",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "下班、打卡、离职、走人、到了说再见的时候",
+        "link": "https://www.v2ex.com/t/762527",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "移动设备（手机）的运动检测怎么做？大概就是两个手机 A 和 B， A 可以检测 B 的移动",
+        "link": "https://www.v2ex.com/t/762526",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "阿里面试流程问题",
+        "link": "https://www.v2ex.com/t/762525",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "心动 Job\r\nSoftware developer-web interface and database。德资，上海。精通 C#， Angular。英文流利。2 年以上工作。月薪 20k。sarah.li@csuite.com.cn",
+        "link": "https://www.v2ex.com/t/762524",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[深圳/杭州]飞书增长与平台团队招高级、资深前后端工程师",
+        "link": "https://www.v2ex.com/t/762523",
+        "date": "2021-03-17"
+      },
+      {
         "title": "iPhone 开启了勿扰模式后，收到微信的语音通话，手机会振动",
         "link": "https://www.v2ex.com/t/762520",
         "date": "2021-03-17"
@@ -20133,36 +20224,6 @@
         "title": "[南京][焦点科技-MIC][955] 焦点春招开始了，前端、 Java 、大数据等多种职位大量 HC 都在等着你",
         "link": "https://www.v2ex.com/t/762481",
         "date": "2021-03-17"
-      },
-      {
-        "title": "大家知道哪里有讲 supervisor 的原理的资料吗？",
-        "link": "https://www.v2ex.com/t/762480",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "大家快来康康我做的 ACG 论坛",
-        "link": "https://www.v2ex.com/t/762479",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[北京/深圳-Mico]米可世界招 Java 、iOS、android、C++，双休，欢迎投递简历",
-        "link": "https://www.v2ex.com/t/762478",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "现在 IOS 都要求用 SwiftUI 开发？会的人多吗？ Swift 不香了吗？",
-        "link": "https://www.v2ex.com/t/762477",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[内推] [社招] [滴滴] 持续招收 后端/前端/算法/PM/测试/客户端 [北京][杭州][成都][深圳]4",
-        "link": "https://www.v2ex.com/t/762475",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "成都腾讯云招聘前端工程师（社招 T8 及以上，同时也欢迎 21， 22 届的实习生同学）",
-        "link": "https://www.v2ex.com/t/762474",
-        "date": "2021-03-17"
       }
     ]
   },
@@ -20170,7 +20231,108 @@
     "rss": "https://front-rss.herokuapp.com/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "延时！保新！2 年续期证书来啦~ (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14216&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F357791609%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "提升软件交付效能——初探“按需发布” (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpublish-as-needed%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "软件匠艺 (teobler.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14214&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210314-software-craftsmanship%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "一文说透依赖注入 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dependency-injection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "为什么 Activity.finish() 之后 10s 才 onDestroy ？我蒙蔽了 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14212&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff30oh8781IYj2Rdq8UJfUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "华为高管再放狠话：鸿蒙不是安卓、iOS 的拷贝！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14211&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaiToCRUMtTz4BODqDGayuw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "鸿蒙开发初体验 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14210&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYBHOTtLjp7PuIGh5k0fnTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "阿里平头哥成功将 Android 10 移植到 RISC-V 架构上 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14209&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FShmgLyQnwuzEmO_OuNh7MA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "PanDownload 复活了！60MB/s！附下载地址 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14208&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwi4cVwqkHO_kwZFBuFfAPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "绝了！搜狗输入法这骚操作！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14207&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfG6Nx8JAnajo7arkb9IqGA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "为什么黑客从不用鼠标，一直在敲键盘？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14206&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Frvd2wYnuVI-E2spLMmEgMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "微软将允许员工永久性远程办公 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14205&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5OEv52xLT6ZOCqZD2uvrzA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "某度搜索，有点黄~~~ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14204&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_Aqjl5qf4l4pLisOauSF1g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "成为最差前端开发的 10 个建议 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14203&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FagGvCPDpM9tFzzgRrCPFog%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "乔布斯的这 3 个故事依然激励着我 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14202&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZHR_J2ghXIb2TCfV7w_Hng%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "假如现在你有30分钟，你会做什么？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14201&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdaily-time-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "【白话科普】CDN & 游戏加速器，两者是一个原理吗？ (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14200&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F355985175%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "使用不多但又十分重要的：风控策略 (www.woshipm.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14199&url=http%3A%2F%2Fwww.woshipm.com%2Fzhichang%2F1682661.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "卢明樊：爱奇艺的业务安全风控“秘籍 (www.freebuf.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "全链路风控解决方案深度解读 (segmentfault.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14197&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000020535780%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-17"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
@@ -20278,58 +20440,8 @@
         "date": "2021-03-17"
       },
       {
-        "title": "[推荐] 面试被吊打：Redis 原理",
-        "link": "https://toutiao.io/k/pmxukkm",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] Tomcat 性能调优应该注意什么？",
-        "link": "https://toutiao.io/k/kldrkzc",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] Redis 专题：深入解读哨兵模式",
-        "link": "https://toutiao.io/k/tm4wyb0",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] 这几款 JVM 故障诊断处理工具你还不会？",
-        "link": "https://toutiao.io/k/dux0ogl",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] 万字长文聊缓存（下）：应用级缓存",
-        "link": "https://toutiao.io/k/c1uc4c2",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] MySQL 索引从基础到原理，看这一篇就够了",
-        "link": "https://toutiao.io/k/hueiax0",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
-        "link": "https://toutiao.io/k/mzszqf0",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] 副业刚需：在 GitHub 上也能年入百万？",
-        "link": "https://toutiao.io/k/r9tqaw3",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] 职场：3 天准备 5 天面试，跳槽完成",
-        "link": "https://toutiao.io/k/1d2mnjh",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] 2021 阿里淘系工程师推荐书单",
-        "link": "https://toutiao.io/k/txzl2gg",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
-        "link": "https://toutiao.io/k/yduqoev",
+        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
+        "link": "https://toutiao.io/k/xuv7rlf",
         "date": "2021-03-17"
       },
       {
@@ -20338,18 +20450,68 @@
         "date": "2021-03-17"
       },
       {
-        "title": "[推荐] 内存管理设计精要",
-        "link": "https://toutiao.io/k/4f2u3c5",
+        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
+        "link": "https://toutiao.io/k/tgp1ua8",
         "date": "2021-03-17"
       },
       {
-        "title": "[推荐] MySQL 读写分离，写完读不到问题如何解决",
-        "link": "https://toutiao.io/k/ga340bq",
+        "title": "[推荐] Tomcat 性能调优应该注意什么？",
+        "link": "https://toutiao.io/k/kldrkzc",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] [译] 构建微服务的十大 Go 框架/库",
+        "link": "https://toutiao.io/k/44rsmt3",
         "date": "2021-03-17"
       },
       {
         "title": "[推荐] 中高级前端须注意的 40 条移动端 H5 坑位指南（网易三年实践）",
         "link": "https://toutiao.io/k/ix2e9ja",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] 带你深入理解 Java 内存模型理论",
+        "link": "https://toutiao.io/k/0ic2o68",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] 21 大软件架构特点的全面解析",
+        "link": "https://toutiao.io/k/2n0entj",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] 快手超大规模集群调度优化实践",
+        "link": "https://toutiao.io/k/671eano",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] Redis 专题：深入解读哨兵模式",
+        "link": "https://toutiao.io/k/tm4wyb0",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] 2021 阿里淘系工程师推荐书单",
+        "link": "https://toutiao.io/k/txzl2gg",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] 去哪里找 Java 练手项目？",
+        "link": "https://toutiao.io/k/qh7wgrx",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] 从技术专家到技术管理，我对管理的思考",
+        "link": "https://toutiao.io/k/r5kgujp",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] MySQL 索引从基础到原理，看这一篇就够了",
+        "link": "https://toutiao.io/k/hueiax0",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] Golang 性能诊断看这篇就够了",
+        "link": "https://toutiao.io/k/3loin1u",
         "date": "2021-03-17"
       }
     ]

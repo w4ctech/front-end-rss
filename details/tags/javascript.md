@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-17 08:46:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 08:55:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -70,6 +70,8 @@
 - [2021-03-12-你的应用需要一个-“可取消的异步-HTTP-请求模块”](https://www.ershicimi.com/p/9964f0faa9b3f871d856cee9f2439c50) 
 - [2021-03-11-汇总JS语法-ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/63d0d95d3967290b02c84763b1a271d2) 
 - [2021-03-06-超实用-—-开发中常见-JavaScript-问题整理](https://www.ershicimi.com/p/54be0fbda17b78478ec0cea069cdfa1a) 
+- [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
+- [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 
 - [2021-03-15-使用JavaScript开发一个Photoshop插件](https://www.ershicimi.com/p/9aea155c7eaec3bb97e0bb6f4c430bac) 
 - [2021-03-10-可视化拖拽组件库一些技术要点原理分析（三）](https://www.ershicimi.com/p/e58567dd33121d51a1d938024f25b437) 
 - [2021-01-11-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/fa27bfb41b2cd95468c33a411b83ba33) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-17 08:46:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 08:55:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -32,13 +32,15 @@
 - [2021-03-05-酷炫！巧用--webkit-box-reflect-倒影实现各类动效](https://www.ershicimi.com/p/409aca96cca68aa8e7ade98b2e0bbf34) 
 - [2021-03-07-这些鲜为人知的前端冷知识，你都GET了吗？](https://www.ershicimi.com/p/4d4a34b4b7d3b122e5a10567066636db) 
 - [2021-02-21-前端-Code-Review-的最佳实践方案](https://www.ershicimi.com/p/8f4c1fb010cc20a0ff64f60686f02d5b) 
+- [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-03-17-兄弟们，系统分布式本地缓存有没有什么好的策略](https://www.v2ex.com/t/762528) 
 - [2021-03-17-WebKit-给自家的-Apply-Pay-Button-用了光滑圆角](https://www.v2ex.com/t/762499) 
-- [2021-03-17-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
+- [2021-03-17-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-17-零信任安全领导厂商易安联完成B+轮融资-加速拓展全国市场](https://sec.thief.one/article_content?a_id=9b4ad568f354cb70eea152a55d34e60f) 
 - [2021-03-17-2021年开发安全需求将爆炸式增长](https://sec.thief.one/article_content?a_id=8c9fc23fefeb8348366b90036bce4a27) 
 - [2021-03-17-CVE-2021-21978:VM-View-Planner-RCE分析复现](https://sec.thief.one/article_content?a_id=dc8eda27ab8fd390116c11138dea7715) 

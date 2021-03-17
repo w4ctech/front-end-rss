@@ -20036,6 +20036,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有人注意观察过， Python 多进程执行同一程序速度比单进程执行慢很多，原因是什么？",
+        "link": "https://www.v2ex.com/t/762657",
+        "date": "2021-03-17"
+      },
+      {
         "title": "试论“意义”",
         "link": "https://www.v2ex.com/t/762656",
         "date": "2021-03-17"
@@ -20365,13 +20370,13 @@
         "date": "2021-03-17"
       },
       {
-        "title": "AI 入行那些事儿（五）：以模型为驱动学习机器学习",
-        "link": "https://toutiao.io/k/wjrep39",
+        "title": "[译] Kubernetes 群集的零停机服务器更新",
+        "link": "https://toutiao.io/k/drasg6f",
         "date": "2021-03-17"
       },
       {
-        "title": "[译] Kubernetes 群集的零停机服务器更新",
-        "link": "https://toutiao.io/k/drasg6f",
+        "title": "AI 入行那些事儿（五）：以模型为驱动学习机器学习",
+        "link": "https://toutiao.io/k/wjrep39",
         "date": "2021-03-17"
       },
       {
@@ -20400,33 +20405,48 @@
         "date": "2021-03-17"
       },
       {
-        "title": "[推荐] 从技术专家到技术管理，我对管理的思考",
-        "link": "https://toutiao.io/k/r5kgujp",
-        "date": "2021-03-17"
-      },
-      {
         "title": "[推荐] 带你深入理解 Java 内存模型理论",
         "link": "https://toutiao.io/k/0ic2o68",
         "date": "2021-03-17"
       },
       {
-        "title": "[推荐] 2021 阿里淘系工程师推荐书单",
-        "link": "https://toutiao.io/k/txzl2gg",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] 去哪里找 Java 练手项目？",
-        "link": "https://toutiao.io/k/qh7wgrx",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] 快手超大规模集群调度优化实践",
-        "link": "https://toutiao.io/k/671eano",
+        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
+        "link": "https://toutiao.io/k/yduqoev",
         "date": "2021-03-17"
       },
       {
         "title": "[推荐] 21 大软件架构特点的全面解析",
         "link": "https://toutiao.io/k/2n0entj",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] Redis 专题：深入解读哨兵模式",
+        "link": "https://toutiao.io/k/tm4wyb0",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] Tomcat 性能调优应该注意什么？",
+        "link": "https://toutiao.io/k/kldrkzc",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] 做一个很出色的程序员",
+        "link": "https://toutiao.io/k/g6xlwp2",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] 有赞 BI 平台设计及实现",
+        "link": "https://toutiao.io/k/a595tmo",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] 从技术专家到技术管理，我对管理的思考",
+        "link": "https://toutiao.io/k/r5kgujp",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
+        "link": "https://toutiao.io/k/xuv7rlf",
         "date": "2021-03-17"
       },
       {
@@ -20440,38 +20460,23 @@
         "date": "2021-03-17"
       },
       {
-        "title": "[推荐] Tomcat 性能调优应该注意什么？",
-        "link": "https://toutiao.io/k/kldrkzc",
+        "title": "[推荐] Redis 教程：Redis 知识体系详解",
+        "link": "https://toutiao.io/k/av396i0",
         "date": "2021-03-17"
       },
       {
-        "title": "[推荐] 国内有哪些顶级技术团队的博客值得推荐？",
-        "link": "https://toutiao.io/k/j7v5pee",
+        "title": "[推荐] 聊聊 IT 技术人的知识体系",
+        "link": "https://toutiao.io/k/vmimc5g",
         "date": "2021-03-17"
       },
       {
-        "title": "[推荐] 2021 有哪些不容错过的后端技术趋势",
-        "link": "https://toutiao.io/k/e3lq37o",
+        "title": "[推荐] 2021 阿里淘系工程师推荐书单",
+        "link": "https://toutiao.io/k/txzl2gg",
         "date": "2021-03-17"
       },
       {
-        "title": "[推荐] 万字长文聊缓存（下）：应用级缓存",
-        "link": "https://toutiao.io/k/c1uc4c2",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
-        "link": "https://toutiao.io/k/xuv7rlf",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] 这几款 JVM 故障诊断处理工具你还不会？",
-        "link": "https://toutiao.io/k/dux0ogl",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "[推荐] 做一个很出色的程序员",
-        "link": "https://toutiao.io/k/g6xlwp2",
+        "title": "[推荐] 快手超大规模集群调度优化实践",
+        "link": "https://toutiao.io/k/671eano",
         "date": "2021-03-17"
       }
     ]

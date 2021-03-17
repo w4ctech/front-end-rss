@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-17 18:37:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 18:46:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -39,7 +39,6 @@
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2021-03-09-【第2220期】前端函数式演进之函数式思维和前端特征](https://www.ershicimi.com/p/d38736095776f458e4dd2c01b96ff810) 
 - [2021-03-09-【图书】前端函数式演进](https://www.ershicimi.com/p/2bef2a76d5e2d630bb606029e881b52c) 
-- [2021-03-11-你真的了解-ES6-中的函数特性么？](https://www.ershicimi.com/p/7d566c598c5ad4a1b96e2fcfda42016e) 
 - [2021-03-10-靠，神了！居然能通过-DOM-来改变-JS！](https://www.ershicimi.com/p/408eca3e8028dd94e00696e122a43025) 
 - [2021-03-05-这个异步问题你肯定遇到过，但是会解决的并不多](https://www.ershicimi.com/p/f57b3d1ec8f481307e3de355af5edd67) 
 - [2021-03-03-44-道-JS-'难'题，做对一半就是高手](https://www.ershicimi.com/p/0b51d5a7347e6e4ecb0850c94404f37d) 

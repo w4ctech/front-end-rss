@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-16 23:55:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 00:08:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,8 +41,8 @@
 - [2021-03-16-大哥们学习信息安全出现过这样的问题吗？](https://www.v2ex.com/t/762298) 
 - [2021-03-16-使用-safari-作为自己主要浏览器的朋友们很多吗？](https://www.v2ex.com/t/762285) 
 - [2021-03-16-Microsoft-Edge-的竖直标签下已经可以隐藏标题栏了Canary](https://www.v2ex.com/t/762269) 
-- [2021-03-16-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-03-16-PHP-远程调试最佳实践](https://toutiao.io/k/bwryqwa) 
+- [2021-03-17-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-17-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
 - [2021-03-16-【安全头条】比特币飙升显卡陪跑,限速被破或再临涨价潮](https://sec.thief.one/article_content?a_id=e7e944d4f00376c121a4614f135d9361) 
 - [2021-03-16-干货-|GitHUB安全搬运工-七](https://sec.thief.one/article_content?a_id=b71041c296b9c5f70842fd0c1cb3f498) 
 - [2021-03-16-信息安全漏洞周报2021年第11期](https://sec.thief.one/article_content?a_id=3d42e7d45cff2fe0f1fff99ddca7585d) 

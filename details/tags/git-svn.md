@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-17 05:40:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 05:51:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -15,4 +15,3 @@
 - [2021-03-17-关于-GitHub-登录权限的-"Act-on-your-behalf"](https://www.v2ex.com/t/762401) 
 - [2021-03-17-史上超强拷贝仓：GitHub-热点速览-v.21.11](https://toutiao.io/k/8ku8lte) 
 - [2021-03-17-推荐-副业刚需：在-GitHub-上也能年入百万？](https://toutiao.io/k/r9tqaw3) 
-- [2021-03-17-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) 

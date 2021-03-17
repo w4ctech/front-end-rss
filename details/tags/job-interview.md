@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-17 18:10:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 18:37:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,6 +8,7 @@
 
 
 - [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
+- [2021-03-17-【招聘】北京天眼查招聘高级前端研发工程师](https://www.ershicimi.com/p/19225740b719a89c764f7d948d8f9eef) 
 - [2021-03-16-【招聘】美团到店事业群-住宿门票研发团队招高级/资深前端工程师](https://www.ershicimi.com/p/bb5885d815874793a4d63fcb6832e1c7) 
 - [2021-03-15-【招聘】阿里大文娱招高级前端开发/技术专家](https://www.ershicimi.com/p/86233692af31dc54f76f460672fde0e1) 
 - [2021-03-14-【招聘】字节飞书增长与平台团队招高级、资深前后端工程师](https://www.ershicimi.com/p/9919493d554ee89586cf8c4cd131056e) 
@@ -21,17 +22,14 @@
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2021-03-10-腾讯、华为2021前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/0e85e26848a6b56737b467525143d0a8) 
 - [2021-03-08-字节跳动2021前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/51e062c6960c3e3dd6e9646a053cd727) 
-- [2021-03-03-这是我面试42场拿下微软、蚂蚁、头条offer的方法论](https://www.ershicimi.com/p/08735a103ad47017e005365f966e0c94) 
-- [2021-03-02-面试阿里被问的哑口无言，原来我……](https://www.ershicimi.com/p/a30167becb9986a38bbf679e1683a542) 
 - [2021-03-09-阿里宣布扩招！最新内部面试题已脱敏](https://www.ershicimi.com/p/504574315f62c2676c74e8ce2a5b64a5) 
-- [2021-03-06-这是我面试42场拿下微软、蚂蚁、头条offer的方法论](https://www.ershicimi.com/p/75473e455defccd594bb33c47b88657d) 
 - [2021-03-12-字节工程师整理的最新前端面试题（含答案）](https://www.ershicimi.com/p/15b73baa8fa9ba3f988da26247a7bd57) 
 - [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-03-17-社招/内推-京东-招聘资深开发工程师---B2B-电商平台---北京](https://www.v2ex.com/t/762623) 
 - [2021-03-17-书单：互联网企业面试案头书之程序员软技能篇](https://toutiao.io/k/lhikp72) 
-- [2021-03-17-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) 
 - [2021-03-17-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) 
+- [2021-03-17-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) 
 - [2021-03-17-HW干货集合-|-HW面试题记录](https://sec.thief.one/article_content?a_id=076dcb2bdb45e9d2478c236f3f065249) 
 - [2021-03-16-春日招聘|网易、小米十个岗位热招中](https://sec.thief.one/article_content?a_id=12def8655a36ed5a97d1f4a334c533a6) 
 - [2021-03-15-中央网信办所属部分在京事业单位2021年度公开招聘资格复审和面试通...](https://sec.thief.one/article_content?a_id=29b2a998ba495d157ad976f9681c3e10) 

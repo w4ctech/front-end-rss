@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-17 18:10:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 18:37:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -53,6 +53,7 @@
 - [2021-03-12-常用的前端JavaScript方法封装](https://www.ershicimi.com/p/d75204d75133600ed4f3c67ab7bb76cf) 
 - [2021-02-28-JS算法：图文并茂讲解堆排序](https://www.ershicimi.com/p/611070d735e6e0744a026cae39df52d3) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
+- [2021-03-17-温故而知新，8张-Javascript-思维导图助你成长](https://www.ershicimi.com/p/942f275bb42690b6ccfa058f2c7ae3e8) 
 - [2021-03-02-如何用-JS-实现二叉堆](https://www.ershicimi.com/p/7042ca89ec61f44863acb7c888ae365f) 
 - [2021-02-02-动态表单之表单组件的插件式加载方案](https://www.ershicimi.com/p/8cc8832fe3c00b073d2e023bcbf6947f) 
 - [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 

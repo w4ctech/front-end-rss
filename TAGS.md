@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-17 14:45:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 14:56:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -413,7 +413,6 @@
 - [【前端日刊】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8)
 - [【JavaScript】熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【开发者头条】推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano)
 - [【开发者头条】推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -516,7 +515,6 @@
 - [【V2EX】gitee-如何，-github-最近老抽风](https://www.v2ex.com/t/762620)
 - [【开发者头条】史上超强拷贝仓：GitHub-热点速览-v.21.11](https://toutiao.io/k/8ku8lte)
 - [【开发者头条】推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0)
-- [【开发者头条】推荐-副业刚需：在-GitHub-上也能年入百万？](https://toutiao.io/k/r9tqaw3)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

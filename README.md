@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-17 04:04:52，:rocket: 更新条数: +4162， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-17 04:09:54，:rocket: 更新条数: +4164， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,8 @@
 </summary>
 
 
+- [2021-03-17-四川｜新增确诊病例-2-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKjrVzoEGdoDHp5ULmLX2210317&isfromapp=1) ![](assets/new.png)  
+- [2021-03-17-全国｜新增确诊病例-4-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNg88Yf5o377GgTEmA6pl210317&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1014,6 +1016,7 @@
 </summary>
 
 
+- [2021-03-17-域名转移-Cloudflare，最后一步异常](https://www.v2ex.com/t/762407) ![](assets/new.png)  
 - [2021-03-17-北京有前端想换工作的吗。](https://www.v2ex.com/t/762406) ![](assets/new.png)  
 - [2021-03-17-推荐给大家一个云服务器的好玩法](https://www.v2ex.com/t/762405) ![](assets/new.png)  
 - [2021-03-17-Arthas-3.5.0-版本发布，支持反编译打印行号和统一鉴权](https://www.v2ex.com/t/762404) ![](assets/new.png)  
@@ -1033,7 +1036,6 @@
 - [2021-03-17-用了-5-年的笔记本出现奇怪的问题，求助各位大佬有啥头绪吗？](https://www.v2ex.com/t/762384) ![](assets/new.png)  
 - [2021-03-17-产品经理真的挺好当](https://www.v2ex.com/t/762383) ![](assets/new.png)  
 - [2021-03-17-深圳-oppo-外包和一家跟政府合作做国土资源项目的公司，选哪个？](https://www.v2ex.com/t/762382) ![](assets/new.png)  
-- [2021-03-17-结束北漂-讲讲我和北京的故事](https://www.v2ex.com/t/762381) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1094,8 +1096,8 @@
 - [2021-03-17-如何知人善用？](https://toutiao.io/k/krjsgu0) ![](assets/new.png)  
 - [2021-03-17-手摸手-Go-并发编程基石-atomic](https://toutiao.io/k/wfqc8oc) ![](assets/new.png)  
 - [2021-03-17-SpEL-这么香的功能都没有使用过，还敢说玩转-Spring？](https://toutiao.io/k/zegwvzr) ![](assets/new.png)  
-- [2021-03-17-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
-- [2021-03-17-推荐-MySQL-索引从基础到原理，看这一篇就够了](https://toutiao.io/k/hueiax0) ![](assets/new.png)  
+- [2021-03-17-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
+- [2021-03-17-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

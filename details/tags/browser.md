@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-17 10:49:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 10:58:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,9 +38,9 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-03-17-WebSocket-重连后如何识别用户是不是原来的用户？](https://www.v2ex.com/t/762576) 
 - [2021-03-17-spring-项目中数据库配置暴露，会有安全隐患嘛。同理用阿里的-canal-同步数据，也需要数据库账户密码等信息。这种的会不会存在安全隐患](https://www.v2ex.com/t/762559) 
 - [2021-03-17-315-晚会-9-大黑料曝光，数字化转型亟需规范和落实信息安全问题](https://www.v2ex.com/t/762558) 
-- [2021-03-17-兄弟们，系统分布式本地缓存有没有什么好的策略](https://www.v2ex.com/t/762528) 
 - [2021-03-17-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-17-牵手长亭,「目极千里-洞见安全」安全技术沙龙来了!](https://sec.thief.one/article_content?a_id=792e0ab33238d5c8a14a1802a517f105) 
 - [2021-03-17-易安联完成B+轮融资丨零信任安全](https://sec.thief.one/article_content?a_id=7eb4cfa1c987fcb4130868742de00998) 

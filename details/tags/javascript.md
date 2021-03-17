@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-17 11:45:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 11:50:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -91,4 +91,3 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-03-17-请教-v-站架构师们，-k8s-ingress-配置了入口网关还需要-Oauth2-等认证组件做权限认证吗](https://www.v2ex.com/t/762583) 
 - [2021-03-17-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) 
-- [2021-03-17-推荐-中高级前端须注意的-40-条移动端-H5-坑位指南（网易三年实践）](https://toutiao.io/k/ix2e9ja) 

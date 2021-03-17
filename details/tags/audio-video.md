@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-17 11:45:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 11:50:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -87,7 +87,6 @@
 - [2021-03-15-又到315，实时音视频行业“入学避坑”测试题出炉了](https://www.ershicimi.com/p/c04ad5cc7688df7d0375580cb1715aaf) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-03-11-有奖｜晒居家整理视频，瓜分万元现金奖励](https://www.ershicimi.com/p/e1b8f95401f47fc9ec9962cd403d7fa2) 
-- [2021-03-17-对于小弟的-B-站视频，你有什么建议？](https://www.v2ex.com/t/762539) 
 - [2021-03-17-2021-技术展望-|-弱网下的极限实时视频通信](https://toutiao.io/k/rmj15hr) 
 - [2021-03-16-第二届“网安好播客”直播大赛启动报名](https://sec.thief.one/article_content?a_id=9081c52a8e3f995de1ac42d3018243e4) 
 - [2021-03-01-【直播报名】物联网数据4.0时代，企业还有哪些新的存储需求？](https://www.ershicimi.com/p/38cd58ec7eba50794e472b524952553c) 

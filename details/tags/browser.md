@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-17 11:45:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-17 11:50:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,7 +43,6 @@
 - [2021-03-17-spring-项目中数据库配置暴露，会有安全隐患嘛。同理用阿里的-canal-同步数据，也需要数据库账户密码等信息。这种的会不会存在安全隐患](https://www.v2ex.com/t/762559) 
 - [2021-03-17-315-晚会-9-大黑料曝光，数字化转型亟需规范和落实信息安全问题](https://www.v2ex.com/t/762558) 
 - [2021-03-17-卢明樊：爱奇艺的业务安全风控“秘籍-www.freebuf.com](https://blogread.cn/news/go.php?idItem=14198&url=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fpeople%2F233378.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-03-17-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
 - [2021-03-17-牵手长亭,「目极千里-洞见安全」安全技术沙龙来了!](https://sec.thief.one/article_content?a_id=792e0ab33238d5c8a14a1802a517f105) 
 - [2021-03-17-易安联完成B+轮融资丨零信任安全](https://sec.thief.one/article_content?a_id=7eb4cfa1c987fcb4130868742de00998) 
 - [2021-03-17-第三期字节跳动“安全范儿”沙龙来咯!](https://sec.thief.one/article_content?a_id=674f6147f8538a77ff56e5903bbe0ead) 

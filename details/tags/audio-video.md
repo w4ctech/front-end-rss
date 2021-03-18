@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-18 13:18:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-18 13:39:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -87,6 +87,7 @@
 - [2021-03-15-又到315，实时音视频行业“入学避坑”测试题出炉了](https://www.ershicimi.com/p/c04ad5cc7688df7d0375580cb1715aaf) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-03-11-有奖｜晒居家整理视频，瓜分万元现金奖励](https://www.ershicimi.com/p/e1b8f95401f47fc9ec9962cd403d7fa2) 
+- [2021-03-18-Mac-下-Firefox-的-4K-视频解码问题](https://www.v2ex.com/t/762989) 
 - [2021-03-18-视频：谷歌原生-Android-12-DP2-有哪些更新和变化](https://www.v2ex.com/t/762977) 
 - [2021-03-18-【视频】|-Python:路径讲解相对和绝对](https://sec.thief.one/article_content?a_id=fb1b61447015a52ddb45d0e87ff04759) 
 - [2021-03-18-15万摄像头遭入侵,特斯拉上海仓库也中枪,只因管理员密码就发在网...](https://sec.thief.one/article_content?a_id=bf151bcc180b9729438fa4b39f6d93e5) 

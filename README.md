@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-18 07:50:56，:rocket: 更新条数: +714， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-18 08:05:36，:rocket: 更新条数: +714， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -974,6 +974,8 @@
 </summary>
 
 
+- [2021-03-18-WSL2-崩溃的问题](https://www.v2ex.com/t/762867) ![](assets/new.png)  
+- [2021-03-18-请问-mac-mini-家用合适吗？](https://www.v2ex.com/t/762866) ![](assets/new.png)  
 - [2021-03-18-全干工程师转产品经理](https://www.v2ex.com/t/762863) ![](assets/new.png)  
 - [2021-03-18-移动设备（手机）的运动检测怎么做呢？大概就是两个手机-A-和-B，-A-可以检测-B-的移动](https://www.v2ex.com/t/762862) ![](assets/new.png)  
 - [2021-03-18-go-全局变量的一个疑问？](https://www.v2ex.com/t/762861) ![](assets/new.png)  
@@ -992,8 +994,6 @@
 - [2021-03-18-Mysql-不进行-join-操作如何做多表筛选呢](https://www.v2ex.com/t/762843) ![](assets/new.png)  
 - [2021-03-18-求助，-MacBook-pro-突然开不了机了](https://www.v2ex.com/t/762840) ![](assets/new.png)  
 - [2021-03-18-OpenAI-版-王伟-无意间发现自己通过-OpenAI-的申请,-来测试一下王伟-:-](https://www.v2ex.com/t/762839) ![](assets/new.png)  
-- [2021-03-18-miwifi.com/tplogin.cn-类似路由登录入口的原理是什么](https://www.v2ex.com/t/762837) ![](assets/new.png)  
-- [2021-03-18-西安电信要到公网了，兄弟们](https://www.v2ex.com/t/762836) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

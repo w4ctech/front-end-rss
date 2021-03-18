@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-18 08:46:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-18 08:56:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -8,18 +8,7 @@
 
 
 - [2021-03-11-【第2222期】下一代前端构建工具-ViteJS-技术解读](https://www.ershicimi.com/p/548c42b015268d12fff530b4774415a7) 
+- [2021-03-16-下一代前端构建工具-Vite-（中英双语字幕）](https://www.ershicimi.com/p/4ded7ea0e57a102d0ee47a00c282d6d1) 
 - [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) 
-- [2021-03-13-下一代前端构建工具-ViteJS-技术解读，尤雨溪diss：Webpack！](https://www.ershicimi.com/p/4bf18c7a3c1b030cb0a63d30fd961b8c) 
-- [2021-03-06-你的-import-被-webpack-编译成了什么？](https://www.ershicimi.com/p/06aedd105c711a6a8cf54fab6b3bf1b7) 
-- [2021-03-13-前端也要懂编译：Babel-最全上手指南](https://www.ershicimi.com/p/2914447421b3926b496cddde919bc58f) 
-- [2021-03-12-下一代前端构建工具-Vite-（中英双语字幕）](https://www.ershicimi.com/p/28a9fee13aacb440f71cedf8ba5b4fed) 
-- [2020-12-08-NPM-私库从搭建到数据迁移最后容灾备份的一些解决方案](https://www.ershicimi.com/p/7f053b7e4395be0afc90a5470a580df9) 
-- [2021-03-11-【译】听尤雨溪聊：下一代前端构建工具-ViteJS-中英双语字幕](https://www.ershicimi.com/p/0de403760375d064f61ad0fa9b4d7e02) 
-- [2021-03-13-三大前端构建工具横评，谁是性能之王！](https://www.ershicimi.com/p/21d958c1bde77d87e542cc828fd5f275) 
-- [2021-03-12-【译】听尤雨溪聊：下一代前端构建工具-ViteJS-中英双语字幕](https://www.ershicimi.com/p/5688668d0938557db0dc1f3f4737c4f3) 
-- [2021-03-08-针对-Web，移动端和桌面端构建的下一代-Flutter](https://www.ershicimi.com/p/c0b0f0c18d5e728fddccd8488fae5373) 
-- [2021-03-16-Babel原理](https://www.ershicimi.com/p/e7256e36feb00d9e9702f77e3fb8b975) 
-- [2021-03-11-【webpack-进阶】Webpack-打包后的代码是怎样的？](https://www.ershicimi.com/p/16161cc4ce1ef416f2766ddd04bd9b4f) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
-- [2021-03-18-推荐-译-构建微服务的十大-Go-框架/库](https://toutiao.io/k/44rsmt3) 
 - [2021-02-24-芯讯通一口气发布5款模组，蜂窝物联网模组厂商如何构建万物互联大时代？](https://www.ershicimi.com/p/1690a236c67604d827d8064cbfa84bff) 

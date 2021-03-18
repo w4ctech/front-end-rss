@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-18 12:10:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-18 12:45:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,7 +7,6 @@
 
 
 
-- [2021-02-25-用canvas编辑你的图片](https://www.ershicimi.com/p/b77d97409c8f667fe53026482ce85bed) 
 - [2021-03-18-如何将-Canvas-绘制过程转为视频](https://toutiao.io/k/eg2ql65) 
 - [2021-03-18-3月18日贵币GUIBI早内参-Filecoin将于4月减产,灰度新推出FIL等五种...](https://sec.thief.one/article_content?a_id=94663bba3404c3d7ad2e959042d6cf9f) 
 - [2021-03-17-3月17日贵币GUIBI早内参-总价值超53亿美元的BTC期权即将到期,...](https://sec.thief.one/article_content?a_id=3e96466f518fd724e01af86e4292984e) 

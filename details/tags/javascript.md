@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-18 02:59:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-18 03:09:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -35,6 +35,8 @@
 - [2021-03-17-开发中经常遇到的JavaScript问题整理（超实用）](https://www.ershicimi.com/p/5dae011bbc8e84b730d0b97ae84f1e0a) 
 - [2021-03-16-谈谈-JavaScript-中的类型转换机制](https://www.ershicimi.com/p/127a1bf68fcca1b6960e9741bc2cd0f2) 
 - [2021-03-15-2020-JavaScript明星项目](https://www.ershicimi.com/p/27e805e85374c16caa86f17235e0e7a2) 
+- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
+- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2021-03-09-【第2220期】前端函数式演进之函数式思维和前端特征](https://www.ershicimi.com/p/d38736095776f458e4dd2c01b96ff810) 
 - [2021-03-09-【图书】前端函数式演进](https://www.ershicimi.com/p/2bef2a76d5e2d630bb606029e881b52c) 
 - [2021-03-10-靠，神了！居然能通过-DOM-来改变-JS！](https://www.ershicimi.com/p/408eca3e8028dd94e00696e122a43025) 
@@ -86,4 +88,6 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-03-18-弱弱的问一下，关于双软路由设置的问题。和关于-AP-设置的问题。](https://www.v2ex.com/t/762719) 
 - [2021-03-17-Apache-Solr-组件安全概览](https://sec.thief.one/article_content?a_id=d423fef990ddc35a22452dbf4db35f07) 

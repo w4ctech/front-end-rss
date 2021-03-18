@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-18 02:59:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-18 03:09:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -27,9 +27,6 @@
 - [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-03-18-上市公司招聘区块链工程师](https://www.v2ex.com/t/762715) 
-- [2021-03-18-北京深信服-诚聘-Python-开发与架构师，部门直招，欢迎骚扰。微信加-wec8577，备注招聘](https://www.v2ex.com/t/762669) 
-- [2021-03-18-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) 
-- [2021-03-18-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) 
 - [2021-03-18-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) 
 - [2021-03-17-滴滴面试官:说说你的能力模型为什么值-50W](https://sec.thief.one/article_content?a_id=c75700bf9e867354c54842800fa0907d) 
 - [2021-03-17-HW干货集合-|-HW面试题记录](https://sec.thief.one/article_content?a_id=076dcb2bdb45e9d2478c236f3f065249) 

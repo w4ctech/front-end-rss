@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-18 06:47:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-18 06:58:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -8,9 +8,9 @@
 
 
 - [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
-- [2021-03-04-如何编写神奇的「插件机制」，优化基于-Antd-Table-封装表格的混乱代码](https://www.ershicimi.com/p/a57d1f4c1aa7aa3139593df6b59f94c9) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2021-03-18-如何通过-gzip-和-nginx-来提高网站打开速度及整体性能](https://www.v2ex.com/t/762826) 
 - [2021-03-18-今日头条-ANR-优化实践系列：设计原理及影响因素](https://toutiao.io/k/9b0suhy) 
 - [2021-03-18-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) 
+- [2021-03-18-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) 
 - [2021-03-18-推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc) 

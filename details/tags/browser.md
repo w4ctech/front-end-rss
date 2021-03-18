@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-18 06:47:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-18 06:58:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,7 +26,6 @@
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-18-riemann-hypothesis](https://www.v2ex.com/t/762820) 
-- [2021-03-18-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) 
 - [2021-03-18-Technomous勒索瞄准VMware-vSphere,虚拟化平台如何保障数据安全...](https://sec.thief.one/article_content?a_id=e779a41d975e6ac3bb861253e2184d1f) 
 - [2021-03-18-调查:API安全成为威胁新趋势](https://sec.thief.one/article_content?a_id=acbd07d0f4454dae3a805ada2a2c29a7) 
 - [2021-03-18-「目极千里-·-洞见安全」安全技术沙龙来了!](https://sec.thief.one/article_content?a_id=4136a960e9b15ac5eab33ea02ee7a087) 

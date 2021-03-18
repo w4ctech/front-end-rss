@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-18 16:06:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-18 16:12:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -18,4 +18,5 @@
 - [2021-03-18-写给新接触-seo-朋友们——在某某站长论坛看帖有感](https://www.v2ex.com/t/763016) 
 - [2021-03-18-Laravel-Octane-是什么，以及为什么它可以把传统-Laravel-应用性能提升十倍？](https://www.v2ex.com/t/763000) 
 - [2021-03-18-今日头条-ANR-优化实践系列：设计原理及影响因素](https://toutiao.io/k/9b0suhy) 
+- [2021-03-18-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) 
 - [2021-03-18-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) 

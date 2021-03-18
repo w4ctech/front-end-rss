@@ -20046,6 +20046,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "尝试新的风格写技术博客",
+        "link": "https://www.v2ex.com/t/762732",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "关于汉字排序，是否有办法区分同音字，长春，长沙都被分到 Z 了",
+        "link": "https://www.v2ex.com/t/762731",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "GitHub 手工耿",
+        "link": "https://www.v2ex.com/t/762730",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "这个网站是怎么反爬取的鸭",
+        "link": "https://www.v2ex.com/t/762729",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "泰达币 Tether(USDT)取现问题",
+        "link": "https://www.v2ex.com/t/762728",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "有淮南电信的兄弟么，到海外测个速看看？",
+        "link": "https://www.v2ex.com/t/762726",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "MySQL 认证： CMDBA 和 CMDEV 现在还能考吗？",
+        "link": "https://www.v2ex.com/t/762725",
+        "date": "2021-03-18"
+      },
+      {
         "title": "2019 款 16 寸 Mac 上 macOS 有必要升级到 macOS Big Sur 吗？",
         "link": "https://www.v2ex.com/t/762722",
         "date": "2021-03-18"
@@ -20198,41 +20233,6 @@
       {
         "title": "5 个你还不知道的 Git 用法！",
         "link": "https://www.v2ex.com/t/762683",
-        "date": "2021-03-18"
-      },
-      {
-        "title": "杭州头条教育业务 Android 直推， HC 超级多",
-        "link": "https://www.v2ex.com/t/762682",
-        "date": "2021-03-18"
-      },
-      {
-        "title": "长沙小公司面到 9k，去深圳能拿多少？",
-        "link": "https://www.v2ex.com/t/762681",
-        "date": "2021-03-18"
-      },
-      {
-        "title": "macbookpro 左上角出现一块黄色的色块,请问是什么原因.电脑已经过保,有什么解决办法吗",
-        "link": "https://www.v2ex.com/t/762680",
-        "date": "2021-03-18"
-      },
-      {
-        "title": "村通网 Adguard 可以安装暴力猴脚本",
-        "link": "https://www.v2ex.com/t/762679",
-        "date": "2021-03-18"
-      },
-      {
-        "title": "GitHub 疯传！北大学霸的 LeetCode 刷题笔记火了",
-        "link": "https://www.v2ex.com/t/762677",
-        "date": "2021-03-18"
-      },
-      {
-        "title": "[三七互娱内推-社招 PHP 工程师 15 薪] [广州]（内部系统-双休）",
-        "link": "https://www.v2ex.com/t/762676",
-        "date": "2021-03-18"
-      },
-      {
-        "title": "调查一下：现在开发用 windows 的多吗？看好多都 mac 了？",
-        "link": "https://www.v2ex.com/t/762674",
         "date": "2021-03-18"
       }
     ]
@@ -20415,13 +20415,13 @@
         "date": "2021-03-18"
       },
       {
-        "title": "《深度学习推荐系统》笔记（二）：立于道，工于技",
-        "link": "https://toutiao.io/k/ywivvnc",
+        "title": "数仓主题域、主题、业务域之间有什么的关系",
+        "link": "https://toutiao.io/k/432ivfx",
         "date": "2021-03-18"
       },
       {
-        "title": "数仓主题域、主题、业务域之间有什么的关系",
-        "link": "https://toutiao.io/k/432ivfx",
+        "title": "《深度学习推荐系统》笔记（二）：立于道，工于技",
+        "link": "https://toutiao.io/k/ywivvnc",
         "date": "2021-03-18"
       },
       {
@@ -20440,33 +20440,13 @@
         "date": "2021-03-18"
       },
       {
-        "title": "[推荐] [译] 构建微服务的十大 Go 框架/库",
-        "link": "https://toutiao.io/k/44rsmt3",
+        "title": "[推荐] MySQL 索引从基础到原理，看这一篇就够了",
+        "link": "https://toutiao.io/k/hueiax0",
         "date": "2021-03-18"
       },
       {
-        "title": "[推荐] MySQL 读写分离，写完读不到问题如何解决",
-        "link": "https://toutiao.io/k/ga340bq",
-        "date": "2021-03-18"
-      },
-      {
-        "title": "[推荐] 带你深入理解 Java 内存模型理论",
-        "link": "https://toutiao.io/k/0ic2o68",
-        "date": "2021-03-18"
-      },
-      {
-        "title": "[推荐] Golang 性能诊断看这篇就够了",
-        "link": "https://toutiao.io/k/3loin1u",
-        "date": "2021-03-18"
-      },
-      {
-        "title": "[推荐] 聊聊 IT 技术人的知识体系",
-        "link": "https://toutiao.io/k/vmimc5g",
-        "date": "2021-03-18"
-      },
-      {
-        "title": "[推荐] 国内有哪些顶级技术团队的博客值得推荐？",
-        "link": "https://toutiao.io/k/j7v5pee",
+        "title": "[推荐] Tomcat 性能调优应该注意什么？",
+        "link": "https://toutiao.io/k/kldrkzc",
         "date": "2021-03-18"
       },
       {
@@ -20475,18 +20455,8 @@
         "date": "2021-03-18"
       },
       {
-        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
-        "link": "https://toutiao.io/k/xuv7rlf",
-        "date": "2021-03-18"
-      },
-      {
-        "title": "[推荐] 21 大软件架构特点的全面解析",
-        "link": "https://toutiao.io/k/2n0entj",
-        "date": "2021-03-18"
-      },
-      {
-        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
-        "link": "https://toutiao.io/k/yduqoev",
+        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
+        "link": "https://toutiao.io/k/tgp1ua8",
         "date": "2021-03-18"
       },
       {
@@ -20495,18 +20465,48 @@
         "date": "2021-03-18"
       },
       {
-        "title": "[推荐] 有赞 BI 平台设计及实现",
-        "link": "https://toutiao.io/k/a595tmo",
+        "title": "[推荐] 2021 有哪些不容错过的后端技术趋势",
+        "link": "https://toutiao.io/k/e3lq37o",
         "date": "2021-03-18"
       },
       {
-        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
-        "link": "https://toutiao.io/k/tgp1ua8",
+        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
+        "link": "https://toutiao.io/k/yduqoev",
         "date": "2021-03-18"
       },
       {
-        "title": "[推荐] 2021 阿里淘系工程师推荐书单",
-        "link": "https://toutiao.io/k/txzl2gg",
+        "title": "[推荐] 做一个很出色的程序员",
+        "link": "https://toutiao.io/k/g6xlwp2",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "[推荐] 国内有哪些顶级技术团队的博客值得推荐？",
+        "link": "https://toutiao.io/k/j7v5pee",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "[推荐] 面试被吊打：Redis 原理",
+        "link": "https://toutiao.io/k/pmxukkm",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "[推荐] 这几款 JVM 故障诊断处理工具你还不会？",
+        "link": "https://toutiao.io/k/dux0ogl",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "[推荐] Redis 教程：Redis 知识体系详解",
+        "link": "https://toutiao.io/k/av396i0",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
+        "link": "https://toutiao.io/k/mzszqf0",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "[推荐] [译] 构建微服务的十大 Go 框架/库",
+        "link": "https://toutiao.io/k/44rsmt3",
         "date": "2021-03-18"
       },
       {

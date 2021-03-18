@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-18 14:53:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-18 15:04:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -416,7 +416,6 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】Laravel-Octane-是什么，以及为什么它可以把传统-Laravel-应用性能提升十倍？](https://www.v2ex.com/t/763000)
 - [【开发者头条】今日头条-ANR-优化实践系列：设计原理及影响因素](https://toutiao.io/k/9b0suhy)
-- [【开发者头条】推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano)
 - [【开发者头条】推荐-Tomcat-性能调优应该注意什么？](https://toutiao.io/k/kldrkzc)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -515,6 +514,7 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】公司的-git-服务器经常崩，大家公司是怎么处理-git-服务压力过大导致的-crash-的？](https://www.v2ex.com/t/763014)
 - [【V2EX】可以使用-GitLab-进行项目管理吗？](https://www.v2ex.com/t/763006)
 - [【开发者头条】推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0)
 - [【安全热点】【风险提示】天融信关于GitLab远程代码执行漏洞风险提示](https://sec.thief.one/article_content?a_id=75acec374fda9831dd9e0cfd57f8228d)

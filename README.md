@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-19 18:46:26，:rocket: 更新条数: +714， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-19 18:49:54，:rocket: 更新条数: +4176， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -45,14 +45,14 @@
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-03-19-最新疫情：全国新冠累计确诊90083例-新增本土病例1例](https://m.caixin.com/m/2021-03-19/101677658.html) ![](assets/new.png)  
+- [2021-03-19-香港建议新冠康复者出院后再接种一剂mRNA疫苗](https://m.caixin.com/m/2021-03-19/101677435.html) ![](assets/new.png)  
+- [2021-03-19-最新海外疫情：新冠感染超1.21亿-累计死亡超268万](https://m.caixin.com/m/2021-03-19/101677655.html) ![](assets/new.png)  
+- [2021-03-19-【境内疫情观察】陕西西安新增1例本土病例（3月18日）](http://m.database.caixin.com/m/2021-03-19/101677385.html) ![](assets/new.png)  
+- [2021-03-19-欧盟拟推新冠“数字绿色证书”-法新型变异株逃避核酸检测-|-大流行手记（3月18日）](https://m.caixin.com/m/2021-03-19/101677244.html) ![](assets/new.png)  
+- [2021-03-18-西安确诊1例新冠本土病例-为医院封闭隔离病区检验师](https://m.caixin.com/m/2021-03-18/101677080.html) ![](assets/new.png)  
+- [2021-03-18-【境内疫情观察】全国20个省份连续15日以上无新增确诊病例（3月17日）](http://m.database.caixin.com/m/2021-03-18/101676983.html) ![](assets/new.png)  
+- [2021-03-18-法国暴发第三波疫情-研究指孕妇接种后抗体可传胎儿-|-大流行手记（3月17日）](https://m.caixin.com/m/2021-03-18/101676780.html) ![](assets/new.png)  
+- [2021-03-18-不顾变异病毒株扩散担忧-日本“首都圈”将解除紧急状态](http://m.international.caixin.com/m/2021-03-18/101677218.html) ![](assets/new.png)  
+- [2021-03-17-北京新冠疫苗接种领跑全国-高校号召“应接尽接，应快尽快”](https://m.caixin.com/m/2021-03-17/101676348.html) ![](assets/new.png)  
+- [2021-03-17-郑州通报1例无症状感染者：系非法入境](http://m.china.caixin.com/m/2021-03-17/101676756.html) ![](assets/new.png)  
+- [2021-03-17-【境内疫情观察】全国在院本土病例降至3例（3月16日）](http://m.database.caixin.com/m/2021-03-17/101676421.html) ![](assets/new.png)  
+- [2021-03-17-研究再证英变异病毒推高死亡率-意大利半数城市“封城”-|-大流行手记（3月16日）](https://m.caixin.com/m/2021-03-17/101676299.html) ![](assets/new.png)  
+- [2021-03-16-3月15日全国新增新冠13例-均由境外输入](https://m.caixin.com/m/2021-03-16/101675774.html) ![](assets/new.png)  
+- [2021-03-16-【境内疫情观察】四川新增6例境外输入病例（3月15日）](http://m.database.caixin.com/m/2021-03-16/101675892.html) ![](assets/new.png)  
+- [2021-03-16-英国力挺阿斯利康疫苗-日本拟推疫苗假期丨大流行手记（3月15日）](https://m.caixin.com/m/2021-03-16/101675754.html) ![](assets/new.png)  
+- [2021-03-16-欧盟“疫苗护照”拟暂不认证中国疫苗接种记录-塞尔维亚总统抱不平](http://m.international.caixin.com/m/2021-03-16/101675739.html) ![](assets/new.png)  
+- [2021-03-15-中国已接种6498万剂新冠疫苗-部分老年人纳入重点人群](https://m.caixin.com/m/2021-03-15/101675606.html) ![](assets/new.png)  
+- [2021-03-15-香港放宽优先接种疫苗群体至30岁以上-可接种人群扩大至550万](https://m.caixin.com/m/2021-03-15/101675542.html) ![](assets/new.png)  
+- [2021-03-15-【境内疫情观察】全国新增5例境外输入病例（3月14日）](http://m.database.caixin.com/m/2021-03-15/101675369.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -76,6 +96,8 @@
 </summary>
 
 
+- [2021-03-19-全国｜新增-11-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8D8galvlV5DQ3NnF95cu210319&isfromapp=1) ![](assets/new.png)  
+- [2021-03-18-陕西｜新增-1-例封闭隔离病区本土确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKneZ0vDDwFacgOBBvLxU210318&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -848,6 +870,26 @@
 </summary>
 
 
+- [2021-03-19-周五了，随机送书，每个6本，共12本](https://www.ershicimi.com/p/ad8d24088122eecdfc362ec6cba6e8a7) ![](assets/new.png)  
+- [2021-03-18-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/8c26ee1fb7b2b09e2bc0e1825cd88896) ![](assets/new.png)  
+- [2021-03-17-ECMAScript®2021-语言规范](https://www.ershicimi.com/p/3bb5d916ce0142153d089cecb55f1388) ![](assets/new.png)  
+- [2021-03-16-Electron-12.0.0-发布](https://www.ershicimi.com/p/bef6042bbb6ec69205f21a0b3222869f) ![](assets/new.png)  
+- [2021-03-15-2021年JavaScript的发展前景](https://www.ershicimi.com/p/8f16bb3a0a080486055521f9197b341f) ![](assets/new.png)  
+- [2021-03-12-我差点因为在企业应用中选择-React-而被解雇](https://www.ershicimi.com/p/8ccdb4b77717a1cd9c67cc471363bbb9) ![](assets/new.png)  
+- [2021-03-11-Vue-和-React-大厂面试通关指南.pdf](https://www.ershicimi.com/p/592906887586dd3bfd8a90a767da64f9) ![](assets/new.png)  
+- [2021-03-10-大家晚饭一般都花多少钱，在哪儿吃？](https://www.ershicimi.com/p/f911b3f0c47a70d4b24c1d2aad896865) ![](assets/new.png)  
+- [2021-03-09-如何检查JavaScript对象上是否存在一个属性？](https://www.ershicimi.com/p/bafd480e057135780211caa067ff66c6) ![](assets/new.png)  
+- [2021-03-08-进大厂必会的Vue，你还没搞懂吗？](https://www.ershicimi.com/p/3b9469aac5f6961aba1b431602644437) ![](assets/new.png)  
+- [2021-03-07-Deno-1.8-发布](https://www.ershicimi.com/p/7bf3841f9538defad4ae083c5127e605) ![](assets/new.png)  
+- [2021-03-05-6个你可以马上使用的JavaScipt小技巧](https://www.ershicimi.com/p/3626a8d597f84773ff3b870d00ba8c79) ![](assets/new.png)  
+- [2021-03-04-React面试必问Fiber和Hooks，一次解决](https://www.ershicimi.com/p/c326f772256b25d1466c7f954d154157) ![](assets/new.png)  
+- [2021-03-03-你是一名优秀的前端工程师吗？](https://www.ershicimi.com/p/ee9c905d4e7cb403d7b111eb94d52c80) ![](assets/new.png)  
+- [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) ![](assets/new.png)  
+- [2021-02-26-各位下班都背电脑吗？](https://www.ershicimi.com/p/be2f3b47643fc5f179a775ea24c890c7) ![](assets/new.png)  
+- [2021-02-25-你所有的底气来源于-有钱！](https://www.ershicimi.com/p/3e50630bfd9cec64e2de7240516416f8) ![](assets/new.png)  
+- [2021-02-24-【纯文字】2021-的-Node.js-开发人员路线图](https://www.ershicimi.com/p/5bca80dd99c61fad9cae2c3f288d40c1) ![](assets/new.png)  
+- [2021-02-22-熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142) ![](assets/new.png)  
+- [2021-02-19-新年快乐！上班啦，开工大吉！大家的开工红包是多少呢？](https://www.ershicimi.com/p/28a9b06af4115d54cbfa9eb5de5da424) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1005,6 +1047,26 @@
 </summary>
 
 
+- [2021-03-19-中国互联网20年简史（1998-2018）：其中的规律与本质是什么？-www.cniteyes.com](https://blogread.cn/news/go.php?idItem=14226&url=http%3A%2F%2Fwww.cniteyes.com%2Farchives%2F33211%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-硬件安全：ARM体系架构的安全特性演进-www.secrss.com](https://blogread.cn/news/go.php?idItem=14225&url=https%3A%2F%2Fwww.secrss.com%2Farticles%2F9812%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-MTK平台Android-安全中secure-boot机制-blog.csdn.net](https://blogread.cn/news/go.php?idItem=14224&url=https%3A%2F%2Fblog.csdn.net%2Fqq_43805880%2Farticle%2Fdetails%2F108062898%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-UEFI安全启动-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14223&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F25279889%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-Android-Verified-Boot-概述-www.xiezeyang.com](https://blogread.cn/news/go.php?idItem=14222&url=https%3A%2F%2Fwww.xiezeyang.com%2F2019%2F10%2F20%2FSecurity%2FAndroidVerifiedBoot%25E6%25A6%2582%25E8%25BF%25B0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-浅析安全启动（Secure-Boot-bbs.pediy.com](https://blogread.cn/news/go.php?idItem=14221&url=https%3A%2F%2Fbbs.pediy.com%2Fthread-260399.htm%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-浅谈-Android-的安全启动和完整性保护-evilpan.com](https://blogread.cn/news/go.php?idItem=14220&url=https%3A%2F%2Fevilpan.com%2F2020%2F11%2F14%2Fandroid-secure-boot%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-黑产在IP攻防上的挣扎与进化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14219&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FljhNo8RckOt70-3H5j_6pQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-基于用户画像大数据的电商防刷架构-www.iyunying.org](https://blogread.cn/news/go.php?idItem=14218&url=https%3A%2F%2Fwww.iyunying.org%2Fseo%2Fdataanalysis%2F31400.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-软件测试人员该何去何从？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14217&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-qa-capability%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-延时！保新！2-年续期证书来啦~-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14216&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F357791609%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-提升软件交付效能——初探“按需发布”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpublish-as-needed%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-软件匠艺-teobler.com](https://blogread.cn/news/go.php?idItem=14214&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210314-software-craftsmanship%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-一文说透依赖注入-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dependency-injection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-为什么-Activity.finish-之后-10s-才-onDestroy-？我蒙蔽了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14212&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff30oh8781IYj2Rdq8UJfUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-华为高管再放狠话：鸿蒙不是安卓、iOS-的拷贝！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14211&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaiToCRUMtTz4BODqDGayuw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-鸿蒙开发初体验-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14210&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYBHOTtLjp7PuIGh5k0fnTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-阿里平头哥成功将-Android-10-移植到-RISC-V-架构上-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14209&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FShmgLyQnwuzEmO_OuNh7MA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-PanDownload-复活了！60MB/s！附下载地址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14208&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwi4cVwqkHO_kwZFBuFfAPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-19-绝了！搜狗输入法这骚操作！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14207&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfG6Nx8JAnajo7arkb9IqGA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

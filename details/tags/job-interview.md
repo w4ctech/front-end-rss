@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-18 23:55:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-19 00:08:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -27,8 +27,8 @@
 - [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-03-18-上海-北京-循环智能招聘-Golang-后端](https://www.v2ex.com/t/763023) 
-- [2021-03-18-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) 
-- [2021-03-18-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) 
+- [2021-03-19-面试官常问的垃圾回收器，这次全搞懂](https://toutiao.io/k/7aczn5o) 
+- [2021-03-19-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) 
 - [2021-03-17-滴滴面试官:说说你的能力模型为什么值-50W](https://sec.thief.one/article_content?a_id=c75700bf9e867354c54842800fa0907d) 
 - [2021-03-17-HW干货集合-|-HW面试题记录](https://sec.thief.one/article_content?a_id=076dcb2bdb45e9d2478c236f3f065249) 
 - [2021-03-16-春日招聘|网易、小米十个岗位热招中](https://sec.thief.one/article_content?a_id=12def8655a36ed5a97d1f4a334c533a6) 

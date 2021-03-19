@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-18 23:55:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-19 00:08:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -57,6 +57,7 @@
 - [2021-02-02-动态表单之表单组件的插件式加载方案](https://www.ershicimi.com/p/8cc8832fe3c00b073d2e023bcbf6947f) 
 - [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 
 - [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
+- [2021-03-17-慎用JSON.stringify](https://www.ershicimi.com/p/b4d615ff6794e9ae40598c5e1bbdea54) 
 - [2021-03-08-这些一行-JS-实现功能的代码，让你看起来像一个前端专家](https://www.ershicimi.com/p/b5f0be5543f351bf9da06419d35cd857) 
 - [2021-03-03-JavaScript-代码整洁之道](https://www.ershicimi.com/p/a44c71351eae862bed138b76e3b708c9) 
 - [2021-03-16-174道JavaScript-面试知识点总结（下）](https://www.ershicimi.com/p/8c64594d6fab0f8201c0e5c6839130bc) 
@@ -90,4 +91,5 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-03-18-请教一下，-js-项目打包，发布-lib-和相关-type-方法](https://www.v2ex.com/t/763032) 
+- [2021-03-19-在-C#-中使用-CancellationToken-处理异步任务](https://toutiao.io/k/49joufi) 
 - [2021-03-17-Apache-Solr-组件安全概览](https://sec.thief.one/article_content?a_id=d423fef990ddc35a22452dbf4db35f07) 

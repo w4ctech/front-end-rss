@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-19 16:59:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-19 17:14:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -20,6 +20,7 @@
 - [2019-12-03-从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f) 
 - [2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
 - [2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
+- [2021-03-19-在开源库中进行埋点操作，这犯法吗](https://www.v2ex.com/t/763361) 
 - [2021-03-19-20210320-午夜俱乐部](https://www.v2ex.com/t/763359) 
 - [2021-03-19-四川电信数据流量-ipv6-不能出国？](https://www.v2ex.com/t/763358) 
 - [2021-03-19-杭州有动物领养的吗？](https://www.v2ex.com/t/763357) 
@@ -47,8 +48,6 @@
 - [2021-03-19-qbittorrent-的-dht-节点怎么连接呢](https://www.v2ex.com/t/763318) 
 - [2021-03-19-请教一下各位大佬关于-Apple-商务管理电脑-IT-资产的问题](https://www.v2ex.com/t/763317) 
 - [2021-03-19-大家听过的好听的名字有哪些？给宝宝取名字，用作参考。](https://www.v2ex.com/t/763316) 
-- [2021-03-19-光猫-los-红灯常亮，亮度很低，联通-wo-27s](https://www.v2ex.com/t/763312) 
-- [2021-03-19-有没有从流浪猫狗救助站领养宠物的-V-友？靠谱吗？](https://www.v2ex.com/t/763311) 
 - [2021-03-19-网安杂谈收藏夹2021.3.19](https://sec.thief.one/article_content?a_id=8ab6bc41c846623b4b37af344c434447) 
 - [2021-03-19-Netgear-R6400v2-堆溢出漏洞分析与利用](https://sec.thief.one/article_content?a_id=c58e8dc40d42cfe1b7b462b873ba4b10) 
 - [2021-03-18-这是我见过最秀的代码注释](https://sec.thief.one/article_content?a_id=0eac1a9ef3e3c64cf62c3f15fd7a84c7) 

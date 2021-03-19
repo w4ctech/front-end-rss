@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-19 16:59:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-19 17:14:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -439,11 +439,11 @@
 - [【前端艺术家&&飞冰早报】从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f)
 - [【前端艺术家&&飞冰早报】没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b)
 - [【前端艺术家&&飞冰早报】云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742)
+- [【V2EX】在开源库中进行埋点操作，这犯法吗](https://www.v2ex.com/t/763361)
 - [【V2EX】20210320-午夜俱乐部](https://www.v2ex.com/t/763359)
 - [【V2EX】四川电信数据流量-ipv6-不能出国？](https://www.v2ex.com/t/763358)
 - [【V2EX】杭州有动物领养的吗？](https://www.v2ex.com/t/763357)
 - [【V2EX】最近又很多鸿蒙系统的消息，引发一点感想](https://www.v2ex.com/t/763355)
-- [【V2EX】一个背单词小-app,-想知道哪种数据存储方法更高效](https://www.v2ex.com/t/763352)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

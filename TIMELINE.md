@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-19 16:59:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-19 17:14:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【阮一峰的网络日志】2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) 
 - [【阮一峰的网络日志】2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html) 
 - [【阮一峰的网络日志】2021-03-05-科技爱好者周刊（第-148-期）：微增长时代](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html) 
+- [【V2EX】2021-03-19-在开源库中进行埋点操作，这犯法吗](https://www.v2ex.com/t/763361) 
 - [【V2EX】2021-03-19-从-gitlab-拉了一个项目下来，然后复制所有项目文件到另外一个仓库文件夹下面，下载依赖并且-start-报错](https://www.v2ex.com/t/763360) 
 - [【V2EX】2021-03-19-20210320-午夜俱乐部](https://www.v2ex.com/t/763359) 
 - [【V2EX】2021-03-19-四川电信数据流量-ipv6-不能出国？](https://www.v2ex.com/t/763358) 
@@ -107,8 +108,6 @@
 - [【V2EX】2021-03-19-请教一下各位大佬关于-Apple-商务管理电脑-IT-资产的问题](https://www.v2ex.com/t/763317) 
 - [【V2EX】2021-03-19-大家听过的好听的名字有哪些？给宝宝取名字，用作参考。](https://www.v2ex.com/t/763316) 
 - [【V2EX】2021-03-19-myeclipse-使用-git-的时候，怎么让每个文件显示出最后修改日期等信息。](https://www.v2ex.com/t/763313) 
-- [【V2EX】2021-03-19-光猫-los-红灯常亮，亮度很低，联通-wo-27s](https://www.v2ex.com/t/763312) 
-- [【V2EX】2021-03-19-有没有从流浪猫狗救助站领养宠物的-V-友？靠谱吗？](https://www.v2ex.com/t/763311) 
 - [【安全热点】2021-03-19-网安杂谈收藏夹2021.3.19](https://sec.thief.one/article_content?a_id=8ab6bc41c846623b4b37af344c434447) 
 - [【安全热点】2021-03-19-Netgear-R6400v2-堆溢出漏洞分析与利用](https://sec.thief.one/article_content?a_id=c58e8dc40d42cfe1b7b462b873ba4b10) 
 - [【安全热点】2021-03-18-《原神》1.5版本游戏信息大量泄漏](https://sec.thief.one/article_content?a_id=9a054994193c4afd470c75b34d0a8b26) 

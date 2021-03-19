@@ -439,6 +439,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "在开源库中进行埋点操作，这犯法吗",
+        "link": "https://www.v2ex.com/t/763361",
+        "date": "2021-03-19"
+      },
+      {
         "title": "从 gitlab 拉了一个项目下来，然后复制所有项目文件到另外一个仓库文件夹下面，下载依赖并且 start 报错",
         "link": "https://www.v2ex.com/t/763360",
         "date": "2021-03-19"
@@ -611,16 +616,6 @@
       {
         "title": "myeclipse 使用 git 的时候，怎么让每个文件显示出最后修改日期等信息。",
         "link": "https://www.v2ex.com/t/763313",
-        "date": "2021-03-19"
-      },
-      {
-        "title": "光猫 los 红灯常亮，亮度很低，联通 wo-27s",
-        "link": "https://www.v2ex.com/t/763312",
-        "date": "2021-03-19"
-      },
-      {
-        "title": "有没有从流浪猫狗救助站领养宠物的 V 友？靠谱吗？",
-        "link": "https://www.v2ex.com/t/763311",
         "date": "2021-03-19"
       }
     ]

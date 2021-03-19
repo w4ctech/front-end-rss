@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-19 05:01:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-19 05:13:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-03-15-Flutter2.0-重磅发布！带你打破“前端技术杂”的现状~](https://www.ershicimi.com/p/04bbceaaf13bf4a7973cd4c290f7fa33) 
 - [2021-01-19-【Flutter-技能篇】你不得不会的状态管理-Provider](https://www.ershicimi.com/p/ce1e5ffc69f2c386ef1395d5f6babc71) 
 - [2021-03-19-flutter-练手，匿名发动态的-APP](https://www.v2ex.com/t/763141) 
 - [2021-03-19-Flutter-Web-在美团外卖的实践](https://toutiao.io/k/8jczbp9) 

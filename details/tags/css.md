@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-19 16:12:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-19 16:59:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -7,7 +7,6 @@
 
 
 
-- [2021-03-14-奇思妙想-CSS-文字动画](https://www.ershicimi.com/p/a6d301b266223d57832c1165bbdaa43c) 
 - [2021-03-14-CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/) 
 - [2021-02-18-使用CSS-text-combine-upright实现字符的横向合并](https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/) 
 - [2021-02-18-CSS-line-break属性与中文标点换行](https://www.zhangxinxu.com/wordpress/2021/02/css-line-break/) 
@@ -19,3 +18,4 @@
 - [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
 - [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
 - [2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
+- [2021-03-19-CSS-是否支持对一组图片进行缩放操作](https://www.v2ex.com/t/763331) 

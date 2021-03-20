@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-20 21:45:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-20 21:54:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,12 +23,11 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2021-03-17-【第2228期】CORS-完全手册之CORS-详解](https://www.ershicimi.com/p/175215b495283b4a68ef95a567811a27) 
-- [2021-03-13-【第2224期】CORS-完全手册之如何解决CORS-问题？](https://www.ershicimi.com/p/09c2ff8db9089698491ea785feae67c5) 
-- [2021-03-15-你的登录接口真的安全吗？快看看你有没有中招！](https://www.ershicimi.com/p/bef4f25f1eee4b1516d7beece00a7438) 
-- [2021-03-16-阿里面试官问“说一下从-url-输入到返回请求的过程”的难度就是不一样！](https://www.ershicimi.com/p/a3dc94113685eceeef15776172d1f8cb) 
-- [2021-03-14-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/256db53e1130ad8bbf89b49547f47cb8) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-03-20-就-API-交互类似场景来说，有没有相关法律法规有规定安全规范啥的（纯好奇）](https://www.v2ex.com/t/763541) 
+- [2021-03-20-浏览器书签保存的-cnblog-ibm-都看不了](https://www.v2ex.com/t/763537) 
+- [2021-03-20-chrome-右上角突然多出个”搜索标签页“的图标](https://www.v2ex.com/t/763522) 
 - [2021-03-18-【安全头条】狩猎者变成猎物:WeLeakIofo的故事续集出现反转](https://sec.thief.one/article_content?a_id=9ef75d571f0efcea344d56638b65edce) 
 - [2021-03-18-阿里面试官问“说一下从-url-输入到返回请求的过程”的难度就是不一...](https://sec.thief.one/article_content?a_id=dbb71047cd302bf8c0584f1ee23c4de9) 
 - [2021-03-18-16美元就可以打包带走所有短信,你的手机号还安全吗?](https://sec.thief.one/article_content?a_id=a5132bfc3fc98f65d368b9359804cd4f) 

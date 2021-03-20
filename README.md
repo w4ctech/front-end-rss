@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-20 01:25:51，:rocket: 更新条数: +185， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 02:09:06，:rocket: 更新条数: +3586， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)  
 
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-03-20-欧盟多国重启接种阿斯利康疫苗-美拟为墨加供苗400万剂-|-大流行手记（3月19日）](https://m.caixin.com/m/2021-03-20/101677860.html) ![](assets/new.png)  
+- [2021-03-19-最新疫情：全国新冠累计确诊90083例-新增本土病例1例](https://m.caixin.com/m/2021-03-19/101677658.html) ![](assets/new.png)  
+- [2021-03-19-香港建议新冠康复者出院后再接种一剂mRNA疫苗](https://m.caixin.com/m/2021-03-19/101677435.html) ![](assets/new.png)  
+- [2021-03-19-最新海外疫情：新冠感染超1.21亿-累计死亡超268万](https://m.caixin.com/m/2021-03-19/101677655.html) ![](assets/new.png)  
+- [2021-03-19-【境内疫情观察】陕西西安新增1例本土病例（3月18日）](http://m.database.caixin.com/m/2021-03-19/101677385.html) ![](assets/new.png)  
+- [2021-03-19-欧盟拟推新冠“数字绿色证书”-法新型变异株逃避核酸检测-|-大流行手记（3月18日）](https://m.caixin.com/m/2021-03-19/101677244.html) ![](assets/new.png)  
+- [2021-03-18-西安确诊1例新冠本土病例-为医院封闭隔离病区检验师](https://m.caixin.com/m/2021-03-18/101677080.html) ![](assets/new.png)  
+- [2021-03-18-【境内疫情观察】全国20个省份连续15日以上无新增确诊病例（3月17日）](http://m.database.caixin.com/m/2021-03-18/101676983.html) ![](assets/new.png)  
+- [2021-03-18-法国暴发第三波疫情-研究指孕妇接种后抗体可传胎儿-|-大流行手记（3月17日）](https://m.caixin.com/m/2021-03-18/101676780.html) ![](assets/new.png)  
+- [2021-03-18-不顾变异病毒株扩散担忧-日本“首都圈”将解除紧急状态](http://m.international.caixin.com/m/2021-03-18/101677218.html) ![](assets/new.png)  
+- [2021-03-17-北京新冠疫苗接种领跑全国-高校号召“应接尽接，应快尽快”](https://m.caixin.com/m/2021-03-17/101676348.html) ![](assets/new.png)  
+- [2021-03-17-郑州通报1例无症状感染者：系非法入境](http://m.china.caixin.com/m/2021-03-17/101676756.html) ![](assets/new.png)  
+- [2021-03-17-【境内疫情观察】全国在院本土病例降至3例（3月16日）](http://m.database.caixin.com/m/2021-03-17/101676421.html) ![](assets/new.png)  
+- [2021-03-17-研究再证英变异病毒推高死亡率-意大利半数城市“封城”-|-大流行手记（3月16日）](https://m.caixin.com/m/2021-03-17/101676299.html) ![](assets/new.png)  
+- [2021-03-16-3月15日全国新增新冠13例-均由境外输入](https://m.caixin.com/m/2021-03-16/101675774.html) ![](assets/new.png)  
+- [2021-03-16-【境内疫情观察】四川新增6例境外输入病例（3月15日）](http://m.database.caixin.com/m/2021-03-16/101675892.html) ![](assets/new.png)  
+- [2021-03-16-英国力挺阿斯利康疫苗-日本拟推疫苗假期丨大流行手记（3月15日）](https://m.caixin.com/m/2021-03-16/101675754.html) ![](assets/new.png)  
+- [2021-03-16-欧盟“疫苗护照”拟暂不认证中国疫苗接种记录-塞尔维亚总统抱不平](http://m.international.caixin.com/m/2021-03-16/101675739.html) ![](assets/new.png)  
+- [2021-03-15-中国已接种6498万剂新冠疫苗-部分老年人纳入重点人群](https://m.caixin.com/m/2021-03-15/101675606.html) ![](assets/new.png)  
+- [2021-03-15-香港放宽优先接种疫苗群体至30岁以上-可接种人群扩大至550万](https://m.caixin.com/m/2021-03-15/101675542.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,26 +514,6 @@
 </summary>
 
 
-- [2021-03-20-这里有百度地图官方的人么？有几个事情要说。](https://www.v2ex.com/t/763386) ![](assets/new.png)  
-- [2021-03-20-杭州神兔这家公司有人了解吗？怎么样](https://www.v2ex.com/t/763385) ![](assets/new.png)  
-- [2021-03-20-OneDrive-放在开启-bitlocker-的分区有问题吗？如果磁盘出现坏道文件损坏会不会影响到-OneDrive？](https://www.v2ex.com/t/763384) ![](assets/new.png)  
-- [2021-03-20-ExtJS-该如何学习？](https://www.v2ex.com/t/763383) ![](assets/new.png)  
-- [2021-03-20-从隔壁-hostloc-过来的谈谈感受](https://www.v2ex.com/t/763382) ![](assets/new.png)  
-- [2021-03-20-在公司网络有监控的情况下，怎样用-frp-安全的浏览外部网站？](https://www.v2ex.com/t/763381) ![](assets/new.png)  
-- [2021-03-20-LoveTime-一个与爱情和时间线相关的项目](https://www.v2ex.com/t/763380) ![](assets/new.png)  
-- [2021-03-20-平安智慧企业的产品经理可跳否？](https://www.v2ex.com/t/763379) ![](assets/new.png)  
-- [2021-03-20-m1-上自带的中文输入法唤醒很慢，也可能是-bugsur-的问题](https://www.v2ex.com/t/763378) ![](assets/new.png)  
-- [2021-03-20-深圳电信-GitHub-访问龟速](https://www.v2ex.com/t/763377) ![](assets/new.png)  
-- [2021-03-20-国外域名-使用阿里云免费-DNS-解析，第一次打开网站，显示-DNS-解析时间要五六秒，可能是哪里的问题呢？](https://www.v2ex.com/t/763375) ![](assets/new.png)  
-- [2021-03-19-公司自己研发一套-UI-框架，这样的公司多吗？各位程序员使用感受如何？](https://www.v2ex.com/t/763374) ![](assets/new.png)  
-- [2021-03-19-从自然常数-e-的计算公式能推导-MD5-的算法吗](https://www.v2ex.com/t/763373) ![](assets/new.png)  
-- [2021-03-19-offer-选择问题](https://www.v2ex.com/t/763372) ![](assets/new.png)  
-- [2021-03-19-希捷-EXOS-X10-10TB-有哪些问题？](https://www.v2ex.com/t/763371) ![](assets/new.png)  
-- [2021-03-19-爱沙尼亚实际用途是什么？](https://www.v2ex.com/t/763370) ![](assets/new.png)  
-- [2021-03-19-Headless-Analytics-Stack？](https://www.v2ex.com/t/763369) ![](assets/new.png)  
-- [2021-03-19-VS-Code-自定义联想输入词库?](https://www.v2ex.com/t/763368) ![](assets/new.png)  
-- [2021-03-19-utorrent-里为什么-IPv6-连接这么少](https://www.v2ex.com/t/763367) ![](assets/new.png)  
-- [2021-03-19-一张无法在微信里发送的-GIF](https://www.v2ex.com/t/763365) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -536,6 +536,26 @@
 </summary>
 
 
+- [2021-03-20-业务开发的价值](https://toutiao.io/k/s8mmugr) ![](assets/new.png)  
+- [2021-03-20-译-BPF-可移植性和-CO-RE（一次编译，到处运行）](https://toutiao.io/k/o88fd7y) ![](assets/new.png)  
+- [2021-03-20-欧洲最大云厂商遇火灾，数据安全任重道远](https://toutiao.io/k/ksej3if) ![](assets/new.png)  
+- [2021-03-20-AI-艺术家：Pindar-Van-Arman](https://toutiao.io/k/4z2o2ct) ![](assets/new.png)  
+- [2021-03-20-如何构建你的沟通场域](https://toutiao.io/k/dujfhzb) ![](assets/new.png)  
+- [2021-03-20-基于-Flink-的分布式离线和实时的数据同步框架](https://toutiao.io/k/ilvyhe8) ![](assets/new.png)  
+- [2021-03-20-软件匠艺](https://toutiao.io/k/792ketf) ![](assets/new.png)  
+- [2021-03-20-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
+- [2021-03-20-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
+- [2021-03-20-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
+- [2021-03-20-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
+- [2021-03-20-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
+- [2021-03-20-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
+- [2021-03-20-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
+- [2021-03-20-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
+- [2021-03-20-推荐-有赞-BI-平台设计及实现](https://toutiao.io/k/a595tmo) ![](assets/new.png)  
+- [2021-03-20-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
+- [2021-03-20-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
+- [2021-03-20-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
+- [2021-03-20-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

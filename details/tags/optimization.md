@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-20 12:53:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-20 13:04:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2021-03-16-前端性能优化-24-条建议](https://www.ershicimi.com/p/64b30bdd8d7b97e76e641e9f974f1554) 
 - [2020-10-29-如何从-0-到-1-搭建性能检测系统修正版](https://www.ershicimi.com/p/caf97cfac5fe753a40ff1f199bf6abfe) 
 - [2021-03-18-8000字总结的前端性能优化](https://www.ershicimi.com/p/88c7daabed0083d1e6429537552ae971) 
@@ -16,4 +17,4 @@
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2021-03-20-发现有时加载网页上的图片时，是逐渐-模糊→清晰-变化的？](https://www.v2ex.com/t/763511) 
 - [2021-03-20-历史类网站如何做-seo-和提高百度收录](https://www.v2ex.com/t/763504) 
-- [2021-03-20-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) 
+- [2021-03-20-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) 

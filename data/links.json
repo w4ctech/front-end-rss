@@ -17125,7 +17125,18 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "全国｜新增确诊病例 4 例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5QMrMTXM4yNUGpWb4ZbX210320&isfromapp=1",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "陕西｜新增 1 例封闭隔离病区本土确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKneZ0vDDwFacgOBBvLxU210318&isfromapp=1",
+        "date": "2021-03-18"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",
@@ -17357,7 +17368,108 @@
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/5760",
     "title": "前端早读课",
     "link": "https://www.ershicimi.com/a/5760",
-    "items": []
+    "items": [
+      {
+        "title": "Vue3.0 PK React17 ，谁胜?",
+        "link": "https://www.ershicimi.com/p/000b4cfdbcb79218ddd80dd60a4e2c34",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "【第2229期】百度前端工程化之H5性能优化篇",
+        "link": "https://www.ershicimi.com/p/089f432672b4dc5866d93743adf7f40f",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "【招聘】苏州知犀思维导图招聘高级前端开发工程师",
+        "link": "https://www.ershicimi.com/p/f10acfcfa1b64e1cc9aa922785d19dcb",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "【第2228期】CORS 完全手册之CORS 详解",
+        "link": "https://www.ershicimi.com/p/175215b495283b4a68ef95a567811a27",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "【招聘】北京天眼查招聘高级前端研发工程师",
+        "link": "https://www.ershicimi.com/p/19225740b719a89c764f7d948d8f9eef",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "前端可视化进阶全路径",
+        "link": "https://www.ershicimi.com/p/66fbf0810abfca415db4876e9d86ffb2",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "【第2227期】逻辑编排在优酷可视化搭建中的实践之下",
+        "link": "https://www.ershicimi.com/p/963b179428c83fc5f2d9d8e9c0a27f64",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "【招聘】美团到店事业群-住宿门票研发团队招高级/资深前端工程师",
+        "link": "https://www.ershicimi.com/p/bb5885d815874793a4d63fcb6832e1c7",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "【第2226期】逻辑编排在优酷可视化搭建中的实践之上",
+        "link": "https://www.ershicimi.com/p/da6e696030786ed65bc3c67fac1cdaec",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "【招聘】阿里大文娱招高级前端开发/技术专家",
+        "link": "https://www.ershicimi.com/p/86233692af31dc54f76f460672fde0e1",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "【第2225期】开发者如何缓解焦虑提升效率？来自心理学研究者的建议",
+        "link": "https://www.ershicimi.com/p/9df7db498d7a2eba3a5c6d719ca5c684",
+        "date": "2021-03-14"
+      },
+      {
+        "title": "【招聘】字节飞书增长与平台团队招高级、资深前后端工程师",
+        "link": "https://www.ershicimi.com/p/9919493d554ee89586cf8c4cd131056e",
+        "date": "2021-03-14"
+      },
+      {
+        "title": "【第2224期】CORS 完全手册之如何解决CORS 问题？",
+        "link": "https://www.ershicimi.com/p/09c2ff8db9089698491ea785feae67c5",
+        "date": "2021-03-13"
+      },
+      {
+        "title": "【招聘】腾讯VTeam技术团队招前端、应用、后台开发工程师",
+        "link": "https://www.ershicimi.com/p/92a79306c4c3ecbda8929a18a6b35a44",
+        "date": "2021-03-13"
+      },
+      {
+        "title": "【第2223期】探索微前端的场景极限",
+        "link": "https://www.ershicimi.com/p/5fdaef89d16ff96ab8a024d9abab647e",
+        "date": "2021-03-12"
+      },
+      {
+        "title": "【招聘】蚂蚁金服体验技术部地平线招聘p5~p8前端",
+        "link": "https://www.ershicimi.com/p/3c64b714fe791757274ed726ab2e74af",
+        "date": "2021-03-12"
+      },
+      {
+        "title": "Vue 和 React 大厂面试通关指南.pdf",
+        "link": "https://www.ershicimi.com/p/988697b23628473999c5b366dfeda1fd",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "【第2222期】下一代前端构建工具 ViteJS 技术解读",
+        "link": "https://www.ershicimi.com/p/548c42b015268d12fff530b4774415a7",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "【招聘】蘑菇街-锐鲨科技招前端开发工程师",
+        "link": "https://www.ershicimi.com/p/c133a31506f6852705cd275f0d5389cc",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "【第2221期】和 Node.js 创始人 Ryan Dahl 的对话",
+        "link": "https://www.ershicimi.com/p/49aeddfcb36ecfa2242257adfab9cf3e",
+        "date": "2021-03-10"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/65",
@@ -18433,7 +18545,108 @@
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/8801",
     "title": "前端宇宙",
     "link": "https://www.ershicimi.com/a/8801",
-    "items": []
+    "items": [
+      {
+        "title": "8000字总结的前端性能优化",
+        "link": "https://www.ershicimi.com/p/88c7daabed0083d1e6429537552ae971",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "慎用JSON.stringify",
+        "link": "https://www.ershicimi.com/p/b4d615ff6794e9ae40598c5e1bbdea54",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "@前端人，从小厂跳到大厂，你缺的是什么？",
+        "link": "https://www.ershicimi.com/p/b6b1aff48d3e705461055437b4756c99",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "只用 Markdown 就写出好看的简历，在线简历应用闪亮登场！",
+        "link": "https://www.ershicimi.com/p/6ea31ac310f01c0fd84070796e3565d9",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "30个前端开发人员必备的顶级工具",
+        "link": "https://www.ershicimi.com/p/84968d793ae0170f653d6d73b1e583f4",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "推荐几个前端大佬，真的厉害！",
+        "link": "https://www.ershicimi.com/p/69d8acdc5039d14b90f560607308a78c",
+        "date": "2021-03-14"
+      },
+      {
+        "title": "要改掉的 10 种 TypeScript 坏习惯",
+        "link": "https://www.ershicimi.com/p/78e5431baa0515e7ec4907fc113f81e6",
+        "date": "2021-03-12"
+      },
+      {
+        "title": "【译】听尤雨溪聊：下一代前端构建工具 ViteJS 中英双语字幕",
+        "link": "https://www.ershicimi.com/p/0de403760375d064f61ad0fa9b4d7e02",
+        "date": "2021-03-11"
+      },
+      {
+        "title": "为什么要用 picture 标签代替 img 标签？",
+        "link": "https://www.ershicimi.com/p/c2b5033de5fccbf660af50c061c8eff6",
+        "date": "2021-03-10"
+      },
+      {
+        "title": "Vue 和 React 大厂面试通关指南.pdf",
+        "link": "https://www.ershicimi.com/p/2f7946869c19bc9e2713c9776bb6024a",
+        "date": "2021-03-09"
+      },
+      {
+        "title": "这些一行 JS 实现功能的代码，让你看起来像一个前端专家",
+        "link": "https://www.ershicimi.com/p/b5f0be5543f351bf9da06419d35cd857",
+        "date": "2021-03-08"
+      },
+      {
+        "title": "三月，不要跳槽！",
+        "link": "https://www.ershicimi.com/p/81b7f429e384f0dab324f70bd3833c49",
+        "date": "2021-03-05"
+      },
+      {
+        "title": "酷炫！巧用 -webkit-box-reflect 倒影实现各类动效",
+        "link": "https://www.ershicimi.com/p/409aca96cca68aa8e7ade98b2e0bbf34",
+        "date": "2021-03-05"
+      },
+      {
+        "title": "每一位程序员都应该学习的优秀代码",
+        "link": "https://www.ershicimi.com/p/68486579fd35f4f2406b3e934bf4d033",
+        "date": "2021-03-04"
+      },
+      {
+        "title": "JavaScript 代码整洁之道",
+        "link": "https://www.ershicimi.com/p/a44c71351eae862bed138b76e3b708c9",
+        "date": "2021-03-03"
+      },
+      {
+        "title": "面试官：谈谈虚拟dom在Vue和React中的应用",
+        "link": "https://www.ershicimi.com/p/e645108d89ab8cfdc874e194015bbddd",
+        "date": "2021-03-02"
+      },
+      {
+        "title": "前端优秀实践不完全指南",
+        "link": "https://www.ershicimi.com/p/71a02915ae9a2bf6a8ee6392fbabea99",
+        "date": "2021-03-02"
+      },
+      {
+        "title": "vite2.0+vue3移动端项目实战",
+        "link": "https://www.ershicimi.com/p/ddecb95f123e40c314fa9daaa898dbc3",
+        "date": "2021-03-01"
+      },
+      {
+        "title": "前端面试亮点杀器:来一起用Vue3做个飞机大战游戏",
+        "link": "https://www.ershicimi.com/p/e096f08d49210dca4dbc942edb17546c",
+        "date": "2021-02-26"
+      },
+      {
+        "title": "TypeScript 4.2 正式发布：更智能的类型别名保留，声明缺失的帮助函数，还有许多破坏性更新",
+        "link": "https://www.ershicimi.com/p/7c52f43f9a5989614be4973fb020a71d",
+        "date": "2021-02-26"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/10641",
@@ -20058,7 +20271,108 @@
     "rss": "https://front-rss.herokuapp.com/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "中国互联网20年简史（1998-2018）：其中的规律与本质是什么？ (www.cniteyes.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14226&url=http%3A%2F%2Fwww.cniteyes.com%2Farchives%2F33211%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "硬件安全：ARM体系架构的安全特性演进 (www.secrss.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14225&url=https%3A%2F%2Fwww.secrss.com%2Farticles%2F9812%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "MTK平台Android 安全中secure boot机制 (blog.csdn.net)",
+        "link": "https://blogread.cn/news/go.php?idItem=14224&url=https%3A%2F%2Fblog.csdn.net%2Fqq_43805880%2Farticle%2Fdetails%2F108062898%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "UEFI安全启动 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14223&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F25279889%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "Android Verified Boot 概述 (www.xiezeyang.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14222&url=https%3A%2F%2Fwww.xiezeyang.com%2F2019%2F10%2F20%2FSecurity%2FAndroidVerifiedBoot%25E6%25A6%2582%25E8%25BF%25B0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "浅析安全启动（Secure Boot (bbs.pediy.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14221&url=https%3A%2F%2Fbbs.pediy.com%2Fthread-260399.htm%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "浅谈 Android 的安全启动和完整性保护 (evilpan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14220&url=https%3A%2F%2Fevilpan.com%2F2020%2F11%2F14%2Fandroid-secure-boot%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "黑产在IP攻防上的挣扎与进化 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14219&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FljhNo8RckOt70-3H5j_6pQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "基于用户画像大数据的电商防刷架构 (www.iyunying.org)",
+        "link": "https://blogread.cn/news/go.php?idItem=14218&url=https%3A%2F%2Fwww.iyunying.org%2Fseo%2Fdataanalysis%2F31400.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "软件测试人员该何去何从？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14217&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-qa-capability%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "延时！保新！2 年续期证书来啦~ (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14216&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F357791609%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "提升软件交付效能——初探“按需发布” (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpublish-as-needed%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "软件匠艺 (teobler.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14214&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210314-software-craftsmanship%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "一文说透依赖注入 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dependency-injection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "为什么 Activity.finish() 之后 10s 才 onDestroy ？我蒙蔽了 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14212&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff30oh8781IYj2Rdq8UJfUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "华为高管再放狠话：鸿蒙不是安卓、iOS 的拷贝！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14211&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaiToCRUMtTz4BODqDGayuw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "鸿蒙开发初体验 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14210&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYBHOTtLjp7PuIGh5k0fnTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "阿里平头哥成功将 Android 10 移植到 RISC-V 架构上 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14209&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FShmgLyQnwuzEmO_OuNh7MA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "PanDownload 复活了！60MB/s！附下载地址 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14208&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwi4cVwqkHO_kwZFBuFfAPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "绝了！搜狗输入法这骚操作！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14207&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfG6Nx8JAnajo7arkb9IqGA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/toutiao/today",

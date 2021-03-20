@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-20 04:40:53，:rocket: 更新条数: +4170， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 04:50:52，:rocket: 更新条数: +4170， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-03-20-还是要求一波跨平台开源的-airdrop/snapdrop-的替代品](https://www.v2ex.com/t/763430) ![](assets/new.png)  
+- [2021-03-20-Seamless-–-从-Mac-到-iPhone-，转瞬即传](https://www.v2ex.com/t/763429) ![](assets/new.png)  
 - [2021-03-20-aws-的-lightsail-是不是现在有自动检测机制，会自动将你开启了一些服务的端口毙掉？](https://www.v2ex.com/t/763428) ![](assets/new.png)  
 - [2021-03-20-什么是生产力？](https://www.v2ex.com/t/763426) ![](assets/new.png)  
 - [2021-03-20-想到一种去中心化网盘，请问可行吗？](https://www.v2ex.com/t/763424) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-03-20-迫于上海电信太垃圾，求个中转](https://www.v2ex.com/t/763408) ![](assets/new.png)  
 - [2021-03-20-iPad-如何做为-windows-音箱来输出音频](https://www.v2ex.com/t/763407) ![](assets/new.png)  
 - [2021-03-20-nestjs-使用-mongoose-如何开启-debug-打印-SQL](https://www.v2ex.com/t/763406) ![](assets/new.png)  
-- [2021-03-20-广州电信的-129-融合套餐有啥坑吗](https://www.v2ex.com/t/763404) ![](assets/new.png)  
-- [2021-03-20-github.com-帐号莫名被暂停使用，有什么方法可以恢复？](https://www.v2ex.com/t/763403) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,15 +1089,15 @@
 - [2021-03-20-AI-艺术家：Pindar-Van-Arman](https://toutiao.io/k/4z2o2ct) ![](assets/new.png)  
 - [2021-03-20-软件匠艺](https://toutiao.io/k/792ketf) ![](assets/new.png)  
 - [2021-03-20-工具-|-腾讯开源的，针对安卓项目的-C/C++-内存分析工具](https://toutiao.io/k/qn3y8d6) ![](assets/new.png)  
+- [2021-03-20-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
+- [2021-03-20-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-20-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
 - [2021-03-20-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
-- [2021-03-20-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
-- [2021-03-20-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
-- [2021-03-20-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
+- [2021-03-20-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
 - [2021-03-20-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
-- [2021-03-20-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
-- [2021-03-20-推荐-去哪里找-Java-练手项目？](https://toutiao.io/k/qh7wgrx) ![](assets/new.png)  
-- [2021-03-20-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
-- [2021-03-20-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
+- [2021-03-20-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) ![](assets/new.png)  
+- [2021-03-20-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
+- [2021-03-20-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

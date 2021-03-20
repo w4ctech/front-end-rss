@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-20 13:12:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-20 13:37:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -52,19 +52,13 @@
 - [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
 - [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
 - [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) 
-- [2021-03-12-常用的前端JavaScript方法封装](https://www.ershicimi.com/p/d75204d75133600ed4f3c67ab7bb76cf) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2021-03-19-所有JS原型相关知识点](https://www.ershicimi.com/p/746a6a07527a06c08e36ea69c051699f) 
 - [2021-03-18-Async/Await-如何通过同步的方式实现异步？](https://www.ershicimi.com/p/9dce7728e5018cc94772b5a1f821dc45) 
-- [2021-03-18-JS算法：图文并茂讲解堆排序](https://www.ershicimi.com/p/2e199c86d475a89c18f52de88fa459c2) 
-- [2021-03-17-温故而知新，8张-Javascript-思维导图助你成长](https://www.ershicimi.com/p/942f275bb42690b6ccfa058f2c7ae3e8) 
 - [2021-03-02-如何用-JS-实现二叉堆](https://www.ershicimi.com/p/7042ca89ec61f44863acb7c888ae365f) 
 - [2021-02-02-动态表单之表单组件的插件式加载方案](https://www.ershicimi.com/p/8cc8832fe3c00b073d2e023bcbf6947f) 
 - [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 
 - [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
-- [2021-03-17-慎用JSON.stringify](https://www.ershicimi.com/p/b4d615ff6794e9ae40598c5e1bbdea54) 
-- [2021-03-08-这些一行-JS-实现功能的代码，让你看起来像一个前端专家](https://www.ershicimi.com/p/b5f0be5543f351bf9da06419d35cd857) 
-- [2021-03-03-JavaScript-代码整洁之道](https://www.ershicimi.com/p/a44c71351eae862bed138b76e3b708c9) 
 - [2021-03-16-174道JavaScript-面试知识点总结（下）](https://www.ershicimi.com/p/8c64594d6fab0f8201c0e5c6839130bc) 
 - [2021-03-15-手把手教你如何从“祖传项目”中提炼组件库和脚手架](https://www.ershicimi.com/p/a73b12f30ca3412873b918fcbaa8eab7) 
 - [2021-03-15-优秀前端人都知道的H5-移动端调试全攻略～](https://www.ershicimi.com/p/d71525a48732b905bd78c556df2a9c4a) 

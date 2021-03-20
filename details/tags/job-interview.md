@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-20 04:07:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-20 04:40:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -31,6 +31,7 @@
 - [2021-03-20-有人遇到确认接受后的-offer，-HR-提出需要加面试的情况吗？](https://www.v2ex.com/t/763422) 
 - [2021-03-20-FinTech-社区-博士招聘：-Quant（机器学习）--年薪-200-300-万+奖金](https://www.v2ex.com/t/763395) 
 - [2021-03-20-FinTech-社区-招聘：数字货币投资经理---上海---推荐奖-1-万](https://www.v2ex.com/t/763389) 
+- [2021-03-20-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) 
 - [2021-03-20-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) 
 - [2021-03-17-滴滴面试官:说说你的能力模型为什么值-50W](https://sec.thief.one/article_content?a_id=c75700bf9e867354c54842800fa0907d) 
 - [2021-03-16-春日招聘|网易、小米十个岗位热招中](https://sec.thief.one/article_content?a_id=12def8655a36ed5a97d1f4a334c533a6) 

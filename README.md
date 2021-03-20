@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-20 18:48:19，:rocket: 更新条数: +3566， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 18:59:50，:rocket: 更新条数: +3632， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)  
 
@@ -514,6 +514,26 @@
 </summary>
 
 
+- [2021-03-20-新西兰远程工作-Web-高级全栈/Node.js/React.js/TypeScript/Ruby-on-Rails，工作地点随意，无加班-996](https://www.v2ex.com/t/763563) ![](assets/new.png)  
+- [2021-03-20-写代码两年了，还在迷茫发展方向](https://www.v2ex.com/t/763562) ![](assets/new.png)  
+- [2021-03-20-20-届回国待业生，应该卷算法岗还是提桶跑路?](https://www.v2ex.com/t/763561) ![](assets/new.png)  
+- [2021-03-20-这种情况还要坚持转码吗？](https://www.v2ex.com/t/763556) ![](assets/new.png)  
+- [2021-03-20-老哥们，本人今年应届生，刚才-boss-上广发简历，有个工作回了我，大佬们帮忙看看对方说的靠谱吗，有人能说说-Java-实施工程师是干啥的吗？限制协议是啥？](https://www.v2ex.com/t/763555) ![](assets/new.png)  
+- [2021-03-20-print-的-string-内含有中文，如果为套上了颜色定义前缀，那么-ljust，-rjust-的位置控制，基本上是废了？-如何破?](https://www.v2ex.com/t/763554) ![](assets/new.png)  
+- [2021-03-20-请教下-Linux-的输入输出](https://www.v2ex.com/t/763553) ![](assets/new.png)  
+- [2021-03-20-求助有没有面试过富途证券-前端岗位小伙伴们？想了解下面经....](https://www.v2ex.com/t/763552) ![](assets/new.png)  
+- [2021-03-20-大家开始都是怎么熟悉开车的](https://www.v2ex.com/t/763551) ![](assets/new.png)  
+- [2021-03-20-有什么办法可以将-Gitee-库同步到-GitHub-上?](https://www.v2ex.com/t/763550) ![](assets/new.png)  
+- [2021-03-20-macOS-上-Proxyman-六折](https://www.v2ex.com/t/763549) ![](assets/new.png)  
+- [2021-03-20-甜沫-Chain-一个聚合消息推送项目](https://www.v2ex.com/t/763548) ![](assets/new.png)  
+- [2021-03-20-watch-解锁-iPhone-似乎根本就不会校验人脸](https://www.v2ex.com/t/763546) ![](assets/new.png)  
+- [2021-03-20-iPhone-双卡短信问题，恼火！](https://www.v2ex.com/t/763545) ![](assets/new.png)  
+- [2021-03-20-ipadpro-更换电池](https://www.v2ex.com/t/763544) ![](assets/new.png)  
+- [2021-03-20-之前玩过的手机模拟经营游戏，忘记名字了](https://www.v2ex.com/t/763543) ![](assets/new.png)  
+- [2021-03-20-V2ex-有好用的-iOS-客户端推荐吗](https://www.v2ex.com/t/763542) ![](assets/new.png)  
+- [2021-03-20-就-API-交互类似场景来说，有没有相关法律法规有规定安全规范啥的（纯好奇）](https://www.v2ex.com/t/763541) ![](assets/new.png)  
+- [2021-03-20-求助选择工作地点！武汉-or-上海](https://www.v2ex.com/t/763539) ![](assets/new.png)  
+- [2021-03-20-现在入-xr-是不是过时了。](https://www.v2ex.com/t/763538) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -536,6 +556,26 @@
 </summary>
 
 
+- [2021-03-20-业务开发的价值](https://toutiao.io/k/s8mmugr) ![](assets/new.png)  
+- [2021-03-20-如何构建你的沟通场域](https://toutiao.io/k/dujfhzb) ![](assets/new.png)  
+- [2021-03-20-基于-Flink-的分布式离线和实时的数据同步框架](https://toutiao.io/k/ilvyhe8) ![](assets/new.png)  
+- [2021-03-20-维格表创始人陈霈霖：喜茶数字化转型的结晶是-vika-维格表](https://toutiao.io/k/328uax9) ![](assets/new.png)  
+- [2021-03-20-译-BPF-可移植性和-CO-RE（一次编译，到处运行）](https://toutiao.io/k/o88fd7y) ![](assets/new.png)  
+- [2021-03-20-一文搞懂-Kubernetes-网络策略（上）](https://toutiao.io/k/j889c3j) ![](assets/new.png)  
+- [2021-03-20-欧洲最大云厂商遇火灾，数据安全任重道远](https://toutiao.io/k/ksej3if) ![](assets/new.png)  
+- [2021-03-20-如何对集合对象求合计，然后追加在该集合对象中](https://toutiao.io/k/qpoc0hv) ![](assets/new.png)  
+- [2021-03-20-工具-|-腾讯开源的，针对安卓项目的-C/C++-内存分析工具](https://toutiao.io/k/qn3y8d6) ![](assets/new.png)  
+- [2021-03-20-软件匠艺](https://toutiao.io/k/792ketf) ![](assets/new.png)  
+- [2021-03-20-AI-艺术家：Pindar-Van-Arman](https://toutiao.io/k/4z2o2ct) ![](assets/new.png)  
+- [2021-03-20-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
+- [2021-03-20-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
+- [2021-03-20-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
+- [2021-03-20-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-20-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
+- [2021-03-20-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
+- [2021-03-20-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
+- [2021-03-20-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
+- [2021-03-20-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-20 12:10:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-20 12:43:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -8,6 +8,7 @@
 
 
 - [2021-03-15-three.js-实现露珠滴落动画](https://www.ershicimi.com/p/b38da6ab54e127ade7c0efa8c1c31caa) 
+- [2021-03-20-探索使用-Kubernetes-扩展专用游戏服务器：第-1-部分-容器化和部署](https://www.v2ex.com/t/763518) 
 - [2021-03-20-小朋友沉迷游戏，有什么方法能有效控制？我能想到的是屏蔽-ip](https://www.v2ex.com/t/763483) 
 - [2021-03-20-为什么游戏架构要用事件来驱动？](https://www.v2ex.com/t/763477) 
 - [2021-03-18-《原神》1.5版本游戏信息大量泄漏](https://sec.thief.one/article_content?a_id=9a054994193c4afd470c75b34d0a8b26) 

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-20 14:35:37，:rocket: 更新条数: +747， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 14:45:15，:rocket: 更新条数: +4172， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-03-20-最新疫情：全国新冠累计确诊90087例-无新增本土病例](https://m.caixin.com/m/2021-03-20/101678084.html) ![](assets/new.png)  
+- [2021-03-20-最新海外疫情：新冠感染超1.22亿-累计死亡超269万](https://m.caixin.com/m/2021-03-20/101678087.html) ![](assets/new.png)  
+- [2021-03-20-3月19日全国新增新冠4例-均为境外输入](https://m.caixin.com/m/2021-03-20/101677880.html) ![](assets/new.png)  
+- [2021-03-20-【境内疫情观察】全国新增4例境外输入病例（3月19日）](http://m.database.caixin.com/m/2021-03-20/101677994.html) ![](assets/new.png)  
+- [2021-03-20-欧盟多国重启接种阿斯利康疫苗-美拟为墨加供苗400万剂-|-大流行手记（3月19日）](https://m.caixin.com/m/2021-03-20/101677860.html) ![](assets/new.png)  
+- [2021-03-19-香港建议新冠康复者出院后再接种一剂mRNA疫苗](https://m.caixin.com/m/2021-03-19/101677435.html) ![](assets/new.png)  
+- [2021-03-19-【境内疫情观察】陕西西安新增1例本土病例（3月18日）](http://m.database.caixin.com/m/2021-03-19/101677385.html) ![](assets/new.png)  
+- [2021-03-19-欧盟拟推新冠“数字绿色证书”-法新型变异株逃避核酸检测-|-大流行手记（3月18日）](https://m.caixin.com/m/2021-03-19/101677244.html) ![](assets/new.png)  
+- [2021-03-18-西安确诊1例新冠本土病例-为医院封闭隔离病区检验师](https://m.caixin.com/m/2021-03-18/101677080.html) ![](assets/new.png)  
+- [2021-03-18-【境内疫情观察】全国20个省份连续15日以上无新增确诊病例（3月17日）](http://m.database.caixin.com/m/2021-03-18/101676983.html) ![](assets/new.png)  
+- [2021-03-18-法国暴发第三波疫情-研究指孕妇接种后抗体可传胎儿-|-大流行手记（3月17日）](https://m.caixin.com/m/2021-03-18/101676780.html) ![](assets/new.png)  
+- [2021-03-18-不顾变异病毒株扩散担忧-日本“首都圈”将解除紧急状态](http://m.international.caixin.com/m/2021-03-18/101677218.html) ![](assets/new.png)  
+- [2021-03-17-北京新冠疫苗接种领跑全国-高校号召“应接尽接，应快尽快”](https://m.caixin.com/m/2021-03-17/101676348.html) ![](assets/new.png)  
+- [2021-03-17-郑州通报1例无症状感染者：系非法入境](http://m.china.caixin.com/m/2021-03-17/101676756.html) ![](assets/new.png)  
+- [2021-03-17-【境内疫情观察】全国在院本土病例降至3例（3月16日）](http://m.database.caixin.com/m/2021-03-17/101676421.html) ![](assets/new.png)  
+- [2021-03-17-研究再证英变异病毒推高死亡率-意大利半数城市“封城”-|-大流行手记（3月16日）](https://m.caixin.com/m/2021-03-17/101676299.html) ![](assets/new.png)  
+- [2021-03-16-3月15日全国新增新冠13例-均由境外输入](https://m.caixin.com/m/2021-03-16/101675774.html) ![](assets/new.png)  
+- [2021-03-16-【境内疫情观察】四川新增6例境外输入病例（3月15日）](http://m.database.caixin.com/m/2021-03-16/101675892.html) ![](assets/new.png)  
+- [2021-03-16-英国力挺阿斯利康疫苗-日本拟推疫苗假期丨大流行手记（3月15日）](https://m.caixin.com/m/2021-03-16/101675754.html) ![](assets/new.png)  
+- [2021-03-16-欧盟“疫苗护照”拟暂不认证中国疫苗接种记录-塞尔维亚总统抱不平](http://m.international.caixin.com/m/2021-03-16/101675739.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +1016,10 @@
 </summary>
 
 
+- [2021-03-20-浏览器书签保存的-cnblog-ibm-都看不了](https://www.v2ex.com/t/763537) ![](assets/new.png)  
+- [2021-03-20-有哪些音频-API-可以在线调用呢？](https://www.v2ex.com/t/763536) ![](assets/new.png)  
+- [2021-03-20-内推-快手内推，大量-HC](https://www.v2ex.com/t/763535) ![](assets/new.png)  
+- [2021-03-20-请问如何把-Parallels-Desktop-卸载干净？](https://www.v2ex.com/t/763534) ![](assets/new.png)  
 - [2021-03-20-大家的-mbp-怎么清灰呢？](https://www.v2ex.com/t/763533) ![](assets/new.png)  
 - [2021-03-20-求问各位老哥个人开发的小程序买量渠道有哪些](https://www.v2ex.com/t/763532) ![](assets/new.png)  
 - [2021-03-20-关于-Python-web-框架的技术选型求问](https://www.v2ex.com/t/763531) ![](assets/new.png)  
@@ -1012,10 +1036,6 @@
 - [2021-03-20-一个支持关键词订阅折扣的公众号，用的-1-核-2g-服务器，每天流量差不多-5000-ip-多速度完全没有问题。另外想请教一下大家对公众号停止模版消息有什么解决方案呢...](https://www.v2ex.com/t/763516) ![](assets/new.png)  
 - [2021-03-20-怪物猎人-rise,求组织~求大佬](https://www.v2ex.com/t/763515) ![](assets/new.png)  
 - [2021-03-20-上海电信-国际精品网-IPV6-问题](https://www.v2ex.com/t/763514) ![](assets/new.png)  
-- [2021-03-20-发现有时加载网页上的图片时，是逐渐-模糊→清晰-变化的？](https://www.v2ex.com/t/763511) ![](assets/new.png)  
-- [2021-03-20-使用强类型的编程语言是否更有利于编程和数据分析？](https://www.v2ex.com/t/763510) ![](assets/new.png)  
-- [2021-03-20-上海/新加坡-区块链-bybit-招前后端测试，入职送-ps5](https://www.v2ex.com/t/763509) ![](assets/new.png)  
-- [2021-03-20-有没有好用的邮箱可以推荐一下啊](https://www.v2ex.com/t/763506) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,15 +1089,15 @@
 - [2021-03-20-软件匠艺](https://toutiao.io/k/792ketf) ![](assets/new.png)  
 - [2021-03-20-工具-|-腾讯开源的，针对安卓项目的-C/C++-内存分析工具](https://toutiao.io/k/qn3y8d6) ![](assets/new.png)  
 - [2021-03-20-AI-艺术家：Pindar-Van-Arman](https://toutiao.io/k/4z2o2ct) ![](assets/new.png)  
-- [2021-03-20-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
-- [2021-03-20-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
-- [2021-03-20-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
-- [2021-03-20-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) ![](assets/new.png)  
 - [2021-03-20-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
-- [2021-03-20-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
-- [2021-03-20-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
-- [2021-03-20-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
-- [2021-03-20-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-20-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) ![](assets/new.png)  
+- [2021-03-20-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
+- [2021-03-20-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
+- [2021-03-20-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
+- [2021-03-20-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
+- [2021-03-20-推荐-有赞-BI-平台设计及实现](https://toutiao.io/k/a595tmo) ![](assets/new.png)  
+- [2021-03-20-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) ![](assets/new.png)  
+- [2021-03-20-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

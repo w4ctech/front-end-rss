@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-20 12:06:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-20 12:10:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3295,6 +3295,8 @@
 - [2021-03-14-「抱歉，我不和太快的人做朋友」](https://www.ershicimi.com/p/56cb396f96196a94e8056387029453a9) 
 - [2021-03-14-知乎故事-|-老师到底知不知道学生暗恋自己？](https://www.ershicimi.com/p/43bcac669e5a2791d53741ad5a50ee3d) 
 - [2021-03-12-知乎神吐槽-|-你们有什么奇特的生理期反应？](https://www.ershicimi.com/p/e426f8b34577cb8e49527051825f4381) 
+- [2021-03-20-上海电信-国际精品网-IPV6-问题](https://www.v2ex.com/t/763514) 
+- [2021-03-20-牛杂面里没有牛杂？](https://www.v2ex.com/t/763513) 
 - [2021-03-20-使用强类型的编程语言是否更有利于编程和数据分析？](https://www.v2ex.com/t/763510) 
 - [2021-03-20-上海/新加坡-区块链-bybit-招前后端测试，入职送-ps5](https://www.v2ex.com/t/763509) 
 - [2021-03-20-现在-sim-卡都不能用快递寄了吗？](https://www.v2ex.com/t/763508) 
@@ -3320,7 +3322,6 @@
 - [2021-03-20-求问，-iPhone-的背夹电池有什么推荐的牌子？](https://www.v2ex.com/t/763469) 
 - [2021-03-20-安卓手机也会因为冷而掉电厉害么?](https://www.v2ex.com/t/763466) 
 - [2021-03-20-真诚发问！-Java-2-年，广州或深圳有啥二线厂推荐吗！跪下了。](https://www.v2ex.com/t/763465) 
-- [2021-03-20-三星堆遗址有重大发现是不是意味着地球要进入修仙时代了](https://www.v2ex.com/t/763464) 
 - [2021-03-20-中国互联网20年简史（1998-2018）：其中的规律与本质是什么？-www.cniteyes.com](https://blogread.cn/news/go.php?idItem=14226&url=http%3A%2F%2Fwww.cniteyes.com%2Farchives%2F33211%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-20-黑产在IP攻防上的挣扎与进化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14219&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FljhNo8RckOt70-3H5j_6pQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-20-基于用户画像大数据的电商防刷架构-www.iyunying.org](https://blogread.cn/news/go.php?idItem=14218&url=https%3A%2F%2Fwww.iyunying.org%2Fseo%2Fdataanalysis%2F31400.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

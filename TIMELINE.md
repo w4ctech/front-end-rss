@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-20 12:06:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-20 12:10:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -483,6 +483,8 @@
 - [【知乎日报】2021-03-14-「抱歉，我不和太快的人做朋友」](https://www.ershicimi.com/p/56cb396f96196a94e8056387029453a9) 
 - [【知乎日报】2021-03-14-知乎故事-|-老师到底知不知道学生暗恋自己？](https://www.ershicimi.com/p/43bcac669e5a2791d53741ad5a50ee3d) 
 - [【知乎日报】2021-03-12-知乎神吐槽-|-你们有什么奇特的生理期反应？](https://www.ershicimi.com/p/e426f8b34577cb8e49527051825f4381) 
+- [【V2EX】2021-03-20-上海电信-国际精品网-IPV6-问题](https://www.v2ex.com/t/763514) 
+- [【V2EX】2021-03-20-牛杂面里没有牛杂？](https://www.v2ex.com/t/763513) 
 - [【V2EX】2021-03-20-发现有时加载网页上的图片时，是逐渐-模糊→清晰-变化的？](https://www.v2ex.com/t/763511) 
 - [【V2EX】2021-03-20-使用强类型的编程语言是否更有利于编程和数据分析？](https://www.v2ex.com/t/763510) 
 - [【V2EX】2021-03-20-上海/新加坡-区块链-bybit-招前后端测试，入职送-ps5](https://www.v2ex.com/t/763509) 
@@ -519,7 +521,6 @@
 - [【V2EX】2021-03-20-求问，-iPhone-的背夹电池有什么推荐的牌子？](https://www.v2ex.com/t/763469) 
 - [【V2EX】2021-03-20-安卓手机也会因为冷而掉电厉害么?](https://www.v2ex.com/t/763466) 
 - [【V2EX】2021-03-20-真诚发问！-Java-2-年，广州或深圳有啥二线厂推荐吗！跪下了。](https://www.v2ex.com/t/763465) 
-- [【V2EX】2021-03-20-三星堆遗址有重大发现是不是意味着地球要进入修仙时代了](https://www.v2ex.com/t/763464) 
 - [【技术头条】2021-03-20-中国互联网20年简史（1998-2018）：其中的规律与本质是什么？-www.cniteyes.com](https://blogread.cn/news/go.php?idItem=14226&url=http%3A%2F%2Fwww.cniteyes.com%2Farchives%2F33211%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-03-20-硬件安全：ARM体系架构的安全特性演进-www.secrss.com](https://blogread.cn/news/go.php?idItem=14225&url=https%3A%2F%2Fwww.secrss.com%2Farticles%2F9812%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-03-20-MTK平台Android-安全中secure-boot机制-blog.csdn.net](https://blogread.cn/news/go.php?idItem=14224&url=https%3A%2F%2Fblog.csdn.net%2Fqq_43805880%2Farticle%2Fdetails%2F108062898%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-20 09:56:02，:rocket: 更新条数: +4001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 10:05:19，:rocket: 更新条数: +4107， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)![](assets/dot.png)   
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)![](assets/dot.png)   
@@ -53,8 +53,8 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
-- [安全热点](#安全热点)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
@@ -191,26 +191,6 @@
 </summary>
 
 
-- [2021-03-18-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/000b4cfdbcb79218ddd80dd60a4e2c34) ![](assets/new.png)  
-- [2021-03-18-【第2229期】百度前端工程化之H5性能优化篇](https://www.ershicimi.com/p/089f432672b4dc5866d93743adf7f40f) ![](assets/new.png)  
-- [2021-03-18-【招聘】苏州知犀思维导图招聘高级前端开发工程师](https://www.ershicimi.com/p/f10acfcfa1b64e1cc9aa922785d19dcb) ![](assets/new.png)  
-- [2021-03-17-【第2228期】CORS-完全手册之CORS-详解](https://www.ershicimi.com/p/175215b495283b4a68ef95a567811a27) ![](assets/new.png)  
-- [2021-03-17-【招聘】北京天眼查招聘高级前端研发工程师](https://www.ershicimi.com/p/19225740b719a89c764f7d948d8f9eef) ![](assets/new.png)  
-- [2021-03-16-前端可视化进阶全路径](https://www.ershicimi.com/p/66fbf0810abfca415db4876e9d86ffb2) ![](assets/new.png)  
-- [2021-03-16-【第2227期】逻辑编排在优酷可视化搭建中的实践之下](https://www.ershicimi.com/p/963b179428c83fc5f2d9d8e9c0a27f64) ![](assets/new.png)  
-- [2021-03-16-【招聘】美团到店事业群-住宿门票研发团队招高级/资深前端工程师](https://www.ershicimi.com/p/bb5885d815874793a4d63fcb6832e1c7) ![](assets/new.png)  
-- [2021-03-15-【第2226期】逻辑编排在优酷可视化搭建中的实践之上](https://www.ershicimi.com/p/da6e696030786ed65bc3c67fac1cdaec) ![](assets/new.png)  
-- [2021-03-15-【招聘】阿里大文娱招高级前端开发/技术专家](https://www.ershicimi.com/p/86233692af31dc54f76f460672fde0e1) ![](assets/new.png)  
-- [2021-03-14-【第2225期】开发者如何缓解焦虑提升效率？来自心理学研究者的建议](https://www.ershicimi.com/p/9df7db498d7a2eba3a5c6d719ca5c684) ![](assets/new.png)  
-- [2021-03-14-【招聘】字节飞书增长与平台团队招高级、资深前后端工程师](https://www.ershicimi.com/p/9919493d554ee89586cf8c4cd131056e) ![](assets/new.png)  
-- [2021-03-13-【第2224期】CORS-完全手册之如何解决CORS-问题？](https://www.ershicimi.com/p/09c2ff8db9089698491ea785feae67c5) ![](assets/new.png)  
-- [2021-03-13-【招聘】腾讯VTeam技术团队招前端、应用、后台开发工程师](https://www.ershicimi.com/p/92a79306c4c3ecbda8929a18a6b35a44) ![](assets/new.png)  
-- [2021-03-12-【第2223期】探索微前端的场景极限](https://www.ershicimi.com/p/5fdaef89d16ff96ab8a024d9abab647e) ![](assets/new.png)  
-- [2021-03-12-【招聘】蚂蚁金服体验技术部地平线招聘p5~p8前端](https://www.ershicimi.com/p/3c64b714fe791757274ed726ab2e74af) ![](assets/new.png)  
-- [2021-03-11-Vue-和-React-大厂面试通关指南.pdf](https://www.ershicimi.com/p/988697b23628473999c5b366dfeda1fd) ![](assets/new.png)  
-- [2021-03-11-【第2222期】下一代前端构建工具-ViteJS-技术解读](https://www.ershicimi.com/p/548c42b015268d12fff530b4774415a7) ![](assets/new.png)  
-- [2021-03-11-【招聘】蘑菇街-锐鲨科技招前端开发工程师](https://www.ershicimi.com/p/c133a31506f6852705cd275f0d5389cc) ![](assets/new.png)  
-- [2021-03-10-【第2221期】和-Node.js-创始人-Ryan-Dahl-的对话](https://www.ershicimi.com/p/49aeddfcb36ecfa2242257adfab9cf3e) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1036,6 +1016,26 @@
 </summary>
 
 
+- [2021-03-20-业务开发的价值](https://toutiao.io/k/s8mmugr) ![](assets/new.png)  
+- [2021-03-20-如何构建你的沟通场域](https://toutiao.io/k/dujfhzb) ![](assets/new.png)  
+- [2021-03-20-基于-Flink-的分布式离线和实时的数据同步框架](https://toutiao.io/k/ilvyhe8) ![](assets/new.png)  
+- [2021-03-20-译-BPF-可移植性和-CO-RE（一次编译，到处运行）](https://toutiao.io/k/o88fd7y) ![](assets/new.png)  
+- [2021-03-20-欧洲最大云厂商遇火灾，数据安全任重道远](https://toutiao.io/k/ksej3if) ![](assets/new.png)  
+- [2021-03-20-维格表创始人陈霈霖：喜茶数字化转型的结晶是-vika-维格表](https://toutiao.io/k/328uax9) ![](assets/new.png)  
+- [2021-03-20-如何对集合对象求合计，然后追加在该集合对象中](https://toutiao.io/k/qpoc0hv) ![](assets/new.png)  
+- [2021-03-20-一文搞懂-Kubernetes-网络策略（上）](https://toutiao.io/k/j889c3j) ![](assets/new.png)  
+- [2021-03-20-软件匠艺](https://toutiao.io/k/792ketf) ![](assets/new.png)  
+- [2021-03-20-AI-艺术家：Pindar-Van-Arman](https://toutiao.io/k/4z2o2ct) ![](assets/new.png)  
+- [2021-03-20-工具-|-腾讯开源的，针对安卓项目的-C/C++-内存分析工具](https://toutiao.io/k/qn3y8d6) ![](assets/new.png)  
+- [2021-03-20-推荐-有赞-BI-平台设计及实现](https://toutiao.io/k/a595tmo) ![](assets/new.png)  
+- [2021-03-20-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
+- [2021-03-20-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
+- [2021-03-20-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
+- [2021-03-20-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
+- [2021-03-20-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) ![](assets/new.png)  
+- [2021-03-20-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
+- [2021-03-20-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
+- [2021-03-20-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,6 +1047,26 @@
 </summary>
 
 
+- [2021-03-19-网安杂谈收藏夹2021.3.19](https://sec.thief.one/article_content?a_id=8ab6bc41c846623b4b37af344c434447) ![](assets/new.png)  
+- [2021-03-19-Netgear-R6400v2-堆溢出漏洞分析与利用](https://sec.thief.one/article_content?a_id=c58e8dc40d42cfe1b7b462b873ba4b10) ![](assets/new.png)  
+- [2021-03-18-《原神》1.5版本游戏信息大量泄漏](https://sec.thief.one/article_content?a_id=9a054994193c4afd470c75b34d0a8b26) ![](assets/new.png)  
+- [2021-03-18-这是我见过最秀的代码注释](https://sec.thief.one/article_content?a_id=0eac1a9ef3e3c64cf62c3f15fd7a84c7) ![](assets/new.png)  
+- [2021-03-18-启动|BCS-2021全球议题征集](https://sec.thief.one/article_content?a_id=44616e878685da1369de77965b285cd3) ![](assets/new.png)  
+- [2021-03-18-HW干货集合-|-最全应急响应思维导图](https://sec.thief.one/article_content?a_id=ebd67464bfdf2f3653dc5101932c96c6) ![](assets/new.png)  
+- [2021-03-18-【安全头条】狩猎者变成猎物:WeLeakIofo的故事续集出现反转](https://sec.thief.one/article_content?a_id=9ef75d571f0efcea344d56638b65edce) ![](assets/new.png)  
+- [2021-03-18-阿里面试官问“说一下从-url-输入到返回请求的过程”的难度就是不一...](https://sec.thief.one/article_content?a_id=dbb71047cd302bf8c0584f1ee23c4de9) ![](assets/new.png)  
+- [2021-03-18-16美元就可以打包带走所有短信,你的手机号还安全吗?](https://sec.thief.one/article_content?a_id=a5132bfc3fc98f65d368b9359804cd4f) ![](assets/new.png)  
+- [2021-03-18-阿里安全今年首次开放风控策略类校招岗](https://sec.thief.one/article_content?a_id=909d1105a156f11827ca2624b0bdd486) ![](assets/new.png)  
+- [2021-03-18-揭秘手游外挂:基于内存蜜罐的内存修改挂分析技术](https://sec.thief.one/article_content?a_id=bb16e27d3ffc7e816c4d752a92e291b9) ![](assets/new.png)  
+- [2021-03-18-代码审计难?掌握这个学习思路,稳赢!](https://sec.thief.one/article_content?a_id=e0d427918a8e2ac0be078c7b6bcfeb6f) ![](assets/new.png)  
+- [2021-03-18-【漏洞通告】Apache-Solr任意文件读取与SSRF漏洞](https://sec.thief.one/article_content?a_id=8c6c940b9da0473783011bb0c3c32c29) ![](assets/new.png)  
+- [2021-03-18-你为什么入党?](https://sec.thief.one/article_content?a_id=30583d8eea5c66419ac0bb6911f0e8f8) ![](assets/new.png)  
+- [2021-03-18-蓝队防守必须排查的17个内网安全漏洞与解决方案](https://sec.thief.one/article_content?a_id=c23ff61525a158f637880406c87b2f26) ![](assets/new.png)  
+- [2021-03-18-百度安全重新定义Fuzzing-技术](https://sec.thief.one/article_content?a_id=0cc7efc5776fc780f3bf95a3d5c8f476) ![](assets/new.png)  
+- [2021-03-18-美图购买更多比特币和以太,持有加密货币总价值达9000万美元](https://sec.thief.one/article_content?a_id=dcbe760ce16a3d7223d4217bbc3fccc1) ![](assets/new.png)  
+- [2021-03-18-​315前夕,无辜90后女孩成了桃色新闻的主角](https://sec.thief.one/article_content?a_id=1da6181ea07e0bdbb709502e0a8390d4) ![](assets/new.png)  
+- [2021-03-18-【风险提示】天融信关于GitLab远程代码执行漏洞风险提示](https://sec.thief.one/article_content?a_id=75acec374fda9831dd9e0cfd57f8228d) ![](assets/new.png)  
+- [2021-03-18-【漏洞通告】GitLab-远程代码执行漏洞](https://sec.thief.one/article_content?a_id=13f9daaf3f8c17ea1a3b1271e436e106) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

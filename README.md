@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-20 23:33:22，:rocket: 更新条数: +750， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 23:42:59，:rocket: 更新条数: +750， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1069,15 +1069,15 @@
 - [2021-03-20-工具-|-腾讯开源的，针对安卓项目的-C/C++-内存分析工具](https://toutiao.io/k/qn3y8d6) ![](assets/new.png)  
 - [2021-03-20-软件匠艺](https://toutiao.io/k/792ketf) ![](assets/new.png)  
 - [2021-03-20-AI-艺术家：Pindar-Van-Arman](https://toutiao.io/k/4z2o2ct) ![](assets/new.png)  
-- [2021-03-20-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
-- [2021-03-20-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
-- [2021-03-20-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
-- [2021-03-20-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
-- [2021-03-20-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
 - [2021-03-20-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
-- [2021-03-20-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) ![](assets/new.png)  
-- [2021-03-20-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
-- [2021-03-20-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
+- [2021-03-20-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
+- [2021-03-20-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
+- [2021-03-20-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
+- [2021-03-20-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
+- [2021-03-20-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
+- [2021-03-20-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
+- [2021-03-20-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
+- [2021-03-20-推荐-去哪里找-Java-练手项目？](https://toutiao.io/k/qh7wgrx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-20 05:26:45，:rocket: 更新条数: +4170， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 05:42:13，:rocket: 更新条数: +4070， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -54,7 +54,7 @@
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
-- [安全热点](#安全热点)![](assets/dot.png)   
+- [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
@@ -66,6 +66,7 @@
 
 
 - [2021-03-20-3月19日全国新增新冠4例-均为境外输入](https://m.caixin.com/m/2021-03-20/101677880.html) ![](assets/new.png)  
+- [2021-03-20-【境内疫情观察】全国新增4例境外输入病例（3月19日）](http://m.database.caixin.com/m/2021-03-20/101677994.html) ![](assets/new.png)  
 - [2021-03-20-欧盟多国重启接种阿斯利康疫苗-美拟为墨加供苗400万剂-|-大流行手记（3月19日）](https://m.caixin.com/m/2021-03-20/101677860.html) ![](assets/new.png)  
 - [2021-03-19-香港建议新冠康复者出院后再接种一剂mRNA疫苗](https://m.caixin.com/m/2021-03-19/101677435.html) ![](assets/new.png)  
 - [2021-03-19-最新海外疫情：新冠感染超1.21亿-累计死亡超268万](https://m.caixin.com/m/2021-03-19/101677655.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-03-16-英国力挺阿斯利康疫苗-日本拟推疫苗假期丨大流行手记（3月15日）](https://m.caixin.com/m/2021-03-16/101675754.html) ![](assets/new.png)  
 - [2021-03-16-欧盟“疫苗护照”拟暂不认证中国疫苗接种记录-塞尔维亚总统抱不平](http://m.international.caixin.com/m/2021-03-16/101675739.html) ![](assets/new.png)  
 - [2021-03-15-中国已接种6498万剂新冠疫苗-部分老年人纳入重点人群](https://m.caixin.com/m/2021-03-15/101675606.html) ![](assets/new.png)  
-- [2021-03-15-香港放宽优先接种疫苗群体至30岁以上-可接种人群扩大至550万](https://m.caixin.com/m/2021-03-15/101675542.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-03-20-请问各位，目前有没有那种监测到你睡了几个睡眠周期后，叫醒你的闹钟？](https://www.v2ex.com/t/763440) ![](assets/new.png)  
+- [2021-03-20-pycharm-2020.3-里面自带的-jupyter-使用-Javascript-报错-ReferenceError:-require-is-not-defined](https://www.v2ex.com/t/763438) ![](assets/new.png)  
 - [2021-03-20-迫于找不到工作，直接放简历，有需要的老板都来看看呀~](https://www.v2ex.com/t/763437) ![](assets/new.png)  
 - [2021-03-20-Signal-也上不了了，求在国内可以用的安全聊天软件，求推荐科学上网方法？](https://www.v2ex.com/t/763436) ![](assets/new.png)  
 - [2021-03-20-学生党，想参加一些-Java-开源项目，有没有啥推荐的？](https://www.v2ex.com/t/763434) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-03-20-Aeron-和-embody-价格疑问](https://www.v2ex.com/t/763419) ![](assets/new.png)  
 - [2021-03-20-上海去医院探望病人什么政策？](https://www.v2ex.com/t/763418) ![](assets/new.png)  
 - [2021-03-20-外包，蚂蚁金服](https://www.v2ex.com/t/763417) ![](assets/new.png)  
-- [2021-03-20-请教各位一个关于-nginx-代理参数重写的方法？](https://www.v2ex.com/t/763416) ![](assets/new.png)  
-- [2021-03-20-Docker-这是咋了](https://www.v2ex.com/t/763415) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,15 +1089,15 @@
 - [2021-03-20-AI-艺术家：Pindar-Van-Arman](https://toutiao.io/k/4z2o2ct) ![](assets/new.png)  
 - [2021-03-20-软件匠艺](https://toutiao.io/k/792ketf) ![](assets/new.png)  
 - [2021-03-20-工具-|-腾讯开源的，针对安卓项目的-C/C++-内存分析工具](https://toutiao.io/k/qn3y8d6) ![](assets/new.png)  
-- [2021-03-20-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
-- [2021-03-20-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
-- [2021-03-20-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
-- [2021-03-20-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) ![](assets/new.png)  
-- [2021-03-20-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
-- [2021-03-20-推荐-去哪里找-Java-练手项目？](https://toutiao.io/k/qh7wgrx) ![](assets/new.png)  
 - [2021-03-20-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
+- [2021-03-20-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
+- [2021-03-20-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) ![](assets/new.png)  
+- [2021-03-20-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) ![](assets/new.png)  
 - [2021-03-20-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
 - [2021-03-20-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
+- [2021-03-20-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
+- [2021-03-20-推荐-有赞-BI-平台设计及实现](https://toutiao.io/k/a595tmo) ![](assets/new.png)  
+- [2021-03-20-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,26 +1109,6 @@
 </summary>
 
 
-- [2021-03-19-网安杂谈收藏夹2021.3.19](https://sec.thief.one/article_content?a_id=8ab6bc41c846623b4b37af344c434447) ![](assets/new.png)  
-- [2021-03-19-Netgear-R6400v2-堆溢出漏洞分析与利用](https://sec.thief.one/article_content?a_id=c58e8dc40d42cfe1b7b462b873ba4b10) ![](assets/new.png)  
-- [2021-03-18-《原神》1.5版本游戏信息大量泄漏](https://sec.thief.one/article_content?a_id=9a054994193c4afd470c75b34d0a8b26) ![](assets/new.png)  
-- [2021-03-18-这是我见过最秀的代码注释](https://sec.thief.one/article_content?a_id=0eac1a9ef3e3c64cf62c3f15fd7a84c7) ![](assets/new.png)  
-- [2021-03-18-启动|BCS-2021全球议题征集](https://sec.thief.one/article_content?a_id=44616e878685da1369de77965b285cd3) ![](assets/new.png)  
-- [2021-03-18-HW干货集合-|-最全应急响应思维导图](https://sec.thief.one/article_content?a_id=ebd67464bfdf2f3653dc5101932c96c6) ![](assets/new.png)  
-- [2021-03-18-【安全头条】狩猎者变成猎物:WeLeakIofo的故事续集出现反转](https://sec.thief.one/article_content?a_id=9ef75d571f0efcea344d56638b65edce) ![](assets/new.png)  
-- [2021-03-18-阿里面试官问“说一下从-url-输入到返回请求的过程”的难度就是不一...](https://sec.thief.one/article_content?a_id=dbb71047cd302bf8c0584f1ee23c4de9) ![](assets/new.png)  
-- [2021-03-18-16美元就可以打包带走所有短信,你的手机号还安全吗?](https://sec.thief.one/article_content?a_id=a5132bfc3fc98f65d368b9359804cd4f) ![](assets/new.png)  
-- [2021-03-18-阿里安全今年首次开放风控策略类校招岗](https://sec.thief.one/article_content?a_id=909d1105a156f11827ca2624b0bdd486) ![](assets/new.png)  
-- [2021-03-18-揭秘手游外挂:基于内存蜜罐的内存修改挂分析技术](https://sec.thief.one/article_content?a_id=bb16e27d3ffc7e816c4d752a92e291b9) ![](assets/new.png)  
-- [2021-03-18-代码审计难?掌握这个学习思路,稳赢!](https://sec.thief.one/article_content?a_id=e0d427918a8e2ac0be078c7b6bcfeb6f) ![](assets/new.png)  
-- [2021-03-18-【漏洞通告】Apache-Solr任意文件读取与SSRF漏洞](https://sec.thief.one/article_content?a_id=8c6c940b9da0473783011bb0c3c32c29) ![](assets/new.png)  
-- [2021-03-18-你为什么入党?](https://sec.thief.one/article_content?a_id=30583d8eea5c66419ac0bb6911f0e8f8) ![](assets/new.png)  
-- [2021-03-18-蓝队防守必须排查的17个内网安全漏洞与解决方案](https://sec.thief.one/article_content?a_id=c23ff61525a158f637880406c87b2f26) ![](assets/new.png)  
-- [2021-03-18-百度安全重新定义Fuzzing-技术](https://sec.thief.one/article_content?a_id=0cc7efc5776fc780f3bf95a3d5c8f476) ![](assets/new.png)  
-- [2021-03-18-美图购买更多比特币和以太,持有加密货币总价值达9000万美元](https://sec.thief.one/article_content?a_id=dcbe760ce16a3d7223d4217bbc3fccc1) ![](assets/new.png)  
-- [2021-03-18-​315前夕,无辜90后女孩成了桃色新闻的主角](https://sec.thief.one/article_content?a_id=1da6181ea07e0bdbb709502e0a8390d4) ![](assets/new.png)  
-- [2021-03-18-【风险提示】天融信关于GitLab远程代码执行漏洞风险提示](https://sec.thief.one/article_content?a_id=75acec374fda9831dd9e0cfd57f8228d) ![](assets/new.png)  
-- [2021-03-18-【漏洞通告】GitLab-远程代码执行漏洞](https://sec.thief.one/article_content?a_id=13f9daaf3f8c17ea1a3b1271e436e106) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

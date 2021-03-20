@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-19 23:55:20，:rocket: 更新条数: +4180， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 00:08:19，:rocket: 更新条数: +4180， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-03-19-公司自己研发一套-UI-框架，这样的公司多吗？各位程序员使用感受如何？](https://www.v2ex.com/t/763374) ![](assets/new.png)  
+- [2021-03-19-从自然常数-e-的计算公式能推导-MD5-的算法吗](https://www.v2ex.com/t/763373) ![](assets/new.png)  
 - [2021-03-19-offer-选择问题](https://www.v2ex.com/t/763372) ![](assets/new.png)  
 - [2021-03-19-希捷-EXOS-X10-10TB-有哪些问题？](https://www.v2ex.com/t/763371) ![](assets/new.png)  
 - [2021-03-19-爱沙尼亚实际用途是什么？](https://www.v2ex.com/t/763370) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-03-19-救救孩子来看一下-Guido-同款鼠标垫吧](https://www.v2ex.com/t/763354) ![](assets/new.png)  
 - [2021-03-19-一个背单词小-app,-想知道哪种数据存储方法更高效](https://www.v2ex.com/t/763352) ![](assets/new.png)  
 - [2021-03-19-关于-roam-类笔记应用的一些想法](https://www.v2ex.com/t/763351) ![](assets/new.png)  
-- [2021-03-19-深圳/新加坡-全职/兼职/远程-x2-倍工资-创业公司-面向东南亚地区的外贸平台，从-0-到-1，已拿到千万天使轮](https://www.v2ex.com/t/763350) ![](assets/new.png)  
-- [2021-03-19-杭州-imToken-招聘产品经理、前端工程师](https://www.v2ex.com/t/763349) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,26 +1047,26 @@
 </summary>
 
 
-- [2021-03-19-中国互联网20年简史（1998-2018）：其中的规律与本质是什么？-www.cniteyes.com](https://blogread.cn/news/go.php?idItem=14226&url=http%3A%2F%2Fwww.cniteyes.com%2Farchives%2F33211%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-硬件安全：ARM体系架构的安全特性演进-www.secrss.com](https://blogread.cn/news/go.php?idItem=14225&url=https%3A%2F%2Fwww.secrss.com%2Farticles%2F9812%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-MTK平台Android-安全中secure-boot机制-blog.csdn.net](https://blogread.cn/news/go.php?idItem=14224&url=https%3A%2F%2Fblog.csdn.net%2Fqq_43805880%2Farticle%2Fdetails%2F108062898%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-UEFI安全启动-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14223&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F25279889%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-Android-Verified-Boot-概述-www.xiezeyang.com](https://blogread.cn/news/go.php?idItem=14222&url=https%3A%2F%2Fwww.xiezeyang.com%2F2019%2F10%2F20%2FSecurity%2FAndroidVerifiedBoot%25E6%25A6%2582%25E8%25BF%25B0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-浅析安全启动（Secure-Boot-bbs.pediy.com](https://blogread.cn/news/go.php?idItem=14221&url=https%3A%2F%2Fbbs.pediy.com%2Fthread-260399.htm%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-浅谈-Android-的安全启动和完整性保护-evilpan.com](https://blogread.cn/news/go.php?idItem=14220&url=https%3A%2F%2Fevilpan.com%2F2020%2F11%2F14%2Fandroid-secure-boot%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-黑产在IP攻防上的挣扎与进化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14219&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FljhNo8RckOt70-3H5j_6pQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-基于用户画像大数据的电商防刷架构-www.iyunying.org](https://blogread.cn/news/go.php?idItem=14218&url=https%3A%2F%2Fwww.iyunying.org%2Fseo%2Fdataanalysis%2F31400.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-软件测试人员该何去何从？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14217&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-qa-capability%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-延时！保新！2-年续期证书来啦~-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14216&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F357791609%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-提升软件交付效能——初探“按需发布”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpublish-as-needed%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-软件匠艺-teobler.com](https://blogread.cn/news/go.php?idItem=14214&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210314-software-craftsmanship%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-一文说透依赖注入-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dependency-injection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-为什么-Activity.finish-之后-10s-才-onDestroy-？我蒙蔽了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14212&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff30oh8781IYj2Rdq8UJfUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-华为高管再放狠话：鸿蒙不是安卓、iOS-的拷贝！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14211&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaiToCRUMtTz4BODqDGayuw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-鸿蒙开发初体验-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14210&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYBHOTtLjp7PuIGh5k0fnTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-阿里平头哥成功将-Android-10-移植到-RISC-V-架构上-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14209&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FShmgLyQnwuzEmO_OuNh7MA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-PanDownload-复活了！60MB/s！附下载地址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14208&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwi4cVwqkHO_kwZFBuFfAPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-19-绝了！搜狗输入法这骚操作！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14207&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfG6Nx8JAnajo7arkb9IqGA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-中国互联网20年简史（1998-2018）：其中的规律与本质是什么？-www.cniteyes.com](https://blogread.cn/news/go.php?idItem=14226&url=http%3A%2F%2Fwww.cniteyes.com%2Farchives%2F33211%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-硬件安全：ARM体系架构的安全特性演进-www.secrss.com](https://blogread.cn/news/go.php?idItem=14225&url=https%3A%2F%2Fwww.secrss.com%2Farticles%2F9812%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-MTK平台Android-安全中secure-boot机制-blog.csdn.net](https://blogread.cn/news/go.php?idItem=14224&url=https%3A%2F%2Fblog.csdn.net%2Fqq_43805880%2Farticle%2Fdetails%2F108062898%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-UEFI安全启动-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14223&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F25279889%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-Android-Verified-Boot-概述-www.xiezeyang.com](https://blogread.cn/news/go.php?idItem=14222&url=https%3A%2F%2Fwww.xiezeyang.com%2F2019%2F10%2F20%2FSecurity%2FAndroidVerifiedBoot%25E6%25A6%2582%25E8%25BF%25B0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-浅析安全启动（Secure-Boot-bbs.pediy.com](https://blogread.cn/news/go.php?idItem=14221&url=https%3A%2F%2Fbbs.pediy.com%2Fthread-260399.htm%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-浅谈-Android-的安全启动和完整性保护-evilpan.com](https://blogread.cn/news/go.php?idItem=14220&url=https%3A%2F%2Fevilpan.com%2F2020%2F11%2F14%2Fandroid-secure-boot%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-黑产在IP攻防上的挣扎与进化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14219&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FljhNo8RckOt70-3H5j_6pQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-基于用户画像大数据的电商防刷架构-www.iyunying.org](https://blogread.cn/news/go.php?idItem=14218&url=https%3A%2F%2Fwww.iyunying.org%2Fseo%2Fdataanalysis%2F31400.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-软件测试人员该何去何从？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14217&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-qa-capability%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-延时！保新！2-年续期证书来啦~-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14216&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F357791609%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-提升软件交付效能——初探“按需发布”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpublish-as-needed%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-软件匠艺-teobler.com](https://blogread.cn/news/go.php?idItem=14214&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210314-software-craftsmanship%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-一文说透依赖注入-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dependency-injection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-为什么-Activity.finish-之后-10s-才-onDestroy-？我蒙蔽了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14212&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff30oh8781IYj2Rdq8UJfUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-华为高管再放狠话：鸿蒙不是安卓、iOS-的拷贝！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14211&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaiToCRUMtTz4BODqDGayuw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-鸿蒙开发初体验-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14210&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYBHOTtLjp7PuIGh5k0fnTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-阿里平头哥成功将-Android-10-移植到-RISC-V-架构上-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14209&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FShmgLyQnwuzEmO_OuNh7MA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-PanDownload-复活了！60MB/s！附下载地址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14208&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwi4cVwqkHO_kwZFBuFfAPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-20-绝了！搜狗输入法这骚操作！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14207&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfG6Nx8JAnajo7arkb9IqGA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1078,26 +1078,26 @@
 </summary>
 
 
-- [2021-03-19-加密技术的未来：从服务端密码存储到用户数据加密方案](https://toutiao.io/k/lq6l2fa) ![](assets/new.png)  
-- [2021-03-19-如何优雅的让-3-个线程打印-ABC](https://toutiao.io/k/j2jmmcf) ![](assets/new.png)  
-- [2021-03-19-权限体系设计：网易有数-BI-功能品鉴](https://toutiao.io/k/nvr0l12) ![](assets/new.png)  
-- [2021-03-19-面试官常问的垃圾回收器，这次全搞懂](https://toutiao.io/k/7aczn5o) ![](assets/new.png)  
-- [2021-03-19-数仓已死？数据湖当立](https://toutiao.io/k/tpejrbn) ![](assets/new.png)  
-- [2021-03-19-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) ![](assets/new.png)  
-- [2021-03-19-都-2021-年了，你还在计划转-Go-语言么？](https://toutiao.io/k/3mzv763) ![](assets/new.png)  
-- [2021-03-19-详解低延时高音质：丢包、抖动与-last-mile-优化那些事儿](https://toutiao.io/k/eed1x1z) ![](assets/new.png)  
-- [2021-03-19-译-Apache-Pulsar-集群如何确保消息不丢](https://toutiao.io/k/9pxzn48) ![](assets/new.png)  
-- [2021-03-19-怎么推导出《115.-不同的子序列》的动态规划解法](https://toutiao.io/k/qttc0th) ![](assets/new.png)  
-- [2021-03-19-深入-JVM-去剖析-Synchronized](https://toutiao.io/k/xx5bo1v) ![](assets/new.png)  
-- [2021-03-19-C/C++-性能优化背后的方法论：TMAM](https://toutiao.io/k/hzhqiaw) ![](assets/new.png)  
-- [2021-03-19-Flutter-Web-在美团外卖的实践](https://toutiao.io/k/8jczbp9) ![](assets/new.png)  
-- [2021-03-19-Python-基础巩固：位运算的奥妙](https://toutiao.io/k/al9ejli) ![](assets/new.png)  
-- [2021-03-19-弃繁就简！一行代码搞定-Python-日志](https://toutiao.io/k/qlibow2) ![](assets/new.png)  
-- [2021-03-19-在-C#-中使用-CancellationToken-处理异步任务](https://toutiao.io/k/49joufi) ![](assets/new.png)  
-- [2021-03-19-算法工程师的自我修养](https://toutiao.io/k/knkfeqe) ![](assets/new.png)  
-- [2021-03-19-任务运维和数据指标相关的使用](https://toutiao.io/k/wb8ic3q) ![](assets/new.png)  
-- [2021-03-19-知识图谱上的图神经网络](https://toutiao.io/k/t4tylre) ![](assets/new.png)  
-- [2021-03-19-路漫漫其修远兮，吾将上下而求-“锁”​](https://toutiao.io/k/ac00xix) ![](assets/new.png)  
+- [2021-03-20-加密技术的未来：从服务端密码存储到用户数据加密方案](https://toutiao.io/k/lq6l2fa) ![](assets/new.png)  
+- [2021-03-20-如何优雅的让-3-个线程打印-ABC](https://toutiao.io/k/j2jmmcf) ![](assets/new.png)  
+- [2021-03-20-权限体系设计：网易有数-BI-功能品鉴](https://toutiao.io/k/nvr0l12) ![](assets/new.png)  
+- [2021-03-20-面试官常问的垃圾回收器，这次全搞懂](https://toutiao.io/k/7aczn5o) ![](assets/new.png)  
+- [2021-03-20-数仓已死？数据湖当立](https://toutiao.io/k/tpejrbn) ![](assets/new.png)  
+- [2021-03-20-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) ![](assets/new.png)  
+- [2021-03-20-都-2021-年了，你还在计划转-Go-语言么？](https://toutiao.io/k/3mzv763) ![](assets/new.png)  
+- [2021-03-20-详解低延时高音质：丢包、抖动与-last-mile-优化那些事儿](https://toutiao.io/k/eed1x1z) ![](assets/new.png)  
+- [2021-03-20-译-Apache-Pulsar-集群如何确保消息不丢](https://toutiao.io/k/9pxzn48) ![](assets/new.png)  
+- [2021-03-20-怎么推导出《115.-不同的子序列》的动态规划解法](https://toutiao.io/k/qttc0th) ![](assets/new.png)  
+- [2021-03-20-深入-JVM-去剖析-Synchronized](https://toutiao.io/k/xx5bo1v) ![](assets/new.png)  
+- [2021-03-20-C/C++-性能优化背后的方法论：TMAM](https://toutiao.io/k/hzhqiaw) ![](assets/new.png)  
+- [2021-03-20-Flutter-Web-在美团外卖的实践](https://toutiao.io/k/8jczbp9) ![](assets/new.png)  
+- [2021-03-20-Python-基础巩固：位运算的奥妙](https://toutiao.io/k/al9ejli) ![](assets/new.png)  
+- [2021-03-20-弃繁就简！一行代码搞定-Python-日志](https://toutiao.io/k/qlibow2) ![](assets/new.png)  
+- [2021-03-20-算法工程师的自我修养](https://toutiao.io/k/knkfeqe) ![](assets/new.png)  
+- [2021-03-20-在-C#-中使用-CancellationToken-处理异步任务](https://toutiao.io/k/49joufi) ![](assets/new.png)  
+- [2021-03-20-任务运维和数据指标相关的使用](https://toutiao.io/k/wb8ic3q) ![](assets/new.png)  
+- [2021-03-20-知识图谱上的图神经网络](https://toutiao.io/k/t4tylre) ![](assets/new.png)  
+- [2021-03-20-路漫漫其修远兮，吾将上下而求-“锁”​](https://toutiao.io/k/ac00xix) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

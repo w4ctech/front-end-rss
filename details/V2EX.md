@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-03-20 14:45:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-20 14:55:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-20-求助选择工作地点！武汉-or-上海](https://www.v2ex.com/t/763539) 
+- [2021-03-20-现在入-xr-是不是过时了。](https://www.v2ex.com/t/763538) 
 - [2021-03-20-浏览器书签保存的-cnblog-ibm-都看不了](https://www.v2ex.com/t/763537) 
 - [2021-03-20-有哪些音频-API-可以在线调用呢？](https://www.v2ex.com/t/763536) 
 - [2021-03-20-内推-快手内推，大量-HC](https://www.v2ex.com/t/763535) 
@@ -41,5 +43,3 @@
 - [2021-03-20-Intel-MacBook，现在-Big-Sur-大家建议升级吗？](https://www.v2ex.com/t/763492) 
 - [2021-03-20-Mac-os-big-sur-的「照片」应用不支持在隔空投送传输照片时候包含「所有照片数据」？](https://www.v2ex.com/t/763491) 
 - [2021-03-20-编译原理-这本书里，为什么不直接讲解-BNF-呢？](https://www.v2ex.com/t/763490) 
-- [2021-03-20-求助如何转发一个网站某个目录下的内容](https://www.v2ex.com/t/763489) 
-- [2021-03-20-为什么-mac-的-chrome-和-firefox-不将标签页关闭按钮放在左边，中文版-office-所有软件依然用复制来代替拷贝命令？](https://www.v2ex.com/t/763488) 

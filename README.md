@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-20 13:04:57，:rocket: 更新条数: +4169， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 13:12:44，:rocket: 更新条数: +4169， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,7 @@
 </summary>
 
 
+- [2021-03-20-chrome-右上角突然多出个”搜索标签页“的图标](https://www.v2ex.com/t/763522) ![](assets/new.png)  
 - [2021-03-20-技的鼠标宏要怎么实现松开侧键宏停止?](https://www.v2ex.com/t/763521) ![](assets/new.png)  
 - [2021-03-20-有更纯粹的办法来构建文档吗？](https://www.v2ex.com/t/763520) ![](assets/new.png)  
 - [2021-03-20-探索使用-Kubernetes-扩展专用游戏服务器：第-1-部分-容器化和部署](https://www.v2ex.com/t/763518) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-03-20-滴滴出行-北京、杭州、深圳、成都内推-Android/iOS/前端/-Java-/Go/C++/-Python-/算法/-PHP-/数据/产品/运营等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/763496) ![](assets/new.png)  
 - [2021-03-20-webpack-打包-antd-样式文件报错](https://www.v2ex.com/t/763495) ![](assets/new.png)  
 - [2021-03-20-技术向-用-Docker-自建-Bitwarden_rs](https://www.v2ex.com/t/763494) ![](assets/new.png)  
-- [2021-03-20-简单翻了下-Intel-黑-M1-的新广告，真的是要把爷整乐了](https://www.v2ex.com/t/763493) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,15 +1089,15 @@
 - [2021-03-20-软件匠艺](https://toutiao.io/k/792ketf) ![](assets/new.png)  
 - [2021-03-20-工具-|-腾讯开源的，针对安卓项目的-C/C++-内存分析工具](https://toutiao.io/k/qn3y8d6) ![](assets/new.png)  
 - [2021-03-20-AI-艺术家：Pindar-Van-Arman](https://toutiao.io/k/4z2o2ct) ![](assets/new.png)  
-- [2021-03-20-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
-- [2021-03-20-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
 - [2021-03-20-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
-- [2021-03-20-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
-- [2021-03-20-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
+- [2021-03-20-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
+- [2021-03-20-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
+- [2021-03-20-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
+- [2021-03-20-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
 - [2021-03-20-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
-- [2021-03-20-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
-- [2021-03-20-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
-- [2021-03-20-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) ![](assets/new.png)  
+- [2021-03-20-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
+- [2021-03-20-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
+- [2021-03-20-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-20 20:34:06，:rocket: 更新条数: +143， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 20:41:30，:rocket: 更新条数: +183， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -494,6 +494,26 @@
 </summary>
 
 
+- [2021-03-20-微信来电没有震动提示](https://www.v2ex.com/t/763564) ![](assets/new.png)  
+- [2021-03-20-新西兰远程工作-Web-高级全栈/Node.js/React.js/TypeScript/Ruby-on-Rails，工作地点随意，无加班-996](https://www.v2ex.com/t/763563) ![](assets/new.png)  
+- [2021-03-20-写代码两年了，还在迷茫发展方向](https://www.v2ex.com/t/763562) ![](assets/new.png)  
+- [2021-03-20-20-届回国待业生，应该卷算法岗还是提桶跑路?](https://www.v2ex.com/t/763561) ![](assets/new.png)  
+- [2021-03-20-这种情况还要坚持转码吗？](https://www.v2ex.com/t/763556) ![](assets/new.png)  
+- [2021-03-20-老哥们，本人今年应届生，刚才-boss-上广发简历，有个工作回了我，大佬们帮忙看看对方说的靠谱吗，有人能说说-Java-实施工程师是干啥的吗？限制协议是啥？](https://www.v2ex.com/t/763555) ![](assets/new.png)  
+- [2021-03-20-print-的-string-内含有中文，如果为套上了颜色定义前缀，那么-ljust，-rjust-的位置控制，基本上是废了？-如何破?](https://www.v2ex.com/t/763554) ![](assets/new.png)  
+- [2021-03-20-请教下-Linux-的输入输出](https://www.v2ex.com/t/763553) ![](assets/new.png)  
+- [2021-03-20-求助有没有面试过富途证券-前端岗位小伙伴们？想了解下面经....](https://www.v2ex.com/t/763552) ![](assets/new.png)  
+- [2021-03-20-大家开始都是怎么熟悉开车的](https://www.v2ex.com/t/763551) ![](assets/new.png)  
+- [2021-03-20-有什么办法可以将-Gitee-库同步到-GitHub-上?](https://www.v2ex.com/t/763550) ![](assets/new.png)  
+- [2021-03-20-macOS-上-Proxyman-六折](https://www.v2ex.com/t/763549) ![](assets/new.png)  
+- [2021-03-20-甜沫-Chain-一个聚合消息推送项目](https://www.v2ex.com/t/763548) ![](assets/new.png)  
+- [2021-03-20-watch-解锁-iPhone-似乎根本就不会校验人脸](https://www.v2ex.com/t/763546) ![](assets/new.png)  
+- [2021-03-20-iPhone-双卡短信问题，恼火！](https://www.v2ex.com/t/763545) ![](assets/new.png)  
+- [2021-03-20-ipadpro-更换电池](https://www.v2ex.com/t/763544) ![](assets/new.png)  
+- [2021-03-20-之前玩过的手机模拟经营游戏，忘记名字了](https://www.v2ex.com/t/763543) ![](assets/new.png)  
+- [2021-03-20-V2ex-有好用的-iOS-客户端推荐吗](https://www.v2ex.com/t/763542) ![](assets/new.png)  
+- [2021-03-20-就-API-交互类似场景来说，有没有相关法律法规有规定安全规范啥的（纯好奇）](https://www.v2ex.com/t/763541) ![](assets/new.png)  
+- [2021-03-20-求助选择工作地点！武汉-or-上海](https://www.v2ex.com/t/763539) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

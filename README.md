@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-20 08:10:08，:rocket: 更新条数: +4071， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 08:37:27，:rocket: 更新条数: +4069， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,7 +1016,13 @@
 </summary>
 
 
-- [2021-03-20-想要买一个可以过-DigitalOcean-的卡](https://www.v2ex.com/t/763462) ![](assets/new.png)  
+- [2021-03-20-上海联通宽带不能改桥接了？](https://www.v2ex.com/t/763471) ![](assets/new.png)  
+- [2021-03-20-21-年上海电信-1000M-光猫-SDN-桥接以及国际精品网体验](https://www.v2ex.com/t/763470) ![](assets/new.png)  
+- [2021-03-20-求问，-iPhone-的背夹电池有什么推荐的牌子？](https://www.v2ex.com/t/763469) ![](assets/new.png)  
+- [2021-03-20-大放水什么时候结束？如何应对？](https://www.v2ex.com/t/763468) ![](assets/new.png)  
+- [2021-03-20-安卓手机也会因为冷而掉电厉害么?](https://www.v2ex.com/t/763466) ![](assets/new.png)  
+- [2021-03-20-真诚发问！-Java-2-年，广州或深圳有啥二线厂推荐吗！跪下了。](https://www.v2ex.com/t/763465) ![](assets/new.png)  
+- [2021-03-20-三星堆遗址有重大发现是不是意味着地球要进入修仙时代了](https://www.v2ex.com/t/763464) ![](assets/new.png)  
 - [2021-03-20-赚大钱难，赚小钱容易](https://www.v2ex.com/t/763460) ![](assets/new.png)  
 - [2021-03-20-大家是怎么使用-notion-的，对于某个领域的知识，是使用数据库还是用多层-page？](https://www.v2ex.com/t/763458) ![](assets/new.png)  
 - [2021-03-20-杭州-内推-MicroStrategy-首席研发，虚位以待](https://www.v2ex.com/t/763457) ![](assets/new.png)  
@@ -1030,12 +1036,6 @@
 - [2021-03-20-有办法把那么多软件的-Chrome-合并一些文件吗？](https://www.v2ex.com/t/763447) ![](assets/new.png)  
 - [2021-03-20-抖音-Server-团队招新啦](https://www.v2ex.com/t/763446) ![](assets/new.png)  
 - [2021-03-20-关于我的-AirPods-Pro-在洗衣机里洗了-1-小时之后还是好的这件事](https://www.v2ex.com/t/763444) ![](assets/new.png)  
-- [2021-03-20-在屏幕和键盘的转轴接缝出不小心滴了一滴水。及时擦干了，会有问题吗？](https://www.v2ex.com/t/763443) ![](assets/new.png)  
-- [2021-03-20-chrome-89-如何开启实时字幕功能呀？](https://www.v2ex.com/t/763442) ![](assets/new.png)  
-- [2021-03-20-请问各位，目前有没有那种监测到你睡了几个睡眠周期后，叫醒你的闹钟？](https://www.v2ex.com/t/763440) ![](assets/new.png)  
-- [2021-03-20-pycharm-2020.3-里面自带的-jupyter-使用-Javascript-报错-ReferenceError:-require-is-not-defined](https://www.v2ex.com/t/763438) ![](assets/new.png)  
-- [2021-03-20-迫于找不到工作，直接放简历，有需要的老板都来看看呀~](https://www.v2ex.com/t/763437) ![](assets/new.png)  
-- [2021-03-20-学生党，想参加一些-Java-开源项目，有没有啥推荐的？](https://www.v2ex.com/t/763434) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,15 +1089,15 @@
 - [2021-03-20-软件匠艺](https://toutiao.io/k/792ketf) ![](assets/new.png)  
 - [2021-03-20-AI-艺术家：Pindar-Van-Arman](https://toutiao.io/k/4z2o2ct) ![](assets/new.png)  
 - [2021-03-20-工具-|-腾讯开源的，针对安卓项目的-C/C++-内存分析工具](https://toutiao.io/k/qn3y8d6) ![](assets/new.png)  
-- [2021-03-20-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
-- [2021-03-20-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
+- [2021-03-20-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
 - [2021-03-20-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
-- [2021-03-20-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
-- [2021-03-20-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
-- [2021-03-20-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
-- [2021-03-20-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
-- [2021-03-20-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
-- [2021-03-20-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) ![](assets/new.png)  
+- [2021-03-20-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
+- [2021-03-20-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
+- [2021-03-20-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) ![](assets/new.png)  
+- [2021-03-20-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
+- [2021-03-20-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
+- [2021-03-20-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
+- [2021-03-20-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

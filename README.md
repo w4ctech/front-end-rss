@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-20 07:50:59，:rocket: 更新条数: +4171， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 08:04:57，:rocket: 更新条数: +4171， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,11 @@
 </summary>
 
 
+- [2021-03-20-想要买一个可以过-DigitalOcean-的卡](https://www.v2ex.com/t/763462) ![](assets/new.png)  
+- [2021-03-20-赚大钱难，赚小钱容易](https://www.v2ex.com/t/763460) ![](assets/new.png)  
+- [2021-03-20-大家是怎么使用-notion-的，对于某个领域的知识，是使用数据库还是用多层-page？](https://www.v2ex.com/t/763458) ![](assets/new.png)  
+- [2021-03-20-杭州-内推-MicroStrategy-首席研发，虚位以待](https://www.v2ex.com/t/763457) ![](assets/new.png)  
+- [2021-03-20-上海招安卓、iOS、测试-QA、后端等岗位](https://www.v2ex.com/t/763456) ![](assets/new.png)  
 - [2021-03-20-M1-的-Mac-产品，-Chrome-不要使用自动更新](https://www.v2ex.com/t/763454) ![](assets/new.png)  
 - [2021-03-20-关于老婆工作的问题](https://www.v2ex.com/t/763453) ![](assets/new.png)  
 - [2021-03-20-golang-协程读写上下文变量-一直为-0](https://www.v2ex.com/t/763452) ![](assets/new.png)  
@@ -1031,11 +1036,6 @@
 - [2021-03-20-pycharm-2020.3-里面自带的-jupyter-使用-Javascript-报错-ReferenceError:-require-is-not-defined](https://www.v2ex.com/t/763438) ![](assets/new.png)  
 - [2021-03-20-迫于找不到工作，直接放简历，有需要的老板都来看看呀~](https://www.v2ex.com/t/763437) ![](assets/new.png)  
 - [2021-03-20-学生党，想参加一些-Java-开源项目，有没有啥推荐的？](https://www.v2ex.com/t/763434) ![](assets/new.png)  
-- [2021-03-20-每天电脑上文件变动不大，但是-Time-Machine-基本-6-7-个-G-的备份量](https://www.v2ex.com/t/763433) ![](assets/new.png)  
-- [2021-03-20-运气不错，老哥手把手教你怎么找回被偷的-iPhone](https://www.v2ex.com/t/763432) ![](assets/new.png)  
-- [2021-03-20-求助一个关于百度云加速跨域的问题](https://www.v2ex.com/t/763431) ![](assets/new.png)  
-- [2021-03-20-还是要求一波跨平台开源的-airdrop/snapdrop-的替代品](https://www.v2ex.com/t/763430) ![](assets/new.png)  
-- [2021-03-20-Seamless-–-从-Mac-到-iPhone-，转瞬即传](https://www.v2ex.com/t/763429) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1082,21 +1082,21 @@
 - [2021-03-20-如何构建你的沟通场域](https://toutiao.io/k/dujfhzb) ![](assets/new.png)  
 - [2021-03-20-译-BPF-可移植性和-CO-RE（一次编译，到处运行）](https://toutiao.io/k/o88fd7y) ![](assets/new.png)  
 - [2021-03-20-欧洲最大云厂商遇火灾，数据安全任重道远](https://toutiao.io/k/ksej3if) ![](assets/new.png)  
-- [2021-03-20-如何对集合对象求合计，然后追加在该集合对象中](https://toutiao.io/k/qpoc0hv) ![](assets/new.png)  
 - [2021-03-20-基于-Flink-的分布式离线和实时的数据同步框架](https://toutiao.io/k/ilvyhe8) ![](assets/new.png)  
+- [2021-03-20-如何对集合对象求合计，然后追加在该集合对象中](https://toutiao.io/k/qpoc0hv) ![](assets/new.png)  
 - [2021-03-20-一文搞懂-Kubernetes-网络策略（上）](https://toutiao.io/k/j889c3j) ![](assets/new.png)  
 - [2021-03-20-维格表创始人陈霈霖：喜茶数字化转型的结晶是-vika-维格表](https://toutiao.io/k/328uax9) ![](assets/new.png)  
-- [2021-03-20-AI-艺术家：Pindar-Van-Arman](https://toutiao.io/k/4z2o2ct) ![](assets/new.png)  
 - [2021-03-20-软件匠艺](https://toutiao.io/k/792ketf) ![](assets/new.png)  
+- [2021-03-20-AI-艺术家：Pindar-Van-Arman](https://toutiao.io/k/4z2o2ct) ![](assets/new.png)  
 - [2021-03-20-工具-|-腾讯开源的，针对安卓项目的-C/C++-内存分析工具](https://toutiao.io/k/qn3y8d6) ![](assets/new.png)  
-- [2021-03-20-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
-- [2021-03-20-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) ![](assets/new.png)  
+- [2021-03-20-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
+- [2021-03-20-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
+- [2021-03-20-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
+- [2021-03-20-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
 - [2021-03-20-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
-- [2021-03-20-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
-- [2021-03-20-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
-- [2021-03-20-推荐-有赞-BI-平台设计及实现](https://toutiao.io/k/a595tmo) ![](assets/new.png)  
-- [2021-03-20-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
-- [2021-03-20-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
+- [2021-03-20-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
+- [2021-03-20-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
+- [2021-03-20-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
 - [2021-03-20-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-20 14:55:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-20 15:04:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2021-03-20-简单翻了下-Intel-黑-M1-的新广告，真的是要把爷整乐了](https://www.v2ex.com/t/763493) 
 - [2021-03-20-Intel-MacBook，现在-Big-Sur-大家建议升级吗？](https://www.v2ex.com/t/763492) 
 - [2021-03-20-Mac-os-big-sur-的「照片」应用不支持在隔空投送传输照片时候包含「所有照片数据」？](https://www.v2ex.com/t/763491) 
-- [2021-03-20-编译原理-这本书里，为什么不直接讲解-BNF-呢？](https://www.v2ex.com/t/763490) 

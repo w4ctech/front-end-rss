@@ -17115,7 +17115,18 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "全国｜新增确诊病例 4 例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5QMrMTXM4yNUGpWb4ZbX210320&isfromapp=1",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "陕西｜新增 1 例封闭隔离病区本土确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKneZ0vDDwFacgOBBvLxU210318&isfromapp=1",
+        "date": "2021-03-18"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",
@@ -20070,6 +20081,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有人遇到确认接受后的 offer， HR 提出需要加面试的情况吗？",
+        "link": "https://www.v2ex.com/t/763422",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "各位技术心得都是用什么做记录的",
+        "link": "https://www.v2ex.com/t/763421",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "有无免费的 NS 服务器同时有国内与国外节点的？",
+        "link": "https://www.v2ex.com/t/763420",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "Aeron 和 embody 价格疑问",
+        "link": "https://www.v2ex.com/t/763419",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "上海去医院探望病人什么政策？",
+        "link": "https://www.v2ex.com/t/763418",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "外包，蚂蚁金服",
+        "link": "https://www.v2ex.com/t/763417",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "请教各位一个关于 nginx 代理参数重写的方法？",
+        "link": "https://www.v2ex.com/t/763416",
+        "date": "2021-03-20"
+      },
+      {
         "title": "Docker 这是咋了",
         "link": "https://www.v2ex.com/t/763415",
         "date": "2021-03-20"
@@ -20228,36 +20274,6 @@
         "title": "从自然常数 e 的计算公式能推导 MD5 的算法吗",
         "link": "https://www.v2ex.com/t/763373",
         "date": "2021-03-19"
-      },
-      {
-        "title": "offer 选择问题",
-        "link": "https://www.v2ex.com/t/763372",
-        "date": "2021-03-19"
-      },
-      {
-        "title": "希捷 EXOS X10 10TB 有哪些问题？",
-        "link": "https://www.v2ex.com/t/763371",
-        "date": "2021-03-19"
-      },
-      {
-        "title": "爱沙尼亚实际用途是什么？",
-        "link": "https://www.v2ex.com/t/763370",
-        "date": "2021-03-19"
-      },
-      {
-        "title": "Headless Analytics Stack？",
-        "link": "https://www.v2ex.com/t/763369",
-        "date": "2021-03-19"
-      },
-      {
-        "title": "VS Code 自定义联想输入词库?",
-        "link": "https://www.v2ex.com/t/763368",
-        "date": "2021-03-19"
-      },
-      {
-        "title": "utorrent 里为什么 IPv6 连接这么少",
-        "link": "https://www.v2ex.com/t/763367",
-        "date": "2021-03-19"
       }
     ]
   },
@@ -20265,7 +20281,108 @@
     "rss": "https://front-rss.herokuapp.com/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "中国互联网20年简史（1998-2018）：其中的规律与本质是什么？ (www.cniteyes.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14226&url=http%3A%2F%2Fwww.cniteyes.com%2Farchives%2F33211%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "硬件安全：ARM体系架构的安全特性演进 (www.secrss.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14225&url=https%3A%2F%2Fwww.secrss.com%2Farticles%2F9812%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "MTK平台Android 安全中secure boot机制 (blog.csdn.net)",
+        "link": "https://blogread.cn/news/go.php?idItem=14224&url=https%3A%2F%2Fblog.csdn.net%2Fqq_43805880%2Farticle%2Fdetails%2F108062898%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "UEFI安全启动 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14223&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F25279889%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "Android Verified Boot 概述 (www.xiezeyang.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14222&url=https%3A%2F%2Fwww.xiezeyang.com%2F2019%2F10%2F20%2FSecurity%2FAndroidVerifiedBoot%25E6%25A6%2582%25E8%25BF%25B0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "浅析安全启动（Secure Boot (bbs.pediy.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14221&url=https%3A%2F%2Fbbs.pediy.com%2Fthread-260399.htm%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "浅谈 Android 的安全启动和完整性保护 (evilpan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14220&url=https%3A%2F%2Fevilpan.com%2F2020%2F11%2F14%2Fandroid-secure-boot%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "黑产在IP攻防上的挣扎与进化 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14219&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FljhNo8RckOt70-3H5j_6pQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "基于用户画像大数据的电商防刷架构 (www.iyunying.org)",
+        "link": "https://blogread.cn/news/go.php?idItem=14218&url=https%3A%2F%2Fwww.iyunying.org%2Fseo%2Fdataanalysis%2F31400.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "软件测试人员该何去何从？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14217&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-qa-capability%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "延时！保新！2 年续期证书来啦~ (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14216&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F357791609%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "提升软件交付效能——初探“按需发布” (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpublish-as-needed%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "软件匠艺 (teobler.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14214&url=https%3A%2F%2Fteobler.com%2Fposts%2F20210314-software-craftsmanship%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "一文说透依赖注入 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dependency-injection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "为什么 Activity.finish() 之后 10s 才 onDestroy ？我蒙蔽了 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14212&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff30oh8781IYj2Rdq8UJfUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "华为高管再放狠话：鸿蒙不是安卓、iOS 的拷贝！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14211&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaiToCRUMtTz4BODqDGayuw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "鸿蒙开发初体验 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14210&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYBHOTtLjp7PuIGh5k0fnTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "阿里平头哥成功将 Android 10 移植到 RISC-V 架构上 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14209&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FShmgLyQnwuzEmO_OuNh7MA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "PanDownload 复活了！60MB/s！附下载地址 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14208&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwi4cVwqkHO_kwZFBuFfAPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "绝了！搜狗输入法这骚操作！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14207&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfG6Nx8JAnajo7arkb9IqGA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-20"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
@@ -20328,13 +20445,13 @@
         "date": "2021-03-20"
       },
       {
-        "title": "[推荐] 有赞 BI 平台设计及实现",
-        "link": "https://toutiao.io/k/a595tmo",
+        "title": "[推荐] 带你深入理解 Java 内存模型理论",
+        "link": "https://toutiao.io/k/0ic2o68",
         "date": "2021-03-20"
       },
       {
-        "title": "[推荐] 21 大软件架构特点的全面解析",
-        "link": "https://toutiao.io/k/2n0entj",
+        "title": "[推荐] 有赞 BI 平台设计及实现",
+        "link": "https://toutiao.io/k/a595tmo",
         "date": "2021-03-20"
       },
       {
@@ -20343,38 +20460,13 @@
         "date": "2021-03-20"
       },
       {
-        "title": "[推荐] 面试被吊打：Redis 原理",
-        "link": "https://toutiao.io/k/pmxukkm",
+        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
+        "link": "https://toutiao.io/k/yduqoev",
         "date": "2021-03-20"
       },
       {
-        "title": "[推荐] TCP/IP 常见攻击手段",
-        "link": "https://toutiao.io/k/gqpcukq",
-        "date": "2021-03-20"
-      },
-      {
-        "title": "[推荐] 从技术专家到技术管理，我对管理的思考",
-        "link": "https://toutiao.io/k/r5kgujp",
-        "date": "2021-03-20"
-      },
-      {
-        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
-        "link": "https://toutiao.io/k/xuv7rlf",
-        "date": "2021-03-20"
-      },
-      {
-        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
-        "link": "https://toutiao.io/k/mzszqf0",
-        "date": "2021-03-20"
-      },
-      {
-        "title": "[推荐] 万字长文聊缓存（下）：应用级缓存",
-        "link": "https://toutiao.io/k/c1uc4c2",
-        "date": "2021-03-20"
-      },
-      {
-        "title": "[推荐] 你对天天挂在嘴边的高并发，怕是有什么误解吧？",
-        "link": "https://toutiao.io/k/xpyufe6",
+        "title": "[推荐] Java 工程师核心书单，阿里大佬看了都说好",
+        "link": "https://toutiao.io/k/5apgnxp",
         "date": "2021-03-20"
       },
       {
@@ -20383,23 +20475,48 @@
         "date": "2021-03-20"
       },
       {
-        "title": "[推荐] 算法面试套路知多少",
-        "link": "https://toutiao.io/k/yl7s9sl",
-        "date": "2021-03-20"
-      },
-      {
-        "title": "[推荐] Golang 性能诊断看这篇就够了",
-        "link": "https://toutiao.io/k/3loin1u",
-        "date": "2021-03-20"
-      },
-      {
-        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
-        "link": "https://toutiao.io/k/tgp1ua8",
+        "title": "[推荐] 21 大软件架构特点的全面解析",
+        "link": "https://toutiao.io/k/2n0entj",
         "date": "2021-03-20"
       },
       {
         "title": "[推荐] 快手超大规模集群调度优化实践",
         "link": "https://toutiao.io/k/671eano",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "[推荐] 你对天天挂在嘴边的高并发，怕是有什么误解吧？",
+        "link": "https://toutiao.io/k/xpyufe6",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
+        "link": "https://toutiao.io/k/xuv7rlf",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "[推荐] 万字长文聊缓存（下）：应用级缓存",
+        "link": "https://toutiao.io/k/c1uc4c2",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "[推荐] 面试被吊打：Redis 原理",
+        "link": "https://toutiao.io/k/pmxukkm",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "[推荐] 聊聊 IT 技术人的知识体系",
+        "link": "https://toutiao.io/k/vmimc5g",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
+        "link": "https://toutiao.io/k/mzszqf0",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "[推荐] MySQL 读写分离，写完读不到问题如何解决",
+        "link": "https://toutiao.io/k/ga340bq",
         "date": "2021-03-20"
       }
     ]

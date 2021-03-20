@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-20 11:31:17，:rocket: 更新条数: +4169， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 11:39:47，:rocket: 更新条数: +4170， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-03-20-上海/新加坡-区块链-bybit-招前后端测试，入职送-ps5](https://www.v2ex.com/t/763509) ![](assets/new.png)  
+- [2021-03-20-现在-sim-卡都不能用快递寄了吗？](https://www.v2ex.com/t/763508) ![](assets/new.png)  
+- [2021-03-20-找车位：-国区-Apple-iCloud-2T-家庭组-有无-Apple-Music-都可以](https://www.v2ex.com/t/763507) ![](assets/new.png)  
 - [2021-03-20-有没有好用的邮箱可以推荐一下啊](https://www.v2ex.com/t/763506) ![](assets/new.png)  
 - [2021-03-20-历史类网站如何做-seo-和提高百度收录](https://www.v2ex.com/t/763504) ![](assets/new.png)  
 - [2021-03-20-人在国外，大部分国内网站不用-4G-上不了，是-IP-被锁了吗？是不是等待公网-ip-换地址就能解决了呢？](https://www.v2ex.com/t/763503) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-03-20-求助如何转发一个网站某个目录下的内容](https://www.v2ex.com/t/763489) ![](assets/new.png)  
 - [2021-03-20-为什么-mac-的-chrome-和-firefox-不将标签页关闭按钮放在左边，中文版-office-所有软件依然用复制来代替拷贝命令？](https://www.v2ex.com/t/763488) ![](assets/new.png)  
 - [2021-03-20-北京内推贝壳找房新家装新家居事业部技术岗海量-hc](https://www.v2ex.com/t/763487) ![](assets/new.png)  
-- [2021-03-20-刚用-mac-不久，大家有没有-mac-平台的相见恨晚的生产力工具推荐](https://www.v2ex.com/t/763485) ![](assets/new.png)  
-- [2021-03-20-小朋友沉迷游戏，有什么方法能有效控制？我能想到的是屏蔽-ip](https://www.v2ex.com/t/763483) ![](assets/new.png)  
-- [2021-03-20-有没有类似”小米闻声”的语音转文字软件推荐？](https://www.v2ex.com/t/763482) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,15 +1089,15 @@
 - [2021-03-20-软件匠艺](https://toutiao.io/k/792ketf) ![](assets/new.png)  
 - [2021-03-20-工具-|-腾讯开源的，针对安卓项目的-C/C++-内存分析工具](https://toutiao.io/k/qn3y8d6) ![](assets/new.png)  
 - [2021-03-20-AI-艺术家：Pindar-Van-Arman](https://toutiao.io/k/4z2o2ct) ![](assets/new.png)  
-- [2021-03-20-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
-- [2021-03-20-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
-- [2021-03-20-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
-- [2021-03-20-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
-- [2021-03-20-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-20-推荐-有赞-BI-平台设计及实现](https://toutiao.io/k/a595tmo) ![](assets/new.png)  
+- [2021-03-20-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
+- [2021-03-20-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
+- [2021-03-20-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
 - [2021-03-20-推荐-万字长文聊缓存（下）：应用级缓存](https://toutiao.io/k/c1uc4c2) ![](assets/new.png)  
+- [2021-03-20-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
 - [2021-03-20-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
-- [2021-03-20-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) ![](assets/new.png)  
-- [2021-03-20-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
+- [2021-03-20-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
+- [2021-03-20-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

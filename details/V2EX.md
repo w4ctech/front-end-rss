@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-03-20 03:11:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-20 03:27:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-20-客户给我说我的产品是-Java-写的，我当场骂了他。](https://www.v2ex.com/t/763410) 
 - [2021-03-20-迫于上海电信太垃圾，求个中转](https://www.v2ex.com/t/763408) 
 - [2021-03-20-iPad-如何做为-windows-音箱来输出音频](https://www.v2ex.com/t/763407) 
 - [2021-03-20-nestjs-使用-mongoose-如何开启-debug-打印-SQL](https://www.v2ex.com/t/763406) 
@@ -42,4 +43,3 @@
 - [2021-03-19-一张无法在微信里发送的-GIF](https://www.v2ex.com/t/763365) 
 - [2021-03-19-学生教务系统-Sql-求助](https://www.v2ex.com/t/763364) 
 - [2021-03-19-芜湖，通宵上线，起飞](https://www.v2ex.com/t/763363) 
-- [2021-03-19-从-gitlab-拉了一个项目下来，然后复制所有项目文件到另外一个仓库文件夹下面，下载依赖并且-start-报错](https://www.v2ex.com/t/763360) 

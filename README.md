@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-20 07:40:37，:rocket: 更新条数: +4071， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 07:45:35，:rocket: 更新条数: +4169， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -54,7 +54,7 @@
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
-- [安全热点](#安全热点)  
+- [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
@@ -96,8 +96,6 @@
 </summary>
 
 
-- [2021-03-20-全国｜新增确诊病例-4-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5QMrMTXM4yNUGpWb4ZbX210320&isfromapp=1) ![](assets/new.png)  
-- [2021-03-18-陕西｜新增-1-例封闭隔离病区本土确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKneZ0vDDwFacgOBBvLxU210318&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,15 +1087,15 @@
 - [2021-03-20-AI-艺术家：Pindar-Van-Arman](https://toutiao.io/k/4z2o2ct) ![](assets/new.png)  
 - [2021-03-20-软件匠艺](https://toutiao.io/k/792ketf) ![](assets/new.png)  
 - [2021-03-20-工具-|-腾讯开源的，针对安卓项目的-C/C++-内存分析工具](https://toutiao.io/k/qn3y8d6) ![](assets/new.png)  
-- [2021-03-20-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
-- [2021-03-20-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
-- [2021-03-20-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
-- [2021-03-20-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
-- [2021-03-20-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
-- [2021-03-20-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
 - [2021-03-20-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
-- [2021-03-20-推荐-Golang-性能诊断看这篇就够了](https://toutiao.io/k/3loin1u) ![](assets/new.png)  
-- [2021-03-20-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
+- [2021-03-20-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
+- [2021-03-20-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
+- [2021-03-20-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
+- [2021-03-20-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
+- [2021-03-20-推荐-有赞-BI-平台设计及实现](https://toutiao.io/k/a595tmo) ![](assets/new.png)  
+- [2021-03-20-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
+- [2021-03-20-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
+- [2021-03-20-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,6 +1107,26 @@
 </summary>
 
 
+- [2021-03-19-网安杂谈收藏夹2021.3.19](https://sec.thief.one/article_content?a_id=8ab6bc41c846623b4b37af344c434447) ![](assets/new.png)  
+- [2021-03-19-Netgear-R6400v2-堆溢出漏洞分析与利用](https://sec.thief.one/article_content?a_id=c58e8dc40d42cfe1b7b462b873ba4b10) ![](assets/new.png)  
+- [2021-03-18-《原神》1.5版本游戏信息大量泄漏](https://sec.thief.one/article_content?a_id=9a054994193c4afd470c75b34d0a8b26) ![](assets/new.png)  
+- [2021-03-18-这是我见过最秀的代码注释](https://sec.thief.one/article_content?a_id=0eac1a9ef3e3c64cf62c3f15fd7a84c7) ![](assets/new.png)  
+- [2021-03-18-启动|BCS-2021全球议题征集](https://sec.thief.one/article_content?a_id=44616e878685da1369de77965b285cd3) ![](assets/new.png)  
+- [2021-03-18-HW干货集合-|-最全应急响应思维导图](https://sec.thief.one/article_content?a_id=ebd67464bfdf2f3653dc5101932c96c6) ![](assets/new.png)  
+- [2021-03-18-【安全头条】狩猎者变成猎物:WeLeakIofo的故事续集出现反转](https://sec.thief.one/article_content?a_id=9ef75d571f0efcea344d56638b65edce) ![](assets/new.png)  
+- [2021-03-18-阿里面试官问“说一下从-url-输入到返回请求的过程”的难度就是不一...](https://sec.thief.one/article_content?a_id=dbb71047cd302bf8c0584f1ee23c4de9) ![](assets/new.png)  
+- [2021-03-18-16美元就可以打包带走所有短信,你的手机号还安全吗?](https://sec.thief.one/article_content?a_id=a5132bfc3fc98f65d368b9359804cd4f) ![](assets/new.png)  
+- [2021-03-18-阿里安全今年首次开放风控策略类校招岗](https://sec.thief.one/article_content?a_id=909d1105a156f11827ca2624b0bdd486) ![](assets/new.png)  
+- [2021-03-18-揭秘手游外挂:基于内存蜜罐的内存修改挂分析技术](https://sec.thief.one/article_content?a_id=bb16e27d3ffc7e816c4d752a92e291b9) ![](assets/new.png)  
+- [2021-03-18-代码审计难?掌握这个学习思路,稳赢!](https://sec.thief.one/article_content?a_id=e0d427918a8e2ac0be078c7b6bcfeb6f) ![](assets/new.png)  
+- [2021-03-18-【漏洞通告】Apache-Solr任意文件读取与SSRF漏洞](https://sec.thief.one/article_content?a_id=8c6c940b9da0473783011bb0c3c32c29) ![](assets/new.png)  
+- [2021-03-18-你为什么入党?](https://sec.thief.one/article_content?a_id=30583d8eea5c66419ac0bb6911f0e8f8) ![](assets/new.png)  
+- [2021-03-18-蓝队防守必须排查的17个内网安全漏洞与解决方案](https://sec.thief.one/article_content?a_id=c23ff61525a158f637880406c87b2f26) ![](assets/new.png)  
+- [2021-03-18-百度安全重新定义Fuzzing-技术](https://sec.thief.one/article_content?a_id=0cc7efc5776fc780f3bf95a3d5c8f476) ![](assets/new.png)  
+- [2021-03-18-美图购买更多比特币和以太,持有加密货币总价值达9000万美元](https://sec.thief.one/article_content?a_id=dcbe760ce16a3d7223d4217bbc3fccc1) ![](assets/new.png)  
+- [2021-03-18-​315前夕,无辜90后女孩成了桃色新闻的主角](https://sec.thief.one/article_content?a_id=1da6181ea07e0bdbb709502e0a8390d4) ![](assets/new.png)  
+- [2021-03-18-【风险提示】天融信关于GitLab远程代码执行漏洞风险提示](https://sec.thief.one/article_content?a_id=75acec374fda9831dd9e0cfd57f8228d) ![](assets/new.png)  
+- [2021-03-18-【漏洞通告】GitLab-远程代码执行漏洞](https://sec.thief.one/article_content?a_id=13f9daaf3f8c17ea1a3b1271e436e106) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 02:13:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 02:45:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -9,8 +9,6 @@
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2021-03-20-Curl-工具-23-岁生日](https://www.v2ex.com/t/763568) 
-- [2021-03-20-就-API-交互类似场景来说，有没有相关法律法规有规定安全规范啥的（纯好奇）](https://www.v2ex.com/t/763541) 
-- [2021-03-20-浏览器书签保存的-cnblog-ibm-都看不了](https://www.v2ex.com/t/763537) 
 - [2021-03-18-【安全头条】狩猎者变成猎物:WeLeakIofo的故事续集出现反转](https://sec.thief.one/article_content?a_id=9ef75d571f0efcea344d56638b65edce) 
 - [2021-03-18-阿里面试官问“说一下从-url-输入到返回请求的过程”的难度就是不一...](https://sec.thief.one/article_content?a_id=dbb71047cd302bf8c0584f1ee23c4de9) 
 - [2021-03-18-16美元就可以打包带走所有短信,你的手机号还安全吗?](https://sec.thief.one/article_content?a_id=a5132bfc3fc98f65d368b9359804cd4f) 

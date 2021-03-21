@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 02:13:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 02:45:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -8,6 +8,13 @@
 - [2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) 
 - [2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html) 
 - [2021-03-05-科技爱好者周刊（第-148-期）：微增长时代](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html) 
+- [2021-03-21-kindle-pw-现在二手大概多少钱?](https://www.v2ex.com/t/763596) 
+- [2021-03-21-在-Mac-上-IDEA-家族里按-⌘+⇧+A-为什么会弹出-Terminal-的这个东西啊](https://www.v2ex.com/t/763595) 
+- [2021-03-21-实习-微软亚洲研究院-全球网络实时数据采集平台-Web-前端实习生](https://www.v2ex.com/t/763592) 
+- [2021-03-21-有人骑踏板摩托吗？国产的质量怎样](https://www.v2ex.com/t/763591) 
+- [2021-03-21-关于-checkpoint-的疑问](https://www.v2ex.com/t/763588) 
+- [2021-03-21-内推-NVIDIA-上海招-Test-developer-若干名](https://www.v2ex.com/t/763587) 
+- [2021-03-21-怎么用-Python-连接坚果云的-Webdav-上的文件？](https://www.v2ex.com/t/763586) 
 - [2021-03-21-迫于-zimuku-访问不了了，求你们私藏的字幕网站](https://www.v2ex.com/t/763585) 
 - [2021-03-21-实习-微软亚洲研究院-全球网络实时数据采集系统实习生](https://www.v2ex.com/t/763584) 
 - [2021-03-21-mac-升级-big-sur-后-tripmode-的-license-失效了](https://www.v2ex.com/t/763581) 
@@ -30,12 +37,6 @@
 - [2021-03-20-大家开始都是怎么熟悉开车的](https://www.v2ex.com/t/763551) 
 - [2021-03-20-macOS-上-Proxyman-六折](https://www.v2ex.com/t/763549) 
 - [2021-03-20-甜沫-Chain-一个聚合消息推送项目](https://www.v2ex.com/t/763548) 
-- [2021-03-20-watch-解锁-iPhone-似乎根本就不会校验人脸](https://www.v2ex.com/t/763546) 
-- [2021-03-20-iPhone-双卡短信问题，恼火！](https://www.v2ex.com/t/763545) 
-- [2021-03-20-ipadpro-更换电池](https://www.v2ex.com/t/763544) 
-- [2021-03-20-V2ex-有好用的-iOS-客户端推荐吗](https://www.v2ex.com/t/763542) 
-- [2021-03-20-求助选择工作地点！武汉-or-上海](https://www.v2ex.com/t/763539) 
-- [2021-03-20-现在入-xr-是不是过时了。](https://www.v2ex.com/t/763538) 
 - [2021-03-19-网安杂谈收藏夹2021.3.19](https://sec.thief.one/article_content?a_id=8ab6bc41c846623b4b37af344c434447) 
 - [2021-03-19-Netgear-R6400v2-堆溢出漏洞分析与利用](https://sec.thief.one/article_content?a_id=c58e8dc40d42cfe1b7b462b873ba4b10) 
 - [2021-03-18-这是我见过最秀的代码注释](https://sec.thief.one/article_content?a_id=0eac1a9ef3e3c64cf62c3f15fd7a84c7) 

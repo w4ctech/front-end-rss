@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 10:48:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 11:00:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -87,7 +87,6 @@
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-03-21-北京-快手直播团队核心业务急召-Java](https://www.v2ex.com/t/763697) 
-- [2021-03-21-关于总是怀疑-App-在后台利用麦克风实时偷听你说的话并推送广告这件事，刚看到“先看”的这期视频感觉“厉害”讲得比较透彻。](https://www.v2ex.com/t/763665) 
 - [2021-03-21-直播与-RTC-融合](https://toutiao.io/k/lexvyfc) 
 - [2021-03-18-【视频】|-Python:路径讲解相对和绝对](https://sec.thief.one/article_content?a_id=fb1b61447015a52ddb45d0e87ff04759) 
 - [2021-03-18-15万摄像头遭入侵,特斯拉上海仓库也中枪,只因管理员密码就发在网...](https://sec.thief.one/article_content?a_id=bf151bcc180b9729438fa4b39f6d93e5) 

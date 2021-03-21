@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 06:35:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 06:45:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,4 +40,3 @@
 - [2021-03-21-写了个基于-Github-的图片管理](https://www.v2ex.com/t/763590) 
 - [2021-03-21-灵均投资-博士招聘：量化研究员（统计/优化）-北京/上海](https://www.v2ex.com/t/763589) 
 - [2021-03-21-关于-checkpoint-的疑问](https://www.v2ex.com/t/763588) 
-- [2021-03-21-内推-NVIDIA-上海招-Test-developer-若干名](https://www.v2ex.com/t/763587) 

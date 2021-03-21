@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-03-21 04:51:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 05:02:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-21-不订阅-apple-music-用-HomePod](https://www.v2ex.com/t/763628) 
+- [2021-03-21-码农摸鱼群](https://www.v2ex.com/t/763627) 
 - [2021-03-21-求教-Qnap-想用-OSS-做冷备，如何加密做增量存储？](https://www.v2ex.com/t/763626) 
 - [2021-03-21-精品网现在屏蔽微软了嘛？-edge-和-store-都不能登录？这毛精品网有个屁用？](https://www.v2ex.com/t/763625) 
 - [2021-03-21-关于-Hadoop3-的-HADOOP_MAPRED_HOME](https://www.v2ex.com/t/763624) 
@@ -42,4 +44,3 @@
 - [2021-03-21-mac-升级-big-sur-后-tripmode-的-license-失效了](https://www.v2ex.com/t/763581) 
 - [2021-03-21-求推荐升降台（不是升降桌）](https://www.v2ex.com/t/763580) 
 - [2021-03-21-IINA-的颜色这是如何？这个我不太懂，颜色似乎跟我预期的有点不太一样，请教，谢谢，有没有什么方法搞一搞？](https://www.v2ex.com/t/763579) 
-- [2021-03-21-怎么永久在-terminal-中用-Touch-ID-授权-sudo？](https://www.v2ex.com/t/763577) 

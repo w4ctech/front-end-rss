@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-21 04:51:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 05:02:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -412,7 +412,6 @@
 - [【V2EX】有人做过-quic-的性能测试实验吗？？](https://www.v2ex.com/t/763594)
 - [【V2EX】灵均投资-博士招聘：量化研究员（统计/优化）-北京/上海](https://www.v2ex.com/t/763589)
 - [【开发者头条】一款高性能-PHP-后端框架](https://toutiao.io/k/24ggnha)
-- [【开发者头条】推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

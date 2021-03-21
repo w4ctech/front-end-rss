@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-21 15:56:20，:rocket: 更新条数: +4167， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-21 16:06:23，:rocket: 更新条数: +4156， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,10 +1016,10 @@
 </summary>
 
 
+- [2021-03-21-想报一个计算机视觉基础的学习课程，但是感觉有点贵，有一起的么，最多不超过-5-个人](https://www.v2ex.com/t/763775) ![](assets/new.png)  
 - [2021-03-21-有多少人买了-Apple-Pencil-第二代？](https://www.v2ex.com/t/763774) ![](assets/new.png)  
 - [2021-03-21-各位都用的什么在线音乐播放器](https://www.v2ex.com/t/763773) ![](assets/new.png)  
 - [2021-03-21-想要做一个-Node.js-的-String-Based-的模板引擎需要学什么](https://www.v2ex.com/t/763771) ![](assets/new.png)  
-- [2021-03-21-诸君周末都在干啥](https://www.v2ex.com/t/763770) ![](assets/new.png)  
 - [2021-03-21-有好用的-TODOList-及相关的-API-吗](https://www.v2ex.com/t/763768) ![](assets/new.png)  
 - [2021-03-21-求助-k8s-v1.13.9-kubelet.crt-证书问题](https://www.v2ex.com/t/763766) ![](assets/new.png)  
 - [2021-03-21-Big-Sur-bug?](https://www.v2ex.com/t/763765) ![](assets/new.png)  
@@ -1078,26 +1078,21 @@
 </summary>
 
 
-- [2021-03-21-直播与-RTC-融合](https://toutiao.io/k/lexvyfc) ![](assets/new.png)  
-- [2021-03-21-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
-- [2021-03-21-Kubelet-从入门到放弃系列：GPU-加持](https://toutiao.io/k/ynak46f) ![](assets/new.png)  
-- [2021-03-21-一个惊人快速的终端录像工具，也能录制-VSCode-和-Chrome-窗口](https://toutiao.io/k/7wxzuz6) ![](assets/new.png)  
-- [2021-03-21-聊聊项目打包发布到-maven-私仓常见的几种方式](https://toutiao.io/k/7sexyoc) ![](assets/new.png)  
-- [2021-03-21-JDK-16-正式发布，新特性实践尝鲜来啦](https://toutiao.io/k/98az6to) ![](assets/new.png)  
-- [2021-03-21-闲鱼如何高效打造一个多业务、低侵入的搜索链路](https://toutiao.io/k/w1jqhwj) ![](assets/new.png)  
-- [2021-03-21-JavaScript-的数据类型](https://toutiao.io/k/6n6xsdc) ![](assets/new.png)  
-- [2021-03-21-如何更容易记忆：JavaScript-类型与类型判断](https://toutiao.io/k/1e6mzlf) ![](assets/new.png)  
-- [2021-03-21-一款高性能-PHP-后端框架](https://toutiao.io/k/24ggnha) ![](assets/new.png)  
-- [2021-03-21-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
-- [2021-03-21-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
-- [2021-03-21-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
-- [2021-03-21-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
-- [2021-03-21-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
-- [2021-03-21-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
-- [2021-03-21-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
-- [2021-03-21-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
-- [2021-03-21-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
+- [2021-03-21-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
 - [2021-03-21-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) ![](assets/new.png)  
+- [2021-03-21-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-21-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
+- [2021-03-21-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
+- [2021-03-21-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
+- [2021-03-21-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
+- [2021-03-21-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
+- [2021-03-21-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
+- [2021-03-21-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) ![](assets/new.png)  
+- [2021-03-21-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) ![](assets/new.png)  
+- [2021-03-21-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
+- [2021-03-21-推荐-去哪里找-Java-练手项目？](https://toutiao.io/k/qh7wgrx) ![](assets/new.png)  
+- [2021-03-21-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
+- [2021-03-21-推荐-下一代微服务-Service-Mesh-原理及实践](https://toutiao.io/k/hxrinvv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

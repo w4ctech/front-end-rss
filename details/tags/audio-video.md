@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 07:31:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 07:39:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,6 +86,7 @@
 - [2021-03-12-字节跳动、美团、阿里等国内大公司的-200+-技术干货视频，任你选-|-活动推荐](https://www.ershicimi.com/p/2aff6bd68b5bffede3f84395069e1105) 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2021-03-21-看到火车上乘务员拿着支了一个摄像头的手机，好奇这个额外支的摄像头是做什么用的](https://www.v2ex.com/t/763661) 
 - [2021-03-21-iPad-Pro-上播放杜比视界电影效果最还原的本地视频播放器大家有推荐的嘛？](https://www.v2ex.com/t/763633) 
 - [2021-03-21-直播与-RTC-融合](https://toutiao.io/k/lexvyfc) 
 - [2021-03-18-【视频】|-Python:路径讲解相对和绝对](https://sec.thief.one/article_content?a_id=fb1b61447015a52ddb45d0e87ff04759) 

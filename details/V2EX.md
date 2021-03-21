@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-03-21 08:56:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 09:04:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-21-最新版支持苹果-M1-芯片的-Microsoft-Remote-Desktop-Beta-下载地址](https://www.v2ex.com/t/763673) 
 - [2021-03-21-在职投简历会不会被现任公司-HR-发现](https://www.v2ex.com/t/763672) 
 - [2021-03-21-机械师的笔记本咋样-谁用过](https://www.v2ex.com/t/763671) 
 - [2021-03-21-还有在用-10.5-Leopard-的吗？突然想起来我-n-年前装的黑苹果的欢迎动画，找不到原版了](https://www.v2ex.com/t/763669) 
@@ -39,6 +40,3 @@
 - [2021-03-21-不订阅-apple-music-用-HomePod](https://www.v2ex.com/t/763628) 
 - [2021-03-21-码农摸鱼群](https://www.v2ex.com/t/763627) 
 - [2021-03-21-求教-Qnap-想用-OSS-做冷备，如何加密做增量存储？](https://www.v2ex.com/t/763626) 
-- [2021-03-21-精品网现在屏蔽微软了嘛？-edge-和-store-都不能登录？这毛精品网有个屁用？](https://www.v2ex.com/t/763625) 
-- [2021-03-21-关于-Hadoop3-的-HADOOP_MAPRED_HOME](https://www.v2ex.com/t/763624) 
-- [2021-03-21-作为一名程序员，你计划什么年纪退休？](https://www.v2ex.com/t/763623) 

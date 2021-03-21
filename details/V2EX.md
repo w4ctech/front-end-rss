@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 11:35:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 11:45:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2021-03-21-关于-django-项目中-wsgi-文件的一点小疑问，有老哥能帮忙解答下吗？](https://www.v2ex.com/t/763679) 
 - [2021-03-21-手机输入你们更偏向-9-键-还是-26-键？](https://www.v2ex.com/t/763678) 
 - [2021-03-21-嵌套虚拟化需要进行-3-级地址转换吗？](https://www.v2ex.com/t/763677) 
-- [2021-03-21-最新版支持苹果-M1-芯片的-Microsoft-Remote-Desktop-Beta-下载地址](https://www.v2ex.com/t/763673) 

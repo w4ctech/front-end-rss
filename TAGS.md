@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-21 14:08:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 14:31:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -410,7 +410,6 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】SQL-Server-查询优化](https://www.v2ex.com/t/763721)
 - [【开发者头条】一款高性能-PHP-后端框架](https://toutiao.io/k/24ggnha)
-- [【开发者头条】推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -469,6 +468,7 @@
 - [【全栈前端精选】【全栈前端】学习打卡养成计划](https://www.ershicimi.com/p/71e28a140bb9ed2dca7cedbfe62f95ac)
 - [【V2EX】［求助］用罗技-Master-鼠标，屏幕弹大小写提示框](https://www.v2ex.com/t/763742)
 - [【开发者头条】Kubelet-从入门到放弃系列：GPU-加持](https://toutiao.io/k/ynak46f)
+- [【开发者头条】推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

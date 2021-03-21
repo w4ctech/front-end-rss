@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-21 14:08:53，:rocket: 更新条数: +4169， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-21 14:31:18，:rocket: 更新条数: +4166， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,13 +1016,14 @@
 </summary>
 
 
+- [2021-03-21-要不要加价买美行幻-15](https://www.v2ex.com/t/763763) ![](assets/new.png)  
+- [2021-03-21-请教一下，淘宝上面的-office-2019-for-mac-几块甚至十几块的什么渠道的？有风险么？](https://www.v2ex.com/t/763762) ![](assets/new.png)  
+- [2021-03-21-上海/北京/杭州社招/校招/实习抖音电商救救孩子后端开发工程师](https://www.v2ex.com/t/763761) ![](assets/new.png)  
+- [2021-03-21-上海求后端-Java-开发工程师-测试-产品经理](https://www.v2ex.com/t/763760) ![](assets/new.png)  
 - [2021-03-21-如何方便地将字符串转换为字节流？](https://www.v2ex.com/t/763756) ![](assets/new.png)  
-- [2021-03-21-20-届本科毕业生，-Java-后端求内推，实习加工作有一年半左右了，今天准备投简历想换个公司了](https://www.v2ex.com/t/763755) ![](assets/new.png)  
 - [2021-03-21-使用-v-for-动态渲染表单无效-?](https://www.v2ex.com/t/763754) ![](assets/new.png)  
-- [2021-03-21-Minio-mc-client-macos-zsh-没办-auto-complete-有什么办法解决吗？](https://www.v2ex.com/t/763753) ![](assets/new.png)  
-- [2021-03-21-限制年龄|需杠移动湖北移动：-38-元-10GB-限速-3Mbps-不限量仅-2021.04.01-前有效](https://www.v2ex.com/t/763752) ![](assets/new.png)  
+- [2021-03-21-Minio-mc-client-macos-zsh-没法-auto-complete-有什么办法解决吗？](https://www.v2ex.com/t/763753) ![](assets/new.png)  
 - [2021-03-21-小米手机使用谷歌日历，桌面插件时不时白屏](https://www.v2ex.com/t/763751) ![](assets/new.png)  
-- [2021-03-21-各位有关注-Intel-最新代言人的话题么~](https://www.v2ex.com/t/763750) ![](assets/new.png)  
 - [2021-03-21-有大佬内推吗？实习到正式工作一年半左右了，-Java-后端，-20-届本科毕业生，今天开始投简历想换个环境了](https://www.v2ex.com/t/763746) ![](assets/new.png)  
 - [2021-03-21-MacBookAir-m1-到手第一天感想：续航真的强](https://www.v2ex.com/t/763745) ![](assets/new.png)  
 - [2021-03-21-国内哪家的-UI-和应用商店能完美支持-Android-App-Bundle-的](https://www.v2ex.com/t/763744) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-03-21-怎样把一堆图片制作成一个字体](https://www.v2ex.com/t/763735) ![](assets/new.png)  
 - [2021-03-21-boss-上打招呼是系统自动生成的吗？感觉-hr-打招呼根本不考虑我的项目经历是否合适？](https://www.v2ex.com/t/763734) ![](assets/new.png)  
 - [2021-03-21-三里屯-SOHO-租房建议，-30-分钟骑行](https://www.v2ex.com/t/763733) ![](assets/new.png)  
-- [2021-03-21-数据方向大佬请留步，有一事请教~](https://www.v2ex.com/t/763731) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-03-21-JavaScript-的数据类型](https://toutiao.io/k/6n6xsdc) ![](assets/new.png)  
 - [2021-03-21-如何更容易记忆：JavaScript-类型与类型判断](https://toutiao.io/k/1e6mzlf) ![](assets/new.png)  
 - [2021-03-21-一款高性能-PHP-后端框架](https://toutiao.io/k/24ggnha) ![](assets/new.png)  
-- [2021-03-21-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
-- [2021-03-21-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
-- [2021-03-21-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
-- [2021-03-21-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
-- [2021-03-21-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
-- [2021-03-21-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
-- [2021-03-21-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
-- [2021-03-21-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
 - [2021-03-21-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) ![](assets/new.png)  
-- [2021-03-21-推荐-有赞-BI-平台设计及实现](https://toutiao.io/k/a595tmo) ![](assets/new.png)  
+- [2021-03-21-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
+- [2021-03-21-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
+- [2021-03-21-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
+- [2021-03-21-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
+- [2021-03-21-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
+- [2021-03-21-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-21-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
+- [2021-03-21-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
+- [2021-03-21-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

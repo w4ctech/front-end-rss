@@ -5,6 +5,11 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "最新疫情：全国新冠累计确诊90099例 无新增本土病例",
+        "link": "https://m.caixin.com/m/2021-03-21/101678250.html",
+        "date": "2021-03-21"
+      },
+      {
         "title": "最新海外疫情：新冠感染超1.22亿 累计死亡超270万",
         "link": "https://m.caixin.com/m/2021-03-21/101678247.html",
         "date": "2021-03-21"
@@ -20096,6 +20101,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "mackintosh 有没有 横屏变成竖屏之后 自动换壁纸的软件",
+        "link": "https://www.v2ex.com/t/763696",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "Google play 哪个钱包应用里有京津冀联合公交卡？",
+        "link": "https://www.v2ex.com/t/763695",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "酷瓜云课堂（腾讯云版）v1.2.9 发布，开源在线教育解决方案",
+        "link": "https://www.v2ex.com/t/763694",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "你买了哪些东西后觉得提高了自己的幸福感？",
+        "link": "https://www.v2ex.com/t/763693",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "acfun 的网页版怎么做到的自动播放",
+        "link": "https://www.v2ex.com/t/763692",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[社招] [百度智能云] 大数据平台 hadoop/spark/flink 研发工程师",
+        "link": "https://www.v2ex.com/t/763691",
+        "date": "2021-03-21"
+      },
+      {
         "title": "NutsDB v0.6.0 发布~",
         "link": "https://www.v2ex.com/t/763690",
         "date": "2021-03-21"
@@ -20258,36 +20293,6 @@
       {
         "title": "远程 pc 的故障检测，诊断和记录",
         "link": "https://www.v2ex.com/t/763647",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "各位，来晒晒你的 Desk Setup 呢，我先抛砖引玉！",
-        "link": "https://www.v2ex.com/t/763646",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "淘宝杀青?",
-        "link": "https://www.v2ex.com/t/763645",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "有没有 chrome 和 Edge 的书签对比（同步）器",
-        "link": "https://www.v2ex.com/t/763644",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "求助一下 bilibili 要怎么按顺序播放影片？",
-        "link": "https://www.v2ex.com/t/763643",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "球一个性价比高的 Thunderbolt3 转万兆的方案",
-        "link": "https://www.v2ex.com/t/763642",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "现在哪些手机可以微信通话录音？",
-        "link": "https://www.v2ex.com/t/763641",
         "date": "2021-03-21"
       }
     ]
@@ -20455,33 +20460,23 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] Redis 不是一直号称单线程效率也很高吗，为什么又采用多线程了？",
-        "link": "https://toutiao.io/k/vsxwjpf",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 你对天天挂在嘴边的高并发，怕是有什么误解吧？",
-        "link": "https://toutiao.io/k/xpyufe6",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
-        "link": "https://toutiao.io/k/yduqoev",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 从技术专家到技术管理，我对管理的思考",
-        "link": "https://toutiao.io/k/r5kgujp",
-        "date": "2021-03-21"
-      },
-      {
         "title": "[推荐] 21 大软件架构特点的全面解析",
         "link": "https://toutiao.io/k/2n0entj",
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] 面试被吊打：Redis 原理",
-        "link": "https://toutiao.io/k/pmxukkm",
+        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
+        "link": "https://toutiao.io/k/tgp1ua8",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] Redis 教程：Redis 知识体系详解",
+        "link": "https://toutiao.io/k/av396i0",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] Java 工程师核心书单，阿里大佬看了都说好",
+        "link": "https://toutiao.io/k/5apgnxp",
         "date": "2021-03-21"
       },
       {
@@ -20490,33 +20485,8 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] 去哪里找 Java 练手项目？",
-        "link": "https://toutiao.io/k/qh7wgrx",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 不懂什么是云原生？看完这篇文章就够了！",
-        "link": "https://toutiao.io/k/ghs0i7r",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 快手超大规模集群调度优化实践",
-        "link": "https://toutiao.io/k/671eano",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] TCP/IP 常见攻击手段",
-        "link": "https://toutiao.io/k/gqpcukq",
-        "date": "2021-03-21"
-      },
-      {
         "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
         "link": "https://toutiao.io/k/xuv7rlf",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] MySQL 读写分离，写完读不到问题如何解决",
-        "link": "https://toutiao.io/k/ga340bq",
         "date": "2021-03-21"
       },
       {
@@ -20525,8 +20495,43 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] Java 工程师核心书单，阿里大佬看了都说好",
-        "link": "https://toutiao.io/k/5apgnxp",
+        "title": "[推荐] MySQL 读写分离，写完读不到问题如何解决",
+        "link": "https://toutiao.io/k/ga340bq",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 快手超大规模集群调度优化实践",
+        "link": "https://toutiao.io/k/671eano",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
+        "link": "https://toutiao.io/k/yduqoev",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] [译] 新老手必备的 34 种 JavaScript 简写优化技术",
+        "link": "https://toutiao.io/k/jdslwhk",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 你对天天挂在嘴边的高并发，怕是有什么误解吧？",
+        "link": "https://toutiao.io/k/xpyufe6",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 带你深入理解 Java 内存模型理论",
+        "link": "https://toutiao.io/k/0ic2o68",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
+        "link": "https://toutiao.io/k/mzszqf0",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 职场：3 天准备 5 天面试，跳槽完成",
+        "link": "https://toutiao.io/k/1d2mnjh",
         "date": "2021-03-21"
       }
     ]

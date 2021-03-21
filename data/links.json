@@ -20091,6 +20091,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求教 Qnap 想用 OSS 做冷备，如何加密做增量存储？",
+        "link": "https://www.v2ex.com/t/763626",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "精品网现在屏蔽微软了嘛？ edge 和 store 都不能登录？这毛精品网有个屁用？",
+        "link": "https://www.v2ex.com/t/763625",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "关于 Hadoop3 的 HADOOP_MAPRED_HOME",
+        "link": "https://www.v2ex.com/t/763624",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "作为一名程序员，你计划什么年纪退休？",
+        "link": "https://www.v2ex.com/t/763623",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "帮给孩子起个名字吧",
+        "link": "https://www.v2ex.com/t/763621",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "公司私有仓库，没有设置权限认证，谁都可以 pull/push，现在想要加个权限设置， pull 不设限，禁止 push，或者需要认证才能 push，问下大佬们，有没有经验告知如...",
+        "link": "https://www.v2ex.com/t/763620",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "下了一些谷歌应用都用不了，该如何处理？",
+        "link": "https://www.v2ex.com/t/763619",
+        "date": "2021-03-21"
+      },
+      {
         "title": "请教一个动态赋值方法后传参异常的问题",
         "link": "https://www.v2ex.com/t/763618",
         "date": "2021-03-21"
@@ -20254,31 +20289,6 @@
         "title": "怎么永久在 terminal 中用 Touch ID 授权 sudo？",
         "link": "https://www.v2ex.com/t/763577",
         "date": "2021-03-21"
-      },
-      {
-        "title": "m1 macmini 问题请教",
-        "link": "https://www.v2ex.com/t/763576",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "Scrapy 使用 SOCKS5 代理的好方法是啥呢？",
-        "link": "https://www.v2ex.com/t/763575",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "狗东的 Airpods pro 换新，丢失了可以换吗...",
-        "link": "https://www.v2ex.com/t/763574",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "Hire: Portfolio Manager/Programmer-SH",
-        "link": "https://www.v2ex.com/t/763572",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "MuteMe, 一个指示/控制电脑静音/非静音的实体发光按钮",
-        "link": "https://www.v2ex.com/t/763569",
-        "date": "2021-03-21"
       }
     ]
   },
@@ -20405,13 +20415,13 @@
         "date": "2021-03-21"
       },
       {
-        "title": "一个惊人快速的终端录像工具，也能录制 VSCode 和 Chrome 窗口",
-        "link": "https://toutiao.io/k/7wxzuz6",
+        "title": "架构实践全景图",
+        "link": "https://toutiao.io/k/nu45i3g",
         "date": "2021-03-21"
       },
       {
-        "title": "架构实践全景图",
-        "link": "https://toutiao.io/k/nu45i3g",
+        "title": "一个惊人快速的终端录像工具，也能录制 VSCode 和 Chrome 窗口",
+        "link": "https://toutiao.io/k/7wxzuz6",
         "date": "2021-03-21"
       },
       {
@@ -20445,33 +20455,8 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] TCP/IP 常见攻击手段",
-        "link": "https://toutiao.io/k/gqpcukq",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 2021 有哪些不容错过的后端技术趋势",
-        "link": "https://toutiao.io/k/e3lq37o",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
-        "link": "https://toutiao.io/k/tgp1ua8",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
-        "link": "https://toutiao.io/k/yduqoev",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
-        "link": "https://toutiao.io/k/mzszqf0",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 21 大软件架构特点的全面解析",
-        "link": "https://toutiao.io/k/2n0entj",
+        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
+        "link": "https://toutiao.io/k/xuv7rlf",
         "date": "2021-03-21"
       },
       {
@@ -20480,8 +20465,13 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] 面试被吊打：Redis 原理",
-        "link": "https://toutiao.io/k/pmxukkm",
+        "title": "[推荐] 职场：3 天准备 5 天面试，跳槽完成",
+        "link": "https://toutiao.io/k/1d2mnjh",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] [译] 新老手必备的 34 种 JavaScript 简写优化技术",
+        "link": "https://toutiao.io/k/jdslwhk",
         "date": "2021-03-21"
       },
       {
@@ -20490,8 +20480,13 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] 带你深入理解 Java 内存模型理论",
-        "link": "https://toutiao.io/k/0ic2o68",
+        "title": "[推荐] 21 大软件架构特点的全面解析",
+        "link": "https://toutiao.io/k/2n0entj",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 算法面试套路知多少",
+        "link": "https://toutiao.io/k/yl7s9sl",
         "date": "2021-03-21"
       },
       {
@@ -20500,13 +20495,23 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] Redis 教程：Redis 知识体系详解",
-        "link": "https://toutiao.io/k/av396i0",
+        "title": "[推荐] Java 工程师核心书单，阿里大佬看了都说好",
+        "link": "https://toutiao.io/k/5apgnxp",
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] 这几款 JVM 故障诊断处理工具你还不会？",
-        "link": "https://toutiao.io/k/dux0ogl",
+        "title": "[推荐] 快手超大规模集群调度优化实践",
+        "link": "https://toutiao.io/k/671eano",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 2021 有哪些不容错过的后端技术趋势",
+        "link": "https://toutiao.io/k/e3lq37o",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 从技术专家到技术管理，我对管理的思考",
+        "link": "https://toutiao.io/k/r5kgujp",
         "date": "2021-03-21"
       },
       {
@@ -20515,8 +20520,13 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] MySQL 读写分离，写完读不到问题如何解决",
-        "link": "https://toutiao.io/k/ga340bq",
+        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
+        "link": "https://toutiao.io/k/yduqoev",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] TCP/IP 常见攻击手段",
+        "link": "https://toutiao.io/k/gqpcukq",
         "date": "2021-03-21"
       }
     ]

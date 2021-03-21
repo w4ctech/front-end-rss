@@ -17160,6 +17160,16 @@
     "link": "https://www.ershicimi.com/a/10315",
     "items": [
       {
+        "title": "JS犀牛书 中文版 第7版强势回归！",
+        "link": "https://www.ershicimi.com/p/c2d6f988f227d24b85b1d88bb0a4cb49",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "京东跨端组件库 NutUI 2.0 来袭",
+        "link": "https://www.ershicimi.com/p/7f972e42cca84eb42fd3f8ed446e84fc",
+        "date": "2021-03-21"
+      },
+      {
         "title": "字节跳动最高频的100道考题解析",
         "link": "https://www.ershicimi.com/p/46bd9dd990030ee331d48136fd2ee444",
         "date": "2021-03-20"
@@ -17247,16 +17257,6 @@
       {
         "title": "程序员如果想要进阶年薪 50 万，需要掌握的能力是什么？",
         "link": "https://www.ershicimi.com/p/fd0b60eda30fb33a2f5ab9f5e4b65384",
-        "date": "2021-03-12"
-      },
-      {
-        "title": "尤雨溪：下一代前端构建工具 ViteJS 技术解读",
-        "link": "https://www.ershicimi.com/p/15a2e001ec3e1929aff93a2d014b1094",
-        "date": "2021-03-12"
-      },
-      {
-        "title": "30个编程领域的趣图",
-        "link": "https://www.ershicimi.com/p/a3c221297cf51d3713ab252d539c131e",
         "date": "2021-03-12"
       }
     ]
@@ -20101,6 +20101,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "还有在用 10.5 Leopard 的吗？突然想起来我 n 年前装的黑苹果的欢迎动画，找不到原版了",
+        "link": "https://www.v2ex.com/t/763669",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "想养一只狗，有几个问题，导致还在纠结",
+        "link": "https://www.v2ex.com/t/763667",
+        "date": "2021-03-21"
+      },
+      {
         "title": "关于总是怀疑 App 在后台利用麦克风实时偷听你说的话并推送广告这件事，刚看到“先看”的这期视频感觉“厉害”讲得比较透彻。",
         "link": "https://www.v2ex.com/t/763665",
         "date": "2021-03-21"
@@ -20269,11 +20279,6 @@
         "title": "公司私有仓库，没有设置权限认证，谁都可以 pull/push，现在想要加个权限设置， pull 不设限，禁止 push，或者需要认证才能 push，问下大佬们，有没有经验告知如...",
         "link": "https://www.v2ex.com/t/763620",
         "date": "2021-03-21"
-      },
-      {
-        "title": "请教一个动态赋值方法后传参异常的问题",
-        "link": "https://www.v2ex.com/t/763618",
-        "date": "2021-03-21"
       }
     ]
   },
@@ -20440,58 +20445,13 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] Java 工程师核心书单，阿里大佬看了都说好",
-        "link": "https://toutiao.io/k/5apgnxp",
+        "title": "[推荐] MySQL 读写分离，写完读不到问题如何解决",
+        "link": "https://toutiao.io/k/ga340bq",
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
-        "link": "https://toutiao.io/k/xuv7rlf",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 聊聊 IT 技术人的知识体系",
-        "link": "https://toutiao.io/k/vmimc5g",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 2021 有哪些不容错过的后端技术趋势",
-        "link": "https://toutiao.io/k/e3lq37o",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] Redis 不是一直号称单线程效率也很高吗，为什么又采用多线程了？",
-        "link": "https://toutiao.io/k/vsxwjpf",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] TCP/IP 常见攻击手段",
-        "link": "https://toutiao.io/k/gqpcukq",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] Redis 教程：Redis 知识体系详解",
-        "link": "https://toutiao.io/k/av396i0",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 算法面试套路知多少",
-        "link": "https://toutiao.io/k/yl7s9sl",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 21 大软件架构特点的全面解析",
-        "link": "https://toutiao.io/k/2n0entj",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 不懂什么是云原生？看完这篇文章就够了！",
-        "link": "https://toutiao.io/k/ghs0i7r",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 快手超大规模集群调度优化实践",
-        "link": "https://toutiao.io/k/671eano",
+        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
+        "link": "https://toutiao.io/k/mzszqf0",
         "date": "2021-03-21"
       },
       {
@@ -20500,8 +20460,53 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
-        "link": "https://toutiao.io/k/tgp1ua8",
+        "title": "[推荐] 聊聊 IT 技术人的知识体系",
+        "link": "https://toutiao.io/k/vmimc5g",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 算法面试套路知多少",
+        "link": "https://toutiao.io/k/yl7s9sl",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 这几款 JVM 故障诊断处理工具你还不会？",
+        "link": "https://toutiao.io/k/dux0ogl",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
+        "link": "https://toutiao.io/k/yduqoev",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 不懂什么是云原生？看完这篇文章就够了！",
+        "link": "https://toutiao.io/k/ghs0i7r",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 你对天天挂在嘴边的高并发，怕是有什么误解吧？",
+        "link": "https://toutiao.io/k/xpyufe6",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] Java 工程师核心书单，阿里大佬看了都说好",
+        "link": "https://toutiao.io/k/5apgnxp",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 面试被吊打：Redis 原理",
+        "link": "https://toutiao.io/k/pmxukkm",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 2021 有哪些不容错过的后端技术趋势",
+        "link": "https://toutiao.io/k/e3lq37o",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
+        "link": "https://toutiao.io/k/xuv7rlf",
         "date": "2021-03-21"
       },
       {
@@ -20510,8 +20515,8 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] 职场：3 天准备 5 天面试，跳槽完成",
-        "link": "https://toutiao.io/k/1d2mnjh",
+        "title": "[推荐] Redis 不是一直号称单线程效率也很高吗，为什么又采用多线程了？",
+        "link": "https://toutiao.io/k/vsxwjpf",
         "date": "2021-03-21"
       }
     ]

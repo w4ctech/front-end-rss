@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-21 08:09:40，:rocket: 更新条数: +4170， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-21 08:37:06，:rocket: 更新条数: +4171， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -120,6 +120,8 @@
 </summary>
 
 
+- [2021-03-21-JS犀牛书-中文版-第7版强势回归！](https://www.ershicimi.com/p/c2d6f988f227d24b85b1d88bb0a4cb49) ![](assets/new.png)  
+- [2021-03-21-京东跨端组件库-NutUI-2.0-来袭](https://www.ershicimi.com/p/7f972e42cca84eb42fd3f8ed446e84fc) ![](assets/new.png)  
 - [2021-03-20-字节跳动最高频的100道考题解析](https://www.ershicimi.com/p/46bd9dd990030ee331d48136fd2ee444) ![](assets/new.png)  
 - [2021-03-20-前端工程师必备的17个实用网站](https://www.ershicimi.com/p/f6b6ae8b15e9a9d566fa1c6d42ae6846) ![](assets/new.png)  
 - [2021-03-19-174道JavaScript-面试知识点总结（中）](https://www.ershicimi.com/p/d1fd1175099dac060a9ce3035abd783b) ![](assets/new.png)  
@@ -138,8 +140,6 @@
 - [2021-03-13-微信3.0来了，用电脑刷朋友圈是一种什么样的体验（内含内测版下载链接）](https://www.ershicimi.com/p/abfd68bf4be189dd7572c12df4b14a17) ![](assets/new.png)  
 - [2021-03-13-VS-Code-插件开发入门教程](https://www.ershicimi.com/p/a555e9030ffe442d8f74705af996f041) ![](assets/new.png)  
 - [2021-03-12-程序员如果想要进阶年薪-50-万，需要掌握的能力是什么？](https://www.ershicimi.com/p/fd0b60eda30fb33a2f5ab9f5e4b65384) ![](assets/new.png)  
-- [2021-03-12-尤雨溪：下一代前端构建工具-ViteJS-技术解读](https://www.ershicimi.com/p/15a2e001ec3e1929aff93a2d014b1094) ![](assets/new.png)  
-- [2021-03-12-30个编程领域的趣图](https://www.ershicimi.com/p/a3c221297cf51d3713ab252d539c131e) ![](assets/new.png)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-03-21-还有在用-10.5-Leopard-的吗？突然想起来我-n-年前装的黑苹果的欢迎动画，找不到原版了](https://www.v2ex.com/t/763669) ![](assets/new.png)  
+- [2021-03-21-想养一只狗，有几个问题，导致还在纠结](https://www.v2ex.com/t/763667) ![](assets/new.png)  
 - [2021-03-21-关于总是怀疑-App-在后台利用麦克风实时偷听你说的话并推送广告这件事，刚看到“先看”的这期视频感觉“厉害”讲得比较透彻。](https://www.v2ex.com/t/763665) ![](assets/new.png)  
 - [2021-03-21-快入职杭州顺网科技了，有老哥了解里面云计算部门的吗？有没有坑？求教。](https://www.v2ex.com/t/763664) ![](assets/new.png)  
 - [2021-03-21-除了华为云以外，还有哪个-DNS-解析提供免费国内省级运营商解析？](https://www.v2ex.com/t/763663) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-03-21-淘宝杀青?](https://www.v2ex.com/t/763645) ![](assets/new.png)  
 - [2021-03-21-有没有-chrome-和-Edge-的书签对比（同步）器](https://www.v2ex.com/t/763644) ![](assets/new.png)  
 - [2021-03-21-求助一下-bilibili-要怎么按顺序播放影片？](https://www.v2ex.com/t/763643) ![](assets/new.png)  
-- [2021-03-21-球一个性价比高的-Thunderbolt3-转万兆的方案](https://www.v2ex.com/t/763642) ![](assets/new.png)  
-- [2021-03-21-现在哪些手机可以微信通话录音？](https://www.v2ex.com/t/763641) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-03-21-如何更容易记忆：JavaScript-类型与类型判断](https://toutiao.io/k/1e6mzlf) ![](assets/new.png)  
 - [2021-03-21-闲鱼如何高效打造一个多业务、低侵入的搜索链路](https://toutiao.io/k/w1jqhwj) ![](assets/new.png)  
 - [2021-03-21-一款高性能-PHP-后端框架](https://toutiao.io/k/24ggnha) ![](assets/new.png)  
-- [2021-03-21-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
-- [2021-03-21-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
+- [2021-03-21-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
+- [2021-03-21-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
+- [2021-03-21-推荐-去哪里找-Java-练手项目？](https://toutiao.io/k/qh7wgrx) ![](assets/new.png)  
 - [2021-03-21-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
-- [2021-03-21-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
-- [2021-03-21-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
-- [2021-03-21-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
-- [2021-03-21-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
 - [2021-03-21-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
-- [2021-03-21-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
+- [2021-03-21-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
+- [2021-03-21-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
 - [2021-03-21-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-21-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
+- [2021-03-21-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

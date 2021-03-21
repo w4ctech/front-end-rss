@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 08:09:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 08:37:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -32,6 +32,8 @@
 - [2020-01-23-世卫组织：对是否宣布为“国际公共卫生紧急事件”存在分歧](https://m.caixin.com/m/2020-01-23/101507521.html) 
 - [2020-01-22-如何解读WHO“国际公共卫生紧急事件”](http://m.china.caixin.com/m/2020-01-22/101507340.html) 
 - [2020-01-22-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
+- [2021-03-21-JS犀牛书-中文版-第7版强势回归！](https://www.ershicimi.com/p/c2d6f988f227d24b85b1d88bb0a4cb49) 
+- [2021-03-21-京东跨端组件库-NutUI-2.0-来袭](https://www.ershicimi.com/p/7f972e42cca84eb42fd3f8ed446e84fc) 
 - [2021-03-19-174道JavaScript-面试知识点总结（中）](https://www.ershicimi.com/p/d1fd1175099dac060a9ce3035abd783b) 
 - [2021-03-18-174道JavaScript-面试知识点总结（上）](https://www.ershicimi.com/p/959c468c1e5273534815a5c4d49cbc36) 
 - [2021-03-17-开发中经常遇到的JavaScript问题整理（超实用）](https://www.ershicimi.com/p/5dae011bbc8e84b730d0b97ae84f1e0a) 

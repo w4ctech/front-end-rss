@@ -10,6 +10,11 @@
         "date": "2021-03-21"
       },
       {
+        "title": "【境内疫情观察】全国新增12例境外输入病例（3月20日）",
+        "link": "http://m.database.caixin.com/m/2021-03-21/101678206.html",
+        "date": "2021-03-21"
+      },
+      {
         "title": "欧洲疫苗接种未达预期 俄罗斯成新冠死亡率最高国之一 | 大流行手记（3月20日）",
         "link": "https://m.caixin.com/m/2021-03-21/101678163.html",
         "date": "2021-03-21"
@@ -17909,6 +17914,11 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "入职腾讯第九年，我辞职了!!!",
+        "link": "https://www.ershicimi.com/p/5e45e1e9baf0af0c99d7cae57e2f16b5",
+        "date": "2021-03-20"
+      },
+      {
         "title": "今年薪资普涨还有可能吗？说说我的看法",
         "link": "https://www.ershicimi.com/p/eccf793491ccab51fa69d04ce1e7b9d8",
         "date": "2021-03-19"
@@ -18002,11 +18012,6 @@
         "title": "为什么总有人说：“前端饱和了”、“前端不好找工作”？",
         "link": "https://www.ershicimi.com/p/03f9841a6f2d01d4255f71e4b71191e5",
         "date": "2021-03-04"
-      },
-      {
-        "title": "当今前端开发三大块，Node.js 覆盖一半以上？",
-        "link": "https://www.ershicimi.com/p/39bc50385b4422b5752dd2d206a9019c",
-        "date": "2021-03-03"
       }
     ],
     "link": "https://www.ershicimi.com/a/892"
@@ -20274,11 +20279,6 @@
         "title": "[内推] NVIDIA 上海招 Test developer 若干名",
         "link": "https://www.v2ex.com/t/763587",
         "date": "2021-03-21"
-      },
-      {
-        "title": "怎么用 Python 连接坚果云的 Webdav 上的文件？",
-        "link": "https://www.v2ex.com/t/763586",
-        "date": "2021-03-21"
       }
     ]
   },
@@ -20400,13 +20400,13 @@
         "date": "2021-03-21"
       },
       {
-        "title": "Kubelet 从入门到放弃系列：GPU 加持",
-        "link": "https://toutiao.io/k/ynak46f",
+        "title": "架构实践全景图",
+        "link": "https://toutiao.io/k/nu45i3g",
         "date": "2021-03-21"
       },
       {
-        "title": "架构实践全景图",
-        "link": "https://toutiao.io/k/nu45i3g",
+        "title": "Kubelet 从入门到放弃系列：GPU 加持",
+        "link": "https://toutiao.io/k/ynak46f",
         "date": "2021-03-21"
       },
       {
@@ -20450,43 +20450,18 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] [译] 新老手必备的 34 种 JavaScript 简写优化技术",
-        "link": "https://toutiao.io/k/jdslwhk",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
-        "link": "https://toutiao.io/k/mzszqf0",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] Redis 教程：Redis 知识体系详解",
-        "link": "https://toutiao.io/k/av396i0",
-        "date": "2021-03-21"
-      },
-      {
         "title": "[推荐] 有赞 BI 平台设计及实现",
         "link": "https://toutiao.io/k/a595tmo",
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] 职场：3 天准备 5 天面试，跳槽完成",
-        "link": "https://toutiao.io/k/1d2mnjh",
+        "title": "[推荐] 从技术专家到技术管理，我对管理的思考",
+        "link": "https://toutiao.io/k/r5kgujp",
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] 算法面试套路知多少",
-        "link": "https://toutiao.io/k/yl7s9sl",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] Java 工程师核心书单，阿里大佬看了都说好",
-        "link": "https://toutiao.io/k/5apgnxp",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] MySQL 读写分离，写完读不到问题如何解决",
-        "link": "https://toutiao.io/k/ga340bq",
+        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
+        "link": "https://toutiao.io/k/yduqoev",
         "date": "2021-03-21"
       },
       {
@@ -20495,18 +20470,8 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
-        "link": "https://toutiao.io/k/xuv7rlf",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 聊聊 IT 技术人的知识体系",
-        "link": "https://toutiao.io/k/vmimc5g",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 你对天天挂在嘴边的高并发，怕是有什么误解吧？",
-        "link": "https://toutiao.io/k/xpyufe6",
+        "title": "[推荐] MySQL 读写分离，写完读不到问题如何解决",
+        "link": "https://toutiao.io/k/ga340bq",
         "date": "2021-03-21"
       },
       {
@@ -20515,8 +20480,43 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] 面试被吊打：Redis 原理",
-        "link": "https://toutiao.io/k/pmxukkm",
+        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
+        "link": "https://toutiao.io/k/tgp1ua8",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 去哪里找 Java 练手项目？",
+        "link": "https://toutiao.io/k/qh7wgrx",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
+        "link": "https://toutiao.io/k/mzszqf0",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 不懂什么是云原生？看完这篇文章就够了！",
+        "link": "https://toutiao.io/k/ghs0i7r",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 算法面试套路知多少",
+        "link": "https://toutiao.io/k/yl7s9sl",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 聊聊 IT 技术人的知识体系",
+        "link": "https://toutiao.io/k/vmimc5g",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 带你深入理解 Java 内存模型理论",
+        "link": "https://toutiao.io/k/0ic2o68",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 你对天天挂在嘴边的高并发，怕是有什么误解吧？",
+        "link": "https://toutiao.io/k/xpyufe6",
         "date": "2021-03-21"
       }
     ]

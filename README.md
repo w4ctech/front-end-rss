@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-21 06:57:47，:rocket: 更新条数: +4168， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-21 07:07:41，:rocket: 更新条数: +4167， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,11 @@
 </summary>
 
 
+- [2021-03-21-当年的野生程序员，现在回来询问情感问题了，是否需要为了妹子换定居地！](https://www.v2ex.com/t/763652) ![](assets/new.png)  
+- [2021-03-21-对现在区块链技术的吐槽。](https://www.v2ex.com/t/763649) ![](assets/new.png)  
+- [2021-03-21-有娃的家长，是如何管理手机里海量的照片的？](https://www.v2ex.com/t/763648) ![](assets/new.png)  
+- [2021-03-21-远程-pc-的故障检测，诊断和记录](https://www.v2ex.com/t/763647) ![](assets/new.png)  
+- [2021-03-21-各位，来晒晒你的-Desk-Setup-呢，我先抛砖引玉！](https://www.v2ex.com/t/763646) ![](assets/new.png)  
 - [2021-03-21-淘宝杀青?](https://www.v2ex.com/t/763645) ![](assets/new.png)  
 - [2021-03-21-有没有-chrome-和-Edge-的书签对比（同步）器](https://www.v2ex.com/t/763644) ![](assets/new.png)  
 - [2021-03-21-求助一下-bilibili-要怎么按顺序播放影片？](https://www.v2ex.com/t/763643) ![](assets/new.png)  
@@ -1031,11 +1036,6 @@
 - [2021-03-21-不订阅-apple-music-用-HomePod](https://www.v2ex.com/t/763628) ![](assets/new.png)  
 - [2021-03-21-码农摸鱼群](https://www.v2ex.com/t/763627) ![](assets/new.png)  
 - [2021-03-21-求教-Qnap-想用-OSS-做冷备，如何加密做增量存储？](https://www.v2ex.com/t/763626) ![](assets/new.png)  
-- [2021-03-21-精品网现在屏蔽微软了嘛？-edge-和-store-都不能登录？这毛精品网有个屁用？](https://www.v2ex.com/t/763625) ![](assets/new.png)  
-- [2021-03-21-关于-Hadoop3-的-HADOOP_MAPRED_HOME](https://www.v2ex.com/t/763624) ![](assets/new.png)  
-- [2021-03-21-作为一名程序员，你计划什么年纪退休？](https://www.v2ex.com/t/763623) ![](assets/new.png)  
-- [2021-03-21-公司私有仓库，没有设置权限认证，谁都可以-pull/push，现在想要加个权限设置，-pull-不设限，禁止-push，或者需要认证才能-push，问下大佬们，有没有经验告知如...](https://www.v2ex.com/t/763620) ![](assets/new.png)  
-- [2021-03-21-请教一个动态赋值方法后传参异常的问题](https://www.v2ex.com/t/763618) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-03-21-如何更容易记忆：JavaScript-类型与类型判断](https://toutiao.io/k/1e6mzlf) ![](assets/new.png)  
 - [2021-03-21-闲鱼如何高效打造一个多业务、低侵入的搜索链路](https://toutiao.io/k/w1jqhwj) ![](assets/new.png)  
 - [2021-03-21-一款高性能-PHP-后端框架](https://toutiao.io/k/24ggnha) ![](assets/new.png)  
-- [2021-03-21-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
 - [2021-03-21-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
-- [2021-03-21-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) ![](assets/new.png)  
-- [2021-03-21-推荐-去哪里找-Java-练手项目？](https://toutiao.io/k/qh7wgrx) ![](assets/new.png)  
-- [2021-03-21-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
-- [2021-03-21-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
-- [2021-03-21-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
 - [2021-03-21-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
-- [2021-03-21-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) ![](assets/new.png)  
-- [2021-03-21-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
+- [2021-03-21-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
+- [2021-03-21-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
+- [2021-03-21-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
+- [2021-03-21-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
+- [2021-03-21-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
+- [2021-03-21-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-21-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
+- [2021-03-21-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

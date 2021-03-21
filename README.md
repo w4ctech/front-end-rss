@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-21 15:34:08，:rocket: 更新条数: +4166， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-21 15:43:48，:rocket: 更新条数: +4166， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -839,6 +839,14 @@
 </summary>
 
 
+- [2021-03-21-纵观20年间程序员薪酬变化：涨幅下降，初级编码岗大幅消失](https://www.ershicimi.com/p/28275b65c8b6bc6df87085266b033d53) ![](assets/new.png)  
+- [2021-03-21-Angular、React-和-Vue-三大框架，Web-开发该如何选择？](https://www.ershicimi.com/p/70f5f659cbe2e267a9e9c71e98e8cd95) ![](assets/new.png)  
+- [2021-03-21-Linux-操作系统太难？先爬过这-6-个陡坡-｜-极客时间](https://www.ershicimi.com/p/93bb64f9cca48ad77411c901c5b084a7) ![](assets/new.png)  
+- [2021-03-21-架构转型之痛：开发运维割裂，云原生也不是万金油](https://www.ershicimi.com/p/8e66ef812e01acb41e7b01a1da7ab49f) ![](assets/new.png)  
+- [2021-03-20-腾讯技术Leader人均写3万行代码；拼多多超越阿里成为第一；360搜索、UC浏览器因虚假医药广告被](https://www.ershicimi.com/p/e41ed4c960e68a7d98a58e8b70ff9896) ![](assets/new.png)  
+- [2021-03-20-迈向Flutter深水区：美团外卖Web-App一体化架构实践](https://www.ershicimi.com/p/5e81692bce3e1a330cbc7011b6418a58) ![](assets/new.png)  
+- [2021-03-20-2020年Go开发者调查：支持泛型仍是核心需求](https://www.ershicimi.com/p/6d921a2f72a9c63c58602a8372bab0c8) ![](assets/new.png)  
+- [2021-03-20-内容系统服务的三个架构原则和操作范式](https://www.ershicimi.com/p/82b307bdd5cf14faae07ac6d5759a346) ![](assets/new.png)  
 - [2021-03-19-缓存踩踏：Facebook-史上最严重的宕机事件分析](https://www.ershicimi.com/p/3bb2c480b34e82ddaa402456af5d8d2e) ![](assets/new.png)  
 - [2021-03-19-网易严选数据湖建设实践](https://www.ershicimi.com/p/1a2876d5d8792c2bb9d20b6961c91428) ![](assets/new.png)  
 - [2021-03-19-快手：如何又快又好的做一个高耦合App](https://www.ershicimi.com/p/4d72f49481f589da6bb77dfaec522be1) ![](assets/new.png)  
@@ -851,14 +859,6 @@
 - [2021-03-18-推荐一些热门的DevOps工具](https://www.ershicimi.com/p/0f1390eb200fb554f9fa33c89ba07a3b) ![](assets/new.png)  
 - [2021-03-17-对话中国移动：支撑数亿用户的基础设施如何实施云原生改造？](https://www.ershicimi.com/p/d76efb76064f5cd31f945e558a006a2b) ![](assets/new.png)  
 - [2021-03-17-这个-Redis-问题画像，干掉了一摞简历-｜-极客时间](https://www.ershicimi.com/p/cd4dd3aa5cd759560b635c64d3c0cf23) ![](assets/new.png)  
-- [2021-03-17-一次几乎不可能的数据库迁移](https://www.ershicimi.com/p/e2859c6b6a3a6f5152169e19cd8347eb) ![](assets/new.png)  
-- [2021-03-17-架构师成功沟通的三个关键](https://www.ershicimi.com/p/275f747a7db460a814e2702cfc6e162d) ![](assets/new.png)  
-- [2021-03-17-Docker-起死回生了](https://www.ershicimi.com/p/7539772073077c09281d3b8581ff39d1) ![](assets/new.png)  
-- [2021-03-16-毕业-2-年成为首席架构师，他是怎么做到的？-｜-极客时间](https://www.ershicimi.com/p/b14642173c3fa31eb8f1aa8a982557ea) ![](assets/new.png)  
-- [2021-03-16-盘点世界上最奇怪的6种编程语言](https://www.ershicimi.com/p/f38878264bd92242c77228d5e6ec1d69) ![](assets/new.png)  
-- [2021-03-16-低代码开发，老树开新芽？](https://www.ershicimi.com/p/ebd68ac4b986983c6704522a8454be41) ![](assets/new.png)  
-- [2021-03-16-基础架构即代码是什么意思？](https://www.ershicimi.com/p/c6dbeda18754edbbd7cce0ce72908e9c) ![](assets/new.png)  
-- [2021-03-16-要改掉的10种TypeScript-坏习惯](https://www.ershicimi.com/p/e08ff5d1d685d8029013e49c1c028e2d) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,6 +1047,10 @@
 </summary>
 
 
+- [2021-03-21-原生-Android-集成-React-Native-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14239&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZHAIq6gKvzQbLrceCNA7gQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-21-腾讯开源：Kotlin-高性能特效动画组件！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14238&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHcELeclN2NIGl6Teock1eQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-21-Android-12-有哪些新功能？开发人员测试版本即将发布-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14237&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCHtBFgfWZpVPdHXbn02Blg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-03-21-从代码上看鸿蒙-APP-与安卓-APP-的关系-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14236&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTk2oA4vpNXvEMg8_FWnMEA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-21-这-14-款-APP，违法，违规！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14235&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpJjbH5eWOC1wQQFoKd6U1A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-21-微软：杀死那个曾经全球第一的浏览器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14234&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyJ6BOZehN_OsANr2yuBykw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-21-21-张图揭秘在阿里、腾讯、美团工作的区别-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14233&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLcvGQRUPqt9rvTxfSzUYfA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1063,10 +1067,6 @@
 - [2021-03-21-Android-Verified-Boot-概述-www.xiezeyang.com](https://blogread.cn/news/go.php?idItem=14222&url=https%3A%2F%2Fwww.xiezeyang.com%2F2019%2F10%2F20%2FSecurity%2FAndroidVerifiedBoot%25E6%25A6%2582%25E8%25BF%25B0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-21-浅析安全启动（Secure-Boot-bbs.pediy.com](https://blogread.cn/news/go.php?idItem=14221&url=https%3A%2F%2Fbbs.pediy.com%2Fthread-260399.htm%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-21-浅谈-Android-的安全启动和完整性保护-evilpan.com](https://blogread.cn/news/go.php?idItem=14220&url=https%3A%2F%2Fevilpan.com%2F2020%2F11%2F14%2Fandroid-secure-boot%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-21-黑产在IP攻防上的挣扎与进化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14219&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FljhNo8RckOt70-3H5j_6pQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-21-基于用户画像大数据的电商防刷架构-www.iyunying.org](https://blogread.cn/news/go.php?idItem=14218&url=https%3A%2F%2Fwww.iyunying.org%2Fseo%2Fdataanalysis%2F31400.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-21-软件测试人员该何去何从？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14217&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-qa-capability%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-21-延时！保新！2-年续期证书来啦~-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14216&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F357791609%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-03-21-JavaScript-的数据类型](https://toutiao.io/k/6n6xsdc) ![](assets/new.png)  
 - [2021-03-21-如何更容易记忆：JavaScript-类型与类型判断](https://toutiao.io/k/1e6mzlf) ![](assets/new.png)  
 - [2021-03-21-一款高性能-PHP-后端框架](https://toutiao.io/k/24ggnha) ![](assets/new.png)  
-- [2021-03-21-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
-- [2021-03-21-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
-- [2021-03-21-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
-- [2021-03-21-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) ![](assets/new.png)  
-- [2021-03-21-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
-- [2021-03-21-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
+- [2021-03-21-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
 - [2021-03-21-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
 - [2021-03-21-推荐-有赞-BI-平台设计及实现](https://toutiao.io/k/a595tmo) ![](assets/new.png)  
-- [2021-03-21-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
-- [2021-03-21-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
+- [2021-03-21-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
+- [2021-03-21-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
+- [2021-03-21-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) ![](assets/new.png)  
+- [2021-03-21-推荐-去哪里找-Java-练手项目？](https://toutiao.io/k/qh7wgrx) ![](assets/new.png)  
+- [2021-03-21-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
+- [2021-03-21-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
+- [2021-03-21-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

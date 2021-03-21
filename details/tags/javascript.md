@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 08:37:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 08:46:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -102,4 +102,5 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-03-21-JavaScript-的数据类型](https://toutiao.io/k/6n6xsdc) 
 - [2021-03-21-如何更容易记忆：JavaScript-类型与类型判断](https://toutiao.io/k/1e6mzlf) 
+- [2021-03-21-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) 
 - [2021-03-17-Apache-Solr-组件安全概览](https://sec.thief.one/article_content?a_id=d423fef990ddc35a22452dbf4db35f07) 

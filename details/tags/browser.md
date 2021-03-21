@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 23:04:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 23:08:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,6 +41,13 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-17-深层清洁好？药妆更安全？千万别再信这些护肤「伪概念」了](https://www.ershicimi.com/p/b8a32b59d11af2c981e993849a564ecd) 
 - [2021-03-21-Minio-mc-client-macos-zsh-没法-auto-complete-有什么办法解决吗？](https://www.v2ex.com/t/763753) 
+- [2021-03-21-微软：杀死那个曾经全球第一的浏览器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14234&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyJ6BOZehN_OsANr2yuBykw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-硬件安全：ARM体系架构的安全特性演进-www.secrss.com](https://blogread.cn/news/go.php?idItem=14225&url=https%3A%2F%2Fwww.secrss.com%2Farticles%2F9812%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-MTK平台Android-安全中secure-boot机制-blog.csdn.net](https://blogread.cn/news/go.php?idItem=14224&url=https%3A%2F%2Fblog.csdn.net%2Fqq_43805880%2Farticle%2Fdetails%2F108062898%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-UEFI安全启动-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14223&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F25279889%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-Android-Verified-Boot-概述-www.xiezeyang.com](https://blogread.cn/news/go.php?idItem=14222&url=https%3A%2F%2Fwww.xiezeyang.com%2F2019%2F10%2F20%2FSecurity%2FAndroidVerifiedBoot%25E6%25A6%2582%25E8%25BF%25B0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-浅析安全启动（Secure-Boot-bbs.pediy.com](https://blogread.cn/news/go.php?idItem=14221&url=https%3A%2F%2Fbbs.pediy.com%2Fthread-260399.htm%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-浅谈-Android-的安全启动和完整性保护-evilpan.com](https://blogread.cn/news/go.php?idItem=14220&url=https%3A%2F%2Fevilpan.com%2F2020%2F11%2F14%2Fandroid-secure-boot%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-18-【安全头条】狩猎者变成猎物:WeLeakIofo的故事续集出现反转](https://sec.thief.one/article_content?a_id=9ef75d571f0efcea344d56638b65edce) 
 - [2021-03-18-阿里面试官问“说一下从-url-输入到返回请求的过程”的难度就是不一...](https://sec.thief.one/article_content?a_id=dbb71047cd302bf8c0584f1ee23c4de9) 
 - [2021-03-18-16美元就可以打包带走所有短信,你的手机号还安全吗?](https://sec.thief.one/article_content?a_id=a5132bfc3fc98f65d368b9359804cd4f) 

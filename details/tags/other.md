@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 23:04:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 23:08:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3054,6 +3054,8 @@
 - [2020-01-20-【图集】武汉每天76趟列车抵广州南-旅客少有戴口罩未见体温检测](http://m.photos.caixin.com/m/2020-01-20/101506484.html) 
 - [2020-01-16-日本公布一新型冠状病毒感染病例-患者去过武汉](http://m.china.caixin.com/m/2020-01-16/101506054.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://m.china.caixin.com/m/2020-01-11/101506220.html) 
+- [2021-03-21-全国｜新增确诊病例-12-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyM0XDK2V7zTt7cBCOlli210321&isfromapp=1) 
+- [2021-03-20-上海｜新增确诊病例-4-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTNPgLw1rZQH4lphyhNKf210321&isfromapp=1) 
 - [2021-03-20-字节跳动最高频的100道考题解析](https://www.ershicimi.com/p/46bd9dd990030ee331d48136fd2ee444) 
 - [2021-03-20-前端工程师必备的17个实用网站](https://www.ershicimi.com/p/f6b6ae8b15e9a9d566fa1c6d42ae6846) 
 - [2021-03-18-设计灵感：12-个注册登录页面设计](https://www.ershicimi.com/p/9a5c17c6255dde8aee91aeabd5b72db8) 
@@ -3322,6 +3324,16 @@
 - [2021-03-21-国内哪家的-UI-和应用商店能完美支持-Android-App-Bundle-的](https://www.v2ex.com/t/763744) 
 - [2021-03-21-有没有什么非纯技术性岗位，却又需要具备一定的技术背景，且有长远发展前景的？](https://www.v2ex.com/t/763740) 
 - [2021-03-21-微信语音通话这么普及,-为什么没有铃声或者彩铃卖?](https://www.v2ex.com/t/763739) 
+- [2021-03-21-Android-12-有哪些新功能？开发人员测试版本即将发布-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14237&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCHtBFgfWZpVPdHXbn02Blg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-从代码上看鸿蒙-APP-与安卓-APP-的关系-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14236&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTk2oA4vpNXvEMg8_FWnMEA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-这-14-款-APP，违法，违规！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14235&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpJjbH5eWOC1wQQFoKd6U1A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-21-张图揭秘在阿里、腾讯、美团工作的区别-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14233&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLcvGQRUPqt9rvTxfSzUYfA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-太牛了!-最细的-PyCharm-安装+破解详细使用指南-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14232&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIyE5eKX3K3nj1pFbhGyGLg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-优酷-iOS-插件化页面架构方法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14231&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaLSV4vMTK0jmKBh-2cWdNw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-这也行？iOS后台锁屏监听摇一摇-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14229&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRFA3wHg8-XZvQED3rPEqFA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-别到处借会员了，这里啥都有！高清全免费！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14228&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp9g0tuPk3Hknn_LN1YXc6g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-腾讯的这个框架火了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14227&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fxw0XIKyBGwv-FFDHyhAvFw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-21-中国互联网20年简史（1998-2018）：其中的规律与本质是什么？-www.cniteyes.com](https://blogread.cn/news/go.php?idItem=14226&url=http%3A%2F%2Fwww.cniteyes.com%2Farchives%2F33211%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-21-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) 
 - [2021-03-21-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) 
 - [2021-03-21-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) 

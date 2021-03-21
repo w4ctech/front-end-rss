@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-21 03:27:45，:rocket: 更新条数: +4170， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-21 03:43:03，:rocket: 更新条数: +4172， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,11 +1016,13 @@
 </summary>
 
 
+- [2021-03-21-大家用百度地图有没有觉得很卡](https://www.v2ex.com/t/763610) ![](assets/new.png)  
+- [2021-03-21-请教：-win10-远程登录日志](https://www.v2ex.com/t/763609) ![](assets/new.png)  
+- [2021-03-21-为什么-iOS-上的-QQ-前台耗电量巨大](https://www.v2ex.com/t/763607) ![](assets/new.png)  
 - [2021-03-21-请教：-crontab-日志未报错但并未执行成功](https://www.v2ex.com/t/763603) ![](assets/new.png)  
 - [2021-03-21-Airbnb-内推-北京多个职位（Eng/DS/UX](https://www.v2ex.com/t/763602) ![](assets/new.png)  
 - [2021-03-21-OneDrive-的照片备份逻辑？](https://www.v2ex.com/t/763601) ![](assets/new.png)  
 - [2021-03-21-粉转黑-surface-Por（5-代）的维修经历](https://www.v2ex.com/t/763600) ![](assets/new.png)  
-- [2021-03-21-家里的移动宽带经常打不开-V2-怎么办？坐标茂名](https://www.v2ex.com/t/763599) ![](assets/new.png)  
 - [2021-03-21-如果对于用户输入的内容做白名单过滤，不允许符号，是不是就没有-SQL-注入的可能性了？](https://www.v2ex.com/t/763598) ![](assets/new.png)  
 - [2021-03-21-在-Linux-下使用-bash-命令更新-git-参考报错.](https://www.v2ex.com/t/763597) ![](assets/new.png)  
 - [2021-03-21-kindle-pw-现在二手大概多少钱?](https://www.v2ex.com/t/763596) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-03-21-关于-checkpoint-的疑问](https://www.v2ex.com/t/763588) ![](assets/new.png)  
 - [2021-03-21-内推-NVIDIA-上海招-Test-developer-若干名](https://www.v2ex.com/t/763587) ![](assets/new.png)  
 - [2021-03-21-怎么用-Python-连接坚果云的-Webdav-上的文件？](https://www.v2ex.com/t/763586) ![](assets/new.png)  
-- [2021-03-21-迫于-zimuku-访问不了了，求你们私藏的字幕网站](https://www.v2ex.com/t/763585) ![](assets/new.png)  
-- [2021-03-21-实习-微软亚洲研究院-全球网络实时数据采集系统实习生](https://www.v2ex.com/t/763584) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1081,23 +1081,23 @@
 - [2021-03-21-直播与-RTC-融合](https://toutiao.io/k/lexvyfc) ![](assets/new.png)  
 - [2021-03-21-Kubelet-从入门到放弃系列：GPU-加持](https://toutiao.io/k/ynak46f) ![](assets/new.png)  
 - [2021-03-21-一个惊人快速的终端录像工具，也能录制-VSCode-和-Chrome-窗口](https://toutiao.io/k/7wxzuz6) ![](assets/new.png)  
-- [2021-03-21-聊聊项目打包发布到-maven-私仓常见的几种方式](https://toutiao.io/k/7sexyoc) ![](assets/new.png)  
 - [2021-03-21-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
-- [2021-03-21-JavaScript-的数据类型](https://toutiao.io/k/6n6xsdc) ![](assets/new.png)  
+- [2021-03-21-聊聊项目打包发布到-maven-私仓常见的几种方式](https://toutiao.io/k/7sexyoc) ![](assets/new.png)  
 - [2021-03-21-JDK-16-正式发布，新特性实践尝鲜来啦](https://toutiao.io/k/98az6to) ![](assets/new.png)  
+- [2021-03-21-JavaScript-的数据类型](https://toutiao.io/k/6n6xsdc) ![](assets/new.png)  
 - [2021-03-21-如何更容易记忆：JavaScript-类型与类型判断](https://toutiao.io/k/1e6mzlf) ![](assets/new.png)  
 - [2021-03-21-一款高性能-PHP-后端框架](https://toutiao.io/k/24ggnha) ![](assets/new.png)  
 - [2021-03-21-闲鱼如何高效打造一个多业务、低侵入的搜索链路](https://toutiao.io/k/w1jqhwj) ![](assets/new.png)  
-- [2021-03-21-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
-- [2021-03-21-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
+- [2021-03-21-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
 - [2021-03-21-推荐-有赞-BI-平台设计及实现](https://toutiao.io/k/a595tmo) ![](assets/new.png)  
-- [2021-03-21-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
-- [2021-03-21-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
-- [2021-03-21-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
-- [2021-03-21-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
+- [2021-03-21-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
+- [2021-03-21-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
+- [2021-03-21-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
+- [2021-03-21-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
+- [2021-03-21-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) ![](assets/new.png)  
+- [2021-03-21-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
+- [2021-03-21-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
 - [2021-03-21-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
-- [2021-03-21-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
-- [2021-03-21-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

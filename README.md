@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-21 13:39:38，:rocket: 更新条数: +4167， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-21 13:51:26，:rocket: 更新条数: +4168， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-03-21-最新疫情：全国新冠累计确诊90099例-无新增本土病例](https://m.caixin.com/m/2021-03-21/101678250.html) ![](assets/new.png)  
+- [2021-03-21-新冠疫苗已接种7495.6万剂-中疾控回应西安病例保护失败缘由](https://m.caixin.com/m/2021-03-21/101678274.html) ![](assets/new.png)  
 - [2021-03-21-最新海外疫情：新冠感染超1.22亿-累计死亡超270万](https://m.caixin.com/m/2021-03-21/101678247.html) ![](assets/new.png)  
 - [2021-03-21-【境内疫情观察】全国新增12例境外输入病例（3月20日）](http://m.database.caixin.com/m/2021-03-21/101678206.html) ![](assets/new.png)  
 - [2021-03-21-欧洲疫苗接种未达预期-俄罗斯成新冠死亡率最高国之一-|-大流行手记（3月20日）](https://m.caixin.com/m/2021-03-21/101678163.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-03-17-【境内疫情观察】全国在院本土病例降至3例（3月16日）](http://m.database.caixin.com/m/2021-03-17/101676421.html) ![](assets/new.png)  
 - [2021-03-17-研究再证英变异病毒推高死亡率-意大利半数城市“封城”-|-大流行手记（3月16日）](https://m.caixin.com/m/2021-03-17/101676299.html) ![](assets/new.png)  
 - [2021-03-16-3月15日全国新增新冠13例-均由境外输入](https://m.caixin.com/m/2021-03-16/101675774.html) ![](assets/new.png)  
-- [2021-03-16-【境内疫情观察】四川新增6例境外输入病例（3月15日）](http://m.database.caixin.com/m/2021-03-16/101675892.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -870,6 +870,7 @@
 </summary>
 
 
+- [2021-03-21-Node.js-15.12.0-正式发布](https://www.ershicimi.com/p/1d2fa3fcba57fac3544a88b1aeadb39c) ![](assets/new.png)  
 - [2021-03-20-V8（JavaScript-引擎）-v9.0-发布](https://www.ershicimi.com/p/a5db8fc9ede3ed3f2bb4d3986abc0ab9) ![](assets/new.png)  
 - [2021-03-19-周五了，随机送书，每个6本，共12本](https://www.ershicimi.com/p/ad8d24088122eecdfc362ec6cba6e8a7) ![](assets/new.png)  
 - [2021-03-18-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/8c26ee1fb7b2b09e2bc0e1825cd88896) ![](assets/new.png)  
@@ -889,7 +890,6 @@
 - [2021-02-26-各位下班都背电脑吗？](https://www.ershicimi.com/p/be2f3b47643fc5f179a775ea24c890c7) ![](assets/new.png)  
 - [2021-02-25-你所有的底气来源于-有钱！](https://www.ershicimi.com/p/3e50630bfd9cec64e2de7240516416f8) ![](assets/new.png)  
 - [2021-02-24-【纯文字】2021-的-Node.js-开发人员路线图](https://www.ershicimi.com/p/5bca80dd99c61fad9cae2c3f288d40c1) ![](assets/new.png)  
-- [2021-02-22-熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-03-21-小米手机使用谷歌日历，桌面插件时不时白屏](https://www.v2ex.com/t/763751) ![](assets/new.png)  
+- [2021-03-21-各位有关注-Intel-最新代言人的话题么~](https://www.v2ex.com/t/763750) ![](assets/new.png)  
 - [2021-03-21-有大佬内推吗？实习到正式工作一年半左右了，-Java-后端，-20-届本科毕业生，今天开始投简历想换个环境了](https://www.v2ex.com/t/763746) ![](assets/new.png)  
 - [2021-03-21-MacBookAir-m1-到手第一天感想：续航真的强](https://www.v2ex.com/t/763745) ![](assets/new.png)  
 - [2021-03-21-国内哪家的-UI-和应用商店能完美支持-Android-App-Bundle-的](https://www.v2ex.com/t/763744) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-03-21-idea-中-spring-@Value-如何显示属性值、和配置文件互跳？](https://www.v2ex.com/t/763725) ![](assets/new.png)  
 - [2021-03-21-迷之问题-苹果设备无法登录-App-Store-和-Apple-Music](https://www.v2ex.com/t/763722) ![](assets/new.png)  
 - [2021-03-21-SQL-Server-查询优化](https://www.v2ex.com/t/763721) ![](assets/new.png)  
-- [2021-03-21-问个小学数学题....](https://www.v2ex.com/t/763717) ![](assets/new.png)  
-- [2021-03-21-在职找工作，和下家约定好了一个月后去报道，这种是签合同的嘛？](https://www.v2ex.com/t/763716) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-03-21-JavaScript-的数据类型](https://toutiao.io/k/6n6xsdc) ![](assets/new.png)  
 - [2021-03-21-如何更容易记忆：JavaScript-类型与类型判断](https://toutiao.io/k/1e6mzlf) ![](assets/new.png)  
 - [2021-03-21-一款高性能-PHP-后端框架](https://toutiao.io/k/24ggnha) ![](assets/new.png)  
-- [2021-03-21-推荐-去哪里找-Java-练手项目？](https://toutiao.io/k/qh7wgrx) ![](assets/new.png)  
-- [2021-03-21-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
-- [2021-03-21-推荐-8-张图带你了解大型应用架构演进历程](https://toutiao.io/k/xuv7rlf) ![](assets/new.png)  
-- [2021-03-21-推荐-快手超大规模集群调度优化实践](https://toutiao.io/k/671eano) ![](assets/new.png)  
-- [2021-03-21-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) ![](assets/new.png)  
+- [2021-03-21-推荐-聊聊-IT-技术人的知识体系](https://toutiao.io/k/vmimc5g) ![](assets/new.png)  
+- [2021-03-21-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
+- [2021-03-21-推荐-从技术专家到技术管理，我对管理的思考](https://toutiao.io/k/r5kgujp) ![](assets/new.png)  
+- [2021-03-21-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) ![](assets/new.png)  
+- [2021-03-21-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) ![](assets/new.png)  
 - [2021-03-21-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
-- [2021-03-21-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) ![](assets/new.png)  
-- [2021-03-21-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
-- [2021-03-21-推荐-MySQL-读写分离，写完读不到问题如何解决](https://toutiao.io/k/ga340bq) ![](assets/new.png)  
+- [2021-03-21-推荐-这几款-JVM-故障诊断处理工具你还不会？](https://toutiao.io/k/dux0ogl) ![](assets/new.png)  
+- [2021-03-21-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
 - [2021-03-21-推荐-Redis-最佳实践：7-个维度-+-43-条使用规范，带你彻底玩转-Redis](https://toutiao.io/k/yduqoev) ![](assets/new.png)  
+- [2021-03-21-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -10,6 +10,11 @@
         "date": "2021-03-21"
       },
       {
+        "title": "新冠疫苗已接种7495.6万剂 中疾控回应西安病例保护失败缘由",
+        "link": "https://m.caixin.com/m/2021-03-21/101678274.html",
+        "date": "2021-03-21"
+      },
+      {
         "title": "最新海外疫情：新冠感染超1.22亿 累计死亡超270万",
         "link": "https://m.caixin.com/m/2021-03-21/101678247.html",
         "date": "2021-03-21"
@@ -19611,6 +19616,11 @@
     "link": "https://www.ershicimi.com/a/893",
     "items": [
       {
+        "title": "Node.js 15.12.0 正式发布",
+        "link": "https://www.ershicimi.com/p/1d2fa3fcba57fac3544a88b1aeadb39c",
+        "date": "2021-03-21"
+      },
+      {
         "title": "V8（JavaScript 引擎） v9.0 发布",
         "link": "https://www.ershicimi.com/p/a5db8fc9ede3ed3f2bb4d3986abc0ab9",
         "date": "2021-03-20"
@@ -19704,11 +19714,6 @@
         "title": "【纯文字】2021 的 Node.js 开发人员路线图",
         "link": "https://www.ershicimi.com/p/5bca80dd99c61fad9cae2c3f288d40c1",
         "date": "2021-02-24"
-      },
-      {
-        "title": "熬夜写了一份 Web 性能优化干货总结！",
-        "link": "https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142",
-        "date": "2021-02-22"
       }
     ]
   },
@@ -20101,6 +20106,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "小米手机使用谷歌日历，桌面插件时不时白屏",
+        "link": "https://www.v2ex.com/t/763751",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "各位有关注 Intel 最新代言人的话题么~",
+        "link": "https://www.v2ex.com/t/763750",
+        "date": "2021-03-21"
+      },
+      {
         "title": "有大佬内推吗？实习到正式工作一年半左右了， Java 后端， 20 届本科毕业生，今天开始投简历想换个环境了",
         "link": "https://www.v2ex.com/t/763746",
         "date": "2021-03-21"
@@ -20248,16 +20263,6 @@
       {
         "title": "远程桌面中转- 能否分享经验？",
         "link": "https://www.v2ex.com/t/763703",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "又又又一个二次元插画代理站 —— Pixiviz",
-        "link": "https://www.v2ex.com/t/763701",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "发现了一个有趣的编程语言： Jolie",
-        "link": "https://www.v2ex.com/t/763700",
         "date": "2021-03-21"
       }
     ]
@@ -20425,63 +20430,13 @@
         "date": "2021-03-21"
       },
       {
-        "title": "[推荐] 去哪里找 Java 练手项目？",
-        "link": "https://toutiao.io/k/qh7wgrx",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] TCP/IP 常见攻击手段",
-        "link": "https://toutiao.io/k/gqpcukq",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
-        "link": "https://toutiao.io/k/xuv7rlf",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 快手超大规模集群调度优化实践",
-        "link": "https://toutiao.io/k/671eano",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] [译] 新老手必备的 34 种 JavaScript 简写优化技术",
-        "link": "https://toutiao.io/k/jdslwhk",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 21 大软件架构特点的全面解析",
-        "link": "https://toutiao.io/k/2n0entj",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 职场：3 天准备 5 天面试，跳槽完成",
-        "link": "https://toutiao.io/k/1d2mnjh",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] Java 工程师核心书单，阿里大佬看了都说好",
-        "link": "https://toutiao.io/k/5apgnxp",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] MySQL 读写分离，写完读不到问题如何解决",
-        "link": "https://toutiao.io/k/ga340bq",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
-        "link": "https://toutiao.io/k/yduqoev",
+        "title": "[推荐] 聊聊 IT 技术人的知识体系",
+        "link": "https://toutiao.io/k/vmimc5g",
         "date": "2021-03-21"
       },
       {
         "title": "[推荐] 带你深入理解 Java 内存模型理论",
         "link": "https://toutiao.io/k/0ic2o68",
-        "date": "2021-03-21"
-      },
-      {
-        "title": "[推荐] 你对天天挂在嘴边的高并发，怕是有什么误解吧？",
-        "link": "https://toutiao.io/k/xpyufe6",
         "date": "2021-03-21"
       },
       {
@@ -20495,8 +20450,58 @@
         "date": "2021-03-21"
       },
       {
+        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
+        "link": "https://toutiao.io/k/tgp1ua8",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 21 大软件架构特点的全面解析",
+        "link": "https://toutiao.io/k/2n0entj",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 这几款 JVM 故障诊断处理工具你还不会？",
+        "link": "https://toutiao.io/k/dux0ogl",
+        "date": "2021-03-21"
+      },
+      {
         "title": "[推荐] Redis 不是一直号称单线程效率也很高吗，为什么又采用多线程了？",
         "link": "https://toutiao.io/k/vsxwjpf",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
+        "link": "https://toutiao.io/k/yduqoev",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 2021 有哪些不容错过的后端技术趋势",
+        "link": "https://toutiao.io/k/e3lq37o",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 有赞 BI 平台设计及实现",
+        "link": "https://toutiao.io/k/a595tmo",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 去哪里找 Java 练手项目？",
+        "link": "https://toutiao.io/k/qh7wgrx",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] Redis 教程：Redis 知识体系详解",
+        "link": "https://toutiao.io/k/av396i0",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
+        "link": "https://toutiao.io/k/xuv7rlf",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "[推荐] 你对天天挂在嘴边的高并发，怕是有什么误解吧？",
+        "link": "https://toutiao.io/k/xpyufe6",
         "date": "2021-03-21"
       }
     ]

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-03-21 14:46:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 14:52:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-21-疫情时代，关于生活的一些思考。](https://www.v2ex.com/t/763767) 
+- [2021-03-21-求助-k8s-v1.13.9-kubelet.crt-证书问题](https://www.v2ex.com/t/763766) 
 - [2021-03-21-Big-Sur-bug?](https://www.v2ex.com/t/763765) 
 - [2021-03-21-要不要加价买美行幻-15](https://www.v2ex.com/t/763763) 
 - [2021-03-21-请教一下，淘宝上面的-office-2019-for-mac-几块甚至十几块的什么渠道的？有风险么？](https://www.v2ex.com/t/763762) 
@@ -32,5 +34,3 @@
 - [2021-03-21-idea-中-spring-@Value-如何显示属性值、和配置文件互跳？](https://www.v2ex.com/t/763725) 
 - [2021-03-21-迷之问题-苹果设备无法登录-App-Store-和-Apple-Music](https://www.v2ex.com/t/763722) 
 - [2021-03-21-SQL-Server-查询优化](https://www.v2ex.com/t/763721) 
-- [2021-03-21-问个小学数学题....](https://www.v2ex.com/t/763717) 
-- [2021-03-21-在职找工作，和下家约定好了一个月后去报道，这种是签合同的嘛？](https://www.v2ex.com/t/763716) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-22 07:03:22，:rocket: 更新条数: +4192， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-22 07:13:00，:rocket: 更新条数: +4188， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-03-22-升级-big-sur-后打印机驱动不行了，点击安装的时候提示不适合当前版本](https://www.v2ex.com/t/763965) ![](assets/new.png)  
+- [2021-03-22-社招/校招-多抓鱼-2021-春季抓人](https://www.v2ex.com/t/763962) ![](assets/new.png)  
 - [2021-03-22-请教国内所有公司名称数据，可以从哪里下载](https://www.v2ex.com/t/763960) ![](assets/new.png)  
 - [2021-03-22-有没有想来雄安工作的老哥](https://www.v2ex.com/t/763958) ![](assets/new.png)  
 - [2021-03-22-有人在手机上刷-postmarketOs-这个系统吗，看支持了一些小米的设备](https://www.v2ex.com/t/763957) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-03-22-在咸鱼收了一台-air-m1-这个电池循环-20-正常吗](https://www.v2ex.com/t/763943) ![](assets/new.png)  
 - [2021-03-22-homepod-mini-不能执行捷径](https://www.v2ex.com/t/763942) ![](assets/new.png)  
 - [2021-03-22-实习-微软亚洲研究院-机器学习系统网络优化实习生实习生](https://www.v2ex.com/t/763940) ![](assets/new.png)  
-- [2021-03-22-阿里云云盘今日公测，听说今后无论是否付费都不限速](https://www.v2ex.com/t/763938) ![](assets/new.png)  
-- [2021-03-22-有在杭州开摩托车的-V-友吗？](https://www.v2ex.com/t/763935) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

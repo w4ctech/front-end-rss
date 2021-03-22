@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-22 12:56:33，:rocket: 更新条数: +4193， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-22 13:07:50，:rocket: 更新条数: +4192， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-03-22-杭州-长桥证券---中间件团队---招聘-Golang-开发（可以顺道内推其他产品技术运营岗位）](https://www.v2ex.com/t/764057) ![](assets/new.png)  
+- [2021-03-22-快手直播-营收方向研发（北京）内推，简历直达，极速面试](https://www.v2ex.com/t/764055) ![](assets/new.png)  
 - [2021-03-22-上海移动挺不错的可以多拨而且叠加](https://www.v2ex.com/t/764053) ![](assets/new.png)  
 - [2021-03-22-印象笔记国际版-Evernote-怎么购买才便宜。](https://www.v2ex.com/t/764052) ![](assets/new.png)  
 - [2021-03-22-快手-北京/深圳-直播互动组招聘-Java-工程师，薪资高待遇好](https://www.v2ex.com/t/764051) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-03-22-上家公司几乎炒了所有技术，去南山重组部门，请问这是什么操作？](https://www.v2ex.com/t/764036) ![](assets/new.png)  
 - [2021-03-22-上海-长宁票牛演出平台及-SaaS-业务多岗位开放招聘中](https://www.v2ex.com/t/764035) ![](assets/new.png)  
 - [2021-03-22-你们会在简历上写精通-XX-吗？](https://www.v2ex.com/t/764034) ![](assets/new.png)  
-- [2021-03-22-深圳捷顺科技如何？](https://www.v2ex.com/t/764033) ![](assets/new.png)  
-- [2021-03-22-360-北京-薪资面议-招聘-Golang-/-DevOps](https://www.v2ex.com/t/764032) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

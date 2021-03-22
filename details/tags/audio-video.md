@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 12:56:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 13:07:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,6 +86,7 @@
 - [2021-03-12-字节跳动、美团、阿里等国内大公司的-200+-技术干货视频，任你选-|-活动推荐](https://www.ershicimi.com/p/2aff6bd68b5bffede3f84395069e1105) 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2021-03-22-快手直播-营收方向研发（北京）内推，简历直达，极速面试](https://www.v2ex.com/t/764055) 
 - [2021-03-22-快手-北京/深圳-直播互动组招聘-Java-工程师，薪资高待遇好](https://www.v2ex.com/t/764051) 
 - [2021-03-22-Base-上海-哔哩哔哩直播招前端开发工程师，可快速安排面试](https://www.v2ex.com/t/764016) 
 - [2021-03-22-求职-深圳-C++-音乐音频](https://www.v2ex.com/t/764013) 

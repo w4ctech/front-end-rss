@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-22 05:16:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 05:40:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -467,7 +467,6 @@
 - [【V2EX】现在-lastpass-手机-app-同步也需要付费了](https://www.v2ex.com/t/763905)
 - [【V2EX】到底什么样的才叫全栈](https://www.v2ex.com/t/763896)
 - [【开发者头条】对话交互：封闭域任务型与开放域闲聊算法技术](https://toutiao.io/k/3hvbcmg)
-- [【开发者头条】推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

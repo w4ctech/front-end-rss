@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-03-22 15:44:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 15:57:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-03-22-史上最短备战期，抖音27天通过春晚红包技术大考](https://www.ershicimi.com/p/fbfb84b46fe491e6bf6792678dd10129) 
+- [2021-03-22-不想被淘汰？关键在于要从“平台”走向“生态”](https://www.ershicimi.com/p/9417bb92f6d51ec39ce93864642a15c6) 
+- [2021-03-22-首次揭秘，快手自研性能监控系统开源项目KOOM](https://www.ershicimi.com/p/96b39ef6cc8ca19942894e20af27822b) 
+- [2021-03-22-汇聚IT技术先行者，展示中国技术力量！InfoQ-中国技术开放日重磅来袭](https://www.ershicimi.com/p/58b223f2d2ae2791ff0589cfc8813d94) 
+- [2021-03-22-Spring-Native-Beta-正式发布，原生更香！](https://www.ershicimi.com/p/c4829c1231c94d2e04f865e59d0bfeb6) 
 - [2021-03-21-纵观20年间程序员薪酬变化：涨幅下降，初级编码岗大幅消失](https://www.ershicimi.com/p/28275b65c8b6bc6df87085266b033d53) 
 - [2021-03-21-Angular、React-和-Vue-三大框架，Web-开发该如何选择？](https://www.ershicimi.com/p/70f5f659cbe2e267a9e9c71e98e8cd95) 
 - [2021-03-21-Linux-操作系统太难？先爬过这-6-个陡坡-｜-极客时间](https://www.ershicimi.com/p/93bb64f9cca48ad77411c901c5b084a7) 
@@ -20,8 +25,3 @@
 - [2021-03-19-你可能用错了-Kafka-的重试机制](https://www.ershicimi.com/p/5fbe404d4a6105807f1ce1aad6ce6f6a) 
 - [2021-03-18-拼多多用户逼近8亿反超阿里后，黄峥急流勇退](https://www.ershicimi.com/p/8162a4861bef24012bebcfd13b7a69dc) 
 - [2021-03-18-技术转管理？这些坑你可要注意了-｜-极客时间](https://www.ershicimi.com/p/5bd527d62c1c9a9f9470ea0f095f7914) 
-- [2021-03-18-Java-16-正式发布，新特性全面解析](https://www.ershicimi.com/p/38ca047b69e72de8947d4e08f4d26d3e) 
-- [2021-03-18-乘风破浪，掌握Python写CUDA的更多玩法](https://www.ershicimi.com/p/89a5ea5cebcc925a36d65f35d5b83e41) 
-- [2021-03-18-推荐一些热门的DevOps工具](https://www.ershicimi.com/p/0f1390eb200fb554f9fa33c89ba07a3b) 
-- [2021-03-17-对话中国移动：支撑数亿用户的基础设施如何实施云原生改造？](https://www.ershicimi.com/p/d76efb76064f5cd31f945e558a006a2b) 
-- [2021-03-17-这个-Redis-问题画像，干掉了一摞简历-｜-极客时间](https://www.ershicimi.com/p/cd4dd3aa5cd759560b635c64d3c0cf23) 

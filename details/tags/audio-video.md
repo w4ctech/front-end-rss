@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 11:31:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 11:39:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -88,7 +88,6 @@
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-03-22-Base-上海-哔哩哔哩直播招前端开发工程师，可快速安排面试](https://www.v2ex.com/t/764016) 
 - [2021-03-22-求职-深圳-C++-音乐音频](https://www.v2ex.com/t/764013) 
-- [2021-03-22-怎么把电脑上的视频传到手机上，最好无线方式不安装-app-的方式。](https://www.v2ex.com/t/763993) 
 - [2021-03-22-又一大型直播-App-被捣毁，这个行业还是太赚钱了。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14230&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY2TjtLHK6w7ZVuzPHTwLNg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-22-译-关于-Android-音频延迟的最新动态](https://toutiao.io/k/67rks7l) 
 - [2021-03-22-美国司法部起诉与大规模监控摄像头违规有关的黑客](https://sec.thief.one/article_content?a_id=4b8029df4ca5311e4a913a68e46c4084) 

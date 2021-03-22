@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-22 11:31:30，:rocket: 更新条数: +4194， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-22 11:39:52，:rocket: 更新条数: +4194， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,7 @@
 </summary>
 
 
+- [2021-03-22-npm-install-卡在-checking-installable-status](https://www.v2ex.com/t/764043) ![](assets/new.png)  
 - [2021-03-22-为什么不少国外软件官方都是提供-Discord-的群而不是-Telegram-群？](https://www.v2ex.com/t/764042) ![](assets/new.png)  
 - [2021-03-22-建议-V2EX-能支持-WebAuthn](https://www.v2ex.com/t/764041) ![](assets/new.png)  
 - [2021-03-22-内推-校招-22-届-网易春季实习生火热招聘中~海量岗位已全面开放（互联网、游戏）](https://www.v2ex.com/t/764040) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-03-22-随着天气变热-Airpods-pro-的降噪能力提升了](https://www.v2ex.com/t/764025) ![](assets/new.png)  
 - [2021-03-22-请问一下大佬们-MacOS-上有没有好用发免费或者付费的剪贴板/剪切板-APP](https://www.v2ex.com/t/764024) ![](assets/new.png)  
 - [2021-03-22-开发一门中文编程语言，要不要注册商标来为语言的发展保驾护航，防止被商标骗子碰瓷？](https://www.v2ex.com/t/764019) ![](assets/new.png)  
-- [2021-03-22-有没有出手-HomePod-的，想入手一个](https://www.v2ex.com/t/764018) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

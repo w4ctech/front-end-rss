@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 09:14:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 09:40:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -32,8 +32,8 @@
 - [2021-03-22-leetcode/lintcode-题解-爱彼迎面试题：序列重构](https://www.v2ex.com/t/763990) 
 - [2021-03-22-SAP-上海-CIC-部门招聘前端、后端啦～](https://www.v2ex.com/t/763985) 
 - [2021-03-22-毕业后第一次出来面试，可以先投几个外包公司去面试，试试水吗？](https://www.v2ex.com/t/763980) 
-- [2021-03-22-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) 
 - [2021-03-22-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) 
+- [2021-03-22-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) 
 - [2021-03-22-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) 
 - [2021-03-20-爬取了2021Java招聘需求,发现这些都要懂!](https://sec.thief.one/article_content?a_id=bda6839fda509ecf0f3cb9d193d96f07) 
 - [2021-03-17-滴滴面试官:说说你的能力模型为什么值-50W](https://sec.thief.one/article_content?a_id=c75700bf9e867354c54842800fa0907d) 

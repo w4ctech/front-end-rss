@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 06:15:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 06:41:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -108,3 +108,5 @@
 - [2021-03-22-JavaScript-中原型与原型链的简单理解](https://toutiao.io/k/u4ikq3r) 
 - [2021-03-22-从-QuickJS-到-Dart-VM：稿定跨端渲染工程的运行时演化](https://toutiao.io/k/s0lwst5) 
 - [2021-03-22-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) 
+- [2021-03-19-【安全大事件】微软本周发布累积更新补丁,修复-Win10-打印机蓝屏...](https://sec.thief.one/article_content?a_id=9aa9d5dccd7be26462f3c517c1e8635f) 
+- [2021-03-17-Apache-Solr-组件安全概览](https://sec.thief.one/article_content?a_id=d423fef990ddc35a22452dbf4db35f07) 

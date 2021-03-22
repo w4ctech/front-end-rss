@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-22 10:56:33，:rocket: 更新条数: +4192， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-22 11:04:30，:rocket: 更新条数: +4192， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-03-22-上海-长宁票牛演出平台及-SaaS-业务多岗位开放招聘中](https://www.v2ex.com/t/764035) ![](assets/new.png)  
+- [2021-03-22-你们会在简历上写精通-XX-吗？](https://www.v2ex.com/t/764034) ![](assets/new.png)  
 - [2021-03-22-深圳捷顺科技如何？](https://www.v2ex.com/t/764033) ![](assets/new.png)  
 - [2021-03-22-360-北京-薪资面议-招聘-Golang-/-DevOps](https://www.v2ex.com/t/764032) ![](assets/new.png)  
 - [2021-03-22-如果要从一线回成都薪资打-7-折，社保公积金也只交最低，你会怎么办？](https://www.v2ex.com/t/764031) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-03-22-求职-深圳-C++-音乐音频](https://www.v2ex.com/t/764013) ![](assets/new.png)  
 - [2021-03-22-成都-ONES-旗下团队协作工具-Tower-招聘前端工程师](https://www.v2ex.com/t/764012) ![](assets/new.png)  
 - [2021-03-22-人生的路要走偏了啊，求指导。](https://www.v2ex.com/t/764011) ![](assets/new.png)  
-- [2021-03-22-公司招聘前端，来的人让我头皮发麻](https://www.v2ex.com/t/764010) ![](assets/new.png)  
-- [2021-03-22-什么时候苹果能治治国内这些流氓-app-啊](https://www.v2ex.com/t/764009) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

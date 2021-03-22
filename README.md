@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-22 10:45:07，:rocket: 更新条数: +4192， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-22 10:56:33，:rocket: 更新条数: +4192， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1089,8 +1089,8 @@
 - [2021-03-22-CRM-数据质量怎么控？来，全球-500-强的经验分享给你](https://toutiao.io/k/plr544h) ![](assets/new.png)  
 - [2021-03-22-大小端序分析以及-go-范例](https://toutiao.io/k/yuuynmn) ![](assets/new.png)  
 - [2021-03-22-如何写更安全的代码？](https://toutiao.io/k/yqxap5a) ![](assets/new.png)  
-- [2021-03-22-译-关于-Android-音频延迟的最新动态](https://toutiao.io/k/67rks7l) ![](assets/new.png)  
 - [2021-03-22-多业务线亿级体量，携程是怎么做账务中台的](https://toutiao.io/k/x954hu1) ![](assets/new.png)  
+- [2021-03-22-译-关于-Android-音频延迟的最新动态](https://toutiao.io/k/67rks7l) ![](assets/new.png)  
 - [2021-03-22-Java-对象组成，对象头分析](https://toutiao.io/k/rfq419d) ![](assets/new.png)  
 - [2021-03-22-Spring/SpringMVC-项目-apollo-支持日志配置](https://toutiao.io/k/23hpqcd) ![](assets/new.png)  
 - [2021-03-22-Cobar-SQL-审计的设计与实现](https://toutiao.io/k/vsmboe2) ![](assets/new.png)  

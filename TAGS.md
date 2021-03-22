@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-22 15:34:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 15:44:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -216,6 +216,7 @@
 - [【Nodejs技术栈】两天快速开发一个自己的微信小程序](https://www.ershicimi.com/p/a1d5b90a969dd851472f08a9b6749930)
 - [【前端日刊】从0到1带你开发一个人脸识别考勤小程序](https://www.ershicimi.com/p/7fdc7a8a92088c3678ae5553440b47ec)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
+- [【V2EX】准备申请一个微信商户号，不知道公众号、小程序如何设置内容来截图，来申请微信支付呢？](https://www.v2ex.com/t/764085)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -464,7 +465,6 @@
 - [【全栈前端精选】【全栈前端】学习打卡养成计划](https://www.ershicimi.com/p/71e28a140bb9ed2dca7cedbfe62f95ac)
 - [【V2EX】机器学习新手，请教下有关「聚类算法」](https://www.v2ex.com/t/764084)
 - [【开发者头条】对话交互：封闭域任务型与开放域闲聊算法技术](https://toutiao.io/k/3hvbcmg)
-- [【开发者头条】推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -502,6 +502,7 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】极狐（GitLab）中国公司诚聘资深研发、SRE-和技术文档工程师（工作地点不限，全职远程）](https://www.v2ex.com/t/764060)
+- [【开发者头条】推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0)
 - [【安全热点】图片可隐藏zip和mp3文件,只需修改后缀名,这个GitHub项目火了](https://sec.thief.one/article_content?a_id=7187748ffca0abf5670bdd9783d7e1b3)
 - [【安全热点】【风险提示】天融信关于GitLab远程代码执行漏洞风险提示](https://sec.thief.one/article_content?a_id=75acec374fda9831dd9e0cfd57f8228d)
 - [【安全热点】【漏洞通告】GitLab-远程代码执行漏洞](https://sec.thief.one/article_content?a_id=13f9daaf3f8c17ea1a3b1271e436e106)

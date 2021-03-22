@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 17:35:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 17:59:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -7,7 +7,6 @@
 
 - [2021-03-22-有没有支持-macos-apple-m1-下的下载软件，](https://www.v2ex.com/t/764099) 
 - [2021-03-22-腾讯高速下载引擎引发的-DELL-燃-7000-恶心事件](https://www.v2ex.com/t/764098) 
-- [2021-03-22-杨笠跟-intel-这事好像越闹越大了](https://www.v2ex.com/t/764097) 
 - [2021-03-22-当前有没有好一点，轻便的下载软件，](https://www.v2ex.com/t/764096) 
 - [2021-03-22-关于-HTTPDNS，是不是可以直接『乱』用-Host-了-header](https://www.v2ex.com/t/764095) 
 - [2021-03-22-Chromium-内核的浏览器开硬件加速闪屏](https://www.v2ex.com/t/764093) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 17:35:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 17:59:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,9 +8,12 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-22-Chromium-内核的浏览器开硬件加速闪屏](https://www.v2ex.com/t/764093) 
 - [2021-03-22-Spring-Cloud-多人协作开发,如何让请求优先调用本地服务?](https://www.v2ex.com/t/764080) 
 - [2021-03-22-浏览器同时开两个网易云标签，-A-标签开始播放，-B-标签会自动暂停是如何实现的？](https://www.v2ex.com/t/764077) 
+- [2021-03-22-架构设计笔记（十一）：关键模式_缓存](https://toutiao.io/k/6upyjyc) 
+- [2021-03-22-如何写更安全的代码？](https://toutiao.io/k/yqxap5a) 
 - [2021-03-22-3月31日「以守为攻·安全对抗的实践与思考」系列公开课报名启动](https://sec.thief.one/article_content?a_id=caa022dfcf79140f01a9c065cc99685e) 
 - [2021-03-22-如何写更安全的代码?](https://sec.thief.one/article_content?a_id=cbff1e75a94d13e0fbf46df685b1991b) 
 - [2021-03-22-【安全热点周报】第186期:奇安信研究员发现Apache-Solr-任意文件...](https://sec.thief.one/article_content?a_id=3f80b612b7210e7930910f578f3006f1) 

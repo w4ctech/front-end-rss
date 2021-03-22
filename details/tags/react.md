@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 03:13:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 03:42:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -12,7 +12,6 @@
 - [2021-03-21-【图书】深入理解React-Router：从原理到实践](https://www.ershicimi.com/p/b345cd2322d093486a1acd076ba65584) 
 - [2021-03-18-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/000b4cfdbcb79218ddd80dd60a4e2c34) 
 - [2021-03-17-对比了React17和Vue3后，总结了这些面试可用的亮点](https://www.ershicimi.com/p/2449835c5e13b3aa6c0837c5aceb1ab1) 
-- [2021-03-15-「React缓存页面」从需求到开源（我是怎么样让产品小姐姐刮目相看的](https://www.ershicimi.com/p/cf47dd4071e1e93628d81fbb3d6071ea) 
 - [2021-03-17-对比了React17和Vue3后，我总结了这些面试可用的亮点](https://www.ershicimi.com/p/bef23107c781ebc19da3db46794fcaab) 
 - [2021-03-08-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/0ce826c6626bc55f0ababb0b6a0236aa) 
 - [2020-02-13-工具控hoist-non-react-statics-你没用过吧](https://www.ershicimi.com/p/bb1161f2239a80f5e1b16357546ee040) 
@@ -52,5 +51,6 @@
 - [2021-03-04-React面试必问Fiber和Hooks，一次解决](https://www.ershicimi.com/p/c326f772256b25d1466c7f954d154157) 
 - [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) 
 - [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) 
+- [2021-03-22-2000-元-RMB，-找一位对-html2canvas,-react-katex,-katex-特别熟悉的大牛解决个技术问题](https://www.v2ex.com/t/763873) 
 - [2021-03-22-美资背景-成都产品团队直招-React-前端/-Python-Web](https://www.v2ex.com/t/763861) 
 - [2021-03-22-原生-Android-集成-React-Native-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14239&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZHAIq6gKvzQbLrceCNA7gQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

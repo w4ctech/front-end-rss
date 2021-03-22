@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 04:15:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 04:46:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -52,5 +52,4 @@
 - [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) 
 - [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) 
 - [2021-03-22-2000-元-RMB，-找一位对-html2canvas,-react-katex,-katex-特别熟悉的大牛解决个技术问题](https://www.v2ex.com/t/763873) 
-- [2021-03-22-美资背景-成都产品团队直招-React-前端/-Python-Web](https://www.v2ex.com/t/763861) 
 - [2021-03-22-原生-Android-集成-React-Native-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14239&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZHAIq6gKvzQbLrceCNA7gQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

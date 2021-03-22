@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-22 23:08:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 23:35:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -467,7 +467,6 @@
 - [【V2EX】关于-HTTPDNS，是不是可以直接『乱』用-Host-了-header](https://www.v2ex.com/t/764095)
 - [【V2EX】机器学习新手，请教下有关「聚类算法」](https://www.v2ex.com/t/764084)
 - [【开发者头条】对话交互：封闭域任务型与开放域闲聊算法技术](https://toutiao.io/k/3hvbcmg)
-- [【开发者头条】推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

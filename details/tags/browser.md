@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 01:28:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 02:18:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,8 +25,17 @@
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-03-22-macOS-下，-Safari-打印输出-pdf-后的中文，在复制粘贴时出现乱码或􀂂，为什么？](https://www.v2ex.com/t/763829) 
+- [2021-03-22-ES-restHighLevelClient-Java-调用，长时间不调用后，突然调用会-searchResponse-会返回空指针。有人遇到过吗](https://www.v2ex.com/t/763826) 
+- [2021-03-22-请教老哥几个-chrome-插件](https://www.v2ex.com/t/763825) 
 - [2021-03-22-求一个-mac-chrome-选中拖拽-后台新标签打开-的插件](https://www.v2ex.com/t/763800) 
 - [2021-03-22-求一个-MAC-下-chrome-选中拖拽-后台新标签打开-的插件](https://www.v2ex.com/t/763796) 
+- [2021-03-22-微软：杀死那个曾经全球第一的浏览器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14234&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyJ6BOZehN_OsANr2yuBykw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-22-硬件安全：ARM体系架构的安全特性演进-www.secrss.com](https://blogread.cn/news/go.php?idItem=14225&url=https%3A%2F%2Fwww.secrss.com%2Farticles%2F9812%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-22-MTK平台Android-安全中secure-boot机制-blog.csdn.net](https://blogread.cn/news/go.php?idItem=14224&url=https%3A%2F%2Fblog.csdn.net%2Fqq_43805880%2Farticle%2Fdetails%2F108062898%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-22-UEFI安全启动-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14223&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F25279889%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-22-Android-Verified-Boot-概述-www.xiezeyang.com](https://blogread.cn/news/go.php?idItem=14222&url=https%3A%2F%2Fwww.xiezeyang.com%2F2019%2F10%2F20%2FSecurity%2FAndroidVerifiedBoot%25E6%25A6%2582%25E8%25BF%25B0%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-22-架构设计笔记（十一）：关键模式_缓存](https://toutiao.io/k/6upyjyc) 
 - [2021-03-18-【安全头条】狩猎者变成猎物:WeLeakIofo的故事续集出现反转](https://sec.thief.one/article_content?a_id=9ef75d571f0efcea344d56638b65edce) 
 - [2021-03-18-阿里面试官问“说一下从-url-输入到返回请求的过程”的难度就是不一...](https://sec.thief.one/article_content?a_id=dbb71047cd302bf8c0584f1ee23c4de9) 
 - [2021-03-18-16美元就可以打包带走所有短信,你的手机号还安全吗?](https://sec.thief.one/article_content?a_id=a5132bfc3fc98f65d368b9359804cd4f) 

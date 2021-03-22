@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 01:28:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 02:18:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,7 +8,6 @@
 
 
 - [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
-- [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
-- [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
+- [2021-03-22-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) 
 - [2021-03-17-滴滴面试官:说说你的能力模型为什么值-50W](https://sec.thief.one/article_content?a_id=c75700bf9e867354c54842800fa0907d) 
 - [2021-03-16-春日招聘|网易、小米十个岗位热招中](https://sec.thief.one/article_content?a_id=12def8655a36ed5a97d1f4a334c533a6) 

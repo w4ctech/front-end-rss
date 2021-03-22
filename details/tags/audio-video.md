@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 08:10:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 08:44:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,6 +86,7 @@
 - [2021-03-12-字节跳动、美团、阿里等国内大公司的-200+-技术干货视频，任你选-|-活动推荐](https://www.ershicimi.com/p/2aff6bd68b5bffede3f84395069e1105) 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2021-03-22-怎么把电脑上的视频传到手机上，最好无线方式不安装-app-的方式。](https://www.v2ex.com/t/763993) 
 - [2021-03-22-esxi6.7-或者其他版本可以支持雷电-3-直通吗？万兆网卡太贵了，想直接给服务器转接一个雷电-3-接口，连接-Mac-链路聚合-实现万兆内网传输，在线剪辑视频](https://www.v2ex.com/t/763954) 
 - [2021-03-22-又一大型直播-App-被捣毁，这个行业还是太赚钱了。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14230&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY2TjtLHK6w7ZVuzPHTwLNg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-22-译-关于-Android-音频延迟的最新动态](https://toutiao.io/k/67rks7l) 

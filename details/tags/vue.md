@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 22:09:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 22:35:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -28,8 +28,10 @@
 - [2020-04-19-2020年-4-月-21日-星期二-晚上-9:30-Vue.js-作者尤雨溪与你相约前端圈的-B-站](https://www.ershicimi.com/p/69d20f9c5bb2de3da1dad85699594815) 
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
 - [2021-03-19-最火的-Vue-前端框架，你用对了么？-|-活动推荐](https://www.ershicimi.com/p/ba321703f359703d3ad8b63021050229) 
+- [2021-03-16-如何搭建和发布一个-Vue-组件库](https://www.ershicimi.com/p/ee244ffbb1bcb32cdce0f20cc9b9b6d6) 
 - [2021-03-01-vite2.0+vue3移动端项目实战](https://www.ershicimi.com/p/ddecb95f123e40c314fa9daaa898dbc3) 
 - [2021-02-26-前端面试亮点杀器:来一起用Vue3做个飞机大战游戏](https://www.ershicimi.com/p/e096f08d49210dca4dbc942edb17546c) 
+- [2021-03-17-Vue3.0-新特性以及使用变更总结实际工作用到的](https://www.ershicimi.com/p/d527e0aeed812450d7e71a35bf34d6b4) 
 - [2021-03-17-提升效率的-Vue-实战技巧！](https://www.ershicimi.com/p/1af62b7def0ca576203a413d3cdf71a4) 
 - [2021-03-08-进大厂必会的Vue，你还没搞懂吗？](https://www.ershicimi.com/p/b9bead3a148b9c6e9ce92a0dd68e8472) 
 - [2021-02-23-那些只会-Vue-的前端，过的怎么样了？](https://www.ershicimi.com/p/7f8e91c9240a54bcc837f8d62539f72c) 

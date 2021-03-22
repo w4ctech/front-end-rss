@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 16:59:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 17:15:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,7 +8,6 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-22-Chromium-内核的浏览器开硬件加速闪屏](https://www.v2ex.com/t/764093) 
 - [2021-03-22-Spring-Cloud-多人协作开发,如何让请求优先调用本地服务?](https://www.v2ex.com/t/764080) 
 - [2021-03-22-浏览器同时开两个网易云标签，-A-标签开始播放，-B-标签会自动暂停是如何实现的？](https://www.v2ex.com/t/764077) 

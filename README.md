@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-22 13:07:50，:rocket: 更新条数: +4192， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-22 13:15:38，:rocket: 更新条数: +4192， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-03-22-极狐（GitLab）中国公司诚聘资深研发、SRE-和技术文档工程师（工作地点不限，全职远程）](https://www.v2ex.com/t/764060) ![](assets/new.png)  
+- [2021-03-22-Airpods-的低电量音其实可以当做久坐提醒](https://www.v2ex.com/t/764059) ![](assets/new.png)  
+- [2021-03-22-macbookpro19-款-16-寸-休眠过一段时候后开盖，弹出您的电脑因为出现问题而重新启动](https://www.v2ex.com/t/764058) ![](assets/new.png)  
 - [2021-03-22-杭州-长桥证券---中间件团队---招聘-Golang-开发（可以顺道内推其他产品技术运营岗位）](https://www.v2ex.com/t/764057) ![](assets/new.png)  
 - [2021-03-22-快手直播-营收方向研发（北京）内推，简历直达，极速面试](https://www.v2ex.com/t/764055) ![](assets/new.png)  
 - [2021-03-22-上海移动挺不错的可以多拨而且叠加](https://www.v2ex.com/t/764053) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-03-22-内推-校招-22-届-网易春季实习生火热招聘中~海量岗位已全面开放（互联网、游戏）](https://www.v2ex.com/t/764040) ![](assets/new.png)  
 - [2021-03-22-如何一步步脱岗在家](https://www.v2ex.com/t/764039) ![](assets/new.png)  
 - [2021-03-22-VSCode-十分诡异的问题](https://www.v2ex.com/t/764038) ![](assets/new.png)  
-- [2021-03-22-上家公司几乎炒了所有技术，去南山重组部门，请问这是什么操作？](https://www.v2ex.com/t/764036) ![](assets/new.png)  
-- [2021-03-22-上海-长宁票牛演出平台及-SaaS-业务多岗位开放招聘中](https://www.v2ex.com/t/764035) ![](assets/new.png)  
-- [2021-03-22-你们会在简历上写精通-XX-吗？](https://www.v2ex.com/t/764034) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

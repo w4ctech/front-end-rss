@@ -20131,6 +20131,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "极狐（GitLab）中国公司诚聘资深研发、SRE 和技术文档工程师（工作地点不限，全职远程）",
+        "link": "https://www.v2ex.com/t/764060",
+        "date": "2021-03-22"
+      },
+      {
+        "title": "Airpods 的低电量音其实可以当做久坐提醒",
+        "link": "https://www.v2ex.com/t/764059",
+        "date": "2021-03-22"
+      },
+      {
+        "title": "macbookpro19 款 16 寸 休眠过一段时候后开盖，弹出您的电脑因为出现问题而重新启动",
+        "link": "https://www.v2ex.com/t/764058",
+        "date": "2021-03-22"
+      },
+      {
         "title": "[杭州] 长桥证券 - 中间件团队 - 招聘 Golang 开发（可以顺道内推其他产品技术运营岗位）",
         "link": "https://www.v2ex.com/t/764057",
         "date": "2021-03-22"
@@ -20318,21 +20333,6 @@
       {
         "title": "人生的路要走偏了啊，求指导。",
         "link": "https://www.v2ex.com/t/764011",
-        "date": "2021-03-22"
-      },
-      {
-        "title": "公司招聘前端，来的人让我头皮发麻",
-        "link": "https://www.v2ex.com/t/764010",
-        "date": "2021-03-22"
-      },
-      {
-        "title": "什么时候苹果能治治国内这些流氓 app 啊",
-        "link": "https://www.v2ex.com/t/764009",
-        "date": "2021-03-22"
-      },
-      {
-        "title": "南京地区买马自达 CX-4 有什么建议吗？",
-        "link": "https://www.v2ex.com/t/764008",
         "date": "2021-03-22"
       }
     ]
@@ -20550,28 +20550,18 @@
         "date": "2021-03-22"
       },
       {
-        "title": "[推荐] 面试官问：“在项目中用过多线程吗？” 你就把这个案例讲给他听",
-        "link": "https://toutiao.io/k/tgp1ua8",
-        "date": "2021-03-22"
-      },
-      {
-        "title": "[推荐] 这几款 JVM 故障诊断处理工具你还不会？",
-        "link": "https://toutiao.io/k/dux0ogl",
-        "date": "2021-03-22"
-      },
-      {
-        "title": "[推荐] [译] 新老手必备的 34 种 JavaScript 简写优化技术",
-        "link": "https://toutiao.io/k/jdslwhk",
-        "date": "2021-03-22"
-      },
-      {
         "title": "[推荐] 职场：3 天准备 5 天面试，跳槽完成",
         "link": "https://toutiao.io/k/1d2mnjh",
         "date": "2021-03-22"
       },
       {
-        "title": "[推荐] 你对天天挂在嘴边的高并发，怕是有什么误解吧？",
-        "link": "https://toutiao.io/k/xpyufe6",
+        "title": "[推荐] Redis 教程：Redis 知识体系详解",
+        "link": "https://toutiao.io/k/av396i0",
+        "date": "2021-03-22"
+      },
+      {
+        "title": "[推荐] 从技术专家到技术管理，我对管理的思考",
+        "link": "https://toutiao.io/k/r5kgujp",
         "date": "2021-03-22"
       },
       {
@@ -20585,23 +20575,23 @@
         "date": "2021-03-22"
       },
       {
-        "title": "[推荐] 去哪里找 Java 练手项目？",
-        "link": "https://toutiao.io/k/qh7wgrx",
-        "date": "2021-03-22"
-      },
-      {
-        "title": "[推荐] Redis 不是一直号称单线程效率也很高吗，为什么又采用多线程了？",
-        "link": "https://toutiao.io/k/vsxwjpf",
-        "date": "2021-03-22"
-      },
-      {
-        "title": "[推荐] Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis",
-        "link": "https://toutiao.io/k/yduqoev",
-        "date": "2021-03-22"
-      },
-      {
         "title": "[推荐] 21 大软件架构特点的全面解析",
         "link": "https://toutiao.io/k/2n0entj",
+        "date": "2021-03-22"
+      },
+      {
+        "title": "[推荐] 有赞 BI 平台设计及实现",
+        "link": "https://toutiao.io/k/a595tmo",
+        "date": "2021-03-22"
+      },
+      {
+        "title": "[推荐] 你对天天挂在嘴边的高并发，怕是有什么误解吧？",
+        "link": "https://toutiao.io/k/xpyufe6",
+        "date": "2021-03-22"
+      },
+      {
+        "title": "[推荐] 这几款 JVM 故障诊断处理工具你还不会？",
+        "link": "https://toutiao.io/k/dux0ogl",
         "date": "2021-03-22"
       },
       {
@@ -20610,8 +20600,13 @@
         "date": "2021-03-22"
       },
       {
-        "title": "[推荐] 如何写出高质量的技术文章？",
-        "link": "https://toutiao.io/k/ozl31qb",
+        "title": "[推荐] TCP/IP 常见攻击手段",
+        "link": "https://toutiao.io/k/gqpcukq",
+        "date": "2021-03-22"
+      },
+      {
+        "title": "[推荐] Java 工程师核心书单，阿里大佬看了都说好",
+        "link": "https://toutiao.io/k/5apgnxp",
         "date": "2021-03-22"
       },
       {
@@ -20620,8 +20615,13 @@
         "date": "2021-03-22"
       },
       {
-        "title": "[推荐] 有赞 BI 平台设计及实现",
-        "link": "https://toutiao.io/k/a595tmo",
+        "title": "[推荐] Redis 不是一直号称单线程效率也很高吗，为什么又采用多线程了？",
+        "link": "https://toutiao.io/k/vsxwjpf",
+        "date": "2021-03-22"
+      },
+      {
+        "title": "[推荐] 8 张图带你了解大型应用架构演进历程",
+        "link": "https://toutiao.io/k/xuv7rlf",
         "date": "2021-03-22"
       }
     ]

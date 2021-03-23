@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-23 07:39:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 07:51:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -11,4 +11,6 @@
 - [2021-03-21-【招聘】SmartX招web前端、web全栈](https://www.ershicimi.com/p/9242afeaf525d42c0b067129bb88ed65) 
 - [2021-03-10-70%-的程序员，不懂数据结构和算法！-|-活动推荐](https://www.ershicimi.com/p/55c59ed6e86319917281fe4c624595d6) 
 - [2021-03-20-【全栈前端】学习打卡养成计划](https://www.ershicimi.com/p/71e28a140bb9ed2dca7cedbfe62f95ac) 
+- [2021-03-23-远程/北美-ChargerGoGo-|-招聘高级后端/前端/全栈-|-20k-35k-|-有赴美工作机会](https://www.v2ex.com/t/764296) 
 - [2021-03-23-译-ClickHouse-在日志存储与分析方面作为-ElasticSearch-和-MySQL-的替代方案](https://toutiao.io/k/cccopgf) 
+- [2021-03-23-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) 

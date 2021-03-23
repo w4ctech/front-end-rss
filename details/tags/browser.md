@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-23 00:09:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 00:17:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -50,6 +50,8 @@
 - [2021-03-23-UEFI安全启动-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14223&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F25279889%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-23-架构设计笔记（十一）：关键模式_缓存](https://toutiao.io/k/6upyjyc) 
 - [2021-03-23-如何写更安全的代码？](https://toutiao.io/k/yqxap5a) 
+- [2021-03-22-【安全圈】有史以来最高赎金-PC巨头宏碁遭勒索3.25亿!](https://sec.thief.one/article_content?a_id=036bd7d0adf7c2ae0ea6e520afa70013) 
+- [2021-03-22-「目极千里-·-洞见安全」线上安全技术沙龙圆满结束](https://sec.thief.one/article_content?a_id=22b80f80d4f5e1592bc5182185260297) 
 - [2021-03-22-3月31日「以守为攻·安全对抗的实践与思考」系列公开课报名启动](https://sec.thief.one/article_content?a_id=caa022dfcf79140f01a9c065cc99685e) 
 - [2021-03-22-如何写更安全的代码?](https://sec.thief.one/article_content?a_id=cbff1e75a94d13e0fbf46df685b1991b) 
 - [2021-03-22-【安全热点周报】第186期:奇安信研究员发现Apache-Solr-任意文件...](https://sec.thief.one/article_content?a_id=3f80b612b7210e7930910f578f3006f1) 
@@ -75,8 +77,3 @@
 - [2021-03-18-「目极千里-·-洞见安全」安全技术沙龙来了!](https://sec.thief.one/article_content?a_id=4136a960e9b15ac5eab33ea02ee7a087) 
 - [2021-03-18-驱动安全建设的三架马车](https://sec.thief.one/article_content?a_id=f051cde960aa26e135c8a81e30a682bc) 
 - [2021-03-18-数据安全:国防部卫生系统存档COVID-19疫苗接种数据](https://sec.thief.one/article_content?a_id=2ef3ca65b5ac94030333694a67309a33) 
-- [2021-03-17-西安邮电大学网络空间安全学院人才招聘](https://sec.thief.one/article_content?a_id=9c372165aaebed9fb8a595e24b25fe8f) 
-- [2021-03-17-【安全圈】主流加密通信应用Signal被封杀](https://sec.thief.one/article_content?a_id=c697039212880dbc0a8a0208939a134e) 
-- [2021-03-17-新书上市《内生安全:新一代网络安全框架体系与实践》](https://sec.thief.one/article_content?a_id=1d4394149ca01dac47f877701c8300ef) 
-- [2021-03-17-安全研究-|-多种方式利用HTTP-PUT方法漏洞](https://sec.thief.one/article_content?a_id=b73dfd132c825f5f8ff05519bbf9dfcd) 
-- [2021-03-17-牵手长亭,「目极千里-洞见安全」安全技术沙龙来了!](https://sec.thief.one/article_content?a_id=792e0ab33238d5c8a14a1802a517f105) 

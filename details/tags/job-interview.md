@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-23 08:10:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 08:39:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -15,6 +15,7 @@
 - [2021-03-18-【招聘】苏州知犀思维导图招聘高级前端开发工程师](https://www.ershicimi.com/p/f10acfcfa1b64e1cc9aa922785d19dcb) 
 - [2021-03-17-【招聘】北京天眼查招聘高级前端研发工程师](https://www.ershicimi.com/p/19225740b719a89c764f7d948d8f9eef) 
 - [2021-03-22-从面试官角度看一次前端面试经历](https://www.ershicimi.com/p/fe11a4fdbd32711c6971d3feb56c4e17) 
+- [2021-03-23-​400-道前端常考必考面试题（附答案详解）](https://www.ershicimi.com/p/0cecade70952af096121ab439fd32346) 
 - [2021-03-15-大厂面试常问的工程化怎么学？详细指南来了](https://www.ershicimi.com/p/830152f8c8d1e8f770561a5d787de16a) 
 - [2021-03-10-阿里宣布扩招！最新内部面试题已脱敏](https://www.ershicimi.com/p/986cac34636cf0fe805a1abe7e08b23d) 
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
@@ -27,9 +28,8 @@
 - [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-03-19-2021-最新-Java-面试题出炉！（带全部答案）](https://www.ershicimi.com/p/129f450c29439fc7a86888e266c61a13) 
+- [2021-03-23-吐槽一下最近遇到的一次面试XP-汽车](https://www.v2ex.com/t/764314) 
+- [2021-03-23-杭州无-996-米加健康集团招聘](https://www.v2ex.com/t/764307) 
 - [2021-03-23-卡瓦科技-招聘前端/-初级高级-Java-/IOS-开发-base-广州/岗位核心/薪资美丽](https://www.v2ex.com/t/764285) 
-- [2021-03-23-广州卡瓦科技-招聘前端/-初级高级-Java-/IOS-开发-岗位核心-薪酬美丽](https://www.v2ex.com/t/764265) 
-- [2021-03-23-阿里巴巴深圳/杭州长期招聘-Java-工程师/技术专家-P6-P7-P8](https://www.v2ex.com/t/764259) 
-- [2021-03-23-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) 
 - [2021-03-23-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) 
 - [2021-03-20-爬取了2021Java招聘需求,发现这些都要懂!](https://sec.thief.one/article_content?a_id=bda6839fda509ecf0f3cb9d193d96f07) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-23 13:02:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 13:13:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -105,7 +105,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-03-23-Workerman-简单-Web-服务器-WorkermanHttpd-发布](https://www.v2ex.com/t/764395) 
-- [2021-03-23-腾讯开源：Kotlin-高性能特效动画组件！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14238&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHcELeclN2NIGl6Teock1eQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-23-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) 
 - [2021-03-23-再现在野0day攻击--BITTER-APT攻击事件](https://sec.thief.one/article_content?a_id=d8c736a6864811cd7ab71e8f5be13c32) 
 - [2021-03-23-“池子事件”银保监会重罚出炉:不断加码的内控安全监管](https://sec.thief.one/article_content?a_id=5ebfc3adaf19e73007bf7b0c8d9a2e3e) 
 - [2021-03-19-【安全大事件】微软本周发布累积更新补丁,修复-Win10-打印机蓝屏...](https://sec.thief.one/article_content?a_id=9aa9d5dccd7be26462f3c517c1e8635f) 

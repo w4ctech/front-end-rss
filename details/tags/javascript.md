@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-23 22:09:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 22:35:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -82,6 +82,7 @@
 - [2021-03-14-174道JavaScript-面试知识点总结（上）](https://www.ershicimi.com/p/f095df4eab8c422cdd310978705fe62f) 
 - [2021-03-20-JS犀牛书-中文版-第7版强势回归！包邮送书+红包](https://www.ershicimi.com/p/763310801d581183be0947519a24ff54) 
 - [2021-03-15-从理解到实现轻松掌握-ES6-中的迭代器](https://www.ershicimi.com/p/48d5f5785a6678b466208d3ec1ae9c7d) 
+- [2021-03-20-赠书第-3-期｜时隔-10-年-JavaScript-“犀牛书”-重磅升级](https://www.ershicimi.com/p/0d0409150f5acde15cbc3ecbb67fe58b) 
 - [2021-03-06-超实用-—-开发中常见-JavaScript-问题整理](https://www.ershicimi.com/p/54be0fbda17b78478ec0cea069cdfa1a) 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 

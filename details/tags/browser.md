@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-23 05:12:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 05:28:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,6 +46,10 @@
 - [2021-03-23-MTK平台Android-安全中secure-boot机制-blog.csdn.net](https://blogread.cn/news/go.php?idItem=14224&url=https%3A%2F%2Fblog.csdn.net%2Fqq_43805880%2Farticle%2Fdetails%2F108062898%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-23-UEFI安全启动-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14223&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F25279889%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-23-MyBatis-plus-如何禁用一级缓存](https://toutiao.io/k/fuul2bb) 
+- [2021-03-23-新冠病毒发生一年后,世界网络安全的格局发生了哪些变化?](https://sec.thief.one/article_content?a_id=63256b841e65e1d50ad64a43843b5acb) 
+- [2021-03-23-2020年Android平台安全态势分析报告](https://sec.thief.one/article_content?a_id=7f3ead8a0f2b19fe9e30d92088345623) 
+- [2021-03-23-网络安全编程:内核下注册表读写函数](https://sec.thief.one/article_content?a_id=2b32e536620597c144424f318485802a) 
+- [2021-03-22-【安全圈】注意了!恶意的火狐扩展程序可以接管你账户](https://sec.thief.one/article_content?a_id=ad4ba75cc3c01c735ca52fab2231e672) 
 - [2021-03-22-【安全圈】有史以来最高赎金-PC巨头宏碁遭勒索3.25亿!](https://sec.thief.one/article_content?a_id=036bd7d0adf7c2ae0ea6e520afa70013) 
 - [2021-03-22-「目极千里-·-洞见安全」线上安全技术沙龙圆满结束](https://sec.thief.one/article_content?a_id=22b80f80d4f5e1592bc5182185260297) 
 - [2021-03-22-3月31日「以守为攻·安全对抗的实践与思考」系列公开课报名启动](https://sec.thief.one/article_content?a_id=caa022dfcf79140f01a9c065cc99685e) 
@@ -72,4 +76,3 @@
 - [2021-03-18-调查:API安全成为威胁新趋势](https://sec.thief.one/article_content?a_id=acbd07d0f4454dae3a805ada2a2c29a7) 
 - [2021-03-18-「目极千里-·-洞见安全」安全技术沙龙来了!](https://sec.thief.one/article_content?a_id=4136a960e9b15ac5eab33ea02ee7a087) 
 - [2021-03-18-驱动安全建设的三架马车](https://sec.thief.one/article_content?a_id=f051cde960aa26e135c8a81e30a682bc) 
-- [2021-03-18-数据安全:国防部卫生系统存档COVID-19疫苗接种数据](https://sec.thief.one/article_content?a_id=2ef3ca65b5ac94030333694a67309a33) 

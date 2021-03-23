@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-23 05:44:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 05:54:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -66,6 +66,10 @@
 - [2021-03-20-【包邮送书】JS犀牛书-中文版-第7版强势回归！](https://www.ershicimi.com/p/90d2806e418abd132645a38cd9d08006) 
 - [2021-03-18-JS算法：图文并茂讲解堆排序](https://www.ershicimi.com/p/2e199c86d475a89c18f52de88fa459c2) 
 - [2021-03-17-温故而知新，8张-Javascript-思维导图助你成长](https://www.ershicimi.com/p/942f275bb42690b6ccfa058f2c7ae3e8) 
+- [2021-03-02-如何用-JS-实现二叉堆](https://www.ershicimi.com/p/7042ca89ec61f44863acb7c888ae365f) 
+- [2021-02-02-动态表单之表单组件的插件式加载方案](https://www.ershicimi.com/p/8cc8832fe3c00b073d2e023bcbf6947f) 
+- [2020-12-01-编写高质量可维护的代码：组件的抽象与粒度](https://www.ershicimi.com/p/d63106557eaffdecc1a80b80ac265eed) 
+- [2020-11-17-编写高质量可维护的代码：异步优化](https://www.ershicimi.com/p/0ad863f1eefe317a17477e0884cf1346) 
 - [2021-03-17-慎用JSON.stringify](https://www.ershicimi.com/p/b4d615ff6794e9ae40598c5e1bbdea54) 
 - [2021-03-08-这些一行-JS-实现功能的代码，让你看起来像一个前端专家](https://www.ershicimi.com/p/b5f0be5543f351bf9da06419d35cd857) 
 - [2021-03-03-JavaScript-代码整洁之道](https://www.ershicimi.com/p/a44c71351eae862bed138b76e3b708c9) 
@@ -102,4 +106,5 @@
 - [2021-03-23-WijmoJS-前端开发工具包发布更新，加入可视化地图组件](https://www.v2ex.com/t/764207) 
 - [2021-03-23-准备-15-万多落地一辆红旗-H5，不知道-V-友们了解这车吗？](https://www.v2ex.com/t/764203) 
 - [2021-03-23-腾讯开源：Kotlin-高性能特效动画组件！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14238&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHcELeclN2NIGl6Teock1eQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-23-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) 
 - [2021-03-19-【安全大事件】微软本周发布累积更新补丁,修复-Win10-打印机蓝屏...](https://sec.thief.one/article_content?a_id=9aa9d5dccd7be26462f3c517c1e8635f) 

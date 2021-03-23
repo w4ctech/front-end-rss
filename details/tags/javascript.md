@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-23 10:47:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 11:01:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -32,6 +32,8 @@
 - [2020-01-23-世卫组织：对是否宣布为“国际公共卫生紧急事件”存在分歧](https://m.caixin.com/m/2020-01-23/101507521.html) 
 - [2020-01-22-如何解读WHO“国际公共卫生紧急事件”](http://m.china.caixin.com/m/2020-01-22/101507340.html) 
 - [2020-01-22-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
+- [2021-03-23-十几个CSS高级常见技巧汇总（虚线框、三角形、优惠券卡券、滚动条、多行溢出...）](https://www.ershicimi.com/p/f78fbf1cd0725de5c70dd1733cc323ba) 
+- [2021-03-23-【十年】送20本最新第7版JS-犀牛书](https://www.ershicimi.com/p/508ca4188b07457160c264231c9c7a51) 
 - [2021-03-22-174道JavaScript-面试知识点总结（下）](https://www.ershicimi.com/p/3289bd5e7d2e1c4733b6d222a8cfd29d) 
 - [2021-03-22-深拷贝浅拷贝的区别？如何实现一个深拷贝？](https://www.ershicimi.com/p/c06d8fed48e2f61074ce42a33ea26f78) 
 - [2021-03-21-JS犀牛书-中文版-第7版强势回归！](https://www.ershicimi.com/p/c2d6f988f227d24b85b1d88bb0a4cb49) 
@@ -40,7 +42,6 @@
 - [2021-03-18-174道JavaScript-面试知识点总结（上）](https://www.ershicimi.com/p/959c468c1e5273534815a5c4d49cbc36) 
 - [2021-03-17-开发中经常遇到的JavaScript问题整理（超实用）](https://www.ershicimi.com/p/5dae011bbc8e84b730d0b97ae84f1e0a) 
 - [2021-03-16-谈谈-JavaScript-中的类型转换机制](https://www.ershicimi.com/p/127a1bf68fcca1b6960e9741bc2cd0f2) 
-- [2021-03-15-2020-JavaScript明星项目](https://www.ershicimi.com/p/27e805e85374c16caa86f17235e0e7a2) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2021-03-22-【第2233期】Javascript权威指南：迭代器和生成器](https://www.ershicimi.com/p/595720f87218226f8d6aa8e76220391f) 

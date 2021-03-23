@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-23 06:09:04，:rocket: 更新条数: +755， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-23 06:37:32，:rocket: 更新条数: +4190， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-03-23-3月22日全国新增确诊病例9例-均为境外输入](https://m.caixin.com/m/2021-03-23/101678831.html) ![](assets/new.png)  
+- [2021-03-23-阿斯利康疫苗在美国试验有效率79%-印度感染激增｜大流行手记（3月22日）](https://m.caixin.com/m/2021-03-23/101678809.html) ![](assets/new.png)  
+- [2021-03-22-聚焦|张文宏：不要盼着疫苗来，疫苗真来了又不敢打](http://m.opinion.caixin.com/m/2021-03-22/101678747.html) ![](assets/new.png)  
+- [2021-03-22-中国学者研究：约6.9%武汉人口新冠抗体阳性-其中82%无症状](https://m.caixin.com/m/2021-03-22/101678464.html) ![](assets/new.png)  
+- [2021-03-22-最新海外疫情：新冠感染超1.23亿-累计死亡超271万](https://m.caixin.com/m/2021-03-22/101678487.html) ![](assets/new.png)  
+- [2021-03-22-3月21日全国新增新冠7例-均为境外输入](https://m.caixin.com/m/2021-03-22/101678304.html) ![](assets/new.png)  
+- [2021-03-22-【境内疫情观察】全国新增7例境外输入病例（3月21日）](http://m.database.caixin.com/m/2021-03-22/101678468.html) ![](assets/new.png)  
+- [2021-03-22-东京奥运会不接待海外观众-英半数成年人已接种首剂疫苗｜大流行手记（3月21日）](https://m.caixin.com/m/2021-03-22/101678287.html) ![](assets/new.png)  
+- [2021-03-22-东京奥运会不接待海外观众-英半数成年人已接种首剂疫苗｜大流行手记（3月21日）](https://m.caixin.com/m/2021-03-22/101678287.html) ![](assets/new.png)  
+- [2021-03-21-新冠疫苗已接种7495.6万剂-中疾控回应西安病例保护失败缘由](https://m.caixin.com/m/2021-03-21/101678274.html) ![](assets/new.png)  
+- [2021-03-21-【境内疫情观察】全国新增12例境外输入病例（3月20日）](http://m.database.caixin.com/m/2021-03-21/101678206.html) ![](assets/new.png)  
+- [2021-03-21-欧洲疫苗接种未达预期-俄罗斯成新冠死亡率最高国之一-|-大流行手记（3月20日）](https://m.caixin.com/m/2021-03-21/101678163.html) ![](assets/new.png)  
+- [2021-03-20-3月19日全国新增新冠4例-均为境外输入](https://m.caixin.com/m/2021-03-20/101677880.html) ![](assets/new.png)  
+- [2021-03-20-【境内疫情观察】全国新增4例境外输入病例（3月19日）](http://m.database.caixin.com/m/2021-03-20/101677994.html) ![](assets/new.png)  
+- [2021-03-20-欧盟多国重启接种阿斯利康疫苗-美拟为墨加供苗400万剂-|-大流行手记（3月19日）](https://m.caixin.com/m/2021-03-20/101677860.html) ![](assets/new.png)  
+- [2021-03-19-香港建议新冠康复者出院后再接种一剂mRNA疫苗](https://m.caixin.com/m/2021-03-19/101677435.html) ![](assets/new.png)  
+- [2021-03-19-【境内疫情观察】陕西西安新增1例本土病例（3月18日）](http://m.database.caixin.com/m/2021-03-19/101677385.html) ![](assets/new.png)  
+- [2021-03-19-欧盟拟推新冠“数字绿色证书”-法新型变异株逃避核酸检测-|-大流行手记（3月18日）](https://m.caixin.com/m/2021-03-19/101677244.html) ![](assets/new.png)  
+- [2021-03-18-西安确诊1例新冠本土病例-为医院封闭隔离病区检验师](https://m.caixin.com/m/2021-03-18/101677080.html) ![](assets/new.png)  
+- [2021-03-18-【境内疫情观察】全国20个省份连续15日以上无新增确诊病例（3月17日）](http://m.database.caixin.com/m/2021-03-18/101676983.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,26 +1016,26 @@
 </summary>
 
 
+- [2021-03-23-广州有招短期驻场开发的吗？-多年的-iOS-开发找短期工作。](https://www.v2ex.com/t/764263) ![](assets/new.png)  
+- [2021-03-23-Java-与-Go](https://www.v2ex.com/t/764262) ![](assets/new.png)  
+- [2021-03-23-各位大佬，-https-请求变成-http？](https://www.v2ex.com/t/764261) ![](assets/new.png)  
+- [2021-03-23-百度网盘客户端-试图利用-远程代码执行漏洞-CVE-2015-1635](https://www.v2ex.com/t/764260) ![](assets/new.png)  
+- [2021-03-23-阿里巴巴深圳/杭州长期招聘-Java-工程师/技术专家-P6-P7-P8](https://www.v2ex.com/t/764259) ![](assets/new.png)  
+- [2021-03-23-离职前的一些心态波动](https://www.v2ex.com/t/764258) ![](assets/new.png)  
+- [2021-03-23-想问一下二进制协议格式说明的注释有没有什么好用的生成工具吗](https://www.v2ex.com/t/764257) ![](assets/new.png)  
+- [2021-03-23-今日运势查询，一个可以播报每天运势的小程序](https://www.v2ex.com/t/764256) ![](assets/new.png)  
+- [2021-03-23-PwC-US-子公司--上海---混合办公---前端-1Y，-PySpark，-BA，-DevOps-等-假期较多](https://www.v2ex.com/t/764255) ![](assets/new.png)  
+- [2021-03-23-「蚂蚁金服---体验技术部」招聘-前端、后端、产品、设计，-p5-及以上都有-HC](https://www.v2ex.com/t/764254) ![](assets/new.png)  
+- [2021-03-23-有没有什么可以屏蔽二维码图片的插件](https://www.v2ex.com/t/764252) ![](assets/new.png)  
+- [2021-03-23-妻子又借网贷了。。。](https://www.v2ex.com/t/764250) ![](assets/new.png)  
+- [2021-03-23-铁汁们客制化的车车在哪里找呢！](https://www.v2ex.com/t/764249) ![](assets/new.png)  
+- [2021-03-23-为什么写业务逻辑代码提不起兴趣，写自己的轮子就两眼发光？](https://www.v2ex.com/t/764248) ![](assets/new.png)  
 - [2021-03-23-AppStore-可以设置成购买免费-APP-不验证密码吗？](https://www.v2ex.com/t/764247) ![](assets/new.png)  
 - [2021-03-23-大家-Windows-下用什么普通文本编辑器？](https://www.v2ex.com/t/764246) ![](assets/new.png)  
 - [2021-03-23-实习-微软亚洲研究院-机器学习系统网络优化实习生实习生](https://www.v2ex.com/t/764244) ![](assets/new.png)  
 - [2021-03-23-嵌入式-or-测试，方向选择](https://www.v2ex.com/t/764242) ![](assets/new.png)  
 - [2021-03-23-万向招区块链架构师，区块链工程师，密码学工程师（15-薪）](https://www.v2ex.com/t/764240) ![](assets/new.png)  
 - [2021-03-23-在地铁上与你接触的人越多地铁就越挤吗?](https://www.v2ex.com/t/764239) ![](assets/new.png)  
-- [2021-03-23-萌新问下-502-Bad-Gateway-问题](https://www.v2ex.com/t/764236) ![](assets/new.png)  
-- [2021-03-23-求助-c++-使用-"select"-不能监测到可读的-socket](https://www.v2ex.com/t/764234) ![](assets/new.png)  
-- [2021-03-23-现在移动端的应用主流都用什么模式开发？](https://www.v2ex.com/t/764233) ![](assets/new.png)  
-- [2021-03-23-关于-iOS-QQ-邮箱-App-对-IMAP-的一次测试](https://www.v2ex.com/t/764232) ![](assets/new.png)  
-- [2021-03-23-同学，你跳槽吗](https://www.v2ex.com/t/764231) ![](assets/new.png)  
-- [2021-03-23-丑团外卖-app-的这波更新让我知道了这些互联网平台的套路没有谁最恶心，只有谁更恶心](https://www.v2ex.com/t/764230) ![](assets/new.png)  
-- [2021-03-23-什么软件可以更改-mac-顶部任务栏-小图标](https://www.v2ex.com/t/764229) ![](assets/new.png)  
-- [2021-03-23-感觉面试重要的不是拿到-offer，而是](https://www.v2ex.com/t/764228) ![](assets/new.png)  
-- [2021-03-23-mysql-某个数据库的表如何定时同步到另一个数据库中？](https://www.v2ex.com/t/764227) ![](assets/new.png)  
-- [2021-03-23-手机快充很慢，但是-USB-DCP-正常，有办法解决吗？](https://www.v2ex.com/t/764226) ![](assets/new.png)  
-- [2021-03-23-又到金三银四了，今年程序员面试卷不卷？](https://www.v2ex.com/t/764224) ![](assets/new.png)  
-- [2021-03-23-请教-Go-语言开发，这个属于什么水平的面试题？](https://www.v2ex.com/t/764222) ![](assets/new.png)  
-- [2021-03-23-如何每个月“缓存”一次-mysql-的查询结果?](https://www.v2ex.com/t/764221) ![](assets/new.png)  
-- [2021-03-23-三月份适合去哪里徒步？](https://www.v2ex.com/t/764220) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,13 +1089,13 @@
 - [2021-03-23-“高芯”-焦虑，静待花开](https://toutiao.io/k/i66efq3) ![](assets/new.png)  
 - [2021-03-23-Thread-疾风传](https://toutiao.io/k/tprx3d7) ![](assets/new.png)  
 - [2021-03-23-AV1-在-RTC-应用实践中的现状与展望](https://toutiao.io/k/ti6xgmd) ![](assets/new.png)  
-- [2021-03-23-Netty-源码解析：内存对齐类-SizeClasses](https://toutiao.io/k/e5la7c7) ![](assets/new.png)  
 - [2021-03-23-马斯克对话薛其坤：谈物理、人工智能和大学教育-​](https://toutiao.io/k/hlvaaq7) ![](assets/new.png)  
+- [2021-03-23-Netty-源码解析：内存对齐类-SizeClasses](https://toutiao.io/k/e5la7c7) ![](assets/new.png)  
 - [2021-03-23-浅谈-synchronized-与-Object.wait/notify-原理](https://toutiao.io/k/v654um3) ![](assets/new.png)  
 - [2021-03-23-MyBatis-plus-如何禁用一级缓存](https://toutiao.io/k/fuul2bb) ![](assets/new.png)  
 - [2021-03-23-如何在-Istio-中进行源地址保持？](https://toutiao.io/k/s5quj1g) ![](assets/new.png)  
-- [2021-03-23-如何使用-BenchmarkDotNet-对-C#-代码进行基准测试](https://toutiao.io/k/zoz4fhb) ![](assets/new.png)  
 - [2021-03-23-用-AI-“唤醒”-老照片（Mixlab-技术前沿）](https://toutiao.io/k/s2tczgu) ![](assets/new.png)  
+- [2021-03-23-如何使用-BenchmarkDotNet-对-C#-代码进行基准测试](https://toutiao.io/k/zoz4fhb) ![](assets/new.png)  
 - [2021-03-23-JVM-进阶之路（二）：Java-内存区域](https://toutiao.io/k/gh46fi9) ![](assets/new.png)  
 - [2021-03-23-5G-时代的直播，将带来怎样的低延迟体验](https://toutiao.io/k/mlbazvx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

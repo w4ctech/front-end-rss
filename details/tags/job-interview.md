@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-23 06:47:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 06:59:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -33,6 +33,6 @@
 - [2021-03-23-感觉面试重要的不是拿到-offer，而是](https://www.v2ex.com/t/764228) 
 - [2021-03-23-又到金三银四了，今年程序员面试卷不卷？](https://www.v2ex.com/t/764224) 
 - [2021-03-23-请教-Go-语言开发，这个属于什么水平的面试题？](https://www.v2ex.com/t/764222) 
-- [2021-03-23-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) 
 - [2021-03-23-推荐-职场：3-天准备-5-天面试，跳槽完成](https://toutiao.io/k/1d2mnjh) 
+- [2021-03-23-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) 
 - [2021-03-20-爬取了2021Java招聘需求,发现这些都要懂!](https://sec.thief.one/article_content?a_id=bda6839fda509ecf0f3cb9d193d96f07) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-23 21:08:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 21:31:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -116,7 +116,6 @@
 - [【全栈前端精选】Deno-将停用-TypeScript-的五个原因](https://www.ershicimi.com/p/1dc0f76e752240c19563b98f6bcbbffe)
 - [【政采云前端团队】编写高质量可维护的代码：Awesome-TypeScript](https://www.ershicimi.com/p/0e0e4e00548bd0c316732a2a25594a04)
 - [【前端宇宙】要改掉的-10-种-TypeScript-坏习惯](https://www.ershicimi.com/p/78e5431baa0515e7ec4907fc113f81e6)
-- [【前端宇宙】TypeScript-4.2-正式发布：更智能的类型别名保留，声明缺失的帮助函数，还有许多破坏性更新](https://www.ershicimi.com/p/7c52f43f9a5989614be4973fb020a71d)
 - [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
@@ -463,7 +462,6 @@
 - [【前端之巅】70%-的程序员，不懂数据结构和算法！-|-活动推荐](https://www.ershicimi.com/p/55c59ed6e86319917281fe4c624595d6)
 - [【全栈前端精选】【全栈前端】学习打卡养成计划](https://www.ershicimi.com/p/71e28a140bb9ed2dca7cedbfe62f95ac)
 - [【开发者头条】译-ClickHouse-在日志存储与分析方面作为-ElasticSearch-和-MySQL-的替代方案](https://toutiao.io/k/cccopgf)
-- [【开发者头条】推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -497,9 +495,11 @@
 
 
 
+- [【前端宇宙】收好这份-Git-应急手册，关键时刻可保你一命](https://www.ershicimi.com/p/d4a270b0eeb7795dbcdf57dde0e73bfe)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【开发者头条】推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0)
 - [【安全热点】图片可隐藏zip和mp3文件,只需修改后缀名,这个GitHub项目火了](https://sec.thief.one/article_content?a_id=7187748ffca0abf5670bdd9783d7e1b3)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

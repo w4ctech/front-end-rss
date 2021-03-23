@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-23 15:43:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 15:56:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,6 +39,7 @@
 - [2021-03-20-腾讯技术Leader人均写3万行代码；拼多多超越阿里成为第一；360搜索、UC浏览器因虚假医药广告被](https://www.ershicimi.com/p/e41ed4c960e68a7d98a58e8b70ff9896) 
 - [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2021-03-17-深层清洁好？药妆更安全？千万别再信这些护肤「伪概念」了](https://www.ershicimi.com/p/b8a32b59d11af2c981e993849a564ecd) 
 - [2021-03-23-Mac-Safari-碰到个奇怪问题，倍数播放每次暂停后都恢复一倍数播放。](https://www.v2ex.com/t/764427) 
 - [2021-03-23-啥时候-Linux-的-edge-的同步功能做出来呀](https://www.v2ex.com/t/764420) 
 - [2021-03-23-今天这么一个严重的-Android-Webview-Crash，没人关注么？](https://www.v2ex.com/t/764397) 

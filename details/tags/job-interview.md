@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-23 15:43:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 15:56:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -31,5 +31,4 @@
 - [2021-03-23-逃离北上广-带娃-律师事务所招聘-长期在家办公-前端一名](https://www.v2ex.com/t/764417) 
 - [2021-03-23-深圳阿里中心蚂蚁港澳钱包-大前端团队前端、Android、iOS春节招聘-0323](https://www.v2ex.com/t/764414) 
 - [2021-03-23-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) 
-- [2021-03-23-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) 
 - [2021-03-20-爬取了2021Java招聘需求,发现这些都要懂!](https://sec.thief.one/article_content?a_id=bda6839fda509ecf0f3cb9d193d96f07) 

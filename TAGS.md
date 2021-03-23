@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-23 15:43:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 15:56:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -255,6 +255,7 @@
 
 
 
+- [【知乎日报】作为从业者，你对初入游戏行业的新人有哪些建议？](https://www.ershicimi.com/p/57e0214e66013c51f4efa198e2fd5dcb)
 - [【安全热点】英国医疗行业主管Twitter账户被入侵,用来宣传虚假游戏机广告](https://sec.thief.one/article_content?a_id=b7bf3228e23f148a0f9819178390cd81)
 - [【安全热点】【JS版】给52网站版抓猫游戏也开天劫](https://sec.thief.one/article_content?a_id=9330513eadc20046cb6d66027482b05b)
 - [【安全热点】《原神》1.5版本游戏信息大量泄漏](https://sec.thief.one/article_content?a_id=9a054994193c4afd470c75b34d0a8b26)
@@ -462,7 +463,6 @@
 - [【全栈前端精选】【全栈前端】学习打卡养成计划](https://www.ershicimi.com/p/71e28a140bb9ed2dca7cedbfe62f95ac)
 - [【V2EX】滴滴出行-北京、杭州、深圳、成都内推-前端/Android/iOS/-Java-/Go/C++/-Python-/算法/-PHP-/数据/产品/运营等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/764405)
 - [【开发者头条】译-ClickHouse-在日志存储与分析方面作为-ElasticSearch-和-MySQL-的替代方案](https://toutiao.io/k/cccopgf)
-- [【开发者头条】推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-23 21:04:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 21:08:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3064,6 +3064,8 @@
 - [2020-01-20-【图集】武汉每天76趟列车抵广州南-旅客少有戴口罩未见体温检测](http://m.photos.caixin.com/m/2020-01-20/101506484.html) 
 - [2020-01-16-日本公布一新型冠状病毒感染病例-患者去过武汉](http://m.china.caixin.com/m/2020-01-16/101506054.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://m.china.caixin.com/m/2020-01-11/101506220.html) 
+- [2021-03-23-全国｜新增确诊病例-9-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGhWk4ilt0wILJhU8H1ot210323&isfromapp=1) 
+- [2021-03-23-四川｜新增确诊病例-1-例](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2021/3/23/83159fd0ab9d485e85a170baf5096600.shtml) 
 - [2021-03-23-技术大佬们都是怎么学习的？](https://www.ershicimi.com/p/87c4c4f7db3c66aa639df0f4b82a703e) 
 - [2021-03-22-用造轮子的方式学Web协议，真香！](https://www.ershicimi.com/p/8cc12cd0770d5c0748518ccdddd7b8eb) 
 - [2021-03-20-字节跳动最高频的100道考题解析](https://www.ershicimi.com/p/46bd9dd990030ee331d48136fd2ee444) 

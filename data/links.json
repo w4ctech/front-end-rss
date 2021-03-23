@@ -17190,7 +17190,18 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "全国｜新增确诊病例 9 例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGhWk4ilt0wILJhU8H1ot210323&isfromapp=1",
+        "date": "2021-03-23"
+      },
+      {
+        "title": "四川｜新增确诊病例 1 例",
+        "link": "http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2021/3/23/83159fd0ab9d485e85a170baf5096600.shtml",
+        "date": "2021-03-23"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",

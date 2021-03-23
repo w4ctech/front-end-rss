@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-23 04:52:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 05:02:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -89,6 +89,7 @@
 - [2021-03-23-关于流水线化生产娱乐形视频的设想](https://www.v2ex.com/t/764195) 
 - [2021-03-23-咋现在阿-B-的-Java-视频一堆图灵学院的](https://www.v2ex.com/t/764179) 
 - [2021-03-23-又一大型直播-App-被捣毁，这个行业还是太赚钱了。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14230&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY2TjtLHK6w7ZVuzPHTwLNg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-23-5G-时代的直播，将带来怎样的低延迟体验](https://toutiao.io/k/mlbazvx) 
 - [2021-03-22-美国司法部起诉与大规模监控摄像头违规有关的黑客](https://sec.thief.one/article_content?a_id=4b8029df4ca5311e4a913a68e46c4084) 
 - [2021-03-22-【视频】|-Python:复制文件夹](https://sec.thief.one/article_content?a_id=91fe347686c356caaa278dd04c25b2ba) 
 - [2021-03-18-【视频】|-Python:路径讲解相对和绝对](https://sec.thief.one/article_content?a_id=fb1b61447015a52ddb45d0e87ff04759) 

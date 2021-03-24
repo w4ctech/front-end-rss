@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-24 11:54:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-24 12:08:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,7 +8,6 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-24-菜鸟问下使用-sandboxie-plus-时运行文件夹中的-start.exe-这个程序-但是出现-Usage:Start.exe<program-name>警告怎么解决？](https://www.v2ex.com/t/764770) 
 - [2021-03-24-Chrome-89-翻译功能-CPU-占用-100%](https://www.v2ex.com/t/764768) 
 - [2021-03-24-做了个-WIFI-的串口调试器](https://www.v2ex.com/t/764730) 

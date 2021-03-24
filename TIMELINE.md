@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-24 19:05:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-24 19:20:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -54,7 +54,7 @@
 <td>08月</td>
 <td>09月</td>
 <td>10月</td>
-<td>11月</td>
+<td><a href="#2019-11">11月</a></td>
 <td><a href="#2019-12">12月</a></td>
 </tr>
 
@@ -162,6 +162,42 @@
 - [【阮一峰的网络日志】2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) 
 - [【阮一峰的网络日志】2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html) 
 - [【阮一峰的网络日志】2021-03-05-科技爱好者周刊（第-148-期）：微增长时代](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html) 
+- [【V2EX】2021-03-24-说说我这几天折腾多拨的情况，我这是佛山，欢迎大家也来报告下](https://www.v2ex.com/t/764835) 
+- [【V2EX】2021-03-24-关于二维码，扫码和识别二维码有什么区别？](https://www.v2ex.com/t/764834) 
+- [【V2EX】2021-03-24-V2EX-区块链开发者交流群重新开放申请](https://www.v2ex.com/t/764833) 
+- [【V2EX】2021-03-24-项目-Grant-V2EX-区块链开发/运维交流群重新开放申请入驻](https://www.v2ex.com/t/764831) 
+- [【V2EX】2021-03-24-开源了，希望咱们做程序员的各位兄弟靠他多多赚钱，奥利给](https://www.v2ex.com/t/764830) 
+- [【V2EX】2021-03-24-上海/深圳-腾讯-PCG-招聘-前端-后端-算法-客户端大量-HC](https://www.v2ex.com/t/764829) 
+- [【V2EX】2021-03-24-上海电信精品网-CN2-网段变了](https://www.v2ex.com/t/764828) 
+- [【V2EX】2021-03-24-某宝的-Bartender4-激活码靠谱吗](https://www.v2ex.com/t/764827) 
+- [【V2EX】2021-03-24-macos-版本的微信-3.0，打开某红书，会出现暂不支持蓝牙功能，你们也会？](https://www.v2ex.com/t/764824) 
+- [【V2EX】2021-03-24-有比较低廉可靠的可以配合-Google-Voice-使用的美国实体电话卡推荐吗？](https://www.v2ex.com/t/764823) 
+- [【V2EX】2021-03-24-请问校招/实习的大数据笔试如何准备-求指点](https://www.v2ex.com/t/764821) 
+- [【V2EX】2021-03-24-请问-ip-地址忽然被-Google-识别成中国的了该怎么办？](https://www.v2ex.com/t/764820) 
+- [【V2EX】2021-03-24-请教-DigitalOcean-等-VPS-服务商的竞争优势](https://www.v2ex.com/t/764818) 
+- [【V2EX】2021-03-24-这个-vim-的箭头怎么去掉？](https://www.v2ex.com/t/764817) 
+- [【V2EX】2021-03-24-CabloyJS-4.6.0：支持明细表](https://www.v2ex.com/t/764816) 
+- [【V2EX】2021-03-24-谨慎选择使用七牛云，如此乱扣费陷害用户，这是个流氓公司吗？](https://www.v2ex.com/t/764815) 
+- [【V2EX】2021-03-24-北京-金融国企-成方金科央行-WLB-欢迎投递](https://www.v2ex.com/t/764814) 
+- [【V2EX】2021-03-24-WIN10-每次重启电脑后网络设置中就被自动改成手动-IP-地址是怎么回事？](https://www.v2ex.com/t/764813) 
+- [【V2EX】2021-03-24-抖音电商部门直推，业务飞速发展，大量招人，-base-北京、上海、杭州皆可](https://www.v2ex.com/t/764812) 
+- [【V2EX】2021-03-24-问下，国内大厂对自考学历卡的严重吗？](https://www.v2ex.com/t/764811) 
+- [【V2EX】2021-03-24-想做个小程序，做个调研先。](https://www.v2ex.com/t/764810) 
+- [【V2EX】2021-03-24-老板要求写一个公用的-rabbitmq-客户端给其他人用,-要求至少一次投递,-而且只能依赖-rabbitmq-自身,-想来想去这根本不可能实现啊](https://www.v2ex.com/t/764807) 
+- [【V2EX】2021-03-24-谁对区块链熟悉的,这个港股新股联易融咋样](https://www.v2ex.com/t/764804) 
+- [【V2EX】2021-03-24-突然想造个轮子。。。](https://www.v2ex.com/t/764803) 
+- [【V2EX】2021-03-24-五年-Android-开发，在杭州现在月薪多少算比较-OK-的？](https://www.v2ex.com/t/764802) 
+- [【V2EX】2021-03-24-一觉起来公司没了这种事还真让我碰见了，创业小公司业务不顺被收购，大部分人直接拿钱遣散，想问问老哥们怎么调整心态](https://www.v2ex.com/t/764798) 
+- [【V2EX】2021-03-24-太难了,-准备开发环境时大家有没有啥合规的加速方式](https://www.v2ex.com/t/764797) 
+- [【V2EX】2021-03-24-黑进房东的路由器，爱快系统的！怎么破解-50M-的限速](https://www.v2ex.com/t/764795) 
+- [【V2EX】2021-03-24-灵魂拷问之是否适合-Java-开发](https://www.v2ex.com/t/764794) 
+- [【V2EX】2021-03-24-面试官叫我手写-redux-thunk](https://www.v2ex.com/t/764793) 
+- [【V2EX】2021-03-24-我是微信-凹凸小区-创始人，想看看大家对这个产品的看法，说的越尖锐越好！大家有任何的意见建议都可以提出来我们一起讨论！](https://www.v2ex.com/t/764792) 
+- [【V2EX】2021-03-24-vue.js-和-vue,-node.js-和-node-是同一个东西么?](https://www.v2ex.com/t/764791) 
+- [【V2EX】2021-03-24-消息分发-广播的问题](https://www.v2ex.com/t/764790) 
+- [【V2EX】2021-03-24-安利一个-macOS-上一个不错的搜索工具-「HapiGo」](https://www.v2ex.com/t/764789) 
+- [【V2EX】2021-03-24-Android-System-WebView-和-Google-Chrome-無法更新](https://www.v2ex.com/t/764787) 
+- [【V2EX】2021-03-24-村网通？在当前用户目录下，新建一个文件夹，命名为`Developer`，文件夹上会出现一个锤子](https://www.v2ex.com/t/764786) 
 - [【安全热点】2021-03-24-【技术分享】明查OS实现UAC验证全流程—三个进程间的＂情爱＂2](https://sec.thief.one/article_content?a_id=5efcfd8ad284ff1febfc598770af8f93) 
 - [【安全热点】2021-03-24-Windows用户注意!“紫狐”恶意软件来袭](https://sec.thief.one/article_content?a_id=1df9edadebaf4e930931c7a394e73036) 
 - [【安全热点】2021-03-24-i春秋校园大使招募中,寻找勇于挑战的你!](https://sec.thief.one/article_content?a_id=64402f166876b8e9cbdc440a1adc2524) 
@@ -262,6 +298,26 @@
 - [【安全热点】2021-03-21-PC巨头宏碁遭勒索,赎金高达3.25亿](https://sec.thief.one/article_content?a_id=3ab472c1ddfab6c3f4e69db549d6242f) 
 - [【安全热点】2021-03-21-推荐一款非常实用的HW小神器](https://sec.thief.one/article_content?a_id=13266f2b054b7f685ee0c364cc5ae457) 
 - [【安全热点】2021-03-21-圆满收官|绿盟科技完成全国“两会”重保工作](https://sec.thief.one/article_content?a_id=38f7dfa81200da4a4c28feb3978eb2b3) 
+- [【物联网智库】2021-03-20-小米/华为/OPPO......能否将5G消息作为布局物联网的一条主线？](https://www.ershicimi.com/p/e57f55483678c6dc36d4ee61d635dba6) 
+- [【物联网智库】2021-03-20-华为缺货真相调查：走遍北京线下门店，从有钱难买到坐地起价](https://www.ershicimi.com/p/c9d1c245c0e67bb41754a9041410ab0c) 
+- [【物联网智库】2021-03-19-昨夜，涂鸦智能登陆纽交所！蛰伏7年成全球IoT云平台第一股](https://www.ershicimi.com/p/48e49e981c7976651db36ae9fb3d5e8e) 
+- [【物联网智库】2021-03-19-关于智慧城市，我来说点能听懂的……](https://www.ershicimi.com/p/891231e8c5251431bd8dfc1caaf7916f) 
+- [【物联网智库】2021-03-19-电子商务大行其道，物联网如何赋能物流仓储？](https://www.ershicimi.com/p/22e168a759eba83c01aad861d7967dbd) 
+- [【物联网智库】2021-03-18-字节跳动重磅进军芯片产业，是“故事新编”还是“掌握未来”？](https://www.ershicimi.com/p/a92476847b8eb90e14dfe2ab2100ef1d) 
+- [【物联网智库】2021-03-18-美格智能发布高性价比5G智能算力模组-端侧智能AI设备最佳解决方案](https://www.ershicimi.com/p/003be5d7adf220538c27dc18da55b263) 
+- [【物联网智库】2021-03-18-【今晚19:30开播】68%的物联网数据被“废弃”？如何挖掘价值](https://www.ershicimi.com/p/3701f3683e14b8a69c93f90c52b78649) 
+- [【物联网智库】2021-03-18-6G技术长啥样？5大趋势，13个核心技术2030年落地](https://www.ershicimi.com/p/2111983051fe68ea2c949b4d5613904a) 
+- [【物联网智库】2021-03-17-终于！华为官宣开始收5G专利费，苹果三星都得交钱……](https://www.ershicimi.com/p/bdda4a33e106e1634e454f6205a90995) 
+- [【物联网智库】2021-03-17-【直播报名/倒计时1天】68%的物联网数据被“废弃”？如何挖掘价值](https://www.ershicimi.com/p/1efd5b84aa2db2652fc53240be0edc3b) 
+- [【物联网智库】2021-03-17-时隔一年，再聊Open-RAN](https://www.ershicimi.com/p/a0706a3fe9bb99eaed90ecc5a64375ea) 
+- [【物联网智库】2021-03-16-点亮啤酒饮料行业首座“灯塔”，卡奥斯开启“灯塔工厂”跨行业赋能新篇章](https://www.ershicimi.com/p/96bce75df1ee800c595d15b8904ac53f) 
+- [【物联网智库】2021-03-16-物联网在酒店卫生监管中小试牛刀，低成本、高可靠技术“小材大用”打开庞大市场](https://www.ershicimi.com/p/4779143d3b47f452e1bd2c5f0dbfa859) 
+- [【物联网智库】2021-03-16-微软、IBM们的中国研究院是怎样一步步“躺平”的？](https://www.ershicimi.com/p/3cad280dbffa8273cce06866a2518fb0) 
+- [【物联网智库】2021-03-15-央视315起底，这些企业急了：偷人脸的摄像头，UC、360搜索乱象不止，特斯拉凭什么没上？](https://www.ershicimi.com/p/05c7421c098d03e389163b323ce193c7) 
+- [【物联网智库】2021-03-15-【直播报名】68%的物联网数据被“废弃”？如何挖掘价值](https://www.ershicimi.com/p/9d679b4bdecb215135a44ac818517807) 
+- [【物联网智库】2021-03-15-​中科院官宣：光刻机跌落神坛？](https://www.ershicimi.com/p/de3f9ca25fe469a1b97edc12f8d98a4b) 
+- [【物联网智库】2021-03-14-“特斯拉回应海南碰撞事故”登热搜，网友：充电怪国网，刹车怨地滑，特斯拉怎么会有错呢？](https://www.ershicimi.com/p/bb62235c2e755001ca0009c4f952807a) 
+- [【物联网智库】2021-03-14-初探5G工业互联网的制胜之道：OICT跨界融合](https://www.ershicimi.com/p/88c86f72d42b1888769555744b171b0c) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -3759,6 +3815,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-01-03-防新冠肺炎扩散-港府每日公布监察数据](http://m.china.caixin.com/m/2020-01-03/101506090.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-01-02-新冠肺炎患者受何病毒感染引关注-各地加强预警](http://m.china.caixin.com/m/2020-01-02/101506091.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-01-01-肺炎疫情阴影下，武汉华南海鲜批发市场休市整治](http://m.china.caixin.com/m/2020-01-01/101506092.html) 
+- [【前端艺术家&&飞冰早报】2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) 
+- [【前端艺术家&&飞冰早报】2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
+- [【前端艺术家&&飞冰早报】2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
+- [【前端艺术家&&飞冰早报】2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -3771,6 +3831,42 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】2019-12-31-武汉发现不明原因肺炎-当地一海鲜市场消毒（更新）](http://m.china.caixin.com/m/2019-12-31/101506094.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2019-12-31-武汉通报27例病毒性肺炎疫情-病原检测正在进行](http://m.china.caixin.com/m/2019-12-31/101506093.html) 
+- [【前端艺术家&&飞冰早报】2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) 
+- [【前端艺术家&&飞冰早报】2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [【前端艺术家&&飞冰早报】2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) 
+- [【前端艺术家&&飞冰早报】2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
+- [【前端艺术家&&飞冰早报】2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
+- [【前端艺术家&&飞冰早报】2019-12-16-以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3) 
+- [【前端艺术家&&飞冰早报】2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
+- [【前端艺术家&&飞冰早报】2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
+- [【前端艺术家&&飞冰早报】2019-12-09-9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320) 
+- [【前端艺术家&&飞冰早报】2019-12-09-图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648) 
+- [【前端艺术家&&飞冰早报】2019-12-06-微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796) 
+- [【前端艺术家&&飞冰早报】2019-12-06-解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598) 
+- [【前端艺术家&&飞冰早报】2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
+- [【前端艺术家&&飞冰早报】2019-12-05-crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221) 
+- [【前端艺术家&&飞冰早报】2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) 
+- [【前端艺术家&&飞冰早报】2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [【前端艺术家&&飞冰早报】2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 
+- [【前端艺术家&&飞冰早报】2019-12-04-EHTML:-HTML-Framework-that-allows-you-write-no-JavaScript-code-at-all.](https://guseyn.com/posts/frontend-development-can-and-should-be-simple?v=1.0.173) 
+- [【前端艺术家&&飞冰早报】2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
+- [【前端艺术家&&飞冰早报】2019-12-03-从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f) 
+- [【前端艺术家&&飞冰早报】2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [【前端艺术家&&飞冰早报】2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
+- [【前端艺术家&&飞冰早报】2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-11">
+ 2019-11
+</summary>
+
+
+- [【前端艺术家&&飞冰早报】2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
+- [【前端艺术家&&飞冰早报】2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
+- [【前端艺术家&&飞冰早报】2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

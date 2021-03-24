@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-03-24 04:35:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-24 04:50:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-24-给团队招一名-Java-外包工程师-，不知道能不能招到](https://www.v2ex.com/t/764604) 
 - [2021-03-24-美团-北京-团队直招-Java-高级研发工程师&架构师-急缺](https://www.v2ex.com/t/764603) 
 - [2021-03-24-大数据也太吓人了吧](https://www.v2ex.com/t/764602) 
 - [2021-03-24-PHP-全栈工程师-14-28K·13-薪](https://www.v2ex.com/t/764601) 
@@ -38,4 +39,3 @@
 - [2021-03-24-SwiftUI-代码库之-10-使用不同暗明主题-@Environment](https://www.v2ex.com/t/764558) 
 - [2021-03-24-西安腾讯云计算研发公司大量-HC-开放，持续招聘长期有效](https://www.v2ex.com/t/764557) 
 - [2021-03-24-apache-commons-codecProblem-with-the-BinaryCodec-class](https://www.v2ex.com/t/764556) 
-- [2021-03-24-美团-金融服务平台-base-北京，非常缺人，欢迎加入](https://www.v2ex.com/t/764554) 

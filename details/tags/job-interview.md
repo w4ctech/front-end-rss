@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-24 09:23:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-24 09:39:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -30,6 +30,7 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-03-24-2021-年-338-道架构技术面试大厂高频题汇总（附答案详解）](https://www.ershicimi.com/p/2e83b1fa936043ec308ec24c0a4f16a6) 
 - [2021-03-19-2021-最新-Java-面试题出炉！（带全部答案）](https://www.ershicimi.com/p/129f450c29439fc7a86888e266c61a13) 
+- [2021-03-24-A-轮-BitMart-数字货币交易所-招聘-后端-/-产品-/-前端-/-区块链-工程师](https://www.v2ex.com/t/764731) 
 - [2021-03-24-美团优选大数据开发岗面试真题（附答案详细解析）](https://toutiao.io/k/39cgzvi) 
-- [2021-03-24-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) 
+- [2021-03-24-推荐-面试官问：“在项目中用过多线程吗？”-你就把这个案例讲给他听](https://toutiao.io/k/tgp1ua8) 
 - [2021-03-20-爬取了2021Java招聘需求,发现这些都要懂!](https://sec.thief.one/article_content?a_id=bda6839fda509ecf0f3cb9d193d96f07) 

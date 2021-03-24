@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-03-24 18:08:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-24 18:23:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-24-关于二维码，扫码和识别二维码有什么区别？](https://www.v2ex.com/t/764834) 
 - [2021-03-24-V2EX-区块链开发者交流群重新开放申请](https://www.v2ex.com/t/764833) 
 - [2021-03-24-项目-Grant-V2EX-区块链开发/运维交流群重新开放申请入驻](https://www.v2ex.com/t/764831) 
 - [2021-03-24-开源了，希望咱们做程序员的各位兄弟靠他多多赚钱，奥利给](https://www.v2ex.com/t/764830) 
@@ -39,4 +40,3 @@
 - [2021-03-24-安利一个-macOS-上一个不错的搜索工具-「HapiGo」](https://www.v2ex.com/t/764789) 
 - [2021-03-24-Android-System-WebView-和-Google-Chrome-無法更新](https://www.v2ex.com/t/764787) 
 - [2021-03-24-村网通？在当前用户目录下，新建一个文件夹，命名为`Developer`，文件夹上会出现一个锤子](https://www.v2ex.com/t/764786) 
-- [2021-03-24-四年前端-offer-选择求建议](https://www.v2ex.com/t/764784) 

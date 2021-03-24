@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-24 18:08:32，:rocket: 更新条数: +213， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-24 18:23:46，:rocket: 更新条数: +178， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)  
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-03-24-关于二维码，扫码和识别二维码有什么区别？](https://www.v2ex.com/t/764834) ![](assets/new.png)  
 - [2021-03-24-V2EX-区块链开发者交流群重新开放申请](https://www.v2ex.com/t/764833) ![](assets/new.png)  
 - [2021-03-24-项目-Grant-V2EX-区块链开发/运维交流群重新开放申请入驻](https://www.v2ex.com/t/764831) ![](assets/new.png)  
 - [2021-03-24-开源了，希望咱们做程序员的各位兄弟靠他多多赚钱，奥利给](https://www.v2ex.com/t/764830) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-03-24-抖音电商部门直推，业务飞速发展，大量招人，-base-北京、上海、杭州皆可](https://www.v2ex.com/t/764812) ![](assets/new.png)  
 - [2021-03-24-问下，国内大厂对自考学历卡的严重吗？](https://www.v2ex.com/t/764811) ![](assets/new.png)  
 - [2021-03-24-想做个小程序，做个调研先。](https://www.v2ex.com/t/764810) ![](assets/new.png)  
-- [2021-03-24-老板要求写一个公用的-rabbitmq-客户端给其他人用,-要求至少一次投递,-而且只能依赖-rabbitmq-自身,-想来想去这根本不可能实现啊](https://www.v2ex.com/t/764807) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -536,26 +536,6 @@
 </summary>
 
 
-- [2021-03-24-资料-|-英语进阶指南](https://toutiao.io/k/4yqc5t5) ![](assets/new.png)  
-- [2021-03-24-优质网站同好者周刊（第-5-期）](https://toutiao.io/k/ubsth9i) ![](assets/new.png)  
-- [2021-03-24-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
-- [2021-03-24-卧槽，线上数据删错了，差点被老板开除](https://toutiao.io/k/exd77nu) ![](assets/new.png)  
-- [2021-03-24-写给开发人员的实用密码学：非对称加密算法](https://toutiao.io/k/ajk71ed) ![](assets/new.png)  
-- [2021-03-24-Java-线程的那些状态们](https://toutiao.io/k/fhks4c3) ![](assets/new.png)  
-- [2021-03-24-详解低延时高音质：声音的美化与空间音效篇](https://toutiao.io/k/inp5dpc) ![](assets/new.png)  
-- [2021-03-24-优雅停机之主动从-Nacos-下线实例](https://toutiao.io/k/5reyhwy) ![](assets/new.png)  
-- [2021-03-24-高性能服务之优雅终止](https://toutiao.io/k/gm348vn) ![](assets/new.png)  
-- [2021-03-24-白话讲解，拜占庭将军问题](https://toutiao.io/k/82gvxkh) ![](assets/new.png)  
-- [2021-03-24-黑科技：基于-Arduino-和-Zabbix-实现温湿度监控告警](https://toutiao.io/k/6h32ko4) ![](assets/new.png)  
-- [2021-03-24-Canal-高可用架构部署](https://toutiao.io/k/z58kt8e) ![](assets/new.png)  
-- [2021-03-24-Rust-异步库：Tokio-的一些资源限制](https://toutiao.io/k/ff1sw3m) ![](assets/new.png)  
-- [2021-03-24-Spring-Cloud-2020：Hystrix-不生效怪我咯](https://toutiao.io/k/1wxmmcs) ![](assets/new.png)  
-- [2021-03-24-美团优选大数据开发岗面试真题（附答案详细解析）](https://toutiao.io/k/39cgzvi) ![](assets/new.png)  
-- [2021-03-24-问题排查：客户端突如其来的-“白屏”-等待](https://toutiao.io/k/nib2cpr) ![](assets/new.png)  
-- [2021-03-24-本地-Docker-安装-Postgres-12-+-pgadmin-（支持-Apple-M1](https://toutiao.io/k/w0frawj) ![](assets/new.png)  
-- [2021-03-24-动手造轮子：实现一个简单的基于-Console-的日志输出](https://toutiao.io/k/q5hkkby) ![](assets/new.png)  
-- [2021-03-24-Kyuubi-与-Spark-Thrift-Server-的全面对比分析](https://toutiao.io/k/i0bzw8q) ![](assets/new.png)  
-- [2021-03-24-中标麒麟系统-Ansible-执行-yum-模块报错的问题分析](https://toutiao.io/k/dkeq4ff) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

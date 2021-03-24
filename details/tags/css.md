@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-24 14:49:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-24 15:04:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -7,7 +7,6 @@
 
 
 
-- [2021-03-14-奇思妙想-CSS-文字动画](https://www.ershicimi.com/p/a6d301b266223d57832c1165bbdaa43c) 
 - [2021-03-14-CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/) 
 - [2021-02-18-使用CSS-text-combine-upright实现字符的横向合并](https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/) 
 - [2021-02-18-CSS-line-break属性与中文标点换行](https://www.zhangxinxu.com/wordpress/2021/02/css-line-break/) 

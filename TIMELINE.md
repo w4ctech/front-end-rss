@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-24 17:53:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-24 18:08:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -22,6 +22,42 @@
 <td>12月</td>
 </tr>
 
+<tr>
+<th colspan="12">2020年</th>
+</tr>
+<tr>
+<td><a href="#2020-01">01月</a></td>
+<td>02月</td>
+<td>03月</td>
+<td>04月</td>
+<td>05月</td>
+<td>06月</td>
+<td>07月</td>
+<td>08月</td>
+<td>09月</td>
+<td>10月</td>
+<td>11月</td>
+<td>12月</td>
+</tr>
+
+<tr>
+<th colspan="12">2019年</th>
+</tr>
+<tr>
+<td>01月</td>
+<td>02月</td>
+<td>03月</td>
+<td>04月</td>
+<td>05月</td>
+<td>06月</td>
+<td>07月</td>
+<td>08月</td>
+<td>09月</td>
+<td>10月</td>
+<td><a href="#2019-11">11月</a></td>
+<td><a href="#2019-12">12月</a></td>
+</tr>
+
 </table>
 
 ## 文章链接
@@ -37,7 +73,7 @@
 - [【阮一峰的网络日志】2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) 
 - [【阮一峰的网络日志】2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html) 
 - [【阮一峰的网络日志】2021-03-05-科技爱好者周刊（第-148-期）：微增长时代](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html) 
-- [【V2EX】2021-03-24-今晚的热搜好好玩。顺便分享个字母哥](https://www.v2ex.com/t/764832) 
+- [【V2EX】2021-03-24-V2EX-区块链开发者交流群重新开放申请](https://www.v2ex.com/t/764833) 
 - [【V2EX】2021-03-24-项目-Grant-V2EX-区块链开发/运维交流群重新开放申请入驻](https://www.v2ex.com/t/764831) 
 - [【V2EX】2021-03-24-开源了，希望咱们做程序员的各位兄弟靠他多多赚钱，奥利给](https://www.v2ex.com/t/764830) 
 - [【V2EX】2021-03-24-上海/深圳-腾讯-PCG-招聘-前端-后端-算法-客户端大量-HC](https://www.v2ex.com/t/764829) 
@@ -72,7 +108,41 @@
 - [【V2EX】2021-03-24-Android-System-WebView-和-Google-Chrome-無法更新](https://www.v2ex.com/t/764787) 
 - [【V2EX】2021-03-24-村网通？在当前用户目录下，新建一个文件夹，命名为`Developer`，文件夹上会出现一个锤子](https://www.v2ex.com/t/764786) 
 - [【V2EX】2021-03-24-四年前端-offer-选择求建议](https://www.v2ex.com/t/764784) 
-- [【V2EX】2021-03-24-请教一个算法题，来自自己玩游戏时的疑惑。](https://www.v2ex.com/t/764783) 
+- [【开发者头条】2021-03-24-资料-|-英语进阶指南](https://toutiao.io/k/4yqc5t5) 
+- [【开发者头条】2021-03-24-优质网站同好者周刊（第-5-期）](https://toutiao.io/k/ubsth9i) 
+- [【开发者头条】2021-03-24-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) 
+- [【开发者头条】2021-03-24-卧槽，线上数据删错了，差点被老板开除](https://toutiao.io/k/exd77nu) 
+- [【开发者头条】2021-03-24-写给开发人员的实用密码学：非对称加密算法](https://toutiao.io/k/ajk71ed) 
+- [【开发者头条】2021-03-24-Java-线程的那些状态们](https://toutiao.io/k/fhks4c3) 
+- [【开发者头条】2021-03-24-详解低延时高音质：声音的美化与空间音效篇](https://toutiao.io/k/inp5dpc) 
+- [【开发者头条】2021-03-24-优雅停机之主动从-Nacos-下线实例](https://toutiao.io/k/5reyhwy) 
+- [【开发者头条】2021-03-24-高性能服务之优雅终止](https://toutiao.io/k/gm348vn) 
+- [【开发者头条】2021-03-24-白话讲解，拜占庭将军问题](https://toutiao.io/k/82gvxkh) 
+- [【开发者头条】2021-03-24-黑科技：基于-Arduino-和-Zabbix-实现温湿度监控告警](https://toutiao.io/k/6h32ko4) 
+- [【开发者头条】2021-03-24-Canal-高可用架构部署](https://toutiao.io/k/z58kt8e) 
+- [【开发者头条】2021-03-24-Rust-异步库：Tokio-的一些资源限制](https://toutiao.io/k/ff1sw3m) 
+- [【开发者头条】2021-03-24-Spring-Cloud-2020：Hystrix-不生效怪我咯](https://toutiao.io/k/1wxmmcs) 
+- [【开发者头条】2021-03-24-美团优选大数据开发岗面试真题（附答案详细解析）](https://toutiao.io/k/39cgzvi) 
+- [【开发者头条】2021-03-24-问题排查：客户端突如其来的-“白屏”-等待](https://toutiao.io/k/nib2cpr) 
+- [【开发者头条】2021-03-24-本地-Docker-安装-Postgres-12-+-pgadmin-（支持-Apple-M1](https://toutiao.io/k/w0frawj) 
+- [【开发者头条】2021-03-24-动手造轮子：实现一个简单的基于-Console-的日志输出](https://toutiao.io/k/q5hkkby) 
+- [【开发者头条】2021-03-24-Kyuubi-与-Spark-Thrift-Server-的全面对比分析](https://toutiao.io/k/i0bzw8q) 
+- [【开发者头条】2021-03-24-中标麒麟系统-Ansible-执行-yum-模块报错的问题分析](https://toutiao.io/k/dkeq4ff) 
+- [【开发者头条】2021-03-24-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) 
+- [【开发者头条】2021-03-24-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) 
+- [【开发者头条】2021-03-24-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) 
+- [【开发者头条】2021-03-24-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) 
+- [【开发者头条】2021-03-24-推荐-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) 
+- [【开发者头条】2021-03-24-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) 
+- [【开发者头条】2021-03-24-推荐-吃透-MQ](https://toutiao.io/k/vzx2ky5) 
+- [【开发者头条】2021-03-24-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) 
+- [【开发者头条】2021-03-24-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) 
+- [【开发者头条】2021-03-24-推荐-如何写出高质量的技术文章？](https://toutiao.io/k/ozl31qb) 
+- [【开发者头条】2021-03-24-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) 
+- [【开发者头条】2021-03-24-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) 
+- [【开发者头条】2021-03-24-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) 
+- [【开发者头条】2021-03-24-推荐-Go-工程化（九）：项目重构实践](https://toutiao.io/k/et0t2lk) 
+- [【开发者头条】2021-03-24-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) 
 - [【安全热点】2021-03-24-【技术分享】明查OS实现UAC验证全流程—三个进程间的＂情爱＂2](https://sec.thief.one/article_content?a_id=5efcfd8ad284ff1febfc598770af8f93) 
 - [【安全热点】2021-03-24-Windows用户注意!“紫狐”恶意软件来袭](https://sec.thief.one/article_content?a_id=1df9edadebaf4e930931c7a394e73036) 
 - [【安全热点】2021-03-24-i春秋校园大使招募中,寻找勇于挑战的你!](https://sec.thief.one/article_content?a_id=64402f166876b8e9cbdc440a1adc2524) 
@@ -191,6 +261,66 @@
 - [【张鑫旭-鑫空间-鑫生活】2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-02-14-直线等图形从中间穿过元素或文字的CSS实现](https://www.zhangxinxu.com/wordpress/2021/02/css-3d-through/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2020-01">
+ 2020-01
+</summary>
+
+
+- [【前端艺术家&&飞冰早报】2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) 
+- [【前端艺术家&&飞冰早报】2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
+- [【前端艺术家&&飞冰早报】2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
+- [【前端艺术家&&飞冰早报】2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-12">
+ 2019-12
+</summary>
+
+
+- [【前端艺术家&&飞冰早报】2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) 
+- [【前端艺术家&&飞冰早报】2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [【前端艺术家&&飞冰早报】2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) 
+- [【前端艺术家&&飞冰早报】2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
+- [【前端艺术家&&飞冰早报】2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
+- [【前端艺术家&&飞冰早报】2019-12-16-以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3) 
+- [【前端艺术家&&飞冰早报】2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
+- [【前端艺术家&&飞冰早报】2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
+- [【前端艺术家&&飞冰早报】2019-12-09-9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320) 
+- [【前端艺术家&&飞冰早报】2019-12-09-图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648) 
+- [【前端艺术家&&飞冰早报】2019-12-06-微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796) 
+- [【前端艺术家&&飞冰早报】2019-12-06-解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598) 
+- [【前端艺术家&&飞冰早报】2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
+- [【前端艺术家&&飞冰早报】2019-12-05-crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221) 
+- [【前端艺术家&&飞冰早报】2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) 
+- [【前端艺术家&&飞冰早报】2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [【前端艺术家&&飞冰早报】2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 
+- [【前端艺术家&&飞冰早报】2019-12-04-EHTML:-HTML-Framework-that-allows-you-write-no-JavaScript-code-at-all.](https://guseyn.com/posts/frontend-development-can-and-should-be-simple?v=1.0.173) 
+- [【前端艺术家&&飞冰早报】2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
+- [【前端艺术家&&飞冰早报】2019-12-03-从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f) 
+- [【前端艺术家&&飞冰早报】2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [【前端艺术家&&飞冰早报】2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
+- [【前端艺术家&&飞冰早报】2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-11">
+ 2019-11
+</summary>
+
+
+- [【前端艺术家&&飞冰早报】2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
+- [【前端艺术家&&飞冰早报】2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
+- [【前端艺术家&&飞冰早报】2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

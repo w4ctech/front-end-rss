@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-24 06:19:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-24 06:35:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -14,11 +14,6 @@
 - [2021-03-10-阿里宣布扩招！最新内部面试题已脱敏](https://www.ershicimi.com/p/986cac34636cf0fe805a1abe7e08b23d) 
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
-- [2020-12-24-刚刚面试，我被拒了！](https://www.ershicimi.com/p/198caef8c48b12715abee1b4ca9f4571) 
-- [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
-- [2021-03-24-2021-年-338-道架构技术面试大厂高频题汇总（附答案详解）](https://www.ershicimi.com/p/2e83b1fa936043ec308ec24c0a4f16a6) 
-- [2021-03-19-2021-最新-Java-面试题出炉！（带全部答案）](https://www.ershicimi.com/p/129f450c29439fc7a86888e266c61a13) 
 - [2021-03-24-北京/深圳-快手支付中台大量招聘！-Java-后端/前端/测试](https://www.v2ex.com/t/764609) 
 - [2021-03-24-帝都-有没有在博彦科技微软事业部面试过的小伙伴？](https://www.v2ex.com/t/764607) 
-- [2021-03-24-高频题-面试经典题目刷题笔记，一周两更](https://www.v2ex.com/t/764589) 
 - [2021-03-20-爬取了2021Java招聘需求,发现这些都要懂!](https://sec.thief.one/article_content?a_id=bda6839fda509ecf0f3cb9d193d96f07) 

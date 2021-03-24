@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-24 16:05:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-24 16:19:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -32,6 +32,22 @@
 - [2020-01-23-世卫组织：对是否宣布为“国际公共卫生紧急事件”存在分歧](https://m.caixin.com/m/2020-01-23/101507521.html) 
 - [2020-01-22-如何解读WHO“国际公共卫生紧急事件”](http://m.china.caixin.com/m/2020-01-22/101507340.html) 
 - [2020-01-22-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
+- [2021-03-22-【第2233期】Javascript权威指南：迭代器和生成器](https://www.ershicimi.com/p/595720f87218226f8d6aa8e76220391f) 
+- [2021-03-22-【图书】JavaScript权威指南第7版](https://www.ershicimi.com/p/94e899c34c9587effafda212e9f613fa) 
+- [2021-03-18-【第2229期】百度前端工程化之H5性能优化篇](https://www.ershicimi.com/p/089f432672b4dc5866d93743adf7f40f) 
+- [2021-03-21-JS犀牛书-中文版-第7版强势回归！免费送10本](https://www.ershicimi.com/p/751a13c3e2ec493ff3f44912f8aee212) 
+- [2021-03-19-2020-年的-JavaScript-后起之秀](https://www.ershicimi.com/p/7d90f61b2b6815bc245bc3bb6f70d986) 
+- [2021-03-18-慎用JSON.stringify](https://www.ershicimi.com/p/33017636536ab238b3941c34f8640f5c) 
+- [2021-03-10-靠，神了！居然能通过-DOM-来改变-JS！](https://www.ershicimi.com/p/408eca3e8028dd94e00696e122a43025) 
+- [2021-03-05-这个异步问题你肯定遇到过，但是会解决的并不多](https://www.ershicimi.com/p/f57b3d1ec8f481307e3de355af5edd67) 
+- [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
+- [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
+- [2021-03-12-常用的前端JavaScript方法封装](https://www.ershicimi.com/p/d75204d75133600ed4f3c67ab7bb76cf) 
+- [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
+- [2021-03-24-【重磅】送20本最新第7版JS-犀牛书](https://www.ershicimi.com/p/e952039a615f4d0743d3f3896c4203b1) 
+- [2021-03-20-JS犀牛书-中文版-第7版强势回归！包邮送书+红包](https://www.ershicimi.com/p/763310801d581183be0947519a24ff54) 
+- [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
+- [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

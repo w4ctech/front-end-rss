@@ -20176,6 +20176,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "消极怠工，在被开除的边缘疯狂试探",
+        "link": "https://www.v2ex.com/t/764839",
+        "date": "2021-03-24"
+      },
+      {
         "title": "在整高德导航的快捷指令时遇到的问题",
         "link": "https://www.v2ex.com/t/764837",
         "date": "2021-03-24"
@@ -20343,11 +20348,6 @@
       {
         "title": "消息分发 广播的问题",
         "link": "https://www.v2ex.com/t/764790",
-        "date": "2021-03-24"
-      },
-      {
-        "title": "安利一个 macOS 上一个不错的搜索工具 「HapiGo」",
-        "link": "https://www.v2ex.com/t/764789",
         "date": "2021-03-24"
       }
     ]
@@ -20565,23 +20565,13 @@
         "date": "2021-03-24"
       },
       {
-        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
-        "link": "https://toutiao.io/k/mzszqf0",
+        "title": "[推荐] Java 工程师核心书单，阿里大佬看了都说好",
+        "link": "https://toutiao.io/k/5apgnxp",
         "date": "2021-03-24"
       },
       {
         "title": "[推荐] 21 大软件架构特点的全面解析",
         "link": "https://toutiao.io/k/2n0entj",
-        "date": "2021-03-24"
-      },
-      {
-        "title": "[推荐] 面试被吊打：Redis 原理",
-        "link": "https://toutiao.io/k/pmxukkm",
-        "date": "2021-03-24"
-      },
-      {
-        "title": "[推荐] 不懂什么是云原生？看完这篇文章就够了！",
-        "link": "https://toutiao.io/k/ghs0i7r",
         "date": "2021-03-24"
       },
       {
@@ -20595,13 +20585,8 @@
         "date": "2021-03-24"
       },
       {
-        "title": "[推荐] Go 工程化（九）：项目重构实践",
-        "link": "https://toutiao.io/k/et0t2lk",
-        "date": "2021-03-24"
-      },
-      {
-        "title": "[推荐] 架构实践全景图",
-        "link": "https://toutiao.io/k/nu45i3g",
+        "title": "[推荐] 面试被吊打：Redis 原理",
+        "link": "https://toutiao.io/k/pmxukkm",
         "date": "2021-03-24"
       },
       {
@@ -20610,23 +20595,23 @@
         "date": "2021-03-24"
       },
       {
-        "title": "[推荐] Redis 教程：Redis 知识体系详解",
-        "link": "https://toutiao.io/k/av396i0",
-        "date": "2021-03-24"
-      },
-      {
         "title": "[推荐] 2021 有哪些不容错过的后端技术趋势",
         "link": "https://toutiao.io/k/e3lq37o",
         "date": "2021-03-24"
       },
       {
-        "title": "[推荐] 如何写出高质量的技术文章？",
-        "link": "https://toutiao.io/k/ozl31qb",
+        "title": "[推荐] Go 工程化（九）：项目重构实践",
+        "link": "https://toutiao.io/k/et0t2lk",
         "date": "2021-03-24"
       },
       {
-        "title": "[推荐] 算法面试套路知多少",
-        "link": "https://toutiao.io/k/yl7s9sl",
+        "title": "[推荐] TCP/IP 常见攻击手段",
+        "link": "https://toutiao.io/k/gqpcukq",
+        "date": "2021-03-24"
+      },
+      {
+        "title": "[推荐] [译] 新老手必备的 34 种 JavaScript 简写优化技术",
+        "link": "https://toutiao.io/k/jdslwhk",
         "date": "2021-03-24"
       },
       {
@@ -20635,8 +20620,23 @@
         "date": "2021-03-24"
       },
       {
-        "title": "[推荐] [译] 新老手必备的 34 种 JavaScript 简写优化技术",
-        "link": "https://toutiao.io/k/jdslwhk",
+        "title": "[推荐] 算法面试套路知多少",
+        "link": "https://toutiao.io/k/yl7s9sl",
+        "date": "2021-03-24"
+      },
+      {
+        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
+        "link": "https://toutiao.io/k/mzszqf0",
+        "date": "2021-03-24"
+      },
+      {
+        "title": "[推荐] 架构实践全景图",
+        "link": "https://toutiao.io/k/nu45i3g",
+        "date": "2021-03-24"
+      },
+      {
+        "title": "[推荐] Redis 不是一直号称单线程效率也很高吗，为什么又采用多线程了？",
+        "link": "https://toutiao.io/k/vsxwjpf",
         "date": "2021-03-24"
       }
     ]

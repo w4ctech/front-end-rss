@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-24 16:35:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-24 16:51:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,8 +8,6 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2021-03-24-Android-System-WebView-和-Google-Chrome-無法更新](https://www.v2ex.com/t/764787) 
 - [2021-03-24-首个IETF国密标准正式发布,加速国密算法应用进程](https://sec.thief.one/article_content?a_id=78056ae5a61ed67714a48c0f47674b32) 
 - [2021-03-24-网络安全厂商Fiserv的电子邮件域名居然没有注册](https://sec.thief.one/article_content?a_id=2a0e075b022ad2d313d33bfc6c102ab3) 
 - [2021-03-23-【安全圈】跳转时信息竟被获取!火狐浏览器决定更新隐私策略](https://sec.thief.one/article_content?a_id=b0ae7a52a5613723a702952ae836d421) 

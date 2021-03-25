@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-25 12:03:24，:rocket: 更新条数: +4182， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-25 12:24:14，:rocket: 更新条数: +4181， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-03-25-k8s-怎么样啊能干到-35-不](https://www.v2ex.com/t/765169) ![](assets/new.png)  
+- [2021-03-25-考\研如何准备那个无法-描\述的科目，直接刷近-10-年选择题行么？能不能摸索出规律以及如何有效防止人-脑过拟合？](https://www.v2ex.com/t/765167) ![](assets/new.png)  
+- [2021-03-25-EventBus-能在-PC-上用吗？有没有示例](https://www.v2ex.com/t/765165) ![](assets/new.png)  
 - [2021-03-25-有用-r2s-的大佬吗？装的-klever-1988-编译的固件，可以在-usb-接口处插-wifi-发射器吗？](https://www.v2ex.com/t/765163) ![](assets/new.png)  
 - [2021-03-25-有大佬知道这个怎么改回去吗，不知道怎么操作的](https://www.v2ex.com/t/765162) ![](assets/new.png)  
 - [2021-03-25-Java-框架学习求助](https://www.v2ex.com/t/765161) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-03-25-多吉搜索-502-了？！](https://www.v2ex.com/t/765144) ![](assets/new.png)  
 - [2021-03-25-m1-运行安卓？](https://www.v2ex.com/t/765143) ![](assets/new.png)  
 - [2021-03-25-驱动下一代技术浪潮，我们更专注价值落地](https://www.v2ex.com/t/765142) ![](assets/new.png)  
-- [2021-03-25-立帖为证，阿里云盘永久有效容量](https://www.v2ex.com/t/765141) ![](assets/new.png)  
-- [2021-03-25-prometheus-的告警规则可以在页面上进行自定义配置？有哪位大佬实现过？](https://www.v2ex.com/t/765139) ![](assets/new.png)  
-- [2021-03-25-各位老哥帮忙估个价格-2017-年买的-2016-款-MBP](https://www.v2ex.com/t/765138) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-25 00:10:25，:rocket: 更新条数: +4194， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-25 00:27:48，:rocket: 更新条数: +4180， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-03-25-mac-上有不有一款轻量级-图片编辑工具](https://www.v2ex.com/t/764846) ![](assets/new.png)  
+- [2021-03-25-我的-4k-显示不了图片一圈的阴影边框，应该怎么设置呢？](https://www.v2ex.com/t/764845) ![](assets/new.png)  
+- [2021-03-25-英特尔-CEO-格尔辛格：希望跟苹果和解，代工苹果自研芯片](https://www.v2ex.com/t/764844) ![](assets/new.png)  
 - [2021-03-24-为什么-iOS-🚀的小组件没了](https://www.v2ex.com/t/764842) ![](assets/new.png)  
 - [2021-03-24-blueimp-的-JavaScript-MD5-的创建-MD5-核心功能是-binlMD5-这个-function-吗？它不是线性的吗?](https://www.v2ex.com/t/764841) ![](assets/new.png)  
 - [2021-03-24-这段代码是如何将字符转为二进制并且去掉大于-255-个以外的字符的的](https://www.v2ex.com/t/764840) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-03-24-macos-版本的微信-3.0，打开某红书，会出现暂不支持蓝牙功能，你们也会？](https://www.v2ex.com/t/764824) ![](assets/new.png)  
 - [2021-03-24-有比较低廉可靠的可以配合-Google-Voice-使用的美国实体电话卡推荐吗？](https://www.v2ex.com/t/764823) ![](assets/new.png)  
 - [2021-03-24-请问校招/实习的大数据笔试如何准备-求指点](https://www.v2ex.com/t/764821) ![](assets/new.png)  
-- [2021-03-24-请教-DigitalOcean-等-VPS-服务商的竞争优势](https://www.v2ex.com/t/764818) ![](assets/new.png)  
-- [2021-03-24-这个-vim-的箭头怎么去掉？](https://www.v2ex.com/t/764817) ![](assets/new.png)  
-- [2021-03-24-CabloyJS-4.6.0：支持明细表](https://www.v2ex.com/t/764816) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1078,26 +1078,26 @@
 </summary>
 
 
-- [2021-03-25-资料-|-英语进阶指南](https://toutiao.io/k/4yqc5t5) ![](assets/new.png)  
-- [2021-03-25-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
-- [2021-03-25-卧槽，线上数据删错了，差点被老板开除](https://toutiao.io/k/exd77nu) ![](assets/new.png)  
-- [2021-03-25-优质网站同好者周刊（第-5-期）](https://toutiao.io/k/ubsth9i) ![](assets/new.png)  
-- [2021-03-25-写给开发人员的实用密码学：非对称加密算法](https://toutiao.io/k/ajk71ed) ![](assets/new.png)  
-- [2021-03-25-Java-线程的那些状态们](https://toutiao.io/k/fhks4c3) ![](assets/new.png)  
-- [2021-03-25-详解低延时高音质：声音的美化与空间音效篇](https://toutiao.io/k/inp5dpc) ![](assets/new.png)  
-- [2021-03-25-优雅停机之主动从-Nacos-下线实例](https://toutiao.io/k/5reyhwy) ![](assets/new.png)  
-- [2021-03-25-高性能服务之优雅终止](https://toutiao.io/k/gm348vn) ![](assets/new.png)  
-- [2021-03-25-白话讲解，拜占庭将军问题](https://toutiao.io/k/82gvxkh) ![](assets/new.png)  
-- [2021-03-25-黑科技：基于-Arduino-和-Zabbix-实现温湿度监控告警](https://toutiao.io/k/6h32ko4) ![](assets/new.png)  
-- [2021-03-25-Canal-高可用架构部署](https://toutiao.io/k/z58kt8e) ![](assets/new.png)  
-- [2021-03-25-Rust-异步库：Tokio-的一些资源限制](https://toutiao.io/k/ff1sw3m) ![](assets/new.png)  
-- [2021-03-25-Spring-Cloud-2020：Hystrix-不生效怪我咯](https://toutiao.io/k/1wxmmcs) ![](assets/new.png)  
-- [2021-03-25-美团优选大数据开发岗面试真题（附答案详细解析）](https://toutiao.io/k/39cgzvi) ![](assets/new.png)  
-- [2021-03-25-问题排查：客户端突如其来的-“白屏”-等待](https://toutiao.io/k/nib2cpr) ![](assets/new.png)  
-- [2021-03-25-本地-Docker-安装-Postgres-12-+-pgadmin-（支持-Apple-M1](https://toutiao.io/k/w0frawj) ![](assets/new.png)  
-- [2021-03-25-动手造轮子：实现一个简单的基于-Console-的日志输出](https://toutiao.io/k/q5hkkby) ![](assets/new.png)  
-- [2021-03-25-Kyuubi-与-Spark-Thrift-Server-的全面对比分析](https://toutiao.io/k/i0bzw8q) ![](assets/new.png)  
-- [2021-03-25-中标麒麟系统-Ansible-执行-yum-模块报错的问题分析](https://toutiao.io/k/dkeq4ff) ![](assets/new.png)  
+- [2021-03-25-架构设计：数据服务系统-0-到-1-落地实现方案](https://toutiao.io/k/dyd40o2) ![](assets/new.png)  
+- [2021-03-25-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
+- [2021-03-25-开源的-Switch-模拟器：GitHub-热点速览-v.21.12](https://toutiao.io/k/0lpdz6g) ![](assets/new.png)  
+- [2021-03-25-生产变更的几点感悟](https://toutiao.io/k/5xabuo0) ![](assets/new.png)  
+- [2021-03-25-技术展望-|-实时互动场景下，音频的技术变迁与机遇](https://toutiao.io/k/ba5j4qf) ![](assets/new.png)  
+- [2021-03-25-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) ![](assets/new.png)  
+- [2021-03-25-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
+- [2021-03-25-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) ![](assets/new.png)  
+- [2021-03-25-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
+- [2021-03-25-推荐-吃透-MQ](https://toutiao.io/k/vzx2ky5) ![](assets/new.png)  
+- [2021-03-25-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
+- [2021-03-25-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
+- [2021-03-25-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
+- [2021-03-25-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
+- [2021-03-25-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
+- [2021-03-25-推荐-如何写出高质量的技术文章？](https://toutiao.io/k/ozl31qb) ![](assets/new.png)  
+- [2021-03-25-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-25-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
+- [2021-03-25-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
+- [2021-03-25-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,26 +1109,26 @@
 </summary>
 
 
+- [2021-03-25-非法获取员工及用户敏感信息,法国宜家或将被罚375万欧元](https://sec.thief.one/article_content?a_id=88f79ab17331d5745cdb3394efcbc6b8) ![](assets/new.png)  
+- [2021-03-24-司法鉴定领域分类和能力范围表述的国内外比较研究](https://sec.thief.one/article_content?a_id=9cfa4723f6b9f00e1731a7ef15980626) ![](assets/new.png)  
+- [2021-03-24-黑客利用Exchange漏洞传播＂黑王国＂勒索病毒](https://sec.thief.one/article_content?a_id=210995d98df3267ec5f2880032103eb0) ![](assets/new.png)  
+- [2021-03-24-【安全圈】神秘黑客组织利用11个0-day漏洞发起攻击](https://sec.thief.one/article_content?a_id=0aef9b4831f5414d9a1d12a2bb23fca9) ![](assets/new.png)  
+- [2021-03-24-【漏洞更新】Apache-OFBiz-RMI反序列化任意代码执行漏洞](https://sec.thief.one/article_content?a_id=ba81a15bbb78434896efbd5e8579262e) ![](assets/new.png)  
+- [2021-03-24-《国内网络安全信息与事件管理类产品研究与测试报告2021年》正...](https://sec.thief.one/article_content?a_id=3925516746257a616a435d214ed3af00) ![](assets/new.png)  
+- [2021-03-24-每日攻防资讯简报Mar.24th](https://sec.thief.one/article_content?a_id=4c1ecf9ee2737d0969afcd698ade5258) ![](assets/new.png)  
+- [2021-03-24-快手数据中台建设:大数据服务化之路](https://sec.thief.one/article_content?a_id=cb0f0cdf156a1359a6e981e856e3b5d6) ![](assets/new.png)  
+- [2021-03-24-变身快乐社会人,你只差一“微步”~-|-微步在线2021春季校招ING](https://sec.thief.one/article_content?a_id=287609f531b9cc653e0a16e5f16d0c53) ![](assets/new.png)  
+- [2021-03-24-报告|2020Android平台安全乱象:超过230万恶意程序被截获](https://sec.thief.one/article_content?a_id=63d4817188a8bdc65fcdec9372b675ad) ![](assets/new.png)  
+- [2021-03-24-Java-领域offer收割:程序员黄金-5-年进阶心得!](https://sec.thief.one/article_content?a_id=7d9e34195b081c3f71f5ba1271d98ad4) ![](assets/new.png)  
+- [2021-03-24-OSCP-考试操作笔记及参考资料](https://sec.thief.one/article_content?a_id=02c9aec1f0b63103659f9c300e16335f) ![](assets/new.png)  
+- [2021-03-24-再见了,收费的Navicat.](https://sec.thief.one/article_content?a_id=d5699f076320d643b5aba390833521d6) ![](assets/new.png)  
+- [2021-03-24-诸子云-|-话题:如何衡量渗透测试报告的认可度?研发安全有没有相关...](https://sec.thief.one/article_content?a_id=2f232c5aa69ed47ffa48f8e32e204f2b) ![](assets/new.png)  
+- [2021-03-24-路由器、摄像头遭到疯狂攻击?物联网的脆弱性不仅于此,最短沦陷时...](https://sec.thief.one/article_content?a_id=9cd3f45ba2558a1b99862ca700565a07) ![](assets/new.png)  
+- [2021-03-24-一篇文章带你读懂-TLS-Poison-攻击一](https://sec.thief.one/article_content?a_id=a72b594dc7914cacf765b383e5eb5ec2) ![](assets/new.png)  
 - [2021-03-24-【技术分享】明查OS实现UAC验证全流程—三个进程间的＂情爱＂2](https://sec.thief.one/article_content?a_id=5efcfd8ad284ff1febfc598770af8f93) ![](assets/new.png)  
 - [2021-03-24-Windows用户注意!“紫狐”恶意软件来袭](https://sec.thief.one/article_content?a_id=1df9edadebaf4e930931c7a394e73036) ![](assets/new.png)  
 - [2021-03-24-i春秋校园大使招募中,寻找勇于挑战的你!](https://sec.thief.one/article_content?a_id=64402f166876b8e9cbdc440a1adc2524) ![](assets/new.png)  
 - [2021-03-24-chm文档暗藏远控木马,注入微信窃取信息](https://sec.thief.one/article_content?a_id=8756f43ef495541ccfc445c57ac109c1) ![](assets/new.png)  
-- [2021-03-24-四部门联合发布:规范移动App收集个人信息行为,5月1日起施行](https://sec.thief.one/article_content?a_id=974e0b665af8656e83254cb401dbb0d3) ![](assets/new.png)  
-- [2021-03-24-证监会同意信安世纪科创板IPO注册](https://sec.thief.one/article_content?a_id=83b0d6c12c8f98526d37f274e8ec23b5) ![](assets/new.png)  
-- [2021-03-24-PayPal如何成为了加密领域主要玩家中的一员](https://sec.thief.one/article_content?a_id=6b8f440176335c5d7fbc35cec0b43e16) ![](assets/new.png)  
-- [2021-03-24-3月24日贵币GUIBI早内参-THETA市值跃居全球第九,EOS创始人BM...](https://sec.thief.one/article_content?a_id=f0c8e796799c24245284d89f630d7c99) ![](assets/new.png)  
-- [2021-03-24-新型macOS恶意软件XcodeSpy可通过EggShell后门对Xcode开发人员...](https://sec.thief.one/article_content?a_id=2cf20f4b930877502adb4d1229703cee) ![](assets/new.png)  
-- [2021-03-24-百年党史闪耀时代风采](https://sec.thief.one/article_content?a_id=221051d6d28653fa99f22f77b7d28351) ![](assets/new.png)  
-- [2021-03-24-首个IETF国密标准正式发布,加速国密算法应用进程](https://sec.thief.one/article_content?a_id=78056ae5a61ed67714a48c0f47674b32) ![](assets/new.png)  
-- [2021-03-24-遭受网络攻击并被窃取源代码后,漫画网站MangaDex已暂时关闭](https://sec.thief.one/article_content?a_id=fb41eb25261b1603e853a6b0fb3e327f) ![](assets/new.png)  
-- [2021-03-24-Weblogic漏洞利用总结](https://sec.thief.one/article_content?a_id=e8f554ba777a74dcb363c78b16fad62d) ![](assets/new.png)  
-- [2021-03-24-网络安全厂商Fiserv的电子邮件域名居然没有注册](https://sec.thief.one/article_content?a_id=2a0e075b022ad2d313d33bfc6c102ab3) ![](assets/new.png)  
-- [2021-03-24-【视频】|-Python:文件操作总结和图书管理](https://sec.thief.one/article_content?a_id=e8984b14d13694f75fb0c0b67b64d4f4) ![](assets/new.png)  
-- [2021-03-24-34岁程序员面试谈薪资被砍5K,网友:这么降不如在家睡觉](https://sec.thief.one/article_content?a_id=772e2516704f5a7bb401b87fb727ac8f) ![](assets/new.png)  
-- [2021-03-24-太牛逼了,Python和算法简直是绝配](https://sec.thief.one/article_content?a_id=e2368f25548a49aa00e7ad6784bc4a41) ![](assets/new.png)  
-- [2021-03-24-建党百年庆祝活动标识公布!](https://sec.thief.one/article_content?a_id=12c2690450a45567c4c557f319558e8b) ![](assets/new.png)  
-- [2021-03-24-中信银行被罚4500000元!曾泄露明星个人流水](https://sec.thief.one/article_content?a_id=6ae0eb14e207e8bd1938555eafecc4ef) ![](assets/new.png)  
-- [2021-03-23-网安杂谈收藏夹2021.3.23](https://sec.thief.one/article_content?a_id=2e8f134a7420ce18255e842d3f49fd4d) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-25 00:10:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 00:27:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,7 +44,9 @@
 - [2021-03-25-硬件安全：ARM体系架构的安全特性演进-www.secrss.com](https://blogread.cn/news/go.php?idItem=14225&url=https%3A%2F%2Fwww.secrss.com%2Farticles%2F9812%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-25-MTK平台Android-安全中secure-boot机制-blog.csdn.net](https://blogread.cn/news/go.php?idItem=14224&url=https%3A%2F%2Fblog.csdn.net%2Fqq_43805880%2Farticle%2Fdetails%2F108062898%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-25-UEFI安全启动-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14223&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F25279889%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-03-25-本地-Docker-安装-Postgres-12-+-pgadmin-（支持-Apple-M1](https://toutiao.io/k/w0frawj) 
+- [2021-03-24-【安全圈】神秘黑客组织利用11个0-day漏洞发起攻击](https://sec.thief.one/article_content?a_id=0aef9b4831f5414d9a1d12a2bb23fca9) 
+- [2021-03-24-报告|2020Android平台安全乱象:超过230万恶意程序被截获](https://sec.thief.one/article_content?a_id=63d4817188a8bdc65fcdec9372b675ad) 
+- [2021-03-24-诸子云-|-话题:如何衡量渗透测试报告的认可度?研发安全有没有相关...](https://sec.thief.one/article_content?a_id=2f232c5aa69ed47ffa48f8e32e204f2b) 
 - [2021-03-24-首个IETF国密标准正式发布,加速国密算法应用进程](https://sec.thief.one/article_content?a_id=78056ae5a61ed67714a48c0f47674b32) 
 - [2021-03-24-网络安全厂商Fiserv的电子邮件域名居然没有注册](https://sec.thief.one/article_content?a_id=2a0e075b022ad2d313d33bfc6c102ab3) 
 - [2021-03-23-【安全圈】跳转时信息竟被获取!火狐浏览器决定更新隐私策略](https://sec.thief.one/article_content?a_id=b0ae7a52a5613723a702952ae836d421) 
@@ -66,5 +68,3 @@
 - [2021-03-22-腾讯安全玄武实验室-2021-实习生招募令](https://sec.thief.one/article_content?a_id=2d6d248bb332fba9367fdf3ce4d7a98b) 
 - [2021-03-22-美国政府发布容器安全指南,联邦机构需在半年内全部合规](https://sec.thief.one/article_content?a_id=0f3ff30d5e52f6451da3e6a65aaff540) 
 - [2021-03-22-DevSecOps敏捷安全厂商悬镜安全完成A轮战略融资](https://sec.thief.one/article_content?a_id=d645f8d0b80454c61b5ae2f95309a5a9) 
-- [2021-03-22-悬镜安全完成A轮战略融资,腾讯产业生态投资领投红杉中国继续加持](https://sec.thief.one/article_content?a_id=741c894d535a2ad93ee9289f7b69390c) 
-- [2021-03-22-国家网信办副主任:加紧制定《数据安全法》《个人信息保护法》](https://sec.thief.one/article_content?a_id=68d6343f96a02a86351aade22c8716ec) 

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-25 03:35:29，:rocket: 更新条数: +732， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-25 03:50:10，:rocket: 更新条数: +4172， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-03-25-3月24日全国新增确诊病例11例-均为境外输入](https://m.caixin.com/m/2021-03-25/101680050.html) ![](assets/new.png)  
+- [2021-03-25-美国累计确诊破3000万人-欧洲多国进入第三波疫情｜大流行手记（3月24日）](https://m.caixin.com/m/2021-03-25/101680057.html) ![](assets/new.png)  
+- [2021-03-24-统计：2020年全国报告新冠肺炎8.7万余例-4634人死亡](https://m.caixin.com/m/2021-03-24/101679773.html) ![](assets/new.png)  
+- [2021-03-24-复星新冠疫苗出现包装瑕疵-港澳暂停接种](https://m.caixin.com/m/2021-03-24/101679459.html) ![](assets/new.png)  
+- [2021-03-24-最新海外疫情：新冠感染超1.24亿-累计死亡近273万](https://m.caixin.com/m/2021-03-24/101679861.html) ![](assets/new.png)  
+- [2021-03-24-【境内疫情观察】全国新增10例境外输入病例（3月23日）](http://m.database.caixin.com/m/2021-03-24/101679466.html) ![](assets/new.png)  
+- [2021-03-24-美国质疑阿斯利康疫苗临床数据-德国将实施迄今最严封锁令｜大流行手记（3月23日）](https://m.caixin.com/m/2021-03-24/101679326.html) ![](assets/new.png)  
+- [2021-03-23-研究示新冠患者再感染风险近二成-张文宏解读数据](https://m.caixin.com/m/2021-03-23/101679163.html) ![](assets/new.png)  
+- [2021-03-23-马士基：下半年将迎新冠疫苗运输高峰-海运或与空运竞争](http://m.companies.caixin.com/m/2021-03-23/101679214.html) ![](assets/new.png)  
+- [2021-03-23-【境内疫情观察】全国新增14例无症状感染者（3月22日）](http://m.database.caixin.com/m/2021-03-23/101679003.html) ![](assets/new.png)  
+- [2021-03-23-阿斯利康疫苗在美国试验有效率79%-印度感染激增｜大流行手记（3月22日）](https://m.caixin.com/m/2021-03-23/101678809.html) ![](assets/new.png)  
+- [2021-03-22-3月21日全国新增新冠7例-均为境外输入](https://m.caixin.com/m/2021-03-22/101678304.html) ![](assets/new.png)  
+- [2021-03-22-【境内疫情观察】全国新增7例境外输入病例（3月21日）](http://m.database.caixin.com/m/2021-03-22/101678468.html) ![](assets/new.png)  
+- [2021-03-22-东京奥运会不接待海外观众-英半数成年人已接种首剂疫苗｜大流行手记（3月21日）](https://m.caixin.com/m/2021-03-22/101678287.html) ![](assets/new.png)  
+- [2021-03-22-东京奥运会不接待海外观众-英半数成年人已接种首剂疫苗｜大流行手记（3月21日）](https://m.caixin.com/m/2021-03-22/101678287.html) ![](assets/new.png)  
+- [2021-03-22-中国学者研究：约6.9%武汉人口新冠抗体阳性-其中82%无症状](https://m.caixin.com/m/2021-03-22/101678464.html) ![](assets/new.png)  
+- [2021-03-22-聚焦|张文宏：不要盼着疫苗来，疫苗真来了又不敢打](http://m.opinion.caixin.com/m/2021-03-22/101678747.html) ![](assets/new.png)  
+- [2021-03-21-【境内疫情观察】全国新增12例境外输入病例（3月20日）](http://m.database.caixin.com/m/2021-03-21/101678206.html) ![](assets/new.png)  
+- [2021-03-21-欧洲疫苗接种未达预期-俄罗斯成新冠死亡率最高国之一-|-大流行手记（3月20日）](https://m.caixin.com/m/2021-03-21/101678163.html) ![](assets/new.png)  
+- [2021-03-21-新冠疫苗已接种7495.6万剂-中疾控回应西安病例保护失败缘由](https://m.caixin.com/m/2021-03-21/101678274.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -976,6 +996,9 @@
 </summary>
 
 
+- [2021-03-25-macbook-pro-2018-idea-爆卡求救](https://www.v2ex.com/t/764947) ![](assets/new.png)  
+- [2021-03-25-网线-Cat8-与-Cat5e-延迟有区别吗？](https://www.v2ex.com/t/764945) ![](assets/new.png)  
+- [2021-03-25-关于带层级的列表转-json-对象的问题](https://www.v2ex.com/t/764944) ![](assets/new.png)  
 - [2021-03-25-钉钉你可以要点脸吗？](https://www.v2ex.com/t/764943) ![](assets/new.png)  
 - [2021-03-25-宁波有靠谱的公司么](https://www.v2ex.com/t/764941) ![](assets/new.png)  
 - [2021-03-25-国产-PC-操作系统用户体验能做好吗？](https://www.v2ex.com/t/764940) ![](assets/new.png)  
@@ -993,9 +1016,6 @@
 - [2021-03-25-i2ex-月经贴，迫于-mba-明天到货，求推荐扩展坞](https://www.v2ex.com/t/764924) ![](assets/new.png)  
 - [2021-03-25-请教下-IDFA-为什么影响力那么大](https://www.v2ex.com/t/764923) ![](assets/new.png)  
 - [2021-03-25-深圳-腾讯云的业务运维岗位有小伙伴了解嘛](https://www.v2ex.com/t/764922) ![](assets/new.png)  
-- [2021-03-25-以前做外挂的年轻人现在都咋样了呢](https://www.v2ex.com/t/764920) ![](assets/new.png)  
-- [2021-03-25-北京-前端-20K-30K-Moka-招募前端攻城狮](https://www.v2ex.com/t/764919) ![](assets/new.png)  
-- [2021-03-25-创蓝云智这家公司咋样？](https://www.v2ex.com/t/764915) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1042,22 +1062,22 @@
 - [2021-03-25-架构设计：数据服务系统-0-到-1-落地实现方案](https://toutiao.io/k/dyd40o2) ![](assets/new.png)  
 - [2021-03-25-生产变更的几点感悟](https://toutiao.io/k/5xabuo0) ![](assets/new.png)  
 - [2021-03-25-开源的-Switch-模拟器：GitHub-热点速览-v.21.12](https://toutiao.io/k/0lpdz6g) ![](assets/new.png)  
-- [2021-03-25-Go-并发编程（十二）：Singleflight](https://toutiao.io/k/et0ia4w) ![](assets/new.png)  
 - [2021-03-25-6.3k-Star-的终端摸鱼工具！助你纵横股票市场](https://toutiao.io/k/24uoyi8) ![](assets/new.png)  
+- [2021-03-25-Go-并发编程（十二）：Singleflight](https://toutiao.io/k/et0ia4w) ![](assets/new.png)  
 - [2021-03-25-JavaScript-语句之常用-for-循环](https://toutiao.io/k/18d0flg) ![](assets/new.png)  
 - [2021-03-25-PHP-协程多任务调度实践](https://toutiao.io/k/8pkvoqs) ![](assets/new.png)  
 - [2021-03-25-Raft-成员变更的工程实践](https://toutiao.io/k/txex39l) ![](assets/new.png)  
-- [2021-03-25-技术展望-|-实时互动场景下，音频的技术变迁与机遇](https://toutiao.io/k/ba5j4qf) ![](assets/new.png)  
 - [2021-03-25-C++-异常机制的实现方式和开销分析](https://toutiao.io/k/5njh7vc) ![](assets/new.png)  
+- [2021-03-25-技术展望-|-实时互动场景下，音频的技术变迁与机遇](https://toutiao.io/k/ba5j4qf) ![](assets/new.png)  
 - [2021-03-25-记一次-Chrome-更新带来的登录-Cookie-问题](https://toutiao.io/k/s3xsr0h) ![](assets/new.png)  
 - [2021-03-25-介绍一个小工具-KubeNurse：集群网络监控](https://toutiao.io/k/eucq815) ![](assets/new.png)  
 - [2021-03-25-使用加权轮询算法和-Go-实现-HTTP-负载分发代理](https://toutiao.io/k/cfuujxg) ![](assets/new.png)  
-- [2021-03-25-案例解析-GBase8s-在工业互联网平台中的应用](https://toutiao.io/k/ufi9xdi) ![](assets/new.png)  
 - [2021-03-25-漫画：从西游记看产品经理和程序员的关系](https://toutiao.io/k/6ri1940) ![](assets/new.png)  
-- [2021-03-25-Spark-性能调优：RDD-算子调优篇](https://toutiao.io/k/60yrd9t) ![](assets/new.png)  
+- [2021-03-25-案例解析-GBase8s-在工业互联网平台中的应用](https://toutiao.io/k/ufi9xdi) ![](assets/new.png)  
 - [2021-03-25-JavaWeb-学习路线](https://toutiao.io/k/sxkjr4j) ![](assets/new.png)  
+- [2021-03-25-Spark-性能调优：RDD-算子调优篇](https://toutiao.io/k/60yrd9t) ![](assets/new.png)  
 - [2021-03-25-译-用-@WebMvcTest-测试-MVC-Web-Contorller（二）](https://toutiao.io/k/2slltjj) ![](assets/new.png)  
-- [2021-03-25-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
+- [2021-03-25-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

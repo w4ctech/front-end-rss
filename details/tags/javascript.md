@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-25 08:49:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 09:03:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -94,9 +94,12 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-03-25-es6-出来这么多年了，-var-这个东西大家也声讨了很久，为什么现在很多非页面相关的-js（比如算法、库）依然在写-var](https://www.v2ex.com/t/765090) 
+- [2021-03-25-原生-JavaScript-实现的-dns-客户端](https://www.v2ex.com/t/765089) 
 - [2021-03-25-整合了一个-Golang-开发工具，快速实现-mysql-转-struct、json-转-struct](https://www.v2ex.com/t/765081) 
 - [2021-03-25-腾讯开源：Kotlin-高性能特效动画组件！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14238&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHcELeclN2NIGl6Teock1eQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-25-JavaScript-语句之常用-for-循环](https://toutiao.io/k/18d0flg) 
+- [2021-03-25-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) 
 - [2021-03-24-《国内网络安全信息与事件管理类产品研究与测试报告2021年》正...](https://sec.thief.one/article_content?a_id=3925516746257a616a435d214ed3af00) 
 - [2021-03-24-路由器、摄像头遭到疯狂攻击?物联网的脆弱性不仅于此,最短沦陷时...](https://sec.thief.one/article_content?a_id=9cd3f45ba2558a1b99862ca700565a07) 
 - [2021-03-23-再现在野0day攻击--BITTER-APT攻击事件](https://sec.thief.one/article_content?a_id=d8c736a6864811cd7ab71e8f5be13c32) 

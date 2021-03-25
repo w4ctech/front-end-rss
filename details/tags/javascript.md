@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-25 13:39:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 13:52:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -61,6 +61,7 @@
 - [2021-03-15-2021年JavaScript的发展前景](https://www.ershicimi.com/p/8f16bb3a0a080486055521f9197b341f) 
 - [2021-03-09-如何检查JavaScript对象上是否存在一个属性？](https://www.ershicimi.com/p/bafd480e057135780211caa067ff66c6) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-03-25-mongodb-是否存在一个方法可以直接判断一个-filter-和一个-document-是否匹配](https://www.v2ex.com/t/765193) 
 - [2021-03-25-腾讯开源：Kotlin-高性能特效动画组件！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14238&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHcELeclN2NIGl6Teock1eQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-25-JavaScript-语句之常用-for-循环](https://toutiao.io/k/18d0flg) 
 - [2021-03-25-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) 

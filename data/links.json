@@ -10,6 +10,11 @@
         "date": "2021-03-25"
       },
       {
+        "title": "美国累计确诊破3000万人 欧洲多国进入第三波疫情｜大流行手记（3月24日）",
+        "link": "https://m.caixin.com/m/2021-03-25/101680057.html",
+        "date": "2021-03-25"
+      },
+      {
         "title": "统计：2020年全国报告新冠肺炎8.7万余例 4634人死亡",
         "link": "https://m.caixin.com/m/2021-03-24/101679773.html",
         "date": "2021-03-24"
@@ -20176,13 +20181,18 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "为什么 Microsoft Edge 没有提供 macos 的版本下载？那我现在用的是啥......",
-        "link": "https://www.v2ex.com/t/764855",
+        "title": "求解： 0 工作经验，毕业一年内社招的出路",
+        "link": "https://www.v2ex.com/t/764859",
         "date": "2021-03-25"
       },
       {
-        "title": "女朋友不求上进怎么办？该不该分手了。",
-        "link": "https://www.v2ex.com/t/764854",
+        "title": "Parallel Desktop 虚拟机生成的$RECYCLE.BIN 文件夹有办法删除吗",
+        "link": "https://www.v2ex.com/t/764858",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "为什么 Microsoft Edge 没有提供 macos 的版本下载？那我现在用的是啥......",
+        "link": "https://www.v2ex.com/t/764855",
         "date": "2021-03-25"
       },
       {
@@ -20339,11 +20349,6 @@
         "title": "想做个小程序，做个调研先。",
         "link": "https://www.v2ex.com/t/764810",
         "date": "2021-03-24"
-      },
-      {
-        "title": "老板要求写一个公用的 rabbitmq 客户端给其他人用, 要求至少一次投递, 而且只能依赖 rabbitmq 自身, 想来想去这根本不可能实现啊",
-        "link": "https://www.v2ex.com/t/764807",
-        "date": "2021-03-24"
       }
     ]
   },
@@ -20485,28 +20490,33 @@
         "date": "2021-03-25"
       },
       {
-        "title": "[推荐] 带你深入理解 Java 内存模型理论",
-        "link": "https://toutiao.io/k/0ic2o68",
+        "title": "Go 并发编程（十二）：Singleflight",
+        "link": "https://toutiao.io/k/et0ia4w",
         "date": "2021-03-25"
       },
       {
-        "title": "[推荐] Redis 教程：Redis 知识体系详解",
-        "link": "https://toutiao.io/k/av396i0",
+        "title": "JavaScript 语句之常用 for 循环",
+        "link": "https://toutiao.io/k/18d0flg",
         "date": "2021-03-25"
       },
       {
-        "title": "[推荐] 21 大软件架构特点的全面解析",
-        "link": "https://toutiao.io/k/2n0entj",
+        "title": "Raft 成员变更的工程实践",
+        "link": "https://toutiao.io/k/txex39l",
         "date": "2021-03-25"
       },
       {
-        "title": "[推荐] 万字长文：彻底搞懂容器镜像构建",
-        "link": "https://toutiao.io/k/le19zdx",
+        "title": "6.3k Star 的终端摸鱼工具！助你纵横股票市场",
+        "link": "https://toutiao.io/k/24uoyi8",
         "date": "2021-03-25"
       },
       {
-        "title": "[推荐] 架构实践全景图",
-        "link": "https://toutiao.io/k/nu45i3g",
+        "title": "PHP 协程多任务调度实践",
+        "link": "https://toutiao.io/k/8pkvoqs",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "[推荐] 面试被吊打：Redis 原理",
+        "link": "https://toutiao.io/k/pmxukkm",
         "date": "2021-03-25"
       },
       {
@@ -20515,8 +20525,23 @@
         "date": "2021-03-25"
       },
       {
+        "title": "[推荐] 吃透 MQ",
+        "link": "https://toutiao.io/k/vzx2ky5",
+        "date": "2021-03-25"
+      },
+      {
         "title": "[推荐] 算法面试套路知多少",
         "link": "https://toutiao.io/k/yl7s9sl",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "[推荐] 万字长文：彻底搞懂容器镜像构建",
+        "link": "https://toutiao.io/k/le19zdx",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "[推荐] 21 大软件架构特点的全面解析",
+        "link": "https://toutiao.io/k/2n0entj",
         "date": "2021-03-25"
       },
       {
@@ -20525,23 +20550,8 @@
         "date": "2021-03-25"
       },
       {
-        "title": "[推荐] 2021 有哪些不容错过的后端技术趋势",
-        "link": "https://toutiao.io/k/e3lq37o",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "[推荐] 不懂什么是云原生？看完这篇文章就够了！",
-        "link": "https://toutiao.io/k/ghs0i7r",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "[推荐] 如何写出高质量的技术文章？",
-        "link": "https://toutiao.io/k/ozl31qb",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "[推荐] Go 工程化（九）：项目重构实践",
-        "link": "https://toutiao.io/k/et0t2lk",
+        "title": "[推荐] 带你深入理解 Java 内存模型理论",
+        "link": "https://toutiao.io/k/0ic2o68",
         "date": "2021-03-25"
       },
       {
@@ -20550,13 +20560,33 @@
         "date": "2021-03-25"
       },
       {
-        "title": "[推荐] 吃透 MQ",
-        "link": "https://toutiao.io/k/vzx2ky5",
+        "title": "[推荐] 如何写出高质量的技术文章？",
+        "link": "https://toutiao.io/k/ozl31qb",
         "date": "2021-03-25"
       },
       {
         "title": "[推荐] Java 工程师核心书单，阿里大佬看了都说好",
         "link": "https://toutiao.io/k/5apgnxp",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "[推荐] Go 工程化（九）：项目重构实践",
+        "link": "https://toutiao.io/k/et0t2lk",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "[推荐] [译] 新老手必备的 34 种 JavaScript 简写优化技术",
+        "link": "https://toutiao.io/k/jdslwhk",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "[推荐] Redis 不是一直号称单线程效率也很高吗，为什么又采用多线程了？",
+        "link": "https://toutiao.io/k/vsxwjpf",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "[推荐] 不懂什么是云原生？看完这篇文章就够了！",
+        "link": "https://toutiao.io/k/ghs0i7r",
         "date": "2021-03-25"
       }
     ]

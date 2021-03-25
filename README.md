@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-25 05:05:37，:rocket: 更新条数: +4174， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-25 05:19:39，:rocket: 更新条数: +4173， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -788,6 +788,9 @@
 </summary>
 
 
+- [2021-03-25-Spring-Boot-实现接口幂等性的-4-种方案！还有谁不会？](https://www.ershicimi.com/p/8e70b48c144b3c0d3ebf9722cccadb9b) ![](assets/new.png)  
+- [2021-03-25-阿里终面：优秀的代码都是如何分层的？](https://www.ershicimi.com/p/d66472b27de9dc48f8e9a5f4ac8187a2) ![](assets/new.png)  
+- [2021-03-25-非科班前端人的一道送命题：0.1+0.2-等于-0.3-吗？](https://www.ershicimi.com/p/e9787568551f85314b278e1ad58a16d6) ![](assets/new.png)  
 - [2021-03-24-讲述：一个月薪-12000-的北京程序员的真实生活](https://www.ershicimi.com/p/68fb4f0776c2c787f76c762ffe479555) ![](assets/new.png)  
 - [2021-03-24-2021-年-338-道架构技术面试大厂高频题汇总（附答案详解）](https://www.ershicimi.com/p/2e83b1fa936043ec308ec24c0a4f16a6) ![](assets/new.png)  
 - [2021-03-24-Spring-Boot-启动时，让方法自动执行的-4-种方法！](https://www.ershicimi.com/p/9cb394b3a0dc8c7a52d8ce1d625b5d68) ![](assets/new.png)  
@@ -805,9 +808,6 @@
 - [2021-03-20-北京住房仰视链，你在第几层？](https://www.ershicimi.com/p/22911c87d3386fc6650d08ec69801498) ![](assets/new.png)  
 - [2021-03-19-23-种设计模式的通俗解释，虽然有点污，但是秒懂](https://www.ershicimi.com/p/9e9a49d78209cc1b00a799e7f52d3665) ![](assets/new.png)  
 - [2021-03-19-拼多多大跌超12%！拼多多超越阿里成为第一,黄峥辞任董事长，超级投票权失效，承诺三年不减持…未来去当](https://www.ershicimi.com/p/08d2ad87e23d60d418a8cb5316d57b2c) ![](assets/new.png)  
-- [2021-03-19-2021-最新-Java-面试题出炉！（带全部答案）](https://www.ershicimi.com/p/129f450c29439fc7a86888e266c61a13) ![](assets/new.png)  
-- [2021-03-18-工作-10-年后，我突然决定读硕士了！](https://www.ershicimi.com/p/52e7cd9dc690fb5868d1314137fd0bd4) ![](assets/new.png)  
-- [2021-03-18-换掉-Maven，我用它！！！](https://www.ershicimi.com/p/822c01190b3031bbcb86a98019ef29ee) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-03-25-用微信把微信联系人的快捷方式加到了华为手机桌面,-请问这个快捷方式的-activity/Intent-等设置在哪里能看到?-谢谢](https://www.v2ex.com/t/764979) ![](assets/new.png)  
 - [2021-03-25-西乡个人转租一房一厅](https://www.v2ex.com/t/764977) ![](assets/new.png)  
 - [2021-03-25-做一个类似于-v-站的社区，还有希望吗，我一直认为有人的地方才有交易市场](https://www.v2ex.com/t/764976) ![](assets/new.png)  
 - [2021-03-25-关于-Safari-崩溃问题](https://www.v2ex.com/t/764975) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-03-25-大哥们，-springboot-RestTemplate-的-exchange-delete-可以传递-list-为参数吗](https://www.v2ex.com/t/764953) ![](assets/new.png)  
 - [2021-03-25-android-error:-undefined-reference-to-报错，求救-V-友们！](https://www.v2ex.com/t/764952) ![](assets/new.png)  
 - [2021-03-25-金三银四想跳槽，我弄了个个人网页](https://www.v2ex.com/t/764950) ![](assets/new.png)  
-- [2021-03-25-用微信把微信联系人的快捷方式加到了华为手机桌面,-请问这个快捷方式的-Intent-等设置在哪里能看到?-谢谢](https://www.v2ex.com/t/764949) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,15 +1069,15 @@
 - [2021-03-25-Raft-成员变更的工程实践](https://toutiao.io/k/txex39l) ![](assets/new.png)  
 - [2021-03-25-PHP-协程多任务调度实践](https://toutiao.io/k/8pkvoqs) ![](assets/new.png)  
 - [2021-03-25-使用加权轮询算法和-Go-实现-HTTP-负载分发代理](https://toutiao.io/k/cfuujxg) ![](assets/new.png)  
-- [2021-03-25-技术展望-|-实时互动场景下，音频的技术变迁与机遇](https://toutiao.io/k/ba5j4qf) ![](assets/new.png)  
 - [2021-03-25-记一次-Chrome-更新带来的登录-Cookie-问题](https://toutiao.io/k/s3xsr0h) ![](assets/new.png)  
+- [2021-03-25-技术展望-|-实时互动场景下，音频的技术变迁与机遇](https://toutiao.io/k/ba5j4qf) ![](assets/new.png)  
 - [2021-03-25-介绍一个小工具-KubeNurse：集群网络监控](https://toutiao.io/k/eucq815) ![](assets/new.png)  
 - [2021-03-25-JavaWeb-学习路线](https://toutiao.io/k/sxkjr4j) ![](assets/new.png)  
 - [2021-03-25-译-用-@WebMvcTest-测试-MVC-Web-Contorller（二）](https://toutiao.io/k/2slltjj) ![](assets/new.png)  
 - [2021-03-25-漫画：从西游记看产品经理和程序员的关系](https://toutiao.io/k/6ri1940) ![](assets/new.png)  
 - [2021-03-25-案例解析-GBase8s-在工业互联网平台中的应用](https://toutiao.io/k/ufi9xdi) ![](assets/new.png)  
 - [2021-03-25-Spark-性能调优：RDD-算子调优篇](https://toutiao.io/k/60yrd9t) ![](assets/new.png)  
-- [2021-03-25-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
+- [2021-03-25-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

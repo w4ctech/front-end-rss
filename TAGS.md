@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-25 11:04:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 11:22:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -464,6 +464,7 @@
 - [【InfoQ】100道AI算法高频面试题（附答案详解）-｜-Q推荐](https://www.ershicimi.com/p/90fba32ffadbc09fc0cae2b5fd2de96f)
 - [【V2EX】一个不重复匹配算法问题](https://www.v2ex.com/t/765137)
 - [【开发者头条】使用加权轮询算法和-Go-实现-HTTP-负载分发代理](https://toutiao.io/k/cfuujxg)
+- [【开发者头条】推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl)
 - [【安全热点】太牛逼了,Python和算法简直是绝配](https://sec.thief.one/article_content?a_id=e2368f25548a49aa00e7ad6784bc4a41)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

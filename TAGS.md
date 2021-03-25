@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-25 09:18:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 09:35:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -93,8 +93,8 @@
 - [【前端开发博客】vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602)
 - [【前端开发博客】vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36)
 - [【前端开发博客】vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c)
+- [【前端大学】vue-cli-迁移-vite2-实践小结](https://www.ershicimi.com/p/dcbfa61843c1afc04f204595e465839e)
 - [【前端大学】Vue-3.0高频出现的几道面试题](https://www.ershicimi.com/p/35b370d7b4cca66c1406a741918a2f25)
-- [【前端大学】vite2.0搭建Vue3移动端项目](https://www.ershicimi.com/p/a45b5514f8a46b3013a4f19d69aa24d1)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -138,7 +138,6 @@
 - [【前端开发】下一代前端构建工具-Vite-（中英双语字幕）](https://www.ershicimi.com/p/4ded7ea0e57a102d0ee47a00c282d6d1)
 - [【前端开发博客】webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320)
 - [【前端大学】下一代前端构建工具-ViteJS-技术解读，尤雨溪diss：Webpack！](https://www.ershicimi.com/p/4bf18c7a3c1b030cb0a63d30fd961b8c)
-- [【前端大学】你的-import-被-webpack-编译成了什么？](https://www.ershicimi.com/p/06aedd105c711a6a8cf54fab6b3bf1b7)
 - [【前端迷】Webpack5-新特性业务落地实战](https://www.ershicimi.com/p/bac670626de5a16a906fa5785ef35771)
 - [【全栈前端精选】手写一个webpack，看看AST怎么用](https://www.ershicimi.com/p/88c965f04ff4039fea6b46cf08943186)
 - [【全栈前端精选】三大前端构建工具横评，谁是性能之王！](https://www.ershicimi.com/p/65ed6871f3f1e7bdac695b94df1e4eea)
@@ -153,6 +152,7 @@
 - [【奇舞周刊】Babel原理](https://www.ershicimi.com/p/e7256e36feb00d9e9702f77e3fb8b975)
 - [【奇舞周刊】【webpack-进阶】Webpack-打包后的代码是怎样的？](https://www.ershicimi.com/p/16161cc4ce1ef416f2766ddd04bd9b4f)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【编程之上】万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

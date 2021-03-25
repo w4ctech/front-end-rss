@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-25 02:24:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 02:39:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -40,6 +40,7 @@
 - [2021-03-02-Firefox-86引入了全面的Cookie保护](https://www.ershicimi.com/p/22035c4ee236d9aa4cf6db72d4897e12) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2021-03-17-深层清洁好？药妆更安全？千万别再信这些护肤「伪概念」了](https://www.ershicimi.com/p/b8a32b59d11af2c981e993849a564ecd) 
+- [2021-03-25-firefox-总是跳转到国际淘宝，怎么破](https://www.v2ex.com/t/764892) 
 - [2021-03-25-从技术上讲-https://url-访问除了服务器地址被看到，其他都完全加密的是吗？](https://www.v2ex.com/t/764867) 
 - [2021-03-25-为什么-Microsoft-Edge-没有提供-macos-的版本下载？那我现在用的是啥......](https://www.v2ex.com/t/764855) 
 - [2021-03-25-微软：杀死那个曾经全球第一的浏览器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14234&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyJ6BOZehN_OsANr2yuBykw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

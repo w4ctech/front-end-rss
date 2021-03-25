@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-25 02:24:37，:rocket: 更新条数: +4189， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-25 02:39:41，:rocket: 更新条数: +4192， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -255,6 +255,10 @@
 </summary>
 
 
+- [2021-03-25-为什么-Vue3-选择了-CSS-变量](https://www.ershicimi.com/p/9477760464afd96eea8de8e5f1bd0a7d) ![](assets/new.png)  
+- [2021-03-24-Vite2到底怎么用？详细教程来了！](https://www.ershicimi.com/p/04e80c1e675652b87fc669a2eacf3432) ![](assets/new.png)  
+- [2021-03-24-你好，谈谈你对前端路由的理解](https://www.ershicimi.com/p/751d9882a0572b549bf6221b84c6e8de) ![](assets/new.png)  
+- [2021-03-23-最新前端框架排行榜（附性能等多方面对比）](https://www.ershicimi.com/p/a23e3b8ea29048cf1685c2d8c9ebaa80) ![](assets/new.png)  
 - [2021-03-22-前端人，要“凉”了](https://www.ershicimi.com/p/6ff3d4c1115826d7af2daf83b4bede19) ![](assets/new.png)  
 - [2021-03-22-从面试官角度看一次前端面试经历](https://www.ershicimi.com/p/fe11a4fdbd32711c6971d3feb56c4e17) ![](assets/new.png)  
 - [2021-03-21-JS犀牛书-中文版-第7版强势回归！免费送10本](https://www.ershicimi.com/p/751a13c3e2ec493ff3f44912f8aee212) ![](assets/new.png)  
@@ -271,10 +275,6 @@
 - [2021-03-08-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/0ce826c6626bc55f0ababb0b6a0236aa) ![](assets/new.png)  
 - [2021-03-08-好家伙，这些写-CSS-的新姿势你还不知道？](https://www.ershicimi.com/p/0af5023d10df0c7c6dddaaa925b3887c) ![](assets/new.png)  
 - [2021-03-06-漫画-|-一个养活了4代程序员的男人](https://www.ershicimi.com/p/91d8f2ab7c8b472ee49fd3b8091abf0e) ![](assets/new.png)  
-- [2021-03-05-前端学到什么程度才能叫精通？](https://www.ershicimi.com/p/37b60049070374de7964126ee4ef9836) ![](assets/new.png)  
-- [2021-03-05-这个异步问题你肯定遇到过，但是会解决的并不多](https://www.ershicimi.com/p/f57b3d1ec8f481307e3de355af5edd67) ![](assets/new.png)  
-- [2021-03-04-2021年最想学习的五大编程语言](https://www.ershicimi.com/p/dc59c7ccc790931d3269212786376c52) ![](assets/new.png)  
-- [2021-03-03-要想工资涨得快，还是得跳槽？入职1年，我被劝退了](https://www.ershicimi.com/p/9670e8af70910a3381fd9dcd56273ae7) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1016,16 @@
 </summary>
 
 
+- [2021-03-25-这样的-Nginx-上的伪静态规则怎么写](https://www.v2ex.com/t/764902) ![](assets/new.png)  
+- [2021-03-25-webstorm-打开-html-能不能设置省略-index.html-后缀名](https://www.v2ex.com/t/764901) ![](assets/new.png)  
+- [2021-03-25-广东深圳电信-无故停机，超级郁闷……](https://www.v2ex.com/t/764899) ![](assets/new.png)  
+- [2021-03-25-大家人手几把键盘?几只鼠标？](https://www.v2ex.com/t/764898) ![](assets/new.png)  
+- [2021-03-25-业余写的项目被人夸了](https://www.v2ex.com/t/764897) ![](assets/new.png)  
+- [2021-03-25-用微信接收电报机器人的信息](https://www.v2ex.com/t/764896) ![](assets/new.png)  
+- [2021-03-25-请各位推荐个适合放-blog-的香港云主机](https://www.v2ex.com/t/764895) ![](assets/new.png)  
+- [2021-03-25-上海爱奇艺---资深-Java-开发工程师（海外业务、前景好、福利高、技术挑战大）](https://www.v2ex.com/t/764893) ![](assets/new.png)  
+- [2021-03-25-firefox-总是跳转到国际淘宝，怎么破](https://www.v2ex.com/t/764892) ![](assets/new.png)  
+- [2021-03-25-mbp-合盖使用是不是容易导致电池鼓包？](https://www.v2ex.com/t/764891) ![](assets/new.png)  
 - [2021-03-25-零基础学习-Vue3-教程-2021-年最新教程-免费视频教程（9-个视频）](https://www.v2ex.com/t/764890) ![](assets/new.png)  
 - [2021-03-25-JS-的-querySelector-和-JQuery-的是一样的语法么？还是有些许区别？](https://www.v2ex.com/t/764889) ![](assets/new.png)  
 - [2021-03-25-救命，-Bing-学术的引用按钮消失。-Help,-cite-button-in-Bing-Scholar-disappeared.](https://www.v2ex.com/t/764888) ![](assets/new.png)  
@@ -1026,16 +1036,6 @@
 - [2021-03-25-写了一个集成了多个常用图标库的-Vue-图标组件，在引入不同图标库的图标时大概可以更方便一些](https://www.v2ex.com/t/764882) ![](assets/new.png)  
 - [2021-03-25-广州白云区靠近知识城那边的房子觉得如何？](https://www.v2ex.com/t/764880) ![](assets/new.png)  
 - [2021-03-25-除了程序员，还有多少人做坚持写独立博客、原创博客？](https://www.v2ex.com/t/764879) ![](assets/new.png)  
-- [2021-03-25-单页面引用，随着页面越来越多，打包后的文件也越来越大，大家是如何解决的？](https://www.v2ex.com/t/764878) ![](assets/new.png)  
-- [2021-03-25-emqx-mqtt-配合-golang-gin-如何做认证和他们之间如何做业务处理?](https://www.v2ex.com/t/764875) ![](assets/new.png)  
-- [2021-03-25-提离职了，下一站，新的开始](https://www.v2ex.com/t/764874) ![](assets/new.png)  
-- [2021-03-25-想问大佬们每天坚持刷题真的有用吗？刷题刷到怀疑人生…](https://www.v2ex.com/t/764871) ![](assets/new.png)  
-- [2021-03-25-Youtube-Music-不能用了？？但-Youtube-还好好的。。](https://www.v2ex.com/t/764868) ![](assets/new.png)  
-- [2021-03-25-从技术上讲-https://url-访问除了服务器地址被看到，其他都完全加密的是吗？](https://www.v2ex.com/t/764867) ![](assets/new.png)  
-- [2021-03-25-Microsoft-365-家庭版发车（40/人，有效期至-2022/3/23）](https://www.v2ex.com/t/764866) ![](assets/new.png)  
-- [2021-03-25-苹果什么时候开春季发布会？](https://www.v2ex.com/t/764865) ![](assets/new.png)  
-- [2021-03-25-财新网（财新通）一年-160-元，有上车吗？](https://www.v2ex.com/t/764864) ![](assets/new.png)  
-- [2021-03-25-幻方量化/AI-Lab-杭州研发团队招聘后端开发工程师，非-996，-007，欢迎带简历来聊~](https://www.v2ex.com/t/764862) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1094,10 +1094,10 @@
 - [2021-03-25-使用加权轮询算法和-Go-实现-HTTP-负载分发代理](https://toutiao.io/k/cfuujxg) ![](assets/new.png)  
 - [2021-03-25-案例解析-GBase8s-在工业互联网平台中的应用](https://toutiao.io/k/ufi9xdi) ![](assets/new.png)  
 - [2021-03-25-漫画：从西游记看产品经理和程序员的关系](https://toutiao.io/k/6ri1940) ![](assets/new.png)  
-- [2021-03-25-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
-- [2021-03-25-推荐-Go-工程化（九）：项目重构实践](https://toutiao.io/k/et0t2lk) ![](assets/new.png)  
-- [2021-03-25-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
-- [2021-03-25-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
+- [2021-03-25-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
+- [2021-03-25-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
+- [2021-03-25-推荐-吃透-MQ](https://toutiao.io/k/vzx2ky5) ![](assets/new.png)  
+- [2021-03-25-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

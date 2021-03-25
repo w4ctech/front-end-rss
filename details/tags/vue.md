@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-25 02:24:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 02:39:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -13,6 +13,7 @@
 - [2021-03-20-Vue-CLI-是如何实现的----终端命令行工具篇](https://www.ershicimi.com/p/8ae74c70ca95418f15af5a629c38fa68) 
 - [2021-03-19-vue-cli-迁移-vite2-实践小结](https://www.ershicimi.com/p/9e9bc5ee15b83686f802d0d30aaa348c) 
 - [2021-03-18-华为官方：寻找VUE&H5&小程序开发者！](https://www.ershicimi.com/p/a875d97cde39c58a2055fe7aeab5c07f) 
+- [2021-03-25-为什么-Vue3-选择了-CSS-变量](https://www.ershicimi.com/p/9477760464afd96eea8de8e5f1bd0a7d) 
 - [2020-06-17-视频蒋豪群聊聊Vue-3-周边项目](https://www.ershicimi.com/p/2a12d97dd7bb04af90078ddf2b9f196d) 
 - [2020-06-08-Vue3三连发，这期聊聊Vue-3周边项目](https://www.ershicimi.com/p/97695ac09543799ef0ccda9e2479572e) 
 - [2020-04-27-视频Vue.js-3.0-什么时候可以投入生产使用](https://www.ershicimi.com/p/62da65e218585b265a4ddc89ca674b0b) 

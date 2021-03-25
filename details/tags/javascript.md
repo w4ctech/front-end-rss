@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-25 22:51:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 23:05:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -38,6 +38,11 @@
 - [2021-03-22-【图书】JavaScript权威指南第7版](https://www.ershicimi.com/p/94e899c34c9587effafda212e9f613fa) 
 - [2021-03-18-【第2229期】百度前端工程化之H5性能优化篇](https://www.ershicimi.com/p/089f432672b4dc5866d93743adf7f40f) 
 - [2021-03-21-终于理解了-JavaScript-闭包](https://www.ershicimi.com/p/a749750a892f2003f2ef5f4da92e4cea) 
+- [2021-03-24-你好，谈谈你对前端路由的理解](https://www.ershicimi.com/p/751d9882a0572b549bf6221b84c6e8de) 
+- [2021-03-21-JS犀牛书-中文版-第7版强势回归！免费送10本](https://www.ershicimi.com/p/751a13c3e2ec493ff3f44912f8aee212) 
+- [2021-03-19-2020-年的-JavaScript-后起之秀](https://www.ershicimi.com/p/7d90f61b2b6815bc245bc3bb6f70d986) 
+- [2021-03-18-慎用JSON.stringify](https://www.ershicimi.com/p/33017636536ab238b3941c34f8640f5c) 
+- [2021-03-10-靠，神了！居然能通过-DOM-来改变-JS！](https://www.ershicimi.com/p/408eca3e8028dd94e00696e122a43025) 
 - [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
 - [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
 - [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 
@@ -65,6 +70,8 @@
 - [2021-03-15-手把手教你如何从“祖传项目”中提炼组件库和脚手架](https://www.ershicimi.com/p/a73b12f30ca3412873b918fcbaa8eab7) 
 - [2021-03-15-优秀前端人都知道的H5-移动端调试全攻略～](https://www.ershicimi.com/p/d71525a48732b905bd78c556df2a9c4a) 
 - [2021-03-14-174道JavaScript-面试知识点总结（上）](https://www.ershicimi.com/p/f095df4eab8c422cdd310978705fe62f) 
+- [2021-03-24-【重磅】送20本最新第7版JS-犀牛书](https://www.ershicimi.com/p/e952039a615f4d0743d3f3896c4203b1) 
+- [2021-03-20-JS犀牛书-中文版-第7版强势回归！包邮送书+红包](https://www.ershicimi.com/p/763310801d581183be0947519a24ff54) 
 - [2021-03-20-赠书第-3-期｜时隔-10-年-JavaScript-“犀牛书”-重磅升级](https://www.ershicimi.com/p/0d0409150f5acde15cbc3ecbb67fe58b) 
 - [2021-03-06-超实用-—-开发中常见-JavaScript-问题整理](https://www.ershicimi.com/p/54be0fbda17b78478ec0cea069cdfa1a) 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
@@ -82,6 +89,9 @@
 - [2021-03-25-Swift-字典-/-JSON-Key-下划线-<->-驼峰-互转有什么好的办法么？](https://www.v2ex.com/t/765225) 
 - [2021-03-25-关于-Python-的对象序列化和反序列化?-如何从-json-字符串直接反序化为指定类实例？](https://www.v2ex.com/t/765210) 
 - [2021-03-25-mongodb-是否存在一个方法可以直接判断一个-filter-和一个-document-是否匹配](https://www.v2ex.com/t/765193) 
+- [2021-03-25-腾讯开源：Kotlin-高性能特效动画组件！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14238&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHcELeclN2NIGl6Teock1eQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-03-25-JavaScript-语句之常用-for-循环](https://toutiao.io/k/18d0flg) 
+- [2021-03-25-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) 
 - [2021-03-25-【漏洞分析】从零开始pwn掉一台古董路由器](https://sec.thief.one/article_content?a_id=0eb930dbe861726fee9b327fc0600dd1) 
 - [2021-03-25-Molson-Coors对网络攻击事件展开了调查](https://sec.thief.one/article_content?a_id=4336e76a40e338b075ee0dab9c584448) 
 - [2021-03-25-《国内网络安全信息与事件管理类产品研究与测试报告2021年》...](https://sec.thief.one/article_content?a_id=9638ced3af7013aab2df2d3fecd87648) 

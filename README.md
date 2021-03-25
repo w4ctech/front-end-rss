@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-25 12:38:20，:rocket: 更新条数: +739， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-25 12:52:40，:rocket: 更新条数: +4156， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-03-25-最新疫情：全国新冠累计确诊90136例-累计接种新冠疫苗8585.97万剂次](https://m.caixin.com/m/2021-03-25/101680443.html) ![](assets/new.png)  
+- [2021-03-25-最新海外疫情：新冠感染超1.24亿-累计死亡超273万](https://m.caixin.com/m/2021-03-25/101680448.html) ![](assets/new.png)  
+- [2021-03-25-【境内疫情观察】我国接种新冠疫苗达8046.3万剂次（3月24日）](http://m.database.caixin.com/m/2021-03-25/101680256.html) ![](assets/new.png)  
+- [2021-03-25-美国累计确诊破3000万人-欧洲多国进入第三波疫情｜大流行手记（3月24日）](https://m.caixin.com/m/2021-03-25/101680057.html) ![](assets/new.png)  
+- [2021-03-24-统计：2020年全国报告新冠肺炎8.7万余例-4634人死亡](https://m.caixin.com/m/2021-03-24/101679773.html) ![](assets/new.png)  
+- [2021-03-24-复星新冠疫苗出现包装瑕疵-港澳暂停接种](https://m.caixin.com/m/2021-03-24/101679459.html) ![](assets/new.png)  
+- [2021-03-24-【境内疫情观察】全国新增10例境外输入病例（3月23日）](http://m.database.caixin.com/m/2021-03-24/101679466.html) ![](assets/new.png)  
+- [2021-03-24-美国质疑阿斯利康疫苗临床数据-德国将实施迄今最严封锁令｜大流行手记（3月23日）](https://m.caixin.com/m/2021-03-24/101679326.html) ![](assets/new.png)  
+- [2021-03-23-研究示新冠患者再感染风险近二成-张文宏解读数据](https://m.caixin.com/m/2021-03-23/101679163.html) ![](assets/new.png)  
+- [2021-03-23-马士基：下半年将迎新冠疫苗运输高峰-海运或与空运竞争](http://m.companies.caixin.com/m/2021-03-23/101679214.html) ![](assets/new.png)  
+- [2021-03-23-【境内疫情观察】全国新增14例无症状感染者（3月22日）](http://m.database.caixin.com/m/2021-03-23/101679003.html) ![](assets/new.png)  
+- [2021-03-23-阿斯利康疫苗在美国试验有效率79%-印度感染激增｜大流行手记（3月22日）](https://m.caixin.com/m/2021-03-23/101678809.html) ![](assets/new.png)  
+- [2021-03-22-3月21日全国新增新冠7例-均为境外输入](https://m.caixin.com/m/2021-03-22/101678304.html) ![](assets/new.png)  
+- [2021-03-22-【境内疫情观察】全国新增7例境外输入病例（3月21日）](http://m.database.caixin.com/m/2021-03-22/101678468.html) ![](assets/new.png)  
+- [2021-03-22-东京奥运会不接待海外观众-英半数成年人已接种首剂疫苗｜大流行手记（3月21日）](https://m.caixin.com/m/2021-03-22/101678287.html) ![](assets/new.png)  
+- [2021-03-22-东京奥运会不接待海外观众-英半数成年人已接种首剂疫苗｜大流行手记（3月21日）](https://m.caixin.com/m/2021-03-22/101678287.html) ![](assets/new.png)  
+- [2021-03-22-中国学者研究：约6.9%武汉人口新冠抗体阳性-其中82%无症状](https://m.caixin.com/m/2021-03-22/101678464.html) ![](assets/new.png)  
+- [2021-03-22-聚焦|张文宏：不要盼着疫苗来，疫苗真来了又不敢打](http://m.opinion.caixin.com/m/2021-03-22/101678747.html) ![](assets/new.png)  
+- [2021-03-21-【境内疫情观察】全国新增12例境外输入病例（3月20日）](http://m.database.caixin.com/m/2021-03-21/101678206.html) ![](assets/new.png)  
+- [2021-03-21-欧洲疫苗接种未达预期-俄罗斯成新冠死亡率最高国之一-|-大流行手记（3月20日）](https://m.caixin.com/m/2021-03-21/101678163.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -76,8 +96,6 @@
 </summary>
 
 
-- [2021-03-25-全国｜新增确诊病例-11-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMTQ4CYkISX3S5jsuFgIk210325&isfromapp=1) ![](assets/new.png)  
-- [2021-03-24-上海｜新增确诊病例-4-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibVZ4fooDk3WLZ4KDBJMW210325&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1007,26 +1025,6 @@
 </summary>
 
 
-- [2021-03-25-【白话科普】聊聊-DNS-的那些小知识-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14243&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F359735158%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-从经济学角度，看多抓鱼的创新-feimiaomiao.com](https://blogread.cn/news/go.php?idItem=14242&url=https%3A%2F%2Ffeimiaomiao.com%2Fhangye%2F4660%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-我成长最快的那五年-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14241&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtBu9_6wI7nX1mVTz0rQ3cA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-营销有病，文案有药吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14240&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcyEss2y0TTUlzsqnrdXDaA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-原生-Android-集成-React-Native-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14239&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZHAIq6gKvzQbLrceCNA7gQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-腾讯开源：Kotlin-高性能特效动画组件！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14238&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHcELeclN2NIGl6Teock1eQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-Android-12-有哪些新功能？开发人员测试版本即将发布-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14237&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCHtBFgfWZpVPdHXbn02Blg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-从代码上看鸿蒙-APP-与安卓-APP-的关系-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14236&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTk2oA4vpNXvEMg8_FWnMEA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-这-14-款-APP，违法，违规！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14235&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpJjbH5eWOC1wQQFoKd6U1A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-微软：杀死那个曾经全球第一的浏览器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14234&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyJ6BOZehN_OsANr2yuBykw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-21-张图揭秘在阿里、腾讯、美团工作的区别-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14233&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLcvGQRUPqt9rvTxfSzUYfA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-太牛了!-最细的-PyCharm-安装+破解详细使用指南-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14232&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIyE5eKX3K3nj1pFbhGyGLg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-优酷-iOS-插件化页面架构方法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14231&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaLSV4vMTK0jmKBh-2cWdNw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-又一大型直播-App-被捣毁，这个行业还是太赚钱了。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14230&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY2TjtLHK6w7ZVuzPHTwLNg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-这也行？iOS后台锁屏监听摇一摇-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14229&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRFA3wHg8-XZvQED3rPEqFA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-别到处借会员了，这里啥都有！高清全免费！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14228&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp9g0tuPk3Hknn_LN1YXc6g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-腾讯的这个框架火了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14227&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fxw0XIKyBGwv-FFDHyhAvFw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-中国互联网20年简史（1998-2018）：其中的规律与本质是什么？-www.cniteyes.com](https://blogread.cn/news/go.php?idItem=14226&url=http%3A%2F%2Fwww.cniteyes.com%2Farchives%2F33211%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-硬件安全：ARM体系架构的安全特性演进-www.secrss.com](https://blogread.cn/news/go.php?idItem=14225&url=https%3A%2F%2Fwww.secrss.com%2Farticles%2F9812%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-25-MTK平台Android-安全中secure-boot机制-blog.csdn.net](https://blogread.cn/news/go.php?idItem=14224&url=https%3A%2F%2Fblog.csdn.net%2Fqq_43805880%2Farticle%2Fdetails%2F108062898%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

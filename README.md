@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-25 08:19:01，:rocket: 更新条数: +4177， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-25 08:35:39，:rocket: 更新条数: +4180， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,9 +996,17 @@
 </summary>
 
 
+- [2021-03-25-小米手机-12.0.4.0QWACBNXM-版本能升级吗-会不会翻车](https://www.v2ex.com/t/765076) ![](assets/new.png)  
+- [2021-03-25-求平价椅子推荐](https://www.v2ex.com/t/765074) ![](assets/new.png)  
+- [2021-03-25-上海-富国基金运维-SRE-团队广招有互联网或金融科技经验的人才](https://www.v2ex.com/t/765073) ![](assets/new.png)  
+- [2021-03-25-北京:18k~25k-求一个前端小伙伴-每周一天远程办公](https://www.v2ex.com/t/765072) ![](assets/new.png)  
+- [2021-03-25-软件工作室征名](https://www.v2ex.com/t/765071) ![](assets/new.png)  
+- [2021-03-25-如何解决跨域问题?](https://www.v2ex.com/t/765070) ![](assets/new.png)  
+- [2021-03-25-怎么管理大量二进制文件比较好？](https://www.v2ex.com/t/765068) ![](assets/new.png)  
+- [2021-03-25-一般合同到期前几个月，向公司询问是否续约的事情比较合适？](https://www.v2ex.com/t/765067) ![](assets/new.png)  
 - [2021-03-25-QQ-邮箱被盗用了](https://www.v2ex.com/t/765066) ![](assets/new.png)  
 - [2021-03-25-两天时间写了个-IP/IPv6-在线查询工具](https://www.v2ex.com/t/765065) ![](assets/new.png)  
-- [2021-03-25-macOS-11.2.3-似乎解决了-intel-版-MacBook-Pro-16'-的续航差问题](https://www.v2ex.com/t/765064) ![](assets/new.png)  
+- [2021-03-25-macOS-11.2.3-似乎解决了-intel-版-MacBook-Pro-16'-升级-Big-Sur-后的续航差问题](https://www.v2ex.com/t/765064) ![](assets/new.png)  
 - [2021-03-25-面试的时候要不要虚报上家公司的薪资？](https://www.v2ex.com/t/765063) ![](assets/new.png)  
 - [2021-03-25-哪里能学到-ffmpeg-开发成体系的知识？](https://www.v2ex.com/t/765062) ![](assets/new.png)  
 - [2021-03-25-薅羊毛](https://www.v2ex.com/t/765061) ![](assets/new.png)  
@@ -1008,14 +1016,6 @@
 - [2021-03-25-缺乏信任关系的两个人如何安全的交换情报](https://www.v2ex.com/t/765057) ![](assets/new.png)  
 - [2021-03-25-现在大家买衣服会选哪些](https://www.v2ex.com/t/765056) ![](assets/new.png)  
 - [2021-03-25-深圳-3000-能在哪租一室一厅](https://www.v2ex.com/t/765054) ![](assets/new.png)  
-- [2021-03-25-SAP-西安招聘前后端工程师](https://www.v2ex.com/t/765052) ![](assets/new.png)  
-- [2021-03-25-广州地区-IT-求职-vx-群](https://www.v2ex.com/t/765051) ![](assets/new.png)  
-- [2021-03-25-网站目录权限一般如何设置合适？](https://www.v2ex.com/t/765049) ![](assets/new.png)  
-- [2021-03-25-实习-微软亚洲研究院-机器学习系统性能评测及相关研究实习生](https://www.v2ex.com/t/765047) ![](assets/new.png)  
-- [2021-03-25-chrome-地址栏右边多了个“安装-v2ex”是什么东西？](https://www.v2ex.com/t/765045) ![](assets/new.png)  
-- [2021-03-25-如何在微信中（朋友圈也好，群聊也好）屏蔽掉某一个词，不让其出现在我的聊天框内](https://www.v2ex.com/t/765044) ![](assets/new.png)  
-- [2021-03-25-macpro15-寸-15-年中-发现电池鼓包，正好-4-年了，还能去官方碰碰运气吗](https://www.v2ex.com/t/765043) ![](assets/new.png)  
-- [2021-03-25-被抄袭最多次的-Jetpack-MVVM-架构模式精讲篇](https://www.v2ex.com/t/765042) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

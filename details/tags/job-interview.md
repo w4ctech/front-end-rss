@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-25 07:04:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 07:19:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -29,6 +29,8 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-03-24-2021-年-338-道架构技术面试大厂高频题汇总（附答案详解）](https://www.ershicimi.com/p/2e83b1fa936043ec308ec24c0a4f16a6) 
 - [2021-03-24-字节跳动高频100道核心前端面试题解析](https://www.ershicimi.com/p/bd6c66f84e2c88714b5520bdbd5e1927) 
+- [2021-03-25-美团校园招聘，实习生招聘开始啦](https://www.v2ex.com/t/765036) 
 - [2021-03-25-北京字节跳动广告技术团队急速-Offer（社招+校招+实习生招聘）](https://www.v2ex.com/t/765024) 
 - [2021-03-25-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) 
+- [2021-03-25-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) 
 - [2021-03-24-34岁程序员面试谈薪资被砍5K,网友:这么降不如在家睡觉](https://sec.thief.one/article_content?a_id=772e2516704f5a7bb401b87fb727ac8f) 

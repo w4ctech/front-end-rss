@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-25 08:03:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 08:19:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -96,6 +96,7 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-03-25-腾讯开源：Kotlin-高性能特效动画组件！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14238&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHcELeclN2NIGl6Teock1eQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-25-JavaScript-语句之常用-for-循环](https://toutiao.io/k/18d0flg) 
+- [2021-03-25-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) 
 - [2021-03-24-《国内网络安全信息与事件管理类产品研究与测试报告2021年》正...](https://sec.thief.one/article_content?a_id=3925516746257a616a435d214ed3af00) 
 - [2021-03-24-路由器、摄像头遭到疯狂攻击?物联网的脆弱性不仅于此,最短沦陷时...](https://sec.thief.one/article_content?a_id=9cd3f45ba2558a1b99862ca700565a07) 
 - [2021-03-23-再现在野0day攻击--BITTER-APT攻击事件](https://sec.thief.one/article_content?a_id=d8c736a6864811cd7ab71e8f5be13c32) 

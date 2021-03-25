@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-25 10:03:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 10:19:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,13 @@
 - [2021-03-25-硬件安全：ARM体系架构的安全特性演进-www.secrss.com](https://blogread.cn/news/go.php?idItem=14225&url=https%3A%2F%2Fwww.secrss.com%2Farticles%2F9812%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-25-MTK平台Android-安全中secure-boot机制-blog.csdn.net](https://blogread.cn/news/go.php?idItem=14224&url=https%3A%2F%2Fblog.csdn.net%2Fqq_43805880%2Farticle%2Fdetails%2F108062898%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-25-记一次-Chrome-更新带来的登录-Cookie-问题](https://toutiao.io/k/s3xsr0h) 
+- [2021-03-25-深入理解Android逆向调试原理](https://sec.thief.one/article_content?a_id=c744db32405230dd69c9c4f1f00a1404) 
+- [2021-03-25-见证创新精进-绿盟科技SIEM/SOC类产品通过中国信通院产品评测](https://sec.thief.one/article_content?a_id=94673ff8f221fe9c3d193135500fd0c6) 
+- [2021-03-25-Getdata-forensic-imager取证工具基本使用官方文献归档](https://sec.thief.one/article_content?a_id=e182e8c9209129d1c8c111f995dd57df) 
+- [2021-03-25-每日安全动态推送03-25](https://sec.thief.one/article_content?a_id=d8a47a9bbdd06b9bbff37755cfcdd480) 
+- [2021-03-25-中国网络安全行业全景图第八版发布](https://sec.thief.one/article_content?a_id=85c40888e42b6bcffa5fa2a4629097b3) 
+- [2021-03-25-4大板块13项细分领域:国舜股份强势入围2021版中国网络安全行业全...](https://sec.thief.one/article_content?a_id=2fb7ea86b85432b0bdd99248e2f2ffe0) 
+- [2021-03-25-中国网络安全行业全景图2021年3月第八版发布](https://sec.thief.one/article_content?a_id=83c9ff53b53a9ff865a914ad99fec398) 
 - [2021-03-24-【安全圈】神秘黑客组织利用11个0-day漏洞发起攻击](https://sec.thief.one/article_content?a_id=0aef9b4831f5414d9a1d12a2bb23fca9) 
 - [2021-03-24-报告|2020Android平台安全乱象:超过230万恶意程序被截获](https://sec.thief.one/article_content?a_id=63d4817188a8bdc65fcdec9372b675ad) 
 - [2021-03-24-诸子云-|-话题:如何衡量渗透测试报告的认可度?研发安全有没有相关...](https://sec.thief.one/article_content?a_id=2f232c5aa69ed47ffa48f8e32e204f2b) 
@@ -62,10 +69,3 @@
 - [2021-03-22-【安全圈】注意了!恶意的火狐扩展程序可以接管你账户](https://sec.thief.one/article_content?a_id=ad4ba75cc3c01c735ca52fab2231e672) 
 - [2021-03-22-【安全圈】有史以来最高赎金-PC巨头宏碁遭勒索3.25亿!](https://sec.thief.one/article_content?a_id=036bd7d0adf7c2ae0ea6e520afa70013) 
 - [2021-03-22-「目极千里-·-洞见安全」线上安全技术沙龙圆满结束](https://sec.thief.one/article_content?a_id=22b80f80d4f5e1592bc5182185260297) 
-- [2021-03-22-3月31日「以守为攻·安全对抗的实践与思考」系列公开课报名启动](https://sec.thief.one/article_content?a_id=caa022dfcf79140f01a9c065cc99685e) 
-- [2021-03-22-如何写更安全的代码?](https://sec.thief.one/article_content?a_id=cbff1e75a94d13e0fbf46df685b1991b) 
-- [2021-03-22-【安全热点周报】第186期:奇安信研究员发现Apache-Solr-任意文件...](https://sec.thief.one/article_content?a_id=3f80b612b7210e7930910f578f3006f1) 
-- [2021-03-22-厚积薄发,绿盟科技智慧安全3.0理念体系正式发布](https://sec.thief.one/article_content?a_id=6970a02101411da2eda5a068fa42afa7) 
-- [2021-03-22-腾讯安全玄武实验室-2021-实习生招募令](https://sec.thief.one/article_content?a_id=2d6d248bb332fba9367fdf3ce4d7a98b) 
-- [2021-03-22-美国政府发布容器安全指南,联邦机构需在半年内全部合规](https://sec.thief.one/article_content?a_id=0f3ff30d5e52f6451da3e6a65aaff540) 
-- [2021-03-22-DevSecOps敏捷安全厂商悬镜安全完成A轮战略融资](https://sec.thief.one/article_content?a_id=d645f8d0b80454c61b5ae2f95309a5a9) 

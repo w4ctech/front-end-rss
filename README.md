@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-25 00:51:36，:rocket: 更新条数: +4178， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-25 01:08:37，:rocket: 更新条数: +4179， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 </summary>
 
 
+- [2021-03-25-3月24日全国新增确诊病例11例-均为境外输入](https://m.caixin.com/m/2021-03-25/101680050.html) ![](assets/new.png)  
 - [2021-03-24-统计：2020年全国报告新冠肺炎8.7万余例-4634人死亡](https://m.caixin.com/m/2021-03-24/101679773.html) ![](assets/new.png)  
 - [2021-03-24-复星新冠疫苗出现包装瑕疵-港澳暂停接种](https://m.caixin.com/m/2021-03-24/101679459.html) ![](assets/new.png)  
 - [2021-03-24-最新海外疫情：新冠感染超1.24亿-累计死亡近273万](https://m.caixin.com/m/2021-03-24/101679861.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-03-21-欧洲疫苗接种未达预期-俄罗斯成新冠死亡率最高国之一-|-大流行手记（3月20日）](https://m.caixin.com/m/2021-03-21/101678163.html) ![](assets/new.png)  
 - [2021-03-21-新冠疫苗已接种7495.6万剂-中疾控回应西安病例保护失败缘由](https://m.caixin.com/m/2021-03-21/101678274.html) ![](assets/new.png)  
 - [2021-03-20-3月19日全国新增新冠4例-均为境外输入](https://m.caixin.com/m/2021-03-20/101677880.html) ![](assets/new.png)  
-- [2021-03-20-【境内疫情观察】全国新增4例境外输入病例（3月19日）](http://m.database.caixin.com/m/2021-03-20/101677994.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -97,7 +97,7 @@
 
 
 - [2021-03-25-全国｜新增确诊病例-11-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMTQ4CYkISX3S5jsuFgIk210325&isfromapp=1) ![](assets/new.png)  
-- [2021-03-24-内蒙古｜新增确诊病例-1-例](http://wjw.nmg.gov.cn/doc/2021/03/23/318297.shtml) ![](assets/new.png)  
+- [2021-03-24-上海｜新增确诊病例-4-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibVZ4fooDk3WLZ4KDBJMW210325&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-03-25-为什么-Microsoft-Edge-没有提供-macos-的版本下载？那我现在用的是啥......](https://www.v2ex.com/t/764855) ![](assets/new.png)  
+- [2021-03-25-女朋友不求上进怎么办？该不该分手了。](https://www.v2ex.com/t/764854) ![](assets/new.png)  
+- [2021-03-25-Google-的中文搜索是怎么了？](https://www.v2ex.com/t/764850) ![](assets/new.png)  
 - [2021-03-25-今天提离职了，有点紧张~](https://www.v2ex.com/t/764849) ![](assets/new.png)  
 - [2021-03-25-mac-上有不有一款轻量级-图片编辑工具](https://www.v2ex.com/t/764846) ![](assets/new.png)  
 - [2021-03-25-我的-4k-显示不了图片一圈的阴影边框，应该怎么设置呢？](https://www.v2ex.com/t/764845) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-03-24-开源了，希望咱们做程序员的各位兄弟靠他多多赚钱，奥利给](https://www.v2ex.com/t/764830) ![](assets/new.png)  
 - [2021-03-24-上海/深圳-腾讯-PCG-招聘-前端-后端-算法-客户端大量-HC](https://www.v2ex.com/t/764829) ![](assets/new.png)  
 - [2021-03-24-上海电信精品网-CN2-网段变了](https://www.v2ex.com/t/764828) ![](assets/new.png)  
-- [2021-03-24-某宝的-Bartender4-激活码靠谱吗](https://www.v2ex.com/t/764827) ![](assets/new.png)  
-- [2021-03-24-macos-版本的微信-3.0，打开某红书，会出现暂不支持蓝牙功能，你们也会？](https://www.v2ex.com/t/764824) ![](assets/new.png)  
-- [2021-03-24-有比较低廉可靠的可以配合-Google-Voice-使用的美国实体电话卡推荐吗？](https://www.v2ex.com/t/764823) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1078,26 +1078,26 @@
 </summary>
 
 
-- [2021-03-25-架构设计：数据服务系统-0-到-1-落地实现方案](https://toutiao.io/k/dyd40o2) ![](assets/new.png)  
 - [2021-03-25-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
-- [2021-03-25-开源的-Switch-模拟器：GitHub-热点速览-v.21.12](https://toutiao.io/k/0lpdz6g) ![](assets/new.png)  
+- [2021-03-25-架构设计：数据服务系统-0-到-1-落地实现方案](https://toutiao.io/k/dyd40o2) ![](assets/new.png)  
 - [2021-03-25-生产变更的几点感悟](https://toutiao.io/k/5xabuo0) ![](assets/new.png)  
+- [2021-03-25-开源的-Switch-模拟器：GitHub-热点速览-v.21.12](https://toutiao.io/k/0lpdz6g) ![](assets/new.png)  
 - [2021-03-25-技术展望-|-实时互动场景下，音频的技术变迁与机遇](https://toutiao.io/k/ba5j4qf) ![](assets/new.png)  
-- [2021-03-25-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
-- [2021-03-25-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
-- [2021-03-25-推荐-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) ![](assets/new.png)  
-- [2021-03-25-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
-- [2021-03-25-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) ![](assets/new.png)  
 - [2021-03-25-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
-- [2021-03-25-推荐-Go-工程化（九）：项目重构实践](https://toutiao.io/k/et0t2lk) ![](assets/new.png)  
-- [2021-03-25-推荐-如何写出高质量的技术文章？](https://toutiao.io/k/ozl31qb) ![](assets/new.png)  
-- [2021-03-25-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) ![](assets/new.png)  
+- [2021-03-25-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
+- [2021-03-25-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
+- [2021-03-25-推荐-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) ![](assets/new.png)  
+- [2021-03-25-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
 - [2021-03-25-推荐-权限体系设计：网易有数-BI-功能品鉴](https://toutiao.io/k/nvr0l12) ![](assets/new.png)  
-- [2021-03-25-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
-- [2021-03-25-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-25-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
 - [2021-03-25-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
-- [2021-03-25-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
-- [2021-03-25-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
+- [2021-03-25-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
+- [2021-03-25-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-25-推荐-如何写出高质量的技术文章？](https://toutiao.io/k/ozl31qb) ![](assets/new.png)  
+- [2021-03-25-推荐-Go-工程化（九）：项目重构实践](https://toutiao.io/k/et0t2lk) ![](assets/new.png)  
+- [2021-03-25-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
+- [2021-03-25-推荐-吃透-MQ](https://toutiao.io/k/vzx2ky5) ![](assets/new.png)  
+- [2021-03-25-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

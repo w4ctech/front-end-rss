@@ -20085,6 +20085,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "service 执行完逻辑后 调用了 onDestroy()； 但是我又杀掉进程， log 还会打印 Force stopping service",
+        "link": "https://www.v2ex.com/t/765160",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "请求支援。nas 在内网无法通过域名访问，如何设置？",
+        "link": "https://www.v2ex.com/t/765159",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "[广州] 九毛九招聘运维工程师",
+        "link": "https://www.v2ex.com/t/765158",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "第一个 vim 插件",
+        "link": "https://www.v2ex.com/t/765156",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "过份了，美团外卖都开始要我的人脸信息了",
+        "link": "https://www.v2ex.com/t/765155",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "陕西青年在北京-本硕博单身周末聚会群，给大家一个机会，认识优秀的老乡",
+        "link": "https://www.v2ex.com/t/765154",
+        "date": "2021-03-25"
+      },
+      {
         "title": "[滴滴出行] [内推] 用户增长团队急招前端、node、全栈。",
         "link": "https://www.v2ex.com/t/765151",
         "date": "2021-03-25"
@@ -20252,26 +20282,6 @@
       {
         "title": "你们怎么提高英语的呀？ 去 Italki 之类找人练口语吗？",
         "link": "https://www.v2ex.com/t/765111",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "V 友门，大家摸鱼一般做啥呀......",
-        "link": "https://www.v2ex.com/t/765110",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "QNAP 用 oracle cloud 备份的疑问",
-        "link": "https://www.v2ex.com/t/765109",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "有不那么智能的智能手表吗",
-        "link": "https://www.v2ex.com/t/765108",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "多吉搜索又挂掉了？",
-        "link": "https://www.v2ex.com/t/765106",
         "date": "2021-03-25"
       }
     ]
@@ -20494,13 +20504,13 @@
         "date": "2021-03-25"
       },
       {
-        "title": "[推荐] 谈谈 Git 存储原理及相关实现",
-        "link": "https://toutiao.io/k/mzszqf0",
+        "title": "[推荐] 吃透 MQ",
+        "link": "https://toutiao.io/k/vzx2ky5",
         "date": "2021-03-25"
       },
       {
-        "title": "[推荐] 算法面试套路知多少",
-        "link": "https://toutiao.io/k/yl7s9sl",
+        "title": "[推荐] Java 工程师核心书单，阿里大佬看了都说好",
+        "link": "https://toutiao.io/k/5apgnxp",
         "date": "2021-03-25"
       },
       {
@@ -20509,28 +20519,8 @@
         "date": "2021-03-25"
       },
       {
-        "title": "[推荐] 吃透 MQ",
-        "link": "https://toutiao.io/k/vzx2ky5",
-        "date": "2021-03-25"
-      },
-      {
         "title": "[推荐] Go 工程化（九）：项目重构实践",
         "link": "https://toutiao.io/k/et0t2lk",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "[推荐] 如何写出高质量的技术文章？",
-        "link": "https://toutiao.io/k/ozl31qb",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "[推荐] 架构实践全景图",
-        "link": "https://toutiao.io/k/nu45i3g",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "[推荐] 面试被吊打：Redis 原理",
-        "link": "https://toutiao.io/k/pmxukkm",
         "date": "2021-03-25"
       },
       {
@@ -20544,18 +20534,23 @@
         "date": "2021-03-25"
       },
       {
-        "title": "[推荐] 万字长文：彻底搞懂容器镜像构建",
-        "link": "https://toutiao.io/k/le19zdx",
-        "date": "2021-03-25"
-      },
-      {
         "title": "[推荐] 21 大软件架构特点的全面解析",
         "link": "https://toutiao.io/k/2n0entj",
         "date": "2021-03-25"
       },
       {
-        "title": "[推荐] 不懂什么是云原生？看完这篇文章就够了！",
-        "link": "https://toutiao.io/k/ghs0i7r",
+        "title": "[推荐] 如何写出高质量的技术文章？",
+        "link": "https://toutiao.io/k/ozl31qb",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "[推荐] 算法面试套路知多少",
+        "link": "https://toutiao.io/k/yl7s9sl",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "[推荐] 万字长文：彻底搞懂容器镜像构建",
+        "link": "https://toutiao.io/k/le19zdx",
         "date": "2021-03-25"
       },
       {
@@ -20566,6 +20561,21 @@
       {
         "title": "[推荐] Redis 教程：Redis 知识体系详解",
         "link": "https://toutiao.io/k/av396i0",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "[推荐] Redis 不是一直号称单线程效率也很高吗，为什么又采用多线程了？",
+        "link": "https://toutiao.io/k/vsxwjpf",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "[推荐] 面试被吊打：Redis 原理",
+        "link": "https://toutiao.io/k/pmxukkm",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "[推荐] 架构实践全景图",
+        "link": "https://toutiao.io/k/nu45i3g",
         "date": "2021-03-25"
       }
     ]

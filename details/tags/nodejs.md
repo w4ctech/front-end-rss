@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-25 21:51:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 22:03:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -8,6 +8,8 @@
 
 
 - [2020-07-14-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) 
+- [2021-03-22-字节跳动最爱考的前端面试题：Node.js-基础-|-极客时间](https://www.ershicimi.com/p/077e66c4ca0505e7b1ec505821d0a83a) 
+- [2020-12-22-V8-引擎垃圾回收与内存分配](https://www.ershicimi.com/p/1a0e4f18abc4d979ab8de6939f2ac8cb) 
 - [2021-03-19-Node.js-为前端赋能-|-我要把这-200-万张页面发上线](https://www.ershicimi.com/p/c154efd89274e76eb767f845255bf789) 
 - [2021-03-16-使用-Node.js-实现文件流转存服务](https://www.ershicimi.com/p/90ad7017b6d792c0266604e19401fa09) 
 - [2021-03-14-云原生时代的-Node.js-性能诊断产品-Alinode](https://www.ershicimi.com/p/7c05d5f4abfe86af954e96ea235d60c3) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-25 03:50:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 04:05:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -460,6 +460,7 @@
 - [【全栈前端精选】【全栈前端】学习打卡养成计划](https://www.ershicimi.com/p/71e28a140bb9ed2dca7cedbfe62f95ac)
 - [【InfoQ】100道AI算法高频面试题（附答案详解）-｜-Q推荐](https://www.ershicimi.com/p/90fba32ffadbc09fc0cae2b5fd2de96f)
 - [【开发者头条】使用加权轮询算法和-Go-实现-HTTP-负载分发代理](https://toutiao.io/k/cfuujxg)
+- [【开发者头条】推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl)
 - [【安全热点】太牛逼了,Python和算法简直是绝配](https://sec.thief.one/article_content?a_id=e2368f25548a49aa00e7ad6784bc4a41)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -480,7 +481,7 @@
 - [【程序员成长指北】前端的Nginx知识梳理](https://www.ershicimi.com/p/6e79696b70c2e7faae1d33e63b037596)
 - [【Nodejs技术栈】Nginx-极简教程-—-帮助新手快速入门](https://www.ershicimi.com/p/b6bd3353beacf3f9e2f96e22fb76e31f)
 - [【InfoQ】超越Nginx？云原生时代的流量发动机pipy](https://www.ershicimi.com/p/e8b136bc631db15675fa47c8a726b446)
-- [【V2EX】这样的-Nginx-上的伪静态规则怎么写](https://www.v2ex.com/t/764902)
+- [【V2EX】大哥们，-springboot-RestTemplate-的-exchange-delete-可以传递-list-为参数吗](https://www.v2ex.com/t/764953)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

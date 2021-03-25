@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-25 10:35:12，:rocket: 更新条数: +4177， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-25 10:49:29，:rocket: 更新条数: +4179， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,8 @@
 </summary>
 
 
+- [2021-03-25-最新疫情：全国新冠累计确诊90136例-累计接种新冠疫苗8585.97万剂次](https://m.caixin.com/m/2021-03-25/101680443.html) ![](assets/new.png)  
+- [2021-03-25-最新海外疫情：新冠感染超1.24亿-累计死亡超273万](https://m.caixin.com/m/2021-03-25/101680448.html) ![](assets/new.png)  
 - [2021-03-25-【境内疫情观察】我国接种新冠疫苗达8046.3万剂次（3月24日）](http://m.database.caixin.com/m/2021-03-25/101680256.html) ![](assets/new.png)  
 - [2021-03-25-美国累计确诊破3000万人-欧洲多国进入第三波疫情｜大流行手记（3月24日）](https://m.caixin.com/m/2021-03-25/101680057.html) ![](assets/new.png)  
 - [2021-03-24-统计：2020年全国报告新冠肺炎8.7万余例-4634人死亡](https://m.caixin.com/m/2021-03-24/101679773.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2021-03-22-聚焦|张文宏：不要盼着疫苗来，疫苗真来了又不敢打](http://m.opinion.caixin.com/m/2021-03-22/101678747.html) ![](assets/new.png)  
 - [2021-03-21-【境内疫情观察】全国新增12例境外输入病例（3月20日）](http://m.database.caixin.com/m/2021-03-21/101678206.html) ![](assets/new.png)  
 - [2021-03-21-欧洲疫苗接种未达预期-俄罗斯成新冠死亡率最高国之一-|-大流行手记（3月20日）](https://m.caixin.com/m/2021-03-21/101678163.html) ![](assets/new.png)  
-- [2021-03-21-新冠疫苗已接种7495.6万剂-中疾控回应西安病例保护失败缘由](https://m.caixin.com/m/2021-03-21/101678274.html) ![](assets/new.png)  
-- [2021-03-20-3月19日全国新增新冠4例-均为境外输入](https://m.caixin.com/m/2021-03-20/101677880.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-03-25-专访-CNCF-大使王炜：让云原生开发回归原始而又简单](https://www.v2ex.com/t/765146) ![](assets/new.png)  
+- [2021-03-25-多吉搜索-502-了？！](https://www.v2ex.com/t/765144) ![](assets/new.png)  
+- [2021-03-25-m1-运行安卓？](https://www.v2ex.com/t/765143) ![](assets/new.png)  
 - [2021-03-25-驱动下一代技术浪潮，我们更专注价值落地](https://www.v2ex.com/t/765142) ![](assets/new.png)  
 - [2021-03-25-立帖为证，阿里云盘永久有效容量](https://www.v2ex.com/t/765141) ![](assets/new.png)  
 - [2021-03-25-prometheus-的告警规则可以在页面上进行自定义配置？有哪位大佬实现过？](https://www.v2ex.com/t/765139) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-03-25-不知道从什么时间开始，加班成了你努力工作的象征](https://www.v2ex.com/t/765126) ![](assets/new.png)  
 - [2021-03-25-公司给程序员采购电脑，求推荐](https://www.v2ex.com/t/765125) ![](assets/new.png)  
 - [2021-03-25-做了个在线一键批量文件重命名工具，欢迎试用](https://www.v2ex.com/t/765124) ![](assets/new.png)  
-- [2021-03-25-bitwarden-在-v-站好像不能用](https://www.v2ex.com/t/765122) ![](assets/new.png)  
-- [2021-03-25-kiwi-浏览器今天出现了启动广告，请问怎么去掉？](https://www.v2ex.com/t/765120) ![](assets/new.png)  
-- [2021-03-25-有在杭州谐云就职过的-v-友吗](https://www.v2ex.com/t/765117) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-25 01:24:19，:rocket: 更新条数: +4185， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-25 01:40:16，:rocket: 更新条数: +4184， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -985,6 +985,9 @@
 </summary>
 
 
+- [2021-03-24-服装品牌-H&M-一边造谣抵制新疆棉花，一边又想在中国赚钱？](https://www.ershicimi.com/p/3e74e3d059533f030c223ebda5f5c3ac) ![](assets/new.png)  
+- [2021-03-24-知乎故事-|-在平淡生活中发现细微的美好](https://www.ershicimi.com/p/bf1bb76999c85f37b8167427a9bf37a9) ![](assets/new.png)  
+- [2021-03-24-千万别撩朋友圈对你三天可见的人](https://www.ershicimi.com/p/2af51525c2f7ab9c63147e2c07bef219) ![](assets/new.png)  
 - [2021-03-23-人类和狗，到底谁才是熬夜冠军？](https://www.ershicimi.com/p/27fa22292c3a92a7b8a24de26122c8ee) ![](assets/new.png)  
 - [2021-03-23-知乎故事-|-男生压力大的时候希望女生如何安慰？](https://www.ershicimi.com/p/d0b8284b919d0f5959cd4f9d90fbb266) ![](assets/new.png)  
 - [2021-03-23-有格调的人，每天都在看什么？](https://www.ershicimi.com/p/472b93cc28681426c2a1d1ea38987057) ![](assets/new.png)  
@@ -1002,9 +1005,6 @@
 - [2021-03-17-为什么人类要进化出牙缝？整整齐齐不好吗？](https://www.ershicimi.com/p/084b65d4d09f3f7fce3e3798312cca0b) ![](assets/new.png)  
 - [2021-03-17-知乎故事-|-人为了避免社会性死亡能有多拼？](https://www.ershicimi.com/p/a734a0f27691fa49916b1fd3a7ade494) ![](assets/new.png)  
 - [2021-03-16-你可能想不到，迪迦奥特曼到底有多强](https://www.ershicimi.com/p/0f2f0f06fc08e03765b428b9d76713a0) ![](assets/new.png)  
-- [2021-03-16-全世界-70-亿人同时起跳，地球会天崩地裂？](https://www.ershicimi.com/p/1d88e1a5252a9783fb0fad2a6c642847) ![](assets/new.png)  
-- [2021-03-16-知乎故事-|-女儿出嫁时，父亲的心情是怎样的？](https://www.ershicimi.com/p/296f080432947b584e7234af7a63979c) ![](assets/new.png)  
-- [2021-03-15-2021-年-315-晚会直击：被滥用的人脸识别系统、伸向简历的黑手、老人手机里的陷阱](https://www.ershicimi.com/p/076303a199ab8b8426a009582b059957) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-03-25-幻方量化/AI-Lab-杭州研发团队招聘后端开发工程师，非-996，-007，欢迎带简历来聊~](https://www.v2ex.com/t/764862) ![](assets/new.png)  
+- [2021-03-25-请教个高德导航蓝牙的问题](https://www.v2ex.com/t/764861) ![](assets/new.png)  
+- [2021-03-25-分享一首早上在电台听到的歌曲，有关父子之爱的。Jame-Blunt-《Monsters》](https://www.v2ex.com/t/764860) ![](assets/new.png)  
 - [2021-03-25-求解：-0-工作经验，毕业一年内社招的出路](https://www.v2ex.com/t/764859) ![](assets/new.png)  
 - [2021-03-25-Parallel-Desktop-虚拟机生成的$RECYCLE.BIN-文件夹有办法删除吗](https://www.v2ex.com/t/764858) ![](assets/new.png)  
 - [2021-03-25-为什么-Microsoft-Edge-没有提供-macos-的版本下载？那我现在用的是啥......](https://www.v2ex.com/t/764855) ![](assets/new.png)  
@@ -1032,10 +1035,7 @@
 - [2021-03-24-互联网的很卷，嵌入式春天？](https://www.v2ex.com/t/764836) ![](assets/new.png)  
 - [2021-03-24-说说我这几天折腾多拨的情况，我这是佛山，欢迎大家也来报告下](https://www.v2ex.com/t/764835) ![](assets/new.png)  
 - [2021-03-24-关于二维码，扫码和识别二维码有什么区别？](https://www.v2ex.com/t/764834) ![](assets/new.png)  
-- [2021-03-24-V2EX-区块链开发者交流群重新开放申请](https://www.v2ex.com/t/764833) ![](assets/new.png)  
 - [2021-03-24-项目-Grant-V2EX-区块链开发/运维交流群重新开放申请入驻](https://www.v2ex.com/t/764831) ![](assets/new.png)  
-- [2021-03-24-开源了，希望咱们做程序员的各位兄弟靠他多多赚钱，奥利给](https://www.v2ex.com/t/764830) ![](assets/new.png)  
-- [2021-03-24-上海/深圳-腾讯-PCG-招聘-前端-后端-算法-客户端大量-HC](https://www.v2ex.com/t/764829) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,19 +1085,19 @@
 - [2021-03-25-技术展望-|-实时互动场景下，音频的技术变迁与机遇](https://toutiao.io/k/ba5j4qf) ![](assets/new.png)  
 - [2021-03-25-Go-并发编程（十二）：Singleflight](https://toutiao.io/k/et0ia4w) ![](assets/new.png)  
 - [2021-03-25-JavaScript-语句之常用-for-循环](https://toutiao.io/k/18d0flg) ![](assets/new.png)  
-- [2021-03-25-Raft-成员变更的工程实践](https://toutiao.io/k/txex39l) ![](assets/new.png)  
 - [2021-03-25-6.3k-Star-的终端摸鱼工具！助你纵横股票市场](https://toutiao.io/k/24uoyi8) ![](assets/new.png)  
+- [2021-03-25-Raft-成员变更的工程实践](https://toutiao.io/k/txex39l) ![](assets/new.png)  
 - [2021-03-25-PHP-协程多任务调度实践](https://toutiao.io/k/8pkvoqs) ![](assets/new.png)  
-- [2021-03-25-推荐-面试被吊打：Redis-原理](https://toutiao.io/k/pmxukkm) ![](assets/new.png)  
-- [2021-03-25-推荐-权限体系设计：网易有数-BI-功能品鉴](https://toutiao.io/k/nvr0l12) ![](assets/new.png)  
-- [2021-03-25-推荐-吃透-MQ](https://toutiao.io/k/vzx2ky5) ![](assets/new.png)  
-- [2021-03-25-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
-- [2021-03-25-推荐-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) ![](assets/new.png)  
+- [2021-03-25-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) ![](assets/new.png)  
 - [2021-03-25-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
 - [2021-03-25-推荐-谈谈-Git-存储原理及相关实现](https://toutiao.io/k/mzszqf0) ![](assets/new.png)  
-- [2021-03-25-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
-- [2021-03-25-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
+- [2021-03-25-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
+- [2021-03-25-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
+- [2021-03-25-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
 - [2021-03-25-推荐-如何写出高质量的技术文章？](https://toutiao.io/k/ozl31qb) ![](assets/new.png)  
+- [2021-03-25-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-25-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
+- [2021-03-25-推荐-Go-工程化（九）：项目重构实践](https://toutiao.io/k/et0t2lk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

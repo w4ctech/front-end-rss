@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-26 00:11:09，:rocket: 更新条数: +4128， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-26 00:26:10，:rocket: 更新条数: +4117， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)![](assets/dot.png)   
+- [物联网智库](#物联网智库)  
 
 ## 文章链接
 
@@ -659,9 +659,9 @@
 </summary>
 
 
+- [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) ![](assets/new.png)  
 - [2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) ![](assets/new.png)  
 - [2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html) ![](assets/new.png)  
-- [2021-03-05-科技爱好者周刊（第-148-期）：微增长时代](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -976,6 +976,8 @@
 </summary>
 
 
+- [2021-03-26-Flash-保存计划，保存那些老的-Flash](https://www.v2ex.com/t/765236) ![](assets/new.png)  
+- [2021-03-26-滴答清单添加到-Apple-Watch-表盘，不能自动更新数据变动？](https://www.v2ex.com/t/765235) ![](assets/new.png)  
 - [2021-03-25-头一次遇到饿了么出现运力不足无法配送的情况](https://www.v2ex.com/t/765234) ![](assets/new.png)  
 - [2021-03-25-回顾了最近几场面试，感觉遇到小人了](https://www.v2ex.com/t/765232) ![](assets/new.png)  
 - [2021-03-25-电信限速真恶心](https://www.v2ex.com/t/765231) ![](assets/new.png)  
@@ -994,8 +996,6 @@
 - [2021-03-25-关于-Python-的对象序列化和反序列化?-如何从-json-字符串直接反序化为指定类实例？](https://www.v2ex.com/t/765210) ![](assets/new.png)  
 - [2021-03-25-面试中的在线测试挂了会有什么影响吗](https://www.v2ex.com/t/765208) ![](assets/new.png)  
 - [2021-03-25-软件的快捷键是怎么做到尽量不冲突的？](https://www.v2ex.com/t/765207) ![](assets/new.png)  
-- [2021-03-25-这也行，是巧合是缘分？](https://www.v2ex.com/t/765206) ![](assets/new.png)  
-- [2021-03-25-滨江浦沿街道江南文苑小三房出租](https://www.v2ex.com/t/765205) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1038,21 +1038,26 @@
 </summary>
 
 
-- [2021-03-26-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
-- [2021-03-26-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
-- [2021-03-26-推荐-权限体系设计：网易有数-BI-功能品鉴](https://toutiao.io/k/nvr0l12) ![](assets/new.png)  
-- [2021-03-26-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
-- [2021-03-26-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) ![](assets/new.png)  
+- [2021-03-26-漫画-Go-语言-Defer-机制及妙用](https://toutiao.io/k/9q7xgh3) ![](assets/new.png)  
+- [2021-03-26-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
+- [2021-03-26-京东个性化推荐系统解析](https://toutiao.io/k/icrka3o) ![](assets/new.png)  
+- [2021-03-26-几乎刷完了力扣所有的二分题，我发现了这些东西（下）](https://toutiao.io/k/zgrp470) ![](assets/new.png)  
+- [2021-03-26-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
+- [2021-03-26-不懂就问：ZooKeeper-集群如何进行数据同步？](https://toutiao.io/k/7sfy943) ![](assets/new.png)  
+- [2021-03-26-漫话：如何给女朋友解释为什么-Java-里面的-String-对象是不可变的？](https://toutiao.io/k/iju0qaz) ![](assets/new.png)  
+- [2021-03-26-Synchronized-原理及锁升级分析](https://toutiao.io/k/le20s21) ![](assets/new.png)  
 - [2021-03-26-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
-- [2021-03-26-推荐-如何写出高质量的技术文章？](https://toutiao.io/k/ozl31qb) ![](assets/new.png)  
-- [2021-03-26-推荐-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) ![](assets/new.png)  
-- [2021-03-26-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
-- [2021-03-26-推荐-吃透-MQ](https://toutiao.io/k/vzx2ky5) ![](assets/new.png)  
-- [2021-03-26-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
-- [2021-03-26-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
-- [2021-03-26-推荐-Go-工程化（九）：项目重构实践](https://toutiao.io/k/et0t2lk) ![](assets/new.png)  
-- [2021-03-26-推荐-加密技术的未来：从服务端密码存储到用户数据加密方案](https://toutiao.io/k/lq6l2fa) ![](assets/new.png)  
+- [2021-03-26-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
+- [2021-03-26-推荐-权限体系设计：网易有数-BI-功能品鉴](https://toutiao.io/k/nvr0l12) ![](assets/new.png)  
 - [2021-03-26-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
+- [2021-03-26-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
+- [2021-03-26-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
+- [2021-03-26-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
+- [2021-03-26-推荐-如何写出高质量的技术文章？](https://toutiao.io/k/ozl31qb) ![](assets/new.png)  
+- [2021-03-26-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
+- [2021-03-26-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
+- [2021-03-26-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-26-推荐-加密技术的未来：从服务端密码存储到用户数据加密方案](https://toutiao.io/k/lq6l2fa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,26 +1069,26 @@
 </summary>
 
 
+- [2021-03-26-安全招聘汇总-|-第十二期](https://sec.thief.one/article_content?a_id=c2171eff5aacdf717bc3c089fa70a9b5) ![](assets/new.png)  
+- [2021-03-26-一个真实项目的性能分析策略](https://sec.thief.one/article_content?a_id=be8c7ce0a55b78857793c1681e137a96) ![](assets/new.png)  
+- [2021-03-26-网络安全攻防:软件逆向之PE文件](https://sec.thief.one/article_content?a_id=931bd0187fa016fa65356948476b05b5) ![](assets/new.png)  
+- [2021-03-26-650万名以色列公民数据在网络泄露](https://sec.thief.one/article_content?a_id=188c80c87dff4903e79c07e89222c6de) ![](assets/new.png)  
+- [2021-03-25-【安全圈】650万名以色列公民数据在网络泄露](https://sec.thief.one/article_content?a_id=1a2b29139a7d6744ec776d02656173d0) ![](assets/new.png)  
+- [2021-03-25-每日攻防资讯简报Mar.25th](https://sec.thief.one/article_content?a_id=0afa71c16cc7a0ce4f447870e63673ce) ![](assets/new.png)  
+- [2021-03-25-如何通过自学入职大厂数据分析岗位?](https://sec.thief.one/article_content?a_id=ad695510e075ce73a8132d5f03c39b6f) ![](assets/new.png)  
+- [2021-03-25-【重磅】微步在线X情报社区即将V5升级,给你由内而外的船新体验](https://sec.thief.one/article_content?a_id=f4464603ccecc2d322bcaf87183e6239) ![](assets/new.png)  
+- [2021-03-25-【漏洞通告】Ntopng权限绕过/服务端请求伪造漏洞CVE-2021-...](https://sec.thief.one/article_content?a_id=bc0e67fd2c30577d08cf626bba885978) ![](assets/new.png)  
+- [2021-03-25-奇安信安全中心成金科新区首座授予新冠疫苗“应接尽接”绿色标识楼宇](https://sec.thief.one/article_content?a_id=a0358abd8e4933a1585860441700925d) ![](assets/new.png)  
+- [2021-03-25-使用-burp-抓取命令行工具数据](https://sec.thief.one/article_content?a_id=d260fc71779cebab2fa0c81b9e95245e) ![](assets/new.png)  
+- [2021-03-25-一个“记事本”也可能是全能数据收集器](https://sec.thief.one/article_content?a_id=cfdf2626ea9833d7f9579fab68edf98e) ![](assets/new.png)  
+- [2021-03-25-安全运营的“器与术”:2021国内SIEM/SOC类产品九大能力组厂商推荐](https://sec.thief.one/article_content?a_id=d57515c60e1274918484e3924b95e12b) ![](assets/new.png)  
+- [2021-03-25-一个故事看懂内存条工作原理](https://sec.thief.one/article_content?a_id=35ca2072a14e884aad75785a3f910d38) ![](assets/new.png)  
+- [2021-03-25-我们的第一次近源渗透](https://sec.thief.one/article_content?a_id=fbd34f564dfeac5920838ed949122910) ![](assets/new.png)  
 - [2021-03-25-【技术分享】某游戏xLua分析](https://sec.thief.one/article_content?a_id=9f6be536c8e5094347e0a070eacfa420) ![](assets/new.png)  
 - [2021-03-25-深入理解Android逆向调试原理](https://sec.thief.one/article_content?a_id=c744db32405230dd69c9c4f1f00a1404) ![](assets/new.png)  
 - [2021-03-25-见证创新精进-绿盟科技SIEM/SOC类产品通过中国信通院产品评测](https://sec.thief.one/article_content?a_id=94673ff8f221fe9c3d193135500fd0c6) ![](assets/new.png)  
 - [2021-03-25-【漏洞分析】从零开始pwn掉一台古董路由器](https://sec.thief.one/article_content?a_id=0eb930dbe861726fee9b327fc0600dd1) ![](assets/new.png)  
 - [2021-03-25-比特币市值随回调加深再次跌下1万亿美元](https://sec.thief.one/article_content?a_id=217eaa6ca9eaeddc9b2b48336a9b11d9) ![](assets/new.png)  
-- [2021-03-25-Getdata-forensic-imager取证工具基本使用官方文献归档](https://sec.thief.one/article_content?a_id=e182e8c9209129d1c8c111f995dd57df) ![](assets/new.png)  
-- [2021-03-25-诸子云-|-第二届全国代表大会暨年度评优颁奖典礼](https://sec.thief.one/article_content?a_id=0454fff116f10464677930e0f6e9cc3f) ![](assets/new.png)  
-- [2021-03-25-不要慌!比特币跌破53000美金是最后的诱空!](https://sec.thief.one/article_content?a_id=8fbc6c36d5644b077aaec6c7db839a6a) ![](assets/new.png)  
-- [2021-03-25-Molson-Coors对网络攻击事件展开了调查](https://sec.thief.one/article_content?a_id=4336e76a40e338b075ee0dab9c584448) ![](assets/new.png)  
-- [2021-03-25-每日安全动态推送03-25](https://sec.thief.one/article_content?a_id=d8a47a9bbdd06b9bbff37755cfcdd480) ![](assets/new.png)  
-- [2021-03-25-中国网络安全行业全景图第八版发布](https://sec.thief.one/article_content?a_id=85c40888e42b6bcffa5fa2a4629097b3) ![](assets/new.png)  
-- [2021-03-25-为什么大家都选择学Python?](https://sec.thief.one/article_content?a_id=4c2187dc3257c999828cb6f1f537463c) ![](assets/new.png)  
-- [2021-03-25-当你又穷又迷茫的时候,最应该做的是改变“挣钱方式”](https://sec.thief.one/article_content?a_id=f4b748e1e71085e19a07e33bf9e77013) ![](assets/new.png)  
-- [2021-03-25-高通芯片曝0day漏洞,可致安卓用户内存损坏](https://sec.thief.one/article_content?a_id=3260b0a86688cdfb89d840120faefb68) ![](assets/new.png)  
-- [2021-03-25-干货-|-绕过-Disable_functions-的姿势总结](https://sec.thief.one/article_content?a_id=8addddc55e28ff3678b37f5d2b7de7f7) ![](assets/new.png)  
-- [2021-03-25-4大板块13项细分领域:国舜股份强势入围2021版中国网络安全行业全...](https://sec.thief.one/article_content?a_id=2fb7ea86b85432b0bdd99248e2f2ffe0) ![](assets/new.png)  
-- [2021-03-25-通过ICO图标哈希绕过CDN查找服务器真实IP](https://sec.thief.one/article_content?a_id=aeb2eeda2260922cd2192e0c2cdee78f) ![](assets/new.png)  
-- [2021-03-25-独家揭秘-Centos服务器渗透绝杀技巧](https://sec.thief.one/article_content?a_id=774aa4a067fbd302217cb7f4a7bb06ac) ![](assets/new.png)  
-- [2021-03-25-中国网络安全行业全景图2021年3月第八版发布](https://sec.thief.one/article_content?a_id=83c9ff53b53a9ff865a914ad99fec398) ![](assets/new.png)  
-- [2021-03-25-HVV之是蜜罐又不是蜜罐](https://sec.thief.one/article_content?a_id=80f44ffeba2bb9af49c3c142a42fb51c) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1095,26 +1100,6 @@
 </summary>
 
 
-- [2021-03-20-小米/华为/OPPO......能否将5G消息作为布局物联网的一条主线？](https://www.ershicimi.com/p/e57f55483678c6dc36d4ee61d635dba6) ![](assets/new.png)  
-- [2021-03-20-华为缺货真相调查：走遍北京线下门店，从有钱难买到坐地起价](https://www.ershicimi.com/p/c9d1c245c0e67bb41754a9041410ab0c) ![](assets/new.png)  
-- [2021-03-19-昨夜，涂鸦智能登陆纽交所！蛰伏7年成全球IoT云平台第一股](https://www.ershicimi.com/p/48e49e981c7976651db36ae9fb3d5e8e) ![](assets/new.png)  
-- [2021-03-19-关于智慧城市，我来说点能听懂的……](https://www.ershicimi.com/p/891231e8c5251431bd8dfc1caaf7916f) ![](assets/new.png)  
-- [2021-03-19-电子商务大行其道，物联网如何赋能物流仓储？](https://www.ershicimi.com/p/22e168a759eba83c01aad861d7967dbd) ![](assets/new.png)  
-- [2021-03-18-字节跳动重磅进军芯片产业，是“故事新编”还是“掌握未来”？](https://www.ershicimi.com/p/a92476847b8eb90e14dfe2ab2100ef1d) ![](assets/new.png)  
-- [2021-03-18-美格智能发布高性价比5G智能算力模组-端侧智能AI设备最佳解决方案](https://www.ershicimi.com/p/003be5d7adf220538c27dc18da55b263) ![](assets/new.png)  
-- [2021-03-18-【今晚19:30开播】68%的物联网数据被“废弃”？如何挖掘价值](https://www.ershicimi.com/p/3701f3683e14b8a69c93f90c52b78649) ![](assets/new.png)  
-- [2021-03-18-6G技术长啥样？5大趋势，13个核心技术2030年落地](https://www.ershicimi.com/p/2111983051fe68ea2c949b4d5613904a) ![](assets/new.png)  
-- [2021-03-17-终于！华为官宣开始收5G专利费，苹果三星都得交钱……](https://www.ershicimi.com/p/bdda4a33e106e1634e454f6205a90995) ![](assets/new.png)  
-- [2021-03-17-【直播报名/倒计时1天】68%的物联网数据被“废弃”？如何挖掘价值](https://www.ershicimi.com/p/1efd5b84aa2db2652fc53240be0edc3b) ![](assets/new.png)  
-- [2021-03-17-时隔一年，再聊Open-RAN](https://www.ershicimi.com/p/a0706a3fe9bb99eaed90ecc5a64375ea) ![](assets/new.png)  
-- [2021-03-16-点亮啤酒饮料行业首座“灯塔”，卡奥斯开启“灯塔工厂”跨行业赋能新篇章](https://www.ershicimi.com/p/96bce75df1ee800c595d15b8904ac53f) ![](assets/new.png)  
-- [2021-03-16-物联网在酒店卫生监管中小试牛刀，低成本、高可靠技术“小材大用”打开庞大市场](https://www.ershicimi.com/p/4779143d3b47f452e1bd2c5f0dbfa859) ![](assets/new.png)  
-- [2021-03-16-微软、IBM们的中国研究院是怎样一步步“躺平”的？](https://www.ershicimi.com/p/3cad280dbffa8273cce06866a2518fb0) ![](assets/new.png)  
-- [2021-03-15-央视315起底，这些企业急了：偷人脸的摄像头，UC、360搜索乱象不止，特斯拉凭什么没上？](https://www.ershicimi.com/p/05c7421c098d03e389163b323ce193c7) ![](assets/new.png)  
-- [2021-03-15-【直播报名】68%的物联网数据被“废弃”？如何挖掘价值](https://www.ershicimi.com/p/9d679b4bdecb215135a44ac818517807) ![](assets/new.png)  
-- [2021-03-15-​中科院官宣：光刻机跌落神坛？](https://www.ershicimi.com/p/de3f9ca25fe469a1b97edc12f8d98a4b) ![](assets/new.png)  
-- [2021-03-14-“特斯拉回应海南碰撞事故”登热搜，网友：充电怪国网，刹车怨地滑，特斯拉怎么会有错呢？](https://www.ershicimi.com/p/bb62235c2e755001ca0009c4f952807a) ![](assets/new.png)  
-- [2021-03-14-初探5G工业互联网的制胜之道：OICT跨界融合](https://www.ershicimi.com/p/88c86f72d42b1888769555744b171b0c) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

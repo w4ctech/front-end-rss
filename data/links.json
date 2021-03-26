@@ -17588,6 +17588,11 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "一套标准的前端代码工作流",
+        "link": "https://www.ershicimi.com/p/066c0cd6a38717b85e9d7c719472106f",
+        "date": "2021-03-26"
+      },
+      {
         "title": "为什么 Vue3 选择了 CSS 变量",
         "link": "https://www.ershicimi.com/p/9477760464afd96eea8de8e5f1bd0a7d",
         "date": "2021-03-25"
@@ -17681,11 +17686,6 @@
         "title": "好家伙，这些写 CSS 的新姿势你还不知道？",
         "link": "https://www.ershicimi.com/p/0af5023d10df0c7c6dddaaa925b3887c",
         "date": "2021-03-08"
-      },
-      {
-        "title": "漫画 | 一个养活了4代程序员的男人",
-        "link": "https://www.ershicimi.com/p/91d8f2ab7c8b472ee49fd3b8091abf0e",
-        "date": "2021-03-06"
       }
     ]
   },
@@ -19944,6 +19944,156 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "94 年程序员被社会毒打多年，打算事业编上岸，做一个躺平的咸鱼",
+        "link": "https://www.v2ex.com/t/765313",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "Ansible playbook become 模块一定要配置 sudoers 为 ALL 吗？",
+        "link": "https://www.v2ex.com/t/765312",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "怎么自动标注数据集呢？",
+        "link": "https://www.v2ex.com/t/765311",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "受夫妻财务问题一贴的启发，调查一下各位家庭双方的收入对比",
+        "link": "https://www.v2ex.com/t/765310",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "举报 server 酱私自调用 api 发广告行为",
+        "link": "https://www.v2ex.com/t/765309",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "是我火星了么， Google 官方的 android 11 x86_64 模拟器可以直接装 v 信",
+        "link": "https://www.v2ex.com/t/765308",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[新浪] 招聘 高级 C++开发工程师（分布式存储研发）",
+        "link": "https://www.v2ex.com/t/765305",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "想自己个人注册一家公司需要什么？",
+        "link": "https://www.v2ex.com/t/765304",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "有没有出京东会员的",
+        "link": "https://www.v2ex.com/t/765303",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "一个简单的动态令牌 App(基于 TOTP)",
+        "link": "https://www.v2ex.com/t/765302",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "高性价比躺尸圣地，背上气罐，探索那 70%的世界",
+        "link": "https://www.v2ex.com/t/765301",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "哎，发个月经贴。大家有没有推荐的物联网卡/纯流量卡？最好免实名不限流量或者大流量的，每个月 100G+",
+        "link": "https://www.v2ex.com/t/765300",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "阿里云服务器克隆 git 仓库太慢咋整",
+        "link": "https://www.v2ex.com/t/765299",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "2021 快手 [效率工程] - 前端工程师 - 金三银四火热招聘季，海量 hc 等你来....",
+        "link": "https://www.v2ex.com/t/765298",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "一次不太愉快的货拉拉面试经历",
+        "link": "https://www.v2ex.com/t/765296",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "耗时请求的网络协议选择请教",
+        "link": "https://www.v2ex.com/t/765295",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "macOS 的 Safari 插件有问题，求解决方法。",
+        "link": "https://www.v2ex.com/t/765293",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "Mac 版微信消息同步不及时怎么办？",
+        "link": "https://www.v2ex.com/t/765291",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "你们开发用的编辑器用的都是啥字体？",
+        "link": "https://www.v2ex.com/t/765290",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[新浪] 招聘运维开发工程师",
+        "link": "https://www.v2ex.com/t/765289",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "在 macbook 上使用浏览器太纠结了， chrome 和 safari 切换的难受",
+        "link": "https://www.v2ex.com/t/765288",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "怎么自动标注完数据集呢？",
+        "link": "https://www.v2ex.com/t/765287",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "琶洲中州中心 招聘坑位，内推",
+        "link": "https://www.v2ex.com/t/765286",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "电信的翼长宽怎么样？坐标上海",
+        "link": "https://www.v2ex.com/t/765284",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "求助， vue lib 库 相关",
+        "link": "https://www.v2ex.com/t/765283",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "Intellij 插件新秀 CommentShell,让你的注释运行起来！",
+        "link": "https://www.v2ex.com/t/765282",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "老婆收入是我的 2 倍！同为码农，她还房贷，我只能承包家务",
+        "link": "https://www.v2ex.com/t/765281",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "压薪真是难受",
+        "link": "https://www.v2ex.com/t/765279",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "Chrome 查看网页源代码页面取消自动换行的动机是什么？",
+        "link": "https://www.v2ex.com/t/765278",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "长城汽车招聘内推(运维相关)！",
+        "link": "https://www.v2ex.com/t/765277",
+        "date": "2021-03-26"
+      },
+      {
         "title": "迫于最近太无聊，找个辅助一起玩，艾欧里亚，均衡，黑色玫瑰都可 我 ad, 报 iID ++++",
         "link": "https://www.v2ex.com/t/765276",
         "date": "2021-03-26"
@@ -19982,136 +20132,6 @@
         "title": "[广州] 九毛九集团招聘后端开发工程师",
         "link": "https://www.v2ex.com/t/765264",
         "date": "2021-03-26"
-      },
-      {
-        "title": "有哪些你看着眼熟实际并不认识的字？",
-        "link": "https://www.v2ex.com/t/765262",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "MacOS 微信端的朋友圈",
-        "link": "https://www.v2ex.com/t/765261",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "快手科技 2021 春招&暑期实习，大量职位，帮助内推",
-        "link": "https://www.v2ex.com/t/765259",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "Java 2 年以上开发 2 枚",
-        "link": "https://www.v2ex.com/t/765258",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "这句话怎么翻译？",
-        "link": "https://www.v2ex.com/t/765256",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "各位码农前辈，租房贵重设备如何防偷？",
-        "link": "https://www.v2ex.com/t/765254",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "买车推荐：沃尔沃 XC60 怎么样？",
-        "link": "https://www.v2ex.com/t/765252",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "写代码也快 6 年了，想学别人做外包接单，应该如何开始？",
-        "link": "https://www.v2ex.com/t/765251",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "为什么早饭每天吃一样的就可以，午饭吃一样的就会腻",
-        "link": "https://www.v2ex.com/t/765250",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "之前 3500 出了一套整机，现在想玩游戏又买了新电脑，感觉自己像个 sb 怎么办",
-        "link": "https://www.v2ex.com/t/765249",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "内推群，求职者欢迎来群里蹲一个机会，不加班的公司也不少，内推大佬也欢迎鸭~",
-        "link": "https://www.v2ex.com/t/765247",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "Python web 求教",
-        "link": "https://www.v2ex.com/t/765246",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "昨天中了一个创业板的股票，目前多少%可以卖",
-        "link": "https://www.v2ex.com/t/765245",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "感觉 MagSafe 充电比想象中快",
-        "link": "https://www.v2ex.com/t/765242",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "Crystal 1.0.0 发布了",
-        "link": "https://www.v2ex.com/t/765241",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "pandas DataFrame",
-        "link": "https://www.v2ex.com/t/765240",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "联通 5G 的信号问题",
-        "link": "https://www.v2ex.com/t/765238",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[远程]《Casbin 开源软件》中科院软件所暑期 2021（中国编程之夏）优秀学生、预选生招募",
-        "link": "https://www.v2ex.com/t/765237",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "Flash 保存计划，保存那些老的 Flash",
-        "link": "https://www.v2ex.com/t/765236",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "滴答清单添加到 Apple Watch 表盘，不能自动更新数据变动？",
-        "link": "https://www.v2ex.com/t/765235",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "头一次遇到饿了么出现运力不足无法配送的情况",
-        "link": "https://www.v2ex.com/t/765234",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "回顾了最近几场面试，感觉遇到小人了",
-        "link": "https://www.v2ex.com/t/765232",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "电信限速真恶心",
-        "link": "https://www.v2ex.com/t/765231",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "请问有挖矿教程吗",
-        "link": "https://www.v2ex.com/t/765230",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "Mr.2 帮助你将本地端口暴露在外网.支持 TCP/UDP [ 增加 httpsserver 和 httpsclient ]",
-        "link": "https://www.v2ex.com/t/765229",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "在杭州碰到的奇奇怪怪的小公司",
-        "link": "https://www.v2ex.com/t/765228",
-        "date": "2021-03-25"
       }
     ]
   },
@@ -20233,13 +20253,18 @@
         "date": "2021-03-26"
       },
       {
+        "title": "值得拥有的手绘风格画图工具",
+        "link": "https://toutiao.io/k/ukg83qx",
+        "date": "2021-03-26"
+      },
+      {
         "title": "Redis 分布式锁遇到的序列化问题",
         "link": "https://toutiao.io/k/adg4qv6",
         "date": "2021-03-26"
       },
       {
-        "title": "值得拥有的手绘风格画图工具",
-        "link": "https://toutiao.io/k/ukg83qx",
+        "title": "不懂就问：ZooKeeper 集群如何进行数据同步？",
+        "link": "https://toutiao.io/k/7sfy943",
         "date": "2021-03-26"
       },
       {
@@ -20253,23 +20278,18 @@
         "date": "2021-03-26"
       },
       {
-        "title": "不懂就问：ZooKeeper 集群如何进行数据同步？",
-        "link": "https://toutiao.io/k/7sfy943",
-        "date": "2021-03-26"
-      },
-      {
         "title": "漫话：如何给女朋友解释为什么 Java 里面的 String 对象是不可变的？",
         "link": "https://toutiao.io/k/iju0qaz",
         "date": "2021-03-26"
       },
       {
-        "title": "Synchronized 原理及锁升级分析",
-        "link": "https://toutiao.io/k/le20s21",
+        "title": "第 046 期「码农周刊 VIP 会员专属邮件周报」今晚发送，请查收！",
+        "link": "https://toutiao.io/k/lbl0dcp",
         "date": "2021-03-26"
       },
       {
-        "title": "第 046 期「码农周刊 VIP 会员专属邮件周报」今晚发送，请查收！",
-        "link": "https://toutiao.io/k/lbl0dcp",
+        "title": "Synchronized 原理及锁升级分析",
+        "link": "https://toutiao.io/k/le20s21",
         "date": "2021-03-26"
       },
       {
@@ -20288,13 +20308,13 @@
         "date": "2021-03-26"
       },
       {
-        "title": "一套 Flutter 混排瀑布流解决方案",
-        "link": "https://toutiao.io/k/kfavrus",
+        "title": "答读者问：为什么 Go 里面不能把任意切片转换为 []interface{} ？",
+        "link": "https://toutiao.io/k/y19x9mx",
         "date": "2021-03-26"
       },
       {
-        "title": "答读者问：为什么 Go 里面不能把任意切片转换为 []interface{} ？",
-        "link": "https://toutiao.io/k/y19x9mx",
+        "title": "一套 Flutter 混排瀑布流解决方案",
+        "link": "https://toutiao.io/k/kfavrus",
         "date": "2021-03-26"
       },
       {
@@ -20303,58 +20323,23 @@
         "date": "2021-03-26"
       },
       {
-        "title": "[推荐] 加密技术的未来：从服务端密码存储到用户数据加密方案",
-        "link": "https://toutiao.io/k/lq6l2fa",
+        "title": "实践之后，我们来谈谈如何做好威胁建模",
+        "link": "https://toutiao.io/k/aqaom3o",
         "date": "2021-03-26"
       },
       {
-        "title": "[推荐] 不懂什么是云原生？看完这篇文章就够了！",
-        "link": "https://toutiao.io/k/ghs0i7r",
+        "title": "用 JS 解释 JS ！详解 AST 及其应用",
+        "link": "https://toutiao.io/k/yo2lcsa",
         "date": "2021-03-26"
       },
       {
-        "title": "[推荐] 21 大软件架构特点的全面解析",
-        "link": "https://toutiao.io/k/2n0entj",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] 万字长文：彻底搞懂容器镜像构建",
-        "link": "https://toutiao.io/k/le19zdx",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] 你对天天挂在嘴边的高并发，怕是有什么误解吧？",
-        "link": "https://toutiao.io/k/xpyufe6",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] 如何写出高质量的技术文章？",
-        "link": "https://toutiao.io/k/ozl31qb",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] TCP/IP 常见攻击手段",
-        "link": "https://toutiao.io/k/gqpcukq",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] 吃透 MQ",
-        "link": "https://toutiao.io/k/vzx2ky5",
+        "title": "2021 Raft 实现细节",
+        "link": "https://toutiao.io/k/vblur29",
         "date": "2021-03-26"
       },
       {
         "title": "[推荐] 算法面试套路知多少",
         "link": "https://toutiao.io/k/yl7s9sl",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] Redis 教程：Redis 知识体系详解",
-        "link": "https://toutiao.io/k/av396i0",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] 权限体系设计：网易有数 BI 功能品鉴",
-        "link": "https://toutiao.io/k/nvr0l12",
         "date": "2021-03-26"
       },
       {
@@ -20368,13 +20353,63 @@
         "date": "2021-03-26"
       },
       {
-        "title": "[推荐] 架构实践全景图",
-        "link": "https://toutiao.io/k/nu45i3g",
+        "title": "[推荐] 如何写出高质量的技术文章？",
+        "link": "https://toutiao.io/k/ozl31qb",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 21 大软件架构特点的全面解析",
+        "link": "https://toutiao.io/k/2n0entj",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] TCP/IP 常见攻击手段",
+        "link": "https://toutiao.io/k/gqpcukq",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 万字长文：彻底搞懂容器镜像构建",
+        "link": "https://toutiao.io/k/le19zdx",
         "date": "2021-03-26"
       },
       {
         "title": "[推荐] Java 工程师核心书单，阿里大佬看了都说好",
         "link": "https://toutiao.io/k/5apgnxp",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 加密技术的未来：从服务端密码存储到用户数据加密方案",
+        "link": "https://toutiao.io/k/lq6l2fa",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] [译] 新老手必备的 34 种 JavaScript 简写优化技术",
+        "link": "https://toutiao.io/k/jdslwhk",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 带你深入理解 Java 内存模型理论",
+        "link": "https://toutiao.io/k/0ic2o68",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 不懂什么是云原生？看完这篇文章就够了！",
+        "link": "https://toutiao.io/k/ghs0i7r",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 架构实践全景图",
+        "link": "https://toutiao.io/k/nu45i3g",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 你对天天挂在嘴边的高并发，怕是有什么误解吧？",
+        "link": "https://toutiao.io/k/xpyufe6",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 权限体系设计：网易有数 BI 功能品鉴",
+        "link": "https://toutiao.io/k/nvr0l12",
         "date": "2021-03-26"
       }
     ]

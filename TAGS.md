@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-26 02:19:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-26 02:46:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -252,7 +252,6 @@
 
 
 - [【知乎日报】作为从业者，你对初入游戏行业的新人有哪些建议？](https://www.ershicimi.com/p/57e0214e66013c51f4efa198e2fd5dcb)
-- [【V2EX】之前-3500-出了一套整机，现在想玩游戏又买了新电脑，感觉自己像个-sb-怎么办](https://www.v2ex.com/t/765249)
 - [【安全热点】【技术分享】某游戏xLua分析](https://sec.thief.one/article_content?a_id=9f6be536c8e5094347e0a070eacfa420)
 - [【安全热点】英国医疗行业主管Twitter账户被入侵,用来宣传虚假游戏机广告](https://sec.thief.one/article_content?a_id=b7bf3228e23f148a0f9819178390cd81)
 - [......【查看更多】......](./details/tags/dev-game.md)
@@ -503,6 +502,7 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】阿里云服务器克隆-git-仓库太慢咋整](https://www.v2ex.com/t/765299)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

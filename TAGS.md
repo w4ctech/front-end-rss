@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-26 07:37:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-26 07:50:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -207,7 +207,6 @@
 - [【前端之巅】两天快速开发一个自己的微信小程序-|-活动推荐](https://www.ershicimi.com/p/9f75c8284a5be9e0abc40de5a3001e08)
 - [【Nodejs技术栈】两天快速开发一个自己的微信小程序](https://www.ershicimi.com/p/a1d5b90a969dd851472f08a9b6749930)
 - [【前端日刊】从0到1带你开发一个人脸识别考勤小程序](https://www.ershicimi.com/p/7fdc7a8a92088c3678ae5553440b47ec)
-- [【V2EX】食堂管理系统-有没有好的微信小程序服务提供呢，最近包吃改成充卡消费了。想着都-2021-年了-扫码不好吗](https://www.v2ex.com/t/765384)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -366,6 +365,7 @@
 - [【前端之巅】字节跳动、美团、阿里等国内大公司的-200+-技术干货视频，任你选-|-活动推荐](https://www.ershicimi.com/p/2aff6bd68b5bffede3f84395069e1105)
 - [【张鑫旭-鑫空间-鑫生活】借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/)
 - [【编程之上】前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978)
+- [【V2EX】靠谱的加密视频技术方案有哪些？](https://www.v2ex.com/t/765433)
 - [【技术头条】又一大型直播-App-被捣毁，这个行业还是太赚钱了。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14230&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY2TjtLHK6w7ZVuzPHTwLNg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】【视频】|-Python:文件操作总结和图书管理](https://sec.thief.one/article_content?a_id=e8984b14d13694f75fb0c0b67b64d4f4)
 - [【安全热点】【原创】浅谈网络摄像头分析](https://sec.thief.one/article_content?a_id=29fef3a25e467cb5ec1e9a3798d4806b)
@@ -580,6 +580,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】江西｜新增-1-例本土无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiptvtiRkfvWTiNeCtNrqP210326&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】全国｜新增确诊病例-11-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti08h05CrL3mTKVYv9dpdj210326&isfromapp=1)
 - [【React中文社区】招个数据分析工程师，我给25k](https://www.ershicimi.com/p/003c2b9ee98c0992b36c5258e82747d3)
 - [【React中文社区】一文掌握GO语言实战技能三](https://www.ershicimi.com/p/46cac625ac351e226dc4486f2397cb50)
 - [【React中文社区】一文掌握GO语言实战技能二](https://www.ershicimi.com/p/0efd18d6a0774aa88db09fc12989a6ab)
@@ -598,8 +600,6 @@
 - [【前端早读课】【图书】活文档：与代码共同演进](https://www.ershicimi.com/p/97ab30bce7cf0a5c6da975cd5a25fe43)
 - [【前端大全】如何创建一个自动改变的-favicon](https://www.ershicimi.com/p/fd34f00ab37737d2a41623bac2f491e7)
 - [【前端大全】前端每日一题-#58](https://www.ershicimi.com/p/1006df9e44d97221aebf6176d205475f)
-- [【前端大全】设计灵感：12组股票证券类App设计](https://www.ershicimi.com/p/4d5ceb938c6f85f659981d223377d280)
-- [【前端大全】铃盛X美团前端线上分享会，火速报名中!](https://www.ershicimi.com/p/25b56965601f9a17c4011423adea2345)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

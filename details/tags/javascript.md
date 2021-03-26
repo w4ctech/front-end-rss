@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-26 07:37:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-26 07:50:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -59,6 +59,7 @@
 - [2021-03-09-如何检查JavaScript对象上是否存在一个属性？](https://www.ershicimi.com/p/bafd480e057135780211caa067ff66c6) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-03-25-王一博、谭松韵相继终止合作，是时候讲讲新疆棉花事件背后的真相了](https://www.ershicimi.com/p/5fc4b43f5acbcbdf036fb9b2be7b2fcc) 
+- [2021-03-26-希望鹅厂的能看见，什么时候适配-m1-的-mac-端](https://www.v2ex.com/t/765431) 
 - [2021-03-26-腾讯开源：Kotlin-高性能特效动画组件！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14238&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHcELeclN2NIGl6Teock1eQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-03-26-SQLAlchemy-1.4-异步特性真香](https://toutiao.io/k/c7f5ftp) 
 - [2021-03-26-用-JS-解释-JS-！详解-AST-及其应用](https://toutiao.io/k/yo2lcsa) 

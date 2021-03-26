@@ -1,12 +1,14 @@
-:alarm_clock: 更新时间: 2021-03-26 04:43:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-26 04:57:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-03-26-是不是没希望了？](https://www.v2ex.com/t/765364) 
+- [2021-03-26-Knativa-基于流量的灰度发布和自动弹性实践](https://www.v2ex.com/t/765363) 
+- [2021-03-26-来个另类的，-让-Spring-Web-应用使用-ASP.NET-Core-Identity-的数据库进行用户认证](https://www.v2ex.com/t/765362) 
 - [2021-03-26-MacOS-上有没有类似-MobaXterm-的软件？](https://www.v2ex.com/t/765361) 
-- [2021-03-26-千万不要在阿里云备案了，这家公司真的太不注重个人隐私了](https://www.v2ex.com/t/765360) 
 - [2021-03-26-腾讯/武汉-招聘前端-web-开发工程师](https://www.v2ex.com/t/765359) 
 - [2021-03-26-阿里淘系平台会员前端-社招/校招内推](https://www.v2ex.com/t/765357) 
 - [2021-03-26-东芝硬盘-SMART-信息-Raw-Read-Error-Rate-异常，不会是快挂了吧？](https://www.v2ex.com/t/765356) 
@@ -36,4 +38,3 @@
 - [2021-03-26-字节跳动-社招/校招内推啦](https://www.v2ex.com/t/765317) 
 - [2021-03-26-自动添加当前外网-IP-到-AWS-防火墙白名单](https://www.v2ex.com/t/765316) 
 - [2021-03-26-thinkpad-+-Linux-mint-有搞成功过蓝牙鼠标连接和指纹识别的么？](https://www.v2ex.com/t/765315) 
-- [2021-03-26-Ansible-playbook-become-模块一定要配置-sudoers-为-ALL-吗？](https://www.v2ex.com/t/765312) 

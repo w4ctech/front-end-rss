@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-26 01:33:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-26 01:48:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -252,7 +252,6 @@
 
 - [【知乎日报】作为从业者，你对初入游戏行业的新人有哪些建议？](https://www.ershicimi.com/p/57e0214e66013c51f4efa198e2fd5dcb)
 - [【V2EX】之前-3500-出了一套整机，现在想玩游戏又买了新电脑，感觉自己像个-sb-怎么办](https://www.v2ex.com/t/765249)
-- [【V2EX】北京豪腾嘉科科技有限公司（疯狂游戏）怎么样？](https://www.v2ex.com/t/765213)
 - [【安全热点】【技术分享】某游戏xLua分析](https://sec.thief.one/article_content?a_id=9f6be536c8e5094347e0a070eacfa420)
 - [【安全热点】英国医疗行业主管Twitter账户被入侵,用来宣传虚假游戏机广告](https://sec.thief.one/article_content?a_id=b7bf3228e23f148a0f9819178390cd81)
 - [......【查看更多】......](./details/tags/dev-game.md)
@@ -461,6 +460,7 @@
 - [【全栈前端精选】【全栈前端】学习打卡养成计划](https://www.ershicimi.com/p/71e28a140bb9ed2dca7cedbfe62f95ac)
 - [【程序员成长指北】算法面试不过关，你怎么才能进大厂？](https://www.ershicimi.com/p/e235a397ca16ab009211be299d0a5508)
 - [【InfoQ】100道AI算法高频面试题（附答案详解）-｜-Q推荐](https://www.ershicimi.com/p/90fba32ffadbc09fc0cae2b5fd2de96f)
+- [【开发者头条】推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl)
 - [【安全热点】太牛逼了,Python和算法简直是绝配](https://sec.thief.one/article_content?a_id=e2368f25548a49aa00e7ad6784bc4a41)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

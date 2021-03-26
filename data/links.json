@@ -19826,6 +19826,21 @@
     "link": "https://www.ershicimi.com/a/198",
     "items": [
       {
+        "title": "王一博、谭松韵相继终止合作，是时候讲讲新疆棉花事件背后的真相了",
+        "link": "https://www.ershicimi.com/p/5fc4b43f5acbcbdf036fb9b2be7b2fcc",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "普通女孩怎么提升穿搭品味？",
+        "link": "https://www.ershicimi.com/p/7a7aa9f673e3cce4323229fc09b5a835",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "知乎故事 | 在新疆摘棉花是什么体验？",
+        "link": "https://www.ershicimi.com/p/4dfe2cfcb3e7812c9b486a3de3b65b1b",
+        "date": "2021-03-25"
+      },
+      {
         "title": "服装品牌 H&M 一边造谣抵制新疆棉花，一边又想在中国赚钱？",
         "link": "https://www.ershicimi.com/p/3e74e3d059533f030c223ebda5f5c3ac",
         "date": "2021-03-24"
@@ -19909,21 +19924,6 @@
         "title": "深层清洁好？药妆更安全？千万别再信这些护肤「伪概念」了",
         "link": "https://www.ershicimi.com/p/b8a32b59d11af2c981e993849a564ecd",
         "date": "2021-03-17"
-      },
-      {
-        "title": "为什么人类要进化出牙缝？整整齐齐不好吗？",
-        "link": "https://www.ershicimi.com/p/084b65d4d09f3f7fce3e3798312cca0b",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "知乎故事 | 人为了避免社会性死亡能有多拼？",
-        "link": "https://www.ershicimi.com/p/a734a0f27691fa49916b1fd3a7ade494",
-        "date": "2021-03-17"
-      },
-      {
-        "title": "你可能想不到，迪迦奥特曼到底有多强",
-        "link": "https://www.ershicimi.com/p/0f2f0f06fc08e03765b428b9d76713a0",
-        "date": "2021-03-16"
       }
     ]
   },
@@ -19932,6 +19932,16 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "[广州] 九毛九集团招聘后端开发工程师",
+        "link": "https://www.v2ex.com/t/765264",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "有哪些你看着眼熟实际并不认识的字？",
+        "link": "https://www.v2ex.com/t/765262",
+        "date": "2021-03-26"
+      },
       {
         "title": "MacOS 微信端的朋友圈",
         "link": "https://www.v2ex.com/t/765261",
@@ -20091,21 +20101,6 @@
         "title": "openpyxl 如何逐列附加写入？",
         "link": "https://www.v2ex.com/t/765218",
         "date": "2021-03-25"
-      },
-      {
-        "title": "请问家里的网络用的杭州电信，现在可以有 IPV6 的固定 IP 吗？",
-        "link": "https://www.v2ex.com/t/765214",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "北京豪腾嘉科科技有限公司（疯狂游戏）怎么样？",
-        "link": "https://www.v2ex.com/t/765213",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "向文件追加数据的时候发生断电之类的故障，会怎样？",
-        "link": "https://www.v2ex.com/t/765212",
-        "date": "2021-03-25"
       }
     ]
   },
@@ -20114,6 +20109,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "强化学习入门——说到底研究的是如何学习 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14244&url=https%3A%2F%2Finsights.thoughtworks.cn%2Freinforcement-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-03-26"
+      },
       {
         "title": "【白话科普】聊聊 DNS 的那些小知识 (zhuanlan.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14243&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F359735158%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -20208,11 +20208,6 @@
         "title": "硬件安全：ARM体系架构的安全特性演进 (www.secrss.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14225&url=https%3A%2F%2Fwww.secrss.com%2Farticles%2F9812%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2021-03-26"
-      },
-      {
-        "title": "MTK平台Android 安全中secure boot机制 (blog.csdn.net)",
-        "link": "https://blogread.cn/news/go.php?idItem=14224&url=https%3A%2F%2Fblog.csdn.net%2Fqq_43805880%2Farticle%2Fdetails%2F108062898%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-03-26"
       }
     ]
   },
@@ -20242,13 +20237,13 @@
         "date": "2021-03-26"
       },
       {
-        "title": "不懂就问：ZooKeeper 集群如何进行数据同步？",
-        "link": "https://toutiao.io/k/7sfy943",
+        "title": "京东个性化推荐系统解析",
+        "link": "https://toutiao.io/k/icrka3o",
         "date": "2021-03-26"
       },
       {
-        "title": "京东个性化推荐系统解析",
-        "link": "https://toutiao.io/k/icrka3o",
+        "title": "不懂就问：ZooKeeper 集群如何进行数据同步？",
+        "link": "https://toutiao.io/k/7sfy943",
         "date": "2021-03-26"
       },
       {
@@ -20267,28 +20262,23 @@
         "date": "2021-03-26"
       },
       {
-        "title": "[推荐] 不懂什么是云原生？看完这篇文章就够了！",
-        "link": "https://toutiao.io/k/ghs0i7r",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] 万字长文：彻底搞懂容器镜像构建",
-        "link": "https://toutiao.io/k/le19zdx",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] 21 大软件架构特点的全面解析",
-        "link": "https://toutiao.io/k/2n0entj",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] 2021 有哪些不容错过的后端技术趋势",
-        "link": "https://toutiao.io/k/e3lq37o",
-        "date": "2021-03-26"
-      },
-      {
         "title": "[推荐] 你对天天挂在嘴边的高并发，怕是有什么误解吧？",
         "link": "https://toutiao.io/k/xpyufe6",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] [译] 新老手必备的 34 种 JavaScript 简写优化技术",
+        "link": "https://toutiao.io/k/jdslwhk",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 算法面试套路知多少",
+        "link": "https://toutiao.io/k/yl7s9sl",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 不懂什么是云原生？看完这篇文章就够了！",
+        "link": "https://toutiao.io/k/ghs0i7r",
         "date": "2021-03-26"
       },
       {
@@ -20297,33 +20287,8 @@
         "date": "2021-03-26"
       },
       {
-        "title": "[推荐] Redis 教程：Redis 知识体系详解",
-        "link": "https://toutiao.io/k/av396i0",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] 如何写出高质量的技术文章？",
-        "link": "https://toutiao.io/k/ozl31qb",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] 吃透 MQ",
-        "link": "https://toutiao.io/k/vzx2ky5",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] 权限体系设计：网易有数 BI 功能品鉴",
-        "link": "https://toutiao.io/k/nvr0l12",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] Redis 不是一直号称单线程效率也很高吗，为什么又采用多线程了？",
-        "link": "https://toutiao.io/k/vsxwjpf",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "[推荐] 架构实践全景图",
-        "link": "https://toutiao.io/k/nu45i3g",
+        "title": "[推荐] 万字长文：彻底搞懂容器镜像构建",
+        "link": "https://toutiao.io/k/le19zdx",
         "date": "2021-03-26"
       },
       {
@@ -20332,13 +20297,43 @@
         "date": "2021-03-26"
       },
       {
-        "title": "[推荐] 加密技术的未来：从服务端密码存储到用户数据加密方案",
-        "link": "https://toutiao.io/k/lq6l2fa",
+        "title": "[推荐] 架构实践全景图",
+        "link": "https://toutiao.io/k/nu45i3g",
         "date": "2021-03-26"
       },
       {
         "title": "[推荐] Java 工程师核心书单，阿里大佬看了都说好",
         "link": "https://toutiao.io/k/5apgnxp",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] Redis 教程：Redis 知识体系详解",
+        "link": "https://toutiao.io/k/av396i0",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 吃透 MQ",
+        "link": "https://toutiao.io/k/vzx2ky5",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 21 大软件架构特点的全面解析",
+        "link": "https://toutiao.io/k/2n0entj",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 加密技术的未来：从服务端密码存储到用户数据加密方案",
+        "link": "https://toutiao.io/k/lq6l2fa",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 2021 有哪些不容错过的后端技术趋势",
+        "link": "https://toutiao.io/k/e3lq37o",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "[推荐] 带你深入理解 Java 内存模型理论",
+        "link": "https://toutiao.io/k/0ic2o68",
         "date": "2021-03-26"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-26 01:33:10，:rocket: 更新条数: +4136， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-26 01:48:00，:rocket: 更新条数: +4135， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -943,6 +943,9 @@
 </summary>
 
 
+- [2021-03-25-王一博、谭松韵相继终止合作，是时候讲讲新疆棉花事件背后的真相了](https://www.ershicimi.com/p/5fc4b43f5acbcbdf036fb9b2be7b2fcc) ![](assets/new.png)  
+- [2021-03-25-普通女孩怎么提升穿搭品味？](https://www.ershicimi.com/p/7a7aa9f673e3cce4323229fc09b5a835) ![](assets/new.png)  
+- [2021-03-25-知乎故事-|-在新疆摘棉花是什么体验？](https://www.ershicimi.com/p/4dfe2cfcb3e7812c9b486a3de3b65b1b) ![](assets/new.png)  
 - [2021-03-24-服装品牌-H&M-一边造谣抵制新疆棉花，一边又想在中国赚钱？](https://www.ershicimi.com/p/3e74e3d059533f030c223ebda5f5c3ac) ![](assets/new.png)  
 - [2021-03-24-知乎故事-|-在平淡生活中发现细微的美好](https://www.ershicimi.com/p/bf1bb76999c85f37b8167427a9bf37a9) ![](assets/new.png)  
 - [2021-03-24-千万别撩朋友圈对你三天可见的人](https://www.ershicimi.com/p/2af51525c2f7ab9c63147e2c07bef219) ![](assets/new.png)  
@@ -960,9 +963,6 @@
 - [2021-03-18-内裤穿多久就要丢掉？关于内裤换洗，这-4-点要知道](https://www.ershicimi.com/p/d7e79a659947ce42a28dd2a5cab91aeb) ![](assets/new.png)  
 - [2021-03-18-知乎故事-|-我的爸爸有精神病](https://www.ershicimi.com/p/aad043883ba98d06beea06bc51a23195) ![](assets/new.png)  
 - [2021-03-17-深层清洁好？药妆更安全？千万别再信这些护肤「伪概念」了](https://www.ershicimi.com/p/b8a32b59d11af2c981e993849a564ecd) ![](assets/new.png)  
-- [2021-03-17-为什么人类要进化出牙缝？整整齐齐不好吗？](https://www.ershicimi.com/p/084b65d4d09f3f7fce3e3798312cca0b) ![](assets/new.png)  
-- [2021-03-17-知乎故事-|-人为了避免社会性死亡能有多拼？](https://www.ershicimi.com/p/a734a0f27691fa49916b1fd3a7ade494) ![](assets/new.png)  
-- [2021-03-16-你可能想不到，迪迦奥特曼到底有多强](https://www.ershicimi.com/p/0f2f0f06fc08e03765b428b9d76713a0) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -974,6 +974,8 @@
 </summary>
 
 
+- [2021-03-26-广州-九毛九集团招聘后端开发工程师](https://www.v2ex.com/t/765264) ![](assets/new.png)  
+- [2021-03-26-有哪些你看着眼熟实际并不认识的字？](https://www.v2ex.com/t/765262) ![](assets/new.png)  
 - [2021-03-26-MacOS-微信端的朋友圈](https://www.v2ex.com/t/765261) ![](assets/new.png)  
 - [2021-03-26-快手科技-2021-春招&暑期实习，大量职位，帮助内推](https://www.v2ex.com/t/765259) ![](assets/new.png)  
 - [2021-03-26-Java-2-年以上开发-2-枚](https://www.v2ex.com/t/765258) ![](assets/new.png)  
@@ -992,8 +994,6 @@
 - [2021-03-26-pandas-DataFrame](https://www.v2ex.com/t/765240) ![](assets/new.png)  
 - [2021-03-26-联通-5G-的信号问题](https://www.v2ex.com/t/765238) ![](assets/new.png)  
 - [2021-03-26-远程《Casbin-开源软件》中科院软件所暑期-2021（中国编程之夏）优秀学生、预选生招募](https://www.v2ex.com/t/765237) ![](assets/new.png)  
-- [2021-03-26-Flash-保存计划，保存那些老的-Flash](https://www.v2ex.com/t/765236) ![](assets/new.png)  
-- [2021-03-26-滴答清单添加到-Apple-Watch-表盘，不能自动更新数据变动？](https://www.v2ex.com/t/765235) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1005,6 +1005,7 @@
 </summary>
 
 
+- [2021-03-26-强化学习入门——说到底研究的是如何学习-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14244&url=https%3A%2F%2Finsights.thoughtworks.cn%2Freinforcement-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-26-【白话科普】聊聊-DNS-的那些小知识-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14243&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F359735158%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-26-从经济学角度，看多抓鱼的创新-feimiaomiao.com](https://blogread.cn/news/go.php?idItem=14242&url=https%3A%2F%2Ffeimiaomiao.com%2Fhangye%2F4660%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-26-我成长最快的那五年-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14241&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtBu9_6wI7nX1mVTz0rQ3cA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1024,7 +1025,6 @@
 - [2021-03-26-腾讯的这个框架火了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14227&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fxw0XIKyBGwv-FFDHyhAvFw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-26-中国互联网20年简史（1998-2018）：其中的规律与本质是什么？-www.cniteyes.com](https://blogread.cn/news/go.php?idItem=14226&url=http%3A%2F%2Fwww.cniteyes.com%2Farchives%2F33211%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-03-26-硬件安全：ARM体系架构的安全特性演进-www.secrss.com](https://blogread.cn/news/go.php?idItem=14225&url=https%3A%2F%2Fwww.secrss.com%2Farticles%2F9812%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-03-26-MTK平台Android-安全中secure-boot机制-blog.csdn.net](https://blogread.cn/news/go.php?idItem=14224&url=https%3A%2F%2Fblog.csdn.net%2Fqq_43805880%2Farticle%2Fdetails%2F108062898%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1040,22 +1040,22 @@
 - [2021-03-26-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
 - [2021-03-26-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
 - [2021-03-26-几乎刷完了力扣所有的二分题，我发现了这些东西（下）](https://toutiao.io/k/zgrp470) ![](assets/new.png)  
-- [2021-03-26-不懂就问：ZooKeeper-集群如何进行数据同步？](https://toutiao.io/k/7sfy943) ![](assets/new.png)  
 - [2021-03-26-京东个性化推荐系统解析](https://toutiao.io/k/icrka3o) ![](assets/new.png)  
+- [2021-03-26-不懂就问：ZooKeeper-集群如何进行数据同步？](https://toutiao.io/k/7sfy943) ![](assets/new.png)  
 - [2021-03-26-漫话：如何给女朋友解释为什么-Java-里面的-String-对象是不可变的？](https://toutiao.io/k/iju0qaz) ![](assets/new.png)  
 - [2021-03-26-Synchronized-原理及锁升级分析](https://toutiao.io/k/le20s21) ![](assets/new.png)  
 - [2021-03-26-第-046-期「码农周刊-VIP-会员专属邮件周报」今晚发送，请查收！](https://toutiao.io/k/lbl0dcp) ![](assets/new.png)  
-- [2021-03-26-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
-- [2021-03-26-推荐-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) ![](assets/new.png)  
-- [2021-03-26-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
-- [2021-03-26-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
 - [2021-03-26-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
+- [2021-03-26-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) ![](assets/new.png)  
+- [2021-03-26-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
+- [2021-03-26-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
 - [2021-03-26-推荐-Go-工程化（九）：项目重构实践](https://toutiao.io/k/et0t2lk) ![](assets/new.png)  
+- [2021-03-26-推荐-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) ![](assets/new.png)  
+- [2021-03-26-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
+- [2021-03-26-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
+- [2021-03-26-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
 - [2021-03-26-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
-- [2021-03-26-推荐-如何写出高质量的技术文章？](https://toutiao.io/k/ozl31qb) ![](assets/new.png)  
 - [2021-03-26-推荐-吃透-MQ](https://toutiao.io/k/vzx2ky5) ![](assets/new.png)  
-- [2021-03-26-推荐-权限体系设计：网易有数-BI-功能品鉴](https://toutiao.io/k/nvr0l12) ![](assets/new.png)  
-- [2021-03-26-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

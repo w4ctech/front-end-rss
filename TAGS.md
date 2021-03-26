@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-26 07:50:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-26 08:03:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -148,7 +148,6 @@
 - [【奇舞周刊】【webpack-进阶】Webpack-打包后的代码是怎样的？](https://www.ershicimi.com/p/16161cc4ce1ef416f2766ddd04bd9b4f)
 - [【编程之上】万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019)
 - [【编程之上】4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4)
-- [【开发者头条】推荐-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -366,7 +365,6 @@
 - [【张鑫旭-鑫空间-鑫生活】借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/)
 - [【编程之上】前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978)
 - [【V2EX】靠谱的加密视频技术方案有哪些？](https://www.v2ex.com/t/765433)
-- [【技术头条】又一大型直播-App-被捣毁，这个行业还是太赚钱了。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14230&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY2TjtLHK6w7ZVuzPHTwLNg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】【视频】|-Python:文件操作总结和图书管理](https://sec.thief.one/article_content?a_id=e8984b14d13694f75fb0c0b67b64d4f4)
 - [【安全热点】【原创】浅谈网络摄像头分析](https://sec.thief.one/article_content?a_id=29fef3a25e467cb5ec1e9a3798d4806b)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -426,11 +424,11 @@
 - [【前端e进阶】推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【知乎日报】深层清洁好？药妆更安全？千万别再信这些护肤「伪概念」了](https://www.ershicimi.com/p/b8a32b59d11af2c981e993849a564ecd)
-- [【技术头条】微软：杀死那个曾经全球第一的浏览器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14234&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyJ6BOZehN_OsANr2yuBykw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】安全招聘汇总-|-第十二期](https://sec.thief.one/article_content?a_id=c2171eff5aacdf717bc3c089fa70a9b5)
 - [【安全热点】网络安全攻防:软件逆向之PE文件](https://sec.thief.one/article_content?a_id=931bd0187fa016fa65356948476b05b5)
 - [【安全热点】【安全圈】650万名以色列公民数据在网络泄露](https://sec.thief.one/article_content?a_id=1a2b29139a7d6744ec776d02656173d0)
 - [【安全热点】奇安信安全中心成金科新区首座授予新冠疫苗“应接尽接”绿色标识楼宇](https://sec.thief.one/article_content?a_id=a0358abd8e4933a1585860441700925d)
+- [【安全热点】安全运营的“器与术”:2021国内SIEM/SOC类产品九大能力组厂商推荐](https://sec.thief.one/article_content?a_id=d57515c60e1274918484e3924b95e12b)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -454,7 +452,6 @@
 - [【前端瓶子君】JavaScrpit-AST-实战](https://www.ershicimi.com/p/76dbf9013c5a1f568cf1cf79f7ff35b1)
 - [【程序员成长指北】算法面试不过关，你怎么才能进大厂？](https://www.ershicimi.com/p/e235a397ca16ab009211be299d0a5508)
 - [【InfoQ】100道AI算法高频面试题（附答案详解）-｜-Q推荐](https://www.ershicimi.com/p/90fba32ffadbc09fc0cae2b5fd2de96f)
-- [【V2EX】深圳-中年全栈程序员求职](https://www.v2ex.com/t/765390)
 - [【开发者头条】ElasticSearch-聚合自定义排序](https://toutiao.io/k/ahb5tl0)
 - [【开发者头条】推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl)
 - [【安全热点】太牛逼了,Python和算法简直是绝配](https://sec.thief.one/article_content?a_id=e2368f25548a49aa00e7ad6784bc4a41)

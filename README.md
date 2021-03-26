@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-26 00:26:10，:rocket: 更新条数: +4117， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-26 00:46:54，:rocket: 更新条数: +4137， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)  
+- [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2021-03-25-最新疫情：全国新冠累计确诊90136例-累计接种新冠疫苗8585.97万剂次](https://m.caixin.com/m/2021-03-25/101680443.html) ![](assets/new.png)  
+- [2021-03-26-美国拟投100亿扩大接种面-阿斯利康下调疫苗保护率至76%｜大流行手记（3月25日）](https://m.caixin.com/m/2021-03-26/101680574.html) ![](assets/new.png)  
 - [2021-03-25-最新海外疫情：新冠感染超1.24亿-累计死亡超273万](https://m.caixin.com/m/2021-03-25/101680448.html) ![](assets/new.png)  
 - [2021-03-25-【境内疫情观察】我国接种新冠疫苗达8046.3万剂次（3月24日）](http://m.database.caixin.com/m/2021-03-25/101680256.html) ![](assets/new.png)  
 - [2021-03-25-美国累计确诊破3000万人-欧洲多国进入第三波疫情｜大流行手记（3月24日）](https://m.caixin.com/m/2021-03-25/101680057.html) ![](assets/new.png)  
@@ -73,10 +73,10 @@
 - [2021-03-24-复星新冠疫苗出现包装瑕疵-港澳暂停接种](https://m.caixin.com/m/2021-03-24/101679459.html) ![](assets/new.png)  
 - [2021-03-24-【境内疫情观察】全国新增10例境外输入病例（3月23日）](http://m.database.caixin.com/m/2021-03-24/101679466.html) ![](assets/new.png)  
 - [2021-03-24-美国质疑阿斯利康疫苗临床数据-德国将实施迄今最严封锁令｜大流行手记（3月23日）](https://m.caixin.com/m/2021-03-24/101679326.html) ![](assets/new.png)  
-- [2021-03-23-研究示新冠患者再感染风险近二成-张文宏解读数据](https://m.caixin.com/m/2021-03-23/101679163.html) ![](assets/new.png)  
 - [2021-03-23-马士基：下半年将迎新冠疫苗运输高峰-海运或与空运竞争](http://m.companies.caixin.com/m/2021-03-23/101679214.html) ![](assets/new.png)  
 - [2021-03-23-【境内疫情观察】全国新增14例无症状感染者（3月22日）](http://m.database.caixin.com/m/2021-03-23/101679003.html) ![](assets/new.png)  
 - [2021-03-23-阿斯利康疫苗在美国试验有效率79%-印度感染激增｜大流行手记（3月22日）](https://m.caixin.com/m/2021-03-23/101678809.html) ![](assets/new.png)  
+- [2021-03-23-研究示新冠患者再感染风险近二成-张文宏解读数据](https://m.caixin.com/m/2021-03-23/101679163.html) ![](assets/new.png)  
 - [2021-03-22-3月21日全国新增新冠7例-均为境外输入](https://m.caixin.com/m/2021-03-22/101678304.html) ![](assets/new.png)  
 - [2021-03-22-【境内疫情观察】全国新增7例境外输入病例（3月21日）](http://m.database.caixin.com/m/2021-03-22/101678468.html) ![](assets/new.png)  
 - [2021-03-22-东京奥运会不接待海外观众-英半数成年人已接种首剂疫苗｜大流行手记（3月21日）](https://m.caixin.com/m/2021-03-22/101678287.html) ![](assets/new.png)  
@@ -976,6 +976,8 @@
 </summary>
 
 
+- [2021-03-26-联通-5G-的信号问题](https://www.v2ex.com/t/765238) ![](assets/new.png)  
+- [2021-03-26-远程《Casbin-开源软件》中科院软件所暑期-2021（中国编程之夏）优秀学生、预选生招募](https://www.v2ex.com/t/765237) ![](assets/new.png)  
 - [2021-03-26-Flash-保存计划，保存那些老的-Flash](https://www.v2ex.com/t/765236) ![](assets/new.png)  
 - [2021-03-26-滴答清单添加到-Apple-Watch-表盘，不能自动更新数据变动？](https://www.v2ex.com/t/765235) ![](assets/new.png)  
 - [2021-03-25-头一次遇到饿了么出现运力不足无法配送的情况](https://www.v2ex.com/t/765234) ![](assets/new.png)  
@@ -994,8 +996,6 @@
 - [2021-03-25-北京豪腾嘉科科技有限公司（疯狂游戏）怎么样？](https://www.v2ex.com/t/765213) ![](assets/new.png)  
 - [2021-03-25-向文件追加数据的时候发生断电之类的故障，会怎样？](https://www.v2ex.com/t/765212) ![](assets/new.png)  
 - [2021-03-25-关于-Python-的对象序列化和反序列化?-如何从-json-字符串直接反序化为指定类实例？](https://www.v2ex.com/t/765210) ![](assets/new.png)  
-- [2021-03-25-面试中的在线测试挂了会有什么影响吗](https://www.v2ex.com/t/765208) ![](assets/new.png)  
-- [2021-03-25-软件的快捷键是怎么做到尽量不冲突的？](https://www.v2ex.com/t/765207) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1040,24 +1040,24 @@
 
 - [2021-03-26-漫画-Go-语言-Defer-机制及妙用](https://toutiao.io/k/9q7xgh3) ![](assets/new.png)  
 - [2021-03-26-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
-- [2021-03-26-京东个性化推荐系统解析](https://toutiao.io/k/icrka3o) ![](assets/new.png)  
-- [2021-03-26-几乎刷完了力扣所有的二分题，我发现了这些东西（下）](https://toutiao.io/k/zgrp470) ![](assets/new.png)  
 - [2021-03-26-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
+- [2021-03-26-京东个性化推荐系统解析](https://toutiao.io/k/icrka3o) ![](assets/new.png)  
+- [2021-03-26-Synchronized-原理及锁升级分析](https://toutiao.io/k/le20s21) ![](assets/new.png)  
+- [2021-03-26-几乎刷完了力扣所有的二分题，我发现了这些东西（下）](https://toutiao.io/k/zgrp470) ![](assets/new.png)  
 - [2021-03-26-不懂就问：ZooKeeper-集群如何进行数据同步？](https://toutiao.io/k/7sfy943) ![](assets/new.png)  
 - [2021-03-26-漫话：如何给女朋友解释为什么-Java-里面的-String-对象是不可变的？](https://toutiao.io/k/iju0qaz) ![](assets/new.png)  
-- [2021-03-26-Synchronized-原理及锁升级分析](https://toutiao.io/k/le20s21) ![](assets/new.png)  
-- [2021-03-26-推荐-Redis-不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://toutiao.io/k/vsxwjpf) ![](assets/new.png)  
-- [2021-03-26-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
-- [2021-03-26-推荐-权限体系设计：网易有数-BI-功能品鉴](https://toutiao.io/k/nvr0l12) ![](assets/new.png)  
-- [2021-03-26-推荐-带你深入理解-Java-内存模型理论](https://toutiao.io/k/0ic2o68) ![](assets/new.png)  
 - [2021-03-26-推荐-2021-有哪些不容错过的后端技术趋势](https://toutiao.io/k/e3lq37o) ![](assets/new.png)  
-- [2021-03-26-推荐-21-大软件架构特点的全面解析](https://toutiao.io/k/2n0entj) ![](assets/new.png)  
-- [2021-03-26-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
-- [2021-03-26-推荐-如何写出高质量的技术文章？](https://toutiao.io/k/ozl31qb) ![](assets/new.png)  
-- [2021-03-26-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
-- [2021-03-26-推荐-Java-工程师核心书单，阿里大佬看了都说好](https://toutiao.io/k/5apgnxp) ![](assets/new.png)  
 - [2021-03-26-推荐-不懂什么是云原生？看完这篇文章就够了！](https://toutiao.io/k/ghs0i7r) ![](assets/new.png)  
+- [2021-03-26-推荐-算法面试套路知多少](https://toutiao.io/k/yl7s9sl) ![](assets/new.png)  
+- [2021-03-26-推荐-权限体系设计：网易有数-BI-功能品鉴](https://toutiao.io/k/nvr0l12) ![](assets/new.png)  
+- [2021-03-26-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
+- [2021-03-26-推荐-你对天天挂在嘴边的高并发，怕是有什么误解吧？](https://toutiao.io/k/xpyufe6) ![](assets/new.png)  
+- [2021-03-26-推荐-Redis-教程：Redis-知识体系详解](https://toutiao.io/k/av396i0) ![](assets/new.png)  
+- [2021-03-26-推荐-译-新老手必备的-34-种-JavaScript-简写优化技术](https://toutiao.io/k/jdslwhk) ![](assets/new.png)  
+- [2021-03-26-推荐-TCP/IP-常见攻击手段](https://toutiao.io/k/gqpcukq) ![](assets/new.png)  
+- [2021-03-26-推荐-吃透-MQ](https://toutiao.io/k/vzx2ky5) ![](assets/new.png)  
 - [2021-03-26-推荐-加密技术的未来：从服务端密码存储到用户数据加密方案](https://toutiao.io/k/lq6l2fa) ![](assets/new.png)  
+- [2021-03-26-推荐-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1100,6 +1100,26 @@
 </summary>
 
 
+- [2021-03-25-停电1分钟即攸关性命，谁来给医院的后勤管理“问诊”？](https://www.ershicimi.com/p/45b432255ad3f455651bdea2249a2d89) ![](assets/new.png)  
+- [2021-03-25-英特尔新CEO上任三把火：搞定7nm-EUV、200亿美元建厂、改变代工模式](https://www.ershicimi.com/p/3beb136fdc174e0f41cf09e30e9e79a0) ![](assets/new.png)  
+- [2021-03-25-三天逛展，四场论坛，5G/工业互联网/物联网，你想知道的都在这里](https://www.ershicimi.com/p/bbda18e0aea05e5fe935e1e821e4453b) ![](assets/new.png)  
+- [2021-03-24-AI健身/3D试衣/AI烤肉……黑科技扎堆的AWE2021都有哪些硬货？](https://www.ershicimi.com/p/c90b58dd4517e2a842521a852c3830cf) ![](assets/new.png)  
+- [2021-03-24-声智团队诚意之作，新品豆豆耳机来袭，终于摆脱了耳机柄的束缚！](https://www.ershicimi.com/p/fa5cd42e8b0eb569be260da1210b3c7b) ![](assets/new.png)  
+- [2021-03-24-NB-IoT潜入奖金上亿的赛鸽江湖](https://www.ershicimi.com/p/5f1f2d7c6eafee6ea4a4b605f4514999) ![](assets/new.png)  
+- [2021-03-23-敲芯片锣，创二次业，盘中跌破发行价，百度回港上市首日坐上“过山车”](https://www.ershicimi.com/p/560b33a59eea0d4d176da191ae8d7b1e) ![](assets/new.png)  
+- [2021-03-23-大幅降低成本、更广应用场景，ZETA技术引领发展LPWAN2.0泛在物联](https://www.ershicimi.com/p/51d1208304d713140756075d000da761) ![](assets/new.png)  
+- [2021-03-23-汽车芯片短缺，元凶是谁？](https://www.ershicimi.com/p/a5c3975de51fface81f900a4ac594e35) ![](assets/new.png)  
+- [2021-03-22-谈了这么多年，什么才是全屋智能的“分水岭”？](https://www.ershicimi.com/p/bf10187a7b7bdfa46a6fef61734d126a) ![](assets/new.png)  
+- [2021-03-22-如何让10万物联网人先富起来！](https://www.ershicimi.com/p/b4cc9821b91caa1d5ed0cc97981a19b4) ![](assets/new.png)  
+- [2021-03-22-智慧城市项目频频烂尾，我们还能再给它机会吗？](https://www.ershicimi.com/p/f9d2f3d62fcf10fea31d2d545cadbe6d) ![](assets/new.png)  
+- [2021-03-21-AIoT沙场点兵，ARM向左，RISC-V向右【物女心经】](https://www.ershicimi.com/p/e8187de26101325cd5e3e2cbdbcf54d0) ![](assets/new.png)  
+- [2021-03-21-物联网投融资周报|-Momenta获5亿美元融资；航天云网完成26亿元融资；哈勃科技入股云道智造；字](https://www.ershicimi.com/p/b47e75c527ebac6a3fb30da787d02159) ![](assets/new.png)  
+- [2021-03-20-小米/华为/OPPO......能否将5G消息作为布局物联网的一条主线？](https://www.ershicimi.com/p/e57f55483678c6dc36d4ee61d635dba6) ![](assets/new.png)  
+- [2021-03-20-华为缺货真相调查：走遍北京线下门店，从有钱难买到坐地起价](https://www.ershicimi.com/p/c9d1c245c0e67bb41754a9041410ab0c) ![](assets/new.png)  
+- [2021-03-19-昨夜，涂鸦智能登陆纽交所！蛰伏7年成全球IoT云平台第一股](https://www.ershicimi.com/p/48e49e981c7976651db36ae9fb3d5e8e) ![](assets/new.png)  
+- [2021-03-19-关于智慧城市，我来说点能听懂的……](https://www.ershicimi.com/p/891231e8c5251431bd8dfc1caaf7916f) ![](assets/new.png)  
+- [2021-03-19-电子商务大行其道，物联网如何赋能物流仓储？](https://www.ershicimi.com/p/22e168a759eba83c01aad861d7967dbd) ![](assets/new.png)  
+- [2021-03-18-字节跳动重磅进军芯片产业，是“故事新编”还是“掌握未来”？](https://www.ershicimi.com/p/a92476847b8eb90e14dfe2ab2100ef1d) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

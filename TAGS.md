@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-27 20:23:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-27 20:37:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -405,6 +405,9 @@
 
 
 
+- [【阮一峰的网络日志】科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html)
 - [【安全热点】《Ghidra操作手册》带你玩转软件逆向!](https://sec.thief.one/article_content?a_id=4fd394e52df904538e82adc61c880879)
 - [【安全热点】ConnectPort-X2e-IoT-网关设备漏洞分析及利用part1](https://sec.thief.one/article_content?a_id=78234f339c5c112f098d79c5f7066189)
 - [【安全热点】在看-|-一周网安回顾2021.3.20—3.26](https://sec.thief.one/article_content?a_id=9e61ffbb342d891ad88161d5f4607096)
@@ -422,9 +425,6 @@
 - [【安全热点】新西兰退休基金将5%分配给比特币](https://sec.thief.one/article_content?a_id=32f5f749045f354a1e5ead9d20c6d121)
 - [【安全热点】限时免费-|-全球网络空间超级雷达Sumap为你保驾护航!](https://sec.thief.one/article_content?a_id=80f29a8d6a04521535ff4e10e0fa261f)
 - [【安全热点】每日攻防资讯简报Mar.26th](https://sec.thief.one/article_content?a_id=a5f5ad3cf971551f2bce6614e05cb39b)
-- [【安全热点】实战-|-记录某一天安服仔的漏洞挖掘过程](https://sec.thief.one/article_content?a_id=623bdb9fc6037397af12dc1cc24fcc00)
-- [【安全热点】2020年容器/云原生威胁态势有何变化?](https://sec.thief.one/article_content?a_id=577e4d7e653d41180bce12cc97038e85)
-- [【安全热点】FBS外汇交易平台遭遇重大数据泄漏](https://sec.thief.one/article_content?a_id=aecfcf580e9cf91cbe9a1029111246ab)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

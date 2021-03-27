@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-27 10:02:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-27 10:24:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,7 +7,7 @@
 
 
 
-- [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-03-27-XDR如何推动安全运营中心现代化?](https://sec.thief.one/article_content?a_id=5121d11fb66e6afbb1835be442d90c3f) 
 - [2021-03-26-【安全圈】能源巨头壳牌公司遭受-Accelion-黑客攻击](https://sec.thief.one/article_content?a_id=b7644aaa88581a2c954e3c94ac714bc4) 
 - [2021-03-26-国风投、保利汇鑫3亿元战略入股威努特,两央企加持中国工控安全“...](https://sec.thief.one/article_content?a_id=1347ed4fbe0fdf7f392bfbc1adb0533b) 
 - [2021-03-26-国家信息安全漏洞库CNNVD技术支撑单位年度工作总结大会在京...](https://sec.thief.one/article_content?a_id=7ac853a3718ba0666f9aa43da7fead6c) 

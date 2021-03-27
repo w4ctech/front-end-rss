@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-27 10:02:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-27 10:24:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -8,6 +8,9 @@
 - [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) 
 - [2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) 
 - [2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html) 
+- [2021-03-27-《Ghidra操作手册》带你玩转软件逆向!](https://sec.thief.one/article_content?a_id=4fd394e52df904538e82adc61c880879) 
+- [2021-03-27-ConnectPort-X2e-IoT-网关设备漏洞分析及利用part1](https://sec.thief.one/article_content?a_id=78234f339c5c112f098d79c5f7066189) 
+- [2021-03-27-在看-|-一周网安回顾2021.3.20—3.26](https://sec.thief.one/article_content?a_id=9e61ffbb342d891ad88161d5f4607096) 
 - [2021-03-27-负载均衡下的-WebShell-连接](https://sec.thief.one/article_content?a_id=1bba142d3e469931c220a4bdbee0fabd) 
 - [2021-03-26-针对虚假加密货币骗局的大规模端到端追踪](https://sec.thief.one/article_content?a_id=8de1f526e01ffc606f693a925b044784) 
 - [2021-03-26-产学研深度融合典范!清华大学-奇安信联合研究中心硕果累累](https://sec.thief.one/article_content?a_id=f7e8b5efcfce722a94f5a26248c3bbe5) 
@@ -63,11 +66,3 @@
 - [2021-03-24-OSCP-考试操作笔记及参考资料](https://sec.thief.one/article_content?a_id=02c9aec1f0b63103659f9c300e16335f) 
 - [2021-03-24-再见了,收费的Navicat.](https://sec.thief.one/article_content?a_id=d5699f076320d643b5aba390833521d6) 
 - [2021-03-24-一篇文章带你读懂-TLS-Poison-攻击一](https://sec.thief.one/article_content?a_id=a72b594dc7914cacf765b383e5eb5ec2) 
-- [2021-03-24-【技术分享】明查OS实现UAC验证全流程—三个进程间的＂情爱＂2](https://sec.thief.one/article_content?a_id=5efcfd8ad284ff1febfc598770af8f93) 
-- [2021-03-24-Windows用户注意!“紫狐”恶意软件来袭](https://sec.thief.one/article_content?a_id=1df9edadebaf4e930931c7a394e73036) 
-- [2021-03-24-i春秋校园大使招募中,寻找勇于挑战的你!](https://sec.thief.one/article_content?a_id=64402f166876b8e9cbdc440a1adc2524) 
-- [2021-03-24-chm文档暗藏远控木马,注入微信窃取信息](https://sec.thief.one/article_content?a_id=8756f43ef495541ccfc445c57ac109c1) 
-- [2021-03-24-四部门联合发布:规范移动App收集个人信息行为,5月1日起施行](https://sec.thief.one/article_content?a_id=974e0b665af8656e83254cb401dbb0d3) 
-- [2021-03-24-证监会同意信安世纪科创板IPO注册](https://sec.thief.one/article_content?a_id=83b0d6c12c8f98526d37f274e8ec23b5) 
-- [2021-03-24-PayPal如何成为了加密领域主要玩家中的一员](https://sec.thief.one/article_content?a_id=6b8f440176335c5d7fbc35cec0b43e16) 
-- [2021-03-24-新型macOS恶意软件XcodeSpy可通过EggShell后门对Xcode开发人员...](https://sec.thief.one/article_content?a_id=2cf20f4b930877502adb4d1229703cee) 

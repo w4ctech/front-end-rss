@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-27 00:07:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-27 00:25:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,7 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-03-26-【安全圈】能源巨头壳牌公司遭受-Accelion-黑客攻击](https://sec.thief.one/article_content?a_id=b7644aaa88581a2c954e3c94ac714bc4) 
 - [2021-03-26-国风投、保利汇鑫3亿元战略入股威努特,两央企加持中国工控安全“...](https://sec.thief.one/article_content?a_id=1347ed4fbe0fdf7f392bfbc1adb0533b) 
 - [2021-03-26-国家信息安全漏洞库CNNVD技术支撑单位年度工作总结大会在京...](https://sec.thief.one/article_content?a_id=7ac853a3718ba0666f9aa43da7fead6c) 
 - [2021-03-26-被动收入和Yield-Farming:2021年的新趋势](https://sec.thief.one/article_content?a_id=ce341cd78157951afe89b1de748054f6) 
@@ -29,5 +30,3 @@
 - [2021-03-24-【安全圈】神秘黑客组织利用11个0-day漏洞发起攻击](https://sec.thief.one/article_content?a_id=0aef9b4831f5414d9a1d12a2bb23fca9) 
 - [2021-03-24-报告|2020Android平台安全乱象:超过230万恶意程序被截获](https://sec.thief.one/article_content?a_id=63d4817188a8bdc65fcdec9372b675ad) 
 - [2021-03-24-诸子云-|-话题:如何衡量渗透测试报告的认可度?研发安全有没有相关...](https://sec.thief.one/article_content?a_id=2f232c5aa69ed47ffa48f8e32e204f2b) 
-- [2021-03-24-首个IETF国密标准正式发布,加速国密算法应用进程](https://sec.thief.one/article_content?a_id=78056ae5a61ed67714a48c0f47674b32) 
-- [2021-03-24-网络安全厂商Fiserv的电子邮件域名居然没有注册](https://sec.thief.one/article_content?a_id=2a0e075b022ad2d313d33bfc6c102ab3) 

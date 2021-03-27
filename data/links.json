@@ -186,23 +186,7 @@
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
-    "items": [
-      {
-        "title": "科技爱好者周刊（第 151 期）：NFT 是什么，听说能赚钱",
-        "link": "http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html",
-        "date": "2021-03-26"
-      },
-      {
-        "title": "科技爱好者周刊（第 150 期）：当音乐还是稀缺的时候",
-        "link": "http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html",
-        "date": "2021-03-19"
-      },
-      {
-        "title": "科技爱好者周刊（第 149 期）：新能源汽车，谁会是赢家？",
-        "link": "http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html",
-        "date": "2021-03-12"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "http://jdc.jd.com/feed",

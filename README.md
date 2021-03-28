@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-28 10:02:58，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-28 10:23:30，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -507,6 +507,15 @@
 </summary>
 
 
+- [2021-03-28-想要无坚不摧?快来学习《Web安全编程入门》吧!](https://sec.thief.one/article_content?a_id=2fb895157c61769434194534cb21abff) ![](assets/new.png)  
+- [2021-03-28-Z招|Amber-Group高至90万/年、君龙人寿诚招安全相关人才](https://sec.thief.one/article_content?a_id=fe507c5d8926319d46b9a205360c3f5f) ![](assets/new.png)  
+- [2021-03-28-暗网市场中被窃取数据的销售情况](https://sec.thief.one/article_content?a_id=76588e176b9ddd439744552365cf59b0) ![](assets/new.png)  
+- [2021-03-28-关键信息基础设施“挂图作战”解决方案与最佳实践技术大会](https://sec.thief.one/article_content?a_id=61983a79e9470306bb02914efca3e711) ![](assets/new.png)  
+- [2021-03-28-2020-国内互联网公司薪酬、加班排名出炉!](https://sec.thief.one/article_content?a_id=4740ba188481ace62e6d1b783c9ac42f) ![](assets/new.png)  
+- [2021-03-28-壳牌披露数据泄露,源头竟是“猪队友”Accellion](https://sec.thief.one/article_content?a_id=82cd8649a463a1546b70bfe9aa3d5358) ![](assets/new.png)  
+- [2021-03-28-安全运营实践:从“复盘”到“复仇”](https://sec.thief.one/article_content?a_id=cf2f48ec1cddcdcd719f70d17633c6fb) ![](assets/new.png)  
+- [2021-03-28-时隔两年,黑洞又有了新照片,还是高清的](https://sec.thief.one/article_content?a_id=798383565bd5333b0313251c43e2a319) ![](assets/new.png)  
+- [2021-03-28-非法获取员工及用户敏感信息,法国宜家或将被罚375万欧元](https://sec.thief.one/article_content?a_id=82e716e238deffa2c0b87e51f74592e1) ![](assets/new.png)  
 - [2021-03-28-【视频】|-Python:异常之多个except](https://sec.thief.one/article_content?a_id=c43a0ef4cf4a706f5f1f11604b6dadac) ![](assets/new.png)  
 - [2021-03-28-深入-.NET-ViewState-反序列化及其利用](https://sec.thief.one/article_content?a_id=c84ec9f15152b722581fc720e1bc2734) ![](assets/new.png)  
 - [2021-03-28-再次踏访八闽大地,习近平这些要求一脉相承](https://sec.thief.one/article_content?a_id=9e77ed550b7842ee8486f0409a591c81) ![](assets/new.png)  
@@ -518,15 +527,6 @@
 - [2021-03-27-直播预告丨今晚20点,i春秋特邀精英白帽开启直播分享!](https://sec.thief.one/article_content?a_id=01394ef105687f4a95fa8e7f79ea4506) ![](assets/new.png)  
 - [2021-03-27-牛聘|2021年度岗位招聘第5期](https://sec.thief.one/article_content?a_id=c4c43490bf47e5498922e3eba7f67fb4) ![](assets/new.png)  
 - [2021-03-27-ConnectPort-X2e-IoT-网关设备漏洞分析及利用part1](https://sec.thief.one/article_content?a_id=78234f339c5c112f098d79c5f7066189) ![](assets/new.png)  
-- [2021-03-27-在看-|-一周网安回顾2021.3.20—3.26](https://sec.thief.one/article_content?a_id=9e61ffbb342d891ad88161d5f4607096) ![](assets/new.png)  
-- [2021-03-27-【视频】|-工控安全:监管合规-等保、关保“两个制度”解读](https://sec.thief.one/article_content?a_id=c362731b60cdc8d7c85031ad1fda9d7e) ![](assets/new.png)  
-- [2021-03-27-神兵利器---Gitrecon-OSINT](https://sec.thief.one/article_content?a_id=78b0c66cea2e12aa74ee239e4e20f8d0) ![](assets/new.png)  
-- [2021-03-27-XDR如何推动安全运营中心现代化?](https://sec.thief.one/article_content?a_id=5121d11fb66e6afbb1835be442d90c3f) ![](assets/new.png)  
-- [2021-03-27-Linux-服务器的性能参数指标总结](https://sec.thief.one/article_content?a_id=c969dcd3c1b2b88d68a0321203999103) ![](assets/new.png)  
-- [2021-03-27-负载均衡下的-WebShell-连接](https://sec.thief.one/article_content?a_id=1bba142d3e469931c220a4bdbee0fabd) ![](assets/new.png)  
-- [2021-03-26-针对虚假加密货币骗局的大规模端到端追踪](https://sec.thief.one/article_content?a_id=8de1f526e01ffc606f693a925b044784) ![](assets/new.png)  
-- [2021-03-26-【安全圈】能源巨头壳牌公司遭受-Accelion-黑客攻击](https://sec.thief.one/article_content?a_id=b7644aaa88581a2c954e3c94ac714bc4) ![](assets/new.png)  
-- [2021-03-26-产学研深度融合典范!清华大学-奇安信联合研究中心硕果累累](https://sec.thief.one/article_content?a_id=f7e8b5efcfce722a94f5a26248c3bbe5) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-28 05:52:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-28 06:02:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -405,9 +405,6 @@
 
 
 
-- [【阮一峰的网络日志】科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)
-- [【阮一峰的网络日志】科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)
-- [【阮一峰的网络日志】科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html)
 - [【安全热点】再次踏访八闽大地,习近平这些要求一脉相承](https://sec.thief.one/article_content?a_id=9e77ed550b7842ee8486f0409a591c81)
 - [【安全热点】网安杂谈收藏夹2021.3.27](https://sec.thief.one/article_content?a_id=f61236b77ef66e4bf73969a2be825230)
 - [【安全热点】MySQL-默认最大连接数是多少?](https://sec.thief.one/article_content?a_id=5219692ee33a70f52ae99fba8119ca6e)
@@ -425,6 +422,9 @@
 - [【安全热点】【技术分享】从浅入深学习PHP文件包含](https://sec.thief.one/article_content?a_id=ff9dada95b0db2a805855c33c6504d8d)
 - [【安全热点】渗透测试必备技能之情报收集](https://sec.thief.one/article_content?a_id=82b1e838abe0586fe5355db311c665e0)
 - [【安全热点】hw在即,你还不会看危险报文?](https://sec.thief.one/article_content?a_id=ebc4499dc54fa87c601497231dee487f)
+- [【安全热点】刚入域环境下的域内信息收集](https://sec.thief.one/article_content?a_id=cf091c84d2fa304d85c27c92078a5efc)
+- [【安全热点】新西兰退休基金将5%分配给比特币](https://sec.thief.one/article_content?a_id=32f5f749045f354a1e5ead9d20c6d121)
+- [【安全热点】限时免费-|-全球网络空间超级雷达Sumap为你保驾护航!](https://sec.thief.one/article_content?a_id=80f29a8d6a04521535ff4e10e0fa261f)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

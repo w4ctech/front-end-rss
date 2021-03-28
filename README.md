@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-28 00:08:40，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-28 00:26:34，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -507,6 +507,13 @@
 </summary>
 
 
+- [2021-03-28-【视频】|-Python:异常之多个except](https://sec.thief.one/article_content?a_id=c43a0ef4cf4a706f5f1f11604b6dadac) ![](assets/new.png)  
+- [2021-03-28-深入-.NET-ViewState-反序列化及其利用](https://sec.thief.one/article_content?a_id=c84ec9f15152b722581fc720e1bc2734) ![](assets/new.png)  
+- [2021-03-28-再次踏访八闽大地,习近平这些要求一脉相承](https://sec.thief.one/article_content?a_id=9e77ed550b7842ee8486f0409a591c81) ![](assets/new.png)  
+- [2021-03-27-网安杂谈收藏夹2021.3.27](https://sec.thief.one/article_content?a_id=f61236b77ef66e4bf73969a2be825230) ![](assets/new.png)  
+- [2021-03-27-MySQL-默认最大连接数是多少?](https://sec.thief.one/article_content?a_id=5219692ee33a70f52ae99fba8119ca6e) ![](assets/new.png)  
+- [2021-03-27-润联科技联手腾讯云,共建网络安全实验室](https://sec.thief.one/article_content?a_id=79a2033bfe879cbffacec83297cb9078) ![](assets/new.png)  
+- [2021-03-27-第一个利用SolarWinds漏洞以入侵欧盟国家的组织](https://sec.thief.one/article_content?a_id=289ccc8c3e4d7d0b448375ecc6ec56e2) ![](assets/new.png)  
 - [2021-03-27-《Ghidra操作手册》带你玩转软件逆向!](https://sec.thief.one/article_content?a_id=4fd394e52df904538e82adc61c880879) ![](assets/new.png)  
 - [2021-03-27-直播预告丨今晚20点,i春秋特邀精英白帽开启直播分享!](https://sec.thief.one/article_content?a_id=01394ef105687f4a95fa8e7f79ea4506) ![](assets/new.png)  
 - [2021-03-27-牛聘|2021年度岗位招聘第5期](https://sec.thief.one/article_content?a_id=c4c43490bf47e5498922e3eba7f67fb4) ![](assets/new.png)  
@@ -520,13 +527,6 @@
 - [2021-03-26-针对虚假加密货币骗局的大规模端到端追踪](https://sec.thief.one/article_content?a_id=8de1f526e01ffc606f693a925b044784) ![](assets/new.png)  
 - [2021-03-26-【安全圈】能源巨头壳牌公司遭受-Accelion-黑客攻击](https://sec.thief.one/article_content?a_id=b7644aaa88581a2c954e3c94ac714bc4) ![](assets/new.png)  
 - [2021-03-26-产学研深度融合典范!清华大学-奇安信联合研究中心硕果累累](https://sec.thief.one/article_content?a_id=f7e8b5efcfce722a94f5a26248c3bbe5) ![](assets/new.png)  
-- [2021-03-26-【漏洞分析】-win32k内核提权漏洞分析CVE-2021-1732](https://sec.thief.one/article_content?a_id=d71c0a62338880cb239354951f1443e3) ![](assets/new.png)  
-- [2021-03-26-作为一只Python爬虫:如何破解滑动验证码](https://sec.thief.one/article_content?a_id=4bb7930a8c2cdc3b55d754bdf5510a20) ![](assets/new.png)  
-- [2021-03-26-Black-Kingdom正在利用Exchange漏洞部署勒索软件](https://sec.thief.one/article_content?a_id=5220282ecdfbf5a2b0b2e4a9071e5be6) ![](assets/new.png)  
-- [2021-03-26-点赞|绿盟科技蝉联CNNVD“2020年度优秀技术支撑单位”,并获得“...](https://sec.thief.one/article_content?a_id=d29543cc11bb53ea0518b5f1f0966f03) ![](assets/new.png)  
-- [2021-03-26-用“声音魔法”带您“闪回”国民党“一大”-听他讲述李大钊发言稿|...](https://sec.thief.one/article_content?a_id=2913ffc93d59e9acd23b26cf18165acf) ![](assets/new.png)  
-- [2021-03-26-【技术分享】从浅入深学习PHP文件包含](https://sec.thief.one/article_content?a_id=ff9dada95b0db2a805855c33c6504d8d) ![](assets/new.png)  
-- [2021-03-26-【安全大事件】微软弹窗警告-Win10-1909-即将停止支持](https://sec.thief.one/article_content?a_id=cb3607a4d4119ee0402204af2355ea7c) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

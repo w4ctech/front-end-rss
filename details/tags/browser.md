@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-28 00:08:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-28 00:26:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,8 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-03-28-深入-.NET-ViewState-反序列化及其利用](https://sec.thief.one/article_content?a_id=c84ec9f15152b722581fc720e1bc2734) 
+- [2021-03-27-润联科技联手腾讯云,共建网络安全实验室](https://sec.thief.one/article_content?a_id=79a2033bfe879cbffacec83297cb9078) 
 - [2021-03-27-XDR如何推动安全运营中心现代化?](https://sec.thief.one/article_content?a_id=5121d11fb66e6afbb1835be442d90c3f) 
 - [2021-03-26-【安全圈】能源巨头壳牌公司遭受-Accelion-黑客攻击](https://sec.thief.one/article_content?a_id=b7644aaa88581a2c954e3c94ac714bc4) 
 - [2021-03-26-国风投、保利汇鑫3亿元战略入股威努特,两央企加持中国工控安全“...](https://sec.thief.one/article_content?a_id=1347ed4fbe0fdf7f392bfbc1adb0533b) 
@@ -29,5 +31,3 @@
 - [2021-03-25-4大板块13项细分领域:国舜股份强势入围2021版中国网络安全行业全...](https://sec.thief.one/article_content?a_id=2fb7ea86b85432b0bdd99248e2f2ffe0) 
 - [2021-03-25-中国网络安全行业全景图2021年3月第八版发布](https://sec.thief.one/article_content?a_id=83c9ff53b53a9ff865a914ad99fec398) 
 - [2021-03-24-【安全圈】神秘黑客组织利用11个0-day漏洞发起攻击](https://sec.thief.one/article_content?a_id=0aef9b4831f5414d9a1d12a2bb23fca9) 
-- [2021-03-24-报告|2020Android平台安全乱象:超过230万恶意程序被截获](https://sec.thief.one/article_content?a_id=63d4817188a8bdc65fcdec9372b675ad) 
-- [2021-03-24-诸子云-|-话题:如何衡量渗透测试报告的认可度?研发安全有没有相关...](https://sec.thief.one/article_content?a_id=2f232c5aa69ed47ffa48f8e32e204f2b) 

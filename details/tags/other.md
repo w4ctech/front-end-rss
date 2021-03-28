@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-28 00:08:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-28 00:26:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -8,6 +8,10 @@
 - [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) 
 - [2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) 
 - [2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html) 
+- [2021-03-28-再次踏访八闽大地,习近平这些要求一脉相承](https://sec.thief.one/article_content?a_id=9e77ed550b7842ee8486f0409a591c81) 
+- [2021-03-27-网安杂谈收藏夹2021.3.27](https://sec.thief.one/article_content?a_id=f61236b77ef66e4bf73969a2be825230) 
+- [2021-03-27-MySQL-默认最大连接数是多少?](https://sec.thief.one/article_content?a_id=5219692ee33a70f52ae99fba8119ca6e) 
+- [2021-03-27-第一个利用SolarWinds漏洞以入侵欧盟国家的组织](https://sec.thief.one/article_content?a_id=289ccc8c3e4d7d0b448375ecc6ec56e2) 
 - [2021-03-27-《Ghidra操作手册》带你玩转软件逆向!](https://sec.thief.one/article_content?a_id=4fd394e52df904538e82adc61c880879) 
 - [2021-03-27-ConnectPort-X2e-IoT-网关设备漏洞分析及利用part1](https://sec.thief.one/article_content?a_id=78234f339c5c112f098d79c5f7066189) 
 - [2021-03-27-在看-|-一周网安回顾2021.3.20—3.26](https://sec.thief.one/article_content?a_id=9e61ffbb342d891ad88161d5f4607096) 
@@ -62,7 +66,3 @@
 - [2021-03-24-每日攻防资讯简报Mar.24th](https://sec.thief.one/article_content?a_id=4c1ecf9ee2737d0969afcd698ade5258) 
 - [2021-03-24-快手数据中台建设:大数据服务化之路](https://sec.thief.one/article_content?a_id=cb0f0cdf156a1359a6e981e856e3b5d6) 
 - [2021-03-24-变身快乐社会人,你只差一“微步”~-|-微步在线2021春季校招ING](https://sec.thief.one/article_content?a_id=287609f531b9cc653e0a16e5f16d0c53) 
-- [2021-03-24-Java-领域offer收割:程序员黄金-5-年进阶心得!](https://sec.thief.one/article_content?a_id=7d9e34195b081c3f71f5ba1271d98ad4) 
-- [2021-03-24-OSCP-考试操作笔记及参考资料](https://sec.thief.one/article_content?a_id=02c9aec1f0b63103659f9c300e16335f) 
-- [2021-03-24-再见了,收费的Navicat.](https://sec.thief.one/article_content?a_id=d5699f076320d643b5aba390833521d6) 
-- [2021-03-24-一篇文章带你读懂-TLS-Poison-攻击一](https://sec.thief.one/article_content?a_id=a72b594dc7914cacf765b383e5eb5ec2) 

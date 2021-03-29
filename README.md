@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-29 00:08:54，:rocket: 更新条数: +110， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-29 00:26:11，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -317,6 +317,9 @@
 </summary>
 
 
+- [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) ![](assets/new.png)  
+- [2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) ![](assets/new.png)  
+- [2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -504,6 +507,14 @@
 </summary>
 
 
+- [2021-03-29-常见网站劫持案例及解析](https://sec.thief.one/article_content?a_id=a6ff0aa1edcbb10054c2c651ac47f03f) ![](assets/new.png)  
+- [2021-03-29-基于-LLMNR-和-NetBIOS-欺骗的攻击利用](https://sec.thief.one/article_content?a_id=4d1c10d38870f0dff26a6eefc568c9bc) ![](assets/new.png)  
+- [2021-03-29-Gartner发布2021年八大安全和风险管理趋势](https://sec.thief.one/article_content?a_id=653c895425355f5918dc29d74f504d8e) ![](assets/new.png)  
+- [2021-03-29-网安杂谈收藏夹2021.3.28](https://sec.thief.one/article_content?a_id=259670d5343a5e8f92934533b6acd4a7) ![](assets/new.png)  
+- [2021-03-28-CVE-2021-3156漏洞复现](https://sec.thief.one/article_content?a_id=54bdd8d3c6ae3d7abdb467b23e2c33b4) ![](assets/new.png)  
+- [2021-03-28-太酷炫了,我用-Python-画出了北上广深的地铁路线动态图](https://sec.thief.one/article_content?a_id=ad0edfed5c9c27f6772535e4571848e6) ![](assets/new.png)  
+- [2021-03-28-黑客利用F5-BIG-IP漏洞传播Linux挖矿病毒](https://sec.thief.one/article_content?a_id=b3c1e2ee04a0ae5b313c2d0b3f6de521) ![](assets/new.png)  
+- [2021-03-28-使用Chimera混淆PowerShell代码绕过安防产品](https://sec.thief.one/article_content?a_id=edf420ec50e091e6a560683720fcb57f) ![](assets/new.png)  
 - [2021-03-28-想要无坚不摧?快来学习《Web安全编程入门》吧!](https://sec.thief.one/article_content?a_id=2fb895157c61769434194534cb21abff) ![](assets/new.png)  
 - [2021-03-28-Z招|Amber-Group高至90万/年、君龙人寿诚招安全相关人才](https://sec.thief.one/article_content?a_id=fe507c5d8926319d46b9a205360c3f5f) ![](assets/new.png)  
 - [2021-03-28-暗网市场中被窃取数据的销售情况](https://sec.thief.one/article_content?a_id=76588e176b9ddd439744552365cf59b0) ![](assets/new.png)  
@@ -516,14 +527,6 @@
 - [2021-03-28-【视频】|-Python:异常之多个except](https://sec.thief.one/article_content?a_id=c43a0ef4cf4a706f5f1f11604b6dadac) ![](assets/new.png)  
 - [2021-03-28-深入-.NET-ViewState-反序列化及其利用](https://sec.thief.one/article_content?a_id=c84ec9f15152b722581fc720e1bc2734) ![](assets/new.png)  
 - [2021-03-28-再次踏访八闽大地,习近平这些要求一脉相承](https://sec.thief.one/article_content?a_id=9e77ed550b7842ee8486f0409a591c81) ![](assets/new.png)  
-- [2021-03-27-网安杂谈收藏夹2021.3.27](https://sec.thief.one/article_content?a_id=f61236b77ef66e4bf73969a2be825230) ![](assets/new.png)  
-- [2021-03-27-MySQL-默认最大连接数是多少?](https://sec.thief.one/article_content?a_id=5219692ee33a70f52ae99fba8119ca6e) ![](assets/new.png)  
-- [2021-03-27-润联科技联手腾讯云,共建网络安全实验室](https://sec.thief.one/article_content?a_id=79a2033bfe879cbffacec83297cb9078) ![](assets/new.png)  
-- [2021-03-27-第一个利用SolarWinds漏洞以入侵欧盟国家的组织](https://sec.thief.one/article_content?a_id=289ccc8c3e4d7d0b448375ecc6ec56e2) ![](assets/new.png)  
-- [2021-03-27-《Ghidra操作手册》带你玩转软件逆向!](https://sec.thief.one/article_content?a_id=4fd394e52df904538e82adc61c880879) ![](assets/new.png)  
-- [2021-03-27-直播预告丨今晚20点,i春秋特邀精英白帽开启直播分享!](https://sec.thief.one/article_content?a_id=01394ef105687f4a95fa8e7f79ea4506) ![](assets/new.png)  
-- [2021-03-27-牛聘|2021年度岗位招聘第5期](https://sec.thief.one/article_content?a_id=c4c43490bf47e5498922e3eba7f67fb4) ![](assets/new.png)  
-- [2021-03-27-ConnectPort-X2e-IoT-网关设备漏洞分析及利用part1](https://sec.thief.one/article_content?a_id=78234f339c5c112f098d79c5f7066189) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

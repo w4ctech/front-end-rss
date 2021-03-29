@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2021-03-29 00:08:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-29 00:26:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) 
+- [2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) 
+- [2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html) 
+- [2021-03-29-常见网站劫持案例及解析](https://sec.thief.one/article_content?a_id=a6ff0aa1edcbb10054c2c651ac47f03f) 
+- [2021-03-29-基于-LLMNR-和-NetBIOS-欺骗的攻击利用](https://sec.thief.one/article_content?a_id=4d1c10d38870f0dff26a6eefc568c9bc) 
+- [2021-03-29-网安杂谈收藏夹2021.3.28](https://sec.thief.one/article_content?a_id=259670d5343a5e8f92934533b6acd4a7) 
+- [2021-03-28-CVE-2021-3156漏洞复现](https://sec.thief.one/article_content?a_id=54bdd8d3c6ae3d7abdb467b23e2c33b4) 
+- [2021-03-28-太酷炫了,我用-Python-画出了北上广深的地铁路线动态图](https://sec.thief.one/article_content?a_id=ad0edfed5c9c27f6772535e4571848e6) 
+- [2021-03-28-黑客利用F5-BIG-IP漏洞传播Linux挖矿病毒](https://sec.thief.one/article_content?a_id=b3c1e2ee04a0ae5b313c2d0b3f6de521) 
+- [2021-03-28-使用Chimera混淆PowerShell代码绕过安防产品](https://sec.thief.one/article_content?a_id=edf420ec50e091e6a560683720fcb57f) 
 - [2021-03-28-暗网市场中被窃取数据的销售情况](https://sec.thief.one/article_content?a_id=76588e176b9ddd439744552365cf59b0) 
 - [2021-03-28-关键信息基础设施“挂图作战”解决方案与最佳实践技术大会](https://sec.thief.one/article_content?a_id=61983a79e9470306bb02914efca3e711) 
 - [2021-03-28-2020-国内互联网公司薪酬、加班排名出炉!](https://sec.thief.one/article_content?a_id=4740ba188481ace62e6d1b783c9ac42f) 
@@ -57,8 +67,3 @@
 - [2021-03-25-当你又穷又迷茫的时候,最应该做的是改变“挣钱方式”](https://sec.thief.one/article_content?a_id=f4b748e1e71085e19a07e33bf9e77013) 
 - [2021-03-25-高通芯片曝0day漏洞,可致安卓用户内存损坏](https://sec.thief.one/article_content?a_id=3260b0a86688cdfb89d840120faefb68) 
 - [2021-03-25-干货-|-绕过-Disable_functions-的姿势总结](https://sec.thief.one/article_content?a_id=8addddc55e28ff3678b37f5d2b7de7f7) 
-- [2021-03-25-通过ICO图标哈希绕过CDN查找服务器真实IP](https://sec.thief.one/article_content?a_id=aeb2eeda2260922cd2192e0c2cdee78f) 
-- [2021-03-25-独家揭秘-Centos服务器渗透绝杀技巧](https://sec.thief.one/article_content?a_id=774aa4a067fbd302217cb7f4a7bb06ac) 
-- [2021-03-25-HVV之是蜜罐又不是蜜罐](https://sec.thief.one/article_content?a_id=80f44ffeba2bb9af49c3c142a42fb51c) 
-- [2021-03-25-GTA-5祖传「屎山」代码终于修复!R星认可黑客方案,还给他发了1万...](https://sec.thief.one/article_content?a_id=9c32debc0fcd369a884dbd121e20753d) 
-- [2021-03-25-笔记本电脑真香,包邮送一台!](https://sec.thief.one/article_content?a_id=95730386980a2f4e998eff7a8045fa88) 

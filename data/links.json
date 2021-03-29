@@ -186,7 +186,23 @@
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
-    "items": []
+    "items": [
+      {
+        "title": "科技爱好者周刊（第 151 期）：NFT 是什么，听说能赚钱",
+        "link": "http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "科技爱好者周刊（第 150 期）：当音乐还是稀缺的时候",
+        "link": "http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html",
+        "date": "2021-03-19"
+      },
+      {
+        "title": "科技爱好者周刊（第 149 期）：新能源汽车，谁会是赢家？",
+        "link": "http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html",
+        "date": "2021-03-12"
+      }
+    ]
   },
   {
     "rss": "http://jdc.jd.com/feed",
@@ -289,6 +305,46 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "常见网站劫持案例及解析",
+        "link": "https://sec.thief.one/article_content?a_id=a6ff0aa1edcbb10054c2c651ac47f03f",
+        "date": "2021-03-29"
+      },
+      {
+        "title": "基于  LLMNR 和 NetBIOS 欺骗的攻击利用",
+        "link": "https://sec.thief.one/article_content?a_id=4d1c10d38870f0dff26a6eefc568c9bc",
+        "date": "2021-03-29"
+      },
+      {
+        "title": "Gartner发布2021年八大安全和风险管理趋势",
+        "link": "https://sec.thief.one/article_content?a_id=653c895425355f5918dc29d74f504d8e",
+        "date": "2021-03-29"
+      },
+      {
+        "title": "网安杂谈收藏夹2021.3.28",
+        "link": "https://sec.thief.one/article_content?a_id=259670d5343a5e8f92934533b6acd4a7",
+        "date": "2021-03-29"
+      },
+      {
+        "title": "CVE-2021-3156漏洞复现",
+        "link": "https://sec.thief.one/article_content?a_id=54bdd8d3c6ae3d7abdb467b23e2c33b4",
+        "date": "2021-03-28"
+      },
+      {
+        "title": "太酷炫了,我用 Python 画出了北上广深的地铁路线动态图",
+        "link": "https://sec.thief.one/article_content?a_id=ad0edfed5c9c27f6772535e4571848e6",
+        "date": "2021-03-28"
+      },
+      {
+        "title": "黑客利用F5 BIG-IP漏洞传播Linux挖矿病毒",
+        "link": "https://sec.thief.one/article_content?a_id=b3c1e2ee04a0ae5b313c2d0b3f6de521",
+        "date": "2021-03-28"
+      },
+      {
+        "title": "使用Chimera混淆PowerShell代码绕过安防产品",
+        "link": "https://sec.thief.one/article_content?a_id=edf420ec50e091e6a560683720fcb57f",
+        "date": "2021-03-28"
+      },
       {
         "title": "想要无坚不摧?快来学习《Web安全编程入门》吧!",
         "link": "https://sec.thief.one/article_content?a_id=2fb895157c61769434194534cb21abff",
@@ -747,46 +803,6 @@
       {
         "title": "干货 | 绕过 Disable_functions 的姿势总结",
         "link": "https://sec.thief.one/article_content?a_id=8addddc55e28ff3678b37f5d2b7de7f7",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "4大板块13项细分领域:国舜股份强势入围2021版中国网络安全行业全...",
-        "link": "https://sec.thief.one/article_content?a_id=2fb7ea86b85432b0bdd99248e2f2ffe0",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "通过ICO图标哈希绕过CDN查找服务器真实IP",
-        "link": "https://sec.thief.one/article_content?a_id=aeb2eeda2260922cd2192e0c2cdee78f",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "独家揭秘-Centos服务器渗透绝杀技巧",
-        "link": "https://sec.thief.one/article_content?a_id=774aa4a067fbd302217cb7f4a7bb06ac",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "中国网络安全行业全景图(2021年3月第八版)发布",
-        "link": "https://sec.thief.one/article_content?a_id=83c9ff53b53a9ff865a914ad99fec398",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "HVV之是蜜罐又不是蜜罐",
-        "link": "https://sec.thief.one/article_content?a_id=80f44ffeba2bb9af49c3c142a42fb51c",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "GTA 5祖传「屎山」代码终于修复!R星认可黑客方案,还给他发了1万...",
-        "link": "https://sec.thief.one/article_content?a_id=9c32debc0fcd369a884dbd121e20753d",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "笔记本电脑真香,包邮送一台!",
-        "link": "https://sec.thief.one/article_content?a_id=95730386980a2f4e998eff7a8045fa88",
-        "date": "2021-03-25"
-      },
-      {
-        "title": "《国内网络安全信息与事件管理类产品研究与测试报告(2021年)》...",
-        "link": "https://sec.thief.one/article_content?a_id=9638ced3af7013aab2df2d3fecd87648",
         "date": "2021-03-25"
       }
     ]

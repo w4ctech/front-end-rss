@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-29 00:08:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-29 00:26:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,7 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-03-29-Gartner发布2021年八大安全和风险管理趋势](https://sec.thief.one/article_content?a_id=653c895425355f5918dc29d74f504d8e) 
 - [2021-03-28-想要无坚不摧?快来学习《Web安全编程入门》吧!](https://sec.thief.one/article_content?a_id=2fb895157c61769434194534cb21abff) 
 - [2021-03-28-Z招|Amber-Group高至90万/年、君龙人寿诚招安全相关人才](https://sec.thief.one/article_content?a_id=fe507c5d8926319d46b9a205360c3f5f) 
 - [2021-03-28-安全运营实践:从“复盘”到“复仇”](https://sec.thief.one/article_content?a_id=cf2f48ec1cddcdcd719f70d17633c6fb) 
@@ -31,5 +32,3 @@
 - [2021-03-25-Getdata-forensic-imager取证工具基本使用官方文献归档](https://sec.thief.one/article_content?a_id=e182e8c9209129d1c8c111f995dd57df) 
 - [2021-03-25-每日安全动态推送03-25](https://sec.thief.one/article_content?a_id=d8a47a9bbdd06b9bbff37755cfcdd480) 
 - [2021-03-25-中国网络安全行业全景图第八版发布](https://sec.thief.one/article_content?a_id=85c40888e42b6bcffa5fa2a4629097b3) 
-- [2021-03-25-4大板块13项细分领域:国舜股份强势入围2021版中国网络安全行业全...](https://sec.thief.one/article_content?a_id=2fb7ea86b85432b0bdd99248e2f2ffe0) 
-- [2021-03-25-中国网络安全行业全景图2021年3月第八版发布](https://sec.thief.one/article_content?a_id=83c9ff53b53a9ff865a914ad99fec398) 

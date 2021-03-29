@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-29 10:03:42，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-29 10:23:55，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -507,26 +507,26 @@
 </summary>
 
 
-- [2021-03-29-常见网站劫持案例及解析](https://sec.thief.one/article_content?a_id=a6ff0aa1edcbb10054c2c651ac47f03f) ![](assets/new.png)  
-- [2021-03-29-基于-LLMNR-和-NetBIOS-欺骗的攻击利用](https://sec.thief.one/article_content?a_id=4d1c10d38870f0dff26a6eefc568c9bc) ![](assets/new.png)  
-- [2021-03-29-Gartner发布2021年八大安全和风险管理趋势](https://sec.thief.one/article_content?a_id=653c895425355f5918dc29d74f504d8e) ![](assets/new.png)  
-- [2021-03-29-网安杂谈收藏夹2021.3.28](https://sec.thief.one/article_content?a_id=259670d5343a5e8f92934533b6acd4a7) ![](assets/new.png)  
-- [2021-03-28-CVE-2021-3156漏洞复现](https://sec.thief.one/article_content?a_id=54bdd8d3c6ae3d7abdb467b23e2c33b4) ![](assets/new.png)  
-- [2021-03-28-太酷炫了,我用-Python-画出了北上广深的地铁路线动态图](https://sec.thief.one/article_content?a_id=ad0edfed5c9c27f6772535e4571848e6) ![](assets/new.png)  
-- [2021-03-28-黑客利用F5-BIG-IP漏洞传播Linux挖矿病毒](https://sec.thief.one/article_content?a_id=b3c1e2ee04a0ae5b313c2d0b3f6de521) ![](assets/new.png)  
-- [2021-03-28-使用Chimera混淆PowerShell代码绕过安防产品](https://sec.thief.one/article_content?a_id=edf420ec50e091e6a560683720fcb57f) ![](assets/new.png)  
-- [2021-03-28-想要无坚不摧?快来学习《Web安全编程入门》吧!](https://sec.thief.one/article_content?a_id=2fb895157c61769434194534cb21abff) ![](assets/new.png)  
-- [2021-03-28-Z招|Amber-Group高至90万/年、君龙人寿诚招安全相关人才](https://sec.thief.one/article_content?a_id=fe507c5d8926319d46b9a205360c3f5f) ![](assets/new.png)  
-- [2021-03-28-暗网市场中被窃取数据的销售情况](https://sec.thief.one/article_content?a_id=76588e176b9ddd439744552365cf59b0) ![](assets/new.png)  
-- [2021-03-28-关键信息基础设施“挂图作战”解决方案与最佳实践技术大会](https://sec.thief.one/article_content?a_id=61983a79e9470306bb02914efca3e711) ![](assets/new.png)  
-- [2021-03-28-2020-国内互联网公司薪酬、加班排名出炉!](https://sec.thief.one/article_content?a_id=4740ba188481ace62e6d1b783c9ac42f) ![](assets/new.png)  
-- [2021-03-28-壳牌披露数据泄露,源头竟是“猪队友”Accellion](https://sec.thief.one/article_content?a_id=82cd8649a463a1546b70bfe9aa3d5358) ![](assets/new.png)  
-- [2021-03-28-安全运营实践:从“复盘”到“复仇”](https://sec.thief.one/article_content?a_id=cf2f48ec1cddcdcd719f70d17633c6fb) ![](assets/new.png)  
-- [2021-03-28-时隔两年,黑洞又有了新照片,还是高清的](https://sec.thief.one/article_content?a_id=798383565bd5333b0313251c43e2a319) ![](assets/new.png)  
-- [2021-03-28-非法获取员工及用户敏感信息,法国宜家或将被罚375万欧元](https://sec.thief.one/article_content?a_id=82e716e238deffa2c0b87e51f74592e1) ![](assets/new.png)  
-- [2021-03-28-【视频】|-Python:异常之多个except](https://sec.thief.one/article_content?a_id=c43a0ef4cf4a706f5f1f11604b6dadac) ![](assets/new.png)  
-- [2021-03-28-深入-.NET-ViewState-反序列化及其利用](https://sec.thief.one/article_content?a_id=c84ec9f15152b722581fc720e1bc2734) ![](assets/new.png)  
-- [2021-03-28-再次踏访八闽大地,习近平这些要求一脉相承](https://sec.thief.one/article_content?a_id=9e77ed550b7842ee8486f0409a591c81) ![](assets/new.png)  
+- [2021-03-29-诸子云-|-2020评优:十佳会员风采竞秀](https://sec.thief.one/article_content?a_id=3c6a9e8b9a07efae50f22bdb60e86bb5) ![](assets/new.png)  
+- [2021-03-29-宏碁回应遭网络攻击:已采取措施且不打算支付赎金](https://sec.thief.one/article_content?a_id=702badc0ed4fe3ac41bc537c2e32ae15) ![](assets/new.png)  
+- [2021-03-29-日本银行组成委员会协调CBDC实验](https://sec.thief.one/article_content?a_id=78d3b46817b200ee2c9c3a2cd579c7ea) ![](assets/new.png)  
+- [2021-03-29-2021春招数据实录:高薪岗位排行榜找到了!](https://sec.thief.one/article_content?a_id=dcacaec97af76ca0eeecac1f1672f8fe) ![](assets/new.png)  
+- [2021-03-29-【安全热点周报】第187期:Apache-OFBiz-RMI反序列化远程代码执行...](https://sec.thief.one/article_content?a_id=513c39a9ffa388b87536352b562d6f3e) ![](assets/new.png)  
+- [2021-03-29-7000多人好评度100%的免费课程,你不来看看吗?](https://sec.thief.one/article_content?a_id=1e50956b1f18b646de43f378f18baec5) ![](assets/new.png)  
+- [2021-03-29-文末福利-|-通用漏洞威胁情报奖励计划来啦!](https://sec.thief.one/article_content?a_id=e4c399335cb9adcc54b3fd09d2e5d784) ![](assets/new.png)  
+- [2021-03-29-同心聚变,创赢未来-|-国舜股份2020颁奖盛典暨2021动员大会圆满召开](https://sec.thief.one/article_content?a_id=153b53edcff23b34e13a16a441dfa80f) ![](assets/new.png)  
+- [2021-03-29-3月29日贵币GUIBI早内参-香港正在测试以快速支付系统为数字人民币...](https://sec.thief.one/article_content?a_id=f88fbd53bd87bc92dcea1578409b8911) ![](assets/new.png)  
+- [2021-03-29-一周安全头条20210322-0328](https://sec.thief.one/article_content?a_id=f6cbf6729a4ecd8bfc605a780e3379e6) ![](assets/new.png)  
+- [2021-03-29-微软Exchange服务器上出现Black-Kingdom勒索软件](https://sec.thief.one/article_content?a_id=502683b11f43225f66189acfd752fe29) ![](assets/new.png)  
+- [2021-03-29-金三银四,跳槽为敬!](https://sec.thief.one/article_content?a_id=5cb597bd2de1abc1c7bec515d8171e7c) ![](assets/new.png)  
+- [2021-03-29-每日安全动态推送03-29](https://sec.thief.one/article_content?a_id=57af2f594e7bad94d69ed4bdbdba9b8c) ![](assets/new.png)  
+- [2021-03-29-技术新趋势:SaaS安全配置管理SSPM](https://sec.thief.one/article_content?a_id=f6daf97184128821b111af844a9bc788) ![](assets/new.png)  
+- [2021-03-29-如何使用WriteHat生成渗透测试报告](https://sec.thief.one/article_content?a_id=2763d67cfb13748132984515727fc737) ![](assets/new.png)  
+- [2021-03-29-渗透测试工具&导航合集](https://sec.thief.one/article_content?a_id=0ba31ba173e88347f67be7f52f4b4c3a) ![](assets/new.png)  
+- [2021-03-29-网络安全编程:x86汇编语言之寻址方式](https://sec.thief.one/article_content?a_id=afe330d176454d1c3a7c9953ea1614f1) ![](assets/new.png)  
+- [2021-03-29-美国参议员敦促能源主管在威胁日益严重的情况下优先考虑网络安全](https://sec.thief.one/article_content?a_id=76003743858c4caa66a1fc6b5493e8cc) ![](assets/new.png)  
+- [2021-03-29-几乎无解的最强加密方法,终于被证实真的存在](https://sec.thief.one/article_content?a_id=f709ab4ae39d8e9075480af47a2b5fd6) ![](assets/new.png)  
+- [2021-03-29-底层I/O性能大PK:Python/Java被碾压,Rust有望取代C++](https://sec.thief.one/article_content?a_id=34c51036fe5c21825bbdbfb4ab54d9c0) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

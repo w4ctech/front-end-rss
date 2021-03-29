@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-29 00:04:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-29 00:08:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -404,9 +404,6 @@
 
 
 
-- [【阮一峰的网络日志】科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)
-- [【阮一峰的网络日志】科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)
-- [【阮一峰的网络日志】科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html)
 - [【安全热点】暗网市场中被窃取数据的销售情况](https://sec.thief.one/article_content?a_id=76588e176b9ddd439744552365cf59b0)
 - [【安全热点】关键信息基础设施“挂图作战”解决方案与最佳实践技术大会](https://sec.thief.one/article_content?a_id=61983a79e9470306bb02914efca3e711)
 - [【安全热点】2020-国内互联网公司薪酬、加班排名出炉!](https://sec.thief.one/article_content?a_id=4740ba188481ace62e6d1b783c9ac42f)
@@ -424,6 +421,9 @@
 - [【安全热点】针对虚假加密货币骗局的大规模端到端追踪](https://sec.thief.one/article_content?a_id=8de1f526e01ffc606f693a925b044784)
 - [【安全热点】产学研深度融合典范!清华大学-奇安信联合研究中心硕果累累](https://sec.thief.one/article_content?a_id=f7e8b5efcfce722a94f5a26248c3bbe5)
 - [【安全热点】【漏洞分析】-win32k内核提权漏洞分析CVE-2021-1732](https://sec.thief.one/article_content?a_id=d71c0a62338880cb239354951f1443e3)
+- [【安全热点】作为一只Python爬虫:如何破解滑动验证码](https://sec.thief.one/article_content?a_id=4bb7930a8c2cdc3b55d754bdf5510a20)
+- [【安全热点】点赞|绿盟科技蝉联CNNVD“2020年度优秀技术支撑单位”,并获得“...](https://sec.thief.one/article_content?a_id=d29543cc11bb53ea0518b5f1f0966f03)
+- [【安全热点】用“声音魔法”带您“闪回”国民党“一大”-听他讲述李大钊发言稿|...](https://sec.thief.one/article_content?a_id=2913ffc93d59e9acd23b26cf18165acf)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

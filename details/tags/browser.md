@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-30 00:08:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-30 00:25:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,8 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-03-29-【安全圈】注意!伪造成系统更新的安卓恶意软件可监控用户](https://sec.thief.one/article_content?a_id=a48cc4729f9e742366ac26cdd85fe0e2) 
+- [2021-03-29-虎符智库|XDR如何推动安全运营中心现代化?](https://sec.thief.one/article_content?a_id=10c917b2d167731801c44063cd16fd1a) 
 - [2021-03-29-【安全热点周报】第187期:Apache-OFBiz-RMI反序列化远程代码执行...](https://sec.thief.one/article_content?a_id=513c39a9ffa388b87536352b562d6f3e) 
 - [2021-03-29-一周安全头条20210322-0328](https://sec.thief.one/article_content?a_id=f6cbf6729a4ecd8bfc605a780e3379e6) 
 - [2021-03-29-每日安全动态推送03-29](https://sec.thief.one/article_content?a_id=57af2f594e7bad94d69ed4bdbdba9b8c) 
@@ -28,7 +30,3 @@
 - [2021-03-26-SecWiki安全招聘第50期](https://sec.thief.one/article_content?a_id=ffea06f8dff6288630fb5ce9a7372daa) 
 - [2021-03-26-【中外动态】安全工程师向英国NGO组织Apperta报告数据泄露却反被...](https://sec.thief.one/article_content?a_id=ff53563afd1c72755454a7e16e47f1df) 
 - [2021-03-26-英国三分之二的大公司因COVID19阻碍安全性而受到攻击](https://sec.thief.one/article_content?a_id=e014c4b60de4931e57c9cf3b69c496c9) 
-- [2021-03-26-安全招聘汇总-|-第十二期](https://sec.thief.one/article_content?a_id=c2171eff5aacdf717bc3c089fa70a9b5) 
-- [2021-03-26-网络安全攻防:软件逆向之PE文件](https://sec.thief.one/article_content?a_id=931bd0187fa016fa65356948476b05b5) 
-- [2021-03-25-【安全圈】650万名以色列公民数据在网络泄露](https://sec.thief.one/article_content?a_id=1a2b29139a7d6744ec776d02656173d0) 
-- [2021-03-25-奇安信安全中心成金科新区首座授予新冠疫苗“应接尽接”绿色标识楼宇](https://sec.thief.one/article_content?a_id=a0358abd8e4933a1585860441700925d) 

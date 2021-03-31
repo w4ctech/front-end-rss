@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-31 00:07:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-31 00:24:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,8 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-03-30-【安全风险通告】Apache-Druid远程代码执行漏洞安全风险通告](https://sec.thief.one/article_content?a_id=ca16ff85affe79c80ab8f331a4b2341f) 
+- [2021-03-30-2021上海网络安全博览会向您正式发出邀请](https://sec.thief.one/article_content?a_id=c36dcec426cdf86df77f78a9b343ff97) 
 - [2021-03-30-“安全范儿”沙龙,好春光,三亚游,不可辜负!](https://sec.thief.one/article_content?a_id=4dbaa69e5cf918e1d6b12287ee7ea777) 
 - [2021-03-30-信息安全漏洞周报2021年第13期](https://sec.thief.one/article_content?a_id=a1b7528ed179b8f0bc656b2f897eb9e6) 
 - [2021-03-30-RCEP-国家网络安全合作的现状、困境及前景展望](https://sec.thief.one/article_content?a_id=d425038324f12959448813cbb1a6e519) 
@@ -26,4 +28,3 @@
 - [2021-03-28-深入-.NET-ViewState-反序列化及其利用](https://sec.thief.one/article_content?a_id=c84ec9f15152b722581fc720e1bc2734) 
 - [2021-03-27-润联科技联手腾讯云,共建网络安全实验室](https://sec.thief.one/article_content?a_id=79a2033bfe879cbffacec83297cb9078) 
 - [2021-03-27-XDR如何推动安全运营中心现代化?](https://sec.thief.one/article_content?a_id=5121d11fb66e6afbb1835be442d90c3f) 
-- [2021-03-26-【安全圈】能源巨头壳牌公司遭受-Accelion-黑客攻击](https://sec.thief.one/article_content?a_id=b7644aaa88581a2c954e3c94ac714bc4) 

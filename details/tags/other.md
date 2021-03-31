@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-31 00:07:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-31 00:24:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -9,6 +9,11 @@
 - [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) 
 - [2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) 
 - [2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html) 
+- [2021-03-31-网安杂谈收藏夹2021.3.30](https://sec.thief.one/article_content?a_id=057afc8701da1bab97b1a9758f9c6473) 
+- [2021-03-30-【红雨滴云沙箱】实战攻防演习样本分析之CobaltStrike](https://sec.thief.one/article_content?a_id=d7b5f78132bee198cd91c3d09d68b2e6) 
+- [2021-03-30-这只拒绝内卷的-AI-狼火了!高智商却自暴自弃,不想抓羊只想躺](https://sec.thief.one/article_content?a_id=99698b45d0e0eadfe26a19c95bb05da7) 
+- [2021-03-30-渗透测试前期信息收集工具](https://sec.thief.one/article_content?a_id=71a2a5591fd3e3ae13c7224332665828) 
+- [2021-03-30-30块钱的树莓派跑unix系统,源码全部开源,香](https://sec.thief.one/article_content?a_id=7e7e0c279c7956938784646ab0307547) 
 - [2021-03-30-【漏洞通告】Apache-Druid-远程代码执行漏洞CVE-2021-26919](https://sec.thief.one/article_content?a_id=104305af683adfbcbc1b6b7b6696796d) 
 - [2021-03-30-德国议会再遭攻击,俄罗斯被怀疑是幕后黑手](https://sec.thief.one/article_content?a_id=8805c666a910b5be0f2ab6d4c7f6b235) 
 - [2021-03-30-易安联:以客户视角全面搭建零信任产品矩阵](https://sec.thief.one/article_content?a_id=775ccea7bd800b1858facbaa983f897b) 
@@ -69,9 +74,3 @@
 - [2021-03-27-在看-|-一周网安回顾2021.3.20—3.26](https://sec.thief.one/article_content?a_id=9e61ffbb342d891ad88161d5f4607096) 
 - [2021-03-27-负载均衡下的-WebShell-连接](https://sec.thief.one/article_content?a_id=1bba142d3e469931c220a4bdbee0fabd) 
 - [2021-03-26-针对虚假加密货币骗局的大规模端到端追踪](https://sec.thief.one/article_content?a_id=8de1f526e01ffc606f693a925b044784) 
-- [2021-03-26-产学研深度融合典范!清华大学-奇安信联合研究中心硕果累累](https://sec.thief.one/article_content?a_id=f7e8b5efcfce722a94f5a26248c3bbe5) 
-- [2021-03-26-【漏洞分析】-win32k内核提权漏洞分析CVE-2021-1732](https://sec.thief.one/article_content?a_id=d71c0a62338880cb239354951f1443e3) 
-- [2021-03-26-作为一只Python爬虫:如何破解滑动验证码](https://sec.thief.one/article_content?a_id=4bb7930a8c2cdc3b55d754bdf5510a20) 
-- [2021-03-26-点赞|绿盟科技蝉联CNNVD“2020年度优秀技术支撑单位”,并获得“...](https://sec.thief.one/article_content?a_id=d29543cc11bb53ea0518b5f1f0966f03) 
-- [2021-03-26-用“声音魔法”带您“闪回”国民党“一大”-听他讲述李大钊发言稿|...](https://sec.thief.one/article_content?a_id=2913ffc93d59e9acd23b26cf18165acf) 
-- [2021-03-26-【技术分享】从浅入深学习PHP文件包含](https://sec.thief.one/article_content?a_id=ff9dada95b0db2a805855c33c6504d8d) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-31 10:04:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-31 10:23:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -8,8 +8,6 @@
 
 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
+- [2021-03-31-【视频】|-工控安全:电力监控系统网络安全解决方案](https://sec.thief.one/article_content?a_id=ad9f551ceb0a2be23c058f1f80ba9697) 
 - [2021-03-30-【视频】|-Python:try与else和try与finall](https://sec.thief.one/article_content?a_id=5e5c61ede5fecea804fbba2876afbe80) 
 - [2021-03-30-微视频-|-为人民服务](https://sec.thief.one/article_content?a_id=c83a70edef1c5660972deebbc51494b5) 
-- [2021-03-28-【视频】|-Python:异常之多个except](https://sec.thief.one/article_content?a_id=c43a0ef4cf4a706f5f1f11604b6dadac) 
-- [2021-03-27-直播预告丨今晚20点,i春秋特邀精英白帽开启直播分享!](https://sec.thief.one/article_content?a_id=01394ef105687f4a95fa8e7f79ea4506) 
-- [2021-03-27-【视频】|-工控安全:监管合规-等保、关保“两个制度”解读](https://sec.thief.one/article_content?a_id=c362731b60cdc8d7c85031ad1fda9d7e) 

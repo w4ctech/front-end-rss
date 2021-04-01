@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-01 11:23:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-01 11:37:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,8 +7,5 @@
 
 
 
-- [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
-- [2021-03-31-7000字前端性能优化总结-|-干货建议收藏](https://www.ershicimi.com/p/7eb436f912a5cc2d9781494fc553ddeb) 
-- [2021-03-25-超详细Hexo+Github-Page搭建技术博客教程（含SEO优化）](https://www.ershicimi.com/p/92efeea1d38646ac3d674fd0e6fc39cf) 
 - [2021-04-01-公司业务缩减-被优化了-该如何保障自身权益](https://www.v2ex.com/t/767285) 
 - [2021-03-31-底层I/O性能大PK:Python/Java被碾压,Rust有望取代C++](https://sec.thief.one/article_content?a_id=2268c6df0a82a23b5b5af0269079825c) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-01 20:29:14，:rocket: 更新条数: +186， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-01 20:38:21，:rocket: 更新条数: +171， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,9 +53,9 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)  
+- [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -516,26 +516,6 @@
 </summary>
 
 
-- [2021-04-01-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
-- [2021-04-01-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) ![](assets/new.png)  
-- [2021-04-01-漫画-Go-语言中函数-new-与-make-的使用和区别](https://toutiao.io/k/jky5ja4) ![](assets/new.png)  
-- [2021-04-01-Java-基础：函数式编程概念和-API-应用](https://toutiao.io/k/dt8maz4) ![](assets/new.png)  
-- [2021-04-01-Tyk-API-Gateway-反向代理设计](https://toutiao.io/k/fzt2lff) ![](assets/new.png)  
-- [2021-04-01-户口？大厂？高薪？生活？聊聊应届程序员的职业选择](https://toutiao.io/k/iorrbp6) ![](assets/new.png)  
-- [2021-04-01-移动安全框架：MobSF](https://toutiao.io/k/o3u2wt9) ![](assets/new.png)  
-- [2021-04-01-Mybatis-源码入门](https://toutiao.io/k/wf4vhf3) ![](assets/new.png)  
-- [2021-04-01-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-01-译-分布式系统在-Kubernetes-上的进化](https://toutiao.io/k/54gq9yp) ![](assets/new.png)  
-- [2021-04-01-开发对接过程中的教训](https://toutiao.io/k/71w69om) ![](assets/new.png)  
-- [2021-04-01-写给开发人员的实用密码学：数字签名](https://toutiao.io/k/kj06ppi) ![](assets/new.png)  
-- [2021-04-01-从安卓-WebView-更新说起](https://toutiao.io/k/61ppcxj) ![](assets/new.png)  
-- [2021-04-01-译-数据科学家要知道的-3-条数学定律](https://toutiao.io/k/r5w1s4o) ![](assets/new.png)  
-- [2021-04-01-译-使用-PDB-避免-Kubernetes-集群中断](https://toutiao.io/k/vgm6pkz) ![](assets/new.png)  
-- [2021-04-01-在-Linux-中限制-Python-程序所能使用的最大内存](https://toutiao.io/k/ype1puf) ![](assets/new.png)  
-- [2021-04-01-Docker-实战：Web-服务器](https://toutiao.io/k/5xgjqr3) ![](assets/new.png)  
-- [2021-04-01-工具-|-腾讯开源的一个专注于张量计算/深度学习的基础库](https://toutiao.io/k/xtx4q2b) ![](assets/new.png)  
-- [2021-04-01-去年，一道蚂蚁金服笔试题，还行，中等难度](https://toutiao.io/k/e513a5p) ![](assets/new.png)  
-- [2021-04-01-《驯龙高手》《大黄蜂》：这些动画人物和场景背后的小秘密](https://toutiao.io/k/3b9zx23) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -578,6 +558,26 @@
 </summary>
 
 
+- [2021-03-30-雷军押上全部声誉：造车是人生最后一次重大创业！小米首款万元机都被抢戏了](https://www.ershicimi.com/p/6b70c16815e16e645be52fe342c05c5c) ![](assets/new.png)  
+- [2021-03-30-三天逛展，四场论坛，5G/工业互联网/物联网，你想知道的都在这里](https://www.ershicimi.com/p/6e907ce8246e2db945c8c08ed3bcb216) ![](assets/new.png)  
+- [2021-03-30-5G毫米波峰值速率，到底怎么算？](https://www.ershicimi.com/p/a323417554f24c55f48a750ee1bd830e) ![](assets/new.png)  
+- [2021-03-29-小米刚办了场“春晚”，发布一部安卓之光！一部安卓机皇！还有史上最强的小米手环6！](https://www.ershicimi.com/p/dc96da18f69598a391d5644966c2735c) ![](assets/new.png)  
+- [2021-03-29-彭瑜-|-IT与OT正在走向原生融合](https://www.ershicimi.com/p/caef581528276ef3cb8b5e9749407419) ![](assets/new.png)  
+- [2021-03-29-什么是紫领人才？中国制造业升级为何不能没有他们？](https://www.ershicimi.com/p/8a65260da07eaec75c99f03a85b95867) ![](assets/new.png)  
+- [2021-03-28-英特尔IDM2.0计划一箭三雕：迎合拜登政府政策，抢占全球缺芯市场，横夺台积电生意](https://www.ershicimi.com/p/1086e3743e11ffa7fcd41619f7d266e0) ![](assets/new.png)  
+- [2021-03-28-物联网投融资周报|百度昆仑芯片业务完成独立融资；FF再获近1亿美元债权融资；能链完成3亿美元融资；灵](https://www.ershicimi.com/p/4f3bada2f0160f3b0b146c481871f12e) ![](assets/new.png)  
+- [2021-03-28-三天逛展，四场论坛，5G/工业互联网/物联网，你想知道的都在这里](https://www.ershicimi.com/p/fc53f0ff90a93e7f0c7c62a0c7a84a17) ![](assets/new.png)  
+- [2021-03-27-匪夷所思！中国移动的物联网连接数竟下滑1100万，背后释放了什么信号？](https://www.ershicimi.com/p/6cc87156b9e2d2bbb5eefdd9abe7205c) ![](assets/new.png)  
+- [2021-03-27-物联网智库官网全新改版上线！独属于物联网人的每日必看](https://www.ershicimi.com/p/4b258bee4dea7bdfb77f3009a55faca4) ![](assets/new.png)  
+- [2021-03-26-群雄激战智能家居，设备厂商只能被“收割”？](https://www.ershicimi.com/p/b3af24522565ac6abe90780cfea69381) ![](assets/new.png)  
+- [2021-03-26-中国信通院：发挥5G-SA性能优势需端网协同](https://www.ershicimi.com/p/aad3e6c1c827f6284a4b9577648a8317) ![](assets/new.png)  
+- [2021-03-26-物联网智库官网全新改版！独属于物联网人的每日必看](https://www.ershicimi.com/p/0de0e17324543207f80ee3e7dfdfaa80) ![](assets/new.png)  
+- [2021-03-26-公共管网漏水量惊人，一年漏掉700个西湖的问题如何解决？](https://www.ershicimi.com/p/7b53843683a29fb053753a2d212416b9) ![](assets/new.png)  
+- [2021-03-25-停电1分钟即攸关性命，谁来给医院的后勤管理“问诊”？](https://www.ershicimi.com/p/45b432255ad3f455651bdea2249a2d89) ![](assets/new.png)  
+- [2021-03-25-英特尔新CEO上任三把火：搞定7nm-EUV、200亿美元建厂、改变代工模式](https://www.ershicimi.com/p/3beb136fdc174e0f41cf09e30e9e79a0) ![](assets/new.png)  
+- [2021-03-25-三天逛展，四场论坛，5G/工业互联网/物联网，你想知道的都在这里](https://www.ershicimi.com/p/bbda18e0aea05e5fe935e1e821e4453b) ![](assets/new.png)  
+- [2021-03-24-AI健身/3D试衣/AI烤肉……黑科技扎堆的AWE2021都有哪些硬货？](https://www.ershicimi.com/p/c90b58dd4517e2a842521a852c3830cf) ![](assets/new.png)  
+- [2021-03-24-声智团队诚意之作，新品豆豆耳机来袭，终于摆脱了耳机柄的束缚！](https://www.ershicimi.com/p/fa5cd42e8b0eb569be260da1210b3c7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

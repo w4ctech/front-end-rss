@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-01 23:42:44，:rocket: 更新条数: +662， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-01 23:57:17，:rocket: 更新条数: +664， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -916,6 +916,7 @@
 </summary>
 
 
+- [2021-04-01-最近微信手机上删掉了消息，电脑登录依然会同步删除的内容](https://www.v2ex.com/t/767403) ![](assets/new.png)  
 - [2021-04-01-m1-要选择-8G+512-还是-16+256G?](https://www.v2ex.com/t/767402) ![](assets/new.png)  
 - [2021-04-01-今年年底就-29-岁了，现在连女朋友都没有，非常焦虑。](https://www.v2ex.com/t/767401) ![](assets/new.png)  
 - [2021-04-01-无锡有什么好的企业鸭](https://www.v2ex.com/t/767400) ![](assets/new.png)  
@@ -935,7 +936,6 @@
 - [2021-04-01-基于-arcgis-开发一个小区的噪声地图](https://www.v2ex.com/t/767380) ![](assets/new.png)  
 - [2021-04-01-头部平台-Matrixport-招聘](https://www.v2ex.com/t/767379) ![](assets/new.png)  
 - [2021-04-01-我想知道，深圳地铁-1-号线里面，移动卡信号怎么样](https://www.v2ex.com/t/767378) ![](assets/new.png)  
-- [2021-04-01-HomeKit-是不是不支持灯泡色温调节](https://www.v2ex.com/t/767376) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -978,26 +978,26 @@
 </summary>
 
 
-- [2021-04-01-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
 - [2021-04-01-Java-中的集合-List（入门篇）](https://toutiao.io/k/de00pgg) ![](assets/new.png)  
+- [2021-04-01-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
 - [2021-04-01-译-Uber：面向领域的微服务架构](https://toutiao.io/k/0yy2iga) ![](assets/new.png)  
-- [2021-04-01-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
-- [2021-04-01-为您的应用配置-Play-Feature-Delivery](https://toutiao.io/k/zp6ph9o) ![](assets/new.png)  
 - [2021-04-01-JVM-进阶之路（七）：垃圾收集器盘点](https://toutiao.io/k/55l066q) ![](assets/new.png)  
 - [2021-04-01-你该如何为-Kubernetes-定制特性](https://toutiao.io/k/ea28kfh) ![](assets/new.png)  
+- [2021-04-01-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
+- [2021-04-01-为您的应用配置-Play-Feature-Delivery](https://toutiao.io/k/zp6ph9o) ![](assets/new.png)  
 - [2021-04-01-译-WebStorm-访谈：我们是如何构建-JavaScript-IDE-的？](https://toutiao.io/k/am1mh5y) ![](assets/new.png)  
 - [2021-04-01-书单：互联网企业面试案头书之数据分析师篇](https://toutiao.io/k/vs0zegr) ![](assets/new.png)  
 - [2021-04-01-微服务时代组件化和服务化的抉择](https://toutiao.io/k/scyqk7j) ![](assets/new.png)  
 - [2021-04-01-iOS-中触摸事件的传递和响应分析](https://toutiao.io/k/rxeztzb) ![](assets/new.png)  
-- [2021-04-01-架构设计笔记（十二）：关键模式_读写分离](https://toutiao.io/k/pi52ruq) ![](assets/new.png)  
 - [2021-04-01-Clickhouse-平台无感搬迁-Zookeeper-实践](https://toutiao.io/k/7up61zr) ![](assets/new.png)  
-- [2021-04-01-推荐-加密技术的未来：从服务端密码存储到用户数据加密方案](https://toutiao.io/k/lq6l2fa) ![](assets/new.png)  
-- [2021-04-01-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
-- [2021-04-01-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
-- [2021-04-01-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
-- [2021-04-01-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
-- [2021-04-01-推荐-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) ![](assets/new.png)  
+- [2021-04-01-如何用-Python-操作-Docker？](https://toutiao.io/k/h0br9z2) ![](assets/new.png)  
+- [2021-04-01-程序员如何管理你的上级领导？](https://toutiao.io/k/oxjrbtj) ![](assets/new.png)  
+- [2021-04-01-架构设计笔记（十二）：关键模式_读写分离](https://toutiao.io/k/pi52ruq) ![](assets/new.png)  
 - [2021-04-01-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
+- [2021-04-01-推荐-加密技术的未来：从服务端密码存储到用户数据加密方案](https://toutiao.io/k/lq6l2fa) ![](assets/new.png)  
+- [2021-04-01-推荐-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) ![](assets/new.png)  
+- [2021-04-01-推荐-权限体系设计：网易有数-BI-功能品鉴](https://toutiao.io/k/nvr0l12) ![](assets/new.png)  
+- [2021-04-01-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

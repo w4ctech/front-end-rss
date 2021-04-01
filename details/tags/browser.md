@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-01 23:42:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-01 23:57:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,7 +25,6 @@
 - [2021-03-28-MySQL与Redis缓存的同步方案](https://www.ershicimi.com/p/3d59f463895db678220419fb9054d6cf) 
 - [2021-03-29-如何正确选择上云最佳路径并最大化安全能力？](https://www.ershicimi.com/p/e80324f5fb5b4f5a345a4b252caabaca) 
 - [2021-04-01-iOS-设备如何安全连接远程桌面？](https://www.v2ex.com/t/767385) 
-- [2021-04-01-你司是如何调试大型前端项目的？](https://www.v2ex.com/t/767353) 
 - [2021-04-01-腾讯-Code-Review-规范出炉！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-01-Kubestriker:一款针对Kubernetes的快速安全审计工具](https://sec.thief.one/article_content?a_id=6b0a45cc0b6295102e16852ca6daa0b9) 
 - [2021-04-01-征文|杨文斌:终端安全之线段理论](https://sec.thief.one/article_content?a_id=996517e7290f3552d5160033988be2a9) 

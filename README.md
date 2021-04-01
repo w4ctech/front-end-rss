@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-01 05:40:38，:rocket: 更新条数: +184， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-01 05:53:00，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)  
 
@@ -474,26 +474,6 @@
 </summary>
 
 
-- [2021-04-01-一个-app，一个小程序，一个-web-系统，如果全部上云，需要注意哪些事情？](https://www.v2ex.com/t/767198) ![](assets/new.png)  
-- [2021-04-01-godot-改了个女性化的名字，还做了可爱的-logo，这会是一个愚人节玩笑吗](https://www.v2ex.com/t/767195) ![](assets/new.png)  
-- [2021-04-01-组建-10g-局域网，电费都有点承受不起](https://www.v2ex.com/t/767194) ![](assets/new.png)  
-- [2021-04-01-网关（Gateway）是-http-层的概念，还是-tcp-层的概念？](https://www.v2ex.com/t/767193) ![](assets/new.png)  
-- [2021-04-01-https://ipip.ooo](https://www.v2ex.com/t/767192) ![](assets/new.png)  
-- [2021-04-01-成都招-Java-开发工程师](https://www.v2ex.com/t/767191) ![](assets/new.png)  
-- [2021-04-01-4-月-1-日广度优先搜索大学开源软件镜像站](https://www.v2ex.com/t/767190) ![](assets/new.png)  
-- [2021-04-01-写了个简单的-yarn-加速](https://www.v2ex.com/t/767189) ![](assets/new.png)  
-- [2021-04-01-华强北的-airpod-看视频为什么听不到人声只有-BGM](https://www.v2ex.com/t/767188) ![](assets/new.png)  
-- [2021-04-01-微信区-一起玩游戏呀](https://www.v2ex.com/t/767187) ![](assets/new.png)  
-- [2021-04-01-美食电影交流群](https://www.v2ex.com/t/767186) ![](assets/new.png)  
-- [2021-04-01-在-MacBook-M1-上使用-Android-Studio-开发的体验怎么样？](https://www.v2ex.com/t/767183) ![](assets/new.png)  
-- [2021-04-01-大家有没有部署服务器环境的自动化脚本推荐](https://www.v2ex.com/t/767179) ![](assets/new.png)  
-- [2021-04-01-超过-30s-找我领-10-个铜币](https://www.v2ex.com/t/767178) ![](assets/new.png)  
-- [2021-04-01-你站点的愚人节彩蛋是什么？](https://www.v2ex.com/t/767177) ![](assets/new.png)  
-- [2021-04-01-兄弟们你们的-nas-都什么配置，垃圾佬-nas-方案求建议](https://www.v2ex.com/t/767176) ![](assets/new.png)  
-- [2021-04-01-I-need-help-froma-software-engineer-who-can-work-with-Janus-gateway-WebRTC-server-technologies-system-.](https://www.v2ex.com/t/767175) ![](assets/new.png)  
-- [2021-04-01-MacOS-app-Hungrymark-Lite-macOS-下的收纳箱-免费发布了](https://www.v2ex.com/t/767174) ![](assets/new.png)  
-- [2021-04-01-日经-咨询下家庭组网方案](https://www.v2ex.com/t/767173) ![](assets/new.png)  
-- [2021-04-01-杭州|成都酷家乐招聘后端研发](https://www.v2ex.com/t/767171) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -516,26 +496,6 @@
 </summary>
 
 
-- [2021-04-01-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
-- [2021-04-01-漫画-Go-语言中函数-new-与-make-的使用和区别](https://toutiao.io/k/jky5ja4) ![](assets/new.png)  
-- [2021-04-01-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) ![](assets/new.png)  
-- [2021-04-01-Java-基础：函数式编程概念和-API-应用](https://toutiao.io/k/dt8maz4) ![](assets/new.png)  
-- [2021-04-01-Tyk-API-Gateway-反向代理设计](https://toutiao.io/k/fzt2lff) ![](assets/new.png)  
-- [2021-04-01-户口？大厂？高薪？生活？聊聊应届程序员的职业选择](https://toutiao.io/k/iorrbp6) ![](assets/new.png)  
-- [2021-04-01-移动安全框架：MobSF](https://toutiao.io/k/o3u2wt9) ![](assets/new.png)  
-- [2021-04-01-开发对接过程中的教训](https://toutiao.io/k/71w69om) ![](assets/new.png)  
-- [2021-04-01-译-使用-PDB-避免-Kubernetes-集群中断](https://toutiao.io/k/vgm6pkz) ![](assets/new.png)  
-- [2021-04-01-从安卓-WebView-更新说起](https://toutiao.io/k/61ppcxj) ![](assets/new.png)  
-- [2021-04-01-Mybatis-源码入门](https://toutiao.io/k/wf4vhf3) ![](assets/new.png)  
-- [2021-04-01-译-数据科学家要知道的-3-条数学定律](https://toutiao.io/k/r5w1s4o) ![](assets/new.png)  
-- [2021-04-01-写给开发人员的实用密码学：数字签名](https://toutiao.io/k/kj06ppi) ![](assets/new.png)  
-- [2021-04-01-在-Linux-中限制-Python-程序所能使用的最大内存](https://toutiao.io/k/ype1puf) ![](assets/new.png)  
-- [2021-04-01-译-分布式系统在-Kubernetes-上的进化](https://toutiao.io/k/54gq9yp) ![](assets/new.png)  
-- [2021-04-01-《驯龙高手》《大黄蜂》：这些动画人物和场景背后的小秘密](https://toutiao.io/k/3b9zx23) ![](assets/new.png)  
-- [2021-04-01-工具-|-腾讯开源的一个专注于张量计算/深度学习的基础库](https://toutiao.io/k/xtx4q2b) ![](assets/new.png)  
-- [2021-04-01-去年，一道蚂蚁金服笔试题，还行，中等难度](https://toutiao.io/k/e513a5p) ![](assets/new.png)  
-- [2021-04-01-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-01-Docker-实战：Web-服务器](https://toutiao.io/k/5xgjqr3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-01 05:40:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-01 05:53:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -9,6 +9,5 @@
 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 
-- [2021-04-01-Java-基础：函数式编程概念和-API-应用](https://toutiao.io/k/dt8maz4) 
 - [2021-03-31-【漏洞更新】PHP代码被植入后门事件分析](https://sec.thief.one/article_content?a_id=64edc054312982b568a3575f95ab006f) 
 - [2021-03-29-微软Exchange服务器上出现Black-Kingdom勒索软件](https://sec.thief.one/article_content?a_id=502683b11f43225f66189acfd752fe29) 

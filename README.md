@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-01 19:00:20，:rocket: 更新条数: +171， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-01 19:11:20，:rocket: 更新条数: +152， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)![](assets/dot.png)   
+- [物联网智库](#物联网智库)  
 
 ## 文章链接
 
@@ -474,6 +474,7 @@
 </summary>
 
 
+- [2021-04-01-20210401-午夜俱乐部](https://www.v2ex.com/t/767394) ![](assets/new.png)  
 - [2021-04-01-Mac-系统修改-plist-文件禁止-Pulse-Secure-软件开机自启动，导致软件无法连接](https://www.v2ex.com/t/767391) ![](assets/new.png)  
 - [2021-04-01-HomeKit-节点似乎不在-Apple-节点下面？](https://www.v2ex.com/t/767390) ![](assets/new.png)  
 - [2021-04-01-根据一切递归可以转为循环，问个递归中嵌套循环的问题](https://www.v2ex.com/t/767389) ![](assets/new.png)  
@@ -493,7 +494,6 @@
 - [2021-04-01-现在-WSL2-支持在里面装-gui-的软件，但是不装-gui-的桌面吗？](https://www.v2ex.com/t/767370) ![](assets/new.png)  
 - [2021-04-01-走过路过不要错过，生活所迫我来卖课](https://www.v2ex.com/t/767369) ![](assets/new.png)  
 - [2021-04-01-有老哥来聊聊-2021-年有上市前景的公司吗财富自由](https://www.v2ex.com/t/767368) ![](assets/new.png)  
-- [2021-04-01-需求里充斥着大量条件判断，有什么好的设计模式，便于后期维护的？-之前记得重构那本书里面是每个判断写成一个类](https://www.v2ex.com/t/767367) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,26 +558,6 @@
 </summary>
 
 
-- [2021-03-30-雷军押上全部声誉：造车是人生最后一次重大创业！小米首款万元机都被抢戏了](https://www.ershicimi.com/p/6b70c16815e16e645be52fe342c05c5c) ![](assets/new.png)  
-- [2021-03-30-三天逛展，四场论坛，5G/工业互联网/物联网，你想知道的都在这里](https://www.ershicimi.com/p/6e907ce8246e2db945c8c08ed3bcb216) ![](assets/new.png)  
-- [2021-03-30-5G毫米波峰值速率，到底怎么算？](https://www.ershicimi.com/p/a323417554f24c55f48a750ee1bd830e) ![](assets/new.png)  
-- [2021-03-29-小米刚办了场“春晚”，发布一部安卓之光！一部安卓机皇！还有史上最强的小米手环6！](https://www.ershicimi.com/p/dc96da18f69598a391d5644966c2735c) ![](assets/new.png)  
-- [2021-03-29-彭瑜-|-IT与OT正在走向原生融合](https://www.ershicimi.com/p/caef581528276ef3cb8b5e9749407419) ![](assets/new.png)  
-- [2021-03-29-什么是紫领人才？中国制造业升级为何不能没有他们？](https://www.ershicimi.com/p/8a65260da07eaec75c99f03a85b95867) ![](assets/new.png)  
-- [2021-03-28-英特尔IDM2.0计划一箭三雕：迎合拜登政府政策，抢占全球缺芯市场，横夺台积电生意](https://www.ershicimi.com/p/1086e3743e11ffa7fcd41619f7d266e0) ![](assets/new.png)  
-- [2021-03-28-物联网投融资周报|百度昆仑芯片业务完成独立融资；FF再获近1亿美元债权融资；能链完成3亿美元融资；灵](https://www.ershicimi.com/p/4f3bada2f0160f3b0b146c481871f12e) ![](assets/new.png)  
-- [2021-03-28-三天逛展，四场论坛，5G/工业互联网/物联网，你想知道的都在这里](https://www.ershicimi.com/p/fc53f0ff90a93e7f0c7c62a0c7a84a17) ![](assets/new.png)  
-- [2021-03-27-匪夷所思！中国移动的物联网连接数竟下滑1100万，背后释放了什么信号？](https://www.ershicimi.com/p/6cc87156b9e2d2bbb5eefdd9abe7205c) ![](assets/new.png)  
-- [2021-03-27-物联网智库官网全新改版上线！独属于物联网人的每日必看](https://www.ershicimi.com/p/4b258bee4dea7bdfb77f3009a55faca4) ![](assets/new.png)  
-- [2021-03-26-群雄激战智能家居，设备厂商只能被“收割”？](https://www.ershicimi.com/p/b3af24522565ac6abe90780cfea69381) ![](assets/new.png)  
-- [2021-03-26-中国信通院：发挥5G-SA性能优势需端网协同](https://www.ershicimi.com/p/aad3e6c1c827f6284a4b9577648a8317) ![](assets/new.png)  
-- [2021-03-26-物联网智库官网全新改版！独属于物联网人的每日必看](https://www.ershicimi.com/p/0de0e17324543207f80ee3e7dfdfaa80) ![](assets/new.png)  
-- [2021-03-26-公共管网漏水量惊人，一年漏掉700个西湖的问题如何解决？](https://www.ershicimi.com/p/7b53843683a29fb053753a2d212416b9) ![](assets/new.png)  
-- [2021-03-25-停电1分钟即攸关性命，谁来给医院的后勤管理“问诊”？](https://www.ershicimi.com/p/45b432255ad3f455651bdea2249a2d89) ![](assets/new.png)  
-- [2021-03-25-英特尔新CEO上任三把火：搞定7nm-EUV、200亿美元建厂、改变代工模式](https://www.ershicimi.com/p/3beb136fdc174e0f41cf09e30e9e79a0) ![](assets/new.png)  
-- [2021-03-25-三天逛展，四场论坛，5G/工业互联网/物联网，你想知道的都在这里](https://www.ershicimi.com/p/bbda18e0aea05e5fe935e1e821e4453b) ![](assets/new.png)  
-- [2021-03-24-AI健身/3D试衣/AI烤肉……黑科技扎堆的AWE2021都有哪些硬货？](https://www.ershicimi.com/p/c90b58dd4517e2a842521a852c3830cf) ![](assets/new.png)  
-- [2021-03-24-声智团队诚意之作，新品豆豆耳机来袭，终于摆脱了耳机柄的束缚！](https://www.ershicimi.com/p/fa5cd42e8b0eb569be260da1210b3c7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

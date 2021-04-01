@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-01 20:50:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-01 21:03:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,8 +8,6 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2021-04-01-iOS-设备如何安全连接远程桌面？](https://www.v2ex.com/t/767385) 
-- [2021-04-01-你司是如何调试大型前端项目的？](https://www.v2ex.com/t/767353) 
 - [2021-04-01-Kubestriker:一款针对Kubernetes的快速安全审计工具](https://sec.thief.one/article_content?a_id=6b0a45cc0b6295102e16852ca6daa0b9) 
 - [2021-04-01-征文|杨文斌:终端安全之线段理论](https://sec.thief.one/article_content?a_id=996517e7290f3552d5160033988be2a9) 
 - [2021-04-01-烟草行业:网络与信息安全已成基础性、全局性课题](https://sec.thief.one/article_content?a_id=b35ae9f79a2dfec734cd0e318ed39fb4) 

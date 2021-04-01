@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-01 11:03:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-01 11:23:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -7,7 +7,6 @@
 
 
 
-- [2021-03-23-收好这份-Git-应急手册，关键时刻可保你一命](https://www.ershicimi.com/p/d4a270b0eeb7795dbcdf57dde0e73bfe) 
 - [2021-04-01-Python-怎么实现-git-pull-拉取-gitlab-上的项目文件？](https://www.v2ex.com/t/767291) 
 - [2021-04-01-gitee-本地无法-pull-代码，强行放假了](https://www.v2ex.com/t/767281) 
 - [2021-04-01-Gitee-推送超时](https://www.v2ex.com/t/767273) 

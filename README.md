@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-01 07:49:54，:rocket: 更新条数: +3612， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-01 08:03:48，:rocket: 更新条数: +3645， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)  
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-04-01-clash-用不了。。。](https://www.v2ex.com/t/767241) ![](assets/new.png)  
+- [2021-04-01-请问有没有优秀的-JS-表格推荐呢？-Data-Grid](https://www.v2ex.com/t/767240) ![](assets/new.png)  
+- [2021-04-01-深圳-非-996，来自美国洛杉矶宠物科技创业公司，寻找有工匠精神的研发人员](https://www.v2ex.com/t/767238) ![](assets/new.png)  
+- [2021-04-01-美团校招社招可实习AndroidiOS美团北京移动端团队招人啦，欢迎推荐，各级别-HC-充裕](https://www.v2ex.com/t/767237) ![](assets/new.png)  
 - [2021-04-01-怎么收看美国的电视频道-cbs-fox-等](https://www.v2ex.com/t/767236) ![](assets/new.png)  
 - [2021-04-01-Stack-Overflow-开始复制收费了](https://www.v2ex.com/t/767235) ![](assets/new.png)  
 - [2021-04-01-兄弟们，我想买一个-NAS，求推荐，预算-2000-3000](https://www.v2ex.com/t/767232) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-04-01-8BitDo-Pro-2](https://www.v2ex.com/t/767216) ![](assets/new.png)  
 - [2021-04-01-关于骁龙-888-的疑问？？](https://www.v2ex.com/t/767215) ![](assets/new.png)  
 - [2021-04-01-广东现在还有上行-100m-的宽带吗](https://www.v2ex.com/t/767214) ![](assets/new.png)  
-- [2021-04-01-chrome-v2ex-plus-插件失效了,-有替代产品吗](https://www.v2ex.com/t/767213) ![](assets/new.png)  
-- [2021-04-01-新加坡/上海-区块链交易所-bybit-招前端/后端/测试/DevOps](https://www.v2ex.com/t/767212) ![](assets/new.png)  
-- [2021-04-01-内推-滴滴北京前端团队大力招人。详情如下。](https://www.v2ex.com/t/767211) ![](assets/new.png)  
-- [2021-04-01-南京和郑州-理想中的职业发展和现实相对轻松的生活，大家会怎么选择呢](https://www.v2ex.com/t/767209) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -536,6 +536,26 @@
 </summary>
 
 
+- [2021-04-01-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
+- [2021-04-01-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) ![](assets/new.png)  
+- [2021-04-01-漫画-Go-语言中函数-new-与-make-的使用和区别](https://toutiao.io/k/jky5ja4) ![](assets/new.png)  
+- [2021-04-01-Java-基础：函数式编程概念和-API-应用](https://toutiao.io/k/dt8maz4) ![](assets/new.png)  
+- [2021-04-01-Tyk-API-Gateway-反向代理设计](https://toutiao.io/k/fzt2lff) ![](assets/new.png)  
+- [2021-04-01-户口？大厂？高薪？生活？聊聊应届程序员的职业选择](https://toutiao.io/k/iorrbp6) ![](assets/new.png)  
+- [2021-04-01-移动安全框架：MobSF](https://toutiao.io/k/o3u2wt9) ![](assets/new.png)  
+- [2021-04-01-Mybatis-源码入门](https://toutiao.io/k/wf4vhf3) ![](assets/new.png)  
+- [2021-04-01-开发对接过程中的教训](https://toutiao.io/k/71w69om) ![](assets/new.png)  
+- [2021-04-01-从安卓-WebView-更新说起](https://toutiao.io/k/61ppcxj) ![](assets/new.png)  
+- [2021-04-01-译-使用-PDB-避免-Kubernetes-集群中断](https://toutiao.io/k/vgm6pkz) ![](assets/new.png)  
+- [2021-04-01-译-数据科学家要知道的-3-条数学定律](https://toutiao.io/k/r5w1s4o) ![](assets/new.png)  
+- [2021-04-01-写给开发人员的实用密码学：数字签名](https://toutiao.io/k/kj06ppi) ![](assets/new.png)  
+- [2021-04-01-译-分布式系统在-Kubernetes-上的进化](https://toutiao.io/k/54gq9yp) ![](assets/new.png)  
+- [2021-04-01-在-Linux-中限制-Python-程序所能使用的最大内存](https://toutiao.io/k/ype1puf) ![](assets/new.png)  
+- [2021-04-01-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
+- [2021-04-01-工具-|-腾讯开源的一个专注于张量计算/深度学习的基础库](https://toutiao.io/k/xtx4q2b) ![](assets/new.png)  
+- [2021-04-01-Docker-实战：Web-服务器](https://toutiao.io/k/5xgjqr3) ![](assets/new.png)  
+- [2021-04-01-《驯龙高手》《大黄蜂》：这些动画人物和场景背后的小秘密](https://toutiao.io/k/3b9zx23) ![](assets/new.png)  
+- [2021-04-01-去年，一道蚂蚁金服笔试题，还行，中等难度](https://toutiao.io/k/e513a5p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

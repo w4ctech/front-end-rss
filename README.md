@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-01 23:18:51，:rocket: 更新条数: +668， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-01 23:42:44，:rocket: 更新条数: +662， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -916,6 +916,9 @@
 </summary>
 
 
+- [2021-04-01-m1-要选择-8G+512-还是-16+256G?](https://www.v2ex.com/t/767402) ![](assets/new.png)  
+- [2021-04-01-今年年底就-29-岁了，现在连女朋友都没有，非常焦虑。](https://www.v2ex.com/t/767401) ![](assets/new.png)  
+- [2021-04-01-无锡有什么好的企业鸭](https://www.v2ex.com/t/767400) ![](assets/new.png)  
 - [2021-04-01-买个什么玩意好呢，越老越无趣](https://www.v2ex.com/t/767399) ![](assets/new.png)  
 - [2021-04-01-求一个-4K-分辨率下的-Linux-截图软件推荐](https://www.v2ex.com/t/767397) ![](assets/new.png)  
 - [2021-04-01-MBP-安装-mac-系统监测工具-iStats-遇到的问题，并逐一解决](https://www.v2ex.com/t/767396) ![](assets/new.png)  
@@ -933,9 +936,6 @@
 - [2021-04-01-头部平台-Matrixport-招聘](https://www.v2ex.com/t/767379) ![](assets/new.png)  
 - [2021-04-01-我想知道，深圳地铁-1-号线里面，移动卡信号怎么样](https://www.v2ex.com/t/767378) ![](assets/new.png)  
 - [2021-04-01-HomeKit-是不是不支持灯泡色温调节](https://www.v2ex.com/t/767376) ![](assets/new.png)  
-- [2021-04-01-深圳诗云科技是的我又来了](https://www.v2ex.com/t/767373) ![](assets/new.png)  
-- [2021-04-01-互联网刚需已上车，广州买房免费答疑，希望帮到更多刚需](https://www.v2ex.com/t/767372) ![](assets/new.png)  
-- [2021-04-01-美区账号登录要我添加电话号码](https://www.v2ex.com/t/767371) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -978,26 +978,26 @@
 </summary>
 
 
-- [2021-04-01-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
-- [2021-04-01-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) ![](assets/new.png)  
-- [2021-04-01-漫画-Go-语言中函数-new-与-make-的使用和区别](https://toutiao.io/k/jky5ja4) ![](assets/new.png)  
-- [2021-04-01-Java-基础：函数式编程概念和-API-应用](https://toutiao.io/k/dt8maz4) ![](assets/new.png)  
-- [2021-04-01-Tyk-API-Gateway-反向代理设计](https://toutiao.io/k/fzt2lff) ![](assets/new.png)  
-- [2021-04-01-户口？大厂？高薪？生活？聊聊应届程序员的职业选择](https://toutiao.io/k/iorrbp6) ![](assets/new.png)  
-- [2021-04-01-移动安全框架：MobSF](https://toutiao.io/k/o3u2wt9) ![](assets/new.png)  
-- [2021-04-01-Mybatis-源码入门](https://toutiao.io/k/wf4vhf3) ![](assets/new.png)  
-- [2021-04-01-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-01-译-分布式系统在-Kubernetes-上的进化](https://toutiao.io/k/54gq9yp) ![](assets/new.png)  
-- [2021-04-01-开发对接过程中的教训](https://toutiao.io/k/71w69om) ![](assets/new.png)  
-- [2021-04-01-写给开发人员的实用密码学：数字签名](https://toutiao.io/k/kj06ppi) ![](assets/new.png)  
-- [2021-04-01-从安卓-WebView-更新说起](https://toutiao.io/k/61ppcxj) ![](assets/new.png)  
-- [2021-04-01-译-使用-PDB-避免-Kubernetes-集群中断](https://toutiao.io/k/vgm6pkz) ![](assets/new.png)  
-- [2021-04-01-译-数据科学家要知道的-3-条数学定律](https://toutiao.io/k/r5w1s4o) ![](assets/new.png)  
-- [2021-04-01-在-Linux-中限制-Python-程序所能使用的最大内存](https://toutiao.io/k/ype1puf) ![](assets/new.png)  
-- [2021-04-01-Docker-实战：Web-服务器](https://toutiao.io/k/5xgjqr3) ![](assets/new.png)  
-- [2021-04-01-工具-|-腾讯开源的一个专注于张量计算/深度学习的基础库](https://toutiao.io/k/xtx4q2b) ![](assets/new.png)  
-- [2021-04-01-去年，一道蚂蚁金服笔试题，还行，中等难度](https://toutiao.io/k/e513a5p) ![](assets/new.png)  
-- [2021-04-01-《驯龙高手》《大黄蜂》：这些动画人物和场景背后的小秘密](https://toutiao.io/k/3b9zx23) ![](assets/new.png)  
+- [2021-04-01-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
+- [2021-04-01-Java-中的集合-List（入门篇）](https://toutiao.io/k/de00pgg) ![](assets/new.png)  
+- [2021-04-01-译-Uber：面向领域的微服务架构](https://toutiao.io/k/0yy2iga) ![](assets/new.png)  
+- [2021-04-01-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
+- [2021-04-01-为您的应用配置-Play-Feature-Delivery](https://toutiao.io/k/zp6ph9o) ![](assets/new.png)  
+- [2021-04-01-JVM-进阶之路（七）：垃圾收集器盘点](https://toutiao.io/k/55l066q) ![](assets/new.png)  
+- [2021-04-01-你该如何为-Kubernetes-定制特性](https://toutiao.io/k/ea28kfh) ![](assets/new.png)  
+- [2021-04-01-译-WebStorm-访谈：我们是如何构建-JavaScript-IDE-的？](https://toutiao.io/k/am1mh5y) ![](assets/new.png)  
+- [2021-04-01-书单：互联网企业面试案头书之数据分析师篇](https://toutiao.io/k/vs0zegr) ![](assets/new.png)  
+- [2021-04-01-微服务时代组件化和服务化的抉择](https://toutiao.io/k/scyqk7j) ![](assets/new.png)  
+- [2021-04-01-iOS-中触摸事件的传递和响应分析](https://toutiao.io/k/rxeztzb) ![](assets/new.png)  
+- [2021-04-01-架构设计笔记（十二）：关键模式_读写分离](https://toutiao.io/k/pi52ruq) ![](assets/new.png)  
+- [2021-04-01-Clickhouse-平台无感搬迁-Zookeeper-实践](https://toutiao.io/k/7up61zr) ![](assets/new.png)  
+- [2021-04-01-推荐-加密技术的未来：从服务端密码存储到用户数据加密方案](https://toutiao.io/k/lq6l2fa) ![](assets/new.png)  
+- [2021-04-01-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-01-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
+- [2021-04-01-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
+- [2021-04-01-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
+- [2021-04-01-推荐-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) ![](assets/new.png)  
+- [2021-04-01-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

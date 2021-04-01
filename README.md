@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-01 20:38:21，:rocket: 更新条数: +171， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-01 20:50:34，:rocket: 更新条数: +171， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -24,7 +24,7 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
-- [前端圈](#前端圈)  
+- [前端圈](#前端圈)![](assets/dot.png)   
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)![](assets/dot.png)   
+- [物联网智库](#物联网智库)  
 
 ## 文章链接
 
@@ -164,6 +164,26 @@
 </summary>
 
 
+- [2020-06-17-视频蒋豪群聊聊Vue-3-周边项目](https://www.ershicimi.com/p/2a12d97dd7bb04af90078ddf2b9f196d) ![](assets/new.png)  
+- [2020-06-08-Vue3三连发，这期聊聊Vue-3周边项目](https://www.ershicimi.com/p/97695ac09543799ef0ccda9e2479572e) ![](assets/new.png)  
+- [2020-05-13-视频Winter-教你-MVVM](https://www.ershicimi.com/p/407d00f5a91b47a7f16018aaec12084f) ![](assets/new.png)  
+- [2020-05-09-约吗？-Winter-问你](https://www.ershicimi.com/p/56070921db6716af5615b24f68ab643b) ![](assets/new.png)  
+- [2020-04-27-视频Vue.js-3.0-什么时候可以投入生产使用](https://www.ershicimi.com/p/62da65e218585b265a4ddc89ca674b0b) ![](assets/new.png)  
+- [2020-04-20-尤雨溪约你聊聊Vue.js-3.0-Beta](https://www.ershicimi.com/p/6f88eda2cef2ca14858c173412919f36) ![](assets/new.png)  
+- [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) ![](assets/new.png)  
+- [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) ![](assets/new.png)  
+- [2019-10-13-视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5) ![](assets/new.png)  
+- [2019-10-13-更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d) ![](assets/new.png)  
+- [2019-10-12-视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b) ![](assets/new.png)  
+- [2019-10-11-视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b) ![](assets/new.png)  
+- [2019-10-10-视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a) ![](assets/new.png)  
+- [2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) ![](assets/new.png)  
+- [2019-10-08-视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed) ![](assets/new.png)  
+- [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) ![](assets/new.png)  
+- [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) ![](assets/new.png)  
+- [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) ![](assets/new.png)  
+- [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) ![](assets/new.png)  
+- [2019-06-21-视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端圈.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,26 +578,6 @@
 </summary>
 
 
-- [2021-03-30-雷军押上全部声誉：造车是人生最后一次重大创业！小米首款万元机都被抢戏了](https://www.ershicimi.com/p/6b70c16815e16e645be52fe342c05c5c) ![](assets/new.png)  
-- [2021-03-30-三天逛展，四场论坛，5G/工业互联网/物联网，你想知道的都在这里](https://www.ershicimi.com/p/6e907ce8246e2db945c8c08ed3bcb216) ![](assets/new.png)  
-- [2021-03-30-5G毫米波峰值速率，到底怎么算？](https://www.ershicimi.com/p/a323417554f24c55f48a750ee1bd830e) ![](assets/new.png)  
-- [2021-03-29-小米刚办了场“春晚”，发布一部安卓之光！一部安卓机皇！还有史上最强的小米手环6！](https://www.ershicimi.com/p/dc96da18f69598a391d5644966c2735c) ![](assets/new.png)  
-- [2021-03-29-彭瑜-|-IT与OT正在走向原生融合](https://www.ershicimi.com/p/caef581528276ef3cb8b5e9749407419) ![](assets/new.png)  
-- [2021-03-29-什么是紫领人才？中国制造业升级为何不能没有他们？](https://www.ershicimi.com/p/8a65260da07eaec75c99f03a85b95867) ![](assets/new.png)  
-- [2021-03-28-英特尔IDM2.0计划一箭三雕：迎合拜登政府政策，抢占全球缺芯市场，横夺台积电生意](https://www.ershicimi.com/p/1086e3743e11ffa7fcd41619f7d266e0) ![](assets/new.png)  
-- [2021-03-28-物联网投融资周报|百度昆仑芯片业务完成独立融资；FF再获近1亿美元债权融资；能链完成3亿美元融资；灵](https://www.ershicimi.com/p/4f3bada2f0160f3b0b146c481871f12e) ![](assets/new.png)  
-- [2021-03-28-三天逛展，四场论坛，5G/工业互联网/物联网，你想知道的都在这里](https://www.ershicimi.com/p/fc53f0ff90a93e7f0c7c62a0c7a84a17) ![](assets/new.png)  
-- [2021-03-27-匪夷所思！中国移动的物联网连接数竟下滑1100万，背后释放了什么信号？](https://www.ershicimi.com/p/6cc87156b9e2d2bbb5eefdd9abe7205c) ![](assets/new.png)  
-- [2021-03-27-物联网智库官网全新改版上线！独属于物联网人的每日必看](https://www.ershicimi.com/p/4b258bee4dea7bdfb77f3009a55faca4) ![](assets/new.png)  
-- [2021-03-26-群雄激战智能家居，设备厂商只能被“收割”？](https://www.ershicimi.com/p/b3af24522565ac6abe90780cfea69381) ![](assets/new.png)  
-- [2021-03-26-中国信通院：发挥5G-SA性能优势需端网协同](https://www.ershicimi.com/p/aad3e6c1c827f6284a4b9577648a8317) ![](assets/new.png)  
-- [2021-03-26-物联网智库官网全新改版！独属于物联网人的每日必看](https://www.ershicimi.com/p/0de0e17324543207f80ee3e7dfdfaa80) ![](assets/new.png)  
-- [2021-03-26-公共管网漏水量惊人，一年漏掉700个西湖的问题如何解决？](https://www.ershicimi.com/p/7b53843683a29fb053753a2d212416b9) ![](assets/new.png)  
-- [2021-03-25-停电1分钟即攸关性命，谁来给医院的后勤管理“问诊”？](https://www.ershicimi.com/p/45b432255ad3f455651bdea2249a2d89) ![](assets/new.png)  
-- [2021-03-25-英特尔新CEO上任三把火：搞定7nm-EUV、200亿美元建厂、改变代工模式](https://www.ershicimi.com/p/3beb136fdc174e0f41cf09e30e9e79a0) ![](assets/new.png)  
-- [2021-03-25-三天逛展，四场论坛，5G/工业互联网/物联网，你想知道的都在这里](https://www.ershicimi.com/p/bbda18e0aea05e5fe935e1e821e4453b) ![](assets/new.png)  
-- [2021-03-24-AI健身/3D试衣/AI烤肉……黑科技扎堆的AWE2021都有哪些硬货？](https://www.ershicimi.com/p/c90b58dd4517e2a842521a852c3830cf) ![](assets/new.png)  
-- [2021-03-24-声智团队诚意之作，新品豆豆耳机来袭，终于摆脱了耳机柄的束缚！](https://www.ershicimi.com/p/fa5cd42e8b0eb569be260da1210b3c7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

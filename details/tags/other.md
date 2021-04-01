@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-01 06:24:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-01 06:40:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3094,7 +3094,13 @@
 - [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) 
 - [2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) 
 - [2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html) 
-- [2021-04-01-理想中的职业发展和现实相对轻松的生活，大家会怎么选择呢](https://www.v2ex.com/t/767209) 
+- [2021-04-01-杭州/南京/青岛/广州大量招人，前端，移动端，后端，架构师，项目经理全都要](https://www.v2ex.com/t/767217) 
+- [2021-04-01-8BitDo-Pro-2](https://www.v2ex.com/t/767216) 
+- [2021-04-01-关于骁龙-888-的疑问？？](https://www.v2ex.com/t/767215) 
+- [2021-04-01-广东现在还有上行-100m-的宽带吗](https://www.v2ex.com/t/767214) 
+- [2021-04-01-新加坡/上海-区块链交易所-bybit-招前端/后端/测试/DevOps](https://www.v2ex.com/t/767212) 
+- [2021-04-01-内推-滴滴北京前端团队大力招人。详情如下。](https://www.v2ex.com/t/767211) 
+- [2021-04-01-南京和郑州-理想中的职业发展和现实相对轻松的生活，大家会怎么选择呢](https://www.v2ex.com/t/767209) 
 - [2021-04-01-库乐队的未读标记是什么？](https://www.v2ex.com/t/767207) 
 - [2021-04-01-后端大佬来讲讲-go-现在要必备吗？本人-Java-后端，要不要多少熟悉一个-go-的框架呢](https://www.v2ex.com/t/767203) 
 - [2021-04-01-社招-微软-azure-netwoking-北京上海-20+hc](https://www.v2ex.com/t/767201) 
@@ -3113,11 +3119,6 @@
 - [2021-04-01-MacOS-app-Hungrymark-Lite-macOS-下的收纳箱-免费发布了](https://www.v2ex.com/t/767174) 
 - [2021-04-01-日经-咨询下家庭组网方案](https://www.v2ex.com/t/767173) 
 - [2021-04-01-有没有好用的-sqoop-脚本生成工具?](https://www.v2ex.com/t/767168) 
-- [2021-04-01-有没有好看的-cmd？](https://www.v2ex.com/t/767167) 
-- [2021-04-01-有推荐的-pixel-手机壳吗？](https://www.v2ex.com/t/767166) 
-- [2021-04-01-求教-LG-显示器的编号规律](https://www.v2ex.com/t/767164) 
-- [2021-04-01-有试过在上海异地换驾驶证的朋友吗？请教下流程](https://www.v2ex.com/t/767162) 
-- [2021-04-01-愚人节不-high-起来吗，送大家一个恶搞工具](https://www.v2ex.com/t/767161) 
 - [2021-04-01-程序员手握-2.2-亿美元,就是想不起密码…](https://sec.thief.one/article_content?a_id=317d67dc42bbdc46a3dd213a88abb9ad) 
 - [2021-04-01-党史学习教育,习近平总书记向全党动员开课!](https://sec.thief.one/article_content?a_id=13d4daa205d7075623044e9a4e36a61b) 
 - [2021-03-31-安卓手机收集的用户数据量是IPhone的20倍](https://sec.thief.one/article_content?a_id=ea2ad9650a2f1aa85b9b89aab6704ef8) 

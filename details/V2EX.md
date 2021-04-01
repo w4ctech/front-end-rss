@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-01 17:23:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-01 17:35:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-01-Mac-系统修改-plist-文件禁止-Pulse-Secure-软件开机自启动，导致软件无法连接](https://www.v2ex.com/t/767391) 
 - [2021-04-01-HomeKit-节点似乎不在-Apple-节点下面？](https://www.v2ex.com/t/767390) 
 - [2021-04-01-根据一切递归可以转为循环，问个递归中嵌套循环的问题](https://www.v2ex.com/t/767389) 
 - [2021-04-01-如何在极少的数据下训练分类网络](https://www.v2ex.com/t/767388) 
@@ -44,4 +45,3 @@
 - [2021-04-01-实习-offer-求分析](https://www.v2ex.com/t/767345) 
 - [2021-04-01-MKBHD-上手新款-Mac-视频](https://www.v2ex.com/t/767343) 
 - [2021-04-01-分享-个人开发的一个小程序，欢迎大家体验](https://www.v2ex.com/t/767342) 
-- [2021-04-01-邮件-app-账户在-iOS-和-macOS-之间的同步问题](https://www.v2ex.com/t/767341) 

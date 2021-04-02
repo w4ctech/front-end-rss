@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-02 03:00:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-02 03:12:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -384,6 +384,7 @@
 - [【前端日刊】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8)
 - [【互联网架构师】Redis-性能优化思路，写的非常好！](https://www.ershicimi.com/p/b1e269b3d22fa92b191304c9fbb9b006)
 - [【开发者头条】Go-应用优化指北](https://toutiao.io/k/6jo6q1t)
+- [【开发者头条】2021-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦](https://toutiao.io/k/w7axyzy)
 - [【安全热点】底层I/O性能大PK:Python/Java被碾压,Rust有望取代C++](https://sec.thief.one/article_content?a_id=2268c6df0a82a23b5b5af0269079825c)
 - [【物联网智库】中国信通院：发挥5G-SA性能优势需端网协同](https://www.ershicimi.com/p/aad3e6c1c827f6284a4b9577648a8317)
 - [......【查看更多】......](./details/tags/optimization.md)

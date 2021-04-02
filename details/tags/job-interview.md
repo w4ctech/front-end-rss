@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-02 08:54:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-02 09:04:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -32,5 +32,5 @@
 - [2021-04-02-书单：互联网企业面试案头书之数据分析师篇](https://toutiao.io/k/vs0zegr) 
 - [2021-04-02-手撕-Go-面试官：Go-结构体是否可以比较，为什么？](https://toutiao.io/k/ng18jyd) 
 - [2021-04-02-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) 
-- [2021-04-02-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) 
 - [2021-04-02-推荐-面试官常问的垃圾回收器，这次全搞懂](https://toutiao.io/k/7aczn5o) 
+- [2021-04-02-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) 

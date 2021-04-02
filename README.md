@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-02 04:42:44，:rocket: 更新条数: +4096， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-02 04:56:17，:rocket: 更新条数: +4096， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -473,6 +473,7 @@
 </summary>
 
 
+- [2021-04-02-React-性能优化完全指南，将自己这几年的心血总结成这篇！](https://www.ershicimi.com/p/15176167b906ee43b2d498ab9c71fc4b) ![](assets/new.png)  
 - [2021-04-01-vue-cli-迁移-vite2-实践小结](https://www.ershicimi.com/p/bfbc93f0e2fe34d3d72931e40305d54b) ![](assets/new.png)  
 - [2021-03-31-「react进阶」一文吃透react-hooks原理](https://www.ershicimi.com/p/11f5390ed0a4667299184a7733e459c8) ![](assets/new.png)  
 - [2021-03-30-别装了-成年人，你说不累，谁信呀？](https://www.ershicimi.com/p/ba40fe045c0200ac4610b9d75d0f71b4) ![](assets/new.png)  
@@ -492,7 +493,6 @@
 - [2021-03-20-【包邮送书】JS犀牛书-中文版-第7版强势回归！](https://www.ershicimi.com/p/90d2806e418abd132645a38cd9d08006) ![](assets/new.png)  
 - [2021-03-20-【全栈前端】学习打卡养成计划](https://www.ershicimi.com/p/71e28a140bb9ed2dca7cedbfe62f95ac) ![](assets/new.png)  
 - [2021-03-19-三大前端构建工具横评，谁是性能之王！](https://www.ershicimi.com/p/65ed6871f3f1e7bdac695b94df1e4eea) ![](assets/new.png)  
-- [2021-03-18-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/a13833fe3eafd9fc31781000b033e812) ![](assets/new.png)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -989,16 +989,16 @@
 - [2021-04-02-程序员如何管理你的上级领导？](https://toutiao.io/k/oxjrbtj) ![](assets/new.png)  
 - [2021-04-02-如何用-Python-操作-Docker？](https://toutiao.io/k/h0br9z2) ![](assets/new.png)  
 - [2021-04-02-书单：互联网企业面试案头书之数据分析师篇](https://toutiao.io/k/vs0zegr) ![](assets/new.png)  
+- [2021-04-02-你要偷偷学会排查线上-CPU-飙高的问题，然后惊艳所有人](https://toutiao.io/k/0hxavz1) ![](assets/new.png)  
 - [2021-04-02-译-WebStorm-访谈：我们是如何构建-JavaScript-IDE-的？](https://toutiao.io/k/am1mh5y) ![](assets/new.png)  
 - [2021-04-02-为您的应用配置-Play-Feature-Delivery](https://toutiao.io/k/zp6ph9o) ![](assets/new.png)  
-- [2021-04-02-你要偷偷学会排查线上-CPU-飙高的问题，然后惊艳所有人](https://toutiao.io/k/0hxavz1) ![](assets/new.png)  
 - [2021-04-02-架构设计笔记（十二）：关键模式_读写分离](https://toutiao.io/k/pi52ruq) ![](assets/new.png)  
 - [2021-04-02-Clickhouse-平台无感搬迁-Zookeeper-实践](https://toutiao.io/k/7up61zr) ![](assets/new.png)  
 - [2021-04-02-iOS-中触摸事件的传递和响应分析](https://toutiao.io/k/rxeztzb) ![](assets/new.png)  
 - [2021-04-02-手撕-Go-面试官：Go-结构体是否可以比较，为什么？](https://toutiao.io/k/ng18jyd) ![](assets/new.png)  
 - [2021-04-02-2021-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦](https://toutiao.io/k/w7axyzy) ![](assets/new.png)  
-- [2021-04-02-推荐-加密技术的未来：从服务端密码存储到用户数据加密方案](https://toutiao.io/k/lq6l2fa) ![](assets/new.png)  
-- [2021-04-02-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
+- [2021-04-02-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-02-推荐-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

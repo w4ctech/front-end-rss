@@ -20080,18 +20080,13 @@
         "date": "2021-04-02"
       },
       {
+        "title": "[推荐] 书单：互联网企业面试案头书之架构师篇",
+        "link": "https://toutiao.io/k/mvtejua",
+        "date": "2021-04-02"
+      },
+      {
         "title": "[推荐] 架构实践全景图",
         "link": "https://toutiao.io/k/nu45i3g",
-        "date": "2021-04-02"
-      },
-      {
-        "title": "[推荐] Redis 分布式锁遇到的序列化问题",
-        "link": "https://toutiao.io/k/adg4qv6",
-        "date": "2021-04-02"
-      },
-      {
-        "title": "[推荐] 高并发下如何保证接口的幂等性？",
-        "link": "https://toutiao.io/k/f0361xm",
         "date": "2021-04-02"
       },
       {
@@ -20105,13 +20100,8 @@
         "date": "2021-04-02"
       },
       {
-        "title": "[推荐] 值得拥有的手绘风格画图工具",
-        "link": "https://toutiao.io/k/ukg83qx",
-        "date": "2021-04-02"
-      },
-      {
-        "title": "[推荐] 万字详解整个数据仓库建设体系",
-        "link": "https://toutiao.io/k/ny7vvdw",
+        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
+        "link": "https://toutiao.io/k/sso4l2l",
         "date": "2021-04-02"
       },
       {
@@ -20120,23 +20110,33 @@
         "date": "2021-04-02"
       },
       {
-        "title": "[推荐] 如何吃透一个 Java 项目？（附学习实践）",
-        "link": "https://toutiao.io/k/cifpaoe",
-        "date": "2021-04-02"
-      },
-      {
-        "title": "[推荐] 书单：互联网企业面试案头书之架构师篇",
-        "link": "https://toutiao.io/k/mvtejua",
-        "date": "2021-04-02"
-      },
-      {
-        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
-        "link": "https://toutiao.io/k/sso4l2l",
+        "title": "[推荐] 万字详解整个数据仓库建设体系",
+        "link": "https://toutiao.io/k/ny7vvdw",
         "date": "2021-04-02"
       },
       {
         "title": "[推荐] 这 30 个我精选的含答案的面试题，硬不硬你说吧",
         "link": "https://toutiao.io/k/v9aar7o",
+        "date": "2021-04-02"
+      },
+      {
+        "title": "[推荐] 值得拥有的手绘风格画图工具",
+        "link": "https://toutiao.io/k/ukg83qx",
+        "date": "2021-04-02"
+      },
+      {
+        "title": "[推荐] 高并发下如何保证接口的幂等性？",
+        "link": "https://toutiao.io/k/f0361xm",
+        "date": "2021-04-02"
+      },
+      {
+        "title": "[推荐] Redis 分布式锁遇到的序列化问题",
+        "link": "https://toutiao.io/k/adg4qv6",
+        "date": "2021-04-02"
+      },
+      {
+        "title": "[推荐] 如何吃透一个 Java 项目？（附学习实践）",
+        "link": "https://toutiao.io/k/cifpaoe",
         "date": "2021-04-02"
       }
     ]

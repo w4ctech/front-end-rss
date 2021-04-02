@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-02 03:54:39，:rocket: 更新条数: +629， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-02 04:06:27，:rocket: 更新条数: +4096， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-04-02-4月1日全国新增新冠9例-云南本土4例](https://m.caixin.com/m/2021-04-02/101684939.html) ![](assets/new.png)  
+- [2021-04-02-新冠疫情中期全球将削减3%经济产出-法国第三次全国隔离丨大流行手记（4月1日）](https://m.caixin.com/m/2021-04-02/101684951.html) ![](assets/new.png)  
+- [2021-04-01-云南瑞丽共现38例新冠感染-全员核酸检测已完成采样](https://m.caixin.com/m/2021-04-01/101684875.html) ![](assets/new.png)  
+- [2021-04-01-新冠疫苗接种排长队-深圳医生盼信息系统稳定运行](https://m.caixin.com/m/2021-04-01/101684865.html) ![](assets/new.png)  
+- [2021-04-01-云南瑞丽城区学校3月31日起全面停课](http://m.china.caixin.com/m/2021-04-01/101684511.html) ![](assets/new.png)  
+- [2021-04-01-最新海外疫情：新冠感染近1.29亿-累计死亡超281万](https://m.caixin.com/m/2021-04-01/101684753.html) ![](assets/new.png)  
+- [2021-04-01-3月31日云南新增新冠确诊6例-无症状感染者23例](https://m.caixin.com/m/2021-04-01/101684251.html) ![](assets/new.png)  
+- [2021-04-01-【境内疫情观察】云南省瑞丽市开展市区全员核酸检测（3月31日）](http://m.database.caixin.com/m/2021-04-01/101684547.html) ![](assets/new.png)  
+- [2021-04-01-辉瑞称疫苗对青少年100%有效-俄注册世界首个兽用新冠疫苗丨大流行手记（3月31日）](https://m.caixin.com/m/2021-04-01/101684275.html) ![](assets/new.png)  
+- [2021-03-31-云南通报新增6例新冠确诊病例详情-瑞丽市区居民居家隔离一周](https://m.caixin.com/m/2021-03-31/101682799.html) ![](assets/new.png)  
+- [2021-03-31-【境内疫情观察】云南省瑞丽市新增6例本土病例（3月30日）](http://m.database.caixin.com/m/2021-03-31/101683093.html) ![](assets/new.png)  
+- [2021-03-31-中国-世卫新冠溯源报告发布-德国设限阿斯利康疫苗接种年龄丨大流行手记（3月30日）](https://m.caixin.com/m/2021-03-31/101682804.html) ![](assets/new.png)  
+- [2021-03-30-【境内疫情观察】全国新增8例境外输入病例（3月29日）](http://m.database.caixin.com/m/2021-03-30/101682499.html) ![](assets/new.png)  
+- [2021-03-30-英逐步解封允许六人出席婚礼-法国感染人数升至全球第四|大流行手记（3月29日）](https://m.caixin.com/m/2021-03-30/101682248.html) ![](assets/new.png)  
+- [2021-03-29-香港第四波疫情接近清零-港府放松部分社交管制措施](https://m.caixin.com/m/2021-03-29/101682179.html) ![](assets/new.png)  
+- [2021-03-29-【境内疫情观察】全国新增15例境外输入病例（3月28日）](http://m.database.caixin.com/m/2021-03-29/101681882.html) ![](assets/new.png)  
+- [2021-03-29-国药已设计新冠疫苗加强针-英过半成年人接种一剂疫苗|大流行手记（3月28日）](https://m.caixin.com/m/2021-03-29/101681667.html) ![](assets/new.png)  
+- [2021-03-28-【境内疫情观察】全国新增8例境外输入病例（3月27日）](http://m.database.caixin.com/m/2021-03-28/101681603.html) ![](assets/new.png)  
+- [2021-03-28-多家药企试验儿童新冠疫苗-普吉岛将放行疫苗接种者|大流行手记（3月27日）](https://m.caixin.com/m/2021-03-28/101681556.html) ![](assets/new.png)  
+- [2021-03-27-最新财新周刊|新冠病毒“变形记”](http://m.weekly.caixin.com/m/2021-03-27/101681337.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -961,24 +981,24 @@
 
 - [2021-04-02-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
 - [2021-04-02-Java-中的集合-List（入门篇）](https://toutiao.io/k/de00pgg) ![](assets/new.png)  
-- [2021-04-02-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
 - [2021-04-02-译-Uber：面向领域的微服务架构](https://toutiao.io/k/0yy2iga) ![](assets/new.png)  
+- [2021-04-02-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
 - [2021-04-02-你该如何为-Kubernetes-定制特性](https://toutiao.io/k/ea28kfh) ![](assets/new.png)  
 - [2021-04-02-JVM-进阶之路（七）：垃圾收集器盘点](https://toutiao.io/k/55l066q) ![](assets/new.png)  
 - [2021-04-02-微服务时代组件化和服务化的抉择](https://toutiao.io/k/scyqk7j) ![](assets/new.png)  
 - [2021-04-02-程序员如何管理你的上级领导？](https://toutiao.io/k/oxjrbtj) ![](assets/new.png)  
 - [2021-04-02-书单：互联网企业面试案头书之数据分析师篇](https://toutiao.io/k/vs0zegr) ![](assets/new.png)  
+- [2021-04-02-如何用-Python-操作-Docker？](https://toutiao.io/k/h0br9z2) ![](assets/new.png)  
 - [2021-04-02-译-WebStorm-访谈：我们是如何构建-JavaScript-IDE-的？](https://toutiao.io/k/am1mh5y) ![](assets/new.png)  
 - [2021-04-02-为您的应用配置-Play-Feature-Delivery](https://toutiao.io/k/zp6ph9o) ![](assets/new.png)  
-- [2021-04-02-如何用-Python-操作-Docker？](https://toutiao.io/k/h0br9z2) ![](assets/new.png)  
 - [2021-04-02-你要偷偷学会排查线上-CPU-飙高的问题，然后惊艳所有人](https://toutiao.io/k/0hxavz1) ![](assets/new.png)  
 - [2021-04-02-架构设计笔记（十二）：关键模式_读写分离](https://toutiao.io/k/pi52ruq) ![](assets/new.png)  
 - [2021-04-02-Clickhouse-平台无感搬迁-Zookeeper-实践](https://toutiao.io/k/7up61zr) ![](assets/new.png)  
 - [2021-04-02-iOS-中触摸事件的传递和响应分析](https://toutiao.io/k/rxeztzb) ![](assets/new.png)  
 - [2021-04-02-手撕-Go-面试官：Go-结构体是否可以比较，为什么？](https://toutiao.io/k/ng18jyd) ![](assets/new.png)  
 - [2021-04-02-2021-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦](https://toutiao.io/k/w7axyzy) ![](assets/new.png)  
-- [2021-04-02-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
-- [2021-04-02-推荐-面试官常问的垃圾回收器，这次全搞懂](https://toutiao.io/k/7aczn5o) ![](assets/new.png)  
+- [2021-04-02-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
+- [2021-04-02-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

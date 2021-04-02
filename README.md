@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-02 07:06:16，:rocket: 更新条数: +4100， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-02 07:23:55，:rocket: 更新条数: +4100， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -780,6 +780,11 @@
 </summary>
 
 
+- [2021-04-02-创业项目黄了，我靠着被废弃的副业项目，年收入45亿，将公司做到了200多亿市值](https://www.ershicimi.com/p/af28a3f65d4ee0603202769871aa3c58) ![](assets/new.png)  
+- [2021-04-02-从上云到业务创新，阿里云提供了哪些数字化的最短路径？](https://www.ershicimi.com/p/fd7cb1d4a84f47dc4857236e647db8bb) ![](assets/new.png)  
+- [2021-04-02-跨端这道难题，你真的会做吗？](https://www.ershicimi.com/p/5ea14f8656aa77f7484070f03b3c3f87) ![](assets/new.png)  
+- [2021-04-02-TiDB-HTAP-的架构演进及实践](https://www.ershicimi.com/p/0af0e03a78231dca3b0a5c631a1839d4) ![](assets/new.png)  
+- [2021-04-02-BFF模式：微服务前端数据加载的最佳实践？](https://www.ershicimi.com/p/33e97c541667b3fad965b236896cce86) ![](assets/new.png)  
 - [2021-04-01-“通才架构师”的消亡：从无到有，再到上百万个框架](https://www.ershicimi.com/p/576b01b86b25bae5472b590d79c4bc3b) ![](assets/new.png)  
 - [2021-04-01-InfoQ出品：金融业数字化转型研究报告-|-免费下载](https://www.ershicimi.com/p/bf1b8aadeefbe2d271390c88a54d6a76) ![](assets/new.png)  
 - [2021-04-01-Netflix-CEO-写的《不拘一格》火了，技术管理到底有啥价值｜GTLC](https://www.ershicimi.com/p/88a4dc2aa0f80ec52a2bd0ff0870762d) ![](assets/new.png)  
@@ -795,11 +800,6 @@
 - [2021-03-30-一年追回超200亿，-打击医保欺诈骗保行为，有了AI新“武器”](https://www.ershicimi.com/p/daa0a80e72befaf3e665111afcd8a1e2) ![](assets/new.png)  
 - [2021-03-30-代码重构新手教程：如何将烂代码变成好代码？](https://www.ershicimi.com/p/2957c87cd4aef6a1dd40b5bcd3b65182) ![](assets/new.png)  
 - [2021-03-30-DevOps-和SRE-的十大开源项目](https://www.ershicimi.com/p/05311b67b5eb7663075b9bd55139e626) ![](assets/new.png)  
-- [2021-03-29-B站二次上市，研发再投48亿港元，“码农”CEO陈睿身家超400亿](https://www.ershicimi.com/p/e04413560d373332620c8364b00b290c) ![](assets/new.png)  
-- [2021-03-29-如何正确选择上云最佳路径并最大化安全能力？](https://www.ershicimi.com/p/e80324f5fb5b4f5a345a4b252caabaca) ![](assets/new.png)  
-- [2021-03-29-何以稳居中国公有云市场第二？华为云新掀起的这波技术浪涌值得关注](https://www.ershicimi.com/p/b6a93546c263bf45e579a9aaf94b7a2e) ![](assets/new.png)  
-- [2021-03-29-怎样写出可读性高的代码？](https://www.ershicimi.com/p/9528f96d5db45d006dbb1bb752ccb02e) ![](assets/new.png)  
-- [2021-03-29-数百次采访后，我总结了-2021-年最好用的区块链开发框架](https://www.ershicimi.com/p/0b82ddf11df708c77cf01080653def3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

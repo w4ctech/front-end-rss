@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-02 07:06:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-02 07:23:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -303,7 +303,6 @@
 - [【奇舞周刊】奇舞周刊第-390-期:仅使用-CSS-提高页面渲染速度](https://www.ershicimi.com/p/db30b5d3af95d755b824d03ea832f560)
 - [【奇舞周刊】有意思！奇妙的-CSS-shapesCSS图形](https://www.ershicimi.com/p/5c0b973327976e2292be4918e05f9026)
 - [【前端e进阶】对-Chrome-Headless-渲染的极致优化](https://www.ershicimi.com/p/750cc36a62dc2f4be88144714fde4887)
-- [【InfoQ】何以稳居中国公有云市场第二？华为云新掀起的这波技术浪涌值得关注](https://www.ershicimi.com/p/b6a93546c263bf45e579a9aaf94b7a2e)
 - [【开发者头条】CSS-灵感：一大堆优质-CSS-Demo](https://toutiao.io/k/sdvf5ne)
 - [......【查看更多】......](./details/tags/css.md)
 
@@ -384,6 +383,7 @@
 - [【前端宇宙】8000字总结的前端性能优化](https://www.ershicimi.com/p/88c7daabed0083d1e6429537552ae971)
 - [【前端日刊】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8)
 - [【互联网架构师】Redis-性能优化思路，写的非常好！](https://www.ershicimi.com/p/b1e269b3d22fa92b191304c9fbb9b006)
+- [【InfoQ】BFF模式：微服务前端数据加载的最佳实践？](https://www.ershicimi.com/p/33e97c541667b3fad965b236896cce86)
 - [【开发者头条】Go-应用优化指北](https://toutiao.io/k/6jo6q1t)
 - [【开发者头条】2021-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦](https://toutiao.io/k/w7axyzy)
 - [【安全热点】底层I/O性能大PK:Python/Java被碾压,Rust有望取代C++](https://sec.thief.one/article_content?a_id=2268c6df0a82a23b5b5af0269079825c)

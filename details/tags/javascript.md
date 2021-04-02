@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-02 13:11:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-02 13:24:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -36,7 +36,6 @@
 - [2021-03-27-面试官：JavaScript中执行上下文和执行栈是什么？](https://www.ershicimi.com/p/7a9b2741df8df958fa72610838f296ae) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
-- [2021-03-22-【第2233期】Javascript权威指南：迭代器和生成器](https://www.ershicimi.com/p/595720f87218226f8d6aa8e76220391f) 
 - [2021-03-28-字节跳动面试官：请用JS实现Ajax并发请求控制](https://www.ershicimi.com/p/bc9d527e7e3582c83ed5862fdf4c4a47) 
 - [2021-04-02-前端如何修改组件库源码来封装符合自己需求的组件？](https://www.ershicimi.com/p/2d58f93962f8627aa4d29c64dd906702) 
 - [2021-03-30-这些一行-JS-实现功能的代码，让你看起来像一个前端专家](https://www.ershicimi.com/p/d0555cddc90d2615ab98d1add2cd03d4) 

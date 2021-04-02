@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-02 02:14:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-02 02:34:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2021-04-02-4月1日全国新增新冠9例-云南本土4例](https://m.caixin.com/m/2021-04-02/101684939.html) 
+- [2021-04-02-新冠疫情中期全球将削减3%经济产出-法国第三次全国隔离丨大流行手记（4月1日）](https://m.caixin.com/m/2021-04-02/101684951.html) 
 - [2021-04-01-云南瑞丽共现38例新冠感染-全员核酸检测已完成采样](https://m.caixin.com/m/2021-04-01/101684875.html) 
 - [2021-04-01-新冠疫苗接种排长队-深圳医生盼信息系统稳定运行](https://m.caixin.com/m/2021-04-01/101684865.html) 
 - [2021-04-01-云南瑞丽城区学校3月31日起全面停课](http://m.china.caixin.com/m/2021-04-01/101684511.html) 
@@ -3093,6 +3094,9 @@
 - [2020-01-20-【图集】武汉每天76趟列车抵广州南-旅客少有戴口罩未见体温检测](http://m.photos.caixin.com/m/2020-01-20/101506484.html) 
 - [2020-01-16-日本公布一新型冠状病毒感染病例-患者去过武汉](http://m.china.caixin.com/m/2020-01-16/101506054.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://m.china.caixin.com/m/2020-01-11/101506220.html) 
+- [2021-04-02-云南｜新增-4-例确诊，4-例无症状](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU161732885300831793) 
+- [2021-04-01-上海｜新增确诊病例-2-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLcHQCpJMuCOnxtTtTaf4210402&isfromapp=1) 
+- [2021-04-01-云南｜瑞丽-5-地调整为中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinXExm5ARgVlieG11EuPr210401&isfromapp=1) 
 - [2021-04-01-三流员工卖命，二流员工卖时间，一流员工.....](https://www.ershicimi.com/p/ea03866519aad71bf063c463e8ec67b5) 
 - [2021-03-30-工资8000以下的人注意了！接下来要准备面对残酷现实了……](https://www.ershicimi.com/p/5b41713f8c640d8d42e39e7e113992a6) 
 - [2021-03-29-互联网校招黑话大全](https://www.ershicimi.com/p/f7b7e9264bf3a96b6cf69fea200305a9) 
@@ -3321,17 +3325,17 @@
 - [2021-04-02-程序员如何管理你的上级领导？](https://toutiao.io/k/oxjrbtj) 
 - [2021-04-02-Clickhouse-平台无感搬迁-Zookeeper-实践](https://toutiao.io/k/7up61zr) 
 - [2021-04-02-架构设计笔记（十二）：关键模式_读写分离](https://toutiao.io/k/pi52ruq) 
-- [2021-04-02-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) 
+- [2021-04-02-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) 
 - [2021-04-02-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) 
-- [2021-04-02-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) 
-- [2021-04-02-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) 
-- [2021-04-02-推荐-加密技术的未来：从服务端密码存储到用户数据加密方案](https://toutiao.io/k/lq6l2fa) 
-- [2021-04-02-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) 
-- [2021-04-02-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) 
 - [2021-04-02-推荐-权限体系设计：网易有数-BI-功能品鉴](https://toutiao.io/k/nvr0l12) 
 - [2021-04-02-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) 
+- [2021-04-02-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) 
+- [2021-04-02-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) 
 - [2021-04-02-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) 
-- [2021-04-02-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) 
+- [2021-04-02-推荐-加密技术的未来：从服务端密码存储到用户数据加密方案](https://toutiao.io/k/lq6l2fa) 
+- [2021-04-02-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) 
+- [2021-04-02-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) 
+- [2021-04-02-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) 
 - [2021-04-01-网安杂谈收藏夹2021.4.2](https://sec.thief.one/article_content?a_id=105713ab17397cb5c155d96a422b5d31) 
 - [2021-04-01-不愚人~雷神众测送礼物啦!](https://sec.thief.one/article_content?a_id=054ccd752d854a7072723109c1c8ca24) 
 - [2021-04-01-每日攻防资讯简报Apr.1th](https://sec.thief.one/article_content?a_id=77b7be16c40ca0f033ab0cf262f9eb45) 

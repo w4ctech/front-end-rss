@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-02 02:14:51，:rocket: 更新条数: +4089， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-02 02:34:14，:rocket: 更新条数: +4093， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -66,6 +66,7 @@
 
 
 - [2021-04-02-4月1日全国新增新冠9例-云南本土4例](https://m.caixin.com/m/2021-04-02/101684939.html) ![](assets/new.png)  
+- [2021-04-02-新冠疫情中期全球将削减3%经济产出-法国第三次全国隔离丨大流行手记（4月1日）](https://m.caixin.com/m/2021-04-02/101684951.html) ![](assets/new.png)  
 - [2021-04-01-云南瑞丽共现38例新冠感染-全员核酸检测已完成采样](https://m.caixin.com/m/2021-04-01/101684875.html) ![](assets/new.png)  
 - [2021-04-01-新冠疫苗接种排长队-深圳医生盼信息系统稳定运行](https://m.caixin.com/m/2021-04-01/101684865.html) ![](assets/new.png)  
 - [2021-04-01-云南瑞丽城区学校3月31日起全面停课](http://m.china.caixin.com/m/2021-04-01/101684511.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-03-28-【境内疫情观察】全国新增8例境外输入病例（3月27日）](http://m.database.caixin.com/m/2021-03-28/101681603.html) ![](assets/new.png)  
 - [2021-03-28-多家药企试验儿童新冠疫苗-普吉岛将放行疫苗接种者|大流行手记（3月27日）](https://m.caixin.com/m/2021-03-28/101681556.html) ![](assets/new.png)  
 - [2021-03-27-最新财新周刊|新冠病毒“变形记”](http://m.weekly.caixin.com/m/2021-03-27/101681337.html) ![](assets/new.png)  
-- [2021-03-27-【境内疫情观察】江西本土无症状感染者转为确诊病例（3月26日）](http://m.database.caixin.com/m/2021-03-27/101681444.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -96,6 +96,9 @@
 </summary>
 
 
+- [2021-04-02-云南｜新增-4-例确诊，4-例无症状](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU161732885300831793) ![](assets/new.png)  
+- [2021-04-01-上海｜新增确诊病例-2-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLcHQCpJMuCOnxtTtTaf4210402&isfromapp=1) ![](assets/new.png)  
+- [2021-04-01-云南｜瑞丽-5-地调整为中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinXExm5ARgVlieG11EuPr210401&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -991,11 +994,11 @@
 - [2021-04-02-Clickhouse-平台无感搬迁-Zookeeper-实践](https://toutiao.io/k/7up61zr) ![](assets/new.png)  
 - [2021-04-02-架构设计笔记（十二）：关键模式_读写分离](https://toutiao.io/k/pi52ruq) ![](assets/new.png)  
 - [2021-04-02-iOS-中触摸事件的传递和响应分析](https://toutiao.io/k/rxeztzb) ![](assets/new.png)  
-- [2021-04-02-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
+- [2021-04-02-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
 - [2021-04-02-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
-- [2021-04-02-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
-- [2021-04-02-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
-- [2021-04-02-推荐-加密技术的未来：从服务端密码存储到用户数据加密方案](https://toutiao.io/k/lq6l2fa) ![](assets/new.png)  
+- [2021-04-02-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
+- [2021-04-02-推荐-权限体系设计：网易有数-BI-功能品鉴](https://toutiao.io/k/nvr0l12) ![](assets/new.png)  
+- [2021-04-02-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-02 03:12:10，:rocket: 更新条数: +4096， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-02 03:27:40，:rocket: 更新条数: +4096， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -987,18 +987,18 @@
 - [2021-04-02-JVM-进阶之路（七）：垃圾收集器盘点](https://toutiao.io/k/55l066q) ![](assets/new.png)  
 - [2021-04-02-微服务时代组件化和服务化的抉择](https://toutiao.io/k/scyqk7j) ![](assets/new.png)  
 - [2021-04-02-书单：互联网企业面试案头书之数据分析师篇](https://toutiao.io/k/vs0zegr) ![](assets/new.png)  
+- [2021-04-02-程序员如何管理你的上级领导？](https://toutiao.io/k/oxjrbtj) ![](assets/new.png)  
 - [2021-04-02-译-WebStorm-访谈：我们是如何构建-JavaScript-IDE-的？](https://toutiao.io/k/am1mh5y) ![](assets/new.png)  
 - [2021-04-02-为您的应用配置-Play-Feature-Delivery](https://toutiao.io/k/zp6ph9o) ![](assets/new.png)  
-- [2021-04-02-程序员如何管理你的上级领导？](https://toutiao.io/k/oxjrbtj) ![](assets/new.png)  
 - [2021-04-02-如何用-Python-操作-Docker？](https://toutiao.io/k/h0br9z2) ![](assets/new.png)  
 - [2021-04-02-架构设计笔记（十二）：关键模式_读写分离](https://toutiao.io/k/pi52ruq) ![](assets/new.png)  
 - [2021-04-02-Clickhouse-平台无感搬迁-Zookeeper-实践](https://toutiao.io/k/7up61zr) ![](assets/new.png)  
-- [2021-04-02-iOS-中触摸事件的传递和响应分析](https://toutiao.io/k/rxeztzb) ![](assets/new.png)  
 - [2021-04-02-你要偷偷学会排查线上-CPU-飙高的问题，然后惊艳所有人](https://toutiao.io/k/0hxavz1) ![](assets/new.png)  
-- [2021-04-02-2021-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦](https://toutiao.io/k/w7axyzy) ![](assets/new.png)  
+- [2021-04-02-iOS-中触摸事件的传递和响应分析](https://toutiao.io/k/rxeztzb) ![](assets/new.png)  
 - [2021-04-02-手撕-Go-面试官：Go-结构体是否可以比较，为什么？](https://toutiao.io/k/ng18jyd) ![](assets/new.png)  
-- [2021-04-02-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
-- [2021-04-02-推荐-加密技术的未来：从服务端密码存储到用户数据加密方案](https://toutiao.io/k/lq6l2fa) ![](assets/new.png)  
+- [2021-04-02-2021-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦](https://toutiao.io/k/w7axyzy) ![](assets/new.png)  
+- [2021-04-02-推荐-万字长文：彻底搞懂容器镜像构建](https://toutiao.io/k/le19zdx) ![](assets/new.png)  
+- [2021-04-02-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

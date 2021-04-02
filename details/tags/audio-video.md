@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-02 01:29:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-02 01:46:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -85,6 +85,7 @@
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2021-04-02-想培养一个业余爱好-为自己的生活添加点光彩-各位有什么好推荐的-比如拍摄视频-或者-运动方面的-或者其他的](https://www.v2ex.com/t/767427) 
 - [2021-03-31-【视频】|-工控安全:电力监控系统网络安全解决方案](https://sec.thief.one/article_content?a_id=ad9f551ceb0a2be23c058f1f80ba9697) 
 - [2021-03-30-【视频】|-Python:try与else和try与finall](https://sec.thief.one/article_content?a_id=5e5c61ede5fecea804fbba2876afbe80) 
 - [2021-03-30-微视频-|-为人民服务](https://sec.thief.one/article_content?a_id=c83a70edef1c5660972deebbc51494b5) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-02 04:27:28，:rocket: 更新条数: +4096， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-02 04:42:44，:rocket: 更新条数: +4096， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -997,8 +997,8 @@
 - [2021-04-02-iOS-中触摸事件的传递和响应分析](https://toutiao.io/k/rxeztzb) ![](assets/new.png)  
 - [2021-04-02-手撕-Go-面试官：Go-结构体是否可以比较，为什么？](https://toutiao.io/k/ng18jyd) ![](assets/new.png)  
 - [2021-04-02-2021-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦](https://toutiao.io/k/w7axyzy) ![](assets/new.png)  
-- [2021-04-02-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
-- [2021-04-02-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
+- [2021-04-02-推荐-加密技术的未来：从服务端密码存储到用户数据加密方案](https://toutiao.io/k/lq6l2fa) ![](assets/new.png)  
+- [2021-04-02-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

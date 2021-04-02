@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-02 11:02:56，:rocket: 更新条数: +4099， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-02 11:23:37，:rocket: 更新条数: +4099， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,7 +96,7 @@
 </summary>
 
 
-- [2021-04-02-云南｜新增-4-例确诊，4-例无症状](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU161732885300831793) ![](assets/new.png)  
+- [2021-04-02-云南｜新增-4-例确诊-4-例无症状](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU161732885300831793) ![](assets/new.png)  
 - [2021-04-01-上海｜新增确诊病例-2-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLcHQCpJMuCOnxtTtTaf4210402&isfromapp=1) ![](assets/new.png)  
 - [2021-04-01-云南｜瑞丽-5-地调整为中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinXExm5ARgVlieG11EuPr210401&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-03 12:03:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 12:25:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -460,6 +460,7 @@
 
 
 - [【前端大全】万字总结，体系化带你全面认识-Nginx-！](https://www.ershicimi.com/p/64bd089ff72e7d0383f28b50c41634ae)
+- [【互联网架构师】Nginx-除了负载均衡，还能做什么？](https://www.ershicimi.com/p/ab3b54ce794a5b27ab0cb54e6307c02f)
 - [【InfoQ】绕过-Docker-，大规模杀死容器](https://www.ershicimi.com/p/eb6080746bd663e8ad8dc8f53403ab13)
 - [【InfoQ】GraphQL最突出的架构优势是什么？](https://www.ershicimi.com/p/5329bcc9a5987ff734a13b0af237d7eb)
 - [【V2EX】Nginx-可以对-Redis-集群做负载均衡吗？](https://www.v2ex.com/t/767825)

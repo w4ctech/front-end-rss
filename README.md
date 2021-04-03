@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-03 12:03:31，:rocket: 更新条数: +4122， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-03 12:25:08，:rocket: 更新条数: +4122， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -748,6 +748,9 @@
 </summary>
 
 
+- [2021-04-03-雷布斯被骗200w？？一行代码值两百万？雷军公开小米新logo翻车了？](https://www.ershicimi.com/p/944ea626ee084019be37ed2a704f7ca8) ![](assets/new.png)  
+- [2021-04-03-刷屏了！张一鸣6000字内部演讲：不依赖捷径，不轻言All-in（附全文）](https://www.ershicimi.com/p/922d0d70edf075485899768f9752de44) ![](assets/new.png)  
+- [2021-04-03-Nginx-除了负载均衡，还能做什么？](https://www.ershicimi.com/p/ab3b54ce794a5b27ab0cb54e6307c02f) ![](assets/new.png)  
 - [2021-04-02-一个支付案例，学会策略模式！](https://www.ershicimi.com/p/de2f71eb60cfa902e8a6b073457d9624) ![](assets/new.png)  
 - [2021-04-02-面试官问：前后端分离项目，有什么优缺点？我说：没](https://www.ershicimi.com/p/6771b9391a83b562ab70beb296e2575a) ![](assets/new.png)  
 - [2021-04-02-两年经验，尽然斩获多家巨头offer，如：蚂蚁、头条、PingCAP~](https://www.ershicimi.com/p/0330f134b9f4e9ac8d4bf45dbd51c756) ![](assets/new.png)  
@@ -765,9 +768,6 @@
 - [2021-03-29-最新！2020中国高校毕业生薪资排行出炉！好过双一流的高校原来这么多](https://www.ershicimi.com/p/f6c9e8264c7fdaa23e245bf2edfaac89) ![](assets/new.png)  
 - [2021-03-28-孙正义再造“阿里巴巴”](https://www.ershicimi.com/p/2cf42233712c0bbd917d653f6317ae96) ![](assets/new.png)  
 - [2021-03-28-MySQL与Redis缓存的同步方案](https://www.ershicimi.com/p/3d59f463895db678220419fb9054d6cf) ![](assets/new.png)  
-- [2021-03-28-大一新生开发的小工具火了，网友：我好菜](https://www.ershicimi.com/p/4bbc9387b6ec56fbdcd131a9a12ed374) ![](assets/new.png)  
-- [2021-03-27-网传京东37岁程序员在工位猝死。当事人：我还没死，还能加班！](https://www.ershicimi.com/p/73512e29f4dee1614e35e0105f8f7999) ![](assets/new.png)  
-- [2021-03-27-新同事不讲“码”德，这SQL写得太野了，请耗子尾汁～](https://www.ershicimi.com/p/e6af11f194581325a669b47b41c55e43) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -936,6 +936,7 @@
 </summary>
 
 
+- [2021-04-03-感觉现在的验证码纯粹就是在防人类...对机器是否有效个人表示怀疑](https://www.v2ex.com/t/767833) ![](assets/new.png)  
 - [2021-04-03-自动创建、保存和管理-Chrome-标签分组Tab-Groups功能的扩展程序](https://www.v2ex.com/t/767832) ![](assets/new.png)  
 - [2021-04-03-关于-cpp-成员初始化列表，冒号后的-var（）和-var{}的区别到底是什么呢？](https://www.v2ex.com/t/767831) ![](assets/new.png)  
 - [2021-04-03-关于-Flutter-适配刘海屏的问题](https://www.v2ex.com/t/767830) ![](assets/new.png)  
@@ -955,7 +956,6 @@
 - [2021-04-03-大家有啥有趣的网络会议的虚拟背景么？](https://www.v2ex.com/t/767811) ![](assets/new.png)  
 - [2021-04-03-imgur-账户无法删除？](https://www.v2ex.com/t/767808) ![](assets/new.png)  
 - [2021-04-03-现在爬虫对付脚本构造的网页还有什么方法，除了-selenium](https://www.v2ex.com/t/767807) ![](assets/new.png)  
-- [2021-04-03-Chrome-保存密码安全吗？如何管理密码？](https://www.v2ex.com/t/767805) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1004,20 +1004,20 @@
 - [2021-04-03-搞懂-ThreadLocal](https://toutiao.io/k/1ufc5cn) ![](assets/new.png)  
 - [2021-04-03-使用火焰图定位-OLAP-引擎瓶颈](https://toutiao.io/k/v0y3otx) ![](assets/new.png)  
 - [2021-04-03-如何购买一本书？](https://toutiao.io/k/jtz7p3i) ![](assets/new.png)  
-- [2021-04-03-Dokka-设置包描述，让你的-Kotlin-库文档更详实](https://toutiao.io/k/eihymr1) ![](assets/new.png)  
 - [2021-04-03-译-何时使用-Rust？何时使用-Go？](https://toutiao.io/k/tt8a7m6) ![](assets/new.png)  
+- [2021-04-03-Dokka-设置包描述，让你的-Kotlin-库文档更详实](https://toutiao.io/k/eihymr1) ![](assets/new.png)  
 - [2021-04-03-Kubernetes-Deployment-滚动更新原理解析](https://toutiao.io/k/pqyobsu) ![](assets/new.png)  
 - [2021-04-03-对话-Tetrate.io-创始工程师吴晟：开源领域需要-40+-的开发者，也需要更张扬的年轻人](https://toutiao.io/k/5eks2bi) ![](assets/new.png)  
-- [2021-04-03-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-03-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
 - [2021-04-03-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
+- [2021-04-03-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
 - [2021-04-03-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
+- [2021-04-03-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-03-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
+- [2021-04-03-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
+- [2021-04-03-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
 - [2021-04-03-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
 - [2021-04-03-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
-- [2021-04-03-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
-- [2021-04-03-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
-- [2021-04-03-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
-- [2021-04-03-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
-- [2021-04-03-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

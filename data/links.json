@@ -19324,6 +19324,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "雷布斯被骗200w？？一行代码值两百万？雷军公开小米新logo翻车了？",
+        "link": "https://www.ershicimi.com/p/944ea626ee084019be37ed2a704f7ca8",
+        "date": "2021-04-03"
+      },
+      {
+        "title": "刷屏了！张一鸣6000字内部演讲：不依赖捷径，不轻言All-in（附全文）",
+        "link": "https://www.ershicimi.com/p/922d0d70edf075485899768f9752de44",
+        "date": "2021-04-03"
+      },
+      {
+        "title": "Nginx 除了负载均衡，还能做什么？",
+        "link": "https://www.ershicimi.com/p/ab3b54ce794a5b27ab0cb54e6307c02f",
+        "date": "2021-04-03"
+      },
+      {
         "title": "一个支付案例，学会策略模式！",
         "link": "https://www.ershicimi.com/p/de2f71eb60cfa902e8a6b073457d9624",
         "date": "2021-04-02"
@@ -19407,21 +19422,6 @@
         "title": "MySQL与Redis缓存的同步方案",
         "link": "https://www.ershicimi.com/p/3d59f463895db678220419fb9054d6cf",
         "date": "2021-03-28"
-      },
-      {
-        "title": "大一新生开发的小工具火了，网友：我好菜",
-        "link": "https://www.ershicimi.com/p/4bbc9387b6ec56fbdcd131a9a12ed374",
-        "date": "2021-03-28"
-      },
-      {
-        "title": "网传京东37岁程序员在工位猝死。当事人：我还没死，还能加班！",
-        "link": "https://www.ershicimi.com/p/73512e29f4dee1614e35e0105f8f7999",
-        "date": "2021-03-27"
-      },
-      {
-        "title": "新同事不讲“码”德，这SQL写得太野了，请耗子尾汁～",
-        "link": "https://www.ershicimi.com/p/e6af11f194581325a669b47b41c55e43",
-        "date": "2021-03-27"
       }
     ]
   },
@@ -19877,6 +19877,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "感觉现在的验证码纯粹就是在防人类...对机器是否有效个人表示怀疑",
+        "link": "https://www.v2ex.com/t/767833",
+        "date": "2021-04-03"
+      },
+      {
         "title": "自动创建、保存和管理 Chrome 标签分组(Tab Groups)功能的扩展程序",
         "link": "https://www.v2ex.com/t/767832",
         "date": "2021-04-03"
@@ -20040,11 +20045,6 @@
         "title": "请教威联通的虚拟交换机要怎么设置",
         "link": "https://www.v2ex.com/t/767786",
         "date": "2021-04-03"
-      },
-      {
-        "title": "macbook 13 寸（M1 芯片）外接两台 dell 的 27 寸 4k 显示器 u2720QM",
-        "link": "https://www.v2ex.com/t/767784",
-        "date": "2021-04-03"
       }
     ]
   },
@@ -20191,13 +20191,13 @@
         "date": "2021-04-03"
       },
       {
-        "title": "Dokka 设置包描述，让你的 Kotlin 库文档更详实",
-        "link": "https://toutiao.io/k/eihymr1",
+        "title": "[译] 何时使用 Rust？何时使用 Go？",
+        "link": "https://toutiao.io/k/tt8a7m6",
         "date": "2021-04-03"
       },
       {
-        "title": "[译] 何时使用 Rust？何时使用 Go？",
-        "link": "https://toutiao.io/k/tt8a7m6",
+        "title": "Dokka 设置包描述，让你的 Kotlin 库文档更详实",
+        "link": "https://toutiao.io/k/eihymr1",
         "date": "2021-04-03"
       },
       {
@@ -20211,8 +20211,8 @@
         "date": "2021-04-03"
       },
       {
-        "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
-        "link": "https://toutiao.io/k/47wemjf",
+        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
+        "link": "https://toutiao.io/k/sso4l2l",
         "date": "2021-04-03"
       },
       {
@@ -20221,8 +20221,33 @@
         "date": "2021-04-03"
       },
       {
+        "title": "[推荐] Spring Boot 中优雅的使用 Swagger 2（史上最全注解篇）",
+        "link": "https://toutiao.io/k/2qkwu5f",
+        "date": "2021-04-03"
+      },
+      {
         "title": "[推荐] 浅谈分库分表那些事儿",
         "link": "https://toutiao.io/k/vulmd0h",
+        "date": "2021-04-03"
+      },
+      {
+        "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
+        "link": "https://toutiao.io/k/47wemjf",
+        "date": "2021-04-03"
+      },
+      {
+        "title": "[推荐] 架构实践全景图",
+        "link": "https://toutiao.io/k/nu45i3g",
+        "date": "2021-04-03"
+      },
+      {
+        "title": "[推荐] 高并发下如何保证接口的幂等性？",
+        "link": "https://toutiao.io/k/f0361xm",
+        "date": "2021-04-03"
+      },
+      {
+        "title": "[推荐] 万字详解整个数据仓库建设体系",
+        "link": "https://toutiao.io/k/ny7vvdw",
         "date": "2021-04-03"
       },
       {
@@ -20236,38 +20261,13 @@
         "date": "2021-04-03"
       },
       {
-        "title": "[推荐] Spring Boot 中优雅的使用 Swagger 2（史上最全注解篇）",
-        "link": "https://toutiao.io/k/2qkwu5f",
-        "date": "2021-04-03"
-      },
-      {
-        "title": "[推荐] 万字详解整个数据仓库建设体系",
-        "link": "https://toutiao.io/k/ny7vvdw",
-        "date": "2021-04-03"
-      },
-      {
-        "title": "[推荐] 如何吃透一个 Java 项目？（附学习实践）",
-        "link": "https://toutiao.io/k/cifpaoe",
-        "date": "2021-04-03"
-      },
-      {
-        "title": "[推荐] 高并发下如何保证接口的幂等性？",
-        "link": "https://toutiao.io/k/f0361xm",
-        "date": "2021-04-03"
-      },
-      {
-        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
-        "link": "https://toutiao.io/k/sso4l2l",
-        "date": "2021-04-03"
-      },
-      {
         "title": "[推荐] 值得拥有的手绘风格画图工具",
         "link": "https://toutiao.io/k/ukg83qx",
         "date": "2021-04-03"
       },
       {
-        "title": "[推荐] 架构实践全景图",
-        "link": "https://toutiao.io/k/nu45i3g",
+        "title": "[推荐] 如何吃透一个 Java 项目？（附学习实践）",
+        "link": "https://toutiao.io/k/cifpaoe",
         "date": "2021-04-03"
       }
     ]

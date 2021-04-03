@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-03 09:38:28，:rocket: 更新条数: +4119， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-03 09:52:50，:rocket: 更新条数: +4120， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -936,6 +936,8 @@
 </summary>
 
 
+- [2021-04-03-请教各位老哥，国管公积金提取问题。](https://www.v2ex.com/t/767812) ![](assets/new.png)  
+- [2021-04-03-大家有啥有趣的网络会议的虚拟背景么？](https://www.v2ex.com/t/767811) ![](assets/new.png)  
 - [2021-04-03-imgur-账户无法删除？](https://www.v2ex.com/t/767808) ![](assets/new.png)  
 - [2021-04-03-现在爬虫对付脚本构造的网页还有什么方法，除了-selenium](https://www.v2ex.com/t/767807) ![](assets/new.png)  
 - [2021-04-03-Chrome-保存密码安全吗？如何管理密码？](https://www.v2ex.com/t/767805) ![](assets/new.png)  
@@ -954,8 +956,6 @@
 - [2021-04-03-请教威联通的虚拟交换机要怎么设置](https://www.v2ex.com/t/767786) ![](assets/new.png)  
 - [2021-04-03-macbook-13-寸（M1-芯片）外接两台-dell-的-27-寸-4k-显示器-u2720QM](https://www.v2ex.com/t/767784) ![](assets/new.png)  
 - [2021-04-03-阿里小号从-5-月-1-日起关闭](https://www.v2ex.com/t/767780) ![](assets/new.png)  
-- [2021-04-03-如何快速的将三星-S20-的照片导出到-Mac](https://www.v2ex.com/t/767779) ![](assets/new.png)  
-- [2021-04-03-大家都把孩子送学而思吗？还是其他艺术培训](https://www.v2ex.com/t/767778) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1008,16 +1008,16 @@
 - [2021-04-03-译-何时使用-Rust？何时使用-Go？](https://toutiao.io/k/tt8a7m6) ![](assets/new.png)  
 - [2021-04-03-Kubernetes-Deployment-滚动更新原理解析](https://toutiao.io/k/pqyobsu) ![](assets/new.png)  
 - [2021-04-03-对话-Tetrate.io-创始工程师吴晟：开源领域需要-40+-的开发者，也需要更张扬的年轻人](https://toutiao.io/k/5eks2bi) ![](assets/new.png)  
-- [2021-04-03-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
-- [2021-04-03-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
-- [2021-04-03-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
-- [2021-04-03-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
-- [2021-04-03-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
-- [2021-04-03-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
+- [2021-04-03-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
 - [2021-04-03-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
-- [2021-04-03-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-03-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
 - [2021-04-03-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
-- [2021-04-03-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
+- [2021-04-03-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
+- [2021-04-03-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
+- [2021-04-03-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-03-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-03-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
+- [2021-04-03-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-03 00:08:55，:rocket: 更新条数: +4096， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-03 00:25:40，:rocket: 更新条数: +4076， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -121,6 +121,8 @@
 </summary>
 
 
+- [2021-04-02-知乎高赞：什么是前端工程化](https://www.ershicimi.com/p/95dc1d5aab227162cf90d4c038223397) ![](assets/new.png)  
+- [2021-04-02-34-个-JavaScript-代码优化技巧](https://www.ershicimi.com/p/e23ed7bf9f9dab6c2500151482fddbc1) ![](assets/new.png)  
 - [2021-04-01-三流员工卖命，二流员工卖时间，一流员工.....](https://www.ershicimi.com/p/ea03866519aad71bf063c463e8ec67b5) ![](assets/new.png)  
 - [2021-04-01-面试官：Ajax-原理是什么？如何实现？](https://www.ershicimi.com/p/f4c7a40aa4d4c90fbad1b44e1fa92e7a) ![](assets/new.png)  
 - [2021-04-01-前端面试常考的各种重点手写题大全](https://www.ershicimi.com/p/a3f8a7bf91d537b307515c0fc0206f92) ![](assets/new.png)  
@@ -139,8 +141,6 @@
 - [2021-03-27-面试官：JavaScript中执行上下文和执行栈是什么？](https://www.ershicimi.com/p/7a9b2741df8df958fa72610838f296ae) ![](assets/new.png)  
 - [2021-03-26-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/6c1de8411082804861762b3a75908d99) ![](assets/new.png)  
 - [2021-03-26-前端-Code-Review-的最佳实践方案](https://www.ershicimi.com/p/13b10a5d2b9687f1140bb68d7515ab2f) ![](assets/new.png)  
-- [2021-03-25-超详细Hexo+Github-Page搭建技术博客教程（含SEO优化）](https://www.ershicimi.com/p/92efeea1d38646ac3d674fd0e6fc39cf) ![](assets/new.png)  
-- [2021-03-25-955-不加班的公司名单！2021-最新版！](https://www.ershicimi.com/p/42ba049b6a1d1d1587c7a37a4e394079) ![](assets/new.png)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -979,26 +979,18 @@
 </summary>
 
 
-- [2021-04-03-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
-- [2021-04-03-Java-中的集合-List（入门篇）](https://toutiao.io/k/de00pgg) ![](assets/new.png)  
-- [2021-04-03-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
-- [2021-04-03-译-Uber：面向领域的微服务架构](https://toutiao.io/k/0yy2iga) ![](assets/new.png)  
-- [2021-04-03-你该如何为-Kubernetes-定制特性](https://toutiao.io/k/ea28kfh) ![](assets/new.png)  
-- [2021-04-03-程序员如何管理你的上级领导？](https://toutiao.io/k/oxjrbtj) ![](assets/new.png)  
-- [2021-04-03-JVM-进阶之路（七）：垃圾收集器盘点](https://toutiao.io/k/55l066q) ![](assets/new.png)  
-- [2021-04-03-微服务时代组件化和服务化的抉择](https://toutiao.io/k/scyqk7j) ![](assets/new.png)  
-- [2021-04-03-你要偷偷学会排查线上-CPU-飙高的问题，然后惊艳所有人](https://toutiao.io/k/0hxavz1) ![](assets/new.png)  
-- [2021-04-03-如何用-Python-操作-Docker？](https://toutiao.io/k/h0br9z2) ![](assets/new.png)  
-- [2021-04-03-书单：互联网企业面试案头书之数据分析师篇](https://toutiao.io/k/vs0zegr) ![](assets/new.png)  
-- [2021-04-03-架构设计笔记（十二）：关键模式_读写分离](https://toutiao.io/k/pi52ruq) ![](assets/new.png)  
-- [2021-04-03-2021-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦](https://toutiao.io/k/w7axyzy) ![](assets/new.png)  
-- [2021-04-03-Clickhouse-平台无感搬迁-Zookeeper-实践](https://toutiao.io/k/7up61zr) ![](assets/new.png)  
-- [2021-04-03-手撕-Go-面试官：Go-结构体是否可以比较，为什么？](https://toutiao.io/k/ng18jyd) ![](assets/new.png)  
-- [2021-04-03-译-WebStorm-访谈：我们是如何构建-JavaScript-IDE-的？](https://toutiao.io/k/am1mh5y) ![](assets/new.png)  
-- [2021-04-03-为您的应用配置-Play-Feature-Delivery](https://toutiao.io/k/zp6ph9o) ![](assets/new.png)  
-- [2021-04-03-The-small-web-is-beautiful](https://toutiao.io/k/ab762mm) ![](assets/new.png)  
-- [2021-04-03-iOS-中触摸事件的传递和响应分析](https://toutiao.io/k/rxeztzb) ![](assets/new.png)  
-- [2021-04-03-CSS-灵感：一大堆优质-CSS-Demo](https://toutiao.io/k/sdvf5ne) ![](assets/new.png)  
+- [2021-04-03-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
+- [2021-04-03-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
+- [2021-04-03-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
+- [2021-04-03-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
+- [2021-04-03-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
+- [2021-04-03-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
+- [2021-04-03-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
+- [2021-04-03-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
+- [2021-04-03-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-03-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
+- [2021-04-03-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-03-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1010,6 +1002,16 @@
 </summary>
 
 
+- [2021-04-03-铭记历史缅怀英烈-习近平这样说](https://sec.thief.one/article_content?a_id=f35e785959feb1d19b544d5f206de1fa) ![](assets/new.png)  
+- [2021-04-02-【漏洞通告】VMware-Carbon-Black-Cloud-Workload身份验证绕过漏洞...](https://sec.thief.one/article_content?a_id=4a4dcf635dd1c67d4bc1ae02fd6da788) ![](assets/new.png)  
+- [2021-04-02-【安全圈】GitLab任意文件读取漏洞风险通告!-漏洞等级:严重!](https://sec.thief.one/article_content?a_id=eebec9647a0ad03669107850420ec1f6) ![](assets/new.png)  
+- [2021-04-02-Xstream反序列化远程代码执行漏洞深入分析](https://sec.thief.one/article_content?a_id=ed69f720cb6a4ed1fc4a8f9a3adb6c01) ![](assets/new.png)  
+- [2021-04-02-有些话,还是得说一下的](https://sec.thief.one/article_content?a_id=5b5dab565fcc3ebf04500815a87dce01) ![](assets/new.png)  
+- [2021-04-02-补天白帽大会全球议题征集开启!](https://sec.thief.one/article_content?a_id=86d06ccb3f1f6d551f990a8dbc54bf10) ![](assets/new.png)  
+- [2021-04-02-Django零代码集成-Markdown-编辑器](https://sec.thief.one/article_content?a_id=baaa867038ef4e0891468b185845a8ba) ![](assets/new.png)  
+- [2021-04-02-马斯克:我准备把狗狗币送上月球](https://sec.thief.one/article_content?a_id=89f2d9c47f655c2c1f0233ad071da966) ![](assets/new.png)  
+- [2021-04-02-CSO说安全-|-秦峰:基于商业组织的网络安全合规风险管理构建和实践](https://sec.thief.one/article_content?a_id=76d292516aab0db642a6c02598bf5893) ![](assets/new.png)  
+- [2021-04-02-白帽子与厂商battle的那些事,你是否也遇到过?](https://sec.thief.one/article_content?a_id=ec71d851548623d6dd47f3684ff7ed8d) ![](assets/new.png)  
 - [2021-04-02-四大主流WebShell管理工具分析-|-防守方攻略](https://sec.thief.one/article_content?a_id=9a035c359d7c6bc4c716b60abd9d5972) ![](assets/new.png)  
 - [2021-04-02-【技术分享】House-OF-Kiwi](https://sec.thief.one/article_content?a_id=cf3c0fff9f29cc062ba690cf7a02bae8) ![](assets/new.png)  
 - [2021-04-02-小豚AI摄像头的完整分析](https://sec.thief.one/article_content?a_id=e5d7b19a8c5d3d53cb86c0d51ec5be51) ![](assets/new.png)  
@@ -1020,16 +1022,6 @@
 - [2021-04-02-产业安全专家谈丨数字经济高速发展,数据要素安全该如何保障?](https://sec.thief.one/article_content?a_id=15587002279509d8a5f573667cdba5f7) ![](assets/new.png)  
 - [2021-04-02-Filecoin暴涨42%,超越莱特币成为第九大加密资产](https://sec.thief.one/article_content?a_id=1cc996dcc92dbda2cb3b5cd2db667bcb) ![](assets/new.png)  
 - [2021-04-02-拜登或将给富人加税,加密货币会成为富人资产避风港吗?](https://sec.thief.one/article_content?a_id=b76632e581c254095e7986eda228cdef) ![](assets/new.png)  
-- [2021-04-02-黑客正在日本的工业组织中植入多个后门](https://sec.thief.one/article_content?a_id=bce60710a03f2807526cfbdddedf280f) ![](assets/new.png)  
-- [2021-04-02-MobiKwik-350万用户数据泄露](https://sec.thief.one/article_content?a_id=ff5430eec0f8a26be9b672fd67eec014) ![](assets/new.png)  
-- [2021-04-02-小米隐私政策欢乐捉虫活动圆满结束](https://sec.thief.one/article_content?a_id=800b7388f68a9823a875acac85238187) ![](assets/new.png)  
-- [2021-04-02-用-Django-搬起石头砸了自己的脚,但最后我还是搞定了](https://sec.thief.one/article_content?a_id=3249dc218486a3268a6d5a1356cd54e7) ![](assets/new.png)  
-- [2021-04-02-2020年无文件恶意软件数量飙升900%](https://sec.thief.one/article_content?a_id=49b425eb9dce8ea2327c07ab4ff3717f) ![](assets/new.png)  
-- [2021-04-02-后渗透阶段清理痕迹方式总结](https://sec.thief.one/article_content?a_id=11575dc2781d8435a17a3c2ea641cc2e) ![](assets/new.png)  
-- [2021-04-02-每周高级威胁情报解读2021.03.25~04.01](https://sec.thief.one/article_content?a_id=daec21a4be08a67530023ba8d615392e) ![](assets/new.png)  
-- [2021-04-02-【牛品推荐第四期】对症下药:全流量分析解决未知安全问题](https://sec.thief.one/article_content?a_id=ee3197e4f80c91f12ae1d4408b6d42e3) ![](assets/new.png)  
-- [2021-04-02-1小时搞清楚编解码的那些事儿](https://sec.thief.one/article_content?a_id=3c1be945d44d130c875887b16a33bea8) ![](assets/new.png)  
-- [2021-04-02-对伪装docx文件病毒的逆向分析](https://sec.thief.one/article_content?a_id=15e8e094b143c22345e7cebdbbf9a9d5) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

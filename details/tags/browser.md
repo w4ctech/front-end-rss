@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-03 00:08:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 00:25:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,6 +39,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-03-28-MySQL与Redis缓存的同步方案](https://www.ershicimi.com/p/3d59f463895db678220419fb9054d6cf) 
 - [2021-04-03-腾讯-Code-Review-规范出炉！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-04-02-【安全圈】GitLab任意文件读取漏洞风险通告!-漏洞等级:严重!](https://sec.thief.one/article_content?a_id=eebec9647a0ad03669107850420ec1f6) 
 - [2021-04-02-中关村可信计算产业联盟金融安全专委会召开2021工作会议暨交流活动](https://sec.thief.one/article_content?a_id=4c448f1de0940182ec83396b6640648e) 
 - [2021-04-02-攻防实战利器|绿盟智能安全运营平台ISOP攻防应急演练专版更新](https://sec.thief.one/article_content?a_id=456905caee8a996915a8ddeb550b5a3c) 
 - [2021-04-02-产业安全专家谈丨数字经济高速发展,数据要素安全该如何保障?](https://sec.thief.one/article_content?a_id=15587002279509d8a5f573667cdba5f7) 
@@ -57,5 +58,3 @@
 - [2021-03-31-中阿发布数据安全合作倡议](https://sec.thief.one/article_content?a_id=301588b01fe01af0c11e0c1e0015952c) 
 - [2021-03-30-【安全风险通告】Apache-Druid远程代码执行漏洞安全风险通告](https://sec.thief.one/article_content?a_id=ca16ff85affe79c80ab8f331a4b2341f) 
 - [2021-03-30-2021上海网络安全博览会向您正式发出邀请](https://sec.thief.one/article_content?a_id=c36dcec426cdf86df77f78a9b343ff97) 
-- [2021-03-30-“安全范儿”沙龙,好春光,三亚游,不可辜负!](https://sec.thief.one/article_content?a_id=4dbaa69e5cf918e1d6b12287ee7ea777) 
-- [2021-03-30-信息安全漏洞周报2021年第13期](https://sec.thief.one/article_content?a_id=a1b7528ed179b8f0bc656b2f897eb9e6) 

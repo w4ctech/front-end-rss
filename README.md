@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-03 08:24:02，:rocket: 更新条数: +4123， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-03 08:39:50，:rocket: 更新条数: +4123， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -936,6 +936,10 @@
 </summary>
 
 
+- [2021-04-03-贪便宜，装了个移动的宽带，发现非常不稳定，能怎么改善吗](https://www.v2ex.com/t/767800) ![](assets/new.png)  
+- [2021-04-03-请教这种编码怎么解析？](https://www.v2ex.com/t/767799) ![](assets/new.png)  
+- [2021-04-03-关于阿里云镜像仓库登陆的问题](https://www.v2ex.com/t/767798) ![](assets/new.png)  
+- [2021-04-03-4G-网络下-telegram-无法语音通话，一直处于-connecting](https://www.v2ex.com/t/767797) ![](assets/new.png)  
 - [2021-04-03-异步-httpclient-是如何处理大量并发请求的](https://www.v2ex.com/t/767794) ![](assets/new.png)  
 - [2021-04-03-2021-年推荐一张划算的美国实体手机卡吧](https://www.v2ex.com/t/767793) ![](assets/new.png)  
 - [2021-04-03-发现了一个解决-Flutter-嵌套过深的包](https://www.v2ex.com/t/767792) ![](assets/new.png)  
@@ -952,10 +956,6 @@
 - [2021-04-03-木兰语言-0.0.17：着手由-Python-语法树生成木兰源码](https://www.v2ex.com/t/767775) ![](assets/new.png)  
 - [2021-04-03-win-to-go-怎么安装？有没有使用过的，对硬件有啥要求？](https://www.v2ex.com/t/767773) ![](assets/new.png)  
 - [2021-04-03-@vitjs/vit-基于-Vite-插件实现的类-Umi-的应用框架](https://www.v2ex.com/t/767771) ![](assets/new.png)  
-- [2021-04-03-请教-Apple-Store-上卖的那个支持-HomeKit-的-Linksys-Velop-路由器具体是什么型号，支持-Wi-Fi-6-吗？](https://www.v2ex.com/t/767768) ![](assets/new.png)  
-- [2021-04-03-小城市有门店，做什么生意好](https://www.v2ex.com/t/767767) ![](assets/new.png)  
-- [2021-04-03-Java-多线程如何一个线程只处理一个队列？](https://www.v2ex.com/t/767766) ![](assets/new.png)  
-- [2021-04-03-三年萌新，项目十几个，线上项目近十个，安卓是大学时自学的，就会写代码，理论知识差的一笔，现在想跳槽杭州。怎么搞-0.0](https://www.v2ex.com/t/767765) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1002,22 +1002,22 @@
 - [2021-04-03-Etcd-分布式锁内存泄露](https://toutiao.io/k/s8q5qn3) ![](assets/new.png)  
 - [2021-04-03-基于-Redis-的偏业务应用的分布式限流组件](https://toutiao.io/k/k23mell) ![](assets/new.png)  
 - [2021-04-03-使用火焰图定位-OLAP-引擎瓶颈](https://toutiao.io/k/v0y3otx) ![](assets/new.png)  
-- [2021-04-03-如何购买一本书？](https://toutiao.io/k/jtz7p3i) ![](assets/new.png)  
 - [2021-04-03-搞懂-ThreadLocal](https://toutiao.io/k/1ufc5cn) ![](assets/new.png)  
+- [2021-04-03-如何购买一本书？](https://toutiao.io/k/jtz7p3i) ![](assets/new.png)  
 - [2021-04-03-Dokka-设置包描述，让你的-Kotlin-库文档更详实](https://toutiao.io/k/eihymr1) ![](assets/new.png)  
 - [2021-04-03-译-何时使用-Rust？何时使用-Go？](https://toutiao.io/k/tt8a7m6) ![](assets/new.png)  
 - [2021-04-03-Kubernetes-Deployment-滚动更新原理解析](https://toutiao.io/k/pqyobsu) ![](assets/new.png)  
 - [2021-04-03-对话-Tetrate.io-创始工程师吴晟：开源领域需要-40+-的开发者，也需要更张扬的年轻人](https://toutiao.io/k/5eks2bi) ![](assets/new.png)  
-- [2021-04-03-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
-- [2021-04-03-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
 - [2021-04-03-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
-- [2021-04-03-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
-- [2021-04-03-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
-- [2021-04-03-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
-- [2021-04-03-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
 - [2021-04-03-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
 - [2021-04-03-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
+- [2021-04-03-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
+- [2021-04-03-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
 - [2021-04-03-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
+- [2021-04-03-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
+- [2021-04-03-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
+- [2021-04-03-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
+- [2021-04-03-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

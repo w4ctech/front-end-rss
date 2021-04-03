@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-03 13:39:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 13:51:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -13,4 +13,3 @@
 - [2021-03-24-Flutter-正在被悄悄放弃吗？](https://www.ershicimi.com/p/52b77614d14ad71ae268cccf7b6fad98) 
 - [2021-04-03-关于-Flutter-适配刘海屏的问题](https://www.v2ex.com/t/767830) 
 - [2021-04-03-发现了一个解决-Flutter-嵌套过深的包](https://www.v2ex.com/t/767792) 
-- [2021-04-03-Flutter-2-重磅来袭，重大能力突破，好不惊喜！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14258&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4E9bEYWEEfnZRZH0yjXKVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

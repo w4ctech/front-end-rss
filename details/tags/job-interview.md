@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-03 08:39:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 08:53:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -25,7 +25,6 @@
 - [2021-03-19-如何写出一份能够吸引面试官的简历](https://www.ershicimi.com/p/43ed426188cc463a6a601666f725a364) 
 - [2021-03-28-阿里拍卖直管公司大量招聘前端，面相社招的p5招聘-直管公司不是外包，是属于阿里拍卖直接管理运营](https://www.ershicimi.com/p/b08246d7355acb0853e5551e78c6427e) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
-- [2021-04-02-面试官问：前后端分离项目，有什么优缺点？我说：没](https://www.ershicimi.com/p/6771b9391a83b562ab70beb296e2575a) 
 - [2021-03-30-再见-Go-面试官：GMP-模型，为什么要有-P？-｜-极客时间](https://www.ershicimi.com/p/b4a6b88eb9ddc449bd7581f5997ff01c) 
 - [2021-03-24-字节跳动高频100道核心前端面试题解析](https://www.ershicimi.com/p/bd6c66f84e2c88714b5520bdbd5e1927) 
 - [2021-04-03-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) 

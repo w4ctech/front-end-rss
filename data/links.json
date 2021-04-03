@@ -12730,7 +12730,7 @@
         "date": "2020-02-27"
       },
       {
-        "title": "地图|新冠感染超1.19亿 累计死亡超264万",
+        "title": "地图|新冠感染超1.3亿 累计死亡超283万",
         "link": "http://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html",
         "date": "2020-02-27"
       },
@@ -19877,6 +19877,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "自动创建、保存和管理 Chrome 标签分组(Tab Groups)功能的扩展程序",
+        "link": "https://www.v2ex.com/t/767832",
+        "date": "2021-04-03"
+      },
+      {
         "title": "关于 cpp 成员初始化列表，冒号后的 var（）和 var{}的区别到底是什么呢？",
         "link": "https://www.v2ex.com/t/767831",
         "date": "2021-04-03"
@@ -20206,6 +20211,11 @@
         "date": "2021-04-03"
       },
       {
+        "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
+        "link": "https://toutiao.io/k/47wemjf",
+        "date": "2021-04-03"
+      },
+      {
         "title": "[推荐] 这 30 个我精选的含答案的面试题，硬不硬你说吧",
         "link": "https://toutiao.io/k/v9aar7o",
         "date": "2021-04-03"
@@ -20216,8 +20226,8 @@
         "date": "2021-04-03"
       },
       {
-        "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
-        "link": "https://toutiao.io/k/47wemjf",
+        "title": "[推荐] Redis 分布式锁遇到的序列化问题",
+        "link": "https://toutiao.io/k/adg4qv6",
         "date": "2021-04-03"
       },
       {
@@ -20231,23 +20241,23 @@
         "date": "2021-04-03"
       },
       {
-        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
-        "link": "https://toutiao.io/k/sso4l2l",
-        "date": "2021-04-03"
-      },
-      {
         "title": "[推荐] 万字详解整个数据仓库建设体系",
         "link": "https://toutiao.io/k/ny7vvdw",
         "date": "2021-04-03"
       },
       {
-        "title": "[推荐] Redis 分布式锁遇到的序列化问题",
-        "link": "https://toutiao.io/k/adg4qv6",
+        "title": "[推荐] 如何吃透一个 Java 项目？（附学习实践）",
+        "link": "https://toutiao.io/k/cifpaoe",
         "date": "2021-04-03"
       },
       {
         "title": "[推荐] 高并发下如何保证接口的幂等性？",
         "link": "https://toutiao.io/k/f0361xm",
+        "date": "2021-04-03"
+      },
+      {
+        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
+        "link": "https://toutiao.io/k/sso4l2l",
         "date": "2021-04-03"
       },
       {
@@ -20258,11 +20268,6 @@
       {
         "title": "[推荐] 架构实践全景图",
         "link": "https://toutiao.io/k/nu45i3g",
-        "date": "2021-04-03"
-      },
-      {
-        "title": "[推荐] 如何吃透一个 Java 项目？（附学习实践）",
-        "link": "https://toutiao.io/k/cifpaoe",
         "date": "2021-04-03"
       }
     ]

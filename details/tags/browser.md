@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-03 11:49:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 12:03:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,6 +39,7 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-03-28-MySQL与Redis缓存的同步方案](https://www.ershicimi.com/p/3d59f463895db678220419fb9054d6cf) 
+- [2021-04-03-自动创建、保存和管理-Chrome-标签分组Tab-Groups功能的扩展程序](https://www.v2ex.com/t/767832) 
 - [2021-04-03-渲染数学-latex-公式有没有什么最最最极简的方法](https://www.v2ex.com/t/767820) 
 - [2021-04-03-Chrome-保存密码安全吗？如何管理密码？](https://www.v2ex.com/t/767805) 
 - [2021-04-03-1password-和-Bitwarden-官方版哪个安全？](https://www.v2ex.com/t/767790) 

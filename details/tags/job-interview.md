@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-03 17:33:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 17:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -28,5 +28,5 @@
 - [2021-04-02-面试官问：前后端分离项目，有什么优缺点？我说：没](https://www.ershicimi.com/p/6771b9391a83b562ab70beb296e2575a) 
 - [2021-03-30-再见-Go-面试官：GMP-模型，为什么要有-P？-｜-极客时间](https://www.ershicimi.com/p/b4a6b88eb9ddc449bd7581f5997ff01c) 
 - [2021-03-24-字节跳动高频100道核心前端面试题解析](https://www.ershicimi.com/p/bd6c66f84e2c88714b5520bdbd5e1927) 
-- [2021-04-03-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) 
 - [2021-04-03-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) 
+- [2021-04-03-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) 

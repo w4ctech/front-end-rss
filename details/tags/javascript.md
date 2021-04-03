@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-03 09:52:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 10:03:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -78,6 +78,7 @@
 - [2021-03-15-2021年JavaScript的发展前景](https://www.ershicimi.com/p/8f16bb3a0a080486055521f9197b341f) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-03-25-王一博、谭松韵相继终止合作，是时候讲讲新疆棉花事件背后的真相了](https://www.ershicimi.com/p/5fc4b43f5acbcbdf036fb9b2be7b2fcc) 
+- [2021-04-03-朋友圈刷屏的号主原创事件](https://www.v2ex.com/t/767813) 
 - [2021-04-03-异步-httpclient-是如何处理大量并发请求的](https://www.v2ex.com/t/767794) 
 - [2021-04-03-@vitjs/vit-基于-Vite-插件实现的类-Umi-的应用框架](https://www.v2ex.com/t/767771) 
 - [2021-04-03-请教-Apple-Store-上卖的那个支持-HomeKit-的-Linksys-Velop-路由器具体是什么型号，支持-Wi-Fi-6-吗？](https://www.v2ex.com/t/767768) 

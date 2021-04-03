@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-03 06:03:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 06:24:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -81,6 +81,7 @@
 - [2021-04-03-@vitjs/vit-基于-Vite-插件实现的类-Umi-的应用框架](https://www.v2ex.com/t/767771) 
 - [2021-04-03-请教-Apple-Store-上卖的那个支持-HomeKit-的-Linksys-Velop-路由器具体是什么型号，支持-Wi-Fi-6-吗？](https://www.v2ex.com/t/767768) 
 - [2021-04-03-爬虫过程中-DOM-对象的处理](https://www.v2ex.com/t/767744) 
+- [2021-04-03-JavaScript-奇葩知识大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14250&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVAzk0r95EAVho5jskcTc2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-03-基于-Redis-的偏业务应用的分布式限流组件](https://toutiao.io/k/k23mell) 
 - [2021-04-03-Kubernetes-Deployment-滚动更新原理解析](https://toutiao.io/k/pqyobsu) 
 - [2021-04-01-【安全圈】Ubiquiti-被指控隐瞒数据泄漏事件](https://sec.thief.one/article_content?a_id=2137eb5e4096254acf01ea4c6c65b4c3) 

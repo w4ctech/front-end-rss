@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-03 22:53:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 23:05:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-03-小米手环-5-没有没必要换刚出的-6？](https://www.v2ex.com/t/767868) 
 - [2021-04-03-总算搞定了](https://www.v2ex.com/t/767866) 
 - [2021-04-03-为啥没人提-Macbook-触控板的-Force-Touch？](https://www.v2ex.com/t/767864) 
 - [2021-04-03-C-紫禁城-Fork,-execvp-是个啥？好难找到资料啊](https://www.v2ex.com/t/767863) 

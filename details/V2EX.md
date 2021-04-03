@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-03 23:24:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 23:39:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -15,7 +15,6 @@
 - [2021-04-03-MacBookPro19-年-15-寸外接-Dell-U2720QM-显示器使用-c2c-线刷新率降低为-30Hz](https://www.v2ex.com/t/767859) 
 - [2021-04-03-M1-macOS-Big-Sur-11.3-Beta-6-20E5224a-禁止了自行安装的-iOS-应用？](https://www.v2ex.com/t/767858) 
 - [2021-04-03-你用-iPad-主要做什么？](https://www.v2ex.com/t/767856) 
-- [2021-04-03-求助！有-V-友愿意临时拉我一下任天堂家庭会员吗？用完任亏券马上退出家庭](https://www.v2ex.com/t/767855) 
 - [2021-04-03-小白问个-asp-问题，-rs.update-有时候成功有时候不成功](https://www.v2ex.com/t/767851) 
 - [2021-04-03-问一个台式电脑重装-win10-系统启动项识别不了硬盘的问题](https://www.v2ex.com/t/767850) 
 - [2021-04-03-请问-sublime-列编辑这种怎么操作](https://www.v2ex.com/t/767847) 

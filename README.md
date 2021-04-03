@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-03 03:40:44，:rocket: 更新条数: +649， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-03 03:54:03，:rocket: 更新条数: +4122， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-04-03-4月2日全国新增新冠26例-云南本土7例](https://m.caixin.com/m/2021-04-03/101685530.html) ![](assets/new.png)  
+- [2021-04-03-4月2日云南新增本土确诊7例-无症状感染者5例](https://m.caixin.com/m/2021-04-03/101685501.html) ![](assets/new.png)  
+- [2021-04-03-德国允许混打疫苗-科兴称新冠疫苗年产能将达20亿剂丨大流行手记（4月2日）](https://m.caixin.com/m/2021-04-03/101685491.html) ![](assets/new.png)  
+- [2021-04-02-聚焦|张文宏：近期瑞丽疫情透露的几个关键信息](http://m.opinion.caixin.com/m/2021-04-02/101685037.html) ![](assets/new.png)  
+- [2021-04-02-最新海外疫情：新冠感染超1.29亿-累计死亡超282万](https://m.caixin.com/m/2021-04-02/101685247.html) ![](assets/new.png)  
+- [2021-04-02-【境内疫情观察】云南瑞丽5地调整为中风险地区（4月1日）](http://m.database.caixin.com/m/2021-04-02/101685059.html) ![](assets/new.png)  
+- [2021-04-02-新冠疫情中期全球将削减3%经济产出-法国第三次全国隔离丨大流行手记（4月1日）](https://m.caixin.com/m/2021-04-02/101684951.html) ![](assets/new.png)  
+- [2021-04-01-瑞丽阳性病例再增7人-全市紧急接种新冠疫苗](https://m.caixin.com/m/2021-04-01/101684875.html) ![](assets/new.png)  
+- [2021-04-01-新冠疫苗接种排长队-深圳医生盼信息系统稳定运行](https://m.caixin.com/m/2021-04-01/101684865.html) ![](assets/new.png)  
+- [2021-04-01-云南瑞丽城区学校3月31日起全面停课](http://m.china.caixin.com/m/2021-04-01/101684511.html) ![](assets/new.png)  
+- [2021-04-01-3月31日云南新增新冠确诊6例-无症状感染者23例](https://m.caixin.com/m/2021-04-01/101684251.html) ![](assets/new.png)  
+- [2021-04-01-【境内疫情观察】云南省瑞丽市开展市区全员核酸检测（3月31日）](http://m.database.caixin.com/m/2021-04-01/101684547.html) ![](assets/new.png)  
+- [2021-04-01-辉瑞称疫苗对青少年100%有效-俄注册世界首个兽用新冠疫苗丨大流行手记（3月31日）](https://m.caixin.com/m/2021-04-01/101684275.html) ![](assets/new.png)  
+- [2021-03-31-【境内疫情观察】云南省瑞丽市新增6例本土病例（3月30日）](http://m.database.caixin.com/m/2021-03-31/101683093.html) ![](assets/new.png)  
+- [2021-03-31-中国-世卫新冠溯源报告发布-德国设限阿斯利康疫苗接种年龄丨大流行手记（3月30日）](https://m.caixin.com/m/2021-03-31/101682804.html) ![](assets/new.png)  
+- [2021-03-30-【境内疫情观察】全国新增8例境外输入病例（3月29日）](http://m.database.caixin.com/m/2021-03-30/101682499.html) ![](assets/new.png)  
+- [2021-03-30-英逐步解封允许六人出席婚礼-法国感染人数升至全球第四|大流行手记（3月29日）](https://m.caixin.com/m/2021-03-30/101682248.html) ![](assets/new.png)  
+- [2021-03-29-香港第四波疫情接近清零-港府放松部分社交管制措施](https://m.caixin.com/m/2021-03-29/101682179.html) ![](assets/new.png)  
+- [2021-03-29-【境内疫情观察】全国新增15例境外输入病例（3月28日）](http://m.database.caixin.com/m/2021-03-29/101681882.html) ![](assets/new.png)  
+- [2021-03-29-国药已设计新冠疫苗加强针-英过半成年人接种一剂疫苗|大流行手记（3月28日）](https://m.caixin.com/m/2021-03-29/101681667.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -76,6 +96,8 @@
 </summary>
 
 
+- [2021-04-03-全国｜新增确诊-26-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia8gHmp5S8PpDdK88I61T210403&isfromapp=1) ![](assets/new.png)  
+- [2021-04-03-云南｜新增本土确诊-7-例-无症状-5-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artig832sqpRzJwZi5UKdsbt210403&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -914,6 +936,8 @@
 </summary>
 
 
+- [2021-04-03-像-pixiv-那种根据标签搜索图片的功能，后端是怎么做得？](https://www.v2ex.com/t/767754) ![](assets/new.png)  
+- [2021-04-03-有上海申请到公租房的铁子吗](https://www.v2ex.com/t/767753) ![](assets/new.png)  
 - [2021-04-03-一个超好用的轻松管理您的存储图库](https://www.v2ex.com/t/767752) ![](assets/new.png)  
 - [2021-04-03-看网上说好像-iphone12-价格跌了](https://www.v2ex.com/t/767751) ![](assets/new.png)  
 - [2021-04-03-有人给-Apple-提意见并被采纳了吗？](https://www.v2ex.com/t/767750) ![](assets/new.png)  
@@ -932,8 +956,6 @@
 - [2021-04-03-iPhone-SE2020-耗电续航情况如何？](https://www.v2ex.com/t/767729) ![](assets/new.png)  
 - [2021-04-03-远程-Casbin-开源软件-“明日之星-2021”远程实习生+GSoC-预选生（急招-Go,-Java-,-Python-,-Node.js,-Lua,-Rust）](https://www.v2ex.com/t/767728) ![](assets/new.png)  
 - [2021-04-03-FinTech-社区-招聘：-Electronic-Trading-Quant---60-100-万+奖金-上海](https://www.v2ex.com/t/767727) ![](assets/new.png)  
-- [2021-04-03-滴滴出行-北京、杭州、成都、深圳内推-前端/-Java-/Android/iOS/算法/Go/C++/-Python-/-PHP-/数据/产品/运营等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/767726) ![](assets/new.png)  
-- [2021-04-03-vue3-的-composition-api-在使用-ts+vue-class-component-时，除了-created-需要-setup-外，好像没有其他优势](https://www.v2ex.com/t/767725) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -989,12 +1011,12 @@
 - [2021-04-03-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
 - [2021-04-03-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
 - [2021-04-03-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
-- [2021-04-03-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
-- [2021-04-03-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
 - [2021-04-03-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
+- [2021-04-03-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
+- [2021-04-03-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
 - [2021-04-03-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
-- [2021-04-03-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
 - [2021-04-03-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
+- [2021-04-03-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
 - [2021-04-03-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

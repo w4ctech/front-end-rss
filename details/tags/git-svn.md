@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-03 15:53:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 16:04:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -11,9 +11,8 @@
 - [2020-02-26-第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e) 
 - [2021-03-30-GitHub-近两万-Star，无需编码，可一键生成前后端代码，这个开源项目有点强！](https://www.ershicimi.com/p/2d2c523d0c86f510bed7ebdc4451dc44) 
 - [2021-03-30-Git-for-Windows-2.31.1-发布](https://www.ershicimi.com/p/7717c10235a062fa587e74b38e727252) 
-- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
-- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
 - [2021-04-03-git-仓库同步到坚果云上后损坏了](https://www.v2ex.com/t/767842) 
 - [2021-04-03-四川江苏移动到-github-的-cdn-也穿透到专线去了](https://www.v2ex.com/t/767841) 
 - [2021-04-03-两步变身-“老-GitHuber”，让你的提交记录从-1990-年开始](https://www.v2ex.com/t/767821) 
+- [2021-04-03-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) 
 - [2021-03-31-PHP官方Git服务器被黑,源码中被加入后门](https://sec.thief.one/article_content?a_id=8a667ca3d45025fa442b4527f0cc6ad1) 

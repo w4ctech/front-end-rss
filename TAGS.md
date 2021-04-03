@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-03 03:24:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 03:40:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -568,8 +568,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】全国｜新增确诊-26-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia8gHmp5S8PpDdK88I61T210403&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】云南｜新增本土确诊-7-例-无症状-5-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artig832sqpRzJwZi5UKdsbt210403&isfromapp=1)
 - [【Vue中文社区】知乎高赞：什么是前端工程化](https://www.ershicimi.com/p/95dc1d5aab227162cf90d4c038223397)
 - [【Vue中文社区】三流员工卖命，二流员工卖时间，一流员工.....](https://www.ershicimi.com/p/ea03866519aad71bf063c463e8ec67b5)
 - [【Vue中文社区】工资8000以下的人注意了！接下来要准备面对残酷现实了……](https://www.ershicimi.com/p/5b41713f8c640d8d42e39e7e113992a6)
@@ -588,6 +586,8 @@
 - [【React中文社区】来自蚂蚁金服的前端项目最佳实践](https://www.ershicimi.com/p/aae2f8cef34dd39021c9bd7050993a7c)
 - [【React中文社区】推荐几个公众号](https://www.ershicimi.com/p/a3828f970288d59160cda21828777128)
 - [【React中文社区】推荐几个公众号](https://www.ershicimi.com/p/126b6a8d127d2a6f3eb0af6fb8a72a45)
+- [【前端早读课】【图书】FFmpeg从入门到精通](https://www.ershicimi.com/p/cc855643ff3db6a5e83ee7a3dc91fca1)
+- [【前端早读课】【第2240期】大话年货节](https://www.ershicimi.com/p/bc9487ccc38dcdcfd73538eb8ff63fb1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

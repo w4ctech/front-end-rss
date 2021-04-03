@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-03 11:03:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 11:23:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -219,6 +219,7 @@
 - [【政采云前端团队】【Flutter-技能篇】你不得不会的状态管理-Provider](https://www.ershicimi.com/p/ce1e5ffc69f2c386ef1395d5f6babc71)
 - [【前端宇宙】Flutter-正在被悄悄放弃吗？](https://www.ershicimi.com/p/52b77614d14ad71ae268cccf7b6fad98)
 - [【V2EX】发现了一个解决-Flutter-嵌套过深的包](https://www.v2ex.com/t/767792)
+- [【技术头条】Flutter-2-重磅来袭，重大能力突破，好不惊喜！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14258&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4E9bEYWEEfnZRZH0yjXKVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -235,6 +236,7 @@
 
 
 
+- [【知乎日报】作为从业者，你对初入游戏行业的新人有哪些建议？](https://www.ershicimi.com/p/57e0214e66013c51f4efa198e2fd5dcb)
 - [【安全热点】【安全圈】世界级游戏外挂黑产被捣毁!江苏昆山警方抓获该组织核心...](https://sec.thief.one/article_content?a_id=7bca7d4364ed728926cb352678351972)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -459,6 +461,7 @@
 - [【前端大全】万字总结，体系化带你全面认识-Nginx-！](https://www.ershicimi.com/p/64bd089ff72e7d0383f28b50c41634ae)
 - [【InfoQ】绕过-Docker-，大规模杀死容器](https://www.ershicimi.com/p/eb6080746bd663e8ad8dc8f53403ab13)
 - [【InfoQ】GraphQL最突出的架构优势是什么？](https://www.ershicimi.com/p/5329bcc9a5987ff734a13b0af237d7eb)
+- [【V2EX】Nginx-可以对-Redis-集群做负载均衡吗？](https://www.v2ex.com/t/767825)
 - [【V2EX】nginx-会不会把下游的-tomcat-调挂掉](https://www.v2ex.com/t/767791)
 - [【安全热点】30个Docker镜像在加密劫持攻击中被下载2000万次](https://sec.thief.one/article_content?a_id=5179fd1194f000eb84b20e5141f46028)
 - [【安全热点】含有挖矿恶意软件的Docker-Hub映像文件被下载了2000万次](https://sec.thief.one/article_content?a_id=9709bcdc513d9d7ea2b01f98e8eb7a53)
@@ -589,12 +592,12 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】4月2日全国新增新冠26例-云南本土7例](https://m.caixin.com/m/2021-04-03/101685530.html)
+- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊90252例-累计接种新冠疫苗超1.33亿剂次](https://m.caixin.com/m/2021-04-03/101685698.html)
+- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超1.3亿-累计死亡超283万](http://m.international.caixin.com/m/2021-04-03/101685695.html)
 - [【武汉肺炎防疫全纪录(财新网)】4月2日云南新增本土确诊7例-无症状感染者5例](https://m.caixin.com/m/2021-04-03/101685501.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】云南瑞丽新增7例本土病例（4月2日）](http://m.database.caixin.com/m/2021-04-03/101685623.html)
 - [【武汉肺炎防疫全纪录(财新网)】德国允许混打疫苗-科兴称新冠疫苗年产能将达20亿剂丨大流行手记（4月2日）](https://m.caixin.com/m/2021-04-03/101685491.html)
 - [【武汉肺炎防疫全纪录(财新网)】聚焦|张文宏：近期瑞丽疫情透露的几个关键信息](http://m.opinion.caixin.com/m/2021-04-02/101685037.html)
-- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超1.29亿-累计死亡超282万](https://m.caixin.com/m/2021-04-02/101685247.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】云南瑞丽5地调整为中风险地区（4月1日）](http://m.database.caixin.com/m/2021-04-02/101685059.html)
 - [【武汉肺炎防疫全纪录(财新网)】新冠疫情中期全球将削减3%经济产出-法国第三次全国隔离丨大流行手记（4月1日）](https://m.caixin.com/m/2021-04-02/101684951.html)
 - [【武汉肺炎防疫全纪录(财新网)】瑞丽阳性病例再增7人-全市紧急接种新冠疫苗](https://m.caixin.com/m/2021-04-01/101684875.html)

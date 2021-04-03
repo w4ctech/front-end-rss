@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-03 08:53:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 09:03:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,8 @@
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2021-03-28-MySQL与Redis缓存的同步方案](https://www.ershicimi.com/p/3d59f463895db678220419fb9054d6cf) 
+- [2021-04-03-Chrome-保存密码安全吗？如何管理密码？](https://www.v2ex.com/t/767805) 
 - [2021-04-03-1password-和-Bitwarden-官方版哪个安全？](https://www.v2ex.com/t/767790) 
 - [2021-04-02-【安全圈】GitLab任意文件读取漏洞风险通告!-漏洞等级:严重!](https://sec.thief.one/article_content?a_id=eebec9647a0ad03669107850420ec1f6) 
 - [2021-04-02-中关村可信计算产业联盟金融安全专委会召开2021工作会议暨交流活动](https://sec.thief.one/article_content?a_id=4c448f1de0940182ec83396b6640648e) 

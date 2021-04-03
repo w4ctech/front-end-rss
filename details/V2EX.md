@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-03 18:18:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 18:44:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-03-总算搞定了](https://www.v2ex.com/t/767866) 
 - [2021-04-03-为啥没人提-Macbook-触控板的-Force-Touch？](https://www.v2ex.com/t/767864) 
 - [2021-04-03-C-紫禁城-Fork,-execvp-是个啥？好难找到资料啊](https://www.v2ex.com/t/767863) 
 - [2021-04-03-今天登陆网页版-apple-account，强制要求我改密码](https://www.v2ex.com/t/767862) 
@@ -40,4 +41,3 @@
 - [2021-04-03-两步变身-“老-GitHuber”，让你的提交记录从-1990-年开始](https://www.v2ex.com/t/767821) 
 - [2021-04-03-渲染数学-latex-公式有没有什么最最最极简的方法](https://www.v2ex.com/t/767820) 
 - [2021-04-03-Ubuntu-下，除了-imwheel-还有什么调节鼠标滚轮速度的方法？](https://www.v2ex.com/t/767819) 
-- [2021-04-03-准备换手机了，但看了半天感觉不知道买哪款比较好，大家有没有推荐的？](https://www.v2ex.com/t/767816) 

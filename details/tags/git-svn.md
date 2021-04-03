@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-03 19:24:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 19:36:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-26-第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e) 
 - [2021-04-03-git-仓库同步到坚果云上后损坏了](https://www.v2ex.com/t/767842) 
 - [2021-04-03-四川江苏移动到-github-的-cdn-也穿透到专线去了](https://www.v2ex.com/t/767841) 
 - [2021-04-03-两步变身-“老-GitHuber”，让你的提交记录从-1990-年开始](https://www.v2ex.com/t/767821) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-04 08:40:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-04 08:53:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -78,3 +78,4 @@
 - [2021-04-04-求一款手机音乐播放器-app-可以放完一首歌自动停止（无论这首歌多短）](https://www.v2ex.com/t/767921) 
 - [2021-04-04-android-一些的本地音乐播放器会显示相同的歌单-tag-列表，那这个歌单-tag-列表的数据在-android-的哪个文件夹里？](https://www.v2ex.com/t/767918) 
 - [2021-04-02-小豚AI摄像头的完整分析](https://sec.thief.one/article_content?a_id=e5d7b19a8c5d3d53cb86c0d51ec5be51) 
+- [2021-04-02-70元10个ID，全国数万家庭摄像头遭入侵，按刺激程度标价，物联网安全如此不堪一击？](https://www.ershicimi.com/p/c237e44d64b47701faf7049503a55c9e) 

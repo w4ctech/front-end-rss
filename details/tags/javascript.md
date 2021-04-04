@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-04 11:36:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-04 11:49:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -56,7 +56,7 @@
 - [2021-03-25-王一博、谭松韵相继终止合作，是时候讲讲新疆棉花事件背后的真相了](https://www.ershicimi.com/p/5fc4b43f5acbcbdf036fb9b2be7b2fcc) 
 - [2021-04-04-阿里云-HK-轻量改路由了吗？](https://www.v2ex.com/t/767951) 
 - [2021-04-04-有一个-NAS-需求，买啥-wifi-路由器好？能刷上系统的那种](https://www.v2ex.com/t/767944) 
-- [2021-04-04-求设备能收集叠加多路-Wi-Fi-信号以提高带宽，软路由能办到吗](https://www.v2ex.com/t/767928) 
+- [2021-04-04-JavaScript-奇葩知识大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14250&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVAzk0r95EAVho5jskcTc2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-03-BUF大事件丨16美元就可以打包带走所有短信;宏碁回应遭网络攻击](https://sec.thief.one/article_content?a_id=06bb45d333a48097cd308ca955265db9) 
 - [2021-04-01-【安全圈】Ubiquiti-被指控隐瞒数据泄漏事件](https://sec.thief.one/article_content?a_id=2137eb5e4096254acf01ea4c6c65b4c3) 
 - [2021-03-31-【漏洞更新】PHP代码被植入后门事件分析](https://sec.thief.one/article_content?a_id=64edc054312982b568a3575f95ab006f) 

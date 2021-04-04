@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-04 06:24:23，:rocket: 更新条数: +4120， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-04 06:40:48，:rocket: 更新条数: +4121， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,8 @@
 </summary>
 
 
+- [2021-04-04-云南｜新增确诊病例-10-例-无症状-1-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticrpwFnWe93muztCzqW5d210404&isfromapp=1) ![](assets/new.png)  
+- [2021-04-04-全国｜新增确诊病例-21-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDCCQE8poKIfQmU252ePo210404&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -934,6 +936,8 @@
 </summary>
 
 
+- [2021-04-04-几乎完美的多终端实时同步代码方案](https://www.v2ex.com/t/767924) ![](assets/new.png)  
+- [2021-04-04-如何减弱对面楼空调室外机的噪音](https://www.v2ex.com/t/767923) ![](assets/new.png)  
 - [2021-04-04-求一款手机音乐播放器-app-可以放完一首歌自动停止（无论这首歌多短）](https://www.v2ex.com/t/767921) ![](assets/new.png)  
 - [2021-04-04-京造-200-块的十合一的扩展坞连接普通-usb-键鼠总是断开](https://www.v2ex.com/t/767920) ![](assets/new.png)  
 - [2021-04-04-求问，跟集运公司起纠纷了，如何投诉比较好？](https://www.v2ex.com/t/767919) ![](assets/new.png)  
@@ -952,8 +956,6 @@
 - [2021-04-04-RoamEdit-最后一次永久会员活动](https://www.v2ex.com/t/767894) ![](assets/new.png)  
 - [2021-04-04-收台-iphone12，京东-128G6199，有更合适购入渠道嚒](https://www.v2ex.com/t/767893) ![](assets/new.png)  
 - [2021-04-04-edge-browser-for-Linux-现已支持登陆微软账号并进行同步](https://www.v2ex.com/t/767892) ![](assets/new.png)  
-- [2021-04-04-厦门招一个-PHP-+-Go-语言都会的和一个会-uni-app-的前端兼职合作](https://www.v2ex.com/t/767891) ![](assets/new.png)  
-- [2021-04-04-2200+,通勤-40-分钟，需要步行-1000m,2600+-通勤-30-分钟，怎么选择呢头疼](https://www.v2ex.com/t/767890) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1006,15 +1008,15 @@
 - [2021-04-04-对伪装-docx-文件病毒的逆向分析](https://toutiao.io/k/y9hd6ye) ![](assets/new.png)  
 - [2021-04-04-手把手教你玩转-Kubeflow-on-EKS（一）](https://toutiao.io/k/iz2m0c3) ![](assets/new.png)  
 - [2021-04-04-慌了，老大让我将线上的服务器升配，咋搞？](https://toutiao.io/k/vbtqxi7) ![](assets/new.png)  
-- [2021-04-04-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
-- [2021-04-04-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
-- [2021-04-04-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
-- [2021-04-04-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
-- [2021-04-04-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
-- [2021-04-04-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
-- [2021-04-04-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
-- [2021-04-04-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
 - [2021-04-04-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
+- [2021-04-04-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
+- [2021-04-04-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-04-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-04-推荐-架构实践全景图](https://toutiao.io/k/nu45i3g) ![](assets/new.png)  
+- [2021-04-04-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
+- [2021-04-04-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
+- [2021-04-04-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
+- [2021-04-04-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
 - [2021-04-04-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

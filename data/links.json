@@ -17375,7 +17375,18 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "云南｜新增确诊病例 10 例 无症状 1 例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticrpwFnWe93muztCzqW5d210404&isfromapp=1",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "全国｜新增确诊病例 21 例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDCCQE8poKIfQmU252ePo210404&isfromapp=1",
+        "date": "2021-04-04"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",
@@ -19876,6 +19887,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "几乎完美的多终端实时同步代码方案",
+        "link": "https://www.v2ex.com/t/767924",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "如何减弱对面楼空调室外机的噪音",
+        "link": "https://www.v2ex.com/t/767923",
+        "date": "2021-04-04"
+      },
+      {
         "title": "求一款手机音乐播放器 app 可以放完一首歌自动停止（无论这首歌多短）",
         "link": "https://www.v2ex.com/t/767921",
         "date": "2021-04-04"
@@ -20013,21 +20034,6 @@
       {
         "title": "前端开发岗的兄弟 你们是如何过渡到全栈的？",
         "link": "https://www.v2ex.com/t/767877",
-        "date": "2021-04-04"
-      },
-      {
-        "title": "求问 vscode 格式化 vue 代码的最佳姿势？",
-        "link": "https://www.v2ex.com/t/767876",
-        "date": "2021-04-04"
-      },
-      {
-        "title": "Firefox 的 logo 到底是小熊猫还是狐狸",
-        "link": "https://www.v2ex.com/t/767875",
-        "date": "2021-04-04"
-      },
-      {
-        "title": "用谷歌搜索的一个 api，结果提示 429 了，但是我并未使用。",
-        "link": "https://www.v2ex.com/t/767873",
         "date": "2021-04-04"
       }
     ]
@@ -20195,23 +20201,8 @@
         "date": "2021-04-04"
       },
       {
-        "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
-        "link": "https://toutiao.io/k/47wemjf",
-        "date": "2021-04-04"
-      },
-      {
-        "title": "[推荐] 这 30 个我精选的含答案的面试题，硬不硬你说吧",
-        "link": "https://toutiao.io/k/v9aar7o",
-        "date": "2021-04-04"
-      },
-      {
-        "title": "[推荐] Redis 分布式锁遇到的序列化问题",
-        "link": "https://toutiao.io/k/adg4qv6",
-        "date": "2021-04-04"
-      },
-      {
-        "title": "[推荐] 架构实践全景图",
-        "link": "https://toutiao.io/k/nu45i3g",
+        "title": "[推荐] 值得拥有的手绘风格画图工具",
+        "link": "https://toutiao.io/k/ukg83qx",
         "date": "2021-04-04"
       },
       {
@@ -20220,8 +20211,8 @@
         "date": "2021-04-04"
       },
       {
-        "title": "[推荐] 浅谈分库分表那些事儿",
-        "link": "https://toutiao.io/k/vulmd0h",
+        "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
+        "link": "https://toutiao.io/k/47wemjf",
         "date": "2021-04-04"
       },
       {
@@ -20230,18 +20221,23 @@
         "date": "2021-04-04"
       },
       {
+        "title": "[推荐] 架构实践全景图",
+        "link": "https://toutiao.io/k/nu45i3g",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "[推荐] 这 30 个我精选的含答案的面试题，硬不硬你说吧",
+        "link": "https://toutiao.io/k/v9aar7o",
+        "date": "2021-04-04"
+      },
+      {
         "title": "[推荐] GitHub 太慢？9 种方案可提速",
         "link": "https://toutiao.io/k/pufqjt0",
         "date": "2021-04-04"
       },
       {
-        "title": "[推荐] 值得拥有的手绘风格画图工具",
-        "link": "https://toutiao.io/k/ukg83qx",
-        "date": "2021-04-04"
-      },
-      {
-        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
-        "link": "https://toutiao.io/k/sso4l2l",
+        "title": "[推荐] Redis 分布式锁遇到的序列化问题",
+        "link": "https://toutiao.io/k/adg4qv6",
         "date": "2021-04-04"
       },
       {
@@ -20250,8 +20246,18 @@
         "date": "2021-04-04"
       },
       {
+        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
+        "link": "https://toutiao.io/k/sso4l2l",
+        "date": "2021-04-04"
+      },
+      {
         "title": "[推荐] 高并发下如何保证接口的幂等性？",
         "link": "https://toutiao.io/k/f0361xm",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "[推荐] 浅谈分库分表那些事儿",
+        "link": "https://toutiao.io/k/vulmd0h",
         "date": "2021-04-04"
       },
       {

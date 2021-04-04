@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-04 02:23:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-04 02:46:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,8 +28,6 @@
 - [2021-04-01-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/0f7831329d88ca1193fc9a243e19e7f8) 
 - [2021-03-25-【第2236期】CORS完全手册之收官篇](https://www.ershicimi.com/p/de6cd0154cf17a7354a47f1fc0a2dae4) 
 - [2021-03-24-【第2235期】CORS完全手冊之跨来源的安全性问题](https://www.ershicimi.com/p/966945a80f968595dd7608bd297c1bde) 
-- [2021-03-29-面试官：“说一下从-url-输入到返回请求的过程”](https://www.ershicimi.com/p/bffa0f4d837b8b08d223fb1db2e475df) 
-- [2021-03-28-反直觉！浏览器到底是如何下载资源的](https://www.ershicimi.com/p/1e8aa155aa1013fb7a508fa19dbabecb) 
 - [2021-03-31-前端工程师，一定要懂哪些浏览器原理？-|-活动推荐](https://www.ershicimi.com/p/bc317fcebdc5322bc77be7dc3e17f653) 
 - [2021-03-30-URL输入后按回车，浏览器内部究竟发生了什么](https://www.ershicimi.com/p/254b54b63be6e9a152b5fd123b894f27) 
 - [2021-03-09-那些与-IE-相伴的日子](https://www.ershicimi.com/p/d9c911d3c0835bf8f9743b70add1478c) 
@@ -39,7 +37,6 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-03-28-MySQL与Redis缓存的同步方案](https://www.ershicimi.com/p/3d59f463895db678220419fb9054d6cf) 
 - [2021-04-04-Firefox-的-logo-到底是小熊猫还是狐狸](https://www.v2ex.com/t/767875) 
-- [2021-04-04-百度说-Chrome-被金山收购了？](https://www.v2ex.com/t/767871) 
 - [2021-04-04-腾讯-Code-Review-规范出炉！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-03-在Z|南京证券、美柚高至42万/年诚招安全相关工程师](https://sec.thief.one/article_content?a_id=e57641b4620843c3cbd3648672da13fe) 
 - [2021-04-02-【安全圈】GitLab任意文件读取漏洞风险通告!-漏洞等级:严重!](https://sec.thief.one/article_content?a_id=eebec9647a0ad03669107850420ec1f6) 

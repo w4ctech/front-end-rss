@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-04 02:23:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-04 02:46:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -11,8 +11,6 @@
 - [2021-03-28-Vue-项目一些常见问题的解决方案](https://www.ershicimi.com/p/cbe4ba31e7803d5134c8bf98cf0b8afd) 
 - [2021-03-25-2小时搞定Vue-3：手写mini版Vue-+-核心原理解析](https://www.ershicimi.com/p/f9836c85ae27b9b7ea9c4cbedab72154) 
 - [2021-03-25-【开源】Fes.js-for-Vue3，简洁却不简单](https://www.ershicimi.com/p/3c7ad35d43505d5e9a01b4ea153964ef) 
-- [2021-04-01-Vue3.0-新特性以及使用经验总结](https://www.ershicimi.com/p/b32d3a034f807b81dfb74a2efb5db9eb) 
-- [2021-03-27-『前端优化』——-Vue中避免滥用this去读取data中数据](https://www.ershicimi.com/p/c15b5c6e5dba897ee5a1ff21396753c1) 
 - [2021-03-25-为什么-Vue3-选择了-CSS-变量](https://www.ershicimi.com/p/9477760464afd96eea8de8e5f1bd0a7d) 
 - [2020-06-17-视频蒋豪群聊聊Vue-3-周边项目](https://www.ershicimi.com/p/2a12d97dd7bb04af90078ddf2b9f196d) 
 - [2020-06-08-Vue3三连发，这期聊聊Vue-3周边项目](https://www.ershicimi.com/p/97695ac09543799ef0ccda9e2479572e) 

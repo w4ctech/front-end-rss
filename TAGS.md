@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-04 19:48:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-04 20:03:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -380,8 +380,6 @@
 - [【前端之巅】BFF模式：微服务前端数据加载的最佳实践？](https://www.ershicimi.com/p/bd1eeb255ae2709f93adde2775fa195b)
 - [【前端宇宙】8000字总结的前端性能优化](https://www.ershicimi.com/p/88c7daabed0083d1e6429537552ae971)
 - [【前端日刊】简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8)
-- [【互联网架构师】SQL-子查询怎么优化？写的很深！](https://www.ershicimi.com/p/b4cd000b13b723485a5f42ecc82ec1cb)
-- [【互联网架构师】Redis-性能优化思路，写的非常好！](https://www.ershicimi.com/p/b1e269b3d22fa92b191304c9fbb9b006)
 - [【InfoQ】BFF模式：微服务前端数据加载的最佳实践？](https://www.ershicimi.com/p/33e97c541667b3fad965b236896cce86)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -460,7 +458,6 @@
 
 - [【Vue中文社区】万字总结，体系化带你全面认识-Nginx-！](https://www.ershicimi.com/p/ae0edb1eb2dc845fd3f692b577313eb9)
 - [【前端大全】万字总结，体系化带你全面认识-Nginx-！](https://www.ershicimi.com/p/64bd089ff72e7d0383f28b50c41634ae)
-- [【互联网架构师】Nginx-除了负载均衡，还能做什么？](https://www.ershicimi.com/p/ab3b54ce794a5b27ab0cb54e6307c02f)
 - [【InfoQ】Pinterest-搜索系统实时化的挑战和建设实践](https://www.ershicimi.com/p/7cf36efd6f8a8c82f96ac5bd98aca71a)
 - [【InfoQ】绕过-Docker-，大规模杀死容器](https://www.ershicimi.com/p/eb6080746bd663e8ad8dc8f53403ab13)
 - [【V2EX】云原生-API-网关，-gRPC-Gateway-V2-初探&试玩](https://www.v2ex.com/t/768017)
@@ -483,7 +480,6 @@
 - [【Vue中文社区】程序员必备的-10-大-GitHub-仓库](https://www.ershicimi.com/p/7088808024a1735be5ada12606da31d9)
 - [【前端宇宙】收好这份-Git-应急手册，关键时刻可保你一命](https://www.ershicimi.com/p/d4a270b0eeb7795dbcdf57dde0e73bfe)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
-- [【互联网架构师】GitHub-近两万-Star，无需编码，可一键生成前后端代码，这个开源项目有点强！](https://www.ershicimi.com/p/2d2c523d0c86f510bed7ebdc4451dc44)
 - [【JavaScript】Git-for-Windows-2.31.1-发布](https://www.ershicimi.com/p/7717c10235a062fa587e74b38e727252)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)

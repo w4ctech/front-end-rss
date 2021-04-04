@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-04 04:04:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-04 04:24:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -7,7 +7,6 @@
 
 - [2021-04-04-为什么-up-主们流行吐字不清快速读出开场白？](https://www.v2ex.com/t/767902) 
 - [2021-04-04-chrome-棘手问题求解](https://www.v2ex.com/t/767901) 
-- [2021-04-04-阿区，季付-48（涨价了，懒得换区），五缺三，长期](https://www.v2ex.com/t/767898) 
 - [2021-04-04-m1-升级到-11.3-Beta-6-之后磁盘写入恢复正常](https://www.v2ex.com/t/767897) 
 - [2021-04-04-You-Get-常用功能集合](https://www.v2ex.com/t/767896) 
 - [2021-04-04-Mactex-2021-编译不了参考文献了](https://www.v2ex.com/t/767895) 
@@ -38,4 +37,3 @@
 - [2021-04-03-突然想换大屏，大家有没有推荐？](https://www.v2ex.com/t/767861) 
 - [2021-04-03-MacBookPro19-年-15-寸外接-Dell-U2720QM-显示器使用-c2c-线刷新率降低为-30Hz](https://www.v2ex.com/t/767859) 
 - [2021-04-03-M1-macOS-Big-Sur-11.3-Beta-6-20E5224a-禁止了自行安装的-iOS-应用？](https://www.v2ex.com/t/767858) 
-- [2021-04-03-你用-iPad-主要做什么？](https://www.v2ex.com/t/767856) 

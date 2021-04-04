@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-04 17:34:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-04 17:48:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -35,4 +35,3 @@
 - [2021-04-04-请教一个-STL-的问题](https://www.v2ex.com/t/767994) 
 - [2021-04-04-二手-MacBook-Pro-值多少钱？](https://www.v2ex.com/t/767993) 
 - [2021-04-04-Minecraft-基岩版账户错误，错误代码-9](https://www.v2ex.com/t/767992) 
-- [2021-04-04-也许是最后一次以程序员身份发帖](https://www.v2ex.com/t/767990) 

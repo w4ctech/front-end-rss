@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-04 12:57:17，:rocket: 更新条数: +149， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-04 13:09:55，:rocket: 更新条数: +169， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -55,7 +55,7 @@
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)  
+- [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -474,6 +474,9 @@
 </summary>
 
 
+- [2021-04-04-日经：考研-or-工作？纠结到崩溃](https://www.v2ex.com/t/767998) ![](assets/new.png)  
+- [2021-04-04-Go-之-WaitGroup-底层实现](https://www.v2ex.com/t/767996) ![](assets/new.png)  
+- [2021-04-04-gorm-扫描日期获取结果为零值](https://www.v2ex.com/t/767995) ![](assets/new.png)  
 - [2021-04-04-请教一个-STL-的问题](https://www.v2ex.com/t/767994) ![](assets/new.png)  
 - [2021-04-04-二手-MacBook-Pro-值多少钱？](https://www.v2ex.com/t/767993) ![](assets/new.png)  
 - [2021-04-04-Minecraft-基岩版账户错误，错误代码-9](https://www.v2ex.com/t/767992) ![](assets/new.png)  
@@ -491,9 +494,6 @@
 - [2021-04-04-win10-成功进化为桌面环境](https://www.v2ex.com/t/767975) ![](assets/new.png)  
 - [2021-04-04-如何优雅地存储像-BTC-数量这样的高精度浮点数？](https://www.v2ex.com/t/767974) ![](assets/new.png)  
 - [2021-04-04-罗技-k380-键盘，黑苹果休眠后经常连接不上](https://www.v2ex.com/t/767973) ![](assets/new.png)  
-- [2021-04-04-VSCode-自带的设置同步，配置被同步到了-github-的哪里？](https://www.v2ex.com/t/767972) ![](assets/new.png)  
-- [2021-04-04-腾讯微云-挟持用户数据-变相要钱-吃相难看](https://www.v2ex.com/t/767971) ![](assets/new.png)  
-- [2021-04-04-听说-M1-被破解了-硬盘和内存都可以第三方扩容？](https://www.v2ex.com/t/767969) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,6 +558,26 @@
 </summary>
 
 
+- [2021-04-03-工行/建行/农行/邮储/平安...当中国最“有财”的行业决心主动布局物联网](https://www.ershicimi.com/p/e82b122032f9cef661eff54eae85c109) ![](assets/new.png)  
+- [2021-04-03-【逛展】助力乡村振兴，智慧农业迎来百花齐放](https://www.ershicimi.com/p/50674b318a851897134bb1a576e2ca0e) ![](assets/new.png)  
+- [2021-04-02-70元10个ID，全国数万家庭摄像头遭入侵，按刺激程度标价，物联网安全如此不堪一击？](https://www.ershicimi.com/p/c237e44d64b47701faf7049503a55c9e) ![](assets/new.png)  
+- [2021-04-02-十四五规划明确5G普及率目标，模组/终端/运营商…如何落实产业应用？](https://www.ershicimi.com/p/4dc24620de12f7baf69c792fa2b42fd6) ![](assets/new.png)  
+- [2021-04-02-5G-2B一年感敢言](https://www.ershicimi.com/p/d7e65d518f5f3f0ee3d1af7bc7fb6d9f) ![](assets/new.png)  
+- [2021-04-01-年砸4000亿！智慧教育，到底有啥用？](https://www.ershicimi.com/p/1c7a05fc164af34987f8a11b16f5c9bf) ![](assets/new.png)  
+- [2021-04-01-重磅发布！这些集成电路企业免进口关税！](https://www.ershicimi.com/p/9a68a83e5b127260852f6fcf0ca8519a) ![](assets/new.png)  
+- [2021-03-31-营收8914亿！华为刚刚发布2020年财报：喜忧半掺，重压之下营收、利润双增长，但增速大幅放缓](https://www.ershicimi.com/p/127256bf14dc0526abcb542d98722e8d) ![](assets/new.png)  
+- [2021-03-31-2060年送你一片“绿水青山”，碳中和大目标下科技企业以身作则](https://www.ershicimi.com/p/cf60c61ba511a03a88d21f87fbb234fb) ![](assets/new.png)  
+- [2021-03-31-图解：5G毫米波峰值速率计算](https://www.ershicimi.com/p/76ccd78328e0878c0de750bee44792b1) ![](assets/new.png)  
+- [2021-03-30-雷军押上全部声誉：造车是人生最后一次重大创业！小米首款万元机都被抢戏了](https://www.ershicimi.com/p/6b70c16815e16e645be52fe342c05c5c) ![](assets/new.png)  
+- [2021-03-30-三天逛展，四场论坛，5G/工业互联网/物联网，你想知道的都在这里](https://www.ershicimi.com/p/6e907ce8246e2db945c8c08ed3bcb216) ![](assets/new.png)  
+- [2021-03-30-5G毫米波峰值速率，到底怎么算？](https://www.ershicimi.com/p/a323417554f24c55f48a750ee1bd830e) ![](assets/new.png)  
+- [2021-03-29-小米刚办了场“春晚”，发布一部安卓之光！一部安卓机皇！还有史上最强的小米手环6！](https://www.ershicimi.com/p/dc96da18f69598a391d5644966c2735c) ![](assets/new.png)  
+- [2021-03-29-彭瑜-|-IT与OT正在走向原生融合](https://www.ershicimi.com/p/caef581528276ef3cb8b5e9749407419) ![](assets/new.png)  
+- [2021-03-29-什么是紫领人才？中国制造业升级为何不能没有他们？](https://www.ershicimi.com/p/8a65260da07eaec75c99f03a85b95867) ![](assets/new.png)  
+- [2021-03-28-英特尔IDM2.0计划一箭三雕：迎合拜登政府政策，抢占全球缺芯市场，横夺台积电生意](https://www.ershicimi.com/p/1086e3743e11ffa7fcd41619f7d266e0) ![](assets/new.png)  
+- [2021-03-28-物联网投融资周报|百度昆仑芯片业务完成独立融资；FF再获近1亿美元债权融资；能链完成3亿美元融资；灵](https://www.ershicimi.com/p/4f3bada2f0160f3b0b146c481871f12e) ![](assets/new.png)  
+- [2021-03-28-三天逛展，四场论坛，5G/工业互联网/物联网，你想知道的都在这里](https://www.ershicimi.com/p/fc53f0ff90a93e7f0c7c62a0c7a84a17) ![](assets/new.png)  
+- [2021-03-27-匪夷所思！中国移动的物联网连接数竟下滑1100万，背后释放了什么信号？](https://www.ershicimi.com/p/6cc87156b9e2d2bbb5eefdd9abe7205c) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

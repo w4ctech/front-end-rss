@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-04 12:57:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-04 13:09:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -233,6 +233,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/)
 - [【安全热点】【视频】|-工控安全:市政行业工控网络安全解决方案](https://sec.thief.one/article_content?a_id=0bc681ab32a258d35c4bc3de6eda2c53)
 - [【安全热点】小豚AI摄像头的完整分析](https://sec.thief.one/article_content?a_id=e5d7b19a8c5d3d53cb86c0d51ec5be51)
+- [【物联网智库】70元10个ID，全国数万家庭摄像头遭入侵，按刺激程度标价，物联网安全如此不堪一击？](https://www.ershicimi.com/p/c237e44d64b47701faf7049503a55c9e)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -399,6 +400,9 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)
+- [【V2EX】日经：考研-or-工作？纠结到崩溃](https://www.v2ex.com/t/767998)
+- [【V2EX】Go-之-WaitGroup-底层实现](https://www.v2ex.com/t/767996)
+- [【V2EX】gorm-扫描日期获取结果为零值](https://www.v2ex.com/t/767995)
 - [【V2EX】请教一个-STL-的问题](https://www.v2ex.com/t/767994)
 - [【V2EX】二手-MacBook-Pro-值多少钱？](https://www.v2ex.com/t/767993)
 - [【V2EX】Minecraft-基岩版账户错误，错误代码-9](https://www.v2ex.com/t/767992)
@@ -412,9 +416,6 @@
 - [【V2EX】如何做到单卡手机不插主卡仍可以用主号通信？](https://www.v2ex.com/t/767979)
 - [【V2EX】Spotify-美区登录提示密码错误怎么办？](https://www.v2ex.com/t/767978)
 - [【V2EX】做开发这么多年，今天看到一个用户对软件的评价，很开心！](https://www.v2ex.com/t/767976)
-- [【V2EX】win10-成功进化为桌面环境](https://www.v2ex.com/t/767975)
-- [【V2EX】如何优雅地存储像-BTC-数量这样的高精度浮点数？](https://www.v2ex.com/t/767974)
-- [【V2EX】罗技-k380-键盘，黑苹果休眠后经常连接不上](https://www.v2ex.com/t/767973)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

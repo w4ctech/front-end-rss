@@ -288,6 +288,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "日经：考研 or 工作？纠结到崩溃",
+        "link": "https://www.v2ex.com/t/767998",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "Go 之 WaitGroup 底层实现",
+        "link": "https://www.v2ex.com/t/767996",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "gorm 扫描日期获取结果为零值",
+        "link": "https://www.v2ex.com/t/767995",
+        "date": "2021-04-04"
+      },
+      {
         "title": "请教一个 STL 的问题",
         "link": "https://www.v2ex.com/t/767994",
         "date": "2021-04-04"
@@ -450,21 +465,6 @@
       {
         "title": "关于课外辅导机构的一个疑问，想不明白特来问问",
         "link": "https://www.v2ex.com/t/767949",
-        "date": "2021-04-04"
-      },
-      {
-        "title": "使用 base64 展示 favicon 不知为什么显示不出来",
-        "link": "https://www.v2ex.com/t/767948",
-        "date": "2021-04-04"
-      },
-      {
-        "title": "Swift Package Manager 如何加速?",
-        "link": "https://www.v2ex.com/t/767946",
-        "date": "2021-04-04"
-      },
-      {
-        "title": "不开心， Lineage OS 18.1 不支持小米 6",
-        "link": "https://www.v2ex.com/t/767945",
         "date": "2021-04-04"
       }
     ]
@@ -991,7 +991,108 @@
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/PQDgZ2jW",
     "title": "物联网智库",
-    "link": "https://www.ershicimi.com/p",
-    "items": []
+    "link": "https://www.ershicimi.com/a/PQDgZ2jW",
+    "items": [
+      {
+        "title": "工行/建行/农行/邮储/平安...当中国最“有财”的行业决心主动布局物联网",
+        "link": "https://www.ershicimi.com/p/e82b122032f9cef661eff54eae85c109",
+        "date": "2021-04-03"
+      },
+      {
+        "title": "【逛展】助力乡村振兴，智慧农业迎来百花齐放",
+        "link": "https://www.ershicimi.com/p/50674b318a851897134bb1a576e2ca0e",
+        "date": "2021-04-03"
+      },
+      {
+        "title": "70元10个ID，全国数万家庭摄像头遭入侵，按刺激程度标价，物联网安全如此不堪一击？",
+        "link": "https://www.ershicimi.com/p/c237e44d64b47701faf7049503a55c9e",
+        "date": "2021-04-02"
+      },
+      {
+        "title": "十四五规划明确5G普及率目标，模组/终端/运营商…如何落实产业应用？",
+        "link": "https://www.ershicimi.com/p/4dc24620de12f7baf69c792fa2b42fd6",
+        "date": "2021-04-02"
+      },
+      {
+        "title": "5G 2B一年感(敢)言",
+        "link": "https://www.ershicimi.com/p/d7e65d518f5f3f0ee3d1af7bc7fb6d9f",
+        "date": "2021-04-02"
+      },
+      {
+        "title": "年砸4000亿！智慧教育，到底有啥用？",
+        "link": "https://www.ershicimi.com/p/1c7a05fc164af34987f8a11b16f5c9bf",
+        "date": "2021-04-01"
+      },
+      {
+        "title": "重磅发布！这些集成电路企业免进口关税！",
+        "link": "https://www.ershicimi.com/p/9a68a83e5b127260852f6fcf0ca8519a",
+        "date": "2021-04-01"
+      },
+      {
+        "title": "营收8914亿！华为刚刚发布2020年财报：喜忧半掺，重压之下营收、利润双增长，但增速大幅放缓",
+        "link": "https://www.ershicimi.com/p/127256bf14dc0526abcb542d98722e8d",
+        "date": "2021-03-31"
+      },
+      {
+        "title": "2060年送你一片“绿水青山”，碳中和大目标下科技企业以身作则",
+        "link": "https://www.ershicimi.com/p/cf60c61ba511a03a88d21f87fbb234fb",
+        "date": "2021-03-31"
+      },
+      {
+        "title": "图解：5G毫米波峰值速率计算",
+        "link": "https://www.ershicimi.com/p/76ccd78328e0878c0de750bee44792b1",
+        "date": "2021-03-31"
+      },
+      {
+        "title": "雷军押上全部声誉：造车是人生最后一次重大创业！小米首款万元机都被抢戏了",
+        "link": "https://www.ershicimi.com/p/6b70c16815e16e645be52fe342c05c5c",
+        "date": "2021-03-30"
+      },
+      {
+        "title": "三天逛展，四场论坛，5G/工业互联网/物联网，你想知道的都在这里",
+        "link": "https://www.ershicimi.com/p/6e907ce8246e2db945c8c08ed3bcb216",
+        "date": "2021-03-30"
+      },
+      {
+        "title": "5G毫米波峰值速率，到底怎么算？",
+        "link": "https://www.ershicimi.com/p/a323417554f24c55f48a750ee1bd830e",
+        "date": "2021-03-30"
+      },
+      {
+        "title": "小米刚办了场“春晚”，发布一部安卓之光！一部安卓机皇！还有史上最强的小米手环6！",
+        "link": "https://www.ershicimi.com/p/dc96da18f69598a391d5644966c2735c",
+        "date": "2021-03-29"
+      },
+      {
+        "title": "彭瑜 | IT与OT正在走向原生融合",
+        "link": "https://www.ershicimi.com/p/caef581528276ef3cb8b5e9749407419",
+        "date": "2021-03-29"
+      },
+      {
+        "title": "什么是紫领人才？中国制造业升级为何不能没有他们？",
+        "link": "https://www.ershicimi.com/p/8a65260da07eaec75c99f03a85b95867",
+        "date": "2021-03-29"
+      },
+      {
+        "title": "英特尔IDM2.0计划一箭三雕：迎合拜登政府政策，抢占全球缺芯市场，横夺台积电生意",
+        "link": "https://www.ershicimi.com/p/1086e3743e11ffa7fcd41619f7d266e0",
+        "date": "2021-03-28"
+      },
+      {
+        "title": "物联网投融资周报|百度昆仑芯片业务完成独立融资；FF再获近1亿美元债权融资；能链完成3亿美元融资；灵",
+        "link": "https://www.ershicimi.com/p/4f3bada2f0160f3b0b146c481871f12e",
+        "date": "2021-03-28"
+      },
+      {
+        "title": "三天逛展，四场论坛，5G/工业互联网/物联网，你想知道的都在这里",
+        "link": "https://www.ershicimi.com/p/fc53f0ff90a93e7f0c7c62a0c7a84a17",
+        "date": "2021-03-28"
+      },
+      {
+        "title": "匪夷所思！中国移动的物联网连接数竟下滑1100万，背后释放了什么信号？",
+        "link": "https://www.ershicimi.com/p/6cc87156b9e2d2bbb5eefdd9abe7205c",
+        "date": "2021-03-27"
+      }
+    ]
   }
 ]

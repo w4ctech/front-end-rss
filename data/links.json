@@ -18995,7 +18995,108 @@
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/6210",
     "title": "奇舞周刊",
     "link": "https://www.ershicimi.com/a/6210",
-    "items": []
+    "items": [
+      {
+        "title": "现代前端工程化-基于 Monorepo 的 lerna",
+        "link": "https://www.ershicimi.com/p/911fea5b6d4bbb83cde1c9a001f6f2a0",
+        "date": "2021-03-31"
+      },
+      {
+        "title": "奇舞团，岗位多，机会好，快点来！",
+        "link": "https://www.ershicimi.com/p/72af893488bade3c596d14789bd350b0",
+        "date": "2021-03-31"
+      },
+      {
+        "title": "Vue3.0 新特性以及使用变更总结(实际工作用到的)",
+        "link": "https://www.ershicimi.com/p/5c9840666679ec673ebc58e8934f8456",
+        "date": "2021-03-30"
+      },
+      {
+        "title": "奇舞团，岗位多，机会好，快点来！",
+        "link": "https://www.ershicimi.com/p/45275f6605e4103ff21feee6cf9ec1b9",
+        "date": "2021-03-30"
+      },
+      {
+        "title": "奇舞周刊第 390 期:仅使用 CSS 提高页面渲染速度",
+        "link": "https://www.ershicimi.com/p/db30b5d3af95d755b824d03ea832f560",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "HTML标签之  与",
+        "link": "https://www.ershicimi.com/p/9137ac615535fc616ea9c443eb58b1c2",
+        "date": "2021-03-24"
+      },
+      {
+        "title": "奇舞团，岗位多，机会好，快点来！",
+        "link": "https://www.ershicimi.com/p/a0946e12fbdb9f02fac51b3cf6fd7401",
+        "date": "2021-03-24"
+      },
+      {
+        "title": "一道面试题让你更加了解事件队列",
+        "link": "https://www.ershicimi.com/p/9164c8331ace11df525b236cca2d21c2",
+        "date": "2021-03-23"
+      },
+      {
+        "title": "奇舞团，岗位多，机会好，快点来！",
+        "link": "https://www.ershicimi.com/p/9943a1790511e5ed85d5257616c0fe8a",
+        "date": "2021-03-23"
+      },
+      {
+        "title": "有意思！奇妙的 CSS shapes(CSS图形)",
+        "link": "https://www.ershicimi.com/p/5c0b973327976e2292be4918e05f9026",
+        "date": "2021-03-22"
+      },
+      {
+        "title": "奇舞团，岗位多，机会好，快点来！",
+        "link": "https://www.ershicimi.com/p/f8cc7da99e4fbb91c6bfb8bc1f1c78d2",
+        "date": "2021-03-22"
+      },
+      {
+        "title": "奇舞周刊第 389 期：深入剖析 QuickJS",
+        "link": "https://www.ershicimi.com/p/12e31129357ed9d62a8c995f4569b946",
+        "date": "2021-03-19"
+      },
+      {
+        "title": "「react进阶」一文吃透React高阶组件(HOC)",
+        "link": "https://www.ershicimi.com/p/bc882096cb903689c2d878ac25e0baaa",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "奇舞团，岗位多，机会好，快点来！",
+        "link": "https://www.ershicimi.com/p/b6a0db93823ba7b8096e2a26de8e4127",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "多金的ToG项目总结——数字人民币",
+        "link": "https://www.ershicimi.com/p/c51036cd4a604de22f3a34593e619166",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "奇舞团，岗位多，机会好，快点来！",
+        "link": "https://www.ershicimi.com/p/3c6521d60410837322e397bb19db828b",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "Babel原理",
+        "link": "https://www.ershicimi.com/p/e7256e36feb00d9e9702f77e3fb8b975",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "奇舞团，岗位多，机会好，快点来！",
+        "link": "https://www.ershicimi.com/p/179b048412fff52b7a4c250099f6eb83",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "使用JavaScript开发一个Photoshop插件",
+        "link": "https://www.ershicimi.com/p/9aea155c7eaec3bb97e0bb6f4c430bac",
+        "date": "2021-03-15"
+      },
+      {
+        "title": "奇舞团，岗位多，机会好，快点来！",
+        "link": "https://www.ershicimi.com/p/1f867372d18e8272e51b5acb87248010",
+        "date": "2021-03-15"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/5762",
@@ -19429,7 +19530,108 @@
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/893",
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
-    "items": []
+    "items": [
+      {
+        "title": "Vue 3 计划放弃支持 IE11",
+        "link": "https://www.ershicimi.com/p/84c1b75d51880846b27907becd2c629a",
+        "date": "2021-04-03"
+      },
+      {
+        "title": "Visual Studio Code 1.55 发布",
+        "link": "https://www.ershicimi.com/p/60f661503a08556f36055d40a3f1e6b1",
+        "date": "2021-04-02"
+      },
+      {
+        "title": "Vue3 和 React17 ，你选谁？",
+        "link": "https://www.ershicimi.com/p/5201768cad7e8d137e8170250acd1b4b",
+        "date": "2021-04-01"
+      },
+      {
+        "title": "金三银四想要通过跳槽涨薪，先看看这",
+        "link": "https://www.ershicimi.com/p/bd5ea225f3cf9c294301a6edc46a13c4",
+        "date": "2021-03-31"
+      },
+      {
+        "title": "Git for Windows 2.31.1 发布",
+        "link": "https://www.ershicimi.com/p/7717c10235a062fa587e74b38e727252",
+        "date": "2021-03-30"
+      },
+      {
+        "title": "2021年提升效率的7个新vue实战技巧！",
+        "link": "https://www.ershicimi.com/p/a141a5c5a9a8d3c8caa267f37d911011",
+        "date": "2021-03-29"
+      },
+      {
+        "title": "TypeScript 手册【重制版】",
+        "link": "https://www.ershicimi.com/p/512f23a38cacd2115cb5ef5994d217ae",
+        "date": "2021-03-28"
+      },
+      {
+        "title": "webpack v5.28.0 发布",
+        "link": "https://www.ershicimi.com/p/582b912fa8802e914a141c1683037942",
+        "date": "2021-03-27"
+      },
+      {
+        "title": "Socket.io 4.0.0 发布",
+        "link": "https://www.ershicimi.com/p/2e81ec50e051d7860f3242eb86e1394c",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "关于Vue 3核心原理问题，一次解决",
+        "link": "https://www.ershicimi.com/p/9851a2f2a13411f0cff99cdec7a7b4fd",
+        "date": "2021-03-25"
+      },
+      {
+        "title": "字节跳动高频100道核心前端面试题解析",
+        "link": "https://www.ershicimi.com/p/bd6c66f84e2c88714b5520bdbd5e1927",
+        "date": "2021-03-24"
+      },
+      {
+        "title": "WebStorm 2020.3.3 发布",
+        "link": "https://www.ershicimi.com/p/88e1bcb5fee8b28682e9c89e35f2bfd4",
+        "date": "2021-03-23"
+      },
+      {
+        "title": "前端人，要“凉”了",
+        "link": "https://www.ershicimi.com/p/93e49cec3e92d2442b11203f984bddad",
+        "date": "2021-03-22"
+      },
+      {
+        "title": "Node.js 15.12.0 正式发布",
+        "link": "https://www.ershicimi.com/p/1d2fa3fcba57fac3544a88b1aeadb39c",
+        "date": "2021-03-21"
+      },
+      {
+        "title": "V8（JavaScript 引擎） v9.0 发布",
+        "link": "https://www.ershicimi.com/p/a5db8fc9ede3ed3f2bb4d3986abc0ab9",
+        "date": "2021-03-20"
+      },
+      {
+        "title": "周五了，随机送书，每个6本，共12本",
+        "link": "https://www.ershicimi.com/p/ad8d24088122eecdfc362ec6cba6e8a7",
+        "date": "2021-03-19"
+      },
+      {
+        "title": "Vue3.0 PK React17 ，谁胜?",
+        "link": "https://www.ershicimi.com/p/8c26ee1fb7b2b09e2bc0e1825cd88896",
+        "date": "2021-03-18"
+      },
+      {
+        "title": "ECMAScript®2021 语言规范",
+        "link": "https://www.ershicimi.com/p/3bb5d916ce0142153d089cecb55f1388",
+        "date": "2021-03-17"
+      },
+      {
+        "title": "Electron 12.0.0 发布",
+        "link": "https://www.ershicimi.com/p/bef6042bbb6ec69205f21a0b3222869f",
+        "date": "2021-03-16"
+      },
+      {
+        "title": "2021年JavaScript的发展前景",
+        "link": "https://www.ershicimi.com/p/8f16bb3a0a080486055521f9197b341f",
+        "date": "2021-03-15"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/juejin/category/frontend",
@@ -19669,6 +19871,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "领导和我谈话，给我一个本公司技术负责人方向，我该如何规划？",
+        "link": "https://www.v2ex.com/t/767885",
+        "date": "2021-04-04"
+      },
+      {
         "title": "如何实现允许访客网络访问特定内网设备？",
         "link": "https://www.v2ex.com/t/767884",
         "date": "2021-04-04"
@@ -19827,11 +20034,6 @@
         "title": "大家的北京移动是 NAT 几？",
         "link": "https://www.v2ex.com/t/767836",
         "date": "2021-04-03"
-      },
-      {
-        "title": "[已解决] 如何在 Spring 框架中使用 AspectJ 进行加载时编织？",
-        "link": "https://www.v2ex.com/t/767835",
-        "date": "2021-04-03"
       }
     ]
   },
@@ -19839,7 +20041,108 @@
     "rss": "https://front-rss.herokuapp.com/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "Flutter 2 重磅来袭，重大能力突破，好不惊喜！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14258&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4E9bEYWEEfnZRZH0yjXKVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "优酷 iOS 插件化页面架构方法 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14257&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fu0JwZkydMZJMRrmXEKLazw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "这也行？iOS 后台锁屏监听摇一摇 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14256&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQLgNhBJh0QpKaQWf07rBtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "摆脱 Android 和 iOS：七款免费开源移动操作系统的尝试 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14255&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHjVrXu8feUtapaEe4-bAQw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "4 个色情网站被一锅端，9 名福利姬被刑拘！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14254&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3ztxZ6y15nXSeHhqLyssPA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "必须知道的 11 个微前端框架 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14253&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fo9ZAzI5TFc434h-v3nRJEQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "腾讯 Code Review 规范出炉！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "色情版“微信”背后的秘密，太可怕了~ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14251&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwclp7RpOv8Jcyqv5GS6btw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "JavaScript 奇葩知识大全 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14250&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVAzk0r95EAVho5jskcTc2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "Windows 10 2009 官方光盘映像下载 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14249&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwQtknMQFaBr_UsRvkpWpQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "Deno 如何同步获取指定目录下所有文件？ (www.jeffjade.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14248&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F03%2F01%2F186-nodejs-how-to-get-all-files-in-a-dir-sync%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "优质网站同好者周刊（第 6 期）- 倾城之链 (www.jeffjade.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14247&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F03%2F25%2F190-nicelinks-weekly-006%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "如何基于 Flarum 搭建一个优雅简洁论坛？ (www.jeffjade.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14246&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F03%2F22%2F189-how-to-install-flarum-based-on-docker%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "如何购买一本书？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14245&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-buy-a-book%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "强化学习入门——说到底研究的是如何学习 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14244&url=https%3A%2F%2Finsights.thoughtworks.cn%2Freinforcement-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "【白话科普】聊聊 DNS 的那些小知识 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14243&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F359735158%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "从经济学角度，看多抓鱼的创新 (feimiaomiao.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14242&url=https%3A%2F%2Ffeimiaomiao.com%2Fhangye%2F4660%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "我成长最快的那五年 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14241&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtBu9_6wI7nX1mVTz0rQ3cA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "营销有病，文案有药吗？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14240&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcyEss2y0TTUlzsqnrdXDaA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "原生 Android 集成 React Native (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14239&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZHAIq6gKvzQbLrceCNA7gQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-04"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
@@ -19877,13 +20180,13 @@
         "date": "2021-04-04"
       },
       {
-        "title": "对伪装 docx 文件病毒的逆向分析",
-        "link": "https://toutiao.io/k/y9hd6ye",
+        "title": "关于写文章的一点经验",
+        "link": "https://toutiao.io/k/fi1bz28",
         "date": "2021-04-04"
       },
       {
-        "title": "关于写文章的一点经验",
-        "link": "https://toutiao.io/k/fi1bz28",
+        "title": "对伪装 docx 文件病毒的逆向分析",
+        "link": "https://toutiao.io/k/y9hd6ye",
         "date": "2021-04-04"
       },
       {
@@ -19897,33 +20200,8 @@
         "date": "2021-04-04"
       },
       {
-        "title": "[推荐] 架构实践全景图",
-        "link": "https://toutiao.io/k/nu45i3g",
-        "date": "2021-04-04"
-      },
-      {
-        "title": "[推荐] 这 30 个我精选的含答案的面试题，硬不硬你说吧",
-        "link": "https://toutiao.io/k/v9aar7o",
-        "date": "2021-04-04"
-      },
-      {
-        "title": "[推荐] 书单：互联网企业面试案头书之架构师篇",
-        "link": "https://toutiao.io/k/mvtejua",
-        "date": "2021-04-04"
-      },
-      {
         "title": "[推荐] Redis 分布式锁遇到的序列化问题",
         "link": "https://toutiao.io/k/adg4qv6",
-        "date": "2021-04-04"
-      },
-      {
-        "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
-        "link": "https://toutiao.io/k/47wemjf",
-        "date": "2021-04-04"
-      },
-      {
-        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
-        "link": "https://toutiao.io/k/sso4l2l",
         "date": "2021-04-04"
       },
       {
@@ -19932,13 +20210,23 @@
         "date": "2021-04-04"
       },
       {
-        "title": "[推荐] 高并发下如何保证接口的幂等性？",
-        "link": "https://toutiao.io/k/f0361xm",
+        "title": "[推荐] 万字详解整个数据仓库建设体系",
+        "link": "https://toutiao.io/k/ny7vvdw",
         "date": "2021-04-04"
       },
       {
-        "title": "[推荐] Spring Boot 中优雅的使用 Swagger 2（史上最全注解篇）",
-        "link": "https://toutiao.io/k/2qkwu5f",
+        "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
+        "link": "https://toutiao.io/k/47wemjf",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "[推荐] 书单：互联网企业面试案头书之架构师篇",
+        "link": "https://toutiao.io/k/mvtejua",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
+        "link": "https://toutiao.io/k/sso4l2l",
         "date": "2021-04-04"
       },
       {
@@ -19947,18 +20235,33 @@
         "date": "2021-04-04"
       },
       {
+        "title": "[推荐] GitHub 太慢？9 种方案可提速",
+        "link": "https://toutiao.io/k/pufqjt0",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "[推荐] 高并发下如何保证接口的幂等性？",
+        "link": "https://toutiao.io/k/f0361xm",
+        "date": "2021-04-04"
+      },
+      {
+        "title": "[推荐] 架构实践全景图",
+        "link": "https://toutiao.io/k/nu45i3g",
+        "date": "2021-04-04"
+      },
+      {
         "title": "[推荐] 浅谈分库分表那些事儿",
         "link": "https://toutiao.io/k/vulmd0h",
         "date": "2021-04-04"
       },
       {
-        "title": "[推荐] 万字详解整个数据仓库建设体系",
-        "link": "https://toutiao.io/k/ny7vvdw",
+        "title": "[推荐] Spring Boot 中优雅的使用 Swagger 2（史上最全注解篇）",
+        "link": "https://toutiao.io/k/2qkwu5f",
         "date": "2021-04-04"
       },
       {
-        "title": "[推荐] GitHub 太慢？9 种方案可提速",
-        "link": "https://toutiao.io/k/pufqjt0",
+        "title": "[推荐] 这 30 个我精选的含答案的面试题，硬不硬你说吧",
+        "link": "https://toutiao.io/k/v9aar7o",
         "date": "2021-04-04"
       }
     ]

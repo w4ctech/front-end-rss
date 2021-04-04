@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-04 01:55:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-04 02:23:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -15,6 +15,5 @@
 - [2020-12-28-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8) 
 - [2021-03-31-Redis-性能优化思路，写的非常好！](https://www.ershicimi.com/p/b1e269b3d22fa92b191304c9fbb9b006) 
 - [2021-04-02-BFF模式：微服务前端数据加载的最佳实践？](https://www.ershicimi.com/p/33e97c541667b3fad965b236896cce86) 
-- [2021-04-03-已解决-如何在-Spring-框架中使用-AspectJ-进行加载时编织？](https://www.v2ex.com/t/767835) 
 - [2021-03-31-底层I/O性能大PK:Python/Java被碾压,Rust有望取代C++](https://sec.thief.one/article_content?a_id=2268c6df0a82a23b5b5af0269079825c) 
 - [2021-03-26-中国信通院：发挥5G-SA性能优势需端网协同](https://www.ershicimi.com/p/aad3e6c1c827f6284a4b9577648a8317) 

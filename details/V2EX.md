@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-04 10:39:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-04 10:52:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-04-开发如何转测开？](https://www.v2ex.com/t/767965) 
 - [2021-04-04-海外远程澳大利亚创业公司招聘远程-Web-工程师](https://www.v2ex.com/t/767963) 
 - [2021-04-04-iPhone-大量自定义短语无法彻底删除](https://www.v2ex.com/t/767962) 
 - [2021-04-04-Java-project-怎么-debug-进-kotlin-写的-jar-里？](https://www.v2ex.com/t/767960) 
@@ -36,5 +37,3 @@
 - [2021-04-04-求问，跟集运公司起纠纷了，如何投诉比较好？](https://www.v2ex.com/t/767919) 
 - [2021-04-04-android-一些的本地音乐播放器会显示相同的歌单-tag-列表，那这个歌单-tag-列表的数据在-android-的哪个文件夹里？](https://www.v2ex.com/t/767918) 
 - [2021-04-04-豆瓣移动网页版的域名-m.douban.com-在墙外解析的结果显示遭到了-dns-投毒污染](https://www.v2ex.com/t/767917) 
-- [2021-04-04-工作两年该不该去创业公司？](https://www.v2ex.com/t/767915) 
-- [2021-04-04-有线键盘转无线一般怎么操作](https://www.v2ex.com/t/767914) 

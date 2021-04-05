@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-05 18:44:58，:rocket: 更新条数: +4149， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-05 18:59:27，:rocket: 更新条数: +4149， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -956,6 +956,7 @@
 </summary>
 
 
+- [2021-04-05-诸位-Pixel5-的使用者有遇到掉-drm-的情况吗](https://www.v2ex.com/t/768218) ![](assets/new.png)  
 - [2021-04-05-有没有魔都的老铁愿意置换主板？](https://www.v2ex.com/t/768217) ![](assets/new.png)  
 - [2021-04-05-单线复用-VLAN-问题求助](https://www.v2ex.com/t/768215) ![](assets/new.png)  
 - [2021-04-05-Google-和-Oracle-的官司终于打完了](https://www.v2ex.com/t/768214) ![](assets/new.png)  
@@ -975,7 +976,6 @@
 - [2021-04-05-开源的-Nintendo-Switch-模拟器每当看到这样的项目就很羡慕](https://www.v2ex.com/t/768192) ![](assets/new.png)  
 - [2021-04-05-iOS-原生输入法如何实现-Android-上的-Gboard-的功能](https://www.v2ex.com/t/768190) ![](assets/new.png)  
 - [2021-04-05-令人绝望的-Android-后退、主页、多任务-Navbar-设计](https://www.v2ex.com/t/768188) ![](assets/new.png)  
-- [2021-04-05-leetcode-cn-的会员定价真套路](https://www.v2ex.com/t/768185) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1028,16 +1028,16 @@
 - [2021-04-05-如何教机器学会原研哉的设计理念](https://toutiao.io/k/jmr0ahc) ![](assets/new.png)  
 - [2021-04-05-​朝鲜都有-“红星-OS”，为何中国还没有自主研发的操作系统？](https://toutiao.io/k/adrwq5t) ![](assets/new.png)  
 - [2021-04-05-漫画｜程序员：大师，Java-真的不行了吗？](https://toutiao.io/k/ixl3bng) ![](assets/new.png)  
+- [2021-04-05-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-05-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
+- [2021-04-05-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-05-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
 - [2021-04-05-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
 - [2021-04-05-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
 - [2021-04-05-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
 - [2021-04-05-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
-- [2021-04-05-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
-- [2021-04-05-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-05-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
-- [2021-04-05-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-05-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
 - [2021-04-05-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
-- [2021-04-05-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

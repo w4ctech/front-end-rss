@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-04-05 12:03:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-05 12:24:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-05-关于解决-ios14-杀后台的不完全办法](https://www.v2ex.com/t/768162) 
+- [2021-04-05-买台二手-pixel-备份谷歌相册可行吗？](https://www.v2ex.com/t/768161) 
+- [2021-04-05-中国移动的号码收不到-wordpress-的验证码](https://www.v2ex.com/t/768159) 
+- [2021-04-05-送码-主题的帖子总是能登陆-今日热议主题](https://www.v2ex.com/t/768158) 
 - [2021-04-05-Linux-内核页面置换算法的新动向你怎么看？](https://www.v2ex.com/t/768155) 
 - [2021-04-05-宁波/杭州-3-年在职前端开发-寻找更好的机会](https://www.v2ex.com/t/768153) 
 - [2021-04-05-win10-触控板点击会变成拖拽](https://www.v2ex.com/t/768152) 
@@ -35,5 +39,3 @@
 - [2021-04-05-寻找-web-前端/全栈-小伙伴-回报不会让你失望](https://www.v2ex.com/t/768121) 
 - [2021-04-05-由垃圾短信想到的问题。](https://www.v2ex.com/t/768115) 
 - [2021-04-05-ActionView-v1.12.3-release---Similar-to-Jira](https://www.v2ex.com/t/768114) 
-- [2021-04-05-2021-Flutter-Engage-China-参会总结](https://www.v2ex.com/t/768109) 
-- [2021-04-05-想用-5-年左右，主要就办公剪视频，买-512G-还是-1T？](https://www.v2ex.com/t/768108) 

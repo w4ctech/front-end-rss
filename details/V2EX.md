@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-05 00:47:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-05 01:27:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-05-NUC8-黑苹果外接-4k-显示器屏闪](https://www.v2ex.com/t/768053) 
+- [2021-04-05-想给妈妈买一台-iPad-Mini-看电视剧，这个月会更新-iPad-Mini-吗](https://www.v2ex.com/t/768052) 
 - [2021-04-05-寻一个有分词符的输入法，-xi'an-人表示很难受](https://www.v2ex.com/t/768050) 
 - [2021-04-05-win10-昨晚更新后今天启动不了了……](https://www.v2ex.com/t/768049) 
 - [2021-04-04-清明节，你想到哪首诗？](https://www.v2ex.com/t/768048) 

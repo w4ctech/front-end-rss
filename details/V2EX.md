@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-05 13:52:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-05 14:03:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2021-04-05-sklearn-knn-能不能判断已知类别外的其他类别？](https://www.v2ex.com/t/768139) 
 - [2021-04-05-win10、deepin-和-mac-共存，能直接在-deepin-上读写-mac-上的文件吗](https://www.v2ex.com/t/768138) 
 - [2021-04-05-有人去在深圳的苹果直营店验机吗？](https://www.v2ex.com/t/768137) 
-- [2021-04-05-V2EX-在（摸）线（鱼）人数记录](https://www.v2ex.com/t/768136) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-05 08:03:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-05 08:24:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-05-寻找-web-前端/全栈-小伙伴-回报不会让你失望](https://www.v2ex.com/t/768121) 
 - [2021-04-05-由垃圾短信想到的问题。](https://www.v2ex.com/t/768115) 
 - [2021-04-05-ActionView-v1.12.3-release---Similar-to-Jira](https://www.v2ex.com/t/768114) 
 - [2021-04-05-2021-Flutter-Engage-China-参会总结](https://www.v2ex.com/t/768109) 
@@ -33,5 +34,3 @@
 - [2021-04-05-21-届-Java-岗一枚，希望大家有好的校招岗位推荐，简历有问题可以指正！](https://www.v2ex.com/t/768076) 
 - [2021-04-05-我的薪酬分享网站用-match-sorter-增加了-fuzzy-search！](https://www.v2ex.com/t/768075) 
 - [2021-04-05-大家-30-岁会转行吗-？？有没有成功案例，分享一下](https://www.v2ex.com/t/768074) 
-- [2021-04-05-目前在北京工作，外省到北京做手术可以一部分报销吗？](https://www.v2ex.com/t/768072) 
-- [2021-04-05-每月工资到手只有-11K，感觉在北京没法活了](https://www.v2ex.com/t/768071) 

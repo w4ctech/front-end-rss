@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-05 10:02:55，:rocket: 更新条数: +4143， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-05 10:23:56，:rocket: 更新条数: +4146， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,11 +65,11 @@
 </summary>
 
 
-- [2021-04-05-4月4日全国新增新冠32例-本土15例均在云南瑞丽](https://m.caixin.com/m/2021-04-05/101685803.html) ![](assets/new.png)  
+- [2021-04-05-最新海外疫情：新冠感染超1.31亿-累计死亡超284万](https://m.caixin.com/m/2021-04-05/101685843.html) ![](assets/new.png)  
+- [2021-04-05-最新疫情：全国新冠累计确诊90305例-累计接种新冠疫苗近1.4亿剂次](https://m.caixin.com/m/2021-04-05/101685841.html) ![](assets/new.png)  
 - [2021-04-05-云南瑞丽4月4日新增新冠确诊病例15例-无症状感染者5例](https://m.caixin.com/m/2021-04-05/101685796.html) ![](assets/new.png)  
 - [2021-04-05-【境内疫情观察】云南瑞丽新增15例本土病例（4月4日）](http://m.database.caixin.com/m/2021-04-05/101685814.html) ![](assets/new.png)  
 - [2021-04-05-多地试行公共活动疫苗护照-印度新冠疫情急速恶化｜大流行手记（4月4日）](https://m.caixin.com/m/2021-04-05/101685810.html) ![](assets/new.png)  
-- [2021-04-04-最新海外疫情：新冠感染超1.3亿-累计死亡超284万](https://m.caixin.com/m/2021-04-04/101685786.html) ![](assets/new.png)  
 - [2021-04-04-【境内疫情观察】云南新增10例本土病例和1例无症状感染者（4月3日）](http://m.database.caixin.com/m/2021-04-04/101685756.html) ![](assets/new.png)  
 - [2021-04-04-阿根廷总统接种后感染新冠-国药疫苗获欧盟GMP认证｜大流行手记（4月3日）](https://m.caixin.com/m/2021-04-04/101685736.html) ![](assets/new.png)  
 - [2021-04-03-4月2日云南新增本土确诊7例-无症状感染者5例](https://m.caixin.com/m/2021-04-03/101685501.html) ![](assets/new.png)  
@@ -956,6 +956,11 @@
 </summary>
 
 
+- [2021-04-05-sklearn-knn-能不能判断已知类别外的其他类别？](https://www.v2ex.com/t/768139) ![](assets/new.png)  
+- [2021-04-05-win10、deepin-和-mac-共存，能直接在-deepin-上读写-mac-上的文件吗](https://www.v2ex.com/t/768138) ![](assets/new.png)  
+- [2021-04-05-有人去在深圳的苹果直营店验机吗？](https://www.v2ex.com/t/768137) ![](assets/new.png)  
+- [2021-04-05-V2EX-在（摸）线（鱼）人数记录](https://www.v2ex.com/t/768136) ![](assets/new.png)  
+- [2021-04-05-如何制作一个-ROM](https://www.v2ex.com/t/768135) ![](assets/new.png)  
 - [2021-04-05-求助-实习相关-非常想找到一个七月份开始的实习-但是现在简历还没完全写好](https://www.v2ex.com/t/768134) ![](assets/new.png)  
 - [2021-04-05-新奔驰和-降价的-2021-款-260L-买哪个好呢](https://www.v2ex.com/t/768133) ![](assets/new.png)  
 - [2021-04-05-为什么国外互联网巨头都没有发生过被脱裤？](https://www.v2ex.com/t/768132) ![](assets/new.png)  
@@ -971,11 +976,6 @@
 - [2021-04-05-2021-Flutter-Engage-China-参会总结](https://www.v2ex.com/t/768109) ![](assets/new.png)  
 - [2021-04-05-想用-5-年左右，主要就办公剪视频，买-512G-还是-1T？](https://www.v2ex.com/t/768108) ![](assets/new.png)  
 - [2021-04-05-关于-Django-drf-的反序列化一对多字段问题](https://www.v2ex.com/t/768107) ![](assets/new.png)  
-- [2021-04-05-v-友优惠了：悦刻火器魔笛柚子雾化器](https://www.v2ex.com/t/768105) ![](assets/new.png)  
-- [2021-04-05-求“领域驱动设计“-Java-项目教程？已全网搜索无果](https://www.v2ex.com/t/768104) ![](assets/new.png)  
-- [2021-04-05-🔥🔥新加坡-技术移民知名互联网，招前端，后端，云平台，大数据，-Devops-工程师，-移动端等各类开发工程师（高级-专家级别），另各类-leader（对标-P8-...](https://www.v2ex.com/t/768103) ![](assets/new.png)  
-- [2021-04-05-11-代-nuc-猎豹峡谷-i5-外接-4k-显示器流畅吗？](https://www.v2ex.com/t/768100) ![](assets/new.png)  
-- [2021-04-05-4-月-上市公司-SaaS-高级产品经理](https://www.v2ex.com/t/768099) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1019,8 +1019,8 @@
 
 
 - [2021-04-05-用-Go-+-WebSocket-快速实现一个-chat-服务](https://toutiao.io/k/b594ozj) ![](assets/new.png)  
-- [2021-04-05-喝口可乐聊聊可扩展性设计](https://toutiao.io/k/jrcl0sb) ![](assets/new.png)  
 - [2021-04-05-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
+- [2021-04-05-喝口可乐聊聊可扩展性设计](https://toutiao.io/k/jrcl0sb) ![](assets/new.png)  
 - [2021-04-05-什么是-API-文档工具？附带-6-款好用的-API-文档工具介绍](https://toutiao.io/k/9khbqbw) ![](assets/new.png)  
 - [2021-04-05-从低代码到无代码：可视化逻辑编排](https://toutiao.io/k/or08588) ![](assets/new.png)  
 - [2021-04-05-为应用设计集群规模](https://toutiao.io/k/sixwhun) ![](assets/new.png)  
@@ -1028,16 +1028,16 @@
 - [2021-04-05-如何教机器学会原研哉的设计理念](https://toutiao.io/k/jmr0ahc) ![](assets/new.png)  
 - [2021-04-05-​朝鲜都有-“红星-OS”，为何中国还没有自主研发的操作系统？](https://toutiao.io/k/adrwq5t) ![](assets/new.png)  
 - [2021-04-05-漫画｜程序员：大师，Java-真的不行了吗？](https://toutiao.io/k/ixl3bng) ![](assets/new.png)  
-- [2021-04-05-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
-- [2021-04-05-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
 - [2021-04-05-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
-- [2021-04-05-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
-- [2021-04-05-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
+- [2021-04-05-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
 - [2021-04-05-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
+- [2021-04-05-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
 - [2021-04-05-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
 - [2021-04-05-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
-- [2021-04-05-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-05-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
+- [2021-04-05-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
+- [2021-04-05-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-05-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
+- [2021-04-05-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1049,6 +1049,12 @@
 </summary>
 
 
+- [2021-04-05-看了Chrome收集的个人数据,我发现谷歌被控涉嫌垄断不亏](https://sec.thief.one/article_content?a_id=fc709489f89a2e515d3acfb85181b81f) ![](assets/new.png)  
+- [2021-04-05-牛聘|2021年度岗位招聘第6期](https://sec.thief.one/article_content?a_id=a13ad7f2403fddf64f9a2d4a101c912a) ![](assets/new.png)  
+- [2021-04-05-SecWiki周刊第370期](https://sec.thief.one/article_content?a_id=4b1f8cd8f3a0747131ad12f0aa82c579) ![](assets/new.png)  
+- [2021-04-05-Jboss漏洞利用总结](https://sec.thief.one/article_content?a_id=f0a072181dc3703c1cf5707ce8b4d44e) ![](assets/new.png)  
+- [2021-04-05-突发!超5亿脸书用户信息泄露,包括扎克伯格](https://sec.thief.one/article_content?a_id=6ed0e934d162a8b7aff644ff26bdae39) ![](assets/new.png)  
+- [2021-04-05-雷军哽咽:我愿押上人生全部声誉,为小米汽车而战;网友发现小米官...](https://sec.thief.one/article_content?a_id=ba0a1630fb1819823ade293a8184ebf5) ![](assets/new.png)  
 - [2021-04-05-崇尚英雄-精忠报国](https://sec.thief.one/article_content?a_id=8b109b662ff55060df04a1a1db491b0c) ![](assets/new.png)  
 - [2021-04-04-你们用什么工具记东西?](https://sec.thief.one/article_content?a_id=9c5da848a19bad3b04de1362930ea161) ![](assets/new.png)  
 - [2021-04-04-安全的路很长,一路同行,共同进步](https://sec.thief.one/article_content?a_id=d83ff656cbc2f4b835d936a1d53407cc) ![](assets/new.png)  
@@ -1063,12 +1069,6 @@
 - [2021-04-04-拆桐花烂漫](https://sec.thief.one/article_content?a_id=6dc54fdc0eb0bad03e7d7e879fa64f36) ![](assets/new.png)  
 - [2021-04-04-习近平的英雄情怀](https://sec.thief.one/article_content?a_id=1df6b72f489e83969d126920c96fbf1c) ![](assets/new.png)  
 - [2021-04-03-他只靠写代码,登上了胡润富豪榜!](https://sec.thief.one/article_content?a_id=7c5856ea83461f427674f0885c5809f1) ![](assets/new.png)  
-- [2021-04-03-面向对象:真心想找一位有缘人!两人三餐四季,共度余生!](https://sec.thief.one/article_content?a_id=c153619b011153b0e1ca763b636fd355) ![](assets/new.png)  
-- [2021-04-03-BUF大事件丨16美元就可以打包带走所有短信;宏碁回应遭网络攻击](https://sec.thief.one/article_content?a_id=06bb45d333a48097cd308ca955265db9) ![](assets/new.png)  
-- [2021-04-03-网络公益联盟数字乡村聚力行动主题活动在京举行](https://sec.thief.one/article_content?a_id=f4bb71fd240426d7960ac1bc630a388f) ![](assets/new.png)  
-- [2021-04-03-从Geost到Locker:监控Android恶意软件混淆的演变过程](https://sec.thief.one/article_content?a_id=2b396f1d9c406de56fbb6062ed0b92b5) ![](assets/new.png)  
-- [2021-04-03-在Z|南京证券、美柚高至42万/年诚招安全相关工程师](https://sec.thief.one/article_content?a_id=e57641b4620843c3cbd3648672da13fe) ![](assets/new.png)  
-- [2021-04-03-印度海量持卡人数据泄露,达8.2TB](https://sec.thief.one/article_content?a_id=9e77af3e2a563fd51c50c8cf47c4c8aa) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

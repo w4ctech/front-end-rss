@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-05 00:09:29，:rocket: 更新条数: +4140， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-05 00:28:00，:rocket: 更新条数: +4132， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 </summary>
 
 
+- [2021-04-05-云南瑞丽4月4日新增新冠确诊病例15例-无症状感染者5例](https://m.caixin.com/m/2021-04-05/101685796.html) ![](assets/new.png)  
 - [2021-04-04-最新疫情：全国新冠累计确诊90273例-累计接种新冠疫苗近1.37亿剂次](https://m.caixin.com/m/2021-04-04/101685789.html) ![](assets/new.png)  
 - [2021-04-04-最新海外疫情：新冠感染超1.3亿-累计死亡超284万](https://m.caixin.com/m/2021-04-04/101685786.html) ![](assets/new.png)  
 - [2021-04-04-【境内疫情观察】云南新增10例本土病例和1例无症状感染者（4月3日）](http://m.database.caixin.com/m/2021-04-04/101685756.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-03-31-【境内疫情观察】云南省瑞丽市新增6例本土病例（3月30日）](http://m.database.caixin.com/m/2021-03-31/101683093.html) ![](assets/new.png)  
 - [2021-03-31-中国-世卫新冠溯源报告发布-德国设限阿斯利康疫苗接种年龄丨大流行手记（3月30日）](https://m.caixin.com/m/2021-03-31/101682804.html) ![](assets/new.png)  
 - [2021-03-30-【境内疫情观察】全国新增8例境外输入病例（3月29日）](http://m.database.caixin.com/m/2021-03-30/101682499.html) ![](assets/new.png)  
-- [2021-03-30-英逐步解封允许六人出席婚礼-法国感染人数升至全球第四|大流行手记（3月29日）](https://m.caixin.com/m/2021-03-30/101682248.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -956,6 +956,7 @@
 </summary>
 
 
+- [2021-04-05-win10-昨晚更新后今天启动不了了……](https://www.v2ex.com/t/768049) ![](assets/new.png)  
 - [2021-04-04-清明节，你想到哪首诗？](https://www.v2ex.com/t/768048) ![](assets/new.png)  
 - [2021-04-04-迫于回国，求稳定，快速的服务。](https://www.v2ex.com/t/768046) ![](assets/new.png)  
 - [2021-04-04-现在前端反爬虫，还有办法检测出来是不是无头浏览器吗？](https://www.v2ex.com/t/768044) ![](assets/new.png)  
@@ -975,7 +976,6 @@
 - [2021-04-04-厌倦国内大厂,-拿完年终的可以过来看看-Shopee（SEA-冬海集团）---新加坡---内推](https://www.v2ex.com/t/768018) ![](assets/new.png)  
 - [2021-04-04-云原生-API-网关，-gRPC-Gateway-V2-初探&试玩](https://www.v2ex.com/t/768017) ![](assets/new.png)  
 - [2021-04-04-VirtualBox-6.1.18-r142142-出现多个异常，是属于新版本-Bug-一类的吗？](https://www.v2ex.com/t/768016) ![](assets/new.png)  
-- [2021-04-04-ThinkPad-E560-想换块电池，在哪里买靠谱？](https://www.v2ex.com/t/768015) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1018,26 +1018,20 @@
 </summary>
 
 
-- [2021-04-05-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
-- [2021-04-05-Kafka-生产端实际项目中的使用分析](https://toutiao.io/k/4gftmjt) ![](assets/new.png)  
-- [2021-04-05-技巧：根据主题模式-dark/light-切换-favicon](https://toutiao.io/k/sl5q6fu) ![](assets/new.png)  
-- [2021-04-05-数仓规范篇（一）：命名规范](https://toutiao.io/k/83akfq5) ![](assets/new.png)  
-- [2021-04-05-阿里最强-Python-自动化工具开源了](https://toutiao.io/k/b2n5cvi) ![](assets/new.png)  
-- [2021-04-05-ABTest-流量分发和业界的一些做法经验](https://toutiao.io/k/urs7p59) ![](assets/new.png)  
-- [2021-04-05-关于写文章的一点经验](https://toutiao.io/k/fi1bz28) ![](assets/new.png)  
-- [2021-04-05-对伪装-docx-文件病毒的逆向分析](https://toutiao.io/k/y9hd6ye) ![](assets/new.png)  
-- [2021-04-05-手把手教你玩转-Kubeflow-on-EKS（一）](https://toutiao.io/k/iz2m0c3) ![](assets/new.png)  
-- [2021-04-05-慌了，老大让我将线上的服务器升配，咋搞？](https://toutiao.io/k/vbtqxi7) ![](assets/new.png)  
-- [2021-04-05-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
-- [2021-04-05-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
-- [2021-04-05-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
-- [2021-04-05-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
-- [2021-04-05-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-05-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
-- [2021-04-05-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
-- [2021-04-05-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
-- [2021-04-05-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
 - [2021-04-05-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
+- [2021-04-05-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
+- [2021-04-05-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
+- [2021-04-05-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
+- [2021-04-05-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
+- [2021-04-05-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
+- [2021-04-05-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
+- [2021-04-05-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
+- [2021-04-05-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
+- [2021-04-05-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-05-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
+- [2021-04-05-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-05-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
+- [2021-04-05-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1049,6 +1043,10 @@
 </summary>
 
 
+- [2021-04-05-崇尚英雄-精忠报国](https://sec.thief.one/article_content?a_id=8b109b662ff55060df04a1a1db491b0c) ![](assets/new.png)  
+- [2021-04-04-你们用什么工具记东西?](https://sec.thief.one/article_content?a_id=9c5da848a19bad3b04de1362930ea161) ![](assets/new.png)  
+- [2021-04-04-安全的路很长,一路同行,共同进步](https://sec.thief.one/article_content?a_id=d83ff656cbc2f4b835d936a1d53407cc) ![](assets/new.png)  
+- [2021-04-04-欧盟理事会审议通过欧盟十年网络安全战略](https://sec.thief.one/article_content?a_id=b8dfd29d138ce54e35720fbd3ec6d8fb) ![](assets/new.png)  
 - [2021-04-04-5.33亿Facebook用户的电话号码在黑客论坛上泄露](https://sec.thief.one/article_content?a_id=5bb8ce7d1902d3e3a24471c101ff2f78) ![](assets/new.png)  
 - [2021-04-04-大规模的供应链网络攻击入侵了多家航空公司](https://sec.thief.one/article_content?a_id=742bf57dfa272f5fc757aa37a7028125) ![](assets/new.png)  
 - [2021-04-04-网安杂谈收藏夹2021.4.4](https://sec.thief.one/article_content?a_id=db2536ac420ae458cfd0ba2c060674d8) ![](assets/new.png)  
@@ -1065,10 +1063,6 @@
 - [2021-04-03-从Geost到Locker:监控Android恶意软件混淆的演变过程](https://sec.thief.one/article_content?a_id=2b396f1d9c406de56fbb6062ed0b92b5) ![](assets/new.png)  
 - [2021-04-03-在Z|南京证券、美柚高至42万/年诚招安全相关工程师](https://sec.thief.one/article_content?a_id=e57641b4620843c3cbd3648672da13fe) ![](assets/new.png)  
 - [2021-04-03-印度海量持卡人数据泄露,达8.2TB](https://sec.thief.one/article_content?a_id=9e77af3e2a563fd51c50c8cf47c4c8aa) ![](assets/new.png)  
-- [2021-04-03-Redis分布式锁使用不当,酿成一个重大事故,超卖了100瓶飞天茅台!...](https://sec.thief.one/article_content?a_id=78c0473d61b50e63cf94d1ca3ac7aa0a) ![](assets/new.png)  
-- [2021-04-03-卧槽!ImageNet验证集6%的标签都是错!基于这些数据集的论文尴尬...](https://sec.thief.one/article_content?a_id=785c66b345d4ffc02d347556a6e1f428) ![](assets/new.png)  
-- [2021-04-03-铭记历史缅怀英烈-习近平这样说](https://sec.thief.one/article_content?a_id=f35e785959feb1d19b544d5f206de1fa) ![](assets/new.png)  
-- [2021-04-02-【漏洞通告】VMware-Carbon-Black-Cloud-Workload身份验证绕过漏洞...](https://sec.thief.one/article_content?a_id=4a4dcf635dd1c67d4bc1ae02fd6da788) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

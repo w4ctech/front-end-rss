@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-05 03:54:03，:rocket: 更新条数: +4147， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-05 04:04:42，:rocket: 更新条数: +4147， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -956,6 +956,7 @@
 </summary>
 
 
+- [2021-04-05-大家-30-岁会转行吗-？？有没有成功案例，分享一下](https://www.v2ex.com/t/768074) ![](assets/new.png)  
 - [2021-04-05-目前在北京工作，外省到北京做手术可以一部分报销吗？](https://www.v2ex.com/t/768072) ![](assets/new.png)  
 - [2021-04-05-每月工资到手只有-11K，感觉在北京没法活了](https://www.v2ex.com/t/768071) ![](assets/new.png)  
 - [2021-04-05-想购买一台笔记本有什么好推荐的？](https://www.v2ex.com/t/768070) ![](assets/new.png)  
@@ -975,7 +976,6 @@
 - [2021-04-05-想给妈妈买一台-iPad-Mini-看电视剧，这个月会更新-iPad-Mini-吗](https://www.v2ex.com/t/768052) ![](assets/new.png)  
 - [2021-04-05-寻一个有分词符的输入法，-xi'an-人表示很难受](https://www.v2ex.com/t/768050) ![](assets/new.png)  
 - [2021-04-05-win10-昨晚更新后今天启动不了了……](https://www.v2ex.com/t/768049) ![](assets/new.png)  
-- [2021-04-04-迫于回国，求稳定，快速的服务。](https://www.v2ex.com/t/768046) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1028,16 +1028,16 @@
 - [2021-04-05-​朝鲜都有-“红星-OS”，为何中国还没有自主研发的操作系统？](https://toutiao.io/k/adrwq5t) ![](assets/new.png)  
 - [2021-04-05-漫画｜程序员：大师，Java-真的不行了吗？](https://toutiao.io/k/ixl3bng) ![](assets/new.png)  
 - [2021-04-05-如何教机器学会原研哉的设计理念](https://toutiao.io/k/jmr0ahc) ![](assets/new.png)  
-- [2021-04-05-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
+- [2021-04-05-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
+- [2021-04-05-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
+- [2021-04-05-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
+- [2021-04-05-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
+- [2021-04-05-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
 - [2021-04-05-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
 - [2021-04-05-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
-- [2021-04-05-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
-- [2021-04-05-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
-- [2021-04-05-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
-- [2021-04-05-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-05-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
-- [2021-04-05-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
 - [2021-04-05-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
+- [2021-04-05-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
+- [2021-04-05-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

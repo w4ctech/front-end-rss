@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-05 10:23:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-05 10:39:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,7 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-04-04-阿里面试官：“说一下从-url-输入到返回请求的过程”-｜-极客时间](https://www.ershicimi.com/p/a0a1fad067ee577b3c6e5e3f90ad1b24) 
+- [2021-04-05-迅雷扩展能够获得我在浏览器上登录其他网站的密码嘛?](https://www.v2ex.com/t/768141) 
 - [2021-04-05-ActionView-v1.12.3-release---Similar-to-Jira](https://www.v2ex.com/t/768114) 
 - [2021-04-05-腾讯-Code-Review-规范出炉！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-05-用-Go-+-WebSocket-快速实现一个-chat-服务](https://toutiao.io/k/b594ozj) 

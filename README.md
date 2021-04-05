@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-05 04:42:13，:rocket: 更新条数: +4150， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-05 04:55:19，:rocket: 更新条数: +4149， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -956,6 +956,9 @@
 </summary>
 
 
+- [2021-04-05-请问-iPhone-的电池健康会影响手机的日常使用卡顿吗？](https://www.v2ex.com/t/768084) ![](assets/new.png)  
+- [2021-04-05-清明假期最后一天，一个人在家，突然感觉好失落。](https://www.v2ex.com/t/768083) ![](assets/new.png)  
+- [2021-04-05-大佬们能介绍一款-公司用的-WIFI-吗？](https://www.v2ex.com/t/768082) ![](assets/new.png)  
 - [2021-04-05-谁有比较好看的即时搜索框例子推荐啊](https://www.v2ex.com/t/768080) ![](assets/new.png)  
 - [2021-04-05-v2ex-节点选择下拉框没啥用](https://www.v2ex.com/t/768079) ![](assets/new.png)  
 - [2021-04-05-现在用-apache-httpd-作为-7-层负载均衡的公司还多吗？](https://www.v2ex.com/t/768078) ![](assets/new.png)  
@@ -973,9 +976,6 @@
 - [2021-04-05-高频题面试经典题目--股票买卖问题](https://www.v2ex.com/t/768065) ![](assets/new.png)  
 - [2021-04-05-Apple-id-转区后-icloud-资料会自动同步至新转的区吗？有大神知道吗？](https://www.v2ex.com/t/768064) ![](assets/new.png)  
 - [2021-04-05-关于-kde-输入法的界面问题](https://www.v2ex.com/t/768063) ![](assets/new.png)  
-- [2021-04-05-给我推荐一些监控摄像头和方案吧，遇到人渣找茬了](https://www.v2ex.com/t/768062) ![](assets/new.png)  
-- [2021-04-05-任务管理器认为挖币软件能耗并不高](https://www.v2ex.com/t/768061) ![](assets/new.png)  
-- [2021-04-05-iOS14.5-正式版究竟什么时候能推出呀](https://www.v2ex.com/t/768059) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1028,16 +1028,16 @@
 - [2021-04-05-​朝鲜都有-“红星-OS”，为何中国还没有自主研发的操作系统？](https://toutiao.io/k/adrwq5t) ![](assets/new.png)  
 - [2021-04-05-漫画｜程序员：大师，Java-真的不行了吗？](https://toutiao.io/k/ixl3bng) ![](assets/new.png)  
 - [2021-04-05-如何教机器学会原研哉的设计理念](https://toutiao.io/k/jmr0ahc) ![](assets/new.png)  
-- [2021-04-05-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
-- [2021-04-05-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
-- [2021-04-05-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
+- [2021-04-05-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
 - [2021-04-05-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
-- [2021-04-05-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
-- [2021-04-05-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
-- [2021-04-05-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-05-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
-- [2021-04-05-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
 - [2021-04-05-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
+- [2021-04-05-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
+- [2021-04-05-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
+- [2021-04-05-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
+- [2021-04-05-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-05-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
+- [2021-04-05-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
+- [2021-04-05-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

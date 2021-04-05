@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-05 04:42:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-05 04:55:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -35,5 +35,5 @@
 - [2021-04-04-我面试了-10-个-Java-工程师，全军覆没-｜-极客时间](https://www.ershicimi.com/p/fa70c29544423bf28c3902897afbfc99) 
 - [2021-03-24-字节跳动高频100道核心前端面试题解析](https://www.ershicimi.com/p/bd6c66f84e2c88714b5520bdbd5e1927) 
 - [2021-04-05-高频题面试经典题目--股票买卖问题](https://www.v2ex.com/t/768065) 
-- [2021-04-05-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) 
 - [2021-04-05-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) 
+- [2021-04-05-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) 

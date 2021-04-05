@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-05 01:54:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-05 02:22:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-05-求一个-vscode-插件名](https://www.v2ex.com/t/768057) 
 - [2021-04-05-大家有过想要染头的想法吗](https://www.v2ex.com/t/768055) 
 - [2021-04-05-NUC8-黑苹果外接-4k-显示器屏闪](https://www.v2ex.com/t/768053) 
 - [2021-04-05-想给妈妈买一台-iPad-Mini-看电视剧，这个月会更新-iPad-Mini-吗](https://www.v2ex.com/t/768052) 
@@ -32,4 +33,3 @@
 - [2021-04-04-在中国做-Linux-笔记本，一体机有市场吗？](https://www.v2ex.com/t/768012) 
 - [2021-04-04-有没有浏览器-based-的-Linux-GUI-软件？](https://www.v2ex.com/t/768010) 
 - [2021-04-04-能否讲讲拼多多的盈利模式。](https://www.v2ex.com/t/768009) 
-- [2021-04-04-一代的-apple-pencil-太久没充电还能救吗](https://www.v2ex.com/t/768007) 

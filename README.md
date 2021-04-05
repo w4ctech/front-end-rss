@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-05 01:54:23，:rocket: 更新条数: +4141， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-05 02:22:50，:rocket: 更新条数: +4142， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,6 +67,7 @@
 
 - [2021-04-05-4月4日全国新增新冠32例-本土15例均在云南瑞丽](https://m.caixin.com/m/2021-04-05/101685803.html) ![](assets/new.png)  
 - [2021-04-05-云南瑞丽4月4日新增新冠确诊病例15例-无症状感染者5例](https://m.caixin.com/m/2021-04-05/101685796.html) ![](assets/new.png)  
+- [2021-04-05-多地试行公共活动疫苗护照-印度新冠疫情急速恶化｜大流行手记（4月4日）](https://m.caixin.com/m/2021-04-05/101685810.html) ![](assets/new.png)  
 - [2021-04-04-最新海外疫情：新冠感染超1.3亿-累计死亡超284万](https://m.caixin.com/m/2021-04-04/101685786.html) ![](assets/new.png)  
 - [2021-04-04-【境内疫情观察】云南新增10例本土病例和1例无症状感染者（4月3日）](http://m.database.caixin.com/m/2021-04-04/101685756.html) ![](assets/new.png)  
 - [2021-04-04-阿根廷总统接种后感染新冠-国药疫苗获欧盟GMP认证｜大流行手记（4月3日）](https://m.caixin.com/m/2021-04-04/101685736.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-04-01-辉瑞称疫苗对青少年100%有效-俄注册世界首个兽用新冠疫苗丨大流行手记（3月31日）](https://m.caixin.com/m/2021-04-01/101684275.html) ![](assets/new.png)  
 - [2021-03-31-【境内疫情观察】云南省瑞丽市新增6例本土病例（3月30日）](http://m.database.caixin.com/m/2021-03-31/101683093.html) ![](assets/new.png)  
 - [2021-03-31-中国-世卫新冠溯源报告发布-德国设限阿斯利康疫苗接种年龄丨大流行手记（3月30日）](https://m.caixin.com/m/2021-03-31/101682804.html) ![](assets/new.png)  
-- [2021-03-30-【境内疫情观察】全国新增8例境外输入病例（3月29日）](http://m.database.caixin.com/m/2021-03-30/101682499.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -956,6 +956,7 @@
 </summary>
 
 
+- [2021-04-05-求一个-vscode-插件名](https://www.v2ex.com/t/768057) ![](assets/new.png)  
 - [2021-04-05-大家有过想要染头的想法吗](https://www.v2ex.com/t/768055) ![](assets/new.png)  
 - [2021-04-05-NUC8-黑苹果外接-4k-显示器屏闪](https://www.v2ex.com/t/768053) ![](assets/new.png)  
 - [2021-04-05-想给妈妈买一台-iPad-Mini-看电视剧，这个月会更新-iPad-Mini-吗](https://www.v2ex.com/t/768052) ![](assets/new.png)  
@@ -975,7 +976,6 @@
 - [2021-04-04-有没有配色像你们机械键盘那种简约但不简单的品牌剪刀脚键盘](https://www.v2ex.com/t/768027) ![](assets/new.png)  
 - [2021-04-04-有没有可能接自家公司的外包的活](https://www.v2ex.com/t/768026) ![](assets/new.png)  
 - [2021-04-04-Dynamodb-应该怎么复杂查询呢？](https://www.v2ex.com/t/768024) ![](assets/new.png)  
-- [2021-04-04-md5-padding-说明和-JavaScript-MD5-implementation-完全不一样啊？是说明写错了吗？](https://www.v2ex.com/t/768021) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1023,21 +1023,21 @@
 - [2021-04-05-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
 - [2021-04-05-什么是-API-文档工具？附带-6-款好用的-API-文档工具介绍](https://toutiao.io/k/9khbqbw) ![](assets/new.png)  
 - [2021-04-05-从低代码到无代码：可视化逻辑编排](https://toutiao.io/k/or08588) ![](assets/new.png)  
-- [2021-04-05-​朝鲜都有-“红星-OS”，为何中国还没有自主研发的操作系统？](https://toutiao.io/k/adrwq5t) ![](assets/new.png)  
+- [2021-04-05-为应用设计集群规模](https://toutiao.io/k/sixwhun) ![](assets/new.png)  
 - [2021-04-05-如何做好团队教练？](https://toutiao.io/k/mziro8l) ![](assets/new.png)  
+- [2021-04-05-​朝鲜都有-“红星-OS”，为何中国还没有自主研发的操作系统？](https://toutiao.io/k/adrwq5t) ![](assets/new.png)  
 - [2021-04-05-如何教机器学会原研哉的设计理念](https://toutiao.io/k/jmr0ahc) ![](assets/new.png)  
 - [2021-04-05-漫画｜程序员：大师，Java-真的不行了吗？](https://toutiao.io/k/ixl3bng) ![](assets/new.png)  
-- [2021-04-05-为应用设计集群规模](https://toutiao.io/k/sixwhun) ![](assets/new.png)  
-- [2021-04-05-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
-- [2021-04-05-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
-- [2021-04-05-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
-- [2021-04-05-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
-- [2021-04-05-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
-- [2021-04-05-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
-- [2021-04-05-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
+- [2021-04-05-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
 - [2021-04-05-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-05-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
+- [2021-04-05-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
+- [2021-04-05-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
+- [2021-04-05-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
 - [2021-04-05-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
+- [2021-04-05-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
+- [2021-04-05-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-05-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
+- [2021-04-05-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

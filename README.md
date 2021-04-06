@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-06 03:41:36，:rocket: 更新条数: +664， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-06 03:54:28，:rocket: 更新条数: +665， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -76,6 +76,9 @@
 </summary>
 
 
+- [2021-04-06-全国｜新增确诊-24-例-其中本土-15-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEGBuzPnZ2mW3dJyok5XK210406&isfromapp=1) ![](assets/new.png)  
+- [2021-04-05-云南｜4-月-6-日-8-时起-瑞丽启动第二轮全员核酸](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKycJ7kzAJdy2QAEcpEz210405&isfromapp=1) ![](assets/new.png)  
+- [2021-04-05-云南｜瑞丽-3-地高风险-6-地中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix9C3TrHeXhydnvg1QOSE210405&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -934,6 +937,9 @@
 </summary>
 
 
+- [2021-04-06-配置组件里面的-embedded-通常指什么？](https://www.v2ex.com/t/768316) ![](assets/new.png)  
+- [2021-04-06-春季求职-分享一个广州研发内推群-可内推和日常摸鱼交流](https://www.v2ex.com/t/768315) ![](assets/new.png)  
+- [2021-04-06-从-AVX2-机器编译-AVX-512-代码失败](https://www.v2ex.com/t/768314) ![](assets/new.png)  
 - [2021-04-06-周末团建，各位会去吗？](https://www.v2ex.com/t/768312) ![](assets/new.png)  
 - [2021-04-06-招聘上海-万物新生（爱回收）-Java-后端开发工程师](https://www.v2ex.com/t/768311) ![](assets/new.png)  
 - [2021-04-06-去创业公司要注意什么](https://www.v2ex.com/t/768309) ![](assets/new.png)  
@@ -942,7 +948,6 @@
 - [2021-04-06-新版微信在-Big-Sur-11.2.3-上启动登录失败](https://www.v2ex.com/t/768306) ![](assets/new.png)  
 - [2021-04-06-听说华强北把-m1-mbp-从-8+256-扩到-16+1t-了](https://www.v2ex.com/t/768305) ![](assets/new.png)  
 - [2021-04-06-各位程序员，如何探知生产环系统的性能指标？](https://www.v2ex.com/t/768302) ![](assets/new.png)  
-- [2021-04-06-想听下各位的想法，生不生小孩，对老年生活影响很大吗？](https://www.v2ex.com/t/768300) ![](assets/new.png)  
 - [2021-04-06-你们知道丧丧周吗，就是间歇性对迷茫，烦闷，什么也不行做的时候？](https://www.v2ex.com/t/768297) ![](assets/new.png)  
 - [2021-04-06-哪里能下载越南语-cp1258-的编码集](https://www.v2ex.com/t/768296) ![](assets/new.png)  
 - [2021-04-06-分享一个广州研发岗位的内推交流-WX-群](https://www.v2ex.com/t/768294) ![](assets/new.png)  
@@ -952,8 +957,6 @@
 - [2021-04-06-推荐一下最低的运营商套餐](https://www.v2ex.com/t/768285) ![](assets/new.png)  
 - [2021-04-06-请问有帮忙定位-bug-的服务么？](https://www.v2ex.com/t/768284) ![](assets/new.png)  
 - [2021-04-06-知道-M1-的蓝牙不好，但没想到可以这么差](https://www.v2ex.com/t/768283) ![](assets/new.png)  
-- [2021-04-06-清明三天人都废了，如何扩大自己的社交圈？](https://www.v2ex.com/t/768282) ![](assets/new.png)  
-- [2021-04-06-北京-火花思维-前端-40+hc内有个人工作体验](https://www.v2ex.com/t/768281) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -985,11 +988,11 @@
 - [2021-04-06-数据湖-Iceberg：实时数据仓库的发展、架构和趋势](https://toutiao.io/k/6gjfwif) ![](assets/new.png)  
 - [2021-04-06-搞定-Protocol-Buffers（上）：使用篇](https://toutiao.io/k/yprqo9f) ![](assets/new.png)  
 - [2021-04-06-美团图数据库平台建设及业务实践](https://toutiao.io/k/k7wre2g) ![](assets/new.png)  
-- [2021-04-06-译-Serverless-与轻量级虚拟化-Firecracker](https://toutiao.io/k/uyoc7pt) ![](assets/new.png)  
 - [2021-04-06-困在“墙”里的中年程序员](https://toutiao.io/k/ust6dd7) ![](assets/new.png)  
+- [2021-04-06-译-Serverless-与轻量级虚拟化-Firecracker](https://toutiao.io/k/uyoc7pt) ![](assets/new.png)  
+- [2021-04-06-如何从-0-到-1-构建埋点体系](https://toutiao.io/k/wkkxw96) ![](assets/new.png)  
 - [2021-04-06-深入分析-Flutter-渲染性能](https://toutiao.io/k/h839930) ![](assets/new.png)  
 - [2021-04-06-认识爬虫：怎么使用代理-IP-规避反爬虫以及使用爬虫获取更多可用的免费代理-IP？](https://toutiao.io/k/ots4ffq) ![](assets/new.png)  
-- [2021-04-06-如何从-0-到-1-构建埋点体系](https://toutiao.io/k/wkkxw96) ![](assets/new.png)  
 - [2021-04-06-面试高频题：Spring-和-SpringMvc-父子容器你能说清楚吗？](https://toutiao.io/k/b9hkrjc) ![](assets/new.png)  
 - [2021-04-06-Android-内存泄露检测-LeakCanary-2.0（Kotlin-版）的实现原理](https://toutiao.io/k/i0viec6) ![](assets/new.png)  
 - [2021-04-06-Netty-核心源码解读：EventLoop-篇](https://toutiao.io/k/ufsrsis) ![](assets/new.png)  

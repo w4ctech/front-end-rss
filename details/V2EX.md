@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-04-06 06:24:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-06 06:41:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-06-在参加校招的时候什么样的项目算是加分的？求-github-指路](https://www.v2ex.com/t/768381) 
+- [2021-04-06-sql-server-同步问题](https://www.v2ex.com/t/768377) 
+- [2021-04-06-大家在使用-Notion-吗？最近想学习使用-Notion，真的有那么神奇吗？](https://www.v2ex.com/t/768376) 
+- [2021-04-06-Macbook-pro-2018-catalina-上面安装-discord-无法分享屏幕和使用麦克风](https://www.v2ex.com/t/768375) 
 - [2021-04-06-把自用的一些量化交易策略做成-webapp](https://www.v2ex.com/t/768372) 
 - [2021-04-06-我来一个“合成大色迷”](https://www.v2ex.com/t/768370) 
 - [2021-04-06-请问谁在-Collins-Aerospace-工作过的？环境怎么样？工作待遇如何？](https://www.v2ex.com/t/768368) 
@@ -30,9 +34,3 @@
 - [2021-04-06-就那个给编程语言做榜单的-TIOBE，这个-TIOBE-是什么的缩写啊？](https://www.v2ex.com/t/768337) 
 - [2021-04-06-求助：-Mac-mini-m1-2020-蓝牙连接问题](https://www.v2ex.com/t/768336) 
 - [2021-04-06-日常导航-百度地图-和-高德地图-有啥优缺点？](https://www.v2ex.com/t/768334) 
-- [2021-04-06-迅雷现在直接删文件了？](https://www.v2ex.com/t/768332) 
-- [2021-04-06-北京哇唧唧哇后端（-Python-）/-前端-/-设计-等多个职位](https://www.v2ex.com/t/768331) 
-- [2021-04-06-大家怎么处理竞业协议的呢](https://www.v2ex.com/t/768330) 
-- [2021-04-06-从来没使用过的产品却收到了他们的营销短信](https://www.v2ex.com/t/768329) 
-- [2021-04-06-Jakarta-EE-9.1-进展](https://www.v2ex.com/t/768326) 
-- [2021-04-06-everything-对部分文件夹下的-exe-搜索不到是为什么？](https://www.v2ex.com/t/768323) 

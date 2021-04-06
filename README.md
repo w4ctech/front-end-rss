@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-06 01:28:05，:rocket: 更新条数: +3624， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-06 01:45:45，:rocket: 更新条数: +3655， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)  
 
@@ -66,6 +66,7 @@
 
 
 - [2021-04-06-云南瑞丽4月5日新增新冠确诊病例15例-无症状感染者2例](https://m.caixin.com/m/2021-04-06/101685875.html) ![](assets/new.png)  
+- [2021-04-06-英国推每人每周两次新冠快检-大阪取消奥运火炬传递｜大流行手记（4月5日）](https://m.caixin.com/m/2021-04-06/101685932.html) ![](assets/new.png)  
 - [2021-04-05-最新疫情：全国新冠累计确诊90305例-累计接种新冠疫苗近1.4亿剂次](https://m.caixin.com/m/2021-04-05/101685841.html) ![](assets/new.png)  
 - [2021-04-05-最新海外疫情：新冠感染超1.31亿-累计死亡超284万](https://m.caixin.com/m/2021-04-05/101685843.html) ![](assets/new.png)  
 - [2021-04-05-云南瑞丽4月4日新增新冠确诊病例15例-无症状感染者5例](https://m.caixin.com/m/2021-04-05/101685796.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-04-01-云南瑞丽城区学校3月31日起全面停课](http://m.china.caixin.com/m/2021-04-01/101684511.html) ![](assets/new.png)  
 - [2021-04-01-3月31日云南新增新冠确诊6例-无症状感染者23例](https://m.caixin.com/m/2021-04-01/101684251.html) ![](assets/new.png)  
 - [2021-04-01-【境内疫情观察】云南省瑞丽市开展市区全员核酸检测（3月31日）](http://m.database.caixin.com/m/2021-04-01/101684547.html) ![](assets/new.png)  
-- [2021-04-01-辉瑞称疫苗对青少年100%有效-俄注册世界首个兽用新冠疫苗丨大流行手记（3月31日）](https://m.caixin.com/m/2021-04-01/101684275.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2021-04-06-curl-如何实现-wget--N-类似的功能？](https://www.v2ex.com/t/768248) ![](assets/new.png)  
+- [2021-04-06-Roblox-面试题：亮起时间最长的灯](https://www.v2ex.com/t/768246) ![](assets/new.png)  
+- [2021-04-06-Apple-store-更换手机电池，能当场换好吗？](https://www.v2ex.com/t/768245) ![](assets/new.png)  
+- [2021-04-06-win10-怎么切换同一个软件的多个窗口](https://www.v2ex.com/t/768244) ![](assets/new.png)  
+- [2021-04-06-为什么成都的餐饮行业卫生状况这么差？！](https://www.v2ex.com/t/768243) ![](assets/new.png)  
+- [2021-04-06-文件同时上传多个服务器的工具求推荐](https://www.v2ex.com/t/768241) ![](assets/new.png)  
+- [2021-04-06-你们要的反向-Server-酱来了](https://www.v2ex.com/t/768240) ![](assets/new.png)  
 - [2021-04-06-给大家推荐一个深圳本地搬家公司，价格便宜，师傅靠谱](https://www.v2ex.com/t/768239) ![](assets/new.png)  
 - [2021-04-06-应用上架审核被认为追踪用户行为导致被拒，这块怎么破？](https://www.v2ex.com/t/768238) ![](assets/new.png)  
 - [2021-04-06-推荐一部电影《背靠背，脸对脸》](https://www.v2ex.com/t/768236) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2021-04-06-你们长辈的口腔情况如何？](https://www.v2ex.com/t/768225) ![](assets/new.png)  
 - [2021-04-06-群晖硬盘升级，各位-V-友有没有靠谱硬盘购买渠道？](https://www.v2ex.com/t/768224) ![](assets/new.png)  
 - [2021-04-05-macos-自带输入法不能联想出通讯录的姓名了](https://www.v2ex.com/t/768222) ![](assets/new.png)  
-- [2021-04-05-坐标上海，继续接活。iOS，微信小程序](https://www.v2ex.com/t/768220) ![](assets/new.png)  
-- [2021-04-05-TCP-协议中的-ACK-应该怎么理解，数据包如果在传输过程中丢失，双方都会得到响应吗？](https://www.v2ex.com/t/768219) ![](assets/new.png)  
-- [2021-04-05-诸位-Pixel5-的使用者有遇到掉-drm-的情况吗](https://www.v2ex.com/t/768218) ![](assets/new.png)  
-- [2021-04-05-有没有魔都的老铁愿意置换主板？](https://www.v2ex.com/t/768217) ![](assets/new.png)  
-- [2021-04-05-单线复用-VLAN-问题求助](https://www.v2ex.com/t/768215) ![](assets/new.png)  
-- [2021-04-05-Google-和-Oracle-的官司终于打完了](https://www.v2ex.com/t/768214) ![](assets/new.png)  
-- [2021-04-05-Just.js-是怎么做到在-Techempower-Rankings-的-web-框架性能测试里的多个子项击败各种以性能著称的-native-语言框架（包括-rust-的-actix，-C++的-drogon）的](https://www.v2ex.com/t/768213) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -536,6 +536,26 @@
 </summary>
 
 
+- [2021-04-06-Java-中的映射-Map（入门篇）](https://toutiao.io/k/2j4xsag) ![](assets/new.png)  
+- [2021-04-06-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-06-浮点数，你真的懂了吗？](https://toutiao.io/k/343f4ae) ![](assets/new.png)  
+- [2021-04-06-Golang-面试题：对已经关闭的的-chan-进行读写，会怎么样？为什么？](https://toutiao.io/k/blmg8fq) ![](assets/new.png)  
+- [2021-04-06-一文学懂动态规划](https://toutiao.io/k/l47jh7e) ![](assets/new.png)  
+- [2021-04-06-译-Serverless-与轻量级虚拟化-Firecracker](https://toutiao.io/k/uyoc7pt) ![](assets/new.png)  
+- [2021-04-06-数据湖-Iceberg：实时数据仓库的发展、架构和趋势](https://toutiao.io/k/6gjfwif) ![](assets/new.png)  
+- [2021-04-06-Elasticsearch-第三弹之存储原理](https://toutiao.io/k/yyhrqlm) ![](assets/new.png)  
+- [2021-04-06-搞定-Protocol-Buffers-上：使用篇](https://toutiao.io/k/yprqo9f) ![](assets/new.png)  
+- [2021-04-06-深入分析-Flutter-渲染性能](https://toutiao.io/k/h839930) ![](assets/new.png)  
+- [2021-04-06-认识爬虫：怎么使用代理-IP-规避反爬虫以及使用爬虫获取更多可用的免费代理-IP？](https://toutiao.io/k/ots4ffq) ![](assets/new.png)  
+- [2021-04-06-美团图数据库平台建设及业务实践](https://toutiao.io/k/k7wre2g) ![](assets/new.png)  
+- [2021-04-06-Android-内存泄露检测-LeakCanary-2.0（Kotlin-版）的实现原理](https://toutiao.io/k/i0viec6) ![](assets/new.png)  
+- [2021-04-06-如何从-0-到-1-构建埋点体系](https://toutiao.io/k/wkkxw96) ![](assets/new.png)  
+- [2021-04-06-面试高频题：Spring-和-SpringMvc-父子容器你能说清楚吗？](https://toutiao.io/k/b9hkrjc) ![](assets/new.png)  
+- [2021-04-06-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-06-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
+- [2021-04-06-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
+- [2021-04-06-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
+- [2021-04-06-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

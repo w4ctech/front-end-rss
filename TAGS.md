@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-06 10:03:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-06 10:24:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -195,7 +195,6 @@
 
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
-- [【V2EX】深圳-加推科技招聘-前端/小程序/-Java-/App-15-25K](https://www.v2ex.com/t/768406)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -320,7 +319,6 @@
 
 
 
-- [【安全热点】4月1日贵币GUIBI早内参-Filecoin改进提案FIP-0014-通过,FIL市值跃升...](https://sec.thief.one/article_content?a_id=06e6d58b8fbbaa62c5511fcbf9300145)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -350,6 +348,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/)
 - [【编程之上】前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978)
 - [【V2EX】招聘-某知名互联网金融电商公司-算法开发工程（设备反欺诈）、图像算法-base-深圳](https://www.v2ex.com/t/768429)
+- [【安全热点】【视频】|-工控安全:石油化工行业解决方案](https://sec.thief.one/article_content?a_id=66f671c44dc7b96d630397aa3183a105)
 - [【安全热点】红队训练营首期线上交流视频](https://sec.thief.one/article_content?a_id=ba8b478821aac8a18e8fbe39e48be37c)
 - [【安全热点】【视频】|-工控安全:市政行业工控网络安全解决方案](https://sec.thief.one/article_content?a_id=0bc681ab32a258d35c4bc3de6eda2c53)
 - [【安全热点】小豚AI摄像头的完整分析](https://sec.thief.one/article_content?a_id=e5d7b19a8c5d3d53cb86c0d51ec5be51)
@@ -408,12 +407,12 @@
 - [【前端e进阶】推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【InfoQ】阿里面试官：“说一下从-url-输入到返回请求的过程”-｜-极客时间](https://www.ershicimi.com/p/a0a1fad067ee577b3c6e5e3f90ad1b24)
+- [【V2EX】如何停止-curl-命令的下载请求？](https://www.v2ex.com/t/768457)
 - [【技术头条】腾讯-Code-Review-规范出炉！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【安全热点】深化知识图谱技术在网络安全领域融合应用,绿盟科技参与《知识图谱...](https://sec.thief.one/article_content?a_id=40033b94d14d9145249c69a273f55f13)
+- [【安全热点】网络安全保障石油化工行业数字化新发展](https://sec.thief.one/article_content?a_id=c2b3ff07c77b2e3f191becac0527b7d6)
+- [【安全热点】每日安全动态推送04-06](https://sec.thief.one/article_content?a_id=c3c325dd0c593cf47618bf885560e332)
 - [【安全热点】中山大学网络空间安全学院人才招聘](https://sec.thief.one/article_content?a_id=6f273dc1f4691eb608ad653602fe3633)
-- [【安全热点】【安全热点周报】第188期:Apache-Druid官方发布安全更新,修复...](https://sec.thief.one/article_content?a_id=bb92202cfaef88993645c3567209f547)
-- [【安全热点】看了Chrome收集的个人数据,我发现谷歌被控涉嫌垄断不亏](https://sec.thief.one/article_content?a_id=fc709489f89a2e515d3acfb85181b81f)
-- [【安全热点】安全的路很长,一路同行,共同进步](https://sec.thief.one/article_content?a_id=d83ff656cbc2f4b835d936a1d53407cc)
-- [【安全热点】欧盟理事会审议通过欧盟十年网络安全战略](https://sec.thief.one/article_content?a_id=b8dfd29d138ce54e35720fbd3ec6d8fb)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -461,7 +460,6 @@
 - [【InfoQ】Pinterest-搜索系统实时化的挑战和建设实践](https://www.ershicimi.com/p/7cf36efd6f8a8c82f96ac5bd98aca71a)
 - [【InfoQ】绕过-Docker-，大规模杀死容器](https://www.ershicimi.com/p/eb6080746bd663e8ad8dc8f53403ab13)
 - [【V2EX】在-GitHub-docker-maven-的-issue-看到一个非常不识好歹的](https://www.v2ex.com/t/768439)
-- [【V2EX】Linux-的-dump-命令（工具）导出的备份镜像文件，是怎样的结构的？结尾是-bz2，但无法解压呢，但用-restore--t--f-可以看到文件列表，请问有什么更详细的查看工...](https://www.v2ex.com/t/768407)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -487,6 +485,7 @@
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【开发者头条】推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0)
 - [【开发者头条】推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1)
+- [【安全热点】这个让马斯克疯狂推荐的聊天软件,在Github上火了](https://sec.thief.one/article_content?a_id=c042f93bd773761d840136b23a121628)
 - [【安全热点】震惊了!每30秒学会一个Python小技巧,Github星数4600+](https://sec.thief.one/article_content?a_id=3e001c40e04b50ec2666ad40e6222c8a)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

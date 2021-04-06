@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-06 12:24:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-06 12:43:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -33,9 +33,10 @@
 - [2021-04-02-面试官问：前后端分离项目，有什么优缺点？我说：没](https://www.ershicimi.com/p/6771b9391a83b562ab70beb296e2575a) 
 - [2021-04-04-我面试了-10-个-Java-工程师，全军覆没-｜-极客时间](https://www.ershicimi.com/p/fa70c29544423bf28c3902897afbfc99) 
 - [2021-03-24-字节跳动高频100道核心前端面试题解析](https://www.ershicimi.com/p/bd6c66f84e2c88714b5520bdbd5e1927) 
+- [2021-04-06-北京-火花思维招聘-Java-后端、前端开发（坐标望京）](https://www.v2ex.com/t/768479) 
 - [2021-04-06-盖楼抽奖-高效的-CTO-是如何让技术团队的面试效率提高-6-倍的？](https://www.v2ex.com/t/768452) 
 - [2021-04-06-Golang-面试题：对已经关闭的的-chan-进行读写，会怎么样？为什么？](https://toutiao.io/k/blmg8fq) 
 - [2021-04-06-面试高频题：Spring-和-SpringMvc-父子容器你能说清楚吗？](https://toutiao.io/k/b9hkrjc) 
-- [2021-04-06-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) 
 - [2021-04-06-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) 
+- [2021-04-06-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) 
 - [2021-04-05-牛聘|2021年度岗位招聘第6期](https://sec.thief.one/article_content?a_id=a13ad7f2403fddf64f9a2d4a101c912a) 

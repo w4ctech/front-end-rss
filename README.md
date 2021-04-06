@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-06 12:03:20，:rocket: 更新条数: +686， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-06 12:24:17，:rocket: 更新条数: +683， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -749,6 +749,12 @@
 </summary>
 
 
+- [2021-04-06-一个90后员工猝死的全过程](https://www.ershicimi.com/p/ce6f8c3d4c96e5095439e1c4e36983a7) ![](assets/new.png)  
+- [2021-04-06-Wifi万能钥匙已经被淘汰了！Github这个开源工具太好用了！](https://www.ershicimi.com/p/7b70b121ca1b5177401810633d1d9643) ![](assets/new.png)  
+- [2021-04-06-IDEA-这样配置注释模板，让你高出一个逼格！](https://www.ershicimi.com/p/123ef6713356f709df2956ef95bb5619) ![](assets/new.png)  
+- [2021-04-05-2021年3月程序员工资统计，又拖后腿了……](https://www.ershicimi.com/p/a7c507a9cc8af779b10b336876a37b13) ![](assets/new.png)  
+- [2021-04-05-重点推荐一款开源的devops工具！](https://www.ershicimi.com/p/69ac22c89b27f0cb837de7b4d7093328) ![](assets/new.png)  
+- [2021-04-05-服务端如何防止订单重复支付？](https://www.ershicimi.com/p/1759ea77b3f8441cec6d4e560eda1dd8) ![](assets/new.png)  
 - [2021-04-04-您已关注公众号满1年，诚邀您免费加入互联网人专属金融学习交流群！](https://www.ershicimi.com/p/f51c9d1f1aca2f2436b3f93fb28f9cf5) ![](assets/new.png)  
 - [2021-04-04-Spring-中经典的-9-种设计模式，打死也要记住啊！](https://www.ershicimi.com/p/964d9b2c4a09a4dcb3946fd842779eba) ![](assets/new.png)  
 - [2021-04-04-SQL-子查询怎么优化？写的很深！](https://www.ershicimi.com/p/b4cd000b13b723485a5f42ecc82ec1cb) ![](assets/new.png)  
@@ -763,12 +769,6 @@
 - [2021-04-01-读完-Effective-Java，我整理这-59-条技巧！](https://www.ershicimi.com/p/d20b9ee76ced92e30c63e801a0dc9f72) ![](assets/new.png)  
 - [2021-03-31-SQL-语句中-where-条件后-写上-1=1-是什么意思！](https://www.ershicimi.com/p/d1487fc63ef401c0c496bb980c701d71) ![](assets/new.png)  
 - [2021-03-31-2021年2月移动互联网全行业排行榜](https://www.ershicimi.com/p/04a16ef5baad5a749a33e4ef55ca5ea0) ![](assets/new.png)  
-- [2021-03-31-Redis-性能优化思路，写的非常好！](https://www.ershicimi.com/p/b1e269b3d22fa92b191304c9fbb9b006) ![](assets/new.png)  
-- [2021-03-30-GitHub-近两万-Star，无需编码，可一键生成前后端代码，这个开源项目有点强！](https://www.ershicimi.com/p/2d2c523d0c86f510bed7ebdc4451dc44) ![](assets/new.png)  
-- [2021-03-30-创业项目黄了，我靠着被废弃的副业项目，年收入45亿，将公司做到了200多亿市值](https://www.ershicimi.com/p/24bcec405d96f480fe0763e0e9512305) ![](assets/new.png)  
-- [2021-03-30-为什么-MySQL-不推荐使用-join？](https://www.ershicimi.com/p/aa59268d31378b5f9c444cbc49fa6d7e) ![](assets/new.png)  
-- [2021-03-29-感受lambda之美，推荐收藏，需要时查阅](https://www.ershicimi.com/p/6ba7428989b35161e17edf3bfc61f3b7) ![](assets/new.png)  
-- [2021-03-29-首次曝光！支付宝支付加密规则梳理，写的太好了！](https://www.ershicimi.com/p/69a93db649e2378330580de40f9c7813) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -937,6 +937,9 @@
 </summary>
 
 
+- [2021-04-06-v2ray-如何访问服务器局域网网段](https://www.v2ex.com/t/768477) ![](assets/new.png)  
+- [2021-04-06-深圳/广州阿里旗下-Lazada-社招校招内推-Android-端/iOS-端/-Java-端/前端岗](https://www.v2ex.com/t/768474) ![](assets/new.png)  
+- [2021-04-06-2021-年了，-macbook-的中英文输入切换仍然不够流畅](https://www.v2ex.com/t/768472) ![](assets/new.png)  
 - [2021-04-06-🔥🔥🔥腾讯云新车特惠-1-核-2G5M240-元左右三年-2-核-4G5M590-左右三年良心云🔥-🔥🔥🔥腾讯云香港香港也有优惠-只是没有这么大🔥🔥�...](https://www.v2ex.com/t/768471) ![](assets/new.png)  
 - [2021-04-06-帮忙看看-offer-如何选择](https://www.v2ex.com/t/768470) ![](assets/new.png)  
 - [2021-04-06-有跨海的业务，服务器怎么部署？](https://www.v2ex.com/t/768469) ![](assets/new.png)  
@@ -954,9 +957,6 @@
 - [2021-04-06-北京-欧陆经典小区-5-号线-15-号线附近-找个舍友](https://www.v2ex.com/t/768446) ![](assets/new.png)  
 - [2021-04-06-关于-Socket-通信的缓冲池问题](https://www.v2ex.com/t/768443) ![](assets/new.png)  
 - [2021-04-06-聚名网一口价市场的域名可以一次导出超过-5000-个吗？](https://www.v2ex.com/t/768442) ![](assets/new.png)  
-- [2021-04-06-咨询贴：广州地区函授专科升本](https://www.v2ex.com/t/768440) ![](assets/new.png)  
-- [2021-04-06-在-GitHub-docker-maven-的-issue-看到一个非常不识好歹的](https://www.v2ex.com/t/768439) ![](assets/new.png)  
-- [2021-04-06-奇怪的事情，-Dell-台式机内存使用率最高-16G](https://www.v2ex.com/t/768438) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1015,8 +1015,8 @@
 - [2021-04-06-认识爬虫：怎么使用代理-IP-规避反爬虫以及使用爬虫获取更多可用的免费代理-IP？](https://toutiao.io/k/ots4ffq) ![](assets/new.png)  
 - [2021-04-06-大内总管教你-JDK-动态代理](https://toutiao.io/k/3n9h4eb) ![](assets/new.png)  
 - [2021-04-06-译-Serverless-与轻量级虚拟化-Firecracker](https://toutiao.io/k/uyoc7pt) ![](assets/new.png)  
-- [2021-04-06-深入分析-Flutter-渲染性能](https://toutiao.io/k/h839930) ![](assets/new.png)  
 - [2021-04-06-Netty-核心源码解读：EventLoop-篇](https://toutiao.io/k/ufsrsis) ![](assets/new.png)  
+- [2021-04-06-深入分析-Flutter-渲染性能](https://toutiao.io/k/h839930) ![](assets/new.png)  
 - [2021-04-06-前端如何搞定算法面试？](https://toutiao.io/k/ah5a0j6) ![](assets/new.png)  
 - [2021-04-06-Android-内存泄露检测-LeakCanary-2.0（Kotlin-版）的实现原理](https://toutiao.io/k/i0viec6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-06 21:51:53，:rocket: 更新条数: +687， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-06 22:03:05，:rocket: 更新条数: +684， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -76,9 +76,6 @@
 </summary>
 
 
-- [2021-04-06-全国｜新增确诊-24-例-其中本土-15-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEGBuzPnZ2mW3dJyok5XK210406&isfromapp=1) ![](assets/new.png)  
-- [2021-04-05-云南｜4-月-6-日-8-时起-瑞丽启动第二轮全员核酸](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKycJ7kzAJdy2QAEcpEz210405&isfromapp=1) ![](assets/new.png)  
-- [2021-04-05-云南｜瑞丽-3-地高风险-6-地中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix9C3TrHeXhydnvg1QOSE210405&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

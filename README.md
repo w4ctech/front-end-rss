@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-06 12:57:15，:rocket: 更新条数: +684， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-06 13:10:33，:rocket: 更新条数: +682， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -937,6 +937,8 @@
 </summary>
 
 
+- [2021-04-06-Mac-QQ-体验版啥时候更新-m1-适配版本...](https://www.v2ex.com/t/768488) ![](assets/new.png)  
+- [2021-04-06-上海-CloudFine-多云原生初创团队招聘](https://www.v2ex.com/t/768487) ![](assets/new.png)  
 - [2021-04-06-g304-太滑，贴了-tb-买的塑料贴也还滑，老铁们有什么高招吗？](https://www.v2ex.com/t/768485) ![](assets/new.png)  
 - [2021-04-06-Angular-的官方-e2e-测试框架-Protractor-终于要-Bye-bye-了](https://www.v2ex.com/t/768484) ![](assets/new.png)  
 - [2021-04-06-如何快速制作-Awesome-个人资料图片](https://www.v2ex.com/t/768483) ![](assets/new.png)  
@@ -955,8 +957,6 @@
 - [2021-04-06-吐槽一下字节的-HR](https://www.v2ex.com/t/768465) ![](assets/new.png)  
 - [2021-04-06-打算用-Spring-AbstractRoutingDataSource-做一主多从-但是和事务搭配实现上感觉不太对头，怎么解决？](https://www.v2ex.com/t/768464) ![](assets/new.png)  
 - [2021-04-06-毕业学长分享就业经验](https://www.v2ex.com/t/768463) ![](assets/new.png)  
-- [2021-04-06-如果能看见未来，你会怎么做？](https://www.v2ex.com/t/768461) ![](assets/new.png)  
-- [2021-04-06-Ring-Fit-Adventure-健身环大冒险-获得所有-281-个称号，完成二周目](https://www.v2ex.com/t/768460) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

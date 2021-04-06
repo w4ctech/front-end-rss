@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-06 17:49:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-06 18:03:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-06-istio-问题请教，为啥不能通过一个-istio-ingressgateway-pod-+-多个-service-LB对外提供服务？](https://www.v2ex.com/t/768538) 
 - [2021-04-06-App-如何发布到全球所有国家地区的-App-Store-和-Google-Play-商店？](https://www.v2ex.com/t/768537) 
 - [2021-04-06-ac+下月到期，-iPad-目前没出问题，想走换新，有什么合适的方法？](https://www.v2ex.com/t/768536) 
 - [2021-04-06-springboot-kotlin-和-Java-混编，-json-序列化用哪个比较好](https://www.v2ex.com/t/768535) 
@@ -39,4 +40,3 @@
 - [2021-04-06-Mac-book-air-m1-安装了赤友-NTFS-助手-部分移动硬盘里的文件-无法显示和和读取](https://www.v2ex.com/t/768493) 
 - [2021-04-06-flutter-加-H5-app-的消息中心用原生还是-H5?](https://www.v2ex.com/t/768492) 
 - [2021-04-06-招聘-JavaScript-引擎V8工程师---PLCT-Lab---北京、南京、银河系](https://www.v2ex.com/t/768491) 
-- [2021-04-06-Mac-QQ-体验版啥时候更新-m1-适配版本...](https://www.v2ex.com/t/768488) 

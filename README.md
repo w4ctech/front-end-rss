@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-06 17:09:35，:rocket: 更新条数: +685， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-06 17:23:14，:rocket: 更新条数: +685， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -937,6 +937,7 @@
 </summary>
 
 
+- [2021-04-06-Shopee-这个公司的-HR-专业度真的是有待提高](https://www.v2ex.com/t/768534) ![](assets/new.png)  
 - [2021-04-06-写了一个提取公积金及公积金贷款的教程，希望能帮助到读者](https://www.v2ex.com/t/768533) ![](assets/new.png)  
 - [2021-04-06-谁可以给一个阿里云续费.net-域名的优惠口令？](https://www.v2ex.com/t/768531) ![](assets/new.png)  
 - [2021-04-06-4g-标志突然消失-无法联网-大家遇到过这种问题吗？](https://www.v2ex.com/t/768530) ![](assets/new.png)  
@@ -956,7 +957,6 @@
 - [2021-04-06-可能从-PDFTextIndex-恢复出存储在-notability-中的-pdf-吗？因为以为删-icloud-上的备份不会影响本地误删，用恢复软件后只能拿到这种名字的文件。](https://www.v2ex.com/t/768509) ![](assets/new.png)  
 - [2021-04-06-DBngin-新发现的数据库-Gui，免费版-TablePlus？？](https://www.v2ex.com/t/768508) ![](assets/new.png)  
 - [2021-04-06-前端开发，这个月去成都找工作了，-一般哪里工作的多呢?-租房又在哪里呢?](https://www.v2ex.com/t/768507) ![](assets/new.png)  
-- [2021-04-06-买的惠普台式机装了一张假的显卡！](https://www.v2ex.com/t/768506) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

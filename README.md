@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-06 00:47:10，:rocket: 更新条数: +146， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-06 01:15:31，:rocket: 更新条数: +3650， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)  
 
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-04-06-云南瑞丽4月5日新增新冠确诊病例15例-无症状感染者2例](https://m.caixin.com/m/2021-04-06/101685875.html) ![](assets/new.png)  
+- [2021-04-05-最新疫情：全国新冠累计确诊90305例-累计接种新冠疫苗近1.4亿剂次](https://m.caixin.com/m/2021-04-05/101685841.html) ![](assets/new.png)  
+- [2021-04-05-最新海外疫情：新冠感染超1.31亿-累计死亡超284万](https://m.caixin.com/m/2021-04-05/101685843.html) ![](assets/new.png)  
+- [2021-04-05-云南瑞丽4月4日新增新冠确诊病例15例-无症状感染者5例](https://m.caixin.com/m/2021-04-05/101685796.html) ![](assets/new.png)  
+- [2021-04-05-【境内疫情观察】云南瑞丽新增15例本土病例（4月4日）](http://m.database.caixin.com/m/2021-04-05/101685814.html) ![](assets/new.png)  
+- [2021-04-05-多地试行公共活动疫苗护照-印度新冠疫情急速恶化｜大流行手记（4月4日）](https://m.caixin.com/m/2021-04-05/101685810.html) ![](assets/new.png)  
+- [2021-04-04-【境内疫情观察】云南新增10例本土病例和1例无症状感染者（4月3日）](http://m.database.caixin.com/m/2021-04-04/101685756.html) ![](assets/new.png)  
+- [2021-04-04-阿根廷总统接种后感染新冠-国药疫苗获欧盟GMP认证｜大流行手记（4月3日）](https://m.caixin.com/m/2021-04-04/101685736.html) ![](assets/new.png)  
+- [2021-04-03-4月2日云南新增本土确诊7例-无症状感染者5例](https://m.caixin.com/m/2021-04-03/101685501.html) ![](assets/new.png)  
+- [2021-04-03-【境内疫情观察】云南瑞丽新增7例本土病例（4月2日）](http://m.database.caixin.com/m/2021-04-03/101685623.html) ![](assets/new.png)  
+- [2021-04-03-德国允许混打疫苗-科兴称新冠疫苗年产能将达20亿剂丨大流行手记（4月2日）](https://m.caixin.com/m/2021-04-03/101685491.html) ![](assets/new.png)  
+- [2021-04-02-聚焦|张文宏：近期瑞丽疫情透露的几个关键信息](http://m.opinion.caixin.com/m/2021-04-02/101685037.html) ![](assets/new.png)  
+- [2021-04-02-【境内疫情观察】云南瑞丽5地调整为中风险地区（4月1日）](http://m.database.caixin.com/m/2021-04-02/101685059.html) ![](assets/new.png)  
+- [2021-04-02-新冠疫情中期全球将削减3%经济产出-法国第三次全国隔离丨大流行手记（4月1日）](https://m.caixin.com/m/2021-04-02/101684951.html) ![](assets/new.png)  
+- [2021-04-01-瑞丽阳性病例再增7人-全市紧急接种新冠疫苗](https://m.caixin.com/m/2021-04-01/101684875.html) ![](assets/new.png)  
+- [2021-04-01-新冠疫苗接种排长队-深圳医生盼信息系统稳定运行](https://m.caixin.com/m/2021-04-01/101684865.html) ![](assets/new.png)  
+- [2021-04-01-云南瑞丽城区学校3月31日起全面停课](http://m.china.caixin.com/m/2021-04-01/101684511.html) ![](assets/new.png)  
+- [2021-04-01-3月31日云南新增新冠确诊6例-无症状感染者23例](https://m.caixin.com/m/2021-04-01/101684251.html) ![](assets/new.png)  
+- [2021-04-01-【境内疫情观察】云南省瑞丽市开展市区全员核酸检测（3月31日）](http://m.database.caixin.com/m/2021-04-01/101684547.html) ![](assets/new.png)  
+- [2021-04-01-辉瑞称疫苗对青少年100%有效-俄注册世界首个兽用新冠疫苗丨大流行手记（3月31日）](https://m.caixin.com/m/2021-04-01/101684275.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -474,6 +494,10 @@
 </summary>
 
 
+- [2021-04-06-《思考的男人》](https://www.v2ex.com/t/768233) ![](assets/new.png)  
+- [2021-04-06-我放弃上海的高薪，选择回老家了！](https://www.v2ex.com/t/768231) ![](assets/new.png)  
+- [2021-04-06-求一份-Python-带权限认证的-api-模板学习！](https://www.v2ex.com/t/768230) ![](assets/new.png)  
+- [2021-04-06-收个二手一加-8T，有出的没？](https://www.v2ex.com/t/768228) ![](assets/new.png)  
 - [2021-04-06-突发奇想-app《955-提醒⏰》](https://www.v2ex.com/t/768227) ![](assets/new.png)  
 - [2021-04-06-今天才发现，-github-竟然还提供了短链接服务](https://www.v2ex.com/t/768226) ![](assets/new.png)  
 - [2021-04-06-你们长辈的口腔情况如何？](https://www.v2ex.com/t/768225) ![](assets/new.png)  
@@ -490,10 +514,6 @@
 - [2021-04-05-在香港使用-dns.google-忽然无法解析出微信公众号的域名了](https://www.v2ex.com/t/768209) ![](assets/new.png)  
 - [2021-04-05-iOS-上有没有可以对-markdown-文件进行文本搜索的-app？](https://www.v2ex.com/t/768208) ![](assets/new.png)  
 - [2021-04-05-想要财富自由吗？胡润财富自由门槛入门级别的那种，天才第一步，从一个壁纸开始。](https://www.v2ex.com/t/768207) ![](assets/new.png)  
-- [2021-04-05-安居客是有被害妄想症么...还是现在反爬虫形势已经这么严峻了...](https://www.v2ex.com/t/768204) ![](assets/new.png)  
-- [2021-04-05-ARM64-汇编中有关-jump-table-的问题](https://www.v2ex.com/t/768203) ![](assets/new.png)  
-- [2021-04-05-问下-V-友，-5-年+前端能拿多少-K-啊？](https://www.v2ex.com/t/768200) ![](assets/new.png)  
-- [2021-04-05-请问怎么能找到质量有保证的外包兼职？](https://www.v2ex.com/t/768198) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -516,6 +536,26 @@
 </summary>
 
 
+- [2021-04-06-Java-中的映射-Map（入门篇）](https://toutiao.io/k/2j4xsag) ![](assets/new.png)  
+- [2021-04-06-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-06-浮点数，你真的懂了吗？](https://toutiao.io/k/343f4ae) ![](assets/new.png)  
+- [2021-04-06-Golang-面试题：对已经关闭的的-chan-进行读写，会怎么样？为什么？](https://toutiao.io/k/blmg8fq) ![](assets/new.png)  
+- [2021-04-06-译-Serverless-与轻量级虚拟化-Firecracker](https://toutiao.io/k/uyoc7pt) ![](assets/new.png)  
+- [2021-04-06-一文学懂动态规划](https://toutiao.io/k/l47jh7e) ![](assets/new.png)  
+- [2021-04-06-数据湖-Iceberg：实时数据仓库的发展、架构和趋势](https://toutiao.io/k/6gjfwif) ![](assets/new.png)  
+- [2021-04-06-深入分析-Flutter-渲染性能](https://toutiao.io/k/h839930) ![](assets/new.png)  
+- [2021-04-06-Android-内存泄露检测-LeakCanary-2.0（Kotlin-版）的实现原理](https://toutiao.io/k/i0viec6) ![](assets/new.png)  
+- [2021-04-06-认识爬虫：怎么使用代理-IP-规避反爬虫以及使用爬虫获取更多可用的免费代理-IP？](https://toutiao.io/k/ots4ffq) ![](assets/new.png)  
+- [2021-04-06-搞定-Protocol-Buffers-上：使用篇](https://toutiao.io/k/yprqo9f) ![](assets/new.png)  
+- [2021-04-06-美团图数据库平台建设及业务实践](https://toutiao.io/k/k7wre2g) ![](assets/new.png)  
+- [2021-04-06-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
+- [2021-04-06-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
+- [2021-04-06-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-06-推荐-Spring-Boot-中优雅的使用-Swagger-2（史上最全注解篇）](https://toutiao.io/k/2qkwu5f) ![](assets/new.png)  
+- [2021-04-06-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
+- [2021-04-06-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
+- [2021-04-06-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
+- [2021-04-06-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-06 13:10:33，:rocket: 更新条数: +682， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-06 13:24:52，:rocket: 更新条数: +682， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -937,6 +937,7 @@
 </summary>
 
 
+- [2021-04-06-招聘-JavaScript-引擎V8工程师---PLCT-Lab---北京、南京、银河系](https://www.v2ex.com/t/768491) ![](assets/new.png)  
 - [2021-04-06-Mac-QQ-体验版啥时候更新-m1-适配版本...](https://www.v2ex.com/t/768488) ![](assets/new.png)  
 - [2021-04-06-上海-CloudFine-多云原生初创团队招聘](https://www.v2ex.com/t/768487) ![](assets/new.png)  
 - [2021-04-06-g304-太滑，贴了-tb-买的塑料贴也还滑，老铁们有什么高招吗？](https://www.v2ex.com/t/768485) ![](assets/new.png)  
@@ -956,7 +957,6 @@
 - [2021-04-06-edge-浏览器怎么为不同用户创建桌面快捷方式？](https://www.v2ex.com/t/768466) ![](assets/new.png)  
 - [2021-04-06-吐槽一下字节的-HR](https://www.v2ex.com/t/768465) ![](assets/new.png)  
 - [2021-04-06-打算用-Spring-AbstractRoutingDataSource-做一主多从-但是和事务搭配实现上感觉不太对头，怎么解决？](https://www.v2ex.com/t/768464) ![](assets/new.png)  
-- [2021-04-06-毕业学长分享就业经验](https://www.v2ex.com/t/768463) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

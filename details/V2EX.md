@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-04-06 05:40:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-06 05:53:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-06-校招简历点评之三](https://www.v2ex.com/t/768360) 
+- [2021-04-06-一年经验用十年在程序员圈子是指什么概念](https://www.v2ex.com/t/768359) 
+- [2021-04-06-求教-Java-.nio.file.Paths.get-从-Linux-迁移到-Windows-时出错是什么原因](https://www.v2ex.com/t/768358) 
 - [2021-04-06-Mac-微信朋友圈图片，点开滑动会闪一下前一张的图片](https://www.v2ex.com/t/768356) 
 - [2021-04-06-救助，-Mac-系统下-composer-报错-Protocol-"https"-not-supported-or-disabled-in-libcurl](https://www.v2ex.com/t/768355) 
 - [2021-04-06-红帽Red-Hat内推，招聘-web-方向高级软件工程师2021-04](https://www.v2ex.com/t/768354) 
@@ -34,5 +37,3 @@
 - [2021-04-06-配置组件里面的-embedded-通常指什么？](https://www.v2ex.com/t/768316) 
 - [2021-04-06-从-AVX2-机器编译-AVX-512-代码失败](https://www.v2ex.com/t/768314) 
 - [2021-04-06-周末团建，各位会去吗？](https://www.v2ex.com/t/768312) 
-- [2021-04-06-招聘上海-万物新生（爱回收）-Java-后端开发工程师](https://www.v2ex.com/t/768311) 
-- [2021-04-06-人生第一款-macbook，应该买英特尔的还是-M1？](https://www.v2ex.com/t/768308) 

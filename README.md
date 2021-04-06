@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-06 19:01:01，:rocket: 更新条数: +663， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-06 19:12:20，:rocket: 更新条数: +687， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -76,6 +76,9 @@
 </summary>
 
 
+- [2021-04-06-全国｜新增确诊-24-例-其中本土-15-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEGBuzPnZ2mW3dJyok5XK210406&isfromapp=1) ![](assets/new.png)  
+- [2021-04-05-云南｜4-月-6-日-8-时起-瑞丽启动第二轮全员核酸](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKycJ7kzAJdy2QAEcpEz210405&isfromapp=1) ![](assets/new.png)  
+- [2021-04-05-云南｜瑞丽-3-地高风险-6-地中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix9C3TrHeXhydnvg1QOSE210405&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -934,6 +937,7 @@
 </summary>
 
 
+- [2021-04-06-飞利浦电动牙刷的质量实在是太差了.....](https://www.v2ex.com/t/768539) ![](assets/new.png)  
 - [2021-04-06-istio-问题请教，为啥不能通过一个-istio-ingressgateway-pod-+-多个-service-LB对外提供服务？](https://www.v2ex.com/t/768538) ![](assets/new.png)  
 - [2021-04-06-App-如何发布到全球所有国家地区的-App-Store-和-Google-Play-商店？](https://www.v2ex.com/t/768537) ![](assets/new.png)  
 - [2021-04-06-ac+下月到期，-iPad-目前没出问题，想走换新，有什么合适的方法？](https://www.v2ex.com/t/768536) ![](assets/new.png)  
@@ -953,7 +957,6 @@
 - [2021-04-06-Go-+-gRPC-GatewayV2-构建微服务实战系列，小程序登录鉴权服务：第一篇](https://www.v2ex.com/t/768517) ![](assets/new.png)  
 - [2021-04-06-中国电信光猫桥接确实限速了-……](https://www.v2ex.com/t/768516) ![](assets/new.png)  
 - [2021-04-06-用-go-实现-socket-，帮忙看看问题处在哪里](https://www.v2ex.com/t/768514) ![](assets/new.png)  
-- [2021-04-06-推荐一个有「温度」的天气预报机器人-🌤](https://www.v2ex.com/t/768512) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -965,6 +968,26 @@
 </summary>
 
 
+- [2021-04-06-Flutter-不是真正的跨平台框架-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14268&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUyrvHsdHHr1xYhtVHbVPSw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-如何得知当前-Activity-是被压入后台，还是跳转到新的-Activity？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14267&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FilOIhSLBMgdXW8r1_X0RmQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-关于-Android-MVVM-一些理解与实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14266&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyULkmIhNy78Zf8zSWRTh-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-5-种可能在-10-年后消失的编程语言-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14265&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtUBfBQUFIwUbTsVcS_ksmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-程序员必知的-7-种软件架构模式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14264&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAJZJ-r6M-x8mqOoeFDhiAw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-CTO-写的代码，真是绝了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14263&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDKf78a8VH4HCrqEmGE_EXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-这几本书帮你渡过最难求职季，对社畜也有用~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14262&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0WO59517gb4O_FMZHJcaPg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-汇总一下-Intellij-IDEA-的炫酷插件-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14261&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyUvMsLlHEGVbbseDK_KnNA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-如何把-if-else-重构成高质量代码？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14260&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fvcj9fVsIimlGf4x-NTllOQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-有个计算机专业的老公有多爽？？？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14259&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUIDASnNHFKrYj_L_pu4O2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-Flutter-2-重磅来袭，重大能力突破，好不惊喜！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14258&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4E9bEYWEEfnZRZH0yjXKVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-优酷-iOS-插件化页面架构方法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14257&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fu0JwZkydMZJMRrmXEKLazw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-这也行？iOS-后台锁屏监听摇一摇-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14256&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQLgNhBJh0QpKaQWf07rBtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-摆脱-Android-和-iOS：七款免费开源移动操作系统的尝试-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14255&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHjVrXu8feUtapaEe4-bAQw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-4-个色情网站被一锅端，9-名福利姬被刑拘！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14254&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3ztxZ6y15nXSeHhqLyssPA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-必须知道的-11-个微前端框架-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14253&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fo9ZAzI5TFc434h-v3nRJEQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-腾讯-Code-Review-规范出炉！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-色情版“微信”背后的秘密，太可怕了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14251&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwclp7RpOv8Jcyqv5GS6btw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-JavaScript-奇葩知识大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14250&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVAzk0r95EAVho5jskcTc2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-06-Windows-10-2009-官方光盘映像下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14249&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwQtknMQFaBr_UsRvkpWpQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-06 23:24:11，:rocket: 更新条数: +4166， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-06 23:40:15，:rocket: 更新条数: +4166， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1025,8 +1025,8 @@
 - [2021-04-06-Elasticsearch-第三弹之存储原理](https://toutiao.io/k/yyhrqlm) ![](assets/new.png)  
 - [2021-04-06-一文学懂动态规划](https://toutiao.io/k/l47jh7e) ![](assets/new.png)  
 - [2021-04-06-Golang-面试题：对已经关闭的的-chan-进行读写，会怎么样？为什么？](https://toutiao.io/k/blmg8fq) ![](assets/new.png)  
-- [2021-04-06-美团图数据库平台建设及业务实践](https://toutiao.io/k/k7wre2g) ![](assets/new.png)  
 - [2021-04-06-数据湖-Iceberg：实时数据仓库的发展、架构和趋势](https://toutiao.io/k/6gjfwif) ![](assets/new.png)  
+- [2021-04-06-美团图数据库平台建设及业务实践](https://toutiao.io/k/k7wre2g) ![](assets/new.png)  
 - [2021-04-06-搞定-Protocol-Buffers（上）：使用篇](https://toutiao.io/k/yprqo9f) ![](assets/new.png)  
 - [2021-04-06-困在“墙”里的中年程序员](https://toutiao.io/k/ust6dd7) ![](assets/new.png)  
 - [2021-04-06-如何从-0-到-1-构建埋点体系](https://toutiao.io/k/wkkxw96) ![](assets/new.png)  

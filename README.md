@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-06 18:45:59，:rocket: 更新条数: +663， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-06 19:01:01，:rocket: 更新条数: +663， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,9 +50,9 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -903,6 +903,26 @@
 </summary>
 
 
+- [2021-03-29-有哪些看似愚蠢实则精妙无比的设计？——棉花地里特立独行的「下蛋鸡」](https://www.ershicimi.com/p/21551be94bf93d189020ac75db4db4ed) ![](assets/new.png)  
+- [2021-03-29-对视-4-分钟，你会爱上对方吗？研究：会的](https://www.ershicimi.com/p/40f7170cc17a42eb6e4ffc85877141c0) ![](assets/new.png)  
+- [2021-03-29-知乎故事-|-半夜，一个男的爬进了我们宿舍……](https://www.ershicimi.com/p/f522aa8e1aeb979267bd550d57278d69) ![](assets/new.png)  
+- [2021-03-28-本周知乎热榜-|-新疆棉花风波，货轮搁浅致苏伊士运河堵塞-，女子因整容手术智力降至-1-岁婴儿水平](https://www.ershicimi.com/p/62f9e50c9aa8a2e3126e0ee79ba55fa4) ![](assets/new.png)  
+- [2021-03-28-特殊时期，如何为娃的免疫力加油鼓劲？不妨参考「抵抗力白皮书」](https://www.ershicimi.com/p/70148312143c312d8ddace5c43c855b3) ![](assets/new.png)  
+- [2021-03-28-下班后两小时做哪些事情，能让人生有巨大改变？](https://www.ershicimi.com/p/1652d7d1a65efbe589e8c0a3890ceea8) ![](assets/new.png)  
+- [2021-03-28-知乎故事-|-我们和他们，究竟快不快乐？](https://www.ershicimi.com/p/468e329955243d304c6f56312b3832b7) ![](assets/new.png)  
+- [2021-03-26-知-乎-上-市-啦！](https://www.ershicimi.com/p/ead9ce05fec4e6d8f2939b7402eba0a2) ![](assets/new.png)  
+- [2021-03-25-王一博、谭松韵相继终止合作，是时候讲讲新疆棉花事件背后的真相了](https://www.ershicimi.com/p/5fc4b43f5acbcbdf036fb9b2be7b2fcc) ![](assets/new.png)  
+- [2021-03-25-普通女孩怎么提升穿搭品味？](https://www.ershicimi.com/p/7a7aa9f673e3cce4323229fc09b5a835) ![](assets/new.png)  
+- [2021-03-25-知乎故事-|-在新疆摘棉花是什么体验？](https://www.ershicimi.com/p/4dfe2cfcb3e7812c9b486a3de3b65b1b) ![](assets/new.png)  
+- [2021-03-24-服装品牌-H&M-一边造谣抵制新疆棉花，一边又想在中国赚钱？](https://www.ershicimi.com/p/3e74e3d059533f030c223ebda5f5c3ac) ![](assets/new.png)  
+- [2021-03-24-知乎故事-|-在平淡生活中发现细微的美好](https://www.ershicimi.com/p/bf1bb76999c85f37b8167427a9bf37a9) ![](assets/new.png)  
+- [2021-03-24-千万别撩朋友圈对你三天可见的人](https://www.ershicimi.com/p/2af51525c2f7ab9c63147e2c07bef219) ![](assets/new.png)  
+- [2021-03-23-人类和狗，到底谁才是熬夜冠军？](https://www.ershicimi.com/p/27fa22292c3a92a7b8a24de26122c8ee) ![](assets/new.png)  
+- [2021-03-23-知乎故事-|-男生压力大的时候希望女生如何安慰？](https://www.ershicimi.com/p/d0b8284b919d0f5959cd4f9d90fbb266) ![](assets/new.png)  
+- [2021-03-23-有格调的人，每天都在看什么？](https://www.ershicimi.com/p/472b93cc28681426c2a1d1ea38987057) ![](assets/new.png)  
+- [2021-03-22-为什么机场、火车站都修建得那——么大？](https://www.ershicimi.com/p/8a209c3f86b83bd6cd05cfdffb080094) ![](assets/new.png)  
+- [2021-03-22-作为从业者，你对初入游戏行业的新人有哪些建议？](https://www.ershicimi.com/p/57e0214e66013c51f4efa198e2fd5dcb) ![](assets/new.png)  
+- [2021-03-22-2021，手机里超受欢迎的-9-个公众号](https://www.ershicimi.com/p/6d3bb363accc855d81ea9b7f359c26a4) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -945,26 +965,6 @@
 </summary>
 
 
-- [2021-04-06-Flutter-不是真正的跨平台框架-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14268&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUyrvHsdHHr1xYhtVHbVPSw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-如何得知当前-Activity-是被压入后台，还是跳转到新的-Activity？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14267&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FilOIhSLBMgdXW8r1_X0RmQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-关于-Android-MVVM-一些理解与实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14266&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyULkmIhNy78Zf8zSWRTh-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-5-种可能在-10-年后消失的编程语言-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14265&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtUBfBQUFIwUbTsVcS_ksmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-程序员必知的-7-种软件架构模式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14264&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAJZJ-r6M-x8mqOoeFDhiAw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-CTO-写的代码，真是绝了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14263&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDKf78a8VH4HCrqEmGE_EXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-这几本书帮你渡过最难求职季，对社畜也有用~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14262&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0WO59517gb4O_FMZHJcaPg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-汇总一下-Intellij-IDEA-的炫酷插件-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14261&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyUvMsLlHEGVbbseDK_KnNA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-如何把-if-else-重构成高质量代码？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14260&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fvcj9fVsIimlGf4x-NTllOQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-有个计算机专业的老公有多爽？？？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14259&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUIDASnNHFKrYj_L_pu4O2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-Flutter-2-重磅来袭，重大能力突破，好不惊喜！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14258&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4E9bEYWEEfnZRZH0yjXKVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-优酷-iOS-插件化页面架构方法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14257&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fu0JwZkydMZJMRrmXEKLazw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-这也行？iOS-后台锁屏监听摇一摇-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14256&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQLgNhBJh0QpKaQWf07rBtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-摆脱-Android-和-iOS：七款免费开源移动操作系统的尝试-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14255&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHjVrXu8feUtapaEe4-bAQw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-4-个色情网站被一锅端，9-名福利姬被刑拘！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14254&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3ztxZ6y15nXSeHhqLyssPA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-必须知道的-11-个微前端框架-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14253&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fo9ZAzI5TFc434h-v3nRJEQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-腾讯-Code-Review-规范出炉！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-色情版“微信”背后的秘密，太可怕了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14251&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwclp7RpOv8Jcyqv5GS6btw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-JavaScript-奇葩知识大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14250&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVAzk0r95EAVho5jskcTc2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-06-Windows-10-2009-官方光盘映像下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14249&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwQtknMQFaBr_UsRvkpWpQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

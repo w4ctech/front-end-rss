@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-07 13:40:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 13:52:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-07-程序员是否需要买商业保险](https://www.v2ex.com/t/768854) 
+- [2021-04-07-微信小程序换量有没有，累计注册-1.7w+](https://www.v2ex.com/t/768853) 
 - [2021-04-07-为什么有的-PDF-复制粘贴出来会乱码？-mac-和-ios-下](https://www.v2ex.com/t/768852) 
 - [2021-04-07-大家有在用纸质便签做每日-to-do-list-的吗？](https://www.v2ex.com/t/768850) 
 - [2021-04-07-动手写一个简单的编译器：在-JavaScript-中使用-Swift-的尾闭包语法](https://www.v2ex.com/t/768848) 
@@ -35,5 +37,3 @@
 - [2021-04-07-975-收京东-E-卡，芝麻分-790+，可走🐟，绿色-base64：-dGFuZ3JlbjEwMjE=](https://www.v2ex.com/t/768807) 
 - [2021-04-07-公众号留言功能开通了](https://www.v2ex.com/t/768806) 
 - [2021-04-07-求-四季-T-shirt-通用解](https://www.v2ex.com/t/768805) 
-- [2021-04-07-请教一下-nodejs-的命令行工具怎么打包成二进制阿？](https://www.v2ex.com/t/768804) 
-- [2021-04-07-深圳银行卡办理问题](https://www.v2ex.com/t/768803) 

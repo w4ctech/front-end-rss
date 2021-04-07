@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-07 17:48:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 18:04:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,4 +8,8 @@
 
 
 - [2021-04-07-蚂蚁金服社招内推-支付宝基金团队（没错就是全球最大的基金平台之一的余额宝所在的团队）招-Java-开发（P6,P7,P8）。地点：杭州，上海任选，可加面试官微信直...](https://www.v2ex.com/t/768872) 
+- [2021-04-07-面试官：你有啥缺点，咋回答？](https://toutiao.io/k/rpphzhz) 
+- [2021-04-07-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) 
+- [2021-04-07-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) 
+- [2021-04-07-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) 
 - [2021-04-05-牛聘|2021年度岗位招聘第6期](https://sec.thief.one/article_content?a_id=a13ad7f2403fddf64f9a2d4a101c912a) 

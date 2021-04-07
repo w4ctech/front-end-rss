@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-07 01:16:15，:rocket: 更新条数: +4160， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-07 01:28:10，:rocket: 更新条数: +4161， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -956,6 +956,12 @@
 </summary>
 
 
+- [2021-04-07-现在研究生找到腾讯测试的实习，但是未来想做后端开发，不知道选择这样的实习对不对。。](https://www.v2ex.com/t/768572) ![](assets/new.png)  
+- [2021-04-07-go-grpc-部署到-istio-环境问题咨询](https://www.v2ex.com/t/768571) ![](assets/new.png)  
+- [2021-04-07-杭州-30k-是不是基本到头了](https://www.v2ex.com/t/768569) ![](assets/new.png)  
+- [2021-04-07-关于-CISA-证书](https://www.v2ex.com/t/768568) ![](assets/new.png)  
+- [2021-04-07-你用过哪些分布式组件？分布式配置分布式存储](https://www.v2ex.com/t/768567) ![](assets/new.png)  
+- [2021-04-07-学习-golang，大家喜欢看视频还是看文档](https://www.v2ex.com/t/768566) ![](assets/new.png)  
 - [2021-04-07-微软的-JDK](https://www.v2ex.com/t/768565) ![](assets/new.png)  
 - [2021-04-07-国产惠科显示器怎么样，大家用过没，我看性价比挺高的，就是不知道实际使用怎么样](https://www.v2ex.com/t/768564) ![](assets/new.png)  
 - [2021-04-07-微信如何关闭自动联想-未收藏-的表情](https://www.v2ex.com/t/768563) ![](assets/new.png)  
@@ -970,12 +976,6 @@
 - [2021-04-07-FinTech-社区-招聘：量化研究员---40-100-万+奖金---北京/上海](https://www.v2ex.com/t/768552) ![](assets/new.png)  
 - [2021-04-07-怎么缓解开车时的怒气?](https://www.v2ex.com/t/768549) ![](assets/new.png)  
 - [2021-04-06-现在手机的移动检测时怎么做的呢？类似于步数的计算，是加速度传感器之类的吗？](https://www.v2ex.com/t/768547) ![](assets/new.png)  
-- [2021-04-06-Apple-官网-ultrafine4K-显示器售完：要更新？](https://www.v2ex.com/t/768546) ![](assets/new.png)  
-- [2021-04-06-小学生手把手教你写-Swift](https://www.v2ex.com/t/768545) ![](assets/new.png)  
-- [2021-04-06-求助：想入-IT-是否该放弃跨专业考研去参加机构培训](https://www.v2ex.com/t/768542) ![](assets/new.png)  
-- [2021-04-06-老哥们-有没有-it-方面的靠谱北京猎头](https://www.v2ex.com/t/768541) ![](assets/new.png)  
-- [2021-04-06-蒙特卡洛模拟是不是很难做并行计算](https://www.v2ex.com/t/768540) ![](assets/new.png)  
-- [2021-04-06-飞利浦电动牙刷的质量实在是太差了.....](https://www.v2ex.com/t/768539) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1018,10 +1018,10 @@
 </summary>
 
 
-- [2021-04-07-探索-Table-组件虚拟化](https://toutiao.io/k/sothdok) ![](assets/new.png)  
 - [2021-04-07-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
-- [2021-04-07-再谈-synchronized-锁升级](https://toutiao.io/k/8qya0wq) ![](assets/new.png)  
+- [2021-04-07-探索-Table-组件虚拟化](https://toutiao.io/k/sothdok) ![](assets/new.png)  
 - [2021-04-07-Chrome-插件,实用且堪称神器](https://toutiao.io/k/kmh5ibc) ![](assets/new.png)  
+- [2021-04-07-再谈-synchronized-锁升级](https://toutiao.io/k/8qya0wq) ![](assets/new.png)  
 - [2021-04-07-常见的初级排序算法，这次全搞懂](https://toutiao.io/k/grivds8) ![](assets/new.png)  
 - [2021-04-07-从创业者到打工人，我在阿里这-1-年](https://toutiao.io/k/4baxyr7) ![](assets/new.png)  
 - [2021-04-07-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
@@ -1030,14 +1030,14 @@
 - [2021-04-07-两种基础数据图表的解读，人人都应该掌握的技能](https://toutiao.io/k/put4cdu) ![](assets/new.png)  
 - [2021-04-07-百度工程师厂外生存指南](https://toutiao.io/k/hztosml) ![](assets/new.png)  
 - [2021-04-07-如何平滑切换线上-Elasticsearch-索引](https://toutiao.io/k/p5zzinm) ![](assets/new.png)  
-- [2021-04-07-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
 - [2021-04-07-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
-- [2021-04-07-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
-- [2021-04-07-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
-- [2021-04-07-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
-- [2021-04-07-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
+- [2021-04-07-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-07-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
+- [2021-04-07-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-07-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
 - [2021-04-07-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
-- [2021-04-07-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
+- [2021-04-07-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
+- [2021-04-07-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

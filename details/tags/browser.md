@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-07 19:10:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 19:24:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,7 +7,6 @@
 
 
 
-- [2021-03-09-那些与-IE-相伴的日子](https://www.ershicimi.com/p/d9c911d3c0835bf8f9743b70add1478c) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2021-04-07-我的最后一款阅读模式浏览器插件---Circle-阅读模式](https://www.v2ex.com/t/768886) 
 - [2021-04-07-IPv4-和-IPv6-之间用-ZeriTier-不能互访的问题](https://www.v2ex.com/t/768879) 

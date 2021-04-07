@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-07 17:35:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 17:48:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -9,7 +9,6 @@
 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 
-- [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2021-04-07-前端页面第一个-js-文件可以做到阻止后面指定-js-文件的加载和执行吗？](https://www.v2ex.com/t/768865) 
 - [2021-04-07-动手写一个简单的编译器：在-JavaScript-中使用-Swift-的尾闭包语法](https://www.v2ex.com/t/768848) 
 - [2021-04-06-JavaScript-函数劫持攻击原理](https://sec.thief.one/article_content?a_id=3a41f21fbb86bbf3fb166ba30ed652d0) 

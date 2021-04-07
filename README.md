@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-07 00:09:30，:rocket: 更新条数: +4165， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-07 00:26:07，:rocket: 更新条数: +4144， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -957,6 +957,7 @@
 </summary>
 
 
+- [2021-04-07-怎么缓解开车时的怒气?](https://www.v2ex.com/t/768549) ![](assets/new.png)  
 - [2021-04-06-现在手机的移动检测时怎么做的呢？类似于步数的计算，是加速度传感器之类的吗？](https://www.v2ex.com/t/768547) ![](assets/new.png)  
 - [2021-04-06-Apple-官网-ultrafine4K-显示器售完：要更新？](https://www.v2ex.com/t/768546) ![](assets/new.png)  
 - [2021-04-06-小学生手把手教你写-Swift](https://www.v2ex.com/t/768545) ![](assets/new.png)  
@@ -976,7 +977,6 @@
 - [2021-04-06-上海/杭州/北京/武汉社招/校招/实习抖音电商四月冲鸭后端开发工程师](https://www.v2ex.com/t/768526) ![](assets/new.png)  
 - [2021-04-06-最近搞了个微信小店卖牛肉干，突然想起了一个事！](https://www.v2ex.com/t/768525) ![](assets/new.png)  
 - [2021-04-06-求救，-windows10-安装选完语言之后在输入密钥的界面卡死](https://www.v2ex.com/t/768524) ![](assets/new.png)  
-- [2021-04-06-前端转后端学习-Java](https://www.v2ex.com/t/768522) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1019,26 +1019,21 @@
 </summary>
 
 
-- [2021-04-07-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
-- [2021-04-07-Java-中的映射-Map（入门篇）](https://toutiao.io/k/2j4xsag) ![](assets/new.png)  
-- [2021-04-07-浮点数，你真的懂了吗？](https://toutiao.io/k/343f4ae) ![](assets/new.png)  
-- [2021-04-07-Elasticsearch-第三弹之存储原理](https://toutiao.io/k/yyhrqlm) ![](assets/new.png)  
-- [2021-04-07-一文学懂动态规划](https://toutiao.io/k/l47jh7e) ![](assets/new.png)  
-- [2021-04-07-Golang-面试题：对已经关闭的的-chan-进行读写，会怎么样？为什么？](https://toutiao.io/k/blmg8fq) ![](assets/new.png)  
-- [2021-04-07-数据湖-Iceberg：实时数据仓库的发展、架构和趋势](https://toutiao.io/k/6gjfwif) ![](assets/new.png)  
-- [2021-04-07-美团图数据库平台建设及业务实践](https://toutiao.io/k/k7wre2g) ![](assets/new.png)  
-- [2021-04-07-搞定-Protocol-Buffers（上）：使用篇](https://toutiao.io/k/yprqo9f) ![](assets/new.png)  
-- [2021-04-07-困在“墙”里的中年程序员](https://toutiao.io/k/ust6dd7) ![](assets/new.png)  
-- [2021-04-07-如何从-0-到-1-构建埋点体系](https://toutiao.io/k/wkkxw96) ![](assets/new.png)  
-- [2021-04-07-面试高频题：Spring-和-SpringMvc-父子容器你能说清楚吗？](https://toutiao.io/k/b9hkrjc) ![](assets/new.png)  
-- [2021-04-07-认识爬虫：怎么使用代理-IP-规避反爬虫以及使用爬虫获取更多可用的免费代理-IP？](https://toutiao.io/k/ots4ffq) ![](assets/new.png)  
-- [2021-04-07-正确处理-HTML-5-标签的关闭](https://toutiao.io/k/8y9ed0c) ![](assets/new.png)  
-- [2021-04-07-大内总管教你-JDK-动态代理](https://toutiao.io/k/3n9h4eb) ![](assets/new.png)  
-- [2021-04-07-Netty-核心源码解读：EventLoop-篇](https://toutiao.io/k/ufsrsis) ![](assets/new.png)  
-- [2021-04-07-译-Serverless-与轻量级虚拟化-Firecracker](https://toutiao.io/k/uyoc7pt) ![](assets/new.png)  
-- [2021-04-07-深入分析-Flutter-渲染性能](https://toutiao.io/k/h839930) ![](assets/new.png)  
-- [2021-04-07-前端如何搞定算法面试？](https://toutiao.io/k/ah5a0j6) ![](assets/new.png)  
-- [2021-04-07-Android-内存泄露检测-LeakCanary-2.0（Kotlin-版）的实现原理](https://toutiao.io/k/i0viec6) ![](assets/new.png)  
+- [2021-04-07-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
+- [2021-04-07-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
+- [2021-04-07-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
+- [2021-04-07-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
+- [2021-04-07-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
+- [2021-04-07-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-07-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
+- [2021-04-07-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
+- [2021-04-07-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
+- [2021-04-07-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
+- [2021-04-07-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
+- [2021-04-07-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-07-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
+- [2021-04-07-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
+- [2021-04-07-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1050,6 +1045,16 @@
 </summary>
 
 
+- [2021-04-07-【视频】|-Python:if.else的列表推导](https://sec.thief.one/article_content?a_id=84050c41d17bf9cfe108094d0ba9750c) ![](assets/new.png)  
+- [2021-04-06-【安全圈】脸书超-5-亿用户信息泄露!包括扎克伯格电话号码](https://sec.thief.one/article_content?a_id=aab2095007f6dfca25c412edd49f1c1a) ![](assets/new.png)  
+- [2021-04-06-【漏洞更新】VMware-vRealize-Operations-Manager多个漏洞](https://sec.thief.one/article_content?a_id=d5205233aa9fc64d24c51e00f8b9daaf) ![](assets/new.png)  
+- [2021-04-06-每日攻防资讯简报Apr.6th](https://sec.thief.one/article_content?a_id=b425e5ece5fbb3e16e788b0e7b23c5d9) ![](assets/new.png)  
+- [2021-04-06-蓝队的自我修养之事中监控-|-HVV经验分享](https://sec.thief.one/article_content?a_id=250c171a0207fe4e20e2ee97a9ee99a9) ![](assets/new.png)  
+- [2021-04-06-Python-炫技操作:执行函数的九种方法](https://sec.thief.one/article_content?a_id=8718226cf40e4fd881e8f5e9db24518f) ![](assets/new.png)  
+- [2021-04-06-工业互联网正在成为新的“猎物”](https://sec.thief.one/article_content?a_id=0bbac5642cfc7a4cb5d888c0df31503d) ![](assets/new.png)  
+- [2021-04-06-中国已消失的九所世界级大学](https://sec.thief.one/article_content?a_id=38960357809c2d3f58b019f143a5a52c) ![](assets/new.png)  
+- [2021-04-06-JavaScript-函数劫持攻击原理](https://sec.thief.one/article_content?a_id=3a41f21fbb86bbf3fb166ba30ed652d0) ![](assets/new.png)  
+- [2021-04-06-车联网安全能力再获认证!奇安信荣获中国智能网联汽车技术创新成果奖](https://sec.thief.one/article_content?a_id=ba54db40a63e8b09a6f23c211fa9d790) ![](assets/new.png)  
 - [2021-04-06-雷神众测漏洞周报2021.03.29-2021.04.05-4](https://sec.thief.one/article_content?a_id=d6f3fb362f62a2a563838aae4648021a) ![](assets/new.png)  
 - [2021-04-06-【技术分享】glibc-2.27-2.32版本下Tcache-Struct的溢出利用](https://sec.thief.one/article_content?a_id=841c154e2d4c7c32b7f948defc3ff22e) ![](assets/new.png)  
 - [2021-04-06-深化知识图谱技术在网络安全领域融合应用,绿盟科技参与《知识图谱...](https://sec.thief.one/article_content?a_id=40033b94d14d9145249c69a273f55f13) ![](assets/new.png)  
@@ -1060,16 +1065,6 @@
 - [2021-04-06-Facebook超5亿用户个人数据遭到泄露](https://sec.thief.one/article_content?a_id=597791d5239e606bcb6d7ddccf76f310) ![](assets/new.png)  
 - [2021-04-06-WatchDog实施加密劫持活动已经有两年了一](https://sec.thief.one/article_content?a_id=b7af0417fdca24845d43f45d6c9c9a44) ![](assets/new.png)  
 - [2021-04-06-网络安全保障石油化工行业数字化新发展](https://sec.thief.one/article_content?a_id=c2b3ff07c77b2e3f191becac0527b7d6) ![](assets/new.png)  
-- [2021-04-06-每日安全动态推送04-06](https://sec.thief.one/article_content?a_id=c3c325dd0c593cf47618bf885560e332) ![](assets/new.png)  
-- [2021-04-06-从Web日志还原SQL注入拖走的数据](https://sec.thief.one/article_content?a_id=f5a01fe12885620f4fd141c030daeb2e) ![](assets/new.png)  
-- [2021-04-06-一键删好友、修改朋友圈……微信外挂软件主犯被判10年](https://sec.thief.one/article_content?a_id=032f108999237d4d14b9de310596cee2) ![](assets/new.png)  
-- [2021-04-06-加利福尼亚大学已成为勒索软件攻击的受害者](https://sec.thief.one/article_content?a_id=eb1818302b73ad423db18d92b595c46e) ![](assets/new.png)  
-- [2021-04-06-恶意软件导致美国八个州汽车无法年检](https://sec.thief.one/article_content?a_id=4a2c0cec18cf44b979de44ef8f5bc9e6) ![](assets/new.png)  
-- [2021-04-06-【视频】|-工控安全:石油化工行业解决方案](https://sec.thief.one/article_content?a_id=66f671c44dc7b96d630397aa3183a105) ![](assets/new.png)  
-- [2021-04-06-这个让马斯克疯狂推荐的聊天软件,在Github上火了](https://sec.thief.one/article_content?a_id=c042f93bd773761d840136b23a121628) ![](assets/new.png)  
-- [2021-04-06-程序员严峻的生存状态](https://sec.thief.one/article_content?a_id=f6e3c0711e27a888ed7c36694656133d) ![](assets/new.png)  
-- [2021-04-06-从Web日志还原SQL注入拖走的数据](https://sec.thief.one/article_content?a_id=26fbfa98e874e90154c1e23c668293d3) ![](assets/new.png)  
-- [2021-04-05-中山大学网络空间安全学院人才招聘](https://sec.thief.one/article_content?a_id=6f273dc1f4691eb608ad653602fe3633) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

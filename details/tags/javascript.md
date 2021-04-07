@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-07 00:09:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 00:26:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -76,5 +76,6 @@
 - [2021-03-25-王一博、谭松韵相继终止合作，是时候讲讲新疆棉花事件背后的真相了](https://www.ershicimi.com/p/5fc4b43f5acbcbdf036fb9b2be7b2fcc) 
 - [2021-04-06-springboot-kotlin-和-Java-混编，-json-序列化用哪个比较好](https://www.v2ex.com/t/768535) 
 - [2021-04-07-JavaScript-奇葩知识大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14250&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVAzk0r95EAVho5jskcTc2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-04-06-JavaScript-函数劫持攻击原理](https://sec.thief.one/article_content?a_id=3a41f21fbb86bbf3fb166ba30ed652d0) 
 - [2021-04-03-BUF大事件丨16美元就可以打包带走所有短信;宏碁回应遭网络攻击](https://sec.thief.one/article_content?a_id=06bb45d333a48097cd308ca955265db9) 
 - [2021-04-01-【安全圈】Ubiquiti-被指控隐瞒数据泄漏事件](https://sec.thief.one/article_content?a_id=2137eb5e4096254acf01ea4c6c65b4c3) 

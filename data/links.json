@@ -20023,6 +20023,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "怎么缓解开车时的怒气?",
+        "link": "https://www.v2ex.com/t/768549",
+        "date": "2021-04-07"
+      },
+      {
         "title": "现在手机的移动检测时怎么做的呢？类似于步数的计算，是加速度传感器之类的吗？",
         "link": "https://www.v2ex.com/t/768547",
         "date": "2021-04-06"
@@ -20186,16 +20191,6 @@
         "title": "微信？",
         "link": "https://www.v2ex.com/t/768502",
         "date": "2021-04-06"
-      },
-      {
-        "title": "苏州 Unity3D 和上海收入差距差多少？",
-        "link": "https://www.v2ex.com/t/768500",
-        "date": "2021-04-06"
-      },
-      {
-        "title": "[深圳 /北京 /武汉] 腾讯云前端开发岗位-继续招人",
-        "link": "https://www.v2ex.com/t/768499",
-        "date": "2021-04-06"
       }
     ]
   },
@@ -20312,143 +20307,18 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "Java 中的映射 Map（入门篇）",
-        "link": "https://toutiao.io/k/2j4xsag",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "浮点数，你真的懂了吗？",
-        "link": "https://toutiao.io/k/343f4ae",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "Elasticsearch 第三弹之存储原理",
-        "link": "https://toutiao.io/k/yyhrqlm",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "一文学懂动态规划",
-        "link": "https://toutiao.io/k/l47jh7e",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "Golang 面试题：对已经关闭的的 chan 进行读写，会怎么样？为什么？",
-        "link": "https://toutiao.io/k/blmg8fq",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "数据湖 Iceberg：实时数据仓库的发展、架构和趋势",
-        "link": "https://toutiao.io/k/6gjfwif",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "美团图数据库平台建设及业务实践",
-        "link": "https://toutiao.io/k/k7wre2g",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "搞定 Protocol Buffers（上）：使用篇",
-        "link": "https://toutiao.io/k/yprqo9f",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "困在“墙”里的中年程序员",
-        "link": "https://toutiao.io/k/ust6dd7",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "如何从 0 到 1 构建埋点体系",
-        "link": "https://toutiao.io/k/wkkxw96",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "面试高频题：Spring 和 SpringMvc 父子容器你能说清楚吗？",
-        "link": "https://toutiao.io/k/b9hkrjc",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "认识爬虫：怎么使用代理 IP 规避反爬虫以及使用爬虫获取更多可用的免费代理 IP？",
-        "link": "https://toutiao.io/k/ots4ffq",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "正确处理 HTML 5 标签的关闭",
-        "link": "https://toutiao.io/k/8y9ed0c",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "大内总管教你 JDK 动态代理",
-        "link": "https://toutiao.io/k/3n9h4eb",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "Netty 核心源码解读：EventLoop 篇",
-        "link": "https://toutiao.io/k/ufsrsis",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "[译] Serverless 与轻量级虚拟化 Firecracker",
-        "link": "https://toutiao.io/k/uyoc7pt",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "深入分析 Flutter 渲染性能",
-        "link": "https://toutiao.io/k/h839930",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "前端如何搞定算法面试？",
-        "link": "https://toutiao.io/k/ah5a0j6",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "Android 内存泄露检测 LeakCanary 2.0（Kotlin 版）的实现原理",
-        "link": "https://toutiao.io/k/i0viec6",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "[推荐] Redis 分布式锁遇到的序列化问题",
-        "link": "https://toutiao.io/k/adg4qv6",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
-        "link": "https://toutiao.io/k/47wemjf",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "[推荐] 这 30 个我精选的含答案的面试题，硬不硬你说吧",
-        "link": "https://toutiao.io/k/v9aar7o",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
-        "link": "https://toutiao.io/k/sso4l2l",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "[推荐] 浅谈分库分表那些事儿",
-        "link": "https://toutiao.io/k/vulmd0h",
-        "date": "2021-04-07"
-      },
-      {
         "title": "[推荐] GitHub 加速指南进阶版",
         "link": "https://toutiao.io/k/ygnbct1",
         "date": "2021-04-07"
       },
       {
-        "title": "[推荐] 书单：互联网企业面试案头书之架构师篇",
-        "link": "https://toutiao.io/k/mvtejua",
+        "title": "[推荐] GitHub 太慢？9 种方案可提速",
+        "link": "https://toutiao.io/k/pufqjt0",
         "date": "2021-04-07"
       },
       {
-        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
-        "link": "https://toutiao.io/k/iyge3cy",
+        "title": "[推荐] 值得拥有的手绘风格画图工具",
+        "link": "https://toutiao.io/k/ukg83qx",
         "date": "2021-04-07"
       },
       {
@@ -20462,18 +20332,33 @@
         "date": "2021-04-07"
       },
       {
+        "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
+        "link": "https://toutiao.io/k/47wemjf",
+        "date": "2021-04-07"
+      },
+      {
+        "title": "[推荐] 浅谈分库分表那些事儿",
+        "link": "https://toutiao.io/k/vulmd0h",
+        "date": "2021-04-07"
+      },
+      {
+        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
+        "link": "https://toutiao.io/k/sso4l2l",
+        "date": "2021-04-07"
+      },
+      {
         "title": "[推荐] Go 应用优化指北",
         "link": "https://toutiao.io/k/6jo6q1t",
         "date": "2021-04-07"
       },
       {
-        "title": "[推荐] 如何吃透一个 Java 项目？（附学习实践）",
-        "link": "https://toutiao.io/k/cifpaoe",
+        "title": "[推荐] 这 30 个我精选的含答案的面试题，硬不硬你说吧",
+        "link": "https://toutiao.io/k/v9aar7o",
         "date": "2021-04-07"
       },
       {
-        "title": "[推荐] 值得拥有的手绘风格画图工具",
-        "link": "https://toutiao.io/k/ukg83qx",
+        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
+        "link": "https://toutiao.io/k/iyge3cy",
         "date": "2021-04-07"
       },
       {
@@ -20482,8 +20367,18 @@
         "date": "2021-04-07"
       },
       {
-        "title": "[推荐] GitHub 太慢？9 种方案可提速",
-        "link": "https://toutiao.io/k/pufqjt0",
+        "title": "[推荐] Redis 分布式锁遇到的序列化问题",
+        "link": "https://toutiao.io/k/adg4qv6",
+        "date": "2021-04-07"
+      },
+      {
+        "title": "[推荐] 如何吃透一个 Java 项目？（附学习实践）",
+        "link": "https://toutiao.io/k/cifpaoe",
+        "date": "2021-04-07"
+      },
+      {
+        "title": "[推荐] 书单：互联网企业面试案头书之架构师篇",
+        "link": "https://toutiao.io/k/mvtejua",
         "date": "2021-04-07"
       }
     ]
@@ -20493,6 +20388,56 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "【视频】| Python:if.else的列表推导",
+        "link": "https://sec.thief.one/article_content?a_id=84050c41d17bf9cfe108094d0ba9750c",
+        "date": "2021-04-07"
+      },
+      {
+        "title": "【安全圈】脸书超 5 亿用户信息泄露!包括扎克伯格电话号码",
+        "link": "https://sec.thief.one/article_content?a_id=aab2095007f6dfca25c412edd49f1c1a",
+        "date": "2021-04-06"
+      },
+      {
+        "title": "【漏洞更新】VMware vRealize Operations Manager多个漏洞",
+        "link": "https://sec.thief.one/article_content?a_id=d5205233aa9fc64d24c51e00f8b9daaf",
+        "date": "2021-04-06"
+      },
+      {
+        "title": "每日攻防资讯简报[Apr.6th]",
+        "link": "https://sec.thief.one/article_content?a_id=b425e5ece5fbb3e16e788b0e7b23c5d9",
+        "date": "2021-04-06"
+      },
+      {
+        "title": "蓝队的自我修养之事中监控 | HVV经验分享",
+        "link": "https://sec.thief.one/article_content?a_id=250c171a0207fe4e20e2ee97a9ee99a9",
+        "date": "2021-04-06"
+      },
+      {
+        "title": "Python 炫技操作:执行函数的九种方法",
+        "link": "https://sec.thief.one/article_content?a_id=8718226cf40e4fd881e8f5e9db24518f",
+        "date": "2021-04-06"
+      },
+      {
+        "title": "工业互联网正在成为新的“猎物”",
+        "link": "https://sec.thief.one/article_content?a_id=0bbac5642cfc7a4cb5d888c0df31503d",
+        "date": "2021-04-06"
+      },
+      {
+        "title": "中国已消失的九所世界级大学",
+        "link": "https://sec.thief.one/article_content?a_id=38960357809c2d3f58b019f143a5a52c",
+        "date": "2021-04-06"
+      },
+      {
+        "title": "JavaScript 函数劫持攻击原理",
+        "link": "https://sec.thief.one/article_content?a_id=3a41f21fbb86bbf3fb166ba30ed652d0",
+        "date": "2021-04-06"
+      },
+      {
+        "title": "车联网安全能力再获认证!奇安信荣获中国智能网联汽车技术创新成果奖",
+        "link": "https://sec.thief.one/article_content?a_id=ba54db40a63e8b09a6f23c211fa9d790",
+        "date": "2021-04-06"
+      },
       {
         "title": "雷神众测漏洞周报2021.03.29-2021.04.05-4",
         "link": "https://sec.thief.one/article_content?a_id=d6f3fb362f62a2a563838aae4648021a",
@@ -20941,56 +20886,6 @@
       {
         "title": "每日攻防资讯简报[Apr.1th]",
         "link": "https://sec.thief.one/article_content?a_id=77b7be16c40ca0f033ab0cf262f9eb45",
-        "date": "2021-04-01"
-      },
-      {
-        "title": "推荐一款小众且好用的 Python 爬虫库",
-        "link": "https://sec.thief.one/article_content?a_id=53b77ebb01fae1dc87164f8a6a33c58b",
-        "date": "2021-04-01"
-      },
-      {
-        "title": "Nmap 经常使用的场景及用法",
-        "link": "https://sec.thief.one/article_content?a_id=c731dca84f9419397fe4ad1154ad12d3",
-        "date": "2021-04-01"
-      },
-      {
-        "title": "奇安信吴云坤:网络安全体系建设将成为数字化改革的底板工程",
-        "link": "https://sec.thief.one/article_content?a_id=b05d2b1e9a9083ef0a3eb9a410c15ec6",
-        "date": "2021-04-01"
-      },
-      {
-        "title": "要劝退么?",
-        "link": "https://sec.thief.one/article_content?a_id=f18627503d5c74ef88fa1f7b4d6a1ec1",
-        "date": "2021-04-01"
-      },
-      {
-        "title": "绿盟科技“1+X”培养方案|三阶段、递进式人才培养模式详解",
-        "link": "https://sec.thief.one/article_content?a_id=5fc44b5e7b81b996654bfa553b6e0c32",
-        "date": "2021-04-01"
-      },
-      {
-        "title": "谁动了你的红包?图解字节跳动2021春节活动风控报告",
-        "link": "https://sec.thief.one/article_content?a_id=db9638537e038e775405995429bca7ae",
-        "date": "2021-04-01"
-      },
-      {
-        "title": "Kubestriker:一款针对Kubernetes的快速安全审计工具",
-        "link": "https://sec.thief.one/article_content?a_id=6b0a45cc0b6295102e16852ca6daa0b9",
-        "date": "2021-04-01"
-      },
-      {
-        "title": "研究发现安卓手机收集用户数据是同类iPhone手机的20倍",
-        "link": "https://sec.thief.one/article_content?a_id=c7dc86e990a3472332a3e1cbc7253764",
-        "date": "2021-04-01"
-      },
-      {
-        "title": "勒索凶猛!澳大利亚最大电视台之一停播超24小时",
-        "link": "https://sec.thief.one/article_content?a_id=97021432f284b508951ae9b50b9d025f",
-        "date": "2021-04-01"
-      },
-      {
-        "title": "技术干货丨白帽表哥教你学会挖敏感文件泄露漏洞",
-        "link": "https://sec.thief.one/article_content?a_id=e8257aef7bb1176429deabe93df7cd7d",
         "date": "2021-04-01"
       }
     ]

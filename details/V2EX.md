@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-07 22:39:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 22:53:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-07-异地的社保合并问题？](https://www.v2ex.com/t/768906) 
 - [2021-04-07-Show-V2EX-:-基于人工智能和统计模型的美股自动交易](https://www.v2ex.com/t/768904) 
 - [2021-04-07-开源中国——《开源项目必须用英文命名标识符吗？》](https://www.v2ex.com/t/768903) 
 - [2021-04-07-FUTAKE：-Instagram-设计-+-TikTok-交互，一个全新的照片分享小程序，希望有人喜欢](https://www.v2ex.com/t/768902) 
@@ -42,4 +43,3 @@
 - [2021-04-07-关于绿联扩展坞烧主板的疑问](https://www.v2ex.com/t/768861) 
 - [2021-04-07-Springboot-如何关闭/favicon-的访问？](https://www.v2ex.com/t/768859) 
 - [2021-04-07-坐标合肥-五一五日游有什么推荐的地方-国内飞机-2-3-小时内范围内](https://www.v2ex.com/t/768857) 
-- [2021-04-07-Intellij-IDEA-2021.1-发布](https://www.v2ex.com/t/768856) 

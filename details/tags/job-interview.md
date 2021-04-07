@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-07 21:52:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 22:03:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,8 +7,4 @@
 
 
 
-- [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
-- [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
-- [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
-- [2021-04-07-蚂蚁金服社招内推-支付宝基金团队（没错就是全球最大的基金平台之一的余额宝所在的团队）招-Java-开发（P6,P7,P8）。地点：杭州，上海任选，可加面试官微信直...](https://www.v2ex.com/t/768872) 
 - [2021-04-05-牛聘|2021年度岗位招聘第6期](https://sec.thief.one/article_content?a_id=a13ad7f2403fddf64f9a2d4a101c912a) 

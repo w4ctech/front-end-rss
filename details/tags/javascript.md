@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-07 21:38:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 21:52:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,12 +7,10 @@
 
 
 
-- [2021-04-03-写给前端的-Nest.js-教程——10分钟上手后端接口开发](https://www.ershicimi.com/p/cc5de666ded9084b27ec09d879b2716b) 
-- [2021-04-02-【死磕JS】闭包到底是个什么鬼？](https://www.ershicimi.com/p/1fff517f47d5db33caafb5a59c7b0544) 
-- [2021-03-12-常用的前端JavaScript方法封装](https://www.ershicimi.com/p/d75204d75133600ed4f3c67ab7bb76cf) 
-- [2021-03-24-2021年前端开发者需要知道的34种JS优化技巧](https://www.ershicimi.com/p/69d032c4cdc220e4cd5517e86456f15f) 
+- [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 
-- [2021-04-07-探索-Table-组件虚拟化](https://toutiao.io/k/sothdok) 
+- [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
+- [2021-04-07-前端页面第一个-js-文件可以做到阻止后面指定-js-文件的加载和执行吗？](https://www.v2ex.com/t/768865) 
 - [2021-04-06-JavaScript-函数劫持攻击原理](https://sec.thief.one/article_content?a_id=3a41f21fbb86bbf3fb166ba30ed652d0) 
 - [2021-04-03-BUF大事件丨16美元就可以打包带走所有短信;宏碁回应遭网络攻击](https://sec.thief.one/article_content?a_id=06bb45d333a48097cd308ca955265db9) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-07 15:03:06，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-07 15:24:17，:rocket: 更新条数: +147， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -474,6 +474,26 @@
 </summary>
 
 
+- [2021-04-07-公考/事业单位考试/行测](https://www.v2ex.com/t/768874) ![](assets/new.png)  
+- [2021-04-07-如何通过-Vmware-ThinApp-将程序与宿主机完全隔离，无法自主读取宿主机任何注册表、文件信息？](https://www.v2ex.com/t/768873) ![](assets/new.png)  
+- [2021-04-07-蚂蚁金服社招内推-支付宝基金团队（没错就是全球最大的基金平台之一的余额宝所在的团队）招-Java-开发（P6,P7,P8）。地点：杭州，上海任选，可加面试官微信直...](https://www.v2ex.com/t/768872) ![](assets/new.png)  
+- [2021-04-07-上海/新加坡-区块链交易所-bybit-招前端，后端，测试，-DevOps，区块链开发](https://www.v2ex.com/t/768871) ![](assets/new.png)  
+- [2021-04-07-请教一个问题：-Java-后端如何获取-mac-地址？](https://www.v2ex.com/t/768870) ![](assets/new.png)  
+- [2021-04-07-上海-求推荐-HR-岗位工作](https://www.v2ex.com/t/768869) ![](assets/new.png)  
+- [2021-04-07-纯小白怎么入门烹饪](https://www.v2ex.com/t/768868) ![](assets/new.png)  
+- [2021-04-07-觉得数据库不重要人-能找到高薪工作？](https://www.v2ex.com/t/768867) ![](assets/new.png)  
+- [2021-04-07-北京做运维还有机会-955-吗](https://www.v2ex.com/t/768866) ![](assets/new.png)  
+- [2021-04-07-前端页面第一个-js-文件可以做到阻止后面指定-js-文件的加载和执行吗？](https://www.v2ex.com/t/768865) ![](assets/new.png)  
+- [2021-04-07-关于绿联扩展坞烧主板的疑问](https://www.v2ex.com/t/768861) ![](assets/new.png)  
+- [2021-04-07-Springboot-如何关闭/favicon-的访问？](https://www.v2ex.com/t/768859) ![](assets/new.png)  
+- [2021-04-07-坐标合肥-五一五日游有什么推荐的地方-国内飞机-2-3-小时内范围内](https://www.v2ex.com/t/768857) ![](assets/new.png)  
+- [2021-04-07-Intellij-IDEA-2021.1-发布](https://www.v2ex.com/t/768856) ![](assets/new.png)  
+- [2021-04-07-程序员是否需要买商业保险](https://www.v2ex.com/t/768854) ![](assets/new.png)  
+- [2021-04-07-微信小程序换量有没有，累计注册-1.7w+](https://www.v2ex.com/t/768853) ![](assets/new.png)  
+- [2021-04-07-为什么有的-PDF-复制粘贴出来会乱码？-mac-和-ios-下](https://www.v2ex.com/t/768852) ![](assets/new.png)  
+- [2021-04-07-大家有在用纸质便签做每日-to-do-list-的吗？](https://www.v2ex.com/t/768850) ![](assets/new.png)  
+- [2021-04-07-动手写一个简单的编译器：在-JavaScript-中使用-Swift-的尾闭包语法](https://www.v2ex.com/t/768848) ![](assets/new.png)  
+- [2021-04-07-安装有-vcenter-server7.0-的-esxi-如何做基准升级？](https://www.v2ex.com/t/768845) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

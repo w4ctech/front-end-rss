@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-07 02:13:53，:rocket: 更新条数: +201， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-07 02:26:40，:rocket: 更新条数: +154， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,8 +52,8 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)  
 
@@ -474,6 +474,12 @@
 </summary>
 
 
+- [2021-04-07-PC-Chrome-或其他浏览器在非全屏下只显示网页内容](https://www.v2ex.com/t/768604) ![](assets/new.png)  
+- [2021-04-07-这样的面试-大家会有挫败感嘛](https://www.v2ex.com/t/768603) ![](assets/new.png)  
+- [2021-04-07-北京-环球网招聘前端工程师（React.JS）](https://www.v2ex.com/t/768602) ![](assets/new.png)  
+- [2021-04-07-求推荐升降桌和显示器支架。](https://www.v2ex.com/t/768601) ![](assets/new.png)  
+- [2021-04-07-小米智能门锁，偶然间发现不用指纹也能开锁](https://www.v2ex.com/t/768600) ![](assets/new.png)  
+- [2021-04-07-中国劳动工人在企业和公司的现状](https://www.v2ex.com/t/768599) ![](assets/new.png)  
 - [2021-04-07-有学习日语的群或者好点的论坛么](https://www.v2ex.com/t/768598) ![](assets/new.png)  
 - [2021-04-07-有谁用过「可编程控制」的三轴云台么？](https://www.v2ex.com/t/768596) ![](assets/new.png)  
 - [2021-04-07-深圳-富途（证券）急招后台开发](https://www.v2ex.com/t/768595) ![](assets/new.png)  
@@ -488,12 +494,6 @@
 - [2021-04-07-安卓/Go/IOS-深圳宝安坪洲，小步网络，越南泰国-TOP1，业务已盈利发展好](https://www.v2ex.com/t/768581) ![](assets/new.png)  
 - [2021-04-07-有什么办法能够在-React-中使用-import-导入-nodejs-模块吗？](https://www.v2ex.com/t/768580) ![](assets/new.png)  
 - [2021-04-07-浏览器基金插件--优雅的基金工具，一起来养鸡](https://www.v2ex.com/t/768579) ![](assets/new.png)  
-- [2021-04-07-有顺丰同城的小伙伴嘛-加班严重吗](https://www.v2ex.com/t/768578) ![](assets/new.png)  
-- [2021-04-07-各位每天早上都有喝咖啡/茶的习惯吗](https://www.v2ex.com/t/768577) ![](assets/new.png)  
-- [2021-04-07-话说，中国轻工业协会的-首席信息官证书，有含金量吗？](https://www.v2ex.com/t/768576) ![](assets/new.png)  
-- [2021-04-07-FinTech-社区-数字货币招聘：-Quant-Research-Junior/Senior---杭州](https://www.v2ex.com/t/768575) ![](assets/new.png)  
-- [2021-04-07-原型托管平台支持团队共享了](https://www.v2ex.com/t/768574) ![](assets/new.png)  
-- [2021-04-07-现在研究生找到腾讯测试的实习，但是未来想做后端开发，不知道选择这样的实习对不对。。](https://www.v2ex.com/t/768572) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -505,26 +505,6 @@
 </summary>
 
 
-- [2021-04-07-Flutter-不是真正的跨平台框架-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14268&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUyrvHsdHHr1xYhtVHbVPSw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-如何得知当前-Activity-是被压入后台，还是跳转到新的-Activity？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14267&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FilOIhSLBMgdXW8r1_X0RmQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-关于-Android-MVVM-一些理解与实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14266&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyULkmIhNy78Zf8zSWRTh-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-5-种可能在-10-年后消失的编程语言-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14265&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtUBfBQUFIwUbTsVcS_ksmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-程序员必知的-7-种软件架构模式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14264&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAJZJ-r6M-x8mqOoeFDhiAw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-CTO-写的代码，真是绝了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14263&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDKf78a8VH4HCrqEmGE_EXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-这几本书帮你渡过最难求职季，对社畜也有用~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14262&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0WO59517gb4O_FMZHJcaPg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-汇总一下-Intellij-IDEA-的炫酷插件-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14261&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyUvMsLlHEGVbbseDK_KnNA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-如何把-if-else-重构成高质量代码？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14260&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fvcj9fVsIimlGf4x-NTllOQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-有个计算机专业的老公有多爽？？？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14259&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUIDASnNHFKrYj_L_pu4O2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-Flutter-2-重磅来袭，重大能力突破，好不惊喜！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14258&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4E9bEYWEEfnZRZH0yjXKVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-优酷-iOS-插件化页面架构方法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14257&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fu0JwZkydMZJMRrmXEKLazw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-这也行？iOS-后台锁屏监听摇一摇-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14256&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQLgNhBJh0QpKaQWf07rBtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-摆脱-Android-和-iOS：七款免费开源移动操作系统的尝试-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14255&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHjVrXu8feUtapaEe4-bAQw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-4-个色情网站被一锅端，9-名福利姬被刑拘！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14254&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3ztxZ6y15nXSeHhqLyssPA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-必须知道的-11-个微前端框架-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14253&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fo9ZAzI5TFc434h-v3nRJEQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-腾讯-Code-Review-规范出炉！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-色情版“微信”背后的秘密，太可怕了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14251&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwclp7RpOv8Jcyqv5GS6btw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-JavaScript-奇葩知识大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14250&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVAzk0r95EAVho5jskcTc2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-07-Windows-10-2009-官方光盘映像下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14249&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwQtknMQFaBr_UsRvkpWpQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -536,26 +516,6 @@
 </summary>
 
 
-- [2021-04-07-Chrome-插件,实用且堪称神器](https://toutiao.io/k/kmh5ibc) ![](assets/new.png)  
-- [2021-04-07-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
-- [2021-04-07-探索-Table-组件虚拟化](https://toutiao.io/k/sothdok) ![](assets/new.png)  
-- [2021-04-07-再谈-synchronized-锁升级](https://toutiao.io/k/8qya0wq) ![](assets/new.png)  
-- [2021-04-07-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-07-常见的初级排序算法，这次全搞懂](https://toutiao.io/k/grivds8) ![](assets/new.png)  
-- [2021-04-07-从创业者到打工人，我在阿里这-1-年](https://toutiao.io/k/4baxyr7) ![](assets/new.png)  
-- [2021-04-07-Redis-专题：深入-Redis-Cluster-集群容错机制（3/3）](https://toutiao.io/k/ofmfjst) ![](assets/new.png)  
-- [2021-04-07-Docker-使用-MySQL](https://toutiao.io/k/7dit4i8) ![](assets/new.png)  
-- [2021-04-07-如何平滑切换线上-Elasticsearch-索引](https://toutiao.io/k/p5zzinm) ![](assets/new.png)  
-- [2021-04-07-两种基础数据图表的解读，人人都应该掌握的技能](https://toutiao.io/k/put4cdu) ![](assets/new.png)  
-- [2021-04-07-百度工程师厂外生存指南](https://toutiao.io/k/hztosml) ![](assets/new.png)  
-- [2021-04-07-面试官：你有啥缺点，咋回答？](https://toutiao.io/k/rpphzhz) ![](assets/new.png)  
-- [2021-04-07-5G-如何保障服务质量?](https://toutiao.io/k/oaxdt67) ![](assets/new.png)  
-- [2021-04-07-数仓规范篇（二）：开发规范](https://toutiao.io/k/7pklj0r) ![](assets/new.png)  
-- [2021-04-07-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
-- [2021-04-07-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-07-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
-- [2021-04-07-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
-- [2021-04-07-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

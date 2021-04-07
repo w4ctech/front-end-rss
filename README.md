@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-07 17:09:48，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-07 17:23:09，:rocket: 更新条数: +184， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)  
 
@@ -474,6 +474,26 @@
 </summary>
 
 
+- [2021-04-07-上海招高级-Finereport-开发](https://www.v2ex.com/t/768893) ![](assets/new.png)  
+- [2021-04-07-2021WWDC-会出-14，-16-寸-macbook-吗](https://www.v2ex.com/t/768891) ![](assets/new.png)  
+- [2021-04-07-如果一个城市没有好的跳槽空间，有什么可以业余时间做的事情充实自己？并且可以获取小部分收入？](https://www.v2ex.com/t/768889) ![](assets/new.png)  
+- [2021-04-07-有谁在挖-Filecoin-吗？](https://www.v2ex.com/t/768888) ![](assets/new.png)  
+- [2021-04-07-资源放在-aws-的-s3-上，访问很慢，求问大佬们有什么解决方案](https://www.v2ex.com/t/768887) ![](assets/new.png)  
+- [2021-04-07-我的最后一款阅读模式浏览器插件---Circle-阅读模式](https://www.v2ex.com/t/768886) ![](assets/new.png)  
+- [2021-04-07-大家好，为了和一个计算机专业的同学有一些共同的话题，我想写一款-Hexo-博客的主题，请问需要学习哪些知识，需要使用到哪些软件。](https://www.v2ex.com/t/768885) ![](assets/new.png)  
+- [2021-04-07-Golang+Protobuf+PixieJS-开发-Web-多人在线射击游戏原创翻译](https://www.v2ex.com/t/768884) ![](assets/new.png)  
+- [2021-04-07-要不要离开广州呢？](https://www.v2ex.com/t/768882) ![](assets/new.png)  
+- [2021-04-07-Xcode-的-git，没保存不小心-checkout-后还能救吗？](https://www.v2ex.com/t/768881) ![](assets/new.png)  
+- [2021-04-07-成人用品交流为主的社区，慢慢完善到类似早期他趣社区，不知道可不可行，反正已经做了，还有好多-bug，希望大家可以帮忙测试测试](https://www.v2ex.com/t/768880) ![](assets/new.png)  
+- [2021-04-07-IPv4-和-IPv6-之间用-ZeriTier-不能互访的问题](https://www.v2ex.com/t/768879) ![](assets/new.png)  
+- [2021-04-07-求推荐净水机](https://www.v2ex.com/t/768878) ![](assets/new.png)  
+- [2021-04-07-有人应聘腾讯云区块链科技公司？](https://www.v2ex.com/t/768877) ![](assets/new.png)  
+- [2021-04-07-AWS-S3-通过生命周期规则删除文件正确姿势是什么？](https://www.v2ex.com/t/768875) ![](assets/new.png)  
+- [2021-04-07-公考/事业单位考试/行测](https://www.v2ex.com/t/768874) ![](assets/new.png)  
+- [2021-04-07-如何通过-Vmware-ThinApp-将程序与宿主机完全隔离，无法自主读取宿主机任何注册表、文件信息？](https://www.v2ex.com/t/768873) ![](assets/new.png)  
+- [2021-04-07-蚂蚁金服社招内推-支付宝基金团队（没错就是全球最大的基金平台之一的余额宝所在的团队）招-Java-开发（P6,P7,P8）。地点：杭州，上海任选，可加面试官微信直...](https://www.v2ex.com/t/768872) ![](assets/new.png)  
+- [2021-04-07-上海/新加坡-区块链交易所-bybit-招前端，后端，测试，-DevOps，区块链开发](https://www.v2ex.com/t/768871) ![](assets/new.png)  
+- [2021-04-07-请教一个问题：-Java-后端如何获取-mac-地址？](https://www.v2ex.com/t/768870) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -496,6 +516,26 @@
 </summary>
 
 
+- [2021-04-07-Chrome-插件，实用且堪称神器](https://toutiao.io/k/kmh5ibc) ![](assets/new.png)  
+- [2021-04-07-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-07-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-07-再谈-synchronized-锁升级](https://toutiao.io/k/8qya0wq) ![](assets/new.png)  
+- [2021-04-07-探索-Table-组件虚拟化](https://toutiao.io/k/sothdok) ![](assets/new.png)  
+- [2021-04-07-面试官：你有啥缺点，咋回答？](https://toutiao.io/k/rpphzhz) ![](assets/new.png)  
+- [2021-04-07-常见的初级排序算法，这次全搞懂](https://toutiao.io/k/grivds8) ![](assets/new.png)  
+- [2021-04-07-从创业者到打工人，我在阿里这-1-年](https://toutiao.io/k/4baxyr7) ![](assets/new.png)  
+- [2021-04-07-Redis-专题：深入-Redis-Cluster-集群容错机制（3/3）](https://toutiao.io/k/ofmfjst) ![](assets/new.png)  
+- [2021-04-07-如何平滑切换线上-Elasticsearch-索引](https://toutiao.io/k/p5zzinm) ![](assets/new.png)  
+- [2021-04-07-Docker-使用-MySQL](https://toutiao.io/k/7dit4i8) ![](assets/new.png)  
+- [2021-04-07-数仓规范篇（二）：开发规范](https://toutiao.io/k/7pklj0r) ![](assets/new.png)  
+- [2021-04-07-字节跳动的算法面试题是什么难度？（第二弹）](https://toutiao.io/k/5dzm6dq) ![](assets/new.png)  
+- [2021-04-07-Hive-优化之配置参数的优化](https://toutiao.io/k/oelcnlw) ![](assets/new.png)  
+- [2021-04-07-百度工程师厂外生存指南](https://toutiao.io/k/hztosml) ![](assets/new.png)  
+- [2021-04-07-两种基础数据图表的解读，人人都应该掌握的技能](https://toutiao.io/k/put4cdu) ![](assets/new.png)  
+- [2021-04-07-资料-|-2021年技术趋势.pdf](https://toutiao.io/k/hri2ge1) ![](assets/new.png)  
+- [2021-04-07-云原生的进一步具象化](https://toutiao.io/k/6bjqvfx) ![](assets/new.png)  
+- [2021-04-07-5G-如何保障服务质量?](https://toutiao.io/k/oaxdt67) ![](assets/new.png)  
+- [2021-04-07-DGA-域名检测的工程实践](https://toutiao.io/k/jbq7nlo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

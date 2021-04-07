@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-07 07:38:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 07:50:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -32,14 +32,13 @@
 - [2021-03-28-满分回答教你如何应对面试中项目经验这一难关](https://www.ershicimi.com/p/9b2f9760d9147590fcd5848258c660c8) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-04-02-面试官问：前后端分离项目，有什么优缺点？我说：没](https://www.ershicimi.com/p/6771b9391a83b562ab70beb296e2575a) 
-- [2021-04-07-前阿里丁奇：说个-MySQL-面试的普遍问题-|-极客时间](https://www.ershicimi.com/p/b45e95e3acb27311bf4ae88ac0446b45) 
-- [2021-04-04-我面试了-10-个-Java-工程师，全军覆没-｜-极客时间](https://www.ershicimi.com/p/fa70c29544423bf28c3902897afbfc99) 
 - [2021-03-24-字节跳动高频100道核心前端面试题解析](https://www.ershicimi.com/p/bd6c66f84e2c88714b5520bdbd5e1927) 
+- [2021-04-07-北京三里屯-前端-“面试修自行车入职造火箭！”-的文娱大数据公司，求务实技术控前端同学～](https://www.v2ex.com/t/768750) 
 - [2021-04-07-招聘喽，测试一下发帖](https://www.v2ex.com/t/768741) 
 - [2021-04-07-美资公司苏州分公司招聘-Python-/Django-开发人员](https://www.v2ex.com/t/768738) 
 - [2021-04-07-有老铁在富士康做-Java-开发么？或者了解内部情况的老铁，看看值不值得去面试](https://www.v2ex.com/t/768737) 
 - [2021-04-07-北京-云为先科技创业团队招聘](https://www.v2ex.com/t/768730) 
 - [2021-04-07-面试官：你有啥缺点，咋回答？](https://toutiao.io/k/rpphzhz) 
-- [2021-04-07-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) 
 - [2021-04-07-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) 
+- [2021-04-07-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) 
 - [2021-04-05-牛聘|2021年度岗位招聘第6期](https://sec.thief.one/article_content?a_id=a13ad7f2403fddf64f9a2d4a101c912a) 

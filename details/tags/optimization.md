@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-07 07:38:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 07:50:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -12,5 +12,6 @@
 - [2021-03-26-BFF模式：微服务前端数据加载的最佳实践？](https://www.ershicimi.com/p/bd1eeb255ae2709f93adde2775fa195b) 
 - [2021-03-18-8000字总结的前端性能优化](https://www.ershicimi.com/p/88c7daabed0083d1e6429537552ae971) 
 - [2021-04-04-SQL-子查询怎么优化？写的很深！](https://www.ershicimi.com/p/b4cd000b13b723485a5f42ecc82ec1cb) 
+- [2021-04-07-不同-CPU-对虚拟机的性能影响很大吗](https://www.v2ex.com/t/768752) 
 - [2021-04-07-Hive-优化之配置参数的优化](https://toutiao.io/k/oelcnlw) 
 - [2021-04-07-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) 

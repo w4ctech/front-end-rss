@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-07 01:45:45，:rocket: 更新条数: +4163， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-07 01:57:17，:rocket: 更新条数: +681， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-04-07-云南瑞丽4月6日新增新冠2例-现有确诊病例68例](https://m.caixin.com/m/2021-04-07/101686377.html) ![](assets/new.png)  
-- [2021-04-07-阿斯利康疫苗被指与脑血栓有联系-加拿大遭第三波疫情冲击｜大流行手记（4月6日）](https://m.caixin.com/m/2021-04-07/101686371.html) ![](assets/new.png)  
-- [2021-04-06-最新海外疫情：新冠感染近1.32亿-累计死亡超285万](https://m.caixin.com/m/2021-04-06/101686271.html) ![](assets/new.png)  
-- [2021-04-06-云南瑞丽4月5日新增新冠确诊病例15例-无症状感染者2例](https://m.caixin.com/m/2021-04-06/101685875.html) ![](assets/new.png)  
-- [2021-04-06-【境内疫情观察】云南瑞丽新增3处高风险地区（4月5日）](http://m.database.caixin.com/m/2021-04-06/101686077.html) ![](assets/new.png)  
-- [2021-04-06-英国推每人每周两次新冠快检-大阪取消奥运火炬传递｜大流行手记（4月5日）](https://m.caixin.com/m/2021-04-06/101685932.html) ![](assets/new.png)  
-- [2021-04-05-云南瑞丽4月4日新增新冠确诊病例15例-无症状感染者5例](https://m.caixin.com/m/2021-04-05/101685796.html) ![](assets/new.png)  
-- [2021-04-05-【境内疫情观察】云南瑞丽新增15例本土病例（4月4日）](http://m.database.caixin.com/m/2021-04-05/101685814.html) ![](assets/new.png)  
-- [2021-04-05-多地试行公共活动疫苗护照-印度新冠疫情急速恶化｜大流行手记（4月4日）](https://m.caixin.com/m/2021-04-05/101685810.html) ![](assets/new.png)  
-- [2021-04-04-【境内疫情观察】云南新增10例本土病例和1例无症状感染者（4月3日）](http://m.database.caixin.com/m/2021-04-04/101685756.html) ![](assets/new.png)  
-- [2021-04-04-阿根廷总统接种后感染新冠-国药疫苗获欧盟GMP认证｜大流行手记（4月3日）](https://m.caixin.com/m/2021-04-04/101685736.html) ![](assets/new.png)  
-- [2021-04-03-4月2日云南新增本土确诊7例-无症状感染者5例](https://m.caixin.com/m/2021-04-03/101685501.html) ![](assets/new.png)  
-- [2021-04-03-【境内疫情观察】云南瑞丽新增7例本土病例（4月2日）](http://m.database.caixin.com/m/2021-04-03/101685623.html) ![](assets/new.png)  
-- [2021-04-03-德国允许混打疫苗-科兴称新冠疫苗年产能将达20亿剂丨大流行手记（4月2日）](https://m.caixin.com/m/2021-04-03/101685491.html) ![](assets/new.png)  
-- [2021-04-02-聚焦|张文宏：近期瑞丽疫情透露的几个关键信息](http://m.opinion.caixin.com/m/2021-04-02/101685037.html) ![](assets/new.png)  
-- [2021-04-02-【境内疫情观察】云南瑞丽5地调整为中风险地区（4月1日）](http://m.database.caixin.com/m/2021-04-02/101685059.html) ![](assets/new.png)  
-- [2021-04-02-新冠疫情中期全球将削减3%经济产出-法国第三次全国隔离丨大流行手记（4月1日）](https://m.caixin.com/m/2021-04-02/101684951.html) ![](assets/new.png)  
-- [2021-04-01-瑞丽阳性病例再增7人-全市紧急接种新冠疫苗](https://m.caixin.com/m/2021-04-01/101684875.html) ![](assets/new.png)  
-- [2021-04-01-新冠疫苗接种排长队-深圳医生盼信息系统稳定运行](https://m.caixin.com/m/2021-04-01/101684865.html) ![](assets/new.png)  
-- [2021-04-01-云南瑞丽城区学校3月31日起全面停课](http://m.china.caixin.com/m/2021-04-01/101684511.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -956,6 +936,12 @@
 </summary>
 
 
+- [2021-04-07-翼支付业务流程混乱、签约主体不明确、滥用个人信息且未经授权开通橙分期业务](https://www.v2ex.com/t/768589) ![](assets/new.png)  
+- [2021-04-07-我们想做《程序员修炼之道》的视频系列，虽然做的没那么好，但总算做出几个了](https://www.v2ex.com/t/768588) ![](assets/new.png)  
+- [2021-04-07-被合并了人生第一个-pr,很开心](https://www.v2ex.com/t/768587) ![](assets/new.png)  
+- [2021-04-07-alert-"自荐一个“一步到位”的-base64-在线工具。"-;](https://www.v2ex.com/t/768585) ![](assets/new.png)  
+- [2021-04-07-计算机视觉新手入门，北大学霸推荐我这样学习](https://www.v2ex.com/t/768584) ![](assets/new.png)  
+- [2021-04-07-回龙观东大街-转租信息](https://www.v2ex.com/t/768583) ![](assets/new.png)  
 - [2021-04-07-安卓/Go/IOS-深圳宝安坪洲，小步网络，越南泰国-TOP1，业务已盈利发展好](https://www.v2ex.com/t/768581) ![](assets/new.png)  
 - [2021-04-07-有什么办法能够在-React-中使用-import-导入-nodejs-模块吗？](https://www.v2ex.com/t/768580) ![](assets/new.png)  
 - [2021-04-07-浏览器基金插件--优雅的基金工具，一起来养鸡](https://www.v2ex.com/t/768579) ![](assets/new.png)  
@@ -970,12 +956,6 @@
 - [2021-04-07-关于-CISA-证书](https://www.v2ex.com/t/768568) ![](assets/new.png)  
 - [2021-04-07-你用过哪些分布式组件？分布式配置分布式存储](https://www.v2ex.com/t/768567) ![](assets/new.png)  
 - [2021-04-07-学习-golang，大家喜欢看视频还是看文档](https://www.v2ex.com/t/768566) ![](assets/new.png)  
-- [2021-04-07-微软的-JDK](https://www.v2ex.com/t/768565) ![](assets/new.png)  
-- [2021-04-07-国产惠科显示器怎么样，大家用过没，我看性价比挺高的，就是不知道实际使用怎么样](https://www.v2ex.com/t/768564) ![](assets/new.png)  
-- [2021-04-07-微信如何关闭自动联想-未收藏-的表情](https://www.v2ex.com/t/768563) ![](assets/new.png)  
-- [2021-04-07-知乎控制台输出是啥意思？](https://www.v2ex.com/t/768562) ![](assets/new.png)  
-- [2021-04-07-后端码农迫于换工作，需要自带电脑撸码，求推荐,预算在-5K-7K,麻烦各位了](https://www.v2ex.com/t/768560) ![](assets/new.png)  
-- [2021-04-07-强大的-v2ex，大家擅长-Kotlin，-webview-交互的伙伴，来一波](https://www.v2ex.com/t/768559) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,12 +1012,12 @@
 - [2021-04-07-如何平滑切换线上-Elasticsearch-索引](https://toutiao.io/k/p5zzinm) ![](assets/new.png)  
 - [2021-04-07-面试官：你有啥缺点，咋回答？](https://toutiao.io/k/rpphzhz) ![](assets/new.png)  
 - [2021-04-07-5G-如何保障服务质量?](https://toutiao.io/k/oaxdt67) ![](assets/new.png)  
-- [2021-04-07-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
-- [2021-04-07-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
-- [2021-04-07-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
-- [2021-04-07-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
+- [2021-04-07-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
 - [2021-04-07-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
-- [2021-04-07-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
+- [2021-04-07-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
+- [2021-04-07-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
+- [2021-04-07-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
+- [2021-04-07-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-07 01:28:10，:rocket: 更新条数: +4161， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-07 01:45:45，:rocket: 更新条数: +4163， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,7 +67,6 @@
 
 - [2021-04-07-云南瑞丽4月6日新增新冠2例-现有确诊病例68例](https://m.caixin.com/m/2021-04-07/101686377.html) ![](assets/new.png)  
 - [2021-04-07-阿斯利康疫苗被指与脑血栓有联系-加拿大遭第三波疫情冲击｜大流行手记（4月6日）](https://m.caixin.com/m/2021-04-07/101686371.html) ![](assets/new.png)  
-- [2021-04-06-最新疫情：全国新冠累计确诊90329例-累计接种新冠疫苗超1.42亿剂次](https://m.caixin.com/m/2021-04-06/101686262.html) ![](assets/new.png)  
 - [2021-04-06-最新海外疫情：新冠感染近1.32亿-累计死亡超285万](https://m.caixin.com/m/2021-04-06/101686271.html) ![](assets/new.png)  
 - [2021-04-06-云南瑞丽4月5日新增新冠确诊病例15例-无症状感染者2例](https://m.caixin.com/m/2021-04-06/101685875.html) ![](assets/new.png)  
 - [2021-04-06-【境内疫情观察】云南瑞丽新增3处高风险地区（4月5日）](http://m.database.caixin.com/m/2021-04-06/101686077.html) ![](assets/new.png)  
@@ -85,6 +84,7 @@
 - [2021-04-02-新冠疫情中期全球将削减3%经济产出-法国第三次全国隔离丨大流行手记（4月1日）](https://m.caixin.com/m/2021-04-02/101684951.html) ![](assets/new.png)  
 - [2021-04-01-瑞丽阳性病例再增7人-全市紧急接种新冠疫苗](https://m.caixin.com/m/2021-04-01/101684875.html) ![](assets/new.png)  
 - [2021-04-01-新冠疫苗接种排长队-深圳医生盼信息系统稳定运行](https://m.caixin.com/m/2021-04-01/101684865.html) ![](assets/new.png)  
+- [2021-04-01-云南瑞丽城区学校3月31日起全面停课](http://m.china.caixin.com/m/2021-04-01/101684511.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -956,6 +956,14 @@
 </summary>
 
 
+- [2021-04-07-安卓/Go/IOS-深圳宝安坪洲，小步网络，越南泰国-TOP1，业务已盈利发展好](https://www.v2ex.com/t/768581) ![](assets/new.png)  
+- [2021-04-07-有什么办法能够在-React-中使用-import-导入-nodejs-模块吗？](https://www.v2ex.com/t/768580) ![](assets/new.png)  
+- [2021-04-07-浏览器基金插件--优雅的基金工具，一起来养鸡](https://www.v2ex.com/t/768579) ![](assets/new.png)  
+- [2021-04-07-有顺丰同城的小伙伴嘛-加班严重吗](https://www.v2ex.com/t/768578) ![](assets/new.png)  
+- [2021-04-07-各位每天早上都有喝咖啡/茶的习惯吗](https://www.v2ex.com/t/768577) ![](assets/new.png)  
+- [2021-04-07-话说，中国轻工业协会的-首席信息官证书，有含金量吗？](https://www.v2ex.com/t/768576) ![](assets/new.png)  
+- [2021-04-07-FinTech-社区-数字货币招聘：-Quant-Research-Junior/Senior---杭州](https://www.v2ex.com/t/768575) ![](assets/new.png)  
+- [2021-04-07-原型托管平台支持团队共享了](https://www.v2ex.com/t/768574) ![](assets/new.png)  
 - [2021-04-07-现在研究生找到腾讯测试的实习，但是未来想做后端开发，不知道选择这样的实习对不对。。](https://www.v2ex.com/t/768572) ![](assets/new.png)  
 - [2021-04-07-go-grpc-部署到-istio-环境问题咨询](https://www.v2ex.com/t/768571) ![](assets/new.png)  
 - [2021-04-07-杭州-30k-是不是基本到头了](https://www.v2ex.com/t/768569) ![](assets/new.png)  
@@ -968,14 +976,6 @@
 - [2021-04-07-知乎控制台输出是啥意思？](https://www.v2ex.com/t/768562) ![](assets/new.png)  
 - [2021-04-07-后端码农迫于换工作，需要自带电脑撸码，求推荐,预算在-5K-7K,麻烦各位了](https://www.v2ex.com/t/768560) ![](assets/new.png)  
 - [2021-04-07-强大的-v2ex，大家擅长-Kotlin，-webview-交互的伙伴，来一波](https://www.v2ex.com/t/768559) ![](assets/new.png)  
-- [2021-04-07-机械工业出版社-305G](https://www.v2ex.com/t/768558) ![](assets/new.png)  
-- [2021-04-07-sureness-1.0.2-发布，比-shiro,spring-security-快几倍，面向-rest-api-的安全框架](https://www.v2ex.com/t/768557) ![](assets/new.png)  
-- [2021-04-07-这里谁有-oracle-的-mos-账号吗,-能不能帮下个补丁](https://www.v2ex.com/t/768556) ![](assets/new.png)  
-- [2021-04-07-大佬们，用腾讯云香港服务器搭-frp-访问内网很慢，怎么解决呢](https://www.v2ex.com/t/768555) ![](assets/new.png)  
-- [2021-04-07-做了一个一站式无编程-IM-通知工具『叮兔-https://ding.to』](https://www.v2ex.com/t/768553) ![](assets/new.png)  
-- [2021-04-07-FinTech-社区-招聘：量化研究员---40-100-万+奖金---北京/上海](https://www.v2ex.com/t/768552) ![](assets/new.png)  
-- [2021-04-07-怎么缓解开车时的怒气?](https://www.v2ex.com/t/768549) ![](assets/new.png)  
-- [2021-04-06-现在手机的移动检测时怎么做的呢？类似于步数的计算，是加速度传感器之类的吗？](https://www.v2ex.com/t/768547) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1018,9 +1018,9 @@
 </summary>
 
 
+- [2021-04-07-Chrome-插件,实用且堪称神器](https://toutiao.io/k/kmh5ibc) ![](assets/new.png)  
 - [2021-04-07-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
 - [2021-04-07-探索-Table-组件虚拟化](https://toutiao.io/k/sothdok) ![](assets/new.png)  
-- [2021-04-07-Chrome-插件,实用且堪称神器](https://toutiao.io/k/kmh5ibc) ![](assets/new.png)  
 - [2021-04-07-再谈-synchronized-锁升级](https://toutiao.io/k/8qya0wq) ![](assets/new.png)  
 - [2021-04-07-常见的初级排序算法，这次全搞懂](https://toutiao.io/k/grivds8) ![](assets/new.png)  
 - [2021-04-07-从创业者到打工人，我在阿里这-1-年](https://toutiao.io/k/4baxyr7) ![](assets/new.png)  
@@ -1030,14 +1030,14 @@
 - [2021-04-07-两种基础数据图表的解读，人人都应该掌握的技能](https://toutiao.io/k/put4cdu) ![](assets/new.png)  
 - [2021-04-07-百度工程师厂外生存指南](https://toutiao.io/k/hztosml) ![](assets/new.png)  
 - [2021-04-07-如何平滑切换线上-Elasticsearch-索引](https://toutiao.io/k/p5zzinm) ![](assets/new.png)  
-- [2021-04-07-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
-- [2021-04-07-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
-- [2021-04-07-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
+- [2021-04-07-面试官：你有啥缺点，咋回答？](https://toutiao.io/k/rpphzhz) ![](assets/new.png)  
+- [2021-04-07-5G-如何保障服务质量?](https://toutiao.io/k/oaxdt67) ![](assets/new.png)  
 - [2021-04-07-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-07-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-07-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
+- [2021-04-07-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
+- [2021-04-07-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
 - [2021-04-07-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
-- [2021-04-07-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
-- [2021-04-07-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-07-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

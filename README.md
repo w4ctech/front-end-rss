@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-07 00:26:07，:rocket: 更新条数: +4144， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-07 00:46:57，:rocket: 更新条数: +4157， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,8 @@
 </summary>
 
 
+- [2021-04-07-云南瑞丽4月6日新增新冠2例-现有确诊病例68例](https://m.caixin.com/m/2021-04-07/101686377.html) ![](assets/new.png)  
+- [2021-04-07-阿斯利康疫苗被指与脑血栓有联系-加拿大遭第三波疫情冲击｜大流行手记（4月6日）](https://m.caixin.com/m/2021-04-07/101686371.html) ![](assets/new.png)  
 - [2021-04-06-最新疫情：全国新冠累计确诊90329例-累计接种新冠疫苗超1.42亿剂次](https://m.caixin.com/m/2021-04-06/101686262.html) ![](assets/new.png)  
 - [2021-04-06-最新海外疫情：新冠感染近1.32亿-累计死亡超285万](https://m.caixin.com/m/2021-04-06/101686271.html) ![](assets/new.png)  
 - [2021-04-06-云南瑞丽4月5日新增新冠确诊病例15例-无症状感染者2例](https://m.caixin.com/m/2021-04-06/101685875.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2021-04-02-新冠疫情中期全球将削减3%经济产出-法国第三次全国隔离丨大流行手记（4月1日）](https://m.caixin.com/m/2021-04-02/101684951.html) ![](assets/new.png)  
 - [2021-04-01-瑞丽阳性病例再增7人-全市紧急接种新冠疫苗](https://m.caixin.com/m/2021-04-01/101684875.html) ![](assets/new.png)  
 - [2021-04-01-新冠疫苗接种排长队-深圳医生盼信息系统稳定运行](https://m.caixin.com/m/2021-04-01/101684865.html) ![](assets/new.png)  
-- [2021-04-01-云南瑞丽城区学校3月31日起全面停课](http://m.china.caixin.com/m/2021-04-01/101684511.html) ![](assets/new.png)  
-- [2021-04-01-3月31日云南新增新冠确诊6例-无症状感染者23例](https://m.caixin.com/m/2021-04-01/101684251.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -957,6 +957,9 @@
 </summary>
 
 
+- [2021-04-07-大佬们，用腾讯云香港服务器搭-frp-访问内网很慢，怎么解决呢](https://www.v2ex.com/t/768555) ![](assets/new.png)  
+- [2021-04-07-做了一个一站式无编程-IM-通知工具『叮兔-https://ding.to』](https://www.v2ex.com/t/768553) ![](assets/new.png)  
+- [2021-04-07-FinTech-社区-招聘：量化研究员---40-100-万+奖金---北京/上海](https://www.v2ex.com/t/768552) ![](assets/new.png)  
 - [2021-04-07-怎么缓解开车时的怒气?](https://www.v2ex.com/t/768549) ![](assets/new.png)  
 - [2021-04-06-现在手机的移动检测时怎么做的呢？类似于步数的计算，是加速度传感器之类的吗？](https://www.v2ex.com/t/768547) ![](assets/new.png)  
 - [2021-04-06-Apple-官网-ultrafine4K-显示器售完：要更新？](https://www.v2ex.com/t/768546) ![](assets/new.png)  
@@ -974,9 +977,6 @@
 - [2021-04-06-4g-标志突然消失-无法联网-大家遇到过这种问题吗？](https://www.v2ex.com/t/768530) ![](assets/new.png)  
 - [2021-04-06-有没有高德、百度地图的同学，新手司机想提个建议：能不能始终给出最近两段道路的车道信息，拥堵的时候能在不影响别人的情况下变道的地方也就是路口了。](https://www.v2ex.com/t/768528) ![](assets/new.png)  
 - [2021-04-06-你们公司的私密信息是如何管理的？网站登陆账号、服务器账号、合作伙伴以及客户的账号](https://www.v2ex.com/t/768527) ![](assets/new.png)  
-- [2021-04-06-上海/杭州/北京/武汉社招/校招/实习抖音电商四月冲鸭后端开发工程师](https://www.v2ex.com/t/768526) ![](assets/new.png)  
-- [2021-04-06-最近搞了个微信小店卖牛肉干，突然想起了一个事！](https://www.v2ex.com/t/768525) ![](assets/new.png)  
-- [2021-04-06-求救，-windows10-安装选完语言之后在输入密钥的界面卡死](https://www.v2ex.com/t/768524) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1019,21 +1019,26 @@
 </summary>
 
 
-- [2021-04-07-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-07-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
-- [2021-04-07-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
-- [2021-04-07-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
-- [2021-04-07-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
-- [2021-04-07-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
-- [2021-04-07-推荐-浅谈分库分表那些事儿](https://toutiao.io/k/vulmd0h) ![](assets/new.png)  
-- [2021-04-07-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
-- [2021-04-07-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
-- [2021-04-07-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
-- [2021-04-07-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
-- [2021-04-07-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-07-探索-Table-组件虚拟化](https://toutiao.io/k/sothdok) ![](assets/new.png)  
+- [2021-04-07-再谈-synchronized-锁升级](https://toutiao.io/k/8qya0wq) ![](assets/new.png)  
+- [2021-04-07-Chrome-插件,实用且堪称神器](https://toutiao.io/k/kmh5ibc) ![](assets/new.png)  
+- [2021-04-07-常见的初级排序算法，这次全搞懂](https://toutiao.io/k/grivds8) ![](assets/new.png)  
+- [2021-04-07-从创业者到打工人，我在阿里这-1-年](https://toutiao.io/k/4baxyr7) ![](assets/new.png)  
+- [2021-04-07-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-07-Redis-专题：深入-Redis-Cluster-集群容错机制（3/3）](https://toutiao.io/k/ofmfjst) ![](assets/new.png)  
+- [2021-04-07-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-07-两种基础数据图表的解读，人人都应该掌握的技能](https://toutiao.io/k/put4cdu) ![](assets/new.png)  
+- [2021-04-07-百度工程师厂外生存指南](https://toutiao.io/k/hztosml) ![](assets/new.png)  
 - [2021-04-07-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
-- [2021-04-07-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
-- [2021-04-07-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
+- [2021-04-07-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-07-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
+- [2021-04-07-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
+- [2021-04-07-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
+- [2021-04-07-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
+- [2021-04-07-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
+- [2021-04-07-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
+- [2021-04-07-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
+- [2021-04-07-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

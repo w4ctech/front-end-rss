@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-07 21:24:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 21:38:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,7 +39,10 @@
 
 
 
-- [【前端早读课】Vue-和-React-深度区别分析](https://www.ershicimi.com/p/b1fa2d93745a6f0274f0be35a3f5872f)
+- [【前端大全】探索-Node.js-异步-Hooks](https://www.ershicimi.com/p/4af81d0ae3df3f5840bda97169a3840e)
+- [【前端大全】React中的优先级](https://www.ershicimi.com/p/7347a1cf471895e277e4b5c075e21421)
+- [【前端大全】Vue3-和-React17-，你选谁？](https://www.ershicimi.com/p/7bb50f629dee5c635a4df17abede13aa)
+- [【前端之巅】值得推荐的8个-React-库](https://www.ershicimi.com/p/c7001d984d57cc23c114ac3e1805ceba)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -56,11 +59,13 @@
 
 
 
-- [【前端早读课】【开源】京东-vue3-组件库震撼升级，如约而至！](https://www.ershicimi.com/p/44695e45fe9fc46bcc00e12398401c7c)
+- [【前端大全】Vue-项目如何提高效率？大厂-2-大实践总结告诉你](https://www.ershicimi.com/p/8a95c6c3568f1407faf214cfd37fdd35)
 - [【前端大学】VUE+ElementUI后台管理项目经验与技巧分享](https://www.ershicimi.com/p/7511b90376b0a116ec517313ca40ed49)
 - [【前端大学】手摸手教你用Vue封装日历组件](https://www.ershicimi.com/p/9ad114ee4171b9e4ef5c4204a36e896b)
 - [【前端大学】vue-cli-迁移-vite2-实践小结](https://www.ershicimi.com/p/dcbfa61843c1afc04f204595e465839e)
 - [【前端大学】Vue-3.0高频出现的几道面试题](https://www.ershicimi.com/p/35b370d7b4cca66c1406a741918a2f25)
+- [【前端之巅】Vue-3-计划放弃支持-IE11；西班牙或成全球首个“每周工作4天”的国家；Windows-95](https://www.ershicimi.com/p/01722c8c69a9c3d9f8ef8aa5cbcad882)
+- [【前端之巅】Vue.js-2021最新报告出炉；WebView组件更新致数百款安卓应用崩溃；京东程序员回应“被猝](https://www.ershicimi.com/p/8e4ce029dc6df9797801616cf0b41abf)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -77,8 +82,7 @@
 
 
 
-- [【前端早读课】【第2242期】TypeScript类型编写指南之下篇](https://www.ershicimi.com/p/39bcb8d3da8089a4641df45c74466341)
-- [【前端早读课】【第2241期】TypeScript类型编写指南之上篇](https://www.ershicimi.com/p/13d4a37e1b5a91a8b846896cafeac31e)
+- [【前端之巅】TypeScript-4.3-beta-版本正式发布：新增import语句补全，对模板字符串类型进行](https://www.ershicimi.com/p/b7740c3ceaba7a164806fee9a1bcfa79)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -95,8 +99,8 @@
 
 
 
-- [【前端早读课】【第2243期】从零开始:Webpack-优化实践](https://www.ershicimi.com/p/7c43e53cf142b0856e32f87e4e8f4533)
 - [【前端大学】下一代前端构建工具-ViteJS-技术解读，尤雨溪diss：Webpack！](https://www.ershicimi.com/p/4bf18c7a3c1b030cb0a63d30fd961b8c)
+- [【前端之巅】玩转-Webpack-4-共需几步？-|-活动推荐](https://www.ershicimi.com/p/76bb03f92df767a42ac95627cd7ad9ea)
 - [【安全热点】CSO说安全-|-秦峰:基于商业组织的网络安全合规风险管理构建和实践](https://sec.thief.one/article_content?a_id=76d292516aab0db642a6c02598bf5893)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
@@ -130,7 +134,6 @@
 
 
 
-- [【V2EX】FUTAKE：-Instagram-设计-+-TikTok-交互，一个全新的照片分享小程序，希望有人喜欢](https://www.v2ex.com/t/768902)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -147,6 +150,7 @@
 
 
 
+- [【前端之巅】斗胆，谈谈我对Flutter的理解](https://www.ershicimi.com/p/4b7e192cbcdfb18c6abf18bd03a96f2a)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -163,7 +167,6 @@
 
 
 
-- [【V2EX】Golang+Protobuf+PixieJS-开发-Web-多人在线射击游戏原创翻译](https://www.v2ex.com/t/768884)
 - [【安全热点】《使命召唤》游戏作弊器使玩家遭到恶意软件的攻击](https://sec.thief.one/article_content?a_id=0066bb3ea220663d07dfb304c03e2581)
 - [【安全热点】偷鸡不成蚀把米,《使命召唤:战争地带》游戏外挂被发现含有恶意软件](https://sec.thief.one/article_content?a_id=72806cf89c024bfa83dbdd47ea107e76)
 - [......【查看更多】......](./details/tags/dev-game.md)
@@ -182,10 +185,13 @@
 
 
 
+- [【前端大全】写给前端的-Nest.js-教程——10分钟上手后端接口开发](https://www.ershicimi.com/p/cc5de666ded9084b27ec09d879b2716b)
+- [【前端大全】【死磕JS】闭包到底是个什么鬼？](https://www.ershicimi.com/p/1fff517f47d5db33caafb5a59c7b0544)
 - [【前端大学】常用的前端JavaScript方法封装](https://www.ershicimi.com/p/d75204d75133600ed4f3c67ab7bb76cf)
+- [【前端之巅】2021年前端开发者需要知道的34种JS优化技巧](https://www.ershicimi.com/p/69d032c4cdc220e4cd5517e86456f15f)
 - [【张鑫旭-鑫空间-鑫生活】盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/)
 - [【张鑫旭-鑫空间-鑫生活】如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/)
-- [【V2EX】前端页面第一个-js-文件可以做到阻止后面指定-js-文件的加载和执行吗？](https://www.v2ex.com/t/768865)
+- [【开发者头条】探索-Table-组件虚拟化](https://toutiao.io/k/sothdok)
 - [【安全热点】JavaScript-函数劫持攻击原理](https://sec.thief.one/article_content?a_id=3a41f21fbb86bbf3fb166ba30ed652d0)
 - [【安全热点】BUF大事件丨16美元就可以打包带走所有短信;宏碁回应遭网络攻击](https://sec.thief.one/article_content?a_id=06bb45d333a48097cd308ca955265db9)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -241,7 +247,6 @@
 
 
 
-- [【前端早读课】【第2244期】百家号在线视频编辑器的技术演进](https://www.ershicimi.com/p/fe99b7c024c36f8c58011cdf1afeecea)
 - [【张鑫旭-鑫空间-鑫生活】借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/)
 - [【安全热点】【视频】|-Python:if.else的列表推导](https://sec.thief.one/article_content?a_id=84050c41d17bf9cfe108094d0ba9750c)
 - [【安全热点】【视频】|-工控安全:石油化工行业解决方案](https://sec.thief.one/article_content?a_id=66f671c44dc7b96d630397aa3183a105)
@@ -264,6 +269,9 @@
 
 
 
+- [【前端之巅】BFF模式：微服务前端数据加载的最佳实践？](https://www.ershicimi.com/p/bd1eeb255ae2709f93adde2775fa195b)
+- [【开发者头条】Hive-优化之配置参数的优化](https://toutiao.io/k/oelcnlw)
+- [【开发者头条】推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t)
 - [【安全热点】基于虚拟机的类加载机制实现热修复](https://sec.thief.one/article_content?a_id=c9e8198cd129e4f1993b3666c416dc75)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -281,10 +289,9 @@
 
 
 
-- [【前端早读课】URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/0f7831329d88ca1193fc9a243e19e7f8)
+- [【前端之巅】前端工程师，一定要懂哪些浏览器原理？-|-活动推荐](https://www.ershicimi.com/p/bc317fcebdc5322bc77be7dc3e17f653)
 - [【张鑫旭-鑫空间-鑫生活】Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/)
-- [【V2EX】我的最后一款阅读模式浏览器插件---Circle-阅读模式](https://www.v2ex.com/t/768886)
-- [【V2EX】IPv4-和-IPv6-之间用-ZeriTier-不能互访的问题](https://www.v2ex.com/t/768879)
+- [【开发者头条】Chrome-插件，实用且堪称神器](https://toutiao.io/k/kmh5ibc)
 - [【安全热点】腾讯安全X上汽赤霄,明天13:30准时“发车”!](https://sec.thief.one/article_content?a_id=b11206f03afefd52577b23655e9169ed)
 - [【安全热点】在字节跳动做安全风控是什么体验](https://sec.thief.one/article_content?a_id=72137a8212f4eacff8ad494b12f8275f)
 - [【安全热点】信息安全漏洞周报2021年第14期](https://sec.thief.one/article_content?a_id=b4b5a0cba53719c0191a09a1b5b471b9)
@@ -301,6 +308,7 @@
 - [【安全热点】安全的路很长,一路同行,共同进步](https://sec.thief.one/article_content?a_id=d83ff656cbc2f4b835d936a1d53407cc)
 - [【安全热点】欧盟理事会审议通过欧盟十年网络安全战略](https://sec.thief.one/article_content?a_id=b8dfd29d138ce54e35720fbd3ec6d8fb)
 - [【安全热点】在Z|南京证券、美柚高至42万/年诚招安全相关工程师](https://sec.thief.one/article_content?a_id=e57641b4620843c3cbd3648672da13fe)
+- [【安全热点】【安全圈】GitLab任意文件读取漏洞风险通告!-漏洞等级:严重!](https://sec.thief.one/article_content?a_id=eebec9647a0ad03669107850420ec1f6)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -317,6 +325,10 @@
 
 
 
+- [【前端之巅】十六年全栈开发者的Android开发踩坑实录](https://www.ershicimi.com/p/fc78e8903460597c7ab7d1d77c3afe07)
+- [【开发者头条】常见的初级排序算法，这次全搞懂](https://toutiao.io/k/grivds8)
+- [【开发者头条】如何平滑切换线上-Elasticsearch-索引](https://toutiao.io/k/p5zzinm)
+- [【开发者头条】字节跳动的算法面试题是什么难度？（第二弹）](https://toutiao.io/k/5dzm6dq)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -333,6 +345,7 @@
 
 
 
+- [【开发者头条】Docker-使用-MySQL](https://toutiao.io/k/7dit4i8)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -349,7 +362,9 @@
 
 
 
-- [【V2EX】Xcode-的-git，没保存不小心-checkout-后还能救吗？](https://www.v2ex.com/t/768881)
+- [【开发者头条】码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y)
+- [【开发者头条】推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1)
+- [【开发者头条】推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0)
 - [【安全热点】这个让马斯克疯狂推荐的聊天软件,在Github上火了](https://sec.thief.one/article_content?a_id=c042f93bd773761d840136b23a121628)
 - [【安全热点】震惊了!每30秒学会一个Python小技巧,Github星数4600+](https://sec.thief.one/article_content?a_id=3e001c40e04b50ec2666ad40e6222c8a)
 - [......【查看更多】......](./details/tags/git-svn.md)
@@ -368,14 +383,14 @@
 
 
 
-- [【前端早读课】【招聘】深圳orRemote-XMind招聘按时下班/远程办公的践行者](https://www.ershicimi.com/p/704cdc32876424fc551584d2a8a0929e)
-- [【前端早读课】【招聘】美团民宿业务部招前端开发工程师](https://www.ershicimi.com/p/92e4cbb05abbc0c27b661d8e48695689)
-- [【前端早读课】【招聘】阿里云企业IT治理工作台团队招聘前端开发工程师](https://www.ershicimi.com/p/7291fd28dc6523d8960198523a37d9a5)
-- [【前端早读课】【招聘】美团平台-App-技术部招聘前端开发工程师](https://www.ershicimi.com/p/f683b3cc499560e2e59ba681b61b76c7)
-- [【前端早读课】【招聘】北京快手招聘前端开发工程师](https://www.ershicimi.com/p/ab4c5384b6c69855a68d26e4b502a935)
+- [【前端大全】400-道前端工程师常考必考面试题+详细解答](https://www.ershicimi.com/p/d5e56fb48efa0b27c01eb5844afe62dd)
+- [【前端大全】面不面试的，你都得懂原型和原型链](https://www.ershicimi.com/p/d1b9ec4146fb195e3441706c8b890c3c)
 - [【前端大学】​400-道前端常考必考面试题（附答案详解）](https://www.ershicimi.com/p/0cecade70952af096121ab439fd32346)
 - [【前端大学】大厂面试常问的工程化怎么学？详细指南来了](https://www.ershicimi.com/p/830152f8c8d1e8f770561a5d787de16a)
-- [【V2EX】蚂蚁金服社招内推-支付宝基金团队（没错就是全球最大的基金平台之一的余额宝所在的团队）招-Java-开发（P6,P7,P8）。地点：杭州，上海任选，可加面试官微信直...](https://www.v2ex.com/t/768872)
+- [【前端之巅】400-道前端工程师常考必考面试题+详细解答-|-极客大学](https://www.ershicimi.com/p/4f24c4e81a4a928c36598be951897a6d)
+- [【开发者头条】面试官：你有啥缺点，咋回答？](https://toutiao.io/k/rpphzhz)
+- [【开发者头条】推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o)
+- [【开发者头条】推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua)
 - [【安全热点】牛聘|2021年度岗位招聘第6期](https://sec.thief.one/article_content?a_id=a13ad7f2403fddf64f9a2d4a101c912a)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -393,6 +408,7 @@
 
 
 
+- [【前端大全】面向对象：真心想找一位有缘人！两人三餐四季，共度余生！](https://www.ershicimi.com/p/c585d6d12b0da8007db62f0d63d524c0)
 - [......【查看更多】......](./details/tags/oop.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -423,14 +439,17 @@
 
 
 
-- [【前端早读课】【第2246期】多端复用框架的原理与实践](https://www.ershicimi.com/p/a109c112224263c73bae31be617feaed)
-- [【前端早读课】【第2245期】Worktile-前端工程化之路](https://www.ershicimi.com/p/60f6981990916ddcb7d974692d14f498)
-- [【前端早读课】【图书】FFmpeg从入门到精通](https://www.ershicimi.com/p/cc855643ff3db6a5e83ee7a3dc91fca1)
-- [【前端早读课】【第2240期】大话年货节](https://www.ershicimi.com/p/bc9487ccc38dcdcfd73538eb8ff63fb1)
-- [【前端早读课】【第2239期】前端还有机会吗？这是蚂蚁前端的答案](https://www.ershicimi.com/p/b745f22cca70c1d705f10e62aed84f4b)
-- [【前端早读课】【活动】铃盛X美团前端线上分享会](https://www.ershicimi.com/p/935dcd60f8a515043c457d3cd1d99eee)
-- [【前端早读课】【第2238期】我在阿里云做前端智能化（Dumbo）--前端度量](https://www.ershicimi.com/p/4c56cdfcc6a5788ff0fd164fecfc877c)
-- [【前端早读课】【第2237期】我在阿里云做前端智能化（Dumbo）--VSCode插件](https://www.ershicimi.com/p/91ae89587eab33500ce5d76b86b60c4a)
+- [【前端大全】前端优秀实践不完全指南](https://www.ershicimi.com/p/14dee3aaec5d7b79877f75e4a47b1436)
+- [【前端大全】前端每日一题-#70](https://www.ershicimi.com/p/491fca219f14d2302784aa893c772f2e)
+- [【前端大全】前端同学们，你们要的分享干货，来了！](https://www.ershicimi.com/p/db625b66cc114120f1f3f0e8ca22d3e2)
+- [【前端大全】登录系统实现](https://www.ershicimi.com/p/20967ea066d4f01441ad6cf10d49ca98)
+- [【前端大全】前端每日一题-#69](https://www.ershicimi.com/p/980998c39e6558aed17f0b68ee839e13)
+- [【前端大全】二维码扫码登录是什么原理](https://www.ershicimi.com/p/ea1d22fd6117da2b7ad76009c5b6dae9)
+- [【前端大全】前端每日一题-#68](https://www.ershicimi.com/p/0e9053b08d1b6fd4ff6f641ba21b71ed)
+- [【前端大全】纯前端实现-App-Store-卡片展开效果](https://www.ershicimi.com/p/8bad022ef1256ce61f867c054aabc68e)
+- [【前端大全】前端每日一题-#67](https://www.ershicimi.com/p/3cc91614047361442b709d76f26e2b92)
+- [【前端大全】前端每日一题-#66](https://www.ershicimi.com/p/deae42ac1edbfb33fdbce517fdd9201f)
+- [【前端大全】前端每日一题-#65](https://www.ershicimi.com/p/0298a3a94e1a65cbfd75e74666b54355)
 - [【前端大学】自学前端拿到offer的心路历程热乎的面经附答案）](https://www.ershicimi.com/p/fd9b9e4321627cf648a6baa941a67078)
 - [【前端大学】做前端-8-年，看透了裁人的套路。。](https://www.ershicimi.com/p/02e96f3b0e88aace0d28d52522b94146)
 - [【前端大学】226页PDF，熬夜啃完，终进阿里定级P7！](https://www.ershicimi.com/p/8e5a4612936dbdeac8a4589affbd91be)
@@ -440,9 +459,6 @@
 - [【前端大学】入职腾讯第九年，我辞职了!!!](https://www.ershicimi.com/p/5e45e1e9baf0af0c99d7cae57e2f16b5)
 - [【前端大学】今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/eccf793491ccab51fa69d04ce1e7b9d8)
 - [【前端大学】前端学到什么程度才能叫精通？](https://www.ershicimi.com/p/121d72c7b49b529108ba3cad4e411b8a)
-- [【前端大学】想靠搞技术吃饭，但现实却是-996](https://www.ershicimi.com/p/532e61171a10ab33c9228f94ffac9d66)
-- [【前端大学】base64-格式的数据是如何实现的](https://www.ershicimi.com/p/8036fc0edb1306a138554a06c1da04a6)
-- [【前端大学】前端行业内幕：“打工人”的真实写照！](https://www.ershicimi.com/p/ba9c10d00c8bac9b602a9a0dbbe02f8a)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

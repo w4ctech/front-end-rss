@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-07 21:24:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 21:38:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -7,7 +7,6 @@
 
 
 
-- [2021-04-02-【第2244期】百家号在线视频编辑器的技术演进](https://www.ershicimi.com/p/fe99b7c024c36f8c58011cdf1afeecea) 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2021-04-07-【视频】|-Python:if.else的列表推导](https://sec.thief.one/article_content?a_id=84050c41d17bf9cfe108094d0ba9750c) 
 - [2021-04-06-【视频】|-工控安全:石油化工行业解决方案](https://sec.thief.one/article_content?a_id=66f671c44dc7b96d630397aa3183a105) 

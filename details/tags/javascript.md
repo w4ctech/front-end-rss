@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-07 22:03:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 22:24:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,7 +7,9 @@
 
 
 
+- [2021-04-02-34-个-JavaScript-代码优化技巧](https://www.ershicimi.com/p/e23ed7bf9f9dab6c2500151482fddbc1) 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 
+- [2021-04-07-前端页面第一个-js-文件可以做到阻止后面指定-js-文件的加载和执行吗？](https://www.v2ex.com/t/768865) 
 - [2021-04-06-JavaScript-函数劫持攻击原理](https://sec.thief.one/article_content?a_id=3a41f21fbb86bbf3fb166ba30ed652d0) 
 - [2021-04-03-BUF大事件丨16美元就可以打包带走所有短信;宏碁回应遭网络攻击](https://sec.thief.one/article_content?a_id=06bb45d333a48097cd308ca955265db9) 

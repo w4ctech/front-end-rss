@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-07 23:24:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-04-07 23:40:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -33,6 +33,7 @@
 
 
 - [【阮一峰的网络日志】2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) 
+- [【V2EX】2021-04-07-跟女朋友聊工作就吵架](https://www.v2ex.com/t/768908) 
 - [【V2EX】2021-04-07-异地的社保合并问题？](https://www.v2ex.com/t/768906) 
 - [【V2EX】2021-04-07-Show-V2EX-:-基于人工智能和统计模型的美股自动交易](https://www.v2ex.com/t/768904) 
 - [【V2EX】2021-04-07-开源中国——《开源项目必须用英文命名标识符吗？》](https://www.v2ex.com/t/768903) 
@@ -170,23 +171,6 @@
 - [【安全热点】2021-04-02-小豚AI摄像头的完整分析](https://sec.thief.one/article_content?a_id=e5d7b19a8c5d3d53cb86c0d51ec5be51) 
 - [【安全热点】2021-04-02-中关村可信计算产业联盟金融安全专委会召开2021工作会议暨交流活动](https://sec.thief.one/article_content?a_id=4c448f1de0940182ec83396b6640648e) 
 - [【安全热点】2021-04-02-对伪装docx文件病毒的逆向分析](https://sec.thief.one/article_content?a_id=5f1e08b09534af5301f41f50a639222e) 
-- [【物联网智库】2021-04-07-曝滴滴启动造车项目！但留给它施展拳脚的机会可能已经不多了......](https://www.ershicimi.com/p/1c5bfa736ae6bc4cc2721ff0073be08b) 
-- [【物联网智库】2021-04-07-十四五规划明确5G普及率目标，模组/终端/运营商…如何落实产业应用？](https://www.ershicimi.com/p/e4f829a108771675f549e611c92e20fb) 
-- [【物联网智库】2021-04-07-为什么信不过AI看病？数据集小、可靠性差，AI医疗任重道远](https://www.ershicimi.com/p/5c607d08e273192e4438842a229623eb) 
-- [【物联网智库】2021-04-06-刚刚，雷军透露小米汽车的品牌名/车型/价格，10-30万，或为SUV-或轿车](https://www.ershicimi.com/p/571ba606cae40c559a5cc28284435e46) 
-- [【物联网智库】2021-04-06-5G基站需要隔多远建一个？关于网络规划的那些问题](https://www.ershicimi.com/p/34be5dee33162693a0d268632190a418) 
-- [【物联网智库】2021-04-06-激荡三十年：银行数据库的发展与变迁](https://www.ershicimi.com/p/b2f85633011349058638e823214fa171) 
-- [【物联网智库】2021-04-05-新疆牧民在家用北斗放牛，网友吐槽：BBC/CNN连夜赶稿《侵犯牛权》](https://www.ershicimi.com/p/700f9871a0505cda7b0e11fa5df32061) 
-- [【物联网智库】2021-04-05-倒计时6天，“2021平板产业赋能教育装备创新峰会”即将开启](https://www.ershicimi.com/p/a4349a1d20d75337b13bfd2d8c445ff7) 
-- [【物联网智库】2021-04-04-专为物联网而生的TinyML，正在开启音频分析的新蓝海【物女心经】](https://www.ershicimi.com/p/65577c72f00d8570cd76830a0130d011) 
-- [【物联网智库】2021-04-04-关乎90%物联网应用是否能落地！未来物联网企业发展何去何从？](https://www.ershicimi.com/p/406f880ec6ce570ff797587f871cb622) 
-- [【物联网智库】2021-04-03-工行/建行/农行/邮储/平安...当中国最“有财”的行业决心主动布局物联网](https://www.ershicimi.com/p/e82b122032f9cef661eff54eae85c109) 
-- [【物联网智库】2021-04-03-【逛展】助力乡村振兴，智慧农业迎来百花齐放](https://www.ershicimi.com/p/50674b318a851897134bb1a576e2ca0e) 
-- [【物联网智库】2021-04-02-70元10个ID，全国数万家庭摄像头遭入侵，按刺激程度标价，物联网安全如此不堪一击？](https://www.ershicimi.com/p/c237e44d64b47701faf7049503a55c9e) 
-- [【物联网智库】2021-04-02-十四五规划明确5G普及率目标，模组/终端/运营商…如何落实产业应用？](https://www.ershicimi.com/p/4dc24620de12f7baf69c792fa2b42fd6) 
-- [【物联网智库】2021-04-02-5G-2B一年感敢言](https://www.ershicimi.com/p/d7e65d518f5f3f0ee3d1af7bc7fb6d9f) 
-- [【物联网智库】2021-04-01-年砸4000亿！智慧教育，到底有啥用？](https://www.ershicimi.com/p/1c7a05fc164af34987f8a11b16f5c9bf) 
-- [【物联网智库】2021-04-01-重磅发布！这些集成电路企业免进口关税！](https://www.ershicimi.com/p/9a68a83e5b127260852f6fcf0ca8519a) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -202,9 +186,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2021-03-14-CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/) 
 - [【阮一峰的网络日志】2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) 
 - [【阮一峰的网络日志】2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) 
-- [【物联网智库】2021-03-31-营收8914亿！华为刚刚发布2020年财报：喜忧半掺，重压之下营收、利润双增长，但增速大幅放缓](https://www.ershicimi.com/p/127256bf14dc0526abcb542d98722e8d) 
-- [【物联网智库】2021-03-31-2060年送你一片“绿水青山”，碳中和大目标下科技企业以身作则](https://www.ershicimi.com/p/cf60c61ba511a03a88d21f87fbb234fb) 
-- [【物联网智库】2021-03-31-图解：5G毫米波峰值速率计算](https://www.ershicimi.com/p/76ccd78328e0878c0de750bee44792b1) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

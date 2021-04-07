@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-07 00:46:57，:rocket: 更新条数: +4157， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-07 01:16:15，:rocket: 更新条数: +4160， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,9 +96,8 @@
 </summary>
 
 
-- [2021-04-06-全国｜新增确诊-24-例-其中本土-15-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEGBuzPnZ2mW3dJyok5XK210406&isfromapp=1) ![](assets/new.png)  
-- [2021-04-05-云南｜4-月-6-日-8-时起-瑞丽启动第二轮全员核酸](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKycJ7kzAJdy2QAEcpEz210405&isfromapp=1) ![](assets/new.png)  
-- [2021-04-05-云南｜瑞丽-3-地高风险-6-地中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix9C3TrHeXhydnvg1QOSE210405&isfromapp=1) ![](assets/new.png)  
+- [2021-04-07-全国｜新增-12-例确诊病例-2-例来自本土](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artinzw3aW3kVTjNun7VNf8k210407&isfromapp=1) ![](assets/new.png)  
+- [2021-04-06-云南｜新增-2-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOhHBkll6RcOhBnp0qdMD210407&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -957,6 +956,15 @@
 </summary>
 
 
+- [2021-04-07-微软的-JDK](https://www.v2ex.com/t/768565) ![](assets/new.png)  
+- [2021-04-07-国产惠科显示器怎么样，大家用过没，我看性价比挺高的，就是不知道实际使用怎么样](https://www.v2ex.com/t/768564) ![](assets/new.png)  
+- [2021-04-07-微信如何关闭自动联想-未收藏-的表情](https://www.v2ex.com/t/768563) ![](assets/new.png)  
+- [2021-04-07-知乎控制台输出是啥意思？](https://www.v2ex.com/t/768562) ![](assets/new.png)  
+- [2021-04-07-后端码农迫于换工作，需要自带电脑撸码，求推荐,预算在-5K-7K,麻烦各位了](https://www.v2ex.com/t/768560) ![](assets/new.png)  
+- [2021-04-07-强大的-v2ex，大家擅长-Kotlin，-webview-交互的伙伴，来一波](https://www.v2ex.com/t/768559) ![](assets/new.png)  
+- [2021-04-07-机械工业出版社-305G](https://www.v2ex.com/t/768558) ![](assets/new.png)  
+- [2021-04-07-sureness-1.0.2-发布，比-shiro,spring-security-快几倍，面向-rest-api-的安全框架](https://www.v2ex.com/t/768557) ![](assets/new.png)  
+- [2021-04-07-这里谁有-oracle-的-mos-账号吗,-能不能帮下个补丁](https://www.v2ex.com/t/768556) ![](assets/new.png)  
 - [2021-04-07-大佬们，用腾讯云香港服务器搭-frp-访问内网很慢，怎么解决呢](https://www.v2ex.com/t/768555) ![](assets/new.png)  
 - [2021-04-07-做了一个一站式无编程-IM-通知工具『叮兔-https://ding.to』](https://www.v2ex.com/t/768553) ![](assets/new.png)  
 - [2021-04-07-FinTech-社区-招聘：量化研究员---40-100-万+奖金---北京/上海](https://www.v2ex.com/t/768552) ![](assets/new.png)  
@@ -968,15 +976,6 @@
 - [2021-04-06-老哥们-有没有-it-方面的靠谱北京猎头](https://www.v2ex.com/t/768541) ![](assets/new.png)  
 - [2021-04-06-蒙特卡洛模拟是不是很难做并行计算](https://www.v2ex.com/t/768540) ![](assets/new.png)  
 - [2021-04-06-飞利浦电动牙刷的质量实在是太差了.....](https://www.v2ex.com/t/768539) ![](assets/new.png)  
-- [2021-04-06-istio-问题请教，为啥不能通过一个-istio-ingressgateway-pod-+-多个-service-LB对外提供服务？](https://www.v2ex.com/t/768538) ![](assets/new.png)  
-- [2021-04-06-App-如何发布到全球所有国家地区的-App-Store-和-Google-Play-商店？](https://www.v2ex.com/t/768537) ![](assets/new.png)  
-- [2021-04-06-springboot-kotlin-和-Java-混编，-json-序列化用哪个比较好](https://www.v2ex.com/t/768535) ![](assets/new.png)  
-- [2021-04-06-Shopee-这个公司的-HR-专业度真的是有待提高](https://www.v2ex.com/t/768534) ![](assets/new.png)  
-- [2021-04-06-写了一个提取公积金及公积金贷款的教程，希望能帮助到读者](https://www.v2ex.com/t/768533) ![](assets/new.png)  
-- [2021-04-06-谁可以给一个阿里云续费.net-域名的优惠口令？](https://www.v2ex.com/t/768531) ![](assets/new.png)  
-- [2021-04-06-4g-标志突然消失-无法联网-大家遇到过这种问题吗？](https://www.v2ex.com/t/768530) ![](assets/new.png)  
-- [2021-04-06-有没有高德、百度地图的同学，新手司机想提个建议：能不能始终给出最近两段道路的车道信息，拥堵的时候能在不影响别人的情况下变道的地方也就是路口了。](https://www.v2ex.com/t/768528) ![](assets/new.png)  
-- [2021-04-06-你们公司的私密信息是如何管理的？网站登陆账号、服务器账号、合作伙伴以及客户的账号](https://www.v2ex.com/t/768527) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1020,25 +1019,25 @@
 
 
 - [2021-04-07-探索-Table-组件虚拟化](https://toutiao.io/k/sothdok) ![](assets/new.png)  
+- [2021-04-07-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
 - [2021-04-07-再谈-synchronized-锁升级](https://toutiao.io/k/8qya0wq) ![](assets/new.png)  
 - [2021-04-07-Chrome-插件,实用且堪称神器](https://toutiao.io/k/kmh5ibc) ![](assets/new.png)  
 - [2021-04-07-常见的初级排序算法，这次全搞懂](https://toutiao.io/k/grivds8) ![](assets/new.png)  
 - [2021-04-07-从创业者到打工人，我在阿里这-1-年](https://toutiao.io/k/4baxyr7) ![](assets/new.png)  
 - [2021-04-07-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
 - [2021-04-07-Redis-专题：深入-Redis-Cluster-集群容错机制（3/3）](https://toutiao.io/k/ofmfjst) ![](assets/new.png)  
-- [2021-04-07-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-07-Docker-使用-MySQL](https://toutiao.io/k/7dit4i8) ![](assets/new.png)  
 - [2021-04-07-两种基础数据图表的解读，人人都应该掌握的技能](https://toutiao.io/k/put4cdu) ![](assets/new.png)  
 - [2021-04-07-百度工程师厂外生存指南](https://toutiao.io/k/hztosml) ![](assets/new.png)  
-- [2021-04-07-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
-- [2021-04-07-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
-- [2021-04-07-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
-- [2021-04-07-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
-- [2021-04-07-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-07-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
-- [2021-04-07-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
+- [2021-04-07-如何平滑切换线上-Elasticsearch-索引](https://toutiao.io/k/p5zzinm) ![](assets/new.png)  
+- [2021-04-07-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) ![](assets/new.png)  
 - [2021-04-07-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
-- [2021-04-07-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
+- [2021-04-07-推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua) ![](assets/new.png)  
+- [2021-04-07-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
+- [2021-04-07-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
+- [2021-04-07-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
 - [2021-04-07-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
+- [2021-04-07-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,25 +1,14 @@
-:alarm_clock: 更新时间: 2021-04-07 20:24:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 20:38:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2021-04-05-揭秘-Hummer-——-为何选择-Hummer-？](https://www.ershicimi.com/p/4a2fc3afaa4007deef0e46e4ca7abd6b) 
-- [2021-04-05-30-万行代码的平台升级：给跑着的汽车换轮胎](https://www.ershicimi.com/p/5053d9dd3b7935fb8c3a9124dfe587dd) 
-- [2021-04-02-开发人员解决不了管理烂的问题](https://www.ershicimi.com/p/757f364bb5d2ad69bbfc11060a47f7fa) 
-- [2021-03-31-Deno-成立公司，获得-490-万美元种子资金](https://www.ershicimi.com/p/dbfd3ebecc480e00c7bf1cd8a42314ca) 
-- [2021-03-31-怎样写出可读性高的代码？](https://www.ershicimi.com/p/1d572936e8d1a468486dd013e1b2db4a) 
-- [2021-03-29-一个前端智能化从业者眼中的低代码/无代码](https://www.ershicimi.com/p/c50e383eeb4ce804057b3a3cb029851e) 
-- [2021-03-26-自由软件之父回归，遭近2500人联合签名抵制，红帽表示不再资助FSF](https://www.ershicimi.com/p/42a48f695a5914c5b4aee31ef31d2f48) 
-- [2021-03-26-@程序员，如何轻松实现数据可视化？-|-活动推荐](https://www.ershicimi.com/p/b7a6b241be76ddcecb7fe41be0eabe64) 
-- [2021-03-24-InfoQ出品：金融业数字化转型研究报告-|-免费下载](https://www.ershicimi.com/p/81967c53ec5b22b456f772e659a48d8d) 
-- [2021-03-30-别装了-成年人，你说不累，谁信呀？](https://www.ershicimi.com/p/ba40fe045c0200ac4610b9d75d0f71b4) 
-- [2021-03-29-写给前端的零基础编译原理科普](https://www.ershicimi.com/p/5d18f220f4761e0c49253bfea8093e44) 
-- [2021-03-26-VS-Code-插件开发入门教程](https://www.ershicimi.com/p/fad96abf542d16859f730a6e944f8164) 
-- [2021-03-25-以前我没得选，现在我只想用-Array.prototype.reduce](https://www.ershicimi.com/p/00b15a23170a6b4721ab6d2319bc390b) 
-- [2021-03-23-带你入门了解二维码扫码登录是什么原理](https://www.ershicimi.com/p/23035a2e4cd49bae119213e2b47e43ff) 
-- [2021-03-22-程序员如何做到-年薪-50W+-？](https://www.ershicimi.com/p/b0e47b6d7f0d512b5b4df5ce39dce1d7) 
+- [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
+- [2020-02-07-工具控来看看代码高亮必备](https://www.ershicimi.com/p/56debedff7f9d3c357f3621de7a64aa2) 
+- [2020-02-03-阿里-ice.work-探秘系列-disabled-reload](https://www.ershicimi.com/p/51eed11abceaabb3dd7f2ceed864d182) 
+- [2020-01-16-阿里-ice.work-探秘系列-withRouter-的使用](https://www.ershicimi.com/p/29c023dd30374ab258ceef6aeaddb1e2) 
 - [2021-03-30-分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/) 
 - [2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) 
 - [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) 

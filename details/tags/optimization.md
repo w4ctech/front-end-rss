@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-07 13:12:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 13:25:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -8,8 +8,5 @@
 
 
 - [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
-- [2021-03-31-7000字前端性能优化总结-|-干货建议收藏](https://www.ershicimi.com/p/7eb436f912a5cc2d9781494fc553ddeb) 
 - [2021-04-07-不懂就问，-Github-Page-站点速度如何优化](https://www.v2ex.com/t/768823) 
-- [2021-04-07-Hive-优化之配置参数的优化](https://toutiao.io/k/oelcnlw) 
-- [2021-04-07-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) 
 - [2021-04-07-基于虚拟机的类加载机制实现热修复](https://sec.thief.one/article_content?a_id=c9e8198cd129e4f1993b3666c416dc75) 

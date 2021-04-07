@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-07 13:12:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 13:25:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-07-大家有在用纸质便签做每日-to-do-list-的吗？](https://www.v2ex.com/t/768850) 
 - [2021-04-07-动手写一个简单的编译器：在-JavaScript-中使用-Swift-的尾闭包语法](https://www.v2ex.com/t/768848) 
 - [2021-04-07-安装有-vcenter-server7.0-的-esxi-如何做基准升级？](https://www.v2ex.com/t/768845) 
 - [2021-04-07-程序员副业搞得有点起色,-发现最难的不是技术,-是招聘](https://www.v2ex.com/t/768844) 
@@ -36,4 +37,3 @@
 - [2021-04-07-请教一下-nodejs-的命令行工具怎么打包成二进制阿？](https://www.v2ex.com/t/768804) 
 - [2021-04-07-深圳银行卡办理问题](https://www.v2ex.com/t/768803) 
 - [2021-04-07-罗技-anywhere-2s-chrome-滚动问题](https://www.v2ex.com/t/768801) 
-- [2021-04-07-iOS-上有什么让数据-100%-不会被系统读取和上传的笔记软件？](https://www.v2ex.com/t/768799) 

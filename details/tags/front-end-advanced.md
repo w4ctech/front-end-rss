@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-07 06:24:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-07 06:41:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -8,7 +8,9 @@
 
 
 - [2021-03-31-高级前端必备：算法精进指南](https://www.ershicimi.com/p/a9e4c70f117e889cb3c1d672386b6b60) 
+- [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) 
 - [2021-03-29-十六年全栈开发者的Android开发踩坑实录](https://www.ershicimi.com/p/fc78e8903460597c7ab7d1d77c3afe07) 
+- [2021-03-29-冲击大厂必备：高效提升算法能力的学习路径](https://www.ershicimi.com/p/080149effa8f50bbd2359682016f94f6) 
 - [2021-04-07-校招|2022-届-北京|杭州-淘系内容社交互动平台-服务端、客户端、算法多岗位内推](https://www.v2ex.com/t/768693) 
 - [2021-04-07-常见的初级排序算法，这次全搞懂](https://toutiao.io/k/grivds8) 
 - [2021-04-07-如何平滑切换线上-Elasticsearch-索引](https://toutiao.io/k/p5zzinm) 

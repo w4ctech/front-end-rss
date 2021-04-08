@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-08 21:50:53，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-08 22:03:21，:rocket: 更新条数: +175， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,11 +51,11 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)  
+- [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -474,6 +474,26 @@
 </summary>
 
 
+- [2021-04-08-家中路由器-openwrt-只接-lan-口用，-ping-不通域名无法自动安装-opkg，编辑/etc/resolv.conf-把-nameserver-指定为局域网网关可解（默认配置是-127.0.0.1），但...](https://www.v2ex.com/t/769264) ![](assets/new.png)  
+- [2021-04-08-如何禁止应用随意创建目录并存储缓存文件](https://www.v2ex.com/t/769263) ![](assets/new.png)  
+- [2021-04-08-请教-在-Windows-PE-的环境下追加具有管理员权限的用户](https://www.v2ex.com/t/769262) ![](assets/new.png)  
+- [2021-04-08-分享一个基于-Ant-Design-Table-的小组件](https://www.v2ex.com/t/769260) ![](assets/new.png)  
+- [2021-04-08-被空降的-leader-拍桌子、指着鼻子骂，如何摆正心态？](https://www.v2ex.com/t/769259) ![](assets/new.png)  
+- [2021-04-08-请问旧-iPhone-数据迁移到新-iPhone-，原生输入法词库会丢失吗？](https://www.v2ex.com/t/769258) ![](assets/new.png)  
+- [2021-04-08-vscode-插件，想要效果：远程有类似-mobaxterm-左侧文件浏览的效果，可以点点点,-cd-到某个文件下，开个-terminal-也是这个路径。](https://www.v2ex.com/t/769257) ![](assets/new.png)  
+- [2021-04-08-所有-iOS-设备在-4-月-26-号前还可更新到已关闭签名的最新可越狱版本：-14.3](https://www.v2ex.com/t/769256) ![](assets/new.png)  
+- [2021-04-08-4.8-号起，可以更换-homepod-默认的音乐播放来源了。](https://www.v2ex.com/t/769255) ![](assets/new.png)  
+- [2021-04-08-联想拯救者-2021-款各种型号有什么区别？](https://www.v2ex.com/t/769254) ![](assets/new.png)  
+- [2021-04-08-大家北京联通国际出口还正常吗？](https://www.v2ex.com/t/769253) ![](assets/new.png)  
+- [2021-04-08-不知道有没有更好的写法](https://www.v2ex.com/t/769252) ![](assets/new.png)  
+- [2021-04-08-第一次面试鹅厂，想请教下面试委员会面试是不是就是技术的终面了？](https://www.v2ex.com/t/769251) ![](assets/new.png)  
+- [2021-04-08-一个-react-progress-组件](https://www.v2ex.com/t/769250) ![](assets/new.png)  
+- [2021-04-08-2021-年，互联网越来越封闭了。豆瓣-API-都没了](https://www.v2ex.com/t/769247) ![](assets/new.png)  
+- [2021-04-08-公开在网络上的内容，如果被他人拿去申请了版权、商标或专利等，可能反过来起诉原作者么？](https://www.v2ex.com/t/769246) ![](assets/new.png)  
+- [2021-04-08-上海/杭州/北京/武汉社招/校招/实习四月冲鸭抖音电商后端开发工程师](https://www.v2ex.com/t/769245) ![](assets/new.png)  
+- [2021-04-08-深圳腾讯音乐-2021-年暑期实习生内推！可跟踪流程进度。](https://www.v2ex.com/t/769244) ![](assets/new.png)  
+- [2021-04-08-请教-ubuntu-怎么返回成正常桌面](https://www.v2ex.com/t/769243) ![](assets/new.png)  
+- [2021-04-08-v-model-在-input-type="radio"中是如何进行分组的？](https://www.v2ex.com/t/769242) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -538,6 +558,26 @@
 </summary>
 
 
+- [2021-04-07-曝滴滴启动造车项目！但留给它施展拳脚的机会可能已经不多了......](https://www.ershicimi.com/p/1c5bfa736ae6bc4cc2721ff0073be08b) ![](assets/new.png)  
+- [2021-04-07-十四五规划明确5G普及率目标，模组/终端/运营商…如何落实产业应用？](https://www.ershicimi.com/p/e4f829a108771675f549e611c92e20fb) ![](assets/new.png)  
+- [2021-04-07-为什么信不过AI看病？数据集小、可靠性差，AI医疗任重道远](https://www.ershicimi.com/p/5c607d08e273192e4438842a229623eb) ![](assets/new.png)  
+- [2021-04-06-刚刚，雷军透露小米汽车的品牌名/车型/价格，10-30万，或为SUV-或轿车](https://www.ershicimi.com/p/571ba606cae40c559a5cc28284435e46) ![](assets/new.png)  
+- [2021-04-06-5G基站需要隔多远建一个？关于网络规划的那些问题](https://www.ershicimi.com/p/34be5dee33162693a0d268632190a418) ![](assets/new.png)  
+- [2021-04-06-激荡三十年：银行数据库的发展与变迁](https://www.ershicimi.com/p/b2f85633011349058638e823214fa171) ![](assets/new.png)  
+- [2021-04-05-新疆牧民在家用北斗放牛，网友吐槽：BBC/CNN连夜赶稿《侵犯牛权》](https://www.ershicimi.com/p/700f9871a0505cda7b0e11fa5df32061) ![](assets/new.png)  
+- [2021-04-05-倒计时6天，“2021平板产业赋能教育装备创新峰会”即将开启](https://www.ershicimi.com/p/a4349a1d20d75337b13bfd2d8c445ff7) ![](assets/new.png)  
+- [2021-04-04-专为物联网而生的TinyML，正在开启音频分析的新蓝海【物女心经】](https://www.ershicimi.com/p/65577c72f00d8570cd76830a0130d011) ![](assets/new.png)  
+- [2021-04-04-关乎90%物联网应用是否能落地！未来物联网企业发展何去何从？](https://www.ershicimi.com/p/406f880ec6ce570ff797587f871cb622) ![](assets/new.png)  
+- [2021-04-03-工行/建行/农行/邮储/平安...当中国最“有财”的行业决心主动布局物联网](https://www.ershicimi.com/p/e82b122032f9cef661eff54eae85c109) ![](assets/new.png)  
+- [2021-04-03-【逛展】助力乡村振兴，智慧农业迎来百花齐放](https://www.ershicimi.com/p/50674b318a851897134bb1a576e2ca0e) ![](assets/new.png)  
+- [2021-04-02-70元10个ID，全国数万家庭摄像头遭入侵，按刺激程度标价，物联网安全如此不堪一击？](https://www.ershicimi.com/p/c237e44d64b47701faf7049503a55c9e) ![](assets/new.png)  
+- [2021-04-02-十四五规划明确5G普及率目标，模组/终端/运营商…如何落实产业应用？](https://www.ershicimi.com/p/4dc24620de12f7baf69c792fa2b42fd6) ![](assets/new.png)  
+- [2021-04-02-5G-2B一年感敢言](https://www.ershicimi.com/p/d7e65d518f5f3f0ee3d1af7bc7fb6d9f) ![](assets/new.png)  
+- [2021-04-01-年砸4000亿！智慧教育，到底有啥用？](https://www.ershicimi.com/p/1c7a05fc164af34987f8a11b16f5c9bf) ![](assets/new.png)  
+- [2021-04-01-重磅发布！这些集成电路企业免进口关税！](https://www.ershicimi.com/p/9a68a83e5b127260852f6fcf0ca8519a) ![](assets/new.png)  
+- [2021-03-31-营收8914亿！华为刚刚发布2020年财报：喜忧半掺，重压之下营收、利润双增长，但增速大幅放缓](https://www.ershicimi.com/p/127256bf14dc0526abcb542d98722e8d) ![](assets/new.png)  
+- [2021-03-31-2060年送你一片“绿水青山”，碳中和大目标下科技企业以身作则](https://www.ershicimi.com/p/cf60c61ba511a03a88d21f87fbb234fb) ![](assets/new.png)  
+- [2021-03-31-图解：5G毫米波峰值速率计算](https://www.ershicimi.com/p/76ccd78328e0878c0de750bee44792b1) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

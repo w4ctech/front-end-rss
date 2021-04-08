@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-08 16:46:12，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-08 17:09:21，:rocket: 更新条数: +153， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -474,6 +474,26 @@
 </summary>
 
 
+- [2021-04-08-vscode-插件，想要效果：远程有类似-mobaxterm-左侧文件浏览的效果，可以点点点,-cd-到某个文件下，开个-terminal-也是这个路径。](https://www.v2ex.com/t/769257) ![](assets/new.png)  
+- [2021-04-08-所有-iOS-设备在-4-月-26-号前还可更新到已关闭签名的最新可越狱版本：-14.3](https://www.v2ex.com/t/769256) ![](assets/new.png)  
+- [2021-04-08-4.8-号起，可以更换-homepod-默认的音乐播放来源了。](https://www.v2ex.com/t/769255) ![](assets/new.png)  
+- [2021-04-08-联想拯救者-2021-款各种型号有什么区别？](https://www.v2ex.com/t/769254) ![](assets/new.png)  
+- [2021-04-08-大家北京联通国际出口还正常吗？](https://www.v2ex.com/t/769253) ![](assets/new.png)  
+- [2021-04-08-不知道有没有更好的写法](https://www.v2ex.com/t/769252) ![](assets/new.png)  
+- [2021-04-08-第一次面试鹅厂，想请教下面试委员会面试是不是就是技术的终面了？](https://www.v2ex.com/t/769251) ![](assets/new.png)  
+- [2021-04-08-一个-react-progress-组件](https://www.v2ex.com/t/769250) ![](assets/new.png)  
+- [2021-04-08-2021-年，互联网越来越封闭了。豆瓣-API-都没了](https://www.v2ex.com/t/769247) ![](assets/new.png)  
+- [2021-04-08-公开在网络上的内容，如果被他人拿去申请了版权、商标或专利等，可能反过来起诉原作者么？](https://www.v2ex.com/t/769246) ![](assets/new.png)  
+- [2021-04-08-上海/杭州/北京/武汉社招/校招/实习四月冲鸭抖音电商后端开发工程师](https://www.v2ex.com/t/769245) ![](assets/new.png)  
+- [2021-04-08-深圳腾讯音乐-2021-年暑期实习生内推！可跟踪流程进度。](https://www.v2ex.com/t/769244) ![](assets/new.png)  
+- [2021-04-08-请教-ubuntu-怎么返回成正常桌面](https://www.v2ex.com/t/769243) ![](assets/new.png)  
+- [2021-04-08-v-model-在-input-type="radio"中是如何进行分组的？](https://www.v2ex.com/t/769242) ![](assets/new.png)  
+- [2021-04-08-.NET-Core-开发还有前景吗，要不要及时换语言](https://www.v2ex.com/t/769241) ![](assets/new.png)  
+- [2021-04-08-北京/远程-星阑科技招聘-大数据研发/渗透测试/安全研究](https://www.v2ex.com/t/769240) ![](assets/new.png)  
+- [2021-04-08-RESTful-分页查询-API-如何设计?](https://www.v2ex.com/t/769239) ![](assets/new.png)  
+- [2021-04-08-被小组长抢功怎么办](https://www.v2ex.com/t/769235) ![](assets/new.png)  
+- [2021-04-08-chrome-打开新网页时不要覆盖](https://www.v2ex.com/t/769234) ![](assets/new.png)  
+- [2021-04-08-使用-IntelliJ-IDEA-运行-Spring-Boot-应用，日志是有颜色。但是使用-docker-运行的话，-docker-container-logs-没有颜色](https://www.v2ex.com/t/769233) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

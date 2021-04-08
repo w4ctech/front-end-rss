@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-08 05:07:57，:rocket: 更新条数: +162， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-08 05:24:34，:rocket: 更新条数: +177， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,9 +53,9 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)![](assets/dot.png)   
+- [物联网智库](#物联网智库)  
 
 ## 文章链接
 
@@ -474,9 +474,15 @@
 </summary>
 
 
+- [2021-04-08-大龄-C++求职历程](https://www.v2ex.com/t/769036) ![](assets/new.png)  
+- [2021-04-08-想做个科普号，主要分享自己感兴趣的东西](https://www.v2ex.com/t/769035) ![](assets/new.png)  
+- [2021-04-08-为什么听音乐可以改善人的心情？](https://www.v2ex.com/t/769034) ![](assets/new.png)  
+- [2021-04-08-IDEA-插件-Material-Theme-UI-正式-SaaS-化](https://www.v2ex.com/t/769033) ![](assets/new.png)  
+- [2021-04-08-过保的-mbp-还能去天才吧清灰吗？](https://www.v2ex.com/t/769032) ![](assets/new.png)  
+- [2021-04-08-想开个计算机读书会的群（一些经典➕实践](https://www.v2ex.com/t/769031) ![](assets/new.png)  
 - [2021-04-08-感觉现在想要维护自己的权益是真的难](https://www.v2ex.com/t/769030) ![](assets/new.png)  
 - [2021-04-08-五千左右的投影仪有推荐的吗](https://www.v2ex.com/t/769029) ![](assets/new.png)  
-- [2021-04-08-分享一个大厂算法题库-CodeTop](https://www.v2ex.com/t/769028) ![](assets/new.png)  
+- [2021-04-08-分享一个大厂面试算法题库-CodeTop](https://www.v2ex.com/t/769028) ![](assets/new.png)  
 - [2021-04-08-现在面试都是要讲-hashMap-put-过程，-concurrentHashMap-put-过程吗？](https://www.v2ex.com/t/769027) ![](assets/new.png)  
 - [2021-04-08-leetcode-1758](https://www.v2ex.com/t/769022) ![](assets/new.png)  
 - [2021-04-08-MIUI-12.0.7-稳定版不能自动切换-WiFi-网络](https://www.v2ex.com/t/769021) ![](assets/new.png)  
@@ -488,12 +494,6 @@
 - [2021-04-08-Hackintool-支持了-M1？](https://www.v2ex.com/t/769009) ![](assets/new.png)  
 - [2021-04-08-过保-mbp，丢了一堆螺丝-天才吧能免费换上去吗](https://www.v2ex.com/t/769008) ![](assets/new.png)  
 - [2021-04-08-请教高手，-Android-对-JVM-生态圈的兼容极限在哪里？](https://www.v2ex.com/t/769005) ![](assets/new.png)  
-- [2021-04-08-offer-比较-渣硕，运气比较好拿了两个实习的-offer,前端方向-1.-美团平台（问了一下，应该是小程序生态这块的-2.-阿里云---流量产品事业部-对两个部门都不太...](https://www.v2ex.com/t/769004) ![](assets/new.png)  
-- [2021-04-08-工作第一年遇到的问题，以后也会常遇到](https://www.v2ex.com/t/769001) ![](assets/new.png)  
-- [2021-04-08-Brave-浏览器可以直接打开-ipfs-协议](https://www.v2ex.com/t/768998) ![](assets/new.png)  
-- [2021-04-08-实习-offer-比较](https://www.v2ex.com/t/768997) ![](assets/new.png)  
-- [2021-04-08-一个入门电影推荐算法题，希望能给点思路和伪代码](https://www.v2ex.com/t/768995) ![](assets/new.png)  
-- [2021-04-08-有没有-PPT-转视频的工具？](https://www.v2ex.com/t/768994) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -516,6 +516,26 @@
 </summary>
 
 
+- [2021-04-08-我放弃上海的高薪，选择回老家了](https://toutiao.io/k/qkjbzpr) ![](assets/new.png)  
+- [2021-04-08-JVM-合集之开篇点题](https://toutiao.io/k/11ajx2d) ![](assets/new.png)  
+- [2021-04-08-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-08-数据仓库分层存储技术揭秘](https://toutiao.io/k/42qs27i) ![](assets/new.png)  
+- [2021-04-08-除了甘特图，你还应该了解些什么软件项目管理知识](https://toutiao.io/k/0hklbup) ![](assets/new.png)  
+- [2021-04-08-数据搬运组件：基于-Sqoop-管理数据导入和导出](https://toutiao.io/k/w1c3b1j) ![](assets/new.png)  
+- [2021-04-08-架构设计笔记（十四）：关键模式_分库分表](https://toutiao.io/k/p4def3q) ![](assets/new.png)  
+- [2021-04-08-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-08-动手写一个简单的编译器：在-JavaScript-中使用-Swift-的尾闭包语法](https://toutiao.io/k/ox8m619) ![](assets/new.png)  
+- [2021-04-08-ClickHouse-性能优化？试试物化视图](https://toutiao.io/k/vdlcgd6) ![](assets/new.png)  
+- [2021-04-08-Flink-集成-Iceberg-在同程艺龙的生产实践](https://toutiao.io/k/fwm8589) ![](assets/new.png)  
+- [2021-04-08-译-深入剖析新型-Mac-OS-恶意软件-XcodeSpy](https://toutiao.io/k/a2sle6p) ![](assets/new.png)  
+- [2021-04-08-使用-Github-Actions-artifact-在-workflow-job-之间共享数据](https://toutiao.io/k/6sr93da) ![](assets/new.png)  
+- [2021-04-08-漫画｜与程序员正确的沟通方式应该是怎样的？](https://toutiao.io/k/1wti2v8) ![](assets/new.png)  
+- [2021-04-08-译-使用-Jetpack-App-Startup-库减少应用启动时间](https://toutiao.io/k/9g705u5) ![](assets/new.png)  
+- [2021-04-08-工具-|-一款专为甲方安全人员、甲乙代码审计工程师和-0-Day-漏洞挖掘人员量身打造的辅助工具](https://toutiao.io/k/q1w09nr) ![](assets/new.png)  
+- [2021-04-08-火山引擎-Redis-云原生实践](https://toutiao.io/k/hd9hq5t) ![](assets/new.png)  
+- [2021-04-08-运维小姐姐说这篇-Consul-集群和-ACL-配置超给力（保姆级）](https://toutiao.io/k/i08zfwv) ![](assets/new.png)  
+- [2021-04-08-喜大普奔，又一国标正式进入国际标准](https://toutiao.io/k/aeskj2g) ![](assets/new.png)  
+- [2021-04-08-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,26 +578,6 @@
 </summary>
 
 
-- [2021-04-07-曝滴滴启动造车项目！但留给它施展拳脚的机会可能已经不多了......](https://www.ershicimi.com/p/1c5bfa736ae6bc4cc2721ff0073be08b) ![](assets/new.png)  
-- [2021-04-07-十四五规划明确5G普及率目标，模组/终端/运营商…如何落实产业应用？](https://www.ershicimi.com/p/e4f829a108771675f549e611c92e20fb) ![](assets/new.png)  
-- [2021-04-07-为什么信不过AI看病？数据集小、可靠性差，AI医疗任重道远](https://www.ershicimi.com/p/5c607d08e273192e4438842a229623eb) ![](assets/new.png)  
-- [2021-04-06-刚刚，雷军透露小米汽车的品牌名/车型/价格，10-30万，或为SUV-或轿车](https://www.ershicimi.com/p/571ba606cae40c559a5cc28284435e46) ![](assets/new.png)  
-- [2021-04-06-5G基站需要隔多远建一个？关于网络规划的那些问题](https://www.ershicimi.com/p/34be5dee33162693a0d268632190a418) ![](assets/new.png)  
-- [2021-04-06-激荡三十年：银行数据库的发展与变迁](https://www.ershicimi.com/p/b2f85633011349058638e823214fa171) ![](assets/new.png)  
-- [2021-04-05-新疆牧民在家用北斗放牛，网友吐槽：BBC/CNN连夜赶稿《侵犯牛权》](https://www.ershicimi.com/p/700f9871a0505cda7b0e11fa5df32061) ![](assets/new.png)  
-- [2021-04-05-倒计时6天，“2021平板产业赋能教育装备创新峰会”即将开启](https://www.ershicimi.com/p/a4349a1d20d75337b13bfd2d8c445ff7) ![](assets/new.png)  
-- [2021-04-04-专为物联网而生的TinyML，正在开启音频分析的新蓝海【物女心经】](https://www.ershicimi.com/p/65577c72f00d8570cd76830a0130d011) ![](assets/new.png)  
-- [2021-04-04-关乎90%物联网应用是否能落地！未来物联网企业发展何去何从？](https://www.ershicimi.com/p/406f880ec6ce570ff797587f871cb622) ![](assets/new.png)  
-- [2021-04-03-工行/建行/农行/邮储/平安...当中国最“有财”的行业决心主动布局物联网](https://www.ershicimi.com/p/e82b122032f9cef661eff54eae85c109) ![](assets/new.png)  
-- [2021-04-03-【逛展】助力乡村振兴，智慧农业迎来百花齐放](https://www.ershicimi.com/p/50674b318a851897134bb1a576e2ca0e) ![](assets/new.png)  
-- [2021-04-02-70元10个ID，全国数万家庭摄像头遭入侵，按刺激程度标价，物联网安全如此不堪一击？](https://www.ershicimi.com/p/c237e44d64b47701faf7049503a55c9e) ![](assets/new.png)  
-- [2021-04-02-十四五规划明确5G普及率目标，模组/终端/运营商…如何落实产业应用？](https://www.ershicimi.com/p/4dc24620de12f7baf69c792fa2b42fd6) ![](assets/new.png)  
-- [2021-04-02-5G-2B一年感敢言](https://www.ershicimi.com/p/d7e65d518f5f3f0ee3d1af7bc7fb6d9f) ![](assets/new.png)  
-- [2021-04-01-年砸4000亿！智慧教育，到底有啥用？](https://www.ershicimi.com/p/1c7a05fc164af34987f8a11b16f5c9bf) ![](assets/new.png)  
-- [2021-04-01-重磅发布！这些集成电路企业免进口关税！](https://www.ershicimi.com/p/9a68a83e5b127260852f6fcf0ca8519a) ![](assets/new.png)  
-- [2021-03-31-营收8914亿！华为刚刚发布2020年财报：喜忧半掺，重压之下营收、利润双增长，但增速大幅放缓](https://www.ershicimi.com/p/127256bf14dc0526abcb542d98722e8d) ![](assets/new.png)  
-- [2021-03-31-2060年送你一片“绿水青山”，碳中和大目标下科技企业以身作则](https://www.ershicimi.com/p/cf60c61ba511a03a88d21f87fbb234fb) ![](assets/new.png)  
-- [2021-03-31-图解：5G毫米波峰值速率计算](https://www.ershicimi.com/p/76ccd78328e0878c0de750bee44792b1) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

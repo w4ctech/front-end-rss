@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-08 05:07:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-08 05:24:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -173,6 +173,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/)
 - [【张鑫旭-鑫空间-鑫生活】如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/)
+- [【开发者头条】数据搬运组件：基于-Sqoop-管理数据导入和导出](https://toutiao.io/k/w1c3b1j)
+- [【开发者头条】动手写一个简单的编译器：在-JavaScript-中使用-Swift-的尾闭包语法](https://toutiao.io/k/ox8m619)
 - [【安全热点】JavaScript-函数劫持攻击原理](https://sec.thief.one/article_content?a_id=3a41f21fbb86bbf3fb166ba30ed652d0)
 - [【安全热点】BUF大事件丨16美元就可以打包带走所有短信;宏碁回应遭网络攻击](https://sec.thief.one/article_content?a_id=06bb45d333a48097cd308ca955265db9)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -235,8 +237,6 @@
 - [【安全热点】【视频】|-工控安全:石油化工行业解决方案](https://sec.thief.one/article_content?a_id=66f671c44dc7b96d630397aa3183a105)
 - [【安全热点】红队训练营首期线上交流视频](https://sec.thief.one/article_content?a_id=ba8b478821aac8a18e8fbe39e48be37c)
 - [【安全热点】【视频】|-工控安全:市政行业工控网络安全解决方案](https://sec.thief.one/article_content?a_id=0bc681ab32a258d35c4bc3de6eda2c53)
-- [【物联网智库】专为物联网而生的TinyML，正在开启音频分析的新蓝海【物女心经】](https://www.ershicimi.com/p/65577c72f00d8570cd76830a0130d011)
-- [【物联网智库】70元10个ID，全国数万家庭摄像头遭入侵，按刺激程度标价，物联网安全如此不堪一击？](https://www.ershicimi.com/p/c237e44d64b47701faf7049503a55c9e)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -253,6 +253,7 @@
 
 
 
+- [【开发者头条】ClickHouse-性能优化？试试物化视图](https://toutiao.io/k/vdlcgd6)
 - [【安全热点】基于虚拟机的类加载机制实现热修复](https://sec.thief.one/article_content?a_id=c9e8198cd129e4f1993b3666c416dc75)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -272,6 +273,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/)
 - [【V2EX】Brave-浏览器可以直接打开-ipfs-协议](https://www.v2ex.com/t/768998)
+- [【开发者头条】工具-|-一款专为甲方安全人员、甲乙代码审计工程师和-0-Day-漏洞挖掘人员量身打造的辅助工具](https://toutiao.io/k/q1w09nr)
 - [【安全热点】【安全圈】环旭电子:3-月下旬子公司部分服务器感染-REvil-勒索全部...](https://sec.thief.one/article_content?a_id=7d46f2ac210fcb79f0aad93b7e08266f)
 - [【安全热点】FreeBuf群讨论:如何做好攻防演习前的安全隐患排查?](https://sec.thief.one/article_content?a_id=ad90b247f388393b8d590b33a70d2a3c)
 - [【安全热点】腾讯安全X上汽赤霄,明天13:30准时“发车”!](https://sec.thief.one/article_content?a_id=b11206f03afefd52577b23655e9169ed)
@@ -289,7 +291,6 @@
 - [【安全热点】看了Chrome收集的个人数据,我发现谷歌被控涉嫌垄断不亏](https://sec.thief.one/article_content?a_id=fc709489f89a2e515d3acfb85181b81f)
 - [【安全热点】安全的路很长,一路同行,共同进步](https://sec.thief.one/article_content?a_id=d83ff656cbc2f4b835d936a1d53407cc)
 - [【安全热点】欧盟理事会审议通过欧盟十年网络安全战略](https://sec.thief.one/article_content?a_id=b8dfd29d138ce54e35720fbd3ec6d8fb)
-- [【安全热点】在Z|南京证券、美柚高至42万/年诚招安全相关工程师](https://sec.thief.one/article_content?a_id=e57641b4620843c3cbd3648672da13fe)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -306,7 +307,7 @@
 
 
 
-- [【V2EX】分享一个大厂算法题库-CodeTop](https://www.v2ex.com/t/769028)
+- [【V2EX】分享一个大厂面试算法题库-CodeTop](https://www.v2ex.com/t/769028)
 - [【V2EX】一个入门电影推荐算法题，希望能给点思路和伪代码](https://www.v2ex.com/t/768995)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -324,7 +325,6 @@
 
 
 
-- [【V2EX】ingress-nginx-能不能从-path-动态选择-servicename](https://www.v2ex.com/t/768986)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -342,6 +342,9 @@
 
 
 - [【V2EX】请问-IDEA-插件有类似-vsCode-的-GitLent-类似，但是是操作-SVN-的吗？](https://www.v2ex.com/t/769015)
+- [【开发者头条】使用-Github-Actions-artifact-在-workflow-job-之间共享数据](https://toutiao.io/k/6sr93da)
+- [【开发者头条】推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0)
+- [【开发者头条】推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1)
 - [【安全热点】Github爆火!21岁理工男开源的十六进制编辑器爆赞](https://sec.thief.one/article_content?a_id=180db82f94c74b43e2688dc24227716e)
 - [【安全热点】这个让马斯克疯狂推荐的聊天软件,在Github上火了](https://sec.thief.one/article_content?a_id=c042f93bd773761d840136b23a121628)
 - [【安全热点】震惊了!每30秒学会一个Python小技巧,Github星数4600+](https://sec.thief.one/article_content?a_id=3e001c40e04b50ec2666ad40e6222c8a)
@@ -362,6 +365,10 @@
 
 
 - [【V2EX】现在面试都是要讲-hashMap-put-过程，-concurrentHashMap-put-过程吗？](https://www.v2ex.com/t/769027)
+- [【开发者头条】推荐-书单：互联网企业面试案头书之架构师篇](https://toutiao.io/k/mvtejua)
+- [【开发者头条】推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill)
+- [【开发者头条】推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o)
+- [【开发者头条】推荐-再见-Go-面试官：GMP-模型，为什么要有-P？](https://toutiao.io/k/2fe4jjq)
 - [【安全热点】牛聘|2021年度岗位招聘第6期](https://sec.thief.one/article_content?a_id=a13ad7f2403fddf64f9a2d4a101c912a)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -413,6 +420,12 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)
+- [【V2EX】大龄-C++求职历程](https://www.v2ex.com/t/769036)
+- [【V2EX】想做个科普号，主要分享自己感兴趣的东西](https://www.v2ex.com/t/769035)
+- [【V2EX】为什么听音乐可以改善人的心情？](https://www.v2ex.com/t/769034)
+- [【V2EX】IDEA-插件-Material-Theme-UI-正式-SaaS-化](https://www.v2ex.com/t/769033)
+- [【V2EX】过保的-mbp-还能去天才吧清灰吗？](https://www.v2ex.com/t/769032)
+- [【V2EX】想开个计算机读书会的群（一些经典➕实践](https://www.v2ex.com/t/769031)
 - [【V2EX】感觉现在想要维护自己的权益是真的难](https://www.v2ex.com/t/769030)
 - [【V2EX】五千左右的投影仪有推荐的吗](https://www.v2ex.com/t/769029)
 - [【V2EX】leetcode-1758](https://www.v2ex.com/t/769022)
@@ -423,12 +436,6 @@
 - [【V2EX】你会购买-Galaxy-S21-Ultra-吗？](https://www.v2ex.com/t/769010)
 - [【V2EX】Hackintool-支持了-M1？](https://www.v2ex.com/t/769009)
 - [【V2EX】过保-mbp，丢了一堆螺丝-天才吧能免费换上去吗](https://www.v2ex.com/t/769008)
-- [【V2EX】请教高手，-Android-对-JVM-生态圈的兼容极限在哪里？](https://www.v2ex.com/t/769005)
-- [【V2EX】工作第一年遇到的问题，以后也会常遇到](https://www.v2ex.com/t/769001)
-- [【V2EX】实习-offer-比较](https://www.v2ex.com/t/768997)
-- [【V2EX】Python-lambda：纯正的-λ-演算味儿](https://www.v2ex.com/t/768990)
-- [【V2EX】讨论下，什么情况才会引起数字货币大崩盘，以及对显卡市场的影响？](https://www.v2ex.com/t/768989)
-- [【V2EX】不知道最新的-Big-SUR-的侧边栏小工具-有没有多地天气和世界闹钟的](https://www.v2ex.com/t/768987)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

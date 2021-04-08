@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 13:24:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-08 13:40:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -16,8 +16,8 @@
 - [2021-03-30-Git-for-Windows-2.31.1-发布](https://www.ershicimi.com/p/7717c10235a062fa587e74b38e727252) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2021-04-08-关于-git-remote-add-upstream](https://www.v2ex.com/t/769211) 
 - [2021-04-08-使用-Github-Actions-artifact-在-workflow-job-之间共享数据](https://toutiao.io/k/6sr93da) 
-- [2021-04-08-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) 
 - [2021-04-08-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) 
 - [2021-04-08-Wifi万能钥匙已经OUT了!Github这个开源工具不要太好用](https://sec.thief.one/article_content?a_id=71b098ba57fe914f76a3a21ec07c79f5) 
 - [2021-04-07-Github爆火!21岁理工男开源的十六进制编辑器爆赞](https://sec.thief.one/article_content?a_id=180db82f94c74b43e2688dc24227716e) 

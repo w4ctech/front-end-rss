@@ -20053,6 +20053,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "使用 IntelliJ IDEA 运行 Spring Boot 应用，日志是有颜色。但是使用 docker 运行的话， docker container logs 没有颜色",
+        "link": "https://www.v2ex.com/t/769233",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "有什么好的异地组网工具？",
+        "link": "https://www.v2ex.com/t/769232",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "为啥这个帖子会重定向到 v 站首页？",
+        "link": "https://www.v2ex.com/t/769231",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "ixia 测试仪 Python 接口",
+        "link": "https://www.v2ex.com/t/769230",
+        "date": "2021-04-08"
+      },
+      {
         "title": "求助： Mac 系统升级后无法备份微信聊天记录",
         "link": "https://www.v2ex.com/t/769229",
         "date": "2021-04-08"
@@ -20225,26 +20245,6 @@
       {
         "title": "印象笔记剪藏后，代码的缩进格式会消失，怎么解决",
         "link": "https://www.v2ex.com/t/769184",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "群晖 映射到网络硬盘",
-        "link": "https://www.v2ex.com/t/769183",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "Apple watch 4 的电池坚持不了一天了，该怎么回血？",
-        "link": "https://www.v2ex.com/t/769182",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "所以，作为一个菜到不行的还有一年毕业的软工学生该何去何从",
-        "link": "https://www.v2ex.com/t/769181",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "安卓 App 没有上架国内手机厂家（华米 OV 等）应用市场，可以用手机厂家的消息推送吗？",
-        "link": "https://www.v2ex.com/t/769180",
         "date": "2021-04-08"
       }
     ]
@@ -20457,68 +20457,13 @@
         "date": "2021-04-08"
       },
       {
-        "title": "[推荐] Java 注解和注解解析器深耕，架构师必会",
-        "link": "https://toutiao.io/k/a2o7i52",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
-        "link": "https://toutiao.io/k/iyge3cy",
-        "date": "2021-04-08"
-      },
-      {
         "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
         "link": "https://toutiao.io/k/47wemjf",
         "date": "2021-04-08"
       },
       {
-        "title": "[推荐] 万字详解整个数据仓库建设体系",
-        "link": "https://toutiao.io/k/ny7vvdw",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] 值得拥有的手绘风格画图工具",
-        "link": "https://toutiao.io/k/ukg83qx",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] 书单：互联网企业面试案头书之架构师篇",
-        "link": "https://toutiao.io/k/mvtejua",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
-        "link": "https://toutiao.io/k/hti1ill",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] 21 张图详解网络基础知识",
-        "link": "https://toutiao.io/k/9uox6mg",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] 图文详解 Java 对象内存布局",
-        "link": "https://toutiao.io/k/romtfff",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] 这 30 个我精选的含答案的面试题，硬不硬你说吧",
-        "link": "https://toutiao.io/k/v9aar7o",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] GitHub 加速指南进阶版",
-        "link": "https://toutiao.io/k/ygnbct1",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] Go 应用优化指北",
-        "link": "https://toutiao.io/k/6jo6q1t",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
-        "link": "https://toutiao.io/k/sso4l2l",
+        "title": "[推荐] GitHub 太慢？9 种方案可提速",
+        "link": "https://toutiao.io/k/pufqjt0",
         "date": "2021-04-08"
       },
       {
@@ -20527,8 +20472,63 @@
         "date": "2021-04-08"
       },
       {
+        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
+        "link": "https://toutiao.io/k/sso4l2l",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] 高并发下如何保证接口的幂等性？",
+        "link": "https://toutiao.io/k/f0361xm",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] 值得拥有的手绘风格画图工具",
+        "link": "https://toutiao.io/k/ukg83qx",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] 21 张图详解网络基础知识",
+        "link": "https://toutiao.io/k/9uox6mg",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] 这 30 个我精选的含答案的面试题，硬不硬你说吧",
+        "link": "https://toutiao.io/k/v9aar7o",
+        "date": "2021-04-08"
+      },
+      {
         "title": "[推荐] 如何吃透一个 Java 项目？（附学习实践）",
         "link": "https://toutiao.io/k/cifpaoe",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
+        "link": "https://toutiao.io/k/hti1ill",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] Redis 分布式锁遇到的序列化问题",
+        "link": "https://toutiao.io/k/adg4qv6",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] Go 应用优化指北",
+        "link": "https://toutiao.io/k/6jo6q1t",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] Java 注解和注解解析器深耕，架构师必会",
+        "link": "https://toutiao.io/k/a2o7i52",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] 书单：互联网企业面试案头书之架构师篇",
+        "link": "https://toutiao.io/k/mvtejua",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] 图文详解 Java 对象内存布局",
+        "link": "https://toutiao.io/k/romtfff",
         "date": "2021-04-08"
       }
     ]

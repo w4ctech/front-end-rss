@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-08 08:24:30，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-08 08:39:44，:rocket: 更新条数: +151， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -474,6 +474,26 @@
 </summary>
 
 
+- [2021-04-08-上海-应届生进行一个工作的找](https://www.v2ex.com/t/769107) ![](assets/new.png)  
+- [2021-04-08-iOS-开发-有大佬了解-AI-姿态识别吗？](https://www.v2ex.com/t/769106) ![](assets/new.png)  
+- [2021-04-08-请教大家用-onedrive-都做些什么（自用）](https://www.v2ex.com/t/769105) ![](assets/new.png)  
+- [2021-04-08-真心求教，-it-转哪个行业比较好？](https://www.v2ex.com/t/769104) ![](assets/new.png)  
+- [2021-04-08-再过几年燃油车都禁售了，越野、远足怎么办？](https://www.v2ex.com/t/769103) ![](assets/new.png)  
+- [2021-04-08-古董电脑室](https://www.v2ex.com/t/769102) ![](assets/new.png)  
+- [2021-04-08-dedecms-导入数据库提示-dede_purview-错误](https://www.v2ex.com/t/769101) ![](assets/new.png)  
+- [2021-04-08-接上次卖突尼斯软籽石榴很受欢迎，这次云南沃柑熟透了，大理自家高原果园现摘现发顺丰包邮，程序员转行卖水果，腰不疼背不酸就连头发也不掉了](https://www.v2ex.com/t/769100) ![](assets/new.png)  
+- [2021-04-08-进击的巨人最终话出了，站内有追的吗？讨论一下](https://www.v2ex.com/t/769099) ![](assets/new.png)  
+- [2021-04-08-就想吐槽一下](https://www.v2ex.com/t/769098) ![](assets/new.png)  
+- [2021-04-08-求助-ks.cfg-个脚本的事](https://www.v2ex.com/t/769097) ![](assets/new.png)  
+- [2021-04-08-兄弟们-服务器如何实现播放音频、视频等多媒体文件资源](https://www.v2ex.com/t/769095) ![](assets/new.png)  
+- [2021-04-08-看完这块代码,我久久不能平静](https://www.v2ex.com/t/769094) ![](assets/new.png)  
+- [2021-04-08-Project-的甘特图-有什么在线共享查看的方案嘛](https://www.v2ex.com/t/769093) ![](assets/new.png)  
+- [2021-04-08-北京20-40k百度内推-PHP-工程师](https://www.v2ex.com/t/769092) ![](assets/new.png)  
+- [2021-04-08-准研究生请教下大家职业规划](https://www.v2ex.com/t/769091) ![](assets/new.png)  
+- [2021-04-08-求职/远程工作-后端开发寻找远程小团队远程](https://www.v2ex.com/t/769090) ![](assets/new.png)  
+- [2021-04-08-北京（可远程）-鱼池-F2Pool，全球领先的数字货币矿池，国际化的团队成员。招募全栈-/-后端-/-产品-/运维/-UX-/-前端-/-测试。](https://www.v2ex.com/t/769088) ![](assets/new.png)  
+- [2021-04-08-25-岁，到底应不应该要有存款？](https://www.v2ex.com/t/769087) ![](assets/new.png)  
+- [2021-04-08-上海bilibili-漫画移动组招人，-Flutter-开发有人要了！](https://www.v2ex.com/t/769086) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

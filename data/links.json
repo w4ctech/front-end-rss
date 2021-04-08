@@ -288,6 +288,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "你们好运魄罗每天刷阴间任务吗？",
+        "link": "https://www.v2ex.com/t/769266",
+        "date": "2021-04-08"
+      },
+      {
         "title": "家中路由器 openwrt 只接 lan 口用， ping 不通域名无法自动安装 opkg，编辑/etc/resolv.conf 把 nameserver 指定为局域网网关可解（默认配置是 127.0.0.1），但...",
         "link": "https://www.v2ex.com/t/769264",
         "date": "2021-04-08"
@@ -485,16 +490,6 @@
       {
         "title": "spark 大数据离线分析 爬虫存到 csv 有的列是长度不固定的 list 请问应该怎么存到 hive？直接存 list 吗？该怎么分析呢？",
         "link": "https://www.v2ex.com/t/769217",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "表弟想买免税车，需要北京公司的工作证明，请问有什么合法地获取途径吗？",
-        "link": "https://www.v2ex.com/t/769216",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "墙内收取 Android FCM 推送的正确方式",
-        "link": "https://www.v2ex.com/t/769215",
         "date": "2021-04-08"
       }
     ]

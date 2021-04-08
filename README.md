@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-08 22:39:08，:rocket: 更新条数: +155， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-08 22:53:18，:rocket: 更新条数: +154， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -474,6 +474,7 @@
 </summary>
 
 
+- [2021-04-08-你们好运魄罗每天刷阴间任务吗？](https://www.v2ex.com/t/769266) ![](assets/new.png)  
 - [2021-04-08-家中路由器-openwrt-只接-lan-口用，-ping-不通域名无法自动安装-opkg，编辑/etc/resolv.conf-把-nameserver-指定为局域网网关可解（默认配置是-127.0.0.1），但...](https://www.v2ex.com/t/769264) ![](assets/new.png)  
 - [2021-04-08-如何禁止应用随意创建目录并存储缓存文件](https://www.v2ex.com/t/769263) ![](assets/new.png)  
 - [2021-04-08-请教-在-Windows-PE-的环境下追加具有管理员权限的用户](https://www.v2ex.com/t/769262) ![](assets/new.png)  
@@ -493,7 +494,6 @@
 - [2021-04-08-上海/杭州/北京/武汉社招/校招/实习四月冲鸭抖音电商后端开发工程师](https://www.v2ex.com/t/769245) ![](assets/new.png)  
 - [2021-04-08-深圳腾讯音乐-2021-年暑期实习生内推！可跟踪流程进度。](https://www.v2ex.com/t/769244) ![](assets/new.png)  
 - [2021-04-08-请教-ubuntu-怎么返回成正常桌面](https://www.v2ex.com/t/769243) ![](assets/new.png)  
-- [2021-04-08-v-model-在-input-type="radio"中是如何进行分组的？](https://www.v2ex.com/t/769242) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

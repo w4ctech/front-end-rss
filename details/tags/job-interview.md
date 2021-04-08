@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 08:39:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-08 08:53:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,5 +7,6 @@
 
 
 
+- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-04-08-招聘-医学影像-AI-产品-前端开发工程师&-Python-开发工程师](https://www.v2ex.com/t/769071) 
 - [2021-04-05-牛聘|2021年度岗位招聘第6期](https://sec.thief.one/article_content?a_id=a13ad7f2403fddf64f9a2d4a101c912a) 

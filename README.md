@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-08 08:39:44，:rocket: 更新条数: +151， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-08 08:53:43，:rocket: 更新条数: +3637， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-04-08-4月7日全国新增新冠24例-本土11例均在云南瑞丽](https://m.caixin.com/m/2021-04-08/101687102.html) ![](assets/new.png)  
+- [2021-04-08-疫情防控严重失职失责-瑞丽书记龚云尊被撤职](http://m.china.caixin.com/m/2021-04-08/101687105.html) ![](assets/new.png)  
+- [2021-04-08-云南瑞丽4月7日新增新冠确诊病例11例-无症状感染者1例](https://m.caixin.com/m/2021-04-08/101687061.html) ![](assets/new.png)  
+- [2021-04-08-【境内疫情观察】云南新增11例本土病例（4月7日）](http://m.database.caixin.com/m/2021-04-08/101687280.html) ![](assets/new.png)  
+- [2021-04-08-研究证新冠患者易得精神和神经疾病-南非变异病毒威胁巴西｜大流行手记（4月7日）](https://m.caixin.com/m/2021-04-08/101687084.html) ![](assets/new.png)  
+- [2021-04-07-最新海外疫情：新冠感染超1.32亿-累计死亡超286万](https://m.caixin.com/m/2021-04-07/101686869.html) ![](assets/new.png)  
+- [2021-04-07-云南瑞丽4月6日新增新冠2例-现有确诊病例68例](https://m.caixin.com/m/2021-04-07/101686377.html) ![](assets/new.png)  
+- [2021-04-07-【境内疫情观察】云南瑞丽近8日累计确诊65例（4月6日）](http://m.database.caixin.com/m/2021-04-07/101686703.html) ![](assets/new.png)  
+- [2021-04-07-阿斯利康疫苗被指与脑血栓有联系-加拿大遭第三波疫情冲击｜大流行手记（4月6日）](https://m.caixin.com/m/2021-04-07/101686371.html) ![](assets/new.png)  
+- [2021-04-06-云南瑞丽4月5日新增新冠确诊病例15例-无症状感染者2例](https://m.caixin.com/m/2021-04-06/101685875.html) ![](assets/new.png)  
+- [2021-04-06-【境内疫情观察】云南瑞丽新增3处高风险地区（4月5日）](http://m.database.caixin.com/m/2021-04-06/101686077.html) ![](assets/new.png)  
+- [2021-04-06-英国推每人每周两次新冠快检-大阪取消奥运火炬传递｜大流行手记（4月5日）](https://m.caixin.com/m/2021-04-06/101685932.html) ![](assets/new.png)  
+- [2021-04-05-云南瑞丽4月4日新增新冠确诊病例15例-无症状感染者5例](https://m.caixin.com/m/2021-04-05/101685796.html) ![](assets/new.png)  
+- [2021-04-05-【境内疫情观察】云南瑞丽新增15例本土病例（4月4日）](http://m.database.caixin.com/m/2021-04-05/101685814.html) ![](assets/new.png)  
+- [2021-04-05-多地试行公共活动疫苗护照-印度新冠疫情急速恶化｜大流行手记（4月4日）](https://m.caixin.com/m/2021-04-05/101685810.html) ![](assets/new.png)  
+- [2021-04-04-【境内疫情观察】云南新增10例本土病例和1例无症状感染者（4月3日）](http://m.database.caixin.com/m/2021-04-04/101685756.html) ![](assets/new.png)  
+- [2021-04-04-阿根廷总统接种后感染新冠-国药疫苗获欧盟GMP认证｜大流行手记（4月3日）](https://m.caixin.com/m/2021-04-04/101685736.html) ![](assets/new.png)  
+- [2021-04-03-4月2日云南新增本土确诊7例-无症状感染者5例](https://m.caixin.com/m/2021-04-03/101685501.html) ![](assets/new.png)  
+- [2021-04-03-【境内疫情观察】云南瑞丽新增7例本土病例（4月2日）](http://m.database.caixin.com/m/2021-04-03/101685623.html) ![](assets/new.png)  
+- [2021-04-03-德国允许混打疫苗-科兴称新冠疫苗年产能将达20亿剂丨大流行手记（4月2日）](https://m.caixin.com/m/2021-04-03/101685491.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -474,6 +494,10 @@
 </summary>
 
 
+- [2021-04-08-业务沉淀和业务经验都是怎么积累的](https://www.v2ex.com/t/769112) ![](assets/new.png)  
+- [2021-04-08-求推荐投影仪-家里看电影-电视用](https://www.v2ex.com/t/769111) ![](assets/new.png)  
+- [2021-04-08-telegram-如何查找广告临时会话的发起来源？](https://www.v2ex.com/t/769109) ![](assets/new.png)  
+- [2021-04-08-迫于工作时间无聊，有没有靠谱的副业，求推荐](https://www.v2ex.com/t/769108) ![](assets/new.png)  
 - [2021-04-08-上海-应届生进行一个工作的找](https://www.v2ex.com/t/769107) ![](assets/new.png)  
 - [2021-04-08-iOS-开发-有大佬了解-AI-姿态识别吗？](https://www.v2ex.com/t/769106) ![](assets/new.png)  
 - [2021-04-08-请教大家用-onedrive-都做些什么（自用）](https://www.v2ex.com/t/769105) ![](assets/new.png)  
@@ -490,10 +514,6 @@
 - [2021-04-08-Project-的甘特图-有什么在线共享查看的方案嘛](https://www.v2ex.com/t/769093) ![](assets/new.png)  
 - [2021-04-08-北京20-40k百度内推-PHP-工程师](https://www.v2ex.com/t/769092) ![](assets/new.png)  
 - [2021-04-08-准研究生请教下大家职业规划](https://www.v2ex.com/t/769091) ![](assets/new.png)  
-- [2021-04-08-求职/远程工作-后端开发寻找远程小团队远程](https://www.v2ex.com/t/769090) ![](assets/new.png)  
-- [2021-04-08-北京（可远程）-鱼池-F2Pool，全球领先的数字货币矿池，国际化的团队成员。招募全栈-/-后端-/-产品-/运维/-UX-/-前端-/-测试。](https://www.v2ex.com/t/769088) ![](assets/new.png)  
-- [2021-04-08-25-岁，到底应不应该要有存款？](https://www.v2ex.com/t/769087) ![](assets/new.png)  
-- [2021-04-08-上海bilibili-漫画移动组招人，-Flutter-开发有人要了！](https://www.v2ex.com/t/769086) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-08 14:37:31，:rocket: 更新条数: +4174， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-08 14:50:22，:rocket: 更新条数: +4172， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,8 +96,6 @@
 </summary>
 
 
-- [2021-04-08-全国｜新增-24-例确诊病例-11-例来自本土](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmqL4Cn4PGi3aLKPSJ7L210408&isfromapp=1) ![](assets/new.png)  
-- [2021-04-08-云南｜新增-11-例确诊病例](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU161784199066767519) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -956,9 +954,10 @@
 </summary>
 
 
+- [2021-04-08-被小组长抢功怎么办](https://www.v2ex.com/t/769235) ![](assets/new.png)  
+- [2021-04-08-chrome-打开新网页时不要覆盖](https://www.v2ex.com/t/769234) ![](assets/new.png)  
 - [2021-04-08-使用-IntelliJ-IDEA-运行-Spring-Boot-应用，日志是有颜色。但是使用-docker-运行的话，-docker-container-logs-没有颜色](https://www.v2ex.com/t/769233) ![](assets/new.png)  
 - [2021-04-08-有什么好的异地组网工具？](https://www.v2ex.com/t/769232) ![](assets/new.png)  
-- [2021-04-08-为啥这个帖子会重定向到-v-站首页？](https://www.v2ex.com/t/769231) ![](assets/new.png)  
 - [2021-04-08-ixia-测试仪-Python-接口](https://www.v2ex.com/t/769230) ![](assets/new.png)  
 - [2021-04-08-求助：-Mac-系统升级后无法备份微信聊天记录](https://www.v2ex.com/t/769229) ![](assets/new.png)  
 - [2021-04-08-我的插件也上架-idea-了](https://www.v2ex.com/t/769228) ![](assets/new.png)  
@@ -975,7 +974,6 @@
 - [2021-04-08-表弟想买免税车，需要北京公司的工作证明，请问有什么合法地获取途径吗？](https://www.v2ex.com/t/769216) ![](assets/new.png)  
 - [2021-04-08-墙内收取-Android-FCM-推送的正确方式](https://www.v2ex.com/t/769215) ![](assets/new.png)  
 - [2021-04-08-为什么子网掩码会影响网速?](https://www.v2ex.com/t/769213) ![](assets/new.png)  
-- [2021-04-08-关于-git-remote-add-upstream](https://www.v2ex.com/t/769211) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,7 +1035,7 @@
 - [2021-04-08-译-使用-Jetpack-App-Startup-库减少应用启动时间](https://toutiao.io/k/9g705u5) ![](assets/new.png)  
 - [2021-04-08-运维小姐姐说这篇-Consul-集群和-ACL-配置超给力（保姆级）](https://toutiao.io/k/i08zfwv) ![](assets/new.png)  
 - [2021-04-08-喜大普奔，又一国标正式进入国际标准](https://toutiao.io/k/aeskj2g) ![](assets/new.png)  
-- [2021-04-08-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-08-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

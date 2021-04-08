@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-08 15:24:10，:rocket: 更新条数: +685， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-08 15:39:36，:rocket: 更新条数: +687， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -76,6 +76,8 @@
 </summary>
 
 
+- [2021-04-08-全国｜新增-24-例确诊病例-11-例来自本土](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmqL4Cn4PGi3aLKPSJ7L210408&isfromapp=1) ![](assets/new.png)  
+- [2021-04-08-云南｜新增-11-例确诊病例](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU161784199066767519) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -934,6 +936,9 @@
 </summary>
 
 
+- [2021-04-08-上海/杭州/北京/武汉社招/校招/实习四月冲鸭抖音电商后端开发工程师](https://www.v2ex.com/t/769245) ![](assets/new.png)  
+- [2021-04-08-深圳腾讯音乐-2021-年暑期实习生内推！可跟踪流程进度。](https://www.v2ex.com/t/769244) ![](assets/new.png)  
+- [2021-04-08-请教-ubuntu-怎么返回成正常桌面](https://www.v2ex.com/t/769243) ![](assets/new.png)  
 - [2021-04-08-v-model-在-input-type="radio"中是如何进行分组的？](https://www.v2ex.com/t/769242) ![](assets/new.png)  
 - [2021-04-08-.NET-Core-开发还有前景吗，要不要及时换语言](https://www.v2ex.com/t/769241) ![](assets/new.png)  
 - [2021-04-08-北京/远程-星阑科技招聘-大数据研发/渗透测试/安全研究](https://www.v2ex.com/t/769240) ![](assets/new.png)  
@@ -951,9 +956,6 @@
 - [2021-04-08-为什么-Binder-驱动需要在内核空间开辟两个缓存区？](https://www.v2ex.com/t/769224) ![](assets/new.png)  
 - [2021-04-08-mac-系统下-google-chrome-在书签栏打开新网页的同时新建一个标签页打开](https://www.v2ex.com/t/769223) ![](assets/new.png)  
 - [2021-04-08-「重拾-DIY-的快乐」便携显示器制作和小米-6-换电池图文分享](https://www.v2ex.com/t/769221) ![](assets/new.png)  
-- [2021-04-08-养老保险基数又涨了？](https://www.v2ex.com/t/769220) ![](assets/new.png)  
-- [2021-04-08-无聊了，问个统计性问题](https://www.v2ex.com/t/769219) ![](assets/new.png)  
-- [2021-04-08-明天要官宣分区了](https://www.v2ex.com/t/769218) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1015,7 +1017,7 @@
 - [2021-04-08-运维小姐姐说这篇-Consul-集群和-ACL-配置超给力（保姆级）](https://toutiao.io/k/i08zfwv) ![](assets/new.png)  
 - [2021-04-08-译-使用-Jetpack-App-Startup-库减少应用启动时间](https://toutiao.io/k/9g705u5) ![](assets/new.png)  
 - [2021-04-08-喜大普奔，又一国标正式进入国际标准](https://toutiao.io/k/aeskj2g) ![](assets/new.png)  
-- [2021-04-08-推荐-Java-注解和注解解析器深耕，架构师必会](https://toutiao.io/k/a2o7i52) ![](assets/new.png)  
+- [2021-04-08-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

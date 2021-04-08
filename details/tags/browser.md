@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 19:49:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-08 20:03:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -12,7 +12,6 @@
 - [2021-04-08-北京/远程-星阑科技招聘-大数据研发/渗透测试/安全研究](https://www.v2ex.com/t/769240) 
 - [2021-04-08-chrome-打开新网页时不要覆盖](https://www.v2ex.com/t/769234) 
 - [2021-04-08-mac-系统下-google-chrome-在书签栏打开新网页的同时新建一个标签页打开](https://www.v2ex.com/t/769223) 
-- [2021-04-08-工具-|-一款专为甲方安全人员、甲乙代码审计工程师和-0-Day-漏洞挖掘人员量身打造的辅助工具](https://toutiao.io/k/q1w09nr) 
 - [2021-04-08-【安全头条】暗网新闻站点DeepDotWeb运营商认罪,-洗钱指控属实](https://sec.thief.one/article_content?a_id=f1fac7b23f700d599f7b57086f017882) 
 - [2021-04-08-信息安全漏洞月报2021年3月](https://sec.thief.one/article_content?a_id=a4b1b20e99eaf26b13f435b588e26b99) 
 - [2021-04-08-美国地产巨头Caruso-Properties接受用比特币支付租金,且分配资产1...](https://sec.thief.one/article_content?a_id=868652eb41fa45e06ae26ddc4c1b4a61) 

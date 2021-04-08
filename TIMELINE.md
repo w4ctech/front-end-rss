@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 23:39:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-04-08 23:52:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -33,6 +33,7 @@
 
 
 - [【阮一峰的网络日志】2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) 
+- [【V2EX】2021-04-08-菜鸟-or-蚂蚁-offer-选择题](https://www.v2ex.com/t/769267) 
 - [【V2EX】2021-04-08-你们好运魄罗每天刷阴间任务吗？](https://www.v2ex.com/t/769266) 
 - [【V2EX】2021-04-08-家中路由器-openwrt-只接-lan-口用，-ping-不通域名无法自动安装-opkg，编辑/etc/resolv.conf-把-nameserver-指定为局域网网关可解（默认配置是-127.0.0.1），但...](https://www.v2ex.com/t/769264) 
 - [【V2EX】2021-04-08-如何禁止应用随意创建目录并存储缓存文件](https://www.v2ex.com/t/769263) 
@@ -73,7 +74,6 @@
 - [【V2EX】2021-04-08-养老保险基数又涨了？](https://www.v2ex.com/t/769220) 
 - [【V2EX】2021-04-08-无聊了，问个统计性问题](https://www.v2ex.com/t/769219) 
 - [【V2EX】2021-04-08-明天要官宣分区了](https://www.v2ex.com/t/769218) 
-- [【V2EX】2021-04-08-spark-大数据离线分析-爬虫存到-csv-有的列是长度不固定的-list-请问应该怎么存到-hive？直接存-list-吗？该怎么分析呢？](https://www.v2ex.com/t/769217) 
 - [【安全热点】2021-04-08-诺基亚8.1、2.3-可以更新-Android-11-了!](https://sec.thief.one/article_content?a_id=f2cf6b27a18d5f17dd5d674b8db10007) 
 - [【安全热点】2021-04-08-【漏洞通告】Jellyfin任意文件读取](https://sec.thief.one/article_content?a_id=91bba1e130bb8e67cebfe34380c8ed6d) 
 - [【安全热点】2021-04-08-【安全头条】暗网新闻站点DeepDotWeb运营商认罪,-洗钱指控属实](https://sec.thief.one/article_content?a_id=f1fac7b23f700d599f7b57086f017882) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 23:39:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-08 23:52:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -9,6 +9,7 @@
 - [2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) 
 - [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) 
 - [2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) 
+- [2021-04-08-菜鸟-or-蚂蚁-offer-选择题](https://www.v2ex.com/t/769267) 
 - [2021-04-08-你们好运魄罗每天刷阴间任务吗？](https://www.v2ex.com/t/769266) 
 - [2021-04-08-请教-在-Windows-PE-的环境下追加具有管理员权限的用户](https://www.v2ex.com/t/769262) 
 - [2021-04-08-被空降的-leader-拍桌子、指着鼻子骂，如何摆正心态？](https://www.v2ex.com/t/769259) 
@@ -38,7 +39,6 @@
 - [2021-04-08-养老保险基数又涨了？](https://www.v2ex.com/t/769220) 
 - [2021-04-08-无聊了，问个统计性问题](https://www.v2ex.com/t/769219) 
 - [2021-04-08-明天要官宣分区了](https://www.v2ex.com/t/769218) 
-- [2021-04-08-spark-大数据离线分析-爬虫存到-csv-有的列是长度不固定的-list-请问应该怎么存到-hive？直接存-list-吗？该怎么分析呢？](https://www.v2ex.com/t/769217) 
 - [2021-04-08-诺基亚8.1、2.3-可以更新-Android-11-了!](https://sec.thief.one/article_content?a_id=f2cf6b27a18d5f17dd5d674b8db10007) 
 - [2021-04-08-【漏洞通告】Jellyfin任意文件读取](https://sec.thief.one/article_content?a_id=91bba1e130bb8e67cebfe34380c8ed6d) 
 - [2021-04-08-零基础学渗透测试丨7天掌握Vmware和Linux!](https://sec.thief.one/article_content?a_id=b07140f133cd1c3b604be4084f25dd60) 

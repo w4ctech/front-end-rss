@@ -288,6 +288,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "菜鸟 or 蚂蚁 offer 选择题",
+        "link": "https://www.v2ex.com/t/769267",
+        "date": "2021-04-08"
+      },
+      {
         "title": "你们好运魄罗每天刷阴间任务吗？",
         "link": "https://www.v2ex.com/t/769266",
         "date": "2021-04-08"
@@ -485,11 +490,6 @@
       {
         "title": "明天要官宣分区了",
         "link": "https://www.v2ex.com/t/769218",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "spark 大数据离线分析 爬虫存到 csv 有的列是长度不固定的 list 请问应该怎么存到 hive？直接存 list 吗？该怎么分析呢？",
-        "link": "https://www.v2ex.com/t/769217",
         "date": "2021-04-08"
       }
     ]

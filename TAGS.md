@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-08 23:39:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-08 23:52:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -410,6 +410,7 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)
+- [【V2EX】菜鸟-or-蚂蚁-offer-选择题](https://www.v2ex.com/t/769267)
 - [【V2EX】你们好运魄罗每天刷阴间任务吗？](https://www.v2ex.com/t/769266)
 - [【V2EX】请教-在-Windows-PE-的环境下追加具有管理员权限的用户](https://www.v2ex.com/t/769262)
 - [【V2EX】被空降的-leader-拍桌子、指着鼻子骂，如何摆正心态？](https://www.v2ex.com/t/769259)
@@ -425,7 +426,6 @@
 - [【V2EX】上海/杭州/北京/武汉社招/校招/实习四月冲鸭抖音电商后端开发工程师](https://www.v2ex.com/t/769245)
 - [【V2EX】深圳腾讯音乐-2021-年暑期实习生内推！可跟踪流程进度。](https://www.v2ex.com/t/769244)
 - [【V2EX】请教-ubuntu-怎么返回成正常桌面](https://www.v2ex.com/t/769243)
-- [【V2EX】v-model-在-input-type="radio"中是如何进行分组的？](https://www.v2ex.com/t/769242)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

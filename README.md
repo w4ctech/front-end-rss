@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-08 11:49:26，:rocket: 更新条数: +3641， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-08 12:03:31，:rocket: 更新条数: +228， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -25,7 +25,7 @@
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
-- [前端开发博客](#前端开发博客)  
+- [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
@@ -53,9 +53,9 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)  
+- [物联网智库](#物联网智库)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-04-08-最新疫情：全国新冠累计确诊90365例-累计接种新冠疫苗超1.49亿剂次](https://m.caixin.com/m/2021-04-08/101687484.html) ![](assets/new.png)  
-- [2021-04-08-疫情防控严重失职失责-瑞丽书记龚云尊被撤职](http://m.china.caixin.com/m/2021-04-08/101687105.html) ![](assets/new.png)  
-- [2021-04-08-云南瑞丽4月7日新增新冠确诊病例11例-无症状感染者1例](https://m.caixin.com/m/2021-04-08/101687061.html) ![](assets/new.png)  
-- [2021-04-08-最新海外疫情：新冠感染超1.33亿-累计死亡超288万](https://m.caixin.com/m/2021-04-08/101687487.html) ![](assets/new.png)  
-- [2021-04-08-【境内疫情观察】云南新增11例本土病例（4月7日）](http://m.database.caixin.com/m/2021-04-08/101687280.html) ![](assets/new.png)  
-- [2021-04-08-研究证新冠患者易得精神和神经疾病-南非变异病毒威胁巴西｜大流行手记（4月7日）](https://m.caixin.com/m/2021-04-08/101687084.html) ![](assets/new.png)  
-- [2021-04-07-云南瑞丽4月6日新增新冠2例-现有确诊病例68例](https://m.caixin.com/m/2021-04-07/101686377.html) ![](assets/new.png)  
-- [2021-04-07-【境内疫情观察】云南瑞丽近8日累计确诊65例（4月6日）](http://m.database.caixin.com/m/2021-04-07/101686703.html) ![](assets/new.png)  
-- [2021-04-07-阿斯利康疫苗被指与脑血栓有联系-加拿大遭第三波疫情冲击｜大流行手记（4月6日）](https://m.caixin.com/m/2021-04-07/101686371.html) ![](assets/new.png)  
-- [2021-04-06-云南瑞丽4月5日新增新冠确诊病例15例-无症状感染者2例](https://m.caixin.com/m/2021-04-06/101685875.html) ![](assets/new.png)  
-- [2021-04-06-【境内疫情观察】云南瑞丽新增3处高风险地区（4月5日）](http://m.database.caixin.com/m/2021-04-06/101686077.html) ![](assets/new.png)  
-- [2021-04-06-英国推每人每周两次新冠快检-大阪取消奥运火炬传递｜大流行手记（4月5日）](https://m.caixin.com/m/2021-04-06/101685932.html) ![](assets/new.png)  
-- [2021-04-05-云南瑞丽4月4日新增新冠确诊病例15例-无症状感染者5例](https://m.caixin.com/m/2021-04-05/101685796.html) ![](assets/new.png)  
-- [2021-04-05-【境内疫情观察】云南瑞丽新增15例本土病例（4月4日）](http://m.database.caixin.com/m/2021-04-05/101685814.html) ![](assets/new.png)  
-- [2021-04-05-多地试行公共活动疫苗护照-印度新冠疫情急速恶化｜大流行手记（4月4日）](https://m.caixin.com/m/2021-04-05/101685810.html) ![](assets/new.png)  
-- [2021-04-04-【境内疫情观察】云南新增10例本土病例和1例无症状感染者（4月3日）](http://m.database.caixin.com/m/2021-04-04/101685756.html) ![](assets/new.png)  
-- [2021-04-04-阿根廷总统接种后感染新冠-国药疫苗获欧盟GMP认证｜大流行手记（4月3日）](https://m.caixin.com/m/2021-04-04/101685736.html) ![](assets/new.png)  
-- [2021-04-03-4月2日云南新增本土确诊7例-无症状感染者5例](https://m.caixin.com/m/2021-04-03/101685501.html) ![](assets/new.png)  
-- [2021-04-03-【境内疫情观察】云南瑞丽新增7例本土病例（4月2日）](http://m.database.caixin.com/m/2021-04-03/101685623.html) ![](assets/new.png)  
-- [2021-04-03-德国允许混打疫苗-科兴称新冠疫苗年产能将达20亿剂丨大流行手记（4月2日）](https://m.caixin.com/m/2021-04-03/101685491.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -195,6 +175,26 @@
 </summary>
 
 
+- [2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) ![](assets/new.png)  
+- [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) ![](assets/new.png)  
+- [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) ![](assets/new.png)  
+- [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) ![](assets/new.png)  
+- [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) ![](assets/new.png)  
+- [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) ![](assets/new.png)  
+- [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) ![](assets/new.png)  
+- [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) ![](assets/new.png)  
+- [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) ![](assets/new.png)  
+- [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) ![](assets/new.png)  
+- [2020-02-13-工具控hoist-non-react-statics-你没用过吧](https://www.ershicimi.com/p/bb1161f2239a80f5e1b16357546ee040) ![](assets/new.png)  
+- [2020-02-12-工具控-react-优化里面用到-lodash.memoize](https://www.ershicimi.com/p/8030f9ceac2221818a92f0a24cede590) ![](assets/new.png)  
+- [2020-02-11-工具控babel-react-optimize](https://www.ershicimi.com/p/87be70d3d4719eedb42df24f6303ca69) ![](assets/new.png)  
+- [2020-02-07-工具控来看看代码高亮必备](https://www.ershicimi.com/p/56debedff7f9d3c357f3621de7a64aa2) ![](assets/new.png)  
+- [2020-02-06-阿里-ice.work-探秘系列-react-materials-之Label](https://www.ershicimi.com/p/41048b591220c58f73c8e9945b1514c1) ![](assets/new.png)  
+- [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) ![](assets/new.png)  
+- [2020-02-04-阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497) ![](assets/new.png)  
+- [2020-02-03-阿里-ice.work-探秘系列-disabled-reload](https://www.ershicimi.com/p/51eed11abceaabb3dd7f2ceed864d182) ![](assets/new.png)  
+- [2020-01-16-阿里-ice.work-探秘系列-withRouter-的使用](https://www.ershicimi.com/p/29c023dd30374ab258ceef6aeaddb1e2) ![](assets/new.png)  
+- [2020-01-15-阿里-ice.work-探秘系列-useState、useEffect](https://www.ershicimi.com/p/23159dcf23f0f8f92efd0a91c7a316f2) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发博客.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-04-08-印象笔记剪藏后，代码的缩进格式会消失，怎么解决](https://www.v2ex.com/t/769184) ![](assets/new.png)  
+- [2021-04-08-群晖-映射到网络硬盘](https://www.v2ex.com/t/769183) ![](assets/new.png)  
+- [2021-04-08-Apple-watch-4-的电池坚持不了一天了，该怎么回血？](https://www.v2ex.com/t/769182) ![](assets/new.png)  
+- [2021-04-08-安卓-App-没有上架国内手机厂家（华米-OV-等）应用市场，可以用手机厂家的消息推送吗？](https://www.v2ex.com/t/769180) ![](assets/new.png)  
 - [2021-04-08-dom-解析与-css-解析是在两个不同的线程里吗？](https://www.v2ex.com/t/769179) ![](assets/new.png)  
 - [2021-04-08-FinTech-社区-百万招聘：量化开发工程师-C++/-Java-/-Scala/Rust，无-996](https://www.v2ex.com/t/769178) ![](assets/new.png)  
 - [2021-04-08-百度智能办公部门内推深圳](https://www.v2ex.com/t/769177) ![](assets/new.png)  
@@ -504,16 +508,12 @@
 - [2021-04-08-北京/深圳-快手支付中台招人了，有需要的小伙伴看过来](https://www.v2ex.com/t/769172) ![](assets/new.png)  
 - [2021-04-08-阿里巴巴国际站-招聘贴-实习/校招/社招都可以](https://www.v2ex.com/t/769170) ![](assets/new.png)  
 - [2021-04-08-求问大家暑期实习-offer-选择的问题](https://www.v2ex.com/t/769169) ![](assets/new.png)  
-- [2021-04-08-找大佬定制个软件，能接的大佬联系我哟！](https://www.v2ex.com/t/769167) ![](assets/new.png)  
 - [2021-04-08-有没有平台提供免费的软件？](https://www.v2ex.com/t/769166) ![](assets/new.png)  
 - [2021-04-08-路由器，-openwrt，-usb-3.0，插硬盘做-NAS，请问路由器上安装哪个文件服务程序比较好？以及电流是否够用？](https://www.v2ex.com/t/769164) ![](assets/new.png)  
 - [2021-04-08-微信降级问题](https://www.v2ex.com/t/769163) ![](assets/new.png)  
 - [2021-04-08-怀念-星际-1-的时代](https://www.v2ex.com/t/769162) ![](assets/new.png)  
 - [2021-04-08-非科班-一年.net-转-Java-学了-3-个月-简历怎么写比较好-期望薪资多少合适](https://www.v2ex.com/t/769161) ![](assets/new.png)  
 - [2021-04-08-为什么你们要把-sql-当-nosql-用？](https://www.v2ex.com/t/769160) ![](assets/new.png)  
-- [2021-04-08-求推荐一些独立成篇的-FM-上的小故事，坐飞机时飞行模式的手机听来打发时间用的。](https://www.v2ex.com/t/769159) ![](assets/new.png)  
-- [2021-04-08-请教诸位-sql-的问题，关于实现多个字符模糊匹配，最终结果按自定义的字符分类汇总](https://www.v2ex.com/t/769158) ![](assets/new.png)  
-- [2021-04-08-如何实现-“开机-10-分钟后，定时删除某文件夹，除非手动停止本次开机的计划任务。”](https://www.v2ex.com/t/769157) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -536,6 +536,26 @@
 </summary>
 
 
+- [2021-04-08-我放弃上海的高薪，选择回老家了](https://toutiao.io/k/qkjbzpr) ![](assets/new.png)  
+- [2021-04-08-JVM-合集之开篇点题](https://toutiao.io/k/11ajx2d) ![](assets/new.png)  
+- [2021-04-08-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-08-数据仓库分层存储技术揭秘](https://toutiao.io/k/42qs27i) ![](assets/new.png)  
+- [2021-04-08-除了甘特图，你还应该了解些什么软件项目管理知识](https://toutiao.io/k/0hklbup) ![](assets/new.png)  
+- [2021-04-08-数据搬运组件：基于-Sqoop-管理数据导入和导出](https://toutiao.io/k/w1c3b1j) ![](assets/new.png)  
+- [2021-04-08-架构设计笔记（十四）：关键模式_分库分表](https://toutiao.io/k/p4def3q) ![](assets/new.png)  
+- [2021-04-08-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-08-火山引擎-Redis-云原生实践](https://toutiao.io/k/hd9hq5t) ![](assets/new.png)  
+- [2021-04-08-工具-|-一款专为甲方安全人员、甲乙代码审计工程师和-0-Day-漏洞挖掘人员量身打造的辅助工具](https://toutiao.io/k/q1w09nr) ![](assets/new.png)  
+- [2021-04-08-动手写一个简单的编译器：在-JavaScript-中使用-Swift-的尾闭包语法](https://toutiao.io/k/ox8m619) ![](assets/new.png)  
+- [2021-04-08-ClickHouse-性能优化？试试物化视图](https://toutiao.io/k/vdlcgd6) ![](assets/new.png)  
+- [2021-04-08-Flink-集成-Iceberg-在同程艺龙的生产实践](https://toutiao.io/k/fwm8589) ![](assets/new.png)  
+- [2021-04-08-译-深入剖析新型-Mac-OS-恶意软件-XcodeSpy](https://toutiao.io/k/a2sle6p) ![](assets/new.png)  
+- [2021-04-08-使用-Github-Actions-artifact-在-workflow-job-之间共享数据](https://toutiao.io/k/6sr93da) ![](assets/new.png)  
+- [2021-04-08-漫画｜与程序员正确的沟通方式应该是怎样的？](https://toutiao.io/k/1wti2v8) ![](assets/new.png)  
+- [2021-04-08-译-使用-Jetpack-App-Startup-库减少应用启动时间](https://toutiao.io/k/9g705u5) ![](assets/new.png)  
+- [2021-04-08-运维小姐姐说这篇-Consul-集群和-ACL-配置超给力（保姆级）](https://toutiao.io/k/i08zfwv) ![](assets/new.png)  
+- [2021-04-08-喜大普奔，又一国标正式进入国际标准](https://toutiao.io/k/aeskj2g) ![](assets/new.png)  
+- [2021-04-08-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -578,6 +598,26 @@
 </summary>
 
 
+- [2021-04-07-曝滴滴启动造车项目！但留给它施展拳脚的机会可能已经不多了......](https://www.ershicimi.com/p/1c5bfa736ae6bc4cc2721ff0073be08b) ![](assets/new.png)  
+- [2021-04-07-十四五规划明确5G普及率目标，模组/终端/运营商…如何落实产业应用？](https://www.ershicimi.com/p/e4f829a108771675f549e611c92e20fb) ![](assets/new.png)  
+- [2021-04-07-为什么信不过AI看病？数据集小、可靠性差，AI医疗任重道远](https://www.ershicimi.com/p/5c607d08e273192e4438842a229623eb) ![](assets/new.png)  
+- [2021-04-06-刚刚，雷军透露小米汽车的品牌名/车型/价格，10-30万，或为SUV-或轿车](https://www.ershicimi.com/p/571ba606cae40c559a5cc28284435e46) ![](assets/new.png)  
+- [2021-04-06-5G基站需要隔多远建一个？关于网络规划的那些问题](https://www.ershicimi.com/p/34be5dee33162693a0d268632190a418) ![](assets/new.png)  
+- [2021-04-06-激荡三十年：银行数据库的发展与变迁](https://www.ershicimi.com/p/b2f85633011349058638e823214fa171) ![](assets/new.png)  
+- [2021-04-05-新疆牧民在家用北斗放牛，网友吐槽：BBC/CNN连夜赶稿《侵犯牛权》](https://www.ershicimi.com/p/700f9871a0505cda7b0e11fa5df32061) ![](assets/new.png)  
+- [2021-04-05-倒计时6天，“2021平板产业赋能教育装备创新峰会”即将开启](https://www.ershicimi.com/p/a4349a1d20d75337b13bfd2d8c445ff7) ![](assets/new.png)  
+- [2021-04-04-专为物联网而生的TinyML，正在开启音频分析的新蓝海【物女心经】](https://www.ershicimi.com/p/65577c72f00d8570cd76830a0130d011) ![](assets/new.png)  
+- [2021-04-04-关乎90%物联网应用是否能落地！未来物联网企业发展何去何从？](https://www.ershicimi.com/p/406f880ec6ce570ff797587f871cb622) ![](assets/new.png)  
+- [2021-04-03-工行/建行/农行/邮储/平安...当中国最“有财”的行业决心主动布局物联网](https://www.ershicimi.com/p/e82b122032f9cef661eff54eae85c109) ![](assets/new.png)  
+- [2021-04-03-【逛展】助力乡村振兴，智慧农业迎来百花齐放](https://www.ershicimi.com/p/50674b318a851897134bb1a576e2ca0e) ![](assets/new.png)  
+- [2021-04-02-70元10个ID，全国数万家庭摄像头遭入侵，按刺激程度标价，物联网安全如此不堪一击？](https://www.ershicimi.com/p/c237e44d64b47701faf7049503a55c9e) ![](assets/new.png)  
+- [2021-04-02-十四五规划明确5G普及率目标，模组/终端/运营商…如何落实产业应用？](https://www.ershicimi.com/p/4dc24620de12f7baf69c792fa2b42fd6) ![](assets/new.png)  
+- [2021-04-02-5G-2B一年感敢言](https://www.ershicimi.com/p/d7e65d518f5f3f0ee3d1af7bc7fb6d9f) ![](assets/new.png)  
+- [2021-04-01-年砸4000亿！智慧教育，到底有啥用？](https://www.ershicimi.com/p/1c7a05fc164af34987f8a11b16f5c9bf) ![](assets/new.png)  
+- [2021-04-01-重磅发布！这些集成电路企业免进口关税！](https://www.ershicimi.com/p/9a68a83e5b127260852f6fcf0ca8519a) ![](assets/new.png)  
+- [2021-03-31-营收8914亿！华为刚刚发布2020年财报：喜忧半掺，重压之下营收、利润双增长，但增速大幅放缓](https://www.ershicimi.com/p/127256bf14dc0526abcb542d98722e8d) ![](assets/new.png)  
+- [2021-03-31-2060年送你一片“绿水青山”，碳中和大目标下科技企业以身作则](https://www.ershicimi.com/p/cf60c61ba511a03a88d21f87fbb234fb) ![](assets/new.png)  
+- [2021-03-31-图解：5G毫米波峰值速率计算](https://www.ershicimi.com/p/76ccd78328e0878c0de750bee44792b1) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-08 15:03:12，:rocket: 更新条数: +4172， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-08 15:24:10，:rocket: 更新条数: +685， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-04-08-最新疫情：全国新冠累计确诊90365例-累计接种新冠疫苗超1.49亿剂次](https://m.caixin.com/m/2021-04-08/101687484.html) ![](assets/new.png)  
-- [2021-04-08-疫情防控严重失职失责-瑞丽书记龚云尊被撤职](http://m.china.caixin.com/m/2021-04-08/101687105.html) ![](assets/new.png)  
-- [2021-04-08-云南瑞丽4月7日新增新冠确诊病例11例-无症状感染者1例](https://m.caixin.com/m/2021-04-08/101687061.html) ![](assets/new.png)  
-- [2021-04-08-最新海外疫情：新冠感染超1.33亿-累计死亡超288万](https://m.caixin.com/m/2021-04-08/101687487.html) ![](assets/new.png)  
-- [2021-04-08-【境内疫情观察】云南新增11例本土病例（4月7日）](http://m.database.caixin.com/m/2021-04-08/101687280.html) ![](assets/new.png)  
-- [2021-04-08-研究证新冠患者易得精神和神经疾病-南非变异病毒威胁巴西｜大流行手记（4月7日）](https://m.caixin.com/m/2021-04-08/101687084.html) ![](assets/new.png)  
-- [2021-04-07-云南瑞丽4月6日新增新冠2例-现有确诊病例68例](https://m.caixin.com/m/2021-04-07/101686377.html) ![](assets/new.png)  
-- [2021-04-07-【境内疫情观察】云南瑞丽近8日累计确诊65例（4月6日）](http://m.database.caixin.com/m/2021-04-07/101686703.html) ![](assets/new.png)  
-- [2021-04-07-阿斯利康疫苗被指与脑血栓有联系-加拿大遭第三波疫情冲击｜大流行手记（4月6日）](https://m.caixin.com/m/2021-04-07/101686371.html) ![](assets/new.png)  
-- [2021-04-06-云南瑞丽4月5日新增新冠确诊病例15例-无症状感染者2例](https://m.caixin.com/m/2021-04-06/101685875.html) ![](assets/new.png)  
-- [2021-04-06-【境内疫情观察】云南瑞丽新增3处高风险地区（4月5日）](http://m.database.caixin.com/m/2021-04-06/101686077.html) ![](assets/new.png)  
-- [2021-04-06-英国推每人每周两次新冠快检-大阪取消奥运火炬传递｜大流行手记（4月5日）](https://m.caixin.com/m/2021-04-06/101685932.html) ![](assets/new.png)  
-- [2021-04-05-云南瑞丽4月4日新增新冠确诊病例15例-无症状感染者5例](https://m.caixin.com/m/2021-04-05/101685796.html) ![](assets/new.png)  
-- [2021-04-05-【境内疫情观察】云南瑞丽新增15例本土病例（4月4日）](http://m.database.caixin.com/m/2021-04-05/101685814.html) ![](assets/new.png)  
-- [2021-04-05-多地试行公共活动疫苗护照-印度新冠疫情急速恶化｜大流行手记（4月4日）](https://m.caixin.com/m/2021-04-05/101685810.html) ![](assets/new.png)  
-- [2021-04-04-【境内疫情观察】云南新增10例本土病例和1例无症状感染者（4月3日）](http://m.database.caixin.com/m/2021-04-04/101685756.html) ![](assets/new.png)  
-- [2021-04-04-阿根廷总统接种后感染新冠-国药疫苗获欧盟GMP认证｜大流行手记（4月3日）](https://m.caixin.com/m/2021-04-04/101685736.html) ![](assets/new.png)  
-- [2021-04-03-4月2日云南新增本土确诊7例-无症状感染者5例](https://m.caixin.com/m/2021-04-03/101685501.html) ![](assets/new.png)  
-- [2021-04-03-【境内疫情观察】云南瑞丽新增7例本土病例（4月2日）](http://m.database.caixin.com/m/2021-04-03/101685623.html) ![](assets/new.png)  
-- [2021-04-03-德国允许混打疫苗-科兴称新冠疫苗年产能将达20亿剂丨大流行手记（4月2日）](https://m.caixin.com/m/2021-04-03/101685491.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -96,8 +76,6 @@
 </summary>
 
 
-- [2021-04-08-全国｜新增-24-例确诊病例-11-例来自本土](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmqL4Cn4PGi3aLKPSJ7L210408&isfromapp=1) ![](assets/new.png)  
-- [2021-04-08-云南｜新增-11-例确诊病例](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU161784199066767519) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -956,6 +934,9 @@
 </summary>
 
 
+- [2021-04-08-v-model-在-input-type="radio"中是如何进行分组的？](https://www.v2ex.com/t/769242) ![](assets/new.png)  
+- [2021-04-08-.NET-Core-开发还有前景吗，要不要及时换语言](https://www.v2ex.com/t/769241) ![](assets/new.png)  
+- [2021-04-08-北京/远程-星阑科技招聘-大数据研发/渗透测试/安全研究](https://www.v2ex.com/t/769240) ![](assets/new.png)  
 - [2021-04-08-RESTful-分页查询-API-如何设计?](https://www.v2ex.com/t/769239) ![](assets/new.png)  
 - [2021-04-08-被小组长抢功怎么办](https://www.v2ex.com/t/769235) ![](assets/new.png)  
 - [2021-04-08-chrome-打开新网页时不要覆盖](https://www.v2ex.com/t/769234) ![](assets/new.png)  
@@ -973,9 +954,6 @@
 - [2021-04-08-养老保险基数又涨了？](https://www.v2ex.com/t/769220) ![](assets/new.png)  
 - [2021-04-08-无聊了，问个统计性问题](https://www.v2ex.com/t/769219) ![](assets/new.png)  
 - [2021-04-08-明天要官宣分区了](https://www.v2ex.com/t/769218) ![](assets/new.png)  
-- [2021-04-08-spark-大数据离线分析-爬虫存到-csv-有的列是长度不固定的-list-请问应该怎么存到-hive？直接存-list-吗？该怎么分析呢？](https://www.v2ex.com/t/769217) ![](assets/new.png)  
-- [2021-04-08-表弟想买免税车，需要北京公司的工作证明，请问有什么合法地获取途径吗？](https://www.v2ex.com/t/769216) ![](assets/new.png)  
-- [2021-04-08-墙内收取-Android-FCM-推送的正确方式](https://www.v2ex.com/t/769215) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1019,8 +997,8 @@
 
 
 - [2021-04-08-我放弃上海的高薪，选择回老家了](https://toutiao.io/k/qkjbzpr) ![](assets/new.png)  
-- [2021-04-08-JVM-合集之开篇点题](https://toutiao.io/k/11ajx2d) ![](assets/new.png)  
 - [2021-04-08-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-08-JVM-合集之开篇点题](https://toutiao.io/k/11ajx2d) ![](assets/new.png)  
 - [2021-04-08-数据仓库分层存储技术揭秘](https://toutiao.io/k/42qs27i) ![](assets/new.png)  
 - [2021-04-08-除了甘特图，你还应该了解些什么软件项目管理知识](https://toutiao.io/k/0hklbup) ![](assets/new.png)  
 - [2021-04-08-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
@@ -1034,8 +1012,8 @@
 - [2021-04-08-译-深入剖析新型-Mac-OS-恶意软件-XcodeSpy](https://toutiao.io/k/a2sle6p) ![](assets/new.png)  
 - [2021-04-08-漫画｜与程序员正确的沟通方式应该是怎样的？](https://toutiao.io/k/1wti2v8) ![](assets/new.png)  
 - [2021-04-08-使用-Github-Actions-artifact-在-workflow-job-之间共享数据](https://toutiao.io/k/6sr93da) ![](assets/new.png)  
-- [2021-04-08-译-使用-Jetpack-App-Startup-库减少应用启动时间](https://toutiao.io/k/9g705u5) ![](assets/new.png)  
 - [2021-04-08-运维小姐姐说这篇-Consul-集群和-ACL-配置超给力（保姆级）](https://toutiao.io/k/i08zfwv) ![](assets/new.png)  
+- [2021-04-08-译-使用-Jetpack-App-Startup-库减少应用启动时间](https://toutiao.io/k/9g705u5) ![](assets/new.png)  
 - [2021-04-08-喜大普奔，又一国标正式进入国际标准](https://toutiao.io/k/aeskj2g) ![](assets/new.png)  
 - [2021-04-08-推荐-Java-注解和注解解析器深耕，架构师必会](https://toutiao.io/k/a2o7i52) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

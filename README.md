@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-08 13:52:02，:rocket: 更新条数: +4172， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-08 14:03:16，:rocket: 更新条数: +4174， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -956,6 +956,12 @@
 </summary>
 
 
+- [2021-04-08-mac-系统下-google-chrome-在书签栏打开新网页的同时新建一个标签页打开](https://www.v2ex.com/t/769223) ![](assets/new.png)  
+- [2021-04-08-「重拾-DIY-的快乐」便携显示器制作和小米-6-换电池图文分享](https://www.v2ex.com/t/769221) ![](assets/new.png)  
+- [2021-04-08-养老保险基数又涨了？](https://www.v2ex.com/t/769220) ![](assets/new.png)  
+- [2021-04-08-无聊了，问个统计性问题](https://www.v2ex.com/t/769219) ![](assets/new.png)  
+- [2021-04-08-明天要官宣分区了](https://www.v2ex.com/t/769218) ![](assets/new.png)  
+- [2021-04-08-spark-大数据离线分析-爬虫存到-csv-有的列是长度不固定的-list-请问应该怎么存到-hive？直接存-list-吗？该怎么分析呢？](https://www.v2ex.com/t/769217) ![](assets/new.png)  
 - [2021-04-08-表弟想买免税车，需要北京公司的工作证明，请问有什么合法地获取途径吗？](https://www.v2ex.com/t/769216) ![](assets/new.png)  
 - [2021-04-08-墙内收取-Android-FCM-推送的正确方式](https://www.v2ex.com/t/769215) ![](assets/new.png)  
 - [2021-04-08-为什么子网掩码会影响网速?](https://www.v2ex.com/t/769213) ![](assets/new.png)  
@@ -970,12 +976,6 @@
 - [2021-04-08-发现做-IOS-实在是太有前途了](https://www.v2ex.com/t/769201) ![](assets/new.png)  
 - [2021-04-08-Python-爬虫求助，有偿](https://www.v2ex.com/t/769198) ![](assets/new.png)  
 - [2021-04-08-airpods-最近连-mac-后总是自动断开，求助](https://www.v2ex.com/t/769197) ![](assets/new.png)  
-- [2021-04-08-关于邮件提醒问题。。。](https://www.v2ex.com/t/769195) ![](assets/new.png)  
-- [2021-04-08-杭州-长桥证券---招聘-Golang-开发](https://www.v2ex.com/t/769194) ![](assets/new.png)  
-- [2021-04-08-入职一个月辞职了](https://www.v2ex.com/t/769193) ![](assets/new.png)  
-- [2021-04-08-iPhone-频繁重启的原因？](https://www.v2ex.com/t/769192) ![](assets/new.png)  
-- [2021-04-08-如何提高英语口语？语法已经忘完了](https://www.v2ex.com/t/769191) ![](assets/new.png)  
-- [2021-04-08-深圳初创团队寻技术合伙人](https://www.v2ex.com/t/769188) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1024,8 +1024,8 @@
 - [2021-04-08-数据仓库分层存储技术揭秘](https://toutiao.io/k/42qs27i) ![](assets/new.png)  
 - [2021-04-08-除了甘特图，你还应该了解些什么软件项目管理知识](https://toutiao.io/k/0hklbup) ![](assets/new.png)  
 - [2021-04-08-数据搬运组件：基于-Sqoop-管理数据导入和导出](https://toutiao.io/k/w1c3b1j) ![](assets/new.png)  
-- [2021-04-08-架构设计笔记（十四）：关键模式_分库分表](https://toutiao.io/k/p4def3q) ![](assets/new.png)  
 - [2021-04-08-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-08-架构设计笔记（十四）：关键模式_分库分表](https://toutiao.io/k/p4def3q) ![](assets/new.png)  
 - [2021-04-08-火山引擎-Redis-云原生实践](https://toutiao.io/k/hd9hq5t) ![](assets/new.png)  
 - [2021-04-08-工具-|-一款专为甲方安全人员、甲乙代码审计工程师和-0-Day-漏洞挖掘人员量身打造的辅助工具](https://toutiao.io/k/q1w09nr) ![](assets/new.png)  
 - [2021-04-08-Flink-集成-Iceberg-在同程艺龙的生产实践](https://toutiao.io/k/fwm8589) ![](assets/new.png)  
@@ -1037,7 +1037,7 @@
 - [2021-04-08-译-使用-Jetpack-App-Startup-库减少应用启动时间](https://toutiao.io/k/9g705u5) ![](assets/new.png)  
 - [2021-04-08-运维小姐姐说这篇-Consul-集群和-ACL-配置超给力（保姆级）](https://toutiao.io/k/i08zfwv) ![](assets/new.png)  
 - [2021-04-08-喜大普奔，又一国标正式进入国际标准](https://toutiao.io/k/aeskj2g) ![](assets/new.png)  
-- [2021-04-08-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
+- [2021-04-08-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-08 21:03:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-08 21:24:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-08-家中路由器-openwrt-只接-lan-口用，-ping-不通域名无法自动安装-opkg，编辑/etc/resolv.conf-把-nameserver-指定为局域网网关可解（默认配置是-127.0.0.1），但...](https://www.v2ex.com/t/769264) 
 - [2021-04-08-如何禁止应用随意创建目录并存储缓存文件](https://www.v2ex.com/t/769263) 
 - [2021-04-08-请教-在-Windows-PE-的环境下追加具有管理员权限的用户](https://www.v2ex.com/t/769262) 
 - [2021-04-08-分享一个基于-Ant-Design-Table-的小组件](https://www.v2ex.com/t/769260) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-08 12:58:38，:rocket: 更新条数: +4172， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-08 13:11:47，:rocket: 更新条数: +4174， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -956,6 +956,9 @@
 </summary>
 
 
+- [2021-04-08-创业公司招人](https://www.v2ex.com/t/769206) ![](assets/new.png)  
+- [2021-04-08-谁启维网创始人最近在干嘛，启维官网打不开了，他们做那个-echo-回声的-app-好像也凉了](https://www.v2ex.com/t/769205) ![](assets/new.png)  
+- [2021-04-08-成都求职](https://www.v2ex.com/t/769204) ![](assets/new.png)  
 - [2021-04-08-mac-上有代码编辑器推荐吗？](https://www.v2ex.com/t/769203) ![](assets/new.png)  
 - [2021-04-08-发现做-IOS-实在是太有前途了](https://www.v2ex.com/t/769201) ![](assets/new.png)  
 - [2021-04-08-Python-爬虫求助，有偿](https://www.v2ex.com/t/769198) ![](assets/new.png)  
@@ -973,9 +976,6 @@
 - [2021-04-08-Apple-watch-4-的电池坚持不了一天了，该怎么回血？](https://www.v2ex.com/t/769182) ![](assets/new.png)  
 - [2021-04-08-所以，作为一个菜到不行的还有一年毕业的软工学生该何去何从](https://www.v2ex.com/t/769181) ![](assets/new.png)  
 - [2021-04-08-安卓-App-没有上架国内手机厂家（华米-OV-等）应用市场，可以用手机厂家的消息推送吗？](https://www.v2ex.com/t/769180) ![](assets/new.png)  
-- [2021-04-08-dom-解析与-css-解析是在两个不同的线程里吗？](https://www.v2ex.com/t/769179) ![](assets/new.png)  
-- [2021-04-08-FinTech-社区-百万招聘：量化开发工程师-C++/-Java-/-Scala/Rust，无-996](https://www.v2ex.com/t/769178) ![](assets/new.png)  
-- [2021-04-08-百度智能办公部门内推深圳](https://www.v2ex.com/t/769177) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,7 +1037,7 @@
 - [2021-04-08-译-使用-Jetpack-App-Startup-库减少应用启动时间](https://toutiao.io/k/9g705u5) ![](assets/new.png)  
 - [2021-04-08-运维小姐姐说这篇-Consul-集群和-ACL-配置超给力（保姆级）](https://toutiao.io/k/i08zfwv) ![](assets/new.png)  
 - [2021-04-08-喜大普奔，又一国标正式进入国际标准](https://toutiao.io/k/aeskj2g) ![](assets/new.png)  
-- [2021-04-08-推荐-Java-注解和注解解析器深耕，架构师必会](https://toutiao.io/k/a2o7i52) ![](assets/new.png)  
+- [2021-04-08-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

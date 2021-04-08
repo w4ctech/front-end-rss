@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-08 18:44:24，:rocket: 更新条数: +690， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-08 18:58:39，:rocket: 更新条数: +690， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1017,7 +1017,7 @@
 - [2021-04-08-使用-Github-Actions-artifact-在-workflow-job-之间共享数据](https://toutiao.io/k/6sr93da) ![](assets/new.png)  
 - [2021-04-08-译-使用-Jetpack-App-Startup-库减少应用启动时间](https://toutiao.io/k/9g705u5) ![](assets/new.png)  
 - [2021-04-08-喜大普奔，又一国标正式进入国际标准](https://toutiao.io/k/aeskj2g) ![](assets/new.png)  
-- [2021-04-08-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
+- [2021-04-08-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

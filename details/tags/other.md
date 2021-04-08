@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 18:44:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-08 18:58:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -284,15 +284,14 @@
 - [2021-04-08-漫画｜与程序员正确的沟通方式应该是怎样的？](https://toutiao.io/k/1wti2v8) 
 - [2021-04-08-译-使用-Jetpack-App-Startup-库减少应用启动时间](https://toutiao.io/k/9g705u5) 
 - [2021-04-08-喜大普奔，又一国标正式进入国际标准](https://toutiao.io/k/aeskj2g) 
-- [2021-04-08-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) 
 - [2021-04-08-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) 
-- [2021-04-08-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) 
-- [2021-04-08-推荐-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) 
-- [2021-04-08-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) 
-- [2021-04-08-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) 
-- [2021-04-08-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) 
 - [2021-04-08-推荐-Redis-分布式锁遇到的序列化问题](https://toutiao.io/k/adg4qv6) 
+- [2021-04-08-推荐-值得拥有的手绘风格画图工具](https://toutiao.io/k/ukg83qx) 
+- [2021-04-08-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) 
+- [2021-04-08-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) 
+- [2021-04-08-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) 
 - [2021-04-08-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) 
+- [2021-04-08-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) 
 - [2021-04-08-诺基亚8.1、2.3-可以更新-Android-11-了!](https://sec.thief.one/article_content?a_id=f2cf6b27a18d5f17dd5d674b8db10007) 
 - [2021-04-08-【漏洞通告】Jellyfin任意文件读取](https://sec.thief.one/article_content?a_id=91bba1e130bb8e67cebfe34380c8ed6d) 
 - [2021-04-08-零基础学渗透测试丨7天掌握Vmware和Linux!](https://sec.thief.one/article_content?a_id=b07140f133cd1c3b604be4084f25dd60) 

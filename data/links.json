@@ -9,18 +9,7 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": [
-      {
-        "title": "全国｜新增 24 例确诊病例 11 例来自本土",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmqL4Cn4PGi3aLKPSJ7L210408&isfromapp=1",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "云南｜新增 11 例确诊病例",
-        "link": "http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU161784199066767519",
-        "date": "2021-04-08"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",
@@ -2622,6 +2611,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "腾讯云 x 宝塔活动 腾讯云轻量应用服务器代金券满 918-828 代金券",
+        "link": "https://www.v2ex.com/t/769011",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "你会购买 Galaxy S21 Ultra 吗？",
+        "link": "https://www.v2ex.com/t/769010",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "Hackintool 支持了 M1？",
+        "link": "https://www.v2ex.com/t/769009",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "过保 mbp，丢了一堆螺丝 天才吧能免费换上去吗",
+        "link": "https://www.v2ex.com/t/769008",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "请教高手， Android 对 JVM 生态圈的兼容极限在哪里？",
+        "link": "https://www.v2ex.com/t/769005",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "offer 比较\r\n渣硕，运气比较好拿了两个实习的 offer,前端方向\r\n1. 美团平台（问了一下，应该是小程序生态这块的\r\n2. 阿里云---流量产品事业部\r\n对两个部门都不太...",
+        "link": "https://www.v2ex.com/t/769004",
+        "date": "2021-04-08"
+      },
+      {
         "title": "工作第一年遇到的问题，以后也会常遇到",
         "link": "https://www.v2ex.com/t/769001",
         "date": "2021-04-08"
@@ -2745,41 +2764,6 @@
         "title": "最近的一次面试体验不佳, 怎样的面试才算\"专业\"或\"有效\"?",
         "link": "https://www.v2ex.com/t/768963",
         "date": "2021-04-08"
-      },
-      {
-        "title": "微软的 C# 和 .NET 未能发展好是不是和名字起的不好也有关系",
-        "link": "https://www.v2ex.com/t/768962",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "微软苏州 Teams 团队热招：前端，视频处理工程师， PM",
-        "link": "https://www.v2ex.com/t/768961",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "要疯了，我的 M1，才 4 个月吧",
-        "link": "https://www.v2ex.com/t/768960",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "中科创达 os（ Java 方向），这个公司的发展前景，还有我这个方向好不好呀？\r\n\r\n本人应届毕业生，双一流学校，软件工程专业。大学是学 Java 开发的。",
-        "link": "https://www.v2ex.com/t/768959",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "终于还是辞了，裸辞。",
-        "link": "https://www.v2ex.com/t/768957",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "裸辞了请教社保公积金问题",
-        "link": "https://www.v2ex.com/t/768956",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "pdd 那个“砍一刀”真没有有关部门管一下么？",
-        "link": "https://www.v2ex.com/t/768955",
-        "date": "2021-04-08"
       }
     ]
   },
@@ -2787,108 +2771,7 @@
     "rss": "https://front-rss.herokuapp.com/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": [
-      {
-        "title": "分析上市公司税收：这些知识不可少 (www.hebicpa.org.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14269&url=https%3A%2F%2Fwww.hebicpa.org.cn%2F114%2F20528.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "Flutter 不是真正的跨平台框架 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14268&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUyrvHsdHHr1xYhtVHbVPSw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "如何得知当前 Activity 是被压入后台，还是跳转到新的 Activity？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14267&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FilOIhSLBMgdXW8r1_X0RmQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "关于 Android MVVM 一些理解与实践 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14266&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyULkmIhNy78Zf8zSWRTh-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "5 种可能在 10 年后消失的编程语言 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14265&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtUBfBQUFIwUbTsVcS_ksmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "程序员必知的 7 种软件架构模式 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14264&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAJZJ-r6M-x8mqOoeFDhiAw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "CTO 写的代码，真是绝了 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14263&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDKf78a8VH4HCrqEmGE_EXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "这几本书帮你渡过最难求职季，对社畜也有用~ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14262&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0WO59517gb4O_FMZHJcaPg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "汇总一下 Intellij IDEA 的炫酷插件 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14261&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyUvMsLlHEGVbbseDK_KnNA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "如何把 if-else 重构成高质量代码？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14260&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fvcj9fVsIimlGf4x-NTllOQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "有个计算机专业的老公有多爽？？？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14259&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUIDASnNHFKrYj_L_pu4O2A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "Flutter 2 重磅来袭，重大能力突破，好不惊喜！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14258&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4E9bEYWEEfnZRZH0yjXKVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "优酷 iOS 插件化页面架构方法 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14257&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fu0JwZkydMZJMRrmXEKLazw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "这也行？iOS 后台锁屏监听摇一摇 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14256&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQLgNhBJh0QpKaQWf07rBtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "摆脱 Android 和 iOS：七款免费开源移动操作系统的尝试 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14255&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHjVrXu8feUtapaEe4-bAQw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "4 个色情网站被一锅端，9 名福利姬被刑拘！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14254&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3ztxZ6y15nXSeHhqLyssPA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "必须知道的 11 个微前端框架 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14253&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fo9ZAzI5TFc434h-v3nRJEQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "腾讯 Code Review 规范出炉！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "色情版“微信”背后的秘密，太可怕了~ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14251&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwclp7RpOv8Jcyqv5GS6btw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "JavaScript 奇葩知识大全 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14250&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVAzk0r95EAVho5jskcTc2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-08"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
@@ -2931,6 +2814,11 @@
         "date": "2021-04-08"
       },
       {
+        "title": "数据搬运组件：基于 Sqoop 管理数据导入和导出",
+        "link": "https://toutiao.io/k/w1c3b1j",
+        "date": "2021-04-08"
+      },
+      {
         "title": "Flink 集成 Iceberg 在同程艺龙的生产实践",
         "link": "https://toutiao.io/k/fwm8589",
         "date": "2021-04-08"
@@ -2941,8 +2829,8 @@
         "date": "2021-04-08"
       },
       {
-        "title": "数据搬运组件：基于 Sqoop 管理数据导入和导出",
-        "link": "https://toutiao.io/k/w1c3b1j",
+        "title": "架构设计笔记（十四）：关键模式_分库分表",
+        "link": "https://toutiao.io/k/p4def3q",
         "date": "2021-04-08"
       },
       {
@@ -2953,11 +2841,6 @@
       {
         "title": "架构设计方法论",
         "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "架构设计笔记（十四）：关键模式_分库分表",
-        "link": "https://toutiao.io/k/p4def3q",
         "date": "2021-04-08"
       },
       {
@@ -2991,58 +2874,8 @@
         "date": "2021-04-08"
       },
       {
-        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
-        "link": "https://toutiao.io/k/iyge3cy",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] 图文详解 Java 对象内存布局",
-        "link": "https://toutiao.io/k/romtfff",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
-        "link": "https://toutiao.io/k/hti1ill",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
-        "link": "https://toutiao.io/k/sso4l2l",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] Redis 分布式锁遇到的序列化问题",
-        "link": "https://toutiao.io/k/adg4qv6",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] GitHub 太慢？9 种方案可提速",
-        "link": "https://toutiao.io/k/pufqjt0",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] Java 注解和注解解析器深耕，架构师必会",
-        "link": "https://toutiao.io/k/a2o7i52",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] GitHub 加速指南进阶版",
-        "link": "https://toutiao.io/k/ygnbct1",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] 值得拥有的手绘风格画图工具",
-        "link": "https://toutiao.io/k/ukg83qx",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
-        "link": "https://toutiao.io/k/47wemjf",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "[推荐] Go 应用优化指北",
-        "link": "https://toutiao.io/k/6jo6q1t",
+        "title": "[推荐] 书单：互联网企业面试案头书之架构师篇",
+        "link": "https://toutiao.io/k/mvtejua",
         "date": "2021-04-08"
       },
       {
@@ -3051,8 +2884,18 @@
         "date": "2021-04-08"
       },
       {
-        "title": "[推荐] 如何吃透一个 Java 项目？（附学习实践）",
-        "link": "https://toutiao.io/k/cifpaoe",
+        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
+        "link": "https://toutiao.io/k/hti1ill",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] 高并发下如何保证接口的幂等性？",
+        "link": "https://toutiao.io/k/f0361xm",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] 万字详解整个数据仓库建设体系",
+        "link": "https://toutiao.io/k/ny7vvdw",
         "date": "2021-04-08"
       },
       {
@@ -3061,8 +2904,48 @@
         "date": "2021-04-08"
       },
       {
-        "title": "[推荐] 书单：互联网企业面试案头书之架构师篇",
-        "link": "https://toutiao.io/k/mvtejua",
+        "title": "[推荐] 图文详解 Java 对象内存布局",
+        "link": "https://toutiao.io/k/romtfff",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] Go 应用优化指北",
+        "link": "https://toutiao.io/k/6jo6q1t",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] 值得拥有的手绘风格画图工具",
+        "link": "https://toutiao.io/k/ukg83qx",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] 如何吃透一个 Java 项目？（附学习实践）",
+        "link": "https://toutiao.io/k/cifpaoe",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
+        "link": "https://toutiao.io/k/47wemjf",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
+        "link": "https://toutiao.io/k/sso4l2l",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] Java 注解和注解解析器深耕，架构师必会",
+        "link": "https://toutiao.io/k/a2o7i52",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] GitHub 太慢？9 种方案可提速",
+        "link": "https://toutiao.io/k/pufqjt0",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "[推荐] Redis 分布式锁遇到的序列化问题",
+        "link": "https://toutiao.io/k/adg4qv6",
         "date": "2021-04-08"
       }
     ]

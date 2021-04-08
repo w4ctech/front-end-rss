@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 03:56:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-08 04:05:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -20,7 +20,6 @@
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-04-08-有没有-PPT-转视频的工具？](https://www.v2ex.com/t/768994) 
-- [2021-04-08-微软苏州-Teams-团队热招：前端，视频处理工程师，-PM](https://www.v2ex.com/t/768961) 
 - [2021-04-08-【视频】|-工控安全:智能制造行业工控系统安全解决方案](https://sec.thief.one/article_content?a_id=8e41fed4f341269cd74e0b93d0a28e57) 
 - [2021-04-07-【视频】|-Python:if.else的列表推导](https://sec.thief.one/article_content?a_id=84050c41d17bf9cfe108094d0ba9750c) 
 - [2021-04-06-【视频】|-工控安全:石油化工行业解决方案](https://sec.thief.one/article_content?a_id=66f671c44dc7b96d630397aa3183a105) 

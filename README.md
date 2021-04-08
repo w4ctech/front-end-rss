@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-08 13:40:10，:rocket: 更新条数: +4172， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-08 13:52:02，:rocket: 更新条数: +4172， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -956,6 +956,7 @@
 </summary>
 
 
+- [2021-04-08-表弟想买免税车，需要北京公司的工作证明，请问有什么合法地获取途径吗？](https://www.v2ex.com/t/769216) ![](assets/new.png)  
 - [2021-04-08-墙内收取-Android-FCM-推送的正确方式](https://www.v2ex.com/t/769215) ![](assets/new.png)  
 - [2021-04-08-为什么子网掩码会影响网速?](https://www.v2ex.com/t/769213) ![](assets/new.png)  
 - [2021-04-08-关于-git-remote-add-upstream](https://www.v2ex.com/t/769211) ![](assets/new.png)  
@@ -975,7 +976,6 @@
 - [2021-04-08-iPhone-频繁重启的原因？](https://www.v2ex.com/t/769192) ![](assets/new.png)  
 - [2021-04-08-如何提高英语口语？语法已经忘完了](https://www.v2ex.com/t/769191) ![](assets/new.png)  
 - [2021-04-08-深圳初创团队寻技术合伙人](https://www.v2ex.com/t/769188) ![](assets/new.png)  
-- [2021-04-08-求无锡或附近城市的数据岗](https://www.v2ex.com/t/769187) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,7 +1037,7 @@
 - [2021-04-08-译-使用-Jetpack-App-Startup-库减少应用启动时间](https://toutiao.io/k/9g705u5) ![](assets/new.png)  
 - [2021-04-08-运维小姐姐说这篇-Consul-集群和-ACL-配置超给力（保姆级）](https://toutiao.io/k/i08zfwv) ![](assets/new.png)  
 - [2021-04-08-喜大普奔，又一国标正式进入国际标准](https://toutiao.io/k/aeskj2g) ![](assets/new.png)  
-- [2021-04-08-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
+- [2021-04-08-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

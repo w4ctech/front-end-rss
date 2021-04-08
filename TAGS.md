@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-08 06:54:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-08 07:06:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,11 +55,6 @@
 
 
 
-- [【前端圈】视频蒋豪群聊聊Vue-3-周边项目](https://www.ershicimi.com/p/2a12d97dd7bb04af90078ddf2b9f196d)
-- [【前端圈】Vue3三连发，这期聊聊Vue-3周边项目](https://www.ershicimi.com/p/97695ac09543799ef0ccda9e2479572e)
-- [【前端圈】视频Vue.js-3.0-什么时候可以投入生产使用](https://www.ershicimi.com/p/62da65e218585b265a4ddc89ca674b0b)
-- [【前端圈】尤雨溪约你聊聊Vue.js-3.0-Beta](https://www.ershicimi.com/p/6f88eda2cef2ca14858c173412919f36)
-- [【前端圈】视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -124,8 +119,6 @@
 
 
 
-- [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
-- [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【V2EX】体验了那么多选择器工具，决定自己撸了个小程序，易择-选择困难症助手，简洁优雅无广告😁](https://www.v2ex.com/t/769062)
 - [【V2EX】macOS-App-Store-的微信能打开小程序了，是我村网通？](https://www.v2ex.com/t/769049)
 - [......【查看更多】......](./details/tags/miniprogram.md)
@@ -214,7 +207,6 @@
 
 
 
-- [【前端圈】视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0)
 - [【张鑫旭-鑫空间-鑫生活】CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/)
 - [【张鑫旭-鑫空间-鑫生活】使用CSS-text-combine-upright实现字符的横向合并](https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-line-break属性与中文标点换行](https://www.zhangxinxu.com/wordpress/2021/02/css-line-break/)
@@ -342,6 +334,7 @@
 
 
 
+- [【V2EX】杭州-幻方量化/AI-Lab-招聘全栈开发工程师-福利待遇好-团队氛围好](https://www.v2ex.com/t/769065)
 - [【V2EX】neovim-的设置文件或者插件目录，怎么设置成在-mac-&-windows-下面通用啊？](https://www.v2ex.com/t/769050)
 - [【V2EX】分享一个大厂面试算法题库-CodeTop](https://www.v2ex.com/t/769028)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -376,7 +369,6 @@
 
 
 
-- [【V2EX】请问-IDEA-插件有类似-vsCode-的-GitLent-类似，但是是操作-SVN-的吗？](https://www.v2ex.com/t/769015)
 - [【安全热点】Github爆火!21岁理工男开源的十六进制编辑器爆赞](https://sec.thief.one/article_content?a_id=180db82f94c74b43e2688dc24227716e)
 - [【安全热点】这个让马斯克疯狂推荐的聊天软件,在Github上火了](https://sec.thief.one/article_content?a_id=c042f93bd773761d840136b23a121628)
 - [【安全热点】震惊了!每30秒学会一个Python小技巧,Github星数4600+](https://sec.thief.one/article_content?a_id=3e001c40e04b50ec2666ad40e6222c8a)
@@ -470,7 +462,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】4月7日全国新增新冠24例-本土11例均在云南瑞丽](https://m.caixin.com/m/2021-04-08/101687102.html)
 - [【武汉肺炎防疫全纪录(财新网)】疫情防控严重失职失责-瑞丽书记龚云尊被撤职](http://m.china.caixin.com/m/2021-04-08/101687105.html)
 - [【武汉肺炎防疫全纪录(财新网)】云南瑞丽4月7日新增新冠确诊病例11例-无症状感染者1例](https://m.caixin.com/m/2021-04-08/101687061.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】云南新增11例本土病例](http://m.database.caixin.com/m/2021-04-08/101687280.html)
+- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】云南新增11例本土病例（4月7日）](http://m.database.caixin.com/m/2021-04-08/101687280.html)
 - [【武汉肺炎防疫全纪录(财新网)】研究证新冠患者易得精神和神经疾病-南非变异病毒威胁巴西｜大流行手记（4月7日）](https://m.caixin.com/m/2021-04-08/101687084.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超1.32亿-累计死亡超286万](https://m.caixin.com/m/2021-04-07/101686869.html)
 - [【武汉肺炎防疫全纪录(财新网)】云南瑞丽4月6日新增新冠2例-现有确诊病例68例](https://m.caixin.com/m/2021-04-07/101686377.html)

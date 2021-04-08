@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 06:54:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-04-08 07:06:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -49,12 +49,12 @@
 <td>03月</td>
 <td>04月</td>
 <td>05月</td>
-<td><a href="#2019-06">06月</a></td>
-<td><a href="#2019-07">07月</a></td>
+<td>06月</td>
+<td>07月</td>
 <td>08月</td>
-<td><a href="#2019-09">09月</a></td>
-<td><a href="#2019-10">10月</a></td>
-<td><a href="#2019-11">11月</a></td>
+<td>09月</td>
+<td>10月</td>
+<td>11月</td>
 <td><a href="#2019-12">12月</a></td>
 </tr>
 
@@ -71,7 +71,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-04-08-4月7日全国新增新冠24例-本土11例均在云南瑞丽](https://m.caixin.com/m/2021-04-08/101687102.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-04-08-疫情防控严重失职失责-瑞丽书记龚云尊被撤职](http://m.china.caixin.com/m/2021-04-08/101687105.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-04-08-云南瑞丽4月7日新增新冠确诊病例11例-无症状感染者1例](https://m.caixin.com/m/2021-04-08/101687061.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2021-04-08-【境内疫情观察】云南新增11例本土病例](http://m.database.caixin.com/m/2021-04-08/101687280.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2021-04-08-【境内疫情观察】云南新增11例本土病例（4月7日）](http://m.database.caixin.com/m/2021-04-08/101687280.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-04-08-研究证新冠患者易得精神和神经疾病-南非变异病毒威胁巴西｜大流行手记（4月7日）](https://m.caixin.com/m/2021-04-08/101687084.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-04-07-最新海外疫情：新冠感染超1.32亿-累计死亡超286万](https://m.caixin.com/m/2021-04-07/101686869.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-04-07-云南瑞丽4月6日新增新冠2例-现有确诊病例68例](https://m.caixin.com/m/2021-04-07/101686377.html) 
@@ -98,6 +98,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-04-01-【境内疫情观察】云南省瑞丽市开展市区全员核酸检测（3月31日）](http://m.database.caixin.com/m/2021-04-01/101684547.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-04-01-辉瑞称疫苗对青少年100%有效-俄注册世界首个兽用新冠疫苗丨大流行手记（3月31日）](https://m.caixin.com/m/2021-04-01/101684275.html) 
 - [【阮一峰的网络日志】2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) 
+- [【V2EX】2021-04-08-杭州-幻方量化/AI-Lab-招聘全栈开发工程师-福利待遇好-团队氛围好](https://www.v2ex.com/t/769065) 
 - [【V2EX】2021-04-08-深圳-虾皮内推，团队非常缺人，快来帮忙](https://www.v2ex.com/t/769064) 
 - [【V2EX】2021-04-08-有没有全自动索引的小型数据库推荐？](https://www.v2ex.com/t/769063) 
 - [【V2EX】2021-04-08-体验了那么多选择器工具，决定自己撸了个小程序，易择-选择困难症助手，简洁优雅无广告😁](https://www.v2ex.com/t/769062) 
@@ -131,7 +132,6 @@
 - [【V2EX】2021-04-08-MIUI-12.0.7-稳定版不能自动切换-WiFi-网络](https://www.v2ex.com/t/769021) 
 - [【V2EX】2021-04-08-都-21-年了怎么还有这样的人](https://www.v2ex.com/t/769018) 
 - [【V2EX】2021-04-08-AGPL-3.0-开源协议中的“商用”指哪些行为？](https://www.v2ex.com/t/769017) 
-- [【V2EX】2021-04-08-请问-IDEA-插件有类似-vsCode-的-GitLent-类似，但是是操作-SVN-的吗？](https://www.v2ex.com/t/769015) 
 - [【安全热点】2021-04-08-【视频】|-工控安全:智能制造行业工控系统安全解决方案](https://sec.thief.one/article_content?a_id=8e41fed4f341269cd74e0b93d0a28e57) 
 - [【安全热点】2021-04-08-听,总书记讲“开天辟地的大事变”](https://sec.thief.one/article_content?a_id=e2a933961c0de19d696b43ea866f57f4) 
 - [【安全热点】2021-04-08-划即查询,蓝队利器-|-X情报社区插件限免开放](https://sec.thief.one/article_content?a_id=a4a58d1741d5155fd45c3a18aba91285) 
@@ -232,23 +232,6 @@
 - [【安全热点】2021-04-03-在Z|南京证券、美柚高至42万/年诚招安全相关工程师](https://sec.thief.one/article_content?a_id=e57641b4620843c3cbd3648672da13fe) 
 - [【安全热点】2021-04-03-印度海量持卡人数据泄露,达8.2TB](https://sec.thief.one/article_content?a_id=9e77af3e2a563fd51c50c8cf47c4c8aa) 
 - [【安全热点】2021-04-03-Redis分布式锁使用不当,酿成一个重大事故,超卖了100瓶飞天茅台!...](https://sec.thief.one/article_content?a_id=78c0473d61b50e63cf94d1ca3ac7aa0a) 
-- [【物联网智库】2021-04-07-曝滴滴启动造车项目！但留给它施展拳脚的机会可能已经不多了......](https://www.ershicimi.com/p/1c5bfa736ae6bc4cc2721ff0073be08b) 
-- [【物联网智库】2021-04-07-十四五规划明确5G普及率目标，模组/终端/运营商…如何落实产业应用？](https://www.ershicimi.com/p/e4f829a108771675f549e611c92e20fb) 
-- [【物联网智库】2021-04-07-为什么信不过AI看病？数据集小、可靠性差，AI医疗任重道远](https://www.ershicimi.com/p/5c607d08e273192e4438842a229623eb) 
-- [【物联网智库】2021-04-06-刚刚，雷军透露小米汽车的品牌名/车型/价格，10-30万，或为SUV-或轿车](https://www.ershicimi.com/p/571ba606cae40c559a5cc28284435e46) 
-- [【物联网智库】2021-04-06-5G基站需要隔多远建一个？关于网络规划的那些问题](https://www.ershicimi.com/p/34be5dee33162693a0d268632190a418) 
-- [【物联网智库】2021-04-06-激荡三十年：银行数据库的发展与变迁](https://www.ershicimi.com/p/b2f85633011349058638e823214fa171) 
-- [【物联网智库】2021-04-05-新疆牧民在家用北斗放牛，网友吐槽：BBC/CNN连夜赶稿《侵犯牛权》](https://www.ershicimi.com/p/700f9871a0505cda7b0e11fa5df32061) 
-- [【物联网智库】2021-04-05-倒计时6天，“2021平板产业赋能教育装备创新峰会”即将开启](https://www.ershicimi.com/p/a4349a1d20d75337b13bfd2d8c445ff7) 
-- [【物联网智库】2021-04-04-专为物联网而生的TinyML，正在开启音频分析的新蓝海【物女心经】](https://www.ershicimi.com/p/65577c72f00d8570cd76830a0130d011) 
-- [【物联网智库】2021-04-04-关乎90%物联网应用是否能落地！未来物联网企业发展何去何从？](https://www.ershicimi.com/p/406f880ec6ce570ff797587f871cb622) 
-- [【物联网智库】2021-04-03-工行/建行/农行/邮储/平安...当中国最“有财”的行业决心主动布局物联网](https://www.ershicimi.com/p/e82b122032f9cef661eff54eae85c109) 
-- [【物联网智库】2021-04-03-【逛展】助力乡村振兴，智慧农业迎来百花齐放](https://www.ershicimi.com/p/50674b318a851897134bb1a576e2ca0e) 
-- [【物联网智库】2021-04-02-70元10个ID，全国数万家庭摄像头遭入侵，按刺激程度标价，物联网安全如此不堪一击？](https://www.ershicimi.com/p/c237e44d64b47701faf7049503a55c9e) 
-- [【物联网智库】2021-04-02-十四五规划明确5G普及率目标，模组/终端/运营商…如何落实产业应用？](https://www.ershicimi.com/p/4dc24620de12f7baf69c792fa2b42fd6) 
-- [【物联网智库】2021-04-02-5G-2B一年感敢言](https://www.ershicimi.com/p/d7e65d518f5f3f0ee3d1af7bc7fb6d9f) 
-- [【物联网智库】2021-04-01-年砸4000亿！智慧教育，到底有啥用？](https://www.ershicimi.com/p/1c7a05fc164af34987f8a11b16f5c9bf) 
-- [【物联网智库】2021-04-01-重磅发布！这些集成电路企业免进口关税！](https://www.ershicimi.com/p/9a68a83e5b127260852f6fcf0ca8519a) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -370,9 +353,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2021-03-14-CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/) 
 - [【阮一峰的网络日志】2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) 
 - [【阮一峰的网络日志】2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) 
-- [【物联网智库】2021-03-31-营收8914亿！华为刚刚发布2020年财报：喜忧半掺，重压之下营收、利润双增长，但增速大幅放缓](https://www.ershicimi.com/p/127256bf14dc0526abcb542d98722e8d) 
-- [【物联网智库】2021-03-31-2060年送你一片“绿水青山”，碳中和大目标下科技企业以身作则](https://www.ershicimi.com/p/cf60c61ba511a03a88d21f87fbb234fb) 
-- [【物联网智库】2021-03-31-图解：5G毫米波峰值速率计算](https://www.ershicimi.com/p/76ccd78328e0878c0de750bee44792b1) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -1745,8 +1725,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-02-逾200位全球政要学者再联署-呼吁G20帮助发展中国家抗疫](http://m.economy.caixin.com/m/2020-06-02/101561941.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-【境内疫情观察】全国新增16例境外输入病例（5月31日）](http://m.database.caixin.com/m/2020-06-01/101561417.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-大流行手记|5月31日：印度单日新增创新高-封锁再延一个月](https://m.caixin.com/m/2020-06-01/101561304.html) 
-- [【前端圈】2020-06-17-视频蒋豪群聊聊Vue-3-周边项目](https://www.ershicimi.com/p/2a12d97dd7bb04af90078ddf2b9f196d) 
-- [【前端圈】2020-06-08-Vue3三连发，这期聊聊Vue-3周边项目](https://www.ershicimi.com/p/97695ac09543799ef0ccda9e2479572e) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -1925,8 +1903,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-研究：儿童感染新冠几率仅为成人的三分之一](http://m.science.caixin.com/m/2020-05-01/101549555.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-54岁俄罗斯总理确诊新冠-全俄病例破10万](http://m.international.caixin.com/m/2020-05-01/101549514.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://m.china.caixin.com/m/2020-05-01/101549603.html) 
-- [【前端圈】2020-05-13-视频Winter-教你-MVVM](https://www.ershicimi.com/p/407d00f5a91b47a7f16018aaec12084f) 
-- [【前端圈】2020-05-09-约吗？-Winter-问你](https://www.ershicimi.com/p/56070921db6716af5615b24f68ab643b) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -2288,8 +2264,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-04-01-检测能力扩充慢-荷兰“人口免疫”策略面临挑战](http://m.international.caixin.com/m/2020-04-01/101537047.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-04-01-27省份调降响应级别-京津冀鄂仍为一级](http://m.china.caixin.com/m/2020-04-01/101537305.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-04-01-【图集】探访北京小汤山定点医院-运行平稳治疗有序](http://m.photos.caixin.com/m/2020-04-01/101537361.html) 
-- [【前端圈】2020-04-27-视频Vue.js-3.0-什么时候可以投入生产使用](https://www.ershicimi.com/p/62da65e218585b265a4ddc89ca674b0b) 
-- [【前端圈】2020-04-20-尤雨溪约你聊聊Vue.js-3.0-Beta](https://www.ershicimi.com/p/6f88eda2cef2ca14858c173412919f36) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -3887,70 +3861,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】2019-12-31-武汉发现不明原因肺炎-当地一海鲜市场消毒（更新）](http://m.china.caixin.com/m/2019-12-31/101506094.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2019-12-31-武汉通报27例病毒性肺炎疫情-病原检测正在进行](http://m.china.caixin.com/m/2019-12-31/101506093.html) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-11">
- 2019-11
-</summary>
-
-
-- [【前端圈】2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
-- [【前端圈】2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-10">
- 2019-10
-</summary>
-
-
-- [【前端圈】2019-10-13-视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5) 
-- [【前端圈】2019-10-13-更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d) 
-- [【前端圈】2019-10-12-视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b) 
-- [【前端圈】2019-10-11-视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b) 
-- [【前端圈】2019-10-10-视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a) 
-- [【前端圈】2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) 
-- [【前端圈】2019-10-08-视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-09">
- 2019-09
-</summary>
-
-
-- [【前端圈】2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
-- [【前端圈】2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-07">
- 2019-07
-</summary>
-
-
-- [【前端圈】2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
-- [【前端圈】2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-06">
- 2019-06
-</summary>
-
-
-- [【前端圈】2019-06-21-视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

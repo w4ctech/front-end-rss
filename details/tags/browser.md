@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-09 01:14:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-09 01:27:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -10,7 +10,6 @@
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2021-04-08-如何禁止应用随意创建目录并存储缓存文件](https://www.v2ex.com/t/769263) 
 - [2021-04-08-北京/远程-星阑科技招聘-大数据研发/渗透测试/安全研究](https://www.v2ex.com/t/769240) 
-- [2021-04-08-chrome-打开新网页时不要覆盖](https://www.v2ex.com/t/769234) 
 - [2021-04-08-【安全圈】加密通讯应用-Signal-支持使用-MobileCoin-进行隐私支付](https://sec.thief.one/article_content?a_id=134243f2cc5a9edf49b08f6142473d7c) 
 - [2021-04-08-「议题前瞻」以数据为中心的安全治理实践丨FreeBuf企业安全俱乐部](https://sec.thief.one/article_content?a_id=948ce9c38074075f6714c2f73ccf779f) 
 - [2021-04-08-2021数字中国创新大赛虎符网络安全赛道线上初赛圆满结束](https://sec.thief.one/article_content?a_id=27649aca0b7da277ddbf81cf1a550df3) 

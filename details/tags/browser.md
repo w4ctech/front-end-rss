@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-09 14:04:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-09 14:38:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,7 +34,6 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-04-09-不懂就问，-teamviewer-更新后远程电脑的显示器关闭就会异常](https://www.v2ex.com/t/769575) 
 - [2021-04-09-浏览器的额头都越来越高了](https://www.v2ex.com/t/769558) 
-- [2021-04-09-如何禁用-FireFox-检查更新？](https://www.v2ex.com/t/769536) 
 - [2021-04-09-腾讯-Code-Review-规范出炉！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-09-OWASP-十大网站安全风险-（一）：-注入攻击](https://toutiao.io/k/34bglad) 
 - [2021-04-09-技巧：Chrome、Edge-离线安装-crx-扩展教程](https://toutiao.io/k/abnyird) 

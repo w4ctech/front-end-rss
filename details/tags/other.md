@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-09 01:53:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-09 02:10:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -9,6 +9,11 @@
 - [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html) 
 - [2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) 
 - [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) 
+- [2021-04-09-进击的巨人真的好看？](https://www.v2ex.com/t/769313) 
+- [2021-04-09-求问问题-项目的开发文档到底是如何编写的](https://www.v2ex.com/t/769312) 
+- [2021-04-09-开发企业应用，企业微信和钉钉该如何选择？](https://www.v2ex.com/t/769311) 
+- [2021-04-09-在-iPhone-上体验-One-UI](https://www.v2ex.com/t/769307) 
+- [2021-04-09-分享一个一直更新-IDE-激活码，-pycharm，-Golang-激活码，-phpstorm-激活码](https://www.v2ex.com/t/769305) 
 - [2021-04-09-不知道有没有更好的解法~](https://www.v2ex.com/t/769303) 
 - [2021-04-09-Linux-怎么获得为什么-Java-进程退出的原因？](https://www.v2ex.com/t/769302) 
 - [2021-04-09-有一堆精准的-qq，怎么做营销推广](https://www.v2ex.com/t/769301) 
@@ -39,13 +44,6 @@
 - [2021-04-08-iCloud-共享文件夹使用疑问？](https://www.v2ex.com/t/769268) 
 - [2021-04-08-菜鸟-or-蚂蚁-offer-选择题](https://www.v2ex.com/t/769267) 
 - [2021-04-08-你们好运魄罗每天刷阴间任务吗？](https://www.v2ex.com/t/769266) 
-- [2021-04-08-请教-在-Windows-PE-的环境下追加具有管理员权限的用户](https://www.v2ex.com/t/769262) 
-- [2021-04-08-被空降的-leader-拍桌子、指着鼻子骂，如何摆正心态？](https://www.v2ex.com/t/769259) 
-- [2021-04-08-请问旧-iPhone-数据迁移到新-iPhone-，原生输入法词库会丢失吗？](https://www.v2ex.com/t/769258) 
-- [2021-04-08-vscode-插件，想要效果：远程有类似-mobaxterm-左侧文件浏览的效果，可以点点点,-cd-到某个文件下，开个-terminal-也是这个路径。](https://www.v2ex.com/t/769257) 
-- [2021-04-08-所有-iOS-设备在-4-月-26-号前还可更新到已关闭签名的最新可越狱版本：-14.3](https://www.v2ex.com/t/769256) 
-- [2021-04-08-4.8-号起，可以更换-homepod-默认的音乐播放来源了。](https://www.v2ex.com/t/769255) 
-- [2021-04-08-联想拯救者-2021-款各种型号有什么区别？](https://www.v2ex.com/t/769254) 
 - [2021-04-09-澳洲联邦银行发生大规模技术故障-有人被二次收费有人却被清空房贷](https://sec.thief.one/article_content?a_id=dbc14a46e42062daee0e51f3309f1422) 
 - [2021-04-09-EuroS&P-2021-论文录用列表](https://sec.thief.one/article_content?a_id=9a41f8090920c3b1e7b6d725603f8c5a) 
 - [2021-04-09-蓝队必看!微步在线TDP已支持检测多个在野0day攻击](https://sec.thief.one/article_content?a_id=91bbe240ef106855ea63e25457fb7680) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-09 00:26:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-09 00:46:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -9,6 +9,9 @@
 - [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html) 
 - [2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) 
 - [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) 
+- [2021-04-09-进击的巨人原来谏山创说的-“伤害读者”-是这个意思](https://www.v2ex.com/t/769276) 
+- [2021-04-09-自从同事溜了以后,我....](https://www.v2ex.com/t/769275) 
+- [2021-04-09-什么样的公司才是大家心目中的好公司？](https://www.v2ex.com/t/769274) 
 - [2021-04-09-ffmpeg-添加-ass-字幕-边框很粗](https://www.v2ex.com/t/769273) 
 - [2021-04-09-可怕的苹果验证机制](https://www.v2ex.com/t/769272) 
 - [2021-04-09-身边有多少人每天都听罗辑思维？](https://www.v2ex.com/t/769271) 
@@ -39,8 +42,6 @@
 - [2021-04-08-求助：-Mac-系统升级后无法备份微信聊天记录](https://www.v2ex.com/t/769229) 
 - [2021-04-08-我的插件也上架-idea-了](https://www.v2ex.com/t/769228) 
 - [2021-04-08-求助，阿里云-云开发平台连接阿里云-RDS-失败](https://www.v2ex.com/t/769227) 
-- [2021-04-08-转出地无该参保人参保关系问题](https://www.v2ex.com/t/769226) 
-- [2021-04-08-百度云超级会员分享，-5-元每小时，保证独享。](https://www.v2ex.com/t/769225) 
 - [2021-04-09-澳洲联邦银行发生大规模技术故障-有人被二次收费有人却被清空房贷](https://sec.thief.one/article_content?a_id=dbc14a46e42062daee0e51f3309f1422) 
 - [2021-04-09-EuroS&P-2021-论文录用列表](https://sec.thief.one/article_content?a_id=9a41f8090920c3b1e7b6d725603f8c5a) 
 - [2021-04-09-蓝队必看!微步在线TDP已支持检测多个在野0day攻击](https://sec.thief.one/article_content?a_id=91bbe240ef106855ea63e25457fb7680) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-09 08:03:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-09 08:25:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -34,12 +34,12 @@
 - [2021-04-02-面试官问：前后端分离项目，有什么优缺点？我说：没](https://www.ershicimi.com/p/6771b9391a83b562ab70beb296e2575a) 
 - [2021-04-07-前阿里丁奇：说个-MySQL-面试的普遍问题-|-极客时间](https://www.ershicimi.com/p/b45e95e3acb27311bf4ae88ac0446b45) 
 - [2021-03-24-字节跳动高频100道核心前端面试题解析](https://www.ershicimi.com/p/bd6c66f84e2c88714b5520bdbd5e1927) 
+- [2021-04-09-Hiretual-北京研发中心-招聘大量技术岗、非技术岗-欢迎来撩！](https://www.v2ex.com/t/769480) 
+- [2021-04-09-阿里巴巴-钉钉-Android-客户端-招聘](https://www.v2ex.com/t/769479) 
 - [2021-04-09-腾讯在线教育前端招聘-大量-HC](https://www.v2ex.com/t/769455) 
 - [2021-04-09-上海思勰投资招聘-PM、软件开发、数据岗位](https://www.v2ex.com/t/769452) 
-- [2021-04-09-阿里巴巴---杭州-年增速-30+%的-天猫国际技术部招聘实习生~](https://www.v2ex.com/t/769440) 
-- [2021-04-09-上海思勰投资招聘-量化研究员、C++软件开发工程师](https://www.v2ex.com/t/769436) 
 - [2021-04-09-面试官逼疯面试者：聊聊多进程场景下-Logging-的解决方案？](https://toutiao.io/k/rurr11k) 
 - [2021-04-09-看看，我如何在面试官前吹牛-P](https://toutiao.io/k/nilgqik) 
-- [2021-04-09-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) 
 - [2021-04-09-推荐-再见-Go-面试官：GMP-模型，为什么要有-P？](https://toutiao.io/k/2fe4jjq) 
 - [2021-04-09-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) 
+- [2021-04-09-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) 

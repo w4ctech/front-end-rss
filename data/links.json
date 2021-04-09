@@ -9,7 +9,18 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "全国｜新增确诊 21 例 其中本土 8 例（均在云南）",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1oJ3WpqPy0jBb5fosMe7210409&isfromapp=1",
+        "date": "2021-04-09"
+      },
+      {
+        "title": "云南｜新增确诊 8 例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIqwiKjx6j7Uoj7i8RlqJ210409&isfromapp=1",
+        "date": "2021-04-08"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",
@@ -2712,6 +2723,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有什么办法可以实现 DVI to Type-c (LG UltraFine)",
+        "link": "https://www.v2ex.com/t/769490",
+        "date": "2021-04-09"
+      },
+      {
+        "title": "绞尽脑汁，都怎么起的设备名？",
+        "link": "https://www.v2ex.com/t/769488",
+        "date": "2021-04-09"
+      },
+      {
+        "title": "开发者合并特性分支到主干分支，除了通过操作 Gitlab 的网页发起 Merge request，有别的方式吗？",
+        "link": "https://www.v2ex.com/t/769487",
+        "date": "2021-04-09"
+      },
+      {
+        "title": "专门为片荒、不知道看什么电影好而设计的一个小玩意",
+        "link": "https://www.v2ex.com/t/769485",
+        "date": "2021-04-09"
+      },
+      {
+        "title": "阿里云的服务器屏蔽了 www.recaptcha.net , 是不是为了变相强迫购买他的收费验证码？",
+        "link": "https://www.v2ex.com/t/769483",
+        "date": "2021-04-09"
+      },
+      {
+        "title": "有了解杭州哪家医院去痣比较靠谱吗",
+        "link": "https://www.v2ex.com/t/769482",
+        "date": "2021-04-09"
+      },
+      {
+        "title": "[Hiretual 北京研发中心] [招聘大量技术岗、非技术岗 欢迎来撩！]",
+        "link": "https://www.v2ex.com/t/769480",
+        "date": "2021-04-09"
+      },
+      {
+        "title": "阿里巴巴-钉钉-Android 客户端-招聘",
+        "link": "https://www.v2ex.com/t/769479",
+        "date": "2021-04-09"
+      },
+      {
         "title": "门户网站技术选型上想问一下",
         "link": "https://www.v2ex.com/t/769477",
         "date": "2021-04-09"
@@ -2864,51 +2915,6 @@
       {
         "title": "后端程序员购买笔记本用于开发",
         "link": "https://www.v2ex.com/t/769441",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "[阿里巴巴 - 杭州] 年增速 30+%的 天猫国际技术部招聘实习生~",
-        "link": "https://www.v2ex.com/t/769440",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "小米 11Ultra 大家使用都有那些问题，我看网上褒贬不一， MIUI12 系统这次被喷的很惨",
-        "link": "https://www.v2ex.com/t/769439",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "有在 m1 安装 ms sql server 的吗？",
-        "link": "https://www.v2ex.com/t/769437",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "[上海思勰投资招聘] 量化研究员、C++软件开发工程师",
-        "link": "https://www.v2ex.com/t/769436",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "[上海前端] 前端小哥哥小姐姐快来看啊 试用期不打折，入职配 mac， 20-30k， 13-17 薪，双休，全额公积金\r\n(配图为阿里云王坚)",
-        "link": "https://www.v2ex.com/t/769435",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "使用 jetbrain 的 ide 开发的程序，如果需要 root 用户来执行这个程序，最佳做法是怎么做呢？",
-        "link": "https://www.v2ex.com/t/769434",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "你的浏览器是什么？",
-        "link": "https://www.v2ex.com/t/769433",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "有关谷歌的产品在百度的“大家都在搜上”会出现很离谱的关键词？",
-        "link": "https://www.v2ex.com/t/769432",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "各位 30cm, 问一下 所谓的 service 层中怎么优雅获取当前用户",
-        "link": "https://www.v2ex.com/t/769430",
         "date": "2021-04-09"
       }
     ]
@@ -3081,13 +3087,13 @@
         "date": "2021-04-09"
       },
       {
-        "title": "排错：调用 rxjs 的 ajax 报 'CORS is not supported by your browser'",
-        "link": "https://toutiao.io/k/gtmx1hn",
+        "title": "谈谈动态规划的本质",
+        "link": "https://toutiao.io/k/7jr7mwy",
         "date": "2021-04-09"
       },
       {
-        "title": "谈谈动态规划的本质",
-        "link": "https://toutiao.io/k/7jr7mwy",
+        "title": "排错：调用 rxjs 的 ajax 报 'CORS is not supported by your browser'",
+        "link": "https://toutiao.io/k/gtmx1hn",
         "date": "2021-04-09"
       },
       {
@@ -3126,13 +3132,28 @@
         "date": "2021-04-09"
       },
       {
-        "title": "[推荐] 高并发下如何保证接口的幂等性？",
-        "link": "https://toutiao.io/k/f0361xm",
+        "title": "[推荐] 图文详解 Java 对象内存布局",
+        "link": "https://toutiao.io/k/romtfff",
         "date": "2021-04-09"
       },
       {
-        "title": "[推荐] 这 30 个我精选的含答案的面试题，硬不硬你说吧",
-        "link": "https://toutiao.io/k/v9aar7o",
+        "title": "[推荐] 值得拥有的手绘风格画图工具",
+        "link": "https://toutiao.io/k/ukg83qx",
+        "date": "2021-04-09"
+      },
+      {
+        "title": "[推荐] 再见 Go 面试官：GMP 模型，为什么要有 P？",
+        "link": "https://toutiao.io/k/2fe4jjq",
+        "date": "2021-04-09"
+      },
+      {
+        "title": "[推荐] GitHub 太慢？9 种方案可提速",
+        "link": "https://toutiao.io/k/pufqjt0",
+        "date": "2021-04-09"
+      },
+      {
+        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
+        "link": "https://toutiao.io/k/hti1ill",
         "date": "2021-04-09"
       },
       {
@@ -3146,23 +3167,23 @@
         "date": "2021-04-09"
       },
       {
+        "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
+        "link": "https://toutiao.io/k/47wemjf",
+        "date": "2021-04-09"
+      },
+      {
         "title": "[推荐] 21 张图详解网络基础知识",
         "link": "https://toutiao.io/k/9uox6mg",
         "date": "2021-04-09"
       },
       {
-        "title": "[推荐] 再见 Go 面试官：GMP 模型，为什么要有 P？",
-        "link": "https://toutiao.io/k/2fe4jjq",
+        "title": "[推荐] Go 应用优化指北",
+        "link": "https://toutiao.io/k/6jo6q1t",
         "date": "2021-04-09"
       },
       {
-        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
-        "link": "https://toutiao.io/k/iyge3cy",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "[推荐] GitHub 太慢？9 种方案可提速",
-        "link": "https://toutiao.io/k/pufqjt0",
+        "title": "[推荐] 这 30 个我精选的含答案的面试题，硬不硬你说吧",
+        "link": "https://toutiao.io/k/v9aar7o",
         "date": "2021-04-09"
       },
       {
@@ -3171,28 +3192,13 @@
         "date": "2021-04-09"
       },
       {
-        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
-        "link": "https://toutiao.io/k/hti1ill",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "[推荐] 万字详解整个数据仓库建设体系",
-        "link": "https://toutiao.io/k/ny7vvdw",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "[推荐] 图文详解 Java 对象内存布局",
-        "link": "https://toutiao.io/k/romtfff",
-        "date": "2021-04-09"
-      },
-      {
         "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
         "link": "https://toutiao.io/k/sso4l2l",
         "date": "2021-04-09"
       },
       {
-        "title": "[推荐] 值得拥有的手绘风格画图工具",
-        "link": "https://toutiao.io/k/ukg83qx",
+        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
+        "link": "https://toutiao.io/k/iyge3cy",
         "date": "2021-04-09"
       },
       {

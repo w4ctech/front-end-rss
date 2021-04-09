@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-09 08:03:17，:rocket: 更新条数: +708， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-09 08:25:17，:rocket: 更新条数: +709， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -76,6 +76,8 @@
 </summary>
 
 
+- [2021-04-09-全国｜新增确诊-21-例-其中本土-8-例（均在云南）](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1oJ3WpqPy0jBb5fosMe7210409&isfromapp=1) ![](assets/new.png)  
+- [2021-04-08-云南｜新增确诊-8-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIqwiKjx6j7Uoj7i8RlqJ210409&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -954,6 +956,14 @@
 </summary>
 
 
+- [2021-04-09-有什么办法可以实现-DVI-to-Type-c-LG-UltraFine](https://www.v2ex.com/t/769490) ![](assets/new.png)  
+- [2021-04-09-绞尽脑汁，都怎么起的设备名？](https://www.v2ex.com/t/769488) ![](assets/new.png)  
+- [2021-04-09-开发者合并特性分支到主干分支，除了通过操作-Gitlab-的网页发起-Merge-request，有别的方式吗？](https://www.v2ex.com/t/769487) ![](assets/new.png)  
+- [2021-04-09-专门为片荒、不知道看什么电影好而设计的一个小玩意](https://www.v2ex.com/t/769485) ![](assets/new.png)  
+- [2021-04-09-阿里云的服务器屏蔽了-www.recaptcha.net-,-是不是为了变相强迫购买他的收费验证码？](https://www.v2ex.com/t/769483) ![](assets/new.png)  
+- [2021-04-09-有了解杭州哪家医院去痣比较靠谱吗](https://www.v2ex.com/t/769482) ![](assets/new.png)  
+- [2021-04-09-Hiretual-北京研发中心-招聘大量技术岗、非技术岗-欢迎来撩！](https://www.v2ex.com/t/769480) ![](assets/new.png)  
+- [2021-04-09-阿里巴巴-钉钉-Android-客户端-招聘](https://www.v2ex.com/t/769479) ![](assets/new.png)  
 - [2021-04-09-门户网站技术选型上想问一下](https://www.v2ex.com/t/769477) ![](assets/new.png)  
 - [2021-04-09-上海/golang识货内推，-golang-开发工程师，资深工程师](https://www.v2ex.com/t/769476) ![](assets/new.png)  
 - [2021-04-09-我是真的血压拉满了](https://www.v2ex.com/t/769474) ![](assets/new.png)  
@@ -966,14 +976,6 @@
 - [2021-04-09-typec-接口的-MacBook-可以用任意-pd-快充协议的充电头充电，才知道](https://www.v2ex.com/t/769465) ![](assets/new.png)  
 - [2021-04-09-内推-育碧中国，坐标上海徐汇漕河泾，-Web-全栈开发，招募中。](https://www.v2ex.com/t/769464) ![](assets/new.png)  
 - [2021-04-09-BitLocker-在没有-TPM-的情况下安全吗？](https://www.v2ex.com/t/769463) ![](assets/new.png)  
-- [2021-04-09-抹盘安装-Big-Sur-失败](https://www.v2ex.com/t/769462) ![](assets/new.png)  
-- [2021-04-09-有没有搞乐队的群？](https://www.v2ex.com/t/769461) ![](assets/new.png)  
-- [2021-04-09-有没有做过-IoT-开发的大佬-能指教下怎么实现这两个功能吗-会用到-MQTT](https://www.v2ex.com/t/769459) ![](assets/new.png)  
-- [2021-04-09-小众网站大消亡时代开启？](https://www.v2ex.com/t/769458) ![](assets/new.png)  
-- [2021-04-09-数据库存储的敏感信息是否需要加密存储？](https://www.v2ex.com/t/769456) ![](assets/new.png)  
-- [2021-04-09-腾讯在线教育前端招聘-大量-HC](https://www.v2ex.com/t/769455) ![](assets/new.png)  
-- [2021-04-09-Apple-One-拼车](https://www.v2ex.com/t/769454) ![](assets/new.png)  
-- [2021-04-09-上海思勰投资招聘-PM、软件开发、数据岗位](https://www.v2ex.com/t/769452) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1027,8 +1029,8 @@
 - [2021-04-09-什么是跨职能合作的关键？](https://toutiao.io/k/zg90w4q) ![](assets/new.png)  
 - [2021-04-09-面试官逼疯面试者：聊聊多进程场景下-Logging-的解决方案？](https://toutiao.io/k/rurr11k) ![](assets/new.png)  
 - [2021-04-09-Java-中的三大特性（超详细篇）](https://toutiao.io/k/4trdwmt) ![](assets/new.png)  
-- [2021-04-09-排错：调用-rxjs-的-ajax-报-'CORS-is-not-supported-by-your-browser'](https://toutiao.io/k/gtmx1hn) ![](assets/new.png)  
 - [2021-04-09-谈谈动态规划的本质](https://toutiao.io/k/7jr7mwy) ![](assets/new.png)  
+- [2021-04-09-排错：调用-rxjs-的-ajax-报-'CORS-is-not-supported-by-your-browser'](https://toutiao.io/k/gtmx1hn) ![](assets/new.png)  
 - [2021-04-09-基于-Docker-部署的项目如何和-skywalking-agent-进行整合](https://toutiao.io/k/e7fa0re) ![](assets/new.png)  
 - [2021-04-09-OWASP-十大网站安全风险-（一）：-注入攻击](https://toutiao.io/k/34bglad) ![](assets/new.png)  
 - [2021-04-09-技巧：Chrome、Edge-离线安装-crx-扩展教程](https://toutiao.io/k/abnyird) ![](assets/new.png)  

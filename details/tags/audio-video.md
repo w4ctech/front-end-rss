@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-09 14:50:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-09 15:03:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -85,6 +85,7 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
+- [2021-04-08-成就技术人的创作者-IP-|-《架构师》音视频专刊征稿](https://www.ershicimi.com/p/3c3e9e864f6c1811abb463197a89707a) 
 - [2021-04-09-迫于想做一个弹幕机器人，请问下各种直播平台的弹幕都是怎么获取的？](https://www.v2ex.com/t/769572) 
 - [2021-04-08-【视频】|-工控安全:智能制造行业工控系统安全解决方案](https://sec.thief.one/article_content?a_id=8e41fed4f341269cd74e0b93d0a28e57) 
 - [2021-04-07-【安全圈】特斯拉车内摄像头视频画面曝光-清晰度远超预期](https://sec.thief.one/article_content?a_id=43a0260549cf209c26a0f7f8401b5840) 

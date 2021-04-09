@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-09 14:50:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-09 15:03:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -9,5 +9,6 @@
 
 - [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) 
 - [2021-03-29-十六年全栈开发者的Android开发踩坑实录](https://www.ershicimi.com/p/fc78e8903460597c7ab7d1d77c3afe07) 
+- [2021-04-08-云原生2.0进阶：无所不及的全栈智能](https://www.ershicimi.com/p/8402b6828f8ca183f16b586166a406ae) 
 - [2021-04-09-数据结构与算法之基本概念](https://toutiao.io/k/0krawf7) 
 - [2021-04-09-死磕归并排序算法](https://toutiao.io/k/2fu7lz7) 

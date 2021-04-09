@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-09 00:10:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-09 00:26:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,13 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-04-08-如何禁止应用随意创建目录并存储缓存文件](https://www.v2ex.com/t/769263) 
+- [2021-04-08-北京/远程-星阑科技招聘-大数据研发/渗透测试/安全研究](https://www.v2ex.com/t/769240) 
+- [2021-04-08-chrome-打开新网页时不要覆盖](https://www.v2ex.com/t/769234) 
+- [2021-04-08-【安全圈】加密通讯应用-Signal-支持使用-MobileCoin-进行隐私支付](https://sec.thief.one/article_content?a_id=134243f2cc5a9edf49b08f6142473d7c) 
+- [2021-04-08-「议题前瞻」以数据为中心的安全治理实践丨FreeBuf企业安全俱乐部](https://sec.thief.one/article_content?a_id=948ce9c38074075f6714c2f73ccf779f) 
+- [2021-04-08-2021数字中国创新大赛虎符网络安全赛道线上初赛圆满结束](https://sec.thief.one/article_content?a_id=27649aca0b7da277ddbf81cf1a550df3) 
+- [2021-04-08-征文|陈欣炜:终端安全的一点思考——从机场的终端管控说起](https://sec.thief.one/article_content?a_id=31e00e583c2dff92419a86141b6dc63b) 
 - [2021-04-08-【安全头条】暗网新闻站点DeepDotWeb运营商认罪,-洗钱指控属实](https://sec.thief.one/article_content?a_id=f1fac7b23f700d599f7b57086f017882) 
 - [2021-04-08-信息安全漏洞月报2021年3月](https://sec.thief.one/article_content?a_id=a4b1b20e99eaf26b13f435b588e26b99) 
 - [2021-04-08-美国地产巨头Caruso-Properties接受用比特币支付租金,且分配资产1...](https://sec.thief.one/article_content?a_id=868652eb41fa45e06ae26ddc4c1b4a61) 
@@ -25,6 +32,3 @@
 - [2021-04-06-深化知识图谱技术在网络安全领域融合应用,绿盟科技参与《知识图谱...](https://sec.thief.one/article_content?a_id=40033b94d14d9145249c69a273f55f13) 
 - [2021-04-06-网络安全保障石油化工行业数字化新发展](https://sec.thief.one/article_content?a_id=c2b3ff07c77b2e3f191becac0527b7d6) 
 - [2021-04-06-每日安全动态推送04-06](https://sec.thief.one/article_content?a_id=c3c325dd0c593cf47618bf885560e332) 
-- [2021-04-05-中山大学网络空间安全学院人才招聘](https://sec.thief.one/article_content?a_id=6f273dc1f4691eb608ad653602fe3633) 
-- [2021-04-05-【安全热点周报】第188期:Apache-Druid官方发布安全更新,修复...](https://sec.thief.one/article_content?a_id=bb92202cfaef88993645c3567209f547) 
-- [2021-04-05-看了Chrome收集的个人数据,我发现谷歌被控涉嫌垄断不亏](https://sec.thief.one/article_content?a_id=fc709489f89a2e515d3acfb85181b81f) 

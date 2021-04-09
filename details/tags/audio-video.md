@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-09 00:10:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-09 00:26:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -12,4 +12,3 @@
 - [2021-04-07-【安全圈】特斯拉车内摄像头视频画面曝光-清晰度远超预期](https://sec.thief.one/article_content?a_id=43a0260549cf209c26a0f7f8401b5840) 
 - [2021-04-07-【视频】|-Python:if.else的列表推导](https://sec.thief.one/article_content?a_id=84050c41d17bf9cfe108094d0ba9750c) 
 - [2021-04-06-【视频】|-工控安全:石油化工行业解决方案](https://sec.thief.one/article_content?a_id=66f671c44dc7b96d630397aa3183a105) 
-- [2021-04-05-红队训练营首期线上交流视频](https://sec.thief.one/article_content?a_id=ba8b478821aac8a18e8fbe39e48be37c) 

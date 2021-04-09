@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-09 00:10:17，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-09 00:26:02，:rocket: 更新条数: +155， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -317,9 +317,9 @@
 </summary>
 
 
+- [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html) ![](assets/new.png)  
 - [2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) ![](assets/new.png)  
 - [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) ![](assets/new.png)  
-- [2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -474,6 +474,26 @@
 </summary>
 
 
+- [2021-04-09-ffmpeg-添加-ass-字幕-边框很粗](https://www.v2ex.com/t/769273) ![](assets/new.png)  
+- [2021-04-09-可怕的苹果验证机制](https://www.v2ex.com/t/769272) ![](assets/new.png)  
+- [2021-04-09-身边有多少人每天都听罗辑思维？](https://www.v2ex.com/t/769271) ![](assets/new.png)  
+- [2021-04-09-有-macOS-和-win-平台-多平台的-RSS-工具推荐](https://www.v2ex.com/t/769270) ![](assets/new.png)  
+- [2021-04-08-6700XT-有没有靠谱的购买渠道啊？](https://www.v2ex.com/t/769269) ![](assets/new.png)  
+- [2021-04-08-iCloud-共享文件夹使用疑问？](https://www.v2ex.com/t/769268) ![](assets/new.png)  
+- [2021-04-08-菜鸟-or-蚂蚁-offer-选择题](https://www.v2ex.com/t/769267) ![](assets/new.png)  
+- [2021-04-08-你们好运魄罗每天刷阴间任务吗？](https://www.v2ex.com/t/769266) ![](assets/new.png)  
+- [2021-04-08-家中路由器-openwrt-只接-lan-口用，-ping-不通域名无法自动安装-opkg，编辑/etc/resolv.conf-把-nameserver-指定为局域网网关可解（默认配置是-127.0.0.1），但...](https://www.v2ex.com/t/769264) ![](assets/new.png)  
+- [2021-04-08-如何禁止应用随意创建目录并存储缓存文件](https://www.v2ex.com/t/769263) ![](assets/new.png)  
+- [2021-04-08-请教-在-Windows-PE-的环境下追加具有管理员权限的用户](https://www.v2ex.com/t/769262) ![](assets/new.png)  
+- [2021-04-08-分享一个基于-Ant-Design-Table-的小组件](https://www.v2ex.com/t/769260) ![](assets/new.png)  
+- [2021-04-08-被空降的-leader-拍桌子、指着鼻子骂，如何摆正心态？](https://www.v2ex.com/t/769259) ![](assets/new.png)  
+- [2021-04-08-请问旧-iPhone-数据迁移到新-iPhone-，原生输入法词库会丢失吗？](https://www.v2ex.com/t/769258) ![](assets/new.png)  
+- [2021-04-08-vscode-插件，想要效果：远程有类似-mobaxterm-左侧文件浏览的效果，可以点点点,-cd-到某个文件下，开个-terminal-也是这个路径。](https://www.v2ex.com/t/769257) ![](assets/new.png)  
+- [2021-04-08-所有-iOS-设备在-4-月-26-号前还可更新到已关闭签名的最新可越狱版本：-14.3](https://www.v2ex.com/t/769256) ![](assets/new.png)  
+- [2021-04-08-4.8-号起，可以更换-homepod-默认的音乐播放来源了。](https://www.v2ex.com/t/769255) ![](assets/new.png)  
+- [2021-04-08-联想拯救者-2021-款各种型号有什么区别？](https://www.v2ex.com/t/769254) ![](assets/new.png)  
+- [2021-04-08-大家北京联通国际出口还正常吗？](https://www.v2ex.com/t/769253) ![](assets/new.png)  
+- [2021-04-08-不知道有没有更好的写法](https://www.v2ex.com/t/769252) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -507,6 +527,19 @@
 </summary>
 
 
+- [2021-04-09-澳洲联邦银行发生大规模技术故障-有人被二次收费有人却被清空房贷](https://sec.thief.one/article_content?a_id=dbc14a46e42062daee0e51f3309f1422) ![](assets/new.png)  
+- [2021-04-09-EuroS&P-2021-论文录用列表](https://sec.thief.one/article_content?a_id=9a41f8090920c3b1e7b6d725603f8c5a) ![](assets/new.png)  
+- [2021-04-09-蓝队必看!微步在线TDP已支持检测多个在野0day攻击](https://sec.thief.one/article_content?a_id=91bbe240ef106855ea63e25457fb7680) ![](assets/new.png)  
+- [2021-04-08-20210408|漏洞处置情况](https://sec.thief.one/article_content?a_id=4578cadc250bacc8e7d30c1b233b92bc) ![](assets/new.png)  
+- [2021-04-08-20210408-|-日报](https://sec.thief.one/article_content?a_id=af80016c0d48fa53cbb1e3c218ea53db) ![](assets/new.png)  
+- [2021-04-08-转发有奖-|-攻防第一日漏洞整理及解决方案](https://sec.thief.one/article_content?a_id=26ed2a192a5e99a062cad238b8136584) ![](assets/new.png)  
+- [2021-04-08-【安全圈】加密通讯应用-Signal-支持使用-MobileCoin-进行隐私支付](https://sec.thief.one/article_content?a_id=134243f2cc5a9edf49b08f6142473d7c) ![](assets/new.png)  
+- [2021-04-08-「议题前瞻」以数据为中心的安全治理实践丨FreeBuf企业安全俱乐部](https://sec.thief.one/article_content?a_id=948ce9c38074075f6714c2f73ccf779f) ![](assets/new.png)  
+- [2021-04-08-好家伙,你管这破玩意叫文件系统?](https://sec.thief.one/article_content?a_id=9bac81c7ad24a482d86bd7d24b5d05ff) ![](assets/new.png)  
+- [2021-04-08-2021数字中国创新大赛虎符网络安全赛道线上初赛圆满结束](https://sec.thief.one/article_content?a_id=27649aca0b7da277ddbf81cf1a550df3) ![](assets/new.png)  
+- [2021-04-08-内网系统凭证钓鱼攻击](https://sec.thief.one/article_content?a_id=f04985533f7e8925604be8b52d4c7ddc) ![](assets/new.png)  
+- [2021-04-08-攻防论道之流量王牌|防守方如何实现一体化异常流量追溯](https://sec.thief.one/article_content?a_id=ff9cda5355f549e214db5ab76a814ae3) ![](assets/new.png)  
+- [2021-04-08-征文|陈欣炜:终端安全的一点思考——从机场的终端管控说起](https://sec.thief.one/article_content?a_id=31e00e583c2dff92419a86141b6dc63b) ![](assets/new.png)  
 - [2021-04-08-诺基亚8.1、2.3-可以更新-Android-11-了!](https://sec.thief.one/article_content?a_id=f2cf6b27a18d5f17dd5d674b8db10007) ![](assets/new.png)  
 - [2021-04-08-【漏洞通告】Jellyfin任意文件读取](https://sec.thief.one/article_content?a_id=91bba1e130bb8e67cebfe34380c8ed6d) ![](assets/new.png)  
 - [2021-04-08-【安全头条】暗网新闻站点DeepDotWeb运营商认罪,-洗钱指控属实](https://sec.thief.one/article_content?a_id=f1fac7b23f700d599f7b57086f017882) ![](assets/new.png)  
@@ -514,19 +547,6 @@
 - [2021-04-08-信息安全漏洞月报2021年3月](https://sec.thief.one/article_content?a_id=a4b1b20e99eaf26b13f435b588e26b99) ![](assets/new.png)  
 - [2021-04-08-美国地产巨头Caruso-Properties接受用比特币支付租金,且分配资产1...](https://sec.thief.one/article_content?a_id=868652eb41fa45e06ae26ddc4c1b4a61) ![](assets/new.png)  
 - [2021-04-08-教育部发文加强新时代教育管理信息化,重点强调安全保障能力](https://sec.thief.one/article_content?a_id=59900cae4da4831f47e3b2a7a5298342) ![](assets/new.png)  
-- [2021-04-08-HW娱乐板块-你们都是天才~](https://sec.thief.one/article_content?a_id=a5a0cbf5e730824c44f95db72df7d7bf) ![](assets/new.png)  
-- [2021-04-08-4月8日贵币GUIBI早内参-财富管理巨头DA-Davidson将Coinbase股票目...](https://sec.thief.one/article_content?a_id=b245012f6a4633cfcd6c9c7379511c64) ![](assets/new.png)  
-- [2021-04-08-专家发现Facebook-for-WordPress插件中存在两个漏洞](https://sec.thief.one/article_content?a_id=7deed58c4d5b6f0569628d097c06626c) ![](assets/new.png)  
-- [2021-04-08-16位师傅榜上有名,xmsl!!](https://sec.thief.one/article_content?a_id=d94dab6bc800530991889a0335a86821) ![](assets/new.png)  
-- [2021-04-08-记一次SSRF->getshell](https://sec.thief.one/article_content?a_id=d441a3dc343f4a93711ffd9048519d5e) ![](assets/new.png)  
-- [2021-04-08-PHP代码审计要点](https://sec.thief.one/article_content?a_id=d828ba530be0aa121f8c8eab580716a9) ![](assets/new.png)  
-- [2021-04-08-工信部发文称智能网联汽车不得泄露敏感信息](https://sec.thief.one/article_content?a_id=ea3a14c94d6a5c80ec3dc028a14b2744) ![](assets/new.png)  
-- [2021-04-08-VMware-Carbon-Black-Cloud-Workload身份验证绕过漏洞预警](https://sec.thief.one/article_content?a_id=ac5e59a6c7a8a58d3e42cec7024c28c1) ![](assets/new.png)  
-- [2021-04-08-S&P-2021-论文录用列表](https://sec.thief.one/article_content?a_id=0d90978136cf98e2b82df1eff93a9177) ![](assets/new.png)  
-- [2021-04-08-红蓝必备-你需要了解的weblogic攻击手法](https://sec.thief.one/article_content?a_id=b8e1bfc2cf3e932042a7fb551140d7fb) ![](assets/new.png)  
-- [2021-04-08-Wifi万能钥匙已经OUT了!Github这个开源工具不要太好用](https://sec.thief.one/article_content?a_id=71b098ba57fe914f76a3a21ec07c79f5) ![](assets/new.png)  
-- [2021-04-08-程序员严峻的生存状态](https://sec.thief.one/article_content?a_id=1efa2786e648fb325e8b46cbeef4892e) ![](assets/new.png)  
-- [2021-04-08-谷歌高管地震:AI研究部门联合创始人Samy-Bengio宣布辞职](https://sec.thief.one/article_content?a_id=560031f5380281bef55a6c95de60d37e) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

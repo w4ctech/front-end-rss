@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-09 18:24:36，:rocket: 更新条数: +710， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-09 20:39:07，:rocket: 更新条数: +4203， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-04-09-最新疫情：全国新冠累计确诊90386例-累计接种新冠疫苗超1.55亿剂次](https://m.caixin.com/m/2021-04-09/101688101.html) ![](assets/new.png)  
+- [2021-04-09-专访|丹麦血清研究所：如何应对水貂新冠疫情？](http://m.science.caixin.com/m/2021-04-09/101688265.html) ![](assets/new.png)  
+- [2021-04-09-数字说｜全球14款疫苗上市-中国如何避免成为“疫苗接种洼地”？（更新中）](http://m.datanews.caixin.com/m/2021-04-09/101688187.html) ![](assets/new.png)  
+- [2021-04-09-中国明年新冠疫苗目标产能50亿-企业着手研究加强针](https://m.caixin.com/m/2021-04-09/101687946.html) ![](assets/new.png)  
+- [2021-04-09-最新海外疫情：新冠感染近1.34亿-累计死亡超289万](https://m.caixin.com/m/2021-04-09/101688092.html) ![](assets/new.png)  
+- [2021-04-09-云南瑞丽4月8日新增新冠确诊8例-现有确诊87例](https://m.caixin.com/m/2021-04-09/101687661.html) ![](assets/new.png)  
+- [2021-04-09-【境内疫情观察】云南新增8例本土病例（4月8日）](http://m.database.caixin.com/m/2021-04-09/101687884.html) ![](assets/new.png)  
+- [2021-04-09-多国调整阿斯利康疫苗接种计划-欧盟拨1.23亿欧元研究变异病毒｜大流行手记（4月8日）](https://m.caixin.com/m/2021-04-09/101687676.html) ![](assets/new.png)  
+- [2021-04-08-云南瑞丽4月7日新增新冠确诊病例11例-无症状感染者1例](https://m.caixin.com/m/2021-04-08/101687061.html) ![](assets/new.png)  
+- [2021-04-08-【境内疫情观察】云南新增11例本土病例（4月7日）](http://m.database.caixin.com/m/2021-04-08/101687280.html) ![](assets/new.png)  
+- [2021-04-08-研究证新冠患者易得精神和神经疾病-南非变异病毒威胁巴西｜大流行手记（4月7日）](https://m.caixin.com/m/2021-04-08/101687084.html) ![](assets/new.png)  
+- [2021-04-08-疫情防控严重失职失责-瑞丽书记龚云尊被撤职](http://m.china.caixin.com/m/2021-04-08/101687105.html) ![](assets/new.png)  
+- [2021-04-07-云南瑞丽4月6日新增新冠2例-现有确诊病例68例](https://m.caixin.com/m/2021-04-07/101686377.html) ![](assets/new.png)  
+- [2021-04-07-【境内疫情观察】云南瑞丽近8日累计确诊65例（4月6日）](http://m.database.caixin.com/m/2021-04-07/101686703.html) ![](assets/new.png)  
+- [2021-04-07-阿斯利康疫苗被指与脑血栓有联系-加拿大遭第三波疫情冲击｜大流行手记（4月6日）](https://m.caixin.com/m/2021-04-07/101686371.html) ![](assets/new.png)  
+- [2021-04-06-云南瑞丽4月5日新增新冠确诊病例15例-无症状感染者2例](https://m.caixin.com/m/2021-04-06/101685875.html) ![](assets/new.png)  
+- [2021-04-06-【境内疫情观察】云南瑞丽新增3处高风险地区（4月5日）](http://m.database.caixin.com/m/2021-04-06/101686077.html) ![](assets/new.png)  
+- [2021-04-06-英国推每人每周两次新冠快检-大阪取消奥运火炬传递｜大流行手记（4月5日）](https://m.caixin.com/m/2021-04-06/101685932.html) ![](assets/new.png)  
+- [2021-04-05-云南瑞丽4月4日新增新冠确诊病例15例-无症状感染者5例](https://m.caixin.com/m/2021-04-05/101685796.html) ![](assets/new.png)  
+- [2021-04-05-【境内疫情观察】云南瑞丽新增15例本土病例（4月4日）](http://m.database.caixin.com/m/2021-04-05/101685814.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -956,6 +976,11 @@
 </summary>
 
 
+- [2021-04-09-openwrt-里面不能自动挂载-SD-卡和-USB-移动硬盘，能识别就是不能按照我的要求挂载....](https://www.v2ex.com/t/769624) ![](assets/new.png)  
+- [2021-04-09-请教个爬虫问题，或者说是-API-调用后数据使用法律风险问题](https://www.v2ex.com/t/769622) ![](assets/new.png)  
+- [2021-04-09-小厂刚工作一年的小前端想问一下现在市面上情况。。。](https://www.v2ex.com/t/769621) ![](assets/new.png)  
+- [2021-04-09-Samsung-iTest](https://www.v2ex.com/t/769620) ![](assets/new.png)  
+- [2021-04-09-分享一个显示器亮度调节软件](https://www.v2ex.com/t/769619) ![](assets/new.png)  
 - [2021-04-09-使用-pmset-指令重新设定-Macbook-的休眠设定，减轻-Mojava-之后的系统合盖耗电的情况](https://www.v2ex.com/t/769618) ![](assets/new.png)  
 - [2021-04-09-求推荐一款小型家用服务器](https://www.v2ex.com/t/769617) ![](assets/new.png)  
 - [2021-04-09-《保险的套路与真相》持续更新中……](https://www.v2ex.com/t/769616) ![](assets/new.png)  
@@ -971,11 +996,6 @@
 - [2021-04-09-哪家服务可以给音频加上字幕](https://www.v2ex.com/t/769605) ![](assets/new.png)  
 - [2021-04-09-VPS-忘记续费，居然还一直在运行，有点慌怎么办](https://www.v2ex.com/t/769604) ![](assets/new.png)  
 - [2021-04-09-聊天助手，辅助。直男救星](https://www.v2ex.com/t/769603) ![](assets/new.png)  
-- [2021-04-09-请问有没有-h5-可以接入的广告联盟](https://www.v2ex.com/t/769602) ![](assets/new.png)  
-- [2021-04-09-chrome-浏览器，更新了头像后可以同步，但是书签始终同步不了，感觉要换-edge-了](https://www.v2ex.com/t/769601) ![](assets/new.png)  
-- [2021-04-09-iOS-14.5-正式版上线后，大家不更新的理由是什么](https://www.v2ex.com/t/769598) ![](assets/new.png)  
-- [2021-04-09-求助怎么在-Linux-下编译-macOS-程序？](https://www.v2ex.com/t/769596) ![](assets/new.png)  
-- [2021-04-09-百度短网址不让个人使用了，怎么办？](https://www.v2ex.com/t/769595) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1026,8 +1046,8 @@
 - [2021-04-09-妙啊!-程序猿的第一本互联网黑话指南](https://toutiao.io/k/sxvtm0l) ![](assets/new.png)  
 - [2021-04-09-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w) ![](assets/new.png)  
 - [2021-04-09-谈谈动态规划的本质](https://toutiao.io/k/7jr7mwy) ![](assets/new.png)  
-- [2021-04-09-数据库，逻辑删还是物理删？](https://toutiao.io/k/z5qd1f3) ![](assets/new.png)  
 - [2021-04-09-Java-中的三大特性（超详细篇）](https://toutiao.io/k/4trdwmt) ![](assets/new.png)  
+- [2021-04-09-数据库，逻辑删还是物理删？](https://toutiao.io/k/z5qd1f3) ![](assets/new.png)  
 - [2021-04-09-面试官逼疯面试者：聊聊多进程场景下-Logging-的解决方案？](https://toutiao.io/k/rurr11k) ![](assets/new.png)  
 - [2021-04-09-什么是跨职能合作的关键？](https://toutiao.io/k/zg90w4q) ![](assets/new.png)  
 - [2021-04-09-基于-Docker-部署的项目如何和-skywalking-agent-进行整合](https://toutiao.io/k/e7fa0re) ![](assets/new.png)  

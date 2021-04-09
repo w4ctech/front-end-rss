@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-09 08:41:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-09 08:54:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -12,3 +12,5 @@
 - [2021-03-31-面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219) 
 - [2021-04-08-云原生2.0进阶：无所不及的全栈智能](https://www.ershicimi.com/p/8402b6828f8ca183f16b586166a406ae) 
 - [2021-04-09-内推-育碧中国，坐标上海徐汇漕河泾，-Web-全栈开发，招募中。](https://www.v2ex.com/t/769464) 
+- [2021-04-09-数据结构与算法之基本概念](https://toutiao.io/k/0krawf7) 
+- [2021-04-09-死磕归并排序算法](https://toutiao.io/k/2fu7lz7) 

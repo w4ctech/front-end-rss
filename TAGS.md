@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-08 23:52:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-09 00:05:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -236,6 +236,8 @@
 - [【安全热点】【视频】|-Python:if.else的列表推导](https://sec.thief.one/article_content?a_id=84050c41d17bf9cfe108094d0ba9750c)
 - [【安全热点】【视频】|-工控安全:石油化工行业解决方案](https://sec.thief.one/article_content?a_id=66f671c44dc7b96d630397aa3183a105)
 - [【安全热点】红队训练营首期线上交流视频](https://sec.thief.one/article_content?a_id=ba8b478821aac8a18e8fbe39e48be37c)
+- [【物联网智库】专为物联网而生的TinyML，正在开启音频分析的新蓝海【物女心经】](https://www.ershicimi.com/p/65577c72f00d8570cd76830a0130d011)
+- [【物联网智库】70元10个ID，全国数万家庭摄像头遭入侵，按刺激程度标价，物联网安全如此不堪一击？](https://www.ershicimi.com/p/c237e44d64b47701faf7049503a55c9e)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -410,6 +412,8 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)
+- [【V2EX】6700XT-有没有靠谱的购买渠道啊？](https://www.v2ex.com/t/769269)
+- [【V2EX】iCloud-共享文件夹使用疑问？](https://www.v2ex.com/t/769268)
 - [【V2EX】菜鸟-or-蚂蚁-offer-选择题](https://www.v2ex.com/t/769267)
 - [【V2EX】你们好运魄罗每天刷阴间任务吗？](https://www.v2ex.com/t/769266)
 - [【V2EX】请教-在-Windows-PE-的环境下追加具有管理员权限的用户](https://www.v2ex.com/t/769262)
@@ -424,8 +428,6 @@
 - [【V2EX】2021-年，互联网越来越封闭了。豆瓣-API-都没了](https://www.v2ex.com/t/769247)
 - [【V2EX】公开在网络上的内容，如果被他人拿去申请了版权、商标或专利等，可能反过来起诉原作者么？](https://www.v2ex.com/t/769246)
 - [【V2EX】上海/杭州/北京/武汉社招/校招/实习四月冲鸭抖音电商后端开发工程师](https://www.v2ex.com/t/769245)
-- [【V2EX】深圳腾讯音乐-2021-年暑期实习生内推！可跟踪流程进度。](https://www.v2ex.com/t/769244)
-- [【V2EX】请教-ubuntu-怎么返回成正常桌面](https://www.v2ex.com/t/769243)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

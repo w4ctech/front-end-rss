@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-08 23:52:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-09 00:05:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-08-6700XT-有没有靠谱的购买渠道啊？](https://www.v2ex.com/t/769269) 
+- [2021-04-08-iCloud-共享文件夹使用疑问？](https://www.v2ex.com/t/769268) 
 - [2021-04-08-菜鸟-or-蚂蚁-offer-选择题](https://www.v2ex.com/t/769267) 
 - [2021-04-08-你们好运魄罗每天刷阴间任务吗？](https://www.v2ex.com/t/769266) 
 - [2021-04-08-家中路由器-openwrt-只接-lan-口用，-ping-不通域名无法自动安装-opkg，编辑/etc/resolv.conf-把-nameserver-指定为局域网网关可解（默认配置是-127.0.0.1），但...](https://www.v2ex.com/t/769264) 
@@ -44,5 +46,3 @@
 - [2021-04-08-mac-系统下-google-chrome-在书签栏打开新网页的同时新建一个标签页打开](https://www.v2ex.com/t/769223) 
 - [2021-04-08-「重拾-DIY-的快乐」便携显示器制作和小米-6-换电池图文分享](https://www.v2ex.com/t/769221) 
 - [2021-04-08-养老保险基数又涨了？](https://www.v2ex.com/t/769220) 
-- [2021-04-08-无聊了，问个统计性问题](https://www.v2ex.com/t/769219) 
-- [2021-04-08-明天要官宣分区了](https://www.v2ex.com/t/769218) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-09 02:22:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-09 02:30:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-09-视频：给你看一个开发运维的效率加速器-CloudQuery！](https://www.v2ex.com/t/769329) 
 - [2021-04-09-测试测试，试一下](https://www.v2ex.com/t/769328) 
 - [2021-04-09-mac-无法访问-windows-共享文件夹](https://www.v2ex.com/t/769327) 
 - [2021-04-09-Linux-下一些配置文件以数字开头,这些数字有什么特殊含义么?](https://www.v2ex.com/t/769326) 

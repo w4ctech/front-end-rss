@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2021-04-09 07:38:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-09 07:50:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-09-关于-Bitnami-的-Helm-Chart-持久化配置的几个疑惑](https://www.v2ex.com/t/769470) 
+- [2021-04-09-有没有备考雅思的群？](https://www.v2ex.com/t/769469) 
+- [2021-04-09-iphone12-音量问题](https://www.v2ex.com/t/769468) 
+- [2021-04-09-手机官方过保，但是店铺发现居然有延保一年，申请维修时遇到的问题](https://www.v2ex.com/t/769467) 
+- [2021-04-09-iOS-端的美团和豆瓣为什么这么卡](https://www.v2ex.com/t/769466) 
+- [2021-04-09-typec-接口的-MacBook-可以用任意-pd-快充协议的充电头充电，才知道](https://www.v2ex.com/t/769465) 
 - [2021-04-09-内推-育碧中国，坐标上海徐汇漕河泾，-Web-全栈开发，招募中。](https://www.v2ex.com/t/769464) 
 - [2021-04-09-BitLocker-在没有-TPM-的情况下安全吗？](https://www.v2ex.com/t/769463) 
 - [2021-04-09-抹盘安装-Big-Sur-失败](https://www.v2ex.com/t/769462) 
@@ -43,6 +49,3 @@
 - [2021-04-09-Java-语法糖的探讨：-如何简化没有-else-的-if-语句写法](https://www.v2ex.com/t/769423) 
 - [2021-04-09-咨询一个关于-APK-签名验证的问题](https://www.v2ex.com/t/769422) 
 - [2021-04-09-idea-鼠标自动移动到确认按钮上](https://www.v2ex.com/t/769421) 
-- [2021-04-09-QQ-群需要存储一些培训视频，但是-10G-已经满了，有什么办法扩充存储么](https://www.v2ex.com/t/769419) 
-- [2021-04-09-请教一下搞-ios-开发的-v-友，-app-支持-web-页面带#号的哈希路由应该不复杂吧](https://www.v2ex.com/t/769417) 
-- [2021-04-09-有用-nextcloud-的朋友吗？上传文件时-PHP--fpm-的-disk-write-总是实际上传速度的-1-倍，你们也这样吗？](https://www.v2ex.com/t/769415) 

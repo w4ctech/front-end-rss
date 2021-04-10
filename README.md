@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-10 13:51:20，:rocket: 更新条数: +4186， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-10 14:38:20，:rocket: 更新条数: +4186， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -976,6 +976,14 @@
 </summary>
 
 
+- [2021-04-10-为了分散风险，把鸡蛋放多个篮子里，未必就是个通用的解……](https://www.v2ex.com/t/769791) ![](assets/new.png)  
+- [2021-04-10-不懂就问，-iOS-的通知推送需要付费吗？](https://www.v2ex.com/t/769790) ![](assets/new.png)  
+- [2021-04-10-讨论修改-V2EX-网站背景色需要几步。](https://www.v2ex.com/t/769789) ![](assets/new.png)  
+- [2021-04-10-问个-Linux-问题，纠结一下午了，关于-user-和-group,-/etc/passwd-和-/etc/group](https://www.v2ex.com/t/769788) ![](assets/new.png)  
+- [2021-04-10-iOS-14.4.2-无法验证更新-求助如何解决啊](https://www.v2ex.com/t/769787) ![](assets/new.png)  
+- [2021-04-10-关于小米电纸书-Pro-的一些体验](https://www.v2ex.com/t/769785) ![](assets/new.png)  
+- [2021-04-10-整点极客时间课程，突击面试啦](https://www.v2ex.com/t/769784) ![](assets/new.png)  
+- [2021-04-10-北京-招聘兼职阿里云-IoT-物联网-Web-平台-Java-开发](https://www.v2ex.com/t/769783) ![](assets/new.png)  
 - [2021-04-10-反代-Google-Analytics？](https://www.v2ex.com/t/769781) ![](assets/new.png)  
 - [2021-04-10-iPad-没出问题，怎么去直营店换新？马上-apple-care-要到期了](https://www.v2ex.com/t/769780) ![](assets/new.png)  
 - [2021-04-10-最近要订婚，穿什么衣服比较好？](https://www.v2ex.com/t/769779) ![](assets/new.png)  
@@ -988,14 +996,6 @@
 - [2021-04-10-用的-V2,-有没有办法避免跳出谷歌的人机验证啊,-打开一次谷歌搜索,-弹出一次,-太烦了](https://www.v2ex.com/t/769771) ![](assets/new.png)  
 - [2021-04-10-酷瓜云课堂（腾讯云版）v1.3.1-发布，开源在线教育解决方案](https://www.v2ex.com/t/769770) ![](assets/new.png)  
 - [2021-04-10-腾讯不开发-Linux-版本的软件，算不算利用垄断作恶](https://www.v2ex.com/t/769768) ![](assets/new.png)  
-- [2021-04-10-美团收银青春版-不干胶打印机无法打印商品名称和-id-的问题](https://www.v2ex.com/t/769766) ![](assets/new.png)  
-- [2021-04-10-AirPods-最新固件版本是多少？](https://www.v2ex.com/t/769764) ![](assets/new.png)  
-- [2021-04-10-你们都是怎么维护多个代码服务器的](https://www.v2ex.com/t/769763) ![](assets/new.png)  
-- [2021-04-10-公司要把很多的合同、文件、图纸、档案等各种各样的公司文件都要归档。现在很苦恼，有没有合适的平台或软件可以做管理啊](https://www.v2ex.com/t/769762) ![](assets/new.png)  
-- [2021-04-10-HomePod-使用网易云音乐作为默认服务的设置方法](https://www.v2ex.com/t/769759) ![](assets/new.png)  
-- [2021-04-10-请教诸位一个-redis-统计访问量增速的问题](https://www.v2ex.com/t/769758) ![](assets/new.png)  
-- [2021-04-10-遇到诈骗电话如何举报有效](https://www.v2ex.com/t/769757) ![](assets/new.png)  
-- [2021-04-10-大家有没有推荐的播客栏目？](https://www.v2ex.com/t/769755) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1041,23 +1041,23 @@
 - [2021-04-10-译-生存指南之-CORS-+-API-Gateway](https://toutiao.io/k/bdr9xsb) ![](assets/new.png)  
 - [2021-04-10-美团弹性伸缩系统的技术演进与落地实践](https://toutiao.io/k/cdkjc3r) ![](assets/new.png)  
 - [2021-04-10-手摸手教你阅读和调试大型开源项目-ZooKeeper](https://toutiao.io/k/y1lq4em) ![](assets/new.png)  
-- [2021-04-10-monkey-api-encrypt-又增强了一个实用功能](https://toutiao.io/k/3qy2z6i) ![](assets/new.png)  
 - [2021-04-10-代码为王的时代：车企如何掌握卓越软件开发能力](https://toutiao.io/k/11eua30) ![](assets/new.png)  
+- [2021-04-10-monkey-api-encrypt-又增强了一个实用功能](https://toutiao.io/k/3qy2z6i) ![](assets/new.png)  
 - [2021-04-10-Flutter-Boost-3.0-初探](https://toutiao.io/k/vt2226s) ![](assets/new.png)  
 - [2021-04-10-升级-Dubbo，小心-default.version](https://toutiao.io/k/7d0xius) ![](assets/new.png)  
 - [2021-04-10-约定式路由的菜单数据生成方案](https://toutiao.io/k/i9t6vw1) ![](assets/new.png)  
 - [2021-04-10-ZLT-MP-v4.4.0-发布](https://toutiao.io/k/9g83hmz) ![](assets/new.png)  
 - [2021-04-10-“伪共享”-凌乱记](https://toutiao.io/k/85g2l2v) ![](assets/new.png)  
-- [2021-04-10-推荐-万字详解整个数据仓库建设体系](https://toutiao.io/k/ny7vvdw) ![](assets/new.png)  
-- [2021-04-10-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
-- [2021-04-10-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
-- [2021-04-10-推荐-再见-Go-面试官：GMP-模型，为什么要有-P？](https://toutiao.io/k/2fe4jjq) ![](assets/new.png)  
+- [2021-04-10-推荐-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) ![](assets/new.png)  
+- [2021-04-10-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
 - [2021-04-10-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
-- [2021-04-10-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
-- [2021-04-10-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
-- [2021-04-10-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
-- [2021-04-10-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
 - [2021-04-10-推荐-译-Uber：面向领域的微服务架构](https://toutiao.io/k/0yy2iga) ![](assets/new.png)  
+- [2021-04-10-推荐-再见-Go-面试官：GMP-模型，为什么要有-P？](https://toutiao.io/k/2fe4jjq) ![](assets/new.png)  
+- [2021-04-10-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
+- [2021-04-10-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
+- [2021-04-10-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
+- [2021-04-10-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
+- [2021-04-10-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

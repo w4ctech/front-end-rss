@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-10 17:07:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-10 17:30:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -27,7 +27,7 @@
 - [2021-04-01-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/0f7831329d88ca1193fc9a243e19e7f8) 
 - [2021-04-08-一名合格的前端工程师需要掌握的浏览器渲染笔记](https://www.ershicimi.com/p/b37c42536333398c3047a0473a4bc76b) 
 - [2021-03-30-URL输入后按回车，浏览器内部究竟发生了什么](https://www.ershicimi.com/p/254b54b63be6e9a152b5fd123b894f27) 
-- [2021-03-09-那些与-IE-相伴的日子](https://www.ershicimi.com/p/d9c911d3c0835bf8f9743b70add1478c) 
+- [2021-03-30-前端工程师，一定要懂哪些浏览器原理？](https://www.ershicimi.com/p/41ef527a1733f53e3f949568bf2bcf2e) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2021-04-10-给请求在代码里加上了-SNI-但是发布到服务器上-https-请求里没有带](https://www.v2ex.com/t/769774) 
 - [2021-04-10-奇安信与德阳市政府达成战略合作-共建西部特色网络安全之城](https://sec.thief.one/article_content?a_id=b51e99f5ba385efe03769f598d5c62e5) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-10 03:08:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-10 05:08:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -81,6 +81,5 @@
 - [2021-03-25-王一博、谭松韵相继终止合作，是时候讲讲新疆棉花事件背后的真相了](https://www.ershicimi.com/p/5fc4b43f5acbcbdf036fb9b2be7b2fcc) 
 - [2021-04-10-软路由下的路由器-wps-桥接会影响-DHCP-吗？](https://www.v2ex.com/t/769659) 
 - [2021-04-10-高频题面试经典题目--前缀和数组](https://www.v2ex.com/t/769649) 
-- [2021-04-09-求助-VS-Code-如何自动加载-PYTHONPATH-等环境变量-已善用搜索](https://www.v2ex.com/t/769615) 
-- [2021-04-09-出租房用什么路由器或者交换机性价比高，不用刷机的](https://www.v2ex.com/t/769613) 
 - [2021-04-10-JavaScript-奇葩知识大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14250&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVAzk0r95EAVho5jskcTc2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-04-10-约定式路由的菜单数据生成方案](https://toutiao.io/k/i9t6vw1) 

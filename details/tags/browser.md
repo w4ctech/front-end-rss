@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-10 03:08:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-10 05:08:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,6 +35,8 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-04-10-腾讯-Code-Review-规范出炉！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-04-10-译-生存指南之-CORS-+-API-Gateway](https://toutiao.io/k/bdr9xsb) 
+- [2021-04-10-手摸手教你阅读和调试大型开源项目-ZooKeeper](https://toutiao.io/k/y1lq4em) 
 - [2021-04-09-【安全圈】安全研究人员在-Pwn2Own-黑客大赛中发现-Safari-漏洞](https://sec.thief.one/article_content?a_id=b89b0e6b5a7fcc834aed8db1e52b79e5) 
 - [2021-04-09-针对某终端安全自检钓鱼工具的分析](https://sec.thief.one/article_content?a_id=58d702a4f591ce558e2860e795a3959c) 
 - [2021-04-09-线下活动丨业务安全攻防实践沙龙报名开启4.15-上海](https://sec.thief.one/article_content?a_id=cd9d6eabf638a408610e9975b0a5c7ec) 

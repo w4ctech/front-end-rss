@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-10 14:38:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-10 15:40:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,7 +36,6 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-04-10-给请求在代码里加上了-SNI-但是发布到服务器上-https-请求里没有带](https://www.v2ex.com/t/769774) 
-- [2021-04-10-mongodb-中-ListField-的-自定义顺序？](https://www.v2ex.com/t/769750) 
 - [2021-04-10-腾讯-Code-Review-规范出炉！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-10-译-生存指南之-CORS-+-API-Gateway](https://toutiao.io/k/bdr9xsb) 
 - [2021-04-10-手摸手教你阅读和调试大型开源项目-ZooKeeper](https://toutiao.io/k/y1lq4em) 

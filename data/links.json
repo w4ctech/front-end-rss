@@ -5,6 +5,16 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "最新疫情：全国新冠累计确诊90400例 累计接种新冠疫苗超1.61亿剂次",
+        "link": "https://m.caixin.com/m/2021-04-10/101688578.html",
+        "date": "2021-04-10"
+      },
+      {
+        "title": "最新海外疫情：新冠感染超1.34亿 累计死亡超290万",
+        "link": "https://m.caixin.com/m/2021-04-10/101688581.html",
+        "date": "2021-04-10"
+      },
+      {
         "title": "【境内疫情观察】全国新增14例境外输入病例（4月9日）",
         "link": "http://m.database.caixin.com/m/2021-04-10/101688525.html",
         "date": "2021-04-10"
@@ -20184,6 +20194,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "微信突然可以使用 callKit？",
+        "link": "https://www.v2ex.com/t/769800",
+        "date": "2021-04-10"
+      },
+      {
+        "title": "有没有安卓版的微信多开 APP？",
+        "link": "https://www.v2ex.com/t/769798",
+        "date": "2021-04-10"
+      },
+      {
+        "title": "Clickhouse，你们是怎样防止重复插入数据的呢",
+        "link": "https://www.v2ex.com/t/769796",
+        "date": "2021-04-10"
+      },
+      {
+        "title": "Gitbook 停止维护之后，还有哪些值得推荐的电子书文档制作工具？",
+        "link": "https://www.v2ex.com/t/769795",
+        "date": "2021-04-10"
+      },
+      {
+        "title": "备份照片还是得用 Google Photos",
+        "link": "https://www.v2ex.com/t/769794",
+        "date": "2021-04-10"
+      },
+      {
+        "title": "上海的 EVCARD 发生了什么？",
+        "link": "https://www.v2ex.com/t/769793",
+        "date": "2021-04-10"
+      },
+      {
         "title": "为了分散风险，把鸡蛋放多个篮子里，未必就是个通用的解……",
         "link": "https://www.v2ex.com/t/769791",
         "date": "2021-04-10"
@@ -20326,31 +20366,6 @@
       {
         "title": "感觉好多公司对经验有偏见似的。。。",
         "link": "https://www.v2ex.com/t/769752",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "mongodb 中 ListField 的 自定义顺序？",
-        "link": "https://www.v2ex.com/t/769750",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "迫于公司门禁卡和地铁，想买个 nfc 手环。选华为手环还是小米",
-        "link": "https://www.v2ex.com/t/769749",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "这是什么鬼？区块链新的传销方式？",
-        "link": "https://www.v2ex.com/t/769748",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "有没有免费的英文原创性检测 API？",
-        "link": "https://www.v2ex.com/t/769746",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "为什么现在的新硬件都不支持 win7 了？",
-        "link": "https://www.v2ex.com/t/769745",
         "date": "2021-04-10"
       }
     ]
@@ -20518,53 +20533,18 @@
         "date": "2021-04-10"
       },
       {
-        "title": "[推荐] 图文详解 Java 对象内存布局",
-        "link": "https://toutiao.io/k/romtfff",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
-        "link": "https://toutiao.io/k/sso4l2l",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "[推荐] [译] Uber：面向领域的微服务架构",
-        "link": "https://toutiao.io/k/0yy2iga",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "[推荐] 再见 Go 面试官：GMP 模型，为什么要有 P？",
-        "link": "https://toutiao.io/k/2fe4jjq",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "[推荐] GitHub 太慢？9 种方案可提速",
-        "link": "https://toutiao.io/k/pufqjt0",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
-        "link": "https://toutiao.io/k/iyge3cy",
-        "date": "2021-04-10"
-      },
-      {
         "title": "[推荐] GitHub 加速指南进阶版",
         "link": "https://toutiao.io/k/ygnbct1",
         "date": "2021-04-10"
       },
       {
-        "title": "[推荐] 高并发下如何保证接口的幂等性？",
-        "link": "https://toutiao.io/k/f0361xm",
+        "title": "[推荐] 21 张图详解网络基础知识",
+        "link": "https://toutiao.io/k/9uox6mg",
         "date": "2021-04-10"
       },
       {
-        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
-        "link": "https://toutiao.io/k/hti1ill",
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
         "date": "2021-04-10"
       },
       {
@@ -20578,18 +20558,53 @@
         "date": "2021-04-10"
       },
       {
-        "title": "[推荐] Go 应用优化指北",
-        "link": "https://toutiao.io/k/6jo6q1t",
+        "title": "[推荐] 我在架构设计和代码开发中的一些常用原则",
+        "link": "https://toutiao.io/k/sso4l2l",
         "date": "2021-04-10"
       },
       {
-        "title": "[推荐] 如何吃透一个 Java 项目？（附学习实践）",
-        "link": "https://toutiao.io/k/cifpaoe",
+        "title": "[推荐] 超实用的 IDEA 插件推荐！百万级下载量",
+        "link": "https://toutiao.io/k/47wemjf",
+        "date": "2021-04-10"
+      },
+      {
+        "title": "[推荐] 再见 Go 面试官：GMP 模型，为什么要有 P？",
+        "link": "https://toutiao.io/k/2fe4jjq",
+        "date": "2021-04-10"
+      },
+      {
+        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
+        "link": "https://toutiao.io/k/iyge3cy",
+        "date": "2021-04-10"
+      },
+      {
+        "title": "[推荐] 高并发下如何保证接口的幂等性？",
+        "link": "https://toutiao.io/k/f0361xm",
+        "date": "2021-04-10"
+      },
+      {
+        "title": "[推荐] GitHub 太慢？9 种方案可提速",
+        "link": "https://toutiao.io/k/pufqjt0",
+        "date": "2021-04-10"
+      },
+      {
+        "title": "[推荐] 图文详解 Java 对象内存布局",
+        "link": "https://toutiao.io/k/romtfff",
+        "date": "2021-04-10"
+      },
+      {
+        "title": "[推荐] [译] Uber：面向领域的微服务架构",
+        "link": "https://toutiao.io/k/0yy2iga",
         "date": "2021-04-10"
       },
       {
         "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
         "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-10"
+      },
+      {
+        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
+        "link": "https://toutiao.io/k/hti1ill",
         "date": "2021-04-10"
       }
     ]

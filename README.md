@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-11 05:07:15，:rocket: 更新条数: +4209， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-11 05:39:51，:rocket: 更新条数: +716， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-04-11-4月10日全国新增新冠10例-均由境外输入](https://m.caixin.com/m/2021-04-11/101688628.html) ![](assets/new.png)  
-- [2021-04-11-研究揭阿斯利康疫苗接种后血栓机制-辉瑞申请扩大疫苗适用范围｜大流行手记（4月10日）](https://m.caixin.com/m/2021-04-11/101688624.html) ![](assets/new.png)  
-- [2021-04-10-最新海外疫情：新冠感染超1.34亿-累计死亡超290万](https://m.caixin.com/m/2021-04-10/101688581.html) ![](assets/new.png)  
-- [2021-04-10-【境内疫情观察】全国新增14例境外输入病例（4月9日）](http://m.database.caixin.com/m/2021-04-10/101688525.html) ![](assets/new.png)  
-- [2021-04-10-谭德塞称疫苗分配不均令人震惊-巴西单日死亡又破4000|大流行手记（4月9日）](https://m.caixin.com/m/2021-04-10/101688391.html) ![](assets/new.png)  
-- [2021-04-09-中国明年新冠疫苗目标产能50亿-企业着手研究加强针](https://m.caixin.com/m/2021-04-09/101687946.html) ![](assets/new.png)  
-- [2021-04-09-专访|丹麦血清研究所：如何应对水貂新冠疫情？](http://m.science.caixin.com/m/2021-04-09/101688265.html) ![](assets/new.png)  
-- [2021-04-09-数字说｜全球14款疫苗上市-中国如何避免成为“疫苗接种洼地”？（更新中）](http://m.datanews.caixin.com/m/2021-04-09/101688187.html) ![](assets/new.png)  
-- [2021-04-09-云南瑞丽4月8日新增新冠确诊8例-现有确诊87例](https://m.caixin.com/m/2021-04-09/101687661.html) ![](assets/new.png)  
-- [2021-04-09-【境内疫情观察】云南新增8例本土病例（4月8日）](http://m.database.caixin.com/m/2021-04-09/101687884.html) ![](assets/new.png)  
-- [2021-04-09-多国调整阿斯利康疫苗接种计划-欧盟拨1.23亿欧元研究变异病毒｜大流行手记（4月8日）](https://m.caixin.com/m/2021-04-09/101687676.html) ![](assets/new.png)  
-- [2021-04-08-云南瑞丽4月7日新增新冠确诊病例11例-无症状感染者1例](https://m.caixin.com/m/2021-04-08/101687061.html) ![](assets/new.png)  
-- [2021-04-08-【境内疫情观察】云南新增11例本土病例（4月7日）](http://m.database.caixin.com/m/2021-04-08/101687280.html) ![](assets/new.png)  
-- [2021-04-08-研究证新冠患者易得精神和神经疾病-南非变异病毒威胁巴西｜大流行手记（4月7日）](https://m.caixin.com/m/2021-04-08/101687084.html) ![](assets/new.png)  
-- [2021-04-08-疫情防控严重失职失责-瑞丽书记龚云尊被撤职](http://m.china.caixin.com/m/2021-04-08/101687105.html) ![](assets/new.png)  
-- [2021-04-07-云南瑞丽4月6日新增新冠2例-现有确诊病例68例](https://m.caixin.com/m/2021-04-07/101686377.html) ![](assets/new.png)  
-- [2021-04-07-【境内疫情观察】云南瑞丽近8日累计确诊65例（4月6日）](http://m.database.caixin.com/m/2021-04-07/101686703.html) ![](assets/new.png)  
-- [2021-04-07-阿斯利康疫苗被指与脑血栓有联系-加拿大遭第三波疫情冲击｜大流行手记（4月6日）](https://m.caixin.com/m/2021-04-07/101686371.html) ![](assets/new.png)  
-- [2021-04-06-云南瑞丽4月5日新增新冠确诊病例15例-无症状感染者2例](https://m.caixin.com/m/2021-04-06/101685875.html) ![](assets/new.png)  
-- [2021-04-06-【境内疫情观察】云南瑞丽新增3处高风险地区（4月5日）](http://m.database.caixin.com/m/2021-04-06/101686077.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +976,10 @@
 </summary>
 
 
+- [2021-04-11-大佬们救救孩子，微软暑期实习笔试难不难啊？](https://www.v2ex.com/t/769862) ![](assets/new.png)  
+- [2021-04-11-求推荐一款烧水壶](https://www.v2ex.com/t/769861) ![](assets/new.png)  
+- [2021-04-11-意志力的荣耀与----意志力的幻象](https://www.v2ex.com/t/769860) ![](assets/new.png)  
+- [2021-04-11-知乎带货有做的吗](https://www.v2ex.com/t/769859) ![](assets/new.png)  
 - [2021-04-11-如何提高智商？（能够讲通逻辑或者说能玩一些解密游戏）](https://www.v2ex.com/t/769858) ![](assets/new.png)  
 - [2021-04-11-北京联通打开-V2EX-又有问题了](https://www.v2ex.com/t/769857) ![](assets/new.png)  
 - [2021-04-11-网易游戏-暑期实习内推，内推码：-rgutHZ，-4.16-截止](https://www.v2ex.com/t/769856) ![](assets/new.png)  
@@ -1012,10 +996,6 @@
 - [2021-04-11-求最佳的-Google-analytics-解决方案](https://www.v2ex.com/t/769844) ![](assets/new.png)  
 - [2021-04-11-30-岁的-Java-程序员该何去何从](https://www.v2ex.com/t/769843) ![](assets/new.png)  
 - [2021-04-11-感觉方向好多，我迷茫了，求指点！](https://www.v2ex.com/t/769842) ![](assets/new.png)  
-- [2021-04-11-安装-ubuntu20.04-后的几个问题](https://www.v2ex.com/t/769839) ![](assets/new.png)  
-- [2021-04-11-广州测试开发-5-年+经验-求推荐](https://www.v2ex.com/t/769837) ![](assets/new.png)  
-- [2021-04-11-微软帐号无法登录](https://www.v2ex.com/t/769836) ![](assets/new.png)  
-- [2021-04-11-最近做的所见即所得的-Markdown-编辑器：-Milkdown](https://www.v2ex.com/t/769835) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1027,6 +1007,7 @@
 </summary>
 
 
+- [2021-04-11-知乎高赞：盘点知识最多、含金量最高的42本书-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489449%26amp%3Bidx%3D2%26amp%3Bsn%3D18a45ed53f90b4ad719de6903fcbeae0%26amp%3Bchksm%3Dfa3cf6f2cd4b7fe48c6b8c45d4350942ae69e81742bc27dc8d4b71e8023d5b175b6066180e05%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-11-分析上市公司税收：这些知识不可少-www.hebicpa.org.cn](https://blogread.cn/news/go.php?idItem=14269&url=https%3A%2F%2Fwww.hebicpa.org.cn%2F114%2F20528.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-11-Flutter-不是真正的跨平台框架-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14268&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUyrvHsdHHr1xYhtVHbVPSw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-11-如何得知当前-Activity-是被压入后台，还是跳转到新的-Activity？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14267&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FilOIhSLBMgdXW8r1_X0RmQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1046,7 +1027,6 @@
 - [2021-04-11-必须知道的-11-个微前端框架-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14253&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fo9ZAzI5TFc434h-v3nRJEQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-11-腾讯-Code-Review-规范出炉！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-11-色情版“微信”背后的秘密，太可怕了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14251&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwclp7RpOv8Jcyqv5GS6btw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-11-JavaScript-奇葩知识大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14250&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVAzk0r95EAVho5jskcTc2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,24 +1040,24 @@
 
 - [2021-04-11-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
 - [2021-04-11-又谈-SQL-to-SQL-翻译器](https://toutiao.io/k/ugvpa8o) ![](assets/new.png)  
-- [2021-04-11-使用-Jetpack-卡片库在-Wear-OS-by-Google-谷歌上创建自定义卡片](https://toutiao.io/k/c9rh4bk) ![](assets/new.png)  
 - [2021-04-11-5-分钟搞定-B-站答题成为正式会员，每天自动刷经验值升级账号](https://toutiao.io/k/kks2428) ![](assets/new.png)  
+- [2021-04-11-使用-Jetpack-卡片库在-Wear-OS-by-Google-谷歌上创建自定义卡片](https://toutiao.io/k/c9rh4bk) ![](assets/new.png)  
 - [2021-04-11-该如何理解-Java-中的-Class-类](https://toutiao.io/k/rjmq5lr) ![](assets/new.png)  
 - [2021-04-11-Android-逆向之逆向工具](https://toutiao.io/k/ghevi3w) ![](assets/new.png)  
 - [2021-04-11-看完这篇，即刻上手进行联邦学习实战](https://toutiao.io/k/3yohiza) ![](assets/new.png)  
-- [2021-04-11-工具-|-腾讯开源的，使用-TypeScript/JavaScript-来开发-Flutter-应用的框架](https://toutiao.io/k/v6u1m2k) ![](assets/new.png)  
 - [2021-04-11-商业银行安全架构设计实践](https://toutiao.io/k/idcm9zk) ![](assets/new.png)  
+- [2021-04-11-工具-|-腾讯开源的，使用-TypeScript/JavaScript-来开发-Flutter-应用的框架](https://toutiao.io/k/v6u1m2k) ![](assets/new.png)  
 - [2021-04-11-RealityKit-增强现实应用开发](https://toutiao.io/k/cvx0l0g) ![](assets/new.png)  
-- [2021-04-11-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
-- [2021-04-11-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
-- [2021-04-11-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-11-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
-- [2021-04-11-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
-- [2021-04-11-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
-- [2021-04-11-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-11-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-11-推荐-再见-Go-面试官：GMP-模型，为什么要有-P？](https://toutiao.io/k/2fe4jjq) ![](assets/new.png)  
 - [2021-04-11-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
-- [2021-04-11-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
+- [2021-04-11-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
+- [2021-04-11-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
+- [2021-04-11-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-11-推荐-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) ![](assets/new.png)  
+- [2021-04-11-推荐-高并发下如何保证接口的幂等性？](https://toutiao.io/k/f0361xm) ![](assets/new.png)  
+- [2021-04-11-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-11-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
+- [2021-04-11-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

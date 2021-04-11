@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-10 23:39:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-11 05:07:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -9,6 +9,7 @@
 
 - [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-03-30-面试阿里被问的哑口无言，原来我……](https://www.ershicimi.com/p/9b4eb4e86782276faaf83bb375080f45) 
+- [2021-04-11-让你描述项目时，面试官想听你讲什么？](https://www.ershicimi.com/p/0981b15e5aecb5e7bbebc740da9e825d) 
 - [2021-04-08-太赞了，华为工程师总结的400道前端面试题提供下载](https://www.ershicimi.com/p/e1dfae601c4b5c41115e6df288319fff) 
 - [2021-04-10-【招聘】广州微信读书团队招聘前端工程师和-IOS-客户端（专家）工程师](https://www.ershicimi.com/p/d07660c2ef7fad8f3b5ca7f1eac72850) 
 - [2021-04-07-【招聘】深圳orRemote-XMind招聘按时下班/远程办公的践行者](https://www.ershicimi.com/p/704cdc32876424fc551584d2a8a0929e) 
@@ -33,9 +34,8 @@
 - [2021-04-09-欧阳娜娜从阿里跳槽网易：阿里P8堪称教科书级别的面试现场！最后一个问题亮了](https://www.ershicimi.com/p/258256e57a26bf846018508c969faaea) 
 - [2021-04-07-前阿里丁奇：说个-MySQL-面试的普遍问题-|-极客时间](https://www.ershicimi.com/p/b45e95e3acb27311bf4ae88ac0446b45) 
 - [2021-03-24-字节跳动高频100道核心前端面试题解析](https://www.ershicimi.com/p/bd6c66f84e2c88714b5520bdbd5e1927) 
-- [2021-04-10-提供简历修改、面试辅导在-cs-圈接受程度大吗？](https://www.v2ex.com/t/769802) 
-- [2021-04-10-整点极客时间课程，突击面试啦](https://www.v2ex.com/t/769784) 
-- [2021-04-10-北京-招聘兼职阿里云-IoT-物联网-Web-平台-Java-开发](https://www.v2ex.com/t/769783) 
-- [2021-04-10-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) 
-- [2021-04-10-推荐-再见-Go-面试官：GMP-模型，为什么要有-P？](https://toutiao.io/k/2fe4jjq) 
-- [2021-04-10-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) 
+- [2021-04-11-线下面试服装选择-正装-or-其他](https://www.v2ex.com/t/769852) 
+- [2021-04-11-面试问到红黑树，-B-树这种原理性的问题，怎么回答比较好?不啰嗦，又能回答到点子上](https://www.v2ex.com/t/769849) 
+- [2021-04-11-百万招聘-只招聘-Citadel/Two-Sigma-Quant/PM-人选---薪资-2-倍---推荐奖-5-万](https://www.v2ex.com/t/769829) 
+- [2021-04-11-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) 
+- [2021-04-11-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) 

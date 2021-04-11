@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-10 23:39:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-11 05:07:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,15 +30,17 @@
 - [2021-03-30-URL输入后按回车，浏览器内部究竟发生了什么](https://www.ershicimi.com/p/254b54b63be6e9a152b5fd123b894f27) 
 - [2021-03-09-那些与-IE-相伴的日子](https://www.ershicimi.com/p/d9c911d3c0835bf8f9743b70add1478c) 
 - [2021-03-30-前端工程师，一定要懂哪些浏览器原理？](https://www.ershicimi.com/p/41ef527a1733f53e3f949568bf2bcf2e) 
+- [2021-04-08-探讨浏览器指纹科普](https://www.ershicimi.com/p/7d4bebcb0d6f1dc91ec1d4c3e266ae22) 
+- [2021-04-02-面试官：“说一下从-url-输入到返回请求的过程”](https://www.ershicimi.com/p/01f98713d9c86c8a25268e7780987a00) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2021-04-08-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/9e0a0e7b6559752b7a0a05ada834fad8) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2021-04-10-给请求在代码里加上了-SNI-但是发布到服务器上-https-请求里没有带](https://www.v2ex.com/t/769774) 
-- [2021-04-10-腾讯-Code-Review-规范出炉！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-04-10-译-生存指南之-CORS-+-API-Gateway](https://toutiao.io/k/bdr9xsb) 
-- [2021-04-10-手摸手教你阅读和调试大型开源项目-ZooKeeper](https://toutiao.io/k/y1lq4em) 
+- [2021-04-11-被几个导航网站收录之后，每天有好几千条-favicon-的请求](https://www.v2ex.com/t/769846) 
+- [2021-04-11-工控安全&&车联网安全攻防的学习](https://www.v2ex.com/t/769826) 
+- [2021-04-11-腾讯-Code-Review-规范出炉！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHLHdmt8Gvj6wleCi_02UnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-04-11-商业银行安全架构设计实践](https://toutiao.io/k/idcm9zk) 
 - [2021-04-10-奇安信与德阳市政府达成战略合作-共建西部特色网络安全之城](https://sec.thief.one/article_content?a_id=b51e99f5ba385efe03769f598d5c62e5) 
 - [2021-04-10-在Z|火乐科技60万/年、爱数信息诚招安全相关工程师等人才](https://sec.thief.one/article_content?a_id=7bf6d02465b168cadd64bb7efe5660e1) 
 - [2021-04-10-《地县级调度中心监控系统安全防护方案电力系统》全文](https://sec.thief.one/article_content?a_id=1376ad8d351a5026b9ad05ad6fb645d7) 

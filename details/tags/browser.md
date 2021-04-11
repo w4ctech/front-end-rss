@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-11 15:24:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-11 15:39:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,10 +28,16 @@
 - [2021-03-31-前端工程师，一定要懂哪些浏览器原理？-|-活动推荐](https://www.ershicimi.com/p/bc317fcebdc5322bc77be7dc3e17f653) 
 - [2021-04-08-一名合格的前端工程师需要掌握的浏览器渲染笔记](https://www.ershicimi.com/p/b37c42536333398c3047a0473a4bc76b) 
 - [2021-03-30-URL输入后按回车，浏览器内部究竟发生了什么](https://www.ershicimi.com/p/254b54b63be6e9a152b5fd123b894f27) 
+- [2021-03-09-那些与-IE-相伴的日子](https://www.ershicimi.com/p/d9c911d3c0835bf8f9743b70add1478c) 
+- [2021-03-30-前端工程师，一定要懂哪些浏览器原理？](https://www.ershicimi.com/p/41ef527a1733f53e3f949568bf2bcf2e) 
+- [2021-04-08-探讨浏览器指纹科普](https://www.ershicimi.com/p/7d4bebcb0d6f1dc91ec1d4c3e266ae22) 
+- [2021-04-02-面试官：“说一下从-url-输入到返回请求的过程”](https://www.ershicimi.com/p/01f98713d9c86c8a25268e7780987a00) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-04-08-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/9e0a0e7b6559752b7a0a05ada834fad8) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
 - [2021-04-11-一个可以在浏览器里玩的-Flappy-Bird](https://www.v2ex.com/t/769935) 
 - [2021-04-11-商业银行安全架构设计实践](https://toutiao.io/k/idcm9zk) 
 - [2021-04-11-Google安全团队该不该披露疑似美国政府的黑客行动?](https://sec.thief.one/article_content?a_id=2df74d0834a8b84c45d5729f141f1f91) 

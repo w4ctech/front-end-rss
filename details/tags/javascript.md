@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-11 17:19:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-11 22:39:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -56,7 +56,7 @@
 - [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
 - [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
-- [2021-03-24-2021年前端开发者需要知道的34种JS优化技巧](https://www.ershicimi.com/p/69d032c4cdc220e4cd5517e86456f15f) 
+- [2021-04-09-重写了90%代码之后，Fes.js-2.0能有多简洁？](https://www.ershicimi.com/p/69f4951e53d853fdfdaec51c6326ca36) 
 - [2021-04-06-如何跟面试官解释事件循环](https://www.ershicimi.com/p/e369c7725becfe7b75f5b16da97d8346) 
 - [2021-03-27-常见的数组基本用法](https://www.ershicimi.com/p/780607140a33b96ba85ec21e85aa8c85) 
 - [2021-03-24-【重磅】送20本最新第7版JS-犀牛书以及限量卫衣](https://www.ershicimi.com/p/368a4a086bab948b1b6e7ca698732736) 
@@ -70,8 +70,9 @@
 - [2021-04-09-这些工作中用到的JavaScript小技巧你都知道吗？](https://www.ershicimi.com/p/c3e5cde54d7627069a9ce188486b4e1d) 
 - [2021-04-06-如何搭建一个完美的组件库？](https://www.ershicimi.com/p/e2052b85992219ee9d870de3f2aa57ed) 
 - [2021-04-05-4个强大JavaScript运算符](https://www.ershicimi.com/p/baa2ab48b1fb692863fa6c908f059696) 
+- [2021-04-11-面试官问：Promise.all-使用、原理实现及错误处理](https://www.ershicimi.com/p/1467580104818c4fea15969e4f800b40) 
+- [2021-04-08-字节：一道-JS-基础编程题（闭包）](https://www.ershicimi.com/p/256d3aa2ccebd5e0355766627ece4c96) 
 - [2021-04-07-很多人上来就删除的package-lock.json，还有这么多你不知道的（深度内容）](https://www.ershicimi.com/p/156d0db75f9875638cb90af10fe39883) 
-- [2021-04-02-阿里：如何判断两个变量相等](https://www.ershicimi.com/p/af131f37e09448f7085bd9ff165aa5e3) 
 - [2021-04-09-这次彻底搞懂浏览器的事件循环知识它、！面试必备](https://www.ershicimi.com/p/648b0992d930fd919b870787326925b8) 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-04-09-奇舞周刊第-392-期：用-65-行代码实现-JavaScript-动画序列播放](https://www.ershicimi.com/p/013dd0533617f7cce4ff4a46483d0fb1) 
@@ -80,6 +81,5 @@
 - [2021-04-09-全网最全-Java-日志框架适配方案！还有谁不会？](https://www.ershicimi.com/p/1d59f4b328ad336e49e8f5521ef63348) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-03-25-王一博、谭松韵相继终止合作，是时候讲讲新疆棉花事件背后的真相了](https://www.ershicimi.com/p/5fc4b43f5acbcbdf036fb9b2be7b2fcc) 
-- [2021-04-11-Svelte-的异步更新实现原理](https://www.v2ex.com/t/769904) 
 - [2021-04-11-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-10-“北斗掉线”司机自杀事件真相背后：切莫滥用北斗概念](https://www.ershicimi.com/p/e0e8ae706047b8e7a76311b1bca4dca3) 

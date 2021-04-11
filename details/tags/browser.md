@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-11 17:19:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-11 22:39:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,7 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
+- [2021-04-11-Fansub.review---人人影视所有字幕资源存档](https://www.v2ex.com/t/769955) 
 - [2021-04-11-一个可以在浏览器里玩的-Flappy-Bird](https://www.v2ex.com/t/769935) 
 - [2021-04-11-商业银行安全架构设计实践](https://toutiao.io/k/idcm9zk) 
 - [2021-04-11-Google安全团队该不该披露疑似美国政府的黑客行动?](https://sec.thief.one/article_content?a_id=2df74d0834a8b84c45d5729f141f1f91) 

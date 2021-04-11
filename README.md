@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-11 09:39:42，:rocket: 更新条数: +4210， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-11 12:43:47，:rocket: 更新条数: +4208， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -244,6 +244,10 @@
 </summary>
 
 
+- [2021-04-11-JS-语法-ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/d9b63b1a413fbf70acfd83874e26a0a3) ![](assets/new.png)  
+- [2021-04-11-分享15个-Webpack-实用的插件！](https://www.ershicimi.com/p/7f3feedabc96e3b1415d3c8ddda0a157) ![](assets/new.png)  
+- [2021-04-11-前端每日一题-#74](https://www.ershicimi.com/p/30498f6d05e075cac9ff1dfaf7038fb7) ![](assets/new.png)  
+- [2021-04-11-设计灵感：12张插画在网页设计中的应用](https://www.ershicimi.com/p/82dd5ca5c5c0415b43d8b6c1c2963e50) ![](assets/new.png)  
 - [2021-04-10-关于React-hook，我做了个违背祖训的决定](https://www.ershicimi.com/p/f66a409a8d68140e4f8a487642d70339) ![](assets/new.png)  
 - [2021-04-10-10分钟快速搭建属于自己的文档网站](https://www.ershicimi.com/p/7466a6b9879baa7bff088976763d2aca) ![](assets/new.png)  
 - [2021-04-10-前端每日一题-#73](https://www.ershicimi.com/p/23f9d14f7a771bcca4b5a5dd73fb1ab4) ![](assets/new.png)  
@@ -260,10 +264,6 @@
 - [2021-04-07-前端每日一题-#70](https://www.ershicimi.com/p/491fca219f14d2302784aa893c772f2e) ![](assets/new.png)  
 - [2021-04-07-前端同学们，你们要的分享干货，来了！](https://www.ershicimi.com/p/db625b66cc114120f1f3f0e8ca22d3e2) ![](assets/new.png)  
 - [2021-04-06-Vue-项目如何提高效率？大厂-2-大实践总结告诉你](https://www.ershicimi.com/p/8a95c6c3568f1407faf214cfd37fdd35) ![](assets/new.png)  
-- [2021-04-06-登录系统实现](https://www.ershicimi.com/p/20967ea066d4f01441ad6cf10d49ca98) ![](assets/new.png)  
-- [2021-04-06-前端每日一题-#69](https://www.ershicimi.com/p/980998c39e6558aed17f0b68ee839e13) ![](assets/new.png)  
-- [2021-04-05-二维码扫码登录是什么原理](https://www.ershicimi.com/p/ea1d22fd6117da2b7ad76009c5b6dae9) ![](assets/new.png)  
-- [2021-04-05-探索-Node.js-异步-Hooks](https://www.ershicimi.com/p/4af81d0ae3df3f5840bda97169a3840e) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -808,6 +808,9 @@
 </summary>
 
 
+- [2021-04-11-我，37岁程序员，依然可以“横行职场”](https://www.ershicimi.com/p/33f5a3cf4330c36eeb270b7de6c75803) ![](assets/new.png)  
+- [2021-04-11-疫苗接种率低？不用怕，互联网公司给出解决之道](https://www.ershicimi.com/p/7b020836cfbe53582d14b83ca75d7714) ![](assets/new.png)  
+- [2021-04-11-MySQL-批量插入，如何不插入重复数据？](https://www.ershicimi.com/p/63eeaa88c44fd9d32bf085318ce38441) ![](assets/new.png)  
 - [2021-04-10-求求你，别再叫我-X-工了！！！](https://www.ershicimi.com/p/b025760eeadb540c656634971bacf163) ![](assets/new.png)  
 - [2021-04-10-程序员离职后躲老家山洞-2-年，敲出-45-万行代码...](https://www.ershicimi.com/p/4cce9deaaca0bfb8b6cf62e0a95f737c) ![](assets/new.png)  
 - [2021-04-10-阿里终面：如何设计一个高性能网关？](https://www.ershicimi.com/p/89eb52f0ff7329ad9428c4bffffa0898) ![](assets/new.png)  
@@ -825,9 +828,6 @@
 - [2021-04-06-IDEA-这样配置注释模板，让你高出一个逼格！](https://www.ershicimi.com/p/123ef6713356f709df2956ef95bb5619) ![](assets/new.png)  
 - [2021-04-05-2021年3月程序员工资统计，又拖后腿了……](https://www.ershicimi.com/p/a7c507a9cc8af779b10b336876a37b13) ![](assets/new.png)  
 - [2021-04-05-重点推荐一款开源的devops工具！](https://www.ershicimi.com/p/69ac22c89b27f0cb837de7b4d7093328) ![](assets/new.png)  
-- [2021-04-05-服务端如何防止订单重复支付？](https://www.ershicimi.com/p/1759ea77b3f8441cec6d4e560eda1dd8) ![](assets/new.png)  
-- [2021-04-04-您已关注公众号满1年，诚邀您免费加入互联网人专属金融学习交流群！](https://www.ershicimi.com/p/f51c9d1f1aca2f2436b3f93fb28f9cf5) ![](assets/new.png)  
-- [2021-04-04-Spring-中经典的-9-种设计模式，打死也要记住啊！](https://www.ershicimi.com/p/964d9b2c4a09a4dcb3946fd842779eba) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,26 +996,26 @@
 </summary>
 
 
+- [2021-04-11-MacBook-Pro-16-寸的键盘，你们会不会有感觉会不太灵敏？](https://www.v2ex.com/t/769920) ![](assets/new.png)  
+- [2021-04-11-tb-上的世纪互联靠谱么？-onenote-用](https://www.v2ex.com/t/769918) ![](assets/new.png)  
+- [2021-04-11-甲骨文-dd-windows-2012](https://www.v2ex.com/t/769916) ![](assets/new.png)  
+- [2021-04-11-法国公司招聘产品经理-地点法国萨瓦省](https://www.v2ex.com/t/769915) ![](assets/new.png)  
+- [2021-04-11-自建-TTRSS，无法订阅-V2EX-的-RSS，-443-提示](https://www.v2ex.com/t/769914) ![](assets/new.png)  
+- [2021-04-11-ubuntu-官网有-arm-版吗？](https://www.v2ex.com/t/769913) ![](assets/new.png)  
+- [2021-04-11-最近-tg-上经常有完全不认识的人主动发一个压缩包过来，文件名一般都是什么“后台支付记录”、“财务报告”、“某日打款”等等，压缩包里面就一个-exe，把这些压...](https://www.v2ex.com/t/769908) ![](assets/new.png)  
+- [2021-04-11-在-B-站看-LPL-比赛总会弹出博彩网页](https://www.v2ex.com/t/769907) ![](assets/new.png)  
+- [2021-04-11-Nokia-新手机还是属于芬兰厂商吗](https://www.v2ex.com/t/769906) ![](assets/new.png)  
+- [2021-04-11-Svelte-的异步更新实现原理](https://www.v2ex.com/t/769904) ![](assets/new.png)  
+- [2021-04-11-Upstream-配的-Server-多了吞吐量反而下降严重](https://www.v2ex.com/t/769903) ![](assets/new.png)  
+- [2021-04-11-nginx-acess.log-日志文件全是-16-进制怎么解决](https://www.v2ex.com/t/769902) ![](assets/new.png)  
+- [2021-04-11-iPad-pro-不打开-限制帧速率-时,-运行-60-帧的游戏-不能稳定-60-帧?](https://www.v2ex.com/t/769901) ![](assets/new.png)  
+- [2021-04-11-滴滴出行-北京、杭州、成都、深圳内推-Android/iOS/前端/-Java-/算法/Go/C++/-Python-/-PHP-/数据/产品/运营等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/769900) ![](assets/new.png)  
 - [2021-04-11-华硕-Wi-Fi-6E-AXE11000-Intel-AX210-S21-Ultra-之初体验（外加拆解）](https://www.v2ex.com/t/769899) ![](assets/new.png)  
 - [2021-04-11-想开个独立游戏的-discord-server？](https://www.v2ex.com/t/769898) ![](assets/new.png)  
-- [2021-04-11-应届/社招/实习-移动端iOS/Android研发工程师](https://www.v2ex.com/t/769897) ![](assets/new.png)  
 - [2021-04-11-新作品-网页保存师傅，一键网页截图，生成长图片。](https://www.v2ex.com/t/769896) ![](assets/new.png)  
 - [2021-04-11-各位程序员朋友有没有想过-50-岁之后的我们会是什么样子?](https://www.v2ex.com/t/769894) ![](assets/new.png)  
 - [2021-04-11-聊聊大厂面试一次不过，次次不过？](https://www.v2ex.com/t/769893) ![](assets/new.png)  
 - [2021-04-11-请教下关于-mysql-的问题](https://www.v2ex.com/t/769891) ![](assets/new.png)  
-- [2021-04-11-转-Java-后端，还是继续前端？](https://www.v2ex.com/t/769890) ![](assets/new.png)  
-- [2021-04-11-社招｜美团优选｜前端工程师｜上海-｜急缺人](https://www.v2ex.com/t/769888) ![](assets/new.png)  
-- [2021-04-11-word-的加载项（貌似是插件之类的）能设置代理吗？我这有一个维基百科的，结果由于众所周知的原因无法链接到维基百科](https://www.v2ex.com/t/769887) ![](assets/new.png)  
-- [2021-04-11-Nexmoe-博客主题的设计理念](https://www.v2ex.com/t/769886) ![](assets/new.png)  
-- [2021-04-11-一家公司如果招聘完全由工程师决定,-HR-话语权为-0,-会有哪些潜在隐患?](https://www.v2ex.com/t/769885) ![](assets/new.png)  
-- [2021-04-11-m1-macbook-删除-Aldente-之后，电量依然限制-50%怎么办？](https://www.v2ex.com/t/769884) ![](assets/new.png)  
-- [2021-04-11-大厂的数据都能泄漏，服了，脸书、领英，现在-clubhouse-也中枪](https://www.v2ex.com/t/769881) ![](assets/new.png)  
-- [2021-04-11-APKPure-v3.17.18-被植入木马](https://www.v2ex.com/t/769879) ![](assets/new.png)  
-- [2021-04-11-北京/上海Coupang-内推,-美资外企,-1065,-Java-/iOS/Android](https://www.v2ex.com/t/769877) ![](assets/new.png)  
-- [2021-04-11-传统前端如何转型区块链前端？](https://www.v2ex.com/t/769876) ![](assets/new.png)  
-- [2021-04-11-北京/杭州-字节跳动招聘-前端工程师&Web-安全工程师](https://www.v2ex.com/t/769875) ![](assets/new.png)  
-- [2021-04-11-有没有办法把不同-mac-上面的-qq、微信聊天记录进行合并](https://www.v2ex.com/t/769874) ![](assets/new.png)  
-- [2021-04-11-有什么读源码的好工具吗？](https://www.v2ex.com/t/769869) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1062,22 +1062,22 @@
 - [2021-04-11-又谈-SQL-to-SQL-翻译器](https://toutiao.io/k/ugvpa8o) ![](assets/new.png)  
 - [2021-04-11-5-分钟搞定-B-站答题成为正式会员，每天自动刷经验值升级账号](https://toutiao.io/k/kks2428) ![](assets/new.png)  
 - [2021-04-11-商业银行安全架构设计实践](https://toutiao.io/k/idcm9zk) ![](assets/new.png)  
-- [2021-04-11-使用-Jetpack-卡片库在-Wear-OS-by-Google-谷歌上创建自定义卡片](https://toutiao.io/k/c9rh4bk) ![](assets/new.png)  
 - [2021-04-11-该如何理解-Java-中的-Class-类](https://toutiao.io/k/rjmq5lr) ![](assets/new.png)  
 - [2021-04-11-Android-逆向之逆向工具](https://toutiao.io/k/ghevi3w) ![](assets/new.png)  
+- [2021-04-11-使用-Jetpack-卡片库在-Wear-OS-by-Google-谷歌上创建自定义卡片](https://toutiao.io/k/c9rh4bk) ![](assets/new.png)  
 - [2021-04-11-看完这篇，即刻上手进行联邦学习实战](https://toutiao.io/k/3yohiza) ![](assets/new.png)  
 - [2021-04-11-工具-|-腾讯开源的，使用-TypeScript/JavaScript-来开发-Flutter-应用的框架](https://toutiao.io/k/v6u1m2k) ![](assets/new.png)  
 - [2021-04-11-RealityKit-增强现实应用开发](https://toutiao.io/k/cvx0l0g) ![](assets/new.png)  
+- [2021-04-11-推荐-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) ![](assets/new.png)  
+- [2021-04-11-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
 - [2021-04-11-推荐-这-30-个我精选的含答案的面试题，硬不硬你说吧](https://toutiao.io/k/v9aar7o) ![](assets/new.png)  
-- [2021-04-11-推荐-再见-Go-面试官：GMP-模型，为什么要有-P？](https://toutiao.io/k/2fe4jjq) ![](assets/new.png)  
-- [2021-04-11-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-11-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-11-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
 - [2021-04-11-推荐-如何吃透一个-Java-项目？（附学习实践）](https://toutiao.io/k/cifpaoe) ![](assets/new.png)  
-- [2021-04-11-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
-- [2021-04-11-推荐-我在架构设计和代码开发中的一些常用原则](https://toutiao.io/k/sso4l2l) ![](assets/new.png)  
-- [2021-04-11-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
 - [2021-04-11-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
+- [2021-04-11-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-11-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
+- [2021-04-11-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
+- [2021-04-11-推荐-超实用的-IDEA-插件推荐！百万级下载量](https://toutiao.io/k/47wemjf) ![](assets/new.png)  
+- [2021-04-11-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,6 +1089,16 @@
 </summary>
 
 
+- [2021-04-11-Google安全团队该不该披露疑似美国政府的黑客行动?](https://sec.thief.one/article_content?a_id=2df74d0834a8b84c45d5729f141f1f91) ![](assets/new.png)  
+- [2021-04-11-共筑网络文明同心圆|“开学第一课”怎么上?浙江省台州市三门县网络...](https://sec.thief.one/article_content?a_id=19e4c964ed15ce76eac2034506a555e6) ![](assets/new.png)  
+- [2021-04-11-在Z|贝壳找房80万/年、上海百胜56万/年招贤;9年IT、6年信...](https://sec.thief.one/article_content?a_id=9cc6fe27e742d1420eae1aba684fb61b) ![](assets/new.png)  
+- [2021-04-11-智能成人玩具可不要随便玩!已发现它们带有蓝牙和远程劫持功能](https://sec.thief.one/article_content?a_id=da9ac9f2fc0e693533e09c2f52cb36a2) ![](assets/new.png)  
+- [2021-04-11-5亿+用户数据遭泄,Facebook归因网络爬虫可还行?](https://sec.thief.one/article_content?a_id=b1d453c11d3cd2abd1364c3f681f0e7b) ![](assets/new.png)  
+- [2021-04-11-HVV|关于4月10日漏洞情报](https://sec.thief.one/article_content?a_id=d3ec200d9afd8751a6952c91943d8feb) ![](assets/new.png)  
+- [2021-04-11-深度分析:主流网络侦察技术与应对策略](https://sec.thief.one/article_content?a_id=ebd0c282d96d617036a635257a721222) ![](assets/new.png)  
+- [2021-04-11-网络安全攻防:无线网络安全之扫描](https://sec.thief.one/article_content?a_id=420b197be7d2bbc0de914dd9c0c1aba0) ![](assets/new.png)  
+- [2021-04-11-笑死,小米新logo是这么来的](https://sec.thief.one/article_content?a_id=780d6b96cdd115771f7daa05d63cc06f) ![](assets/new.png)  
+- [2021-04-11-为什么项目经理依然想写代码?](https://sec.thief.one/article_content?a_id=99dcc87070281f5885b33b768907c484) ![](assets/new.png)  
 - [2021-04-11-跟着总书记学党史-不忘初心-不懈奋斗](https://sec.thief.one/article_content?a_id=5d929dccee792244449281553695b072) ![](assets/new.png)  
 - [2021-04-10-攻防第三日漏洞与情报整理及解决方案](https://sec.thief.one/article_content?a_id=48251e0289af356033681bb2dd98723f) ![](assets/new.png)  
 - [2021-04-10-20210410|漏洞处置情况](https://sec.thief.one/article_content?a_id=d39d4f51fe04c6c55dc1a73a10a5fb8e) ![](assets/new.png)  
@@ -1099,16 +1109,6 @@
 - [2021-04-10-X社区企业权限重磅升级,限时免费领取!](https://sec.thief.one/article_content?a_id=b317000901d5ed8601de6fd572c21e80) ![](assets/new.png)  
 - [2021-04-10-“你不懂技术!”民警:呵呵](https://sec.thief.one/article_content?a_id=35d0251493ef6a6781adc1766a657f55) ![](assets/new.png)  
 - [2021-04-10-奇安信与德阳市政府达成战略合作-共建西部特色网络安全之城](https://sec.thief.one/article_content?a_id=b51e99f5ba385efe03769f598d5c62e5) ![](assets/new.png)  
-- [2021-04-10-在Z|火乐科技60万/年、爱数信息诚招安全相关工程师等人才](https://sec.thief.one/article_content?a_id=7bf6d02465b168cadd64bb7efe5660e1) ![](assets/new.png)  
-- [2021-04-10-领英5亿数据在暗网出售](https://sec.thief.one/article_content?a_id=2d221c743b5f9a7b39319ca0e7a60b18) ![](assets/new.png)  
-- [2021-04-10-海南警方破获特大跨境网络赌博案,涉案人员866人-深挖网赌行业内幕](https://sec.thief.one/article_content?a_id=5ba0888f6c1efd042404b7c9f856f2c4) ![](assets/new.png)  
-- [2021-04-10-零信任正在席卷美国联邦政府](https://sec.thief.one/article_content?a_id=9dbb9db5257921145ee008fce8c5dd90) ![](assets/new.png)  
-- [2021-04-10-领英2/3用户数据泄露,包括中国,邮箱学校工作地点统统流出](https://sec.thief.one/article_content?a_id=dac2259a2cd14d134cff663aefc2c114) ![](assets/new.png)  
-- [2021-04-10-《地县级调度中心监控系统安全防护方案电力系统》全文](https://sec.thief.one/article_content?a_id=1376ad8d351a5026b9ad05ad6fb645d7) ![](assets/new.png)  
-- [2021-04-09-20210409|漏洞处置情况](https://sec.thief.one/article_content?a_id=48322c193bea7b453e7e38e3679eeb98) ![](assets/new.png)  
-- [2021-04-09-【安全圈】安全研究人员在-Pwn2Own-黑客大赛中发现-Safari-漏洞](https://sec.thief.one/article_content?a_id=b89b0e6b5a7fcc834aed8db1e52b79e5) ![](assets/new.png)  
-- [2021-04-09-攻防第二日漏洞整理及解决方案](https://sec.thief.one/article_content?a_id=fd15a63fd34a80081b97826b564889a6) ![](assets/new.png)  
-- [2021-04-09-每日攻防资讯简报Apr.9th](https://sec.thief.one/article_content?a_id=67362492b8d9c4ac203a3c33ffedf81e) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

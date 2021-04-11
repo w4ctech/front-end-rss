@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-11 09:39:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-11 12:43:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -40,6 +40,8 @@
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
 - [2021-04-11-北京/杭州-字节跳动招聘-前端工程师&Web-安全工程师](https://www.v2ex.com/t/769875) 
 - [2021-04-11-商业银行安全架构设计实践](https://toutiao.io/k/idcm9zk) 
+- [2021-04-11-Google安全团队该不该披露疑似美国政府的黑客行动?](https://sec.thief.one/article_content?a_id=2df74d0834a8b84c45d5729f141f1f91) 
+- [2021-04-11-网络安全攻防:无线网络安全之扫描](https://sec.thief.one/article_content?a_id=420b197be7d2bbc0de914dd9c0c1aba0) 
 - [2021-04-10-奇安信与德阳市政府达成战略合作-共建西部特色网络安全之城](https://sec.thief.one/article_content?a_id=b51e99f5ba385efe03769f598d5c62e5) 
 - [2021-04-10-在Z|火乐科技60万/年、爱数信息诚招安全相关工程师等人才](https://sec.thief.one/article_content?a_id=7bf6d02465b168cadd64bb7efe5660e1) 
 - [2021-04-10-《地县级调度中心监控系统安全防护方案电力系统》全文](https://sec.thief.one/article_content?a_id=1376ad8d351a5026b9ad05ad6fb645d7) 
@@ -58,8 +60,3 @@
 - [2021-04-08-教育部发文加强新时代教育管理信息化,重点强调安全保障能力](https://sec.thief.one/article_content?a_id=59900cae4da4831f47e3b2a7a5298342) 
 - [2021-04-08-记一次SSRF->getshell](https://sec.thief.one/article_content?a_id=d441a3dc343f4a93711ffd9048519d5e) 
 - [2021-04-07-【安全圈】环旭电子:3-月下旬子公司部分服务器感染-REvil-勒索全部...](https://sec.thief.one/article_content?a_id=7d46f2ac210fcb79f0aad93b7e08266f) 
-- [2021-04-07-FreeBuf群讨论:如何做好攻防演习前的安全隐患排查?](https://sec.thief.one/article_content?a_id=ad90b247f388393b8d590b33a70d2a3c) 
-- [2021-04-07-腾讯安全X上汽赤霄,明天13:30准时“发车”!](https://sec.thief.one/article_content?a_id=b11206f03afefd52577b23655e9169ed) 
-- [2021-04-07-在字节跳动做安全风控是什么体验](https://sec.thief.one/article_content?a_id=72137a8212f4eacff8ad494b12f8275f) 
-- [2021-04-07-信息安全漏洞周报2021年第14期](https://sec.thief.one/article_content?a_id=b4b5a0cba53719c0191a09a1b5b471b9) 
-- [2021-04-07-2021年Q1中国网络安全公司资本关注度指数排行榜](https://sec.thief.one/article_content?a_id=ab30ff3f92d6eff6b110c30fe2165f3f) 

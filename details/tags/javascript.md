@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-11 09:39:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-11 12:43:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -39,6 +39,7 @@
 - [2021-04-07-如何修改组件库源码来封装符合自己需求的组件？](https://www.ershicimi.com/p/a5c835279a8a5408de20329284ec5385) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
+- [2021-04-11-JS-语法-ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/d9b63b1a413fbf70acfd83874e26a0a3) 
 - [2021-04-08-字节跳动最爱考的前端面试题：JavaScript-基础](https://www.ershicimi.com/p/ff23a154f7f91e60a473d165fb55fa31) 
 - [2021-04-09-JS语法-ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/7bc5bc2494e47f96b7569516f6ae76a6) 
 - [2021-04-07-JavaScript-代码整洁之道](https://www.ershicimi.com/p/3a822a7f735e67905cb17475979cdfec) 
@@ -79,4 +80,5 @@
 - [2021-04-09-全网最全-Java-日志框架适配方案！还有谁不会？](https://www.ershicimi.com/p/1d59f4b328ad336e49e8f5521ef63348) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-03-25-王一博、谭松韵相继终止合作，是时候讲讲新疆棉花事件背后的真相了](https://www.ershicimi.com/p/5fc4b43f5acbcbdf036fb9b2be7b2fcc) 
+- [2021-04-11-Svelte-的异步更新实现原理](https://www.v2ex.com/t/769904) 
 - [2021-04-11-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

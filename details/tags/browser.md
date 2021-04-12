@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-11 22:39:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-12 03:01:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,7 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
+- [2021-04-12-浏览器指纹追踪技术了解一下?](https://www.ershicimi.com/p/291be49707ab70d7e9a49ac05b44c2ce) 
 - [2021-04-09-【第2248期】安全背后:-浏览器是如何校验证书的](https://www.ershicimi.com/p/a317d7a755c0441175e56fc615802364) 
 - [2021-04-01-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/0f7831329d88ca1193fc9a243e19e7f8) 
 - [2021-03-31-前端工程师，一定要懂哪些浏览器原理？-|-活动推荐](https://www.ershicimi.com/p/bc317fcebdc5322bc77be7dc3e17f653) 
@@ -38,9 +39,12 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
+- [2021-04-12-关于-M1-芯片-Safari-异常退出问题](https://www.v2ex.com/t/769975) 
 - [2021-04-11-Fansub.review---人人影视所有字幕资源存档](https://www.v2ex.com/t/769955) 
-- [2021-04-11-一个可以在浏览器里玩的-Flappy-Bird](https://www.v2ex.com/t/769935) 
-- [2021-04-11-商业银行安全架构设计实践](https://toutiao.io/k/idcm9zk) 
+- [2021-04-12-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
+- [2021-04-12-OWASP-十大网站安全风险-（二）：无效身份认证](https://toutiao.io/k/vplr1da) 
+- [2021-04-12-Redis-专题：你用的分布式锁安全吗？](https://toutiao.io/k/2nlt4v6) 
+- [2021-04-12-安全学术圈2020年度总结](https://sec.thief.one/article_content?a_id=d97871e02e46ef2f849fbf010728e77f) 
 - [2021-04-11-Google安全团队该不该披露疑似美国政府的黑客行动?](https://sec.thief.one/article_content?a_id=2df74d0834a8b84c45d5729f141f1f91) 
 - [2021-04-11-网络安全攻防:无线网络安全之扫描](https://sec.thief.one/article_content?a_id=420b197be7d2bbc0de914dd9c0c1aba0) 
 - [2021-04-10-奇安信与德阳市政府达成战略合作-共建西部特色网络安全之城](https://sec.thief.one/article_content?a_id=b51e99f5ba385efe03769f598d5c62e5) 
@@ -60,4 +64,3 @@
 - [2021-04-08-美国地产巨头Caruso-Properties接受用比特币支付租金,且分配资产1...](https://sec.thief.one/article_content?a_id=868652eb41fa45e06ae26ddc4c1b4a61) 
 - [2021-04-08-教育部发文加强新时代教育管理信息化,重点强调安全保障能力](https://sec.thief.one/article_content?a_id=59900cae4da4831f47e3b2a7a5298342) 
 - [2021-04-08-记一次SSRF->getshell](https://sec.thief.one/article_content?a_id=d441a3dc343f4a93711ffd9048519d5e) 
-- [2021-04-07-【安全圈】环旭电子:3-月下旬子公司部分服务器感染-REvil-勒索全部...](https://sec.thief.one/article_content?a_id=7d46f2ac210fcb79f0aad93b7e08266f) 

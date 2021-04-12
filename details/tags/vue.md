@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-11 22:39:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-12 03:01:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -14,7 +14,6 @@
 - [2021-03-10-实战-|-Vite2.0-搭建-Vue3-移动端项目](https://www.ershicimi.com/p/7ca66b4020aed3d84650689756887815) 
 - [2021-03-08-面试京东，那些必问的-Vue-知识点](https://www.ershicimi.com/p/148a813134440e5d7763c3300e4da70d) 
 - [2021-03-04-京东-Vue3-组件库闪亮登场](https://www.ershicimi.com/p/300a3f6e99203f8200bafd30f3f65097) 
-- [2021-04-04-尤雨溪：Vue-3-计划放弃支持-IE11](https://www.ershicimi.com/p/7e601c5244601506f6dd6b5c9cfdb9aa) 
 - [2021-04-06-【开源】京东-vue3-组件库震撼升级，如约而至！](https://www.ershicimi.com/p/44695e45fe9fc46bcc00e12398401c7c) 
 - [2021-04-09-2021-年-Vue热点面试题集中整理，赶紧收藏](https://www.ershicimi.com/p/3a61ab3f267fe689f238003d803b6b9c) 
 - [2021-04-06-Vue-项目如何提高效率？大厂-2-大实践总结告诉你](https://www.ershicimi.com/p/8a95c6c3568f1407faf214cfd37fdd35) 
@@ -56,4 +55,3 @@
 - [2021-04-03-Vue-3-计划放弃支持-IE11](https://www.ershicimi.com/p/84c1b75d51880846b27907becd2c629a) 
 - [2021-03-29-2021年提升效率的7个新vue实战技巧！](https://www.ershicimi.com/p/a141a5c5a9a8d3c8caa267f37d911011) 
 - [2021-03-25-关于Vue-3核心原理问题，一次解决](https://www.ershicimi.com/p/9851a2f2a13411f0cff99cdec7a7b4fd) 
-- [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 

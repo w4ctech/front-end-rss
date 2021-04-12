@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-12 23:04:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-12 23:24:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -12,8 +12,6 @@
 - [2021-04-09-11个-Javascript-代码优化小技巧](https://www.ershicimi.com/p/0762b423d407766b9e25740d6c4b6bc5) 
 - [2021-04-08-面试官：bind、call、apply-区别？如何实现一个bind?](https://www.ershicimi.com/p/75cdfe2c277b510de0c0e4ed170b2c94) 
 - [2021-04-07-如何修改组件库源码来封装符合自己需求的组件？](https://www.ershicimi.com/p/a5c835279a8a5408de20329284ec5385) 
-- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
-- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2021-04-11-JS-语法-ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/d9b63b1a413fbf70acfd83874e26a0a3) 
 - [2021-04-08-字节跳动最爱考的前端面试题：JavaScript-基础](https://www.ershicimi.com/p/ff23a154f7f91e60a473d165fb55fa31) 
 - [2021-04-09-JS语法-ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/7bc5bc2494e47f96b7569516f6ae76a6) 
@@ -59,6 +57,5 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-03-25-王一博、谭松韵相继终止合作，是时候讲讲新疆棉花事件背后的真相了](https://www.ershicimi.com/p/5fc4b43f5acbcbdf036fb9b2be7b2fcc) 
 - [2021-04-12-为什么-jquery-的-extend-方法无法在扩展中获取到传入的链式的参数-this？](https://www.v2ex.com/t/770202) 
-- [2021-04-12-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-12-如何在-JavaScript-中实现队列数据结构](https://toutiao.io/k/cx87obf) 
 - [2021-04-10-“北斗掉线”司机自杀事件真相背后：切莫滥用北斗概念](https://www.ershicimi.com/p/e0e8ae706047b8e7a76311b1bca4dca3) 

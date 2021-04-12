@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-04-12 11:50:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-12 12:03:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-12-如何解决-重新登录-apple-id-后-提示“更新-apple-id-设置”-？](https://www.v2ex.com/t/770176) 
+- [2021-04-12-espeasy-支持串口发送十六进制-hex-数据固件分享](https://www.v2ex.com/t/770175) 
+- [2021-04-12-问一下和打游戏基友们连麦问题](https://www.v2ex.com/t/770174) 
+- [2021-04-12-android-Room-@InsertonConflict-=-OnConflictStrategy.REPLACE会重新生成-id-吗?-什么情况下会重新生成-id?](https://www.v2ex.com/t/770173) 
+- [2021-04-12-API-接口已经有-HTTPS-的前提下，为什么还需要签名机制？](https://www.v2ex.com/t/770172) 
 - [2021-04-12-一块妥善保存的硬盘，理论上能多少年内保证数据不丢失？](https://www.v2ex.com/t/770171) 
 - [2021-04-12-外包项目一天两千都接受不了，还来发贴](https://www.v2ex.com/t/770168) 
 - [2021-04-12-坚果云的客服真是太差了](https://www.v2ex.com/t/770166) 
@@ -40,6 +45,3 @@
 - [2021-04-12-老师问我的的一个数据安全的问题](https://www.v2ex.com/t/770129) 
 - [2021-04-12-Apple-Music-有什么办法能屏蔽印度歌吗？](https://www.v2ex.com/t/770128) 
 - [2021-04-12-用开放-API-做了个没啥用的-App-"fun-numbers"，-google-play-悄咪咪的审核通过了，也没发邮件😂](https://www.v2ex.com/t/770127) 
-- [2021-04-12-iPhone-和-mac-是否能互相发送消息或通知？](https://www.v2ex.com/t/770126) 
-- [2021-04-12-收徒计划可能失败了...](https://www.v2ex.com/t/770125) 
-- [2021-04-12-历史人物混合时间轴-demo-版，做的不好，求轻拍](https://www.v2ex.com/t/770123) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-12 17:20:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-12 17:31:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,7 +7,6 @@
 
 
 
-- [2021-04-12-浏览器指纹追踪技术了解一下?](https://www.ershicimi.com/p/291be49707ab70d7e9a49ac05b44c2ce) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2021-04-12-Zerotier-远程随航](https://www.v2ex.com/t/770211) 
 - [2021-04-12-windows-平台-c++如何简单安全的实现多进程多线程读写同一个文件](https://www.v2ex.com/t/770194) 

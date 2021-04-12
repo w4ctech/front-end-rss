@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-12 15:52:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-12 16:04:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2021-04-12-android-Room-@InsertonConflict-=-OnConflictStrategy.REPLACE会重新生成-id-吗?-什么情况下会重新生成-id?](https://www.v2ex.com/t/770173) 
 - [2021-04-12-API-接口已经有-HTTPS-的前提下，为什么还需要签名机制？](https://www.v2ex.com/t/770172) 
 - [2021-04-12-一块妥善保存的硬盘，理论上能多少年内保证数据不丢失？](https://www.v2ex.com/t/770171) 
-- [2021-04-12-外包项目一天两千都接受不了，还来发贴](https://www.v2ex.com/t/770168) 

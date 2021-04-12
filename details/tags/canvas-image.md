@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-12 03:01:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-12 07:09:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,6 +7,5 @@
 
 
 
-- [2021-04-11-svg-项目实践——添加可编辑的-svg-图片](https://www.ershicimi.com/p/849126178dd1cdb8d6ed20e23fae7e1c) 
 - [2021-04-09-4月9日贵币GUIBI早内参-Kava-Labs现已启动Kava-5主网,Filecoin网络...](https://sec.thief.one/article_content?a_id=c34cf666e2ca661843fbba6bcf6aff0e) 
 - [2021-04-08-4月8日贵币GUIBI早内参-财富管理巨头DA-Davidson将Coinbase股票目...](https://sec.thief.one/article_content?a_id=b245012f6a4633cfcd6c9c7379511c64) 

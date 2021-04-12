@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-12 18:58:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-12 19:09:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,8 +7,5 @@
 
 
 
-- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
-- [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
-- [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2021-04-12-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) 
 - [2021-04-12-面试官常考的-21-条-Linux-命令](https://sec.thief.one/article_content?a_id=beb9f32e4ca4505734f45a73a4ee7f74) 

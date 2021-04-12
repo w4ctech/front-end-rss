@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-12 19:25:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-12 19:37:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -11,6 +11,9 @@
 - [2021-04-12-Zerotier-远程随航](https://www.v2ex.com/t/770211) 
 - [2021-04-12-windows-平台-c++如何简单安全的实现多进程多线程读写同一个文件](https://www.v2ex.com/t/770194) 
 - [2021-04-12-求助-1password-在-chrome-网址关联检测失败](https://www.v2ex.com/t/770188) 
+- [2021-04-12-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
+- [2021-04-12-Redis-专题：你用的分布式锁安全吗？](https://toutiao.io/k/2nlt4v6) 
+- [2021-04-12-OWASP-十大网站安全风险-（二）：无效身份认证](https://toutiao.io/k/vplr1da) 
 - [2021-04-12-谭校长专访盛邦安全权小文:网络空间地图是网络安全乃至整个信息化...](https://sec.thief.one/article_content?a_id=02a323b3a149d042183464326ea6ad9d) 
 - [2021-04-12-你知道威胁手游安全的对象有哪些吗?](https://sec.thief.one/article_content?a_id=267d0483e1a6e03c436ac6dc4b1f9cf1) 
 - [2021-04-12-网安新讯-|-广电总局强化网安措施、近期安全国标、国企数字化转型要...](https://sec.thief.one/article_content?a_id=bc0b6dd21e1ab21cfb9b963c93489a0c) 

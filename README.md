@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-12 19:25:01，:rocket: 更新条数: +148， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-12 19:37:20，:rocket: 更新条数: +183， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)  
 
@@ -516,6 +516,26 @@
 </summary>
 
 
+- [2021-04-12-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-12-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
+- [2021-04-12-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-12-ZooKeeper-设计原理](https://toutiao.io/k/otdc5oi) ![](assets/new.png)  
+- [2021-04-12-Docker-常用命令](https://toutiao.io/k/fszlt1x) ![](assets/new.png)  
+- [2021-04-12-快速排序算法实现及优化](https://toutiao.io/k/0t0xhkg) ![](assets/new.png)  
+- [2021-04-12-一文带你了解如何排查内存泄漏导致的页面卡顿现象](https://toutiao.io/k/53qhi1g) ![](assets/new.png)  
+- [2021-04-12-能聊聊你对充血模型和贫血模型的理解吗？](https://toutiao.io/k/0lfgf4r) ![](assets/new.png)  
+- [2021-04-12-Prometheus-2.25-新特性讲解](https://toutiao.io/k/dxejqkb) ![](assets/new.png)  
+- [2021-04-12-传说中的-10x-程序员？](https://toutiao.io/k/ijh18wb) ![](assets/new.png)  
+- [2021-04-12-分布式系统中接口的幂等性](https://toutiao.io/k/ed3a620) ![](assets/new.png)  
+- [2021-04-12-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-12-让你的程序炫起来！少有人知道但超酷的-Python-进度条开源库](https://toutiao.io/k/7y59mv5) ![](assets/new.png)  
+- [2021-04-12-源码级深挖-AQS-队列同步器](https://toutiao.io/k/9m25n08) ![](assets/new.png)  
+- [2021-04-12-其实，我们也在努力做-CPU](https://toutiao.io/k/8sq97yr) ![](assets/new.png)  
+- [2021-04-12-Redis-专题：你用的分布式锁安全吗？](https://toutiao.io/k/2nlt4v6) ![](assets/new.png)  
+- [2021-04-12-OWASP-十大网站安全风险-（二）：无效身份认证](https://toutiao.io/k/vplr1da) ![](assets/new.png)  
+- [2021-04-12-如何在-JavaScript-中实现队列数据结构](https://toutiao.io/k/cx87obf) ![](assets/new.png)  
+- [2021-04-12-阅读-Go-源码，你需要了解这几个编译器指示](https://toutiao.io/k/bhb6afk) ![](assets/new.png)  
+- [2021-04-12-Nexmoe-博客主题的设计理念](https://toutiao.io/k/yjqljbj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

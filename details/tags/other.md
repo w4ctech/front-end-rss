@@ -1,21 +1,17 @@
-:alarm_clock: 更新时间: 2021-04-12 13:11:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-12 13:25:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2021-04-09-前端学到什么程度才能叫精通？](https://www.ershicimi.com/p/33707b58e932e4bcd55feff38d5db5ff) 
-- [2021-03-25-最后机会！华为免费培养2000名开发者！](https://www.ershicimi.com/p/2bdafa27b92a642b4c1ac2157542bd83) 
-- [2021-03-23-2021年必须掌握的Vite2,详细教程来了！](https://www.ershicimi.com/p/8623f263ff906d114534b1713e4d5361) 
-- [2021-03-16-不读前端源码的你，并不清楚自己错过了什么？](https://www.ershicimi.com/p/5b6b17463dc9e48737d2907db0138575) 
-- [2021-03-11-996-问题愈演愈烈，政协委员建议监管；联想杨元庆也反对-996](https://www.ershicimi.com/p/2986c2c4a67876f2b0f275e55e73f528) 
-- [2021-03-09-前端开发从入门到精通，一次解决](https://www.ershicimi.com/p/a650c7d7e98df2d7ad6774fa797a0ec7) 
 - [2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) 
 - [2021-03-30-分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/) 
 - [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html) 
 - [2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) 
 - [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html) 
+- [2021-04-12-有什么办法记录下-Linux-执行过的-history-命令](https://www.v2ex.com/t/770191) 
+- [2021-04-12-MacBook-Pro-16-inch,-2019-外置-4k-显示器如何-60hz?](https://www.v2ex.com/t/770189) 
 - [2021-04-12-发现一个有意思的租房分享-up-主：轻徙鸟](https://www.v2ex.com/t/770185) 
 - [2021-04-12-有在广州蓝月亮工作的吗？](https://www.v2ex.com/t/770184) 
 - [2021-04-12-求推荐一个单反](https://www.v2ex.com/t/770183) 
@@ -45,9 +41,6 @@
 - [2021-04-12-typecho-博客换域名的正确姿势](https://www.v2ex.com/t/770145) 
 - [2021-04-12-v2ex-的头像挂了吗？](https://www.v2ex.com/t/770143) 
 - [2021-04-12-无法忍受-google-针对被他错识为大陆-ip-的-ip-地址的做法！](https://www.v2ex.com/t/770142) 
-- [2021-04-12-金山云售后太差了，大家上车一定要注意！](https://www.v2ex.com/t/770141) 
-- [2021-04-12-割-bp-推荐](https://www.v2ex.com/t/770140) 
-- [2021-04-12-求推荐-win10-和-mac-两种模式的键盘，性价比高实惠点的。谢谢。](https://www.v2ex.com/t/770139) 
 - [2021-04-12-华为安卓用户:“小丑”竟是我自己?-警惕Joker恶意软件](https://sec.thief.one/article_content?a_id=9e164140a45e5dbabf7047bf10156e03) 
 - [2021-04-12-【技术分享】etcd未授权访问的风险及修复方案详解](https://sec.thief.one/article_content?a_id=62a8d1e4ecf0aaf5bb4d8eaaec66004c) 
 - [2021-04-12-小心!手机恢复出厂设置数据仍可“复活”](https://sec.thief.one/article_content?a_id=a4bb22b80b1a8fa6f4fc77ed92473746) 

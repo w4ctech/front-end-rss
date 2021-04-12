@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-12 07:09:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-12 11:23:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -74,16 +74,8 @@
 - [2020-01-22-【音频|特别策划】新冠肺炎疫情是如何逼近的？](http://fm.caixin.com/m/2020-01-22/101507323.html) 
 - [2020-01-22-【视频】国新办举行发布会-介绍新冠肺炎防控情况](http://m.video.caixin.com/m/2020-01-22/101507052.html) 
 - [2020-01-20-【视频】钟南山谈新型肺炎：肯定存在人传人现象](http://m.video.caixin.com/m/2020-01-20/101506478.html) 
-- [2020-05-13-视频Winter-教你-MVVM](https://www.ershicimi.com/p/407d00f5a91b47a7f16018aaec12084f) 
-- [2019-10-13-更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d) 
-- [2019-10-12-视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b) 
-- [2019-10-10-视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a) 
-- [2019-10-08-视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed) 
-- [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
-- [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
-- [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
+- [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
-- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
-- [2021-04-12-用群晖往-nplayer-缓存视频-一到后台就没有速度-有老哥懂吗？](https://www.v2ex.com/t/770043) 
-- [2021-04-08-【视频】|-工控安全:智能制造行业工控系统安全解决方案](https://sec.thief.one/article_content?a_id=8e41fed4f341269cd74e0b93d0a28e57) 
-- [2021-04-07-【安全圈】特斯拉车内摄像头视频画面曝光-清晰度远超预期](https://sec.thief.one/article_content?a_id=43a0260549cf209c26a0f7f8401b5840) 
+- [2021-04-08-成就技术人的创作者-IP-|-《架构师》音视频专刊征稿](https://www.ershicimi.com/p/3c3e9e864f6c1811abb463197a89707a) 
+- [2021-04-12-抖音、西瓜视频专测来啦!!](https://sec.thief.one/article_content?a_id=9d963e2e19bae5d98959ee8235aea312) 
+- [2021-04-12-【视频】|-公安部:“断卡”行动](https://sec.thief.one/article_content?a_id=f8e80ed10ef24038b55e556189d13ad6) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-12 15:38:14，:rocket: 更新条数: +706， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-12 15:52:44，:rocket: 更新条数: +687， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
@@ -76,6 +76,8 @@
 </summary>
 
 
+- [2021-04-12-全国｜新增确诊-16-例-其中本土-2-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixDusO4NRS3hphsD2iOZf210412&isfromapp=1) ![](assets/new.png)  
+- [2021-04-11-云南｜瑞丽新增确诊-2-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqdTXoRrxNPtsjhT6tlxF210412&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -786,26 +788,6 @@
 </summary>
 
 
-- [2021-04-12-王炸！！微软终于对-JDK-下手了…](https://www.ershicimi.com/p/8dfb773f56f8df4ef881abebeb8a106a) ![](assets/new.png)  
-- [2021-04-12-一文全面解析-Postman-工具](https://www.ershicimi.com/p/c99ef132fe246495128025df622cf65c) ![](assets/new.png)  
-- [2021-04-12-程序员相亲的血泪史，千万别做这些事情！](https://www.ershicimi.com/p/2792482455407fc4cc0d329f66875ac3) ![](assets/new.png)  
-- [2021-04-11-我，37岁程序员，依然可以“横行职场”](https://www.ershicimi.com/p/33f5a3cf4330c36eeb270b7de6c75803) ![](assets/new.png)  
-- [2021-04-11-疫苗接种率低？不用怕，互联网公司给出解决之道](https://www.ershicimi.com/p/7b020836cfbe53582d14b83ca75d7714) ![](assets/new.png)  
-- [2021-04-11-MySQL-批量插入，如何不插入重复数据？](https://www.ershicimi.com/p/63eeaa88c44fd9d32bf085318ce38441) ![](assets/new.png)  
-- [2021-04-10-求求你，别再叫我-X-工了！！！](https://www.ershicimi.com/p/b025760eeadb540c656634971bacf163) ![](assets/new.png)  
-- [2021-04-10-程序员离职后躲老家山洞-2-年，敲出-45-万行代码...](https://www.ershicimi.com/p/4cce9deaaca0bfb8b6cf62e0a95f737c) ![](assets/new.png)  
-- [2021-04-10-阿里终面：如何设计一个高性能网关？](https://www.ershicimi.com/p/89eb52f0ff7329ad9428c4bffffa0898) ![](assets/new.png)  
-- [2021-04-09-12-个非常适合做私活或外包项目的开源后台管理系统](https://www.ershicimi.com/p/de54b1ea596947dabaed8f81d0c49f73) ![](assets/new.png)  
-- [2021-04-09-欧阳娜娜从阿里跳槽网易：阿里P8堪称教科书级别的面试现场！最后一个问题亮了](https://www.ershicimi.com/p/258256e57a26bf846018508c969faaea) ![](assets/new.png)  
-- [2021-04-09-全网最全-Java-日志框架适配方案！还有谁不会？](https://www.ershicimi.com/p/1d59f4b328ad336e49e8f5521ef63348) ![](assets/new.png)  
-- [2021-04-08-阿里一面：如何保障消息100%投递成功、消息幂等性？](https://www.ershicimi.com/p/ac528fd66aa642988e41dec5ce18b404) ![](assets/new.png)  
-- [2021-04-08-程序员，都是内卷之王！](https://www.ershicimi.com/p/af4ea34a2fa5e27b226bc3a0692d8cf9) ![](assets/new.png)  
-- [2021-04-08-Java8中的-Stream-那么彪悍，你知道它的原理是什么吗？](https://www.ershicimi.com/p/e3767fa1d7bd0dbd76a9b531084e45be) ![](assets/new.png)  
-- [2021-04-07-再见，Kafka！RocketMQ已成气候！](https://www.ershicimi.com/p/f69ac8559f3414a1a6865a126bd2f565) ![](assets/new.png)  
-- [2021-04-07-2021-年最新数据库排行榜出炉！看到-Redis-排名，我笑了。。](https://www.ershicimi.com/p/b9905bd6538b04136697a6cd649ef6ab) ![](assets/new.png)  
-- [2021-04-07-1次订单事故，扣了我3个月绩效！](https://www.ershicimi.com/p/00f542fd3fd42c470a50a7689f6628e9) ![](assets/new.png)  
-- [2021-04-06-一个90后员工猝死的全过程](https://www.ershicimi.com/p/ce6f8c3d4c96e5095439e1c4e36983a7) ![](assets/new.png)  
-- [2021-04-06-Wifi万能钥匙已经被淘汰了！Github这个开源工具太好用了！](https://www.ershicimi.com/p/7b70b121ca1b5177401810633d1d9643) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -974,6 +956,10 @@
 </summary>
 
 
+- [2021-04-12-有想要戒烟的朋友吗，电子烟可以帮助戒烟吗？](https://www.v2ex.com/t/770215) ![](assets/new.png)  
+- [2021-04-12-准备注册个公司，想起个-类似特斯拉的名字，求各位推荐？](https://www.v2ex.com/t/770214) ![](assets/new.png)  
+- [2021-04-12-问下有没有-v-友碰到过国内手机卡在境外无法使用的情况呢](https://www.v2ex.com/t/770213) ![](assets/new.png)  
+- [2021-04-12-Zerotier-远程随航](https://www.v2ex.com/t/770211) ![](assets/new.png)  
 - [2021-04-12-离开上家公司差不多有半年,-工资还没有发放完!](https://www.v2ex.com/t/770210) ![](assets/new.png)  
 - [2021-04-12-想深入了解一下-K8S，请问有什么好的渠道？](https://www.v2ex.com/t/770208) ![](assets/new.png)  
 - [2021-04-12-微软-197-亿美元收购语音识别巨头-Nuance](https://www.v2ex.com/t/770205) ![](assets/new.png)  
@@ -990,10 +976,6 @@
 - [2021-04-12-2021-年-4-月，游戏机怎么选择？](https://www.v2ex.com/t/770193) ![](assets/new.png)  
 - [2021-04-12-有什么办法记录下-Linux-执行过的-history-命令](https://www.v2ex.com/t/770191) ![](assets/new.png)  
 - [2021-04-12-给大家推荐一款-效率派工具箱-小程序,集合了众多常用的小工具，简洁、高效。欢迎使用和反馈！](https://www.v2ex.com/t/770190) ![](assets/new.png)  
-- [2021-04-12-MacBook-Pro-16-inch,-2019-外置-4k-显示器如何-60hz?](https://www.v2ex.com/t/770189) ![](assets/new.png)  
-- [2021-04-12-求助-1password-在-chrome-网址关联检测失败](https://www.v2ex.com/t/770188) ![](assets/new.png)  
-- [2021-04-12-发现一个有意思的租房分享-up-主：轻徙鸟](https://www.v2ex.com/t/770185) ![](assets/new.png)  
-- [2021-04-12-有在广州蓝月亮工作的吗？](https://www.v2ex.com/t/770184) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

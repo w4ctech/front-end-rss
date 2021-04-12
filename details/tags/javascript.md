@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-12 19:09:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-12 19:25:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -9,5 +9,3 @@
 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-04-12-为什么-jquery-的-extend-方法无法在扩展中获取到传入的链式的参数-this？](https://www.v2ex.com/t/770202) 
-- [2021-04-12-如何在-JavaScript-中实现队列数据结构](https://toutiao.io/k/cx87obf) 
-- [2021-04-10-“北斗掉线”司机自杀事件真相背后：切莫滥用北斗概念](https://www.ershicimi.com/p/e0e8ae706047b8e7a76311b1bca4dca3) 

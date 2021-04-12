@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-12 19:09:42，:rocket: 更新条数: +204， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-12 19:25:01，:rocket: 更新条数: +148， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,9 +53,9 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
-- [物联网智库](#物联网智库)![](assets/dot.png)   
+- [物联网智库](#物联网智库)  
 
 ## 文章链接
 
@@ -516,26 +516,6 @@
 </summary>
 
 
-- [2021-04-12-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-12-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-12-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-12-ZooKeeper-设计原理](https://toutiao.io/k/otdc5oi) ![](assets/new.png)  
-- [2021-04-12-Docker-常用命令](https://toutiao.io/k/fszlt1x) ![](assets/new.png)  
-- [2021-04-12-快速排序算法实现及优化](https://toutiao.io/k/0t0xhkg) ![](assets/new.png)  
-- [2021-04-12-一文带你了解如何排查内存泄漏导致的页面卡顿现象](https://toutiao.io/k/53qhi1g) ![](assets/new.png)  
-- [2021-04-12-能聊聊你对充血模型和贫血模型的理解吗？](https://toutiao.io/k/0lfgf4r) ![](assets/new.png)  
-- [2021-04-12-Prometheus-2.25-新特性讲解](https://toutiao.io/k/dxejqkb) ![](assets/new.png)  
-- [2021-04-12-传说中的-10x-程序员？](https://toutiao.io/k/ijh18wb) ![](assets/new.png)  
-- [2021-04-12-分布式系统中接口的幂等性](https://toutiao.io/k/ed3a620) ![](assets/new.png)  
-- [2021-04-12-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-12-让你的程序炫起来！少有人知道但超酷的-Python-进度条开源库](https://toutiao.io/k/7y59mv5) ![](assets/new.png)  
-- [2021-04-12-源码级深挖-AQS-队列同步器](https://toutiao.io/k/9m25n08) ![](assets/new.png)  
-- [2021-04-12-其实，我们也在努力做-CPU](https://toutiao.io/k/8sq97yr) ![](assets/new.png)  
-- [2021-04-12-Redis-专题：你用的分布式锁安全吗？](https://toutiao.io/k/2nlt4v6) ![](assets/new.png)  
-- [2021-04-12-OWASP-十大网站安全风险-（二）：无效身份认证](https://toutiao.io/k/vplr1da) ![](assets/new.png)  
-- [2021-04-12-如何在-JavaScript-中实现队列数据结构](https://toutiao.io/k/cx87obf) ![](assets/new.png)  
-- [2021-04-12-阅读-Go-源码，你需要了解这几个编译器指示](https://toutiao.io/k/bhb6afk) ![](assets/new.png)  
-- [2021-04-12-Nexmoe-博客主题的设计理念](https://toutiao.io/k/yjqljbj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -578,26 +558,6 @@
 </summary>
 
 
-- [2021-04-11-政府工作报告连续5年部署，总理国常会专门研讨的“提速降费”，在5G时代有什么新内涵？](https://www.ershicimi.com/p/22c148a0a698e211075be6ff0f01ce3c) ![](assets/new.png)  
-- [2021-04-11-2021第四届NB-IoT产业发展大会圆满落幕，开启NB-IoT应用新征程](https://www.ershicimi.com/p/05fd1e6ae42030b0d7f46bd0a4dd029f) ![](assets/new.png)  
-- [2021-04-11-数据驱动工业互联网变革，“2021中国工业互联网发展主题论坛”圆满落幕](https://www.ershicimi.com/p/5df3b73f69f35fb5ac1dc2ef3ecfbc27) ![](assets/new.png)  
-- [2021-04-10-“北斗掉线”司机自杀事件真相背后：切莫滥用北斗概念](https://www.ershicimi.com/p/e0e8ae706047b8e7a76311b1bca4dca3) ![](assets/new.png)  
-- [2021-04-10-加深5G与产业深度融合，2021中国（深圳）5G产业峰会成功举办！](https://www.ershicimi.com/p/2c5c2a0733e88b74c266cc75ba9d3f55) ![](assets/new.png)  
-- [2021-04-10-Cat.1的风还能吹多久？“Cat.1赋能产业新征程”主题论坛圆满落幕！](https://www.ershicimi.com/p/354945dd6251edef9c401bdcc73d56c6) ![](assets/new.png)  
-- [2021-04-09-最高售价149999，华为昨晚发布的新款全屋智能贵在哪里？](https://www.ershicimi.com/p/937e2f43d2f966b461533e286e9ec796) ![](assets/new.png)  
-- [2021-04-09-突发！美国枪口再次瞄准中国超算，飞腾、申威等-7-大实体被列管制清单](https://www.ershicimi.com/p/deeccb0fdb136a446ea9877bb58c1919) ![](assets/new.png)  
-- [2021-04-09-发力碳中和，美的SMART-IN-ONE战略聚焦智慧建筑全产业链](https://www.ershicimi.com/p/932d9763fbb2d65ea2dc3af4b0032afd) ![](assets/new.png)  
-- [2021-04-08-华为手机大败局？市场份额暴跌仅剩4%，迎来最关键涅槃破局年！](https://www.ershicimi.com/p/6f38502fe27809c6c849c49a8418c141) ![](assets/new.png)  
-- [2021-04-08-【论坛】政策与产业双引擎发力，能否扫清工业互联网的“一地鸡毛”？](https://www.ershicimi.com/p/31499b84db57ecd9f708350fe0eac6e6) ![](assets/new.png)  
-- [2021-04-08-风雨三十六年，中兴通讯的命运与沉浮](https://www.ershicimi.com/p/61fbe33d4914565a94fcd973d98dcd96) ![](assets/new.png)  
-- [2021-04-07-曝滴滴启动造车项目！但留给它施展拳脚的机会可能已经不多了......](https://www.ershicimi.com/p/1c5bfa736ae6bc4cc2721ff0073be08b) ![](assets/new.png)  
-- [2021-04-07-十四五规划明确5G普及率目标，模组/终端/运营商…如何落实产业应用？](https://www.ershicimi.com/p/e4f829a108771675f549e611c92e20fb) ![](assets/new.png)  
-- [2021-04-07-为什么信不过AI看病？数据集小、可靠性差，AI医疗任重道远](https://www.ershicimi.com/p/5c607d08e273192e4438842a229623eb) ![](assets/new.png)  
-- [2021-04-06-刚刚，雷军透露小米汽车的品牌名/车型/价格，10-30万，或为SUV-或轿车](https://www.ershicimi.com/p/571ba606cae40c559a5cc28284435e46) ![](assets/new.png)  
-- [2021-04-06-5G基站需要隔多远建一个？关于网络规划的那些问题](https://www.ershicimi.com/p/34be5dee33162693a0d268632190a418) ![](assets/new.png)  
-- [2021-04-06-激荡三十年：银行数据库的发展与变迁](https://www.ershicimi.com/p/b2f85633011349058638e823214fa171) ![](assets/new.png)  
-- [2021-04-05-新疆牧民在家用北斗放牛，网友吐槽：BBC/CNN连夜赶稿《侵犯牛权》](https://www.ershicimi.com/p/700f9871a0505cda7b0e11fa5df32061) ![](assets/new.png)  
-- [2021-04-05-倒计时6天，“2021平板产业赋能教育装备创新峰会”即将开启](https://www.ershicimi.com/p/a4349a1d20d75337b13bfd2d8c445ff7) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

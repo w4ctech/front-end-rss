@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-12 23:39:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-12 23:52:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,5 +86,6 @@
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2021-04-08-成就技术人的创作者-IP-|-《架构师》音视频专刊征稿](https://www.ershicimi.com/p/3c3e9e864f6c1811abb463197a89707a) 
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-04-12-抖音、西瓜视频专测来啦!!](https://sec.thief.one/article_content?a_id=9d963e2e19bae5d98959ee8235aea312) 
 - [2021-04-12-【视频】|-公安部:“断卡”行动](https://sec.thief.one/article_content?a_id=f8e80ed10ef24038b55e556189d13ad6) 

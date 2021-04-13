@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-13 04:05:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-13 04:24:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -406,6 +406,7 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)
+- [【V2EX】请教一个问题：关于-slot-和-signal-的-connect，-不用-connect，-slot-也能被调用](https://www.v2ex.com/t/770304)
 - [【V2EX】杭州/北京社招在线教育后端/前端/客户端/QA](https://www.v2ex.com/t/770302)
 - [【V2EX】對於目前網路上各式各樣的帳號密碼，有沒有甚麼方便又易用的管理方式？](https://www.v2ex.com/t/770301)
 - [【V2EX】结婚之后，女方一般在哪方面愿意出点钱？](https://www.v2ex.com/t/770300)
@@ -420,7 +421,6 @@
 - [【V2EX】软件打开的选择文件的仿达窗口可以显示路径栏吗？](https://www.v2ex.com/t/770280)
 - [【V2EX】类似爬取展示盗版小说的-app-为何可以安然无恙存活？](https://www.v2ex.com/t/770278)
 - [【V2EX】想请教下帝都大佬们合租时共用卫生间阳台的经验](https://www.v2ex.com/t/770277)
-- [【V2EX】实际开发中，会用到某些框架那种写-model-然后执行迁移命令，生成对应数据库表吗](https://www.v2ex.com/t/770276)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

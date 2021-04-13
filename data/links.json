@@ -288,6 +288,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教一个问题：关于 slot 和 signal 的 connect， 不用 connect， slot 也能被调用",
+        "link": "https://www.v2ex.com/t/770304",
+        "date": "2021-04-13"
+      },
+      {
         "title": "[杭州/北京][社招][在线教育]后端/前端/客户端/QA",
         "link": "https://www.v2ex.com/t/770302",
         "date": "2021-04-13"
@@ -460,11 +465,6 @@
       {
         "title": "有开源类软件项目做友情连接的吗？",
         "link": "https://www.v2ex.com/t/770255",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "数据库单表查询速度慢的瓶颈在哪里？",
-        "link": "https://www.v2ex.com/t/770254",
         "date": "2021-04-13"
       }
     ]

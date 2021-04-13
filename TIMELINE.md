@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-13 04:05:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-04-13 04:24:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -35,6 +35,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) 
 - [【阮一峰的网络日志】2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html) 
 - [【阮一峰的网络日志】2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) 
+- [【V2EX】2021-04-13-请教一个问题：关于-slot-和-signal-的-connect，-不用-connect，-slot-也能被调用](https://www.v2ex.com/t/770304) 
 - [【V2EX】2021-04-13-杭州/北京社招在线教育后端/前端/客户端/QA](https://www.v2ex.com/t/770302) 
 - [【V2EX】2021-04-13-對於目前網路上各式各樣的帳號密碼，有沒有甚麼方便又易用的管理方式？](https://www.v2ex.com/t/770301) 
 - [【V2EX】2021-04-13-结婚之后，女方一般在哪方面愿意出点钱？](https://www.v2ex.com/t/770300) 
@@ -70,7 +71,6 @@
 - [【V2EX】2021-04-13-ppt-调试法](https://www.v2ex.com/t/770257) 
 - [【V2EX】2021-04-13-关于-airpods-pro-佩戴，想问下有没有相同情况的朋友。](https://www.v2ex.com/t/770256) 
 - [【V2EX】2021-04-13-有开源类软件项目做友情连接的吗？](https://www.v2ex.com/t/770255) 
-- [【V2EX】2021-04-13-数据库单表查询速度慢的瓶颈在哪里？](https://www.v2ex.com/t/770254) 
 - [【安全热点】2021-04-13-Windows手工入侵排查思路](https://sec.thief.one/article_content?a_id=5489debd6f7290c7a363273b4d5d824f) 
 - [【安全热点】2021-04-13-习近平谈“坚持系统观念”](https://sec.thief.one/article_content?a_id=8f3f775ed7adebd16499693f0e4e31b7) 
 - [【安全热点】2021-04-13-法定数字货币创新研究2021年开放课题](https://sec.thief.one/article_content?a_id=e259f0785f97eae19c3c11c024b97c0d) 

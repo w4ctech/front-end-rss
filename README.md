@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-13 18:55:43，:rocket: 更新条数: +721， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-13 19:08:12，:rocket: 更新条数: +721， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -976,6 +976,7 @@
 </summary>
 
 
+- [2021-04-13-M1-Air-的电池可以高强度使用-4-个小时。](https://www.v2ex.com/t/770471) ![](assets/new.png)  
 - [2021-04-13-回复过于频繁要-1800-秒后再试，是每次尝试进行回复这个等待时间都会重置吗？](https://www.v2ex.com/t/770470) ![](assets/new.png)  
 - [2021-04-13-北京西北旺-有没有打算在西北旺一起合租的-V-友](https://www.v2ex.com/t/770469) ![](assets/new.png)  
 - [2021-04-13-各位的树莓派在吃灰前都用来干啥的？](https://www.v2ex.com/t/770468) ![](assets/new.png)  
@@ -995,7 +996,6 @@
 - [2021-04-13-哪个-chromium-浏览器，能同步插件的设置么？](https://www.v2ex.com/t/770442) ![](assets/new.png)  
 - [2021-04-13-git-问题求各位老哥解](https://www.v2ex.com/t/770441) ![](assets/new.png)  
 - [2021-04-13-有什么算法或者工具是检测视频中手机屏幕大小的？](https://www.v2ex.com/t/770440) ![](assets/new.png)  
-- [2021-04-13-问题已解决｜后续-docker-容器能-PING-通-IP-但-PING-不通域名问题的排查经历分享](https://www.v2ex.com/t/770438) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

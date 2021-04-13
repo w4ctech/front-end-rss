@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-13 02:45:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-13 03:01:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -7,6 +7,9 @@
 
 
 
+- [2021-04-08-关于从入门three.js到做出3d地球这件事第二篇:-开发必备的辅助技能](https://www.ershicimi.com/p/6d25b48039e925e2127f3174e9f1e02b) 
+- [2021-04-06-关于从入门-three.js-到做出-3d-地球这件事](https://www.ershicimi.com/p/40e0855b956574649ebc965f495c38ad) 
+- [2021-04-05-three.js-实现露珠滴落动画](https://www.ershicimi.com/p/8984b09411687b635700c3284b76f86e) 
 - [2021-04-13-做小游戏上到应用商店（非国内）能赚到钱吗？](https://www.v2ex.com/t/770266) 
 - [2021-04-13-如何下载已购买但被下架的无版号游戏？能否要求退款？](https://www.v2ex.com/t/770261) 
 - [2021-04-12-【原创】2021腾讯游戏安全技术复赛pc客户端安全wp](https://sec.thief.one/article_content?a_id=8e20e327b2a10fcb832e139c1c2a12aa) 

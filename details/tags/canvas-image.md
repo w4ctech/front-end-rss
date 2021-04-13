@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-13 09:24:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-13 09:39:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,7 +7,6 @@
 
 
 
-- [2021-04-09-svg项目实践--添加可编辑的svg图片](https://www.ershicimi.com/p/e6ed1fcaad7eac3a6ee5a0f5db558551) 
 - [2021-04-11-svg-项目实践——添加可编辑的-svg-图片](https://www.ershicimi.com/p/849126178dd1cdb8d6ed20e23fae7e1c) 
 - [2021-04-13-用-webgl-可以载入-3d-坐标地图，动态模拟挖掘机挖泥吗？](https://www.v2ex.com/t/770357) 
 - [2021-04-13-浅谈-Webp](https://toutiao.io/k/7emycul) 

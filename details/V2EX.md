@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-04-13 10:03:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-13 10:24:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-13-免费送-30-张-CV-竞赛实战特训-课程免单券，想打-kaggle-比赛的来！](https://www.v2ex.com/t/770398) 
+- [2021-04-13-zookeeper-支持设置-node-的生命周期么?](https://www.v2ex.com/t/770397) 
+- [2021-04-13-招募-大厂面试官-1-对-1-模拟面试](https://www.v2ex.com/t/770395) 
 - [2021-04-13-iPhone-随机取名字，很有故事，不会取名的赶紧用起来](https://www.v2ex.com/t/770393) 
 - [2021-04-13-异地缴纳公积金可行吗？](https://www.v2ex.com/t/770391) 
 - [2021-04-13-截取了一段迪迦变身的音效当作-iPhone-的充电音效](https://www.v2ex.com/t/770390) 
@@ -39,7 +42,3 @@
 - [2021-04-13-现在有靠谱的外包平台推荐么，比如猪八戒这类的](https://www.v2ex.com/t/770354) 
 - [2021-04-13-推广一个自己写的-grpc-go-load-balancing-的实现与及改造成自定义-lb-的-github-repo](https://www.v2ex.com/t/770353) 
 - [2021-04-13-分享一下自己的前端笔记，发现自己简直成了-markdown-程序员...](https://www.v2ex.com/t/770351) 
-- [2021-04-13-stripe-atlas-通过审核了](https://www.v2ex.com/t/770348) 
-- [2021-04-13-求解一个-VB-代码修改文件名的问题](https://www.v2ex.com/t/770347) 
-- [2021-04-13-裸辞了，一身轻松](https://www.v2ex.com/t/770346) 
-- [2021-04-13-Linux-下如何关闭指定进程的-fd](https://www.v2ex.com/t/770345) 

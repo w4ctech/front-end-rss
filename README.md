@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-13 16:46:30，:rocket: 更新条数: +719， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-13 17:09:00，:rocket: 更新条数: +721， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -76,6 +76,8 @@
 </summary>
 
 
+- [2021-04-13-全国｜新增确诊-9-例-其中本土-1-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtincorrOkVoGeULytnQi8n210413&isfromapp=1) ![](assets/new.png)  
+- [2021-04-12-云南｜新增确诊-1-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGgP8fPnYArTgIJjzLRG210413&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -974,6 +976,8 @@
 </summary>
 
 
+- [2021-04-13-北京西北旺-有没有打算在西北旺一起合租的-V-友](https://www.v2ex.com/t/770469) ![](assets/new.png)  
+- [2021-04-13-各位的树莓派在吃灰前都用来干啥的？](https://www.v2ex.com/t/770468) ![](assets/new.png)  
 - [2021-04-13-应届生-offer-比较，求帮选！](https://www.v2ex.com/t/770465) ![](assets/new.png)  
 - [2021-04-13-买休闲裤你们会注意材质吗？比如尽量买纯棉的](https://www.v2ex.com/t/770464) ![](assets/new.png)  
 - [2021-04-13-Apple-正式宣布了-2021-年春季特别活动的日期](https://www.v2ex.com/t/770463) ![](assets/new.png)  
@@ -992,8 +996,6 @@
 - [2021-04-13-有什么算法或者工具是检测视频中手机屏幕大小的？](https://www.v2ex.com/t/770440) ![](assets/new.png)  
 - [2021-04-13-问题已解决｜后续-docker-容器能-PING-通-IP-但-PING-不通域名问题的排查经历分享](https://www.v2ex.com/t/770438) ![](assets/new.png)  
 - [2021-04-13-edge,-ios-safari-都无法打开这位-v-友的链接](https://www.v2ex.com/t/770437) ![](assets/new.png)  
-- [2021-04-13-从烦人的-WPS-"打开方式不对"到翻-Qt-源码](https://www.v2ex.com/t/770436) ![](assets/new.png)  
-- [2021-04-13-请教下-iOS-推送-AppDelegate.-Swift-该怎么写，或者缺少了什么步骤](https://www.v2ex.com/t/770435) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

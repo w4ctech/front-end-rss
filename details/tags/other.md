@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-13 16:46:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-13 17:09:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2021-04-13-全国｜新增确诊-9-例-其中本土-1-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtincorrOkVoGeULytnQi8n210413&isfromapp=1) 
+- [2021-04-12-云南｜新增确诊-1-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGgP8fPnYArTgIJjzLRG210413&isfromapp=1) 
 - [2021-04-09-前端学到什么程度才能叫精通？](https://www.ershicimi.com/p/33707b58e932e4bcd55feff38d5db5ff) 
 - [2021-03-25-最后机会！华为免费培养2000名开发者！](https://www.ershicimi.com/p/2bdafa27b92a642b4c1ac2157542bd83) 
 - [2021-03-23-2021年必须掌握的Vite2,详细教程来了！](https://www.ershicimi.com/p/8623f263ff906d114534b1713e4d5361) 
@@ -238,6 +240,8 @@
 - [2021-04-05-最危险入侵物种之一红火蚁已传播至我国-12-省，它的强悍属性，超过普通人的想象](https://www.ershicimi.com/p/a3d2c0c3ccb932d1671e06f3e418f76f) 
 - [2021-04-05-第一批做近视手术的人，现在后悔了吗？](https://www.ershicimi.com/p/5793b6a355bfa5d9cfe2238cd8d3bfe0) 
 - [2021-04-05-知乎故事-|-如果有-5-杯水却来了-6-个领导，你该怎么办?](https://www.ershicimi.com/p/03b8d7ed48dc066f9d2e8a1ad641cc76) 
+- [2021-04-13-北京西北旺-有没有打算在西北旺一起合租的-V-友](https://www.v2ex.com/t/770469) 
+- [2021-04-13-各位的树莓派在吃灰前都用来干啥的？](https://www.v2ex.com/t/770468) 
 - [2021-04-13-应届生-offer-比较，求帮选！](https://www.v2ex.com/t/770465) 
 - [2021-04-13-买休闲裤你们会注意材质吗？比如尽量买纯棉的](https://www.v2ex.com/t/770464) 
 - [2021-04-13-Apple-正式宣布了-2021-年春季特别活动的日期](https://www.v2ex.com/t/770463) 
@@ -259,8 +263,6 @@
 - [2021-04-13-今天是裸辞第六天。](https://www.v2ex.com/t/770424) 
 - [2021-04-13-这个网页设计好厉害……](https://www.v2ex.com/t/770423) 
 - [2021-04-13-想用-Rust-写一个高并发论坛，什么框架合适？](https://www.v2ex.com/t/770421) 
-- [2021-04-13-坐标深圳，一次发烧，花费-520](https://www.v2ex.com/t/770419) 
-- [2021-04-13-深圳-大疆创新·-DevOps-开发&产品规划·社招-可内推](https://www.v2ex.com/t/770417) 
 - [2021-04-13-如何通过开发快应用赚取睡后收入？-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14291&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F30%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-13-如何基于-Flarum-搭建一个优雅简洁论坛？-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=14290&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F03%2F22%2F189-how-to-install-flarum-based-on-docker%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-13-优质网站同好者周刊（第-8-期）--倾城之链-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=14289&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F04%2F08%2F193-nicelinks-weekly-008%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -293,13 +295,13 @@
 - [2021-04-13-漫画｜外界对程序员的误解究竟有多深？](https://toutiao.io/k/v0zabhg) 
 - [2021-04-13-上手使用-Room-Kotlin-API](https://toutiao.io/k/fpe76ew) 
 - [2021-04-13-手把手教你接入微信支付](https://toutiao.io/k/ul2blg9) 
-- [2021-04-13-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) 
-- [2021-04-13-推荐-译-Uber：面向领域的微服务架构](https://toutiao.io/k/0yy2iga) 
 - [2021-04-13-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
-- [2021-04-13-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
-- [2021-04-13-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
-- [2021-04-13-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
 - [2021-04-13-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) 
+- [2021-04-13-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
+- [2021-04-13-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
+- [2021-04-13-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) 
+- [2021-04-13-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
+- [2021-04-13-推荐-译-Uber：面向领域的微服务架构](https://toutiao.io/k/0yy2iga) 
 - [2021-04-13-推荐-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) 
 - [2021-04-13-看楼盘也得带头盔了?](https://sec.thief.one/article_content?a_id=6eeb02ac29f2682da91cf5846654838a) 
 - [2021-04-13-红军第一套军装的红领章上为何要绣黑边?它的颜色又代表什么?|红色...](https://sec.thief.one/article_content?a_id=1c8673e3a8b68b7a8eb62d74ac14ed10) 

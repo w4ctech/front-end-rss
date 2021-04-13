@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-13 01:55:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-13 02:22:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,5 +7,5 @@
 
 
 
-- [2021-04-06-2021-年-Node.js-开发人员学习路线图](https://www.ershicimi.com/p/a449b0a723c2f039a891a0eac9c80754) 
-- [2021-04-07-80w年薪入职阿里，Node.js必须引起重视了](https://www.ershicimi.com/p/2db7effb784863ad88709b1ad21d8636) 
+- [2020-07-14-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) 
+- [2020-04-07-nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c) 

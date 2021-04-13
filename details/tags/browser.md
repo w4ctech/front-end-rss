@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-13 16:24:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-13 16:46:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,7 +26,6 @@
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
 - [2021-04-13-哪个-chromium-浏览器，能同步插件的设置么？](https://www.v2ex.com/t/770442) 
 - [2021-04-13-edge,-ios-safari-都无法打开这位-v-友的链接](https://www.v2ex.com/t/770437) 
-- [2021-04-13-ELK-里-KQL-过滤-PostgreSQL-的执行语句时间，匹配出错](https://www.v2ex.com/t/770415) 
 - [2021-04-13-玩转-EhCache-缓存框架](https://toutiao.io/k/208pivk) 
 - [2021-04-13-Chrome和Edge远程代码执行0Day漏洞曝光](https://sec.thief.one/article_content?a_id=242fac466cd28fbf996bf7671fb41d6f) 
 - [2021-04-13-【安全头条】德克萨斯州一网民因谋划炸毁亚马逊服务器被捕](https://sec.thief.one/article_content?a_id=9d571665b2668eff4b5845aaa574749f) 

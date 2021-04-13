@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-13 21:23:48，:rocket: 更新条数: +722， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-13 21:37:07，:rocket: 更新条数: +721， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -976,6 +976,7 @@
 </summary>
 
 
+- [2021-04-13-兄弟们，被上级强制通宵](https://www.v2ex.com/t/770474) ![](assets/new.png)  
 - [2021-04-13-你们访问脸书正常吗？](https://www.v2ex.com/t/770472) ![](assets/new.png)  
 - [2021-04-13-M1-Air-的电池可以高强度使用-4-个小时。](https://www.v2ex.com/t/770471) ![](assets/new.png)  
 - [2021-04-13-回复过于频繁要-1800-秒后再试，是每次尝试进行回复这个等待时间都会重置吗？](https://www.v2ex.com/t/770470) ![](assets/new.png)  
@@ -995,7 +996,6 @@
 - [2021-04-13-被父母要钱，我很抗拒](https://www.v2ex.com/t/770450) ![](assets/new.png)  
 - [2021-04-13-Linux-系统使用直接-I/O，是否会产生多线程并发错误？](https://www.v2ex.com/t/770447) ![](assets/new.png)  
 - [2021-04-13-哪个-chromium-浏览器，能同步插件的设置么？](https://www.v2ex.com/t/770442) ![](assets/new.png)  
-- [2021-04-13-git-问题求各位老哥解](https://www.v2ex.com/t/770441) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

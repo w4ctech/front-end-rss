@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-13 20:02:54，:rocket: 更新条数: +721， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-13 20:24:06，:rocket: 更新条数: +722， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -976,6 +976,7 @@
 </summary>
 
 
+- [2021-04-13-你们访问脸书正常吗？](https://www.v2ex.com/t/770472) ![](assets/new.png)  
 - [2021-04-13-M1-Air-的电池可以高强度使用-4-个小时。](https://www.v2ex.com/t/770471) ![](assets/new.png)  
 - [2021-04-13-回复过于频繁要-1800-秒后再试，是每次尝试进行回复这个等待时间都会重置吗？](https://www.v2ex.com/t/770470) ![](assets/new.png)  
 - [2021-04-13-北京西北旺-有没有打算在西北旺一起合租的-V-友](https://www.v2ex.com/t/770469) ![](assets/new.png)  
@@ -995,7 +996,6 @@
 - [2021-04-13-Linux-系统使用直接-I/O，是否会产生多线程并发错误？](https://www.v2ex.com/t/770447) ![](assets/new.png)  
 - [2021-04-13-哪个-chromium-浏览器，能同步插件的设置么？](https://www.v2ex.com/t/770442) ![](assets/new.png)  
 - [2021-04-13-git-问题求各位老哥解](https://www.v2ex.com/t/770441) ![](assets/new.png)  
-- [2021-04-13-有什么算法或者工具是检测视频中手机屏幕大小的？](https://www.v2ex.com/t/770440) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1039,8 +1039,8 @@
 
 
 - [2021-04-13-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-13-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
 - [2021-04-13-Java-中的-equals-和-hashCode（超详细篇）](https://toutiao.io/k/yey6u1v) ![](assets/new.png)  
+- [2021-04-13-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
 - [2021-04-13-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
 - [2021-04-13-玩转-EhCache-缓存框架](https://toutiao.io/k/208pivk) ![](assets/new.png)  
 - [2021-04-13-笔记：5-种网络-IO-模型](https://toutiao.io/k/v9bis1a) ![](assets/new.png)  

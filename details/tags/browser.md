@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-13 05:51:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-13 06:03:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,12 +7,15 @@
 
 
 
+- [2021-04-12-浏览器指纹追踪技术了解一下?](https://www.ershicimi.com/p/291be49707ab70d7e9a49ac05b44c2ce) 
+- [2021-04-09-【第2248期】安全背后:-浏览器是如何校验证书的](https://www.ershicimi.com/p/a317d7a755c0441175e56fc615802364) 
+- [2021-04-01-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/0f7831329d88ca1193fc9a243e19e7f8) 
 - [2021-03-31-前端工程师，一定要懂哪些浏览器原理？-|-活动推荐](https://www.ershicimi.com/p/bc317fcebdc5322bc77be7dc3e17f653) 
-- [2021-04-08-探讨浏览器指纹科普](https://www.ershicimi.com/p/7d4bebcb0d6f1dc91ec1d4c3e266ae22) 
+- [2021-03-30-前端工程师，一定要懂哪些浏览器原理？](https://www.ershicimi.com/p/41ef527a1733f53e3f949568bf2bcf2e) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2021-04-08-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/9e0a0e7b6559752b7a0a05ada834fad8) 
-- [2021-04-12-全世界下载量超-100-亿，curl-怎样成为影响世界的开源项目？](https://www.ershicimi.com/p/f95ec01a19a44e7f8bc459e370f801ca) 
+- [2021-04-13-被-edge-的每日一图整无语了](https://www.v2ex.com/t/770321) 
 - [2021-04-13-调试-XV6-内核时，为什么断点打在_entry0x8000000处，但是运行时却停在-0x8000000a-处？](https://www.v2ex.com/t/770313) 
+- [2021-04-13-玩转-EhCache-缓存框架](https://toutiao.io/k/208pivk) 
 - [2021-04-12-【安全热点周报】第189期:CVE-2021-24086,Windows-TCP/IP拒绝服...](https://sec.thief.one/article_content?a_id=ea6ffb227038ddc1e8be986b16c6faa1) 
 - [2021-04-12-【安全圈】Android恶意软件冒充Netflix劫持会话](https://sec.thief.one/article_content?a_id=55a7e541c54a62b9d0f491522433157c) 
 - [2021-04-12-奇安信零信任安全项目获我国智能科学技术最高奖](https://sec.thief.one/article_content?a_id=2602b2bb782bc191e5c3b1d67226f4de) 

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-04-14 08:39:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 08:52:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-14-有没有朋友再-b-站当-up-主创业，我想做视频评测-做数码或者一些小众产品，有没有啥好的建议](https://www.v2ex.com/t/770639) 
+- [2021-04-14-前端大屏展示页面实现方案](https://www.v2ex.com/t/770638) 
+- [2021-04-14-招-Python-采集工程师Alpha-社-量化股票资讯工具](https://www.v2ex.com/t/770637) 
+- [2021-04-14-有没人用-iPad-办公，和-MacBook-差远吗？？有没有场景可以拉进使用距离](https://www.v2ex.com/t/770634) 
 - [2021-04-14-北京内推-京东物流招前端工程师](https://www.v2ex.com/t/770633) 
 - [2021-04-14-远程-Windows-为什么很卡-用什么软件好点-现在用的-todesk](https://www.v2ex.com/t/770632) 
 - [2021-04-14-百度网页统计问题](https://www.v2ex.com/t/770631) 
@@ -35,9 +39,3 @@
 - [2021-04-14-AirPods-pro-只响一只耳朵，求解决！](https://www.v2ex.com/t/770593) 
 - [2021-04-14-运维新手学习编程的疑惑](https://www.v2ex.com/t/770592) 
 - [2021-04-14-请教用-uWSGI-启动-Django-项目遇到的问题](https://www.v2ex.com/t/770590) 
-- [2021-04-14-前端效率工具：一个方便生成文件索引的-VSCode-插件](https://www.v2ex.com/t/770589) 
-- [2021-04-14-有增删改查的框架或开源项目推荐吗](https://www.v2ex.com/t/770588) 
-- [2021-04-14-求-windows10-下使用-WSL2+Docker-开发的最优姿势](https://www.v2ex.com/t/770587) 
-- [2021-04-14-有没有处理-pdf-文件的库](https://www.v2ex.com/t/770586) 
-- [2021-04-14-吐槽一下新版-chrome-添加书签的功能，比原来麻烦多了](https://www.v2ex.com/t/770585) 
-- [2021-04-14-没有-typec-接口的显卡能接-typec-接口的显示器吗](https://www.v2ex.com/t/770584) 

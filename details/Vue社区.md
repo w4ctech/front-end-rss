@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-14 05:06:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 05:23:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue社区
 
 
 
 
+- [2021-04-14-再见，Vue2.0！](https://www.ershicimi.com/p/d605b052baf940f4ebdbb6697415ecc3) 
+- [2021-04-12-一文带你了解如何排查内存泄漏导致的页面卡顿现象](https://www.ershicimi.com/p/d9acf4bafd39ff48b4bb88faff9756da) 
 - [2021-04-09-前端学到什么程度才能叫精通？](https://www.ershicimi.com/p/33707b58e932e4bcd55feff38d5db5ff) 
 - [2021-04-07-Vue-在哪些方面比-React-做得更好？](https://www.ershicimi.com/p/9aac50dad3d99f9fec8258e7e5a7589b) 
 - [2021-04-06-推荐-7-个-Vue2、Vue3-源码解密分析的开源项目](https://www.ershicimi.com/p/f5aa7c5fd630c4428456a10b6a6cc812) 
@@ -23,5 +25,3 @@
 - [2021-03-08-面试京东，那些必问的-Vue-知识点](https://www.ershicimi.com/p/148a813134440e5d7763c3300e4da70d) 
 - [2021-03-05-字节跳动最爱考的前端面试题：JavaScript-基础](https://www.ershicimi.com/p/5465790e14e35e346ff600353d7ee034) 
 - [2021-03-04-京东-Vue3-组件库闪亮登场](https://www.ershicimi.com/p/300a3f6e99203f8200bafd30f3f65097) 
-- [2021-03-03-CSS3-会替代-SCSS-吗？](https://www.ershicimi.com/p/c70f624412ba7dac65a97fe26149ddc8) 
-- [2021-03-02-Vue-和-React-大厂面试通关指南.pdf](https://www.ershicimi.com/p/22b760dd39505cee82092a28d79d5325) 

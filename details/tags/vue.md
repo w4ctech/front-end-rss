@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-14 05:06:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 05:23:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-04-14-再见，Vue2.0！](https://www.ershicimi.com/p/d605b052baf940f4ebdbb6697415ecc3) 
 - [2021-04-06-推荐-7-个-Vue2、Vue3-源码解密分析的开源项目](https://www.ershicimi.com/p/f5aa7c5fd630c4428456a10b6a6cc812) 
 - [2021-03-31-【阮一峰推荐】学习-vue3-源码的利器](https://www.ershicimi.com/p/c760d7fab9759ccdad74ff83b97e7e7e) 
 - [2021-03-22-超全的Vue3文档【Vue2迁移Vue3】](https://www.ershicimi.com/p/265e4e291491ece4921baf13ba6795e3) 

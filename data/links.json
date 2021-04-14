@@ -17564,6 +17564,16 @@
     "link": "https://www.ershicimi.com/a/9891",
     "items": [
       {
+        "title": "再见，Vue2.0！",
+        "link": "https://www.ershicimi.com/p/d605b052baf940f4ebdbb6697415ecc3",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "一文带你了解如何排查内存泄漏导致的页面卡顿现象",
+        "link": "https://www.ershicimi.com/p/d9acf4bafd39ff48b4bb88faff9756da",
+        "date": "2021-04-12"
+      },
+      {
         "title": "前端学到什么程度才能叫精通？",
         "link": "https://www.ershicimi.com/p/33707b58e932e4bcd55feff38d5db5ff",
         "date": "2021-04-09"
@@ -17652,16 +17662,6 @@
         "title": "京东 Vue3 组件库闪亮登场",
         "link": "https://www.ershicimi.com/p/300a3f6e99203f8200bafd30f3f65097",
         "date": "2021-03-04"
-      },
-      {
-        "title": "CSS3 会替代 SCSS 吗？",
-        "link": "https://www.ershicimi.com/p/c70f624412ba7dac65a97fe26149ddc8",
-        "date": "2021-03-03"
-      },
-      {
-        "title": "Vue 和 React 大厂面试通关指南.pdf",
-        "link": "https://www.ershicimi.com/p/22b760dd39505cee82092a28d79d5325",
-        "date": "2021-03-02"
       }
     ]
   },
@@ -20360,6 +20360,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "anaconda3 环境下，在 cmd 输入\"jupyter lab\"显示\"Exception: Jupyter command `jupyter-lab` not found.\"",
+        "link": "https://www.v2ex.com/t/770568",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "面试官说对我非常满意，却不发 offer",
+        "link": "https://www.v2ex.com/t/770567",
+        "date": "2021-04-14"
+      },
+      {
         "title": "关于刷牙的问题",
         "link": "https://www.v2ex.com/t/770565",
         "date": "2021-04-14"
@@ -20537,16 +20547,6 @@
       {
         "title": "ZHaskell 项目正式发布",
         "link": "https://www.v2ex.com/t/770519",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "最强致富密码：程序员薪资“垫脚石”，靠 GitHub 打赏收入翻倍",
-        "link": "https://www.v2ex.com/t/770518",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "准备买台笔记本用来前端开发 预算大概 7k 会用到 cesium 会吃点性能 有推荐的电脑嘛",
-        "link": "https://www.v2ex.com/t/770517",
         "date": "2021-04-14"
       }
     ]
@@ -20749,28 +20749,8 @@
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
-        "date": "2021-04-14"
-      },
-      {
         "title": "[推荐] 我很久没写代码了，但我是个好架构师",
         "link": "https://toutiao.io/k/gauwubg",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] Go 应用优化指北",
-        "link": "https://toutiao.io/k/6jo6q1t",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 21 张图详解网络基础知识",
-        "link": "https://toutiao.io/k/9uox6mg",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
-        "link": "https://toutiao.io/k/iyge3cy",
         "date": "2021-04-14"
       },
       {
@@ -20779,28 +20759,13 @@
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] GitHub 加速指南进阶版",
-        "link": "https://toutiao.io/k/ygnbct1",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] [译] Uber：面向领域的微服务架构",
-        "link": "https://toutiao.io/k/0yy2iga",
-        "date": "2021-04-14"
-      },
-      {
         "title": "[推荐] 图文详解 Java 对象内存布局",
         "link": "https://toutiao.io/k/romtfff",
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] GitHub 太慢？9 种方案可提速",
-        "link": "https://toutiao.io/k/pufqjt0",
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
         "date": "2021-04-14"
       },
       {
@@ -20809,13 +20774,48 @@
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
+        "title": "[推荐] [译] Uber：面向领域的微服务架构",
+        "link": "https://toutiao.io/k/0yy2iga",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] GitHub 加速指南进阶版",
+        "link": "https://toutiao.io/k/ygnbct1",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 21 张图详解网络基础知识",
+        "link": "https://toutiao.io/k/9uox6mg",
         "date": "2021-04-14"
       },
       {
         "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
         "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] GitHub 太慢？9 种方案可提速",
+        "link": "https://toutiao.io/k/pufqjt0",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] Go 应用优化指北",
+        "link": "https://toutiao.io/k/6jo6q1t",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
+        "link": "https://toutiao.io/k/iyge3cy",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
         "date": "2021-04-14"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-14 03:53:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 04:03:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -16,5 +16,4 @@
 - [2021-04-11-流数据并行处理性能比较：Kafka-vs-Pulsar-vs-Pravega](https://www.ershicimi.com/p/2c5b9cab0e57272b175035f968bc9d1c) 
 - [2021-04-14-求教一下，这种格式的-SQL-该怎么优化](https://www.v2ex.com/t/770531) 
 - [2021-04-14-准备买台笔记本用来前端开发-预算大概-7k-会用到-cesium-会吃点性能-有推荐的电脑嘛](https://www.v2ex.com/t/770517) 
-- [2021-04-14-大数据量模糊匹配有快速响应的优化方案吗？](https://www.v2ex.com/t/770500) 
 - [2021-04-14-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) 

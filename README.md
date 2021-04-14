@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-14 03:53:09，:rocket: 更新条数: +4232， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-14 04:03:21，:rocket: 更新条数: +4231， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-14-FreeBSD-13-正式版发布了](https://www.v2ex.com/t/770550) ![](assets/new.png)  
+- [2021-04-14-老哥们，请教个网络问题。](https://www.v2ex.com/t/770549) ![](assets/new.png)  
+- [2021-04-14-四月最新最全-tg-Airdrop-群集合（持续更新...）](https://www.v2ex.com/t/770547) ![](assets/new.png)  
 - [2021-04-14-🎉-FastAop-v1.0.1-正式发布](https://www.v2ex.com/t/770544) ![](assets/new.png)  
 - [2021-04-14-最近已经出现硬盘挖矿的虚拟币了？](https://www.v2ex.com/t/770543) ![](assets/new.png)  
 - [2021-04-14-有用过淘宝教育的朋友吗](https://www.v2ex.com/t/770542) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-14-搭一个图片相册展示为主的网站用什么框架比较好](https://www.v2ex.com/t/770527) ![](assets/new.png)  
 - [2021-04-14-我买到盗版戴森吹风机了吗？](https://www.v2ex.com/t/770526) ![](assets/new.png)  
 - [2021-04-14-outlook-最新更新，如果选择切换到新版，数据会丢，然后还会闪退，微软这是发了个啥？😂](https://www.v2ex.com/t/770525) ![](assets/new.png)  
-- [2021-04-14-用-Web-Audio-API-和纯-JavaScript-生成音乐](https://www.v2ex.com/t/770524) ![](assets/new.png)  
-- [2021-04-14-买广州还是武汉？](https://www.v2ex.com/t/770523) ![](assets/new.png)  
-- [2021-04-14-群晖-720+可以混插-2-块不同大小的-M2-硬盘吗？](https://www.v2ex.com/t/770522) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,17 +1067,17 @@
 - [2021-04-14-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
 - [2021-04-14-编码编成翔的十八般兵器](https://toutiao.io/k/k5cbxm5) ![](assets/new.png)  
 - [2021-04-14-Kafka-消息存储机制](https://toutiao.io/k/jen5rcs) ![](assets/new.png)  
-- [2021-04-14-Dubbo-编解码那些事](https://toutiao.io/k/3io59y9) ![](assets/new.png)  
 - [2021-04-14-两万字总结《C++-Primer》要点](https://toutiao.io/k/p3nl5uo) ![](assets/new.png)  
+- [2021-04-14-Dubbo-编解码那些事](https://toutiao.io/k/3io59y9) ![](assets/new.png)  
 - [2021-04-14-基于-CNN-+-双向-LSTM-的搭配生成算法](https://toutiao.io/k/k6fc46h) ![](assets/new.png)  
 - [2021-04-14-x64-平台下-inline-hook-的原理、实现与防御](https://toutiao.io/k/mwpeytt) ![](assets/new.png)  
 - [2021-04-14-抖音-iOS-工程架构演进](https://toutiao.io/k/py1bkby) ![](assets/new.png)  
 - [2021-04-14-我叫小-M，立志建立-MySQL-帝国](https://toutiao.io/k/f2sy94i) ![](assets/new.png)  
 - [2021-04-14-如何通过-aop-+-spel-表达式玩转出不一样的切面实现](https://toutiao.io/k/zvtbrf9) ![](assets/new.png)  
 - [2021-04-14-浅谈云原生系统日志收集在数栈的实践](https://toutiao.io/k/3e97p0w) ![](assets/new.png)  
-- [2021-04-14-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
-- [2021-04-14-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
-- [2021-04-14-推荐-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) ![](assets/new.png)  
+- [2021-04-14-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-14-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
+- [2021-04-14-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

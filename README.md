@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-14 18:13:43，:rocket: 更新条数: +4237， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-14 18:26:34，:rocket: 更新条数: +728， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-04-14-最新疫情：全国新冠累计确诊90447例-累计接种新冠疫苗超1.75亿剂次](https://m.caixin.com/m/2021-04-14/101691182.html) ![](assets/new.png)  
-- [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
-- [2021-04-14-云南瑞丽4月13日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-14/101690804.html) ![](assets/new.png)  
-- [2021-04-14-最新海外疫情：新冠感染超1.37亿-累计死亡超295万](https://m.caixin.com/m/2021-04-14/101691179.html) ![](assets/new.png)  
-- [2021-04-14-【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html) ![](assets/new.png)  
-- [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
-- [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
-- [2021-04-13-【境内疫情观察】我国新冠疫苗累计接种超1.67亿剂次（4月12日）](http://m.database.caixin.com/m/2021-04-13/101690476.html) ![](assets/new.png)  
-- [2021-04-13-英国重开商场健身房-澳放弃年底前全民接种目标｜大流行手记（4月12日）](https://m.caixin.com/m/2021-04-13/101690235.html) ![](assets/new.png)  
-- [2021-04-12-解药｜科兴新冠疫苗巴西临床III期数据发论文-为国内首次](https://m.caixin.com/m/2021-04-12/101690123.html) ![](assets/new.png)  
-- [2021-04-12-香港与内地通关现曙光-5月中旬起内地民众来港免隔离](https://m.caixin.com/m/2021-04-12/101690149.html) ![](assets/new.png)  
-- [2021-04-12-云南4月11日新增新冠2例-均在瑞丽市](https://m.caixin.com/m/2021-04-12/101688731.html) ![](assets/new.png)  
-- [2021-04-12-【境内疫情观察】云南新增2例本土病例（4月11日）](http://m.database.caixin.com/m/2021-04-12/101689975.html) ![](assets/new.png)  
-- [2021-04-12-南非变异株或可逃逸辉瑞疫苗保护-印度单日新增破15万｜大流行手记（4月11日）](https://m.caixin.com/m/2021-04-12/101688748.html) ![](assets/new.png)  
-- [2021-04-12-高福回应中国新冠疫苗保护率言论](https://m.caixin.com/m/2021-04-12/101688777.html) ![](assets/new.png)  
-- [2021-04-11-【境内疫情观察】全国新增10例境外输入病例（4月10日）](http://m.database.caixin.com/m/2021-04-11/101688671.html) ![](assets/new.png)  
-- [2021-04-11-研究揭阿斯利康疫苗接种后血栓机制-辉瑞申请扩大疫苗适用范围｜大流行手记（4月10日）](https://m.caixin.com/m/2021-04-11/101688624.html) ![](assets/new.png)  
-- [2021-04-10-【境内疫情观察】全国新增14例境外输入病例（4月9日）](http://m.database.caixin.com/m/2021-04-10/101688525.html) ![](assets/new.png)  
-- [2021-04-10-谭德塞称疫苗分配不均令人震惊-巴西单日死亡又破4000|大流行手记（4月9日）](https://m.caixin.com/m/2021-04-10/101688391.html) ![](assets/new.png)  
-- [2021-04-09-云南瑞丽4月8日新增新冠确诊8例-现有确诊87例](https://m.caixin.com/m/2021-04-09/101687661.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +976,7 @@
 </summary>
 
 
+- [2021-04-14-为什么-leetCode-不能用-BigDecimal-？](https://www.v2ex.com/t/770733) ![](assets/new.png)  
 - [2021-04-14-问一个-ts-类型提取问题](https://www.v2ex.com/t/770732) ![](assets/new.png)  
 - [2021-04-14-20210415-午夜俱乐部](https://www.v2ex.com/t/770731) ![](assets/new.png)  
 - [2021-04-14-lofi.cafe](https://www.v2ex.com/t/770730) ![](assets/new.png)  
@@ -1015,7 +996,6 @@
 - [2021-04-14-如何使用-k8s-对外暴露-pods-的任意端口？](https://www.v2ex.com/t/770712) ![](assets/new.png)  
 - [2021-04-14-iPhone-XR-只要-$212.5-美元](https://www.v2ex.com/t/770711) ![](assets/new.png)  
 - [2021-04-14-系统二次验证大佬们有什么解决方案吗?](https://www.v2ex.com/t/770710) ![](assets/new.png)  
-- [2021-04-14-有什么方法可以取消在-Windows-里面-ctrl+鼠标滚轮-缩放的功能？](https://www.v2ex.com/t/770709) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1120,6 +1100,16 @@
 </summary>
 
 
+- [2021-04-14-抢跑华为3天，小鹏发布全球首款搭载激光雷达量产车“小鹏P5”](https://www.ershicimi.com/p/8a9ec3233e90f9a65b042ae92f526b5c) ![](assets/new.png)  
+- [2021-04-14-数智时代的“思”与“为”-|-研华AIoT创新应用论坛4月开幕大戏](https://www.ershicimi.com/p/ffc5314442ee36388f040c5b0835755f) ![](assets/new.png)  
+- [2021-04-14-华为重磅发布的“分布式云”，究竟是个啥？](https://www.ershicimi.com/p/0e52c6f21f5fcbe3a0411060f4ff00c1) ![](assets/new.png)  
+- [2021-04-14-5G被误解的9个真相，很多人都搞错了](https://www.ershicimi.com/p/4885f2afee2c6390879376b9a5c01fb4) ![](assets/new.png)  
+- [2021-04-13-大人，时代变了！英伟达推出ARM架构CPU，性能10倍领先](https://www.ershicimi.com/p/874901238abc4822eb2940f07fdc57a8) ![](assets/new.png)  
+- [2021-04-13-500+IoT大咖集结上海，引领万亿级市场风向！](https://www.ershicimi.com/p/132c7d6fcfd91bfde015342fa307b56d) ![](assets/new.png)  
+- [2021-04-13-5G超级上行，规模商用正当时](https://www.ershicimi.com/p/8fac6e8274e8799af34a0ef617eb208f) ![](assets/new.png)  
+- [2021-04-12-华为云组织架构大调整/阿里云拟独立运营并上市，云计算的江湖即将大“变天”？](https://www.ershicimi.com/p/838941ede5e21b169ba29f2f9445c45d) ![](assets/new.png)  
+- [2021-04-12-“桥接未来，引领行业”，5G时代鼎桥通信初心未改，创新不断](https://www.ershicimi.com/p/8815080a1763f77053fd41a6bb40f811) ![](assets/new.png)  
+- [2021-04-12-智能家居：小米几百块，华为99999](https://www.ershicimi.com/p/de6e60df89e378a23c18a219c93feb4b) ![](assets/new.png)  
 - [2021-04-11-政府工作报告连续5年部署，总理国常会专门研讨的“提速降费”，在5G时代有什么新内涵？](https://www.ershicimi.com/p/22c148a0a698e211075be6ff0f01ce3c) ![](assets/new.png)  
 - [2021-04-11-2021第四届NB-IoT产业发展大会圆满落幕，开启NB-IoT应用新征程](https://www.ershicimi.com/p/05fd1e6ae42030b0d7f46bd0a4dd029f) ![](assets/new.png)  
 - [2021-04-11-数据驱动工业互联网变革，“2021中国工业互联网发展主题论坛”圆满落幕](https://www.ershicimi.com/p/5df3b73f69f35fb5ac1dc2ef3ecfbc27) ![](assets/new.png)  
@@ -1130,16 +1120,6 @@
 - [2021-04-09-突发！美国枪口再次瞄准中国超算，飞腾、申威等-7-大实体被列管制清单](https://www.ershicimi.com/p/deeccb0fdb136a446ea9877bb58c1919) ![](assets/new.png)  
 - [2021-04-09-发力碳中和，美的SMART-IN-ONE战略聚焦智慧建筑全产业链](https://www.ershicimi.com/p/932d9763fbb2d65ea2dc3af4b0032afd) ![](assets/new.png)  
 - [2021-04-08-华为手机大败局？市场份额暴跌仅剩4%，迎来最关键涅槃破局年！](https://www.ershicimi.com/p/6f38502fe27809c6c849c49a8418c141) ![](assets/new.png)  
-- [2021-04-08-【论坛】政策与产业双引擎发力，能否扫清工业互联网的“一地鸡毛”？](https://www.ershicimi.com/p/31499b84db57ecd9f708350fe0eac6e6) ![](assets/new.png)  
-- [2021-04-08-风雨三十六年，中兴通讯的命运与沉浮](https://www.ershicimi.com/p/61fbe33d4914565a94fcd973d98dcd96) ![](assets/new.png)  
-- [2021-04-07-曝滴滴启动造车项目！但留给它施展拳脚的机会可能已经不多了......](https://www.ershicimi.com/p/1c5bfa736ae6bc4cc2721ff0073be08b) ![](assets/new.png)  
-- [2021-04-07-十四五规划明确5G普及率目标，模组/终端/运营商…如何落实产业应用？](https://www.ershicimi.com/p/e4f829a108771675f549e611c92e20fb) ![](assets/new.png)  
-- [2021-04-07-为什么信不过AI看病？数据集小、可靠性差，AI医疗任重道远](https://www.ershicimi.com/p/5c607d08e273192e4438842a229623eb) ![](assets/new.png)  
-- [2021-04-06-刚刚，雷军透露小米汽车的品牌名/车型/价格，10-30万，或为SUV-或轿车](https://www.ershicimi.com/p/571ba606cae40c559a5cc28284435e46) ![](assets/new.png)  
-- [2021-04-06-5G基站需要隔多远建一个？关于网络规划的那些问题](https://www.ershicimi.com/p/34be5dee33162693a0d268632190a418) ![](assets/new.png)  
-- [2021-04-06-激荡三十年：银行数据库的发展与变迁](https://www.ershicimi.com/p/b2f85633011349058638e823214fa171) ![](assets/new.png)  
-- [2021-04-05-新疆牧民在家用北斗放牛，网友吐槽：BBC/CNN连夜赶稿《侵犯牛权》](https://www.ershicimi.com/p/700f9871a0505cda7b0e11fa5df32061) ![](assets/new.png)  
-- [2021-04-05-倒计时6天，“2021平板产业赋能教育装备创新峰会”即将开启](https://www.ershicimi.com/p/a4349a1d20d75337b13bfd2d8c445ff7) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

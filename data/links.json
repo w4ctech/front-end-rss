@@ -15,6 +15,11 @@
         "date": "2021-04-14"
       },
       {
+        "title": "【境内疫情观察】云南新增1例本土病例（4月13日）",
+        "link": "http://m.database.caixin.com/m/2021-04-14/101691046.html",
+        "date": "2021-04-14"
+      },
+      {
         "title": "美国暂停接种强生疫苗 研究称英国变异株并不更具致命性｜大流行手记（4月13日）",
         "link": "https://m.caixin.com/m/2021-04-14/101690837.html",
         "date": "2021-04-14"
@@ -17545,7 +17550,18 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "四川｜新增1 例确诊病例 1 例无症状感染者",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiox08o8IjflazyI5EvtII210414&isfromapp=1",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "全国｜新增 12 例确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZXZ8ILcpCi8l3U42x29210414&isfromapp=1",
+        "date": "2021-04-14"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",
@@ -20133,7 +20149,108 @@
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/10647",
     "title": "编程之上",
     "link": "https://www.ershicimi.com/a/10647",
-    "items": []
+    "items": [
+      {
+        "title": "第四期|前端的规划如何落地",
+        "link": "https://www.ershicimi.com/p/4233bce2181a7f01d79d8f80ef35e244",
+        "date": "2020-04-15"
+      },
+      {
+        "title": "我和前端早早聊的小故事",
+        "link": "https://www.ershicimi.com/p/288c74cf24f39a4866f6b9626741452d",
+        "date": "2020-04-13"
+      },
+      {
+        "title": "第三期 | 前端搞搭建一些思考",
+        "link": "https://www.ershicimi.com/p/390c83d5208473b69e0d9125c49e95a9",
+        "date": "2020-03-31"
+      },
+      {
+        "title": "前端搞搭建直播 -第三届前端早早聊大会",
+        "link": "https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978",
+        "date": "2020-03-13"
+      },
+      {
+        "title": "万字长文带你深度解锁Webpack（进阶篇）",
+        "link": "https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019",
+        "date": "2020-03-12"
+      },
+      {
+        "title": "4W字长文带你深度解锁Webpack系列(上)",
+        "link": "https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "Dumi 嘟米，开始打造自己的 React 组件开发和文档编写利器吧",
+        "link": "https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d",
+        "date": "2020-03-03"
+      },
+      {
+        "title": "前端如何搞基建",
+        "link": "https://www.ershicimi.com/p/fc1af1d9cfaca3f5d7cb41470add1ace",
+        "date": "2020-03-01"
+      },
+      {
+        "title": "旧书常读出新意：从 React 和 Vue  选择猜一猜性格",
+        "link": "https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029",
+        "date": "2020-02-29"
+      },
+      {
+        "title": "vue 先导章节：纪录片（油管自备梯子）",
+        "link": "https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822",
+        "date": "2020-02-28"
+      },
+      {
+        "title": "2019 年终总结",
+        "link": "https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2",
+        "date": "2019-12-31"
+      },
+      {
+        "title": "git 入门",
+        "link": "https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0",
+        "date": "2019-10-28"
+      },
+      {
+        "title": "谨以此文祝福和致敬每一位前端开发工程师",
+        "link": "https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9",
+        "date": "2019-10-24"
+      },
+      {
+        "title": "Git 工作流",
+        "link": "https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e",
+        "date": "2019-10-20"
+      },
+      {
+        "title": "前端初级",
+        "link": "https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4",
+        "date": "2019-10-17"
+      },
+      {
+        "title": "Javascript 内存空间管理",
+        "link": "https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6",
+        "date": "2019-10-16"
+      },
+      {
+        "title": "我对前端架构师的定义",
+        "link": "https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f",
+        "date": "2019-10-15"
+      },
+      {
+        "title": "《大教堂和集市》读后感",
+        "link": "https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54",
+        "date": "2019-10-14"
+      },
+      {
+        "title": "8年前端开发的知识点沉淀",
+        "link": "https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d",
+        "date": "2019-10-13"
+      },
+      {
+        "title": "如何有效学习",
+        "link": "https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a",
+        "date": "2019-10-12"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/198",
@@ -20247,6 +20364,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "四月活动|IDM、AdGuard、Downie 迎来历史低价，部分软件 6 折起！",
+        "link": "https://www.v2ex.com/t/770614",
+        "date": "2021-04-14"
+      },
       {
         "title": "不懂就问， WPS 网页版的打印功能如何做到把打印设置管控起来，并且真正打印的时候看不到\"更多设置\"和\"布局\"这两个选项，如图一我自己的打印，图二 WPS 的打印，...",
         "link": "https://www.v2ex.com/t/770613",
@@ -20401,16 +20523,6 @@
         "title": "面试官说对我非常满意，却不发 offer",
         "link": "https://www.v2ex.com/t/770567",
         "date": "2021-04-14"
-      },
-      {
-        "title": "关于刷牙的问题",
-        "link": "https://www.v2ex.com/t/770565",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "怎样才能在 ios 的网页端绕过 app 是否安装的检测？",
-        "link": "https://www.v2ex.com/t/770564",
-        "date": "2021-04-14"
       }
     ]
   },
@@ -20418,7 +20530,108 @@
     "rss": "https://front-rss.herokuapp.com/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "想多人游戏？那你还不看看它！ (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14294&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "想多人游戏？那你还不看看它！ (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14293&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "Doge.jpg 的背后是什么，你知道么？ (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14292&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F347658697%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "如何通过开发快应用赚取睡后收入？ (forum.lovejade.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14291&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F30%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "如何基于 Flarum 搭建一个优雅简洁论坛？ (www.jeffjade.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14290&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F03%2F22%2F189-how-to-install-flarum-based-on-docker%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "优质网站同好者周刊（第 8 期）- 倾城之链 (www.jeffjade.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14289&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F04%2F08%2F193-nicelinks-weekly-008%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "快应用开发工具 3.9.0 版本发布 (forum.lovejade.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14288&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F31-390%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "实操｜如何将 Containerd 用作 Kubernetes runtime (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14287&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F359860695%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "Android R 如何访问 Android/data 目录？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14286&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtX31JRuSChWAORKJDlpOIw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "换个角度描述 Android 事件传递，读完会让你耳目一新 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "十余年从业者谈谈 Android 开发现状 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14284&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwGKQ6ZdA3Z_1veEQeeOzzw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "谷歌准备发布Fuchsia首个开发者预览版 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14283&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnVjk_Fr-2xUfCO9T1NhW4Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "Flutter 正在被悄悄放弃吗？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14282&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPc3jcrM67JctE0jgdrgSIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "Oracle慌了！华为开始对JDK下手了！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14281&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489582%26amp%3Bidx%3D1%26amp%3Bsn%3De62a97f8eb10f752bb663622c3370262%26amp%3Bchksm%3Dfa3cf975cd4b706324be1394d8b65d25cfcc78376d9cb2da5f07b1a4e3bec743bd9e5dcf3ee5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "如何提升你的能力？给年轻程序员的几条建议 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489582%26amp%3Bidx%3D2%26amp%3Bsn%3Da57d23faa15f0852af3dac6a32d0b4b8%26amp%3Bchksm%3Dfa3cf975cd4b7063ad9fb1c738fb8761eff06e636dd692e4b226e69ae5072a65f2ac902ffe68%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "用了VSCode、IDEA等十几款编辑器后，我总结出优秀编辑器的特质 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489549%26amp%3Bidx%3D1%26amp%3Bsn%3D74a58b52330c5f12d210705d0a36a072%26amp%3Bchksm%3Dfa3cf956cd4b70400baab2950f83f8056dbeb6197e14eea4cd61901448e6b799821c2fe464c0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "用了VSCode、IDEA等十几款编辑器后，我总结出优秀编辑器的特质 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14278&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489549%26amp%3Bidx%3D1%26amp%3Bsn%3D74a58b52330c5f12d210705d0a36a072%26amp%3Bchksm%3Dfa3cf956cd4b70400baab2950f83f8056dbeb6197e14eea4cd61901448e6b799821c2fe464c0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "用了VSCode、IDEA等十几款编辑器后，我总结出优秀编辑器的特质 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14277&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489549%26amp%3Bidx%3D1%26amp%3Bsn%3D74a58b52330c5f12d210705d0a36a072%26amp%3Bchksm%3Dfa3cf956cd4b70400baab2950f83f8056dbeb6197e14eea4cd61901448e6b799821c2fe464c0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "研究生应锻炼的24种能力 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14276&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489549%26amp%3Bidx%3D2%26amp%3Bsn%3D03b1ac18afc94eadc0b974c2ce8863db%26amp%3Bchksm%3Dfa3cf956cd4b7040d89babf460f203d8898b56ca3663186d51657623ab2f340d2bdd4e3b2abe%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "程序员，你还没有软技能吗？难怪你不幸福 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14275&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489519%26amp%3Bidx%3D2%26amp%3Bsn%3D888eb6bfd655a4422d79b100be37708f%26amp%3Bchksm%3Dfa3cf6b4cd4b7fa2d3d7730066eed43f01f74937b59d45d649841d109dcfcc625288fc5a445f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-14"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
@@ -20526,8 +20739,58 @@
         "date": "2021-04-14"
       },
       {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] GitHub 加速指南进阶版",
+        "link": "https://toutiao.io/k/ygnbct1",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
+        "link": "https://toutiao.io/k/hti1ill",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 图文详解 Java 对象内存布局",
+        "link": "https://toutiao.io/k/romtfff",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] GitHub 太慢？9 种方案可提速",
+        "link": "https://toutiao.io/k/pufqjt0",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
+        "date": "2021-04-14"
+      },
+      {
         "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
         "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 21 张图详解网络基础知识",
+        "link": "https://toutiao.io/k/9uox6mg",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
+        "link": "https://toutiao.io/k/iyge3cy",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
         "date": "2021-04-14"
       },
       {
@@ -20543,56 +20806,6 @@
       {
         "title": "[推荐] Go 应用优化指北",
         "link": "https://toutiao.io/k/6jo6q1t",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 21 张图详解网络基础知识",
-        "link": "https://toutiao.io/k/9uox6mg",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
-        "link": "https://toutiao.io/k/hti1ill",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] GitHub 加速指南进阶版",
-        "link": "https://toutiao.io/k/ygnbct1",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 图文详解 Java 对象内存布局",
-        "link": "https://toutiao.io/k/romtfff",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
-        "link": "https://toutiao.io/k/iyge3cy",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] GitHub 太慢？9 种方案可提速",
-        "link": "https://toutiao.io/k/pufqjt0",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
         "date": "2021-04-14"
       }
     ]

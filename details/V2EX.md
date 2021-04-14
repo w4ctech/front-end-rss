@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-14 07:38:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 07:50:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-14-四月活动|IDM、AdGuard、Downie-迎来历史低价，部分软件-6-折起！](https://www.v2ex.com/t/770614) 
 - [2021-04-14-不懂就问，-WPS-网页版的打印功能如何做到把打印设置管控起来，并且真正打印的时候看不到"更多设置"和"布局"这两个选项，如图一我自己的打印，图二-WPS-的打印，...](https://www.v2ex.com/t/770613) 
 - [2021-04-14-转租-虹口区花园城二期单间](https://www.v2ex.com/t/770609) 
 - [2021-04-14-自己没车，怎么把一只猫从上海带到无锡](https://www.v2ex.com/t/770608) 
@@ -36,5 +37,3 @@
 - [2021-04-14-软路由-R2S，和-Mac-mini-哪个做-HTPC-比较合适？](https://www.v2ex.com/t/770569) 
 - [2021-04-14-anaconda3-环境下，在-cmd-输入"jupyter-lab"显示"Exception:-Jupyter-command-`jupyter-lab`-not-found."](https://www.v2ex.com/t/770568) 
 - [2021-04-14-面试官说对我非常满意，却不发-offer](https://www.v2ex.com/t/770567) 
-- [2021-04-14-关于刷牙的问题](https://www.v2ex.com/t/770565) 
-- [2021-04-14-怎样才能在-ios-的网页端绕过-app-是否安装的检测？](https://www.v2ex.com/t/770564) 

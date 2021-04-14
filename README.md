@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-14 04:54:17，:rocket: 更新条数: +4230， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-14 05:06:19，:rocket: 更新条数: +4231， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,10 @@
 </summary>
 
 
+- [2021-04-14-关于刷牙的问题](https://www.v2ex.com/t/770565) ![](assets/new.png)  
+- [2021-04-14-怎样才能在-ios-的网页端绕过-app-是否安装的检测？](https://www.v2ex.com/t/770564) ![](assets/new.png)  
+- [2021-04-14-担保人贷款咨询](https://www.v2ex.com/t/770563) ![](assets/new.png)  
+- [2021-04-14-大家有没有搞过有状态应用上-K8S](https://www.v2ex.com/t/770562) ![](assets/new.png)  
 - [2021-04-14-请问各位是怎么写离职邮件的？](https://www.v2ex.com/t/770561) ![](assets/new.png)  
 - [2021-04-14-Docker-端口映射后外部无法访问](https://www.v2ex.com/t/770560) ![](assets/new.png)  
 - [2021-04-14-万能的推友推荐下合适新手的-ios-编程的书.](https://www.v2ex.com/t/770559) ![](assets/new.png)  
@@ -1012,10 +1016,6 @@
 - [2021-04-14-南京这边有好的前端坑位么，-4-年经验前端求职](https://www.v2ex.com/t/770540) ![](assets/new.png)  
 - [2021-04-14-在手机上如何对图片批量加滤镜?](https://www.v2ex.com/t/770539) ![](assets/new.png)  
 - [2021-04-14-想问问，深圳抖音后台开发，值不值得去?](https://www.v2ex.com/t/770538) ![](assets/new.png)  
-- [2021-04-14-大佬们，-spark-如何根据表字段，存储到相应的分区呢？](https://www.v2ex.com/t/770537) ![](assets/new.png)  
-- [2021-04-14-最近要准备结婚三金，深圳这边哪里买黄金首饰比较好？](https://www.v2ex.com/t/770536) ![](assets/new.png)  
-- [2021-04-14-迫于娱乐需求，请问如何获取游戏社区服务器中的数据](https://www.v2ex.com/t/770535) ![](assets/new.png)  
-- [2021-04-14-骚操作:我在京东买东西,卖家直接去淘宝帮我下了一单寄给我了](https://www.v2ex.com/t/770532) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1070,14 +1070,14 @@
 - [2021-04-14-两万字总结《C++-Primer》要点](https://toutiao.io/k/p3nl5uo) ![](assets/new.png)  
 - [2021-04-14-Dubbo-编解码那些事](https://toutiao.io/k/3io59y9) ![](assets/new.png)  
 - [2021-04-14-我叫小-M，立志建立-MySQL-帝国](https://toutiao.io/k/f2sy94i) ![](assets/new.png)  
-- [2021-04-14-基于-CNN-+-双向-LSTM-的搭配生成算法](https://toutiao.io/k/k6fc46h) ![](assets/new.png)  
 - [2021-04-14-抖音-iOS-工程架构演进](https://toutiao.io/k/py1bkby) ![](assets/new.png)  
+- [2021-04-14-基于-CNN-+-双向-LSTM-的搭配生成算法](https://toutiao.io/k/k6fc46h) ![](assets/new.png)  
 - [2021-04-14-x64-平台下-inline-hook-的原理、实现与防御](https://toutiao.io/k/mwpeytt) ![](assets/new.png)  
 - [2021-04-14-如何通过-aop-+-spel-表达式玩转出不一样的切面实现](https://toutiao.io/k/zvtbrf9) ![](assets/new.png)  
 - [2021-04-14-浅谈云原生系统日志收集在数栈的实践](https://toutiao.io/k/3e97p0w) ![](assets/new.png)  
 - [2021-04-14-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
-- [2021-04-14-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
-- [2021-04-14-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-14-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-14-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

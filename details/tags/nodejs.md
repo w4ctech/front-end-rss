@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-14 10:03:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 10:24:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -19,3 +19,4 @@
 - [2021-04-04-2021-年-Node.js-开发人员学习路线图](https://www.ershicimi.com/p/a7a1db387af68d5b160b26fcebdb6050) 
 - [2021-04-07-如何应用Node.js打造个人提效工作链？](https://www.ershicimi.com/p/567981ae7d174e4109608888575c3207) 
 - [2021-03-09-作为前端开发，Node.js-你得了解下～](https://www.ershicimi.com/p/0f3e9093221929dddea3c6dd757ae61b) 
+- [2021-04-14-CNNVD-关于Google-Chrome-V8-engine输入验证错误漏洞的预警](https://sec.thief.one/article_content?a_id=5d84d050698cbb71e6e14784625d6e9b) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-14 10:03:14，:rocket: 更新条数: +4235， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-14 10:24:10，:rocket: 更新条数: +4238， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,11 @@
 </summary>
 
 
+- [2021-04-14-游戏音效设计，需要什么能力](https://www.v2ex.com/t/770668) ![](assets/new.png)  
+- [2021-04-14-发现了一个-H5-页面-favicon,是小米新-logo-它不配吗?](https://www.v2ex.com/t/770667) ![](assets/new.png)  
+- [2021-04-14-写微信订阅号还是有好处的](https://www.v2ex.com/t/770666) ![](assets/new.png)  
+- [2021-04-14-为什么-nginx-连请求到达时间这个基本信息都不能记录](https://www.v2ex.com/t/770665) ![](assets/new.png)  
+- [2021-04-14-鹅厂面委面完之后，大概-HR-要等多久才会通知？](https://www.v2ex.com/t/770664) ![](assets/new.png)  
 - [2021-04-14-我们公司所有的文档里，都不允许出现-Master-这个词。。。](https://www.v2ex.com/t/770663) ![](assets/new.png)  
 - [2021-04-14-mongodb-多层嵌套查询问题](https://www.v2ex.com/t/770661) ![](assets/new.png)  
 - [2021-04-14-mbp-3.5mm-耳机孔插入-3-节耳机麦克风有输入声音吗?](https://www.v2ex.com/t/770659) ![](assets/new.png)  
@@ -1011,11 +1016,6 @@
 - [2021-04-14-Azure-学生订阅无法查看余额](https://www.v2ex.com/t/770647) ![](assets/new.png)  
 - [2021-04-14-彦祖们，五一打算去上海玩，有小众但值得逛的地方推荐吗？](https://www.v2ex.com/t/770646) ![](assets/new.png)  
 - [2021-04-14-docker-的某些命令被卡住了，一直没有反应](https://www.v2ex.com/t/770645) ![](assets/new.png)  
-- [2021-04-14-哪位大佬有王力宏的月学教程啊](https://www.v2ex.com/t/770644) ![](assets/new.png)  
-- [2021-04-14-手撸了个微信支付-v3-版的-sdk](https://www.v2ex.com/t/770643) ![](assets/new.png)  
-- [2021-04-14-南京有想撸猫的吗](https://www.v2ex.com/t/770640) ![](assets/new.png)  
-- [2021-04-14-有没有朋友再-b-站当-up-主创业，我想做视频评测-做数码或者一些小众产品，有没有啥好的建议](https://www.v2ex.com/t/770639) ![](assets/new.png)  
-- [2021-04-14-前端大屏展示页面实现方案](https://www.v2ex.com/t/770638) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,6 +1089,17 @@
 </summary>
 
 
+- [2021-04-14-Swarmshop信用卡商店遭攻击,62万张银行卡记录曝光](https://sec.thief.one/article_content?a_id=ec6f3d49d645938caaefeb443bc49e56) ![](assets/new.png)  
+- [2021-04-14-新书推荐-|-《白帽子安全开发实战》](https://sec.thief.one/article_content?a_id=a65e9dee85ec083ad15d9ad59001f146) ![](assets/new.png)  
+- [2021-04-14-征题倒计时!2021-KCTF-春季赛-等你来挑战!](https://sec.thief.one/article_content?a_id=e4e3d3c3649353fff4f4d316c49d3f0f) ![](assets/new.png)  
+- [2021-04-14-助力蓝队防守:微步在线TDP支持检测在野0day攻击又双叒叕增加](https://sec.thief.one/article_content?a_id=e63c1f9dd7db54ea3b86994117d41fc4) ![](assets/new.png)  
+- [2021-04-14-Guymager取证介绍及操作文献归档](https://sec.thief.one/article_content?a_id=a5d46ec58038fe62cbfdfa0a82a4817c) ![](assets/new.png)  
+- [2021-04-14-CNNVD-关于Google-Chrome-V8-engine输入验证错误漏洞的预警](https://sec.thief.one/article_content?a_id=5d84d050698cbb71e6e14784625d6e9b) ![](assets/new.png)  
+- [2021-04-14-【安全更新】微软4月安全更新多个产品高危漏洞通告](https://sec.thief.one/article_content?a_id=faef99d8692f6a372efd2a493c7c04eb) ![](assets/new.png)  
+- [2021-04-14-诸子云|话题:蜜罐及钓鱼测试新手怎上手?业务上云解决方案?自动加...](https://sec.thief.one/article_content?a_id=2c917dda24b4bc074eef81ae93d08d8d) ![](assets/new.png)  
+- [2021-04-14-分享图片](https://sec.thief.one/article_content?a_id=898f150e9fd53e87bd444bb00f8e149d) ![](assets/new.png)  
+- [2021-04-14-【漏洞分析】CVE-2020-0601分析](https://sec.thief.one/article_content?a_id=fca8589555ac21a5afecdda246167dd0) ![](assets/new.png)  
+- [2021-04-14-美国国家安全局发现四个Exchange远程代码执行漏洞](https://sec.thief.one/article_content?a_id=730a695dd7f96aeadb030b891069f936) ![](assets/new.png)  
 - [2021-04-14-欧洲投资银行利用区块链发行债券](https://sec.thief.one/article_content?a_id=8d99c8705556a43923e0f0174fa9b991) ![](assets/new.png)  
 - [2021-04-14-【漏洞通告】Exchange-Server远程代码执行漏洞](https://sec.thief.one/article_content?a_id=e7a98656e449b1a4246f6458b71aa4ce) ![](assets/new.png)  
 - [2021-04-14-xHunt的最新攻击手段分析:通过BumbleBee-Webshell发起攻击上](https://sec.thief.one/article_content?a_id=c55a902dedd0e985f311519bf2f8a568) ![](assets/new.png)  
@@ -1098,17 +1109,6 @@
 - [2021-04-14-Chrome和Edge远程代码执行0Day漏洞曝光](https://sec.thief.one/article_content?a_id=2f1a821775e4a12e838319bda2cdc1cb) ![](assets/new.png)  
 - [2021-04-14-Exchange-多个蠕虫级远程命令执行漏洞通告](https://sec.thief.one/article_content?a_id=4e8398f4ea0f73889513fc03a6c13c2f) ![](assets/new.png)  
 - [2021-04-14-漏洞情报|Exchange-多个严重远程命令执行漏洞通告](https://sec.thief.one/article_content?a_id=0cf57e01ce898a9d7956302a1e52425e) ![](assets/new.png)  
-- [2021-04-14-MySQL-服务端恶意读取客户端任意文件漏洞](https://sec.thief.one/article_content?a_id=d2bc59c2425f062a133b86e47cc08c06) ![](assets/new.png)  
-- [2021-04-14-国家医疗保障局发布《关于加强网络安全和数据保护工作的指导意见》](https://sec.thief.one/article_content?a_id=991874a397177ce54424df24043467c6) ![](assets/new.png)  
-- [2021-04-14-【安全风险通告】奇安信代码安全实验室研究发现三枚漏洞,微软4月...](https://sec.thief.one/article_content?a_id=8aa798b14e1823d72feabe2256628d29) ![](assets/new.png)  
-- [2021-04-14-CVE-2021-26295:Apache-OFBiz反序列化漏洞复现](https://sec.thief.one/article_content?a_id=6688031f0a003f67dcdfdebb1208424a) ![](assets/new.png)  
-- [2021-04-14-Chrome、Edge零日漏洞“泄漏”引发恐慌](https://sec.thief.one/article_content?a_id=27f71a4a2efaa0f9ec1880d3ab1fac63) ![](assets/new.png)  
-- [2021-04-14-湖南电信网络崩了,官方回应:系光缆故障-排除网络攻击](https://sec.thief.one/article_content?a_id=dfc8a5f6b79946e2c1f7a92ecb577ba8) ![](assets/new.png)  
-- [2021-04-14-迷惑行为赏析:把-jpg-图片加密后卖了-247-万](https://sec.thief.one/article_content?a_id=9181eec687114aa7d7e407a49436742b) ![](assets/new.png)  
-- [2021-04-14-因女朋友的一个建议,这位程序员创立仅-551-天公司就被-10-亿美元收...](https://sec.thief.one/article_content?a_id=fc3dd9f1542d13076ba2dc0e0214d771) ![](assets/new.png)  
-- [2021-04-14-哈哈哈哈,这个勒索软件笑死我了!](https://sec.thief.one/article_content?a_id=65f3967cd2cdb940ffee52468dd7405a) ![](assets/new.png)  
-- [2021-04-14-【视频】|-网络安全等级保护2.0政策解读](https://sec.thief.one/article_content?a_id=cb46a85f9315ce68343d8738f981f6be) ![](assets/new.png)  
-- [2021-04-14-Shadow-Attack:隐藏和替换签名PDF中的内容](https://sec.thief.one/article_content?a_id=cc9e0993a9461dce50a03b94232a4151) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -20370,6 +20370,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "游戏音效设计，需要什么能力",
+        "link": "https://www.v2ex.com/t/770668",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "发现了一个 H5 页面 favicon,是小米新 logo 它不配吗?",
+        "link": "https://www.v2ex.com/t/770667",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "写微信订阅号还是有好处的",
+        "link": "https://www.v2ex.com/t/770666",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "为什么 nginx 连请求到达时间这个基本信息都不能记录",
+        "link": "https://www.v2ex.com/t/770665",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "鹅厂面委面完之后，大概 HR 要等多久才会通知？",
+        "link": "https://www.v2ex.com/t/770664",
+        "date": "2021-04-14"
+      },
+      {
         "title": "我们公司所有的文档里，都不允许出现 Master 这个词。。。",
         "link": "https://www.v2ex.com/t/770663",
         "date": "2021-04-14"
@@ -20542,16 +20567,6 @@
       {
         "title": "为什么我 Google 搜索 v2ex，结果闪一下就剩一两条了呢",
         "link": "https://www.v2ex.com/t/770620",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "Edge 有没有免安装，又可以正常更新的便携版本？",
-        "link": "https://www.v2ex.com/t/770616",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "四月活动|IDM、AdGuard、Downie 迎来历史低价，部分软件 6 折起！",
-        "link": "https://www.v2ex.com/t/770614",
         "date": "2021-04-14"
       }
     ]
@@ -20769,48 +20784,8 @@
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] [译] Uber：面向领域的微服务架构",
-        "link": "https://toutiao.io/k/0yy2iga",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] GitHub 加速指南进阶版",
-        "link": "https://toutiao.io/k/ygnbct1",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
-        "link": "https://toutiao.io/k/hti1ill",
-        "date": "2021-04-14"
-      },
-      {
         "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
         "link": "https://toutiao.io/k/we8gr61",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] Go 应用优化指北",
-        "link": "https://toutiao.io/k/6jo6q1t",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 21 张图详解网络基础知识",
-        "link": "https://toutiao.io/k/9uox6mg",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] GitHub 太慢？9 种方案可提速",
-        "link": "https://toutiao.io/k/pufqjt0",
         "date": "2021-04-14"
       },
       {
@@ -20819,13 +20794,18 @@
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 图文详解 Java 对象内存布局",
-        "link": "https://toutiao.io/k/romtfff",
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
-        "link": "https://toutiao.io/k/iyge3cy",
+        "title": "[推荐] 21 张图详解网络基础知识",
+        "link": "https://toutiao.io/k/9uox6mg",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
+        "link": "https://toutiao.io/k/hti1ill",
         "date": "2021-04-14"
       },
       {
@@ -20834,8 +20814,43 @@
         "date": "2021-04-14"
       },
       {
+        "title": "[推荐] [译] Uber：面向领域的微服务架构",
+        "link": "https://toutiao.io/k/0yy2iga",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
+        "link": "https://toutiao.io/k/iyge3cy",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 图文详解 Java 对象内存布局",
+        "link": "https://toutiao.io/k/romtfff",
+        "date": "2021-04-14"
+      },
+      {
         "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
         "link": "https://toutiao.io/k/pmlwnuy",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] Go 应用优化指北",
+        "link": "https://toutiao.io/k/6jo6q1t",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] GitHub 太慢？9 种方案可提速",
+        "link": "https://toutiao.io/k/pufqjt0",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] GitHub 加速指南进阶版",
+        "link": "https://toutiao.io/k/ygnbct1",
         "date": "2021-04-14"
       }
     ]
@@ -20845,6 +20860,61 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "Swarmshop信用卡商店遭攻击,62万张银行卡记录曝光",
+        "link": "https://sec.thief.one/article_content?a_id=ec6f3d49d645938caaefeb443bc49e56",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "新书推荐 | 《白帽子安全开发实战》",
+        "link": "https://sec.thief.one/article_content?a_id=a65e9dee85ec083ad15d9ad59001f146",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "征题倒计时!2021 KCTF 春季赛 等你来挑战!",
+        "link": "https://sec.thief.one/article_content?a_id=e4e3d3c3649353fff4f4d316c49d3f0f",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "助力蓝队防守:微步在线TDP支持检测在野0day攻击又双叒叕增加",
+        "link": "https://sec.thief.one/article_content?a_id=e63c1f9dd7db54ea3b86994117d41fc4",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "Guymager取证介绍及操作文献归档",
+        "link": "https://sec.thief.one/article_content?a_id=a5d46ec58038fe62cbfdfa0a82a4817c",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "CNNVD 关于Google Chrome V8 engine输入验证错误漏洞的预警",
+        "link": "https://sec.thief.one/article_content?a_id=5d84d050698cbb71e6e14784625d6e9b",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "【安全更新】微软4月安全更新多个产品高危漏洞通告",
+        "link": "https://sec.thief.one/article_content?a_id=faef99d8692f6a372efd2a493c7c04eb",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "诸子云|话题:蜜罐及钓鱼测试新手怎上手?业务上云解决方案?自动加...",
+        "link": "https://sec.thief.one/article_content?a_id=2c917dda24b4bc074eef81ae93d08d8d",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "分享图片",
+        "link": "https://sec.thief.one/article_content?a_id=898f150e9fd53e87bd444bb00f8e149d",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "【漏洞分析】CVE-2020-0601分析",
+        "link": "https://sec.thief.one/article_content?a_id=fca8589555ac21a5afecdda246167dd0",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "美国国家安全局发现四个Exchange远程代码执行漏洞",
+        "link": "https://sec.thief.one/article_content?a_id=730a695dd7f96aeadb030b891069f936",
+        "date": "2021-04-14"
+      },
       {
         "title": "欧洲投资银行利用区块链发行债券",
         "link": "https://sec.thief.one/article_content?a_id=8d99c8705556a43923e0f0174fa9b991",
@@ -21289,61 +21359,6 @@
         "title": "【视频】| 公安部:“断卡”行动",
         "link": "https://sec.thief.one/article_content?a_id=f8e80ed10ef24038b55e556189d13ad6",
         "date": "2021-04-12"
-      },
-      {
-        "title": "PyTorch + NumPy这么做会降低模型准确率,这是bug还是预期功能?",
-        "link": "https://sec.thief.one/article_content?a_id=e51e11ae76824309101b75b98b58c94c",
-        "date": "2021-04-12"
-      },
-      {
-        "title": "安全学术圈2020年度总结",
-        "link": "https://sec.thief.one/article_content?a_id=d97871e02e46ef2f849fbf010728e77f",
-        "date": "2021-04-12"
-      },
-      {
-        "title": "面试官常考的 21 条 Linux 命令",
-        "link": "https://sec.thief.one/article_content?a_id=beb9f32e4ca4505734f45a73a4ee7f74",
-        "date": "2021-04-12"
-      },
-      {
-        "title": "5亿LinkedIn用户倒霉 个人信息泄露",
-        "link": "https://sec.thief.one/article_content?a_id=a15de4c15967538094d84cd3702797fa",
-        "date": "2021-04-12"
-      },
-      {
-        "title": "20210411|漏洞处置情况",
-        "link": "https://sec.thief.one/article_content?a_id=7da3a78813561efe0d8cc81141abe575",
-        "date": "2021-04-11"
-      },
-      {
-        "title": "推荐 2 款必备的 Django 开发神器",
-        "link": "https://sec.thief.one/article_content?a_id=684130f4f46947a56758b9a7ad6dbaf1",
-        "date": "2021-04-11"
-      },
-      {
-        "title": "如何用敏捷搞垮一个团队?",
-        "link": "https://sec.thief.one/article_content?a_id=7e5f824aeac3e11b6a03ae4bc72eefb4",
-        "date": "2021-04-11"
-      },
-      {
-        "title": "攻防第四日漏洞与情报整理及解决方案",
-        "link": "https://sec.thief.one/article_content?a_id=a40edfa9c6900a105bd2a2653f1b9db8",
-        "date": "2021-04-11"
-      },
-      {
-        "title": "红队攻击前隐匿流量的基本方法",
-        "link": "https://sec.thief.one/article_content?a_id=72709489db8298f0a44c0d45b6dbd7f9",
-        "date": "2021-04-11"
-      },
-      {
-        "title": "Google安全团队该不该披露疑似美国政府的黑客行动?",
-        "link": "https://sec.thief.one/article_content?a_id=2df74d0834a8b84c45d5729f141f1f91",
-        "date": "2021-04-11"
-      },
-      {
-        "title": "共筑网络文明同心圆|“开学第一课”怎么上?浙江省台州市三门县网络...",
-        "link": "https://sec.thief.one/article_content?a_id=19e4c964ed15ce76eac2034506a555e6",
-        "date": "2021-04-11"
       }
     ]
   },

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-14 10:03:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 10:24:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,10 +41,12 @@
 - [2021-04-12-一文全面解析-Postman-工具](https://www.ershicimi.com/p/c99ef132fe246495128025df622cf65c) 
 - [2021-04-12-全世界下载量超-100-亿，curl-怎样成为影响世界的开源项目？](https://www.ershicimi.com/p/f95ec01a19a44e7f8bc459e370f801ca) 
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
+- [2021-04-14-为什么-nginx-连请求到达时间这个基本信息都不能记录](https://www.v2ex.com/t/770665) 
 - [2021-04-14-如何让-Edge-for-Mac-不依赖-Microsoft-AutoUpdate-更新？](https://www.v2ex.com/t/770649) 
-- [2021-04-14-Edge-有没有免安装，又可以正常更新的便携版本？](https://www.v2ex.com/t/770616) 
-- [2021-04-14-四月活动|IDM、AdGuard、Downie-迎来历史低价，部分软件-6-折起！](https://www.v2ex.com/t/770614) 
 - [2021-04-14-你知道威胁手游安全的对象有哪些吗？](https://toutiao.io/k/i52m574) 
+- [2021-04-14-新书推荐-|-《白帽子安全开发实战》](https://sec.thief.one/article_content?a_id=a65e9dee85ec083ad15d9ad59001f146) 
+- [2021-04-14-【安全更新】微软4月安全更新多个产品高危漏洞通告](https://sec.thief.one/article_content?a_id=faef99d8692f6a372efd2a493c7c04eb) 
+- [2021-04-14-美国国家安全局发现四个Exchange远程代码执行漏洞](https://sec.thief.one/article_content?a_id=730a695dd7f96aeadb030b891069f936) 
 - [2021-04-14-Chrome和Edge远程代码执行0Day漏洞曝光](https://sec.thief.one/article_content?a_id=2f1a821775e4a12e838319bda2cdc1cb) 
 - [2021-04-14-国家医疗保障局发布《关于加强网络安全和数据保护工作的指导意见》](https://sec.thief.one/article_content?a_id=991874a397177ce54424df24043467c6) 
 - [2021-04-14-【安全风险通告】奇安信代码安全实验室研究发现三枚漏洞,微软4月...](https://sec.thief.one/article_content?a_id=8aa798b14e1823d72feabe2256628d29) 
@@ -72,5 +74,3 @@
 - [2021-04-12-每日安全动态推送04-12](https://sec.thief.one/article_content?a_id=dd220221a8f4055017d0bac9d9f583e1) 
 - [2021-04-12-首届中国城市网络与信息安全行业高峰论坛圆满落幕](https://sec.thief.one/article_content?a_id=031b9cf64fc1e00ab59532c7d67572a3) 
 - [2021-04-12-密码打马赛克已经不安全了!这款开源的去“马赛克“工具一秒还原](https://sec.thief.one/article_content?a_id=66e4a90fefb2032aafb98f4c315a88ff) 
-- [2021-04-12-安全学术圈2020年度总结](https://sec.thief.one/article_content?a_id=d97871e02e46ef2f849fbf010728e77f) 
-- [2021-04-11-Google安全团队该不该披露疑似美国政府的黑客行动?](https://sec.thief.one/article_content?a_id=2df74d0834a8b84c45d5729f141f1f91) 

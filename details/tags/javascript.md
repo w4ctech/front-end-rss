@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-14 23:23:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 23:38:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -63,8 +63,6 @@
 - [2021-04-06-如何跟面试官解释事件循环](https://www.ershicimi.com/p/e369c7725becfe7b75f5b16da97d8346) 
 - [2021-03-27-常见的数组基本用法](https://www.ershicimi.com/p/780607140a33b96ba85ec21e85aa8c85) 
 - [2021-03-24-【重磅】送20本最新第7版JS-犀牛书以及限量卫衣](https://www.ershicimi.com/p/368a4a086bab948b1b6e7ca698732736) 
-- [2021-04-09-JavaScript代理的惊人力量](https://www.ershicimi.com/p/63353b7326efc4790a8029f300d30a4c) 
-- [2021-04-07-从一道让我失眠的-Promise-面试题深入分析](https://www.ershicimi.com/p/a882238721e496927754052e375ce19e) 
 - [2021-04-06-H5-页面列表缓存方案](https://www.ershicimi.com/p/e3e3b7bbb4a8ce3783c9a21fac6d9945) 
 - [2021-03-02-如何用-JS-实现二叉堆](https://www.ershicimi.com/p/7042ca89ec61f44863acb7c888ae365f) 
 - [2021-02-02-动态表单之表单组件的插件式加载方案](https://www.ershicimi.com/p/8cc8832fe3c00b073d2e023bcbf6947f) 
@@ -80,10 +78,5 @@
 - [2021-04-12-进阶：玩转-CSS-变量](https://www.ershicimi.com/p/e8100dda1023ec334e6dc00551bd04f1) 
 - [2021-04-09-这次彻底搞懂浏览器的事件循环知识它、！面试必备](https://www.ershicimi.com/p/648b0992d930fd919b870787326925b8) 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
-- [2021-04-09-奇舞周刊第-392-期：用-65-行代码实现-JavaScript-动画序列播放](https://www.ershicimi.com/p/013dd0533617f7cce4ff4a46483d0fb1) 
-- [2021-03-23-一道面试题让你更加了解事件队列](https://www.ershicimi.com/p/9164c8331ace11df525b236cca2d21c2) 
-- [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
-- [2021-04-09-全网最全-Java-日志框架适配方案！还有谁不会？](https://www.ershicimi.com/p/1d59f4b328ad336e49e8f5521ef63348) 
-- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2021-04-14-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-04-13-fastjson漏洞总结](https://sec.thief.one/article_content?a_id=ad4e5e5fd0ead85f21ab4575cbf7822f) 
 - [2021-04-10-“北斗掉线”司机自杀事件真相背后：切莫滥用北斗概念](https://www.ershicimi.com/p/e0e8ae706047b8e7a76311b1bca4dca3) 

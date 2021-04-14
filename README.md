@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-14 03:40:03，:rocket: 更新条数: +4232， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-14 03:53:09，:rocket: 更新条数: +4232， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-14-🎉-FastAop-v1.0.1-正式发布](https://www.v2ex.com/t/770544) ![](assets/new.png)  
+- [2021-04-14-最近已经出现硬盘挖矿的虚拟币了？](https://www.v2ex.com/t/770543) ![](assets/new.png)  
+- [2021-04-14-有用过淘宝教育的朋友吗](https://www.v2ex.com/t/770542) ![](assets/new.png)  
 - [2021-04-14-工作六年，依然不能手写-Block，什么水平？](https://www.v2ex.com/t/770541) ![](assets/new.png)  
 - [2021-04-14-南京这边有好的前端坑位么，-4-年经验前端求职](https://www.v2ex.com/t/770540) ![](assets/new.png)  
 - [2021-04-14-在手机上如何对图片批量加滤镜?](https://www.v2ex.com/t/770539) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-14-用-Web-Audio-API-和纯-JavaScript-生成音乐](https://www.v2ex.com/t/770524) ![](assets/new.png)  
 - [2021-04-14-买广州还是武汉？](https://www.v2ex.com/t/770523) ![](assets/new.png)  
 - [2021-04-14-群晖-720+可以混插-2-块不同大小的-M2-硬盘吗？](https://www.v2ex.com/t/770522) ![](assets/new.png)  
-- [2021-04-14-好家伙，发现挂梯子，微信太稳定了](https://www.v2ex.com/t/770521) ![](assets/new.png)  
-- [2021-04-14-求职0-经验求-golang-工作内推](https://www.v2ex.com/t/770520) ![](assets/new.png)  
-- [2021-04-14-ZHaskell-项目正式发布](https://www.v2ex.com/t/770519) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,8 +1065,8 @@
 - [2021-04-14-你知道威胁手游安全的对象有哪些吗？](https://toutiao.io/k/i52m574) ![](assets/new.png)  
 - [2021-04-14-使用-npm-命令行更新版本号](https://toutiao.io/k/vcpcgop) ![](assets/new.png)  
 - [2021-04-14-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-14-Kafka-消息存储机制](https://toutiao.io/k/jen5rcs) ![](assets/new.png)  
 - [2021-04-14-编码编成翔的十八般兵器](https://toutiao.io/k/k5cbxm5) ![](assets/new.png)  
+- [2021-04-14-Kafka-消息存储机制](https://toutiao.io/k/jen5rcs) ![](assets/new.png)  
 - [2021-04-14-Dubbo-编解码那些事](https://toutiao.io/k/3io59y9) ![](assets/new.png)  
 - [2021-04-14-两万字总结《C++-Primer》要点](https://toutiao.io/k/p3nl5uo) ![](assets/new.png)  
 - [2021-04-14-基于-CNN-+-双向-LSTM-的搭配生成算法](https://toutiao.io/k/k6fc46h) ![](assets/new.png)  
@@ -1075,9 +1075,9 @@
 - [2021-04-14-我叫小-M，立志建立-MySQL-帝国](https://toutiao.io/k/f2sy94i) ![](assets/new.png)  
 - [2021-04-14-如何通过-aop-+-spel-表达式玩转出不一样的切面实现](https://toutiao.io/k/zvtbrf9) ![](assets/new.png)  
 - [2021-04-14-浅谈云原生系统日志收集在数栈的实践](https://toutiao.io/k/3e97p0w) ![](assets/new.png)  
+- [2021-04-14-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
 - [2021-04-14-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
-- [2021-04-14-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
-- [2021-04-14-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-14-推荐-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

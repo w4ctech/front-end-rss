@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-14 09:52:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 10:03:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3433,13 +3433,13 @@
 - [2021-04-14-实时-OLAP，-从-0-到-1](https://toutiao.io/k/t9n0w18) 
 - [2021-04-14-架构设计笔记（十五）：关键模式_微服务](https://toutiao.io/k/xj1zsqh) 
 - [2021-04-14-推荐-译-Uber：面向领域的微服务架构](https://toutiao.io/k/0yy2iga) 
-- [2021-04-14-推荐-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) 
-- [2021-04-14-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
-- [2021-04-14-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
-- [2021-04-14-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
-- [2021-04-14-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) 
-- [2021-04-14-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) 
 - [2021-04-14-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
+- [2021-04-14-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
+- [2021-04-14-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) 
+- [2021-04-14-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
+- [2021-04-14-推荐-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) 
+- [2021-04-14-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) 
+- [2021-04-14-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
 - [2021-04-14-欧洲投资银行利用区块链发行债券](https://sec.thief.one/article_content?a_id=8d99c8705556a43923e0f0174fa9b991) 
 - [2021-04-14-【漏洞通告】Exchange-Server远程代码执行漏洞](https://sec.thief.one/article_content?a_id=e7a98656e449b1a4246f6458b71aa4ce) 
 - [2021-04-14-xHunt的最新攻击手段分析:通过BumbleBee-Webshell发起攻击上](https://sec.thief.one/article_content?a_id=c55a902dedd0e985f311519bf2f8a568) 

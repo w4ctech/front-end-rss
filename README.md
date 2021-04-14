@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-14 03:25:14，:rocket: 更新条数: +4229， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-14 03:40:03，:rocket: 更新条数: +4232， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,13 @@
 </summary>
 
 
+- [2021-04-14-工作六年，依然不能手写-Block，什么水平？](https://www.v2ex.com/t/770541) ![](assets/new.png)  
+- [2021-04-14-南京这边有好的前端坑位么，-4-年经验前端求职](https://www.v2ex.com/t/770540) ![](assets/new.png)  
+- [2021-04-14-在手机上如何对图片批量加滤镜?](https://www.v2ex.com/t/770539) ![](assets/new.png)  
+- [2021-04-14-想问问，深圳抖音后台开发，值不值得去?](https://www.v2ex.com/t/770538) ![](assets/new.png)  
+- [2021-04-14-大佬们，-spark-如何根据表字段，存储到相应的分区呢？](https://www.v2ex.com/t/770537) ![](assets/new.png)  
+- [2021-04-14-最近要准备结婚三金，深圳这边哪里买黄金首饰比较好？](https://www.v2ex.com/t/770536) ![](assets/new.png)  
+- [2021-04-14-迫于娱乐需求，请问如何获取游戏社区服务器中的数据](https://www.v2ex.com/t/770535) ![](assets/new.png)  
 - [2021-04-14-骚操作:我在京东买东西,卖家直接去淘宝帮我下了一单寄给我了](https://www.v2ex.com/t/770532) ![](assets/new.png)  
 - [2021-04-14-求教一下，这种格式的-SQL-该怎么优化](https://www.v2ex.com/t/770531) ![](assets/new.png)  
 - [2021-04-14-mac-os、Safari、-https、没装过任何公司的软件，这种情况下公司能看到我的浏览器访问记录及浏览器下载记录吗？](https://www.v2ex.com/t/770530) ![](assets/new.png)  
@@ -1009,13 +1016,6 @@
 - [2021-04-14-好家伙，发现挂梯子，微信太稳定了](https://www.v2ex.com/t/770521) ![](assets/new.png)  
 - [2021-04-14-求职0-经验求-golang-工作内推](https://www.v2ex.com/t/770520) ![](assets/new.png)  
 - [2021-04-14-ZHaskell-项目正式发布](https://www.v2ex.com/t/770519) ![](assets/new.png)  
-- [2021-04-14-最强致富密码：程序员薪资“垫脚石”，靠-GitHub-打赏收入翻倍](https://www.v2ex.com/t/770518) ![](assets/new.png)  
-- [2021-04-14-准备买台笔记本用来前端开发-预算大概-7k-会用到-cesium-会吃点性能-有推荐的电脑嘛](https://www.v2ex.com/t/770517) ![](assets/new.png)  
-- [2021-04-14-Flask-SocketIO-多线程遇到的问题](https://www.v2ex.com/t/770515) ![](assets/new.png)  
-- [2021-04-14-求职Golang-后端求职，地点不限，求内推](https://www.v2ex.com/t/770514) ![](assets/new.png)  
-- [2021-04-14-如何将以下-keras-的神经网络模型改为-pytorch-的？](https://www.v2ex.com/t/770512) ![](assets/new.png)  
-- [2021-04-14-m1-macbook-pro-偶尔紫屏-重启](https://www.v2ex.com/t/770511) ![](assets/new.png)  
-- [2021-04-14-投资的狠人，往往是这样的](https://www.v2ex.com/t/770510) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1075,9 +1075,9 @@
 - [2021-04-14-我叫小-M，立志建立-MySQL-帝国](https://toutiao.io/k/f2sy94i) ![](assets/new.png)  
 - [2021-04-14-如何通过-aop-+-spel-表达式玩转出不一样的切面实现](https://toutiao.io/k/zvtbrf9) ![](assets/new.png)  
 - [2021-04-14-浅谈云原生系统日志收集在数栈的实践](https://toutiao.io/k/3e97p0w) ![](assets/new.png)  
-- [2021-04-14-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-14-推荐-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) ![](assets/new.png)  
-- [2021-04-14-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-14-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
+- [2021-04-14-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) ![](assets/new.png)  
+- [2021-04-14-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-14 14:49:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 15:03:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -62,6 +62,5 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-04-14-求指导一下家用硬路由](https://www.v2ex.com/t/770685) 
 - [2021-04-14-发现了一个-H5-页面-favicon,是小米新-logo-它不配吗?](https://www.v2ex.com/t/770667) 
-- [2021-04-14-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-13-fastjson漏洞总结](https://sec.thief.one/article_content?a_id=ad4e5e5fd0ead85f21ab4575cbf7822f) 
 - [2021-04-10-“北斗掉线”司机自杀事件真相背后：切莫滥用北斗概念](https://www.ershicimi.com/p/e0e8ae706047b8e7a76311b1bca4dca3) 

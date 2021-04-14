@@ -20370,6 +20370,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[上海] SAP Labs 招聘 SRE 工程师 Site Reliability Engineer",
+        "link": "https://www.v2ex.com/t/770708",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "咨询下各位老乡，中原消费金融这家公司怎么样？消费金融行业前景如何？",
+        "link": "https://www.v2ex.com/t/770707",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "麻了， gdb 远程调试连不上",
+        "link": "https://www.v2ex.com/t/770705",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "数据库表设计是否需要在字段前标注字段的所属对象，比如用户表的名字是 user_name,学校表的名字字段是 school_name",
+        "link": "https://www.v2ex.com/t/770704",
+        "date": "2021-04-14"
+      },
+      {
         "title": "Paste 咋又涨价了",
         "link": "https://www.v2ex.com/t/770702",
         "date": "2021-04-14"
@@ -20523,31 +20543,6 @@
         "title": "mbp 3.5mm 耳机孔插入 3 节耳机麦克风有输入声音吗?",
         "link": "https://www.v2ex.com/t/770659",
         "date": "2021-04-14"
-      },
-      {
-        "title": "华夏银行北京的子公司龙盈智达这个公司可以吗，工资 11k+。\r\n本人应届毕业生，双一流学校，软件工程专业。大学是学 Java 开发的。",
-        "link": "https://www.v2ex.com/t/770658",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[杭州] [C++] 诺基亚 5G 部门内推",
-        "link": "https://www.v2ex.com/t/770657",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[深圳交流群] 金三银四，看机会的老哥进来多交流~",
-        "link": "https://www.v2ex.com/t/770656",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "如何在不按住 shift 的情况下也能在 windows10 右键菜单中显示用 powershell 打开？",
-        "link": "https://www.v2ex.com/t/770655",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "索引问题",
-        "link": "https://www.v2ex.com/t/770654",
-        "date": "2021-04-14"
       }
     ]
   },
@@ -20694,6 +20689,11 @@
         "date": "2021-04-14"
       },
       {
+        "title": "Kafka 消息存储机制",
+        "link": "https://toutiao.io/k/jen5rcs",
+        "date": "2021-04-14"
+      },
+      {
         "title": "使用 npm 命令行更新版本号",
         "link": "https://toutiao.io/k/vcpcgop",
         "date": "2021-04-14"
@@ -20701,11 +20701,6 @@
       {
         "title": "编码编成翔的十八般兵器",
         "link": "https://toutiao.io/k/k5cbxm5",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "Kafka 消息存储机制",
-        "link": "https://toutiao.io/k/jen5rcs",
         "date": "2021-04-14"
       },
       {
@@ -20729,13 +20724,13 @@
         "date": "2021-04-14"
       },
       {
-        "title": "基于 CNN + 双向 LSTM 的搭配生成算法",
-        "link": "https://toutiao.io/k/k6fc46h",
+        "title": "浅谈云原生系统日志收集在数栈的实践",
+        "link": "https://toutiao.io/k/3e97p0w",
         "date": "2021-04-14"
       },
       {
-        "title": "浅谈云原生系统日志收集在数栈的实践",
-        "link": "https://toutiao.io/k/3e97p0w",
+        "title": "基于 CNN + 双向 LSTM 的搭配生成算法",
+        "link": "https://toutiao.io/k/k6fc46h",
         "date": "2021-04-14"
       },
       {
@@ -20764,8 +20759,8 @@
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] Go 应用优化指北",
-        "link": "https://toutiao.io/k/6jo6q1t",
+        "title": "[推荐] 图文详解 Java 对象内存布局",
+        "link": "https://toutiao.io/k/romtfff",
         "date": "2021-04-14"
       },
       {
@@ -20774,8 +20769,13 @@
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 图文详解 Java 对象内存布局",
-        "link": "https://toutiao.io/k/romtfff",
+        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
+        "link": "https://toutiao.io/k/hti1ill",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] Go 应用优化指北",
+        "link": "https://toutiao.io/k/6jo6q1t",
         "date": "2021-04-14"
       },
       {
@@ -20784,13 +20784,18 @@
         "date": "2021-04-14"
       },
       {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-14"
+      },
+      {
         "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
         "link": "https://toutiao.io/k/oa4amzb",
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 21 张图详解网络基础知识",
-        "link": "https://toutiao.io/k/9uox6mg",
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
         "date": "2021-04-14"
       },
       {
@@ -20799,8 +20804,8 @@
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
-        "link": "https://toutiao.io/k/hti1ill",
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
         "date": "2021-04-14"
       },
       {
@@ -20809,23 +20814,13 @@
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
-        "date": "2021-04-14"
-      },
-      {
         "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
         "link": "https://toutiao.io/k/iyge3cy",
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
+        "title": "[推荐] 21 张图详解网络基础知识",
+        "link": "https://toutiao.io/k/9uox6mg",
         "date": "2021-04-14"
       },
       {

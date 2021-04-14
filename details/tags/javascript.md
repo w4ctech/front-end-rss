@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-14 05:23:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 05:38:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -86,6 +86,7 @@
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2021-04-09-全网最全-Java-日志框架适配方案！还有谁不会？](https://www.ershicimi.com/p/1d59f4b328ad336e49e8f5521ef63348) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-04-14-软路由-R2S，和-Mac-mini-哪个做-HTPC-比较合适？](https://www.v2ex.com/t/770569) 
 - [2021-04-14-用-Web-Audio-API-和纯-JavaScript-生成音乐](https://www.v2ex.com/t/770524) 
 - [2021-04-14-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-13-fastjson漏洞总结](https://sec.thief.one/article_content?a_id=ad4e5e5fd0ead85f21ab4575cbf7822f) 

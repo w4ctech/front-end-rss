@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-14 05:23:54，:rocket: 更新条数: +4231， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-14 05:38:35，:rocket: 更新条数: +4229， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-14-一种基于-HTTP-的伪双工通信](https://www.v2ex.com/t/770572) ![](assets/new.png)  
+- [2021-04-14-v2ex-被-q-有没有折中方案](https://www.v2ex.com/t/770571) ![](assets/new.png)  
+- [2021-04-14-软路由-R2S，和-Mac-mini-哪个做-HTPC-比较合适？](https://www.v2ex.com/t/770569) ![](assets/new.png)  
 - [2021-04-14-anaconda3-环境下，在-cmd-输入"jupyter-lab"显示"Exception:-Jupyter-command-`jupyter-lab`-not-found."](https://www.v2ex.com/t/770568) ![](assets/new.png)  
 - [2021-04-14-面试官说对我非常满意，却不发-offer](https://www.v2ex.com/t/770567) ![](assets/new.png)  
 - [2021-04-14-关于刷牙的问题](https://www.v2ex.com/t/770565) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-14-四月最新最全-tg-Airdrop-群集合（持续更新...）](https://www.v2ex.com/t/770547) ![](assets/new.png)  
 - [2021-04-14-🎉-FastAop-v1.0.1-正式发布](https://www.v2ex.com/t/770544) ![](assets/new.png)  
 - [2021-04-14-最近已经出现硬盘挖矿的虚拟币了？](https://www.v2ex.com/t/770543) ![](assets/new.png)  
-- [2021-04-14-有用过淘宝教育的朋友吗](https://www.v2ex.com/t/770542) ![](assets/new.png)  
-- [2021-04-14-工作六年，依然不能手写-Block，什么水平？](https://www.v2ex.com/t/770541) ![](assets/new.png)  
-- [2021-04-14-南京这边有好的前端坑位么，-4-年经验前端求职](https://www.v2ex.com/t/770540) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1075,9 +1075,9 @@
 - [2021-04-14-x64-平台下-inline-hook-的原理、实现与防御](https://toutiao.io/k/mwpeytt) ![](assets/new.png)  
 - [2021-04-14-如何通过-aop-+-spel-表达式玩转出不一样的切面实现](https://toutiao.io/k/zvtbrf9) ![](assets/new.png)  
 - [2021-04-14-浅谈云原生系统日志收集在数栈的实践](https://toutiao.io/k/3e97p0w) ![](assets/new.png)  
-- [2021-04-14-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
-- [2021-04-14-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-14-推荐-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) ![](assets/new.png)  
+- [2021-04-14-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
+- [2021-04-14-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
+- [2021-04-14-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

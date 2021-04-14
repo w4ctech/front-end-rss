@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-14 02:21:23，:rocket: 更新条数: +4223， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-14 02:29:59，:rocket: 更新条数: +4224， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -994,6 +994,9 @@
 </summary>
 
 
+- [2021-04-14-m1-macbook-pro-偶尔紫屏-重启](https://www.v2ex.com/t/770511) ![](assets/new.png)  
+- [2021-04-14-投资的狠人，往往是这样的](https://www.v2ex.com/t/770510) ![](assets/new.png)  
+- [2021-04-14-有交易所的大佬吗，-杠杆小时利息怎么计算呀](https://www.v2ex.com/t/770509) ![](assets/new.png)  
 - [2021-04-14-腾讯云北京怎么样？暑期实习](https://www.v2ex.com/t/770507) ![](assets/new.png)  
 - [2021-04-14-有用过-minio-的兄弟吗](https://www.v2ex.com/t/770504) ![](assets/new.png)  
 - [2021-04-14-就想问问这是啥字体](https://www.v2ex.com/t/770503) ![](assets/new.png)  
@@ -1011,9 +1014,6 @@
 - [2021-04-14-有没有介绍命令行软件交互设计的书或文档？](https://www.v2ex.com/t/770485) ![](assets/new.png)  
 - [2021-04-14-一个小工具，大家看有没有用](https://www.v2ex.com/t/770483) ![](assets/new.png)  
 - [2021-04-14-三星如何双开除微信以外其他的非社交类软件？](https://www.v2ex.com/t/770482) ![](assets/new.png)  
-- [2021-04-14-今天三月三，你们放假了吗？](https://www.v2ex.com/t/770481) ![](assets/new.png)  
-- [2021-04-13-首批-12PM-的朋友们，你们出现烧屏现象了嘛？](https://www.v2ex.com/t/770477) ![](assets/new.png)  
-- [2021-04-13-FinTech-社区-招聘：量化风险管理---25-40-万---上海](https://www.v2ex.com/t/770476) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,8 +1057,8 @@
 
 
 - [2021-04-14-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-14-实操：如何将-Containerd-用作-Kubernetes-runtime](https://toutiao.io/k/o4pjxdm) ![](assets/new.png)  
 - [2021-04-14-接口测试结果字段太多，断言烦不胜烦，DeepDiff-帮你一键搞定](https://toutiao.io/k/rz5gehp) ![](assets/new.png)  
+- [2021-04-14-实操：如何将-Containerd-用作-Kubernetes-runtime](https://toutiao.io/k/o4pjxdm) ![](assets/new.png)  
 - [2021-04-14-Conda-简明使用指南](https://toutiao.io/k/6a0hddg) ![](assets/new.png)  
 - [2021-04-14-你知道威胁手游安全的对象有哪些吗？](https://toutiao.io/k/i52m574) ![](assets/new.png)  
 - [2021-04-14-使用-npm-命令行更新版本号](https://toutiao.io/k/vcpcgop) ![](assets/new.png)  
@@ -1073,9 +1073,9 @@
 - [2021-04-14-如何通过-aop-+-spel-表达式玩转出不一样的切面实现](https://toutiao.io/k/zvtbrf9) ![](assets/new.png)  
 - [2021-04-14-浅谈云原生系统日志收集在数栈的实践](https://toutiao.io/k/3e97p0w) ![](assets/new.png)  
 - [2021-04-14-我叫小-M，立志建立-MySQL-帝国](https://toutiao.io/k/f2sy94i) ![](assets/new.png)  
-- [2021-04-14-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-14-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-14-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
+- [2021-04-14-推荐-译-Uber：面向领域的微服务架构](https://toutiao.io/k/0yy2iga) ![](assets/new.png)  
+- [2021-04-14-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-14-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

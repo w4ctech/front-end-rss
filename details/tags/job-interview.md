@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-14 02:10:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 02:21:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -34,6 +34,5 @@
 - [2021-04-14-谷歌面试题：捡胡萝卜](https://www.v2ex.com/t/770496) 
 - [2021-04-13-FinTech-社区-招聘：量化风险管理---25-40-万---上海](https://www.v2ex.com/t/770476) 
 - [2021-04-13-FinTech-社区-招聘：-Quant-Leader-HFT---300-万+奖金---上海](https://www.v2ex.com/t/770475) 
-- [2021-04-13-金三银四-Shopee-专场招聘会-前端/后端/测试/数据/产品/Leader-通通都有！-HC-超多流程超快！快来捞捞吧！](https://www.v2ex.com/t/770454) 
 - [2021-04-14-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) 
 - [2021-04-12-面试官常考的-21-条-Linux-命令](https://sec.thief.one/article_content?a_id=beb9f32e4ca4505734f45a73a4ee7f74) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-14 07:50:12，:rocket: 更新条数: +4229， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-14 08:03:07，:rocket: 更新条数: +4227， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-14-Edge-有没有免安装，又可以正常更新的便携版本？](https://www.v2ex.com/t/770616) ![](assets/new.png)  
 - [2021-04-14-四月活动|IDM、AdGuard、Downie-迎来历史低价，部分软件-6-折起！](https://www.v2ex.com/t/770614) ![](assets/new.png)  
 - [2021-04-14-不懂就问，-WPS-网页版的打印功能如何做到把打印设置管控起来，并且真正打印的时候看不到"更多设置"和"布局"这两个选项，如图一我自己的打印，图二-WPS-的打印，...](https://www.v2ex.com/t/770613) ![](assets/new.png)  
 - [2021-04-14-转租-虹口区花园城二期单间](https://www.v2ex.com/t/770609) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-14-前端效率工具：一个方便生成文件索引的-VSCode-插件](https://www.v2ex.com/t/770589) ![](assets/new.png)  
 - [2021-04-14-有增删改查的框架或开源项目推荐吗](https://www.v2ex.com/t/770588) ![](assets/new.png)  
 - [2021-04-14-求-windows10-下使用-WSL2+Docker-开发的最优姿势](https://www.v2ex.com/t/770587) ![](assets/new.png)  
-- [2021-04-14-有没有处理-pdf-文件的库](https://www.v2ex.com/t/770586) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

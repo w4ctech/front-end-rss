@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-14 07:50:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 08:03:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -40,6 +40,7 @@
 - [2021-04-12-一文全面解析-Postman-工具](https://www.ershicimi.com/p/c99ef132fe246495128025df622cf65c) 
 - [2021-04-12-全世界下载量超-100-亿，curl-怎样成为影响世界的开源项目？](https://www.ershicimi.com/p/f95ec01a19a44e7f8bc459e370f801ca) 
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
+- [2021-04-14-Edge-有没有免安装，又可以正常更新的便携版本？](https://www.v2ex.com/t/770616) 
 - [2021-04-14-四月活动|IDM、AdGuard、Downie-迎来历史低价，部分软件-6-折起！](https://www.v2ex.com/t/770614) 
 - [2021-04-14-pycharm-调试的问题](https://www.v2ex.com/t/770597) 
 - [2021-04-14-吐槽一下新版-chrome-添加书签的功能，比原来麻烦多了](https://www.v2ex.com/t/770585) 

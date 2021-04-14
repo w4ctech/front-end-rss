@@ -20365,6 +20365,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Edge 有没有免安装，又可以正常更新的便携版本？",
+        "link": "https://www.v2ex.com/t/770616",
+        "date": "2021-04-14"
+      },
+      {
         "title": "四月活动|IDM、AdGuard、Downie 迎来历史低价，部分软件 6 折起！",
         "link": "https://www.v2ex.com/t/770614",
         "date": "2021-04-14"
@@ -20507,21 +20512,6 @@
       {
         "title": "一种基于 HTTP 的伪双工通信",
         "link": "https://www.v2ex.com/t/770572",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "软路由 R2S，和 Mac mini 哪个做 HTPC 比较合适？",
-        "link": "https://www.v2ex.com/t/770569",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "anaconda3 环境下，在 cmd 输入\"jupyter lab\"显示\"Exception: Jupyter command `jupyter-lab` not found.\"",
-        "link": "https://www.v2ex.com/t/770568",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "面试官说对我非常满意，却不发 offer",
-        "link": "https://www.v2ex.com/t/770567",
         "date": "2021-04-14"
       }
     ]
@@ -20739,11 +20729,6 @@
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
-        "date": "2021-04-14"
-      },
-      {
         "title": "[推荐] GitHub 加速指南进阶版",
         "link": "https://toutiao.io/k/ygnbct1",
         "date": "2021-04-14"
@@ -20754,23 +20739,13 @@
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
-        "link": "https://toutiao.io/k/hti1ill",
+        "title": "[推荐] Go 应用优化指北",
+        "link": "https://toutiao.io/k/6jo6q1t",
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 图文详解 Java 对象内存布局",
-        "link": "https://toutiao.io/k/romtfff",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] GitHub 太慢？9 种方案可提速",
-        "link": "https://toutiao.io/k/pufqjt0",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
         "date": "2021-04-14"
       },
       {
@@ -20784,8 +20759,8 @@
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
-        "link": "https://toutiao.io/k/iyge3cy",
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
         "date": "2021-04-14"
       },
       {
@@ -20794,18 +20769,33 @@
         "date": "2021-04-14"
       },
       {
+        "title": "[推荐] GitHub 太慢？9 种方案可提速",
+        "link": "https://toutiao.io/k/pufqjt0",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
+        "link": "https://toutiao.io/k/hti1ill",
+        "date": "2021-04-14"
+      },
+      {
         "title": "[推荐] [译] Uber：面向领域的微服务架构",
         "link": "https://toutiao.io/k/0yy2iga",
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
+        "title": "[推荐] 图文详解 Java 对象内存布局",
+        "link": "https://toutiao.io/k/romtfff",
         "date": "2021-04-14"
       },
       {
-        "title": "[推荐] Go 应用优化指北",
-        "link": "https://toutiao.io/k/6jo6q1t",
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
+        "link": "https://toutiao.io/k/iyge3cy",
         "date": "2021-04-14"
       }
     ]

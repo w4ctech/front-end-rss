@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-14 01:43:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 01:53:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,8 +24,7 @@
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2021-04-12-全世界下载量超-100-亿，curl-怎样成为影响世界的开源项目？](https://www.ershicimi.com/p/f95ec01a19a44e7f8bc459e370f801ca) 
-- [2021-04-13-哪个-chromium-浏览器，能同步插件的设置么？](https://www.v2ex.com/t/770442) 
+- [2021-04-14-你知道威胁手游安全的对象有哪些吗？](https://toutiao.io/k/i52m574) 
 - [2021-04-13-推特Chrome-0.5day漏洞分析](https://sec.thief.one/article_content?a_id=991509aa7bfea23b87282136e5a77d6e) 
 - [2021-04-13-政校企三方联动!重庆市网络安全人才培养计划正式启动](https://sec.thief.one/article_content?a_id=f72ae87a8384bc7eba9bf20e19b2364c) 
 - [2021-04-13-推荐一个适合信息安全员的高薪副业,有人靠它月收入2万多!](https://sec.thief.one/article_content?a_id=66b4be8565e25ff0bbd49e966d90a067) 

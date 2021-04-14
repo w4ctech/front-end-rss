@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-14 05:51:12，:rocket: 更新条数: +4229， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-14 06:03:16，:rocket: 更新条数: +4229， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-14-用自己的-Rx580-挖-ETH-试了试](https://www.v2ex.com/t/770580) ![](assets/new.png)  
+- [2021-04-14-开心-是什么-?-为什么形容愉悦要-打开-心呢?](https://www.v2ex.com/t/770579) ![](assets/new.png)  
+- [2021-04-14-神奇的规则](https://www.v2ex.com/t/770578) ![](assets/new.png)  
 - [2021-04-14-西安-SAP-Labs-招聘](https://www.v2ex.com/t/770576) ![](assets/new.png)  
 - [2021-04-14-最近总是遇到-ERR_DOMAIN_NOT_RESOLVED](https://www.v2ex.com/t/770575) ![](assets/new.png)  
 - [2021-04-14-Chrome-/-Edge-新鲜的漏洞没人关注？](https://www.v2ex.com/t/770574) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-14-万能的推友推荐下合适新手的-ios-编程的书.](https://www.v2ex.com/t/770559) ![](assets/new.png)  
 - [2021-04-14-求推荐有多年-web-工作经验，出去读了两年书，要准备面试全栈工程师的培训班](https://www.v2ex.com/t/770558) ![](assets/new.png)  
 - [2021-04-14-有时候觉得网上吵架就像一场没有血条的回合制战斗](https://www.v2ex.com/t/770553) ![](assets/new.png)  
-- [2021-04-14-求-V-友推荐手机，手机自动关机没发用了。](https://www.v2ex.com/t/770551) ![](assets/new.png)  
-- [2021-04-14-FreeBSD-13-正式版发布了](https://www.v2ex.com/t/770550) ![](assets/new.png)  
-- [2021-04-14-老哥们，请教个网络问题。](https://www.v2ex.com/t/770549) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1075,9 +1075,9 @@
 - [2021-04-14-x64-平台下-inline-hook-的原理、实现与防御](https://toutiao.io/k/mwpeytt) ![](assets/new.png)  
 - [2021-04-14-如何通过-aop-+-spel-表达式玩转出不一样的切面实现](https://toutiao.io/k/zvtbrf9) ![](assets/new.png)  
 - [2021-04-14-浅谈云原生系统日志收集在数栈的实践](https://toutiao.io/k/3e97p0w) ![](assets/new.png)  
-- [2021-04-14-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
-- [2021-04-14-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
-- [2021-04-14-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
+- [2021-04-14-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
+- [2021-04-14-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-14-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

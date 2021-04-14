@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-14 17:07:23，:rocket: 更新条数: +4236， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-14 17:19:09，:rocket: 更新条数: +4237， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-14-lofi.cafe](https://www.v2ex.com/t/770730) ![](assets/new.png)  
 - [2021-04-14-终面面试官也有-KPI-吗？](https://www.v2ex.com/t/770729) ![](assets/new.png)  
 - [2021-04-14-m1-macbook-8g-or-16g](https://www.v2ex.com/t/770728) ![](assets/new.png)  
 - [2021-04-14-五十度灰](https://www.v2ex.com/t/770727) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-14-系统二次验证大佬们有什么解决方案吗?](https://www.v2ex.com/t/770710) ![](assets/new.png)  
 - [2021-04-14-有什么方法可以取消在-Windows-里面-ctrl+鼠标滚轮-缩放的功能？](https://www.v2ex.com/t/770709) ![](assets/new.png)  
 - [2021-04-14-上海-SAP-Labs-招聘-SRE-工程师-Site-Reliability-Engineer](https://www.v2ex.com/t/770708) ![](assets/new.png)  
-- [2021-04-14-咨询下各位老乡，中原消费金融这家公司怎么样？消费金融行业前景如何？](https://www.v2ex.com/t/770707) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

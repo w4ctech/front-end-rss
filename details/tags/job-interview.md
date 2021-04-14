@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-14 03:01:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 03:08:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -33,6 +33,5 @@
 - [2021-03-24-字节跳动高频100道核心前端面试题解析](https://www.ershicimi.com/p/bd6c66f84e2c88714b5520bdbd5e1927) 
 - [2021-04-14-谷歌面试题：捡胡萝卜](https://www.v2ex.com/t/770496) 
 - [2021-04-13-FinTech-社区-招聘：量化风险管理---25-40-万---上海](https://www.v2ex.com/t/770476) 
-- [2021-04-13-FinTech-社区-招聘：-Quant-Leader-HFT---300-万+奖金---上海](https://www.v2ex.com/t/770475) 
 - [2021-04-14-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) 
 - [2021-04-12-面试官常考的-21-条-Linux-命令](https://sec.thief.one/article_content?a_id=beb9f32e4ca4505734f45a73a4ee7f74) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-14 10:37:54，:rocket: 更新条数: +4239， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-14 10:51:43，:rocket: 更新条数: +4236， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,12 +65,10 @@
 </summary>
 
 
-- [2021-04-14-4月13日全国新增新冠12例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-14/101690841.html) ![](assets/new.png)  
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
 - [2021-04-14-云南瑞丽4月13日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-14/101690804.html) ![](assets/new.png)  
 - [2021-04-14-【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html) ![](assets/new.png)  
 - [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
-- [2021-04-13-最新海外疫情：新冠感染超1.36亿-累计死亡超294万](https://m.caixin.com/m/2021-04-13/101690693.html) ![](assets/new.png)  
 - [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
 - [2021-04-13-【境内疫情观察】我国新冠疫苗累计接种超1.67亿剂次（4月12日）](http://m.database.caixin.com/m/2021-04-13/101690476.html) ![](assets/new.png)  
 - [2021-04-13-英国重开商场健身房-澳放弃年底前全民接种目标｜大流行手记（4月12日）](https://m.caixin.com/m/2021-04-13/101690235.html) ![](assets/new.png)  
@@ -85,6 +83,8 @@
 - [2021-04-10-【境内疫情观察】全国新增14例境外输入病例（4月9日）](http://m.database.caixin.com/m/2021-04-10/101688525.html) ![](assets/new.png)  
 - [2021-04-10-谭德塞称疫苗分配不均令人震惊-巴西单日死亡又破4000|大流行手记（4月9日）](https://m.caixin.com/m/2021-04-10/101688391.html) ![](assets/new.png)  
 - [2021-04-09-云南瑞丽4月8日新增新冠确诊8例-现有确诊87例](https://m.caixin.com/m/2021-04-09/101687661.html) ![](assets/new.png)  
+- [2021-04-09-【境内疫情观察】云南新增8例本土病例（4月8日）](http://m.database.caixin.com/m/2021-04-09/101687884.html) ![](assets/new.png)  
+- [2021-04-09-多国调整阿斯利康疫苗接种计划-欧盟拨1.23亿欧元研究变异病毒｜大流行手记（4月8日）](https://m.caixin.com/m/2021-04-09/101687676.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-14-没人谈今天的狗狗币么？](https://www.v2ex.com/t/770673) ![](assets/new.png)  
+- [2021-04-14-brew-装不上-svn-了，还有别的办法给-m1-装上-svn-吗？](https://www.v2ex.com/t/770672) ![](assets/new.png)  
+- [2021-04-14-有个计算机内存硬件的问题求助。](https://www.v2ex.com/t/770671) ![](assets/new.png)  
 - [2021-04-14-请问为什么我通过-npm-install-安装的新包-在-package-lock-中没有生成呀？](https://www.v2ex.com/t/770669) ![](assets/new.png)  
 - [2021-04-14-游戏音效设计，需要什么能力](https://www.v2ex.com/t/770668) ![](assets/new.png)  
 - [2021-04-14-发现了一个-H5-页面-favicon,是小米新-logo-它不配吗?](https://www.v2ex.com/t/770667) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-14-米-11-青春一个小-bug，，，能求换到一个-F-码么...](https://www.v2ex.com/t/770653) ![](assets/new.png)  
 - [2021-04-14-google-colab-简直神器有木有](https://www.v2ex.com/t/770651) ![](assets/new.png)  
 - [2021-04-14-北京/远程-北京雅识招聘工程师和设计师](https://www.v2ex.com/t/770650) ![](assets/new.png)  
-- [2021-04-14-如何让-Edge-for-Mac-不依赖-Microsoft-AutoUpdate-更新？](https://www.v2ex.com/t/770649) ![](assets/new.png)  
-- [2021-04-14-Azure-学生订阅无法查看余额](https://www.v2ex.com/t/770647) ![](assets/new.png)  
-- [2021-04-14-彦祖们，五一打算去上海玩，有小众但值得逛的地方推荐吗？](https://www.v2ex.com/t/770646) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

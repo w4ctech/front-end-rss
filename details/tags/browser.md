@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-14 08:03:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-14 08:24:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,7 +44,6 @@
 - [2021-04-14-四月活动|IDM、AdGuard、Downie-迎来历史低价，部分软件-6-折起！](https://www.v2ex.com/t/770614) 
 - [2021-04-14-pycharm-调试的问题](https://www.v2ex.com/t/770597) 
 - [2021-04-14-吐槽一下新版-chrome-添加书签的功能，比原来麻烦多了](https://www.v2ex.com/t/770585) 
-- [2021-04-14-Chrome-/-Edge-新鲜的漏洞没人关注？](https://www.v2ex.com/t/770574) 
 - [2021-04-14-你知道威胁手游安全的对象有哪些吗？](https://toutiao.io/k/i52m574) 
 - [2021-04-14-Chrome和Edge远程代码执行0Day漏洞曝光](https://sec.thief.one/article_content?a_id=2f1a821775e4a12e838319bda2cdc1cb) 
 - [2021-04-14-国家医疗保障局发布《关于加强网络安全和数据保护工作的指导意见》](https://sec.thief.one/article_content?a_id=991874a397177ce54424df24043467c6) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-14 06:03:16，:rocket: 更新条数: +4229， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-14 06:24:31，:rocket: 更新条数: +4228， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,14 +996,17 @@
 </summary>
 
 
+- [2021-04-14-求-windows10-下使用-WSL2+Docker-开发的最优姿势](https://www.v2ex.com/t/770587) ![](assets/new.png)  
+- [2021-04-14-有没有处理-pdf-文件的库](https://www.v2ex.com/t/770586) ![](assets/new.png)  
+- [2021-04-14-吐槽一下新版-chrome-添加书签的功能，比原来麻烦多了](https://www.v2ex.com/t/770585) ![](assets/new.png)  
+- [2021-04-14-没有-typec-接口的显卡能接-typec-接口的显示器吗](https://www.v2ex.com/t/770584) ![](assets/new.png)  
+- [2021-04-14-关于如何避免个人信息泄漏？](https://www.v2ex.com/t/770583) ![](assets/new.png)  
 - [2021-04-14-用自己的-Rx580-挖-ETH-试了试](https://www.v2ex.com/t/770580) ![](assets/new.png)  
 - [2021-04-14-开心-是什么-?-为什么形容愉悦要-打开-心呢?](https://www.v2ex.com/t/770579) ![](assets/new.png)  
-- [2021-04-14-神奇的规则](https://www.v2ex.com/t/770578) ![](assets/new.png)  
 - [2021-04-14-西安-SAP-Labs-招聘](https://www.v2ex.com/t/770576) ![](assets/new.png)  
 - [2021-04-14-最近总是遇到-ERR_DOMAIN_NOT_RESOLVED](https://www.v2ex.com/t/770575) ![](assets/new.png)  
 - [2021-04-14-Chrome-/-Edge-新鲜的漏洞没人关注？](https://www.v2ex.com/t/770574) ![](assets/new.png)  
 - [2021-04-14-一种基于-HTTP-的伪双工通信](https://www.v2ex.com/t/770572) ![](assets/new.png)  
-- [2021-04-14-v2ex-被-q-有没有折中方案](https://www.v2ex.com/t/770571) ![](assets/new.png)  
 - [2021-04-14-软路由-R2S，和-Mac-mini-哪个做-HTPC-比较合适？](https://www.v2ex.com/t/770569) ![](assets/new.png)  
 - [2021-04-14-anaconda3-环境下，在-cmd-输入"jupyter-lab"显示"Exception:-Jupyter-command-`jupyter-lab`-not-found."](https://www.v2ex.com/t/770568) ![](assets/new.png)  
 - [2021-04-14-面试官说对我非常满意，却不发-offer](https://www.v2ex.com/t/770567) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-14-大家有没有搞过有状态应用上-K8S](https://www.v2ex.com/t/770562) ![](assets/new.png)  
 - [2021-04-14-请问各位是怎么写离职邮件的？](https://www.v2ex.com/t/770561) ![](assets/new.png)  
 - [2021-04-14-Docker-端口映射后外部无法访问](https://www.v2ex.com/t/770560) ![](assets/new.png)  
-- [2021-04-14-万能的推友推荐下合适新手的-ios-编程的书.](https://www.v2ex.com/t/770559) ![](assets/new.png)  
-- [2021-04-14-求推荐有多年-web-工作经验，出去读了两年书，要准备面试全栈工程师的培训班](https://www.v2ex.com/t/770558) ![](assets/new.png)  
-- [2021-04-14-有时候觉得网上吵架就像一场没有血条的回合制战斗](https://www.v2ex.com/t/770553) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1027,6 +1027,9 @@
 </summary>
 
 
+- [2021-04-14-想多人游戏？那你还不看看它！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14294&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-14-想多人游戏？那你还不看看它！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14293&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-14-Doge.jpg-的背后是什么，你知道么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14292&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F347658697%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-14-如何通过开发快应用赚取睡后收入？-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14291&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F30%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-14-如何基于-Flarum-搭建一个优雅简洁论坛？-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=14290&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F03%2F22%2F189-how-to-install-flarum-based-on-docker%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-14-优质网站同好者周刊（第-8-期）--倾城之链-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=14289&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F04%2F08%2F193-nicelinks-weekly-008%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1044,9 +1047,6 @@
 - [2021-04-14-用了VSCode、IDEA等十几款编辑器后，我总结出优秀编辑器的特质-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14277&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489549%26amp%3Bidx%3D1%26amp%3Bsn%3D74a58b52330c5f12d210705d0a36a072%26amp%3Bchksm%3Dfa3cf956cd4b70400baab2950f83f8056dbeb6197e14eea4cd61901448e6b799821c2fe464c0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-14-研究生应锻炼的24种能力-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14276&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489549%26amp%3Bidx%3D2%26amp%3Bsn%3D03b1ac18afc94eadc0b974c2ce8863db%26amp%3Bchksm%3Dfa3cf956cd4b7040d89babf460f203d8898b56ca3663186d51657623ab2f340d2bdd4e3b2abe%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-14-程序员，你还没有软技能吗？难怪你不幸福-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14275&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489519%26amp%3Bidx%3D2%26amp%3Bsn%3D888eb6bfd655a4422d79b100be37708f%26amp%3Bchksm%3Dfa3cf6b4cd4b7fa2d3d7730066eed43f01f74937b59d45d649841d109dcfcc625288fc5a445f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-14-卧槽！微信图标现在可以换颜色了？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14274&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489465%26amp%3Bidx%3D1%26amp%3Bsn%3D44a7e8ab7d6b16429de2a7b9acb1633f%26amp%3Bchksm%3Dfa3cf6e2cd4b7ff45710333fd56424510e27c703669ddb5478eb16e42c9be07abbe57f9da5a3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-14-最强Java15新特性讲解！突然感觉Java8不香了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14273&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489465%26amp%3Bidx%3D2%26amp%3Bsn%3Dc52148ca9589244f4cd2c5d59a8c30ef%26amp%3Bchksm%3Dfa3cf6e2cd4b7ff4e2b51dd89e2e5e8666bc84b30c85e7004b5e52e0f8b24ec64c88a439682b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-14-最强Java15新特性讲解！突然感觉Java8不香了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14272&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489465%26amp%3Bidx%3D2%26amp%3Bsn%3Dc52148ca9589244f4cd2c5d59a8c30ef%26amp%3Bchksm%3Dfa3cf6e2cd4b7ff4e2b51dd89e2e5e8666bc84b30c85e7004b5e52e0f8b24ec64c88a439682b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1075,9 +1075,9 @@
 - [2021-04-14-x64-平台下-inline-hook-的原理、实现与防御](https://toutiao.io/k/mwpeytt) ![](assets/new.png)  
 - [2021-04-14-如何通过-aop-+-spel-表达式玩转出不一样的切面实现](https://toutiao.io/k/zvtbrf9) ![](assets/new.png)  
 - [2021-04-14-浅谈云原生系统日志收集在数栈的实践](https://toutiao.io/k/3e97p0w) ![](assets/new.png)  
+- [2021-04-14-美国，为中国-“送”-来光刻机](https://toutiao.io/k/s0m1xsa) ![](assets/new.png)  
+- [2021-04-14-架构设计笔记（十五）：关键模式_微服务](https://toutiao.io/k/xj1zsqh) ![](assets/new.png)  
 - [2021-04-14-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
-- [2021-04-14-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
-- [2021-04-14-推荐-GitHub-太慢？9-种方案可提速](https://toutiao.io/k/pufqjt0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-14 06:40:34，:rocket: 更新条数: +4228， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-14 06:54:13，:rocket: 更新条数: +722， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-04-14-4月13日全国新增新冠12例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-14/101690841.html) ![](assets/new.png)  
-- [2021-04-14-云南瑞丽4月13日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-14/101690804.html) ![](assets/new.png)  
-- [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
-- [2021-04-13-最新海外疫情：新冠感染超1.36亿-累计死亡超294万](https://m.caixin.com/m/2021-04-13/101690693.html) ![](assets/new.png)  
-- [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
-- [2021-04-13-【境内疫情观察】我国新冠疫苗累计接种超1.67亿剂次（4月12日）](http://m.database.caixin.com/m/2021-04-13/101690476.html) ![](assets/new.png)  
-- [2021-04-13-英国重开商场健身房-澳放弃年底前全民接种目标｜大流行手记（4月12日）](https://m.caixin.com/m/2021-04-13/101690235.html) ![](assets/new.png)  
-- [2021-04-12-解药｜科兴新冠疫苗巴西临床III期数据发论文-为国内首次](https://m.caixin.com/m/2021-04-12/101690123.html) ![](assets/new.png)  
-- [2021-04-12-高福回应中国新冠疫苗保护率言论](https://m.caixin.com/m/2021-04-12/101688777.html) ![](assets/new.png)  
-- [2021-04-12-香港与内地通关现曙光-5月中旬起内地民众来港免隔离](https://m.caixin.com/m/2021-04-12/101690149.html) ![](assets/new.png)  
-- [2021-04-12-云南4月11日新增新冠2例-均在瑞丽市](https://m.caixin.com/m/2021-04-12/101688731.html) ![](assets/new.png)  
-- [2021-04-12-【境内疫情观察】云南新增2例本土病例（4月11日）](http://m.database.caixin.com/m/2021-04-12/101689975.html) ![](assets/new.png)  
-- [2021-04-12-南非变异株或可逃逸辉瑞疫苗保护-印度单日新增破15万｜大流行手记（4月11日）](https://m.caixin.com/m/2021-04-12/101688748.html) ![](assets/new.png)  
-- [2021-04-11-【境内疫情观察】全国新增10例境外输入病例（4月10日）](http://m.database.caixin.com/m/2021-04-11/101688671.html) ![](assets/new.png)  
-- [2021-04-11-研究揭阿斯利康疫苗接种后血栓机制-辉瑞申请扩大疫苗适用范围｜大流行手记（4月10日）](https://m.caixin.com/m/2021-04-11/101688624.html) ![](assets/new.png)  
-- [2021-04-10-【境内疫情观察】全国新增14例境外输入病例（4月9日）](http://m.database.caixin.com/m/2021-04-10/101688525.html) ![](assets/new.png)  
-- [2021-04-10-谭德塞称疫苗分配不均令人震惊-巴西单日死亡又破4000|大流行手记（4月9日）](https://m.caixin.com/m/2021-04-10/101688391.html) ![](assets/new.png)  
-- [2021-04-09-云南瑞丽4月8日新增新冠确诊8例-现有确诊87例](https://m.caixin.com/m/2021-04-09/101687661.html) ![](assets/new.png)  
-- [2021-04-09-【境内疫情观察】云南新增8例本土病例（4月8日）](http://m.database.caixin.com/m/2021-04-09/101687884.html) ![](assets/new.png)  
-- [2021-04-09-多国调整阿斯利康疫苗接种计划-欧盟拨1.23亿欧元研究变异病毒｜大流行手记（4月8日）](https://m.caixin.com/m/2021-04-09/101687676.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +976,10 @@
 </summary>
 
 
+- [2021-04-14-谷歌有办法注册第二个开发者账号吗？](https://www.v2ex.com/t/770595) ![](assets/new.png)  
+- [2021-04-14-有-v-友了解闵行君莲新城广润苑吗？](https://www.v2ex.com/t/770594) ![](assets/new.png)  
+- [2021-04-14-AirPods-pro-只响一只耳朵，求解决！](https://www.v2ex.com/t/770593) ![](assets/new.png)  
+- [2021-04-14-运维新手学习编程的疑惑](https://www.v2ex.com/t/770592) ![](assets/new.png)  
 - [2021-04-14-请教用-uWSGI-启动-Django-项目遇到的问题](https://www.v2ex.com/t/770590) ![](assets/new.png)  
 - [2021-04-14-前端效率工具：一个方便生成文件索引的-VSCode-插件](https://www.v2ex.com/t/770589) ![](assets/new.png)  
 - [2021-04-14-有增删改查的框架或开源项目推荐吗](https://www.v2ex.com/t/770588) ![](assets/new.png)  
@@ -1012,10 +996,6 @@
 - [2021-04-14-一种基于-HTTP-的伪双工通信](https://www.v2ex.com/t/770572) ![](assets/new.png)  
 - [2021-04-14-软路由-R2S，和-Mac-mini-哪个做-HTPC-比较合适？](https://www.v2ex.com/t/770569) ![](assets/new.png)  
 - [2021-04-14-anaconda3-环境下，在-cmd-输入"jupyter-lab"显示"Exception:-Jupyter-command-`jupyter-lab`-not-found."](https://www.v2ex.com/t/770568) ![](assets/new.png)  
-- [2021-04-14-面试官说对我非常满意，却不发-offer](https://www.v2ex.com/t/770567) ![](assets/new.png)  
-- [2021-04-14-关于刷牙的问题](https://www.v2ex.com/t/770565) ![](assets/new.png)  
-- [2021-04-14-怎样才能在-ios-的网页端绕过-app-是否安装的检测？](https://www.v2ex.com/t/770564) ![](assets/new.png)  
-- [2021-04-14-担保人贷款咨询](https://www.v2ex.com/t/770563) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,26 +1069,26 @@
 </summary>
 
 
+- [2021-04-14-欧洲投资银行利用区块链发行债券](https://sec.thief.one/article_content?a_id=8d99c8705556a43923e0f0174fa9b991) ![](assets/new.png)  
+- [2021-04-14-【漏洞通告】Exchange-Server远程代码执行漏洞](https://sec.thief.one/article_content?a_id=e7a98656e449b1a4246f6458b71aa4ce) ![](assets/new.png)  
+- [2021-04-14-xHunt的最新攻击手段分析:通过BumbleBee-Webshell发起攻击上](https://sec.thief.one/article_content?a_id=c55a902dedd0e985f311519bf2f8a568) ![](assets/new.png)  
+- [2021-04-14-互联网平台企业向社会公开《依法合规经营承诺》第一批](https://sec.thief.one/article_content?a_id=8117cc6f753faa27c36481929f6db9e3) ![](assets/new.png)  
+- [2021-04-14-每日攻防资讯简报Apr.14th](https://sec.thief.one/article_content?a_id=833b83b07d6db50389173215d60f8ef1) ![](assets/new.png)  
+- [2021-04-14-比特币和瑞波币继续新高,平台币和DeFi静待Coinbase上市效应准备...](https://sec.thief.one/article_content?a_id=8a11289174203fb45ff604b8214f4e48) ![](assets/new.png)  
+- [2021-04-14-Chrome和Edge远程代码执行0Day漏洞曝光](https://sec.thief.one/article_content?a_id=2f1a821775e4a12e838319bda2cdc1cb) ![](assets/new.png)  
+- [2021-04-14-Exchange-多个蠕虫级远程命令执行漏洞通告](https://sec.thief.one/article_content?a_id=4e8398f4ea0f73889513fc03a6c13c2f) ![](assets/new.png)  
+- [2021-04-14-漏洞情报|Exchange-多个严重远程命令执行漏洞通告](https://sec.thief.one/article_content?a_id=0cf57e01ce898a9d7956302a1e52425e) ![](assets/new.png)  
+- [2021-04-14-MySQL-服务端恶意读取客户端任意文件漏洞](https://sec.thief.one/article_content?a_id=d2bc59c2425f062a133b86e47cc08c06) ![](assets/new.png)  
+- [2021-04-14-国家医疗保障局发布《关于加强网络安全和数据保护工作的指导意见》](https://sec.thief.one/article_content?a_id=991874a397177ce54424df24043467c6) ![](assets/new.png)  
+- [2021-04-14-【安全风险通告】奇安信代码安全实验室研究发现三枚漏洞,微软4月...](https://sec.thief.one/article_content?a_id=8aa798b14e1823d72feabe2256628d29) ![](assets/new.png)  
+- [2021-04-14-CVE-2021-26295:Apache-OFBiz反序列化漏洞复现](https://sec.thief.one/article_content?a_id=6688031f0a003f67dcdfdebb1208424a) ![](assets/new.png)  
+- [2021-04-14-Chrome、Edge零日漏洞“泄漏”引发恐慌](https://sec.thief.one/article_content?a_id=27f71a4a2efaa0f9ec1880d3ab1fac63) ![](assets/new.png)  
+- [2021-04-14-湖南电信网络崩了,官方回应:系光缆故障-排除网络攻击](https://sec.thief.one/article_content?a_id=dfc8a5f6b79946e2c1f7a92ecb577ba8) ![](assets/new.png)  
+- [2021-04-14-迷惑行为赏析:把-jpg-图片加密后卖了-247-万](https://sec.thief.one/article_content?a_id=9181eec687114aa7d7e407a49436742b) ![](assets/new.png)  
+- [2021-04-14-因女朋友的一个建议,这位程序员创立仅-551-天公司就被-10-亿美元收...](https://sec.thief.one/article_content?a_id=fc3dd9f1542d13076ba2dc0e0214d771) ![](assets/new.png)  
+- [2021-04-14-哈哈哈哈,这个勒索软件笑死我了!](https://sec.thief.one/article_content?a_id=65f3967cd2cdb940ffee52468dd7405a) ![](assets/new.png)  
 - [2021-04-14-【视频】|-网络安全等级保护2.0政策解读](https://sec.thief.one/article_content?a_id=cb46a85f9315ce68343d8738f981f6be) ![](assets/new.png)  
 - [2021-04-14-Shadow-Attack:隐藏和替换签名PDF中的内容](https://sec.thief.one/article_content?a_id=cc9e0993a9461dce50a03b94232a4151) ![](assets/new.png)  
-- [2021-04-14-限时三小时删除!](https://sec.thief.one/article_content?a_id=d4a681b5c7e1147fe1269746edd6cd71) ![](assets/new.png)  
-- [2021-04-14-习近平总书记讲过哪些“根”和“魂”?](https://sec.thief.one/article_content?a_id=e7d55d550da908cf383f0df9de9adf6f) ![](assets/new.png)  
-- [2021-04-13-20210413|今日漏洞情报动态](https://sec.thief.one/article_content?a_id=f6b59d3d4d39d98c9574068d3ee0e616) ![](assets/new.png)  
-- [2021-04-13-推特Chrome-0.5day漏洞分析](https://sec.thief.one/article_content?a_id=991509aa7bfea23b87282136e5a77d6e) ![](assets/new.png)  
-- [2021-04-13-2021MiSRC第一季度荣誉榜单](https://sec.thief.one/article_content?a_id=bef0395ae92fa42ea27d25c80dfd7afa) ![](assets/new.png)  
-- [2021-04-13-只需一行代码,就能导入所有的Python库?](https://sec.thief.one/article_content?a_id=7aad8766a5e80cead4704fa85f769962) ![](assets/new.png)  
-- [2021-04-13-23-种设计模式的通俗解释](https://sec.thief.one/article_content?a_id=ba76d1fefe386e47f06c78a2167aca65) ![](assets/new.png)  
-- [2021-04-13-政校企三方联动!重庆市网络安全人才培养计划正式启动](https://sec.thief.one/article_content?a_id=f72ae87a8384bc7eba9bf20e19b2364c) ![](assets/new.png)  
-- [2021-04-13-Clonezilla取证工具官方文献归档](https://sec.thief.one/article_content?a_id=14b05177fa8a4cc0d2c158895bad717e) ![](assets/new.png)  
-- [2021-04-13-推荐一个适合信息安全员的高薪副业,有人靠它月收入2万多!](https://sec.thief.one/article_content?a_id=66b4be8565e25ff0bbd49e966d90a067) ![](assets/new.png)  
-- [2021-04-13-官方-|-一则深信服辟谣](https://sec.thief.one/article_content?a_id=348bb7b075cac04df299e680d39dbd3d) ![](assets/new.png)  
-- [2021-04-13-攻防论道|四大制胜锦囊-严守实战演练安全之门](https://sec.thief.one/article_content?a_id=bcb9dba2e72f9315c79cec589ec42cec) ![](assets/new.png)  
-- [2021-04-13-【安全圈】大庆警方破获黑龙江省首例虚拟货币案!涉案金额-1000-万...](https://sec.thief.one/article_content?a_id=f4d6b0938e6123e508c877e185d94ef8) ![](assets/new.png)  
-- [2021-04-13-看楼盘也得带头盔了?](https://sec.thief.one/article_content?a_id=6eeb02ac29f2682da91cf5846654838a) ![](assets/new.png)  
-- [2021-04-13-Chrome和Edge远程代码执行0Day漏洞曝光](https://sec.thief.one/article_content?a_id=242fac466cd28fbf996bf7671fb41d6f) ![](assets/new.png)  
-- [2021-04-13-【安全头条】德克萨斯州一网民因谋划炸毁亚马逊服务器被捕](https://sec.thief.one/article_content?a_id=9d571665b2668eff4b5845aaa574749f) ![](assets/new.png)  
-- [2021-04-13-红军第一套军装的红领章上为何要绣黑边?它的颜色又代表什么?|红色...](https://sec.thief.one/article_content?a_id=1c8673e3a8b68b7a8eb62d74ac14ed10) ![](assets/new.png)  
-- [2021-04-13-强网杯真题实例分析丨Linux内核提权技术](https://sec.thief.one/article_content?a_id=5e5898c48b9cb34cb463e4b2e84d913d) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

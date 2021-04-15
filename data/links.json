@@ -19822,6 +19822,36 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "华为，终于摊牌了！",
+        "link": "https://www.ershicimi.com/p/74f26fd88e588f6b592943d20a78a025",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "卧槽！新来的妹纸rm -rf把公司整个数据库删没了，整个项目组慌了~",
+        "link": "https://www.ershicimi.com/p/b7a0423e7da7dc6fd65db9b40fcd20f4",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "还在搞三层架构？DDD 分层架构了解下！",
+        "link": "https://www.ershicimi.com/p/a04a78261a9d54d19065ee7909bdeffc",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "「大数据知识体系总结(2021版)」开放下载了！",
+        "link": "https://www.ershicimi.com/p/445c7fe39315b2d813afaec7df857611",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "面进了心心念念的国企！以为TM上岸了！干了1年！我却再次选择回到互联网大厂内卷！",
+        "link": "https://www.ershicimi.com/p/db7e82a04953492788a874a9757a5b56",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "Spring Boot 接入支付宝，实战来了！",
+        "link": "https://www.ershicimi.com/p/5a98eb3d127f7daf03b36ae22c10989a",
+        "date": "2021-04-14"
+      },
+      {
         "title": "华为员工违规领夜宵被发现后，被罚冻薪降考评，终身不得领夜宵，HR：哪个员工上班健身，定性考勤造",
         "link": "https://www.ershicimi.com/p/c19611f0b8b6a2b32e8965e2451ea68b",
         "date": "2021-04-13"
@@ -19890,36 +19920,6 @@
         "title": "欧阳娜娜从阿里跳槽网易：阿里P8堪称教科书级别的面试现场！最后一个问题亮了",
         "link": "https://www.ershicimi.com/p/258256e57a26bf846018508c969faaea",
         "date": "2021-04-09"
-      },
-      {
-        "title": "全网最全 Java 日志框架适配方案！还有谁不会？",
-        "link": "https://www.ershicimi.com/p/1d59f4b328ad336e49e8f5521ef63348",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "阿里一面：如何保障消息100%投递成功、消息幂等性？",
-        "link": "https://www.ershicimi.com/p/ac528fd66aa642988e41dec5ce18b404",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "程序员，都是内卷之王！",
-        "link": "https://www.ershicimi.com/p/af4ea34a2fa5e27b226bc3a0692d8cf9",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "Java8中的 Stream 那么彪悍，你知道它的原理是什么吗？",
-        "link": "https://www.ershicimi.com/p/e3767fa1d7bd0dbd76a9b531084e45be",
-        "date": "2021-04-08"
-      },
-      {
-        "title": "再见，Kafka！RocketMQ已成气候！",
-        "link": "https://www.ershicimi.com/p/f69ac8559f3414a1a6865a126bd2f565",
-        "date": "2021-04-07"
-      },
-      {
-        "title": "2021 年最新数据库排行榜出炉！看到 Redis 排名，我笑了。。",
-        "link": "https://www.ershicimi.com/p/b9905bd6538b04136697a6cd649ef6ab",
-        "date": "2021-04-07"
       }
     ]
   },
@@ -20375,6 +20375,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "golang plugin mac 平台下交叉编译 生成 .so 文件 报错",
+        "link": "https://www.v2ex.com/t/770918",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[上海/北京] [Android 客户端] 字节跳动抖音商业化直推",
+        "link": "https://www.v2ex.com/t/770916",
+        "date": "2021-04-15"
+      },
+      {
         "title": "广州附近离医院，学校近的，环境好的郊区房子请推荐",
         "link": "https://www.v2ex.com/t/770912",
         "date": "2021-04-15"
@@ -20542,26 +20552,6 @@
       {
         "title": "为什么我的 V2EX 右侧发表新主题链接消失了？",
         "link": "https://www.v2ex.com/t/770869",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "谷歌的人机身份验证",
-        "link": "https://www.v2ex.com/t/770868",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "迫于考试，请教各位大佬一个 Java 二分查找算法，",
-        "link": "https://www.v2ex.com/t/770867",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "唉，有点可怕，这开发者好像还在论坛的。还是官网下载的.....FinalShell.....",
-        "link": "https://www.v2ex.com/t/770866",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "Java 小白求助，前端传的值在后端为 null。是我代码哪里搞错了吗\r\n代码有点烂。",
-        "link": "https://www.v2ex.com/t/770864",
         "date": "2021-04-15"
       }
     ]
@@ -20779,13 +20769,48 @@
         "date": "2021-04-15"
       },
       {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
+        "title": "[推荐] 21 张图详解网络基础知识",
+        "link": "https://toutiao.io/k/9uox6mg",
         "date": "2021-04-15"
       },
       {
-        "title": "[推荐] Go 应用优化指北",
-        "link": "https://toutiao.io/k/6jo6q1t",
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
+        "link": "https://toutiao.io/k/iyge3cy",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 图文详解 Java 对象内存布局",
+        "link": "https://toutiao.io/k/romtfff",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] GitHub 加速指南进阶版",
+        "link": "https://toutiao.io/k/ygnbct1",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
+        "link": "https://toutiao.io/k/hti1ill",
         "date": "2021-04-15"
       },
       {
@@ -20799,33 +20824,8 @@
         "date": "2021-04-15"
       },
       {
-        "title": "[推荐] 21 张图详解网络基础知识",
-        "link": "https://toutiao.io/k/9uox6mg",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
-        "link": "https://toutiao.io/k/hti1ill",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
-        "link": "https://toutiao.io/k/iyge3cy",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
         "date": "2021-04-15"
       },
       {
@@ -20834,23 +20834,13 @@
         "date": "2021-04-15"
       },
       {
+        "title": "[推荐] Go 应用优化指北",
+        "link": "https://toutiao.io/k/6jo6q1t",
+        "date": "2021-04-15"
+      },
+      {
         "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
         "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 图文详解 Java 对象内存布局",
-        "link": "https://toutiao.io/k/romtfff",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] GitHub 加速指南进阶版",
-        "link": "https://toutiao.io/k/ygnbct1",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
         "date": "2021-04-15"
       }
     ]

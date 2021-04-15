@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-15 10:24:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 10:38:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -84,7 +84,6 @@
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-04-09-奇舞周刊第-392-期：用-65-行代码实现-JavaScript-动画序列播放](https://www.ershicimi.com/p/013dd0533617f7cce4ff4a46483d0fb1) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
-- [2021-04-09-全网最全-Java-日志框架适配方案！还有谁不会？](https://www.ershicimi.com/p/1d59f4b328ad336e49e8f5521ef63348) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-04-15-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-15-数据调度组件：基于-Azkaban-协调时序任务执行](https://toutiao.io/k/a7u76ek) 

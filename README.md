@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-15 10:24:03，:rocket: 更新条数: +4238， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-15 10:38:44，:rocket: 更新条数: +4236， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -808,6 +808,12 @@
 </summary>
 
 
+- [2021-04-15-华为，终于摊牌了！](https://www.ershicimi.com/p/74f26fd88e588f6b592943d20a78a025) ![](assets/new.png)  
+- [2021-04-15-卧槽！新来的妹纸rm--rf把公司整个数据库删没了，整个项目组慌了~](https://www.ershicimi.com/p/b7a0423e7da7dc6fd65db9b40fcd20f4) ![](assets/new.png)  
+- [2021-04-15-还在搞三层架构？DDD-分层架构了解下！](https://www.ershicimi.com/p/a04a78261a9d54d19065ee7909bdeffc) ![](assets/new.png)  
+- [2021-04-14-「大数据知识体系总结2021版」开放下载了！](https://www.ershicimi.com/p/445c7fe39315b2d813afaec7df857611) ![](assets/new.png)  
+- [2021-04-14-面进了心心念念的国企！以为TM上岸了！干了1年！我却再次选择回到互联网大厂内卷！](https://www.ershicimi.com/p/db7e82a04953492788a874a9757a5b56) ![](assets/new.png)  
+- [2021-04-14-Spring-Boot-接入支付宝，实战来了！](https://www.ershicimi.com/p/5a98eb3d127f7daf03b36ae22c10989a) ![](assets/new.png)  
 - [2021-04-13-华为员工违规领夜宵被发现后，被罚冻薪降考评，终身不得领夜宵，HR：哪个员工上班健身，定性考勤造](https://www.ershicimi.com/p/c19611f0b8b6a2b32e8965e2451ea68b) ![](assets/new.png)  
 - [2021-04-13-Java-8-中的-CompletableFuture-太好用了！20-个示例全分享…](https://www.ershicimi.com/p/e3da5c3f0f4f6e9d7b95cf7000550f8e) ![](assets/new.png)  
 - [2021-04-13-内连接、外连接、左连接、右连接、等值连接、自然连接和自连接之间的区别，看这篇就够了！](https://www.ershicimi.com/p/91816972a461b106bd626c375892e21b) ![](assets/new.png)  
@@ -822,12 +828,6 @@
 - [2021-04-10-阿里终面：如何设计一个高性能网关？](https://www.ershicimi.com/p/89eb52f0ff7329ad9428c4bffffa0898) ![](assets/new.png)  
 - [2021-04-09-12-个非常适合做私活或外包项目的开源后台管理系统](https://www.ershicimi.com/p/de54b1ea596947dabaed8f81d0c49f73) ![](assets/new.png)  
 - [2021-04-09-欧阳娜娜从阿里跳槽网易：阿里P8堪称教科书级别的面试现场！最后一个问题亮了](https://www.ershicimi.com/p/258256e57a26bf846018508c969faaea) ![](assets/new.png)  
-- [2021-04-09-全网最全-Java-日志框架适配方案！还有谁不会？](https://www.ershicimi.com/p/1d59f4b328ad336e49e8f5521ef63348) ![](assets/new.png)  
-- [2021-04-08-阿里一面：如何保障消息100%投递成功、消息幂等性？](https://www.ershicimi.com/p/ac528fd66aa642988e41dec5ce18b404) ![](assets/new.png)  
-- [2021-04-08-程序员，都是内卷之王！](https://www.ershicimi.com/p/af4ea34a2fa5e27b226bc3a0692d8cf9) ![](assets/new.png)  
-- [2021-04-08-Java8中的-Stream-那么彪悍，你知道它的原理是什么吗？](https://www.ershicimi.com/p/e3767fa1d7bd0dbd76a9b531084e45be) ![](assets/new.png)  
-- [2021-04-07-再见，Kafka！RocketMQ已成气候！](https://www.ershicimi.com/p/f69ac8559f3414a1a6865a126bd2f565) ![](assets/new.png)  
-- [2021-04-07-2021-年最新数据库排行榜出炉！看到-Redis-排名，我笑了。。](https://www.ershicimi.com/p/b9905bd6538b04136697a6cd649ef6ab) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-15-golang-plugin-mac-平台下交叉编译-生成-.so-文件-报错](https://www.v2ex.com/t/770918) ![](assets/new.png)  
+- [2021-04-15-上海/北京-Android-客户端-字节跳动抖音商业化直推](https://www.v2ex.com/t/770916) ![](assets/new.png)  
 - [2021-04-15-广州附近离医院，学校近的，环境好的郊区房子请推荐](https://www.v2ex.com/t/770912) ![](assets/new.png)  
 - [2021-04-15-mongodb-查询返回-value-而不是返回-key:value](https://www.v2ex.com/t/770910) ![](assets/new.png)  
 - [2021-04-15-大佬们帮忙看看这个电脑配置单还有啥改进么？](https://www.v2ex.com/t/770909) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-15-火花思维内推](https://www.v2ex.com/t/770892) ![](assets/new.png)  
 - [2021-04-15-公司新出的绩效考核制度（含末尾淘汰），能签字吗？](https://www.v2ex.com/t/770890) ![](assets/new.png)  
 - [2021-04-15-上海-喜马拉雅-iOS-内推各级别-iOS-客户端](https://www.v2ex.com/t/770889) ![](assets/new.png)  
-- [2021-04-15-API-文档简洁之美，只需三步开启](https://www.v2ex.com/t/770888) ![](assets/new.png)  
-- [2021-04-15-Android-有没有可以升降-key、加减速播放的音乐播放器？](https://www.v2ex.com/t/770887) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

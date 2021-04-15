@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-15 15:39:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 15:53:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -84,6 +84,7 @@
 - [2021-04-09-奇舞周刊第-392-期：用-65-行代码实现-JavaScript-动画序列播放](https://www.ershicimi.com/p/013dd0533617f7cce4ff4a46483d0fb1) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-04-15-前端组件不会写怎么办？](https://www.v2ex.com/t/770966) 
 - [2021-04-15-请问各位，有序数组中如何寻找某一特定值，除了二分以外的算法，有类似的时间复杂度？](https://www.v2ex.com/t/770939) 
 - [2021-04-15-请教一个正则表达式的问题，如何匹配要么一对双引号，要么没有双引号，但不匹配只有一个引号的情况？](https://www.v2ex.com/t/770928) 
 - [2021-04-15-有人-idea-升级到-2021.1-遇到无法-import-的-bug-吗](https://www.v2ex.com/t/770926) 

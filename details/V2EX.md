@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-15 12:56:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 13:09:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,5 +39,3 @@
 - [2021-04-15-最近总是被-google-阻断连接](https://www.v2ex.com/t/770896) 
 - [2021-04-15-《菜根谭》笔记+书评](https://www.v2ex.com/t/770895) 
 - [2021-04-15-日本工作-我们正筹备一家公司](https://www.v2ex.com/t/770894) 
-- [2021-04-15-genius.com-好长一段时间打不开了](https://www.v2ex.com/t/770893) 
-- [2021-04-15-火花思维内推](https://www.v2ex.com/t/770892) 

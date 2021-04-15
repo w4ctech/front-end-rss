@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-15 10:38:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 10:52:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3432,15 +3432,15 @@
 - [2021-04-15-不可不知的-Jupyter-Notebook-使用技巧](https://toutiao.io/k/up6v09r) 
 - [2021-04-15-不会持续集成和持续部署？今天带你玩转-CI/CD](https://toutiao.io/k/akhoseo) 
 - [2021-04-15-万字详文阐释程序员修炼之道](https://toutiao.io/k/0ki4v7l) 
-- [2021-04-15-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) 
 - [2021-04-15-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
 - [2021-04-15-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) 
-- [2021-04-15-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
 - [2021-04-15-推荐-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) 
-- [2021-04-15-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
+- [2021-04-15-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
 - [2021-04-15-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
-- [2021-04-15-推荐-译-Uber：面向领域的微服务架构](https://toutiao.io/k/0yy2iga) 
 - [2021-04-15-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
+- [2021-04-15-推荐-21-张图详解网络基础知识](https://toutiao.io/k/9uox6mg) 
+- [2021-04-15-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
+- [2021-04-15-推荐-译-Uber：面向领域的微服务架构](https://toutiao.io/k/0yy2iga) 
 - [2021-04-15-【技术分享】CVE-2021-27905-Apache-Solr-SSRF-复现](https://sec.thief.one/article_content?a_id=71aebd0cc335e4724ca34af290cf24d6) 
 - [2021-04-15-人手一份:帅照火锅三亚游,机械键盘按摩椅!](https://sec.thief.one/article_content?a_id=4da828f0e2e75bd1015a39321e83a6bb) 
 - [2021-04-15-布局渠道生态|绿盟科技渠道战略详解](https://sec.thief.one/article_content?a_id=1ad8d9ddba099e878470a427688bb970) 

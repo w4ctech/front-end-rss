@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-15 05:06:51，:rocket: 更新条数: +4233， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-15 05:24:32，:rocket: 更新条数: +4235， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-15-hyper-v-能不能不重启就使用?](https://www.v2ex.com/t/770824) ![](assets/new.png)  
 - [2021-04-15-为什么-V-站没有广告？](https://www.v2ex.com/t/770822) ![](assets/new.png)  
 - [2021-04-15-iPhone12Pro-网速奇慢](https://www.v2ex.com/t/770821) ![](assets/new.png)  
 - [2021-04-15-iOS-反剪切板滥用小技巧分享](https://www.v2ex.com/t/770820) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-15-offer-求比较，北京，-Java-，-2-年+](https://www.v2ex.com/t/770798) ![](assets/new.png)  
 - [2021-04-15-北京地区有什么便宜好用的宽带推荐吗？](https://www.v2ex.com/t/770797) ![](assets/new.png)  
 - [2021-04-15-这些读取剪切板的国产-app-是真的烦](https://www.v2ex.com/t/770796) ![](assets/new.png)  
-- [2021-04-15-Docker-容器已启动就崩溃，如何进入调试？](https://www.v2ex.com/t/770795) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1071,13 +1071,13 @@
 - [2021-04-15-React-的操作系统梦，任重道远](https://toutiao.io/k/klg7vm5) ![](assets/new.png)  
 - [2021-04-15-知乎的-Flink-数据集成平台建设实践](https://toutiao.io/k/cprz8fg) ![](assets/new.png)  
 - [2021-04-15-蚂蚁是如何改进-k8s-集群敏感信息的安全防护的？](https://toutiao.io/k/w21yfcc) ![](assets/new.png)  
-- [2021-04-15-不可不知的-Jupyter-Notebook-使用技巧](https://toutiao.io/k/up6v09r) ![](assets/new.png)  
 - [2021-04-15-AI-入行那些事儿（九）：人工智能对人类社会的影响](https://toutiao.io/k/s0673fu) ![](assets/new.png)  
+- [2021-04-15-不可不知的-Jupyter-Notebook-使用技巧](https://toutiao.io/k/up6v09r) ![](assets/new.png)  
 - [2021-04-15-升级库文件后如何查找需要重启的服务](https://toutiao.io/k/0msktdi) ![](assets/new.png)  
 - [2021-04-15-我为什么不选择去大厂？](https://toutiao.io/k/75hnmuz) ![](assets/new.png)  
 - [2021-04-15-Xcode-编译疾如风系列（一）：分析编译耗时](https://toutiao.io/k/g0rfr5w) ![](assets/new.png)  
-- [2021-04-15-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
-- [2021-04-15-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-15-万字详文阐释程序员修炼之道](https://toutiao.io/k/0ki4v7l) ![](assets/new.png)  
+- [2021-04-15-不会持续集成和持续部署？今天带你玩转-CI/CD](https://toutiao.io/k/akhoseo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

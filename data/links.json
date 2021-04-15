@@ -19924,6 +19924,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "如何打造一支有超强战斗力的技术团队？ ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/7f3c54fa30637f200a4a3cd868deeb4c",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "不惧流量持续上涨，BIGO 借助 Flink 与 Pulsar 打造实时消息系统",
+        "link": "https://www.ershicimi.com/p/f86faf3b0ceaf1cdbb455fb75a154e43",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "架构的下一个十年是什么样的？ ｜ ArchSummit",
+        "link": "https://www.ershicimi.com/p/9d574d40bb27773a5c3e81bb52e1e668",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "Serverless比你预期要贵得多",
+        "link": "https://www.ershicimi.com/p/e851d3a469e918de714357165b84007f",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "英伟达推出首个 CPU，基于 ARM 架构主攻巨型 AI，性能超 x86 十倍",
+        "link": "https://www.ershicimi.com/p/0feb20097decea9fc00552afaad25e10",
+        "date": "2021-04-14"
+      },
+      {
         "title": "华为回应多个热门话题：自动驾驶做的比特斯拉好，只要养得起海思就继续养",
         "link": "https://www.ershicimi.com/p/2b2c4a1a6f04621e2cf2aae3bdedb157",
         "date": "2021-04-13"
@@ -19997,31 +20022,6 @@
         "title": "北京Q1平均月薪达11187元；拼多多回应被告诈欺；京东、美团等承诺不用大数据杀熟 | Q资讯",
         "link": "https://www.ershicimi.com/p/7ca2d4aa973aab4085fa76d68fc38e14",
         "date": "2021-04-10"
-      },
-      {
-        "title": "OPPO数仓与数据湖融合架构升级的实践与思考",
-        "link": "https://www.ershicimi.com/p/66024476359398e90febba36e2061bab",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "从0到1，NLP 技术如何助力作业帮业务提质增效？",
-        "link": "https://www.ershicimi.com/p/6984048de5998ca348fc930027ddbc6c",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "清华牛人是怎么玩数据分析的？｜极客时间",
-        "link": "https://www.ershicimi.com/p/6cda812ead6780dd3dd812a7fe8d030b",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "谷歌“宠爱”升级，Rust 大步跨入 Android 平台",
-        "link": "https://www.ershicimi.com/p/ea7355410f65b125656b278d7b6c330a",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "以微博核心业务为例，解读如何仅用1台服务器支持百万DAU",
-        "link": "https://www.ershicimi.com/p/92e0e0f6ab629c5e54a4ea919a892850",
-        "date": "2021-04-09"
       }
     ]
   },
@@ -20370,13 +20370,8 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "V 站是被墙了吗？",
-        "link": "https://www.v2ex.com/t/770772",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "办公室有人抽电子烟，我买了 3 个 usb 风扇对着他吹",
-        "link": "https://www.v2ex.com/t/770769",
+        "title": "移动端的未来是什么",
+        "link": "https://www.v2ex.com/t/770773",
         "date": "2021-04-15"
       },
       {
@@ -20684,13 +20679,13 @@
         "date": "2021-04-15"
       },
       {
-        "title": "软件配置管理实践：基于 Ansible 和 Nacos",
-        "link": "https://toutiao.io/k/mo14ttn",
+        "title": "一款轻阅读应用 ReadIT，记录我的 RN 躺坑之旅",
+        "link": "https://toutiao.io/k/sr6qcwt",
         "date": "2021-04-15"
       },
       {
-        "title": "一款轻阅读应用 ReadIT，记录我的 RN 躺坑之旅",
-        "link": "https://toutiao.io/k/sr6qcwt",
+        "title": "软件配置管理实践：基于 Ansible 和 Nacos",
+        "link": "https://toutiao.io/k/mo14ttn",
         "date": "2021-04-15"
       },
       {
@@ -20719,13 +20714,13 @@
         "date": "2021-04-15"
       },
       {
-        "title": "蚂蚁是如何改进 k8s 集群敏感信息的安全防护的？",
-        "link": "https://toutiao.io/k/w21yfcc",
+        "title": "知乎的 Flink 数据集成平台建设实践",
+        "link": "https://toutiao.io/k/cprz8fg",
         "date": "2021-04-15"
       },
       {
-        "title": "知乎的 Flink 数据集成平台建设实践",
-        "link": "https://toutiao.io/k/cprz8fg",
+        "title": "蚂蚁是如何改进 k8s 集群敏感信息的安全防护的？",
+        "link": "https://toutiao.io/k/w21yfcc",
         "date": "2021-04-15"
       },
       {
@@ -20739,18 +20734,18 @@
         "date": "2021-04-15"
       },
       {
-        "title": "[推荐] 图文详解 Java 对象内存布局",
-        "link": "https://toutiao.io/k/romtfff",
+        "title": "AI 入行那些事儿（九）：人工智能对人类社会的影响",
+        "link": "https://toutiao.io/k/s0673fu",
         "date": "2021-04-15"
       },
       {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
+        "title": "Xcode 编译疾如风系列（一）：分析编译耗时",
+        "link": "https://toutiao.io/k/g0rfr5w",
         "date": "2021-04-15"
       },
       {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
+        "title": "我为什么不选择去大厂？",
+        "link": "https://toutiao.io/k/75hnmuz",
         "date": "2021-04-15"
       },
       {
@@ -20759,28 +20754,8 @@
         "date": "2021-04-15"
       },
       {
-        "title": "[推荐] Go 应用优化指北",
-        "link": "https://toutiao.io/k/6jo6q1t",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
-        "link": "https://toutiao.io/k/iyge3cy",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
         "date": "2021-04-15"
       },
       {
@@ -20789,8 +20764,8 @@
         "date": "2021-04-15"
       },
       {
-        "title": "[推荐] [译] Uber：面向领域的微服务架构",
-        "link": "https://toutiao.io/k/0yy2iga",
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
         "date": "2021-04-15"
       },
       {
@@ -20799,18 +20774,53 @@
         "date": "2021-04-15"
       },
       {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] [译] Uber：面向领域的微服务架构",
+        "link": "https://toutiao.io/k/0yy2iga",
+        "date": "2021-04-15"
+      },
+      {
         "title": "[推荐] 我很久没写代码了，但我是个好架构师",
         "link": "https://toutiao.io/k/gauwubg",
         "date": "2021-04-15"
       },
       {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
+        "link": "https://toutiao.io/k/iyge3cy",
         "date": "2021-04-15"
       },
       {
         "title": "[推荐] 21 张图详解网络基础知识",
         "link": "https://toutiao.io/k/9uox6mg",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 图文详解 Java 对象内存布局",
+        "link": "https://toutiao.io/k/romtfff",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] Go 应用优化指北",
+        "link": "https://toutiao.io/k/6jo6q1t",
         "date": "2021-04-15"
       }
     ]

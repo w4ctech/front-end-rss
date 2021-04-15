@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-15 22:52:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 23:03:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -456,7 +456,6 @@
 - [【React中文社区】实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1)
 - [【前端瓶子君】从梦幻西游学会广度优先搜索和A*算法](https://www.ershicimi.com/p/b34641353de96544191162c490a58ff2)
 - [【前端日刊】面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219)
-- [【开发者头条】ElasticSearch-如何使用-ik-进行中文分词？](https://toutiao.io/k/ehhe1vm)
 - [【安全热点】【Android-原创】Android硬核https抓包,自定义ssl也无用](https://sec.thief.one/article_content?a_id=91772f9844aa927a43b1f3bde6069026)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -476,7 +475,6 @@
 
 - [【InfoQ】一文梳理-Nginx-的称霸之路｜极客时间](https://www.ershicimi.com/p/82e715bc90804a07c1a6545bb51eae3a)
 - [【V2EX】新加坡-Shopee-直招-急，招后端开发工程师，包含-OpenResty,-eBPF,-DPDK,-Kubernetes-等不同方向](https://www.v2ex.com/t/770957)
-- [【开发者头条】RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

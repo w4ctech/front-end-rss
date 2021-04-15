@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-15 06:03:12，:rocket: 更新条数: +729， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-15 06:24:44，:rocket: 更新条数: +4237， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-04-15-4月14日全国新增新冠10例-均由境外输入](https://m.caixin.com/m/2021-04-15/101691329.html) ![](assets/new.png)  
+- [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
+- [2021-04-14-云南瑞丽4月13日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-14/101690804.html) ![](assets/new.png)  
+- [2021-04-14-最新海外疫情：新冠感染超1.37亿-累计死亡超295万](https://m.caixin.com/m/2021-04-14/101691179.html) ![](assets/new.png)  
+- [2021-04-14-【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html) ![](assets/new.png)  
+- [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
+- [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
+- [2021-04-13-【境内疫情观察】我国新冠疫苗累计接种超1.67亿剂次（4月12日）](http://m.database.caixin.com/m/2021-04-13/101690476.html) ![](assets/new.png)  
+- [2021-04-13-英国重开商场健身房-澳放弃年底前全民接种目标｜大流行手记（4月12日）](https://m.caixin.com/m/2021-04-13/101690235.html) ![](assets/new.png)  
+- [2021-04-12-解药｜科兴新冠疫苗巴西临床III期数据发论文-为国内首次](https://m.caixin.com/m/2021-04-12/101690123.html) ![](assets/new.png)  
+- [2021-04-12-香港与内地通关现曙光-5月中旬起内地民众来港免隔离](https://m.caixin.com/m/2021-04-12/101690149.html) ![](assets/new.png)  
+- [2021-04-12-云南4月11日新增新冠2例-均在瑞丽市](https://m.caixin.com/m/2021-04-12/101688731.html) ![](assets/new.png)  
+- [2021-04-12-【境内疫情观察】云南新增2例本土病例（4月11日）](http://m.database.caixin.com/m/2021-04-12/101689975.html) ![](assets/new.png)  
+- [2021-04-12-南非变异株或可逃逸辉瑞疫苗保护-印度单日新增破15万｜大流行手记（4月11日）](https://m.caixin.com/m/2021-04-12/101688748.html) ![](assets/new.png)  
+- [2021-04-12-高福回应中国新冠疫苗保护率言论](https://m.caixin.com/m/2021-04-12/101688777.html) ![](assets/new.png)  
+- [2021-04-11-【境内疫情观察】全国新增10例境外输入病例（4月10日）](http://m.database.caixin.com/m/2021-04-11/101688671.html) ![](assets/new.png)  
+- [2021-04-11-研究揭阿斯利康疫苗接种后血栓机制-辉瑞申请扩大疫苗适用范围｜大流行手记（4月10日）](https://m.caixin.com/m/2021-04-11/101688624.html) ![](assets/new.png)  
+- [2021-04-10-【境内疫情观察】全国新增14例境外输入病例（4月9日）](http://m.database.caixin.com/m/2021-04-10/101688525.html) ![](assets/new.png)  
+- [2021-04-10-谭德塞称疫苗分配不均令人震惊-巴西单日死亡又破4000|大流行手记（4月9日）](https://m.caixin.com/m/2021-04-10/101688391.html) ![](assets/new.png)  
+- [2021-04-09-云南瑞丽4月8日新增新冠确诊8例-现有确诊87例](https://m.caixin.com/m/2021-04-09/101687661.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -850,6 +870,9 @@
 </summary>
 
 
+- [2021-04-15-Atom-1.56.0-发布，GitHub-官方文本编辑器](https://www.ershicimi.com/p/c35fb03a8c5fe27e9d8bfcb139d2a679) ![](assets/new.png)  
+- [2021-04-14-推荐一位程序媛的公众号，有福利哦～](https://www.ershicimi.com/p/44c9358553c9f9974912d5321841ccd3) ![](assets/new.png)  
+- [2021-04-13-Taro-3.2.0-正式版发布，支持-React-Native](https://www.ershicimi.com/p/041d7304e1b1f60da002f4bf1f340a59) ![](assets/new.png)  
 - [2021-04-12-Vue-和-React-源码大PK](https://www.ershicimi.com/p/7e2eb94b7ec4562c811d4d04df5857af) ![](assets/new.png)  
 - [2021-04-11-大厂都在做serverless，他到底是什么？](https://www.ershicimi.com/p/133280d357c2d7f18d0cc925d6df078f) ![](assets/new.png)  
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) ![](assets/new.png)  
@@ -867,9 +890,6 @@
 - [2021-03-29-2021年提升效率的7个新vue实战技巧！](https://www.ershicimi.com/p/a141a5c5a9a8d3c8caa267f37d911011) ![](assets/new.png)  
 - [2021-03-28-TypeScript-手册【重制版】](https://www.ershicimi.com/p/512f23a38cacd2115cb5ef5994d217ae) ![](assets/new.png)  
 - [2021-03-27-webpack-v5.28.0-发布](https://www.ershicimi.com/p/582b912fa8802e914a141c1683037942) ![](assets/new.png)  
-- [2021-03-26-Socket.io-4.0.0-发布](https://www.ershicimi.com/p/2e81ec50e051d7860f3242eb86e1394c) ![](assets/new.png)  
-- [2021-03-25-关于Vue-3核心原理问题，一次解决](https://www.ershicimi.com/p/9851a2f2a13411f0cff99cdec7a7b4fd) ![](assets/new.png)  
-- [2021-03-24-字节跳动高频100道核心前端面试题解析](https://www.ershicimi.com/p/bd6c66f84e2c88714b5520bdbd5e1927) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -976,6 +996,17 @@
 </summary>
 
 
+- [2021-04-15-如果有个-CRUD-工具会不会有兴趣用？](https://www.v2ex.com/t/770847) ![](assets/new.png)  
+- [2021-04-15-高中毕业，想整下学历，有些疑问求解](https://www.v2ex.com/t/770846) ![](assets/new.png)  
+- [2021-04-15-大家微服务的健康监控是如何做的？](https://www.v2ex.com/t/770845) ![](assets/new.png)  
+- [2021-04-15-老哥们写个官网用什么前端框架最舒服](https://www.v2ex.com/t/770844) ![](assets/new.png)  
+- [2021-04-15-程序员快乐的一天！](https://www.v2ex.com/t/770843) ![](assets/new.png)  
+- [2021-04-15-开业了-给-V-友准备了-NUC11-福利!](https://www.v2ex.com/t/770842) ![](assets/new.png)  
+- [2021-04-15-上海喜马拉雅招聘大量-iOS，速速仍简历过来啦](https://www.v2ex.com/t/770841) ![](assets/new.png)  
+- [2021-04-15-ERR_DOMAIN_NOT_RESOLVED-错误求助](https://www.v2ex.com/t/770840) ![](assets/new.png)  
+- [2021-04-15-所在城市不限号，预算-17W-以内性价比最高的车，求讨论](https://www.v2ex.com/t/770839) ![](assets/new.png)  
+- [2021-04-15-请教-intellij-idea-集成-Kaleidoscope-时，参数咋写？](https://www.v2ex.com/t/770838) ![](assets/new.png)  
+- [2021-04-15-数字货币是否危害了科技创新？](https://www.v2ex.com/t/770837) ![](assets/new.png)  
 - [2021-04-15-新店开业-给-V-友准备了-NUC11-福利!](https://www.v2ex.com/t/770836) ![](assets/new.png)  
 - [2021-04-15-2021-年-4-月-15-号，以太坊显卡算力及回血排名](https://www.v2ex.com/t/770834) ![](assets/new.png)  
 - [2021-04-15-不懂就问，在-mysql-中关于-associative-entity（Credentials）报错应该怎么改？](https://www.v2ex.com/t/770833) ![](assets/new.png)  
@@ -985,17 +1016,6 @@
 - [2021-04-15-遇到这样的花小猪司机-你们怎么处理](https://www.v2ex.com/t/770829) ![](assets/new.png)  
 - [2021-04-15-显卡为啥卖疯了？因为加密币吗？](https://www.v2ex.com/t/770828) ![](assets/new.png)  
 - [2021-04-15-求一款老游戏的名称](https://www.v2ex.com/t/770827) ![](assets/new.png)  
-- [2021-04-15-有下划线的-object-值有办法读取吗](https://www.v2ex.com/t/770826) ![](assets/new.png)  
-- [2021-04-15-hyper-v-能不能不重启就使用?](https://www.v2ex.com/t/770824) ![](assets/new.png)  
-- [2021-04-15-为什么-V-站没有广告？](https://www.v2ex.com/t/770822) ![](assets/new.png)  
-- [2021-04-15-iPhone12Pro-网速奇慢](https://www.v2ex.com/t/770821) ![](assets/new.png)  
-- [2021-04-15-iOS-反剪切板滥用小技巧分享](https://www.v2ex.com/t/770820) ![](assets/new.png)  
-- [2021-04-15-久坐，-有啥-背垫-或者-坐垫-推荐么？（腰酸背痛了，-5555。）](https://www.v2ex.com/t/770819) ![](assets/new.png)  
-- [2021-04-15-你能辨别如下情况是否属于盗版吗？（还是有人分不清楚）](https://www.v2ex.com/t/770818) ![](assets/new.png)  
-- [2021-04-15-可能是上海比较靠谱的-NLP-方向-AI-公司](https://www.v2ex.com/t/770813) ![](assets/new.png)  
-- [2021-04-15-编译原理算不算计算机最没有功利价值的一门专业必修课？](https://www.v2ex.com/t/770810) ![](assets/new.png)  
-- [2021-04-15-离职一年后，收到了上家公司的-annual-bonus！](https://www.v2ex.com/t/770809) ![](assets/new.png)  
-- [2021-04-15-莫名其妙收到一笔社保的报销，如何查报销原因？](https://www.v2ex.com/t/770808) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

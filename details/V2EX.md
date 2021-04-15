@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-04-15 08:24:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 08:39:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-15-如何在线查看服务器上面的日志文件](https://www.v2ex.com/t/770885) 
+- [2021-04-15-有没有-apple-one-的车队可以带一个？](https://www.v2ex.com/t/770884) 
+- [2021-04-15-JetBrainsIDE-升级到-2021.1-大家有遇到-git-提交面板偶尔无法输入中文的情况吗？](https://www.v2ex.com/t/770883) 
+- [2021-04-15-如何在没有-visa-卡或者信用卡的情况下，用上-AWS-上的服务（不白嫖）](https://www.v2ex.com/t/770882) 
 - [2021-04-15-想入手苹果-xr，不知道续航如何？](https://www.v2ex.com/t/770880) 
 - [2021-04-15-遇到了一个奇葩面试官......](https://www.v2ex.com/t/770879) 
 - [2021-04-15-图查询语言的历史回顾短文](https://www.v2ex.com/t/770878) 
@@ -41,5 +45,3 @@
 - [2021-04-15-上海喜马拉雅招聘大量-iOS，速速仍简历过来啦](https://www.v2ex.com/t/770841) 
 - [2021-04-15-所在城市不限号，预算-17W-以内性价比最高的车，求讨论](https://www.v2ex.com/t/770839) 
 - [2021-04-15-请教-intellij-idea-集成-Kaleidoscope-时，参数咋写？](https://www.v2ex.com/t/770838) 
-- [2021-04-15-2021-年-4-月-15-号，以太坊显卡算力及回血排名](https://www.v2ex.com/t/770834) 
-- [2021-04-15-不懂就问，在-mysql-中关于-associative-entity（Credentials）报错应该怎么改？](https://www.v2ex.com/t/770833) 

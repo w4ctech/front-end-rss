@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-15 09:52:31，:rocket: 更新条数: +4241， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-15 10:03:19，:rocket: 更新条数: +4240， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,7 +996,7 @@
 </summary>
 
 
-- [2021-04-15-有做建模或者-VR-这种-单独接活儿的大神吗](https://www.v2ex.com/t/770907) ![](assets/new.png)  
+- [2021-04-15-最近个人抽空写的一个网页版的-SSH-&-SFTP-服务器连接工具，欢迎大家提建议（目前内测中）](https://www.v2ex.com/t/770908) ![](assets/new.png)  
 - [2021-04-15-诚心请教各位同学/前辈，面试被问到-JVM-调优经验和慢查询-SQL-优化时，怎么更好的回答](https://www.v2ex.com/t/770906) ![](assets/new.png)  
 - [2021-04-15-弱弱想问一下各位大佬，各位过来人，怎么提升个人的核心价值？](https://www.v2ex.com/t/770903) ![](assets/new.png)  
 - [2021-04-15-哪个男孩子不想坐五菱敞篷车呢](https://www.v2ex.com/t/770902) ![](assets/new.png)  
@@ -1074,8 +1074,8 @@
 - [2021-04-15-AI-入行那些事儿（九）：人工智能对人类社会的影响](https://toutiao.io/k/s0673fu) ![](assets/new.png)  
 - [2021-04-15-升级库文件后如何查找需要重启的服务](https://toutiao.io/k/0msktdi) ![](assets/new.png)  
 - [2021-04-15-我为什么不选择去大厂？](https://toutiao.io/k/75hnmuz) ![](assets/new.png)  
-- [2021-04-15-不可不知的-Jupyter-Notebook-使用技巧](https://toutiao.io/k/up6v09r) ![](assets/new.png)  
 - [2021-04-15-Xcode-编译疾如风系列（一）：分析编译耗时](https://toutiao.io/k/g0rfr5w) ![](assets/new.png)  
+- [2021-04-15-不可不知的-Jupyter-Notebook-使用技巧](https://toutiao.io/k/up6v09r) ![](assets/new.png)  
 - [2021-04-15-不会持续集成和持续部署？今天带你玩转-CI/CD](https://toutiao.io/k/akhoseo) ![](assets/new.png)  
 - [2021-04-15-万字详文阐释程序员修炼之道](https://toutiao.io/k/0ki4v7l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

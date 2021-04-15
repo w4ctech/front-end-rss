@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-15 02:10:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 02:19:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-15-jboss，-JavaEE-这套东西还有人用吗，值得投入太多精力下去吗](https://www.v2ex.com/t/770763) 
+- [2021-04-15-IDEA-可以设置对某个单词高亮嘛](https://www.v2ex.com/t/770761) 
 - [2021-04-15-分享自己的倒霉事。](https://www.v2ex.com/t/770760) 
 - [2021-04-15-公司-app-又被腾讯报毒了，有没人见过这情况，](https://www.v2ex.com/t/770759) 
 - [2021-04-15-amd-mxgpu-云主机-安装了-win10-系统，安装-amd-官网驱动后，虚拟-GPU-没有成功驱动](https://www.v2ex.com/t/770758) 
@@ -41,5 +43,3 @@
 - [2021-04-14-在-Echarts-的-custom-系列中不用-datazoom-如何实现类似-graph、map-系列的拖动和缩放效果？](https://www.v2ex.com/t/770718) 
 - [2021-04-14-求大佬们推荐一个钉钉个人号的-API](https://www.v2ex.com/t/770717) 
 - [2021-04-14-大佬们-都是用什么在线-API-管理的](https://www.v2ex.com/t/770715) 
-- [2021-04-14-如何使用-k8s-对外暴露-pods-的任意端口？](https://www.v2ex.com/t/770712) 
-- [2021-04-14-iPhone-XR-只要-$212.5-美元](https://www.v2ex.com/t/770711) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-15 10:03:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 10:24:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,7 +86,5 @@
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-04-15-Android-有没有可以升降-key、加减速播放的音乐播放器？](https://www.v2ex.com/t/770887) 
-- [2021-04-15-突然发现腾讯视频会员的神奇操作](https://www.v2ex.com/t/770861) 
 - [2021-04-15-【视频】|-Python:生成器之应用多任务](https://sec.thief.one/article_content?a_id=a5f94bf6019c08941b6e4ead46bd510e) 
 - [2021-04-14-【视频】|-网络安全等级保护2.0政策解读](https://sec.thief.one/article_content?a_id=cb46a85f9315ce68343d8738f981f6be) 
-- [2021-04-12-抖音、西瓜视频专测来啦!!](https://sec.thief.one/article_content?a_id=9d963e2e19bae5d98959ee8235aea312) 

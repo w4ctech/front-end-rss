@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-15 10:03:19，:rocket: 更新条数: +4240， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-15 10:24:03，:rocket: 更新条数: +4238， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-15-广州附近离医院，学校近的，环境好的郊区房子请推荐](https://www.v2ex.com/t/770912) ![](assets/new.png)  
+- [2021-04-15-mongodb-查询返回-value-而不是返回-key:value](https://www.v2ex.com/t/770910) ![](assets/new.png)  
+- [2021-04-15-大佬们帮忙看看这个电脑配置单还有啥改进么？](https://www.v2ex.com/t/770909) ![](assets/new.png)  
 - [2021-04-15-最近个人抽空写的一个网页版的-SSH-&-SFTP-服务器连接工具，欢迎大家提建议（目前内测中）](https://www.v2ex.com/t/770908) ![](assets/new.png)  
 - [2021-04-15-诚心请教各位同学/前辈，面试被问到-JVM-调优经验和慢查询-SQL-优化时，怎么更好的回答](https://www.v2ex.com/t/770906) ![](assets/new.png)  
 - [2021-04-15-弱弱想问一下各位大佬，各位过来人，怎么提升个人的核心价值？](https://www.v2ex.com/t/770903) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-15-上海-喜马拉雅-iOS-内推各级别-iOS-客户端](https://www.v2ex.com/t/770889) ![](assets/new.png)  
 - [2021-04-15-API-文档简洁之美，只需三步开启](https://www.v2ex.com/t/770888) ![](assets/new.png)  
 - [2021-04-15-Android-有没有可以升降-key、加减速播放的音乐播放器？](https://www.v2ex.com/t/770887) ![](assets/new.png)  
-- [2021-04-15-stackoverflow-上看到一个问题，不是很理解。](https://www.v2ex.com/t/770886) ![](assets/new.png)  
-- [2021-04-15-如何在线查看服务器上面的日志文件](https://www.v2ex.com/t/770885) ![](assets/new.png)  
-- [2021-04-15-有没有-apple-one-的车队可以带一个？](https://www.v2ex.com/t/770884) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,26 +1089,26 @@
 </summary>
 
 
-- [2021-04-15-【视频】|-Python:生成器之应用多任务](https://sec.thief.one/article_content?a_id=a5f94bf6019c08941b6e4ead46bd510e) ![](assets/new.png)  
-- [2021-04-15-习近平:你们是与中国沟通的桥梁](https://sec.thief.one/article_content?a_id=5e5a32a617890cc3deb770322dc5a7ed) ![](assets/new.png)  
-- [2021-04-15-CISP-F专业资质介绍](https://sec.thief.one/article_content?a_id=430a6c46caa2ca342061e003526ced1f) ![](assets/new.png)  
-- [2021-04-15-20210413|漏洞处置情况](https://sec.thief.one/article_content?a_id=7093f90dd150b644d864a0f52e5cdb8c) ![](assets/new.png)  
-- [2021-04-14-【天问】Chrome-0Day漏洞软件供应链影响分析](https://sec.thief.one/article_content?a_id=6ca0f366d6ed34740fd35f56bace48a5) ![](assets/new.png)  
-- [2021-04-14-【安全圈】苹果-MAC-电脑默认文本程序存在漏洞,黑客可随意截取-IP-...](https://sec.thief.one/article_content?a_id=d0a3679545ff1475e40d03a2d8acbdf1) ![](assets/new.png)  
-- [2021-04-14-聚焦实践|绿盟科技支持全国大学生信息安全竞赛东北、华中赛区](https://sec.thief.one/article_content?a_id=b1394ff965051e065b79a6b3a3e65fd5) ![](assets/new.png)  
-- [2021-04-14-构建用户评分体系](https://sec.thief.one/article_content?a_id=55176329849cb84d3e3c1baa6eafd5ff) ![](assets/new.png)  
-- [2021-04-14-推荐一个学Python的利器](https://sec.thief.one/article_content?a_id=58fe1d44c0e21937c8264420eaea5fdd) ![](assets/new.png)  
-- [2021-04-14-4·15全民国家安全教育日活动走进校园-奇安信在北京三十五中开讲](https://sec.thief.one/article_content?a_id=363e79c125fe2597fee67ec039d6ba9c) ![](assets/new.png)  
-- [2021-04-14-间接执行后门文件绕过防病毒软件](https://sec.thief.one/article_content?a_id=60e34b0cd3f1b2ac45b7a993183c3ee9) ![](assets/new.png)  
-- [2021-04-14-多年后,我终于看清了比特币的本质](https://sec.thief.one/article_content?a_id=527bf10767927b05fb21dd952b51e64a) ![](assets/new.png)  
-- [2021-04-14-Swarmshop信用卡商店遭攻击,62万张银行卡记录曝光](https://sec.thief.one/article_content?a_id=ec6f3d49d645938caaefeb443bc49e56) ![](assets/new.png)  
-- [2021-04-14-新书推荐-|-《白帽子安全开发实战》](https://sec.thief.one/article_content?a_id=a65e9dee85ec083ad15d9ad59001f146) ![](assets/new.png)  
-- [2021-04-14-征题倒计时!2021-KCTF-春季赛-等你来挑战!](https://sec.thief.one/article_content?a_id=e4e3d3c3649353fff4f4d316c49d3f0f) ![](assets/new.png)  
-- [2021-04-14-助力蓝队防守:微步在线TDP支持检测在野0day攻击又双叒叕增加](https://sec.thief.one/article_content?a_id=e63c1f9dd7db54ea3b86994117d41fc4) ![](assets/new.png)  
-- [2021-04-14-Guymager取证介绍及操作文献归档](https://sec.thief.one/article_content?a_id=a5d46ec58038fe62cbfdfa0a82a4817c) ![](assets/new.png)  
-- [2021-04-14-CNNVD-关于Google-Chrome-V8-engine输入验证错误漏洞的预警](https://sec.thief.one/article_content?a_id=5d84d050698cbb71e6e14784625d6e9b) ![](assets/new.png)  
-- [2021-04-14-【安全更新】微软4月安全更新多个产品高危漏洞通告](https://sec.thief.one/article_content?a_id=faef99d8692f6a372efd2a493c7c04eb) ![](assets/new.png)  
-- [2021-04-14-诸子云|话题:蜜罐及钓鱼测试新手怎上手?业务上云解决方案?自动加...](https://sec.thief.one/article_content?a_id=2c917dda24b4bc074eef81ae93d08d8d) ![](assets/new.png)  
+- [2021-04-15-【技术分享】CVE-2021-27905-Apache-Solr-SSRF-复现](https://sec.thief.one/article_content?a_id=71aebd0cc335e4724ca34af290cf24d6) ![](assets/new.png)  
+- [2021-04-15-人手一份:帅照火锅三亚游,机械键盘按摩椅!](https://sec.thief.one/article_content?a_id=4da828f0e2e75bd1015a39321e83a6bb) ![](assets/new.png)  
+- [2021-04-15-布局渠道生态|绿盟科技渠道战略详解](https://sec.thief.one/article_content?a_id=1ad8d9ddba099e878470a427688bb970) ![](assets/new.png)  
+- [2021-04-15-【中奖名单】《Kali-Linux2-网络渗透测试实践指南》书籍中奖名单公布...](https://sec.thief.one/article_content?a_id=004fe778a31eacdbc3091fa5c38a34d7) ![](assets/new.png)  
+- [2021-04-15-专栏丨《网络犯罪案例分析》第一期:域名劫持](https://sec.thief.one/article_content?a_id=085dba91edea6e75185c730dc4f38ee8) ![](assets/new.png)  
+- [2021-04-15-成长平台免费注册通知](https://sec.thief.one/article_content?a_id=86e02ee89f217d683655e7a388e4430e) ![](assets/new.png)  
+- [2021-04-15-诸子云广州分会即日成立!](https://sec.thief.one/article_content?a_id=c2308c9b083853737f135a3b8468f103) ![](assets/new.png)  
+- [2021-04-15-4月深信服蓝军安全研究团队向微软提交并协助修复4个漏洞](https://sec.thief.one/article_content?a_id=e5974bb68b6545133d2fb00a9a4d9c9e) ![](assets/new.png)  
+- [2021-04-15-迪拜经济部门将推出基于区块链的企业KYC](https://sec.thief.one/article_content?a_id=48d1b36080fd184a2b089955830705ce) ![](assets/new.png)  
+- [2021-04-15-4月15日贵币GUIBI早内参-全球加密货币总市值现已超越苹果市值,...](https://sec.thief.one/article_content?a_id=3a26aefb614dfb642ab2260c0995a973) ![](assets/new.png)  
+- [2021-04-15-天融信关于Chrome-V8引擎远程代码执行0day漏洞风险提示](https://sec.thief.one/article_content?a_id=41c7fb430b3dac3854e6cd5ccaf2e99d) ![](assets/new.png)  
+- [2021-04-15-恶意广告软件通过伪造的TikTok应用传播](https://sec.thief.one/article_content?a_id=10652d9ebef21aa27be694a3f360c924) ![](assets/new.png)  
+- [2021-04-15-“域前置Cobalt-Strike”之踩坑](https://sec.thief.one/article_content?a_id=50a4b6e9027e566ec5f4c974e22dfc59) ![](assets/new.png)  
+- [2021-04-15-美联储主席:网络攻击已成为美国经济的主要风险](https://sec.thief.one/article_content?a_id=d37c03fa23038df5219168d6bfac8921) ![](assets/new.png)  
+- [2021-04-15-干货集合-|-Java程序员的93家大厂面试真题](https://sec.thief.one/article_content?a_id=24ba2d7c218c7378084c4ebeb5f700fc) ![](assets/new.png)  
+- [2021-04-15-安全日报2021.04.15](https://sec.thief.one/article_content?a_id=2e7bba14a9c4dfa57ab70b4c1c6170ca) ![](assets/new.png)  
+- [2021-04-15-这家安全公司帮助FBI“破解”了iPhone](https://sec.thief.one/article_content?a_id=229f0cea00437a3c9c0eee9ded44c8e8) ![](assets/new.png)  
+- [2021-04-15-新的Linux、macOS恶意软件隐藏在伪造的Browserify-NPM软件包中](https://sec.thief.one/article_content?a_id=2dc8df846ddc5206d1d3b4709b911da6) ![](assets/new.png)  
+- [2021-04-15-央行《金融数据生命周期安全规范》发布-附全文](https://sec.thief.one/article_content?a_id=0ffba90236079c461cfcf331f524962d) ![](assets/new.png)  
+- [2021-04-15-首名比特币勒索病毒的制作者已判刑!非法获利500万!](https://sec.thief.one/article_content?a_id=809e790815f4bf835ef4fa6c7c05c316) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-15 02:45:19，:rocket: 更新条数: +4232， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-15 02:59:47，:rocket: 更新条数: +4230， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,13 @@
 </summary>
 
 
+- [2021-04-15-几年前涉及-dubo-游戏,2020-年被-jc-调查,我该怎么办?](https://www.v2ex.com/t/770782) ![](assets/new.png)  
+- [2021-04-15-当有一个-PR-被-merged-到-A-git-repo-后，如何触发-B-git-repo-的-build，等等？](https://www.v2ex.com/t/770781) ![](assets/new.png)  
+- [2021-04-15-坐标上海，想买-20w-25w-左右的车，怎么选择？](https://www.v2ex.com/t/770780) ![](assets/new.png)  
+- [2021-04-15-飞书文档和飞书里的内容是否会被字节看到？是否有加密机制？](https://www.v2ex.com/t/770779) ![](assets/new.png)  
+- [2021-04-15-RESTful-API-设计最佳实践](https://www.v2ex.com/t/770777) ![](assets/new.png)  
+- [2021-04-15-有严格遵守-RESTful-范式的朋友吗？](https://www.v2ex.com/t/770775) ![](assets/new.png)  
+- [2021-04-15-4.15-二刷这道微软面试题，把讨论里的解法都理了一遍！](https://www.v2ex.com/t/770774) ![](assets/new.png)  
 - [2021-04-15-移动端的未来是什么](https://www.v2ex.com/t/770773) ![](assets/new.png)  
 - [2021-04-15-支持-M1-芯片的-Parallels-Desktop-16.5-前来报到](https://www.v2ex.com/t/770768) ![](assets/new.png)  
 - [2021-04-15-不谈薪直接给顶包，大厂现在这么壕吗？](https://www.v2ex.com/t/770767) ![](assets/new.png)  
@@ -1009,13 +1016,6 @@
 - [2021-04-15-终于下定决心买了正版-jetbrains-全家桶一年授权](https://www.v2ex.com/t/770756) ![](assets/new.png)  
 - [2021-04-15-Google-放出-Chrome-90-版本了](https://www.v2ex.com/t/770755) ![](assets/new.png)  
 - [2021-04-15-宁芝-NIZ-静电容键盘-66-还是-68-键？](https://www.v2ex.com/t/770753) ![](assets/new.png)  
-- [2021-04-15-不懂就问：如何正确设计一个订单号？](https://www.v2ex.com/t/770751) ![](assets/new.png)  
-- [2021-04-15-这两个源码那个比较好？](https://www.v2ex.com/t/770749) ![](assets/new.png)  
-- [2021-04-15-想入手-DS220+-and-硬盘咨询](https://www.v2ex.com/t/770748) ![](assets/new.png)  
-- [2021-04-15-3080-现在能卖多少钱？](https://www.v2ex.com/t/770746) ![](assets/new.png)  
-- [2021-04-15-间隙锁的危害场景](https://www.v2ex.com/t/770745) ![](assets/new.png)  
-- [2021-04-15-请求接口需要隐藏吗？如果接口只供网页端使用，这种接口需要隐藏以阻止其他方式进行访问吗？](https://www.v2ex.com/t/770744) ![](assets/new.png)  
-- [2021-04-15-12-mini-的屏幕是真的瞎眼](https://www.v2ex.com/t/770743) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1058,8 +1058,8 @@
 </summary>
 
 
-- [2021-04-15-数据调度组件：基于-Azkaban-协调时序任务执行](https://toutiao.io/k/a7u76ek) ![](assets/new.png)  
 - [2021-04-15-Redis-入门：Redis-概念和基础](https://toutiao.io/k/47fg3nq) ![](assets/new.png)  
+- [2021-04-15-数据调度组件：基于-Azkaban-协调时序任务执行](https://toutiao.io/k/a7u76ek) ![](assets/new.png)  
 - [2021-04-15-详解-Go-程序的启动流程，你知道-g0，m0-是什么吗？](https://toutiao.io/k/twm9mo2) ![](assets/new.png)  
 - [2021-04-15-ElasticSearch-如何使用-ik-进行中文分词？](https://toutiao.io/k/ehhe1vm) ![](assets/new.png)  
 - [2021-04-15-一款轻阅读应用-ReadIT，记录我的-RN-躺坑之旅](https://toutiao.io/k/sr6qcwt) ![](assets/new.png)  
@@ -1070,14 +1070,14 @@
 - [2021-04-15-React-的操作系统梦，任重道远](https://toutiao.io/k/klg7vm5) ![](assets/new.png)  
 - [2021-04-15-不可不知的-Jupyter-Notebook-使用技巧](https://toutiao.io/k/up6v09r) ![](assets/new.png)  
 - [2021-04-15-知乎的-Flink-数据集成平台建设实践](https://toutiao.io/k/cprz8fg) ![](assets/new.png)  
-- [2021-04-15-蚂蚁是如何改进-k8s-集群敏感信息的安全防护的？](https://toutiao.io/k/w21yfcc) ![](assets/new.png)  
 - [2021-04-15-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-15-蚂蚁是如何改进-k8s-集群敏感信息的安全防护的？](https://toutiao.io/k/w21yfcc) ![](assets/new.png)  
 - [2021-04-15-升级库文件后如何查找需要重启的服务](https://toutiao.io/k/0msktdi) ![](assets/new.png)  
 - [2021-04-15-AI-入行那些事儿（九）：人工智能对人类社会的影响](https://toutiao.io/k/s0673fu) ![](assets/new.png)  
-- [2021-04-15-Xcode-编译疾如风系列（一）：分析编译耗时](https://toutiao.io/k/g0rfr5w) ![](assets/new.png)  
 - [2021-04-15-我为什么不选择去大厂？](https://toutiao.io/k/75hnmuz) ![](assets/new.png)  
-- [2021-04-15-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-15-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-15-Xcode-编译疾如风系列（一）：分析编译耗时](https://toutiao.io/k/g0rfr5w) ![](assets/new.png)  
+- [2021-04-15-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
+- [2021-04-15-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

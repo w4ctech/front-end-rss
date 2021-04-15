@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-04-15 01:44:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 01:54:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-15-对应届生来说客户端开发真的是劝退吗](https://www.v2ex.com/t/770757) 
+- [2021-04-15-终于下定决心买了正版-jetbrains-全家桶一年授权](https://www.v2ex.com/t/770756) 
+- [2021-04-15-Google-放出-Chrome-90-版本了](https://www.v2ex.com/t/770755) 
 - [2021-04-15-宁芝-NIZ-静电容键盘-66-还是-68-键？](https://www.v2ex.com/t/770753) 
 - [2021-04-15-不懂就问：如何正确设计一个订单号？](https://www.v2ex.com/t/770751) 
 - [2021-04-15-这两个源码那个比较好？](https://www.v2ex.com/t/770749) 
@@ -40,6 +43,3 @@
 - [2021-04-14-系统二次验证大佬们有什么解决方案吗?](https://www.v2ex.com/t/770710) 
 - [2021-04-14-有什么方法可以取消在-Windows-里面-ctrl+鼠标滚轮-缩放的功能？](https://www.v2ex.com/t/770709) 
 - [2021-04-14-上海-SAP-Labs-招聘-SRE-工程师-Site-Reliability-Engineer](https://www.v2ex.com/t/770708) 
-- [2021-04-14-咨询下各位老乡，中原消费金融这家公司怎么样？消费金融行业前景如何？](https://www.v2ex.com/t/770707) 
-- [2021-04-14-麻了，-gdb-远程调试连不上](https://www.v2ex.com/t/770705) 
-- [2021-04-14-数据库表设计是否需要在字段前标注字段的所属对象，比如用户表的名字是-user_name,学校表的名字字段是-school_name](https://www.v2ex.com/t/770704) 

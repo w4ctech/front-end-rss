@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-15 10:52:08，:rocket: 更新条数: +4236， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-15 11:02:53，:rocket: 更新条数: +4234， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,11 +65,9 @@
 </summary>
 
 
-- [2021-04-15-4月14日全国新增新冠10例-均由境外输入](https://m.caixin.com/m/2021-04-15/101691329.html) ![](assets/new.png)  
 - [2021-04-15-【境内疫情观察】全国新增10例境外输入病例（4月14日）](http://m.database.caixin.com/m/2021-04-15/101691588.html) ![](assets/new.png)  
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
 - [2021-04-14-云南瑞丽4月13日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-14/101690804.html) ![](assets/new.png)  
-- [2021-04-14-最新海外疫情：新冠感染超1.37亿-累计死亡超295万](https://m.caixin.com/m/2021-04-14/101691179.html) ![](assets/new.png)  
 - [2021-04-14-【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html) ![](assets/new.png)  
 - [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
 - [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
@@ -85,6 +83,8 @@
 - [2021-04-11-研究揭阿斯利康疫苗接种后血栓机制-辉瑞申请扩大疫苗适用范围｜大流行手记（4月10日）](https://m.caixin.com/m/2021-04-11/101688624.html) ![](assets/new.png)  
 - [2021-04-10-【境内疫情观察】全国新增14例境外输入病例（4月9日）](http://m.database.caixin.com/m/2021-04-10/101688525.html) ![](assets/new.png)  
 - [2021-04-10-谭德塞称疫苗分配不均令人震惊-巴西单日死亡又破4000|大流行手记（4月9日）](https://m.caixin.com/m/2021-04-10/101688391.html) ![](assets/new.png)  
+- [2021-04-09-云南瑞丽4月8日新增新冠确诊8例-现有确诊87例](https://m.caixin.com/m/2021-04-09/101687661.html) ![](assets/new.png)  
+- [2021-04-09-【境内疫情观察】云南新增8例本土病例（4月8日）](http://m.database.caixin.com/m/2021-04-09/101687884.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,11 @@
 </summary>
 
 
+- [2021-04-15-域名解析问题](https://www.v2ex.com/t/770923) ![](assets/new.png)  
+- [2021-04-15-近期-1.2.4.8-DNS-出现大规模的-DNS-无响应](https://www.v2ex.com/t/770922) ![](assets/new.png)  
+- [2021-04-15-手机收不到验证码是怎么回事？](https://www.v2ex.com/t/770921) ![](assets/new.png)  
+- [2021-04-15-V-站已经彻底被墙了是么?](https://www.v2ex.com/t/770920) ![](assets/new.png)  
+- [2021-04-15-有数据库建模和实际数据库同步的-数据库建模工具吗](https://www.v2ex.com/t/770919) ![](assets/new.png)  
 - [2021-04-15-golang-plugin-mac-平台下交叉编译-生成-.so-文件-报错](https://www.v2ex.com/t/770918) ![](assets/new.png)  
 - [2021-04-15-上海/北京-Android-客户端-字节跳动抖音商业化直推](https://www.v2ex.com/t/770916) ![](assets/new.png)  
 - [2021-04-15-广州附近离医院，学校近的，环境好的郊区房子请推荐](https://www.v2ex.com/t/770912) ![](assets/new.png)  
@@ -1011,11 +1016,6 @@
 - [2021-04-15-北京-MacOS-开发-全职或兼职外包均可（现场](https://www.v2ex.com/t/770897) ![](assets/new.png)  
 - [2021-04-15-最近总是被-google-阻断连接](https://www.v2ex.com/t/770896) ![](assets/new.png)  
 - [2021-04-15-《菜根谭》笔记+书评](https://www.v2ex.com/t/770895) ![](assets/new.png)  
-- [2021-04-15-日本工作-我们正筹备一家公司](https://www.v2ex.com/t/770894) ![](assets/new.png)  
-- [2021-04-15-genius.com-好长一段时间打不开了](https://www.v2ex.com/t/770893) ![](assets/new.png)  
-- [2021-04-15-火花思维内推](https://www.v2ex.com/t/770892) ![](assets/new.png)  
-- [2021-04-15-公司新出的绩效考核制度（含末尾淘汰），能签字吗？](https://www.v2ex.com/t/770890) ![](assets/new.png)  
-- [2021-04-15-上海-喜马拉雅-iOS-内推各级别-iOS-客户端](https://www.v2ex.com/t/770889) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,8 +1069,8 @@
 - [2021-04-15-一款轻阅读应用-ReadIT，记录我的-RN-躺坑之旅](https://toutiao.io/k/sr6qcwt) ![](assets/new.png)  
 - [2021-04-15-漫画：为什么祖传代码被称为-“屎山”？](https://toutiao.io/k/iiyx0qm) ![](assets/new.png)  
 - [2021-04-15-知乎的-Flink-数据集成平台建设实践](https://toutiao.io/k/cprz8fg) ![](assets/new.png)  
-- [2021-04-15-React-的操作系统梦，任重道远](https://toutiao.io/k/klg7vm5) ![](assets/new.png)  
 - [2021-04-15-蚂蚁是如何改进-k8s-集群敏感信息的安全防护的？](https://toutiao.io/k/w21yfcc) ![](assets/new.png)  
+- [2021-04-15-React-的操作系统梦，任重道远](https://toutiao.io/k/klg7vm5) ![](assets/new.png)  
 - [2021-04-15-AI-入行那些事儿（九）：人工智能对人类社会的影响](https://toutiao.io/k/s0673fu) ![](assets/new.png)  
 - [2021-04-15-升级库文件后如何查找需要重启的服务](https://toutiao.io/k/0msktdi) ![](assets/new.png)  
 - [2021-04-15-我为什么不选择去大厂？](https://toutiao.io/k/75hnmuz) ![](assets/new.png)  

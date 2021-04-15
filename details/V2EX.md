@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-15 14:37:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 14:50:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-15-新加坡-Shopee-直招-急，招后端开发工程师，包含-OpenResty,-eBPF,-DPDK,-Kubernetes-等不同方向](https://www.v2ex.com/t/770957) 
 - [2021-04-15-我的跨平台文档同步方案](https://www.v2ex.com/t/770955) 
 - [2021-04-15-有一个-offer，请大家帮忙看看](https://www.v2ex.com/t/770954) 
 - [2021-04-15-导航站我做了一个一键生成导航站的工具](https://www.v2ex.com/t/770953) 
@@ -41,4 +42,3 @@
 - [2021-04-15-mongodb-查询返回-value-而不是返回-key:value](https://www.v2ex.com/t/770910) 
 - [2021-04-15-大佬们帮忙看看这个电脑配置单还有啥改进么？](https://www.v2ex.com/t/770909) 
 - [2021-04-15-最近个人抽空写的一个网页版的-SSH-&-SFTP-服务器连接工具，欢迎大家提建议（目前内测中）](https://www.v2ex.com/t/770908) 
-- [2021-04-15-诚心请教各位同学/前辈，面试被问到-JVM-调优经验和慢查询-SQL-优化时，怎么更好的回答](https://www.v2ex.com/t/770906) 

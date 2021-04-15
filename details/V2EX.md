@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-04-15 08:03:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 08:24:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-15-想入手苹果-xr，不知道续航如何？](https://www.v2ex.com/t/770880) 
+- [2021-04-15-遇到了一个奇葩面试官......](https://www.v2ex.com/t/770879) 
+- [2021-04-15-图查询语言的历史回顾短文](https://www.v2ex.com/t/770878) 
 - [2021-04-15-QQ-令-cpu-温度升高](https://www.v2ex.com/t/770877) 
 - [2021-04-15-go-如何动态连接多个数据库](https://www.v2ex.com/t/770874) 
 - [2021-04-15-为啥没有开车-google-play-的](https://www.v2ex.com/t/770873) 
@@ -40,7 +43,3 @@
 - [2021-04-15-请教-intellij-idea-集成-Kaleidoscope-时，参数咋写？](https://www.v2ex.com/t/770838) 
 - [2021-04-15-2021-年-4-月-15-号，以太坊显卡算力及回血排名](https://www.v2ex.com/t/770834) 
 - [2021-04-15-不懂就问，在-mysql-中关于-associative-entity（Credentials）报错应该怎么改？](https://www.v2ex.com/t/770833) 
-- [2021-04-15-站里有没有普通猿生活在枫叶国的？那边普通打工人的生活到底怎么样？](https://www.v2ex.com/t/770831) 
-- [2021-04-15-北京-Nolibox-智能设计-清北校友初创团队招聘「前后端工程师-|-Golang-|-React」](https://www.v2ex.com/t/770830) 
-- [2021-04-15-遇到这样的花小猪司机-你们怎么处理](https://www.v2ex.com/t/770829) 
-- [2021-04-15-显卡为啥卖疯了？因为加密币吗？](https://www.v2ex.com/t/770828) 

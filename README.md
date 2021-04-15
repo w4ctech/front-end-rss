@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-15 08:03:05，:rocket: 更新条数: +4239， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-15 08:24:10，:rocket: 更新条数: +4238， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-15-想入手苹果-xr，不知道续航如何？](https://www.v2ex.com/t/770880) ![](assets/new.png)  
+- [2021-04-15-遇到了一个奇葩面试官......](https://www.v2ex.com/t/770879) ![](assets/new.png)  
+- [2021-04-15-图查询语言的历史回顾短文](https://www.v2ex.com/t/770878) ![](assets/new.png)  
 - [2021-04-15-QQ-令-cpu-温度升高](https://www.v2ex.com/t/770877) ![](assets/new.png)  
 - [2021-04-15-go-如何动态连接多个数据库](https://www.v2ex.com/t/770874) ![](assets/new.png)  
 - [2021-04-15-为啥没有开车-google-play-的](https://www.v2ex.com/t/770873) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-15-小帮规划，-B+轮公司，需要你这个前后端中生代/前端新人](https://www.v2ex.com/t/770860) ![](assets/new.png)  
 - [2021-04-15-全国省市区街道区域信息-API-接口](https://www.v2ex.com/t/770859) ![](assets/new.png)  
 - [2021-04-15-最新-eBay-亿贝上海研发中心张江科苑路-88-号大量招人-非-996-有股票-欢迎邮件来咨询](https://www.v2ex.com/t/770858) ![](assets/new.png)  
-- [2021-04-15-一起来从-0-到-1-开发可视化搭建项目吧！](https://www.v2ex.com/t/770857) ![](assets/new.png)  
-- [2021-04-15-你的-Apple-ID-有没有设为-iCloud.com-或者-me.com-的邮箱？有啥优缺点？](https://www.v2ex.com/t/770856) ![](assets/new.png)  
-- [2021-04-15-京东零售/技术与数据中心北京北辰算法/机器学习工程实习生](https://www.v2ex.com/t/770853) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,8 +1064,8 @@
 - [2021-04-15-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
 - [2021-04-15-ElasticSearch-如何使用-ik-进行中文分词？](https://toutiao.io/k/ehhe1vm) ![](assets/new.png)  
 - [2021-04-15-软件配置管理实践：基于-Ansible-和-Nacos](https://toutiao.io/k/mo14ttn) ![](assets/new.png)  
-- [2021-04-15-一款轻阅读应用-ReadIT，记录我的-RN-躺坑之旅](https://toutiao.io/k/sr6qcwt) ![](assets/new.png)  
 - [2021-04-15-清理-Spring-Boot-应用无用的-metrics-指标](https://toutiao.io/k/e1gd9kq) ![](assets/new.png)  
+- [2021-04-15-一款轻阅读应用-ReadIT，记录我的-RN-躺坑之旅](https://toutiao.io/k/sr6qcwt) ![](assets/new.png)  
 - [2021-04-15-代码覆盖率统计在京东主-App-的接入探索](https://toutiao.io/k/id9hj5d) ![](assets/new.png)  
 - [2021-04-15-漫画：为什么祖传代码被称为-“屎山”？](https://toutiao.io/k/iiyx0qm) ![](assets/new.png)  
 - [2021-04-15-知乎的-Flink-数据集成平台建设实践](https://toutiao.io/k/cprz8fg) ![](assets/new.png)  

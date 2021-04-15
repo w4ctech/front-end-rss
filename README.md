@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-15 02:19:59，:rocket: 更新条数: +4232， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-15 02:29:36，:rocket: 更新条数: +4230， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,11 @@
 </summary>
 
 
+- [2021-04-15-V-站是被墙了吗？](https://www.v2ex.com/t/770772) ![](assets/new.png)  
+- [2021-04-15-办公室有人抽电子烟，我买了-3-个-usb-风扇对着他吹](https://www.v2ex.com/t/770769) ![](assets/new.png)  
+- [2021-04-15-支持-M1-芯片的-Parallels-Desktop-16.5-前来报到](https://www.v2ex.com/t/770768) ![](assets/new.png)  
+- [2021-04-15-不谈薪直接给顶包，大厂现在这么壕吗？](https://www.v2ex.com/t/770767) ![](assets/new.png)  
+- [2021-04-15-flag-回收密码学分组密码的工作模式](https://www.v2ex.com/t/770766) ![](assets/new.png)  
 - [2021-04-15-jboss，-JavaEE-这套东西还有人用吗，值得投入太多精力下去吗](https://www.v2ex.com/t/770763) ![](assets/new.png)  
 - [2021-04-15-IDEA-可以设置对某个单词高亮嘛](https://www.v2ex.com/t/770761) ![](assets/new.png)  
 - [2021-04-15-分享自己的倒霉事。](https://www.v2ex.com/t/770760) ![](assets/new.png)  
@@ -1011,11 +1016,6 @@
 - [2021-04-15-3080-现在能卖多少钱？](https://www.v2ex.com/t/770746) ![](assets/new.png)  
 - [2021-04-15-间隙锁的危害场景](https://www.v2ex.com/t/770745) ![](assets/new.png)  
 - [2021-04-15-请求接口需要隐藏吗？如果接口只供网页端使用，这种接口需要隐藏以阻止其他方式进行访问吗？](https://www.v2ex.com/t/770744) ![](assets/new.png)  
-- [2021-04-15-12-mini-的屏幕是真的瞎眼](https://www.v2ex.com/t/770743) ![](assets/new.png)  
-- [2021-04-15-Google-搜索这是发生甚么事了?](https://www.v2ex.com/t/770742) ![](assets/new.png)  
-- [2021-04-14-如何避免尝试？](https://www.v2ex.com/t/770738) ![](assets/new.png)  
-- [2021-04-14-下周五-lastday.-还有三天年假未休.-还被安排紧急工作.从昨天通宵到现在.](https://www.v2ex.com/t/770737) ![](assets/new.png)  
-- [2021-04-14-在非-main-分支上使用-continuous-deployment，真的好吗？](https://www.v2ex.com/t/770736) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1061,23 +1061,23 @@
 - [2021-04-15-数据调度组件：基于-Azkaban-协调时序任务执行](https://toutiao.io/k/a7u76ek) ![](assets/new.png)  
 - [2021-04-15-Redis-入门：Redis-概念和基础](https://toutiao.io/k/47fg3nq) ![](assets/new.png)  
 - [2021-04-15-详解-Go-程序的启动流程，你知道-g0，m0-是什么吗？](https://toutiao.io/k/twm9mo2) ![](assets/new.png)  
-- [2021-04-15-软件配置管理实践：基于-Ansible-和-Nacos](https://toutiao.io/k/mo14ttn) ![](assets/new.png)  
 - [2021-04-15-ElasticSearch-如何使用-ik-进行中文分词？](https://toutiao.io/k/ehhe1vm) ![](assets/new.png)  
+- [2021-04-15-软件配置管理实践：基于-Ansible-和-Nacos](https://toutiao.io/k/mo14ttn) ![](assets/new.png)  
 - [2021-04-15-一款轻阅读应用-ReadIT，记录我的-RN-躺坑之旅](https://toutiao.io/k/sr6qcwt) ![](assets/new.png)  
 - [2021-04-15-漫画：为什么祖传代码被称为-“屎山”？](https://toutiao.io/k/iiyx0qm) ![](assets/new.png)  
-- [2021-04-15-清理-Spring-Boot-应用无用的-metrics-指标](https://toutiao.io/k/e1gd9kq) ![](assets/new.png)  
 - [2021-04-15-代码覆盖率统计在京东主-APP-的接入探索](https://toutiao.io/k/id9hj5d) ![](assets/new.png)  
+- [2021-04-15-清理-Spring-Boot-应用无用的-metrics-指标](https://toutiao.io/k/e1gd9kq) ![](assets/new.png)  
 - [2021-04-15-React-的操作系统梦，任重道远](https://toutiao.io/k/klg7vm5) ![](assets/new.png)  
 - [2021-04-15-不可不知的-Jupyter-Notebook-使用技巧](https://toutiao.io/k/up6v09r) ![](assets/new.png)  
 - [2021-04-15-蚂蚁是如何改进-k8s-集群敏感信息的安全防护的？](https://toutiao.io/k/w21yfcc) ![](assets/new.png)  
 - [2021-04-15-知乎的-Flink-数据集成平台建设实践](https://toutiao.io/k/cprz8fg) ![](assets/new.png)  
 - [2021-04-15-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
 - [2021-04-15-升级库文件后如何查找需要重启的服务](https://toutiao.io/k/0msktdi) ![](assets/new.png)  
-- [2021-04-15-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-15-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-15-推荐-译-Uber：面向领域的微服务架构](https://toutiao.io/k/0yy2iga) ![](assets/new.png)  
-- [2021-04-15-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
-- [2021-04-15-推荐-GitHub-加速指南进阶版](https://toutiao.io/k/ygnbct1) ![](assets/new.png)  
+- [2021-04-15-推荐-图文详解-Java-对象内存布局](https://toutiao.io/k/romtfff) ![](assets/new.png)  
+- [2021-04-15-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-15-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-15-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-15-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-15 14:23:58，:rocket: 更新条数: +4237， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-15 14:37:11，:rocket: 更新条数: +4238， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-15-我的跨平台文档同步方案](https://www.v2ex.com/t/770955) ![](assets/new.png)  
 - [2021-04-15-有一个-offer，请大家帮忙看看](https://www.v2ex.com/t/770954) ![](assets/new.png)  
 - [2021-04-15-导航站我做了一个一键生成导航站的工具](https://www.v2ex.com/t/770953) ![](assets/new.png)  
 - [2021-04-15-有没有-V-友-switch-交流群](https://www.v2ex.com/t/770952) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-15-右手网原创视频一加-9-Pro-与小米-11-Ultra-影像实力拍照样张对比评测：当哈苏色彩遇上了-GN2-大底](https://www.v2ex.com/t/770935) ![](assets/new.png)  
 - [2021-04-15-求助，-win10-IDEA-启动-springboot-项目非常慢](https://www.v2ex.com/t/770933) ![](assets/new.png)  
 - [2021-04-15-深圳/腾讯微信支付信贷产品招后台开发](https://www.v2ex.com/t/770932) ![](assets/new.png)  
-- [2021-04-15-骑行-app-或者骑行社区推荐](https://www.v2ex.com/t/770931) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1059,8 +1059,8 @@
 
 
 - [2021-04-15-Redis-入门：Redis-概念和基础](https://toutiao.io/k/47fg3nq) ![](assets/new.png)  
-- [2021-04-15-数据调度组件：基于-Azkaban-协调时序任务执行](https://toutiao.io/k/a7u76ek) ![](assets/new.png)  
 - [2021-04-15-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-15-数据调度组件：基于-Azkaban-协调时序任务执行](https://toutiao.io/k/a7u76ek) ![](assets/new.png)  
 - [2021-04-15-详解-Go-程序的启动流程，你知道-g0，m0-是什么吗？](https://toutiao.io/k/twm9mo2) ![](assets/new.png)  
 - [2021-04-15-ElasticSearch-如何使用-ik-进行中文分词？](https://toutiao.io/k/ehhe1vm) ![](assets/new.png)  
 - [2021-04-15-软件配置管理实践：基于-Ansible-和-Nacos](https://toutiao.io/k/mo14ttn) ![](assets/new.png)  
@@ -1070,8 +1070,8 @@
 - [2021-04-15-漫画：为什么祖传代码被称为-“屎山”？](https://toutiao.io/k/iiyx0qm) ![](assets/new.png)  
 - [2021-04-15-知乎的-Flink-数据集成平台建设实践](https://toutiao.io/k/cprz8fg) ![](assets/new.png)  
 - [2021-04-15-蚂蚁是如何改进-k8s-集群敏感信息的安全防护的？](https://toutiao.io/k/w21yfcc) ![](assets/new.png)  
-- [2021-04-15-React-的操作系统梦，任重道远](https://toutiao.io/k/klg7vm5) ![](assets/new.png)  
 - [2021-04-15-不会持续集成和持续部署？今天带你玩转-CI/CD](https://toutiao.io/k/akhoseo) ![](assets/new.png)  
+- [2021-04-15-React-的操作系统梦，任重道远](https://toutiao.io/k/klg7vm5) ![](assets/new.png)  
 - [2021-04-15-万字详文阐释程序员修炼之道](https://toutiao.io/k/0ki4v7l) ![](assets/new.png)  
 - [2021-04-15-AI-入行那些事儿（九）：人工智能对人类社会的影响](https://toutiao.io/k/s0673fu) ![](assets/new.png)  
 - [2021-04-15-我为什么不选择去大厂？](https://toutiao.io/k/75hnmuz) ![](assets/new.png)  

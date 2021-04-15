@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-15 16:46:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 17:08:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -44,4 +44,3 @@
 - [2021-04-15-有必要关闭-spotlight-吗?](https://www.v2ex.com/t/770925) 
 - [2021-04-15-域名解析问题](https://www.v2ex.com/t/770923) 
 - [2021-04-15-近期-1.2.4.8-DNS-出现大规模的-DNS-无响应](https://www.v2ex.com/t/770922) 
-- [2021-04-15-手机收不到验证码是怎么回事？](https://www.v2ex.com/t/770921) 

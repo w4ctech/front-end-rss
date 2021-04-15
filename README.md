@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-15 04:03:27，:rocket: 更新条数: +4233， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-15 04:24:20，:rocket: 更新条数: +4233， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-15-AdGuard-永久激活码车位还剩两个-20-元](https://www.v2ex.com/t/770814) ![](assets/new.png)  
+- [2021-04-15-可能是上海比较靠谱的-NLP-方向-AI-公司](https://www.v2ex.com/t/770813) ![](assets/new.png)  
+- [2021-04-15-编译原理算不算计算机最没有功利价值的一门专业必修课？](https://www.v2ex.com/t/770810) ![](assets/new.png)  
 - [2021-04-15-离职一年后，收到了上家公司的-annual-bonus！](https://www.v2ex.com/t/770809) ![](assets/new.png)  
 - [2021-04-15-莫名其妙收到一笔社保的报销，如何查报销原因？](https://www.v2ex.com/t/770808) ![](assets/new.png)  
 - [2021-04-15-请教一下论坛里的前端程序员，有没有方便排版的-CSS-框架推荐一下？](https://www.v2ex.com/t/770807) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-15-Foxmail-邮箱拖拽保存附件、右键另存附件的-MD5-不一致](https://www.v2ex.com/t/770793) ![](assets/new.png)  
 - [2021-04-15-nestjs-的开发速度相比-koa/egg-之流如何？](https://www.v2ex.com/t/770792) ![](assets/new.png)  
 - [2021-04-15-写了十年程序，钱也没赚到多少，现在也没稳定工作](https://www.v2ex.com/t/770791) ![](assets/new.png)  
-- [2021-04-15-M1-上微信-Mac-版本内存占用要上天了](https://www.v2ex.com/t/770790) ![](assets/new.png)  
-- [2021-04-15-云盘代下服务能做吗?](https://www.v2ex.com/t/770789) ![](assets/new.png)  
-- [2021-04-15-因为把公司-Mysql-一堆带-null-字段优化非空带默认值被骂](https://www.v2ex.com/t/770788) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1062,9 +1062,9 @@
 - [2021-04-15-数据调度组件：基于-Azkaban-协调时序任务执行](https://toutiao.io/k/a7u76ek) ![](assets/new.png)  
 - [2021-04-15-详解-Go-程序的启动流程，你知道-g0，m0-是什么吗？](https://toutiao.io/k/twm9mo2) ![](assets/new.png)  
 - [2021-04-15-ElasticSearch-如何使用-ik-进行中文分词？](https://toutiao.io/k/ehhe1vm) ![](assets/new.png)  
-- [2021-04-15-一款轻阅读应用-ReadIT，记录我的-RN-躺坑之旅](https://toutiao.io/k/sr6qcwt) ![](assets/new.png)  
-- [2021-04-15-软件配置管理实践：基于-Ansible-和-Nacos](https://toutiao.io/k/mo14ttn) ![](assets/new.png)  
 - [2021-04-15-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-15-软件配置管理实践：基于-Ansible-和-Nacos](https://toutiao.io/k/mo14ttn) ![](assets/new.png)  
+- [2021-04-15-一款轻阅读应用-ReadIT，记录我的-RN-躺坑之旅](https://toutiao.io/k/sr6qcwt) ![](assets/new.png)  
 - [2021-04-15-漫画：为什么祖传代码被称为-“屎山”？](https://toutiao.io/k/iiyx0qm) ![](assets/new.png)  
 - [2021-04-15-清理-Spring-Boot-应用无用的-metrics-指标](https://toutiao.io/k/e1gd9kq) ![](assets/new.png)  
 - [2021-04-15-代码覆盖率统计在京东主-App-的接入探索](https://toutiao.io/k/id9hj5d) ![](assets/new.png)  
@@ -1076,8 +1076,8 @@
 - [2021-04-15-升级库文件后如何查找需要重启的服务](https://toutiao.io/k/0msktdi) ![](assets/new.png)  
 - [2021-04-15-我为什么不选择去大厂？](https://toutiao.io/k/75hnmuz) ![](assets/new.png)  
 - [2021-04-15-Xcode-编译疾如风系列（一）：分析编译耗时](https://toutiao.io/k/g0rfr5w) ![](assets/new.png)  
-- [2021-04-15-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
-- [2021-04-15-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-15-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
+- [2021-04-15-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-15 05:51:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 06:03:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-15-新店开业-给-V-友准备了-NUC11-福利!](https://www.v2ex.com/t/770836) 
+- [2021-04-15-2021-年-4-月-15-号，以太坊显卡算力及回血排名](https://www.v2ex.com/t/770834) 
 - [2021-04-15-不懂就问，在-mysql-中关于-associative-entity（Credentials）报错应该怎么改？](https://www.v2ex.com/t/770833) 
 - [2021-04-15-后悔当初没多收两张-474](https://www.v2ex.com/t/770832) 
 - [2021-04-15-站里有没有普通猿生活在枫叶国的？那边普通打工人的生活到底怎么样？](https://www.v2ex.com/t/770831) 
@@ -42,5 +44,3 @@
 - [2021-04-15-云盘代下服务能做吗?](https://www.v2ex.com/t/770789) 
 - [2021-04-15-因为把公司-Mysql-一堆带-null-字段优化非空带默认值被骂](https://www.v2ex.com/t/770788) 
 - [2021-04-15-网易游戏-暑期实习内推，只剩最后一天，内推码-rgutHZ](https://www.v2ex.com/t/770787) 
-- [2021-04-15-mac-vs-code-图标花了，有知道咋解决吗？](https://www.v2ex.com/t/770786) 
-- [2021-04-15-Hangouts-环聊不能用了吗？发不出消息](https://www.v2ex.com/t/770784) 

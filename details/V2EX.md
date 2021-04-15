@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-15 22:24:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 22:39:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -44,4 +44,3 @@
 - [2021-04-15-求助，-win10-IDEA-启动-springboot-项目非常慢](https://www.v2ex.com/t/770933) 
 - [2021-04-15-深圳/腾讯微信支付信贷产品招后台开发](https://www.v2ex.com/t/770932) 
 - [2021-04-15-骑行-app-或者骑行社区推荐](https://www.v2ex.com/t/770931) 
-- [2021-04-15-18-MacBookPro,-蓝牙同时连接-耳机和-hhkb,则音频和键盘动不动就有延迟,求破](https://www.v2ex.com/t/770930) 

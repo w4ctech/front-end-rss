@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-15 02:59:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 03:07:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-15-Hangouts-环聊不能用了吗？发不出消息](https://www.v2ex.com/t/770784) 
 - [2021-04-15-几年前涉及-dubo-游戏,2020-年被-jc-调查,我该怎么办?](https://www.v2ex.com/t/770782) 
 - [2021-04-15-当有一个-PR-被-merged-到-A-git-repo-后，如何触发-B-git-repo-的-build，等等？](https://www.v2ex.com/t/770781) 
 - [2021-04-15-坐标上海，想买-20w-25w-左右的车，怎么选择？](https://www.v2ex.com/t/770780) 
@@ -36,5 +37,3 @@
 - [2021-04-14-如何避免尝试？](https://www.v2ex.com/t/770738) 
 - [2021-04-14-下周五-lastday.-还有三天年假未休.-还被安排紧急工作.从昨天通宵到现在.](https://www.v2ex.com/t/770737) 
 - [2021-04-14-在非-main-分支上使用-continuous-deployment，真的好吗？](https://www.v2ex.com/t/770736) 
-- [2021-04-14-独角数卡怎么对接-YunGouOS-的-API-呀，直接用支付宝的行吗？](https://www.v2ex.com/t/770735) 
-- [2021-04-14-我有一个问题。芯片制造商为什么不自己挖矿？](https://www.v2ex.com/t/770734) 

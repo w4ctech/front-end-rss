@@ -20380,6 +20380,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "应该什么时候回国呢？",
+        "link": "https://www.v2ex.com/t/770970",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "macbook 13 寸（M1 芯片）8G 内存，打开三个 idea 开发 Java 项目， idea 频繁无响应，然后 idea 就直接没了！何解？",
+        "link": "https://www.v2ex.com/t/770969",
+        "date": "2021-04-15"
+      },
+      {
         "title": "请教一下大佬们，前端开发如何在某一技术细分领域成为专家",
         "link": "https://www.v2ex.com/t/770968",
         "date": "2021-04-15"
@@ -20567,11 +20577,6 @@
       {
         "title": "手机收不到验证码是怎么回事？",
         "link": "https://www.v2ex.com/t/770921",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "有数据库建模和实际数据库同步的 数据库建模工具吗",
-        "link": "https://www.v2ex.com/t/770919",
         "date": "2021-04-15"
       }
     ]
@@ -20789,63 +20794,8 @@
         "date": "2021-04-15"
       },
       {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] Go 应用优化指北",
-        "link": "https://toutiao.io/k/6jo6q1t",
-        "date": "2021-04-15"
-      },
-      {
         "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
         "link": "https://toutiao.io/k/hti1ill",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] [译] Uber：面向领域的微服务架构",
-        "link": "https://toutiao.io/k/0yy2iga",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
         "date": "2021-04-15"
       },
       {
@@ -20854,8 +20804,63 @@
         "date": "2021-04-15"
       },
       {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] Go 应用优化指北",
+        "link": "https://toutiao.io/k/6jo6q1t",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-15"
+      },
+      {
         "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
         "link": "https://toutiao.io/k/iyge3cy",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] [译] Uber：面向领域的微服务架构",
+        "link": "https://toutiao.io/k/0yy2iga",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
         "date": "2021-04-15"
       }
     ]

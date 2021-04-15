@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-15 13:09:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 13:24:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -42,7 +42,6 @@
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2021-04-11-JS-语法-ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/d9b63b1a413fbf70acfd83874e26a0a3) 
-- [2021-04-08-字节跳动最爱考的前端面试题：JavaScript-基础](https://www.ershicimi.com/p/ff23a154f7f91e60a473d165fb55fa31) 
 - [2021-04-12-为什么要用-setTimeout-模拟-setInterval-？](https://www.ershicimi.com/p/c123953f8b7a1d8d0c6af0d2c96175d0) 
 - [2021-04-09-JS语法-ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/7bc5bc2494e47f96b7569516f6ae76a6) 
 - [2021-04-07-JavaScript-代码整洁之道](https://www.ershicimi.com/p/3a822a7f735e67905cb17475979cdfec) 

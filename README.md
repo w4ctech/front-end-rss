@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-15 15:03:18，:rocket: 更新条数: +4238， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-15 15:24:06，:rocket: 更新条数: +4237， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-15-miui-老用户回归，有什么常识是我需要恶补的么](https://www.v2ex.com/t/770959) ![](assets/new.png)  
 - [2021-04-15-Apple-Watch-表带选择](https://www.v2ex.com/t/770958) ![](assets/new.png)  
 - [2021-04-15-新加坡-Shopee-直招-急，招后端开发工程师，包含-OpenResty,-eBPF,-DPDK,-Kubernetes-等不同方向](https://www.v2ex.com/t/770957) ![](assets/new.png)  
 - [2021-04-15-我的跨平台文档同步方案](https://www.v2ex.com/t/770955) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-15-购买-7-天的-16g-M1-读写量是否正常](https://www.v2ex.com/t/770938) ![](assets/new.png)  
 - [2021-04-15-C#的-ProcessStartInfo-执行命令行指令，可以怎么打印出实际的执行语句吗](https://www.v2ex.com/t/770937) ![](assets/new.png)  
 - [2021-04-15-转载-龙芯发布完全自主指令集架构-LoongArch](https://www.v2ex.com/t/770936) ![](assets/new.png)  
-- [2021-04-15-右手网原创视频一加-9-Pro-与小米-11-Ultra-影像实力拍照样张对比评测：当哈苏色彩遇上了-GN2-大底](https://www.v2ex.com/t/770935) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

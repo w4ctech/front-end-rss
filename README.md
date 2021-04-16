@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 12:57:42，:rocket: 更新条数: +4236， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 13:10:12，:rocket: 更新条数: +4235， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-16-Shopee-内推-新加坡、深圳、上海，新增北京办公室！-专场招聘会一天搞定面试！](https://www.v2ex.com/t/771176) ![](assets/new.png)  
 - [2021-04-16-PlatformIO-目前只是玩具，单片机开发还得用-Keil](https://www.v2ex.com/t/771173) ![](assets/new.png)  
 - [2021-04-16-上海/北京/杭州/武汉社招/校招/实习四月冲鸭，进面有红包抖音电商后端开发工程师](https://www.v2ex.com/t/771172) ![](assets/new.png)  
 - [2021-04-16-Android-应用程序如何缩小体积？](https://www.v2ex.com/t/771170) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-16-请教-springboot-starter-中如何提供一个扩展点可以让使用方扩展功能？](https://www.v2ex.com/t/771146) ![](assets/new.png)  
 - [2021-04-16-北京-快手-安全/开发招聘](https://www.v2ex.com/t/771145) ![](assets/new.png)  
 - [2021-04-16-iOS-14.5-在-iPhone-7-上真流畅-dev-版](https://www.v2ex.com/t/771144) ![](assets/new.png)  
-- [2021-04-16-失眠，一趟床上各种思绪跑出来。](https://www.v2ex.com/t/771143) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,8 +1065,8 @@
 - [2021-04-16-MySQL-提升笔记（一）：MySQL-逻辑架构](https://toutiao.io/k/n0xgxs1) ![](assets/new.png)  
 - [2021-04-16-Go-可用性（五）：自适应限流](https://toutiao.io/k/8rglg7c) ![](assets/new.png)  
 - [2021-04-16-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
-- [2021-04-16-Kubernetes-部署利器-Helm-快速入门](https://toutiao.io/k/00axfg8) ![](assets/new.png)  
 - [2021-04-16-Go-语言内部包：控制包成员的对外暴露](https://toutiao.io/k/0clcea6) ![](assets/new.png)  
+- [2021-04-16-Kubernetes-部署利器-Helm-快速入门](https://toutiao.io/k/00axfg8) ![](assets/new.png)  
 - [2021-04-16-低开销获取时间戳](https://toutiao.io/k/5a4o9sd) ![](assets/new.png)  
 - [2021-04-16-ConcurrentHashMap-有十个提升性能的地方，你都知道吗？](https://toutiao.io/k/yjh1gaw) ![](assets/new.png)  
 - [2021-04-16-强大的-Guava-工具类](https://toutiao.io/k/2bkoq2d) ![](assets/new.png)  

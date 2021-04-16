@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 03:09:48，:rocket: 更新条数: +4235， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 03:24:31，:rocket: 更新条数: +4235， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,8 @@
 </summary>
 
 
+- [2021-04-15-北京｜无新增](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPnUmNbEgHdWJ5XA1lDTx210416&isfromapp=1) ![](assets/new.png)  
+- [2021-04-15-云南｜新增-1-例确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwGhVvviAYEojEtugXaV210416&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +996,13 @@
 </summary>
 
 
+- [2021-04-16-有在-Apple-中国上班的程序员/技术人员么，进来交流下？](https://www.v2ex.com/t/771047) ![](assets/new.png)  
+- [2021-04-16-几块钱一个月的机场会比免费机场好吗？](https://www.v2ex.com/t/771046) ![](assets/new.png)  
+- [2021-04-16-美团外卖是不是炸了](https://www.v2ex.com/t/771045) ![](assets/new.png)  
+- [2021-04-16-在创业公司混中层好难熬。。。](https://www.v2ex.com/t/771044) ![](assets/new.png)  
+- [2021-04-16-美团崩了吗？？下不了单了](https://www.v2ex.com/t/771043) ![](assets/new.png)  
+- [2021-04-16-六字真言单词](https://www.v2ex.com/t/771041) ![](assets/new.png)  
+- [2021-04-16-Watch-端的微信突然不能脱离手机独立使用](https://www.v2ex.com/t/771039) ![](assets/new.png)  
 - [2021-04-16-钱存在支_付宝（网商银行）和传统银行哪个更安全？](https://www.v2ex.com/t/771035) ![](assets/new.png)  
 - [2021-04-16-在-OC-的单例类中，你会用静态方法还是实例方法还是-C-type-的方法？](https://www.v2ex.com/t/771031) ![](assets/new.png)  
 - [2021-04-16-Hugo-如何自建评论服务器？](https://www.v2ex.com/t/771030) ![](assets/new.png)  
@@ -1007,13 +1016,6 @@
 - [2021-04-16-直接访问网站打不开，我竟然是特殊方式访问的。](https://www.v2ex.com/t/771021) ![](assets/new.png)  
 - [2021-04-16-其它语言有类似-mybatis-那种-mapper-的库](https://www.v2ex.com/t/771019) ![](assets/new.png)  
 - [2021-04-16-Seamless-网页版上线，送码活动开启](https://www.v2ex.com/t/771018) ![](assets/new.png)  
-- [2021-04-16-在-SVG-中可以运行-Javascript-代码，那可不可以在-SVG-中调用-webgl-和-shader-进行渲染？不引用外部文件那种。如果可以的话，求给个参考的例子。](https://www.v2ex.com/t/771017) ![](assets/new.png)  
-- [2021-04-16-「互联网迷惑行为大赏」魅族真的开始卖-iPhone-了](https://www.v2ex.com/t/771016) ![](assets/new.png)  
-- [2021-04-16-开源中国——《开源项目用英文标识符就能招徕国外用户吗？》](https://www.v2ex.com/t/771015) ![](assets/new.png)  
-- [2021-04-16-字节再招-10000-人，看到招聘要求我傻了...](https://www.v2ex.com/t/771014) ![](assets/new.png)  
-- [2021-04-16-V2-的老师们，谁会-Jump-Desktop-这个远程软件，可付费指导](https://www.v2ex.com/t/771013) ![](assets/new.png)  
-- [2021-04-16-杭州内推社招-前端开发、-Java-开发都需要，快来人！](https://www.v2ex.com/t/771012) ![](assets/new.png)  
-- [2021-04-16-求解决办法每次使用-nvm-切换-node-版本后都需要重新处理-npm-yarn-找不到的问题？](https://www.v2ex.com/t/771011) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,14 +1070,14 @@
 - [2021-04-16-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
 - [2021-04-16-Spark-推荐实战系列之-Swing-算法介绍、实现与在阿里飞猪的实战应用](https://toutiao.io/k/od4cvmz) ![](assets/new.png)  
 - [2021-04-16-Hexo-基于分类输出文章](https://toutiao.io/k/59ft88o) ![](assets/new.png)  
-- [2021-04-16-低开销获取时间戳](https://toutiao.io/k/5a4o9sd) ![](assets/new.png)  
 - [2021-04-16-你可能不知道的-ZooKeeper-知识点](https://toutiao.io/k/9rduy12) ![](assets/new.png)  
+- [2021-04-16-低开销获取时间戳](https://toutiao.io/k/5a4o9sd) ![](assets/new.png)  
 - [2021-04-16-ThreadPoolExecutor-线程池使用](https://toutiao.io/k/cbozvmj) ![](assets/new.png)  
 - [2021-04-16-强大的-Guava-工具类](https://toutiao.io/k/2bkoq2d) ![](assets/new.png)  
 - [2021-04-16-谷歌是如何做应急响应的](https://toutiao.io/k/nubisvh) ![](assets/new.png)  
 - [2021-04-16-洞察设计模式的底层逻辑](https://toutiao.io/k/ot335il) ![](assets/new.png)  
-- [2021-04-16-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-16-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-16-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-16-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

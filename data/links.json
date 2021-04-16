@@ -18660,6 +18660,21 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "深度解读便利蜂 React Native 多版本共存的平滑升级实践",
+        "link": "https://www.ershicimi.com/p/1b903e47c678e2fd22cf7e98177a2955",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "程序开发人员缺乏经验的7种表现",
+        "link": "https://www.ershicimi.com/p/975f71f5875c31fd8d60d861fd686ff2",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "Web 加速，协议先行！ | 极客时间",
+        "link": "https://www.ershicimi.com/p/3296c06efe76d7f7ec3690860aaf2f47",
+        "date": "2021-04-14"
+      },
+      {
         "title": "2021年，Flutter 与 React Native该如何选择？",
         "link": "https://www.ershicimi.com/p/34bb685a09420346000384454a71b0c1",
         "date": "2021-04-12"
@@ -18743,21 +18758,6 @@
         "title": "Deno 成立公司，获得 490 万美元种子资金",
         "link": "https://www.ershicimi.com/p/dbfd3ebecc480e00c7bf1cd8a42314ca",
         "date": "2021-03-31"
-      },
-      {
-        "title": "怎样写出可读性高的代码？",
-        "link": "https://www.ershicimi.com/p/1d572936e8d1a468486dd013e1b2db4a",
-        "date": "2021-03-31"
-      },
-      {
-        "title": "前端工程师，一定要懂哪些浏览器原理？ | 活动推荐",
-        "link": "https://www.ershicimi.com/p/bc317fcebdc5322bc77be7dc3e17f653",
-        "date": "2021-03-31"
-      },
-      {
-        "title": "一个前端智能化从业者眼中的低代码/无代码",
-        "link": "https://www.ershicimi.com/p/c50e383eeb4ce804057b3a3cb029851e",
-        "date": "2021-03-29"
       }
     ]
   },
@@ -19472,6 +19472,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 154 期）：1982年的信息社会预言",
+        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html",
+        "date": "2021-04-16"
+      },
+      {
         "title": "科技爱好者周刊（第 153 期）：机器翻译是对译者的侮辱吗？",
         "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html",
         "date": "2021-04-09"
@@ -19480,11 +19485,6 @@
         "title": "科技爱好者周刊（第 152 期）：从北大到技校",
         "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html",
         "date": "2021-04-02"
-      },
-      {
-        "title": "科技爱好者周刊（第 151 期）：NFT 是什么，听说能赚钱",
-        "link": "http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html",
-        "date": "2021-03-26"
       }
     ]
   },
@@ -20380,6 +20380,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Mac 在某次系统更新后无法识别 64gb 三星品牌外置 usb3.0u 盘",
+        "link": "https://www.v2ex.com/t/770985",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "论述题：为什么安卓手机越用越卡？",
+        "link": "https://www.v2ex.com/t/770984",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "发现 Win10/7 一个资深 bug， 0day bug?",
+        "link": "https://www.v2ex.com/t/770983",
+        "date": "2021-04-16"
+      },
+      {
         "title": "这个保险能买不？",
         "link": "https://www.v2ex.com/t/770982",
         "date": "2021-04-15"
@@ -20563,16 +20578,6 @@
         "title": "[转载] 龙芯发布完全自主指令集架构 LoongArch",
         "link": "https://www.v2ex.com/t/770936",
         "date": "2021-04-15"
-      },
-      {
-        "title": "[右手网原创视频]一加 9 Pro 与小米 11 Ultra 影像实力拍照样张对比评测：当哈苏色彩遇上了 GN2 大底",
-        "link": "https://www.v2ex.com/t/770935",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "求助， win10 IDEA 启动 springboot 项目非常慢",
-        "link": "https://www.v2ex.com/t/770933",
-        "date": "2021-04-15"
       }
     ]
   },
@@ -20694,8 +20699,13 @@
         "date": "2021-04-16"
       },
       {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
         "date": "2021-04-16"
       },
       {
@@ -20709,43 +20719,8 @@
         "date": "2021-04-16"
       },
       {
-        "title": "[推荐] [译] Uber：面向领域的微服务架构",
-        "link": "https://toutiao.io/k/0yy2iga",
-        "date": "2021-04-16"
-      },
-      {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-16"
-      },
-      {
-        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
-        "link": "https://toutiao.io/k/iyge3cy",
-        "date": "2021-04-16"
-      },
-      {
         "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
         "link": "https://toutiao.io/k/oa4amzb",
-        "date": "2021-04-16"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-16"
-      },
-      {
-        "title": "[推荐] Go 应用优化指北",
-        "link": "https://toutiao.io/k/6jo6q1t",
-        "date": "2021-04-16"
-      },
-      {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
-        "date": "2021-04-16"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
         "date": "2021-04-16"
       },
       {
@@ -20754,18 +20729,48 @@
         "date": "2021-04-16"
       },
       {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
-        "date": "2021-04-16"
-      },
-      {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
+        "title": "[推荐] Go 应用优化指北",
+        "link": "https://toutiao.io/k/6jo6q1t",
         "date": "2021-04-16"
       },
       {
         "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
         "link": "https://toutiao.io/k/hti1ill",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "[推荐] 史上最全教程：idea 将 Java 项目打包 Jar 包，并生成 exe 可执行文件",
+        "link": "https://toutiao.io/k/iyge3cy",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "[推荐] [译] Uber：面向领域的微服务架构",
+        "link": "https://toutiao.io/k/0yy2iga",
         "date": "2021-04-16"
       }
     ]
@@ -20775,6 +20780,56 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "永葆建党时中国共产党人的奋斗精神,永葆对人民的赤子之心",
+        "link": "https://sec.thief.one/article_content?a_id=ae81948b0da04a28459d56b12bea946c",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "20210415|漏洞处置情况",
+        "link": "https://sec.thief.one/article_content?a_id=778bbbc1aa1ccfae2a4fbb3f4034ac84",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "智行·见远 | 腾云驭智,新华三主动安全护航数字未来",
+        "link": "https://sec.thief.one/article_content?a_id=1c7dfb80cb56e7ca25208bc4c9b37a04",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "【安全圈】全民国家安全教育日 | 网络安全也是国家安全!",
+        "link": "https://sec.thief.one/article_content?a_id=750c95f46a15045fb1c91b3b3cd2d00b",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "《互联网基础设施与软件安全年度发展研究报告(2020)》重磅发布",
+        "link": "https://sec.thief.one/article_content?a_id=2e9ee06cf0b3a766f6cf760b1b9f02b7",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "从流量中检测 WebShell 的方法 | 经验分享",
+        "link": "https://sec.thief.one/article_content?a_id=5ebf9a2f544d4a624077bc65bf0b13fb",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "自学 3 年 Python 后,我做了这个决定....",
+        "link": "https://sec.thief.one/article_content?a_id=e98a0f1abb310d4c9d8f8016681bc103",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "5年Python想转行,Go会不会是我进大厂的救星",
+        "link": "https://sec.thief.one/article_content?a_id=a45eebe078fbd6f9deaee5d038ceded6",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "FBI“合法清除”被攻击的Exchange服务器WebShell",
+        "link": "https://sec.thief.one/article_content?a_id=60635429c39cc9280ab65f9a0019b429",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "近期CNVD重大漏洞汇总",
+        "link": "https://sec.thief.one/article_content?a_id=f657ed421f2de6340fa72c80328736f0",
+        "date": "2021-04-15"
+      },
       {
         "title": "【技术分享】CVE-2021-27905 Apache Solr SSRF 复现",
         "link": "https://sec.thief.one/article_content?a_id=71aebd0cc335e4724ca34af290cf24d6",
@@ -21223,56 +21278,6 @@
       {
         "title": "【安全风险通告】奇安信CERT研究发现一枚高危漏洞,Apache Solr多...",
         "link": "https://sec.thief.one/article_content?a_id=fa4b33c5ff701b345ac9bcc801ddee6d",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "嘶吼送书 | 《Kali Linux 2 网络渗透测试实践指南》",
-        "link": "https://sec.thief.one/article_content?a_id=e0dc4017f7fe33ae0c6ba52ef6b3911f",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "以色列针对伊朗核设施进行破坏性网络攻击导致断电",
-        "link": "https://sec.thief.one/article_content?a_id=7ccf22aae62ab0c5584c412a4f2cbf9a",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "安全日报(2021.04.13)",
-        "link": "https://sec.thief.one/article_content?a_id=869da2cea85759e705d8e399ff6c76a7",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "美国总统拜登提交预算请求:要求加大网络安全和新兴技术投资",
-        "link": "https://sec.thief.one/article_content?a_id=8f3901cf475d332372189af44bc0219c",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "一款内网自动化横向工具:InScan开源扫描器",
-        "link": "https://sec.thief.one/article_content?a_id=54e0799246437533b1ba0c902ff8420a",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "API安全思维导图:MindAPI",
-        "link": "https://sec.thief.one/article_content?a_id=8e89cfbfd96d5a834eb76c625e3c084b",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "fastjson漏洞总结",
-        "link": "https://sec.thief.one/article_content?a_id=ad4e5e5fd0ead85f21ab4575cbf7822f",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "国家医疗保障局关于加强网络安全和数据保护工作的指导意见",
-        "link": "https://sec.thief.one/article_content?a_id=dec615ab1241b52573322e9aacaca5c8",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "APP抓包那点事",
-        "link": "https://sec.thief.one/article_content?a_id=b064981f4d02531cda99e7c5dbf9a0eb",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "【系统底层】x64平台下inline hook的原理、实现与防御",
-        "link": "https://sec.thief.one/article_content?a_id=df9c65b31f1027982b9d65396725209c",
         "date": "2021-04-13"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 04:54:49，:rocket: 更新条数: +4236， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 05:07:23，:rocket: 更新条数: +4236， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-16-我把-docker-当作一个开发测试环境，但是每次修改代码后重新-build-了一个镜像总是需要手动删除](https://www.v2ex.com/t/771073) ![](assets/new.png)  
 - [2021-04-16-西安/武汉/成都-ThoughtWorks-内推-来个走心的-Android-岗内推](https://www.v2ex.com/t/771072) ![](assets/new.png)  
 - [2021-04-16-请家人们推荐一个家用的多功能打印机](https://www.v2ex.com/t/771070) ![](assets/new.png)  
 - [2021-04-16-分享一个很好用的桌面新闻插件](https://www.v2ex.com/t/771069) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-16-求推荐单人射击游戏](https://www.v2ex.com/t/771050) ![](assets/new.png)  
 - [2021-04-16-面试官出了一道题](https://www.v2ex.com/t/771049) ![](assets/new.png)  
 - [2021-04-16-非常好奇，有在-Apple-中国上班的程序员/技术人员么，进来交流下？](https://www.v2ex.com/t/771047) ![](assets/new.png)  
-- [2021-04-16-美团外卖是不是炸了](https://www.v2ex.com/t/771045) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

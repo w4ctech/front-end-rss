@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 04:24:32，:rocket: 更新条数: +4235， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 04:41:43，:rocket: 更新条数: +4235， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-16-分享一个很好用的桌面新闻插件](https://www.v2ex.com/t/771069) ![](assets/new.png)  
+- [2021-04-16-有无用于机械键盘的双口-type-c-线推荐](https://www.v2ex.com/t/771068) ![](assets/new.png)  
 - [2021-04-16-如何使用-iOS-系统相机扫码并激活微信扫二维码付款流程](https://www.v2ex.com/t/771067) ![](assets/new.png)  
 - [2021-04-16-奇葩问题：分时单向-ping-没问题，同时互-ping-后，某单向-ping-不通](https://www.v2ex.com/t/771065) ![](assets/new.png)  
 - [2021-04-16-上海-蜻蜓-FM-招-Andorid-工程师](https://www.v2ex.com/t/771064) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-16-美团外卖是不是炸了](https://www.v2ex.com/t/771045) ![](assets/new.png)  
 - [2021-04-16-在创业公司混中层好难熬。。。](https://www.v2ex.com/t/771044) ![](assets/new.png)  
 - [2021-04-16-美团崩了吗？？下不了单了](https://www.v2ex.com/t/771043) ![](assets/new.png)  
-- [2021-04-16-六字真言单词](https://www.v2ex.com/t/771041) ![](assets/new.png)  
-- [2021-04-16-Watch-端的微信突然不能脱离手机独立使用](https://www.v2ex.com/t/771039) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,8 +1064,8 @@
 - [2021-04-16-Java-8-中的默认方法](https://toutiao.io/k/gxfqnlm) ![](assets/new.png)  
 - [2021-04-16-Go-可用性（五）：自适应限流](https://toutiao.io/k/8rglg7c) ![](assets/new.png)  
 - [2021-04-16-MySQL-提升笔记（一）：MySQL-逻辑架构](https://toutiao.io/k/n0xgxs1) ![](assets/new.png)  
-- [2021-04-16-Kubernetes-部署利器-Helm-快速入门](https://toutiao.io/k/00axfg8) ![](assets/new.png)  
 - [2021-04-16-Go-语言内部包：控制包成员的对外暴露](https://toutiao.io/k/0clcea6) ![](assets/new.png)  
+- [2021-04-16-Kubernetes-部署利器-Helm-快速入门](https://toutiao.io/k/00axfg8) ![](assets/new.png)  
 - [2021-04-16-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
 - [2021-04-16-2021-ThoughtWorks-技术雷达峰会---全讲师阵容震撼发布](https://toutiao.io/k/cd109fv) ![](assets/new.png)  
 - [2021-04-16-Spark-推荐实战系列之-Swing-算法介绍、实现与在阿里飞猪的实战应用](https://toutiao.io/k/od4cvmz) ![](assets/new.png)  
@@ -1073,8 +1073,8 @@
 - [2021-04-16-Hexo-基于分类输出文章](https://toutiao.io/k/59ft88o) ![](assets/new.png)  
 - [2021-04-16-低开销获取时间戳](https://toutiao.io/k/5a4o9sd) ![](assets/new.png)  
 - [2021-04-16-ThreadPoolExecutor-线程池使用](https://toutiao.io/k/cbozvmj) ![](assets/new.png)  
-- [2021-04-16-强大的-Guava-工具类](https://toutiao.io/k/2bkoq2d) ![](assets/new.png)  
 - [2021-04-16-谷歌是如何做应急响应的](https://toutiao.io/k/nubisvh) ![](assets/new.png)  
+- [2021-04-16-强大的-Guava-工具类](https://toutiao.io/k/2bkoq2d) ![](assets/new.png)  
 - [2021-04-16-洞察设计模式的底层逻辑](https://toutiao.io/k/ot335il) ![](assets/new.png)  
 - [2021-04-16-Xcode-编译疾如风系列（二）：并行编译](https://toutiao.io/k/2kqd6u0) ![](assets/new.png)  
 - [2021-04-16-ConcurrentHashMap-有十个提升性能的地方，你都知道吗？](https://toutiao.io/k/yjh1gaw) ![](assets/new.png)  

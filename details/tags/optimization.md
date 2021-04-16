@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-16 03:24:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-16 03:41:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -18,5 +18,6 @@
 - [2021-04-14-英伟达推出首个-CPU，基于-ARM-架构主攻巨型-AI，性能超-x86-十倍](https://www.ershicimi.com/p/0feb20097decea9fc00552afaad25e10) 
 - [2021-04-11-流数据并行处理性能比较：Kafka-vs-Pulsar-vs-Pravega](https://www.ershicimi.com/p/2c5b9cab0e57272b175035f968bc9d1c) 
 - [2021-04-16-海量数据业务有哪些优化手段？](https://toutiao.io/k/ae23a9e) 
+- [2021-04-16-ConcurrentHashMap-有十个提升性能的地方，你都知道吗？](https://toutiao.io/k/yjh1gaw) 
 - [2021-04-16-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) 
 - [2021-04-13-大人，时代变了！英伟达推出ARM架构CPU，性能10倍领先](https://www.ershicimi.com/p/874901238abc4822eb2940f07fdc57a8) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 03:24:31，:rocket: 更新条数: +4235， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 03:41:48，:rocket: 更新条数: +4236， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,8 +996,11 @@
 </summary>
 
 
-- [2021-04-16-有在-Apple-中国上班的程序员/技术人员么，进来交流下？](https://www.v2ex.com/t/771047) ![](assets/new.png)  
-- [2021-04-16-几块钱一个月的机场会比免费机场好吗？](https://www.v2ex.com/t/771046) ![](assets/new.png)  
+- [2021-04-16-求问安卓热点设置-DHCP-方法](https://www.v2ex.com/t/771055) ![](assets/new.png)  
+- [2021-04-16-自上一个问题引申的新问题，数据库表设计的字段，是否需要缩写，缩写应该怎么缩合理，有没有统一缩写的查询字典之类的。](https://www.v2ex.com/t/771054) ![](assets/new.png)  
+- [2021-04-16-求推荐单人射击游戏](https://www.v2ex.com/t/771050) ![](assets/new.png)  
+- [2021-04-16-面试官出了一道题](https://www.v2ex.com/t/771049) ![](assets/new.png)  
+- [2021-04-16-非常好奇，有在-Apple-中国上班的程序员/技术人员么，进来交流下？](https://www.v2ex.com/t/771047) ![](assets/new.png)  
 - [2021-04-16-美团外卖是不是炸了](https://www.v2ex.com/t/771045) ![](assets/new.png)  
 - [2021-04-16-在创业公司混中层好难熬。。。](https://www.v2ex.com/t/771044) ![](assets/new.png)  
 - [2021-04-16-美团崩了吗？？下不了单了](https://www.v2ex.com/t/771043) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-16-12306-内推-前端-北京西直门](https://www.v2ex.com/t/771025) ![](assets/new.png)  
 - [2021-04-16-生活启示录](https://www.v2ex.com/t/771024) ![](assets/new.png)  
 - [2021-04-16-一种序列化-Django-Model-的新思路](https://www.v2ex.com/t/771023) ![](assets/new.png)  
-- [2021-04-16-直接访问网站打不开，我竟然是特殊方式访问的。](https://www.v2ex.com/t/771021) ![](assets/new.png)  
-- [2021-04-16-其它语言有类似-mybatis-那种-mapper-的库](https://www.v2ex.com/t/771019) ![](assets/new.png)  
-- [2021-04-16-Seamless-网页版上线，送码活动开启](https://www.v2ex.com/t/771018) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1076,8 +1076,8 @@
 - [2021-04-16-强大的-Guava-工具类](https://toutiao.io/k/2bkoq2d) ![](assets/new.png)  
 - [2021-04-16-谷歌是如何做应急响应的](https://toutiao.io/k/nubisvh) ![](assets/new.png)  
 - [2021-04-16-洞察设计模式的底层逻辑](https://toutiao.io/k/ot335il) ![](assets/new.png)  
-- [2021-04-16-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-16-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-16-ConcurrentHashMap-有十个提升性能的地方，你都知道吗？](https://toutiao.io/k/yjh1gaw) ![](assets/new.png)  
+- [2021-04-16-Xcode-编译疾如风系列（二）：并行编译](https://toutiao.io/k/2kqd6u0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

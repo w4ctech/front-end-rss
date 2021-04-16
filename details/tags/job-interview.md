@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-16 06:03:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-16 06:24:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -28,6 +28,7 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-04-09-欧阳娜娜从阿里跳槽网易：阿里P8堪称教科书级别的面试现场！最后一个问题亮了](https://www.ershicimi.com/p/258256e57a26bf846018508c969faaea) 
 - [2021-04-11-2021大数据开发面试高频100题最新汇总（附答案详解）-｜-极客大学](https://www.ershicimi.com/p/fb2d6cf91f5ce617c99d6548348dcff5) 
+- [2021-04-16-上海-Afterpay-前端、后端、移动端、数据科学...大量职位招聘中](https://www.v2ex.com/t/771090) 
 - [2021-04-16-面试官出了一道题](https://www.v2ex.com/t/771049) 
 - [2021-04-16-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) 
 - [2021-04-15-干货集合-|-Java程序员的93家大厂面试真题](https://sec.thief.one/article_content?a_id=24ba2d7c218c7378084c4ebeb5f700fc) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-16 08:24:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-16 08:40:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -458,6 +458,7 @@
 - [【React中文社区】实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1)
 - [【前端瓶子君】从梦幻西游学会广度优先搜索和A*算法](https://www.ershicimi.com/p/b34641353de96544191162c490a58ff2)
 - [【前端日刊】面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219)
+- [【V2EX】北京-美团-美团平台-搜索与-NLP-部-美团搜索技术部招聘算法实习生！](https://www.v2ex.com/t/771121)
 - [【V2EX】迫于穷，请问有无类似-paste-的软件？](https://www.v2ex.com/t/771088)
 - [【开发者头条】Spark-推荐实战系列之-Swing-算法介绍、实现与在阿里飞猪的实战应用](https://toutiao.io/k/od4cvmz)
 - [【安全热点】【Android-原创】Android硬核https抓包,自定义ssl也无用](https://sec.thief.one/article_content?a_id=91772f9844aa927a43b1f3bde6069026)
@@ -478,7 +479,6 @@
 
 
 - [【InfoQ】一文梳理-Nginx-的称霸之路｜极客时间](https://www.ershicimi.com/p/82e715bc90804a07c1a6545bb51eae3a)
-- [【V2EX】我把-docker-当作一个开发测试环境，但是每次修改代码后重新-build-了一个镜像总是需要手动删除](https://www.v2ex.com/t/771073)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

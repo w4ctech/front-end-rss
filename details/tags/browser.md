@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-16 08:24:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-16 08:40:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,6 +41,7 @@
 - [2021-04-12-一文全面解析-Postman-工具](https://www.ershicimi.com/p/c99ef132fe246495128025df622cf65c) 
 - [2021-04-12-全世界下载量超-100-亿，curl-怎样成为影响世界的开源项目？](https://www.ershicimi.com/p/f95ec01a19a44e7f8bc459e370f801ca) 
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
+- [2021-04-16-Andriod-Chrome-无法下载某些文件](https://www.v2ex.com/t/771124) 
 - [2021-04-16-有什么方案/库可以用于同时创建浏览器鉴权的-api-和-openapi-吗？](https://www.v2ex.com/t/771109) 
 - [2021-04-16-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-15-智行·见远-|-腾云驭智,新华三主动安全护航数字未来](https://sec.thief.one/article_content?a_id=1c7dfb80cb56e7ca25208bc4c9b37a04) 

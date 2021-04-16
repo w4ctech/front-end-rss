@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-16 10:51:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-16 11:02:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-16-AI-Global-Residency-2021-@-香港-/-Remote-6-month-Contract](https://www.v2ex.com/t/771158) 
+- [2021-04-16-迫于-ThinkPad-体验了一下苹果-11.1-big-sur](https://www.v2ex.com/t/771157) 
 - [2021-04-16-Cloudsigma-是否存在-IP-tracker?](https://www.v2ex.com/t/771154) 
 - [2021-04-16-发布一个节假日查询-API,有源码](https://www.v2ex.com/t/771152) 
 - [2021-04-16-哪里能出售自己写的主题？](https://www.v2ex.com/t/771150) 
@@ -37,5 +39,3 @@
 - [2021-04-16-windows-系统中顽固的-2345-到底如何根治？](https://www.v2ex.com/t/771113) 
 - [2021-04-16-有办法在大陆使用索尼电视的原生-google-tv-系统吗？](https://www.v2ex.com/t/771111) 
 - [2021-04-16-有什么方案/库可以用于同时创建浏览器鉴权的-api-和-openapi-吗？](https://www.v2ex.com/t/771109) 
-- [2021-04-16-广州越秀电信-光猫拿到-IPV6-地址-却测试不过-且无-INTERNET-访问权限](https://www.v2ex.com/t/771108) 
-- [2021-04-16-请教各位网络大神一个问题](https://www.v2ex.com/t/771107) 

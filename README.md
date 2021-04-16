@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 21:50:43，:rocket: 更新条数: +720， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 22:03:08，:rocket: 更新条数: +720， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1040,8 +1040,8 @@
 
 - [2021-04-16-大数据告诉你：程序员真的是吃青春饭的吗？](https://toutiao.io/k/wqo3p4x) ![](assets/new.png)  
 - [2021-04-16-Redis-入门-数据类型：3-种特殊类型详解](https://toutiao.io/k/4xposai) ![](assets/new.png)  
-- [2021-04-16-海量数据业务有哪些优化手段？](https://toutiao.io/k/ae23a9e) ![](assets/new.png)  
 - [2021-04-16-Java-8-中的默认方法](https://toutiao.io/k/gxfqnlm) ![](assets/new.png)  
+- [2021-04-16-海量数据业务有哪些优化手段？](https://toutiao.io/k/ae23a9e) ![](assets/new.png)  
 - [2021-04-16-MySQL-提升笔记（一）：MySQL-逻辑架构](https://toutiao.io/k/n0xgxs1) ![](assets/new.png)  
 - [2021-04-16-Go-可用性（五）：自适应限流](https://toutiao.io/k/8rglg7c) ![](assets/new.png)  
 - [2021-04-16-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  

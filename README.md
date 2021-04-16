@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 12:43:17，:rocket: 更新条数: +4236， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 12:57:42，:rocket: 更新条数: +4236， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-16-PlatformIO-目前只是玩具，单片机开发还得用-Keil](https://www.v2ex.com/t/771173) ![](assets/new.png)  
+- [2021-04-16-上海/北京/杭州/武汉社招/校招/实习四月冲鸭，进面有红包抖音电商后端开发工程师](https://www.v2ex.com/t/771172) ![](assets/new.png)  
+- [2021-04-16-Android-应用程序如何缩小体积？](https://www.v2ex.com/t/771170) ![](assets/new.png)  
 - [2021-04-16-vue-项目，开发预览和构建后的页面不一致，求助](https://www.v2ex.com/t/771169) ![](assets/new.png)  
 - [2021-04-16-香港-wechat-换绑欧盟手机号可以关闭广告吗](https://www.v2ex.com/t/771166) ![](assets/new.png)  
 - [2021-04-16-有佛山顺德美的的同学么？](https://www.v2ex.com/t/771165) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-16-北京-快手-安全/开发招聘](https://www.v2ex.com/t/771145) ![](assets/new.png)  
 - [2021-04-16-iOS-14.5-在-iPhone-7-上真流畅-dev-版](https://www.v2ex.com/t/771144) ![](assets/new.png)  
 - [2021-04-16-失眠，一趟床上各种思绪跑出来。](https://www.v2ex.com/t/771143) ![](assets/new.png)  
-- [2021-04-16-北京-游戏公司技术中台招贤](https://www.v2ex.com/t/771140) ![](assets/new.png)  
-- [2021-04-16-SPA-项目中通常主页之类的地方文字内容放在哪里？](https://www.v2ex.com/t/771139) ![](assets/new.png)  
-- [2021-04-16-为什么-openjdk.-Java-.net-下载的-JDK11-到-11.0.2-，而在-adoptopenjdk-能下载到-11.0.9+以上版本呢？](https://www.v2ex.com/t/771138) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1062,22 +1062,22 @@
 - [2021-04-16-Redis-入门-数据类型：3-种特殊类型详解](https://toutiao.io/k/4xposai) ![](assets/new.png)  
 - [2021-04-16-海量数据业务有哪些优化手段？](https://toutiao.io/k/ae23a9e) ![](assets/new.png)  
 - [2021-04-16-Java-8-中的默认方法](https://toutiao.io/k/gxfqnlm) ![](assets/new.png)  
-- [2021-04-16-Go-可用性（五）：自适应限流](https://toutiao.io/k/8rglg7c) ![](assets/new.png)  
 - [2021-04-16-MySQL-提升笔记（一）：MySQL-逻辑架构](https://toutiao.io/k/n0xgxs1) ![](assets/new.png)  
+- [2021-04-16-Go-可用性（五）：自适应限流](https://toutiao.io/k/8rglg7c) ![](assets/new.png)  
 - [2021-04-16-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
-- [2021-04-16-Go-语言内部包：控制包成员的对外暴露](https://toutiao.io/k/0clcea6) ![](assets/new.png)  
 - [2021-04-16-Kubernetes-部署利器-Helm-快速入门](https://toutiao.io/k/00axfg8) ![](assets/new.png)  
+- [2021-04-16-Go-语言内部包：控制包成员的对外暴露](https://toutiao.io/k/0clcea6) ![](assets/new.png)  
 - [2021-04-16-低开销获取时间戳](https://toutiao.io/k/5a4o9sd) ![](assets/new.png)  
 - [2021-04-16-ConcurrentHashMap-有十个提升性能的地方，你都知道吗？](https://toutiao.io/k/yjh1gaw) ![](assets/new.png)  
 - [2021-04-16-强大的-Guava-工具类](https://toutiao.io/k/2bkoq2d) ![](assets/new.png)  
-- [2021-04-16-2021-ThoughtWorks-技术雷达峰会---全讲师阵容震撼发布](https://toutiao.io/k/cd109fv) ![](assets/new.png)  
 - [2021-04-16-Xcode-编译疾如风系列（二）：并行编译](https://toutiao.io/k/2kqd6u0) ![](assets/new.png)  
+- [2021-04-16-2021-ThoughtWorks-技术雷达峰会---全讲师阵容震撼发布](https://toutiao.io/k/cd109fv) ![](assets/new.png)  
+- [2021-04-16-ThreadPoolExecutor-线程池使用](https://toutiao.io/k/cbozvmj) ![](assets/new.png)  
 - [2021-04-16-Spark-推荐实战系列之-Swing-算法介绍、实现与在阿里飞猪的实战应用](https://toutiao.io/k/od4cvmz) ![](assets/new.png)  
 - [2021-04-16-你可能不知道的-ZooKeeper-知识点](https://toutiao.io/k/9rduy12) ![](assets/new.png)  
-- [2021-04-16-ThreadPoolExecutor-线程池使用](https://toutiao.io/k/cbozvmj) ![](assets/new.png)  
 - [2021-04-16-谷歌是如何做应急响应的](https://toutiao.io/k/nubisvh) ![](assets/new.png)  
-- [2021-04-16-Hexo-基于分类输出文章](https://toutiao.io/k/59ft88o) ![](assets/new.png)  
 - [2021-04-16-洞察设计模式的底层逻辑](https://toutiao.io/k/ot335il) ![](assets/new.png)  
+- [2021-04-16-Hexo-基于分类输出文章](https://toutiao.io/k/59ft88o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

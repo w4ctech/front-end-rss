@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 05:39:46，:rocket: 更新条数: +4234， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 05:52:11，:rocket: 更新条数: +4233， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-16-线控降噪耳机那个品牌最好？](https://www.v2ex.com/t/771083) ![](assets/new.png)  
+- [2021-04-16-发现公司项目配置文件都是-GBK-编码，我-Ubuntu-注解都乱码了捂脸](https://www.v2ex.com/t/771081) ![](assets/new.png)  
 - [2021-04-16-IKBC-键盘-F108“短寿”后续，售后检测是进了小强](https://www.v2ex.com/t/771077) ![](assets/new.png)  
 - [2021-04-16-我有个域名，不晓得要不要扔掉，请大佬来帮我参考参考](https://www.v2ex.com/t/771075) ![](assets/new.png)  
 - [2021-04-16-请问大家什么是互联网思维呢](https://www.v2ex.com/t/771074) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-16-有没有什么好用的网页黑暗主题插件推荐](https://www.v2ex.com/t/771058) ![](assets/new.png)  
 - [2021-04-16-homepod-mini-音质还是不如三年前第一代的小水桶啊](https://www.v2ex.com/t/771057) ![](assets/new.png)  
 - [2021-04-16-上海北京内推社招校招实习哔哩哔哩-b-站-bilibili](https://www.v2ex.com/t/771056) ![](assets/new.png)  
-- [2021-04-16-求问安卓热点设置-DHCP-方法](https://www.v2ex.com/t/771055) ![](assets/new.png)  
-- [2021-04-16-自上一个问题引申的新问题，数据库表设计的字段，是否需要缩写，缩写应该怎么缩合理，有没有统一缩写的查询字典之类的。](https://www.v2ex.com/t/771054) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

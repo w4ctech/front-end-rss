@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 04:05:15，:rocket: 更新条数: +4234， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 04:24:32，:rocket: 更新条数: +4235， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,8 @@
 </summary>
 
 
+- [2021-04-16-全国｜新增确诊-11-例-其中本土-1-例（在云南）](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirryGipFcRYcUKYs0xQq8210416&isfromapp=1) ![](assets/new.png)  
+- [2021-04-15-云南｜新增-1-例确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwGhVvviAYEojEtugXaV210416&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +996,9 @@
 </summary>
 
 
+- [2021-04-16-如何使用-iOS-系统相机扫码并激活微信扫二维码付款流程](https://www.v2ex.com/t/771067) ![](assets/new.png)  
+- [2021-04-16-奇葩问题：分时单向-ping-没问题，同时互-ping-后，某单向-ping-不通](https://www.v2ex.com/t/771065) ![](assets/new.png)  
+- [2021-04-16-上海-蜻蜓-FM-招-Andorid-工程师](https://www.v2ex.com/t/771064) ![](assets/new.png)  
 - [2021-04-16-域名注册商注册域名的成本是多少，为什么不同注册商价格差距这么大？](https://www.v2ex.com/t/771063) ![](assets/new.png)  
 - [2021-04-16-FormMaking-1.3.0-新版发布，自定义表单支持数据源配置](https://www.v2ex.com/t/771062) ![](assets/new.png)  
 - [2021-04-16-过来人指导一下-mysql-集群方案?](https://www.v2ex.com/t/771061) ![](assets/new.png)  
@@ -1011,9 +1016,6 @@
 - [2021-04-16-美团崩了吗？？下不了单了](https://www.v2ex.com/t/771043) ![](assets/new.png)  
 - [2021-04-16-六字真言单词](https://www.v2ex.com/t/771041) ![](assets/new.png)  
 - [2021-04-16-Watch-端的微信突然不能脱离手机独立使用](https://www.v2ex.com/t/771039) ![](assets/new.png)  
-- [2021-04-16-钱存在支_付宝（网商银行）和传统银行哪个更安全？](https://www.v2ex.com/t/771035) ![](assets/new.png)  
-- [2021-04-16-在-OC-的单例类中，你会用静态方法还是实例方法还是-C-type-的方法？](https://www.v2ex.com/t/771031) ![](assets/new.png)  
-- [2021-04-16-Hugo-如何自建评论服务器？](https://www.v2ex.com/t/771030) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,11 +1066,11 @@
 - [2021-04-16-MySQL-提升笔记（一）：MySQL-逻辑架构](https://toutiao.io/k/n0xgxs1) ![](assets/new.png)  
 - [2021-04-16-Kubernetes-部署利器-Helm-快速入门](https://toutiao.io/k/00axfg8) ![](assets/new.png)  
 - [2021-04-16-Go-语言内部包：控制包成员的对外暴露](https://toutiao.io/k/0clcea6) ![](assets/new.png)  
-- [2021-04-16-2021-ThoughtWorks-技术雷达峰会---全讲师阵容震撼发布](https://toutiao.io/k/cd109fv) ![](assets/new.png)  
 - [2021-04-16-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
+- [2021-04-16-2021-ThoughtWorks-技术雷达峰会---全讲师阵容震撼发布](https://toutiao.io/k/cd109fv) ![](assets/new.png)  
 - [2021-04-16-Spark-推荐实战系列之-Swing-算法介绍、实现与在阿里飞猪的实战应用](https://toutiao.io/k/od4cvmz) ![](assets/new.png)  
-- [2021-04-16-Hexo-基于分类输出文章](https://toutiao.io/k/59ft88o) ![](assets/new.png)  
 - [2021-04-16-你可能不知道的-ZooKeeper-知识点](https://toutiao.io/k/9rduy12) ![](assets/new.png)  
+- [2021-04-16-Hexo-基于分类输出文章](https://toutiao.io/k/59ft88o) ![](assets/new.png)  
 - [2021-04-16-低开销获取时间戳](https://toutiao.io/k/5a4o9sd) ![](assets/new.png)  
 - [2021-04-16-ThreadPoolExecutor-线程池使用](https://toutiao.io/k/cbozvmj) ![](assets/new.png)  
 - [2021-04-16-强大的-Guava-工具类](https://toutiao.io/k/2bkoq2d) ![](assets/new.png)  

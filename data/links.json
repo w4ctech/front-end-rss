@@ -17570,7 +17570,18 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "全国｜新增确诊 11 例 其中本土 1 例（在云南）",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirryGipFcRYcUKYs0xQq8210416&isfromapp=1",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "云南｜新增 1 例确诊",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwGhVvviAYEojEtugXaV210416&isfromapp=1",
+        "date": "2021-04-15"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",
@@ -20374,6 +20385,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何使用 iOS 系统相机扫码并激活微信扫二维码付款流程",
+        "link": "https://www.v2ex.com/t/771067",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "奇葩问题：分时单向 ping 没问题，同时互 ping 后，某单向 ping 不通",
+        "link": "https://www.v2ex.com/t/771065",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "[上海] 蜻蜓 FM 招 Andorid 工程师",
+        "link": "https://www.v2ex.com/t/771064",
+        "date": "2021-04-16"
+      },
+      {
         "title": "域名注册商注册域名的成本是多少，为什么不同注册商价格差距这么大？",
         "link": "https://www.v2ex.com/t/771063",
         "date": "2021-04-16"
@@ -20521,26 +20547,6 @@
       {
         "title": "Seamless 网页版上线，送码活动开启",
         "link": "https://www.v2ex.com/t/771018",
-        "date": "2021-04-16"
-      },
-      {
-        "title": "在 SVG 中可以运行 Javascript 代码，那可不可以在 SVG 中调用 webgl 和 shader 进行渲染？不引用外部文件那种。如果可以的话，求给个参考的例子。",
-        "link": "https://www.v2ex.com/t/771017",
-        "date": "2021-04-16"
-      },
-      {
-        "title": "「互联网迷惑行为大赏」魅族真的开始卖 iPhone 了",
-        "link": "https://www.v2ex.com/t/771016",
-        "date": "2021-04-16"
-      },
-      {
-        "title": "开源中国——《开源项目用英文标识符就能招徕国外用户吗？》",
-        "link": "https://www.v2ex.com/t/771015",
-        "date": "2021-04-16"
-      },
-      {
-        "title": "字节再招 10000 人，看到招聘要求我傻了...",
-        "link": "https://www.v2ex.com/t/771014",
         "date": "2021-04-16"
       }
     ]
@@ -20698,13 +20704,13 @@
         "date": "2021-04-16"
       },
       {
-        "title": "2021 ThoughtWorks 技术雷达峰会 - 全讲师阵容震撼发布",
-        "link": "https://toutiao.io/k/cd109fv",
+        "title": "超级详细的 Spring Boot 注解总结",
+        "link": "https://toutiao.io/k/zxa65u1",
         "date": "2021-04-16"
       },
       {
-        "title": "超级详细的 Spring Boot 注解总结",
-        "link": "https://toutiao.io/k/zxa65u1",
+        "title": "2021 ThoughtWorks 技术雷达峰会 - 全讲师阵容震撼发布",
+        "link": "https://toutiao.io/k/cd109fv",
         "date": "2021-04-16"
       },
       {
@@ -20713,13 +20719,13 @@
         "date": "2021-04-16"
       },
       {
-        "title": "Hexo 基于分类输出文章",
-        "link": "https://toutiao.io/k/59ft88o",
+        "title": "你可能不知道的 ZooKeeper 知识点",
+        "link": "https://toutiao.io/k/9rduy12",
         "date": "2021-04-16"
       },
       {
-        "title": "你可能不知道的 ZooKeeper 知识点",
-        "link": "https://toutiao.io/k/9rduy12",
+        "title": "Hexo 基于分类输出文章",
+        "link": "https://toutiao.io/k/59ft88o",
         "date": "2021-04-16"
       },
       {
@@ -20758,11 +20764,6 @@
         "date": "2021-04-16"
       },
       {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-16"
-      },
-      {
         "title": "[推荐] 教你从头写游戏服务器框架",
         "link": "https://toutiao.io/k/906zu1i",
         "date": "2021-04-16"
@@ -20773,18 +20774,18 @@
         "date": "2021-04-16"
       },
       {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
-        "date": "2021-04-16"
-      },
-      {
         "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
         "link": "https://toutiao.io/k/3bv147y",
         "date": "2021-04-16"
       },
       {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
         "date": "2021-04-16"
       },
       {
@@ -20793,13 +20794,13 @@
         "date": "2021-04-16"
       },
       {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
         "date": "2021-04-16"
       },
       {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
         "date": "2021-04-16"
       },
       {
@@ -20813,8 +20814,8 @@
         "date": "2021-04-16"
       },
       {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
         "date": "2021-04-16"
       },
       {
@@ -20823,13 +20824,18 @@
         "date": "2021-04-16"
       },
       {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
+        "title": "[推荐] Go 应用优化指北",
+        "link": "https://toutiao.io/k/6jo6q1t",
         "date": "2021-04-16"
       },
       {
-        "title": "[推荐] Go 应用优化指北",
-        "link": "https://toutiao.io/k/6jo6q1t",
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
         "date": "2021-04-16"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-16 04:05:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-16 04:24:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -30,6 +30,5 @@
 - [2021-04-11-2021大数据开发面试高频100题最新汇总（附答案详解）-｜-极客大学](https://www.ershicimi.com/p/fb2d6cf91f5ce617c99d6548348dcff5) 
 - [2021-04-16-面试官出了一道题](https://www.v2ex.com/t/771049) 
 - [2021-04-16-来自-乐言科技-的招聘帖~](https://www.v2ex.com/t/771028) 
-- [2021-04-16-字节再招-10000-人，看到招聘要求我傻了...](https://www.v2ex.com/t/771014) 
 - [2021-04-16-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) 
 - [2021-04-15-干货集合-|-Java程序员的93家大厂面试真题](https://sec.thief.one/article_content?a_id=24ba2d7c218c7378084c4ebeb5f700fc) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-16 18:25:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-16 18:43:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -297,15 +297,15 @@
 - [2021-04-16-2021-ThoughtWorks-技术雷达峰会---全讲师阵容震撼发布](https://toutiao.io/k/cd109fv) 
 - [2021-04-16-你可能不知道的-ZooKeeper-知识点](https://toutiao.io/k/9rduy12) 
 - [2021-04-16-Hexo-基于分类输出文章](https://toutiao.io/k/59ft88o) 
-- [2021-04-16-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
-- [2021-04-16-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
-- [2021-04-16-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
+- [2021-04-16-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
+- [2021-04-16-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
 - [2021-04-16-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
 - [2021-04-16-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
-- [2021-04-16-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
 - [2021-04-16-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
+- [2021-04-16-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
 - [2021-04-16-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
-- [2021-04-16-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
+- [2021-04-16-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
+- [2021-04-16-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
 - [2021-04-16-当谎言诞生时,我们该如何重构信任?](https://sec.thief.one/article_content?a_id=ce9eabda18120716e81ea24656786a51) 
 - [2021-04-16-预热|全新MiSRC2.0即将上线内含团队奖励攻略](https://sec.thief.one/article_content?a_id=3c872a36033dc0f6ae053525ff8c6fa9) 
 - [2021-04-16-扬帆四月,我们开课了!i春秋渗透测试工程师成都9期开班典礼](https://sec.thief.one/article_content?a_id=e3af186db7ffed8fd7c3c68643259529) 

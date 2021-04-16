@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-16 01:28:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-16 01:45:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -203,7 +203,6 @@
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【V2EX】miui-12-微信小程序添加到桌面失败。有么有老哥知道咋回事](https://www.v2ex.com/t/770994)
-- [【V2EX】微信小程序只能分享卡片，如何生成海报（图片）分享？](https://www.v2ex.com/t/770951)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -478,7 +477,6 @@
 
 
 - [【InfoQ】一文梳理-Nginx-的称霸之路｜极客时间](https://www.ershicimi.com/p/82e715bc90804a07c1a6545bb51eae3a)
-- [【V2EX】新加坡-Shopee-直招-急，招后端开发工程师，包含-OpenResty,-eBPF,-DPDK,-Kubernetes-等不同方向](https://www.v2ex.com/t/770957)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

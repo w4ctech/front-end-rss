@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 12:24:34，:rocket: 更新条数: +4234， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 12:43:17，:rocket: 更新条数: +4236， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,8 @@
 </summary>
 
 
+- [2021-04-16-全国｜新增确诊-11-例-其中本土-1-例（在云南）](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirryGipFcRYcUKYs0xQq8210416&isfromapp=1) ![](assets/new.png)  
+- [2021-04-15-云南｜新增-1-例确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwGhVvviAYEojEtugXaV210416&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +996,7 @@
 </summary>
 
 
+- [2021-04-16-vue-项目，开发预览和构建后的页面不一致，求助](https://www.v2ex.com/t/771169) ![](assets/new.png)  
 - [2021-04-16-香港-wechat-换绑欧盟手机号可以关闭广告吗](https://www.v2ex.com/t/771166) ![](assets/new.png)  
 - [2021-04-16-有佛山顺德美的的同学么？](https://www.v2ex.com/t/771165) ![](assets/new.png)  
 - [2021-04-16-经过整整一天的-debug。。。终于定位到了问题](https://www.v2ex.com/t/771163) ![](assets/new.png)  
@@ -1013,7 +1016,6 @@
 - [2021-04-16-北京-游戏公司技术中台招贤](https://www.v2ex.com/t/771140) ![](assets/new.png)  
 - [2021-04-16-SPA-项目中通常主页之类的地方文字内容放在哪里？](https://www.v2ex.com/t/771139) ![](assets/new.png)  
 - [2021-04-16-为什么-openjdk.-Java-.net-下载的-JDK11-到-11.0.2-，而在-adoptopenjdk-能下载到-11.0.9+以上版本呢？](https://www.v2ex.com/t/771138) ![](assets/new.png)  
-- [2021-04-16-有没有大佬研究过瓦片图这种吗？手绘地图](https://www.v2ex.com/t/771137) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

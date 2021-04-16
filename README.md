@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 13:10:12，:rocket: 更新条数: +4235， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 13:24:50，:rocket: 更新条数: +4234， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1062,8 +1062,8 @@
 - [2021-04-16-Redis-入门-数据类型：3-种特殊类型详解](https://toutiao.io/k/4xposai) ![](assets/new.png)  
 - [2021-04-16-海量数据业务有哪些优化手段？](https://toutiao.io/k/ae23a9e) ![](assets/new.png)  
 - [2021-04-16-Java-8-中的默认方法](https://toutiao.io/k/gxfqnlm) ![](assets/new.png)  
-- [2021-04-16-MySQL-提升笔记（一）：MySQL-逻辑架构](https://toutiao.io/k/n0xgxs1) ![](assets/new.png)  
 - [2021-04-16-Go-可用性（五）：自适应限流](https://toutiao.io/k/8rglg7c) ![](assets/new.png)  
+- [2021-04-16-MySQL-提升笔记（一）：MySQL-逻辑架构](https://toutiao.io/k/n0xgxs1) ![](assets/new.png)  
 - [2021-04-16-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
 - [2021-04-16-Go-语言内部包：控制包成员的对外暴露](https://toutiao.io/k/0clcea6) ![](assets/new.png)  
 - [2021-04-16-Kubernetes-部署利器-Helm-快速入门](https://toutiao.io/k/00axfg8) ![](assets/new.png)  
@@ -1075,8 +1075,8 @@
 - [2021-04-16-ThreadPoolExecutor-线程池使用](https://toutiao.io/k/cbozvmj) ![](assets/new.png)  
 - [2021-04-16-Spark-推荐实战系列之-Swing-算法介绍、实现与在阿里飞猪的实战应用](https://toutiao.io/k/od4cvmz) ![](assets/new.png)  
 - [2021-04-16-你可能不知道的-ZooKeeper-知识点](https://toutiao.io/k/9rduy12) ![](assets/new.png)  
-- [2021-04-16-谷歌是如何做应急响应的](https://toutiao.io/k/nubisvh) ![](assets/new.png)  
 - [2021-04-16-洞察设计模式的底层逻辑](https://toutiao.io/k/ot335il) ![](assets/new.png)  
+- [2021-04-16-谷歌是如何做应急响应的](https://toutiao.io/k/nubisvh) ![](assets/new.png)  
 - [2021-04-16-Hexo-基于分类输出文章](https://toutiao.io/k/59ft88o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

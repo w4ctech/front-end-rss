@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 23:24:08，:rocket: 更新条数: +4230， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 23:38:16，:rocket: 更新条数: +4219， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,8 @@
 </summary>
 
 
+- [2021-04-16-全国｜新增确诊-11-例-其中本土-1-例（在云南）](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirryGipFcRYcUKYs0xQq8210416&isfromapp=1) ![](assets/new.png)  
+- [2021-04-15-云南｜新增-1-例确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwGhVvviAYEojEtugXaV210416&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,6 +996,9 @@
 </summary>
 
 
+- [2021-04-16-Teamviewer-远程连接，无法获取被控端声音](https://www.v2ex.com/t/771217) ![](assets/new.png)  
+- [2021-04-16-诸君帮看看这样的需求用哪个框架好做。。。](https://www.v2ex.com/t/771216) ![](assets/new.png)  
+- [2021-04-16-小米系统电池没电倒数-30s-关机](https://www.v2ex.com/t/771215) ![](assets/new.png)  
 - [2021-04-16-域名转移到-Cloudflare-还能够转发邮件吗？转发刀-Cloudflare-会有什么限制呀？我-namesilo-上买的。](https://www.v2ex.com/t/771213) ![](assets/new.png)  
 - [2021-04-16-大容量硬盘成为新的理财产品](https://www.v2ex.com/t/771212) ![](assets/new.png)  
 - [2021-04-16-苹果的-Trade-in-过于霸道](https://www.v2ex.com/t/771211) ![](assets/new.png)  
@@ -1011,9 +1016,6 @@
 - [2021-04-16-edge-安卓版版本已经跟上节奏了](https://www.v2ex.com/t/771193) ![](assets/new.png)  
 - [2021-04-16-边走路边操控（触摸+键盘打字）笔记本电脑？是否可行？](https://www.v2ex.com/t/771191) ![](assets/new.png)  
 - [2021-04-16-阿里云日常代金券和优惠活动](https://www.v2ex.com/t/771190) ![](assets/new.png)  
-- [2021-04-16-异地补办身份证实际办理时长有多久啊](https://www.v2ex.com/t/771189) ![](assets/new.png)  
-- [2021-04-16-B-站某些视频为什么会色彩失真？](https://www.v2ex.com/t/771184) ![](assets/new.png)  
-- [2021-04-16-如何优雅的实现千万级以上数据存储与读取?](https://www.v2ex.com/t/771183) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1056,26 +1058,26 @@
 </summary>
 
 
-- [2021-04-16-大数据告诉你：程序员真的是吃青春饭的吗？](https://toutiao.io/k/wqo3p4x) ![](assets/new.png)  
-- [2021-04-16-Redis-入门-数据类型：3-种特殊类型详解](https://toutiao.io/k/4xposai) ![](assets/new.png)  
-- [2021-04-16-Java-8-中的默认方法](https://toutiao.io/k/gxfqnlm) ![](assets/new.png)  
-- [2021-04-16-海量数据业务有哪些优化手段？](https://toutiao.io/k/ae23a9e) ![](assets/new.png)  
-- [2021-04-16-MySQL-提升笔记（一）：MySQL-逻辑架构](https://toutiao.io/k/n0xgxs1) ![](assets/new.png)  
-- [2021-04-16-Go-可用性（五）：自适应限流](https://toutiao.io/k/8rglg7c) ![](assets/new.png)  
-- [2021-04-16-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
-- [2021-04-16-Kubernetes-部署利器-Helm-快速入门](https://toutiao.io/k/00axfg8) ![](assets/new.png)  
-- [2021-04-16-Go-语言内部包：控制包成员的对外暴露](https://toutiao.io/k/0clcea6) ![](assets/new.png)  
-- [2021-04-16-低开销获取时间戳](https://toutiao.io/k/5a4o9sd) ![](assets/new.png)  
-- [2021-04-16-ConcurrentHashMap-有十个提升性能的地方，你都知道吗？](https://toutiao.io/k/yjh1gaw) ![](assets/new.png)  
-- [2021-04-16-强大的-Guava-工具类](https://toutiao.io/k/2bkoq2d) ![](assets/new.png)  
-- [2021-04-16-Xcode-编译疾如风系列（二）：并行编译](https://toutiao.io/k/2kqd6u0) ![](assets/new.png)  
-- [2021-04-16-ThreadPoolExecutor-线程池使用](https://toutiao.io/k/cbozvmj) ![](assets/new.png)  
-- [2021-04-16-洞察设计模式的底层逻辑](https://toutiao.io/k/ot335il) ![](assets/new.png)  
-- [2021-04-16-谷歌是如何做应急响应的](https://toutiao.io/k/nubisvh) ![](assets/new.png)  
-- [2021-04-16-你可能不知道的-ZooKeeper-知识点](https://toutiao.io/k/9rduy12) ![](assets/new.png)  
-- [2021-04-16-2021-ThoughtWorks-技术雷达峰会---全讲师阵容震撼发布](https://toutiao.io/k/cd109fv) ![](assets/new.png)  
-- [2021-04-16-Spark-推荐实战系列之-Swing-算法介绍、实现与在阿里飞猪的实战应用](https://toutiao.io/k/od4cvmz) ![](assets/new.png)  
-- [2021-04-16-Hexo-基于分类输出文章](https://toutiao.io/k/59ft88o) ![](assets/new.png)  
+- [2021-04-16-Nginx-Buffer-机制引发的下载故障](https://toutiao.io/k/6ld5fxn) ![](assets/new.png)  
+- [2021-04-16-使用协程和-Flow-简化-API-设计](https://toutiao.io/k/yxdpzkx) ![](assets/new.png)  
+- [2021-04-16-CAP：分布式事务的解决方案](https://toutiao.io/k/mbgrz85) ![](assets/new.png)  
+- [2021-04-16-资料-|-Go-语言实用教程](https://toutiao.io/k/9squgg8) ![](assets/new.png)  
+- [2021-04-16-Android-逆向之某-App-逆向实践](https://toutiao.io/k/9j7191v) ![](assets/new.png)  
+- [2021-04-16-Kubernetes-部署-Longhorn](https://toutiao.io/k/qw374hn) ![](assets/new.png)  
+- [2021-04-16-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
+- [2021-04-16-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-16-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-16-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-16-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-16-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-16-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
+- [2021-04-16-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-16-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-16-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-16-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-16-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-16-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-16-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

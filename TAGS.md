@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-16 23:24:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-16 23:38:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -398,8 +398,6 @@
 - [【互联网架构师】阿里终面：如何设计一个高性能网关？](https://www.ershicimi.com/p/89eb52f0ff7329ad9428c4bffffa0898)
 - [【InfoQ】英伟达推出首个-CPU，基于-ARM-架构主攻巨型-AI，性能超-x86-十倍](https://www.ershicimi.com/p/0feb20097decea9fc00552afaad25e10)
 - [【InfoQ】流数据并行处理性能比较：Kafka-vs-Pulsar-vs-Pravega](https://www.ershicimi.com/p/2c5b9cab0e57272b175035f968bc9d1c)
-- [【开发者头条】海量数据业务有哪些优化手段？](https://toutiao.io/k/ae23a9e)
-- [【开发者头条】ConcurrentHashMap-有十个提升性能的地方，你都知道吗？](https://toutiao.io/k/yjh1gaw)
 - [【物联网智库】大人，时代变了！英伟达推出ARM架构CPU，性能10倍领先](https://www.ershicimi.com/p/874901238abc4822eb2940f07fdc57a8)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -456,7 +454,6 @@
 - [【React中文社区】实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1)
 - [【前端瓶子君】从梦幻西游学会广度优先搜索和A*算法](https://www.ershicimi.com/p/b34641353de96544191162c490a58ff2)
 - [【前端日刊】面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219)
-- [【开发者头条】Spark-推荐实战系列之-Swing-算法介绍、实现与在阿里飞猪的实战应用](https://toutiao.io/k/od4cvmz)
 - [【安全热点】【Android-原创】Android硬核https抓包,自定义ssl也无用](https://sec.thief.one/article_content?a_id=91772f9844aa927a43b1f3bde6069026)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -475,6 +472,7 @@
 
 
 - [【InfoQ】一文梳理-Nginx-的称霸之路｜极客时间](https://www.ershicimi.com/p/82e715bc90804a07c1a6545bb51eae3a)
+- [【开发者头条】Nginx-Buffer-机制引发的下载故障](https://toutiao.io/k/6ld5fxn)
 - [【安全热点】植入挖矿的Docker镜像被下载了2000万次](https://sec.thief.one/article_content?a_id=560e5027479e368520d1f4e45dfd5db7)
 - [......【查看更多】......](./details/tags/server.md)
 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-16 18:43:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-16 18:57:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-16-想给自己挖个大坑，有人要看热闹么？](https://www.v2ex.com/t/771208) 
 - [2021-04-16-微星-MSI-论坛登入故障](https://www.v2ex.com/t/771207) 
 - [2021-04-16-关于-MacBook-使用远程桌面的一些问题](https://www.v2ex.com/t/771205) 
 - [2021-04-16-电信国际出口扩容了？-上海精品网今晚播不到-58.32-网段了](https://www.v2ex.com/t/771203) 
@@ -35,4 +36,3 @@
 - [2021-04-16-买了一台腾讯云轻量级服务器，用来干点什么好呢？](https://www.v2ex.com/t/771161) 
 - [2021-04-16-MySQL-转码问题。](https://www.v2ex.com/t/771160) 
 - [2021-04-16-cURL-为什么会把十进制数字转为-IP？](https://www.v2ex.com/t/771159) 
-- [2021-04-16-AI-Global-Residency-2021-@-香港-/-Remote-6-month-Contract](https://www.v2ex.com/t/771158) 

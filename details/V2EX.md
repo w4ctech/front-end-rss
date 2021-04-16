@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-16 02:13:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-16 02:23:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-16-其它语言有类似-mybatis-那种-mapper-的库](https://www.v2ex.com/t/771019) 
 - [2021-04-16-Seamless-网页版上线，送码活动开启](https://www.v2ex.com/t/771018) 
 - [2021-04-16-在-SVG-中可以运行-Javascript-代码，那可不可以在-SVG-中调用-webgl-和-shader-进行渲染？不引用外部文件那种。如果可以的话，求给个参考的例子。](https://www.v2ex.com/t/771017) 
 - [2021-04-16-「互联网迷惑行为大赏」魅族真的开始卖-iPhone-了](https://www.v2ex.com/t/771016) 
@@ -46,4 +47,3 @@
 - [2021-04-15-iPad-Pro-的秒空键盘，大家谁用了？进来分享一下是否值得购买？](https://www.v2ex.com/t/770973) 
 - [2021-04-15-同栋楼狗从十点叫到现在（凌晨一点）最近经常这样，有什么办法解决吗](https://www.v2ex.com/t/770972) 
 - [2021-04-15-应该什么时候回国呢？](https://www.v2ex.com/t/770970) 
-- [2021-04-15-macbook-13-寸（M1-芯片）8G-内存，打开三个-idea-开发-Java-项目，-idea-频繁无响应，然后-idea-就直接没了！何解？](https://www.v2ex.com/t/770969) 

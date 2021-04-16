@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 01:55:54，:rocket: 更新条数: +4239， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 02:13:06，:rocket: 更新条数: +4239， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,8 +65,8 @@
 </summary>
 
 
+- [2021-04-16-4月15日全国新增新冠11例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-16/101691907.html) ![](assets/new.png)  
 - [2021-04-16-印度单日新增确诊首破20万人-全球疫苗供应紧缺｜大流行手记（4月15日）](https://m.caixin.com/m/2021-04-16/101691883.html) ![](assets/new.png)  
-- [2021-04-15-最新疫情：全国新冠累计确诊90457例-累计接种新冠疫苗超1.79亿剂次](https://m.caixin.com/m/2021-04-15/101691743.html) ![](assets/new.png)  
 - [2021-04-15-香港放宽新冠疫苗接种年龄限制-明年将采购新一代疫苗](https://m.caixin.com/m/2021-04-15/101691804.html) ![](assets/new.png)  
 - [2021-04-15-最新海外疫情：新冠感染超1.38亿-累计死亡超296万](https://m.caixin.com/m/2021-04-15/101691748.html) ![](assets/new.png)  
 - [2021-04-15-【境内疫情观察】全国新增10例境外输入病例（4月14日）](http://m.database.caixin.com/m/2021-04-15/101691588.html) ![](assets/new.png)  
@@ -996,7 +996,14 @@
 </summary>
 
 
-- [2021-04-16-每次使用-nvm-切换-node-版本后都需要重新处理-npm-yarn-找不到的问题？](https://www.v2ex.com/t/771011) ![](assets/new.png)  
+- [2021-04-16-Seamless-网页版上线，送码活动开启](https://www.v2ex.com/t/771018) ![](assets/new.png)  
+- [2021-04-16-在-SVG-中可以运行-Javascript-代码，那可不可以在-SVG-中调用-webgl-和-shader-进行渲染？不引用外部文件那种。如果可以的话，求给个参考的例子。](https://www.v2ex.com/t/771017) ![](assets/new.png)  
+- [2021-04-16-「互联网迷惑行为大赏」魅族真的开始卖-iPhone-了](https://www.v2ex.com/t/771016) ![](assets/new.png)  
+- [2021-04-16-开源中国——《开源项目用英文标识符就能招徕国外用户吗？》](https://www.v2ex.com/t/771015) ![](assets/new.png)  
+- [2021-04-16-字节再招-10000-人，看到招聘要求我傻了...](https://www.v2ex.com/t/771014) ![](assets/new.png)  
+- [2021-04-16-V2-的老师们，谁会-Jump-Desktop-这个远程软件，可付费指导](https://www.v2ex.com/t/771013) ![](assets/new.png)  
+- [2021-04-16-杭州内推社招-前端开发、-Java-开发都需要，快来人！](https://www.v2ex.com/t/771012) ![](assets/new.png)  
+- [2021-04-16-求解决办法每次使用-nvm-切换-node-版本后都需要重新处理-npm-yarn-找不到的问题？](https://www.v2ex.com/t/771011) ![](assets/new.png)  
 - [2021-04-16-你们怎么看现在-Python-的发展方向？](https://www.v2ex.com/t/771010) ![](assets/new.png)  
 - [2021-04-16-“沃”的一生，不“柑”平凡，有家果园云南沃柑小店限时抢购和抽奖福利来了](https://www.v2ex.com/t/771009) ![](assets/new.png)  
 - [2021-04-16-杭州无法正常访问吗，感觉有一个月了](https://www.v2ex.com/t/771007) ![](assets/new.png)  
@@ -1009,13 +1016,6 @@
 - [2021-04-16-DOGE-币有投资的价值吗？](https://www.v2ex.com/t/770996) ![](assets/new.png)  
 - [2021-04-16-2021-安卓手机的选择，纠结啊](https://www.v2ex.com/t/770995) ![](assets/new.png)  
 - [2021-04-16-miui-12-微信小程序添加到桌面失败。有么有老哥知道咋回事](https://www.v2ex.com/t/770994) ![](assets/new.png)  
-- [2021-04-16-因为国内部分开发人员的小心思，所以我更偏向较为封闭的-iPhone-手机。](https://www.v2ex.com/t/770993) ![](assets/new.png)  
-- [2021-04-16-互联网创业公司是否存在浪费人力资源和品牌力量](https://www.v2ex.com/t/770992) ![](assets/new.png)  
-- [2021-04-16-iPhone-突然无法上网](https://www.v2ex.com/t/770991) ![](assets/new.png)  
-- [2021-04-16-关于单片机嵌入式开发，各位用过哪些开发软件？](https://www.v2ex.com/t/770990) ![](assets/new.png)  
-- [2021-04-16-求助：-chrome-启动-windows-应用](https://www.v2ex.com/t/770989) ![](assets/new.png)  
-- [2021-04-16-如何权衡开发自测与测试？](https://www.v2ex.com/t/770988) ![](assets/new.png)  
-- [2021-04-16-DOGE-TO-MOON!-一早上-60%](https://www.v2ex.com/t/770987) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,19 +1065,19 @@
 - [2021-04-16-Kubernetes-部署利器-Helm-快速入门](https://toutiao.io/k/00axfg8) ![](assets/new.png)  
 - [2021-04-16-MySQL-提升笔记（一）：MySQL-逻辑架构](https://toutiao.io/k/n0xgxs1) ![](assets/new.png)  
 - [2021-04-16-Go-语言内部包：控制包成员的对外暴露](https://toutiao.io/k/0clcea6) ![](assets/new.png)  
-- [2021-04-16-2021-ThoughtWorks-技术雷达峰会---全讲师阵容震撼发布](https://toutiao.io/k/cd109fv) ![](assets/new.png)  
 - [2021-04-16-Go-可用性（五）：自适应限流](https://toutiao.io/k/8rglg7c) ![](assets/new.png)  
+- [2021-04-16-2021-ThoughtWorks-技术雷达峰会---全讲师阵容震撼发布](https://toutiao.io/k/cd109fv) ![](assets/new.png)  
 - [2021-04-16-ThreadPoolExecutor-线程池使用](https://toutiao.io/k/cbozvmj) ![](assets/new.png)  
 - [2021-04-16-低开销获取时间戳](https://toutiao.io/k/5a4o9sd) ![](assets/new.png)  
-- [2021-04-16-Spark-推荐实战系列之-Swing-算法介绍、实现与在阿里飞猪的实战应用](https://toutiao.io/k/od4cvmz) ![](assets/new.png)  
 - [2021-04-16-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
+- [2021-04-16-Spark-推荐实战系列之-Swing-算法介绍、实现与在阿里飞猪的实战应用](https://toutiao.io/k/od4cvmz) ![](assets/new.png)  
 - [2021-04-16-你可能不知道的-ZooKeeper-知识点](https://toutiao.io/k/9rduy12) ![](assets/new.png)  
 - [2021-04-16-Hexo-基于分类输出文章](https://toutiao.io/k/59ft88o) ![](assets/new.png)  
 - [2021-04-16-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-16-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
-- [2021-04-16-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
-- [2021-04-16-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-16-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
+- [2021-04-16-推荐-译-Uber：面向领域的微服务架构](https://toutiao.io/k/0yy2iga) ![](assets/new.png)  
+- [2021-04-16-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-16-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-16-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

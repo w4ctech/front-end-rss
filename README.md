@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 09:24:04，:rocket: 更新条数: +4241， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 09:39:15，:rocket: 更新条数: +4240， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-16-北京-游戏公司技术中台招贤](https://www.v2ex.com/t/771140) ![](assets/new.png)  
 - [2021-04-16-SPA-项目中通常主页之类的地方文字内容放在哪里？](https://www.v2ex.com/t/771139) ![](assets/new.png)  
 - [2021-04-16-为什么-openjdk.-Java-.net-下载的-JDK11-到-11.0.2-，而在-adoptopenjdk-能下载到-11.0.9+以上版本呢？](https://www.v2ex.com/t/771138) ![](assets/new.png)  
 - [2021-04-16-有没有大佬研究过瓦片图这种吗？手绘地图](https://www.v2ex.com/t/771137) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-16-（救救孩子吧）苹果春季发布会就要召开了，现在买的-iPad-pro-2020-可以拿去换新的-iPad-pro-2021-吗？](https://www.v2ex.com/t/771118) ![](assets/new.png)  
 - [2021-04-16-上海电信的天天宽带和翼长宽是一样的吗？](https://www.v2ex.com/t/771117) ![](assets/new.png)  
 - [2021-04-16-你们是怎么解决-VSCode-在-Mac-和-Windows-之间同步时的路径冲突的？](https://www.v2ex.com/t/771116) ![](assets/new.png)  
-- [2021-04-16-CODING-首届金融科技技术交流闭门会议顺利召开](https://www.v2ex.com/t/771115) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

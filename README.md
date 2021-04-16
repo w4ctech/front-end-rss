@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 03:54:03，:rocket: 更新条数: +4237， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 04:05:15，:rocket: 更新条数: +4234， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,8 +96,6 @@
 </summary>
 
 
-- [2021-04-15-北京｜无新增](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPnUmNbEgHdWJ5XA1lDTx210416&isfromapp=1) ![](assets/new.png)  
-- [2021-04-15-云南｜新增-1-例确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwGhVvviAYEojEtugXaV210416&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +994,10 @@
 </summary>
 
 
+- [2021-04-16-域名注册商注册域名的成本是多少，为什么不同注册商价格差距这么大？](https://www.v2ex.com/t/771063) ![](assets/new.png)  
+- [2021-04-16-FormMaking-1.3.0-新版发布，自定义表单支持数据源配置](https://www.v2ex.com/t/771062) ![](assets/new.png)  
+- [2021-04-16-过来人指导一下-mysql-集群方案?](https://www.v2ex.com/t/771061) ![](assets/new.png)  
+- [2021-04-16-Android-新机转移数据，有什么好的工具吗？](https://www.v2ex.com/t/771060) ![](assets/new.png)  
 - [2021-04-16-有没有什么好用的网页黑暗主题插件推荐](https://www.v2ex.com/t/771058) ![](assets/new.png)  
 - [2021-04-16-homepod-mini-音质还是不如三年前第一代的小水桶啊](https://www.v2ex.com/t/771057) ![](assets/new.png)  
 - [2021-04-16-上海北京内推社招校招实习哔哩哔哩-b-站-bilibili](https://www.v2ex.com/t/771056) ![](assets/new.png)  
@@ -1012,10 +1014,6 @@
 - [2021-04-16-钱存在支_付宝（网商银行）和传统银行哪个更安全？](https://www.v2ex.com/t/771035) ![](assets/new.png)  
 - [2021-04-16-在-OC-的单例类中，你会用静态方法还是实例方法还是-C-type-的方法？](https://www.v2ex.com/t/771031) ![](assets/new.png)  
 - [2021-04-16-Hugo-如何自建评论服务器？](https://www.v2ex.com/t/771030) ![](assets/new.png)  
-- [2021-04-16-doge-狗币飞天啦，有持有的-v-友嘛](https://www.v2ex.com/t/771029) ![](assets/new.png)  
-- [2021-04-16-来自-乐言科技-的招聘帖~](https://www.v2ex.com/t/771028) ![](assets/new.png)  
-- [2021-04-16-大家每天上班通勤时间多长？只想看单程-1-小时以上的](https://www.v2ex.com/t/771027) ![](assets/new.png)  
-- [2021-04-16-有什么办法可以禁用自带的键盘吗？](https://www.v2ex.com/t/771026) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1076,8 +1074,8 @@
 - [2021-04-16-强大的-Guava-工具类](https://toutiao.io/k/2bkoq2d) ![](assets/new.png)  
 - [2021-04-16-谷歌是如何做应急响应的](https://toutiao.io/k/nubisvh) ![](assets/new.png)  
 - [2021-04-16-洞察设计模式的底层逻辑](https://toutiao.io/k/ot335il) ![](assets/new.png)  
-- [2021-04-16-ConcurrentHashMap-有十个提升性能的地方，你都知道吗？](https://toutiao.io/k/yjh1gaw) ![](assets/new.png)  
 - [2021-04-16-Xcode-编译疾如风系列（二）：并行编译](https://toutiao.io/k/2kqd6u0) ![](assets/new.png)  
+- [2021-04-16-ConcurrentHashMap-有十个提升性能的地方，你都知道吗？](https://toutiao.io/k/yjh1gaw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

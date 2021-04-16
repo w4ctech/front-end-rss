@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-04-16 16:04:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-16 16:25:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-16-大家有没有-Kubernetes-Operator-教程推荐？](https://www.v2ex.com/t/771200) 
+- [2021-04-16-哪款小红点键盘体验最好？](https://www.v2ex.com/t/771199) 
+- [2021-04-16-月薪三千的我，突然被邀请面试年薪百万港币的工作](https://www.v2ex.com/t/771198) 
 - [2021-04-16-ios14-照相机永久关闭夜间模式，安装-app-不要-ding](https://www.v2ex.com/t/771197) 
 - [2021-04-16-请教各位关于-requests-timeout-的问题，有小伙伴设置了-timeout，但是还是导致卡死的情况吗?其根源问题到底是什么？求大佬帮忙](https://www.v2ex.com/t/771196) 
 - [2021-04-16-edge-安卓版版本已经跟上节奏了](https://www.v2ex.com/t/771193) 
@@ -31,5 +34,3 @@
 - [2021-04-16-迫于-ThinkPad-体验了一下苹果-11.1-big-sur](https://www.v2ex.com/t/771157) 
 - [2021-04-16-Cloudsigma-是否存在-IP-tracker?](https://www.v2ex.com/t/771154) 
 - [2021-04-16-发布一个节假日查询-API,有源码](https://www.v2ex.com/t/771152) 
-- [2021-04-16-哪里能出售自己写的主题？](https://www.v2ex.com/t/771150) 
-- [2021-04-16-在-IM-软件中如何解决会话丢失呢？](https://www.v2ex.com/t/771148) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 02:23:15，:rocket: 更新条数: +4239， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 02:31:22，:rocket: 更新条数: +4238， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-16-直接访问网站打不开，我竟然是特殊方式访问的。](https://www.v2ex.com/t/771021) ![](assets/new.png)  
 - [2021-04-16-其它语言有类似-mybatis-那种-mapper-的库](https://www.v2ex.com/t/771019) ![](assets/new.png)  
 - [2021-04-16-Seamless-网页版上线，送码活动开启](https://www.v2ex.com/t/771018) ![](assets/new.png)  
 - [2021-04-16-在-SVG-中可以运行-Javascript-代码，那可不可以在-SVG-中调用-webgl-和-shader-进行渲染？不引用外部文件那种。如果可以的话，求给个参考的例子。](https://www.v2ex.com/t/771017) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-16-狗狗币到底是不是一个庞氏骗局？](https://www.v2ex.com/t/770999) ![](assets/new.png)  
 - [2021-04-16-为什么大家纷纷要造车？](https://www.v2ex.com/t/770998) ![](assets/new.png)  
 - [2021-04-16-DOGE-币有投资的价值吗？](https://www.v2ex.com/t/770996) ![](assets/new.png)  
-- [2021-04-16-2021-安卓手机的选择，纠结啊](https://www.v2ex.com/t/770995) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1063,8 +1063,8 @@
 - [2021-04-16-海量数据业务有哪些优化手段？](https://toutiao.io/k/ae23a9e) ![](assets/new.png)  
 - [2021-04-16-Redis-入门-数据类型：3-种特殊类型详解](https://toutiao.io/k/4xposai) ![](assets/new.png)  
 - [2021-04-16-Kubernetes-部署利器-Helm-快速入门](https://toutiao.io/k/00axfg8) ![](assets/new.png)  
-- [2021-04-16-MySQL-提升笔记（一）：MySQL-逻辑架构](https://toutiao.io/k/n0xgxs1) ![](assets/new.png)  
 - [2021-04-16-Go-可用性（五）：自适应限流](https://toutiao.io/k/8rglg7c) ![](assets/new.png)  
+- [2021-04-16-MySQL-提升笔记（一）：MySQL-逻辑架构](https://toutiao.io/k/n0xgxs1) ![](assets/new.png)  
 - [2021-04-16-Go-语言内部包：控制包成员的对外暴露](https://toutiao.io/k/0clcea6) ![](assets/new.png)  
 - [2021-04-16-2021-ThoughtWorks-技术雷达峰会---全讲师阵容震撼发布](https://toutiao.io/k/cd109fv) ![](assets/new.png)  
 - [2021-04-16-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
@@ -1073,11 +1073,11 @@
 - [2021-04-16-Spark-推荐实战系列之-Swing-算法介绍、实现与在阿里飞猪的实战应用](https://toutiao.io/k/od4cvmz) ![](assets/new.png)  
 - [2021-04-16-Hexo-基于分类输出文章](https://toutiao.io/k/59ft88o) ![](assets/new.png)  
 - [2021-04-16-你可能不知道的-ZooKeeper-知识点](https://toutiao.io/k/9rduy12) ![](assets/new.png)  
-- [2021-04-16-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-16-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-16-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-16-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
+- [2021-04-16-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
+- [2021-04-16-推荐-Go-应用优化指北](https://toutiao.io/k/6jo6q1t) ![](assets/new.png)  
 - [2021-04-16-推荐-史上最全教程：idea-将-Java-项目打包-Jar-包，并生成-exe-可执行文件](https://toutiao.io/k/iyge3cy) ![](assets/new.png)  
-- [2021-04-16-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-16-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

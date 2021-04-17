@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-17 09:23:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 09:38:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -58,5 +58,4 @@
 - [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) 
 - [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) 
 - [2021-04-17-一个使用-React+Tailwind-CSS-模拟的网页版-Ubuntu2004](https://www.v2ex.com/t/771297) 
-- [2021-04-17-react-object-model:-面向对象的-react-状态管理，只依赖-react-hooks，简单、易用、高效](https://www.v2ex.com/t/771266) 
 - [2021-04-17-React-技术揭秘](https://toutiao.io/k/vahzjb1) 

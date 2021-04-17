@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-17 18:42:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 18:55:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -27,6 +27,5 @@
 - [2021-04-06-我经常和面试者聊的一个题目](https://www.ershicimi.com/p/a5d52276ba839bc69dcc08a851e8fbca) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-04-11-2021大数据开发面试高频100题最新汇总（附答案详解）-｜-极客大学](https://www.ershicimi.com/p/fb2d6cf91f5ce617c99d6548348dcff5) 
-- [2021-04-17-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) 
 - [2021-04-16-【招聘】苏州极光无限信息技术有限公司](https://sec.thief.one/article_content?a_id=e2f51a3b7008367a0633bbcdbc0748bf) 
 - [2021-04-15-干货集合-|-Java程序员的93家大厂面试真题](https://sec.thief.one/article_content?a_id=24ba2d7c218c7378084c4ebeb5f700fc) 

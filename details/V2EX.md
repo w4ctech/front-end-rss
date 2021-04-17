@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-17 02:20:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 02:29:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-17-异步-MySQL-库-databases-的-Table-结构怎么从经典模式转成-ORM？](https://www.v2ex.com/t/771237) 
+- [2021-04-17-尴尬的面试题，没有解决，估计面试官在后台偷笑](https://www.v2ex.com/t/771236) 
 - [2021-04-17-怎么没看到给-V2EX-提工单的帖子呢，-想提的人是连不上么](https://www.v2ex.com/t/771233) 
 - [2021-04-17-Windows-推送基于-Chromium-的-Edge-版本了](https://www.v2ex.com/t/771232) 
 - [2021-04-17-出个-S8-Lite，-4+64，国行，电池-82-健康度，无磕碰，京东自营-18-年-11-月买入。深圳西乡自提最好。](https://www.v2ex.com/t/771231) 

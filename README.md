@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-17 02:20:23，:rocket: 更新条数: +4226， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-17 02:29:42，:rocket: 更新条数: +4228， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-17-异步-MySQL-库-databases-的-Table-结构怎么从经典模式转成-ORM？](https://www.v2ex.com/t/771237) ![](assets/new.png)  
+- [2021-04-17-尴尬的面试题，没有解决，估计面试官在后台偷笑](https://www.v2ex.com/t/771236) ![](assets/new.png)  
 - [2021-04-17-怎么没看到给-V2EX-提工单的帖子呢，-想提的人是连不上么](https://www.v2ex.com/t/771233) ![](assets/new.png)  
 - [2021-04-17-Windows-推送基于-Chromium-的-Edge-版本了](https://www.v2ex.com/t/771232) ![](assets/new.png)  
 - [2021-04-17-出个-S8-Lite，-4+64，国行，电池-82-健康度，无磕碰，京东自营-18-年-11-月买入。深圳西乡自提最好。](https://www.v2ex.com/t/771231) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-16-域名转移到-Cloudflare-还能够转发邮件吗？转发刀-Cloudflare-会有什么限制呀？我-namesilo-上买的。](https://www.v2ex.com/t/771213) ![](assets/new.png)  
 - [2021-04-16-大容量硬盘成为新的理财产品](https://www.v2ex.com/t/771212) ![](assets/new.png)  
 - [2021-04-16-苹果的-Trade-in-过于霸道](https://www.v2ex.com/t/771211) ![](assets/new.png)  
-- [2021-04-16-想给自己挖个大坑，有人要看热闹么？](https://www.v2ex.com/t/771208) ![](assets/new.png)  
-- [2021-04-16-微星-MSI-论坛登入故障](https://www.v2ex.com/t/771207) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1068,16 @@
 - [2021-04-17-Android-逆向之某-App-逆向实践](https://toutiao.io/k/9j7191v) ![](assets/new.png)  
 - [2021-04-17-React-技术揭秘](https://toutiao.io/k/vahzjb1) ![](assets/new.png)  
 - [2021-04-17-Kubernetes-部署-Longhorn](https://toutiao.io/k/qw374hn) ![](assets/new.png)  
-- [2021-04-17-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
-- [2021-04-17-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-17-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
-- [2021-04-17-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
-- [2021-04-17-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
-- [2021-04-17-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-17-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-17-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [2021-04-17-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-17-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
 - [2021-04-17-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-17-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-17-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-17-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-17-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
+- [2021-04-17-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-17-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-17-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

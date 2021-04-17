@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-17 21:51:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 22:03:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -424,9 +424,9 @@
 - [【互联网架构师】一文全面解析-Postman-工具](https://www.ershicimi.com/p/c99ef132fe246495128025df622cf65c)
 - [【InfoQ】全世界下载量超-100-亿，curl-怎样成为影响世界的开源项目？](https://www.ershicimi.com/p/f95ec01a19a44e7f8bc459e370f801ca)
 - [【JavaScript】Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715)
+- [【开发者头条】推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo)
 - [【安全热点】安全招聘汇总-|-第十三期](https://sec.thief.one/article_content?a_id=3d968408ba44125c0909a946f9d3b4a2)
 - [【安全热点】内推福利-|-渗透测试工程师/C++工程师/逆向安全工程师](https://sec.thief.one/article_content?a_id=3591825a6dd0aa4d10742bb52de830dc)
-- [【安全热点】Chrome安全问题可能导致Windows版微信任意代码执行漏洞通告](https://sec.thief.one/article_content?a_id=d54a4bd5ef030059f7aa89bf601bb8c1)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -493,9 +493,9 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】Windows-Terminal-里面使用-GitBash-没有历史记录](https://www.v2ex.com/t/771369)
-- [【开发者头条】推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb)
-- [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
 - [【开发者头条】推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y)
+- [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
+- [【开发者头条】推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb)
 - [【安全热点】黑客用GitHub服务器挖矿,三天跑了3万个任务,代码惊现中文](https://sec.thief.one/article_content?a_id=817eeee93cd0e8cef12237e8a8cf6d02)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

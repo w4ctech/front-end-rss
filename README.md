@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-17 15:03:09，:rocket: 更新条数: +4226， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-17 15:24:39，:rocket: 更新条数: +4227， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,12 @@
 </summary>
 
 
+- [2021-04-17-Windows-Terminal-里面使用-GitBash-没有历史记录](https://www.v2ex.com/t/771369) ![](assets/new.png)  
+- [2021-04-17-你们用的-Word-模板文件都带框么](https://www.v2ex.com/t/771367) ![](assets/new.png)  
+- [2021-04-17-请教一下-4K-视频的正确导出姿势？](https://www.v2ex.com/t/771366) ![](assets/new.png)  
+- [2021-04-17-outlook-如何设置每天特定时间段自动回复，不在特定时间段自动恢复正常](https://www.v2ex.com/t/771365) ![](assets/new.png)  
+- [2021-04-17-在手机勿扰状态下，咸鱼依旧在新消息来时，发出提示音。](https://www.v2ex.com/t/771364) ![](assets/new.png)  
+- [2021-04-17-写了一个类似-fastapi-的可以用于几种-web-框架的参数检验库](https://www.v2ex.com/t/771363) ![](assets/new.png)  
 - [2021-04-17-求助-有没有要入手-apple-或者华为或者其他-3c-产品的](https://www.v2ex.com/t/771360) ![](assets/new.png)  
 - [2021-04-17-大家都玩上了吗？](https://www.v2ex.com/t/771359) ![](assets/new.png)  
 - [2021-04-17-2021-年-4-月了，-m1-的-MacBook-是买还是等新的](https://www.v2ex.com/t/771358) ![](assets/new.png)  
@@ -1010,12 +1016,6 @@
 - [2021-04-17-请问有什么好的装修公司推荐吗？](https://www.v2ex.com/t/771342) ![](assets/new.png)  
 - [2021-04-17-你觉得现阶段三大运营商-5G-真实体验是什么样的](https://www.v2ex.com/t/771340) ![](assets/new.png)  
 - [2021-04-17-怎么获取-dev-insider-版本-windows-呢](https://www.v2ex.com/t/771339) ![](assets/new.png)  
-- [2021-04-17-Nvidia-驱动在-Windows-里面有没有自带的能降频的工具?](https://www.v2ex.com/t/771338) ![](assets/new.png)  
-- [2021-04-17-诚心请教，校招生不想写纯业务代码，如何选择更好的发展方向？](https://www.v2ex.com/t/771337) ![](assets/new.png)  
-- [2021-04-17-周末倒腾：更新云服务测量-msmbps-专业版（新的测试目标的列表），美国服务器突然很难连上（个人网站搬回香港），-7z-vs-rar-后续](https://www.v2ex.com/t/771336) ![](assets/new.png)  
-- [2021-04-17-辞职作为独立开发者，第一个上线-App，物时，-iOS-版](https://www.v2ex.com/t/771332) ![](assets/new.png)  
-- [2021-04-17-自用小奔-gla-长租](https://www.v2ex.com/t/771331) ![](assets/new.png)  
-- [2021-04-17-为了避免被-Big-Sur-的纯白标题栏工具栏亮瞎](https://www.v2ex.com/t/771330) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1068,16 @@
 - [2021-04-17-寒门学子的奋斗史（三）：走进大城市](https://toutiao.io/k/acoe8qh) ![](assets/new.png)  
 - [2021-04-17-React-技术揭秘](https://toutiao.io/k/vahzjb1) ![](assets/new.png)  
 - [2021-04-17-Kubernetes-部署-Longhorn](https://toutiao.io/k/qw374hn) ![](assets/new.png)  
-- [2021-04-17-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-17-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-17-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
-- [2021-04-17-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-17-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
-- [2021-04-17-推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w) ![](assets/new.png)  
+- [2021-04-17-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-17-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-17-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
 - [2021-04-17-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
 - [2021-04-17-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-17-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-17-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-17-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-17-推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w) ![](assets/new.png)  
+- [2021-04-17-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-17-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-17-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

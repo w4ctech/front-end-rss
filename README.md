@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-17 00:47:10，:rocket: 更新条数: +4223， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-17 01:15:03，:rocket: 更新条数: +4224， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2021-04-16-最新疫情：全国新冠累计确诊90468例-累计接种新冠疫苗超1.83亿剂次](https://m.caixin.com/m/2021-04-16/101692188.html) ![](assets/new.png)  
+- [2021-04-17-4月16日全国新增新冠15例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-17/101692520.html) ![](assets/new.png)  
 - [2021-04-16-最新海外疫情：新冠感染近1.39亿-累计死亡超298万](https://m.caixin.com/m/2021-04-16/101692181.html) ![](assets/new.png)  
 - [2021-04-16-印度单日新增确诊首破20万人-全球疫苗供应紧缺｜大流行手记（4月15日）](https://m.caixin.com/m/2021-04-16/101691883.html) ![](assets/new.png)  
 - [2021-04-15-香港放宽新冠疫苗接种年龄限制-明年将采购新一代疫苗](https://m.caixin.com/m/2021-04-15/101691804.html) ![](assets/new.png)  
@@ -616,6 +616,7 @@
 </summary>
 
 
+- [2021-04-16-Node.js-如何创建软连接，与硬链接区别是什么？](https://www.ershicimi.com/p/0387dde19d401c87bd7912f03583d128) ![](assets/new.png)  
 - [2021-04-15-Vue-和-React-源码大PK，看这篇就够了](https://www.ershicimi.com/p/191f3f8db94d53656f146486fdaec3aa) ![](assets/new.png)  
 - [2021-04-15-细节满满的四轮字节跳动面经](https://www.ershicimi.com/p/66c0a92e56cfad7990424605d9e4ed68) ![](assets/new.png)  
 - [2021-04-15-CORS-完全手册之-CORS-详解](https://www.ershicimi.com/p/4611dd35ef482198b814deea154312b2) ![](assets/new.png)  
@@ -635,7 +636,6 @@
 - [2021-04-08-探讨浏览器指纹科普](https://www.ershicimi.com/p/7d4bebcb0d6f1dc91ec1d4c3e266ae22) ![](assets/new.png)  
 - [2021-04-07-如何应用Node.js打造个人提效工作链？](https://www.ershicimi.com/p/9651e919a5b5f710d00d4e7050649daf) ![](assets/new.png)  
 - [2021-04-07-BFF模式：微服务前端数据加载的最佳实践？](https://www.ershicimi.com/p/c05a8a9cc8e39496ab3e212abd2af048) ![](assets/new.png)  
-- [2021-04-07-使用-Node.js-搭建一个-API-网关助力微服务](https://www.ershicimi.com/p/0e5a3091b8013c340e40e0728a138036) ![](assets/new.png)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -746,6 +746,7 @@
 </summary>
 
 
+- [2021-04-14-Vue-&-React-&-Vite源码大PK](https://www.ershicimi.com/p/46a0e5b9370ea24fa42aa9907203e363) ![](assets/new.png)  
 - [2021-04-13-Taro-3.2.0-正式版发布，支持-React-Native](https://www.ershicimi.com/p/2391e2b7c25d80aad78e1382a43d5b11) ![](assets/new.png)  
 - [2021-04-09-NativeScript-8.0-已发布](https://www.ershicimi.com/p/f61683ff1778e6b38bbf8a0942895556) ![](assets/new.png)  
 - [2021-04-08-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/9e0a0e7b6559752b7a0a05ada834fad8) ![](assets/new.png)  
@@ -765,7 +766,6 @@
 - [2021-03-03-面试官：谈谈虚拟dom在Vue和React中的应用](https://www.ershicimi.com/p/fb8079a9d2d3d57ed387b22c88b3b6b4) ![](assets/new.png)  
 - [2021-02-23-那些只会-Vue-的前端，过的怎么样了？](https://www.ershicimi.com/p/7f8e91c9240a54bcc837f8d62539f72c) ![](assets/new.png)  
 - [2021-02-22-面试官：谈一下React-的Fiber架构和Hooks](https://www.ershicimi.com/p/28c9dc799df2d7a8a8577ec53e400342) ![](assets/new.png)  
-- [2021-02-18-从入门时月薪2K到跳槽大厂月薪40K,他经历了什么？](https://www.ershicimi.com/p/ba37ba06aa1cc74d89cf855e89f651b6) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-17-V2-是不是被墙了？](https://www.v2ex.com/t/771224) ![](assets/new.png)  
+- [2021-04-17-NodeJs-中-代理、转发相关的问题？](https://www.v2ex.com/t/771223) ![](assets/new.png)  
+- [2021-04-17-各位哥哥们，请教一个-offer-的问题，麻烦给点意见呀](https://www.v2ex.com/t/771222) ![](assets/new.png)  
 - [2021-04-17-NVIDIA-内推](https://www.v2ex.com/t/771220) ![](assets/new.png)  
 - [2021-04-17-egg-有没有什么工具能够从-typescript-中-生成-swagger-文档，-contract-写的好麻烦](https://www.v2ex.com/t/771219) ![](assets/new.png)  
 - [2021-04-16-Teamviewer-远程连接，无法获取被控端声音](https://www.v2ex.com/t/771217) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-16-大家有没有-Kubernetes-Operator-教程推荐？](https://www.v2ex.com/t/771200) ![](assets/new.png)  
 - [2021-04-16-哪款小红点键盘体验最好？](https://www.v2ex.com/t/771199) ![](assets/new.png)  
 - [2021-04-16-月薪三千的我，突然被邀请面试年薪百万港币的工作](https://www.v2ex.com/t/771198) ![](assets/new.png)  
-- [2021-04-16-ios14-照相机永久关闭夜间模式，安装-app-不要-ding](https://www.v2ex.com/t/771197) ![](assets/new.png)  
-- [2021-04-16-请教各位关于-requests-timeout-的问题，有小伙伴设置了-timeout，但是还是导致卡死的情况吗?其根源问题到底是什么？求大佬帮忙](https://www.v2ex.com/t/771196) ![](assets/new.png)  
-- [2021-04-16-edge-安卓版版本已经跟上节奏了](https://www.v2ex.com/t/771193) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1061,23 +1061,23 @@
 - [2021-04-17-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
 - [2021-04-17-CAP：分布式事务的解决方案](https://toutiao.io/k/mbgrz85) ![](assets/new.png)  
 - [2021-04-17-寒门学子的奋斗史（三）：走进大城市](https://toutiao.io/k/acoe8qh) ![](assets/new.png)  
-- [2021-04-17-资料-|-Go-语言实用教程](https://toutiao.io/k/9squgg8) ![](assets/new.png)  
-- [2021-04-17-Nginx-Buffer-机制引发的下载故障](https://toutiao.io/k/6ld5fxn) ![](assets/new.png)  
-- [2021-04-17-使用协程和-Flow-简化-API-设计](https://toutiao.io/k/yxdpzkx) ![](assets/new.png)  
 - [2021-04-17-用-Go-struct-不能犯的一个低级错误](https://toutiao.io/k/5gpirgo) ![](assets/new.png)  
+- [2021-04-17-Nginx-Buffer-机制引发的下载故障](https://toutiao.io/k/6ld5fxn) ![](assets/new.png)  
+- [2021-04-17-资料-|-Go-语言实用教程](https://toutiao.io/k/9squgg8) ![](assets/new.png)  
+- [2021-04-17-使用协程和-Flow-简化-API-设计](https://toutiao.io/k/yxdpzkx) ![](assets/new.png)  
 - [2021-04-17-Android-逆向之某-App-逆向实践](https://toutiao.io/k/9j7191v) ![](assets/new.png)  
-- [2021-04-17-Kubernetes-部署-Longhorn](https://toutiao.io/k/qw374hn) ![](assets/new.png)  
 - [2021-04-17-React-技术揭秘](https://toutiao.io/k/vahzjb1) ![](assets/new.png)  
-- [2021-04-17-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
-- [2021-04-17-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-17-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-17-Kubernetes-部署-Longhorn](https://toutiao.io/k/qw374hn) ![](assets/new.png)  
 - [2021-04-17-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-17-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
-- [2021-04-17-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
-- [2021-04-17-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-17-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
 - [2021-04-17-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
-- [2021-04-17-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-17-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-17-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-17-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
+- [2021-04-17-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-17-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-17-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-17-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-17-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

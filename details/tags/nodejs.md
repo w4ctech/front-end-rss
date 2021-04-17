@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-17 09:38:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 09:52:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -18,6 +18,5 @@
 - [2021-04-07-如何应用Node.js打造个人提效工作链？](https://www.ershicimi.com/p/9651e919a5b5f710d00d4e7050649daf) 
 - [2021-04-07-如何应用Node.js打造个人提效工作链？](https://www.ershicimi.com/p/567981ae7d174e4109608888575c3207) 
 - [2021-03-09-作为前端开发，Node.js-你得了解下～](https://www.ershicimi.com/p/0f3e9093221929dddea3c6dd757ae61b) 
-- [2021-04-17-HaaS-微服务:-托管-Node-RED-的微服务工作台开放内测啦](https://www.v2ex.com/t/771269) 
 - [2021-04-15-天融信关于Chrome-V8引擎远程代码执行0day漏洞风险提示](https://sec.thief.one/article_content?a_id=41c7fb430b3dac3854e6cd5ccaf2e99d) 
 - [2021-04-14-CNNVD-关于Google-Chrome-V8-engine输入验证错误漏洞的预警](https://sec.thief.one/article_content?a_id=5d84d050698cbb71e6e14784625d6e9b) 

@@ -20395,6 +20395,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "读研还是去华为 OD",
+        "link": "https://www.v2ex.com/t/771327",
+        "date": "2021-04-17"
+      },
+      {
         "title": "想问一下前辈们关于 DOM diff",
         "link": "https://www.v2ex.com/t/771326",
         "date": "2021-04-17"
@@ -20563,11 +20568,6 @@
         "title": "一个日活只有 1000 的 app，能有多少收入呢？",
         "link": "https://www.v2ex.com/t/771278",
         "date": "2021-04-17"
-      },
-      {
-        "title": "arm 版 ubuntu 有 chrome 吗？",
-        "link": "https://www.v2ex.com/t/771277",
-        "date": "2021-04-17"
       }
     ]
   },
@@ -20734,28 +20734,8 @@
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
         "date": "2021-04-17"
       },
       {
@@ -20764,18 +20744,28 @@
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
         "date": "2021-04-17"
       },
       {
@@ -20784,8 +20774,18 @@
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
-        "link": "https://toutiao.io/k/hti1ill",
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
         "date": "2021-04-17"
       },
       {
@@ -20799,13 +20799,13 @@
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
+        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
+        "link": "https://toutiao.io/k/hti1ill",
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-17"
       }
     ]

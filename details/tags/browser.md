@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-17 10:38:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 10:51:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,7 +43,6 @@
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
 - [2021-04-17-［内推］蚂蚁金服安全风险平台-SRE](https://www.v2ex.com/t/771313) 
 - [2021-04-17-有没有-Chrome-插件或脚本可以直接显示超链的-url](https://www.v2ex.com/t/771294) 
-- [2021-04-17-arm-版-ubuntu-有-chrome-吗？](https://www.v2ex.com/t/771277) 
 - [2021-04-17-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-17-安全招聘汇总-|-第十三期](https://sec.thief.one/article_content?a_id=3d968408ba44125c0909a946f9d3b4a2) 
 - [2021-04-17-内推福利-|-渗透测试工程师/C++工程师/逆向安全工程师](https://sec.thief.one/article_content?a_id=3591825a6dd0aa4d10742bb52de830dc) 

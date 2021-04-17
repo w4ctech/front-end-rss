@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-17 03:12:01，:rocket: 更新条数: +4227， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-17 03:24:25，:rocket: 更新条数: +4227， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,10 @@
 </summary>
 
 
+- [2021-04-17-www.10010.com-联通官网-IPV6-访问异常](https://www.v2ex.com/t/771248) ![](assets/new.png)  
+- [2021-04-17-真就一入外包深似海吗？](https://www.v2ex.com/t/771246) ![](assets/new.png)  
+- [2021-04-17-mac-mini-键盘识别错位](https://www.v2ex.com/t/771244) ![](assets/new.png)  
+- [2021-04-17-求游戏人物起名网站-中文-二次元-日系等等](https://www.v2ex.com/t/771243) ![](assets/new.png)  
 - [2021-04-17-索尼发布旗舰智能手机-Xperia-1-III-等](https://www.v2ex.com/t/771242) ![](assets/new.png)  
 - [2021-04-17-新手求问，-swiftui-的文档应该怎么去阅读理解？救命啊。。](https://www.v2ex.com/t/771241) ![](assets/new.png)  
 - [2021-04-17-关于目前所在的外包公司是否要离职的询问，咨询各位-V-友](https://www.v2ex.com/t/771239) ![](assets/new.png)  
@@ -1012,10 +1016,6 @@
 - [2021-04-17-各位哥哥们，请教一个-offer-的问题，麻烦给点意见呀](https://www.v2ex.com/t/771222) ![](assets/new.png)  
 - [2021-04-17-NVIDIA-内推](https://www.v2ex.com/t/771220) ![](assets/new.png)  
 - [2021-04-17-egg-有没有什么工具能够从-typescript-中-生成-swagger-文档，-contract-写的好麻烦](https://www.v2ex.com/t/771219) ![](assets/new.png)  
-- [2021-04-16-Teamviewer-远程连接，无法获取被控端声音](https://www.v2ex.com/t/771217) ![](assets/new.png)  
-- [2021-04-16-诸君帮看看这样的需求用哪个框架好做。。。](https://www.v2ex.com/t/771216) ![](assets/new.png)  
-- [2021-04-16-小米系统电池没电倒数-30s-关机](https://www.v2ex.com/t/771215) ![](assets/new.png)  
-- [2021-04-16-域名转移到-Cloudflare-还能够转发邮件吗？转发刀-Cloudflare-会有什么限制呀？我-namesilo-上买的。](https://www.v2ex.com/t/771213) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1068,16 @@
 - [2021-04-17-Android-逆向之某-App-逆向实践](https://toutiao.io/k/9j7191v) ![](assets/new.png)  
 - [2021-04-17-React-技术揭秘](https://toutiao.io/k/vahzjb1) ![](assets/new.png)  
 - [2021-04-17-Kubernetes-部署-Longhorn](https://toutiao.io/k/qw374hn) ![](assets/new.png)  
+- [2021-04-17-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-17-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-17-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
+- [2021-04-17-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
+- [2021-04-17-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-17-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-17-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-17-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
 - [2021-04-17-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
 - [2021-04-17-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-17-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-17-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
-- [2021-04-17-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-17-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-17-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
-- [2021-04-17-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-17-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-17-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

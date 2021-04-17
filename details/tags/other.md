@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-17 15:24:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 15:39:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3404,7 +3404,6 @@
 - [2021-04-17-读研还是去华为-OD](https://www.v2ex.com/t/771327) 
 - [2021-04-17-美团内推，扫码可见所有开放岗位，欢迎投递](https://www.v2ex.com/t/771325) 
 - [2021-04-17-大四校招，有点迷茫，刚刚想转-Java-开发，学了半个月，发现自己的学习能力还是偏弱，只收到了一个烽火的-12Woffer，还值得去吗？拉低了大家的平均水平···](https://www.v2ex.com/t/771322) 
-- [2021-04-17-很想吐槽一下目前的前端同事](https://www.v2ex.com/t/771320) 
 - [2021-04-17-Doge.jpg-的背后是什么，你知道么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14292&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F347658697%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-17-如何通过开发快应用赚取睡后收入？-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14291&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F30%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-17-如何基于-Flarum-搭建一个优雅简洁论坛？-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=14290&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F03%2F22%2F189-how-to-install-flarum-based-on-docker%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -3428,14 +3427,14 @@
 - [2021-04-17-Android-逆向之某-App-逆向实践](https://toutiao.io/k/9j7191v) 
 - [2021-04-17-寒门学子的奋斗史（三）：走进大城市](https://toutiao.io/k/acoe8qh) 
 - [2021-04-17-Kubernetes-部署-Longhorn](https://toutiao.io/k/qw374hn) 
-- [2021-04-17-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
-- [2021-04-17-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
-- [2021-04-17-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
-- [2021-04-17-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
 - [2021-04-17-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
+- [2021-04-17-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
+- [2021-04-17-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
 - [2021-04-17-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
-- [2021-04-17-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
 - [2021-04-17-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
+- [2021-04-17-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
+- [2021-04-17-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
+- [2021-04-17-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
 - [2021-04-17-报告数据泄露反被起诉,法案灰色地带再引争议](https://sec.thief.one/article_content?a_id=7aaed7277196fc89476408724e9c20f9) 
 - [2021-04-17-网安杂谈收藏夹2021.4.17](https://sec.thief.one/article_content?a_id=2aedfd72b7fa78f46f35746c90626095) 
 - [2021-04-17-习语典读丨众行致远](https://sec.thief.one/article_content?a_id=faa99263b8a9652e942a5e4b87f2ace3) 

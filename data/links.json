@@ -20385,6 +20385,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "NVIDIA 内推",
+        "link": "https://www.v2ex.com/t/771220",
+        "date": "2021-04-17"
+      },
+      {
         "title": "egg 有没有什么工具能够从 typescript 中 生成 swagger 文档， contract 写的好麻烦",
         "link": "https://www.v2ex.com/t/771219",
         "date": "2021-04-17"
@@ -20533,11 +20538,6 @@
         "title": "[上海/北京/杭州/武汉][社招/校招/实习][四月冲鸭，进面有红包][抖音电商]后端开发工程师",
         "link": "https://www.v2ex.com/t/771172",
         "date": "2021-04-16"
-      },
-      {
-        "title": "Android 应用程序如何缩小体积？",
-        "link": "https://www.v2ex.com/t/771170",
-        "date": "2021-04-16"
       }
     ]
   },
@@ -20659,8 +20659,18 @@
         "date": "2021-04-17"
       },
       {
+        "title": "CAP：分布式事务的解决方案",
+        "link": "https://toutiao.io/k/mbgrz85",
+        "date": "2021-04-17"
+      },
+      {
         "title": "寒门学子的奋斗史（三）：走进大城市",
         "link": "https://toutiao.io/k/acoe8qh",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "资料 | Go 语言实用教程",
+        "link": "https://toutiao.io/k/9squgg8",
         "date": "2021-04-17"
       },
       {
@@ -20671,16 +20681,6 @@
       {
         "title": "使用协程和 Flow 简化 API 设计",
         "link": "https://toutiao.io/k/yxdpzkx",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "CAP：分布式事务的解决方案",
-        "link": "https://toutiao.io/k/mbgrz85",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "资料 | Go 语言实用教程",
-        "link": "https://toutiao.io/k/9squgg8",
         "date": "2021-04-17"
       },
       {
@@ -20709,28 +20709,13 @@
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
-        "date": "2021-04-17"
-      },
-      {
         "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
         "link": "https://toutiao.io/k/feyaceo",
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
         "date": "2021-04-17"
       },
       {
@@ -20739,13 +20724,8 @@
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-17"
       },
       {
@@ -20754,8 +20734,13 @@
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
         "date": "2021-04-17"
       },
       {
@@ -20764,8 +20749,23 @@
         "date": "2021-04-17"
       },
       {
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-17"
+      },
+      {
         "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
         "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
         "date": "2021-04-17"
       },
       {
@@ -20774,8 +20774,8 @@
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
         "date": "2021-04-17"
       }
     ]

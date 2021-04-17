@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-17 00:25:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 00:47:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-17-NVIDIA-内推](https://www.v2ex.com/t/771220) 
 - [2021-04-17-egg-有没有什么工具能够从-typescript-中-生成-swagger-文档，-contract-写的好麻烦](https://www.v2ex.com/t/771219) 
 - [2021-04-16-Teamviewer-远程连接，无法获取被控端声音](https://www.v2ex.com/t/771217) 
 - [2021-04-16-诸君帮看看这样的需求用哪个框架好做。。。](https://www.v2ex.com/t/771216) 
@@ -35,4 +36,3 @@
 - [2021-04-16-Shopee-内推-新加坡、深圳、上海，新增北京办公室！-专场招聘会一天搞定面试！](https://www.v2ex.com/t/771176) 
 - [2021-04-16-PlatformIO-目前只是玩具，单片机开发还得用-Keil](https://www.v2ex.com/t/771173) 
 - [2021-04-16-上海/北京/杭州/武汉社招/校招/实习四月冲鸭，进面有红包抖音电商后端开发工程师](https://www.v2ex.com/t/771172) 
-- [2021-04-16-Android-应用程序如何缩小体积？](https://www.v2ex.com/t/771170) 

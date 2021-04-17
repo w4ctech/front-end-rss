@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-17 08:39:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 08:52:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,7 +43,6 @@
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
 - [2021-04-17-有没有-Chrome-插件或脚本可以直接显示超链的-url](https://www.v2ex.com/t/771294) 
 - [2021-04-17-arm-版-ubuntu-有-chrome-吗？](https://www.v2ex.com/t/771277) 
-- [2021-04-17-网页版的-SSH-&-SFTP-服务器连接工具，更新啦！（支持部署个人服务器，加强安全信任问题）](https://www.v2ex.com/t/771250) 
 - [2021-04-17-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-16-【安全圈】ParkMobile暴露2100万用户的车牌数据](https://sec.thief.one/article_content?a_id=d4e80b6d2d49b58ee3583eadee7be512) 
 - [2021-04-16-奇安信参与编写的金融数据安全生命周期规范日前正式发布](https://sec.thief.one/article_content?a_id=ce08ad0436f4c176f280fa37b925f3c3) 

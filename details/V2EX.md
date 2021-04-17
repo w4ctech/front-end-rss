@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-17 12:56:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 13:08:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -37,5 +37,3 @@
 - [2021-04-17-MySQL-大表有性能问题，但如果只查最近的数据呢？](https://www.v2ex.com/t/771301) 
 - [2021-04-17-毕业人想去见见朋友](https://www.v2ex.com/t/771300) 
 - [2021-04-17-如何解决接朋友时「在马路左-/-右边等你」，等我到了发现还是错了](https://www.v2ex.com/t/771298) 
-- [2021-04-17-一个使用-React+Tailwind-CSS-模拟的网页版-Ubuntu2004](https://www.v2ex.com/t/771297) 
-- [2021-04-17-用-go-写的-http-服务，如果中间有-bug，怎样才能不影响其他访问](https://www.v2ex.com/t/771296) 

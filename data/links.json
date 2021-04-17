@@ -5,8 +5,13 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "4月16日全国新增新冠15例 本土1例在云南瑞丽",
-        "link": "https://m.caixin.com/m/2021-04-17/101692520.html",
+        "title": "最新疫情：全国新冠累计确诊90483例 累计接种新冠疫苗超1.87亿剂次",
+        "link": "https://m.caixin.com/m/2021-04-17/101692750.html",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "最新海外疫情：新冠感染超1.39亿 累计死亡超299万",
+        "link": "https://m.caixin.com/m/2021-04-17/101692746.html",
         "date": "2021-04-17"
       },
       {
@@ -18,11 +23,6 @@
         "title": "辉瑞称接种者或需打第三剂疫苗 以色列取消户外口罩令｜大流行手记（4月16日）",
         "link": "https://m.caixin.com/m/2021-04-17/101692553.html",
         "date": "2021-04-17"
-      },
-      {
-        "title": "最新海外疫情：新冠感染近1.39亿 累计死亡超298万",
-        "link": "https://m.caixin.com/m/2021-04-16/101692181.html",
-        "date": "2021-04-16"
       },
       {
         "title": "印度单日新增确诊首破20万人 全球疫苗供应紧缺｜大流行手记（4月15日）",
@@ -20563,11 +20563,6 @@
         "title": "程序员是否离不开 Google 搜索?有没有同等搜索质量的替代品?",
         "link": "https://www.v2ex.com/t/771275",
         "date": "2021-04-17"
-      },
-      {
-        "title": "@Transactional VS @Transactional(rollbackFor = Exception.class)",
-        "link": "https://www.v2ex.com/t/771273",
-        "date": "2021-04-17"
       }
     ]
   },
@@ -20734,13 +20729,43 @@
         "date": "2021-04-17"
       },
       {
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
+        "date": "2021-04-17"
+      },
+      {
         "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
         "link": "https://toutiao.io/k/hti1ill",
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
         "date": "2021-04-17"
       },
       {
@@ -20754,43 +20779,8 @@
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
         "date": "2021-04-17"
       },
       {
@@ -20799,13 +20789,18 @@
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
         "date": "2021-04-17"
       },
       {
         "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
         "link": "https://toutiao.io/k/6aau0fc",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
         "date": "2021-04-17"
       }
     ]
@@ -20815,6 +20810,86 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "报告数据泄露反被起诉,法案灰色地带再引争议",
+        "link": "https://sec.thief.one/article_content?a_id=7aaed7277196fc89476408724e9c20f9",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "一道算法题",
+        "link": "https://sec.thief.one/article_content?a_id=9a72176eb9b3dfc0f37bd4a83bda903a",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "网安杂谈收藏夹2021.4.17",
+        "link": "https://sec.thief.one/article_content?a_id=2aedfd72b7fa78f46f35746c90626095",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "Chrome V8 RCE 0day之WeChatWeb",
+        "link": "https://sec.thief.one/article_content?a_id=50058a99be7d4a87babe8488d367d653",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "习语典读丨众行致远",
+        "link": "https://sec.thief.one/article_content?a_id=faa99263b8a9652e942a5e4b87f2ace3",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "安全招聘汇总 | 第十三期",
+        "link": "https://sec.thief.one/article_content?a_id=3d968408ba44125c0909a946f9d3b4a2",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "DDoS攻击正演变为以勒索为主导的RDoS活动",
+        "link": "https://sec.thief.one/article_content?a_id=31cdec123ab59b30790bf0f226b12666",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "假如易立竞吐槽程序员……",
+        "link": "https://sec.thief.one/article_content?a_id=6f2549007ca64feae8d47af86bc76eee",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "内推福利 | 渗透测试工程师/C++工程师/逆向安全工程师",
+        "link": "https://sec.thief.one/article_content?a_id=3591825a6dd0aa4d10742bb52de830dc",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "微信被爆出存在高危0day漏洞!新版本已修复,看到尽快更新!",
+        "link": "https://sec.thief.one/article_content?a_id=ac8fcd6549a6cfa46d810e486910daba",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "Chrome安全问题可能导致Windows版微信任意代码执行漏洞通告",
+        "link": "https://sec.thief.one/article_content?a_id=d54a4bd5ef030059f7aa89bf601bb8c1",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "豆瓣评分8.0以上书籍!Python、数据分析和深度学习等100本精品书籍...",
+        "link": "https://sec.thief.one/article_content?a_id=aa58b1339133be1c0f325190ff378d15",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "【视频】| Python:迭代器+可迭代的与生成",
+        "link": "https://sec.thief.one/article_content?a_id=f91b1d23e35b62842166496215c0d293",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "安全通告:建议更新微信PC版软件到最新版本",
+        "link": "https://sec.thief.one/article_content?a_id=d8db8e2f39f83c9617e93450746b9a22",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "【Android 脱壳】DEX壳简单实现过程分析",
+        "link": "https://sec.thief.one/article_content?a_id=ddd3278bdbdf6020c2018f3e6cb2ad3a",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "在看 | 一周网安回顾(2021.4.10—4.16)",
+        "link": "https://sec.thief.one/article_content?a_id=d9debc668d3f10a5a88599a5f77934d3",
+        "date": "2021-04-17"
+      },
       {
         "title": "迈向网络强国 习近平这样定基调",
         "link": "https://sec.thief.one/article_content?a_id=f46fbae5c333ac80ba181624816210b3",
@@ -21233,86 +21308,6 @@
       {
         "title": "新书推荐 | 《白帽子安全开发实战》",
         "link": "https://sec.thief.one/article_content?a_id=a65e9dee85ec083ad15d9ad59001f146",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "征题倒计时!2021 KCTF 春季赛 等你来挑战!",
-        "link": "https://sec.thief.one/article_content?a_id=e4e3d3c3649353fff4f4d316c49d3f0f",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "助力蓝队防守:微步在线TDP支持检测在野0day攻击又双叒叕增加",
-        "link": "https://sec.thief.one/article_content?a_id=e63c1f9dd7db54ea3b86994117d41fc4",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "Guymager取证介绍及操作文献归档",
-        "link": "https://sec.thief.one/article_content?a_id=a5d46ec58038fe62cbfdfa0a82a4817c",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "CNNVD 关于Google Chrome V8 engine输入验证错误漏洞的预警",
-        "link": "https://sec.thief.one/article_content?a_id=5d84d050698cbb71e6e14784625d6e9b",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "【安全更新】微软4月安全更新多个产品高危漏洞通告",
-        "link": "https://sec.thief.one/article_content?a_id=faef99d8692f6a372efd2a493c7c04eb",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "诸子云|话题:蜜罐及钓鱼测试新手怎上手?业务上云解决方案?自动加...",
-        "link": "https://sec.thief.one/article_content?a_id=2c917dda24b4bc074eef81ae93d08d8d",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "分享图片",
-        "link": "https://sec.thief.one/article_content?a_id=898f150e9fd53e87bd444bb00f8e149d",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "【漏洞分析】CVE-2020-0601分析",
-        "link": "https://sec.thief.one/article_content?a_id=fca8589555ac21a5afecdda246167dd0",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "美国国家安全局发现四个Exchange远程代码执行漏洞",
-        "link": "https://sec.thief.one/article_content?a_id=730a695dd7f96aeadb030b891069f936",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "欧洲投资银行利用区块链发行债券",
-        "link": "https://sec.thief.one/article_content?a_id=8d99c8705556a43923e0f0174fa9b991",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "【漏洞通告】Exchange Server远程代码执行漏洞",
-        "link": "https://sec.thief.one/article_content?a_id=e7a98656e449b1a4246f6458b71aa4ce",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "xHunt的最新攻击手段分析:通过BumbleBee Webshell发起攻击(上)",
-        "link": "https://sec.thief.one/article_content?a_id=c55a902dedd0e985f311519bf2f8a568",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "互联网平台企业向社会公开《依法合规经营承诺》(第一批)",
-        "link": "https://sec.thief.one/article_content?a_id=8117cc6f753faa27c36481929f6db9e3",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "每日攻防资讯简报[Apr.14th]",
-        "link": "https://sec.thief.one/article_content?a_id=833b83b07d6db50389173215d60f8ef1",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "比特币和瑞波币继续新高,平台币和DeFi静待Coinbase上市效应准备...",
-        "link": "https://sec.thief.one/article_content?a_id=8a11289174203fb45ff604b8214f4e48",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "Chrome和Edge远程代码执行0Day漏洞曝光",
-        "link": "https://sec.thief.one/article_content?a_id=2f1a821775e4a12e838319bda2cdc1cb",
         "date": "2021-04-14"
       }
     ]

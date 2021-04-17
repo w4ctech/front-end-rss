@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-17 10:02:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 10:24:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,10 @@
 - [2021-04-17-有没有-Chrome-插件或脚本可以直接显示超链的-url](https://www.v2ex.com/t/771294) 
 - [2021-04-17-arm-版-ubuntu-有-chrome-吗？](https://www.v2ex.com/t/771277) 
 - [2021-04-17-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
+- [2021-04-17-安全招聘汇总-|-第十三期](https://sec.thief.one/article_content?a_id=3d968408ba44125c0909a946f9d3b4a2) 
+- [2021-04-17-内推福利-|-渗透测试工程师/C++工程师/逆向安全工程师](https://sec.thief.one/article_content?a_id=3591825a6dd0aa4d10742bb52de830dc) 
+- [2021-04-17-Chrome安全问题可能导致Windows版微信任意代码执行漏洞通告](https://sec.thief.one/article_content?a_id=d54a4bd5ef030059f7aa89bf601bb8c1) 
+- [2021-04-17-安全通告:建议更新微信PC版软件到最新版本](https://sec.thief.one/article_content?a_id=d8db8e2f39f83c9617e93450746b9a22) 
 - [2021-04-16-【安全圈】ParkMobile暴露2100万用户的车牌数据](https://sec.thief.one/article_content?a_id=d4e80b6d2d49b58ee3583eadee7be512) 
 - [2021-04-16-奇安信参与编写的金融数据安全生命周期规范日前正式发布](https://sec.thief.one/article_content?a_id=ce08ad0436f4c176f280fa37b925f3c3) 
 - [2021-04-16-Chrome再曝0day!](https://sec.thief.one/article_content?a_id=fce0cb3d4dc9d10844d2b7c473aae454) 
@@ -67,6 +71,3 @@
 - [2021-04-14-聚焦实践|绿盟科技支持全国大学生信息安全竞赛东北、华中赛区](https://sec.thief.one/article_content?a_id=b1394ff965051e065b79a6b3a3e65fd5) 
 - [2021-04-14-4·15全民国家安全教育日活动走进校园-奇安信在北京三十五中开讲](https://sec.thief.one/article_content?a_id=363e79c125fe2597fee67ec039d6ba9c) 
 - [2021-04-14-新书推荐-|-《白帽子安全开发实战》](https://sec.thief.one/article_content?a_id=a65e9dee85ec083ad15d9ad59001f146) 
-- [2021-04-14-【安全更新】微软4月安全更新多个产品高危漏洞通告](https://sec.thief.one/article_content?a_id=faef99d8692f6a372efd2a493c7c04eb) 
-- [2021-04-14-美国国家安全局发现四个Exchange远程代码执行漏洞](https://sec.thief.one/article_content?a_id=730a695dd7f96aeadb030b891069f936) 
-- [2021-04-14-Chrome和Edge远程代码执行0Day漏洞曝光](https://sec.thief.one/article_content?a_id=2f1a821775e4a12e838319bda2cdc1cb) 

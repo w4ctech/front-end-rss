@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-17 10:02:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 10:24:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,4 +39,3 @@
 - [2021-04-17-一个日活只有-1000-的-app，能有多少收入呢？](https://www.v2ex.com/t/771278) 
 - [2021-04-17-arm-版-ubuntu-有-chrome-吗？](https://www.v2ex.com/t/771277) 
 - [2021-04-17-程序员是否离不开-Google-搜索?有没有同等搜索质量的替代品?](https://www.v2ex.com/t/771275) 
-- [2021-04-17-@Transactional-VS-@TransactionalrollbackFor-=-Exception.class](https://www.v2ex.com/t/771273) 

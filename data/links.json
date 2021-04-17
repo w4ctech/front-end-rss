@@ -19842,6 +19842,36 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "我做了10年架构，离职后才明白：决定你工资上限的是这件事！",
+        "link": "https://www.ershicimi.com/p/52f21dbe0f9f2164145ac0e586a71490",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "知乎高赞：为什么许多原本的 Java 项目都试图用 go 进行重写开源？",
+        "link": "https://www.ershicimi.com/p/dd33036899a51dad32e5663d751ef657",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "京东笔试题：如何实现 MySQL 删除重复记录并且只保留一条？",
+        "link": "https://www.ershicimi.com/p/2a8af1550c1b975fcdc25e7ccd697a25",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "笑死，小米新logo是这么来的",
+        "link": "https://www.ershicimi.com/p/ed2ac4d1aa54c6595bff0da90f5c085d",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "大佬带路，用Java实现天天酷跑（附源码），网友：这也太TM屌了~",
+        "link": "https://www.ershicimi.com/p/a874975d2bd26cdec261c3f73ac2a154",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "这几天研究了一下JDK14，发现它处理NPE的方式，真香！",
+        "link": "https://www.ershicimi.com/p/605589b9d93fd4d27da821eb776e6f27",
+        "date": "2021-04-16"
+      },
+      {
         "title": "华为，终于摊牌了！",
         "link": "https://www.ershicimi.com/p/74f26fd88e588f6b592943d20a78a025",
         "date": "2021-04-15"
@@ -19910,36 +19940,6 @@
         "title": "疫苗接种率低？不用怕，互联网公司给出解决之道",
         "link": "https://www.ershicimi.com/p/7b020836cfbe53582d14b83ca75d7714",
         "date": "2021-04-11"
-      },
-      {
-        "title": "MySQL 批量插入，如何不插入重复数据？",
-        "link": "https://www.ershicimi.com/p/63eeaa88c44fd9d32bf085318ce38441",
-        "date": "2021-04-11"
-      },
-      {
-        "title": "求求你，别再叫我 X 工了！！！",
-        "link": "https://www.ershicimi.com/p/b025760eeadb540c656634971bacf163",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "程序员离职后躲老家山洞 2 年，敲出 45 万行代码...",
-        "link": "https://www.ershicimi.com/p/4cce9deaaca0bfb8b6cf62e0a95f737c",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "阿里终面：如何设计一个高性能网关？",
-        "link": "https://www.ershicimi.com/p/89eb52f0ff7329ad9428c4bffffa0898",
-        "date": "2021-04-10"
-      },
-      {
-        "title": "12 个非常适合做私活或外包项目的开源后台管理系统",
-        "link": "https://www.ershicimi.com/p/de54b1ea596947dabaed8f81d0c49f73",
-        "date": "2021-04-09"
-      },
-      {
-        "title": "欧阳娜娜从阿里跳槽网易：阿里P8堪称教科书级别的面试现场！最后一个问题亮了",
-        "link": "https://www.ershicimi.com/p/258256e57a26bf846018508c969faaea",
-        "date": "2021-04-09"
       }
     ]
   },
@@ -20395,6 +20395,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "想问一下前辈们关于 DOM diff",
+        "link": "https://www.v2ex.com/t/771326",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "美团内推，扫码可见所有开放岗位，欢迎投递",
+        "link": "https://www.v2ex.com/t/771325",
+        "date": "2021-04-17"
+      },
+      {
         "title": "大四校招，有点迷茫，刚刚想转 Java 开发，学了半个月，发现自己的学习能力还是偏弱，只收到了一个烽火的 12Woffer，还值得去吗？拉低了大家的平均水平···",
         "link": "https://www.v2ex.com/t/771322",
         "date": "2021-04-17"
@@ -20557,11 +20567,6 @@
       {
         "title": "arm 版 ubuntu 有 chrome 吗？",
         "link": "https://www.v2ex.com/t/771277",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "程序员是否离不开 Google 搜索?有没有同等搜索质量的替代品?",
-        "link": "https://www.v2ex.com/t/771275",
         "date": "2021-04-17"
       }
     ]
@@ -20734,53 +20739,8 @@
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
-        "link": "https://toutiao.io/k/hti1ill",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
-        "date": "2021-04-17"
-      },
-      {
         "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
         "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
         "date": "2021-04-17"
       },
       {
@@ -20789,18 +20749,63 @@
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
-        "date": "2021-04-17"
-      },
-      {
         "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
         "link": "https://toutiao.io/k/6aau0fc",
         "date": "2021-04-17"
       },
       {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
+        "date": "2021-04-17"
+      },
+      {
         "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
         "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
+        "link": "https://toutiao.io/k/hti1ill",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
         "date": "2021-04-17"
       }
     ]

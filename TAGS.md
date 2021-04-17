@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-17 10:24:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 10:38:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -396,7 +396,6 @@
 - [【程序员成长指北】网站优化，这些工具你一定用得着建议收藏](https://www.ershicimi.com/p/23a38944581a5756bb1982cf96bbd354)
 - [【程序员成长指北】BFF模式：微服务前端数据加载的最佳实践？](https://www.ershicimi.com/p/c05a8a9cc8e39496ab3e212abd2af048)
 - [【奇舞周刊】2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152)
-- [【互联网架构师】阿里终面：如何设计一个高性能网关？](https://www.ershicimi.com/p/89eb52f0ff7329ad9428c4bffffa0898)
 - [【InfoQ】英伟达推出首个-CPU，基于-ARM-架构主攻巨型-AI，性能超-x86-十倍](https://www.ershicimi.com/p/0feb20097decea9fc00552afaad25e10)
 - [【InfoQ】流数据并行处理性能比较：Kafka-vs-Pulsar-vs-Pravega](https://www.ershicimi.com/p/2c5b9cab0e57272b175035f968bc9d1c)
 - [【V2EX】MySQL-大表有性能问题，但如果只查最近的数据呢？](https://www.v2ex.com/t/771301)

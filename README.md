@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-17 10:24:13，:rocket: 更新条数: +4228， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-17 10:38:19，:rocket: 更新条数: +4229， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -808,6 +808,12 @@
 </summary>
 
 
+- [2021-04-17-我做了10年架构，离职后才明白：决定你工资上限的是这件事！](https://www.ershicimi.com/p/52f21dbe0f9f2164145ac0e586a71490) ![](assets/new.png)  
+- [2021-04-17-知乎高赞：为什么许多原本的-Java-项目都试图用-go-进行重写开源？](https://www.ershicimi.com/p/dd33036899a51dad32e5663d751ef657) ![](assets/new.png)  
+- [2021-04-17-京东笔试题：如何实现-MySQL-删除重复记录并且只保留一条？](https://www.ershicimi.com/p/2a8af1550c1b975fcdc25e7ccd697a25) ![](assets/new.png)  
+- [2021-04-16-笑死，小米新logo是这么来的](https://www.ershicimi.com/p/ed2ac4d1aa54c6595bff0da90f5c085d) ![](assets/new.png)  
+- [2021-04-16-大佬带路，用Java实现天天酷跑（附源码），网友：这也太TM屌了~](https://www.ershicimi.com/p/a874975d2bd26cdec261c3f73ac2a154) ![](assets/new.png)  
+- [2021-04-16-这几天研究了一下JDK14，发现它处理NPE的方式，真香！](https://www.ershicimi.com/p/605589b9d93fd4d27da821eb776e6f27) ![](assets/new.png)  
 - [2021-04-15-华为，终于摊牌了！](https://www.ershicimi.com/p/74f26fd88e588f6b592943d20a78a025) ![](assets/new.png)  
 - [2021-04-15-卧槽！新来的妹纸rm--rf把公司整个数据库删没了，整个项目组慌了~](https://www.ershicimi.com/p/b7a0423e7da7dc6fd65db9b40fcd20f4) ![](assets/new.png)  
 - [2021-04-15-还在搞三层架构？DDD-分层架构了解下！](https://www.ershicimi.com/p/a04a78261a9d54d19065ee7909bdeffc) ![](assets/new.png)  
@@ -822,12 +828,6 @@
 - [2021-04-12-程序员相亲的血泪史，千万别做这些事情！](https://www.ershicimi.com/p/2792482455407fc4cc0d329f66875ac3) ![](assets/new.png)  
 - [2021-04-11-我，37岁程序员，依然可以“横行职场”](https://www.ershicimi.com/p/33f5a3cf4330c36eeb270b7de6c75803) ![](assets/new.png)  
 - [2021-04-11-疫苗接种率低？不用怕，互联网公司给出解决之道](https://www.ershicimi.com/p/7b020836cfbe53582d14b83ca75d7714) ![](assets/new.png)  
-- [2021-04-11-MySQL-批量插入，如何不插入重复数据？](https://www.ershicimi.com/p/63eeaa88c44fd9d32bf085318ce38441) ![](assets/new.png)  
-- [2021-04-10-求求你，别再叫我-X-工了！！！](https://www.ershicimi.com/p/b025760eeadb540c656634971bacf163) ![](assets/new.png)  
-- [2021-04-10-程序员离职后躲老家山洞-2-年，敲出-45-万行代码...](https://www.ershicimi.com/p/4cce9deaaca0bfb8b6cf62e0a95f737c) ![](assets/new.png)  
-- [2021-04-10-阿里终面：如何设计一个高性能网关？](https://www.ershicimi.com/p/89eb52f0ff7329ad9428c4bffffa0898) ![](assets/new.png)  
-- [2021-04-09-12-个非常适合做私活或外包项目的开源后台管理系统](https://www.ershicimi.com/p/de54b1ea596947dabaed8f81d0c49f73) ![](assets/new.png)  
-- [2021-04-09-欧阳娜娜从阿里跳槽网易：阿里P8堪称教科书级别的面试现场！最后一个问题亮了](https://www.ershicimi.com/p/258256e57a26bf846018508c969faaea) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-17-想问一下前辈们关于-DOM-diff](https://www.v2ex.com/t/771326) ![](assets/new.png)  
+- [2021-04-17-美团内推，扫码可见所有开放岗位，欢迎投递](https://www.v2ex.com/t/771325) ![](assets/new.png)  
 - [2021-04-17-大四校招，有点迷茫，刚刚想转-Java-开发，学了半个月，发现自己的学习能力还是偏弱，只收到了一个烽火的-12Woffer，还值得去吗？拉低了大家的平均水平···](https://www.v2ex.com/t/771322) ![](assets/new.png)  
 - [2021-04-17-很想吐槽一下目前的前端同事](https://www.v2ex.com/t/771320) ![](assets/new.png)  
 - [2021-04-17-电影荒了，朋友们有什么电影推荐](https://www.v2ex.com/t/771317) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-17-毕业人想去见见朋友](https://www.v2ex.com/t/771300) ![](assets/new.png)  
 - [2021-04-17-如何解决接朋友时「在马路左-/-右边等你」，等我到了发现还是错了](https://www.v2ex.com/t/771298) ![](assets/new.png)  
 - [2021-04-17-一个使用-React+Tailwind-CSS-模拟的网页版-Ubuntu2004](https://www.v2ex.com/t/771297) ![](assets/new.png)  
-- [2021-04-17-用-go-写的-http-服务，如果中间有-bug，怎样才能不影响其他访问](https://www.v2ex.com/t/771296) ![](assets/new.png)  
-- [2021-04-17-有没有-Chrome-插件或脚本可以直接显示超链的-url](https://www.v2ex.com/t/771294) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,15 +1069,15 @@
 - [2021-04-17-React-技术揭秘](https://toutiao.io/k/vahzjb1) ![](assets/new.png)  
 - [2021-04-17-Kubernetes-部署-Longhorn](https://toutiao.io/k/qw374hn) ![](assets/new.png)  
 - [2021-04-17-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-17-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
-- [2021-04-17-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-17-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-17-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-17-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-17-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
-- [2021-04-17-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
-- [2021-04-17-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
 - [2021-04-17-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-17-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-17-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-17-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-17-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-17-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-17-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-17-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-17-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

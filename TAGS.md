@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-17 13:39:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 13:51:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -396,7 +396,6 @@
 - [【奇舞周刊】2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152)
 - [【InfoQ】英伟达推出首个-CPU，基于-ARM-架构主攻巨型-AI，性能超-x86-十倍](https://www.ershicimi.com/p/0feb20097decea9fc00552afaad25e10)
 - [【InfoQ】流数据并行处理性能比较：Kafka-vs-Pulsar-vs-Pravega](https://www.ershicimi.com/p/2c5b9cab0e57272b175035f968bc9d1c)
-- [【V2EX】MySQL-大表有性能问题，但如果只查最近的数据呢？](https://www.v2ex.com/t/771301)
 - [【物联网智库】大人，时代变了！英伟达推出ARM架构CPU，性能10倍领先](https://www.ershicimi.com/p/874901238abc4822eb2940f07fdc57a8)
 - [......【查看更多】......](./details/tags/optimization.md)
 

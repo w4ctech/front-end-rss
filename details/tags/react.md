@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-17 13:08:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 13:24:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -14,7 +14,6 @@
 - [2021-04-14-【第2253期】React状态管理库及如何选择？](https://www.ershicimi.com/p/45273e60f71700d03acc798ca28f0826) 
 - [2021-04-14-用-react-query-解决你一半的状态管理问题](https://www.ershicimi.com/p/ce56796435163d8a7ab0a0ca5480aa98) 
 - [2021-04-12-大厂面试常问的-Vue-和-React-源码怎么学？](https://www.ershicimi.com/p/ab7a2611a8882f791def356f03503362) 
-- [2021-04-10-关于React-hook，我做了个违背祖训的决定](https://www.ershicimi.com/p/f66a409a8d68140e4f8a487642d70339) 
 - [2021-04-15-Vue-和-React-源码大PK，看这篇就够了](https://www.ershicimi.com/p/5086c9d2936c0a20384a6f369d7d8b75) 
 - [2021-04-06-React-灵魂-23-问，你能答对几个？](https://www.ershicimi.com/p/95ca47929b2541bf459ad4393ff3c7f7) 
 - [2021-04-02-Vue3-和-React17-，你选谁？](https://www.ershicimi.com/p/8762e2b9165425a6b87ee1bc3ca42466) 

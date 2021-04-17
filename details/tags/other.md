@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-17 02:09:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 02:20:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2021-04-17-4月16日全国新增新冠15例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-17/101692520.html) 
+- [2021-04-17-辉瑞称接种者或需打第三剂疫苗-以色列取消户外口罩令｜大流行手记（4月16日）](https://m.caixin.com/m/2021-04-17/101692553.html) 
 - [2021-04-16-最新海外疫情：新冠感染近1.39亿-累计死亡超298万](https://m.caixin.com/m/2021-04-16/101692181.html) 
 - [2021-04-16-印度单日新增确诊首破20万人-全球疫苗供应紧缺｜大流行手记（4月15日）](https://m.caixin.com/m/2021-04-16/101691883.html) 
 - [2021-04-15-香港放宽新冠疫苗接种年龄限制-明年将采购新一代疫苗](https://m.caixin.com/m/2021-04-15/101691804.html) 
@@ -3371,6 +3372,7 @@
 - [2021-04-09-知乎故事-|-碰上他，我们都成为了更好一点点的人](https://www.ershicimi.com/p/e1c489a34a6a1b6ec786aabe48ddd2f5) 
 - [2021-04-08-世界考古史中，有哪些具有「谜一般现代感」的发现？](https://www.ershicimi.com/p/8feb2397693fd43cc1528ea317f0ffea) 
 - [2021-04-08-知乎故事-|-你认识过哪些惊为天人的人物？](https://www.ershicimi.com/p/9bb12432b86a03b682c8091dfbc110d8) 
+- [2021-04-17-怎么没看到给-V2EX-提工单的帖子呢，-想提的人是连不上么](https://www.v2ex.com/t/771233) 
 - [2021-04-17-出个-S8-Lite，-4+64，国行，电池-82-健康度，无磕碰，京东自营-18-年-11-月买入。深圳西乡自提最好。](https://www.v2ex.com/t/771231) 
 - [2021-04-17-脑洞一下，房子除出租外，如何创造收入？](https://www.v2ex.com/t/771230) 
 - [2021-04-17-发现自己的五笔打字水平越来越菜了，经常忘字要用临时拼音救场](https://www.v2ex.com/t/771228) 
@@ -3397,7 +3399,6 @@
 - [2021-04-16-边走路边操控（触摸+键盘打字）笔记本电脑？是否可行？](https://www.v2ex.com/t/771191) 
 - [2021-04-16-阿里云日常代金券和优惠活动](https://www.v2ex.com/t/771190) 
 - [2021-04-16-异地补办身份证实际办理时长有多久啊](https://www.v2ex.com/t/771189) 
-- [2021-04-16-如何优雅的实现千万级以上数据存储与读取?](https://www.v2ex.com/t/771183) 
 - [2021-04-17-Doge.jpg-的背后是什么，你知道么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14292&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F347658697%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-17-如何通过开发快应用赚取睡后收入？-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14291&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F30%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-17-如何基于-Flarum-搭建一个优雅简洁论坛？-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=14290&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F03%2F22%2F189-how-to-install-flarum-based-on-docker%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -3421,15 +3422,15 @@
 - [2021-04-17-资料-|-Go-语言实用教程](https://toutiao.io/k/9squgg8) 
 - [2021-04-17-Android-逆向之某-App-逆向实践](https://toutiao.io/k/9j7191v) 
 - [2021-04-17-Kubernetes-部署-Longhorn](https://toutiao.io/k/qw374hn) 
-- [2021-04-17-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
 - [2021-04-17-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
-- [2021-04-17-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
 - [2021-04-17-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
-- [2021-04-17-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
+- [2021-04-17-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
 - [2021-04-17-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
+- [2021-04-17-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
 - [2021-04-17-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
-- [2021-04-17-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
+- [2021-04-17-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
 - [2021-04-17-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
+- [2021-04-17-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
 - [2021-04-17-迈向网络强国-习近平这样定基调](https://sec.thief.one/article_content?a_id=f46fbae5c333ac80ba181624816210b3) 
 - [2021-04-17-关于建议更新微信PC版软件到最新版本的通告](https://sec.thief.one/article_content?a_id=a84928721bc1ac5e325588711135097e) 
 - [2021-04-17-【更新通告】关于建议更新微信PC版软件到最新版本的通告](https://sec.thief.one/article_content?a_id=8604d00dbf0937575ac171f461c2a5ef) 

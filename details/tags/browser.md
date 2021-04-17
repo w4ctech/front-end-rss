@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-17 00:08:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 00:25:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,6 +44,8 @@
 - [2021-04-16-Teamviewer-远程连接，无法获取被控端声音](https://www.v2ex.com/t/771217) 
 - [2021-04-16-edge-安卓版版本已经跟上节奏了](https://www.v2ex.com/t/771193) 
 - [2021-04-17-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
+- [2021-04-16-【安全圈】ParkMobile暴露2100万用户的车牌数据](https://sec.thief.one/article_content?a_id=d4e80b6d2d49b58ee3583eadee7be512) 
+- [2021-04-16-奇安信参与编写的金融数据安全生命周期规范日前正式发布](https://sec.thief.one/article_content?a_id=ce08ad0436f4c176f280fa37b925f3c3) 
 - [2021-04-16-Chrome再曝0day!](https://sec.thief.one/article_content?a_id=fce0cb3d4dc9d10844d2b7c473aae454) 
 - [2021-04-16-“政产学研用”-协同育人|绿盟科技连续四年参加全国网络与信息安全...](https://sec.thief.one/article_content?a_id=b2301e8f821f89894ef204d5e63ec4ad) 
 - [2021-04-16-安全日报2021.04.16](https://sec.thief.one/article_content?a_id=01376e5e740603349a40e72af4d8f237) 
@@ -67,6 +69,3 @@
 - [2021-04-14-【安全更新】微软4月安全更新多个产品高危漏洞通告](https://sec.thief.one/article_content?a_id=faef99d8692f6a372efd2a493c7c04eb) 
 - [2021-04-14-美国国家安全局发现四个Exchange远程代码执行漏洞](https://sec.thief.one/article_content?a_id=730a695dd7f96aeadb030b891069f936) 
 - [2021-04-14-Chrome和Edge远程代码执行0Day漏洞曝光](https://sec.thief.one/article_content?a_id=2f1a821775e4a12e838319bda2cdc1cb) 
-- [2021-04-14-国家医疗保障局发布《关于加强网络安全和数据保护工作的指导意见》](https://sec.thief.one/article_content?a_id=991874a397177ce54424df24043467c6) 
-- [2021-04-14-【安全风险通告】奇安信代码安全实验室研究发现三枚漏洞,微软4月...](https://sec.thief.one/article_content?a_id=8aa798b14e1823d72feabe2256628d29) 
-- [2021-04-14-Chrome、Edge零日漏洞“泄漏”引发恐慌](https://sec.thief.one/article_content?a_id=27f71a4a2efaa0f9ec1880d3ab1fac63) 

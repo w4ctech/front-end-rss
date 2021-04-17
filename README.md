@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-17 00:08:44，:rocket: 更新条数: +4223， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-17 00:25:42，:rocket: 更新条数: +4223， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -965,6 +965,11 @@
 </summary>
 
 
+- [2021-04-16-知乎瞎扯-|-你小时候对异性做过什么沙雕事情？](https://www.ershicimi.com/p/32945e6cab622ffd60ac1a83bfd02c36) ![](assets/new.png)  
+- [2021-04-16-知乎故事-|-霸道总裁会自己洗内裤吗？](https://www.ershicimi.com/p/1bb74d353ffda9268b66981cad8b149e) ![](assets/new.png)  
+- [2021-04-15-用蛇毒毒毒蛇，毒蛇会不会被蛇毒毒死？](https://www.ershicimi.com/p/966d725a3d7ab7411bb6e5bed7fc252b) ![](assets/new.png)  
+- [2021-04-15-为了养娃如此操劳，真的有必要吗？](https://www.ershicimi.com/p/8c7ed48933b0cd87cc0bba68450f0732) ![](assets/new.png)  
+- [2021-04-15-知乎故事-|-你从什么时候发现自己其实是个普通人？](https://www.ershicimi.com/p/486a2febb995846658dc900091fa8afa) ![](assets/new.png)  
 - [2021-04-14-中国女足进军东京奥运！谢谢努力的你们](https://www.ershicimi.com/p/13b830af378c53c6dbf88b695f3be570) ![](assets/new.png)  
 - [2021-04-14-知乎故事-|-生活中有哪些小事让你觉得很治愈？](https://www.ershicimi.com/p/e9094730e85e57d357ad9b02403054c4) ![](assets/new.png)  
 - [2021-04-13-知乎高赞：为什么装过屎的碗洗干净也没人用，大肠却会被洗干净吃？](https://www.ershicimi.com/p/a09bbaa300ea2545582e0318ee0eeb8d) ![](assets/new.png)  
@@ -980,11 +985,6 @@
 - [2021-04-09-知乎故事-|-碰上他，我们都成为了更好一点点的人](https://www.ershicimi.com/p/e1c489a34a6a1b6ec786aabe48ddd2f5) ![](assets/new.png)  
 - [2021-04-08-世界考古史中，有哪些具有「谜一般现代感」的发现？](https://www.ershicimi.com/p/8feb2397693fd43cc1528ea317f0ffea) ![](assets/new.png)  
 - [2021-04-08-知乎故事-|-你认识过哪些惊为天人的人物？](https://www.ershicimi.com/p/9bb12432b86a03b682c8091dfbc110d8) ![](assets/new.png)  
-- [2021-04-08-口碑绝佳的-9-个公众号，越早知道越好](https://www.ershicimi.com/p/fbe5011ed265b56c0f2b89041ad1b79f) ![](assets/new.png)  
-- [2021-04-07-参加砍价活动始终差-0.09%，律师起诉拼多多「利用人性弱点，构成欺诈」](https://www.ershicimi.com/p/999562e267921aa40cdb2dd30ce3bffc) ![](assets/new.png)  
-- [2021-04-07-投影仪有多好用，极米-H3S-深度体验告诉你](https://www.ershicimi.com/p/e9cdb1120fe24cdde9f2fd8184f64cd1) ![](assets/new.png)  
-- [2021-04-07-知乎故事-|-现代普通人吃得比周天子还好吗？](https://www.ershicimi.com/p/f0fa596aa790bb78115ae8d9a9b82e8e) ![](assets/new.png)  
-- [2021-04-06-地球上仅存两只北部白犀牛：如果物种注定要灭绝，我们还要不要拯救它们？](https://www.ershicimi.com/p/b4a88d18a062ea27ba0467bc100c7a72) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-17-egg-有没有什么工具能够从-typescript-中-生成-swagger-文档，-contract-写的好麻烦](https://www.v2ex.com/t/771219) ![](assets/new.png)  
 - [2021-04-16-Teamviewer-远程连接，无法获取被控端声音](https://www.v2ex.com/t/771217) ![](assets/new.png)  
 - [2021-04-16-诸君帮看看这样的需求用哪个框架好做。。。](https://www.v2ex.com/t/771216) ![](assets/new.png)  
 - [2021-04-16-小米系统电池没电倒数-30s-关机](https://www.v2ex.com/t/771215) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-16-请教各位关于-requests-timeout-的问题，有小伙伴设置了-timeout，但是还是导致卡死的情况吗?其根源问题到底是什么？求大佬帮忙](https://www.v2ex.com/t/771196) ![](assets/new.png)  
 - [2021-04-16-edge-安卓版版本已经跟上节奏了](https://www.v2ex.com/t/771193) ![](assets/new.png)  
 - [2021-04-16-边走路边操控（触摸+键盘打字）笔记本电脑？是否可行？](https://www.v2ex.com/t/771191) ![](assets/new.png)  
-- [2021-04-16-阿里云日常代金券和优惠活动](https://www.v2ex.com/t/771190) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1068,16 @@
 - [2021-04-17-Android-逆向之某-App-逆向实践](https://toutiao.io/k/9j7191v) ![](assets/new.png)  
 - [2021-04-17-Kubernetes-部署-Longhorn](https://toutiao.io/k/qw374hn) ![](assets/new.png)  
 - [2021-04-17-React-技术揭秘](https://toutiao.io/k/vahzjb1) ![](assets/new.png)  
-- [2021-04-17-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
-- [2021-04-17-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-17-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-17-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
 - [2021-04-17-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
+- [2021-04-17-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
 - [2021-04-17-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-17-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
 - [2021-04-17-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
 - [2021-04-17-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-17-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-17-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-17-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
 - [2021-04-17-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-17-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,6 +1089,16 @@
 </summary>
 
 
+- [2021-04-17-迈向网络强国-习近平这样定基调](https://sec.thief.one/article_content?a_id=f46fbae5c333ac80ba181624816210b3) ![](assets/new.png)  
+- [2021-04-17-关于建议更新微信PC版软件到最新版本的通告](https://sec.thief.one/article_content?a_id=a84928721bc1ac5e325588711135097e) ![](assets/new.png)  
+- [2021-04-17-【更新通告】关于建议更新微信PC版软件到最新版本的通告](https://sec.thief.one/article_content?a_id=8604d00dbf0937575ac171f461c2a5ef) ![](assets/new.png)  
+- [2021-04-16-【漏洞通告】微信客户端远程命令执行漏洞](https://sec.thief.one/article_content?a_id=c678cfafadaca9f400b2442c4fbdc390) ![](assets/new.png)  
+- [2021-04-16-【安全圈】ParkMobile暴露2100万用户的车牌数据](https://sec.thief.one/article_content?a_id=d4e80b6d2d49b58ee3583eadee7be512) ![](assets/new.png)  
+- [2021-04-16-奇安信参与编写的金融数据安全生命周期规范日前正式发布](https://sec.thief.one/article_content?a_id=ce08ad0436f4c176f280fa37b925f3c3) ![](assets/new.png)  
+- [2021-04-16-青藤捕获在野微信0day漏洞](https://sec.thief.one/article_content?a_id=7e502fe0231fda8c92fc08a5406dd9c9) ![](assets/new.png)  
+- [2021-04-16-记住了!这些话就是他们仨说的](https://sec.thief.one/article_content?a_id=e52279ff564bfdd78bcbd98f08a31cb6) ![](assets/new.png)  
+- [2021-04-16-征稿-|-有文章你就砸过来!](https://sec.thief.one/article_content?a_id=f76359de6ad2be47fbc766ad899f6408) ![](assets/new.png)  
+- [2021-04-16-从Java新手到高手,你需要知道的Redis深层原理!](https://sec.thief.one/article_content?a_id=c1a079cea26446ec9fd91e679bae7c4c) ![](assets/new.png)  
 - [2021-04-16-植入挖矿的Docker镜像被下载了2000万次](https://sec.thief.one/article_content?a_id=560e5027479e368520d1f4e45dfd5db7) ![](assets/new.png)  
 - [2021-04-16-当谎言诞生时,我们该如何重构信任?](https://sec.thief.one/article_content?a_id=ce9eabda18120716e81ea24656786a51) ![](assets/new.png)  
 - [2021-04-16-【招聘】苏州极光无限信息技术有限公司](https://sec.thief.one/article_content?a_id=e2f51a3b7008367a0633bbcdbc0748bf) ![](assets/new.png)  
@@ -1099,16 +1109,6 @@
 - [2021-04-16-扬帆四月,我们开课了!i春秋渗透测试工程师成都9期开班典礼](https://sec.thief.one/article_content?a_id=e3af186db7ffed8fd7c3c68643259529) ![](assets/new.png)  
 - [2021-04-16-《数字山东2021行动方案》印发,重点强调网络安全保护](https://sec.thief.one/article_content?a_id=dd6f7e8ecaad6e9f1969deec3574b9d3) ![](assets/new.png)  
 - [2021-04-16-2020年全球网络安全风险投资创历史新高](https://sec.thief.one/article_content?a_id=bf994fe7cc8ca7a62d755448877c7786) ![](assets/new.png)  
-- [2021-04-16-一篇文章带你读懂-TLS-Poison-攻击三](https://sec.thief.one/article_content?a_id=4413d7b170aadcdda51880a830d64cda) ![](assets/new.png)  
-- [2021-04-16-哥斯拉插件开发指南——初入茅庐](https://sec.thief.one/article_content?a_id=6b2a487168580fd864c433a561cfb425) ![](assets/new.png)  
-- [2021-04-16-狗狗币及Maker暴涨,山寨币市值突破1万亿美元](https://sec.thief.one/article_content?a_id=631193afd60f6c0a7168e7ee33a389a8) ![](assets/new.png)  
-- [2021-04-16-4月16日贵币GUIBI早内参-马斯克发推奶狗狗币,YFI因回购计划突破5...](https://sec.thief.one/article_content?a_id=902b154c17213a6e239766d0f2b16e06) ![](assets/new.png)  
-- [2021-04-16-每日安全动态推送04-16](https://sec.thief.one/article_content?a_id=80e88977964b139aa68194e9fe4a2875) ![](assets/new.png)  
-- [2021-04-16-战略投资|立思辰安科荣获中国电科工控网络安全领域独家战略投资](https://sec.thief.one/article_content?a_id=0ddfdbdfbdb0d5081f40e9f923e481c3) ![](assets/new.png)  
-- [2021-04-16-阿里最强-Python-自动化工具开源了!](https://sec.thief.one/article_content?a_id=0a5ad60c3294bad10139f6ed9ad79a41) ![](assets/new.png)  
-- [2021-04-16-新的JavaScript利用现在可以进行DDR4-Rowhammer攻击](https://sec.thief.one/article_content?a_id=9ddf3a4258d72b434d3495213fd0ff8e) ![](assets/new.png)  
-- [2021-04-16-FBI“合法清除”被攻击的Exchange服务器WebShell](https://sec.thief.one/article_content?a_id=0745682b79e9a9afd3545aa9d6a7707b) ![](assets/new.png)  
-- [2021-04-16-每周高级威胁情报解读2021.04.08~04.15](https://sec.thief.one/article_content?a_id=78bfa683c921ca58f5b173c88dd2e3dd) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

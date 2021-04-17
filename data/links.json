@@ -20395,6 +20395,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "续上次相亲以后…",
+        "link": "https://www.v2ex.com/t/771372",
+        "date": "2021-04-17"
+      },
+      {
         "title": "Windows Terminal 里面使用 GitBash 没有历史记录",
         "link": "https://www.v2ex.com/t/771369",
         "date": "2021-04-17"
@@ -20547,11 +20552,6 @@
       {
         "title": "美团内推，扫码可见所有开放岗位，欢迎投递",
         "link": "https://www.v2ex.com/t/771325",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "大四校招，有点迷茫，刚刚想转 Java 开发，学了半个月，发现自己的学习能力还是偏弱，只收到了一个烽火的 12Woffer，还值得去吗？拉低了大家的平均水平···",
-        "link": "https://www.v2ex.com/t/771322",
         "date": "2021-04-17"
       }
     ]
@@ -20719,58 +20719,8 @@
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-17"
-      },
-      {
         "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
         "link": "https://toutiao.io/k/hti1ill",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 基于 OpenResty 长连接推送的演进",
-        "link": "https://toutiao.io/k/3etk65w",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
         "date": "2021-04-17"
       },
       {
@@ -20779,8 +20729,23 @@
         "date": "2021-04-17"
       },
       {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
         "date": "2021-04-17"
       },
       {
@@ -20789,8 +20754,43 @@
         "date": "2021-04-17"
       },
       {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
+        "date": "2021-04-17"
+      },
+      {
         "title": "[推荐] 教你从头写游戏服务器框架",
         "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 基于 OpenResty 长连接推送的演进",
+        "link": "https://toutiao.io/k/3etk65w",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
         "date": "2021-04-17"
       }
     ]

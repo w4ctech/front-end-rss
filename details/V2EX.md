@@ -1,12 +1,13 @@
-:alarm_clock: 更新时间: 2021-04-17 06:24:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 06:40:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-17-一个日活只有-1000-的-app，能有多少收入呢？](https://www.v2ex.com/t/771278) 
+- [2021-04-17-arm-版-ubuntu-有-chrome-吗？](https://www.v2ex.com/t/771277) 
 - [2021-04-17-程序员是否离不开-Google-搜索?有没有同等搜索质量的替代品?](https://www.v2ex.com/t/771275) 
-- [2021-04-17-搞毛阿-梅西-这就是-chia？](https://www.v2ex.com/t/771274) 
 - [2021-04-17-@Transactional-VS-@TransactionalrollbackFor-=-Exception.class](https://www.v2ex.com/t/771273) 
 - [2021-04-17-被🐧从智商上击倒，求支招](https://www.v2ex.com/t/771272) 
 - [2021-04-17-想再买个手机玩玩，魅族还是一加](https://www.v2ex.com/t/771270) 
@@ -36,6 +37,3 @@
 - [2021-04-17-尴尬的面试题，没有解决，估计面试官在后台偷笑](https://www.v2ex.com/t/771236) 
 - [2021-04-17-出个-S8-Lite，-4+64，国行，电池-82-健康度，无磕碰，京东自营-18-年-11-月买入。深圳西乡自提最好。](https://www.v2ex.com/t/771231) 
 - [2021-04-17-脑洞一下，房子除出租外，如何创造收入？](https://www.v2ex.com/t/771230) 
-- [2021-04-17-发现自己的五笔打字水平越来越菜了，经常忘字要用临时拼音救场](https://www.v2ex.com/t/771228) 
-- [2021-04-17-支-F-宝领了-10-块钱-AppStore-消费券，不知道买啥-附带领取方法](https://www.v2ex.com/t/771227) 
-- [2021-04-17-闲鱼上面的诈骗越来越多了，而且总是变着花样](https://www.v2ex.com/t/771226) 

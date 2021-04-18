@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-18 03:40:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-18 03:53:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-18-有没有可能发明一种浪费网络带宽挖矿的币种，直接快进到摧毁互联网](https://www.v2ex.com/t/771417) 
 - [2021-04-18-windows-arm-镜像下载](https://www.v2ex.com/t/771415) 
 - [2021-04-18-我的-telegram-一个好友都没有…](https://www.v2ex.com/t/771414) 
 - [2021-04-18-挖矿的意义在哪里？](https://www.v2ex.com/t/771413) 
@@ -31,6 +32,3 @@
 - [2021-04-17-奉贤萧塘附近租房求介绍-转换跑道来上海发展](https://www.v2ex.com/t/771375) 
 - [2021-04-17-大家对于同事关系的维持](https://www.v2ex.com/t/771374) 
 - [2021-04-17-续上次相亲以后…](https://www.v2ex.com/t/771372) 
-- [2021-04-17-Windows-Terminal-里面使用-GitBash-没有历史记录](https://www.v2ex.com/t/771369) 
-- [2021-04-17-你们用的-Word-模板文件都带框么](https://www.v2ex.com/t/771367) 
-- [2021-04-17-请教一下-4K-视频的正确导出姿势？](https://www.v2ex.com/t/771366) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-18 00:09:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-18 00:26:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,6 +42,7 @@
 - [2021-04-12-全世界下载量超-100-亿，curl-怎样成为影响世界的开源项目？](https://www.ershicimi.com/p/f95ec01a19a44e7f8bc459e370f801ca) 
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
 - [2021-04-18-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
+- [2021-04-17-【漏洞通告】Chrome安全问题导致Windows版微信任意代码执行漏洞](https://sec.thief.one/article_content?a_id=055f2de59f5a3ea456ade1acc7262528) 
 - [2021-04-17-安全招聘汇总-|-第十三期](https://sec.thief.one/article_content?a_id=3d968408ba44125c0909a946f9d3b4a2) 
 - [2021-04-17-内推福利-|-渗透测试工程师/C++工程师/逆向安全工程师](https://sec.thief.one/article_content?a_id=3591825a6dd0aa4d10742bb52de830dc) 
 - [2021-04-17-Chrome安全问题可能导致Windows版微信任意代码执行漏洞通告](https://sec.thief.one/article_content?a_id=d54a4bd5ef030059f7aa89bf601bb8c1) 
@@ -66,5 +67,3 @@
 - [2021-04-14-【天问】Chrome-0Day漏洞软件供应链影响分析](https://sec.thief.one/article_content?a_id=6ca0f366d6ed34740fd35f56bace48a5) 
 - [2021-04-14-【安全圈】苹果-MAC-电脑默认文本程序存在漏洞,黑客可随意截取-IP-...](https://sec.thief.one/article_content?a_id=d0a3679545ff1475e40d03a2d8acbdf1) 
 - [2021-04-14-聚焦实践|绿盟科技支持全国大学生信息安全竞赛东北、华中赛区](https://sec.thief.one/article_content?a_id=b1394ff965051e065b79a6b3a3e65fd5) 
-- [2021-04-14-4·15全民国家安全教育日活动走进校园-奇安信在北京三十五中开讲](https://sec.thief.one/article_content?a_id=363e79c125fe2597fee67ec039d6ba9c) 
-- [2021-04-14-新书推荐-|-《白帽子安全开发实战》](https://sec.thief.one/article_content?a_id=a65e9dee85ec083ad15d9ad59001f146) 

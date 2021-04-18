@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-18 00:09:03，:rocket: 更新条数: +4225， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-18 00:26:54，:rocket: 更新条数: +4225， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -430,6 +430,9 @@
 </summary>
 
 
+- [2021-04-16-FreeWheel-图表可视化测试的实践](https://www.ershicimi.com/p/1547e446ec00e31a33da0691197fabb8) ![](assets/new.png)  
+- [2021-04-16-IDEA-2021年首个新版本发布，重要更新速览](https://www.ershicimi.com/p/1fd3c08ba3e8f79ece14d98eecfcba29) ![](assets/new.png)  
+- [2021-04-16-TypeScript-因为什么特性成为了你的“刚需”？|-极客时间](https://www.ershicimi.com/p/2688e18a2f3603621be20590593671f0) ![](assets/new.png)  
 - [2021-04-14-深度解读便利蜂-React-Native-多版本共存的平滑升级实践](https://www.ershicimi.com/p/1b903e47c678e2fd22cf7e98177a2955) ![](assets/new.png)  
 - [2021-04-14-程序开发人员缺乏经验的7种表现](https://www.ershicimi.com/p/975f71f5875c31fd8d60d861fd686ff2) ![](assets/new.png)  
 - [2021-04-14-Web-加速，协议先行！-|-极客时间](https://www.ershicimi.com/p/3296c06efe76d7f7ec3690860aaf2f47) ![](assets/new.png)  
@@ -447,9 +450,6 @@
 - [2021-04-05-30-万行代码的平台升级：给跑着的汽车换轮胎](https://www.ershicimi.com/p/5053d9dd3b7935fb8c3a9124dfe587dd) ![](assets/new.png)  
 - [2021-04-04-Vue-3-计划放弃支持-IE11；西班牙或成全球首个“每周工作4天”的国家；Windows-95](https://www.ershicimi.com/p/01722c8c69a9c3d9f8ef8aa5cbcad882) ![](assets/new.png)  
 - [2021-04-02-TypeScript-4.3-beta-版本正式发布：新增import语句补全，对模板字符串类型进行](https://www.ershicimi.com/p/b7740c3ceaba7a164806fee9a1bcfa79) ![](assets/new.png)  
-- [2021-04-02-开发人员解决不了管理烂的问题](https://www.ershicimi.com/p/757f364bb5d2ad69bbfc11060a47f7fa) ![](assets/new.png)  
-- [2021-04-02-玩转-Webpack-4-共需几步？-|-活动推荐](https://www.ershicimi.com/p/76bb03f92df767a42ac95627cd7ad9ea) ![](assets/new.png)  
-- [2021-03-31-Deno-成立公司，获得-490-万美元种子资金](https://www.ershicimi.com/p/dbfd3ebecc480e00c7bf1cd8a42314ca) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-18-想往-Cloudflare-里转移域名，但是-cf-就告诉我转移失败，没有报错。](https://www.v2ex.com/t/771388) ![](assets/new.png)  
+- [2021-04-18-整理了部分-Big-Sur-的-App-ICNS](https://www.v2ex.com/t/771387) ![](assets/new.png)  
 - [2021-04-17-九键还是二十六键？](https://www.v2ex.com/t/771385) ![](assets/new.png)  
 - [2021-04-17-FinTech-社区-招聘：前端开发-30-50-万-远程办公-推荐奖-5000](https://www.v2ex.com/t/771383) ![](assets/new.png)  
 - [2021-04-17-kotlin-lazy-形式的-grouping-and-mapping-应该怎么写，-sequence-里-grouping-+-aggregate-怎么比-Java-stream-还复杂得多](https://www.v2ex.com/t/771382) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-17-求助-有没有要入手-apple-或者华为或者其他-3c-产品的](https://www.v2ex.com/t/771360) ![](assets/new.png)  
 - [2021-04-17-大家都玩上了吗？](https://www.v2ex.com/t/771359) ![](assets/new.png)  
 - [2021-04-17-2021-年-4-月了，-m1-的-MacBook-是买还是等新的](https://www.v2ex.com/t/771358) ![](assets/new.png)  
-- [2021-04-17-手里有个腾讯叮当智慧屏幕，有-usb-口，设置找不到哪里可以打开-adb](https://www.v2ex.com/t/771357) ![](assets/new.png)  
-- [2021-04-17-M1-Mac-mini-外接-4k-显示器没法开启-HDR，请问有啥解决方法么](https://www.v2ex.com/t/771356) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1061,22 +1061,22 @@
 - [2021-04-18-写给开发人员的实用密码学：数字证书](https://toutiao.io/k/nvqjbvt) ![](assets/new.png)  
 - [2021-04-18-不理解-Java-Steam？一步步梳理其工作方式](https://toutiao.io/k/oroh2lf) ![](assets/new.png)  
 - [2021-04-18-为自己的团队定制-CSS-框架](https://toutiao.io/k/187g37k) ![](assets/new.png)  
-- [2021-04-18-贝锐创始人陈宇晔：花生壳诞生自一次挫折，15-年坚守有温度不作恶](https://toutiao.io/k/7jktdg5) ![](assets/new.png)  
 - [2021-04-18-使用-awk-查找并修复数据中一对多的不一致问题](https://toutiao.io/k/rx3r4ia) ![](assets/new.png)  
+- [2021-04-18-贝锐创始人陈宇晔：花生壳诞生自一次挫折，15-年坚守有温度不作恶](https://toutiao.io/k/7jktdg5) ![](assets/new.png)  
 - [2021-04-18-VueConf-2021-抢先看，Evan-You-和你聊聊-Vue-的未来](https://toutiao.io/k/cygntbm) ![](assets/new.png)  
-- [2021-04-18-译-图查询语言的历史回顾短文](https://toutiao.io/k/twwep78) ![](assets/new.png)  
+- [2021-04-18-设计师快醒醒吧！NFT-与你没啥关系](https://toutiao.io/k/kvmcf3m) ![](assets/new.png)  
 - [2021-04-18-阿里飞猪如何构建旅行场景下的个性化召回？](https://toutiao.io/k/2wt6nrp) ![](assets/new.png)  
 - [2021-04-18-面向-K8s-设计误区](https://toutiao.io/k/iebk207) ![](assets/new.png)  
-- [2021-04-18-设计师快醒醒吧！NFT-与你没啥关系](https://toutiao.io/k/kvmcf3m) ![](assets/new.png)  
-- [2021-04-18-推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w) ![](assets/new.png)  
-- [2021-04-18-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-18-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-18-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-18-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
-- [2021-04-18-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-18-译-图查询语言的历史回顾短文](https://toutiao.io/k/twwep78) ![](assets/new.png)  
+- [2021-04-18-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
 - [2021-04-18-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
 - [2021-04-18-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-18-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
 - [2021-04-18-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-18-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-18-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-18-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-18-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
 - [2021-04-18-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
@@ -1089,6 +1089,11 @@
 </summary>
 
 
+- [2021-04-18-推进网络空间治理-习近平这样部署](https://sec.thief.one/article_content?a_id=5c16953995d78910bc5ce52aa1ba4476) ![](assets/new.png)  
+- [2021-04-18-【重大福利!】100本-平航取证技术简报精华合订本领取活动](https://sec.thief.one/article_content?a_id=982653ba3ba2127226a1f4f5cf4b7d6a) ![](assets/new.png)  
+- [2021-04-17-炸了.《图解算法》爆款,原来算法还可以这样学!](https://sec.thief.one/article_content?a_id=ac08d4c64caf02797e5b62a6c1a7343a) ![](assets/new.png)  
+- [2021-04-17-【漏洞通告】Gitlab多个高危漏洞](https://sec.thief.one/article_content?a_id=806eeee256d4b6d632dd24672eaf0e23) ![](assets/new.png)  
+- [2021-04-17-【漏洞通告】Chrome安全问题导致Windows版微信任意代码执行漏洞](https://sec.thief.one/article_content?a_id=055f2de59f5a3ea456ade1acc7262528) ![](assets/new.png)  
 - [2021-04-17-报告数据泄露反被起诉,法案灰色地带再引争议](https://sec.thief.one/article_content?a_id=7aaed7277196fc89476408724e9c20f9) ![](assets/new.png)  
 - [2021-04-17-一道算法题](https://sec.thief.one/article_content?a_id=9a72176eb9b3dfc0f37bd4a83bda903a) ![](assets/new.png)  
 - [2021-04-17-网安杂谈收藏夹2021.4.17](https://sec.thief.one/article_content?a_id=2aedfd72b7fa78f46f35746c90626095) ![](assets/new.png)  
@@ -1104,11 +1109,6 @@
 - [2021-04-17-【视频】|-Python:迭代器+可迭代的与生成](https://sec.thief.one/article_content?a_id=f91b1d23e35b62842166496215c0d293) ![](assets/new.png)  
 - [2021-04-17-安全通告:建议更新微信PC版软件到最新版本](https://sec.thief.one/article_content?a_id=d8db8e2f39f83c9617e93450746b9a22) ![](assets/new.png)  
 - [2021-04-17-【Android-脱壳】DEX壳简单实现过程分析](https://sec.thief.one/article_content?a_id=ddd3278bdbdf6020c2018f3e6cb2ad3a) ![](assets/new.png)  
-- [2021-04-17-在看-|-一周网安回顾2021.4.10—4.16](https://sec.thief.one/article_content?a_id=d9debc668d3f10a5a88599a5f77934d3) ![](assets/new.png)  
-- [2021-04-17-迈向网络强国-习近平这样定基调](https://sec.thief.one/article_content?a_id=f46fbae5c333ac80ba181624816210b3) ![](assets/new.png)  
-- [2021-04-17-关于建议更新微信PC版软件到最新版本的通告](https://sec.thief.one/article_content?a_id=a84928721bc1ac5e325588711135097e) ![](assets/new.png)  
-- [2021-04-17-【更新通告】关于建议更新微信PC版软件到最新版本的通告](https://sec.thief.one/article_content?a_id=8604d00dbf0937575ac171f461c2a5ef) ![](assets/new.png)  
-- [2021-04-16-【漏洞通告】微信客户端远程命令执行漏洞](https://sec.thief.one/article_content?a_id=c678cfafadaca9f400b2442c4fbdc390) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

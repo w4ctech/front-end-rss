@@ -18675,6 +18675,21 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "FreeWheel 图表可视化测试的实践",
+        "link": "https://www.ershicimi.com/p/1547e446ec00e31a33da0691197fabb8",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "IDEA 2021年首个新版本发布，重要更新速览",
+        "link": "https://www.ershicimi.com/p/1fd3c08ba3e8f79ece14d98eecfcba29",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "TypeScript 因为什么特性成为了你的“刚需”？| 极客时间",
+        "link": "https://www.ershicimi.com/p/2688e18a2f3603621be20590593671f0",
+        "date": "2021-04-16"
+      },
+      {
         "title": "深度解读便利蜂 React Native 多版本共存的平滑升级实践",
         "link": "https://www.ershicimi.com/p/1b903e47c678e2fd22cf7e98177a2955",
         "date": "2021-04-14"
@@ -18758,21 +18773,6 @@
         "title": "TypeScript 4.3 beta 版本正式发布：新增import语句补全，对模板字符串类型进行",
         "link": "https://www.ershicimi.com/p/b7740c3ceaba7a164806fee9a1bcfa79",
         "date": "2021-04-02"
-      },
-      {
-        "title": "开发人员解决不了管理烂的问题",
-        "link": "https://www.ershicimi.com/p/757f364bb5d2ad69bbfc11060a47f7fa",
-        "date": "2021-04-02"
-      },
-      {
-        "title": "玩转 Webpack 4 共需几步？ | 活动推荐",
-        "link": "https://www.ershicimi.com/p/76bb03f92df767a42ac95627cd7ad9ea",
-        "date": "2021-04-02"
-      },
-      {
-        "title": "Deno 成立公司，获得 490 万美元种子资金",
-        "link": "https://www.ershicimi.com/p/dbfd3ebecc480e00c7bf1cd8a42314ca",
-        "date": "2021-03-31"
       }
     ]
   },
@@ -20395,6 +20395,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "想往 Cloudflare 里转移域名，但是 cf 就告诉我转移失败，没有报错。",
+        "link": "https://www.v2ex.com/t/771388",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "整理了部分 Big Sur 的 App ICNS",
+        "link": "https://www.v2ex.com/t/771387",
+        "date": "2021-04-18"
+      },
+      {
         "title": "九键还是二十六键？",
         "link": "https://www.v2ex.com/t/771385",
         "date": "2021-04-17"
@@ -20538,16 +20548,6 @@
         "title": "怎么获取 dev insider 版本 windows 呢",
         "link": "https://www.v2ex.com/t/771339",
         "date": "2021-04-17"
-      },
-      {
-        "title": "Nvidia 驱动在 Windows 里面有没有自带的能降频的工具?",
-        "link": "https://www.v2ex.com/t/771338",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "诚心请教，校招生不想写纯业务代码，如何选择更好的发展方向？",
-        "link": "https://www.v2ex.com/t/771337",
-        "date": "2021-04-17"
       }
     ]
   },
@@ -20679,13 +20679,13 @@
         "date": "2021-04-18"
       },
       {
-        "title": "贝锐创始人陈宇晔：花生壳诞生自一次挫折，15 年坚守有温度不作恶",
-        "link": "https://toutiao.io/k/7jktdg5",
+        "title": "使用 awk 查找并修复数据中一对多的不一致问题",
+        "link": "https://toutiao.io/k/rx3r4ia",
         "date": "2021-04-18"
       },
       {
-        "title": "使用 awk 查找并修复数据中一对多的不一致问题",
-        "link": "https://toutiao.io/k/rx3r4ia",
+        "title": "贝锐创始人陈宇晔：花生壳诞生自一次挫折，15 年坚守有温度不作恶",
+        "link": "https://toutiao.io/k/7jktdg5",
         "date": "2021-04-18"
       },
       {
@@ -20694,8 +20694,8 @@
         "date": "2021-04-18"
       },
       {
-        "title": "[译] 图查询语言的历史回顾短文",
-        "link": "https://toutiao.io/k/twwep78",
+        "title": "设计师快醒醒吧！NFT 与你没啥关系",
+        "link": "https://toutiao.io/k/kvmcf3m",
         "date": "2021-04-18"
       },
       {
@@ -20709,38 +20709,13 @@
         "date": "2021-04-18"
       },
       {
-        "title": "设计师快醒醒吧！NFT 与你没啥关系",
-        "link": "https://toutiao.io/k/kvmcf3m",
+        "title": "[译] 图查询语言的历史回顾短文",
+        "link": "https://toutiao.io/k/twwep78",
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 基于 OpenResty 长连接推送的演进",
-        "link": "https://toutiao.io/k/3etk65w",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
-        "link": "https://toutiao.io/k/811or1j",
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
         "date": "2021-04-18"
       },
       {
@@ -20754,13 +20729,13 @@
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
         "date": "2021-04-18"
       },
       {
@@ -20769,8 +20744,23 @@
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
+        "link": "https://toutiao.io/k/hti1ill",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
         "date": "2021-04-18"
       },
       {
@@ -20779,13 +20769,23 @@
         "date": "2021-04-18"
       },
       {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
+        "date": "2021-04-18"
+      },
+      {
         "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
         "link": "https://toutiao.io/k/zpo0xd7",
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
-        "link": "https://toutiao.io/k/hti1ill",
+        "title": "[推荐] 基于 OpenResty 长连接推送的演进",
+        "link": "https://toutiao.io/k/3etk65w",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
         "date": "2021-04-18"
       }
     ]
@@ -20795,6 +20795,31 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "推进网络空间治理 习近平这样部署",
+        "link": "https://sec.thief.one/article_content?a_id=5c16953995d78910bc5ce52aa1ba4476",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "【重大福利!】100本 平航取证技术简报精华合订本领取活动",
+        "link": "https://sec.thief.one/article_content?a_id=982653ba3ba2127226a1f4f5cf4b7d6a",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "炸了.《图解算法》爆款,原来算法还可以这样学!",
+        "link": "https://sec.thief.one/article_content?a_id=ac08d4c64caf02797e5b62a6c1a7343a",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "【漏洞通告】Gitlab多个高危漏洞",
+        "link": "https://sec.thief.one/article_content?a_id=806eeee256d4b6d632dd24672eaf0e23",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "【漏洞通告】Chrome安全问题导致Windows版微信任意代码执行漏洞",
+        "link": "https://sec.thief.one/article_content?a_id=055f2de59f5a3ea456ade1acc7262528",
+        "date": "2021-04-17"
+      },
       {
         "title": "报告数据泄露反被起诉,法案灰色地带再引争议",
         "link": "https://sec.thief.one/article_content?a_id=7aaed7277196fc89476408724e9c20f9",
@@ -21268,31 +21293,6 @@
       {
         "title": "推荐一个学Python的利器",
         "link": "https://sec.thief.one/article_content?a_id=58fe1d44c0e21937c8264420eaea5fdd",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "4·15全民国家安全教育日活动走进校园 奇安信在北京三十五中开讲",
-        "link": "https://sec.thief.one/article_content?a_id=363e79c125fe2597fee67ec039d6ba9c",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "间接执行后门文件绕过防病毒软件",
-        "link": "https://sec.thief.one/article_content?a_id=60e34b0cd3f1b2ac45b7a993183c3ee9",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "多年后,我终于看清了比特币的本质",
-        "link": "https://sec.thief.one/article_content?a_id=527bf10767927b05fb21dd952b51e64a",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "Swarmshop信用卡商店遭攻击,62万张银行卡记录曝光",
-        "link": "https://sec.thief.one/article_content?a_id=ec6f3d49d645938caaefeb443bc49e56",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "新书推荐 | 《白帽子安全开发实战》",
-        "link": "https://sec.thief.one/article_content?a_id=a65e9dee85ec083ad15d9ad59001f146",
         "date": "2021-04-14"
       }
     ]

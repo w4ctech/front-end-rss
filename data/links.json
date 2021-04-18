@@ -20400,6 +20400,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "京东的售后管理真是一言难尽",
+        "link": "https://www.v2ex.com/t/771422",
+        "date": "2021-04-18"
+      },
+      {
         "title": "iPhone 无法连接隐藏的 wifi，每次只能手动连接，怎么解决",
         "link": "https://www.v2ex.com/t/771421",
         "date": "2021-04-18"
@@ -20533,11 +20538,6 @@
         "title": "大家对于同事关系的维持",
         "link": "https://www.v2ex.com/t/771374",
         "date": "2021-04-17"
-      },
-      {
-        "title": "续上次相亲以后…",
-        "link": "https://www.v2ex.com/t/771372",
-        "date": "2021-04-17"
       }
     ]
   },
@@ -20546,6 +20546,21 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "Android 实现小红书登陆页面背景图无限滚动效果 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14304&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FocOgPrfN_6FD8B16n9NYdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "未来，APP 就是一个人的全部 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14303&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fpmb8rKBBUp6sdN1FI-4IOw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "十六年全栈开发者的 Android 开发踩坑实录 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLiRIV5XAvToTpLTLRSkxdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-18"
+      },
       {
         "title": "你的App为何在iPhone12上显示异常，而别人的不会？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14301&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489597%26amp%3Bidx%3D2%26amp%3Bsn%3D4ee3ac433223f43b04edc9779419e9fd%26amp%3Bchksm%3Dfa3cf966cd4b70702b5145d768464ef6532a57737f3953a9110b5af6c067b7e927c6b060ac4d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -20630,21 +20645,6 @@
         "title": "换个角度描述 Android 事件传递，读完会让你耳目一新 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2021-04-18"
-      },
-      {
-        "title": "十余年从业者谈谈 Android 开发现状 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14284&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwGKQ6ZdA3Z_1veEQeeOzzw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "谷歌准备发布Fuchsia首个开发者预览版 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14283&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnVjk_Fr-2xUfCO9T1NhW4Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "Flutter 正在被悄悄放弃吗？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14282&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPc3jcrM67JctE0jgdrgSIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-18"
       }
     ]
   },
@@ -20669,13 +20669,13 @@
         "date": "2021-04-18"
       },
       {
-        "title": "为自己的团队定制 CSS 框架",
-        "link": "https://toutiao.io/k/187g37k",
+        "title": "使用 awk 查找并修复数据中一对多的不一致问题",
+        "link": "https://toutiao.io/k/rx3r4ia",
         "date": "2021-04-18"
       },
       {
-        "title": "使用 awk 查找并修复数据中一对多的不一致问题",
-        "link": "https://toutiao.io/k/rx3r4ia",
+        "title": "为自己的团队定制 CSS 框架",
+        "link": "https://toutiao.io/k/187g37k",
         "date": "2021-04-18"
       },
       {
@@ -20704,38 +20704,8 @@
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
-        "link": "https://toutiao.io/k/hti1ill",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
-        "date": "2021-04-18"
-      },
-      {
         "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
         "link": "https://toutiao.io/k/omkb9gy",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
         "date": "2021-04-18"
       },
       {
@@ -20744,18 +20714,8 @@
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-18"
-      },
-      {
         "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
         "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
         "date": "2021-04-18"
       },
       {
@@ -20769,13 +20729,53 @@
         "date": "2021-04-18"
       },
       {
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
+        "date": "2021-04-18"
+      },
+      {
         "title": "[推荐] 谈谈 MySQL 锁",
         "link": "https://toutiao.io/k/z5c0vp0",
         "date": "2021-04-18"
       },
       {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-18"
+      },
+      {
         "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
         "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
         "date": "2021-04-18"
       }
     ]

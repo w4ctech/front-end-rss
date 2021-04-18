@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-18 02:23:21，:rocket: 更新条数: +4223， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-18 02:32:29，:rocket: 更新条数: +4223， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-18-写代码，就该对自己好一点](https://www.v2ex.com/t/771402) ![](assets/new.png)  
 - [2021-04-18-微信小程序的-threejs，适配了-16-个-loader，各种踩坑记录](https://www.v2ex.com/t/771401) ![](assets/new.png)  
 - [2021-04-18-无线网卡价格也已经翻倍](https://www.v2ex.com/t/771396) ![](assets/new.png)  
 - [2021-04-18-韩国网费是什么水平？](https://www.v2ex.com/t/771392) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-17-请教一下-4K-视频的正确导出姿势？](https://www.v2ex.com/t/771366) ![](assets/new.png)  
 - [2021-04-17-outlook-如何设置每天特定时间段自动回复，不在特定时间段自动恢复正常](https://www.v2ex.com/t/771365) ![](assets/new.png)  
 - [2021-04-17-在手机勿扰状态下，咸鱼依旧在新消息来时，发出提示音。](https://www.v2ex.com/t/771364) ![](assets/new.png)  
-- [2021-04-17-写了一个类似-fastapi-的可以用于几种-web-框架的参数检验库](https://www.v2ex.com/t/771363) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,24 +1060,24 @@
 
 - [2021-04-18-写给开发人员的实用密码学：数字证书](https://toutiao.io/k/nvqjbvt) ![](assets/new.png)  
 - [2021-04-18-不理解-Java-Steam？一步步梳理其工作方式](https://toutiao.io/k/oroh2lf) ![](assets/new.png)  
-- [2021-04-18-为自己的团队定制-CSS-框架](https://toutiao.io/k/187g37k) ![](assets/new.png)  
 - [2021-04-18-面向-K8s-设计误区](https://toutiao.io/k/iebk207) ![](assets/new.png)  
+- [2021-04-18-为自己的团队定制-CSS-框架](https://toutiao.io/k/187g37k) ![](assets/new.png)  
 - [2021-04-18-使用-awk-查找并修复数据中一对多的不一致问题](https://toutiao.io/k/rx3r4ia) ![](assets/new.png)  
 - [2021-04-18-贝锐创始人陈宇晔：花生壳诞生自一次挫折，15-年坚守有温度不作恶](https://toutiao.io/k/7jktdg5) ![](assets/new.png)  
 - [2021-04-18-VueConf-2021-抢先看，Evan-You-和你聊聊-Vue-的未来](https://toutiao.io/k/cygntbm) ![](assets/new.png)  
 - [2021-04-18-设计师快醒醒吧！NFT-与你没啥关系](https://toutiao.io/k/kvmcf3m) ![](assets/new.png)  
 - [2021-04-18-阿里飞猪如何构建旅行场景下的个性化召回？](https://toutiao.io/k/2wt6nrp) ![](assets/new.png)  
 - [2021-04-18-译-图查询语言的历史回顾短文](https://toutiao.io/k/twwep78) ![](assets/new.png)  
-- [2021-04-18-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-18-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-18-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
-- [2021-04-18-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-18-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
-- [2021-04-18-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-18-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [2021-04-18-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-18-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-18-推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w) ![](assets/new.png)  
+- [2021-04-18-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-18-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-18-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-18-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-18-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-18-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
 - [2021-04-18-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
+- [2021-04-18-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

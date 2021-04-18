@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-18 12:56:36，:rocket: 更新条数: +4232， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-18 13:08:33，:rocket: 更新条数: +4233， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-18-看来英雄联盟确实没落了。-今天这么重要的日子都没有人讨论。](https://www.v2ex.com/t/771498) ![](assets/new.png)  
+- [2021-04-18-之前看到的文章，换手机了结果找不到，有没有-v-友看到过](https://www.v2ex.com/t/771497) ![](assets/new.png)  
+- [2021-04-18-表弟阿里码农，想移民去新加坡，求指教](https://www.v2ex.com/t/771496) ![](assets/new.png)  
 - [2021-04-18-前端除了-vue-react-angular，有没有什么更加冷门，稀奇古怪的开发框架，求推荐](https://www.v2ex.com/t/771495) ![](assets/new.png)  
 - [2021-04-18-如何-SSH-到一台用微软账户登陆、使用-PIN-码解锁的-windows10-机器？](https://www.v2ex.com/t/771493) ![](assets/new.png)  
 - [2021-04-18-大佬们-我来问问题了](https://www.v2ex.com/t/771491) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-18-OneDrive-的截屏保存真是个好功能](https://www.v2ex.com/t/771474) ![](assets/new.png)  
 - [2021-04-18-有类似手机或者手机壳收纳包推荐吗](https://www.v2ex.com/t/771473) ![](assets/new.png)  
 - [2021-04-18-win10-跟换地区后出现新的输入法无法删除](https://www.v2ex.com/t/771472) ![](assets/new.png)  
-- [2021-04-18-有哪些浏览器支持-B-站直接输出-5.1-声道音频？](https://www.v2ex.com/t/771471) ![](assets/new.png)  
-- [2021-04-18-系统根目录下有个名为-1-的文件，是恶意程序产生的吗](https://www.v2ex.com/t/771470) ![](assets/new.png)  
-- [2021-04-18-上海电信-SDN-宽带怎么换光猫](https://www.v2ex.com/t/771468) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1068,16 @@
 - [2021-04-18-阿里飞猪如何构建旅行场景下的个性化召回？](https://toutiao.io/k/2wt6nrp) ![](assets/new.png)  
 - [2021-04-18-VueConf-2021-抢先看，Evan-You-和你聊聊-Vue-的未来](https://toutiao.io/k/cygntbm) ![](assets/new.png)  
 - [2021-04-18-设计师快醒醒吧！NFT-与你没啥关系](https://toutiao.io/k/kvmcf3m) ![](assets/new.png)  
-- [2021-04-18-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
-- [2021-04-18-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-18-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
-- [2021-04-18-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-18-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-18-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-18-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
 - [2021-04-18-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-18-推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w) ![](assets/new.png)  
+- [2021-04-18-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-18-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-18-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-18-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
 - [2021-04-18-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
+- [2021-04-18-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-18-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-18-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-18-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

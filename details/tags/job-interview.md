@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-18 15:02:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-18 15:24:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -21,11 +21,15 @@
 - [2021-04-13-400-道前端工程师常考必考面试题+详细解答-|-极客大学](https://www.ershicimi.com/p/4eed27c383cac51bac2cc6aaa5c66cff) 
 - [2021-04-12-面试官问：indexOf-和-findIndex-的区别](https://www.ershicimi.com/p/84cf78b358b550b377eaf597affc8ee2) 
 - [2021-04-13-这是我面试42场拿下微软、蚂蚁、头条offer的方法论](https://www.ershicimi.com/p/0efa9475ef99661f46f35f1248a6e1bb) 
+- [2021-04-18-面试官问：两数之和、三数之和、直至-N-数之和？套路一致吗？](https://www.ershicimi.com/p/e6b40c1bedf0ae0c7478226ac3b1cb17) 
+- [2021-04-17-面试官问：了解词法环境吗？它和闭包有什么联系？](https://www.ershicimi.com/p/1fda0c60d55875f192a220607560e257) 
+- [2021-04-16-面试官问：从页面-A-打开一个新页面-B，B-页面关闭（包括意外崩溃），如何通知-A-页面？](https://www.ershicimi.com/p/477485437dee64de914e08a7aba5dd76) 
 - [2021-04-14-太赞了，华为工程师总结的400道前端面试题提供下载](https://www.ershicimi.com/p/d2b201bb6e203167c5125cb3ca2e693c) 
 - [2021-04-10-面试官问：typeof-可以判断哪些类型？instanceof-做了什么？null为什么被typeo](https://www.ershicimi.com/p/00b2858dd2cca528e41c3cc38a5249ae) 
-- [2021-04-07-面试官问：indexOf-和-findIndex-的区别](https://www.ershicimi.com/p/8ed0e8673b0041d8cada9645ba128205) 
 - [2021-04-14-【招聘贴】百度智能业务部急招高级前端](https://www.ershicimi.com/p/39d1ab76f88df6c0db86e5dc2a0c9146) 
 - [2021-04-06-我经常和面试者聊的一个题目](https://www.ershicimi.com/p/a5d52276ba839bc69dcc08a851e8fbca) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-04-11-2021大数据开发面试高频100题最新汇总（附答案详解）-｜-极客大学](https://www.ershicimi.com/p/fb2d6cf91f5ce617c99d6548348dcff5) 
 - [2021-04-18-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) 
+- [2021-04-16-【招聘】苏州极光无限信息技术有限公司](https://sec.thief.one/article_content?a_id=e2f51a3b7008367a0633bbcdbc0748bf) 
+- [2021-04-15-干货集合-|-Java程序员的93家大厂面试真题](https://sec.thief.one/article_content?a_id=24ba2d7c218c7378084c4ebeb5f700fc) 

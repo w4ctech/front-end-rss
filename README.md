@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-18 01:57:34，:rocket: 更新条数: +708， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-18 02:14:34，:rocket: 更新条数: +4222， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-04-18-4月17日全国新增新冠16例-均由境外输入](https://m.caixin.com/m/2021-04-18/101692807.html) ![](assets/new.png)  
+- [2021-04-18-科兴疫苗智利真实世界保护率达67%-印度新德里阳性率达24%｜大流行手记（4月17日）](https://m.caixin.com/m/2021-04-18/101692822.html) ![](assets/new.png)  
+- [2021-04-17-最新海外疫情：新冠感染超1.39亿-累计死亡超299万](https://m.caixin.com/m/2021-04-17/101692746.html) ![](assets/new.png)  
+- [2021-04-17-【境内疫情观察】云南新增1例本土病例（4月16日）](http://m.database.caixin.com/m/2021-04-17/101692717.html) ![](assets/new.png)  
+- [2021-04-17-辉瑞称接种者或需打第三剂疫苗-以色列取消户外口罩令｜大流行手记（4月16日）](https://m.caixin.com/m/2021-04-17/101692553.html) ![](assets/new.png)  
+- [2021-04-16-印度单日新增确诊首破20万人-全球疫苗供应紧缺｜大流行手记（4月15日）](https://m.caixin.com/m/2021-04-16/101691883.html) ![](assets/new.png)  
+- [2021-04-15-香港放宽新冠疫苗接种年龄限制-明年将采购新一代疫苗](https://m.caixin.com/m/2021-04-15/101691804.html) ![](assets/new.png)  
+- [2021-04-15-【境内疫情观察】全国新增10例境外输入病例（4月14日）](http://m.database.caixin.com/m/2021-04-15/101691588.html) ![](assets/new.png)  
+- [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
+- [2021-04-14-云南瑞丽4月13日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-14/101690804.html) ![](assets/new.png)  
+- [2021-04-14-【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html) ![](assets/new.png)  
+- [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
+- [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
+- [2021-04-13-【境内疫情观察】我国新冠疫苗累计接种超1.67亿剂次（4月12日）](http://m.database.caixin.com/m/2021-04-13/101690476.html) ![](assets/new.png)  
+- [2021-04-13-英国重开商场健身房-澳放弃年底前全民接种目标｜大流行手记（4月12日）](https://m.caixin.com/m/2021-04-13/101690235.html) ![](assets/new.png)  
+- [2021-04-12-香港与内地通关现曙光-5月中旬起内地民众来港免隔离](https://m.caixin.com/m/2021-04-12/101690149.html) ![](assets/new.png)  
+- [2021-04-12-云南4月11日新增新冠2例-均在瑞丽市](https://m.caixin.com/m/2021-04-12/101688731.html) ![](assets/new.png)  
+- [2021-04-12-【境内疫情观察】云南新增2例本土病例（4月11日）](http://m.database.caixin.com/m/2021-04-12/101689975.html) ![](assets/new.png)  
+- [2021-04-12-南非变异株或可逃逸辉瑞疫苗保护-印度单日新增破15万｜大流行手记（4月11日）](https://m.caixin.com/m/2021-04-12/101688748.html) ![](assets/new.png)  
+- [2021-04-12-高福回应中国新冠疫苗保护率言论](https://m.caixin.com/m/2021-04-12/101688777.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -976,6 +996,7 @@
 </summary>
 
 
+- [2021-04-18-无线网卡价格也已经翻倍](https://www.v2ex.com/t/771396) ![](assets/new.png)  
 - [2021-04-18-韩国网费是什么水平？](https://www.v2ex.com/t/771392) ![](assets/new.png)  
 - [2021-04-18-想往-Cloudflare-里转移域名，但是-cf-就告诉我转移失败，没有报错。](https://www.v2ex.com/t/771388) ![](assets/new.png)  
 - [2021-04-18-整理了部分-Big-Sur-的-App-ICNS](https://www.v2ex.com/t/771387) ![](assets/new.png)  
@@ -995,7 +1016,6 @@
 - [2021-04-17-在手机勿扰状态下，咸鱼依旧在新消息来时，发出提示音。](https://www.v2ex.com/t/771364) ![](assets/new.png)  
 - [2021-04-17-写了一个类似-fastapi-的可以用于几种-web-框架的参数检验库](https://www.v2ex.com/t/771363) ![](assets/new.png)  
 - [2021-04-17-求助-有没有要入手-apple-或者华为或者其他-3c-产品的](https://www.v2ex.com/t/771360) ![](assets/new.png)  
-- [2021-04-17-大家都玩上了吗？](https://www.v2ex.com/t/771359) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1046,17 +1066,17 @@
 - [2021-04-18-贝锐创始人陈宇晔：花生壳诞生自一次挫折，15-年坚守有温度不作恶](https://toutiao.io/k/7jktdg5) ![](assets/new.png)  
 - [2021-04-18-设计师快醒醒吧！NFT-与你没啥关系](https://toutiao.io/k/kvmcf3m) ![](assets/new.png)  
 - [2021-04-18-VueConf-2021-抢先看，Evan-You-和你聊聊-Vue-的未来](https://toutiao.io/k/cygntbm) ![](assets/new.png)  
-- [2021-04-18-译-图查询语言的历史回顾短文](https://toutiao.io/k/twwep78) ![](assets/new.png)  
 - [2021-04-18-阿里飞猪如何构建旅行场景下的个性化召回？](https://toutiao.io/k/2wt6nrp) ![](assets/new.png)  
-- [2021-04-18-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-18-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-18-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
-- [2021-04-18-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-18-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-18-推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w) ![](assets/new.png)  
+- [2021-04-18-译-图查询语言的历史回顾短文](https://toutiao.io/k/twwep78) ![](assets/new.png)  
+- [2021-04-18-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-18-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
 - [2021-04-18-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
-- [2021-04-18-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
-- [2021-04-18-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-18-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-18-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-18-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-18-推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w) ![](assets/new.png)  
+- [2021-04-18-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-18-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
 - [2021-04-18-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

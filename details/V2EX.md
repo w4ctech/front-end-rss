@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-18 00:26:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-18 00:47:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -34,5 +34,3 @@
 - [2021-04-17-macbook-pro2019-看-b-站视频，风扇狂转，你们有这情况吗](https://www.v2ex.com/t/771348) 
 - [2021-04-17-Twitter-宕机了？](https://www.v2ex.com/t/771344) 
 - [2021-04-17-请问有什么好的装修公司推荐吗？](https://www.v2ex.com/t/771342) 
-- [2021-04-17-你觉得现阶段三大运营商-5G-真实体验是什么样的](https://www.v2ex.com/t/771340) 
-- [2021-04-17-怎么获取-dev-insider-版本-windows-呢](https://www.v2ex.com/t/771339) 

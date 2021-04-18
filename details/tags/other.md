@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-18 06:54:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-18 07:06:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2021-04-18-4月17日全国新增新冠16例-均由境外输入](https://m.caixin.com/m/2021-04-18/101692807.html) 
+- [2021-04-18-【境内疫情观察】全国新增16例境外输入病例（4月17日）](http://m.database.caixin.com/m/2021-04-18/101692852.html) 
 - [2021-04-18-科兴疫苗智利真实世界保护率达67%-礼来中和抗体紧急授权被收回｜大流行手记（4月17日）](https://m.caixin.com/m/2021-04-18/101692822.html) 
 - [2021-04-17-最新海外疫情：新冠感染超1.39亿-累计死亡超299万](https://m.caixin.com/m/2021-04-17/101692746.html) 
 - [2021-04-17-【境内疫情观察】云南新增1例本土病例（4月16日）](http://m.database.caixin.com/m/2021-04-17/101692717.html) 
@@ -3381,6 +3382,10 @@
 - [2021-04-09-知乎故事-|-碰上他，我们都成为了更好一点点的人](https://www.ershicimi.com/p/e1c489a34a6a1b6ec786aabe48ddd2f5) 
 - [2021-04-08-世界考古史中，有哪些具有「谜一般现代感」的发现？](https://www.ershicimi.com/p/8feb2397693fd43cc1528ea317f0ffea) 
 - [2021-04-08-知乎故事-|-你认识过哪些惊为天人的人物？](https://www.ershicimi.com/p/9bb12432b86a03b682c8091dfbc110d8) 
+- [2021-04-18-收点-DDR3-1600-REG-ECC-的内存，谁家机房有多余的？](https://www.v2ex.com/t/771446) 
+- [2021-04-18-为何非系统磁盘读写占满后系统会卡？](https://www.v2ex.com/t/771445) 
+- [2021-04-18-有没有在上岸考公的？](https://www.v2ex.com/t/771444) 
+- [2021-04-18-有没有桌面版的抖音快手更新提示？](https://www.v2ex.com/t/771443) 
 - [2021-04-18-推荐一个-IDEA-插件——Toolkit，快来下载使用~](https://www.v2ex.com/t/771441) 
 - [2021-04-18-中国移动似乎扩了-ipv6-的出口，有小伙伴分享一下使用感受吗？](https://www.v2ex.com/t/771440) 
 - [2021-04-18-求助一个前端加密后端解密的问题？](https://www.v2ex.com/t/771438) 
@@ -3403,7 +3408,6 @@
 - [2021-04-18-2021-年求好用的录屏软件](https://www.v2ex.com/t/771406) 
 - [2021-04-18-运营商根据报装地址搞价格歧视，向工信部投诉可以解决吗？](https://www.v2ex.com/t/771405) 
 - [2021-04-18-MacOS-10.15-文件的-icon-图标显示不正确-大家怎么解决的？](https://www.v2ex.com/t/771404) 
-- [2021-04-18-韩国网费是什么水平？](https://www.v2ex.com/t/771392) 
 - [2021-04-18-未来，APP-就是一个人的全部-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14303&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fpmb8rKBBUp6sdN1FI-4IOw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-18-你的App为何在iPhone12上显示异常，而别人的不会？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14301&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489597%26amp%3Bidx%3D2%26amp%3Bsn%3D4ee3ac433223f43b04edc9779419e9fd%26amp%3Bchksm%3Dfa3cf966cd4b70702b5145d768464ef6532a57737f3953a9110b5af6c067b7e927c6b060ac4d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-18-大厂的404页面都长啥样？最后一个亮了...-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14300&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489588%26amp%3Bidx%3D1%26amp%3Bsn%3D702f2a7cf366199d4b96d7e7788ccba5%26amp%3Bchksm%3Dfa3cf96fcd4b7079291178651ea0ad2e1dbf6afe23e75fab33002049de5845bf77249566d54a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -3426,15 +3430,15 @@
 - [2021-04-18-译-图查询语言的历史回顾短文](https://toutiao.io/k/twwep78) 
 - [2021-04-18-贝锐创始人陈宇晔：花生壳诞生自一次挫折，15-年坚守有温度不作恶](https://toutiao.io/k/7jktdg5) 
 - [2021-04-18-设计师快醒醒吧！NFT-与你没啥关系](https://toutiao.io/k/kvmcf3m) 
-- [2021-04-18-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
-- [2021-04-18-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
-- [2021-04-18-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
-- [2021-04-18-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) 
 - [2021-04-18-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
-- [2021-04-18-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
 - [2021-04-18-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
+- [2021-04-18-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
+- [2021-04-18-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
 - [2021-04-18-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
+- [2021-04-18-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
 - [2021-04-18-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
+- [2021-04-18-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
+- [2021-04-18-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) 
 - [2021-04-18-推进网络空间治理-习近平这样部署](https://sec.thief.one/article_content?a_id=5c16953995d78910bc5ce52aa1ba4476) 
 - [2021-04-18-【重大福利!】100本-平航取证技术简报精华合订本领取活动](https://sec.thief.one/article_content?a_id=982653ba3ba2127226a1f4f5cf4b7d6a) 
 - [2021-04-17-报告数据泄露反被起诉,法案灰色地带再引争议](https://sec.thief.one/article_content?a_id=7aaed7277196fc89476408724e9c20f9) 

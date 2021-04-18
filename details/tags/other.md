@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-18 05:38:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-18 05:51:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3424,15 +3424,15 @@
 - [2021-04-18-译-图查询语言的历史回顾短文](https://toutiao.io/k/twwep78) 
 - [2021-04-18-贝锐创始人陈宇晔：花生壳诞生自一次挫折，15-年坚守有温度不作恶](https://toutiao.io/k/7jktdg5) 
 - [2021-04-18-设计师快醒醒吧！NFT-与你没啥关系](https://toutiao.io/k/kvmcf3m) 
+- [2021-04-18-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
+- [2021-04-18-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
 - [2021-04-18-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
-- [2021-04-18-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
-- [2021-04-18-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
-- [2021-04-18-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
+- [2021-04-18-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
 - [2021-04-18-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) 
 - [2021-04-18-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
+- [2021-04-18-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
+- [2021-04-18-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
 - [2021-04-18-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
-- [2021-04-18-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
-- [2021-04-18-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
 - [2021-04-18-推进网络空间治理-习近平这样部署](https://sec.thief.one/article_content?a_id=5c16953995d78910bc5ce52aa1ba4476) 
 - [2021-04-18-【重大福利!】100本-平航取证技术简报精华合订本领取活动](https://sec.thief.one/article_content?a_id=982653ba3ba2127226a1f4f5cf4b7d6a) 
 - [2021-04-17-报告数据泄露反被起诉,法案灰色地带再引争议](https://sec.thief.one/article_content?a_id=7aaed7277196fc89476408724e9c20f9) 

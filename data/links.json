@@ -5,6 +5,16 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "最新疫情：全国新冠累计确诊90499例 累计接种新冠疫苗近1.9亿剂次",
+        "link": "https://m.caixin.com/m/2021-04-18/101692882.html",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "最新海外疫情：新冠感染超1.4亿 累计死亡超300万",
+        "link": "https://m.caixin.com/m/2021-04-18/101692885.html",
+        "date": "2021-04-18"
+      },
+      {
         "title": "【境内疫情观察】全国新增16例境外输入病例（4月17日）",
         "link": "http://m.database.caixin.com/m/2021-04-18/101692852.html",
         "date": "2021-04-18"
@@ -13,11 +23,6 @@
         "title": "科兴疫苗智利真实世界保护率达67% 礼来中和抗体紧急授权被收回｜大流行手记（4月17日）",
         "link": "https://m.caixin.com/m/2021-04-18/101692822.html",
         "date": "2021-04-18"
-      },
-      {
-        "title": "最新海外疫情：新冠感染超1.39亿 累计死亡超299万",
-        "link": "https://m.caixin.com/m/2021-04-17/101692746.html",
-        "date": "2021-04-17"
       },
       {
         "title": "【境内疫情观察】云南新增1例本土病例（4月16日）",
@@ -20400,6 +20405,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "迫于入职体检，但近期刚刚做过胸片，体检时能不能不做 x 光，拿医院的检测结果给他们做参考？",
+        "link": "https://www.v2ex.com/t/771502",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "macOS 腾讯视频商店最新版 2.20.0 打开即黑屏，大家也是一样么？",
+        "link": "https://www.v2ex.com/t/771499",
+        "date": "2021-04-18"
+      },
+      {
         "title": "看来英雄联盟确实没落了。 今天这么重要的日子都没有人讨论。",
         "link": "https://www.v2ex.com/t/771498",
         "date": "2021-04-18"
@@ -20573,21 +20588,6 @@
         "title": "百度地图怎么没搞这个功能",
         "link": "https://www.v2ex.com/t/771453",
         "date": "2021-04-18"
-      },
-      {
-        "title": "Clion 2020.2 怎么导入远程头文件。",
-        "link": "https://www.v2ex.com/t/771452",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "如果手工对 AES-GCM 算法的明文(和密文)分段，用上一段的 Authentication tag 作为下一段的 Associated data，是否会带来额外安全风险？",
-        "link": "https://www.v2ex.com/t/771450",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "还是 NAS 卡顿问题，这次来问丢包问题了，求大神分析",
-        "link": "https://www.v2ex.com/t/771449",
-        "date": "2021-04-18"
       }
     ]
   },
@@ -20754,13 +20754,13 @@
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
         "date": "2021-04-18"
       },
       {
@@ -20769,8 +20769,8 @@
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
         "date": "2021-04-18"
       },
       {
@@ -20779,8 +20779,13 @@
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
+        "title": "[推荐] 基于 OpenResty 长连接推送的演进",
+        "link": "https://toutiao.io/k/3etk65w",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
         "date": "2021-04-18"
       },
       {
@@ -20794,18 +20799,8 @@
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
         "date": "2021-04-18"
       },
       {
@@ -20814,18 +20809,23 @@
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 基于 OpenResty 长连接推送的演进",
-        "link": "https://toutiao.io/k/3etk65w",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-18"
-      },
-      {
         "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
         "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
         "date": "2021-04-18"
       }
     ]

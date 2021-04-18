@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-18 10:03:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-18 10:24:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,7 +42,8 @@
 - [2021-04-12-全世界下载量超-100-亿，curl-怎样成为影响世界的开源项目？](https://www.ershicimi.com/p/f95ec01a19a44e7f8bc459e370f801ca) 
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
 - [2021-04-18-如果手工对-AES-GCM-算法的明文和密文分段，用上一段的-Authentication-tag-作为下一段的-Associated-data，是否会带来额外安全风险？](https://www.v2ex.com/t/771450) 
-- [2021-04-18-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
+- [2021-04-18-独生子女的“安全部”之演习前准备](https://sec.thief.one/article_content?a_id=0d7123d270cf194f77986ba0c673993a) 
+- [2021-04-18-安全运营周刊第三十二期](https://sec.thief.one/article_content?a_id=ef5cb36162e0313ed78f769b48241441) 
 - [2021-04-17-【漏洞通告】Chrome安全问题导致Windows版微信任意代码执行漏洞](https://sec.thief.one/article_content?a_id=055f2de59f5a3ea456ade1acc7262528) 
 - [2021-04-17-安全招聘汇总-|-第十三期](https://sec.thief.one/article_content?a_id=3d968408ba44125c0909a946f9d3b4a2) 
 - [2021-04-17-内推福利-|-渗透测试工程师/C++工程师/逆向安全工程师](https://sec.thief.one/article_content?a_id=3591825a6dd0aa4d10742bb52de830dc) 
@@ -57,6 +58,7 @@
 - [2021-04-16-2020年全球网络安全风险投资创历史新高](https://sec.thief.one/article_content?a_id=bf994fe7cc8ca7a62d755448877c7786) 
 - [2021-04-16-每日安全动态推送04-16](https://sec.thief.one/article_content?a_id=80e88977964b139aa68194e9fe4a2875) 
 - [2021-04-16-战略投资|立思辰安科荣获中国电科工控网络安全领域独家战略投资](https://sec.thief.one/article_content?a_id=0ddfdbdfbdb0d5081f40e9f923e481c3) 
+- [2021-04-16-第三方安全漏洞破坏了新加坡求职研究所的相关数据](https://sec.thief.one/article_content?a_id=cb35da840c2102c764a014e2082f7a8a) 
 - [2021-04-16-你的登录接口真的安全吗?快看看你有没有中招!](https://sec.thief.one/article_content?a_id=2f9c03b2cdf8b6c4c50f5aff73432937) 
 - [2021-04-15-智行·见远-|-腾云驭智,新华三主动安全护航数字未来](https://sec.thief.one/article_content?a_id=1c7dfb80cb56e7ca25208bc4c9b37a04) 
 - [2021-04-15-【安全圈】全民国家安全教育日-|-网络安全也是国家安全!](https://sec.thief.one/article_content?a_id=750c95f46a15045fb1c91b3b3cd2d00b) 
@@ -65,6 +67,3 @@
 - [2021-04-15-安全日报2021.04.15](https://sec.thief.one/article_content?a_id=2e7bba14a9c4dfa57ab70b4c1c6170ca) 
 - [2021-04-15-这家安全公司帮助FBI“破解”了iPhone](https://sec.thief.one/article_content?a_id=229f0cea00437a3c9c0eee9ded44c8e8) 
 - [2021-04-15-央行《金融数据生命周期安全规范》发布-附全文](https://sec.thief.one/article_content?a_id=0ffba90236079c461cfcf331f524962d) 
-- [2021-04-14-【天问】Chrome-0Day漏洞软件供应链影响分析](https://sec.thief.one/article_content?a_id=6ca0f366d6ed34740fd35f56bace48a5) 
-- [2021-04-14-【安全圈】苹果-MAC-电脑默认文本程序存在漏洞,黑客可随意截取-IP-...](https://sec.thief.one/article_content?a_id=d0a3679545ff1475e40d03a2d8acbdf1) 
-- [2021-04-14-聚焦实践|绿盟科技支持全国大学生信息安全竞赛东北、华中赛区](https://sec.thief.one/article_content?a_id=b1394ff965051e065b79a6b3a3e65fd5) 

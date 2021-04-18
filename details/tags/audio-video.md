@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-18 10:03:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-18 10:24:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,6 +86,6 @@
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-04-18-有哪些浏览器支持-B-站直接输出-5.1-声道音频？](https://www.v2ex.com/t/771471) 
+- [2021-04-18-【视频】|-DDOS攻击原理演示](https://sec.thief.one/article_content?a_id=5031aca090c15809309ea35d61853768) 
 - [2021-04-17-【视频】|-Python:迭代器+可迭代的与生成](https://sec.thief.one/article_content?a_id=f91b1d23e35b62842166496215c0d293) 
 - [2021-04-16-视频-|《中华人民共和国密码法》解读](https://sec.thief.one/article_content?a_id=d05b409709c23d9f8f095874bc176d22) 
-- [2021-04-15-【视频】|-Python:生成器之应用多任务](https://sec.thief.one/article_content?a_id=a5f94bf6019c08941b6e4ead46bd510e) 

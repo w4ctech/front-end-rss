@@ -20405,6 +20405,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "OneDrive 的截屏保存真是个好功能",
+        "link": "https://www.v2ex.com/t/771474",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "有类似手机或者手机壳收纳包推荐吗",
+        "link": "https://www.v2ex.com/t/771473",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "win10 跟换地区后出现新的输入法无法删除",
+        "link": "https://www.v2ex.com/t/771472",
+        "date": "2021-04-18"
+      },
+      {
         "title": "有哪些浏览器支持 B 站直接输出 5.1 声道音频？",
         "link": "https://www.v2ex.com/t/771471",
         "date": "2021-04-18"
@@ -20573,16 +20588,6 @@
         "title": "请教, 搞一台备用机, 3000 以内的预算, Android 的.有什么推荐吗?",
         "link": "https://www.v2ex.com/t/771425",
         "date": "2021-04-18"
-      },
-      {
-        "title": "Javascript 数组及其方法详解",
-        "link": "https://www.v2ex.com/t/771424",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "京东的售后管理真是一言难尽",
-        "link": "https://www.v2ex.com/t/771422",
-        "date": "2021-04-18"
       }
     ]
   },
@@ -20749,33 +20754,8 @@
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
-        "link": "https://toutiao.io/k/811or1j",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
         "date": "2021-04-18"
       },
       {
@@ -20784,13 +20764,8 @@
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-18"
       },
       {
@@ -20799,18 +20774,18 @@
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
         "date": "2021-04-18"
       },
       {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
         "date": "2021-04-18"
       },
       {
@@ -20822,6 +20797,36 @@
         "title": "[推荐] 其实，每次面试的问题都逃不过这几方面",
         "link": "https://toutiao.io/k/hti1ill",
         "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-18"
       }
     ]
   },
@@ -20830,6 +20835,61 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "独生子女的“安全部”之演习前准备",
+        "link": "https://sec.thief.one/article_content?a_id=0d7123d270cf194f77986ba0c673993a",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "牛逼坏了!牙医教你用450行代码写出一个编程语言",
+        "link": "https://sec.thief.one/article_content?a_id=33b1692a920f071de5c4ba31e99bd734",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "开始啦!全国革命文物百佳讲述人候选人作品展播①",
+        "link": "https://sec.thief.one/article_content?a_id=6b8017ac2e1a4745084fde7926ec9cd0",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "对WhatsApp中消息自动回复的Android恶意软件分析",
+        "link": "https://sec.thief.one/article_content?a_id=695b4ba8d06cb4904ba6450051f43aa5",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "在Z|荣耀终端(60W+/年)、VIVO招贤;10年+信安经验求职管理/技术岗",
+        "link": "https://sec.thief.one/article_content?a_id=fce3009871550d41fc9551be9639fc9e",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "安全运营周刊第三十二期",
+        "link": "https://sec.thief.one/article_content?a_id=ef5cb36162e0313ed78f769b48241441",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "联合国中招邮件诈骗,行骗者获利270万却称生活所迫?",
+        "link": "https://sec.thief.one/article_content?a_id=228dd4f683c74faaab9cb9aedc4e32a9",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "两个月内 50 家公司遭入侵,互联网上最具规模的黑客组织 Cl0p 逐渐浮...",
+        "link": "https://sec.thief.one/article_content?a_id=4da74adb304d0898afdf4aef83f05766",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "包邮送100本 Python 技术书!",
+        "link": "https://sec.thief.one/article_content?a_id=9194d248ad0133751bb7f20de3f128a5",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "【Android CTF】XCTF黑客精神—Frida RPC爆破",
+        "link": "https://sec.thief.one/article_content?a_id=9bfe228a8bb120ee952eadd6d11a7057",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "【视频】| DDOS攻击原理演示",
+        "link": "https://sec.thief.one/article_content?a_id=5031aca090c15809309ea35d61853768",
+        "date": "2021-04-18"
+      },
       {
         "title": "推进网络空间治理 习近平这样部署",
         "link": "https://sec.thief.one/article_content?a_id=5c16953995d78910bc5ce52aa1ba4476",
@@ -21086,6 +21146,11 @@
         "date": "2021-04-16"
       },
       {
+        "title": "第三方安全漏洞破坏了新加坡求职研究所的相关数据",
+        "link": "https://sec.thief.one/article_content?a_id=cb35da840c2102c764a014e2082f7a8a",
+        "date": "2021-04-16"
+      },
+      {
         "title": "勒索软件团伙全额退还赎金仍盈利",
         "link": "https://sec.thief.one/article_content?a_id=beb97ab711923231b49fa5d77a7076f2",
         "date": "2021-04-16"
@@ -21269,66 +21334,6 @@
         "title": "总结一下,我在国企当程序员!",
         "link": "https://sec.thief.one/article_content?a_id=41fac33c16999d5ce302034ec33655b2",
         "date": "2021-04-15"
-      },
-      {
-        "title": "【Android 原创】Android硬核https抓包,自定义ssl也无用",
-        "link": "https://sec.thief.one/article_content?a_id=91772f9844aa927a43b1f3bde6069026",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "黑客用GitHub服务器挖矿,三天跑了3万个任务,代码惊现中文",
-        "link": "https://sec.thief.one/article_content?a_id=817eeee93cd0e8cef12237e8a8cf6d02",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "Python 最快Web框架",
-        "link": "https://sec.thief.one/article_content?a_id=5a1c3dcc2f0b88660cf917e29d73c076",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "【视频】| Python:生成器之应用多任务",
-        "link": "https://sec.thief.one/article_content?a_id=a5f94bf6019c08941b6e4ead46bd510e",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "习近平:你们是与中国沟通的桥梁",
-        "link": "https://sec.thief.one/article_content?a_id=5e5a32a617890cc3deb770322dc5a7ed",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "CISP-F专业资质介绍",
-        "link": "https://sec.thief.one/article_content?a_id=430a6c46caa2ca342061e003526ced1f",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "20210413|漏洞处置情况",
-        "link": "https://sec.thief.one/article_content?a_id=7093f90dd150b644d864a0f52e5cdb8c",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "【天问】Chrome 0Day漏洞软件供应链影响分析",
-        "link": "https://sec.thief.one/article_content?a_id=6ca0f366d6ed34740fd35f56bace48a5",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "【安全圈】苹果 MAC 电脑默认文本程序存在漏洞,黑客可随意截取 IP ...",
-        "link": "https://sec.thief.one/article_content?a_id=d0a3679545ff1475e40d03a2d8acbdf1",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "聚焦实践|绿盟科技支持全国大学生信息安全竞赛东北、华中赛区",
-        "link": "https://sec.thief.one/article_content?a_id=b1394ff965051e065b79a6b3a3e65fd5",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "构建用户评分体系",
-        "link": "https://sec.thief.one/article_content?a_id=55176329849cb84d3e3c1baa6eafd5ff",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "推荐一个学Python的利器",
-        "link": "https://sec.thief.one/article_content?a_id=58fe1d44c0e21937c8264420eaea5fdd",
-        "date": "2021-04-14"
       }
     ]
   },

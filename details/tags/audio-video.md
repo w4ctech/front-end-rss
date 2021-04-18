@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-18 12:03:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-18 12:24:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -89,3 +89,4 @@
 - [2021-04-18-【视频】|-DDOS攻击原理演示](https://sec.thief.one/article_content?a_id=5031aca090c15809309ea35d61853768) 
 - [2021-04-17-【视频】|-Python:迭代器+可迭代的与生成](https://sec.thief.one/article_content?a_id=f91b1d23e35b62842166496215c0d293) 
 - [2021-04-16-视频-|《中华人民共和国密码法》解读](https://sec.thief.one/article_content?a_id=d05b409709c23d9f8f095874bc176d22) 
+- [2021-04-16-华为自动驾驶实车实路测试视频曝光！徐直军：比特斯拉好多了](https://www.ershicimi.com/p/c33fe0e76c2be0eec9fef7f25ef8d350) 

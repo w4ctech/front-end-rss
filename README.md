@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-18 12:03:11，:rocket: 更新条数: +4233， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-18 12:24:39，:rocket: 更新条数: +4234， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,10 @@
 </summary>
 
 
+- [2021-04-18-如何-SSH-到一台用微软账户登陆、使用-PIN-码解锁的-windows10-机器？](https://www.v2ex.com/t/771493) ![](assets/new.png)  
+- [2021-04-18-大佬们-我来问问题了](https://www.v2ex.com/t/771491) ![](assets/new.png)  
+- [2021-04-18-求推荐适配-MACOS-的无线机械键盘](https://www.v2ex.com/t/771490) ![](assets/new.png)  
+- [2021-04-18-一个基于腾讯云函数服务的代理池](https://www.v2ex.com/t/771489) ![](assets/new.png)  
 - [2021-04-18-刚刚去华强北换电池回来，发现键盘-asdfghjkl-失灵了](https://www.v2ex.com/t/771488) ![](assets/new.png)  
 - [2021-04-18-迫于英语环境磨合期，求推荐一本关于“计算机网络”的书](https://www.v2ex.com/t/771487) ![](assets/new.png)  
 - [2021-04-18-请问是被攻·击了吗？日志里大量-NtLmSsp-登录进程，审核失败。如何通过路由器屏蔽某个外部-IP-访问？](https://www.v2ex.com/t/771484) ![](assets/new.png)  
@@ -1012,10 +1016,6 @@
 - [2021-04-18-系统根目录下有个名为-1-的文件，是恶意程序产生的吗](https://www.v2ex.com/t/771470) ![](assets/new.png)  
 - [2021-04-18-上海电信-SDN-宽带怎么换光猫](https://www.v2ex.com/t/771468) ![](assets/new.png)  
 - [2021-04-18-基于-Vite-+-React-构建-Chrome-Extension-MV3-开发环境](https://www.v2ex.com/t/771467) ![](assets/new.png)  
-- [2021-04-18-Vue-项目是否无法使用-debugger-反爬虫？](https://www.v2ex.com/t/771465) ![](assets/new.png)  
-- [2021-04-18-有没有什么网站可以获取最新的技术新闻的？](https://www.v2ex.com/t/771464) ![](assets/new.png)  
-- [2021-04-18-crontab-无法执行-coscmd-上传文件到对象存储](https://www.v2ex.com/t/771463) ![](assets/new.png)  
-- [2021-04-18-在什么值得买的发现诡异的一幕](https://www.v2ex.com/t/771462) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1068,16 @@
 - [2021-04-18-阿里飞猪如何构建旅行场景下的个性化召回？](https://toutiao.io/k/2wt6nrp) ![](assets/new.png)  
 - [2021-04-18-VueConf-2021-抢先看，Evan-You-和你聊聊-Vue-的未来](https://toutiao.io/k/cygntbm) ![](assets/new.png)  
 - [2021-04-18-设计师快醒醒吧！NFT-与你没啥关系](https://toutiao.io/k/kvmcf3m) ![](assets/new.png)  
-- [2021-04-18-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
-- [2021-04-18-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-18-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-18-推荐-其实，每次面试的问题都逃不过这几方面](https://toutiao.io/k/hti1ill) ![](assets/new.png)  
+- [2021-04-18-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-18-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-18-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
 - [2021-04-18-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-18-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
 - [2021-04-18-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
-- [2021-04-18-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
-- [2021-04-18-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-18-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-18-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-18-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-18-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-18-推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w) ![](assets/new.png)  
+- [2021-04-18-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1120,6 +1120,17 @@
 </summary>
 
 
+- [2021-04-18-2021超强风口，物联网成为实现“碳中和”的关键【物女心经】](https://www.ershicimi.com/p/381bfa5d2dfa4c9ca01d5e64f9ac4f53) ![](assets/new.png)  
+- [2021-04-18-从败家子到摇钱树！复盘云计算三巨头崛起之路](https://www.ershicimi.com/p/b3bac2c8f7133213ab26552b432aaff3) ![](assets/new.png)  
+- [2021-04-17-罕见！16部委联合发文，智能家居迎来重磅政策红利，2025年前要实现....](https://www.ershicimi.com/p/9d35da67ba1aeb90e6aa8e4ef0095d53) ![](assets/new.png)  
+- [2021-04-17-物联网智库官网全新改版上线！独属于物联网人的每日必看](https://www.ershicimi.com/p/0f9d643f6b0d234344024b60d785186f) ![](assets/new.png)  
+- [2021-04-16-华为自动驾驶实车实路测试视频曝光！徐直军：比特斯拉好多了](https://www.ershicimi.com/p/c33fe0e76c2be0eec9fef7f25ef8d350) ![](assets/new.png)  
+- [2021-04-16-300+优秀的IoT企业在如何搞钱！](https://www.ershicimi.com/p/e407a5394cb3bdb6fc64c68002bd8722) ![](assets/new.png)  
+- [2021-04-16-为了让你顺利上网，手机默默背着你做了多少事？](https://www.ershicimi.com/p/138e7031e140a0b7448ca537fe71f6ce) ![](assets/new.png)  
+- [2021-04-16-智慧社区，运营商的下一块蛋糕](https://www.ershicimi.com/p/66d608f62ee961e8b5a466c1a8babce3) ![](assets/new.png)  
+- [2021-04-15-中美德巨头现身“云上”汉诺威，卡奥斯如何应对工业互联网全球化竞争？](https://www.ershicimi.com/p/d08bd4f6e2d920702cdca3e10ee7bb0c) ![](assets/new.png)  
+- [2021-04-15-煤矿井下5G覆盖数据分析](https://www.ershicimi.com/p/df92645aabcd89dae1ae6c535b630192) ![](assets/new.png)  
+- [2021-04-15-华米携手亚马逊云科技的背后，是企业拥抱云的大势](https://www.ershicimi.com/p/8c1ec54eb1fa305787749cad7439875d) ![](assets/new.png)  
 - [2021-04-14-抢跑华为3天，小鹏发布全球首款搭载激光雷达量产车“小鹏P5”](https://www.ershicimi.com/p/8a9ec3233e90f9a65b042ae92f526b5c) ![](assets/new.png)  
 - [2021-04-14-数智时代的“思”与“为”-|-研华AIoT创新应用论坛4月开幕大戏](https://www.ershicimi.com/p/ffc5314442ee36388f040c5b0835755f) ![](assets/new.png)  
 - [2021-04-14-华为重磅发布的“分布式云”，究竟是个啥？](https://www.ershicimi.com/p/0e52c6f21f5fcbe3a0411060f4ff00c1) ![](assets/new.png)  
@@ -1129,17 +1140,6 @@
 - [2021-04-13-5G超级上行，规模商用正当时](https://www.ershicimi.com/p/8fac6e8274e8799af34a0ef617eb208f) ![](assets/new.png)  
 - [2021-04-12-华为云组织架构大调整/阿里云拟独立运营并上市，云计算的江湖即将大“变天”？](https://www.ershicimi.com/p/838941ede5e21b169ba29f2f9445c45d) ![](assets/new.png)  
 - [2021-04-12-“桥接未来，引领行业”，5G时代鼎桥通信初心未改，创新不断](https://www.ershicimi.com/p/8815080a1763f77053fd41a6bb40f811) ![](assets/new.png)  
-- [2021-04-12-智能家居：小米几百块，华为99999](https://www.ershicimi.com/p/de6e60df89e378a23c18a219c93feb4b) ![](assets/new.png)  
-- [2021-04-11-政府工作报告连续5年部署，总理国常会专门研讨的“提速降费”，在5G时代有什么新内涵？](https://www.ershicimi.com/p/22c148a0a698e211075be6ff0f01ce3c) ![](assets/new.png)  
-- [2021-04-11-2021第四届NB-IoT产业发展大会圆满落幕，开启NB-IoT应用新征程](https://www.ershicimi.com/p/05fd1e6ae42030b0d7f46bd0a4dd029f) ![](assets/new.png)  
-- [2021-04-11-数据驱动工业互联网变革，“2021中国工业互联网发展主题论坛”圆满落幕](https://www.ershicimi.com/p/5df3b73f69f35fb5ac1dc2ef3ecfbc27) ![](assets/new.png)  
-- [2021-04-10-“北斗掉线”司机自杀事件真相背后：切莫滥用北斗概念](https://www.ershicimi.com/p/e0e8ae706047b8e7a76311b1bca4dca3) ![](assets/new.png)  
-- [2021-04-10-加深5G与产业深度融合，2021中国（深圳）5G产业峰会成功举办！](https://www.ershicimi.com/p/2c5c2a0733e88b74c266cc75ba9d3f55) ![](assets/new.png)  
-- [2021-04-10-Cat.1的风还能吹多久？“Cat.1赋能产业新征程”主题论坛圆满落幕！](https://www.ershicimi.com/p/354945dd6251edef9c401bdcc73d56c6) ![](assets/new.png)  
-- [2021-04-09-最高售价149999，华为昨晚发布的新款全屋智能贵在哪里？](https://www.ershicimi.com/p/937e2f43d2f966b461533e286e9ec796) ![](assets/new.png)  
-- [2021-04-09-突发！美国枪口再次瞄准中国超算，飞腾、申威等-7-大实体被列管制清单](https://www.ershicimi.com/p/deeccb0fdb136a446ea9877bb58c1919) ![](assets/new.png)  
-- [2021-04-09-发力碳中和，美的SMART-IN-ONE战略聚焦智慧建筑全产业链](https://www.ershicimi.com/p/932d9763fbb2d65ea2dc3af4b0032afd) ![](assets/new.png)  
-- [2021-04-08-华为手机大败局？市场份额暴跌仅剩4%，迎来最关键涅槃破局年！](https://www.ershicimi.com/p/6f38502fe27809c6c849c49a8418c141) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

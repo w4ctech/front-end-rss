@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-18 11:36:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-18 11:49:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3382,6 +3382,7 @@
 - [2021-04-09-知乎故事-|-碰上他，我们都成为了更好一点点的人](https://www.ershicimi.com/p/e1c489a34a6a1b6ec786aabe48ddd2f5) 
 - [2021-04-08-世界考古史中，有哪些具有「谜一般现代感」的发现？](https://www.ershicimi.com/p/8feb2397693fd43cc1528ea317f0ffea) 
 - [2021-04-08-知乎故事-|-你认识过哪些惊为天人的人物？](https://www.ershicimi.com/p/9bb12432b86a03b682c8091dfbc110d8) 
+- [2021-04-18-迫于英语环境磨合期，求推荐一本关于“计算机网络”的书](https://www.v2ex.com/t/771487) 
 - [2021-04-18-微信钓鱼链接,有微信的同学吗?](https://www.v2ex.com/t/771479) 
 - [2021-04-18-老一辈的人无法理解自己的工作，真是让人头疼的问题](https://www.v2ex.com/t/771477) 
 - [2021-04-18-小米-MIUI-12.5.1-系统正式版上手体验：-UI-和功能变化系统梳理](https://www.v2ex.com/t/771476) 
@@ -3434,14 +3435,13 @@
 - [2021-04-18-译-图查询语言的历史回顾短文](https://toutiao.io/k/twwep78) 
 - [2021-04-18-设计师快醒醒吧！NFT-与你没啥关系](https://toutiao.io/k/kvmcf3m) 
 - [2021-04-18-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
-- [2021-04-18-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
+- [2021-04-18-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) 
+- [2021-04-18-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
+- [2021-04-18-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
 - [2021-04-18-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
 - [2021-04-18-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
-- [2021-04-18-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
-- [2021-04-18-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
-- [2021-04-18-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) 
-- [2021-04-18-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
 - [2021-04-18-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
+- [2021-04-18-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
 - [2021-04-18-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
 - [2021-04-18-牛逼坏了!牙医教你用450行代码写出一个编程语言](https://sec.thief.one/article_content?a_id=33b1692a920f071de5c4ba31e99bd734) 
 - [2021-04-18-开始啦!全国革命文物百佳讲述人候选人作品展播①](https://sec.thief.one/article_content?a_id=6b8017ac2e1a4745084fde7926ec9cd0) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 10:03:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 10:24:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,6 +43,11 @@
 - [2021-04-19-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 
 - [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) 
 - [2021-04-19-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
+- [2021-04-19-第四届红帽杯网络安全大赛正式启动!](https://sec.thief.one/article_content?a_id=5227c9dc6a168bbcbfe88ed129223696) 
+- [2021-04-19-CSO说安全-|-黄乐:对企业安全运营的思考](https://sec.thief.one/article_content?a_id=e7ab530c2036231c5335bb3f81b3d543) 
+- [2021-04-19-每日安全动态推送04-19](https://sec.thief.one/article_content?a_id=a04b0c104c11be06d62995cce0509e28) 
+- [2021-04-19-安全日报2021.04.19](https://sec.thief.one/article_content?a_id=4f45769342afd0f4136eefff3f0fc284) 
+- [2021-04-19-【牛人访谈】安全可以更简单:TDR智能安全运营服务](https://sec.thief.one/article_content?a_id=5e8965a4a4a403c0ef5d88f75654b25c) 
 - [2021-04-18-chrome最新版可用-0day上线cs-&-wx-0day上线](https://sec.thief.one/article_content?a_id=94d5eaf8839a6144401d7440a5653674) 
 - [2021-04-18-独生子女的“安全部”之演习前准备](https://sec.thief.one/article_content?a_id=0d7123d270cf194f77986ba0c673993a) 
 - [2021-04-18-安全运营周刊第三十二期](https://sec.thief.one/article_content?a_id=ef5cb36162e0313ed78f769b48241441) 
@@ -62,7 +67,3 @@
 - [2021-04-16-战略投资|立思辰安科荣获中国电科工控网络安全领域独家战略投资](https://sec.thief.one/article_content?a_id=0ddfdbdfbdb0d5081f40e9f923e481c3) 
 - [2021-04-16-第三方安全漏洞破坏了新加坡求职研究所的相关数据](https://sec.thief.one/article_content?a_id=cb35da840c2102c764a014e2082f7a8a) 
 - [2021-04-16-你的登录接口真的安全吗?快看看你有没有中招!](https://sec.thief.one/article_content?a_id=2f9c03b2cdf8b6c4c50f5aff73432937) 
-- [2021-04-15-智行·见远-|-腾云驭智,新华三主动安全护航数字未来](https://sec.thief.one/article_content?a_id=1c7dfb80cb56e7ca25208bc4c9b37a04) 
-- [2021-04-15-【安全圈】全民国家安全教育日-|-网络安全也是国家安全!](https://sec.thief.one/article_content?a_id=750c95f46a15045fb1c91b3b3cd2d00b) 
-- [2021-04-15-《互联网基础设施与软件安全年度发展研究报告2020》重磅发布](https://sec.thief.one/article_content?a_id=2e9ee06cf0b3a766f6cf760b1b9f02b7) 
-- [2021-04-15-4月深信服蓝军安全研究团队向微软提交并协助修复4个漏洞](https://sec.thief.one/article_content?a_id=e5974bb68b6545133d2fb00a9a4d9c9e) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 10:03:31，:rocket: 更新条数: +4250， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 10:24:14，:rocket: 更新条数: +4247， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,6 @@
 </summary>
 
 
-- [2021-04-19-4月18日全国新增新冠11例-均由境外输入](https://m.caixin.com/m/2021-04-19/101692933.html) ![](assets/new.png)  
 - [2021-04-19-变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html) ![](assets/new.png)  
 - [2021-04-19-【境内疫情观察】全国新增11例境外输入病例（4月18日）](http://m.database.caixin.com/m/2021-04-19/101693254.html) ![](assets/new.png)  
 - [2021-04-19-印度单日新增逾26万病例-世卫称全球感染率接近历史高峰｜大流行手记（4月18日）](https://m.caixin.com/m/2021-04-19/101692924.html) ![](assets/new.png)  
@@ -77,14 +76,15 @@
 - [2021-04-16-印度单日新增确诊首破20万人-全球疫苗供应紧缺｜大流行手记（4月15日）](https://m.caixin.com/m/2021-04-16/101691883.html) ![](assets/new.png)  
 - [2021-04-15-香港放宽新冠疫苗接种年龄限制-明年将采购新一代疫苗](https://m.caixin.com/m/2021-04-15/101691804.html) ![](assets/new.png)  
 - [2021-04-15-【境内疫情观察】全国新增10例境外输入病例（4月14日）](http://m.database.caixin.com/m/2021-04-15/101691588.html) ![](assets/new.png)  
-- [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
 - [2021-04-14-云南瑞丽4月13日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-14/101690804.html) ![](assets/new.png)  
 - [2021-04-14-【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html) ![](assets/new.png)  
 - [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
+- [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
 - [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
 - [2021-04-13-【境内疫情观察】我国新冠疫苗累计接种超1.67亿剂次（4月12日）](http://m.database.caixin.com/m/2021-04-13/101690476.html) ![](assets/new.png)  
 - [2021-04-13-英国重开商场健身房-澳放弃年底前全民接种目标｜大流行手记（4月12日）](https://m.caixin.com/m/2021-04-13/101690235.html) ![](assets/new.png)  
 - [2021-04-12-香港与内地通关现曙光-5月中旬起内地民众来港免隔离](https://m.caixin.com/m/2021-04-12/101690149.html) ![](assets/new.png)  
+- [2021-04-12-云南4月11日新增新冠2例-均在瑞丽市](https://m.caixin.com/m/2021-04-12/101688731.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-19-请问下神仙们，如何根据-AS-号获取-cidr，然后精简-cidr](https://www.v2ex.com/t/771734) ![](assets/new.png)  
 - [2021-04-19-深圳公司招聘区块链产品经理](https://www.v2ex.com/t/771732) ![](assets/new.png)  
 - [2021-04-19-蛊真人修行体系感觉好烂](https://www.v2ex.com/t/771731) ![](assets/new.png)  
 - [2021-04-19-不是很懂为什么这个-WebSocket-事件赋值的时候，可以忽略第一个参数？](https://www.v2ex.com/t/771730) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-19-epidata-导出-dbf-文件后-变量值标签都没有了-是怎么回事?](https://www.v2ex.com/t/771714) ![](assets/new.png)  
 - [2021-04-19-局域网下不同网段的两台设备无法通过-UDP-通讯](https://www.v2ex.com/t/771713) ![](assets/new.png)  
 - [2021-04-19-为什么面试不能-Google](https://www.v2ex.com/t/771712) ![](assets/new.png)  
-- [2021-04-19-北京移动哪里有便宜的流量？](https://www.v2ex.com/t/771711) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,8 +1072,8 @@
 - [2021-04-19-Mac-之-iTerm2-+-Oh-My-Zsh-终端安装教程](https://toutiao.io/k/e15kw8v) ![](assets/new.png)  
 - [2021-04-19-Spring-Boot-单元测试技术](https://toutiao.io/k/9dq569b) ![](assets/new.png)  
 - [2021-04-19-Java-实现基于朴素贝叶斯的情感词分析](https://toutiao.io/k/h3b1hod) ![](assets/new.png)  
-- [2021-04-19-AK47-所向披靡，内存泄漏一网打尽](https://toutiao.io/k/sv6uy5y) ![](assets/new.png)  
 - [2021-04-19-使用-Spring-Boot-+-MyBatis-+-FreeMarker-+-Ehcache-进行-Web-开发](https://toutiao.io/k/ljhlfso) ![](assets/new.png)  
+- [2021-04-19-AK47-所向披靡，内存泄漏一网打尽](https://toutiao.io/k/sv6uy5y) ![](assets/new.png)  
 - [2021-04-19-Netty-源码解析：PoolChunk-实现原理](https://toutiao.io/k/uszctvb) ![](assets/new.png)  
 - [2021-04-19-聊聊如何对-Eureka-管理界面进行定制化改造](https://toutiao.io/k/auet6ql) ![](assets/new.png)  
 - [2021-04-19-Apache-Hudi-+-CDC-管道构建实时数据湖](https://toutiao.io/k/b4b0n99) ![](assets/new.png)  
@@ -1089,26 +1089,26 @@
 </summary>
 
 
-- [2021-04-19-【漏洞分析】PCMan-FTP-Server缓冲区溢出CVE-2013-4730漏洞分析](https://sec.thief.one/article_content?a_id=37eed58ae8fc67caf1a01303ec1e2526) ![](assets/new.png)  
-- [2021-04-19-Linux手工入侵排查思路](https://sec.thief.one/article_content?a_id=fbf1b5bd17658997d27356d8b587dec3) ![](assets/new.png)  
-- [2021-04-19-视频-|-Python:面向对象之简介](https://sec.thief.one/article_content?a_id=b9498ed93937a8bba8f549d6f890024d) ![](assets/new.png)  
-- [2021-04-19-男子用技术手段恢复女方微信记录并散布-涉侵犯隐私被拘6日](https://sec.thief.one/article_content?a_id=cf88a810632d5368e4f0c38da70165ff) ![](assets/new.png)  
-- [2021-04-18-20210418|漏洞处置情况](https://sec.thief.one/article_content?a_id=1089de97d98fe5373e66960a4702cbd9) ![](assets/new.png)  
-- [2021-04-18-整理了十个Python自动化操作,拿走就用!](https://sec.thief.one/article_content?a_id=f33103f2da096b44a9e9dc7adbb3822f) ![](assets/new.png)  
-- [2021-04-18-chrome最新版可用-0day上线cs-&-wx-0day上线](https://sec.thief.one/article_content?a_id=94d5eaf8839a6144401d7440a5653674) ![](assets/new.png)  
-- [2021-04-18-独生子女的“安全部”之演习前准备](https://sec.thief.one/article_content?a_id=0d7123d270cf194f77986ba0c673993a) ![](assets/new.png)  
-- [2021-04-18-牛逼坏了!牙医教你用450行代码写出一个编程语言](https://sec.thief.one/article_content?a_id=33b1692a920f071de5c4ba31e99bd734) ![](assets/new.png)  
-- [2021-04-18-开始啦!全国革命文物百佳讲述人候选人作品展播①](https://sec.thief.one/article_content?a_id=6b8017ac2e1a4745084fde7926ec9cd0) ![](assets/new.png)  
-- [2021-04-18-对WhatsApp中消息自动回复的Android恶意软件分析](https://sec.thief.one/article_content?a_id=695b4ba8d06cb4904ba6450051f43aa5) ![](assets/new.png)  
-- [2021-04-18-在Z|荣耀终端60W+/年、VIVO招贤;10年+信安经验求职管理/技术岗](https://sec.thief.one/article_content?a_id=fce3009871550d41fc9551be9639fc9e) ![](assets/new.png)  
-- [2021-04-18-安全运营周刊第三十二期](https://sec.thief.one/article_content?a_id=ef5cb36162e0313ed78f769b48241441) ![](assets/new.png)  
-- [2021-04-18-联合国中招邮件诈骗,行骗者获利270万却称生活所迫?](https://sec.thief.one/article_content?a_id=228dd4f683c74faaab9cb9aedc4e32a9) ![](assets/new.png)  
-- [2021-04-18-两个月内-50-家公司遭入侵,互联网上最具规模的黑客组织-Cl0p-逐渐浮...](https://sec.thief.one/article_content?a_id=4da74adb304d0898afdf4aef83f05766) ![](assets/new.png)  
-- [2021-04-18-包邮送100本-Python-技术书!](https://sec.thief.one/article_content?a_id=9194d248ad0133751bb7f20de3f128a5) ![](assets/new.png)  
-- [2021-04-18-【Android-CTF】XCTF黑客精神—Frida-RPC爆破](https://sec.thief.one/article_content?a_id=9bfe228a8bb120ee952eadd6d11a7057) ![](assets/new.png)  
-- [2021-04-18-【视频】|-DDOS攻击原理演示](https://sec.thief.one/article_content?a_id=5031aca090c15809309ea35d61853768) ![](assets/new.png)  
-- [2021-04-18-推进网络空间治理-习近平这样部署](https://sec.thief.one/article_content?a_id=5c16953995d78910bc5ce52aa1ba4476) ![](assets/new.png)  
-- [2021-04-18-【重大福利!】100本-平航取证技术简报精华合订本领取活动](https://sec.thief.one/article_content?a_id=982653ba3ba2127226a1f4f5cf4b7d6a) ![](assets/new.png)  
+- [2021-04-19-【技术分享】探探JDBC反序列化漏洞](https://sec.thief.one/article_content?a_id=34974a9bbaa2caea887f0d1deef3cb2f) ![](assets/new.png)  
+- [2021-04-19-Web3.0有哪些未来趋势?](https://sec.thief.one/article_content?a_id=7548e444ded7d2b70175c25d5cfd4604) ![](assets/new.png)  
+- [2021-04-19-第四届红帽杯网络安全大赛正式启动!](https://sec.thief.one/article_content?a_id=5227c9dc6a168bbcbfe88ed129223696) ![](assets/new.png)  
+- [2021-04-19-SecWiki周刊第372期](https://sec.thief.one/article_content?a_id=7a8f8f1a996767062296d5acc69a45e4) ![](assets/new.png)  
+- [2021-04-19-全球连线|创意微视频:习近平的博鳌关键词](https://sec.thief.one/article_content?a_id=4a2be621d3920409b683e432f4e71881) ![](assets/new.png)  
+- [2021-04-19-【漏洞通告】WebLogic-反序列化漏洞](https://sec.thief.one/article_content?a_id=0cbd38c19fa3b161314e78be41b09531) ![](assets/new.png)  
+- [2021-04-19-CSO说安全-|-黄乐:对企业安全运营的思考](https://sec.thief.one/article_content?a_id=e7ab530c2036231c5335bb3f81b3d543) ![](assets/new.png)  
+- [2021-04-19-领先比特币支付处理商Bitpay加入加密专利联盟COPA](https://sec.thief.one/article_content?a_id=1036aaa02a030fc49be02583802e28c9) ![](assets/new.png)  
+- [2021-04-19-关于-“天融信SSL-VPN产品存在漏洞”的情况声明](https://sec.thief.one/article_content?a_id=733b17312c17a1c93ce08f27fa5bc195) ![](assets/new.png)  
+- [2021-04-19-【报名提醒】您收到一封来自“西湖论剑”的飞鸽传书,请查收!](https://sec.thief.one/article_content?a_id=f70b10f6171312219f9ebd20ea3fba75) ![](assets/new.png)  
+- [2021-04-19-向左还是向右,以太坊隐秘趋势通道在哪?](https://sec.thief.one/article_content?a_id=fa252d630a497a810e33aadd576c42e6) ![](assets/new.png)  
+- [2021-04-19-每日安全动态推送04-19](https://sec.thief.one/article_content?a_id=a04b0c104c11be06d62995cce0509e28) ![](assets/new.png)  
+- [2021-04-19-数据隐私保护引国家重视,如何应势而上?【含资料】](https://sec.thief.one/article_content?a_id=8a8b913ccdc569652e7847b74979a276) ![](assets/new.png)  
+- [2021-04-19-传统的QNAP-NAS设备易受到0-day攻击](https://sec.thief.one/article_content?a_id=7310704a53a7efd0088d5566148fb9b6) ![](assets/new.png)  
+- [2021-04-19-卡巴斯基:2020年金融网络威胁报告](https://sec.thief.one/article_content?a_id=78224e982cc192c4cf41f7b66644d9ae) ![](assets/new.png)  
+- [2021-04-19-安全日报2021.04.19](https://sec.thief.one/article_content?a_id=4f45769342afd0f4136eefff3f0fc284) ![](assets/new.png)  
+- [2021-04-19-男子用技术手段恢复女方微信记录并散布-涉侵犯隐私被拘6日](https://sec.thief.one/article_content?a_id=b4446457726ccea0ea97236d4885854c) ![](assets/new.png)  
+- [2021-04-19-Facebook高居“数据丢失耻辱榜”榜首](https://sec.thief.one/article_content?a_id=4e510bc5ae78ac06944894769badc2a8) ![](assets/new.png)  
+- [2021-04-19-【牛人访谈】安全可以更简单:TDR智能安全运营服务](https://sec.thief.one/article_content?a_id=5e8965a4a4a403c0ef5d88f75654b25c) ![](assets/new.png)  
+- [2021-04-19-拜登政府制裁SolarWinds入侵](https://sec.thief.one/article_content?a_id=ceb93e822a743429764459e777155436) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

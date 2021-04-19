@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 05:07:35，:rocket: 更新条数: +4240， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 05:24:41，:rocket: 更新条数: +4242， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-19-微信-PC-版本-0day-漏洞](https://www.v2ex.com/t/771631) ![](assets/new.png)  
+- [2021-04-19-收到-offer，要不要跳槽？](https://www.v2ex.com/t/771628) ![](assets/new.png)  
+- [2021-04-19-30-岁的低欲期](https://www.v2ex.com/t/771627) ![](assets/new.png)  
 - [2021-04-19-安卓平台微信，手机-QQ-下载的文件到底在哪个文件夹？是否有-APP-可监控这些文件夹然后一有文件强制转移到指定文件夹？](https://www.v2ex.com/t/771626) ![](assets/new.png)  
 - [2021-04-19-成为流行开源项目-Top-Contributor-给我带来了什么](https://www.v2ex.com/t/771625) ![](assets/new.png)  
 - [2021-04-19-雅虎面试题：数组中最大的差值](https://www.v2ex.com/t/771623) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-19-万能的-v2exer-们，你们是如何以个人名义注册-LOGO-的？](https://www.v2ex.com/t/771605) ![](assets/new.png)  
 - [2021-04-19-问一个好的清洁电脑整体，主要是屏幕的方案](https://www.v2ex.com/t/771604) ![](assets/new.png)  
 - [2021-04-19-关于-aimesh-的问题](https://www.v2ex.com/t/771603) ![](assets/new.png)  
-- [2021-04-19-Tele-酱：基于-Telegram-和-Vercel-的开源-Server-酱实现-https://github.com/easychen/telechan](https://www.v2ex.com/t/771602) ![](assets/new.png)  
-- [2021-04-19-使用设计模式的疑问](https://www.v2ex.com/t/771601) ![](assets/new.png)  
-- [2021-04-19-有没有人用-bash-language-server，-我想问问这么开它的-log，或者它的默认-log-是写到哪里了？-https://github.com/bash-lsp/bash-language-server](https://www.v2ex.com/t/771600) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,7 +1077,7 @@
 - [2021-04-19-聊聊如何对-Eureka-管理界面进行定制化改造](https://toutiao.io/k/auet6ql) ![](assets/new.png)  
 - [2021-04-19-使用-Spring-Boot-+-MyBatis-+-FreeMarker-+-Ehcache-进行-Web-开发](https://toutiao.io/k/ljhlfso) ![](assets/new.png)  
 - [2021-04-19-Apache-Hudi-+-CDC-管道构建实时数据湖](https://toutiao.io/k/b4b0n99) ![](assets/new.png)  
-- [2021-04-19-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-19-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

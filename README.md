@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 04:54:41，:rocket: 更新条数: +4240， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 05:07:35，:rocket: 更新条数: +4240， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-04-19-4月18日全国新增新冠11例-均由境外输入](https://m.caixin.com/m/2021-04-19/101692933.html) ![](assets/new.png)  
+- [2021-04-19-变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html) ![](assets/new.png)  
 - [2021-04-19-印度单日新增逾26万病例-世卫称全球感染率接近历史高峰｜大流行手记（4月18日）](https://m.caixin.com/m/2021-04-19/101692924.html) ![](assets/new.png)  
 - [2021-04-18-最新海外疫情：新冠感染超1.4亿-累计死亡超300万](https://m.caixin.com/m/2021-04-18/101692885.html) ![](assets/new.png)  
 - [2021-04-18-【境内疫情观察】全国新增16例境外输入病例（4月17日）](http://m.database.caixin.com/m/2021-04-18/101692852.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-04-13-英国重开商场健身房-澳放弃年底前全民接种目标｜大流行手记（4月12日）](https://m.caixin.com/m/2021-04-13/101690235.html) ![](assets/new.png)  
 - [2021-04-12-香港与内地通关现曙光-5月中旬起内地民众来港免隔离](https://m.caixin.com/m/2021-04-12/101690149.html) ![](assets/new.png)  
 - [2021-04-12-云南4月11日新增新冠2例-均在瑞丽市](https://m.caixin.com/m/2021-04-12/101688731.html) ![](assets/new.png)  
-- [2021-04-12-【境内疫情观察】云南新增2例本土病例（4月11日）](http://m.database.caixin.com/m/2021-04-12/101689975.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-19-安卓平台微信，手机-QQ-下载的文件到底在哪个文件夹？是否有-APP-可监控这些文件夹然后一有文件强制转移到指定文件夹？](https://www.v2ex.com/t/771626) ![](assets/new.png)  
+- [2021-04-19-成为流行开源项目-Top-Contributor-给我带来了什么](https://www.v2ex.com/t/771625) ![](assets/new.png)  
 - [2021-04-19-雅虎面试题：数组中最大的差值](https://www.v2ex.com/t/771623) ![](assets/new.png)  
 - [2021-04-19-v2-网页的发帖入口好深](https://www.v2ex.com/t/771622) ![](assets/new.png)  
 - [2021-04-19-踢楼送码-一个-DES-加密的云日记](https://www.v2ex.com/t/771619) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-19-Tele-酱：基于-Telegram-和-Vercel-的开源-Server-酱实现-https://github.com/easychen/telechan](https://www.v2ex.com/t/771602) ![](assets/new.png)  
 - [2021-04-19-使用设计模式的疑问](https://www.v2ex.com/t/771601) ![](assets/new.png)  
 - [2021-04-19-有没有人用-bash-language-server，-我想问问这么开它的-log，或者它的默认-log-是写到哪里了？-https://github.com/bash-lsp/bash-language-server](https://www.v2ex.com/t/771600) ![](assets/new.png)  
-- [2021-04-19-如何应对孤独感？](https://www.v2ex.com/t/771599) ![](assets/new.png)  
-- [2021-04-19-上海-心动网络---HyperJoy-工作室招-游戏客户端/策划/设计师](https://www.v2ex.com/t/771598) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,7 +1077,7 @@
 - [2021-04-19-聊聊如何对-Eureka-管理界面进行定制化改造](https://toutiao.io/k/auet6ql) ![](assets/new.png)  
 - [2021-04-19-使用-Spring-Boot-+-MyBatis-+-FreeMarker-+-Ehcache-进行-Web-开发](https://toutiao.io/k/ljhlfso) ![](assets/new.png)  
 - [2021-04-19-Apache-Hudi-+-CDC-管道构建实时数据湖](https://toutiao.io/k/b4b0n99) ![](assets/new.png)  
-- [2021-04-19-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-19-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -10,6 +10,11 @@
         "date": "2021-04-19"
       },
       {
+        "title": "变种病毒在港社区传播 港府禁印巴菲航班入境",
+        "link": "https://m.caixin.com/m/2021-04-19/101693061.html",
+        "date": "2021-04-19"
+      },
+      {
         "title": "印度单日新增逾26万病例 世卫称全球感染率接近历史高峰｜大流行手记（4月18日）",
         "link": "https://m.caixin.com/m/2021-04-19/101692924.html",
         "date": "2021-04-19"
@@ -20410,6 +20415,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "安卓平台微信，手机 QQ 下载的文件到底在哪个文件夹？是否有 APP 可监控这些文件夹然后一有文件强制转移到指定文件夹？",
+        "link": "https://www.v2ex.com/t/771626",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "成为流行开源项目 Top Contributor 给我带来了什么",
+        "link": "https://www.v2ex.com/t/771625",
+        "date": "2021-04-19"
+      },
+      {
         "title": "雅虎面试题：数组中最大的差值",
         "link": "https://www.v2ex.com/t/771623",
         "date": "2021-04-19"
@@ -20562,21 +20577,6 @@
       {
         "title": "《摸鱼学导论》爆火，清华程序猿：这才是摸鱼的最高境界！",
         "link": "https://www.v2ex.com/t/771577",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "阿里味编程语言 pua-lang 正式发布！",
-        "link": "https://www.v2ex.com/t/771576",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "求助!mysql5.7 触发器内无法使用存储过程?",
-        "link": "https://www.v2ex.com/t/771575",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "docker 内进程如何检测自身是否在容器内运行？",
-        "link": "https://www.v2ex.com/t/771574",
         "date": "2021-04-19"
       }
     ]
@@ -20789,38 +20789,23 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
-        "link": "https://toutiao.io/k/811or1j",
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
+        "title": "[推荐] RESTful API 设计最佳实践",
+        "link": "https://toutiao.io/k/4zqz7k1",
         "date": "2021-04-19"
       },
       {
@@ -20834,13 +20819,8 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
         "date": "2021-04-19"
       },
       {
@@ -20849,18 +20829,38 @@
         "date": "2021-04-19"
       },
       {
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 基于 OpenResty 长连接推送的演进",
+        "link": "https://toutiao.io/k/3etk65w",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
+        "date": "2021-04-19"
+      },
+      {
         "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
         "link": "https://toutiao.io/k/pmlwnuy",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
         "date": "2021-04-19"
       }
     ]

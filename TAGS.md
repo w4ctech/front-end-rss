@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-19 04:54:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 05:07:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -468,8 +468,9 @@
 
 
 - [【V2EX】docker-name-in-use-但是我找不到，有人遇到过吗？](https://www.v2ex.com/t/771585)
-- [【V2EX】docker-内进程如何检测自身是否在容器内运行？](https://www.v2ex.com/t/771574)
 - [【开发者头条】译-Docker-和-Kubernetes：root-与特权](https://toutiao.io/k/9vf6w11)
+- [【开发者头条】推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1)
+- [【开发者头条】推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w)
 - [【安全热点】植入挖矿的Docker镜像被下载了2000万次](https://sec.thief.one/article_content?a_id=560e5027479e368520d1f4e45dfd5db7)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -495,9 +496,8 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】记一次-github-泄漏-accessKey](https://www.v2ex.com/t/771582)
-- [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
-- [【开发者头条】推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y)
 - [【开发者头条】推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb)
+- [【开发者头条】推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y)
 - [【安全热点】【漏洞通告】Gitlab多个高危漏洞](https://sec.thief.one/article_content?a_id=806eeee256d4b6d632dd24672eaf0e23)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -602,6 +602,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】4月18日全国新增新冠11例-均由境外输入](https://m.caixin.com/m/2021-04-19/101692933.html)
+- [【武汉肺炎防疫全纪录(财新网)】变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html)
 - [【武汉肺炎防疫全纪录(财新网)】印度单日新增逾26万病例-世卫称全球感染率接近历史高峰｜大流行手记（4月18日）](https://m.caixin.com/m/2021-04-19/101692924.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超1.4亿-累计死亡超300万](https://m.caixin.com/m/2021-04-18/101692885.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增16例境外输入病例（4月17日）](http://m.database.caixin.com/m/2021-04-18/101692852.html)
@@ -620,7 +621,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】香港与内地通关现曙光-5月中旬起内地民众来港免隔离](https://m.caixin.com/m/2021-04-12/101690149.html)
 - [【武汉肺炎防疫全纪录(财新网)】云南4月11日新增新冠2例-均在瑞丽市](https://m.caixin.com/m/2021-04-12/101688731.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】云南新增2例本土病例（4月11日）](http://m.database.caixin.com/m/2021-04-12/101689975.html)
-- [【武汉肺炎防疫全纪录(财新网)】南非变异株或可逃逸辉瑞疫苗保护-印度单日新增破15万｜大流行手记（4月11日）](https://m.caixin.com/m/2021-04-12/101688748.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

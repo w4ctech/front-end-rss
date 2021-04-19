@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 05:24:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 05:39:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -88,4 +88,5 @@
 - [2021-04-19-Android-实现小红书登陆页面背景图无限滚动效果-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14304&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FocOgPrfN_6FD8B16n9NYdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-19-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-19-RxJS-非权威指南](https://toutiao.io/k/pd3ai83) 
+- [2021-04-19-Javascript-数组及其方法详解](https://toutiao.io/k/cm1qtk7) 
 - [2021-04-16-新的JavaScript利用现在可以进行DDR4-Rowhammer攻击](https://sec.thief.one/article_content?a_id=9ddf3a4258d72b434d3495213fd0ff8e) 

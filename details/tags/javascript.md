@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 12:24:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 12:43:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -85,6 +85,7 @@
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2021-04-18-Java-正则表达式处理复杂文本，效率就是高！](https://www.ershicimi.com/p/3c527ff137987abc0f73a6da1e96cc97) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-04-19-如何在-tableView-插入数据后也能滚动到顶部？](https://www.v2ex.com/t/771751) 
 - [2021-04-19-不是很懂为什么这个-WebSocket-事件赋值的时候，可以忽略第一个参数？](https://www.v2ex.com/t/771730) 
 - [2021-04-19-kong-网关-request-transform-插件正则配置](https://www.v2ex.com/t/771725) 
 - [2021-04-19-显示器在滚动页面时方框边缘会变色是怎么回事？](https://www.v2ex.com/t/771718) 

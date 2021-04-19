@@ -19964,6 +19964,96 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "为什么 Java 后端开发没有大规模采用 Kotlin？",
+        "link": "https://www.ershicimi.com/p/073c9d0cb91e0c9920aae34ae091f80a",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "我见过最糟糕的代码",
+        "link": "https://www.ershicimi.com/p/2c2960598c887d447415fceb1bcadb5b",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "每秒 10W 次高并发订单业务，你怎么实现？ ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/200427f469ad1936a2ecaf91f2297a08",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "【Java 八股文】，建议每个人都看一下 ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/67d65c294c3870c36c21044899d234a7",
+        "date": "2021-04-18"
+      },
+      {
+        "title": "字节跳动将开启员工期权兑换；调查：半数互联网人有离职计划；腾讯副总裁因违反竞业协议，被判赔偿超千万",
+        "link": "https://www.ershicimi.com/p/3fa1358b6bdd55de3d179d3d6de0f9ca",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "Angular、React 和 Vue 三大框架，Web 开发该如何选择？",
+        "link": "https://www.ershicimi.com/p/c7a80a379301d28a06c518fd02a4ebc6",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "再见 for 循环编程，Spring 全家桶，真香！ ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/c31dbd8c04852a965ab540b8880e1b30",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "想来百万流量技术公众号发布文章吗？ InfoQ 开放内容平台了！",
+        "link": "https://www.ershicimi.com/p/1cc7c5177efb4e33f82c99eae64d6583",
+        "date": "2021-04-17"
+      },
+      {
+        "title": "消息系统兴起二次革命：Kafka不需要ZooKeeper",
+        "link": "https://www.ershicimi.com/p/e889bb4bd0f10688592a5191dbf88fab",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "你在大前端领域最常用的编程语言是？| InfoQ 编程语言 4 月排行榜",
+        "link": "https://www.ershicimi.com/p/51f1277202d318420949e228514db520",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "做了这么久开发，你有没有想过去大厂？ ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/5a8aaf67e22f467df866648c4478fa71",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "这个 Redis 问题画像，干掉了一摞简历 ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/d9eafbe59c30cb5edd017a469c7c477f",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "30 万行代码的平台升级：给跑着的汽车换轮胎",
+        "link": "https://www.ershicimi.com/p/287b3a1b801638cb81e0532a0a3bb0ac",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "竞业协议“下沉”，普通程序员逃不过的坑",
+        "link": "https://www.ershicimi.com/p/eddc858ec0d987e5f843d894c9d12795",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "2021年一定要关注的技术趋势和选型建议",
+        "link": "https://www.ershicimi.com/p/60ebca0cdf853303d8649b278458f327",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "剧透，美团自研API网关服务Shepherd架构解读 ｜ ArchSummit",
+        "link": "https://www.ershicimi.com/p/0824fefbd3f3c7a7e8a891dc2f723467",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "晋升 Leader 后，99%的程序员还不懂怎么面试别人！ ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/01579f5bdc29ae7be33f267e67f1c29b",
+        "date": "2021-04-15"
+      },
+      {
+        "title": "语音编程，软件开发领域的下一个前沿技术？",
+        "link": "https://www.ershicimi.com/p/11c5a3a1cb2cd39c648b01e2465f018e",
+        "date": "2021-04-15"
+      },
+      {
         "title": "如何打造一支有超强战斗力的技术团队？ ｜ 极客时间",
         "link": "https://www.ershicimi.com/p/7f3c54fa30637f200a4a3cd868deeb4c",
         "date": "2021-04-14"
@@ -19972,96 +20062,6 @@
         "title": "不惧流量持续上涨，BIGO 借助 Flink 与 Pulsar 打造实时消息系统",
         "link": "https://www.ershicimi.com/p/f86faf3b0ceaf1cdbb455fb75a154e43",
         "date": "2021-04-14"
-      },
-      {
-        "title": "架构的下一个十年是什么样的？ ｜ ArchSummit",
-        "link": "https://www.ershicimi.com/p/9d574d40bb27773a5c3e81bb52e1e668",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "Serverless比你预期要贵得多",
-        "link": "https://www.ershicimi.com/p/e851d3a469e918de714357165b84007f",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "英伟达推出首个 CPU，基于 ARM 架构主攻巨型 AI，性能超 x86 十倍",
-        "link": "https://www.ershicimi.com/p/0feb20097decea9fc00552afaad25e10",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "华为回应多个热门话题：自动驾驶做的比特斯拉好，只要养得起海思就继续养",
-        "link": "https://www.ershicimi.com/p/2b2c4a1a6f04621e2cf2aae3bdedb157",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "许式伟：相比 Python，我们可能更需要 Go+",
-        "link": "https://www.ershicimi.com/p/127237976f8103b0f3fddd2c19f9a986",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "IDEA 2021年首个新版本发布，重要更新速览",
-        "link": "https://www.ershicimi.com/p/f25d0a7f0c8510610adea58b797233ca",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "脱离吹嘘炒作，聊聊真实的Serverless的坑和门槛 ｜ GMTC",
-        "link": "https://www.ershicimi.com/p/379507aeb3e86c4a2e328b4e679ea7fc",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "微软拟1049 亿收购全球最大语音识别公司 Nuance，后者是 Siri 幕后英雄",
-        "link": "https://www.ershicimi.com/p/7402bfb44c59123f1783375a428e3eda",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "车好多CTO郭东白：优秀架构师该具备的那些素质｜ QCon北京",
-        "link": "https://www.ershicimi.com/p/beefc2023aa2ace116e503acc73f3e43",
-        "date": "2021-04-12"
-      },
-      {
-        "title": "InfoQ独家报告《制造业数字化发展模式的先进探索》|免费下载",
-        "link": "https://www.ershicimi.com/p/3d9d3b78df23a756304a1b3a711f700a",
-        "date": "2021-04-12"
-      },
-      {
-        "title": "全世界下载量超 100 亿，curl 怎样成为影响世界的开源项目？",
-        "link": "https://www.ershicimi.com/p/f95ec01a19a44e7f8bc459e370f801ca",
-        "date": "2021-04-12"
-      },
-      {
-        "title": "低代码平台和社区开发者的崛起：更多解决方案还是更多问题？",
-        "link": "https://www.ershicimi.com/p/8aba1f3fae3e7601df20b8ab823918f8",
-        "date": "2021-04-12"
-      },
-      {
-        "title": "苹果的 M1 芯片可能只是英特尔“噩梦”的开始",
-        "link": "https://www.ershicimi.com/p/7f4f4af469d97f23262d565a619f6200",
-        "date": "2021-04-12"
-      },
-      {
-        "title": "从谷歌辞职后，作为独立开发者的第三年，我从年入 3 万做到了年入 40 万",
-        "link": "https://www.ershicimi.com/p/04ecb9665b128ffc119b0b39abc77daf",
-        "date": "2021-04-11"
-      },
-      {
-        "title": "流数据并行处理性能比较：Kafka vs Pulsar vs Pravega",
-        "link": "https://www.ershicimi.com/p/2c5b9cab0e57272b175035f968bc9d1c",
-        "date": "2021-04-11"
-      },
-      {
-        "title": "2021大数据开发面试高频100题最新汇总（附答案详解） ｜ 极客大学",
-        "link": "https://www.ershicimi.com/p/fb2d6cf91f5ce617c99d6548348dcff5",
-        "date": "2021-04-11"
-      },
-      {
-        "title": "一文梳理 Nginx 的称霸之路｜极客时间",
-        "link": "https://www.ershicimi.com/p/82e715bc90804a07c1a6545bb51eae3a",
-        "date": "2021-04-11"
-      },
-      {
-        "title": "北京Q1平均月薪达11187元；拼多多回应被告诈欺；京东、美团等承诺不用大数据杀熟 | Q资讯",
-        "link": "https://www.ershicimi.com/p/7ca2d4aa973aab4085fa76d68fc38e14",
-        "date": "2021-04-10"
       }
     ]
   },
@@ -20410,6 +20410,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "记一次 github 泄漏 accessKey",
+        "link": "https://www.v2ex.com/t/771582",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "《摸鱼学导论》爆火，清华程序猿：这才是摸鱼的最高境界！",
+        "link": "https://www.v2ex.com/t/771577",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "阿里味编程语言 pua-lang 正式发布！",
+        "link": "https://www.v2ex.com/t/771576",
+        "date": "2021-04-19"
+      },
+      {
         "title": "求助!mysql5.7 触发器内无法使用存储过程?",
         "link": "https://www.v2ex.com/t/771575",
         "date": "2021-04-19"
@@ -20480,11 +20495,6 @@
         "date": "2021-04-19"
       },
       {
-        "title": "macOS 最新的 Big Sur 的 safari 的代理是不是还是只能走系统代理？",
-        "link": "https://www.v2ex.com/t/771554",
-        "date": "2021-04-19"
-      },
-      {
         "title": "五一想自驾新安江，有没有去过的说说怎么样？",
         "link": "https://www.v2ex.com/t/771553",
         "date": "2021-04-19"
@@ -20527,31 +20537,6 @@
       {
         "title": "北京或周边，不能太远，什么好玩的地方",
         "link": "https://www.v2ex.com/t/771534",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "HTTP 多线程下载同一个文件，是从不同的客户端口发出的请求吗？",
-        "link": "https://www.v2ex.com/t/771533",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "问：如果昨天是明天的话就好了，那么今天就是周日了。那么话中的的今天原本是多少？",
-        "link": "https://www.v2ex.com/t/771531",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "数据库存储在物理上是否连续，如果不连续那么如何保证读取速度？",
-        "link": "https://www.v2ex.com/t/771530",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "Python web 终极 CRUD 方案(或许是) alpha 版本，征求一些反馈",
-        "link": "https://www.v2ex.com/t/771529",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "你能容忍线上笔试应聘者搜索答案吗？",
-        "link": "https://www.v2ex.com/t/771527",
         "date": "2021-04-18"
       }
     ]
@@ -20734,11 +20719,6 @@
         "date": "2021-04-19"
       },
       {
-        "title": "Netty 源码解析：PoolChunk 实现原理",
-        "link": "https://toutiao.io/k/uszctvb",
-        "date": "2021-04-19"
-      },
-      {
         "title": "Spring Boot 单元测试技术",
         "link": "https://toutiao.io/k/9dq569b",
         "date": "2021-04-19"
@@ -20749,18 +20729,38 @@
         "date": "2021-04-19"
       },
       {
+        "title": "Netty 源码解析：PoolChunk 实现原理",
+        "link": "https://toutiao.io/k/uszctvb",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] RESTful API 设计最佳实践",
+        "link": "https://toutiao.io/k/4zqz7k1",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-19"
+      },
+      {
         "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
         "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
-        "link": "https://toutiao.io/k/811or1j",
         "date": "2021-04-19"
       },
       {
@@ -20774,23 +20774,8 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
-        "date": "2021-04-19"
-      },
-      {
         "title": "[推荐] 谈谈 MySQL 锁",
         "link": "https://toutiao.io/k/z5c0vp0",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
         "date": "2021-04-19"
       },
       {
@@ -20799,28 +20784,28 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] RESTful API 设计最佳实践",
-        "link": "https://toutiao.io/k/4zqz7k1",
-        "date": "2021-04-19"
-      },
-      {
         "title": "[推荐] 我很久没写代码了，但我是个好架构师",
         "link": "https://toutiao.io/k/gauwubg",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
         "date": "2021-04-19"
       }
     ]

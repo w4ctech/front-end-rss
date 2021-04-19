@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 02:31:50，:rocket: 更新条数: +4232， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 02:47:21，:rocket: 更新条数: +4229， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -839,26 +839,26 @@
 </summary>
 
 
+- [2021-04-18-为什么-Java-后端开发没有大规模采用-Kotlin？](https://www.ershicimi.com/p/073c9d0cb91e0c9920aae34ae091f80a) ![](assets/new.png)  
+- [2021-04-18-我见过最糟糕的代码](https://www.ershicimi.com/p/2c2960598c887d447415fceb1bcadb5b) ![](assets/new.png)  
+- [2021-04-18-每秒-10W-次高并发订单业务，你怎么实现？-｜-极客时间](https://www.ershicimi.com/p/200427f469ad1936a2ecaf91f2297a08) ![](assets/new.png)  
+- [2021-04-18-【Java-八股文】，建议每个人都看一下-｜-极客时间](https://www.ershicimi.com/p/67d65c294c3870c36c21044899d234a7) ![](assets/new.png)  
+- [2021-04-17-字节跳动将开启员工期权兑换；调查：半数互联网人有离职计划；腾讯副总裁因违反竞业协议，被判赔偿超千万](https://www.ershicimi.com/p/3fa1358b6bdd55de3d179d3d6de0f9ca) ![](assets/new.png)  
+- [2021-04-17-Angular、React-和-Vue-三大框架，Web-开发该如何选择？](https://www.ershicimi.com/p/c7a80a379301d28a06c518fd02a4ebc6) ![](assets/new.png)  
+- [2021-04-17-再见-for-循环编程，Spring-全家桶，真香！-｜-极客时间](https://www.ershicimi.com/p/c31dbd8c04852a965ab540b8880e1b30) ![](assets/new.png)  
+- [2021-04-17-想来百万流量技术公众号发布文章吗？-InfoQ-开放内容平台了！](https://www.ershicimi.com/p/1cc7c5177efb4e33f82c99eae64d6583) ![](assets/new.png)  
+- [2021-04-16-消息系统兴起二次革命：Kafka不需要ZooKeeper](https://www.ershicimi.com/p/e889bb4bd0f10688592a5191dbf88fab) ![](assets/new.png)  
+- [2021-04-16-你在大前端领域最常用的编程语言是？|-InfoQ-编程语言-4-月排行榜](https://www.ershicimi.com/p/51f1277202d318420949e228514db520) ![](assets/new.png)  
+- [2021-04-16-做了这么久开发，你有没有想过去大厂？-｜-极客时间](https://www.ershicimi.com/p/5a8aaf67e22f467df866648c4478fa71) ![](assets/new.png)  
+- [2021-04-16-这个-Redis-问题画像，干掉了一摞简历-｜-极客时间](https://www.ershicimi.com/p/d9eafbe59c30cb5edd017a469c7c477f) ![](assets/new.png)  
+- [2021-04-16-30-万行代码的平台升级：给跑着的汽车换轮胎](https://www.ershicimi.com/p/287b3a1b801638cb81e0532a0a3bb0ac) ![](assets/new.png)  
+- [2021-04-15-竞业协议“下沉”，普通程序员逃不过的坑](https://www.ershicimi.com/p/eddc858ec0d987e5f843d894c9d12795) ![](assets/new.png)  
+- [2021-04-15-2021年一定要关注的技术趋势和选型建议](https://www.ershicimi.com/p/60ebca0cdf853303d8649b278458f327) ![](assets/new.png)  
+- [2021-04-15-剧透，美团自研API网关服务Shepherd架构解读-｜-ArchSummit](https://www.ershicimi.com/p/0824fefbd3f3c7a7e8a891dc2f723467) ![](assets/new.png)  
+- [2021-04-15-晋升-Leader-后，99%的程序员还不懂怎么面试别人！-｜-极客时间](https://www.ershicimi.com/p/01579f5bdc29ae7be33f267e67f1c29b) ![](assets/new.png)  
+- [2021-04-15-语音编程，软件开发领域的下一个前沿技术？](https://www.ershicimi.com/p/11c5a3a1cb2cd39c648b01e2465f018e) ![](assets/new.png)  
 - [2021-04-14-如何打造一支有超强战斗力的技术团队？-｜-极客时间](https://www.ershicimi.com/p/7f3c54fa30637f200a4a3cd868deeb4c) ![](assets/new.png)  
 - [2021-04-14-不惧流量持续上涨，BIGO-借助-Flink-与-Pulsar-打造实时消息系统](https://www.ershicimi.com/p/f86faf3b0ceaf1cdbb455fb75a154e43) ![](assets/new.png)  
-- [2021-04-14-架构的下一个十年是什么样的？-｜-ArchSummit](https://www.ershicimi.com/p/9d574d40bb27773a5c3e81bb52e1e668) ![](assets/new.png)  
-- [2021-04-14-Serverless比你预期要贵得多](https://www.ershicimi.com/p/e851d3a469e918de714357165b84007f) ![](assets/new.png)  
-- [2021-04-14-英伟达推出首个-CPU，基于-ARM-架构主攻巨型-AI，性能超-x86-十倍](https://www.ershicimi.com/p/0feb20097decea9fc00552afaad25e10) ![](assets/new.png)  
-- [2021-04-13-华为回应多个热门话题：自动驾驶做的比特斯拉好，只要养得起海思就继续养](https://www.ershicimi.com/p/2b2c4a1a6f04621e2cf2aae3bdedb157) ![](assets/new.png)  
-- [2021-04-13-许式伟：相比-Python，我们可能更需要-Go+](https://www.ershicimi.com/p/127237976f8103b0f3fddd2c19f9a986) ![](assets/new.png)  
-- [2021-04-13-IDEA-2021年首个新版本发布，重要更新速览](https://www.ershicimi.com/p/f25d0a7f0c8510610adea58b797233ca) ![](assets/new.png)  
-- [2021-04-13-脱离吹嘘炒作，聊聊真实的Serverless的坑和门槛-｜-GMTC](https://www.ershicimi.com/p/379507aeb3e86c4a2e328b4e679ea7fc) ![](assets/new.png)  
-- [2021-04-13-微软拟1049-亿收购全球最大语音识别公司-Nuance，后者是-Siri-幕后英雄](https://www.ershicimi.com/p/7402bfb44c59123f1783375a428e3eda) ![](assets/new.png)  
-- [2021-04-12-车好多CTO郭东白：优秀架构师该具备的那些素质｜-QCon北京](https://www.ershicimi.com/p/beefc2023aa2ace116e503acc73f3e43) ![](assets/new.png)  
-- [2021-04-12-InfoQ独家报告《制造业数字化发展模式的先进探索》|免费下载](https://www.ershicimi.com/p/3d9d3b78df23a756304a1b3a711f700a) ![](assets/new.png)  
-- [2021-04-12-全世界下载量超-100-亿，curl-怎样成为影响世界的开源项目？](https://www.ershicimi.com/p/f95ec01a19a44e7f8bc459e370f801ca) ![](assets/new.png)  
-- [2021-04-12-低代码平台和社区开发者的崛起：更多解决方案还是更多问题？](https://www.ershicimi.com/p/8aba1f3fae3e7601df20b8ab823918f8) ![](assets/new.png)  
-- [2021-04-12-苹果的-M1-芯片可能只是英特尔“噩梦”的开始](https://www.ershicimi.com/p/7f4f4af469d97f23262d565a619f6200) ![](assets/new.png)  
-- [2021-04-11-从谷歌辞职后，作为独立开发者的第三年，我从年入-3-万做到了年入-40-万](https://www.ershicimi.com/p/04ecb9665b128ffc119b0b39abc77daf) ![](assets/new.png)  
-- [2021-04-11-流数据并行处理性能比较：Kafka-vs-Pulsar-vs-Pravega](https://www.ershicimi.com/p/2c5b9cab0e57272b175035f968bc9d1c) ![](assets/new.png)  
-- [2021-04-11-2021大数据开发面试高频100题最新汇总（附答案详解）-｜-极客大学](https://www.ershicimi.com/p/fb2d6cf91f5ce617c99d6548348dcff5) ![](assets/new.png)  
-- [2021-04-11-一文梳理-Nginx-的称霸之路｜极客时间](https://www.ershicimi.com/p/82e715bc90804a07c1a6545bb51eae3a) ![](assets/new.png)  
-- [2021-04-10-北京Q1平均月薪达11187元；拼多多回应被告诈欺；京东、美团等承诺不用大数据杀熟-|-Q资讯](https://www.ershicimi.com/p/7ca2d4aa973aab4085fa76d68fc38e14) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-19-记一次-github-泄漏-accessKey](https://www.v2ex.com/t/771582) ![](assets/new.png)  
+- [2021-04-19-《摸鱼学导论》爆火，清华程序猿：这才是摸鱼的最高境界！](https://www.v2ex.com/t/771577) ![](assets/new.png)  
+- [2021-04-19-阿里味编程语言-pua-lang-正式发布！](https://www.v2ex.com/t/771576) ![](assets/new.png)  
 - [2021-04-19-求助!mysql5.7-触发器内无法使用存储过程?](https://www.v2ex.com/t/771575) ![](assets/new.png)  
 - [2021-04-19-docker-内进程如何检测自身是否在容器内运行？](https://www.v2ex.com/t/771574) ![](assets/new.png)  
 - [2021-04-19-用金山-pdf-复制多行文字有没有办法让文字可以连续，就是每一行的末尾和下一行的开头不要隔着个换行符](https://www.v2ex.com/t/771570) ![](assets/new.png)  
@@ -1010,12 +1013,9 @@
 - [2021-04-19-请教一个后端开发问题，可能是多线程相关。](https://www.v2ex.com/t/771558) ![](assets/new.png)  
 - [2021-04-19-Jquery-Datatable-前端分页-Checkbox-跨页全选的问题](https://www.v2ex.com/t/771556) ![](assets/new.png)  
 - [2021-04-19-笔记本风扇异响](https://www.v2ex.com/t/771555) ![](assets/new.png)  
-- [2021-04-19-macOS-最新的-Big-Sur-的-safari-的代理是不是还是只能走系统代理？](https://www.v2ex.com/t/771554) ![](assets/new.png)  
 - [2021-04-19-五一想自驾新安江，有没有去过的说说怎么样？](https://www.v2ex.com/t/771553) ![](assets/new.png)  
 - [2021-04-19-请问怎么把-doc-的网页转成-pdf-方便随时看](https://www.v2ex.com/t/771552) ![](assets/new.png)  
 - [2021-04-19-大家平时都是怎么保护隐私的？](https://www.v2ex.com/t/771550) ![](assets/new.png)  
-- [2021-04-19-闲久了，突然项目要忙起来很害怕焦虑怎么办？](https://www.v2ex.com/t/771549) ![](assets/new.png)  
-- [2021-04-19-如何发送伪造源-IP-的数据包？](https://www.v2ex.com/t/771548) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1071,13 +1071,13 @@
 - [2021-04-19-Mac-之-iTerm2-+-Oh-My-Zsh-终端安装教程](https://toutiao.io/k/e15kw8v) ![](assets/new.png)  
 - [2021-04-19-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [2021-04-19-AK-47-所向披靡，内存泄漏一网打尽](https://toutiao.io/k/sv6uy5y) ![](assets/new.png)  
-- [2021-04-19-Netty-源码解析：PoolChunk-实现原理](https://toutiao.io/k/uszctvb) ![](assets/new.png)  
 - [2021-04-19-Spring-Boot-单元测试技术](https://toutiao.io/k/9dq569b) ![](assets/new.png)  
 - [2021-04-19-Java-实现基于朴素贝叶斯的情感词分析](https://toutiao.io/k/h3b1hod) ![](assets/new.png)  
-- [2021-04-19-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-19-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-19-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-19-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-19-Netty-源码解析：PoolChunk-实现原理](https://toutiao.io/k/uszctvb) ![](assets/new.png)  
+- [2021-04-19-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-19-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
+- [2021-04-19-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-19-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 02:23:03，:rocket: 更新条数: +4231， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 02:31:50，:rocket: 更新条数: +4232， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,7 +996,8 @@
 </summary>
 
 
-- [2021-04-19-最近不科学就上不去-v2，啥情况](https://www.v2ex.com/t/771571) ![](assets/new.png)  
+- [2021-04-19-求助!mysql5.7-触发器内无法使用存储过程?](https://www.v2ex.com/t/771575) ![](assets/new.png)  
+- [2021-04-19-docker-内进程如何检测自身是否在容器内运行？](https://www.v2ex.com/t/771574) ![](assets/new.png)  
 - [2021-04-19-用金山-pdf-复制多行文字有没有办法让文字可以连续，就是每一行的末尾和下一行的开头不要隔着个换行符](https://www.v2ex.com/t/771570) ![](assets/new.png)  
 - [2021-04-19-基于-Vite-+-React-构建项目框架](https://www.v2ex.com/t/771569) ![](assets/new.png)  
 - [2021-04-19-Mac-下-安卓（Android）文件传输工具推荐](https://www.v2ex.com/t/771568) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-19-大家平时都是怎么保护隐私的？](https://www.v2ex.com/t/771550) ![](assets/new.png)  
 - [2021-04-19-闲久了，突然项目要忙起来很害怕焦虑怎么办？](https://www.v2ex.com/t/771549) ![](assets/new.png)  
 - [2021-04-19-如何发送伪造源-IP-的数据包？](https://www.v2ex.com/t/771548) ![](assets/new.png)  
-- [2021-04-19-如何在控制中心添加个人-APP-的快速启动开关？](https://www.v2ex.com/t/771539) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1062,22 +1062,22 @@
 - [2021-04-19-聊聊-Raft-协议](https://toutiao.io/k/zb7loam) ![](assets/new.png)  
 - [2021-04-19-美团酒旅数据治理实践](https://toutiao.io/k/6cg7b61) ![](assets/new.png)  
 - [2021-04-19-MySQL-提升笔记（二）：存储引擎盘点](https://toutiao.io/k/m3yyxtk) ![](assets/new.png)  
-- [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) ![](assets/new.png)  
 - [2021-04-19-好代码实践：基于-Redis-的轻量级分布式均衡消费队列](https://toutiao.io/k/mg4sote) ![](assets/new.png)  
+- [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) ![](assets/new.png)  
 - [2021-04-19-译-Docker-和-Kubernetes：root-与特权](https://toutiao.io/k/9vf6w11) ![](assets/new.png)  
 - [2021-04-19-loader-知识分享](https://toutiao.io/k/jvvd1az) ![](assets/new.png)  
 - [2021-04-19-应用上线前的-“体检”，你知道需要检测哪些指标吗？](https://toutiao.io/k/x22a5rk) ![](assets/new.png)  
-- [2021-04-19-Mac-之-iTerm2-+-Oh-My-Zsh-终端安装教程](https://toutiao.io/k/e15kw8v) ![](assets/new.png)  
 - [2021-04-19-RxJS-非权威指南](https://toutiao.io/k/pd3ai83) ![](assets/new.png)  
+- [2021-04-19-Mac-之-iTerm2-+-Oh-My-Zsh-终端安装教程](https://toutiao.io/k/e15kw8v) ![](assets/new.png)  
 - [2021-04-19-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [2021-04-19-AK-47-所向披靡，内存泄漏一网打尽](https://toutiao.io/k/sv6uy5y) ![](assets/new.png)  
 - [2021-04-19-Netty-源码解析：PoolChunk-实现原理](https://toutiao.io/k/uszctvb) ![](assets/new.png)  
 - [2021-04-19-Spring-Boot-单元测试技术](https://toutiao.io/k/9dq569b) ![](assets/new.png)  
 - [2021-04-19-Java-实现基于朴素贝叶斯的情感词分析](https://toutiao.io/k/h3b1hod) ![](assets/new.png)  
-- [2021-04-19-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
-- [2021-04-19-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
-- [2021-04-19-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-19-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-19-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-19-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-19-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-19-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

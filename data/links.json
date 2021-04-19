@@ -20415,6 +20415,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "喜欢在枚举中使用中文名, 这个有错吗",
+        "link": "https://www.v2ex.com/t/771659",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "关于 Python xlrd 库使用的一个问题",
+        "link": "https://www.v2ex.com/t/771658",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "家人们这个博客网站是用什么搭建的",
+        "link": "https://www.v2ex.com/t/771657",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "我们注意到你还没有头像。可我有头像呀",
+        "link": "https://www.v2ex.com/t/771656",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "不好， PCS 打电话来问了",
+        "link": "https://www.v2ex.com/t/771654",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "分享一个小工具 tmax ，命令行重度用户的福音",
+        "link": "https://www.v2ex.com/t/771652",
+        "date": "2021-04-19"
+      },
+      {
         "title": "v 友 都用什么牌子的快充 iPhone 数据线 typec 转 lightingd 的那种",
         "link": "https://www.v2ex.com/t/771651",
         "date": "2021-04-19"
@@ -20563,31 +20593,6 @@
         "title": "vue 项目中使用百度地图问题？",
         "link": "https://www.v2ex.com/t/771610",
         "date": "2021-04-19"
-      },
-      {
-        "title": "升级 big sur 以后发现 idea 不能打印日志了， SQL 日志都出不来，接口访问日志也不行！",
-        "link": "https://www.v2ex.com/t/771608",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "万能的 v2exer 们，你们是如何以个人名义注册 LOGO 的？",
-        "link": "https://www.v2ex.com/t/771605",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "问一个好的清洁电脑整体，主要是屏幕的方案",
-        "link": "https://www.v2ex.com/t/771604",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "关于 aimesh 的问题",
-        "link": "https://www.v2ex.com/t/771603",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "Tele 酱：基于 Telegram 和 Vercel 的开源 Server 酱实现 https://github.com/easychen/telechan",
-        "link": "https://www.v2ex.com/t/771602",
-        "date": "2021-04-19"
       }
     ]
   },
@@ -20734,13 +20739,13 @@
         "date": "2021-04-19"
       },
       {
-        "title": "智能电视漏洞挖掘初探之 Getshell",
-        "link": "https://toutiao.io/k/442n68d",
+        "title": "这 11 款 Chrome 神器，用起来爽到爆",
+        "link": "https://toutiao.io/k/czntgsa",
         "date": "2021-04-19"
       },
       {
-        "title": "这 11 款 Chrome 神器，用起来爽到爆",
-        "link": "https://toutiao.io/k/czntgsa",
+        "title": "智能电视漏洞挖掘初探之 Getshell",
+        "link": "https://toutiao.io/k/442n68d",
         "date": "2021-04-19"
       },
       {
@@ -20804,48 +20809,13 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-19"
-      },
-      {
         "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
         "link": "https://toutiao.io/k/we8gr61",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] RESTful API 设计最佳实践",
-        "link": "https://toutiao.io/k/4zqz7k1",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
         "date": "2021-04-19"
       },
       {
@@ -20854,18 +20824,8 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-19"
       },
       {
@@ -20874,8 +20834,53 @@
         "date": "2021-04-19"
       },
       {
+        "title": "[推荐] 基于 OpenResty 长连接推送的演进",
+        "link": "https://toutiao.io/k/3etk65w",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-19"
+      },
+      {
         "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
         "link": "https://toutiao.io/k/811or1j",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] RESTful API 设计最佳实践",
+        "link": "https://toutiao.io/k/4zqz7k1",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
         "date": "2021-04-19"
       }
     ]

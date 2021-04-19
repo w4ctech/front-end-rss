@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 15:03:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 15:24:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -90,7 +90,6 @@
 - [2021-04-19-如何在-tableView-插入数据后也能滚动到顶部？](https://www.v2ex.com/t/771751) 
 - [2021-04-19-不是很懂为什么这个-WebSocket-事件赋值的时候，可以忽略第一个参数？](https://www.v2ex.com/t/771730) 
 - [2021-04-19-kong-网关-request-transform-插件正则配置](https://www.v2ex.com/t/771725) 
-- [2021-04-19-显示器在滚动页面时方框边缘会变色是怎么回事？](https://www.v2ex.com/t/771718) 
 - [2021-04-19-Android-实现小红书登陆页面背景图无限滚动效果-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14304&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FocOgPrfN_6FD8B16n9NYdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-19-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-19-RxJS-非权威指南](https://toutiao.io/k/pd3ai83) 

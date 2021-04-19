@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 09:38:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 09:52:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -84,6 +84,7 @@
 - [2021-04-09-奇舞周刊第-392-期：用-65-行代码实现-JavaScript-动画序列播放](https://www.ershicimi.com/p/013dd0533617f7cce4ff4a46483d0fb1) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-04-19-不是很懂为什么这个-WebSocket-事件赋值的时候，可以忽略第一个参数？](https://www.v2ex.com/t/771730) 
 - [2021-04-19-kong-网关-request-transform-插件正则配置](https://www.v2ex.com/t/771725) 
 - [2021-04-19-显示器在滚动页面时方框边缘会变色是怎么回事？](https://www.v2ex.com/t/771718) 
 - [2021-04-19-epidata-导出-dbf-文件后-变量值标签都没有了-是怎么回事?](https://www.v2ex.com/t/771714) 

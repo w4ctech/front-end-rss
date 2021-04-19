@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 22:24:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 22:39:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -303,15 +303,16 @@
 - [2021-04-19-AK47-所向披靡，内存泄漏一网打尽](https://toutiao.io/k/sv6uy5y) 
 - [2021-04-19-Netty-源码解析：PoolChunk-实现原理](https://toutiao.io/k/uszctvb) 
 - [2021-04-19-聊聊如何对-Eureka-管理界面进行定制化改造](https://toutiao.io/k/auet6ql) 
-- [2021-04-19-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
-- [2021-04-19-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
-- [2021-04-19-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
 - [2021-04-19-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
-- [2021-04-19-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
-- [2021-04-19-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
+- [2021-04-19-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) 
+- [2021-04-19-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
+- [2021-04-19-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
+- [2021-04-19-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
 - [2021-04-19-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
 - [2021-04-19-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
-- [2021-04-19-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
+- [2021-04-19-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
+- [2021-04-19-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
+- [2021-04-19-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
 - [2021-04-19-【技术分享】探探JDBC反序列化漏洞](https://sec.thief.one/article_content?a_id=34974a9bbaa2caea887f0d1deef3cb2f) 
 - [2021-04-19-Web3.0有哪些未来趋势?](https://sec.thief.one/article_content?a_id=7548e444ded7d2b70175c25d5cfd4604) 
 - [2021-04-19-SecWiki周刊第372期](https://sec.thief.one/article_content?a_id=7a8f8f1a996767062296d5acc69a45e4) 

@@ -20420,6 +20420,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请问有大佬熟悉爱特曼科技（Atman）这家公司吗？",
+        "link": "https://www.v2ex.com/t/771739",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "搬运 youtube 视频到到抖音怎么样",
+        "link": "https://www.v2ex.com/t/771738",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[北京、上海] 以人工智能技术驱动创新药研发，「望石智慧」完成一亿美元 B 及 B+轮融资 | 内推",
+        "link": "https://www.v2ex.com/t/771737",
+        "date": "2021-04-19"
+      },
+      {
         "title": "上海 华尔街见闻 招聘 golang 开发",
         "link": "https://www.v2ex.com/t/771736",
         "date": "2021-04-19"
@@ -20592,16 +20607,6 @@
       {
         "title": "ap 求推荐",
         "link": "https://www.v2ex.com/t/771690",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "如何在面试中使用心理学策略？",
-        "link": "https://www.v2ex.com/t/771688",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "一份非常满意的 offer,薪资要高了,已经主动打电话沟通过,薪资给不到,表示薪资可以再谈,还有什么补救的方法吗?",
-        "link": "https://www.v2ex.com/t/771687",
         "date": "2021-04-19"
       }
     ]
@@ -20819,8 +20824,43 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 基于 OpenResty 长连接推送的演进",
-        "link": "https://toutiao.io/k/3etk65w",
+        "title": "[推荐] RESTful API 设计最佳实践",
+        "link": "https://toutiao.io/k/4zqz7k1",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
         "date": "2021-04-19"
       },
       {
@@ -20834,18 +20874,18 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] RESTful API 设计最佳实践",
-        "link": "https://toutiao.io/k/4zqz7k1",
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
+        "title": "[推荐] 基于 OpenResty 长连接推送的演进",
+        "link": "https://toutiao.io/k/3etk65w",
         "date": "2021-04-19"
       },
       {
@@ -20856,41 +20896,6 @@
       {
         "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
         "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
-        "link": "https://toutiao.io/k/811or1j",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
         "date": "2021-04-19"
       }
     ]

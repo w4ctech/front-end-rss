@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 04:05:15，:rocket: 更新条数: +4239， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 04:24:05，:rocket: 更新条数: +4239， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-19-作为-flomo-的工程师，我在思考些什么？](https://www.v2ex.com/t/771616) ![](assets/new.png)  
+- [2021-04-19-Windows-Terminal-可以通过界面配置了！](https://www.v2ex.com/t/771615) ![](assets/new.png)  
 - [2021-04-19-上海移动最近有病吧，推销电话打个不停](https://www.v2ex.com/t/771613) ![](assets/new.png)  
 - [2021-04-19-有哪些渠道可以获取某个城市有多少家便利店（烟酒店等）？](https://www.v2ex.com/t/771612) ![](assets/new.png)  
 - [2021-04-19-阿里云备案初审核审了一周了，没有下来，提交工单也没人理](https://www.v2ex.com/t/771611) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-19-入职不到一年，感觉成长太慢该怎么办？](https://www.v2ex.com/t/771592) ![](assets/new.png)  
 - [2021-04-19-一代-AirPods-换完电池一个月了，来谈谈体验](https://www.v2ex.com/t/771591) ![](assets/new.png)  
 - [2021-04-19-没有达到实习合同上对实习时长的要求，可以提前离职吗？](https://www.v2ex.com/t/771590) ![](assets/new.png)  
-- [2021-04-19-刚入门，翻译了几篇-Golang-和-Rust-相关的文章对比一下～](https://www.v2ex.com/t/771587) ![](assets/new.png)  
-- [2021-04-19-有兴趣的同学瞅瞅蚂蚁，前端招人了~](https://www.v2ex.com/t/771586) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,10 +1074,10 @@
 - [2021-04-19-Java-实现基于朴素贝叶斯的情感词分析](https://toutiao.io/k/h3b1hod) ![](assets/new.png)  
 - [2021-04-19-Netty-源码解析：PoolChunk-实现原理](https://toutiao.io/k/uszctvb) ![](assets/new.png)  
 - [2021-04-19-Spring-Boot-单元测试技术](https://toutiao.io/k/9dq569b) ![](assets/new.png)  
-- [2021-04-19-使用-Spring-Boot-+-MyBatis-+-FreeMarker-+-Ehcache-进行-Web-开发](https://toutiao.io/k/ljhlfso) ![](assets/new.png)  
 - [2021-04-19-聊聊如何对-Eureka-管理界面进行定制化改造](https://toutiao.io/k/auet6ql) ![](assets/new.png)  
+- [2021-04-19-使用-Spring-Boot-+-MyBatis-+-FreeMarker-+-Ehcache-进行-Web-开发](https://toutiao.io/k/ljhlfso) ![](assets/new.png)  
 - [2021-04-19-Apache-Hudi-+-CDC-管道构建实时数据湖](https://toutiao.io/k/b4b0n99) ![](assets/new.png)  
-- [2021-04-19-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-19-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

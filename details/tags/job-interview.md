@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 07:50:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 08:03:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -29,5 +29,6 @@
 - [2021-04-06-我经常和面试者聊的一个题目](https://www.ershicimi.com/p/a5d52276ba839bc69dcc08a851e8fbca) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-04-15-晋升-Leader-后，99%的程序员还不懂怎么面试别人！-｜-极客时间](https://www.ershicimi.com/p/01579f5bdc29ae7be33f267e67f1c29b) 
+- [2021-04-19-如何在面试中使用心理学策略？](https://www.v2ex.com/t/771688) 
 - [2021-04-19-面试中遇到过什么干货](https://www.v2ex.com/t/771679) 
 - [2021-04-16-【招聘】苏州极光无限信息技术有限公司](https://sec.thief.one/article_content?a_id=e2f51a3b7008367a0633bbcdbc0748bf) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 07:50:20，:rocket: 更新条数: +4250， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 08:03:19，:rocket: 更新条数: +4251， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-19-如何在面试中使用心理学策略？](https://www.v2ex.com/t/771688) ![](assets/new.png)  
+- [2021-04-19-一份非常满意的-offer,薪资要高了,已经主动打电话沟通过,薪资给不到,表示薪资可以再谈,还有什么补救的方法吗?](https://www.v2ex.com/t/771687) ![](assets/new.png)  
 - [2021-04-19-更好用的-Python-管道！](https://www.v2ex.com/t/771685) ![](assets/new.png)  
 - [2021-04-19-远程办公-正儿八经的，有人考虑过全职远程办公吗](https://www.v2ex.com/t/771684) ![](assets/new.png)  
 - [2021-04-19-如果-ZGC-在虚拟内存不足或未开启虚拟内存的时候会怎么样呢?](https://www.v2ex.com/t/771683) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-19-rsync-可不可以多进程同步同一个文件夹？](https://www.v2ex.com/t/771668) ![](assets/new.png)  
 - [2021-04-19-求租车位-杭州市区求租个车位](https://www.v2ex.com/t/771667) ![](assets/new.png)  
 - [2021-04-19-有什么篮球群可以参加吗？另外国产球鞋求推荐](https://www.v2ex.com/t/771666) ![](assets/new.png)  
-- [2021-04-19-深圳内推-字节跳动移动中台，急求-iOS-开发](https://www.v2ex.com/t/771665) ![](assets/new.png)  
-- [2021-04-19-最近-Vue-项目出了一个问题,报错-Uncaught-ReferenceError:-Material_CSS-is-not-defined.小白求指教!](https://www.v2ex.com/t/771664) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,9 +1074,9 @@
 - [2021-04-19-Java-实现基于朴素贝叶斯的情感词分析](https://toutiao.io/k/h3b1hod) ![](assets/new.png)  
 - [2021-04-19-AK47-所向披靡，内存泄漏一网打尽](https://toutiao.io/k/sv6uy5y) ![](assets/new.png)  
 - [2021-04-19-Netty-源码解析：PoolChunk-实现原理](https://toutiao.io/k/uszctvb) ![](assets/new.png)  
+- [2021-04-19-使用-Spring-Boot-+-MyBatis-+-FreeMarker-+-Ehcache-进行-Web-开发](https://toutiao.io/k/ljhlfso) ![](assets/new.png)  
 - [2021-04-19-聊聊如何对-Eureka-管理界面进行定制化改造](https://toutiao.io/k/auet6ql) ![](assets/new.png)  
 - [2021-04-19-Apache-Hudi-+-CDC-管道构建实时数据湖](https://toutiao.io/k/b4b0n99) ![](assets/new.png)  
-- [2021-04-19-使用-Spring-Boot-+-MyBatis-+-FreeMarker-+-Ehcache-进行-Web-开发](https://toutiao.io/k/ljhlfso) ![](assets/new.png)  
 - [2021-04-19-JavaScript-数组及其方法详解](https://toutiao.io/k/cm1qtk7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

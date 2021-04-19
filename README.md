@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 01:15:35，:rocket: 更新条数: +4221， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 01:28:28，:rocket: 更新条数: +4223， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,10 @@
 </summary>
 
 
+- [2021-04-19-macOS-最新的-Big-Sur-的-safari-的代理是不是还是只能走系统代理？](https://www.v2ex.com/t/771554) ![](assets/new.png)  
+- [2021-04-19-五一想自驾新安江，有没有去过的说说怎么样？](https://www.v2ex.com/t/771553) ![](assets/new.png)  
+- [2021-04-19-请问怎么把-doc-的网页转成-pdf-方便随时看](https://www.v2ex.com/t/771552) ![](assets/new.png)  
+- [2021-04-19-大家平时都是怎么保护隐私的？](https://www.v2ex.com/t/771550) ![](assets/new.png)  
 - [2021-04-19-闲久了，突然项目要忙起来很害怕焦虑怎么办？](https://www.v2ex.com/t/771549) ![](assets/new.png)  
 - [2021-04-19-如何发送伪造源-IP-的数据包？](https://www.v2ex.com/t/771548) ![](assets/new.png)  
 - [2021-04-19-如何在控制中心添加个人-APP-的快速启动开关？](https://www.v2ex.com/t/771539) ![](assets/new.png)  
@@ -1012,10 +1016,6 @@
 - [2021-04-18-请教一个-Mysql-条件更新语句,一句完成](https://www.v2ex.com/t/771517) ![](assets/new.png)  
 - [2021-04-18-vue-如何实现-loading-读条，加载完成后显示页面？](https://www.v2ex.com/t/771515) ![](assets/new.png)  
 - [2021-04-18-一起来玩-Moonfly-MC-吧，纯公益生电养老服-1.16.x](https://www.v2ex.com/t/771514) ![](assets/new.png)  
-- [2021-04-18-Go+gRPC-GatewayV2-微服务实战，小程序登录鉴权服务五：鉴权-gRPC-Interceptor-拦截器实战](https://www.v2ex.com/t/771513) ![](assets/new.png)  
-- [2021-04-18-手游中的-TCP-数据一般都用什么加密比较好？](https://www.v2ex.com/t/771511) ![](assets/new.png)  
-- [2021-04-18-IKBC-机械键盘-F108-进小强，被售后判“死刑“结果被我轻松修复](https://www.v2ex.com/t/771509) ![](assets/new.png)  
-- [2021-04-18-深圳工作，广州买房，大家觉得怎样？](https://www.v2ex.com/t/771508) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1063,21 +1063,21 @@
 - [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) ![](assets/new.png)  
 - [2021-04-19-美团酒旅数据治理实践](https://toutiao.io/k/6cg7b61) ![](assets/new.png)  
 - [2021-04-19-MySQL-提升笔记（二）：存储引擎盘点](https://toutiao.io/k/m3yyxtk) ![](assets/new.png)  
+- [2021-04-19-好代码实践：基于-Redis-的轻量级分布式均衡消费队列](https://toutiao.io/k/mg4sote) ![](assets/new.png)  
 - [2021-04-19-loader-知识分享](https://toutiao.io/k/jvvd1az) ![](assets/new.png)  
 - [2021-04-19-译-Docker-和-Kubernetes：root-与特权](https://toutiao.io/k/9vf6w11) ![](assets/new.png)  
-- [2021-04-19-好代码实践：基于-Redis-的轻量级分布式均衡消费队列](https://toutiao.io/k/mg4sote) ![](assets/new.png)  
 - [2021-04-19-应用上线前的-“体检”，你知道需要检测哪些指标吗？](https://toutiao.io/k/x22a5rk) ![](assets/new.png)  
 - [2021-04-19-Mac-之-iTerm2-+-Oh-My-Zsh-终端安装教程](https://toutiao.io/k/e15kw8v) ![](assets/new.png)  
+- [2021-04-19-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
 - [2021-04-19-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
 - [2021-04-19-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
-- [2021-04-19-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-19-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-19-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-19-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
-- [2021-04-19-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-19-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
 - [2021-04-19-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-19-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-19-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
 - [2021-04-19-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-19-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-19-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-19-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

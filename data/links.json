@@ -20410,6 +20410,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "macOS 最新的 Big Sur 的 safari 的代理是不是还是只能走系统代理？",
+        "link": "https://www.v2ex.com/t/771554",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "五一想自驾新安江，有没有去过的说说怎么样？",
+        "link": "https://www.v2ex.com/t/771553",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "请问怎么把 doc 的网页转成 pdf 方便随时看",
+        "link": "https://www.v2ex.com/t/771552",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "大家平时都是怎么保护隐私的？",
+        "link": "https://www.v2ex.com/t/771550",
+        "date": "2021-04-19"
+      },
+      {
         "title": "闲久了，突然项目要忙起来很害怕焦虑怎么办？",
         "link": "https://www.v2ex.com/t/771549",
         "date": "2021-04-19"
@@ -20517,16 +20537,6 @@
       {
         "title": "IT 人定居成都的分享",
         "link": "https://www.v2ex.com/t/771506",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "重装系统后 appstore 打开空白",
-        "link": "https://www.v2ex.com/t/771504",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "迫于入职体检，但近期刚刚做过胸片，体检时能不能不做 x 光，拿医院的检测结果给他们做参考？",
-        "link": "https://www.v2ex.com/t/771502",
         "date": "2021-04-18"
       }
     ]
@@ -20669,6 +20679,11 @@
         "date": "2021-04-19"
       },
       {
+        "title": "好代码实践：基于 Redis 的轻量级分布式均衡消费队列",
+        "link": "https://toutiao.io/k/mg4sote",
+        "date": "2021-04-19"
+      },
+      {
         "title": "loader 知识分享",
         "link": "https://toutiao.io/k/jvvd1az",
         "date": "2021-04-19"
@@ -20676,11 +20691,6 @@
       {
         "title": "[译] Docker 和 Kubernetes：root 与特权",
         "link": "https://toutiao.io/k/9vf6w11",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "好代码实践：基于 Redis 的轻量级分布式均衡消费队列",
-        "link": "https://toutiao.io/k/mg4sote",
         "date": "2021-04-19"
       },
       {
@@ -20694,6 +20704,11 @@
         "date": "2021-04-19"
       },
       {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-19"
+      },
+      {
         "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
         "link": "https://toutiao.io/k/bi1fr9y",
         "date": "2021-04-19"
@@ -20704,48 +20719,8 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] RESTful API 设计最佳实践",
-        "link": "https://toutiao.io/k/4zqz7k1",
-        "date": "2021-04-19"
-      },
-      {
         "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
         "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 基于 OpenResty 长连接推送的演进",
-        "link": "https://toutiao.io/k/3etk65w",
         "date": "2021-04-19"
       },
       {
@@ -20754,18 +20729,53 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
-        "date": "2021-04-19"
-      },
-      {
         "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
         "link": "https://toutiao.io/k/811or1j",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 基于 OpenResty 长连接推送的演进",
+        "link": "https://toutiao.io/k/3etk65w",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
         "date": "2021-04-19"
       }
     ]

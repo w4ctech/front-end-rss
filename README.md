@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 03:09:27，:rocket: 更新条数: +4236， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 03:24:23，:rocket: 更新条数: +4239， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,15 @@
 </summary>
 
 
+- [2021-04-19-万能的-v2exer-们，你们是如何以个人名义注册-LOGO-的？](https://www.v2ex.com/t/771605) ![](assets/new.png)  
+- [2021-04-19-问一个好的清洁电脑整体，主要是屏幕的方案](https://www.v2ex.com/t/771604) ![](assets/new.png)  
+- [2021-04-19-关于-aimesh-的问题](https://www.v2ex.com/t/771603) ![](assets/new.png)  
+- [2021-04-19-Tele-酱：基于-Telegram-和-Vercel-的开源-Server-酱实现-https://github.com/easychen/telechan](https://www.v2ex.com/t/771602) ![](assets/new.png)  
+- [2021-04-19-使用设计模式的疑问](https://www.v2ex.com/t/771601) ![](assets/new.png)  
+- [2021-04-19-有没有人用-bash-language-server，-我想问问这么开它的-log，或者它的默认-log-是写到哪里了？-https://github.com/bash-lsp/bash-language-server](https://www.v2ex.com/t/771600) ![](assets/new.png)  
+- [2021-04-19-如何应对孤独感？](https://www.v2ex.com/t/771599) ![](assets/new.png)  
+- [2021-04-19-上海-心动网络---HyperJoy-工作室招-游戏客户端/策划/设计师](https://www.v2ex.com/t/771598) ![](assets/new.png)  
+- [2021-04-19-为什么用心制作的视频没人看！大家能给我的视频提点意见嘛~](https://www.v2ex.com/t/771597) ![](assets/new.png)  
 - [2021-04-19-有兴趣的同学瞅瞅，蚂蚁招人了，真海量-HC~](https://www.v2ex.com/t/771596) ![](assets/new.png)  
 - [2021-04-19-入职不到一年，感觉成长太慢该怎么办？](https://www.v2ex.com/t/771592) ![](assets/new.png)  
 - [2021-04-19-一代-AirPods-换完电池一个月了，来谈谈体验](https://www.v2ex.com/t/771591) ![](assets/new.png)  
@@ -1007,15 +1016,6 @@
 - [2021-04-19-记一次-github-泄漏-accessKey](https://www.v2ex.com/t/771582) ![](assets/new.png)  
 - [2021-04-19-《摸鱼学导论》爆火，清华程序猿：这才是摸鱼的最高境界！](https://www.v2ex.com/t/771577) ![](assets/new.png)  
 - [2021-04-19-阿里味编程语言-pua-lang-正式发布！](https://www.v2ex.com/t/771576) ![](assets/new.png)  
-- [2021-04-19-求助!mysql5.7-触发器内无法使用存储过程?](https://www.v2ex.com/t/771575) ![](assets/new.png)  
-- [2021-04-19-docker-内进程如何检测自身是否在容器内运行？](https://www.v2ex.com/t/771574) ![](assets/new.png)  
-- [2021-04-19-用金山-pdf-复制多行文字有没有办法让文字可以连续，就是每一行的末尾和下一行的开头不要隔着个换行符](https://www.v2ex.com/t/771570) ![](assets/new.png)  
-- [2021-04-19-基于-Vite-+-React-构建项目框架](https://www.v2ex.com/t/771569) ![](assets/new.png)  
-- [2021-04-19-Mac-下-安卓（Android）文件传输工具推荐](https://www.v2ex.com/t/771568) ![](assets/new.png)  
-- [2021-04-19-2021-年了-有什么推荐的-安卓-平台无线蓝牙耳机吗](https://www.v2ex.com/t/771567) ![](assets/new.png)  
-- [2021-04-19-问问大家，新购领势-MX4200-适合做主路由还是老的-AC68U-做主路由并且领势桥接模式呢](https://www.v2ex.com/t/771566) ![](assets/new.png)  
-- [2021-04-19-开通精品网后，网速只有-250-了。。。](https://www.v2ex.com/t/771564) ![](assets/new.png)  
-- [2021-04-19-自己在家挖矿几天结果收益被盗了，说说我的经历](https://www.v2ex.com/t/771563) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,24 +1060,24 @@
 
 - [2021-04-19-看过这篇剖析，你还不懂-Go-sync.Map-吗？](https://toutiao.io/k/x1rnpcx) ![](assets/new.png)  
 - [2021-04-19-聊聊-Raft-协议](https://toutiao.io/k/zb7loam) ![](assets/new.png)  
-- [2021-04-19-美团酒旅数据治理实践](https://toutiao.io/k/6cg7b61) ![](assets/new.png)  
 - [2021-04-19-MySQL-提升笔记（二）：存储引擎盘点](https://toutiao.io/k/m3yyxtk) ![](assets/new.png)  
+- [2021-04-19-美团酒旅数据治理实践](https://toutiao.io/k/6cg7b61) ![](assets/new.png)  
 - [2021-04-19-好代码实践：基于-Redis-的轻量级分布式均衡消费队列](https://toutiao.io/k/mg4sote) ![](assets/new.png)  
-- [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) ![](assets/new.png)  
 - [2021-04-19-应用上线前的-“体检”，你知道需要检测哪些指标吗？](https://toutiao.io/k/x22a5rk) ![](assets/new.png)  
+- [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) ![](assets/new.png)  
 - [2021-04-19-译-Docker-和-Kubernetes：root-与特权](https://toutiao.io/k/9vf6w11) ![](assets/new.png)  
 - [2021-04-19-loader-知识分享](https://toutiao.io/k/jvvd1az) ![](assets/new.png)  
 - [2021-04-19-RxJS-非权威指南](https://toutiao.io/k/pd3ai83) ![](assets/new.png)  
-- [2021-04-19-Mac-之-iTerm2-+-Oh-My-Zsh-终端安装教程](https://toutiao.io/k/e15kw8v) ![](assets/new.png)  
 - [2021-04-19-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-04-19-Mac-之-iTerm2-+-Oh-My-Zsh-终端安装教程](https://toutiao.io/k/e15kw8v) ![](assets/new.png)  
 - [2021-04-19-AK-47-所向披靡，内存泄漏一网打尽](https://toutiao.io/k/sv6uy5y) ![](assets/new.png)  
 - [2021-04-19-Java-实现基于朴素贝叶斯的情感词分析](https://toutiao.io/k/h3b1hod) ![](assets/new.png)  
-- [2021-04-19-Spring-Boot-单元测试技术](https://toutiao.io/k/9dq569b) ![](assets/new.png)  
 - [2021-04-19-Netty-源码解析：PoolChunk-实现原理](https://toutiao.io/k/uszctvb) ![](assets/new.png)  
+- [2021-04-19-Spring-Boot-单元测试技术](https://toutiao.io/k/9dq569b) ![](assets/new.png)  
 - [2021-04-19-使用-Spring-Boot-+-MyBatis-+-FreeMarker-+-Ehcache-进行-Web-开发](https://toutiao.io/k/ljhlfso) ![](assets/new.png)  
 - [2021-04-19-聊聊如何对-Eureka-管理界面进行定制化改造](https://toutiao.io/k/auet6ql) ![](assets/new.png)  
 - [2021-04-19-Apache-Hudi-+-CDC-管道构建实时数据湖](https://toutiao.io/k/b4b0n99) ![](assets/new.png)  
-- [2021-04-19-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-19-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-19 03:09:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 03:24:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -235,6 +235,7 @@
 
 
 
+- [【V2EX】上海-心动网络---HyperJoy-工作室招-游戏客户端/策划/设计师](https://www.v2ex.com/t/771598)
 - [【技术头条】想多人游戏？那你还不看看它！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14294&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】想多人游戏？那你还不看看它！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14293&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i)
@@ -445,6 +446,8 @@
 - [【React中文社区】实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1)
 - [【前端瓶子君】从梦幻西游学会广度优先搜索和A*算法](https://www.ershicimi.com/p/b34641353de96544191162c490a58ff2)
 - [【前端日刊】面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219)
+- [【V2EX】Tele-酱：基于-Telegram-和-Vercel-的开源-Server-酱实现-https://github.com/easychen/telechan](https://www.v2ex.com/t/771602)
+- [【V2EX】有没有人用-bash-language-server，-我想问问这么开它的-log，或者它的默认-log-是写到哪里了？-https://github.com/bash-lsp/bash-language-server](https://www.v2ex.com/t/771600)
 - [【技术头条】十六年全栈开发者的-Android-开发踩坑实录-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLiRIV5XAvToTpLTLRSkxdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】炸了.《图解算法》爆款,原来算法还可以这样学!](https://sec.thief.one/article_content?a_id=ac08d4c64caf02797e5b62a6c1a7343a)
 - [【安全热点】一道算法题](https://sec.thief.one/article_content?a_id=9a72176eb9b3dfc0f37bd4a83bda903a)
@@ -468,6 +471,7 @@
 - [【V2EX】docker-内进程如何检测自身是否在容器内运行？](https://www.v2ex.com/t/771574)
 - [【开发者头条】译-Docker-和-Kubernetes：root-与特权](https://toutiao.io/k/9vf6w11)
 - [【开发者头条】推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1)
+- [【开发者头条】推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w)
 - [【安全热点】植入挖矿的Docker镜像被下载了2000万次](https://sec.thief.one/article_content?a_id=560e5027479e368520d1f4e45dfd5db7)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -493,7 +497,6 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】记一次-github-泄漏-accessKey](https://www.v2ex.com/t/771582)
-- [【开发者头条】推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y)
 - [【开发者头条】推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb)
 - [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
 - [【安全热点】【漏洞通告】Gitlab多个高危漏洞](https://sec.thief.one/article_content?a_id=806eeee256d4b6d632dd24672eaf0e23)

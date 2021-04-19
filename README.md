@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 23:38:47，:rocket: 更新条数: +4248， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 23:52:11，:rocket: 更新条数: +4248， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1059,8 +1059,8 @@
 
 
 - [2021-04-19-看过这篇剖析，你还不懂-Go-sync.Map-吗？](https://toutiao.io/k/x1rnpcx) ![](assets/new.png)  
-- [2021-04-19-聊聊-Raft-协议](https://toutiao.io/k/zb7loam) ![](assets/new.png)  
 - [2021-04-19-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-04-19-聊聊-Raft-协议](https://toutiao.io/k/zb7loam) ![](assets/new.png)  
 - [2021-04-19-MySQL-提升笔记（二）：存储引擎盘点](https://toutiao.io/k/m3yyxtk) ![](assets/new.png)  
 - [2021-04-19-好代码实践：基于-Redis-的轻量级分布式均衡消费队列](https://toutiao.io/k/mg4sote) ![](assets/new.png)  
 - [2021-04-19-美团酒旅数据治理实践](https://toutiao.io/k/6cg7b61) ![](assets/new.png)  

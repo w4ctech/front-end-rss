@@ -20415,6 +20415,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "v 友 都用什么牌子的快充 iPhone 数据线 typec 转 lightingd 的那种",
+        "link": "https://www.v2ex.com/t/771651",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "矿老板请看过来!",
+        "link": "https://www.v2ex.com/t/771650",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "油管获利审核要多久？我这审核了一周了，还是没有回复结果。",
+        "link": "https://www.v2ex.com/t/771648",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "macosicons 的好多图标都没了？",
+        "link": "https://www.v2ex.com/t/771647",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "床垫有必要买贵的吗？有什么推荐的床垫吗",
+        "link": "https://www.v2ex.com/t/771646",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[杭州] 来未来科技 | 诚招 Web 前端工程师 / Node.js 工程师（Electron 方向）",
+        "link": "https://www.v2ex.com/t/771645",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "轻量的标签页保存插件 Keptab 现在有暗黑模式了~",
+        "link": "https://www.v2ex.com/t/771644",
+        "date": "2021-04-19"
+      },
+      {
         "title": "[上海] [软件工程师 - Web 高级工程师] [TypeScript] ARKIE 引擎",
         "link": "https://www.v2ex.com/t/771643",
         "date": "2021-04-19"
@@ -20553,36 +20588,6 @@
         "title": "Tele 酱：基于 Telegram 和 Vercel 的开源 Server 酱实现 https://github.com/easychen/telechan",
         "link": "https://www.v2ex.com/t/771602",
         "date": "2021-04-19"
-      },
-      {
-        "title": "使用设计模式的疑问",
-        "link": "https://www.v2ex.com/t/771601",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "有没有人用 bash-language-server， 我想问问这么开它的 log，或者它的默认 log 是写到哪里了？\r\n\r\nhttps://github.com/bash-lsp/bash-language-server",
-        "link": "https://www.v2ex.com/t/771600",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "如何应对孤独感？",
-        "link": "https://www.v2ex.com/t/771599",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[上海] 心动网络 - HyperJoy 工作室招 游戏客户端/策划/设计师",
-        "link": "https://www.v2ex.com/t/771598",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "为什么用心制作的视频没人看！大家能给我的视频提点意见嘛~",
-        "link": "https://www.v2ex.com/t/771597",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "有兴趣的同学瞅瞅，蚂蚁招人了，真海量 HC~",
-        "link": "https://www.v2ex.com/t/771596",
-        "date": "2021-04-19"
       }
     ]
   },
@@ -20714,13 +20719,13 @@
         "date": "2021-04-19"
       },
       {
-        "title": "美团酒旅数据治理实践",
-        "link": "https://toutiao.io/k/6cg7b61",
+        "title": "好代码实践：基于 Redis 的轻量级分布式均衡消费队列",
+        "link": "https://toutiao.io/k/mg4sote",
         "date": "2021-04-19"
       },
       {
-        "title": "好代码实践：基于 Redis 的轻量级分布式均衡消费队列",
-        "link": "https://toutiao.io/k/mg4sote",
+        "title": "美团酒旅数据治理实践",
+        "link": "https://toutiao.io/k/6cg7b61",
         "date": "2021-04-19"
       },
       {
@@ -20759,8 +20764,13 @@
         "date": "2021-04-19"
       },
       {
-        "title": "AK 47 所向披靡，内存泄漏一网打尽",
+        "title": "AK47 所向披靡，内存泄漏一网打尽",
         "link": "https://toutiao.io/k/sv6uy5y",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "Spring Boot 单元测试技术",
+        "link": "https://toutiao.io/k/9dq569b",
         "date": "2021-04-19"
       },
       {
@@ -20774,18 +20784,8 @@
         "date": "2021-04-19"
       },
       {
-        "title": "Spring Boot 单元测试技术",
-        "link": "https://toutiao.io/k/9dq569b",
-        "date": "2021-04-19"
-      },
-      {
         "title": "聊聊如何对 Eureka 管理界面进行定制化改造",
         "link": "https://toutiao.io/k/auet6ql",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "使用 Spring Boot + MyBatis + FreeMarker + Ehcache 进行 Web 开发",
-        "link": "https://toutiao.io/k/ljhlfso",
         "date": "2021-04-19"
       },
       {
@@ -20794,43 +20794,18 @@
         "date": "2021-04-19"
       },
       {
-        "title": "Javascript 数组及其方法详解",
+        "title": "使用 Spring Boot + MyBatis + FreeMarker + Ehcache 进行 Web 开发",
+        "link": "https://toutiao.io/k/ljhlfso",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "JavaScript 数组及其方法详解",
         "link": "https://toutiao.io/k/cm1qtk7",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] RESTful API 设计最佳实践",
-        "link": "https://toutiao.io/k/4zqz7k1",
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
         "date": "2021-04-19"
       },
       {
@@ -20839,8 +20814,13 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
         "date": "2021-04-19"
       },
       {
@@ -20849,13 +20829,18 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 基于 OpenResty 长连接推送的演进",
-        "link": "https://toutiao.io/k/3etk65w",
+        "title": "[推荐] RESTful API 设计最佳实践",
+        "link": "https://toutiao.io/k/4zqz7k1",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-19"
       },
       {
@@ -20864,13 +20849,33 @@
         "date": "2021-04-19"
       },
       {
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-19"
+      },
+      {
         "title": "[推荐] 谈谈 MySQL 锁",
         "link": "https://toutiao.io/k/z5c0vp0",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
         "date": "2021-04-19"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 06:03:20，:rocket: 更新条数: +4242， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 06:24:34，:rocket: 更新条数: +4243， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,13 @@
 </summary>
 
 
+- [2021-04-19-v-友-都用什么牌子的快充-iPhone-数据线-typec-转-lightingd-的那种](https://www.v2ex.com/t/771651) ![](assets/new.png)  
+- [2021-04-19-矿老板请看过来!](https://www.v2ex.com/t/771650) ![](assets/new.png)  
+- [2021-04-19-油管获利审核要多久？我这审核了一周了，还是没有回复结果。](https://www.v2ex.com/t/771648) ![](assets/new.png)  
+- [2021-04-19-macosicons-的好多图标都没了？](https://www.v2ex.com/t/771647) ![](assets/new.png)  
+- [2021-04-19-床垫有必要买贵的吗？有什么推荐的床垫吗](https://www.v2ex.com/t/771646) ![](assets/new.png)  
+- [2021-04-19-杭州-来未来科技-|-诚招-Web-前端工程师-/-Node.js-工程师（Electron-方向）](https://www.v2ex.com/t/771645) ![](assets/new.png)  
+- [2021-04-19-轻量的标签页保存插件-Keptab-现在有暗黑模式了~](https://www.v2ex.com/t/771644) ![](assets/new.png)  
 - [2021-04-19-上海-软件工程师---Web-高级工程师-TypeScript-ARKIE-引擎](https://www.v2ex.com/t/771643) ![](assets/new.png)  
 - [2021-04-19-前端常用的-css-和-js-引入文件，国内有什么稳定的-cdn-吗？](https://www.v2ex.com/t/771642) ![](assets/new.png)  
 - [2021-04-19-各位大神，请教一个正则表达式的写法](https://www.v2ex.com/t/771641) ![](assets/new.png)  
@@ -1009,13 +1016,6 @@
 - [2021-04-19-安卓平台微信，手机-QQ-下载的文件到底在哪个文件夹？是否有-APP-可监控这些文件夹然后一有文件强制转移到指定文件夹？](https://www.v2ex.com/t/771626) ![](assets/new.png)  
 - [2021-04-19-成为流行开源项目-Top-Contributor-给我带来了什么](https://www.v2ex.com/t/771625) ![](assets/new.png)  
 - [2021-04-19-雅虎面试题：数组中最大的差值](https://www.v2ex.com/t/771623) ![](assets/new.png)  
-- [2021-04-19-v2-网页的发帖入口好深](https://www.v2ex.com/t/771622) ![](assets/new.png)  
-- [2021-04-19-踢楼送码-一个-DES-加密的云日记](https://www.v2ex.com/t/771619) ![](assets/new.png)  
-- [2021-04-19-为-PHP-提供一些要求性能比较高的-FFI-库这种有意义吗？](https://www.v2ex.com/t/771618) ![](assets/new.png)  
-- [2021-04-19-Microsoft-Learn:-使用-Rust-迈出第一步](https://www.v2ex.com/t/771617) ![](assets/new.png)  
-- [2021-04-19-作为-flomo-的工程师，我在思考些什么？](https://www.v2ex.com/t/771616) ![](assets/new.png)  
-- [2021-04-19-Windows-Terminal-可以通过界面配置了！](https://www.v2ex.com/t/771615) ![](assets/new.png)  
-- [2021-04-19-上海移动最近有病吧，推销电话打个不停](https://www.v2ex.com/t/771613) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1061,8 +1061,8 @@
 - [2021-04-19-看过这篇剖析，你还不懂-Go-sync.Map-吗？](https://toutiao.io/k/x1rnpcx) ![](assets/new.png)  
 - [2021-04-19-聊聊-Raft-协议](https://toutiao.io/k/zb7loam) ![](assets/new.png)  
 - [2021-04-19-MySQL-提升笔记（二）：存储引擎盘点](https://toutiao.io/k/m3yyxtk) ![](assets/new.png)  
-- [2021-04-19-美团酒旅数据治理实践](https://toutiao.io/k/6cg7b61) ![](assets/new.png)  
 - [2021-04-19-好代码实践：基于-Redis-的轻量级分布式均衡消费队列](https://toutiao.io/k/mg4sote) ![](assets/new.png)  
+- [2021-04-19-美团酒旅数据治理实践](https://toutiao.io/k/6cg7b61) ![](assets/new.png)  
 - [2021-04-19-应用上线前的-“体检”，你知道需要检测哪些指标吗？](https://toutiao.io/k/x22a5rk) ![](assets/new.png)  
 - [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) ![](assets/new.png)  
 - [2021-04-19-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
@@ -1070,14 +1070,14 @@
 - [2021-04-19-译-Docker-和-Kubernetes：root-与特权](https://toutiao.io/k/9vf6w11) ![](assets/new.png)  
 - [2021-04-19-loader-知识分享](https://toutiao.io/k/jvvd1az) ![](assets/new.png)  
 - [2021-04-19-Mac-之-iTerm2-+-Oh-My-Zsh-终端安装教程](https://toutiao.io/k/e15kw8v) ![](assets/new.png)  
-- [2021-04-19-AK-47-所向披靡，内存泄漏一网打尽](https://toutiao.io/k/sv6uy5y) ![](assets/new.png)  
+- [2021-04-19-AK47-所向披靡，内存泄漏一网打尽](https://toutiao.io/k/sv6uy5y) ![](assets/new.png)  
+- [2021-04-19-Spring-Boot-单元测试技术](https://toutiao.io/k/9dq569b) ![](assets/new.png)  
 - [2021-04-19-Java-实现基于朴素贝叶斯的情感词分析](https://toutiao.io/k/h3b1hod) ![](assets/new.png)  
 - [2021-04-19-Netty-源码解析：PoolChunk-实现原理](https://toutiao.io/k/uszctvb) ![](assets/new.png)  
-- [2021-04-19-Spring-Boot-单元测试技术](https://toutiao.io/k/9dq569b) ![](assets/new.png)  
 - [2021-04-19-聊聊如何对-Eureka-管理界面进行定制化改造](https://toutiao.io/k/auet6ql) ![](assets/new.png)  
-- [2021-04-19-使用-Spring-Boot-+-MyBatis-+-FreeMarker-+-Ehcache-进行-Web-开发](https://toutiao.io/k/ljhlfso) ![](assets/new.png)  
 - [2021-04-19-Apache-Hudi-+-CDC-管道构建实时数据湖](https://toutiao.io/k/b4b0n99) ![](assets/new.png)  
-- [2021-04-19-Javascript-数组及其方法详解](https://toutiao.io/k/cm1qtk7) ![](assets/new.png)  
+- [2021-04-19-使用-Spring-Boot-+-MyBatis-+-FreeMarker-+-Ehcache-进行-Web-开发](https://toutiao.io/k/ljhlfso) ![](assets/new.png)  
+- [2021-04-19-JavaScript-数组及其方法详解](https://toutiao.io/k/cm1qtk7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

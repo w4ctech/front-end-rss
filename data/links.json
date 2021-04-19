@@ -5,9 +5,9 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "最新疫情：全国新冠累计确诊90499例 累计接种新冠疫苗近1.9亿剂次",
-        "link": "https://m.caixin.com/m/2021-04-18/101692882.html",
-        "date": "2021-04-18"
+        "title": "印度单日新增逾26万病例 世卫称全球感染率接近历史高峰｜大流行手记（4月18日）",
+        "link": "https://m.caixin.com/m/2021-04-19/101692924.html",
+        "date": "2021-04-19"
       },
       {
         "title": "最新海外疫情：新冠感染超1.4亿 累计死亡超300万",
@@ -17592,14 +17592,14 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
-        "title": "全国｜新增 16 例确诊病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivmX6AGqolee4grcfPnAx210418&isfromapp=1",
-        "date": "2021-04-18"
+        "title": "全国｜新增 11 例确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRAwPr3h6X5gDX4ePJEo210419&isfromapp=1",
+        "date": "2021-04-19"
       },
       {
-        "title": "上海｜新增 2 例确诊病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYafpHQzSt2Ne8I3czKtS210418&isfromapp=1",
-        "date": "2021-04-17"
+        "title": "云南｜新增确诊病例 2 例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZADzL3Jzb8lgtBRJ8HJw210419&isfromapp=1",
+        "date": "2021-04-18"
       }
     ]
   },
@@ -20543,11 +20543,6 @@
         "title": "如何 SSH 到一台用微软账户登陆、使用 PIN 码解锁的 windows10 机器？",
         "link": "https://www.v2ex.com/t/771493",
         "date": "2021-04-18"
-      },
-      {
-        "title": "大佬们 我来问问题了",
-        "link": "https://www.v2ex.com/t/771491",
-        "date": "2021-04-18"
       }
     ]
   },
@@ -20669,8 +20664,8 @@
         "date": "2021-04-19"
       },
       {
-        "title": "美团酒旅数据治理实践",
-        "link": "https://toutiao.io/k/6cg7b61",
+        "title": "聊聊 Raft 协议",
+        "link": "https://toutiao.io/k/zb7loam",
         "date": "2021-04-19"
       },
       {
@@ -20679,8 +20674,8 @@
         "date": "2021-04-19"
       },
       {
-        "title": "聊聊 Raft 协议",
-        "link": "https://toutiao.io/k/zb7loam",
+        "title": "美团酒旅数据治理实践",
+        "link": "https://toutiao.io/k/6cg7b61",
         "date": "2021-04-19"
       },
       {
@@ -20689,13 +20684,18 @@
         "date": "2021-04-19"
       },
       {
-        "title": "好代码实践：基于 Redis 的轻量级分布式均衡消费队列",
-        "link": "https://toutiao.io/k/mg4sote",
+        "title": "loader 知识分享",
+        "link": "https://toutiao.io/k/jvvd1az",
         "date": "2021-04-19"
       },
       {
-        "title": "loader 知识分享",
-        "link": "https://toutiao.io/k/jvvd1az",
+        "title": "[译] Docker 和 Kubernetes：root 与特权",
+        "link": "https://toutiao.io/k/9vf6w11",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "好代码实践：基于 Redis 的轻量级分布式均衡消费队列",
+        "link": "https://toutiao.io/k/mg4sote",
         "date": "2021-04-19"
       },
       {
@@ -20709,18 +20709,48 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
         "date": "2021-04-19"
       },
       {
         "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
         "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
         "date": "2021-04-19"
       },
       {
@@ -20734,23 +20764,8 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
         "date": "2021-04-19"
       },
       {
@@ -20759,28 +20774,13 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
-        "link": "https://toutiao.io/k/811or1j",
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
         "date": "2021-04-19"
       }
     ]

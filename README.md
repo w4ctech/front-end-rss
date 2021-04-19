@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 00:26:48，:rocket: 更新条数: +4224， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 00:47:37，:rocket: 更新条数: +4224， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2021-04-18-最新疫情：全国新冠累计确诊90499例-累计接种新冠疫苗近1.9亿剂次](https://m.caixin.com/m/2021-04-18/101692882.html) ![](assets/new.png)  
+- [2021-04-19-印度单日新增逾26万病例-世卫称全球感染率接近历史高峰｜大流行手记（4月18日）](https://m.caixin.com/m/2021-04-19/101692924.html) ![](assets/new.png)  
 - [2021-04-18-最新海外疫情：新冠感染超1.4亿-累计死亡超300万](https://m.caixin.com/m/2021-04-18/101692885.html) ![](assets/new.png)  
 - [2021-04-18-【境内疫情观察】全国新增16例境外输入病例（4月17日）](http://m.database.caixin.com/m/2021-04-18/101692852.html) ![](assets/new.png)  
 - [2021-04-18-科兴疫苗智利真实世界保护率达67%-礼来中和抗体紧急授权被收回｜大流行手记（4月17日）](https://m.caixin.com/m/2021-04-18/101692822.html) ![](assets/new.png)  
@@ -96,8 +96,8 @@
 </summary>
 
 
-- [2021-04-18-全国｜新增-16-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivmX6AGqolee4grcfPnAx210418&isfromapp=1) ![](assets/new.png)  
-- [2021-04-17-上海｜新增-2-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYafpHQzSt2Ne8I3czKtS210418&isfromapp=1) ![](assets/new.png)  
+- [2021-04-19-全国｜新增-11-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRAwPr3h6X5gDX4ePJEo210419&isfromapp=1) ![](assets/new.png)  
+- [2021-04-18-云南｜新增确诊病例-2-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZADzL3Jzb8lgtBRJ8HJw210419&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1059,25 +1059,25 @@
 
 
 - [2021-04-19-看过这篇剖析，你还不懂-Go-sync.Map-吗？](https://toutiao.io/k/x1rnpcx) ![](assets/new.png)  
-- [2021-04-19-美团酒旅数据治理实践](https://toutiao.io/k/6cg7b61) ![](assets/new.png)  
-- [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) ![](assets/new.png)  
 - [2021-04-19-聊聊-Raft-协议](https://toutiao.io/k/zb7loam) ![](assets/new.png)  
+- [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) ![](assets/new.png)  
+- [2021-04-19-美团酒旅数据治理实践](https://toutiao.io/k/6cg7b61) ![](assets/new.png)  
 - [2021-04-19-MySQL-提升笔记（二）：存储引擎盘点](https://toutiao.io/k/m3yyxtk) ![](assets/new.png)  
-- [2021-04-19-好代码实践：基于-Redis-的轻量级分布式均衡消费队列](https://toutiao.io/k/mg4sote) ![](assets/new.png)  
 - [2021-04-19-loader-知识分享](https://toutiao.io/k/jvvd1az) ![](assets/new.png)  
+- [2021-04-19-译-Docker-和-Kubernetes：root-与特权](https://toutiao.io/k/9vf6w11) ![](assets/new.png)  
+- [2021-04-19-好代码实践：基于-Redis-的轻量级分布式均衡消费队列](https://toutiao.io/k/mg4sote) ![](assets/new.png)  
 - [2021-04-19-应用上线前的-“体检”，你知道需要检测哪些指标吗？](https://toutiao.io/k/x22a5rk) ![](assets/new.png)  
 - [2021-04-19-Mac-之-iTerm2-+-Oh-My-Zsh-终端安装教程](https://toutiao.io/k/e15kw8v) ![](assets/new.png)  
-- [2021-04-19-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-19-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-19-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-19-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
-- [2021-04-19-推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w) ![](assets/new.png)  
-- [2021-04-19-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-19-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-19-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-19-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-19-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
 - [2021-04-19-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-19-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-19-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
 - [2021-04-19-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-19-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-19-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-19-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
+- [2021-04-19-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-19-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

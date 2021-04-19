@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-19 00:26:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 00:47:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -470,6 +470,7 @@
 
 
 - [【InfoQ】一文梳理-Nginx-的称霸之路｜极客时间](https://www.ershicimi.com/p/82e715bc90804a07c1a6545bb51eae3a)
+- [【开发者头条】译-Docker-和-Kubernetes：root-与特权](https://toutiao.io/k/9vf6w11)
 - [【开发者头条】推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w)
 - [【安全热点】植入挖矿的Docker镜像被下载了2000万次](https://sec.thief.one/article_content?a_id=560e5027479e368520d1f4e45dfd5db7)
 - [......【查看更多】......](./details/tags/server.md)
@@ -495,6 +496,8 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【开发者头条】推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y)
+- [【开发者头条】推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb)
+- [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
 - [【安全热点】【漏洞通告】Gitlab多个高危漏洞](https://sec.thief.one/article_content?a_id=806eeee256d4b6d632dd24672eaf0e23)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -598,7 +601,7 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊90499例-累计接种新冠疫苗近1.9亿剂次](https://m.caixin.com/m/2021-04-18/101692882.html)
+- [【武汉肺炎防疫全纪录(财新网)】印度单日新增逾26万病例-世卫称全球感染率接近历史高峰｜大流行手记（4月18日）](https://m.caixin.com/m/2021-04-19/101692924.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超1.4亿-累计死亡超300万](https://m.caixin.com/m/2021-04-18/101692885.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增16例境外输入病例（4月17日）](http://m.database.caixin.com/m/2021-04-18/101692852.html)
 - [【武汉肺炎防疫全纪录(财新网)】科兴疫苗智利真实世界保护率达67%-礼来中和抗体紧急授权被收回｜大流行手记（4月17日）](https://m.caixin.com/m/2021-04-18/101692822.html)

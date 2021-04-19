@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 14:24:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 14:36:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,6 +39,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-04-19-中原银行分布式缓存实践](https://www.ershicimi.com/p/40bb39493b040f7e21e1a890ca14dcfa) 
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
+- [2021-04-19-现在好多外网打开就跳一个弹窗让你-accept-cookies，还要手动去关掉，心好累](https://www.v2ex.com/t/771762) 
 - [2021-04-19-吐槽下-ToDesk-的安全机制，一天可以收到-n-次的新设备登陆验证！](https://www.v2ex.com/t/771758) 
 - [2021-04-19-V-友们，重头开始学网络安全方向的话推荐学什么语言](https://www.v2ex.com/t/771748) 
 - [2021-04-19-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 

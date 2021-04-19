@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 14:24:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 14:36:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -32,5 +32,4 @@
 - [2021-04-19-上海-华尔街见闻-招聘-golang-开发](https://www.v2ex.com/t/771736) 
 - [2021-04-19-深圳公司招聘区块链产品经理](https://www.v2ex.com/t/771732) 
 - [2021-04-19-深圳公司招聘](https://www.v2ex.com/t/771722) 
-- [2021-04-19-为什么面试不能-Google](https://www.v2ex.com/t/771712) 
 - [2021-04-16-【招聘】苏州极光无限信息技术有限公司](https://sec.thief.one/article_content?a_id=e2f51a3b7008367a0633bbcdbc0748bf) 

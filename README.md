@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 14:03:12，:rocket: 更新条数: +4243， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 14:24:11，:rocket: 更新条数: +4243， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-19-Excelize-2.4.0-正式版发布,-新增-152-项公式函数支持](https://www.v2ex.com/t/771760) ![](assets/new.png)  
 - [2021-04-19-吐槽下-ToDesk-的安全机制，一天可以收到-n-次的新设备登陆验证！](https://www.v2ex.com/t/771758) ![](assets/new.png)  
 - [2021-04-19-为何不建议你回家帮忙，及我目前的窘迫](https://www.v2ex.com/t/771757) ![](assets/new.png)  
 - [2021-04-19-阿里内网无法访问-v-站吗？](https://www.v2ex.com/t/771756) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-19-深圳公司招聘区块链产品经理](https://www.v2ex.com/t/771732) ![](assets/new.png)  
 - [2021-04-19-不是很懂为什么这个-WebSocket-事件赋值的时候，可以忽略第一个参数？](https://www.v2ex.com/t/771730) ![](assets/new.png)  
 - [2021-04-19-杭州-to-西安，请问社保公积金这些要怎么处理？](https://www.v2ex.com/t/771729) ![](assets/new.png)  
-- [2021-04-19-非科班想转客户端开发，下半年秋招，目前实习-0-Offer，还有可能转吗，应如何准备](https://www.v2ex.com/t/771726) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1062,8 +1062,8 @@
 - [2021-04-19-聊聊-Raft-协议](https://toutiao.io/k/zb7loam) ![](assets/new.png)  
 - [2021-04-19-MySQL-提升笔记（二）：存储引擎盘点](https://toutiao.io/k/m3yyxtk) ![](assets/new.png)  
 - [2021-04-19-好代码实践：基于-Redis-的轻量级分布式均衡消费队列](https://toutiao.io/k/mg4sote) ![](assets/new.png)  
-- [2021-04-19-美团酒旅数据治理实践](https://toutiao.io/k/6cg7b61) ![](assets/new.png)  
 - [2021-04-19-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-04-19-美团酒旅数据治理实践](https://toutiao.io/k/6cg7b61) ![](assets/new.png)  
 - [2021-04-19-应用上线前的-“体检”，你知道需要检测哪些指标吗？](https://toutiao.io/k/x22a5rk) ![](assets/new.png)  
 - [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) ![](assets/new.png)  
 - [2021-04-19-译-Docker-和-Kubernetes：root-与特权](https://toutiao.io/k/9vf6w11) ![](assets/new.png)  

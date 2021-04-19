@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 22:53:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 23:03:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,6 +44,7 @@
 - [2021-04-19-V-友们，重头开始学网络安全方向的话推荐学什么语言](https://www.v2ex.com/t/771748) 
 - [2021-04-19-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 
 - [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) 
+- [2021-04-19-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-19-第四届红帽杯网络安全大赛正式启动!](https://sec.thief.one/article_content?a_id=5227c9dc6a168bbcbfe88ed129223696) 
 - [2021-04-19-CSO说安全-|-黄乐:对企业安全运营的思考](https://sec.thief.one/article_content?a_id=e7ab530c2036231c5335bb3f81b3d543) 
 - [2021-04-19-每日安全动态推送04-19](https://sec.thief.one/article_content?a_id=a04b0c104c11be06d62995cce0509e28) 

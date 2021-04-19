@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 08:39:42，:rocket: 更新条数: +4246， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 08:52:36，:rocket: 更新条数: +4247， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-19-求助怎样修复-MacBook-Air-Big-Sur-系统的文件预览功能？](https://www.v2ex.com/t/771703) ![](assets/new.png)  
+- [2021-04-19-HHKB-关于-Mac/Win-模式切换的迷之快捷键](https://www.v2ex.com/t/771702) ![](assets/new.png)  
+- [2021-04-19-华强北已经推出了-mbp-升级内存、硬盘的服务，有朋友体验过吗？](https://www.v2ex.com/t/771701) ![](assets/new.png)  
 - [2021-04-19-做存储，除了-ovh-和-hetzner，还有哪里比较便宜又知名的主机商？](https://www.v2ex.com/t/771700) ![](assets/new.png)  
 - [2021-04-19-一般“急招”是坑的可能性有多大？](https://www.v2ex.com/t/771699) ![](assets/new.png)  
 - [2021-04-19-明略科技集团华南交付中心招聘-React-前端开发（2-8-年）统本及以上，地点广州，薪资-10-20k-急招](https://www.v2ex.com/t/771697) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-19-使用-uint64-作为-map-的-key,-有哪些优化技巧?](https://www.v2ex.com/t/771681) ![](assets/new.png)  
 - [2021-04-19-有关-Github-Pages-托管自己博客的原理？](https://www.v2ex.com/t/771680) ![](assets/new.png)  
 - [2021-04-19-面试中遇到过什么干货](https://www.v2ex.com/t/771679) ![](assets/new.png)  
-- [2021-04-19-大佬推荐下合适新手的-ios-编程的书.](https://www.v2ex.com/t/771677) ![](assets/new.png)  
-- [2021-04-19-吐槽一下-Bose-QC35-II-的设备连接提示](https://www.v2ex.com/t/771676) ![](assets/new.png)  
-- [2021-04-19-想把家里的电信宽带换成固定-ip，请问有什么办法？](https://www.v2ex.com/t/771674) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-19 15:53:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 16:05:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-19-关于鲜牛奶的疑问](https://www.v2ex.com/t/771773) 
+- [2021-04-19-mac-在传输文件的时候会不会自动休眠](https://www.v2ex.com/t/771772) 
 - [2021-04-19-mac-App-在实机-macOS-10.15-运行正常，在虚拟机系统因为签名崩溃，如何解决？](https://www.v2ex.com/t/771771) 
 - [2021-04-19-你还在手动敲命令来管理-kafka-吗？试试我写的这款-kafka-面板吧，个人觉得还是蛮好用的。](https://www.v2ex.com/t/771770) 
 - [2021-04-19-喵语翻译](https://www.v2ex.com/t/771769) 
@@ -36,5 +38,3 @@
 - [2021-04-19-非科班想转客户端开发，下半年秋招，目前实习-0-Offer，还有可能转吗，应如何准备](https://www.v2ex.com/t/771726) 
 - [2021-04-19-kong-网关-request-transform-插件正则配置](https://www.v2ex.com/t/771725) 
 - [2021-04-19-员工出席统计系统-Mysql-建表求助](https://www.v2ex.com/t/771724) 
-- [2021-04-19-redis-集群-ip-重定向问题](https://www.v2ex.com/t/771723) 
-- [2021-04-19-深圳公司招聘](https://www.v2ex.com/t/771722) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 15:53:32，:rocket: 更新条数: +4242， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 16:05:11，:rocket: 更新条数: +4242， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-19-关于鲜牛奶的疑问](https://www.v2ex.com/t/771773) ![](assets/new.png)  
+- [2021-04-19-mac-在传输文件的时候会不会自动休眠](https://www.v2ex.com/t/771772) ![](assets/new.png)  
 - [2021-04-19-mac-App-在实机-macOS-10.15-运行正常，在虚拟机系统因为签名崩溃，如何解决？](https://www.v2ex.com/t/771771) ![](assets/new.png)  
 - [2021-04-19-你还在手动敲命令来管理-kafka-吗？试试我写的这款-kafka-面板吧，个人觉得还是蛮好用的。](https://www.v2ex.com/t/771770) ![](assets/new.png)  
 - [2021-04-19-喵语翻译](https://www.v2ex.com/t/771769) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-19-GitHub-个人主页出现了徽章](https://www.v2ex.com/t/771749) ![](assets/new.png)  
 - [2021-04-19-V-友们，重头开始学网络安全方向的话推荐学什么语言](https://www.v2ex.com/t/771748) ![](assets/new.png)  
 - [2021-04-19-联通卡的-v6-访问不了自己的-v6-地址-ddns，网站测试正常](https://www.v2ex.com/t/771747) ![](assets/new.png)  
-- [2021-04-19-新浪微博内推-新浪集团数据库研发工程师-有意者请联系-litao@staff.sina.com.cn-。-公司：新浪集团-base：北京中关村软件园](https://www.v2ex.com/t/771746) ![](assets/new.png)  
-- [2021-04-19-新浪微博内推-分布式存储研发（C++方向）](https://www.v2ex.com/t/771744) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

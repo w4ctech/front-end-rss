@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 08:03:19，:rocket: 更新条数: +4251， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 08:24:22，:rocket: 更新条数: +4250， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -839,6 +839,11 @@
 </summary>
 
 
+- [2021-04-19-PDF先驱、Adobe联合创始人去世：“误入”计算机行业的文科生](https://www.ershicimi.com/p/93608badedd986c1bbc712c2d935021c) ![](assets/new.png)  
+- [2021-04-19-中原银行分布式缓存实践](https://www.ershicimi.com/p/40bb39493b040f7e21e1a890ca14dcfa) ![](assets/new.png)  
+- [2021-04-19-为什么大厂独爱这款数据库？-｜-极客时间](https://www.ershicimi.com/p/b12da352b7ab1a6ae27d1b863cb21e6c) ![](assets/new.png)  
+- [2021-04-19-数字化转型“九死一生”，为什么非转不可？-｜-极客时间](https://www.ershicimi.com/p/7f520b36f2240b59a468dcfa52beb8e2) ![](assets/new.png)  
+- [2021-04-19-巨鲸内部：亚马逊工程师眼中的亚马逊](https://www.ershicimi.com/p/acb8fe4e84b8c9996a000f40f5ba8b01) ![](assets/new.png)  
 - [2021-04-18-为什么-Java-后端开发没有大规模采用-Kotlin？](https://www.ershicimi.com/p/073c9d0cb91e0c9920aae34ae091f80a) ![](assets/new.png)  
 - [2021-04-18-我见过最糟糕的代码](https://www.ershicimi.com/p/2c2960598c887d447415fceb1bcadb5b) ![](assets/new.png)  
 - [2021-04-18-每秒-10W-次高并发订单业务，你怎么实现？-｜-极客时间](https://www.ershicimi.com/p/200427f469ad1936a2ecaf91f2297a08) ![](assets/new.png)  
@@ -854,11 +859,6 @@
 - [2021-04-16-30-万行代码的平台升级：给跑着的汽车换轮胎](https://www.ershicimi.com/p/287b3a1b801638cb81e0532a0a3bb0ac) ![](assets/new.png)  
 - [2021-04-15-竞业协议“下沉”，普通程序员逃不过的坑](https://www.ershicimi.com/p/eddc858ec0d987e5f843d894c9d12795) ![](assets/new.png)  
 - [2021-04-15-2021年一定要关注的技术趋势和选型建议](https://www.ershicimi.com/p/60ebca0cdf853303d8649b278458f327) ![](assets/new.png)  
-- [2021-04-15-剧透，美团自研API网关服务Shepherd架构解读-｜-ArchSummit](https://www.ershicimi.com/p/0824fefbd3f3c7a7e8a891dc2f723467) ![](assets/new.png)  
-- [2021-04-15-晋升-Leader-后，99%的程序员还不懂怎么面试别人！-｜-极客时间](https://www.ershicimi.com/p/01579f5bdc29ae7be33f267e67f1c29b) ![](assets/new.png)  
-- [2021-04-15-语音编程，软件开发领域的下一个前沿技术？](https://www.ershicimi.com/p/11c5a3a1cb2cd39c648b01e2465f018e) ![](assets/new.png)  
-- [2021-04-14-如何打造一支有超强战斗力的技术团队？-｜-极客时间](https://www.ershicimi.com/p/7f3c54fa30637f200a4a3cd868deeb4c) ![](assets/new.png)  
-- [2021-04-14-不惧流量持续上涨，BIGO-借助-Flink-与-Pulsar-打造实时消息系统](https://www.ershicimi.com/p/f86faf3b0ceaf1cdbb455fb75a154e43) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,11 @@
 </summary>
 
 
+- [2021-04-19-m1-MBP-不要使用命令行重置-NVRAM](https://www.v2ex.com/t/771695) ![](assets/new.png)  
+- [2021-04-19-Gitmind-的有人吗？](https://www.v2ex.com/t/771694) ![](assets/new.png)  
+- [2021-04-19-深圳内推交易所前端-react-ts-相关25-35K](https://www.v2ex.com/t/771692) ![](assets/new.png)  
+- [2021-04-19-ap-求推荐](https://www.v2ex.com/t/771690) ![](assets/new.png)  
+- [2021-04-19-工作之余，你有什么属于自己的爱好？](https://www.v2ex.com/t/771689) ![](assets/new.png)  
 - [2021-04-19-如何在面试中使用心理学策略？](https://www.v2ex.com/t/771688) ![](assets/new.png)  
 - [2021-04-19-一份非常满意的-offer,薪资要高了,已经主动打电话沟通过,薪资给不到,表示薪资可以再谈,还有什么补救的方法吗?](https://www.v2ex.com/t/771687) ![](assets/new.png)  
 - [2021-04-19-更好用的-Python-管道！](https://www.v2ex.com/t/771685) ![](assets/new.png)  
@@ -1011,11 +1016,6 @@
 - [2021-04-19-数据报表统计用什么方案比较好呢](https://www.v2ex.com/t/771673) ![](assets/new.png)  
 - [2021-04-19-Go-获取结构体未导出（私有）变量](https://www.v2ex.com/t/771672) ![](assets/new.png)  
 - [2021-04-19-单节点项目有必要上-Docker-Swarm-吗？](https://www.v2ex.com/t/771671) ![](assets/new.png)  
-- [2021-04-19-求一个-switch-科学上网的解决方法。](https://www.v2ex.com/t/771670) ![](assets/new.png)  
-- [2021-04-19-公司强制安装-全民反诈-app-了](https://www.v2ex.com/t/771669) ![](assets/new.png)  
-- [2021-04-19-rsync-可不可以多进程同步同一个文件夹？](https://www.v2ex.com/t/771668) ![](assets/new.png)  
-- [2021-04-19-求租车位-杭州市区求租个车位](https://www.v2ex.com/t/771667) ![](assets/new.png)  
-- [2021-04-19-有什么篮球群可以参加吗？另外国产球鞋求推荐](https://www.v2ex.com/t/771666) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

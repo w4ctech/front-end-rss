@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-04-19 08:03:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 08:24:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-04-19-PDF先驱、Adobe联合创始人去世：“误入”计算机行业的文科生](https://www.ershicimi.com/p/93608badedd986c1bbc712c2d935021c) 
+- [2021-04-19-中原银行分布式缓存实践](https://www.ershicimi.com/p/40bb39493b040f7e21e1a890ca14dcfa) 
+- [2021-04-19-为什么大厂独爱这款数据库？-｜-极客时间](https://www.ershicimi.com/p/b12da352b7ab1a6ae27d1b863cb21e6c) 
+- [2021-04-19-数字化转型“九死一生”，为什么非转不可？-｜-极客时间](https://www.ershicimi.com/p/7f520b36f2240b59a468dcfa52beb8e2) 
+- [2021-04-19-巨鲸内部：亚马逊工程师眼中的亚马逊](https://www.ershicimi.com/p/acb8fe4e84b8c9996a000f40f5ba8b01) 
 - [2021-04-18-为什么-Java-后端开发没有大规模采用-Kotlin？](https://www.ershicimi.com/p/073c9d0cb91e0c9920aae34ae091f80a) 
 - [2021-04-18-我见过最糟糕的代码](https://www.ershicimi.com/p/2c2960598c887d447415fceb1bcadb5b) 
 - [2021-04-18-每秒-10W-次高并发订单业务，你怎么实现？-｜-极客时间](https://www.ershicimi.com/p/200427f469ad1936a2ecaf91f2297a08) 
@@ -20,8 +25,3 @@
 - [2021-04-16-30-万行代码的平台升级：给跑着的汽车换轮胎](https://www.ershicimi.com/p/287b3a1b801638cb81e0532a0a3bb0ac) 
 - [2021-04-15-竞业协议“下沉”，普通程序员逃不过的坑](https://www.ershicimi.com/p/eddc858ec0d987e5f843d894c9d12795) 
 - [2021-04-15-2021年一定要关注的技术趋势和选型建议](https://www.ershicimi.com/p/60ebca0cdf853303d8649b278458f327) 
-- [2021-04-15-剧透，美团自研API网关服务Shepherd架构解读-｜-ArchSummit](https://www.ershicimi.com/p/0824fefbd3f3c7a7e8a891dc2f723467) 
-- [2021-04-15-晋升-Leader-后，99%的程序员还不懂怎么面试别人！-｜-极客时间](https://www.ershicimi.com/p/01579f5bdc29ae7be33f267e67f1c29b) 
-- [2021-04-15-语音编程，软件开发领域的下一个前沿技术？](https://www.ershicimi.com/p/11c5a3a1cb2cd39c648b01e2465f018e) 
-- [2021-04-14-如何打造一支有超强战斗力的技术团队？-｜-极客时间](https://www.ershicimi.com/p/7f3c54fa30637f200a4a3cd868deeb4c) 
-- [2021-04-14-不惧流量持续上涨，BIGO-借助-Flink-与-Pulsar-打造实时消息系统](https://www.ershicimi.com/p/f86faf3b0ceaf1cdbb455fb75a154e43) 

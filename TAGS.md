@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-19 07:06:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 07:24:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -392,7 +392,6 @@
 - [【前端早读课】【第2249期】美团民宿性能优化实践](https://www.ershicimi.com/p/050c3b96cb505971bf5d55d4944c6d44)
 - [【程序员成长指北】送书+红包-阿里云专家基于5年一线大厂Web性能优化经验分享书籍](https://www.ershicimi.com/p/7e5d025b87d90b68e57fae7c71dbacbd)
 - [【奇舞周刊】2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152)
-- [【V2EX】为-PHP-提供一些要求性能比较高的-FFI-库这种有意义吗？](https://www.v2ex.com/t/771618)
 - [【物联网智库】大人，时代变了！英伟达推出ARM架构CPU，性能10倍领先](https://www.ershicimi.com/p/874901238abc4822eb2940f07fdc57a8)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -468,6 +467,7 @@
 
 
 
+- [【V2EX】单节点项目有必要上-Docker-Swarm-吗？](https://www.v2ex.com/t/771671)
 - [【开发者头条】译-Docker-和-Kubernetes：root-与特权](https://toutiao.io/k/9vf6w11)
 - [【开发者头条】推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1)
 - [【开发者头条】推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w)
@@ -495,8 +495,6 @@
 - [【JavaScript】Git-for-Windows-2.31.1-发布](https://www.ershicimi.com/p/7717c10235a062fa587e74b38e727252)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
-- [【开发者头条】推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y)
 - [【开发者头条】推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb)
 - [【安全热点】【漏洞通告】Gitlab多个高危漏洞](https://sec.thief.one/article_content?a_id=806eeee256d4b6d632dd24672eaf0e23)
 - [......【查看更多】......](./details/tags/git-svn.md)

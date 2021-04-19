@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 09:52:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 10:03:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -7,6 +7,7 @@
 
 - [2021-04-19-4月18日全国新增新冠11例-均由境外输入](https://m.caixin.com/m/2021-04-19/101692933.html) 
 - [2021-04-19-变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html) 
+- [2021-04-19-【境内疫情观察】全国新增11例境外输入病例（4月18日）](http://m.database.caixin.com/m/2021-04-19/101693254.html) 
 - [2021-04-19-印度单日新增逾26万病例-世卫称全球感染率接近历史高峰｜大流行手记（4月18日）](https://m.caixin.com/m/2021-04-19/101692924.html) 
 - [2021-04-18-最新海外疫情：新冠感染超1.4亿-累计死亡超300万](https://m.caixin.com/m/2021-04-18/101692885.html) 
 - [2021-04-18-【境内疫情观察】全国新增16例境外输入病例（4月17日）](http://m.database.caixin.com/m/2021-04-18/101692852.html) 
@@ -3449,13 +3450,14 @@
 - [2021-04-19-Netty-源码解析：PoolChunk-实现原理](https://toutiao.io/k/uszctvb) 
 - [2021-04-19-聊聊如何对-Eureka-管理界面进行定制化改造](https://toutiao.io/k/auet6ql) 
 - [2021-04-19-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
-- [2021-04-19-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
-- [2021-04-19-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
-- [2021-04-19-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
-- [2021-04-19-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
-- [2021-04-19-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
+- [2021-04-19-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
 - [2021-04-19-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
-- [2021-04-19-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
+- [2021-04-19-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
+- [2021-04-19-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
+- [2021-04-19-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) 
+- [2021-04-19-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
+- [2021-04-19-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
+- [2021-04-19-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
 - [2021-04-19-【漏洞分析】PCMan-FTP-Server缓冲区溢出CVE-2013-4730漏洞分析](https://sec.thief.one/article_content?a_id=37eed58ae8fc67caf1a01303ec1e2526) 
 - [2021-04-19-Linux手工入侵排查思路](https://sec.thief.one/article_content?a_id=fbf1b5bd17658997d27356d8b587dec3) 
 - [2021-04-19-男子用技术手段恢复女方微信记录并散布-涉侵犯隐私被拘6日](https://sec.thief.one/article_content?a_id=cf88a810632d5368e4f0c38da70165ff) 

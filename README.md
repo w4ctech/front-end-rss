@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 10:51:47，:rocket: 更新条数: +4249， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 11:03:11，:rocket: 更新条数: +4246， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -808,6 +808,12 @@
 </summary>
 
 
+- [2021-04-19-张一鸣：年轻人一定要懂得延迟满足](https://www.ershicimi.com/p/631875b30a78dde15c91f99d1e597f59) ![](assets/new.png)  
+- [2021-04-19-一个注解搞定-Spring-Boot-日志！还有谁不会？](https://www.ershicimi.com/p/4443b2b62cf48cc729da4e78c418388e) ![](assets/new.png)  
+- [2021-04-19-某程序员的薪水变化数据](https://www.ershicimi.com/p/9948676ce5584e006d0c52be2fc7f6e1) ![](assets/new.png)  
+- [2021-04-18-拆解1968年的美国军用电脑，真的怀疑是“穿越”啊！](https://www.ershicimi.com/p/82755712109cebb009cdd10bbd5fce96) ![](assets/new.png)  
+- [2021-04-18-面试过程中，竟然遇到PUA，我不得不服这种“潜规则”～](https://www.ershicimi.com/p/3d61488bb0d160821d4ec6bc1361ebb6) ![](assets/new.png)  
+- [2021-04-18-Java-正则表达式处理复杂文本，效率就是高！](https://www.ershicimi.com/p/3c527ff137987abc0f73a6da1e96cc97) ![](assets/new.png)  
 - [2021-04-17-我做了10年架构，离职后才明白：决定你工资上限的是这件事！](https://www.ershicimi.com/p/52f21dbe0f9f2164145ac0e586a71490) ![](assets/new.png)  
 - [2021-04-17-知乎高赞：为什么许多原本的-Java-项目都试图用-go-进行重写开源？](https://www.ershicimi.com/p/dd33036899a51dad32e5663d751ef657) ![](assets/new.png)  
 - [2021-04-17-京东笔试题：如何实现-MySQL-删除重复记录并且只保留一条？](https://www.ershicimi.com/p/2a8af1550c1b975fcdc25e7ccd697a25) ![](assets/new.png)  
@@ -822,12 +828,6 @@
 - [2021-04-14-Spring-Boot-接入支付宝，实战来了！](https://www.ershicimi.com/p/5a98eb3d127f7daf03b36ae22c10989a) ![](assets/new.png)  
 - [2021-04-13-华为员工违规领夜宵被发现后，被罚冻薪降考评，终身不得领夜宵，HR：哪个员工上班健身，定性考勤造](https://www.ershicimi.com/p/c19611f0b8b6a2b32e8965e2451ea68b) ![](assets/new.png)  
 - [2021-04-13-Java-8-中的-CompletableFuture-太好用了！20-个示例全分享…](https://www.ershicimi.com/p/e3da5c3f0f4f6e9d7b95cf7000550f8e) ![](assets/new.png)  
-- [2021-04-13-内连接、外连接、左连接、右连接、等值连接、自然连接和自连接之间的区别，看这篇就够了！](https://www.ershicimi.com/p/91816972a461b106bd626c375892e21b) ![](assets/new.png)  
-- [2021-04-12-王炸！！微软终于对-JDK-下手了…](https://www.ershicimi.com/p/8dfb773f56f8df4ef881abebeb8a106a) ![](assets/new.png)  
-- [2021-04-12-一文全面解析-Postman-工具](https://www.ershicimi.com/p/c99ef132fe246495128025df622cf65c) ![](assets/new.png)  
-- [2021-04-12-程序员相亲的血泪史，千万别做这些事情！](https://www.ershicimi.com/p/2792482455407fc4cc0d329f66875ac3) ![](assets/new.png)  
-- [2021-04-11-我，37岁程序员，依然可以“横行职场”](https://www.ershicimi.com/p/33f5a3cf4330c36eeb270b7de6c75803) ![](assets/new.png)  
-- [2021-04-11-疫苗接种率低？不用怕，互联网公司给出解决之道](https://www.ershicimi.com/p/7b020836cfbe53582d14b83ca75d7714) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -999,16 +999,13 @@
 - [2021-04-19-上海-华尔街见闻-招聘-golang-开发](https://www.v2ex.com/t/771736) ![](assets/new.png)  
 - [2021-04-19-请问下神仙们，如何根据-AS-号获取-cidr，然后精简-cidr](https://www.v2ex.com/t/771734) ![](assets/new.png)  
 - [2021-04-19-深圳公司招聘区块链产品经理](https://www.v2ex.com/t/771732) ![](assets/new.png)  
-- [2021-04-19-蛊真人修行体系感觉好烂](https://www.v2ex.com/t/771731) ![](assets/new.png)  
 - [2021-04-19-不是很懂为什么这个-WebSocket-事件赋值的时候，可以忽略第一个参数？](https://www.v2ex.com/t/771730) ![](assets/new.png)  
 - [2021-04-19-杭州-to-西安，请问社保公积金这些要怎么处理？](https://www.v2ex.com/t/771729) ![](assets/new.png)  
-- [2021-04-19-放在海外的论坛最终归属是不是都是背墙？只要人气一上来，这就是不可避免的归属了，纯技术的讨论也不行，只要是讨论都不行](https://www.v2ex.com/t/771728) ![](assets/new.png)  
 - [2021-04-19-非科班想转客户端开发，下半年秋招，目前实习-0-Offer，还有可能转吗，应如何准备](https://www.v2ex.com/t/771726) ![](assets/new.png)  
 - [2021-04-19-kong-网关-request-transform-插件正则配置](https://www.v2ex.com/t/771725) ![](assets/new.png)  
 - [2021-04-19-员工出席统计系统-Mysql-建表求助](https://www.v2ex.com/t/771724) ![](assets/new.png)  
 - [2021-04-19-redis-集群-ip-重定向问题](https://www.v2ex.com/t/771723) ![](assets/new.png)  
 - [2021-04-19-深圳公司招聘](https://www.v2ex.com/t/771722) ![](assets/new.png)  
-- [2021-04-19-v2-站点-dns-被投毒了？](https://www.v2ex.com/t/771720) ![](assets/new.png)  
 - [2021-04-19-有老哥知道上海哪里有租相机的吗](https://www.v2ex.com/t/771719) ![](assets/new.png)  
 - [2021-04-19-显示器在滚动页面时方框边缘会变色是怎么回事？](https://www.v2ex.com/t/771718) ![](assets/new.png)  
 - [2021-04-19-手机的支付密码只有-6-位，有可能被破解吗？](https://www.v2ex.com/t/771717) ![](assets/new.png)  
@@ -1016,6 +1013,9 @@
 - [2021-04-19-Service-Mesh-生产落地情况调查](https://www.v2ex.com/t/771715) ![](assets/new.png)  
 - [2021-04-19-epidata-导出-dbf-文件后-变量值标签都没有了-是怎么回事?](https://www.v2ex.com/t/771714) ![](assets/new.png)  
 - [2021-04-19-局域网下不同网段的两台设备无法通过-UDP-通讯](https://www.v2ex.com/t/771713) ![](assets/new.png)  
+- [2021-04-19-为什么面试不能-Google](https://www.v2ex.com/t/771712) ![](assets/new.png)  
+- [2021-04-19-北京移动哪里有便宜的流量？](https://www.v2ex.com/t/771711) ![](assets/new.png)  
+- [2021-04-19-感觉火车票这两年越来越难抢了？](https://www.v2ex.com/t/771710) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

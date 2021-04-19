@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-19 09:24:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 09:38:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -467,7 +467,6 @@
 
 
 
-- [【V2EX】单节点项目有必要上-Docker-Swarm-吗？](https://www.v2ex.com/t/771671)
 - [【开发者头条】译-Docker-和-Kubernetes：root-与特权](https://toutiao.io/k/9vf6w11)
 - [【开发者头条】推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1)
 - [【开发者头条】推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w)
@@ -496,7 +495,6 @@
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】Gitmind-的有人吗？](https://www.v2ex.com/t/771694)
 - [【V2EX】有关-Github-Pages-托管自己博客的原理？](https://www.v2ex.com/t/771680)
-- [【开发者头条】推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y)
 - [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
 - [【安全热点】【漏洞通告】Gitlab多个高危漏洞](https://sec.thief.one/article_content?a_id=806eeee256d4b6d632dd24672eaf0e23)
 - [......【查看更多】......](./details/tags/git-svn.md)

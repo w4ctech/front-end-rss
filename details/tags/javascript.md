@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 06:41:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 06:54:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -84,6 +84,7 @@
 - [2021-04-09-奇舞周刊第-392-期：用-65-行代码实现-JavaScript-动画序列播放](https://www.ershicimi.com/p/013dd0533617f7cce4ff4a46483d0fb1) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-04-19-杭州-15-30K-微策略---前端（javascript）&后端（C++-/-Java-）研发工程师---好福利+好技术培训和管理](https://www.v2ex.com/t/771660) 
 - [2021-04-19-前端常用的-css-和-js-引入文件，国内有什么稳定的-cdn-吗？](https://www.v2ex.com/t/771642) 
 - [2021-04-19-各位大神，请教一个正则表达式的写法](https://www.v2ex.com/t/771641) 
 - [2021-04-19-雅虎面试题：数组中最大的差值](https://www.v2ex.com/t/771623) 

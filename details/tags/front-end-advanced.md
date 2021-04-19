@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 04:41:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 04:54:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -8,6 +8,8 @@
 
 
 - [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) 
+- [2021-04-13-从梦幻西游学会广度优先搜索和A*算法](https://www.ershicimi.com/p/b34641353de96544191162c490a58ff2) 
+- [2021-03-31-面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219) 
 - [2021-04-19-Tele-酱：基于-Telegram-和-Vercel-的开源-Server-酱实现-https://github.com/easychen/telechan](https://www.v2ex.com/t/771602) 
 - [2021-04-19-有没有人用-bash-language-server，-我想问问这么开它的-log，或者它的默认-log-是写到哪里了？-https://github.com/bash-lsp/bash-language-server](https://www.v2ex.com/t/771600) 
 - [2021-04-19-十六年全栈开发者的-Android-开发踩坑实录-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLiRIV5XAvToTpLTLRSkxdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

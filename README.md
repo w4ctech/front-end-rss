@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 01:55:58，:rocket: 更新条数: +4223， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 02:12:30，:rocket: 更新条数: +4229， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,10 @@
 </summary>
 
 
+- [2021-04-19-2021-年了-有什么推荐的-安卓-平台无线蓝牙耳机吗](https://www.v2ex.com/t/771567) ![](assets/new.png)  
+- [2021-04-19-问问大家，新购领势-MX4200-适合做主路由还是老的-AC68U-做主路由并且领势桥接模式呢](https://www.v2ex.com/t/771566) ![](assets/new.png)  
+- [2021-04-19-开通精品网后，网速只有-250-了。。。](https://www.v2ex.com/t/771564) ![](assets/new.png)  
+- [2021-04-19-自己在家挖矿几天结果收益被盗了，说说我的经历](https://www.v2ex.com/t/771563) ![](assets/new.png)  
 - [2021-04-19-「信达」让微信作为控制台](https://www.v2ex.com/t/771560) ![](assets/new.png)  
 - [2021-04-19-问问大家关于-k8s-的-deployment-创建过程](https://www.v2ex.com/t/771559) ![](assets/new.png)  
 - [2021-04-19-请教一个后端开发问题，可能是多线程相关。](https://www.v2ex.com/t/771558) ![](assets/new.png)  
@@ -1012,10 +1016,6 @@
 - [2021-04-18-有关前端-Vue-项目中引用-animate.css-但是构建时无法压缩的问题](https://www.v2ex.com/t/771535) ![](assets/new.png)  
 - [2021-04-18-北京或周边，不能太远，什么好玩的地方](https://www.v2ex.com/t/771534) ![](assets/new.png)  
 - [2021-04-18-HTTP-多线程下载同一个文件，是从不同的客户端口发出的请求吗？](https://www.v2ex.com/t/771533) ![](assets/new.png)  
-- [2021-04-18-问：如果昨天是明天的话就好了，那么今天就是周日了。那么话中的的今天原本是多少？](https://www.v2ex.com/t/771531) ![](assets/new.png)  
-- [2021-04-18-数据库存储在物理上是否连续，如果不连续那么如何保证读取速度？](https://www.v2ex.com/t/771530) ![](assets/new.png)  
-- [2021-04-18-Python-web-终极-CRUD-方案或许是-alpha-版本，征求一些反馈](https://www.v2ex.com/t/771529) ![](assets/new.png)  
-- [2021-04-18-你能容忍线上笔试应聘者搜索答案吗？](https://www.v2ex.com/t/771527) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,24 +1060,24 @@
 
 - [2021-04-19-看过这篇剖析，你还不懂-Go-sync.Map-吗？](https://toutiao.io/k/x1rnpcx) ![](assets/new.png)  
 - [2021-04-19-聊聊-Raft-协议](https://toutiao.io/k/zb7loam) ![](assets/new.png)  
-- [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) ![](assets/new.png)  
 - [2021-04-19-美团酒旅数据治理实践](https://toutiao.io/k/6cg7b61) ![](assets/new.png)  
+- [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) ![](assets/new.png)  
 - [2021-04-19-MySQL-提升笔记（二）：存储引擎盘点](https://toutiao.io/k/m3yyxtk) ![](assets/new.png)  
 - [2021-04-19-好代码实践：基于-Redis-的轻量级分布式均衡消费队列](https://toutiao.io/k/mg4sote) ![](assets/new.png)  
 - [2021-04-19-译-Docker-和-Kubernetes：root-与特权](https://toutiao.io/k/9vf6w11) ![](assets/new.png)  
 - [2021-04-19-loader-知识分享](https://toutiao.io/k/jvvd1az) ![](assets/new.png)  
 - [2021-04-19-应用上线前的-“体检”，你知道需要检测哪些指标吗？](https://toutiao.io/k/x22a5rk) ![](assets/new.png)  
 - [2021-04-19-Mac-之-iTerm2-+-Oh-My-Zsh-终端安装教程](https://toutiao.io/k/e15kw8v) ![](assets/new.png)  
-- [2021-04-19-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
-- [2021-04-19-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-19-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
-- [2021-04-19-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-19-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-19-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-19-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
+- [2021-04-19-RxJS-非权威指南](https://toutiao.io/k/pd3ai83) ![](assets/new.png)  
+- [2021-04-19-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-04-19-AK-47-所向披靡，内存泄漏一网打尽](https://toutiao.io/k/sv6uy5y) ![](assets/new.png)  
+- [2021-04-19-Netty-源码解析：PoolChunk-实现原理](https://toutiao.io/k/uszctvb) ![](assets/new.png)  
+- [2021-04-19-Java-实现基于朴素贝叶斯的情感词分析](https://toutiao.io/k/h3b1hod) ![](assets/new.png)  
+- [2021-04-19-Spring-Boot-单元测试技术](https://toutiao.io/k/9dq569b) ![](assets/new.png)  
+- [2021-04-19-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
 - [2021-04-19-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-19-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-19-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-19-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-19-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

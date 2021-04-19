@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-19 17:07:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 17:19:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -466,7 +466,6 @@
 
 - [【开发者头条】译-Docker-和-Kubernetes：root-与特权](https://toutiao.io/k/9vf6w11)
 - [【开发者头条】推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1)
-- [【开发者头条】推荐-基于-OpenResty-长连接推送的演进](https://toutiao.io/k/3etk65w)
 - [【安全热点】植入挖矿的Docker镜像被下载了2000万次](https://sec.thief.one/article_content?a_id=560e5027479e368520d1f4e45dfd5db7)
 - [......【查看更多】......](./details/tags/server.md)
 

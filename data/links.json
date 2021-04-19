@@ -20410,6 +20410,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有兴趣的同学瞅瞅，蚂蚁招人了，真海量 HC~",
+        "link": "https://www.v2ex.com/t/771596",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "入职不到一年，感觉成长太慢该怎么办？",
+        "link": "https://www.v2ex.com/t/771592",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "一代 AirPods 换完电池一个月了，来谈谈体验",
+        "link": "https://www.v2ex.com/t/771591",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "没有达到实习合同上对实习时长的要求，可以提前离职吗？",
+        "link": "https://www.v2ex.com/t/771590",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "刚入门，翻译了几篇 Golang 和 Rust 相关的文章对比一下～",
+        "link": "https://www.v2ex.com/t/771587",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "有兴趣的同学瞅瞅蚂蚁，前端招人了~",
+        "link": "https://www.v2ex.com/t/771586",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "docker name in use 但是我找不到，有人遇到过吗？",
+        "link": "https://www.v2ex.com/t/771585",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "没有 root 的安卓机怎么开启 google feed？",
+        "link": "https://www.v2ex.com/t/771584",
+        "date": "2021-04-19"
+      },
+      {
         "title": "记一次 github 泄漏 accessKey",
         "link": "https://www.v2ex.com/t/771582",
         "date": "2021-04-19"
@@ -20518,26 +20558,6 @@
         "title": "如何发送伪造源 IP 的数据包？",
         "link": "https://www.v2ex.com/t/771548",
         "date": "2021-04-19"
-      },
-      {
-        "title": "如何在控制中心添加个人 APP 的快速启动开关？",
-        "link": "https://www.v2ex.com/t/771539",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "求助： redhat7.8 在虚拟机和物理机上安装有什么不同？",
-        "link": "https://www.v2ex.com/t/771538",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "有关前端 Vue 项目中引用 animate.css 但是构建时无法压缩的问题",
-        "link": "https://www.v2ex.com/t/771535",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "北京或周边，不能太远，什么好玩的地方",
-        "link": "https://www.v2ex.com/t/771534",
-        "date": "2021-04-18"
       }
     ]
   },
@@ -20684,6 +20704,11 @@
         "date": "2021-04-19"
       },
       {
+        "title": "应用上线前的 “体检”，你知道需要检测哪些指标吗？",
+        "link": "https://toutiao.io/k/x22a5rk",
+        "date": "2021-04-19"
+      },
+      {
         "title": "[译] Docker 和 Kubernetes：root 与特权",
         "link": "https://toutiao.io/k/9vf6w11",
         "date": "2021-04-19"
@@ -20691,11 +20716,6 @@
       {
         "title": "loader 知识分享",
         "link": "https://toutiao.io/k/jvvd1az",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "应用上线前的 “体检”，你知道需要检测哪些指标吗？",
-        "link": "https://toutiao.io/k/x22a5rk",
         "date": "2021-04-19"
       },
       {
@@ -20719,13 +20739,13 @@
         "date": "2021-04-19"
       },
       {
-        "title": "Spring Boot 单元测试技术",
-        "link": "https://toutiao.io/k/9dq569b",
+        "title": "Java 实现基于朴素贝叶斯的情感词分析",
+        "link": "https://toutiao.io/k/h3b1hod",
         "date": "2021-04-19"
       },
       {
-        "title": "Java 实现基于朴素贝叶斯的情感词分析",
-        "link": "https://toutiao.io/k/h3b1hod",
+        "title": "Spring Boot 单元测试技术",
+        "link": "https://toutiao.io/k/9dq569b",
         "date": "2021-04-19"
       },
       {
@@ -20734,18 +20754,43 @@
         "date": "2021-04-19"
       },
       {
+        "title": "使用 Spring Boot + MyBatis + FreeMarker + Ehcache 进行 Web 开发",
+        "link": "https://toutiao.io/k/ljhlfso",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "聊聊如何对 Eureka 管理界面进行定制化改造",
+        "link": "https://toutiao.io/k/auet6ql",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "Apache Hudi + CDC 管道构建实时数据湖",
+        "link": "https://toutiao.io/k/b4b0n99",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-19"
+      },
+      {
         "title": "[推荐] 教你从头写游戏服务器框架",
         "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
-        "link": "https://toutiao.io/k/oa4amzb",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
         "date": "2021-04-19"
       },
       {
@@ -20759,33 +20804,13 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 基于 OpenResty 长连接推送的演进",
-        "link": "https://toutiao.io/k/3etk65w",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
+        "title": "[推荐] 使用 Git 丢失代码的 N 种操作，您中招了吗？",
+        "link": "https://toutiao.io/k/oa4amzb",
         "date": "2021-04-19"
       },
       {
@@ -20794,18 +20819,28 @@
         "date": "2021-04-19"
       },
       {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
         "date": "2021-04-19"
       },
       {
         "title": "[推荐] 架构设计方法论",
         "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-19"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
         "date": "2021-04-19"
       }
     ]

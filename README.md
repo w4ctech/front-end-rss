@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 02:47:21，:rocket: 更新条数: +4229， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 03:09:27，:rocket: 更新条数: +4236， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,14 @@
 </summary>
 
 
+- [2021-04-19-有兴趣的同学瞅瞅，蚂蚁招人了，真海量-HC~](https://www.v2ex.com/t/771596) ![](assets/new.png)  
+- [2021-04-19-入职不到一年，感觉成长太慢该怎么办？](https://www.v2ex.com/t/771592) ![](assets/new.png)  
+- [2021-04-19-一代-AirPods-换完电池一个月了，来谈谈体验](https://www.v2ex.com/t/771591) ![](assets/new.png)  
+- [2021-04-19-没有达到实习合同上对实习时长的要求，可以提前离职吗？](https://www.v2ex.com/t/771590) ![](assets/new.png)  
+- [2021-04-19-刚入门，翻译了几篇-Golang-和-Rust-相关的文章对比一下～](https://www.v2ex.com/t/771587) ![](assets/new.png)  
+- [2021-04-19-有兴趣的同学瞅瞅蚂蚁，前端招人了~](https://www.v2ex.com/t/771586) ![](assets/new.png)  
+- [2021-04-19-docker-name-in-use-但是我找不到，有人遇到过吗？](https://www.v2ex.com/t/771585) ![](assets/new.png)  
+- [2021-04-19-没有-root-的安卓机怎么开启-google-feed？](https://www.v2ex.com/t/771584) ![](assets/new.png)  
 - [2021-04-19-记一次-github-泄漏-accessKey](https://www.v2ex.com/t/771582) ![](assets/new.png)  
 - [2021-04-19-《摸鱼学导论》爆火，清华程序猿：这才是摸鱼的最高境界！](https://www.v2ex.com/t/771577) ![](assets/new.png)  
 - [2021-04-19-阿里味编程语言-pua-lang-正式发布！](https://www.v2ex.com/t/771576) ![](assets/new.png)  
@@ -1008,14 +1016,6 @@
 - [2021-04-19-问问大家，新购领势-MX4200-适合做主路由还是老的-AC68U-做主路由并且领势桥接模式呢](https://www.v2ex.com/t/771566) ![](assets/new.png)  
 - [2021-04-19-开通精品网后，网速只有-250-了。。。](https://www.v2ex.com/t/771564) ![](assets/new.png)  
 - [2021-04-19-自己在家挖矿几天结果收益被盗了，说说我的经历](https://www.v2ex.com/t/771563) ![](assets/new.png)  
-- [2021-04-19-「信达」让微信作为控制台](https://www.v2ex.com/t/771560) ![](assets/new.png)  
-- [2021-04-19-问问大家关于-k8s-的-deployment-创建过程](https://www.v2ex.com/t/771559) ![](assets/new.png)  
-- [2021-04-19-请教一个后端开发问题，可能是多线程相关。](https://www.v2ex.com/t/771558) ![](assets/new.png)  
-- [2021-04-19-Jquery-Datatable-前端分页-Checkbox-跨页全选的问题](https://www.v2ex.com/t/771556) ![](assets/new.png)  
-- [2021-04-19-笔记本风扇异响](https://www.v2ex.com/t/771555) ![](assets/new.png)  
-- [2021-04-19-五一想自驾新安江，有没有去过的说说怎么样？](https://www.v2ex.com/t/771553) ![](assets/new.png)  
-- [2021-04-19-请问怎么把-doc-的网页转成-pdf-方便随时看](https://www.v2ex.com/t/771552) ![](assets/new.png)  
-- [2021-04-19-大家平时都是怎么保护隐私的？](https://www.v2ex.com/t/771550) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,20 +1064,20 @@
 - [2021-04-19-MySQL-提升笔记（二）：存储引擎盘点](https://toutiao.io/k/m3yyxtk) ![](assets/new.png)  
 - [2021-04-19-好代码实践：基于-Redis-的轻量级分布式均衡消费队列](https://toutiao.io/k/mg4sote) ![](assets/new.png)  
 - [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) ![](assets/new.png)  
+- [2021-04-19-应用上线前的-“体检”，你知道需要检测哪些指标吗？](https://toutiao.io/k/x22a5rk) ![](assets/new.png)  
 - [2021-04-19-译-Docker-和-Kubernetes：root-与特权](https://toutiao.io/k/9vf6w11) ![](assets/new.png)  
 - [2021-04-19-loader-知识分享](https://toutiao.io/k/jvvd1az) ![](assets/new.png)  
-- [2021-04-19-应用上线前的-“体检”，你知道需要检测哪些指标吗？](https://toutiao.io/k/x22a5rk) ![](assets/new.png)  
 - [2021-04-19-RxJS-非权威指南](https://toutiao.io/k/pd3ai83) ![](assets/new.png)  
 - [2021-04-19-Mac-之-iTerm2-+-Oh-My-Zsh-终端安装教程](https://toutiao.io/k/e15kw8v) ![](assets/new.png)  
 - [2021-04-19-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [2021-04-19-AK-47-所向披靡，内存泄漏一网打尽](https://toutiao.io/k/sv6uy5y) ![](assets/new.png)  
-- [2021-04-19-Spring-Boot-单元测试技术](https://toutiao.io/k/9dq569b) ![](assets/new.png)  
 - [2021-04-19-Java-实现基于朴素贝叶斯的情感词分析](https://toutiao.io/k/h3b1hod) ![](assets/new.png)  
+- [2021-04-19-Spring-Boot-单元测试技术](https://toutiao.io/k/9dq569b) ![](assets/new.png)  
 - [2021-04-19-Netty-源码解析：PoolChunk-实现原理](https://toutiao.io/k/uszctvb) ![](assets/new.png)  
-- [2021-04-19-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-19-推荐-使用-Git-丢失代码的-N-种操作，您中招了吗？](https://toutiao.io/k/oa4amzb) ![](assets/new.png)  
-- [2021-04-19-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
-- [2021-04-19-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-19-使用-Spring-Boot-+-MyBatis-+-FreeMarker-+-Ehcache-进行-Web-开发](https://toutiao.io/k/ljhlfso) ![](assets/new.png)  
+- [2021-04-19-聊聊如何对-Eureka-管理界面进行定制化改造](https://toutiao.io/k/auet6ql) ![](assets/new.png)  
+- [2021-04-19-Apache-Hudi-+-CDC-管道构建实时数据湖](https://toutiao.io/k/b4b0n99) ![](assets/new.png)  
+- [2021-04-19-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

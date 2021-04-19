@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 16:24:52，:rocket: 更新条数: +723， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-19 16:46:42，:rocket: 更新条数: +4244， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-04-19-最新疫情：全国新冠累计确诊90510例-累计接种新冠疫苗超1.92亿剂次](https://m.caixin.com/m/2021-04-19/101693286.html) ![](assets/new.png)  
+- [2021-04-19-变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html) ![](assets/new.png)  
+- [2021-04-19-最新海外疫情：新冠感染超1.41亿-累计死亡超301万](https://m.caixin.com/m/2021-04-19/101693291.html) ![](assets/new.png)  
+- [2021-04-19-【境内疫情观察】全国新增11例境外输入病例（4月18日）](http://m.database.caixin.com/m/2021-04-19/101693254.html) ![](assets/new.png)  
+- [2021-04-19-印度单日新增逾26万病例-世卫称全球感染率接近历史高峰｜大流行手记（4月18日）](https://m.caixin.com/m/2021-04-19/101692924.html) ![](assets/new.png)  
+- [2021-04-18-【境内疫情观察】全国新增16例境外输入病例（4月17日）](http://m.database.caixin.com/m/2021-04-18/101692852.html) ![](assets/new.png)  
+- [2021-04-18-科兴疫苗智利真实世界保护率达67%-礼来中和抗体紧急授权被收回｜大流行手记（4月17日）](https://m.caixin.com/m/2021-04-18/101692822.html) ![](assets/new.png)  
+- [2021-04-17-【境内疫情观察】云南新增1例本土病例（4月16日）](http://m.database.caixin.com/m/2021-04-17/101692717.html) ![](assets/new.png)  
+- [2021-04-17-辉瑞称接种者或需打第三剂疫苗-以色列取消户外口罩令｜大流行手记（4月16日）](https://m.caixin.com/m/2021-04-17/101692553.html) ![](assets/new.png)  
+- [2021-04-16-印度单日新增确诊首破20万人-全球疫苗供应紧缺｜大流行手记（4月15日）](https://m.caixin.com/m/2021-04-16/101691883.html) ![](assets/new.png)  
+- [2021-04-15-香港放宽新冠疫苗接种年龄限制-明年将采购新一代疫苗](https://m.caixin.com/m/2021-04-15/101691804.html) ![](assets/new.png)  
+- [2021-04-15-【境内疫情观察】全国新增10例境外输入病例（4月14日）](http://m.database.caixin.com/m/2021-04-15/101691588.html) ![](assets/new.png)  
+- [2021-04-14-云南瑞丽4月13日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-14/101690804.html) ![](assets/new.png)  
+- [2021-04-14-【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html) ![](assets/new.png)  
+- [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
+- [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
+- [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
+- [2021-04-13-【境内疫情观察】我国新冠疫苗累计接种超1.67亿剂次（4月12日）](http://m.database.caixin.com/m/2021-04-13/101690476.html) ![](assets/new.png)  
+- [2021-04-13-英国重开商场健身房-澳放弃年底前全民接种目标｜大流行手记（4月12日）](https://m.caixin.com/m/2021-04-13/101690235.html) ![](assets/new.png)  
+- [2021-04-12-香港与内地通关现曙光-5月中旬起内地民众来港免隔离](https://m.caixin.com/m/2021-04-12/101690149.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -976,6 +996,10 @@
 </summary>
 
 
+- [2021-04-19-20210420-午夜俱乐部](https://www.v2ex.com/t/771778) ![](assets/new.png)  
+- [2021-04-19-请教下安卓-TV-大佬,快图浏览在电视上的幻灯片播放按钮不显示,要修改哪里才会显示呢?](https://www.v2ex.com/t/771777) ![](assets/new.png)  
+- [2021-04-19-帮朋友做了个收集群照片的小程序-···场景比较奇怪](https://www.v2ex.com/t/771776) ![](assets/new.png)  
+- [2021-04-19-最近空气质量怎么这么差，呼吸不畅。。](https://www.v2ex.com/t/771775) ![](assets/new.png)  
 - [2021-04-19-virtualbox-安装-win7_32-位的问题](https://www.v2ex.com/t/771774) ![](assets/new.png)  
 - [2021-04-19-关于鲜牛奶的疑问](https://www.v2ex.com/t/771773) ![](assets/new.png)  
 - [2021-04-19-mac-在传输文件的时候会不会自动休眠](https://www.v2ex.com/t/771772) ![](assets/new.png)  
@@ -992,10 +1016,6 @@
 - [2021-04-19-为何不建议你回家帮忙，及我目前的窘迫](https://www.v2ex.com/t/771757) ![](assets/new.png)  
 - [2021-04-19-阿里内网无法访问-v-站吗？](https://www.v2ex.com/t/771756) ![](assets/new.png)  
 - [2021-04-19-一个关于-react-函数组件重新渲染的问题](https://www.v2ex.com/t/771755) ![](assets/new.png)  
-- [2021-04-19-深圳南山旷视科技资深-Android-ROM-工程师](https://www.v2ex.com/t/771753) ![](assets/new.png)  
-- [2021-04-19-如何在-tableView-插入数据后也能滚动到顶部？](https://www.v2ex.com/t/771751) ![](assets/new.png)  
-- [2021-04-19-GitHub-个人主页出现了徽章](https://www.v2ex.com/t/771749) ![](assets/new.png)  
-- [2021-04-19-V-友们，重头开始学网络安全方向的话推荐学什么语言](https://www.v2ex.com/t/771748) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

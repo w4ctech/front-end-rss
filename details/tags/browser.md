@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 22:03:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 22:24:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,7 +8,6 @@
 
 
 - [2021-04-12-浏览器指纹追踪技术了解一下?](https://www.ershicimi.com/p/291be49707ab70d7e9a49ac05b44c2ce) 
-- [2021-04-09-【第2248期】安全背后:-浏览器是如何校验证书的](https://www.ershicimi.com/p/a317d7a755c0441175e56fc615802364) 
 - [2021-04-08-一名合格的前端工程师需要掌握的浏览器渲染笔记](https://www.ershicimi.com/p/b37c42536333398c3047a0473a4bc76b) 
 - [2021-03-30-URL输入后按回车，浏览器内部究竟发生了什么](https://www.ershicimi.com/p/254b54b63be6e9a152b5fd123b894f27) 
 - [2021-03-09-那些与-IE-相伴的日子](https://www.ershicimi.com/p/d9c911d3c0835bf8f9743b70add1478c) 

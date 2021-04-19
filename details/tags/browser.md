@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 00:08:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 00:26:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,6 +42,9 @@
 - [2021-04-12-全世界下载量超-100-亿，curl-怎样成为影响世界的开源项目？](https://www.ershicimi.com/p/f95ec01a19a44e7f8bc459e370f801ca) 
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
 - [2021-04-18-HTTP-多线程下载同一个文件，是从不同的客户端口发出的请求吗？](https://www.v2ex.com/t/771533) 
+- [2021-04-19-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) 
+- [2021-04-19-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
+- [2021-04-18-chrome最新版可用-0day上线cs-&-wx-0day上线](https://sec.thief.one/article_content?a_id=94d5eaf8839a6144401d7440a5653674) 
 - [2021-04-18-独生子女的“安全部”之演习前准备](https://sec.thief.one/article_content?a_id=0d7123d270cf194f77986ba0c673993a) 
 - [2021-04-18-安全运营周刊第三十二期](https://sec.thief.one/article_content?a_id=ef5cb36162e0313ed78f769b48241441) 
 - [2021-04-17-【漏洞通告】Chrome安全问题导致Windows版微信任意代码执行漏洞](https://sec.thief.one/article_content?a_id=055f2de59f5a3ea456ade1acc7262528) 
@@ -64,6 +67,3 @@
 - [2021-04-15-【安全圈】全民国家安全教育日-|-网络安全也是国家安全!](https://sec.thief.one/article_content?a_id=750c95f46a15045fb1c91b3b3cd2d00b) 
 - [2021-04-15-《互联网基础设施与软件安全年度发展研究报告2020》重磅发布](https://sec.thief.one/article_content?a_id=2e9ee06cf0b3a766f6cf760b1b9f02b7) 
 - [2021-04-15-4月深信服蓝军安全研究团队向微软提交并协助修复4个漏洞](https://sec.thief.one/article_content?a_id=e5974bb68b6545133d2fb00a9a4d9c9e) 
-- [2021-04-15-安全日报2021.04.15](https://sec.thief.one/article_content?a_id=2e7bba14a9c4dfa57ab70b4c1c6170ca) 
-- [2021-04-15-这家安全公司帮助FBI“破解”了iPhone](https://sec.thief.one/article_content?a_id=229f0cea00437a3c9c0eee9ded44c8e8) 
-- [2021-04-15-央行《金融数据生命周期安全规范》发布-附全文](https://sec.thief.one/article_content?a_id=0ffba90236079c461cfcf331f524962d) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 16:46:21，:rocket: 更新条数: +4249， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 17:08:17，:rocket: 更新条数: +4249， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -554,6 +554,11 @@
 </summary>
 
 
+- [2021-04-20-955-不加班的公司名单！2021-最新版！](https://www.ershicimi.com/p/0ead4a30f8f331a9b9051cf8654679c8) ![](assets/new.png)  
+- [2021-04-20-粉丝专享，键盘、技术书籍大发送](https://www.ershicimi.com/p/aab895fca5f2037a29030202eda5432c) ![](assets/new.png)  
+- [2021-04-19-Vue面试必问原理及源码，这下有答案了](https://www.ershicimi.com/p/112949a800e2ec9e9695dc3888c1b3cc) ![](assets/new.png)  
+- [2021-04-19-deno-+-Vite-会碰撞出什么样的火花呢？](https://www.ershicimi.com/p/bae48fd97e35cd8f2dcc189aa264f373) ![](assets/new.png)  
+- [2021-04-18-粉丝专享，键盘、技术书籍大发送](https://www.ershicimi.com/p/1ed8fd61511220fe232e225967bfad4f) ![](assets/new.png)  
 - [2021-04-16-一文带你了解如何排查内存泄漏导致的页面卡顿现象](https://www.ershicimi.com/p/4fe53a4bf066a143a1e60895d777da8c) ![](assets/new.png)  
 - [2021-04-15-做了这么久开发，你有没有想过去大厂？（文末有福利）](https://www.ershicimi.com/p/fc5b5942178e8a34b8fb9863d988968f) ![](assets/new.png)  
 - [2021-04-14-怎样写出可读性高的代码？](https://www.ershicimi.com/p/1a47107713fca8d88dcc18cf93153d28) ![](assets/new.png)  
@@ -569,11 +574,6 @@
 - [2021-04-05-4个强大JavaScript运算符](https://www.ershicimi.com/p/baa2ab48b1fb692863fa6c908f059696) ![](assets/new.png)  
 - [2021-04-03-推荐几个前端大佬，真的厉害！](https://www.ershicimi.com/p/dac3913ca40cd8c25c81c54a0c733f64) ![](assets/new.png)  
 - [2021-04-02-关于现代包管理器的深度思考——为什么现在我更推荐-pnpm-而不是-npm/yarn?](https://www.ershicimi.com/p/3364b68d4cea4cdb9559aafcca7fbcdb) ![](assets/new.png)  
-- [2021-04-01-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/3dcd0024554721df0a2e68c7817857da) ![](assets/new.png)  
-- [2021-04-01-你要知道的-Npm-Script-都在这里](https://www.ershicimi.com/p/fbf070b544b3dae9e0fe30d508a34069) ![](assets/new.png)  
-- [2021-03-31-设计稿（UI视图）自动生成代码方案的探索](https://www.ershicimi.com/p/c0e6c8539830e171b1c9db477952a672) ![](assets/new.png)  
-- [2021-03-30-前端工程师，一定要懂哪些浏览器原理？](https://www.ershicimi.com/p/41ef527a1733f53e3f949568bf2bcf2e) ![](assets/new.png)  
-- [2021-03-30-为何程序员总喜欢写技术博客，看完恍然大悟...](https://www.ershicimi.com/p/87fb93db6311911436c552da525d591b) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端宇宙.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

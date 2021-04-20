@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 02:30:13，:rocket: 更新条数: +4241， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 02:46:22，:rocket: 更新条数: +4239， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,13 @@
 </summary>
 
 
+- [2021-04-20-grpc-环境的安装也是一个坑啊](https://www.v2ex.com/t/771842) ![](assets/new.png)  
+- [2021-04-20-氢贝工具箱更新了](https://www.v2ex.com/t/771841) ![](assets/new.png)  
+- [2021-04-20-五一都准备去哪玩呢？工作怎么安排？](https://www.v2ex.com/t/771840) ![](assets/new.png)  
+- [2021-04-20-北京/远程-StreamNative-多岗位招聘内推](https://www.v2ex.com/t/771839) ![](assets/new.png)  
+- [2021-04-20-个人项目有没有方法避免写很多无谓的-api-接口和前后端分离](https://www.v2ex.com/t/771838) ![](assets/new.png)  
+- [2021-04-20-请问这类基于-iframe-的多页签多页面应用管理系统是有框架的吗？是什么框架？](https://www.v2ex.com/t/771837) ![](assets/new.png)  
+- [2021-04-20-应届生想请教下各位前辈一些职业规划的问题](https://www.v2ex.com/t/771836) ![](assets/new.png)  
 - [2021-04-20-翻译-正式宣布-Visual-Studio-2022](https://www.v2ex.com/t/771833) ![](assets/new.png)  
 - [2021-04-20-美区-Apple-ID-日常使用的一些问题](https://www.v2ex.com/t/771832) ![](assets/new.png)  
 - [2021-04-20-真想回到用-iMessage-聊天的时代-微信和-QQ-真的过于冗杂](https://www.v2ex.com/t/771830) ![](assets/new.png)  
@@ -1009,13 +1016,6 @@
 - [2021-04-20-现在好多-APP-打开就弹出升级提示-还要一个个点击暂不升级，真是心累。](https://www.v2ex.com/t/771820) ![](assets/new.png)  
 - [2021-04-20-offer-比较-ebay-vs-小红书](https://www.v2ex.com/t/771819) ![](assets/new.png)  
 - [2021-04-20-苹果今天-9-点的邮件,-里面主题词变了,-原‘踏春而来’现‘一点开眼’,-疑似-Apple-Glasses??](https://www.v2ex.com/t/771817) ![](assets/new.png)  
-- [2021-04-20-济南有什么带劲的公司？双休，-PHP-或-golang-为主？](https://www.v2ex.com/t/771815) ![](assets/new.png)  
-- [2021-04-20-网络编程包---Magician-的原理-与-使用](https://www.v2ex.com/t/771813) ![](assets/new.png)  
-- [2021-04-20-有没有搜索引擎能解决重复度过高的问题](https://www.v2ex.com/t/771812) ![](assets/new.png)  
-- [2021-04-20-纠结-YOGA-14S-锐龙版和-Intel-版-。](https://www.v2ex.com/t/771810) ![](assets/new.png)  
-- [2021-04-20-悬赏-会写抢购软件的进](https://www.v2ex.com/t/771809) ![](assets/new.png)  
-- [2021-04-20-Storyteller:-无代码交互式教程编辑器](https://www.v2ex.com/t/771808) ![](assets/new.png)  
-- [2021-04-20-offer-对比，杭州、北京-Java-后端方向](https://www.v2ex.com/t/771805) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1073,11 +1073,11 @@
 - [2021-04-20-深入-AQS-源码，搞懂核心思想](https://toutiao.io/k/2se9osh) ![](assets/new.png)  
 - [2021-04-20-ElasticSearch-如何使用-TDigest-算法计算亿级数据的百分位数？](https://toutiao.io/k/00svame) ![](assets/new.png)  
 - [2021-04-20-“一学就会”-微服务的架构模式：一个服务一个数据库模式（上）](https://toutiao.io/k/d4tpbr8) ![](assets/new.png)  
-- [2021-04-20-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-20-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-20-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
 - [2021-04-20-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-20-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-20-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-20-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-20-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-20-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

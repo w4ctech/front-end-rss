@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 02:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 02:46:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -30,5 +30,6 @@
 - [2021-04-06-我经常和面试者聊的一个题目](https://www.ershicimi.com/p/a5d52276ba839bc69dcc08a851e8fbca) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-04-18-面试过程中，竟然遇到PUA，我不得不服这种“潜规则”～](https://www.ershicimi.com/p/3d61488bb0d160821d4ec6bc1361ebb6) 
+- [2021-04-20-北京/远程-StreamNative-多岗位招聘内推](https://www.v2ex.com/t/771839) 
 - [2021-04-20-北京-招聘「Golang-后端工程师」Nolibox-智能设计-清北校友初创团队](https://www.v2ex.com/t/771825) 
 - [2021-04-16-【招聘】苏州极光无限信息技术有限公司](https://sec.thief.one/article_content?a_id=e2f51a3b7008367a0633bbcdbc0748bf) 

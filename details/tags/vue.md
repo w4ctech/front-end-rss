@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 20:03:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 20:23:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -45,6 +45,7 @@
 - [2021-04-09-前端面试必问Vue-3源码及实现原理，一次搞定](https://www.ershicimi.com/p/c0fb831ffec9b533c7c2c9986c0f6461) 
 - [2021-04-17-Vue开发移动端项目，这个工具对你一定有帮助](https://www.ershicimi.com/p/3645b0ed438008552b9fccc7ce1300a9) 
 - [2021-04-12-Vue-响应式原理模拟](https://www.ershicimi.com/p/acef7f52cb210729b8871f310c6f619f) 
+- [2021-04-13-Vue3.0-新特性以及使用变更总结实际工作用到的](https://www.ershicimi.com/p/43217f4e30f1e45269b212769bea1bdf) 
 - [2021-04-01-Vuex源码阅读过程分享](https://www.ershicimi.com/p/7e863d7878d95539ccf91ce3f7ca53c7) 
 - [2021-03-30-Vue3.0-新特性以及使用变更总结实际工作用到的](https://www.ershicimi.com/p/5c9840666679ec673ebc58e8934f8456) 
 - [2021-03-08-进大厂必会的Vue，你还没搞懂吗？](https://www.ershicimi.com/p/b9bead3a148b9c6e9ce92a0dd68e8472) 

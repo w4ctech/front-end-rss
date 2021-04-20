@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 20:03:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 20:23:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -36,6 +36,8 @@
 - [2021-04-16-从-setState-聊到-React-性能优化](https://www.ershicimi.com/p/3e4a9ea511c44ce540b3f4b90f518475) 
 - [2021-04-15-Vue-和-React-源码大PK，看这篇就够了](https://www.ershicimi.com/p/191f3f8db94d53656f146486fdaec3aa) 
 - [2021-04-14-代码简洁之道：编写干净的-React-Components-&-JSX](https://www.ershicimi.com/p/3133edde1df3877470a9bbcfa56ebe56) 
+- [2021-04-19-React-性能优化完全指南，将自己这几年的心血总结成这篇！](https://www.ershicimi.com/p/a65d9488f8349e98534dcaaadd9df1f9) 
+- [2021-04-14-面向工资编程，前端核心框架-React-了解下！](https://www.ershicimi.com/p/3de654dfe27297f005212ee80543e9df) 
 - [2021-04-14-Vue-&-React-&-Vite源码大PK](https://www.ershicimi.com/p/46a0e5b9370ea24fa42aa9907203e363) 
 - [2021-04-13-Taro-3.2.0-正式版发布，支持-React-Native](https://www.ershicimi.com/p/2391e2b7c25d80aad78e1382a43d5b11) 
 - [2021-04-02-React17-和-Vue3-，你选谁？](https://www.ershicimi.com/p/2b552a2d60b07ca8c859519fede5f6b8) 

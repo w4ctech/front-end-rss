@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 19:08:16，:rocket: 更新条数: +728， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 19:24:05，:rocket: 更新条数: +728， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -850,6 +850,7 @@
 </summary>
 
 
+- [2021-04-20-pnpm-6.1-发布](https://www.ershicimi.com/p/4224fa6d39c6d08ba200bc9f4282461b) ![](assets/new.png)  
 - [2021-04-19-前端进阶所需要了解的Vue-3源码及原理](https://www.ershicimi.com/p/0b523ed89aeaa7ad97b9581539617ac0) ![](assets/new.png)  
 - [2021-04-18-推荐一位程序媛的公众号](https://www.ershicimi.com/p/9e286921a0645e2f8b840299d159d6ef) ![](assets/new.png)  
 - [2021-04-17-Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29) ![](assets/new.png)  
@@ -869,7 +870,6 @@
 - [2021-04-03-Vue-3-计划放弃支持-IE11](https://www.ershicimi.com/p/84c1b75d51880846b27907becd2c629a) ![](assets/new.png)  
 - [2021-04-02-Visual-Studio-Code-1.55-发布](https://www.ershicimi.com/p/60f661503a08556f36055d40a3f1e6b1) ![](assets/new.png)  
 - [2021-04-01-Vue3-和-React17-，你选谁？](https://www.ershicimi.com/p/5201768cad7e8d137e8170250acd1b4b) ![](assets/new.png)  
-- [2021-03-31-金三银四想要通过跳槽涨薪，先看看这](https://www.ershicimi.com/p/bd5ea225f3cf9c294301a6edc46a13c4) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -976,6 +976,7 @@
 </summary>
 
 
+- [2021-04-20--Apple-2021-春季发布会汇总](https://www.v2ex.com/t/772046) ![](assets/new.png)  
 - [2021-04-20-AirTag-可以搞一个玩玩](https://www.v2ex.com/t/772045) ![](assets/new.png)  
 - [2021-04-20-有什么办法能买到新出的-Apple-TV-4K？](https://www.v2ex.com/t/772044) ![](assets/new.png)  
 - [2021-04-20-芯片为主角的发布会](https://www.v2ex.com/t/772043) ![](assets/new.png)  
@@ -995,7 +996,6 @@
 - [2021-04-20-全球首款消费级-Linux-平板-JingPad-A1-视频已发布](https://www.v2ex.com/t/772023) ![](assets/new.png)  
 - [2021-04-20-谈谈-Java-线程池](https://www.v2ex.com/t/772022) ![](assets/new.png)  
 - [2021-04-20-Jetbrains-合租会怎么样呀？](https://www.v2ex.com/t/772021) ![](assets/new.png)  
-- [2021-04-20-上海/北京/杭州/武汉社招/校招/实习抖音电商四月冲鸭，进面有红包后端开发工程师](https://www.v2ex.com/t/772020) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

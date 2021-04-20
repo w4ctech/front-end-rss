@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 02:46:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 03:01:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -16,5 +16,6 @@
 - [2021-04-16-Node.js-如何创建软连接，与硬链接区别是什么？](https://www.ershicimi.com/p/0387dde19d401c87bd7912f03583d128) 
 - [2021-04-07-如何应用Node.js打造个人提效工作链？](https://www.ershicimi.com/p/567981ae7d174e4109608888575c3207) 
 - [2021-03-09-作为前端开发，Node.js-你得了解下～](https://www.ershicimi.com/p/0f3e9093221929dddea3c6dd757ae61b) 
+- [2021-04-20-分享个学习-node-的网站，看了一些内容挺不错的-https://nodejs.dev/learn](https://www.v2ex.com/t/771851) 
 - [2021-04-19-【安全热点周报】第190期:连爆两枚V8引擎远程代码执行漏洞,影响...](https://sec.thief.one/article_content?a_id=7a0ad2e31bee46eee0a5742eed2525a8) 
 - [2021-04-17-Chrome-V8-RCE-0day之WeChatWeb](https://sec.thief.one/article_content?a_id=50058a99be7d4a87babe8488d367d653) 

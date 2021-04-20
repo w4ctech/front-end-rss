@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 12:58:46，:rocket: 更新条数: +4251， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 13:11:53，:rocket: 更新条数: +4250， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-20-传统行业（与设计无关）想转行做-UI-设计，线上培训班靠谱吗？如果靠谱的话，求推荐。](https://www.v2ex.com/t/771991) ![](assets/new.png)  
+- [2021-04-20-SSD-突然变成只读，且无法挂载文件系统，如何处理？](https://www.v2ex.com/t/771990) ![](assets/new.png)  
 - [2021-04-20-提问如何在一个包内一次性加载模块](https://www.v2ex.com/t/771989) ![](assets/new.png)  
 - [2021-04-20-怎么阅读-Ventoy-的源码,-该去找那些资料](https://www.v2ex.com/t/771988) ![](assets/new.png)  
 - [2021-04-20-逸招聘-欢迎来撩~-系统软件工程师，支持远程！](https://www.v2ex.com/t/771987) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-20-iPhone-上有好用的投屏+剪贴板同步+拖拽文件工具吗？](https://www.v2ex.com/t/771970) ![](assets/new.png)  
 - [2021-04-20-8-瓶水-2-瓶有毒-6-个耗子-要求单次检验出结果](https://www.v2ex.com/t/771969) ![](assets/new.png)  
 - [2021-04-20-ssh-隧道如何作到旁路流量解密？](https://www.v2ex.com/t/771967) ![](assets/new.png)  
-- [2021-04-20-吸烟之所以能让人放松，是因为吸烟能让人短暂停下来三五分钟，提提神之后继续干活，问题来了，戒烟后还有没有类似的方法能够让人心安理得的放松三五分钟，然后提...](https://www.v2ex.com/t/771966) ![](assets/new.png)  
-- [2021-04-20-迫于想玩玩-NAS,求推荐黑-NAS-的组建方法](https://www.v2ex.com/t/771965) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

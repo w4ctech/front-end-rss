@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 10:38:28，:rocket: 更新条数: +4251， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 10:52:34，:rocket: 更新条数: +4241， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -658,16 +658,6 @@
 </summary>
 
 
-- [2021-04-18-腾讯开源的酷炫动画播放解决方案Vap初体验](https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/) ![](assets/new.png)  
-- [2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) ![](assets/new.png)  
-- [2021-03-30-分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/) ![](assets/new.png)  
-- [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) ![](assets/new.png)  
-- [2021-03-14-CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/) ![](assets/new.png)  
-- [2021-02-18-使用CSS-text-combine-upright实现字符的横向合并](https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/) ![](assets/new.png)  
-- [2021-02-18-CSS-line-break属性与中文标点换行](https://www.zhangxinxu.com/wordpress/2021/02/css-line-break/) ![](assets/new.png)  
-- [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) ![](assets/new.png)  
-- [2021-02-17-好消息，CSS-text-underline-offset可以用起来了](https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset/) ![](assets/new.png)  
-- [2021-02-16-CSS-::marker伪元素简介](https://www.zhangxinxu.com/wordpress/2021/02/css-marker-pseudo-element/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +986,8 @@
 </summary>
 
 
+- [2021-04-20-吸烟之所以能让人放松，是因为吸烟能让人短暂停下来三五分钟，提提神之后继续干活，问题来了，戒烟后还有没有类似的方法能够让人心安理得的放松三五分钟，然后提...](https://www.v2ex.com/t/771966) ![](assets/new.png)  
+- [2021-04-20-迫于想玩玩-NAS,求推荐黑-NAS-的组建方法](https://www.v2ex.com/t/771965) ![](assets/new.png)  
 - [2021-04-20-北京内推-贝壳找房-用户画像团队招聘-Java-工程师,提供转大数据研发机会](https://www.v2ex.com/t/771962) ![](assets/new.png)  
 - [2021-04-20-concurrentHashMap-为什么是-CAS+Sychronized-保障线程安全？](https://www.v2ex.com/t/771961) ![](assets/new.png)  
 - [2021-04-20-和大家交流一下现在有没有开源的项目，类似-navicat15-中通过托拉拽图标生成-sql-语句的功能。](https://www.v2ex.com/t/771959) ![](assets/new.png)  
@@ -1014,8 +1006,6 @@
 - [2021-04-20-有没有用-deepin-系统的老哥，这系统要求的硬盘空间怎么这么大](https://www.v2ex.com/t/771943) ![](assets/new.png)  
 - [2021-04-20-AirTags-大家会买不](https://www.v2ex.com/t/771942) ![](assets/new.png)  
 - [2021-04-20-请教两个问题，关于类成员赋初值和-std::vector-的-pushback方法与移动构造](https://www.v2ex.com/t/771941) ![](assets/new.png)  
-- [2021-04-20-请问-fmt.Fprint&b,-"Hello-World"-的值-b-为什么需要加&-???](https://www.v2ex.com/t/771939) ![](assets/new.png)  
-- [2021-04-20-有没有通用的类似于-phpmyadmin-的数据管理软件,但是只管理数据](https://www.v2ex.com/t/771936) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,8 +1062,8 @@
 - [2021-04-20-译-每个-Apache-Kafka-开发者都应该知道的-5-件事](https://toutiao.io/k/n0kbg7d) ![](assets/new.png)  
 - [2021-04-20-深入-AQS-源码，搞懂核心思想](https://toutiao.io/k/2se9osh) ![](assets/new.png)  
 - [2021-04-20-微信小程序接口自动化的实现方案](https://toutiao.io/k/96r3jin) ![](assets/new.png)  
-- [2021-04-20-“一学就会”-微服务的架构模式：一个服务一个数据库模式（上）](https://toutiao.io/k/d4tpbr8) ![](assets/new.png)  
 - [2021-04-20-深入剖析共识性算法-Raft](https://toutiao.io/k/125ec1c) ![](assets/new.png)  
+- [2021-04-20-“一学就会”-微服务的架构模式：一个服务一个数据库模式（上）](https://toutiao.io/k/d4tpbr8) ![](assets/new.png)  
 - [2021-04-20-工具-|-百度开源的函数计算服务引擎](https://toutiao.io/k/uoj7sne) ![](assets/new.png)  
 - [2021-04-20-应-"云"-而生的-Java-框架-Quarkus：构建本机可执行文件](https://toutiao.io/k/91729fo) ![](assets/new.png)  
 - [2021-04-20-ElasticSearch-如何使用-TDigest-算法计算亿级数据的百分位数？](https://toutiao.io/k/00svame) ![](assets/new.png)  

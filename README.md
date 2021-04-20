@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 00:47:19，:rocket: 更新条数: +4239， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 01:15:53，:rocket: 更新条数: +4240， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2021-04-19-最新疫情：全国新冠累计确诊90510例-累计接种新冠疫苗超1.92亿剂次](https://m.caixin.com/m/2021-04-19/101693286.html) ![](assets/new.png)  
+- [2021-04-20-4月19日全国新增新冠10例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-20/101693430.html) ![](assets/new.png)  
 - [2021-04-19-变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html) ![](assets/new.png)  
 - [2021-04-19-最新海外疫情：新冠感染超1.41亿-累计死亡超301万](https://m.caixin.com/m/2021-04-19/101693291.html) ![](assets/new.png)  
 - [2021-04-19-【境内疫情观察】全国新增11例境外输入病例（4月18日）](http://m.database.caixin.com/m/2021-04-19/101693254.html) ![](assets/new.png)  
@@ -96,8 +96,8 @@
 </summary>
 
 
-- [2021-04-19-全国｜新增-11-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRAwPr3h6X5gDX4ePJEo210419&isfromapp=1) ![](assets/new.png)  
-- [2021-04-18-云南｜新增确诊病例-2-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZADzL3Jzb8lgtBRJ8HJw210419&isfromapp=1) ![](assets/new.png)  
+- [2021-04-20-全国｜新增确诊-10-例-含本土-1-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtincFLGLOvfTng6wviG2h5210420&isfromapp=1) ![](assets/new.png)  
+- [2021-04-19-云南｜新增-1-例本土-为缅甸籍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDkQNXVRiyUQBUq0B7kYv210420&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,13 @@
 </summary>
 
 
+- [2021-04-20-offer-对比，杭州、北京-Java-后端方向](https://www.v2ex.com/t/771805) ![](assets/new.png)  
+- [2021-04-20-出一个联想-y9000k-2020-版-2070smq-32g-内存-1t-固态-v-友直接明盘-9500.-仅使用一两周，没有-rgb-这个需求了。故出。京东购入，有发票，箱说全，原价-14000，...](https://www.v2ex.com/t/771804) ![](assets/new.png)  
+- [2021-04-20-请教一个关于三层路由的问题](https://www.v2ex.com/t/771802) ![](assets/new.png)  
+- [2021-04-20-讲件有意思的事情](https://www.v2ex.com/t/771801) ![](assets/new.png)  
+- [2021-04-20-求教!-网页接入微信支付流程?](https://www.v2ex.com/t/771800) ![](assets/new.png)  
+- [2021-04-20-翻自己的发帖,看到自己一个-16-年发的关于房价的,百感交集](https://www.v2ex.com/t/771798) ![](assets/new.png)  
+- [2021-04-20-Apple-Pencil-电池：卒](https://www.v2ex.com/t/771795) ![](assets/new.png)  
 - [2021-04-20-问个简单的问题](https://www.v2ex.com/t/771794) ![](assets/new.png)  
 - [2021-04-20-关于-M1-芯片-MacOS-下-C++编译的问题](https://www.v2ex.com/t/771793) ![](assets/new.png)  
 - [2021-04-20-如何通过搜索引擎查找到符合某专业领域的资料？](https://www.v2ex.com/t/771792) ![](assets/new.png)  
@@ -1009,13 +1016,6 @@
 - [2021-04-19-招市场运营，市场文案，-LOGO-和网页插画师](https://www.v2ex.com/t/771783) ![](assets/new.png)  
 - [2021-04-19-关于-Mac-mini-的-HDMI-接口的一些猜想](https://www.v2ex.com/t/771782) ![](assets/new.png)  
 - [2021-04-19-nginx-有主动屏蔽-ip-的插件吗？](https://www.v2ex.com/t/771781) ![](assets/new.png)  
-- [2021-04-19-Java-怎么-300TPS-地去请求一个接口？](https://www.v2ex.com/t/771780) ![](assets/new.png)  
-- [2021-04-19-20210420-午夜俱乐部](https://www.v2ex.com/t/771778) ![](assets/new.png)  
-- [2021-04-19-请教下安卓-TV-大佬,快图浏览在电视上的幻灯片播放按钮不显示,要修改哪里才会显示呢?](https://www.v2ex.com/t/771777) ![](assets/new.png)  
-- [2021-04-19-帮朋友做了个收集群照片的小程序-···场景比较奇怪](https://www.v2ex.com/t/771776) ![](assets/new.png)  
-- [2021-04-19-最近空气质量怎么这么差，呼吸不畅。。](https://www.v2ex.com/t/771775) ![](assets/new.png)  
-- [2021-04-19-virtualbox-安装-win7_32-位的问题](https://www.v2ex.com/t/771774) ![](assets/new.png)  
-- [2021-04-19-关于鲜牛奶的疑问](https://www.v2ex.com/t/771773) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1058,26 +1058,26 @@
 </summary>
 
 
-- [2021-04-20-Java-8-中的-Stream-流式操作：入门篇](https://toutiao.io/k/w7xb2nj) ![](assets/new.png)  
 - [2021-04-20-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-04-20-Java-8-中的-Stream-流式操作：入门篇](https://toutiao.io/k/w7xb2nj) ![](assets/new.png)  
+- [2021-04-20-MyBatis-优秀的设计总结](https://toutiao.io/k/k81cs3j) ![](assets/new.png)  
 - [2021-04-20-代码审查-Code-Review-的本质](https://toutiao.io/k/xqvnsdu) ![](assets/new.png)  
 - [2021-04-20-跟我一起学-Go-系列：从写测试用例开始仗剑走天涯](https://toutiao.io/k/0f8qtmv) ![](assets/new.png)  
-- [2021-04-20-“改造”-VS-Code-编辑器，一起写个插件吧](https://toutiao.io/k/cjkpkjl) ![](assets/new.png)  
 - [2021-04-20-演习与混沌工程](https://toutiao.io/k/htbqof4) ![](assets/new.png)  
-- [2021-04-20-MyBatis-优秀的设计总结](https://toutiao.io/k/k81cs3j) ![](assets/new.png)  
+- [2021-04-20-“改造”-VS-Code-编辑器，一起写个插件吧](https://toutiao.io/k/cjkpkjl) ![](assets/new.png)  
 - [2021-04-20-测试应用启动性能](https://toutiao.io/k/bbqdske) ![](assets/new.png)  
 - [2021-04-20-译-用-Golang-实现-RSA-加密和签名（有示例）](https://toutiao.io/k/fofjm8d) ![](assets/new.png)  
 - [2021-04-20-微信小程序接口自动化的实现方案](https://toutiao.io/k/96r3jin) ![](assets/new.png)  
-- [2021-04-20-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-20-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-20-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-20-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
-- [2021-04-20-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
-- [2021-04-20-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-20-译-每个-Apache-Kafka-开发者都应该知道的-5-件事](https://toutiao.io/k/n0kbg7d) ![](assets/new.png)  
 - [2021-04-20-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-20-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-20-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-20-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
+- [2021-04-20-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-20-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-20-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
+- [2021-04-20-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-20-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-20-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-20-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-20-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

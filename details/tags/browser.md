@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 00:26:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 00:47:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,7 +24,6 @@
 - [2020-03-14-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-28-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2021-04-12-浏览器指纹追踪技术了解一下?](https://www.ershicimi.com/p/291be49707ab70d7e9a49ac05b44c2ce) 
 - [2021-04-08-一名合格的前端工程师需要掌握的浏览器渲染笔记](https://www.ershicimi.com/p/b37c42536333398c3047a0473a4bc76b) 
 - [2021-03-30-URL输入后按回车，浏览器内部究竟发生了什么](https://www.ershicimi.com/p/254b54b63be6e9a152b5fd123b894f27) 
 - [2021-03-09-那些与-IE-相伴的日子](https://www.ershicimi.com/p/d9c911d3c0835bf8f9743b70add1478c) 
@@ -43,7 +42,6 @@
 - [2021-04-19-吐槽下-ToDesk-的安全机制，一天可以收到-n-次的新设备登陆验证！](https://www.v2ex.com/t/771758) 
 - [2021-04-19-V-友们，重头开始学网络安全方向的话推荐学什么语言](https://www.v2ex.com/t/771748) 
 - [2021-04-20-代码审查-Code-Review-的本质](https://toutiao.io/k/xqvnsdu) 
-- [2021-04-20-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-19-【安全圈】配送平台-Mercato-发生数据泄露-却没向用户发出提醒](https://sec.thief.one/article_content?a_id=81be561532105dc010d6ae464334c895) 
 - [2021-04-19-第四届红帽杯网络安全大赛正式启动!](https://sec.thief.one/article_content?a_id=5227c9dc6a168bbcbfe88ed129223696) 
 - [2021-04-19-CSO说安全-|-黄乐:对企业安全运营的思考](https://sec.thief.one/article_content?a_id=e7ab530c2036231c5335bb3f81b3d543) 

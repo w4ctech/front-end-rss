@@ -20425,6 +20425,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "入行 2 年，涨薪无望：我想给程序员提个醒！",
+        "link": "https://www.v2ex.com/t/771824",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "快手杭州、 Java /Android 研发内推、电商方向",
+        "link": "https://www.v2ex.com/t/771821",
+        "date": "2021-04-20"
+      },
+      {
         "title": "现在好多 APP 打开就弹出升级提示 还要一个个点击暂不升级，真是心累。",
         "link": "https://www.v2ex.com/t/771820",
         "date": "2021-04-20"
@@ -20603,26 +20613,6 @@
         "title": "最近空气质量怎么这么差，呼吸不畅。。",
         "link": "https://www.v2ex.com/t/771775",
         "date": "2021-04-19"
-      },
-      {
-        "title": "virtualbox 安装 win7_32 位的问题",
-        "link": "https://www.v2ex.com/t/771774",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "关于鲜牛奶的疑问",
-        "link": "https://www.v2ex.com/t/771773",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "mac 在传输文件的时候会不会自动休眠",
-        "link": "https://www.v2ex.com/t/771772",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "mac App 在实机 macOS 10.15 运行正常，在虚拟机系统因为签名崩溃，如何解决？",
-        "link": "https://www.v2ex.com/t/771771",
-        "date": "2021-04-19"
       }
     ]
   },
@@ -20739,13 +20729,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "一文搞懂分布式锁的原理与实现",
-        "link": "https://toutiao.io/k/j7fdh6h",
+        "title": "Java 8 中的 Stream 流式操作：入门篇",
+        "link": "https://toutiao.io/k/w7xb2nj",
         "date": "2021-04-20"
       },
       {
-        "title": "Java 8 中的 Stream 流式操作：入门篇",
-        "link": "https://toutiao.io/k/w7xb2nj",
+        "title": "一文搞懂分布式锁的原理与实现",
+        "link": "https://toutiao.io/k/j7fdh6h",
         "date": "2021-04-20"
       },
       {
@@ -20794,73 +20784,13 @@
         "date": "2021-04-20"
       },
       {
-        "title": "深入 AQS 源码，搞懂核心思想",
-        "link": "https://toutiao.io/k/2se9osh",
-        "date": "2021-04-20"
-      },
-      {
         "title": "ElasticSearch 如何使用 TDigest 算法计算亿级数据的百分位数？",
         "link": "https://toutiao.io/k/00svame",
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] RESTful API 设计最佳实践",
-        "link": "https://toutiao.io/k/4zqz7k1",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
-        "link": "https://toutiao.io/k/7uw9l2r",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
+        "title": "深入 AQS 源码，搞懂核心思想",
+        "link": "https://toutiao.io/k/2se9osh",
         "date": "2021-04-20"
       },
       {
@@ -20869,13 +20799,73 @@
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
         "date": "2021-04-20"
       },
       {
         "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
         "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
+        "link": "https://toutiao.io/k/7uw9l2r",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] RESTful API 设计最佳实践",
+        "link": "https://toutiao.io/k/4zqz7k1",
         "date": "2021-04-20"
       }
     ]

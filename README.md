@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 01:55:27，:rocket: 更新条数: +4243， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 02:12:02，:rocket: 更新条数: +4241， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-20-入行-2-年，涨薪无望：我想给程序员提个醒！](https://www.v2ex.com/t/771824) ![](assets/new.png)  
+- [2021-04-20-快手杭州、-Java-/Android-研发内推、电商方向](https://www.v2ex.com/t/771821) ![](assets/new.png)  
 - [2021-04-20-现在好多-APP-打开就弹出升级提示-还要一个个点击暂不升级，真是心累。](https://www.v2ex.com/t/771820) ![](assets/new.png)  
 - [2021-04-20-offer-比较-ebay-vs-小红书](https://www.v2ex.com/t/771819) ![](assets/new.png)  
 - [2021-04-20-苹果今天-9-点的邮件,-里面主题词变了,-原‘踏春而来’现‘一点开眼’,-疑似-Apple-Glasses??](https://www.v2ex.com/t/771817) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-20-求教!-网页接入微信支付流程?](https://www.v2ex.com/t/771800) ![](assets/new.png)  
 - [2021-04-20-翻自己的发帖,看到自己一个-16-年发的关于房价的,百感交集](https://www.v2ex.com/t/771798) ![](assets/new.png)  
 - [2021-04-20-Apple-Pencil-电池：卒](https://www.v2ex.com/t/771795) ![](assets/new.png)  
-- [2021-04-20-问个简单的问题](https://www.v2ex.com/t/771794) ![](assets/new.png)  
-- [2021-04-20-关于-M1-芯片-MacOS-下-C++编译的问题](https://www.v2ex.com/t/771793) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1058,8 +1058,8 @@
 </summary>
 
 
-- [2021-04-20-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [2021-04-20-Java-8-中的-Stream-流式操作：入门篇](https://toutiao.io/k/w7xb2nj) ![](assets/new.png)  
+- [2021-04-20-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [2021-04-20-MyBatis-优秀的设计总结](https://toutiao.io/k/k81cs3j) ![](assets/new.png)  
 - [2021-04-20-跟我一起学-Go-系列：从写测试用例开始仗剑走天涯](https://toutiao.io/k/0f8qtmv) ![](assets/new.png)  
 - [2021-04-20-代码审查-Code-Review-的本质](https://toutiao.io/k/xqvnsdu) ![](assets/new.png)  
@@ -1069,15 +1069,15 @@
 - [2021-04-20-译-用-Golang-实现-RSA-加密和签名（有示例）](https://toutiao.io/k/fofjm8d) ![](assets/new.png)  
 - [2021-04-20-译-每个-Apache-Kafka-开发者都应该知道的-5-件事](https://toutiao.io/k/n0kbg7d) ![](assets/new.png)  
 - [2021-04-20-微信小程序接口自动化的实现方案](https://toutiao.io/k/96r3jin) ![](assets/new.png)  
-- [2021-04-20-深入-AQS-源码，搞懂核心思想](https://toutiao.io/k/2se9osh) ![](assets/new.png)  
 - [2021-04-20-ElasticSearch-如何使用-TDigest-算法计算亿级数据的百分位数？](https://toutiao.io/k/00svame) ![](assets/new.png)  
-- [2021-04-20-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-20-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-20-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-20-深入-AQS-源码，搞懂核心思想](https://toutiao.io/k/2se9osh) ![](assets/new.png)  
+- [2021-04-20-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
 - [2021-04-20-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-20-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-20-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-20-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-20-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
 - [2021-04-20-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-20-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-20-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-20 05:23:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 05:37:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -451,8 +451,8 @@
 - [【JavaScript】Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29)
 - [【V2EX】腾讯云-4-月限时秒杀，轻量单核-2G5M-带宽-79-元/1-年起，-GPU-云主机竞价实例](https://www.v2ex.com/t/771853)
 - [【技术头条】十六年全栈开发者的-Android-开发踩坑实录-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLiRIV5XAvToTpLTLRSkxdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】ElasticSearch-如何使用-TDigest-算法计算亿级数据的百分位数？](https://toutiao.io/k/00svame)
 - [【开发者头条】深入剖析共识性算法-Raft](https://toutiao.io/k/125ec1c)
+- [【开发者头条】ElasticSearch-如何使用-TDigest-算法计算亿级数据的百分位数？](https://toutiao.io/k/00svame)
 - [【安全热点】炸了.《图解算法》爆款,原来算法还可以这样学!](https://sec.thief.one/article_content?a_id=ac08d4c64caf02797e5b62a6c1a7343a)
 - [【安全热点】一道算法题](https://sec.thief.one/article_content?a_id=9a72176eb9b3dfc0f37bd4a83bda903a)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -602,6 +602,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】4月19日全国新增新冠10例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-20/101693430.html)
+- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】云南新增1例本土病例（4月19日）](http://m.database.caixin.com/m/2021-04-20/101693637.html)
 - [【武汉肺炎防疫全纪录(财新网)】过半美国成年人已接种一剂-印度加速进口mRNA疫苗｜大流行手记（4月19日）](https://m.caixin.com/m/2021-04-20/101693442.html)
 - [【武汉肺炎防疫全纪录(财新网)】变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超1.41亿-累计死亡超301万](https://m.caixin.com/m/2021-04-19/101693291.html)
@@ -620,7 +621,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】我国新冠疫苗累计接种超1.67亿剂次（4月12日）](http://m.database.caixin.com/m/2021-04-13/101690476.html)
 - [【武汉肺炎防疫全纪录(财新网)】英国重开商场健身房-澳放弃年底前全民接种目标｜大流行手记（4月12日）](https://m.caixin.com/m/2021-04-13/101690235.html)
-- [【武汉肺炎防疫全纪录(财新网)】香港与内地通关现曙光-5月中旬起内地民众来港免隔离](https://m.caixin.com/m/2021-04-12/101690149.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

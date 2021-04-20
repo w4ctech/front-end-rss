@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 05:23:57，:rocket: 更新条数: +4243， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 05:37:55，:rocket: 更新条数: +4245， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-04-20-4月19日全国新增新冠10例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-20/101693430.html) ![](assets/new.png)  
+- [2021-04-20-【境内疫情观察】云南新增1例本土病例（4月19日）](http://m.database.caixin.com/m/2021-04-20/101693637.html) ![](assets/new.png)  
 - [2021-04-20-过半美国成年人已接种一剂-印度加速进口mRNA疫苗｜大流行手记（4月19日）](https://m.caixin.com/m/2021-04-20/101693442.html) ![](assets/new.png)  
 - [2021-04-19-变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html) ![](assets/new.png)  
 - [2021-04-19-最新海外疫情：新冠感染超1.41亿-累计死亡超301万](https://m.caixin.com/m/2021-04-19/101693291.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
 - [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
 - [2021-04-13-【境内疫情观察】我国新冠疫苗累计接种超1.67亿剂次（4月12日）](http://m.database.caixin.com/m/2021-04-13/101690476.html) ![](assets/new.png)  
-- [2021-04-13-英国重开商场健身房-澳放弃年底前全民接种目标｜大流行手记（4月12日）](https://m.caixin.com/m/2021-04-13/101690235.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-20-有个问题我不明白](https://www.v2ex.com/t/771879) ![](assets/new.png)  
+- [2021-04-20-马上而立之年，大家觉得三十岁之前一定要做或者说对以后益处良多的事情是什么？](https://www.v2ex.com/t/771878) ![](assets/new.png)  
+- [2021-04-20-幻方量化/AI-Lab-国内头部量化公司招聘开发工程师，多个岗位方向等你来投~](https://www.v2ex.com/t/771877) ![](assets/new.png)  
 - [2021-04-20-面包多的「闪电结算」和「面包多支付」吐槽](https://www.v2ex.com/t/771874) ![](assets/new.png)  
 - [2021-04-20-找一个帖子，关于小公司招对方公司催款的-，大概内容是，对方公司拖欠几百万广告费，然后楼主过去加装面试还是啥，进去到财务谈判拿回钱的](https://www.v2ex.com/t/771873) ![](assets/new.png)  
 - [2021-04-20-求助-这段代码错在哪里了？](https://www.v2ex.com/t/771872) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-20-如果通过一条网线知道服务器的-IP-地址](https://www.v2ex.com/t/771855) ![](assets/new.png)  
 - [2021-04-20-腾讯云-4-月限时秒杀，轻量单核-2G5M-带宽-79-元/1-年起，-GPU-云主机竞价实例](https://www.v2ex.com/t/771853) ![](assets/new.png)  
 - [2021-04-20-django-uwsgi-nginx-websocket-搭建后台管理,本地没问题,上传服务器-websocket-报-502-错误,其他接口能正常访问](https://www.v2ex.com/t/771852) ![](assets/new.png)  
-- [2021-04-20-分享个学习-node-的网站，看了一些内容挺不错的-https://nodejs.dev/learn](https://www.v2ex.com/t/771851) ![](assets/new.png)  
-- [2021-04-20-上海-莘庄-疏影路-现有一套-3-室-1-厅的房子需要转租，价格-7000。莘庄附近工作的朋友可以看看](https://www.v2ex.com/t/771849) ![](assets/new.png)  
-- [2021-04-20-Telegram-在线播放视频会限速？](https://www.v2ex.com/t/771848) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1074,10 +1074,10 @@
 - [2021-04-20-深入-AQS-源码，搞懂核心思想](https://toutiao.io/k/2se9osh) ![](assets/new.png)  
 - [2021-04-20-“一学就会”-微服务的架构模式：一个服务一个数据库模式（上）](https://toutiao.io/k/d4tpbr8) ![](assets/new.png)  
 - [2021-04-20-工具-|-百度开源的函数计算服务引擎](https://toutiao.io/k/uoj7sne) ![](assets/new.png)  
-- [2021-04-20-ElasticSearch-如何使用-TDigest-算法计算亿级数据的百分位数？](https://toutiao.io/k/00svame) ![](assets/new.png)  
 - [2021-04-20-深入剖析共识性算法-Raft](https://toutiao.io/k/125ec1c) ![](assets/new.png)  
+- [2021-04-20-ElasticSearch-如何使用-TDigest-算法计算亿级数据的百分位数？](https://toutiao.io/k/00svame) ![](assets/new.png)  
 - [2021-04-20-应-“云”-而生的-Java-框架-Quarkus：构建本机可执行文件](https://toutiao.io/k/91729fo) ![](assets/new.png)  
-- [2021-04-20-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-20-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

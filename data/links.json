@@ -20425,6 +20425,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[翻译] 正式宣布 Visual Studio 2022",
+        "link": "https://www.v2ex.com/t/771833",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "美区 Apple ID 日常使用的一些问题",
+        "link": "https://www.v2ex.com/t/771832",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "真想回到用 iMessage 聊天的时代 微信和 QQ 真的过于冗杂",
+        "link": "https://www.v2ex.com/t/771830",
+        "date": "2021-04-20"
+      },
+      {
         "title": "我突然想到一个问题，除了人类以外还有什么物种是雄性对雌性比较挑剔的吗？",
         "link": "https://www.v2ex.com/t/771829",
         "date": "2021-04-20"
@@ -20588,26 +20603,6 @@
         "title": "警惕！最新版 Tim 依旧在读你的浏览记录",
         "link": "https://www.v2ex.com/t/771784",
         "date": "2021-04-19"
-      },
-      {
-        "title": "招市场运营，市场文案， LOGO 和网页插画师",
-        "link": "https://www.v2ex.com/t/771783",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "关于 Mac mini 的 HDMI 接口的一些猜想",
-        "link": "https://www.v2ex.com/t/771782",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "nginx 有主动屏蔽 ip 的插件吗？",
-        "link": "https://www.v2ex.com/t/771781",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "Java 怎么 300TPS 地去请求一个接口？",
-        "link": "https://www.v2ex.com/t/771780",
-        "date": "2021-04-19"
       }
     ]
   },
@@ -20724,13 +20719,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "一文搞懂分布式锁的原理与实现",
-        "link": "https://toutiao.io/k/j7fdh6h",
+        "title": "Java 8 中的 Stream 流式操作：入门篇",
+        "link": "https://toutiao.io/k/w7xb2nj",
         "date": "2021-04-20"
       },
       {
-        "title": "Java 8 中的 Stream 流式操作：入门篇",
-        "link": "https://toutiao.io/k/w7xb2nj",
+        "title": "一文搞懂分布式锁的原理与实现",
+        "link": "https://toutiao.io/k/j7fdh6h",
         "date": "2021-04-20"
       },
       {
@@ -20799,6 +20794,41 @@
         "date": "2021-04-20"
       },
       {
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] RESTful API 设计最佳实践",
+        "link": "https://toutiao.io/k/4zqz7k1",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-20"
+      },
+      {
         "title": "[推荐] Git 分支管理策略与工作流程",
         "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-20"
@@ -20809,18 +20839,8 @@
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
         "date": "2021-04-20"
       },
       {
@@ -20829,48 +20849,23 @@
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] RESTful API 设计最佳实践",
-        "link": "https://toutiao.io/k/4zqz7k1",
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
         "date": "2021-04-20"
       },
       {
         "title": "[推荐] 我很久没写代码了，但我是个好架构师",
         "link": "https://toutiao.io/k/gauwubg",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
-        "link": "https://toutiao.io/k/811or1j",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
-        "link": "https://toutiao.io/k/7uw9l2r",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
         "date": "2021-04-20"
       }
     ]

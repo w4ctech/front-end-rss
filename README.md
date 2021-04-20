@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 01:15:53，:rocket: 更新条数: +4240， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 01:28:18，:rocket: 更新条数: +4240， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-20-V2-内地打不开网站，有其他替换的新域名吗](https://www.v2ex.com/t/771806) ![](assets/new.png)  
 - [2021-04-20-offer-对比，杭州、北京-Java-后端方向](https://www.v2ex.com/t/771805) ![](assets/new.png)  
 - [2021-04-20-出一个联想-y9000k-2020-版-2070smq-32g-内存-1t-固态-v-友直接明盘-9500.-仅使用一两周，没有-rgb-这个需求了。故出。京东购入，有发票，箱说全，原价-14000，...](https://www.v2ex.com/t/771804) ![](assets/new.png)  
 - [2021-04-20-请教一个关于三层路由的问题](https://www.v2ex.com/t/771802) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-19-警惕！最新版-Tim-依旧在读你的浏览记录](https://www.v2ex.com/t/771784) ![](assets/new.png)  
 - [2021-04-19-招市场运营，市场文案，-LOGO-和网页插画师](https://www.v2ex.com/t/771783) ![](assets/new.png)  
 - [2021-04-19-关于-Mac-mini-的-HDMI-接口的一些猜想](https://www.v2ex.com/t/771782) ![](assets/new.png)  
-- [2021-04-19-nginx-有主动屏蔽-ip-的插件吗？](https://www.v2ex.com/t/771781) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1058,8 +1058,8 @@
 </summary>
 
 
-- [2021-04-20-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [2021-04-20-Java-8-中的-Stream-流式操作：入门篇](https://toutiao.io/k/w7xb2nj) ![](assets/new.png)  
+- [2021-04-20-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [2021-04-20-MyBatis-优秀的设计总结](https://toutiao.io/k/k81cs3j) ![](assets/new.png)  
 - [2021-04-20-代码审查-Code-Review-的本质](https://toutiao.io/k/xqvnsdu) ![](assets/new.png)  
 - [2021-04-20-跟我一起学-Go-系列：从写测试用例开始仗剑走天涯](https://toutiao.io/k/0f8qtmv) ![](assets/new.png)  
@@ -1067,17 +1067,17 @@
 - [2021-04-20-“改造”-VS-Code-编辑器，一起写个插件吧](https://toutiao.io/k/cjkpkjl) ![](assets/new.png)  
 - [2021-04-20-测试应用启动性能](https://toutiao.io/k/bbqdske) ![](assets/new.png)  
 - [2021-04-20-译-用-Golang-实现-RSA-加密和签名（有示例）](https://toutiao.io/k/fofjm8d) ![](assets/new.png)  
-- [2021-04-20-微信小程序接口自动化的实现方案](https://toutiao.io/k/96r3jin) ![](assets/new.png)  
 - [2021-04-20-译-每个-Apache-Kafka-开发者都应该知道的-5-件事](https://toutiao.io/k/n0kbg7d) ![](assets/new.png)  
-- [2021-04-20-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-20-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-20-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-20-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-20-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-20-微信小程序接口自动化的实现方案](https://toutiao.io/k/96r3jin) ![](assets/new.png)  
+- [2021-04-20-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-20-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-20-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-20-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-20-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
 - [2021-04-20-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
-- [2021-04-20-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-20-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-20-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-20-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-20-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-20-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

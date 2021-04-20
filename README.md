@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 09:24:17，:rocket: 更新条数: +4253， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 09:38:57，:rocket: 更新条数: +4253， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,11 +65,12 @@
 </summary>
 
 
+- [2021-04-20-最新疫情：全国新冠累计确诊90520例-累计接种新冠疫苗超1.95亿剂次](https://m.caixin.com/m/2021-04-20/101693833.html) ![](assets/new.png)  
 - [2021-04-20-4月19日全国新增新冠10例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-20/101693430.html) ![](assets/new.png)  
+- [2021-04-20-最新海外疫情：新冠感染近1.42亿-累计死亡超302万](https://m.caixin.com/m/2021-04-20/101693826.html) ![](assets/new.png)  
 - [2021-04-20-【境内疫情观察】云南新增1例本土病例（4月19日）](http://m.database.caixin.com/m/2021-04-20/101693637.html) ![](assets/new.png)  
 - [2021-04-20-过半美国成年人已接种一剂-印度加速进口mRNA疫苗｜大流行手记（4月19日）](https://m.caixin.com/m/2021-04-20/101693442.html) ![](assets/new.png)  
 - [2021-04-19-变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html) ![](assets/new.png)  
-- [2021-04-19-最新海外疫情：新冠感染超1.41亿-累计死亡超301万](https://m.caixin.com/m/2021-04-19/101693291.html) ![](assets/new.png)  
 - [2021-04-19-【境内疫情观察】全国新增11例境外输入病例（4月18日）](http://m.database.caixin.com/m/2021-04-19/101693254.html) ![](assets/new.png)  
 - [2021-04-19-印度单日新增逾26万病例-世卫称全球感染率接近历史高峰｜大流行手记（4月18日）](https://m.caixin.com/m/2021-04-19/101692924.html) ![](assets/new.png)  
 - [2021-04-18-【境内疫情观察】全国新增16例境外输入病例（4月17日）](http://m.database.caixin.com/m/2021-04-18/101692852.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
 - [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
-- [2021-04-13-【境内疫情观察】我国新冠疫苗累计接种超1.67亿剂次（4月12日）](http://m.database.caixin.com/m/2021-04-13/101690476.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-20-刚学前端-VUE，请问这种多级菜单用什么实现好](https://www.v2ex.com/t/771952) ![](assets/new.png)  
 - [2021-04-20-你们平时点外卖会找这种优惠券吗？](https://www.v2ex.com/t/771950) ![](assets/new.png)  
 - [2021-04-20-天津的工作真心难找](https://www.v2ex.com/t/771949) ![](assets/new.png)  
 - [2021-04-20-请教一下，有没有批量下载小米门铃视频的办法](https://www.v2ex.com/t/771948) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-20-如何高效分辨是否是外包](https://www.v2ex.com/t/771928) ![](assets/new.png)  
 - [2021-04-20-PHP-服务间调用最佳实践是什么](https://www.v2ex.com/t/771927) ![](assets/new.png)  
 - [2021-04-20-社保小白：工作-5-年，分别在三个城市工作过（三线城市-杭州-北京），每个工作中间有-1-2-月空档期。离职没有做过相关社保的事情。未来想到第四个城市定居，请教...](https://www.v2ex.com/t/771926) ![](assets/new.png)  
-- [2021-04-20-北京C-轮明星公司招-Java-、Android、前端、UE4、Golang、推荐算法、测试、运维、内核工程师、PM-等](https://www.v2ex.com/t/771925) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

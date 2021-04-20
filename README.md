@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 03:26:06，:rocket: 更新条数: +4245， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 03:40:24，:rocket: 更新条数: +4245， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,11 @@
 </summary>
 
 
+- [2021-04-20-在物联网中经常会使用的-MTQQ-等技术来进行信息通讯，那么如何让同样消息类型不同的数据结构兼容不同版本的客户端？](https://www.v2ex.com/t/771863) ![](assets/new.png)  
+- [2021-04-20-这两种表设计,-用哪种好?](https://www.v2ex.com/t/771862) ![](assets/new.png)  
+- [2021-04-20-有没有人了解“数据集成Data-Integration”这个方向吗](https://www.v2ex.com/t/771861) ![](assets/new.png)  
+- [2021-04-20-刚入职想离职了，准备去外企](https://www.v2ex.com/t/771859) ![](assets/new.png)  
+- [2021-04-20-坐标北京请教各位，想辞职但是怕找不到下一份工作？](https://www.v2ex.com/t/771858) ![](assets/new.png)  
 - [2021-04-20-如果通过一条网线知道服务器的-IP-地址](https://www.v2ex.com/t/771855) ![](assets/new.png)  
 - [2021-04-20-腾讯云-4-月限时秒杀，轻量单核-2G5M-带宽-79-元/1-年起，-GPU-云主机竞价实例](https://www.v2ex.com/t/771853) ![](assets/new.png)  
 - [2021-04-20-django-uwsgi-nginx-websocket-搭建后台管理,本地没问题,上传服务器-websocket-报-502-错误,其他接口能正常访问](https://www.v2ex.com/t/771852) ![](assets/new.png)  
@@ -1011,11 +1016,6 @@
 - [2021-04-20-五一都准备去哪玩呢？工作怎么安排？](https://www.v2ex.com/t/771840) ![](assets/new.png)  
 - [2021-04-20-北京/远程-StreamNative-多岗位招聘内推](https://www.v2ex.com/t/771839) ![](assets/new.png)  
 - [2021-04-20-个人项目有没有方法避免写很多无谓的-api-接口和前后端分离](https://www.v2ex.com/t/771838) ![](assets/new.png)  
-- [2021-04-20-请问这类基于-iframe-的多页签多页面应用管理系统是有框架的吗？是什么框架？](https://www.v2ex.com/t/771837) ![](assets/new.png)  
-- [2021-04-20-应届生想请教下各位前辈一些职业规划的问题](https://www.v2ex.com/t/771836) ![](assets/new.png)  
-- [2021-04-20-翻译-正式宣布-Visual-Studio-2022](https://www.v2ex.com/t/771833) ![](assets/new.png)  
-- [2021-04-20-美区-Apple-ID-日常使用的一些问题](https://www.v2ex.com/t/771832) ![](assets/new.png)  
-- [2021-04-20-真想回到用-iMessage-聊天的时代-微信和-QQ-真的过于冗杂](https://www.v2ex.com/t/771830) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,8 +1065,8 @@
 - [2021-04-20-跟我一起学-Go-系列：从写测试用例开始仗剑走天涯](https://toutiao.io/k/0f8qtmv) ![](assets/new.png)  
 - [2021-04-20-演习与混沌工程](https://toutiao.io/k/htbqof4) ![](assets/new.png)  
 - [2021-04-20-测试应用启动性能](https://toutiao.io/k/bbqdske) ![](assets/new.png)  
-- [2021-04-20-“改造”-VS-Code-编辑器，一起写个插件吧](https://toutiao.io/k/cjkpkjl) ![](assets/new.png)  
 - [2021-04-20-译-用-Golang-实现-RSA-加密和签名（有示例）](https://toutiao.io/k/fofjm8d) ![](assets/new.png)  
+- [2021-04-20-“改造”-VS-Code-编辑器，一起写个插件吧](https://toutiao.io/k/cjkpkjl) ![](assets/new.png)  
 - [2021-04-20-OLAP-分析引擎，基于-Druid-组件数据统计分析](https://toutiao.io/k/3qw931q) ![](assets/new.png)  
 - [2021-04-20-译-每个-Apache-Kafka-开发者都应该知道的-5-件事](https://toutiao.io/k/n0kbg7d) ![](assets/new.png)  
 - [2021-04-20-微信小程序接口自动化的实现方案](https://toutiao.io/k/96r3jin) ![](assets/new.png)  
@@ -1077,7 +1077,7 @@
 - [2021-04-20-工具-|-百度开源的函数计算服务引擎](https://toutiao.io/k/uoj7sne) ![](assets/new.png)  
 - [2021-04-20-应-“云”-而生的-Java-框架-Quarkus：构建本机可执行文件](https://toutiao.io/k/91729fo) ![](assets/new.png)  
 - [2021-04-20-深入剖析共识性算法-Raft](https://toutiao.io/k/125ec1c) ![](assets/new.png)  
-- [2021-04-20-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-20-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

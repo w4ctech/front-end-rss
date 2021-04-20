@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 04:54:55，:rocket: 更新条数: +724， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 05:06:20，:rocket: 更新条数: +4245， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-04-20-4月19日全国新增新冠10例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-20/101693430.html) ![](assets/new.png)  
+- [2021-04-20-过半美国成年人已接种一剂-印度加速进口mRNA疫苗｜大流行手记（4月19日）](https://m.caixin.com/m/2021-04-20/101693442.html) ![](assets/new.png)  
+- [2021-04-19-变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html) ![](assets/new.png)  
+- [2021-04-19-最新海外疫情：新冠感染超1.41亿-累计死亡超301万](https://m.caixin.com/m/2021-04-19/101693291.html) ![](assets/new.png)  
+- [2021-04-19-【境内疫情观察】全国新增11例境外输入病例（4月18日）](http://m.database.caixin.com/m/2021-04-19/101693254.html) ![](assets/new.png)  
+- [2021-04-19-印度单日新增逾26万病例-世卫称全球感染率接近历史高峰｜大流行手记（4月18日）](https://m.caixin.com/m/2021-04-19/101692924.html) ![](assets/new.png)  
+- [2021-04-18-【境内疫情观察】全国新增16例境外输入病例（4月17日）](http://m.database.caixin.com/m/2021-04-18/101692852.html) ![](assets/new.png)  
+- [2021-04-18-科兴疫苗智利真实世界保护率达67%-礼来中和抗体紧急授权被收回｜大流行手记（4月17日）](https://m.caixin.com/m/2021-04-18/101692822.html) ![](assets/new.png)  
+- [2021-04-17-【境内疫情观察】云南新增1例本土病例（4月16日）](http://m.database.caixin.com/m/2021-04-17/101692717.html) ![](assets/new.png)  
+- [2021-04-17-辉瑞称接种者或需打第三剂疫苗-以色列取消户外口罩令｜大流行手记（4月16日）](https://m.caixin.com/m/2021-04-17/101692553.html) ![](assets/new.png)  
+- [2021-04-16-印度单日新增确诊首破20万人-全球疫苗供应紧缺｜大流行手记（4月15日）](https://m.caixin.com/m/2021-04-16/101691883.html) ![](assets/new.png)  
+- [2021-04-15-香港放宽新冠疫苗接种年龄限制-明年将采购新一代疫苗](https://m.caixin.com/m/2021-04-15/101691804.html) ![](assets/new.png)  
+- [2021-04-15-【境内疫情观察】全国新增10例境外输入病例（4月14日）](http://m.database.caixin.com/m/2021-04-15/101691588.html) ![](assets/new.png)  
+- [2021-04-14-云南瑞丽4月13日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-14/101690804.html) ![](assets/new.png)  
+- [2021-04-14-【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html) ![](assets/new.png)  
+- [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
+- [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
+- [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
+- [2021-04-13-【境内疫情观察】我国新冠疫苗累计接种超1.67亿剂次（4月12日）](http://m.database.caixin.com/m/2021-04-13/101690476.html) ![](assets/new.png)  
+- [2021-04-13-英国重开商场健身房-澳放弃年底前全民接种目标｜大流行手记（4月12日）](https://m.caixin.com/m/2021-04-13/101690235.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -472,6 +492,10 @@
 </summary>
 
 
+- [2021-04-20-这样入门-js-抽象语法树AST，从此我来到了一个新世界](https://www.ershicimi.com/p/a8f48d69ef1b00bcd8ef34b89135e98c) ![](assets/new.png)  
+- [2021-04-20-假如易立竞吐槽程序员。。。](https://www.ershicimi.com/p/afaf604e242c1da82bd446bb8b1c8479) ![](assets/new.png)  
+- [2021-04-19-作为程序员，必须知道的-Web-协议有哪些？](https://www.ershicimi.com/p/a816846e5347cf296f7a49e142a88292) ![](assets/new.png)  
+- [2021-04-19-使用IOC解耦React组件](https://www.ershicimi.com/p/3a0c0abe40fe5958c6680386e7dc5cc2) ![](assets/new.png)  
 - [2021-04-18-粉丝专享！键盘、技术书籍大放送！](https://www.ershicimi.com/p/adfeea4acb082ccd08dee053d258daf5) ![](assets/new.png)  
 - [2021-04-17-Recoil：Facebook-新一代的-React-状态管理库](https://www.ershicimi.com/p/b779461f422493e8494620c364789a3b) ![](assets/new.png)  
 - [2021-04-16-状态管理的概念，都是纸老虎](https://www.ershicimi.com/p/b1a02cafb93ba5aa7ad3d028e455e5a7) ![](assets/new.png)  
@@ -488,10 +512,6 @@
 - [2021-04-09-5种CSS实现垂直对齐的方法](https://www.ershicimi.com/p/457dfbc57469ce26050daabefa5d67dc) ![](assets/new.png)  
 - [2021-04-08-【阮一峰推荐】学习-vue3-源码的利器](https://www.ershicimi.com/p/39d7b27d9a4b92c2f2c938e4e42cc32e) ![](assets/new.png)  
 - [2021-04-08-要改掉的-10-种-TypeScript-坏习惯](https://www.ershicimi.com/p/352a6055d4f49c412dfb2406db01b63c) ![](assets/new.png)  
-- [2021-04-07-从一道让我失眠的-Promise-面试题深入分析](https://www.ershicimi.com/p/a882238721e496927754052e375ce19e) ![](assets/new.png)  
-- [2021-04-06-面试官：谈谈vue-和-React的异同点](https://www.ershicimi.com/p/c470709c1048e22e61e918990804e5ba) ![](assets/new.png)  
-- [2021-04-06-Vue-3-计划放弃支持-IE11](https://www.ershicimi.com/p/dbf4b5614e1f56f2f5b05b4c2851e600) ![](assets/new.png)  
-- [2021-04-05-TypeScript-4.3-beta-版本正式发布：新增import语句补全，对模板字符串类型进行](https://www.ershicimi.com/p/ffddeab83a1fa40451d9842314bf88bf) ![](assets/new.png)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -976,6 +996,8 @@
 </summary>
 
 
+- [2021-04-20-面包多的「闪电结算」和「面包多支付」吐槽](https://www.v2ex.com/t/771874) ![](assets/new.png)  
+- [2021-04-20-找一个帖子，关于小公司招对方公司催款的-，大概内容是，对方公司拖欠几百万广告费，然后楼主过去加装面试还是啥，进去到财务谈判拿回钱的](https://www.v2ex.com/t/771873) ![](assets/new.png)  
 - [2021-04-20-求助-这段代码错在哪里了？](https://www.v2ex.com/t/771872) ![](assets/new.png)  
 - [2021-04-20-dwm-win32-有没有朋友用过，有几个问题请教？](https://www.v2ex.com/t/771871) ![](assets/new.png)  
 - [2021-04-20-能不能应用密码学，实现授权下的匿名——付费得到授权，但使用过程是匿名的](https://www.v2ex.com/t/771869) ![](assets/new.png)  
@@ -994,8 +1016,6 @@
 - [2021-04-20-分享个学习-node-的网站，看了一些内容挺不错的-https://nodejs.dev/learn](https://www.v2ex.com/t/771851) ![](assets/new.png)  
 - [2021-04-20-上海-莘庄-疏影路-现有一套-3-室-1-厅的房子需要转租，价格-7000。莘庄附近工作的朋友可以看看](https://www.v2ex.com/t/771849) ![](assets/new.png)  
 - [2021-04-20-Telegram-在线播放视频会限速？](https://www.v2ex.com/t/771848) ![](assets/new.png)  
-- [2021-04-20-为什么现在西安的公司大多数都是大小周或者单休，双休的越来越少？](https://www.v2ex.com/t/771846) ![](assets/new.png)  
-- [2021-04-20-求一款高度相似图片去重软件](https://www.v2ex.com/t/771844) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,7 +1077,7 @@
 - [2021-04-20-ElasticSearch-如何使用-TDigest-算法计算亿级数据的百分位数？](https://toutiao.io/k/00svame) ![](assets/new.png)  
 - [2021-04-20-深入剖析共识性算法-Raft](https://toutiao.io/k/125ec1c) ![](assets/new.png)  
 - [2021-04-20-应-“云”-而生的-Java-框架-Quarkus：构建本机可执行文件](https://toutiao.io/k/91729fo) ![](assets/new.png)  
-- [2021-04-20-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-20-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

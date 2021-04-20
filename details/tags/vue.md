@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 04:54:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 05:06:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -40,7 +40,6 @@
 - [2021-04-04-Vue-3-计划放弃支持-IE11；西班牙或成全球首个“每周工作4天”的国家；Windows-95](https://www.ershicimi.com/p/01722c8c69a9c3d9f8ef8aa5cbcad882) 
 - [2021-03-29-手写mini版Vue-+-核心原理解析](https://www.ershicimi.com/p/1fc894d074155083eb42f4b2c092074a) 
 - [2021-04-08-【阮一峰推荐】学习-vue3-源码的利器](https://www.ershicimi.com/p/39d7b27d9a4b92c2f2c938e4e42cc32e) 
-- [2021-04-06-Vue-3-计划放弃支持-IE11](https://www.ershicimi.com/p/dbf4b5614e1f56f2f5b05b4c2851e600) 
 - [2021-03-30-通过自定义-Vue-指令实现前端曝光埋点](https://www.ershicimi.com/p/e3c6fff3197960071292bb4abf5a0c51) 
 - [2021-04-09-前端面试必问Vue-3源码及实现原理，一次搞定](https://www.ershicimi.com/p/c0fb831ffec9b533c7c2c9986c0f6461) 
 - [2021-04-17-Vue开发移动端项目，这个工具对你一定有帮助](https://www.ershicimi.com/p/3645b0ed438008552b9fccc7ce1300a9) 

@@ -20435,6 +20435,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[逸招聘] 欢迎来撩~ 系统软件工程师，支持远程！",
+        "link": "https://www.v2ex.com/t/771987",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[北京]亚马逊，日亚技术团队招 SDE/AppliedScientist",
+        "link": "https://www.v2ex.com/t/771986",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "你们前端团队的单元测试推广的怎么样了",
+        "link": "https://www.v2ex.com/t/771985",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "联想 yoga 14s 锐龙版支持 fTPM 吗？",
+        "link": "https://www.v2ex.com/t/771984",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[广州/深圳]阿里 Lazada 诚招服务端工程师",
+        "link": "https://www.v2ex.com/t/771983",
+        "date": "2021-04-20"
+      },
+      {
         "title": "氢贝工具箱新增图片转表格功能",
         "link": "https://www.v2ex.com/t/771981",
         "date": "2021-04-20"
@@ -20592,31 +20617,6 @@
       {
         "title": "请问 fmt.Fprint(&b, \"Hello World\") 的值 b 为什么需要加& ???",
         "link": "https://www.v2ex.com/t/771939",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "有没有通用的类似于 phpmyadmin 的数据管理软件,但是只管理数据",
-        "link": "https://www.v2ex.com/t/771936",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "我来说说异步框架的最大缺点",
-        "link": "https://www.v2ex.com/t/771935",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[远程或宁波] 30-60K Brickdoc 招聘资深前端/Ruby/全栈",
-        "link": "https://www.v2ex.com/t/771934",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "opencv 识别表面 指针如何确定线段的长度就是每个指针的长度",
-        "link": "https://www.v2ex.com/t/771933",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "我们的聚合广告联盟上线快 1 个月了，说一下成果",
-        "link": "https://www.v2ex.com/t/771932",
         "date": "2021-04-20"
       }
     ]
@@ -20799,13 +20799,13 @@
         "date": "2021-04-20"
       },
       {
-        "title": "“一学就会” 微服务的架构模式：一个服务一个数据库模式（上）",
-        "link": "https://toutiao.io/k/d4tpbr8",
+        "title": "深入剖析共识性算法 Raft",
+        "link": "https://toutiao.io/k/125ec1c",
         "date": "2021-04-20"
       },
       {
-        "title": "深入剖析共识性算法 Raft",
-        "link": "https://toutiao.io/k/125ec1c",
+        "title": "“一学就会” 微服务的架构模式：一个服务一个数据库模式（上）",
+        "link": "https://toutiao.io/k/d4tpbr8",
         "date": "2021-04-20"
       },
       {
@@ -20839,43 +20839,8 @@
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
-        "date": "2021-04-20"
-      },
-      {
         "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
         "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
-        "link": "https://toutiao.io/k/7uw9l2r",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
         "date": "2021-04-20"
       },
       {
@@ -20884,18 +20849,18 @@
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
         "date": "2021-04-20"
       },
       {
         "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
         "link": "https://toutiao.io/k/811or1j",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
         "date": "2021-04-20"
       },
       {
@@ -20909,8 +20874,43 @@
         "date": "2021-04-20"
       },
       {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
+        "link": "https://toutiao.io/k/7uw9l2r",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-20"
+      },
+      {
         "title": "[推荐] 教你从头写游戏服务器框架",
         "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
         "date": "2021-04-20"
       }
     ]

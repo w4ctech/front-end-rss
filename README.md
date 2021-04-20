@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 12:25:10，:rocket: 更新条数: +4250， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 12:44:10，:rocket: 更新条数: +4250， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,11 @@
 </summary>
 
 
+- [2021-04-20-逸招聘-欢迎来撩~-系统软件工程师，支持远程！](https://www.v2ex.com/t/771987) ![](assets/new.png)  
+- [2021-04-20-北京亚马逊，日亚技术团队招-SDE/AppliedScientist](https://www.v2ex.com/t/771986) ![](assets/new.png)  
+- [2021-04-20-你们前端团队的单元测试推广的怎么样了](https://www.v2ex.com/t/771985) ![](assets/new.png)  
+- [2021-04-20-联想-yoga-14s-锐龙版支持-fTPM-吗？](https://www.v2ex.com/t/771984) ![](assets/new.png)  
+- [2021-04-20-广州/深圳阿里-Lazada-诚招服务端工程师](https://www.v2ex.com/t/771983) ![](assets/new.png)  
 - [2021-04-20-氢贝工具箱新增图片转表格功能](https://www.v2ex.com/t/771981) ![](assets/new.png)  
 - [2021-04-20-幻方量化-量化策略研究员-百万年薪是起步](https://www.v2ex.com/t/771980) ![](assets/new.png)  
 - [2021-04-20-想找一些相互-push-的前端朋友一起学习~](https://www.v2ex.com/t/771979) ![](assets/new.png)  
@@ -1011,11 +1016,6 @@
 - [2021-04-20-迫于想玩玩-NAS,求推荐黑-NAS-的组建方法](https://www.v2ex.com/t/771965) ![](assets/new.png)  
 - [2021-04-20-北京内推-贝壳找房-用户画像团队招聘-Java-工程师,提供转大数据研发机会](https://www.v2ex.com/t/771962) ![](assets/new.png)  
 - [2021-04-20-concurrentHashMap-为什么是-CAS+Sychronized-保障线程安全？](https://www.v2ex.com/t/771961) ![](assets/new.png)  
-- [2021-04-20-和大家交流一下现在有没有开源的项目，类似-navicat15-中通过托拉拽图标生成-sql-语句的功能。](https://www.v2ex.com/t/771959) ![](assets/new.png)  
-- [2021-04-20-电信出口扩容以后，部分国际精品网速度还不如普通网？](https://www.v2ex.com/t/771958) ![](assets/new.png)  
-- [2021-04-20-深圳组内直招15-40kDJI-大疆创新招聘中/高级运维开发工程师-诚挚邀请各位来看看](https://www.v2ex.com/t/771957) ![](assets/new.png)  
-- [2021-04-20-windows-上有没有通过快捷键来执行多个快捷键的软件？](https://www.v2ex.com/t/771956) ![](assets/new.png)  
-- [2021-04-20-发现了微信的小心机](https://www.v2ex.com/t/771955) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1071,8 +1071,8 @@
 - [2021-04-20-最清晰易懂的-Go-sync.WaitGroup-剖析](https://toutiao.io/k/rl2pa2q) ![](assets/new.png)  
 - [2021-04-20-译-每个-Apache-Kafka-开发者都应该知道的-5-件事](https://toutiao.io/k/n0kbg7d) ![](assets/new.png)  
 - [2021-04-20-深入-AQS-源码，搞懂核心思想](https://toutiao.io/k/2se9osh) ![](assets/new.png)  
-- [2021-04-20-“一学就会”-微服务的架构模式：一个服务一个数据库模式（上）](https://toutiao.io/k/d4tpbr8) ![](assets/new.png)  
 - [2021-04-20-深入剖析共识性算法-Raft](https://toutiao.io/k/125ec1c) ![](assets/new.png)  
+- [2021-04-20-“一学就会”-微服务的架构模式：一个服务一个数据库模式（上）](https://toutiao.io/k/d4tpbr8) ![](assets/new.png)  
 - [2021-04-20-微信小程序接口自动化的实现方案](https://toutiao.io/k/96r3jin) ![](assets/new.png)  
 - [2021-04-20-工具-|-百度开源的函数计算服务引擎](https://toutiao.io/k/uoj7sne) ![](assets/new.png)  
 - [2021-04-20-应-"云"-而生的-Java-框架-Quarkus：构建本机可执行文件](https://toutiao.io/k/91729fo) ![](assets/new.png)  

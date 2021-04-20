@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-04-20 12:25:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 12:44:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-20-逸招聘-欢迎来撩~-系统软件工程师，支持远程！](https://www.v2ex.com/t/771987) 
+- [2021-04-20-北京亚马逊，日亚技术团队招-SDE/AppliedScientist](https://www.v2ex.com/t/771986) 
+- [2021-04-20-你们前端团队的单元测试推广的怎么样了](https://www.v2ex.com/t/771985) 
+- [2021-04-20-联想-yoga-14s-锐龙版支持-fTPM-吗？](https://www.v2ex.com/t/771984) 
+- [2021-04-20-广州/深圳阿里-Lazada-诚招服务端工程师](https://www.v2ex.com/t/771983) 
 - [2021-04-20-氢贝工具箱新增图片转表格功能](https://www.v2ex.com/t/771981) 
 - [2021-04-20-幻方量化-量化策略研究员-百万年薪是起步](https://www.v2ex.com/t/771980) 
 - [2021-04-20-想找一些相互-push-的前端朋友一起学习~](https://www.v2ex.com/t/771979) 
@@ -37,8 +42,3 @@
 - [2021-04-20-AirTags-大家会买不](https://www.v2ex.com/t/771942) 
 - [2021-04-20-请教两个问题，关于类成员赋初值和-std::vector-的-pushback方法与移动构造](https://www.v2ex.com/t/771941) 
 - [2021-04-20-请问-fmt.Fprint&b,-"Hello-World"-的值-b-为什么需要加&-???](https://www.v2ex.com/t/771939) 
-- [2021-04-20-有没有通用的类似于-phpmyadmin-的数据管理软件,但是只管理数据](https://www.v2ex.com/t/771936) 
-- [2021-04-20-我来说说异步框架的最大缺点](https://www.v2ex.com/t/771935) 
-- [2021-04-20-远程或宁波-30-60K-Brickdoc-招聘资深前端/Ruby/全栈](https://www.v2ex.com/t/771934) 
-- [2021-04-20-opencv-识别表面-指针如何确定线段的长度就是每个指针的长度](https://www.v2ex.com/t/771933) 
-- [2021-04-20-我们的聚合广告联盟上线快-1-个月了，说一下成果](https://www.v2ex.com/t/771932) 

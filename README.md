@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 08:52:32，:rocket: 更新条数: +4252， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 09:03:15，:rocket: 更新条数: +4252， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-20-DBA-行业是否将会消亡？](https://www.v2ex.com/t/771944) ![](assets/new.png)  
 - [2021-04-20-有没有用-deepin-系统的老哥，这系统要求的硬盘空间怎么这么大](https://www.v2ex.com/t/771943) ![](assets/new.png)  
 - [2021-04-20-AirTags-大家会买不](https://www.v2ex.com/t/771942) ![](assets/new.png)  
 - [2021-04-20-请教两个问题，关于类成员赋初值和-std::vector-的-pushback方法与移动构造](https://www.v2ex.com/t/771941) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-20-电商运营时的一些规则配置，有没有专门设置一个技术团队来配合？](https://www.v2ex.com/t/771921) ![](assets/new.png)  
 - [2021-04-20-AdGuard-国区下架了吗？](https://www.v2ex.com/t/771920) ![](assets/new.png)  
 - [2021-04-20-数据库操作状态的问题](https://www.v2ex.com/t/771919) ![](assets/new.png)  
-- [2021-04-20-上海-组内直推大量前端岗位](https://www.v2ex.com/t/771918) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1070,8 +1070,8 @@
 - [2021-04-20-OLAP-分析引擎，基于-Druid-组件数据统计分析](https://toutiao.io/k/3qw931q) ![](assets/new.png)  
 - [2021-04-20-最清晰易懂的-Go-sync.WaitGroup-剖析](https://toutiao.io/k/rl2pa2q) ![](assets/new.png)  
 - [2021-04-20-译-每个-Apache-Kafka-开发者都应该知道的-5-件事](https://toutiao.io/k/n0kbg7d) ![](assets/new.png)  
-- [2021-04-20-微信小程序接口自动化的实现方案](https://toutiao.io/k/96r3jin) ![](assets/new.png)  
 - [2021-04-20-深入-AQS-源码，搞懂核心思想](https://toutiao.io/k/2se9osh) ![](assets/new.png)  
+- [2021-04-20-微信小程序接口自动化的实现方案](https://toutiao.io/k/96r3jin) ![](assets/new.png)  
 - [2021-04-20-“一学就会”-微服务的架构模式：一个服务一个数据库模式（上）](https://toutiao.io/k/d4tpbr8) ![](assets/new.png)  
 - [2021-04-20-工具-|-百度开源的函数计算服务引擎](https://toutiao.io/k/uoj7sne) ![](assets/new.png)  
 - [2021-04-20-深入剖析共识性算法-Raft](https://toutiao.io/k/125ec1c) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 21:37:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 21:50:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -310,15 +310,16 @@
 - [2021-04-20-“一学就会”-微服务的架构模式：一个服务一个数据库模式（上）](https://toutiao.io/k/d4tpbr8) 
 - [2021-04-20-工具-|-百度开源的函数计算服务引擎](https://toutiao.io/k/uoj7sne) 
 - [2021-04-20-AI-入行那些事儿（十）：人工智能的应用领域](https://toutiao.io/k/5qw1645) 
-- [2021-04-20-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
-- [2021-04-20-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
 - [2021-04-20-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
+- [2021-04-20-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
+- [2021-04-20-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
+- [2021-04-20-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
+- [2021-04-20-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
 - [2021-04-20-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
 - [2021-04-20-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
-- [2021-04-20-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
-- [2021-04-20-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
 - [2021-04-20-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
 - [2021-04-20-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) 
+- [2021-04-20-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
 - [2021-04-20-【技术分享】CVE-2021-26295-Apache-OFBiz-反序列化分析](https://sec.thief.one/article_content?a_id=084244baf3ea886c3f12f5cbfbcf4951) 
 - [2021-04-20-大事预告,周日开启!](https://sec.thief.one/article_content?a_id=1aa33641795e269e13bef3d719db8088) 
 - [2021-04-20-一篇文章带你读懂-TLS-Poison-攻击四](https://sec.thief.one/article_content?a_id=7f05e2b3afa51531deeb5b5b7409720f) 

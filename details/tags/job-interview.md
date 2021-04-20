@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 08:03:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 08:24:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -31,6 +31,5 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-04-18-面试过程中，竟然遇到PUA，我不得不服这种“潜规则”～](https://www.ershicimi.com/p/3d61488bb0d160821d4ec6bc1361ebb6) 
 - [2021-04-20-广州海珠内推-致景科技---百布事业线招聘前端-Web-开发](https://www.v2ex.com/t/771906) 
-- [2021-04-20-广州海珠内推-致景科技---百布事业线招聘-Java-开发/架构](https://www.v2ex.com/t/771887) 
 - [2021-04-20-面试官：说说什么是-Java-内存模型？](https://toutiao.io/k/ai4cybd) 
 - [2021-04-16-【招聘】苏州极光无限信息技术有限公司](https://sec.thief.one/article_content?a_id=e2f51a3b7008367a0633bbcdbc0748bf) 

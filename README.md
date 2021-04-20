@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 22:03:16，:rocket: 更新条数: +748， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 22:24:37，:rocket: 更新条数: +748， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-20-CapsLockX---像黑客一样操作电脑](https://www.v2ex.com/t/772052) ![](assets/new.png)  
+- [2021-04-20-预测一下-rMBP-将来的尺寸](https://www.v2ex.com/t/772050) ![](assets/new.png)  
 - [2021-04-20-心水新-iMac-附带那个键盘，如果能单独购买就好啦](https://www.v2ex.com/t/772049) ![](assets/new.png)  
 - [2021-04-20-谈谈-RustDesk-开源的一点感受](https://www.v2ex.com/t/772047) ![](assets/new.png)  
 - [2021-04-20--Apple-2021-春季发布会汇总](https://www.v2ex.com/t/772046) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-20-Apple-Store-里的机器是不是特别调过亮度？](https://www.v2ex.com/t/772028) ![](assets/new.png)  
 - [2021-04-20-zhuzhezhe-你还在吗？](https://www.v2ex.com/t/772027) ![](assets/new.png)  
 - [2021-04-20-纯静态网页如何避免被扒站.html、.js-和-.css-文件？](https://www.v2ex.com/t/772026) ![](assets/new.png)  
-- [2021-04-20-钉钉管理员能看到员工间的互相查看记录吗？](https://www.v2ex.com/t/772024) ![](assets/new.png)  
-- [2021-04-20-全球首款消费级-Linux-平板-JingPad-A1-视频已发布](https://www.v2ex.com/t/772023) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

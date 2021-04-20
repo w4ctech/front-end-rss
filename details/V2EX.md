@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-20 22:03:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 22:24:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-20-CapsLockX---像黑客一样操作电脑](https://www.v2ex.com/t/772052) 
+- [2021-04-20-预测一下-rMBP-将来的尺寸](https://www.v2ex.com/t/772050) 
 - [2021-04-20-心水新-iMac-附带那个键盘，如果能单独购买就好啦](https://www.v2ex.com/t/772049) 
 - [2021-04-20-谈谈-RustDesk-开源的一点感受](https://www.v2ex.com/t/772047) 
 - [2021-04-20--Apple-2021-春季发布会汇总](https://www.v2ex.com/t/772046) 
@@ -40,5 +42,3 @@
 - [2021-04-20-想买一台新的笔记本电脑，在考虑-MacBook.](https://www.v2ex.com/t/772005) 
 - [2021-04-20-电报和-discord-两个聊天平台，在使用体验上有什么想说的。大家日常中哪个玩耍的时长久。](https://www.v2ex.com/t/772004) 
 - [2021-04-20-关于-Python-中-os-模块怎么获取环境变量的问题](https://www.v2ex.com/t/772003) 
-- [2021-04-20-有没有这么一款充电器](https://www.v2ex.com/t/772001) 
-- [2021-04-20-Magisk-如何对单个-apk-文件内部的文件进行替换?](https://www.v2ex.com/t/772000) 

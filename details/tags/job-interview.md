@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 14:03:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 14:24:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -30,5 +30,4 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-04-18-面试过程中，竟然遇到PUA，我不得不服这种“潜规则”～](https://www.ershicimi.com/p/3d61488bb0d160821d4ec6bc1361ebb6) 
 - [2021-04-20-逸招聘-欢迎来撩~-系统软件工程师，支持远程！](https://www.v2ex.com/t/771987) 
-- [2021-04-20-北京内推-贝壳找房-用户画像团队招聘-Java-工程师,提供转大数据研发机会](https://www.v2ex.com/t/771962) 
 - [2021-04-20-面试官：说说什么是-Java-内存模型？](https://toutiao.io/k/ai4cybd) 

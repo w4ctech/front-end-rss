@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 14:03:18，:rocket: 更新条数: +728， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 14:24:05，:rocket: 更新条数: +729， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -976,6 +976,13 @@
 </summary>
 
 
+- [2021-04-20-收到了一封声称是来自-Cloudflare-的邮件，不知是真是假](https://www.v2ex.com/t/772016) ![](assets/new.png)  
+- [2021-04-20-Picsee---看图-&-截图-1.2.8-更新-现免费](https://www.v2ex.com/t/772015) ![](assets/new.png)  
+- [2021-04-20-深度学习-1660s-AMP-加速问题](https://www.v2ex.com/t/772013) ![](assets/new.png)  
+- [2021-04-20-迫于小孩出生-求大家帮取名](https://www.v2ex.com/t/772012) ![](assets/new.png)  
+- [2021-04-20-这个公司属于外包吗，怎么定义外包](https://www.v2ex.com/t/772010) ![](assets/new.png)  
+- [2021-04-20-如何能检测-Nginx-实际配置变更和配置变更备注的等价性？](https://www.v2ex.com/t/772009) ![](assets/new.png)  
+- [2021-04-20-四川电信出了个游戏宽带加速包，-ICMP-出国都内网直接穿透到目的地国家，-TCP-路由没变化](https://www.v2ex.com/t/772008) ![](assets/new.png)  
 - [2021-04-20-MBP-2018-外接显示器突然无法使用了。。](https://www.v2ex.com/t/772006) ![](assets/new.png)  
 - [2021-04-20-想买一台新的笔记本电脑，在考虑-MacBook.](https://www.v2ex.com/t/772005) ![](assets/new.png)  
 - [2021-04-20-电报和-discord-两个聊天平台，在使用体验上有什么想说的。大家日常中哪个玩耍的时长久。](https://www.v2ex.com/t/772004) ![](assets/new.png)  
@@ -989,13 +996,6 @@
 - [2021-04-20-js-里的正则怎么像-Python-的-re-用保留需要的字段？](https://www.v2ex.com/t/771994) ![](assets/new.png)  
 - [2021-04-20-传统行业（与设计无关）想转行做-UI-设计，线上培训班靠谱吗？如果靠谱的话，求推荐。](https://www.v2ex.com/t/771991) ![](assets/new.png)  
 - [2021-04-20-SSD-突然变成只读，且无法挂载文件系统，如何处理？](https://www.v2ex.com/t/771990) ![](assets/new.png)  
-- [2021-04-20-提问如何在一个包内一次性加载模块](https://www.v2ex.com/t/771989) ![](assets/new.png)  
-- [2021-04-20-怎么阅读-Ventoy-的源码,-该去找那些资料](https://www.v2ex.com/t/771988) ![](assets/new.png)  
-- [2021-04-20-逸招聘-欢迎来撩~-系统软件工程师，支持远程！](https://www.v2ex.com/t/771987) ![](assets/new.png)  
-- [2021-04-20-北京亚马逊，日亚技术团队招-SDE/AppliedScientist](https://www.v2ex.com/t/771986) ![](assets/new.png)  
-- [2021-04-20-你们前端团队的单元测试推广的怎么样了](https://www.v2ex.com/t/771985) ![](assets/new.png)  
-- [2021-04-20-联想-yoga-14s-锐龙版支持-fTPM-吗？](https://www.v2ex.com/t/771984) ![](assets/new.png)  
-- [2021-04-20-广州/深圳阿里-Lazada-诚招服务端工程师](https://www.v2ex.com/t/771983) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

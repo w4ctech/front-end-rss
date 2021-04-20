@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-20 14:03:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 14:24:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -235,6 +235,7 @@
 
 
 - [【前端大全】关于从入门-three.js-到做出-3d-地球这件事通俗易懂的入门](https://www.ershicimi.com/p/158769aa3fe41cbce92bdbdc146dad38)
+- [【V2EX】四川电信出了个游戏宽带加速包，-ICMP-出国都内网直接穿透到目的地国家，-TCP-路由没变化](https://www.v2ex.com/t/772008)
 - [【技术头条】想多人游戏？那你还不看看它！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14294&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】想多人游戏？那你还不看看它！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14293&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i)
@@ -386,7 +387,6 @@
 - [【奇舞周刊】2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152)
 - [【V2EX】提问如何在一个包内一次性加载模块](https://www.v2ex.com/t/771989)
 - [【开发者头条】测试应用启动性能](https://toutiao.io/k/bbqdske)
-- [【开发者头条】推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r)
 - [【物联网智库】大人，时代变了！英伟达推出ARM架构CPU，性能10倍领先](https://www.ershicimi.com/p/874901238abc4822eb2940f07fdc57a8)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -419,8 +419,8 @@
 - [【JavaScript】Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715)
 - [【V2EX】Nginx-在同一-vhost-的同一-server-内，想代理完全相同的-url-的后端盖怎么做？](https://www.v2ex.com/t/771997)
 - [【V2EX】北京亚马逊，日亚技术团队招-SDE/AppliedScientist](https://www.v2ex.com/t/771986)
-- [【V2EX】concurrentHashMap-为什么是-CAS+Sychronized-保障线程安全？](https://www.v2ex.com/t/771961)
 - [【开发者头条】代码审查-Code-Review-的本质](https://toutiao.io/k/xqvnsdu)
+- [【开发者头条】推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo)
 - [【安全热点】FreeBuf安全运营系列公开课丨SIEM&SOC产品研究与测试报告解...](https://sec.thief.one/article_content?a_id=111a97d2af5c2e0cbd9e738dd4afd3d5)
 - [【安全热点】宿州市委网信办领导莅临宁波绿盟智慧城市安全运营中心调研指导](https://sec.thief.one/article_content?a_id=d304bb3865faf42c7a84436893dbfe2e)
 - [【安全热点】【福利放送】《内生安全:新一代网络安全框架体系与实践》](https://sec.thief.one/article_content?a_id=7afa8577f205eaa14ef593b14d4920a9)
@@ -466,7 +466,7 @@
 
 
 
-- [【开发者头条】推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1)
+- [【V2EX】如何能检测-Nginx-实际配置变更和配置变更备注的等价性？](https://www.v2ex.com/t/772009)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 17:31:14，:rocket: 更新条数: +4249， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 17:47:14，:rocket: 更新条数: +4239， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -658,16 +658,6 @@
 </summary>
 
 
-- [2021-04-18-腾讯开源的酷炫动画播放解决方案Vap初体验](https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/) ![](assets/new.png)  
-- [2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) ![](assets/new.png)  
-- [2021-03-30-分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/) ![](assets/new.png)  
-- [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) ![](assets/new.png)  
-- [2021-03-14-CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/) ![](assets/new.png)  
-- [2021-02-18-使用CSS-text-combine-upright实现字符的横向合并](https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/) ![](assets/new.png)  
-- [2021-02-18-CSS-line-break属性与中文标点换行](https://www.zhangxinxu.com/wordpress/2021/02/css-line-break/) ![](assets/new.png)  
-- [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) ![](assets/new.png)  
-- [2021-02-17-好消息，CSS-text-underline-offset可以用起来了](https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset/) ![](assets/new.png)  
-- [2021-02-16-CSS-::marker伪元素简介](https://www.zhangxinxu.com/wordpress/2021/02/css-marker-pseudo-element/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +986,10 @@
 </summary>
 
 
+- [2021-04-20-大家在学新东西的时候状态是怎样的，最近感觉自己忘的也太快了点](https://www.v2ex.com/t/772039) ![](assets/new.png)  
+- [2021-04-20-M1-in-iPad-Pro-这操作。](https://www.v2ex.com/t/772038) ![](assets/new.png)  
+- [2021-04-20-一个关于电信-ipv6-端口的玄学问题](https://www.v2ex.com/t/772037) ![](assets/new.png)  
+- [2021-04-20-iPad-pro-搭载-m1](https://www.v2ex.com/t/772036) ![](assets/new.png)  
 - [2021-04-20-Airtags-发布，一个-29-刀-4-个-99-刀](https://www.v2ex.com/t/772035) ![](assets/new.png)  
 - [2021-04-20-8-瓶水-2-瓶有毒-6-个耗子-的解](https://www.v2ex.com/t/772034) ![](assets/new.png)  
 - [2021-04-20-假期出行，租车哪家好？（神州、一嗨、悟空...-请你补充-）](https://www.v2ex.com/t/772033) ![](assets/new.png)  
@@ -1012,10 +1006,6 @@
 - [2021-04-20-收到了一封声称是来自-Cloudflare-的邮件，不知是真是假](https://www.v2ex.com/t/772016) ![](assets/new.png)  
 - [2021-04-20-Picsee---看图-&-截图-1.2.8-更新-现免费](https://www.v2ex.com/t/772015) ![](assets/new.png)  
 - [2021-04-20-深度学习-1660s-AMP-加速问题](https://www.v2ex.com/t/772013) ![](assets/new.png)  
-- [2021-04-20-这个公司属于外包吗，怎么定义外包](https://www.v2ex.com/t/772010) ![](assets/new.png)  
-- [2021-04-20-如何能检测-Nginx-实际配置变更和配置变更备注的等价性？](https://www.v2ex.com/t/772009) ![](assets/new.png)  
-- [2021-04-20-四川电信出了个游戏宽带加速包，-ICMP-出国都内网直接穿透到目的地国家，-TCP-路由没变化](https://www.v2ex.com/t/772008) ![](assets/new.png)  
-- [2021-04-20-MBP-2018-外接显示器突然无法使用了。。](https://www.v2ex.com/t/772006) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

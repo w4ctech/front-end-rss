@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 17:31:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 17:47:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,7 +29,6 @@
 - [2021-03-09-那些与-IE-相伴的日子](https://www.ershicimi.com/p/d9c911d3c0835bf8f9743b70add1478c) 
 - [2021-04-12-面试官问：如何拆解URL参数中queryString](https://www.ershicimi.com/p/7fd84a061b29b9967d0c8885736c64b5) 
 - [2021-04-15-CORS-完全手册之-CORS-详解](https://www.ershicimi.com/p/4611dd35ef482198b814deea154312b2) 
-- [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2021-04-08-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/9e0a0e7b6559752b7a0a05ada834fad8) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
@@ -37,7 +36,6 @@
 - [2021-04-19-中原银行分布式缓存实践](https://www.ershicimi.com/p/40bb39493b040f7e21e1a890ca14dcfa) 
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
 - [2021-04-20-Nginx-在同一-vhost-的同一-server-内，想代理完全相同的-url-的后端盖怎么做？](https://www.v2ex.com/t/771997) 
-- [2021-04-20-北京亚马逊，日亚技术团队招-SDE/AppliedScientist](https://www.v2ex.com/t/771986) 
 - [2021-04-20-代码审查-Code-Review-的本质](https://toutiao.io/k/xqvnsdu) 
 - [2021-04-20-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-20-FreeBuf安全运营系列公开课丨SIEM&SOC产品研究与测试报告解...](https://sec.thief.one/article_content?a_id=111a97d2af5c2e0cbd9e738dd4afd3d5) 

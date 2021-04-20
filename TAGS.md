@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-20 17:31:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 17:47:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -301,12 +301,6 @@
 - [【全栈前端精选】有意思！CSS-文字装饰还能这样玩~](https://www.ershicimi.com/p/c74a3fb5c15e7db04c2e0a17f9d5ab35)
 - [【全栈前端精选】5种CSS实现垂直对齐的方法](https://www.ershicimi.com/p/457dfbc57469ce26050daabefa5d67dc)
 - [【前端宇宙】有意思！CSS-文字装饰还能这样玩~](https://www.ershicimi.com/p/91dc292ddedb4baa1883a480d476bbf0)
-- [【张鑫旭-鑫空间-鑫生活】腾讯开源的酷炫动画播放解决方案Vap初体验](https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/)
-- [【张鑫旭-鑫空间-鑫生活】CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/)
-- [【张鑫旭-鑫空间-鑫生活】使用CSS-text-combine-upright实现字符的横向合并](https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/)
-- [【张鑫旭-鑫空间-鑫生活】CSS-line-break属性与中文标点换行](https://www.zhangxinxu.com/wordpress/2021/02/css-line-break/)
-- [【张鑫旭-鑫空间-鑫生活】好消息，CSS-text-underline-offset可以用起来了](https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset/)
-- [【张鑫旭-鑫空间-鑫生活】CSS-::marker伪元素简介](https://www.zhangxinxu.com/wordpress/2021/02/css-marker-pseudo-element/)
 - [【奇舞周刊】不会吧，你还不知道这些检查-CSS-的工具？？？](https://www.ershicimi.com/p/f868d4fa1ad5518cd482f7225c4b58de)
 - [【前端e进阶】对-Chrome-Headless-渲染的极致优化](https://www.ershicimi.com/p/750cc36a62dc2f4be88144714fde4887)
 - [【JavaScript】大厂都在做serverless，他到底是什么？](https://www.ershicimi.com/p/133280d357c2d7f18d0cc925d6df078f)
@@ -387,7 +381,6 @@
 - [【前端早读课】【第2249期】美团民宿性能优化实践](https://www.ershicimi.com/p/050c3b96cb505971bf5d55d4944c6d44)
 - [【程序员成长指北】送书+红包-阿里云专家基于5年一线大厂Web性能优化经验分享书籍](https://www.ershicimi.com/p/7e5d025b87d90b68e57fae7c71dbacbd)
 - [【奇舞周刊】2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152)
-- [【V2EX】提问如何在一个包内一次性加载模块](https://www.v2ex.com/t/771989)
 - [【开发者头条】测试应用启动性能](https://toutiao.io/k/bbqdske)
 - [【开发者头条】推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r)
 - [【物联网智库】大人，时代变了！英伟达推出ARM架构CPU，性能10倍领先](https://www.ershicimi.com/p/874901238abc4822eb2940f07fdc57a8)
@@ -470,7 +463,6 @@
 
 
 - [【V2EX】如何能检测-Nginx-实际配置变更和配置变更备注的等价性？](https://www.v2ex.com/t/772009)
-- [【开发者头条】推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -493,8 +485,8 @@
 - [【JavaScript】Atom-1.56.0-发布，GitHub-官方文本编辑器](https://www.ershicimi.com/p/c35fb03a8c5fe27e9d8bfcb139d2a679)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
 - [【开发者头条】推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y)
+- [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
 - [【安全热点】【漏洞通告】Gitlab多个高危漏洞](https://sec.thief.one/article_content?a_id=806eeee256d4b6d632dd24672eaf0e23)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

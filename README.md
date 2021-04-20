@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 06:03:28，:rocket: 更新条数: +4246， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 06:24:22，:rocket: 更新条数: +4248， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,14 @@
 </summary>
 
 
+- [2021-04-20-迫于吃鸡，收个-UU-加速器。仅需要-PC-端](https://www.v2ex.com/t/771894) ![](assets/new.png)  
+- [2021-04-20-Python-开发规范](https://www.v2ex.com/t/771893) ![](assets/new.png)  
+- [2021-04-20-企业路由分流问题请教各位-IE-大佬](https://www.v2ex.com/t/771892) ![](assets/new.png)  
+- [2021-04-20-宝安坪洲，求租一个两室一厅](https://www.v2ex.com/t/771891) ![](assets/new.png)  
+- [2021-04-20-关于-Java-垃圾回收的问题](https://www.v2ex.com/t/771890) ![](assets/new.png)  
+- [2021-04-20-不开翻墙上不来-V2EX-了-，你们都开翻墙了吗](https://www.v2ex.com/t/771889) ![](assets/new.png)  
+- [2021-04-20-北京掌上先机给了-15k（只有话补助），杭州海康威视给了-11k（福利多，每餐-15-补助，本科一年给一万（持续三年）），那个比较好。](https://www.v2ex.com/t/771888) ![](assets/new.png)  
+- [2021-04-20-广州海珠内推-致景科技---百布事业线招聘-Java-开发/架构](https://www.v2ex.com/t/771887) ![](assets/new.png)  
 - [2021-04-20-北京-内推｜探探｜后端-前端-客户端-UI-策划-等岗位](https://www.v2ex.com/t/771886) ![](assets/new.png)  
 - [2021-04-20-现在-pyenv-怎么装呀](https://www.v2ex.com/t/771885) ![](assets/new.png)  
 - [2021-04-20-感兴趣的同学瞅瞅-蚂蚁招人了-真海量-HC~](https://www.v2ex.com/t/771884) ![](assets/new.png)  
@@ -1008,14 +1016,6 @@
 - [2021-04-20-求助-这段代码错在哪里了？](https://www.v2ex.com/t/771872) ![](assets/new.png)  
 - [2021-04-20-dwm-win32-有没有朋友用过，有几个问题请教？](https://www.v2ex.com/t/771871) ![](assets/new.png)  
 - [2021-04-20-能不能应用密码学，实现授权下的匿名——付费得到授权，但使用过程是匿名的](https://www.v2ex.com/t/771869) ![](assets/new.png)  
-- [2021-04-20-分享一下“低温水浴”这个做菜方法](https://www.v2ex.com/t/771868) ![](assets/new.png)  
-- [2021-04-20-不是说-Mac-上-Edge-比-Chrome-内存占用小吗，请大家帮忙看看我的例外？](https://www.v2ex.com/t/771866) ![](assets/new.png)  
-- [2021-04-20-北京龙泽地铁站附近有没有比较浪漫有情调的餐厅？推荐推荐](https://www.v2ex.com/t/771865) ![](assets/new.png)  
-- [2021-04-20-翻译了-Golang-官方的开发者调研报告，值得一看](https://www.v2ex.com/t/771864) ![](assets/new.png)  
-- [2021-04-20-在物联网中经常会使用的-MTQQ-等技术来进行信息通讯，那么如何让同样消息类型不同的数据结构兼容不同版本的客户端？](https://www.v2ex.com/t/771863) ![](assets/new.png)  
-- [2021-04-20-这两种表设计,-用哪种好?](https://www.v2ex.com/t/771862) ![](assets/new.png)  
-- [2021-04-20-有没有人了解“数据集成Data-Integration”这个方向吗](https://www.v2ex.com/t/771861) ![](assets/new.png)  
-- [2021-04-20-刚入职想离职了，准备去外企](https://www.v2ex.com/t/771859) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,15 +1069,15 @@
 - [2021-04-20-“改造”-VS-Code-编辑器，一起写个插件吧](https://toutiao.io/k/cjkpkjl) ![](assets/new.png)  
 - [2021-04-20-OLAP-分析引擎，基于-Druid-组件数据统计分析](https://toutiao.io/k/3qw931q) ![](assets/new.png)  
 - [2021-04-20-译-每个-Apache-Kafka-开发者都应该知道的-5-件事](https://toutiao.io/k/n0kbg7d) ![](assets/new.png)  
-- [2021-04-20-微信小程序接口自动化的实现方案](https://toutiao.io/k/96r3jin) ![](assets/new.png)  
 - [2021-04-20-最清晰易懂的-Go-sync.WaitGroup-剖析](https://toutiao.io/k/rl2pa2q) ![](assets/new.png)  
+- [2021-04-20-微信小程序接口自动化的实现方案](https://toutiao.io/k/96r3jin) ![](assets/new.png)  
 - [2021-04-20-深入-AQS-源码，搞懂核心思想](https://toutiao.io/k/2se9osh) ![](assets/new.png)  
 - [2021-04-20-“一学就会”-微服务的架构模式：一个服务一个数据库模式（上）](https://toutiao.io/k/d4tpbr8) ![](assets/new.png)  
 - [2021-04-20-工具-|-百度开源的函数计算服务引擎](https://toutiao.io/k/uoj7sne) ![](assets/new.png)  
 - [2021-04-20-深入剖析共识性算法-Raft](https://toutiao.io/k/125ec1c) ![](assets/new.png)  
 - [2021-04-20-应-"云"-而生的-Java-框架-Quarkus：构建本机可执行文件](https://toutiao.io/k/91729fo) ![](assets/new.png)  
 - [2021-04-20-ElasticSearch-如何使用-TDigest-算法计算亿级数据的百分位数？](https://toutiao.io/k/00svame) ![](assets/new.png)  
-- [2021-04-20-面试官：说说什么是-Java-内存模型？](https://toutiao.io/k/ai4cybd) ![](assets/new.png)  
+- [2021-04-20-AI-入行那些事儿（十）：人工智能的应用领域](https://toutiao.io/k/5qw1645) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

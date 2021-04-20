@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 14:50:04，:rocket: 更新条数: +4250， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 15:03:07，:rocket: 更新条数: +4250， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-20-上海/北京/杭州/武汉社招/校招/实习抖音电商四月冲鸭，进面有红包后端开发工程师](https://www.v2ex.com/t/772020) ![](assets/new.png)  
 - [2021-04-20-Seagate-磁盘在-macOS-Big-Sur-上无法挂载，但在-Android-手机上可以正常挂载读取写入。](https://www.v2ex.com/t/772019) ![](assets/new.png)  
 - [2021-04-20-广州上社和棠下怎么租房子便宜](https://www.v2ex.com/t/772017) ![](assets/new.png)  
 - [2021-04-20-收到了一封声称是来自-Cloudflare-的邮件，不知是真是假](https://www.v2ex.com/t/772016) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-20-Swift-为什么要区分协议的关联类型与类的泛型？](https://www.v2ex.com/t/771996) ![](assets/new.png)  
 - [2021-04-20-发现了一个-12306-的问题](https://www.v2ex.com/t/771995) ![](assets/new.png)  
 - [2021-04-20-js-里的正则怎么像-Python-的-re-用保留需要的字段？](https://www.v2ex.com/t/771994) ![](assets/new.png)  
-- [2021-04-20-传统行业（与设计无关）想转行做-UI-设计，线上培训班靠谱吗？如果靠谱的话，求推荐。](https://www.v2ex.com/t/771991) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

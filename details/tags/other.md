@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 03:40:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 03:53:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3443,14 +3443,14 @@
 - [2021-04-20-最清晰易懂的-Go-sync.WaitGroup-剖析](https://toutiao.io/k/rl2pa2q) 
 - [2021-04-20-工具-|-百度开源的函数计算服务引擎](https://toutiao.io/k/uoj7sne) 
 - [2021-04-20-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
-- [2021-04-20-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
-- [2021-04-20-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
+- [2021-04-20-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
 - [2021-04-20-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) 
-- [2021-04-20-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
-- [2021-04-20-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
-- [2021-04-20-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
-- [2021-04-20-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
+- [2021-04-20-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
 - [2021-04-20-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) 
+- [2021-04-20-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) 
+- [2021-04-20-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) 
+- [2021-04-20-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
+- [2021-04-20-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) 
 - [2021-04-20-快递公司泄露公民信息?竟是“内鬼”与境外诈骗组织搭伙所为](https://sec.thief.one/article_content?a_id=1a9704e31c039d71737e346fb3837807) 
 - [2021-04-19-CNNVD-关于微信Windows客户端远程代码执行漏洞的预警](https://sec.thief.one/article_content?a_id=352d960ae99698bbbe06c0e5b06a4e94) 
 - [2021-04-19-神奇的一行代码,让-Python-轻松跑赢-C++](https://sec.thief.one/article_content?a_id=f485194776de5519c763cb47e80a170c) 

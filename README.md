@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 05:06:20，:rocket: 更新条数: +4245， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 05:23:57，:rocket: 更新条数: +4243， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1070,14 +1070,14 @@
 - [2021-04-20-OLAP-分析引擎，基于-Druid-组件数据统计分析](https://toutiao.io/k/3qw931q) ![](assets/new.png)  
 - [2021-04-20-译-每个-Apache-Kafka-开发者都应该知道的-5-件事](https://toutiao.io/k/n0kbg7d) ![](assets/new.png)  
 - [2021-04-20-微信小程序接口自动化的实现方案](https://toutiao.io/k/96r3jin) ![](assets/new.png)  
+- [2021-04-20-最清晰易懂的-Go-sync.WaitGroup-剖析](https://toutiao.io/k/rl2pa2q) ![](assets/new.png)  
 - [2021-04-20-深入-AQS-源码，搞懂核心思想](https://toutiao.io/k/2se9osh) ![](assets/new.png)  
 - [2021-04-20-“一学就会”-微服务的架构模式：一个服务一个数据库模式（上）](https://toutiao.io/k/d4tpbr8) ![](assets/new.png)  
-- [2021-04-20-最清晰易懂的-Go-sync.WaitGroup-剖析](https://toutiao.io/k/rl2pa2q) ![](assets/new.png)  
 - [2021-04-20-工具-|-百度开源的函数计算服务引擎](https://toutiao.io/k/uoj7sne) ![](assets/new.png)  
 - [2021-04-20-ElasticSearch-如何使用-TDigest-算法计算亿级数据的百分位数？](https://toutiao.io/k/00svame) ![](assets/new.png)  
 - [2021-04-20-深入剖析共识性算法-Raft](https://toutiao.io/k/125ec1c) ![](assets/new.png)  
 - [2021-04-20-应-“云”-而生的-Java-框架-Quarkus：构建本机可执行文件](https://toutiao.io/k/91729fo) ![](assets/new.png)  
-- [2021-04-20-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
+- [2021-04-20-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

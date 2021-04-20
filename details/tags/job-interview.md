@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 05:06:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 05:23:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -32,5 +32,4 @@
 - [2021-04-18-面试过程中，竟然遇到PUA，我不得不服这种“潜规则”～](https://www.ershicimi.com/p/3d61488bb0d160821d4ec6bc1361ebb6) 
 - [2021-04-20-找一个帖子，关于小公司招对方公司催款的-，大概内容是，对方公司拖欠几百万广告费，然后楼主过去加装面试还是啥，进去到财务谈判拿回钱的](https://www.v2ex.com/t/771873) 
 - [2021-04-20-北京/远程-StreamNative-多岗位招聘内推](https://www.v2ex.com/t/771839) 
-- [2021-04-20-北京-招聘「Golang-后端工程师」Nolibox-智能设计-清北校友初创团队](https://www.v2ex.com/t/771825) 
 - [2021-04-16-【招聘】苏州极光无限信息技术有限公司](https://sec.thief.one/article_content?a_id=e2f51a3b7008367a0633bbcdbc0748bf) 

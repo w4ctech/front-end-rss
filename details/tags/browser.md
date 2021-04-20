@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 11:36:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 11:49:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,6 +39,7 @@
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
 - [2021-04-20-concurrentHashMap-为什么是-CAS+Sychronized-保障线程安全？](https://www.v2ex.com/t/771961) 
 - [2021-04-20-代码审查-Code-Review-的本质](https://toutiao.io/k/xqvnsdu) 
+- [2021-04-20-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-20-FreeBuf安全运营系列公开课丨SIEM&SOC产品研究与测试报告解...](https://sec.thief.one/article_content?a_id=111a97d2af5c2e0cbd9e738dd4afd3d5) 
 - [2021-04-20-宿州市委网信办领导莅临宁波绿盟智慧城市安全运营中心调研指导](https://sec.thief.one/article_content?a_id=d304bb3865faf42c7a84436893dbfe2e) 
 - [2021-04-20-【福利放送】《内生安全:新一代网络安全框架体系与实践》](https://sec.thief.one/article_content?a_id=7afa8577f205eaa14ef593b14d4920a9) 

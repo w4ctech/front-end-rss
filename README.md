@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 11:36:16，:rocket: 更新条数: +4249， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 11:49:23，:rocket: 更新条数: +4250， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-20-精品网-用电信精品网的被坑惨，建议广大-v-友暂缓上车](https://www.v2ex.com/t/771973) ![](assets/new.png)  
 - [2021-04-20-被前同事-PUA-了~~](https://www.v2ex.com/t/771972) ![](assets/new.png)  
 - [2021-04-20-iPhone-上有好用的投屏+剪贴板同步+拖拽文件工具吗？](https://www.v2ex.com/t/771970) ![](assets/new.png)  
 - [2021-04-20-8-瓶水-2-瓶有毒-6-个耗子-要求单次检验出结果](https://www.v2ex.com/t/771969) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-20-天津的工作真心难找](https://www.v2ex.com/t/771949) ![](assets/new.png)  
 - [2021-04-20-请教一下，有没有批量下载小米门铃视频的办法](https://www.v2ex.com/t/771948) ![](assets/new.png)  
 - [2021-04-20-私有-Go-modules-管理最佳实践请教](https://www.v2ex.com/t/771947) ![](assets/new.png)  
-- [2021-04-20-Rust-已经启用了-Unicode-标识符支持](https://www.v2ex.com/t/771945) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

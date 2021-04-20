@@ -20435,6 +20435,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Swift 为什么要区分协议的关联类型与类的泛型？",
+        "link": "https://www.v2ex.com/t/771996",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "发现了一个 12306 的问题",
+        "link": "https://www.v2ex.com/t/771995",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "js 里的正则怎么像 Python 的 re 用()保留需要的字段？",
+        "link": "https://www.v2ex.com/t/771994",
+        "date": "2021-04-20"
+      },
+      {
         "title": "传统行业（与设计无关）想转行做 UI 设计，线上培训班靠谱吗？如果靠谱的话，求推荐。",
         "link": "https://www.v2ex.com/t/771991",
         "date": "2021-04-20"
@@ -20607,16 +20622,6 @@
       {
         "title": "私有 Go modules 管理最佳实践请教",
         "link": "https://www.v2ex.com/t/771947",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "Rust 已经启用了 Unicode 标识符支持",
-        "link": "https://www.v2ex.com/t/771945",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "DBA 行业是否将会消亡？",
-        "link": "https://www.v2ex.com/t/771944",
         "date": "2021-04-20"
       }
     ]
@@ -20839,33 +20844,23 @@
         "date": "2021-04-20"
       },
       {
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
+        "date": "2021-04-20"
+      },
+      {
         "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
         "link": "https://toutiao.io/k/pmlwnuy",
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
-        "link": "https://toutiao.io/k/7uw9l2r",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
         "date": "2021-04-20"
       },
       {
@@ -20874,13 +20869,33 @@
         "date": "2021-04-20"
       },
       {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-20"
+      },
+      {
         "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
         "link": "https://toutiao.io/k/zpo0xd7",
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
+        "link": "https://toutiao.io/k/7uw9l2r",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
         "date": "2021-04-20"
       },
       {
@@ -20894,23 +20909,13 @@
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] RESTful API 设计最佳实践",
-        "link": "https://toutiao.io/k/4zqz7k1",
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
         "date": "2021-04-20"
       }
     ]

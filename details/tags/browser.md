@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 00:09:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 00:26:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,9 +42,9 @@
 - [2021-04-19-现在好多外网打开就跳一个弹窗让你-accept-cookies，还要手动去关掉，心好累](https://www.v2ex.com/t/771762) 
 - [2021-04-19-吐槽下-ToDesk-的安全机制，一天可以收到-n-次的新设备登陆验证！](https://www.v2ex.com/t/771758) 
 - [2021-04-19-V-友们，重头开始学网络安全方向的话推荐学什么语言](https://www.v2ex.com/t/771748) 
-- [2021-04-20-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 
-- [2021-04-20-智能电视漏洞挖掘初探之-Getshell](https://toutiao.io/k/442n68d) 
+- [2021-04-20-代码审查-Code-Review-的本质](https://toutiao.io/k/xqvnsdu) 
 - [2021-04-20-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
+- [2021-04-19-【安全圈】配送平台-Mercato-发生数据泄露-却没向用户发出提醒](https://sec.thief.one/article_content?a_id=81be561532105dc010d6ae464334c895) 
 - [2021-04-19-第四届红帽杯网络安全大赛正式启动!](https://sec.thief.one/article_content?a_id=5227c9dc6a168bbcbfe88ed129223696) 
 - [2021-04-19-CSO说安全-|-黄乐:对企业安全运营的思考](https://sec.thief.one/article_content?a_id=e7ab530c2036231c5335bb3f81b3d543) 
 - [2021-04-19-每日安全动态推送04-19](https://sec.thief.one/article_content?a_id=a04b0c104c11be06d62995cce0509e28) 
@@ -67,5 +67,3 @@
 - [2021-04-16-2020年全球网络安全风险投资创历史新高](https://sec.thief.one/article_content?a_id=bf994fe7cc8ca7a62d755448877c7786) 
 - [2021-04-16-每日安全动态推送04-16](https://sec.thief.one/article_content?a_id=80e88977964b139aa68194e9fe4a2875) 
 - [2021-04-16-战略投资|立思辰安科荣获中国电科工控网络安全领域独家战略投资](https://sec.thief.one/article_content?a_id=0ddfdbdfbdb0d5081f40e9f923e481c3) 
-- [2021-04-16-第三方安全漏洞破坏了新加坡求职研究所的相关数据](https://sec.thief.one/article_content?a_id=cb35da840c2102c764a014e2082f7a8a) 
-- [2021-04-16-你的登录接口真的安全吗?快看看你有没有中招!](https://sec.thief.one/article_content?a_id=2f9c03b2cdf8b6c4c50f5aff73432937) 

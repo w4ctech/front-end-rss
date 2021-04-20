@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 07:50:00，:rocket: 更新条数: +4254， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 08:03:19，:rocket: 更新条数: +4254， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -839,6 +839,11 @@
 </summary>
 
 
+- [2021-04-20-独家：“论文致谢刷屏”博士演讲干货](https://www.ershicimi.com/p/6c871c5f5fe5b9fe8b1dbe425771b27e) ![](assets/new.png)  
+- [2021-04-20-开发人员解决不了管理烂的问题](https://www.ershicimi.com/p/6ffd1d0b1282db2fe86844c64ad7f345) ![](assets/new.png)  
+- [2021-04-20-“跟不上”的大前端，2021-会有哪些惊喜？-｜-GMTC](https://www.ershicimi.com/p/ebea1ec8e7000947b939ce1961c7cb6d) ![](assets/new.png)  
+- [2021-04-20-微服务+异步工作流+Serverless，Netflix-决定弃用稳定运行7年的旧平台](https://www.ershicimi.com/p/b7c2ae1f256c2a458ebb98e20201b4f6) ![](assets/new.png)  
+- [2021-04-20-程序开发人员缺乏经验的7种表现](https://www.ershicimi.com/p/83d0f652b0af31e762b91ba33f68a248) ![](assets/new.png)  
 - [2021-04-19-PDF先驱、Adobe联合创始人去世：“误入”计算机行业的文科生](https://www.ershicimi.com/p/93608badedd986c1bbc712c2d935021c) ![](assets/new.png)  
 - [2021-04-19-中原银行分布式缓存实践](https://www.ershicimi.com/p/40bb39493b040f7e21e1a890ca14dcfa) ![](assets/new.png)  
 - [2021-04-19-为什么大厂独爱这款数据库？-｜-极客时间](https://www.ershicimi.com/p/b12da352b7ab1a6ae27d1b863cb21e6c) ![](assets/new.png)  
@@ -854,11 +859,6 @@
 - [2021-04-17-想来百万流量技术公众号发布文章吗？-InfoQ-开放内容平台了！](https://www.ershicimi.com/p/1cc7c5177efb4e33f82c99eae64d6583) ![](assets/new.png)  
 - [2021-04-16-消息系统兴起二次革命：Kafka不需要ZooKeeper](https://www.ershicimi.com/p/e889bb4bd0f10688592a5191dbf88fab) ![](assets/new.png)  
 - [2021-04-16-你在大前端领域最常用的编程语言是？|-InfoQ-编程语言-4-月排行榜](https://www.ershicimi.com/p/51f1277202d318420949e228514db520) ![](assets/new.png)  
-- [2021-04-16-做了这么久开发，你有没有想过去大厂？-｜-极客时间](https://www.ershicimi.com/p/5a8aaf67e22f467df866648c4478fa71) ![](assets/new.png)  
-- [2021-04-16-这个-Redis-问题画像，干掉了一摞简历-｜-极客时间](https://www.ershicimi.com/p/d9eafbe59c30cb5edd017a469c7c477f) ![](assets/new.png)  
-- [2021-04-16-30-万行代码的平台升级：给跑着的汽车换轮胎](https://www.ershicimi.com/p/287b3a1b801638cb81e0532a0a3bb0ac) ![](assets/new.png)  
-- [2021-04-15-竞业协议“下沉”，普通程序员逃不过的坑](https://www.ershicimi.com/p/eddc858ec0d987e5f843d894c9d12795) ![](assets/new.png)  
-- [2021-04-15-2021年一定要关注的技术趋势和选型建议](https://www.ershicimi.com/p/60ebca0cdf853303d8649b278458f327) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,8 +996,9 @@
 </summary>
 
 
+- [2021-04-20-我们的聚合广告联盟上线快-1-个月了，说一下成果](https://www.v2ex.com/t/771932) ![](assets/new.png)  
 - [2021-04-20-网站莫名其妙变慢和遭遇-403-错误](https://www.v2ex.com/t/771929) ![](assets/new.png)  
-- [2021-04-20-如何高效分辨是否属于外包](https://www.v2ex.com/t/771928) ![](assets/new.png)  
+- [2021-04-20-如何高效分辨是否是外包](https://www.v2ex.com/t/771928) ![](assets/new.png)  
 - [2021-04-20-PHP-服务间调用最佳实践是什么](https://www.v2ex.com/t/771927) ![](assets/new.png)  
 - [2021-04-20-社保小白：工作-5-年，分别在三个城市工作过（三线城市-杭州-北京），每个工作中间有-1-2-月空档期。离职没有做过相关社保的事情。未来想到第四个城市定居，请教...](https://www.v2ex.com/t/771926) ![](assets/new.png)  
 - [2021-04-20-北京C-轮明星公司招-Java-、Android、前端、UE4、Golang、推荐算法、测试、运维、内核工程师、PM-等](https://www.v2ex.com/t/771925) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-20-Mac-上跑哪些-ios-应用体验较好？](https://www.v2ex.com/t/771911) ![](assets/new.png)  
 - [2021-04-20-分享几个冥想放松的技巧,应该适合失眠焦虑压力大各种疑难症](https://www.v2ex.com/t/771910) ![](assets/new.png)  
 - [2021-04-20-现在-1000-元左右能买到全新非国产安卓机吗？](https://www.v2ex.com/t/771909) ![](assets/new.png)  
-- [2021-04-20-成都/远程15K-20K-小橘科技-PHP-/Go/前端，公司发展潜力巨大，提供-PHP-转-Go-机会](https://www.v2ex.com/t/771908) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,8 +1065,8 @@
 - [2021-04-20-跟我一起学-Go-系列：从写测试用例开始仗剑走天涯](https://toutiao.io/k/0f8qtmv) ![](assets/new.png)  
 - [2021-04-20-演习与混沌工程](https://toutiao.io/k/htbqof4) ![](assets/new.png)  
 - [2021-04-20-测试应用启动性能](https://toutiao.io/k/bbqdske) ![](assets/new.png)  
-- [2021-04-20-译-用-Golang-实现-RSA-加密和签名（有示例）](https://toutiao.io/k/fofjm8d) ![](assets/new.png)  
 - [2021-04-20-“改造”-VS-Code-编辑器，一起写个插件吧](https://toutiao.io/k/cjkpkjl) ![](assets/new.png)  
+- [2021-04-20-译-用-Golang-实现-RSA-加密和签名（有示例）](https://toutiao.io/k/fofjm8d) ![](assets/new.png)  
 - [2021-04-20-OLAP-分析引擎，基于-Druid-组件数据统计分析](https://toutiao.io/k/3qw931q) ![](assets/new.png)  
 - [2021-04-20-最清晰易懂的-Go-sync.WaitGroup-剖析](https://toutiao.io/k/rl2pa2q) ![](assets/new.png)  
 - [2021-04-20-译-每个-Apache-Kafka-开发者都应该知道的-5-件事](https://toutiao.io/k/n0kbg7d) ![](assets/new.png)  

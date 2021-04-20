@@ -19984,6 +19984,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "独家：“论文致谢刷屏”博士演讲干货",
+        "link": "https://www.ershicimi.com/p/6c871c5f5fe5b9fe8b1dbe425771b27e",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "开发人员解决不了管理烂的问题",
+        "link": "https://www.ershicimi.com/p/6ffd1d0b1282db2fe86844c64ad7f345",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "“跟不上”的大前端，2021 会有哪些惊喜？ ｜ GMTC",
+        "link": "https://www.ershicimi.com/p/ebea1ec8e7000947b939ce1961c7cb6d",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "微服务+异步工作流+Serverless，Netflix 决定弃用稳定运行7年的旧平台",
+        "link": "https://www.ershicimi.com/p/b7c2ae1f256c2a458ebb98e20201b4f6",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "程序开发人员缺乏经验的7种表现",
+        "link": "https://www.ershicimi.com/p/83d0f652b0af31e762b91ba33f68a248",
+        "date": "2021-04-20"
+      },
+      {
         "title": "PDF先驱、Adobe联合创始人去世：“误入”计算机行业的文科生",
         "link": "https://www.ershicimi.com/p/93608badedd986c1bbc712c2d935021c",
         "date": "2021-04-19"
@@ -20057,31 +20082,6 @@
         "title": "你在大前端领域最常用的编程语言是？| InfoQ 编程语言 4 月排行榜",
         "link": "https://www.ershicimi.com/p/51f1277202d318420949e228514db520",
         "date": "2021-04-16"
-      },
-      {
-        "title": "做了这么久开发，你有没有想过去大厂？ ｜ 极客时间",
-        "link": "https://www.ershicimi.com/p/5a8aaf67e22f467df866648c4478fa71",
-        "date": "2021-04-16"
-      },
-      {
-        "title": "这个 Redis 问题画像，干掉了一摞简历 ｜ 极客时间",
-        "link": "https://www.ershicimi.com/p/d9eafbe59c30cb5edd017a469c7c477f",
-        "date": "2021-04-16"
-      },
-      {
-        "title": "30 万行代码的平台升级：给跑着的汽车换轮胎",
-        "link": "https://www.ershicimi.com/p/287b3a1b801638cb81e0532a0a3bb0ac",
-        "date": "2021-04-16"
-      },
-      {
-        "title": "竞业协议“下沉”，普通程序员逃不过的坑",
-        "link": "https://www.ershicimi.com/p/eddc858ec0d987e5f843d894c9d12795",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "2021年一定要关注的技术趋势和选型建议",
-        "link": "https://www.ershicimi.com/p/60ebca0cdf853303d8649b278458f327",
-        "date": "2021-04-15"
       }
     ]
   },
@@ -20430,12 +20430,17 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "我们的聚合广告联盟上线快 1 个月了，说一下成果",
+        "link": "https://www.v2ex.com/t/771932",
+        "date": "2021-04-20"
+      },
+      {
         "title": "网站莫名其妙变慢和遭遇 403 错误",
         "link": "https://www.v2ex.com/t/771929",
         "date": "2021-04-20"
       },
       {
-        "title": "如何高效分辨是否属于外包",
+        "title": "如何高效分辨是否是外包",
         "link": "https://www.v2ex.com/t/771928",
         "date": "2021-04-20"
       },
@@ -20633,11 +20638,6 @@
         "title": "感兴趣的同学瞅瞅 蚂蚁招人了 真海量 HC~",
         "link": "https://www.v2ex.com/t/771884",
         "date": "2021-04-20"
-      },
-      {
-        "title": "c++ 20 有人正经用起来了吗？谈谈感受啊",
-        "link": "https://www.v2ex.com/t/771881",
-        "date": "2021-04-20"
       }
     ]
   },
@@ -20789,13 +20789,13 @@
         "date": "2021-04-20"
       },
       {
-        "title": "[译] 用 Golang 实现 RSA 加密和签名（有示例）",
-        "link": "https://toutiao.io/k/fofjm8d",
+        "title": "“改造” VS Code 编辑器，一起写个插件吧",
+        "link": "https://toutiao.io/k/cjkpkjl",
         "date": "2021-04-20"
       },
       {
-        "title": "“改造” VS Code 编辑器，一起写个插件吧",
-        "link": "https://toutiao.io/k/cjkpkjl",
+        "title": "[译] 用 Golang 实现 RSA 加密和签名（有示例）",
+        "link": "https://toutiao.io/k/fofjm8d",
         "date": "2021-04-20"
       },
       {
@@ -20859,51 +20859,6 @@
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
-        "link": "https://toutiao.io/k/7uw9l2r",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] RESTful API 设计最佳实践",
-        "link": "https://toutiao.io/k/4zqz7k1",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
-        "date": "2021-04-20"
-      },
-      {
         "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
         "link": "https://toutiao.io/k/zdnq3fy",
         "date": "2021-04-20"
@@ -20914,13 +20869,18 @@
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
+        "link": "https://toutiao.io/k/7uw9l2r",
         "date": "2021-04-20"
       },
       {
@@ -20929,8 +20889,48 @@
         "date": "2021-04-20"
       },
       {
+        "title": "[推荐] RESTful API 设计最佳实践",
+        "link": "https://toutiao.io/k/4zqz7k1",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
+        "date": "2021-04-20"
+      },
+      {
         "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
         "link": "https://toutiao.io/k/omkb9gy",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-20"
       }
     ]

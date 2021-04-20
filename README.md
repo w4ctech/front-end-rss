@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 19:24:05，:rocket: 更新条数: +728， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 19:36:12，:rocket: 更新条数: +728， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -976,6 +976,7 @@
 </summary>
 
 
+- [2021-04-20-谈谈-RustDesk-开源的一点感受](https://www.v2ex.com/t/772047) ![](assets/new.png)  
 - [2021-04-20--Apple-2021-春季发布会汇总](https://www.v2ex.com/t/772046) ![](assets/new.png)  
 - [2021-04-20-AirTag-可以搞一个玩玩](https://www.v2ex.com/t/772045) ![](assets/new.png)  
 - [2021-04-20-有什么办法能买到新出的-Apple-TV-4K？](https://www.v2ex.com/t/772044) ![](assets/new.png)  
@@ -995,7 +996,6 @@
 - [2021-04-20-钉钉管理员能看到员工间的互相查看记录吗？](https://www.v2ex.com/t/772024) ![](assets/new.png)  
 - [2021-04-20-全球首款消费级-Linux-平板-JingPad-A1-视频已发布](https://www.v2ex.com/t/772023) ![](assets/new.png)  
 - [2021-04-20-谈谈-Java-线程池](https://www.v2ex.com/t/772022) ![](assets/new.png)  
-- [2021-04-20-Jetbrains-合租会怎么样呀？](https://www.v2ex.com/t/772021) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

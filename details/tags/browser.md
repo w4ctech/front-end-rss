@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 01:28:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 01:45:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,9 +38,8 @@
 - [2021-04-19-中原银行分布式缓存实践](https://www.ershicimi.com/p/40bb39493b040f7e21e1a890ca14dcfa) 
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
 - [2021-04-19-Java-怎么-300TPS-地去请求一个接口？](https://www.v2ex.com/t/771780) 
-- [2021-04-19-现在好多外网打开就跳一个弹窗让你-accept-cookies，还要手动去关掉，心好累](https://www.v2ex.com/t/771762) 
-- [2021-04-19-吐槽下-ToDesk-的安全机制，一天可以收到-n-次的新设备登陆验证！](https://www.v2ex.com/t/771758) 
 - [2021-04-20-代码审查-Code-Review-的本质](https://toutiao.io/k/xqvnsdu) 
+- [2021-04-20-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-19-【安全圈】配送平台-Mercato-发生数据泄露-却没向用户发出提醒](https://sec.thief.one/article_content?a_id=81be561532105dc010d6ae464334c895) 
 - [2021-04-19-第四届红帽杯网络安全大赛正式启动!](https://sec.thief.one/article_content?a_id=5227c9dc6a168bbcbfe88ed129223696) 
 - [2021-04-19-CSO说安全-|-黄乐:对企业安全运营的思考](https://sec.thief.one/article_content?a_id=e7ab530c2036231c5335bb3f81b3d543) 

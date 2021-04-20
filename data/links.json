@@ -10,6 +10,11 @@
         "date": "2021-04-20"
       },
       {
+        "title": "过半美国成年人已接种一剂 印度加速进口mRNA疫苗｜大流行手记（4月19日）",
+        "link": "https://m.caixin.com/m/2021-04-20/101693442.html",
+        "date": "2021-04-20"
+      },
+      {
         "title": "变种病毒在港社区传播 港府禁印巴菲航班入境",
         "link": "https://m.caixin.com/m/2021-04-19/101693061.html",
         "date": "2021-04-19"
@@ -20420,8 +20425,33 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "V2 内地打不开网站，有其他替换的新域名吗",
-        "link": "https://www.v2ex.com/t/771806",
+        "title": "网络编程包 - Magician 的原理 与 使用",
+        "link": "https://www.v2ex.com/t/771813",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "有没有搜索引擎能解决重复度过高的问题",
+        "link": "https://www.v2ex.com/t/771812",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "国内正常上不了 V 站，请问有什么便捷方法？",
+        "link": "https://www.v2ex.com/t/771811",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "纠结 YOGA 14S 锐龙版和 Intel 版 。",
+        "link": "https://www.v2ex.com/t/771810",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[悬赏] 会写抢购软件的进",
+        "link": "https://www.v2ex.com/t/771809",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "Storyteller: 无代码交互式教程编辑器",
+        "link": "https://www.v2ex.com/t/771808",
         "date": "2021-04-20"
       },
       {
@@ -20588,36 +20618,6 @@
         "title": "[新手] 不懂就问.",
         "link": "https://www.v2ex.com/t/771766",
         "date": "2021-04-19"
-      },
-      {
-        "title": "安卓手机 3GB 电影文件如何传到 iPad ？",
-        "link": "https://www.v2ex.com/t/771763",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "现在好多外网打开就跳一个弹窗让你 accept cookies，还要手动去关掉，心好累",
-        "link": "https://www.v2ex.com/t/771762",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "想找联创做 Defi 方面的项目",
-        "link": "https://www.v2ex.com/t/771761",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "Excelize 2.4.0 正式版发布, 新增 152 项公式函数支持",
-        "link": "https://www.v2ex.com/t/771760",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "吐槽下 ToDesk 的安全机制，一天可以收到 n 次的新设备登陆验证！",
-        "link": "https://www.v2ex.com/t/771758",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "为何不建议你回家帮忙，及我目前的窘迫",
-        "link": "https://www.v2ex.com/t/771757",
-        "date": "2021-04-19"
       }
     ]
   },
@@ -20734,13 +20734,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "Java 8 中的 Stream 流式操作：入门篇",
-        "link": "https://toutiao.io/k/w7xb2nj",
+        "title": "一文搞懂分布式锁的原理与实现",
+        "link": "https://toutiao.io/k/j7fdh6h",
         "date": "2021-04-20"
       },
       {
-        "title": "一文搞懂分布式锁的原理与实现",
-        "link": "https://toutiao.io/k/j7fdh6h",
+        "title": "Java 8 中的 Stream 流式操作：入门篇",
+        "link": "https://toutiao.io/k/w7xb2nj",
         "date": "2021-04-20"
       },
       {
@@ -20749,13 +20749,13 @@
         "date": "2021-04-20"
       },
       {
-        "title": "代码审查 (Code Review) 的本质",
-        "link": "https://toutiao.io/k/xqvnsdu",
+        "title": "跟我一起学 Go 系列：从写测试用例开始仗剑走天涯",
+        "link": "https://toutiao.io/k/0f8qtmv",
         "date": "2021-04-20"
       },
       {
-        "title": "跟我一起学 Go 系列：从写测试用例开始仗剑走天涯",
-        "link": "https://toutiao.io/k/0f8qtmv",
+        "title": "代码审查 (Code Review) 的本质",
+        "link": "https://toutiao.io/k/xqvnsdu",
         "date": "2021-04-20"
       },
       {
@@ -20764,13 +20764,13 @@
         "date": "2021-04-20"
       },
       {
-        "title": "“改造” VS Code 编辑器，一起写个插件吧",
-        "link": "https://toutiao.io/k/cjkpkjl",
+        "title": "测试应用启动性能",
+        "link": "https://toutiao.io/k/bbqdske",
         "date": "2021-04-20"
       },
       {
-        "title": "测试应用启动性能",
-        "link": "https://toutiao.io/k/bbqdske",
+        "title": "“改造” VS Code 编辑器，一起写个插件吧",
+        "link": "https://toutiao.io/k/cjkpkjl",
         "date": "2021-04-20"
       },
       {
@@ -20789,8 +20789,8 @@
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
         "date": "2021-04-20"
       },
       {
@@ -20804,13 +20804,8 @@
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
         "date": "2021-04-20"
       },
       {
@@ -20819,8 +20814,8 @@
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
         "date": "2021-04-20"
       },
       {
@@ -20829,8 +20824,33 @@
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
+        "link": "https://toutiao.io/k/7uw9l2r",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
         "date": "2021-04-20"
       },
       {
@@ -20841,26 +20861,6 @@
       {
         "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
         "link": "https://toutiao.io/k/811or1j",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
-        "link": "https://toutiao.io/k/7uw9l2r",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
         "date": "2021-04-20"
       }
     ]

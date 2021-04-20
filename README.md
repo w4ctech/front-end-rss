@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 01:28:18，:rocket: 更新条数: +4240， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 01:45:09，:rocket: 更新条数: +4240， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-04-20-4月19日全国新增新冠10例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-20/101693430.html) ![](assets/new.png)  
+- [2021-04-20-过半美国成年人已接种一剂-印度加速进口mRNA疫苗｜大流行手记（4月19日）](https://m.caixin.com/m/2021-04-20/101693442.html) ![](assets/new.png)  
 - [2021-04-19-变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html) ![](assets/new.png)  
 - [2021-04-19-最新海外疫情：新冠感染超1.41亿-累计死亡超301万](https://m.caixin.com/m/2021-04-19/101693291.html) ![](assets/new.png)  
 - [2021-04-19-【境内疫情观察】全国新增11例境外输入病例（4月18日）](http://m.database.caixin.com/m/2021-04-19/101693254.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
 - [2021-04-13-【境内疫情观察】我国新冠疫苗累计接种超1.67亿剂次（4月12日）](http://m.database.caixin.com/m/2021-04-13/101690476.html) ![](assets/new.png)  
 - [2021-04-13-英国重开商场健身房-澳放弃年底前全民接种目标｜大流行手记（4月12日）](https://m.caixin.com/m/2021-04-13/101690235.html) ![](assets/new.png)  
-- [2021-04-12-香港与内地通关现曙光-5月中旬起内地民众来港免隔离](https://m.caixin.com/m/2021-04-12/101690149.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,7 +996,12 @@
 </summary>
 
 
-- [2021-04-20-V2-内地打不开网站，有其他替换的新域名吗](https://www.v2ex.com/t/771806) ![](assets/new.png)  
+- [2021-04-20-网络编程包---Magician-的原理-与-使用](https://www.v2ex.com/t/771813) ![](assets/new.png)  
+- [2021-04-20-有没有搜索引擎能解决重复度过高的问题](https://www.v2ex.com/t/771812) ![](assets/new.png)  
+- [2021-04-20-国内正常上不了-V-站，请问有什么便捷方法？](https://www.v2ex.com/t/771811) ![](assets/new.png)  
+- [2021-04-20-纠结-YOGA-14S-锐龙版和-Intel-版-。](https://www.v2ex.com/t/771810) ![](assets/new.png)  
+- [2021-04-20-悬赏-会写抢购软件的进](https://www.v2ex.com/t/771809) ![](assets/new.png)  
+- [2021-04-20-Storyteller:-无代码交互式教程编辑器](https://www.v2ex.com/t/771808) ![](assets/new.png)  
 - [2021-04-20-offer-对比，杭州、北京-Java-后端方向](https://www.v2ex.com/t/771805) ![](assets/new.png)  
 - [2021-04-20-出一个联想-y9000k-2020-版-2070smq-32g-内存-1t-固态-v-友直接明盘-9500.-仅使用一两周，没有-rgb-这个需求了。故出。京东购入，有发票，箱说全，原价-14000，...](https://www.v2ex.com/t/771804) ![](assets/new.png)  
 - [2021-04-20-请教一个关于三层路由的问题](https://www.v2ex.com/t/771802) ![](assets/new.png)  
@@ -1011,11 +1016,6 @@
 - [2021-04-19-关于苹果账号登陆新设备的问题](https://www.v2ex.com/t/771790) ![](assets/new.png)  
 - [2021-04-19-关于程序员申请公司-迫于很多产品都需要企业资质-icp-审核之类](https://www.v2ex.com/t/771788) ![](assets/new.png)  
 - [2021-04-19-2021-iMac-如果标配-32-寸的丐版-XDR-Display-你们会买吗](https://www.v2ex.com/t/771787) ![](assets/new.png)  
-- [2021-04-19-如何相对准确评估自己的水平？](https://www.v2ex.com/t/771786) ![](assets/new.png)  
-- [2021-04-19-美区-paypal-市价收-2000-刀](https://www.v2ex.com/t/771785) ![](assets/new.png)  
-- [2021-04-19-警惕！最新版-Tim-依旧在读你的浏览记录](https://www.v2ex.com/t/771784) ![](assets/new.png)  
-- [2021-04-19-招市场运营，市场文案，-LOGO-和网页插画师](https://www.v2ex.com/t/771783) ![](assets/new.png)  
-- [2021-04-19-关于-Mac-mini-的-HDMI-接口的一些猜想](https://www.v2ex.com/t/771782) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1058,26 +1058,26 @@
 </summary>
 
 
-- [2021-04-20-Java-8-中的-Stream-流式操作：入门篇](https://toutiao.io/k/w7xb2nj) ![](assets/new.png)  
 - [2021-04-20-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-04-20-Java-8-中的-Stream-流式操作：入门篇](https://toutiao.io/k/w7xb2nj) ![](assets/new.png)  
 - [2021-04-20-MyBatis-优秀的设计总结](https://toutiao.io/k/k81cs3j) ![](assets/new.png)  
-- [2021-04-20-代码审查-Code-Review-的本质](https://toutiao.io/k/xqvnsdu) ![](assets/new.png)  
 - [2021-04-20-跟我一起学-Go-系列：从写测试用例开始仗剑走天涯](https://toutiao.io/k/0f8qtmv) ![](assets/new.png)  
+- [2021-04-20-代码审查-Code-Review-的本质](https://toutiao.io/k/xqvnsdu) ![](assets/new.png)  
 - [2021-04-20-演习与混沌工程](https://toutiao.io/k/htbqof4) ![](assets/new.png)  
-- [2021-04-20-“改造”-VS-Code-编辑器，一起写个插件吧](https://toutiao.io/k/cjkpkjl) ![](assets/new.png)  
 - [2021-04-20-测试应用启动性能](https://toutiao.io/k/bbqdske) ![](assets/new.png)  
+- [2021-04-20-“改造”-VS-Code-编辑器，一起写个插件吧](https://toutiao.io/k/cjkpkjl) ![](assets/new.png)  
 - [2021-04-20-译-用-Golang-实现-RSA-加密和签名（有示例）](https://toutiao.io/k/fofjm8d) ![](assets/new.png)  
 - [2021-04-20-译-每个-Apache-Kafka-开发者都应该知道的-5-件事](https://toutiao.io/k/n0kbg7d) ![](assets/new.png)  
 - [2021-04-20-微信小程序接口自动化的实现方案](https://toutiao.io/k/96r3jin) ![](assets/new.png)  
-- [2021-04-20-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-20-推荐-从需求出发设计一条开源持续部署流水线](https://toutiao.io/k/we8gr61) ![](assets/new.png)  
 - [2021-04-20-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
 - [2021-04-20-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
-- [2021-04-20-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-20-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-20-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [2021-04-20-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
-- [2021-04-20-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-20-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
 - [2021-04-20-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-20-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-20-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-20-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

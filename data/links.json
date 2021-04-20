@@ -20435,6 +20435,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[深圳][组内直招][15-40k]DJI 大疆创新招聘中/高级运维开发工程师 诚挚邀请各位来看看",
+        "link": "https://www.v2ex.com/t/771957",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "windows 上有没有通过快捷键来执行多个快捷键的软件？",
+        "link": "https://www.v2ex.com/t/771956",
+        "date": "2021-04-20"
+      },
+      {
         "title": "发现了微信的小心机",
         "link": "https://www.v2ex.com/t/771955",
         "date": "2021-04-20"
@@ -20622,11 +20632,6 @@
       {
         "title": "[成都/远程][15K-20K] 小橘科技 PHP /Go/前端，公司发展潜力巨大，提供 PHP 转 Go 机会",
         "link": "https://www.v2ex.com/t/771908",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[广州海珠][内推] 致景科技 - 百布事业线招聘前端 Web 开发",
-        "link": "https://www.v2ex.com/t/771906",
         "date": "2021-04-20"
       }
     ]
@@ -20819,13 +20824,13 @@
         "date": "2021-04-20"
       },
       {
-        "title": "工具 | 百度开源的函数计算服务引擎",
-        "link": "https://toutiao.io/k/uoj7sne",
+        "title": "深入剖析共识性算法 Raft",
+        "link": "https://toutiao.io/k/125ec1c",
         "date": "2021-04-20"
       },
       {
-        "title": "深入剖析共识性算法 Raft",
-        "link": "https://toutiao.io/k/125ec1c",
+        "title": "工具 | 百度开源的函数计算服务引擎",
+        "link": "https://toutiao.io/k/uoj7sne",
         "date": "2021-04-20"
       },
       {
@@ -20849,33 +20854,8 @@
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
         "date": "2021-04-20"
       },
       {
@@ -20884,13 +20864,28 @@
         "date": "2021-04-20"
       },
       {
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-20"
+      },
+      {
         "title": "[推荐] Git 分支管理策略与工作流程",
         "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
-        "link": "https://toutiao.io/k/we8gr61",
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
         "date": "2021-04-20"
       },
       {
@@ -20899,18 +20894,23 @@
         "date": "2021-04-20"
       },
       {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-20"
+      },
+      {
         "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
         "link": "https://toutiao.io/k/bi1fr9y",
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
+        "title": "[推荐] 从需求出发设计一条开源持续部署流水线",
+        "link": "https://toutiao.io/k/we8gr61",
         "date": "2021-04-20"
       },
       {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
         "date": "2021-04-20"
       },
       {
@@ -20921,6 +20921,11 @@
       {
         "title": "[推荐] RESTful API 设计最佳实践",
         "link": "https://toutiao.io/k/4zqz7k1",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
         "date": "2021-04-20"
       }
     ]

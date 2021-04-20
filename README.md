@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 22:39:48，:rocket: 更新条数: +748， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 22:53:56，:rocket: 更新条数: +4270， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-04-20-最新疫情：全国新冠累计确诊90520例-累计接种新冠疫苗超1.95亿剂次](https://m.caixin.com/m/2021-04-20/101693833.html) ![](assets/new.png)  
+- [2021-04-20-4月19日全国新增新冠10例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-20/101693430.html) ![](assets/new.png)  
+- [2021-04-20-最新海外疫情：新冠感染近1.42亿-累计死亡超302万](https://m.caixin.com/m/2021-04-20/101693826.html) ![](assets/new.png)  
+- [2021-04-20-【境内疫情观察】云南新增1例本土病例（4月19日）](http://m.database.caixin.com/m/2021-04-20/101693637.html) ![](assets/new.png)  
+- [2021-04-20-过半美国成年人已接种一剂-印度加速进口mRNA疫苗｜大流行手记（4月19日）](https://m.caixin.com/m/2021-04-20/101693442.html) ![](assets/new.png)  
+- [2021-04-19-变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html) ![](assets/new.png)  
+- [2021-04-19-【境内疫情观察】全国新增11例境外输入病例（4月18日）](http://m.database.caixin.com/m/2021-04-19/101693254.html) ![](assets/new.png)  
+- [2021-04-19-印度单日新增逾26万病例-世卫称全球感染率接近历史高峰｜大流行手记（4月18日）](https://m.caixin.com/m/2021-04-19/101692924.html) ![](assets/new.png)  
+- [2021-04-18-【境内疫情观察】全国新增16例境外输入病例（4月17日）](http://m.database.caixin.com/m/2021-04-18/101692852.html) ![](assets/new.png)  
+- [2021-04-18-科兴疫苗智利真实世界保护率达67%-礼来中和抗体紧急授权被收回｜大流行手记（4月17日）](https://m.caixin.com/m/2021-04-18/101692822.html) ![](assets/new.png)  
+- [2021-04-17-【境内疫情观察】云南新增1例本土病例（4月16日）](http://m.database.caixin.com/m/2021-04-17/101692717.html) ![](assets/new.png)  
+- [2021-04-17-辉瑞称接种者或需打第三剂疫苗-以色列取消户外口罩令｜大流行手记（4月16日）](https://m.caixin.com/m/2021-04-17/101692553.html) ![](assets/new.png)  
+- [2021-04-16-印度单日新增确诊首破20万人-全球疫苗供应紧缺｜大流行手记（4月15日）](https://m.caixin.com/m/2021-04-16/101691883.html) ![](assets/new.png)  
+- [2021-04-15-香港放宽新冠疫苗接种年龄限制-明年将采购新一代疫苗](https://m.caixin.com/m/2021-04-15/101691804.html) ![](assets/new.png)  
+- [2021-04-15-【境内疫情观察】全国新增10例境外输入病例（4月14日）](http://m.database.caixin.com/m/2021-04-15/101691588.html) ![](assets/new.png)  
+- [2021-04-14-云南瑞丽4月13日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-14/101690804.html) ![](assets/new.png)  
+- [2021-04-14-【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html) ![](assets/new.png)  
+- [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
+- [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
+- [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +1016,7 @@
 </summary>
 
 
+- [2021-04-20-姐夫离开了玻璃渣，-Overwatch-2-成了未知数了](https://www.v2ex.com/t/772053) ![](assets/new.png)  
 - [2021-04-20-CapsLockX---像黑客一样操作电脑](https://www.v2ex.com/t/772052) ![](assets/new.png)  
 - [2021-04-20-预测一下-rMBP-将来的尺寸](https://www.v2ex.com/t/772050) ![](assets/new.png)  
 - [2021-04-20-心水新-iMac-附带那个键盘，如果能单独购买就好啦](https://www.v2ex.com/t/772049) ![](assets/new.png)  
@@ -1015,7 +1036,6 @@
 - [2021-04-20-假期出行，租车哪家好？（神州、一嗨、悟空...-请你补充-）](https://www.v2ex.com/t/772033) ![](assets/new.png)  
 - [2021-04-20-Apple-Store-里的机器是不是特别调过亮度？](https://www.v2ex.com/t/772028) ![](assets/new.png)  
 - [2021-04-20-zhuzhezhe-你还在吗？](https://www.v2ex.com/t/772027) ![](assets/new.png)  
-- [2021-04-20-纯静态网页如何避免被扒站.html、.js-和-.css-文件？](https://www.v2ex.com/t/772026) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-20 22:53:56，:rocket: 更新条数: +4270， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 23:03:44，:rocket: 更新条数: +4270， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,7 @@
 </summary>
 
 
+- [2021-04-20-M1-Mac-mini-加入万兆可选](https://www.v2ex.com/t/772054) ![](assets/new.png)  
 - [2021-04-20-姐夫离开了玻璃渣，-Overwatch-2-成了未知数了](https://www.v2ex.com/t/772053) ![](assets/new.png)  
 - [2021-04-20-CapsLockX---像黑客一样操作电脑](https://www.v2ex.com/t/772052) ![](assets/new.png)  
 - [2021-04-20-预测一下-rMBP-将来的尺寸](https://www.v2ex.com/t/772050) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-04-20-8-瓶水-2-瓶有毒-6-个耗子-的解](https://www.v2ex.com/t/772034) ![](assets/new.png)  
 - [2021-04-20-假期出行，租车哪家好？（神州、一嗨、悟空...-请你补充-）](https://www.v2ex.com/t/772033) ![](assets/new.png)  
 - [2021-04-20-Apple-Store-里的机器是不是特别调过亮度？](https://www.v2ex.com/t/772028) ![](assets/new.png)  
-- [2021-04-20-zhuzhezhe-你还在吗？](https://www.v2ex.com/t/772027) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

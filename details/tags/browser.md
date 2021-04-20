@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-20 04:24:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 04:41:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -40,6 +40,7 @@
 - [2021-04-20-不是说-Mac-上-Edge-比-Chrome-内存占用小吗，请大家帮忙看看我的例外？](https://www.v2ex.com/t/771866) 
 - [2021-04-20-django-uwsgi-nginx-websocket-搭建后台管理,本地没问题,上传服务器-websocket-报-502-错误,其他接口能正常访问](https://www.v2ex.com/t/771852) 
 - [2021-04-20-代码审查-Code-Review-的本质](https://toutiao.io/k/xqvnsdu) 
+- [2021-04-20-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-19-【安全圈】配送平台-Mercato-发生数据泄露-却没向用户发出提醒](https://sec.thief.one/article_content?a_id=81be561532105dc010d6ae464334c895) 
 - [2021-04-19-第四届红帽杯网络安全大赛正式启动!](https://sec.thief.one/article_content?a_id=5227c9dc6a168bbcbfe88ed129223696) 
 - [2021-04-19-CSO说安全-|-黄乐:对企业安全运营的思考](https://sec.thief.one/article_content?a_id=e7ab530c2036231c5335bb3f81b3d543) 

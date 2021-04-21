@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-21 12:58:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 13:11:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -116,7 +116,6 @@
 - [【政采云前端团队】编写高质量可维护的代码：Awesome-TypeScript](https://www.ershicimi.com/p/0e0e4e00548bd0c316732a2a25594a04)
 - [【程序员成长指北】探索类型系统的底层---自己实现一个-TypeScript硬核干货](https://www.ershicimi.com/p/e5c9d2a4d51e24e1bbfb8feea69737fa)
 - [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
-- [【V2EX】四两拨千斤——你不知道的-VScode-编码-TypeScript-的技巧](https://www.v2ex.com/t/772233)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -501,6 +500,7 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】接到了-git-issue-邮件,但是找不到给我发消息的老哥,-谁帮个忙-@它一下](https://www.v2ex.com/t/772275)
+- [【开发者头条】推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y)
 - [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

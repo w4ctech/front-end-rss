@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-21 11:23:47，:rocket: 更新条数: +4270， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-21 11:36:22，:rocket: 更新条数: +4270， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,7 @@
 </summary>
 
 
+- [2021-04-21-今天去到上海车展逛了一天，说些自己看到的一些略有意思的事。](https://www.v2ex.com/t/772265) ![](assets/new.png)  
 - [2021-04-21-有个加拿大的前同事打算合作进口点食品预包装过来国内出售,想通过小程序商城来建立销售网络批发或者零售](https://www.v2ex.com/t/772264) ![](assets/new.png)  
 - [2021-04-21-录制自然环境中的声音一般用什么设备？](https://www.v2ex.com/t/772263) ![](assets/new.png)  
 - [2021-04-21-m1-电脑的-expect-软件问题](https://www.v2ex.com/t/772262) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-04-21-有没有和我一样的错觉：哪怕是两年前的-iPhone-觉得性能过剩，而刚发布的最新-Android-却觉性能不够？](https://www.v2ex.com/t/772242) ![](assets/new.png)  
 - [2021-04-21-Mac-M1-pro-和-air-的性能哪个好？](https://www.v2ex.com/t/772241) ![](assets/new.png)  
 - [2021-04-21-小鹤查形---好用的小鹤音形编码学习和查询工具](https://www.v2ex.com/t/772240) ![](assets/new.png)  
-- [2021-04-21-android-studio-build-报错，貌似是-gradle-版本问题，网上搜了方法没解决，有大佬帮看看吗？](https://www.v2ex.com/t/772238) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,8 +1088,8 @@
 - [2021-04-21-Java-8-中的-Lambda-表达式](https://toutiao.io/k/zahd9yv) ![](assets/new.png)  
 - [2021-04-21-贝壳-OLAP-平台架构演进](https://toutiao.io/k/i2l6mm0) ![](assets/new.png)  
 - [2021-04-21-嗯，你觉得-Go-在什么时候会抢占-P？](https://toutiao.io/k/tb0ianx) ![](assets/new.png)  
-- [2021-04-21-AMS-系列之生命周期管理](https://toutiao.io/k/5jrgtv8) ![](assets/new.png)  
 - [2021-04-21-ETL-和-ELT-到底有啥区别？？？](https://toutiao.io/k/dmssgmt) ![](assets/new.png)  
+- [2021-04-21-AMS-系列之生命周期管理](https://toutiao.io/k/5jrgtv8) ![](assets/new.png)  
 - [2021-04-21-LeetCode-844-：比较含退格的字符串](https://toutiao.io/k/iaed1zu) ![](assets/new.png)  
 - [2021-04-21-漫画｜工作这几年，同事对我的称呼肉眼可见的在变化着](https://toutiao.io/k/z3dscov) ![](assets/new.png)  
 - [2021-04-21-最新-Hive-的高频面试题新鲜出炉了](https://toutiao.io/k/bwb59wj) ![](assets/new.png)  

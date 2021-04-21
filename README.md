@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-21 06:24:16，:rocket: 更新条数: +4265， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-21 06:41:18，:rocket: 更新条数: +4264， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -66,6 +66,7 @@
 
 
 - [2021-04-21-4月20日全国新增新冠21例-本土2例在云南瑞丽](https://m.caixin.com/m/2021-04-21/101694037.html) ![](assets/new.png)  
+- [2021-04-21-【境内疫情观察】海南新增12例境外输入病例（4月20日）](http://m.database.caixin.com/m/2021-04-21/101694231.html) ![](assets/new.png)  
 - [2021-04-21-澳大利亚与新西兰开通旅行气泡-英国启动新冠人体攻毒｜大流行手记（4月20日）](https://m.caixin.com/m/2021-04-21/101694005.html) ![](assets/new.png)  
 - [2021-04-20-最新海外疫情：新冠感染近1.42亿-累计死亡超302万](https://m.caixin.com/m/2021-04-20/101693826.html) ![](assets/new.png)  
 - [2021-04-20-【境内疫情观察】云南新增1例本土病例（4月19日）](http://m.database.caixin.com/m/2021-04-20/101693637.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-04-14-【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html) ![](assets/new.png)  
 - [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
-- [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -96,8 +96,6 @@
 </summary>
 
 
-- [2021-04-21-全国｜新增-21-例确诊病例-其中本土-2-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyxbaSVbWaqpJjnPgMGht210421&isfromapp=1) ![](assets/new.png)  
-- [2021-04-20-云南｜新增本土确诊病例-2-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuVRmVkEgeAHcVn7PXEqE210421&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1014,10 @@
 </summary>
 
 
+- [2021-04-21-看完发布会后，关于苹果产品线，我有了个奇怪的想法](https://www.v2ex.com/t/772183) ![](assets/new.png)  
+- [2021-04-21-2021-年了，-VS-Code-开发-Java-的体验如何了？](https://www.v2ex.com/t/772181) ![](assets/new.png)  
+- [2021-04-21-如果买-iPad-Pro-2021，是否有必要为了-16G-内存而购买昂贵的-1T-版？](https://www.v2ex.com/t/772180) ![](assets/new.png)  
+- [2021-04-21-不太明白-writer.write-和-writer.write-await-writer.drain有什么区别](https://www.v2ex.com/t/772178) ![](assets/new.png)  
 - [2021-04-21-Mini-+-怎样的显示器->=-iMac](https://www.v2ex.com/t/772176) ![](assets/new.png)  
 - [2021-04-21-有多少非浙江人能够接受蟹酱蟹糊这种美食？](https://www.v2ex.com/t/772174) ![](assets/new.png)  
 - [2021-04-21-SpringSecurity-的无权访问异常理器-AccessDeniedHandler-与统一异常处理器-DefaultHandlerExceptionResolver-冲突](https://www.v2ex.com/t/772172) ![](assets/new.png)  
@@ -1032,10 +1034,6 @@
 - [2021-04-21-m1-的-pro-和-air-区别在哪](https://www.v2ex.com/t/772153) ![](assets/new.png)  
 - [2021-04-21-AirTag-可以绑在猫身上吗？防止猫咪走丢或者找不到](https://www.v2ex.com/t/772152) ![](assets/new.png)  
 - [2021-04-21-如果最新的-m1-iPad-能装-parallels-desktop-心动吗？](https://www.v2ex.com/t/772151) ![](assets/new.png)  
-- [2021-04-21-新-iPad-越来越贵，请问去哪买靠谱的全新-iPad-air3/4](https://www.v2ex.com/t/772150) ![](assets/new.png)  
-- [2021-04-21-相比于-AirTag-本身，-AirPods-加入防丢功能更为实用](https://www.v2ex.com/t/772149) ![](assets/new.png)  
-- [2021-04-21-联通-10016-每周都要打三五个电话过来](https://www.v2ex.com/t/772148) ![](assets/new.png)  
-- [2021-04-21-Mac-连接-iPhone-热点的问题](https://www.v2ex.com/t/772147) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

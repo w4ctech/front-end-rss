@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-21 00:09:05，:rocket: 更新条数: +4254， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-21 00:26:00，:rocket: 更新条数: +736， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-04-20-最新疫情：全国新冠累计确诊90520例-累计接种新冠疫苗超1.95亿剂次](https://m.caixin.com/m/2021-04-20/101693833.html) ![](assets/new.png)  
-- [2021-04-20-4月19日全国新增新冠10例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-20/101693430.html) ![](assets/new.png)  
-- [2021-04-20-最新海外疫情：新冠感染近1.42亿-累计死亡超302万](https://m.caixin.com/m/2021-04-20/101693826.html) ![](assets/new.png)  
-- [2021-04-20-【境内疫情观察】云南新增1例本土病例（4月19日）](http://m.database.caixin.com/m/2021-04-20/101693637.html) ![](assets/new.png)  
-- [2021-04-20-过半美国成年人已接种一剂-印度加速进口mRNA疫苗｜大流行手记（4月19日）](https://m.caixin.com/m/2021-04-20/101693442.html) ![](assets/new.png)  
-- [2021-04-19-变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html) ![](assets/new.png)  
-- [2021-04-19-【境内疫情观察】全国新增11例境外输入病例（4月18日）](http://m.database.caixin.com/m/2021-04-19/101693254.html) ![](assets/new.png)  
-- [2021-04-19-印度单日新增逾26万病例-世卫称全球感染率接近历史高峰｜大流行手记（4月18日）](https://m.caixin.com/m/2021-04-19/101692924.html) ![](assets/new.png)  
-- [2021-04-18-【境内疫情观察】全国新增16例境外输入病例（4月17日）](http://m.database.caixin.com/m/2021-04-18/101692852.html) ![](assets/new.png)  
-- [2021-04-18-科兴疫苗智利真实世界保护率达67%-礼来中和抗体紧急授权被收回｜大流行手记（4月17日）](https://m.caixin.com/m/2021-04-18/101692822.html) ![](assets/new.png)  
-- [2021-04-17-【境内疫情观察】云南新增1例本土病例（4月16日）](http://m.database.caixin.com/m/2021-04-17/101692717.html) ![](assets/new.png)  
-- [2021-04-17-辉瑞称接种者或需打第三剂疫苗-以色列取消户外口罩令｜大流行手记（4月16日）](https://m.caixin.com/m/2021-04-17/101692553.html) ![](assets/new.png)  
-- [2021-04-16-印度单日新增确诊首破20万人-全球疫苗供应紧缺｜大流行手记（4月15日）](https://m.caixin.com/m/2021-04-16/101691883.html) ![](assets/new.png)  
-- [2021-04-15-香港放宽新冠疫苗接种年龄限制-明年将采购新一代疫苗](https://m.caixin.com/m/2021-04-15/101691804.html) ![](assets/new.png)  
-- [2021-04-15-【境内疫情观察】全国新增10例境外输入病例（4月14日）](http://m.database.caixin.com/m/2021-04-15/101691588.html) ![](assets/new.png)  
-- [2021-04-14-云南瑞丽4月13日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-14/101690804.html) ![](assets/new.png)  
-- [2021-04-14-【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html) ![](assets/new.png)  
-- [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
-- [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
-- [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +996,12 @@
 </summary>
 
 
+- [2021-04-21-请问输入法我能把某个字从字库删了吗？就是打不出来。](https://www.v2ex.com/t/772062) ![](assets/new.png)  
+- [2021-04-21-新款-M1-iMac-在附送的独立的键盘上做了-touch-id，那黑苹果可不可以](https://www.v2ex.com/t/772061) ![](assets/new.png)  
+- [2021-04-21-最新款-iPad-用了-M1-芯片。以后-iOS-和-MacOS-会不会“彻底”融合。](https://www.v2ex.com/t/772060) ![](assets/new.png)  
+- [2021-04-21-海昌路求整租](https://www.v2ex.com/t/772059) ![](assets/new.png)  
+- [2021-04-21-感觉-macbook-air-m1-线马上要被砍掉了](https://www.v2ex.com/t/772057) ![](assets/new.png)  
+- [2021-04-21-airtag-刻字有什么好的创意么？](https://www.v2ex.com/t/772056) ![](assets/new.png)  
 - [2021-04-20-异步编程中的睡眠是如何实现的？](https://www.v2ex.com/t/772055) ![](assets/new.png)  
 - [2021-04-20-M1-Mac-mini-加入万兆可选](https://www.v2ex.com/t/772054) ![](assets/new.png)  
 - [2021-04-20-姐夫离开了玻璃渣，-Overwatch-2-成了未知数了](https://www.v2ex.com/t/772053) ![](assets/new.png)  
@@ -1030,12 +1016,6 @@
 - [2021-04-20-iPad-mini6-凉了](https://www.v2ex.com/t/772042) ![](assets/new.png)  
 - [2021-04-20-今晚主题：买显示器送-M1....](https://www.v2ex.com/t/772040) ![](assets/new.png)  
 - [2021-04-20-大家在学新东西的时候状态是怎样的，最近感觉自己忘的也太快了点](https://www.v2ex.com/t/772039) ![](assets/new.png)  
-- [2021-04-20-M1-in-iPad-Pro-这操作。](https://www.v2ex.com/t/772038) ![](assets/new.png)  
-- [2021-04-20-一个关于电信-ipv6-端口的玄学问题](https://www.v2ex.com/t/772037) ![](assets/new.png)  
-- [2021-04-20-iPad-pro-搭载-m1](https://www.v2ex.com/t/772036) ![](assets/new.png)  
-- [2021-04-20-Airtags-发布，一个-29-刀-4-个-99-刀](https://www.v2ex.com/t/772035) ![](assets/new.png)  
-- [2021-04-20-8-瓶水-2-瓶有毒-6-个耗子-的解](https://www.v2ex.com/t/772034) ![](assets/new.png)  
-- [2021-04-20-假期出行，租车哪家好？（神州、一嗨、悟空...-请你补充-）](https://www.v2ex.com/t/772033) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1078,26 +1058,26 @@
 </summary>
 
 
+- [2021-04-21-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-04-21-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
 - [2021-04-21-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
 - [2021-04-21-JavaScript-垃圾回收策略](https://toutiao.io/k/i8pbfyr) ![](assets/new.png)  
-- [2021-04-21-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
 - [2021-04-21-厉害了，A4-纸上竟然能清晰看动漫](https://toutiao.io/k/izj0r49) ![](assets/new.png)  
 - [2021-04-21-AMS-系列之生命周期管理](https://toutiao.io/k/5jrgtv8) ![](assets/new.png)  
-- [2021-04-21-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-21-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-21-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-21-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
-- [2021-04-21-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-21-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
-- [2021-04-21-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-21-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-21-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-21-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-21-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-21-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-21-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-21-从-Serverless-看软件效能提升](https://toutiao.io/k/ykfvids) ![](assets/new.png)  
 - [2021-04-21-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-21-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-21-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
 - [2021-04-21-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-21-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-21-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-21-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-21-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-21-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-21-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-21-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-21-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-21-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,6 +1089,16 @@
 </summary>
 
 
+- [2021-04-21-黑客攻击物流公司致供应链中断,荷兰超市奶酪短缺](https://sec.thief.one/article_content?a_id=70ba94c04cfd22724455b81e6787a8d2) ![](assets/new.png)  
+- [2021-04-20-快递公司员工账号被租用于窃取公民信息!](https://sec.thief.one/article_content?a_id=2d1b6bdf8b323cf7df7c171a78491c93) ![](assets/new.png)  
+- [2021-04-20-【安全圈】中国开通全球规模最大的互联网试验设施主干网](https://sec.thief.one/article_content?a_id=477e2638de560a2e2f2fc1eb0a63447a) ![](assets/new.png)  
+- [2021-04-20-20210420|漏洞处置情况](https://sec.thief.one/article_content?a_id=6b0b0c652edd3929beada6d1bb2aa2d9) ![](assets/new.png)  
+- [2021-04-20-每日攻防资讯简报Apr.20th](https://sec.thief.one/article_content?a_id=0265cdcb55e622d1ff8d5cce2249ecbb) ![](assets/new.png)  
+- [2021-04-20-奇安信大湾区生态合作伙伴峰会暨深圳龙岗网络安全产业交流会成...](https://sec.thief.one/article_content?a_id=48b0013e27887f56b4567c6679197a9d) ![](assets/new.png)  
+- [2021-04-20-Chromium-issue-1196683、1195777分析](https://sec.thief.one/article_content?a_id=98966418ff0f847266679f0281907303) ![](assets/new.png)  
+- [2021-04-20-​数字化转型中的银行业,数据安全却掉了队](https://sec.thief.one/article_content?a_id=f52a7dcec668ba48700176dd1b4f2dca) ![](assets/new.png)  
+- [2021-04-20-是什么让我重拾对学习信息安全技术的信心](https://sec.thief.one/article_content?a_id=34155698edaf2b4a198309b17460c37b) ![](assets/new.png)  
+- [2021-04-20-switch-...-case-语法你支不支持?](https://sec.thief.one/article_content?a_id=abb02f155c1c574d8f2c023f34782c11) ![](assets/new.png)  
 - [2021-04-20-FreeBuf安全运营系列公开课丨SIEM&SOC产品研究与测试报告解...](https://sec.thief.one/article_content?a_id=111a97d2af5c2e0cbd9e738dd4afd3d5) ![](assets/new.png)  
 - [2021-04-20-【技术分享】CVE-2021-26295-Apache-OFBiz-反序列化分析](https://sec.thief.one/article_content?a_id=084244baf3ea886c3f12f5cbfbcf4951) ![](assets/new.png)  
 - [2021-04-20-大事预告,周日开启!](https://sec.thief.one/article_content?a_id=1aa33641795e269e13bef3d719db8088) ![](assets/new.png)  
@@ -1119,16 +1109,6 @@
 - [2021-04-20-信息安全漏洞周报2021年第16期](https://sec.thief.one/article_content?a_id=21d2d446c20fed79db31eec956d58c07) ![](assets/new.png)  
 - [2021-04-20-国舜股份再度多领域入选《CCSIP-2021中国网络安全产业全景图》](https://sec.thief.one/article_content?a_id=4518243099654f1b430f2f4bf43534f3) ![](assets/new.png)  
 - [2021-04-20-达拉斯联邦储备银行行长称比特币显然是一种价值储藏手段](https://sec.thief.one/article_content?a_id=c9be4afb2cb97773947064a34955e766) ![](assets/new.png)  
-- [2021-04-20-安全日报2021.04.20](https://sec.thief.one/article_content?a_id=369afdead0bd67aa626179b5e91715e1) ![](assets/new.png)  
-- [2021-04-20-北约举行2021年度“锁定盾牌”网络防御演习](https://sec.thief.one/article_content?a_id=88f001abdffe734fe4c813cb6c08af81) ![](assets/new.png)  
-- [2021-04-20-重磅!央行高层对比特币、加密货币定调:必须对实体经济有好处](https://sec.thief.one/article_content?a_id=45cd07917f4dcefefe6f953c7e539ec6) ![](assets/new.png)  
-- [2021-04-20-Android-移动设备adb渗透取证命令清单](https://sec.thief.one/article_content?a_id=c5f380db9cc6fe0ce347053c53414fb4) ![](assets/new.png)  
-- [2021-04-20-一文浅析内存管理机制](https://sec.thief.one/article_content?a_id=73524a6b2325b1c92f373b629e028d98) ![](assets/new.png)  
-- [2021-04-20-工具开发-|-阿里云服务API管理工具](https://sec.thief.one/article_content?a_id=44ca729213afbabc234e49cd6c878df9) ![](assets/new.png)  
-- [2021-04-20-红蓝对抗之蓝队防守:ATT&CK框架的应用](https://sec.thief.one/article_content?a_id=ea28f0774b928636371a11d7e40ed406) ![](assets/new.png)  
-- [2021-04-20-CVE-2021-23888-:-McAfee-ePolicy-Orchestrator中的HTML注入漏洞](https://sec.thief.one/article_content?a_id=e914c59ae0093bd5788736524480d16a) ![](assets/new.png)  
-- [2021-04-20-拜登政府制定美国电网网络安全百日计划](https://sec.thief.one/article_content?a_id=a0972dcbaee8649db01b15fd885130ca) ![](assets/new.png)  
-- [2021-04-20-为什么你学C++这么难?](https://sec.thief.one/article_content?a_id=3e74816b3c4c7f2abb2f71aaa6aba028) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

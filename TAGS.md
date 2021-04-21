@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-21 09:24:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 09:39:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -393,6 +393,8 @@
 - [【前端早读课】【第2254期】前端性能优化](https://www.ershicimi.com/p/b4822e75e2ce8e957c1f9b9427a06741)
 - [【程序员成长指北】送书+红包-阿里云专家基于5年一线大厂Web性能优化经验分享书籍](https://www.ershicimi.com/p/7e5d025b87d90b68e57fae7c71dbacbd)
 - [【奇舞周刊】2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152)
+- [【V2EX】有没有和我一样的错觉：哪怕是两年前的-iPhone-觉得性能过剩，而刚发布的最新-Android-却觉性能不够？](https://www.v2ex.com/t/772242)
+- [【V2EX】Mac-M1-pro-和-air-的性能哪个好？](https://www.v2ex.com/t/772241)
 - [【开发者头条】推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r)
 - [【物联网智库】大人，时代变了！英伟达推出ARM架构CPU，性能10倍领先](https://www.ershicimi.com/p/874901238abc4822eb2940f07fdc57a8)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -497,9 +499,8 @@
 - [【JavaScript】Atom-1.56.0-发布，GitHub-官方文本编辑器](https://www.ershicimi.com/p/c35fb03a8c5fe27e9d8bfcb139d2a679)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【V2EX】github-codespaces-有没人试过？](https://www.v2ex.com/t/772193)
-- [【开发者头条】推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y)
 - [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
+- [【开发者头条】推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y)
 - [【安全热点】【漏洞通告】Gitlab多个高危漏洞](https://sec.thief.one/article_content?a_id=806eeee256d4b6d632dd24672eaf0e23)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -603,10 +604,10 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】4月20日全国新增新冠21例-本土2例在云南瑞丽](https://m.caixin.com/m/2021-04-21/101694037.html)
+- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊90541例-累计接种新冠疫苗近1.99亿剂次](https://m.caixin.com/m/2021-04-21/101694400.html)
+- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超1.42亿-累计死亡超303万](https://m.caixin.com/m/2021-04-21/101694403.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】海南新增12例境外输入病例（4月20日）](http://m.database.caixin.com/m/2021-04-21/101694231.html)
 - [【武汉肺炎防疫全纪录(财新网)】澳大利亚与新西兰开通旅行气泡-英国启动新冠人体攻毒｜大流行手记（4月20日）](https://m.caixin.com/m/2021-04-21/101694005.html)
-- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染近1.42亿-累计死亡超302万](https://m.caixin.com/m/2021-04-20/101693826.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】云南新增1例本土病例（4月19日）](http://m.database.caixin.com/m/2021-04-20/101693637.html)
 - [【武汉肺炎防疫全纪录(财新网)】过半美国成年人已接种一剂-印度加速进口mRNA疫苗｜大流行手记（4月19日）](https://m.caixin.com/m/2021-04-20/101693442.html)
 - [【武汉肺炎防疫全纪录(财新网)】变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html)

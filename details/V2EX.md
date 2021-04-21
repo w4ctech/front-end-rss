@@ -1,10 +1,21 @@
-:alarm_clock: 更新时间: 2021-04-21 09:24:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 09:39:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-21-如何才能移民其他国家](https://www.v2ex.com/t/772245) 
+- [2021-04-21-纯净的加密货币监控软件](https://www.v2ex.com/t/772244) 
+- [2021-04-21-万能的-V-友，有没有支持这样子功能的电子签名终端产品](https://www.v2ex.com/t/772243) 
+- [2021-04-21-有没有和我一样的错觉：哪怕是两年前的-iPhone-觉得性能过剩，而刚发布的最新-Android-却觉性能不够？](https://www.v2ex.com/t/772242) 
+- [2021-04-21-Mac-M1-pro-和-air-的性能哪个好？](https://www.v2ex.com/t/772241) 
+- [2021-04-21-小鹤查形---好用的小鹤音形编码学习和查询工具](https://www.v2ex.com/t/772240) 
+- [2021-04-21-都来说说公司配的开发电脑是什么配置的](https://www.v2ex.com/t/772239) 
+- [2021-04-21-android-studio-build-报错，貌似是-gradle-版本问题，网上搜了方法没解决，有大佬帮看看吗？](https://www.v2ex.com/t/772238) 
+- [2021-04-21-有没有-BIOS-工程师或者对魔改-BIOS-了解的大佬？](https://www.v2ex.com/t/772237) 
+- [2021-04-21-在线求教！求教-Delphi-大佬，需要将下面的代码转成-Go](https://www.v2ex.com/t/772236) 
+- [2021-04-21-国区下架了的-APP-怎么更新啊？](https://www.v2ex.com/t/772235) 
 - [2021-04-21-请问一下-springcloud-组件-feign-的问题](https://www.v2ex.com/t/772234) 
 - [2021-04-21-四两拨千斤——你不知道的-VScode-编码-TypeScript-的技巧](https://www.v2ex.com/t/772233) 
 - [2021-04-21-好奇，有方案解决-视频制作时，不同设备录制人声有明显差异-的问题吗？](https://www.v2ex.com/t/772232) 
@@ -37,10 +48,3 @@
 - [2021-04-21-大家来说说，-newsletter-与微信公众号有什么区别？](https://www.v2ex.com/t/772198) 
 - [2021-04-21-A12Z-和-M1-有多大差距](https://www.v2ex.com/t/772197) 
 - [2021-04-21-Nodejs-终于刷到了版本-16LTS](https://www.v2ex.com/t/772196) 
-- [2021-04-21-github-codespaces-有没人试过？](https://www.v2ex.com/t/772193) 
-- [2021-04-21-怎么让老油条的程序猿变得不油头？](https://www.v2ex.com/t/772192) 
-- [2021-04-21-🔥-Go-轻量级开发通用库-🚀🚀🚀](https://www.v2ex.com/t/772191) 
-- [2021-04-21-广州-九毛九集团招聘后端开发工程师-again😅](https://www.v2ex.com/t/772189) 
-- [2021-04-21-考完驾照多年没有实际上路开车，已经忘记如何开车了，要怎样快速复习？](https://www.v2ex.com/t/772187) 
-- [2021-04-21-InfluxDB-InfluxQL-中如何按-tag-计算总和？](https://www.v2ex.com/t/772186) 
-- [2021-04-21-攒机-求推荐????](https://www.v2ex.com/t/772185) 

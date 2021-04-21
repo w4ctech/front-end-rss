@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-21 09:24:15，:rocket: 更新条数: +4272， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-21 09:39:16，:rocket: 更新条数: +4276， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,10 +65,10 @@
 </summary>
 
 
-- [2021-04-21-4月20日全国新增新冠21例-本土2例在云南瑞丽](https://m.caixin.com/m/2021-04-21/101694037.html) ![](assets/new.png)  
+- [2021-04-21-最新疫情：全国新冠累计确诊90541例-累计接种新冠疫苗近1.99亿剂次](https://m.caixin.com/m/2021-04-21/101694400.html) ![](assets/new.png)  
+- [2021-04-21-最新海外疫情：新冠感染超1.42亿-累计死亡超303万](https://m.caixin.com/m/2021-04-21/101694403.html) ![](assets/new.png)  
 - [2021-04-21-【境内疫情观察】海南新增12例境外输入病例（4月20日）](http://m.database.caixin.com/m/2021-04-21/101694231.html) ![](assets/new.png)  
 - [2021-04-21-澳大利亚与新西兰开通旅行气泡-英国启动新冠人体攻毒｜大流行手记（4月20日）](https://m.caixin.com/m/2021-04-21/101694005.html) ![](assets/new.png)  
-- [2021-04-20-最新海外疫情：新冠感染近1.42亿-累计死亡超302万](https://m.caixin.com/m/2021-04-20/101693826.html) ![](assets/new.png)  
 - [2021-04-20-【境内疫情观察】云南新增1例本土病例（4月19日）](http://m.database.caixin.com/m/2021-04-20/101693637.html) ![](assets/new.png)  
 - [2021-04-20-过半美国成年人已接种一剂-印度加速进口mRNA疫苗｜大流行手记（4月19日）](https://m.caixin.com/m/2021-04-20/101693442.html) ![](assets/new.png)  
 - [2021-04-19-变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html) ![](assets/new.png)  
@@ -1016,6 +1016,17 @@
 </summary>
 
 
+- [2021-04-21-如何才能移民其他国家](https://www.v2ex.com/t/772245) ![](assets/new.png)  
+- [2021-04-21-纯净的加密货币监控软件](https://www.v2ex.com/t/772244) ![](assets/new.png)  
+- [2021-04-21-万能的-V-友，有没有支持这样子功能的电子签名终端产品](https://www.v2ex.com/t/772243) ![](assets/new.png)  
+- [2021-04-21-有没有和我一样的错觉：哪怕是两年前的-iPhone-觉得性能过剩，而刚发布的最新-Android-却觉性能不够？](https://www.v2ex.com/t/772242) ![](assets/new.png)  
+- [2021-04-21-Mac-M1-pro-和-air-的性能哪个好？](https://www.v2ex.com/t/772241) ![](assets/new.png)  
+- [2021-04-21-小鹤查形---好用的小鹤音形编码学习和查询工具](https://www.v2ex.com/t/772240) ![](assets/new.png)  
+- [2021-04-21-都来说说公司配的开发电脑是什么配置的](https://www.v2ex.com/t/772239) ![](assets/new.png)  
+- [2021-04-21-android-studio-build-报错，貌似是-gradle-版本问题，网上搜了方法没解决，有大佬帮看看吗？](https://www.v2ex.com/t/772238) ![](assets/new.png)  
+- [2021-04-21-有没有-BIOS-工程师或者对魔改-BIOS-了解的大佬？](https://www.v2ex.com/t/772237) ![](assets/new.png)  
+- [2021-04-21-在线求教！求教-Delphi-大佬，需要将下面的代码转成-Go](https://www.v2ex.com/t/772236) ![](assets/new.png)  
+- [2021-04-21-国区下架了的-APP-怎么更新啊？](https://www.v2ex.com/t/772235) ![](assets/new.png)  
 - [2021-04-21-请问一下-springcloud-组件-feign-的问题](https://www.v2ex.com/t/772234) ![](assets/new.png)  
 - [2021-04-21-四两拨千斤——你不知道的-VScode-编码-TypeScript-的技巧](https://www.v2ex.com/t/772233) ![](assets/new.png)  
 - [2021-04-21-好奇，有方案解决-视频制作时，不同设备录制人声有明显差异-的问题吗？](https://www.v2ex.com/t/772232) ![](assets/new.png)  
@@ -1025,17 +1036,6 @@
 - [2021-04-21-mysql-给定条件索引如何建立？](https://www.v2ex.com/t/772226) ![](assets/new.png)  
 - [2021-04-21-微信小程序可以使用百度地图么？](https://www.v2ex.com/t/772225) ![](assets/new.png)  
 - [2021-04-21-四大咨询-量化金融、数据分析、NLP-部门直招（应届、社招均可投递）](https://www.v2ex.com/t/772224) ![](assets/new.png)  
-- [2021-04-21-M1-都入了-iPad-了，会不会进入-iPhone-？](https://www.v2ex.com/t/772223) ![](assets/new.png)  
-- [2021-04-21-北京望京-SOHO知道创宇后端研发，简历继续砸过来～～～](https://www.v2ex.com/t/772221) ![](assets/new.png)  
-- [2021-04-21-家人们，-Python-在爬-https-的时候会出现一个少见的问题，是本地环境的问题吗？](https://www.v2ex.com/t/772220) ![](assets/new.png)  
-- [2021-04-21-年度最佳礼品：-AirTag？](https://www.v2ex.com/t/772217) ![](assets/new.png)  
-- [2021-04-21-上海静安全栈开发-Ruby-on-Rails外企技术-Agency-----薪资可谈-15K-30K](https://www.v2ex.com/t/772216) ![](assets/new.png)  
-- [2021-04-21-宝安翻身租房咨询](https://www.v2ex.com/t/772215) ![](assets/new.png)  
-- [2021-04-21-请教关于异地组网的问题](https://www.v2ex.com/t/772214) ![](assets/new.png)  
-- [2021-04-21-看这一本书，或许可能让你少奋斗十年。假如-1-天你可以赚-300，这样一算，-10-年就是百万元！](https://www.v2ex.com/t/772213) ![](assets/new.png)  
-- [2021-04-21-有两个废旧的-iPhone6S，均不能开机，可以拿来做什么？拆零件吗](https://www.v2ex.com/t/772211) ![](assets/new.png)  
-- [2021-04-21-有劳推荐一款-500-800-块范围的蓝牙音箱，放家里听歌用。](https://www.v2ex.com/t/772210) ![](assets/new.png)  
-- [2021-04-21-有了解国产视频编码-AVS3-的同学吗？与-H264，-VP9-等标准相比如何？](https://www.v2ex.com/t/772209) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

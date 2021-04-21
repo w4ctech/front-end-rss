@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-21 01:15:44，:rocket: 更新条数: +4258， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-21 01:28:15，:rocket: 更新条数: +4260， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,11 @@
 </summary>
 
 
+- [2021-04-21-Android-项目多个-Jar-包有命名空间冲突，有办法解决吗？](https://www.v2ex.com/t/772085) ![](assets/new.png)  
+- [2021-04-21-请问,自己独立的使用-Springboot+Mybatis+vue-写个博客网站,能找到-Java-开发的工作不.-害怕被面试官乱杀](https://www.v2ex.com/t/772084) ![](assets/new.png)  
+- [2021-04-21-蜂窝版-iPad-信号比-iPhone-怎么样？](https://www.v2ex.com/t/772083) ![](assets/new.png)  
+- [2021-04-21-苹果昨晚发布的-iMac-有-7-种颜色可选，价格-9999-元起，大家会买吗？](https://www.v2ex.com/t/772082) ![](assets/new.png)  
+- [2021-04-21-成家后的你，跟父母多久联络一次？](https://www.v2ex.com/t/772080) ![](assets/new.png)  
 - [2021-04-21-infuse-在-apple-tv-上老是重新加载海报提示内存不足什么原因](https://www.v2ex.com/t/772079) ![](assets/new.png)  
 - [2021-04-21-请教-iPhone-不越狱的情况下如何实现电话接通挂断的时候震动一下](https://www.v2ex.com/t/772078) ![](assets/new.png)  
 - [2021-04-21-日企薪资是不是都比较低？](https://www.v2ex.com/t/772076) ![](assets/new.png)  
@@ -1031,11 +1036,6 @@
 - [2021-04-21-看完苹果发布会，想搞一个简易的显示器校色-app](https://www.v2ex.com/t/772063) ![](assets/new.png)  
 - [2021-04-21-请问输入法我能把某个字从字库删了吗？就是打不出来。](https://www.v2ex.com/t/772062) ![](assets/new.png)  
 - [2021-04-21-新款-M1-iMac-在附送的独立的键盘上做了-touch-id，那黑苹果可不可以](https://www.v2ex.com/t/772061) ![](assets/new.png)  
-- [2021-04-21-最新款-iPad-用了-M1-芯片。以后-iOS-和-MacOS-会不会“彻底”融合。](https://www.v2ex.com/t/772060) ![](assets/new.png)  
-- [2021-04-21-海昌路求整租](https://www.v2ex.com/t/772059) ![](assets/new.png)  
-- [2021-04-21-感觉-macbook-air-m1-线马上要被砍掉了](https://www.v2ex.com/t/772057) ![](assets/new.png)  
-- [2021-04-21-airtag-刻字有什么好的创意么？](https://www.v2ex.com/t/772056) ![](assets/new.png)  
-- [2021-04-20-异步编程中的睡眠是如何实现的？](https://www.v2ex.com/t/772055) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,19 +1085,19 @@
 - [2021-04-21-厉害了，A4-纸上竟然能清晰看动漫](https://toutiao.io/k/izj0r49) ![](assets/new.png)  
 - [2021-04-21-AMS-系列之生命周期管理](https://toutiao.io/k/5jrgtv8) ![](assets/new.png)  
 - [2021-04-21-从-Serverless-看软件效能提升](https://toutiao.io/k/ykfvids) ![](assets/new.png)  
-- [2021-04-21-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-21-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-21-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [2021-04-21-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-21-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [2021-04-21-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-21-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-21-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-21-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-21-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-21-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-21-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-21-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
 - [2021-04-21-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-21-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-21-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-21-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-21-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-21-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
 - [2021-04-21-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-21-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-21-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

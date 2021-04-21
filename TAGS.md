@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-21 11:03:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 11:23:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -207,6 +207,7 @@
 
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
+- [【V2EX】有个加拿大的前同事打算合作进口点食品预包装过来国内出售,想通过小程序商城来建立销售网络批发或者零售](https://www.v2ex.com/t/772264)
 - [【V2EX】微信小程序可以使用百度地图么？](https://www.v2ex.com/t/772225)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 

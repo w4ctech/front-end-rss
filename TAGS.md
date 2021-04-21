@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-21 20:24:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 20:37:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -185,8 +185,8 @@
 - [【Nodejs技术栈】知乎回答-前端是否要学习-Node.js?](https://www.ershicimi.com/p/d7a5f735d2d46323381cef380668cc38)
 - [【前端日刊】如何应用Node.js打造个人提效工作链？](https://www.ershicimi.com/p/567981ae7d174e4109608888575c3207)
 - [【前端日刊】作为前端开发，Node.js-你得了解下～](https://www.ershicimi.com/p/0f3e9093221929dddea3c6dd757ae61b)
+- [【JavaScript】Node.js-16.0.0-正式发布](https://www.ershicimi.com/p/6335a7d2d173c6c55cc7d0f6f7204427)
 - [【V2EX】m1-mac-node-安装的全局包找不到命令](https://www.v2ex.com/t/772290)
-- [【安全热点】【技术分享】NodeJS从零开始到原型链污染](https://sec.thief.one/article_content?a_id=1142d78a089d8a3b45aa4bc86ec84c7d)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

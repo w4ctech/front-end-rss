@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-21 20:24:08，:rocket: 更新条数: +742， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-21 20:37:33，:rocket: 更新条数: +742， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -870,6 +870,7 @@
 </summary>
 
 
+- [2021-04-21-Node.js-16.0.0-正式发布](https://www.ershicimi.com/p/6335a7d2d173c6c55cc7d0f6f7204427) ![](assets/new.png)  
 - [2021-04-20-pnpm-6.1-发布](https://www.ershicimi.com/p/4224fa6d39c6d08ba200bc9f4282461b) ![](assets/new.png)  
 - [2021-04-19-前端进阶所需要了解的Vue-3源码及原理](https://www.ershicimi.com/p/0b523ed89aeaa7ad97b9581539617ac0) ![](assets/new.png)  
 - [2021-04-18-推荐一位程序媛的公众号](https://www.ershicimi.com/p/9e286921a0645e2f8b840299d159d6ef) ![](assets/new.png)  
@@ -889,7 +890,6 @@
 - [2021-04-04-Deno-宣布成立公司](https://www.ershicimi.com/p/e971f481d7888da5c60f270409eb9686) ![](assets/new.png)  
 - [2021-04-03-Vue-3-计划放弃支持-IE11](https://www.ershicimi.com/p/84c1b75d51880846b27907becd2c629a) ![](assets/new.png)  
 - [2021-04-02-Visual-Studio-Code-1.55-发布](https://www.ershicimi.com/p/60f661503a08556f36055d40a3f1e6b1) ![](assets/new.png)  
-- [2021-04-01-Vue3-和-React17-，你选谁？](https://www.ershicimi.com/p/5201768cad7e8d137e8170250acd1b4b) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

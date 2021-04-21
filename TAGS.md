@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-21 11:49:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 12:03:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -461,7 +461,6 @@
 - [【前端日刊】面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219)
 - [【JavaScript】Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29)
 - [【V2EX】家人们，-Python-在爬-https-的时候会出现一个少见的问题，是本地环境的问题吗？](https://www.v2ex.com/t/772220)
-- [【V2EX】上海静安全栈开发-Ruby-on-Rails外企技术-Agency-----薪资可谈-15K-30K](https://www.v2ex.com/t/772216)
 - [【技术头条】十六年全栈开发者的-Android-开发踩坑实录-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLiRIV5XAvToTpLTLRSkxdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】i/o-timeout-，-希望你不要踩到这个-net/http-包的坑](https://toutiao.io/k/g2vk4k1)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

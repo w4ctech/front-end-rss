@@ -20541,6 +20541,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "老人在某音直播里买了个 8+256 手机，用 adb 查看了一下，结果发现有 fake 字段。",
+        "link": "https://www.v2ex.com/t/772267",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "想问一下老哥们关于 M1 的 Air 外接一台 144Hz 显示器的问题",
+        "link": "https://www.v2ex.com/t/772266",
+        "date": "2021-04-21"
+      },
+      {
         "title": "今天去到上海车展逛了一天，说些自己看到的一些略有意思的事。",
         "link": "https://www.v2ex.com/t/772265",
         "date": "2021-04-21"
@@ -20714,16 +20724,6 @@
         "title": "家人们， Python 在爬 https 的时候会出现一个少见的问题，是本地环境的问题吗？",
         "link": "https://www.v2ex.com/t/772220",
         "date": "2021-04-21"
-      },
-      {
-        "title": "年度最佳礼品： AirTag？",
-        "link": "https://www.v2ex.com/t/772217",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[上海静安][全栈开发 Ruby on Rails]外企技术 Agency --- 薪资可谈 15K-30K",
-        "link": "https://www.v2ex.com/t/772216",
-        "date": "2021-04-21"
       }
     ]
   },
@@ -20870,13 +20870,13 @@
         "date": "2021-04-21"
       },
       {
-        "title": "i/o timeout ， 希望你不要踩到这个 net/http 包的坑",
-        "link": "https://toutiao.io/k/g2vk4k1",
+        "title": "Java 8 中的 Lambda 表达式",
+        "link": "https://toutiao.io/k/zahd9yv",
         "date": "2021-04-21"
       },
       {
-        "title": "Java 8 中的 Lambda 表达式",
-        "link": "https://toutiao.io/k/zahd9yv",
+        "title": "i/o timeout ， 希望你不要踩到这个 net/http 包的坑",
+        "link": "https://toutiao.io/k/g2vk4k1",
         "date": "2021-04-21"
       },
       {
@@ -20940,6 +20940,31 @@
         "date": "2021-04-21"
       },
       {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
+        "date": "2021-04-21"
+      },
+      {
         "title": "[推荐] RESTful API 设计最佳实践",
         "link": "https://toutiao.io/k/4zqz7k1",
         "date": "2021-04-21"
@@ -20950,43 +20975,8 @@
         "date": "2021-04-21"
       },
       {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
-        "date": "2021-04-21"
-      },
-      {
         "title": "[推荐] 教你从头写游戏服务器框架",
         "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
-        "link": "https://toutiao.io/k/811or1j",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
         "date": "2021-04-21"
       },
       {
@@ -20995,23 +20985,33 @@
         "date": "2021-04-21"
       },
       {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-21"
-      },
-      {
         "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
         "link": "https://toutiao.io/k/zdnq3fy",
         "date": "2021-04-21"
       },
       {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
         "date": "2021-04-21"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
         "date": "2021-04-21"
       }
     ]

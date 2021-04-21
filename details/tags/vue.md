@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-21 03:08:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 03:24:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -15,10 +15,13 @@
 - [2021-03-17-面试官问-Vue-性能优化，我该怎么回答？](https://www.ershicimi.com/p/c835170ff6d0ac862183d15f5140e5a2) 
 - [2021-03-10-实战-|-Vite2.0-搭建-Vue3-移动端项目](https://www.ershicimi.com/p/7ca66b4020aed3d84650689756887815) 
 - [2021-03-08-面试京东，那些必问的-Vue-知识点](https://www.ershicimi.com/p/148a813134440e5d7763c3300e4da70d) 
+- [2021-04-21-手把手教你写一个Vue组件发布到npm且可外链引入使用](https://www.ershicimi.com/p/889828adb9f0c1cd1e9e9a837c51dfff) 
 - [2021-04-19-对Vue项目团队开发的一些基本配置封装分享](https://www.ershicimi.com/p/48c9fc04e5a3f5e1f31bc8776d1b7b75) 
 - [2021-04-17-Vue3现状报告，未来规划](https://www.ershicimi.com/p/c2840a9d96de56307c8f9cbbf5ff144c) 
 - [2021-04-14-利用-Github-Actions-部署Vue项目](https://www.ershicimi.com/p/9035f3ee38eb9ac0538a89c1bc3a48a0) 
 - [2021-04-18-一份关于-vue-cli3-项目常用项配置](https://www.ershicimi.com/p/d2f9c21789e4fcf8ffc817559ff80a78) 
+- [2021-04-21-vite2.0+vue3移动端项目实战](https://www.ershicimi.com/p/7cc1e599dc0b4dd202fa788ab37e0cdf) 
+- [2021-04-20-6个牛逼的基于Vue.js的后台控制面板，接私活必备](https://www.ershicimi.com/p/9195f561cfb4780e663719a7d35ff73d) 
 - [2021-04-19-Vue-3-计划放弃支持-IE11](https://www.ershicimi.com/p/b767fa954338ecd089564547f2a3d62d) 
 - [2021-04-16-Vue3.0-新特性以及使用变更总结实际工作用到的](https://www.ershicimi.com/p/c50664b5e2d4142371f66a4eb277835e) 
 - [2021-04-14-面试官问-Vue-性能优化，我该怎么回答](https://www.ershicimi.com/p/df8309bad825c220a213abb9625eb73e) 

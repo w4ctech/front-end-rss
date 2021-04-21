@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-04-21 01:28:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 01:45:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-21-iPad-Pro-2021-来了，手持-iPad-Pro-2020-款的-V-友咋考虑？](https://www.v2ex.com/t/772090) 
+- [2021-04-21-一时兴起，整了个大疆无人机，万万没想到，在北京飞都飞不起来，怎么破，，，](https://www.v2ex.com/t/772089) 
+- [2021-04-21-关于新-iPad-Pro-的人物居中功能，-2020-上也会支持么？](https://www.v2ex.com/t/772088) 
+- [2021-04-21-rclone-如何自动同步至-onedrive](https://www.v2ex.com/t/772087) 
+- [2021-04-21-怎么这里都在说-iPadOS-和-MacOS-融合？](https://www.v2ex.com/t/772086) 
 - [2021-04-21-Android-项目多个-Jar-包有命名空间冲突，有办法解决吗？](https://www.v2ex.com/t/772085) 
 - [2021-04-21-请问,自己独立的使用-Springboot+Mybatis+vue-写个博客网站,能找到-Java-开发的工作不.-害怕被面试官乱杀](https://www.v2ex.com/t/772084) 
 - [2021-04-21-蜂窝版-iPad-信号比-iPhone-怎么样？](https://www.v2ex.com/t/772083) 
@@ -41,8 +46,3 @@
 - [2021-04-20-有什么办法能买到新出的-Apple-TV-4K？](https://www.v2ex.com/t/772044) 
 - [2021-04-20-芯片为主角的发布会](https://www.v2ex.com/t/772043) 
 - [2021-04-20-iPad-mini6-凉了](https://www.v2ex.com/t/772042) 
-- [2021-04-20-今晚主题：买显示器送-M1....](https://www.v2ex.com/t/772040) 
-- [2021-04-20-大家在学新东西的时候状态是怎样的，最近感觉自己忘的也太快了点](https://www.v2ex.com/t/772039) 
-- [2021-04-20-M1-in-iPad-Pro-这操作。](https://www.v2ex.com/t/772038) 
-- [2021-04-20-一个关于电信-ipv6-端口的玄学问题](https://www.v2ex.com/t/772037) 
-- [2021-04-20-iPad-pro-搭载-m1](https://www.v2ex.com/t/772036) 

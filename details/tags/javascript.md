@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-21 01:28:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 01:45:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -62,6 +62,7 @@
 - [2021-04-16-前端业务组件库技术实现的三个关键点](https://www.ershicimi.com/p/78fb8b5aae2a9f3aab91243c5e7a60d8) 
 - [2021-04-10-JS语法ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/b788dde6da1f093c54bda9dcadc5e0d3) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
+- [2021-04-18-微信PC版曝高危漏洞，建议尽快更新；中国首个JS语言提案在ECMA进入Stage-3；华为多款手机将](https://www.ershicimi.com/p/1b06ed7c2af312ad740c43e238a54367) 
 - [2021-04-09-重写了90%代码之后，Fes.js-2.0能有多简洁？](https://www.ershicimi.com/p/69f4951e53d853fdfdaec51c6326ca36) 
 - [2021-04-17-用-65-行代码实现-JavaScript-动画序列播放](https://www.ershicimi.com/p/a03d4d43d643fd0193b8e00c6987d37d) 
 - [2021-04-15-34-个-JavaScript-优化技巧](https://www.ershicimi.com/p/c94d8bd672fed3006d7f47e350936b08) 

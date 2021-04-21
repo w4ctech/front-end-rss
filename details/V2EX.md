@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-04-21 01:45:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 01:55:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-21-M1-芯片通过-PD-安装-CentOS-ARM-问题求助](https://www.v2ex.com/t/772094) 
+- [2021-04-21-怎么定义外包公司](https://www.v2ex.com/t/772093) 
+- [2021-04-21-新的-Apple-TV-通过-iPhone-校色](https://www.v2ex.com/t/772092) 
+- [2021-04-21-tinymce-格式刷](https://www.v2ex.com/t/772091) 
 - [2021-04-21-iPad-Pro-2021-来了，手持-iPad-Pro-2020-款的-V-友咋考虑？](https://www.v2ex.com/t/772090) 
 - [2021-04-21-一时兴起，整了个大疆无人机，万万没想到，在北京飞都飞不起来，怎么破，，，](https://www.v2ex.com/t/772089) 
 - [2021-04-21-关于新-iPad-Pro-的人物居中功能，-2020-上也会支持么？](https://www.v2ex.com/t/772088) 
@@ -43,6 +47,3 @@
 - [2021-04-20-谈谈-RustDesk-开源的一点感受](https://www.v2ex.com/t/772047) 
 - [2021-04-20--Apple-2021-春季发布会汇总](https://www.v2ex.com/t/772046) 
 - [2021-04-20-AirTag-可以搞一个玩玩](https://www.v2ex.com/t/772045) 
-- [2021-04-20-有什么办法能买到新出的-Apple-TV-4K？](https://www.v2ex.com/t/772044) 
-- [2021-04-20-芯片为主角的发布会](https://www.v2ex.com/t/772043) 
-- [2021-04-20-iPad-mini6-凉了](https://www.v2ex.com/t/772042) 

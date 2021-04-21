@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-21 01:45:26，:rocket: 更新条数: +4260， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-21 01:55:41，:rocket: 更新条数: +4261， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,10 @@
 </summary>
 
 
+- [2021-04-21-M1-芯片通过-PD-安装-CentOS-ARM-问题求助](https://www.v2ex.com/t/772094) ![](assets/new.png)  
+- [2021-04-21-怎么定义外包公司](https://www.v2ex.com/t/772093) ![](assets/new.png)  
+- [2021-04-21-新的-Apple-TV-通过-iPhone-校色](https://www.v2ex.com/t/772092) ![](assets/new.png)  
+- [2021-04-21-tinymce-格式刷](https://www.v2ex.com/t/772091) ![](assets/new.png)  
 - [2021-04-21-iPad-Pro-2021-来了，手持-iPad-Pro-2020-款的-V-友咋考虑？](https://www.v2ex.com/t/772090) ![](assets/new.png)  
 - [2021-04-21-一时兴起，整了个大疆无人机，万万没想到，在北京飞都飞不起来，怎么破，，，](https://www.v2ex.com/t/772089) ![](assets/new.png)  
 - [2021-04-21-关于新-iPad-Pro-的人物居中功能，-2020-上也会支持么？](https://www.v2ex.com/t/772088) ![](assets/new.png)  
@@ -1032,10 +1036,6 @@
 - [2021-04-21-不懂就问。苹果：-4-月-26-日起，所有新上架的-App-必须使用-Xcode-12-和-iOS-14-SDK-|-这对-React-native-或-Flutter-有影响吗](https://www.v2ex.com/t/772075) ![](assets/new.png)  
 - [2021-04-21-MAS-Office-更新-UI-了](https://www.v2ex.com/t/772072) ![](assets/new.png)  
 - [2021-04-21-替-@zhuzhezhe-发帖](https://www.v2ex.com/t/772071) ![](assets/new.png)  
-- [2021-04-21-大家买-Airtag-是打算拴在什么东西上面的呢？](https://www.v2ex.com/t/772070) ![](assets/new.png)  
-- [2021-04-21-这个时间点还上-M1-是不是说明下一代-M-系列芯片还早](https://www.v2ex.com/t/772069) ![](assets/new.png)  
-- [2021-04-21-M1-iPad-Pro-离终极形态只差一步](https://www.v2ex.com/t/772067) ![](assets/new.png)  
-- [2021-04-21-请教一个关于-ip-的网络问题](https://www.v2ex.com/t/772066) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,19 +1085,19 @@
 - [2021-04-21-厉害了，A4-纸上竟然能清晰看动漫](https://toutiao.io/k/izj0r49) ![](assets/new.png)  
 - [2021-04-21-AMS-系列之生命周期管理](https://toutiao.io/k/5jrgtv8) ![](assets/new.png)  
 - [2021-04-21-从-Serverless-看软件效能提升](https://toutiao.io/k/ykfvids) ![](assets/new.png)  
-- [2021-04-21-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-21-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
-- [2021-04-21-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-21-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-21-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-21-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-21-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-21-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-21-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [2021-04-21-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-21-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-21-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-21-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
+- [2021-04-21-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
 - [2021-04-21-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-21-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-21-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-21-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
 - [2021-04-21-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-21-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-21-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-21-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
+- [2021-04-21-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

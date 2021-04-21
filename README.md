@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-21 02:12:29，:rocket: 更新条数: +4263， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-21 02:23:06，:rocket: 更新条数: +4269， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-04-21-写了一个-Figma-插件---Better-Export-Tools，可以帮助产品和设计师提高导出效率](https://www.v2ex.com/t/772106) ![](assets/new.png)  
+- [2021-04-21-github-上-android-项目，有-CI-工具可以自动编译-apk-并上传到-release-里面么](https://www.v2ex.com/t/772104) ![](assets/new.png)  
+- [2021-04-21-上次发得为-PHP-写-FFI-库添加了性能测试](https://www.v2ex.com/t/772102) ![](assets/new.png)  
 - [2021-04-21-遇到什么都不懂的面试官应该怎么办？](https://www.v2ex.com/t/772101) ![](assets/new.png)  
 - [2021-04-21-有威海本地的朋友推荐有啥好吃好玩的吗](https://www.v2ex.com/t/772100) ![](assets/new.png)  
 - [2021-04-21-感觉-av1-的步伐加快了](https://www.v2ex.com/t/772099) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-04-21-rclone-如何自动同步至-onedrive](https://www.v2ex.com/t/772087) ![](assets/new.png)  
 - [2021-04-21-怎么这里都在说-iPadOS-和-MacOS-融合？](https://www.v2ex.com/t/772086) ![](assets/new.png)  
 - [2021-04-21-Android-项目多个-Jar-包有命名空间冲突，有办法解决吗？](https://www.v2ex.com/t/772085) ![](assets/new.png)  
-- [2021-04-21-请问,自己独立的使用-Springboot+Mybatis+vue-写个博客网站,能找到-Java-开发的工作不.-害怕被面试官乱杀](https://www.v2ex.com/t/772084) ![](assets/new.png)  
-- [2021-04-21-蜂窝版-iPad-信号比-iPhone-怎么样？](https://www.v2ex.com/t/772083) ![](assets/new.png)  
-- [2021-04-21-苹果昨晚发布的-iMac-有-7-种颜色可选，价格-9999-元起，大家会买吗？](https://www.v2ex.com/t/772082) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,19 +1085,19 @@
 - [2021-04-21-厉害了，A4-纸上竟然能清晰看动漫](https://toutiao.io/k/izj0r49) ![](assets/new.png)  
 - [2021-04-21-AMS-系列之生命周期管理](https://toutiao.io/k/5jrgtv8) ![](assets/new.png)  
 - [2021-04-21-从-Serverless-看软件效能提升](https://toutiao.io/k/ykfvids) ![](assets/new.png)  
-- [2021-04-21-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-21-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-21-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
-- [2021-04-21-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-21-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
-- [2021-04-21-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-21-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-21-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-21-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-21-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-21-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
-- [2021-04-21-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-21-i/o-timeout-，-希望你不要踩到这个-net/http-包的坑](https://toutiao.io/k/g2vk4k1) ![](assets/new.png)  
+- [2021-04-21-LeetCode-844-：比较含退格的字符串](https://toutiao.io/k/iaed1zu) ![](assets/new.png)  
+- [2021-04-21-嗯，你觉得-Go-在什么时候会抢占-P？](https://toutiao.io/k/tb0ianx) ![](assets/new.png)  
+- [2021-04-21-从零带你看-Struts-2-中-OGNL-命令执行漏洞](https://toutiao.io/k/00kj7m4) ![](assets/new.png)  
+- [2021-04-21-漫画｜工作这几年，同事对我的称呼肉眼可见的在变化着](https://toutiao.io/k/z3dscov) ![](assets/new.png)  
+- [2021-04-21-Java-8-中的-Lambda-表达式](https://toutiao.io/k/zahd9yv) ![](assets/new.png)  
+- [2021-04-21-最新-Hive-的高频面试题新鲜出炉了](https://toutiao.io/k/bwb59wj) ![](assets/new.png)  
+- [2021-04-21-贝壳-OLAP-平台架构演进](https://toutiao.io/k/i2l6mm0) ![](assets/new.png)  
 - [2021-04-21-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-21-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-21-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-21-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-21-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

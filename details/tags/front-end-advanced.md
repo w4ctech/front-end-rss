@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-21 02:12:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 02:23:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -14,5 +14,6 @@
 - [2021-04-17-Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29) 
 - [2021-04-21-不懂就问，算法面试题会不会不给数据范围？](https://www.v2ex.com/t/772098) 
 - [2021-04-21-十六年全栈开发者的-Android-开发踩坑实录-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLiRIV5XAvToTpLTLRSkxdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-04-21-i/o-timeout-，-希望你不要踩到这个-net/http-包的坑](https://toutiao.io/k/g2vk4k1) 
 - [2021-04-17-炸了.《图解算法》爆款,原来算法还可以这样学!](https://sec.thief.one/article_content?a_id=ac08d4c64caf02797e5b62a6c1a7343a) 
 - [2021-04-17-一道算法题](https://sec.thief.one/article_content?a_id=9a72176eb9b3dfc0f37bd4a83bda903a) 

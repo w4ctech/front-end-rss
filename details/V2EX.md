@@ -1,15 +1,16 @@
-:alarm_clock: 更新时间: 2021-04-21 14:50:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 15:03:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-21-当你们设计一个复杂的软件架构时，是如何打草稿的？](https://www.v2ex.com/t/772304) 
+- [2021-04-21-Airtag-用来找狗或者猫是不是挺合适……](https://www.v2ex.com/t/772301) 
 - [2021-04-21-Windows-10-通过-Vmware-16-虚拟-macOS-10.13.6，运行-App-崩溃非证书问题，是否由于-CPU-不支持导致的？](https://www.v2ex.com/t/772300) 
 - [2021-04-21-求助大佬：系统中了挖坑病毒后，-authorized_keys-无法访问了](https://www.v2ex.com/t/772298) 
 - [2021-04-21-类-IM-系统,-当消息变多时,-想水平扩展-websocket-服务器,-如何设计?](https://www.v2ex.com/t/772297) 
 - [2021-04-21-深圳有哪些-Work-Life-Balanced-公司呀？](https://www.v2ex.com/t/772295) 
-- [2021-04-21-有感而发，越来越难找到-paper/project-的新点子](https://www.v2ex.com/t/772292) 
 - [2021-04-21-不明白，为什么会在妙控键盘上集成-touch-id...](https://www.v2ex.com/t/772291) 
 - [2021-04-21-m1-mac-node-安装的全局包找不到命令](https://www.v2ex.com/t/772290) 
 - [2021-04-21-某-Top-大厂面试的一个问题，欢迎大家讨论](https://www.v2ex.com/t/772289) 
@@ -39,6 +40,3 @@
 - [2021-04-21-求推荐一款用于编程的笔记本电脑](https://www.v2ex.com/t/772260) 
 - [2021-04-21-如何解析另类的动画格式?](https://www.v2ex.com/t/772259) 
 - [2021-04-21-Apple-Watch-S3-的容量到底多大？为啥我的只有-4GB](https://www.v2ex.com/t/772258) 
-- [2021-04-21-招聘-深圳在线教育领军企业荔枝微课招研发讲师和产研啦！](https://www.v2ex.com/t/772254) 
-- [2021-04-21-electron-储存大量数据时-rss-memory-上涨且不会下降](https://www.v2ex.com/t/772253) 
-- [2021-04-21-杭州-安卓开发求推荐](https://www.v2ex.com/t/772251) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-21 23:39:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 23:52:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-21-关于-homepod-mini-的广播](https://www.v2ex.com/t/772336) 
+- [2021-04-21-运-去哪-这家公司怎么样？](https://www.v2ex.com/t/772335) 
 - [2021-04-21-德华们，我最近用-golang-写了一个-elasticsearch-的可视化管理工具，帮我看看有哪些需要优化或添加的功能可以吗](https://www.v2ex.com/t/772334) 
 - [2021-04-21-🌁-一个类-Instagram-图片小程序，每周-7-天，每天都是不同的图片-UI-邀请码发送](https://www.v2ex.com/t/772333) 
 - [2021-04-21-轻度娱乐办公的-13-寸-MBA-和低配-MBP-未来是要被-iPadPro-替代的](https://www.v2ex.com/t/772331) 
@@ -36,4 +38,3 @@
 - [2021-04-21-m1-mac-node-安装的全局包找不到命令](https://www.v2ex.com/t/772290) 
 - [2021-04-21-某-Top-大厂面试的一个问题，欢迎大家讨论](https://www.v2ex.com/t/772289) 
 - [2021-04-21-你会为你的-iPad-Pro-购买白色的秒空键盘吗？](https://www.v2ex.com/t/772287) 
-- [2021-04-21-新键盘&触控板随-iMac-发布后，原二代妙控键盘&触控板官网反而涨价了](https://www.v2ex.com/t/772286) 

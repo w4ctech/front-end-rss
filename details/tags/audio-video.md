@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-21 07:39:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 08:05:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -84,8 +84,10 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
+- [2021-04-21-虎牙直播技术演变之路](https://www.ershicimi.com/p/6538e1e69e53054867131de5dfdfde25) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-04-20-有奖｜发视频晒家，得现金奖励和流量扶持](https://www.ershicimi.com/p/0d96d7ffe5d55eac9fb8725043e80259) 
+- [2021-04-21-有了解国产视频编码-AVS3-的同学吗？与-H264，-VP9-等标准相比如何？](https://www.v2ex.com/t/772209) 
 - [2021-04-20-视频-|-全球最神秘的三大黑客组织](https://sec.thief.one/article_content?a_id=d483702dbd251d739b7bc00795be0a85) 
 - [2021-04-19-全球连线|创意微视频:习近平的博鳌关键词](https://sec.thief.one/article_content?a_id=4a2be621d3920409b683e432f4e71881) 
 - [2021-04-19-发现一个木马,竟然偷传我珍藏几十G的视频!](https://sec.thief.one/article_content?a_id=9b81c70881a0452483379afa226b5911) 

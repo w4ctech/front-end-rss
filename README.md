@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-21 07:39:06，:rocket: 更新条数: +4267， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-21 08:05:08，:rocket: 更新条数: +4269， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -859,6 +859,11 @@
 </summary>
 
 
+- [2021-04-21-3年迭代一次技术栈：我们程序员，为啥跑不赢行业？](https://www.ershicimi.com/p/d8ceb92b43d8756f19ea379f56991b40) ![](assets/new.png)  
+- [2021-04-21-2021年，Flutter-与-React-Native该如何选择？](https://www.ershicimi.com/p/30820dad7b5f5974d54a432d5ce818ff) ![](assets/new.png)  
+- [2021-04-21-架构师必看：80+一线案例助力技术升级-｜-ArchSummit](https://www.ershicimi.com/p/9a2d94d8856798524bc9701eb4e65ed7) ![](assets/new.png)  
+- [2021-04-21-工作就像闯关，升级打怪有攻略-｜-极客时间](https://www.ershicimi.com/p/7c82674b1ed5a83fbf4a3022b428e2ce) ![](assets/new.png)  
+- [2021-04-21-虎牙直播技术演变之路](https://www.ershicimi.com/p/6538e1e69e53054867131de5dfdfde25) ![](assets/new.png)  
 - [2021-04-20-独家：“论文致谢刷屏”博士演讲干货](https://www.ershicimi.com/p/6c871c5f5fe5b9fe8b1dbe425771b27e) ![](assets/new.png)  
 - [2021-04-20-开发人员解决不了管理烂的问题](https://www.ershicimi.com/p/6ffd1d0b1282db2fe86844c64ad7f345) ![](assets/new.png)  
 - [2021-04-20-“跟不上”的大前端，2021-会有哪些惊喜？-｜-GMTC](https://www.ershicimi.com/p/ebea1ec8e7000947b939ce1961c7cb6d) ![](assets/new.png)  
@@ -874,11 +879,6 @@
 - [2021-04-18-每秒-10W-次高并发订单业务，你怎么实现？-｜-极客时间](https://www.ershicimi.com/p/200427f469ad1936a2ecaf91f2297a08) ![](assets/new.png)  
 - [2021-04-18-【Java-八股文】，建议每个人都看一下-｜-极客时间](https://www.ershicimi.com/p/67d65c294c3870c36c21044899d234a7) ![](assets/new.png)  
 - [2021-04-17-字节跳动将开启员工期权兑换；调查：半数互联网人有离职计划；腾讯副总裁因违反竞业协议，被判赔偿超千万](https://www.ershicimi.com/p/3fa1358b6bdd55de3d179d3d6de0f9ca) ![](assets/new.png)  
-- [2021-04-17-Angular、React-和-Vue-三大框架，Web-开发该如何选择？](https://www.ershicimi.com/p/c7a80a379301d28a06c518fd02a4ebc6) ![](assets/new.png)  
-- [2021-04-17-再见-for-循环编程，Spring-全家桶，真香！-｜-极客时间](https://www.ershicimi.com/p/c31dbd8c04852a965ab540b8880e1b30) ![](assets/new.png)  
-- [2021-04-17-想来百万流量技术公众号发布文章吗？-InfoQ-开放内容平台了！](https://www.ershicimi.com/p/1cc7c5177efb4e33f82c99eae64d6583) ![](assets/new.png)  
-- [2021-04-16-消息系统兴起二次革命：Kafka不需要ZooKeeper](https://www.ershicimi.com/p/e889bb4bd0f10688592a5191dbf88fab) ![](assets/new.png)  
-- [2021-04-16-你在大前端领域最常用的编程语言是？|-InfoQ-编程语言-4-月排行榜](https://www.ershicimi.com/p/51f1277202d318420949e228514db520) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1016,14 @@
 </summary>
 
 
+- [2021-04-21-上海静安全栈开发-Ruby-on-Rails外企技术-Agency-----薪资可谈-15K-30K](https://www.v2ex.com/t/772216) ![](assets/new.png)  
+- [2021-04-21-宝安翻身租房咨询](https://www.v2ex.com/t/772215) ![](assets/new.png)  
+- [2021-04-21-请教关于异地组网的问题](https://www.v2ex.com/t/772214) ![](assets/new.png)  
+- [2021-04-21-看这一本书，或许可能让你少奋斗十年。假如-1-天你可以赚-300，这样一算，-10-年就是百万元！](https://www.v2ex.com/t/772213) ![](assets/new.png)  
+- [2021-04-21-有两个废旧的-iPhone6S，均不能开机，可以拿来做什么？拆零件吗](https://www.v2ex.com/t/772211) ![](assets/new.png)  
+- [2021-04-21-有劳推荐一款-500-800-块范围的蓝牙音箱，放家里听歌用。](https://www.v2ex.com/t/772210) ![](assets/new.png)  
+- [2021-04-21-有了解国产视频编码-AVS3-的同学吗？与-H264，-VP9-等标准相比如何？](https://www.v2ex.com/t/772209) ![](assets/new.png)  
+- [2021-04-21-上海电信，如果光猫不桥接，-LAN-能获得-IPv6-吗？](https://www.v2ex.com/t/772207) ![](assets/new.png)  
 - [2021-04-21-深圳/广州阿里旗下-Lazada-社招校招内推-Android-端/iOS-端/-Java-端/前端岗-不限-HC！](https://www.v2ex.com/t/772206) ![](assets/new.png)  
 - [2021-04-21-新的-trackpad](https://www.v2ex.com/t/772205) ![](assets/new.png)  
 - [2021-04-21-分享一些我个人的英语学习经验](https://www.v2ex.com/t/772204) ![](assets/new.png)  
@@ -1028,14 +1036,6 @@
 - [2021-04-21-A12Z-和-M1-有多大差距](https://www.v2ex.com/t/772197) ![](assets/new.png)  
 - [2021-04-21-Nodejs-终于刷到了版本-16LTS](https://www.v2ex.com/t/772196) ![](assets/new.png)  
 - [2021-04-21-github-codespaces-有没人试过？](https://www.v2ex.com/t/772193) ![](assets/new.png)  
-- [2021-04-21-怎么让老油条的程序猿变得不油头？](https://www.v2ex.com/t/772192) ![](assets/new.png)  
-- [2021-04-21-🔥-Go-轻量级开发通用库-🚀🚀🚀](https://www.v2ex.com/t/772191) ![](assets/new.png)  
-- [2021-04-21-广州-九毛九集团招聘后端开发工程师-again😅](https://www.v2ex.com/t/772189) ![](assets/new.png)  
-- [2021-04-21-考完驾照多年没有实际上路开车，已经忘记如何开车了，要怎样快速复习？](https://www.v2ex.com/t/772187) ![](assets/new.png)  
-- [2021-04-21-InfluxDB-InfluxQL-中如何按-tag-计算总和？](https://www.v2ex.com/t/772186) ![](assets/new.png)  
-- [2021-04-21-攒机-求推荐????](https://www.v2ex.com/t/772185) ![](assets/new.png)  
-- [2021-04-21-微信-Go-SDK（支付、公众号、小程序）](https://www.v2ex.com/t/772184) ![](assets/new.png)  
-- [2021-04-21-看完发布会后，关于苹果产品线，我有了个奇怪的想法](https://www.v2ex.com/t/772183) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,8 +1083,8 @@
 - [2021-04-21-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
 - [2021-04-21-JavaScript-垃圾回收策略](https://toutiao.io/k/i8pbfyr) ![](assets/new.png)  
 - [2021-04-21-从-Serverless-看软件效能提升](https://toutiao.io/k/ykfvids) ![](assets/new.png)  
-- [2021-04-21-i/o-timeout-，-希望你不要踩到这个-net/http-包的坑](https://toutiao.io/k/g2vk4k1) ![](assets/new.png)  
 - [2021-04-21-厉害了，A4-纸上竟然能清晰看动漫](https://toutiao.io/k/izj0r49) ![](assets/new.png)  
+- [2021-04-21-i/o-timeout-，-希望你不要踩到这个-net/http-包的坑](https://toutiao.io/k/g2vk4k1) ![](assets/new.png)  
 - [2021-04-21-嗯，你觉得-Go-在什么时候会抢占-P？](https://toutiao.io/k/tb0ianx) ![](assets/new.png)  
 - [2021-04-21-贝壳-OLAP-平台架构演进](https://toutiao.io/k/i2l6mm0) ![](assets/new.png)  
 - [2021-04-21-Java-8-中的-Lambda-表达式](https://toutiao.io/k/zahd9yv) ![](assets/new.png)  

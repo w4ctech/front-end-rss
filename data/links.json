@@ -20541,6 +20541,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "M1 都入了 iPad 了，会不会进入 iPhone ？",
+        "link": "https://www.v2ex.com/t/772223",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[北京][望京 SOHO][知道创宇]后端研发，简历继续砸过来～～～",
+        "link": "https://www.v2ex.com/t/772221",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "家人们， Python 在爬 https 的时候会出现一个少见的问题，是本地环境的问题吗？",
+        "link": "https://www.v2ex.com/t/772220",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "v2ex.com 域名被污染了",
+        "link": "https://www.v2ex.com/t/772219",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "年度最佳礼品： AirTag？",
+        "link": "https://www.v2ex.com/t/772217",
+        "date": "2021-04-21"
+      },
+      {
         "title": "[上海静安][全栈开发 Ruby on Rails]外企技术 Agency --- 薪资可谈 15K-30K",
         "link": "https://www.v2ex.com/t/772216",
         "date": "2021-04-21"
@@ -20703,21 +20728,6 @@
       {
         "title": "有多少非浙江人能够接受蟹酱蟹糊这种美食？",
         "link": "https://www.v2ex.com/t/772174",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "SpringSecurity 的无权访问异常理器 AccessDeniedHandler 与统一异常处理器 DefaultHandlerExceptionResolver 冲突",
-        "link": "https://www.v2ex.com/t/772172",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "腾讯为了拿到人脸数据真是脸都不要了",
-        "link": "https://www.v2ex.com/t/772171",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "惊！终于找到一个适合新手学习 Java 知识的订阅号了。",
-        "link": "https://www.v2ex.com/t/772169",
         "date": "2021-04-21"
       }
     ]
@@ -20900,13 +20910,13 @@
         "date": "2021-04-21"
       },
       {
-        "title": "最新 Hive 的高频面试题新鲜出炉了",
-        "link": "https://toutiao.io/k/bwb59wj",
+        "title": "ETL 和 ELT 到底有啥区别？？？",
+        "link": "https://toutiao.io/k/dmssgmt",
         "date": "2021-04-21"
       },
       {
-        "title": "ETL 和 ELT 到底有啥区别？？？",
-        "link": "https://toutiao.io/k/dmssgmt",
+        "title": "最新 Hive 的高频面试题新鲜出炉了",
+        "link": "https://toutiao.io/k/bwb59wj",
         "date": "2021-04-21"
       },
       {
@@ -20935,33 +20945,28 @@
         "date": "2021-04-21"
       },
       {
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
+        "date": "2021-04-21"
+      },
+      {
         "title": "[推荐] 我很久没写代码了，但我是个好架构师",
         "link": "https://toutiao.io/k/gauwubg",
         "date": "2021-04-21"
       },
       {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
+        "title": "[推荐] RESTful API 设计最佳实践",
+        "link": "https://toutiao.io/k/4zqz7k1",
         "date": "2021-04-21"
       },
       {
         "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
         "link": "https://toutiao.io/k/7uw9l2r",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
         "date": "2021-04-21"
       },
       {
@@ -20975,18 +20980,8 @@
         "date": "2021-04-21"
       },
       {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
-        "link": "https://toutiao.io/k/811or1j",
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
         "date": "2021-04-21"
       },
       {
@@ -20995,18 +20990,33 @@
         "date": "2021-04-21"
       },
       {
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
+        "date": "2021-04-21"
+      },
+      {
         "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
         "link": "https://toutiao.io/k/zdnq3fy",
         "date": "2021-04-21"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
         "date": "2021-04-21"
       },
       {
-        "title": "[推荐] RESTful API 设计最佳实践",
-        "link": "https://toutiao.io/k/4zqz7k1",
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
         "date": "2021-04-21"
       }
     ]

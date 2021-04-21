@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-21 13:40:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 13:51:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -186,8 +186,8 @@
 - [【Nodejs技术栈】知乎回答-前端是否要学习-Node.js?](https://www.ershicimi.com/p/d7a5f735d2d46323381cef380668cc38)
 - [【前端日刊】如何应用Node.js打造个人提效工作链？](https://www.ershicimi.com/p/567981ae7d174e4109608888575c3207)
 - [【前端日刊】作为前端开发，Node.js-你得了解下～](https://www.ershicimi.com/p/0f3e9093221929dddea3c6dd757ae61b)
+- [【V2EX】m1-mac-node-安装的全局包找不到命令](https://www.v2ex.com/t/772290)
 - [【V2EX】electronjs-咋样打包-web-前端项目和-mock-成为桌面应用呢？-有大佬遇到过么？](https://www.v2ex.com/t/772273)
-- [【V2EX】electron-储存大量数据时-rss-memory-上涨且不会下降](https://www.v2ex.com/t/772253)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -500,8 +500,8 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】接到了-git-issue-邮件,但是找不到给我发消息的老哥,-谁帮个忙-@它一下](https://www.v2ex.com/t/772275)
-- [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
 - [【开发者头条】推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y)
+- [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

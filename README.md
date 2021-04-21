@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-21 18:57:32，:rocket: 更新条数: +741， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-21 19:08:34，:rocket: 更新条数: +742， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-21-轻度娱乐办公的-13-寸-MBA-和低配-MBP-未来是要被-iPadPro-替代的](https://www.v2ex.com/t/772331) ![](assets/new.png)  
 - [2021-04-21-老铁们来讨论显示器了-值得买-4K-曲面显示器打游戏（写码）吗？](https://www.v2ex.com/t/772330) ![](assets/new.png)  
 - [2021-04-21-本地跨域问题](https://www.v2ex.com/t/772329) ![](assets/new.png)  
 - [2021-04-21-20210421-午夜俱乐部](https://www.v2ex.com/t/772328) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-21-有什么便宜买手机的方案？](https://www.v2ex.com/t/772309) ![](assets/new.png)  
 - [2021-04-21-C-语言新手请教一个关于-EOF-的问题](https://www.v2ex.com/t/772306) ![](assets/new.png)  
 - [2021-04-21-苹果官网查了一下，无法用-M1-Mac-mini-换购-M1-iMac](https://www.v2ex.com/t/772305) ![](assets/new.png)  
-- [2021-04-21-当你们设计一个复杂的软件架构时，是如何打草稿的？](https://www.v2ex.com/t/772304) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-04-21 16:05:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 16:25:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-21-只能运行-iPadOS-的话，-M1,16G,2TB-就是个笑话](https://www.v2ex.com/t/772320) 
+- [2021-04-21-为了写论文向-Linux-内核提交有漏洞的代码，这操作绝了。](https://www.v2ex.com/t/772319) 
+- [2021-04-21-才发现不知不觉间-Google-已经收集了我这么多信息了。真是比我还懂我。](https://www.v2ex.com/t/772318) 
+- [2021-04-21-Apple-美国官网有什么方法能刻中文吗？](https://www.v2ex.com/t/772317) 
 - [2021-04-21-m1-直接合上盖子吗？](https://www.v2ex.com/t/772316) 
 - [2021-04-21-有一万块钱，买什么？](https://www.v2ex.com/t/772315) 
 - [2021-04-21-骑驴找马感觉好难](https://www.v2ex.com/t/772313) 
@@ -35,7 +39,3 @@
 - [2021-04-21-electronjs-咋样打包-web-前端项目和-mock-成为桌面应用呢？-有大佬遇到过么？](https://www.v2ex.com/t/772273) 
 - [2021-04-21-看完苹果发布会，我做了一个网页版的-Apple-TV-遥控器](https://www.v2ex.com/t/772272) 
 - [2021-04-21-求助,-为现有的-thrift-rpc-服务添加-tracing-功能](https://www.v2ex.com/t/772271) 
-- [2021-04-21-pycharm-跳转，跳回的快捷键是啥？](https://www.v2ex.com/t/772270) 
-- [2021-04-21-优酷帧享影音-PC-有没可能开启？](https://www.v2ex.com/t/772269) 
-- [2021-04-21-求救！-python3.7-如何-mock.patch-一个装饰器装饰过的函数？？](https://www.v2ex.com/t/772268) 
-- [2021-04-21-老人在某音直播里买了个-8+256-手机，用-adb-查看了一下，结果发现有-fake-字段。](https://www.v2ex.com/t/772267) 

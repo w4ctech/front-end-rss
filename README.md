@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-21 02:31:59，:rocket: 更新条数: +746， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-21 02:47:05，:rocket: 更新条数: +746， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,13 @@
 </summary>
 
 
+- [2021-04-21-请问卖旧电脑，原来的数据如何完全去除不可恢复](https://www.v2ex.com/t/772117) ![](assets/new.png)  
+- [2021-04-21-猫猫币要怎么领？](https://www.v2ex.com/t/772116) ![](assets/new.png)  
+- [2021-04-21-上海-阿里集团-蜂鸟大前端-内推，-P6/P7/应届](https://www.v2ex.com/t/772115) ![](assets/new.png)  
+- [2021-04-21-新款-iMac-就是一个带托的-iPad](https://www.v2ex.com/t/772114) ![](assets/new.png)  
+- [2021-04-21-第三方-jar-包自带的-slf4j-和项目其他的日志冲突怎么解决？](https://www.v2ex.com/t/772113) ![](assets/new.png)  
+- [2021-04-21-深圳-阿里集团-LAZADA-前端内推，-p5/p6/p7/应届全招](https://www.v2ex.com/t/772112) ![](assets/new.png)  
+- [2021-04-21-Office365-发车，到期-2022/3/9，不出意外会一直续，空-4](https://www.v2ex.com/t/772111) ![](assets/new.png)  
 - [2021-04-21-大二下学生写项目经常得百度文档](https://www.v2ex.com/t/772110) ![](assets/new.png)  
 - [2021-04-21-switch-换绑后电子游戏消失](https://www.v2ex.com/t/772109) ![](assets/new.png)  
 - [2021-04-21-写了一个-Figma-插件---Better-Export-Tools，可以帮助产品和设计师提高导出效率](https://www.v2ex.com/t/772106) ![](assets/new.png)  
@@ -1009,13 +1016,6 @@
 - [2021-04-21-小米有品-App-地址-bug,-导致购买的商品发往错误的地址](https://www.v2ex.com/t/772096) ![](assets/new.png)  
 - [2021-04-21-现在小米路由器有好的科学上网插件吗？](https://www.v2ex.com/t/772095) ![](assets/new.png)  
 - [2021-04-21-M1-芯片通过-PD-安装-CentOS-ARM-问题求助](https://www.v2ex.com/t/772094) ![](assets/new.png)  
-- [2021-04-21-怎么定义外包公司](https://www.v2ex.com/t/772093) ![](assets/new.png)  
-- [2021-04-21-新的-Apple-TV-通过-iPhone-校色](https://www.v2ex.com/t/772092) ![](assets/new.png)  
-- [2021-04-21-tinymce-格式刷](https://www.v2ex.com/t/772091) ![](assets/new.png)  
-- [2021-04-21-iPad-Pro-2021-来了，手持-iPad-Pro-2020-款的-V-友咋考虑？](https://www.v2ex.com/t/772090) ![](assets/new.png)  
-- [2021-04-21-一时兴起，整了个大疆无人机，万万没想到，在北京飞都飞不起来，怎么破，，，](https://www.v2ex.com/t/772089) ![](assets/new.png)  
-- [2021-04-21-关于新-iPad-Pro-的人物居中功能，-2020-上也会支持么？](https://www.v2ex.com/t/772088) ![](assets/new.png)  
-- [2021-04-21-rclone-如何自动同步至-onedrive](https://www.v2ex.com/t/772087) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1066,18 +1066,18 @@
 - [2021-04-21-AMS-系列之生命周期管理](https://toutiao.io/k/5jrgtv8) ![](assets/new.png)  
 - [2021-04-21-从-Serverless-看软件效能提升](https://toutiao.io/k/ykfvids) ![](assets/new.png)  
 - [2021-04-21-i/o-timeout-，-希望你不要踩到这个-net/http-包的坑](https://toutiao.io/k/g2vk4k1) ![](assets/new.png)  
-- [2021-04-21-LeetCode-844-：比较含退格的字符串](https://toutiao.io/k/iaed1zu) ![](assets/new.png)  
 - [2021-04-21-嗯，你觉得-Go-在什么时候会抢占-P？](https://toutiao.io/k/tb0ianx) ![](assets/new.png)  
+- [2021-04-21-LeetCode-844-：比较含退格的字符串](https://toutiao.io/k/iaed1zu) ![](assets/new.png)  
 - [2021-04-21-Java-8-中的-Lambda-表达式](https://toutiao.io/k/zahd9yv) ![](assets/new.png)  
 - [2021-04-21-漫画｜工作这几年，同事对我的称呼肉眼可见的在变化着](https://toutiao.io/k/z3dscov) ![](assets/new.png)  
 - [2021-04-21-从零带你看-Struts-2-中-OGNL-命令执行漏洞](https://toutiao.io/k/00kj7m4) ![](assets/new.png)  
-- [2021-04-21-最新-Hive-的高频面试题新鲜出炉了](https://toutiao.io/k/bwb59wj) ![](assets/new.png)  
 - [2021-04-21-贝壳-OLAP-平台架构演进](https://toutiao.io/k/i2l6mm0) ![](assets/new.png)  
-- [2021-04-21-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
-- [2021-04-21-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
-- [2021-04-21-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-21-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-21-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-21-最新-Hive-的高频面试题新鲜出炉了](https://toutiao.io/k/bwb59wj) ![](assets/new.png)  
+- [2021-04-21-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-21-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-21-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-21-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-21-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

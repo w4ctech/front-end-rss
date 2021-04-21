@@ -20546,7 +20546,7 @@
         "date": "2021-04-21"
       },
       {
-        "title": "eelctron 储存大量数据时 rss memory 上涨且不会下降",
+        "title": "electron 储存大量数据时 rss memory 上涨且不会下降",
         "link": "https://www.v2ex.com/t/772253",
         "date": "2021-04-21"
       },
@@ -20598,11 +20598,6 @@
       {
         "title": "小鹤查形 - 好用的小鹤音形编码学习和查询工具",
         "link": "https://www.v2ex.com/t/772240",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "都来说说公司配的开发电脑是什么配置的",
-        "link": "https://www.v2ex.com/t/772239",
         "date": "2021-04-21"
       },
       {
@@ -20718,21 +20713,6 @@
       {
         "title": "有了解国产视频编码 AVS3 的同学吗？与 H264， VP9 等标准相比如何？",
         "link": "https://www.v2ex.com/t/772209",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "上海电信，如果光猫不桥接， LAN 能获得 IPv6 吗？",
-        "link": "https://www.v2ex.com/t/772207",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[深圳/广州阿里旗下 Lazada 社招校招内推 Android 端/iOS 端/ Java 端/前端岗 不限 HC！]",
-        "link": "https://www.v2ex.com/t/772206",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "新的 trackpad",
-        "link": "https://www.v2ex.com/t/772205",
         "date": "2021-04-21"
       }
     ]
@@ -20950,33 +20930,8 @@
         "date": "2021-04-21"
       },
       {
-        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
-        "link": "https://toutiao.io/k/bi1fr9y",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
-        "link": "https://toutiao.io/k/zdnq3fy",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
-        "link": "https://toutiao.io/k/pmlwnuy",
-        "date": "2021-04-21"
-      },
-      {
         "title": "[推荐] 教你从头写游戏服务器框架",
         "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
-        "link": "https://toutiao.io/k/811or1j",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
         "date": "2021-04-21"
       },
       {
@@ -20985,23 +20940,13 @@
         "date": "2021-04-21"
       },
       {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
+        "title": "[推荐] 码云 Gitee：高并发大存储下的架构演进之路",
+        "link": "https://toutiao.io/k/bi1fr9y",
         "date": "2021-04-21"
       },
       {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
-        "link": "https://toutiao.io/k/gauwubg",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "[推荐] 架构设计方法论",
-        "link": "https://toutiao.io/k/68q4m1v",
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
         "date": "2021-04-21"
       },
       {
@@ -21010,18 +20955,53 @@
         "date": "2021-04-21"
       },
       {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] 踩坑 MySQL 索引，看看你真的会用吗？",
+        "link": "https://toutiao.io/k/zdnq3fy",
+        "date": "2021-04-21"
+      },
+      {
         "title": "[推荐] RESTful API 设计最佳实践",
         "link": "https://toutiao.io/k/4zqz7k1",
         "date": "2021-04-21"
       },
       {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
+        "title": "[推荐] 我很久没写代码了，但我是个好架构师",
+        "link": "https://toutiao.io/k/gauwubg",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
         "date": "2021-04-21"
       },
       {
         "title": "[推荐] 谈谈 MySQL 锁",
         "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] 有哪些可以提高代码质量的书籍推荐？",
+        "link": "https://toutiao.io/k/pmlwnuy",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] 架构设计方法论",
+        "link": "https://toutiao.io/k/68q4m1v",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
         "date": "2021-04-21"
       }
     ]
@@ -21031,6 +21011,136 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "InveighZero:一款基于C#的数据欺骗和MitM工具",
+        "link": "https://sec.thief.one/article_content?a_id=10b3bfd9e1617c0a41397caa559127cb",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "【技术分享】NodeJS从零开始到原型链污染",
+        "link": "https://sec.thief.one/article_content?a_id=1142d78a089d8a3b45aa4bc86ec84c7d",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "大数据+AI,看“腾讯大数据-天工”如何引领隐私计算浪潮",
+        "link": "https://sec.thief.one/article_content?a_id=46c20ebac60cda1d8c0b6118be98297a",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "邀请函 | 西湖论剑·“首届国产优秀网络安全工具主题展”邀您来观展...",
+        "link": "https://sec.thief.one/article_content?a_id=c436d7e6ee141de82f89d450fd3f39a8",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "绿盟科技叶晓虎:智慧安全3.0理念的安全运营之道",
+        "link": "https://sec.thief.one/article_content?a_id=dc9795d1918bedd1ebd8f01a0f24fc3e",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "回复0425,即刻抽取华为太空人手表~!",
+        "link": "https://sec.thief.one/article_content?a_id=93a41039015530e344f6e04a6e39ad19",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "【漏洞通告】Oracle WebLogic T3反序列化0day漏洞",
+        "link": "https://sec.thief.one/article_content?a_id=605c77facf1328a8de77eba39fa84196",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "Oracle 补丁日高危漏洞安全公告|2021年4月",
+        "link": "https://sec.thief.one/article_content?a_id=adbbc3ae74893746e10568bb355c0f08",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "交通运输部印发《交通运输政务数据共享管理办法》",
+        "link": "https://sec.thief.one/article_content?a_id=9b3b80efd7c7d79eef8e83e9766142f5",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "关于微步云沙箱一起溯源误判事件的声明",
+        "link": "https://sec.thief.one/article_content?a_id=854738a394a49f082f70e2a3c37d1f53",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "Lazarus APT黑客正在使用BMP图像隐藏RAT恶意软件",
+        "link": "https://sec.thief.one/article_content?a_id=b89c9d25982310073030835923bed793",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "美政府拟出台电网安全冲刺计划:可免费资助安全产品",
+        "link": "https://sec.thief.one/article_content?a_id=7f431d6218173991d62c083de495fbea",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "PayPal旗下Venmo开始支持加密交易",
+        "link": "https://sec.thief.one/article_content?a_id=815941ba3835b97b7ccd800ddc928257",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "姚班大神胡渊鸣回国创业!超一半员工为清华校友,团队人均竞赛金牌...",
+        "link": "https://sec.thief.one/article_content?a_id=1f67632bb873289ac4fb98a5ea0dcb2f",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "4月21日贵币GUIBI早内参-Theta主网3.0今日即将发布,上海即将开展...",
+        "link": "https://sec.thief.one/article_content?a_id=a787dcde5b2f8fbb9a485387af783d94",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "每日攻防资讯简报[Apr.21th]",
+        "link": "https://sec.thief.one/article_content?a_id=80bd5f13da544753e775d2b1e8be6536",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "利用 KLEE 符号执行引擎挖掘软件漏洞",
+        "link": "https://sec.thief.one/article_content?a_id=27321a162ff0e69203eb9ae9eaa67ccd",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "安全日报(2021.04.21)",
+        "link": "https://sec.thief.one/article_content?a_id=15015d563d6064ad8aa0c425cf7ceb54",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "新华社聚焦“信息泄露”|信息泄露黑灰产业链滋生巨大非法获利空间",
+        "link": "https://sec.thief.one/article_content?a_id=3bc6e27e23ff838193c04cda83e2e3cd",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "AWD:赛前准备工作以及深度脚本讲解",
+        "link": "https://sec.thief.one/article_content?a_id=255dd67878e95ea9bbb03784ee1f532a",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "【安全风险通告】WebLogic多个组件高危漏洞安全风险通告",
+        "link": "https://sec.thief.one/article_content?a_id=c6149620a91ca22aa6b0293a50a39414",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "四成消费者担心自动驾驶汽车安全问题",
+        "link": "https://sec.thief.one/article_content?a_id=3c500e26770655cc6cf46849d39d4577",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "视频 | Python:面向对象之属性",
+        "link": "https://sec.thief.one/article_content?a_id=ff8a34f634d8bb2f5a82478c130759ee",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "勒索软件攻击水平加速,全球驻留时间缩短",
+        "link": "https://sec.thief.one/article_content?a_id=8bbf8ab1706033774e5052c69a137973",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "Python最佳代码实践:性能、内存和可用性!",
+        "link": "https://sec.thief.one/article_content?a_id=38079abe4c9733f88d297c649592d0c8",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "漫画 | 20多年了,为什么国产CPU还是不行?",
+        "link": "https://sec.thief.one/article_content?a_id=575da36d628861d99790adb76a91c58d",
+        "date": "2021-04-21"
+      },
       {
         "title": "黑客攻击物流公司致供应链中断,荷兰超市奶酪短缺",
         "link": "https://sec.thief.one/article_content?a_id=70ba94c04cfd22724455b81e6787a8d2",
@@ -21400,136 +21510,6 @@
         "title": "独生子女的“安全部”之演习前准备",
         "link": "https://sec.thief.one/article_content?a_id=0d7123d270cf194f77986ba0c673993a",
         "date": "2021-04-18"
-      },
-      {
-        "title": "牛逼坏了!牙医教你用450行代码写出一个编程语言",
-        "link": "https://sec.thief.one/article_content?a_id=33b1692a920f071de5c4ba31e99bd734",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "开始啦!全国革命文物百佳讲述人候选人作品展播①",
-        "link": "https://sec.thief.one/article_content?a_id=6b8017ac2e1a4745084fde7926ec9cd0",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "对WhatsApp中消息自动回复的Android恶意软件分析",
-        "link": "https://sec.thief.one/article_content?a_id=695b4ba8d06cb4904ba6450051f43aa5",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "在Z|荣耀终端(60W+/年)、VIVO招贤;10年+信安经验求职管理/技术岗",
-        "link": "https://sec.thief.one/article_content?a_id=fce3009871550d41fc9551be9639fc9e",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "安全运营周刊第三十二期",
-        "link": "https://sec.thief.one/article_content?a_id=ef5cb36162e0313ed78f769b48241441",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "联合国中招邮件诈骗,行骗者获利270万却称生活所迫?",
-        "link": "https://sec.thief.one/article_content?a_id=228dd4f683c74faaab9cb9aedc4e32a9",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "两个月内 50 家公司遭入侵,互联网上最具规模的黑客组织 Cl0p 逐渐浮...",
-        "link": "https://sec.thief.one/article_content?a_id=4da74adb304d0898afdf4aef83f05766",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "包邮送100本 Python 技术书!",
-        "link": "https://sec.thief.one/article_content?a_id=9194d248ad0133751bb7f20de3f128a5",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "【Android CTF】XCTF黑客精神—Frida RPC爆破",
-        "link": "https://sec.thief.one/article_content?a_id=9bfe228a8bb120ee952eadd6d11a7057",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "【视频】| DDOS攻击原理演示",
-        "link": "https://sec.thief.one/article_content?a_id=5031aca090c15809309ea35d61853768",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "推进网络空间治理 习近平这样部署",
-        "link": "https://sec.thief.one/article_content?a_id=5c16953995d78910bc5ce52aa1ba4476",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "【重大福利!】100本 平航取证技术简报精华合订本领取活动",
-        "link": "https://sec.thief.one/article_content?a_id=982653ba3ba2127226a1f4f5cf4b7d6a",
-        "date": "2021-04-18"
-      },
-      {
-        "title": "炸了.《图解算法》爆款,原来算法还可以这样学!",
-        "link": "https://sec.thief.one/article_content?a_id=ac08d4c64caf02797e5b62a6c1a7343a",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "【漏洞通告】Gitlab多个高危漏洞",
-        "link": "https://sec.thief.one/article_content?a_id=806eeee256d4b6d632dd24672eaf0e23",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "【漏洞通告】Chrome安全问题导致Windows版微信任意代码执行漏洞",
-        "link": "https://sec.thief.one/article_content?a_id=055f2de59f5a3ea456ade1acc7262528",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "报告数据泄露反被起诉,法案灰色地带再引争议",
-        "link": "https://sec.thief.one/article_content?a_id=7aaed7277196fc89476408724e9c20f9",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "一道算法题",
-        "link": "https://sec.thief.one/article_content?a_id=9a72176eb9b3dfc0f37bd4a83bda903a",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "网安杂谈收藏夹2021.4.17",
-        "link": "https://sec.thief.one/article_content?a_id=2aedfd72b7fa78f46f35746c90626095",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "Chrome V8 RCE 0day之WeChatWeb",
-        "link": "https://sec.thief.one/article_content?a_id=50058a99be7d4a87babe8488d367d653",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "习语典读丨众行致远",
-        "link": "https://sec.thief.one/article_content?a_id=faa99263b8a9652e942a5e4b87f2ace3",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "安全招聘汇总 | 第十三期",
-        "link": "https://sec.thief.one/article_content?a_id=3d968408ba44125c0909a946f9d3b4a2",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "DDoS攻击正演变为以勒索为主导的RDoS活动",
-        "link": "https://sec.thief.one/article_content?a_id=31cdec123ab59b30790bf0f226b12666",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "假如易立竞吐槽程序员……",
-        "link": "https://sec.thief.one/article_content?a_id=6f2549007ca64feae8d47af86bc76eee",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "内推福利 | 渗透测试工程师/C++工程师/逆向安全工程师",
-        "link": "https://sec.thief.one/article_content?a_id=3591825a6dd0aa4d10742bb52de830dc",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "微信被爆出存在高危0day漏洞!新版本已修复,看到尽快更新!",
-        "link": "https://sec.thief.one/article_content?a_id=ac8fcd6549a6cfa46d810e486910daba",
-        "date": "2021-04-17"
-      },
-      {
-        "title": "Chrome安全问题可能导致Windows版微信任意代码执行漏洞通告",
-        "link": "https://sec.thief.one/article_content?a_id=d54a4bd5ef030059f7aa89bf601bb8c1",
-        "date": "2021-04-17"
       }
     ]
   },

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-21 10:03:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 10:23:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -92,4 +92,6 @@
 - [2021-04-21-Android-实现小红书登陆页面背景图无限滚动效果-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14304&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FocOgPrfN_6FD8B16n9NYdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-21-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-21-JavaScript-垃圾回收策略](https://toutiao.io/k/i8pbfyr) 
+- [2021-04-21-关于微步云沙箱一起溯源误判事件的声明](https://sec.thief.one/article_content?a_id=854738a394a49f082f70e2a3c37d1f53) 
+- [2021-04-21-【安全风险通告】WebLogic多个组件高危漏洞安全风险通告](https://sec.thief.one/article_content?a_id=c6149620a91ca22aa6b0293a50a39414) 
 - [2021-04-19-BUF大事件丨Chrome-0Day漏洞PoC公布;微软发布4月补丁更新](https://sec.thief.one/article_content?a_id=24d72a4e6b562c80d801d44801964735) 

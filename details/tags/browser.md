@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-21 10:03:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 10:23:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,12 @@
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
 - [2021-04-21-Arthas-的表达式太难了？在线调试-Ognl-表达式](https://toutiao.io/k/uo5a4h8) 
 - [2021-04-21-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
+- [2021-04-21-邀请函-|-西湖论剑·“首届国产优秀网络安全工具主题展”邀您来观展...](https://sec.thief.one/article_content?a_id=c436d7e6ee141de82f89d450fd3f39a8) 
+- [2021-04-21-绿盟科技叶晓虎:智慧安全3.0理念的安全运营之道](https://sec.thief.one/article_content?a_id=dc9795d1918bedd1ebd8f01a0f24fc3e) 
+- [2021-04-21-Oracle-补丁日高危漏洞安全公告|2021年4月](https://sec.thief.one/article_content?a_id=adbbc3ae74893746e10568bb355c0f08) 
+- [2021-04-21-美政府拟出台电网安全冲刺计划:可免费资助安全产品](https://sec.thief.one/article_content?a_id=7f431d6218173991d62c083de495fbea) 
+- [2021-04-21-安全日报2021.04.21](https://sec.thief.one/article_content?a_id=15015d563d6064ad8aa0c425cf7ceb54) 
+- [2021-04-21-四成消费者担心自动驾驶汽车安全问题](https://sec.thief.one/article_content?a_id=3c500e26770655cc6cf46849d39d4577) 
 - [2021-04-20-【安全圈】中国开通全球规模最大的互联网试验设施主干网](https://sec.thief.one/article_content?a_id=477e2638de560a2e2f2fc1eb0a63447a) 
 - [2021-04-20-奇安信大湾区生态合作伙伴峰会暨深圳龙岗网络安全产业交流会成...](https://sec.thief.one/article_content?a_id=48b0013e27887f56b4567c6679197a9d) 
 - [2021-04-20-Chromium-issue-1196683、1195777分析](https://sec.thief.one/article_content?a_id=98966418ff0f847266679f0281907303) 
@@ -59,8 +65,3 @@
 - [2021-04-19-【牛人访谈】安全可以更简单:TDR智能安全运营服务](https://sec.thief.one/article_content?a_id=5e8965a4a4a403c0ef5d88f75654b25c) 
 - [2021-04-18-chrome最新版可用-0day上线cs-&-wx-0day上线](https://sec.thief.one/article_content?a_id=94d5eaf8839a6144401d7440a5653674) 
 - [2021-04-18-独生子女的“安全部”之演习前准备](https://sec.thief.one/article_content?a_id=0d7123d270cf194f77986ba0c673993a) 
-- [2021-04-18-安全运营周刊第三十二期](https://sec.thief.one/article_content?a_id=ef5cb36162e0313ed78f769b48241441) 
-- [2021-04-17-【漏洞通告】Chrome安全问题导致Windows版微信任意代码执行漏洞](https://sec.thief.one/article_content?a_id=055f2de59f5a3ea456ade1acc7262528) 
-- [2021-04-17-安全招聘汇总-|-第十三期](https://sec.thief.one/article_content?a_id=3d968408ba44125c0909a946f9d3b4a2) 
-- [2021-04-17-内推福利-|-渗透测试工程师/C++工程师/逆向安全工程师](https://sec.thief.one/article_content?a_id=3591825a6dd0aa4d10742bb52de830dc) 
-- [2021-04-17-Chrome安全问题可能导致Windows版微信任意代码执行漏洞通告](https://sec.thief.one/article_content?a_id=d54a4bd5ef030059f7aa89bf601bb8c1) 

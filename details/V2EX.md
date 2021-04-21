@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-21 21:37:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 21:51:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -15,7 +15,6 @@
 - [2021-04-21-问下-v-站的大佬们，有没有能快速让任何-chrome-插件内页面具有暗色模式的方法](https://www.v2ex.com/t/772325) 
 - [2021-04-21-BIgSur-磁盘问题](https://www.v2ex.com/t/772324) 
 - [2021-04-21-ThoughtWorks-武汉/西安/成都招聘-Android/安卓开发工程师](https://www.v2ex.com/t/772323) 
-- [2021-04-21-只能运行-iPadOS-的话，-M1,16G,2TB-就是个笑话](https://www.v2ex.com/t/772320) 
 - [2021-04-21-为了写论文向-Linux-内核提交有漏洞的代码，这操作绝了。](https://www.v2ex.com/t/772319) 
 - [2021-04-21-才发现不知不觉间-Google-已经收集了我这么多信息了。真是比我还懂我。](https://www.v2ex.com/t/772318) 
 - [2021-04-21-Apple-美国官网有什么方法能刻中文吗？](https://www.v2ex.com/t/772317) 

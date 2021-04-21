@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-21 15:40:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 15:53:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -114,7 +114,6 @@
 - [【前端之巅】TypeScript-因为什么特性成为了你的“刚需”？|-极客时间](https://www.ershicimi.com/p/2688e18a2f3603621be20590593671f0)
 - [【全栈前端精选】Node.js-+-typescript-写一个命令批处理辅助工具](https://www.ershicimi.com/p/4039e170468e4900f08d8b9df8e53598)
 - [【政采云前端团队】编写高质量可维护的代码：Awesome-TypeScript](https://www.ershicimi.com/p/0e0e4e00548bd0c316732a2a25594a04)
-- [【程序员成长指北】探索类型系统的底层---自己实现一个-TypeScript硬核干货](https://www.ershicimi.com/p/e5c9d2a4d51e24e1bbfb8feea69737fa)
 - [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -206,7 +205,6 @@
 
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
-- [【V2EX】有个加拿大的前同事打算合作进口点食品预包装过来国内出售,想通过小程序商城来建立销售网络批发或者零售](https://www.v2ex.com/t/772264)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-21 15:40:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 15:53:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -36,6 +36,7 @@
 - [2020-12-29-前端工程师的自我修养：React-Fiber-是如何实现更新过程可控的](https://www.ershicimi.com/p/72dc6b442470071a8e05aa0ceba63acb) 
 - [2020-11-24-“混合双打”之如何在-Class-Components-中使用-React-Hooks](https://www.ershicimi.com/p/0e0e249530678f763e438de795805147) 
 - [2021-04-16-从-setState-聊到-React-性能优化](https://www.ershicimi.com/p/3e4a9ea511c44ce540b3f4b90f518475) 
+- [2021-04-21-React-实战后的教程总结](https://www.ershicimi.com/p/5affea6ef7695d5c426f32d2310ad810) 
 - [2021-04-15-Vue-和-React-源码大PK，看这篇就够了](https://www.ershicimi.com/p/191f3f8db94d53656f146486fdaec3aa) 
 - [2021-04-14-代码简洁之道：编写干净的-React-Components-&-JSX](https://www.ershicimi.com/p/3133edde1df3877470a9bbcfa56ebe56) 
 - [2021-04-19-React-性能优化完全指南，将自己这几年的心血总结成这篇！](https://www.ershicimi.com/p/a65d9488f8349e98534dcaaadd9df1f9) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-21 15:40:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 15:53:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -77,12 +77,11 @@
 - [2021-04-14-太赞了！用-JS-实现了识别网页验证码的功能！](https://www.ershicimi.com/p/e0e8421e888b4706d10d2d112068dc49) 
 - [2021-04-13-看一道面试必备的基础题：异步实现一个-sleep-函数](https://www.ershicimi.com/p/d119c6853ee916897a141a675f459de8) 
 - [2021-04-11-面试官问：Promise.all-使用、原理实现及错误处理](https://www.ershicimi.com/p/1467580104818c4fea15969e4f800b40) 
+- [2021-04-21-一个可自由拖拽的组件实现思路](https://www.ershicimi.com/p/a7f6c54b233cc47484a107c2527597cf) 
 - [2021-04-19-一步一步手写完美符合PromiseA+规范的Promise](https://www.ershicimi.com/p/61b9298896702d373dbd81433f39353d) 
 - [2021-04-18-使用JavaScript开发一个Photoshop插件](https://www.ershicimi.com/p/06e723221b36f0588edc7957d308bbed) 
 - [2021-04-17-很多人上来就删除的package-lock.json，还有这么多你不知道的！](https://www.ershicimi.com/p/e18c2639cb3511222e2b1a9f498c4dfe) 
 - [2021-04-13-JavaScript-中哪一种循环最快呢？](https://www.ershicimi.com/p/372c6afcaa44e1b96c22b919992fec8d) 
-- [2021-04-13-使用-JavaScript-编写更好的条件语句](https://www.ershicimi.com/p/43f1f55921f840ee91db62d0e9c8429a) 
-- [2021-04-12-进阶：玩转-CSS-变量](https://www.ershicimi.com/p/e8100dda1023ec334e6dc00551bd04f1) 
 - [2021-04-09-奇舞周刊第-392-期：用-65-行代码实现-JavaScript-动画序列播放](https://www.ershicimi.com/p/013dd0533617f7cce4ff4a46483d0fb1) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2021-04-18-Java-正则表达式处理复杂文本，效率就是高！](https://www.ershicimi.com/p/3c527ff137987abc0f73a6da1e96cc97) 

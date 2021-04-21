@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-21 05:39:24，:rocket: 更新条数: +4272， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-21 05:51:46，:rocket: 更新条数: +4269， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,10 +1016,11 @@
 </summary>
 
 
+- [2021-04-21-惊！终于找到一个适合新手学习-Java-知识的订阅号了。](https://www.v2ex.com/t/772169) ![](assets/new.png)  
+- [2021-04-21-类似于这种简历模板，请问哪里有-word-版下载呢？](https://www.v2ex.com/t/772166) ![](assets/new.png)  
 - [2021-04-21-VMware-Fusion-这算是重复占用存储空间吗？](https://www.v2ex.com/t/772164) ![](assets/new.png)  
 - [2021-04-21-@Livid-无法上传图片了](https://www.v2ex.com/t/772163) ![](assets/new.png)  
 - [2021-04-21-统计:-开启或关闭“查找”网络的人的比例.](https://www.v2ex.com/t/772161) ![](assets/new.png)  
-- [2021-04-21-抱歉，请忽略这个帖子，误发了](https://www.v2ex.com/t/772160) ![](assets/new.png)  
 - [2021-04-21-对于我这种破烂佬，需求才是第一位，想淘个-pro-2018，貌似很难？](https://www.v2ex.com/t/772158) ![](assets/new.png)  
 - [2021-04-21-印象笔记-windows-商店版，不支持用户名登录，换邮箱登录却成了一个新注册的帐号](https://www.v2ex.com/t/772157) ![](assets/new.png)  
 - [2021-04-21-Linux-与-Windows-间的-samba-传输速度慢](https://www.v2ex.com/t/772156) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-04-21-求职web-前端/vue/小程序,base-北京-15k](https://www.v2ex.com/t/772145) ![](assets/new.png)  
 - [2021-04-21-安徽-99-套餐升级原价-129-优惠八折后-103-元，-30G-流量，-300M-宽带怎么样，优惠不换套餐一直享受](https://www.v2ex.com/t/772144) ![](assets/new.png)  
 - [2021-04-21-有人搞跨境电商-shopee-吗？有挣钱吗？](https://www.v2ex.com/t/772143) ![](assets/new.png)  
-- [2021-04-21-如果-M1-进入了-iPad-Pro，那么有没有可能给-iPad-Pro-装入-macOS-呢？](https://www.v2ex.com/t/772140) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

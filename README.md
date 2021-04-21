@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-21 00:47:12，:rocket: 更新条数: +4258， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-21 01:15:44，:rocket: 更新条数: +4258， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -65,9 +65,8 @@
 </summary>
 
 
+- [2021-04-21-4月20日全国新增新冠21例-本土2例在云南瑞丽](https://m.caixin.com/m/2021-04-21/101694037.html) ![](assets/new.png)  
 - [2021-04-21-澳大利亚与新西兰开通旅行气泡-英国启动新冠人体攻毒｜大流行手记（4月20日）](https://m.caixin.com/m/2021-04-21/101694005.html) ![](assets/new.png)  
-- [2021-04-20-最新疫情：全国新冠累计确诊90520例-累计接种新冠疫苗超1.95亿剂次](https://m.caixin.com/m/2021-04-20/101693833.html) ![](assets/new.png)  
-- [2021-04-20-4月19日全国新增新冠10例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-20/101693430.html) ![](assets/new.png)  
 - [2021-04-20-最新海外疫情：新冠感染近1.42亿-累计死亡超302万](https://m.caixin.com/m/2021-04-20/101693826.html) ![](assets/new.png)  
 - [2021-04-20-【境内疫情观察】云南新增1例本土病例（4月19日）](http://m.database.caixin.com/m/2021-04-20/101693637.html) ![](assets/new.png)  
 - [2021-04-20-过半美国成年人已接种一剂-印度加速进口mRNA疫苗｜大流行手记（4月19日）](https://m.caixin.com/m/2021-04-20/101693442.html) ![](assets/new.png)  
@@ -85,6 +84,7 @@
 - [2021-04-14-【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html) ![](assets/new.png)  
 - [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
+- [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -96,6 +96,8 @@
 </summary>
 
 
+- [2021-04-21-全国｜新增-21-例确诊病例-其中本土-2-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyxbaSVbWaqpJjnPgMGht210421&isfromapp=1) ![](assets/new.png)  
+- [2021-04-20-云南｜新增本土确诊病例-2-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuVRmVkEgeAHcVn7PXEqE210421&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -211,6 +213,9 @@
 </summary>
 
 
+- [2021-04-21-为什么大多数前端程序员选择React？](https://www.ershicimi.com/p/e929dd6bc363b435a24dc13530f87b89) ![](assets/new.png)  
+- [2021-04-21-【第2260期】ToB-前端-CI/CD-建设实践](https://www.ershicimi.com/p/a82b07a8609ab38627120ad92efaf699) ![](assets/new.png)  
+- [2021-04-21-【招聘】深圳阿卡索外教网招高级前端开发工程师](https://www.ershicimi.com/p/1ce358a1f02cbe784dd909436ed5d5b6) ![](assets/new.png)  
 - [2021-04-20-【第2259期】深入理解web协议：http-包体传输](https://www.ershicimi.com/p/b0f07714cf86316ff069f1a244d82909) ![](assets/new.png)  
 - [2021-04-20-【开源】企鹅电竞高性能动画组件---VAP](https://www.ershicimi.com/p/e48f5d3f35a644c3fe7fe121cde36297) ![](assets/new.png)  
 - [2021-04-19-【第2258期】新一代构建工具对比](https://www.ershicimi.com/p/f615ac506625b9ce04ad31a89c055a02) ![](assets/new.png)  
@@ -228,9 +233,6 @@
 - [2021-04-13-【第2252期】前端质量保证体系建设](https://www.ershicimi.com/p/59c4483d3fd72147124054fad6b11f8d) ![](assets/new.png)  
 - [2021-04-13-【活动】掘力计划创作者训练营第二期，火热来袭！](https://www.ershicimi.com/p/51f433a9d681a0b6020546105b6b0985) ![](assets/new.png)  
 - [2021-04-12-【第2251期】Matomo-从了解到落地——页面流量统计与分析最佳实践](https://www.ershicimi.com/p/be4ed0c6160ee2585ecaf8ff804ca77a) ![](assets/new.png)  
-- [2021-04-12-【招聘】深圳在线教育领军企业荔枝微课招高级前端啦！](https://www.ershicimi.com/p/9a89fc18f25e9662413e576276a222ae) ![](assets/new.png)  
-- [2021-04-11-【第2250期】如何提高CSS性能](https://www.ershicimi.com/p/e00d808318968d96a09806096ae45584) ![](assets/new.png)  
-- [2021-04-10-【第2249期】美团民宿性能优化实践](https://www.ershicimi.com/p/050c3b96cb505971bf5d55d4944c6d44) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1014,6 +1016,13 @@
 </summary>
 
 
+- [2021-04-21-infuse-在-apple-tv-上老是重新加载海报提示内存不足什么原因](https://www.v2ex.com/t/772079) ![](assets/new.png)  
+- [2021-04-21-请教-iPhone-不越狱的情况下如何实现电话接通挂断的时候震动一下](https://www.v2ex.com/t/772078) ![](assets/new.png)  
+- [2021-04-21-日企薪资是不是都比较低？](https://www.v2ex.com/t/772076) ![](assets/new.png)  
+- [2021-04-21-不懂就问。苹果：-4-月-26-日起，所有新上架的-App-必须使用-Xcode-12-和-iOS-14-SDK-|-这对-React-native-或-Flutter-有影响吗](https://www.v2ex.com/t/772075) ![](assets/new.png)  
+- [2021-04-21-MAS-Office-更新-UI-了](https://www.v2ex.com/t/772072) ![](assets/new.png)  
+- [2021-04-21-替-@zhuzhezhe-发帖](https://www.v2ex.com/t/772071) ![](assets/new.png)  
+- [2021-04-21-大家买-Airtag-是打算拴在什么东西上面的呢？](https://www.v2ex.com/t/772070) ![](assets/new.png)  
 - [2021-04-21-这个时间点还上-M1-是不是说明下一代-M-系列芯片还早](https://www.v2ex.com/t/772069) ![](assets/new.png)  
 - [2021-04-21-M1-iPad-Pro-离终极形态只差一步](https://www.v2ex.com/t/772067) ![](assets/new.png)  
 - [2021-04-21-请教一个关于-ip-的网络问题](https://www.v2ex.com/t/772066) ![](assets/new.png)  
@@ -1027,13 +1036,6 @@
 - [2021-04-21-感觉-macbook-air-m1-线马上要被砍掉了](https://www.v2ex.com/t/772057) ![](assets/new.png)  
 - [2021-04-21-airtag-刻字有什么好的创意么？](https://www.v2ex.com/t/772056) ![](assets/new.png)  
 - [2021-04-20-异步编程中的睡眠是如何实现的？](https://www.v2ex.com/t/772055) ![](assets/new.png)  
-- [2021-04-20-M1-Mac-mini-加入万兆可选](https://www.v2ex.com/t/772054) ![](assets/new.png)  
-- [2021-04-20-姐夫离开了玻璃渣，-Overwatch-2-成了未知数了](https://www.v2ex.com/t/772053) ![](assets/new.png)  
-- [2021-04-20-CapsLockX---像黑客一样操作电脑](https://www.v2ex.com/t/772052) ![](assets/new.png)  
-- [2021-04-20-预测一下-rMBP-将来的尺寸](https://www.v2ex.com/t/772050) ![](assets/new.png)  
-- [2021-04-20-心水新-iMac-附带那个键盘，如果能单独购买就好啦](https://www.v2ex.com/t/772049) ![](assets/new.png)  
-- [2021-04-20-谈谈-RustDesk-开源的一点感受](https://www.v2ex.com/t/772047) ![](assets/new.png)  
-- [2021-04-20--Apple-2021-春季发布会汇总](https://www.v2ex.com/t/772046) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1076,26 +1078,26 @@
 </summary>
 
 
-- [2021-04-21-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
 - [2021-04-21-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-04-21-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
 - [2021-04-21-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
 - [2021-04-21-JavaScript-垃圾回收策略](https://toutiao.io/k/i8pbfyr) ![](assets/new.png)  
 - [2021-04-21-厉害了，A4-纸上竟然能清晰看动漫](https://toutiao.io/k/izj0r49) ![](assets/new.png)  
 - [2021-04-21-AMS-系列之生命周期管理](https://toutiao.io/k/5jrgtv8) ![](assets/new.png)  
 - [2021-04-21-从-Serverless-看软件效能提升](https://toutiao.io/k/ykfvids) ![](assets/new.png)  
-- [2021-04-21-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
-- [2021-04-21-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-21-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
-- [2021-04-21-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-21-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-21-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
-- [2021-04-21-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
 - [2021-04-21-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-21-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-21-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-21-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
 - [2021-04-21-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [2021-04-21-推荐-码云-Gitee：高并发大存储下的架构演进之路](https://toutiao.io/k/bi1fr9y) ![](assets/new.png)  
 - [2021-04-21-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-21-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-21-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
+- [2021-04-21-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-21-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-21-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-21-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-21-推荐-踩坑-MySQL-索引，看看你真的会用吗？](https://toutiao.io/k/zdnq3fy) ![](assets/new.png)  
+- [2021-04-21-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

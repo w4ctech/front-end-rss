@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-21 00:47:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 01:15:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -10,10 +10,10 @@
 - [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-03-30-面试阿里被问的哑口无言，原来我……](https://www.ershicimi.com/p/9b4eb4e86782276faaf83bb375080f45) 
 - [2021-04-12-400-道前端工程师常考必考面试题+详细解答](https://www.ershicimi.com/p/e9be4da0ec5ce2055c5ca8522905e6a0) 
+- [2021-04-21-【招聘】深圳阿卡索外教网招高级前端开发工程师](https://www.ershicimi.com/p/1ce358a1f02cbe784dd909436ed5d5b6) 
 - [2021-04-19-【招聘】淘系前端智能化团队！社招&校招同步进行中！](https://www.ershicimi.com/p/09395998a9cba582f4971a54c7b03cf3) 
 - [2021-04-18-【招聘】北京好未来-学而思网校-增长研发团队招高级/资深/专家前端开发工程师](https://www.ershicimi.com/p/0b647eec93405792800638d9784dac81) 
 - [2021-04-17-【招聘】上海拼多多招聘前端开发工程师（社交方向）-社招/2021届校招/2022届实习生](https://www.ershicimi.com/p/9d859068d20922fed20db4b32d7d7610) 
-- [2021-04-12-【招聘】深圳在线教育领军企业荔枝微课招高级前端啦！](https://www.ershicimi.com/p/9a89fc18f25e9662413e576276a222ae) 
 - [2021-04-19-普通前端人的金三银四：7天，6厂面试，5个offer](https://www.ershicimi.com/p/91b1fce1b53eaca5599cacf0168a070a) 
 - [2021-04-06-面不面试的，你都得懂原型和原型链](https://www.ershicimi.com/p/a51ca0a4cad1e24a1bba631c374c6450) 
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 

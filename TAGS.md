@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-21 00:47:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 01:15:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -42,6 +42,7 @@
 - [【Vue社区】Vue-在哪些方面比-React-做得更好？](https://www.ershicimi.com/p/9aac50dad3d99f9fec8258e7e5a7589b)
 - [【Vue中文社区】前端开发进阶必备：Vue-和-React源码解析](https://www.ershicimi.com/p/57b206c82681f609a3c3e4de21f93658)
 - [【React中文社区】你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090)
+- [【前端早读课】为什么大多数前端程序员选择React？](https://www.ershicimi.com/p/e929dd6bc363b435a24dc13530f87b89)
 - [【前端早读课】Vue-和-React源码大PK，看这篇就够了](https://www.ershicimi.com/p/e1bf71751403059875c1cf228d420a62)
 - [【前端早读课】【第2253期】React状态管理库及如何选择？](https://www.ershicimi.com/p/45273e60f71700d03acc798ca28f0826)
 - [【前端开发】Vue-和-React-源码大PK，看这篇就够了](https://www.ershicimi.com/p/5086c9d2936c0a20384a6f369d7d8b75)
@@ -58,7 +59,6 @@
 - [【前端之巅】深度解读便利蜂-React-Native-多版本共存的平滑升级实践](https://www.ershicimi.com/p/1b903e47c678e2fd22cf7e98177a2955)
 - [【前端之巅】2021年，Flutter-与-React-Native该如何选择？](https://www.ershicimi.com/p/34bb685a09420346000384454a71b0c1)
 - [【前端迷】Vue-和-React源码学习指南，进阶必备](https://www.ershicimi.com/p/5b338e27dabd9f57d03746a2ea3200d5)
-- [【前端迷】面试官：谈谈vue-和-React的异同点](https://www.ershicimi.com/p/e3f85bfb8e0f3c6b8eb77c911bac178d)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -298,7 +298,6 @@
 
 
 - [【前端早读课】【活动】阿里云-Serverless-Developer-Meetup-开放报名！](https://www.ershicimi.com/p/18016e4360e3f0d5e4ee0d938b9acc5c)
-- [【前端早读课】【第2250期】如何提高CSS性能](https://www.ershicimi.com/p/e00d808318968d96a09806096ae45584)
 - [【前端大全】1.5-万字-CSS-基础拾遗](https://www.ershicimi.com/p/2c0b812a994a764b9789cb871b942c1b)
 - [【前端开发】字节跳动最爱考的前端面试题：CSS-基础](https://www.ershicimi.com/p/4f9b89c1dfa6bda6f88051f083a42231)
 - [【前端圈】视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0)
@@ -317,6 +316,7 @@
 - [【奇舞周刊】不会吧，你还不知道这些检查-CSS-的工具？？？](https://www.ershicimi.com/p/f868d4fa1ad5518cd482f7225c4b58de)
 - [【前端e进阶】对-Chrome-Headless-渲染的极致优化](https://www.ershicimi.com/p/750cc36a62dc2f4be88144714fde4887)
 - [【JavaScript】大厂都在做serverless，他到底是什么？](https://www.ershicimi.com/p/133280d357c2d7f18d0cc925d6df078f)
+- [【开发者头条】从-Serverless-看软件效能提升](https://toutiao.io/k/ykfvids)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -391,9 +391,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html)
 - [【Vue中文社区】21道关于性能优化的面试题附答案](https://www.ershicimi.com/p/40afd74436799d7dbd9f0fbf0c53fe5f)
 - [【前端早读课】【第2254期】前端性能优化](https://www.ershicimi.com/p/b4822e75e2ce8e957c1f9b9427a06741)
-- [【前端早读课】【第2249期】美团民宿性能优化实践](https://www.ershicimi.com/p/050c3b96cb505971bf5d55d4944c6d44)
 - [【程序员成长指北】送书+红包-阿里云专家基于5年一线大厂Web性能优化经验分享书籍](https://www.ershicimi.com/p/7e5d025b87d90b68e57fae7c71dbacbd)
 - [【奇舞周刊】2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152)
+- [【V2EX】infuse-在-apple-tv-上老是重新加载海报提示内存不足什么原因](https://www.v2ex.com/t/772079)
 - [【开发者头条】推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r)
 - [【物联网智库】大人，时代变了！英伟达推出ARM架构CPU，性能10倍领先](https://www.ershicimi.com/p/874901238abc4822eb2940f07fdc57a8)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -517,10 +517,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
 - [【Vue社区】面试阿里被问的哑口无言，原来我……](https://www.ershicimi.com/p/9b4eb4e86782276faaf83bb375080f45)
 - [【Vue中文社区】400-道前端工程师常考必考面试题+详细解答](https://www.ershicimi.com/p/e9be4da0ec5ce2055c5ca8522905e6a0)
+- [【前端早读课】【招聘】深圳阿卡索外教网招高级前端开发工程师](https://www.ershicimi.com/p/1ce358a1f02cbe784dd909436ed5d5b6)
 - [【前端早读课】【招聘】淘系前端智能化团队！社招&校招同步进行中！](https://www.ershicimi.com/p/09395998a9cba582f4971a54c7b03cf3)
 - [【前端早读课】【招聘】北京好未来-学而思网校-增长研发团队招高级/资深/专家前端开发工程师](https://www.ershicimi.com/p/0b647eec93405792800638d9784dac81)
 - [【前端早读课】【招聘】上海拼多多招聘前端开发工程师（社交方向）-社招/2021届校招/2022届实习生](https://www.ershicimi.com/p/9d859068d20922fed20db4b32d7d7610)
-- [【前端早读课】【招聘】深圳在线教育领军企业荔枝微课招高级前端啦！](https://www.ershicimi.com/p/9a89fc18f25e9662413e576276a222ae)
 - [【前端大学】普通前端人的金三银四：7天，6厂面试，5个offer](https://www.ershicimi.com/p/91b1fce1b53eaca5599cacf0168a070a)
 - [【前端大学】面不面试的，你都得懂原型和原型链](https://www.ershicimi.com/p/a51ca0a4cad1e24a1bba631c374c6450)
 - [【前端外刊评论】美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665)
@@ -600,9 +600,8 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】4月20日全国新增新冠21例-本土2例在云南瑞丽](https://m.caixin.com/m/2021-04-21/101694037.html)
 - [【武汉肺炎防疫全纪录(财新网)】澳大利亚与新西兰开通旅行气泡-英国启动新冠人体攻毒｜大流行手记（4月20日）](https://m.caixin.com/m/2021-04-21/101694005.html)
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊90520例-累计接种新冠疫苗超1.95亿剂次](https://m.caixin.com/m/2021-04-20/101693833.html)
-- [【武汉肺炎防疫全纪录(财新网)】4月19日全国新增新冠10例-本土1例在云南瑞丽](https://m.caixin.com/m/2021-04-20/101693430.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染近1.42亿-累计死亡超302万](https://m.caixin.com/m/2021-04-20/101693826.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】云南新增1例本土病例（4月19日）](http://m.database.caixin.com/m/2021-04-20/101693637.html)
 - [【武汉肺炎防疫全纪录(财新网)】过半美国成年人已接种一剂-印度加速进口mRNA疫苗｜大流行手记（4月19日）](https://m.caixin.com/m/2021-04-20/101693442.html)
@@ -620,6 +619,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html)
 - [【武汉肺炎防疫全纪录(财新网)】美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html)
 - [【武汉肺炎防疫全纪录(财新网)】云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html)
+- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】我国新冠疫苗累计接种超1.67亿剂次（4月12日）](http://m.database.caixin.com/m/2021-04-13/101690476.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

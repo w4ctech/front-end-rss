@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-21 00:47:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-21 01:15:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -10,6 +10,7 @@
 - [2021-04-07-Vue-在哪些方面比-React-做得更好？](https://www.ershicimi.com/p/9aac50dad3d99f9fec8258e7e5a7589b) 
 - [2021-04-16-前端开发进阶必备：Vue-和-React源码解析](https://www.ershicimi.com/p/57b206c82681f609a3c3e4de21f93658) 
 - [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) 
+- [2021-04-21-为什么大多数前端程序员选择React？](https://www.ershicimi.com/p/e929dd6bc363b435a24dc13530f87b89) 
 - [2021-04-14-Vue-和-React源码大PK，看这篇就够了](https://www.ershicimi.com/p/e1bf71751403059875c1cf228d420a62) 
 - [2021-04-14-【第2253期】React状态管理库及如何选择？](https://www.ershicimi.com/p/45273e60f71700d03acc798ca28f0826) 
 - [2021-04-15-Vue-和-React-源码大PK，看这篇就够了](https://www.ershicimi.com/p/5086c9d2936c0a20384a6f369d7d8b75) 
@@ -54,3 +55,4 @@
 - [2021-04-01-Vue3-和-React17-，你选谁？](https://www.ershicimi.com/p/5201768cad7e8d137e8170250acd1b4b) 
 - [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) 
 - [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) 
+- [2021-04-21-不懂就问。苹果：-4-月-26-日起，所有新上架的-App-必须使用-Xcode-12-和-iOS-14-SDK-|-这对-React-native-或-Flutter-有影响吗](https://www.v2ex.com/t/772075) 

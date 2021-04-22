@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-22 01:56:20，:rocket: 更新条数: +737， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-22 02:13:27，:rocket: 更新条数: +4241， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-04-22-4月21日全国新增新冠6例-均由境外输入](https://m.caixin.com/m/2021-04-22/101694599.html) ![](assets/new.png)  
+- [2021-04-21-最新海外疫情：新冠感染超1.42亿-累计死亡超303万](https://m.caixin.com/m/2021-04-21/101694403.html) ![](assets/new.png)  
+- [2021-04-21-【境内疫情观察】海南新增12例境外输入病例（4月20日）](http://m.database.caixin.com/m/2021-04-21/101694231.html) ![](assets/new.png)  
+- [2021-04-21-澳大利亚与新西兰开通旅行气泡-英国启动新冠人体攻毒｜大流行手记（4月20日）](https://m.caixin.com/m/2021-04-21/101694005.html) ![](assets/new.png)  
+- [2021-04-20-【境内疫情观察】云南新增1例本土病例（4月19日）](http://m.database.caixin.com/m/2021-04-20/101693637.html) ![](assets/new.png)  
+- [2021-04-20-过半美国成年人已接种一剂-印度加速进口mRNA疫苗｜大流行手记（4月19日）](https://m.caixin.com/m/2021-04-20/101693442.html) ![](assets/new.png)  
+- [2021-04-19-变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html) ![](assets/new.png)  
+- [2021-04-19-【境内疫情观察】全国新增11例境外输入病例（4月18日）](http://m.database.caixin.com/m/2021-04-19/101693254.html) ![](assets/new.png)  
+- [2021-04-19-印度单日新增逾26万病例-世卫称全球感染率接近历史高峰｜大流行手记（4月18日）](https://m.caixin.com/m/2021-04-19/101692924.html) ![](assets/new.png)  
+- [2021-04-18-【境内疫情观察】全国新增16例境外输入病例（4月17日）](http://m.database.caixin.com/m/2021-04-18/101692852.html) ![](assets/new.png)  
+- [2021-04-18-科兴疫苗智利真实世界保护率达67%-礼来中和抗体紧急授权被收回｜大流行手记（4月17日）](https://m.caixin.com/m/2021-04-18/101692822.html) ![](assets/new.png)  
+- [2021-04-17-【境内疫情观察】云南新增1例本土病例（4月16日）](http://m.database.caixin.com/m/2021-04-17/101692717.html) ![](assets/new.png)  
+- [2021-04-17-辉瑞称接种者或需打第三剂疫苗-以色列取消户外口罩令｜大流行手记（4月16日）](https://m.caixin.com/m/2021-04-17/101692553.html) ![](assets/new.png)  
+- [2021-04-16-印度单日新增确诊首破20万人-全球疫苗供应紧缺｜大流行手记（4月15日）](https://m.caixin.com/m/2021-04-16/101691883.html) ![](assets/new.png)  
+- [2021-04-15-香港放宽新冠疫苗接种年龄限制-明年将采购新一代疫苗](https://m.caixin.com/m/2021-04-15/101691804.html) ![](assets/new.png)  
+- [2021-04-15-【境内疫情观察】全国新增10例境外输入病例（4月14日）](http://m.database.caixin.com/m/2021-04-15/101691588.html) ![](assets/new.png)  
+- [2021-04-14-云南瑞丽4月13日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-14/101690804.html) ![](assets/new.png)  
+- [2021-04-14-【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html) ![](assets/new.png)  
+- [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
+- [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -76,8 +96,6 @@
 </summary>
 
 
-- [2021-04-22-全国｜新增-6-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuZpGyQJpGmykwmWpfTwT210422&isfromapp=1) ![](assets/new.png)  
-- [2021-04-22-上海｜新增-1-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyeanHajcM6SW7zCFprTk210422&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +1014,14 @@
 </summary>
 
 
+- [2021-04-22-新加坡-虾皮-部门直招-后端开发,-云原生平台开发OpenResty,-eBPF,-DPDK,-Kubernetes-等-](https://www.v2ex.com/t/772375) ![](assets/new.png)  
+- [2021-04-22-西安/成都内推-SAP-招聘工程师（955WLB）](https://www.v2ex.com/t/772374) ![](assets/new.png)  
+- [2021-04-22-tar-命令请教](https://www.v2ex.com/t/772373) ![](assets/new.png)  
+- [2021-04-22-五一顺风车-上海回池州啊](https://www.v2ex.com/t/772372) ![](assets/new.png)  
+- [2021-04-22-GCP-香港废了么,绕荷兰](https://www.v2ex.com/t/772370) ![](assets/new.png)  
+- [2021-04-22-工作选择-内部晋升-or-字节](https://www.v2ex.com/t/772369) ![](assets/new.png)  
+- [2021-04-22-爱奇艺-VIP-和京东-PLUS-会员联名卡优惠活动-138-元/年](https://www.v2ex.com/t/772366) ![](assets/new.png)  
+- [2021-04-22-请问-Pixel-1-代目前还可以不占用空间以原画质上传照片吗？](https://www.v2ex.com/t/772365) ![](assets/new.png)  
 - [2021-04-22-AirTag-刻个什么内容比较有趣呢](https://www.v2ex.com/t/772364) ![](assets/new.png)  
 - [2021-04-22-工作经历比较零碎怎么写简历比较好](https://www.v2ex.com/t/772363) ![](assets/new.png)  
 - [2021-04-22-CDN-改-CNAME-和-NS-的区别](https://www.v2ex.com/t/772362) ![](assets/new.png)  
@@ -1008,14 +1034,6 @@
 - [2021-04-22-我发现-okex欧易-透露了我的联系方式](https://www.v2ex.com/t/772352) ![](assets/new.png)  
 - [2021-04-22-WSLg：-WSL-GUI-进入-Insider-Preview](https://www.v2ex.com/t/772350) ![](assets/new.png)  
 - [2021-04-22-15-款-mbp-lq2](https://www.v2ex.com/t/772348) ![](assets/new.png)  
-- [2021-04-22-哎，大厂面试被-HR-刷了，真不甘心](https://www.v2ex.com/t/772345) ![](assets/new.png)  
-- [2021-04-22-现在的直播间带货，不就是十年前的电视卖货吗？](https://www.v2ex.com/t/772344) ![](assets/new.png)  
-- [2021-04-22-烤鱼有-V-友知道怎么做吗?](https://www.v2ex.com/t/772343) ![](assets/new.png)  
-- [2021-04-22-一直有个疑惑，像-lnmp-这种环境大家是怎么安装的，有没有最佳实践？](https://www.v2ex.com/t/772341) ![](assets/new.png)  
-- [2021-04-22-百度内推-🔥🔥算法/工程/产品/设计/运营各类岗位急速内推,实时反馈~~~~~~~~~~~~~](https://www.v2ex.com/t/772340) ![](assets/new.png)  
-- [2021-04-22-果然不出所料本地电信已恢复-QOS](https://www.v2ex.com/t/772338) ![](assets/new.png)  
-- [2021-04-21-机会只留给有准备的人，面试不刷题真不行](https://www.v2ex.com/t/772337) ![](assets/new.png)  
-- [2021-04-21-关于-homepod-mini-的广播](https://www.v2ex.com/t/772336) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1027,26 +1045,6 @@
 </summary>
 
 
-- [2021-04-22-Android-实现小红书登陆页面背景图无限滚动效果-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14304&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FocOgPrfN_6FD8B16n9NYdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-未来，APP-就是一个人的全部-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14303&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fpmb8rKBBUp6sdN1FI-4IOw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-十六年全栈开发者的-Android-开发踩坑实录-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLiRIV5XAvToTpLTLRSkxdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-你的App为何在iPhone12上显示异常，而别人的不会？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14301&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489597%26amp%3Bidx%3D2%26amp%3Bsn%3D4ee3ac433223f43b04edc9779419e9fd%26amp%3Bchksm%3Dfa3cf966cd4b70702b5145d768464ef6532a57737f3953a9110b5af6c067b7e927c6b060ac4d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-大厂的404页面都长啥样？最后一个亮了...-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14300&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489588%26amp%3Bidx%3D1%26amp%3Bsn%3D702f2a7cf366199d4b96d7e7788ccba5%26amp%3Bchksm%3Dfa3cf96fcd4b7079291178651ea0ad2e1dbf6afe23e75fab33002049de5845bf77249566d54a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-「译文」资深程序员应该有的样子-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14299&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489588%26amp%3Bidx%3D2%26amp%3Bsn%3De6a36e632edad47aa86194951b944bd4%26amp%3Bchksm%3Dfa3cf96fcd4b7079349fead593f1e900c17e370b0a1910642d29d9897de0aa0028a903b88a56%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-2020年轻人专属的那种羞羞报告，悄悄收藏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14298&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489587%26amp%3Bidx%3D1%26amp%3Bsn%3Dcec78575a260e10e87d42be55a255eae%26amp%3Bchksm%3Dfa3cf968cd4b707eb6aaff8e36c977d8abb07d5063e2a750707679cc6e3e7406cea7845488cc%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-真实业务订单拆单架构与实战-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14297&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489587%26amp%3Bidx%3D2%26amp%3Bsn%3D3c2753127ebf6d52cecca72a134bc622%26amp%3Bchksm%3Dfa3cf968cd4b707ecdefcca83c8737f85814d371cd742c4a5325717eb81a0a3c933ef9b80255%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-22款高颜值的终端工具，点燃了小姐姐对编程的热爱！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14296&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489583%26amp%3Bidx%3D1%26amp%3Bsn%3D13da584dd1abcbbc0ef343f2e32b83cb%26amp%3Bchksm%3Dfa3cf974cd4b7062d21970c8a280c08f574476f28fdf9242ce20124b4460b31cf041fd39454b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-Linux开发过程那么麻烦，是否值得？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14295&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489583%26amp%3Bidx%3D2%26amp%3Bsn%3D90ca284916f60b0b70ebdc5cd05c2ca4%26amp%3Bchksm%3Dfa3cf974cd4b7062502da9d6bdfb2d7d9ed25ada78ce801f96166f471b2f7b21a0f22cc2f570%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-想多人游戏？那你还不看看它！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14294&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-想多人游戏？那你还不看看它！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14293&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-Doge.jpg-的背后是什么，你知道么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14292&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F347658697%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-如何通过开发快应用赚取睡后收入？-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14291&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F30%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-如何基于-Flarum-搭建一个优雅简洁论坛？-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=14290&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F03%2F22%2F189-how-to-install-flarum-based-on-docker%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-优质网站同好者周刊（第-8-期）--倾城之链-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=14289&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F04%2F08%2F193-nicelinks-weekly-008%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-快应用开发工具-3.9.0-版本发布-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14288&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F31-390%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-实操｜如何将-Containerd-用作-Kubernetes-runtime-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14287&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F359860695%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-Android-R-如何访问-Android/data-目录？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14286&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtX31JRuSChWAORKJDlpOIw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1070,14 +1068,14 @@
 - [2021-04-22-1006-笨阶乘](https://toutiao.io/k/scjloxy) ![](assets/new.png)  
 - [2021-04-22-Homebrew-图形化管理软件-Cakebrew，我再也不用记命令了](https://toutiao.io/k/b5awuuy) ![](assets/new.png)  
 - [2021-04-22-聊聊-Code-Review](https://toutiao.io/k/29pxjdo) ![](assets/new.png)  
+- [2021-04-22-ShutdownHook-原理](https://toutiao.io/k/n8y1wql) ![](assets/new.png)  
 - [2021-04-22-服务网格平稳落地：Istio-中精准控制-Sidecar-的注入](https://toutiao.io/k/flemmhy) ![](assets/new.png)  
-- [2021-04-22-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-22-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
-- [2021-04-22-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-22-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-22-太强大了，Feign-对接-YAPI-实现自动-Mock](https://toutiao.io/k/qfzkjty) ![](assets/new.png)  
+- [2021-04-22-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
 - [2021-04-22-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-22-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
-- [2021-04-22-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-22-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-22-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-22-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

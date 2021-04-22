@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 03:08:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 03:24:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -39,8 +39,6 @@
 - [2021-04-17-收藏，日常必备的JS工具函数大全](https://www.ershicimi.com/p/c554ca10553bc69e34e5cd44b46cdd50) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
-- [2021-04-20-【开源】企鹅电竞高性能动画组件---VAP](https://www.ershicimi.com/p/e48f5d3f35a644c3fe7fe121cde36297) 
-- [2021-04-16-【第2255期】Service-Worker-实践指南](https://www.ershicimi.com/p/86749c5a6a449ebc7a0173fa6c052362) 
 - [2021-04-19-这样入门-js-抽象语法树AST，从此我来到了一个新世界](https://www.ershicimi.com/p/4b58f39773d43c770aad7b9fbe351e78) 
 - [2021-04-18-帮你彻底搞懂-JS-中的-prototype、__proto__与constructor（图解）](https://www.ershicimi.com/p/f9feebb1b55f9a0a107b0e293af00938) 
 - [2021-04-16-中高级前端必须注意的-40-条移动端-H5-坑位指南-|-网易三年实践](https://www.ershicimi.com/p/56a3f307793d15c7d4a89c782fe3ebbc) 
@@ -77,11 +75,6 @@
 - [2021-04-14-太赞了！用-JS-实现了识别网页验证码的功能！](https://www.ershicimi.com/p/e0e8421e888b4706d10d2d112068dc49) 
 - [2021-04-13-看一道面试必备的基础题：异步实现一个-sleep-函数](https://www.ershicimi.com/p/d119c6853ee916897a141a675f459de8) 
 - [2021-04-11-面试官问：Promise.all-使用、原理实现及错误处理](https://www.ershicimi.com/p/1467580104818c4fea15969e4f800b40) 
-- [2021-04-21-一个可自由拖拽的组件实现思路](https://www.ershicimi.com/p/a7f6c54b233cc47484a107c2527597cf) 
-- [2021-04-19-一步一步手写完美符合PromiseA+规范的Promise](https://www.ershicimi.com/p/61b9298896702d373dbd81433f39353d) 
-- [2021-04-18-使用JavaScript开发一个Photoshop插件](https://www.ershicimi.com/p/06e723221b36f0588edc7957d308bbed) 
-- [2021-04-17-很多人上来就删除的package-lock.json，还有这么多你不知道的！](https://www.ershicimi.com/p/e18c2639cb3511222e2b1a9f498c4dfe) 
-- [2021-04-13-JavaScript-中哪一种循环最快呢？](https://www.ershicimi.com/p/372c6afcaa44e1b96c22b919992fec8d) 
 - [2021-04-20-Table组件虚拟化实践](https://www.ershicimi.com/p/bc947edfdd9c856c968005b0ae9a38ad) 
 - [2021-04-19-JavaScript-中如何实现大文件并行下载？](https://www.ershicimi.com/p/40e9969871768d3639d86098d2ba4cbd) 
 - [2021-04-09-奇舞周刊第-392-期：用-65-行代码实现-JavaScript-动画序列播放](https://www.ershicimi.com/p/013dd0533617f7cce4ff4a46483d0fb1) 
@@ -89,6 +82,9 @@
 - [2021-04-18-Java-正则表达式处理复杂文本，效率就是高！](https://www.ershicimi.com/p/3c527ff137987abc0f73a6da1e96cc97) 
 - [2021-04-20-微服务+异步工作流+Serverless，Netflix-决定弃用稳定运行7年的旧平台](https://www.ershicimi.com/p/b7c2ae1f256c2a458ebb98e20201b4f6) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-04-22-如何获取某个位置（非行政区划）的-GeoJson-数据？](https://www.v2ex.com/t/772399) 
+- [2021-04-22-Android-实现小红书登陆页面背景图无限滚动效果-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14304&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FocOgPrfN_6FD8B16n9NYdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-04-22-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-21-关于微步云沙箱一起溯源误判事件的声明](https://sec.thief.one/article_content?a_id=854738a394a49f082f70e2a3c37d1f53) 
 - [2021-04-21-【安全风险通告】WebLogic多个组件高危漏洞安全风险通告](https://sec.thief.one/article_content?a_id=c6149620a91ca22aa6b0293a50a39414) 
 - [2021-04-19-BUF大事件丨Chrome-0Day漏洞PoC公布;微软发布4月补丁更新](https://sec.thief.one/article_content?a_id=24d72a4e6b562c80d801d44801964735) 

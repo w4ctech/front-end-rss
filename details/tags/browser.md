@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 10:03:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 10:24:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,10 +31,15 @@
 - [2021-04-15-CORS-完全手册之-CORS-详解](https://www.ershicimi.com/p/4611dd35ef482198b814deea154312b2) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2021-04-08-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/9e0a0e7b6559752b7a0a05ada834fad8) 
-- [2021-04-19-中原银行分布式缓存实践](https://www.ershicimi.com/p/40bb39493b040f7e21e1a890ca14dcfa) 
+- [2021-04-22-thrift-的-TServiceClient-是线程安全的么?](https://www.v2ex.com/t/772516) 
 - [2021-04-22-macos-下-chrome90+devtools=烧屏风险](https://www.v2ex.com/t/772474) 
 - [2021-04-22-聊聊-Code-Review](https://toutiao.io/k/29pxjdo) 
 - [2021-04-22-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
+- [2021-04-22-Chrome更新来袭,共修复7个安全问题](https://sec.thief.one/article_content?a_id=a5472b2ba01191a7809325fb39ae0c25) 
+- [2021-04-22-征文|杨博涵:从防御、监测到运营,浅谈终端安全](https://sec.thief.one/article_content?a_id=bcbf2453f57bcf0615979c5cca20eded) 
+- [2021-04-22-信息安全技术学习分班通知](https://sec.thief.one/article_content?a_id=cd62108a5169fec3ec64777bde05e70c) 
+- [2021-04-22-CNNVD-关于Oracle-WebLogic-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=50affd5bd70c499c66b056208e3bb123) 
+- [2021-04-22-安全日报2021.04.22](https://sec.thief.one/article_content?a_id=202714d1c0330f4083a019455fc4c52e) 
 - [2021-04-21-【安全圈】美一知名电子邮件曝3个在野0day漏洞](https://sec.thief.one/article_content?a_id=8d3e3d85212b4cbeb3378d2759258a9e) 
 - [2021-04-21-邀请函-|-西湖论剑·“首届国产优秀网络安全工具主题展”邀您来观展...](https://sec.thief.one/article_content?a_id=c436d7e6ee141de82f89d450fd3f39a8) 
 - [2021-04-21-绿盟科技叶晓虎:智慧安全3.0理念的安全运营之道](https://sec.thief.one/article_content?a_id=dc9795d1918bedd1ebd8f01a0f24fc3e) 
@@ -56,8 +61,3 @@
 - [2021-04-20-安全日报2021.04.20](https://sec.thief.one/article_content?a_id=369afdead0bd67aa626179b5e91715e1) 
 - [2021-04-20-拜登政府制定美国电网网络安全百日计划](https://sec.thief.one/article_content?a_id=a0972dcbaee8649db01b15fd885130ca) 
 - [2021-04-19-【安全圈】配送平台-Mercato-发生数据泄露-却没向用户发出提醒](https://sec.thief.one/article_content?a_id=81be561532105dc010d6ae464334c895) 
-- [2021-04-19-第四届红帽杯网络安全大赛正式启动!](https://sec.thief.one/article_content?a_id=5227c9dc6a168bbcbfe88ed129223696) 
-- [2021-04-19-CSO说安全-|-黄乐:对企业安全运营的思考](https://sec.thief.one/article_content?a_id=e7ab530c2036231c5335bb3f81b3d543) 
-- [2021-04-19-每日安全动态推送04-19](https://sec.thief.one/article_content?a_id=a04b0c104c11be06d62995cce0509e28) 
-- [2021-04-19-安全日报2021.04.19](https://sec.thief.one/article_content?a_id=4f45769342afd0f4136eefff3f0fc284) 
-- [2021-04-19-【牛人访谈】安全可以更简单:TDR智能安全运营服务](https://sec.thief.one/article_content?a_id=5e8965a4a4a403c0ef5d88f75654b25c) 

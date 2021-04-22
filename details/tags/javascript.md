@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 20:50:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 21:02:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -43,10 +43,10 @@
 - [2021-04-09-这些工作中用到的JavaScript小技巧你都知道吗？](https://www.ershicimi.com/p/c3e5cde54d7627069a9ce188486b4e1d) 
 - [2021-04-06-如何搭建一个完美的组件库？](https://www.ershicimi.com/p/e2052b85992219ee9d870de3f2aa57ed) 
 - [2021-04-05-4个强大JavaScript运算符](https://www.ershicimi.com/p/baa2ab48b1fb692863fa6c908f059696) 
+- [2021-04-21-前端业务组件库技术实现的三个关键点](https://www.ershicimi.com/p/d02d973bd8424f24fc7b162f1fa0573b) 
+- [2021-04-20-Promise知识汇总和面试情况](https://www.ershicimi.com/p/10e3cc6131177d881f363d6529de84aa) 
+- [2021-04-19-JavaScript-中哪一种循环最快呢？](https://www.ershicimi.com/p/febefe0c7f7db44a3c7df51735703358) 
 - [2021-04-18-H5项目适配系统深色模式方案](https://www.ershicimi.com/p/293f8e8eee9cea7dd031b15efbee0aaf) 
-- [2021-04-14-太赞了！用-JS-实现了识别网页验证码的功能！](https://www.ershicimi.com/p/e0e8421e888b4706d10d2d112068dc49) 
-- [2021-04-13-看一道面试必备的基础题：异步实现一个-sleep-函数](https://www.ershicimi.com/p/d119c6853ee916897a141a675f459de8) 
-- [2021-04-11-面试官问：Promise.all-使用、原理实现及错误处理](https://www.ershicimi.com/p/1467580104818c4fea15969e4f800b40) 
 - [2021-04-22-如何打造一款标准的-JS-SDK-？](https://www.ershicimi.com/p/3d48fc4b7a432e51fba5768e68eaad03) 
 - [2021-04-22-对前端路由的一些理解](https://www.ershicimi.com/p/1cb83e6b630ea866172419ea091b822c) 
 - [2021-04-21-一个可自由拖拽的组件实现思路](https://www.ershicimi.com/p/a7f6c54b233cc47484a107c2527597cf) 

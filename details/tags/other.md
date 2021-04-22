@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 20:38:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 20:50:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -137,6 +137,8 @@
 - [2021-04-16-我们计划招收300位学员，免费攻读商业数据分析！](https://www.ershicimi.com/p/d28b6f346dfc16c2d268f18f68951095) 
 - [2021-04-12-非科班自学进腾讯！学习笔记给你要来了，速码](https://www.ershicimi.com/p/a5093f30e40779b87f9f9bc9f1d4b892) 
 - [2021-04-05-推荐几个能够助你成长的前端大佬](https://www.ershicimi.com/p/578f58ecec1aa28180258897b2795551) 
+- [2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) 
+- [2021-03-30-分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/) 
 - [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) 
 - [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html) 
 - [2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) 
@@ -210,7 +212,6 @@
 - [2021-04-06-推荐一位程序媛的公众号](https://www.ershicimi.com/p/9b3d6a60b5976a5bcad5d7c2e147b861) 
 - [2021-04-05-NativeScript-8.0-已发布](https://www.ershicimi.com/p/dcaffe4708a9d6c7c04fabd903ab2e80) 
 - [2021-04-04-Deno-宣布成立公司](https://www.ershicimi.com/p/e971f481d7888da5c60f270409eb9686) 
-- [2021-04-02-Visual-Studio-Code-1.55-发布](https://www.ershicimi.com/p/60f661503a08556f36055d40a3f1e6b1) 
 - [2020-04-15-第四期|前端的规划如何落地](https://www.ershicimi.com/p/4233bce2181a7f01d79d8f80ef35e244) 
 - [2020-04-13-我和前端早早聊的小故事](https://www.ershicimi.com/p/288c74cf24f39a4866f6b9626741452d) 
 - [2020-03-31-第三期-|-前端搞搭建一些思考](https://www.ershicimi.com/p/390c83d5208473b69e0d9125c49e95a9) 
@@ -304,12 +305,12 @@
 - [2021-04-22-LeetCode-1006：笨阶乘](https://toutiao.io/k/scjloxy) 
 - [2021-04-22-服务网格平稳落地：Istio-中精准控制-Sidecar-的注入](https://toutiao.io/k/flemmhy) 
 - [2021-04-22-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
-- [2021-04-22-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
-- [2021-04-22-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) 
 - [2021-04-22-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
 - [2021-04-22-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
 - [2021-04-22-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
+- [2021-04-22-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
 - [2021-04-22-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) 
+- [2021-04-22-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) 
 - [2021-04-22-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
 - [2021-04-22-【技术分享】CVE-2021-25646-Apache-Druid-远程代码执行漏洞分析](https://sec.thief.one/article_content?a_id=54a7388ffac6d5d8765203a746a6f41c) 
 - [2021-04-22-【漏洞更新】WebLogic多个中危漏洞通告CVE-2021-2211/2294](https://sec.thief.one/article_content?a_id=d9141565e427f4eb405a75a921c438fd) 

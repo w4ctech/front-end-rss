@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2021-04-22 02:31:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 02:46:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-22-试用期，刚入职一周提离职，公司不给退上一家公司离职证明原件怎么办？](https://www.v2ex.com/t/772385) 
+- [2021-04-22-一直好奇各大云服务商对虚拟化服务器的支撑技术到底用的是什么？自研，-VMware-还是-VirtualBox？](https://www.v2ex.com/t/772384) 
+- [2021-04-22-迫于新加坡美签，请问持有新加坡储蓄卡-v-友可以代缴-CGI-费用吗？](https://www.v2ex.com/t/772383) 
+- [2021-04-22-腾讯互娱-深圳急招-Golang-开发](https://www.v2ex.com/t/772382) 
+- [2021-04-22-上架-Google-Play-遇到-Ssl-error-handler-问题](https://www.v2ex.com/t/772381) 
+- [2021-04-22-JetBrains-全家桶，是每种语言分别安装一个-IDE-好，还是只用-Idea-好](https://www.v2ex.com/t/772380) 
+- [2021-04-22-程序员真的只会写代码吗](https://www.v2ex.com/t/772379) 
 - [2021-04-22-准备做个前端学习的公众号，起个什么名字好呢](https://www.v2ex.com/t/772377) 
 - [2021-04-22-手持-iPhone11，做-Android-开发，入手哪一款一加最香？](https://www.v2ex.com/t/772376) 
 - [2021-04-22-新加坡-虾皮-部门直招-后端开发,-云原生平台开发OpenResty,-eBPF,-DPDK,-Kubernetes-等-](https://www.v2ex.com/t/772375) 
@@ -35,9 +42,3 @@
 - [2021-04-22-果然不出所料本地电信已恢复-QOS](https://www.v2ex.com/t/772338) 
 - [2021-04-21-机会只留给有准备的人，面试不刷题真不行](https://www.v2ex.com/t/772337) 
 - [2021-04-21-关于-homepod-mini-的广播](https://www.v2ex.com/t/772336) 
-- [2021-04-21-运-去哪-这家公司怎么样？](https://www.v2ex.com/t/772335) 
-- [2021-04-21-德华们，我最近用-golang-写了一个-elasticsearch-的可视化管理工具，帮我看看有哪些需要优化或添加的功能可以吗](https://www.v2ex.com/t/772334) 
-- [2021-04-21-🌁-一个类-Instagram-图片小程序，每周-7-天，每天都是不同的图片-UI-邀请码发送](https://www.v2ex.com/t/772333) 
-- [2021-04-21-轻度娱乐办公的-13-寸-MBA-和低配-MBP-未来是要被-iPadPro-替代的](https://www.v2ex.com/t/772331) 
-- [2021-04-21-老铁们来讨论显示器了-值得买-4K-曲面显示器打游戏（写码）吗？](https://www.v2ex.com/t/772330) 
-- [2021-04-21-本地跨域问题](https://www.v2ex.com/t/772329) 

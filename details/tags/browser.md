@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 05:24:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 05:39:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,6 +36,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-04-19-中原银行分布式缓存实践](https://www.ershicimi.com/p/40bb39493b040f7e21e1a890ca14dcfa) 
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
+- [2021-04-22-v-友们，币安、火币啥的注册还要手持身份证？这是不是有点不安全。。。](https://www.v2ex.com/t/772432) 
 - [2021-04-22-Firefox-89.0b1-启用了新-Proton-UI-设计](https://www.v2ex.com/t/772429) 
 - [2021-04-22-聊聊-Code-Review](https://toutiao.io/k/29pxjdo) 
 - [2021-04-22-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 

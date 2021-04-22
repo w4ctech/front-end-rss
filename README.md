@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-22 23:24:09，:rocket: 更新条数: +4257， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-22 23:39:26，:rocket: 更新条数: +4257， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-22-整理了一下-M1-不同设备不同配置的官方参考价$，方便大家剁手](https://www.v2ex.com/t/772602) ![](assets/new.png)  
 - [2021-04-22-迫于对显示器不懂，看了会帖子瞎买了一款-4k-显示器，求指点](https://www.v2ex.com/t/772601) ![](assets/new.png)  
 - [2021-04-22-有没有电话实时字幕？](https://www.v2ex.com/t/772600) ![](assets/new.png)  
 - [2021-04-22-怎么获取-service-方法中调用的所有-mapper-方法？](https://www.v2ex.com/t/772599) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-22-Mac-应用为何会被强制“以低分辨率打开”？](https://www.v2ex.com/t/772581) ![](assets/new.png)  
 - [2021-04-22-现在为-macos-开发免费软件，也一定要买$99-刀会员了？](https://www.v2ex.com/t/772580) ![](assets/new.png)  
 - [2021-04-22-有腾讯手机管家团队的人在吗？大规模误报不处理？店大欺客？](https://www.v2ex.com/t/772579) ![](assets/new.png)  
-- [2021-04-22-深度学习在金融行业有没有什么应用？](https://www.v2ex.com/t/772578) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

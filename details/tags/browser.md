@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 23:24:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 23:39:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,8 +39,8 @@
 - [2021-04-22-请问一下，-macos-下如何分发安全的-app](https://www.v2ex.com/t/772567) 
 - [2021-04-22-一加-7-升级到安卓-11，-B-站缓存列表不显示以前的下载记录](https://www.v2ex.com/t/772554) 
 - [2021-04-22-聊聊-Code-Review](https://toutiao.io/k/29pxjdo) 
-- [2021-04-22-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-22-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 
+- [2021-04-22-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-22-Chrome更新来袭,共修复7个安全问题](https://sec.thief.one/article_content?a_id=a5472b2ba01191a7809325fb39ae0c25) 
 - [2021-04-22-征文|杨博涵:从防御、监测到运营,浅谈终端安全](https://sec.thief.one/article_content?a_id=bcbf2453f57bcf0615979c5cca20eded) 
 - [2021-04-22-信息安全技术学习分班通知](https://sec.thief.one/article_content?a_id=cd62108a5169fec3ec64777bde05e70c) 

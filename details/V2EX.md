@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-22 03:54:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 04:04:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-22-有没有和我一样的错觉：哪怕是两年前的-Android-觉得信号良好，而刚发布的最新-iPhone-却觉信号不行？](https://www.v2ex.com/t/772408) 
+- [2021-04-22-今天打开-notion，访问速度质的飞跃，呜呜呜~~~](https://www.v2ex.com/t/772407) 
 - [2021-04-22-iPhone-Xs-采用高亮度+降低白点值的设置组合能否降低对眼睛的刺激？](https://www.v2ex.com/t/772406) 
 - [2021-04-22-airpods-pro-在-mac-和-iPhone-间自动切换有点懵](https://www.v2ex.com/t/772405) 
 - [2021-04-22-如何在开盖的时候设置只使用外置显示器？](https://www.v2ex.com/t/772403) 
@@ -40,5 +42,3 @@
 - [2021-04-22-工作经历比较零碎怎么写简历比较好](https://www.v2ex.com/t/772363) 
 - [2021-04-22-CDN-改-CNAME-和-NS-的区别](https://www.v2ex.com/t/772362) 
 - [2021-04-22-Trello-开始商业化了](https://www.v2ex.com/t/772360) 
-- [2021-04-22-watch6-女生带-40-还是-44-好？](https://www.v2ex.com/t/772358) 
-- [2021-04-22-硅谷撑不住了？亚麻、谷歌着急重开-office，逃离湾区打工人被迫返岗…](https://www.v2ex.com/t/772357) 

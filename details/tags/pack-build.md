@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 03:41:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 03:54:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -28,6 +28,7 @@
 - [2021-04-04-现代前端工程化-—-Lerna-从原理到实战详解](https://www.ershicimi.com/p/f9ac198cdec01de74366e2b3a41b53b3) 
 - [2021-04-07-构建一个浏览器引擎](https://www.ershicimi.com/p/ac600b016c39d194cc371e73326bb674) 
 - [2021-03-31-现代前端工程化-基于-Monorepo-的-lerna](https://www.ershicimi.com/p/911fea5b6d4bbb83cde1c9a001f6f2a0) 
+- [2021-04-20-pnpm-6.1-发布](https://www.ershicimi.com/p/4224fa6d39c6d08ba200bc9f4282461b) 
 - [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) 
 - [2020-03-11-4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4) 
 - [2021-04-22-vscode-插件-npm-install-出现了问题](https://www.v2ex.com/t/772395) 

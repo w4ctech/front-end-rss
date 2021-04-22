@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 03:41:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 03:54:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -41,10 +41,18 @@
 - [2021-04-14-代码简洁之道：编写干净的-React-Components-&-JSX](https://www.ershicimi.com/p/3133edde1df3877470a9bbcfa56ebe56) 
 - [2021-04-19-React-性能优化完全指南，将自己这几年的心血总结成这篇！](https://www.ershicimi.com/p/a65d9488f8349e98534dcaaadd9df1f9) 
 - [2021-04-14-面向工资编程，前端核心框架-React-了解下！](https://www.ershicimi.com/p/3de654dfe27297f005212ee80543e9df) 
+- [2021-04-20-为什么大多数前端程序员选择React？](https://www.ershicimi.com/p/92a2963480af84958dec81e523473aa5) 
+- [2021-04-14-Vue-&-React-&-Vite源码大PK](https://www.ershicimi.com/p/46a0e5b9370ea24fa42aa9907203e363) 
+- [2021-04-13-Taro-3.2.0-正式版发布，支持-React-Native](https://www.ershicimi.com/p/2391e2b7c25d80aad78e1382a43d5b11) 
+- [2021-04-02-React17-和-Vue3-，你选谁？](https://www.ershicimi.com/p/2b552a2d60b07ca8c859519fede5f6b8) 
+- [2021-03-17-从-Vue3.0-和React17-对比谈前端如何构建核心竞争力](https://www.ershicimi.com/p/2cd7c47ab999d4e4bb6e944e8ef4f5a1) 
+- [2021-03-10-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/0914132155122d7cdad737207b9bdb53) 
 - [2020-08-21-聊聊两个状态管理库-Redux-&-Recoil](https://www.ershicimi.com/p/29fec6b9d5024568e2bd71f12ab459ec) 
 - [2020-07-19-「-思考-」-React-Hooks-的设计哲学](https://www.ershicimi.com/p/a06a740b0c554e7a4bf3accaa37913eb) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2021-04-21-2021年，Flutter-与-React-Native该如何选择？](https://www.ershicimi.com/p/30820dad7b5f5974d54a432d5ce818ff) 
+- [2021-04-13-Taro-3.2.0-正式版发布，支持-React-Native](https://www.ershicimi.com/p/041d7304e1b1f60da002f4bf1f340a59) 
+- [2021-04-12-Vue-和-React-源码大PK](https://www.ershicimi.com/p/7e2eb94b7ec4562c811d4d04df5857af) 
 - [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) 
 - [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) 
 - [2021-04-22-ShutdownHook-原理](https://toutiao.io/k/n8y1wql) 

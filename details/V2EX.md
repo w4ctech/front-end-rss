@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-21 23:52:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 00:05:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-21-机会只留给有准备的人，面试不刷题真不行](https://www.v2ex.com/t/772337) 
 - [2021-04-21-关于-homepod-mini-的广播](https://www.v2ex.com/t/772336) 
 - [2021-04-21-运-去哪-这家公司怎么样？](https://www.v2ex.com/t/772335) 
 - [2021-04-21-德华们，我最近用-golang-写了一个-elasticsearch-的可视化管理工具，帮我看看有哪些需要优化或添加的功能可以吗](https://www.v2ex.com/t/772334) 
@@ -37,4 +38,3 @@
 - [2021-04-21-不明白，为什么会在妙控键盘上集成-touch-id...](https://www.v2ex.com/t/772291) 
 - [2021-04-21-m1-mac-node-安装的全局包找不到命令](https://www.v2ex.com/t/772290) 
 - [2021-04-21-某-Top-大厂面试的一个问题，欢迎大家讨论](https://www.v2ex.com/t/772289) 
-- [2021-04-21-你会为你的-iPad-Pro-购买白色的秒空键盘吗？](https://www.v2ex.com/t/772287) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-22 00:27:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 00:48:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -305,12 +305,6 @@
 - [【全栈前端精选】有意思！CSS-文字装饰还能这样玩~](https://www.ershicimi.com/p/c74a3fb5c15e7db04c2e0a17f9d5ab35)
 - [【全栈前端精选】5种CSS实现垂直对齐的方法](https://www.ershicimi.com/p/457dfbc57469ce26050daabefa5d67dc)
 - [【前端宇宙】有意思！CSS-文字装饰还能这样玩~](https://www.ershicimi.com/p/91dc292ddedb4baa1883a480d476bbf0)
-- [【张鑫旭-鑫空间-鑫生活】腾讯开源的酷炫动画播放解决方案Vap初体验](https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/)
-- [【张鑫旭-鑫空间-鑫生活】CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/)
-- [【张鑫旭-鑫空间-鑫生活】使用CSS-text-combine-upright实现字符的横向合并](https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/)
-- [【张鑫旭-鑫空间-鑫生活】CSS-line-break属性与中文标点换行](https://www.zhangxinxu.com/wordpress/2021/02/css-line-break/)
-- [【张鑫旭-鑫空间-鑫生活】好消息，CSS-text-underline-offset可以用起来了](https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset/)
-- [【张鑫旭-鑫空间-鑫生活】CSS-::marker伪元素简介](https://www.zhangxinxu.com/wordpress/2021/02/css-marker-pseudo-element/)
 - [【奇舞周刊】不会吧，你还不知道这些检查-CSS-的工具？？？](https://www.ershicimi.com/p/f868d4fa1ad5518cd482f7225c4b58de)
 - [【前端e进阶】对-Chrome-Headless-渲染的极致优化](https://www.ershicimi.com/p/750cc36a62dc2f4be88144714fde4887)
 - [【JavaScript】大厂都在做serverless，他到底是什么？](https://www.ershicimi.com/p/133280d357c2d7f18d0cc925d6df078f)
@@ -596,7 +590,6 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊90541例-累计接种新冠疫苗近1.99亿剂次](https://m.caixin.com/m/2021-04-21/101694400.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超1.42亿-累计死亡超303万](https://m.caixin.com/m/2021-04-21/101694403.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】海南新增12例境外输入病例（4月20日）](http://m.database.caixin.com/m/2021-04-21/101694231.html)
 - [【武汉肺炎防疫全纪录(财新网)】澳大利亚与新西兰开通旅行气泡-英国启动新冠人体攻毒｜大流行手记（4月20日）](https://m.caixin.com/m/2021-04-21/101694005.html)
@@ -616,6 +609,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html)
 - [【武汉肺炎防疫全纪录(财新网)】美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html)
 - [【武汉肺炎防疫全纪录(财新网)】云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html)
+- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】我国新冠疫苗累计接种超1.67亿剂次（4月12日）](http://m.database.caixin.com/m/2021-04-13/101690476.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

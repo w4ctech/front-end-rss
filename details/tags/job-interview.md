@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 00:27:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 00:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -33,5 +33,4 @@
 - [2021-04-18-面试过程中，竟然遇到PUA，我不得不服这种“潜规则”～](https://www.ershicimi.com/p/3d61488bb0d160821d4ec6bc1361ebb6) 
 - [2021-04-21-机会只留给有准备的人，面试不刷题真不行](https://www.v2ex.com/t/772337) 
 - [2021-04-21-ThoughtWorks-武汉/西安/成都招聘-Android/安卓开发工程师](https://www.v2ex.com/t/772323) 
-- [2021-04-21-某-Top-大厂面试的一个问题，欢迎大家讨论](https://www.v2ex.com/t/772289) 
 - [2021-04-22-面试必备常见存储引擎与锁的分类，请查收](https://toutiao.io/k/lyccgvn) 

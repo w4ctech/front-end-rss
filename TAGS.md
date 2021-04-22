@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-22 18:01:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 18:14:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -425,8 +425,8 @@
 - [【V2EX】请问一下，-macos-下如何分发安全的-app](https://www.v2ex.com/t/772567)
 - [【V2EX】一加-7-升级到安卓-11，-B-站缓存列表不显示以前的下载记录](https://www.v2ex.com/t/772554)
 - [【开发者头条】聊聊-Code-Review](https://toutiao.io/k/29pxjdo)
-- [【开发者头条】推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo)
 - [【开发者头条】推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa)
+- [【开发者头条】推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo)
 - [【安全热点】Chrome更新来袭,共修复7个安全问题](https://sec.thief.one/article_content?a_id=a5472b2ba01191a7809325fb39ae0c25)
 - [【安全热点】征文|杨博涵:从防御、监测到运营,浅谈终端安全](https://sec.thief.one/article_content?a_id=bcbf2453f57bcf0615979c5cca20eded)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -469,8 +469,8 @@
 
 
 - [【开发者头条】Nginx：不管正向还是反向我通通代理](https://toutiao.io/k/0iqkotc)
-- [【开发者头条】推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph)
 - [【开发者头条】推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1)
+- [【开发者头条】推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

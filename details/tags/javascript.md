@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 00:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 01:16:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -41,9 +41,6 @@
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2021-04-20-【开源】企鹅电竞高性能动画组件---VAP](https://www.ershicimi.com/p/e48f5d3f35a644c3fe7fe121cde36297) 
 - [2021-04-16-【第2255期】Service-Worker-实践指南](https://www.ershicimi.com/p/86749c5a6a449ebc7a0173fa6c052362) 
-- [2021-04-19-这样入门-js-抽象语法树AST，从此我来到了一个新世界](https://www.ershicimi.com/p/4b58f39773d43c770aad7b9fbe351e78) 
-- [2021-04-18-帮你彻底搞懂-JS-中的-prototype、__proto__与constructor（图解）](https://www.ershicimi.com/p/f9feebb1b55f9a0a107b0e293af00938) 
-- [2021-04-16-中高级前端必须注意的-40-条移动端-H5-坑位指南-|-网易三年实践](https://www.ershicimi.com/p/56a3f307793d15c7d4a89c782fe3ebbc) 
 - [2021-04-12-为什么要用-setTimeout-模拟-setInterval-？](https://www.ershicimi.com/p/c123953f8b7a1d8d0c6af0d2c96175d0) 
 - [2021-04-09-JS语法-ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/7bc5bc2494e47f96b7569516f6ae76a6) 
 - [2021-04-07-JavaScript-代码整洁之道](https://www.ershicimi.com/p/3a822a7f735e67905cb17475979cdfec) 
@@ -73,10 +70,6 @@
 - [2021-04-09-这些工作中用到的JavaScript小技巧你都知道吗？](https://www.ershicimi.com/p/c3e5cde54d7627069a9ce188486b4e1d) 
 - [2021-04-06-如何搭建一个完美的组件库？](https://www.ershicimi.com/p/e2052b85992219ee9d870de3f2aa57ed) 
 - [2021-04-05-4个强大JavaScript运算符](https://www.ershicimi.com/p/baa2ab48b1fb692863fa6c908f059696) 
-- [2021-04-18-H5项目适配系统深色模式方案](https://www.ershicimi.com/p/293f8e8eee9cea7dd031b15efbee0aaf) 
-- [2021-04-14-太赞了！用-JS-实现了识别网页验证码的功能！](https://www.ershicimi.com/p/e0e8421e888b4706d10d2d112068dc49) 
-- [2021-04-13-看一道面试必备的基础题：异步实现一个-sleep-函数](https://www.ershicimi.com/p/d119c6853ee916897a141a675f459de8) 
-- [2021-04-11-面试官问：Promise.all-使用、原理实现及错误处理](https://www.ershicimi.com/p/1467580104818c4fea15969e4f800b40) 
 - [2021-04-21-一个可自由拖拽的组件实现思路](https://www.ershicimi.com/p/a7f6c54b233cc47484a107c2527597cf) 
 - [2021-04-19-一步一步手写完美符合PromiseA+规范的Promise](https://www.ershicimi.com/p/61b9298896702d373dbd81433f39353d) 
 - [2021-04-18-使用JavaScript开发一个Photoshop插件](https://www.ershicimi.com/p/06e723221b36f0588edc7957d308bbed) 

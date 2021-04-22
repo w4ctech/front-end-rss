@@ -11,18 +11,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-22 00:48:00，:rocket: 更新条数: +4182， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-22 01:16:00，:rocket: 更新条数: +4156， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)![](assets/dot.png)   
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
@@ -33,15 +33,15 @@
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
 - [前端宇宙](#前端宇宙)![](assets/dot.png)   
-- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
-- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -65,6 +65,7 @@
 </summary>
 
 
+- [2021-04-22-4月21日全国新增新冠6例-均由境外输入](https://m.caixin.com/m/2021-04-22/101694599.html) ![](assets/new.png)  
 - [2021-04-21-最新海外疫情：新冠感染超1.42亿-累计死亡超303万](https://m.caixin.com/m/2021-04-21/101694403.html) ![](assets/new.png)  
 - [2021-04-21-【境内疫情观察】海南新增12例境外输入病例（4月20日）](http://m.database.caixin.com/m/2021-04-21/101694231.html) ![](assets/new.png)  
 - [2021-04-21-澳大利亚与新西兰开通旅行气泡-英国启动新冠人体攻毒｜大流行手记（4月20日）](https://m.caixin.com/m/2021-04-21/101694005.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-04-14-【境内疫情观察】云南新增1例本土病例（4月13日）](http://m.database.caixin.com/m/2021-04-14/101691046.html) ![](assets/new.png)  
 - [2021-04-14-美国暂停接种强生疫苗-研究称英国变异株并不更具致命性｜大流行手记（4月13日）](https://m.caixin.com/m/2021-04-14/101690837.html) ![](assets/new.png)  
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) ![](assets/new.png)  
-- [2021-04-13-云南瑞丽4月12日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-13/101690229.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -96,6 +96,8 @@
 </summary>
 
 
+- [2021-04-22-全国｜新增-6-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuZpGyQJpGmykwmWpfTwT210422&isfromapp=1) ![](assets/new.png)  
+- [2021-04-22-上海｜新增-1-例确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyeanHajcM6SW7zCFprTk210422&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -242,26 +244,6 @@
 </summary>
 
 
-- [2021-04-21-前端工程化实战指南，进阶必备](https://www.ershicimi.com/p/5d7719a0ac8402059df523413c169c76) ![](assets/new.png)  
-- [2021-04-21-Streams-权威指南](https://www.ershicimi.com/p/b5a963adcf4183577f8c1582e08ebba6) ![](assets/new.png)  
-- [2021-04-21-前端每日一题-#84](https://www.ershicimi.com/p/327bb3f6bdc6e2e810b672e86144f18a) ![](assets/new.png)  
-- [2021-04-21-设计灵感：12组手机银行App界面设计](https://www.ershicimi.com/p/f912da9ec165e8f7c192509227bc6534) ![](assets/new.png)  
-- [2021-04-20-手写一个-webpack，看看-AST-怎么用](https://www.ershicimi.com/p/8b6a701b1fc7fde77a121868407d6651) ![](assets/new.png)  
-- [2021-04-20-关于从入门-three.js-到做出-3d-地球这件事通俗易懂的入门](https://www.ershicimi.com/p/158769aa3fe41cbce92bdbdc146dad38) ![](assets/new.png)  
-- [2021-04-20-前端每日一题-#83](https://www.ershicimi.com/p/d1bb270fbf99956d0e7d400b87a6cea2) ![](assets/new.png)  
-- [2021-04-19-7-个实战技巧帮你提升前端技术水平](https://www.ershicimi.com/p/38ea9176a7e01449bcdb9c7a1c5fa4e8) ![](assets/new.png)  
-- [2021-04-19-这样入门-js-抽象语法树AST，从此我来到了一个新世界](https://www.ershicimi.com/p/4b58f39773d43c770aad7b9fbe351e78) ![](assets/new.png)  
-- [2021-04-19-前端每日一题-#82](https://www.ershicimi.com/p/9382fe2e5041f87e57de95a06bcd058e) ![](assets/new.png)  
-- [2021-04-19-设计灵感：12组充满个性的404网页设计](https://www.ershicimi.com/p/ef625df69a2087d5f93d8890bbe5bf8c) ![](assets/new.png)  
-- [2021-04-18-帮你彻底搞懂-JS-中的-prototype、__proto__与constructor（图解）](https://www.ershicimi.com/p/f9feebb1b55f9a0a107b0e293af00938) ![](assets/new.png)  
-- [2021-04-18-一份关于-vue-cli3-项目常用项配置](https://www.ershicimi.com/p/d2f9c21789e4fcf8ffc817559ff80a78) ![](assets/new.png)  
-- [2021-04-18-前端每日一题-#81](https://www.ershicimi.com/p/6cd8825c4a089969ed0cc22db24662f9) ![](assets/new.png)  
-- [2021-04-17-万字长文：Proxy-和-Reflect](https://www.ershicimi.com/p/1635166b2485bcf5a703acb57e280445) ![](assets/new.png)  
-- [2021-04-17-聊聊-Webpack-热更新以及原理](https://www.ershicimi.com/p/6f59e6a2d8d1f1dc738e238731d91aba) ![](assets/new.png)  
-- [2021-04-17-前端每日一题-#80](https://www.ershicimi.com/p/3fd870307e331b38e2eb83442b7092d8) ![](assets/new.png)  
-- [2021-04-16-放弃-996-后，竟给涨薪-30%.....](https://www.ershicimi.com/p/7fe22299166a9fbdc438361a925767b3) ![](assets/new.png)  
-- [2021-04-16-中高级前端必须注意的-40-条移动端-H5-坑位指南-|-网易三年实践](https://www.ershicimi.com/p/56a3f307793d15c7d4a89c782fe3ebbc) ![](assets/new.png)  
-- [2021-04-16-前端每日一题-#79](https://www.ershicimi.com/p/410db4c527253ff7e96369125a062629) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -583,26 +565,6 @@
 </summary>
 
 
-- [2021-04-18-H5项目适配系统深色模式方案](https://www.ershicimi.com/p/293f8e8eee9cea7dd031b15efbee0aaf) ![](assets/new.png)  
-- [2021-04-18-面试官问：两数之和、三数之和、直至-N-数之和？套路一致吗？](https://www.ershicimi.com/p/e6b40c1bedf0ae0c7478226ac3b1cb17) ![](assets/new.png)  
-- [2021-04-18-程序开发人员缺乏经验的7种表现](https://www.ershicimi.com/p/dbfde26adbc13e3f24596d396d70f728) ![](assets/new.png)  
-- [2021-04-17-Vue开发移动端项目，这个工具对你一定有帮助](https://www.ershicimi.com/p/3645b0ed438008552b9fccc7ce1300a9) ![](assets/new.png)  
-- [2021-04-17-面试官问：了解词法环境吗？它和闭包有什么联系？](https://www.ershicimi.com/p/1fda0c60d55875f192a220607560e257) ![](assets/new.png)  
-- [2021-04-17-2021年4月程序员工资统计，平均14596元。南京程序员收入挤进一线。](https://www.ershicimi.com/p/dff6d0ec0f87ddf231baa9a2639f36d0) ![](assets/new.png)  
-- [2021-04-16-从-setState-聊到-React-性能优化](https://www.ershicimi.com/p/3e4a9ea511c44ce540b3f4b90f518475) ![](assets/new.png)  
-- [2021-04-16-面试官问：从页面-A-打开一个新页面-B，B-页面关闭（包括意外崩溃），如何通知-A-页面？](https://www.ershicimi.com/p/477485437dee64de914e08a7aba5dd76) ![](assets/new.png)  
-- [2021-04-15-纯前端实现-App-Store-卡片展开效果](https://www.ershicimi.com/p/50c723cfc54d240511920f0a679882d7) ![](assets/new.png)  
-- [2021-04-14-太赞了，华为工程师总结的400道前端面试题提供下载](https://www.ershicimi.com/p/d2b201bb6e203167c5125cb3ca2e693c) ![](assets/new.png)  
-- [2021-04-14-太赞了！用-JS-实现了识别网页验证码的功能！](https://www.ershicimi.com/p/e0e8421e888b4706d10d2d112068dc49) ![](assets/new.png)  
-- [2021-04-13-从梦幻西游学会广度优先搜索和A*算法](https://www.ershicimi.com/p/b34641353de96544191162c490a58ff2) ![](assets/new.png)  
-- [2021-04-13-看一道面试必备的基础题：异步实现一个-sleep-函数](https://www.ershicimi.com/p/d119c6853ee916897a141a675f459de8) ![](assets/new.png)  
-- [2021-04-12-Vue-响应式原理模拟](https://www.ershicimi.com/p/acef7f52cb210729b8871f310c6f619f) ![](assets/new.png)  
-- [2021-04-12-面试官问：如何拆解URL参数中queryString](https://www.ershicimi.com/p/7fd84a061b29b9967d0c8885736c64b5) ![](assets/new.png)  
-- [2021-04-11-svg-项目实践——添加可编辑的-svg-图片](https://www.ershicimi.com/p/849126178dd1cdb8d6ed20e23fae7e1c) ![](assets/new.png)  
-- [2021-04-11-面试官问：Promise.all-使用、原理实现及错误处理](https://www.ershicimi.com/p/1467580104818c4fea15969e4f800b40) ![](assets/new.png)  
-- [2021-04-10-从-0-到-1-搭建一个企业级前端开发规范](https://www.ershicimi.com/p/428a3d20abe89087f9dbc1313016c06c) ![](assets/new.png)  
-- [2021-04-10-面试官问：typeof-可以判断哪些类型？instanceof-做了什么？null为什么被typeo](https://www.ershicimi.com/p/00b2858dd2cca528e41c3cc38a5249ae) ![](assets/new.png)  
-- [2021-04-09-毕业五年后，我决定再去读个名校计算机硕士学位](https://www.ershicimi.com/p/3a9df75494038c16cd8252e60269c40b) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端瓶子君.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -676,6 +638,16 @@
 </summary>
 
 
+- [2021-04-18-腾讯开源的酷炫动画播放解决方案Vap初体验](https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/) ![](assets/new.png)  
+- [2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) ![](assets/new.png)  
+- [2021-03-30-分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/) ![](assets/new.png)  
+- [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) ![](assets/new.png)  
+- [2021-03-14-CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/) ![](assets/new.png)  
+- [2021-02-18-使用CSS-text-combine-upright实现字符的横向合并](https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/) ![](assets/new.png)  
+- [2021-02-18-CSS-line-break属性与中文标点换行](https://www.zhangxinxu.com/wordpress/2021/02/css-line-break/) ![](assets/new.png)  
+- [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) ![](assets/new.png)  
+- [2021-02-17-好消息，CSS-text-underline-offset可以用起来了](https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset/) ![](assets/new.png)  
+- [2021-02-16-CSS-::marker伪元素简介](https://www.zhangxinxu.com/wordpress/2021/02/css-marker-pseudo-element/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -754,26 +726,6 @@
 </summary>
 
 
-- [2021-04-21-以面试题为切入点，带你夯实程序员内功](https://www.ershicimi.com/p/3e3552715a58feff0f601a1b7562ee53) ![](assets/new.png)  
-- [2021-04-20-为什么大多数前端程序员选择React？](https://www.ershicimi.com/p/92a2963480af84958dec81e523473aa5) ![](assets/new.png)  
-- [2021-04-19-大厂间平跳超简单？真的是这样吗？](https://www.ershicimi.com/p/cc9d65a2dc32a140342ba8b1cc5d4177) ![](assets/new.png)  
-- [2021-04-14-Vue-&-React-&-Vite源码大PK](https://www.ershicimi.com/p/46a0e5b9370ea24fa42aa9907203e363) ![](assets/new.png)  
-- [2021-04-13-Taro-3.2.0-正式版发布，支持-React-Native](https://www.ershicimi.com/p/2391e2b7c25d80aad78e1382a43d5b11) ![](assets/new.png)  
-- [2021-04-09-NativeScript-8.0-已发布](https://www.ershicimi.com/p/f61683ff1778e6b38bbf8a0942895556) ![](assets/new.png)  
-- [2021-04-08-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/9e0a0e7b6559752b7a0a05ada834fad8) ![](assets/new.png)  
-- [2021-04-07-如何应用Node.js打造个人提效工作链？](https://www.ershicimi.com/p/567981ae7d174e4109608888575c3207) ![](assets/new.png)  
-- [2021-04-06-Deno-宣布成立公司](https://www.ershicimi.com/p/118e36f2e93090a299e9c731d084e3a2) ![](assets/new.png)  
-- [2021-04-05-Visual-Studio-Code-1.55-发布](https://www.ershicimi.com/p/69686549e6dc6fbf8a47c5539f6bd23c) ![](assets/new.png)  
-- [2021-04-02-React17-和-Vue3-，你选谁？](https://www.ershicimi.com/p/2b552a2d60b07ca8c859519fede5f6b8) ![](assets/new.png)  
-- [2021-03-31-面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219) ![](assets/new.png)  
-- [2021-03-30-3年的前端大厂面经分享，不想被刷下可以看看](https://www.ershicimi.com/p/4815e86efc20a66130ca529f69cc6867) ![](assets/new.png)  
-- [2021-03-24-Vite2到底怎么用？详细教程来了！](https://www.ershicimi.com/p/a4791876e475d71b4d26cd59753abebe) ![](assets/new.png)  
-- [2021-03-23-每出现一个Bug，都要思考这个问题](https://www.ershicimi.com/p/7f8d52ade05ab282da8481f07560555e) ![](assets/new.png)  
-- [2021-03-17-从-Vue3.0-和React17-对比谈前端如何构建核心竞争力](https://www.ershicimi.com/p/2cd7c47ab999d4e4bb6e944e8ef4f5a1) ![](assets/new.png)  
-- [2021-03-16-前端人，要“凉”了](https://www.ershicimi.com/p/c78b587a8556bbe65bd6956212180e7d) ![](assets/new.png)  
-- [2021-03-10-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/0914132155122d7cdad737207b9bdb53) ![](assets/new.png)  
-- [2021-03-09-作为前端开发，Node.js-你得了解下～](https://www.ershicimi.com/p/0f3e9093221929dddea3c6dd757ae61b) ![](assets/new.png)  
-- [2021-03-08-进大厂必会的Vue，你还没搞懂吗？](https://www.ershicimi.com/p/b9bead3a148b9c6e9ce92a0dd68e8472) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -953,6 +905,26 @@
 </summary>
 
 
+- [2021-04-21-苹果今年第一场特别活动：带来了全新-AirTag、iMac-和-iPad-Pro](https://www.ershicimi.com/p/902af96de0de9af37d4f7bf38430da43) ![](assets/new.png)  
+- [2021-04-21-有哪些你遇到人就想安利的好书？](https://www.ershicimi.com/p/d76dba57306a9bb780e5cde6fb544418) ![](assets/new.png)  
+- [2021-04-21-知乎故事-|-用-20-年，从穷苦家庭走入中科院](https://www.ershicimi.com/p/82c822c87538753485716319e10c2495) ![](assets/new.png)  
+- [2021-04-20-有哪些令人叫绝的心理学效应？](https://www.ershicimi.com/p/0dba01de6582660b015cbc7d3b27def1) ![](assets/new.png)  
+- [2021-04-20-有奖｜发视频晒家，得现金奖励和流量扶持](https://www.ershicimi.com/p/0d96d7ffe5d55eac9fb8725043e80259) ![](assets/new.png)  
+- [2021-04-20-知乎故事-|-如何试探男朋友的家底？](https://www.ershicimi.com/p/a7a24da2777dcd1800dec8a71b402ce2) ![](assets/new.png)  
+- [2021-04-19-知乎高赞：有哪些一个镜头就能体现演员会演戏的例子？](https://www.ershicimi.com/p/7af7ce73a13ca3223782d3a9cb5becd0) ![](assets/new.png)  
+- [2021-04-19-知乎故事-|-如何试探女朋友的家底？](https://www.ershicimi.com/p/925c7a110dd6832d95f1841d769cc4ef) ![](assets/new.png)  
+- [2021-04-18-本周知乎热榜-|-日本将核污水排入大海，中国女足进军东京奥运会，-红黄蓝幼儿园再出事端](https://www.ershicimi.com/p/a011f89d074848a4788ee4ec99029011) ![](assets/new.png)  
+- [2021-04-18-知乎故事-|-你因为贪吃付出过怎样惨痛的代价？](https://www.ershicimi.com/p/d67c737e882645bce53a3bb1070b4a8a) ![](assets/new.png)  
+- [2021-04-16-知乎瞎扯-|-你小时候对异性做过什么沙雕事情？](https://www.ershicimi.com/p/32945e6cab622ffd60ac1a83bfd02c36) ![](assets/new.png)  
+- [2021-04-16-知乎故事-|-霸道总裁会自己洗内裤吗？](https://www.ershicimi.com/p/1bb74d353ffda9268b66981cad8b149e) ![](assets/new.png)  
+- [2021-04-15-用蛇毒毒毒蛇，毒蛇会不会被蛇毒毒死？](https://www.ershicimi.com/p/966d725a3d7ab7411bb6e5bed7fc252b) ![](assets/new.png)  
+- [2021-04-15-为了养娃如此操劳，真的有必要吗？](https://www.ershicimi.com/p/8c7ed48933b0cd87cc0bba68450f0732) ![](assets/new.png)  
+- [2021-04-15-知乎故事-|-你从什么时候发现自己其实是个普通人？](https://www.ershicimi.com/p/486a2febb995846658dc900091fa8afa) ![](assets/new.png)  
+- [2021-04-14-中国女足进军东京奥运！谢谢努力的你们](https://www.ershicimi.com/p/13b830af378c53c6dbf88b695f3be570) ![](assets/new.png)  
+- [2021-04-14-知乎故事-|-生活中有哪些小事让你觉得很治愈？](https://www.ershicimi.com/p/e9094730e85e57d357ad9b02403054c4) ![](assets/new.png)  
+- [2021-04-13-知乎高赞：为什么装过屎的碗洗干净也没人用，大肠却会被洗干净吃？](https://www.ershicimi.com/p/a09bbaa300ea2545582e0318ee0eeb8d) ![](assets/new.png)  
+- [2021-04-13-有些水果不甜但巨长胖！一图告诉你水果含糖的真相](https://www.ershicimi.com/p/91dddbabbfcded37589f0e46d0deab02) ![](assets/new.png)  
+- [2021-04-13-知乎故事-|-得知亲人死讯的那一刻你在做什么？](https://www.ershicimi.com/p/3150685eaf20101b31add44c91ae2e7c) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -964,6 +936,9 @@
 </summary>
 
 
+- [2021-04-22-烤鱼有-V-友知道怎么做吗?](https://www.v2ex.com/t/772343) ![](assets/new.png)  
+- [2021-04-22-一直有个疑惑，像-lnmp-这种环境大家是怎么安装的，有没有最佳实践？](https://www.v2ex.com/t/772341) ![](assets/new.png)  
+- [2021-04-22-百度内推-🔥🔥算法/工程/产品/设计/运营各类岗位急速内推,实时反馈~~~~~~~~~~~~~](https://www.v2ex.com/t/772340) ![](assets/new.png)  
 - [2021-04-22-果然不出所料本地电信已恢复-QOS](https://www.v2ex.com/t/772338) ![](assets/new.png)  
 - [2021-04-21-机会只留给有准备的人，面试不刷题真不行](https://www.v2ex.com/t/772337) ![](assets/new.png)  
 - [2021-04-21-关于-homepod-mini-的广播](https://www.v2ex.com/t/772336) ![](assets/new.png)  
@@ -978,12 +953,9 @@
 - [2021-04-21-问下-v-站的大佬们，有没有能快速让任何-chrome-插件内页面具有暗色模式的方法](https://www.v2ex.com/t/772325) ![](assets/new.png)  
 - [2021-04-21-BIgSur-磁盘问题](https://www.v2ex.com/t/772324) ![](assets/new.png)  
 - [2021-04-21-ThoughtWorks-武汉/西安/成都招聘-Android/安卓开发工程师](https://www.v2ex.com/t/772323) ![](assets/new.png)  
-- [2021-04-21-为了写论文向-Linux-内核提交有漏洞的代码，这操作绝了。](https://www.v2ex.com/t/772319) ![](assets/new.png)  
 - [2021-04-21-才发现不知不觉间-Google-已经收集了我这么多信息了。真是比我还懂我。](https://www.v2ex.com/t/772318) ![](assets/new.png)  
 - [2021-04-21-Apple-美国官网有什么方法能刻中文吗？](https://www.v2ex.com/t/772317) ![](assets/new.png)  
 - [2021-04-21-m1-直接合上盖子吗？](https://www.v2ex.com/t/772316) ![](assets/new.png)  
-- [2021-04-21-有一万块钱，买什么？](https://www.v2ex.com/t/772315) ![](assets/new.png)  
-- [2021-04-21-骑驴找马感觉好难](https://www.v2ex.com/t/772313) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1008,24 +980,24 @@
 
 - [2021-04-22-互联网：逻辑上的黑话才是真正的花里胡哨](https://toutiao.io/k/hk3xm6e) ![](assets/new.png)  
 - [2021-04-22-面试必备常见存储引擎与锁的分类，请查收](https://toutiao.io/k/lyccgvn) ![](assets/new.png)  
-- [2021-04-22-谈谈-Kubernetes-的问题和局限性](https://toutiao.io/k/0t3be9z) ![](assets/new.png)  
 - [2021-04-22-Seata-搭建与分布式事务入门](https://toutiao.io/k/n0npgg0) ![](assets/new.png)  
-- [2021-04-22-测试平台的发展与未来趋势](https://toutiao.io/k/6mr06fm) ![](assets/new.png)  
+- [2021-04-22-谈谈-Kubernetes-的问题和局限性](https://toutiao.io/k/0t3be9z) ![](assets/new.png)  
 - [2021-04-22-Nginx：不管正向还是反向我通通代理](https://toutiao.io/k/0iqkotc) ![](assets/new.png)  
 - [2021-04-22-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-04-22-测试平台的发展与未来趋势](https://toutiao.io/k/6mr06fm) ![](assets/new.png)  
 - [2021-04-22-Flink-在唯品会的实践](https://toutiao.io/k/s1yoo7q) ![](assets/new.png)  
 - [2021-04-22-译-纯-CSS-图片碎裂动画教程](https://toutiao.io/k/e8tthtb) ![](assets/new.png)  
 - [2021-04-22-1006-笨阶乘](https://toutiao.io/k/scjloxy) ![](assets/new.png)  
+- [2021-04-22-Homebrew-图形化管理软件-Cakebrew，我再也不用记命令了](https://toutiao.io/k/b5awuuy) ![](assets/new.png)  
+- [2021-04-22-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-22-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-22-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-22-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
 - [2021-04-22-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
 - [2021-04-22-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-22-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
 - [2021-04-22-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-22-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-22-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-22-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-22-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-22-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
-- [2021-04-22-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-22-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
+- [2021-04-22-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

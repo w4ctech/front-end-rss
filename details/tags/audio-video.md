@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 13:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 13:12:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -76,6 +76,7 @@
 - [2020-01-20-【视频】钟南山谈新型肺炎：肯定存在人传人现象](http://m.video.caixin.com/m/2020-01-20/101506478.html) 
 - [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
+- [2021-04-21-虎牙直播技术演变之路](https://www.ershicimi.com/p/6538e1e69e53054867131de5dfdfde25) 
 - [2021-04-22-视频-|-拆穿“茶叶姑娘”骗局](https://sec.thief.one/article_content?a_id=6a675ba3203da2f676211a3fbfba1eae) 
 - [2021-04-21-Lazarus-APT黑客正在使用BMP图像隐藏RAT恶意软件](https://sec.thief.one/article_content?a_id=b89c9d25982310073030835923bed793) 
 - [2021-04-21-视频-|-Python:面向对象之属性](https://sec.thief.one/article_content?a_id=ff8a34f634d8bb2f5a82478c130759ee) 

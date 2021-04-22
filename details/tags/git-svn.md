@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 12:03:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 12:24:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -14,4 +14,3 @@
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
 - [2021-04-22-github-上中文-issue-的状况好像也没啥改善](https://www.v2ex.com/t/772490) 
-- [2021-04-22-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) 

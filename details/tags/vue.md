@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 15:24:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 15:39:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -39,6 +39,7 @@
 - [2020-04-19-2020年-4-月-21日-星期二-晚上-9:30-Vue.js-作者尤雨溪与你相约前端圈的-B-站](https://www.ershicimi.com/p/69d20f9c5bb2de3da1dad85699594815) 
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
 - [2021-03-29-手写mini版Vue-+-核心原理解析](https://www.ershicimi.com/p/1fc894d074155083eb42f4b2c092074a) 
+- [2021-03-30-通过自定义-Vue-指令实现前端曝光埋点](https://www.ershicimi.com/p/e3c6fff3197960071292bb4abf5a0c51) 
 - [2021-04-17-Vue开发移动端项目，这个工具对你一定有帮助](https://www.ershicimi.com/p/3645b0ed438008552b9fccc7ce1300a9) 
 - [2021-04-12-Vue-响应式原理模拟](https://www.ershicimi.com/p/acef7f52cb210729b8871f310c6f619f) 
 - [2021-04-13-Vue3.0-新特性以及使用变更总结实际工作用到的](https://www.ershicimi.com/p/43217f4e30f1e45269b212769bea1bdf) 

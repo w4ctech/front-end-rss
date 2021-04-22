@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 11:23:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 11:36:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,11 +31,9 @@
 - [2021-04-15-CORS-完全手册之-CORS-详解](https://www.ershicimi.com/p/4611dd35ef482198b814deea154312b2) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2021-04-08-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/9e0a0e7b6559752b7a0a05ada834fad8) 
-- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
-- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
 - [2021-04-22-thrift-的-TServiceClient-是线程安全的么?](https://www.v2ex.com/t/772516) 
+- [2021-04-22-聊聊-Code-Review](https://toutiao.io/k/29pxjdo) 
+- [2021-04-22-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-22-Chrome更新来袭,共修复7个安全问题](https://sec.thief.one/article_content?a_id=a5472b2ba01191a7809325fb39ae0c25) 
 - [2021-04-22-征文|杨博涵:从防御、监测到运营,浅谈终端安全](https://sec.thief.one/article_content?a_id=bcbf2453f57bcf0615979c5cca20eded) 
 - [2021-04-22-信息安全技术学习分班通知](https://sec.thief.one/article_content?a_id=cd62108a5169fec3ec64777bde05e70c) 

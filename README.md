@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-22 00:09:36，:rocket: 更新条数: +4265， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-22 00:27:15，:rocket: 更新条数: +4236， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -1016,6 +1016,7 @@
 </summary>
 
 
+- [2021-04-22-果然不出所料本地电信已恢复-QOS](https://www.v2ex.com/t/772338) ![](assets/new.png)  
 - [2021-04-21-机会只留给有准备的人，面试不刷题真不行](https://www.v2ex.com/t/772337) ![](assets/new.png)  
 - [2021-04-21-关于-homepod-mini-的广播](https://www.v2ex.com/t/772336) ![](assets/new.png)  
 - [2021-04-21-运-去哪-这家公司怎么样？](https://www.v2ex.com/t/772335) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-04-21-m1-直接合上盖子吗？](https://www.v2ex.com/t/772316) ![](assets/new.png)  
 - [2021-04-21-有一万块钱，买什么？](https://www.v2ex.com/t/772315) ![](assets/new.png)  
 - [2021-04-21-骑驴找马感觉好难](https://www.v2ex.com/t/772313) ![](assets/new.png)  
-- [2021-04-21-有在北航（唯实大厦）附近租房的吗？](https://www.v2ex.com/t/772312) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,26 +1047,6 @@
 </summary>
 
 
-- [2021-04-22-Android-实现小红书登陆页面背景图无限滚动效果-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14304&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FocOgPrfN_6FD8B16n9NYdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-未来，APP-就是一个人的全部-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14303&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fpmb8rKBBUp6sdN1FI-4IOw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-十六年全栈开发者的-Android-开发踩坑实录-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLiRIV5XAvToTpLTLRSkxdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-你的App为何在iPhone12上显示异常，而别人的不会？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14301&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489597%26amp%3Bidx%3D2%26amp%3Bsn%3D4ee3ac433223f43b04edc9779419e9fd%26amp%3Bchksm%3Dfa3cf966cd4b70702b5145d768464ef6532a57737f3953a9110b5af6c067b7e927c6b060ac4d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-大厂的404页面都长啥样？最后一个亮了...-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14300&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489588%26amp%3Bidx%3D1%26amp%3Bsn%3D702f2a7cf366199d4b96d7e7788ccba5%26amp%3Bchksm%3Dfa3cf96fcd4b7079291178651ea0ad2e1dbf6afe23e75fab33002049de5845bf77249566d54a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-「译文」资深程序员应该有的样子-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14299&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489588%26amp%3Bidx%3D2%26amp%3Bsn%3De6a36e632edad47aa86194951b944bd4%26amp%3Bchksm%3Dfa3cf96fcd4b7079349fead593f1e900c17e370b0a1910642d29d9897de0aa0028a903b88a56%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-2020年轻人专属的那种羞羞报告，悄悄收藏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14298&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489587%26amp%3Bidx%3D1%26amp%3Bsn%3Dcec78575a260e10e87d42be55a255eae%26amp%3Bchksm%3Dfa3cf968cd4b707eb6aaff8e36c977d8abb07d5063e2a750707679cc6e3e7406cea7845488cc%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-真实业务订单拆单架构与实战-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14297&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489587%26amp%3Bidx%3D2%26amp%3Bsn%3D3c2753127ebf6d52cecca72a134bc622%26amp%3Bchksm%3Dfa3cf968cd4b707ecdefcca83c8737f85814d371cd742c4a5325717eb81a0a3c933ef9b80255%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-22款高颜值的终端工具，点燃了小姐姐对编程的热爱！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14296&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489583%26amp%3Bidx%3D1%26amp%3Bsn%3D13da584dd1abcbbc0ef343f2e32b83cb%26amp%3Bchksm%3Dfa3cf974cd4b7062d21970c8a280c08f574476f28fdf9242ce20124b4460b31cf041fd39454b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-Linux开发过程那么麻烦，是否值得？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14295&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489583%26amp%3Bidx%3D2%26amp%3Bsn%3D90ca284916f60b0b70ebdc5cd05c2ca4%26amp%3Bchksm%3Dfa3cf974cd4b7062502da9d6bdfb2d7d9ed25ada78ce801f96166f471b2f7b21a0f22cc2f570%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-想多人游戏？那你还不看看它！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14294&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-想多人游戏？那你还不看看它！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14293&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-Doge.jpg-的背后是什么，你知道么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14292&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F347658697%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-如何通过开发快应用赚取睡后收入？-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14291&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F30%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-如何基于-Flarum-搭建一个优雅简洁论坛？-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=14290&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F03%2F22%2F189-how-to-install-flarum-based-on-docker%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-优质网站同好者周刊（第-8-期）--倾城之链-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=14289&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F04%2F08%2F193-nicelinks-weekly-008%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-快应用开发工具-3.9.0-版本发布-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14288&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F31-390%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-实操｜如何将-Containerd-用作-Kubernetes-runtime-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14287&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F359860695%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-Android-R-如何访问-Android/data-目录？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14286&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtX31JRuSChWAORKJDlpOIw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-22-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1078,26 +1058,26 @@
 </summary>
 
 
-- [2021-04-22-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-04-22-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-04-22-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
-- [2021-04-22-JavaScript-垃圾回收策略](https://toutiao.io/k/i8pbfyr) ![](assets/new.png)  
-- [2021-04-22-Java-8-中的-Lambda-表达式](https://toutiao.io/k/zahd9yv) ![](assets/new.png)  
-- [2021-04-22-从-Serverless-看软件效能提升](https://toutiao.io/k/ykfvids) ![](assets/new.png)  
-- [2021-04-22-i/o-timeout-，-希望你不要踩到这个-net/http-包的坑](https://toutiao.io/k/g2vk4k1) ![](assets/new.png)  
-- [2021-04-22-厉害了，A4-纸上竟然能清晰看动漫](https://toutiao.io/k/izj0r49) ![](assets/new.png)  
-- [2021-04-22-嗯，你觉得-Go-在什么时候会抢占-P？](https://toutiao.io/k/tb0ianx) ![](assets/new.png)  
-- [2021-04-22-贝壳-OLAP-平台架构演进](https://toutiao.io/k/i2l6mm0) ![](assets/new.png)  
-- [2021-04-22-ETL-和-ELT-到底有啥区别？？？](https://toutiao.io/k/dmssgmt) ![](assets/new.png)  
-- [2021-04-22-LeetCode-844-：比较含退格的字符串](https://toutiao.io/k/iaed1zu) ![](assets/new.png)  
-- [2021-04-22-AMS-系列之生命周期管理](https://toutiao.io/k/5jrgtv8) ![](assets/new.png)  
-- [2021-04-22-Arthas-的表达式太难了？在线调试-Ognl-表达式](https://toutiao.io/k/uo5a4h8) ![](assets/new.png)  
-- [2021-04-22-最新-Hive-的高频面试题新鲜出炉了](https://toutiao.io/k/bwb59wj) ![](assets/new.png)  
-- [2021-04-22-扩展-Spark-SQL-解析](https://toutiao.io/k/1it9jop) ![](assets/new.png)  
-- [2021-04-22-漫画｜工作这几年，同事对我的称呼肉眼可见的在变化着](https://toutiao.io/k/z3dscov) ![](assets/new.png)  
-- [2021-04-22-在不同-webpack-版本的-Vue-项目中配置-Storybook](https://toutiao.io/k/8sv2059) ![](assets/new.png)  
-- [2021-04-22-从零带你看-Struts-2-中-OGNL-命令执行漏洞](https://toutiao.io/k/00kj7m4) ![](assets/new.png)  
-- [2021-04-22-2021-Cocoapods-新手入门指南](https://toutiao.io/k/5rzhtid) ![](assets/new.png)  
+- [2021-04-22-互联网：逻辑上的黑话才是真正的花里胡哨](https://toutiao.io/k/hk3xm6e) ![](assets/new.png)  
+- [2021-04-22-面试必备常见存储引擎与锁的分类，请查收](https://toutiao.io/k/lyccgvn) ![](assets/new.png)  
+- [2021-04-22-谈谈-Kubernetes-的问题和局限性](https://toutiao.io/k/0t3be9z) ![](assets/new.png)  
+- [2021-04-22-测试平台的发展与未来趋势](https://toutiao.io/k/6mr06fm) ![](assets/new.png)  
+- [2021-04-22-Nginx：不管正向还是反向我通通代理](https://toutiao.io/k/0iqkotc) ![](assets/new.png)  
+- [2021-04-22-译-纯-CSS-图片碎裂动画教程](https://toutiao.io/k/e8tthtb) ![](assets/new.png)  
+- [2021-04-22-Seata-搭建与分布式事务入门](https://toutiao.io/k/n0npgg0) ![](assets/new.png)  
+- [2021-04-22-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-04-22-1006-笨阶乘](https://toutiao.io/k/scjloxy) ![](assets/new.png)  
+- [2021-04-22-Flink-在唯品会的实践](https://toutiao.io/k/s1yoo7q) ![](assets/new.png)  
+- [2021-04-22-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-22-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-22-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-22-推荐-架构设计方法论](https://toutiao.io/k/68q4m1v) ![](assets/new.png)  
+- [2021-04-22-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-22-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-22-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-22-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-22-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-22-推荐-有哪些可以提高代码质量的书籍推荐？](https://toutiao.io/k/pmlwnuy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,6 +1089,14 @@
 </summary>
 
 
+- [2021-04-22-《人工智能核心技术产业白皮书》全文](https://sec.thief.one/article_content?a_id=fa172a56b413668e4f13e7ef9c65cd2d) ![](assets/new.png)  
+- [2021-04-22-苹果代工厂广达遭黑客勒索:称窃取苹果机密索要巨额赎金](https://sec.thief.one/article_content?a_id=889c96d990ed4d8869d97b8070b43ed3) ![](assets/new.png)  
+- [2021-04-21-大家来给GoSSIP投个票,送他们出道吧~](https://sec.thief.one/article_content?a_id=62f8b95165fb92b41e0db453791099bc) ![](assets/new.png)  
+- [2021-04-21-【安全圈】美一知名电子邮件曝3个在野0day漏洞](https://sec.thief.one/article_content?a_id=8d3e3d85212b4cbeb3378d2759258a9e) ![](assets/new.png)  
+- [2021-04-21-面向对象:牵牢我的手,你会发现,生活就是一个万花筒,五彩缤纷,...](https://sec.thief.one/article_content?a_id=8bf94749ccdc9c6dcf2185cd11989ca3) ![](assets/new.png)  
+- [2021-04-21-专访奇安信裴智勇:深挖数据价值-严守数字经济发展“生命线”](https://sec.thief.one/article_content?a_id=f28212338137f13908018d86a128619b) ![](assets/new.png)  
+- [2021-04-21-【漏洞通告】WebLogic多个严重漏洞通告](https://sec.thief.one/article_content?a_id=fe1549dfb0078a160d84e0bd2db79339) ![](assets/new.png)  
+- [2021-04-21-最高3000元/人-,-助你成为C站红人-!](https://sec.thief.one/article_content?a_id=097cf6f32872681034a817c4aa7e4865) ![](assets/new.png)  
 - [2021-04-21-InveighZero:一款基于C#的数据欺骗和MitM工具](https://sec.thief.one/article_content?a_id=10b3bfd9e1617c0a41397caa559127cb) ![](assets/new.png)  
 - [2021-04-21-【技术分享】NodeJS从零开始到原型链污染](https://sec.thief.one/article_content?a_id=1142d78a089d8a3b45aa4bc86ec84c7d) ![](assets/new.png)  
 - [2021-04-21-大数据+AI,看“腾讯大数据-天工”如何引领隐私计算浪潮](https://sec.thief.one/article_content?a_id=46c20ebac60cda1d8c0b6118be98297a) ![](assets/new.png)  
@@ -1121,14 +1109,6 @@
 - [2021-04-21-关于微步云沙箱一起溯源误判事件的声明](https://sec.thief.one/article_content?a_id=854738a394a49f082f70e2a3c37d1f53) ![](assets/new.png)  
 - [2021-04-21-Lazarus-APT黑客正在使用BMP图像隐藏RAT恶意软件](https://sec.thief.one/article_content?a_id=b89c9d25982310073030835923bed793) ![](assets/new.png)  
 - [2021-04-21-美政府拟出台电网安全冲刺计划:可免费资助安全产品](https://sec.thief.one/article_content?a_id=7f431d6218173991d62c083de495fbea) ![](assets/new.png)  
-- [2021-04-21-PayPal旗下Venmo开始支持加密交易](https://sec.thief.one/article_content?a_id=815941ba3835b97b7ccd800ddc928257) ![](assets/new.png)  
-- [2021-04-21-姚班大神胡渊鸣回国创业!超一半员工为清华校友,团队人均竞赛金牌...](https://sec.thief.one/article_content?a_id=1f67632bb873289ac4fb98a5ea0dcb2f) ![](assets/new.png)  
-- [2021-04-21-4月21日贵币GUIBI早内参-Theta主网3.0今日即将发布,上海即将开展...](https://sec.thief.one/article_content?a_id=a787dcde5b2f8fbb9a485387af783d94) ![](assets/new.png)  
-- [2021-04-21-每日攻防资讯简报Apr.21th](https://sec.thief.one/article_content?a_id=80bd5f13da544753e775d2b1e8be6536) ![](assets/new.png)  
-- [2021-04-21-利用-KLEE-符号执行引擎挖掘软件漏洞](https://sec.thief.one/article_content?a_id=27321a162ff0e69203eb9ae9eaa67ccd) ![](assets/new.png)  
-- [2021-04-21-安全日报2021.04.21](https://sec.thief.one/article_content?a_id=15015d563d6064ad8aa0c425cf7ceb54) ![](assets/new.png)  
-- [2021-04-21-新华社聚焦“信息泄露”|信息泄露黑灰产业链滋生巨大非法获利空间](https://sec.thief.one/article_content?a_id=3bc6e27e23ff838193c04cda83e2e3cd) ![](assets/new.png)  
-- [2021-04-21-AWD:赛前准备工作以及深度脚本讲解](https://sec.thief.one/article_content?a_id=255dd67878e95ea9bbb03784ee1f532a) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

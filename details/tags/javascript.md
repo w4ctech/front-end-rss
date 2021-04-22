@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 04:04:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 04:24:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -55,6 +55,8 @@
 - [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
 - [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
 - [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) 
+- [2021-04-16-前端业务组件库技术实现的三个关键点](https://www.ershicimi.com/p/78fb8b5aae2a9f3aab91243c5e7a60d8) 
+- [2021-04-10-JS语法ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/b788dde6da1f093c54bda9dcadc5e0d3) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2021-04-18-微信PC版曝高危漏洞，建议尽快更新；中国首个JS语言提案在ECMA进入Stage-3；华为多款手机将](https://www.ershicimi.com/p/1b06ed7c2af312ad740c43e238a54367) 
 - [2021-04-09-重写了90%代码之后，Fes.js-2.0能有多简洁？](https://www.ershicimi.com/p/69f4951e53d853fdfdaec51c6326ca36) 
@@ -88,8 +90,6 @@
 - [2021-04-20-微服务+异步工作流+Serverless，Netflix-决定弃用稳定运行7年的旧平台](https://www.ershicimi.com/p/b7c2ae1f256c2a458ebb98e20201b4f6) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-04-22-如何获取某个位置（非行政区划）的-GeoJson-数据？](https://www.v2ex.com/t/772399) 
-- [2021-04-22-Android-实现小红书登陆页面背景图无限滚动效果-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14304&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FocOgPrfN_6FD8B16n9NYdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-04-22-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-21-关于微步云沙箱一起溯源误判事件的声明](https://sec.thief.one/article_content?a_id=854738a394a49f082f70e2a3c37d1f53) 
 - [2021-04-21-【安全风险通告】WebLogic多个组件高危漏洞安全风险通告](https://sec.thief.one/article_content?a_id=c6149620a91ca22aa6b0293a50a39414) 
 - [2021-04-19-BUF大事件丨Chrome-0Day漏洞PoC公布;微软发布4月补丁更新](https://sec.thief.one/article_content?a_id=24d72a4e6b562c80d801d44801964735) 

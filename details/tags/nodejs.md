@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-22 05:39:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 05:52:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -9,7 +9,6 @@
 
 - [2021-04-21-系统梳理你的-Node.js-知识体系](https://www.ershicimi.com/p/efd71da1b53b9b5433c0f042ab01017c) 
 - [2020-07-14-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) 
-- [2021-04-07-80w年薪入职阿里，Node.js必须引起重视了](https://www.ershicimi.com/p/2db7effb784863ad88709b1ad21d8636) 
 - [2020-04-07-nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c) 
 - [2021-04-14-【保姆级解析】我是如何从工作的视角看-Koa-源码的？](https://www.ershicimi.com/p/eb302f50b5d1ae1e1ef660007d5c3512) 
 - [2021-04-07-天猫，京东都在用的Node.js到底有啥特别，最全解析来了](https://www.ershicimi.com/p/db386a3e98334031389226c138ea2970) 
@@ -26,5 +25,6 @@
 - [2021-04-07-如何应用Node.js打造个人提效工作链？](https://www.ershicimi.com/p/567981ae7d174e4109608888575c3207) 
 - [2021-03-09-作为前端开发，Node.js-你得了解下～](https://www.ershicimi.com/p/0f3e9093221929dddea3c6dd757ae61b) 
 - [2021-04-21-Node.js-16.0.0-正式发布](https://www.ershicimi.com/p/6335a7d2d173c6c55cc7d0f6f7204427) 
+- [2021-04-22-浏览器里打开自己开-electron-客户端的问题，报-Cannot-open-resources\xxx.node:-Error:-The-specified-module-could-not-be-found.](https://www.v2ex.com/t/772433) 
 - [2021-04-21-【技术分享】NodeJS从零开始到原型链污染](https://sec.thief.one/article_content?a_id=1142d78a089d8a3b45aa4bc86ec84c7d) 
 - [2021-04-19-【安全热点周报】第190期:连爆两枚V8引擎远程代码执行漏洞,影响...](https://sec.thief.one/article_content?a_id=7a0ad2e31bee46eee0a5742eed2525a8) 

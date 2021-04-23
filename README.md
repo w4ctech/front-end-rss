@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-23 17:09:33，:rocket: 更新条数: +4260， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-23 17:22:32，:rocket: 更新条数: +4260， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-23-这里只能找技术工作吗？](https://www.v2ex.com/t/772857) ![](assets/new.png)  
 - [2021-04-23-内网服务器不支持-ws-协议-怎么办？](https://www.v2ex.com/t/772856) ![](assets/new.png)  
 - [2021-04-23-看着市面上大量-Go-岗，如何调整心态？](https://www.v2ex.com/t/772855) ![](assets/new.png)  
 - [2021-04-23-小白请教一个关于三个路由互通的问题](https://www.v2ex.com/t/772854) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-23-求助-finder.app-打不开了](https://www.v2ex.com/t/772839) ![](assets/new.png)  
 - [2021-04-23-数据工作流-|-一站式云上数据智能解决方案](https://www.v2ex.com/t/772838) ![](assets/new.png)  
 - [2021-04-23-Notability-是不是只适合在-iOS-/-iPadOS-上使用，不适合在-macOS-上用？](https://www.v2ex.com/t/772837) ![](assets/new.png)  
-- [2021-04-23-理财、购买基金股票、债券等，用哪个-APP-好呢](https://www.v2ex.com/t/772836) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

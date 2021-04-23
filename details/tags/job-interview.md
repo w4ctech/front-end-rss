@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-23 15:53:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-23 16:05:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -24,7 +24,6 @@
 - [2021-04-18-面试官问：两数之和、三数之和、直至-N-数之和？套路一致吗？](https://www.ershicimi.com/p/e6b40c1bedf0ae0c7478226ac3b1cb17) 
 - [2021-04-17-面试官问：了解词法环境吗？它和闭包有什么联系？](https://www.ershicimi.com/p/1fda0c60d55875f192a220607560e257) 
 - [2021-04-16-面试官问：从页面-A-打开一个新页面-B，B-页面关闭（包括意外崩溃），如何通知-A-页面？](https://www.ershicimi.com/p/477485437dee64de914e08a7aba5dd76) 
-- [2021-04-14-【招聘贴】百度智能业务部急招高级前端](https://www.ershicimi.com/p/39d1ab76f88df6c0db86e5dc2a0c9146) 
 - [2021-04-08-400-道前端工程师常考必考面试题+详细解答](https://www.ershicimi.com/p/51fea516184a770d80879b361b75ba69) 
 - [2021-04-06-我经常和面试者聊的一个题目](https://www.ershicimi.com/p/a5d52276ba839bc69dcc08a851e8fbca) 
 - [2021-04-21-以面试题为切入点，带你夯实程序员内功](https://www.ershicimi.com/p/3e3552715a58feff0f601a1b7562ee53) 

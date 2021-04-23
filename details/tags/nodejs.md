@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-23 15:53:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-23 16:05:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -14,6 +14,7 @@
 - [2021-04-07-天猫，京东都在用的Node.js到底有啥特别，最全解析来了](https://www.ershicimi.com/p/db386a3e98334031389226c138ea2970) 
 - [2020-12-22-V8-引擎垃圾回收与内存分配](https://www.ershicimi.com/p/1a0e4f18abc4d979ab8de6939f2ac8cb) 
 - [2021-04-21-2021-年最值得关注的-8-个-Node.js-项目](https://www.ershicimi.com/p/c1fc98fe255c826bd2b586591a501f78) 
+- [2021-04-23-2021-年最值得关注的-8-个-Node.js-项目](https://www.ershicimi.com/p/bd9bd841dc516818b651aebc1abd26b8) 
 - [2021-04-16-Node.js-如何创建软连接，与硬链接区别是什么？](https://www.ershicimi.com/p/0387dde19d401c87bd7912f03583d128) 
 - [2021-04-15-Node.js-看了就会系列-｜常用三方工具包](https://www.ershicimi.com/p/0022714aeeba92777939b0c76c01ca53) 
 - [2021-04-15-News-Node.js-Next-10-Survey](https://www.ershicimi.com/p/8c493872a09e06632d587c8a4d1e0061) 

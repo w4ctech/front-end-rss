@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-23 15:53:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-23 16:05:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -38,7 +38,6 @@
 - [2021-04-16-从-setState-聊到-React-性能优化](https://www.ershicimi.com/p/3e4a9ea511c44ce540b3f4b90f518475) 
 - [2021-04-21-React-实战后的教程总结](https://www.ershicimi.com/p/5affea6ef7695d5c426f32d2310ad810) 
 - [2021-04-15-Vue-和-React-源码大PK，看这篇就够了](https://www.ershicimi.com/p/191f3f8db94d53656f146486fdaec3aa) 
-- [2021-04-14-代码简洁之道：编写干净的-React-Components-&-JSX](https://www.ershicimi.com/p/3133edde1df3877470a9bbcfa56ebe56) 
 - [2021-04-19-React-性能优化完全指南，将自己这几年的心血总结成这篇！](https://www.ershicimi.com/p/a65d9488f8349e98534dcaaadd9df1f9) 
 - [2021-04-14-面向工资编程，前端核心框架-React-了解下！](https://www.ershicimi.com/p/3de654dfe27297f005212ee80543e9df) 
 - [2021-04-20-为什么大多数前端程序员选择React？](https://www.ershicimi.com/p/92a2963480af84958dec81e523473aa5) 

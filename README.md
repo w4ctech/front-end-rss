@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-23 12:59:03，:rocket: 更新条数: +4255， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-23 13:11:50，:rocket: 更新条数: +4257， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-04-23-最新疫情：全国新冠累计确诊90566例-累计接种新冠疫苗超2.11亿剂次](https://m.caixin.com/m/2021-04-23/101698215.html) ![](assets/new.png)  
+- [2021-04-23-错报逾30宗假阳性-华大香港化验所致歉将整改](http://m.china.caixin.com/m/2021-04-23/101698321.html) ![](assets/new.png)  
 - [2021-04-23-上海新增5例境外输入病例-1人隔离结束后确诊](https://m.caixin.com/m/2021-04-23/101697646.html) ![](assets/new.png)  
 - [2021-04-23-最新海外疫情：新冠感染超1.44亿-累计死亡超306万](https://m.caixin.com/m/2021-04-23/101698221.html) ![](assets/new.png)  
 - [2021-04-23-【境内疫情观察】全国累计接种新冠疫苗超2亿剂次（4月22日）](http://m.database.caixin.com/m/2021-04-23/101698025.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-04-18-科兴疫苗智利真实世界保护率达67%-礼来中和抗体紧急授权被收回｜大流行手记（4月17日）](https://m.caixin.com/m/2021-04-18/101692822.html) ![](assets/new.png)  
 - [2021-04-17-【境内疫情观察】云南新增1例本土病例（4月16日）](http://m.database.caixin.com/m/2021-04-17/101692717.html) ![](assets/new.png)  
 - [2021-04-17-辉瑞称接种者或需打第三剂疫苗-以色列取消户外口罩令｜大流行手记（4月16日）](https://m.caixin.com/m/2021-04-17/101692553.html) ![](assets/new.png)  
-- [2021-04-16-印度单日新增确诊首破20万人-全球疫苗供应紧缺｜大流行手记（4月15日）](https://m.caixin.com/m/2021-04-16/101691883.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-23-有币圈大佬吗?想请教一下合约的问题.](https://www.v2ex.com/t/772824) ![](assets/new.png)  
 - [2021-04-23-有没有什么避免坐牢的方法](https://www.v2ex.com/t/772823) ![](assets/new.png)  
 - [2021-04-23-想发明一种用网卡挖矿的币](https://www.v2ex.com/t/772822) ![](assets/new.png)  
 - [2021-04-23-firefox-怎么把地址栏左边-“扩展（xxxxx）”去掉？](https://www.v2ex.com/t/772821) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-23-求教-RHEL6-操作系统支持升级到哪个版本的-Kernel？](https://www.v2ex.com/t/772798) ![](assets/new.png)  
 - [2021-04-23-深圳-AfterShip-海外互联网-国际电商-SaaS-B-轮，薪资对标一线-长期招人~~~](https://www.v2ex.com/t/772797) ![](assets/new.png)  
 - [2021-04-23-有没有大佬帮忙给简历提一些意见](https://www.v2ex.com/t/772796) ![](assets/new.png)  
-- [2021-04-23-想发明一种用声卡挖矿的币](https://www.v2ex.com/t/772795) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

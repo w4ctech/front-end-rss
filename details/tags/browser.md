@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-23 18:59:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-23 19:10:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -10,6 +10,7 @@
 - [2021-04-08-一名合格的前端工程师需要掌握的浏览器渲染笔记](https://www.ershicimi.com/p/b37c42536333398c3047a0473a4bc76b) 
 - [2021-03-30-URL输入后按回车，浏览器内部究竟发生了什么](https://www.ershicimi.com/p/254b54b63be6e9a152b5fd123b894f27) 
 - [2021-03-09-那些与-IE-相伴的日子](https://www.ershicimi.com/p/d9c911d3c0835bf8f9743b70add1478c) 
+- [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2021-04-22-Axios-如何实现请求重试？](https://www.ershicimi.com/p/1c12bd2468e3740be9b46d439927bf59) 
 - [2021-04-08-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/9e0a0e7b6559752b7a0a05ada834fad8) 
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 

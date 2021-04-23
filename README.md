@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-23 01:28:55，:rocket: 更新条数: +4255， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-23 01:48:26，:rocket: 更新条数: +4256， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -255,6 +255,8 @@
 </summary>
 
 
+- [2021-04-23-前端工程化实战指南，进阶必备](https://www.ershicimi.com/p/c95400071c7d07c87fbe6c70fd27c267) ![](assets/new.png)  
+- [2021-04-23-开发中经常遇到的JavaScript问题整理超实用](https://www.ershicimi.com/p/b9ac05bf6f1e4c90260c8906b24b6842) ![](assets/new.png)  
 - [2021-04-22-Vue3.0-高频出现的几道面试题](https://www.ershicimi.com/p/22d0b512357e9ba4d9152ec6d9e3aae9) ![](assets/new.png)  
 - [2021-04-21-30岁的前端程序员，后来都去哪儿了？](https://www.ershicimi.com/p/87b6012f9eafeaeec7d85e1d967d6cee) ![](assets/new.png)  
 - [2021-04-21-vite2.0+vue3移动端项目实战](https://www.ershicimi.com/p/7cc1e599dc0b4dd202fa788ab37e0cdf) ![](assets/new.png)  
@@ -273,8 +275,6 @@
 - [2021-04-07-JavaScript-代码整洁之道](https://www.ershicimi.com/p/3a822a7f735e67905cb17475979cdfec) ![](assets/new.png)  
 - [2021-04-06-React-灵魂-23-问，你能答对几个？](https://www.ershicimi.com/p/95ca47929b2541bf459ad4393ff3c7f7) ![](assets/new.png)  
 - [2021-04-02-Vue3-和-React17-，你选谁？](https://www.ershicimi.com/p/8762e2b9165425a6b87ee1bc3ca42466) ![](assets/new.png)  
-- [2021-04-02-前端如何修改组件库源码来封装符合自己需求的组件？](https://www.ershicimi.com/p/2d58f93962f8627aa4d29c64dd906702) ![](assets/new.png)  
-- [2021-04-01-前端海报生成的不同方案和优劣](https://www.ershicimi.com/p/195ee7ac45f0ee83e261b52f6473f125) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,19 @@
 </summary>
 
 
+- [2021-04-23-做了个国内外技术类文章聚合网站「极客阅读」](https://www.v2ex.com/t/772625) ![](assets/new.png)  
+- [2021-04-23-苹果并没有合并-Mac-和-iPad-的打算](https://www.v2ex.com/t/772624) ![](assets/new.png)  
+- [2021-04-23-给一块被换下来的-MacBook-SSD-买了一个-pcie-接口的转接器安装在-Windows-电脑上，却发现没什么用！](https://www.v2ex.com/t/772623) ![](assets/new.png)  
+- [2021-04-23-求问，-Linux-热点+桥接模式下，客户端能-ping-到路由器，但是路由器-ping-不到客户端有什么原因？](https://www.v2ex.com/t/772622) ![](assets/new.png)  
+- [2021-04-23-程序员日常英文水平怎么提高？-Java-别再读“渣蛙”了！](https://www.v2ex.com/t/772621) ![](assets/new.png)  
+- [2021-04-23-有没有人使用过-bartender-打印条码,-进行二次开发有什么注意的,支持-Java-吗](https://www.v2ex.com/t/772620) ![](assets/new.png)  
+- [2021-04-23-Mac-用雷霆接口外接显示器这么恶心？](https://www.v2ex.com/t/772619) ![](assets/new.png)  
+- [2021-04-23-请问这个直线的方程怎么求](https://www.v2ex.com/t/772618) ![](assets/new.png)  
+- [2021-04-23-iOS14.5-还没出来？-beta-版出来都半年了](https://www.v2ex.com/t/772617) ![](assets/new.png)  
+- [2021-04-23-右手网出品视频Android-12-DP-3-系统底层以及-UI-层面变化详细梳理](https://www.v2ex.com/t/772616) ![](assets/new.png)  
+- [2021-04-23-iPad-Pro-2021-5G-版本，用的什么芯片啊？](https://www.v2ex.com/t/772615) ![](assets/new.png)  
+- [2021-04-23-唉-体检中度脂肪肝+甲状腺结节+脊椎僵硬](https://www.v2ex.com/t/772614) ![](assets/new.png)  
+- [2021-04-23-苹果-marketing-chief-表示不打算整合-iPad-和-MacBook](https://www.v2ex.com/t/772612) ![](assets/new.png)  
 - [2021-04-23-笔记本不能启动了，提示系统找不到。求一个好用的-WINPE-制作安装](https://www.v2ex.com/t/772611) ![](assets/new.png)  
 - [2021-04-23-异步中-await-和-then-的区别，哪个更好](https://www.v2ex.com/t/772610) ![](assets/new.png)  
 - [2021-04-23-易宝软件南京有老铁了解么？](https://www.v2ex.com/t/772609) ![](assets/new.png)  
@@ -1003,19 +1016,6 @@
 - [2021-04-23-有没有抖音视频简单剪辑的外包网站或者个人](https://www.v2ex.com/t/772607) ![](assets/new.png)  
 - [2021-04-23-这道-Math-Logic-题我算到最后似乎有两个解，是我哪里弄错了么](https://www.v2ex.com/t/772606) ![](assets/new.png)  
 - [2021-04-23-CabloyJS-实现了一款基于-X6-的工作流可视化编辑器](https://www.v2ex.com/t/772605) ![](assets/new.png)  
-- [2021-04-22-Python-内置模块的-split-函数发生了令人疑惑的变化，这是-BUG-吗？](https://www.v2ex.com/t/772603) ![](assets/new.png)  
-- [2021-04-22-整理了一下-M1-不同设备不同配置的官方参考价$，方便大家剁手](https://www.v2ex.com/t/772602) ![](assets/new.png)  
-- [2021-04-22-迫于对显示器不懂，看了会帖子瞎买了一款-4k-显示器，求指点](https://www.v2ex.com/t/772601) ![](assets/new.png)  
-- [2021-04-22-有没有电话实时字幕？](https://www.v2ex.com/t/772600) ![](assets/new.png)  
-- [2021-04-22-怎么获取-service-方法中调用的所有-mapper-方法？](https://www.v2ex.com/t/772599) ![](assets/new.png)  
-- [2021-04-22-关于-systemctl---version-里面的-features-+--...](https://www.v2ex.com/t/772598) ![](assets/new.png)  
-- [2021-04-22-远程兼职-有对视频主持，拍摄和剪辑感兴趣的吗？](https://www.v2ex.com/t/772597) ![](assets/new.png)  
-- [2021-04-22-华尔街-startup-诚聘远程-Python-程序员](https://www.v2ex.com/t/772594) ![](assets/new.png)  
-- [2021-04-22-诚聘远程-有经验或者善于学习钻研的-PHP-/MYSQL-后端程序员](https://www.v2ex.com/t/772593) ![](assets/new.png)  
-- [2021-04-22-Vue-如何同时触发两个叠在一起的-div-的点击事件？](https://www.v2ex.com/t/772591) ![](assets/new.png)  
-- [2021-04-22-网页上,-PDF-附件,-能用编程提取数据到-Excel-里吗?](https://www.v2ex.com/t/772589) ![](assets/new.png)  
-- [2021-04-22-手机-iCloud-云盘莫名其妙同步延迟](https://www.v2ex.com/t/772588) ![](assets/new.png)  
-- [2021-04-22-如果-WeChat-同时支持-web-登陆和-callkit](https://www.v2ex.com/t/772587) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,8 +1060,8 @@
 
 - [2021-04-23-动态规划到底有多难？](https://toutiao.io/k/lj0lgn0) ![](assets/new.png)  
 - [2021-04-23-低代码开发到底有什么应用价值？](https://toutiao.io/k/tvdht9b) ![](assets/new.png)  
-- [2021-04-23-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
 - [2021-04-23-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-04-23-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
 - [2021-04-23-线上环境大规模-RocketMQ-集群不停机优雅升级实践](https://toutiao.io/k/qs3lo9r) ![](assets/new.png)  
 - [2021-04-23-Spring-Boot-开发秘籍：集成-Graphql-Query](https://toutiao.io/k/rsrt60z) ![](assets/new.png)  
 - [2021-04-23-且慢！听说你线上环境准备选型-Elasticsearch-SQL-了？](https://toutiao.io/k/ibayz48) ![](assets/new.png)  
@@ -1070,14 +1070,14 @@
 - [2021-04-23-微信游戏推荐系统大揭秘](https://toutiao.io/k/bout3eu) ![](assets/new.png)  
 - [2021-04-23-华为汽车中自动驾驶目标检测怎么理解？（通过跨模式的雷达目标检测）](https://toutiao.io/k/qffk98w) ![](assets/new.png)  
 - [2021-04-23-基于-Flutter-的-Web-渲染引擎-“北海”-正式开源](https://toutiao.io/k/p0j6743) ![](assets/new.png)  
-- [2021-04-23-使用-ccls-作为-C/C++-的补全方案](https://toutiao.io/k/1vtcnhv) ![](assets/new.png)  
 - [2021-04-23-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
 - [2021-04-23-一道诡异的题目背后的知识：代理模式](https://toutiao.io/k/qd562wq) ![](assets/new.png)  
-- [2021-04-23-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-23-使用-ccls-作为-C/C++-的补全方案](https://toutiao.io/k/1vtcnhv) ![](assets/new.png)  
 - [2021-04-23-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-23-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-23-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-23-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-23-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
 - [2021-04-23-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-23-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

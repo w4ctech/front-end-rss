@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-23 03:00:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-23 03:09:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2021-03-30-面试阿里被问的哑口无言，原来我……](https://www.ershicimi.com/p/9b4eb4e86782276faaf83bb375080f45) 
 - [2021-04-21-【招聘】深圳阿卡索外教网招高级前端开发工程师](https://www.ershicimi.com/p/1ce358a1f02cbe784dd909436ed5d5b6) 
 - [2021-04-19-【招聘】淘系前端智能化团队！社招&校招同步进行中！](https://www.ershicimi.com/p/09395998a9cba582f4971a54c7b03cf3) 
@@ -32,3 +31,4 @@
 - [2021-04-18-面试过程中，竟然遇到PUA，我不得不服这种“潜规则”～](https://www.ershicimi.com/p/3d61488bb0d160821d4ec6bc1361ebb6) 
 - [2021-04-22-重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/2dd643e87f8415ea43cd71fae653209b) 
 - [2021-04-23-面试需要这些资料吗？总感觉给了这些资料怕怕的。](https://www.v2ex.com/t/772632) 
+- [2021-04-23-嘁，哪有什么金三银四，一年四季都是面试](https://toutiao.io/k/ulemm5i) 

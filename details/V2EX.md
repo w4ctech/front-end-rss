@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-23 15:40:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-23 15:53:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-23-cocoapods-终于在-M1-不依靠-Rosetta-了](https://www.v2ex.com/t/772849) 
 - [2021-04-23-Cloudflare-CDN-用于非-HTML-的-API-属于滥用吗？](https://www.v2ex.com/t/772848) 
 - [2021-04-23-有用-iPad-pro-修图的老哥吗？](https://www.v2ex.com/t/772847) 
 - [2021-04-23-Mac-版本的全面战争：三国-Total-War:-Three-Kingdoms-无法运行](https://www.v2ex.com/t/772846) 
@@ -40,4 +41,3 @@
 - [2021-04-23-win10-自带邮件无法显示纯文本邮件的正文](https://www.v2ex.com/t/772806) 
 - [2021-04-23-有一个关于-KFIFO-的疑惑,请帮忙指点一下](https://www.v2ex.com/t/772805) 
 - [2021-04-23-怎样判断横屏视频是中间包含完整竖屏，两边模糊的视频？](https://www.v2ex.com/t/772804) 
-- [2021-04-23-Oneplus-7-Pro-升级-OxygenOS-11-后，-Android-11-体验非常好，再也不会出现不给权限就不能用-App-的情况了](https://www.v2ex.com/t/772799) 

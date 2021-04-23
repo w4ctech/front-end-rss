@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-23 01:15:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-23 01:28:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -90,6 +90,7 @@
 - [2021-04-20-有奖｜发视频晒家，得现金奖励和流量扶持](https://www.ershicimi.com/p/0d96d7ffe5d55eac9fb8725043e80259) 
 - [2021-04-23-有没有抖音视频简单剪辑的外包网站或者个人](https://www.v2ex.com/t/772607) 
 - [2021-04-22-远程兼职-有对视频主持，拍摄和剪辑感兴趣的吗？](https://www.v2ex.com/t/772597) 
+- [2021-04-22-Manjaro-发行版入门短视频集](https://www.v2ex.com/t/772564) 
 - [2021-04-22-视频-|-拆穿“茶叶姑娘”骗局](https://sec.thief.one/article_content?a_id=6a675ba3203da2f676211a3fbfba1eae) 
 - [2021-04-21-Lazarus-APT黑客正在使用BMP图像隐藏RAT恶意软件](https://sec.thief.one/article_content?a_id=b89c9d25982310073030835923bed793) 
 - [2021-04-21-视频-|-Python:面向对象之属性](https://sec.thief.one/article_content?a_id=ff8a34f634d8bb2f5a82478c130759ee) 

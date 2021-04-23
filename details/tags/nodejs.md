@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-23 09:53:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-23 10:03:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -26,4 +26,5 @@
 - [2021-04-07-如何应用Node.js打造个人提效工作链？](https://www.ershicimi.com/p/567981ae7d174e4109608888575c3207) 
 - [2021-03-09-作为前端开发，Node.js-你得了解下～](https://www.ershicimi.com/p/0f3e9093221929dddea3c6dd757ae61b) 
 - [2021-04-21-Node.js-16.0.0-正式发布](https://www.ershicimi.com/p/6335a7d2d173c6c55cc7d0f6f7204427) 
+- [2021-04-23-昂达-H61C-V8-主板在-winxp-7-8-10-下睡眠后无法唤醒-hdmi-电视，在-bios-和-vista-和-Linux-下无此问题](https://www.v2ex.com/t/772783) 
 - [2021-04-21-【技术分享】NodeJS从零开始到原型链污染](https://sec.thief.one/article_content?a_id=1142d78a089d8a3b45aa4bc86ec84c7d) 

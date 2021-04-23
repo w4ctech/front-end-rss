@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-23 09:53:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-23 10:03:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -12,6 +12,6 @@
 - [2021-03-31-面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219) 
 - [2021-04-23-十六年全栈开发者的-Android-开发踩坑实录](https://www.ershicimi.com/p/a24dbb5328b7c0fb3027390ecf5a6a15) 
 - [2021-04-17-Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29) 
+- [2021-04-23--上海-|-深圳-平安科技-|-平安集团-客户端-|-前端-|-Java-|-Python-|-后端-|-算法-|-运维-|-产品-](https://www.v2ex.com/t/772788) 
 - [2021-04-23-有一个业务上的算法思路请教一下!](https://www.v2ex.com/t/772756) 
-- [2021-04-23-十六年全栈开发者的-Android-开发踩坑实录-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLiRIV5XAvToTpLTLRSkxdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-23-且慢！听说你线上环境准备选型-Elasticsearch-SQL-了？](https://toutiao.io/k/ibayz48) 

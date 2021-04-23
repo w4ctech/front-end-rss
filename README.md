@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-23 00:26:52，:rocket: 更新条数: +4242， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-23 00:47:15，:rocket: 更新条数: +4248， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,8 @@
 </summary>
 
 
+- [2021-04-23-上海新增5例境外输入病例-1人隔离结束后确诊](https://m.caixin.com/m/2021-04-23/101697646.html) ![](assets/new.png)  
+- [2021-04-23-美国完成2亿剂疫苗接种-日本拟第三次发布紧急事态宣言｜大流行手记（4月22日）](https://m.caixin.com/m/2021-04-23/101697601.html) ![](assets/new.png)  
 - [2021-04-22-最新疫情：全国新冠累计确诊90547例-累计接种新冠疫苗超2.04亿剂次](https://m.caixin.com/m/2021-04-22/101696923.html) ![](assets/new.png)  
 - [2021-04-22-香港高校开展疫苗接种者抗体浓度研究](https://m.caixin.com/m/2021-04-22/101696975.html) ![](assets/new.png)  
 - [2021-04-22-最新海外疫情：新冠感染超1.43亿-累计死亡超306万](https://m.caixin.com/m/2021-04-22/101697049.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2021-04-17-辉瑞称接种者或需打第三剂疫苗-以色列取消户外口罩令｜大流行手记（4月16日）](https://m.caixin.com/m/2021-04-17/101692553.html) ![](assets/new.png)  
 - [2021-04-16-印度单日新增确诊首破20万人-全球疫苗供应紧缺｜大流行手记（4月15日）](https://m.caixin.com/m/2021-04-16/101691883.html) ![](assets/new.png)  
 - [2021-04-15-【境内疫情观察】全国新增10例境外输入病例（4月14日）](http://m.database.caixin.com/m/2021-04-15/101691588.html) ![](assets/new.png)  
-- [2021-04-15-香港放宽新冠疫苗接种年龄限制-明年将采购新一代疫苗](https://m.caixin.com/m/2021-04-15/101691804.html) ![](assets/new.png)  
-- [2021-04-14-云南瑞丽4月13日新增新冠确诊病例1例](https://m.caixin.com/m/2021-04-14/101690804.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,11 @@
 </summary>
 
 
+- [2021-04-23-易宝软件南京有老铁了解么？](https://www.v2ex.com/t/772609) ![](assets/new.png)  
+- [2021-04-23-为什么我的-typora-上的文章不能直接复制粘贴到公众号呢？](https://www.v2ex.com/t/772608) ![](assets/new.png)  
+- [2021-04-23-有没有抖音视频简单剪辑的外包网站或者个人](https://www.v2ex.com/t/772607) ![](assets/new.png)  
+- [2021-04-23-这道-Math-Logic-题我算到最后似乎有两个解，是我哪里弄错了么](https://www.v2ex.com/t/772606) ![](assets/new.png)  
+- [2021-04-23-CabloyJS-实现了一款基于-X6-的工作流可视化编辑器](https://www.v2ex.com/t/772605) ![](assets/new.png)  
 - [2021-04-22-Python-内置模块的-split-函数发生了令人疑惑的变化，这是-BUG-吗？](https://www.v2ex.com/t/772603) ![](assets/new.png)  
 - [2021-04-22-整理了一下-M1-不同设备不同配置的官方参考价$，方便大家剁手](https://www.v2ex.com/t/772602) ![](assets/new.png)  
 - [2021-04-22-迫于对显示器不懂，看了会帖子瞎买了一款-4k-显示器，求指点](https://www.v2ex.com/t/772601) ![](assets/new.png)  
@@ -1011,11 +1016,6 @@
 - [2021-04-22-如果-WeChat-同时支持-web-登陆和-callkit](https://www.v2ex.com/t/772587) ![](assets/new.png)  
 - [2021-04-22-VX-公号”大数据肌肉猿”及其作者无精疯的可信度？](https://www.v2ex.com/t/772586) ![](assets/new.png)  
 - [2021-04-22-如何跨文档搜索内容？](https://www.v2ex.com/t/772585) ![](assets/new.png)  
-- [2021-04-22-纯小白，想学习-Java-编程，有没有好的-Java-书籍推荐](https://www.v2ex.com/t/772584) ![](assets/new.png)  
-- [2021-04-22-pacificrack-的服务还是浅尝辄止即可](https://www.v2ex.com/t/772583) ![](assets/new.png)  
-- [2021-04-22-安装-java16-了,还是提示这个，怎么解决？](https://www.v2ex.com/t/772582) ![](assets/new.png)  
-- [2021-04-22-Mac-应用为何会被强制“以低分辨率打开”？](https://www.v2ex.com/t/772581) ![](assets/new.png)  
-- [2021-04-22-现在为-macos-开发免费软件，也一定要买$99-刀会员了？](https://www.v2ex.com/t/772580) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,24 +1060,24 @@
 
 - [2021-04-23-动态规划到底有多难？](https://toutiao.io/k/lj0lgn0) ![](assets/new.png)  
 - [2021-04-23-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-04-23-Spring-Boot-开发秘籍：集成-Graphql-Query](https://toutiao.io/k/rsrt60z) ![](assets/new.png)  
+- [2021-04-23-低代码开发到底有什么应用价值？](https://toutiao.io/k/tvdht9b) ![](assets/new.png)  
 - [2021-04-23-线上环境大规模-RocketMQ-集群不停机优雅升级实践](https://toutiao.io/k/qs3lo9r) ![](assets/new.png)  
+- [2021-04-23-Spring-Boot-开发秘籍：集成-Graphql-Query](https://toutiao.io/k/rsrt60z) ![](assets/new.png)  
 - [2021-04-23-且慢！听说你线上环境准备选型-Elasticsearch-SQL-了？](https://toutiao.io/k/ibayz48) ![](assets/new.png)  
-- [2021-04-23-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-23-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
-- [2021-04-23-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
-- [2021-04-23-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-23-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
-- [2021-04-23-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-23-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-23-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-23-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
-- [2021-04-23-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-23-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
-- [2021-04-23-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-23-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-23-华为汽车中自动驾驶目标检测怎么理解？（通过跨模式的雷达目标检测）](https://toutiao.io/k/qffk98w) ![](assets/new.png)  
+- [2021-04-23-微信游戏推荐系统大揭秘](https://toutiao.io/k/bout3eu) ![](assets/new.png)  
+- [2021-04-23-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
 - [2021-04-23-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-23-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-23-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-23-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-04-23-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-23-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
+- [2021-04-23-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
 - [2021-04-23-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-23-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-23-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-23-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

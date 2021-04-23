@@ -1,15 +1,16 @@
-:alarm_clock: 更新时间: 2021-04-23 11:03:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-23 11:23:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2021-04-23-最新疫情：全国新冠累计确诊90566例-累计接种新冠疫苗超2.11亿剂次](https://m.caixin.com/m/2021-04-23/101698215.html) 
 - [2021-04-23-上海新增5例境外输入病例-1人隔离结束后确诊](https://m.caixin.com/m/2021-04-23/101697646.html) 
+- [2021-04-23-最新海外疫情：新冠感染超1.44亿-累计死亡超306万](https://m.caixin.com/m/2021-04-23/101698221.html) 
 - [2021-04-23-【境内疫情观察】全国累计接种新冠疫苗超2亿剂次（4月22日）](http://m.database.caixin.com/m/2021-04-23/101698025.html) 
 - [2021-04-23-美国完成2亿剂疫苗接种-日本拟第三次发布紧急事态宣言｜大流行手记（4月22日）](https://m.caixin.com/m/2021-04-23/101697601.html) 
 - [2021-04-22-香港高校开展疫苗接种者抗体浓度研究](https://m.caixin.com/m/2021-04-22/101696975.html) 
-- [2021-04-22-最新海外疫情：新冠感染超1.43亿-累计死亡超306万](https://m.caixin.com/m/2021-04-22/101697049.html) 
 - [2021-04-22-【境内疫情观察】全国新增16例无症状感染者（4月21日）](http://m.database.caixin.com/m/2021-04-22/101694717.html) 
 - [2021-04-22-印度新冠单日死亡创最高纪录-中疾控公布西安病例保护失败缘由｜大流行手记（4月21日）](https://m.caixin.com/m/2021-04-22/101694653.html) 
 - [2021-04-21-【境内疫情观察】海南新增12例境外输入病例（4月20日）](http://m.database.caixin.com/m/2021-04-21/101694231.html) 
@@ -3389,6 +3390,7 @@
 - [2021-04-15-知乎故事-|-你从什么时候发现自己其实是个普通人？](https://www.ershicimi.com/p/486a2febb995846658dc900091fa8afa) 
 - [2021-04-14-中国女足进军东京奥运！谢谢努力的你们](https://www.ershicimi.com/p/13b830af378c53c6dbf88b695f3be570) 
 - [2021-04-14-知乎故事-|-生活中有哪些小事让你觉得很治愈？](https://www.ershicimi.com/p/e9094730e85e57d357ad9b02403054c4) 
+- [2021-04-23-Oneplus-7-Pro-升级-OxygenOS-11-后，-Android-11-体验非常好，再也不会出现不给权限就不能用-App-的情况了](https://www.v2ex.com/t/772799) 
 - [2021-04-23-求教-RHEL6-操作系统支持升级到哪个版本的-Kernel？](https://www.v2ex.com/t/772798) 
 - [2021-04-23-深圳-AfterShip-海外互联网-国际电商-SaaS-B-轮，薪资对标一线-长期招人~~~](https://www.v2ex.com/t/772797) 
 - [2021-04-23-有没有大佬帮忙给简历提一些意见](https://www.v2ex.com/t/772796) 
@@ -3412,7 +3414,6 @@
 - [2021-04-23-用户生日当天发送短信祝福功能如何设计](https://www.v2ex.com/t/772760) 
 - [2021-04-23-2021-DevOpsDays-东京站完美收官-|-CODING-专家受邀分享最新技术资讯](https://www.v2ex.com/t/772759) 
 - [2021-04-23-谷歌-FA-申请，绑定到站点上也是-recapcha-吗？](https://www.v2ex.com/t/772757) 
-- [2021-04-23-Far-manager-复制粘贴怎么不好用了？](https://www.v2ex.com/t/772751) 
 - [2021-04-23-未来，APP-就是一个人的全部-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14303&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fpmb8rKBBUp6sdN1FI-4IOw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-23-你的App为何在iPhone12上显示异常，而别人的不会？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14301&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489597%26amp%3Bidx%3D2%26amp%3Bsn%3D4ee3ac433223f43b04edc9779419e9fd%26amp%3Bchksm%3Dfa3cf966cd4b70702b5145d768464ef6532a57737f3953a9110b5af6c067b7e927c6b060ac4d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-04-23-大厂的404页面都长啥样？最后一个亮了...-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14300&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489588%26amp%3Bidx%3D1%26amp%3Bsn%3D702f2a7cf366199d4b96d7e7788ccba5%26amp%3Bchksm%3Dfa3cf96fcd4b7079291178651ea0ad2e1dbf6afe23e75fab33002049de5845bf77249566d54a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -3441,13 +3442,13 @@
 - [2021-04-23-一个-Go-升级引起的血案](https://toutiao.io/k/ey8ppav) 
 - [2021-04-23-这个鸡腿是你能惦记的](https://toutiao.io/k/pd88mly) 
 - [2021-04-23-使用-ccls-作为-C/C++-的补全方案](https://toutiao.io/k/1vtcnhv) 
-- [2021-04-23-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
-- [2021-04-23-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) 
-- [2021-04-23-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
 - [2021-04-23-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
-- [2021-04-23-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
-- [2021-04-23-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
+- [2021-04-23-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
 - [2021-04-23-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
+- [2021-04-23-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
+- [2021-04-23-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) 
+- [2021-04-23-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
+- [2021-04-23-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) 
 - [2021-04-23-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) 
 - [2021-04-23-“庆祝建党百年•发现最美铁路”活动在四地同时启动!](https://sec.thief.one/article_content?a_id=8eab32de9956eff98dc8d31a47c82473) 
 - [2021-04-23-【技术分享】花指令总结](https://sec.thief.one/article_content?a_id=3d90555673a5d723809de15a9c19d59d) 

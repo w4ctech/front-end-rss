@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-23 11:03:09，:rocket: 更新条数: +4255， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-23 11:23:51，:rocket: 更新条数: +4254， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,11 +65,12 @@
 </summary>
 
 
+- [2021-04-23-最新疫情：全国新冠累计确诊90566例-累计接种新冠疫苗超2.11亿剂次](https://m.caixin.com/m/2021-04-23/101698215.html) ![](assets/new.png)  
 - [2021-04-23-上海新增5例境外输入病例-1人隔离结束后确诊](https://m.caixin.com/m/2021-04-23/101697646.html) ![](assets/new.png)  
+- [2021-04-23-最新海外疫情：新冠感染超1.44亿-累计死亡超306万](https://m.caixin.com/m/2021-04-23/101698221.html) ![](assets/new.png)  
 - [2021-04-23-【境内疫情观察】全国累计接种新冠疫苗超2亿剂次（4月22日）](http://m.database.caixin.com/m/2021-04-23/101698025.html) ![](assets/new.png)  
 - [2021-04-23-美国完成2亿剂疫苗接种-日本拟第三次发布紧急事态宣言｜大流行手记（4月22日）](https://m.caixin.com/m/2021-04-23/101697601.html) ![](assets/new.png)  
 - [2021-04-22-香港高校开展疫苗接种者抗体浓度研究](https://m.caixin.com/m/2021-04-22/101696975.html) ![](assets/new.png)  
-- [2021-04-22-最新海外疫情：新冠感染超1.43亿-累计死亡超306万](https://m.caixin.com/m/2021-04-22/101697049.html) ![](assets/new.png)  
 - [2021-04-22-【境内疫情观察】全国新增16例无症状感染者（4月21日）](http://m.database.caixin.com/m/2021-04-22/101694717.html) ![](assets/new.png)  
 - [2021-04-22-印度新冠单日死亡创最高纪录-中疾控公布西安病例保护失败缘由｜大流行手记（4月21日）](https://m.caixin.com/m/2021-04-22/101694653.html) ![](assets/new.png)  
 - [2021-04-21-【境内疫情观察】海南新增12例境外输入病例（4月20日）](http://m.database.caixin.com/m/2021-04-21/101694231.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-04-17-【境内疫情观察】云南新增1例本土病例（4月16日）](http://m.database.caixin.com/m/2021-04-17/101692717.html) ![](assets/new.png)  
 - [2021-04-17-辉瑞称接种者或需打第三剂疫苗-以色列取消户外口罩令｜大流行手记（4月16日）](https://m.caixin.com/m/2021-04-17/101692553.html) ![](assets/new.png)  
 - [2021-04-16-印度单日新增确诊首破20万人-全球疫苗供应紧缺｜大流行手记（4月15日）](https://m.caixin.com/m/2021-04-16/101691883.html) ![](assets/new.png)  
-- [2021-04-15-【境内疫情观察】全国新增10例境外输入病例（4月14日）](http://m.database.caixin.com/m/2021-04-15/101691588.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-23-Oneplus-7-Pro-升级-OxygenOS-11-后，-Android-11-体验非常好，再也不会出现不给权限就不能用-App-的情况了](https://www.v2ex.com/t/772799) ![](assets/new.png)  
 - [2021-04-23-求教-RHEL6-操作系统支持升级到哪个版本的-Kernel？](https://www.v2ex.com/t/772798) ![](assets/new.png)  
 - [2021-04-23-深圳-AfterShip-海外互联网-国际电商-SaaS-B-轮，薪资对标一线-长期招人~~~](https://www.v2ex.com/t/772797) ![](assets/new.png)  
 - [2021-04-23-有没有大佬帮忙给简历提一些意见](https://www.v2ex.com/t/772796) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-23-Jetbrains-在-2021-年-4-月-12-日正式发布的协同编程方案-Code-With-Me，好像没看到什么讨论？](https://www.v2ex.com/t/772778) ![](assets/new.png)  
 - [2021-04-23-坐标西溪，求高级-Python-后端工程师。](https://www.v2ex.com/t/772777) ![](assets/new.png)  
 - [2021-04-23-M1-芯片与-鲲鹏-920-数值计算性能对比](https://www.v2ex.com/t/772776) ![](assets/new.png)  
-- [2021-04-23-发现了一个好用的-idea-的-protobuf-插件](https://www.v2ex.com/t/772775) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1076,8 +1076,8 @@
 - [2021-04-23-一个-Go-升级引起的血案](https://toutiao.io/k/ey8ppav) ![](assets/new.png)  
 - [2021-04-23-嘁，哪有什么金三银四，一年四季都是面试](https://toutiao.io/k/ulemm5i) ![](assets/new.png)  
 - [2021-04-23-这个鸡腿是你能惦记的](https://toutiao.io/k/pd88mly) ![](assets/new.png)  
-- [2021-04-23-使用-ccls-作为-C/C++-的补全方案](https://toutiao.io/k/1vtcnhv) ![](assets/new.png)  
 - [2021-04-23-大前端书单：两大互联网巨头握手言和，小程序开发有魅力更有痛点](https://toutiao.io/k/a3a172f) ![](assets/new.png)  
+- [2021-04-23-使用-ccls-作为-C/C++-的补全方案](https://toutiao.io/k/1vtcnhv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

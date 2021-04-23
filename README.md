@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-23 11:23:51，:rocket: 更新条数: +4254， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-23 11:36:39，:rocket: 更新条数: +4255， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-23-怎样判断横屏视频是中间包含完整竖屏，两边模糊的视频？](https://www.v2ex.com/t/772804) ![](assets/new.png)  
 - [2021-04-23-Oneplus-7-Pro-升级-OxygenOS-11-后，-Android-11-体验非常好，再也不会出现不给权限就不能用-App-的情况了](https://www.v2ex.com/t/772799) ![](assets/new.png)  
 - [2021-04-23-求教-RHEL6-操作系统支持升级到哪个版本的-Kernel？](https://www.v2ex.com/t/772798) ![](assets/new.png)  
 - [2021-04-23-深圳-AfterShip-海外互联网-国际电商-SaaS-B-轮，薪资对标一线-长期招人~~~](https://www.v2ex.com/t/772797) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-23-五一后计划用两个月的时间组织一个读-vue3-源码讨论会](https://www.v2ex.com/t/772780) ![](assets/new.png)  
 - [2021-04-23-Jetbrains-在-2021-年-4-月-12-日正式发布的协同编程方案-Code-With-Me，好像没看到什么讨论？](https://www.v2ex.com/t/772778) ![](assets/new.png)  
 - [2021-04-23-坐标西溪，求高级-Python-后端工程师。](https://www.v2ex.com/t/772777) ![](assets/new.png)  
-- [2021-04-23-M1-芯片与-鲲鹏-920-数值计算性能对比](https://www.v2ex.com/t/772776) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

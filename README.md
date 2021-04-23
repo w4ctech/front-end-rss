@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-23 03:25:52，:rocket: 更新条数: +4258， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-23 03:41:23，:rocket: 更新条数: +4258， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -193,6 +193,8 @@
 </summary>
 
 
+- [2021-04-23-大厂面试常问的前端工程化学习指南，进阶必备](https://www.ershicimi.com/p/1731d475024fc5dcd466e243cff9a05e) ![](assets/new.png)  
+- [2021-04-23-【第2262期】Web-性能优化：使用-CSS-font-display-控制字体加载和替换](https://www.ershicimi.com/p/98a738b1cbcd8da2272d2d511ea2ee37) ![](assets/new.png)  
 - [2021-04-22-【第2261期】高级程序4：函数](https://www.ershicimi.com/p/6cf592fa16468f5abc63cfc3e388656b) ![](assets/new.png)  
 - [2021-04-21-为什么大多数前端程序员选择React？](https://www.ershicimi.com/p/e929dd6bc363b435a24dc13530f87b89) ![](assets/new.png)  
 - [2021-04-21-【第2260期】ToB-前端-CI/CD-建设实践](https://www.ershicimi.com/p/a82b07a8609ab38627120ad92efaf699) ![](assets/new.png)  
@@ -211,8 +213,6 @@
 - [2021-04-15-美团春招岗位命中率前七名曝光！](https://www.ershicimi.com/p/d23d00ccfd56e7248e2066324e8763a5) ![](assets/new.png)  
 - [2021-04-14-Vue-和-React源码大PK，看这篇就够了](https://www.ershicimi.com/p/e1bf71751403059875c1cf228d420a62) ![](assets/new.png)  
 - [2021-04-14-【第2253期】React状态管理库及如何选择？](https://www.ershicimi.com/p/45273e60f71700d03acc798ca28f0826) ![](assets/new.png)  
-- [2021-04-13-【第2252期】前端质量保证体系建设](https://www.ershicimi.com/p/59c4483d3fd72147124054fad6b11f8d) ![](assets/new.png)  
-- [2021-04-13-【活动】掘力计划创作者训练营第二期，火热来袭！](https://www.ershicimi.com/p/51f433a9d681a0b6020546105b6b0985) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-04-23-开源中国（oschina.net）的动弹和评论区都没了？](https://www.v2ex.com/t/772674) ![](assets/new.png)  
+- [2021-04-23-停电后，主板网卡不能访问黑群晖。插-usb-网卡，使用相同的-ip-设置就可以。换-Linux-系统，依然是同样的状况](https://www.v2ex.com/t/772673) ![](assets/new.png)  
+- [2021-04-23--上海-世界第一大加密货币交易大所。-前端](https://www.v2ex.com/t/772672) ![](assets/new.png)  
 - [2021-04-23-oracle-官网貌似炸了](https://www.v2ex.com/t/772671) ![](assets/new.png)  
 - [2021-04-23-Airpods-Pro-在-iPhone-和-Mac-之间切换的问题](https://www.v2ex.com/t/772670) ![](assets/new.png)  
 - [2021-04-23-有哪位小哥是在汇丰的么](https://www.v2ex.com/t/772667) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-04-23-四大咨询-量化金融、数据分析、NLP-部门直招（应届生、社招均可投递）](https://www.v2ex.com/t/772653) ![](assets/new.png)  
 - [2021-04-23-怎么避免怯场，或者是说提高自己的沟通技巧](https://www.v2ex.com/t/772652) ![](assets/new.png)  
 - [2021-04-23-官宣，国行来了！](https://www.v2ex.com/t/772651) ![](assets/new.png)  
-- [2021-04-23-PyCharm-限时优惠官方活动，感兴趣的可以看看。](https://www.v2ex.com/t/772650) ![](assets/new.png)  
-- [2021-04-23-错峰招人！-4-月大厂再放-30000+岗位！](https://www.v2ex.com/t/772649) ![](assets/new.png)  
-- [2021-04-23-前端充电站，武汉我们来了](https://www.v2ex.com/t/772648) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1058,8 +1058,8 @@
 </summary>
 
 
-- [2021-04-23-动态规划到底有多难？](https://toutiao.io/k/lj0lgn0) ![](assets/new.png)  
 - [2021-04-23-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-04-23-动态规划到底有多难？](https://toutiao.io/k/lj0lgn0) ![](assets/new.png)  
 - [2021-04-23-低代码开发到底有什么应用价值？](https://toutiao.io/k/tvdht9b) ![](assets/new.png)  
 - [2021-04-23-什么是电商-API？这是它能给电商开发人员带来-12-种好处](https://toutiao.io/k/g05k38l) ![](assets/new.png)  
 - [2021-04-23-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
@@ -1072,12 +1072,12 @@
 - [2021-04-23-微信游戏推荐系统大揭秘](https://toutiao.io/k/bout3eu) ![](assets/new.png)  
 - [2021-04-23-华为汽车中自动驾驶目标检测怎么理解？（通过跨模式的雷达目标检测）](https://toutiao.io/k/qffk98w) ![](assets/new.png)  
 - [2021-04-23-一道诡异的题目背后的知识：代理模式](https://toutiao.io/k/qd562wq) ![](assets/new.png)  
-- [2021-04-23-使用-ccls-作为-C/C++-的补全方案](https://toutiao.io/k/1vtcnhv) ![](assets/new.png)  
 - [2021-04-23-如何成为一名合格的-Android-开发工程师（技能篇）](https://toutiao.io/k/c3m9qdm) ![](assets/new.png)  
+- [2021-04-23-使用-ccls-作为-C/C++-的补全方案](https://toutiao.io/k/1vtcnhv) ![](assets/new.png)  
 - [2021-04-23-一个-Go-升级引起的血案](https://toutiao.io/k/ey8ppav) ![](assets/new.png)  
 - [2021-04-23-大前端书单：两大互联网巨头握手言和，小程序开发有魅力更有痛点](https://toutiao.io/k/a3a172f) ![](assets/new.png)  
 - [2021-04-23-嘁，哪有什么金三银四，一年四季都是面试](https://toutiao.io/k/ulemm5i) ![](assets/new.png)  
-- [2021-04-23-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-23-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

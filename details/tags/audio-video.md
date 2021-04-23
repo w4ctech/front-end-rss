@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-23 00:08:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-23 00:26:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -84,6 +84,7 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
+- [2021-04-21-又一款Nginx-管理可视化神器！通过界面完成配置监控，一条龙！含视频教程](https://www.ershicimi.com/p/89ce1571fe3a98e2b10b22704cfc2ab8) 
 - [2021-04-21-虎牙直播技术演变之路](https://www.ershicimi.com/p/6538e1e69e53054867131de5dfdfde25) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-04-20-有奖｜发视频晒家，得现金奖励和流量扶持](https://www.ershicimi.com/p/0d96d7ffe5d55eac9fb8725043e80259) 
@@ -92,5 +93,4 @@
 - [2021-04-22-视频-|-拆穿“茶叶姑娘”骗局](https://sec.thief.one/article_content?a_id=6a675ba3203da2f676211a3fbfba1eae) 
 - [2021-04-21-Lazarus-APT黑客正在使用BMP图像隐藏RAT恶意软件](https://sec.thief.one/article_content?a_id=b89c9d25982310073030835923bed793) 
 - [2021-04-21-视频-|-Python:面向对象之属性](https://sec.thief.one/article_content?a_id=ff8a34f634d8bb2f5a82478c130759ee) 
-- [2021-04-20-视频-|-全球最神秘的三大黑客组织](https://sec.thief.one/article_content?a_id=d483702dbd251d739b7bc00795be0a85) 
 - [2021-04-16-华为自动驾驶实车实路测试视频曝光！徐直军：比特斯拉好多了](https://www.ershicimi.com/p/c33fe0e76c2be0eec9fef7f25ef8d350) 

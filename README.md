@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-23 00:08:51，:rocket: 更新条数: +4257， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-23 00:26:52，:rocket: 更新条数: +4242， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -109,6 +109,9 @@
 </summary>
 
 
+- [2021-04-22-21-道关于性能优化的面试题（附答案）](https://www.ershicimi.com/p/9ff7e9d202dd42725b6e71d9ef2f6c34) ![](assets/new.png)  
+- [2021-04-21-前端中文入门手册.pdf](https://www.ershicimi.com/p/2f4506872cddac7d2fd824d48b4b6778) ![](assets/new.png)  
+- [2021-04-19-VueConf-2021-抢先看，Evan-You-和你聊聊-Vue-的未来](https://www.ershicimi.com/p/91228ab834251ecee6fa8e937487b6c7) ![](assets/new.png)  
 - [2021-04-15-面试必问的Vue-源码怎么学？详细教程来了！](https://www.ershicimi.com/p/48ecfefe100494f69c1d275565c7c038) ![](assets/new.png)  
 - [2021-04-14-再见，Vue2.0！](https://www.ershicimi.com/p/d605b052baf940f4ebdbb6697415ecc3) ![](assets/new.png)  
 - [2021-04-12-一文带你了解如何排查内存泄漏导致的页面卡顿现象](https://www.ershicimi.com/p/d9acf4bafd39ff48b4bb88faff9756da) ![](assets/new.png)  
@@ -126,9 +129,6 @@
 - [2021-03-15-前端也要懂编译：Babel-最全上手指南](https://www.ershicimi.com/p/8f40b805f16b5a470430b1116a98fac9) ![](assets/new.png)  
 - [2021-03-11-996-问题愈演愈烈，政协委员建议监管；联想杨元庆也反对-996](https://www.ershicimi.com/p/2986c2c4a67876f2b0f275e55e73f528) ![](assets/new.png)  
 - [2021-03-10-实战-|-Vite2.0-搭建-Vue3-移动端项目](https://www.ershicimi.com/p/7ca66b4020aed3d84650689756887815) ![](assets/new.png)  
-- [2021-03-09-前端开发从入门到精通，一次解决](https://www.ershicimi.com/p/a650c7d7e98df2d7ad6774fa797a0ec7) ![](assets/new.png)  
-- [2021-03-08-面试京东，那些必问的-Vue-知识点](https://www.ershicimi.com/p/148a813134440e5d7763c3300e4da70d) ![](assets/new.png)  
-- [2021-03-05-字节跳动最爱考的前端面试题：JavaScript-基础](https://www.ershicimi.com/p/5465790e14e35e346ff600353d7ee034) ![](assets/new.png)  
 - [......【查看更多】......](./details/Vue社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -679,9 +679,9 @@
 </summary>
 
 
+- [2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) ![](assets/new.png)  
 - [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) ![](assets/new.png)  
 - [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html) ![](assets/new.png)  
-- [2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -808,6 +808,14 @@
 </summary>
 
 
+- [2021-04-22-耗子叔也曾是我榜样！](https://www.ershicimi.com/p/09b3301fd71d5c495ec1e6c2a15f934c) ![](assets/new.png)  
+- [2021-04-22-武汉最最最牛逼的IT公司全在这了](https://www.ershicimi.com/p/d616b1418ef9c419d3376ea56adac073) ![](assets/new.png)  
+- [2021-04-22-Spring-Boot-集成-WebSocket，轻松实现信息推送！](https://www.ershicimi.com/p/1e51582c41c7805c59f894ac0b558ebc) ![](assets/new.png)  
+- [2021-04-21-“91系列”资源网凉了，500余网站被封杀！](https://www.ershicimi.com/p/0bed6b73ce10115a7772007819566759) ![](assets/new.png)  
+- [2021-04-21-又一款Nginx-管理可视化神器！通过界面完成配置监控，一条龙！含视频教程](https://www.ershicimi.com/p/89ce1571fe3a98e2b10b22704cfc2ab8) ![](assets/new.png)  
+- [2021-04-21-史上最便捷搭建-Zookeeper-的方法！](https://www.ershicimi.com/p/5e67ef398eb20d79c7d29f61df081920) ![](assets/new.png)  
+- [2021-04-20-最牛逼的-Java-日志框架，性能无敌，横扫所有对手。。](https://www.ershicimi.com/p/6b35f4234129fb29f6ede8217db119f9) ![](assets/new.png)  
+- [2021-04-20-面试官：这货一听就是一个水货...](https://www.ershicimi.com/p/4cd5ec66abb14528944a41f85d2975ba) ![](assets/new.png)  
 - [2021-04-19-张一鸣：年轻人一定要懂得延迟满足](https://www.ershicimi.com/p/631875b30a78dde15c91f99d1e597f59) ![](assets/new.png)  
 - [2021-04-19-一个注解搞定-Spring-Boot-日志！还有谁不会？](https://www.ershicimi.com/p/4443b2b62cf48cc729da4e78c418388e) ![](assets/new.png)  
 - [2021-04-19-某程序员的薪水变化数据](https://www.ershicimi.com/p/9948676ce5584e006d0c52be2fc7f6e1) ![](assets/new.png)  
@@ -820,14 +828,6 @@
 - [2021-04-16-笑死，小米新logo是这么来的](https://www.ershicimi.com/p/ed2ac4d1aa54c6595bff0da90f5c085d) ![](assets/new.png)  
 - [2021-04-16-大佬带路，用Java实现天天酷跑（附源码），网友：这也太TM屌了~](https://www.ershicimi.com/p/a874975d2bd26cdec261c3f73ac2a154) ![](assets/new.png)  
 - [2021-04-16-这几天研究了一下JDK14，发现它处理NPE的方式，真香！](https://www.ershicimi.com/p/605589b9d93fd4d27da821eb776e6f27) ![](assets/new.png)  
-- [2021-04-15-华为，终于摊牌了！](https://www.ershicimi.com/p/74f26fd88e588f6b592943d20a78a025) ![](assets/new.png)  
-- [2021-04-15-卧槽！新来的妹纸rm--rf把公司整个数据库删没了，整个项目组慌了~](https://www.ershicimi.com/p/b7a0423e7da7dc6fd65db9b40fcd20f4) ![](assets/new.png)  
-- [2021-04-15-还在搞三层架构？DDD-分层架构了解下！](https://www.ershicimi.com/p/a04a78261a9d54d19065ee7909bdeffc) ![](assets/new.png)  
-- [2021-04-14-「大数据知识体系总结2021版」开放下载了！](https://www.ershicimi.com/p/445c7fe39315b2d813afaec7df857611) ![](assets/new.png)  
-- [2021-04-14-面进了心心念念的国企！以为TM上岸了！干了1年！我却再次选择回到互联网大厂内卷！](https://www.ershicimi.com/p/db7e82a04953492788a874a9757a5b56) ![](assets/new.png)  
-- [2021-04-14-Spring-Boot-接入支付宝，实战来了！](https://www.ershicimi.com/p/5a98eb3d127f7daf03b36ae22c10989a) ![](assets/new.png)  
-- [2021-04-13-华为员工违规领夜宵被发现后，被罚冻薪降考评，终身不得领夜宵，HR：哪个员工上班健身，定性考勤造](https://www.ershicimi.com/p/c19611f0b8b6a2b32e8965e2451ea68b) ![](assets/new.png)  
-- [2021-04-13-Java-8-中的-CompletableFuture-太好用了！20-个示例全分享…](https://www.ershicimi.com/p/e3da5c3f0f4f6e9d7b95cf7000550f8e) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1058,26 +1058,26 @@
 </summary>
 
 
-- [2021-04-23-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-04-23-互联网：逻辑上的黑话才是真正的花里胡哨](https://toutiao.io/k/hk3xm6e) ![](assets/new.png)  
-- [2021-04-23-谈谈-Kubernetes-的问题和局限性](https://toutiao.io/k/0t3be9z) ![](assets/new.png)  
-- [2021-04-23-面试必备常见存储引擎与锁的分类，请查收](https://toutiao.io/k/lyccgvn) ![](assets/new.png)  
-- [2021-04-23-Nginx：不管正向还是反向我通通代理](https://toutiao.io/k/0iqkotc) ![](assets/new.png)  
-- [2021-04-23-Seata-搭建与分布式事务入门](https://toutiao.io/k/n0npgg0) ![](assets/new.png)  
-- [2021-04-23-Flink-在唯品会的实践](https://toutiao.io/k/s1yoo7q) ![](assets/new.png)  
-- [2021-04-23-测试平台的发展与未来趋势](https://toutiao.io/k/6mr06fm) ![](assets/new.png)  
-- [2021-04-23-Homebrew-图形化管理软件-Cakebrew，我再也不用记命令了](https://toutiao.io/k/b5awuuy) ![](assets/new.png)  
-- [2021-04-23-太强大了，Feign-对接-YAPI-实现自动-Mock](https://toutiao.io/k/qfzkjty) ![](assets/new.png)  
-- [2021-04-23-ShutdownHook-原理](https://toutiao.io/k/n8y1wql) ![](assets/new.png)  
-- [2021-04-23-面试官：你知道-Dubbo-怎么做优雅上下线的吗？你：优雅上下线是啥？](https://toutiao.io/k/qcp2ayr) ![](assets/new.png)  
-- [2021-04-23-聊聊-Code-Review](https://toutiao.io/k/29pxjdo) ![](assets/new.png)  
-- [2021-04-23-工具-|-一款上手简单，功能强大的-Python-爬虫框架](https://toutiao.io/k/6b507a7) ![](assets/new.png)  
-- [2021-04-23-Python-数据可视化：DataFrame.plot-函数绘制数据图](https://toutiao.io/k/4f1i9kn) ![](assets/new.png)  
-- [2021-04-23-细数分布式-ID-生成策略](https://toutiao.io/k/gs9x659) ![](assets/new.png)  
-- [2021-04-23-译-纯-CSS-图片碎裂动画教程](https://toutiao.io/k/e8tthtb) ![](assets/new.png)  
-- [2021-04-23-LeetCode-1006：笨阶乘](https://toutiao.io/k/scjloxy) ![](assets/new.png)  
-- [2021-04-23-服务网格平稳落地：Istio-中精准控制-Sidecar-的注入](https://toutiao.io/k/flemmhy) ![](assets/new.png)  
-- [2021-04-23-译-代码会死循环吗？Go-异步抢占](https://toutiao.io/k/5gb5ik0) ![](assets/new.png)  
+- [2021-04-23-动态规划到底有多难？](https://toutiao.io/k/lj0lgn0) ![](assets/new.png)  
+- [2021-04-23-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-04-23-Spring-Boot-开发秘籍：集成-Graphql-Query](https://toutiao.io/k/rsrt60z) ![](assets/new.png)  
+- [2021-04-23-线上环境大规模-RocketMQ-集群不停机优雅升级实践](https://toutiao.io/k/qs3lo9r) ![](assets/new.png)  
+- [2021-04-23-且慢！听说你线上环境准备选型-Elasticsearch-SQL-了？](https://toutiao.io/k/ibayz48) ![](assets/new.png)  
+- [2021-04-23-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-23-推荐-我很久没写代码了，但我是个好架构师](https://toutiao.io/k/gauwubg) ![](assets/new.png)  
+- [2021-04-23-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
+- [2021-04-23-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
+- [2021-04-23-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-04-23-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-23-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-23-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-23-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-23-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-23-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
+- [2021-04-23-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-23-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-23-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-23-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,6 +1089,16 @@
 </summary>
 
 
+- [2021-04-22-【安全圈】代码测试公司Codecov遭到黑客入侵事件](https://sec.thief.one/article_content?a_id=dfa61ce4c38d21c7280cc9244399fdd7) ![](assets/new.png)  
+- [2021-04-22-每日攻防资讯简报Apr.22th](https://sec.thief.one/article_content?a_id=018ab3afa92779a4f538264a685e11a3) ![](assets/new.png)  
+- [2021-04-22-【漏洞通告】WebSphere-XML外部实体XXE注入漏洞CVE-...](https://sec.thief.one/article_content?a_id=4cf370fb5c1285d3cb779802fc8bc70e) ![](assets/new.png)  
+- [2021-04-22-Python-与-Excel-终于互通了-!](https://sec.thief.one/article_content?a_id=86c056b613d9c67b1a8a72f2eb6e73ed) ![](assets/new.png)  
+- [2021-04-22-419五周年丨谭晓生:在回顾与展望之间-谈谈网络安全产业热点与热词](https://sec.thief.one/article_content?a_id=d0a6e6d34c1b501424ce4afbfc52b6bd) ![](assets/new.png)  
+- [2021-04-22-CCTV新闻频道:奇安信等头部企业入驻金科新区首个起步楼宇](https://sec.thief.one/article_content?a_id=171a71adcd015e02e20caf01f48ca156) ![](assets/new.png)  
+- [2021-04-22-不要随便迷信大佬](https://sec.thief.one/article_content?a_id=a2f8d1724c51e28c8df3bf53e5a1abc3) ![](assets/new.png)  
+- [2021-04-22-用安全守护草原的梦|企业联合公益活动—MiSRC](https://sec.thief.one/article_content?a_id=63247dd80d7c8ac38642065552c9373c) ![](assets/new.png)  
+- [2021-04-22-「议题前瞻」基于AI流量分析模型的数据安全解决方案丨FreeBuf企业...](https://sec.thief.one/article_content?a_id=1c2958e63d92f9a6c2def0f2c1ed55f3) ![](assets/new.png)  
+- [2021-04-22-2020年有多达61%的公司受到勒索软件的冲击](https://sec.thief.one/article_content?a_id=5d3e9c67022a86334b8dd801faea9e95) ![](assets/new.png)  
 - [2021-04-22-【技术分享】CVE-2021-25646-Apache-Druid-远程代码执行漏洞分析](https://sec.thief.one/article_content?a_id=54a7388ffac6d5d8765203a746a6f41c) ![](assets/new.png)  
 - [2021-04-22-Chrome更新来袭,共修复7个安全问题](https://sec.thief.one/article_content?a_id=a5472b2ba01191a7809325fb39ae0c25) ![](assets/new.png)  
 - [2021-04-22-征文|杨博涵:从防御、监测到运营,浅谈终端安全](https://sec.thief.one/article_content?a_id=bcbf2453f57bcf0615979c5cca20eded) ![](assets/new.png)  
@@ -1099,16 +1109,6 @@
 - [2021-04-22-CNNVD-关于Oracle-WebLogic-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=50affd5bd70c499c66b056208e3bb123) ![](assets/new.png)  
 - [2021-04-22-PancakeSwap-24小时交易量超越以太坊](https://sec.thief.one/article_content?a_id=e93abc5891fcceafe01884fec445bbff) ![](assets/new.png)  
 - [2021-04-22-Datanumen-disk-image应急取证工具操作归档](https://sec.thief.one/article_content?a_id=70983d961958a5998ba1737b3ac19094) ![](assets/new.png)  
-- [2021-04-22-视频-|-拆穿“茶叶姑娘”骗局](https://sec.thief.one/article_content?a_id=6a675ba3203da2f676211a3fbfba1eae) ![](assets/new.png)  
-- [2021-04-22-安全日报2021.04.22](https://sec.thief.one/article_content?a_id=202714d1c0330f4083a019455fc4c52e) ![](assets/new.png)  
-- [2021-04-22-免杀干货-|-魔改CobaltStrike,让杀软和天眼流泪](https://sec.thief.one/article_content?a_id=b9917756e2ccf1975bd77d2038b6ca57) ![](assets/new.png)  
-- [2021-04-22-4月22日贵币GUIBI早内参-Ripple与美国SEC将于4月30日举行电话会议...](https://sec.thief.one/article_content?a_id=b619ba55268127ad5e97ff6a404a7abc) ![](assets/new.png)  
-- [2021-04-22-观安信息完成2亿+D轮融资](https://sec.thief.one/article_content?a_id=bd9161e50ed20834280e6a74e10a1237) ![](assets/new.png)  
-- [2021-04-22-美联社:俄罗斯是全球勒索软件的避风港](https://sec.thief.one/article_content?a_id=5e0f8d31fe4010ba2c63621f6f3286f3) ![](assets/new.png)  
-- [2021-04-22-ProxyLogon漏洞被用于门罗币挖矿](https://sec.thief.one/article_content?a_id=4ce3549a75affb62c5701947a269fc8e) ![](assets/new.png)  
-- [2021-04-22-月薪3000,闷声月入10W后告别加班:让钱主动找你](https://sec.thief.one/article_content?a_id=9cd5d9002984f7a156951dfc90333940) ![](assets/new.png)  
-- [2021-04-22-当中国人遇上互联网](https://sec.thief.one/article_content?a_id=fc50702ab0332acb6f880b5eb4c8685c) ![](assets/new.png)  
-- [2021-04-22-信安世纪成功登陆科创板](https://sec.thief.one/article_content?a_id=45d56cf91d3b538569caa40a8895dce3) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

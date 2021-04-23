@@ -17659,6 +17659,21 @@
     "link": "https://www.ershicimi.com/a/9891",
     "items": [
       {
+        "title": "21 道关于性能优化的面试题（附答案）",
+        "link": "https://www.ershicimi.com/p/9ff7e9d202dd42725b6e71d9ef2f6c34",
+        "date": "2021-04-22"
+      },
+      {
+        "title": "前端中文入门手册.pdf",
+        "link": "https://www.ershicimi.com/p/2f4506872cddac7d2fd824d48b4b6778",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "VueConf 2021 抢先看，Evan You 和你聊聊 Vue 的未来",
+        "link": "https://www.ershicimi.com/p/91228ab834251ecee6fa8e937487b6c7",
+        "date": "2021-04-19"
+      },
+      {
         "title": "面试必问的Vue 源码怎么学？详细教程来了！",
         "link": "https://www.ershicimi.com/p/48ecfefe100494f69c1d275565c7c038",
         "date": "2021-04-15"
@@ -17742,21 +17757,6 @@
         "title": "实战 | Vite2.0 搭建 Vue3 移动端项目",
         "link": "https://www.ershicimi.com/p/7ca66b4020aed3d84650689756887815",
         "date": "2021-03-10"
-      },
-      {
-        "title": "前端开发从入门到精通，一次解决",
-        "link": "https://www.ershicimi.com/p/a650c7d7e98df2d7ad6774fa797a0ec7",
-        "date": "2021-03-09"
-      },
-      {
-        "title": "面试京东，那些必问的 Vue 知识点",
-        "link": "https://www.ershicimi.com/p/148a813134440e5d7763c3300e4da70d",
-        "date": "2021-03-08"
-      },
-      {
-        "title": "字节跳动最爱考的前端面试题：JavaScript 基础",
-        "link": "https://www.ershicimi.com/p/5465790e14e35e346ff600353d7ee034",
-        "date": "2021-03-05"
       }
     ]
   },
@@ -19547,6 +19547,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 155 期）：数字货币是打破美元霸权的武器吗？",
+        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html",
+        "date": "2021-04-23"
+      },
+      {
         "title": "科技爱好者周刊（第 154 期）：1982年的信息社会预言",
         "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html",
         "date": "2021-04-16"
@@ -19555,11 +19560,6 @@
         "title": "科技爱好者周刊（第 153 期）：机器翻译是对译者的侮辱吗？",
         "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html",
         "date": "2021-04-09"
-      },
-      {
-        "title": "科技爱好者周刊（第 152 期）：从北大到技校",
-        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html",
-        "date": "2021-04-02"
       }
     ]
   },
@@ -19902,6 +19902,46 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "耗子叔也曾是我榜样！",
+        "link": "https://www.ershicimi.com/p/09b3301fd71d5c495ec1e6c2a15f934c",
+        "date": "2021-04-22"
+      },
+      {
+        "title": "武汉最最最牛逼的IT公司全在这了",
+        "link": "https://www.ershicimi.com/p/d616b1418ef9c419d3376ea56adac073",
+        "date": "2021-04-22"
+      },
+      {
+        "title": "Spring Boot 集成 WebSocket，轻松实现信息推送！",
+        "link": "https://www.ershicimi.com/p/1e51582c41c7805c59f894ac0b558ebc",
+        "date": "2021-04-22"
+      },
+      {
+        "title": "“91系列”资源网凉了，500余网站被封杀！",
+        "link": "https://www.ershicimi.com/p/0bed6b73ce10115a7772007819566759",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "又一款Nginx 管理可视化神器！通过界面完成配置监控，一条龙！(含视频教程)",
+        "link": "https://www.ershicimi.com/p/89ce1571fe3a98e2b10b22704cfc2ab8",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "史上最便捷搭建 Zookeeper 的方法！",
+        "link": "https://www.ershicimi.com/p/5e67ef398eb20d79c7d29f61df081920",
+        "date": "2021-04-21"
+      },
+      {
+        "title": "最牛逼的 Java 日志框架，性能无敌，横扫所有对手。。",
+        "link": "https://www.ershicimi.com/p/6b35f4234129fb29f6ede8217db119f9",
+        "date": "2021-04-20"
+      },
+      {
+        "title": "面试官：这货一听就是一个水货...",
+        "link": "https://www.ershicimi.com/p/4cd5ec66abb14528944a41f85d2975ba",
+        "date": "2021-04-20"
+      },
+      {
         "title": "张一鸣：年轻人一定要懂得延迟满足",
         "link": "https://www.ershicimi.com/p/631875b30a78dde15c91f99d1e597f59",
         "date": "2021-04-19"
@@ -19960,46 +20000,6 @@
         "title": "这几天研究了一下JDK14，发现它处理NPE的方式，真香！",
         "link": "https://www.ershicimi.com/p/605589b9d93fd4d27da821eb776e6f27",
         "date": "2021-04-16"
-      },
-      {
-        "title": "华为，终于摊牌了！",
-        "link": "https://www.ershicimi.com/p/74f26fd88e588f6b592943d20a78a025",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "卧槽！新来的妹纸rm -rf把公司整个数据库删没了，整个项目组慌了~",
-        "link": "https://www.ershicimi.com/p/b7a0423e7da7dc6fd65db9b40fcd20f4",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "还在搞三层架构？DDD 分层架构了解下！",
-        "link": "https://www.ershicimi.com/p/a04a78261a9d54d19065ee7909bdeffc",
-        "date": "2021-04-15"
-      },
-      {
-        "title": "「大数据知识体系总结(2021版)」开放下载了！",
-        "link": "https://www.ershicimi.com/p/445c7fe39315b2d813afaec7df857611",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "面进了心心念念的国企！以为TM上岸了！干了1年！我却再次选择回到互联网大厂内卷！",
-        "link": "https://www.ershicimi.com/p/db7e82a04953492788a874a9757a5b56",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "Spring Boot 接入支付宝，实战来了！",
-        "link": "https://www.ershicimi.com/p/5a98eb3d127f7daf03b36ae22c10989a",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "华为员工违规领夜宵被发现后，被罚冻薪降考评，终身不得领夜宵，HR：哪个员工上班健身，定性考勤造",
-        "link": "https://www.ershicimi.com/p/c19611f0b8b6a2b32e8965e2451ea68b",
-        "date": "2021-04-13"
-      },
-      {
-        "title": "Java 8 中的 CompletableFuture 太好用了！20 个示例全分享…",
-        "link": "https://www.ershicimi.com/p/e3da5c3f0f4f6e9d7b95cf7000550f8e",
-        "date": "2021-04-13"
       }
     ]
   },
@@ -20774,108 +20774,28 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "Redis 进阶笔记",
-        "link": "https://toutiao.io/k/ti0gb8i",
+        "title": "动态规划到底有多难？",
+        "link": "https://toutiao.io/k/lj0lgn0",
         "date": "2021-04-23"
       },
       {
-        "title": "互联网：逻辑上的黑话才是真正的花里胡哨",
-        "link": "https://toutiao.io/k/hk3xm6e",
+        "title": "ClickHouse 在 Bilibili 用户行为分析的实践",
+        "link": "https://toutiao.io/k/90vs9kg",
         "date": "2021-04-23"
       },
       {
-        "title": "谈谈 Kubernetes 的问题和局限性",
-        "link": "https://toutiao.io/k/0t3be9z",
+        "title": "Spring Boot 开发秘籍：集成 Graphql Query",
+        "link": "https://toutiao.io/k/rsrt60z",
         "date": "2021-04-23"
       },
       {
-        "title": "面试必备常见存储引擎与锁的分类，请查收",
-        "link": "https://toutiao.io/k/lyccgvn",
+        "title": "线上环境大规模 RocketMQ 集群不停机优雅升级实践",
+        "link": "https://toutiao.io/k/qs3lo9r",
         "date": "2021-04-23"
       },
       {
-        "title": "Nginx：不管正向还是反向我通通代理",
-        "link": "https://toutiao.io/k/0iqkotc",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "Seata 搭建与分布式事务入门",
-        "link": "https://toutiao.io/k/n0npgg0",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "Flink 在唯品会的实践",
-        "link": "https://toutiao.io/k/s1yoo7q",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "测试平台的发展与未来趋势",
-        "link": "https://toutiao.io/k/6mr06fm",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "Homebrew 图形化管理软件 Cakebrew，我再也不用记命令了",
-        "link": "https://toutiao.io/k/b5awuuy",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "太强大了，Feign 对接 YAPI 实现自动 Mock",
-        "link": "https://toutiao.io/k/qfzkjty",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "ShutdownHook 原理",
-        "link": "https://toutiao.io/k/n8y1wql",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "面试官：你知道 Dubbo 怎么做优雅上下线的吗？你：优雅上下线是啥？",
-        "link": "https://toutiao.io/k/qcp2ayr",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "聊聊 Code Review",
-        "link": "https://toutiao.io/k/29pxjdo",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "工具 | 一款上手简单，功能强大的 Python 爬虫框架",
-        "link": "https://toutiao.io/k/6b507a7",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "Python 数据可视化：DataFrame.plot() 函数绘制数据图",
-        "link": "https://toutiao.io/k/4f1i9kn",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "细数分布式 ID 生成策略",
-        "link": "https://toutiao.io/k/gs9x659",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "[译] 纯 CSS 图片碎裂动画教程",
-        "link": "https://toutiao.io/k/e8tthtb",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "LeetCode 1006：笨阶乘",
-        "link": "https://toutiao.io/k/scjloxy",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "服务网格平稳落地：Istio 中精准控制 Sidecar 的注入",
-        "link": "https://toutiao.io/k/flemmhy",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "[译] 代码会死循环吗？Go 异步抢占",
-        "link": "https://toutiao.io/k/5gb5ik0",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
+        "title": "且慢！听说你线上环境准备选型 Elasticsearch SQL 了？",
+        "link": "https://toutiao.io/k/ibayz48",
         "date": "2021-04-23"
       },
       {
@@ -20884,58 +20804,13 @@
         "date": "2021-04-23"
       },
       {
-        "title": "[推荐] 超级详细的 Spring Boot 注解总结",
-        "link": "https://toutiao.io/k/zxa65u1",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "[推荐] RESTful API 设计最佳实践",
-        "link": "https://toutiao.io/k/4zqz7k1",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-23"
-      },
-      {
         "title": "[推荐] 我很久没写代码了，但我是个好架构师",
         "link": "https://toutiao.io/k/gauwubg",
         "date": "2021-04-23"
       },
       {
-        "title": "[推荐] OpenResty 实现限流",
-        "link": "https://toutiao.io/k/syxnrph",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "[推荐] 这 11 款 Chrome 神器，用起来爽到爆",
-        "link": "https://toutiao.io/k/czntgsa",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
-        "date": "2021-04-23"
-      },
-      {
-        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
-        "link": "https://toutiao.io/k/811or1j",
+        "title": "[推荐] 超级详细的 Spring Boot 注解总结",
+        "link": "https://toutiao.io/k/zxa65u1",
         "date": "2021-04-23"
       },
       {
@@ -20944,8 +20819,58 @@
         "date": "2021-04-23"
       },
       {
+        "title": "[推荐] 这 11 款 Chrome 神器，用起来爽到爆",
+        "link": "https://toutiao.io/k/czntgsa",
+        "date": "2021-04-23"
+      },
+      {
         "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
         "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "[推荐] OpenResty 实现限流",
+        "link": "https://toutiao.io/k/syxnrph",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "[推荐] RESTful API 设计最佳实践",
+        "link": "https://toutiao.io/k/4zqz7k1",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
         "date": "2021-04-23"
       }
     ]
@@ -20955,6 +20880,56 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "【安全圈】代码测试公司Codecov遭到黑客入侵事件",
+        "link": "https://sec.thief.one/article_content?a_id=dfa61ce4c38d21c7280cc9244399fdd7",
+        "date": "2021-04-22"
+      },
+      {
+        "title": "每日攻防资讯简报[Apr.22th]",
+        "link": "https://sec.thief.one/article_content?a_id=018ab3afa92779a4f538264a685e11a3",
+        "date": "2021-04-22"
+      },
+      {
+        "title": "【漏洞通告】WebSphere XML外部实体(XXE)注入漏洞(CVE-...",
+        "link": "https://sec.thief.one/article_content?a_id=4cf370fb5c1285d3cb779802fc8bc70e",
+        "date": "2021-04-22"
+      },
+      {
+        "title": "Python 与 Excel 终于互通了 !",
+        "link": "https://sec.thief.one/article_content?a_id=86c056b613d9c67b1a8a72f2eb6e73ed",
+        "date": "2021-04-22"
+      },
+      {
+        "title": "419五周年丨谭晓生:在回顾与展望之间 谈谈网络安全产业热点与热词",
+        "link": "https://sec.thief.one/article_content?a_id=d0a6e6d34c1b501424ce4afbfc52b6bd",
+        "date": "2021-04-22"
+      },
+      {
+        "title": "CCTV新闻频道:奇安信等头部企业入驻金科新区首个起步楼宇",
+        "link": "https://sec.thief.one/article_content?a_id=171a71adcd015e02e20caf01f48ca156",
+        "date": "2021-04-22"
+      },
+      {
+        "title": "不要随便迷信大佬",
+        "link": "https://sec.thief.one/article_content?a_id=a2f8d1724c51e28c8df3bf53e5a1abc3",
+        "date": "2021-04-22"
+      },
+      {
+        "title": "用安全守护草原的梦|企业联合公益活动—MiSRC",
+        "link": "https://sec.thief.one/article_content?a_id=63247dd80d7c8ac38642065552c9373c",
+        "date": "2021-04-22"
+      },
+      {
+        "title": "「议题前瞻」基于AI流量分析模型的数据安全解决方案丨FreeBuf企业...",
+        "link": "https://sec.thief.one/article_content?a_id=1c2958e63d92f9a6c2def0f2c1ed55f3",
+        "date": "2021-04-22"
+      },
+      {
+        "title": "2020年有多达61%的公司受到勒索软件的冲击",
+        "link": "https://sec.thief.one/article_content?a_id=5d3e9c67022a86334b8dd801faea9e95",
+        "date": "2021-04-22"
+      },
       {
         "title": "【技术分享】CVE-2021-25646 Apache Druid 远程代码执行漏洞分析",
         "link": "https://sec.thief.one/article_content?a_id=54a7388ffac6d5d8765203a746a6f41c",
@@ -21404,56 +21379,6 @@
         "title": "二维码扫码登录是什么原理",
         "link": "https://sec.thief.one/article_content?a_id=95668edc499ceef30e05175f6f9f73f7",
         "date": "2021-04-20"
-      },
-      {
-        "title": "15 个让新手爱不释手的 Python 高级库",
-        "link": "https://sec.thief.one/article_content?a_id=8817a8f0da3cb5b215308ee3b23da25f",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "视频 | 全球最神秘的三大黑客组织",
-        "link": "https://sec.thief.one/article_content?a_id=d483702dbd251d739b7bc00795be0a85",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "快递公司泄露公民信息?竟是“内鬼”与境外诈骗组织搭伙所为",
-        "link": "https://sec.thief.one/article_content?a_id=1a9704e31c039d71737e346fb3837807",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "【安全圈】配送平台 Mercato 发生数据泄露 却没向用户发出提醒",
-        "link": "https://sec.thief.one/article_content?a_id=81be561532105dc010d6ae464334c895",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "【安全热点周报】第190期:连爆两枚V8引擎远程代码执行漏洞,影响...",
-        "link": "https://sec.thief.one/article_content?a_id=7a0ad2e31bee46eee0a5742eed2525a8",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "CNNVD 关于微信Windows客户端远程代码执行漏洞的预警",
-        "link": "https://sec.thief.one/article_content?a_id=352d960ae99698bbbe06c0e5b06a4e94",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "神奇的一行代码,让 Python 轻松跑赢 C++",
-        "link": "https://sec.thief.one/article_content?a_id=f485194776de5519c763cb47e80a170c",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "公众号一年能挣多少钱?",
-        "link": "https://sec.thief.one/article_content?a_id=ba49ac28993d2419741ef61da38b9cd5",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "新华社聚焦“信息泄露”|数十亿条个人信息明码标价 “潜规则”盛行...",
-        "link": "https://sec.thief.one/article_content?a_id=fc51db63c8762bc1d8df864193bf083a",
-        "date": "2021-04-19"
-      },
-      {
-        "title": "邀请函 | 西湖论剑·“网安兵工厂”邀您来观展(文末惊喜)",
-        "link": "https://sec.thief.one/article_content?a_id=aa1b4f99b2cc9e6c100d312c5e45ab2c",
-        "date": "2021-04-19"
       }
     ]
   },

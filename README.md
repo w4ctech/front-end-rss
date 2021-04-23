@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-23 03:13:35，:rocket: 更新条数: +4259， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-23 03:25:52，:rocket: 更新条数: +4258， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-23-oracle-官网貌似炸了](https://www.v2ex.com/t/772671) ![](assets/new.png)  
+- [2021-04-23-Airpods-Pro-在-iPhone-和-Mac-之间切换的问题](https://www.v2ex.com/t/772670) ![](assets/new.png)  
 - [2021-04-23-有哪位小哥是在汇丰的么](https://www.v2ex.com/t/772667) ![](assets/new.png)  
 - [2021-04-23-求助，浏览器访问大多数网页，网页都无法访问](https://www.v2ex.com/t/772666) ![](assets/new.png)  
 - [2021-04-23-ios,-ip12-有没有小组件可以关闭-wifi-的](https://www.v2ex.com/t/772665) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-23-PyCharm-限时优惠官方活动，感兴趣的可以看看。](https://www.v2ex.com/t/772650) ![](assets/new.png)  
 - [2021-04-23-错峰招人！-4-月大厂再放-30000+岗位！](https://www.v2ex.com/t/772649) ![](assets/new.png)  
 - [2021-04-23-前端充电站，武汉我们来了](https://www.v2ex.com/t/772648) ![](assets/new.png)  
-- [2021-04-23-mac-对话框焦点切换的快捷键是什么](https://www.v2ex.com/t/772647) ![](assets/new.png)  
-- [2021-04-23-关于-API-文档撰写方式](https://www.v2ex.com/t/772646) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,9 +1067,9 @@
 - [2021-04-23-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
 - [2021-04-23-且慢！听说你线上环境准备选型-Elasticsearch-SQL-了？](https://toutiao.io/k/ibayz48) ![](assets/new.png)  
 - [2021-04-23-Spring-Boot-开发秘籍：集成-Graphql-Query](https://toutiao.io/k/rsrt60z) ![](assets/new.png)  
+- [2021-04-23-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
 - [2021-04-23-基于-Flutter-的-Web-渲染引擎-“北海”-正式开源](https://toutiao.io/k/p0j6743) ![](assets/new.png)  
 - [2021-04-23-微信游戏推荐系统大揭秘](https://toutiao.io/k/bout3eu) ![](assets/new.png)  
-- [2021-04-23-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
 - [2021-04-23-华为汽车中自动驾驶目标检测怎么理解？（通过跨模式的雷达目标检测）](https://toutiao.io/k/qffk98w) ![](assets/new.png)  
 - [2021-04-23-一道诡异的题目背后的知识：代理模式](https://toutiao.io/k/qd562wq) ![](assets/new.png)  
 - [2021-04-23-使用-ccls-作为-C/C++-的补全方案](https://toutiao.io/k/1vtcnhv) ![](assets/new.png)  
@@ -1077,7 +1077,7 @@
 - [2021-04-23-一个-Go-升级引起的血案](https://toutiao.io/k/ey8ppav) ![](assets/new.png)  
 - [2021-04-23-大前端书单：两大互联网巨头握手言和，小程序开发有魅力更有痛点](https://toutiao.io/k/a3a172f) ![](assets/new.png)  
 - [2021-04-23-嘁，哪有什么金三银四，一年四季都是面试](https://toutiao.io/k/ulemm5i) ![](assets/new.png)  
-- [2021-04-23-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
+- [2021-04-23-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

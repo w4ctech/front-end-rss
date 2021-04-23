@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-23 03:13:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-23 03:25:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-23-oracle-官网貌似炸了](https://www.v2ex.com/t/772671) 
+- [2021-04-23-Airpods-Pro-在-iPhone-和-Mac-之间切换的问题](https://www.v2ex.com/t/772670) 
 - [2021-04-23-有哪位小哥是在汇丰的么](https://www.v2ex.com/t/772667) 
 - [2021-04-23-求助，浏览器访问大多数网页，网页都无法访问](https://www.v2ex.com/t/772666) 
 - [2021-04-23-ios,-ip12-有没有小组件可以关闭-wifi-的](https://www.v2ex.com/t/772665) 
@@ -44,6 +46,3 @@
 - [2021-04-23-苹果并没有合并-Mac-和-iPad-的打算](https://www.v2ex.com/t/772624) 
 - [2021-04-23-给一块被换下来的-MacBook-SSD-买了一个-pcie-接口的转接器安装在-Windows-电脑上，却发现没什么用！](https://www.v2ex.com/t/772623) 
 - [2021-04-23-求问，-Linux-热点+桥接模式下，客户端能-ping-到路由器，但是路由器-ping-不到客户端有什么原因？](https://www.v2ex.com/t/772622) 
-- [2021-04-23-程序员日常英文水平怎么提高？-Java-别再读“渣蛙”了！](https://www.v2ex.com/t/772621) 
-- [2021-04-23-有没有人使用过-bartender-打印条码,-进行二次开发有什么注意的,支持-Java-吗](https://www.v2ex.com/t/772620) 
-- [2021-04-23-Mac-用雷霆接口外接显示器这么恶心？](https://www.v2ex.com/t/772619) 

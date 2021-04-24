@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-24 06:54:39，:rocket: 更新条数: +4242， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-24 07:07:07，:rocket: 更新条数: +4222， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
@@ -808,26 +808,6 @@
 </summary>
 
 
-- [2021-04-22-耗子叔也曾是我榜样！](https://www.ershicimi.com/p/09b3301fd71d5c495ec1e6c2a15f934c) ![](assets/new.png)  
-- [2021-04-22-武汉最最最牛逼的IT公司全在这了](https://www.ershicimi.com/p/d616b1418ef9c419d3376ea56adac073) ![](assets/new.png)  
-- [2021-04-22-Spring-Boot-集成-WebSocket，轻松实现信息推送！](https://www.ershicimi.com/p/1e51582c41c7805c59f894ac0b558ebc) ![](assets/new.png)  
-- [2021-04-21-“91系列”资源网凉了，500余网站被封杀！](https://www.ershicimi.com/p/0bed6b73ce10115a7772007819566759) ![](assets/new.png)  
-- [2021-04-21-又一款Nginx-管理可视化神器！通过界面完成配置监控，一条龙！含视频教程](https://www.ershicimi.com/p/89ce1571fe3a98e2b10b22704cfc2ab8) ![](assets/new.png)  
-- [2021-04-21-史上最便捷搭建-Zookeeper-的方法！](https://www.ershicimi.com/p/5e67ef398eb20d79c7d29f61df081920) ![](assets/new.png)  
-- [2021-04-20-最牛逼的-Java-日志框架，性能无敌，横扫所有对手。。](https://www.ershicimi.com/p/6b35f4234129fb29f6ede8217db119f9) ![](assets/new.png)  
-- [2021-04-20-面试官：这货一听就是一个水货...](https://www.ershicimi.com/p/4cd5ec66abb14528944a41f85d2975ba) ![](assets/new.png)  
-- [2021-04-19-张一鸣：年轻人一定要懂得延迟满足](https://www.ershicimi.com/p/631875b30a78dde15c91f99d1e597f59) ![](assets/new.png)  
-- [2021-04-19-一个注解搞定-Spring-Boot-日志！还有谁不会？](https://www.ershicimi.com/p/4443b2b62cf48cc729da4e78c418388e) ![](assets/new.png)  
-- [2021-04-19-某程序员的薪水变化数据](https://www.ershicimi.com/p/9948676ce5584e006d0c52be2fc7f6e1) ![](assets/new.png)  
-- [2021-04-18-拆解1968年的美国军用电脑，真的怀疑是“穿越”啊！](https://www.ershicimi.com/p/82755712109cebb009cdd10bbd5fce96) ![](assets/new.png)  
-- [2021-04-18-面试过程中，竟然遇到PUA，我不得不服这种“潜规则”～](https://www.ershicimi.com/p/3d61488bb0d160821d4ec6bc1361ebb6) ![](assets/new.png)  
-- [2021-04-18-Java-正则表达式处理复杂文本，效率就是高！](https://www.ershicimi.com/p/3c527ff137987abc0f73a6da1e96cc97) ![](assets/new.png)  
-- [2021-04-17-我做了10年架构，离职后才明白：决定你工资上限的是这件事！](https://www.ershicimi.com/p/52f21dbe0f9f2164145ac0e586a71490) ![](assets/new.png)  
-- [2021-04-17-知乎高赞：为什么许多原本的-Java-项目都试图用-go-进行重写开源？](https://www.ershicimi.com/p/dd33036899a51dad32e5663d751ef657) ![](assets/new.png)  
-- [2021-04-17-京东笔试题：如何实现-MySQL-删除重复记录并且只保留一条？](https://www.ershicimi.com/p/2a8af1550c1b975fcdc25e7ccd697a25) ![](assets/new.png)  
-- [2021-04-16-笑死，小米新logo是这么来的](https://www.ershicimi.com/p/ed2ac4d1aa54c6595bff0da90f5c085d) ![](assets/new.png)  
-- [2021-04-16-大佬带路，用Java实现天天酷跑（附源码），网友：这也太TM屌了~](https://www.ershicimi.com/p/a874975d2bd26cdec261c3f73ac2a154) ![](assets/new.png)  
-- [2021-04-16-这几天研究了一下JDK14，发现它处理NPE的方式，真香！](https://www.ershicimi.com/p/605589b9d93fd4d27da821eb776e6f27) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1048,16 @@
 - [2021-04-24-什么是蠢问题？](https://toutiao.io/k/p2tmwwq) ![](assets/new.png)  
 - [2021-04-24-工具-|-阿里巴巴开源的，基于-Flutter-的-Web-渲染引擎](https://toutiao.io/k/o33m49w) ![](assets/new.png)  
 - [2021-04-24-加密原理详解：对称式加密-VS-非对称式加密](https://toutiao.io/k/q4va51n) ![](assets/new.png)  
-- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-24-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
-- [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
-- [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-24-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-24-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
-- [2021-04-24-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
 - [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-04-24-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
+- [2021-04-24-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-24-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
+- [2021-04-24-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
 - [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-24-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

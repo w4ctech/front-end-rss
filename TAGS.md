@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-24 10:51:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 11:02:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -457,6 +457,7 @@
 - [【前端日刊】面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219)
 - [【InfoQ】十六年全栈开发者的-Android-开发踩坑实录](https://www.ershicimi.com/p/a24dbb5328b7c0fb3027390ecf5a6a15)
 - [【JavaScript】Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29)
+- [【V2EX】远程全职-诚聘前端工程师、服务器端工程师、全栈工程师](https://www.v2ex.com/t/772965)
 - [【V2EX】关于-CF-的疑惑，-https-强制要不要打开](https://www.v2ex.com/t/772960)
 - [【V2EX】gRPC-封装-HTTP-服务如何做参数校验？](https://www.v2ex.com/t/772959)
 - [【V2EX】vim-命令卡住](https://www.v2ex.com/t/772941)

@@ -1,16 +1,16 @@
-:alarm_clock: 更新时间: 2021-04-24 12:24:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 12:43:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2021-04-24-4月23日全国新增新冠9例-均由境外输入](https://m.caixin.com/m/2021-04-24/101698448.html) 
+- [2021-04-24-最新疫情：全国新冠累计确诊90575例-累计接种新冠疫苗超2.16亿剂次](https://m.caixin.com/m/2021-04-24/101698646.html) 
+- [2021-04-24-最新海外疫情：新冠感染超1.45亿-累计死亡超307万](https://m.caixin.com/m/2021-04-24/101698643.html) 
 - [2021-04-24-【境内疫情观察】全国新增9例境外输入病例（4月23日）](http://m.database.caixin.com/m/2021-04-24/101698582.html) 
 - [2021-04-24-美CDC撤销停用强生疫苗建议-世卫强烈担忧印度疫情｜大流行手记（4月23日）](https://m.caixin.com/m/2021-04-24/101698456.html) 
 - [2021-04-23-错报逾30宗假阳性-华大香港化验所致歉将整改](http://m.china.caixin.com/m/2021-04-23/101698321.html) 
 - [2021-04-23-上海新增5例境外输入病例-1人隔离结束后确诊](https://m.caixin.com/m/2021-04-23/101697646.html) 
-- [2021-04-23-最新海外疫情：新冠感染超1.44亿-累计死亡超306万](https://m.caixin.com/m/2021-04-23/101698221.html) 
 - [2021-04-23-【境内疫情观察】全国累计接种新冠疫苗超2亿剂次（4月22日）](http://m.database.caixin.com/m/2021-04-23/101698025.html) 
 - [2021-04-23-美国完成2亿剂疫苗接种-日本拟第三次发布紧急事态宣言｜大流行手记（4月22日）](https://m.caixin.com/m/2021-04-23/101697601.html) 
 - [2021-04-22-香港高校开展疫苗接种者抗体浓度研究](https://m.caixin.com/m/2021-04-22/101696975.html) 
@@ -3437,14 +3437,14 @@
 - [2021-04-24-Android-嵌套-Intent](https://toutiao.io/k/xs1ylcq) 
 - [2021-04-24-什么是蠢问题？](https://toutiao.io/k/p2tmwwq) 
 - [2021-04-24-加密原理详解：对称式加密-VS-非对称式加密](https://toutiao.io/k/q4va51n) 
+- [2021-04-24-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
 - [2021-04-24-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) 
 - [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
-- [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
 - [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) 
-- [2021-04-24-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
+- [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) 
+- [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
 - [2021-04-24-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
 - [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
-- [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) 
 - [2021-04-24-趋势关注:为什么XDR必须包含MDR](https://sec.thief.one/article_content?a_id=a9311a93dfc2b8558d833ddb3db511d2) 
 - [2021-04-24-议题征集中!2021-SDC不见不散!](https://sec.thief.one/article_content?a_id=767f406cda735de4617907c829ad9cd6) 
 - [2021-04-24-全国革命文物百佳讲述人候选人作品展播④](https://sec.thief.one/article_content?a_id=89df0c272782038d2d2414b16c6c8a61) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-24 07:24:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 07:38:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-24-深圳/北美-招聘高级-IOS-前端/H5-前端/后端/全栈-|-20k-50k-|-有机会赴美工作](https://www.v2ex.com/t/772933) 
+- [2021-04-24-想要在带有-T2-芯片的-Macbook-上看-Netflix-4K-你不只需要-Big-Sur-还需要开启-SIP。](https://www.v2ex.com/t/772932) 
 - [2021-04-24-airpods-在安卓上使用无法正确播放双声道](https://www.v2ex.com/t/772930) 
 - [2021-04-24-MacBook-Pro-M1-13-英寸-以-xcode-为主要使用场景-可以续航多长时间呢？](https://www.v2ex.com/t/772928) 
 - [2021-04-24-iOS-14.5-进一步恶心了-Home-键-iPhone-用户](https://www.v2ex.com/t/772926) 
@@ -34,5 +36,3 @@
 - [2021-04-24-我打算做个类似-travian-和方便面三国的页游出来，结合区块链，-大家觉得怎么样](https://www.v2ex.com/t/772887) 
 - [2021-04-24-三星-Galaxy-Buds+-连接-win10-会有电流声该怎么解决？](https://www.v2ex.com/t/772886) 
 - [2021-04-24-定时截取指定程序的窗口，并识别指定区域的文字，如果符合结果就发通知，大家有好的思路嘛？](https://www.v2ex.com/t/772885) 
-- [2021-04-24-iPhone-受信任的企业级应用和-app-store-的应用在隐私权限方面的区别。](https://www.v2ex.com/t/772883) 
-- [2021-04-24-websocket-和在-springboot-中使用它的一些问题](https://www.v2ex.com/t/772882) 

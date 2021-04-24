@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-24 00:26:56，:rocket: 更新条数: +4245， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-24 00:47:31，:rocket: 更新条数: +4250， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-24-为什么不聚集群众力量做好有价值的开源项目？](https://www.v2ex.com/t/772865) ![](assets/new.png)  
+- [2021-04-24-尼尔-伪装者你给几分？](https://www.v2ex.com/t/772864) ![](assets/new.png)  
 - [2021-04-24-“裸辞后，考个-AWS-开发者”-这能提高自己找好工作的几率吗？](https://www.v2ex.com/t/772862) ![](assets/new.png)  
 - [2021-04-23-打车调度题，大家帮忙分析下](https://www.v2ex.com/t/772861) ![](assets/new.png)  
 - [2021-04-23-Docker-不对外暴露端口还需要-ipv6nat-吗？](https://www.v2ex.com/t/772860) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-23-Mac-版本的全面战争：三国-Total-War:-Three-Kingdoms-无法运行](https://www.v2ex.com/t/772846) ![](assets/new.png)  
 - [2021-04-23-想系统地学一下-Redis-有啥好的方法吗？](https://www.v2ex.com/t/772845) ![](assets/new.png)  
 - [2021-04-23-想要狗狗币吗？来看看猫猫币~](https://www.v2ex.com/t/772843) ![](assets/new.png)  
-- [2021-04-23-求助大佬们,M1-chip-现在有办法安装-tensorflow1.x-吗,如果有的话-balball-大佬们分享下](https://www.v2ex.com/t/772842) ![](assets/new.png)  
-- [2021-04-23-印度区-Google-One-不接受国内的外币信用卡](https://www.v2ex.com/t/772841) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1059,23 +1059,25 @@
 
 
 - [2021-04-24-如何正确新增字段](https://toutiao.io/k/13htx1u) ![](assets/new.png)  
-- [2021-04-24-一文带你更方便的控制-goroutine](https://toutiao.io/k/ye0n3l3) ![](assets/new.png)  
 - [2021-04-24-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-04-24-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
-- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
-- [2021-04-24-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-24-一文带你更方便的控制-goroutine](https://toutiao.io/k/ye0n3l3) ![](assets/new.png)  
+- [2021-04-24-CPU-和-GPU：异构计算的演进与发展](https://toutiao.io/k/yk8may5) ![](assets/new.png)  
+- [2021-04-24-Android-嵌套-Intent](https://toutiao.io/k/xs1ylcq) ![](assets/new.png)  
+- [2021-04-24-加密原理详解：对称式加密-VS-非对称式加密](https://toutiao.io/k/q4va51n) ![](assets/new.png)  
+- [2021-04-24-代码评审中的代码协同](https://toutiao.io/k/m00a5i0) ![](assets/new.png)  
+- [2021-04-24-实时数仓中的消息队列技术深度对比](https://toutiao.io/k/us38se6) ![](assets/new.png)  
+- [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
 - [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [2021-04-24-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
 - [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-24-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-24-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
-- [2021-04-24-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-24-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
+- [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-24-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
 - [2021-04-24-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
+- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-24-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
+- [2021-04-24-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

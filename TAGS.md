@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-24 00:26:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 00:47:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -459,6 +459,7 @@
 - [【V2EX】滴滴出行-北京、杭州、成都、深圳内推-前端/-Java-/Android/-iOS/算法/-Python-/Go/C++-/数据/-PHP-/数据/产品/运营等各类职位大量招聘，月-20k-80k，优秀另有...](https://www.v2ex.com/t/772859)
 - [【V2EX】每个设计开发产品都应该去看的网站-https://grumpy.website/](https://www.v2ex.com/t/772819)
 - [【技术头条】十六年全栈开发者的-Android-开发踩坑实录-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLiRIV5XAvToTpLTLRSkxdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】CPU-和-GPU：异构计算的演进与发展](https://toutiao.io/k/yk8may5)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -501,7 +502,6 @@
 - [【JavaScript】Atom-1.56.0-发布，GitHub-官方文本编辑器](https://www.ershicimi.com/p/c35fb03a8c5fe27e9d8bfcb139d2a679)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【V2EX】如何下载-Github-项目中的单个文件](https://www.v2ex.com/t/772814)
 - [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

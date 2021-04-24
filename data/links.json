@@ -20475,6 +20475,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "“裸辞后，考个 AWS 开发者” 这能提高自己找好工作的几率吗？",
+        "link": "https://www.v2ex.com/t/772862",
+        "date": "2021-04-24"
+      },
+      {
         "title": "打车调度题，大家帮忙分析下",
         "link": "https://www.v2ex.com/t/772861",
         "date": "2021-04-23"
@@ -20794,103 +20799,23 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "低代码开发到底有什么应用价值？",
-        "link": "https://toutiao.io/k/tvdht9b",
+        "title": "如何正确新增字段",
+        "link": "https://toutiao.io/k/13htx1u",
         "date": "2021-04-24"
       },
       {
-        "title": "什么是电商 API？这是它能给电商开发人员带来 12 种好处",
-        "link": "https://toutiao.io/k/g05k38l",
+        "title": "一文带你更方便的控制 goroutine",
+        "link": "https://toutiao.io/k/ye0n3l3",
         "date": "2021-04-24"
       },
       {
-        "title": "用户画像的基础、原理、方法论（模型）和应用",
-        "link": "https://toutiao.io/k/nrdp4oq",
+        "title": "书单丨“1 本抵 10 本” 的好书，建议收藏",
+        "link": "https://toutiao.io/k/08uadl6",
         "date": "2021-04-24"
       },
       {
-        "title": "ClickHouse 在 Bilibili 用户行为分析的实践",
-        "link": "https://toutiao.io/k/90vs9kg",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "动态规划到底有多难？",
-        "link": "https://toutiao.io/k/lj0lgn0",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "如何设计一个高性能的秒杀系统",
-        "link": "https://toutiao.io/k/6z3uu2m",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "线上环境大规模 RocketMQ 集群不停机优雅升级实践",
-        "link": "https://toutiao.io/k/qs3lo9r",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "把 Redis 当作队列来用，真的合适吗？",
-        "link": "https://toutiao.io/k/2aonyjp",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "且慢！听说你线上环境准备选型 Elasticsearch SQL 了？",
-        "link": "https://toutiao.io/k/ibayz48",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "基于 Flutter 的 Web 渲染引擎 “北海” 正式开源",
-        "link": "https://toutiao.io/k/p0j6743",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "一道诡异的题目背后的知识：代理模式",
-        "link": "https://toutiao.io/k/qd562wq",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "Spring Boot 开发秘籍：集成 Graphql Query",
-        "link": "https://toutiao.io/k/rsrt60z",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "如何成为一名合格的 Android 开发工程师（技能篇）",
-        "link": "https://toutiao.io/k/c3m9qdm",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "微信游戏推荐系统大揭秘",
-        "link": "https://toutiao.io/k/bout3eu",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "华为汽车中自动驾驶目标检测怎么理解？（通过跨模式的雷达目标检测）",
-        "link": "https://toutiao.io/k/qffk98w",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "嘁，哪有什么金三银四，一年四季都是面试",
-        "link": "https://toutiao.io/k/ulemm5i",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "一个 Go 升级引起的血案",
-        "link": "https://toutiao.io/k/ey8ppav",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "这个鸡腿是你能惦记的",
-        "link": "https://toutiao.io/k/pd88mly",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "大前端书单：两大互联网巨头握手言和，小程序开发有魅力更有痛点",
-        "link": "https://toutiao.io/k/a3a172f",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "使用 ccls 作为 C/C++ 的补全方案",
-        "link": "https://toutiao.io/k/1vtcnhv",
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-24"
       },
       {
@@ -20899,18 +20824,13 @@
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
-        "link": "https://toutiao.io/k/7uw9l2r",
+        "title": "[推荐] 这 11 款 Chrome 神器，用起来爽到爆",
+        "link": "https://toutiao.io/k/czntgsa",
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] RESTful API 设计最佳实践",
-        "link": "https://toutiao.io/k/4zqz7k1",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 一文搞懂分布式锁的原理与实现",
-        "link": "https://toutiao.io/k/j7fdh6h",
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
         "date": "2021-04-24"
       },
       {
@@ -20919,8 +20839,28 @@
         "date": "2021-04-24"
       },
       {
+        "title": "[推荐] 一文搞懂分布式锁的原理与实现",
+        "link": "https://toutiao.io/k/j7fdh6h",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] RESTful API 设计最佳实践",
+        "link": "https://toutiao.io/k/4zqz7k1",
+        "date": "2021-04-24"
+      },
+      {
         "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
         "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
         "date": "2021-04-24"
       },
       {
@@ -20934,38 +20874,18 @@
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
-        "date": "2021-04-24"
-      },
-      {
         "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
         "link": "https://toutiao.io/k/omkb9gy",
         "date": "2021-04-24"
       },
       {
+        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
+        "link": "https://toutiao.io/k/7uw9l2r",
+        "date": "2021-04-24"
+      },
+      {
         "title": "[推荐] OpenResty 实现限流",
         "link": "https://toutiao.io/k/syxnrph",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 这 11 款 Chrome 神器，用起来爽到爆",
-        "link": "https://toutiao.io/k/czntgsa",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
         "date": "2021-04-24"
       }
     ]
@@ -20975,6 +20895,51 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "【安全圈】Facebook高居数据泄露事件最多公司榜首",
+        "link": "https://sec.thief.one/article_content?a_id=11441c958d92ff23d7bf77d02a617714",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "每日攻防资讯简报[Apr.23th]",
+        "link": "https://sec.thief.one/article_content?a_id=35569e14910030ba915d8f3ce720ad0b",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "360安全卫士防“横向渗透”功能新升级,分分钟省了好几亿!",
+        "link": "https://sec.thief.one/article_content?a_id=36a5cbd4fb50549122dfb472122c3843",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "奇安信集团与中国指挥与控制学会达成战略合作",
+        "link": "https://sec.thief.one/article_content?a_id=0944d6b033a854cdcaf844c536920e46",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "写代码,如何变得更牛逼",
+        "link": "https://sec.thief.one/article_content?a_id=f6a33e9e786e366ced1a4127366d2f9f",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "可视化以太坊的未来之路",
+        "link": "https://sec.thief.one/article_content?a_id=17225d69ded7111c0b7d4920b851db2b",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "HVV完了,看过来",
+        "link": "https://sec.thief.one/article_content?a_id=208479c0ffa7469049fa41cd59cd3bf5",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "攻防落幕,来点“回血”福利 | FVIP会员日“预热趴”开启",
+        "link": "https://sec.thief.one/article_content?a_id=70350bda164e6799a1f434e45401a7fe",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "先声夺人|权威机构认可!腾讯云安全托管服务能力居领导者地位",
+        "link": "https://sec.thief.one/article_content?a_id=671a67015dcbb0ef004ac128d8270375",
+        "date": "2021-04-23"
+      },
       {
         "title": "“庆祝建党百年•发现最美铁路”活动在四地同时启动!",
         "link": "https://sec.thief.one/article_content?a_id=8eab32de9956eff98dc8d31a47c82473",
@@ -21429,51 +21394,6 @@
         "title": "勒索软件攻击水平加速,全球驻留时间缩短",
         "link": "https://sec.thief.one/article_content?a_id=8bbf8ab1706033774e5052c69a137973",
         "date": "2021-04-21"
-      },
-      {
-        "title": "Python最佳代码实践:性能、内存和可用性!",
-        "link": "https://sec.thief.one/article_content?a_id=38079abe4c9733f88d297c649592d0c8",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "漫画 | 20多年了,为什么国产CPU还是不行?",
-        "link": "https://sec.thief.one/article_content?a_id=575da36d628861d99790adb76a91c58d",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "黑客攻击物流公司致供应链中断,荷兰超市奶酪短缺",
-        "link": "https://sec.thief.one/article_content?a_id=70ba94c04cfd22724455b81e6787a8d2",
-        "date": "2021-04-21"
-      },
-      {
-        "title": "快递公司员工账号被租用于窃取公民信息!",
-        "link": "https://sec.thief.one/article_content?a_id=2d1b6bdf8b323cf7df7c171a78491c93",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "【安全圈】中国开通全球规模最大的互联网试验设施主干网",
-        "link": "https://sec.thief.one/article_content?a_id=477e2638de560a2e2f2fc1eb0a63447a",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "20210420|漏洞处置情况",
-        "link": "https://sec.thief.one/article_content?a_id=6b0b0c652edd3929beada6d1bb2aa2d9",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "每日攻防资讯简报[Apr.20th]",
-        "link": "https://sec.thief.one/article_content?a_id=0265cdcb55e622d1ff8d5cce2249ecbb",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "奇安信大湾区生态合作伙伴峰会暨深圳(龙岗)网络安全产业交流会成...",
-        "link": "https://sec.thief.one/article_content?a_id=48b0013e27887f56b4567c6679197a9d",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "Chromium issue 1196683、1195777分析",
-        "link": "https://sec.thief.one/article_content?a_id=98966418ff0f847266679f0281907303",
-        "date": "2021-04-20"
       }
     ]
   },

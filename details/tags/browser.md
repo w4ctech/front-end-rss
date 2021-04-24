@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-24 00:09:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 00:26:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,8 +38,10 @@
 - [2021-04-23-求推荐-Navicat-for-PostgreSQL-的开源替代品](https://www.v2ex.com/t/772828) 
 - [2021-04-23-firefox-怎么把地址栏左边-“扩展（xxxxx）”去掉？](https://www.v2ex.com/t/772821) 
 - [2021-04-23-有什么应用软件不光能保存网页管理书签，还能保存纯文本，并且能用内置浏览器打开已保存的网页时自带-Google-翻译](https://www.v2ex.com/t/772816) 
-- [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 
+- [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
+- [2021-04-23-360安全卫士防“横向渗透”功能新升级,分分钟省了好几亿!](https://sec.thief.one/article_content?a_id=36a5cbd4fb50549122dfb472122c3843) 
+- [2021-04-23-先声夺人|权威机构认可!腾讯云安全托管服务能力居领导者地位](https://sec.thief.one/article_content?a_id=671a67015dcbb0ef004ac128d8270375) 
 - [2021-04-23-微信Chrome漏洞复现与简单分析小结](https://sec.thief.one/article_content?a_id=c305b72b74312138b2840b9f8701dc8b) 
 - [2021-04-23-国家漏洞库CNNVD:关于Oracle-WebLogic多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=0d88bf9e3dd212d66902b07637e9a3ea) 
 - [2021-04-22-419五周年丨谭晓生:在回顾与展望之间-谈谈网络安全产业热点与热词](https://sec.thief.one/article_content?a_id=d0a6e6d34c1b501424ce4afbfc52b6bd) 
@@ -57,6 +59,3 @@
 - [2021-04-21-美政府拟出台电网安全冲刺计划:可免费资助安全产品](https://sec.thief.one/article_content?a_id=7f431d6218173991d62c083de495fbea) 
 - [2021-04-21-安全日报2021.04.21](https://sec.thief.one/article_content?a_id=15015d563d6064ad8aa0c425cf7ceb54) 
 - [2021-04-21-四成消费者担心自动驾驶汽车安全问题](https://sec.thief.one/article_content?a_id=3c500e26770655cc6cf46849d39d4577) 
-- [2021-04-20-【安全圈】中国开通全球规模最大的互联网试验设施主干网](https://sec.thief.one/article_content?a_id=477e2638de560a2e2f2fc1eb0a63447a) 
-- [2021-04-20-奇安信大湾区生态合作伙伴峰会暨深圳龙岗网络安全产业交流会成...](https://sec.thief.one/article_content?a_id=48b0013e27887f56b4567c6679197a9d) 
-- [2021-04-20-Chromium-issue-1196683、1195777分析](https://sec.thief.one/article_content?a_id=98966418ff0f847266679f0281907303) 

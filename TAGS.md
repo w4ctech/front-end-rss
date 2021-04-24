@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-24 19:35:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 19:48:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -394,6 +394,7 @@
 - [【程序员成长指北】送书+红包-阿里云专家基于5年一线大厂Web性能优化经验分享书籍](https://www.ershicimi.com/p/7e5d025b87d90b68e57fae7c71dbacbd)
 - [【奇舞周刊】2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152)
 - [【互联网架构师】最牛逼的-Java-日志框架，性能无敌，横扫所有对手。。](https://www.ershicimi.com/p/6b35f4234129fb29f6ede8217db119f9)
+- [【开发者头条】推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -422,7 +423,6 @@
 - [【互联网架构师】Spring-Boot-集成-WebSocket，轻松实现信息推送！](https://www.ershicimi.com/p/1e51582c41c7805c59f894ac0b558ebc)
 - [【JavaScript】Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715)
 - [【V2EX】Java-的-volatile：能否在只使用-volatile-不使用更高级多线程安全措施的前提下，让这段代码按预期工作？](https://www.v2ex.com/t/772992)
-- [【开发者头条】推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo)
 - [【开发者头条】推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa)
 - [【安全热点】聚焦数字中国2021:第二届虎符网络安全大赛开赛在即](https://sec.thief.one/article_content?a_id=567326b6aab0581875a989f039d7630b)
 - [【安全热点】流氓至此,我竟无言以对之Chrome-浏览器主页被篡](https://sec.thief.one/article_content?a_id=907c1837cdac8025a2d0b7ecfe3231e6)
@@ -430,6 +430,7 @@
 - [【安全热点】工业互联网设备的网络安全管理与防护研究](https://sec.thief.one/article_content?a_id=b26ce2da53c39c083d7fadd6adc40729)
 - [【安全热点】360安全卫士防“横向渗透”功能新升级,分分钟省了好几亿!](https://sec.thief.one/article_content?a_id=36a5cbd4fb50549122dfb472122c3843)
 - [【安全热点】先声夺人|权威机构认可!腾讯云安全托管服务能力居领导者地位](https://sec.thief.one/article_content?a_id=671a67015dcbb0ef004ac128d8270375)
+- [【安全热点】微信Chrome漏洞复现与简单分析小结](https://sec.thief.one/article_content?a_id=c305b72b74312138b2840b9f8701dc8b)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -471,8 +472,8 @@
 
 
 - [【InfoQ】Nginx-常用配置清单](https://www.ershicimi.com/p/d1c22f2667db118ad69f36a17c49d609)
-- [【开发者头条】推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph)
 - [【开发者头条】推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1)
+- [【开发者头条】推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

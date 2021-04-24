@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-24 07:07:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 07:24:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-24-airpods-在安卓上使用无法正确播放双声道](https://www.v2ex.com/t/772930) 
+- [2021-04-24-MacBook-Pro-M1-13-英寸-以-xcode-为主要使用场景-可以续航多长时间呢？](https://www.v2ex.com/t/772928) 
 - [2021-04-24-iOS-14.5-进一步恶心了-Home-键-iPhone-用户](https://www.v2ex.com/t/772926) 
 - [2021-04-24-远程/北京/全职-StreamNative——顶级开源项目-Apache-Pulsar-的原厂来招聘了](https://www.v2ex.com/t/772924) 
 - [2021-04-24-请问又要靠抛出异常中断后续操作，又要记录日志时最优雅的操作应该是？（-Java-）](https://www.v2ex.com/t/772923) 
@@ -34,5 +36,3 @@
 - [2021-04-24-定时截取指定程序的窗口，并识别指定区域的文字，如果符合结果就发通知，大家有好的思路嘛？](https://www.v2ex.com/t/772885) 
 - [2021-04-24-iPhone-受信任的企业级应用和-app-store-的应用在隐私权限方面的区别。](https://www.v2ex.com/t/772883) 
 - [2021-04-24-websocket-和在-springboot-中使用它的一些问题](https://www.v2ex.com/t/772882) 
-- [2021-04-24-iPhone-8-ios-14.4.2-昨天更新微信后可以收到微信通知，但进入应用后无法刷新信息，有同样情况的吗？](https://www.v2ex.com/t/772879) 
-- [2021-04-24-有没有-Mac-版/网页版的微信公众号阅读器？](https://www.v2ex.com/t/772878) 

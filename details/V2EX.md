@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-04-24 04:24:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 04:41:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-04-24-大佬们帮看看投影仪问题](https://www.v2ex.com/t/772899) 
 - [2021-04-24-HK$60-以上-iOS-版或者-Mac-版哪个-app-值得买？](https://www.v2ex.com/t/772896) 
 - [2021-04-24-中移动上传增加了啊](https://www.v2ex.com/t/772893) 
 - [2021-04-24-迫于耳机维修-15-天，哪里可以租耳机](https://www.v2ex.com/t/772892) 
@@ -36,7 +37,3 @@
 - [2021-04-23-寻题启示，没有重谢](https://www.v2ex.com/t/772853) 
 - [2021-04-23-求问-18-款-mbp-最低亮度还是太亮了怎么办？](https://www.v2ex.com/t/772852) 
 - [2021-04-23-20210423-午夜俱乐部](https://www.v2ex.com/t/772851) 
-- [2021-04-23-外资美股上市咨询公司招-.NET/前端/iOS/Android/Go，没有-996-无口语要求！](https://www.v2ex.com/t/772850) 
-- [2021-04-23-cocoapods-终于在-M1-不依靠-Rosetta-了](https://www.v2ex.com/t/772849) 
-- [2021-04-23-Cloudflare-CDN-用于非-HTML-的-API-属于滥用吗？](https://www.v2ex.com/t/772848) 
-- [2021-04-23-有用-iPad-pro-修图的老哥吗？](https://www.v2ex.com/t/772847) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-24 21:24:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 21:37:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -21,6 +21,7 @@
 - [2021-04-14-大厂面试常问的Vue-和-React-源码到底该怎么学？](https://www.ershicimi.com/p/b13b323f9196133361f0748ce39fb70f) 
 - [2021-04-06-面试官：谈谈Vue-和-React的异同点](https://www.ershicimi.com/p/dff8bc616a5304fc7308fa8b4359a8e9) 
 - [2020-04-16-ali-react-table：高性能-React-表格组件](https://www.ershicimi.com/p/4aeff96a51a674d7a02add3f8bd49c11) 
+- [2021-04-21-为什么-React-的发展前景更被看好呢？-|-极客时间](https://www.ershicimi.com/p/e1401fff6ed3d3827c393eb3489e1ab0) 
 - [2021-04-14-深度解读便利蜂-React-Native-多版本共存的平滑升级实践](https://www.ershicimi.com/p/1b903e47c678e2fd22cf7e98177a2955) 
 - [2021-04-12-2021年，Flutter-与-React-Native该如何选择？](https://www.ershicimi.com/p/34bb685a09420346000384454a71b0c1) 
 - [2021-04-13-Vue-和-React源码学习指南，进阶必备](https://www.ershicimi.com/p/5b338e27dabd9f57d03746a2ea3200d5) 

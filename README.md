@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-24 21:24:01，:rocket: 更新条数: +712， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-24 21:37:31，:rocket: 更新条数: +712， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -390,6 +390,11 @@
 </summary>
 
 
+- [2021-04-23-闲鱼正在悄悄放弃-Flutter-吗？](https://www.ershicimi.com/p/6a5eec9c3474716924a503b1edca50f3) ![](assets/new.png)  
+- [2021-04-23-迈向-64-位时代，Visual-Studio-2022-要来啦！](https://www.ershicimi.com/p/c70b2cb1f7ffc8de0372d0d9960aacaf) ![](assets/new.png)  
+- [2021-04-23-桌面应用开发利器：Electron-|-极客时间](https://www.ershicimi.com/p/0f8015a46e5bcf69811b6ff9d333851f) ![](assets/new.png)  
+- [2021-04-21-2021年哪些编程语言的薪酬最高？](https://www.ershicimi.com/p/11808f17871b04afd93854540db5a953) ![](assets/new.png)  
+- [2021-04-21-为什么-React-的发展前景更被看好呢？-|-极客时间](https://www.ershicimi.com/p/e1401fff6ed3d3827c393eb3489e1ab0) ![](assets/new.png)  
 - [2021-04-19-从14s到4s，我如何将-MacOS上的-Rust-增量编译时间减少70％？](https://www.ershicimi.com/p/eb44f5f6093c62f8be6c935c97c93cd3) ![](assets/new.png)  
 - [2021-04-19-你在大前端领域最常用的编程语言是？|-InfoQ-编程语言-4-月排行榜](https://www.ershicimi.com/p/9544b1d6b3bdc6d7d1b050557904fb6e) ![](assets/new.png)  
 - [2021-04-18-微信PC版曝高危漏洞，建议尽快更新；中国首个JS语言提案在ECMA进入Stage-3；华为多款手机将](https://www.ershicimi.com/p/1b06ed7c2af312ad740c43e238a54367) ![](assets/new.png)  
@@ -405,11 +410,6 @@
 - [2021-04-11-阿里因“二选一”垄断行为被罚182亿；京东等10家平台承诺不用大数据杀熟；Android加入了对Ru](https://www.ershicimi.com/p/a2e2179e61c40d28c8e70bcc4790e8ef) ![](assets/new.png)  
 - [2021-04-10-哥们，这年头，咱客户端工程师还有前途吗？](https://www.ershicimi.com/p/c7cac79ce5fa3884523fc40fcf32a096) ![](assets/new.png)  
 - [2021-04-09-重写了90%代码之后，Fes.js-2.0能有多简洁？](https://www.ershicimi.com/p/69f4951e53d853fdfdaec51c6326ca36) ![](assets/new.png)  
-- [2021-04-09-InfoQ独家报告《制造业数字化发展模式的先进探索》|免费下载](https://www.ershicimi.com/p/fb278db5b8401b09b2a603ac6f2824fe) ![](assets/new.png)  
-- [2021-04-09-前端人，怎样学习才能财富自由-|-活动推荐](https://www.ershicimi.com/p/485928d67c1588f45e534e9a18656566) ![](assets/new.png)  
-- [2021-04-07-网易轻舟Serverless在前端工程化的实践](https://www.ershicimi.com/p/f88524f7f2a9bd951d8694433219db32) ![](assets/new.png)  
-- [2021-04-07-那些我见过的糟糕代码](https://www.ershicimi.com/p/543ffdfaf7838d25d27aa6f4af32a050) ![](assets/new.png)  
-- [2021-04-05-揭秘-Hummer-——-为何选择-Hummer-？](https://www.ershicimi.com/p/4a2fc3afaa4007deef0e46e4ca7abd6b) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -976,6 +976,7 @@
 </summary>
 
 
+- [2021-04-24-写了一个根据-UofG-课程表邮件生成-calendar-订阅的-automation，有类似需求的可以参考一下](https://www.v2ex.com/t/773015) ![](assets/new.png)  
 - [2021-04-24-下个月买房，-150-平左右够宽敞吗？](https://www.v2ex.com/t/773014) ![](assets/new.png)  
 - [2021-04-24-N-块服务器主板直接串联/并联的方案有没有？](https://www.v2ex.com/t/773013) ![](assets/new.png)  
 - [2021-04-24-有没有办法在四层实现负载均衡？](https://www.v2ex.com/t/773012) ![](assets/new.png)  
@@ -995,7 +996,6 @@
 - [2021-04-24-2020-iPad-Pro-6GB-内存，和-M1-的-8GB-内存-有多大差距？](https://www.v2ex.com/t/772990) ![](assets/new.png)  
 - [2021-04-24-谷歌搜索钓鱼网站如何做到排名靠前](https://www.v2ex.com/t/772989) ![](assets/new.png)  
 - [2021-04-24-新-iMac-拉低了-Mac-的外观下限](https://www.v2ex.com/t/772987) ![](assets/new.png)  
-- [2021-04-24-前端转大数据跨度大吗？](https://www.v2ex.com/t/772986) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1048,16 +1048,16 @@
 - [2021-04-24-什么是蠢问题？](https://toutiao.io/k/p2tmwwq) ![](assets/new.png)  
 - [2021-04-24-工具-|-阿里巴巴开源的，基于-Flutter-的-Web-渲染引擎](https://toutiao.io/k/o33m49w) ![](assets/new.png)  
 - [2021-04-24-加密原理详解：对称式加密-VS-非对称式加密](https://toutiao.io/k/q4va51n) ![](assets/new.png)  
-- [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
-- [2021-04-24-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
 - [2021-04-24-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-24-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
 - [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-24-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
 - [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
+- [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-24-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-24-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-04-24-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

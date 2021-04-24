@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-24 03:08:07，:rocket: 更新条数: +4251， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-24 03:24:33，:rocket: 更新条数: +4251， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -965,6 +965,9 @@
 </summary>
 
 
+- [2021-04-23-知乎瞎扯-|-女生愿意给男生买礼物花钱是为什么?](https://www.ershicimi.com/p/59e66af1ebfd67be17066f2f17e0e7c9) ![](assets/new.png)  
+- [2021-04-23-为什么很多人认为视频替代文字阅读是一件可怕的事？](https://www.ershicimi.com/p/491e721db9cc983917d83d723a742e3a) ![](assets/new.png)  
+- [2021-04-23-知乎故事-|-室友都是卷王是什么感受？](https://www.ershicimi.com/p/14664a7b5784faea91024a3724952b2e) ![](assets/new.png)  
 - [2021-04-22-你从失败的恋爱关系中得到了哪些经验教训？](https://www.ershicimi.com/p/003a7678af7af7a8bff84235443d637e) ![](assets/new.png)  
 - [2021-04-22-4-月知乎亲子与你一起遇「荐」童书，赢现金红包](https://www.ershicimi.com/p/7aa66b20d029867ea84e57e3fd5d0114) ![](assets/new.png)  
 - [2021-04-22-知乎故事-|-宠物知道你是在照顾它吗？](https://www.ershicimi.com/p/3de0aa3d677e4bd319f77cbd52f837a3) ![](assets/new.png)  
@@ -982,9 +985,6 @@
 - [2021-04-16-知乎故事-|-霸道总裁会自己洗内裤吗？](https://www.ershicimi.com/p/1bb74d353ffda9268b66981cad8b149e) ![](assets/new.png)  
 - [2021-04-15-用蛇毒毒毒蛇，毒蛇会不会被蛇毒毒死？](https://www.ershicimi.com/p/966d725a3d7ab7411bb6e5bed7fc252b) ![](assets/new.png)  
 - [2021-04-15-为了养娃如此操劳，真的有必要吗？](https://www.ershicimi.com/p/8c7ed48933b0cd87cc0bba68450f0732) ![](assets/new.png)  
-- [2021-04-15-知乎故事-|-你从什么时候发现自己其实是个普通人？](https://www.ershicimi.com/p/486a2febb995846658dc900091fa8afa) ![](assets/new.png)  
-- [2021-04-14-中国女足进军东京奥运！谢谢努力的你们](https://www.ershicimi.com/p/13b830af378c53c6dbf88b695f3be570) ![](assets/new.png)  
-- [2021-04-14-知乎故事-|-生活中有哪些小事让你觉得很治愈？](https://www.ershicimi.com/p/e9094730e85e57d357ad9b02403054c4) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-04-24-我打算做个类似-travian-和方便面三国的页游出来，结合区块链，-大家觉得怎么样](https://www.v2ex.com/t/772887) ![](assets/new.png)  
+- [2021-04-24-三星-Galaxy-Buds+-连接-win10-会有电流声该怎么解决？](https://www.v2ex.com/t/772886) ![](assets/new.png)  
 - [2021-04-24-定时截取指定程序的窗口，并识别指定区域的文字，如果符合结果就发通知，大家有好的思路嘛？](https://www.v2ex.com/t/772885) ![](assets/new.png)  
 - [2021-04-24-iPhone-受信任的企业级应用和-app-store-的应用在隐私权限方面的区别。](https://www.v2ex.com/t/772883) ![](assets/new.png)  
 - [2021-04-24-websocket-和在-springboot-中使用它的一些问题](https://www.v2ex.com/t/772882) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-24-“裸辞后，考个-AWS-开发者”-这能提高自己找好工作的几率吗？](https://www.v2ex.com/t/772862) ![](assets/new.png)  
 - [2021-04-23-打车调度题，大家帮忙分析下](https://www.v2ex.com/t/772861) ![](assets/new.png)  
 - [2021-04-23-Docker-不对外暴露端口还需要-ipv6nat-吗？](https://www.v2ex.com/t/772860) ![](assets/new.png)  
-- [2021-04-23-滴滴出行-北京、杭州、成都、深圳内推-前端/-Java-/Android/-iOS/算法/-Python-/Go/C++-/数据/-PHP-/数据/产品/运营等各类职位大量招聘，月-20k-80k，优秀另有...](https://www.v2ex.com/t/772859) ![](assets/new.png)  
-- [2021-04-23-这里只能找技术工作吗？](https://www.v2ex.com/t/772857) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1062,22 +1062,22 @@
 - [2021-04-24-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
 - [2021-04-24-实时数仓中的消息队列技术深度对比](https://toutiao.io/k/us38se6) ![](assets/new.png)  
 - [2021-04-24-CPU-和-GPU：异构计算的演进与发展](https://toutiao.io/k/yk8may5) ![](assets/new.png)  
-- [2021-04-24-Android-嵌套-Intent](https://toutiao.io/k/xs1ylcq) ![](assets/new.png)  
 - [2021-04-24-一文带你更方便的控制-goroutine](https://toutiao.io/k/ye0n3l3) ![](assets/new.png)  
+- [2021-04-24-Android-嵌套-Intent](https://toutiao.io/k/xs1ylcq) ![](assets/new.png)  
 - [2021-04-24-代码评审中的代码协同](https://toutiao.io/k/m00a5i0) ![](assets/new.png)  
 - [2021-04-24-什么是蠢问题？](https://toutiao.io/k/p2tmwwq) ![](assets/new.png)  
 - [2021-04-24-工具-|-阿里巴巴开源的，基于-Flutter-的-Web-渲染引擎](https://toutiao.io/k/o33m49w) ![](assets/new.png)  
 - [2021-04-24-加密原理详解：对称式加密-VS-非对称式加密](https://toutiao.io/k/q4va51n) ![](assets/new.png)  
-- [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-24-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-24-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
 - [2021-04-24-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-24-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
-- [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
-- [2021-04-24-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [2021-04-24-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
+- [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-24-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
+- [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-04-24-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

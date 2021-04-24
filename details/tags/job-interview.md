@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-24 12:58:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 13:11:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -27,7 +27,6 @@
 - [2021-04-16-面试官问：从页面-A-打开一个新页面-B，B-页面关闭（包括意外崩溃），如何通知-A-页面？](https://www.ershicimi.com/p/477485437dee64de914e08a7aba5dd76) 
 - [2021-04-08-400-道前端工程师常考必考面试题+详细解答](https://www.ershicimi.com/p/51fea516184a770d80879b361b75ba69) 
 - [2021-04-06-我经常和面试者聊的一个题目](https://www.ershicimi.com/p/a5d52276ba839bc69dcc08a851e8fbca) 
-- [2021-04-21-以面试题为切入点，带你夯实程序员内功](https://www.ershicimi.com/p/3e3552715a58feff0f601a1b7562ee53) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-04-24-面试4轮字节Java研发岗，最终拿下Offer（原题复盘）](https://www.ershicimi.com/p/6ec6bc00e49a06f9f9a0702c3ba09981) 
 - [2021-04-20-面试官：这货一听就是一个水货...](https://www.ershicimi.com/p/4cd5ec66abb14528944a41f85d2975ba) 

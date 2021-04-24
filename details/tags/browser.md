@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-24 10:03:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 10:24:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,10 @@
 - [2021-04-24-群晖的-DSM6.2.4-25556-在-Chromium-内核浏览器下搜索框都会被自动填充](https://www.v2ex.com/t/772954) 
 - [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 
+- [2021-04-24-聚焦数字中国2021:第二届虎符网络安全大赛开赛在即](https://sec.thief.one/article_content?a_id=567326b6aab0581875a989f039d7630b) 
+- [2021-04-24-流氓至此,我竟无言以对之Chrome-浏览器主页被篡](https://sec.thief.one/article_content?a_id=907c1837cdac8025a2d0b7ecfe3231e6) 
+- [2021-04-24-倒计时1天|安全范儿沙龙第3期即将开启](https://sec.thief.one/article_content?a_id=360b785850652adb1f24312beb84a031) 
+- [2021-04-24-工业互联网设备的网络安全管理与防护研究](https://sec.thief.one/article_content?a_id=b26ce2da53c39c083d7fadd6adc40729) 
 - [2021-04-23-360安全卫士防“横向渗透”功能新升级,分分钟省了好几亿!](https://sec.thief.one/article_content?a_id=36a5cbd4fb50549122dfb472122c3843) 
 - [2021-04-23-先声夺人|权威机构认可!腾讯云安全托管服务能力居领导者地位](https://sec.thief.one/article_content?a_id=671a67015dcbb0ef004ac128d8270375) 
 - [2021-04-23-微信Chrome漏洞复现与简单分析小结](https://sec.thief.one/article_content?a_id=c305b72b74312138b2840b9f8701dc8b) 
@@ -54,6 +58,3 @@
 - [2021-04-21-邀请函-|-西湖论剑·“首届国产优秀网络安全工具主题展”邀您来观展...](https://sec.thief.one/article_content?a_id=c436d7e6ee141de82f89d450fd3f39a8) 
 - [2021-04-21-绿盟科技叶晓虎:智慧安全3.0理念的安全运营之道](https://sec.thief.one/article_content?a_id=dc9795d1918bedd1ebd8f01a0f24fc3e) 
 - [2021-04-21-Oracle-补丁日高危漏洞安全公告|2021年4月](https://sec.thief.one/article_content?a_id=adbbc3ae74893746e10568bb355c0f08) 
-- [2021-04-21-美政府拟出台电网安全冲刺计划:可免费资助安全产品](https://sec.thief.one/article_content?a_id=7f431d6218173991d62c083de495fbea) 
-- [2021-04-21-安全日报2021.04.21](https://sec.thief.one/article_content?a_id=15015d563d6064ad8aa0c425cf7ceb54) 
-- [2021-04-21-四成消费者担心自动驾驶汽车安全问题](https://sec.thief.one/article_content?a_id=3c500e26770655cc6cf46849d39d4577) 

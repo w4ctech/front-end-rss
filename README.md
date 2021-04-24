@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-24 10:03:12，:rocket: 更新条数: +4251， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-24 10:24:10，:rocket: 更新条数: +4252， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,8 +996,10 @@
 </summary>
 
 
+- [2021-04-24-gRPC-封装-HTTP-服务如何做参数校验？](https://www.v2ex.com/t/772959) ![](assets/new.png)  
+- [2021-04-24-亲戚慢慢把公众号做起来了，怕被别人同名抢注](https://www.v2ex.com/t/772958) ![](assets/new.png)  
+- [2021-04-24-有天津联通宽带的小伙伴吗，现在新办宽带是否有公网-IP？](https://www.v2ex.com/t/772957) ![](assets/new.png)  
 - [2021-04-24-职业生涯拷问：程序猿未来-10-年如何学习不落伍？](https://www.v2ex.com/t/772956) ![](assets/new.png)  
-- [2021-04-24-我打不开了-V2EX，是被墙了吗？我很少出墙](https://www.v2ex.com/t/772955) ![](assets/new.png)  
 - [2021-04-24-群晖的-DSM6.2.4-25556-在-Chromium-内核浏览器下搜索框都会被自动填充](https://www.v2ex.com/t/772954) ![](assets/new.png)  
 - [2021-04-24-iOS-14.5-RC-的屏幕镜像不能用（？）](https://www.v2ex.com/t/772953) ![](assets/new.png)  
 - [2021-04-24-外包客户为什么要外包项目或者外包什么样的项目](https://www.v2ex.com/t/772952) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-04-24-RetroArch-的-Rewind-功能真是太好用了](https://www.v2ex.com/t/772938) ![](assets/new.png)  
 - [2021-04-24-想入门学习大数据相关的，大佬们有什么建议吗](https://www.v2ex.com/t/772937) ![](assets/new.png)  
 - [2021-04-24-Cloudflare-现已加入-Let's-Encrypt](https://www.v2ex.com/t/772936) ![](assets/new.png)  
-- [2021-04-24-用安卓的你现在用啥-app-听歌？](https://www.v2ex.com/t/772935) ![](assets/new.png)  
-- [2021-04-24-2050-的相册](https://www.v2ex.com/t/772934) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1068,16 @@
 - [2021-04-24-什么是蠢问题？](https://toutiao.io/k/p2tmwwq) ![](assets/new.png)  
 - [2021-04-24-工具-|-阿里巴巴开源的，基于-Flutter-的-Web-渲染引擎](https://toutiao.io/k/o33m49w) ![](assets/new.png)  
 - [2021-04-24-加密原理详解：对称式加密-VS-非对称式加密](https://toutiao.io/k/q4va51n) ![](assets/new.png)  
-- [2021-04-24-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
-- [2021-04-24-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
-- [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-24-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-24-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-24-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
+- [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
+- [2021-04-24-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
+- [2021-04-24-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-24-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-04-24-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,26 +1089,26 @@
 </summary>
 
 
+- [2021-04-24-趋势关注:为什么XDR必须包含MDR](https://sec.thief.one/article_content?a_id=a9311a93dfc2b8558d833ddb3db511d2) ![](assets/new.png)  
+- [2021-04-24-议题征集中!2021-SDC不见不散!](https://sec.thief.one/article_content?a_id=767f406cda735de4617907c829ad9cd6) ![](assets/new.png)  
+- [2021-04-24-聚焦数字中国2021:第二届虎符网络安全大赛开赛在即](https://sec.thief.one/article_content?a_id=567326b6aab0581875a989f039d7630b) ![](assets/new.png)  
+- [2021-04-24-流氓至此,我竟无言以对之Chrome-浏览器主页被篡](https://sec.thief.one/article_content?a_id=907c1837cdac8025a2d0b7ecfe3231e6) ![](assets/new.png)  
+- [2021-04-24-全国革命文物百佳讲述人候选人作品展播④](https://sec.thief.one/article_content?a_id=89df0c272782038d2d2414b16c6c8a61) ![](assets/new.png)  
+- [2021-04-24-在Z|红华资本高薪诚招投资分析师、投资经理](https://sec.thief.one/article_content?a_id=f440416fb6ce895445eadd53cb54f662) ![](assets/new.png)  
+- [2021-04-24-反弹Shell,看这一篇就够了](https://sec.thief.one/article_content?a_id=21ed394b17c09888c4aabf7c3c0e64f6) ![](assets/new.png)  
+- [2021-04-24-研究人员通过-Mirai-恶意软件有效载荷确定了两个新的物联网漏洞](https://sec.thief.one/article_content?a_id=5d6ff53bf010fed2c403daf395d16825) ![](assets/new.png)  
+- [2021-04-24-倒计时1天|安全范儿沙龙第3期即将开启](https://sec.thief.one/article_content?a_id=360b785850652adb1f24312beb84a031) ![](assets/new.png)  
+- [2021-04-24-涉案1000余万,这一宗虚拟币诈骗案被苏州警方破获!](https://sec.thief.one/article_content?a_id=5bb2889ca2e071daaf89310170a20f37) ![](assets/new.png)  
+- [2021-04-24-《信息技术-安全技术-信息安全事件管理-第2部分:事件响应规划和准...](https://sec.thief.one/article_content?a_id=d39b36b27dbd2e22e9541a9ea70c4215) ![](assets/new.png)  
+- [2021-04-24-Python-速度慢,试试这个方法提高-1000-倍](https://sec.thief.one/article_content?a_id=2117fad0840aea866fcc430671cc38e5) ![](assets/new.png)  
+- [2021-04-24-工业互联网设备的网络安全管理与防护研究](https://sec.thief.one/article_content?a_id=b26ce2da53c39c083d7fadd6adc40729) ![](assets/new.png)  
+- [2021-04-24-谷歌发布新编程语言,专治SQL各种“不服”](https://sec.thief.one/article_content?a_id=8cf430cdf26cfbde6f5b26ff5d6a3a1f) ![](assets/new.png)  
 - [2021-04-23-【安全圈】Facebook高居数据泄露事件最多公司榜首](https://sec.thief.one/article_content?a_id=11441c958d92ff23d7bf77d02a617714) ![](assets/new.png)  
 - [2021-04-23-每日攻防资讯简报Apr.23th](https://sec.thief.one/article_content?a_id=35569e14910030ba915d8f3ce720ad0b) ![](assets/new.png)  
 - [2021-04-23-360安全卫士防“横向渗透”功能新升级,分分钟省了好几亿!](https://sec.thief.one/article_content?a_id=36a5cbd4fb50549122dfb472122c3843) ![](assets/new.png)  
 - [2021-04-23-奇安信集团与中国指挥与控制学会达成战略合作](https://sec.thief.one/article_content?a_id=0944d6b033a854cdcaf844c536920e46) ![](assets/new.png)  
 - [2021-04-23-写代码,如何变得更牛逼](https://sec.thief.one/article_content?a_id=f6a33e9e786e366ced1a4127366d2f9f) ![](assets/new.png)  
 - [2021-04-23-可视化以太坊的未来之路](https://sec.thief.one/article_content?a_id=17225d69ded7111c0b7d4920b851db2b) ![](assets/new.png)  
-- [2021-04-23-HVV完了,看过来](https://sec.thief.one/article_content?a_id=208479c0ffa7469049fa41cd59cd3bf5) ![](assets/new.png)  
-- [2021-04-23-攻防落幕,来点“回血”福利-|-FVIP会员日“预热趴”开启](https://sec.thief.one/article_content?a_id=70350bda164e6799a1f434e45401a7fe) ![](assets/new.png)  
-- [2021-04-23-先声夺人|权威机构认可!腾讯云安全托管服务能力居领导者地位](https://sec.thief.one/article_content?a_id=671a67015dcbb0ef004ac128d8270375) ![](assets/new.png)  
-- [2021-04-23-“庆祝建党百年•发现最美铁路”活动在四地同时启动!](https://sec.thief.one/article_content?a_id=8eab32de9956eff98dc8d31a47c82473) ![](assets/new.png)  
-- [2021-04-23-【技术分享】花指令总结](https://sec.thief.one/article_content?a_id=3d90555673a5d723809de15a9c19d59d) ![](assets/new.png)  
-- [2021-04-23-微信Chrome漏洞复现与简单分析小结](https://sec.thief.one/article_content?a_id=c305b72b74312138b2840b9f8701dc8b) ![](assets/new.png)  
-- [2021-04-23-零基础学渗透测试丨0元能系统的学习基础编程吗?](https://sec.thief.one/article_content?a_id=b19ecb3859e07db6dcbbadd2d9c0cbae) ![](assets/new.png)  
-- [2021-04-23-国家漏洞库CNNVD:关于Oracle-WebLogic多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=0d88bf9e3dd212d66902b07637e9a3ea) ![](assets/new.png)  
-- [2021-04-23-绿盟科技武汉首场CISP培训报名正式启动](https://sec.thief.one/article_content?a_id=df5375a10faa598c2fc3fc5962301b78) ![](assets/new.png)  
-- [2021-04-23-译文|7种新型社会工程策略](https://sec.thief.one/article_content?a_id=6b935fb19c6f3199514b5bc1e78cac95) ![](assets/new.png)  
-- [2021-04-23-【漏洞通告】Microsoft-Office远程代码执行漏洞](https://sec.thief.one/article_content?a_id=77db954b08462febfb90ed8d711d4589) ![](assets/new.png)  
-- [2021-04-23-比特币市场占有率自2018年以来首次跌至50%以下](https://sec.thief.one/article_content?a_id=87cee3ab821dee417e4c00a0a3824680) ![](assets/new.png)  
-- [2021-04-23-倒计时一天,西湖论剑观会指南来了!附完整议程](https://sec.thief.one/article_content?a_id=5387a409c7ff5b9c7d7cf7d57368469c) ![](assets/new.png)  
-- [2021-04-23-黑客利用聊天软件漏洞植入剪贴板木马窃取比特币](https://sec.thief.one/article_content?a_id=fc1082c1c4a1d6371499f0a28ff1ee48) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

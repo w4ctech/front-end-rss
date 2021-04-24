@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-24 23:38:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 23:52:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -474,8 +474,8 @@
 
 
 - [【InfoQ】Nginx-常用配置清单](https://www.ershicimi.com/p/d1c22f2667db118ad69f36a17c49d609)
-- [【开发者头条】推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph)
 - [【开发者头条】推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1)
+- [【开发者头条】推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -499,7 +499,6 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【技术头条】GitHub上25个Python学习资源，墙裂推荐！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14308&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489601%26amp%3Bidx%3D1%26amp%3Bsn%3D2c421706f8182134419e9b5ea50fbd87%26amp%3Bchksm%3Dfa3cf91acd4b700c0aa8c73243098350c5409c70219d53bce4d1878085ac421b36b0a4f668d7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-24 06:24:31，:rocket: 更新条数: +4242， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-24 06:41:23，:rocket: 更新条数: +4243， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,10 @@
 </summary>
 
 
+- [2021-04-24-请问又要靠抛出异常中断后续操作，又要记录日志时最优雅的操作应该是？（-Java-）](https://www.v2ex.com/t/772923) ![](assets/new.png)  
+- [2021-04-24-某库贴吧查绑是贴吧数据库泄漏还是穷举？](https://www.v2ex.com/t/772922) ![](assets/new.png)  
+- [2021-04-24-监控方案求推荐](https://www.v2ex.com/t/772921) ![](assets/new.png)  
+- [2021-04-24-苹果把-A14X-改名-M1-的营销效果还真不错](https://www.v2ex.com/t/772919) ![](assets/new.png)  
 - [2021-04-24-联通的智能语音客服是为了浪费客户生命吧?](https://www.v2ex.com/t/772918) ![](assets/new.png)  
 - [2021-04-24-索引重复了？](https://www.v2ex.com/t/772917) ![](assets/new.png)  
 - [2021-04-24-k8s-困惑](https://www.v2ex.com/t/772916) ![](assets/new.png)  
@@ -1012,10 +1016,6 @@
 - [2021-04-24-大佬们帮看看投影仪问题](https://www.v2ex.com/t/772899) ![](assets/new.png)  
 - [2021-04-24-HK$60-以上-iOS-版或者-Mac-版哪个-app-值得买？](https://www.v2ex.com/t/772896) ![](assets/new.png)  
 - [2021-04-24-中移动上传增加了啊](https://www.v2ex.com/t/772893) ![](assets/new.png)  
-- [2021-04-24-迫于耳机维修-15-天，哪里可以租耳机](https://www.v2ex.com/t/772892) ![](assets/new.png)  
-- [2021-04-24-有英语流利的小伙伴吗？前往瑞典工作的机会了解一下](https://www.v2ex.com/t/772890) ![](assets/new.png)  
-- [2021-04-24-我打算做个类似-travian-和方便面三国的页游出来，结合区块链，-大家觉得怎么样](https://www.v2ex.com/t/772887) ![](assets/new.png)  
-- [2021-04-24-三星-Galaxy-Buds+-连接-win10-会有电流声该怎么解决？](https://www.v2ex.com/t/772886) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1068,16 @@
 - [2021-04-24-什么是蠢问题？](https://toutiao.io/k/p2tmwwq) ![](assets/new.png)  
 - [2021-04-24-工具-|-阿里巴巴开源的，基于-Flutter-的-Web-渲染引擎](https://toutiao.io/k/o33m49w) ![](assets/new.png)  
 - [2021-04-24-加密原理详解：对称式加密-VS-非对称式加密](https://toutiao.io/k/q4va51n) ![](assets/new.png)  
-- [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
-- [2021-04-24-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-24-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-24-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
-- [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-24-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
 - [2021-04-24-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-24-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-04-24-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
+- [2021-04-24-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
+- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-24-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

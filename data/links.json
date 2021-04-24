@@ -20044,6 +20044,26 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "字节跳动否认将上市；Linus认为“C++是一门很烂的语言”；中纪委评“特斯拉道歉”：终于有了诚恳谦",
+        "link": "https://www.ershicimi.com/p/afbc23e2f8df97fce45f202093fcd5b0",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "时序数据库，爆发期将至",
+        "link": "https://www.ershicimi.com/p/ccfb5d8fc8856524aba2a84d7dce240c",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "毕业 2 年成为首席架构师，他是怎么做到的？ ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/b3a8cf8d38cd806b2c20f4422f76753e",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "一个人如何完成一家创业公司的技术架构？",
+        "link": "https://www.ershicimi.com/p/81feef424326dfde9b255df56ac0f7e8",
+        "date": "2021-04-24"
+      },
+      {
         "title": "50 条让你爱不释手的 Spring 踩坑备忘录｜ 极客时间",
         "link": "https://www.ershicimi.com/p/58a17e5c77406d5a9c5bcab0cca01ced",
         "date": "2021-04-23"
@@ -20121,26 +20141,6 @@
       {
         "title": "独家：“论文致谢刷屏”博士演讲干货",
         "link": "https://www.ershicimi.com/p/6c871c5f5fe5b9fe8b1dbe425771b27e",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "开发人员解决不了管理烂的问题",
-        "link": "https://www.ershicimi.com/p/6ffd1d0b1282db2fe86844c64ad7f345",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "“跟不上”的大前端，2021 会有哪些惊喜？ ｜ GMTC",
-        "link": "https://www.ershicimi.com/p/ebea1ec8e7000947b939ce1961c7cb6d",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "微服务+异步工作流+Serverless，Netflix 决定弃用稳定运行7年的旧平台",
-        "link": "https://www.ershicimi.com/p/b7c2ae1f256c2a458ebb98e20201b4f6",
-        "date": "2021-04-20"
-      },
-      {
-        "title": "程序开发人员缺乏经验的7种表现",
-        "link": "https://www.ershicimi.com/p/83d0f652b0af31e762b91ba33f68a248",
         "date": "2021-04-20"
       }
     ]
@@ -20490,6 +20490,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "又一个国产开源数据库 ZNBase",
+        "link": "https://www.v2ex.com/t/773002",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "20210425 午夜俱乐部",
+        "link": "https://www.v2ex.com/t/773001",
+        "date": "2021-04-24"
+      },
+      {
         "title": "腾讯音乐集团-Q 音线招聘前端开发-base 深圳",
         "link": "https://www.v2ex.com/t/772997",
         "date": "2021-04-24"
@@ -20637,21 +20647,6 @@
       {
         "title": "iOS 14.5 RC 的屏幕镜像不能用（？）",
         "link": "https://www.v2ex.com/t/772953",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "外包客户为什么要外包项目或者外包什么样的项目",
-        "link": "https://www.v2ex.com/t/772952",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "求 gstatic 服务器抽风的解决方案",
-        "link": "https://www.v2ex.com/t/772951",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "面试题讨论，类设计",
-        "link": "https://www.v2ex.com/t/772950",
         "date": "2021-04-24"
       }
     ]
@@ -20819,43 +20814,8 @@
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 为什么放弃 Kafka，选择 Pulsar?",
-        "link": "https://toutiao.io/k/wxrneux",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
-        "link": "https://toutiao.io/k/811or1j",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] OpenResty 实现限流",
-        "link": "https://toutiao.io/k/syxnrph",
+        "title": "[推荐] 超级详细的 Spring Boot 注解总结",
+        "link": "https://toutiao.io/k/zxa65u1",
         "date": "2021-04-24"
       },
       {
@@ -20864,23 +20824,8 @@
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
-        "date": "2021-04-24"
-      },
-      {
         "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
         "link": "https://toutiao.io/k/6aau0fc",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
-        "link": "https://toutiao.io/k/7uw9l2r",
         "date": "2021-04-24"
       },
       {
@@ -20889,8 +20834,58 @@
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] 超级详细的 Spring Boot 注解总结",
-        "link": "https://toutiao.io/k/zxa65u1",
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] OpenResty 实现限流",
+        "link": "https://toutiao.io/k/syxnrph",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 为什么放弃 Kafka，选择 Pulsar?",
+        "link": "https://toutiao.io/k/wxrneux",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
+        "link": "https://toutiao.io/k/7uw9l2r",
         "date": "2021-04-24"
       }
     ]

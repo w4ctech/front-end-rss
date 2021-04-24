@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-24 16:04:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 16:24:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -34,4 +34,3 @@
 - [2021-04-18-面试过程中，竟然遇到PUA，我不得不服这种“潜规则”～](https://www.ershicimi.com/p/3d61488bb0d160821d4ec6bc1361ebb6) 
 - [2021-04-22-重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/2dd643e87f8415ea43cd71fae653209b) 
 - [2021-04-24-腾讯音乐集团-Q-音线招聘前端开发-base-深圳](https://www.v2ex.com/t/772997) 
-- [2021-04-24-面试题讨论，类设计](https://www.v2ex.com/t/772950) 

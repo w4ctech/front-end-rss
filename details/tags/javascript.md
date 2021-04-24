@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-24 16:04:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 16:24:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -84,7 +84,6 @@
 - [2021-04-09-奇舞周刊第-392-期：用-65-行代码实现-JavaScript-动画序列播放](https://www.ershicimi.com/p/013dd0533617f7cce4ff4a46483d0fb1) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2021-04-18-Java-正则表达式处理复杂文本，效率就是高！](https://www.ershicimi.com/p/3c527ff137987abc0f73a6da1e96cc97) 
-- [2021-04-20-微服务+异步工作流+Serverless，Netflix-决定弃用稳定运行7年的旧平台](https://www.ershicimi.com/p/b7c2ae1f256c2a458ebb98e20201b4f6) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-04-24-goland-里面的-go-项目代码怎么-import-其他文件夹的代码](https://www.v2ex.com/t/772969) 
 - [2021-04-24-H5移动端调试全攻略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14309&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489604%26amp%3Bidx%3D2%26amp%3Bsn%3D66ef66032a4df24b50435ed7bb636db9%26amp%3Bchksm%3Dfa3cf91fcd4b70098fd32b5f9d2b570d45873a43550423c3d6cefc687110bf9f851b3b8878af%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

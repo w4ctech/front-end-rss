@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-04-24 16:04:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 16:24:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-04-24-字节跳动否认将上市；Linus认为“C++是一门很烂的语言”；中纪委评“特斯拉道歉”：终于有了诚恳谦](https://www.ershicimi.com/p/afbc23e2f8df97fce45f202093fcd5b0) 
+- [2021-04-24-时序数据库，爆发期将至](https://www.ershicimi.com/p/ccfb5d8fc8856524aba2a84d7dce240c) 
+- [2021-04-24-毕业-2-年成为首席架构师，他是怎么做到的？-｜-极客时间](https://www.ershicimi.com/p/b3a8cf8d38cd806b2c20f4422f76753e) 
+- [2021-04-24-一个人如何完成一家创业公司的技术架构？](https://www.ershicimi.com/p/81feef424326dfde9b255df56ac0f7e8) 
 - [2021-04-23-50-条让你爱不释手的-Spring-踩坑备忘录｜-极客时间](https://www.ershicimi.com/p/58a17e5c77406d5a9c5bcab0cca01ced) 
 - [2021-04-23-十六年全栈开发者的-Android-开发踩坑实录](https://www.ershicimi.com/p/a24dbb5328b7c0fb3027390ecf5a6a15) 
 - [2021-04-23-世界读书日-|-在巨人的肩膀进击](https://www.ershicimi.com/p/241154e568ae5b3198279f86cdc1b985) 
@@ -21,7 +25,3 @@
 - [2021-04-21-工作就像闯关，升级打怪有攻略-｜-极客时间](https://www.ershicimi.com/p/7c82674b1ed5a83fbf4a3022b428e2ce) 
 - [2021-04-21-虎牙直播技术演变之路](https://www.ershicimi.com/p/6538e1e69e53054867131de5dfdfde25) 
 - [2021-04-20-独家：“论文致谢刷屏”博士演讲干货](https://www.ershicimi.com/p/6c871c5f5fe5b9fe8b1dbe425771b27e) 
-- [2021-04-20-开发人员解决不了管理烂的问题](https://www.ershicimi.com/p/6ffd1d0b1282db2fe86844c64ad7f345) 
-- [2021-04-20-“跟不上”的大前端，2021-会有哪些惊喜？-｜-GMTC](https://www.ershicimi.com/p/ebea1ec8e7000947b939ce1961c7cb6d) 
-- [2021-04-20-微服务+异步工作流+Serverless，Netflix-决定弃用稳定运行7年的旧平台](https://www.ershicimi.com/p/b7c2ae1f256c2a458ebb98e20201b4f6) 
-- [2021-04-20-程序开发人员缺乏经验的7种表现](https://www.ershicimi.com/p/83d0f652b0af31e762b91ba33f68a248) 

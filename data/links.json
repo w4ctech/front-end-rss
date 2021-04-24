@@ -17915,6 +17915,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第2263期】工业聚：一起聊聊技术与写作",
+        "link": "https://www.ershicimi.com/p/f66aac9863e04205873eb6756256a076",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "【内推】北京幂律智能招前端研发工程师",
+        "link": "https://www.ershicimi.com/p/92a296355caa57bc9392d077de5598c1",
+        "date": "2021-04-24"
+      },
+      {
         "title": "大厂面试常问的前端工程化学习指南，进阶必备",
         "link": "https://www.ershicimi.com/p/1731d475024fc5dcd466e243cff9a05e",
         "date": "2021-04-23"
@@ -18003,16 +18013,6 @@
         "title": "美团春招岗位命中率前七名曝光！",
         "link": "https://www.ershicimi.com/p/d23d00ccfd56e7248e2066324e8763a5",
         "date": "2021-04-15"
-      },
-      {
-        "title": "Vue 和 React源码大PK，看这篇就够了",
-        "link": "https://www.ershicimi.com/p/e1bf71751403059875c1cf228d420a62",
-        "date": "2021-04-14"
-      },
-      {
-        "title": "【第2253期】React状态管理库及如何选择？",
-        "link": "https://www.ershicimi.com/p/45273e60f71700d03acc798ca28f0826",
-        "date": "2021-04-14"
       }
     ]
   },
@@ -20485,6 +20485,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "OneDev 4.3 发布：支持 CI/CD 配置复用",
+        "link": "https://www.v2ex.com/t/772974",
+        "date": "2021-04-24"
+      },
+      {
         "title": "goland 里面的 go 项目代码怎么 import 其他文件夹的代码",
         "link": "https://www.v2ex.com/t/772969",
         "date": "2021-04-24"
@@ -20648,11 +20653,6 @@
         "title": "iOS 14.5 进一步恶心了 Home 键 iPhone 用户",
         "link": "https://www.v2ex.com/t/772926",
         "date": "2021-04-24"
-      },
-      {
-        "title": "[远程/北京/全职] StreamNative——顶级开源项目 Apache Pulsar 的原厂来招聘了",
-        "link": "https://www.v2ex.com/t/772924",
-        "date": "2021-04-24"
       }
     ]
   },
@@ -20661,6 +20661,56 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "Android 12 正式版将至！2021 Google I/O 定于 5.18-20 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14314&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUMojlm7bZWfVETDFlxuIyA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "Kotlin 为什么没有被大规模用于后端开发？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14313&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ffyz187TaSOCN6aS6wCYf4Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "Flutter 使用 Riverpod+Retrofit 构建 MVVM 开发模式 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14312&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fki1ApOZUkSWf2hsv9eIyFw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "如何快速提升 Flutter App 中的动画性能 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14311&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxSzm4QiaY7UEVvFNocuk8Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "如何一句话证明你在百度工作过 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14310&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489604%26amp%3Bidx%3D1%26amp%3Bsn%3D9b5e09eb506e250a634db44eb973625f%26amp%3Bchksm%3Dfa3cf91fcd4b7009fb0cb3438762f919a6afd9ff7aa984c4936dce52058c2aeac39b19cede91%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "H5移动端调试全攻略 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14309&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489604%26amp%3Bidx%3D2%26amp%3Bsn%3D66ef66032a4df24b50435ed7bb636db9%26amp%3Bchksm%3Dfa3cf91fcd4b70098fd32b5f9d2b570d45873a43550423c3d6cefc687110bf9f851b3b8878af%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "GitHub上25个Python学习资源，墙裂推荐！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14308&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489601%26amp%3Bidx%3D1%26amp%3Bsn%3D2c421706f8182134419e9b5ea50fbd87%26amp%3Bchksm%3Dfa3cf91acd4b700c0aa8c73243098350c5409c70219d53bce4d1878085ac421b36b0a4f668d7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "如何阅读代码（八点要记牢） (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14307&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489601%26amp%3Bidx%3D2%26amp%3Bsn%3D0875adbe5ecfa9291823ebe8b2787821%26amp%3Bchksm%3Dfa3cf91acd4b700cdcfacf187ec6cba62f933cf4c0ca4793a5153aa17cf8bfd4b7dfb02b86f3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "公司接口裸奔10年了，有必要用API接口签名验证吗？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14306&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489600%26amp%3Bidx%3D1%26amp%3Bsn%3Dcadfa484534ec9f275a160251b16136f%26amp%3Bchksm%3Dfa3cf91bcd4b700d63fcf3f74fa7dbc5ac89ebf6fd4a7554201a10cf4b4ae0444c1b27722901%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "史上首例！阿里程序员写的代码，被国家博物馆收藏了！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14305&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489597%26amp%3Bidx%3D1%26amp%3Bsn%3Dd97786b43210dc0efa53d49b2d0369b4%26amp%3Bchksm%3Dfa3cf966cd4b7070f662e37425fd615ee917648278d3971f622e2da143525f2a1740e043ef05%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-04-24"
+      },
       {
         "title": "Android 实现小红书登陆页面背景图无限滚动效果 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14304&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FocOgPrfN_6FD8B16n9NYdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -20709,56 +20759,6 @@
       {
         "title": "Linux开发过程那么麻烦，是否值得？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14295&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489583%26amp%3Bidx%3D2%26amp%3Bsn%3D90ca284916f60b0b70ebdc5cd05c2ca4%26amp%3Bchksm%3Dfa3cf974cd4b7062502da9d6bdfb2d7d9ed25ada78ce801f96166f471b2f7b21a0f22cc2f570%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "想多人游戏？那你还不看看它！ (zhuanlan.zhihu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14294&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "想多人游戏？那你还不看看它！ (zhuanlan.zhihu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14293&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "Doge.jpg 的背后是什么，你知道么？ (zhuanlan.zhihu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14292&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F347658697%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "如何通过开发快应用赚取睡后收入？ (forum.lovejade.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14291&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F30%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "如何基于 Flarum 搭建一个优雅简洁论坛？ (www.jeffjade.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14290&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F03%2F22%2F189-how-to-install-flarum-based-on-docker%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "优质网站同好者周刊（第 8 期）- 倾城之链 (www.jeffjade.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14289&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F04%2F08%2F193-nicelinks-weekly-008%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "快应用开发工具 3.9.0 版本发布 (forum.lovejade.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14288&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F31-390%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "实操｜如何将 Containerd 用作 Kubernetes runtime (zhuanlan.zhihu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14287&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F359860695%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "Android R 如何访问 Android/data 目录？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14286&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtX31JRuSChWAORKJDlpOIw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "换个角度描述 Android 事件传递，读完会让你耳目一新 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2021-04-24"
       }
     ]
@@ -20819,13 +20819,8 @@
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 这 11 款 Chrome 神器，用起来爽到爆",
-        "link": "https://toutiao.io/k/czntgsa",
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-24"
       },
       {
@@ -20834,8 +20829,13 @@
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
-        "link": "https://toutiao.io/k/7uw9l2r",
+        "title": "[推荐] 这 11 款 Chrome 神器，用起来爽到爆",
+        "link": "https://toutiao.io/k/czntgsa",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
         "date": "2021-04-24"
       },
       {
@@ -20844,8 +20844,8 @@
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
         "date": "2021-04-24"
       },
       {
@@ -20859,13 +20859,8 @@
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
+        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
+        "link": "https://toutiao.io/k/6aau0fc",
         "date": "2021-04-24"
       },
       {
@@ -20874,23 +20869,28 @@
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] 一文读懂，DDD 落地数据库设计实战",
-        "link": "https://toutiao.io/k/6aau0fc",
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
-        "link": "https://toutiao.io/k/811or1j",
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] JVM 进阶之路（九）：性能监控工具（可视化工具篇）",
+        "link": "https://toutiao.io/k/7uw9l2r",
         "date": "2021-04-24"
       },
       {
         "title": "[推荐] 超级详细的 Spring Boot 注解总结",
         "link": "https://toutiao.io/k/zxa65u1",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-24"
       }
     ]

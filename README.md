@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-24 12:03:20，:rocket: 更新条数: +4246， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-24 12:24:34，:rocket: 更新条数: +4246， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -193,6 +193,8 @@
 </summary>
 
 
+- [2021-04-24-【第2263期】工业聚：一起聊聊技术与写作](https://www.ershicimi.com/p/f66aac9863e04205873eb6756256a076) ![](assets/new.png)  
+- [2021-04-24-【内推】北京幂律智能招前端研发工程师](https://www.ershicimi.com/p/92a296355caa57bc9392d077de5598c1) ![](assets/new.png)  
 - [2021-04-23-大厂面试常问的前端工程化学习指南，进阶必备](https://www.ershicimi.com/p/1731d475024fc5dcd466e243cff9a05e) ![](assets/new.png)  
 - [2021-04-23-【第2262期】Web-性能优化：使用-CSS-font-display-控制字体加载和替换](https://www.ershicimi.com/p/98a738b1cbcd8da2272d2d511ea2ee37) ![](assets/new.png)  
 - [2021-04-22-【第2261期】高级程序4：函数](https://www.ershicimi.com/p/6cf592fa16468f5abc63cfc3e388656b) ![](assets/new.png)  
@@ -211,8 +213,6 @@
 - [2021-04-16-【活动】阿里云-Serverless-Developer-Meetup-开放报名！](https://www.ershicimi.com/p/18016e4360e3f0d5e4ee0d938b9acc5c) ![](assets/new.png)  
 - [2021-04-15-【第2254期】前端性能优化](https://www.ershicimi.com/p/b4822e75e2ce8e957c1f9b9427a06741) ![](assets/new.png)  
 - [2021-04-15-美团春招岗位命中率前七名曝光！](https://www.ershicimi.com/p/d23d00ccfd56e7248e2066324e8763a5) ![](assets/new.png)  
-- [2021-04-14-Vue-和-React源码大PK，看这篇就够了](https://www.ershicimi.com/p/e1bf71751403059875c1cf228d420a62) ![](assets/new.png)  
-- [2021-04-14-【第2253期】React状态管理库及如何选择？](https://www.ershicimi.com/p/45273e60f71700d03acc798ca28f0826) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-04-24-OneDev-4.3-发布：支持-CI/CD-配置复用](https://www.v2ex.com/t/772974) ![](assets/new.png)  
 - [2021-04-24-goland-里面的-go-项目代码怎么-import-其他文件夹的代码](https://www.v2ex.com/t/772969) ![](assets/new.png)  
 - [2021-04-24-请问有没有广州的兄弟，能支持上墙服务的，打算安装一个镜子和一个相框，有没有推荐的？感谢感谢，好人一生平安。。。最好是天河客运站附近。](https://www.v2ex.com/t/772968) ![](assets/new.png)  
 - [2021-04-24-远程全职-诚聘前端工程师、服务器端工程师、全栈工程师](https://www.v2ex.com/t/772965) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-04-24-纠结-NUC8-换-Mac-mini-M1](https://www.v2ex.com/t/772947) ![](assets/new.png)  
 - [2021-04-24-腾讯云-chia-币-P-盘方案？](https://www.v2ex.com/t/772945) ![](assets/new.png)  
 - [2021-04-24-用-go-写的一个文章采集工具，欢迎-start](https://www.v2ex.com/t/772943) ![](assets/new.png)  
-- [2021-04-24-关于-macos-下开发调用-dylib-的问题](https://www.v2ex.com/t/772942) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1027,6 +1027,16 @@
 </summary>
 
 
+- [2021-04-24-Android-12-正式版将至！2021-Google-I/O-定于-5.18-20-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14314&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUMojlm7bZWfVETDFlxuIyA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-24-Kotlin-为什么没有被大规模用于后端开发？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14313&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ffyz187TaSOCN6aS6wCYf4Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-24-Flutter-使用-Riverpod+Retrofit-构建-MVVM-开发模式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14312&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fki1ApOZUkSWf2hsv9eIyFw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-24-如何快速提升-Flutter-App-中的动画性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14311&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxSzm4QiaY7UEVvFNocuk8Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-24-如何一句话证明你在百度工作过-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14310&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489604%26amp%3Bidx%3D1%26amp%3Bsn%3D9b5e09eb506e250a634db44eb973625f%26amp%3Bchksm%3Dfa3cf91fcd4b7009fb0cb3438762f919a6afd9ff7aa984c4936dce52058c2aeac39b19cede91%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-24-H5移动端调试全攻略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14309&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489604%26amp%3Bidx%3D2%26amp%3Bsn%3D66ef66032a4df24b50435ed7bb636db9%26amp%3Bchksm%3Dfa3cf91fcd4b70098fd32b5f9d2b570d45873a43550423c3d6cefc687110bf9f851b3b8878af%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-24-GitHub上25个Python学习资源，墙裂推荐！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14308&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489601%26amp%3Bidx%3D1%26amp%3Bsn%3D2c421706f8182134419e9b5ea50fbd87%26amp%3Bchksm%3Dfa3cf91acd4b700c0aa8c73243098350c5409c70219d53bce4d1878085ac421b36b0a4f668d7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-24-如何阅读代码（八点要记牢）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14307&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489601%26amp%3Bidx%3D2%26amp%3Bsn%3D0875adbe5ecfa9291823ebe8b2787821%26amp%3Bchksm%3Dfa3cf91acd4b700cdcfacf187ec6cba62f933cf4c0ca4793a5153aa17cf8bfd4b7dfb02b86f3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-24-公司接口裸奔10年了，有必要用API接口签名验证吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14306&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489600%26amp%3Bidx%3D1%26amp%3Bsn%3Dcadfa484534ec9f275a160251b16136f%26amp%3Bchksm%3Dfa3cf91bcd4b700d63fcf3f74fa7dbc5ac89ebf6fd4a7554201a10cf4b4ae0444c1b27722901%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-04-24-史上首例！阿里程序员写的代码，被国家博物馆收藏了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14305&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489597%26amp%3Bidx%3D1%26amp%3Bsn%3Dd97786b43210dc0efa53d49b2d0369b4%26amp%3Bchksm%3Dfa3cf966cd4b7070f662e37425fd615ee917648278d3971f622e2da143525f2a1740e043ef05%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-24-Android-实现小红书登陆页面背景图无限滚动效果-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14304&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FocOgPrfN_6FD8B16n9NYdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-24-未来，APP-就是一个人的全部-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14303&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fpmb8rKBBUp6sdN1FI-4IOw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-24-十六年全栈开发者的-Android-开发踩坑实录-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLiRIV5XAvToTpLTLRSkxdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1037,16 +1047,6 @@
 - [2021-04-24-真实业务订单拆单架构与实战-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14297&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489587%26amp%3Bidx%3D2%26amp%3Bsn%3D3c2753127ebf6d52cecca72a134bc622%26amp%3Bchksm%3Dfa3cf968cd4b707ecdefcca83c8737f85814d371cd742c4a5325717eb81a0a3c933ef9b80255%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-24-22款高颜值的终端工具，点燃了小姐姐对编程的热爱！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14296&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489583%26amp%3Bidx%3D1%26amp%3Bsn%3D13da584dd1abcbbc0ef343f2e32b83cb%26amp%3Bchksm%3Dfa3cf974cd4b7062d21970c8a280c08f574476f28fdf9242ce20124b4460b31cf041fd39454b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-04-24-Linux开发过程那么麻烦，是否值得？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14295&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489583%26amp%3Bidx%3D2%26amp%3Bsn%3D90ca284916f60b0b70ebdc5cd05c2ca4%26amp%3Bchksm%3Dfa3cf974cd4b7062502da9d6bdfb2d7d9ed25ada78ce801f96166f471b2f7b21a0f22cc2f570%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-24-想多人游戏？那你还不看看它！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14294&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-24-想多人游戏？那你还不看看它！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14293&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F360751550%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-24-Doge.jpg-的背后是什么，你知道么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14292&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F347658697%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-24-如何通过开发快应用赚取睡后收入？-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14291&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F30%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-24-如何基于-Flarum-搭建一个优雅简洁论坛？-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=14290&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F03%2F22%2F189-how-to-install-flarum-based-on-docker%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-24-优质网站同好者周刊（第-8-期）--倾城之链-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=14289&url=https%3A%2F%2Fwww.jeffjade.com%2F2021%2F04%2F08%2F193-nicelinks-weekly-008%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-24-快应用开发工具-3.9.0-版本发布-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14288&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F31-390%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-24-实操｜如何将-Containerd-用作-Kubernetes-runtime-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14287&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F359860695%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-24-Android-R-如何访问-Android/data-目录？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14286&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtX31JRuSChWAORKJDlpOIw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-04-24-换个角度描述-Android-事件传递，读完会让你耳目一新-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv8mN0GAooDqmMKQoY6ejzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1068,16 @@
 - [2021-04-24-什么是蠢问题？](https://toutiao.io/k/p2tmwwq) ![](assets/new.png)  
 - [2021-04-24-工具-|-阿里巴巴开源的，基于-Flutter-的-Web-渲染引擎](https://toutiao.io/k/o33m49w) ![](assets/new.png)  
 - [2021-04-24-加密原理详解：对称式加密-VS-非对称式加密](https://toutiao.io/k/q4va51n) ![](assets/new.png)  
-- [2021-04-24-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-04-24-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
 - [2021-04-24-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-24-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
+- [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
 - [2021-04-24-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-24-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
 - [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
 - [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
-- [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-24-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-24-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-24-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

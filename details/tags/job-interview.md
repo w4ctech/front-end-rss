@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-24 12:03:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 12:24:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -34,4 +34,3 @@
 - [2021-04-18-面试过程中，竟然遇到PUA，我不得不服这种“潜规则”～](https://www.ershicimi.com/p/3d61488bb0d160821d4ec6bc1361ebb6) 
 - [2021-04-22-重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/2dd643e87f8415ea43cd71fae653209b) 
 - [2021-04-24-面试题讨论，类设计](https://www.v2ex.com/t/772950) 
-- [2021-04-24-远程/北京/全职-StreamNative——顶级开源项目-Apache-Pulsar-的原厂来招聘了](https://www.v2ex.com/t/772924) 

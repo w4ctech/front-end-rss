@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-24 17:48:38，:rocket: 更新条数: +4233， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-24 18:01:31，:rocket: 更新条数: +710， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)  
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-04-24-最新疫情：全国新冠累计确诊90575例-累计接种新冠疫苗超2.16亿剂次](https://m.caixin.com/m/2021-04-24/101698646.html) ![](assets/new.png)  
-- [2021-04-24-复必泰“姐妹款”疫苗披露中国I期数据-复星引进速度领先](https://m.caixin.com/m/2021-04-24/101698561.html) ![](assets/new.png)  
-- [2021-04-24-最新海外疫情：新冠感染超1.45亿-累计死亡超307万](https://m.caixin.com/m/2021-04-24/101698643.html) ![](assets/new.png)  
-- [2021-04-24-【境内疫情观察】全国新增9例境外输入病例（4月23日）](http://m.database.caixin.com/m/2021-04-24/101698582.html) ![](assets/new.png)  
-- [2021-04-24-美CDC撤销停用强生疫苗建议-世卫强烈担忧印度疫情｜大流行手记（4月23日）](https://m.caixin.com/m/2021-04-24/101698456.html) ![](assets/new.png)  
-- [2021-04-23-错报逾30宗假阳性-华大香港化验所致歉将整改](http://m.china.caixin.com/m/2021-04-23/101698321.html) ![](assets/new.png)  
-- [2021-04-23-上海新增5例境外输入病例-1人隔离结束后确诊](https://m.caixin.com/m/2021-04-23/101697646.html) ![](assets/new.png)  
-- [2021-04-23-【境内疫情观察】全国累计接种新冠疫苗超2亿剂次（4月22日）](http://m.database.caixin.com/m/2021-04-23/101698025.html) ![](assets/new.png)  
-- [2021-04-23-美国完成2亿剂疫苗接种-日本拟第三次发布紧急事态宣言｜大流行手记（4月22日）](https://m.caixin.com/m/2021-04-23/101697601.html) ![](assets/new.png)  
-- [2021-04-22-香港高校开展疫苗接种者抗体浓度研究](https://m.caixin.com/m/2021-04-22/101696975.html) ![](assets/new.png)  
-- [2021-04-22-【境内疫情观察】全国新增16例无症状感染者（4月21日）](http://m.database.caixin.com/m/2021-04-22/101694717.html) ![](assets/new.png)  
-- [2021-04-22-印度新冠单日死亡创最高纪录-中疾控公布西安病例保护失败缘由｜大流行手记（4月21日）](https://m.caixin.com/m/2021-04-22/101694653.html) ![](assets/new.png)  
-- [2021-04-21-【境内疫情观察】海南新增12例境外输入病例（4月20日）](http://m.database.caixin.com/m/2021-04-21/101694231.html) ![](assets/new.png)  
-- [2021-04-21-澳大利亚与新西兰开通旅行气泡-英国启动新冠人体攻毒｜大流行手记（4月20日）](https://m.caixin.com/m/2021-04-21/101694005.html) ![](assets/new.png)  
-- [2021-04-20-【境内疫情观察】云南新增1例本土病例（4月19日）](http://m.database.caixin.com/m/2021-04-20/101693637.html) ![](assets/new.png)  
-- [2021-04-20-过半美国成年人已接种一剂-印度加速进口mRNA疫苗｜大流行手记（4月19日）](https://m.caixin.com/m/2021-04-20/101693442.html) ![](assets/new.png)  
-- [2021-04-19-变种病毒在港社区传播-港府禁印巴菲航班入境](https://m.caixin.com/m/2021-04-19/101693061.html) ![](assets/new.png)  
-- [2021-04-19-【境内疫情观察】全国新增11例境外输入病例（4月18日）](http://m.database.caixin.com/m/2021-04-19/101693254.html) ![](assets/new.png)  
-- [2021-04-19-印度单日新增逾26万病例-世卫称全球感染率接近历史高峰｜大流行手记（4月18日）](https://m.caixin.com/m/2021-04-19/101692924.html) ![](assets/new.png)  
-- [2021-04-18-【境内疫情观察】全国新增16例境外输入病例（4月17日）](http://m.database.caixin.com/m/2021-04-18/101692852.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -658,6 +638,16 @@
 </summary>
 
 
+- [2021-04-18-腾讯开源的酷炫动画播放解决方案Vap初体验](https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/) ![](assets/new.png)  
+- [2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) ![](assets/new.png)  
+- [2021-03-30-分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/) ![](assets/new.png)  
+- [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) ![](assets/new.png)  
+- [2021-03-14-CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/) ![](assets/new.png)  
+- [2021-02-18-使用CSS-text-combine-upright实现字符的横向合并](https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/) ![](assets/new.png)  
+- [2021-02-18-CSS-line-break属性与中文标点换行](https://www.zhangxinxu.com/wordpress/2021/02/css-line-break/) ![](assets/new.png)  
+- [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) ![](assets/new.png)  
+- [2021-02-17-好消息，CSS-text-underline-offset可以用起来了](https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset/) ![](assets/new.png)  
+- [2021-02-16-CSS-::marker伪元素简介](https://www.zhangxinxu.com/wordpress/2021/02/css-marker-pseudo-element/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -986,6 +976,7 @@
 </summary>
 
 
+- [2021-04-24-我被中奖了。。。。。](https://www.v2ex.com/t/773009) ![](assets/new.png)  
 - [2021-04-24-把化简的-emmet，集成进输入法。](https://www.v2ex.com/t/773007) ![](assets/new.png)  
 - [2021-04-24-以后会不会出现移动显示屏](https://www.v2ex.com/t/773006) ![](assets/new.png)  
 - [2021-04-24-小公司，想做一个日志分析的程序，带-Web-前端的，求方案推荐](https://www.v2ex.com/t/773004) ![](assets/new.png)  
@@ -1005,7 +996,6 @@
 - [2021-04-24-国际-WeChat-账号所使用的新加坡域名出现故障和丢包现象](https://www.v2ex.com/t/772982) ![](assets/new.png)  
 - [2021-04-24-IP67-的手机和耳机-到底能不能洗澡时用啊？](https://www.v2ex.com/t/772981) ![](assets/new.png)  
 - [2021-04-24-下一代-iPhone-有没有可能上-M1](https://www.v2ex.com/t/772980) ![](assets/new.png)  
-- [2021-04-24-求助帖-服务器一直被登陆注销-登陆注销，+数据库被疯狂爆破密码·······](https://www.v2ex.com/t/772978) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1058,16 +1048,16 @@
 - [2021-04-24-什么是蠢问题？](https://toutiao.io/k/p2tmwwq) ![](assets/new.png)  
 - [2021-04-24-工具-|-阿里巴巴开源的，基于-Flutter-的-Web-渲染引擎](https://toutiao.io/k/o33m49w) ![](assets/new.png)  
 - [2021-04-24-加密原理详解：对称式加密-VS-非对称式加密](https://toutiao.io/k/q4va51n) ![](assets/new.png)  
-- [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [2021-04-24-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
-- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
-- [2021-04-24-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-24-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
 - [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
-- [2021-04-24-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-24-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
 - [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
 - [2021-04-24-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-04-24-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

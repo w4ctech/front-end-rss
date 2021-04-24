@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-24 11:49:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 12:03:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,5 +39,3 @@
 - [2021-04-24-MacBook-Pro-M1-13-英寸-以-xcode-为主要使用场景-可以续航多长时间呢？](https://www.v2ex.com/t/772928) 
 - [2021-04-24-iOS-14.5-进一步恶心了-Home-键-iPhone-用户](https://www.v2ex.com/t/772926) 
 - [2021-04-24-远程/北京/全职-StreamNative——顶级开源项目-Apache-Pulsar-的原厂来招聘了](https://www.v2ex.com/t/772924) 
-- [2021-04-24-请问又要靠抛出异常中断后续操作，又要记录日志时最优雅的操作应该是？（-Java-）](https://www.v2ex.com/t/772923) 
-- [2021-04-24-某库贴吧查绑是贴吧数据库泄漏还是穷举？](https://www.v2ex.com/t/772922) 

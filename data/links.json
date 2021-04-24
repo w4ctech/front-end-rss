@@ -17670,7 +17670,18 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "全国｜新增 9 例确诊",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN1vPnAA2vUHr7O6Ar7SP210424&isfromapp=1",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "上海｜新增 3 例确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisZBu4fd2mwRO3Z1QZqXV210424&isfromapp=1",
+        "date": "2021-04-23"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",
@@ -20642,16 +20653,6 @@
         "title": "[远程/北京/全职] StreamNative——顶级开源项目 Apache Pulsar 的原厂来招聘了",
         "link": "https://www.v2ex.com/t/772924",
         "date": "2021-04-24"
-      },
-      {
-        "title": "请问又要靠抛出异常中断后续操作，又要记录日志时最优雅的操作应该是？（ Java ）",
-        "link": "https://www.v2ex.com/t/772923",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "某库贴吧查绑是贴吧数据库泄漏还是穷举？",
-        "link": "https://www.v2ex.com/t/772922",
-        "date": "2021-04-24"
       }
     ]
   },
@@ -20818,38 +20819,8 @@
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
-        "link": "https://toutiao.io/k/feyaceo",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
-        "link": "https://toutiao.io/k/811or1j",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 教你从头写游戏服务器框架",
-        "link": "https://toutiao.io/k/906zu1i",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
-        "link": "https://toutiao.io/k/zpo0xd7",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
-        "link": "https://toutiao.io/k/omkb9gy",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] RESTful API 设计最佳实践",
-        "link": "https://toutiao.io/k/4zqz7k1",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
-        "link": "https://toutiao.io/k/3bv147y",
+        "title": "[推荐] 谈谈 MySQL 锁",
+        "link": "https://toutiao.io/k/z5c0vp0",
         "date": "2021-04-24"
       },
       {
@@ -20858,18 +20829,8 @@
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 锁",
-        "link": "https://toutiao.io/k/z5c0vp0",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 超级详细的 Spring Boot 注解总结",
-        "link": "https://toutiao.io/k/zxa65u1",
-        "date": "2021-04-24"
-      },
-      {
-        "title": "[推荐] 一文搞懂分布式锁的原理与实现",
-        "link": "https://toutiao.io/k/j7fdh6h",
+        "title": "[推荐] InnoDB 解决幻读的方案：LBCC & MVCC",
+        "link": "https://toutiao.io/k/omkb9gy",
         "date": "2021-04-24"
       },
       {
@@ -20878,8 +20839,38 @@
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] Git 分支管理策略与工作流程",
-        "link": "https://toutiao.io/k/82eogba",
+        "title": "[推荐] RESTful API 设计最佳实践",
+        "link": "https://toutiao.io/k/4zqz7k1",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 两次被裁之后，我终于解决了数据库缓存一致性问题",
+        "link": "https://toutiao.io/k/feyaceo",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 职场：工作五年之后，对技术和业务的思考",
+        "link": "https://toutiao.io/k/zpo0xd7",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 一文搞懂分布式锁的原理与实现",
+        "link": "https://toutiao.io/k/j7fdh6h",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 免费正版 IntelliJ IDEA license 详细指南",
+        "link": "https://toutiao.io/k/3bv147y",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 教你从头写游戏服务器框架",
+        "link": "https://toutiao.io/k/906zu1i",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] OpenResty 实现限流",
+        "link": "https://toutiao.io/k/syxnrph",
         "date": "2021-04-24"
       },
       {
@@ -20888,8 +20879,18 @@
         "date": "2021-04-24"
       },
       {
-        "title": "[推荐] OpenResty 实现限流",
-        "link": "https://toutiao.io/k/syxnrph",
+        "title": "[推荐] 学会这 10 种定时任务，我有点飘了",
+        "link": "https://toutiao.io/k/811or1j",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] 超级详细的 Spring Boot 注解总结",
+        "link": "https://toutiao.io/k/zxa65u1",
+        "date": "2021-04-24"
+      },
+      {
+        "title": "[推荐] Git 分支管理策略与工作流程",
+        "link": "https://toutiao.io/k/82eogba",
         "date": "2021-04-24"
       }
     ]

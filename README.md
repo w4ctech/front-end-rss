@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-24 09:38:54，:rocket: 更新条数: +4249， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-24 09:53:00，:rocket: 更新条数: +4250， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,10 @@
 </summary>
 
 
+- [2021-04-24-群晖的-DSM6.2.4-25556-在-Chromium-内核浏览器下搜索框都会被自动填充](https://www.v2ex.com/t/772954) ![](assets/new.png)  
+- [2021-04-24-iOS-14.5-RC-的屏幕镜像不能用（？）](https://www.v2ex.com/t/772953) ![](assets/new.png)  
+- [2021-04-24-外包客户为什么要外包项目或者外包什么样的项目](https://www.v2ex.com/t/772952) ![](assets/new.png)  
+- [2021-04-24-求-gstatic-服务器抽风的解决方案](https://www.v2ex.com/t/772951) ![](assets/new.png)  
 - [2021-04-24-面试题讨论，类设计](https://www.v2ex.com/t/772950) ![](assets/new.png)  
 - [2021-04-24-如何获取中国企业名单？包含全量和每日增量](https://www.v2ex.com/t/772949) ![](assets/new.png)  
 - [2021-04-24-纠结-NUC8-换-Mac-mini-M1](https://www.v2ex.com/t/772947) ![](assets/new.png)  
@@ -1012,10 +1016,6 @@
 - [2021-04-24-2050-的相册](https://www.v2ex.com/t/772934) ![](assets/new.png)  
 - [2021-04-24-深圳/北美-招聘高级-IOS-前端/H5-前端/后端/全栈-|-20k-50k-|-有机会赴美工作](https://www.v2ex.com/t/772933) ![](assets/new.png)  
 - [2021-04-24-想要在带有-T2-芯片的-Macbook-上看-Netflix-4K-你不只需要-Big-Sur-还需要开启-SIP。](https://www.v2ex.com/t/772932) ![](assets/new.png)  
-- [2021-04-24-airpods-在安卓上使用无法正确播放双声道](https://www.v2ex.com/t/772930) ![](assets/new.png)  
-- [2021-04-24-MacBook-Pro-M1-13-英寸-以-xcode-为主要使用场景-可以续航多长时间呢？](https://www.v2ex.com/t/772928) ![](assets/new.png)  
-- [2021-04-24-iOS-14.5-进一步恶心了-Home-键-iPhone-用户](https://www.v2ex.com/t/772926) ![](assets/new.png)  
-- [2021-04-24-远程/北京/全职-StreamNative——顶级开源项目-Apache-Pulsar-的原厂来招聘了](https://www.v2ex.com/t/772924) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1068,16 @@
 - [2021-04-24-什么是蠢问题？](https://toutiao.io/k/p2tmwwq) ![](assets/new.png)  
 - [2021-04-24-工具-|-阿里巴巴开源的，基于-Flutter-的-Web-渲染引擎](https://toutiao.io/k/o33m49w) ![](assets/new.png)  
 - [2021-04-24-加密原理详解：对称式加密-VS-非对称式加密](https://toutiao.io/k/q4va51n) ![](assets/new.png)  
-- [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
-- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
 - [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-24-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-24-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-24-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
 - [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
-- [2021-04-24-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
+- [2021-04-24-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-24-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-04-24-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-24-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
+- [2021-04-24-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
+- [2021-04-24-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-24-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

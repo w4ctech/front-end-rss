@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-24 08:52:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 09:02:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3389,6 +3389,7 @@
 - [2021-04-16-知乎故事-|-霸道总裁会自己洗内裤吗？](https://www.ershicimi.com/p/1bb74d353ffda9268b66981cad8b149e) 
 - [2021-04-15-用蛇毒毒毒蛇，毒蛇会不会被蛇毒毒死？](https://www.ershicimi.com/p/966d725a3d7ab7411bb6e5bed7fc252b) 
 - [2021-04-15-为了养娃如此操劳，真的有必要吗？](https://www.ershicimi.com/p/8c7ed48933b0cd87cc0bba68450f0732) 
+- [2021-04-24-v2ex.com-域名解析有点问题](https://www.v2ex.com/t/772944) 
 - [2021-04-24-用-go-写的一个文章采集工具，欢迎-start](https://www.v2ex.com/t/772943) 
 - [2021-04-24-关于-macos-下开发调用-dylib-的问题](https://www.v2ex.com/t/772942) 
 - [2021-04-24-网易牛逼神贴-崇高文字-vs-视觉工作室代码-vs-代码空间-vs-原子-vs-括号编辑器对比](https://www.v2ex.com/t/772940) 
@@ -3443,13 +3444,13 @@
 - [2021-04-24-Android-嵌套-Intent](https://toutiao.io/k/xs1ylcq) 
 - [2021-04-24-什么是蠢问题？](https://toutiao.io/k/p2tmwwq) 
 - [2021-04-24-加密原理详解：对称式加密-VS-非对称式加密](https://toutiao.io/k/q4va51n) 
+- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
+- [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) 
+- [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
+- [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
+- [2021-04-24-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
 - [2021-04-24-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) 
 - [2021-04-24-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) 
-- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) 
-- [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) 
-- [2021-04-24-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) 
-- [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) 
-- [2021-04-24-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) 
 - [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) 
 - [2021-04-23-每日攻防资讯简报Apr.23th](https://sec.thief.one/article_content?a_id=35569e14910030ba915d8f3ce720ad0b) 
 - [2021-04-23-奇安信集团与中国指挥与控制学会达成战略合作](https://sec.thief.one/article_content?a_id=0944d6b033a854cdcaf844c536920e46) 

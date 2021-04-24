@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-24 08:40:02，:rocket: 更新条数: +4247， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-24 08:52:46，:rocket: 更新条数: +4247， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -348,6 +348,7 @@
 </summary>
 
 
+- [2021-04-23-十几个CSS高级常见技巧汇总（虚线框、三角形、优惠券卡券、滚动条、多行溢出...）](https://www.ershicimi.com/p/44cfa17e6a08cbcd7efd421df758aed3) ![](assets/new.png)  
 - [2021-04-22-从入门到完整项目实战，前端学习路径](https://www.ershicimi.com/p/82749b6fbd759db9deed55c3f81d60d9) ![](assets/new.png)  
 - [2021-04-21-前端工程化实战指南，高级前端必备](https://www.ershicimi.com/p/7793a1eb50bd1e6eefa74b55f032b98f) ![](assets/new.png)  
 - [2021-04-20-前端面经-看这篇就够了（笔者靠这个拿到阿里和字节的offer）](https://www.ershicimi.com/p/26f469d468f7bb4a4fc576cfa5953085) ![](assets/new.png)  
@@ -367,7 +368,6 @@
 - [2021-04-06-面不面试的，你都得懂原型和原型链](https://www.ershicimi.com/p/a51ca0a4cad1e24a1bba631c374c6450) ![](assets/new.png)  
 - [2021-04-05-大厂都在做Serverless，他到底是什么？](https://www.ershicimi.com/p/d362db632522c185cbbfb9ffa9e4e813) ![](assets/new.png)  
 - [2021-04-01-自学前端拿到offer的心路历程热乎的面经附答案）](https://www.ershicimi.com/p/fd9b9e4321627cf648a6baa941a67078) ![](assets/new.png)  
-- [2021-03-31-做前端-8-年，看透了裁人的套路。。](https://www.ershicimi.com/p/02e96f3b0e88aace0d28d52522b94146) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1058,8 +1058,8 @@
 </summary>
 
 
-- [2021-04-24-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
 - [2021-04-24-如何正确新增字段](https://toutiao.io/k/13htx1u) ![](assets/new.png)  
+- [2021-04-24-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
 - [2021-04-24-实时数仓中的消息队列技术深度对比](https://toutiao.io/k/us38se6) ![](assets/new.png)  
 - [2021-04-24-CPU-和-GPU：异构计算的演进与发展](https://toutiao.io/k/yk8may5) ![](assets/new.png)  
 - [2021-04-24-一文带你更方便的控制-goroutine](https://toutiao.io/k/ye0n3l3) ![](assets/new.png)  
@@ -1069,15 +1069,15 @@
 - [2021-04-24-工具-|-阿里巴巴开源的，基于-Flutter-的-Web-渲染引擎](https://toutiao.io/k/o33m49w) ![](assets/new.png)  
 - [2021-04-24-加密原理详解：对称式加密-VS-非对称式加密](https://toutiao.io/k/q4va51n) ![](assets/new.png)  
 - [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-24-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [2021-04-24-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
 - [2021-04-24-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
-- [2021-04-24-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
-- [2021-04-24-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
-- [2021-04-24-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
-- [2021-04-24-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
+- [2021-04-24-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
+- [2021-04-24-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-24-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-24-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
+- [2021-04-24-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-24-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

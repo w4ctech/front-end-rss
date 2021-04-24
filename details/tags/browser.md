@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-24 00:47:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 01:15:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,9 +37,8 @@
 - [2021-04-10-Microsoft-Edge-市占份额增长1300％](https://www.ershicimi.com/p/ef49ec20eddf1219aa41ec4805d36715) 
 - [2021-04-23-求推荐-Navicat-for-PostgreSQL-的开源替代品](https://www.v2ex.com/t/772828) 
 - [2021-04-23-firefox-怎么把地址栏左边-“扩展（xxxxx）”去掉？](https://www.v2ex.com/t/772821) 
-- [2021-04-23-有什么应用软件不光能保存网页管理书签，还能保存纯文本，并且能用内置浏览器打开已保存的网页时自带-Google-翻译](https://www.v2ex.com/t/772816) 
-- [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 
 - [2021-04-24-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
+- [2021-04-24-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 
 - [2021-04-23-360安全卫士防“横向渗透”功能新升级,分分钟省了好几亿!](https://sec.thief.one/article_content?a_id=36a5cbd4fb50549122dfb472122c3843) 
 - [2021-04-23-先声夺人|权威机构认可!腾讯云安全托管服务能力居领导者地位](https://sec.thief.one/article_content?a_id=671a67015dcbb0ef004ac128d8270375) 
 - [2021-04-23-微信Chrome漏洞复现与简单分析小结](https://sec.thief.one/article_content?a_id=c305b72b74312138b2840b9f8701dc8b) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-24 08:23:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 08:40:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -457,6 +457,7 @@
 - [【前端日刊】面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219)
 - [【InfoQ】十六年全栈开发者的-Android-开发踩坑实录](https://www.ershicimi.com/p/a24dbb5328b7c0fb3027390ecf5a6a15)
 - [【JavaScript】Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29)
+- [【V2EX】vim-命令卡住](https://www.v2ex.com/t/772941)
 - [【技术头条】十六年全栈开发者的-Android-开发踩坑实录-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLiRIV5XAvToTpLTLRSkxdA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】CPU-和-GPU：异构计算的演进与发展](https://toutiao.io/k/yk8may5)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -476,8 +477,8 @@
 
 
 - [【InfoQ】Nginx-常用配置清单](https://www.ershicimi.com/p/d1c22f2667db118ad69f36a17c49d609)
-- [【开发者头条】推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph)
 - [【开发者头条】推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1)
+- [【开发者头条】推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-24 03:54:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 04:04:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -15,6 +15,7 @@
 - [2021-03-22-超全的Vue3文档【Vue2迁移Vue3】](https://www.ershicimi.com/p/265e4e291491ece4921baf13ba6795e3) 
 - [2021-03-17-面试官问-Vue-性能优化，我该怎么回答？](https://www.ershicimi.com/p/c835170ff6d0ac862183d15f5140e5a2) 
 - [2021-03-10-实战-|-Vite2.0-搭建-Vue3-移动端项目](https://www.ershicimi.com/p/7ca66b4020aed3d84650689756887815) 
+- [2021-04-24-不要再用vue2的思维写vue3了](https://www.ershicimi.com/p/dbc8fe9b1984f846d69849ce6ec58e1d) 
 - [2021-04-22-Vue3.0-高频出现的几道面试题](https://www.ershicimi.com/p/22d0b512357e9ba4d9152ec6d9e3aae9) 
 - [2021-04-21-vite2.0+vue3移动端项目实战](https://www.ershicimi.com/p/7cc1e599dc0b4dd202fa788ab37e0cdf) 
 - [2021-04-20-6个牛逼的基于Vue.js的后台控制面板，接私活必备](https://www.ershicimi.com/p/9195f561cfb4780e663719a7d35ff73d) 

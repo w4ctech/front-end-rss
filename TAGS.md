@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-25 02:01:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-25 02:30:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -395,6 +395,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/)
 - [【张鑫旭-鑫空间-鑫生活】分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/)
+- [【阮一峰的网络日志】科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html)
 - [【安全热点】python+requests+pytest接口自动化介绍](https://sec.thief.one/article_content?a_id=62728043ac04088927640adaf76a8cf1)
 - [【安全热点】吐槽过后,我为什么要夸夸-Go-语言](https://sec.thief.one/article_content?a_id=94063e980f6be2f7f1beff825f20fb2c)
 - [【安全热点】一次打包,无限复用!教你用-PyCharm-搭建一劳永逸的开发环境](https://sec.thief.one/article_content?a_id=30dc61dd2a26b47924ed1d96c18a2600)
@@ -410,9 +413,6 @@
 - [【安全热点】每日攻防资讯简报Apr.23th](https://sec.thief.one/article_content?a_id=35569e14910030ba915d8f3ce720ad0b)
 - [【安全热点】奇安信集团与中国指挥与控制学会达成战略合作](https://sec.thief.one/article_content?a_id=0944d6b033a854cdcaf844c536920e46)
 - [【安全热点】写代码,如何变得更牛逼](https://sec.thief.one/article_content?a_id=f6a33e9e786e366ced1a4127366d2f9f)
-- [【安全热点】可视化以太坊的未来之路](https://sec.thief.one/article_content?a_id=17225d69ded7111c0b7d4920b851db2b)
-- [【安全热点】HVV完了,看过来](https://sec.thief.one/article_content?a_id=208479c0ffa7469049fa41cd59cd3bf5)
-- [【安全热点】攻防落幕,来点“回血”福利-|-FVIP会员日“预热趴”开启](https://sec.thief.one/article_content?a_id=70350bda164e6799a1f434e45401a7fe)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

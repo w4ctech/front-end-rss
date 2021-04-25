@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-25 02:01:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-04-25 02:30:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -34,6 +34,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2021-04-18-腾讯开源的酷炫动画播放解决方案Vap初体验](https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) 
+- [【阮一峰的网络日志】2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) 
+- [【阮一峰的网络日志】2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) 
+- [【阮一峰的网络日志】2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html) 
 - [【安全热点】2021-04-25-视频-|-Python:面向对象之方法](https://sec.thief.one/article_content?a_id=c6e39f4e4ab38f219a5e9432fb3a3d2b) 
 - [【安全热点】2021-04-25-常用Web安全扫描工具合集](https://sec.thief.one/article_content?a_id=1c7f760eab2fae3134f0502c9949be7e) 
 - [【安全热点】2021-04-25-python+requests+pytest接口自动化介绍](https://sec.thief.one/article_content?a_id=62728043ac04088927640adaf76a8cf1) 

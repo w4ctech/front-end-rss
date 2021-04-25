@@ -186,7 +186,23 @@
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
-    "items": []
+    "items": [
+      {
+        "title": "科技爱好者周刊（第 155 期）：数字货币是打破美元霸权的武器吗？",
+        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "科技爱好者周刊（第 154 期）：1982年的信息社会预言",
+        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html",
+        "date": "2021-04-16"
+      },
+      {
+        "title": "科技爱好者周刊（第 153 期）：机器翻译是对译者的侮辱吗？",
+        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html",
+        "date": "2021-04-09"
+      }
+    ]
   },
   {
     "rss": "http://jdc.jd.com/feed",

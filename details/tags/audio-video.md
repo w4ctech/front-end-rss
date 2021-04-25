@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-25 00:09:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-25 00:28:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -89,6 +89,7 @@
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-04-23-为什么很多人认为视频替代文字阅读是一件可怕的事？](https://www.ershicimi.com/p/491e721db9cc983917d83d723a742e3a) 
 - [2021-04-20-有奖｜发视频晒家，得现金奖励和流量扶持](https://www.ershicimi.com/p/0d96d7ffe5d55eac9fb8725043e80259) 
+- [2021-04-25-视频-|-Python:面向对象之方法](https://sec.thief.one/article_content?a_id=c6e39f4e4ab38f219a5e9432fb3a3d2b) 
 - [2021-04-23-视频-|-Python:小节回顾](https://sec.thief.one/article_content?a_id=435563c092f5aac2c44acbb9de6a4017) 
 - [2021-04-22-视频-|-拆穿“茶叶姑娘”骗局](https://sec.thief.one/article_content?a_id=6a675ba3203da2f676211a3fbfba1eae) 
 - [2021-04-16-华为自动驾驶实车实路测试视频曝光！徐直军：比特斯拉好多了](https://www.ershicimi.com/p/c33fe0e76c2be0eec9fef7f25ef8d350) 

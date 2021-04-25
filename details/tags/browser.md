@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-25 00:09:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-25 00:28:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,9 @@
 - [2021-04-24-Java-的-volatile：能否在只使用-volatile-不使用更高级多线程安全措施的前提下，让这段代码按预期工作？](https://www.v2ex.com/t/772992) 
 - [2021-04-25-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) 
 - [2021-04-25-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 
+- [2021-04-25-常用Web安全扫描工具合集](https://sec.thief.one/article_content?a_id=1c7f760eab2fae3134f0502c9949be7e) 
+- [2021-04-24-国外最热门的EDR、NGFW、CASB、SIEM安全产品](https://sec.thief.one/article_content?a_id=469245c8997a6736bce49a005563abb1) 
+- [2021-04-24-用安全照亮智慧高速-|-绿盟科技亮相中国高速公路信息化大会](https://sec.thief.one/article_content?a_id=e2228d5c5f3f4af1ba48bd46c8908a08) 
 - [2021-04-24-聚焦数字中国2021:第二届虎符网络安全大赛开赛在即](https://sec.thief.one/article_content?a_id=567326b6aab0581875a989f039d7630b) 
 - [2021-04-24-流氓至此,我竟无言以对之Chrome-浏览器主页被篡](https://sec.thief.one/article_content?a_id=907c1837cdac8025a2d0b7ecfe3231e6) 
 - [2021-04-24-倒计时1天|安全范儿沙龙第3期即将开启](https://sec.thief.one/article_content?a_id=360b785850652adb1f24312beb84a031) 
@@ -55,6 +58,3 @@
 - [2021-04-22-CNNVD-关于Oracle-WebLogic-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=50affd5bd70c499c66b056208e3bb123) 
 - [2021-04-22-安全日报2021.04.22](https://sec.thief.one/article_content?a_id=202714d1c0330f4083a019455fc4c52e) 
 - [2021-04-21-【安全圈】美一知名电子邮件曝3个在野0day漏洞](https://sec.thief.one/article_content?a_id=8d3e3d85212b4cbeb3378d2759258a9e) 
-- [2021-04-21-邀请函-|-西湖论剑·“首届国产优秀网络安全工具主题展”邀您来观展...](https://sec.thief.one/article_content?a_id=c436d7e6ee141de82f89d450fd3f39a8) 
-- [2021-04-21-绿盟科技叶晓虎:智慧安全3.0理念的安全运营之道](https://sec.thief.one/article_content?a_id=dc9795d1918bedd1ebd8f01a0f24fc3e) 
-- [2021-04-21-Oracle-补丁日高危漏洞安全公告|2021年4月](https://sec.thief.one/article_content?a_id=adbbc3ae74893746e10568bb355c0f08) 

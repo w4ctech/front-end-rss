@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-25 03:54:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-25 04:04:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-04-25-JS视频解码JSMpeg和Broadway开箱测评](https://www.zhangxinxu.com/wordpress/2021/04/js-video-decode-jsmpeg-broadway/) 
 - [2021-04-24-《信息技术-安全技术-信息安全事件管理-第2部分:事件响应规划和准...](https://sec.thief.one/article_content?a_id=d39b36b27dbd2e22e9541a9ea70c4215) 
 - [2021-04-23-【安全圈】Facebook高居数据泄露事件最多公司榜首](https://sec.thief.one/article_content?a_id=11441c958d92ff23d7bf77d02a617714) 
 - [2021-04-22-【安全圈】代码测试公司Codecov遭到黑客入侵事件](https://sec.thief.one/article_content?a_id=dfa61ce4c38d21c7280cc9244399fdd7) 

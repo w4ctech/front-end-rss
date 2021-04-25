@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-25 00:28:12，:rocket: 更新条数: +4242， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-25 00:48:32，:rocket: 更新条数: +4243， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 </summary>
 
 
+- [2021-04-25-黑龙江望奎县发现1名复阳人员](https://m.caixin.com/m/2021-04-25/101698668.html) ![](assets/new.png)  
 - [2021-04-24-复必泰“姐妹款”疫苗披露中国I期数据-复星引进速度领先](https://m.caixin.com/m/2021-04-24/101698561.html) ![](assets/new.png)  
 - [2021-04-24-最新海外疫情：新冠感染超1.45亿-累计死亡超307万](https://m.caixin.com/m/2021-04-24/101698643.html) ![](assets/new.png)  
 - [2021-04-24-【境内疫情观察】全国新增9例境外输入病例（4月23日）](http://m.database.caixin.com/m/2021-04-24/101698582.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-04-19-【境内疫情观察】全国新增11例境外输入病例（4月18日）](http://m.database.caixin.com/m/2021-04-19/101693254.html) ![](assets/new.png)  
 - [2021-04-19-印度单日新增逾26万病例-世卫称全球感染率接近历史高峰｜大流行手记（4月18日）](https://m.caixin.com/m/2021-04-19/101692924.html) ![](assets/new.png)  
 - [2021-04-18-【境内疫情观察】全国新增16例境外输入病例（4月17日）](http://m.database.caixin.com/m/2021-04-18/101692852.html) ![](assets/new.png)  
-- [2021-04-18-科兴疫苗智利真实世界保护率达67%-礼来中和抗体紧急授权被收回｜大流行手记（4月17日）](https://m.caixin.com/m/2021-04-18/101692822.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,24 +1060,24 @@
 
 - [2021-04-25-工作中沟通的-4-点感悟](https://toutiao.io/k/tsqw03z) ![](assets/new.png)  
 - [2021-04-25-分布式配置中心选型，为什么选择-Apollo？](https://toutiao.io/k/2do7cy9) ![](assets/new.png)  
-- [2021-04-25-VSCode-插件推荐](https://toutiao.io/k/wlggoto) ![](assets/new.png)  
 - [2021-04-25-Java-提取-EXIF-信息批量重命名](https://toutiao.io/k/sp2k2z9) ![](assets/new.png)  
+- [2021-04-25-VSCode-插件推荐](https://toutiao.io/k/wlggoto) ![](assets/new.png)  
 - [2021-04-25-写给开发人员的实用密码学：CA](https://toutiao.io/k/vwhpln3) ![](assets/new.png)  
 - [2021-04-25-美团-Serverless-平台-Nest-的探索与实践](https://toutiao.io/k/696uwce) ![](assets/new.png)  
 - [2021-04-25-iOS-内存管理相关](https://toutiao.io/k/jlak2h1) ![](assets/new.png)  
 - [2021-04-25-掌门持续交付流水线大规模实践](https://toutiao.io/k/rvxn1my) ![](assets/new.png)  
-- [2021-04-25-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
-- [2021-04-25-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
-- [2021-04-25-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
-- [2021-04-25-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
-- [2021-04-25-推荐-一文读懂，DDD-落地数据库设计实战](https://toutiao.io/k/6aau0fc) ![](assets/new.png)  
-- [2021-04-25-推荐-免费正版-IntelliJ-IDEA-license-详细指南](https://toutiao.io/k/3bv147y) ![](assets/new.png)  
-- [2021-04-25-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
-- [2021-04-25-推荐-InnoDB-解决幻读的方案：LBCC-&-MVCC](https://toutiao.io/k/omkb9gy) ![](assets/new.png)  
-- [2021-04-25-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-04-25-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
-- [2021-04-25-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [2021-04-25-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-04-25-推荐-教你从头写游戏服务器框架](https://toutiao.io/k/906zu1i) ![](assets/new.png)  
+- [2021-04-25-推荐-Git-分支管理策略与工作流程](https://toutiao.io/k/82eogba) ![](assets/new.png)  
+- [2021-04-25-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-04-25-推荐-职场：工作五年之后，对技术和业务的思考](https://toutiao.io/k/zpo0xd7) ![](assets/new.png)  
+- [2021-04-25-推荐-学会这-10-种定时任务，我有点飘了](https://toutiao.io/k/811or1j) ![](assets/new.png)  
+- [2021-04-25-推荐-谈谈-MySQL-锁](https://toutiao.io/k/z5c0vp0) ![](assets/new.png)  
+- [2021-04-25-推荐-RESTful-API-设计最佳实践](https://toutiao.io/k/4zqz7k1) ![](assets/new.png)  
+- [2021-04-25-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
+- [2021-04-25-推荐-超级详细的-Spring-Boot-注解总结](https://toutiao.io/k/zxa65u1) ![](assets/new.png)  
+- [2021-04-25-推荐-两次被裁之后，我终于解决了数据库缓存一致性问题](https://toutiao.io/k/feyaceo) ![](assets/new.png)  
+- [2021-04-25-推荐-JVM-进阶之路（九）：性能监控工具（可视化工具篇）](https://toutiao.io/k/7uw9l2r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

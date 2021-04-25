@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-25 01:59:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-25 02:01:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -7,9 +7,6 @@
 
 - [2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) 
 - [2021-03-30-分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/) 
-- [2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) 
-- [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) 
-- [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html) 
 - [2021-04-25-python+requests+pytest接口自动化介绍](https://sec.thief.one/article_content?a_id=62728043ac04088927640adaf76a8cf1) 
 - [2021-04-25-吐槽过后,我为什么要夸夸-Go-语言](https://sec.thief.one/article_content?a_id=94063e980f6be2f7f1beff825f20fb2c) 
 - [2021-04-24-一次打包,无限复用!教你用-PyCharm-搭建一劳永逸的开发环境](https://sec.thief.one/article_content?a_id=30dc61dd2a26b47924ed1d96c18a2600) 

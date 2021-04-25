@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-25 10:02:40，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-25 10:23:43，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -507,26 +507,26 @@
 </summary>
 
 
+- [2021-04-25-数据安全法草案、个人信息保护法草案最新修改内容公布](https://sec.thief.one/article_content?a_id=f24bd0ea2f809d375e9a796b9bf5c0e1) ![](assets/new.png)  
+- [2021-04-25-直播预告丨今晚21点,i春秋特邀精英白帽共赴知识盛宴!](https://sec.thief.one/article_content?a_id=a3125ff590095b945dc91db78b07f1fa) ![](assets/new.png)  
+- [2021-04-25-获取实时有价值可操作的漏洞情报请关注奇安信CERT|20210408-...](https://sec.thief.one/article_content?a_id=8049940d223bb059e8c412a659055647) ![](assets/new.png)  
+- [2021-04-25-敢为敢战-破浪前行|绿盟科技21岁生日快乐](https://sec.thief.one/article_content?a_id=61de0ccd6b89b62ce901fe4e2cb9ff29) ![](assets/new.png)  
+- [2021-04-25-百家|红蓝对抗,互联网威胁情报平台引发的法律问题研究](https://sec.thief.one/article_content?a_id=aa951f982b54ea4c16d9e7e16037edf1) ![](assets/new.png)  
+- [2021-04-25-安全日报2021.04.25](https://sec.thief.one/article_content?a_id=f0e404b83547598bdda27692a08387fa) ![](assets/new.png)  
+- [2021-04-25-《北京市保守国家秘密条例》10月1日施行,强调机关单位网络工具的...](https://sec.thief.one/article_content?a_id=365f0dbf2b1d57e9826cc211c59f6ada) ![](assets/new.png)  
+- [2021-04-25-黄坤明:坚持自立自强、创新引领-高标准高质量推进数字中国建设](https://sec.thief.one/article_content?a_id=149747b1d2c019aff5ae0fbc89d52615) ![](assets/new.png)  
+- [2021-04-25-每日安全动态推送04-25](https://sec.thief.one/article_content?a_id=0f2368e6c2db27115b5bed38d00961dd) ![](assets/new.png)  
+- [2021-04-25-全国人大法工委公布数据安全法草案、个人信息保护法草案最新修改内容](https://sec.thief.one/article_content?a_id=445ef418ebcfb350edc75b1f17905216) ![](assets/new.png)  
+- [2021-04-25-IDC《2021年全球半年度安全支出指南》:亚太区一骑绝尘](https://sec.thief.one/article_content?a_id=bb7c4779d216a05e31eb4a85243bf602) ![](assets/new.png)  
+- [2021-04-25-2021年“4.29首都网络安全日”活动报名现已启动](https://sec.thief.one/article_content?a_id=0c6a12c03f3aa522d9b302297c2217e3) ![](assets/new.png)  
+- [2021-04-25-比特币:雪崩的时候,每一片雪花都有罪](https://sec.thief.one/article_content?a_id=8cd29f3bcbe2c265d7b86ba52af666c5) ![](assets/new.png)  
+- [2021-04-25-威联通Q​​NAP删除NAS备份,灾难恢复应用程序中的后门帐户](https://sec.thief.one/article_content?a_id=f3389e79b25a126ae458867d9905fa71) ![](assets/new.png)  
+- [2021-04-25-人在地球坐代码上火星,围观高手的世界!](https://sec.thief.one/article_content?a_id=de4801c9180af82b5c012b50a7ec9f52) ![](assets/new.png)  
+- [2021-04-25-常用Web安全扫描工具合集](https://sec.thief.one/article_content?a_id=7cba3000dc0e5bb44939fb3dca83ad73) ![](assets/new.png)  
+- [2021-04-25-一次远程命令执行引发的应急响应](https://sec.thief.one/article_content?a_id=801c5f5f3072b55c8192e9d7728689c9) ![](assets/new.png)  
+- [2021-04-25-IDC发布《2021年全球半年度安全支出指南》,亚太区一骑绝尘](https://sec.thief.one/article_content?a_id=e4f914205f4a0c64740d2ed1fd78b6f8) ![](assets/new.png)  
 - [2021-04-25-视频-|-Python:面向对象之方法](https://sec.thief.one/article_content?a_id=c6e39f4e4ab38f219a5e9432fb3a3d2b) ![](assets/new.png)  
 - [2021-04-25-常用Web安全扫描工具合集](https://sec.thief.one/article_content?a_id=1c7f760eab2fae3134f0502c9949be7e) ![](assets/new.png)  
-- [2021-04-25-python+requests+pytest接口自动化介绍](https://sec.thief.one/article_content?a_id=62728043ac04088927640adaf76a8cf1) ![](assets/new.png)  
-- [2021-04-25-吐槽过后,我为什么要夸夸-Go-语言](https://sec.thief.one/article_content?a_id=94063e980f6be2f7f1beff825f20fb2c) ![](assets/new.png)  
-- [2021-04-24-国外最热门的EDR、NGFW、CASB、SIEM安全产品](https://sec.thief.one/article_content?a_id=469245c8997a6736bce49a005563abb1) ![](assets/new.png)  
-- [2021-04-24-一次打包,无限复用!教你用-PyCharm-搭建一劳永逸的开发环境](https://sec.thief.one/article_content?a_id=30dc61dd2a26b47924ed1d96c18a2600) ![](assets/new.png)  
-- [2021-04-24-用安全照亮智慧高速-|-绿盟科技亮相中国高速公路信息化大会](https://sec.thief.one/article_content?a_id=e2228d5c5f3f4af1ba48bd46c8908a08) ![](assets/new.png)  
-- [2021-04-24-趋势关注:为什么XDR必须包含MDR](https://sec.thief.one/article_content?a_id=a9311a93dfc2b8558d833ddb3db511d2) ![](assets/new.png)  
-- [2021-04-24-议题征集中!2021-SDC不见不散!](https://sec.thief.one/article_content?a_id=767f406cda735de4617907c829ad9cd6) ![](assets/new.png)  
-- [2021-04-24-聚焦数字中国2021:第二届虎符网络安全大赛开赛在即](https://sec.thief.one/article_content?a_id=567326b6aab0581875a989f039d7630b) ![](assets/new.png)  
-- [2021-04-24-流氓至此,我竟无言以对之Chrome-浏览器主页被篡](https://sec.thief.one/article_content?a_id=907c1837cdac8025a2d0b7ecfe3231e6) ![](assets/new.png)  
-- [2021-04-24-全国革命文物百佳讲述人候选人作品展播④](https://sec.thief.one/article_content?a_id=89df0c272782038d2d2414b16c6c8a61) ![](assets/new.png)  
-- [2021-04-24-在Z|红华资本高薪诚招投资分析师、投资经理](https://sec.thief.one/article_content?a_id=f440416fb6ce895445eadd53cb54f662) ![](assets/new.png)  
-- [2021-04-24-反弹Shell,看这一篇就够了](https://sec.thief.one/article_content?a_id=21ed394b17c09888c4aabf7c3c0e64f6) ![](assets/new.png)  
-- [2021-04-24-研究人员通过-Mirai-恶意软件有效载荷确定了两个新的物联网漏洞](https://sec.thief.one/article_content?a_id=5d6ff53bf010fed2c403daf395d16825) ![](assets/new.png)  
-- [2021-04-24-倒计时1天|安全范儿沙龙第3期即将开启](https://sec.thief.one/article_content?a_id=360b785850652adb1f24312beb84a031) ![](assets/new.png)  
-- [2021-04-24-涉案1000余万,这一宗虚拟币诈骗案被苏州警方破获!](https://sec.thief.one/article_content?a_id=5bb2889ca2e071daaf89310170a20f37) ![](assets/new.png)  
-- [2021-04-24-《信息技术-安全技术-信息安全事件管理-第2部分:事件响应规划和准...](https://sec.thief.one/article_content?a_id=d39b36b27dbd2e22e9541a9ea70c4215) ![](assets/new.png)  
-- [2021-04-24-Python-速度慢,试试这个方法提高-1000-倍](https://sec.thief.one/article_content?a_id=2117fad0840aea866fcc430671cc38e5) ![](assets/new.png)  
-- [2021-04-24-工业互联网设备的网络安全管理与防护研究](https://sec.thief.one/article_content?a_id=b26ce2da53c39c083d7fadd6adc40729) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

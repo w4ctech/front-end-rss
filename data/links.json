@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Safari不支持build-in自定义元素的兼容处理",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/",
+        "date": "2021-04-26"
+      },
+      {
         "title": "JS视频解码JSMpeg和Broadway开箱测评",
         "link": "https://www.zhangxinxu.com/wordpress/2021/04/js-video-decode-jsmpeg-broadway/",
         "date": "2021-04-25"
@@ -173,11 +178,6 @@
       {
         "title": "Chrome 88已经支持aspect-ratio属性了，学起来",
         "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/",
-        "date": "2021-02-17"
-      },
-      {
-        "title": "好消息，CSS text-underline-offset可以用起来了",
-        "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset/",
         "date": "2021-02-17"
       }
     ]

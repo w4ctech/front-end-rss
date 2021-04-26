@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-26 10:02:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-26 10:23:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -170,7 +170,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS视频解码JSMpeg和Broadway开箱测评](https://www.zhangxinxu.com/wordpress/2021/04/js-video-decode-jsmpeg-broadway/)
 - [【安全热点】《信息技术-安全技术-信息安全事件管理-第2部分:事件响应规划和准...](https://sec.thief.one/article_content?a_id=d39b36b27dbd2e22e9541a9ea70c4215)
 - [【安全热点】【安全圈】Facebook高居数据泄露事件最多公司榜首](https://sec.thief.one/article_content?a_id=11441c958d92ff23d7bf77d02a617714)
-- [【安全热点】【安全圈】代码测试公司Codecov遭到黑客入侵事件](https://sec.thief.one/article_content?a_id=dfa61ce4c38d21c7280cc9244399fdd7)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -208,6 +207,7 @@
 
 
 
+- [【安全热点】4月26日贵币GUIBI早内参-以太坊预计7月进行伦敦分叉,ZKSwap今晚...](https://sec.thief.one/article_content?a_id=c86f2e21b26d0db1818274b3c44dcf15)
 - [【安全热点】4月23日贵币GUIBI早内参-比特币市值占比跌破50%,MakerDAO发行基...](https://sec.thief.one/article_content?a_id=5fe201cd57e664a02a385e9914787d24)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
@@ -226,10 +226,10 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/)
+- [【安全热点】视频-|-虚拟机安装部署与管理](https://sec.thief.one/article_content?a_id=7ec5df06761b11be2ea8ec5e425cac5c)
 - [【安全热点】B-站上这些-Python-视频真香!](https://sec.thief.one/article_content?a_id=263a099b83fc6cc3a3ee2c7f813fc468)
 - [【安全热点】直播预告丨今晚21点,i春秋特邀精英白帽共赴知识盛宴!](https://sec.thief.one/article_content?a_id=a3125ff590095b945dc91db78b07f1fa)
 - [【安全热点】视频-|-Python:面向对象之方法](https://sec.thief.one/article_content?a_id=c6e39f4e4ab38f219a5e9432fb3a3d2b)
-- [【安全热点】视频-|-Python:小节回顾](https://sec.thief.one/article_content?a_id=435563c092f5aac2c44acbb9de6a4017)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -263,6 +263,11 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/)
+- [【安全热点】【安全热点周报】第191期:Oracle官方发布了2021年4月的关键补丁...](https://sec.thief.one/article_content?a_id=65015964a562f4ed6108ef8831a041e2)
+- [【安全热点】【中奖名单】《内生安全:新一代网络安全框架体系与实践》书籍中奖...](https://sec.thief.one/article_content?a_id=c46aa10002f96c9806b5892cde80b91e)
+- [【安全热点】安全日报2021.04.26](https://sec.thief.one/article_content?a_id=ac7638b140dc78de8f43dff38eefede5)
+- [【安全热点】每日安全动态推送04-26](https://sec.thief.one/article_content?a_id=e7202f23db7e50b7507364f6d4f9aa60)
+- [【安全热点】水利部召开2021年网络安全攻防演练工作总结会](https://sec.thief.one/article_content?a_id=e999db1d9dbb61e96ebc3ce4c803a965)
 - [【安全热点】【安全圈】Darkside勒索软件攻击升级,不给钱就“做空”企业](https://sec.thief.one/article_content?a_id=48580c1ed8d71e068d57c90a0d770a18)
 - [【安全热点】数据安全法草案、个人信息保护法草案最新修改内容公布](https://sec.thief.one/article_content?a_id=f24bd0ea2f809d375e9a796b9bf5c0e1)
 - [【安全热点】安全日报2021.04.25](https://sec.thief.one/article_content?a_id=f0e404b83547598bdda27692a08387fa)
@@ -277,11 +282,6 @@
 - [【安全热点】用安全照亮智慧高速-|-绿盟科技亮相中国高速公路信息化大会](https://sec.thief.one/article_content?a_id=e2228d5c5f3f4af1ba48bd46c8908a08)
 - [【安全热点】聚焦数字中国2021:第二届虎符网络安全大赛开赛在即](https://sec.thief.one/article_content?a_id=567326b6aab0581875a989f039d7630b)
 - [【安全热点】流氓至此,我竟无言以对之Chrome-浏览器主页被篡](https://sec.thief.one/article_content?a_id=907c1837cdac8025a2d0b7ecfe3231e6)
-- [【安全热点】倒计时1天|安全范儿沙龙第3期即将开启](https://sec.thief.one/article_content?a_id=360b785850652adb1f24312beb84a031)
-- [【安全热点】工业互联网设备的网络安全管理与防护研究](https://sec.thief.one/article_content?a_id=b26ce2da53c39c083d7fadd6adc40729)
-- [【安全热点】360安全卫士防“横向渗透”功能新升级,分分钟省了好几亿!](https://sec.thief.one/article_content?a_id=36a5cbd4fb50549122dfb472122c3843)
-- [【安全热点】先声夺人|权威机构认可!腾讯云安全托管服务能力居领导者地位](https://sec.thief.one/article_content?a_id=671a67015dcbb0ef004ac128d8270375)
-- [【安全热点】微信Chrome漏洞复现与简单分析小结](https://sec.thief.one/article_content?a_id=c305b72b74312138b2840b9f8701dc8b)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -346,6 +346,7 @@
 
 
 
+- [【安全热点】【招聘】深圳网安检测招人啦](https://sec.thief.one/article_content?a_id=ad9c35657942c0f0944282a1eb808621)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -397,21 +398,21 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html)
-- [【安全热点】违规收集个人信息:广州农商行、微众银行、南粤银行App遭通报](https://sec.thief.one/article_content?a_id=b3def54376ec03669859c2e26783fe75)
-- [【安全热点】聚焦数字中国|“零信任”联盟正式成立-奇安信成首批成员单位](https://sec.thief.one/article_content?a_id=14f8f592565fe3426d5a7699a73c9354)
-- [【安全热点】每日攻防资讯简报Apr.25th](https://sec.thief.one/article_content?a_id=d20c8b619463ec0f68d61637591aac31)
-- [【安全热点】2.2-万-Star!一个开源免费的-To-Do-List-应用!](https://sec.thief.one/article_content?a_id=b860ee04507f59abec57162a61f96d84)
-- [【安全热点】红雨滴云沙箱的“七种武器”【附:部分攻防样本报告】](https://sec.thief.one/article_content?a_id=ee000abbc841f56e3e933a77d983f2c7)
-- [【安全热点】利用聊天软件漏洞窃取比特币?360区块链防火墙铸就铜墙铁壁](https://sec.thief.one/article_content?a_id=6e42558b4a8431d5d31d5ab99d965c31)
-- [【安全热点】获取实时有价值可操作的漏洞情报请关注奇安信CERT|20210408-...](https://sec.thief.one/article_content?a_id=8049940d223bb059e8c412a659055647)
-- [【安全热点】敢为敢战-破浪前行|绿盟科技21岁生日快乐](https://sec.thief.one/article_content?a_id=61de0ccd6b89b62ce901fe4e2cb9ff29)
-- [【安全热点】百家|红蓝对抗,互联网威胁情报平台引发的法律问题研究](https://sec.thief.one/article_content?a_id=aa951f982b54ea4c16d9e7e16037edf1)
-- [【安全热点】《北京市保守国家秘密条例》10月1日施行,强调机关单位网络工具的...](https://sec.thief.one/article_content?a_id=365f0dbf2b1d57e9826cc211c59f6ada)
-- [【安全热点】黄坤明:坚持自立自强、创新引领-高标准高质量推进数字中国建设](https://sec.thief.one/article_content?a_id=149747b1d2c019aff5ae0fbc89d52615)
-- [【安全热点】比特币:雪崩的时候,每一片雪花都有罪](https://sec.thief.one/article_content?a_id=8cd29f3bcbe2c265d7b86ba52af666c5)
-- [【安全热点】威联通Q​​NAP删除NAS备份,灾难恢复应用程序中的后门帐户](https://sec.thief.one/article_content?a_id=f3389e79b25a126ae458867d9905fa71)
-- [【安全热点】人在地球坐代码上火星,围观高手的世界!](https://sec.thief.one/article_content?a_id=de4801c9180af82b5c012b50a7ec9f52)
-- [【安全热点】一次远程命令执行引发的应急响应](https://sec.thief.one/article_content?a_id=801c5f5f3072b55c8192e9d7728689c9)
+- [【安全热点】SecWiki周刊第373期](https://sec.thief.one/article_content?a_id=e5910f09365aca6eca08b86376c0802a)
+- [【安全热点】疫情反扑时攻击者也没放过印度,生鲜电商用户数据被免费公开](https://sec.thief.one/article_content?a_id=778797bdbb1c9d668481b04f869a5214)
+- [【安全热点】反跨境赌博不松懈:央行召开打击治理跨境赌博“资金链”工作会议](https://sec.thief.one/article_content?a_id=c3632191e234bb87241154e906f8ab46)
+- [【安全热点】如何DIY一台墨水屏笔记本电脑?](https://sec.thief.one/article_content?a_id=44cec4bc5d14ef9948661ef4c2af147f)
+- [【安全热点】天融信关于Webmin多个高危漏洞风险提示](https://sec.thief.one/article_content?a_id=5d5095a97a77ebfa4fa15935cf18c062)
+- [【安全热点】《移动互联网应用程序个人信息保护管理暂行规定》公开征求意见](https://sec.thief.one/article_content?a_id=e85eb65bc8a1e92483253a95abffe069)
+- [【安全热点】发现金融知识:加密货币引领散户投资变化](https://sec.thief.one/article_content?a_id=11440fb6069ea09d3b091f91bf11b249)
+- [【安全热点】喜报:「碳泽」完成数千万人民币PRE-A轮融资](https://sec.thief.one/article_content?a_id=a9f0bffce2b6769d45dafac6cf30242d)
+- [【安全热点】2021年暑假红队训练营!费用全免!助你实现研究梦想!](https://sec.thief.one/article_content?a_id=e97b9cc60c3556e3f54d80a1a92d2272)
+- [【安全热点】OSCP认证之缓冲区溢出](https://sec.thief.one/article_content?a_id=78bfe9a1a1864ba0a9b8a05d50c687e9)
+- [【安全热点】Codecov供应链攻击的受害者不断增加-美国联邦调开始评估其影响](https://sec.thief.one/article_content?a_id=b839265063ee04961758e2968ff31a95)
+- [【安全热点】2021融信天下合作伙伴大会盛大开幕,筑牢“四全”核心竞争力](https://sec.thief.one/article_content?a_id=e8fc37a48ec5b8e72b880f8f69316338)
+- [【安全热点】新的加密恶意软件团伙建立了针对Windows和Linux的僵尸网络](https://sec.thief.one/article_content?a_id=0890bc3a664a41569ae74c065d65693d)
+- [【安全热点】CrossLinked-LinkedIn枚举工具](https://sec.thief.one/article_content?a_id=b6d358f2ede861550b1c5c68eff3a866)
+- [【安全热点】Security-Biz发布RDP账户泄漏自查网站](https://sec.thief.one/article_content?a_id=e11d5d96dc61ed252d78dc5fe0c9583e)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

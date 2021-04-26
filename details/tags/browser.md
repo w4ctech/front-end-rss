@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-26 10:02:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-26 10:23:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,11 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-04-26-【安全热点周报】第191期:Oracle官方发布了2021年4月的关键补丁...](https://sec.thief.one/article_content?a_id=65015964a562f4ed6108ef8831a041e2) 
+- [2021-04-26-【中奖名单】《内生安全:新一代网络安全框架体系与实践》书籍中奖...](https://sec.thief.one/article_content?a_id=c46aa10002f96c9806b5892cde80b91e) 
+- [2021-04-26-安全日报2021.04.26](https://sec.thief.one/article_content?a_id=ac7638b140dc78de8f43dff38eefede5) 
+- [2021-04-26-每日安全动态推送04-26](https://sec.thief.one/article_content?a_id=e7202f23db7e50b7507364f6d4f9aa60) 
+- [2021-04-26-水利部召开2021年网络安全攻防演练工作总结会](https://sec.thief.one/article_content?a_id=e999db1d9dbb61e96ebc3ce4c803a965) 
 - [2021-04-25-【安全圈】Darkside勒索软件攻击升级,不给钱就“做空”企业](https://sec.thief.one/article_content?a_id=48580c1ed8d71e068d57c90a0d770a18) 
 - [2021-04-25-数据安全法草案、个人信息保护法草案最新修改内容公布](https://sec.thief.one/article_content?a_id=f24bd0ea2f809d375e9a796b9bf5c0e1) 
 - [2021-04-25-安全日报2021.04.25](https://sec.thief.one/article_content?a_id=f0e404b83547598bdda27692a08387fa) 
@@ -28,10 +33,3 @@
 - [2021-04-23-先声夺人|权威机构认可!腾讯云安全托管服务能力居领导者地位](https://sec.thief.one/article_content?a_id=671a67015dcbb0ef004ac128d8270375) 
 - [2021-04-23-微信Chrome漏洞复现与简单分析小结](https://sec.thief.one/article_content?a_id=c305b72b74312138b2840b9f8701dc8b) 
 - [2021-04-23-国家漏洞库CNNVD:关于Oracle-WebLogic多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=0d88bf9e3dd212d66902b07637e9a3ea) 
-- [2021-04-22-419五周年丨谭晓生:在回顾与展望之间-谈谈网络安全产业热点与热词](https://sec.thief.one/article_content?a_id=d0a6e6d34c1b501424ce4afbfc52b6bd) 
-- [2021-04-22-用安全守护草原的梦|企业联合公益活动—MiSRC](https://sec.thief.one/article_content?a_id=63247dd80d7c8ac38642065552c9373c) 
-- [2021-04-22-「议题前瞻」基于AI流量分析模型的数据安全解决方案丨FreeBuf企业...](https://sec.thief.one/article_content?a_id=1c2958e63d92f9a6c2def0f2c1ed55f3) 
-- [2021-04-22-Chrome更新来袭,共修复7个安全问题](https://sec.thief.one/article_content?a_id=a5472b2ba01191a7809325fb39ae0c25) 
-- [2021-04-22-征文|杨博涵:从防御、监测到运营,浅谈终端安全](https://sec.thief.one/article_content?a_id=bcbf2453f57bcf0615979c5cca20eded) 
-- [2021-04-22-信息安全技术学习分班通知](https://sec.thief.one/article_content?a_id=cd62108a5169fec3ec64777bde05e70c) 
-- [2021-04-22-CNNVD-关于Oracle-WebLogic-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=50affd5bd70c499c66b056208e3bb123) 

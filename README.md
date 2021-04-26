@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-26 10:02:53，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-26 10:23:59，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -507,26 +507,26 @@
 </summary>
 
 
-- [2021-04-26-B-站上这些-Python-视频真香!](https://sec.thief.one/article_content?a_id=263a099b83fc6cc3a3ee2c7f813fc468) ![](assets/new.png)  
-- [2021-04-26-违规收集个人信息:广州农商行、微众银行、南粤银行App遭通报](https://sec.thief.one/article_content?a_id=b3def54376ec03669859c2e26783fe75) ![](assets/new.png)  
-- [2021-04-25-【安全圈】Darkside勒索软件攻击升级,不给钱就“做空”企业](https://sec.thief.one/article_content?a_id=48580c1ed8d71e068d57c90a0d770a18) ![](assets/new.png)  
-- [2021-04-25-聚焦数字中国|“零信任”联盟正式成立-奇安信成首批成员单位](https://sec.thief.one/article_content?a_id=14f8f592565fe3426d5a7699a73c9354) ![](assets/new.png)  
-- [2021-04-25-每日攻防资讯简报Apr.25th](https://sec.thief.one/article_content?a_id=d20c8b619463ec0f68d61637591aac31) ![](assets/new.png)  
-- [2021-04-25-2.2-万-Star!一个开源免费的-To-Do-List-应用!](https://sec.thief.one/article_content?a_id=b860ee04507f59abec57162a61f96d84) ![](assets/new.png)  
-- [2021-04-25-红雨滴云沙箱的“七种武器”【附:部分攻防样本报告】](https://sec.thief.one/article_content?a_id=ee000abbc841f56e3e933a77d983f2c7) ![](assets/new.png)  
-- [2021-04-25-利用聊天软件漏洞窃取比特币?360区块链防火墙铸就铜墙铁壁](https://sec.thief.one/article_content?a_id=6e42558b4a8431d5d31d5ab99d965c31) ![](assets/new.png)  
-- [2021-04-25-数据安全法草案、个人信息保护法草案最新修改内容公布](https://sec.thief.one/article_content?a_id=f24bd0ea2f809d375e9a796b9bf5c0e1) ![](assets/new.png)  
-- [2021-04-25-直播预告丨今晚21点,i春秋特邀精英白帽共赴知识盛宴!](https://sec.thief.one/article_content?a_id=a3125ff590095b945dc91db78b07f1fa) ![](assets/new.png)  
-- [2021-04-25-获取实时有价值可操作的漏洞情报请关注奇安信CERT|20210408-...](https://sec.thief.one/article_content?a_id=8049940d223bb059e8c412a659055647) ![](assets/new.png)  
-- [2021-04-25-敢为敢战-破浪前行|绿盟科技21岁生日快乐](https://sec.thief.one/article_content?a_id=61de0ccd6b89b62ce901fe4e2cb9ff29) ![](assets/new.png)  
-- [2021-04-25-百家|红蓝对抗,互联网威胁情报平台引发的法律问题研究](https://sec.thief.one/article_content?a_id=aa951f982b54ea4c16d9e7e16037edf1) ![](assets/new.png)  
-- [2021-04-25-安全日报2021.04.25](https://sec.thief.one/article_content?a_id=f0e404b83547598bdda27692a08387fa) ![](assets/new.png)  
-- [2021-04-25-《北京市保守国家秘密条例》10月1日施行,强调机关单位网络工具的...](https://sec.thief.one/article_content?a_id=365f0dbf2b1d57e9826cc211c59f6ada) ![](assets/new.png)  
-- [2021-04-25-黄坤明:坚持自立自强、创新引领-高标准高质量推进数字中国建设](https://sec.thief.one/article_content?a_id=149747b1d2c019aff5ae0fbc89d52615) ![](assets/new.png)  
-- [2021-04-25-每日安全动态推送04-25](https://sec.thief.one/article_content?a_id=0f2368e6c2db27115b5bed38d00961dd) ![](assets/new.png)  
-- [2021-04-25-全国人大法工委公布数据安全法草案、个人信息保护法草案最新修改内容](https://sec.thief.one/article_content?a_id=445ef418ebcfb350edc75b1f17905216) ![](assets/new.png)  
-- [2021-04-25-IDC《2021年全球半年度安全支出指南》:亚太区一骑绝尘](https://sec.thief.one/article_content?a_id=bb7c4779d216a05e31eb4a85243bf602) ![](assets/new.png)  
-- [2021-04-25-2021年“4.29首都网络安全日”活动报名现已启动](https://sec.thief.one/article_content?a_id=0c6a12c03f3aa522d9b302297c2217e3) ![](assets/new.png)  
+- [2021-04-26-SecWiki周刊第373期](https://sec.thief.one/article_content?a_id=e5910f09365aca6eca08b86376c0802a) ![](assets/new.png)  
+- [2021-04-26-【招聘】深圳网安检测招人啦](https://sec.thief.one/article_content?a_id=ad9c35657942c0f0944282a1eb808621) ![](assets/new.png)  
+- [2021-04-26-疫情反扑时攻击者也没放过印度,生鲜电商用户数据被免费公开](https://sec.thief.one/article_content?a_id=778797bdbb1c9d668481b04f869a5214) ![](assets/new.png)  
+- [2021-04-26-反跨境赌博不松懈:央行召开打击治理跨境赌博“资金链”工作会议](https://sec.thief.one/article_content?a_id=c3632191e234bb87241154e906f8ab46) ![](assets/new.png)  
+- [2021-04-26-如何DIY一台墨水屏笔记本电脑?](https://sec.thief.one/article_content?a_id=44cec4bc5d14ef9948661ef4c2af147f) ![](assets/new.png)  
+- [2021-04-26-【安全热点周报】第191期:Oracle官方发布了2021年4月的关键补丁...](https://sec.thief.one/article_content?a_id=65015964a562f4ed6108ef8831a041e2) ![](assets/new.png)  
+- [2021-04-26-天融信关于Webmin多个高危漏洞风险提示](https://sec.thief.one/article_content?a_id=5d5095a97a77ebfa4fa15935cf18c062) ![](assets/new.png)  
+- [2021-04-26-【中奖名单】《内生安全:新一代网络安全框架体系与实践》书籍中奖...](https://sec.thief.one/article_content?a_id=c46aa10002f96c9806b5892cde80b91e) ![](assets/new.png)  
+- [2021-04-26-《移动互联网应用程序个人信息保护管理暂行规定》公开征求意见](https://sec.thief.one/article_content?a_id=e85eb65bc8a1e92483253a95abffe069) ![](assets/new.png)  
+- [2021-04-26-发现金融知识:加密货币引领散户投资变化](https://sec.thief.one/article_content?a_id=11440fb6069ea09d3b091f91bf11b249) ![](assets/new.png)  
+- [2021-04-26-喜报:「碳泽」完成数千万人民币PRE-A轮融资](https://sec.thief.one/article_content?a_id=a9f0bffce2b6769d45dafac6cf30242d) ![](assets/new.png)  
+- [2021-04-26-2021年暑假红队训练营!费用全免!助你实现研究梦想!](https://sec.thief.one/article_content?a_id=e97b9cc60c3556e3f54d80a1a92d2272) ![](assets/new.png)  
+- [2021-04-26-OSCP认证之缓冲区溢出](https://sec.thief.one/article_content?a_id=78bfe9a1a1864ba0a9b8a05d50c687e9) ![](assets/new.png)  
+- [2021-04-26-安全日报2021.04.26](https://sec.thief.one/article_content?a_id=ac7638b140dc78de8f43dff38eefede5) ![](assets/new.png)  
+- [2021-04-26-4月26日贵币GUIBI早内参-以太坊预计7月进行伦敦分叉,ZKSwap今晚...](https://sec.thief.one/article_content?a_id=c86f2e21b26d0db1818274b3c44dcf15) ![](assets/new.png)  
+- [2021-04-26-每日安全动态推送04-26](https://sec.thief.one/article_content?a_id=e7202f23db7e50b7507364f6d4f9aa60) ![](assets/new.png)  
+- [2021-04-26-Codecov供应链攻击的受害者不断增加-美国联邦调开始评估其影响](https://sec.thief.one/article_content?a_id=b839265063ee04961758e2968ff31a95) ![](assets/new.png)  
+- [2021-04-26-水利部召开2021年网络安全攻防演练工作总结会](https://sec.thief.one/article_content?a_id=e999db1d9dbb61e96ebc3ce4c803a965) ![](assets/new.png)  
+- [2021-04-26-2021融信天下合作伙伴大会盛大开幕,筑牢“四全”核心竞争力](https://sec.thief.one/article_content?a_id=e8fc37a48ec5b8e72b880f8f69316338) ![](assets/new.png)  
+- [2021-04-26-新的加密恶意软件团伙建立了针对Windows和Linux的僵尸网络](https://sec.thief.one/article_content?a_id=0890bc3a664a41569ae74c065d65693d) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

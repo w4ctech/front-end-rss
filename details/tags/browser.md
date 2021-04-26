@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-26 00:09:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-26 00:28:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,7 @@
 
 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-04-25-【安全圈】Darkside勒索软件攻击升级,不给钱就“做空”企业](https://sec.thief.one/article_content?a_id=48580c1ed8d71e068d57c90a0d770a18) 
 - [2021-04-25-数据安全法草案、个人信息保护法草案最新修改内容公布](https://sec.thief.one/article_content?a_id=f24bd0ea2f809d375e9a796b9bf5c0e1) 
 - [2021-04-25-安全日报2021.04.25](https://sec.thief.one/article_content?a_id=f0e404b83547598bdda27692a08387fa) 
 - [2021-04-25-每日安全动态推送04-25](https://sec.thief.one/article_content?a_id=0f2368e6c2db27115b5bed38d00961dd) 
@@ -34,4 +35,3 @@
 - [2021-04-22-征文|杨博涵:从防御、监测到运营,浅谈终端安全](https://sec.thief.one/article_content?a_id=bcbf2453f57bcf0615979c5cca20eded) 
 - [2021-04-22-信息安全技术学习分班通知](https://sec.thief.one/article_content?a_id=cd62108a5169fec3ec64777bde05e70c) 
 - [2021-04-22-CNNVD-关于Oracle-WebLogic-多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=50affd5bd70c499c66b056208e3bb123) 
-- [2021-04-22-安全日报2021.04.22](https://sec.thief.one/article_content?a_id=202714d1c0330f4083a019455fc4c52e) 

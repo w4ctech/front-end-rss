@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-26 00:09:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-26 00:28:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -10,6 +10,12 @@
 - [2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) 
 - [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) 
 - [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html) 
+- [2021-04-26-违规收集个人信息:广州农商行、微众银行、南粤银行App遭通报](https://sec.thief.one/article_content?a_id=b3def54376ec03669859c2e26783fe75) 
+- [2021-04-25-聚焦数字中国|“零信任”联盟正式成立-奇安信成首批成员单位](https://sec.thief.one/article_content?a_id=14f8f592565fe3426d5a7699a73c9354) 
+- [2021-04-25-每日攻防资讯简报Apr.25th](https://sec.thief.one/article_content?a_id=d20c8b619463ec0f68d61637591aac31) 
+- [2021-04-25-2.2-万-Star!一个开源免费的-To-Do-List-应用!](https://sec.thief.one/article_content?a_id=b860ee04507f59abec57162a61f96d84) 
+- [2021-04-25-红雨滴云沙箱的“七种武器”【附:部分攻防样本报告】](https://sec.thief.one/article_content?a_id=ee000abbc841f56e3e933a77d983f2c7) 
+- [2021-04-25-利用聊天软件漏洞窃取比特币?360区块链防火墙铸就铜墙铁壁](https://sec.thief.one/article_content?a_id=6e42558b4a8431d5d31d5ab99d965c31) 
 - [2021-04-25-获取实时有价值可操作的漏洞情报请关注奇安信CERT|20210408-...](https://sec.thief.one/article_content?a_id=8049940d223bb059e8c412a659055647) 
 - [2021-04-25-敢为敢战-破浪前行|绿盟科技21岁生日快乐](https://sec.thief.one/article_content?a_id=61de0ccd6b89b62ce901fe4e2cb9ff29) 
 - [2021-04-25-百家|红蓝对抗,互联网威胁情报平台引发的法律问题研究](https://sec.thief.one/article_content?a_id=aa951f982b54ea4c16d9e7e16037edf1) 
@@ -69,8 +75,3 @@
 - [2021-04-22-领航新征程,杭州渗透测试就业班,百万助学金限时开启!](https://sec.thief.one/article_content?a_id=4cded8fc5aab663b47ad3ca63bb625f4) 
 - [2021-04-22-PancakeSwap-24小时交易量超越以太坊](https://sec.thief.one/article_content?a_id=e93abc5891fcceafe01884fec445bbff) 
 - [2021-04-22-Datanumen-disk-image应急取证工具操作归档](https://sec.thief.one/article_content?a_id=70983d961958a5998ba1737b3ac19094) 
-- [2021-04-22-免杀干货-|-魔改CobaltStrike,让杀软和天眼流泪](https://sec.thief.one/article_content?a_id=b9917756e2ccf1975bd77d2038b6ca57) 
-- [2021-04-22-观安信息完成2亿+D轮融资](https://sec.thief.one/article_content?a_id=bd9161e50ed20834280e6a74e10a1237) 
-- [2021-04-22-美联社:俄罗斯是全球勒索软件的避风港](https://sec.thief.one/article_content?a_id=5e0f8d31fe4010ba2c63621f6f3286f3) 
-- [2021-04-22-ProxyLogon漏洞被用于门罗币挖矿](https://sec.thief.one/article_content?a_id=4ce3549a75affb62c5701947a269fc8e) 
-- [2021-04-22-月薪3000,闷声月入10W后告别加班:让钱主动找你](https://sec.thief.one/article_content?a_id=9cd5d9002984f7a156951dfc90333940) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-26 00:09:25，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-26 00:28:06，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -507,6 +507,14 @@
 </summary>
 
 
+- [2021-04-26-B-站上这些-Python-视频真香!](https://sec.thief.one/article_content?a_id=263a099b83fc6cc3a3ee2c7f813fc468) ![](assets/new.png)  
+- [2021-04-26-违规收集个人信息:广州农商行、微众银行、南粤银行App遭通报](https://sec.thief.one/article_content?a_id=b3def54376ec03669859c2e26783fe75) ![](assets/new.png)  
+- [2021-04-25-【安全圈】Darkside勒索软件攻击升级,不给钱就“做空”企业](https://sec.thief.one/article_content?a_id=48580c1ed8d71e068d57c90a0d770a18) ![](assets/new.png)  
+- [2021-04-25-聚焦数字中国|“零信任”联盟正式成立-奇安信成首批成员单位](https://sec.thief.one/article_content?a_id=14f8f592565fe3426d5a7699a73c9354) ![](assets/new.png)  
+- [2021-04-25-每日攻防资讯简报Apr.25th](https://sec.thief.one/article_content?a_id=d20c8b619463ec0f68d61637591aac31) ![](assets/new.png)  
+- [2021-04-25-2.2-万-Star!一个开源免费的-To-Do-List-应用!](https://sec.thief.one/article_content?a_id=b860ee04507f59abec57162a61f96d84) ![](assets/new.png)  
+- [2021-04-25-红雨滴云沙箱的“七种武器”【附:部分攻防样本报告】](https://sec.thief.one/article_content?a_id=ee000abbc841f56e3e933a77d983f2c7) ![](assets/new.png)  
+- [2021-04-25-利用聊天软件漏洞窃取比特币?360区块链防火墙铸就铜墙铁壁](https://sec.thief.one/article_content?a_id=6e42558b4a8431d5d31d5ab99d965c31) ![](assets/new.png)  
 - [2021-04-25-数据安全法草案、个人信息保护法草案最新修改内容公布](https://sec.thief.one/article_content?a_id=f24bd0ea2f809d375e9a796b9bf5c0e1) ![](assets/new.png)  
 - [2021-04-25-直播预告丨今晚21点,i春秋特邀精英白帽共赴知识盛宴!](https://sec.thief.one/article_content?a_id=a3125ff590095b945dc91db78b07f1fa) ![](assets/new.png)  
 - [2021-04-25-获取实时有价值可操作的漏洞情报请关注奇安信CERT|20210408-...](https://sec.thief.one/article_content?a_id=8049940d223bb059e8c412a659055647) ![](assets/new.png)  
@@ -519,14 +527,6 @@
 - [2021-04-25-全国人大法工委公布数据安全法草案、个人信息保护法草案最新修改内容](https://sec.thief.one/article_content?a_id=445ef418ebcfb350edc75b1f17905216) ![](assets/new.png)  
 - [2021-04-25-IDC《2021年全球半年度安全支出指南》:亚太区一骑绝尘](https://sec.thief.one/article_content?a_id=bb7c4779d216a05e31eb4a85243bf602) ![](assets/new.png)  
 - [2021-04-25-2021年“4.29首都网络安全日”活动报名现已启动](https://sec.thief.one/article_content?a_id=0c6a12c03f3aa522d9b302297c2217e3) ![](assets/new.png)  
-- [2021-04-25-比特币:雪崩的时候,每一片雪花都有罪](https://sec.thief.one/article_content?a_id=8cd29f3bcbe2c265d7b86ba52af666c5) ![](assets/new.png)  
-- [2021-04-25-威联通Q​​NAP删除NAS备份,灾难恢复应用程序中的后门帐户](https://sec.thief.one/article_content?a_id=f3389e79b25a126ae458867d9905fa71) ![](assets/new.png)  
-- [2021-04-25-人在地球坐代码上火星,围观高手的世界!](https://sec.thief.one/article_content?a_id=de4801c9180af82b5c012b50a7ec9f52) ![](assets/new.png)  
-- [2021-04-25-常用Web安全扫描工具合集](https://sec.thief.one/article_content?a_id=7cba3000dc0e5bb44939fb3dca83ad73) ![](assets/new.png)  
-- [2021-04-25-一次远程命令执行引发的应急响应](https://sec.thief.one/article_content?a_id=801c5f5f3072b55c8192e9d7728689c9) ![](assets/new.png)  
-- [2021-04-25-IDC发布《2021年全球半年度安全支出指南》,亚太区一骑绝尘](https://sec.thief.one/article_content?a_id=e4f914205f4a0c64740d2ed1fd78b6f8) ![](assets/new.png)  
-- [2021-04-25-视频-|-Python:面向对象之方法](https://sec.thief.one/article_content?a_id=c6e39f4e4ab38f219a5e9432fb3a3d2b) ![](assets/new.png)  
-- [2021-04-25-常用Web安全扫描工具合集](https://sec.thief.one/article_content?a_id=1c7f760eab2fae3134f0502c9949be7e) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

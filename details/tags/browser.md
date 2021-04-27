@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-27 10:02:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-27 10:23:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -9,6 +9,10 @@
 
 - [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-04-27-大家好,我是林晨,米斯特安全团队创始人!](https://sec.thief.one/article_content?a_id=a0ce2c4f79a44a8330386ba2ce1d3717) 
+- [2021-04-27-信息安全漏洞周报2021年第17期](https://sec.thief.one/article_content?a_id=316e30bf2f486269de92bba3c5f05c49) 
+- [2021-04-27-安全日报2021.04.27](https://sec.thief.one/article_content?a_id=20f8eb8dd8c6f6d60a3a7c536c54daa5) 
+- [2021-04-27-安全评级/评分无法反映企业安全现状](https://sec.thief.one/article_content?a_id=593a6dc6ae502d0f889cb2aa0f51553c) 
 - [2021-04-26-【安全圈】黑客创建假冒-DirectX-12-下载网站被曝光](https://sec.thief.one/article_content?a_id=11a43305e16a63e8065a43fa459642a8) 
 - [2021-04-26-聚焦数字中国|吴云坤:供应链安全是工业软件发展的底板](https://sec.thief.one/article_content?a_id=a899941f96bba6b922ddc6bfb1db85f6) 
 - [2021-04-26-【安全热点周报】第191期:Oracle官方发布了2021年4月的关键补丁...](https://sec.thief.one/article_content?a_id=65015964a562f4ed6108ef8831a041e2) 
@@ -32,7 +36,3 @@
 - [2021-04-24-流氓至此,我竟无言以对之Chrome-浏览器主页被篡](https://sec.thief.one/article_content?a_id=907c1837cdac8025a2d0b7ecfe3231e6) 
 - [2021-04-24-倒计时1天|安全范儿沙龙第3期即将开启](https://sec.thief.one/article_content?a_id=360b785850652adb1f24312beb84a031) 
 - [2021-04-24-工业互联网设备的网络安全管理与防护研究](https://sec.thief.one/article_content?a_id=b26ce2da53c39c083d7fadd6adc40729) 
-- [2021-04-23-360安全卫士防“横向渗透”功能新升级,分分钟省了好几亿!](https://sec.thief.one/article_content?a_id=36a5cbd4fb50549122dfb472122c3843) 
-- [2021-04-23-先声夺人|权威机构认可!腾讯云安全托管服务能力居领导者地位](https://sec.thief.one/article_content?a_id=671a67015dcbb0ef004ac128d8270375) 
-- [2021-04-23-微信Chrome漏洞复现与简单分析小结](https://sec.thief.one/article_content?a_id=c305b72b74312138b2840b9f8701dc8b) 
-- [2021-04-23-国家漏洞库CNNVD:关于Oracle-WebLogic多个安全漏洞的预警](https://sec.thief.one/article_content?a_id=0d88bf9e3dd212d66902b07637e9a3ea) 

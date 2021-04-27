@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-27 00:08:28，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-27 00:25:59，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -507,6 +507,14 @@
 </summary>
 
 
+- [2021-04-27-工信部《移动互联网应用程序个人信息保护管理暂行规定》公开征求意见](https://sec.thief.one/article_content?a_id=c5ba8d39e86429dd9927799d6d1f8512) ![](assets/new.png)  
+- [2021-04-26-【安全圈】黑客创建假冒-DirectX-12-下载网站被曝光](https://sec.thief.one/article_content?a_id=11a43305e16a63e8065a43fa459642a8) ![](assets/new.png)  
+- [2021-04-26-聚焦数字中国|吴云坤:供应链安全是工业软件发展的底板](https://sec.thief.one/article_content?a_id=a899941f96bba6b922ddc6bfb1db85f6) ![](assets/new.png)  
+- [2021-04-26-站在车顶才能维权?中汽协基于区块链放“大招”!](https://sec.thief.one/article_content?a_id=cb04b47dc8ccca6462721dc87e69d246) ![](assets/new.png)  
+- [2021-04-26-【漏洞通告】Webmin多个漏洞](https://sec.thief.one/article_content?a_id=ecd525a647748945ea27eb657acfc021) ![](assets/new.png)  
+- [2021-04-26-疑似APT组织针对多吉币关注者进行鱼叉式定向攻击](https://sec.thief.one/article_content?a_id=d319724812b54ee3bbae8a976620f95a) ![](assets/new.png)  
+- [2021-04-26-Python数据可视化,被Altair圈粉了!](https://sec.thief.one/article_content?a_id=248c170c0d79aa950dbe9e0d0063e55a) ![](assets/new.png)  
+- [2021-04-26-利用-Office-来进行系统权限维持](https://sec.thief.one/article_content?a_id=fbc5e65e93b044e578ff4dadf22384eb) ![](assets/new.png)  
 - [2021-04-26-SecWiki周刊第373期](https://sec.thief.one/article_content?a_id=e5910f09365aca6eca08b86376c0802a) ![](assets/new.png)  
 - [2021-04-26-【招聘】深圳网安检测招人啦](https://sec.thief.one/article_content?a_id=ad9c35657942c0f0944282a1eb808621) ![](assets/new.png)  
 - [2021-04-26-疫情反扑时攻击者也没放过印度,生鲜电商用户数据被免费公开](https://sec.thief.one/article_content?a_id=778797bdbb1c9d668481b04f869a5214) ![](assets/new.png)  
@@ -519,14 +527,6 @@
 - [2021-04-26-发现金融知识:加密货币引领散户投资变化](https://sec.thief.one/article_content?a_id=11440fb6069ea09d3b091f91bf11b249) ![](assets/new.png)  
 - [2021-04-26-喜报:「碳泽」完成数千万人民币PRE-A轮融资](https://sec.thief.one/article_content?a_id=a9f0bffce2b6769d45dafac6cf30242d) ![](assets/new.png)  
 - [2021-04-26-2021年暑假红队训练营!费用全免!助你实现研究梦想!](https://sec.thief.one/article_content?a_id=e97b9cc60c3556e3f54d80a1a92d2272) ![](assets/new.png)  
-- [2021-04-26-OSCP认证之缓冲区溢出](https://sec.thief.one/article_content?a_id=78bfe9a1a1864ba0a9b8a05d50c687e9) ![](assets/new.png)  
-- [2021-04-26-安全日报2021.04.26](https://sec.thief.one/article_content?a_id=ac7638b140dc78de8f43dff38eefede5) ![](assets/new.png)  
-- [2021-04-26-4月26日贵币GUIBI早内参-以太坊预计7月进行伦敦分叉,ZKSwap今晚...](https://sec.thief.one/article_content?a_id=c86f2e21b26d0db1818274b3c44dcf15) ![](assets/new.png)  
-- [2021-04-26-每日安全动态推送04-26](https://sec.thief.one/article_content?a_id=e7202f23db7e50b7507364f6d4f9aa60) ![](assets/new.png)  
-- [2021-04-26-Codecov供应链攻击的受害者不断增加-美国联邦调开始评估其影响](https://sec.thief.one/article_content?a_id=b839265063ee04961758e2968ff31a95) ![](assets/new.png)  
-- [2021-04-26-水利部召开2021年网络安全攻防演练工作总结会](https://sec.thief.one/article_content?a_id=e999db1d9dbb61e96ebc3ce4c803a965) ![](assets/new.png)  
-- [2021-04-26-2021融信天下合作伙伴大会盛大开幕,筑牢“四全”核心竞争力](https://sec.thief.one/article_content?a_id=e8fc37a48ec5b8e72b880f8f69316338) ![](assets/new.png)  
-- [2021-04-26-新的加密恶意软件团伙建立了针对Windows和Linux的僵尸网络](https://sec.thief.one/article_content?a_id=0890bc3a664a41569ae74c065d65693d) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-27 00:08:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-27 00:25:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -207,7 +207,6 @@
 
 
 - [【安全热点】4月26日贵币GUIBI早内参-以太坊预计7月进行伦敦分叉,ZKSwap今晚...](https://sec.thief.one/article_content?a_id=c86f2e21b26d0db1818274b3c44dcf15)
-- [【安全热点】4月23日贵币GUIBI早内参-比特币市值占比跌破50%,MakerDAO发行基...](https://sec.thief.one/article_content?a_id=5fe201cd57e664a02a385e9914787d24)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -263,6 +262,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/)
 - [【张鑫旭-鑫空间-鑫生活】Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/)
+- [【安全热点】【安全圈】黑客创建假冒-DirectX-12-下载网站被曝光](https://sec.thief.one/article_content?a_id=11a43305e16a63e8065a43fa459642a8)
+- [【安全热点】聚焦数字中国|吴云坤:供应链安全是工业软件发展的底板](https://sec.thief.one/article_content?a_id=a899941f96bba6b922ddc6bfb1db85f6)
 - [【安全热点】【安全热点周报】第191期:Oracle官方发布了2021年4月的关键补丁...](https://sec.thief.one/article_content?a_id=65015964a562f4ed6108ef8831a041e2)
 - [【安全热点】【中奖名单】《内生安全:新一代网络安全框架体系与实践》书籍中奖...](https://sec.thief.one/article_content?a_id=c46aa10002f96c9806b5892cde80b91e)
 - [【安全热点】安全日报2021.04.26](https://sec.thief.one/article_content?a_id=ac7638b140dc78de8f43dff38eefede5)
@@ -279,8 +280,6 @@
 - [【安全热点】IDC发布《2021年全球半年度安全支出指南》,亚太区一骑绝尘](https://sec.thief.one/article_content?a_id=e4f914205f4a0c64740d2ed1fd78b6f8)
 - [【安全热点】常用Web安全扫描工具合集](https://sec.thief.one/article_content?a_id=1c7f760eab2fae3134f0502c9949be7e)
 - [【安全热点】国外最热门的EDR、NGFW、CASB、SIEM安全产品](https://sec.thief.one/article_content?a_id=469245c8997a6736bce49a005563abb1)
-- [【安全热点】用安全照亮智慧高速-|-绿盟科技亮相中国高速公路信息化大会](https://sec.thief.one/article_content?a_id=e2228d5c5f3f4af1ba48bd46c8908a08)
-- [【安全热点】聚焦数字中国2021:第二届虎符网络安全大赛开赛在即](https://sec.thief.one/article_content?a_id=567326b6aab0581875a989f039d7630b)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -397,6 +396,12 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html)
+- [【安全热点】工信部《移动互联网应用程序个人信息保护管理暂行规定》公开征求意见](https://sec.thief.one/article_content?a_id=c5ba8d39e86429dd9927799d6d1f8512)
+- [【安全热点】站在车顶才能维权?中汽协基于区块链放“大招”!](https://sec.thief.one/article_content?a_id=cb04b47dc8ccca6462721dc87e69d246)
+- [【安全热点】【漏洞通告】Webmin多个漏洞](https://sec.thief.one/article_content?a_id=ecd525a647748945ea27eb657acfc021)
+- [【安全热点】疑似APT组织针对多吉币关注者进行鱼叉式定向攻击](https://sec.thief.one/article_content?a_id=d319724812b54ee3bbae8a976620f95a)
+- [【安全热点】Python数据可视化,被Altair圈粉了!](https://sec.thief.one/article_content?a_id=248c170c0d79aa950dbe9e0d0063e55a)
+- [【安全热点】利用-Office-来进行系统权限维持](https://sec.thief.one/article_content?a_id=fbc5e65e93b044e578ff4dadf22384eb)
 - [【安全热点】SecWiki周刊第373期](https://sec.thief.one/article_content?a_id=e5910f09365aca6eca08b86376c0802a)
 - [【安全热点】疫情反扑时攻击者也没放过印度,生鲜电商用户数据被免费公开](https://sec.thief.one/article_content?a_id=778797bdbb1c9d668481b04f869a5214)
 - [【安全热点】反跨境赌博不松懈:央行召开打击治理跨境赌博“资金链”工作会议](https://sec.thief.one/article_content?a_id=c3632191e234bb87241154e906f8ab46)
@@ -406,12 +411,6 @@
 - [【安全热点】发现金融知识:加密货币引领散户投资变化](https://sec.thief.one/article_content?a_id=11440fb6069ea09d3b091f91bf11b249)
 - [【安全热点】喜报:「碳泽」完成数千万人民币PRE-A轮融资](https://sec.thief.one/article_content?a_id=a9f0bffce2b6769d45dafac6cf30242d)
 - [【安全热点】2021年暑假红队训练营!费用全免!助你实现研究梦想!](https://sec.thief.one/article_content?a_id=e97b9cc60c3556e3f54d80a1a92d2272)
-- [【安全热点】OSCP认证之缓冲区溢出](https://sec.thief.one/article_content?a_id=78bfe9a1a1864ba0a9b8a05d50c687e9)
-- [【安全热点】Codecov供应链攻击的受害者不断增加-美国联邦调开始评估其影响](https://sec.thief.one/article_content?a_id=b839265063ee04961758e2968ff31a95)
-- [【安全热点】2021融信天下合作伙伴大会盛大开幕,筑牢“四全”核心竞争力](https://sec.thief.one/article_content?a_id=e8fc37a48ec5b8e72b880f8f69316338)
-- [【安全热点】新的加密恶意软件团伙建立了针对Windows和Linux的僵尸网络](https://sec.thief.one/article_content?a_id=0890bc3a664a41569ae74c065d65693d)
-- [【安全热点】CrossLinked-LinkedIn枚举工具](https://sec.thief.one/article_content?a_id=b6d358f2ede861550b1c5c68eff3a866)
-- [【安全热点】Security-Biz发布RDP账户泄漏自查网站](https://sec.thief.one/article_content?a_id=e11d5d96dc61ed252d78dc5fe0c9583e)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

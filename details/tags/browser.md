@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-28 10:02:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-28 10:23:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -9,6 +9,9 @@
 
 - [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-04-28-安全日报2021.04.28](https://sec.thief.one/article_content?a_id=8ef22401909b280c023bd0357882952e) 
+- [2021-04-28-每日安全动态推送04-28](https://sec.thief.one/article_content?a_id=1380b1f4b6a3a2da5bc6fdc6ba31371a) 
+- [2021-04-28-4.29首都网络安全日,安全客携好礼现场等你!](https://sec.thief.one/article_content?a_id=2d560cb844a54d08c5ab885f2997022c) 
 - [2021-04-28-国家安全部:关基运营者应采取反间谍技术安全防范措施](https://sec.thief.one/article_content?a_id=0b8c396466249a85c48d2e2c2f3f9d32) 
 - [2021-04-27-【安全圈】勒索团伙利用7zip压缩程序盯上QNAP设备,五天之内盈利...](https://sec.thief.one/article_content?a_id=be117b407f19708902aa362ed3fc403e) 
 - [2021-04-27-PK体系考验升级-第二届虎符网络安全赛道总决赛落幕](https://sec.thief.one/article_content?a_id=0dda5790522d5a5cd2a0d6c692de5883) 
@@ -28,13 +31,3 @@
 - [2021-04-25-【安全圈】Darkside勒索软件攻击升级,不给钱就“做空”企业](https://sec.thief.one/article_content?a_id=48580c1ed8d71e068d57c90a0d770a18) 
 - [2021-04-25-数据安全法草案、个人信息保护法草案最新修改内容公布](https://sec.thief.one/article_content?a_id=f24bd0ea2f809d375e9a796b9bf5c0e1) 
 - [2021-04-25-安全日报2021.04.25](https://sec.thief.one/article_content?a_id=f0e404b83547598bdda27692a08387fa) 
-- [2021-04-25-每日安全动态推送04-25](https://sec.thief.one/article_content?a_id=0f2368e6c2db27115b5bed38d00961dd) 
-- [2021-04-25-全国人大法工委公布数据安全法草案、个人信息保护法草案最新修改内容](https://sec.thief.one/article_content?a_id=445ef418ebcfb350edc75b1f17905216) 
-- [2021-04-25-IDC《2021年全球半年度安全支出指南》:亚太区一骑绝尘](https://sec.thief.one/article_content?a_id=bb7c4779d216a05e31eb4a85243bf602) 
-- [2021-04-25-2021年“4.29首都网络安全日”活动报名现已启动](https://sec.thief.one/article_content?a_id=0c6a12c03f3aa522d9b302297c2217e3) 
-- [2021-04-25-常用Web安全扫描工具合集](https://sec.thief.one/article_content?a_id=7cba3000dc0e5bb44939fb3dca83ad73) 
-- [2021-04-25-IDC发布《2021年全球半年度安全支出指南》,亚太区一骑绝尘](https://sec.thief.one/article_content?a_id=e4f914205f4a0c64740d2ed1fd78b6f8) 
-- [2021-04-25-常用Web安全扫描工具合集](https://sec.thief.one/article_content?a_id=1c7f760eab2fae3134f0502c9949be7e) 
-- [2021-04-24-国外最热门的EDR、NGFW、CASB、SIEM安全产品](https://sec.thief.one/article_content?a_id=469245c8997a6736bce49a005563abb1) 
-- [2021-04-24-用安全照亮智慧高速-|-绿盟科技亮相中国高速公路信息化大会](https://sec.thief.one/article_content?a_id=e2228d5c5f3f4af1ba48bd46c8908a08) 
-- [2021-04-24-聚焦数字中国2021:第二届虎符网络安全大赛开赛在即](https://sec.thief.one/article_content?a_id=567326b6aab0581875a989f039d7630b) 

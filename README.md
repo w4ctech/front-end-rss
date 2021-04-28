@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-28 10:02:34，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-28 10:23:48，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -507,26 +507,26 @@
 </summary>
 
 
-- [2021-04-28-视频-|-全国首案:电信运营商拒不履行信息网络安全管理义务,董事长...](https://sec.thief.one/article_content?a_id=00d25b88e7aa2f4af83b5b6faa9cd0a0) ![](assets/new.png)  
-- [2021-04-28-中央网信办主任庄荣文:推进网络强国建设的强大思想武器和科学行动...](https://sec.thief.one/article_content?a_id=d945acfdee1c4eecb7657ac1a3dcdef4) ![](assets/new.png)  
-- [2021-04-28-国家安全部:关基运营者应采取反间谍技术安全防范措施](https://sec.thief.one/article_content?a_id=0b8c396466249a85c48d2e2c2f3f9d32) ![](assets/new.png)  
-- [2021-04-27-华盛顿警察局被勒索攻击,黑客称若不交赎金就曝光线人](https://sec.thief.one/article_content?a_id=b81744080109d2076812fffd7418b119) ![](assets/new.png)  
-- [2021-04-27-【安全圈】勒索团伙利用7zip压缩程序盯上QNAP设备,五天之内盈利...](https://sec.thief.one/article_content?a_id=be117b407f19708902aa362ed3fc403e) ![](assets/new.png)  
-- [2021-04-27-【漏洞通告】Hasura-GraphQL-1.3.3远程代码执行漏洞](https://sec.thief.one/article_content?a_id=702d9ed186dc2d0056f0992cd94814fe) ![](assets/new.png)  
-- [2021-04-27-为-Python-项目编写-Makefile](https://sec.thief.one/article_content?a_id=f441d883122f8cc02f88326a82f0cfbf) ![](assets/new.png)  
-- [2021-04-27-PK体系考验升级-第二届虎符网络安全赛道总决赛落幕](https://sec.thief.one/article_content?a_id=0dda5790522d5a5cd2a0d6c692de5883) ![](assets/new.png)  
-- [2021-04-27-喜报:「亿赛通」与太平洋财险签订战略合作协议共同推出网络安全保...](https://sec.thief.one/article_content?a_id=66addb5a7420c688657ad56f4362a1b5) ![](assets/new.png)  
-- [2021-04-27-32城再启征程|NSFOCUS-CLUB-2021创新安全全国巡讲即将起航](https://sec.thief.one/article_content?a_id=7652d8582de859f84f69be2a11199215) ![](assets/new.png)  
-- [2021-04-27-隐私新政落地,苹果新方案引发争议](https://sec.thief.one/article_content?a_id=220b14605ff25de8fb5c5203d343a7d6) ![](assets/new.png)  
-- [2021-04-27-SYNwall:一款功能强大的零配置物联网防火墙](https://sec.thief.one/article_content?a_id=cce8ba583b4e0a67e81ce67b7ea0e6ff) ![](assets/new.png)  
-- [2021-04-27-【技术分享】勒索软件结构与加密模式杂谈](https://sec.thief.one/article_content?a_id=887d467690cda4c5cbff0dc28e58fcfe) ![](assets/new.png)  
-- [2021-04-27-PPT来了!「应急响应与业务赋能」专场精彩回放](https://sec.thief.one/article_content?a_id=65e0c2a4050103ad962f58048966e39f) ![](assets/new.png)  
-- [2021-04-27-大家好,我是林晨,米斯特安全团队创始人!](https://sec.thief.one/article_content?a_id=a0ce2c4f79a44a8330386ba2ce1d3717) ![](assets/new.png)  
-- [2021-04-27-信息安全漏洞周报2021年第17期](https://sec.thief.one/article_content?a_id=316e30bf2f486269de92bba3c5f05c49) ![](assets/new.png)  
-- [2021-04-27-工信部发布《移动互联网应用程序个人信息保护管理暂行规定征求意...](https://sec.thief.one/article_content?a_id=0e46d04a246c5876c665f5a7f5774970) ![](assets/new.png)  
-- [2021-04-27-伊朗授权银行及货币兑换商利用加密货币支付进口费用](https://sec.thief.one/article_content?a_id=cdb94d4b5c3ce866a480e7fe1461827c) ![](assets/new.png)  
-- [2021-04-27-360漏洞响应平台“亿万守护计划“上线啦!邀你一起开启荣耀守护之旅](https://sec.thief.one/article_content?a_id=5debb306c10074bf43f722a17502fa53) ![](assets/new.png)  
-- [2021-04-27-安全日报2021.04.27](https://sec.thief.one/article_content?a_id=20f8eb8dd8c6f6d60a3a7c536c54daa5) ![](assets/new.png)  
+- [2021-04-28-【漏洞通告】Apache-OFBiz-远程代码执行漏洞-CVE-2021-29200/CVE...](https://sec.thief.one/article_content?a_id=be4b6752549108dbb104c48a1ab7357c) ![](assets/new.png)  
+- [2021-04-28-华盛顿警局遭黑客入侵,不交赎金就公开警方线人](https://sec.thief.one/article_content?a_id=8e88162c6950e48bab20086fc111dbeb) ![](assets/new.png)  
+- [2021-04-28-IoT初体验](https://sec.thief.one/article_content?a_id=6cbfc6c199c4b406ef654fe01aea7eae) ![](assets/new.png)  
+- [2021-04-28-Solr任意文件读取漏洞环境搭建和复现](https://sec.thief.one/article_content?a_id=0fa117e4ca8a065f50a2327b665832ff) ![](assets/new.png)  
+- [2021-04-28-Apache-OFBiz远程代码执行漏洞CVE-2021-29200/30128](https://sec.thief.one/article_content?a_id=577b496a06319ac069c48c25ce90f055) ![](assets/new.png)  
+- [2021-04-28-亚洲游戏发行公司Nexon购买价值1亿美元比特币](https://sec.thief.one/article_content?a_id=7b2a76813404d94ec32340d29e81ca30) ![](assets/new.png)  
+- [2021-04-28-4月28日贵币GUIBI早内参-Coinbase与DCG入选《时代周刊》年度百大...](https://sec.thief.one/article_content?a_id=45112a326cf4142f622fa70bee6cbeaf) ![](assets/new.png)  
+- [2021-04-28-天融信关于Apache-OFBiz反序列化远程代码执行漏洞风险提示](https://sec.thief.one/article_content?a_id=72ce53edaa7be29aade928e3947d1e1f) ![](assets/new.png)  
+- [2021-04-28-安全日报2021.04.28](https://sec.thief.one/article_content?a_id=8ef22401909b280c023bd0357882952e) ![](assets/new.png)  
+- [2021-04-28-华盛顿警局遭黑客入侵,不交赎金就公开警方线人](https://sec.thief.one/article_content?a_id=addeab148d541c4e4d7d671488767c2c) ![](assets/new.png)  
+- [2021-04-28-每日安全动态推送04-28](https://sec.thief.one/article_content?a_id=1380b1f4b6a3a2da5bc6fdc6ba31371a) ![](assets/new.png)  
+- [2021-04-28-“熄灯”数据中心,你准备好了吗?](https://sec.thief.one/article_content?a_id=aa36060aaa03ae0f8014451110ca40fb) ![](assets/new.png)  
+- [2021-04-28-Fortinet-公布全新SPU产品破除超大规模安全应用的性能挑战](https://sec.thief.one/article_content?a_id=58d9144b7bad3772b429690cc6fc1841) ![](assets/new.png)  
+- [2021-04-28-调查:近半数恶意软件藏身TLS加密通信](https://sec.thief.one/article_content?a_id=a4950f4d265a1e473207668dde194b3d) ![](assets/new.png)  
+- [2021-04-28-内网渗透-|-后渗透之远程桌面](https://sec.thief.one/article_content?a_id=6f2531ea866fcbedb54761abfc21018f) ![](assets/new.png)  
+- [2021-04-28-违规收集个人信息:广州农商行、微众银行、南粤银行App遭通报](https://sec.thief.one/article_content?a_id=4007dd0bc6d4a07e135221fa7a7e13b8) ![](assets/new.png)  
+- [2021-04-28-NBA休斯顿火箭队遭遇勒索软件攻击](https://sec.thief.one/article_content?a_id=aa206e392eb82d2efa3a2ad319fb5f6a) ![](assets/new.png)  
+- [2021-04-28-4.29首都网络安全日,安全客携好礼现场等你!](https://sec.thief.one/article_content?a_id=2d560cb844a54d08c5ab885f2997022c) ![](assets/new.png)  
+- [2021-04-28-哈哈,我把熊猫烧香病毒扒了!](https://sec.thief.one/article_content?a_id=64eae0fac4107f96e50417600012b946) ![](assets/new.png)  
+- [2021-04-28-明尼苏达大学研究团队道歉,Linux内核维护人员:拒绝](https://sec.thief.one/article_content?a_id=0ed39803fa7d9df070e9acdb4ca3db63) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

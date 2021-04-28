@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-28 00:08:39，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-28 00:26:15，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -507,6 +507,16 @@
 </summary>
 
 
+- [2021-04-28-视频-|-全国首案:电信运营商拒不履行信息网络安全管理义务,董事长...](https://sec.thief.one/article_content?a_id=00d25b88e7aa2f4af83b5b6faa9cd0a0) ![](assets/new.png)  
+- [2021-04-28-中央网信办主任庄荣文:推进网络强国建设的强大思想武器和科学行动...](https://sec.thief.one/article_content?a_id=d945acfdee1c4eecb7657ac1a3dcdef4) ![](assets/new.png)  
+- [2021-04-28-国家安全部:关基运营者应采取反间谍技术安全防范措施](https://sec.thief.one/article_content?a_id=0b8c396466249a85c48d2e2c2f3f9d32) ![](assets/new.png)  
+- [2021-04-27-华盛顿警察局被勒索攻击,黑客称若不交赎金就曝光线人](https://sec.thief.one/article_content?a_id=b81744080109d2076812fffd7418b119) ![](assets/new.png)  
+- [2021-04-27-【安全圈】勒索团伙利用7zip压缩程序盯上QNAP设备,五天之内盈利...](https://sec.thief.one/article_content?a_id=be117b407f19708902aa362ed3fc403e) ![](assets/new.png)  
+- [2021-04-27-【漏洞通告】Hasura-GraphQL-1.3.3远程代码执行漏洞](https://sec.thief.one/article_content?a_id=702d9ed186dc2d0056f0992cd94814fe) ![](assets/new.png)  
+- [2021-04-27-为-Python-项目编写-Makefile](https://sec.thief.one/article_content?a_id=f441d883122f8cc02f88326a82f0cfbf) ![](assets/new.png)  
+- [2021-04-27-PK体系考验升级-第二届虎符网络安全赛道总决赛落幕](https://sec.thief.one/article_content?a_id=0dda5790522d5a5cd2a0d6c692de5883) ![](assets/new.png)  
+- [2021-04-27-喜报:「亿赛通」与太平洋财险签订战略合作协议共同推出网络安全保...](https://sec.thief.one/article_content?a_id=66addb5a7420c688657ad56f4362a1b5) ![](assets/new.png)  
+- [2021-04-27-32城再启征程|NSFOCUS-CLUB-2021创新安全全国巡讲即将起航](https://sec.thief.one/article_content?a_id=7652d8582de859f84f69be2a11199215) ![](assets/new.png)  
 - [2021-04-27-隐私新政落地,苹果新方案引发争议](https://sec.thief.one/article_content?a_id=220b14605ff25de8fb5c5203d343a7d6) ![](assets/new.png)  
 - [2021-04-27-SYNwall:一款功能强大的零配置物联网防火墙](https://sec.thief.one/article_content?a_id=cce8ba583b4e0a67e81ce67b7ea0e6ff) ![](assets/new.png)  
 - [2021-04-27-【技术分享】勒索软件结构与加密模式杂谈](https://sec.thief.one/article_content?a_id=887d467690cda4c5cbff0dc28e58fcfe) ![](assets/new.png)  
@@ -517,16 +527,6 @@
 - [2021-04-27-伊朗授权银行及货币兑换商利用加密货币支付进口费用](https://sec.thief.one/article_content?a_id=cdb94d4b5c3ce866a480e7fe1461827c) ![](assets/new.png)  
 - [2021-04-27-360漏洞响应平台“亿万守护计划“上线啦!邀你一起开启荣耀守护之旅](https://sec.thief.one/article_content?a_id=5debb306c10074bf43f722a17502fa53) ![](assets/new.png)  
 - [2021-04-27-安全日报2021.04.27](https://sec.thief.one/article_content?a_id=20f8eb8dd8c6f6d60a3a7c536c54daa5) ![](assets/new.png)  
-- [2021-04-27-比特币时空交错,今日关键在52617美金](https://sec.thief.one/article_content?a_id=e0e807c79ff9771860b5e6706aa36d37) ![](assets/new.png)  
-- [2021-04-27-安全评级/评分无法反映企业安全现状](https://sec.thief.one/article_content?a_id=593a6dc6ae502d0f889cb2aa0f51553c) ![](assets/new.png)  
-- [2021-04-27-深入考察CVE-2021-30481漏洞](https://sec.thief.one/article_content?a_id=09fde207c8a47d37fb1a36618631ce39) ![](assets/new.png)  
-- [2021-04-27-头号僵尸网络Emotet被联手制裁后,终于在世界范围内“自我毁灭”](https://sec.thief.one/article_content?a_id=5037b22eb72ff5ccec0492a0f2060615) ![](assets/new.png)  
-- [2021-04-27-实战-|-记一次对母校站点的渗透测试](https://sec.thief.one/article_content?a_id=3a21b58c4fc242258a12254885eb254e) ![](assets/new.png)  
-- [2021-04-27-某管理系统存在垂直越权为管理员漏洞](https://sec.thief.one/article_content?a_id=6f63bae79ad43a5125a99cd10c63b7f7) ![](assets/new.png)  
-- [2021-04-27-大量QNAP-NAS设备遭受勒索软件攻击](https://sec.thief.one/article_content?a_id=157e6cce0e2eded468d3409feb0051c4) ![](assets/new.png)  
-- [2021-04-27-疯传!某大厂P8面试题库遭到泄露!](https://sec.thief.one/article_content?a_id=7506b5d3e6167e68ac216cc086a48556) ![](assets/new.png)  
-- [2021-04-27-黑客要攻下一台计算机,一般怎么做?](https://sec.thief.one/article_content?a_id=e31c1300da8b66127ec9b16be14ab937) ![](assets/new.png)  
-- [2021-04-27-别笑!这就是写代码时的你](https://sec.thief.one/article_content?a_id=87663f1c1e97859fa4ff88aac7cf2b88) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

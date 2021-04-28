@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-28 00:08:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-28 00:26:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -10,6 +10,9 @@
 - [2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) 
 - [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) 
 - [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html) 
+- [2021-04-28-中央网信办主任庄荣文:推进网络强国建设的强大思想武器和科学行动...](https://sec.thief.one/article_content?a_id=d945acfdee1c4eecb7657ac1a3dcdef4) 
+- [2021-04-27-华盛顿警察局被勒索攻击,黑客称若不交赎金就曝光线人](https://sec.thief.one/article_content?a_id=b81744080109d2076812fffd7418b119) 
+- [2021-04-27-为-Python-项目编写-Makefile](https://sec.thief.one/article_content?a_id=f441d883122f8cc02f88326a82f0cfbf) 
 - [2021-04-27-隐私新政落地,苹果新方案引发争议](https://sec.thief.one/article_content?a_id=220b14605ff25de8fb5c5203d343a7d6) 
 - [2021-04-27-SYNwall:一款功能强大的零配置物联网防火墙](https://sec.thief.one/article_content?a_id=cce8ba583b4e0a67e81ce67b7ea0e6ff) 
 - [2021-04-27-【技术分享】勒索软件结构与加密模式杂谈](https://sec.thief.one/article_content?a_id=887d467690cda4c5cbff0dc28e58fcfe) 
@@ -68,9 +71,3 @@
 - [2021-04-24-一次打包,无限复用!教你用-PyCharm-搭建一劳永逸的开发环境](https://sec.thief.one/article_content?a_id=30dc61dd2a26b47924ed1d96c18a2600) 
 - [2021-04-24-趋势关注:为什么XDR必须包含MDR](https://sec.thief.one/article_content?a_id=a9311a93dfc2b8558d833ddb3db511d2) 
 - [2021-04-24-议题征集中!2021-SDC不见不散!](https://sec.thief.one/article_content?a_id=767f406cda735de4617907c829ad9cd6) 
-- [2021-04-24-全国革命文物百佳讲述人候选人作品展播④](https://sec.thief.one/article_content?a_id=89df0c272782038d2d2414b16c6c8a61) 
-- [2021-04-24-在Z|红华资本高薪诚招投资分析师、投资经理](https://sec.thief.one/article_content?a_id=f440416fb6ce895445eadd53cb54f662) 
-- [2021-04-24-反弹Shell,看这一篇就够了](https://sec.thief.one/article_content?a_id=21ed394b17c09888c4aabf7c3c0e64f6) 
-- [2021-04-24-研究人员通过-Mirai-恶意软件有效载荷确定了两个新的物联网漏洞](https://sec.thief.one/article_content?a_id=5d6ff53bf010fed2c403daf395d16825) 
-- [2021-04-24-涉案1000余万,这一宗虚拟币诈骗案被苏州警方破获!](https://sec.thief.one/article_content?a_id=5bb2889ca2e071daaf89310170a20f37) 
-- [2021-04-24-Python-速度慢,试试这个方法提高-1000-倍](https://sec.thief.one/article_content?a_id=2117fad0840aea866fcc430671cc38e5) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-28 00:08:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-28 00:26:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -9,6 +9,11 @@
 
 - [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-04-28-国家安全部:关基运营者应采取反间谍技术安全防范措施](https://sec.thief.one/article_content?a_id=0b8c396466249a85c48d2e2c2f3f9d32) 
+- [2021-04-27-【安全圈】勒索团伙利用7zip压缩程序盯上QNAP设备,五天之内盈利...](https://sec.thief.one/article_content?a_id=be117b407f19708902aa362ed3fc403e) 
+- [2021-04-27-PK体系考验升级-第二届虎符网络安全赛道总决赛落幕](https://sec.thief.one/article_content?a_id=0dda5790522d5a5cd2a0d6c692de5883) 
+- [2021-04-27-喜报:「亿赛通」与太平洋财险签订战略合作协议共同推出网络安全保...](https://sec.thief.one/article_content?a_id=66addb5a7420c688657ad56f4362a1b5) 
+- [2021-04-27-32城再启征程|NSFOCUS-CLUB-2021创新安全全国巡讲即将起航](https://sec.thief.one/article_content?a_id=7652d8582de859f84f69be2a11199215) 
 - [2021-04-27-大家好,我是林晨,米斯特安全团队创始人!](https://sec.thief.one/article_content?a_id=a0ce2c4f79a44a8330386ba2ce1d3717) 
 - [2021-04-27-信息安全漏洞周报2021年第17期](https://sec.thief.one/article_content?a_id=316e30bf2f486269de92bba3c5f05c49) 
 - [2021-04-27-安全日报2021.04.27](https://sec.thief.one/article_content?a_id=20f8eb8dd8c6f6d60a3a7c536c54daa5) 
@@ -33,6 +38,3 @@
 - [2021-04-24-国外最热门的EDR、NGFW、CASB、SIEM安全产品](https://sec.thief.one/article_content?a_id=469245c8997a6736bce49a005563abb1) 
 - [2021-04-24-用安全照亮智慧高速-|-绿盟科技亮相中国高速公路信息化大会](https://sec.thief.one/article_content?a_id=e2228d5c5f3f4af1ba48bd46c8908a08) 
 - [2021-04-24-聚焦数字中国2021:第二届虎符网络安全大赛开赛在即](https://sec.thief.one/article_content?a_id=567326b6aab0581875a989f039d7630b) 
-- [2021-04-24-流氓至此,我竟无言以对之Chrome-浏览器主页被篡](https://sec.thief.one/article_content?a_id=907c1837cdac8025a2d0b7ecfe3231e6) 
-- [2021-04-24-倒计时1天|安全范儿沙龙第3期即将开启](https://sec.thief.one/article_content?a_id=360b785850652adb1f24312beb84a031) 
-- [2021-04-24-工业互联网设备的网络安全管理与防护研究](https://sec.thief.one/article_content?a_id=b26ce2da53c39c083d7fadd6adc40729) 

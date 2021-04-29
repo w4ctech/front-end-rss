@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-29 10:11:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-29 10:35:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -9,6 +9,13 @@
 
 - [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-04-29-【安全风险通告】奇安信CERT已验证,Apache-OFBiz多个高危漏洞安...](https://sec.thief.one/article_content?a_id=4b0c22f48e82366bfff32670a1dfee06) 
+- [2021-04-29-关于征求《信息安全技术-网联汽车-采集数据的安全要求》标准草案意...](https://sec.thief.one/article_content?a_id=acf04c9b69209c8adb485c30edcdc126) 
+- [2021-04-29-一文读懂-|-2021年“4.29首都网络安全日”活动日程安排](https://sec.thief.one/article_content?a_id=19bcf3ac3beb7043cb65b94629ed4496) 
+- [2021-04-29-安全日报2021.04.29](https://sec.thief.one/article_content?a_id=3d5bbc8b914c8752e9b57041dc5b3466) 
+- [2021-04-29-广西密码学与信息安全重点实验室2020-2021年研究课题](https://sec.thief.one/article_content?a_id=69058f3ffc44700dd2d22a748a7f00b0) 
+- [2021-04-29-2021年的6种网络安全趋势](https://sec.thief.one/article_content?a_id=d89f76eb5ee33156b790b018cc5c9d8c) 
+- [2021-04-29-兑现北京冬奥赞助承诺-奇安信安全防护软件冬奥版发布](https://sec.thief.one/article_content?a_id=15fe8f36c420bb3886cf71bce3d97798) 
 - [2021-04-28-【安全圈】月入过万不是梦!江苏艾盾在线招聘,五险一金,朝九晚六!](https://sec.thief.one/article_content?a_id=ec8b86bee3e7c217ad50a35ebf6f6ae5) 
 - [2021-04-28-通用爬虫技术:如何正确从-URL-中移除无效参数](https://sec.thief.one/article_content?a_id=2ffc84821eb0e44202657503fedf9d56) 
 - [2021-04-28-安全日报2021.04.28](https://sec.thief.one/article_content?a_id=8ef22401909b280c023bd0357882952e) 
@@ -25,9 +32,3 @@
 - [2021-04-27-安全评级/评分无法反映企业安全现状](https://sec.thief.one/article_content?a_id=593a6dc6ae502d0f889cb2aa0f51553c) 
 - [2021-04-26-【安全圈】黑客创建假冒-DirectX-12-下载网站被曝光](https://sec.thief.one/article_content?a_id=11a43305e16a63e8065a43fa459642a8) 
 - [2021-04-26-聚焦数字中国|吴云坤:供应链安全是工业软件发展的底板](https://sec.thief.one/article_content?a_id=a899941f96bba6b922ddc6bfb1db85f6) 
-- [2021-04-26-【安全热点周报】第191期:Oracle官方发布了2021年4月的关键补丁...](https://sec.thief.one/article_content?a_id=65015964a562f4ed6108ef8831a041e2) 
-- [2021-04-26-【中奖名单】《内生安全:新一代网络安全框架体系与实践》书籍中奖...](https://sec.thief.one/article_content?a_id=c46aa10002f96c9806b5892cde80b91e) 
-- [2021-04-26-安全日报2021.04.26](https://sec.thief.one/article_content?a_id=ac7638b140dc78de8f43dff38eefede5) 
-- [2021-04-26-每日安全动态推送04-26](https://sec.thief.one/article_content?a_id=e7202f23db7e50b7507364f6d4f9aa60) 
-- [2021-04-26-水利部召开2021年网络安全攻防演练工作总结会](https://sec.thief.one/article_content?a_id=e999db1d9dbb61e96ebc3ce4c803a965) 
-- [2021-04-25-【安全圈】Darkside勒索软件攻击升级,不给钱就“做空”企业](https://sec.thief.one/article_content?a_id=48580c1ed8d71e068d57c90a0d770a18) 

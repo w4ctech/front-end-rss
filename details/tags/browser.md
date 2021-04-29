@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-29 01:31:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-29 01:44:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,8 +7,6 @@
 
 
 
-- [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/) 
-- [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2021-04-28-【安全圈】月入过万不是梦!江苏艾盾在线招聘,五险一金,朝九晚六!](https://sec.thief.one/article_content?a_id=ec8b86bee3e7c217ad50a35ebf6f6ae5) 
 - [2021-04-28-通用爬虫技术:如何正确从-URL-中移除无效参数](https://sec.thief.one/article_content?a_id=2ffc84821eb0e44202657503fedf9d56) 
 - [2021-04-28-安全日报2021.04.28](https://sec.thief.one/article_content?a_id=8ef22401909b280c023bd0357882952e) 

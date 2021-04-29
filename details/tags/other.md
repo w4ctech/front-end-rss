@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-29 00:08:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-29 01:31:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -10,6 +10,11 @@
 - [2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) 
 - [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) 
 - [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html) 
+- [2021-04-29-《常见类型移动互联网应用程序必要个人信息范围规定》答记者问](https://sec.thief.one/article_content?a_id=3a0eedc9778c4c0460fa750811522313) 
+- [2021-04-29-美华盛顿特区警局遭勒索软件入侵-黑客以公布线人身份作为要胁](https://sec.thief.one/article_content?a_id=262b4d276d44712474579850b952201c) 
+- [2021-04-28-格物致知・数安有道-|-红途GOPR平台正式发布](https://sec.thief.one/article_content?a_id=b7e2d32fdb1c21f4fbf33cd4f1e755c7) 
+- [2021-04-28-C5类中国唯一!奇安信天眼参与申报项目荣获WSIS“冠军项目”](https://sec.thief.one/article_content?a_id=b1d917ec5a6f443b8f6e2b45e33dc815) 
+- [2021-04-28-我写公众号常用的一些软件工具](https://sec.thief.one/article_content?a_id=ceaa163ec9aaa8d3859fc9e563137a17) 
 - [2021-04-28-【漏洞通告】Apache-OFBiz-远程代码执行漏洞-CVE-2021-29200/CVE...](https://sec.thief.one/article_content?a_id=be4b6752549108dbb104c48a1ab7357c) 
 - [2021-04-28-华盛顿警局遭黑客入侵,不交赎金就公开警方线人](https://sec.thief.one/article_content?a_id=8e88162c6950e48bab20086fc111dbeb) 
 - [2021-04-28-IoT初体验](https://sec.thief.one/article_content?a_id=6cbfc6c199c4b406ef654fe01aea7eae) 
@@ -71,8 +76,3 @@
 - [2021-04-25-2.2-万-Star!一个开源免费的-To-Do-List-应用!](https://sec.thief.one/article_content?a_id=b860ee04507f59abec57162a61f96d84) 
 - [2021-04-25-红雨滴云沙箱的“七种武器”【附:部分攻防样本报告】](https://sec.thief.one/article_content?a_id=ee000abbc841f56e3e933a77d983f2c7) 
 - [2021-04-25-利用聊天软件漏洞窃取比特币?360区块链防火墙铸就铜墙铁壁](https://sec.thief.one/article_content?a_id=6e42558b4a8431d5d31d5ab99d965c31) 
-- [2021-04-25-获取实时有价值可操作的漏洞情报请关注奇安信CERT|20210408-...](https://sec.thief.one/article_content?a_id=8049940d223bb059e8c412a659055647) 
-- [2021-04-25-敢为敢战-破浪前行|绿盟科技21岁生日快乐](https://sec.thief.one/article_content?a_id=61de0ccd6b89b62ce901fe4e2cb9ff29) 
-- [2021-04-25-百家|红蓝对抗,互联网威胁情报平台引发的法律问题研究](https://sec.thief.one/article_content?a_id=aa951f982b54ea4c16d9e7e16037edf1) 
-- [2021-04-25-《北京市保守国家秘密条例》10月1日施行,强调机关单位网络工具的...](https://sec.thief.one/article_content?a_id=365f0dbf2b1d57e9826cc211c59f6ada) 
-- [2021-04-25-黄坤明:坚持自立自强、创新引领-高标准高质量推进数字中国建设](https://sec.thief.one/article_content?a_id=149747b1d2c019aff5ae0fbc89d52615) 

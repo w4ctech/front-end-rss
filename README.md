@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-29 00:08:37，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-29 01:31:37，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -507,6 +507,14 @@
 </summary>
 
 
+- [2021-04-29-《常见类型移动互联网应用程序必要个人信息范围规定》答记者问](https://sec.thief.one/article_content?a_id=3a0eedc9778c4c0460fa750811522313) ![](assets/new.png)  
+- [2021-04-29-美华盛顿特区警局遭勒索软件入侵-黑客以公布线人身份作为要胁](https://sec.thief.one/article_content?a_id=262b4d276d44712474579850b952201c) ![](assets/new.png)  
+- [2021-04-28-Java面试高频题:Spring-Boot+Sentinel+Nacos高并发已撸完](https://sec.thief.one/article_content?a_id=18af4a89d9ea87bc517c469d84942b0e) ![](assets/new.png)  
+- [2021-04-28-【安全圈】月入过万不是梦!江苏艾盾在线招聘,五险一金,朝九晚六!](https://sec.thief.one/article_content?a_id=ec8b86bee3e7c217ad50a35ebf6f6ae5) ![](assets/new.png)  
+- [2021-04-28-通用爬虫技术:如何正确从-URL-中移除无效参数](https://sec.thief.one/article_content?a_id=2ffc84821eb0e44202657503fedf9d56) ![](assets/new.png)  
+- [2021-04-28-格物致知・数安有道-|-红途GOPR平台正式发布](https://sec.thief.one/article_content?a_id=b7e2d32fdb1c21f4fbf33cd4f1e755c7) ![](assets/new.png)  
+- [2021-04-28-C5类中国唯一!奇安信天眼参与申报项目荣获WSIS“冠军项目”](https://sec.thief.one/article_content?a_id=b1d917ec5a6f443b8f6e2b45e33dc815) ![](assets/new.png)  
+- [2021-04-28-我写公众号常用的一些软件工具](https://sec.thief.one/article_content?a_id=ceaa163ec9aaa8d3859fc9e563137a17) ![](assets/new.png)  
 - [2021-04-28-【漏洞通告】Apache-OFBiz-远程代码执行漏洞-CVE-2021-29200/CVE...](https://sec.thief.one/article_content?a_id=be4b6752549108dbb104c48a1ab7357c) ![](assets/new.png)  
 - [2021-04-28-华盛顿警局遭黑客入侵,不交赎金就公开警方线人](https://sec.thief.one/article_content?a_id=8e88162c6950e48bab20086fc111dbeb) ![](assets/new.png)  
 - [2021-04-28-IoT初体验](https://sec.thief.one/article_content?a_id=6cbfc6c199c4b406ef654fe01aea7eae) ![](assets/new.png)  
@@ -519,14 +527,6 @@
 - [2021-04-28-华盛顿警局遭黑客入侵,不交赎金就公开警方线人](https://sec.thief.one/article_content?a_id=addeab148d541c4e4d7d671488767c2c) ![](assets/new.png)  
 - [2021-04-28-每日安全动态推送04-28](https://sec.thief.one/article_content?a_id=1380b1f4b6a3a2da5bc6fdc6ba31371a) ![](assets/new.png)  
 - [2021-04-28-“熄灯”数据中心,你准备好了吗?](https://sec.thief.one/article_content?a_id=aa36060aaa03ae0f8014451110ca40fb) ![](assets/new.png)  
-- [2021-04-28-Fortinet-公布全新SPU产品破除超大规模安全应用的性能挑战](https://sec.thief.one/article_content?a_id=58d9144b7bad3772b429690cc6fc1841) ![](assets/new.png)  
-- [2021-04-28-调查:近半数恶意软件藏身TLS加密通信](https://sec.thief.one/article_content?a_id=a4950f4d265a1e473207668dde194b3d) ![](assets/new.png)  
-- [2021-04-28-内网渗透-|-后渗透之远程桌面](https://sec.thief.one/article_content?a_id=6f2531ea866fcbedb54761abfc21018f) ![](assets/new.png)  
-- [2021-04-28-违规收集个人信息:广州农商行、微众银行、南粤银行App遭通报](https://sec.thief.one/article_content?a_id=4007dd0bc6d4a07e135221fa7a7e13b8) ![](assets/new.png)  
-- [2021-04-28-NBA休斯顿火箭队遭遇勒索软件攻击](https://sec.thief.one/article_content?a_id=aa206e392eb82d2efa3a2ad319fb5f6a) ![](assets/new.png)  
-- [2021-04-28-4.29首都网络安全日,安全客携好礼现场等你!](https://sec.thief.one/article_content?a_id=2d560cb844a54d08c5ab885f2997022c) ![](assets/new.png)  
-- [2021-04-28-哈哈,我把熊猫烧香病毒扒了!](https://sec.thief.one/article_content?a_id=64eae0fac4107f96e50417600012b946) ![](assets/new.png)  
-- [2021-04-28-明尼苏达大学研究团队道歉,Linux内核维护人员:拒绝](https://sec.thief.one/article_content?a_id=0ed39803fa7d9df070e9acdb4ca3db63) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

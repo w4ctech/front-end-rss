@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-30 10:11:18，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-30 10:35:17，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -507,26 +507,26 @@
 </summary>
 
 
-- [2021-04-30-网信办网络数据管理局《常见类型移动互联网应用程序必要个人信息范...](https://sec.thief.one/article_content?a_id=01a0bc349ff0f7d10618316077313a6c) ![](assets/new.png)  
-- [2021-04-29-美国情报部门应对“外国恶意影响”对策](https://sec.thief.one/article_content?a_id=f72784b35c860e36f11de5ab41e4739f) ![](assets/new.png)  
-- [2021-04-29-【安全圈】FBI将400万个被泄露的邮件地址从Emotet移交给Have-I-...](https://sec.thief.one/article_content?a_id=c96479ae3bde8fcb3352539e62ad34c9) ![](assets/new.png)  
-- [2021-04-29-武汉数据安全培训专题圆满落幕|珠海,我们来了](https://sec.thief.one/article_content?a_id=680091f83295516199c0819a6dd6b1f5) ![](assets/new.png)  
-- [2021-04-29-每日攻防资讯简报Apr.29th](https://sec.thief.one/article_content?a_id=392934db219c5826d56abfce7e30acb9) ![](assets/new.png)  
-- [2021-04-29-假如易立竞吐槽程序员……](https://sec.thief.one/article_content?a_id=31f0c053e91c6750e50d483928a63aa2) ![](assets/new.png)  
-- [2021-04-29-绝了,这一天都是什么事儿啊](https://sec.thief.one/article_content?a_id=02aa987d1d98c49b7a9eeb682ef8433f) ![](assets/new.png)  
-- [2021-04-29-利用计划任务维持系统权限](https://sec.thief.one/article_content?a_id=1bcaeacd181891f71099ccb2dca2089f) ![](assets/new.png)  
-- [2021-04-29-现场直击-|-429首都网络安全日展位亮点全揭秘](https://sec.thief.one/article_content?a_id=3e09f29ef63faddb7ff459503936da99) ![](assets/new.png)  
-- [2021-04-29-技术揭秘:勒索苹果代工厂5000万美元的REvil有什么不同?](https://sec.thief.one/article_content?a_id=2aa8b32e769d1cd16af90688791937c2) ![](assets/new.png)  
-- [2021-04-29-快递信息居然是恶意软件,FluBot安卓木马在欧洲迅速传播](https://sec.thief.one/article_content?a_id=c0e14ce91f1ce01a0bd4fa02c5c8f172) ![](assets/new.png)  
-- [2021-04-29-谷歌隐私追踪新政策出炉,遭多方反对](https://sec.thief.one/article_content?a_id=4b75a1ef11f09c878ceb8cd9a236d9b0) ![](assets/new.png)  
-- [2021-04-29-【安全风险通告】奇安信CERT已验证,Apache-OFBiz多个高危漏洞安...](https://sec.thief.one/article_content?a_id=4b0c22f48e82366bfff32670a1dfee06) ![](assets/new.png)  
-- [2021-04-29-专栏丨《网络犯罪案例分析》第三期:全网扫描](https://sec.thief.one/article_content?a_id=75da3c07d0f0a13d960c5c0fc0b92ffa) ![](assets/new.png)  
-- [2021-04-29-“大众点评”再点评,读报告得大奖!](https://sec.thief.one/article_content?a_id=60fef2a9b8aa45279d43e16d20f5e5ea) ![](assets/new.png)  
-- [2021-04-29-关于征求《信息安全技术-网联汽车-采集数据的安全要求》标准草案意...](https://sec.thief.one/article_content?a_id=acf04c9b69209c8adb485c30edcdc126) ![](assets/new.png)  
-- [2021-04-29-一文读懂-|-2021年“4.29首都网络安全日”活动日程安排](https://sec.thief.one/article_content?a_id=19bcf3ac3beb7043cb65b94629ed4496) ![](assets/new.png)  
-- [2021-04-29-安全日报2021.04.29](https://sec.thief.one/article_content?a_id=3d5bbc8b914c8752e9b57041dc5b3466) ![](assets/new.png)  
-- [2021-04-29-制作一台android测试机](https://sec.thief.one/article_content?a_id=a01eff58647f9845193e5d189778b185) ![](assets/new.png)  
-- [2021-04-29-广西密码学与信息安全重点实验室2020-2021年研究课题](https://sec.thief.one/article_content?a_id=69058f3ffc44700dd2d22a748a7f00b0) ![](assets/new.png)  
+- [2021-04-30-五一活动-|-春眠当觉晓,稿费加成又来到](https://sec.thief.one/article_content?a_id=042fa7cb961277b894aef448e3353c77) ![](assets/new.png)  
+- [2021-04-30-DLL卸载-|-创建远程线程卸载强制注入的dll](https://sec.thief.one/article_content?a_id=ec7a3a81054945832201ec355c7f7621) ![](assets/new.png)  
+- [2021-04-30-【漏洞更新】SaltStack-Minion-命令注入漏洞,已复现](https://sec.thief.one/article_content?a_id=8c32e0548eae4af4158e2de0a254a84e) ![](assets/new.png)  
+- [2021-04-30-中国上市网络安全公司2020年营收、毛利、利润排行](https://sec.thief.one/article_content?a_id=8dd597a95cb298b417653f884d3b17f6) ![](assets/new.png)  
+- [2021-04-30-奇安信天眼独家中标中国移动总部网络安全项目](https://sec.thief.one/article_content?a_id=a952995b01c57623afcc54bfe66b25c5) ![](assets/new.png)  
+- [2021-04-30-译文|无需更换系统即可防止固件攻击的3种方法](https://sec.thief.one/article_content?a_id=23751ace3bda9bfba94dece6d6b8ecaa) ![](assets/new.png)  
+- [2021-04-30-4月30日或为上半年“最难打车日”](https://sec.thief.one/article_content?a_id=ad093295014e4e753e9dc95959e79e78) ![](assets/new.png)  
+- [2021-04-30-智慧安全-广州首发|NSFOCUS-CLUB-2021创新安全全国巡讲火爆来袭](https://sec.thief.one/article_content?a_id=c7536dfeb9d310cfb920d4224714194e) ![](assets/new.png)  
+- [2021-04-30-全国人大法工委公布数据安全法草案、个人信息保护法草案新修内容](https://sec.thief.one/article_content?a_id=fe67852dbd352b19be2be36928a1a4b2) ![](assets/new.png)  
+- [2021-04-30-【团队排位PK】限时活动+常规额外奖励=5月份暴富!](https://sec.thief.one/article_content?a_id=8ef6cc1ff769265520cd16396924f2f0) ![](assets/new.png)  
+- [2021-04-30-加勒比岛居民可以利用比特币进行当地交易](https://sec.thief.one/article_content?a_id=4eb3389fe9a8056bbed6d37b2c0cd7e9) ![](assets/new.png)  
+- [2021-04-30-完美收官-|-首届国产优秀网络安全工具主题展圆满落幕](https://sec.thief.one/article_content?a_id=a44ac0f27c8bc33fb3dde43adbde19d0) ![](assets/new.png)  
+- [2021-04-30-勒索凶猛!英国铁路公司CEO邮箱被劫持发布勒索通知](https://sec.thief.one/article_content?a_id=dcfeab2596db65f9e76f2397c29567e7) ![](assets/new.png)  
+- [2021-04-30-安全日报2021.04.30](https://sec.thief.one/article_content?a_id=17283c01078c81d6742c7194d507236b) ![](assets/new.png)  
+- [2021-04-30-LPT真不是拉皮条,认真干事情的好吗](https://sec.thief.one/article_content?a_id=cd2deb492d5c1572889571b9ed3345e0) ![](assets/new.png)  
+- [2021-04-30-利用-Python-深度学习识别滑动验证码缺口](https://sec.thief.one/article_content?a_id=7ecf87802dbef39c3c03ffa42419243f) ![](assets/new.png)  
+- [2021-04-30-MacOS内核安全性检测](https://sec.thief.one/article_content?a_id=f585fe2901efd76d3d23899b5654dca7) ![](assets/new.png)  
+- [2021-04-30-远程线程注入Dll,突破Session-0](https://sec.thief.one/article_content?a_id=6268d0af8c169bd552f908a929563113) ![](assets/new.png)  
+- [2021-04-30-在支付赎金的企业中,只有8%的企业拿回了所有的数据](https://sec.thief.one/article_content?a_id=7186a8fe0fc3e847b23ea126c72a20e2) ![](assets/new.png)  
+- [2021-04-30-每周高级威胁情报解读2021.04.22~04.29](https://sec.thief.one/article_content?a_id=5b6a7a7033fda29689ae40ba1515aa56) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

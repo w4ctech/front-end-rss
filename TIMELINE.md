@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-30 03:59:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-04-30 04:13:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -36,9 +36,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2021-04-25-JS视频解码JSMpeg和Broadway开箱测评](https://www.zhangxinxu.com/wordpress/2021/04/js-video-decode-jsmpeg-broadway/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-04-18-腾讯开源的酷炫动画播放解决方案Vap初体验](https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) 
-- [【阮一峰的网络日志】2021-04-29-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html) 
-- [【阮一峰的网络日志】2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) 
-- [【阮一峰的网络日志】2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) 
 - [【安全热点】2021-04-30-网信办网络数据管理局《常见类型移动互联网应用程序必要个人信息范...](https://sec.thief.one/article_content?a_id=01a0bc349ff0f7d10618316077313a6c) 
 - [【安全热点】2021-04-29-美国情报部门应对“外国恶意影响”对策](https://sec.thief.one/article_content?a_id=f72784b35c860e36f11de5ab41e4739f) 
 - [【安全热点】2021-04-29-【安全圈】FBI将400万个被泄露的邮件地址从Emotet移交给Have-I-...](https://sec.thief.one/article_content?a_id=c96479ae3bde8fcb3352539e62ad34c9) 

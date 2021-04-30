@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-30 08:50:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-30 08:59:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -168,7 +168,6 @@
 
 
 
-- [【张鑫旭-鑫空间-鑫生活】JS视频解码JSMpeg和Broadway开箱测评](https://www.zhangxinxu.com/wordpress/2021/04/js-video-decode-jsmpeg-broadway/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -185,10 +184,6 @@
 
 
 
-- [【张鑫旭-鑫空间-鑫生活】腾讯开源的酷炫动画播放解决方案Vap初体验](https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/)
-- [【张鑫旭-鑫空间-鑫生活】CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/)
-- [【张鑫旭-鑫空间-鑫生活】使用CSS-text-combine-upright实现字符的横向合并](https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/)
-- [【张鑫旭-鑫空间-鑫生活】CSS-line-break属性与中文标点换行](https://www.zhangxinxu.com/wordpress/2021/02/css-line-break/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -222,7 +217,6 @@
 
 
 
-- [【张鑫旭-鑫空间-鑫生活】借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/)
 - [【安全热点】视频-|-全国首案:电信运营商拒不履行信息网络安全管理义务,董事长...](https://sec.thief.one/article_content?a_id=00d25b88e7aa2f4af83b5b6faa9cd0a0)
 - [【安全热点】视频-|-Python:面向对象之init方法](https://sec.thief.one/article_content?a_id=243e89710e733b6d9c8e00c9db3a0b01)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -258,8 +252,6 @@
 
 
 
-- [【张鑫旭-鑫空间-鑫生活】Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/)
-- [【张鑫旭-鑫空间-鑫生活】Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/)
 - [【安全热点】【安全圈】FBI将400万个被泄露的邮件地址从Emotet移交给Have-I-...](https://sec.thief.one/article_content?a_id=c96479ae3bde8fcb3352539e62ad34c9)
 - [【安全热点】武汉数据安全培训专题圆满落幕|珠海,我们来了](https://sec.thief.one/article_content?a_id=680091f83295516199c0819a6dd6b1f5)
 - [【安全热点】现场直击-|-429首都网络安全日展位亮点全揭秘](https://sec.thief.one/article_content?a_id=3e09f29ef63faddb7ff459503936da99)
@@ -278,6 +270,8 @@
 - [【安全热点】国家安全部:关基运营者应采取反间谍技术安全防范措施](https://sec.thief.one/article_content?a_id=0b8c396466249a85c48d2e2c2f3f9d32)
 - [【安全热点】【安全圈】勒索团伙利用7zip压缩程序盯上QNAP设备,五天之内盈利...](https://sec.thief.one/article_content?a_id=be117b407f19708902aa362ed3fc403e)
 - [【安全热点】PK体系考验升级-第二届虎符网络安全赛道总决赛落幕](https://sec.thief.one/article_content?a_id=0dda5790522d5a5cd2a0d6c692de5883)
+- [【安全热点】喜报:「亿赛通」与太平洋财险签订战略合作协议共同推出网络安全保...](https://sec.thief.one/article_content?a_id=66addb5a7420c688657ad56f4362a1b5)
+- [【安全热点】32城再启征程|NSFOCUS-CLUB-2021创新安全全国巡讲即将起航](https://sec.thief.one/article_content?a_id=7652d8582de859f84f69be2a11199215)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -391,8 +385,6 @@
 
 
 
-- [【张鑫旭-鑫空间-鑫生活】使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/)
-- [【张鑫旭-鑫空间-鑫生活】分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html)
@@ -411,6 +403,8 @@
 - [【安全热点】2021年暑假红队训练营-常见问题答疑](https://sec.thief.one/article_content?a_id=1e8dee8ae9702e432dac80b41a400fee)
 - [【安全热点】以太飙升至历史新高,引起摩根大通关注](https://sec.thief.one/article_content?a_id=82eafe29feb77f98dcb017aa43e2b9bc)
 - [【安全热点】拜登发布国家版“劫富济贫”计划,比特币大涨可期?](https://sec.thief.one/article_content?a_id=7ee1fcb35c79404497a5bb63fff6b723)
+- [【安全热点】国内DevSecOps的技术现状与落地](https://sec.thief.one/article_content?a_id=e6ee15f3fd98b5bd08deeada1aba3164)
+- [【安全热点】微软防病毒软件Defender使用英特尔TDT技术对抗加密采矿恶意软件](https://sec.thief.one/article_content?a_id=ea78772566a8cbaee21dd8e1fdec722d)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

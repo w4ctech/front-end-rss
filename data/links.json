@@ -188,19 +188,19 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
-        "title": "科技爱好者周刊（第 155 期）：数字货币是打破美元霸权的武器吗？",
-        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html",
-        "date": "2021-04-23"
+        "title": "科技爱好者周刊（第 156 期）：显卡缺货与异业竞争",
+        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html",
+        "date": "2021-04-29"
       },
       {
-        "title": "科技爱好者周刊（第 154 期）：1982年的信息社会预言",
-        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html",
-        "date": "2021-04-16"
+        "title": "科技爱好者周刊（第 156 期）：显卡缺货与异业竞争",
+        "link": "http://www.ruanyifeng.com/blog/2021/04/_156.html",
+        "date": "2021-04-29"
       },
       {
-        "title": "科技爱好者周刊（第 153 期）：机器翻译是对译者的侮辱吗？",
-        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html",
-        "date": "2021-04-09"
+        "title": "科技爱好者周刊（第 156 期）：显卡缺货与异业竞争",
+        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html",
+        "date": "2021-04-29"
       }
     ]
   },
@@ -305,6 +305,51 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "网信办网络数据管理局《常见类型移动互联网应用程序必要个人信息范...",
+        "link": "https://sec.thief.one/article_content?a_id=01a0bc349ff0f7d10618316077313a6c",
+        "date": "2021-04-30"
+      },
+      {
+        "title": "美国情报部门应对“外国恶意影响”对策",
+        "link": "https://sec.thief.one/article_content?a_id=f72784b35c860e36f11de5ab41e4739f",
+        "date": "2021-04-29"
+      },
+      {
+        "title": "【安全圈】FBI将400万个被泄露的邮件地址从Emotet移交给Have I ...",
+        "link": "https://sec.thief.one/article_content?a_id=c96479ae3bde8fcb3352539e62ad34c9",
+        "date": "2021-04-29"
+      },
+      {
+        "title": "武汉数据安全培训专题圆满落幕|珠海,我们来了",
+        "link": "https://sec.thief.one/article_content?a_id=680091f83295516199c0819a6dd6b1f5",
+        "date": "2021-04-29"
+      },
+      {
+        "title": "每日攻防资讯简报[Apr.29th]",
+        "link": "https://sec.thief.one/article_content?a_id=392934db219c5826d56abfce7e30acb9",
+        "date": "2021-04-29"
+      },
+      {
+        "title": "假如易立竞吐槽程序员……",
+        "link": "https://sec.thief.one/article_content?a_id=31f0c053e91c6750e50d483928a63aa2",
+        "date": "2021-04-29"
+      },
+      {
+        "title": "绝了,这一天都是什么事儿啊",
+        "link": "https://sec.thief.one/article_content?a_id=02aa987d1d98c49b7a9eeb682ef8433f",
+        "date": "2021-04-29"
+      },
+      {
+        "title": "利用计划任务维持系统权限",
+        "link": "https://sec.thief.one/article_content?a_id=1bcaeacd181891f71099ccb2dca2089f",
+        "date": "2021-04-29"
+      },
+      {
+        "title": "现场直击 | 429首都网络安全日展位亮点全揭秘",
+        "link": "https://sec.thief.one/article_content?a_id=3e09f29ef63faddb7ff459503936da99",
+        "date": "2021-04-29"
+      },
       {
         "title": "技术揭秘:勒索苹果代工厂5000万美元的REvil有什么不同?",
         "link": "https://sec.thief.one/article_content?a_id=2aa8b32e769d1cd16af90688791937c2",
@@ -758,51 +803,6 @@
       {
         "title": "聚焦数字中国|吴云坤:供应链安全是工业软件发展的底板",
         "link": "https://sec.thief.one/article_content?a_id=a899941f96bba6b922ddc6bfb1db85f6",
-        "date": "2021-04-26"
-      },
-      {
-        "title": "站在车顶才能维权?中汽协基于区块链放“大招”!",
-        "link": "https://sec.thief.one/article_content?a_id=cb04b47dc8ccca6462721dc87e69d246",
-        "date": "2021-04-26"
-      },
-      {
-        "title": "【漏洞通告】Webmin多个漏洞",
-        "link": "https://sec.thief.one/article_content?a_id=ecd525a647748945ea27eb657acfc021",
-        "date": "2021-04-26"
-      },
-      {
-        "title": "疑似APT组织针对多吉币关注者进行鱼叉式定向攻击",
-        "link": "https://sec.thief.one/article_content?a_id=d319724812b54ee3bbae8a976620f95a",
-        "date": "2021-04-26"
-      },
-      {
-        "title": "Python数据可视化,被Altair圈粉了!",
-        "link": "https://sec.thief.one/article_content?a_id=248c170c0d79aa950dbe9e0d0063e55a",
-        "date": "2021-04-26"
-      },
-      {
-        "title": "利用 Office 来进行系统权限维持",
-        "link": "https://sec.thief.one/article_content?a_id=fbc5e65e93b044e578ff4dadf22384eb",
-        "date": "2021-04-26"
-      },
-      {
-        "title": "SecWiki周刊(第373期)",
-        "link": "https://sec.thief.one/article_content?a_id=e5910f09365aca6eca08b86376c0802a",
-        "date": "2021-04-26"
-      },
-      {
-        "title": "【招聘】(深圳)网安检测招人啦",
-        "link": "https://sec.thief.one/article_content?a_id=ad9c35657942c0f0944282a1eb808621",
-        "date": "2021-04-26"
-      },
-      {
-        "title": "疫情反扑时攻击者也没放过印度,生鲜电商用户数据被免费公开",
-        "link": "https://sec.thief.one/article_content?a_id=778797bdbb1c9d668481b04f869a5214",
-        "date": "2021-04-26"
-      },
-      {
-        "title": "反跨境赌博不松懈:央行召开打击治理跨境赌博“资金链”工作会议",
-        "link": "https://sec.thief.one/article_content?a_id=c3632191e234bb87241154e906f8ab46",
         "date": "2021-04-26"
       }
     ]

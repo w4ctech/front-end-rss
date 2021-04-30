@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-29 23:56:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-30 00:19:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -260,6 +260,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/)
 - [【张鑫旭-鑫空间-鑫生活】Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/)
+- [【安全热点】【安全圈】FBI将400万个被泄露的邮件地址从Emotet移交给Have-I-...](https://sec.thief.one/article_content?a_id=c96479ae3bde8fcb3352539e62ad34c9)
+- [【安全热点】武汉数据安全培训专题圆满落幕|珠海,我们来了](https://sec.thief.one/article_content?a_id=680091f83295516199c0819a6dd6b1f5)
+- [【安全热点】现场直击-|-429首都网络安全日展位亮点全揭秘](https://sec.thief.one/article_content?a_id=3e09f29ef63faddb7ff459503936da99)
 - [【安全热点】【安全风险通告】奇安信CERT已验证,Apache-OFBiz多个高危漏洞安...](https://sec.thief.one/article_content?a_id=4b0c22f48e82366bfff32670a1dfee06)
 - [【安全热点】关于征求《信息安全技术-网联汽车-采集数据的安全要求》标准草案意...](https://sec.thief.one/article_content?a_id=acf04c9b69209c8adb485c30edcdc126)
 - [【安全热点】一文读懂-|-2021年“4.29首都网络安全日”活动日程安排](https://sec.thief.one/article_content?a_id=19bcf3ac3beb7043cb65b94629ed4496)
@@ -275,9 +278,6 @@
 - [【安全热点】国家安全部:关基运营者应采取反间谍技术安全防范措施](https://sec.thief.one/article_content?a_id=0b8c396466249a85c48d2e2c2f3f9d32)
 - [【安全热点】【安全圈】勒索团伙利用7zip压缩程序盯上QNAP设备,五天之内盈利...](https://sec.thief.one/article_content?a_id=be117b407f19708902aa362ed3fc403e)
 - [【安全热点】PK体系考验升级-第二届虎符网络安全赛道总决赛落幕](https://sec.thief.one/article_content?a_id=0dda5790522d5a5cd2a0d6c692de5883)
-- [【安全热点】喜报:「亿赛通」与太平洋财险签订战略合作协议共同推出网络安全保...](https://sec.thief.one/article_content?a_id=66addb5a7420c688657ad56f4362a1b5)
-- [【安全热点】32城再启征程|NSFOCUS-CLUB-2021创新安全全国巡讲即将起航](https://sec.thief.one/article_content?a_id=7652d8582de859f84f69be2a11199215)
-- [【安全热点】大家好,我是林晨,米斯特安全团队创始人!](https://sec.thief.one/article_content?a_id=a0ce2c4f79a44a8330386ba2ce1d3717)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -345,7 +345,6 @@
 
 - [【安全热点】Java面试高频题:Spring-Boot+Sentinel+Nacos高并发已撸完](https://sec.thief.one/article_content?a_id=18af4a89d9ea87bc517c469d84942b0e)
 - [【安全热点】疯传!某大厂P8面试题库遭到泄露!](https://sec.thief.one/article_content?a_id=7506b5d3e6167e68ac216cc086a48556)
-- [【安全热点】【招聘】深圳网安检测招人啦](https://sec.thief.one/article_content?a_id=ad9c35657942c0f0944282a1eb808621)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -394,9 +393,15 @@
 
 - [【张鑫旭-鑫空间-鑫生活】使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/)
 - [【张鑫旭-鑫空间-鑫生活】分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/)
-- [【阮一峰的网络日志】科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html)
-- [【阮一峰的网络日志】科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html)
-- [【阮一峰的网络日志】科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/_156.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html)
+- [【安全热点】网信办网络数据管理局《常见类型移动互联网应用程序必要个人信息范...](https://sec.thief.one/article_content?a_id=01a0bc349ff0f7d10618316077313a6c)
+- [【安全热点】美国情报部门应对“外国恶意影响”对策](https://sec.thief.one/article_content?a_id=f72784b35c860e36f11de5ab41e4739f)
+- [【安全热点】每日攻防资讯简报Apr.29th](https://sec.thief.one/article_content?a_id=392934db219c5826d56abfce7e30acb9)
+- [【安全热点】假如易立竞吐槽程序员……](https://sec.thief.one/article_content?a_id=31f0c053e91c6750e50d483928a63aa2)
+- [【安全热点】绝了,这一天都是什么事儿啊](https://sec.thief.one/article_content?a_id=02aa987d1d98c49b7a9eeb682ef8433f)
+- [【安全热点】利用计划任务维持系统权限](https://sec.thief.one/article_content?a_id=1bcaeacd181891f71099ccb2dca2089f)
 - [【安全热点】技术揭秘:勒索苹果代工厂5000万美元的REvil有什么不同?](https://sec.thief.one/article_content?a_id=2aa8b32e769d1cd16af90688791937c2)
 - [【安全热点】快递信息居然是恶意软件,FluBot安卓木马在欧洲迅速传播](https://sec.thief.one/article_content?a_id=c0e14ce91f1ce01a0bd4fa02c5c8f172)
 - [【安全热点】谷歌隐私追踪新政策出炉,遭多方反对](https://sec.thief.one/article_content?a_id=4b75a1ef11f09c878ceb8cd9a236d9b0)
@@ -406,12 +411,6 @@
 - [【安全热点】2021年暑假红队训练营-常见问题答疑](https://sec.thief.one/article_content?a_id=1e8dee8ae9702e432dac80b41a400fee)
 - [【安全热点】以太飙升至历史新高,引起摩根大通关注](https://sec.thief.one/article_content?a_id=82eafe29feb77f98dcb017aa43e2b9bc)
 - [【安全热点】拜登发布国家版“劫富济贫”计划,比特币大涨可期?](https://sec.thief.one/article_content?a_id=7ee1fcb35c79404497a5bb63fff6b723)
-- [【安全热点】国内DevSecOps的技术现状与落地](https://sec.thief.one/article_content?a_id=e6ee15f3fd98b5bd08deeada1aba3164)
-- [【安全热点】微软防病毒软件Defender使用英特尔TDT技术对抗加密采矿恶意软件](https://sec.thief.one/article_content?a_id=ea78772566a8cbaee21dd8e1fdec722d)
-- [【安全热点】太空互联网:新的卫星连接如何影响全球互联网治理](https://sec.thief.one/article_content?a_id=84d78f49b16dab4bdcca239ff6c62b64)
-- [【安全热点】fscan:一键自动化、全方位漏洞扫描的开源工具](https://sec.thief.one/article_content?a_id=2eb56cb33b150ceb742247e85aee4c8d)
-- [【安全热点】不靠工资,没有996,月入过万的90后如何实现财务自由?](https://sec.thief.one/article_content?a_id=5584f8085ca8822565dc7dc152f85b23)
-- [【安全热点】招人,招人,招人啦!](https://sec.thief.one/article_content?a_id=66cc9a2ca13bfa3ef242d7e673a91f84)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

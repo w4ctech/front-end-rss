@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-29 23:56:54，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-30 00:19:45，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -317,9 +317,9 @@
 </summary>
 
 
-- [2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) ![](assets/new.png)  
-- [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) ![](assets/new.png)  
-- [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html) ![](assets/new.png)  
+- [2021-04-29-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html) ![](assets/new.png)  
+- [2021-04-29-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/_156.html) ![](assets/new.png)  
+- [2021-04-29-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -507,6 +507,15 @@
 </summary>
 
 
+- [2021-04-30-网信办网络数据管理局《常见类型移动互联网应用程序必要个人信息范...](https://sec.thief.one/article_content?a_id=01a0bc349ff0f7d10618316077313a6c) ![](assets/new.png)  
+- [2021-04-29-美国情报部门应对“外国恶意影响”对策](https://sec.thief.one/article_content?a_id=f72784b35c860e36f11de5ab41e4739f) ![](assets/new.png)  
+- [2021-04-29-【安全圈】FBI将400万个被泄露的邮件地址从Emotet移交给Have-I-...](https://sec.thief.one/article_content?a_id=c96479ae3bde8fcb3352539e62ad34c9) ![](assets/new.png)  
+- [2021-04-29-武汉数据安全培训专题圆满落幕|珠海,我们来了](https://sec.thief.one/article_content?a_id=680091f83295516199c0819a6dd6b1f5) ![](assets/new.png)  
+- [2021-04-29-每日攻防资讯简报Apr.29th](https://sec.thief.one/article_content?a_id=392934db219c5826d56abfce7e30acb9) ![](assets/new.png)  
+- [2021-04-29-假如易立竞吐槽程序员……](https://sec.thief.one/article_content?a_id=31f0c053e91c6750e50d483928a63aa2) ![](assets/new.png)  
+- [2021-04-29-绝了,这一天都是什么事儿啊](https://sec.thief.one/article_content?a_id=02aa987d1d98c49b7a9eeb682ef8433f) ![](assets/new.png)  
+- [2021-04-29-利用计划任务维持系统权限](https://sec.thief.one/article_content?a_id=1bcaeacd181891f71099ccb2dca2089f) ![](assets/new.png)  
+- [2021-04-29-现场直击-|-429首都网络安全日展位亮点全揭秘](https://sec.thief.one/article_content?a_id=3e09f29ef63faddb7ff459503936da99) ![](assets/new.png)  
 - [2021-04-29-技术揭秘:勒索苹果代工厂5000万美元的REvil有什么不同?](https://sec.thief.one/article_content?a_id=2aa8b32e769d1cd16af90688791937c2) ![](assets/new.png)  
 - [2021-04-29-快递信息居然是恶意软件,FluBot安卓木马在欧洲迅速传播](https://sec.thief.one/article_content?a_id=c0e14ce91f1ce01a0bd4fa02c5c8f172) ![](assets/new.png)  
 - [2021-04-29-谷歌隐私追踪新政策出炉,遭多方反对](https://sec.thief.one/article_content?a_id=4b75a1ef11f09c878ceb8cd9a236d9b0) ![](assets/new.png)  
@@ -518,15 +527,6 @@
 - [2021-04-29-安全日报2021.04.29](https://sec.thief.one/article_content?a_id=3d5bbc8b914c8752e9b57041dc5b3466) ![](assets/new.png)  
 - [2021-04-29-制作一台android测试机](https://sec.thief.one/article_content?a_id=a01eff58647f9845193e5d189778b185) ![](assets/new.png)  
 - [2021-04-29-广西密码学与信息安全重点实验室2020-2021年研究课题](https://sec.thief.one/article_content?a_id=69058f3ffc44700dd2d22a748a7f00b0) ![](assets/new.png)  
-- [2021-04-29-2021年暑假红队训练营-常见问题答疑](https://sec.thief.one/article_content?a_id=1e8dee8ae9702e432dac80b41a400fee) ![](assets/new.png)  
-- [2021-04-29-以太飙升至历史新高,引起摩根大通关注](https://sec.thief.one/article_content?a_id=82eafe29feb77f98dcb017aa43e2b9bc) ![](assets/new.png)  
-- [2021-04-29-拜登发布国家版“劫富济贫”计划,比特币大涨可期?](https://sec.thief.one/article_content?a_id=7ee1fcb35c79404497a5bb63fff6b723) ![](assets/new.png)  
-- [2021-04-29-国内DevSecOps的技术现状与落地](https://sec.thief.one/article_content?a_id=e6ee15f3fd98b5bd08deeada1aba3164) ![](assets/new.png)  
-- [2021-04-29-微软防病毒软件Defender使用英特尔TDT技术对抗加密采矿恶意软件](https://sec.thief.one/article_content?a_id=ea78772566a8cbaee21dd8e1fdec722d) ![](assets/new.png)  
-- [2021-04-29-2021年的6种网络安全趋势](https://sec.thief.one/article_content?a_id=d89f76eb5ee33156b790b018cc5c9d8c) ![](assets/new.png)  
-- [2021-04-29-太空互联网:新的卫星连接如何影响全球互联网治理](https://sec.thief.one/article_content?a_id=84d78f49b16dab4bdcca239ff6c62b64) ![](assets/new.png)  
-- [2021-04-29-兑现北京冬奥赞助承诺-奇安信安全防护软件冬奥版发布](https://sec.thief.one/article_content?a_id=15fe8f36c420bb3886cf71bce3d97798) ![](assets/new.png)  
-- [2021-04-29-fscan:一键自动化、全方位漏洞扫描的开源工具](https://sec.thief.one/article_content?a_id=2eb56cb33b150ceb742247e85aee4c8d) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-30 00:28:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-30 01:43:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -394,8 +394,8 @@
 - [【张鑫旭-鑫空间-鑫生活】使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/)
 - [【张鑫旭-鑫空间-鑫生活】分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html)
-- [【阮一峰的网络日志】科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/_156.html)
-- [【阮一峰的网络日志】科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html)
 - [【安全热点】网信办网络数据管理局《常见类型移动互联网应用程序必要个人信息范...](https://sec.thief.one/article_content?a_id=01a0bc349ff0f7d10618316077313a6c)
 - [【安全热点】美国情报部门应对“外国恶意影响”对策](https://sec.thief.one/article_content?a_id=f72784b35c860e36f11de5ab41e4739f)
 - [【安全热点】每日攻防资讯简报Apr.29th](https://sec.thief.one/article_content?a_id=392934db219c5826d56abfce7e30acb9)

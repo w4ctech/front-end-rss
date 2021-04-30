@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-30 00:28:50，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-30 01:43:38，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -318,8 +318,8 @@
 
 
 - [2021-04-29-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html) ![](assets/new.png)  
-- [2021-04-29-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/_156.html) ![](assets/new.png)  
-- [2021-04-29-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html) ![](assets/new.png)  
+- [2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) ![](assets/new.png)  
+- [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-01 18:55:32，:rocket: 更新条数: +734， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-01 19:05:29，:rocket: 更新条数: +4292， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-05-01-最新疫情：全国新冠累计确诊90671例-累计接种新冠疫苗超2.65亿剂次](https://m.caixin.com/m/2021-05-01/101705003.html) ![](assets/new.png)  
+- [2021-05-01-美国对印度发布旅行禁令-5月4日起限制人员从印度入境](http://m.international.caixin.com/m/2021-05-01/101704855.html) ![](assets/new.png)  
+- [2021-05-01-最新海外疫情：新冠感染超1.51亿-累计死亡超317万](https://m.caixin.com/m/2021-05-01/101705006.html) ![](assets/new.png)  
+- [2021-05-01-【境内疫情观察】全国新增16例境外输入病例（4月30日）](http://m.database.caixin.com/m/2021-05-01/101704949.html) ![](assets/new.png)  
+- [2021-05-01-东京奥运会拟闭门比赛-法国5月19日起逐步解封｜大流行手记（4月30日）](https://m.caixin.com/m/2021-05-01/101704798.html) ![](assets/new.png)  
+- [2021-04-30-中国报告多个印度输入新冠病例-双突变病毒影响待观察](https://m.caixin.com/m/2021-04-30/101704332.html) ![](assets/new.png)  
+- [2021-04-30-双重变种病毒流入香港社区-确诊菲佣感染10个月女婴](https://m.caixin.com/m/2021-04-30/101704317.html) ![](assets/new.png)  
+- [2021-04-30-双重变种病毒突现社区-港府紧急宣布37万外佣强制检测](https://m.caixin.com/m/2021-04-30/101704731.html) ![](assets/new.png)  
+- [2021-04-30-【境内疫情观察】全国疫情高风险区域清零（4月29日）](http://m.database.caixin.com/m/2021-04-30/101704361.html) ![](assets/new.png)  
+- [2021-04-30-美国筹备新冠疫苗加强针-巴西孕产期女性纳入优先接种｜大流行手记（4月29日）](https://m.caixin.com/m/2021-04-30/101704102.html) ![](assets/new.png)  
+- [2021-04-29-BioNTech创始人称其mRNA新冠疫苗或将于7月前在中国获批](https://m.caixin.com/m/2021-04-29/101701767.html) ![](assets/new.png)  
+- [2021-04-29-【境内疫情观察】浙江新增11例境外输入病例（4月28日）](http://m.database.caixin.com/m/2021-04-29/101701966.html) ![](assets/new.png)  
+- [2021-04-29-英国拟推新冠疫苗护照-至少17国发现印度变种病毒｜大流行手记（4月28日）](https://m.caixin.com/m/2021-04-29/101701781.html) ![](assets/new.png)  
+- [2021-04-28-【境内疫情观察】全国新增12例境外输入病例（4月27日）](http://m.database.caixin.com/m/2021-04-28/101700973.html) ![](assets/new.png)  
+- [2021-04-28-中国800台制氧机运抵印度德里-泰国疫情升级多地宵禁｜大流行手记（4月27日）](https://m.caixin.com/m/2021-04-28/101700780.html) ![](assets/new.png)  
+- [2021-04-27-港府出新招-接种首剂疫苗即可唱K逛夜店](https://m.caixin.com/m/2021-04-27/101700607.html) ![](assets/new.png)  
+- [2021-04-27-【境内疫情观察】全国新增11例境外输入病例（4月26日）](http://m.database.caixin.com/m/2021-04-27/101700409.html) ![](assets/new.png)  
+- [2021-04-27-希腊再放开七国旅客免隔离入境-美将输出所囤阿斯利康疫苗｜大流行手记（4月26日）](https://m.caixin.com/m/2021-04-27/101700275.html) ![](assets/new.png)  
+- [2021-04-26-【境内疫情观察】全国新增11例境外输入病例（4月25日）](http://m.database.caixin.com/m/2021-04-26/101699193.html) ![](assets/new.png)  
+- [2021-04-26-多国表态援助印度抗疫-以色列调查辉瑞疫苗与心肌炎关联｜大流行手记（4月25日）](https://m.caixin.com/m/2021-04-26/101699041.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,14 +1089,14 @@
 - [2021-05-01-记一次失败的发布过程](https://toutiao.io/k/t42ku89) ![](assets/new.png)  
 - [2021-05-01-以太坊交互工具](https://toutiao.io/k/aq1otgu) ![](assets/new.png)  
 - [2021-05-01-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-01-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-01-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-01-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-01-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
 - [2021-05-01-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-01-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-01-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-01-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-01-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
 - [2021-05-01-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-01-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-01-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-01-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-01-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [2021-05-01-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

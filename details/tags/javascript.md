@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-01 09:56:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 10:06:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -83,6 +83,7 @@
 - [2021-04-09-奇舞周刊第-392-期：用-65-行代码实现-JavaScript-动画序列播放](https://www.ershicimi.com/p/013dd0533617f7cce4ff4a46483d0fb1) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-05-01-JSON-Web-Tokens-Suck---Randall-Degges-DevNet-Create-2018---YouTube](https://www.v2ex.com/t/774526) 
 - [2021-05-01-一个应用，需要对一条消息是否发布进行一些权限的校验（需访问数据库）和内容的检查（需正则匹配），则哪个应该先进行？](https://www.v2ex.com/t/774517) 
 - [2021-05-01-搞懂-JavaScript-类型转换](https://www.v2ex.com/t/774498) 
 - [2021-05-01-CabloyJS-终于推出了在线演示站点，欢迎拍砖](https://www.v2ex.com/t/774488) 

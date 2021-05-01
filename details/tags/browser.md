@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-01 10:11:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 10:36:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,8 +39,10 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-05-01-理解浏览器渲染流程](https://www.v2ex.com/t/774500) 
-- [2021-05-01-curl-默认证书路径怎么修改](https://www.v2ex.com/t/774479) 
 - [2021-05-01-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 
+- [2021-05-01-App安全合规的思考:监管的重点变化梳理](https://sec.thief.one/article_content?a_id=9365d75052bdaa811fb51bd2ab94af94) 
+- [2021-05-01-第五届“蓝帽杯”首都网络安全日开赛-校企携手三方合作培养“未来网...](https://sec.thief.one/article_content?a_id=3ab4a473be984215bffc109e372cff85) 
+- [2021-05-01-安全守护每一份付出!同学们,五一快乐~](https://sec.thief.one/article_content?a_id=780962e881151589e732741f0393fbad) 
 - [2021-04-30-SecWiki安全招聘第51期](https://sec.thief.one/article_content?a_id=167d5b3d882ce60bb7dfa9cd3c063b52) 
 - [2021-04-30-开启全面安全新纪元-360安全卫士正式启动15周年“全面安全”品牌计...](https://sec.thief.one/article_content?a_id=6425da2a150250b8b9ed44c2523bd959) 
 - [2021-04-30-安全圈护网毕业了,那就来斗象吧](https://sec.thief.one/article_content?a_id=a15ba546594fe095c72ca1152ba3b12d) 
@@ -63,6 +65,3 @@
 - [2021-04-29-兑现北京冬奥赞助承诺-奇安信安全防护软件冬奥版发布](https://sec.thief.one/article_content?a_id=15fe8f36c420bb3886cf71bce3d97798) 
 - [2021-04-28-【安全圈】月入过万不是梦!江苏艾盾在线招聘,五险一金,朝九晚六!](https://sec.thief.one/article_content?a_id=ec8b86bee3e7c217ad50a35ebf6f6ae5) 
 - [2021-04-28-通用爬虫技术:如何正确从-URL-中移除无效参数](https://sec.thief.one/article_content?a_id=2ffc84821eb0e44202657503fedf9d56) 
-- [2021-04-28-安全日报2021.04.28](https://sec.thief.one/article_content?a_id=8ef22401909b280c023bd0357882952e) 
-- [2021-04-28-每日安全动态推送04-28](https://sec.thief.one/article_content?a_id=1380b1f4b6a3a2da5bc6fdc6ba31371a) 
-- [2021-04-28-4.29首都网络安全日,安全客携好礼现场等你!](https://sec.thief.one/article_content?a_id=2d560cb844a54d08c5ab885f2997022c) 

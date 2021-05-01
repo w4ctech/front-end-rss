@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-01 10:11:40，:rocket: 更新条数: +4287， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-01 10:36:03，:rocket: 更新条数: +4287， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2021-05-01-4月30日全国新增新冠16例-均由境外输入](https://m.caixin.com/m/2021-05-01/101704794.html) ![](assets/new.png)  
+- [2021-05-01-最新疫情：全国新冠累计确诊90671例-累计接种新冠疫苗超2.65亿剂次](https://m.caixin.com/m/2021-05-01/101705003.html) ![](assets/new.png)  
 - [2021-05-01-美国对印度发布旅行禁令-5月4日起限制人员从印度入境](http://m.international.caixin.com/m/2021-05-01/101704855.html) ![](assets/new.png)  
+- [2021-05-01-最新海外疫情：新冠感染超1.51亿-累计死亡超317万](https://m.caixin.com/m/2021-05-01/101705006.html) ![](assets/new.png)  
 - [2021-05-01-【境内疫情观察】全国新增16例境外输入病例（4月30日）](http://m.database.caixin.com/m/2021-05-01/101704949.html) ![](assets/new.png)  
 - [2021-05-01-东京奥运会拟闭门比赛-法国5月19日起逐步解封｜大流行手记（4月30日）](https://m.caixin.com/m/2021-05-01/101704798.html) ![](assets/new.png)  
 - [2021-04-30-中国报告多个印度输入新冠病例-双突变病毒影响待观察](https://m.caixin.com/m/2021-04-30/101704332.html) ![](assets/new.png)  
 - [2021-04-30-双重变种病毒流入香港社区-确诊菲佣感染10个月女婴](https://m.caixin.com/m/2021-04-30/101704317.html) ![](assets/new.png)  
-- [2021-04-30-最新海外疫情：新冠感染超1.5亿-累计死亡超316万](https://m.caixin.com/m/2021-04-30/101704564.html) ![](assets/new.png)  
 - [2021-04-30-双重变种病毒突现社区-港府紧急宣布37万外佣强制检测](https://m.caixin.com/m/2021-04-30/101704731.html) ![](assets/new.png)  
 - [2021-04-30-【境内疫情观察】全国疫情高风险区域清零（4月29日）](http://m.database.caixin.com/m/2021-04-30/101704361.html) ![](assets/new.png)  
 - [2021-04-30-美国筹备新冠疫苗加强针-巴西孕产期女性纳入优先接种｜大流行手记（4月29日）](https://m.caixin.com/m/2021-04-30/101704102.html) ![](assets/new.png)  
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-05-01-android-狗东会尝试获取-root-权限？](https://www.v2ex.com/t/774528) ![](assets/new.png)  
+- [2021-05-01-对女生提不起来感觉怎么办？](https://www.v2ex.com/t/774527) ![](assets/new.png)  
 - [2021-05-01-JSON-Web-Tokens-Suck---Randall-Degges-DevNet-Create-2018---YouTube](https://www.v2ex.com/t/774526) ![](assets/new.png)  
 - [2021-05-01-有人-Airpods-是单耳使用的吗？](https://www.v2ex.com/t/774523) ![](assets/new.png)  
 - [2021-05-01-kindle-电子书-“超级镇馆之宝”（满-100-返-20-元券）（仅限-5-月-1-号）](https://www.v2ex.com/t/774522) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-05-01-主板上的-sata-口带宽都是共享的吗](https://www.v2ex.com/t/774505) ![](assets/new.png)  
 - [2021-05-01-迫于音箱坏了，有什么电脑用蓝牙音箱推荐吗？](https://www.v2ex.com/t/774503) ![](assets/new.png)  
 - [2021-05-01-go-web-之如何添加-trace-id](https://www.v2ex.com/t/774502) ![](assets/new.png)  
-- [2021-05-01-我有授权给苹果用我的蓝牙帮别人找-AirTag-吗](https://www.v2ex.com/t/774501) ![](assets/new.png)  
-- [2021-05-01-理解浏览器渲染流程](https://www.v2ex.com/t/774500) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,17 +1087,17 @@
 - [2021-05-01-零故障上云全过程再现，PB-级数据迁移如何保障一致性？](https://toutiao.io/k/acm9zuw) ![](assets/new.png)  
 - [2021-05-01-记一次失败的发布过程](https://toutiao.io/k/t42ku89) ![](assets/new.png)  
 - [2021-05-01-以太坊交互工具](https://toutiao.io/k/aq1otgu) ![](assets/new.png)  
-- [2021-05-01-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
 - [2021-05-01-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
-- [2021-05-01-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-01-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
 - [2021-05-01-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-01-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
-- [2021-05-01-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-01-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-01-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-05-01-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
 - [2021-05-01-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
-- [2021-05-01-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-01-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-05-01-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-01-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
+- [2021-05-01-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-01-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-01-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-01-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,26 +1109,26 @@
 </summary>
 
 
+- [2021-05-01-App安全合规的思考:监管的重点变化梳理](https://sec.thief.one/article_content?a_id=9365d75052bdaa811fb51bd2ab94af94) ![](assets/new.png)  
+- [2021-05-01-这个五一不无聊,回答有奖!](https://sec.thief.one/article_content?a_id=57b358b532f09e94fcf20ad28f6ca2a3) ![](assets/new.png)  
+- [2021-05-01-介绍一款公众号运营插件——壹伴](https://sec.thief.one/article_content?a_id=a41cda43b5118d7fd859354314b3a903) ![](assets/new.png)  
+- [2021-05-01-强势更新:VS-Code-支持-Poetry-环境了](https://sec.thief.one/article_content?a_id=2a91e80753ef570dc8f34cca6209c16e) ![](assets/new.png)  
+- [2021-05-01-Azure-Functions-提权漏洞分析](https://sec.thief.one/article_content?a_id=274b084b001aeef87a23766110a4880a) ![](assets/new.png)  
+- [2021-05-01-干货-|-如何编写Word宏木马](https://sec.thief.one/article_content?a_id=dedb487143b1ac39a36d7b430957b1f8) ![](assets/new.png)  
+- [2021-05-01-第五届“蓝帽杯”首都网络安全日开赛-校企携手三方合作培养“未来网...](https://sec.thief.one/article_content?a_id=3ab4a473be984215bffc109e372cff85) ![](assets/new.png)  
+- [2021-05-01-安全守护每一份付出!同学们,五一快乐~](https://sec.thief.one/article_content?a_id=780962e881151589e732741f0393fbad) ![](assets/new.png)  
+- [2021-05-01-从失业0收入到月入3万,就靠这个习惯:聪明女人,-都懂得这样赚钱](https://sec.thief.one/article_content?a_id=54207afa9e2ccf0c432cdf8e11d1d794) ![](assets/new.png)  
+- [2021-05-01-美国国防部计划推出零信任战略2021](https://sec.thief.one/article_content?a_id=21dff5bbf82c332166ab0fd93512a443) ![](assets/new.png)  
+- [2021-05-01-云鼎百科|开战!劳动节VS开黑节](https://sec.thief.one/article_content?a_id=fb07e59f9f166f10e067eef9b8ccc7ba) ![](assets/new.png)  
+- [2021-05-01-5.1致敬每一位劳动者](https://sec.thief.one/article_content?a_id=7a3c3739334a582a8a00203571b39cca) ![](assets/new.png)  
+- [2021-05-01-华盟网祝大家五一快乐](https://sec.thief.one/article_content?a_id=53ae1c5b499bbafaf2e9275e4d305e4d) ![](assets/new.png)  
+- [2021-05-01-Python制作进度条,原来有这么多方法!](https://sec.thief.one/article_content?a_id=c30c4340f08402c7bf5a657405ec415f) ![](assets/new.png)  
+- [2021-05-01-Jeff-Dean被迫发论文自证:解雇黑人员工纯属学术原因](https://sec.thief.one/article_content?a_id=a69b6a0ccf692aa05b635881f46a596e) ![](assets/new.png)  
 - [2021-05-01-HW-攻击思路](https://sec.thief.one/article_content?a_id=07dcdce608e384d02227bb9b50433ed9) ![](assets/new.png)  
 - [2021-05-01-分享图片](https://sec.thief.one/article_content?a_id=733b5db53c60e72ef184c82b8de77e7a) ![](assets/new.png)  
 - [2021-04-30-SecWiki安全招聘第51期](https://sec.thief.one/article_content?a_id=167d5b3d882ce60bb7dfa9cd3c063b52) ![](assets/new.png)  
 - [2021-04-30-勒索软件攻击成本翻倍增长,平均达-185-万美元](https://sec.thief.one/article_content?a_id=cc0fe202171af319bf03a272912a145a) ![](assets/new.png)  
 - [2021-04-30-每日攻防资讯简报Apr.30th](https://sec.thief.one/article_content?a_id=0b089695081bfa2d2c5d1faadec09019) ![](assets/new.png)  
-- [2021-04-30-开启全面安全新纪元-360安全卫士正式启动15周年“全面安全”品牌计...](https://sec.thief.one/article_content?a_id=6425da2a150250b8b9ed44c2523bd959) ![](assets/new.png)  
-- [2021-04-30-安全圈护网毕业了,那就来斗象吧](https://sec.thief.one/article_content?a_id=a15ba546594fe095c72ca1152ba3b12d) ![](assets/new.png)  
-- [2021-04-30-五一活动-|-春眠当觉晓,稿费加成又来到](https://sec.thief.one/article_content?a_id=042fa7cb961277b894aef448e3353c77) ![](assets/new.png)  
-- [2021-04-30-DLL卸载-|-创建远程线程卸载强制注入的dll](https://sec.thief.one/article_content?a_id=ec7a3a81054945832201ec355c7f7621) ![](assets/new.png)  
-- [2021-04-30-【漏洞更新】SaltStack-Minion-命令注入漏洞,已复现](https://sec.thief.one/article_content?a_id=8c32e0548eae4af4158e2de0a254a84e) ![](assets/new.png)  
-- [2021-04-30-中国上市网络安全公司2020年营收、毛利、利润排行](https://sec.thief.one/article_content?a_id=8dd597a95cb298b417653f884d3b17f6) ![](assets/new.png)  
-- [2021-04-30-奇安信天眼独家中标中国移动总部网络安全项目](https://sec.thief.one/article_content?a_id=a952995b01c57623afcc54bfe66b25c5) ![](assets/new.png)  
-- [2021-04-30-译文|无需更换系统即可防止固件攻击的3种方法](https://sec.thief.one/article_content?a_id=23751ace3bda9bfba94dece6d6b8ecaa) ![](assets/new.png)  
-- [2021-04-30-4月30日或为上半年“最难打车日”](https://sec.thief.one/article_content?a_id=ad093295014e4e753e9dc95959e79e78) ![](assets/new.png)  
-- [2021-04-30-智慧安全-广州首发|NSFOCUS-CLUB-2021创新安全全国巡讲火爆来袭](https://sec.thief.one/article_content?a_id=c7536dfeb9d310cfb920d4224714194e) ![](assets/new.png)  
-- [2021-04-30-全国人大法工委公布数据安全法草案、个人信息保护法草案新修内容](https://sec.thief.one/article_content?a_id=fe67852dbd352b19be2be36928a1a4b2) ![](assets/new.png)  
-- [2021-04-30-【团队排位PK】限时活动+常规额外奖励=5月份暴富!](https://sec.thief.one/article_content?a_id=8ef6cc1ff769265520cd16396924f2f0) ![](assets/new.png)  
-- [2021-04-30-加勒比岛居民可以利用比特币进行当地交易](https://sec.thief.one/article_content?a_id=4eb3389fe9a8056bbed6d37b2c0cd7e9) ![](assets/new.png)  
-- [2021-04-30-完美收官-|-首届国产优秀网络安全工具主题展圆满落幕](https://sec.thief.one/article_content?a_id=a44ac0f27c8bc33fb3dde43adbde19d0) ![](assets/new.png)  
-- [2021-04-30-勒索凶猛!英国铁路公司CEO邮箱被劫持发布勒索通知](https://sec.thief.one/article_content?a_id=dcfeab2596db65f9e76f2397c29567e7) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

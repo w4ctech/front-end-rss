@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-01 10:11:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 10:36:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -14,4 +14,3 @@
 - [2021-04-26-从-10-多秒到-1.05-秒！前端性能优化实践](https://www.ershicimi.com/p/9a8a0ab50b635c8970f1503d8ceac1eb) 
 - [2021-04-13-2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152) 
 - [2021-05-01-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) 
-- [2021-04-28-Fortinet-公布全新SPU产品破除超大规模安全应用的性能挑战](https://sec.thief.one/article_content?a_id=58d9144b7bad3772b429690cc6fc1841) 

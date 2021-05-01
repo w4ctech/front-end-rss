@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-01 23:45:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 23:59:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,7 +39,6 @@
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-05-01-招聘：-Quantative-Analyst-/Data-Scientist-新加坡](https://www.v2ex.com/t/774582) 
-- [2021-05-01-chrome://inspect-现在只能在地址栏直接访问进入吗?](https://www.v2ex.com/t/774534) 
 - [2021-05-01-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 
 - [2021-05-01-App安全合规的思考:监管的重点变化梳理](https://sec.thief.one/article_content?a_id=9365d75052bdaa811fb51bd2ab94af94) 
 - [2021-05-01-第五届“蓝帽杯”首都网络安全日开赛-校企携手三方合作培养“未来网...](https://sec.thief.one/article_content?a_id=3ab4a473be984215bffc109e372cff85) 

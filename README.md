@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-01 23:45:06，:rocket: 更新条数: +4293， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-01 23:59:45，:rocket: 更新条数: +4293， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-05-01-求推荐免费-IP/域名-WHOIS-信息查询-API](https://www.v2ex.com/t/774586) ![](assets/new.png)  
+- [2021-05-01-有人给-Google-提了一个-feature-request-希望解决一直以来-Android-CJK-的字重问题](https://www.v2ex.com/t/774585) ![](assets/new.png)  
+- [2021-05-01-iconfont-挂了？](https://www.v2ex.com/t/774584) ![](assets/new.png)  
 - [2021-05-01-招聘：-Quantative-Analyst-/Data-Scientist-新加坡](https://www.v2ex.com/t/774582) ![](assets/new.png)  
 - [2021-05-01-不小心把-debian-的-sshd-给搞挂了，有没有什么补救的办法？](https://www.v2ex.com/t/774581) ![](assets/new.png)  
 - [2021-05-01-远程-实习生-Python-数据处理实习生-320-500-一天（一天-8-小时，无加班）](https://www.v2ex.com/t/774580) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-05-01-广州-诚征客户端研发、算法同学](https://www.v2ex.com/t/774567) ![](assets/new.png)  
 - [2021-05-01-初来深圳租房要注意些啥](https://www.v2ex.com/t/774566) ![](assets/new.png)  
 - [2021-05-01-怎么考/学习-AWS-认证开发者-？](https://www.v2ex.com/t/774565) ![](assets/new.png)  
-- [2021-05-01-关于云开发环境打造](https://www.v2ex.com/t/774562) ![](assets/new.png)  
-- [2021-05-01-北京和深圳，工作环境有什么异同？](https://www.v2ex.com/t/774561) ![](assets/new.png)  
-- [2021-05-01-Vmware-安装黑群晖-ds918+，正常通过菜单启动，正常上传了-pat-文件，但是提示重启-10-分钟等待后（网页+助手）也无法连接上，如何解决？](https://www.v2ex.com/t/774560) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-05-01-五一假期不想人挤人？来这里！](https://toutiao.io/k/ok4mp6n) ![](assets/new.png)  
 - [2021-05-01-记一次失败的发布过程](https://toutiao.io/k/t42ku89) ![](assets/new.png)  
 - [2021-05-01-以太坊交互工具](https://toutiao.io/k/aq1otgu) ![](assets/new.png)  
-- [2021-05-01-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-01-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-01-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-05-01-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-01-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
-- [2021-05-01-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-01-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-01-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
-- [2021-05-01-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
 - [2021-05-01-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-01-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-01-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-01-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-01-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-01-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-01-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-01-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-05-01-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-01-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

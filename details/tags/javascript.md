@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-01 08:12:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 08:40:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -83,6 +83,7 @@
 - [2021-04-09-奇舞周刊第-392-期：用-65-行代码实现-JavaScript-动画序列播放](https://www.ershicimi.com/p/013dd0533617f7cce4ff4a46483d0fb1) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2021-05-01-一个应用，需要对一条消息是否发布进行一些权限的校验（需访问数据库）和内容的检查（需正则匹配），则哪个应该先进行？](https://www.v2ex.com/t/774517) 
 - [2021-05-01-搞懂-JavaScript-类型转换](https://www.v2ex.com/t/774498) 
 - [2021-05-01-CabloyJS-终于推出了在线演示站点，欢迎拍砖](https://www.v2ex.com/t/774488) 
-- [2021-05-01-H5移动端调试全攻略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14309&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489604%26amp%3Bidx%3D2%26amp%3Bsn%3D66ef66032a4df24b50435ed7bb636db9%26amp%3Bchksm%3Dfa3cf91fcd4b70098fd32b5f9d2b570d45873a43550423c3d6cefc687110bf9f851b3b8878af%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-05-01-适配-AndroidQ，不能后台启动-Activity-限制-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14332&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FswMzgiMg6Ff0p8ySchXhrA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

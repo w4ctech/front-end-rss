@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-01 15:11:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 15:39:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -203,7 +203,6 @@
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【程序员成长指北】两天快速开发一个自己的微信小程序](https://www.ershicimi.com/p/be48cb2456686246a71188813bbc4d46)
-- [【V2EX】有没有智能添加事件到安卓系统日历-APP-的方法/APP/小程序？](https://www.v2ex.com/t/774514)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -453,6 +452,7 @@
 - [【前端日刊】面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219)
 - [【InfoQ】如何看待-70%-的程序员，缺乏数据结构和算法知识？-｜-极客时间](https://www.ershicimi.com/p/56ff22ef079187c309f07e1e3e6e0205)
 - [【JavaScript】Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29)
+- [【V2EX】广州-诚征客户端研发、算法同学](https://www.v2ex.com/t/774567)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

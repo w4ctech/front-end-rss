@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-01 14:05:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 14:11:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -451,6 +451,7 @@
 - [【全栈前端精选】前端也要懂编译：AST-从入门到上手指南](https://www.ershicimi.com/p/bf30277e82964e217b34848505cf683d)
 - [【前端日刊】五一「返现节」，0-元打造-Web-全栈架构师](https://www.ershicimi.com/p/0d70470be0cd5040a2dd747bfc2a39d1)
 - [【前端日刊】面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219)
+- [【InfoQ】如何看待-70%-的程序员，缺乏数据结构和算法知识？-｜-极客时间](https://www.ershicimi.com/p/56ff22ef079187c309f07e1e3e6e0205)
 - [【JavaScript】Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29)
 - [【V2EX】确定购买商品的总价格和数量，购买确定商品数量并且有平均价要求，有算法吗](https://www.v2ex.com/t/774510)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -491,6 +492,7 @@
 - [【前端大全】摸鱼社区炒饭前端开源，大家快来-GitHub-Star-一波呀](https://www.ershicimi.com/p/b1ea8039be31b88cdefb8054c3b46ff9)
 - [【政采云前端团队】手把手教你用-Github-Actions-部署前端项目](https://www.ershicimi.com/p/e957f530f794160169e2d79b5bceaf36)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
+- [【InfoQ】Google-和-Facebook-为什么不用-Git-管理源码？](https://www.ershicimi.com/p/5ad770d271deefba52f813bf54698c39)
 - [【JavaScript】Atom-1.56.0-发布，GitHub-官方文本编辑器](https://www.ershicimi.com/p/c35fb03a8c5fe27e9d8bfcb139d2a679)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)

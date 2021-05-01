@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-01 07:50:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 08:08:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -61,4 +61,3 @@
 - [2021-04-27-大厂2个Vue实践总结，效率提升80%！](https://www.ershicimi.com/p/ea9d643bcb4ea8db5d776662dbfec40b) 
 - [2021-04-19-前端进阶所需要了解的Vue-3源码及原理](https://www.ershicimi.com/p/0b523ed89aeaa7ad97b9581539617ac0) 
 - [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) 
-- [2021-05-01-vue-写出来的网页怎么才能漂亮点，感觉自已写的网页好丑，目前只会用对应的组件](https://www.v2ex.com/t/774464) 

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-05-01 16:33:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 17:22:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-01-有没有简单的推送-Linux-服务器登录失败日志的东西？](https://www.v2ex.com/t/774576) 
+- [2021-05-01-k8s-create-deployment.yml-error:no-matches-for-apps/,-Kind=Deployment](https://www.v2ex.com/t/774575) 
+- [2021-05-01-为什么这段书本上的-Java-死锁代码执行的时候我一直处于锁等待状态](https://www.v2ex.com/t/774573) 
 - [2021-05-01-兄弟们求推荐个笔记本电脑](https://www.v2ex.com/t/774572) 
 - [2021-05-01-我终于玩到了！](https://www.v2ex.com/t/774571) 
 - [2021-05-01-想找个前端和-Android-开发人员进行合作，感兴趣的来聊聊](https://www.v2ex.com/t/774570) 
@@ -39,5 +42,3 @@
 - [2021-05-01-怎么跟老板解释，前端、产品、ui-设计是三个不同的工种？](https://www.v2ex.com/t/774531) 
 - [2021-05-01-android-狗东会尝试获取-root-权限？](https://www.v2ex.com/t/774528) 
 - [2021-05-01-对女生提不起来感觉怎么办？](https://www.v2ex.com/t/774527) 
-- [2021-05-01-JSON-Web-Tokens-Suck---Randall-Degges-DevNet-Create-2018---YouTube](https://www.v2ex.com/t/774526) 
-- [2021-05-01-有人-Airpods-是单耳使用的吗？](https://www.v2ex.com/t/774523) 

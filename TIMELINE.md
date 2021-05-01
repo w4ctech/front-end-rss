@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-30 23:56:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-05-01 00:21:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -12,7 +12,7 @@
 <td><a href="#2021-02">02月</a></td>
 <td><a href="#2021-03">03月</a></td>
 <td><a href="#2021-04">04月</a></td>
-<td>05月</td>
+<td><a href="#2021-05">05月</a></td>
 <td>06月</td>
 <td>07月</td>
 <td>08月</td>
@@ -27,6 +27,18 @@
 ## 文章链接
 
 <details open>
+<summary id="2021-05">
+ 2021-05
+</summary>
+
+
+- [【安全热点】2021-05-01-HW-攻击思路](https://sec.thief.one/article_content?a_id=07dcdce608e384d02227bb9b50433ed9) 
+- [【安全热点】2021-05-01-分享图片](https://sec.thief.one/article_content?a_id=733b5db53c60e72ef184c82b8de77e7a) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
 <summary id="2021-04">
  2021-04
 </summary>
@@ -39,6 +51,11 @@
 - [【阮一峰的网络日志】2021-04-29-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html) 
 - [【阮一峰的网络日志】2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) 
 - [【阮一峰的网络日志】2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) 
+- [【安全热点】2021-04-30-SecWiki安全招聘第51期](https://sec.thief.one/article_content?a_id=167d5b3d882ce60bb7dfa9cd3c063b52) 
+- [【安全热点】2021-04-30-勒索软件攻击成本翻倍增长,平均达-185-万美元](https://sec.thief.one/article_content?a_id=cc0fe202171af319bf03a272912a145a) 
+- [【安全热点】2021-04-30-每日攻防资讯简报Apr.30th](https://sec.thief.one/article_content?a_id=0b089695081bfa2d2c5d1faadec09019) 
+- [【安全热点】2021-04-30-开启全面安全新纪元-360安全卫士正式启动15周年“全面安全”品牌计...](https://sec.thief.one/article_content?a_id=6425da2a150250b8b9ed44c2523bd959) 
+- [【安全热点】2021-04-30-安全圈护网毕业了,那就来斗象吧](https://sec.thief.one/article_content?a_id=a15ba546594fe095c72ca1152ba3b12d) 
 - [【安全热点】2021-04-30-五一活动-|-春眠当觉晓,稿费加成又来到](https://sec.thief.one/article_content?a_id=042fa7cb961277b894aef448e3353c77) 
 - [【安全热点】2021-04-30-DLL卸载-|-创建远程线程卸载强制注入的dll](https://sec.thief.one/article_content?a_id=ec7a3a81054945832201ec355c7f7621) 
 - [【安全热点】2021-04-30-【漏洞更新】SaltStack-Minion-命令注入漏洞,已复现](https://sec.thief.one/article_content?a_id=8c32e0548eae4af4158e2de0a254a84e) 
@@ -132,13 +149,6 @@
 - [【安全热点】2021-04-28-NBA休斯顿火箭队遭遇勒索软件攻击](https://sec.thief.one/article_content?a_id=aa206e392eb82d2efa3a2ad319fb5f6a) 
 - [【安全热点】2021-04-28-4.29首都网络安全日,安全客携好礼现场等你!](https://sec.thief.one/article_content?a_id=2d560cb844a54d08c5ab885f2997022c) 
 - [【安全热点】2021-04-28-哈哈,我把熊猫烧香病毒扒了!](https://sec.thief.one/article_content?a_id=64eae0fac4107f96e50417600012b946) 
-- [【安全热点】2021-04-28-明尼苏达大学研究团队道歉,Linux内核维护人员:拒绝](https://sec.thief.one/article_content?a_id=0ed39803fa7d9df070e9acdb4ca3db63) 
-- [【安全热点】2021-04-28-视频-|-全国首案:电信运营商拒不履行信息网络安全管理义务,董事长...](https://sec.thief.one/article_content?a_id=00d25b88e7aa2f4af83b5b6faa9cd0a0) 
-- [【安全热点】2021-04-28-中央网信办主任庄荣文:推进网络强国建设的强大思想武器和科学行动...](https://sec.thief.one/article_content?a_id=d945acfdee1c4eecb7657ac1a3dcdef4) 
-- [【安全热点】2021-04-28-国家安全部:关基运营者应采取反间谍技术安全防范措施](https://sec.thief.one/article_content?a_id=0b8c396466249a85c48d2e2c2f3f9d32) 
-- [【安全热点】2021-04-27-华盛顿警察局被勒索攻击,黑客称若不交赎金就曝光线人](https://sec.thief.one/article_content?a_id=b81744080109d2076812fffd7418b119) 
-- [【安全热点】2021-04-27-【安全圈】勒索团伙利用7zip压缩程序盯上QNAP设备,五天之内盈利...](https://sec.thief.one/article_content?a_id=be117b407f19708902aa362ed3fc403e) 
-- [【安全热点】2021-04-27-【漏洞通告】Hasura-GraphQL-1.3.3远程代码执行漏洞](https://sec.thief.one/article_content?a_id=702d9ed186dc2d0056f0992cd94814fe) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

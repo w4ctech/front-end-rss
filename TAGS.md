@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-30 23:56:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 00:21:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -225,7 +225,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/)
 - [【安全热点】视频-|-等保2.0解读:背景、变化、流程、案例、其他!](https://sec.thief.one/article_content?a_id=1c28a4f0461771bb91816681844c68da)
-- [【安全热点】视频-|-全国首案:电信运营商拒不履行信息网络安全管理义务,董事长...](https://sec.thief.one/article_content?a_id=00d25b88e7aa2f4af83b5b6faa9cd0a0)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -261,6 +260,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/)
 - [【张鑫旭-鑫空间-鑫生活】Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/)
+- [【安全热点】SecWiki安全招聘第51期](https://sec.thief.one/article_content?a_id=167d5b3d882ce60bb7dfa9cd3c063b52)
+- [【安全热点】开启全面安全新纪元-360安全卫士正式启动15周年“全面安全”品牌计...](https://sec.thief.one/article_content?a_id=6425da2a150250b8b9ed44c2523bd959)
+- [【安全热点】安全圈护网毕业了,那就来斗象吧](https://sec.thief.one/article_content?a_id=a15ba546594fe095c72ca1152ba3b12d)
 - [【安全热点】中国上市网络安全公司2020年营收、毛利、利润排行](https://sec.thief.one/article_content?a_id=8dd597a95cb298b417653f884d3b17f6)
 - [【安全热点】奇安信天眼独家中标中国移动总部网络安全项目](https://sec.thief.one/article_content?a_id=a952995b01c57623afcc54bfe66b25c5)
 - [【安全热点】智慧安全-广州首发|NSFOCUS-CLUB-2021创新安全全国巡讲火爆来袭](https://sec.thief.one/article_content?a_id=c7536dfeb9d310cfb920d4224714194e)
@@ -276,9 +278,6 @@
 - [【安全热点】一文读懂-|-2021年“4.29首都网络安全日”活动日程安排](https://sec.thief.one/article_content?a_id=19bcf3ac3beb7043cb65b94629ed4496)
 - [【安全热点】安全日报2021.04.29](https://sec.thief.one/article_content?a_id=3d5bbc8b914c8752e9b57041dc5b3466)
 - [【安全热点】广西密码学与信息安全重点实验室2020-2021年研究课题](https://sec.thief.one/article_content?a_id=69058f3ffc44700dd2d22a748a7f00b0)
-- [【安全热点】2021年的6种网络安全趋势](https://sec.thief.one/article_content?a_id=d89f76eb5ee33156b790b018cc5c9d8c)
-- [【安全热点】兑现北京冬奥赞助承诺-奇安信安全防护软件冬奥版发布](https://sec.thief.one/article_content?a_id=15fe8f36c420bb3886cf71bce3d97798)
-- [【安全热点】【安全圈】月入过万不是梦!江苏艾盾在线招聘,五险一金,朝九晚六!](https://sec.thief.one/article_content?a_id=ec8b86bee3e7c217ad50a35ebf6f6ae5)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -311,7 +310,6 @@
 
 
 
-- [【安全热点】【漏洞通告】Hasura-GraphQL-1.3.3远程代码执行漏洞](https://sec.thief.one/article_content?a_id=702d9ed186dc2d0056f0992cd94814fe)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -397,6 +395,10 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html)
+- [【安全热点】HW-攻击思路](https://sec.thief.one/article_content?a_id=07dcdce608e384d02227bb9b50433ed9)
+- [【安全热点】分享图片](https://sec.thief.one/article_content?a_id=733b5db53c60e72ef184c82b8de77e7a)
+- [【安全热点】勒索软件攻击成本翻倍增长,平均达-185-万美元](https://sec.thief.one/article_content?a_id=cc0fe202171af319bf03a272912a145a)
+- [【安全热点】每日攻防资讯简报Apr.30th](https://sec.thief.one/article_content?a_id=0b089695081bfa2d2c5d1faadec09019)
 - [【安全热点】五一活动-|-春眠当觉晓,稿费加成又来到](https://sec.thief.one/article_content?a_id=042fa7cb961277b894aef448e3353c77)
 - [【安全热点】DLL卸载-|-创建远程线程卸载强制注入的dll](https://sec.thief.one/article_content?a_id=ec7a3a81054945832201ec355c7f7621)
 - [【安全热点】【漏洞更新】SaltStack-Minion-命令注入漏洞,已复现](https://sec.thief.one/article_content?a_id=8c32e0548eae4af4158e2de0a254a84e)
@@ -408,10 +410,6 @@
 - [【安全热点】LPT真不是拉皮条,认真干事情的好吗](https://sec.thief.one/article_content?a_id=cd2deb492d5c1572889571b9ed3345e0)
 - [【安全热点】利用-Python-深度学习识别滑动验证码缺口](https://sec.thief.one/article_content?a_id=7ecf87802dbef39c3c03ffa42419243f)
 - [【安全热点】远程线程注入Dll,突破Session-0](https://sec.thief.one/article_content?a_id=6268d0af8c169bd552f908a929563113)
-- [【安全热点】在支付赎金的企业中,只有8%的企业拿回了所有的数据](https://sec.thief.one/article_content?a_id=7186a8fe0fc3e847b23ea126c72a20e2)
-- [【安全热点】每周高级威胁情报解读2021.04.22~04.29](https://sec.thief.one/article_content?a_id=5b6a7a7033fda29689ae40ba1515aa56)
-- [【安全热点】媒体融合与传播国家重点实验室2021年开放课题](https://sec.thief.one/article_content?a_id=38c8a56cc2b299f219696f3390521801)
-- [【安全热点】美国军方手里还有“互联网的另一半”?](https://sec.thief.one/article_content?a_id=1b12699b5a2685f1423b8b851dea399c)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

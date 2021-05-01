@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-30 23:56:15，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-01 00:21:59，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -507,6 +507,13 @@
 </summary>
 
 
+- [2021-05-01-HW-攻击思路](https://sec.thief.one/article_content?a_id=07dcdce608e384d02227bb9b50433ed9) ![](assets/new.png)  
+- [2021-05-01-分享图片](https://sec.thief.one/article_content?a_id=733b5db53c60e72ef184c82b8de77e7a) ![](assets/new.png)  
+- [2021-04-30-SecWiki安全招聘第51期](https://sec.thief.one/article_content?a_id=167d5b3d882ce60bb7dfa9cd3c063b52) ![](assets/new.png)  
+- [2021-04-30-勒索软件攻击成本翻倍增长,平均达-185-万美元](https://sec.thief.one/article_content?a_id=cc0fe202171af319bf03a272912a145a) ![](assets/new.png)  
+- [2021-04-30-每日攻防资讯简报Apr.30th](https://sec.thief.one/article_content?a_id=0b089695081bfa2d2c5d1faadec09019) ![](assets/new.png)  
+- [2021-04-30-开启全面安全新纪元-360安全卫士正式启动15周年“全面安全”品牌计...](https://sec.thief.one/article_content?a_id=6425da2a150250b8b9ed44c2523bd959) ![](assets/new.png)  
+- [2021-04-30-安全圈护网毕业了,那就来斗象吧](https://sec.thief.one/article_content?a_id=a15ba546594fe095c72ca1152ba3b12d) ![](assets/new.png)  
 - [2021-04-30-五一活动-|-春眠当觉晓,稿费加成又来到](https://sec.thief.one/article_content?a_id=042fa7cb961277b894aef448e3353c77) ![](assets/new.png)  
 - [2021-04-30-DLL卸载-|-创建远程线程卸载强制注入的dll](https://sec.thief.one/article_content?a_id=ec7a3a81054945832201ec355c7f7621) ![](assets/new.png)  
 - [2021-04-30-【漏洞更新】SaltStack-Minion-命令注入漏洞,已复现](https://sec.thief.one/article_content?a_id=8c32e0548eae4af4158e2de0a254a84e) ![](assets/new.png)  
@@ -520,13 +527,6 @@
 - [2021-04-30-加勒比岛居民可以利用比特币进行当地交易](https://sec.thief.one/article_content?a_id=4eb3389fe9a8056bbed6d37b2c0cd7e9) ![](assets/new.png)  
 - [2021-04-30-完美收官-|-首届国产优秀网络安全工具主题展圆满落幕](https://sec.thief.one/article_content?a_id=a44ac0f27c8bc33fb3dde43adbde19d0) ![](assets/new.png)  
 - [2021-04-30-勒索凶猛!英国铁路公司CEO邮箱被劫持发布勒索通知](https://sec.thief.one/article_content?a_id=dcfeab2596db65f9e76f2397c29567e7) ![](assets/new.png)  
-- [2021-04-30-安全日报2021.04.30](https://sec.thief.one/article_content?a_id=17283c01078c81d6742c7194d507236b) ![](assets/new.png)  
-- [2021-04-30-LPT真不是拉皮条,认真干事情的好吗](https://sec.thief.one/article_content?a_id=cd2deb492d5c1572889571b9ed3345e0) ![](assets/new.png)  
-- [2021-04-30-利用-Python-深度学习识别滑动验证码缺口](https://sec.thief.one/article_content?a_id=7ecf87802dbef39c3c03ffa42419243f) ![](assets/new.png)  
-- [2021-04-30-MacOS内核安全性检测](https://sec.thief.one/article_content?a_id=f585fe2901efd76d3d23899b5654dca7) ![](assets/new.png)  
-- [2021-04-30-远程线程注入Dll,突破Session-0](https://sec.thief.one/article_content?a_id=6268d0af8c169bd552f908a929563113) ![](assets/new.png)  
-- [2021-04-30-在支付赎金的企业中,只有8%的企业拿回了所有的数据](https://sec.thief.one/article_content?a_id=7186a8fe0fc3e847b23ea126c72a20e2) ![](assets/new.png)  
-- [2021-04-30-每周高级威胁情报解读2021.04.22~04.29](https://sec.thief.one/article_content?a_id=5b6a7a7033fda29689ae40ba1515aa56) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

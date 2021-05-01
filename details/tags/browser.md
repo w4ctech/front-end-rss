@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-30 23:56:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 00:21:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -9,6 +9,9 @@
 
 - [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2021-04-30-SecWiki安全招聘第51期](https://sec.thief.one/article_content?a_id=167d5b3d882ce60bb7dfa9cd3c063b52) 
+- [2021-04-30-开启全面安全新纪元-360安全卫士正式启动15周年“全面安全”品牌计...](https://sec.thief.one/article_content?a_id=6425da2a150250b8b9ed44c2523bd959) 
+- [2021-04-30-安全圈护网毕业了,那就来斗象吧](https://sec.thief.one/article_content?a_id=a15ba546594fe095c72ca1152ba3b12d) 
 - [2021-04-30-中国上市网络安全公司2020年营收、毛利、利润排行](https://sec.thief.one/article_content?a_id=8dd597a95cb298b417653f884d3b17f6) 
 - [2021-04-30-奇安信天眼独家中标中国移动总部网络安全项目](https://sec.thief.one/article_content?a_id=a952995b01c57623afcc54bfe66b25c5) 
 - [2021-04-30-智慧安全-广州首发|NSFOCUS-CLUB-2021创新安全全国巡讲火爆来袭](https://sec.thief.one/article_content?a_id=c7536dfeb9d310cfb920d4224714194e) 
@@ -31,5 +34,3 @@
 - [2021-04-28-安全日报2021.04.28](https://sec.thief.one/article_content?a_id=8ef22401909b280c023bd0357882952e) 
 - [2021-04-28-每日安全动态推送04-28](https://sec.thief.one/article_content?a_id=1380b1f4b6a3a2da5bc6fdc6ba31371a) 
 - [2021-04-28-4.29首都网络安全日,安全客携好礼现场等你!](https://sec.thief.one/article_content?a_id=2d560cb844a54d08c5ab885f2997022c) 
-- [2021-04-28-国家安全部:关基运营者应采取反间谍技术安全防范措施](https://sec.thief.one/article_content?a_id=0b8c396466249a85c48d2e2c2f3f9d32) 
-- [2021-04-27-【安全圈】勒索团伙利用7zip压缩程序盯上QNAP设备,五天之内盈利...](https://sec.thief.one/article_content?a_id=be117b407f19708902aa362ed3fc403e) 

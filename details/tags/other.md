@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-30 23:56:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 00:21:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -10,6 +10,10 @@
 - [2021-04-29-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html) 
 - [2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) 
 - [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) 
+- [2021-05-01-HW-攻击思路](https://sec.thief.one/article_content?a_id=07dcdce608e384d02227bb9b50433ed9) 
+- [2021-05-01-分享图片](https://sec.thief.one/article_content?a_id=733b5db53c60e72ef184c82b8de77e7a) 
+- [2021-04-30-勒索软件攻击成本翻倍增长,平均达-185-万美元](https://sec.thief.one/article_content?a_id=cc0fe202171af319bf03a272912a145a) 
+- [2021-04-30-每日攻防资讯简报Apr.30th](https://sec.thief.one/article_content?a_id=0b089695081bfa2d2c5d1faadec09019) 
 - [2021-04-30-五一活动-|-春眠当觉晓,稿费加成又来到](https://sec.thief.one/article_content?a_id=042fa7cb961277b894aef448e3353c77) 
 - [2021-04-30-DLL卸载-|-创建远程线程卸载强制注入的dll](https://sec.thief.one/article_content?a_id=ec7a3a81054945832201ec355c7f7621) 
 - [2021-04-30-【漏洞更新】SaltStack-Minion-命令注入漏洞,已复现](https://sec.thief.one/article_content?a_id=8c32e0548eae4af4158e2de0a254a84e) 
@@ -74,6 +78,3 @@
 - [2021-04-28-违规收集个人信息:广州农商行、微众银行、南粤银行App遭通报](https://sec.thief.one/article_content?a_id=4007dd0bc6d4a07e135221fa7a7e13b8) 
 - [2021-04-28-NBA休斯顿火箭队遭遇勒索软件攻击](https://sec.thief.one/article_content?a_id=aa206e392eb82d2efa3a2ad319fb5f6a) 
 - [2021-04-28-哈哈,我把熊猫烧香病毒扒了!](https://sec.thief.one/article_content?a_id=64eae0fac4107f96e50417600012b946) 
-- [2021-04-28-明尼苏达大学研究团队道歉,Linux内核维护人员:拒绝](https://sec.thief.one/article_content?a_id=0ed39803fa7d9df070e9acdb4ca3db63) 
-- [2021-04-28-中央网信办主任庄荣文:推进网络强国建设的强大思想武器和科学行动...](https://sec.thief.one/article_content?a_id=d945acfdee1c4eecb7657ac1a3dcdef4) 
-- [2021-04-27-华盛顿警察局被勒索攻击,黑客称若不交赎金就曝光线人](https://sec.thief.one/article_content?a_id=b81744080109d2076812fffd7418b119) 

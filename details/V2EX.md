@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-01 13:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 13:18:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2021-05-01-Wine6-下安装-SQL-Server2016，使用-winetricks-安装不了](https://www.v2ex.com/t/774499) 
 - [2021-05-01-搞懂-JavaScript-类型转换](https://www.v2ex.com/t/774498) 
 - [2021-05-01-大家有没有不怎么苦的精酿啤酒推荐？](https://www.v2ex.com/t/774496) 
-- [2021-05-01-炒菜野路子——火锅底料](https://www.v2ex.com/t/774494) 

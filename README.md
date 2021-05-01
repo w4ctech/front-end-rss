@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-01 13:00:23，:rocket: 更新条数: +4251， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-01 13:18:01，:rocket: 更新条数: +712， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-05-01-最新疫情：全国新冠累计确诊90671例-累计接种新冠疫苗超2.65亿剂次](https://m.caixin.com/m/2021-05-01/101705003.html) ![](assets/new.png)  
-- [2021-05-01-美国对印度发布旅行禁令-5月4日起限制人员从印度入境](http://m.international.caixin.com/m/2021-05-01/101704855.html) ![](assets/new.png)  
-- [2021-05-01-最新海外疫情：新冠感染超1.51亿-累计死亡超317万](https://m.caixin.com/m/2021-05-01/101705006.html) ![](assets/new.png)  
-- [2021-05-01-【境内疫情观察】全国新增16例境外输入病例（4月30日）](http://m.database.caixin.com/m/2021-05-01/101704949.html) ![](assets/new.png)  
-- [2021-05-01-东京奥运会拟闭门比赛-法国5月19日起逐步解封｜大流行手记（4月30日）](https://m.caixin.com/m/2021-05-01/101704798.html) ![](assets/new.png)  
-- [2021-04-30-中国报告多个印度输入新冠病例-双突变病毒影响待观察](https://m.caixin.com/m/2021-04-30/101704332.html) ![](assets/new.png)  
-- [2021-04-30-双重变种病毒流入香港社区-确诊菲佣感染10个月女婴](https://m.caixin.com/m/2021-04-30/101704317.html) ![](assets/new.png)  
-- [2021-04-30-双重变种病毒突现社区-港府紧急宣布37万外佣强制检测](https://m.caixin.com/m/2021-04-30/101704731.html) ![](assets/new.png)  
-- [2021-04-30-【境内疫情观察】全国疫情高风险区域清零（4月29日）](http://m.database.caixin.com/m/2021-04-30/101704361.html) ![](assets/new.png)  
-- [2021-04-30-美国筹备新冠疫苗加强针-巴西孕产期女性纳入优先接种｜大流行手记（4月29日）](https://m.caixin.com/m/2021-04-30/101704102.html) ![](assets/new.png)  
-- [2021-04-29-BioNTech创始人称其mRNA新冠疫苗或将于7月前在中国获批](https://m.caixin.com/m/2021-04-29/101701767.html) ![](assets/new.png)  
-- [2021-04-29-【境内疫情观察】浙江新增11例境外输入病例（4月28日）](http://m.database.caixin.com/m/2021-04-29/101701966.html) ![](assets/new.png)  
-- [2021-04-29-英国拟推新冠疫苗护照-至少17国发现印度变种病毒｜大流行手记（4月28日）](https://m.caixin.com/m/2021-04-29/101701781.html) ![](assets/new.png)  
-- [2021-04-28-【境内疫情观察】全国新增12例境外输入病例（4月27日）](http://m.database.caixin.com/m/2021-04-28/101700973.html) ![](assets/new.png)  
-- [2021-04-28-中国800台制氧机运抵印度德里-泰国疫情升级多地宵禁｜大流行手记（4月27日）](https://m.caixin.com/m/2021-04-28/101700780.html) ![](assets/new.png)  
-- [2021-04-27-港府出新招-接种首剂疫苗即可唱K逛夜店](https://m.caixin.com/m/2021-04-27/101700607.html) ![](assets/new.png)  
-- [2021-04-27-【境内疫情观察】全国新增11例境外输入病例（4月26日）](http://m.database.caixin.com/m/2021-04-27/101700409.html) ![](assets/new.png)  
-- [2021-04-27-希腊再放开七国旅客免隔离入境-美将输出所囤阿斯利康疫苗｜大流行手记（4月26日）](https://m.caixin.com/m/2021-04-27/101700275.html) ![](assets/new.png)  
-- [2021-04-26-【境内疫情观察】全国新增11例境外输入病例（4月25日）](http://m.database.caixin.com/m/2021-04-26/101699193.html) ![](assets/new.png)  
-- [2021-04-26-多国表态援助印度抗疫-以色列调查辉瑞疫苗与心肌炎关联｜大流行手记（4月25日）](https://m.caixin.com/m/2021-04-26/101699041.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1027,6 +1007,26 @@
 </summary>
 
 
+- [2021-05-01-谷歌最强的-Android-UI-工具包霸榜-GitHub，这份上手指南了解一下？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14335&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBxF5Hfdp4GUFlRkeCxwdmg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-谷歌宣布-Android-加入对-Rust-的支持-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14334&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDb2NrYKhp0yF9Gonpd7xtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-产品需求：Android-截屏分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14333&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9iVTGaU9xJwlig6DV-mcpA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-适配-AndroidQ，不能后台启动-Activity-限制-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14332&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FswMzgiMg6Ff0p8ySchXhrA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-Windows10全新界面来了：焕然一新！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14331&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489742%26amp%3Bidx%3D2%26amp%3Bsn%3D24dec1cf4bae450674ec12147128f7fe%26amp%3Bchksm%3Dfa3cf995cd4b7083030ce77726a2e30ed872cf034d390960dc76679f9ab712f0e2ebe5f741cb%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-微信第1行代码曝光！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14330&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489732%26amp%3Bidx%3D1%26amp%3Bsn%3Df1ab4e1f528352333639a1e1c267ec7f%26amp%3Bchksm%3Dfa3cf99fcd4b7089af072a9f4708bd617b1792359a87b1e3d69f12efb9a76eadc6f660400d1f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-如何快速提升FlutterApp中的动画性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14329&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489732%26amp%3Bidx%3D2%26amp%3Bsn%3Dfc5eccb9be3c542a7bdda300db3a4cd9%26amp%3Bchksm%3Dfa3cf99fcd4b70893220e486c5c5887bf285d729f77ba1da53079824cdf8eb496df9e48442a3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-一晚上，搞出来一个微信订阅号鉴黄机器人-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14328&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489689%26amp%3Bidx%3D1%26amp%3Bsn%3Dec79ba9fce020e3b86ecbf1c9db47a9d%26amp%3Bchksm%3Dfa3cf9c2cd4b70d4e81a33f6cf117543c9bc9ea11c824928abde63aadd37cff661095772433e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-你们猜猜，哪个省的女生最爱丰胸？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14327&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489641%26amp%3Bidx%3D1%26amp%3Bsn%3Db486e38c0e2960c38648a68442217e9b%26amp%3Bchksm%3Dfa3cf932cd4b7024aba03d96ad0dd92741220a3d0922d05378de11897921a212acbfcbfb593e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-专注力对程序员来说意味着什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14326&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489641%26amp%3Bidx%3D2%26amp%3Bsn%3Daf86e71c798f1c66dadc0cdfb851849b%26amp%3Bchksm%3Dfa3cf932cd4b7024bd857cb1138c7ea02780564ab4fbc384a3e7ecac780e5b7d41a2de193e8c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-你已经用上-5G-网络了吗？-www.upyun.com](https://blogread.cn/news/go.php?idItem=14325&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F632%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-关于「教育」问题，一段「有趣」的对话-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14324&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F34%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-优质网站同好者周刊（第-10-期）--倾城之链-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14323&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F35-10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-2021-快应用「广告」接入教程-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14322&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F37-2021%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-广告投放中，常见合作模式梳理-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14321&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F38%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-震惊，高中少年与-CDN-的不解之缘-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14320&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F366233498%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-告别DNS劫持，一文读懂DoH-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14319&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F365093156%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-快速构建Ceph集群-sunqi.me](https://blogread.cn/news/go.php?idItem=14318&url=http%3A%2F%2Fsunqi.me%2F2020%2F09%2F12%2F%25E5%25BF%25AB%25E9%2580%259F%25E6%259E%2584%25E5%25BB%25BACeph%25E9%259B%2586%25E7%25BE%25A4%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-Git新命令switch和restore-yanhaijing.com](https://blogread.cn/news/go.php?idItem=14317&url=http%3A%2F%2Fyanhaijing.com%2Fgit%2F2020%2F09%2F17%2Fgit-switch-and-restore%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-01-前端架构演进---从单体到微前端（理论篇）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14316&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FeNC69rNqSR8XtXDmw66bVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,17 +1047,17 @@
 - [2021-05-01-零故障上云全过程再现，PB-级数据迁移如何保障一致性？](https://toutiao.io/k/acm9zuw) ![](assets/new.png)  
 - [2021-05-01-记一次失败的发布过程](https://toutiao.io/k/t42ku89) ![](assets/new.png)  
 - [2021-05-01-以太坊交互工具](https://toutiao.io/k/aq1otgu) ![](assets/new.png)  
-- [2021-05-01-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-05-01-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
 - [2021-05-01-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-01-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-01-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-01-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-01-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
-- [2021-05-01-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-01-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [2021-05-01-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [2021-05-01-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-01-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-01-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-01-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-01-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
 - [2021-05-01-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-01-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-01-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

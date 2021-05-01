@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-05-01 13:49:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 13:54:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-01-带-AF-图标（支持高级格式化）的机械硬盘，格式化成-ext4-用不用指定扇区大小为-4096？](https://www.v2ex.com/t/774553) 
+- [2021-05-01-一个类似于`sqlx`的简单-sql-扩展](https://www.v2ex.com/t/774552) 
 - [2021-05-01-产品功能被像素级抄袭了，能有什么办法？](https://www.v2ex.com/t/774550) 
 - [2021-05-01-求推荐-5000-左右值得一买的轻薄本](https://www.v2ex.com/t/774549) 
 - [2021-05-01-Airtag-放车里不好用](https://www.v2ex.com/t/774545) 
@@ -37,6 +39,3 @@
 - [2021-05-01-apple-watch-带口罩解锁-iPhone-貌似不工作？](https://www.v2ex.com/t/774507) 
 - [2021-05-01-有时候-AirPods-在-mac-上面切换不动怎么办](https://www.v2ex.com/t/774506) 
 - [2021-05-01-主板上的-sata-口带宽都是共享的吗](https://www.v2ex.com/t/774505) 
-- [2021-05-01-迫于音箱坏了，有什么电脑用蓝牙音箱推荐吗？](https://www.v2ex.com/t/774503) 
-- [2021-05-01-go-web-之如何添加-trace-id](https://www.v2ex.com/t/774502) 
-- [2021-05-01-我有授权给苹果用我的蓝牙帮别人找-AirTag-吗](https://www.v2ex.com/t/774501) 

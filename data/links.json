@@ -20615,6 +20615,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "带 AF 图标（支持高级格式化）的机械硬盘，格式化成 ext4 用不用指定扇区大小为 4096？",
+        "link": "https://www.v2ex.com/t/774553",
+        "date": "2021-05-01"
+      },
+      {
+        "title": "一个类似于`sqlx`的简单 sql 扩展",
+        "link": "https://www.v2ex.com/t/774552",
+        "date": "2021-05-01"
+      },
+      {
         "title": "产品功能被像素级抄袭了，能有什么办法？",
         "link": "https://www.v2ex.com/t/774550",
         "date": "2021-05-01"
@@ -20773,21 +20783,6 @@
         "title": "主板上的 sata 口带宽都是共享的吗",
         "link": "https://www.v2ex.com/t/774505",
         "date": "2021-05-01"
-      },
-      {
-        "title": "迫于音箱坏了，有什么电脑用蓝牙音箱推荐吗？",
-        "link": "https://www.v2ex.com/t/774503",
-        "date": "2021-05-01"
-      },
-      {
-        "title": "go web 之如何添加 trace id",
-        "link": "https://www.v2ex.com/t/774502",
-        "date": "2021-05-01"
-      },
-      {
-        "title": "我有授权给苹果用我的蓝牙帮别人找 AirTag 吗",
-        "link": "https://www.v2ex.com/t/774501",
-        "date": "2021-05-01"
       }
     ]
   },
@@ -20939,6 +20934,11 @@
         "date": "2021-05-01"
       },
       {
+        "title": "五一假期不想人挤人？来这里！",
+        "link": "https://toutiao.io/k/ok4mp6n",
+        "date": "2021-05-01"
+      },
+      {
         "title": "记一次失败的发布过程",
         "link": "https://toutiao.io/k/t42ku89",
         "date": "2021-05-01"
@@ -20946,36 +20946,6 @@
       {
         "title": "以太坊交互工具",
         "link": "https://toutiao.io/k/aq1otgu",
-        "date": "2021-05-01"
-      },
-      {
-        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
-        "link": "https://toutiao.io/k/08uadl6",
-        "date": "2021-05-01"
-      },
-      {
-        "title": "[推荐] 协程切换会引起什么问题",
-        "link": "https://toutiao.io/k/xkhaihd",
-        "date": "2021-05-01"
-      },
-      {
-        "title": "[推荐] 为什么放弃 Kafka，选择 Pulsar?",
-        "link": "https://toutiao.io/k/wxrneux",
-        "date": "2021-05-01"
-      },
-      {
-        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
-        "link": "https://toutiao.io/k/0iue4f4",
-        "date": "2021-05-01"
-      },
-      {
-        "title": "[推荐] 用户画像的基础、原理、方法论（模型）和应用",
-        "link": "https://toutiao.io/k/nrdp4oq",
-        "date": "2021-05-01"
-      },
-      {
-        "title": "[推荐] 如何设计一个高性能的秒杀系统",
-        "link": "https://toutiao.io/k/6z3uu2m",
         "date": "2021-05-01"
       },
       {
@@ -20989,6 +20959,31 @@
         "date": "2021-05-01"
       },
       {
+        "title": "[推荐] OpenResty 实现限流",
+        "link": "https://toutiao.io/k/syxnrph",
+        "date": "2021-05-01"
+      },
+      {
+        "title": "[推荐] 用户画像的基础、原理、方法论（模型）和应用",
+        "link": "https://toutiao.io/k/nrdp4oq",
+        "date": "2021-05-01"
+      },
+      {
+        "title": "[推荐] 如何设计一个高性能的秒杀系统",
+        "link": "https://toutiao.io/k/6z3uu2m",
+        "date": "2021-05-01"
+      },
+      {
+        "title": "[推荐] 协程切换会引起什么问题",
+        "link": "https://toutiao.io/k/xkhaihd",
+        "date": "2021-05-01"
+      },
+      {
+        "title": "[推荐] 一文搞懂分布式锁的原理与实现",
+        "link": "https://toutiao.io/k/j7fdh6h",
+        "date": "2021-05-01"
+      },
+      {
         "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
         "link": "https://toutiao.io/k/90vs9kg",
         "date": "2021-05-01"
@@ -20999,13 +20994,18 @@
         "date": "2021-05-01"
       },
       {
-        "title": "[推荐] 一文搞懂分布式锁的原理与实现",
-        "link": "https://toutiao.io/k/j7fdh6h",
+        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
+        "link": "https://toutiao.io/k/08uadl6",
         "date": "2021-05-01"
       },
       {
-        "title": "[推荐] OpenResty 实现限流",
-        "link": "https://toutiao.io/k/syxnrph",
+        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
+        "link": "https://toutiao.io/k/0iue4f4",
+        "date": "2021-05-01"
+      },
+      {
+        "title": "[推荐] 为什么放弃 Kafka，选择 Pulsar?",
+        "link": "https://toutiao.io/k/wxrneux",
         "date": "2021-05-01"
       }
     ]

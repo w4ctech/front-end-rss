@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-01 09:09:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 09:36:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -87,5 +87,4 @@
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-04-23-为什么很多人认为视频替代文字阅读是一件可怕的事？](https://www.ershicimi.com/p/491e721db9cc983917d83d723a742e3a) 
-- [2021-04-20-有奖｜发视频晒家，得现金奖励和流量扶持](https://www.ershicimi.com/p/0d96d7ffe5d55eac9fb8725043e80259) 
 - [2021-04-30-视频-|-等保2.0解读:背景、变化、流程、案例、其他!](https://sec.thief.one/article_content?a_id=1c28a4f0461771bb91816681844c68da) 

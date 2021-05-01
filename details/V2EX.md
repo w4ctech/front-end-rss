@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-05-01 09:09:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 09:36:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-01-有人-Airpods-是单耳使用的吗？](https://www.v2ex.com/t/774523) 
+- [2021-05-01-kindle-电子书-“超级镇馆之宝”（满-100-返-20-元券）（仅限-5-月-1-号）](https://www.v2ex.com/t/774522) 
 - [2021-05-01-IntelliJ-IDEA-能使用-Rider-的功能吗？](https://www.v2ex.com/t/774521) 
 - [2021-05-01-仰慕贵论坛风格已久，-是用的什么程序，阿里云的虚拟主机能用吗？](https://www.v2ex.com/t/774519) 
 - [2021-05-01-三分之一的-Basecamp-员工今天选择拿钱走人了](https://www.v2ex.com/t/774518) 
@@ -37,5 +39,3 @@
 - [2021-05-01-Apple-Watch-开启解锁-iPhone-后就不能解锁-Mac-了？](https://www.v2ex.com/t/774478) 
 - [2021-05-01-请教一个-Ubuntu-apt-source-里-pkg-版本的问题](https://www.v2ex.com/t/774476) 
 - [2021-05-01-快速搭建-RSSHUB](https://www.v2ex.com/t/774475) 
-- [2021-05-01-腾讯云轻量套餐可能有调整](https://www.v2ex.com/t/774473) 
-- [2021-05-01-使用-ps-绘图，什么显卡比较好](https://www.v2ex.com/t/774472) 

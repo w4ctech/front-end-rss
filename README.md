@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-01 09:09:46，:rocket: 更新条数: +4288， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-01 09:36:43，:rocket: 更新条数: +4288， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -985,6 +985,17 @@
 </summary>
 
 
+- [2021-04-30-知乎瞎扯-|-把《圣经》放在-Kindle-里面，可以给牧师用来驱魔吗？](https://www.ershicimi.com/p/62ccac3910b4772bc5be458c2c7c6761) ![](assets/new.png)  
+- [2021-04-30-知乎故事-|-男朋友真的喜欢女朋友撒娇卖萌打诨吗？](https://www.ershicimi.com/p/d536a8b565c28927cae113bcd9069889) ![](assets/new.png)  
+- [2021-04-30-为什么读书的人很好看？这是我见过最好的答案](https://www.ershicimi.com/p/9e6dfb54ac4713249f032211fcfefb58) ![](assets/new.png)  
+- [2021-04-29-中国首个空间站正式开工！](https://www.ershicimi.com/p/b4e05988ed903760b493dcada3f4ee1c) ![](assets/new.png)  
+- [2021-04-29-知乎故事-|-假如你是一名永生者，怎样才能不暴露身份？](https://www.ershicimi.com/p/9a608a6ab0dffe4fc00d5bc9052c961a) ![](assets/new.png)  
+- [2021-04-28-古代的裙裳都几乎拖着地面了，是不是得经常洗？](https://www.ershicimi.com/p/e8c7e054fe902c106140cdc74a7e489e) ![](assets/new.png)  
+- [2021-04-28-五一出游如何避免「人山人海」？](https://www.ershicimi.com/p/764d70f23d802b3ac04a701fb679c463) ![](assets/new.png)  
+- [2021-04-28-知乎故事-|-坐电影院最后一排是什么心态？](https://www.ershicimi.com/p/8b1bbeeab6b8294bb94c7334bb43c395) ![](assets/new.png)  
+- [2021-04-27-张恒放出多份聊天记录，曝光郑爽日赚-208-万，偷税漏税，遗弃生病小狗等细节](https://www.ershicimi.com/p/421fe018fa77caa7cf0a78b7088b8380) ![](assets/new.png)  
+- [2021-04-27-知乎健康「了不起的答案-|-健康问答挑战」活动来啦！](https://www.ershicimi.com/p/a2740c9c06bb56dd9090640ada89164b) ![](assets/new.png)  
+- [2021-04-27-知乎故事-|-吃早饭时，爸爸告诉我家里有-300-亿……](https://www.ershicimi.com/p/52c74a0ffdb892f60c7d0fb4c596b932) ![](assets/new.png)  
 - [2021-04-26-假如尿液的腐蚀性像硫酸一样强，我们在尿尿时应该要注意点什么？](https://www.ershicimi.com/p/b713a68490e522779e9d77c0498242da) ![](assets/new.png)  
 - [2021-04-26-经常看书的人和不看书的人，为什么一眼就能看出区别？](https://www.ershicimi.com/p/30f42c536be54ab3c88f097c752bf304) ![](assets/new.png)  
 - [2021-04-26-知乎故事-|-把学生的作业本染上辣条该如何补救?](https://www.ershicimi.com/p/05dbefc330096fbd6868107e5c6cc651) ![](assets/new.png)  
@@ -994,17 +1005,6 @@
 - [2021-04-23-知乎瞎扯-|-女生愿意给男生买礼物花钱是为什么?](https://www.ershicimi.com/p/59e66af1ebfd67be17066f2f17e0e7c9) ![](assets/new.png)  
 - [2021-04-23-为什么很多人认为视频替代文字阅读是一件可怕的事？](https://www.ershicimi.com/p/491e721db9cc983917d83d723a742e3a) ![](assets/new.png)  
 - [2021-04-23-知乎故事-|-室友都是卷王是什么感受？](https://www.ershicimi.com/p/14664a7b5784faea91024a3724952b2e) ![](assets/new.png)  
-- [2021-04-22-你从失败的恋爱关系中得到了哪些经验教训？](https://www.ershicimi.com/p/003a7678af7af7a8bff84235443d637e) ![](assets/new.png)  
-- [2021-04-22-4-月知乎亲子与你一起遇「荐」童书，赢现金红包](https://www.ershicimi.com/p/7aa66b20d029867ea84e57e3fd5d0114) ![](assets/new.png)  
-- [2021-04-22-知乎故事-|-宠物知道你是在照顾它吗？](https://www.ershicimi.com/p/3de0aa3d677e4bd319f77cbd52f837a3) ![](assets/new.png)  
-- [2021-04-21-苹果今年第一场特别活动：带来了全新-AirTag、iMac-和-iPad-Pro](https://www.ershicimi.com/p/902af96de0de9af37d4f7bf38430da43) ![](assets/new.png)  
-- [2021-04-21-有哪些你遇到人就想安利的好书？](https://www.ershicimi.com/p/d76dba57306a9bb780e5cde6fb544418) ![](assets/new.png)  
-- [2021-04-21-知乎故事-|-用-20-年，从穷苦家庭走入中科院](https://www.ershicimi.com/p/82c822c87538753485716319e10c2495) ![](assets/new.png)  
-- [2021-04-20-有哪些令人叫绝的心理学效应？](https://www.ershicimi.com/p/0dba01de6582660b015cbc7d3b27def1) ![](assets/new.png)  
-- [2021-04-20-有奖｜发视频晒家，得现金奖励和流量扶持](https://www.ershicimi.com/p/0d96d7ffe5d55eac9fb8725043e80259) ![](assets/new.png)  
-- [2021-04-20-知乎故事-|-如何试探男朋友的家底？](https://www.ershicimi.com/p/a7a24da2777dcd1800dec8a71b402ce2) ![](assets/new.png)  
-- [2021-04-19-知乎高赞：有哪些一个镜头就能体现演员会演戏的例子？](https://www.ershicimi.com/p/7af7ce73a13ca3223782d3a9cb5becd0) ![](assets/new.png)  
-- [2021-04-19-知乎故事-|-如何试探女朋友的家底？](https://www.ershicimi.com/p/925c7a110dd6832d95f1841d769cc4ef) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-05-01-有人-Airpods-是单耳使用的吗？](https://www.v2ex.com/t/774523) ![](assets/new.png)  
+- [2021-05-01-kindle-电子书-“超级镇馆之宝”（满-100-返-20-元券）（仅限-5-月-1-号）](https://www.v2ex.com/t/774522) ![](assets/new.png)  
 - [2021-05-01-IntelliJ-IDEA-能使用-Rider-的功能吗？](https://www.v2ex.com/t/774521) ![](assets/new.png)  
 - [2021-05-01-仰慕贵论坛风格已久，-是用的什么程序，阿里云的虚拟主机能用吗？](https://www.v2ex.com/t/774519) ![](assets/new.png)  
 - [2021-05-01-三分之一的-Basecamp-员工今天选择拿钱走人了](https://www.v2ex.com/t/774518) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-05-01-我有授权给苹果用我的蓝牙帮别人找-AirTag-吗](https://www.v2ex.com/t/774501) ![](assets/new.png)  
 - [2021-05-01-理解浏览器渲染流程](https://www.v2ex.com/t/774500) ![](assets/new.png)  
 - [2021-05-01-Wine6-下安装-SQL-Server2016，使用-winetricks-安装不了](https://www.v2ex.com/t/774499) ![](assets/new.png)  
-- [2021-05-01-搞懂-JavaScript-类型转换](https://www.v2ex.com/t/774498) ![](assets/new.png)  
-- [2021-05-01-大家有没有不怎么苦的精酿啤酒推荐？](https://www.v2ex.com/t/774496) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,17 +1087,17 @@
 - [2021-05-01-零故障上云全过程再现，PB-级数据迁移如何保障一致性？](https://toutiao.io/k/acm9zuw) ![](assets/new.png)  
 - [2021-05-01-记一次失败的发布过程](https://toutiao.io/k/t42ku89) ![](assets/new.png)  
 - [2021-05-01-以太坊交互工具](https://toutiao.io/k/aq1otgu) ![](assets/new.png)  
+- [2021-05-01-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-01-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-01-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-01-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-01-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-05-01-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
 - [2021-05-01-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
 - [2021-05-01-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
-- [2021-05-01-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-01-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-01-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-01-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-01-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
-- [2021-05-01-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-05-01-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
-- [2021-05-01-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
 - [2021-05-01-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-01-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
+- [2021-05-01-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

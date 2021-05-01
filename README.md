@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-01 13:54:52，:rocket: 更新条数: +4269， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-01 14:05:53，:rocket: 更新条数: +4269， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-05-01-兽音译者（兽语翻译）SDK](https://www.v2ex.com/t/774555) ![](assets/new.png)  
+- [2021-05-01-真是倒霉😓我又遇到联通神级-bug，能打电话，能上网，但是任何人给我打电话都没反应，就算我关机了，也不会有关机提示](https://www.v2ex.com/t/774554) ![](assets/new.png)  
 - [2021-05-01-带-AF-图标（支持高级格式化）的机械硬盘，格式化成-ext4-用不用指定扇区大小为-4096？](https://www.v2ex.com/t/774553) ![](assets/new.png)  
 - [2021-05-01-一个类似于`sqlx`的简单-sql-扩展](https://www.v2ex.com/t/774552) ![](assets/new.png)  
 - [2021-05-01-产品功能被像素级抄袭了，能有什么办法？](https://www.v2ex.com/t/774550) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-05-01-怎么跟老板解释，前端、产品、ui-设计是三个不同的工种？](https://www.v2ex.com/t/774531) ![](assets/new.png)  
 - [2021-05-01-android-狗东会尝试获取-root-权限？](https://www.v2ex.com/t/774528) ![](assets/new.png)  
 - [2021-05-01-对女生提不起来感觉怎么办？](https://www.v2ex.com/t/774527) ![](assets/new.png)  
-- [2021-05-01-JSON-Web-Tokens-Suck---Randall-Degges-DevNet-Create-2018---YouTube](https://www.v2ex.com/t/774526) ![](assets/new.png)  
-- [2021-05-01-有人-Airpods-是单耳使用的吗？](https://www.v2ex.com/t/774523) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1068,16 @@
 - [2021-05-01-五一假期不想人挤人？来这里！](https://toutiao.io/k/ok4mp6n) ![](assets/new.png)  
 - [2021-05-01-记一次失败的发布过程](https://toutiao.io/k/t42ku89) ![](assets/new.png)  
 - [2021-05-01-以太坊交互工具](https://toutiao.io/k/aq1otgu) ![](assets/new.png)  
-- [2021-05-01-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-01-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-01-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
-- [2021-05-01-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-01-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
-- [2021-05-01-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
 - [2021-05-01-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [2021-05-01-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-01-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-01-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
 - [2021-05-01-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
-- [2021-05-01-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-01-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-01-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-01-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-01-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-01-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

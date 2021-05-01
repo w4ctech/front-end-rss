@@ -20615,6 +20615,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "兽音译者（兽语翻译）SDK",
+        "link": "https://www.v2ex.com/t/774555",
+        "date": "2021-05-01"
+      },
+      {
+        "title": "真是倒霉😓我又遇到联通神级 bug，能打电话，能上网，但是任何人给我打电话都没反应，就算我关机了，也不会有关机提示",
+        "link": "https://www.v2ex.com/t/774554",
+        "date": "2021-05-01"
+      },
+      {
         "title": "带 AF 图标（支持高级格式化）的机械硬盘，格式化成 ext4 用不用指定扇区大小为 4096？",
         "link": "https://www.v2ex.com/t/774553",
         "date": "2021-05-01"
@@ -20772,16 +20782,6 @@
       {
         "title": "apple watch 带口罩解锁 iPhone 貌似不工作？",
         "link": "https://www.v2ex.com/t/774507",
-        "date": "2021-05-01"
-      },
-      {
-        "title": "有时候 AirPods 在 mac 上面切换不动怎么办",
-        "link": "https://www.v2ex.com/t/774506",
-        "date": "2021-05-01"
-      },
-      {
-        "title": "主板上的 sata 口带宽都是共享的吗",
-        "link": "https://www.v2ex.com/t/774505",
         "date": "2021-05-01"
       }
     ]
@@ -20949,18 +20949,13 @@
         "date": "2021-05-01"
       },
       {
-        "title": "[推荐] Redis 进阶笔记",
-        "link": "https://toutiao.io/k/ti0gb8i",
+        "title": "[推荐] 一文搞懂分布式锁的原理与实现",
+        "link": "https://toutiao.io/k/j7fdh6h",
         "date": "2021-05-01"
       },
       {
-        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
-        "link": "https://toutiao.io/k/2aonyjp",
-        "date": "2021-05-01"
-      },
-      {
-        "title": "[推荐] OpenResty 实现限流",
-        "link": "https://toutiao.io/k/syxnrph",
+        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
+        "link": "https://toutiao.io/k/90vs9kg",
         "date": "2021-05-01"
       },
       {
@@ -20974,28 +20969,8 @@
         "date": "2021-05-01"
       },
       {
-        "title": "[推荐] 协程切换会引起什么问题",
-        "link": "https://toutiao.io/k/xkhaihd",
-        "date": "2021-05-01"
-      },
-      {
-        "title": "[推荐] 一文搞懂分布式锁的原理与实现",
-        "link": "https://toutiao.io/k/j7fdh6h",
-        "date": "2021-05-01"
-      },
-      {
-        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
-        "link": "https://toutiao.io/k/90vs9kg",
-        "date": "2021-05-01"
-      },
-      {
         "title": "[推荐] 这 11 款 Chrome 神器，用起来爽到爆",
         "link": "https://toutiao.io/k/czntgsa",
-        "date": "2021-05-01"
-      },
-      {
-        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
-        "link": "https://toutiao.io/k/08uadl6",
         "date": "2021-05-01"
       },
       {
@@ -21004,8 +20979,33 @@
         "date": "2021-05-01"
       },
       {
+        "title": "[推荐] 协程切换会引起什么问题",
+        "link": "https://toutiao.io/k/xkhaihd",
+        "date": "2021-05-01"
+      },
+      {
+        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
+        "link": "https://toutiao.io/k/2aonyjp",
+        "date": "2021-05-01"
+      },
+      {
         "title": "[推荐] 为什么放弃 Kafka，选择 Pulsar?",
         "link": "https://toutiao.io/k/wxrneux",
+        "date": "2021-05-01"
+      },
+      {
+        "title": "[推荐] Redis 进阶笔记",
+        "link": "https://toutiao.io/k/ti0gb8i",
+        "date": "2021-05-01"
+      },
+      {
+        "title": "[推荐] OpenResty 实现限流",
+        "link": "https://toutiao.io/k/syxnrph",
+        "date": "2021-05-01"
+      },
+      {
+        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
+        "link": "https://toutiao.io/k/08uadl6",
         "date": "2021-05-01"
       }
     ]

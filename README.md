@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-01 14:52:18，:rocket: 更新条数: +4290， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-01 15:05:53，:rocket: 更新条数: +4291， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-05-01-关于云开发环境打造](https://www.v2ex.com/t/774562) ![](assets/new.png)  
+- [2021-05-01-北京和深圳，工作环境有什么异同？](https://www.v2ex.com/t/774561) ![](assets/new.png)  
 - [2021-05-01-Vmware-安装黑群晖-ds918+，正常通过菜单启动，正常上传了-pat-文件，但是提示重启-10-分钟等待后（网页+助手）也无法连接上，如何解决？](https://www.v2ex.com/t/774560) ![](assets/new.png)  
 - [2021-05-01-原-CentOS-创始人新发起的-rocky-Linux-发布首个候选版本......](https://www.v2ex.com/t/774559) ![](assets/new.png)  
 - [2021-05-01-请问无线鼠标有没有用蓝牙连接多个设备的，就像罗技-k380-那样的？](https://www.v2ex.com/t/774558) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-05-01-像这个神奇的双语对照翻译网站是怎么实现的](https://www.v2ex.com/t/774538) ![](assets/new.png)  
 - [2021-05-01-开源-不知不觉就用了盗版，-V-File-Name-终于支持-7Z-了](https://www.v2ex.com/t/774537) ![](assets/new.png)  
 - [2021-05-01-父母家里宽带和-IPTV-的神奇接法](https://www.v2ex.com/t/774536) ![](assets/new.png)  
-- [2021-05-01-离职成功，领导去叫我去公司算算账](https://www.v2ex.com/t/774535) ![](assets/new.png)  
-- [2021-05-01-chrome://inspect-现在只能在地址栏直接访问进入吗?](https://www.v2ex.com/t/774534) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-05-01-五一假期不想人挤人？来这里！](https://toutiao.io/k/ok4mp6n) ![](assets/new.png)  
 - [2021-05-01-记一次失败的发布过程](https://toutiao.io/k/t42ku89) ![](assets/new.png)  
 - [2021-05-01-以太坊交互工具](https://toutiao.io/k/aq1otgu) ![](assets/new.png)  
-- [2021-05-01-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-01-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-01-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-01-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
-- [2021-05-01-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
-- [2021-05-01-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-01-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [2021-05-01-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-01-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-01-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-01-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
 - [2021-05-01-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-01-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-01-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-05-01-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-01-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-01-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
+- [2021-05-01-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

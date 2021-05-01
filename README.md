@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-01 10:36:03，:rocket: 更新条数: +4287， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-01 10:44:55，:rocket: 更新条数: +4288， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,7 @@
 </summary>
 
 
+- [2021-05-01-怎么跟老板解释，前端、产品、ui-设计是三个不同的工种？](https://www.v2ex.com/t/774531) ![](assets/new.png)  
 - [2021-05-01-android-狗东会尝试获取-root-权限？](https://www.v2ex.com/t/774528) ![](assets/new.png)  
 - [2021-05-01-对女生提不起来感觉怎么办？](https://www.v2ex.com/t/774527) ![](assets/new.png)  
 - [2021-05-01-JSON-Web-Tokens-Suck---Randall-Degges-DevNet-Create-2018---YouTube](https://www.v2ex.com/t/774526) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-05-01-有时候-AirPods-在-mac-上面切换不动怎么办](https://www.v2ex.com/t/774506) ![](assets/new.png)  
 - [2021-05-01-主板上的-sata-口带宽都是共享的吗](https://www.v2ex.com/t/774505) ![](assets/new.png)  
 - [2021-05-01-迫于音箱坏了，有什么电脑用蓝牙音箱推荐吗？](https://www.v2ex.com/t/774503) ![](assets/new.png)  
-- [2021-05-01-go-web-之如何添加-trace-id](https://www.v2ex.com/t/774502) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,17 +1087,17 @@
 - [2021-05-01-零故障上云全过程再现，PB-级数据迁移如何保障一致性？](https://toutiao.io/k/acm9zuw) ![](assets/new.png)  
 - [2021-05-01-记一次失败的发布过程](https://toutiao.io/k/t42ku89) ![](assets/new.png)  
 - [2021-05-01-以太坊交互工具](https://toutiao.io/k/aq1otgu) ![](assets/new.png)  
-- [2021-05-01-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
 - [2021-05-01-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
 - [2021-05-01-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-01-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
-- [2021-05-01-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [2021-05-01-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-01-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
-- [2021-05-01-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-01-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-01-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [2021-05-01-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-05-01-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
 - [2021-05-01-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-01-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-01-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-05-01-推荐-OpenResty-实现限流](https://toutiao.io/k/syxnrph) ![](assets/new.png)  
+- [2021-05-01-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

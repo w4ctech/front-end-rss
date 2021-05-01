@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-05-01 20:41:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-01 20:50:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-01-招聘：-Quantative-Analyst-/Data-Scientist-新加坡](https://www.v2ex.com/t/774582) 
 - [2021-05-01-不小心把-debian-的-sshd-给搞挂了，有没有什么补救的办法？](https://www.v2ex.com/t/774581) 
 - [2021-05-01-远程-实习生-Python-数据处理实习生-320-500-一天（一天-8-小时，无加班）](https://www.v2ex.com/t/774580) 
 - [2021-05-01-后悔没买石墨色不锈钢-AW，谁来劝劝我](https://www.v2ex.com/t/774579) 
@@ -42,4 +43,3 @@
 - [2021-05-01-父母家里宽带和-IPTV-的神奇接法](https://www.v2ex.com/t/774536) 
 - [2021-05-01-离职成功，领导去叫我去公司算算账](https://www.v2ex.com/t/774535) 
 - [2021-05-01-chrome://inspect-现在只能在地址栏直接访问进入吗?](https://www.v2ex.com/t/774534) 
-- [2021-05-01-4k-显示器有没有推荐的，预算-2000-以内？](https://www.v2ex.com/t/774532) 

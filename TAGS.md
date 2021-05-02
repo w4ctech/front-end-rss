@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-02 10:11:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 10:35:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -257,6 +257,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/)
 - [【张鑫旭-鑫空间-鑫生活】Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/)
+- [【安全热点】网络安全编程:编写CrackMe程序](https://sec.thief.one/article_content?a_id=d584ec2a58d40aad1323da971af5d38d)
 - [【安全热点】App安全合规的思考:监管的重点变化梳理](https://sec.thief.one/article_content?a_id=9365d75052bdaa811fb51bd2ab94af94)
 - [【安全热点】第五届“蓝帽杯”首都网络安全日开赛-校企携手三方合作培养“未来网...](https://sec.thief.one/article_content?a_id=3ab4a473be984215bffc109e372cff85)
 - [【安全热点】安全守护每一份付出!同学们,五一快乐~](https://sec.thief.one/article_content?a_id=780962e881151589e732741f0393fbad)
@@ -270,11 +271,10 @@
 - [【安全热点】完美收官-|-首届国产优秀网络安全工具主题展圆满落幕](https://sec.thief.one/article_content?a_id=a44ac0f27c8bc33fb3dde43adbde19d0)
 - [【安全热点】安全日报2021.04.30](https://sec.thief.one/article_content?a_id=17283c01078c81d6742c7194d507236b)
 - [【安全热点】MacOS内核安全性检测](https://sec.thief.one/article_content?a_id=f585fe2901efd76d3d23899b5654dca7)
+- [【安全热点】数据安全如何定级](https://sec.thief.one/article_content?a_id=7a781f875cbd0ee89255f78c50a43029)
 - [【安全热点】【安全圈】FBI将400万个被泄露的邮件地址从Emotet移交给Have-I-...](https://sec.thief.one/article_content?a_id=c96479ae3bde8fcb3352539e62ad34c9)
 - [【安全热点】武汉数据安全培训专题圆满落幕|珠海,我们来了](https://sec.thief.one/article_content?a_id=680091f83295516199c0819a6dd6b1f5)
 - [【安全热点】现场直击-|-429首都网络安全日展位亮点全揭秘](https://sec.thief.one/article_content?a_id=3e09f29ef63faddb7ff459503936da99)
-- [【安全热点】【安全风险通告】奇安信CERT已验证,Apache-OFBiz多个高危漏洞安...](https://sec.thief.one/article_content?a_id=4b0c22f48e82366bfff32670a1dfee06)
-- [【安全热点】关于征求《信息安全技术-网联汽车-采集数据的安全要求》标准草案意...](https://sec.thief.one/article_content?a_id=acf04c9b69209c8adb485c30edcdc126)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -340,7 +340,6 @@
 
 
 
-- [【安全热点】Java面试高频题:Spring-Boot+Sentinel+Nacos高并发已撸完](https://sec.thief.one/article_content?a_id=18af4a89d9ea87bc517c469d84942b0e)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -392,6 +391,12 @@
 - [【阮一峰的网络日志】科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html)
+- [【安全热点】网信视窗|4月网信大事回眸](https://sec.thief.one/article_content?a_id=c57a521d12860a98d6d245ad7589907f)
+- [【安全热点】《Android高研班》2021年6月班火热招生中!](https://sec.thief.one/article_content?a_id=b864e622d6ddfdb5d5fd8815c75bde5a)
+- [【安全热点】BadAlloc:微软在IoT/OT设备中发现25个内存分配漏洞](https://sec.thief.one/article_content?a_id=ec0b0e0543ff9f5817631229fa4ecaa2)
+- [【安全热点】卡内基国际和平基金会《中美网络与核稳定》报告解析](https://sec.thief.one/article_content?a_id=eb2dc6e8fe374ddb2320f450ac141740)
+- [【安全热点】教你完美使用Python,妈妈再也不用担心我买不到显卡](https://sec.thief.one/article_content?a_id=f742c469bc5f1f530d09b791720dec7f)
+- [【安全热点】写代码神器!多屏敲代码贼爽,免费送!](https://sec.thief.one/article_content?a_id=6f8900535cce7dbd62502b3e3688db50)
 - [【安全热点】5月,这些网信新规开始实施](https://sec.thief.one/article_content?a_id=48ab77d58d0455e72186be02a7ac16d5)
 - [【安全热点】五.安](https://sec.thief.one/article_content?a_id=ec06fc2b713c76f2005f743afced3827)
 - [【安全热点】这个五一不无聊,回答有奖!](https://sec.thief.one/article_content?a_id=57b358b532f09e94fcf20ad28f6ca2a3)
@@ -401,12 +406,6 @@
 - [【安全热点】干货-|-如何编写Word宏木马](https://sec.thief.one/article_content?a_id=dedb487143b1ac39a36d7b430957b1f8)
 - [【安全热点】从失业0收入到月入3万,就靠这个习惯:聪明女人,-都懂得这样赚钱](https://sec.thief.one/article_content?a_id=54207afa9e2ccf0c432cdf8e11d1d794)
 - [【安全热点】美国国防部计划推出零信任战略2021](https://sec.thief.one/article_content?a_id=21dff5bbf82c332166ab0fd93512a443)
-- [【安全热点】云鼎百科|开战!劳动节VS开黑节](https://sec.thief.one/article_content?a_id=fb07e59f9f166f10e067eef9b8ccc7ba)
-- [【安全热点】5.1致敬每一位劳动者](https://sec.thief.one/article_content?a_id=7a3c3739334a582a8a00203571b39cca)
-- [【安全热点】华盟网祝大家五一快乐](https://sec.thief.one/article_content?a_id=53ae1c5b499bbafaf2e9275e4d305e4d)
-- [【安全热点】Python制作进度条,原来有这么多方法!](https://sec.thief.one/article_content?a_id=c30c4340f08402c7bf5a657405ec415f)
-- [【安全热点】Jeff-Dean被迫发论文自证:解雇黑人员工纯属学术原因](https://sec.thief.one/article_content?a_id=a69b6a0ccf692aa05b635881f46a596e)
-- [【安全热点】HW-攻击思路](https://sec.thief.one/article_content?a_id=07dcdce608e384d02227bb9b50433ed9)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

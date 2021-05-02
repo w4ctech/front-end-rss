@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 10:11:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 10:35:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -10,6 +10,12 @@
 - [2021-04-29-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html) 
 - [2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) 
 - [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) 
+- [2021-05-02-网信视窗|4月网信大事回眸](https://sec.thief.one/article_content?a_id=c57a521d12860a98d6d245ad7589907f) 
+- [2021-05-02-《Android高研班》2021年6月班火热招生中!](https://sec.thief.one/article_content?a_id=b864e622d6ddfdb5d5fd8815c75bde5a) 
+- [2021-05-02-BadAlloc:微软在IoT/OT设备中发现25个内存分配漏洞](https://sec.thief.one/article_content?a_id=ec0b0e0543ff9f5817631229fa4ecaa2) 
+- [2021-05-02-卡内基国际和平基金会《中美网络与核稳定》报告解析](https://sec.thief.one/article_content?a_id=eb2dc6e8fe374ddb2320f450ac141740) 
+- [2021-05-02-教你完美使用Python,妈妈再也不用担心我买不到显卡](https://sec.thief.one/article_content?a_id=f742c469bc5f1f530d09b791720dec7f) 
+- [2021-05-02-写代码神器!多屏敲代码贼爽,免费送!](https://sec.thief.one/article_content?a_id=6f8900535cce7dbd62502b3e3688db50) 
 - [2021-05-01-5月,这些网信新规开始实施](https://sec.thief.one/article_content?a_id=48ab77d58d0455e72186be02a7ac16d5) 
 - [2021-05-01-五.安](https://sec.thief.one/article_content?a_id=ec06fc2b713c76f2005f743afced3827) 
 - [2021-05-01-这个五一不无聊,回答有奖!](https://sec.thief.one/article_content?a_id=57b358b532f09e94fcf20ad28f6ca2a3) 
@@ -76,8 +82,3 @@
 - [2021-04-29-「鸡蛋返生」美国早就在搞了好吧](https://sec.thief.one/article_content?a_id=9d783e25572a936944628f6d438a7625) 
 - [2021-04-29-《常见类型移动互联网应用程序必要个人信息范围规定》答记者问](https://sec.thief.one/article_content?a_id=3a0eedc9778c4c0460fa750811522313) 
 - [2021-04-29-美华盛顿特区警局遭勒索软件入侵-黑客以公布线人身份作为要胁](https://sec.thief.one/article_content?a_id=262b4d276d44712474579850b952201c) 
-- [2021-04-28-格物致知・数安有道-|-红途GOPR平台正式发布](https://sec.thief.one/article_content?a_id=b7e2d32fdb1c21f4fbf33cd4f1e755c7) 
-- [2021-04-28-C5类中国唯一!奇安信天眼参与申报项目荣获WSIS“冠军项目”](https://sec.thief.one/article_content?a_id=b1d917ec5a6f443b8f6e2b45e33dc815) 
-- [2021-04-28-我写公众号常用的一些软件工具](https://sec.thief.one/article_content?a_id=ceaa163ec9aaa8d3859fc9e563137a17) 
-- [2021-04-28-【漏洞通告】Apache-OFBiz-远程代码执行漏洞-CVE-2021-29200/CVE...](https://sec.thief.one/article_content?a_id=be4b6752549108dbb104c48a1ab7357c) 
-- [2021-04-28-华盛顿警局遭黑客入侵,不交赎金就公开警方线人](https://sec.thief.one/article_content?a_id=8e88162c6950e48bab20086fc111dbeb) 

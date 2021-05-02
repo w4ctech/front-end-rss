@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 15:39:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 15:49:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -6,5 +6,3 @@
 > 关键字：`TypeScript`
 
 
-
-- [2021-04-16-TypeScript-因为什么特性成为了你的“刚需”？|-极客时间](https://www.ershicimi.com/p/2688e18a2f3603621be20590593671f0) 

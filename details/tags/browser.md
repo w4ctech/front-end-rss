@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 15:39:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 15:49:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,8 +7,7 @@
 
 
 
-- [2021-04-25-微软统一所有平台的Edge代码库；大学教授向Linux提交漏洞代码致学校被拉黑；苹果M1版Mac的销](https://www.ershicimi.com/p/56be00c860ff77b83518590ecee6f20b) 
-- [2021-04-08-一名合格的前端工程师需要掌握的浏览器渲染笔记](https://www.ershicimi.com/p/b37c42536333398c3047a0473a4bc76b) 
+- [2021-05-01-前后端接口鉴权全解-Cookie/Session/Token-的区别](https://www.ershicimi.com/p/931d6e85d872eeca95c2dfde58147573) 
 - [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2021-05-02-Chrome-如何禁用“添加书签”？想点击-★-一下就可以实现添加阅读清单](https://www.v2ex.com/t/774679) 

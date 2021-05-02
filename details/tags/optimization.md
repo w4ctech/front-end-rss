@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 23:08:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 23:36:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -13,6 +13,4 @@
 - [2021-04-23-require加载器实现原理](https://www.ershicimi.com/p/db119e98cc026d8dbc8081d84cfd8cb0) 
 - [2021-04-26-从-10-多秒到-1.05-秒！前端性能优化实践](https://www.ershicimi.com/p/9a8a0ab50b635c8970f1503d8ceac1eb) 
 - [2021-04-13-2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152) 
-- [2021-05-02-百度-C++-工程师的那些极限优化（内存篇）](https://toutiao.io/k/fjf4ers) 
-- [2021-05-02-大型前端项目架构优化探索之路之腾讯文档表格](https://toutiao.io/k/pft9nfv) 
 - [2021-05-02-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) 

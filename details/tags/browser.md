@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 23:08:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 23:36:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,7 +43,7 @@
 - [2021-05-02-安全高效跨平台的.-NET-模板引擎-Fluid-使用文档](https://www.v2ex.com/t/774675) 
 - [2021-05-02-如何解决黑苹果中浏览器的滑动掉帧问题](https://www.v2ex.com/t/774658) 
 - [2021-05-02-Python-请求的-requests.get-数据包内容突然变乱码](https://www.v2ex.com/t/774655) 
-- [2021-05-02-深入理解-HTTP-缓存机制](https://toutiao.io/k/5jnd1a6) 
+- [2021-05-02-系统设计之路：如何设计一个-URL-短链服务](https://toutiao.io/k/6mzds1m) 
 - [2021-05-02-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 
 - [2021-05-02-网络安全编程:编写CrackMe程序](https://sec.thief.one/article_content?a_id=d584ec2a58d40aad1323da971af5d38d) 
 - [2021-05-01-App安全合规的思考:监管的重点变化梳理](https://sec.thief.one/article_content?a_id=9365d75052bdaa811fb51bd2ab94af94) 

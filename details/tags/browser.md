@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 14:52:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 15:07:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,9 +7,15 @@
 
 
 
+- [2021-04-27-Axios-如何取消重复请求？](https://www.ershicimi.com/p/aea65849c0f9fa8849f86408f0560359) 
+- [2021-04-27-GET-请求能传图片吗？](https://www.ershicimi.com/p/829e85115391e8c7f38842ab039c6e89) 
+- [2021-04-26-从输入-URL-到展现涉及哪些缓存环节非常详细](https://www.ershicimi.com/p/3bd2f35fd7d630a3679098a0cb78acf6) 
 - [2021-03-09-那些与-IE-相伴的日子](https://www.ershicimi.com/p/d9c911d3c0835bf8f9743b70add1478c) 
 - [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
+- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
+- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
+- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-05-02-Chrome-如何禁用“添加书签”？想点击-★-一下就可以实现添加阅读清单](https://www.v2ex.com/t/774679) 
 - [2021-05-02-安全高效跨平台的.-NET-模板引擎-Fluid-使用文档](https://www.v2ex.com/t/774675) 
 - [2021-05-02-如何解决黑苹果中浏览器的滑动掉帧问题](https://www.v2ex.com/t/774658) 

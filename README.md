@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-02 21:53:35，:rocket: 更新条数: +4295， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-02 22:07:19，:rocket: 更新条数: +4295， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -213,6 +213,9 @@
 </summary>
 
 
+- [2021-04-30-【第2269期】「表现-领域-数据」分层](https://www.ershicimi.com/p/eca76ba886350d16f47a2f07c5fb25ce) ![](assets/new.png)  
+- [2021-04-30-【活动】VueConf-2021正式启动](https://www.ershicimi.com/p/26c4e0907355f9f25b1c6a4b43d928e1) ![](assets/new.png)  
+- [2021-04-30-【内推】字节跳动互娱前端架构基础工程招人啦（北|杭|深）](https://www.ershicimi.com/p/101cf9f1345ab155011aa08b058b183e) ![](assets/new.png)  
 - [2021-04-29-【第2268期】Javascript-非同步&-Event-Loop！10-分钟轻松图解学习！](https://www.ershicimi.com/p/27a287e7597a0817af5d506f52b54578) ![](assets/new.png)  
 - [2021-04-29-【图书】WebRTC技术详解](https://www.ershicimi.com/p/a9b6b7e0b8375a3df33f66da2934033f) ![](assets/new.png)  
 - [2021-04-28-Vue-3核心原理解析，看这篇就够了](https://www.ershicimi.com/p/c3b246fc3c296f1534d4d9bd321b7e6b) ![](assets/new.png)  
@@ -230,9 +233,6 @@
 - [2021-04-21-为什么大多数前端程序员选择React？](https://www.ershicimi.com/p/e929dd6bc363b435a24dc13530f87b89) ![](assets/new.png)  
 - [2021-04-21-【第2260期】ToB-前端-CI/CD-建设实践](https://www.ershicimi.com/p/a82b07a8609ab38627120ad92efaf699) ![](assets/new.png)  
 - [2021-04-21-【招聘】深圳阿卡索外教网招高级前端开发工程师](https://www.ershicimi.com/p/1ce358a1f02cbe784dd909436ed5d5b6) ![](assets/new.png)  
-- [2021-04-20-【第2259期】深入理解web协议：http-包体传输](https://www.ershicimi.com/p/b0f07714cf86316ff069f1a244d82909) ![](assets/new.png)  
-- [2021-04-20-【开源】企鹅电竞高性能动画组件---VAP](https://www.ershicimi.com/p/e48f5d3f35a644c3fe7fe121cde36297) ![](assets/new.png)  
-- [2021-04-19-【第2258期】新一代构建工具对比](https://www.ershicimi.com/p/f615ac506625b9ce04ad31a89c055a02) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-05-02-如何在-ClickHouse-中快速实现-AB-表切换](https://toutiao.io/k/4sb61gl) ![](assets/new.png)  
 - [2021-05-02-大型前端项目架构优化探索之路之腾讯文档表格](https://toutiao.io/k/pft9nfv) ![](assets/new.png)  
 - [2021-05-02-2021-CocoaPods-新手进阶指南之仓库源](https://toutiao.io/k/urflygs) ![](assets/new.png)  
-- [2021-05-02-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
-- [2021-05-02-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-02-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-02-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-02-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [2021-05-02-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-02-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-02-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-02-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
 - [2021-05-02-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-05-02-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-02-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-02-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-02-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [2021-05-02-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-05-02-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-02-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

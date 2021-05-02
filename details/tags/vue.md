@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 21:53:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 22:07:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -21,6 +21,7 @@
 - [2021-04-26-让Jenkins帮你自动布署Vue项目](https://www.ershicimi.com/p/ae26d40234b4971cecd31a16b6762ac5) 
 - [2021-04-25-一张动图理解Vue3的Composition-Api](https://www.ershicimi.com/p/cc093e2ac8005732ad200aaabd181da8) 
 - [2021-04-23-一个-1-分钟就学会的-vue-小技巧（真的一看就会）](https://www.ershicimi.com/p/0219150c75f3adaa1a8b9cd19ddb33c8) 
+- [2021-04-30-【活动】VueConf-2021正式启动](https://www.ershicimi.com/p/26c4e0907355f9f25b1c6a4b43d928e1) 
 - [2021-04-28-Vue-3核心原理解析，看这篇就够了](https://www.ershicimi.com/p/c3b246fc3c296f1534d4d9bd321b7e6b) 
 - [2021-04-29-快速使用-Vue3-最新的-15-个常用-API](https://www.ershicimi.com/p/ccd7dfd6856c4d4d6e5c1e99d108accc) 
 - [2021-04-28-前端面试亮点必杀器：Vue-3核心原理解析](https://www.ershicimi.com/p/cdf332664dc7c8ac4a1c693279f930ce) 

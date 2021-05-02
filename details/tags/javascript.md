@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 21:53:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 22:07:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -41,7 +41,6 @@
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2021-04-29-【第2268期】Javascript-非同步&-Event-Loop！10-分钟轻松图解学习！](https://www.ershicimi.com/p/27a287e7597a0817af5d506f52b54578) 
 - [2021-04-25-【第2264期】JavaScript中延迟加载属性模式](https://www.ershicimi.com/p/7a6431747bbbca1edaff0f97454c2290) 
-- [2021-04-20-【开源】企鹅电竞高性能动画组件---VAP](https://www.ershicimi.com/p/e48f5d3f35a644c3fe7fe121cde36297) 
 - [2021-04-29-十几个CSS高级常见技巧汇总（虚线框、三角形、优惠券卡券、滚动条、多行溢出...）](https://www.ershicimi.com/p/65abffb4e1a5f8c2ce7c424054b36e6f) 
 - [2021-04-27-字节跳动最爱考的-64-道算法题（JS版）](https://www.ershicimi.com/p/edb959eb2e157f9ff8472d512db1b56a) 
 - [2021-04-23-开发中经常遇到的JavaScript问题整理超实用](https://www.ershicimi.com/p/b9ac05bf6f1e4c90260c8906b24b6842) 

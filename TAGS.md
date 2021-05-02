@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-02 22:57:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 23:08:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -85,10 +85,10 @@
 - [【Vue社区】【阮一峰推荐】学习-vue3-源码的利器](https://www.ershicimi.com/p/c760d7fab9759ccdad74ff83b97e7e7e)
 - [【Vue社区】超全的Vue3文档【Vue2迁移Vue3】](https://www.ershicimi.com/p/265e4e291491ece4921baf13ba6795e3)
 - [【Vue社区】面试官问-Vue-性能优化，我该怎么回答？](https://www.ershicimi.com/p/c835170ff6d0ac862183d15f5140e5a2)
+- [【Vue中文社区】5个面试必问的-Vue3-考点](https://www.ershicimi.com/p/b8eab1e0c53af1da0042cff105cefe42)
+- [【Vue中文社区】手写一个mini版本的Vue，Get-Vue3的核心原理](https://www.ershicimi.com/p/99d14f52f8100be48b2172c04c33f811)
 - [【Vue中文社区】搞定-Virtual-DOM中的模块机制后，我总结了Vue的面试必考点](https://www.ershicimi.com/p/25b3b0fe015df7a1ea3908b65aaec47c)
 - [【Vue中文社区】让Jenkins帮你自动布署Vue项目](https://www.ershicimi.com/p/ae26d40234b4971cecd31a16b6762ac5)
-- [【Vue中文社区】一张动图理解Vue3的Composition-Api](https://www.ershicimi.com/p/cc093e2ac8005732ad200aaabd181da8)
-- [【Vue中文社区】一个-1-分钟就学会的-vue-小技巧（真的一看就会）](https://www.ershicimi.com/p/0219150c75f3adaa1a8b9cd19ddb33c8)
 - [【前端早读课】【活动】VueConf-2021正式启动](https://www.ershicimi.com/p/26c4e0907355f9f25b1c6a4b43d928e1)
 - [【前端早读课】Vue-3核心原理解析，看这篇就够了](https://www.ershicimi.com/p/c3b246fc3c296f1534d4d9bd321b7e6b)
 - [【前端大全】快速使用-Vue3-最新的-15-个常用-API](https://www.ershicimi.com/p/ccd7dfd6856c4d4d6e5c1e99d108accc)
@@ -298,7 +298,6 @@
 
 
 
-- [【Vue中文社区】你可能不知道的10个CSS新功能（2021版）](https://www.ershicimi.com/p/e5eb88315d8ea8d4a74cc98ad26f4d71)
 - [【前端早读课】【第2262期】Web-性能优化：使用-CSS-font-display-控制字体加载和替换](https://www.ershicimi.com/p/98a738b1cbcd8da2272d2d511ea2ee37)
 - [【前端开发】字节跳动最爱考的前端面试题：CSS-基础](https://www.ershicimi.com/p/4f9b89c1dfa6bda6f88051f083a42231)
 - [【前端圈】视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0)
@@ -493,7 +492,6 @@
 
 
 
-- [【Vue中文社区】25个每个人都应该知道的Git命令](https://www.ershicimi.com/p/514778cb051fbc580d91e7f6aff7b603)
 - [【前端大全】摸鱼社区炒饭前端开源，大家快来-GitHub-Star-一波呀](https://www.ershicimi.com/p/b1ea8039be31b88cdefb8054c3b46ff9)
 - [【政采云前端团队】手把手教你用-Github-Actions-部署前端项目](https://www.ershicimi.com/p/e957f530f794160169e2d79b5bceaf36)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
@@ -522,7 +520,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
 - [【Vue社区】面试阿里被问的哑口无言，原来我……](https://www.ershicimi.com/p/9b4eb4e86782276faaf83bb375080f45)
 - [【Vue中文社区】面试官让你描述你的项目，应该怎么答？](https://www.ershicimi.com/p/5fa9569c5a1c4dc610d62ec91e91a19a)
-- [【Vue中文社区】重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/f1b829175710d3f88cf9de43d235d53c)
 - [【前端早读课】大厂面试常问的前端工程化学习指南，进阶必备](https://www.ershicimi.com/p/1731d475024fc5dcd466e243cff9a05e)
 - [【前端早读课】【招聘】深圳阿卡索外教网招高级前端开发工程师](https://www.ershicimi.com/p/1ce358a1f02cbe784dd909436ed5d5b6)
 - [【前端大全】设计灵感：12组招聘求职类App界面设计](https://www.ershicimi.com/p/1c9f22e125d3e790694f4c734c76e629)
@@ -539,6 +536,7 @@
 - [【互联网架构师】虎牙面试官：String长度有限制吗？是多少？我：这太...](https://www.ershicimi.com/p/9296c77fed825a73929d16b70c299578)
 - [【互联网架构师】36-岁程序员应聘被公司领导直接拒绝；B-站面试官回应北邮校招中的不当言论](https://www.ershicimi.com/p/0430d33a8a2d484b90e3adebef3ead1f)
 - [【JavaScript】重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/2dd643e87f8415ea43cd71fae653209b)
+- [【V2EX】非科班程序员面试被三连问](https://www.v2ex.com/t/774659)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

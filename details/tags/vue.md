@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 22:57:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 23:08:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -17,10 +17,10 @@
 - [2021-03-31-【阮一峰推荐】学习-vue3-源码的利器](https://www.ershicimi.com/p/c760d7fab9759ccdad74ff83b97e7e7e) 
 - [2021-03-22-超全的Vue3文档【Vue2迁移Vue3】](https://www.ershicimi.com/p/265e4e291491ece4921baf13ba6795e3) 
 - [2021-03-17-面试官问-Vue-性能优化，我该怎么回答？](https://www.ershicimi.com/p/c835170ff6d0ac862183d15f5140e5a2) 
+- [2021-05-01-5个面试必问的-Vue3-考点](https://www.ershicimi.com/p/b8eab1e0c53af1da0042cff105cefe42) 
+- [2021-04-30-手写一个mini版本的Vue，Get-Vue3的核心原理](https://www.ershicimi.com/p/99d14f52f8100be48b2172c04c33f811) 
 - [2021-04-28-搞定-Virtual-DOM中的模块机制后，我总结了Vue的面试必考点](https://www.ershicimi.com/p/25b3b0fe015df7a1ea3908b65aaec47c) 
 - [2021-04-26-让Jenkins帮你自动布署Vue项目](https://www.ershicimi.com/p/ae26d40234b4971cecd31a16b6762ac5) 
-- [2021-04-25-一张动图理解Vue3的Composition-Api](https://www.ershicimi.com/p/cc093e2ac8005732ad200aaabd181da8) 
-- [2021-04-23-一个-1-分钟就学会的-vue-小技巧（真的一看就会）](https://www.ershicimi.com/p/0219150c75f3adaa1a8b9cd19ddb33c8) 
 - [2021-04-30-【活动】VueConf-2021正式启动](https://www.ershicimi.com/p/26c4e0907355f9f25b1c6a4b43d928e1) 
 - [2021-04-28-Vue-3核心原理解析，看这篇就够了](https://www.ershicimi.com/p/c3b246fc3c296f1534d4d9bd321b7e6b) 
 - [2021-04-29-快速使用-Vue3-最新的-15-个常用-API](https://www.ershicimi.com/p/ccd7dfd6856c4d4d6e5c1e99d108accc) 

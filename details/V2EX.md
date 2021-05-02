@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-05-02 13:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 13:17:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-02-求文件内容搜索软件](https://www.v2ex.com/t/774678) 
+- [2021-05-02-小米路由器-3G-，能推荐一个台式机的-PCIE-接口的无线网卡吗？路由器隔了一堵墙](https://www.v2ex.com/t/774677) 
 - [2021-05-02-联通上海现在访问日韩地址经骨干网会走一趟银川-大家有没有这种现象](https://www.v2ex.com/t/774676) 
 - [2021-05-02-安全高效跨平台的.-NET-模板引擎-Fluid-使用文档](https://www.v2ex.com/t/774675) 
 - [2021-05-02-北京中关村/远程TensorBase开源数据仓库等一群人，做一件事](https://www.v2ex.com/t/774674) 
@@ -41,5 +43,3 @@
 - [2021-05-02-.net-core-web-api-service.AddSession-自动添加的那个-cookie-是啥](https://www.v2ex.com/t/774631) 
 - [2021-05-02-Edge-浏览器怎么控制单个插件的同步？](https://www.v2ex.com/t/774630) 
 - [2021-05-02-想在移动硬盘里装几个虚拟机-MBP-用，大家推荐哪种方案？](https://www.v2ex.com/t/774629) 
-- [2021-05-02-go-中使用协程时定义的-var-wt-sync.WaitGroup，是否要在整个程序内使用（var-Wt-sync.WaitGroup），还是一个包定义一个](https://www.v2ex.com/t/774628) 
-- [2021-05-02-感觉好浪费](https://www.v2ex.com/t/774627) 

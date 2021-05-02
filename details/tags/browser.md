@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 15:49:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 16:00:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,13 +7,8 @@
 
 
 
-- [2021-05-01-前后端接口鉴权全解-Cookie/Session/Token-的区别](https://www.ershicimi.com/p/931d6e85d872eeca95c2dfde58147573) 
 - [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
-- [2021-05-02-Chrome-如何禁用“添加书签”？想点击-★-一下就可以实现添加阅读清单](https://www.v2ex.com/t/774679) 
-- [2021-05-02-安全高效跨平台的.-NET-模板引擎-Fluid-使用文档](https://www.v2ex.com/t/774675) 
-- [2021-05-02-如何解决黑苹果中浏览器的滑动掉帧问题](https://www.v2ex.com/t/774658) 
-- [2021-05-02-Python-请求的-requests.get-数据包内容突然变乱码](https://www.v2ex.com/t/774655) 
 - [2021-05-02-深入理解-HTTP-缓存机制](https://toutiao.io/k/5jnd1a6) 
 - [2021-05-02-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 
 - [2021-05-02-网络安全编程:编写CrackMe程序](https://sec.thief.one/article_content?a_id=d584ec2a58d40aad1323da971af5d38d) 

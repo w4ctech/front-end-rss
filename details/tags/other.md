@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-05-02 04:03:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 04:15:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) 
+- [2021-03-30-分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/) 
 - [2021-04-29-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html) 
 - [2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) 
 - [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) 

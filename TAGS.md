@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-02 18:00:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 18:29:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -456,6 +456,8 @@
 - [【全栈前端精选】前端也要懂编译：AST-从入门到上手指南](https://www.ershicimi.com/p/bf30277e82964e217b34848505cf683d)
 - [【前端日刊】五一「返现节」，0-元打造-Web-全栈架构师](https://www.ershicimi.com/p/0d70470be0cd5040a2dd747bfc2a39d1)
 - [【前端日刊】面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219)
+- [【互联网架构师】1000多页的pdf算法题整理完成，字节算法面试手册来了](https://www.ershicimi.com/p/996e8905b6f47ef761bee4b643e8b762)
+- [【互联网架构师】有了HTTP，为什么还要RPC？](https://www.ershicimi.com/p/efa1b03150979c43edf61bb25edaedbb)
 - [【InfoQ】分布式一致性算法：解决分布式系统80%核心问题｜极客时间](https://www.ershicimi.com/p/ca136b774c0ae4b54bbd3d73e8f62759)
 - [【InfoQ】如何看待-70%-的程序员，缺乏数据结构和算法知识？-｜-极客时间](https://www.ershicimi.com/p/56ff22ef079187c309f07e1e3e6e0205)
 - [【JavaScript】Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29)
@@ -538,7 +540,7 @@
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【互联网架构师】虎牙面试官：String长度有限制吗？是多少？我：这太...](https://www.ershicimi.com/p/9296c77fed825a73929d16b70c299578)
 - [【互联网架构师】36-岁程序员应聘被公司领导直接拒绝；B-站面试官回应北邮校招中的不当言论](https://www.ershicimi.com/p/0430d33a8a2d484b90e3adebef3ead1f)
-- [【互联网架构师】面试4轮字节Java研发岗，最终拿下Offer（原题复盘）](https://www.ershicimi.com/p/6ec6bc00e49a06f9f9a0702c3ba09981)
+- [【JavaScript】重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/2dd643e87f8415ea43cd71fae653209b)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

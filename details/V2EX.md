@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-05-02 16:18:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 16:39:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-02-offgamers-的-iTunes-卡靠谱吗，是不是黑卡有没有充值过很长时间的兄弟知道。-我买了几张用了，现在有点后怕。。。](https://www.v2ex.com/t/774690) 
+- [2021-05-02-Windows-里相当于-Little-Snitch-和-Karabiner-的软件是啥？](https://www.v2ex.com/t/774689) 
 - [2021-05-02-iPhone-用户记得关闭明早的闹钟](https://www.v2ex.com/t/774688) 
 - [2021-05-02-FP-语言学习选择](https://www.v2ex.com/t/774687) 
 - [2021-05-02-迫于老家只有移动的信号，大家有什么移动的流量卡推荐吗？](https://www.v2ex.com/t/774686) 
@@ -40,4 +42,3 @@
 - [2021-05-02-法国游戏软件公司招聘多名技术岗位---On-site-or-Fully-remote](https://www.v2ex.com/t/774646) 
 - [2021-05-02-自己撸了个护眼提醒-App（EyeGuard），送一波福利](https://www.v2ex.com/t/774644) 
 - [2021-05-02-Rocky-Linux-8.3-RC1-今天发布了，大家怎么看](https://www.v2ex.com/t/774643) 
-- [2021-05-02-除了友盟还有没有其他的-app，友盟好像功能有点少](https://www.v2ex.com/t/774640) 

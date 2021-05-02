@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 00:34:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 01:02:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,5 +7,12 @@
 
 
 
+- [2021-04-26-五一「返现节」，0-元打造-Web-全栈架构师](https://www.ershicimi.com/p/72cdd3f988f1d6e70bedb7c902326775) 
 - [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) 
+- [2021-04-20-【第2259期】深入理解web协议：http-包体传输](https://www.ershicimi.com/p/b0f07714cf86316ff069f1a244d82909) 
+- [2021-04-29-前端也要懂编译：AST-从入门到上手指南](https://www.ershicimi.com/p/bf30277e82964e217b34848505cf683d) 
+- [2021-04-26-五一「返现节」，0-元打造-Web-全栈架构师](https://www.ershicimi.com/p/0d70470be0cd5040a2dd747bfc2a39d1) 
+- [2021-03-31-面试官：说说算法在前端中的应用体现](https://www.ershicimi.com/p/053c0c1f1cf722d0cc7929255b2a5219) 
+- [2021-04-28-如何看待-70%-的程序员，缺乏数据结构和算法知识？-｜-极客时间](https://www.ershicimi.com/p/56ff22ef079187c309f07e1e3e6e0205) 
+- [2021-04-17-Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29) 
 - [2021-05-01-广州-诚征客户端研发、算法同学](https://www.v2ex.com/t/774567) 

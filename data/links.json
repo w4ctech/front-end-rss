@@ -20726,6 +20726,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "2 个 exlcel 千万条手机号，怎么合并去重呢？",
+        "link": "https://www.v2ex.com/t/774683",
+        "date": "2021-05-02"
+      },
+      {
         "title": "V 站上官媒了",
         "link": "https://www.v2ex.com/t/774681",
         "date": "2021-05-02"
@@ -20904,16 +20909,6 @@
         "title": "深圳没有共享青桔电动自行车吗？",
         "link": "https://www.v2ex.com/t/774634",
         "date": "2021-05-02"
-      },
-      {
-        "title": "远程屏幕监控系统实现请教",
-        "link": "https://www.v2ex.com/t/774633",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "之前主管给了我两个文件，根据相同的 id 比较 json 内容里面的字段，自己写了一个方法",
-        "link": "https://www.v2ex.com/t/774632",
-        "date": "2021-05-02"
       }
     ]
   },
@@ -21085,18 +21080,8 @@
         "date": "2021-05-02"
       },
       {
-        "title": "[推荐] Redis 进阶笔记",
-        "link": "https://toutiao.io/k/ti0gb8i",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "[推荐] 用户画像的基础、原理、方法论（模型）和应用",
-        "link": "https://toutiao.io/k/nrdp4oq",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
-        "link": "https://toutiao.io/k/0iue4f4",
+        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
+        "link": "https://toutiao.io/k/2aonyjp",
         "date": "2021-05-02"
       },
       {
@@ -21105,28 +21090,8 @@
         "date": "2021-05-02"
       },
       {
-        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
-        "link": "https://toutiao.io/k/08uadl6",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "[推荐] 协程切换会引起什么问题",
-        "link": "https://toutiao.io/k/xkhaihd",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
-        "link": "https://toutiao.io/k/2aonyjp",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "[推荐] 如何设计一个高性能的秒杀系统",
-        "link": "https://toutiao.io/k/6z3uu2m",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "[推荐] 这 11 款 Chrome 神器，用起来爽到爆",
-        "link": "https://toutiao.io/k/czntgsa",
+        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
+        "link": "https://toutiao.io/k/0iue4f4",
         "date": "2021-05-02"
       },
       {
@@ -21135,13 +21100,43 @@
         "date": "2021-05-02"
       },
       {
-        "title": "[推荐] 一文搞懂分布式锁的原理与实现",
-        "link": "https://toutiao.io/k/j7fdh6h",
+        "title": "[推荐] 用户画像的基础、原理、方法论（模型）和应用",
+        "link": "https://toutiao.io/k/nrdp4oq",
         "date": "2021-05-02"
       },
       {
         "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
         "link": "https://toutiao.io/k/90vs9kg",
+        "date": "2021-05-02"
+      },
+      {
+        "title": "[推荐] Redis 进阶笔记",
+        "link": "https://toutiao.io/k/ti0gb8i",
+        "date": "2021-05-02"
+      },
+      {
+        "title": "[推荐] 如何设计一个高性能的秒杀系统",
+        "link": "https://toutiao.io/k/6z3uu2m",
+        "date": "2021-05-02"
+      },
+      {
+        "title": "[推荐] 协程切换会引起什么问题",
+        "link": "https://toutiao.io/k/xkhaihd",
+        "date": "2021-05-02"
+      },
+      {
+        "title": "[推荐] 这 11 款 Chrome 神器，用起来爽到爆",
+        "link": "https://toutiao.io/k/czntgsa",
+        "date": "2021-05-02"
+      },
+      {
+        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
+        "link": "https://toutiao.io/k/08uadl6",
+        "date": "2021-05-02"
+      },
+      {
+        "title": "[推荐] 一文搞懂分布式锁的原理与实现",
+        "link": "https://toutiao.io/k/j7fdh6h",
         "date": "2021-05-02"
       }
     ]

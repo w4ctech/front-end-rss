@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 13:30:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 13:45:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -27,6 +27,7 @@
 - [2021-04-27-Axios-如何取消重复请求？](https://www.ershicimi.com/p/aea65849c0f9fa8849f86408f0560359) 
 - [2021-04-27-GET-请求能传图片吗？](https://www.ershicimi.com/p/829e85115391e8c7f38842ab039c6e89) 
 - [2021-04-26-从输入-URL-到展现涉及哪些缓存环节非常详细](https://www.ershicimi.com/p/3bd2f35fd7d630a3679098a0cb78acf6) 
+- [2021-05-01-前后端接口鉴权全解-Cookie/Session/Token-的区别](https://www.ershicimi.com/p/931d6e85d872eeca95c2dfde58147573) 
 - [2021-04-25-微软统一所有平台的Edge代码库；大学教授向Linux提交漏洞代码致学校被拉黑；苹果M1版Mac的销](https://www.ershicimi.com/p/56be00c860ff77b83518590ecee6f20b) 
 - [2021-04-08-一名合格的前端工程师需要掌握的浏览器渲染笔记](https://www.ershicimi.com/p/b37c42536333398c3047a0473a4bc76b) 
 - [2021-03-09-那些与-IE-相伴的日子](https://www.ershicimi.com/p/d9c911d3c0835bf8f9743b70add1478c) 
@@ -38,11 +39,11 @@
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2021-05-02-Chrome-如何禁用“添加书签”？想点击-★-一下就可以实现添加阅读清单](https://www.v2ex.com/t/774679) 
 - [2021-05-02-安全高效跨平台的.-NET-模板引擎-Fluid-使用文档](https://www.v2ex.com/t/774675) 
 - [2021-05-02-如何解决黑苹果中浏览器的滑动掉帧问题](https://www.v2ex.com/t/774658) 
 - [2021-05-02-Python-请求的-requests.get-数据包内容突然变乱码](https://www.v2ex.com/t/774655) 
 - [2021-05-02-.net-core-web-api-service.AddSession-自动添加的那个-cookie-是啥](https://www.v2ex.com/t/774631) 
-- [2021-05-02-Edge-浏览器怎么控制单个插件的同步？](https://www.v2ex.com/t/774630) 
 - [2021-05-02-深入理解-HTTP-缓存机制](https://toutiao.io/k/5jnd1a6) 
 - [2021-05-02-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) 
 - [2021-05-02-网络安全编程:编写CrackMe程序](https://sec.thief.one/article_content?a_id=d584ec2a58d40aad1323da971af5d38d) 

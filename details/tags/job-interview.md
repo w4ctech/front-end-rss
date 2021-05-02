@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 13:30:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 13:45:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -15,7 +15,6 @@
 - [2021-04-21-【招聘】深圳阿卡索外教网招高级前端开发工程师](https://www.ershicimi.com/p/1ce358a1f02cbe784dd909436ed5d5b6) 
 - [2021-04-29-设计灵感：12组招聘求职类App界面设计](https://www.ershicimi.com/p/1c9f22e125d3e790694f4c734c76e629) 
 - [2021-04-28-设计灵感：12组招聘求职类App界面设计](https://www.ershicimi.com/p/1068a22d00ceec47986c3f402f705238) 
-- [2021-04-25-2021-大厂面试高频-100-题最新汇总（附答案详解）](https://www.ershicimi.com/p/819cee3e64a99422b46b89a73b40da21) 
 - [2021-04-26-重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/53d9bea9cdd8c618c1c9ffa20f5bd3c2) 
 - [2021-04-19-普通前端人的金三银四：7天，6厂面试，5个offer](https://www.ershicimi.com/p/91b1fce1b53eaca5599cacf0168a070a) 
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 

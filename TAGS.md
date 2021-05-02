@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-02 13:30:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 13:45:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -111,7 +111,6 @@
 
 
 
-- [【前端大全】10个写TypeScript代码的坏习惯](https://www.ershicimi.com/p/7ee7d2eba9ae29e7436132f8c87e2afc)
 - [【前端之巅】TypeScript-因为什么特性成为了你的“刚需”？|-极客时间](https://www.ershicimi.com/p/2688e18a2f3603621be20590593671f0)
 - [【政采云前端团队】编写高质量可维护的代码：Awesome-TypeScript](https://www.ershicimi.com/p/0e0e4e00548bd0c316732a2a25594a04)
 - [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
@@ -135,6 +134,7 @@
 - [【Vue中文社区】当面试官问Webpack的时候他想知道什么](https://www.ershicimi.com/p/97d4ca815ea6ec7a592b4cbc3d5b8aad)
 - [【React中文社区】一文掌握Webpack编译流程](https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6)
 - [【前端早读课】【第2258期】新一代构建工具对比](https://www.ershicimi.com/p/f615ac506625b9ce04ad31a89c055a02)
+- [【前端大全】项目实战-Webpack-to-Vite，-为开发提速！](https://www.ershicimi.com/p/b2c44d458abd6573adc801968db7edf3)
 - [【前端大全】让我告诉你一些强无敌的-NPM-软件包](https://www.ershicimi.com/p/be22088b65ad4a5b4408379f93828bd7)
 - [【前端开发博客】webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320)
 - [【全栈前端精选】面向未来的前端构建工具---Vite-原理分析](https://www.ershicimi.com/p/07cc4238b97ed29773ab98a2259b0206)
@@ -526,7 +526,6 @@
 - [【前端早读课】【招聘】深圳阿卡索外教网招高级前端开发工程师](https://www.ershicimi.com/p/1ce358a1f02cbe784dd909436ed5d5b6)
 - [【前端大全】设计灵感：12组招聘求职类App界面设计](https://www.ershicimi.com/p/1c9f22e125d3e790694f4c734c76e629)
 - [【前端大全】设计灵感：12组招聘求职类App界面设计](https://www.ershicimi.com/p/1068a22d00ceec47986c3f402f705238)
-- [【前端大全】2021-大厂面试高频-100-题最新汇总（附答案详解）](https://www.ershicimi.com/p/819cee3e64a99422b46b89a73b40da21)
 - [【前端大学】重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/53d9bea9cdd8c618c1c9ffa20f5bd3c2)
 - [【前端大学】普通前端人的金三银四：7天，6厂面试，5个offer](https://www.ershicimi.com/p/91b1fce1b53eaca5599cacf0168a070a)
 - [【前端外刊评论】美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665)
@@ -538,6 +537,7 @@
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【互联网架构师】虎牙面试官：String长度有限制吗？是多少？我：这太...](https://www.ershicimi.com/p/9296c77fed825a73929d16b70c299578)
 - [【互联网架构师】36-岁程序员应聘被公司领导直接拒绝；B-站面试官回应北邮校招中的不当言论](https://www.ershicimi.com/p/0430d33a8a2d484b90e3adebef3ead1f)
+- [【互联网架构师】面试4轮字节Java研发岗，最终拿下Offer（原题复盘）](https://www.ershicimi.com/p/6ec6bc00e49a06f9f9a0702c3ba09981)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

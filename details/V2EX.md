@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-05-01 23:59:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 00:34:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-02-开发文档离线浏览工具-iDocSet-8.0.3-上线，已支持最新-Xcode-12.5-内置的苹果开发文档了](https://www.v2ex.com/t/774590) 
+- [2021-05-02-哈哈，发现一个很可爱的猫猫网页特效](https://www.v2ex.com/t/774589) 
+- [2021-05-02-Windows-上面的-iTunes-音乐播放无法投射到-HomePod-Mini？](https://www.v2ex.com/t/774588) 
+- [2021-05-02-做了一个-Magsafe-支架](https://www.v2ex.com/t/774587) 
 - [2021-05-01-求推荐免费-IP/域名-WHOIS-信息查询-API](https://www.v2ex.com/t/774586) 
 - [2021-05-01-有人给-Google-提了一个-feature-request-希望解决一直以来-Android-CJK-的字重问题](https://www.v2ex.com/t/774585) 
 - [2021-05-01-iconfont-挂了？](https://www.v2ex.com/t/774584) 
@@ -39,7 +43,3 @@
 - [2021-05-01-Airtag-放车里不好用](https://www.v2ex.com/t/774545) 
 - [2021-05-01-请教下各位老哥，关于-feedly-修改登录邮箱的正确姿势](https://www.v2ex.com/t/774543) 
 - [2021-05-01-趣味几何问题：如何把一个球体的里面翻到外面](https://www.v2ex.com/t/774542) 
-- [2021-05-01-显卡会不会采用摇号的方式来出售呢？](https://www.v2ex.com/t/774540) 
-- [2021-05-01-Mac-App-删除-com.apple.quarantine-与-codesign-覆盖签名的区别？](https://www.v2ex.com/t/774539) 
-- [2021-05-01-像这个神奇的双语对照翻译网站是怎么实现的](https://www.v2ex.com/t/774538) 
-- [2021-05-01-开源-不知不觉就用了盗版，-V-File-Name-终于支持-7Z-了](https://www.v2ex.com/t/774537) 

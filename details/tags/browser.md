@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 12:14:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 12:49:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,7 @@
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2021-05-02-安全高效跨平台的.-NET-模板引擎-Fluid-使用文档](https://www.v2ex.com/t/774675) 
 - [2021-05-02-如何解决黑苹果中浏览器的滑动掉帧问题](https://www.v2ex.com/t/774658) 
 - [2021-05-02-Python-请求的-requests.get-数据包内容突然变乱码](https://www.v2ex.com/t/774655) 
 - [2021-05-02-.net-core-web-api-service.AddSession-自动添加的那个-cookie-是啥](https://www.v2ex.com/t/774631) 

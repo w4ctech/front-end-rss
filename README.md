@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-02 12:14:14，:rocket: 更新条数: +4296， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-02 12:49:36，:rocket: 更新条数: +4296， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,15 @@
 </summary>
 
 
+- [2021-05-02-联通上海现在访问日韩地址经骨干网会走一趟银川-大家有没有这种现象](https://www.v2ex.com/t/774676) ![](assets/new.png)  
+- [2021-05-02-安全高效跨平台的.-NET-模板引擎-Fluid-使用文档](https://www.v2ex.com/t/774675) ![](assets/new.png)  
+- [2021-05-02-北京中关村/远程TensorBase开源数据仓库等一群人，做一件事](https://www.v2ex.com/t/774674) ![](assets/new.png)  
+- [2021-05-02-MAC-有什么下-BT-的软件吗，迅雷开了会员速度也跑不满-而且有好多直接没速度](https://www.v2ex.com/t/774673) ![](assets/new.png)  
+- [2021-05-02-注册迅雷还能绕开手机号码吗](https://www.v2ex.com/t/774672) ![](assets/new.png)  
+- [2021-05-02-为什么说翻新-MacBook-是修过的？](https://www.v2ex.com/t/774671) ![](assets/new.png)  
+- [2021-05-02-M1-下优秀-iOS/iPadOS-app-推荐贴](https://www.v2ex.com/t/774670) ![](assets/new.png)  
+- [2021-05-02-雷霆游戏登录服务挂了](https://www.v2ex.com/t/774669) ![](assets/new.png)  
+- [2021-05-02-工作十年，收入终于突破-1-狗了。我怕随着我技术越来越厉害，会不会越来越少公司能请得起我。](https://www.v2ex.com/t/774667) ![](assets/new.png)  
 - [2021-05-02-不懂就问，前端通过一个文字来生成头像，如-gitlab-默认头像，如何实现](https://www.v2ex.com/t/774665) ![](assets/new.png)  
 - [2021-05-02-大佬们，求推荐哪里买台式机整机比较好？](https://www.v2ex.com/t/774664) ![](assets/new.png)  
 - [2021-05-02-Apple-TV-用作家庭中枢是否会改善-HomeKit-响应延迟？](https://www.v2ex.com/t/774663) ![](assets/new.png)  
@@ -1027,15 +1036,6 @@
 - [2021-05-02-Python-请求的-requests.get-数据包内容突然变乱码](https://www.v2ex.com/t/774655) ![](assets/new.png)  
 - [2021-05-02-关于-https-双向认证的细节](https://www.v2ex.com/t/774653) ![](assets/new.png)  
 - [2021-05-02-Obsidian-的-Internal/Back-Link-与-Graph-功能使用上是否有些不符合逻辑（或者说比较难用）？](https://www.v2ex.com/t/774652) ![](assets/new.png)  
-- [2021-05-02-问问懂的大佬这支可能是啥镜头](https://www.v2ex.com/t/774651) ![](assets/new.png)  
-- [2021-05-02-百度搜了下居然没有，“兜底”这个词怎么用英文表达？我想弄个兜底-Servlet，对所有没有-mapping-的-request-uri-自己处理，这个兜底你会翻译成啥？](https://www.v2ex.com/t/774649) ![](assets/new.png)  
-- [2021-05-02-迫于整理相册图片，-Windows-批量查看图片大小、尺寸的软件有啥好推荐？开源好用的有吗？](https://www.v2ex.com/t/774647) ![](assets/new.png)  
-- [2021-05-02-法国游戏软件公司招聘多名技术岗位---On-site-or-Fully-remote](https://www.v2ex.com/t/774646) ![](assets/new.png)  
-- [2021-05-02-自己撸了个护眼提醒-App（EyeGuard），送一波福利](https://www.v2ex.com/t/774644) ![](assets/new.png)  
-- [2021-05-02-Rocky-Linux-8.3-RC1-今天发布了，大家怎么看](https://www.v2ex.com/t/774643) ![](assets/new.png)  
-- [2021-05-02-除了友盟还有没有其他的-app，友盟好像功能有点少](https://www.v2ex.com/t/774640) ![](assets/new.png)  
-- [2021-05-02-有关于字节缓冲区操作的工具类么？](https://www.v2ex.com/t/774638) ![](assets/new.png)  
-- [2021-05-02-法国公司招聘-Developper-Web-Back-end-PHP-/LARAVEL](https://www.v2ex.com/t/774636) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-05-02-携程火车票-Flutter-最佳实践](https://toutiao.io/k/2p2dqp5) ![](assets/new.png)  
 - [2021-05-02-大型前端项目架构优化探索之路之腾讯文档表格](https://toutiao.io/k/pft9nfv) ![](assets/new.png)  
 - [2021-05-02-2021-CocoaPods-新手进阶指南之仓库源](https://toutiao.io/k/urflygs) ![](assets/new.png)  
+- [2021-05-02-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
 - [2021-05-02-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-02-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-02-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [2021-05-02-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-02-推荐-面向-K8s-设计误区](https://toutiao.io/k/iebk207) ![](assets/new.png)  
+- [2021-05-02-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
 - [2021-05-02-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
 - [2021-05-02-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
-- [2021-05-02-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-02-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-05-02-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-02-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-05-02-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-02-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-02-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 12:14:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 12:49:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -31,5 +31,4 @@
 - [2021-04-22-重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/2dd643e87f8415ea43cd71fae653209b) 
 - [2021-05-02-非科班程序员面试被三连问](https://www.v2ex.com/t/774659) 
 - [2021-05-02-法国公司招聘-Developper-Web-Back-end-PHP-/LARAVEL](https://www.v2ex.com/t/774636) 
-- [2021-05-02-腾讯金融团队招聘专场（理财通、企业金融、跨境金融、虚拟银行、平台研发等），诚招前端开发/-Java-开发/C++开发/DBA/SRE-运维等，欢迎投递简历！](https://www.v2ex.com/t/774626) 
 - [2021-05-02-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) 

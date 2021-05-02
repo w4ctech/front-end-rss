@@ -1,15 +1,15 @@
-:alarm_clock: 更新时间: 2021-05-02 11:50:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-02 12:09:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-02-不懂就问，前端通过一个文字来生成头像，如-gitlab-默认头像，如何实现](https://www.v2ex.com/t/774665) 
 - [2021-05-02-大佬们，求推荐哪里买台式机整机比较好？](https://www.v2ex.com/t/774664) 
 - [2021-05-02-Apple-TV-用作家庭中枢是否会改善-HomeKit-响应延迟？](https://www.v2ex.com/t/774663) 
 - [2021-05-02-iPad-Pro-11-寸-or12.9-寸，大家是怎么取舍的。](https://www.v2ex.com/t/774662) 
 - [2021-05-02-有没有类似-airtable-的开源版本可用](https://www.v2ex.com/t/774661) 
-- [2021-05-02-继修电脑后，做生日-PPT-也成为一项必备技能？](https://www.v2ex.com/t/774660) 
 - [2021-05-02-非科班程序员面试被三连问](https://www.v2ex.com/t/774659) 
 - [2021-05-02-如何解决黑苹果中浏览器的滑动掉帧问题](https://www.v2ex.com/t/774658) 
 - [2021-05-02-JavaScript-中到底加不加分号？](https://www.v2ex.com/t/774657) 
@@ -43,5 +43,3 @@
 - [2021-05-02-我觉得我思路错了，我不幻想-macos-上-m1-iPad-pro-了！](https://www.v2ex.com/t/774619) 
 - [2021-05-02-使用-logseq-实现-OKR（目标管理）、GTD（时间管理）与-Note（笔记管理）](https://www.v2ex.com/t/774618) 
 - [2021-05-02-遇到个难道，图像识别颜色，然后返回识别对应颜色的别称](https://www.v2ex.com/t/774617) 
-- [2021-05-02-air-tag-使用需要开启双重认证吗](https://www.v2ex.com/t/774616) 
-- [2021-05-02-在-SpringBoot-中如何像-PHP-一样能够在-Web-页面配置数据库信息完成软件的安装过程呢？](https://www.v2ex.com/t/774615) 

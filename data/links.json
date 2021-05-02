@@ -20726,6 +20726,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "不懂就问，前端通过一个文字来生成头像，如 gitlab 默认头像，如何实现",
+        "link": "https://www.v2ex.com/t/774665",
+        "date": "2021-05-02"
+      },
+      {
         "title": "大佬们，求推荐哪里买台式机整机比较好？",
         "link": "https://www.v2ex.com/t/774664",
         "date": "2021-05-02"
@@ -20743,11 +20748,6 @@
       {
         "title": "有没有类似 airtable 的开源版本可用",
         "link": "https://www.v2ex.com/t/774661",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "继修电脑后，做生日 PPT 也成为一项必备技能？",
-        "link": "https://www.v2ex.com/t/774660",
         "date": "2021-05-02"
       },
       {
@@ -20913,16 +20913,6 @@
       {
         "title": "遇到个难道，图像识别颜色，然后返回识别对应颜色的别称",
         "link": "https://www.v2ex.com/t/774617",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "air tag 使用需要开启双重认证吗",
-        "link": "https://www.v2ex.com/t/774616",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "在 SpringBoot 中如何像 PHP 一样能够在 Web 页面配置数据库信息完成软件的安装过程呢？",
-        "link": "https://www.v2ex.com/t/774615",
         "date": "2021-05-02"
       }
     ]
@@ -21090,31 +21080,6 @@
         "date": "2021-05-02"
       },
       {
-        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
-        "link": "https://toutiao.io/k/90vs9kg",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
-        "link": "https://toutiao.io/k/0iue4f4",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
-        "link": "https://toutiao.io/k/08uadl6",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "[推荐] 一文搞懂分布式锁的原理与实现",
-        "link": "https://toutiao.io/k/j7fdh6h",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "[推荐] 这 11 款 Chrome 神器，用起来爽到爆",
-        "link": "https://toutiao.io/k/czntgsa",
-        "date": "2021-05-02"
-      },
-      {
         "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
         "link": "https://toutiao.io/k/2aonyjp",
         "date": "2021-05-02"
@@ -21130,6 +21095,21 @@
         "date": "2021-05-02"
       },
       {
+        "title": "[推荐] 面向 K8s 设计误区",
+        "link": "https://toutiao.io/k/iebk207",
+        "date": "2021-05-02"
+      },
+      {
+        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
+        "link": "https://toutiao.io/k/90vs9kg",
+        "date": "2021-05-02"
+      },
+      {
+        "title": "[推荐] 如何设计一个高性能的秒杀系统",
+        "link": "https://toutiao.io/k/6z3uu2m",
+        "date": "2021-05-02"
+      },
+      {
         "title": "[推荐] 协程切换会引起什么问题",
         "link": "https://toutiao.io/k/xkhaihd",
         "date": "2021-05-02"
@@ -21140,18 +21120,28 @@
         "date": "2021-05-02"
       },
       {
-        "title": "[推荐] 面向 K8s 设计误区",
-        "link": "https://toutiao.io/k/iebk207",
-        "date": "2021-05-02"
-      },
-      {
-        "title": "[推荐] 如何设计一个高性能的秒杀系统",
-        "link": "https://toutiao.io/k/6z3uu2m",
-        "date": "2021-05-02"
-      },
-      {
         "title": "[推荐] 用户画像的基础、原理、方法论（模型）和应用",
         "link": "https://toutiao.io/k/nrdp4oq",
+        "date": "2021-05-02"
+      },
+      {
+        "title": "[推荐] 一文搞懂分布式锁的原理与实现",
+        "link": "https://toutiao.io/k/j7fdh6h",
+        "date": "2021-05-02"
+      },
+      {
+        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
+        "link": "https://toutiao.io/k/0iue4f4",
+        "date": "2021-05-02"
+      },
+      {
+        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
+        "link": "https://toutiao.io/k/08uadl6",
+        "date": "2021-05-02"
+      },
+      {
+        "title": "[推荐] 这 11 款 Chrome 神器，用起来爽到爆",
+        "link": "https://toutiao.io/k/czntgsa",
         "date": "2021-05-02"
       }
     ]

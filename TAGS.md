@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-03 13:47:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-03 14:07:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -335,7 +335,6 @@
 - [【前端早读课】【第2267期】如何1人5天开发完3D数据可视化大屏之三](https://www.ershicimi.com/p/60e56786a555d4cef3993314fae483b8)
 - [【前端迷】带你走进-SVG-世界，成为-SVG-头号玩家](https://www.ershicimi.com/p/6cff3f0bfcfa0bdf5f565791f0591de8)
 - [【程序员成长指北】File、Blob、dataURL-和-canvas-的应用与转换](https://www.ershicimi.com/p/b819d97eb023fd2ceaecf39f258940bd)
-- [【V2EX】上海静安-招精通-Canvas/SVG-的前端开发。（全职/兼职/实习）](https://www.v2ex.com/t/774731)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

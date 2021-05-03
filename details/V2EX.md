@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-05-03 06:53:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-03 07:04:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-03-2021-年了，-BGP-的选择不考虑国际出口的话，国内互联影响到底有多大？](https://www.v2ex.com/t/774739) 
 - [2021-05-03-macOS-11.3-支持-AirPlay-Homepod-组合输出](https://www.v2ex.com/t/774738) 
 - [2021-05-03-请问大神们，-vuejs-从-vue.common.dev.js-换到-vue.common.js-后，为何网页出现问题](https://www.v2ex.com/t/774737) 
 - [2021-05-03-600M-带宽需要什么级别的路由器能跑满？](https://www.v2ex.com/t/774736) 
@@ -37,4 +38,3 @@
 - [2021-05-02-看了剧感觉很难受，是不是有心理疾病，需要看医生？](https://www.v2ex.com/t/774693) 
 - [2021-05-02-如何构建体系化的买房知识](https://www.v2ex.com/t/774691) 
 - [2021-05-02-offgamers-的-iTunes-卡靠谱吗，是不是黑卡有没有充值过很长时间的兄弟知道。-我买了几张用了，现在有点后怕。。。](https://www.v2ex.com/t/774690) 
-- [2021-05-02-Windows-里相当于-Little-Snitch-和-Karabiner-的软件是啥？](https://www.v2ex.com/t/774689) 

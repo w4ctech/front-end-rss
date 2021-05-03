@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-03 16:00:56，:rocket: 更新条数: +4274， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-03 16:18:35，:rocket: 更新条数: +4296， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 - [物联网智库](#物联网智库)![](assets/dot.png)   
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-05-03-请教-stl-中-unordered_set-使用问题](https://www.v2ex.com/t/774797) ![](assets/new.png)  
+- [2021-05-03-在龙岗上班，想买个惠州南站附近的房子。求大佬们给点指导...](https://www.v2ex.com/t/774796) ![](assets/new.png)  
+- [2021-05-03-使用-NLP-从书中提取各个角色的台词](https://www.v2ex.com/t/774795) ![](assets/new.png)  
 - [2021-05-03-Mozilla/5.0-Windows-NT-6.2;-rv:30.0-Gecko/20150101-Firefox/32.0-360Spider???](https://www.v2ex.com/t/774793) ![](assets/new.png)  
 - [2021-05-03-安卓短信同步方案推荐？](https://www.v2ex.com/t/774792) ![](assets/new.png)  
 - [2021-05-03-iMac2019-内存占用爆炸,-64G-也扛不住!](https://www.v2ex.com/t/774791) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-05-03-请问，这种情况如何再去找到相邻-DOM-节点？](https://www.v2ex.com/t/774774) ![](assets/new.png)  
 - [2021-05-03-iOS-微信聊天记录导出-修改版微商版貌似不行](https://www.v2ex.com/t/774772) ![](assets/new.png)  
 - [2021-05-03-众口难调:-有没有大佬知道新版-Windows-10-如何让屏幕亮度在电池和插电时不一样](https://www.v2ex.com/t/774771) ![](assets/new.png)  
-- [2021-05-03-移动真就强中强呗，光猫开了-dmz-照样没用](https://www.v2ex.com/t/774770) ![](assets/new.png)  
-- [2021-05-03-开源-一个测试驱动文档的生成器](https://www.v2ex.com/t/774769) ![](assets/new.png)  
-- [2021-05-03-请问这两个图片替换网站的原理，是否有类似开源项目](https://www.v2ex.com/t/774767) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,6 +1047,26 @@
 </summary>
 
 
+- [2021-05-03-谷歌最强的-Android-UI-工具包霸榜-GitHub，这份上手指南了解一下？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14335&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBxF5Hfdp4GUFlRkeCxwdmg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-谷歌宣布-Android-加入对-Rust-的支持-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14334&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDb2NrYKhp0yF9Gonpd7xtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-产品需求：Android-截屏分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14333&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9iVTGaU9xJwlig6DV-mcpA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-适配-AndroidQ，不能后台启动-Activity-限制-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14332&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FswMzgiMg6Ff0p8ySchXhrA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-Windows10全新界面来了：焕然一新！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14331&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489742%26amp%3Bidx%3D2%26amp%3Bsn%3D24dec1cf4bae450674ec12147128f7fe%26amp%3Bchksm%3Dfa3cf995cd4b7083030ce77726a2e30ed872cf034d390960dc76679f9ab712f0e2ebe5f741cb%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-微信第1行代码曝光！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14330&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489732%26amp%3Bidx%3D1%26amp%3Bsn%3Df1ab4e1f528352333639a1e1c267ec7f%26amp%3Bchksm%3Dfa3cf99fcd4b7089af072a9f4708bd617b1792359a87b1e3d69f12efb9a76eadc6f660400d1f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-如何快速提升FlutterApp中的动画性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14329&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489732%26amp%3Bidx%3D2%26amp%3Bsn%3Dfc5eccb9be3c542a7bdda300db3a4cd9%26amp%3Bchksm%3Dfa3cf99fcd4b70893220e486c5c5887bf285d729f77ba1da53079824cdf8eb496df9e48442a3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-一晚上，搞出来一个微信订阅号鉴黄机器人-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14328&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489689%26amp%3Bidx%3D1%26amp%3Bsn%3Dec79ba9fce020e3b86ecbf1c9db47a9d%26amp%3Bchksm%3Dfa3cf9c2cd4b70d4e81a33f6cf117543c9bc9ea11c824928abde63aadd37cff661095772433e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-你们猜猜，哪个省的女生最爱丰胸？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14327&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489641%26amp%3Bidx%3D1%26amp%3Bsn%3Db486e38c0e2960c38648a68442217e9b%26amp%3Bchksm%3Dfa3cf932cd4b7024aba03d96ad0dd92741220a3d0922d05378de11897921a212acbfcbfb593e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-专注力对程序员来说意味着什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14326&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489641%26amp%3Bidx%3D2%26amp%3Bsn%3Daf86e71c798f1c66dadc0cdfb851849b%26amp%3Bchksm%3Dfa3cf932cd4b7024bd857cb1138c7ea02780564ab4fbc384a3e7ecac780e5b7d41a2de193e8c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-你已经用上-5G-网络了吗？-www.upyun.com](https://blogread.cn/news/go.php?idItem=14325&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F632%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-关于「教育」问题，一段「有趣」的对话-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14324&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F34%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-优质网站同好者周刊（第-10-期）--倾城之链-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14323&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F35-10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-2021-快应用「广告」接入教程-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14322&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F37-2021%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-广告投放中，常见合作模式梳理-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14321&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F38%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-震惊，高中少年与-CDN-的不解之缘-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14320&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F366233498%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-告别DNS劫持，一文读懂DoH-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14319&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F365093156%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-快速构建Ceph集群-sunqi.me](https://blogread.cn/news/go.php?idItem=14318&url=http%3A%2F%2Fsunqi.me%2F2020%2F09%2F12%2F%25E5%25BF%25AB%25E9%2580%259F%25E6%259E%2584%25E5%25BB%25BACeph%25E9%259B%2586%25E7%25BE%25A4%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-Git新命令switch和restore-yanhaijing.com](https://blogread.cn/news/go.php?idItem=14317&url=http%3A%2F%2Fyanhaijing.com%2Fgit%2F2020%2F09%2F17%2Fgit-switch-and-restore%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-03-前端架构演进---从单体到微前端（理论篇）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14316&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FeNC69rNqSR8XtXDmw66bVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1088,16 @@
 - [2021-05-03-被拉进一个刷单群，赚了-75-元：就真的只是刷单吗？](https://toutiao.io/k/gil680k) ![](assets/new.png)  
 - [2021-05-03-Kotlin-内建代理](https://toutiao.io/k/bbseaei) ![](assets/new.png)  
 - [2021-05-03-如何从广度与深度衡量打包工具的好坏](https://toutiao.io/k/ncs1rgp) ![](assets/new.png)  
+- [2021-05-03-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
 - [2021-05-03-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-05-03-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-03-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-03-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
-- [2021-05-03-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-03-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
-- [2021-05-03-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-03-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
-- [2021-05-03-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
 - [2021-05-03-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-03-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-03-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-05-03-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
+- [2021-05-03-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-03-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-03-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
+- [2021-05-03-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

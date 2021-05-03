@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-03 07:15:56，:rocket: 更新条数: +4290， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-03 07:36:12，:rocket: 更新条数: +4292， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,8 @@
 </summary>
 
 
+- [2021-05-02-北京｜无新增](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJufsmAc28Aek0wRFWKdL210503&isfromapp=1) ![](assets/new.png)  
+- [2021-05-02-全国｜新增确诊病例-11-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC87PM7SQARsPlGdCnnOJ210503&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1014,6 +1016,8 @@
 </summary>
 
 
+- [2021-05-03-Typecho-主题“simplifier”全站静态缓存版本](https://www.v2ex.com/t/774741) ![](assets/new.png)  
+- [2021-05-03-Windows-下有无可以正常读写加密-APFS-文件系统的工具](https://www.v2ex.com/t/774740) ![](assets/new.png)  
 - [2021-05-03-2021-年了，-BGP-的选择不考虑国际出口的话，国内互联影响到底有多大？](https://www.v2ex.com/t/774739) ![](assets/new.png)  
 - [2021-05-03-macOS-11.3-支持-AirPlay-Homepod-组合输出](https://www.v2ex.com/t/774738) ![](assets/new.png)  
 - [2021-05-03-请问大神们，-vuejs-从-vue.common.dev.js-换到-vue.common.js-后，为何网页出现问题](https://www.v2ex.com/t/774737) ![](assets/new.png)  
@@ -1032,8 +1036,6 @@
 - [2021-05-03-SpringMVC-有没有办法把-PageNotFound-:-No-mapping-for-GET-的日志从-WARN-级别调整为-DEBUG？](https://www.v2ex.com/t/774716) ![](assets/new.png)  
 - [2021-05-03-木兰语言-0.0.17.2-实现简易网页浏览器，又一次碰到语法歧义](https://www.v2ex.com/t/774715) ![](assets/new.png)  
 - [2021-05-03-高频题面试经典题目--灯泡问题](https://www.v2ex.com/t/774713) ![](assets/new.png)  
-- [2021-05-03-断流，想赢一把游戏真难](https://www.v2ex.com/t/774712) ![](assets/new.png)  
-- [2021-05-03-第三方网站接入-QQ-登录的疑问](https://www.v2ex.com/t/774711) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1082,20 +1084,20 @@
 - [2021-05-03-如何借助-Proxy-代理，提升架构扩展性](https://toutiao.io/k/b6wvgvt) ![](assets/new.png)  
 - [2021-05-03-Java-双刃剑之-Unsafe-类详解](https://toutiao.io/k/z7fag7p) ![](assets/new.png)  
 - [2021-05-03-人工和自然](https://toutiao.io/k/kjh5lwh) ![](assets/new.png)  
-- [2021-05-03-简单聊一聊-MQTT](https://toutiao.io/k/gvwrofa) ![](assets/new.png)  
 - [2021-05-03-被拉进一个刷单群，赚了-75-元：就真的只是刷单吗？](https://toutiao.io/k/gil680k) ![](assets/new.png)  
+- [2021-05-03-简单聊一聊-MQTT](https://toutiao.io/k/gvwrofa) ![](assets/new.png)  
 - [2021-05-03-Kotlin-内建代理](https://toutiao.io/k/bbseaei) ![](assets/new.png)  
 - [2021-05-03-如何从广度与深度衡量打包工具的好坏](https://toutiao.io/k/ncs1rgp) ![](assets/new.png)  
-- [2021-05-03-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-03-推荐-这-11-款-Chrome-神器，用起来爽到爆](https://toutiao.io/k/czntgsa) ![](assets/new.png)  
+- [2021-05-03-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
 - [2021-05-03-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-03-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-03-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-05-03-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-03-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
 - [2021-05-03-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
 - [2021-05-03-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-03-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-03-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-03-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
 - [2021-05-03-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-05-03-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-03-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

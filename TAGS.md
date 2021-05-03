@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-03 05:47:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-03 05:54:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -136,6 +136,8 @@
 - [【前端大全】项目实战-Webpack-to-Vite，-为开发提速！](https://www.ershicimi.com/p/b2c44d458abd6573adc801968db7edf3)
 - [【前端大全】让我告诉你一些强无敌的-NPM-软件包](https://www.ershicimi.com/p/be22088b65ad4a5b4408379f93828bd7)
 - [【前端开发博客】webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320)
+- [【全栈前端精选】你要知道的-Npm-Script-都在这里](https://www.ershicimi.com/p/9c18d7316e7dce50fb8286f2a1d6eb87)
+- [【全栈前端精选】回顾-babel-6和7，来预测下-babel-8](https://www.ershicimi.com/p/0fd0a49dbcbe2fedf04722648393bf48)
 - [【全栈前端精选】面向未来的前端构建工具---Vite-原理分析](https://www.ershicimi.com/p/07cc4238b97ed29773ab98a2259b0206)
 - [【全栈前端精选】现代前端工程化-彻底搞懂基于-Monorepo-的-lerna-模块从原理到实战](https://www.ershicimi.com/p/aa316ff1fab153e9e2dc1245cd537823)
 - [【程序员成长指北】Webpack面试题](https://www.ershicimi.com/p/617a09bd4f8884461a6852cd3e8f25ee)

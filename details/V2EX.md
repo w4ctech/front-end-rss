@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-05-04 12:11:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 12:48:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-04-想去北京工作了。请问在北京租房的朋友，都是啥价位呀？-1500-能租到什么样的房子？](https://www.v2ex.com/t/774895) 
+- [2021-05-04-请教下有-HomePod-Mini-的朋友几个问题，谢谢](https://www.v2ex.com/t/774894) 
+- [2021-05-04-我从-centos8.3-迁移到-AlmaLinux-8.3-安装宝塔一切正常](https://www.v2ex.com/t/774893) 
 - [2021-05-04-现在-2015-款-MBP-还能出多少？](https://www.v2ex.com/t/774891) 
 - [2021-05-04-自己“洗”空调](https://www.v2ex.com/t/774889) 
 - [2021-05-04-开个-apple-one-的车](https://www.v2ex.com/t/774887) 
@@ -39,6 +42,3 @@
 - [2021-05-04-请教有没有流行的开源第三方支付系统解决方案](https://www.v2ex.com/t/774850) 
 - [2021-05-04-8p-微信无法发送语音？](https://www.v2ex.com/t/774849) 
 - [2021-05-04-探索使用-Golang-和-Webassembly-构建一个多人游戏服务器](https://www.v2ex.com/t/774847) 
-- [2021-05-04-大疆购机优惠渠道有哪些呢？](https://www.v2ex.com/t/774846) 
-- [2021-05-04-Python--sql-这个库有大佬用过的吗，-tupleselect-解析-sql-巨慢,一条普通-sql-解析要-1s](https://www.v2ex.com/t/774845) 
-- [2021-05-04-上海/远程-Mask-Network-多岗位招聘启事](https://www.v2ex.com/t/774843) 

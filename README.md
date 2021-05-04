@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-04 23:09:12，:rocket: 更新条数: +732， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-04 23:35:15，:rocket: 更新条数: +4298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-05-04-最新疫情：全国新冠累计确诊90714例-累计接种新冠疫苗近2.8亿剂次](https://m.caixin.com/m/2021-05-04/101705328.html) ![](assets/new.png)  
+- [2021-05-04-国药北京所新冠疫苗部分数据披露-老年人保护率等被指证据不足](https://m.caixin.com/m/2021-05-04/101705407.html) ![](assets/new.png)  
+- [2021-05-04-最新海外疫情：新冠感染超1.53亿-累计死亡超320万](https://m.caixin.com/m/2021-05-04/101705331.html) ![](assets/new.png)  
+- [2021-05-04-【境内疫情观察】全国新增17例境外输入病例（5月3日）](http://m.database.caixin.com/m/2021-05-04/101705307.html) ![](assets/new.png)  
+- [2021-05-04-欧盟建议放宽国际旅行限制-丹麦停用强生疫苗-|-大流行手记（5月3日）](https://m.caixin.com/m/2021-05-04/101705293.html) ![](assets/new.png)  
+- [2021-05-03-【境内疫情观察】全国现有确诊病例323例（5月2日）](http://m.database.caixin.com/m/2021-05-03/101705195.html) ![](assets/new.png)  
+- [2021-05-03-福奇建议印度全国封锁-英酝酿9月为12岁以上学童接种｜大流行手记（5月2日）](https://m.caixin.com/m/2021-05-03/101705171.html) ![](assets/new.png)  
+- [2021-05-02-【境内疫情观察】全国新增15例境外输入病例（5月1日）](http://m.database.caixin.com/m/2021-05-02/101705102.html) ![](assets/new.png)  
+- [2021-05-02-印度单日新增超40万例-巴西疫情缓解｜大流行手记（5月1日）](https://m.caixin.com/m/2021-05-02/101705089.html) ![](assets/new.png)  
+- [2021-05-01-美国对印度发布旅行禁令-5月4日起限制人员从印度入境](http://m.international.caixin.com/m/2021-05-01/101704855.html) ![](assets/new.png)  
+- [2021-05-01-【境内疫情观察】全国新增16例境外输入病例（4月30日）](http://m.database.caixin.com/m/2021-05-01/101704949.html) ![](assets/new.png)  
+- [2021-05-01-东京奥运会拟闭门比赛-法国5月19日起逐步解封｜大流行手记（4月30日）](https://m.caixin.com/m/2021-05-01/101704798.html) ![](assets/new.png)  
+- [2021-04-30-中国报告多个印度输入新冠病例-双突变病毒影响待观察](https://m.caixin.com/m/2021-04-30/101704332.html) ![](assets/new.png)  
+- [2021-04-30-双重变种病毒流入香港社区-确诊菲佣感染10个月女婴](https://m.caixin.com/m/2021-04-30/101704317.html) ![](assets/new.png)  
+- [2021-04-30-双重变种病毒突现社区-港府紧急宣布37万外佣强制检测](https://m.caixin.com/m/2021-04-30/101704731.html) ![](assets/new.png)  
+- [2021-04-30-【境内疫情观察】全国疫情高风险区域清零（4月29日）](http://m.database.caixin.com/m/2021-04-30/101704361.html) ![](assets/new.png)  
+- [2021-04-30-美国筹备新冠疫苗加强针-巴西孕产期女性纳入优先接种｜大流行手记（4月29日）](https://m.caixin.com/m/2021-04-30/101704102.html) ![](assets/new.png)  
+- [2021-04-29-BioNTech创始人称其mRNA新冠疫苗或将于7月前在中国获批](https://m.caixin.com/m/2021-04-29/101701767.html) ![](assets/new.png)  
+- [2021-04-29-【境内疫情观察】浙江新增11例境外输入病例（4月28日）](http://m.database.caixin.com/m/2021-04-29/101701966.html) ![](assets/new.png)  
+- [2021-04-29-英国拟推新冠疫苗护照-至少17国发现印度变种病毒｜大流行手记（4月28日）](https://m.caixin.com/m/2021-04-29/101701781.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -120,6 +140,11 @@
 </summary>
 
 
+- [2021-05-04-前后端接口鉴权全解-Cookie/Session/Token-的区别](https://www.ershicimi.com/p/1a81dd8ed95d2861418a48baef24ef0c) ![](assets/new.png)  
+- [2021-05-04-JavaScript中的函数节流与防抖](https://www.ershicimi.com/p/c7f69cda8e1d1117c0f475d40c1b6568) ![](assets/new.png)  
+- [2021-05-04-66岁比尔盖茨离婚！27年前与下属恋爱修成正果，现在“无法共同成长”，分割8000亿财产](https://www.ershicimi.com/p/6bc4d6db4c03748006503ed925eb98ec) ![](assets/new.png)  
+- [2021-05-03-Vue3-+-Vite2-+-TypeScript-开发复盘总结](https://www.ershicimi.com/p/c2c77f464fcd79a53d9d7aca6bc82df1) ![](assets/new.png)  
+- [2021-05-03-Axios-如何缓存请求数据？](https://www.ershicimi.com/p/e52621b4f59417dec4559ee30e0daa33) ![](assets/new.png)  
 - [2021-05-02-入职微软一个月感悟](https://www.ershicimi.com/p/f9773c5106140c70369e09da6194e1f4) ![](assets/new.png)  
 - [2021-05-02-微信第-1-行代码曝光！](https://www.ershicimi.com/p/f1288310ef2bc1ccc57fb7e5e36f5984) ![](assets/new.png)  
 - [2021-05-01-知乎高赞：前端模块化的十年征程](https://www.ershicimi.com/p/4e1896edf64362218f22926ec1f958bd) ![](assets/new.png)  
@@ -135,11 +160,6 @@
 - [2021-04-28-当面试官问Webpack的时候他想知道什么](https://www.ershicimi.com/p/97d4ca815ea6ec7a592b4cbc3d5b8aad) ![](assets/new.png)  
 - [2021-04-28-前端业务组件库技术实现的三个关键点](https://www.ershicimi.com/p/4fc732a6244883896447b264bc6a6106) ![](assets/new.png)  
 - [2021-04-27-面试官让你描述你的项目，应该怎么答？](https://www.ershicimi.com/p/5fa9569c5a1c4dc610d62ec91e91a19a) ![](assets/new.png)  
-- [2021-04-27-Axios-如何取消重复请求？](https://www.ershicimi.com/p/aea65849c0f9fa8849f86408f0560359) ![](assets/new.png)  
-- [2021-04-27-GET-请求能传图片吗？](https://www.ershicimi.com/p/829e85115391e8c7f38842ab039c6e89) ![](assets/new.png)  
-- [2021-04-26-五一「返现节」，0-元打造-Web-全栈架构师](https://www.ershicimi.com/p/72cdd3f988f1d6e70bedb7c902326775) ![](assets/new.png)  
-- [2021-04-26-从输入-URL-到展现涉及哪些缓存环节非常详细](https://www.ershicimi.com/p/3bd2f35fd7d630a3679098a0cb78acf6) ![](assets/new.png)  
-- [2021-04-26-让Jenkins帮你自动布署Vue项目](https://www.ershicimi.com/p/ae26d40234b4971cecd31a16b6762ac5) ![](assets/new.png)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +1016,7 @@
 </summary>
 
 
+- [2021-05-04-用-Golang-写了个币安交易所的数据接收工具，但是在行情火爆的时候容易断，如何解决？](https://www.v2ex.com/t/774933) ![](assets/new.png)  
 - [2021-05-04-请教各位:-苹果-testflight-审核被拒:-不能从对象存储-CDN-得到数据来加载页面.](https://www.v2ex.com/t/774932) ![](assets/new.png)  
 - [2021-05-04-iOS-14.5-的-Safari-采用了新的-WebAuthn-界面](https://www.v2ex.com/t/774931) ![](assets/new.png)  
 - [2021-05-04-macbookpro-纠结买-13-寸还是-16-寸](https://www.v2ex.com/t/774930) ![](assets/new.png)  
@@ -1015,7 +1036,6 @@
 - [2021-05-04-各位的-mac-m1-上面能用-goland-调试吗?](https://www.v2ex.com/t/774908) ![](assets/new.png)  
 - [2021-05-04-记录下-Curl-使用指南](https://www.v2ex.com/t/774907) ![](assets/new.png)  
 - [2021-05-04-Java-和-Golang-的未来发展是怎样的？有谁能解读看看？](https://www.v2ex.com/t/774906) ![](assets/new.png)  
-- [2021-05-04-求推荐-mac-性价比高的拓展坞](https://www.v2ex.com/t/774904) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,16 +1088,16 @@
 - [2021-05-04-搞懂-JavaScript-类型转换](https://toutiao.io/k/4hok6wf) ![](assets/new.png)  
 - [2021-05-04-聊天机器人真不是人，我放心了，不用担心隐私暴露](https://toutiao.io/k/6x3rb9r) ![](assets/new.png)  
 - [2021-05-04-MCN-搭配评价模型论文笔记](https://toutiao.io/k/7fuz48b) ![](assets/new.png)  
-- [2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
 - [2021-05-04-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-04-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-05-04-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
-- [2021-05-04-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-04-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
 - [2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
-- [2021-05-04-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
 - [2021-05-04-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-04-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-04-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-04-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
 - [2021-05-04-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-04-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

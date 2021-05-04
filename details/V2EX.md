@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-05-04 23:09:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 23:35:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-04-用-Golang-写了个币安交易所的数据接收工具，但是在行情火爆的时候容易断，如何解决？](https://www.v2ex.com/t/774933) 
 - [2021-05-04-请教各位:-苹果-testflight-审核被拒:-不能从对象存储-CDN-得到数据来加载页面.](https://www.v2ex.com/t/774932) 
 - [2021-05-04-iOS-14.5-的-Safari-采用了新的-WebAuthn-界面](https://www.v2ex.com/t/774931) 
 - [2021-05-04-macbookpro-纠结买-13-寸还是-16-寸](https://www.v2ex.com/t/774930) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-04 06:51:47，:rocket: 更新条数: +4297， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-04 07:02:13，:rocket: 更新条数: +4300， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,6 +96,8 @@
 </summary>
 
 
+- [2021-05-04-四川｜新增-6-例确诊-2-例无症状](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2021/5/4/1c66613f741c4ccf837ff95de13bd21c.shtml) ![](assets/new.png)  
+- [2021-05-04-广东｜新增-4-例确诊-11-例无症状](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGnKLefnCByqAHccQkaH210504&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1014,6 +1016,7 @@
 </summary>
 
 
+- [2021-05-04-手机收不到验证码，有解决办法嘛？](https://www.v2ex.com/t/774853) ![](assets/new.png)  
 - [2021-05-04-offer-比较-20210505（时间戳防止重复](https://www.v2ex.com/t/774852) ![](assets/new.png)  
 - [2021-05-04-目前主-Python-的运维开发，想提升一下技术（赚钱）能力这几个方向该选哪个？](https://www.v2ex.com/t/774851) ![](assets/new.png)  
 - [2021-05-04-请教有没有流行的开源第三方支付系统解决方案](https://www.v2ex.com/t/774850) ![](assets/new.png)  
@@ -1033,7 +1036,6 @@
 - [2021-05-04-请不要把-Flask-和-FastAPI-放到一起比较](https://www.v2ex.com/t/774831) ![](assets/new.png)  
 - [2021-05-04-买了一个-TP-的-AX3200，想测试下内网下的吞吐量性能，非运营商带宽，有没有推荐的手机-APP-啊](https://www.v2ex.com/t/774829) ![](assets/new.png)  
 - [2021-05-04-VSCode-MAC-总是用默认的-git-1.8，即使我已经安装好了最新版，仍然告诉我“You-seem-to-have-git-1.8.3.1-installed.-Code-works-best-with-git->=-2“。](https://www.v2ex.com/t/774828) ![](assets/new.png)  
-- [2021-05-04-IOS-14.5.1-发布了。。然后升级不了。。。这种诡异的-bug。。。](https://www.v2ex.com/t/774827) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1086,16 +1088,16 @@
 - [2021-05-04-聊天机器人真不是人，我放心了，不用担心隐私暴露](https://toutiao.io/k/6x3rb9r) ![](assets/new.png)  
 - [2021-05-04-聊聊因不恰当使用-alibaba-sentinel-而踩到的坑](https://toutiao.io/k/4wrlkf7) ![](assets/new.png)  
 - [2021-05-04-MCN-搭配评价模型论文笔记](https://toutiao.io/k/7fuz48b) ![](assets/new.png)  
-- [2021-05-04-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-04-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
-- [2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-04-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
-- [2021-05-04-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [2021-05-04-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-04-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-04-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-04-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
+- [2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
 - [2021-05-04-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-04-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-04-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-04-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-04-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-04 08:10:41，:rocket: 更新条数: +4300， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-04 08:39:00，:rocket: 更新条数: +4298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -65,12 +65,11 @@
 </summary>
 
 
-- [2021-05-04-5月3日全国新增新冠17例-均由境外输入](https://m.caixin.com/m/2021-05-04/101705283.html) ![](assets/new.png)  
+- [2021-05-04-最新疫情：全国新冠累计确诊90714例-累计接种新冠疫苗近2.8亿剂次](https://m.caixin.com/m/2021-05-04/101705328.html) ![](assets/new.png)  
 - [2021-05-04-【境内疫情观察】全国新增17例境外输入病例（5月3日）](http://m.database.caixin.com/m/2021-05-04/101705307.html) ![](assets/new.png)  
 - [2021-05-04-欧盟建议放宽国际旅行限制-丹麦停用强生疫苗-|-大流行手记（5月3日）](https://m.caixin.com/m/2021-05-04/101705293.html) ![](assets/new.png)  
 - [2021-05-03-【境内疫情观察】全国现有确诊病例323例（5月2日）](http://m.database.caixin.com/m/2021-05-03/101705195.html) ![](assets/new.png)  
 - [2021-05-03-福奇建议印度全国封锁-英酝酿9月为12岁以上学童接种｜大流行手记（5月2日）](https://m.caixin.com/m/2021-05-03/101705171.html) ![](assets/new.png)  
-- [2021-05-02-最新海外疫情：新冠感染超1.52亿-累计死亡近319万](https://m.caixin.com/m/2021-05-02/101705123.html) ![](assets/new.png)  
 - [2021-05-02-【境内疫情观察】全国新增15例境外输入病例（5月1日）](http://m.database.caixin.com/m/2021-05-02/101705102.html) ![](assets/new.png)  
 - [2021-05-02-印度单日新增超40万例-巴西疫情缓解｜大流行手记（5月1日）](https://m.caixin.com/m/2021-05-02/101705089.html) ![](assets/new.png)  
 - [2021-05-01-美国对印度发布旅行禁令-5月4日起限制人员从印度入境](http://m.international.caixin.com/m/2021-05-01/101704855.html) ![](assets/new.png)  
@@ -85,6 +84,7 @@
 - [2021-04-29-【境内疫情观察】浙江新增11例境外输入病例（4月28日）](http://m.database.caixin.com/m/2021-04-29/101701966.html) ![](assets/new.png)  
 - [2021-04-29-英国拟推新冠疫苗护照-至少17国发现印度变种病毒｜大流行手记（4月28日）](https://m.caixin.com/m/2021-04-29/101701781.html) ![](assets/new.png)  
 - [2021-04-28-【境内疫情观察】全国新增12例境外输入病例（4月27日）](http://m.database.caixin.com/m/2021-04-28/101700973.html) ![](assets/new.png)  
+- [2021-04-28-中国800台制氧机运抵印度德里-泰国疫情升级多地宵禁｜大流行手记（4月27日）](https://m.caixin.com/m/2021-04-28/101700780.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -96,8 +96,6 @@
 </summary>
 
 
-- [2021-05-04-四川｜新增-6-例确诊-2-例无症状](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2021/5/4/1c66613f741c4ccf837ff95de13bd21c.shtml) ![](assets/new.png)  
-- [2021-05-04-广东｜新增-4-例确诊-11-例无症状](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGnKLefnCByqAHccQkaH210504&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,9 +1014,11 @@
 </summary>
 
 
+- [2021-05-04-DoraFactory-招聘帖](https://www.v2ex.com/t/774866) ![](assets/new.png)  
+- [2021-05-04-百度、高德地图的预估到达时间是怎么计算的？](https://www.v2ex.com/t/774865) ![](assets/new.png)  
+- [2021-05-04-Facebook-和-Instagram-威胁要对-iOS-14.5-上的用户访问收取费用，除非你向他们提供隐私数据以允许跨网站追踪](https://www.v2ex.com/t/774864) ![](assets/new.png)  
 - [2021-05-04-AppleScript-怎样监听当前按下的按键](https://www.v2ex.com/t/774863) ![](assets/new.png)  
 - [2021-05-04-创建了-svc-无法访问](https://www.v2ex.com/t/774862) ![](assets/new.png)  
-- [2021-05-04-深圳地下有黄金吗？](https://www.v2ex.com/t/774861) ![](assets/new.png)  
 - [2021-05-04-图片第一个是啥？](https://www.v2ex.com/t/774860) ![](assets/new.png)  
 - [2021-05-04-英国-QSTop150-或者是-Top100-高校硕士在国内的认可度怎么样呢](https://www.v2ex.com/t/774859) ![](assets/new.png)  
 - [2021-05-04-电报导出来的数据，消息记录都是-html-格式的，很多个文件，如何查找关键字，在所有文件内？](https://www.v2ex.com/t/774858) ![](assets/new.png)  
@@ -1034,8 +1034,6 @@
 - [2021-05-04-探索使用-Golang-和-Webassembly-构建一个多人游戏服务器](https://www.v2ex.com/t/774847) ![](assets/new.png)  
 - [2021-05-04-大疆购机优惠渠道有哪些呢？](https://www.v2ex.com/t/774846) ![](assets/new.png)  
 - [2021-05-04-Python--sql-这个库有大佬用过的吗，-tupleselect-解析-sql-巨慢,一条普通-sql-解析要-1s](https://www.v2ex.com/t/774845) ![](assets/new.png)  
-- [2021-05-04-上海/远程-Mask-Network-多岗位招聘启事](https://www.v2ex.com/t/774843) ![](assets/new.png)  
-- [2021-05-04-某山寨测试平台提供的宽带加速服务有点划算](https://www.v2ex.com/t/774842) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1082,22 +1080,22 @@
 - [2021-05-04-一个新细节，Go-1.17-将允许切片转换为数组指针](https://toutiao.io/k/veymhfk) ![](assets/new.png)  
 - [2021-05-04-Docker-实战：用-docker-compose-搭建-Laravel-开发环境](https://toutiao.io/k/e7r8hkj) ![](assets/new.png)  
 - [2021-05-04-搞懂-JavaScript-类型转换](https://toutiao.io/k/4hok6wf) ![](assets/new.png)  
-- [2021-05-04-日访问过亿，办公-IM-及开放式平台在携程的实践](https://toutiao.io/k/3zyt2c7) ![](assets/new.png)  
 - [2021-05-04-WebRTC-噪声抑制模块分析与实践](https://toutiao.io/k/0jalngx) ![](assets/new.png)  
+- [2021-05-04-日访问过亿，办公-IM-及开放式平台在携程的实践](https://toutiao.io/k/3zyt2c7) ![](assets/new.png)  
 - [2021-05-04-特征工程方法总结](https://toutiao.io/k/b5bv4dl) ![](assets/new.png)  
 - [2021-05-04-聊天机器人真不是人，我放心了，不用担心隐私暴露](https://toutiao.io/k/6x3rb9r) ![](assets/new.png)  
 - [2021-05-04-聊聊因不恰当使用-alibaba-sentinel-而踩到的坑](https://toutiao.io/k/4wrlkf7) ![](assets/new.png)  
 - [2021-05-04-MCN-搭配评价模型论文笔记](https://toutiao.io/k/7fuz48b) ![](assets/new.png)  
-- [2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
-- [2021-05-04-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-04-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
-- [2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
-- [2021-05-04-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
-- [2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
 - [2021-05-04-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-04-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-04-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
 - [2021-05-04-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
 - [2021-05-04-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-04-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-04-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-04-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

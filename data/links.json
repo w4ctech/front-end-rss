@@ -20746,6 +20746,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "感觉北京 Python 方向的不太行了，唉，不是做企业内部系统，就是做 toB，想学习高并发经验都找不到相关工作。",
+        "link": "https://www.v2ex.com/t/774840",
+        "date": "2021-05-04"
+      },
+      {
         "title": "有人碰到过 Mac 上的 music app 随机暂停的情况吗？",
         "link": "https://www.v2ex.com/t/774839",
         "date": "2021-05-04"
@@ -21095,8 +21100,13 @@
         "date": "2021-05-04"
       },
       {
-        "title": "[推荐] 架构模式之分层架构总结",
-        "link": "https://toutiao.io/k/fwtxydd",
+        "title": "[推荐] 如何设计一个高性能的秒杀系统",
+        "link": "https://toutiao.io/k/6z3uu2m",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "[推荐] 为什么放弃 Kafka，选择 Pulsar?",
+        "link": "https://toutiao.io/k/wxrneux",
         "date": "2021-05-04"
       },
       {
@@ -21110,28 +21120,8 @@
         "date": "2021-05-04"
       },
       {
-        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
-        "link": "https://toutiao.io/k/08uadl6",
-        "date": "2021-05-04"
-      },
-      {
-        "title": "[推荐] Redis 进阶笔记",
-        "link": "https://toutiao.io/k/ti0gb8i",
-        "date": "2021-05-04"
-      },
-      {
-        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
-        "link": "https://toutiao.io/k/2aonyjp",
-        "date": "2021-05-04"
-      },
-      {
-        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
-        "link": "https://toutiao.io/k/90vs9kg",
-        "date": "2021-05-04"
-      },
-      {
-        "title": "[推荐] 为什么放弃 Kafka，选择 Pulsar?",
-        "link": "https://toutiao.io/k/wxrneux",
+        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
+        "link": "https://toutiao.io/k/0iue4f4",
         "date": "2021-05-04"
       },
       {
@@ -21140,18 +21130,23 @@
         "date": "2021-05-04"
       },
       {
-        "title": "[推荐] 如何设计一个高性能的秒杀系统",
-        "link": "https://toutiao.io/k/6z3uu2m",
-        "date": "2021-05-04"
-      },
-      {
-        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
-        "link": "https://toutiao.io/k/a5s1rfh",
-        "date": "2021-05-04"
-      },
-      {
         "title": "[推荐] 一文搞懂分布式锁的原理与实现",
         "link": "https://toutiao.io/k/j7fdh6h",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
+        "link": "https://toutiao.io/k/90vs9kg",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "[推荐] 架构模式之分层架构总结",
+        "link": "https://toutiao.io/k/fwtxydd",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
+        "link": "https://toutiao.io/k/08uadl6",
         "date": "2021-05-04"
       },
       {
@@ -21160,13 +21155,23 @@
         "date": "2021-05-04"
       },
       {
+        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
+        "link": "https://toutiao.io/k/a5s1rfh",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "[推荐] Redis 进阶笔记",
+        "link": "https://toutiao.io/k/ti0gb8i",
+        "date": "2021-05-04"
+      },
+      {
         "title": "[推荐] 程序员应该掌握的常用网络问题定位工具",
         "link": "https://toutiao.io/k/upefap5",
         "date": "2021-05-04"
       },
       {
-        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
-        "link": "https://toutiao.io/k/0iue4f4",
+        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
+        "link": "https://toutiao.io/k/2aonyjp",
         "date": "2021-05-04"
       }
     ]

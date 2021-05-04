@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-04 03:30:17，:rocket: 更新条数: +4298， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-04 03:49:47，:rocket: 更新条数: +4300， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,10 @@
 </summary>
 
 
+- [2021-05-04-美团-APP-用的什么技术？](https://www.v2ex.com/t/774833) ![](assets/new.png)  
+- [2021-05-04-2021-年了-newsql-or-mysql-分库分表-?](https://www.v2ex.com/t/774832) ![](assets/new.png)  
+- [2021-05-04-请不要把-Flask-和-FastAPI-放到一起比较](https://www.v2ex.com/t/774831) ![](assets/new.png)  
+- [2021-05-04-买了一个-TP-的-AX3200，想测试下内网下的吞吐量性能，非运营商带宽，有没有推荐的手机-APP-啊](https://www.v2ex.com/t/774829) ![](assets/new.png)  
 - [2021-05-04-VSCode-MAC-总是用默认的-git-1.8，即使我已经安装好了最新版，仍然告诉我“You-seem-to-have-git-1.8.3.1-installed.-Code-works-best-with-git->=-2“。](https://www.v2ex.com/t/774828) ![](assets/new.png)  
 - [2021-05-04-IOS-14.5.1-发布了。。然后升级不了。。。这种诡异的-bug。。。](https://www.v2ex.com/t/774827) ![](assets/new.png)  
 - [2021-05-04-vue-多个展示数据的-table，能抽取成一个组件吗](https://www.v2ex.com/t/774826) ![](assets/new.png)  
@@ -1032,10 +1036,6 @@
 - [2021-05-03-这种前端反爬虫方案是否能阻止大多数新手破解？](https://www.v2ex.com/t/774807) ![](assets/new.png)  
 - [2021-05-03-关于软件工程师制作模型飞机的可行性讨论](https://www.v2ex.com/t/774806) ![](assets/new.png)  
 - [2021-05-03-上海金桥一室一厅转租免中介](https://www.v2ex.com/t/774805) ![](assets/new.png)  
-- [2021-05-03-js-能像-Python-一样遍历嵌套的列表或元组吗？](https://www.v2ex.com/t/774804) ![](assets/new.png)  
-- [2021-05-03-远程全职-社招/校招NODEJS-和-WebRTC-工程师](https://www.v2ex.com/t/774802) ![](assets/new.png)  
-- [2021-05-03-微软-Teams-bug-很多啊](https://www.v2ex.com/t/774801) ![](assets/new.png)  
-- [2021-05-03-神奇……iOS-貌似无法换区了](https://www.v2ex.com/t/774800) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-05-04-聊天机器人真不是人，我放心了，不用担心隐私暴露](https://toutiao.io/k/6x3rb9r) ![](assets/new.png)  
 - [2021-05-04-聊聊因不恰当使用-alibaba-sentinel-而踩到的坑](https://toutiao.io/k/4wrlkf7) ![](assets/new.png)  
 - [2021-05-04-MCN-搭配评价模型论文笔记](https://toutiao.io/k/7fuz48b) ![](assets/new.png)  
+- [2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
 - [2021-05-04-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
-- [2021-05-04-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
-- [2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-04-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
 - [2021-05-04-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
-- [2021-05-04-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-04-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-04-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
 - [2021-05-04-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-05-04-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
+- [2021-05-04-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
+- [2021-05-04-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-04-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

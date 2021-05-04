@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-04 03:30:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 03:49:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -17,4 +17,5 @@
 - [2021-05-01-分布式一致性算法：解决分布式系统80%核心问题｜极客时间](https://www.ershicimi.com/p/ca136b774c0ae4b54bbd3d73e8f62759) 
 - [2021-04-28-如何看待-70%-的程序员，缺乏数据结构和算法知识？-｜-极客时间](https://www.ershicimi.com/p/56ff22ef079187c309f07e1e3e6e0205) 
 - [2021-04-17-Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29) 
+- [2021-05-04-请不要把-Flask-和-FastAPI-放到一起比较](https://www.v2ex.com/t/774831) 
 - [2021-05-04-《人工智能算法金融应用评价规范》全文](https://sec.thief.one/article_content?a_id=807c71910687d2b4f596f22f0966273e) 

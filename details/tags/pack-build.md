@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-04 17:58:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 18:09:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -17,6 +17,8 @@
 - [2021-05-01-回顾-babel-6和7，来预测下-babel-8](https://www.ershicimi.com/p/0fd0a49dbcbe2fedf04722648393bf48) 
 - [2021-04-30-面向未来的前端构建工具---Vite-原理分析](https://www.ershicimi.com/p/07cc4238b97ed29773ab98a2259b0206) 
 - [2021-04-25-现代前端工程化-彻底搞懂基于-Monorepo-的-lerna-模块从原理到实战](https://www.ershicimi.com/p/aa316ff1fab153e9e2dc1245cd537823) 
+- [2021-04-30-一文吃透-Webpack-核心原理（万字总结，建议收藏-）](https://www.ershicimi.com/p/413f78adbc3f2761eb7c9a6e68127559) 
+- [2021-04-29-开发中遇到过的-npm-疑惑解答](https://www.ershicimi.com/p/aaa5b5ca42271df87cddfeb7a65dc5ca) 
 - [2021-04-30-Webpack面试题](https://www.ershicimi.com/p/617a09bd4f8884461a6852cd3e8f25ee) 
 - [2021-04-20-现代前端开发你一定离不开-Webpack-相关技术栈](https://www.ershicimi.com/p/4e9689ceed74edcc9e4f98b74a76b17f) 
 - [2021-04-07-构建一个浏览器引擎](https://www.ershicimi.com/p/ac600b016c39d194cc371e73326bb674) 

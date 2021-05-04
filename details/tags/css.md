@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-04 17:58:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 18:09:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -14,8 +14,6 @@
 - [2021-04-20-深入解析-CSS-选择器](https://www.ershicimi.com/p/b5b048cb05ba0815e40094da6cfce2d6) 
 - [2021-04-22-你可能不知道的10个CSS新功能（2021版）](https://www.ershicimi.com/p/0fc2c33c67c1a8f4b24e79f9298a1d00) 
 - [2021-04-12-有意思！CSS-文字装饰还能这样玩~](https://www.ershicimi.com/p/91dc292ddedb4baa1883a480d476bbf0) 
-- [2021-04-25-面试题-有关CSS查缺补漏](https://www.ershicimi.com/p/fd9ac37081ef5456d0a4bdda61972a79) 
-- [2021-04-20-如何用CSS实现漂亮的个人资料卡效果](https://www.ershicimi.com/p/cc461037700fa2558e8d7130b96d0d77) 
 - [2021-04-18-腾讯开源的酷炫动画播放解决方案Vap初体验](https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/) 
 - [2021-03-14-CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/) 
 - [2021-02-18-使用CSS-text-combine-upright实现字符的横向合并](https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/) 

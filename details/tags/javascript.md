@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-04 17:58:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 18:09:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -70,9 +70,8 @@
 - [2021-03-02-如何用-JS-实现二叉堆](https://www.ershicimi.com/p/7042ca89ec61f44863acb7c888ae365f) 
 - [2021-02-02-动态表单之表单组件的插件式加载方案](https://www.ershicimi.com/p/8cc8832fe3c00b073d2e023bcbf6947f) 
 - [2021-04-21-JavaScript-中如何实现大文件并行下载？](https://www.ershicimi.com/p/69775bf86105b6933a2007c57947f122) 
-- [2021-04-24-面试官问：什么变量保存在堆/栈中？](https://www.ershicimi.com/p/8fed806f26781145655b8c8c6ddc4490) 
-- [2021-04-21-前端业务组件库技术实现的三个关键点](https://www.ershicimi.com/p/d02d973bd8424f24fc7b162f1fa0573b) 
-- [2021-04-20-Promise知识汇总和面试情况](https://www.ershicimi.com/p/10e3cc6131177d881f363d6529de84aa) 
+- [2021-04-29-探索-Web-Worker-实现-JavaScript-沙箱隔离方案的踩坑与思考](https://www.ershicimi.com/p/ed22fd7648e1c7f13d6fae025032eb71) 
+- [2021-04-28-模拟JSON.stringfy三大参数](https://www.ershicimi.com/p/6b512667799fac42c6e545da5fc27e1f) 
 - [2021-04-25-前端业务组件库怎么样做到极致？](https://www.ershicimi.com/p/9f8499a4899ebf12cf7ac4d418afd8d3) 
 - [2021-04-24-关于-JavaScript-Object.keys-排序问题的探索与总结](https://www.ershicimi.com/p/4c1933e7440973e4f91ca489b610574c) 
 - [2021-04-23-前端工程化实践，从建一个属于自己的组件库开始](https://www.ershicimi.com/p/8643b48058b4d1c45f4e1231fe7620cd) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-05-04 11:49:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 12:06:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-04-现在-2015-款-MBP-还能出多少？](https://www.v2ex.com/t/774891) 
+- [2021-05-04-自己“洗”空调](https://www.v2ex.com/t/774889) 
 - [2021-05-04-开个-apple-one-的车](https://www.v2ex.com/t/774887) 
 - [2021-05-04-如何驱赶老鹰和黄鼠狼？](https://www.v2ex.com/t/774885) 
 - [2021-05-04-有没有不需要访问网络即可获取本机外网-IP-地址的方法](https://www.v2ex.com/t/774884) 
@@ -41,5 +43,3 @@
 - [2021-05-04-Python--sql-这个库有大佬用过的吗，-tupleselect-解析-sql-巨慢,一条普通-sql-解析要-1s](https://www.v2ex.com/t/774845) 
 - [2021-05-04-上海/远程-Mask-Network-多岗位招聘启事](https://www.v2ex.com/t/774843) 
 - [2021-05-04-某山寨测试平台提供的宽带加速服务有点划算](https://www.v2ex.com/t/774842) 
-- [2021-05-04-感觉北京-Python-方向的不太行了，唉，不是做企业内部系统，就是做-toB，想学习高并发经验都找不到相关工作。](https://www.v2ex.com/t/774840) 
-- [2021-05-04-有人碰到过-Mac-上的-music-app-随机暂停的情况吗？](https://www.v2ex.com/t/774839) 

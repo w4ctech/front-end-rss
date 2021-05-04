@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-04 12:06:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 12:11:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2021-05-04-大疆购机优惠渠道有哪些呢？](https://www.v2ex.com/t/774846) 
 - [2021-05-04-Python--sql-这个库有大佬用过的吗，-tupleselect-解析-sql-巨慢,一条普通-sql-解析要-1s](https://www.v2ex.com/t/774845) 
 - [2021-05-04-上海/远程-Mask-Network-多岗位招聘启事](https://www.v2ex.com/t/774843) 
-- [2021-05-04-某山寨测试平台提供的宽带加速服务有点划算](https://www.v2ex.com/t/774842) 

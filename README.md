@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-04 14:52:21，:rocket: 更新条数: +4296， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-04 15:05:04，:rocket: 更新条数: +4297， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-05-04-有多少人用-pc-端的-cuda？本地跑数据的同学选笔记本是选游戏本？还是选普通笔记本？](https://www.v2ex.com/t/774918) ![](assets/new.png)  
+- [2021-05-04-如何关闭-B-站-Web-端首页推荐](https://www.v2ex.com/t/774917) ![](assets/new.png)  
+- [2021-05-04-xcode12.5-可能会导致-go-项目无法断点调试，安装旧版本可以解决](https://www.v2ex.com/t/774916) ![](assets/new.png)  
 - [2021-05-04-关于公网-ipv6-的疑问](https://www.v2ex.com/t/774915) ![](assets/new.png)  
 - [2021-05-04-有多少人是放弃-react-native，转向原生了？](https://www.v2ex.com/t/774913) ![](assets/new.png)  
 - [2021-05-04-各位-AppleWatch-5-月挑战是什么？](https://www.v2ex.com/t/774912) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-05-04-我从-centos8.3-迁移到-AlmaLinux-8.3-安装宝塔一切正常](https://www.v2ex.com/t/774893) ![](assets/new.png)  
 - [2021-05-04-现在-2015-款-MBP-还能出多少？](https://www.v2ex.com/t/774891) ![](assets/new.png)  
 - [2021-05-04-自己“洗”空调](https://www.v2ex.com/t/774889) ![](assets/new.png)  
-- [2021-05-04-如何驱赶老鹰和黄鼠狼？](https://www.v2ex.com/t/774885) ![](assets/new.png)  
-- [2021-05-04-有没有不需要访问网络即可获取本机外网-IP-地址的方法](https://www.v2ex.com/t/774884) ![](assets/new.png)  
-- [2021-05-04-为什么现在网络上的很多技术博客必须扫描关注才能看](https://www.v2ex.com/t/774882) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-05-04-聊聊因不恰当使用-alibaba-sentinel-而踩到的坑](https://toutiao.io/k/4wrlkf7) ![](assets/new.png)  
 - [2021-05-04-聊天机器人真不是人，我放心了，不用担心隐私暴露](https://toutiao.io/k/6x3rb9r) ![](assets/new.png)  
 - [2021-05-04-MCN-搭配评价模型论文笔记](https://toutiao.io/k/7fuz48b) ![](assets/new.png)  
-- [2021-05-04-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
 - [2021-05-04-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
-- [2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
-- [2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-04-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-04-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-04-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
 - [2021-05-04-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
+- [2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-04-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-04-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-04-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-04-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

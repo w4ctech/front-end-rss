@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-04 14:52:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 15:05:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -27,5 +27,4 @@
 - [2021-04-27-36-岁程序员应聘被公司领导直接拒绝；B-站面试官回应北邮校招中的不当言论](https://www.ershicimi.com/p/0430d33a8a2d484b90e3adebef3ead1f) 
 - [2021-04-22-重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/2dd643e87f8415ea43cd71fae653209b) 
 - [2021-05-04-Shopee-的五月有些火热-9+专场招聘会进行时！前端/后端/测试/数据/产品多种岗位等你挑！-HC-超多流程超快！老哥们快来捞捞我吧！](https://www.v2ex.com/t/774900) 
-- [2021-05-04-DoraFactory-招聘帖](https://www.v2ex.com/t/774866) 
 - [2021-05-04-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) 

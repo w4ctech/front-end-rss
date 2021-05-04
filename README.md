@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-04 13:23:26，:rocket: 更新条数: +4303， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-04 13:40:28，:rocket: 更新条数: +4302， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-05-04-求推荐-mac-性价比高的拓展坞](https://www.v2ex.com/t/774904) ![](assets/new.png)  
+- [2021-05-04-杭州自由职业怎么贷款买房。。](https://www.v2ex.com/t/774903) ![](assets/new.png)  
 - [2021-05-04-M1-更新到-11.3-后-swap-确实一直是-0-了，但是](https://www.v2ex.com/t/774902) ![](assets/new.png)  
 - [2021-05-04-Google-强推-AV1，今天突然发现-YouTube-上的很多的视频编码格式都换成了-AV1-了](https://www.v2ex.com/t/774901) ![](assets/new.png)  
 - [2021-05-04-Shopee-的五月有些火热-9+专场招聘会进行时！前端/后端/测试/数据/产品多种岗位等你挑！-HC-超多流程超快！老哥们快来捞捞我吧！](https://www.v2ex.com/t/774900) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-05-04-Mac-求建议买-M1-还是-16-寸-Intel](https://www.v2ex.com/t/774880) ![](assets/new.png)  
 - [2021-05-04-MacOS-顶栏变透明了](https://www.v2ex.com/t/774879) ![](assets/new.png)  
 - [2021-05-04-React-或者-Vue-里的-UI-框架里的组件，怎么剥离成-jQuery-版？或者说脱离-react-使用。](https://www.v2ex.com/t/774878) ![](assets/new.png)  
-- [2021-05-04-之前创维电视收集数据那个帖子上电视新闻了？](https://www.v2ex.com/t/774877) ![](assets/new.png)  
-- [2021-05-04-bat-批处理可以做自动按键不断按的脚本吗？](https://www.v2ex.com/t/774876) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-05-04-聊天机器人真不是人，我放心了，不用担心隐私暴露](https://toutiao.io/k/6x3rb9r) ![](assets/new.png)  
 - [2021-05-04-聊聊因不恰当使用-alibaba-sentinel-而踩到的坑](https://toutiao.io/k/4wrlkf7) ![](assets/new.png)  
 - [2021-05-04-MCN-搭配评价模型论文笔记](https://toutiao.io/k/7fuz48b) ![](assets/new.png)  
-- [2021-05-04-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-05-04-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
 - [2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
+- [2021-05-04-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-04-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-04-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
 - [2021-05-04-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
 - [2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
-- [2021-05-04-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
 - [2021-05-04-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-04-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
-- [2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-04-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-04-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,26 +1140,26 @@
 </summary>
 
 
-- [2021-04-26-华为卖车两天赚3000万？重铸智能手机荣光？](https://www.ershicimi.com/p/6eff27b536edf33208f788ca5524b1bf) ![](assets/new.png)  
-- [2021-04-26-林雪萍｜铅华洗尽-工业4.0走进下半场？](https://www.ershicimi.com/p/d53d46334ca602b5c7772bd62b29acf7) ![](assets/new.png)  
-- [2021-04-26-颠覆还是疯狂？与公有云巨头合建5G网络](https://www.ershicimi.com/p/23468f7c89701b7519f800f3c8d5423c) ![](assets/new.png)  
-- [2021-04-25-余承东新身份首秀：华为云发布全球最大盘古大模型，2.2亿美元培育沃土……](https://www.ershicimi.com/p/1da37944b29c0c8f51da97e91cf4d41a) ![](assets/new.png)  
-- [2021-04-25-激荡2020——四大通信设备商年报分析](https://www.ershicimi.com/p/2a39ddb87c822419bfcfa0e4adfc5163) ![](assets/new.png)  
-- [2021-04-24-全球蜂窝物联网模组数据一览：总出货2.65亿片/3+3市场格局形成/中国厂商占据绝对优势](https://www.ershicimi.com/p/63d4f07e1db7471418b8631b6281cb5a) ![](assets/new.png)  
-- [2021-04-24-物联网智库官网全新改版上线！独属于物联网人的每日必看](https://www.ershicimi.com/p/4266b42ace081fe3711b974a6b4bcbe1) ![](assets/new.png)  
-- [2021-04-23-特斯拉公布数据前后的傲慢](https://www.ershicimi.com/p/88e40e139232f01457821f61e41b9688) ![](assets/new.png)  
-- [2021-04-23-哪有什么数字鸿沟，只是年轻人更能忍受](https://www.ershicimi.com/p/c9c81d351752c92dd440c062fa1b0d4c) ![](assets/new.png)  
-- [2021-04-23-重磅！清华大学昨日成立“芯片学院”](https://www.ershicimi.com/p/546d40d490b9c1ceb153f339c4d297d8) ![](assets/new.png)  
-- [2021-04-22-“模组芯片化”会是投向物联网行业的重磅炸弹吗？](https://www.ershicimi.com/p/abe9e923797567083fa1bd2457bb0670) ![](assets/new.png)  
-- [2021-04-22-这可能是边缘计算领域最值得参加的大会！](https://www.ershicimi.com/p/02f6978d388c9fddfcfd8642d50ab5af) ![](assets/new.png)  
-- [2021-04-22-彭慧-|-数字孪生的前世今生](https://www.ershicimi.com/p/f39476d296de0383765c14fc1d26d7ed) ![](assets/new.png)  
-- [2021-04-21-苹果AirTag智能追踪器终于发布，或引爆UWB市场，还有搭载M1芯片的iMac、iPad-Pro](https://www.ershicimi.com/p/176ca411c0e9b19d35c5814b9ccb7488) ![](assets/new.png)  
-- [2021-04-21-里程碑式意义！杭州为峰发布新一代无磁计量芯片！](https://www.ershicimi.com/p/f6728180f60db23ee1901a16fdafdda2) ![](assets/new.png)  
-- [2021-04-21-华为小米打响第二战场！从AIoT到造车，年营收相差4倍的拉力赛](https://www.ershicimi.com/p/d425a6cd4b5d7750b4c7581a0fc8e677) ![](assets/new.png)  
-- [2021-04-20-重磅！紫光展锐发布全新5G品牌“唐古拉”，全球首款6nm-5G芯片7月量产上市！](https://www.ershicimi.com/p/38e90f1e71148fb418b066485dbbb216) ![](assets/new.png)  
-- [2021-04-20-倒计时2天！华为/商汤/研华带您解锁“数智”密码](https://www.ershicimi.com/p/4f21b23fc50086506428d0d62e3b639c) ![](assets/new.png)  
-- [2021-04-20-5G商业成功，从打造核心网最佳实践做起](https://www.ershicimi.com/p/9ab6313a6e06a3bc409adc129800a5b5) ![](assets/new.png)  
-- [2021-04-19-女车主上海车展再维权被安保抬走，特斯拉陶琳：不会满足她的诉求，她背后应该有人](https://www.ershicimi.com/p/978aa591711a7b6773e212a5f3414696) ![](assets/new.png)  
+- [2021-05-04-无人配送车市场拐点已到，美团、京东、阿里、苏宁……谁先制霸市场？](https://www.ershicimi.com/p/b061e1076eb610d0f56ec2495b76f466) ![](assets/new.png)  
+- [2021-05-04-产业互联网和工业互联网，到底有什么区别？](https://www.ershicimi.com/p/fc6451047402cc45ba35faca68137200) ![](assets/new.png)  
+- [2021-05-03-模组芯片化、芯片场景化，在物联网领域掀起新的风暴【物女心经】](https://www.ershicimi.com/p/3d597d81aa7118f9835afd69282e6590) ![](assets/new.png)  
+- [2021-05-03-摇身一变！“退休”智能手机成简易智能家居终端“再就业”](https://www.ershicimi.com/p/8670c2cbecfc7cba4f53dfa04ed1cbd3) ![](assets/new.png)  
+- [2021-05-02-重磅！深入解读工信部发布的《5G应用“扬帆”行动计划》，未来三年的KPI都定了！](https://www.ershicimi.com/p/189aa356fc3dd107e9002029153040ff) ![](assets/new.png)  
+- [2021-05-02-物联网智库官网全新改版上线！独属于物联网人的每日必看](https://www.ershicimi.com/p/c9fa085db7e5d88061b6debef5045f2f) ![](assets/new.png)  
+- [2021-05-01-劳动诚可贵，健康价更高，祝大家五一劳动节快乐！](https://www.ershicimi.com/p/0a94b4f85ae660afa8c02bec00f2e090) ![](assets/new.png)  
+- [2021-04-30-坐拥工业无人机第一大市场，5G如何改变传统农业“面朝黄土背朝天”的局面？【5G&AIoT应用案例集】](https://www.ershicimi.com/p/31799fc9b114129cb0ceb4acd9c0d138) ![](assets/new.png)  
+- [2021-04-30-一秒刹停！让特斯拉都「拜服」的无人车，竟送起了外卖！](https://www.ershicimi.com/p/3b581b8c739b17ab8f281ff7575f9062) ![](assets/new.png)  
+- [2021-04-30-颠覆还是疯狂？与公有云巨头合建5G网络](https://www.ershicimi.com/p/75e24e0dc3a4bd7a70d3987b1911e8ca) ![](assets/new.png)  
+- [2021-04-29-Cat.1的“火爆”后劲有多猛？“60%-30%-10%”的蜂窝物联网格局会被打破么？](https://www.ershicimi.com/p/553b3ac8689bb4cdfb2f00c4eaf4ab3d) ![](assets/new.png)  
+- [2021-04-29-变局之际，聊聊物联网的过去、现在和未来](https://www.ershicimi.com/p/1b47662ff35c3257ddec6de2dcf1e964) ![](assets/new.png)  
+- [2021-04-29-近36亿元！丰田为何砸重金收购智驾业务？](https://www.ershicimi.com/p/92bef22bfe05708c5355264b2e2d09fe) ![](assets/new.png)  
+- [2021-04-28-引爆智能制造，“工业5G时代”的大幕正式拉开【5G&AIoT应用案例】](https://www.ershicimi.com/p/7890aa735b7f421f8785fbe86115615b) ![](assets/new.png)  
+- [2021-04-28-免费体验-|-移远通信重磅推出QuecSIM全球连接服务，助推中国企业顺利出海](https://www.ershicimi.com/p/159bce535fb3733b785d862ee2963e0d) ![](assets/new.png)  
+- [2021-04-28-工业制造“碳中和”，有戏？](https://www.ershicimi.com/p/c3d72326eac9fe8a108643bb56f47f40) ![](assets/new.png)  
+- [2021-04-27-近千家地产商入局智能家居，能否抗住阿里/百度/小米…的前后夹击？](https://www.ershicimi.com/p/73158039ce0d463c7b0e10369da76bd8) ![](assets/new.png)  
+- [2021-04-27-直播回看/演讲资料/大咖金句——“数智融合-共创未来”高峰论坛](https://www.ershicimi.com/p/f6e3153d9da7a7b952c493999f22808b) ![](assets/new.png)  
+- [2021-04-27-2021年，智慧消防市场再起波澜](https://www.ershicimi.com/p/5d7087bc993a62025dcaf145a8b9ffd2) ![](assets/new.png)  
+- [2021-04-27-华为首款鸿蒙手机来了···](https://www.ershicimi.com/p/bb545772d1d4263afcb35a9da484ef5a) ![](assets/new.png)  
 - [......【查看更多】......](./details/物联网智库.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

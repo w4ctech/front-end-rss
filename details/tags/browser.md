@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-04 10:09:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 10:35:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,6 +39,7 @@
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2021-05-04-Web安全|.htaccess的奇淫技巧](https://sec.thief.one/article_content?a_id=b564783cea7f75171102675bd833eebe) 
 - [2021-05-02-网络安全编程:编写CrackMe程序](https://sec.thief.one/article_content?a_id=d584ec2a58d40aad1323da971af5d38d) 
 - [2021-05-01-App安全合规的思考:监管的重点变化梳理](https://sec.thief.one/article_content?a_id=9365d75052bdaa811fb51bd2ab94af94) 
 - [2021-05-01-第五届“蓝帽杯”首都网络安全日开赛-校企携手三方合作培养“未来网...](https://sec.thief.one/article_content?a_id=3ab4a473be984215bffc109e372cff85) 
@@ -58,7 +59,3 @@
 - [2021-04-29-武汉数据安全培训专题圆满落幕|珠海,我们来了](https://sec.thief.one/article_content?a_id=680091f83295516199c0819a6dd6b1f5) 
 - [2021-04-29-现场直击-|-429首都网络安全日展位亮点全揭秘](https://sec.thief.one/article_content?a_id=3e09f29ef63faddb7ff459503936da99) 
 - [2021-04-29-【安全风险通告】奇安信CERT已验证,Apache-OFBiz多个高危漏洞安...](https://sec.thief.one/article_content?a_id=4b0c22f48e82366bfff32670a1dfee06) 
-- [2021-04-29-关于征求《信息安全技术-网联汽车-采集数据的安全要求》标准草案意...](https://sec.thief.one/article_content?a_id=acf04c9b69209c8adb485c30edcdc126) 
-- [2021-04-29-一文读懂-|-2021年“4.29首都网络安全日”活动日程安排](https://sec.thief.one/article_content?a_id=19bcf3ac3beb7043cb65b94629ed4496) 
-- [2021-04-29-安全日报2021.04.29](https://sec.thief.one/article_content?a_id=3d5bbc8b914c8752e9b57041dc5b3466) 
-- [2021-04-29-广西密码学与信息安全重点实验室2020-2021年研究课题](https://sec.thief.one/article_content?a_id=69058f3ffc44700dd2d22a748a7f00b0) 

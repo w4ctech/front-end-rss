@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-04 10:09:41，:rocket: 更新条数: +4303， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-04 10:35:00，:rocket: 更新条数: +4303， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,7 @@
 </summary>
 
 
+- [2021-05-04-Mac-求建议买-M1-还是-16-寸-Intel](https://www.v2ex.com/t/774880) ![](assets/new.png)  
 - [2021-05-04-MacOS-顶栏变透明了](https://www.v2ex.com/t/774879) ![](assets/new.png)  
 - [2021-05-04-React-或者-Vue-里的-UI-框架里的组件，怎么剥离成-jQuery-版？或者说脱离-react-使用。](https://www.v2ex.com/t/774878) ![](assets/new.png)  
 - [2021-05-04-之前创维电视收集数据那个帖子上电视新闻了？](https://www.v2ex.com/t/774877) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-05-04-电报导出来的数据，消息记录都是-html-格式的，很多个文件，如何查找关键字，在所有文件内？](https://www.v2ex.com/t/774858) ![](assets/new.png)  
 - [2021-05-04-求个国外电话卡，主要用来-tg,google-voice-和微信，要长期使用。](https://www.v2ex.com/t/774857) ![](assets/new.png)  
 - [2021-05-04-想自己做类似群晖的家用共享](https://www.v2ex.com/t/774856) ![](assets/new.png)  
-- [2021-05-04-因为挖矿屯了一堆显卡，除了挖矿还有什么有意思的事情可以做么？](https://www.v2ex.com/t/774855) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-05-04-聊天机器人真不是人，我放心了，不用担心隐私暴露](https://toutiao.io/k/6x3rb9r) ![](assets/new.png)  
 - [2021-05-04-聊聊因不恰当使用-alibaba-sentinel-而踩到的坑](https://toutiao.io/k/4wrlkf7) ![](assets/new.png)  
 - [2021-05-04-MCN-搭配评价模型论文笔记](https://toutiao.io/k/7fuz48b) ![](assets/new.png)  
-- [2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
-- [2021-05-04-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-04-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
 - [2021-05-04-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
-- [2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-04-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-04-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-04-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-04-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
 - [2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
+- [2021-05-04-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-04-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-04-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-04-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-04-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,6 +1109,16 @@
 </summary>
 
 
+- [2021-05-04-你有能力,我有平台,看雪团队诚邀你的加入!](https://sec.thief.one/article_content?a_id=3e27a63cb191d18f3911912c325e9cad) ![](assets/new.png)  
+- [2021-05-04-牛逼的Git!!!](https://sec.thief.one/article_content?a_id=ee4a4efbbc2ae01eb310dc85cdd30481) ![](assets/new.png)  
+- [2021-05-04-你们期待已久的微信功能,终于要来了](https://sec.thief.one/article_content?a_id=df03d970166439aa0307ac282d033edc) ![](assets/new.png)  
+- [2021-05-04-@青年们!这些领袖寄语-温暖了我们的青春岁月](https://sec.thief.one/article_content?a_id=a3803e87a215efb26b46a395654617f3) ![](assets/new.png)  
+- [2021-05-04-如何利用ADExplorer开展侦查工作](https://sec.thief.one/article_content?a_id=befb7531f430879071390ec51b01ce53) ![](assets/new.png)  
+- [2021-05-04-张一鸣这一条微博,阿里P8的我,竟然想了一夜](https://sec.thief.one/article_content?a_id=fe27494c87bc9c50ec155e984cf8b8dd) ![](assets/new.png)  
+- [2021-05-04-Web安全|.htaccess的奇淫技巧](https://sec.thief.one/article_content?a_id=b564783cea7f75171102675bd833eebe) ![](assets/new.png)  
+- [2021-05-04-ICML-刚刚做出了一个「违背祖宗」的决定:要把论文接收率直接砍掉...](https://sec.thief.one/article_content?a_id=d375a0b0b167922bb3fd215879161157) ![](assets/new.png)  
+- [2021-05-04-解析以色列网络空间作战力量](https://sec.thief.one/article_content?a_id=c03c3a644eae033b4a33fc15c3df29fd) ![](assets/new.png)  
+- [2021-05-04-渗透测试常见问题以及方法](https://sec.thief.one/article_content?a_id=ae186285ca053163a2b9e8f09739af28) ![](assets/new.png)  
 - [2021-05-04-三轮摩托、新华字典、草帽毛巾背后的青年习近平](https://sec.thief.one/article_content?a_id=7131883c3fab09d4824243314a31ad75) ![](assets/new.png)  
 - [2021-05-04-《人工智能算法金融应用评价规范》全文](https://sec.thief.one/article_content?a_id=807c71910687d2b4f596f22f0966273e) ![](assets/new.png)  
 - [2021-05-03-SecWiki周刊第374期](https://sec.thief.one/article_content?a_id=a397acab9889e73097f831514a9b8286) ![](assets/new.png)  
@@ -1119,16 +1129,6 @@
 - [2021-05-03-拆解-1968-年的美国军用计算机,真的怀疑是“穿越”啊!](https://sec.thief.one/article_content?a_id=2508ce4f7ff20989f38e5b241fdcac8f) ![](assets/new.png)  
 - [2021-05-03-BazarLoader恶意软件在使用Slack、BaseCamp云服务进行攻击](https://sec.thief.one/article_content?a_id=15415fa43409d55886d8d7fe673f469c) ![](assets/new.png)  
 - [2021-05-03-零基础+进阶系统化白帽黑客学习指南-|-五一优惠活动](https://sec.thief.one/article_content?a_id=b666dd93b444536038508e6028129cbe) ![](assets/new.png)  
-- [2021-05-03-英国网络作战力量浅析](https://sec.thief.one/article_content?a_id=3f3488c15a30fd7eb59bb7916ae0ae09) ![](assets/new.png)  
-- [2021-05-03-嘘,Python-优化提速的-8-个小技巧](https://sec.thief.one/article_content?a_id=f11eeb04dd2e7cb0859746076ff6fd91) ![](assets/new.png)  
-- [2021-05-03-视频-|-Python:面向对象之类方法](https://sec.thief.one/article_content?a_id=26bc572c94aef846919d77ede4972637) ![](assets/new.png)  
-- [2021-05-03-妄想使用虚拟拨号设备犯罪?徐州公安“扫楼”抓获嫌疑人12名](https://sec.thief.one/article_content?a_id=f5897c7be71ac153b87f6aa36c88b10d) ![](assets/new.png)  
-- [2021-05-02-手把手带你从零开始设计CPU【包邮赠书】](https://sec.thief.one/article_content?a_id=c7ad4e67c2da135b5998a3efe92806dc) ![](assets/new.png)  
-- [2021-05-02-网络与交换技术国家重点实验室2021年开放课题](https://sec.thief.one/article_content?a_id=d6fe2a73e8ef4e9932c743457e6c55e5) ![](assets/new.png)  
-- [2021-05-02-网信视窗|4月网信大事回眸](https://sec.thief.one/article_content?a_id=c57a521d12860a98d6d245ad7589907f) ![](assets/new.png)  
-- [2021-05-02-内网渗透基石篇:内网基础知识及域环境搭建](https://sec.thief.one/article_content?a_id=14c112722d8c427f087ba5e89a56080f) ![](assets/new.png)  
-- [2021-05-02-《Android高研班》2021年6月班火热招生中!](https://sec.thief.one/article_content?a_id=b864e622d6ddfdb5d5fd8815c75bde5a) ![](assets/new.png)  
-- [2021-05-02-BadAlloc:微软在IoT/OT设备中发现25个内存分配漏洞](https://sec.thief.one/article_content?a_id=ec0b0e0543ff9f5817631229fa4ecaa2) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

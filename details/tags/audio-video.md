@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-04 14:09:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 14:31:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -87,7 +87,6 @@
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-04-23-为什么很多人认为视频替代文字阅读是一件可怕的事？](https://www.ershicimi.com/p/491e721db9cc983917d83d723a742e3a) 
-- [2021-05-04-Google-强推-AV1，今天突然发现-YouTube-上的很多的视频编码格式都换成了-AV1-了](https://www.v2ex.com/t/774901) 
 - [2021-05-04-WebRTC-噪声抑制模块分析与实践](https://toutiao.io/k/0jalngx) 
 - [2021-05-03-视频-|-Python:面向对象之类方法](https://sec.thief.one/article_content?a_id=26bc572c94aef846919d77ede4972637) 
 - [2021-04-30-视频-|-等保2.0解读:背景、变化、流程、案例、其他!](https://sec.thief.one/article_content?a_id=1c28a4f0461771bb91816681844c68da) 

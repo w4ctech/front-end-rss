@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-04 13:15:24，:rocket: 更新条数: +4303， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-04 13:23:26，:rocket: 更新条数: +4303， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -275,6 +275,7 @@
 </summary>
 
 
+- [2021-05-03-包邮送10本！豆瓣高分前端好书，值得一读！](https://www.ershicimi.com/p/903d08526499de4a51b64a3a6755f216) ![](assets/new.png)  
 - [2021-04-30-关于Vue-3原理的一些心得体会](https://www.ershicimi.com/p/138372500252b7a5266ba4c2b4a5703b) ![](assets/new.png)  
 - [2021-04-30-7000字前端性能优化总结-|-干货建议收藏](https://www.ershicimi.com/p/b07af3f668a26e3b6e723a2a7c286d2d) ![](assets/new.png)  
 - [2021-04-29-十几个CSS高级常见技巧汇总（虚线框、三角形、优惠券卡券、滚动条、多行溢出...）](https://www.ershicimi.com/p/65abffb4e1a5f8c2ce7c424054b36e6f) ![](assets/new.png)  
@@ -294,7 +295,6 @@
 - [2021-04-15-字节跳动最爱考的前端面试题：CSS-基础](https://www.ershicimi.com/p/4f9b89c1dfa6bda6f88051f083a42231) ![](assets/new.png)  
 - [2021-04-14-面试官问-Vue-性能优化，我该怎么回答](https://www.ershicimi.com/p/df8309bad825c220a213abb9625eb73e) ![](assets/new.png)  
 - [2021-04-13-深入浅出-Vue-Mixin](https://www.ershicimi.com/p/03b8532c7918c521d36320d1fb69fbf7) ![](assets/new.png)  
-- [2021-04-12-不读前端源码的你，并不清楚自己错过了什么？](https://www.ershicimi.com/p/2e0b93db0c0e10c1019b9759d17f0363) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-05-04-M1-更新到-11.3-后-swap-确实一直是-0-了，但是](https://www.v2ex.com/t/774902) ![](assets/new.png)  
+- [2021-05-04-Google-强推-AV1，今天突然发现-YouTube-上的很多的视频编码格式都换成了-AV1-了](https://www.v2ex.com/t/774901) ![](assets/new.png)  
 - [2021-05-04-Shopee-的五月有些火热-9+专场招聘会进行时！前端/后端/测试/数据/产品多种岗位等你挑！-HC-超多流程超快！老哥们快来捞捞我吧！](https://www.v2ex.com/t/774900) ![](assets/new.png)  
 - [2021-05-04-YouTube-在-iPhone-上如何开后台播放？](https://www.v2ex.com/t/774899) ![](assets/new.png)  
 - [2021-05-04-字节内推-海量实习岗位，快人一步，即刻投递~~](https://www.v2ex.com/t/774898) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-05-04-React-或者-Vue-里的-UI-框架里的组件，怎么剥离成-jQuery-版？或者说脱离-react-使用。](https://www.v2ex.com/t/774878) ![](assets/new.png)  
 - [2021-05-04-之前创维电视收集数据那个帖子上电视新闻了？](https://www.v2ex.com/t/774877) ![](assets/new.png)  
 - [2021-05-04-bat-批处理可以做自动按键不断按的脚本吗？](https://www.v2ex.com/t/774876) ![](assets/new.png)  
-- [2021-05-04-是否有理论,-能得到随机的柔和背景色和该背景色下的最佳前景色文本颜色?](https://www.v2ex.com/t/774875) ![](assets/new.png)  
-- [2021-05-04-想给桌子配个无线充电，请教下使用过的朋友挖孔和贴在桌面下哪种好？](https://www.v2ex.com/t/774874) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-05-04-聊天机器人真不是人，我放心了，不用担心隐私暴露](https://toutiao.io/k/6x3rb9r) ![](assets/new.png)  
 - [2021-05-04-聊聊因不恰当使用-alibaba-sentinel-而踩到的坑](https://toutiao.io/k/4wrlkf7) ![](assets/new.png)  
 - [2021-05-04-MCN-搭配评价模型论文笔记](https://toutiao.io/k/7fuz48b) ![](assets/new.png)  
-- [2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-04-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
-- [2021-05-04-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
-- [2021-05-04-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-04-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
-- [2021-05-04-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-04-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
 - [2021-05-04-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
+- [2021-05-04-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-04-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-04-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-04-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
+- [2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-04-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

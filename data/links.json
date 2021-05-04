@@ -18395,6 +18395,11 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "包邮送10本！豆瓣高分前端好书，值得一读！",
+        "link": "https://www.ershicimi.com/p/903d08526499de4a51b64a3a6755f216",
+        "date": "2021-05-03"
+      },
+      {
         "title": "关于Vue 3原理的一些心得体会",
         "link": "https://www.ershicimi.com/p/138372500252b7a5266ba4c2b4a5703b",
         "date": "2021-04-30"
@@ -18488,11 +18493,6 @@
         "title": "深入浅出 Vue Mixin",
         "link": "https://www.ershicimi.com/p/03b8532c7918c521d36320d1fb69fbf7",
         "date": "2021-04-13"
-      },
-      {
-        "title": "不读前端源码的你，并不清楚自己错过了什么？",
-        "link": "https://www.ershicimi.com/p/2e0b93db0c0e10c1019b9759d17f0363",
-        "date": "2021-04-12"
       }
     ]
   },
@@ -20751,6 +20751,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "M1 更新到 11.3 后 swap 确实一直是 0 了，但是",
+        "link": "https://www.v2ex.com/t/774902",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "Google 强推 AV1，今天突然发现 YouTube 上的很多的视频编码格式都换成了 AV1 了",
+        "link": "https://www.v2ex.com/t/774901",
+        "date": "2021-05-04"
+      },
+      {
         "title": "[Shopee 的五月有些火热] 9+专场招聘会进行时！前端/后端/测试/数据/产品多种岗位等你挑！ HC 超多流程超快！老哥们快来捞捞我吧！",
         "link": "https://www.v2ex.com/t/774900",
         "date": "2021-05-04"
@@ -20929,16 +20939,6 @@
         "title": "手机收不到验证码，有解决办法嘛？",
         "link": "https://www.v2ex.com/t/774853",
         "date": "2021-05-04"
-      },
-      {
-        "title": "offer 比较 20210505（时间戳防止重复",
-        "link": "https://www.v2ex.com/t/774852",
-        "date": "2021-05-04"
-      },
-      {
-        "title": "目前主 Python 的运维开发，想提升一下技术（赚钱）能力这几个方向该选哪个？",
-        "link": "https://www.v2ex.com/t/774851",
-        "date": "2021-05-04"
       }
     ]
   },
@@ -21105,13 +21105,8 @@
         "date": "2021-05-04"
       },
       {
-        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
-        "link": "https://toutiao.io/k/08uadl6",
-        "date": "2021-05-04"
-      },
-      {
-        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
-        "link": "https://toutiao.io/k/0iue4f4",
+        "title": "[推荐] 一文搞懂分布式锁的原理与实现",
+        "link": "https://toutiao.io/k/j7fdh6h",
         "date": "2021-05-04"
       },
       {
@@ -21120,8 +21115,13 @@
         "date": "2021-05-04"
       },
       {
-        "title": "[推荐] 如何设计一个高性能的秒杀系统",
-        "link": "https://toutiao.io/k/6z3uu2m",
+        "title": "[推荐] 协程切换会引起什么问题",
+        "link": "https://toutiao.io/k/xkhaihd",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "[推荐] Kafka：这次分享我只想把原理讲清楚",
+        "link": "https://toutiao.io/k/0etokja",
         "date": "2021-05-04"
       },
       {
@@ -21130,13 +21130,18 @@
         "date": "2021-05-04"
       },
       {
-        "title": "[推荐] 架构模式之分层架构总结",
-        "link": "https://toutiao.io/k/fwtxydd",
+        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
+        "link": "https://toutiao.io/k/90vs9kg",
         "date": "2021-05-04"
       },
       {
-        "title": "[推荐] 程序员应该掌握的常用网络问题定位工具",
-        "link": "https://toutiao.io/k/upefap5",
+        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
+        "link": "https://toutiao.io/k/08uadl6",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "[推荐] 架构模式之分层架构总结",
+        "link": "https://toutiao.io/k/fwtxydd",
         "date": "2021-05-04"
       },
       {
@@ -21145,28 +21150,8 @@
         "date": "2021-05-04"
       },
       {
-        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
-        "link": "https://toutiao.io/k/iwkig90",
-        "date": "2021-05-04"
-      },
-      {
-        "title": "[推荐] 一文搞懂分布式锁的原理与实现",
-        "link": "https://toutiao.io/k/j7fdh6h",
-        "date": "2021-05-04"
-      },
-      {
-        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
-        "link": "https://toutiao.io/k/90vs9kg",
-        "date": "2021-05-04"
-      },
-      {
-        "title": "[推荐] 协程切换会引起什么问题",
-        "link": "https://toutiao.io/k/xkhaihd",
-        "date": "2021-05-04"
-      },
-      {
-        "title": "[推荐] Redis 进阶笔记",
-        "link": "https://toutiao.io/k/ti0gb8i",
+        "title": "[推荐] 程序员应该掌握的常用网络问题定位工具",
+        "link": "https://toutiao.io/k/upefap5",
         "date": "2021-05-04"
       },
       {
@@ -21175,8 +21160,23 @@
         "date": "2021-05-04"
       },
       {
-        "title": "[推荐] Kafka：这次分享我只想把原理讲清楚",
-        "link": "https://toutiao.io/k/0etokja",
+        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
+        "link": "https://toutiao.io/k/iwkig90",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
+        "link": "https://toutiao.io/k/0iue4f4",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "[推荐] Redis 进阶笔记",
+        "link": "https://toutiao.io/k/ti0gb8i",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "[推荐] 如何设计一个高性能的秒杀系统",
+        "link": "https://toutiao.io/k/6z3uu2m",
         "date": "2021-05-04"
       }
     ]

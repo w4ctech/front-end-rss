@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-04 03:01:01，:rocket: 更新条数: +4299， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-04 03:15:15，:rocket: 更新条数: +4298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,10 @@
 </summary>
 
 
+- [2021-05-04-VSCode-MAC-总是用默认的-git-1.8，即使我已经安装好了最新版，仍然告诉我“You-seem-to-have-git-1.8.3.1-installed.-Code-works-best-with-git->=-2“。](https://www.v2ex.com/t/774828) ![](assets/new.png)  
+- [2021-05-04-IOS-14.5.1-发布了。。然后升级不了。。。这种诡异的-bug。。。](https://www.v2ex.com/t/774827) ![](assets/new.png)  
+- [2021-05-04-vue-多个展示数据的-table，能抽取成一个组件吗](https://www.v2ex.com/t/774826) ![](assets/new.png)  
+- [2021-05-04-深圳公积金里存放-4-万元是最合理的吗？](https://www.v2ex.com/t/774824) ![](assets/new.png)  
 - [2021-05-04-北京的朋友们，你们坐公交地铁用什么方式支付？](https://www.v2ex.com/t/774819) ![](assets/new.png)  
 - [2021-05-04-在-PowerShell-中获取本机命令标准输出中原始字符串的「最佳实践」是什么？](https://www.v2ex.com/t/774817) ![](assets/new.png)  
 - [2021-05-04-群晖里面视频文件变成-0KB-是怎么回事](https://www.v2ex.com/t/774816) ![](assets/new.png)  
@@ -1032,10 +1036,6 @@
 - [2021-05-03-远程全职-社招/校招NODEJS-和-WebRTC-工程师](https://www.v2ex.com/t/774802) ![](assets/new.png)  
 - [2021-05-03-微软-Teams-bug-很多啊](https://www.v2ex.com/t/774801) ![](assets/new.png)  
 - [2021-05-03-神奇……iOS-貌似无法换区了](https://www.v2ex.com/t/774800) ![](assets/new.png)  
-- [2021-05-03-入职深圳某第二梯度大厂一周后收到腾讯-offer,值得跑路么？](https://www.v2ex.com/t/774799) ![](assets/new.png)  
-- [2021-05-03-用-root/shell-权限能禁用-Android-App-的通知吗？](https://www.v2ex.com/t/774798) ![](assets/new.png)  
-- [2021-05-03-请教-stl-中-unordered_set-使用问题](https://www.v2ex.com/t/774797) ![](assets/new.png)  
-- [2021-05-03-在龙岗上班，想买个惠州南站附近的房子。求大佬们给点指导...](https://www.v2ex.com/t/774796) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,20 +1084,20 @@
 - [2021-05-04-日访问过亿，办公-IM-及开放式平台在携程的实践](https://toutiao.io/k/3zyt2c7) ![](assets/new.png)  
 - [2021-05-04-一个新细节，Go-1.17-将允许切片转换为数组指针](https://toutiao.io/k/veymhfk) ![](assets/new.png)  
 - [2021-05-04-WebRTC-噪声抑制模块分析与实践](https://toutiao.io/k/0jalngx) ![](assets/new.png)  
-- [2021-05-04-聊天机器人真不是人，我放心了，不用担心隐私暴露](https://toutiao.io/k/6x3rb9r) ![](assets/new.png)  
 - [2021-05-04-特征工程方法总结](https://toutiao.io/k/b5bv4dl) ![](assets/new.png)  
+- [2021-05-04-聊天机器人真不是人，我放心了，不用担心隐私暴露](https://toutiao.io/k/6x3rb9r) ![](assets/new.png)  
 - [2021-05-04-聊聊因不恰当使用-alibaba-sentinel-而踩到的坑](https://toutiao.io/k/4wrlkf7) ![](assets/new.png)  
 - [2021-05-04-MCN-搭配评价模型论文笔记](https://toutiao.io/k/7fuz48b) ![](assets/new.png)  
-- [2021-05-04-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-04-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-04-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-04-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-04-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
 - [2021-05-04-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-04-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
-- [2021-05-04-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-05-04-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-04-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
 - [2021-05-04-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-04-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-04-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
+- [2021-05-04-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

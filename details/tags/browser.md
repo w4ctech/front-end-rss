@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-04 21:08:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 21:32:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -40,6 +40,7 @@
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2021-05-04-iOS-14.5-的-Safari-采用了新的-WebAuthn-界面](https://www.v2ex.com/t/774931) 
 - [2021-05-04-xcode12.5-可能会导致-go-项目无法断点调试，安装旧版本可以解决](https://www.v2ex.com/t/774916) 
 - [2021-05-04-各位的-mac-m1-上面能用-goland-调试吗?](https://www.v2ex.com/t/774908) 
 - [2021-05-04-记录下-Curl-使用指南](https://www.v2ex.com/t/774907) 

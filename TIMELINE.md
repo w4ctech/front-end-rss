@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-04 22:57:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-05-04 23:05:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2021-05-04-四川｜新增-6-例确诊-2-例无症状](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2021/5/4/1c66613f741c4ccf837ff95de13bd21c.shtml) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2021-05-04-广东｜新增-4-例确诊-11-例无症状](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGnKLefnCByqAHccQkaH210504&isfromapp=1) 
 - [【Vue中文社区】2021-05-02-入职微软一个月感悟](https://www.ershicimi.com/p/f9773c5106140c70369e09da6194e1f4) 
 - [【Vue中文社区】2021-05-02-微信第-1-行代码曝光！](https://www.ershicimi.com/p/f1288310ef2bc1ccc57fb7e5e36f5984) 
 - [【Vue中文社区】2021-05-01-知乎高赞：前端模块化的十年征程](https://www.ershicimi.com/p/4e1896edf64362218f22926ec1f958bd) 
@@ -173,21 +175,21 @@
 - [【开发者头条】2021-05-04-搞懂-JavaScript-类型转换](https://toutiao.io/k/4hok6wf) 
 - [【开发者头条】2021-05-04-聊天机器人真不是人，我放心了，不用担心隐私暴露](https://toutiao.io/k/6x3rb9r) 
 - [【开发者头条】2021-05-04-MCN-搭配评价模型论文笔记](https://toutiao.io/k/7fuz48b) 
-- [【开发者头条】2021-05-04-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) 
-- [【开发者头条】2021-05-04-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) 
-- [【开发者头条】2021-05-04-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) 
-- [【开发者头条】2021-05-04-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) 
-- [【开发者头条】2021-05-04-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) 
-- [【开发者头条】2021-05-04-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) 
 - [【开发者头条】2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) 
 - [【开发者头条】2021-05-04-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) 
-- [【开发者头条】2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) 
+- [【开发者头条】2021-05-04-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) 
 - [【开发者头条】2021-05-04-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) 
-- [【开发者头条】2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) 
-- [【开发者头条】2021-05-04-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) 
-- [【开发者头条】2021-05-04-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) 
-- [【开发者头条】2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) 
+- [【开发者头条】2021-05-04-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) 
 - [【开发者头条】2021-05-04-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) 
+- [【开发者头条】2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) 
+- [【开发者头条】2021-05-04-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) 
+- [【开发者头条】2021-05-04-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) 
+- [【开发者头条】2021-05-04-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) 
+- [【开发者头条】2021-05-04-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) 
+- [【开发者头条】2021-05-04-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) 
+- [【开发者头条】2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) 
+- [【开发者头条】2021-05-04-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) 
+- [【开发者头条】2021-05-04-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) 
 - [【安全热点】2021-05-04-你有能力,我有平台,看雪团队诚邀你的加入!](https://sec.thief.one/article_content?a_id=3e27a63cb191d18f3911912c325e9cad) 
 - [【安全热点】2021-05-04-牛逼的Git!!!](https://sec.thief.one/article_content?a_id=ee4a4efbbc2ae01eb310dc85cdd30481) 
 - [【安全热点】2021-05-04-你们期待已久的微信功能,终于要来了](https://sec.thief.one/article_content?a_id=df03d970166439aa0307ac282d033edc) 

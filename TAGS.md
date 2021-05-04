@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-04 22:57:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 23:05:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -576,6 +576,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】四川｜新增-6-例确诊-2-例无症状](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2021/5/4/1c66613f741c4ccf837ff95de13bd21c.shtml)
+- [【全国新型肺炎疫情实时动态(丁香园)】广东｜新增-4-例确诊-11-例无症状](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGnKLefnCByqAHccQkaH210504&isfromapp=1)
 - [【Vue社区】前端中文入门手册.pdf](https://www.ershicimi.com/p/2f4506872cddac7d2fd824d48b4b6778)
 - [【Vue社区】一文带你了解如何排查内存泄漏导致的页面卡顿现象](https://www.ershicimi.com/p/d9acf4bafd39ff48b4bb88faff9756da)
 - [【Vue社区】前端学到什么程度才能叫精通？](https://www.ershicimi.com/p/33707b58e932e4bcd55feff38d5db5ff)
@@ -594,8 +596,6 @@
 - [【React中文社区】一文达到Mysql实战水平](https://www.ershicimi.com/p/f0acfb4c01e6e94632d6f778ab0e7048)
 - [【React中文社区】一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8)
 - [【React中文社区】一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c)
-- [【React中文社区】双12，送33本前端书籍回馈大家及珍藏已久的几个公众号](https://www.ershicimi.com/p/8d6efb9786a98f2f9682e6bea7bcff88)
-- [【React中文社区】一文深度剖析Axios源码](https://www.ershicimi.com/p/22f3dc65afaa70adb95ed48cc610af4a)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

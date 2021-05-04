@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-03 23:53:59，:rocket: 更新条数: +4302， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-04 00:16:33，:rocket: 更新条数: +4302， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1047,26 +1047,26 @@
 </summary>
 
 
-- [2021-05-03-谷歌最强的-Android-UI-工具包霸榜-GitHub，这份上手指南了解一下？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14335&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBxF5Hfdp4GUFlRkeCxwdmg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-谷歌宣布-Android-加入对-Rust-的支持-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14334&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDb2NrYKhp0yF9Gonpd7xtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-产品需求：Android-截屏分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14333&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9iVTGaU9xJwlig6DV-mcpA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-适配-AndroidQ，不能后台启动-Activity-限制-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14332&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FswMzgiMg6Ff0p8ySchXhrA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-Windows10全新界面来了：焕然一新！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14331&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489742%26amp%3Bidx%3D2%26amp%3Bsn%3D24dec1cf4bae450674ec12147128f7fe%26amp%3Bchksm%3Dfa3cf995cd4b7083030ce77726a2e30ed872cf034d390960dc76679f9ab712f0e2ebe5f741cb%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-微信第1行代码曝光！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14330&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489732%26amp%3Bidx%3D1%26amp%3Bsn%3Df1ab4e1f528352333639a1e1c267ec7f%26amp%3Bchksm%3Dfa3cf99fcd4b7089af072a9f4708bd617b1792359a87b1e3d69f12efb9a76eadc6f660400d1f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-如何快速提升FlutterApp中的动画性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14329&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489732%26amp%3Bidx%3D2%26amp%3Bsn%3Dfc5eccb9be3c542a7bdda300db3a4cd9%26amp%3Bchksm%3Dfa3cf99fcd4b70893220e486c5c5887bf285d729f77ba1da53079824cdf8eb496df9e48442a3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-一晚上，搞出来一个微信订阅号鉴黄机器人-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14328&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489689%26amp%3Bidx%3D1%26amp%3Bsn%3Dec79ba9fce020e3b86ecbf1c9db47a9d%26amp%3Bchksm%3Dfa3cf9c2cd4b70d4e81a33f6cf117543c9bc9ea11c824928abde63aadd37cff661095772433e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-你们猜猜，哪个省的女生最爱丰胸？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14327&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489641%26amp%3Bidx%3D1%26amp%3Bsn%3Db486e38c0e2960c38648a68442217e9b%26amp%3Bchksm%3Dfa3cf932cd4b7024aba03d96ad0dd92741220a3d0922d05378de11897921a212acbfcbfb593e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-专注力对程序员来说意味着什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14326&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489641%26amp%3Bidx%3D2%26amp%3Bsn%3Daf86e71c798f1c66dadc0cdfb851849b%26amp%3Bchksm%3Dfa3cf932cd4b7024bd857cb1138c7ea02780564ab4fbc384a3e7ecac780e5b7d41a2de193e8c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-你已经用上-5G-网络了吗？-www.upyun.com](https://blogread.cn/news/go.php?idItem=14325&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F632%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-关于「教育」问题，一段「有趣」的对话-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14324&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F34%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-优质网站同好者周刊（第-10-期）--倾城之链-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14323&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F35-10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-2021-快应用「广告」接入教程-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14322&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F37-2021%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-广告投放中，常见合作模式梳理-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14321&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F38%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-震惊，高中少年与-CDN-的不解之缘-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14320&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F366233498%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-告别DNS劫持，一文读懂DoH-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14319&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F365093156%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-快速构建Ceph集群-sunqi.me](https://blogread.cn/news/go.php?idItem=14318&url=http%3A%2F%2Fsunqi.me%2F2020%2F09%2F12%2F%25E5%25BF%25AB%25E9%2580%259F%25E6%259E%2584%25E5%25BB%25BACeph%25E9%259B%2586%25E7%25BE%25A4%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-Git新命令switch和restore-yanhaijing.com](https://blogread.cn/news/go.php?idItem=14317&url=http%3A%2F%2Fyanhaijing.com%2Fgit%2F2020%2F09%2F17%2Fgit-switch-and-restore%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-03-前端架构演进---从单体到微前端（理论篇）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14316&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FeNC69rNqSR8XtXDmw66bVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-谷歌最强的-Android-UI-工具包霸榜-GitHub，这份上手指南了解一下？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14335&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBxF5Hfdp4GUFlRkeCxwdmg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-谷歌宣布-Android-加入对-Rust-的支持-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14334&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDb2NrYKhp0yF9Gonpd7xtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-产品需求：Android-截屏分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14333&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9iVTGaU9xJwlig6DV-mcpA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-适配-AndroidQ，不能后台启动-Activity-限制-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14332&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FswMzgiMg6Ff0p8ySchXhrA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-Windows10全新界面来了：焕然一新！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14331&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489742%26amp%3Bidx%3D2%26amp%3Bsn%3D24dec1cf4bae450674ec12147128f7fe%26amp%3Bchksm%3Dfa3cf995cd4b7083030ce77726a2e30ed872cf034d390960dc76679f9ab712f0e2ebe5f741cb%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-微信第1行代码曝光！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14330&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489732%26amp%3Bidx%3D1%26amp%3Bsn%3Df1ab4e1f528352333639a1e1c267ec7f%26amp%3Bchksm%3Dfa3cf99fcd4b7089af072a9f4708bd617b1792359a87b1e3d69f12efb9a76eadc6f660400d1f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-如何快速提升FlutterApp中的动画性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14329&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489732%26amp%3Bidx%3D2%26amp%3Bsn%3Dfc5eccb9be3c542a7bdda300db3a4cd9%26amp%3Bchksm%3Dfa3cf99fcd4b70893220e486c5c5887bf285d729f77ba1da53079824cdf8eb496df9e48442a3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-一晚上，搞出来一个微信订阅号鉴黄机器人-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14328&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489689%26amp%3Bidx%3D1%26amp%3Bsn%3Dec79ba9fce020e3b86ecbf1c9db47a9d%26amp%3Bchksm%3Dfa3cf9c2cd4b70d4e81a33f6cf117543c9bc9ea11c824928abde63aadd37cff661095772433e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-你们猜猜，哪个省的女生最爱丰胸？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14327&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489641%26amp%3Bidx%3D1%26amp%3Bsn%3Db486e38c0e2960c38648a68442217e9b%26amp%3Bchksm%3Dfa3cf932cd4b7024aba03d96ad0dd92741220a3d0922d05378de11897921a212acbfcbfb593e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-专注力对程序员来说意味着什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14326&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489641%26amp%3Bidx%3D2%26amp%3Bsn%3Daf86e71c798f1c66dadc0cdfb851849b%26amp%3Bchksm%3Dfa3cf932cd4b7024bd857cb1138c7ea02780564ab4fbc384a3e7ecac780e5b7d41a2de193e8c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-你已经用上-5G-网络了吗？-www.upyun.com](https://blogread.cn/news/go.php?idItem=14325&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F632%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-关于「教育」问题，一段「有趣」的对话-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14324&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F34%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-优质网站同好者周刊（第-10-期）--倾城之链-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14323&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F35-10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-2021-快应用「广告」接入教程-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14322&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F37-2021%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-广告投放中，常见合作模式梳理-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14321&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F38%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-震惊，高中少年与-CDN-的不解之缘-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14320&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F366233498%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-告别DNS劫持，一文读懂DoH-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14319&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F365093156%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-快速构建Ceph集群-sunqi.me](https://blogread.cn/news/go.php?idItem=14318&url=http%3A%2F%2Fsunqi.me%2F2020%2F09%2F12%2F%25E5%25BF%25AB%25E9%2580%259F%25E6%259E%2584%25E5%25BB%25BACeph%25E9%259B%2586%25E7%25BE%25A4%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-Git新命令switch和restore-yanhaijing.com](https://blogread.cn/news/go.php?idItem=14317&url=http%3A%2F%2Fyanhaijing.com%2Fgit%2F2020%2F09%2F17%2Fgit-switch-and-restore%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-04-前端架构演进---从单体到微前端（理论篇）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14316&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FeNC69rNqSR8XtXDmw66bVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1078,26 +1078,26 @@
 </summary>
 
 
-- [2021-05-03-五一假期不想人挤人？来这里！](https://toutiao.io/k/ok4mp6n) ![](assets/new.png)  
-- [2021-05-03-系统设计之路：如何设计一个-URL-短链服务](https://toutiao.io/k/6mzds1m) ![](assets/new.png)  
-- [2021-05-03-对象的可见性：volatile-篇](https://toutiao.io/k/wa4mx5o) ![](assets/new.png)  
-- [2021-05-03-如何借助-Proxy-代理，提升架构扩展性](https://toutiao.io/k/b6wvgvt) ![](assets/new.png)  
-- [2021-05-03-Java-双刃剑之-Unsafe-类详解](https://toutiao.io/k/z7fag7p) ![](assets/new.png)  
-- [2021-05-03-人工和自然](https://toutiao.io/k/kjh5lwh) ![](assets/new.png)  
-- [2021-05-03-简单聊一聊-MQTT](https://toutiao.io/k/gvwrofa) ![](assets/new.png)  
-- [2021-05-03-被拉进一个刷单群，赚了-75-元：就真的只是刷单吗？](https://toutiao.io/k/gil680k) ![](assets/new.png)  
-- [2021-05-03-Kotlin-内建代理](https://toutiao.io/k/bbseaei) ![](assets/new.png)  
-- [2021-05-03-如何从广度与深度衡量打包工具的好坏](https://toutiao.io/k/ncs1rgp) ![](assets/new.png)  
-- [2021-05-03-推荐-一文搞懂分布式锁的原理与实现](https://toutiao.io/k/j7fdh6h) ![](assets/new.png)  
-- [2021-05-03-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-03-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-03-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-03-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-03-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
-- [2021-05-03-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-03-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
-- [2021-05-03-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
-- [2021-05-03-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-04-五一假期不想人挤人？来这里！](https://toutiao.io/k/ok4mp6n) ![](assets/new.png)  
+- [2021-05-04-系统设计之路：如何设计一个-URL-短链服务](https://toutiao.io/k/6mzds1m) ![](assets/new.png)  
+- [2021-05-04-对象的可见性：volatile-篇](https://toutiao.io/k/wa4mx5o) ![](assets/new.png)  
+- [2021-05-04-如何借助-Proxy-代理，提升架构扩展性](https://toutiao.io/k/b6wvgvt) ![](assets/new.png)  
+- [2021-05-04-Java-双刃剑之-Unsafe-类详解](https://toutiao.io/k/z7fag7p) ![](assets/new.png)  
+- [2021-05-04-人工和自然](https://toutiao.io/k/kjh5lwh) ![](assets/new.png)  
+- [2021-05-04-简单聊一聊-MQTT](https://toutiao.io/k/gvwrofa) ![](assets/new.png)  
+- [2021-05-04-被拉进一个刷单群，赚了-75-元：就真的只是刷单吗？](https://toutiao.io/k/gil680k) ![](assets/new.png)  
+- [2021-05-04-Kotlin-内建代理](https://toutiao.io/k/bbseaei) ![](assets/new.png)  
+- [2021-05-04-如何从广度与深度衡量打包工具的好坏](https://toutiao.io/k/ncs1rgp) ![](assets/new.png)  
+- [2021-05-04-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-04-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-04-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-04-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-04-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-04-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-04-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
+- [2021-05-04-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-04-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
+- [2021-05-04-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,6 +1109,10 @@
 </summary>
 
 
+- [2021-05-04-三轮摩托、新华字典、草帽毛巾背后的青年习近平](https://sec.thief.one/article_content?a_id=7131883c3fab09d4824243314a31ad75) ![](assets/new.png)  
+- [2021-05-04-《人工智能算法金融应用评价规范》全文](https://sec.thief.one/article_content?a_id=807c71910687d2b4f596f22f0966273e) ![](assets/new.png)  
+- [2021-05-03-SecWiki周刊第374期](https://sec.thief.one/article_content?a_id=a397acab9889e73097f831514a9b8286) ![](assets/new.png)  
+- [2021-05-03-宅了两天](https://sec.thief.one/article_content?a_id=0af2aaaab8872edf10ce056970bccb73) ![](assets/new.png)  
 - [2021-05-03-DOMAINTOOLS:2020年度威胁狩猎报告](https://sec.thief.one/article_content?a_id=0c621f68be5fd916a4fa6eb1341cfec8) ![](assets/new.png)  
 - [2021-05-03-您有一份看雪-CTF-团队指南待领取!](https://sec.thief.one/article_content?a_id=01132487ef27bbf28a2c79bab1f2f1a0) ![](assets/new.png)  
 - [2021-05-03-Adb技术基础讲解](https://sec.thief.one/article_content?a_id=fe475b02fecc4d711bebd2d692befb1c) ![](assets/new.png)  
@@ -1125,10 +1129,6 @@
 - [2021-05-02-内网渗透基石篇:内网基础知识及域环境搭建](https://sec.thief.one/article_content?a_id=14c112722d8c427f087ba5e89a56080f) ![](assets/new.png)  
 - [2021-05-02-《Android高研班》2021年6月班火热招生中!](https://sec.thief.one/article_content?a_id=b864e622d6ddfdb5d5fd8815c75bde5a) ![](assets/new.png)  
 - [2021-05-02-BadAlloc:微软在IoT/OT设备中发现25个内存分配漏洞](https://sec.thief.one/article_content?a_id=ec0b0e0543ff9f5817631229fa4ecaa2) ![](assets/new.png)  
-- [2021-05-02-网络安全编程:编写CrackMe程序](https://sec.thief.one/article_content?a_id=d584ec2a58d40aad1323da971af5d38d) ![](assets/new.png)  
-- [2021-05-02-卡内基国际和平基金会《中美网络与核稳定》报告解析](https://sec.thief.one/article_content?a_id=eb2dc6e8fe374ddb2320f450ac141740) ![](assets/new.png)  
-- [2021-05-02-教你完美使用Python,妈妈再也不用担心我买不到显卡](https://sec.thief.one/article_content?a_id=f742c469bc5f1f530d09b791720dec7f) ![](assets/new.png)  
-- [2021-05-02-写代码神器!多屏敲代码贼爽,免费送!](https://sec.thief.one/article_content?a_id=6f8900535cce7dbd62502b3e3688db50) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

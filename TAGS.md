@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-03 23:53:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 00:16:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -457,6 +457,7 @@
 - [【InfoQ】分布式一致性算法：解决分布式系统80%核心问题｜极客时间](https://www.ershicimi.com/p/ca136b774c0ae4b54bbd3d73e8f62759)
 - [【InfoQ】如何看待-70%-的程序员，缺乏数据结构和算法知识？-｜-极客时间](https://www.ershicimi.com/p/56ff22ef079187c309f07e1e3e6e0205)
 - [【JavaScript】Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29)
+- [【安全热点】《人工智能算法金融应用评价规范》全文](https://sec.thief.one/article_content?a_id=807c71910687d2b4f596f22f0966273e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

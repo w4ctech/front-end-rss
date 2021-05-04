@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-05-04 08:58:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 09:09:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Nodejs技术栈
 
 
 
 
+- [2021-05-04-带你认识几个输出爆表的前端大佬](https://www.ershicimi.com/p/37213e5b1a550c5c34437321d5017699) 
+- [2021-05-04-前端应该学习的Token登录认证知识](https://www.ershicimi.com/p/856fa5e8165e5f812bcc0fdaf5987918) 
 - [2021-05-03-一文总结-React-Hooks-常用场景](https://www.ershicimi.com/p/04d517ed6744bdaa5b0618a37b05102c) 
 - [2021-05-02-夜沉-如何打造渐进式可扩展、高生产力的前端研发平台](https://www.ershicimi.com/p/de2264b2a70500d27c16960a0aad5e76) 
 - [2021-04-30-赠书第-5-期｜架构师的自我修炼：技术、架构和未来](https://www.ershicimi.com/p/ae2b0cda27870675c708711858776d2d) 
@@ -23,5 +25,3 @@
 - [2021-04-19-易立竞吐槽程序员，会是什么样？](https://www.ershicimi.com/p/3fc638ba8cc784217e2e4b2cb1ee57b1) 
 - [2021-04-19-React-性能优化完全指南，将自己这几年的心血总结成这篇！](https://www.ershicimi.com/p/a65d9488f8349e98534dcaaadd9df1f9) 
 - [2021-04-16-我们计划招收300位学员，免费攻读商业数据分析！](https://www.ershicimi.com/p/d28b6f346dfc16c2d268f18f68951095) 
-- [2021-04-16-npm/yarn-lock-真香](https://www.ershicimi.com/p/5e62692a7e794241024c3798977f097d) 
-- [2021-04-15-Node.js-看了就会系列-｜常用三方工具包](https://www.ershicimi.com/p/0022714aeeba92777939b0c76c01ca53) 

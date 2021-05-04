@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-04 08:58:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-04 09:09:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -21,7 +21,6 @@
 - [2021-04-25-教你用-Node.js-模拟自动发送邮件验证码](https://www.ershicimi.com/p/9553feb1b6d1fefe073a5465b4a0d000) 
 - [2021-04-22-Node.js-16-来了，14-将支持到-2023-年](https://www.ershicimi.com/p/d8fd11caf3efd7dfbdfe2914ce06981f) 
 - [2021-04-21-深入浅出-Node.js-中间件原理](https://www.ershicimi.com/p/0fd7eb80472932d1cd8624756506ab42) 
-- [2021-04-15-Node.js-看了就会系列-｜常用三方工具包](https://www.ershicimi.com/p/0022714aeeba92777939b0c76c01ca53) 
 - [2021-04-07-如何应用Node.js打造个人提效工作链？](https://www.ershicimi.com/p/567981ae7d174e4109608888575c3207) 
 - [2021-03-09-作为前端开发，Node.js-你得了解下～](https://www.ershicimi.com/p/0f3e9093221929dddea3c6dd757ae61b) 
 - [2021-04-28-如何在-Node.js-中使用-ECMAScript-模块](https://www.ershicimi.com/p/0ea22d26373bfd46b40e5d5fda8cd404) 

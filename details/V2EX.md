@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-05-05 03:13:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-05 03:40:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-05-求个大佬分享下，常用的-VS-code-插件合集，本地批量安装，提高效率~](https://www.v2ex.com/t/774956) 
+- [2021-05-05-想听听-AirPods-Max-的真实体验](https://www.v2ex.com/t/774955) 
+- [2021-05-05-在-IDEA-中如何通过目录名快速定位到具体文件？](https://www.v2ex.com/t/774954) 
 - [2021-05-05-PWA-适合开发音乐播放器吗？](https://www.v2ex.com/t/774953) 
 - [2021-05-05-airTag-附加功能](https://www.v2ex.com/t/774952) 
 - [2021-05-05-远程全栈全职外包招募全栈程序员（C#/vue/electron/前端动画渲染](https://www.v2ex.com/t/774951) 
@@ -41,5 +44,3 @@
 - [2021-05-04-各位-AppleWatch-5-月挑战是什么？](https://www.v2ex.com/t/774912) 
 - [2021-05-04-各位的-mac-m1-上面能用-goland-调试吗?](https://www.v2ex.com/t/774908) 
 - [2021-05-04-记录下-Curl-使用指南](https://www.v2ex.com/t/774907) 
-- [2021-05-04-Java-和-Golang-的未来发展是怎样的？有谁能解读看看？](https://www.v2ex.com/t/774906) 
-- [2021-05-04-求推荐-mac-性价比高的拓展坞](https://www.v2ex.com/t/774904) 

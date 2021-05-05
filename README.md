@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-05 03:13:50，:rocket: 更新条数: +4304， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-05 03:40:40，:rocket: 更新条数: +4306， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-05-05-5月4日全国新增新冠7例-均由境外输入](https://m.caixin.com/m/2021-05-05/101705437.html) ![](assets/new.png)  
+- [2021-05-05-【境内疫情观察】云南瑞丽中高风险区域清零（5月4日）](http://m.database.caixin.com/m/2021-05-05/101705446.html) ![](assets/new.png)  
 - [2021-05-05-印度累计确诊病例突破2000万-新加坡收紧社交距离管制｜大流行手记（5月4日）](https://m.caixin.com/m/2021-05-05/101705431.html) ![](assets/new.png)  
 - [2021-05-04-国药北京所新冠疫苗部分数据披露-老年人保护率等被指证据不足](https://m.caixin.com/m/2021-05-04/101705407.html) ![](assets/new.png)  
 - [2021-05-04-最新海外疫情：新冠感染超1.53亿-累计死亡超320万](https://m.caixin.com/m/2021-05-04/101705331.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-04-30-【境内疫情观察】全国疫情高风险区域清零（4月29日）](http://m.database.caixin.com/m/2021-04-30/101704361.html) ![](assets/new.png)  
 - [2021-04-30-美国筹备新冠疫苗加强针-巴西孕产期女性纳入优先接种｜大流行手记（4月29日）](https://m.caixin.com/m/2021-04-30/101704102.html) ![](assets/new.png)  
 - [2021-04-29-BioNTech创始人称其mRNA新冠疫苗或将于7月前在中国获批](https://m.caixin.com/m/2021-04-29/101701767.html) ![](assets/new.png)  
-- [2021-04-29-【境内疫情观察】浙江新增11例境外输入病例（4月28日）](http://m.database.caixin.com/m/2021-04-29/101701966.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-05-05-求个大佬分享下，常用的-VS-code-插件合集，本地批量安装，提高效率~](https://www.v2ex.com/t/774956) ![](assets/new.png)  
+- [2021-05-05-想听听-AirPods-Max-的真实体验](https://www.v2ex.com/t/774955) ![](assets/new.png)  
+- [2021-05-05-在-IDEA-中如何通过目录名快速定位到具体文件？](https://www.v2ex.com/t/774954) ![](assets/new.png)  
 - [2021-05-05-PWA-适合开发音乐播放器吗？](https://www.v2ex.com/t/774953) ![](assets/new.png)  
 - [2021-05-05-airTag-附加功能](https://www.v2ex.com/t/774952) ![](assets/new.png)  
 - [2021-05-05-远程全栈全职外包招募全栈程序员（C#/vue/electron/前端动画渲染](https://www.v2ex.com/t/774951) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-05-05-请问下适配-M1-的-Eclipse-多久能出来呢？](https://www.v2ex.com/t/774937) ![](assets/new.png)  
 - [2021-05-05-杭州有什么物美价廉的近视眼镜店](https://www.v2ex.com/t/774935) ![](assets/new.png)  
 - [2021-05-05-记一次火车补票](https://www.v2ex.com/t/774934) ![](assets/new.png)  
-- [2021-05-04-用-Golang-写了个币安交易所的数据接收工具，但是在行情火爆的时候容易断，如何解决？](https://www.v2ex.com/t/774933) ![](assets/new.png)  
-- [2021-05-04-请教各位:-苹果-testflight-审核被拒:-不能从对象存储-CDN-得到数据来加载页面.](https://www.v2ex.com/t/774932) ![](assets/new.png)  
-- [2021-05-04-iOS-14.5-的-Safari-采用了新的-WebAuthn-界面](https://www.v2ex.com/t/774931) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1081,23 +1081,23 @@
 - [2021-05-05-五一假期不想人挤人？来这里！](https://toutiao.io/k/ok4mp6n) ![](assets/new.png)  
 - [2021-05-05-译-Pulsar-和-Kafka-架构对比](https://toutiao.io/k/jpoc824) ![](assets/new.png)  
 - [2021-05-05-译-Linux-系统安全强化指南](https://toutiao.io/k/4fpatsr) ![](assets/new.png)  
-- [2021-05-05-闲鱼如何-0-到-1-搭建一套发布引导链路](https://toutiao.io/k/lqr22f6) ![](assets/new.png)  
 - [2021-05-05-58-集团白盒代码审计系统建设实践（二）：深入理解-SAST](https://toutiao.io/k/n05y7h2) ![](assets/new.png)  
+- [2021-05-05-闲鱼如何-0-到-1-搭建一套发布引导链路](https://toutiao.io/k/lqr22f6) ![](assets/new.png)  
 - [2021-05-05-基于-Scoped-CSS-和-Sass-的换肤方案](https://toutiao.io/k/kpxvn6n) ![](assets/new.png)  
 - [2021-05-05-学就完事了！万星项目带你做-3D-游戏：GitHub-热点速览](https://toutiao.io/k/2evvnnn) ![](assets/new.png)  
 - [2021-05-05-终于把-XGBoost-总结写出来了](https://toutiao.io/k/luxyokg) ![](assets/new.png)  
 - [2021-05-05-简单说下-Promise.all-和-Promise.race-区别和使用场景](https://toutiao.io/k/cosvl59) ![](assets/new.png)  
 - [2021-05-05-内部环境的-Wi-Fi-钓鱼实践：基于信任的安全体系一攻即破](https://toutiao.io/k/ulixg07) ![](assets/new.png)  
-- [2021-05-05-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-05-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-05-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-05-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-05-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
 - [2021-05-05-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
-- [2021-05-05-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-05-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-05-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-05-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-05-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-05-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-05-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
+- [2021-05-05-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
 - [2021-05-05-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
+- [2021-05-05-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-05-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

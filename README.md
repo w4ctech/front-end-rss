@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-05 11:07:55，:rocket: 更新条数: +4301， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-05 11:31:28，:rocket: 更新条数: +4301， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-05-05-不慎清空了微信的聊天记录，请问有什么办法恢复吗？](https://www.v2ex.com/t/775013) ![](assets/new.png)  
+- [2021-05-05-这是群晖新版本-BUG？一直自动填充搜索栏，脑阔疼。](https://www.v2ex.com/t/775012) ![](assets/new.png)  
+- [2021-05-05-工作生涯，从来没想现在这么迷茫过…](https://www.v2ex.com/t/775011) ![](assets/new.png)  
 - [2021-05-05-pypy-优缺点是什么？](https://www.v2ex.com/t/775010) ![](assets/new.png)  
 - [2021-05-05-如何搜索身边有没有-airtag？（不是自己的）](https://www.v2ex.com/t/775009) ![](assets/new.png)  
 - [2021-05-05-有什么方法可以手机短信转发？](https://www.v2ex.com/t/775007) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-05-05-开源版-AirTag?](https://www.v2ex.com/t/774986) ![](assets/new.png)  
 - [2021-05-05-同事的妈被车轻微撞了对方全责-保险应该赔偿哪些](https://www.v2ex.com/t/774982) ![](assets/new.png)  
 - [2021-05-05-百度网盘的单日-/-单次会员入口在哪？](https://www.v2ex.com/t/774980) ![](assets/new.png)  
-- [2021-05-05-求推荐-windows-的-mobi-阅读软件，要能放大图片的](https://www.v2ex.com/t/774979) ![](assets/new.png)  
-- [2021-05-05-求一个能压-5800x-的-60mm-内的散热](https://www.v2ex.com/t/774978) ![](assets/new.png)  
-- [2021-05-05-有没有推荐的远程办公的工作](https://www.v2ex.com/t/774977) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,6 +1047,10 @@
 </summary>
 
 
+- [2021-05-05-Google-赢得-Java-API版权-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14344&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSItenMY0TYqipKKwqUvRLQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-05-迁移被废弃的-Kotlin-Android-Extensions-插件!-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14343&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBrH0yHAa62e8n3NG86Z3eQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-05-关于-Android-架构，你是否还在生搬硬套？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14342&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8weFBpUjtb6lofWmXLSlbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-05-05-Android-12-新版本泄露，隐私安全可媲美-iOS-系统？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14341&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzwZ9MHgGO2UMHLSJRQhyqw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-05-05-BigSur的一小步，是苹果打通mac、iPad、iPhone的一大步-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14340&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489759%26amp%3Bidx%3D2%26amp%3Bsn%3Da6856c72d8276bdadf764365f30960c9%26amp%3Bchksm%3Dfa3cf984cd4b7092a41a1835b28e4d1b02ec547e46e645849bb9729e8ad96fae4052f9317adf%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-05-05-全球第二大浏览器升级！内存CPU占用暴降-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14339&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489757%26amp%3Bidx%3D2%26amp%3Bsn%3Dcddf6d06b00cf8aabfb2a0bfbe7735cf%26amp%3Bchksm%3Dfa3cf986cd4b7090ff78e3611e21e8c136c76aebd56b9c87358b0c689422d32d20a9b2334220%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-05-05-这6种学习方式帮助你快速掌握一门编程语言！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14338&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489755%26amp%3Bidx%3D2%26amp%3Bsn%3De16eaa45761b2a33f46a67a035cdaa65%26amp%3Bchksm%3Dfa3cf980cd4b7096471ccdf01ed87ea87c709a333e54054759141fa015df771f512b22de454a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1063,10 +1067,6 @@
 - [2021-05-05-你们猜猜，哪个省的女生最爱丰胸？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14327&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489641%26amp%3Bidx%3D1%26amp%3Bsn%3Db486e38c0e2960c38648a68442217e9b%26amp%3Bchksm%3Dfa3cf932cd4b7024aba03d96ad0dd92741220a3d0922d05378de11897921a212acbfcbfb593e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-05-05-专注力对程序员来说意味着什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14326&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489641%26amp%3Bidx%3D2%26amp%3Bsn%3Daf86e71c798f1c66dadc0cdfb851849b%26amp%3Bchksm%3Dfa3cf932cd4b7024bd857cb1138c7ea02780564ab4fbc384a3e7ecac780e5b7d41a2de193e8c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-05-05-你已经用上-5G-网络了吗？-www.upyun.com](https://blogread.cn/news/go.php?idItem=14325&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F632%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-05-关于「教育」问题，一段「有趣」的对话-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14324&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F34%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-05-优质网站同好者周刊（第-10-期）--倾城之链-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14323&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F35-10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-05-2021-快应用「广告」接入教程-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14322&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F37-2021%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-05-05-广告投放中，常见合作模式梳理-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14321&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F38%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-05-05-简单说下-Promise.all-和-Promise.race-区别和使用场景](https://toutiao.io/k/cosvl59) ![](assets/new.png)  
 - [2021-05-05-终于把-XGBoost-总结写出来了](https://toutiao.io/k/luxyokg) ![](assets/new.png)  
 - [2021-05-05-内部环境的-Wi-Fi-钓鱼实践：基于信任的安全体系一攻即破](https://toutiao.io/k/ulixg07) ![](assets/new.png)  
-- [2021-05-05-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
-- [2021-05-05-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-05-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-05-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
 - [2021-05-05-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
 - [2021-05-05-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
 - [2021-05-05-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-05-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-05-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
+- [2021-05-05-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-05-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
 - [2021-05-05-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
-- [2021-05-05-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-05-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-05-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-05 11:07:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-05 11:31:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,6 +41,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2021-05-05-跨域问题，为什么配置了参数还会时不时出现](https://www.v2ex.com/t/774987) 
 - [2021-05-05-xstyle-扩展从-chrome-商店里消失了](https://www.v2ex.com/t/774973) 
+- [2021-05-05-Android-12-新版本泄露，隐私安全可媲美-iOS-系统？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14341&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzwZ9MHgGO2UMHLSJRQhyqw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-05-05-全球第二大浏览器升级！内存CPU占用暴降-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14339&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489757%26amp%3Bidx%3D2%26amp%3Bsn%3Dcddf6d06b00cf8aabfb2a0bfbe7735cf%26amp%3Bchksm%3Dfa3cf986cd4b7090ff78e3611e21e8c136c76aebd56b9c87358b0c689422d32d20a9b2334220%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-05-05-译-Linux-系统安全强化指南](https://toutiao.io/k/4fpatsr) 
 - [2021-05-05-内部环境的-Wi-Fi-钓鱼实践：基于信任的安全体系一攻即破](https://toutiao.io/k/ulixg07) 

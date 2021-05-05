@@ -20761,6 +20761,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "不慎清空了微信的聊天记录，请问有什么办法恢复吗？",
+        "link": "https://www.v2ex.com/t/775013",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "这是群晖新版本 BUG？一直自动填充搜索栏，脑阔疼。",
+        "link": "https://www.v2ex.com/t/775012",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "工作生涯，从来没想现在这么迷茫过…",
+        "link": "https://www.v2ex.com/t/775011",
+        "date": "2021-05-05"
+      },
+      {
         "title": "pypy 优缺点是什么？",
         "link": "https://www.v2ex.com/t/775010",
         "date": "2021-05-05"
@@ -20914,21 +20929,6 @@
         "title": "罗技 G 系列鼠标在 macOS 上踩坑记录",
         "link": "https://www.v2ex.com/t/774964",
         "date": "2021-05-05"
-      },
-      {
-        "title": "[中国香港] [40-60K HK$] UX/UI 设计师",
-        "link": "https://www.v2ex.com/t/774963",
-        "date": "2021-05-05"
-      },
-      {
-        "title": "黑群晖安装 WebDAV Server 2.4.0 版可能导致外网无法访问，回退到老版本可解决",
-        "link": "https://www.v2ex.com/t/774962",
-        "date": "2021-05-05"
-      },
-      {
-        "title": "公司提供 5k 的笔记本补助，现在开发用的一直是自己的本子，神舟战神 z7，不知道买什么比较合适",
-        "link": "https://www.v2ex.com/t/774961",
-        "date": "2021-05-05"
       }
     ]
   },
@@ -20937,6 +20937,26 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "Google 赢得 Java API版权 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14344&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSItenMY0TYqipKKwqUvRLQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "迁移被废弃的 Kotlin Android Extensions 插件! (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14343&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBrH0yHAa62e8n3NG86Z3eQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "关于 Android 架构，你是否还在生搬硬套？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14342&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8weFBpUjtb6lofWmXLSlbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "Android 12 新版本泄露，隐私安全可媲美 iOS 系统？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14341&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzwZ9MHgGO2UMHLSJRQhyqw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-05-05"
+      },
       {
         "title": "BigSur的一小步，是苹果打通mac、iPad、iPhone的一大步 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14340&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489759%26amp%3Bidx%3D2%26amp%3Bsn%3Da6856c72d8276bdadf764365f30960c9%26amp%3Bchksm%3Dfa3cf984cd4b7092a41a1835b28e4d1b02ec547e46e645849bb9729e8ad96fae4052f9317adf%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -21016,26 +21036,6 @@
         "title": "你已经用上 5G 网络了吗？ (www.upyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14325&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F632%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2021-05-05"
-      },
-      {
-        "title": "关于「教育」问题，一段「有趣」的对话 (forum.lovejade.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14324&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F34%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-05-05"
-      },
-      {
-        "title": "优质网站同好者周刊（第 10 期）- 倾城之链 (forum.lovejade.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14323&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F35-10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-05-05"
-      },
-      {
-        "title": "2021 快应用「广告」接入教程 (forum.lovejade.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14322&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F37-2021%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-05-05"
-      },
-      {
-        "title": "广告投放中，常见合作模式梳理 (forum.lovejade.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14321&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F38%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-05-05"
       }
     ]
   },
@@ -21095,13 +21095,13 @@
         "date": "2021-05-05"
       },
       {
-        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
-        "link": "https://toutiao.io/k/a5s1rfh",
+        "title": "[推荐] 协程切换会引起什么问题",
+        "link": "https://toutiao.io/k/xkhaihd",
         "date": "2021-05-05"
       },
       {
-        "title": "[推荐] 为什么放弃 Kafka，选择 Pulsar?",
-        "link": "https://toutiao.io/k/wxrneux",
+        "title": "[推荐] Redis 进阶笔记",
+        "link": "https://toutiao.io/k/ti0gb8i",
         "date": "2021-05-05"
       },
       {
@@ -21120,33 +21120,8 @@
         "date": "2021-05-05"
       },
       {
-        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
-        "link": "https://toutiao.io/k/90vs9kg",
-        "date": "2021-05-05"
-      },
-      {
-        "title": "[推荐] 图解 Kafka",
-        "link": "https://toutiao.io/k/lvyzxo8",
-        "date": "2021-05-05"
-      },
-      {
-        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
-        "link": "https://toutiao.io/k/0iue4f4",
-        "date": "2021-05-05"
-      },
-      {
-        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
-        "link": "https://toutiao.io/k/iwkig90",
-        "date": "2021-05-05"
-      },
-      {
-        "title": "[推荐] 协程切换会引起什么问题",
-        "link": "https://toutiao.io/k/xkhaihd",
-        "date": "2021-05-05"
-      },
-      {
-        "title": "[推荐] 架构模式之分层架构总结",
-        "link": "https://toutiao.io/k/fwtxydd",
+        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
+        "link": "https://toutiao.io/k/2aonyjp",
         "date": "2021-05-05"
       },
       {
@@ -21155,8 +21130,33 @@
         "date": "2021-05-05"
       },
       {
-        "title": "[推荐] Redis 进阶笔记",
-        "link": "https://toutiao.io/k/ti0gb8i",
+        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
+        "link": "https://toutiao.io/k/0iue4f4",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "[推荐] 为什么放弃 Kafka，选择 Pulsar?",
+        "link": "https://toutiao.io/k/wxrneux",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "[推荐] 图解 Kafka",
+        "link": "https://toutiao.io/k/lvyzxo8",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "[推荐] 用户画像的基础、原理、方法论（模型）和应用",
+        "link": "https://toutiao.io/k/nrdp4oq",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
+        "link": "https://toutiao.io/k/90vs9kg",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
+        "link": "https://toutiao.io/k/iwkig90",
         "date": "2021-05-05"
       },
       {
@@ -21165,8 +21165,8 @@
         "date": "2021-05-05"
       },
       {
-        "title": "[推荐] 用户画像的基础、原理、方法论（模型）和应用",
-        "link": "https://toutiao.io/k/nrdp4oq",
+        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
+        "link": "https://toutiao.io/k/a5s1rfh",
         "date": "2021-05-05"
       }
     ]

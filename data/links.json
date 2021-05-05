@@ -17845,7 +17845,18 @@
     "rss": "https://front-rss.herokuapp.com/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "山东｜新增确诊 1 例  无症状 2 例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF8vuRvUXuLYF9uOIFBMi210505&isfromapp=1",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "全国｜新增确诊 7 例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuMzsf30qXXzt4V9Uz5Xi210505&isfromapp=1",
+        "date": "2021-05-05"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/wechat/ershicimi/9891",

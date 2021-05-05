@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-05 11:40:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-05 11:44:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3193,6 +3193,8 @@
 - [2020-01-20-【图集】武汉每天76趟列车抵广州南-旅客少有戴口罩未见体温检测](http://m.photos.caixin.com/m/2020-01-20/101506484.html) 
 - [2020-01-16-日本公布一新型冠状病毒感染病例-患者去过武汉](http://m.china.caixin.com/m/2020-01-16/101506054.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://m.china.caixin.com/m/2020-01-11/101506220.html) 
+- [2021-05-05-山东｜新增确诊-1-例-无症状-2-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF8vuRvUXuLYF9uOIFBMi210505&isfromapp=1) 
+- [2021-05-05-全国｜新增确诊-7-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuMzsf30qXXzt4V9Uz5Xi210505&isfromapp=1) 
 - [2021-04-21-前端中文入门手册.pdf](https://www.ershicimi.com/p/2f4506872cddac7d2fd824d48b4b6778) 
 - [2021-04-12-一文带你了解如何排查内存泄漏导致的页面卡顿现象](https://www.ershicimi.com/p/d9acf4bafd39ff48b4bb88faff9756da) 
 - [2021-04-09-前端学到什么程度才能叫精通？](https://www.ershicimi.com/p/33707b58e932e4bcd55feff38d5db5ff) 

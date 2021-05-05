@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-05 20:33:07，:rocket: 更新条数: +4304， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-05 20:41:04，:rocket: 更新条数: +4303， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1027,7 +1027,6 @@
 - [2021-05-05-nginx-如何配置才能在-https-下载大文件时调用多个-CPU-核心？](https://www.v2ex.com/t/775049) ![](assets/new.png)  
 - [2021-05-05-求推荐-PSV-游戏，顺带收二手](https://www.v2ex.com/t/775048) ![](assets/new.png)  
 - [2021-05-05-关于容器中代码-debug-方案](https://www.v2ex.com/t/775047) ![](assets/new.png)  
-- [2021-05-05-想外包-2-个项目，在长沙或周边的更好](https://www.v2ex.com/t/775046) ![](assets/new.png)  
 - [2021-05-05-又一次因为键盘膜...](https://www.v2ex.com/t/775045) ![](assets/new.png)  
 - [2021-05-05-千岛湖骑行露营记](https://www.v2ex.com/t/775044) ![](assets/new.png)  
 - [2021-05-05-Mac-的-App-Store-每天都弹出通知让我更新-app，请问要怎么关掉这个通知。](https://www.v2ex.com/t/775043) ![](assets/new.png)  
@@ -1036,6 +1035,7 @@
 - [2021-05-05-求问这这种编码可能是怎么编的?](https://www.v2ex.com/t/775037) ![](assets/new.png)  
 - [2021-05-05-有在用-MackBook-Air-M1-8+256-的吗](https://www.v2ex.com/t/775036) ![](assets/new.png)  
 - [2021-05-05-ios14.5.1-掉帧](https://www.v2ex.com/t/775035) ![](assets/new.png)  
+- [2021-05-05-json.loads-不能把某文本的-str-转换字典类型，复制该-str-到-py-文件内即可转换字典类型，什么原因？](https://www.v2ex.com/t/775032) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-05-05-终于把-XGBoost-总结写出来了](https://toutiao.io/k/luxyokg) ![](assets/new.png)  
 - [2021-05-05-简单说下-Promise.all-和-Promise.race-区别和使用场景](https://toutiao.io/k/cosvl59) ![](assets/new.png)  
 - [2021-05-05-内部环境的-Wi-Fi-钓鱼实践：基于信任的安全体系一攻即破](https://toutiao.io/k/ulixg07) ![](assets/new.png)  
-- [2021-05-05-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
-- [2021-05-05-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-05-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
 - [2021-05-05-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
-- [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-05-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
 - [2021-05-05-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-05-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-05-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
 - [2021-05-05-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-05-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-05-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
 - [2021-05-05-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-05-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-05-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

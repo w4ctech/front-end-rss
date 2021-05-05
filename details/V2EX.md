@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-05 20:33:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-05 20:41:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -16,7 +16,6 @@
 - [2021-05-05-nginx-如何配置才能在-https-下载大文件时调用多个-CPU-核心？](https://www.v2ex.com/t/775049) 
 - [2021-05-05-求推荐-PSV-游戏，顺带收二手](https://www.v2ex.com/t/775048) 
 - [2021-05-05-关于容器中代码-debug-方案](https://www.v2ex.com/t/775047) 
-- [2021-05-05-想外包-2-个项目，在长沙或周边的更好](https://www.v2ex.com/t/775046) 
 - [2021-05-05-又一次因为键盘膜...](https://www.v2ex.com/t/775045) 
 - [2021-05-05-千岛湖骑行露营记](https://www.v2ex.com/t/775044) 
 - [2021-05-05-Mac-的-App-Store-每天都弹出通知让我更新-app，请问要怎么关掉这个通知。](https://www.v2ex.com/t/775043) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-05 07:42:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-05 07:50:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -394,7 +394,6 @@
 - [【奇舞周刊】2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152)
 - [【互联网架构师】类加载常见错误总结，写得非常好！](https://www.ershicimi.com/p/83edaca56e38cb33149832de0f34c32c)
 - [【InfoQ】对Kafka-和-Pulsar进行性能测试后，拉卡拉将消息平台统一换成了-Pulsar](https://www.ershicimi.com/p/dabd15162f6de46c1783ec9c6129178b)
-- [【V2EX】请教各位:-苹果-testflight-审核被拒:-不能从对象存储-CDN-得到数据来加载页面.](https://www.v2ex.com/t/774932)
 - [【开发者头条】推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m)
 - [【安全热点】嘘,Python-优化提速的-8-个小技巧](https://sec.thief.one/article_content?a_id=f11eeb04dd2e7cb0859746076ff6fd91)
 - [......【查看更多】......](./details/tags/optimization.md)

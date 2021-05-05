@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-05 10:54:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-05 11:04:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -56,7 +56,6 @@
 - [2021-04-19-Vue面试必问原理及源码，这下有答案了](https://www.ershicimi.com/p/112949a800e2ec9e9695dc3888c1b3cc) 
 - [2021-05-02-Vue3-+-Vite2-+-TypeScript-开发复盘总结](https://www.ershicimi.com/p/61c694f89871d22972099a9683dc65c1) 
 - [2021-05-02-一文走进-vue3-沙箱机制](https://www.ershicimi.com/p/de498d45e8e72616e43f7be3ed6fc4c0) 
-- [2021-04-26-在Vue中实现Svelte的Defer-Transition](https://www.ershicimi.com/p/f557fe2bc3fcf5a842dc91254cb7953f) 
 - [2021-04-26-GraphQL-实战篇之前端Vue+后端Nest](https://www.ershicimi.com/p/95362691665f4c39ab3dea26d2f55ab3) 
 - [2021-04-25-大厂2个Vue实践总结，效率提升80%！](https://www.ershicimi.com/p/625f7b5e7aaeb6084620c461c2b556ab) 
 - [2021-04-30-重磅！阿里首推的“SpringBoot+Vue全栈项目”有多牛X？](https://www.ershicimi.com/p/f926d828666b484449f536af8ef1a414) 

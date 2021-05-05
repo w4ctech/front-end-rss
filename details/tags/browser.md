@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-05 10:08:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-05 10:34:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,6 +43,7 @@
 - [2021-05-05-xstyle-扩展从-chrome-商店里消失了](https://www.v2ex.com/t/774973) 
 - [2021-05-05-译-Linux-系统安全强化指南](https://toutiao.io/k/4fpatsr) 
 - [2021-05-05-内部环境的-Wi-Fi-钓鱼实践：基于信任的安全体系一攻即破](https://toutiao.io/k/ulixg07) 
+- [2021-05-05-2021年面向系统管理员的顶级免费安全管理工具](https://sec.thief.one/article_content?a_id=0d0fc40f46d75a560754e0337735abec) 
 - [2021-05-05-网络安全攻防:Web安全之XSS跨站](https://sec.thief.one/article_content?a_id=664b5bdd5cbcc9b6237c817dd940df8b) 
 - [2021-05-04-使用ThreatMapper识别容器、镜像主机和代码库中的安全漏洞](https://sec.thief.one/article_content?a_id=38f10f7b45ae4f607e8b2eeb329209e3) 
 - [2021-05-04-Web安全|.htaccess的奇淫技巧](https://sec.thief.one/article_content?a_id=b564783cea7f75171102675bd833eebe) 
@@ -61,6 +62,3 @@
 - [2021-04-30-安全日报2021.04.30](https://sec.thief.one/article_content?a_id=17283c01078c81d6742c7194d507236b) 
 - [2021-04-30-MacOS内核安全性检测](https://sec.thief.one/article_content?a_id=f585fe2901efd76d3d23899b5654dca7) 
 - [2021-04-30-数据安全如何定级](https://sec.thief.one/article_content?a_id=7a781f875cbd0ee89255f78c50a43029) 
-- [2021-04-29-【安全圈】FBI将400万个被泄露的邮件地址从Emotet移交给Have-I-...](https://sec.thief.one/article_content?a_id=c96479ae3bde8fcb3352539e62ad34c9) 
-- [2021-04-29-武汉数据安全培训专题圆满落幕|珠海,我们来了](https://sec.thief.one/article_content?a_id=680091f83295516199c0819a6dd6b1f5) 
-- [2021-04-29-现场直击-|-429首都网络安全日展位亮点全揭秘](https://sec.thief.one/article_content?a_id=3e09f29ef63faddb7ff459503936da99) 

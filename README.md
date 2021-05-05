@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-05 11:31:28，:rocket: 更新条数: +4301， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-05 11:40:32，:rocket: 更新条数: +4299， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
@@ -96,8 +96,6 @@
 </summary>
 
 
-- [2021-05-05-山东｜新增确诊-1-例-无症状-2-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF8vuRvUXuLYF9uOIFBMi210505&isfromapp=1) ![](assets/new.png)  
-- [2021-05-05-全国｜新增确诊-7-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuMzsf30qXXzt4V9Uz5Xi210505&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1014,8 @@
 </summary>
 
 
+- [2021-05-05-提供一系列-IPv6-的-Looking-Glass](https://www.v2ex.com/t/775015) ![](assets/new.png)  
+- [2021-05-05-各位八达通能否正常登录？](https://www.v2ex.com/t/775014) ![](assets/new.png)  
 - [2021-05-05-不慎清空了微信的聊天记录，请问有什么办法恢复吗？](https://www.v2ex.com/t/775013) ![](assets/new.png)  
 - [2021-05-05-这是群晖新版本-BUG？一直自动填充搜索栏，脑阔疼。](https://www.v2ex.com/t/775012) ![](assets/new.png)  
 - [2021-05-05-工作生涯，从来没想现在这么迷茫过…](https://www.v2ex.com/t/775011) ![](assets/new.png)  
@@ -1034,8 +1034,6 @@
 - [2021-05-05-4-5K-的预算，-U2720qm-是不是-mac-外屏最佳选择？](https://www.v2ex.com/t/774988) ![](assets/new.png)  
 - [2021-05-05-跨域问题，为什么配置了参数还会时不时出现](https://www.v2ex.com/t/774987) ![](assets/new.png)  
 - [2021-05-05-开源版-AirTag?](https://www.v2ex.com/t/774986) ![](assets/new.png)  
-- [2021-05-05-同事的妈被车轻微撞了对方全责-保险应该赔偿哪些](https://www.v2ex.com/t/774982) ![](assets/new.png)  
-- [2021-05-05-百度网盘的单日-/-单次会员入口在哪？](https://www.v2ex.com/t/774980) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1086,16 @@
 - [2021-05-05-简单说下-Promise.all-和-Promise.race-区别和使用场景](https://toutiao.io/k/cosvl59) ![](assets/new.png)  
 - [2021-05-05-终于把-XGBoost-总结写出来了](https://toutiao.io/k/luxyokg) ![](assets/new.png)  
 - [2021-05-05-内部环境的-Wi-Fi-钓鱼实践：基于信任的安全体系一攻即破](https://toutiao.io/k/ulixg07) ![](assets/new.png)  
-- [2021-05-05-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-05-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-05-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
 - [2021-05-05-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
 - [2021-05-05-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-05-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-05-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-05-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
+- [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-05-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
 - [2021-05-05-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-05-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-05-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
 - [2021-05-05-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-05-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-05-05-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

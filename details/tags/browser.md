@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-05 00:09:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-05 00:19:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,6 +43,8 @@
 - [2021-05-04-xcode12.5-可能会导致-go-项目无法断点调试，安装旧版本可以解决](https://www.v2ex.com/t/774916) 
 - [2021-05-04-各位的-mac-m1-上面能用-goland-调试吗?](https://www.v2ex.com/t/774908) 
 - [2021-05-04-记录下-Curl-使用指南](https://www.v2ex.com/t/774907) 
+- [2021-05-05-网络安全攻防:Web安全之XSS跨站](https://sec.thief.one/article_content?a_id=664b5bdd5cbcc9b6237c817dd940df8b) 
+- [2021-05-04-使用ThreatMapper识别容器、镜像主机和代码库中的安全漏洞](https://sec.thief.one/article_content?a_id=38f10f7b45ae4f607e8b2eeb329209e3) 
 - [2021-05-04-Web安全|.htaccess的奇淫技巧](https://sec.thief.one/article_content?a_id=b564783cea7f75171102675bd833eebe) 
 - [2021-05-02-网络安全编程:编写CrackMe程序](https://sec.thief.one/article_content?a_id=d584ec2a58d40aad1323da971af5d38d) 
 - [2021-05-01-App安全合规的思考:监管的重点变化梳理](https://sec.thief.one/article_content?a_id=9365d75052bdaa811fb51bd2ab94af94) 
@@ -62,4 +64,3 @@
 - [2021-04-29-【安全圈】FBI将400万个被泄露的邮件地址从Emotet移交给Have-I-...](https://sec.thief.one/article_content?a_id=c96479ae3bde8fcb3352539e62ad34c9) 
 - [2021-04-29-武汉数据安全培训专题圆满落幕|珠海,我们来了](https://sec.thief.one/article_content?a_id=680091f83295516199c0819a6dd6b1f5) 
 - [2021-04-29-现场直击-|-429首都网络安全日展位亮点全揭秘](https://sec.thief.one/article_content?a_id=3e09f29ef63faddb7ff459503936da99) 
-- [2021-04-29-【安全风险通告】奇安信CERT已验证,Apache-OFBiz多个高危漏洞安...](https://sec.thief.one/article_content?a_id=4b0c22f48e82366bfff32670a1dfee06) 

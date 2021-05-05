@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-05 00:09:38，:rocket: 更新条数: +4298， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-05 00:19:53，:rocket: 更新条数: +4298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1088,16 +1088,16 @@
 - [2021-05-05-搞懂-JavaScript-类型转换](https://toutiao.io/k/4hok6wf) ![](assets/new.png)  
 - [2021-05-05-聊天机器人真不是人，我放心了，不用担心隐私暴露](https://toutiao.io/k/6x3rb9r) ![](assets/new.png)  
 - [2021-05-05-MCN-搭配评价模型论文笔记](https://toutiao.io/k/7fuz48b) ![](assets/new.png)  
+- [2021-05-05-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
 - [2021-05-05-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-05-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-05-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-05-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
 - [2021-05-05-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-05-05-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
-- [2021-05-05-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
-- [2021-05-05-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-05-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-05-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
 - [2021-05-05-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-05-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-05-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-05-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-05-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,6 +1109,8 @@
 </summary>
 
 
+- [2021-05-05-网络安全攻防:Web安全之XSS跨站](https://sec.thief.one/article_content?a_id=664b5bdd5cbcc9b6237c817dd940df8b) ![](assets/new.png)  
+- [2021-05-04-使用ThreatMapper识别容器、镜像主机和代码库中的安全漏洞](https://sec.thief.one/article_content?a_id=38f10f7b45ae4f607e8b2eeb329209e3) ![](assets/new.png)  
 - [2021-05-04-你有能力,我有平台,看雪团队诚邀你的加入!](https://sec.thief.one/article_content?a_id=3e27a63cb191d18f3911912c325e9cad) ![](assets/new.png)  
 - [2021-05-04-牛逼的Git!!!](https://sec.thief.one/article_content?a_id=ee4a4efbbc2ae01eb310dc85cdd30481) ![](assets/new.png)  
 - [2021-05-04-你们期待已久的微信功能,终于要来了](https://sec.thief.one/article_content?a_id=df03d970166439aa0307ac282d033edc) ![](assets/new.png)  
@@ -1127,8 +1129,6 @@
 - [2021-05-03-您有一份看雪-CTF-团队指南待领取!](https://sec.thief.one/article_content?a_id=01132487ef27bbf28a2c79bab1f2f1a0) ![](assets/new.png)  
 - [2021-05-03-Adb技术基础讲解](https://sec.thief.one/article_content?a_id=fe475b02fecc4d711bebd2d692befb1c) ![](assets/new.png)  
 - [2021-05-03-拆解-1968-年的美国军用计算机,真的怀疑是“穿越”啊!](https://sec.thief.one/article_content?a_id=2508ce4f7ff20989f38e5b241fdcac8f) ![](assets/new.png)  
-- [2021-05-03-BazarLoader恶意软件在使用Slack、BaseCamp云服务进行攻击](https://sec.thief.one/article_content?a_id=15415fa43409d55886d8d7fe673f469c) ![](assets/new.png)  
-- [2021-05-03-零基础+进阶系统化白帽黑客学习指南-|-五一优惠活动](https://sec.thief.one/article_content?a_id=b666dd93b444536038508e6028129cbe) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

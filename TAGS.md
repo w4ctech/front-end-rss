@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-05 02:57:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-05 03:09:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -224,6 +224,7 @@
 - [【政采云前端团队】Flutter-UI调试小工具——颜色吸管](https://www.ershicimi.com/p/e7bdeb8ec12cc7df3cb0aa11a92d7123)
 - [【政采云前端团队】【Flutter-技能篇】你不得不会的状态管理-Provider](https://www.ershicimi.com/p/ce1e5ffc69f2c386ef1395d5f6babc71)
 - [【奇舞周刊】奇舞周刊第-394-期：基于-Flutter-的-Web-渲染引擎“北海”正式开源](https://www.ershicimi.com/p/a313a269746c1d66570bb5ad85b31be2)
+- [【V2EX】PWA-适合开发音乐播放器吗？](https://www.v2ex.com/t/774953)
 - [【技术头条】如何快速提升FlutterApp中的动画性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14329&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489732%26amp%3Bidx%3D2%26amp%3Bsn%3Dfc5eccb9be3c542a7bdda300db3a4cd9%26amp%3Bchksm%3Dfa3cf99fcd4b70893220e486c5c5887bf285d729f77ba1da53079824cdf8eb496df9e48442a3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
@@ -498,6 +499,7 @@
 - [【JavaScript】Atom-1.56.0-发布，GitHub-官方文本编辑器](https://www.ershicimi.com/p/c35fb03a8c5fe27e9d8bfcb139d2a679)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】为什么我-git-reset-HEAD-就是无法把一个被-add-的文件给赶出去？](https://www.v2ex.com/t/774950)
 - [【技术头条】谷歌最强的-Android-UI-工具包霸榜-GitHub，这份上手指南了解一下？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14335&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBxF5Hfdp4GUFlRkeCxwdmg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】牛逼的Git!!!](https://sec.thief.one/article_content?a_id=ee4a4efbbc2ae01eb310dc85cdd30481)
 - [【安全热点】GitHub-热榜:一款让黑客们都爱不释手的开源工具!](https://sec.thief.one/article_content?a_id=fb7568c8c686ef3ab7eeb0b40b97b437)
@@ -535,7 +537,6 @@
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【互联网架构师】虎牙面试官：String长度有限制吗？是多少？我：这太...](https://www.ershicimi.com/p/9296c77fed825a73929d16b70c299578)
 - [【JavaScript】重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/2dd643e87f8415ea43cd71fae653209b)
-- [【V2EX】Shopee-的五月有些火热-9+专场招聘会进行时！前端/后端/测试/数据/产品多种岗位等你挑！-HC-超多流程超快！老哥们快来捞捞我吧！](https://www.v2ex.com/t/774900)
 - [【开发者头条】推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-05 10:43:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-05 10:54:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -14,7 +14,6 @@
 - [2021-04-15-Atom-1.56.0-发布，GitHub-官方文本编辑器](https://www.ershicimi.com/p/c35fb03a8c5fe27e9d8bfcb139d2a679) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
-- [2021-05-05-Gitee-项目被重置了名称，原因竟然是因为项目名和描述中带有"bb"bbs](https://www.v2ex.com/t/775006) 
 - [2021-05-05-有什么-轻量化-/-可-git-/-又美观-的表格嘛](https://www.v2ex.com/t/774999) 
 - [2021-05-05-GitHub-里发现一款-mac-没有大下巴-有没有人知道是哪一款](https://www.v2ex.com/t/774995) 
 - [2021-05-05-谷歌最强的-Android-UI-工具包霸榜-GitHub，这份上手指南了解一下？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14335&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBxF5Hfdp4GUFlRkeCxwdmg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

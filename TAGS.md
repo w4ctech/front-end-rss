@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-05 10:43:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-05 10:54:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -497,7 +497,6 @@
 - [【JavaScript】Atom-1.56.0-发布，GitHub-官方文本编辑器](https://www.ershicimi.com/p/c35fb03a8c5fe27e9d8bfcb139d2a679)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【V2EX】Gitee-项目被重置了名称，原因竟然是因为项目名和描述中带有"bb"bbs](https://www.v2ex.com/t/775006)
 - [【V2EX】有什么-轻量化-/-可-git-/-又美观-的表格嘛](https://www.v2ex.com/t/774999)
 - [【V2EX】GitHub-里发现一款-mac-没有大下巴-有没有人知道是哪一款](https://www.v2ex.com/t/774995)
 - [【技术头条】谷歌最强的-Android-UI-工具包霸榜-GitHub，这份上手指南了解一下？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14335&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBxF5Hfdp4GUFlRkeCxwdmg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -537,7 +536,6 @@
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【互联网架构师】虎牙面试官：String长度有限制吗？是多少？我：这太...](https://www.ershicimi.com/p/9296c77fed825a73929d16b70c299578)
 - [【JavaScript】重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/2dd643e87f8415ea43cd71fae653209b)
-- [【V2EX】滴滴面试完被秒拒](https://www.v2ex.com/t/774958)
 - [【开发者头条】推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

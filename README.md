@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-05 02:35:34，:rocket: 更新条数: +4302， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-05 02:57:00，:rocket: 更新条数: +4303， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-05-05-迫于高铁没有站台票，可以买张短途票送老人上车后，然后自己下车出站吗？](https://www.v2ex.com/t/774949) ![](assets/new.png)  
+- [2021-05-05-iOS-微信朋友圈的引导性广告怎么去掉？](https://www.v2ex.com/t/774948) ![](assets/new.png)  
 - [2021-05-05-数据库内核月报（http://mysql.taobao.org/monthly/-）可以把-rss-里的网址改成-mysql.taobao.org-吗，现在是你们的内网-ip](https://www.v2ex.com/t/774946) ![](assets/new.png)  
 - [2021-05-05-新-iPad-拉垮了么，还没有媒体评测出来。](https://www.v2ex.com/t/774945) ![](assets/new.png)  
 - [2021-05-05-挑战：获取文件夹中-Python-文件并使用其文件名生成数组字面量字符串](https://www.v2ex.com/t/774944) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-05-04-广东人，打算珠三角定居。房子买哪里好呢？周末回去住或者放东西。](https://www.v2ex.com/t/774929) ![](assets/new.png)  
 - [2021-05-04-啊，不是，这个-airTag-根本不能用来找车啊](https://www.v2ex.com/t/774928) ![](assets/new.png)  
 - [2021-05-04-macbook-m1-适合升级-11.3.1-吗](https://www.v2ex.com/t/774927) ![](assets/new.png)  
-- [2021-05-04-像-Twitch-和-斗鱼-网页端怎么检测用户是否在浏览当前页面的？](https://www.v2ex.com/t/774925) ![](assets/new.png)  
-- [2021-05-04-开发一个苹果-app，-app-自身不实现账户系统，也可以让用户购买不同等级的-vip-对吗](https://www.v2ex.com/t/774922) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1086,18 +1086,18 @@
 - [2021-05-05-基于-Scoped-CSS-和-Sass-的换肤方案](https://toutiao.io/k/kpxvn6n) ![](assets/new.png)  
 - [2021-05-05-学就完事了！万星项目带你做-3D-游戏：GitHub-热点速览](https://toutiao.io/k/2evvnnn) ![](assets/new.png)  
 - [2021-05-05-终于把-XGBoost-总结写出来了](https://toutiao.io/k/luxyokg) ![](assets/new.png)  
-- [2021-05-05-内部环境的-Wi-Fi-钓鱼实践：基于信任的安全体系一攻即破](https://toutiao.io/k/ulixg07) ![](assets/new.png)  
 - [2021-05-05-简单说下-Promise.all-和-Promise.race-区别和使用场景](https://toutiao.io/k/cosvl59) ![](assets/new.png)  
-- [2021-05-05-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-05-内部环境的-Wi-Fi-钓鱼实践：基于信任的安全体系一攻即破](https://toutiao.io/k/ulixg07) ![](assets/new.png)  
+- [2021-05-05-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
 - [2021-05-05-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
-- [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
 - [2021-05-05-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
-- [2021-05-05-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
-- [2021-05-05-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-05-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-05-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
+- [2021-05-05-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
 - [2021-05-05-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-05-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
 - [2021-05-05-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-05-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-05-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

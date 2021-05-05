@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-05 09:56:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-05 10:04:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2021-05-05-在-IDEA-中如何通过目录名快速定位到具体文件？](https://www.v2ex.com/t/774954) 
 - [2021-05-05-PWA-适合开发音乐播放器吗？](https://www.v2ex.com/t/774953) 
 - [2021-05-05-airTag-附加功能](https://www.v2ex.com/t/774952) 
-- [2021-05-05-远程全栈全职外包招募全栈程序员（C#/vue/electron/前端动画渲染](https://www.v2ex.com/t/774951) 

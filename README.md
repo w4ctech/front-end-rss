@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-05 04:42:57，:rocket: 更新条数: +4308， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-05 04:50:52，:rocket: 更新条数: +741， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-05-05-5月4日全国新增新冠7例-均由境外输入](https://m.caixin.com/m/2021-05-05/101705437.html) ![](assets/new.png)  
-- [2021-05-05-【境内疫情观察】云南瑞丽中高风险区域清零（5月4日）](http://m.database.caixin.com/m/2021-05-05/101705446.html) ![](assets/new.png)  
-- [2021-05-05-印度累计确诊病例突破2000万-新加坡收紧社交距离管制｜大流行手记（5月4日）](https://m.caixin.com/m/2021-05-05/101705431.html) ![](assets/new.png)  
-- [2021-05-04-国药北京所新冠疫苗部分数据披露-老年人保护率等被指证据不足](https://m.caixin.com/m/2021-05-04/101705407.html) ![](assets/new.png)  
-- [2021-05-04-最新海外疫情：新冠感染超1.53亿-累计死亡超320万](https://m.caixin.com/m/2021-05-04/101705331.html) ![](assets/new.png)  
-- [2021-05-04-【境内疫情观察】全国新增17例境外输入病例（5月3日）](http://m.database.caixin.com/m/2021-05-04/101705307.html) ![](assets/new.png)  
-- [2021-05-04-欧盟建议放宽国际旅行限制-丹麦停用强生疫苗-|-大流行手记（5月3日）](https://m.caixin.com/m/2021-05-04/101705293.html) ![](assets/new.png)  
-- [2021-05-03-【境内疫情观察】全国现有确诊病例323例（5月2日）](http://m.database.caixin.com/m/2021-05-03/101705195.html) ![](assets/new.png)  
-- [2021-05-03-福奇建议印度全国封锁-英酝酿9月为12岁以上学童接种｜大流行手记（5月2日）](https://m.caixin.com/m/2021-05-03/101705171.html) ![](assets/new.png)  
-- [2021-05-02-【境内疫情观察】全国新增15例境外输入病例（5月1日）](http://m.database.caixin.com/m/2021-05-02/101705102.html) ![](assets/new.png)  
-- [2021-05-02-印度单日新增超40万例-巴西疫情缓解｜大流行手记（5月1日）](https://m.caixin.com/m/2021-05-02/101705089.html) ![](assets/new.png)  
-- [2021-05-01-美国对印度发布旅行禁令-5月4日起限制人员从印度入境](http://m.international.caixin.com/m/2021-05-01/101704855.html) ![](assets/new.png)  
-- [2021-05-01-【境内疫情观察】全国新增16例境外输入病例（4月30日）](http://m.database.caixin.com/m/2021-05-01/101704949.html) ![](assets/new.png)  
-- [2021-05-01-东京奥运会拟闭门比赛-法国5月19日起逐步解封｜大流行手记（4月30日）](https://m.caixin.com/m/2021-05-01/101704798.html) ![](assets/new.png)  
-- [2021-04-30-中国报告多个印度输入新冠病例-双突变病毒影响待观察](https://m.caixin.com/m/2021-04-30/101704332.html) ![](assets/new.png)  
-- [2021-04-30-双重变种病毒流入香港社区-确诊菲佣感染10个月女婴](https://m.caixin.com/m/2021-04-30/101704317.html) ![](assets/new.png)  
-- [2021-04-30-双重变种病毒突现社区-港府紧急宣布37万外佣强制检测](https://m.caixin.com/m/2021-04-30/101704731.html) ![](assets/new.png)  
-- [2021-04-30-【境内疫情观察】全国疫情高风险区域清零（4月29日）](http://m.database.caixin.com/m/2021-04-30/101704361.html) ![](assets/new.png)  
-- [2021-04-30-美国筹备新冠疫苗加强针-巴西孕产期女性纳入优先接种｜大流行手记（4月29日）](https://m.caixin.com/m/2021-04-30/101704102.html) ![](assets/new.png)  
-- [2021-04-29-BioNTech创始人称其mRNA新冠疫苗或将于7月前在中国获批](https://m.caixin.com/m/2021-04-29/101701767.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -985,6 +965,9 @@
 </summary>
 
 
+- [2021-05-04-知乎这部刷屏的微电影，登上了共青团中央的五四全国大直播](https://www.ershicimi.com/p/a18da034dcd7a7e385ab9d658a7799b8) ![](assets/new.png)  
+- [2021-05-04-知乎故事-|-「悄悄崩溃」又「爬起继续」的瞬间](https://www.ershicimi.com/p/4227f937a5c270107df6dbdde71737cd) ![](assets/new.png)  
+- [2021-05-02-知乎高赞微电影《重逢》，泪点低的勿看](https://www.ershicimi.com/p/0db4de8cb9b3a97075ab53c51bee184d) ![](assets/new.png)  
 - [2021-04-30-知乎瞎扯-|-把《圣经》放在-Kindle-里面，可以给牧师用来驱魔吗？](https://www.ershicimi.com/p/62ccac3910b4772bc5be458c2c7c6761) ![](assets/new.png)  
 - [2021-04-30-知乎故事-|-男朋友真的喜欢女朋友撒娇卖萌打诨吗？](https://www.ershicimi.com/p/d536a8b565c28927cae113bcd9069889) ![](assets/new.png)  
 - [2021-04-30-为什么读书的人很好看？这是我见过最好的答案](https://www.ershicimi.com/p/9e6dfb54ac4713249f032211fcfefb58) ![](assets/new.png)  
@@ -1002,9 +985,6 @@
 - [2021-04-25-本周知乎热榜-|-特斯拉车主维权，印度疫情失控，美国「跪杀」警察被判谋杀](https://www.ershicimi.com/p/b8edd51a30731034c268331481498ea7) ![](assets/new.png)  
 - [2021-04-25-小户型大变身：不容错过的家居改造秘籍](https://www.ershicimi.com/p/f272282ef18c77e44b52eefaf215b9d8) ![](assets/new.png)  
 - [2021-04-25-知乎故事-|-为何大学女生看起来比男生有钱得多？](https://www.ershicimi.com/p/7c440e74dd9fc9ca948f15676d394a37) ![](assets/new.png)  
-- [2021-04-23-知乎瞎扯-|-女生愿意给男生买礼物花钱是为什么?](https://www.ershicimi.com/p/59e66af1ebfd67be17066f2f17e0e7c9) ![](assets/new.png)  
-- [2021-04-23-为什么很多人认为视频替代文字阅读是一件可怕的事？](https://www.ershicimi.com/p/491e721db9cc983917d83d723a742e3a) ![](assets/new.png)  
-- [2021-04-23-知乎故事-|-室友都是卷王是什么感受？](https://www.ershicimi.com/p/14664a7b5784faea91024a3724952b2e) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +996,7 @@
 </summary>
 
 
+- [2021-05-05-公司提供-5k-的笔记本补助，现在开发用的一直是自己的本子，神舟战神-z7，不知道买什么比较合适](https://www.v2ex.com/t/774961) ![](assets/new.png)  
 - [2021-05-05-旧安卓手机帮助全家去广告](https://www.v2ex.com/t/774960) ![](assets/new.png)  
 - [2021-05-05-上海医保社保按时缴纳，医保余额却不到账](https://www.v2ex.com/t/774959) ![](assets/new.png)  
 - [2021-05-05-滴滴面试完被秒拒](https://www.v2ex.com/t/774958) ![](assets/new.png)  
@@ -1035,7 +1016,6 @@
 - [2021-05-05-系统好像出毛病了,但是不知道什么毛病](https://www.v2ex.com/t/774942) ![](assets/new.png)  
 - [2021-05-05-在-IDEA-中是否可以用热键新建具有确定名称的文件？](https://www.v2ex.com/t/774941) ![](assets/new.png)  
 - [2021-05-05-怎么最近-iOS-14-自带地图的交通状况有时候没有显示出来的？](https://www.v2ex.com/t/774940) ![](assets/new.png)  
-- [2021-05-05-Apple-Watch「查找」网络如何打开？](https://www.v2ex.com/t/774939) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1068,16 @@
 - [2021-05-05-终于把-XGBoost-总结写出来了](https://toutiao.io/k/luxyokg) ![](assets/new.png)  
 - [2021-05-05-简单说下-Promise.all-和-Promise.race-区别和使用场景](https://toutiao.io/k/cosvl59) ![](assets/new.png)  
 - [2021-05-05-内部环境的-Wi-Fi-钓鱼实践：基于信任的安全体系一攻即破](https://toutiao.io/k/ulixg07) ![](assets/new.png)  
-- [2021-05-05-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-05-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-05-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-05-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-05-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-05-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
-- [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-05-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
 - [2021-05-05-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
 - [2021-05-05-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-05-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
+- [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-05-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-05-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-05-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-05-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-05-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
+- [2021-05-05-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

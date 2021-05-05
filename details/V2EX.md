@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-05-05 09:44:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-05 09:56:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-05-Typora-的-logo-也值两百万](https://www.v2ex.com/t/775000) 
 - [2021-05-05-有什么-轻量化-/-可-git-/-又美观-的表格嘛](https://www.v2ex.com/t/774999) 
 - [2021-05-05-绿联的拓展坞到底如何？为什么在-v-站饱受恶评？](https://www.v2ex.com/t/774996) 
 - [2021-05-05-GitHub-里发现一款-mac-没有大下巴-有没有人知道是哪一款](https://www.v2ex.com/t/774995) 
@@ -43,4 +44,3 @@
 - [2021-05-05-PWA-适合开发音乐播放器吗？](https://www.v2ex.com/t/774953) 
 - [2021-05-05-airTag-附加功能](https://www.v2ex.com/t/774952) 
 - [2021-05-05-远程全栈全职外包招募全栈程序员（C#/vue/electron/前端动画渲染](https://www.v2ex.com/t/774951) 
-- [2021-05-05-为什么我-git-reset-HEAD-就是无法把一个被-add-的文件给赶出去？](https://www.v2ex.com/t/774950) 

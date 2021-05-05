@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-05 13:55:49，:rocket: 更新条数: +4304， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-05 14:04:56，:rocket: 更新条数: +4304， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1088,16 +1088,16 @@
 - [2021-05-05-终于把-XGBoost-总结写出来了](https://toutiao.io/k/luxyokg) ![](assets/new.png)  
 - [2021-05-05-简单说下-Promise.all-和-Promise.race-区别和使用场景](https://toutiao.io/k/cosvl59) ![](assets/new.png)  
 - [2021-05-05-内部环境的-Wi-Fi-钓鱼实践：基于信任的安全体系一攻即破](https://toutiao.io/k/ulixg07) ![](assets/new.png)  
-- [2021-05-05-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-05-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
-- [2021-05-05-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-05-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
 - [2021-05-05-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-05-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-05-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
 - [2021-05-05-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
 - [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
-- [2021-05-05-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
 - [2021-05-05-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-05-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-05-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
+- [2021-05-05-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-05-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
+- [2021-05-05-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

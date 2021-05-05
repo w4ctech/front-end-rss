@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-05 13:46:44，:rocket: 更新条数: +4302， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-05 13:55:49，:rocket: 更新条数: +4304， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,7 +1016,9 @@
 </summary>
 
 
-- [2021-05-05-为信仰充值，狗狗向前冲，-Goge-交流](https://www.v2ex.com/t/775033) ![](assets/new.png)  
+- [2021-05-05-ios14.5.1-掉帧](https://www.v2ex.com/t/775035) ![](assets/new.png)  
+- [2021-05-05-v2ex-的水深火热、水等节点是关闭了吗？](https://www.v2ex.com/t/775034) ![](assets/new.png)  
+- [2021-05-05-财富密码？-2021-年暴涨了-200-倍，狗狗向前冲，-Doge、BTC-交流](https://www.v2ex.com/t/775033) ![](assets/new.png)  
 - [2021-05-05-json.loads-不能把某文本的-str-转换字典类型，复制该-str-到-py-文件内即可转换字典类型，什么原因？](https://www.v2ex.com/t/775032) ![](assets/new.png)  
 - [2021-05-05-2021-05-给父母买什么手机比较好？预算-3000-左右](https://www.v2ex.com/t/775031) ![](assets/new.png)  
 - [2021-05-05-看完《兄弟连》后](https://www.v2ex.com/t/775030) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-05-05-一系列-IPv6-的-Looking-Glass](https://www.v2ex.com/t/775015) ![](assets/new.png)  
 - [2021-05-05-各位八达通能否正常登录？](https://www.v2ex.com/t/775014) ![](assets/new.png)  
 - [2021-05-05-不慎清空了微信的聊天记录，请问有什么办法恢复吗？](https://www.v2ex.com/t/775013) ![](assets/new.png)  
-- [2021-05-05-这是群晖新版本-BUG？一直自动填充搜索栏，脑阔疼。](https://www.v2ex.com/t/775012) ![](assets/new.png)  
-- [2021-05-05-工作生涯，从来没想现在这么迷茫过…](https://www.v2ex.com/t/775011) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,16 +1088,16 @@
 - [2021-05-05-终于把-XGBoost-总结写出来了](https://toutiao.io/k/luxyokg) ![](assets/new.png)  
 - [2021-05-05-简单说下-Promise.all-和-Promise.race-区别和使用场景](https://toutiao.io/k/cosvl59) ![](assets/new.png)  
 - [2021-05-05-内部环境的-Wi-Fi-钓鱼实践：基于信任的安全体系一攻即破](https://toutiao.io/k/ulixg07) ![](assets/new.png)  
-- [2021-05-05-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-05-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
-- [2021-05-05-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
 - [2021-05-05-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
-- [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
-- [2021-05-05-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-05-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
-- [2021-05-05-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-05-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
 - [2021-05-05-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
+- [2021-05-05-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-05-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-05-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-05-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-05-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-05-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-05-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

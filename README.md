@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-05 15:09:10，:rocket: 更新条数: +4301， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-05 15:38:32，:rocket: 更新条数: +4302， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,10 @@
 </summary>
 
 
+- [2021-05-05-又一次因为键盘膜...](https://www.v2ex.com/t/775045) ![](assets/new.png)  
+- [2021-05-05-千岛湖骑行露营记](https://www.v2ex.com/t/775044) ![](assets/new.png)  
+- [2021-05-05-Mac-的-App-Store-每天都弹出通知让我更新-app，请问要怎么关掉这个通知。](https://www.v2ex.com/t/775043) ![](assets/new.png)  
+- [2021-05-05-m1-mba-wifi-最多-300m](https://www.v2ex.com/t/775041) ![](assets/new.png)  
 - [2021-05-05-AirTag-蓝牙干扰，影响汽车和手机的蓝牙通讯](https://www.v2ex.com/t/775039) ![](assets/new.png)  
 - [2021-05-05-求问这这种编码可能是怎么编的?](https://www.v2ex.com/t/775037) ![](assets/new.png)  
 - [2021-05-05-有在用-MackBook-Air-M1-8+256-的吗](https://www.v2ex.com/t/775036) ![](assets/new.png)  
@@ -1032,10 +1036,6 @@
 - [2021-05-05-武汉和长沙哪个-it-氛围好些](https://www.v2ex.com/t/775022) ![](assets/new.png)  
 - [2021-05-05-MacOS-系统-last-reboot-信息写在哪个文件？如何清除重启信息？](https://www.v2ex.com/t/775021) ![](assets/new.png)  
 - [2021-05-05-上海内推拾荒者（Scavengers）的母公司-Improbable（英礴上海）招人啦！](https://www.v2ex.com/t/775019) ![](assets/new.png)  
-- [2021-05-05-求助-关于油猴脚本加载的问题！](https://www.v2ex.com/t/775018) ![](assets/new.png)  
-- [2021-05-05-opera-现在是国产浏览器了吗？](https://www.v2ex.com/t/775017) ![](assets/new.png)  
-- [2021-05-05-一系列-IPv6-的-Looking-Glass](https://www.v2ex.com/t/775015) ![](assets/new.png)  
-- [2021-05-05-各位八达通能否正常登录？](https://www.v2ex.com/t/775014) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1079,8 +1079,8 @@
 
 
 - [2021-05-05-五一假期不想人挤人？来这里！](https://toutiao.io/k/ok4mp6n) ![](assets/new.png)  
-- [2021-05-05-译-Pulsar-和-Kafka-架构对比](https://toutiao.io/k/jpoc824) ![](assets/new.png)  
 - [2021-05-05-译-Linux-系统安全强化指南](https://toutiao.io/k/4fpatsr) ![](assets/new.png)  
+- [2021-05-05-译-Pulsar-和-Kafka-架构对比](https://toutiao.io/k/jpoc824) ![](assets/new.png)  
 - [2021-05-05-学就完事了！万星项目带你做-3D-游戏：GitHub-热点速览](https://toutiao.io/k/2evvnnn) ![](assets/new.png)  
 - [2021-05-05-闲鱼如何-0-到-1-搭建一套发布引导链路](https://toutiao.io/k/lqr22f6) ![](assets/new.png)  
 - [2021-05-05-58-集团白盒代码审计系统建设实践（二）：深入理解-SAST](https://toutiao.io/k/n05y7h2) ![](assets/new.png)  
@@ -1088,16 +1088,16 @@
 - [2021-05-05-终于把-XGBoost-总结写出来了](https://toutiao.io/k/luxyokg) ![](assets/new.png)  
 - [2021-05-05-简单说下-Promise.all-和-Promise.race-区别和使用场景](https://toutiao.io/k/cosvl59) ![](assets/new.png)  
 - [2021-05-05-内部环境的-Wi-Fi-钓鱼实践：基于信任的安全体系一攻即破](https://toutiao.io/k/ulixg07) ![](assets/new.png)  
-- [2021-05-05-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-05-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-05-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
-- [2021-05-05-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
-- [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
-- [2021-05-05-推荐-架构模式之分层架构总结](https://toutiao.io/k/fwtxydd) ![](assets/new.png)  
-- [2021-05-05-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-05-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
 - [2021-05-05-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
 - [2021-05-05-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-05-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-05-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-05-推荐-为什么放弃-Kafka，选择-Pulsar?](https://toutiao.io/k/wxrneux) ![](assets/new.png)  
+- [2021-05-05-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-05-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-05-推荐-协程切换会引起什么问题](https://toutiao.io/k/xkhaihd) ![](assets/new.png)  
+- [2021-05-05-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
+- [2021-05-05-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

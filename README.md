@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-06 05:43:32，:rocket: 更新条数: +4307， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-06 05:52:07，:rocket: 更新条数: +4309， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-05-06-新笔记本到手,-应该做什么准备工作?](https://www.v2ex.com/t/775151) ![](assets/new.png)  
+- [2021-05-06-oschina-发生了什么，动弹板块怎么没了？](https://www.v2ex.com/t/775150) ![](assets/new.png)  
+- [2021-05-06-两台服务器如何相互自动登录并删除目录？](https://www.v2ex.com/t/775148) ![](assets/new.png)  
 - [2021-05-06-vscode-默认的-markdown-预览无法识别-I**'ll**，你们也是这样吗](https://www.v2ex.com/t/775147) ![](assets/new.png)  
 - [2021-05-06-在一个请求执行过程中，多次调用同一个接口，大家都是怎么处理的？](https://www.v2ex.com/t/775146) ![](assets/new.png)  
 - [2021-05-06-iPadOS-多用户登录图](https://www.v2ex.com/t/775145) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-05-06-移动宽带不能-ping-通的-ip，同样归属地-ISP-的-4G-流量却可以（5G-也不行），这是为什么](https://www.v2ex.com/t/775127) ![](assets/new.png)  
 - [2021-05-06-请教下-Java-有启动一个-cmd-程序之类偏向运维功能吗？最好起了之后还能获得它的-PID-之后还能关](https://www.v2ex.com/t/775125) ![](assets/new.png)  
 - [2021-05-06-我们退休之后大概可以领多少钱在哪里查？](https://www.v2ex.com/t/775123) ![](assets/new.png)  
-- [2021-05-06-离职一般多久走？](https://www.v2ex.com/t/775122) ![](assets/new.png)  
-- [2021-05-06-两个字符串比较的问题-Python](https://www.v2ex.com/t/775121) ![](assets/new.png)  
-- [2021-05-06-看虎牙、斗鱼网页端直播风扇就会呼呼转](https://www.v2ex.com/t/775119) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1093,11 +1093,11 @@
 - [2021-05-06-GitHub-标星-8k：在-PC-上玩-Switch](https://toutiao.io/k/zu91kh4) ![](assets/new.png)  
 - [2021-05-06-Python数据分析：股票成交量与收盘价时间序列可视化分析](https://toutiao.io/k/yct2gs5) ![](assets/new.png)  
 - [2021-05-06-写了个简洁的-Markdown-简历模板](https://toutiao.io/k/hf4zo9r) ![](assets/new.png)  
-- [2021-05-06-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-06-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-06-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
-- [2021-05-06-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-06-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
+- [2021-05-06-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-06-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
 - [2021-05-06-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
+- [2021-05-06-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

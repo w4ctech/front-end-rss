@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-05-06 07:34:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 07:41:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-06-2-年内会不会出蜂窝版-macbook](https://www.v2ex.com/t/775184) 
+- [2021-05-06-DELL-U3219Q-这显示器可以开启-G-Sync-吗，貌似在-nVidia-控制面板里面连这个-g-sync-选项都没有](https://www.v2ex.com/t/775183) 
+- [2021-05-06-电子数据如何保证不联网的情况下不被修改？](https://www.v2ex.com/t/775182) 
 - [2021-05-06-MBP2019-款淘宝上非官方渠道买的买来到现在出现电池鼓包，没有发票没有-AC+，可以免费换电池吗？](https://www.v2ex.com/t/775179) 
 - [2021-05-06-Jenkinspipeline-如何查看远程机器执行的脚本过程](https://www.v2ex.com/t/775178) 
 - [2021-05-06-渗透测试报告](https://www.v2ex.com/t/775177) 
@@ -12,7 +15,6 @@
 - [2021-05-06-istio-流量未按照-virtualservice-策略转发，部分服务通过-PassthroughCluster-转发到-endpoint-的第一个-ip-上](https://www.v2ex.com/t/775175) 
 - [2021-05-06-500-以内的有线入耳式音乐耳机有推荐的吗？](https://www.v2ex.com/t/775173) 
 - [2021-05-06-CloudQuery-v1.3.7-上线！](https://www.v2ex.com/t/775172) 
-- [2021-05-06-找一位自由职业者，擅长-Swift-，做一款智能设备相关的-APP](https://www.v2ex.com/t/775171) 
 - [2021-05-06-为何-Python3-要搞一个不可变对象的概念？](https://www.v2ex.com/t/775170) 
 - [2021-05-06-为什么你们要选择-TypeScript？](https://www.v2ex.com/t/775169) 
 - [2021-05-06-新的-喵控键盘-是只能给-iMac-用吗？各位](https://www.v2ex.com/t/775167) 
@@ -42,5 +44,3 @@
 - [2021-05-06-Win7-彻底卸载-office-365](https://www.v2ex.com/t/775137) 
 - [2021-05-06-大佬们，求推荐-1-张亮机卡](https://www.v2ex.com/t/775136) 
 - [2021-05-06-推荐个轻薄笔记本，-8000-以内预算，写代码，打-lol](https://www.v2ex.com/t/775135) 
-- [2021-05-06-拉钩-1-对-1-简历精修靠谱吗？](https://www.v2ex.com/t/775134) 
-- [2021-05-06-北京联通光猫这么容易坏？我怀疑他骗我……](https://www.v2ex.com/t/775131) 

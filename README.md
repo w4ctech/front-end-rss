@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-06 06:10:27，:rocket: 更新条数: +4310， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-06 06:42:27，:rocket: 更新条数: +4309， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -430,6 +430,7 @@
 </summary>
 
 
+- [2021-05-06-看完尤雨溪338条知乎回答后，我突然找到了前进的方向](https://www.ershicimi.com/p/238f68f49c1adfb71909fadc1c1643b8) ![](assets/new.png)  
 - [2021-05-05-微软加入字节码联盟，参与推进WebAssembly发展](https://www.ershicimi.com/p/8a49b080b64a50f0851142c50d20387d) ![](assets/new.png)  
 - [2021-05-04-大前端领域，什么样的人最吃香？|-InfoQ编程语言4月排行榜](https://www.ershicimi.com/p/18c32469a589b4bb1cfc2b8a1bdffa17) ![](assets/new.png)  
 - [2021-05-02-GitHub使用新标头屏蔽谷歌的FLoC追踪；腾讯被南山法院强制执行25元；明尼苏达大学教授向Lin](https://www.ershicimi.com/p/29d45e1fd8c7e880891bd6782287be18) ![](assets/new.png)  
@@ -449,7 +450,6 @@
 - [2021-04-21-为什么-React-的发展前景更被看好呢？-|-极客时间](https://www.ershicimi.com/p/e1401fff6ed3d3827c393eb3489e1ab0) ![](assets/new.png)  
 - [2021-04-19-从14s到4s，我如何将-MacOS上的-Rust-增量编译时间减少70％？](https://www.ershicimi.com/p/eb44f5f6093c62f8be6c935c97c93cd3) ![](assets/new.png)  
 - [2021-04-19-你在大前端领域最常用的编程语言是？|-InfoQ-编程语言-4-月排行榜](https://www.ershicimi.com/p/9544b1d6b3bdc6d7d1b050557904fb6e) ![](assets/new.png)  
-- [2021-04-18-微信PC版曝高危漏洞，建议尽快更新；中国首个JS语言提案在ECMA进入Stage-3；华为多款手机将](https://www.ershicimi.com/p/1b06ed7c2af312ad740c43e238a54367) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1016,15 @@
 </summary>
 
 
+- [2021-05-06-新的-喵控键盘-是只能给-iMac-用吗？各位](https://www.v2ex.com/t/775167) ![](assets/new.png)  
+- [2021-05-06-明明工作强度不高，睡眠也充足，可为什么还是感觉累呢？](https://www.v2ex.com/t/775166) ![](assets/new.png)  
+- [2021-05-06-从运维的角度看，一个可靠的如微信的-API-的基础架构应该怎么部署？](https://www.v2ex.com/t/775165) ![](assets/new.png)  
+- [2021-05-06-关于惠普的服务体验，真心无力吐槽](https://www.v2ex.com/t/775163) ![](assets/new.png)  
+- [2021-05-06-DAO-层和-ORM，能区分，但又不完全能区分，我裂开了](https://www.v2ex.com/t/775162) ![](assets/new.png)  
+- [2021-05-06-求助各位大神，有没有类似的工具](https://www.v2ex.com/t/775160) ![](assets/new.png)  
+- [2021-05-06-各位买-nas-一般用来干嘛？](https://www.v2ex.com/t/775159) ![](assets/new.png)  
+- [2021-05-06-本人-96-年,做产品经理两三年了,打算转前端开发,因为我觉得我的性格比较程序员,安静内向,还是喜欢安安静静敲代码,也是为了以后成为一个数字游民、独立开发者、远...](https://www.v2ex.com/t/775158) ![](assets/new.png)  
+- [2021-05-06-远程国外-react-职位](https://www.v2ex.com/t/775157) ![](assets/new.png)  
 - [2021-05-06-iOS-上有什么类似-JobScheduler-/-WorkManager-的-API-吗，还是只能用-APNS-静默推送做个-workaround](https://www.v2ex.com/t/775155) ![](assets/new.png)  
 - [2021-05-06-如何让输入法的这俩图标一直有或者一直没有，经常收到微信消息，指向微信图标时候因为这来图标的闪现导致左侧图标来回跳动，没法准确双击到微信或者去他工具](https://www.v2ex.com/t/775154) ![](assets/new.png)  
 - [2021-05-06-河西走廊旅行有哪些推荐的景点和美食，另外还需要注意些什么](https://www.v2ex.com/t/775153) ![](assets/new.png)  
@@ -1027,15 +1036,6 @@
 - [2021-05-06-在一个请求执行过程中，多次调用同一个接口，大家都是怎么处理的？](https://www.v2ex.com/t/775146) ![](assets/new.png)  
 - [2021-05-06-iPadOS-多用户登录图](https://www.v2ex.com/t/775145) ![](assets/new.png)  
 - [2021-05-06-为什么用查找-APP-精确定位-AirTag-需要允许相机权限？](https://www.v2ex.com/t/775144) ![](assets/new.png)  
-- [2021-05-06-迫于前脚掌宽，求推荐国内容易买到的宽楦鞋](https://www.v2ex.com/t/775143) ![](assets/new.png)  
-- [2021-05-06-上海-全职前端招人](https://www.v2ex.com/t/775142) ![](assets/new.png)  
-- [2021-05-06-请问在国区的-Apple-ID-转到外区（例如日区）之后，云上贵州上的数据会怎样？](https://www.v2ex.com/t/775141) ![](assets/new.png)  
-- [2021-05-06-大家有没有遇到过-Big-Sur-Telegram-频繁卡死的状况?](https://www.v2ex.com/t/775140) ![](assets/new.png)  
-- [2021-05-06-Win7-彻底卸载-office-365](https://www.v2ex.com/t/775137) ![](assets/new.png)  
-- [2021-05-06-大佬们，求推荐-1-张亮机卡](https://www.v2ex.com/t/775136) ![](assets/new.png)  
-- [2021-05-06-推荐个轻薄笔记本，-8000-以内预算，写代码，打-lol](https://www.v2ex.com/t/775135) ![](assets/new.png)  
-- [2021-05-06-拉钩-1-对-1-简历精修靠谱吗？](https://www.v2ex.com/t/775134) ![](assets/new.png)  
-- [2021-05-06-北京联通光猫这么容易坏？我怀疑他骗我……](https://www.v2ex.com/t/775131) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1086,18 +1086,18 @@
 - [2021-05-06-Spring-拦截器流程及多个拦截器的顺序](https://toutiao.io/k/dg28m1s) ![](assets/new.png)  
 - [2021-05-06-长尾延迟问题的一些解决思路](https://toutiao.io/k/c59eddx) ![](assets/new.png)  
 - [2021-05-06-把你的-IDE-搬进浏览器里：JetBrains-Projector-初体验](https://toutiao.io/k/fg52hbx) ![](assets/new.png)  
+- [2021-05-06-GitHub-标星-8k：在-PC-上玩-Switch](https://toutiao.io/k/zu91kh4) ![](assets/new.png)  
 - [2021-05-06-记一次-.NET-某教育系统异常崩溃分析](https://toutiao.io/k/kximdd7) ![](assets/new.png)  
 - [2021-05-06-AndroidSyscallLogger](https://toutiao.io/k/1n31apj) ![](assets/new.png)  
-- [2021-05-06-GitHub-标星-8k：在-PC-上玩-Switch](https://toutiao.io/k/zu91kh4) ![](assets/new.png)  
 - [2021-05-06-2021-年低代码发展预测解读-Mendix](https://toutiao.io/k/ur8vd2p) ![](assets/new.png)  
 - [2021-05-06-.NET-中安全高效跨平台的模板引擎-Fluid-使用文档](https://toutiao.io/k/xna3lx9) ![](assets/new.png)  
-- [2021-05-06-Python数据分析：股票成交量与收盘价时间序列可视化分析](https://toutiao.io/k/yct2gs5) ![](assets/new.png)  
 - [2021-05-06-写了个简洁的-Markdown-简历模板](https://toutiao.io/k/hf4zo9r) ![](assets/new.png)  
-- [2021-05-06-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-06-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
-- [2021-05-06-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-06-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
-- [2021-05-06-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-06-Python数据分析：股票成交量与收盘价时间序列可视化分析](https://toutiao.io/k/yct2gs5) ![](assets/new.png)  
+- [2021-05-06-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-06-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-06-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-06-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-06-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

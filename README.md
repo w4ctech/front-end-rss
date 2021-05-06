@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-06 13:00:54，:rocket: 更新条数: +4315， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-06 13:17:13，:rocket: 更新条数: +4314， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,7 +1016,6 @@
 </summary>
 
 
-- [2021-05-06-有没有帮做-Java-作业的,-有偿](https://www.v2ex.com/t/775281) ![](assets/new.png)  
 - [2021-05-06-睡觉基本上每天晚上都会做梦是什么原因](https://www.v2ex.com/t/775280) ![](assets/new.png)  
 - [2021-05-06-我的电信卡，-apple-watch-esim-出事了](https://www.v2ex.com/t/775279) ![](assets/new.png)  
 - [2021-05-06-32-岁，国企还是互联网？](https://www.v2ex.com/t/775278) ![](assets/new.png)  
@@ -1036,6 +1035,7 @@
 - [2021-05-06-现在的程序员，这么简单的问题都能答错吗？](https://www.v2ex.com/t/775262) ![](assets/new.png)  
 - [2021-05-06-各位离职的时候怎么处理原公司电脑数据迁移的？](https://www.v2ex.com/t/775261) ![](assets/new.png)  
 - [2021-05-06-推荐一款微信聊天记录导出工具](https://www.v2ex.com/t/775260) ![](assets/new.png)  
+- [2021-05-06-AMD-公版-5700XT，京东自营。6800](https://www.v2ex.com/t/775259) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1079,8 +1079,8 @@
 
 
 - [2021-05-06-我认为最优美的数据结构](https://toutiao.io/k/nkx9rki) ![](assets/new.png)  
-- [2021-05-06-有了-CopyOnWrite-为何又要有-ReadWriteLock？](https://toutiao.io/k/cu1u6b9) ![](assets/new.png)  
 - [2021-05-06-架构师必看：架构设计的四大思维支柱](https://toutiao.io/k/ss8h91v) ![](assets/new.png)  
+- [2021-05-06-有了-CopyOnWrite-为何又要有-ReadWriteLock？](https://toutiao.io/k/cu1u6b9) ![](assets/new.png)  
 - [2021-05-06-Go-语言中常见的几种反模式](https://toutiao.io/k/d4ymrr1) ![](assets/new.png)  
 - [2021-05-06-JavaScript-中到底要不要加分号？](https://toutiao.io/k/bypqv6b) ![](assets/new.png)  
 - [2021-05-06-Spring-拦截器流程及多个拦截器的顺序](https://toutiao.io/k/dg28m1s) ![](assets/new.png)  
@@ -1093,11 +1093,11 @@
 - [2021-05-06-2021-年低代码发展预测解读-Mendix](https://toutiao.io/k/ur8vd2p) ![](assets/new.png)  
 - [2021-05-06-.NET-中安全高效跨平台的模板引擎-Fluid-使用文档](https://toutiao.io/k/xna3lx9) ![](assets/new.png)  
 - [2021-05-06-Python数据分析：股票成交量与收盘价时间序列可视化分析](https://toutiao.io/k/yct2gs5) ![](assets/new.png)  
-- [2021-05-06-推荐-撸代码前，写下设计方案](https://toutiao.io/k/xdsox3x) ![](assets/new.png)  
-- [2021-05-06-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
-- [2021-05-06-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-06-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
 - [2021-05-06-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-06-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-06-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-06-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
+- [2021-05-06-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

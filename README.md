@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-06 15:49:14，:rocket: 更新条数: +4315， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-06 16:00:18，:rocket: 更新条数: +4316， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-05-06-求推荐电动剃须刀](https://www.v2ex.com/t/775309) ![](assets/new.png)  
+- [2021-05-06-求推荐个-Apple-TV-用的游戏手柄。](https://www.v2ex.com/t/775308) ![](assets/new.png)  
 - [2021-05-06-有什么办法可以比较完整的把一个网页内容保存下来？](https://www.v2ex.com/t/775307) ![](assets/new.png)  
 - [2021-05-06-适用于-c#的嵌入式-nosql-数据库推荐？](https://www.v2ex.com/t/775306) ![](assets/new.png)  
 - [2021-05-06-OdIndex-又一个-OneDrive-列表程序](https://www.v2ex.com/t/775305) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-05-06-如何做到网站内容只能会员查看，但又不影响搜索引擎抓取内容及排名？](https://www.v2ex.com/t/775289) ![](assets/new.png)  
 - [2021-05-06-Python-web-开发该如何转型？](https://www.v2ex.com/t/775288) ![](assets/new.png)  
 - [2021-05-06-分享买房干货：刚需首套房，-7-大要素如何抉择](https://www.v2ex.com/t/775287) ![](assets/new.png)  
-- [2021-05-06-目前-32G-内存的-intel-和-16G-内存的-M1-应该选哪个?](https://www.v2ex.com/t/775286) ![](assets/new.png)  
-- [2021-05-06-上海微软上海-Azure-部门组内直招，前端和后端](https://www.v2ex.com/t/775285) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1093,11 +1093,11 @@
 - [2021-05-06-AndroidSyscallLogger](https://toutiao.io/k/1n31apj) ![](assets/new.png)  
 - [2021-05-06-.NET-中安全高效跨平台的模板引擎-Fluid-使用文档](https://toutiao.io/k/xna3lx9) ![](assets/new.png)  
 - [2021-05-06-Python数据分析：股票成交量与收盘价时间序列可视化分析](https://toutiao.io/k/yct2gs5) ![](assets/new.png)  
-- [2021-05-06-推荐-撸代码前，写下设计方案](https://toutiao.io/k/xdsox3x) ![](assets/new.png)  
 - [2021-05-06-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-06-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-06-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
-- [2021-05-06-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-06-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-06-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-06-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-06-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

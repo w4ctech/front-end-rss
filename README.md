@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-06 10:44:29，:rocket: 更新条数: +4311， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-06 10:55:10，:rocket: 更新条数: +4310， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,7 @@
 </summary>
 
 
+- [2021-05-06-广州-九毛九集团招聘后端开发工程师-2021-05-06](https://www.v2ex.com/t/775257) ![](assets/new.png)  
 - [2021-05-06-v-友们，有推荐的-WordPress-主题吗？](https://www.v2ex.com/t/775256) ![](assets/new.png)  
 - [2021-05-06-望京-前端开发、前端实习生招聘](https://www.v2ex.com/t/775255) ![](assets/new.png)  
 - [2021-05-06-求一个平台能对软件开发项目进行时间和进度的把控](https://www.v2ex.com/t/775254) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-05-06-坐标南京，最近准备装修了，有啥建议吗，各位大佬](https://www.v2ex.com/t/775239) ![](assets/new.png)  
 - [2021-05-06-发现-redis-被入侵了](https://www.v2ex.com/t/775238) ![](assets/new.png)  
 - [2021-05-06-微信收不到订阅消息的情况常见吗？（已经有重复的帖子了，不会删这个帖子……）](https://www.v2ex.com/t/775236) ![](assets/new.png)  
-- [2021-05-06-Typora-的图片自动上传小工具，方便写-blog](https://www.v2ex.com/t/775235) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1093,11 +1093,11 @@
 - [2021-05-06-.NET-中安全高效跨平台的模板引擎-Fluid-使用文档](https://toutiao.io/k/xna3lx9) ![](assets/new.png)  
 - [2021-05-06-写了个简洁的-Markdown-简历模板](https://toutiao.io/k/hf4zo9r) ![](assets/new.png)  
 - [2021-05-06-Python数据分析：股票成交量与收盘价时间序列可视化分析](https://toutiao.io/k/yct2gs5) ![](assets/new.png)  
-- [2021-05-06-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
-- [2021-05-06-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
-- [2021-05-06-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
-- [2021-05-06-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
+- [2021-05-06-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
 - [2021-05-06-推荐-撸代码前，写下设计方案](https://toutiao.io/k/xdsox3x) ![](assets/new.png)  
+- [2021-05-06-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-06-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-06-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

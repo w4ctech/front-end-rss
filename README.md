@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-06 15:08:25，:rocket: 更新条数: +4315， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-06 15:39:57，:rocket: 更新条数: +4315， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-05-06-最新疫情：全国新冠累计确诊90726例-累计接种新冠疫苗超2.89亿剂次](https://m.caixin.com/m/2021-05-06/101705945.html) ![](assets/new.png)  
+- [2021-05-06-美国转向支持豁免新冠疫苗专利保护-能否推动疫苗全球普及](http://m.international.caixin.com/m/2021-05-06/101706238.html) ![](assets/new.png)  
 - [2021-05-06-最新海外疫情：新冠感染超1.55亿-累计死亡超323万](https://m.caixin.com/m/2021-05-06/101705951.html) ![](assets/new.png)  
 - [2021-05-06-【境内疫情观察】全国连续百日无新增死亡病例（5月5日）](http://m.database.caixin.com/m/2021-05-06/101705744.html) ![](assets/new.png)  
 - [2021-05-05-【境内疫情观察】云南瑞丽中高风险区域清零（5月4日）](http://m.database.caixin.com/m/2021-05-05/101705446.html) ![](assets/new.png)  
@@ -80,7 +81,6 @@
 - [2021-05-01-美国对印度发布旅行禁令-5月4日起限制人员从印度入境](http://m.international.caixin.com/m/2021-05-01/101704855.html) ![](assets/new.png)  
 - [2021-05-01-【境内疫情观察】全国新增16例境外输入病例（4月30日）](http://m.database.caixin.com/m/2021-05-01/101704949.html) ![](assets/new.png)  
 - [2021-05-01-东京奥运会拟闭门比赛-法国5月19日起逐步解封｜大流行手记（4月30日）](https://m.caixin.com/m/2021-05-01/101704798.html) ![](assets/new.png)  
-- [2021-04-30-中国报告多个印度输入新冠病例-双突变病毒影响待观察](https://m.caixin.com/m/2021-04-30/101704332.html) ![](assets/new.png)  
 - [2021-04-30-双重变种病毒流入香港社区-确诊菲佣感染10个月女婴](https://m.caixin.com/m/2021-04-30/101704317.html) ![](assets/new.png)  
 - [2021-04-30-双重变种病毒突现社区-港府紧急宣布37万外佣强制检测](https://m.caixin.com/m/2021-04-30/101704731.html) ![](assets/new.png)  
 - [2021-04-30-【境内疫情观察】全国疫情高风险区域清零（4月29日）](http://m.database.caixin.com/m/2021-04-30/101704361.html) ![](assets/new.png)  
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-05-06-有什么办法可以比较完整的把一个网页内容保存下来？](https://www.v2ex.com/t/775307) ![](assets/new.png)  
+- [2021-05-06-适用于-c#的嵌入式-nosql-数据库推荐？](https://www.v2ex.com/t/775306) ![](assets/new.png)  
+- [2021-05-06-OdIndex-又一个-OneDrive-列表程序](https://www.v2ex.com/t/775305) ![](assets/new.png)  
 - [2021-05-06-Captura-辅助工具（Quicker-动作）---定位到刚录制的视频位置](https://www.v2ex.com/t/775304) ![](assets/new.png)  
 - [2021-05-06-这样设置，让你的-IDEA-好看到爆炸](https://www.v2ex.com/t/775302) ![](assets/new.png)  
 - [2021-05-06-请问一下，笔记本黑果下-8G-内存勉强够用，-M1-8G-会不会好些？](https://www.v2ex.com/t/775301) ![](assets/new.png)  
@@ -1025,7 +1028,6 @@
 - [2021-05-06-gmail-账户能找回吗？](https://www.v2ex.com/t/775296) ![](assets/new.png)  
 - [2021-05-06-成都求租](https://www.v2ex.com/t/775295) ![](assets/new.png)  
 - [2021-05-06-2021-年了，如何从零入门-Swift-？然后能迅速做出一个-iOS-应用程序。](https://www.v2ex.com/t/775294) ![](assets/new.png)  
-- [2021-05-06-@Livid-这个账号是得罪了谁，被限制那么多？（不能在节点下发帖，不能查看某些节点）](https://www.v2ex.com/t/775293) ![](assets/new.png)  
 - [2021-05-06-树莓派如果不买外设或配件，是不是没有太大的必要性](https://www.v2ex.com/t/775292) ![](assets/new.png)  
 - [2021-05-06-一封让我很高兴的邮件](https://www.v2ex.com/t/775291) ![](assets/new.png)  
 - [2021-05-06-有没有真的把英特尔版本的-Mac-mini2018-内存升级到-64GB-的？使用起来是不是灰常的爽？](https://www.v2ex.com/t/775290) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-05-06-分享买房干货：刚需首套房，-7-大要素如何抉择](https://www.v2ex.com/t/775287) ![](assets/new.png)  
 - [2021-05-06-目前-32G-内存的-intel-和-16G-内存的-M1-应该选哪个?](https://www.v2ex.com/t/775286) ![](assets/new.png)  
 - [2021-05-06-上海微软上海-Azure-部门组内直招，前端和后端](https://www.v2ex.com/t/775285) ![](assets/new.png)  
-- [2021-05-06-刷了-1400-道力扣的开发，跪求广州前端岗位](https://www.v2ex.com/t/775284) ![](assets/new.png)  
-- [2021-05-06-深圳工作广州-M-房的攻略，希望能帮到大家](https://www.v2ex.com/t/775283) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,15 +1089,15 @@
 - [2021-05-06-把你的-IDE-搬进浏览器里：JetBrains-Projector-初体验](https://toutiao.io/k/fg52hbx) ![](assets/new.png)  
 - [2021-05-06-写了个简洁的-Markdown-简历模板](https://toutiao.io/k/hf4zo9r) ![](assets/new.png)  
 - [2021-05-06-记一次-.NET-某教育系统异常崩溃分析](https://toutiao.io/k/kximdd7) ![](assets/new.png)  
-- [2021-05-06-AndroidSyscallLogger](https://toutiao.io/k/1n31apj) ![](assets/new.png)  
 - [2021-05-06-2021-年低代码发展预测解读-Mendix](https://toutiao.io/k/ur8vd2p) ![](assets/new.png)  
+- [2021-05-06-AndroidSyscallLogger](https://toutiao.io/k/1n31apj) ![](assets/new.png)  
 - [2021-05-06-.NET-中安全高效跨平台的模板引擎-Fluid-使用文档](https://toutiao.io/k/xna3lx9) ![](assets/new.png)  
 - [2021-05-06-Python数据分析：股票成交量与收盘价时间序列可视化分析](https://toutiao.io/k/yct2gs5) ![](assets/new.png)  
-- [2021-05-06-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
 - [2021-05-06-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-06-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
+- [2021-05-06-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-06-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
 - [2021-05-06-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-06-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-06-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

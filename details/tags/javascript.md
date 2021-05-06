@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-06 05:12:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 05:36:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -85,7 +85,6 @@
 - [2021-05-01-快手二面：@Component，@Service等注解是如何被解析的？](https://www.ershicimi.com/p/7a5f34b440bf4c9024df43c161b8fb60) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2021-05-06-android-studio-4.2-纯-Java-module-一直报红-但是能正常运行](https://www.v2ex.com/t/775114) 
-- [2021-05-06-文字烟花特效，用-JS-代码示爱！程序员小姐姐用这个代码挽回了爱情~](https://www.v2ex.com/t/775095) 
 - [2021-05-06-适配-AndroidQ，不能后台启动-Activity-限制-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14332&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FswMzgiMg6Ff0p8ySchXhrA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-05-06-JavaScript-中到底要不要加分号？](https://toutiao.io/k/bypqv6b) 
 - [2021-05-03-DOMAINTOOLS:2020年度威胁狩猎报告](https://sec.thief.one/article_content?a_id=0c621f68be5fd916a4fa6eb1341cfec8) 

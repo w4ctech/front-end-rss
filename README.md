@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-06 03:49:44，:rocket: 更新条数: +4303， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-06 03:58:59，:rocket: 更新条数: +4305， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,13 @@
 </summary>
 
 
+- [2021-05-06-北京联通光猫这么容易坏？我怀疑他骗我……](https://www.v2ex.com/t/775131) ![](assets/new.png)  
+- [2021-05-06-China.ky-这是一个什么都可以说的论坛](https://www.v2ex.com/t/775130) ![](assets/new.png)  
+- [2021-05-06-打款延迟，需要提供护照？](https://www.v2ex.com/t/775129) ![](assets/new.png)  
+- [2021-05-06-移动宽带不能-ping-通的-ip，同样归属地-ISP-的-4G-流量却可以（5G-也不行），这是为什么](https://www.v2ex.com/t/775127) ![](assets/new.png)  
+- [2021-05-06-请教下-Java-有启动一个-cmd-程序之类偏向运维功能吗？最好起了之后还能获得它的-PID-之后还能关](https://www.v2ex.com/t/775125) ![](assets/new.png)  
+- [2021-05-06-做外贸的有什么稳定的墙推荐？](https://www.v2ex.com/t/775124) ![](assets/new.png)  
+- [2021-05-06-我们退休之后大概可以领多少钱在哪里查？](https://www.v2ex.com/t/775123) ![](assets/new.png)  
 - [2021-05-06-离职一般多久走？](https://www.v2ex.com/t/775122) ![](assets/new.png)  
 - [2021-05-06-两个字符串比较的问题-Python](https://www.v2ex.com/t/775121) ![](assets/new.png)  
 - [2021-05-06-看虎牙、斗鱼网页端直播风扇就会呼呼转](https://www.v2ex.com/t/775119) ![](assets/new.png)  
@@ -1029,13 +1036,6 @@
 - [2021-05-06-Safari-在-M1-MBP-的内建视网膜屏幕上支持-HDR-了？](https://www.v2ex.com/t/775110) ![](assets/new.png)  
 - [2021-05-06-在家办公-，有必要上-herman-miller-embody-吗？](https://www.v2ex.com/t/775109) ![](assets/new.png)  
 - [2021-05-06-ShowDoc-v2.9.0-发布，-IT-团队的在线-API-文档、技术文档工具](https://www.v2ex.com/t/775108) ![](assets/new.png)  
-- [2021-05-06-爸妈准备把老房重新装修，询问一下](https://www.v2ex.com/t/775107) ![](assets/new.png)  
-- [2021-05-06-五一还是很充实的：看书刷题遛娃加班](https://www.v2ex.com/t/775105) ![](assets/new.png)  
-- [2021-05-06-阿里云，-HK-节点轻量应用服务器这是上新了，不知线路如何？](https://www.v2ex.com/t/775103) ![](assets/new.png)  
-- [2021-05-06-为什么很多来天津的互联网企业都是审核业务？](https://www.v2ex.com/t/775102) ![](assets/new.png)  
-- [2021-05-06-重庆的小伙伴，需要腾讯云阿里云代理商的可以找我-需要-chia-解决方案的也可以找我](https://www.v2ex.com/t/775100) ![](assets/new.png)  
-- [2021-05-06-文字烟花特效，用-JS-代码示爱！程序员小姐姐用这个代码挽回了爱情~](https://www.v2ex.com/t/775095) ![](assets/new.png)  
-- [2021-05-06-选择腾讯云好点还是阿里云好点？](https://www.v2ex.com/t/775093) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1080,23 +1080,23 @@
 
 - [2021-05-06-我认为最优美的数据结构](https://toutiao.io/k/nkx9rki) ![](assets/new.png)  
 - [2021-05-06-有了-CopyOnWrite-为何又要有-ReadWriteLock？](https://toutiao.io/k/cu1u6b9) ![](assets/new.png)  
-- [2021-05-06-JavaScript-中到底要不要加分号？](https://toutiao.io/k/bypqv6b) ![](assets/new.png)  
 - [2021-05-06-架构师必看：架构设计的四大思维支柱](https://toutiao.io/k/ss8h91v) ![](assets/new.png)  
+- [2021-05-06-JavaScript-中到底要不要加分号？](https://toutiao.io/k/bypqv6b) ![](assets/new.png)  
 - [2021-05-06-Go-语言中常见的几种反模式](https://toutiao.io/k/d4ymrr1) ![](assets/new.png)  
 - [2021-05-06-把你的-IDE-搬进浏览器里：JetBrains-Projector-初体验](https://toutiao.io/k/fg52hbx) ![](assets/new.png)  
 - [2021-05-06-记一次-.NET-某教育系统异常崩溃分析](https://toutiao.io/k/kximdd7) ![](assets/new.png)  
-- [2021-05-06-AndroidSyscallLogger](https://toutiao.io/k/1n31apj) ![](assets/new.png)  
 - [2021-05-06-Spring-拦截器流程及多个拦截器的顺序](https://toutiao.io/k/dg28m1s) ![](assets/new.png)  
+- [2021-05-06-AndroidSyscallLogger](https://toutiao.io/k/1n31apj) ![](assets/new.png)  
 - [2021-05-06-2021-年低代码发展预测解读-Mendix](https://toutiao.io/k/ur8vd2p) ![](assets/new.png)  
 - [2021-05-06-.NET-中安全高效跨平台的模板引擎-Fluid-使用文档](https://toutiao.io/k/xna3lx9) ![](assets/new.png)  
 - [2021-05-06-长尾延迟问题的一些解决思路](https://toutiao.io/k/c59eddx) ![](assets/new.png)  
 - [2021-05-06-Python数据分析：股票成交量与收盘价时间序列可视化分析](https://toutiao.io/k/yct2gs5) ![](assets/new.png)  
 - [2021-05-06-GitHub-标星-8k：在-PC-上玩-Switch](https://toutiao.io/k/zu91kh4) ![](assets/new.png)  
 - [2021-05-06-写了个简洁的-Markdown-简历模板](https://toutiao.io/k/hf4zo9r) ![](assets/new.png)  
-- [2021-05-06-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
 - [2021-05-06-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
-- [2021-05-06-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-06-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
 - [2021-05-06-推荐-撸代码前，写下设计方案](https://toutiao.io/k/xdsox3x) ![](assets/new.png)  
+- [2021-05-06-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
 - [2021-05-06-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

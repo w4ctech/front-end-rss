@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-06 03:49:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 03:58:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -202,7 +202,6 @@
 - [【前端瓶子君】小程序静默登录方案设计](https://www.ershicimi.com/p/4c529ddd1349dc418e329d046857a40b)
 - [【前端瓶子君】手把手指导制作一个-WebAR-与小程序-AR](https://www.ershicimi.com/p/bcb216cec23ba86bb6977093d777449d)
 - [【程序员成长指北】两天快速开发一个自己的微信小程序](https://www.ershicimi.com/p/be48cb2456686246a71188813bbc4d46)
-- [【V2EX】微信小程序怎样做多次消息推送？](https://www.v2ex.com/t/775073)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -20771,6 +20771,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "是否有 chrome 插件，可以实时把打开的标签，加入苹果的阅读列表，便于在其他设备上查看打开的文章？",
+        "link": "https://www.v2ex.com/t/775310",
+        "date": "2021-05-06"
+      },
+      {
         "title": "求推荐电动剃须刀",
         "link": "https://www.v2ex.com/t/775309",
         "date": "2021-05-06"
@@ -20979,11 +20984,6 @@
         "title": "各位离职的时候怎么处理原公司电脑数据迁移的？",
         "link": "https://www.v2ex.com/t/775261",
         "date": "2021-05-06"
-      },
-      {
-        "title": "推荐一款微信聊天记录导出工具",
-        "link": "https://www.v2ex.com/t/775260",
-        "date": "2021-05-06"
       }
     ]
   },
@@ -21175,23 +21175,13 @@
         "date": "2021-05-06"
       },
       {
-        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
-        "link": "https://toutiao.io/k/2aonyjp",
+        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
+        "link": "https://toutiao.io/k/iwkig90",
         "date": "2021-05-06"
       },
       {
-        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
-        "link": "https://toutiao.io/k/0iue4f4",
-        "date": "2021-05-06"
-      },
-      {
-        "title": "[推荐] Kafka：这次分享我只想把原理讲清楚",
-        "link": "https://toutiao.io/k/0etokja",
-        "date": "2021-05-06"
-      },
-      {
-        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
-        "link": "https://toutiao.io/k/08uadl6",
+        "title": "[推荐] 撸代码前，写下设计方案",
+        "link": "https://toutiao.io/k/xdsox3x",
         "date": "2021-05-06"
       },
       {
@@ -21205,18 +21195,13 @@
         "date": "2021-05-06"
       },
       {
-        "title": "[推荐] 程序员应该掌握的常用网络问题定位工具",
-        "link": "https://toutiao.io/k/upefap5",
+        "title": "[推荐] Kafka：这次分享我只想把原理讲清楚",
+        "link": "https://toutiao.io/k/0etokja",
         "date": "2021-05-06"
       },
       {
-        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
-        "link": "https://toutiao.io/k/a5s1rfh",
-        "date": "2021-05-06"
-      },
-      {
-        "title": "[推荐] Redis 进阶笔记",
-        "link": "https://toutiao.io/k/ti0gb8i",
+        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
+        "link": "https://toutiao.io/k/2aonyjp",
         "date": "2021-05-06"
       },
       {
@@ -21230,18 +21215,33 @@
         "date": "2021-05-06"
       },
       {
-        "title": "[推荐] 撸代码前，写下设计方案",
-        "link": "https://toutiao.io/k/xdsox3x",
+        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
+        "link": "https://toutiao.io/k/0iue4f4",
         "date": "2021-05-06"
       },
       {
-        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
-        "link": "https://toutiao.io/k/iwkig90",
+        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
+        "link": "https://toutiao.io/k/08uadl6",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
+        "link": "https://toutiao.io/k/a5s1rfh",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "[推荐] 程序员应该掌握的常用网络问题定位工具",
+        "link": "https://toutiao.io/k/upefap5",
         "date": "2021-05-06"
       },
       {
         "title": "[推荐] 用户画像的基础、原理、方法论（模型）和应用",
         "link": "https://toutiao.io/k/nrdp4oq",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "[推荐] 系统设计之路：如何设计一个 URL 短链服务",
+        "link": "https://toutiao.io/k/6mzds1m",
         "date": "2021-05-06"
       }
     ]

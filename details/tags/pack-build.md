@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-05 23:56:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 00:11:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -25,4 +25,5 @@
 - [2021-04-20-pnpm-6.1-发布](https://www.ershicimi.com/p/4224fa6d39c6d08ba200bc9f4282461b) 
 - [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) 
 - [2020-03-11-4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4) 
+- [2021-05-05-C/C++-构建系统，我用-xmake](https://www.v2ex.com/t/775065) 
 - [2021-04-30-深度|构建数字化改革安全屏障,助力新型智慧城市建设“千城千面”](https://sec.thief.one/article_content?a_id=2fc12806697c8f873fd57b66ff84603a) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-06 07:41:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 07:50:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2021-05-06-大家有没有遇到过-Big-Sur-Telegram-频繁卡死的状况?](https://www.v2ex.com/t/775140) 
 - [2021-05-06-Win7-彻底卸载-office-365](https://www.v2ex.com/t/775137) 
 - [2021-05-06-大佬们，求推荐-1-张亮机卡](https://www.v2ex.com/t/775136) 
-- [2021-05-06-推荐个轻薄笔记本，-8000-以内预算，写代码，打-lol](https://www.v2ex.com/t/775135) 

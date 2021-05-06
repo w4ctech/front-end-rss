@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-06 11:31:43，:rocket: 更新条数: +4311， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-06 11:40:50，:rocket: 更新条数: +4312， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-05-06-现在的程序员，这么简单的问题都能答错吗？](https://www.v2ex.com/t/775262) ![](assets/new.png)  
+- [2021-05-06-各位离职的时候怎么处理原公司电脑数据迁移的？](https://www.v2ex.com/t/775261) ![](assets/new.png)  
 - [2021-05-06-推荐一款微信聊天记录导出工具](https://www.v2ex.com/t/775260) ![](assets/new.png)  
 - [2021-05-06-AMD-公版-5700XT，京东自营。6800](https://www.v2ex.com/t/775259) ![](assets/new.png)  
 - [2021-05-06-广州-九毛九集团招聘后端开发工程师-2021-05-06](https://www.v2ex.com/t/775257) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-05-06-有现成的批量管理-Linux-设备的方案么？](https://www.v2ex.com/t/775243) ![](assets/new.png)  
 - [2021-05-06-京东密码又泄漏了吗？](https://www.v2ex.com/t/775242) ![](assets/new.png)  
 - [2021-05-06-笔记本电池鼓包](https://www.v2ex.com/t/775241) ![](assets/new.png)  
-- [2021-05-06-打算海鲜市场出售固态硬盘，怎么彻底擦掉固态硬盘上的吗数据啊](https://www.v2ex.com/t/775240) ![](assets/new.png)  
-- [2021-05-06-坐标南京，最近准备装修了，有啥建议吗，各位大佬](https://www.v2ex.com/t/775239) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1093,11 +1093,11 @@
 - [2021-05-06-.NET-中安全高效跨平台的模板引擎-Fluid-使用文档](https://toutiao.io/k/xna3lx9) ![](assets/new.png)  
 - [2021-05-06-写了个简洁的-Markdown-简历模板](https://toutiao.io/k/hf4zo9r) ![](assets/new.png)  
 - [2021-05-06-Python数据分析：股票成交量与收盘价时间序列可视化分析](https://toutiao.io/k/yct2gs5) ![](assets/new.png)  
+- [2021-05-06-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
 - [2021-05-06-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
-- [2021-05-06-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
-- [2021-05-06-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
-- [2021-05-06-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-06-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-06-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-06-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-06-推荐-撸代码前，写下设计方案](https://toutiao.io/k/xdsox3x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

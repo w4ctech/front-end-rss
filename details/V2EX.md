@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-05-06 09:36:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 09:47:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-06-自然语言处理问题-W2V](https://www.v2ex.com/t/775233) 
+- [2021-05-06-北京-红杉中国开发团队招聘-Swift-/-TypeScript-/-QA-工程师-/-Designer](https://www.v2ex.com/t/775231) 
+- [2021-05-06-apple-music-使用-apple-watch-添加到资料库功能](https://www.v2ex.com/t/775230) 
 - [2021-05-06-美团优选-急-北京-外包岗位-招聘前端开发](https://www.v2ex.com/t/775229) 
 - [2021-05-06-nebula-的节点不能跨运营商通信](https://www.v2ex.com/t/775228) 
 - [2021-05-06-最近又开始有点焦虑,-想问问你们都怎么找的对象呀?](https://www.v2ex.com/t/775227) 
@@ -42,5 +45,3 @@
 - [2021-05-06-今晚剧本杀组队有嘛？](https://www.v2ex.com/t/775187) 
 - [2021-05-06-楼下天花板掉皮，怪我家装地板并要求赔偿，怎么处理？](https://www.v2ex.com/t/775186) 
 - [2021-05-06-2-年内会不会出蜂窝版-macbook](https://www.v2ex.com/t/775184) 
-- [2021-05-06-DELL-U3219Q-这显示器可以开启-G-Sync-吗，貌似在-nVidia-控制面板里面连这个-g-sync-选项都没有](https://www.v2ex.com/t/775183) 
-- [2021-05-06-电子数据如何保证不联网的情况下不被修改？](https://www.v2ex.com/t/775182) 

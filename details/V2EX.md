@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-05-06 06:05:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 06:10:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-05-06-iOS-上有什么类似-JobScheduler-/-WorkManager-的-API-吗，还是只能用-APNS-静默推送做个-workaround](https://www.v2ex.com/t/775155) 
 - [2021-05-06-如何让输入法的这俩图标一直有或者一直没有，经常收到微信消息，指向微信图标时候因为这来图标的闪现导致左侧图标来回跳动，没法准确双击到微信或者去他工具](https://www.v2ex.com/t/775154) 
 - [2021-05-06-河西走廊旅行有哪些推荐的景点和美食，另外还需要注意些什么](https://www.v2ex.com/t/775153) 
 - [2021-05-06-Ultrafine-4k-支持播放-HDR-吗](https://www.v2ex.com/t/775152) 
@@ -42,4 +43,3 @@
 - [2021-05-06-在家办公-，有必要上-herman-miller-embody-吗？](https://www.v2ex.com/t/775109) 
 - [2021-05-06-ShowDoc-v2.9.0-发布，-IT-团队的在线-API-文档、技术文档工具](https://www.v2ex.com/t/775108) 
 - [2021-05-06-爸妈准备把老房重新装修，询问一下](https://www.v2ex.com/t/775107) 
-- [2021-05-06-五一还是很充实的：看书刷题遛娃加班](https://www.v2ex.com/t/775105) 

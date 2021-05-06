@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-06 06:05:11，:rocket: 更新条数: +4310， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-06 06:10:27，:rocket: 更新条数: +4310， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,7 @@
 </summary>
 
 
+- [2021-05-06-iOS-上有什么类似-JobScheduler-/-WorkManager-的-API-吗，还是只能用-APNS-静默推送做个-workaround](https://www.v2ex.com/t/775155) ![](assets/new.png)  
 - [2021-05-06-如何让输入法的这俩图标一直有或者一直没有，经常收到微信消息，指向微信图标时候因为这来图标的闪现导致左侧图标来回跳动，没法准确双击到微信或者去他工具](https://www.v2ex.com/t/775154) ![](assets/new.png)  
 - [2021-05-06-河西走廊旅行有哪些推荐的景点和美食，另外还需要注意些什么](https://www.v2ex.com/t/775153) ![](assets/new.png)  
 - [2021-05-06-Ultrafine-4k-支持播放-HDR-吗](https://www.v2ex.com/t/775152) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-05-06-推荐个轻薄笔记本，-8000-以内预算，写代码，打-lol](https://www.v2ex.com/t/775135) ![](assets/new.png)  
 - [2021-05-06-拉钩-1-对-1-简历精修靠谱吗？](https://www.v2ex.com/t/775134) ![](assets/new.png)  
 - [2021-05-06-北京联通光猫这么容易坏？我怀疑他骗我……](https://www.v2ex.com/t/775131) ![](assets/new.png)  
-- [2021-05-06-打款延迟，需要提供护照？](https://www.v2ex.com/t/775129) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1093,11 +1093,11 @@
 - [2021-05-06-.NET-中安全高效跨平台的模板引擎-Fluid-使用文档](https://toutiao.io/k/xna3lx9) ![](assets/new.png)  
 - [2021-05-06-Python数据分析：股票成交量与收盘价时间序列可视化分析](https://toutiao.io/k/yct2gs5) ![](assets/new.png)  
 - [2021-05-06-写了个简洁的-Markdown-简历模板](https://toutiao.io/k/hf4zo9r) ![](assets/new.png)  
-- [2021-05-06-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
-- [2021-05-06-推荐-撸代码前，写下设计方案](https://toutiao.io/k/xdsox3x) ![](assets/new.png)  
-- [2021-05-06-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-06-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
 - [2021-05-06-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
 - [2021-05-06-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-06-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
+- [2021-05-06-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-06 10:09:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 10:35:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,6 +44,12 @@
 - [2021-05-06-全球第二大浏览器升级！内存CPU占用暴降-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14339&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489757%26amp%3Bidx%3D2%26amp%3Bsn%3Dcddf6d06b00cf8aabfb2a0bfbe7735cf%26amp%3Bchksm%3Dfa3cf986cd4b7090ff78e3611e21e8c136c76aebd56b9c87358b0c689422d32d20a9b2334220%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-05-06-把你的-IDE-搬进浏览器里：JetBrains-Projector-初体验](https://toutiao.io/k/fg52hbx) 
 - [2021-05-06-.NET-中安全高效跨平台的模板引擎-Fluid-使用文档](https://toutiao.io/k/xna3lx9) 
+- [2021-05-06-从技术角度解读等保2.0对数据安全的要求](https://sec.thief.one/article_content?a_id=e6558c075c9d6deb12e6b2ab835a3e6f) 
+- [2021-05-06-GetData-Mount-Image-Pro镜像挂载工具资料归档](https://sec.thief.one/article_content?a_id=8d27e69fef36d0c25d0b289262e7a1b8) 
+- [2021-05-06-网络安全公司谁家薪酬最高?](https://sec.thief.one/article_content?a_id=beae09d612c44707bb5fb126891a0c8f) 
+- [2021-05-06-SecWiki安全招聘第52期](https://sec.thief.one/article_content?a_id=0bac4903683b02719db5902431839e0f) 
+- [2021-05-06-安全日报2021.05.06](https://sec.thief.one/article_content?a_id=3aa0ed0309e2090596e8be30b9f86eb4) 
+- [2021-05-06-公安部李明接受新华网专访:新技术新应用倒逼网络安全等级保护制度...](https://sec.thief.one/article_content?a_id=89f4d059d633b0a6357c2d7f24cfc47c) 
 - [2021-05-05-2021年面向系统管理员的顶级免费安全管理工具](https://sec.thief.one/article_content?a_id=0d0fc40f46d75a560754e0337735abec) 
 - [2021-05-05-网络安全攻防:Web安全之XSS跨站](https://sec.thief.one/article_content?a_id=664b5bdd5cbcc9b6237c817dd940df8b) 
 - [2021-05-04-使用ThreatMapper识别容器、镜像主机和代码库中的安全漏洞](https://sec.thief.one/article_content?a_id=38f10f7b45ae4f607e8b2eeb329209e3) 
@@ -56,10 +62,3 @@
 - [2021-04-30-开启全面安全新纪元-360安全卫士正式启动15周年“全面安全”品牌计...](https://sec.thief.one/article_content?a_id=6425da2a150250b8b9ed44c2523bd959) 
 - [2021-04-30-安全圈护网毕业了,那就来斗象吧](https://sec.thief.one/article_content?a_id=a15ba546594fe095c72ca1152ba3b12d) 
 - [2021-04-30-中国上市网络安全公司2020年营收、毛利、利润排行](https://sec.thief.one/article_content?a_id=8dd597a95cb298b417653f884d3b17f6) 
-- [2021-04-30-奇安信天眼独家中标中国移动总部网络安全项目](https://sec.thief.one/article_content?a_id=a952995b01c57623afcc54bfe66b25c5) 
-- [2021-04-30-智慧安全-广州首发|NSFOCUS-CLUB-2021创新安全全国巡讲火爆来袭](https://sec.thief.one/article_content?a_id=c7536dfeb9d310cfb920d4224714194e) 
-- [2021-04-30-全国人大法工委公布数据安全法草案、个人信息保护法草案新修内容](https://sec.thief.one/article_content?a_id=fe67852dbd352b19be2be36928a1a4b2) 
-- [2021-04-30-完美收官-|-首届国产优秀网络安全工具主题展圆满落幕](https://sec.thief.one/article_content?a_id=a44ac0f27c8bc33fb3dde43adbde19d0) 
-- [2021-04-30-安全日报2021.04.30](https://sec.thief.one/article_content?a_id=17283c01078c81d6742c7194d507236b) 
-- [2021-04-30-MacOS内核安全性检测](https://sec.thief.one/article_content?a_id=f585fe2901efd76d3d23899b5654dca7) 
-- [2021-04-30-数据安全如何定级](https://sec.thief.one/article_content?a_id=7a781f875cbd0ee89255f78c50a43029) 

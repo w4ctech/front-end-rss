@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-06 23:07:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 23:35:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -36,9 +36,6 @@
 - [2021-05-01-知乎高赞：前端模块化的十年征程](https://www.ershicimi.com/p/4e1896edf64362218f22926ec1f958bd) 
 - [2021-04-30-我-JS-写的好好的，为什么要用那么复杂的TS](https://www.ershicimi.com/p/1d09a380fc7e7683d6233b1615f68f69) 
 - [2021-04-29-JavaScript中的函数式编程](https://www.ershicimi.com/p/128ed7f74722f6ccd004c7cb4d4cf41a) 
-- [2021-04-29-10个清晰实用更显专业的JavaScript代码片段](https://www.ershicimi.com/p/1ca2dc9e36669e84443fa10310bd8e6a) 
-- [2021-04-29-一道让人失眠的-Promise-试题深入分析](https://www.ershicimi.com/p/6b7d7d7c589090139ef44c3b81437c5b) 
-- [2021-04-28-前端业务组件库技术实现的三个关键点](https://www.ershicimi.com/p/4fc732a6244883896447b264bc6a6106) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2021-04-29-【第2268期】Javascript-非同步&-Event-Loop！10-分钟轻松图解学习！](https://www.ershicimi.com/p/27a287e7597a0817af5d506f52b54578) 

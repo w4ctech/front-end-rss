@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-06 07:50:20，:rocket: 更新条数: +4310， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-06 08:05:15，:rocket: 更新条数: +4312， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,13 @@
 </summary>
 
 
+- [2021-05-06-多文件的-Airdrop-体验不佳](https://www.v2ex.com/t/775192) ![](assets/new.png)  
+- [2021-05-06-如何恢复在进程一直占用某个文件的时被删除的文件，并保持正常写入？](https://www.v2ex.com/t/775191) ![](assets/new.png)  
+- [2021-05-06-深圳-965-招-2-3-年全职-u3d](https://www.v2ex.com/t/775190) ![](assets/new.png)  
+- [2021-05-06-你们的阿里小号能接到-106-开头或者-11-位手机短信吗](https://www.v2ex.com/t/775189) ![](assets/new.png)  
+- [2021-05-06-北京&上海-OR-远程-联池系统招聘前端，后端开发,-IOS,-Android,-Windows](https://www.v2ex.com/t/775188) ![](assets/new.png)  
+- [2021-05-06-今晚剧本杀组队有嘛？](https://www.v2ex.com/t/775187) ![](assets/new.png)  
+- [2021-05-06-楼下天花板掉皮，怪我家装地板并要求赔偿，怎么处理？](https://www.v2ex.com/t/775186) ![](assets/new.png)  
 - [2021-05-06-2-年内会不会出蜂窝版-macbook](https://www.v2ex.com/t/775184) ![](assets/new.png)  
 - [2021-05-06-DELL-U3219Q-这显示器可以开启-G-Sync-吗，貌似在-nVidia-控制面板里面连这个-g-sync-选项都没有](https://www.v2ex.com/t/775183) ![](assets/new.png)  
 - [2021-05-06-电子数据如何保证不联网的情况下不被修改？](https://www.v2ex.com/t/775182) ![](assets/new.png)  
@@ -1029,13 +1036,6 @@
 - [2021-05-06-为何-Python3-要搞一个不可变对象的概念？](https://www.v2ex.com/t/775170) ![](assets/new.png)  
 - [2021-05-06-为什么你们要选择-TypeScript？](https://www.v2ex.com/t/775169) ![](assets/new.png)  
 - [2021-05-06-新的-喵控键盘-是只能给-iMac-用吗？各位](https://www.v2ex.com/t/775167) ![](assets/new.png)  
-- [2021-05-06-明明工作强度不高，睡眠也充足，可为什么还是感觉累呢？](https://www.v2ex.com/t/775166) ![](assets/new.png)  
-- [2021-05-06-从运维的角度看，一个可靠的如微信的-API-的基础架构应该怎么部署？](https://www.v2ex.com/t/775165) ![](assets/new.png)  
-- [2021-05-06-关于惠普的服务体验，真心无力吐槽](https://www.v2ex.com/t/775163) ![](assets/new.png)  
-- [2021-05-06-DAO-层和-ORM，能区分，但又不完全能区分，我裂开了](https://www.v2ex.com/t/775162) ![](assets/new.png)  
-- [2021-05-06-求助各位大神，有没有类似的工具](https://www.v2ex.com/t/775160) ![](assets/new.png)  
-- [2021-05-06-各位买-nas-一般用来干嘛？](https://www.v2ex.com/t/775159) ![](assets/new.png)  
-- [2021-05-06-本人-96-年,做产品经理两三年了,打算转前端开发,因为我觉得我的性格比较程序员,安静内向,还是喜欢安安静静敲代码,也是为了以后成为一个数字游民、独立开发者、远...](https://www.v2ex.com/t/775158) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1093,11 +1093,11 @@
 - [2021-05-06-.NET-中安全高效跨平台的模板引擎-Fluid-使用文档](https://toutiao.io/k/xna3lx9) ![](assets/new.png)  
 - [2021-05-06-写了个简洁的-Markdown-简历模板](https://toutiao.io/k/hf4zo9r) ![](assets/new.png)  
 - [2021-05-06-Python数据分析：股票成交量与收盘价时间序列可视化分析](https://toutiao.io/k/yct2gs5) ![](assets/new.png)  
+- [2021-05-06-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-06-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
 - [2021-05-06-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-06-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-06-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
-- [2021-05-06-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
-- [2021-05-06-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
+- [2021-05-06-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-06-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

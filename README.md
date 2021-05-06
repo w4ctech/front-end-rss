@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-06 08:46:49，:rocket: 更新条数: +4313， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-06 08:55:52，:rocket: 更新条数: +4313， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-05-06-求推荐-license-管理工具](https://www.v2ex.com/t/775210) ![](assets/new.png)  
+- [2021-05-06-iphone11-屏幕斑点](https://www.v2ex.com/t/775209) ![](assets/new.png)  
 - [2021-05-06-工作比较-回老家还是继续沪漂，怎么选择?](https://www.v2ex.com/t/775208) ![](assets/new.png)  
 - [2021-05-06-全球浏览器统计：仅-Chrome-持续增长，其他全部下滑](https://www.v2ex.com/t/775207) ![](assets/new.png)  
 - [2021-05-06-时隔三年，又被京东杀（黑）熟（号）了](https://www.v2ex.com/t/775206) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-05-06-多文件的-Airdrop-体验不佳](https://www.v2ex.com/t/775192) ![](assets/new.png)  
 - [2021-05-06-如何恢复在进程一直占用某个文件的时被删除的文件，并保持正常写入？](https://www.v2ex.com/t/775191) ![](assets/new.png)  
 - [2021-05-06-深圳-965-招-2-3-年全职-u3d](https://www.v2ex.com/t/775190) ![](assets/new.png)  
-- [2021-05-06-你们的阿里小号能接到-106-开头或者-11-位手机短信吗](https://www.v2ex.com/t/775189) ![](assets/new.png)  
-- [2021-05-06-北京&上海-OR-远程-联池系统招聘前端，后端开发,-IOS,-Android,-Windows](https://www.v2ex.com/t/775188) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1093,11 +1093,11 @@
 - [2021-05-06-.NET-中安全高效跨平台的模板引擎-Fluid-使用文档](https://toutiao.io/k/xna3lx9) ![](assets/new.png)  
 - [2021-05-06-写了个简洁的-Markdown-简历模板](https://toutiao.io/k/hf4zo9r) ![](assets/new.png)  
 - [2021-05-06-Python数据分析：股票成交量与收盘价时间序列可视化分析](https://toutiao.io/k/yct2gs5) ![](assets/new.png)  
-- [2021-05-06-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
-- [2021-05-06-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
-- [2021-05-06-推荐-撸代码前，写下设计方案](https://toutiao.io/k/xdsox3x) ![](assets/new.png)  
+- [2021-05-06-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-06-推荐-Redis-进阶笔记](https://toutiao.io/k/ti0gb8i) ![](assets/new.png)  
 - [2021-05-06-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
-- [2021-05-06-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
+- [2021-05-06-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
+- [2021-05-06-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

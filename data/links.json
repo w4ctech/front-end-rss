@@ -20984,11 +20984,6 @@
         "title": "单独部署在客户服务器上的 Java 应用如何防止客户将其再次部署到其他客户的服务器?",
         "link": "https://www.v2ex.com/t/775500",
         "date": "2021-05-07"
-      },
-      {
-        "title": "有没有什么 Chrome 插件能够自动保存浏览的网页",
-        "link": "https://www.v2ex.com/t/775499",
-        "date": "2021-05-07"
       }
     ]
   },
@@ -21195,8 +21190,23 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
-        "link": "https://toutiao.io/k/a5s1rfh",
+        "title": "[推荐] 万级并发：电商库存扣减如何设计？不超卖",
+        "link": "https://toutiao.io/k/1nwsx5k",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
+        "link": "https://toutiao.io/k/iwkig90",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 撸代码前，写下设计方案",
+        "link": "https://toutiao.io/k/xdsox3x",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 系统设计之路：如何设计一个 URL 短链服务",
+        "link": "https://toutiao.io/k/6mzds1m",
         "date": "2021-05-07"
       },
       {
@@ -21215,33 +21225,18 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 系统设计之路：如何设计一个 URL 短链服务",
-        "link": "https://toutiao.io/k/6mzds1m",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 撸代码前，写下设计方案",
-        "link": "https://toutiao.io/k/xdsox3x",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 万级并发：电商库存扣减如何设计？不超卖",
-        "link": "https://toutiao.io/k/1nwsx5k",
-        "date": "2021-05-07"
-      },
-      {
         "title": "[推荐] Kafka：这次分享我只想把原理讲清楚",
         "link": "https://toutiao.io/k/0etokja",
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 图解 Kafka",
-        "link": "https://toutiao.io/k/lvyzxo8",
+        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
+        "link": "https://toutiao.io/k/a5s1rfh",
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
-        "link": "https://toutiao.io/k/iwkig90",
+        "title": "[推荐] 图解 Kafka",
+        "link": "https://toutiao.io/k/lvyzxo8",
         "date": "2021-05-07"
       }
     ]

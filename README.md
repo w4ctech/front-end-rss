@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 09:44:34，:rocket: 更新条数: +741， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 09:55:49，:rocket: 更新条数: +743， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-05-07-戴-Apple-Watch-手腕出现一圈白色的皮肤怎么办？](https://www.v2ex.com/t/775476) ![](assets/new.png)  
+- [2021-05-07-大型央企持续内推，岗位类型多多，-HC-多多，福利多多（7-险-2-金，-5-食堂，公租房，班车，-n-种补贴）](https://www.v2ex.com/t/775475) ![](assets/new.png)  
 - [2021-05-07-不懂就问：有点迷惑的交通规则](https://www.v2ex.com/t/775474) ![](assets/new.png)  
 - [2021-05-07-GB28181-设备怎么拉-http-flv-流啊](https://www.v2ex.com/t/775473) ![](assets/new.png)  
 - [2021-05-07-wslg-简单用用感觉还不错](https://www.v2ex.com/t/775471) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-05-07-迫于更新简历，有没有什么-markdown-简历模板？](https://www.v2ex.com/t/775455) ![](assets/new.png)  
 - [2021-05-07-关于网页浏览过程的疑惑](https://www.v2ex.com/t/775454) ![](assets/new.png)  
 - [2021-05-07-google-play-锁区](https://www.v2ex.com/t/775453) ![](assets/new.png)  
-- [2021-05-07-Mac-废纸篓的文件不能放回原处](https://www.v2ex.com/t/775452) ![](assets/new.png)  
-- [2021-05-07-2021-年了，有什么办法能使用-SwiftUI-开发-Flutter-吗？](https://www.v2ex.com/t/775450) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1066,8 +1066,8 @@
 - [2021-05-07-职场感悟：我的参考系在哪？](https://toutiao.io/k/zgtkl3z) ![](assets/new.png)  
 - [2021-05-07-Spring-Boot-集成-groovy-脚本](https://toutiao.io/k/wbuol5s) ![](assets/new.png)  
 - [2021-05-07-一文读懂-MySQL-查询语句的执行过程](https://toutiao.io/k/1ekyryi) ![](assets/new.png)  
-- [2021-05-07-聊一聊可信执行环境](https://toutiao.io/k/67zyftw) ![](assets/new.png)  
 - [2021-05-07-Curl-使用指南](https://toutiao.io/k/3xmfopc) ![](assets/new.png)  
+- [2021-05-07-聊一聊可信执行环境](https://toutiao.io/k/67zyftw) ![](assets/new.png)  
 - [2021-05-07-再谈-synchronized-锁升级](https://toutiao.io/k/2u2tp7g) ![](assets/new.png)  
 - [2021-05-07-GraphQL-及元数据驱动架构在后端-BFF-中的实践](https://toutiao.io/k/go0rojp) ![](assets/new.png)  
 - [2021-05-07-使用-Kotlin-提高生产力](https://toutiao.io/k/kg5vie0) ![](assets/new.png)  
@@ -1076,7 +1076,7 @@
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
-- [2021-05-07-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
+- [2021-05-07-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
 - [2021-05-07-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

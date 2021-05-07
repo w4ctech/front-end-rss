@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 05:52:57，:rocket: 更新条数: +740， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 06:05:05，:rocket: 更新条数: +740， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-05-07-2021-年了，如何从零入门-Kotlin-？然后能迅速做出一个-Android-应用程序。](https://www.v2ex.com/t/775419) ![](assets/new.png)  
+- [2021-05-07-pymssql-在插入数据库操作时候网络断开应该如何捕获异常？](https://www.v2ex.com/t/775418) ![](assets/new.png)  
 - [2021-05-07-显卡风扇数量影响矿老板收卡吗](https://www.v2ex.com/t/775417) ![](assets/new.png)  
 - [2021-05-07-有-UU-组队充值的吗？-1=5](https://www.v2ex.com/t/775416) ![](assets/new.png)  
 - [2021-05-07-注册表里以十六进制/十进制形式展示的软件版本咋转换成实际的版本号？](https://www.v2ex.com/t/775415) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-05-07-试用期内怎么离职好](https://www.v2ex.com/t/775395) ![](assets/new.png)  
 - [2021-05-07-现在还有没不烫手的手机？](https://www.v2ex.com/t/775394) ![](assets/new.png)  
 - [2021-05-07-Electron-的一些想法](https://www.v2ex.com/t/775393) ![](assets/new.png)  
-- [2021-05-07-广州哪里有靠谱的换屏幕维修店推荐？之前换屏幕内屏被人掉包，血亏](https://www.v2ex.com/t/775391) ![](assets/new.png)  
-- [2021-05-07-请教：阿里云同地域不同可用区的延时情况如何？](https://www.v2ex.com/t/775390) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1073,11 +1073,11 @@
 - [2021-05-07-酷炫！Python-函数耗时异常自动化监控](https://toutiao.io/k/g5lxvm0) ![](assets/new.png)  
 - [2021-05-07-使用-Kotlin-提高生产力](https://toutiao.io/k/kg5vie0) ![](assets/new.png)  
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
-- [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
 - [2021-05-07-C/C++-构建系统，我用-xmake](https://toutiao.io/k/rluv4r3) ![](assets/new.png)  
+- [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
-- [2021-05-07-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-07-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-07-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-07-推荐-系统设计之路：如何设计一个-URL-短链服务](https://toutiao.io/k/6mzds1m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

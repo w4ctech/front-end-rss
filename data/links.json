@@ -2925,6 +2925,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "2021 年了，如何从零入门 Kotlin ？然后能迅速做出一个 Android 应用程序。",
+        "link": "https://www.v2ex.com/t/775419",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "pymssql 在插入数据库操作时候网络断开应该如何捕获异常？",
+        "link": "https://www.v2ex.com/t/775418",
+        "date": "2021-05-07"
+      },
+      {
         "title": "显卡风扇数量影响矿老板收卡吗",
         "link": "https://www.v2ex.com/t/775417",
         "date": "2021-05-07"
@@ -3077,16 +3087,6 @@
       {
         "title": "数字游民指南网站交换友链",
         "link": "https://www.v2ex.com/t/775370",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "我的特殊后缀域名竟然被百度收录了",
-        "link": "https://www.v2ex.com/t/775369",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "现在如何转到土耳其区或巴西区呢？",
-        "link": "https://www.v2ex.com/t/775368",
         "date": "2021-05-07"
       }
     ]
@@ -3279,13 +3279,13 @@
         "date": "2021-05-07"
       },
       {
-        "title": "工具 | 一个非常实用的 NLP 索引工具",
-        "link": "https://toutiao.io/k/u231mw2",
+        "title": "C/C++ 构建系统，我用 xmake",
+        "link": "https://toutiao.io/k/rluv4r3",
         "date": "2021-05-07"
       },
       {
-        "title": "C/C++ 构建系统，我用 xmake",
-        "link": "https://toutiao.io/k/rluv4r3",
+        "title": "工具 | 一个非常实用的 NLP 索引工具",
+        "link": "https://toutiao.io/k/u231mw2",
         "date": "2021-05-07"
       },
       {
@@ -3294,28 +3294,8 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
-        "link": "https://toutiao.io/k/08uadl6",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] Kafka：这次分享我只想把原理讲清楚",
-        "link": "https://toutiao.io/k/0etokja",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 撸代码前，写下设计方案",
-        "link": "https://toutiao.io/k/xdsox3x",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
-        "link": "https://toutiao.io/k/iwkig90",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 如何设计一个高性能的秒杀系统",
-        "link": "https://toutiao.io/k/6z3uu2m",
+        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
+        "link": "https://toutiao.io/k/2aonyjp",
         "date": "2021-05-07"
       },
       {
@@ -3324,23 +3304,23 @@
         "date": "2021-05-07"
       },
       {
+        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
+        "link": "https://toutiao.io/k/08uadl6",
+        "date": "2021-05-07"
+      },
+      {
         "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
         "link": "https://toutiao.io/k/90vs9kg",
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 万级并发：电商库存扣减如何设计？不超卖",
-        "link": "https://toutiao.io/k/1nwsx5k",
+        "title": "[推荐] Kafka：这次分享我只想把原理讲清楚",
+        "link": "https://toutiao.io/k/0etokja",
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
-        "link": "https://toutiao.io/k/a5s1rfh",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 程序员应该掌握的常用网络问题定位工具",
-        "link": "https://toutiao.io/k/upefap5",
+        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
+        "link": "https://toutiao.io/k/iwkig90",
         "date": "2021-05-07"
       },
       {
@@ -3349,18 +3329,38 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
-        "link": "https://toutiao.io/k/2aonyjp",
+        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
+        "link": "https://toutiao.io/k/a5s1rfh",
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 图解 Kafka",
-        "link": "https://toutiao.io/k/lvyzxo8",
+        "title": "[推荐] 撸代码前，写下设计方案",
+        "link": "https://toutiao.io/k/xdsox3x",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 如何设计一个高性能的秒杀系统",
+        "link": "https://toutiao.io/k/6z3uu2m",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 程序员应该掌握的常用网络问题定位工具",
+        "link": "https://toutiao.io/k/upefap5",
         "date": "2021-05-07"
       },
       {
         "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
         "link": "https://toutiao.io/k/0iue4f4",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 万级并发：电商库存扣减如何设计？不超卖",
+        "link": "https://toutiao.io/k/1nwsx5k",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 图解 Kafka",
+        "link": "https://toutiao.io/k/lvyzxo8",
         "date": "2021-05-07"
       }
     ]

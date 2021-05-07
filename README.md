@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 15:39:09，:rocket: 更新条数: +4317， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 15:49:27，:rocket: 更新条数: +4317， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1096,8 +1096,8 @@
 - [2021-05-07-酷炫！Python-函数耗时异常自动化监控](https://toutiao.io/k/g5lxvm0) ![](assets/new.png)  
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
+- [2021-05-07-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
 - [2021-05-07-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
-- [2021-05-07-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

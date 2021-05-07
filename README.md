@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 04:01:50，:rocket: 更新条数: +743， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 04:14:29，:rocket: 更新条数: +742， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-05-07-ipv6-地址多久更新一次](https://www.v2ex.com/t/775397) ![](assets/new.png)  
+- [2021-05-07-试用期内怎么离职好](https://www.v2ex.com/t/775395) ![](assets/new.png)  
+- [2021-05-07-现在还有没不烫手的手机？](https://www.v2ex.com/t/775394) ![](assets/new.png)  
 - [2021-05-07-Electron-的一些想法](https://www.v2ex.com/t/775393) ![](assets/new.png)  
 - [2021-05-07-广州哪里有靠谱的换屏幕维修店推荐？之前换屏幕内屏被人掉包，血亏](https://www.v2ex.com/t/775391) ![](assets/new.png)  
 - [2021-05-07-请教：阿里云同地域不同可用区的延时情况如何？](https://www.v2ex.com/t/775390) ![](assets/new.png)  
@@ -1009,13 +1012,10 @@
 - [2021-05-07-flutter-桌面端靠谱吗？](https://www.v2ex.com/t/775376) ![](assets/new.png)  
 - [2021-05-07-深圳买房租房算一笔账](https://www.v2ex.com/t/775374) ![](assets/new.png)  
 - [2021-05-07-请问-PayPal-商家那边申请退款后多久会在交易记录显示出来？](https://www.v2ex.com/t/775373) ![](assets/new.png)  
-- [2021-05-07-关于-jar-包隔离，请教各位-18cm-一个问题](https://www.v2ex.com/t/775372) ![](assets/new.png)  
 - [2021-05-07-M1-终于开始烫了起来](https://www.v2ex.com/t/775371) ![](assets/new.png)  
 - [2021-05-07-数字游民指南网站交换友链](https://www.v2ex.com/t/775370) ![](assets/new.png)  
 - [2021-05-07-我的特殊后缀域名竟然被百度收录了](https://www.v2ex.com/t/775369) ![](assets/new.png)  
 - [2021-05-07-现在如何转到土耳其区或巴西区呢？](https://www.v2ex.com/t/775368) ![](assets/new.png)  
-- [2021-05-07-照片太多了，时间线又乱，怎么整理](https://www.v2ex.com/t/775367) ![](assets/new.png)  
-- [2021-05-07-腾讯云-chia-方案](https://www.v2ex.com/t/775366) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,8 +1065,8 @@
 - [2021-05-07-Raft-的-Figure-8-讲了什么问题？为什么需要-no-op-日志？](https://toutiao.io/k/funesvi) ![](assets/new.png)  
 - [2021-05-07-聊一聊可信执行环境](https://toutiao.io/k/67zyftw) ![](assets/new.png)  
 - [2021-05-07-Spring-Boot-集成-groovy-脚本](https://toutiao.io/k/wbuol5s) ![](assets/new.png)  
-- [2021-05-07-Curl-使用指南](https://toutiao.io/k/3xmfopc) ![](assets/new.png)  
 - [2021-05-07-职场感悟：我的参考系在哪？](https://toutiao.io/k/zgtkl3z) ![](assets/new.png)  
+- [2021-05-07-Curl-使用指南](https://toutiao.io/k/3xmfopc) ![](assets/new.png)  
 - [2021-05-07-酷炫！Python-函数耗时异常自动化监控](https://toutiao.io/k/g5lxvm0) ![](assets/new.png)  
 - [2021-05-07-再谈-synchronized-锁升级](https://toutiao.io/k/2u2tp7g) ![](assets/new.png)  
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
@@ -1076,8 +1076,8 @@
 - [2021-05-07-C/C++-构建系统，我用-xmake](https://toutiao.io/k/rluv4r3) ![](assets/new.png)  
 - [2021-05-07-使用-Kotlin-提高生产力](https://toutiao.io/k/kg5vie0) ![](assets/new.png)  
 - [2021-05-07-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
-- [2021-05-07-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
-- [2021-05-07-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-07-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
+- [2021-05-07-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 03:33:45，:rocket: 更新条数: +743， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 03:50:47，:rocket: 更新条数: +743， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,9 @@
 </summary>
 
 
+- [2021-05-07-MoCA-2.5-设备购买](https://www.v2ex.com/t/775387) ![](assets/new.png)  
+- [2021-05-07-美团-Java-招聘](https://www.v2ex.com/t/775385) ![](assets/new.png)  
+- [2021-05-07-dhcp-占用问题](https://www.v2ex.com/t/775384) ![](assets/new.png)  
 - [2021-05-07-意外发现-Xbox-Series-S-外接硬盘也能直接运行游戏](https://www.v2ex.com/t/775382) ![](assets/new.png)  
 - [2021-05-07-有没有童鞋用过淘宝上的三星手机更换外屏的服务？](https://www.v2ex.com/t/775381) ![](assets/new.png)  
 - [2021-05-07-请问有什么恐怖电影可以推荐吗](https://www.v2ex.com/t/775377) ![](assets/new.png)  
@@ -1013,9 +1016,6 @@
 - [2021-05-07-树莓派-3b+和-4b-当软路由的差距有多少？](https://www.v2ex.com/t/775364) ![](assets/new.png)  
 - [2021-05-07-江苏联通连接两个路由器都要收费](https://www.v2ex.com/t/775363) ![](assets/new.png)  
 - [2021-05-07-公司-iPhone-测试机锁屏密码是-0000，-icloud-老实提示验证密码，但是输入后又没反应？](https://www.v2ex.com/t/775362) ![](assets/new.png)  
-- [2021-05-07-求助-腾讯轻量云内存占用高。。](https://www.v2ex.com/t/775361) ![](assets/new.png)  
-- [2021-05-07-有在用外星人的同学吗？-M15R4-3070-vs-M17R4-3080-纠结了](https://www.v2ex.com/t/775360) ![](assets/new.png)  
-- [2021-05-07-上海-WLB-NashCloud-.-纳什信息-招聘前后端开发工程师，运维工程师](https://www.v2ex.com/t/775359) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1066,8 +1066,8 @@
 - [2021-05-07-聊一聊可信执行环境](https://toutiao.io/k/67zyftw) ![](assets/new.png)  
 - [2021-05-07-Spring-Boot-集成-groovy-脚本](https://toutiao.io/k/wbuol5s) ![](assets/new.png)  
 - [2021-05-07-Curl-使用指南](https://toutiao.io/k/3xmfopc) ![](assets/new.png)  
-- [2021-05-07-酷炫！Python-函数耗时异常自动化监控](https://toutiao.io/k/g5lxvm0) ![](assets/new.png)  
 - [2021-05-07-职场感悟：我的参考系在哪？](https://toutiao.io/k/zgtkl3z) ![](assets/new.png)  
+- [2021-05-07-酷炫！Python-函数耗时异常自动化监控](https://toutiao.io/k/g5lxvm0) ![](assets/new.png)  
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-再谈-synchronized-锁升级](https://toutiao.io/k/2u2tp7g) ![](assets/new.png)  
 - [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
@@ -1075,9 +1075,9 @@
 - [2021-05-07-C/C++-构建系统，我用-xmake](https://toutiao.io/k/rluv4r3) ![](assets/new.png)  
 - [2021-05-07-GraphQL-及元数据驱动架构在后端-BFF-中的实践](https://toutiao.io/k/go0rojp) ![](assets/new.png)  
 - [2021-05-07-使用-Kotlin-提高生产力](https://toutiao.io/k/kg5vie0) ![](assets/new.png)  
-- [2021-05-07-推荐-撸代码前，写下设计方案](https://toutiao.io/k/xdsox3x) ![](assets/new.png)  
-- [2021-05-07-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-07-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-07-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-07-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-07-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

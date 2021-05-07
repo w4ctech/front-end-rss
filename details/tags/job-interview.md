@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 05:14:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 05:37:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -22,7 +22,5 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2021-04-28-虎牙面试官：String长度有限制吗？是多少？我：这太...](https://www.ershicimi.com/p/9296c77fed825a73929d16b70c299578) 
 - [2021-04-22-重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/2dd643e87f8415ea43cd71fae653209b) 
-- [2021-05-07-美团-Java-招聘](https://www.v2ex.com/t/775385) 
 - [2021-05-07-高频题面试经典题目--最小覆盖子串](https://www.v2ex.com/t/775365) 
-- [2021-05-07-上海-WLB-NashCloud-.-纳什信息-招聘前后端开发工程师，运维工程师](https://www.v2ex.com/t/775359) 
 - [2021-05-07-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) 

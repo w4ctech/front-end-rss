@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-07 05:14:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 05:37:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -454,6 +454,7 @@
 - [【互联网架构师】有了HTTP，为什么还要RPC？](https://www.ershicimi.com/p/efa1b03150979c43edf61bb25edaedbb)
 - [【InfoQ】分布式一致性算法：解决分布式系统80%核心问题｜极客时间](https://www.ershicimi.com/p/ca136b774c0ae4b54bbd3d73e8f62759)
 - [【JavaScript】Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29)
+- [【V2EX】Windows-有类似于-Vimac-的全局键盘操作的软件么？](https://www.v2ex.com/t/775413)
 - [【安全热点】《人工智能算法金融应用评价规范》全文](https://sec.thief.one/article_content?a_id=807c71910687d2b4f596f22f0966273e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -528,9 +529,7 @@
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【互联网架构师】虎牙面试官：String长度有限制吗？是多少？我：这太...](https://www.ershicimi.com/p/9296c77fed825a73929d16b70c299578)
 - [【JavaScript】重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/2dd643e87f8415ea43cd71fae653209b)
-- [【V2EX】美团-Java-招聘](https://www.v2ex.com/t/775385)
 - [【V2EX】高频题面试经典题目--最小覆盖子串](https://www.v2ex.com/t/775365)
-- [【V2EX】上海-WLB-NashCloud-.-纳什信息-招聘前后端开发工程师，运维工程师](https://www.v2ex.com/t/775359)
 - [【开发者头条】推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

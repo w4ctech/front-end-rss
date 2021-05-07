@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 07:50:55，:rocket: 更新条数: +738， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 08:05:45，:rocket: 更新条数: +4310， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-05-07-5月6日全国新增新冠13例-均由境外输入](https://m.caixin.com/m/2021-05-07/101706970.html) ![](assets/new.png)  
+- [2021-05-07-【境内疫情观察】全国新增13例境外输入病例（5月6日）](http://m.database.caixin.com/m/2021-05-07/101707685.html) ![](assets/new.png)  
+- [2021-05-07-WHO指科兴疫苗可有效保护六旬以下成年人-加拿大批准青少年接种辉瑞疫苗｜大流行手记（5月6日）](https://m.caixin.com/m/2021-05-07/101706957.html) ![](assets/new.png)  
+- [2021-05-06-美国转向支持豁免新冠疫苗专利保护-能否推动疫苗全球普及](http://m.international.caixin.com/m/2021-05-06/101706238.html) ![](assets/new.png)  
+- [2021-05-06-最新海外疫情：新冠感染超1.55亿-累计死亡超323万](https://m.caixin.com/m/2021-05-06/101705951.html) ![](assets/new.png)  
+- [2021-05-06-【境内疫情观察】全国连续百日无新增死亡病例（5月5日）](http://m.database.caixin.com/m/2021-05-06/101705744.html) ![](assets/new.png)  
+- [2021-05-05-【境内疫情观察】云南瑞丽中高风险区域清零（5月4日）](http://m.database.caixin.com/m/2021-05-05/101705446.html) ![](assets/new.png)  
+- [2021-05-05-印度累计确诊病例突破2000万-新加坡收紧社交距离管制｜大流行手记（5月4日）](https://m.caixin.com/m/2021-05-05/101705431.html) ![](assets/new.png)  
+- [2021-05-04-国药北京所新冠疫苗部分数据披露-老年人保护率等被指证据不足](https://m.caixin.com/m/2021-05-04/101705407.html) ![](assets/new.png)  
+- [2021-05-04-【境内疫情观察】全国新增17例境外输入病例（5月3日）](http://m.database.caixin.com/m/2021-05-04/101705307.html) ![](assets/new.png)  
+- [2021-05-04-欧盟建议放宽国际旅行限制-丹麦停用强生疫苗-|-大流行手记（5月3日）](https://m.caixin.com/m/2021-05-04/101705293.html) ![](assets/new.png)  
+- [2021-05-03-【境内疫情观察】全国现有确诊病例323例（5月2日）](http://m.database.caixin.com/m/2021-05-03/101705195.html) ![](assets/new.png)  
+- [2021-05-03-福奇建议印度全国封锁-英酝酿9月为12岁以上学童接种｜大流行手记（5月2日）](https://m.caixin.com/m/2021-05-03/101705171.html) ![](assets/new.png)  
+- [2021-05-02-【境内疫情观察】全国新增15例境外输入病例（5月1日）](http://m.database.caixin.com/m/2021-05-02/101705102.html) ![](assets/new.png)  
+- [2021-05-02-印度单日新增超40万例-巴西疫情缓解｜大流行手记（5月1日）](https://m.caixin.com/m/2021-05-02/101705089.html) ![](assets/new.png)  
+- [2021-05-01-美国对印度发布旅行禁令-5月4日起限制人员从印度入境](http://m.international.caixin.com/m/2021-05-01/101704855.html) ![](assets/new.png)  
+- [2021-05-01-【境内疫情观察】全国新增16例境外输入病例（4月30日）](http://m.database.caixin.com/m/2021-05-01/101704949.html) ![](assets/new.png)  
+- [2021-05-01-东京奥运会拟闭门比赛-法国5月19日起逐步解封｜大流行手记（4月30日）](https://m.caixin.com/m/2021-05-01/101704798.html) ![](assets/new.png)  
+- [2021-04-30-双重变种病毒流入香港社区-确诊菲佣感染10个月女婴](https://m.caixin.com/m/2021-04-30/101704317.html) ![](assets/new.png)  
+- [2021-04-30-双重变种病毒突现社区-港府紧急宣布37万外佣强制检测](https://m.caixin.com/m/2021-04-30/101704731.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -996,6 +1016,9 @@
 </summary>
 
 
+- [2021-05-07-看完鸿蒙-OS-车机系统的演示，突然明白所谓的全场景分布式-OS-是个什么](https://www.v2ex.com/t/775446) ![](assets/new.png)  
+- [2021-05-07-你们周边人打疫苗的比例大吗](https://www.v2ex.com/t/775445) ![](assets/new.png)  
+- [2021-05-07-感觉-v-站的人挺多样化的，刷脉脉和知乎很容易焦虑，刷-v-站能让人安静](https://www.v2ex.com/t/775444) ![](assets/new.png)  
 - [2021-05-07-XCode-里下载不到-ios-12-以下的镜像了，排查问题好不方便，到底咋想的？](https://www.v2ex.com/t/775442) ![](assets/new.png)  
 - [2021-05-07-关于-kotlin-安卓开发，网络框架有用-Retrofit+协程的方式实现的吗，真的好用吗](https://www.v2ex.com/t/775441) ![](assets/new.png)  
 - [2021-05-07-历经两个月,我的神经性耳鸣蝉鸣,终于好了,生活还是充满阳光的.](https://www.v2ex.com/t/775440) ![](assets/new.png)  
@@ -1013,9 +1036,6 @@
 - [2021-05-07-PHPStorm-的-Ctrl-+-/-的单行注释，只能顶头加嘛？](https://www.v2ex.com/t/775422) ![](assets/new.png)  
 - [2021-05-07-2021-年了，如何从零入门-Kotlin-？然后能迅速做出一个-Android-应用程序。](https://www.v2ex.com/t/775419) ![](assets/new.png)  
 - [2021-05-07-pymssql-在插入数据库操作时候网络断开应该如何捕获异常？](https://www.v2ex.com/t/775418) ![](assets/new.png)  
-- [2021-05-07-注册表里以十六进制/十进制形式展示的软件版本咋转换成实际的版本号？](https://www.v2ex.com/t/775415) ![](assets/new.png)  
-- [2021-05-07-Windows-有类似于-Vimac-的全局键盘操作的软件么？](https://www.v2ex.com/t/775413) ![](assets/new.png)  
-- [2021-05-07-Java-try-catch-代码块中调用层级-catch-的捕捉问题](https://www.v2ex.com/t/775412) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1076,8 +1096,8 @@
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
+- [2021-05-07-推荐-撸代码前，写下设计方案](https://toutiao.io/k/xdsox3x) ![](assets/new.png)  
 - [2021-05-07-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
-- [2021-05-07-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

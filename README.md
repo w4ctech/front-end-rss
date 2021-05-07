@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 11:44:39，:rocket: 更新条数: +4313， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 11:50:54，:rocket: 更新条数: +4315， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-05-07-拔掉-QNAP-的固态系统盘会发生什么？](https://www.v2ex.com/t/775495) ![](assets/new.png)  
+- [2021-05-07-Big-Sur-11.3-WindowServer-和-corebrightnessd-进程崩溃](https://www.v2ex.com/t/775494) ![](assets/new.png)  
 - [2021-05-07-分享给容易失眠的同学](https://www.v2ex.com/t/775491) ![](assets/new.png)  
 - [2021-05-07-Apple-Mini-DisplayPort-转-VGA-转换器，上不了-1080，是什么情况？](https://www.v2ex.com/t/775490) ![](assets/new.png)  
 - [2021-05-07-Quantmult-X-如何添加账号密码形式的节点？](https://www.v2ex.com/t/775488) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-05-07-wslg-简单用用感觉还不错](https://www.v2ex.com/t/775471) ![](assets/new.png)  
 - [2021-05-07-有没有手机-APP-可以对-AirTag-进行读写数据？](https://www.v2ex.com/t/775470) ![](assets/new.png)  
 - [2021-05-07-为什么-Java-的日志系统如此别扭——为什么不提供接受参数为-Exception,String,Object...-的日志方法？](https://www.v2ex.com/t/775469) ![](assets/new.png)  
-- [2021-05-07-思科中国上海-杭州-合肥-965-外企-5-月-最新岗位内推](https://www.v2ex.com/t/775467) ![](assets/new.png)  
-- [2021-05-07-想再买个-ac86u-组-mesh，还是接着等？](https://www.v2ex.com/t/775466) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,8 +1096,8 @@
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
-- [2021-05-07-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
-- [2021-05-07-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-07-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-07-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -20796,6 +20796,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "被 Bitwarden 小坑了一把",
+        "link": "https://www.v2ex.com/t/775534",
+        "date": "2021-05-07"
+      },
+      {
         "title": "有兄弟用过 5900X 写代码么？啥感觉，刚刚上车还没到货，想提前感受下",
         "link": "https://www.v2ex.com/t/775532",
         "date": "2021-05-07"
@@ -20963,16 +20968,6 @@
       {
         "title": "7zip 官方 7-Zip 21.02 alpha (2021-05-06)源代码编译...",
         "link": "https://www.v2ex.com/t/775486",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "设计函数时如何界定何时需要捕获异常并自己处理，何时需要抛出异常给调用方？",
-        "link": "https://www.v2ex.com/t/775484",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "开发同事说话总喜欢带个“吧”字，感觉被冒犯了！",
-        "link": "https://www.v2ex.com/t/775483",
         "date": "2021-05-07"
       }
     ]
@@ -21180,18 +21175,13 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 图解 Kafka",
-        "link": "https://toutiao.io/k/lvyzxo8",
+        "title": "[推荐] 程序员应该掌握的常用网络问题定位工具",
+        "link": "https://toutiao.io/k/upefap5",
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] Kafka：这次分享我只想把原理讲清楚",
-        "link": "https://toutiao.io/k/0etokja",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
-        "link": "https://toutiao.io/k/2aonyjp",
+        "title": "[推荐] 用户画像的基础、原理、方法论（模型）和应用",
+        "link": "https://toutiao.io/k/nrdp4oq",
         "date": "2021-05-07"
       },
       {
@@ -21200,18 +21190,13 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 程序员应该掌握的常用网络问题定位工具",
-        "link": "https://toutiao.io/k/upefap5",
+        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
+        "link": "https://toutiao.io/k/2aonyjp",
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
-        "link": "https://toutiao.io/k/iwkig90",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 撸代码前，写下设计方案",
-        "link": "https://toutiao.io/k/xdsox3x",
+        "title": "[推荐] 图解 Kafka",
+        "link": "https://toutiao.io/k/lvyzxo8",
         "date": "2021-05-07"
       },
       {
@@ -21220,13 +21205,13 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 如何设计一个高性能的秒杀系统",
-        "link": "https://toutiao.io/k/6z3uu2m",
+        "title": "[推荐] 撸代码前，写下设计方案",
+        "link": "https://toutiao.io/k/xdsox3x",
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
-        "link": "https://toutiao.io/k/90vs9kg",
+        "title": "[推荐] 如何设计一个高性能的秒杀系统",
+        "link": "https://toutiao.io/k/6z3uu2m",
         "date": "2021-05-07"
       },
       {
@@ -21235,13 +21220,23 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
-        "link": "https://toutiao.io/k/a5s1rfh",
+        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
+        "link": "https://toutiao.io/k/iwkig90",
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 用户画像的基础、原理、方法论（模型）和应用",
-        "link": "https://toutiao.io/k/nrdp4oq",
+        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
+        "link": "https://toutiao.io/k/90vs9kg",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] Kafka：这次分享我只想把原理讲清楚",
+        "link": "https://toutiao.io/k/0etokja",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
+        "link": "https://toutiao.io/k/a5s1rfh",
         "date": "2021-05-07"
       },
       {

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 13:16:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 13:29:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -24,6 +24,7 @@
 - [2021-04-30-Webpack面试题](https://www.ershicimi.com/p/617a09bd4f8884461a6852cd3e8f25ee) 
 - [2021-04-20-现代前端开发你一定离不开-Webpack-相关技术栈](https://www.ershicimi.com/p/4e9689ceed74edcc9e4f98b74a76b17f) 
 - [2021-04-07-构建一个浏览器引擎](https://www.ershicimi.com/p/ac600b016c39d194cc371e73326bb674) 
+- [2021-05-06-前端进阶高薪必看：Webpack-VS-Vite-原理剖析](https://www.ershicimi.com/p/febe87f6a536c38b673ad6847e765073) 
 - [2021-04-20-pnpm-6.1-发布](https://www.ershicimi.com/p/4224fa6d39c6d08ba200bc9f4282461b) 
 - [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) 
 - [2020-03-11-4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4) 

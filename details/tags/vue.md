@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 13:16:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 13:29:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -59,6 +59,7 @@
 - [2021-04-26-GraphQL-实战篇之前端Vue+后端Nest](https://www.ershicimi.com/p/95362691665f4c39ab3dea26d2f55ab3) 
 - [2021-04-25-大厂2个Vue实践总结，效率提升80%！](https://www.ershicimi.com/p/625f7b5e7aaeb6084620c461c2b556ab) 
 - [2021-04-30-重磅！阿里首推的“SpringBoot+Vue全栈项目”有多牛X？](https://www.ershicimi.com/p/f926d828666b484449f536af8ef1a414) 
+- [2021-05-05-这些vue实战技巧你学会了吗？](https://www.ershicimi.com/p/2ba78f0a48b8c91c79fbd769562e663e) 
 - [2021-04-29-Vue-3核心原理解析，看这篇就够了](https://www.ershicimi.com/p/ea5dbdac3eaae19bb7ef52f765f21eb6) 
 - [2021-04-27-大厂2个Vue实践总结，效率提升80%！](https://www.ershicimi.com/p/ea9d643bcb4ea8db5d776662dbfec40b) 
 - [2021-04-19-前端进阶所需要了解的Vue-3源码及原理](https://www.ershicimi.com/p/0b523ed89aeaa7ad97b9581539617ac0) 

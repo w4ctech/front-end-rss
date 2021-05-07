@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 14:09:11，:rocket: 更新条数: +4318， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 14:32:10，:rocket: 更新条数: +4316， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-05-07-如何一个人从零开发上线一款-App，有答案了！](https://www.v2ex.com/t/775530) ![](assets/new.png)  
+- [2021-05-07-Cvirus：基于-virustotalhttps://www.virustotal.com的病毒扫描软件](https://www.v2ex.com/t/775528) ![](assets/new.png)  
+- [2021-05-07-内推-新加坡蚂蚁金服-Java-后端-P6/P7](https://www.v2ex.com/t/775526) ![](assets/new.png)  
 - [2021-05-07-想在-switch-上玩小时候的光碟游戏-300-种](https://www.v2ex.com/t/775525) ![](assets/new.png)  
 - [2021-05-07-lawandfood.com-想做个食品安全相关的网站，大家有什么建议吗？](https://www.v2ex.com/t/775523) ![](assets/new.png)  
 - [2021-05-07-迫于股市最近两个月实在不给力，恰好发现公司有专利奖励，遂想写几个专利补贴下家用，-诚心找各位-V2-老哥赐教。](https://www.v2ex.com/t/775522) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-05-07-有了解美团的商企通部门的吗，听说是内部孵化项目](https://www.v2ex.com/t/775507) ![](assets/new.png)  
 - [2021-05-07-firefox-用-notion-遇到显示问题](https://www.v2ex.com/t/775505) ![](assets/new.png)  
 - [2021-05-07-北京、上海-快来一起研发长生不老药（AI-Java-等）-|-内推（团队小-蛋糕大）](https://www.v2ex.com/t/775503) ![](assets/new.png)  
-- [2021-05-07-中文类的-newsletter-有哪些可以推荐的吗？](https://www.v2ex.com/t/775502) ![](assets/new.png)  
-- [2021-05-07-帖子内容不太恰当，自觉地删了](https://www.v2ex.com/t/775501) ![](assets/new.png)  
-- [2021-05-07-单独部署在客户服务器上的-Java-应用如何防止客户将其再次部署到其他客户的服务器?](https://www.v2ex.com/t/775500) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1093,11 +1093,11 @@
 - [2021-05-07-C/C++-构建系统，我用-xmake](https://toutiao.io/k/rluv4r3) ![](assets/new.png)  
 - [2021-05-07-使用-Kotlin-提高生产力](https://toutiao.io/k/kg5vie0) ![](assets/new.png)  
 - [2021-05-07-酷炫！Python-函数耗时异常自动化监控](https://toutiao.io/k/g5lxvm0) ![](assets/new.png)  
-- [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
+- [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
-- [2021-05-07-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
-- [2021-05-07-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-07-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-07-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 21:08:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 21:33:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -72,7 +72,6 @@
 - [2021-04-25-前端业务组件库怎么样做到极致？](https://www.ershicimi.com/p/9f8499a4899ebf12cf7ac4d418afd8d3) 
 - [2021-04-24-关于-JavaScript-Object.keys-排序问题的探索与总结](https://www.ershicimi.com/p/4c1933e7440973e4f91ca489b610574c) 
 - [2021-04-23-前端工程化实践，从建一个属于自己的组件库开始](https://www.ershicimi.com/p/8643b48058b4d1c45f4e1231fe7620cd) 
-- [2021-04-25-JS视频解码JSMpeg和Broadway开箱测评](https://www.zhangxinxu.com/wordpress/2021/04/js-video-decode-jsmpeg-broadway/) 
 - [2021-04-29-JavaScript-如何检测文件的类型？](https://www.ershicimi.com/p/78fb167023aea8c6bf431dff4257842b) 
 - [2021-04-20-Table组件虚拟化实践](https://www.ershicimi.com/p/bc947edfdd9c856c968005b0ae9a38ad) 
 - [2021-04-19-JavaScript-中如何实现大文件并行下载？](https://www.ershicimi.com/p/40e9969871768d3639d86098d2ba4cbd) 

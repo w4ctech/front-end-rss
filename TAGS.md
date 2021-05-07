@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-07 16:00:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 16:15:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -314,7 +314,6 @@
 - [【奇舞周刊】CSS-还能这样玩？奇思妙想渐变的艺术](https://www.ershicimi.com/p/a9a0cf8db4ed012f14e1566ed4a99b74)
 - [【奇舞周刊】不会吧，你还不知道这些检查-CSS-的工具？？？](https://www.ershicimi.com/p/f868d4fa1ad5518cd482f7225c4b58de)
 - [【前端e进阶】对-Chrome-Headless-渲染的极致优化](https://www.ershicimi.com/p/750cc36a62dc2f4be88144714fde4887)
-- [【V2EX】Apple-Mini-DisplayPort-转-VGA-转换器，上不了-1080，是什么情况？](https://www.v2ex.com/t/775490)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -396,7 +395,6 @@
 - [【奇舞周刊】2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152)
 - [【互联网架构师】类加载常见错误总结，写得非常好！](https://www.ershicimi.com/p/83edaca56e38cb33149832de0f34c32c)
 - [【InfoQ】对Kafka-和-Pulsar进行性能测试后，拉卡拉将消息平台统一换成了-Pulsar](https://www.ershicimi.com/p/dabd15162f6de46c1783ec9c6129178b)
-- [【开发者头条】推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m)
 - [【安全热点】嘘,Python-优化提速的-8-个小技巧](https://sec.thief.one/article_content?a_id=f11eeb04dd2e7cb0859746076ff6fd91)
 - [......【查看更多】......](./details/tags/optimization.md)
 

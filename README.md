@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 16:00:23，:rocket: 更新条数: +4318， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 16:15:59，:rocket: 更新条数: +4315， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-05-07-是时候贡献一波大家的智慧了](https://www.v2ex.com/t/775541) ![](assets/new.png)  
+- [2021-05-07-毕业工作差不多一年，准备辞职出去旅游，请教一下](https://www.v2ex.com/t/775539) ![](assets/new.png)  
+- [2021-05-07-已-root，想开机启动一个-app-就那么难吗](https://www.v2ex.com/t/775538) ![](assets/new.png)  
 - [2021-05-07-求职-北京-找工作](https://www.v2ex.com/t/775537) ![](assets/new.png)  
 - [2021-05-07-Typora-换了新图标-暂时不是很喜欢-大家喜欢哪种…](https://www.v2ex.com/t/775536) ![](assets/new.png)  
 - [2021-05-07-需要腾讯云阿里云代理的可以联系我](https://www.v2ex.com/t/775535) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-05-07-求推荐安卓带壳截屏软件，网页版也行](https://www.v2ex.com/t/775519) ![](assets/new.png)  
 - [2021-05-07-要被-icloud-相册带走了,-有啥方法没](https://www.v2ex.com/t/775518) ![](assets/new.png)  
 - [2021-05-07-实习-中国编程之夏-Casbin-开源项目-中科院暑期-2021-远程实习生](https://www.v2ex.com/t/775517) ![](assets/new.png)  
-- [2021-05-07-在中国的哪些活动里，有跳这类具有民族特色的群舞？](https://www.v2ex.com/t/775516) ![](assets/new.png)  
-- [2021-05-07-摄影入门求微单推荐](https://www.v2ex.com/t/775513) ![](assets/new.png)  
-- [2021-05-07-怎么查看某个被关闭贴吧的帖子？](https://www.v2ex.com/t/775512) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,8 +1096,8 @@
 - [2021-05-07-酷炫！Python-函数耗时异常自动化监控](https://toutiao.io/k/g5lxvm0) ![](assets/new.png)  
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
-- [2021-05-07-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
-- [2021-05-07-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-07-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-07-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

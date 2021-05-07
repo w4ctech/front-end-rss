@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 13:53:28，:rocket: 更新条数: +4319， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 14:04:57，:rocket: 更新条数: +4318， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,8 @@
 </summary>
 
 
+- [2021-05-07-想在-switch-上玩小时候的光碟游戏-300-种](https://www.v2ex.com/t/775525) ![](assets/new.png)  
+- [2021-05-07-lawandfood.com-想做个食品安全相关的网站，大家有什么建议吗？](https://www.v2ex.com/t/775523) ![](assets/new.png)  
 - [2021-05-07-迫于股市最近两个月实在不给力，恰好发现公司有专利奖励，遂想写几个专利补贴下家用，-诚心找各位-V2-老哥赐教。](https://www.v2ex.com/t/775522) ![](assets/new.png)  
 - [2021-05-07-你们-airtag-用的什么套？最近买了个-30-左右的皮套，质量太差了，放里面余量太大，晃来晃去。](https://www.v2ex.com/t/775521) ![](assets/new.png)  
 - [2021-05-07-北京18-30k奇客创想招聘-PHP-开发工程师](https://www.v2ex.com/t/775520) ![](assets/new.png)  
@@ -1034,8 +1036,6 @@
 - [2021-05-07-中文类的-newsletter-有哪些可以推荐的吗？](https://www.v2ex.com/t/775502) ![](assets/new.png)  
 - [2021-05-07-帖子内容不太恰当，自觉地删了](https://www.v2ex.com/t/775501) ![](assets/new.png)  
 - [2021-05-07-单独部署在客户服务器上的-Java-应用如何防止客户将其再次部署到其他客户的服务器?](https://www.v2ex.com/t/775500) ![](assets/new.png)  
-- [2021-05-07-有没有什么-Chrome-插件能够自动保存浏览的网页](https://www.v2ex.com/t/775499) ![](assets/new.png)  
-- [2021-05-07-IBM-成功研发高端、节能芯片，-未来手机可能只需“四天一充”](https://www.v2ex.com/t/775498) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,7 +1096,7 @@
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
-- [2021-05-07-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-07-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
 - [2021-05-07-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-07 03:15:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 03:33:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -222,6 +222,7 @@
 - [【政采云前端团队】Flutter-UI调试小工具——颜色吸管](https://www.ershicimi.com/p/e7bdeb8ec12cc7df3cb0aa11a92d7123)
 - [【政采云前端团队】【Flutter-技能篇】你不得不会的状态管理-Provider](https://www.ershicimi.com/p/ce1e5ffc69f2c386ef1395d5f6babc71)
 - [【奇舞周刊】奇舞周刊第-394-期：基于-Flutter-的-Web-渲染引擎“北海”正式开源](https://www.ershicimi.com/p/a313a269746c1d66570bb5ad85b31be2)
+- [【V2EX】flutter-桌面端靠谱吗？](https://www.v2ex.com/t/775376)
 - [【技术头条】为什么说Flutter可能不是下一件大事？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14336&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489751%26amp%3Bidx%3D2%26amp%3Bsn%3D65cfc731c7af19e9d8554564369761d9%26amp%3Bchksm%3Dfa3cf98ccd4b709aef9385e88bb1e8d4482010a6d68b4c2229aae56ee414f14d61c5aa906357%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】如何快速提升FlutterApp中的动画性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14329&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489732%26amp%3Bidx%3D2%26amp%3Bsn%3Dfc5eccb9be3c542a7bdda300db3a4cd9%26amp%3Bchksm%3Dfa3cf99fcd4b70893220e486c5c5887bf285d729f77ba1da53079824cdf8eb496df9e48442a3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
@@ -242,6 +243,7 @@
 
 - [【前端开发】three.js-实现露珠滴落动画](https://www.ershicimi.com/p/7f3992a102e9ef92026b064c866bcb78)
 - [【奇舞周刊】所有前端都要看的2D游戏化互动入门基础知识](https://www.ershicimi.com/p/515d40cbc8459586308b64360eed08dc)
+- [【V2EX】意外发现-Xbox-Series-S-外接硬盘也能直接运行游戏](https://www.v2ex.com/t/775382)
 - [【V2EX】用游戏云是不是就不用买那么贵的显卡了？](https://www.v2ex.com/t/775355)
 - [【V2EX】游戏本上用-cuda-是什么体验？](https://www.v2ex.com/t/775344)
 - [......【查看更多】......](./details/tags/dev-game.md)

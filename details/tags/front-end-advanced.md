@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 08:58:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 09:08:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -16,5 +16,4 @@
 - [2021-05-01-有了HTTP，为什么还要RPC？](https://www.ershicimi.com/p/efa1b03150979c43edf61bb25edaedbb) 
 - [2021-05-01-分布式一致性算法：解决分布式系统80%核心问题｜极客时间](https://www.ershicimi.com/p/ca136b774c0ae4b54bbd3d73e8f62759) 
 - [2021-04-17-Deno-1.9-发布：原生-HTTP/2-Web-服务器](https://www.ershicimi.com/p/6418de35a064aa5d11756bf8c5b2bb29) 
-- [2021-05-07-Windows-有类似于-Vimac-的全局键盘操作的软件么？](https://www.v2ex.com/t/775413) 
 - [2021-05-04-《人工智能算法金融应用评价规范》全文](https://sec.thief.one/article_content?a_id=807c71910687d2b4f596f22f0966273e) 

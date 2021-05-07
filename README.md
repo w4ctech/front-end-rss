@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 08:58:09，:rocket: 更新条数: +737， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 09:08:12，:rocket: 更新条数: +737， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,7 @@
 </summary>
 
 
+- [2021-05-07-工作一年的大数据-DBASQL-boy转开发，项目经验要咋写呢？](https://www.v2ex.com/t/775463) ![](assets/new.png)  
 - [2021-05-07-最近家里养猫咪的困扰](https://www.v2ex.com/t/775462) ![](assets/new.png)  
 - [2021-05-07-固态硬盘无法读取](https://www.v2ex.com/t/775461) ![](assets/new.png)  
 - [2021-05-07-出一个-AOC-卢瓦尔，-2-月-25-日京东买的，包装配件全，明盘-1700，上海自提。](https://www.v2ex.com/t/775460) ![](assets/new.png)  
@@ -1015,7 +1016,6 @@
 - [2021-05-07-有没有人因为域名本身的字母美观性而留着域名不舍得丢的？](https://www.v2ex.com/t/775437) ![](assets/new.png)  
 - [2021-05-07-大家现在是通过什么软件来实现手机和电脑之间的文件互传的？](https://www.v2ex.com/t/775434) ![](assets/new.png)  
 - [2021-05-07-iOS-14.5.1-使-iPhone-12-多核性能大减](https://www.v2ex.com/t/775433) ![](assets/new.png)  
-- [2021-05-07-微信-for-Android-双开是微信本身支持，还是-Android-特有支持？](https://www.v2ex.com/t/775432) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1076,8 +1076,8 @@
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
-- [2021-05-07-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
-- [2021-05-07-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
+- [2021-05-07-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-07-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

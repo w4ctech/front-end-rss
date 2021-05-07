@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 11:08:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 11:31:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -13,10 +13,12 @@
 - [2021-05-05-万字总结-一文吃透-Webpack-核心原理](https://www.ershicimi.com/p/52299a11b5621f176d73cc5463d95977) 
 - [2021-05-01-项目实战-Webpack-to-Vite，-为开发提速！](https://www.ershicimi.com/p/b2c44d458abd6573adc801968db7edf3) 
 - [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) 
+- [2021-05-07-20K以上面试必问：webpack原理深度剖析](https://www.ershicimi.com/p/345c949a83ef8945a8074eb096d35c23) 
 - [2021-05-02-你要知道的-Npm-Script-都在这里](https://www.ershicimi.com/p/9c18d7316e7dce50fb8286f2a1d6eb87) 
 - [2021-05-01-回顾-babel-6和7，来预测下-babel-8](https://www.ershicimi.com/p/0fd0a49dbcbe2fedf04722648393bf48) 
 - [2021-04-30-面向未来的前端构建工具---Vite-原理分析](https://www.ershicimi.com/p/07cc4238b97ed29773ab98a2259b0206) 
 - [2021-04-25-现代前端工程化-彻底搞懂基于-Monorepo-的-lerna-模块从原理到实战](https://www.ershicimi.com/p/aa316ff1fab153e9e2dc1245cd537823) 
+- [2021-05-05-前端进阶高薪必看：Webpack-VS-Vite-原理剖析](https://www.ershicimi.com/p/cc1aac90e0c73e4c20e405118b7a8058) 
 - [2021-04-30-一文吃透-Webpack-核心原理（万字总结，建议收藏-）](https://www.ershicimi.com/p/413f78adbc3f2761eb7c9a6e68127559) 
 - [2021-04-29-开发中遇到过的-npm-疑惑解答](https://www.ershicimi.com/p/aaa5b5ca42271df87cddfeb7a65dc5ca) 
 - [2021-04-30-Webpack面试题](https://www.ershicimi.com/p/617a09bd4f8884461a6852cd3e8f25ee) 

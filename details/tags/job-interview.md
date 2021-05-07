@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 11:08:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 11:31:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -16,6 +16,7 @@
 - [2021-04-19-普通前端人的金三银四：7天，6厂面试，5个offer](https://www.ershicimi.com/p/91b1fce1b53eaca5599cacf0168a070a) 
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
+- [2021-05-06-面试季，这些函数知识总结请收下](https://www.ershicimi.com/p/69ec87957696551d7338f59819d84fa3) 
 - [2021-04-26-独家下载-|《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/aba09ac8247502af152dbca999cc2451) 
 - [2021-04-13-这是我面试42场拿下微软、蚂蚁、头条offer的方法论](https://www.ershicimi.com/p/0efa9475ef99661f46f35f1248a6e1bb) 
 - [2021-04-27-超高频前端【基础】面试问题及答案整理](https://www.ershicimi.com/p/95742710bf2f6bd4d9a7a158ccd665c2) 

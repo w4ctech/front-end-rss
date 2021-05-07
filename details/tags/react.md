@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 11:08:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 11:31:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -26,6 +26,7 @@
 - [2021-04-21-React-+-TypeScript-实践](https://www.ershicimi.com/p/86e969b91f59ffdbd43b6d413838899a) 
 - [2021-01-12-结合-React-源码，五分钟带你掌握优先队列](https://www.ershicimi.com/p/de9ab369d325d5590d0f583733ab9210) 
 - [2020-12-29-前端工程师的自我修养：React-Fiber-是如何实现更新过程可控的](https://www.ershicimi.com/p/72dc6b442470071a8e05aa0ceba63acb) 
+- [2021-05-05-6-个提高-React-代码质量的方法---让你的-React-代码更简洁](https://www.ershicimi.com/p/2e1b7c10da10bfe0eadb20d792b8a8d1) 
 - [2021-04-27-ahooks源码分析之usePrevious](https://www.ershicimi.com/p/5ae74210b48488466964800505837581) 
 - [2021-05-03-一文总结-React-Hooks-常用场景](https://www.ershicimi.com/p/04d517ed6744bdaa5b0618a37b05102c) 
 - [2021-04-24-赠书第-4-期｜React-+-Node.js-开发实战（本次规则有变）](https://www.ershicimi.com/p/53eebb025e9800293ccd6a2791cc8805) 

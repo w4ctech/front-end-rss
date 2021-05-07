@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 07:35:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 07:42:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -36,4 +36,3 @@
 - [2021-05-07-ipv6-地址多久更新一次](https://www.v2ex.com/t/775397) 
 - [2021-05-07-试用期内怎么离职好](https://www.v2ex.com/t/775395) 
 - [2021-05-07-现在还有没不烫手的手机？](https://www.v2ex.com/t/775394) 
-- [2021-05-07-Electron-的一些想法](https://www.v2ex.com/t/775393) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 13:29:39，:rocket: 更新条数: +4318， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 13:42:20，:rocket: 更新条数: +4318， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,8 +1016,11 @@
 </summary>
 
 
+- [2021-05-07-北京18-30k奇客创想招聘-PHP-开发工程师](https://www.v2ex.com/t/775520) ![](assets/new.png)  
+- [2021-05-07-求推荐安卓带壳截屏软件，网页版也行](https://www.v2ex.com/t/775519) ![](assets/new.png)  
+- [2021-05-07-要被-icloud-相册带走了,-有啥方法没](https://www.v2ex.com/t/775518) ![](assets/new.png)  
+- [2021-05-07-实习-中国编程之夏-Casbin-开源项目-中科院暑期-2021-远程实习生](https://www.v2ex.com/t/775517) ![](assets/new.png)  
 - [2021-05-07-在中国的哪些活动里，有跳这类具有民族特色的群舞？](https://www.v2ex.com/t/775516) ![](assets/new.png)  
-- [2021-05-07-求助:-有偿开发类似于这样的网站](https://www.v2ex.com/t/775514) ![](assets/new.png)  
 - [2021-05-07-摄影入门求微单推荐](https://www.v2ex.com/t/775513) ![](assets/new.png)  
 - [2021-05-07-怎么查看某个被关闭贴吧的帖子？](https://www.v2ex.com/t/775512) ![](assets/new.png)  
 - [2021-05-07-IPV6-这网址是固定的公网地址么？](https://www.v2ex.com/t/775511) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-05-07-IBM-成功研发高端、节能芯片，-未来手机可能只需“四天一充”](https://www.v2ex.com/t/775498) ![](assets/new.png)  
 - [2021-05-07-2021-年了，苹果为什么还没解决输入法弹卡顿的问题？](https://www.v2ex.com/t/775497) ![](assets/new.png)  
 - [2021-05-07-每天-1500-元，两天-3000-块，利用周末两天时间去-“兼职”-你愿意吗？](https://www.v2ex.com/t/775496) ![](assets/new.png)  
-- [2021-05-07-拔掉-QNAP-的固态系统盘会发生什么？](https://www.v2ex.com/t/775495) ![](assets/new.png)  
-- [2021-05-07-Big-Sur-11.3-WindowServer-和-corebrightnessd-进程崩溃](https://www.v2ex.com/t/775494) ![](assets/new.png)  
-- [2021-05-07-分享给容易失眠的同学](https://www.v2ex.com/t/775491) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,8 +1096,8 @@
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
-- [2021-05-07-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-07-推荐-撸代码前，写下设计方案](https://toutiao.io/k/xdsox3x) ![](assets/new.png)  
+- [2021-05-07-推荐-把-Redis-当作队列来用，真的合适吗？](https://toutiao.io/k/2aonyjp) ![](assets/new.png)  
+- [2021-05-07-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

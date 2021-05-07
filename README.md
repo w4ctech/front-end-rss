@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 22:48:32，:rocket: 更新条数: +4316， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 22:58:44，:rocket: 更新条数: +4316， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,7 @@
 </summary>
 
 
+- [2021-05-07-目前的-windows-系统中，-hypreV-和虚拟机共存有成熟解决方案了吗？测试版本-20H2](https://www.v2ex.com/t/775548) ![](assets/new.png)  
 - [2021-05-07-一年经验不到，如果公司没有好的项目怎么办？](https://www.v2ex.com/t/775546) ![](assets/new.png)  
 - [2021-05-07-IntelliJ-IDEA-不能通过装插件来写-C、C++和-C#吗？](https://www.v2ex.com/t/775545) ![](assets/new.png)  
 - [2021-05-07-昨天的这个时候，我跟我喜欢的男生表白；-6-个小时后，我们只能是朋友](https://www.v2ex.com/t/775544) ![](assets/new.png)  
@@ -1035,7 +1036,6 @@
 - [2021-05-07-内推-新加坡蚂蚁金服-Java-后端-P6/P7](https://www.v2ex.com/t/775526) ![](assets/new.png)  
 - [2021-05-07-想在-switch-上玩小时候的光碟游戏-300-种](https://www.v2ex.com/t/775525) ![](assets/new.png)  
 - [2021-05-07-lawandfood.com-想做个食品安全相关的网站，大家有什么建议吗？](https://www.v2ex.com/t/775523) ![](assets/new.png)  
-- [2021-05-07-迫于股市最近两个月实在不给力，恰好发现公司有专利奖励，遂想写几个专利补贴下家用，-诚心找各位-V2-老哥赐教。](https://www.v2ex.com/t/775522) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,8 +1096,8 @@
 - [2021-05-07-酷炫！Python-函数耗时异常自动化监控](https://toutiao.io/k/g5lxvm0) ![](assets/new.png)  
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
-- [2021-05-07-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
-- [2021-05-07-推荐-撸代码前，写下设计方案](https://toutiao.io/k/xdsox3x) ![](assets/new.png)  
+- [2021-05-07-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
+- [2021-05-07-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

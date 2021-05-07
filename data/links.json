@@ -20796,6 +20796,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "目前的 windows 系统中， hypreV 和虚拟机共存有成熟解决方案了吗？测试版本 20H2",
+        "link": "https://www.v2ex.com/t/775548",
+        "date": "2021-05-07"
+      },
+      {
         "title": "一年经验不到，如果公司没有好的项目怎么办？",
         "link": "https://www.v2ex.com/t/775546",
         "date": "2021-05-07"
@@ -20983,11 +20988,6 @@
       {
         "title": "有没有什么 Chrome 插件能够自动保存浏览的网页",
         "link": "https://www.v2ex.com/t/775499",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "IBM 成功研发高端、节能芯片， 未来手机可能只需“四天一充”",
-        "link": "https://www.v2ex.com/t/775498",
         "date": "2021-05-07"
       }
     ]
@@ -21195,13 +21195,8 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
-        "link": "https://toutiao.io/k/iwkig90",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 撸代码前，写下设计方案",
-        "link": "https://toutiao.io/k/xdsox3x",
+        "title": "[推荐] 万级并发：电商库存扣减如何设计？不超卖",
+        "link": "https://toutiao.io/k/1nwsx5k",
         "date": "2021-05-07"
       },
       {
@@ -21210,18 +21205,13 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 万级并发：电商库存扣减如何设计？不超卖",
-        "link": "https://toutiao.io/k/1nwsx5k",
-        "date": "2021-05-07"
-      },
-      {
         "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
         "link": "https://toutiao.io/k/08uadl6",
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
-        "link": "https://toutiao.io/k/0iue4f4",
+        "title": "[推荐] 系统设计之路：如何设计一个 URL 短链服务",
+        "link": "https://toutiao.io/k/6mzds1m",
         "date": "2021-05-07"
       },
       {
@@ -21230,8 +21220,18 @@
         "date": "2021-05-07"
       },
       {
+        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
+        "link": "https://toutiao.io/k/0iue4f4",
+        "date": "2021-05-07"
+      },
+      {
         "title": "[推荐] Kafka：这次分享我只想把原理讲清楚",
         "link": "https://toutiao.io/k/0etokja",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 撸代码前，写下设计方案",
+        "link": "https://toutiao.io/k/xdsox3x",
         "date": "2021-05-07"
       },
       {
@@ -21240,8 +21240,8 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 系统设计之路：如何设计一个 URL 短链服务",
-        "link": "https://toutiao.io/k/6mzds1m",
+        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
+        "link": "https://toutiao.io/k/iwkig90",
         "date": "2021-05-07"
       }
     ]

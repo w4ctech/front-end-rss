@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 07:13:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 07:35:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -13,4 +13,3 @@
 - [2021-04-27-手把手指导制作一个-WebAR-与小程序-AR](https://www.ershicimi.com/p/bcb216cec23ba86bb6977093d777449d) 
 - [2021-04-27-两天快速开发一个自己的微信小程序](https://www.ershicimi.com/p/be48cb2456686246a71188813bbc4d46) 
 - [2021-05-07-中国象棋小游戏可以用小程序写吗？](https://www.v2ex.com/t/775427) 
-- [2021-05-07-写了个很无聊的小程序，-xdm-扫码支持下。](https://www.v2ex.com/t/775389) 

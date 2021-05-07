@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 07:13:25，:rocket: 更新条数: +737， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 07:35:07，:rocket: 更新条数: +739， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,11 @@
 </summary>
 
 
+- [2021-05-07-XCode-里下载不到-ios-12-以下的镜像了，排查问题好不方便，到底咋想的？](https://www.v2ex.com/t/775442) ![](assets/new.png)  
+- [2021-05-07-关于-kotlin-安卓开发，网络框架有用-Retrofit+协程的方式实现的吗，真的好用吗](https://www.v2ex.com/t/775441) ![](assets/new.png)  
+- [2021-05-07-历经两个月,我的神经性耳鸣蝉鸣,终于好了,生活还是充满阳光的.](https://www.v2ex.com/t/775440) ![](assets/new.png)  
+- [2021-05-07-最新版-chrome-的问题,求助](https://www.v2ex.com/t/775439) ![](assets/new.png)  
+- [2021-05-07-有什么办法能确定地图上的某个点属于哪个行政区域？](https://www.v2ex.com/t/775438) ![](assets/new.png)  
 - [2021-05-07-有没有人因为域名本身的字母美观性而留着域名不舍得丢的？](https://www.v2ex.com/t/775437) ![](assets/new.png)  
 - [2021-05-07-大家现在是通过什么软件来实现手机和电脑之间的文件互传的？](https://www.v2ex.com/t/775434) ![](assets/new.png)  
 - [2021-05-07-iOS-14.5.1-使-iPhone-12-多核性能大减](https://www.v2ex.com/t/775433) ![](assets/new.png)  
@@ -1011,11 +1016,6 @@
 - [2021-05-07-注册表里以十六进制/十进制形式展示的软件版本咋转换成实际的版本号？](https://www.v2ex.com/t/775415) ![](assets/new.png)  
 - [2021-05-07-Windows-有类似于-Vimac-的全局键盘操作的软件么？](https://www.v2ex.com/t/775413) ![](assets/new.png)  
 - [2021-05-07-Java-try-catch-代码块中调用层级-catch-的捕捉问题](https://www.v2ex.com/t/775412) ![](assets/new.png)  
-- [2021-05-07-迫于帖子荒，发个创意十足的“折纸”程序，并看看折纸界的“hello-world”](https://www.v2ex.com/t/775411) ![](assets/new.png)  
-- [2021-05-07-当用户在多个标签页同时打开同一页面时，该如何统计用户浏览时长？](https://www.v2ex.com/t/775409) ![](assets/new.png)  
-- [2021-05-07-杭州-内推-比特币大赢家，诚招-QE-测试工程师](https://www.v2ex.com/t/775408) ![](assets/new.png)  
-- [2021-05-07-求教-我这种情况该如何找工作-Java](https://www.v2ex.com/t/775404) ![](assets/new.png)  
-- [2021-05-07-同事和我借房产证…](https://www.v2ex.com/t/775403) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1076,8 +1076,8 @@
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
-- [2021-05-07-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
-- [2021-05-07-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-07-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-07-推荐-撸代码前，写下设计方案](https://toutiao.io/k/xdsox3x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

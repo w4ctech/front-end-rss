@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-07 09:55:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 10:05:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -202,7 +202,6 @@
 - [【前端瓶子君】小程序静默登录方案设计](https://www.ershicimi.com/p/4c529ddd1349dc418e329d046857a40b)
 - [【前端瓶子君】手把手指导制作一个-WebAR-与小程序-AR](https://www.ershicimi.com/p/bcb216cec23ba86bb6977093d777449d)
 - [【程序员成长指北】两天快速开发一个自己的微信小程序](https://www.ershicimi.com/p/be48cb2456686246a71188813bbc4d46)
-- [【V2EX】中国象棋小游戏可以用小程序写吗？](https://www.v2ex.com/t/775427)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -426,9 +425,9 @@
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【V2EX】最新版-chrome-的问题,求助](https://www.v2ex.com/t/775439)
 - [【V2EX】PostgreSQL-和-MySQL-中-schema-的区别](https://www.v2ex.com/t/775431)
-- [【V2EX】三七互娱内推-社招-高级安全工程师-15-薪-广州](https://www.v2ex.com/t/775429)
 - [【技术头条】Android-12-新版本泄露，隐私安全可媲美-iOS-系统？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14341&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzwZ9MHgGO2UMHLSJRQhyqw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】全球第二大浏览器升级！内存CPU占用暴降-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14339&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247489757%26amp%3Bidx%3D2%26amp%3Bsn%3Dcddf6d06b00cf8aabfb2a0bfbe7735cf%26amp%3Bchksm%3Dfa3cf986cd4b7090ff78e3611e21e8c136c76aebd56b9c87358b0c689422d32d20a9b2334220%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】程序员必备基础：10-种常见安全漏洞浅析](https://toutiao.io/k/7v2gnx6)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -472,6 +471,7 @@
 
 
 
+- [【V2EX】求推荐，有啥简单好用的容器服务吗，-docker-compose-一配，文件上传就运行，不用买集群啥的](https://www.v2ex.com/t/775477)
 - [【开发者头条】GraphQL-及元数据驱动架构在后端-BFF-中的实践](https://toutiao.io/k/go0rojp)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -529,7 +529,6 @@
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【互联网架构师】虎牙面试官：String长度有限制吗？是多少？我：这太...](https://www.ershicimi.com/p/9296c77fed825a73929d16b70c299578)
 - [【JavaScript】重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/2dd643e87f8415ea43cd71fae653209b)
-- [【V2EX】广东联通产业互联网有哥们儿了解吗-最近刚收到通知说面试通过了-准备后面谈薪资，想了解一下这个公司怎么面-面试的软研部](https://www.v2ex.com/t/775428)
 - [【开发者头条】推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

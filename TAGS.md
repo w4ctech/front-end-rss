@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-07 23:44:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 23:56:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -136,6 +136,8 @@
 - [【前端大全】万字总结-一文吃透-Webpack-核心原理](https://www.ershicimi.com/p/52299a11b5621f176d73cc5463d95977)
 - [【前端大全】项目实战-Webpack-to-Vite，-为开发提速！](https://www.ershicimi.com/p/b2c44d458abd6573adc801968db7edf3)
 - [【前端开发博客】webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320)
+- [【前端大学】再见，webpack-！](https://www.ershicimi.com/p/7402397d6d1fae2f8f7fd85c1f069440)
+- [【前端大学】万字总结-一文吃透-Webpack-核心原理](https://www.ershicimi.com/p/50b116fc0c40cddb2e033876b8468dfe)
 - [【前端迷】20K以上面试必问：webpack原理深度剖析](https://www.ershicimi.com/p/345c949a83ef8945a8074eb096d35c23)
 - [【全栈前端精选】你要知道的-Npm-Script-都在这里](https://www.ershicimi.com/p/9c18d7316e7dce50fb8286f2a1d6eb87)
 - [【全栈前端精选】回顾-babel-6和7，来预测下-babel-8](https://www.ershicimi.com/p/0fd0a49dbcbe2fedf04722648393bf48)
@@ -148,8 +150,6 @@
 - [【Nodejs技术栈】现代前端开发你一定离不开-Webpack-相关技术栈](https://www.ershicimi.com/p/4e9689ceed74edcc9e4f98b74a76b17f)
 - [【奇舞周刊】构建一个浏览器引擎](https://www.ershicimi.com/p/ac600b016c39d194cc371e73326bb674)
 - [【JavaScript】前端进阶高薪必看：Webpack-VS-Vite-原理剖析](https://www.ershicimi.com/p/febe87f6a536c38b673ad6847e765073)
-- [【JavaScript】pnpm-6.1-发布](https://www.ershicimi.com/p/4224fa6d39c6d08ba200bc9f4282461b)
-- [【编程之上】万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

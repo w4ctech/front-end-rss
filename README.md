@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 22:10:57，:rocket: 更新条数: +4316， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 22:39:27，:rocket: 更新条数: +4316， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -828,6 +828,15 @@
 </summary>
 
 
+- [2021-05-07-重磅！骂了-10-年，微信这功能终于要来了！](https://www.ershicimi.com/p/4d578e9380c1358d864e5d50788d56fc) ![](assets/new.png)  
+- [2021-05-07-卧槽！真可恶，竟然有人贩卖儿童软色情表情包，网友：...](https://www.ershicimi.com/p/45955c47425fd9fecc79e3a86a5f73e3) ![](assets/new.png)  
+- [2021-05-07-再见了，公司的“烂系统”](https://www.ershicimi.com/p/2a5718043abf15d04a28aa7c0dea9557) ![](assets/new.png)  
+- [2021-05-06-2021-年-4-月程序员工资统计，这太可怕了……](https://www.ershicimi.com/p/2aaae4dee8293d3211cfdc8c5f1e5f42) ![](assets/new.png)  
+- [2021-05-06-广州某IT公司HR招开发：“不加班的都是垃圾-”、“考不上本科是智商有问题”，网友：听了想打人](https://www.ershicimi.com/p/eededad7e467a8cc4b90dc26531a248b) ![](assets/new.png)  
+- [2021-05-06-虎牙二面：说说你对-Java-“零拷贝”的理解？](https://www.ershicimi.com/p/21cb391569ea453797fb8b8a1533943f) ![](assets/new.png)  
+- [2021-05-05-腾讯宣布员工最高可申请免息借款90万！网友：应届当码农就能一线城市买房了！](https://www.ershicimi.com/p/b6b77eb3f7288551c0fd5c0771c6d68e) ![](assets/new.png)  
+- [2021-05-05-66岁比尔盖茨突然宣布离婚！27年前与下属恋爱修成正果，现在“无法共同成长”，分割8000亿财产](https://www.ershicimi.com/p/ad8e179d5749507d0476f686ca188c93) ![](assets/new.png)  
+- [2021-05-05-Spring-Boot-集成-Apollo-配置中心，真香、真强大！](https://www.ershicimi.com/p/01ad3cbdd20fa4fa1887eef4df4b202f) ![](assets/new.png)  
 - [2021-05-04-历史上第一个网页长这样](https://www.ershicimi.com/p/3d722e6759bd7667e27d57e81d8ff03f) ![](assets/new.png)  
 - [2021-05-04-注意！阿里员工被电信诈骗200多万，“杀猪盘”就在身边（求扩散）](https://www.ershicimi.com/p/6a794a03f293a9a4bb4255754c97472c) ![](assets/new.png)  
 - [2021-05-04-类加载常见错误总结，写得非常好！](https://www.ershicimi.com/p/83edaca56e38cb33149832de0f34c32c) ![](assets/new.png)  
@@ -839,15 +848,6 @@
 - [2021-05-01-这款IDEA插件刷爆了朋友圈，网友：这用起来有点酸爽～](https://www.ershicimi.com/p/66a6940471cc31664c800e9c1dae89e1) ![](assets/new.png)  
 - [2021-05-01-成都最最最牛逼的IT公司全在这了，来成都一起造富。。。](https://www.ershicimi.com/p/7de9e10535902856411d09f4c0683c4a) ![](assets/new.png)  
 - [2021-05-01-有了HTTP，为什么还要RPC？](https://www.ershicimi.com/p/efa1b03150979c43edf61bb25edaedbb) ![](assets/new.png)  
-- [2021-05-01-快手二面：@Component，@Service等注解是如何被解析的？](https://www.ershicimi.com/p/7a5f34b440bf4c9024df43c161b8fb60) ![](assets/new.png)  
-- [2021-04-30-为什么你996猝死，老板007没事？](https://www.ershicimi.com/p/8be57d9ae0ff4ea99ecd121d9a55d7a6) ![](assets/new.png)  
-- [2021-04-30-重磅！阿里首推的“SpringBoot+Vue全栈项目”有多牛X？](https://www.ershicimi.com/p/f926d828666b484449f536af8ef1a414) ![](assets/new.png)  
-- [2021-04-29-我在国企当程序员！](https://www.ershicimi.com/p/0c9b8b17b94a6df8311aa40139ca5abd) ![](assets/new.png)  
-- [2021-04-29-为什么不推荐使用BeanUtils属性转换工具，老程序员都不使用！](https://www.ershicimi.com/p/5fb7c6a1ec36e53f757fad0560b8701a) ![](assets/new.png)  
-- [2021-04-29-重磅推荐几个接私活的利器！](https://www.ershicimi.com/p/ee10e66ad07f4bdabd1b0d3b9a95bd65) ![](assets/new.png)  
-- [2021-04-28-虎牙面试官：String长度有限制吗？是多少？我：这太...](https://www.ershicimi.com/p/9296c77fed825a73929d16b70c299578) ![](assets/new.png)  
-- [2021-04-28-卧槽！“饿了么”把“饿了吗”告了，网友：判决结果没想到~](https://www.ershicimi.com/p/acad5f337bf83f5c490f5fb80d46a4e1) ![](assets/new.png)  
-- [2021-04-28-图解-SpringCloud-体系！](https://www.ershicimi.com/p/49e153993ca25b882d4c2df2436be064) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,8 +1096,8 @@
 - [2021-05-07-酷炫！Python-函数耗时异常自动化监控](https://toutiao.io/k/g5lxvm0) ![](assets/new.png)  
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
-- [2021-05-07-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-07-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
+- [2021-05-07-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
+- [2021-05-07-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 11:50:54，:rocket: 更新条数: +4315， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 12:05:52，:rocket: 更新条数: +4318， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1016,6 +1016,11 @@
 </summary>
 
 
+- [2021-05-07-单独部署在客户服务器上的-Java-应用如何防止客户将其再次部署到其他客户的服务器?](https://www.v2ex.com/t/775500) ![](assets/new.png)  
+- [2021-05-07-有没有什么-Chrome-插件能够自动保存浏览的网页](https://www.v2ex.com/t/775499) ![](assets/new.png)  
+- [2021-05-07-IBM-成功研发高端、节能芯片，-未来手机可能只需“四天一充”](https://www.v2ex.com/t/775498) ![](assets/new.png)  
+- [2021-05-07-2021-年了，苹果为什么还没解决输入法弹卡顿的问题？](https://www.v2ex.com/t/775497) ![](assets/new.png)  
+- [2021-05-07-每天-1500-元，两天-3000-块，利用周末两天时间去-“兼职”-你愿意吗？](https://www.v2ex.com/t/775496) ![](assets/new.png)  
 - [2021-05-07-拔掉-QNAP-的固态系统盘会发生什么？](https://www.v2ex.com/t/775495) ![](assets/new.png)  
 - [2021-05-07-Big-Sur-11.3-WindowServer-和-corebrightnessd-进程崩溃](https://www.v2ex.com/t/775494) ![](assets/new.png)  
 - [2021-05-07-分享给容易失眠的同学](https://www.v2ex.com/t/775491) ![](assets/new.png)  
@@ -1031,11 +1036,6 @@
 - [2021-05-07-求推荐，有啥简单好用的容器服务吗，-docker-compose-一配，文件上传就运行，不用买集群啥的](https://www.v2ex.com/t/775477) ![](assets/new.png)  
 - [2021-05-07-戴-Apple-Watch-手腕出现一圈白色的皮肤怎么办？](https://www.v2ex.com/t/775476) ![](assets/new.png)  
 - [2021-05-07-大型央企持续内推，岗位类型多多，-HC-多多，福利多多（7-险-2-金，-5-食堂，公租房，班车，-n-种补贴）](https://www.v2ex.com/t/775475) ![](assets/new.png)  
-- [2021-05-07-不懂就问：有点迷惑的交通规则](https://www.v2ex.com/t/775474) ![](assets/new.png)  
-- [2021-05-07-GB28181-设备怎么拉-http-flv-流啊](https://www.v2ex.com/t/775473) ![](assets/new.png)  
-- [2021-05-07-wslg-简单用用感觉还不错](https://www.v2ex.com/t/775471) ![](assets/new.png)  
-- [2021-05-07-有没有手机-APP-可以对-AirTag-进行读写数据？](https://www.v2ex.com/t/775470) ![](assets/new.png)  
-- [2021-05-07-为什么-Java-的日志系统如此别扭——为什么不提供接受参数为-Exception,String,Object...-的日志方法？](https://www.v2ex.com/t/775469) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1097,7 +1097,7 @@
 - [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
 - [2021-05-07-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
-- [2021-05-07-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-07-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

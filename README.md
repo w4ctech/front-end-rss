@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 10:44:08，:rocket: 更新条数: +4314， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 10:54:53，:rocket: 更新条数: +4314， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1096,8 +1096,8 @@
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
-- [2021-05-07-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
-- [2021-05-07-推荐-系统设计之路：如何设计一个-URL-短链服务](https://toutiao.io/k/6mzds1m) ![](assets/new.png)  
+- [2021-05-07-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-07-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

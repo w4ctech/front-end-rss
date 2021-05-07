@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 05:44:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 05:52:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -35,8 +35,8 @@
 - [2021-04-25-你不知道的-DOM-变动观察器：Mutation-observer](https://www.ershicimi.com/p/415471066b43b3236d93012a8da2fb58) 
 - [2021-04-17-用-65-行代码实现-JavaScript-动画序列播放](https://www.ershicimi.com/p/a03d4d43d643fd0193b8e00c6987d37d) 
 - [2021-04-15-34-个-JavaScript-优化技巧](https://www.ershicimi.com/p/c94d8bd672fed3006d7f47e350936b08) 
+- [2021-05-07-JavaScript-的静态作用域链与“动态”闭包链](https://www.ershicimi.com/p/07762d92071a6f8afc81540b4eeffb8a) 
 - [2021-04-23-全栈前端⑥群-招人！顺便直接送10本经典-js书](https://www.ershicimi.com/p/e59f57b7dcf2c1ad831dde1b45296137) 
-- [2021-04-20-这样入门-js-抽象语法树AST，从此我来到了一个新世界](https://www.ershicimi.com/p/a8f48d69ef1b00bcd8ef34b89135e98c) 
 - [2021-04-27-数据可视化探索之-SpreadJS](https://www.ershicimi.com/p/aa1990785a06664680d5252a29b9b8c5) 
 - [2021-04-06-H5-页面列表缓存方案](https://www.ershicimi.com/p/e3e3b7bbb4a8ce3783c9a21fac6d9945) 
 - [2021-03-02-如何用-JS-实现二叉堆](https://www.ershicimi.com/p/7042ca89ec61f44863acb7c888ae365f) 

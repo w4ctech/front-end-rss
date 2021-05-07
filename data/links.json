@@ -20796,6 +20796,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有兄弟用过 5900X 写代码么？啥感觉，刚刚上车还没到货，想提前感受下",
+        "link": "https://www.v2ex.com/t/775532",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "请教 iOS App 跨区用户数据导出问题",
+        "link": "https://www.v2ex.com/t/775531",
+        "date": "2021-05-07"
+      },
+      {
         "title": "如何一个人从零开发上线一款 App，有答案了！",
         "link": "https://www.v2ex.com/t/775530",
         "date": "2021-05-07"
@@ -20963,11 +20973,6 @@
       {
         "title": "开发同事说话总喜欢带个“吧”字，感觉被冒犯了！",
         "link": "https://www.v2ex.com/t/775483",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "驾驶证拿了好几年了，从没碰过车，北京有没有快速培训的地方？（最好便宜点）",
-        "link": "https://www.v2ex.com/t/775481",
         "date": "2021-05-07"
       }
     ]
@@ -21175,8 +21180,43 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
-        "link": "https://toutiao.io/k/90vs9kg",
+        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
+        "link": "https://toutiao.io/k/0iue4f4",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 用户画像的基础、原理、方法论（模型）和应用",
+        "link": "https://toutiao.io/k/nrdp4oq",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
+        "link": "https://toutiao.io/k/a5s1rfh",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 万级并发：电商库存扣减如何设计？不超卖",
+        "link": "https://toutiao.io/k/1nwsx5k",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 系统设计之路：如何设计一个 URL 短链服务",
+        "link": "https://toutiao.io/k/6mzds1m",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 程序员应该掌握的常用网络问题定位工具",
+        "link": "https://toutiao.io/k/upefap5",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
+        "link": "https://toutiao.io/k/iwkig90",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 撸代码前，写下设计方案",
+        "link": "https://toutiao.io/k/xdsox3x",
         "date": "2021-05-07"
       },
       {
@@ -21190,18 +21230,13 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] Kafka：这次分享我只想把原理讲清楚",
-        "link": "https://toutiao.io/k/0etokja",
+        "title": "[推荐] 如何设计一个高性能的秒杀系统",
+        "link": "https://toutiao.io/k/6z3uu2m",
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
-        "link": "https://toutiao.io/k/a5s1rfh",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 撸代码前，写下设计方案",
-        "link": "https://toutiao.io/k/xdsox3x",
+        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
+        "link": "https://toutiao.io/k/90vs9kg",
         "date": "2021-05-07"
       },
       {
@@ -21210,38 +21245,8 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 用户画像的基础、原理、方法论（模型）和应用",
-        "link": "https://toutiao.io/k/nrdp4oq",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 系统设计之路：如何设计一个 URL 短链服务",
-        "link": "https://toutiao.io/k/6mzds1m",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 如何设计一个高性能的秒杀系统",
-        "link": "https://toutiao.io/k/6z3uu2m",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
-        "link": "https://toutiao.io/k/iwkig90",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
-        "link": "https://toutiao.io/k/0iue4f4",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 万级并发：电商库存扣减如何设计？不超卖",
-        "link": "https://toutiao.io/k/1nwsx5k",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 程序员应该掌握的常用网络问题定位工具",
-        "link": "https://toutiao.io/k/upefap5",
+        "title": "[推荐] Kafka：这次分享我只想把原理讲清楚",
+        "link": "https://toutiao.io/k/0etokja",
         "date": "2021-05-07"
       }
     ]

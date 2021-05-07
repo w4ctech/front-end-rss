@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 13:00:13，:rocket: 更新条数: +4318， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 13:16:39，:rocket: 更新条数: +4319， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,25 +66,25 @@
 
 
 - [2021-05-07-最新疫情：全国新冠累计确诊90739例-累计接种新冠疫苗超2.97亿剂次](https://m.caixin.com/m/2021-05-07/101707747.html) ![](assets/new.png)  
+- [2021-05-07-缩短检疫期-港府推新政优待疫苗接种者](https://m.caixin.com/m/2021-05-07/101707900.html) ![](assets/new.png)  
+- [2021-05-07-中美市场对新冠疫苗专利豁免态度分化-美股已现反弹](https://m.caixin.com/m/2021-05-07/101707872.html) ![](assets/new.png)  
 - [2021-05-07-数字说｜珠峰大本营现新冠病例-新冠疫苗知识产权开放障碍何来？（更新中）](http://m.datanews.caixin.com/m/2021-05-07/101707842.html) ![](assets/new.png)  
 - [2021-05-07-最新海外疫情：新冠感染超1.55亿-累计死亡超325万](https://m.caixin.com/m/2021-05-07/101707744.html) ![](assets/new.png)  
 - [2021-05-07-【境内疫情观察】全国新增13例境外输入病例（5月6日）](http://m.database.caixin.com/m/2021-05-07/101707685.html) ![](assets/new.png)  
 - [2021-05-07-WHO指科兴疫苗可有效保护六旬以下成年人-加拿大批准青少年接种辉瑞疫苗｜大流行手记（5月6日）](https://m.caixin.com/m/2021-05-07/101706957.html) ![](assets/new.png)  
-- [2021-05-06-美国转向支持豁免新冠疫苗专利保护-能否推动疫苗全球普及](http://m.international.caixin.com/m/2021-05-06/101706238.html) ![](assets/new.png)  
 - [2021-05-06-【境内疫情观察】全国连续百日无新增死亡病例（5月5日）](http://m.database.caixin.com/m/2021-05-06/101705744.html) ![](assets/new.png)  
+- [2021-05-06-美国转向支持豁免新冠疫苗专利保护-能否推动疫苗全球普及](http://m.international.caixin.com/m/2021-05-06/101706238.html) ![](assets/new.png)  
 - [2021-05-05-【境内疫情观察】云南瑞丽中高风险区域清零（5月4日）](http://m.database.caixin.com/m/2021-05-05/101705446.html) ![](assets/new.png)  
 - [2021-05-05-印度累计确诊病例突破2000万-新加坡收紧社交距离管制｜大流行手记（5月4日）](https://m.caixin.com/m/2021-05-05/101705431.html) ![](assets/new.png)  
-- [2021-05-04-国药北京所新冠疫苗部分数据披露-老年人保护率等被指证据不足](https://m.caixin.com/m/2021-05-04/101705407.html) ![](assets/new.png)  
 - [2021-05-04-【境内疫情观察】全国新增17例境外输入病例（5月3日）](http://m.database.caixin.com/m/2021-05-04/101705307.html) ![](assets/new.png)  
 - [2021-05-04-欧盟建议放宽国际旅行限制-丹麦停用强生疫苗-|-大流行手记（5月3日）](https://m.caixin.com/m/2021-05-04/101705293.html) ![](assets/new.png)  
+- [2021-05-04-国药北京所新冠疫苗部分数据披露-老年人保护率等被指证据不足](https://m.caixin.com/m/2021-05-04/101705407.html) ![](assets/new.png)  
 - [2021-05-03-【境内疫情观察】全国现有确诊病例323例（5月2日）](http://m.database.caixin.com/m/2021-05-03/101705195.html) ![](assets/new.png)  
 - [2021-05-03-福奇建议印度全国封锁-英酝酿9月为12岁以上学童接种｜大流行手记（5月2日）](https://m.caixin.com/m/2021-05-03/101705171.html) ![](assets/new.png)  
 - [2021-05-02-【境内疫情观察】全国新增15例境外输入病例（5月1日）](http://m.database.caixin.com/m/2021-05-02/101705102.html) ![](assets/new.png)  
 - [2021-05-02-印度单日新增超40万例-巴西疫情缓解｜大流行手记（5月1日）](https://m.caixin.com/m/2021-05-02/101705089.html) ![](assets/new.png)  
 - [2021-05-01-【境内疫情观察】全国新增16例境外输入病例（4月30日）](http://m.database.caixin.com/m/2021-05-01/101704949.html) ![](assets/new.png)  
 - [2021-05-01-东京奥运会拟闭门比赛-法国5月19日起逐步解封｜大流行手记（4月30日）](https://m.caixin.com/m/2021-05-01/101704798.html) ![](assets/new.png)  
-- [2021-05-01-美国对印度发布旅行禁令-5月4日起限制人员从印度入境](http://m.international.caixin.com/m/2021-05-01/101704855.html) ![](assets/new.png)  
-- [2021-04-30-双重变种病毒流入香港社区-确诊菲佣感染10个月女婴](https://m.caixin.com/m/2021-04-30/101704317.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,6 +1016,9 @@
 </summary>
 
 
+- [2021-05-07-摄影入门求微单推荐](https://www.v2ex.com/t/775513) ![](assets/new.png)  
+- [2021-05-07-怎么查看某个被关闭贴吧的帖子？](https://www.v2ex.com/t/775512) ![](assets/new.png)  
+- [2021-05-07-IPV6-这网址是固定的公网地址么？](https://www.v2ex.com/t/775511) ![](assets/new.png)  
 - [2021-05-07-求短信转发的方法？](https://www.v2ex.com/t/775509) ![](assets/new.png)  
 - [2021-05-07-关于-Python-的学习之路想请教下各位.](https://www.v2ex.com/t/775508) ![](assets/new.png)  
 - [2021-05-07-有了解美团的商企通部门的吗，听说是内部孵化项目](https://www.v2ex.com/t/775507) ![](assets/new.png)  
@@ -1033,9 +1036,6 @@
 - [2021-05-07-分享给容易失眠的同学](https://www.v2ex.com/t/775491) ![](assets/new.png)  
 - [2021-05-07-Apple-Mini-DisplayPort-转-VGA-转换器，上不了-1080，是什么情况？](https://www.v2ex.com/t/775490) ![](assets/new.png)  
 - [2021-05-07-7zip-官方-7-Zip-21.02-alpha-2021-05-06源代码编译...](https://www.v2ex.com/t/775486) ![](assets/new.png)  
-- [2021-05-07-设计函数时如何界定何时需要捕获异常并自己处理，何时需要抛出异常给调用方？](https://www.v2ex.com/t/775484) ![](assets/new.png)  
-- [2021-05-07-开发同事说话总喜欢带个“吧”字，感觉被冒犯了！](https://www.v2ex.com/t/775483) ![](assets/new.png)  
-- [2021-05-07-驾驶证拿了好几年了，从没碰过车，北京有没有快速培训的地方？（最好便宜点）](https://www.v2ex.com/t/775481) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,8 +1083,8 @@
 - [2021-05-07-Kafka-不再需要-ZooKeeper](https://toutiao.io/k/07qzmoj) ![](assets/new.png)  
 - [2021-05-07-ThreadLocal-使用与原理](https://toutiao.io/k/efrdgy5) ![](assets/new.png)  
 - [2021-05-07-Raft-的-Figure-8-讲了什么问题？为什么需要-no-op-日志？](https://toutiao.io/k/funesvi) ![](assets/new.png)  
-- [2021-05-07-职场感悟：我的参考系在哪？](https://toutiao.io/k/zgtkl3z) ![](assets/new.png)  
 - [2021-05-07-Spring-Boot-集成-groovy-脚本](https://toutiao.io/k/wbuol5s) ![](assets/new.png)  
+- [2021-05-07-职场感悟：我的参考系在哪？](https://toutiao.io/k/zgtkl3z) ![](assets/new.png)  
 - [2021-05-07-一文读懂-MySQL-查询语句的执行过程](https://toutiao.io/k/1ekyryi) ![](assets/new.png)  
 - [2021-05-07-Curl-使用指南](https://toutiao.io/k/3xmfopc) ![](assets/new.png)  
 - [2021-05-07-聊一聊可信执行环境](https://toutiao.io/k/67zyftw) ![](assets/new.png)  
@@ -1096,8 +1096,8 @@
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
-- [2021-05-07-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-07-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-07-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
+- [2021-05-07-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 11:31:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 11:40:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,4 +39,3 @@
 - [2021-05-07-Mac-废纸篓的文件不能放回原处](https://www.v2ex.com/t/775452) 
 - [2021-05-07-2021-年了，有什么办法能使用-SwiftUI-开发-Flutter-吗？](https://www.v2ex.com/t/775450) 
 - [2021-05-07-分享我的-Notion-使用方式-🥳](https://www.v2ex.com/t/775448) 
-- [2021-05-07-XCode-里下载不到-ios-12-以下的镜像了，排查问题好不方便，到底咋想的？](https://www.v2ex.com/t/775442) 

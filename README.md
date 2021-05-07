@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 04:35:28，:rocket: 更新条数: +741， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 04:54:31，:rocket: 更新条数: +740， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,8 @@
 </summary>
 
 
+- [2021-05-07-同事和我借房产证…](https://www.v2ex.com/t/775403) ![](assets/new.png)  
+- [2021-05-07-go.mod-文件里怎么多了那么多东西](https://www.v2ex.com/t/775401) ![](assets/new.png)  
 - [2021-05-07-Valhalla-项目中的-Primitive-Object-只支持值传递，这是个糟糕的设计吗？](https://www.v2ex.com/t/775400) ![](assets/new.png)  
 - [2021-05-07-VSCode-的这个叫做-Solarized-Light-的配色主题很有-Notion-的感觉](https://www.v2ex.com/t/775399) ![](assets/new.png)  
 - [2021-05-07-ipv6-地址多久更新一次](https://www.v2ex.com/t/775397) ![](assets/new.png)  
@@ -1014,8 +1016,6 @@
 - [2021-05-07-flutter-桌面端靠谱吗？](https://www.v2ex.com/t/775376) ![](assets/new.png)  
 - [2021-05-07-深圳买房租房算一笔账](https://www.v2ex.com/t/775374) ![](assets/new.png)  
 - [2021-05-07-请问-PayPal-商家那边申请退款后多久会在交易记录显示出来？](https://www.v2ex.com/t/775373) ![](assets/new.png)  
-- [2021-05-07-M1-终于开始烫了起来](https://www.v2ex.com/t/775371) ![](assets/new.png)  
-- [2021-05-07-数字游民指南网站交换友链](https://www.v2ex.com/t/775370) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1063,21 +1063,21 @@
 - [2021-05-07-Kafka-不再需要-ZooKeeper](https://toutiao.io/k/07qzmoj) ![](assets/new.png)  
 - [2021-05-07-ThreadLocal-使用与原理](https://toutiao.io/k/efrdgy5) ![](assets/new.png)  
 - [2021-05-07-Raft-的-Figure-8-讲了什么问题？为什么需要-no-op-日志？](https://toutiao.io/k/funesvi) ![](assets/new.png)  
+- [2021-05-07-职场感悟：我的参考系在哪？](https://toutiao.io/k/zgtkl3z) ![](assets/new.png)  
 - [2021-05-07-聊一聊可信执行环境](https://toutiao.io/k/67zyftw) ![](assets/new.png)  
 - [2021-05-07-Spring-Boot-集成-groovy-脚本](https://toutiao.io/k/wbuol5s) ![](assets/new.png)  
-- [2021-05-07-职场感悟：我的参考系在哪？](https://toutiao.io/k/zgtkl3z) ![](assets/new.png)  
 - [2021-05-07-Curl-使用指南](https://toutiao.io/k/3xmfopc) ![](assets/new.png)  
 - [2021-05-07-再谈-synchronized-锁升级](https://toutiao.io/k/2u2tp7g) ![](assets/new.png)  
 - [2021-05-07-酷炫！Python-函数耗时异常自动化监控](https://toutiao.io/k/g5lxvm0) ![](assets/new.png)  
-- [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-一文读懂-MySQL-查询语句的执行过程](https://toutiao.io/k/1ekyryi) ![](assets/new.png)  
-- [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
+- [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-GraphQL-及元数据驱动架构在后端-BFF-中的实践](https://toutiao.io/k/go0rojp) ![](assets/new.png)  
+- [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
 - [2021-05-07-使用-Kotlin-提高生产力](https://toutiao.io/k/kg5vie0) ![](assets/new.png)  
 - [2021-05-07-C/C++-构建系统，我用-xmake](https://toutiao.io/k/rluv4r3) ![](assets/new.png)  
-- [2021-05-07-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
-- [2021-05-07-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
-- [2021-05-07-推荐-撸代码前，写下设计方案](https://toutiao.io/k/xdsox3x) ![](assets/new.png)  
+- [2021-05-07-推荐-用户画像的基础、原理、方法论（模型）和应用](https://toutiao.io/k/nrdp4oq) ![](assets/new.png)  
+- [2021-05-07-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-07-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

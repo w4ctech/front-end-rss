@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 00:09:26，:rocket: 更新条数: +744， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 00:20:29，:rocket: 更新条数: +744， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -679,9 +679,9 @@
 </summary>
 
 
+- [2021-05-07-科技爱好者周刊（第-157-期）：KK-给年轻人的建议](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-157.html) ![](assets/new.png)  
 - [2021-04-29-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html) ![](assets/new.png)  
 - [2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) ![](assets/new.png)  
-- [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1073,11 +1073,11 @@
 - [2021-05-07-.NET-中安全高效跨平台的模板引擎-Fluid-使用文档](https://toutiao.io/k/xna3lx9) ![](assets/new.png)  
 - [2021-05-07-AndroidSyscallLogger](https://toutiao.io/k/1n31apj) ![](assets/new.png)  
 - [2021-05-07-Python数据分析：股票成交量与收盘价时间序列可视化分析](https://toutiao.io/k/yct2gs5) ![](assets/new.png)  
-- [2021-05-07-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-07-推荐-系统设计之路：如何设计一个-URL-短链服务](https://toutiao.io/k/6mzds1m) ![](assets/new.png)  
+- [2021-05-07-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
 - [2021-05-07-推荐-ClickHouse-在-Bilibili-用户行为分析的实践](https://toutiao.io/k/90vs9kg) ![](assets/new.png)  
-- [2021-05-07-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
-- [2021-05-07-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
-- [2021-05-07-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-07-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
+- [2021-05-07-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,6 +1089,13 @@
 </summary>
 
 
+- [2021-05-06-来吧,聊个五毛钱](https://sec.thief.one/article_content?a_id=a0852376d5ca2387be35f9dd3ff854f8) ![](assets/new.png)  
+- [2021-05-06-【安全圈】调查显示戴尔驱动程序漏洞已对上亿台电脑造成影响](https://sec.thief.one/article_content?a_id=5d97c19484f57fe11c812d6f6da4c7bd) ![](assets/new.png)  
+- [2021-05-06-Cryakl勒索病毒改名换姓,更名Crylock持续活跃](https://sec.thief.one/article_content?a_id=8a6f51c654a97a520a95a0df8ca64992) ![](assets/new.png)  
+- [2021-05-06-面向对象:茫茫人海,我来与你相识!](https://sec.thief.one/article_content?a_id=ef8f00d9a6c76f78c514dd36cff313fc) ![](assets/new.png)  
+- [2021-05-06-PyPy为什么能让Python比C还快?一文了解内在机制](https://sec.thief.one/article_content?a_id=6998ae0368dfd014c11d9242cfbff63e) ![](assets/new.png)  
+- [2021-05-06-火力全开!微步在线“攻防演练”能力图解禁](https://sec.thief.one/article_content?a_id=4ef0780181ab1477467498cba9a4fc43) ![](assets/new.png)  
+- [2021-05-06-党史学习教育市委宣讲团互联网专场宣讲报告会在奇安信举行](https://sec.thief.one/article_content?a_id=25a5b56f3fd5bfdbfeac0f9e9948bfdb) ![](assets/new.png)  
 - [2021-05-06-Swissknife:脚本化的数据生成与篡改VSCode扩展](https://sec.thief.one/article_content?a_id=b9622ff65a5ef53f2b7c60f0e0e156a2) ![](assets/new.png)  
 - [2021-05-06-【技术分享】红队攻防基础建设-神隐之路](https://sec.thief.one/article_content?a_id=cb74cd742d77e99767ff61a89443cd4d) ![](assets/new.png)  
 - [2021-05-06-《个人信息保护法》一审稿和二审稿对照表](https://sec.thief.one/article_content?a_id=ea0923791fed0879d7f65bb585cfb5eb) ![](assets/new.png)  
@@ -1102,13 +1109,6 @@
 - [2021-05-06-网络安全公司谁家薪酬最高?](https://sec.thief.one/article_content?a_id=beae09d612c44707bb5fb126891a0c8f) ![](assets/new.png)  
 - [2021-05-06-记一次渗透测试之JMXInvokerServlet反序列化漏洞](https://sec.thief.one/article_content?a_id=2dcdd48f6836cbb9f2b2c13a8667216e) ![](assets/new.png)  
 - [2021-05-06-Experian公司的API泄露了大量美国人的信用评分数据](https://sec.thief.one/article_content?a_id=13c6d17d7e9979f23a8c1617a6b7dfce) ![](assets/new.png)  
-- [2021-05-06-SecWiki安全招聘第52期](https://sec.thief.one/article_content?a_id=0bac4903683b02719db5902431839e0f) ![](assets/new.png)  
-- [2021-05-06-网信办:常见输入法、地图导航APP个人信息违法违规情况通报](https://sec.thief.one/article_content?a_id=ed2978f2da2388649f20dbf246b02c4f) ![](assets/new.png)  
-- [2021-05-06-安全日报2021.05.06](https://sec.thief.one/article_content?a_id=3aa0ed0309e2090596e8be30b9f86eb4) ![](assets/new.png)  
-- [2021-05-06-平航科技赠书活动开奖!](https://sec.thief.one/article_content?a_id=a60156ac39256a02fc73736a43a696f6) ![](assets/new.png)  
-- [2021-05-06-一个新的PHP-Composer错误可能导致广泛的供应链攻击](https://sec.thief.one/article_content?a_id=eed84259259a9ce48ad941ce8a26d6b2) ![](assets/new.png)  
-- [2021-05-06-文件上传漏洞和一句话木马](https://sec.thief.one/article_content?a_id=d77d51503f4226a1d33fe08b773ccf64) ![](assets/new.png)  
-- [2021-05-06-疑似Kimsuky-APT组织利用韩国外交部为诱饵的攻击活动分析](https://sec.thief.one/article_content?a_id=82b25d732a59150315da6d6c8a047509) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

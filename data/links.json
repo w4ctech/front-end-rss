@@ -2017,6 +2017,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 157 期）：KK 给年轻人的建议",
+        "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-157.html",
+        "date": "2021-05-07"
+      },
+      {
         "title": "科技爱好者周刊（第 156 期）：显卡缺货与异业竞争",
         "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html",
         "date": "2021-04-29"
@@ -2025,11 +2030,6 @@
         "title": "科技爱好者周刊（第 155 期）：数字货币是打破美元霸权的武器吗？",
         "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html",
         "date": "2021-04-23"
-      },
-      {
-        "title": "科技爱好者周刊（第 154 期）：1982年的信息社会预言",
-        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html",
-        "date": "2021-04-16"
       }
     ]
   },
@@ -3314,53 +3314,8 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 程序员应该掌握的常用网络问题定位工具",
-        "link": "https://toutiao.io/k/upefap5",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
-        "link": "https://toutiao.io/k/90vs9kg",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 万级并发：电商库存扣减如何设计？不超卖",
-        "link": "https://toutiao.io/k/1nwsx5k",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
-        "link": "https://toutiao.io/k/0iue4f4",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 如何设计一个高性能的秒杀系统",
-        "link": "https://toutiao.io/k/6z3uu2m",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 用户画像的基础、原理、方法论（模型）和应用",
-        "link": "https://toutiao.io/k/nrdp4oq",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
-        "link": "https://toutiao.io/k/2aonyjp",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] Kafka：这次分享我只想把原理讲清楚",
-        "link": "https://toutiao.io/k/0etokja",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
-        "link": "https://toutiao.io/k/iwkig90",
-        "date": "2021-05-07"
-      },
-      {
-        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
-        "link": "https://toutiao.io/k/a5s1rfh",
+        "title": "[推荐] 系统设计之路：如何设计一个 URL 短链服务",
+        "link": "https://toutiao.io/k/6mzds1m",
         "date": "2021-05-07"
       },
       {
@@ -3369,8 +3324,23 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
-        "link": "https://toutiao.io/k/08uadl6",
+        "title": "[推荐] ClickHouse 在 Bilibili 用户行为分析的实践",
+        "link": "https://toutiao.io/k/90vs9kg",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 殷浩详解 DDD：如何避免写流水账代码？",
+        "link": "https://toutiao.io/k/iwkig90",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] Kafka：这次分享我只想把原理讲清楚",
+        "link": "https://toutiao.io/k/0etokja",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 用户画像的基础、原理、方法论（模型）和应用",
+        "link": "https://toutiao.io/k/nrdp4oq",
         "date": "2021-05-07"
       },
       {
@@ -3379,8 +3349,38 @@
         "date": "2021-05-07"
       },
       {
-        "title": "[推荐] 系统设计之路：如何设计一个 URL 短链服务",
-        "link": "https://toutiao.io/k/6mzds1m",
+        "title": "[推荐] 前端哪需要自己设计页面？用现成的不就好了",
+        "link": "https://toutiao.io/k/a5s1rfh",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 2.7w 字！Java 基础面试题/知识点总结（2021 最新版）",
+        "link": "https://toutiao.io/k/0iue4f4",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 程序员应该掌握的常用网络问题定位工具",
+        "link": "https://toutiao.io/k/upefap5",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 把 Redis 当作队列来用，真的合适吗？",
+        "link": "https://toutiao.io/k/2aonyjp",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 万级并发：电商库存扣减如何设计？不超卖",
+        "link": "https://toutiao.io/k/1nwsx5k",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 书单丨“1 本抵 10 本” 的好书，建议收藏",
+        "link": "https://toutiao.io/k/08uadl6",
+        "date": "2021-05-07"
+      },
+      {
+        "title": "[推荐] 如何设计一个高性能的秒杀系统",
+        "link": "https://toutiao.io/k/6z3uu2m",
         "date": "2021-05-07"
       }
     ]
@@ -3390,6 +3390,41 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "来吧,聊个五毛钱",
+        "link": "https://sec.thief.one/article_content?a_id=a0852376d5ca2387be35f9dd3ff854f8",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "【安全圈】调查显示戴尔驱动程序漏洞已对上亿台电脑造成影响",
+        "link": "https://sec.thief.one/article_content?a_id=5d97c19484f57fe11c812d6f6da4c7bd",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "Cryakl勒索病毒改名换姓,更名Crylock持续活跃",
+        "link": "https://sec.thief.one/article_content?a_id=8a6f51c654a97a520a95a0df8ca64992",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "面向对象:茫茫人海,我来与你相识!",
+        "link": "https://sec.thief.one/article_content?a_id=ef8f00d9a6c76f78c514dd36cff313fc",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "PyPy为什么能让Python比C还快?一文了解内在机制",
+        "link": "https://sec.thief.one/article_content?a_id=6998ae0368dfd014c11d9242cfbff63e",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "火力全开!微步在线“攻防演练”能力图解禁",
+        "link": "https://sec.thief.one/article_content?a_id=4ef0780181ab1477467498cba9a4fc43",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "党史学习教育市委宣讲团互联网专场宣讲报告会在奇安信举行",
+        "link": "https://sec.thief.one/article_content?a_id=25a5b56f3fd5bfdbfeac0f9e9948bfdb",
+        "date": "2021-05-06"
+      },
       {
         "title": "Swissknife:脚本化的数据生成与篡改VSCode扩展",
         "link": "https://sec.thief.one/article_content?a_id=b9622ff65a5ef53f2b7c60f0e0e156a2",
@@ -3853,41 +3888,6 @@
       {
         "title": "勒索软件攻击成本翻倍增长,平均达 185 万美元",
         "link": "https://sec.thief.one/article_content?a_id=cc0fe202171af319bf03a272912a145a",
-        "date": "2021-04-30"
-      },
-      {
-        "title": "每日攻防资讯简报[Apr.30th]",
-        "link": "https://sec.thief.one/article_content?a_id=0b089695081bfa2d2c5d1faadec09019",
-        "date": "2021-04-30"
-      },
-      {
-        "title": "开启全面安全新纪元 360安全卫士正式启动15周年“全面安全”品牌计...",
-        "link": "https://sec.thief.one/article_content?a_id=6425da2a150250b8b9ed44c2523bd959",
-        "date": "2021-04-30"
-      },
-      {
-        "title": "安全圈护网毕业了,那就来斗象吧",
-        "link": "https://sec.thief.one/article_content?a_id=a15ba546594fe095c72ca1152ba3b12d",
-        "date": "2021-04-30"
-      },
-      {
-        "title": "五一活动 | 春眠当觉晓,稿费加成又来到",
-        "link": "https://sec.thief.one/article_content?a_id=042fa7cb961277b894aef448e3353c77",
-        "date": "2021-04-30"
-      },
-      {
-        "title": "DLL卸载 | 创建远程线程卸载强制注入的dll",
-        "link": "https://sec.thief.one/article_content?a_id=ec7a3a81054945832201ec355c7f7621",
-        "date": "2021-04-30"
-      },
-      {
-        "title": "【漏洞更新】SaltStack Minion 命令注入漏洞,已复现",
-        "link": "https://sec.thief.one/article_content?a_id=8c32e0548eae4af4158e2de0a254a84e",
-        "date": "2021-04-30"
-      },
-      {
-        "title": "中国上市网络安全公司2020年营收、毛利、利润排行",
-        "link": "https://sec.thief.one/article_content?a_id=8dd597a95cb298b417653f884d3b17f6",
         "date": "2021-04-30"
       }
     ]

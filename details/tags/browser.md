@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 00:09:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 00:20:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,6 +28,7 @@
 - [2021-05-07-把你的-IDE-搬进浏览器里：JetBrains-Projector-初体验](https://toutiao.io/k/fg52hbx) 
 - [2021-05-07-.NET-中安全高效跨平台的模板引擎-Fluid-使用文档](https://toutiao.io/k/xna3lx9) 
 - [2021-05-07-推荐-系统设计之路：如何设计一个-URL-短链服务](https://toutiao.io/k/6mzds1m) 
+- [2021-05-06-【安全圈】调查显示戴尔驱动程序漏洞已对上亿台电脑造成影响](https://sec.thief.one/article_content?a_id=5d97c19484f57fe11c812d6f6da4c7bd) 
 - [2021-05-06-从技术角度解读等保2.0对数据安全的要求](https://sec.thief.one/article_content?a_id=e6558c075c9d6deb12e6b2ab835a3e6f) 
 - [2021-05-06-GetData-Mount-Image-Pro镜像挂载工具资料归档](https://sec.thief.one/article_content?a_id=8d27e69fef36d0c25d0b289262e7a1b8) 
 - [2021-05-06-网络安全公司谁家薪酬最高?](https://sec.thief.one/article_content?a_id=beae09d612c44707bb5fb126891a0c8f) 
@@ -43,6 +44,3 @@
 - [2021-05-01-第五届“蓝帽杯”首都网络安全日开赛-校企携手三方合作培养“未来网...](https://sec.thief.one/article_content?a_id=3ab4a473be984215bffc109e372cff85) 
 - [2021-05-01-安全守护每一份付出!同学们,五一快乐~](https://sec.thief.one/article_content?a_id=780962e881151589e732741f0393fbad) 
 - [2021-04-30-SecWiki安全招聘第51期](https://sec.thief.one/article_content?a_id=167d5b3d882ce60bb7dfa9cd3c063b52) 
-- [2021-04-30-开启全面安全新纪元-360安全卫士正式启动15周年“全面安全”品牌计...](https://sec.thief.one/article_content?a_id=6425da2a150250b8b9ed44c2523bd959) 
-- [2021-04-30-安全圈护网毕业了,那就来斗象吧](https://sec.thief.one/article_content?a_id=a15ba546594fe095c72ca1152ba3b12d) 
-- [2021-04-30-中国上市网络安全公司2020年营收、毛利、利润排行](https://sec.thief.one/article_content?a_id=8dd597a95cb298b417653f884d3b17f6) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-07 06:53:18，:rocket: 更新条数: +737， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-07 07:03:57，:rocket: 更新条数: +738， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -996,6 +996,10 @@
 </summary>
 
 
+- [2021-05-07-有没有人因为域名本身的字母美观性而留着域名不舍得丢的？](https://www.v2ex.com/t/775437) ![](assets/new.png)  
+- [2021-05-07-大家现在是通过什么软件来实现手机和电脑之间的文件互传的？](https://www.v2ex.com/t/775434) ![](assets/new.png)  
+- [2021-05-07-iOS-14.5.1-使-iPhone-12-多核性能大减](https://www.v2ex.com/t/775433) ![](assets/new.png)  
+- [2021-05-07-微信-for-Android-双开是微信本身支持，还是-Android-特有支持？](https://www.v2ex.com/t/775432) ![](assets/new.png)  
 - [2021-05-07-PostgreSQL-和-MySQL-中-schema-的区别](https://www.v2ex.com/t/775431) ![](assets/new.png)  
 - [2021-05-07-美区-Apple-one-旗舰版组队差一人](https://www.v2ex.com/t/775430) ![](assets/new.png)  
 - [2021-05-07-三七互娱内推-社招-高级安全工程师-15-薪-广州](https://www.v2ex.com/t/775429) ![](assets/new.png)  
@@ -1012,10 +1016,6 @@
 - [2021-05-07-当用户在多个标签页同时打开同一页面时，该如何统计用户浏览时长？](https://www.v2ex.com/t/775409) ![](assets/new.png)  
 - [2021-05-07-杭州-内推-比特币大赢家，诚招-QE-测试工程师](https://www.v2ex.com/t/775408) ![](assets/new.png)  
 - [2021-05-07-求教-我这种情况该如何找工作-Java](https://www.v2ex.com/t/775404) ![](assets/new.png)  
-- [2021-05-07-同事和我借房产证…](https://www.v2ex.com/t/775403) ![](assets/new.png)  
-- [2021-05-07-go.mod-文件里怎么多了那么多东西](https://www.v2ex.com/t/775401) ![](assets/new.png)  
-- [2021-05-07-Valhalla-项目中的-Primitive-Object-只支持值传递，这是个糟糕的设计吗？](https://www.v2ex.com/t/775400) ![](assets/new.png)  
-- [2021-05-07-VSCode-的这个叫做-Solarized-Light-的配色主题很有-Notion-的感觉](https://www.v2ex.com/t/775399) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1076,8 +1076,8 @@
 - [2021-05-07-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
 - [2021-05-07-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
 - [2021-05-07-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
-- [2021-05-07-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
-- [2021-05-07-推荐-如何设计一个高性能的秒杀系统](https://toutiao.io/k/6z3uu2m) ![](assets/new.png)  
+- [2021-05-07-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-07-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

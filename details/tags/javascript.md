@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 23:56:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-08 00:09:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -80,5 +80,5 @@
 - [2021-05-06-编程语言最新情报：JavaScript最流行，Rust-增长最猛](https://www.ershicimi.com/p/dafaba4ce3ceafbed6fcc5fc28b5d21a) 
 - [2021-05-07-如何在JavaScript中实现队列](https://www.ershicimi.com/p/517a9abb51f869c26f1ed1ca72c41ce6) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2021-05-07-适配-AndroidQ，不能后台启动-Activity-限制-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14332&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FswMzgiMg6Ff0p8ySchXhrA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-05-08-适配-AndroidQ，不能后台启动-Activity-限制-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14332&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FswMzgiMg6Ff0p8ySchXhrA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-05-03-DOMAINTOOLS:2020年度威胁狩猎报告](https://sec.thief.one/article_content?a_id=0c621f68be5fd916a4fa6eb1341cfec8) 

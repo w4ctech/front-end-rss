@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-08 00:09:38，:rocket: 更新条数: +4315， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-08 00:20:43，:rocket: 更新条数: +4297， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1078,26 +1078,16 @@
 </summary>
 
 
-- [2021-05-08-程序员必备基础：10-种常见安全漏洞浅析](https://toutiao.io/k/7v2gnx6) ![](assets/new.png)  
-- [2021-05-08-技术之外的工程师另类成长指南](https://toutiao.io/k/fsnuhkp) ![](assets/new.png)  
-- [2021-05-08-Kafka-不再需要-ZooKeeper](https://toutiao.io/k/07qzmoj) ![](assets/new.png)  
-- [2021-05-08-ThreadLocal-使用与原理](https://toutiao.io/k/efrdgy5) ![](assets/new.png)  
-- [2021-05-08-Raft-的-Figure-8-讲了什么问题？为什么需要-no-op-日志？](https://toutiao.io/k/funesvi) ![](assets/new.png)  
-- [2021-05-08-Spring-Boot-集成-groovy-脚本](https://toutiao.io/k/wbuol5s) ![](assets/new.png)  
-- [2021-05-08-职场感悟：我的参考系在哪？](https://toutiao.io/k/zgtkl3z) ![](assets/new.png)  
-- [2021-05-08-一文读懂-MySQL-查询语句的执行过程](https://toutiao.io/k/1ekyryi) ![](assets/new.png)  
-- [2021-05-08-Curl-使用指南](https://toutiao.io/k/3xmfopc) ![](assets/new.png)  
-- [2021-05-08-聊一聊可信执行环境](https://toutiao.io/k/67zyftw) ![](assets/new.png)  
-- [2021-05-08-GraphQL-及元数据驱动架构在后端-BFF-中的实践](https://toutiao.io/k/go0rojp) ![](assets/new.png)  
-- [2021-05-08-再谈-synchronized-锁升级](https://toutiao.io/k/2u2tp7g) ![](assets/new.png)  
-- [2021-05-08-C/C++-构建系统，我用-xmake](https://toutiao.io/k/rluv4r3) ![](assets/new.png)  
-- [2021-05-08-使用-Kotlin-提高生产力](https://toutiao.io/k/kg5vie0) ![](assets/new.png)  
-- [2021-05-08-工具-|-一个非常实用的-NLP-索引工具](https://toutiao.io/k/u231mw2) ![](assets/new.png)  
-- [2021-05-08-酷炫！Python-函数耗时异常自动化监控](https://toutiao.io/k/g5lxvm0) ![](assets/new.png)  
-- [2021-05-08-译-神经网络不收敛怎么办？看看是不是这些原因](https://toutiao.io/k/2i4xfjb) ![](assets/new.png)  
-- [2021-05-08-React-Hooks-面试解答](https://toutiao.io/k/iukeyvj) ![](assets/new.png)  
+- [2021-05-08-推荐-撸代码前，写下设计方案](https://toutiao.io/k/xdsox3x) ![](assets/new.png)  
+- [2021-05-08-推荐-程序员应该掌握的常用网络问题定位工具](https://toutiao.io/k/upefap5) ![](assets/new.png)  
+- [2021-05-08-推荐-系统设计之路：如何设计一个-URL-短链服务](https://toutiao.io/k/6mzds1m) ![](assets/new.png)  
+- [2021-05-08-推荐-Kafka：这次分享我只想把原理讲清楚](https://toutiao.io/k/0etokja) ![](assets/new.png)  
+- [2021-05-08-推荐-2.7w-字！Java-基础面试题/知识点总结（2021-最新版）](https://toutiao.io/k/0iue4f4) ![](assets/new.png)  
+- [2021-05-08-推荐-殷浩详解-DDD：如何避免写流水账代码？](https://toutiao.io/k/iwkig90) ![](assets/new.png)  
 - [2021-05-08-推荐-前端哪需要自己设计页面？用现成的不就好了](https://toutiao.io/k/a5s1rfh) ![](assets/new.png)  
 - [2021-05-08-推荐-万级并发：电商库存扣减如何设计？不超卖](https://toutiao.io/k/1nwsx5k) ![](assets/new.png)  
+- [2021-05-08-推荐-图解-Kafka](https://toutiao.io/k/lvyzxo8) ![](assets/new.png)  
+- [2021-05-08-推荐-书单丨“1-本抵-10-本”-的好书，建议收藏](https://toutiao.io/k/08uadl6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,6 +1099,18 @@
 </summary>
 
 
+- [2021-05-08-2021海华AI挑战赛·中文阅读理解·技术组-Rank12](https://sec.thief.one/article_content?a_id=bd8e53f485d82b681fe4126f7b703a8a) ![](assets/new.png)  
+- [2021-05-07-【安全圈】尽快修复!21个漏洞影响60%的互联网邮箱服务器](https://sec.thief.one/article_content?a_id=e004095fb9888ecccf1befd660980199) ![](assets/new.png)  
+- [2021-05-07-每日攻防资讯简报May.7th](https://sec.thief.one/article_content?a_id=64f9eeff703f80de9a2c8e7023754d4e) ![](assets/new.png)  
+- [2021-05-07-网安26号院|从程序媛到事业部领头人-常月姐姐的“乘风破浪”之旅](https://sec.thief.one/article_content?a_id=8019ad5c5263ef3bea3674c6fe1b2d79) ![](assets/new.png)  
+- [2021-05-07-求求你别再用-MySQL-offset-和-limit-分页了](https://sec.thief.one/article_content?a_id=fe33517b223fe487c949b5ddfea5e021) ![](assets/new.png)  
+- [2021-05-07-3400-Star!知名日程安排工具的开源替代品](https://sec.thief.one/article_content?a_id=a8fb5a969bc154ebc00add8a4a63f1b1) ![](assets/new.png)  
+- [2021-05-07-HT1112-搜索引擎高级使用语法](https://sec.thief.one/article_content?a_id=55908a1b2f65a2c31e951535b87782b3) ![](assets/new.png)  
+- [2021-05-07-这大白菜有毒](https://sec.thief.one/article_content?a_id=3be6b680bba246cc0bee26813851dec3) ![](assets/new.png)  
+- [2021-05-07-先声夺人丨头豹&Sullivan发布《2021年中国安全托管市场报告》,腾...](https://sec.thief.one/article_content?a_id=ef705ce194fbe05b505ac2e3f9bcf72f) ![](assets/new.png)  
+- [2021-05-07-行车数据上链,国产汽车很上道](https://sec.thief.one/article_content?a_id=68b83fd15111648e5ad8b26ffb12d761) ![](assets/new.png)  
+- [2021-05-07-密码双保险!谷歌即将默认开启双因子登录认证](https://sec.thief.one/article_content?a_id=370a8a9b3fc9e173edab8098abe896af) ![](assets/new.png)  
+- [2021-05-07-恢复快照就安全了吗?深信服EDR火眼金睛清扫漏网勒索](https://sec.thief.one/article_content?a_id=c89521486a14f2dde12ae3517aa469ef) ![](assets/new.png)  
 - [2021-05-07-理解frame-faking-栈迁移+例题详解含图示](https://sec.thief.one/article_content?a_id=3052f6fa60b016463ae7e5bfbd3c57be) ![](assets/new.png)  
 - [2021-05-07-2020年黑客首选10大Windows网络攻击技术](https://sec.thief.one/article_content?a_id=4d4076b765f3cfd2f883e08d7b75201f) ![](assets/new.png)  
 - [2021-05-07-【招聘】拼多多招聘运维工程师](https://sec.thief.one/article_content?a_id=96bda45adc6bc55c425b17372d52ab9e) ![](assets/new.png)  
@@ -1117,18 +1119,6 @@
 - [2021-05-07-【公益译文】安全控制评估自动化支持:软件漏洞管理三](https://sec.thief.one/article_content?a_id=165f514de98dd88c45fabb5a29cfc0af) ![](assets/new.png)  
 - [2021-05-07-EOS价格在增加staking奖励的提议后暴涨100%](https://sec.thief.one/article_content?a_id=c29e7e3d54272b38cd4086658b041dc8) ![](assets/new.png)  
 - [2021-05-07-信息安全漏洞周报2021年第18期](https://sec.thief.one/article_content?a_id=dc6f59948d1259d5fdb76213acb87cf6) ![](assets/new.png)  
-- [2021-05-07-隐私标签:从IOS到安卓](https://sec.thief.one/article_content?a_id=d336b8bb68c02d63729dcff70e3337e4) ![](assets/new.png)  
-- [2021-05-07-习近平时间|数字化赋能中国经济高质量发展](https://sec.thief.one/article_content?a_id=b0b9ab3a6c7440b9ae82c789adfae112) ![](assets/new.png)  
-- [2021-05-07-Arsenal-Image-Mounter磁盘挂载工具官方介绍及使用归档](https://sec.thief.one/article_content?a_id=718e0356b529651beb37ed51fc941137) ![](assets/new.png)  
-- [2021-05-07-网络安全月度快讯四月](https://sec.thief.one/article_content?a_id=275425fbea8dda80a13de280696ae279) ![](assets/new.png)  
-- [2021-05-07-5月7日贵币GUIBI早内参-狗狗币合并挖矿收入自4月初以来已翻10倍,...](https://sec.thief.one/article_content?a_id=26aca9b7739246f0725497313ddd0162) ![](assets/new.png)  
-- [2021-05-07-网安销售哪家强?销售薪酬排排行.](https://sec.thief.one/article_content?a_id=db376fc02c86f4825739bf5b89f3110b) ![](assets/new.png)  
-- [2021-05-07-网络安全中的不同角色](https://sec.thief.one/article_content?a_id=c32717e439df8f9a1073ae4ffb9405da) ![](assets/new.png)  
-- [2021-05-07-拜登政府新一轮网络安全专项行动拉开序幕](https://sec.thief.one/article_content?a_id=1b91aeef01b3a7b9cdebaba731cdde4e) ![](assets/new.png)  
-- [2021-05-07-90后女生,月入4000,一年赚了30万!](https://sec.thief.one/article_content?a_id=faf24ae9f5c23b0bbfe0166dcd820d50) ![](assets/new.png)  
-- [2021-05-07-文件上传bypass安全狗](https://sec.thief.one/article_content?a_id=ff6fb39b3ef70df08764f95043757930) ![](assets/new.png)  
-- [2021-05-07-高通芯片高危漏洞影响全球40%手机](https://sec.thief.one/article_content?a_id=934ea1c4c777327b4c1743d883493620) ![](assets/new.png)  
-- [2021-05-07-每周高级威胁情报解读2021.04.29~05.06](https://sec.thief.one/article_content?a_id=f2e5113229e8ba9e982c1ca3e13868fb) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

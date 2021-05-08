@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-08 00:09:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-08 00:20:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -88,5 +88,4 @@
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2021-05-04-知乎这部刷屏的微电影，登上了共青团中央的五四全国大直播](https://www.ershicimi.com/p/a18da034dcd7a7e385ab9d658a7799b8) 
 - [2021-05-07-视频-|-Python:面向对象之魔术方法](https://sec.thief.one/article_content?a_id=0bb7dc7cbf1248dd46076b209fb155e5) 
-- [2021-05-03-视频-|-Python:面向对象之类方法](https://sec.thief.one/article_content?a_id=26bc572c94aef846919d77ede4972637) 
 - [2021-04-27-直播回看/演讲资料/大咖金句——“数智融合-共创未来”高峰论坛](https://www.ershicimi.com/p/f6e3153d9da7a7b952c493999f22808b) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-08 00:09:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-08 00:20:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -395,7 +395,6 @@
 - [【奇舞周刊】2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152)
 - [【互联网架构师】类加载常见错误总结，写得非常好！](https://www.ershicimi.com/p/83edaca56e38cb33149832de0f34c32c)
 - [【InfoQ】对Kafka-和-Pulsar进行性能测试后，拉卡拉将消息平台统一换成了-Pulsar](https://www.ershicimi.com/p/dabd15162f6de46c1783ec9c6129178b)
-- [【安全热点】嘘,Python-优化提速的-8-个小技巧](https://sec.thief.one/article_content?a_id=f11eeb04dd2e7cb0859746076ff6fd91)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -475,7 +474,6 @@
 
 
 
-- [【开发者头条】GraphQL-及元数据驱动架构在后端-BFF-中的实践](https://toutiao.io/k/go0rojp)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

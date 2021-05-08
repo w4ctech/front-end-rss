@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-08 00:09:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-08 00:20:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -14,4 +14,3 @@
 - [2021-04-13-2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152) 
 - [2021-05-04-类加载常见错误总结，写得非常好！](https://www.ershicimi.com/p/83edaca56e38cb33149832de0f34c32c) 
 - [2021-05-03-对Kafka-和-Pulsar进行性能测试后，拉卡拉将消息平台统一换成了-Pulsar](https://www.ershicimi.com/p/dabd15162f6de46c1783ec9c6129178b) 
-- [2021-05-03-嘘,Python-优化提速的-8-个小技巧](https://sec.thief.one/article_content?a_id=f11eeb04dd2e7cb0859746076ff6fd91) 

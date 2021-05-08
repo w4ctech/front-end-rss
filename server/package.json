@@ -12,7 +12,7 @@
     "rimraf": "^3.0.0",
     "rss-parser": "^3.4.3",
     "simple-git": "^1.102.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "description": "front-end-rss",
   "devDependencies": {},

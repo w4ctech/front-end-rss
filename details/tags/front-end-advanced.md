@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-08 01:28:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-11-30 06:58:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -6,7 +6,3 @@
 > 关键字：`AST`、`GPU`、`WebAssembly`、`Vim`、`HTTP`、`算法`、`全栈`
 
 
-
-- [2021-05-07-Cvirus：基于-virustotalhttps://www.virustotal.com的病毒扫描软件](https://www.v2ex.com/t/775528) 
-- [2021-05-08-全方位深度解读-Elasticsearch-分页查询](https://toutiao.io/k/22smd1p) 
-- [2021-05-04-《人工智能算法金融应用评价规范》全文](https://sec.thief.one/article_content?a_id=807c71910687d2b4f596f22f0966273e) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 14:12:17，:rocket: 更新条数: +1537， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 14:20:52，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-11-30-最近和家长的关系处的越来越糟了，该怎么调节自己的心情？](https://www.v2ex.com/t/819146) ![](assets/new.png)  
+- [2021-11-30-Plex-不支持播放-dobly-vision-吗](https://www.v2ex.com/t/819144) ![](assets/new.png)  
+- [2021-11-30-做了一个用于阅读-TXT-文件的-PWA-应用，支持朗读、本地书库。iOS-可用](https://www.v2ex.com/t/819143) ![](assets/new.png)  
 - [2021-11-30-在中文社区，偏向计算机视觉的开源项目应该如何宣传？](https://www.v2ex.com/t/819142) ![](assets/new.png)  
 - [2021-11-30-Apple-Cash-看起来是不太会进中国了](https://www.v2ex.com/t/819141) ![](assets/new.png)  
 - [2021-11-30-人在国外-想咨询一些关于远程桌面、回国的问题](https://www.v2ex.com/t/819140) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-11-30-求助，-Manjaro-经常性卡顿](https://www.v2ex.com/t/819124) ![](assets/new.png)  
 - [2021-11-30-大家-git-分支流程是怎么样的？](https://www.v2ex.com/t/819122) ![](assets/new.png)  
 - [2021-11-30-Monterey-版本中,发现的一个启动台的-BUG](https://www.v2ex.com/t/819120) ![](assets/new.png)  
-- [2021-11-30-高级测试是不是都是做持续集成的？](https://www.v2ex.com/t/819119) ![](assets/new.png)  
-- [2021-11-30-大佬们求问有无虚拟定位-app-可以改飞书的打卡？](https://www.v2ex.com/t/819118) ![](assets/new.png)  
-- [2021-11-30-内推奖金平分-推荐专家奖励特斯拉，资深奖励价值五万苹果全家桶，简历通过就有钱拿！](https://www.v2ex.com/t/819116) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

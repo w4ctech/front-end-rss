@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 14:20:52，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 14:38:12，:rocket: 更新条数: +1535， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-11-30-iCloud-forever-uploading](https://www.v2ex.com/t/819151) ![](assets/new.png)  
+- [2021-11-30-今天被一个-IDEA?引发的问题搞得心态崩了](https://www.v2ex.com/t/819150) ![](assets/new.png)  
+- [2021-11-30-各位哥，-Prometheus-有办法监控到-nginx-负载均衡的流量吗？](https://www.v2ex.com/t/819149) ![](assets/new.png)  
+- [2021-11-30-刚到手的-m1max-mbp-无法安装软件](https://www.v2ex.com/t/819148) ![](assets/new.png)  
 - [2021-11-30-最近和家长的关系处的越来越糟了，该怎么调节自己的心情？](https://www.v2ex.com/t/819146) ![](assets/new.png)  
 - [2021-11-30-Plex-不支持播放-dobly-vision-吗](https://www.v2ex.com/t/819144) ![](assets/new.png)  
 - [2021-11-30-做了一个用于阅读-TXT-文件的-PWA-应用，支持朗读、本地书库。iOS-可用](https://www.v2ex.com/t/819143) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-11-30-支持颜色管理的-Android-机型有哪些](https://www.v2ex.com/t/819131) ![](assets/new.png)  
 - [2021-11-30-被-Reddit-的一个帖子震惊了，国外工作福利真的有这么好吗？](https://www.v2ex.com/t/819129) ![](assets/new.png)  
 - [2021-11-30-准备升级-Monterey-求指导](https://www.v2ex.com/t/819128) ![](assets/new.png)  
-- [2021-11-30-不懂就问-：关于代码调试](https://www.v2ex.com/t/819127) ![](assets/new.png)  
-- [2021-11-30-求助，-Manjaro-经常性卡顿](https://www.v2ex.com/t/819124) ![](assets/new.png)  
-- [2021-11-30-大家-git-分支流程是怎么样的？](https://www.v2ex.com/t/819122) ![](assets/new.png)  
-- [2021-11-30-Monterey-版本中,发现的一个启动台的-BUG](https://www.v2ex.com/t/819120) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,11 +562,11 @@
 - [2021-11-30-图片处理看这篇就完了（GitHub-热点速览）](https://toutiao.io/k/4kkl2g0) ![](assets/new.png)  
 - [2021-11-30-每天-React,-Vue，你知道如何原生实现-WebComponent-吗？](https://toutiao.io/k/zkxa7xz) ![](assets/new.png)  
 - [2021-11-30-都-2021-年了，对于服务网格，社区到底在讨论什么？](https://toutiao.io/k/2xk3hhm) ![](assets/new.png)  
-- [2021-11-30-泛型是双刃剑？Go-1.18-编译会慢近-20%](https://toutiao.io/k/xtc4n76) ![](assets/new.png)  
 - [2021-11-30-使用-Hilt-优化客户端代码结构](https://toutiao.io/k/x92pljc) ![](assets/new.png)  
+- [2021-11-30-泛型是双刃剑？Go-1.18-编译会慢近-20%](https://toutiao.io/k/xtc4n76) ![](assets/new.png)  
 - [2021-11-30-构建数据网格分布式架构的四项原则](https://toutiao.io/k/b0zutxb) ![](assets/new.png)  
-- [2021-11-30-大数据：HDFS-元数据持久化笔记](https://toutiao.io/k/qzdohkz) ![](assets/new.png)  
 - [2021-11-30-新功能：Prometheus-Agent-模式上手体验](https://toutiao.io/k/bjqqszn) ![](assets/new.png)  
+- [2021-11-30-大数据：HDFS-元数据持久化笔记](https://toutiao.io/k/qzdohkz) ![](assets/new.png)  
 - [2021-11-30-Lucene-之-PointRangeQuery（二）](https://toutiao.io/k/pn726k5) ![](assets/new.png)  
 - [2021-11-30-秘境探索之一个-.NET-对象从内存分配到内存回收](https://toutiao.io/k/s35gxbc) ![](assets/new.png)  
 - [2021-11-30-搞不定思想和组织转变，何谈企业转型](https://toutiao.io/k/u4anwrt) ![](assets/new.png)  

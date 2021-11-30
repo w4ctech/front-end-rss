@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 10:54:42，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 11:09:37，:rocket: 更新条数: +1533， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-11-30-我们目前在寻找游戏方面的合作伙伴，要求具有游戏全流程开发制作能力](https://www.v2ex.com/t/819111) ![](assets/new.png)  
+- [2021-11-30-Alidns-查询-cdn.jsdelivr.net-会返回国外节点（附带-Edns-为-119.6.6.6）](https://www.v2ex.com/t/819110) ![](assets/new.png)  
+- [2021-11-30-大家写-Python-项目时，还在用-pip-freeze-命令导出依赖吗](https://www.v2ex.com/t/819109) ![](assets/new.png)  
+- [2021-11-30-16-寸-m1-max-64G-收到了，-大家有需要测试的可以留言](https://www.v2ex.com/t/819108) ![](assets/new.png)  
 - [2021-11-30-国考有感](https://www.v2ex.com/t/819107) ![](assets/new.png)  
 - [2021-11-30-欧科云链大量招募新同学！](https://www.v2ex.com/t/819105) ![](assets/new.png)  
 - [2021-11-30-类完全背包拓展问题](https://www.v2ex.com/t/819104) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-11-30-联通普通家庭宽带国际出口限速严重](https://www.v2ex.com/t/819093) ![](assets/new.png)  
 - [2021-11-30-IDEA-里的-Kotlin-插件怎么卸载？看着烦](https://www.v2ex.com/t/819092) ![](assets/new.png)  
 - [2021-11-30-WOL-远程开机插座，仅-23.5](https://www.v2ex.com/t/819091) ![](assets/new.png)  
-- [2021-11-30-「武汉」新思科技-SIG-部门招聘-软件开发工程师（-Java-）](https://www.v2ex.com/t/819090) ![](assets/new.png)  
-- [2021-11-30-树莓派在-Raspberry-OS-Bullseye-下-ssh-登录很慢](https://www.v2ex.com/t/819087) ![](assets/new.png)  
-- [2021-11-30-求教大佬们一个算法问题](https://www.v2ex.com/t/819086) ![](assets/new.png)  
-- [2021-11-30-一个关于访问-k8s-内部服务的问题](https://www.v2ex.com/t/819084) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

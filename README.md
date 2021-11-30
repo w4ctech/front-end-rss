@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 07:11:41，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 07:19:27，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-11-30-十一月要结束了，来为十二月定小目标吧！](https://www.v2ex.com/t/819042) ![](assets/new.png)  
+- [2021-11-30-上海内推-众安保险子公司科技前端-后端-测试-产品-项管都有](https://www.v2ex.com/t/819041) ![](assets/new.png)  
 - [2021-11-30-MacBook-Pro-M1-Pro-触控板-Command-+-Click-问题](https://www.v2ex.com/t/819040) ![](assets/new.png)  
 - [2021-11-30-移动宽带千兆还是用千兆光猫？](https://www.v2ex.com/t/819039) ![](assets/new.png)  
 - [2021-11-30-一个-k8s-疑问](https://www.v2ex.com/t/819038) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-11-30-英伟达-上海-OR-深圳-分布式系统研发工程师-自动驾驶业务](https://www.v2ex.com/t/819020) ![](assets/new.png)  
 - [2021-11-30-腾讯文档同步-excel-到数据库问题](https://www.v2ex.com/t/819019) ![](assets/new.png)  
 - [2021-11-30-开发笔记本求推荐](https://www.v2ex.com/t/819018) ![](assets/new.png)  
-- [2021-11-30-删除账号申请](https://www.v2ex.com/t/819017) ![](assets/new.png)  
-- [2021-11-30-哪款看图软件可以一次看-4-张图片一个屏幕田字预览](https://www.v2ex.com/t/819016) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,8 +573,8 @@
 - [2021-11-30-虚拟偶像发展史：TA-们到底如何成功？万字复盘](https://toutiao.io/k/w4l4miv) ![](assets/new.png)  
 - [2021-11-30-Android-新技术动向及开发心得](https://toutiao.io/k/nq293zx) ![](assets/new.png)  
 - [2021-11-30-Cadence-DSP-算子开发上手指南](https://toutiao.io/k/hy811qq) ![](assets/new.png)  
-- [2021-11-30-在-Go-中使用-dockertest-进行集成测试](https://toutiao.io/k/r813zwl) ![](assets/new.png)  
 - [2021-11-30-Redis-线程模型的前世今生](https://toutiao.io/k/szboze1) ![](assets/new.png)  
+- [2021-11-30-在-Go-中使用-dockertest-进行集成测试](https://toutiao.io/k/r813zwl) ![](assets/new.png)  
 - [2021-11-30-Serverless：微服务架构的终极模式](https://toutiao.io/k/ssz7b1l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

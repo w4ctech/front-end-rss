@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-11-30 18:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-11-30 18:25:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,7 +43,6 @@
 - [2021-11-30-iPhone-12-电池健康度-88%，价格差别不太大的话是去官方换电池还是买个-magsafe-外接电池续着？](https://www.v2ex.com/t/819133) 
 - [2021-11-30-小米手机号是被小米放弃了吗？！](https://www.v2ex.com/t/819132) 
 - [2021-11-30-支持颜色管理的-Android-机型有哪些](https://www.v2ex.com/t/819131) 
-- [2021-11-30-被-Reddit-的一个帖子震惊了，国外工作福利真的有这么好吗？](https://www.v2ex.com/t/819129) 
 - [2021-11-30-准备升级-Monterey-求指导](https://www.v2ex.com/t/819128) 
 - [2021-11-30-不懂就问-：关于代码调试](https://www.v2ex.com/t/819127) 
 - [2021-11-30-求助，-Manjaro-经常性卡顿](https://www.v2ex.com/t/819124) 

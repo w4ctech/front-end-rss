@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-11-30 18:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-11-30 18:25:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1444,7 +1444,6 @@
 - [2021-11-30-iPhone-12-电池健康度-88%，价格差别不太大的话是去官方换电池还是买个-magsafe-外接电池续着？](https://www.v2ex.com/t/819133) 
 - [2021-11-30-小米手机号是被小米放弃了吗？！](https://www.v2ex.com/t/819132) 
 - [2021-11-30-支持颜色管理的-Android-机型有哪些](https://www.v2ex.com/t/819131) 
-- [2021-11-30-被-Reddit-的一个帖子震惊了，国外工作福利真的有这么好吗？](https://www.v2ex.com/t/819129) 
 - [2021-11-30-准备升级-Monterey-求指导](https://www.v2ex.com/t/819128) 
 - [2021-11-30-求助，-Manjaro-经常性卡顿](https://www.v2ex.com/t/819124) 
 - [2021-11-30-神器jupyter，终于来了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14824&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492542%26amp%3Bidx%3D2%26amp%3Bsn%3D7203eb37810847bf2dd3e5bbcf1c50c1%26amp%3Bchksm%3Dfa3f02e5cd488bf3aefd482f5f67436615f15b65a0ce01c078cdffa8ba5fa426189ecb6e2869%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1474,13 +1473,13 @@
 - [2021-11-30-Redis-线程模型的前世今生](https://toutiao.io/k/szboze1) 
 - [2021-11-30-Android-新技术动向及开发心得](https://toutiao.io/k/nq293zx) 
 - [2021-11-30-Cadence-DSP-算子开发上手指南](https://toutiao.io/k/hy811qq) 
-- [2021-11-30-推荐-面渣逆袭：线程池夺命连环十八问](https://toutiao.io/k/g3u1qkm) 
 - [2021-11-30-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
-- [2021-11-30-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
+- [2021-11-30-推荐-面渣逆袭：线程池夺命连环十八问](https://toutiao.io/k/g3u1qkm) 
+- [2021-11-30-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) 
 - [2021-11-30-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
 - [2021-11-30-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
-- [2021-11-30-推荐-亿级流量系统架构演进之路](https://toutiao.io/k/nmwgk0i) 
 - [2021-11-30-推荐-开源微服务-API-网关，单核-2-万-QPS，今年最值得学习的开源项目](https://toutiao.io/k/vo7i0r2) 
-- [2021-11-30-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) 
+- [2021-11-30-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
 - [2021-11-30-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) 
-- [2021-11-30-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) 
+- [2021-11-30-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) 
+- [2021-11-30-推荐-亿级流量系统架构演进之路](https://toutiao.io/k/nmwgk0i) 

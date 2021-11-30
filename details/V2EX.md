@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-11-30 12:28:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-11-30 12:48:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-11-30-被-Reddit-的一个帖子震惊了，国外工作福利真的有这么好吗？](https://www.v2ex.com/t/819129) 
 - [2021-11-30-准备升级-Monterey-求指导](https://www.v2ex.com/t/819128) 
 - [2021-11-30-不懂就问-：关于代码调试](https://www.v2ex.com/t/819127) 
 - [2021-11-30-求助，-Manjaro-经常性卡顿](https://www.v2ex.com/t/819124) 
@@ -12,7 +13,6 @@
 - [2021-11-30-Monterey-版本中,发现的一个启动台的-BUG](https://www.v2ex.com/t/819120) 
 - [2021-11-30-高级测试是不是都是做持续集成的？](https://www.v2ex.com/t/819119) 
 - [2021-11-30-大佬们求问有无虚拟定位-app-可以改飞书的打卡？](https://www.v2ex.com/t/819118) 
-- [2021-11-30-Java-远程全职/-15000-22000](https://www.v2ex.com/t/819117) 
 - [2021-11-30-内推奖金平分-推荐专家奖励特斯拉，资深奖励价值五万苹果全家桶，简历通过就有钱拿！](https://www.v2ex.com/t/819116) 
 - [2021-11-30-有-Monterey-12.0.1-下原生的#-邮件-APP-#-CPU-时不时-100%-的情况吗？](https://www.v2ex.com/t/819115) 
 - [2021-11-30-zerotier-能不能自定义-hosts](https://www.v2ex.com/t/819114) 
@@ -44,4 +44,3 @@
 - [2021-11-30-请问谷歌-STEP-项目的具体情况](https://www.v2ex.com/t/819083) 
 - [2021-11-30-Java-后端怎么快速写前端](https://www.v2ex.com/t/819081) 
 - [2021-11-30-Vuex-的问题，使用-useStore获取到的-store，和直接-import-store-有什么区别吗？](https://www.v2ex.com/t/819080) 
-- [2021-11-30-PHP8.1-发布了,好像大家都不太关注呢](https://www.v2ex.com/t/819079) 

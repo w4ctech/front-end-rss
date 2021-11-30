@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 12:28:37，:rocket: 更新条数: +1533， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 12:48:51，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,12 +66,14 @@
 
 
 - [2021-11-30-最新疫情：全国新冠累计确诊98711例-累计接种新冠疫苗超24.99亿剂次](https://m.caixin.com/m/2021-11-30/101811777.html) ![](assets/new.png)  
+- [2021-11-30-奥密克戎是否影响北京冬奥会举办？外交部：一定如期举行](https://international.caixin.com/m/2021-11-30/101811923.html) ![](assets/new.png)  
 - [2021-11-30-奥密克戎已传至十余国-潜在传播力明显增强](https://m.caixin.com/m/2021-11-30/101811873.html) ![](assets/new.png)  
 - [2021-11-30-上海本轮疫情源于境外输入病毒污染的航空器](https://companies.caixin.com/m/2021-11-30/101811710.html) ![](assets/new.png)  
-- [2021-11-30-香港Omicron输入个案增至3宗-两人在非洲感染至今无症状](https://m.caixin.com/m/2021-11-30/101811569.html) ![](assets/new.png)  
 - [2021-11-30-最新海外疫情：新冠感染超2.61亿-累计接种新冠疫苗超79.11亿剂次](https://m.caixin.com/m/2021-11-30/101811774.html) ![](assets/new.png)  
+- [2021-11-30-香港Omicron输入个案增至3宗-两人在非洲感染至今无症状](https://m.caixin.com/m/2021-11-30/101811569.html) ![](assets/new.png)  
 - [2021-11-30-【境内疫情观察】内蒙古新增21例本土病例（11月29日）](https://database.caixin.com/m/2021-11-30/101811723.html) ![](assets/new.png)  
 - [2021-11-30-世卫警告高感染风险-新马开放陆路边境｜大流行手记（11月29日）](https://m.caixin.com/m/2021-11-30/101811507.html) ![](assets/new.png)  
+- [2021-11-30-拜登：无须对奥密克戎感到恐慌-美国今冬不会“封城”](https://international.caixin.com/m/2021-11-30/101811927.html) ![](assets/new.png)  
 - [2021-11-29-内蒙满洲里首轮全员核酸检出阳性样本60份-航班火车停运](https://m.caixin.com/m/2021-11-29/101811305.html) ![](assets/new.png)  
 - [2021-11-29-【境内疫情观察】内蒙古新增20例本土病例（11月28日）](https://database.caixin.com/m/2021-11-29/101811170.html) ![](assets/new.png)  
 - [2021-11-29-多国报告Omicron变异株感染病例，南非或将迎来第四波疫情｜大流行手记（11月28日）](https://m.caixin.com/m/2021-11-29/101810981.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2021-11-28-内蒙古满洲里新增17例确诊-正开展全员核酸检测](https://m.caixin.com/m/2021-11-28/101810913.html) ![](assets/new.png)  
 - [2021-11-28-【境内疫情观察】内蒙古满洲里开展全员核酸检测工作（11月27日）](https://database.caixin.com/m/2021-11-28/101810886.html) ![](assets/new.png)  
 - [2021-11-28-默沙东新冠口服药有效率下调-Novavax针对新变种研发疫苗｜大流行手记（11月27日）](https://m.caixin.com/m/2021-11-28/101810847.html) ![](assets/new.png)  
-- [2021-11-28-聚焦｜张文宏：南非新现病毒有多大威胁？](https://opinion.caixin.com/m/2021-11-28/101810880.html) ![](assets/new.png)  
-- [2021-11-27-内蒙古满洲里现3例阳性，系货场员工](https://m.caixin.com/m/2021-11-27/101810704.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-11-30-被-Reddit-的一个帖子震惊了，国外工作福利真的有这么好吗？](https://www.v2ex.com/t/819129) ![](assets/new.png)  
 - [2021-11-30-准备升级-Monterey-求指导](https://www.v2ex.com/t/819128) ![](assets/new.png)  
 - [2021-11-30-不懂就问-：关于代码调试](https://www.v2ex.com/t/819127) ![](assets/new.png)  
 - [2021-11-30-求助，-Manjaro-经常性卡顿](https://www.v2ex.com/t/819124) ![](assets/new.png)  
@@ -501,7 +502,6 @@
 - [2021-11-30-Monterey-版本中,发现的一个启动台的-BUG](https://www.v2ex.com/t/819120) ![](assets/new.png)  
 - [2021-11-30-高级测试是不是都是做持续集成的？](https://www.v2ex.com/t/819119) ![](assets/new.png)  
 - [2021-11-30-大佬们求问有无虚拟定位-app-可以改飞书的打卡？](https://www.v2ex.com/t/819118) ![](assets/new.png)  
-- [2021-11-30-Java-远程全职/-15000-22000](https://www.v2ex.com/t/819117) ![](assets/new.png)  
 - [2021-11-30-内推奖金平分-推荐专家奖励特斯拉，资深奖励价值五万苹果全家桶，简历通过就有钱拿！](https://www.v2ex.com/t/819116) ![](assets/new.png)  
 - [2021-11-30-有-Monterey-12.0.1-下原生的#-邮件-APP-#-CPU-时不时-100%-的情况吗？](https://www.v2ex.com/t/819115) ![](assets/new.png)  
 - [2021-11-30-zerotier-能不能自定义-hosts](https://www.v2ex.com/t/819114) ![](assets/new.png)  

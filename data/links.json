@@ -10,6 +10,11 @@
         "date": "2021-11-30"
       },
       {
+        "title": "奥密克戎是否影响北京冬奥会举办？外交部：一定如期举行",
+        "link": "https://international.caixin.com/m/2021-11-30/101811923.html",
+        "date": "2021-11-30"
+      },
+      {
         "title": "奥密克戎已传至十余国 潜在传播力明显增强",
         "link": "https://m.caixin.com/m/2021-11-30/101811873.html",
         "date": "2021-11-30"
@@ -20,13 +25,13 @@
         "date": "2021-11-30"
       },
       {
-        "title": "香港Omicron输入个案增至3宗 两人在非洲感染至今无症状",
-        "link": "https://m.caixin.com/m/2021-11-30/101811569.html",
+        "title": "最新海外疫情：新冠感染超2.61亿 累计接种新冠疫苗超79.11亿剂次",
+        "link": "https://m.caixin.com/m/2021-11-30/101811774.html",
         "date": "2021-11-30"
       },
       {
-        "title": "最新海外疫情：新冠感染超2.61亿 累计接种新冠疫苗超79.11亿剂次",
-        "link": "https://m.caixin.com/m/2021-11-30/101811774.html",
+        "title": "香港Omicron输入个案增至3宗 两人在非洲感染至今无症状",
+        "link": "https://m.caixin.com/m/2021-11-30/101811569.html",
         "date": "2021-11-30"
       },
       {
@@ -37,6 +42,11 @@
       {
         "title": "世卫警告高感染风险 新马开放陆路边境｜大流行手记（11月29日）",
         "link": "https://m.caixin.com/m/2021-11-30/101811507.html",
+        "date": "2021-11-30"
+      },
+      {
+        "title": "拜登：无须对奥密克戎感到恐慌 美国今冬不会“封城”",
+        "link": "https://international.caixin.com/m/2021-11-30/101811927.html",
         "date": "2021-11-30"
       },
       {
@@ -7414,6 +7424,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "被 Reddit 的一个帖子震惊了，国外工作福利真的有这么好吗？",
+        "link": "https://www.v2ex.com/t/819129",
+        "date": "2021-11-30"
+      },
+      {
         "title": "准备升级 Monterey 求指导",
         "link": "https://www.v2ex.com/t/819128",
         "date": "2021-11-30"
@@ -7446,11 +7461,6 @@
       {
         "title": "大佬们求问有无虚拟定位 app 可以改飞书的打卡？",
         "link": "https://www.v2ex.com/t/819118",
-        "date": "2021-11-30"
-      },
-      {
-        "title": "Java 远程全职/ 15000-22000",
-        "link": "https://www.v2ex.com/t/819117",
         "date": "2021-11-30"
       },
       {
@@ -7606,11 +7616,6 @@
       {
         "title": "Vuex 的问题，使用 useStore()获取到的 store，和直接 import store 有什么区别吗？",
         "link": "https://www.v2ex.com/t/819080",
-        "date": "2021-11-30"
-      },
-      {
-        "title": "PHP8.1 发布了,好像大家都不太关注呢",
-        "link": "https://www.v2ex.com/t/819079",
         "date": "2021-11-30"
       }
     ]
@@ -7828,23 +7833,8 @@
         "date": "2021-11-30"
       },
       {
-        "title": "[推荐] 读者诉苦：Redis 宕机，数据丢了，老板要辞退我",
-        "link": "https://toutiao.io/k/xa7jahy",
-        "date": "2021-11-30"
-      },
-      {
-        "title": "[推荐] 开源微服务 API 网关，单核 2 万 QPS，今年最值得学习的开源项目",
-        "link": "https://toutiao.io/k/vo7i0r2",
-        "date": "2021-11-30"
-      },
-      {
-        "title": "[推荐] 聊聊接口性能优化的 11 个小技巧",
-        "link": "https://toutiao.io/k/4i9d6w2",
-        "date": "2021-11-30"
-      },
-      {
-        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
-        "link": "https://toutiao.io/k/huoy9s9",
+        "title": "[推荐] 最全的 Git 常用命令速查（2021 版）",
+        "link": "https://toutiao.io/k/omfqktk",
         "date": "2021-11-30"
       },
       {
@@ -7853,18 +7843,13 @@
         "date": "2021-11-30"
       },
       {
-        "title": "[推荐] 1 万行代码，单机 50 万 QPS，今年最值得学习的开源 RPC 框架",
-        "link": "https://toutiao.io/k/5fkacdj",
+        "title": "[推荐] 开源微服务 API 网关，单核 2 万 QPS，今年最值得学习的开源项目",
+        "link": "https://toutiao.io/k/vo7i0r2",
         "date": "2021-11-30"
       },
       {
-        "title": "[推荐] 装了这几个 IDEA 插件，基本上一站式开发了",
-        "link": "https://toutiao.io/k/5l4hrcp",
-        "date": "2021-11-30"
-      },
-      {
-        "title": "[推荐] 记一次提升 18 倍的性能优化",
-        "link": "https://toutiao.io/k/4m3cbld",
+        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
+        "link": "https://toutiao.io/k/huoy9s9",
         "date": "2021-11-30"
       },
       {
@@ -7873,23 +7858,23 @@
         "date": "2021-11-30"
       },
       {
-        "title": "[推荐] 面渣逆袭：线程池夺命连环十八问",
-        "link": "https://toutiao.io/k/g3u1qkm",
-        "date": "2021-11-30"
-      },
-      {
-        "title": "[推荐] 最全的 Git 常用命令速查（2021 版）",
-        "link": "https://toutiao.io/k/omfqktk",
-        "date": "2021-11-30"
-      },
-      {
-        "title": "[推荐] Kubernetes Deployment 的故障排查可视化指南（2021 中文版）",
-        "link": "https://toutiao.io/k/cd9u887",
-        "date": "2021-11-30"
-      },
-      {
         "title": "[推荐] 干货总结！Kafka 面试大全（万字长文，37 张图，28 个知识点）",
         "link": "https://toutiao.io/k/ch3u5rs",
+        "date": "2021-11-30"
+      },
+      {
+        "title": "[推荐] 记一次提升 18 倍的性能优化",
+        "link": "https://toutiao.io/k/4m3cbld",
+        "date": "2021-11-30"
+      },
+      {
+        "title": "[推荐] 1 万行代码，单机 50 万 QPS，今年最值得学习的开源 RPC 框架",
+        "link": "https://toutiao.io/k/5fkacdj",
+        "date": "2021-11-30"
+      },
+      {
+        "title": "[推荐] 读者诉苦：Redis 宕机，数据丢了，老板要辞退我",
+        "link": "https://toutiao.io/k/xa7jahy",
         "date": "2021-11-30"
       },
       {
@@ -7898,8 +7883,28 @@
         "date": "2021-11-30"
       },
       {
+        "title": "[推荐] 面渣逆袭：线程池夺命连环十八问",
+        "link": "https://toutiao.io/k/g3u1qkm",
+        "date": "2021-11-30"
+      },
+      {
         "title": "[推荐] 2021 年最佳开源软件榜单｜InfoWorld",
         "link": "https://toutiao.io/k/swk6nu6",
+        "date": "2021-11-30"
+      },
+      {
+        "title": "[推荐] 亿级流量系统架构演进之路",
+        "link": "https://toutiao.io/k/nmwgk0i",
+        "date": "2021-11-30"
+      },
+      {
+        "title": "[推荐] Kubernetes Deployment 的故障排查可视化指南（2021 中文版）",
+        "link": "https://toutiao.io/k/cd9u887",
+        "date": "2021-11-30"
+      },
+      {
+        "title": "[推荐] 聊聊接口性能优化的 11 个小技巧",
+        "link": "https://toutiao.io/k/4i9d6w2",
         "date": "2021-11-30"
       }
     ]

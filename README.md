@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 15:13:19，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 15:23:10，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-11-30-最近烦心事，关于电脑](https://www.v2ex.com/t/819159) ![](assets/new.png)  
 - [2021-11-30-上海-Afterpay-招聘-iOS-/-安卓-开发工程师](https://www.v2ex.com/t/819158) ![](assets/new.png)  
 - [2021-11-30-有没有每日自动重复收集的表单,-类似于-每日健康上报](https://www.v2ex.com/t/819157) ![](assets/new.png)  
 - [2021-11-30-广州-小鹏汽车-产品、开发-多个岗位-双休-包双餐-有股票](https://www.v2ex.com/t/819156) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-11-30-人在国外-想咨询一些关于远程桌面、回国的问题](https://www.v2ex.com/t/819140) ![](assets/new.png)  
 - [2021-11-30-有没有-Typora-代替软件，求推荐啊？](https://www.v2ex.com/t/819138) ![](assets/new.png)  
 - [2021-11-30-写完-Python-写-JavaScript-经常因为一个标点符号浪费好多时间](https://www.v2ex.com/t/819137) ![](assets/new.png)  
-- [2021-11-30--求职-北京-Java-深夜发文：-21-届毕业半年的“练习生”](https://www.v2ex.com/t/819136) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 07:39:46，:rocket: 更新条数: +1531， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 07:54:46，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,10 @@
 
 
 - [2021-11-30-11月29日全国新增新冠39例-内蒙古本土21例](https://m.caixin.com/m/2021-11-30/101811513.html) ![](assets/new.png)  
+- [2021-11-30-上海本轮疫情源于境外输入病毒污染的航空器](https://companies.caixin.com/m/2021-11-30/101811710.html) ![](assets/new.png)  
 - [2021-11-30-香港Omicron输入个案增至3宗-两人在非洲感染至今无症状](https://m.caixin.com/m/2021-11-30/101811569.html) ![](assets/new.png)  
+- [2021-11-30-【境内疫情观察】内蒙古新增21例本土病例（11月29日）](https://database.caixin.com/m/2021-11-30/101811723.html) ![](assets/new.png)  
+- [2021-11-30-【境内疫情观察】内蒙古新增21例本土病例（11月29日）](https://database.caixin.com/m/2021-11-30/101811723.html) ![](assets/new.png)  
 - [2021-11-30-世卫警告高感染风险-新马开放陆路边境｜大流行手记（11月29日）](https://m.caixin.com/m/2021-11-30/101811507.html) ![](assets/new.png)  
 - [2021-11-29-习近平：中国将再向非洲提供10亿剂疫苗](https://china.caixin.com/m/2021-11-29/101811420.html) ![](assets/new.png)  
 - [2021-11-29-最新海外疫情：新冠感染超2.6亿-累计接种新冠疫苗超78.78亿剂次](https://m.caixin.com/m/2021-11-29/101811339.html) ![](assets/new.png)  
@@ -82,9 +85,6 @@
 - [2021-11-28-默沙东新冠口服药有效率下调-Novavax针对新变种研发疫苗｜大流行手记（11月27日）](https://m.caixin.com/m/2021-11-28/101810847.html) ![](assets/new.png)  
 - [2021-11-28-聚焦｜张文宏：南非新现病毒有多大威胁？](https://opinion.caixin.com/m/2021-11-28/101810880.html) ![](assets/new.png)  
 - [2021-11-27-内蒙古满洲里现3例阳性，系货场员工](https://m.caixin.com/m/2021-11-27/101810704.html) ![](assets/new.png)  
-- [2021-11-27-上海完成新冠溯源-感染源自外省市境外输入Delta病毒](https://m.caixin.com/m/2021-11-27/101810656.html) ![](assets/new.png)  
-- [2021-11-27-上海20多家医院陆续停诊-卫健委回应称防疫排查需要](https://m.caixin.com/m/2021-11-27/101810534.html) ![](assets/new.png)  
-- [2021-11-27-【境内疫情观察】上海3例本土病例均感染Delta变异株（11月26日）](https://database.caixin.com/m/2021-11-27/101810764.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2021-11-30-M1-MBA-切换屏幕也开始掉帧了，难以接受](https://www.v2ex.com/t/819057) ![](assets/new.png)  
+- [2021-11-30-深圳社保最低档太低了](https://www.v2ex.com/t/819056) ![](assets/new.png)  
+- [2021-11-30-投简历时不小心投到现在的公司怎么破](https://www.v2ex.com/t/819055) ![](assets/new.png)  
+- [2021-11-30-吐槽开车并线不看路况的](https://www.v2ex.com/t/819053) ![](assets/new.png)  
+- [2021-11-30-中英文混排时你会注意标点符号的使用吗?会遵循怎样的规范?](https://www.v2ex.com/t/819052) ![](assets/new.png)  
+- [2021-11-30-一页纸需求的应对方法-——-五步法](https://www.v2ex.com/t/819051) ![](assets/new.png)  
 - [2021-11-30-16-寸今日收货后-无奈申请换货](https://www.v2ex.com/t/819050) ![](assets/new.png)  
 - [2021-11-30-各位大佬，有了解人社部-LEAF6.2-框架的么](https://www.v2ex.com/t/819049) ![](assets/new.png)  
 - [2021-11-30-ios-的-Tim-是真的垃圾](https://www.v2ex.com/t/819047) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-11-30-一个-k8s-疑问](https://www.v2ex.com/t/819038) ![](assets/new.png)  
 - [2021-11-30-迫于想铲屎-有没有喵星人幼崽](https://www.v2ex.com/t/819037) ![](assets/new.png)  
 - [2021-11-30-你有什么单文件-.exe-工具推荐?](https://www.v2ex.com/t/819036) ![](assets/new.png)  
-- [2021-11-30-请教-JVM-GC-问题](https://www.v2ex.com/t/819035) ![](assets/new.png)  
-- [2021-11-30-mariadb-主从复制已开启，从库就死锁，何解?](https://www.v2ex.com/t/819034) ![](assets/new.png)  
-- [2021-11-30-如何在家里远程办公室的-Windows-电脑](https://www.v2ex.com/t/819032) ![](assets/new.png)  
-- [2021-11-30-自学-Python-迷茫了怎么办？](https://www.v2ex.com/t/819030) ![](assets/new.png)  
-- [2021-11-30-请问-openresty-可以实现这个功能吗？](https://www.v2ex.com/t/819029) ![](assets/new.png)  
-- [2021-11-30-大佬们，有没有适合前端小白的-web-开发项目（期末考试-emmmm），类型不限，知识点不限，最后根据效果得分。](https://www.v2ex.com/t/819028) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 07:54:46，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 08:13:22，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-11-30-请教一下大佬们国航的波音-744-和空客-33A-选哪个？](https://www.v2ex.com/t/819062) ![](assets/new.png)  
+- [2021-11-30-在虚拟机中跑微信，-QQ-这些-IM-软件，来消息的时候主机不能提醒，有办法解决吗](https://www.v2ex.com/t/819061) ![](assets/new.png)  
+- [2021-11-30-请问一下，-60w-反冲的显示器，可以给-10-核-m1-pro-用吗？](https://www.v2ex.com/t/819060) ![](assets/new.png)  
 - [2021-11-30-M1-MBA-切换屏幕也开始掉帧了，难以接受](https://www.v2ex.com/t/819057) ![](assets/new.png)  
 - [2021-11-30-深圳社保最低档太低了](https://www.v2ex.com/t/819056) ![](assets/new.png)  
 - [2021-11-30-投简历时不小心投到现在的公司怎么破](https://www.v2ex.com/t/819055) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-11-30-上海内推-众安保险子公司科技前端-后端-测试-产品-项管都有](https://www.v2ex.com/t/819041) ![](assets/new.png)  
 - [2021-11-30-MacBook-Pro-M1-Pro-触控板-Command-+-Click-问题](https://www.v2ex.com/t/819040) ![](assets/new.png)  
 - [2021-11-30-移动宽带千兆还是用千兆光猫？](https://www.v2ex.com/t/819039) ![](assets/new.png)  
-- [2021-11-30-一个-k8s-疑问](https://www.v2ex.com/t/819038) ![](assets/new.png)  
-- [2021-11-30-迫于想铲屎-有没有喵星人幼崽](https://www.v2ex.com/t/819037) ![](assets/new.png)  
-- [2021-11-30-你有什么单文件-.exe-工具推荐?](https://www.v2ex.com/t/819036) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-11-30 11:09:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-11-30 11:15:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-11-30-关于自动化将报告发送到客户微信群的实现方式](https://www.v2ex.com/t/819113) 
+- [2021-11-30-农芽网是个什么网，-v-站也爬？](https://www.v2ex.com/t/819112) 
 - [2021-11-30-我们目前在寻找游戏方面的合作伙伴，要求具有游戏全流程开发制作能力](https://www.v2ex.com/t/819111) 
 - [2021-11-30-Alidns-查询-cdn.jsdelivr.net-会返回国外节点（附带-Edns-为-119.6.6.6）](https://www.v2ex.com/t/819110) 
 - [2021-11-30-大家写-Python-项目时，还在用-pip-freeze-命令导出依赖吗](https://www.v2ex.com/t/819109) 
@@ -43,5 +45,3 @@
 - [2021-11-30-JetBrains-发布全新轻量级编辑器-Fleet](https://www.v2ex.com/t/819067) 
 - [2021-11-30-苹果“提醒事项”体验真的很糟糕](https://www.v2ex.com/t/819066) 
 - [2021-11-30-申请了单独的一级域名想用在-qnap-上，求问](https://www.v2ex.com/t/819064) 
-- [2021-11-30-#后端（-Java-/-Python-/go/node-#前端（react+后端任意一种语言）#基础架构（-Java-/-Python-）#安卓（有上线成品）#iOS（有上线成品）#ETL熟悉了解-click-ho...](https://www.v2ex.com/t/819063) 
-- [2021-11-30-请教一下大佬们国航的波音-744-和空客-33A-选哪个？](https://www.v2ex.com/t/819062) 

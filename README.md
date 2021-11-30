@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 11:09:37，:rocket: 更新条数: +1533， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 11:15:47，:rocket: 更新条数: +1533， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-11-30-关于自动化将报告发送到客户微信群的实现方式](https://www.v2ex.com/t/819113) ![](assets/new.png)  
+- [2021-11-30-农芽网是个什么网，-v-站也爬？](https://www.v2ex.com/t/819112) ![](assets/new.png)  
 - [2021-11-30-我们目前在寻找游戏方面的合作伙伴，要求具有游戏全流程开发制作能力](https://www.v2ex.com/t/819111) ![](assets/new.png)  
 - [2021-11-30-Alidns-查询-cdn.jsdelivr.net-会返回国外节点（附带-Edns-为-119.6.6.6）](https://www.v2ex.com/t/819110) ![](assets/new.png)  
 - [2021-11-30-大家写-Python-项目时，还在用-pip-freeze-命令导出依赖吗](https://www.v2ex.com/t/819109) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-11-30-为了减肥和开启副业，我建了一个学习搭子的群，欢迎怀揣梦想却被惰性所累，缺乏行动力的人进来互帮互助](https://www.v2ex.com/t/819095) ![](assets/new.png)  
 - [2021-11-30-如何在-Windows10+中快乐地输入-emoji-❓](https://www.v2ex.com/t/819094) ![](assets/new.png)  
 - [2021-11-30-联通普通家庭宽带国际出口限速严重](https://www.v2ex.com/t/819093) ![](assets/new.png)  
-- [2021-11-30-IDEA-里的-Kotlin-插件怎么卸载？看着烦](https://www.v2ex.com/t/819092) ![](assets/new.png)  
-- [2021-11-30-WOL-远程开机插座，仅-23.5](https://www.v2ex.com/t/819091) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-11-30 09:54:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-11-30 10:11:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-11-30-「武汉」新思科技-SIG-部门招聘-软件开发工程师（-Java-）](https://www.v2ex.com/t/819090) 
 - [2021-11-30-树莓派在-Raspberry-OS-Bullseye-下-ssh-登录很慢](https://www.v2ex.com/t/819087) 
 - [2021-11-30-求教大佬们一个算法问题](https://www.v2ex.com/t/819086) 
 - [2021-11-30-一个关于访问-k8s-内部服务的问题](https://www.v2ex.com/t/819084) 
@@ -16,7 +17,6 @@
 - [2021-11-30-iOS-上有类似沙拉查词这种的词典软件吗?](https://www.v2ex.com/t/819077) 
 - [2021-11-30-OReilly-年度优惠又来了](https://www.v2ex.com/t/819074) 
 - [2021-11-30-当前的-Monterey-beta-版本-bug-太多了，受不了了，暂时用回-Windows-了](https://www.v2ex.com/t/819073) 
-- [2021-11-30-中望大幅招聘-c++研发工程师](https://www.v2ex.com/t/819072) 
 - [2021-11-30-超低价拿下-16-寸-M1-Max，开心](https://www.v2ex.com/t/819071) 
 - [2021-11-30-macOS12-卸载自带英文输入法的快捷姿势是什么？](https://www.v2ex.com/t/819070) 
 - [2021-11-30-Mac-有没有不掉帧的蓝牙鼠标？](https://www.v2ex.com/t/819069) 
@@ -42,7 +42,3 @@
 - [2021-11-30-偏执狂还能生存吗?](https://www.v2ex.com/t/819044) 
 - [2021-11-30-2021-年想退订-Parallels-的几个理由：-macOS-12-支持几乎为-0，-macOS-11-最新版本无法安装](https://www.v2ex.com/t/819043) 
 - [2021-11-30-十一月要结束了，来为十二月定小目标吧！](https://www.v2ex.com/t/819042) 
-- [2021-11-30-上海内推-众安保险子公司科技前端-后端-测试-产品-项管都有](https://www.v2ex.com/t/819041) 
-- [2021-11-30-MacBook-Pro-M1-Pro-触控板-Command-+-Click-问题](https://www.v2ex.com/t/819040) 
-- [2021-11-30-移动宽带千兆还是用千兆光猫？](https://www.v2ex.com/t/819039) 
-- [2021-11-30-一个-k8s-疑问](https://www.v2ex.com/t/819038) 

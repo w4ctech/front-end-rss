@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 09:54:48，:rocket: 更新条数: +109， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 10:11:58，:rocket: 更新条数: +1529， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-11-30-最新疫情：全国新冠累计确诊98711例-累计接种新冠疫苗超24.99亿剂次](https://m.caixin.com/m/2021-11-30/101811777.html) ![](assets/new.png)  
+- [2021-11-30-上海本轮疫情源于境外输入病毒污染的航空器](https://companies.caixin.com/m/2021-11-30/101811710.html) ![](assets/new.png)  
+- [2021-11-30-香港Omicron输入个案增至3宗-两人在非洲感染至今无症状](https://m.caixin.com/m/2021-11-30/101811569.html) ![](assets/new.png)  
+- [2021-11-30-最新海外疫情：新冠感染超2.61亿-累计接种新冠疫苗超79.11亿剂次](https://m.caixin.com/m/2021-11-30/101811774.html) ![](assets/new.png)  
+- [2021-11-30-【境内疫情观察】内蒙古新增21例本土病例（11月29日）](https://database.caixin.com/m/2021-11-30/101811723.html) ![](assets/new.png)  
+- [2021-11-30-世卫警告高感染风险-新马开放陆路边境｜大流行手记（11月29日）](https://m.caixin.com/m/2021-11-30/101811507.html) ![](assets/new.png)  
+- [2021-11-29-习近平：中国将再向非洲提供10亿剂疫苗](https://china.caixin.com/m/2021-11-29/101811420.html) ![](assets/new.png)  
+- [2021-11-29-内蒙满洲里首轮全员核酸检出阳性样本60份-航班火车停运](https://m.caixin.com/m/2021-11-29/101811305.html) ![](assets/new.png)  
+- [2021-11-29-【境内疫情观察】内蒙古新增20例本土病例（11月28日）](https://database.caixin.com/m/2021-11-29/101811170.html) ![](assets/new.png)  
+- [2021-11-29-多国报告Omicron变异株感染病例，南非或将迎来第四波疫情｜大流行手记（11月28日）](https://m.caixin.com/m/2021-11-29/101810981.html) ![](assets/new.png)  
+- [2021-11-29-世卫称判断奥密克戎严重性尚需数日到数周-多国按下出入境“暂停键”](https://m.caixin.com/m/2021-11-29/101811267.html) ![](assets/new.png)  
+- [2021-11-29-应对奥密克戎来袭-日本自11月30日起紧急“封国”](https://m.caixin.com/m/2021-11-29/101811140.html) ![](assets/new.png)  
+- [2021-11-29-新冠新变异毒株速被列为“值得关注”-病毒特性待考](https://m.caixin.com/m/2021-11-29/101811133.html) ![](assets/new.png)  
+- [2021-11-29-岸田文雄：自11月30日起暂停所有国家和地区外国人入境](https://international.caixin.com/m/2021-11-29/101811074.html) ![](assets/new.png)  
+- [2021-11-28-内蒙古满洲里新增17例确诊-正开展全员核酸检测](https://m.caixin.com/m/2021-11-28/101810913.html) ![](assets/new.png)  
+- [2021-11-28-【境内疫情观察】内蒙古满洲里开展全员核酸检测工作（11月27日）](https://database.caixin.com/m/2021-11-28/101810886.html) ![](assets/new.png)  
+- [2021-11-28-默沙东新冠口服药有效率下调-Novavax针对新变种研发疫苗｜大流行手记（11月27日）](https://m.caixin.com/m/2021-11-28/101810847.html) ![](assets/new.png)  
+- [2021-11-28-聚焦｜张文宏：南非新现病毒有多大威胁？](https://opinion.caixin.com/m/2021-11-28/101810880.html) ![](assets/new.png)  
+- [2021-11-27-内蒙古满洲里现3例阳性，系货场员工](https://m.caixin.com/m/2021-11-27/101810704.html) ![](assets/new.png)  
+- [2021-11-27-上海完成新冠溯源-感染源自外省市境外输入Delta病毒](https://m.caixin.com/m/2021-11-27/101810656.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -474,6 +494,7 @@
 </summary>
 
 
+- [2021-11-30-「武汉」新思科技-SIG-部门招聘-软件开发工程师（-Java-）](https://www.v2ex.com/t/819090) ![](assets/new.png)  
 - [2021-11-30-树莓派在-Raspberry-OS-Bullseye-下-ssh-登录很慢](https://www.v2ex.com/t/819087) ![](assets/new.png)  
 - [2021-11-30-求教大佬们一个算法问题](https://www.v2ex.com/t/819086) ![](assets/new.png)  
 - [2021-11-30-一个关于访问-k8s-内部服务的问题](https://www.v2ex.com/t/819084) ![](assets/new.png)  
@@ -485,7 +506,6 @@
 - [2021-11-30-iOS-上有类似沙拉查词这种的词典软件吗?](https://www.v2ex.com/t/819077) ![](assets/new.png)  
 - [2021-11-30-OReilly-年度优惠又来了](https://www.v2ex.com/t/819074) ![](assets/new.png)  
 - [2021-11-30-当前的-Monterey-beta-版本-bug-太多了，受不了了，暂时用回-Windows-了](https://www.v2ex.com/t/819073) ![](assets/new.png)  
-- [2021-11-30-中望大幅招聘-c++研发工程师](https://www.v2ex.com/t/819072) ![](assets/new.png)  
 - [2021-11-30-超低价拿下-16-寸-M1-Max，开心](https://www.v2ex.com/t/819071) ![](assets/new.png)  
 - [2021-11-30-macOS12-卸载自带英文输入法的快捷姿势是什么？](https://www.v2ex.com/t/819070) ![](assets/new.png)  
 - [2021-11-30-Mac-有没有不掉帧的蓝牙鼠标？](https://www.v2ex.com/t/819069) ![](assets/new.png)  

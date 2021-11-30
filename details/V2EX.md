@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-11-30 17:54:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-11-30 18:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-11-30-实习-微软亚洲研究院-MSRA-研究实习生—green-AI-实习生](https://www.v2ex.com/t/819172) 
 - [2021-11-30-Washington-Post-的订阅优惠](https://www.v2ex.com/t/819171) 
 - [2021-11-30-武汉-招商证券-招聘-Web-前端-/-Java-开发工程师-/-敏捷教练-/-DevOps-教练](https://www.v2ex.com/t/819170) 
 - [2021-11-30-最近买眼镜所想到的一点商业鬼才](https://www.v2ex.com/t/819169) 
@@ -46,4 +47,3 @@
 - [2021-11-30-准备升级-Monterey-求指导](https://www.v2ex.com/t/819128) 
 - [2021-11-30-不懂就问-：关于代码调试](https://www.v2ex.com/t/819127) 
 - [2021-11-30-求助，-Manjaro-经常性卡顿](https://www.v2ex.com/t/819124) 
-- [2021-11-30-大家-git-分支流程是怎么样的？](https://www.v2ex.com/t/819122) 

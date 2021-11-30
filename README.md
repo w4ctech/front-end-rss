@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 13:10:59，:rocket: 更新条数: +1533， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 13:18:37，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-11-30-小米手机号是被小米放弃了吗？！](https://www.v2ex.com/t/819132) ![](assets/new.png)  
+- [2021-11-30-支持颜色管理的-Android-机型有哪些](https://www.v2ex.com/t/819131) ![](assets/new.png)  
 - [2021-11-30-被-Reddit-的一个帖子震惊了，国外工作福利真的有这么好吗？](https://www.v2ex.com/t/819129) ![](assets/new.png)  
 - [2021-11-30-准备升级-Monterey-求指导](https://www.v2ex.com/t/819128) ![](assets/new.png)  
 - [2021-11-30-不懂就问-：关于代码调试](https://www.v2ex.com/t/819127) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-11-30-大家写-Python-项目时，还在用-pip-freeze-命令导出依赖吗](https://www.v2ex.com/t/819109) ![](assets/new.png)  
 - [2021-11-30-16-寸-m1-max-64G-收到了，-大家有需要测试的可以留言](https://www.v2ex.com/t/819108) ![](assets/new.png)  
 - [2021-11-30-国考有感](https://www.v2ex.com/t/819107) ![](assets/new.png)  
-- [2021-11-30-欧科云链大量招募新同学！](https://www.v2ex.com/t/819105) ![](assets/new.png)  
-- [2021-11-30-类完全背包拓展问题](https://www.v2ex.com/t/819104) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

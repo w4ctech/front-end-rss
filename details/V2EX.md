@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-11-30 20:23:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-11-30 20:39:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-11-30-16-寸-mbp2021-屏幕边缘缝隙较大](https://www.v2ex.com/t/819175) 
 - [2021-11-30-城市选择：多伦多-or-北京](https://www.v2ex.com/t/819174) 
 - [2021-11-30-有没有-jenkins-docker-相关教程，收费也行](https://www.v2ex.com/t/819173) 
 - [2021-11-30-实习-微软亚洲研究院-MSRA-研究实习生—green-AI-实习生](https://www.v2ex.com/t/819172) 

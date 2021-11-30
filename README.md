@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 20:23:23，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 20:39:43，:rocket: 更新条数: +1537， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-11-30-16-寸-mbp2021-屏幕边缘缝隙较大](https://www.v2ex.com/t/819175) ![](assets/new.png)  
 - [2021-11-30-城市选择：多伦多-or-北京](https://www.v2ex.com/t/819174) ![](assets/new.png)  
 - [2021-11-30-有没有-jenkins-docker-相关教程，收费也行](https://www.v2ex.com/t/819173) ![](assets/new.png)  
 - [2021-11-30-实习-微软亚洲研究院-MSRA-研究实习生—green-AI-实习生](https://www.v2ex.com/t/819172) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-11-30-有没有每日自动重复收集的表单,-类似于-每日健康上报](https://www.v2ex.com/t/819157) ![](assets/new.png)  
 - [2021-11-30-广州-小鹏汽车-产品、开发-多个岗位-双休-包双餐-有股票](https://www.v2ex.com/t/819156) ![](assets/new.png)  
 - [2021-11-30-转租｜科兴科学园-1.6-Km｜一房一厅-采光好｜周围极其便利干净｜房东直签](https://www.v2ex.com/t/819155) ![](assets/new.png)  
-- [2021-11-30-Intel-版本的-MBP，-Catalina-vs-Monterey-大家选哪个？](https://www.v2ex.com/t/819154) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

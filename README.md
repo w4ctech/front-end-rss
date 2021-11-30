@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 13:54:55，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 14:12:17，:rocket: 更新条数: +1537， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-11-30-在中文社区，偏向计算机视觉的开源项目应该如何宣传？](https://www.v2ex.com/t/819142) ![](assets/new.png)  
+- [2021-11-30-Apple-Cash-看起来是不太会进中国了](https://www.v2ex.com/t/819141) ![](assets/new.png)  
+- [2021-11-30-人在国外-想咨询一些关于远程桌面、回国的问题](https://www.v2ex.com/t/819140) ![](assets/new.png)  
 - [2021-11-30-有没有-Typora-代替软件，求推荐啊？](https://www.v2ex.com/t/819138) ![](assets/new.png)  
 - [2021-11-30-写完-Python-写-JavaScript-经常因为一个标点符号浪费好多时间](https://www.v2ex.com/t/819137) ![](assets/new.png)  
 - [2021-11-30--求职-北京-Java-深夜发文：-21-届毕业半年的“练习生”](https://www.v2ex.com/t/819136) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-11-30-高级测试是不是都是做持续集成的？](https://www.v2ex.com/t/819119) ![](assets/new.png)  
 - [2021-11-30-大佬们求问有无虚拟定位-app-可以改飞书的打卡？](https://www.v2ex.com/t/819118) ![](assets/new.png)  
 - [2021-11-30-内推奖金平分-推荐专家奖励特斯拉，资深奖励价值五万苹果全家桶，简历通过就有钱拿！](https://www.v2ex.com/t/819116) ![](assets/new.png)  
-- [2021-11-30-有-Monterey-12.0.1-下原生的#-邮件-APP-#-CPU-时不时-100%-的情况吗？](https://www.v2ex.com/t/819115) ![](assets/new.png)  
-- [2021-11-30-zerotier-能不能自定义-hosts](https://www.v2ex.com/t/819114) ![](assets/new.png)  
-- [2021-11-30-关于自动化将报告发送到客户微信群的实现方式](https://www.v2ex.com/t/819113) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,12 +563,12 @@
 - [2021-11-30-每天-React,-Vue，你知道如何原生实现-WebComponent-吗？](https://toutiao.io/k/zkxa7xz) ![](assets/new.png)  
 - [2021-11-30-都-2021-年了，对于服务网格，社区到底在讨论什么？](https://toutiao.io/k/2xk3hhm) ![](assets/new.png)  
 - [2021-11-30-泛型是双刃剑？Go-1.18-编译会慢近-20%](https://toutiao.io/k/xtc4n76) ![](assets/new.png)  
-- [2021-11-30-构建数据网格分布式架构的四项原则](https://toutiao.io/k/b0zutxb) ![](assets/new.png)  
 - [2021-11-30-使用-Hilt-优化客户端代码结构](https://toutiao.io/k/x92pljc) ![](assets/new.png)  
+- [2021-11-30-构建数据网格分布式架构的四项原则](https://toutiao.io/k/b0zutxb) ![](assets/new.png)  
 - [2021-11-30-大数据：HDFS-元数据持久化笔记](https://toutiao.io/k/qzdohkz) ![](assets/new.png)  
+- [2021-11-30-新功能：Prometheus-Agent-模式上手体验](https://toutiao.io/k/bjqqszn) ![](assets/new.png)  
 - [2021-11-30-Lucene-之-PointRangeQuery（二）](https://toutiao.io/k/pn726k5) ![](assets/new.png)  
 - [2021-11-30-秘境探索之一个-.NET-对象从内存分配到内存回收](https://toutiao.io/k/s35gxbc) ![](assets/new.png)  
-- [2021-11-30-新功能：Prometheus-Agent-模式上手体验](https://toutiao.io/k/bjqqszn) ![](assets/new.png)  
 - [2021-11-30-搞不定思想和组织转变，何谈企业转型](https://toutiao.io/k/u4anwrt) ![](assets/new.png)  
 - [2021-11-30-虚拟偶像发展史：TA-们到底如何成功？万字复盘](https://toutiao.io/k/w4l4miv) ![](assets/new.png)  
 - [2021-11-30-Android-新技术动向及开发心得](https://toutiao.io/k/nq293zx) ![](assets/new.png)  

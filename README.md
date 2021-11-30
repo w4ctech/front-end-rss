@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 13:39:20，:rocket: 更新条数: +1535， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 13:54:55，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-11-30-有没有-Typora-代替软件，求推荐啊？](https://www.v2ex.com/t/819138) ![](assets/new.png)  
+- [2021-11-30-写完-Python-写-JavaScript-经常因为一个标点符号浪费好多时间](https://www.v2ex.com/t/819137) ![](assets/new.png)  
+- [2021-11-30--求职-北京-Java-深夜发文：-21-届毕业半年的“练习生”](https://www.v2ex.com/t/819136) ![](assets/new.png)  
 - [2021-11-30-Typora-更新后收费了,最后一个免费版本,如何不让它弹出更新窗口](https://www.v2ex.com/t/819135) ![](assets/new.png)  
 - [2021-11-30-你们的-M1-Max-日常工作温度是多少度啊？](https://www.v2ex.com/t/819134) ![](assets/new.png)  
 - [2021-11-30-iPhone-12-电池健康度-88%，价格差别不太大的话是去官方换电池还是买个-magsafe-外接电池续着？](https://www.v2ex.com/t/819133) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-11-30-有-Monterey-12.0.1-下原生的#-邮件-APP-#-CPU-时不时-100%-的情况吗？](https://www.v2ex.com/t/819115) ![](assets/new.png)  
 - [2021-11-30-zerotier-能不能自定义-hosts](https://www.v2ex.com/t/819114) ![](assets/new.png)  
 - [2021-11-30-关于自动化将报告发送到客户微信群的实现方式](https://www.v2ex.com/t/819113) ![](assets/new.png)  
-- [2021-11-30-农芽网是个什么网，-v-站也爬？](https://www.v2ex.com/t/819112) ![](assets/new.png)  
-- [2021-11-30-我们目前在寻找游戏方面的合作伙伴，要求具有游戏全流程开发制作能力](https://www.v2ex.com/t/819111) ![](assets/new.png)  
-- [2021-11-30-Alidns-查询-cdn.jsdelivr.net-会返回国外节点（附带-Edns-为-119.6.6.6）](https://www.v2ex.com/t/819110) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

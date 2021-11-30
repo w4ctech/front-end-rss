@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 14:54:37，:rocket: 更新条数: +1535， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 15:13:19，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-11-30-上海-Afterpay-招聘-iOS-/-安卓-开发工程师](https://www.v2ex.com/t/819158) ![](assets/new.png)  
+- [2021-11-30-有没有每日自动重复收集的表单,-类似于-每日健康上报](https://www.v2ex.com/t/819157) ![](assets/new.png)  
+- [2021-11-30-广州-小鹏汽车-产品、开发-多个岗位-双休-包双餐-有股票](https://www.v2ex.com/t/819156) ![](assets/new.png)  
 - [2021-11-30-转租｜科兴科学园-1.6-Km｜一房一厅-采光好｜周围极其便利干净｜房东直签](https://www.v2ex.com/t/819155) ![](assets/new.png)  
 - [2021-11-30-Intel-版本的-MBP，-Catalina-vs-Monterey-大家选哪个？](https://www.v2ex.com/t/819154) ![](assets/new.png)  
 - [2021-11-30-AirPodsPro-进水可以走-AC+更换整机吗？](https://www.v2ex.com/t/819153) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-11-30-有没有-Typora-代替软件，求推荐啊？](https://www.v2ex.com/t/819138) ![](assets/new.png)  
 - [2021-11-30-写完-Python-写-JavaScript-经常因为一个标点符号浪费好多时间](https://www.v2ex.com/t/819137) ![](assets/new.png)  
 - [2021-11-30--求职-北京-Java-深夜发文：-21-届毕业半年的“练习生”](https://www.v2ex.com/t/819136) ![](assets/new.png)  
-- [2021-11-30-Typora-更新后收费了,最后一个免费版本,如何不让它弹出更新窗口](https://www.v2ex.com/t/819135) ![](assets/new.png)  
-- [2021-11-30-你们的-M1-Max-日常工作温度是多少度啊？](https://www.v2ex.com/t/819134) ![](assets/new.png)  
-- [2021-11-30-iPhone-12-电池健康度-88%，价格差别不太大的话是去官方换电池还是买个-magsafe-外接电池续着？](https://www.v2ex.com/t/819133) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2021-11-30-都-2021-年了，对于服务网格，社区到底在讨论什么？](https://toutiao.io/k/2xk3hhm) ![](assets/new.png)  
 - [2021-11-30-使用-Hilt-优化客户端代码结构](https://toutiao.io/k/x92pljc) ![](assets/new.png)  
 - [2021-11-30-泛型是双刃剑？Go-1.18-编译会慢近-20%](https://toutiao.io/k/xtc4n76) ![](assets/new.png)  
-- [2021-11-30-构建数据网格分布式架构的四项原则](https://toutiao.io/k/b0zutxb) ![](assets/new.png)  
 - [2021-11-30-新功能：Prometheus-Agent-模式上手体验](https://toutiao.io/k/bjqqszn) ![](assets/new.png)  
+- [2021-11-30-构建数据网格分布式架构的四项原则](https://toutiao.io/k/b0zutxb) ![](assets/new.png)  
 - [2021-11-30-大数据：HDFS-元数据持久化笔记](https://toutiao.io/k/qzdohkz) ![](assets/new.png)  
 - [2021-11-30-Lucene-之-PointRangeQuery（二）](https://toutiao.io/k/pn726k5) ![](assets/new.png)  
 - [2021-11-30-秘境探索之一个-.NET-对象从内存分配到内存回收](https://toutiao.io/k/s35gxbc) ![](assets/new.png)  

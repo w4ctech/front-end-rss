@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-11-30 14:54:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-11-30 15:13:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-11-30-上海-Afterpay-招聘-iOS-/-安卓-开发工程师](https://www.v2ex.com/t/819158) 
+- [2021-11-30-有没有每日自动重复收集的表单,-类似于-每日健康上报](https://www.v2ex.com/t/819157) 
+- [2021-11-30-广州-小鹏汽车-产品、开发-多个岗位-双休-包双餐-有股票](https://www.v2ex.com/t/819156) 
 - [2021-11-30-转租｜科兴科学园-1.6-Km｜一房一厅-采光好｜周围极其便利干净｜房东直签](https://www.v2ex.com/t/819155) 
 - [2021-11-30-Intel-版本的-MBP，-Catalina-vs-Monterey-大家选哪个？](https://www.v2ex.com/t/819154) 
 - [2021-11-30-AirPodsPro-进水可以走-AC+更换整机吗？](https://www.v2ex.com/t/819153) 
@@ -43,5 +46,3 @@
 - [2021-11-30-我们目前在寻找游戏方面的合作伙伴，要求具有游戏全流程开发制作能力](https://www.v2ex.com/t/819111) 
 - [2021-11-30-Alidns-查询-cdn.jsdelivr.net-会返回国外节点（附带-Edns-为-119.6.6.6）](https://www.v2ex.com/t/819110) 
 - [2021-11-30-大家写-Python-项目时，还在用-pip-freeze-命令导出依赖吗](https://www.v2ex.com/t/819109) 
-- [2021-11-30-16-寸-m1-max-64G-收到了，-大家有需要测试的可以留言](https://www.v2ex.com/t/819108) 
-- [2021-11-30-国考有感](https://www.v2ex.com/t/819107) 

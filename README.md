@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 08:54:37，:rocket: 更新条数: +1533， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 09:11:32，:rocket: 更新条数: +1535， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,14 +65,14 @@
 </summary>
 
 
-- [2021-11-30-11月29日全国新增新冠39例-内蒙古本土21例](https://m.caixin.com/m/2021-11-30/101811513.html) ![](assets/new.png)  
+- [2021-11-30-最新疫情：全国新冠累计确诊98711例-累计接种新冠疫苗超24.99亿剂次](https://m.caixin.com/m/2021-11-30/101811777.html) ![](assets/new.png)  
 - [2021-11-30-上海本轮疫情源于境外输入病毒污染的航空器](https://companies.caixin.com/m/2021-11-30/101811710.html) ![](assets/new.png)  
 - [2021-11-30-香港Omicron输入个案增至3宗-两人在非洲感染至今无症状](https://m.caixin.com/m/2021-11-30/101811569.html) ![](assets/new.png)  
+- [2021-11-30-最新海外疫情：新冠感染超2.61亿-累计接种新冠疫苗超79.11亿剂次](https://m.caixin.com/m/2021-11-30/101811774.html) ![](assets/new.png)  
 - [2021-11-30-【境内疫情观察】内蒙古新增21例本土病例（11月29日）](https://database.caixin.com/m/2021-11-30/101811723.html) ![](assets/new.png)  
 - [2021-11-30-【境内疫情观察】内蒙古新增21例本土病例（11月29日）](https://database.caixin.com/m/2021-11-30/101811723.html) ![](assets/new.png)  
 - [2021-11-30-世卫警告高感染风险-新马开放陆路边境｜大流行手记（11月29日）](https://m.caixin.com/m/2021-11-30/101811507.html) ![](assets/new.png)  
 - [2021-11-29-习近平：中国将再向非洲提供10亿剂疫苗](https://china.caixin.com/m/2021-11-29/101811420.html) ![](assets/new.png)  
-- [2021-11-29-最新海外疫情：新冠感染超2.6亿-累计接种新冠疫苗超78.78亿剂次](https://m.caixin.com/m/2021-11-29/101811339.html) ![](assets/new.png)  
 - [2021-11-29-内蒙满洲里首轮全员核酸检出阳性样本60份-航班火车停运](https://m.caixin.com/m/2021-11-29/101811305.html) ![](assets/new.png)  
 - [2021-11-29-【境内疫情观察】内蒙古新增20例本土病例（11月28日）](https://database.caixin.com/m/2021-11-29/101811170.html) ![](assets/new.png)  
 - [2021-11-29-多国报告Omicron变异株感染病例，南非或将迎来第四波疫情｜大流行手记（11月28日）](https://m.caixin.com/m/2021-11-29/101810981.html) ![](assets/new.png)  
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-11-30-OReilly-年度优惠又来了](https://www.v2ex.com/t/819074) ![](assets/new.png)  
+- [2021-11-30-当前的-Monterey-beta-版本-bug-太多了，受不了了，暂时用回-Windows-了](https://www.v2ex.com/t/819073) ![](assets/new.png)  
+- [2021-11-30-中望大幅招聘-c++研发工程师](https://www.v2ex.com/t/819072) ![](assets/new.png)  
+- [2021-11-30-超低价拿下-16-寸-M1-Max，开心](https://www.v2ex.com/t/819071) ![](assets/new.png)  
 - [2021-11-30-macOS12-卸载自带英文输入法的快捷姿势是什么？](https://www.v2ex.com/t/819070) ![](assets/new.png)  
 - [2021-11-30-Mac-有没有不掉帧的蓝牙鼠标？](https://www.v2ex.com/t/819069) ![](assets/new.png)  
 - [2021-11-30-尝试写一个-UI-组件库，工作量似乎有点大值得坚持吗?](https://www.v2ex.com/t/819068) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-11-30-吐槽开车并线不看路况的](https://www.v2ex.com/t/819053) ![](assets/new.png)  
 - [2021-11-30-中英文混排时你会注意标点符号的使用吗?会遵循怎样的规范?](https://www.v2ex.com/t/819052) ![](assets/new.png)  
 - [2021-11-30-一页纸需求的应对方法-——-五步法](https://www.v2ex.com/t/819051) ![](assets/new.png)  
-- [2021-11-30-16-寸今日收货后-无奈申请换货](https://www.v2ex.com/t/819050) ![](assets/new.png)  
-- [2021-11-30-各位大佬，有了解人社部-LEAF6.2-框架的么](https://www.v2ex.com/t/819049) ![](assets/new.png)  
-- [2021-11-30-ios-的-Tim-是真的垃圾](https://www.v2ex.com/t/819047) ![](assets/new.png)  
-- [2021-11-30-时间穿越-20-年，你还能当程序员？](https://www.v2ex.com/t/819046) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,8 +573,8 @@
 - [2021-11-30-虚拟偶像发展史：TA-们到底如何成功？万字复盘](https://toutiao.io/k/w4l4miv) ![](assets/new.png)  
 - [2021-11-30-Android-新技术动向及开发心得](https://toutiao.io/k/nq293zx) ![](assets/new.png)  
 - [2021-11-30-Redis-线程模型的前世今生](https://toutiao.io/k/szboze1) ![](assets/new.png)  
-- [2021-11-30-Cadence-DSP-算子开发上手指南](https://toutiao.io/k/hy811qq) ![](assets/new.png)  
 - [2021-11-30-在-Go-中使用-dockertest-进行集成测试](https://toutiao.io/k/r813zwl) ![](assets/new.png)  
+- [2021-11-30-Cadence-DSP-算子开发上手指南](https://toutiao.io/k/hy811qq) ![](assets/new.png)  
 - [2021-11-30-Serverless：微服务架构的终极模式](https://toutiao.io/k/ssz7b1l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

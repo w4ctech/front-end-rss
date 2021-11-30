@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-11-30 12:15:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-11-30 12:28:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-11-30-准备升级-Monterey-求指导](https://www.v2ex.com/t/819128) 
+- [2021-11-30-不懂就问-：关于代码调试](https://www.v2ex.com/t/819127) 
 - [2021-11-30-求助，-Manjaro-经常性卡顿](https://www.v2ex.com/t/819124) 
 - [2021-11-30-大家-git-分支流程是怎么样的？](https://www.v2ex.com/t/819122) 
 - [2021-11-30-Monterey-版本中,发现的一个启动台的-BUG](https://www.v2ex.com/t/819120) 
@@ -43,5 +45,3 @@
 - [2021-11-30-Java-后端怎么快速写前端](https://www.v2ex.com/t/819081) 
 - [2021-11-30-Vuex-的问题，使用-useStore获取到的-store，和直接-import-store-有什么区别吗？](https://www.v2ex.com/t/819080) 
 - [2021-11-30-PHP8.1-发布了,好像大家都不太关注呢](https://www.v2ex.com/t/819079) 
-- [2021-11-30-一直有个疑问，以前去网吧总是要冲很多网吧会员，为什么没有网吧联盟可以统一充值，每个网吧都能用？](https://www.v2ex.com/t/819078) 
-- [2021-11-30-iOS-上有类似沙拉查词这种的词典软件吗?](https://www.v2ex.com/t/819077) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 22:22:09，:rocket: 更新条数: +1538， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 22:40:46，:rocket: 更新条数: +1538， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -570,8 +570,8 @@
 - [2021-11-30-Lucene-之-PointRangeQuery（二）](https://toutiao.io/k/pn726k5) ![](assets/new.png)  
 - [2021-11-30-秘境探索之一个-.NET-对象从内存分配到内存回收](https://toutiao.io/k/s35gxbc) ![](assets/new.png)  
 - [2021-11-30-搞不定思想和组织转变，何谈企业转型](https://toutiao.io/k/u4anwrt) ![](assets/new.png)  
-- [2021-11-30-虚拟偶像发展史：TA-们到底如何成功？万字复盘](https://toutiao.io/k/w4l4miv) ![](assets/new.png)  
 - [2021-11-30-Redis-线程模型的前世今生](https://toutiao.io/k/szboze1) ![](assets/new.png)  
+- [2021-11-30-虚拟偶像发展史：TA-们到底如何成功？万字复盘](https://toutiao.io/k/w4l4miv) ![](assets/new.png)  
 - [2021-11-30-Android-新技术动向及开发心得](https://toutiao.io/k/nq293zx) ![](assets/new.png)  
 - [2021-11-30-Serverless：微服务架构的终极模式](https://toutiao.io/k/ssz7b1l) ![](assets/new.png)  
 - [2021-11-30-在-Go-中使用-dockertest-进行集成测试](https://toutiao.io/k/r813zwl) ![](assets/new.png)  

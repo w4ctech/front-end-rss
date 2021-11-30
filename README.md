@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 08:13:22，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 08:22:10，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-11-30-申请了单独的一级域名想用在-qnap-上，求问](https://www.v2ex.com/t/819064) ![](assets/new.png)  
+- [2021-11-30-#后端（-Java-/-Python-/go/node-#前端（react+后端任意一种语言）#基础架构（-Java-/-Python-）#安卓（有上线成品）#iOS（有上线成品）#ETL熟悉了解-click-ho...](https://www.v2ex.com/t/819063) ![](assets/new.png)  
 - [2021-11-30-请教一下大佬们国航的波音-744-和空客-33A-选哪个？](https://www.v2ex.com/t/819062) ![](assets/new.png)  
 - [2021-11-30-在虚拟机中跑微信，-QQ-这些-IM-软件，来消息的时候主机不能提醒，有办法解决吗](https://www.v2ex.com/t/819061) ![](assets/new.png)  
 - [2021-11-30-请问一下，-60w-反冲的显示器，可以给-10-核-m1-pro-用吗？](https://www.v2ex.com/t/819060) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-11-30-2021-年想退订-Parallels-的几个理由：-macOS-12-支持几乎为-0，-macOS-11-最新版本无法安装](https://www.v2ex.com/t/819043) ![](assets/new.png)  
 - [2021-11-30-十一月要结束了，来为十二月定小目标吧！](https://www.v2ex.com/t/819042) ![](assets/new.png)  
 - [2021-11-30-上海内推-众安保险子公司科技前端-后端-测试-产品-项管都有](https://www.v2ex.com/t/819041) ![](assets/new.png)  
-- [2021-11-30-MacBook-Pro-M1-Pro-触控板-Command-+-Click-问题](https://www.v2ex.com/t/819040) ![](assets/new.png)  
-- [2021-11-30-移动宽带千兆还是用千兆光猫？](https://www.v2ex.com/t/819039) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

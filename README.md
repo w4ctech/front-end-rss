@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 09:19:04，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 09:35:59，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-11-30-PHP8.1-发布了,好像大家都不太关注呢](https://www.v2ex.com/t/819079) ![](assets/new.png)  
+- [2021-11-30-一直有个疑问，以前去网吧总是要冲很多网吧会员，为什么没有网吧联盟可以统一充值，每个网吧都能用？](https://www.v2ex.com/t/819078) ![](assets/new.png)  
+- [2021-11-30-iOS-上有类似沙拉查词这种的词典软件吗?](https://www.v2ex.com/t/819077) ![](assets/new.png)  
 - [2021-11-30-OReilly-年度优惠又来了](https://www.v2ex.com/t/819074) ![](assets/new.png)  
 - [2021-11-30-当前的-Monterey-beta-版本-bug-太多了，受不了了，暂时用回-Windows-了](https://www.v2ex.com/t/819073) ![](assets/new.png)  
 - [2021-11-30-中望大幅招聘-c++研发工程师](https://www.v2ex.com/t/819072) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-11-30-M1-MBA-切换屏幕也开始掉帧了，难以接受](https://www.v2ex.com/t/819057) ![](assets/new.png)  
 - [2021-11-30-深圳社保最低档太低了](https://www.v2ex.com/t/819056) ![](assets/new.png)  
 - [2021-11-30-投简历时不小心投到现在的公司怎么破](https://www.v2ex.com/t/819055) ![](assets/new.png)  
-- [2021-11-30-吐槽开车并线不看路况的](https://www.v2ex.com/t/819053) ![](assets/new.png)  
-- [2021-11-30-中英文混排时你会注意标点符号的使用吗?会遵循怎样的规范?](https://www.v2ex.com/t/819052) ![](assets/new.png)  
-- [2021-11-30-一页纸需求的应对方法-——-五步法](https://www.v2ex.com/t/819051) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-11-30 09:19:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-11-30 09:35:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-11-30-PHP8.1-发布了,好像大家都不太关注呢](https://www.v2ex.com/t/819079) 
+- [2021-11-30-一直有个疑问，以前去网吧总是要冲很多网吧会员，为什么没有网吧联盟可以统一充值，每个网吧都能用？](https://www.v2ex.com/t/819078) 
+- [2021-11-30-iOS-上有类似沙拉查词这种的词典软件吗?](https://www.v2ex.com/t/819077) 
 - [2021-11-30-OReilly-年度优惠又来了](https://www.v2ex.com/t/819074) 
 - [2021-11-30-当前的-Monterey-beta-版本-bug-太多了，受不了了，暂时用回-Windows-了](https://www.v2ex.com/t/819073) 
 - [2021-11-30-中望大幅招聘-c++研发工程师](https://www.v2ex.com/t/819072) 
@@ -43,6 +46,3 @@
 - [2021-11-30-mariadb-主从复制已开启，从库就死锁，何解?](https://www.v2ex.com/t/819034) 
 - [2021-11-30-如何在家里远程办公室的-Windows-电脑](https://www.v2ex.com/t/819032) 
 - [2021-11-30-自学-Python-迷茫了怎么办？](https://www.v2ex.com/t/819030) 
-- [2021-11-30-请问-openresty-可以实现这个功能吗？](https://www.v2ex.com/t/819029) 
-- [2021-11-30-大佬们，有没有适合前端小白的-web-开发项目（期末考试-emmmm），类型不限，知识点不限，最后根据效果得分。](https://www.v2ex.com/t/819028) 
-- [2021-11-30-MBP-M1-Monterey-系统-触控板三指操作问题](https://www.v2ex.com/t/819026) 

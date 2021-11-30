@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-11-30 10:11:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-11-30 10:20:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-11-30-WOL-远程开机插座，仅-23.5](https://www.v2ex.com/t/819091) 
 - [2021-11-30-「武汉」新思科技-SIG-部门招聘-软件开发工程师（-Java-）](https://www.v2ex.com/t/819090) 
 - [2021-11-30-树莓派在-Raspberry-OS-Bullseye-下-ssh-登录很慢](https://www.v2ex.com/t/819087) 
 - [2021-11-30-求教大佬们一个算法问题](https://www.v2ex.com/t/819086) 

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 09:39:28，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 09:54:48，:rocket: 更新条数: +109， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-11-30-最新疫情：全国新冠累计确诊98711例-累计接种新冠疫苗超24.99亿剂次](https://m.caixin.com/m/2021-11-30/101811777.html) ![](assets/new.png)  
-- [2021-11-30-上海本轮疫情源于境外输入病毒污染的航空器](https://companies.caixin.com/m/2021-11-30/101811710.html) ![](assets/new.png)  
-- [2021-11-30-香港Omicron输入个案增至3宗-两人在非洲感染至今无症状](https://m.caixin.com/m/2021-11-30/101811569.html) ![](assets/new.png)  
-- [2021-11-30-最新海外疫情：新冠感染超2.61亿-累计接种新冠疫苗超79.11亿剂次](https://m.caixin.com/m/2021-11-30/101811774.html) ![](assets/new.png)  
-- [2021-11-30-【境内疫情观察】内蒙古新增21例本土病例（11月29日）](https://database.caixin.com/m/2021-11-30/101811723.html) ![](assets/new.png)  
-- [2021-11-30-【境内疫情观察】内蒙古新增21例本土病例（11月29日）](https://database.caixin.com/m/2021-11-30/101811723.html) ![](assets/new.png)  
-- [2021-11-30-世卫警告高感染风险-新马开放陆路边境｜大流行手记（11月29日）](https://m.caixin.com/m/2021-11-30/101811507.html) ![](assets/new.png)  
-- [2021-11-29-习近平：中国将再向非洲提供10亿剂疫苗](https://china.caixin.com/m/2021-11-29/101811420.html) ![](assets/new.png)  
-- [2021-11-29-内蒙满洲里首轮全员核酸检出阳性样本60份-航班火车停运](https://m.caixin.com/m/2021-11-29/101811305.html) ![](assets/new.png)  
-- [2021-11-29-【境内疫情观察】内蒙古新增20例本土病例（11月28日）](https://database.caixin.com/m/2021-11-29/101811170.html) ![](assets/new.png)  
-- [2021-11-29-多国报告Omicron变异株感染病例，南非或将迎来第四波疫情｜大流行手记（11月28日）](https://m.caixin.com/m/2021-11-29/101810981.html) ![](assets/new.png)  
-- [2021-11-29-世卫称判断奥密克戎严重性尚需数日到数周-多国按下出入境“暂停键”](https://m.caixin.com/m/2021-11-29/101811267.html) ![](assets/new.png)  
-- [2021-11-29-应对奥密克戎来袭-日本自11月30日起紧急“封国”](https://m.caixin.com/m/2021-11-29/101811140.html) ![](assets/new.png)  
-- [2021-11-29-新冠新变异毒株速被列为“值得关注”-病毒特性待考](https://m.caixin.com/m/2021-11-29/101811133.html) ![](assets/new.png)  
-- [2021-11-29-岸田文雄：自11月30日起暂停所有国家和地区外国人入境](https://international.caixin.com/m/2021-11-29/101811074.html) ![](assets/new.png)  
-- [2021-11-28-内蒙古满洲里新增17例确诊-正开展全员核酸检测](https://m.caixin.com/m/2021-11-28/101810913.html) ![](assets/new.png)  
-- [2021-11-28-【境内疫情观察】内蒙古满洲里开展全员核酸检测工作（11月27日）](https://database.caixin.com/m/2021-11-28/101810886.html) ![](assets/new.png)  
-- [2021-11-28-默沙东新冠口服药有效率下调-Novavax针对新变种研发疫苗｜大流行手记（11月27日）](https://m.caixin.com/m/2021-11-28/101810847.html) ![](assets/new.png)  
-- [2021-11-28-聚焦｜张文宏：南非新现病毒有多大威胁？](https://opinion.caixin.com/m/2021-11-28/101810880.html) ![](assets/new.png)  
-- [2021-11-27-内蒙古满洲里现3例阳性，系货场员工](https://m.caixin.com/m/2021-11-27/101810704.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +474,12 @@
 </summary>
 
 
+- [2021-11-30-树莓派在-Raspberry-OS-Bullseye-下-ssh-登录很慢](https://www.v2ex.com/t/819087) ![](assets/new.png)  
+- [2021-11-30-求教大佬们一个算法问题](https://www.v2ex.com/t/819086) ![](assets/new.png)  
+- [2021-11-30-一个关于访问-k8s-内部服务的问题](https://www.v2ex.com/t/819084) ![](assets/new.png)  
+- [2021-11-30-请问谷歌-STEP-项目的具体情况](https://www.v2ex.com/t/819083) ![](assets/new.png)  
+- [2021-11-30-Java-后端怎么快速写前端](https://www.v2ex.com/t/819081) ![](assets/new.png)  
+- [2021-11-30-Vuex-的问题，使用-useStore获取到的-store，和直接-import-store-有什么区别吗？](https://www.v2ex.com/t/819080) ![](assets/new.png)  
 - [2021-11-30-PHP8.1-发布了,好像大家都不太关注呢](https://www.v2ex.com/t/819079) ![](assets/new.png)  
 - [2021-11-30-一直有个疑问，以前去网吧总是要冲很多网吧会员，为什么没有网吧联盟可以统一充值，每个网吧都能用？](https://www.v2ex.com/t/819078) ![](assets/new.png)  
 - [2021-11-30-iOS-上有类似沙拉查词这种的词典软件吗?](https://www.v2ex.com/t/819077) ![](assets/new.png)  
@@ -508,12 +494,6 @@
 - [2021-11-30-苹果“提醒事项”体验真的很糟糕](https://www.v2ex.com/t/819066) ![](assets/new.png)  
 - [2021-11-30-申请了单独的一级域名想用在-qnap-上，求问](https://www.v2ex.com/t/819064) ![](assets/new.png)  
 - [2021-11-30-#后端（-Java-/-Python-/go/node-#前端（react+后端任意一种语言）#基础架构（-Java-/-Python-）#安卓（有上线成品）#iOS（有上线成品）#ETL熟悉了解-click-ho...](https://www.v2ex.com/t/819063) ![](assets/new.png)  
-- [2021-11-30-请教一下大佬们国航的波音-744-和空客-33A-选哪个？](https://www.v2ex.com/t/819062) ![](assets/new.png)  
-- [2021-11-30-在虚拟机中跑微信，-QQ-这些-IM-软件，来消息的时候主机不能提醒，有办法解决吗](https://www.v2ex.com/t/819061) ![](assets/new.png)  
-- [2021-11-30-请问一下，-60w-反冲的显示器，可以给-10-核-m1-pro-用吗？](https://www.v2ex.com/t/819060) ![](assets/new.png)  
-- [2021-11-30-M1-MBA-切换屏幕也开始掉帧了，难以接受](https://www.v2ex.com/t/819057) ![](assets/new.png)  
-- [2021-11-30-深圳社保最低档太低了](https://www.v2ex.com/t/819056) ![](assets/new.png)  
-- [2021-11-30-投简历时不小心投到现在的公司怎么破](https://www.v2ex.com/t/819055) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

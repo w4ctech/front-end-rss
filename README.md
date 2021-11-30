@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 11:40:21，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 11:54:50，:rocket: 更新条数: +1533， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-11-30-Monterey-版本中,发现的一个启动台的-BUG](https://www.v2ex.com/t/819120) ![](assets/new.png)  
+- [2021-11-30-高级测试是不是都是做持续集成的？](https://www.v2ex.com/t/819119) ![](assets/new.png)  
+- [2021-11-30-大佬们求问有无虚拟定位-app-可以改飞书的打卡？](https://www.v2ex.com/t/819118) ![](assets/new.png)  
 - [2021-11-30-Java-远程全职/-15000-22000](https://www.v2ex.com/t/819117) ![](assets/new.png)  
 - [2021-11-30-内推奖金平分-推荐专家奖励特斯拉，资深奖励价值五万苹果全家桶，简历通过就有钱拿！](https://www.v2ex.com/t/819116) ![](assets/new.png)  
 - [2021-11-30-有-Monterey-12.0.1-下原生的#-邮件-APP-#-CPU-时不时-100%-的情况吗？](https://www.v2ex.com/t/819115) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-11-30-有什么学习《数字信号处理》好的方法、建议或教程](https://www.v2ex.com/t/819102) ![](assets/new.png)  
 - [2021-11-30-腾讯云的-mysql-读库，分为-ro-组和只读实例](https://www.v2ex.com/t/819101) ![](assets/new.png)  
 - [2021-11-30-macbook-pro-2015-外接-4K-60hz-求救，搞不定啦](https://www.v2ex.com/t/819100) ![](assets/new.png)  
-- [2021-11-30-招聘~资深前端开发工程师/技术负责人](https://www.v2ex.com/t/819099) ![](assets/new.png)  
-- [2021-11-30-今天决定退学了](https://www.v2ex.com/t/819098) ![](assets/new.png)  
-- [2021-11-30-問一下今年新建的用戶-是不是都-無法更換頭像？-網站是不是有些功能逐漸失效中？-看了很多其他反饋帖子都在喊站長，但是站長已經很久沒出現過了？](https://www.v2ex.com/t/819097) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

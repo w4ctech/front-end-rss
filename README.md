@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 13:18:37，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 13:35:45，:rocket: 更新条数: +1535， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-11-30-Typora-更新后收费了,最后一个免费版本,如何不让它弹出更新窗口](https://www.v2ex.com/t/819135) ![](assets/new.png)  
+- [2021-11-30-你们的-M1-Max-日常工作温度是多少度啊？](https://www.v2ex.com/t/819134) ![](assets/new.png)  
+- [2021-11-30-iPhone-12-电池健康度-88%，价格差别不太大的话是去官方换电池还是买个-magsafe-外接电池续着？](https://www.v2ex.com/t/819133) ![](assets/new.png)  
 - [2021-11-30-小米手机号是被小米放弃了吗？！](https://www.v2ex.com/t/819132) ![](assets/new.png)  
 - [2021-11-30-支持颜色管理的-Android-机型有哪些](https://www.v2ex.com/t/819131) ![](assets/new.png)  
 - [2021-11-30-被-Reddit-的一个帖子震惊了，国外工作福利真的有这么好吗？](https://www.v2ex.com/t/819129) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-11-30-农芽网是个什么网，-v-站也爬？](https://www.v2ex.com/t/819112) ![](assets/new.png)  
 - [2021-11-30-我们目前在寻找游戏方面的合作伙伴，要求具有游戏全流程开发制作能力](https://www.v2ex.com/t/819111) ![](assets/new.png)  
 - [2021-11-30-Alidns-查询-cdn.jsdelivr.net-会返回国外节点（附带-Edns-为-119.6.6.6）](https://www.v2ex.com/t/819110) ![](assets/new.png)  
-- [2021-11-30-大家写-Python-项目时，还在用-pip-freeze-命令导出依赖吗](https://www.v2ex.com/t/819109) ![](assets/new.png)  
-- [2021-11-30-16-寸-m1-max-64G-收到了，-大家有需要测试的可以留言](https://www.v2ex.com/t/819108) ![](assets/new.png)  
-- [2021-11-30-国考有感](https://www.v2ex.com/t/819107) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2021-11-30-都-2021-年了，对于服务网格，社区到底在讨论什么？](https://toutiao.io/k/2xk3hhm) ![](assets/new.png)  
 - [2021-11-30-泛型是双刃剑？Go-1.18-编译会慢近-20%](https://toutiao.io/k/xtc4n76) ![](assets/new.png)  
 - [2021-11-30-构建数据网格分布式架构的四项原则](https://toutiao.io/k/b0zutxb) ![](assets/new.png)  
-- [2021-11-30-大数据：HDFS-元数据持久化笔记](https://toutiao.io/k/qzdohkz) ![](assets/new.png)  
 - [2021-11-30-使用-Hilt-优化客户端代码结构](https://toutiao.io/k/x92pljc) ![](assets/new.png)  
+- [2021-11-30-大数据：HDFS-元数据持久化笔记](https://toutiao.io/k/qzdohkz) ![](assets/new.png)  
 - [2021-11-30-Lucene-之-PointRangeQuery（二）](https://toutiao.io/k/pn726k5) ![](assets/new.png)  
 - [2021-11-30-秘境探索之一个-.NET-对象从内存分配到内存回收](https://toutiao.io/k/s35gxbc) ![](assets/new.png)  
 - [2021-11-30-新功能：Prometheus-Agent-模式上手体验](https://toutiao.io/k/bjqqszn) ![](assets/new.png)  
@@ -573,9 +573,9 @@
 - [2021-11-30-虚拟偶像发展史：TA-们到底如何成功？万字复盘](https://toutiao.io/k/w4l4miv) ![](assets/new.png)  
 - [2021-11-30-Android-新技术动向及开发心得](https://toutiao.io/k/nq293zx) ![](assets/new.png)  
 - [2021-11-30-Redis-线程模型的前世今生](https://toutiao.io/k/szboze1) ![](assets/new.png)  
+- [2021-11-30-Serverless：微服务架构的终极模式](https://toutiao.io/k/ssz7b1l) ![](assets/new.png)  
 - [2021-11-30-在-Go-中使用-dockertest-进行集成测试](https://toutiao.io/k/r813zwl) ![](assets/new.png)  
 - [2021-11-30-Cadence-DSP-算子开发上手指南](https://toutiao.io/k/hy811qq) ![](assets/new.png)  
-- [2021-11-30-Serverless：微服务架构的终极模式](https://toutiao.io/k/ssz7b1l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

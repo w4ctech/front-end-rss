@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 06:58:46，:rocket: 更新条数: +1529， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-30 07:11:41，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-11-30-MacBook-Pro-M1-Pro-触控板-Command-+-Click-问题](https://www.v2ex.com/t/819040) ![](assets/new.png)  
+- [2021-11-30-移动宽带千兆还是用千兆光猫？](https://www.v2ex.com/t/819039) ![](assets/new.png)  
+- [2021-11-30-一个-k8s-疑问](https://www.v2ex.com/t/819038) ![](assets/new.png)  
+- [2021-11-30-迫于想铲屎-有没有喵星人幼崽](https://www.v2ex.com/t/819037) ![](assets/new.png)  
+- [2021-11-30-你有什么单文件-.exe-工具推荐?](https://www.v2ex.com/t/819036) ![](assets/new.png)  
 - [2021-11-30-请教-JVM-GC-问题](https://www.v2ex.com/t/819035) ![](assets/new.png)  
 - [2021-11-30-mariadb-主从复制已开启，从库就死锁，何解?](https://www.v2ex.com/t/819034) ![](assets/new.png)  
 - [2021-11-30-如何在家里远程办公室的-Windows-电脑](https://www.v2ex.com/t/819032) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-11-30-开发笔记本求推荐](https://www.v2ex.com/t/819018) ![](assets/new.png)  
 - [2021-11-30-删除账号申请](https://www.v2ex.com/t/819017) ![](assets/new.png)  
 - [2021-11-30-哪款看图软件可以一次看-4-张图片一个屏幕田字预览](https://www.v2ex.com/t/819016) ![](assets/new.png)  
-- [2021-11-30-淘宝我-TM-求求你放过我的桌面吧](https://www.v2ex.com/t/819015) ![](assets/new.png)  
-- [2021-11-30-最近在考虑-有偿寄卖-服务有没有前途](https://www.v2ex.com/t/819013) ![](assets/new.png)  
-- [2021-11-30-机械键盘哪个轴的手感最像静电容的手感](https://www.v2ex.com/t/819012) ![](assets/new.png)  
-- [2021-11-30-mac-下最好的装-windows-的虚拟机是哪个](https://www.v2ex.com/t/819011) ![](assets/new.png)  
-- [2021-11-30-MBP16-32G-版本收到了。使用-2-周后想要退货，需要注意什么？](https://www.v2ex.com/t/819010) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,8 +565,8 @@
 - [2021-11-30-泛型是双刃剑？Go-1.18-编译会慢近-20%](https://toutiao.io/k/xtc4n76) ![](assets/new.png)  
 - [2021-11-30-构建数据网格分布式架构的四项原则](https://toutiao.io/k/b0zutxb) ![](assets/new.png)  
 - [2021-11-30-大数据：HDFS-元数据持久化笔记](https://toutiao.io/k/qzdohkz) ![](assets/new.png)  
-- [2021-11-30-Lucene-之-PointRangeQuery（二）](https://toutiao.io/k/pn726k5) ![](assets/new.png)  
 - [2021-11-30-秘境探索之一个-.NET-对象从内存分配到内存回收](https://toutiao.io/k/s35gxbc) ![](assets/new.png)  
+- [2021-11-30-Lucene-之-PointRangeQuery（二）](https://toutiao.io/k/pn726k5) ![](assets/new.png)  
 - [2021-11-30-使用-Hilt-优化客户端代码结构](https://toutiao.io/k/x92pljc) ![](assets/new.png)  
 - [2021-11-30-新功能：Prometheus-Agent-模式上手体验](https://toutiao.io/k/bjqqszn) ![](assets/new.png)  
 - [2021-11-30-搞不定思想和组织转变，何谈企业转型](https://toutiao.io/k/u4anwrt) ![](assets/new.png)  

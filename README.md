@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 10:24:39，:rocket: 更新条数: +1529， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 10:42:14，:rocket: 更新条数: +1530， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-01-问问大家这样的简约风格文档是用什么生成的？？](https://www.v2ex.com/t/819365) ![](assets/new.png)  
+- [2021-12-01-如果给你-10000-元额度的礼品，你会要什么？](https://www.v2ex.com/t/819364) ![](assets/new.png)  
+- [2021-12-01-安装-k8s，兼容-docker-是否可行？](https://www.v2ex.com/t/819363) ![](assets/new.png)  
 - [2021-12-01-从-mac-切换-win-的一天](https://www.v2ex.com/t/819362) ![](assets/new.png)  
 - [2021-12-01-有支持主动读取-NFC-的并支持二次开发的手环或穿戴设备吗？](https://www.v2ex.com/t/819361) ![](assets/new.png)  
 - [2021-12-01-CODING-代码资产安全系列之-——-构建全链路安全能力，守护代码资产安全](https://www.v2ex.com/t/819359) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-01-关于-TG-便携版关联启动](https://www.v2ex.com/t/819339) ![](assets/new.png)  
 - [2021-12-01-请教一下：-ubuntu-下-usb-传输突然变慢怎么处理？](https://www.v2ex.com/t/819338) ![](assets/new.png)  
 - [2021-12-01-为什么说-iPhone-依然是最佳手机选择](https://www.v2ex.com/t/819337) ![](assets/new.png)  
-- [2021-12-01-求问在家办公怎么缓解『抑郁』的情绪](https://www.v2ex.com/t/819336) ![](assets/new.png)  
-- [2021-12-01-群晖文件权限控制与-dropbox-的问题。](https://www.v2ex.com/t/819335) ![](assets/new.png)  
-- [2021-12-01-有没有办法让-mac-chrome-全屏模式下不允许弹出系统菜单](https://www.v2ex.com/t/819334) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

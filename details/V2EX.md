@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-01 19:54:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 20:13:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2021-12-01-EXSI-虚拟机无法满载](https://www.v2ex.com/t/819387) 
 - [2021-12-01-我可以把一部电影用-h265-编码之后，以-4k-蓝光碟的文件结构烧录到一张普通的-8.5GB-的-DVD-里然后用-4k-蓝光影碟机播放吗？](https://www.v2ex.com/t/819386) 
 - [2021-12-01-免费-ARP-的分组，-request-和-reply-的分组在使用有什么区别？](https://www.v2ex.com/t/819384) 
-- [2021-12-01-给-Marktext-打了个-Apple-Silicon-的包](https://www.v2ex.com/t/819381) 

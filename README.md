@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 13:10:50，:rocket: 更新条数: +1530， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 13:22:51，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-01-Parallels-Desktop-是如何做到不用关机的](https://www.v2ex.com/t/819394) ![](assets/new.png)  
+- [2021-12-01-有老哥知道在悠方附近，哪有便宜的停车场吗？](https://www.v2ex.com/t/819393) ![](assets/new.png)  
 - [2021-12-01-第一次坐哈-X-顺丰车，明明车上有别的乘客，但显示未拼车？](https://www.v2ex.com/t/819392) ![](assets/new.png)  
 - [2021-12-01-上海-芯片行业创业公司找后端、前端或者全栈工程师](https://www.v2ex.com/t/819390) ![](assets/new.png)  
 - [2021-12-01-JOJO-石之海第一集，关于现在的审核制度，全年龄平台-B-站非要引进成人向日漫的后果](https://www.v2ex.com/t/819388) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-01-小心-Image-Capture-的-bug](https://www.v2ex.com/t/819369) ![](assets/new.png)  
 - [2021-12-01-JetBrains-准备发布新的文本编辑器啦](https://www.v2ex.com/t/819368) ![](assets/new.png)  
 - [2021-12-01-对于这种“表示强烈程度的词，逐渐变得普通”的语言现象叫做什么？](https://www.v2ex.com/t/819366) ![](assets/new.png)  
-- [2021-12-01-问问大家这样的简约风格文档是用什么生成的？？](https://www.v2ex.com/t/819365) ![](assets/new.png)  
-- [2021-12-01-如果给你-10000-元额度的礼品，你会要什么？](https://www.v2ex.com/t/819364) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2021-12-01-AOP-+-MybatisPlus-优化特殊的日志模块](https://toutiao.io/k/5b0arl4) ![](assets/new.png)  
 - [2021-12-01-实战经验分享：使用-PyO3-来构建你的-Python-模块](https://toutiao.io/k/5y9o2o9) ![](assets/new.png)  
 - [2021-12-01-Vue-自定义指令可以实现哪些有用的功能](https://toutiao.io/k/uuio6yy) ![](assets/new.png)  
-- [2021-12-01-去哪儿网-BI-平台建设演进与实践](https://toutiao.io/k/zy69q0o) ![](assets/new.png)  
 - [2021-12-01-一文讲透一致性哈希的原理和实现](https://toutiao.io/k/qjxhu9i) ![](assets/new.png)  
+- [2021-12-01-去哪儿网-BI-平台建设演进与实践](https://toutiao.io/k/zy69q0o) ![](assets/new.png)  
 - [2021-12-01-《跃迁》之技术管理有感](https://toutiao.io/k/wo7vj35) ![](assets/new.png)  
 - [2021-12-01-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
 - [2021-12-01-使用-GDB-+-Qemu-调试-Linux-内核](https://toutiao.io/k/21q5spu) ![](assets/new.png)  

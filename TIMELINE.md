@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-01 13:10:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-01 13:22:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -55,6 +55,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-最新海外疫情：新冠感染超2.62亿-累计接种新冠疫苗超79.6亿剂次](https://m.caixin.com/m/2021-12-01/101812322.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-【境内疫情观察】内蒙古新增91例本土病例（11月30日）](https://database.caixin.com/m/2021-12-01/101812304.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html) 
+- [【V2EX】2021-12-01-Parallels-Desktop-是如何做到不用关机的](https://www.v2ex.com/t/819394) 
+- [【V2EX】2021-12-01-有老哥知道在悠方附近，哪有便宜的停车场吗？](https://www.v2ex.com/t/819393) 
 - [【V2EX】2021-12-01-第一次坐哈-X-顺丰车，明明车上有别的乘客，但显示未拼车？](https://www.v2ex.com/t/819392) 
 - [【V2EX】2021-12-01-上海-芯片行业创业公司找后端、前端或者全栈工程师](https://www.v2ex.com/t/819390) 
 - [【V2EX】2021-12-01-JOJO-石之海第一集，关于现在的审核制度，全年龄平台-B-站非要引进成人向日漫的后果](https://www.v2ex.com/t/819388) 
@@ -114,8 +116,8 @@
 - [【开发者头条】2021-12-01-AOP-+-MybatisPlus-优化特殊的日志模块](https://toutiao.io/k/5b0arl4) 
 - [【开发者头条】2021-12-01-实战经验分享：使用-PyO3-来构建你的-Python-模块](https://toutiao.io/k/5y9o2o9) 
 - [【开发者头条】2021-12-01-Vue-自定义指令可以实现哪些有用的功能](https://toutiao.io/k/uuio6yy) 
-- [【开发者头条】2021-12-01-去哪儿网-BI-平台建设演进与实践](https://toutiao.io/k/zy69q0o) 
 - [【开发者头条】2021-12-01-一文讲透一致性哈希的原理和实现](https://toutiao.io/k/qjxhu9i) 
+- [【开发者头条】2021-12-01-去哪儿网-BI-平台建设演进与实践](https://toutiao.io/k/zy69q0o) 
 - [【开发者头条】2021-12-01-《跃迁》之技术管理有感](https://toutiao.io/k/wo7vj35) 
 - [【开发者头条】2021-12-01-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
 - [【开发者头条】2021-12-01-使用-GDB-+-Qemu-调试-Linux-内核](https://toutiao.io/k/21q5spu) 
@@ -128,20 +130,20 @@
 - [【开发者头条】2021-12-01-微服务链路追踪的工业界调研](https://toutiao.io/k/8h36rg5) 
 - [【开发者头条】2021-12-01-K8s-Pod-状态何时会为-Failed](https://toutiao.io/k/ui6jb8y) 
 - [【开发者头条】2021-12-01-由-JavaScript-的-with-引发的探索](https://toutiao.io/k/zzxdxbd) 
-- [【开发者头条】2021-12-01-推荐-最全的-Git-常用命令速查（2021-版）](https://toutiao.io/k/omfqktk) 
-- [【开发者头条】2021-12-01-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
+- [【开发者头条】2021-12-01-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
+- [【开发者头条】2021-12-01-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) 
 - [【开发者头条】2021-12-01-推荐-亿级流量系统架构演进之路](https://toutiao.io/k/nmwgk0i) 
-- [【开发者头条】2021-12-01-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) 
+- [【开发者头条】2021-12-01-推荐-开源微服务-API-网关，单核-2-万-QPS，今年最值得学习的开源项目](https://toutiao.io/k/vo7i0r2) 
+- [【开发者头条】2021-12-01-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) 
 - [【开发者头条】2021-12-01-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
+- [【开发者头条】2021-12-01-推荐-最全的-Git-常用命令速查（2021-版）](https://toutiao.io/k/omfqktk) 
+- [【开发者头条】2021-12-01-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
+- [【开发者头条】2021-12-01-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
 - [【开发者头条】2021-12-01-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) 
 - [【开发者头条】2021-12-01-推荐-面渣逆袭：线程池夺命连环十八问](https://toutiao.io/k/g3u1qkm) 
-- [【开发者头条】2021-12-01-推荐-开源微服务-API-网关，单核-2-万-QPS，今年最值得学习的开源项目](https://toutiao.io/k/vo7i0r2) 
-- [【开发者头条】2021-12-01-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
+- [【开发者头条】2021-12-01-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) 
 - [【开发者头条】2021-12-01-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) 
 - [【开发者头条】2021-12-01-推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2) 
-- [【开发者头条】2021-12-01-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
-- [【开发者头条】2021-12-01-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) 
-- [【开发者头条】2021-12-01-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

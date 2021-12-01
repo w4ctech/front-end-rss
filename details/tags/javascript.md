@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-01 10:45:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 10:57:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -12,6 +12,7 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) 
 - [2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) 
+- [2021-12-01-请问开了-ipv6-之后路由器科学上网功能就没法用了，这个问题如何解决？](https://www.v2ex.com/t/819367) 
 - [2021-12-01-GenericJackson2JsonRedisSerializer-序列化会存在多余的双引号，怎么解决？](https://www.v2ex.com/t/819354) 
 - [2021-12-01-请教一下-webview-内嵌-h5-页面更新的问题](https://www.v2ex.com/t/819353) 
 - [2021-12-01-由-JavaScript-的-with-引发的探索](https://toutiao.io/k/zzxdxbd) 

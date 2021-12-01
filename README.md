@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 10:45:26，:rocket: 更新条数: +1530， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 10:57:31，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-01-小心-Image-Capture-的-bug](https://www.v2ex.com/t/819369) ![](assets/new.png)  
+- [2021-12-01-JetBrains-准备发布新的文本编辑器啦](https://www.v2ex.com/t/819368) ![](assets/new.png)  
+- [2021-12-01-请问开了-ipv6-之后路由器科学上网功能就没法用了，这个问题如何解决？](https://www.v2ex.com/t/819367) ![](assets/new.png)  
+- [2021-12-01-对于这种“表示强烈程度的词，逐渐变得普通”的语言现象叫做什么？](https://www.v2ex.com/t/819366) ![](assets/new.png)  
 - [2021-12-01-问问大家这样的简约风格文档是用什么生成的？？](https://www.v2ex.com/t/819365) ![](assets/new.png)  
 - [2021-12-01-如果给你-10000-元额度的礼品，你会要什么？](https://www.v2ex.com/t/819364) ![](assets/new.png)  
 - [2021-12-01-安装-k8s，兼容-docker-是否可行？](https://www.v2ex.com/t/819363) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-01-m1-芯片，有办法运行-x86-的-windows-么？](https://www.v2ex.com/t/819348) ![](assets/new.png)  
 - [2021-12-01-看到个好玩的，-habitica](https://www.v2ex.com/t/819347) ![](assets/new.png)  
 - [2021-12-01-mongodb-中的递归查找子目录](https://www.v2ex.com/t/819342) ![](assets/new.png)  
-- [2021-12-01-广东新增-10-天育儿假，自决定公布之日起施行](https://www.v2ex.com/t/819341) ![](assets/new.png)  
-- [2021-12-01-关于-TG-便携版关联启动](https://www.v2ex.com/t/819339) ![](assets/new.png)  
-- [2021-12-01-请教一下：-ubuntu-下-usb-传输突然变慢怎么处理？](https://www.v2ex.com/t/819338) ![](assets/new.png)  
-- [2021-12-01-为什么说-iPhone-依然是最佳手机选择](https://www.v2ex.com/t/819337) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2021-12-01-手把手教你了解-OCI-镜像规范](https://toutiao.io/k/p18wbdb) ![](assets/new.png)  
 - [2021-12-01-Go：关于-protoc-工具的小疑惑](https://toutiao.io/k/655rt2x) ![](assets/new.png)  
 - [2021-12-01-LRU-缓存-keep-alive-实现原理](https://toutiao.io/k/i0p4q40) ![](assets/new.png)  
+- [2021-12-01-微服务链路追踪的工业界调研](https://toutiao.io/k/8h36rg5) ![](assets/new.png)  
 - [2021-12-01-由-JavaScript-的-with-引发的探索](https://toutiao.io/k/zzxdxbd) ![](assets/new.png)  
 - [2021-12-01-K8s-Pod-状态何时会为-Failed](https://toutiao.io/k/ui6jb8y) ![](assets/new.png)  
-- [2021-12-01-微服务链路追踪的工业界调研](https://toutiao.io/k/8h36rg5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

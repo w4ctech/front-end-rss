@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-12-01 10:13:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 10:24:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-01-从-mac-切换-win-的一天](https://www.v2ex.com/t/819362) 
+- [2021-12-01-有支持主动读取-NFC-的并支持二次开发的手环或穿戴设备吗？](https://www.v2ex.com/t/819361) 
+- [2021-12-01-CODING-代码资产安全系列之-——-构建全链路安全能力，守护代码资产安全](https://www.v2ex.com/t/819359) 
 - [2021-12-01-银行-app-的安全证书技术？](https://www.v2ex.com/t/819356) 
 - [2021-12-01-HomePod-使用请教](https://www.v2ex.com/t/819355) 
 - [2021-12-01-GenericJackson2JsonRedisSerializer-序列化会存在多余的双引号，怎么解决？](https://www.v2ex.com/t/819354) 
@@ -35,7 +38,3 @@
 - [2021-12-01-阿里云核心团队-云网络部门诚招-Java-后端](https://www.v2ex.com/t/819316) 
 - [2021-12-01-微信手机端和电脑端已读消息不同步](https://www.v2ex.com/t/819315) 
 - [2021-12-01-我纠结了，需要将一个表的所有字段放到一个-map-集合,该怎么抉择](https://www.v2ex.com/t/819313) 
-- [2021-12-01-！-LCD-永不为奴！](https://www.v2ex.com/t/819312) 
-- [2021-12-01-求助，-mysql-无法启动](https://www.v2ex.com/t/819311) 
-- [2021-12-01-M1-Macbook-Pro-的充电器可以给手机充电吗？](https://www.v2ex.com/t/819310) 
-- [2021-12-01-互联网大厂程序员梦醒时分](https://www.v2ex.com/t/819309) 

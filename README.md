@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 10:13:48，:rocket: 更新条数: +1530， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 10:24:39，:rocket: 更新条数: +1529， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-01-从-mac-切换-win-的一天](https://www.v2ex.com/t/819362) ![](assets/new.png)  
+- [2021-12-01-有支持主动读取-NFC-的并支持二次开发的手环或穿戴设备吗？](https://www.v2ex.com/t/819361) ![](assets/new.png)  
+- [2021-12-01-CODING-代码资产安全系列之-——-构建全链路安全能力，守护代码资产安全](https://www.v2ex.com/t/819359) ![](assets/new.png)  
 - [2021-12-01-银行-app-的安全证书技术？](https://www.v2ex.com/t/819356) ![](assets/new.png)  
 - [2021-12-01-HomePod-使用请教](https://www.v2ex.com/t/819355) ![](assets/new.png)  
 - [2021-12-01-GenericJackson2JsonRedisSerializer-序列化会存在多余的双引号，怎么解决？](https://www.v2ex.com/t/819354) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-01-求问在家办公怎么缓解『抑郁』的情绪](https://www.v2ex.com/t/819336) ![](assets/new.png)  
 - [2021-12-01-群晖文件权限控制与-dropbox-的问题。](https://www.v2ex.com/t/819335) ![](assets/new.png)  
 - [2021-12-01-有没有办法让-mac-chrome-全屏模式下不允许弹出系统菜单](https://www.v2ex.com/t/819334) ![](assets/new.png)  
-- [2021-12-01-一个分页列表按多个条件去排序怎么搞呢？](https://www.v2ex.com/t/819332) ![](assets/new.png)  
-- [2021-12-01-M1Max-和-装机之间怎么选择？](https://www.v2ex.com/t/819330) ![](assets/new.png)  
-- [2021-12-01-想去海外的前端小伙伴看过来，世界很大，如果你愿意可以去看看](https://www.v2ex.com/t/819329) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

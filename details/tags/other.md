@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-01 19:18:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 19:36:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1418,6 +1418,7 @@
 - [2021-11-26-科技爱好者周刊（第-185-期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html) 
 - [2021-11-19-科技爱好者周刊（第-184-期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html) 
 - [2021-11-12-科技爱好者周刊（第-183-期）：腾讯的员工退休福利](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html) 
+- [2021-12-01-年底离职了，无语](https://www.v2ex.com/t/819430) 
 - [2021-12-01-深圳/香港/远程-Crypto.com-区块链/智能合约工程师-Solidity-/-DeFi-内推](https://www.v2ex.com/t/819429) 
 - [2021-12-01-2021-11-30T18:27:18.000+0800-这种格式的时间怎么转-unixtime](https://www.v2ex.com/t/819428) 
 - [2021-12-01-Apple-Music-国区账户如何浏览其它地区排行榜/歌单？](https://www.v2ex.com/t/819426) 
@@ -1472,12 +1473,12 @@
 - [2021-12-01-微服务链路追踪的工业界调研](https://toutiao.io/k/8h36rg5) 
 - [2021-12-01-K8s-Pod-状态何时会为-Failed](https://toutiao.io/k/ui6jb8y) 
 - [2021-12-01-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
-- [2021-12-01-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
-- [2021-12-01-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) 
-- [2021-12-01-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
-- [2021-12-01-推荐-开源微服务-API-网关，单核-2-万-QPS，今年最值得学习的开源项目](https://toutiao.io/k/vo7i0r2) 
-- [2021-12-01-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
 - [2021-12-01-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) 
+- [2021-12-01-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
+- [2021-12-01-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
 - [2021-12-01-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 
+- [2021-12-01-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) 
 - [2021-12-01-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) 
+- [2021-12-01-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
+- [2021-12-01-推荐-开源微服务-API-网关，单核-2-万-QPS，今年最值得学习的开源项目](https://toutiao.io/k/vo7i0r2) 
 - [2021-12-01-推荐-亿级流量系统架构演进之路](https://toutiao.io/k/nmwgk0i) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-01 19:18:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 19:36:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -306,7 +306,6 @@
 
 
 - [【V2EX】上海-芯片行业创业公司找后端、前端或者全栈工程师](https://www.v2ex.com/t/819390)
-- [【V2EX】Elasticsearch-在生产环境单节点部署会有问题吗](https://www.v2ex.com/t/819380)
 - [【开发者头条】女娲算法，杀疯了](https://toutiao.io/k/8rnj5db)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

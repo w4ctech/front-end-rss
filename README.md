@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 19:18:43，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 19:36:42，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-01-年底离职了，无语](https://www.v2ex.com/t/819430) ![](assets/new.png)  
 - [2021-12-01-深圳/香港/远程-Crypto.com-区块链/智能合约工程师-Solidity-/-DeFi-内推](https://www.v2ex.com/t/819429) ![](assets/new.png)  
 - [2021-12-01-2021-11-30T18:27:18.000+0800-这种格式的时间怎么转-unixtime](https://www.v2ex.com/t/819428) ![](assets/new.png)  
 - [2021-12-01-在浏览器里运行-Townscaper](https://www.v2ex.com/t/819427) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-01-Mac-下有什么好玩的开源软件？](https://www.v2ex.com/t/819409) ![](assets/new.png)  
 - [2021-12-01-IDEA-真的是用-Java-+swing-写的？！](https://www.v2ex.com/t/819408) ![](assets/new.png)  
 - [2021-12-01-ultrafine-官网终于有货了](https://www.v2ex.com/t/819407) ![](assets/new.png)  
-- [2021-12-01-2021-款-MacBook-Pro-翻车！](https://www.v2ex.com/t/819406) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 11:19:00，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 11:37:00，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-01-最新疫情：全国新冠累计确诊98824例-累计接种新冠疫苗超25.07亿剂次](https://m.caixin.com/m/2021-12-01/101812316.html) ![](assets/new.png)  
+- [2021-12-01-满洲里市累计报告142例本土病例-当地6街道为高风险区](https://m.caixin.com/m/2021-12-01/101812395.html) ![](assets/new.png)  
 - [2021-12-01-最新海外疫情：新冠感染超2.62亿-累计接种新冠疫苗超79.6亿剂次](https://m.caixin.com/m/2021-12-01/101812322.html) ![](assets/new.png)  
 - [2021-12-01-【境内疫情观察】内蒙古新增91例本土病例（11月30日）](https://database.caixin.com/m/2021-12-01/101812304.html) ![](assets/new.png)  
 - [2021-12-01-莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-11-29-新冠新变异毒株速被列为“值得关注”-病毒特性待考](https://m.caixin.com/m/2021-11-29/101811133.html) ![](assets/new.png)  
 - [2021-11-29-岸田文雄：自11月30日起暂停所有国家和地区外国人入境](https://international.caixin.com/m/2021-11-29/101811074.html) ![](assets/new.png)  
 - [2021-11-29-习近平：中国将再向非洲提供10亿剂疫苗](https://china.caixin.com/m/2021-11-29/101811420.html) ![](assets/new.png)  
-- [2021-11-28-内蒙古满洲里新增17例确诊-正开展全员核酸检测](https://m.caixin.com/m/2021-11-28/101810913.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-01-请教各位大佬一个关于-Redis-Pipeline-的问题](https://www.v2ex.com/t/819372) ![](assets/new.png)  
 - [2021-12-01-请教一下如何在-Vue3.x-＜-script-setup＞语法中定义带泛型的-props](https://www.v2ex.com/t/819370) ![](assets/new.png)  
 - [2021-12-01-小心-Image-Capture-的-bug](https://www.v2ex.com/t/819369) ![](assets/new.png)  
 - [2021-12-01-JetBrains-准备发布新的文本编辑器啦](https://www.v2ex.com/t/819368) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-01-Rust-小文件加密自释放工具](https://www.v2ex.com/t/819351) ![](assets/new.png)  
 - [2021-12-01-mac-上有什么比较好用的邮箱客户端吗？](https://www.v2ex.com/t/819349) ![](assets/new.png)  
 - [2021-12-01-m1-芯片，有办法运行-x86-的-windows-么？](https://www.v2ex.com/t/819348) ![](assets/new.png)  
-- [2021-12-01-看到个好玩的，-habitica](https://www.v2ex.com/t/819347) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

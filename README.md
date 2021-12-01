@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 12:58:50，:rocket: 更新条数: +1531， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 13:10:50，:rocket: 更新条数: +1530， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-01-第一次坐哈-X-顺丰车，明明车上有别的乘客，但显示未拼车？](https://www.v2ex.com/t/819392) ![](assets/new.png)  
 - [2021-12-01-上海-芯片行业创业公司找后端、前端或者全栈工程师](https://www.v2ex.com/t/819390) ![](assets/new.png)  
 - [2021-12-01-JOJO-石之海第一集，关于现在的审核制度，全年龄平台-B-站非要引进成人向日漫的后果](https://www.v2ex.com/t/819388) ![](assets/new.png)  
 - [2021-12-01-EXSI-虚拟机无法满载](https://www.v2ex.com/t/819387) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-01-对于这种“表示强烈程度的词，逐渐变得普通”的语言现象叫做什么？](https://www.v2ex.com/t/819366) ![](assets/new.png)  
 - [2021-12-01-问问大家这样的简约风格文档是用什么生成的？？](https://www.v2ex.com/t/819365) ![](assets/new.png)  
 - [2021-12-01-如果给你-10000-元额度的礼品，你会要什么？](https://www.v2ex.com/t/819364) ![](assets/new.png)  
-- [2021-12-01-安装-k8s，兼容-docker-是否可行？](https://www.v2ex.com/t/819363) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

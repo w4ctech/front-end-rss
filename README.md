@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 22:21:54，:rocket: 更新条数: +1538， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 22:40:39，:rocket: 更新条数: +1538， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-01-实习-微软亚洲研究院-基于-SONiC-开源云网络操作系统的安全机制研发实习生](https://www.v2ex.com/t/819436) ![](assets/new.png)  
 - [2021-12-01-求助-请问北欧键盘键位如何改成-us-英语的，买了电脑是北欧键盘的](https://www.v2ex.com/t/819435) ![](assets/new.png)  
 - [2021-12-01-20211201---在回复列表的用户名旁增加了楼主（OP）标注](https://www.v2ex.com/t/819434) ![](assets/new.png)  
 - [2021-12-01-求问-Everything-怎么才能默认搜索某一文件夹下的文件](https://www.v2ex.com/t/819433) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-01-两台服务器,一台在内网做数据采集，另一台用做跳板机（可访问外网）转发内网采集的数据给外网的服务中。跳板机内用什么技术可以实现。](https://www.v2ex.com/t/819415) ![](assets/new.png)  
 - [2021-12-01-「北京」知乎招聘后端开发-Leader-划重点：-WLB！](https://www.v2ex.com/t/819414) ![](assets/new.png)  
 - [2021-12-01-两家-offer-对比，不知道去那家。](https://www.v2ex.com/t/819412) ![](assets/new.png)  
-- [2021-12-01-为什么-time_wait-状态要等两个-MSL，我咋觉得一个-MSL-就够了呢？](https://www.v2ex.com/t/819411) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

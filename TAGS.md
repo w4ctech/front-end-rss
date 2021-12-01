@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-01 03:57:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 04:16:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -110,6 +110,7 @@
 
 
 
+- [【V2EX】jwt-密钥的长度限制，-Java-jsonwebtoken中有长度限制，-nodejs（egg-jwt）的没有](https://www.v2ex.com/t/819264)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -158,6 +159,7 @@
 
 
 
+- [【V2EX】仙剑奇侠传七-Bug-导致无法继续游戏？](https://www.v2ex.com/t/819260)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -255,9 +257,9 @@
 - [【技术头条】Chrome-将代码分区，在-Android-上性能大变-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14825&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fge-vX2dMn3N4Pmcnz8mjTQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】进行一个-SQL-优化需要做哪些准备？-Metadata-Lock-和-online-DDL](https://toutiao.io/k/sj4s6ev)
 - [【开发者头条】AOP-+-MybatisPlus-优化特殊的日志模块](https://toutiao.io/k/5b0arl4)
-- [【开发者头条】推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5)
-- [【开发者头条】推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld)
 - [【开发者头条】推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2)
+- [【开发者头条】推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld)
+- [【开发者头条】推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -280,6 +282,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)
+- [【V2EX】实习-微软亚洲研究院-基于-SONiC-开源云网络操作系统的安全机制研发实习生](https://www.v2ex.com/t/819263)
 - [【V2EX】🔥🔥🔥新加坡-大型上市互联网公司，招移动端（iOS,安卓），前端开发，后端开发（不限开发语言），-DevOps-或-SRE-及安全等各类工程师，各方向技术专家及...](https://www.v2ex.com/t/819227)
 - [【技术头条】一文全面解析Postman工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14822&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D2%26amp%3Bsn%3D6685cc0bdb157fdc2f96a3d5138c32a1%26amp%3Bchksm%3Dfa3f0233cd488b25305e2c20fefcdaeebf7046b99dacfbde10068aa9995312ff4f9100a496c7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】开发人员的安全意识-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14817&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-security-awareness%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -335,7 +338,6 @@
 
 
 
-- [【V2EX】工信部提到开源,Gitee-的兄弟有福了，这一波能上市吗](https://www.v2ex.com/t/819212)
 - [【开发者头条】推荐-最全的-Git-常用命令速查（2021-版）](https://toutiao.io/k/omfqktk)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

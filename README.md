@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 03:57:25，:rocket: 更新条数: +1531， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 04:16:43，:rocket: 更新条数: +1531， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-01-请问有没有轻便点的支持-M1-芯片-Hidpi-的显示器](https://www.v2ex.com/t/819265) ![](assets/new.png)  
+- [2021-12-01-jwt-密钥的长度限制，-Java-jsonwebtoken中有长度限制，-nodejs（egg-jwt）的没有](https://www.v2ex.com/t/819264) ![](assets/new.png)  
+- [2021-12-01-实习-微软亚洲研究院-基于-SONiC-开源云网络操作系统的安全机制研发实习生](https://www.v2ex.com/t/819263) ![](assets/new.png)  
+- [2021-12-01-仙剑奇侠传七-Bug-导致无法继续游戏？](https://www.v2ex.com/t/819260) ![](assets/new.png)  
 - [2021-12-01-家用-PC-上运行了一个自己写的监控类程序，人在外面如何得知程序是否正常运行？](https://www.v2ex.com/t/819258) ![](assets/new.png)  
 - [2021-12-01-Bowers&Wilkins-的这款-PI7-无线降噪耳机如何？](https://www.v2ex.com/t/819257) ![](assets/new.png)  
 - [2021-12-01-为知笔记有没有好看的样式](https://www.v2ex.com/t/819256) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-01-好久没有用苹果支付了，这几天点外卖用-Apple-支付-发现都会减-1-块左右](https://www.v2ex.com/t/819242) ![](assets/new.png)  
 - [2021-12-01-RouterOS-EOIP-或-IPIP-单公网-IP-情况下两个局域网组网请教](https://www.v2ex.com/t/819241) ![](assets/new.png)  
 - [2021-12-01-没想到有一天我也会每天结束工作时在-MacBook-上注销账户后再离开](https://www.v2ex.com/t/819239) ![](assets/new.png)  
-- [2021-12-01-有换过-AirPods-电池的朋友推个靠谱的店吗？一代耳机撑不住了](https://www.v2ex.com/t/819238) ![](assets/new.png)  
-- [2021-12-01-MacbookPro-16-寸屏幕坏了，哪位大侠知道修或换的价格是怎样的](https://www.v2ex.com/t/819237) ![](assets/new.png)  
-- [2021-12-01-请问-ts-里面两个类之间如何通信啊](https://www.v2ex.com/t/819236) ![](assets/new.png)  
-- [2021-12-01-小母猫发情了。。。。](https://www.v2ex.com/t/819235) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,24 +558,24 @@
 
 - [2021-12-01-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
 - [2021-12-01-进行一个-SQL-优化需要做哪些准备？-Metadata-Lock-和-online-DDL](https://toutiao.io/k/sj4s6ev) ![](assets/new.png)  
-- [2021-12-01-实战经验分享：使用-PyO3-来构建你的-Python-模块](https://toutiao.io/k/5y9o2o9) ![](assets/new.png)  
 - [2021-12-01-AOP-+-MybatisPlus-优化特殊的日志模块](https://toutiao.io/k/5b0arl4) ![](assets/new.png)  
+- [2021-12-01-实战经验分享：使用-PyO3-来构建你的-Python-模块](https://toutiao.io/k/5y9o2o9) ![](assets/new.png)  
 - [2021-12-01-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
 - [2021-12-01-Vue-自定义指令可以实现哪些有用的功能](https://toutiao.io/k/uuio6yy) ![](assets/new.png)  
 - [2021-12-01-去哪儿网-BI-平台建设演进与实践](https://toutiao.io/k/zy69q0o) ![](assets/new.png)  
 - [2021-12-01-一文讲透一致性哈希的原理和实现](https://toutiao.io/k/qjxhu9i) ![](assets/new.png)  
 - [2021-12-01-《跃迁》之技术管理有感](https://toutiao.io/k/wo7vj35) ![](assets/new.png)  
 - [2021-12-01-使用-GDB-+-Qemu-调试-Linux-内核](https://toutiao.io/k/21q5spu) ![](assets/new.png)  
-- [2021-12-01-手把手教你了解-OCI-镜像规范](https://toutiao.io/k/p18wbdb) ![](assets/new.png)  
-- [2021-12-01-由-JavaScript-的-with-引发的探索](https://toutiao.io/k/zzxdxbd) ![](assets/new.png)  
+- [2021-12-01-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
 - [2021-12-01-字节跳动基于-Apache-Hudi-构建实时数据湖平台实践](https://toutiao.io/k/wk64oza) ![](assets/new.png)  
-- [2021-12-01-Go：关于-protoc-工具的小疑惑](https://toutiao.io/k/655rt2x) ![](assets/new.png)  
+- [2021-12-01-手把手教你了解-OCI-镜像规范](https://toutiao.io/k/p18wbdb) ![](assets/new.png)  
 - [2021-12-01-女娲算法，杀疯了](https://toutiao.io/k/8rnj5db) ![](assets/new.png)  
 - [2021-12-01-一周-8k-Star-的-Notion-开源替代品-AppFlowy-发布了](https://toutiao.io/k/w5o119o) ![](assets/new.png)  
-- [2021-12-01-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
+- [2021-12-01-由-JavaScript-的-with-引发的探索](https://toutiao.io/k/zzxdxbd) ![](assets/new.png)  
+- [2021-12-01-Go：关于-protoc-工具的小疑惑](https://toutiao.io/k/655rt2x) ![](assets/new.png)  
 - [2021-12-01-LRU-缓存-keep-alive-实现原理](https://toutiao.io/k/i0p4q40) ![](assets/new.png)  
-- [2021-12-01-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
-- [2021-12-01-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
+- [2021-12-01-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) ![](assets/new.png)  
+- [2021-12-01-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

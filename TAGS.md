@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-01 01:11:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 02:01:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -142,8 +142,6 @@
 
 
 
-- [【V2EX】上海-HC-#元宇宙#智能虚拟人#UGC+GPT-3#硅-谷创业团队#寻找前端-Flutter-工程师#](https://www.v2ex.com/t/819163)
-- [【V2EX】做了一个用于阅读-TXT-文件的-PWA-应用，支持朗读、本地书库。iOS-可用](https://www.v2ex.com/t/819143)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -181,8 +179,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
+- [【V2EX】Later-this-fall-已经过去了，-Universal-Control-又跳票了](https://www.v2ex.com/t/819209)
+- [【V2EX】有没有办法设置触控板单指滚动](https://www.v2ex.com/t/819207)
+- [【V2EX】img-的“图片另存为”在-js-中有没有对应的事件？](https://www.v2ex.com/t/819195)
 - [【V2EX】用-C++20-撸了一个模仿-Python-的-asyncio-协程库](https://www.v2ex.com/t/819182)
-- [【V2EX】有没有每日自动重复收集的表单,-类似于-每日健康上报](https://www.v2ex.com/t/819157)
 - [【开发者头条】由-JavaScript-的-with-引发的探索](https://toutiao.io/k/zzxdxbd)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -254,13 +254,14 @@
 
 
 
+- [【V2EX】发现-Github：在-Docker-中以近乎原生的性能运行-Mac-OS-X](https://www.v2ex.com/t/819193)
 - [【V2EX】Pillow-有一个性能优化版本-Pillow-SIMD](https://www.v2ex.com/t/819177)
 - [【技术头条】Chrome-将代码分区，在-Android-上性能大变-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14825&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fge-vX2dMn3N4Pmcnz8mjTQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】进行一个-SQL-优化需要做哪些准备？-Metadata-Lock-和-online-DDL](https://toutiao.io/k/sj4s6ev)
 - [【开发者头条】AOP-+-MybatisPlus-优化特殊的日志模块](https://toutiao.io/k/5b0arl4)
 - [【开发者头条】推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5)
-- [【开发者头条】推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld)
 - [【开发者头条】推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2)
+- [【开发者头条】推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -285,7 +286,6 @@
 - [【张鑫旭-鑫空间-鑫生活】兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)
 - [【V2EX】chrome-惊现重大隐私泄露-bug！你想知道你对象上了哪些网站最多吗？](https://www.v2ex.com/t/819191)
 - [【V2EX】Washington-Post-的订阅优惠](https://www.v2ex.com/t/819171)
-- [【V2EX】旧的-macbook-给官方回收后想起没有退出-icloud-账户，只是抹掉了数据，会存在安全隐患吗？](https://www.v2ex.com/t/819164)
 - [【技术头条】一文全面解析Postman工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14822&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D2%26amp%3Bsn%3D6685cc0bdb157fdc2f96a3d5138c32a1%26amp%3Bchksm%3Dfa3f0233cd488b25305e2c20fefcdaeebf7046b99dacfbde10068aa9995312ff4f9100a496c7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】开发人员的安全意识-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14817&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-security-awareness%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】使用-GDB-+-Qemu-调试-Linux-内核](https://toutiao.io/k/21q5spu)
@@ -305,6 +305,7 @@
 
 
 
+- [【开发者头条】女娲算法，杀疯了](https://toutiao.io/k/8rnj5db)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -322,7 +323,6 @@
 
 
 - [【V2EX】有没有-jenkins-docker-相关教程，收费也行](https://www.v2ex.com/t/819173)
-- [【V2EX】各位哥，-Prometheus-有办法监控到-nginx-负载均衡的流量吗？](https://www.v2ex.com/t/819149)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -339,6 +339,7 @@
 
 
 
+- [【V2EX】工信部提到开源,Gitee-的兄弟有福了，这一波能上市吗](https://www.v2ex.com/t/819212)
 - [【开发者头条】推荐-最全的-Git-常用命令速查（2021-版）](https://toutiao.io/k/omfqktk)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -356,8 +357,8 @@
 
 
 
+- [【V2EX】#XMind-招聘-远程职位#-思维导图行业标杆，急招前端-、iOS-开发，-薪酬-20-35K，-remote-work，-965，拒绝内卷~](https://www.v2ex.com/t/819208)
 - [【V2EX】武汉-招商证券-招聘-Web-前端-/-Java-开发工程师-/-敏捷教练-/-DevOps-教练](https://www.v2ex.com/t/819170)
-- [【V2EX】上海-Afterpay-招聘-iOS-/-安卓-开发工程师](https://www.v2ex.com/t/819158)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -417,7 +418,8 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊98711例-累计接种新冠疫苗超24.99亿剂次](https://m.caixin.com/m/2021-11-30/101811777.html)
+- [【武汉肺炎防疫全纪录(财新网)】11月30日全国新增新冠113例-内蒙古本土91例](https://m.caixin.com/m/2021-12-01/101812060.html)
+- [【武汉肺炎防疫全纪录(财新网)】莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html)
 - [【武汉肺炎防疫全纪录(财新网)】奥密克戎是否影响北京冬奥会举办？外交部：一定如期举行](https://international.caixin.com/m/2021-11-30/101811923.html)
 - [【武汉肺炎防疫全纪录(财新网)】奥密克戎已传至十余国-潜在传播力明显增强](https://m.caixin.com/m/2021-11-30/101811873.html)
 - [【武汉肺炎防疫全纪录(财新网)】上海本轮疫情源于境外输入病毒污染的航空器](https://companies.caixin.com/m/2021-11-30/101811710.html)
@@ -436,7 +438,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】习近平：中国将再向非洲提供10亿剂疫苗](https://china.caixin.com/m/2021-11-29/101811420.html)
 - [【武汉肺炎防疫全纪录(财新网)】内蒙古满洲里新增17例确诊-正开展全员核酸检测](https://m.caixin.com/m/2021-11-28/101810913.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】内蒙古满洲里开展全员核酸检测工作（11月27日）](https://database.caixin.com/m/2021-11-28/101810886.html)
-- [【武汉肺炎防疫全纪录(财新网)】默沙东新冠口服药有效率下调-Novavax针对新变种研发疫苗｜大流行手记（11月27日）](https://m.caixin.com/m/2021-11-28/101810847.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

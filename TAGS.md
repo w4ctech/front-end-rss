@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-01 03:45:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 03:57:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,8 +181,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
 - [【V2EX】有没有可能把-win10-做成软路由，其他电脑通过有线连接上网](https://www.v2ex.com/t/819250)
 - [【V2EX】JavaScript-Sanitizer-API：原生-WEB-安全-API-出现啦](https://www.v2ex.com/t/819247)
-- [【V2EX】Later-this-fall-已经过去了，-Universal-Control-又跳票了](https://www.v2ex.com/t/819209)
-- [【V2EX】有没有办法设置触控板单指滚动](https://www.v2ex.com/t/819207)
 - [【开发者头条】由-JavaScript-的-with-引发的探索](https://toutiao.io/k/zzxdxbd)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -258,8 +256,8 @@
 - [【开发者头条】进行一个-SQL-优化需要做哪些准备？-Metadata-Lock-和-online-DDL](https://toutiao.io/k/sj4s6ev)
 - [【开发者头条】AOP-+-MybatisPlus-优化特殊的日志模块](https://toutiao.io/k/5b0arl4)
 - [【开发者头条】推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5)
-- [【开发者头条】推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2)
 - [【开发者头条】推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld)
+- [【开发者头条】推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -355,7 +353,6 @@
 
 
 
-- [【V2EX】#XMind-招聘-远程职位#-思维导图行业标杆，急招前端-、iOS-开发，-薪酬-20-35K，-remote-work，-965，拒绝内卷~](https://www.v2ex.com/t/819208)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

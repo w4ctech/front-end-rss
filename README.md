@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 03:45:16，:rocket: 更新条数: +1531， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 03:57:25，:rocket: 更新条数: +1531， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-01-家用-PC-上运行了一个自己写的监控类程序，人在外面如何得知程序是否正常运行？](https://www.v2ex.com/t/819258) ![](assets/new.png)  
+- [2021-12-01-Bowers&Wilkins-的这款-PI7-无线降噪耳机如何？](https://www.v2ex.com/t/819257) ![](assets/new.png)  
+- [2021-12-01-为知笔记有没有好看的样式](https://www.v2ex.com/t/819256) ![](assets/new.png)  
+- [2021-12-01-冬天到了，寒风刺脸，-v-友们都用什么乳液涂脸护肤？](https://www.v2ex.com/t/819255) ![](assets/new.png)  
 - [2021-12-01-APPLE-TRADE-IN，是分期退款么？？](https://www.v2ex.com/t/819252) ![](assets/new.png)  
 - [2021-12-01-清华-伯克利-RISC-V-国际开源实验室-诚聘](https://www.v2ex.com/t/819251) ![](assets/new.png)  
 - [2021-12-01-有没有可能把-win10-做成软路由，其他电脑通过有线连接上网](https://www.v2ex.com/t/819250) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-01-MacbookPro-16-寸屏幕坏了，哪位大侠知道修或换的价格是怎样的](https://www.v2ex.com/t/819237) ![](assets/new.png)  
 - [2021-12-01-请问-ts-里面两个类之间如何通信啊](https://www.v2ex.com/t/819236) ![](assets/new.png)  
 - [2021-12-01-小母猫发情了。。。。](https://www.v2ex.com/t/819235) ![](assets/new.png)  
-- [2021-12-01-求推荐-win-上面好用的-Python-环境/package-管理工具，可以方便的切换-py27-和-py38-那种](https://www.v2ex.com/t/819233) ![](assets/new.png)  
-- [2021-12-01-如今这年代，单打独斗还行吗](https://www.v2ex.com/t/819232) ![](assets/new.png)  
-- [2021-12-01-任务队列的单用户串行设计](https://www.v2ex.com/t/819231) ![](assets/new.png)  
-- [2021-12-01-头文件向下兼容，如何优雅实现？](https://www.v2ex.com/t/819230) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2021-12-01-使用-GDB-+-Qemu-调试-Linux-内核](https://toutiao.io/k/21q5spu) ![](assets/new.png)  
 - [2021-12-01-手把手教你了解-OCI-镜像规范](https://toutiao.io/k/p18wbdb) ![](assets/new.png)  
 - [2021-12-01-由-JavaScript-的-with-引发的探索](https://toutiao.io/k/zzxdxbd) ![](assets/new.png)  
+- [2021-12-01-字节跳动基于-Apache-Hudi-构建实时数据湖平台实践](https://toutiao.io/k/wk64oza) ![](assets/new.png)  
 - [2021-12-01-Go：关于-protoc-工具的小疑惑](https://toutiao.io/k/655rt2x) ![](assets/new.png)  
 - [2021-12-01-女娲算法，杀疯了](https://toutiao.io/k/8rnj5db) ![](assets/new.png)  
 - [2021-12-01-一周-8k-Star-的-Notion-开源替代品-AppFlowy-发布了](https://toutiao.io/k/w5o119o) ![](assets/new.png)  
-- [2021-12-01-字节跳动基于-Apache-Hudi-构建实时数据湖平台实践](https://toutiao.io/k/wk64oza) ![](assets/new.png)  
 - [2021-12-01-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
 - [2021-12-01-LRU-缓存-keep-alive-实现原理](https://toutiao.io/k/i0p4q40) ![](assets/new.png)  
 - [2021-12-01-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
-- [2021-12-01-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) ![](assets/new.png)  
+- [2021-12-01-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

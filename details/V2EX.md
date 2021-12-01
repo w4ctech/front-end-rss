@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-12-01 12:35:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 12:58:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-01-上海-芯片行业创业公司找后端、前端或者全栈工程师](https://www.v2ex.com/t/819390) 
+- [2021-12-01-JOJO-石之海第一集，关于现在的审核制度，全年龄平台-B-站非要引进成人向日漫的后果](https://www.v2ex.com/t/819388) 
+- [2021-12-01-EXSI-虚拟机无法满载](https://www.v2ex.com/t/819387) 
+- [2021-12-01-我可以把一部电影用-h265-编码之后，以-4k-蓝光碟的文件结构烧录到一张普通的-8.5GB-的-DVD-里然后用-4k-蓝光影碟机播放吗？](https://www.v2ex.com/t/819386) 
 - [2021-12-01-免费-ARP-的分组，-request-和-reply-的分组在使用有什么区别？](https://www.v2ex.com/t/819384) 
 - [2021-12-01-给-Marktext-打了个-Apple-Silicon-的包](https://www.v2ex.com/t/819381) 
 - [2021-12-01-Elasticsearch-在生产环境单节点部署会有问题吗](https://www.v2ex.com/t/819380) 
@@ -35,8 +39,3 @@
 - [2021-12-01-看到个好玩的，-habitica](https://www.v2ex.com/t/819347) 
 - [2021-12-01-mongodb-中的递归查找子目录](https://www.v2ex.com/t/819342) 
 - [2021-12-01-广东新增-10-天育儿假，自决定公布之日起施行](https://www.v2ex.com/t/819341) 
-- [2021-12-01-关于-TG-便携版关联启动](https://www.v2ex.com/t/819339) 
-- [2021-12-01-请教一下：-ubuntu-下-usb-传输突然变慢怎么处理？](https://www.v2ex.com/t/819338) 
-- [2021-12-01-为什么说-iPhone-依然是最佳手机选择](https://www.v2ex.com/t/819337) 
-- [2021-12-01-求问在家办公怎么缓解『抑郁』的情绪](https://www.v2ex.com/t/819336) 
-- [2021-12-01-群晖文件权限控制与-dropbox-的问题。](https://www.v2ex.com/t/819335) 

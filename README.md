@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 12:35:01，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 12:58:50，:rocket: 更新条数: +1531， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,7 @@
 
 
 - [2021-12-01-最新疫情：全国新冠累计确诊98824例-累计接种新冠疫苗超25.07亿剂次](https://m.caixin.com/m/2021-12-01/101812316.html) ![](assets/new.png)  
-- [2021-12-01-满洲里市累计报告142例本土病例-当地6街道为高风险区](https://m.caixin.com/m/2021-12-01/101812395.html) ![](assets/new.png)  
+- [2021-12-01-满洲里市近五天报告142例本土病例-当地6个街道高风险](https://m.caixin.com/m/2021-12-01/101812395.html) ![](assets/new.png)  
 - [2021-12-01-最新海外疫情：新冠感染超2.62亿-累计接种新冠疫苗超79.6亿剂次](https://m.caixin.com/m/2021-12-01/101812322.html) ![](assets/new.png)  
 - [2021-12-01-【境内疫情观察】内蒙古新增91例本土病例（11月30日）](https://database.caixin.com/m/2021-12-01/101812304.html) ![](assets/new.png)  
 - [2021-12-01-莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html) ![](assets/new.png)  
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-01-上海-芯片行业创业公司找后端、前端或者全栈工程师](https://www.v2ex.com/t/819390) ![](assets/new.png)  
+- [2021-12-01-JOJO-石之海第一集，关于现在的审核制度，全年龄平台-B-站非要引进成人向日漫的后果](https://www.v2ex.com/t/819388) ![](assets/new.png)  
+- [2021-12-01-EXSI-虚拟机无法满载](https://www.v2ex.com/t/819387) ![](assets/new.png)  
+- [2021-12-01-我可以把一部电影用-h265-编码之后，以-4k-蓝光碟的文件结构烧录到一张普通的-8.5GB-的-DVD-里然后用-4k-蓝光影碟机播放吗？](https://www.v2ex.com/t/819386) ![](assets/new.png)  
 - [2021-12-01-免费-ARP-的分组，-request-和-reply-的分组在使用有什么区别？](https://www.v2ex.com/t/819384) ![](assets/new.png)  
 - [2021-12-01-给-Marktext-打了个-Apple-Silicon-的包](https://www.v2ex.com/t/819381) ![](assets/new.png)  
 - [2021-12-01-Elasticsearch-在生产环境单节点部署会有问题吗](https://www.v2ex.com/t/819380) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-01-问问大家这样的简约风格文档是用什么生成的？？](https://www.v2ex.com/t/819365) ![](assets/new.png)  
 - [2021-12-01-如果给你-10000-元额度的礼品，你会要什么？](https://www.v2ex.com/t/819364) ![](assets/new.png)  
 - [2021-12-01-安装-k8s，兼容-docker-是否可行？](https://www.v2ex.com/t/819363) ![](assets/new.png)  
-- [2021-12-01-从-mac-切换-win-的一天](https://www.v2ex.com/t/819362) ![](assets/new.png)  
-- [2021-12-01-有支持主动读取-NFC-的并支持二次开发的手环或穿戴设备吗？](https://www.v2ex.com/t/819361) ![](assets/new.png)  
-- [2021-12-01-CODING-代码资产安全系列之-——-构建全链路安全能力，守护代码资产安全](https://www.v2ex.com/t/819359) ![](assets/new.png)  
-- [2021-12-01-银行-app-的安全证书技术？](https://www.v2ex.com/t/819356) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

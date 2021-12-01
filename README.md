@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 02:36:56，:rocket: 更新条数: +1525， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 02:47:59，:rocket: 更新条数: +1528， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-01-请问-ts-里面两个类之间如何通信啊](https://www.v2ex.com/t/819236) ![](assets/new.png)  
+- [2021-12-01-小母猫发情了。。。。](https://www.v2ex.com/t/819235) ![](assets/new.png)  
+- [2021-12-01-中望大幅招聘-C++研发工程师，优秀应届生可来-地点：广州，-薪资：-24-40w](https://www.v2ex.com/t/819234) ![](assets/new.png)  
+- [2021-12-01-求推荐-win-上面好用的-Python-环境/package-管理工具，可以方便的切换-py27-和-py38-那种](https://www.v2ex.com/t/819233) ![](assets/new.png)  
 - [2021-12-01-如今这年代，单打独斗还行吗](https://www.v2ex.com/t/819232) ![](assets/new.png)  
 - [2021-12-01-任务队列的单用户串行设计](https://www.v2ex.com/t/819231) ![](assets/new.png)  
 - [2021-12-01-头文件向下兼容，如何优雅实现？](https://www.v2ex.com/t/819230) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-01-科赋的内存条怎么样？](https://www.v2ex.com/t/819213) ![](assets/new.png)  
 - [2021-12-01-工信部提到开源,Gitee-的兄弟有福了，这一波能上市吗](https://www.v2ex.com/t/819212) ![](assets/new.png)  
 - [2021-12-01-我用-ruby-搭建了一个创业者社区，欢迎来一起玩](https://www.v2ex.com/t/819211) ![](assets/new.png)  
-- [2021-12-01-网站如何防御-CC-和-DDOS-攻击](https://www.v2ex.com/t/819210) ![](assets/new.png)  
-- [2021-12-01-Later-this-fall-已经过去了，-Universal-Control-又跳票了](https://www.v2ex.com/t/819209) ![](assets/new.png)  
-- [2021-12-01-#XMind-招聘-远程职位#-思维导图行业标杆，急招前端-、iOS-开发，-薪酬-20-35K，-remote-work，-965，拒绝内卷~](https://www.v2ex.com/t/819208) ![](assets/new.png)  
-- [2021-12-01-有没有办法设置触控板单指滚动](https://www.v2ex.com/t/819207) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2021-12-01-实战经验分享：使用-PyO3-来构建你的-Python-模块](https://toutiao.io/k/5y9o2o9) ![](assets/new.png)  
 - [2021-12-01-AOP-+-MybatisPlus-优化特殊的日志模块](https://toutiao.io/k/5b0arl4) ![](assets/new.png)  
 - [2021-12-01-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
-- [2021-12-01-去哪儿网-BI-平台建设演进与实践](https://toutiao.io/k/zy69q0o) ![](assets/new.png)  
 - [2021-12-01-Vue-自定义指令可以实现哪些有用的功能](https://toutiao.io/k/uuio6yy) ![](assets/new.png)  
+- [2021-12-01-去哪儿网-BI-平台建设演进与实践](https://toutiao.io/k/zy69q0o) ![](assets/new.png)  
 - [2021-12-01-一文讲透一致性哈希的原理和实现](https://toutiao.io/k/qjxhu9i) ![](assets/new.png)  
 - [2021-12-01-《跃迁》之技术管理有感](https://toutiao.io/k/wo7vj35) ![](assets/new.png)  
 - [2021-12-01-手把手教你了解-OCI-镜像规范](https://toutiao.io/k/p18wbdb) ![](assets/new.png)  
@@ -572,10 +572,10 @@
 - [2021-12-01-一周-8k-Star-的-Notion-开源替代品-AppFlowy-发布了](https://toutiao.io/k/w5o119o) ![](assets/new.png)  
 - [2021-12-01-女娲算法，杀疯了](https://toutiao.io/k/8rnj5db) ![](assets/new.png)  
 - [2021-12-01-字节跳动基于-Apache-Hudi-构建实时数据湖平台实践](https://toutiao.io/k/wk64oza) ![](assets/new.png)  
-- [2021-12-01-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) ![](assets/new.png)  
-- [2021-12-01-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
-- [2021-12-01-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) ![](assets/new.png)  
-- [2021-12-01-推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2) ![](assets/new.png)  
+- [2021-12-01-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
+- [2021-12-01-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) ![](assets/new.png)  
+- [2021-12-01-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
+- [2021-12-01-推荐-面渣逆袭：线程池夺命连环十八问](https://toutiao.io/k/g3u1qkm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

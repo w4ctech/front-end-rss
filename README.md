@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 13:41:53，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 13:54:19，:rocket: 更新条数: +1533， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-01-如何强制切换到新版本的-bilibili](https://www.v2ex.com/t/819401) ![](assets/new.png)  
+- [2021-12-01-有没有人知道两台-iPhone-转移时，如何通过扫那个奇怪的二维码互相识别的](https://www.v2ex.com/t/819400) ![](assets/new.png)  
 - [2021-12-01-单位内网电脑数据传输问题（iOS）](https://www.v2ex.com/t/819397) ![](assets/new.png)  
 - [2021-12-01-edge-掉登录信息](https://www.v2ex.com/t/819396) ![](assets/new.png)  
 - [2021-12-01-分享一个无需定义结构体解析-json-的包](https://www.v2ex.com/t/819395) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-01-OneDrive-的-API-逻辑是什么样的啊](https://www.v2ex.com/t/819377) ![](assets/new.png)  
 - [2021-12-01-请问-steam-论坛挂了梯子还是进不去，怎么办？](https://www.v2ex.com/t/819376) ![](assets/new.png)  
 - [2021-12-01-剪贴板多端同步，快贴-Android-端无法同步到其它设备？](https://www.v2ex.com/t/819373) ![](assets/new.png)  
-- [2021-12-01-请教各位大佬一个关于-Redis-Pipeline-的问题](https://www.v2ex.com/t/819372) ![](assets/new.png)  
-- [2021-12-01-请教一下如何在-Vue3.x-＜-script-setup＞语法中定义带泛型的-props](https://www.v2ex.com/t/819370) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

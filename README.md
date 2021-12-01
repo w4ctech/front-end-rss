@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 05:13:09，:rocket: 更新条数: +1533， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 05:20:54，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-01-我们自研的那些-DevOps-工具](https://www.v2ex.com/t/819277) ![](assets/new.png)  
+- [2021-12-01-副业问题-关于建站方面的问题](https://www.v2ex.com/t/819276) ![](assets/new.png)  
+- [2021-12-01-Advent-of-code-2021](https://www.v2ex.com/t/819275) ![](assets/new.png)  
 - [2021-12-01-吉祥村的那一夜](https://www.v2ex.com/t/819274) ![](assets/new.png)  
 - [2021-12-01-各位带哥有懂安卓手机-apn-的吗？](https://www.v2ex.com/t/819273) ![](assets/new.png)  
 - [2021-12-01-frp-不能远程访问小米路由器页面](https://www.v2ex.com/t/819272) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-01-为知笔记有没有好看的样式](https://www.v2ex.com/t/819256) ![](assets/new.png)  
 - [2021-12-01-冬天到了，寒风刺脸，-v-友们都用什么乳液涂脸护肤？](https://www.v2ex.com/t/819255) ![](assets/new.png)  
 - [2021-12-01-APPLE-TRADE-IN，是分期退款么？？](https://www.v2ex.com/t/819252) ![](assets/new.png)  
-- [2021-12-01-清华-伯克利-RISC-V-国际开源实验室-诚聘](https://www.v2ex.com/t/819251) ![](assets/new.png)  
-- [2021-12-01-有没有可能把-win10-做成软路由，其他电脑通过有线连接上网](https://www.v2ex.com/t/819250) ![](assets/new.png)  
-- [2021-12-01-关于摸鱼工具开个脑洞](https://www.v2ex.com/t/819249) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

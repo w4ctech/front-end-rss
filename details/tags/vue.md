@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-01 10:57:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 11:11:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -7,4 +7,5 @@
 
 
 
+- [2021-12-01-请教一下如何在-Vue3.x-＜-script-setup＞语法中定义带泛型的-props](https://www.v2ex.com/t/819370) 
 - [2021-12-01-Vue-自定义指令可以实现哪些有用的功能](https://toutiao.io/k/uuio6yy) 

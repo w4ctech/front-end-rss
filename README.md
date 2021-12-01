@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 10:57:31，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 11:11:08，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-01-请教一下如何在-Vue3.x-＜-script-setup＞语法中定义带泛型的-props](https://www.v2ex.com/t/819370) ![](assets/new.png)  
 - [2021-12-01-小心-Image-Capture-的-bug](https://www.v2ex.com/t/819369) ![](assets/new.png)  
 - [2021-12-01-JetBrains-准备发布新的文本编辑器啦](https://www.v2ex.com/t/819368) ![](assets/new.png)  
 - [2021-12-01-请问开了-ipv6-之后路由器科学上网功能就没法用了，这个问题如何解决？](https://www.v2ex.com/t/819367) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-01-mac-上有什么比较好用的邮箱客户端吗？](https://www.v2ex.com/t/819349) ![](assets/new.png)  
 - [2021-12-01-m1-芯片，有办法运行-x86-的-windows-么？](https://www.v2ex.com/t/819348) ![](assets/new.png)  
 - [2021-12-01-看到个好玩的，-habitica](https://www.v2ex.com/t/819347) ![](assets/new.png)  
-- [2021-12-01-mongodb-中的递归查找子目录](https://www.v2ex.com/t/819342) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

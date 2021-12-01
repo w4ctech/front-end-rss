@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-01 06:15:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 06:26:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,5 +15,4 @@
 - [2021-12-01-nextjs-类里面如何跳转路由呢？类里面不能使用-useRouter](https://www.v2ex.com/t/819278) 
 - [2021-12-01-frp-不能远程访问小米路由器页面](https://www.v2ex.com/t/819272) 
 - [2021-12-01-有没有可能把-win10-做成软路由，其他电脑通过有线连接上网](https://www.v2ex.com/t/819250) 
-- [2021-12-01-JavaScript-Sanitizer-API：原生-WEB-安全-API-出现啦](https://www.v2ex.com/t/819247) 
 - [2021-12-01-由-JavaScript-的-with-引发的探索](https://toutiao.io/k/zzxdxbd) 

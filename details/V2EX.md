@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-01 14:42:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 14:54:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-01-2021-款-MacBook-Pro-翻车！](https://www.v2ex.com/t/819406) 
 - [2021-12-01-浏览器告诉我，该加内存了](https://www.v2ex.com/t/819405) 
 - [2021-12-01-MBP-14-寸到了一天了还不派送](https://www.v2ex.com/t/819404) 
 - [2021-12-01-npm-install-报错，帮忙看看](https://www.v2ex.com/t/819403) 
@@ -40,4 +41,3 @@
 - [2021-12-01-从-mac-切换-win-的一天](https://www.v2ex.com/t/819362) 
 - [2021-12-01-有支持主动读取-NFC-的并支持二次开发的手环或穿戴设备吗？](https://www.v2ex.com/t/819361) 
 - [2021-12-01-CODING-代码资产安全系列之-——-构建全链路安全能力，守护代码资产安全](https://www.v2ex.com/t/819359) 
-- [2021-12-01-银行-app-的安全证书技术？](https://www.v2ex.com/t/819356) 

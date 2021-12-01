@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 09:12:55，:rocket: 更新条数: +1530， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 09:25:57，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,12 +65,13 @@
 </summary>
 
 
-- [2021-12-01-11月30日全国新增新冠113例-内蒙古本土91例](https://m.caixin.com/m/2021-12-01/101812060.html) ![](assets/new.png)  
+- [2021-12-01-最新疫情：全国新冠累计确诊98824例-累计接种新冠疫苗超25.07亿剂次](https://m.caixin.com/m/2021-12-01/101812316.html) ![](assets/new.png)  
+- [2021-12-01-最新海外疫情：新冠感染超2.62亿-累计接种新冠疫苗超79.6亿剂次](https://m.caixin.com/m/2021-12-01/101812322.html) ![](assets/new.png)  
+- [2021-12-01-【境内疫情观察】内蒙古新增91例本土病例（11月30日）](https://database.caixin.com/m/2021-12-01/101812304.html) ![](assets/new.png)  
 - [2021-12-01-莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html) ![](assets/new.png)  
 - [2021-11-30-奥密克戎是否影响北京冬奥会举办？外交部：一定如期举行](https://international.caixin.com/m/2021-11-30/101811923.html) ![](assets/new.png)  
 - [2021-11-30-奥密克戎已传至十余国-潜在传播力明显增强](https://m.caixin.com/m/2021-11-30/101811873.html) ![](assets/new.png)  
 - [2021-11-30-上海本轮疫情源于境外输入病毒污染的航空器](https://companies.caixin.com/m/2021-11-30/101811710.html) ![](assets/new.png)  
-- [2021-11-30-最新海外疫情：新冠感染超2.61亿-累计接种新冠疫苗超79.11亿剂次](https://m.caixin.com/m/2021-11-30/101811774.html) ![](assets/new.png)  
 - [2021-11-30-香港Omicron输入个案增至3宗-两人在非洲感染至今无症状](https://m.caixin.com/m/2021-11-30/101811569.html) ![](assets/new.png)  
 - [2021-11-30-【境内疫情观察】内蒙古新增21例本土病例（11月29日）](https://database.caixin.com/m/2021-11-30/101811723.html) ![](assets/new.png)  
 - [2021-11-30-世卫警告高感染风险-新马开放陆路边境｜大流行手记（11月29日）](https://m.caixin.com/m/2021-11-30/101811507.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-11-29-岸田文雄：自11月30日起暂停所有国家和地区外国人入境](https://international.caixin.com/m/2021-11-29/101811074.html) ![](assets/new.png)  
 - [2021-11-29-习近平：中国将再向非洲提供10亿剂疫苗](https://china.caixin.com/m/2021-11-29/101811420.html) ![](assets/new.png)  
 - [2021-11-28-内蒙古满洲里新增17例确诊-正开展全员核酸检测](https://m.caixin.com/m/2021-11-28/101810913.html) ![](assets/new.png)  
-- [2021-11-28-【境内疫情观察】内蒙古满洲里开展全员核酸检测工作（11月27日）](https://database.caixin.com/m/2021-11-28/101810886.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-01-mac-上有什么比较好用的邮箱客户端吗？](https://www.v2ex.com/t/819349) ![](assets/new.png)  
 - [2021-12-01-m1-芯片，有办法运行-x86-的-windows-么？](https://www.v2ex.com/t/819348) ![](assets/new.png)  
 - [2021-12-01-看到个好玩的，-habitica](https://www.v2ex.com/t/819347) ![](assets/new.png)  
 - [2021-12-01-mongodb-中的递归查找子目录](https://www.v2ex.com/t/819342) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-01-iOS-上面的-QQ-和微信有没有办法提升打开后的消息加载速度](https://www.v2ex.com/t/819322) ![](assets/new.png)  
 - [2021-12-01-内推深圳、长沙深信服终端安全:-中高级开发、测试、大数据、安全运营、后端](https://www.v2ex.com/t/819321) ![](assets/new.png)  
 - [2021-12-01-今年双十二为什么还没有开始预热？](https://www.v2ex.com/t/819320) ![](assets/new.png)  
-- [2021-12-01-CD-机还是好听啊！](https://www.v2ex.com/t/819318) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

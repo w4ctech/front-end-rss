@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-11-30 23:55:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 00:40:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -7,4 +7,4 @@
 
 
 
-- [2021-11-30-TypeScript-枚举指南-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14810&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F414834588%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-12-01-TypeScript-枚举指南-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14810&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F414834588%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

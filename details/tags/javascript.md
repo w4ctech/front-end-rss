@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-11-30 23:55:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 00:40:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -14,3 +14,4 @@
 - [2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) 
 - [2021-11-30-有没有每日自动重复收集的表单,-类似于-每日健康上报](https://www.v2ex.com/t/819157) 
 - [2021-11-30-写完-Python-写-JavaScript-经常因为一个标点符号浪费好多时间](https://www.v2ex.com/t/819137) 
+- [2021-12-01-由-JavaScript-的-with-引发的探索](https://toutiao.io/k/zzxdxbd) 

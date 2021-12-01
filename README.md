@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-30 23:55:17，:rocket: 更新条数: +1539， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 00:40:30，:rocket: 更新条数: +1529， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-01-关于-4kn-硬盘](https://www.v2ex.com/t/819181) ![](assets/new.png)  
+- [2021-11-30-如何保证看到网站最新部署的修改？](https://www.v2ex.com/t/819180) ![](assets/new.png)  
 - [2021-11-30-有没有后端大佬来推荐下实时数据显示处理使用什么技术](https://www.v2ex.com/t/819179) ![](assets/new.png)  
 - [2021-11-30-多个表达式的-Python-lambda](https://www.v2ex.com/t/819178) ![](assets/new.png)  
 - [2021-11-30-Pillow-有一个性能优化版本-Pillow-SIMD](https://www.v2ex.com/t/819177) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-11-30-上海-HC-#元宇宙#智能虚拟人#UGC+GPT-3#硅-谷创业团队#寻找前端-Flutter-工程师#](https://www.v2ex.com/t/819163) ![](assets/new.png)  
 - [2021-11-30-第一辆车怎么选](https://www.v2ex.com/t/819162) ![](assets/new.png)  
 - [2021-11-30-iPad-想置换成-surface](https://www.v2ex.com/t/819161) ![](assets/new.png)  
-- [2021-11-30-请问一下如何优雅的输入注释](https://www.v2ex.com/t/819160) ![](assets/new.png)  
-- [2021-11-30-最近烦心事，关于电脑](https://www.v2ex.com/t/819159) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -525,26 +525,26 @@
 </summary>
 
 
-- [2021-11-30-实战经验分享：使用-PyO3-来构建你的-Python-模块-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14826&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F418906426%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-Chrome-将代码分区，在-Android-上性能大变-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14825&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fge-vX2dMn3N4Pmcnz8mjTQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-神器jupyter，终于来了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14824&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492542%26amp%3Bidx%3D2%26amp%3Bsn%3D7203eb37810847bf2dd3e5bbcf1c50c1%26amp%3Bchksm%3Dfa3f02e5cd488bf3aefd482f5f67436615f15b65a0ce01c078cdffa8ba5fa426189ecb6e2869%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-重磅：微信内置输入法来了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14823&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D1%26amp%3Bsn%3D03b089ffe7a7986cdc6ea50bfffb11ed%26amp%3Bchksm%3Dfa3f0233cd488b250a43e7a574d1e88a0bc89fb5e3bd912c043b07ce0cd388d4bc189390df21%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-一文全面解析Postman工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14822&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D2%26amp%3Bsn%3D6685cc0bdb157fdc2f96a3d5138c32a1%26amp%3Bchksm%3Dfa3f0233cd488b25305e2c20fefcdaeebf7046b99dacfbde10068aa9995312ff4f9100a496c7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-什么是前端工程化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14821&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492449%26amp%3Bidx%3D2%26amp%3Bsn%3D6a74aa4e37ef034460e48c2eacaa8200%26amp%3Bchksm%3Dfa3f023acd488b2cd2e8cd11955ccfc696430895e6943723ce48aba872d0ce40ee2b952905cb%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-服务端如何防止订单重复支付？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14820&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492431%26amp%3Bidx%3D2%26amp%3Bsn%3D235024ecea62984d53f83b302577eb6d%26amp%3Bchksm%3Dfa3f0214cd488b02f1b3b2b11cbfb7d9e3f8919a06865a600af6abbf10888da73111246ce7ca%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-写作中常用的绘图工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14819&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpractical-drawing-toolbox%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-DDD落地，如何持久化融合-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14818&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-persist-aggregation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-开发人员的安全意识-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14817&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-security-awareness%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-数据库拆分实战-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14816&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdatabase-split-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-小心-Serverless-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14815&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcautious-in-serverless%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-类型流建模和软件开发标准化-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14814&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftypeflow-secularized-functional-programming%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-React-Native实践有感-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14813&url=https%3A%2F%2Finsights.thoughtworks.cn%2Freact-native-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-前端测试的反模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14812&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffront-end-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-研发平台演进：从工具链到开放平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14811&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresearch-development-open-platform-tool-chain%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-TypeScript-枚举指南-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14810&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F414834588%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-加密的艺术-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14809&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F410148159%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-直接-root-Android-设备，会「隐身」的恶意软件-AbstractEmu-正在偷偷作恶-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14808&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS8z2bOZ2Ow33iBBGRdj5_Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-11-30-root-恶意软件卷土重来！Google-Play-及亚马逊、三星-Galaxy-等应用商店成“重灾区”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14807&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3En7bl6Ilhlf-KrSzUJeBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-实战经验分享：使用-PyO3-来构建你的-Python-模块-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14826&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F418906426%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-Chrome-将代码分区，在-Android-上性能大变-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14825&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fge-vX2dMn3N4Pmcnz8mjTQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-神器jupyter，终于来了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14824&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492542%26amp%3Bidx%3D2%26amp%3Bsn%3D7203eb37810847bf2dd3e5bbcf1c50c1%26amp%3Bchksm%3Dfa3f02e5cd488bf3aefd482f5f67436615f15b65a0ce01c078cdffa8ba5fa426189ecb6e2869%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-重磅：微信内置输入法来了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14823&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D1%26amp%3Bsn%3D03b089ffe7a7986cdc6ea50bfffb11ed%26amp%3Bchksm%3Dfa3f0233cd488b250a43e7a574d1e88a0bc89fb5e3bd912c043b07ce0cd388d4bc189390df21%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-一文全面解析Postman工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14822&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D2%26amp%3Bsn%3D6685cc0bdb157fdc2f96a3d5138c32a1%26amp%3Bchksm%3Dfa3f0233cd488b25305e2c20fefcdaeebf7046b99dacfbde10068aa9995312ff4f9100a496c7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-什么是前端工程化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14821&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492449%26amp%3Bidx%3D2%26amp%3Bsn%3D6a74aa4e37ef034460e48c2eacaa8200%26amp%3Bchksm%3Dfa3f023acd488b2cd2e8cd11955ccfc696430895e6943723ce48aba872d0ce40ee2b952905cb%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-服务端如何防止订单重复支付？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14820&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492431%26amp%3Bidx%3D2%26amp%3Bsn%3D235024ecea62984d53f83b302577eb6d%26amp%3Bchksm%3Dfa3f0214cd488b02f1b3b2b11cbfb7d9e3f8919a06865a600af6abbf10888da73111246ce7ca%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-写作中常用的绘图工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14819&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpractical-drawing-toolbox%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-DDD落地，如何持久化融合-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14818&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-persist-aggregation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-开发人员的安全意识-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14817&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-security-awareness%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-数据库拆分实战-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14816&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdatabase-split-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-小心-Serverless-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14815&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcautious-in-serverless%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-类型流建模和软件开发标准化-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14814&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftypeflow-secularized-functional-programming%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-React-Native实践有感-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14813&url=https%3A%2F%2Finsights.thoughtworks.cn%2Freact-native-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-前端测试的反模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14812&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffront-end-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-研发平台演进：从工具链到开放平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14811&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresearch-development-open-platform-tool-chain%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-TypeScript-枚举指南-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14810&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F414834588%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-加密的艺术-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14809&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F410148159%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-直接-root-Android-设备，会「隐身」的恶意软件-AbstractEmu-正在偷偷作恶-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14808&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS8z2bOZ2Ow33iBBGRdj5_Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-01-root-恶意软件卷土重来！Google-Play-及亚马逊、三星-Galaxy-等应用商店成“重灾区”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14807&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3En7bl6Ilhlf-KrSzUJeBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,26 +556,26 @@
 </summary>
 
 
-- [2021-11-30-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
-- [2021-11-30-Java-中的监控与管理原理概述](https://toutiao.io/k/n09iy6h) ![](assets/new.png)  
-- [2021-11-30-图片处理看这篇就完了（GitHub-热点速览）](https://toutiao.io/k/4kkl2g0) ![](assets/new.png)  
-- [2021-11-30-CMake-简明实用教程](https://toutiao.io/k/ey5m92g) ![](assets/new.png)  
-- [2021-11-30-每天-React,-Vue，你知道如何原生实现-WebComponent-吗？](https://toutiao.io/k/zkxa7xz) ![](assets/new.png)  
-- [2021-11-30-都-2021-年了，对于服务网格，社区到底在讨论什么？](https://toutiao.io/k/2xk3hhm) ![](assets/new.png)  
-- [2021-11-30-使用-Hilt-优化客户端代码结构](https://toutiao.io/k/x92pljc) ![](assets/new.png)  
-- [2021-11-30-泛型是双刃剑？Go-1.18-编译会慢近-20%](https://toutiao.io/k/xtc4n76) ![](assets/new.png)  
-- [2021-11-30-新功能：Prometheus-Agent-模式上手体验](https://toutiao.io/k/bjqqszn) ![](assets/new.png)  
-- [2021-11-30-构建数据网格分布式架构的四项原则](https://toutiao.io/k/b0zutxb) ![](assets/new.png)  
-- [2021-11-30-大数据：HDFS-元数据持久化笔记](https://toutiao.io/k/qzdohkz) ![](assets/new.png)  
-- [2021-11-30-Lucene-之-PointRangeQuery（二）](https://toutiao.io/k/pn726k5) ![](assets/new.png)  
-- [2021-11-30-秘境探索之一个-.NET-对象从内存分配到内存回收](https://toutiao.io/k/s35gxbc) ![](assets/new.png)  
-- [2021-11-30-搞不定思想和组织转变，何谈企业转型](https://toutiao.io/k/u4anwrt) ![](assets/new.png)  
-- [2021-11-30-Redis-线程模型的前世今生](https://toutiao.io/k/szboze1) ![](assets/new.png)  
-- [2021-11-30-虚拟偶像发展史：TA-们到底如何成功？万字复盘](https://toutiao.io/k/w4l4miv) ![](assets/new.png)  
-- [2021-11-30-Android-新技术动向及开发心得](https://toutiao.io/k/nq293zx) ![](assets/new.png)  
-- [2021-11-30-Serverless：微服务架构的终极模式](https://toutiao.io/k/ssz7b1l) ![](assets/new.png)  
-- [2021-11-30-在-Go-中使用-dockertest-进行集成测试](https://toutiao.io/k/r813zwl) ![](assets/new.png)  
-- [2021-11-30-Cadence-DSP-算子开发上手指南](https://toutiao.io/k/hy811qq) ![](assets/new.png)  
+- [2021-12-01-实战经验分享：使用-PyO3-来构建你的-Python-模块](https://toutiao.io/k/5y9o2o9) ![](assets/new.png)  
+- [2021-12-01-进行一个-SQL-优化需要做哪些准备？-Metadata-Lock-和-online-DDL](https://toutiao.io/k/sj4s6ev) ![](assets/new.png)  
+- [2021-12-01-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
+- [2021-12-01-Vue-自定义指令可以实现哪些有用的功能](https://toutiao.io/k/uuio6yy) ![](assets/new.png)  
+- [2021-12-01-AOP-+-MybatisPlus-优化特殊的日志模块](https://toutiao.io/k/5b0arl4) ![](assets/new.png)  
+- [2021-12-01-去哪儿网-BI-平台建设演进与实践](https://toutiao.io/k/zy69q0o) ![](assets/new.png)  
+- [2021-12-01-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-01-手把手教你了解-OCI-镜像规范](https://toutiao.io/k/p18wbdb) ![](assets/new.png)  
+- [2021-12-01-由-JavaScript-的-with-引发的探索](https://toutiao.io/k/zzxdxbd) ![](assets/new.png)  
+- [2021-12-01-推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2) ![](assets/new.png)  
+- [2021-12-01-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
+- [2021-12-01-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
+- [2021-12-01-推荐-面渣逆袭：线程池夺命连环十八问](https://toutiao.io/k/g3u1qkm) ![](assets/new.png)  
+- [2021-12-01-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
+- [2021-12-01-推荐-开源微服务-API-网关，单核-2-万-QPS，今年最值得学习的开源项目](https://toutiao.io/k/vo7i0r2) ![](assets/new.png)  
+- [2021-12-01-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) ![](assets/new.png)  
+- [2021-12-01-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
+- [2021-12-01-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) ![](assets/new.png)  
+- [2021-12-01-推荐-最全的-Git-常用命令速查（2021-版）](https://toutiao.io/k/omfqktk) ![](assets/new.png)  
+- [2021-12-01-推荐-亿级流量系统架构演进之路](https://toutiao.io/k/nmwgk0i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

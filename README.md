@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 04:16:43，:rocket: 更新条数: +1531， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 04:28:57，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-01-为什么我买的培根，质感那么像火腿肉？假培根？](https://www.v2ex.com/t/819266) ![](assets/new.png)  
 - [2021-12-01-请问有没有轻便点的支持-M1-芯片-Hidpi-的显示器](https://www.v2ex.com/t/819265) ![](assets/new.png)  
 - [2021-12-01-jwt-密钥的长度限制，-Java-jsonwebtoken中有长度限制，-nodejs（egg-jwt）的没有](https://www.v2ex.com/t/819264) ![](assets/new.png)  
 - [2021-12-01-实习-微软亚洲研究院-基于-SONiC-开源云网络操作系统的安全机制研发实习生](https://www.v2ex.com/t/819263) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-01-DEX-去中心交易所的燃料费只能使用-eth-支付吗？](https://www.v2ex.com/t/819243) ![](assets/new.png)  
 - [2021-12-01-好久没有用苹果支付了，这几天点外卖用-Apple-支付-发现都会减-1-块左右](https://www.v2ex.com/t/819242) ![](assets/new.png)  
 - [2021-12-01-RouterOS-EOIP-或-IPIP-单公网-IP-情况下两个局域网组网请教](https://www.v2ex.com/t/819241) ![](assets/new.png)  
-- [2021-12-01-没想到有一天我也会每天结束工作时在-MacBook-上注销账户后再离开](https://www.v2ex.com/t/819239) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2021-12-01-使用-GDB-+-Qemu-调试-Linux-内核](https://toutiao.io/k/21q5spu) ![](assets/new.png)  
 - [2021-12-01-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
 - [2021-12-01-字节跳动基于-Apache-Hudi-构建实时数据湖平台实践](https://toutiao.io/k/wk64oza) ![](assets/new.png)  
-- [2021-12-01-手把手教你了解-OCI-镜像规范](https://toutiao.io/k/p18wbdb) ![](assets/new.png)  
 - [2021-12-01-女娲算法，杀疯了](https://toutiao.io/k/8rnj5db) ![](assets/new.png)  
 - [2021-12-01-一周-8k-Star-的-Notion-开源替代品-AppFlowy-发布了](https://toutiao.io/k/w5o119o) ![](assets/new.png)  
+- [2021-12-01-手把手教你了解-OCI-镜像规范](https://toutiao.io/k/p18wbdb) ![](assets/new.png)  
 - [2021-12-01-由-JavaScript-的-with-引发的探索](https://toutiao.io/k/zzxdxbd) ![](assets/new.png)  
 - [2021-12-01-Go：关于-protoc-工具的小疑惑](https://toutiao.io/k/655rt2x) ![](assets/new.png)  
 - [2021-12-01-LRU-缓存-keep-alive-实现原理](https://toutiao.io/k/i0p4q40) ![](assets/new.png)  
-- [2021-12-01-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) ![](assets/new.png)  
-- [2021-12-01-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
+- [2021-12-01-推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2) ![](assets/new.png)  
+- [2021-12-01-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

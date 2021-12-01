@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-01 09:56:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 10:13:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-01-银行-app-的安全证书技术？](https://www.v2ex.com/t/819356) 
+- [2021-12-01-HomePod-使用请教](https://www.v2ex.com/t/819355) 
 - [2021-12-01-GenericJackson2JsonRedisSerializer-序列化会存在多余的双引号，怎么解决？](https://www.v2ex.com/t/819354) 
 - [2021-12-01-请教一下-webview-内嵌-h5-页面更新的问题](https://www.v2ex.com/t/819353) 
 - [2021-12-01-有对-minio-sdk-熟练的大哥吗?](https://www.v2ex.com/t/819352) 
@@ -37,7 +39,3 @@
 - [2021-12-01-求助，-mysql-无法启动](https://www.v2ex.com/t/819311) 
 - [2021-12-01-M1-Macbook-Pro-的充电器可以给手机充电吗？](https://www.v2ex.com/t/819310) 
 - [2021-12-01-互联网大厂程序员梦醒时分](https://www.v2ex.com/t/819309) 
-- [2021-12-01-创业了，关于公司地点选择问题，大伙帮忙参谋参谋](https://www.v2ex.com/t/819308) 
-- [2021-12-01-「娱乐贴后续」「生成虚拟联系人」APP-又更新了一下](https://www.v2ex.com/t/819307) 
-- [2021-12-01-不想干了-我想革命](https://www.v2ex.com/t/819306) 
-- [2021-12-01-什么平台租车比较实惠，无套路？](https://www.v2ex.com/t/819305) 

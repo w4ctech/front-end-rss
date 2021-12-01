@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 00:40:30，:rocket: 更新条数: +1529， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 01:11:11，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,14 @@
 </summary>
 
 
+- [2021-12-01-chrome-惊现重大隐私泄露-bug！你想知道你对象上了哪些网站最多吗？](https://www.v2ex.com/t/819191) ![](assets/new.png)  
+- [2021-12-01-黄鱼收的-gtx760，在-win10-下掉驱动，还有没有救？](https://www.v2ex.com/t/819190) ![](assets/new.png)  
+- [2021-12-01-LCD-党何去何从](https://www.v2ex.com/t/819189) ![](assets/new.png)  
+- [2021-12-01-2021-16-寸-MacBookPro-ProMotion-模式切换桌面的时候有屏闪](https://www.v2ex.com/t/819188) ![](assets/new.png)  
+- [2021-12-01-有哪些蓝牙音箱能主动连接靠近的-MacBook-Pro-吗？前提是已经配对过了。](https://www.v2ex.com/t/819187) ![](assets/new.png)  
+- [2021-12-01-只想下班回家看-jojo](https://www.v2ex.com/t/819185) ![](assets/new.png)  
+- [2021-12-01-骁龙-8-gen1-发布](https://www.v2ex.com/t/819184) ![](assets/new.png)  
+- [2021-12-01-用-C++20-撸了一个模仿-Python-的-asyncio-协程库](https://www.v2ex.com/t/819182) ![](assets/new.png)  
 - [2021-12-01-关于-4kn-硬盘](https://www.v2ex.com/t/819181) ![](assets/new.png)  
 - [2021-11-30-如何保证看到网站最新部署的修改？](https://www.v2ex.com/t/819180) ![](assets/new.png)  
 - [2021-11-30-有没有后端大佬来推荐下实时数据显示处理使用什么技术](https://www.v2ex.com/t/819179) ![](assets/new.png)  
@@ -506,14 +514,6 @@
 - [2021-11-30-实习-微软亚洲研究院-MSRA-研究实习生—green-AI-实习生](https://www.v2ex.com/t/819172) ![](assets/new.png)  
 - [2021-11-30-Washington-Post-的订阅优惠](https://www.v2ex.com/t/819171) ![](assets/new.png)  
 - [2021-11-30-武汉-招商证券-招聘-Web-前端-/-Java-开发工程师-/-敏捷教练-/-DevOps-教练](https://www.v2ex.com/t/819170) ![](assets/new.png)  
-- [2021-11-30-最近买眼镜所想到的一点商业鬼才](https://www.v2ex.com/t/819169) ![](assets/new.png)  
-- [2021-11-30-12.31-1.4-五天四夜和对象去成都玩，求推荐](https://www.v2ex.com/t/819168) ![](assets/new.png)  
-- [2021-11-30-20211201-午夜俱乐部](https://www.v2ex.com/t/819167) ![](assets/new.png)  
-- [2021-11-30-深入理解计算机系统-3-7-有一个例子不太明白，求解？](https://www.v2ex.com/t/819166) ![](assets/new.png)  
-- [2021-11-30-旧的-macbook-给官方回收后想起没有退出-icloud-账户，只是抹掉了数据，会存在安全隐患吗？](https://www.v2ex.com/t/819164) ![](assets/new.png)  
-- [2021-11-30-上海-HC-#元宇宙#智能虚拟人#UGC+GPT-3#硅-谷创业团队#寻找前端-Flutter-工程师#](https://www.v2ex.com/t/819163) ![](assets/new.png)  
-- [2021-11-30-第一辆车怎么选](https://www.v2ex.com/t/819162) ![](assets/new.png)  
-- [2021-11-30-iPad-想置换成-surface](https://www.v2ex.com/t/819161) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,26 +556,26 @@
 </summary>
 
 
-- [2021-12-01-实战经验分享：使用-PyO3-来构建你的-Python-模块](https://toutiao.io/k/5y9o2o9) ![](assets/new.png)  
-- [2021-12-01-进行一个-SQL-优化需要做哪些准备？-Metadata-Lock-和-online-DDL](https://toutiao.io/k/sj4s6ev) ![](assets/new.png)  
 - [2021-12-01-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
+- [2021-12-01-进行一个-SQL-优化需要做哪些准备？-Metadata-Lock-和-online-DDL](https://toutiao.io/k/sj4s6ev) ![](assets/new.png)  
+- [2021-12-01-实战经验分享：使用-PyO3-来构建你的-Python-模块](https://toutiao.io/k/5y9o2o9) ![](assets/new.png)  
 - [2021-12-01-Vue-自定义指令可以实现哪些有用的功能](https://toutiao.io/k/uuio6yy) ![](assets/new.png)  
 - [2021-12-01-AOP-+-MybatisPlus-优化特殊的日志模块](https://toutiao.io/k/5b0arl4) ![](assets/new.png)  
 - [2021-12-01-去哪儿网-BI-平台建设演进与实践](https://toutiao.io/k/zy69q0o) ![](assets/new.png)  
 - [2021-12-01-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
 - [2021-12-01-手把手教你了解-OCI-镜像规范](https://toutiao.io/k/p18wbdb) ![](assets/new.png)  
 - [2021-12-01-由-JavaScript-的-with-引发的探索](https://toutiao.io/k/zzxdxbd) ![](assets/new.png)  
-- [2021-12-01-推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2) ![](assets/new.png)  
-- [2021-12-01-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
-- [2021-12-01-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
-- [2021-12-01-推荐-面渣逆袭：线程池夺命连环十八问](https://toutiao.io/k/g3u1qkm) ![](assets/new.png)  
+- [2021-12-01-Go：关于-protoc-工具的小疑惑](https://toutiao.io/k/655rt2x) ![](assets/new.png)  
+- [2021-12-01-使用-GDB-+-Qemu-调试-Linux-内核](https://toutiao.io/k/21q5spu) ![](assets/new.png)  
+- [2021-12-01-一周-8k-Star-的-Notion-开源替代品-AppFlowy-发布了](https://toutiao.io/k/w5o119o) ![](assets/new.png)  
+- [2021-12-01-一文讲透一致性哈希的原理和实现](https://toutiao.io/k/qjxhu9i) ![](assets/new.png)  
+- [2021-12-01-字节跳动基于-Apache-Hudi-构建实时数据湖平台实践](https://toutiao.io/k/wk64oza) ![](assets/new.png)  
+- [2021-12-01-《跃迁》之技术管理有感](https://toutiao.io/k/wo7vj35) ![](assets/new.png)  
 - [2021-12-01-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
 - [2021-12-01-推荐-开源微服务-API-网关，单核-2-万-QPS，今年最值得学习的开源项目](https://toutiao.io/k/vo7i0r2) ![](assets/new.png)  
-- [2021-12-01-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) ![](assets/new.png)  
-- [2021-12-01-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
+- [2021-12-01-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
 - [2021-12-01-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) ![](assets/new.png)  
-- [2021-12-01-推荐-最全的-Git-常用命令速查（2021-版）](https://toutiao.io/k/omfqktk) ![](assets/new.png)  
-- [2021-12-01-推荐-亿级流量系统架构演进之路](https://toutiao.io/k/nmwgk0i) ![](assets/new.png)  
+- [2021-12-01-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

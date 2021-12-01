@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-01 18:45:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-01 18:49:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1448,6 +1448,18 @@
 - [2021-12-01-我可以把一部电影用-h265-编码之后，以-4k-蓝光碟的文件结构烧录到一张普通的-8.5GB-的-DVD-里然后用-4k-蓝光影碟机播放吗？](https://www.v2ex.com/t/819386) 
 - [2021-12-01-免费-ARP-的分组，-request-和-reply-的分组在使用有什么区别？](https://www.v2ex.com/t/819384) 
 - [2021-12-01-给-Marktext-打了个-Apple-Silicon-的包](https://www.v2ex.com/t/819381) 
+- [2021-12-01-神器jupyter，终于来了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14824&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492542%26amp%3Bidx%3D2%26amp%3Bsn%3D7203eb37810847bf2dd3e5bbcf1c50c1%26amp%3Bchksm%3Dfa3f02e5cd488bf3aefd482f5f67436615f15b65a0ce01c078cdffa8ba5fa426189ecb6e2869%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-12-01-重磅：微信内置输入法来了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14823&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D1%26amp%3Bsn%3D03b089ffe7a7986cdc6ea50bfffb11ed%26amp%3Bchksm%3Dfa3f0233cd488b250a43e7a574d1e88a0bc89fb5e3bd912c043b07ce0cd388d4bc189390df21%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-12-01-什么是前端工程化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14821&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492449%26amp%3Bidx%3D2%26amp%3Bsn%3D6a74aa4e37ef034460e48c2eacaa8200%26amp%3Bchksm%3Dfa3f023acd488b2cd2e8cd11955ccfc696430895e6943723ce48aba872d0ce40ee2b952905cb%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-12-01-服务端如何防止订单重复支付？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14820&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492431%26amp%3Bidx%3D2%26amp%3Bsn%3D235024ecea62984d53f83b302577eb6d%26amp%3Bchksm%3Dfa3f0214cd488b02f1b3b2b11cbfb7d9e3f8919a06865a600af6abbf10888da73111246ce7ca%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-12-01-写作中常用的绘图工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14819&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpractical-drawing-toolbox%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-12-01-DDD落地，如何持久化融合-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14818&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-persist-aggregation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-12-01-数据库拆分实战-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14816&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdatabase-split-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-12-01-类型流建模和软件开发标准化-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14814&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftypeflow-secularized-functional-programming%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-12-01-前端测试的反模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14812&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffront-end-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-12-01-研发平台演进：从工具链到开放平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14811&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresearch-development-open-platform-tool-chain%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-12-01-加密的艺术-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14809&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F410148159%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-12-01-直接-root-Android-设备，会「隐身」的恶意软件-AbstractEmu-正在偷偷作恶-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14808&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS8z2bOZ2Ow33iBBGRdj5_Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-01-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
 - [2021-12-01-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
 - [2021-12-01-一文讲透一致性哈希的原理和实现](https://toutiao.io/k/qjxhu9i) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-01 02:01:22，:rocket: 更新条数: +1529， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-01 02:14:16，:rocket: 更新条数: +1528， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-01-求推荐一个家用的微型服务器](https://www.v2ex.com/t/819222) ![](assets/new.png)  
+- [2021-12-01-U-盘突然无法读取了，插电脑无任何反应，还有救么？](https://www.v2ex.com/t/819221) ![](assets/new.png)  
+- [2021-12-01-十二月的第一天了，报上你们的本月挑战吧，能完成吗？](https://www.v2ex.com/t/819220) ![](assets/new.png)  
+- [2021-12-01-有没有领导发微信给我，让机器人夺命连环-call-我的方法](https://www.v2ex.com/t/819219) ![](assets/new.png)  
+- [2021-12-01-今天在路边看到一辆秦-plus-dmi](https://www.v2ex.com/t/819218) ![](assets/new.png)  
 - [2021-12-01-PC-端有什么离线翻译软件推荐一下](https://www.v2ex.com/t/819217) ![](assets/new.png)  
 - [2021-12-01-科赋的内存条怎么样？](https://www.v2ex.com/t/819213) ![](assets/new.png)  
 - [2021-12-01-工信部提到开源,Gitee-的兄弟有福了，这一波能上市吗](https://www.v2ex.com/t/819212) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-01-有什么好的办法批量下载歌曲到-apple-watch-本地?](https://www.v2ex.com/t/819197) ![](assets/new.png)  
 - [2021-12-01-img-的“图片另存为”在-js-中有没有对应的事件？](https://www.v2ex.com/t/819195) ![](assets/new.png)  
 - [2021-12-01-发现-Github：在-Docker-中以近乎原生的性能运行-Mac-OS-X](https://www.v2ex.com/t/819193) ![](assets/new.png)  
-- [2021-12-01-老哥们，我老大在循环里写-Thread.sleep，到处都这么写，有问题吗](https://www.v2ex.com/t/819192) ![](assets/new.png)  
-- [2021-12-01-chrome-惊现重大隐私泄露-bug！你想知道你对象上了哪些网站最多吗？](https://www.v2ex.com/t/819191) ![](assets/new.png)  
-- [2021-12-01-黄鱼收的-gtx760，在-win10-下掉驱动，还有没有救？](https://www.v2ex.com/t/819190) ![](assets/new.png)  
-- [2021-12-01-LCD-党何去何从](https://www.v2ex.com/t/819189) ![](assets/new.png)  
-- [2021-12-01-2021-16-寸-MacBookPro-ProMotion-模式切换桌面的时候有屏闪](https://www.v2ex.com/t/819188) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,21 +561,21 @@
 - [2021-12-01-实战经验分享：使用-PyO3-来构建你的-Python-模块](https://toutiao.io/k/5y9o2o9) ![](assets/new.png)  
 - [2021-12-01-AOP-+-MybatisPlus-优化特殊的日志模块](https://toutiao.io/k/5b0arl4) ![](assets/new.png)  
 - [2021-12-01-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
-- [2021-12-01-Vue-自定义指令可以实现哪些有用的功能](https://toutiao.io/k/uuio6yy) ![](assets/new.png)  
 - [2021-12-01-去哪儿网-BI-平台建设演进与实践](https://toutiao.io/k/zy69q0o) ![](assets/new.png)  
+- [2021-12-01-Vue-自定义指令可以实现哪些有用的功能](https://toutiao.io/k/uuio6yy) ![](assets/new.png)  
 - [2021-12-01-一文讲透一致性哈希的原理和实现](https://toutiao.io/k/qjxhu9i) ![](assets/new.png)  
 - [2021-12-01-手把手教你了解-OCI-镜像规范](https://toutiao.io/k/p18wbdb) ![](assets/new.png)  
 - [2021-12-01-由-JavaScript-的-with-引发的探索](https://toutiao.io/k/zzxdxbd) ![](assets/new.png)  
-- [2021-12-01-使用-GDB-+-Qemu-调试-Linux-内核](https://toutiao.io/k/21q5spu) ![](assets/new.png)  
 - [2021-12-01-《跃迁》之技术管理有感](https://toutiao.io/k/wo7vj35) ![](assets/new.png)  
+- [2021-12-01-使用-GDB-+-Qemu-调试-Linux-内核](https://toutiao.io/k/21q5spu) ![](assets/new.png)  
 - [2021-12-01-Go：关于-protoc-工具的小疑惑](https://toutiao.io/k/655rt2x) ![](assets/new.png)  
-- [2021-12-01-女娲算法，杀疯了](https://toutiao.io/k/8rnj5db) ![](assets/new.png)  
 - [2021-12-01-一周-8k-Star-的-Notion-开源替代品-AppFlowy-发布了](https://toutiao.io/k/w5o119o) ![](assets/new.png)  
+- [2021-12-01-女娲算法，杀疯了](https://toutiao.io/k/8rnj5db) ![](assets/new.png)  
 - [2021-12-01-字节跳动基于-Apache-Hudi-构建实时数据湖平台实践](https://toutiao.io/k/wk64oza) ![](assets/new.png)  
+- [2021-12-01-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) ![](assets/new.png)  
 - [2021-12-01-推荐-亿级流量系统架构演进之路](https://toutiao.io/k/nmwgk0i) ![](assets/new.png)  
+- [2021-12-01-推荐-面渣逆袭：线程池夺命连环十八问](https://toutiao.io/k/g3u1qkm) ![](assets/new.png)  
 - [2021-12-01-推荐-开源微服务-API-网关，单核-2-万-QPS，今年最值得学习的开源项目](https://toutiao.io/k/vo7i0r2) ![](assets/new.png)  
-- [2021-12-01-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) ![](assets/new.png)  
-- [2021-12-01-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

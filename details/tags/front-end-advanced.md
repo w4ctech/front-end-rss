@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-02 07:40:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 07:54:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,4 +7,5 @@
 
 
 
+- [2021-12-02-北京急招｜全栈、后端工程师Github-万星-star-开源项目-Wechaty20k-50k](https://www.v2ex.com/t/819560) 
 - [2021-12-02-机器学习哪款-gpu-可以胜任](https://www.v2ex.com/t/819520) 

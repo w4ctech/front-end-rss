@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-02 16:37:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 17:01:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-02-刚获得-2021-年-Mac-App-of-the-Year-的-Craft-发布了-2.0](https://www.v2ex.com/t/819676) 
 - [2021-12-02-有什么好的流量卡套餐么？](https://www.v2ex.com/t/819675) 
 - [2021-12-02-想知道应该用-LVM-还是-ZFS?-以及最佳实践](https://www.v2ex.com/t/819674) 
 - [2021-12-02-大家都是怎么清洁-magic-keyboard-的？](https://www.v2ex.com/t/819673) 
@@ -44,4 +45,3 @@
 - [2021-12-02-求教一个-Apple-Pay-风控问题](https://www.v2ex.com/t/819631) 
 - [2021-12-02-阿里云公共-DNS-为什么-IPV4-的表现更优秀-？](https://www.v2ex.com/t/819629) 
 - [2021-12-02-记录下自己做抖音的历程](https://www.v2ex.com/t/819627) 
-- [2021-12-02-怎么获取到-telegram、discord、twitter-的自己的账号的关注人数？](https://www.v2ex.com/t/819626) 

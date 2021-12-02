@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-02 20:55:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 21:11:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-02-Monterey-新-beta-出来了，触摸板点不动的问题感觉已经修复，赶紧升级了](https://www.v2ex.com/t/819680) 
+- [2021-12-02-发现在美国用国内手机号注册的微信隐私性很强](https://www.v2ex.com/t/819679) 
 - [2021-12-02-Google-Pixel-6-Pro](https://www.v2ex.com/t/819678) 
 - [2021-12-02-微博等简中网页性能问题](https://www.v2ex.com/t/819677) 
 - [2021-12-02-刚获得-2021-年-Mac-App-of-the-Year-的-Craft-发布了-2.0](https://www.v2ex.com/t/819676) 
@@ -45,4 +47,3 @@
 - [2021-12-02-PD17-创建-macos-12-虚拟机不能改分辨率，目前分辨率很低](https://www.v2ex.com/t/819633) 
 - [2021-12-02-4k-能不能租到大世界通勤-40-分钟左右一室户厨房门独立的房子](https://www.v2ex.com/t/819632) 
 - [2021-12-02-求教一个-Apple-Pay-风控问题](https://www.v2ex.com/t/819631) 
-- [2021-12-02-阿里云公共-DNS-为什么-IPV4-的表现更优秀-？](https://www.v2ex.com/t/819629) 

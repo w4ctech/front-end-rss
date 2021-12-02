@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 15:11:40，:rocket: 更新条数: +1541， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 15:21:41，:rocket: 更新条数: +1541， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-02-MBP-看-4k-HDR-电影温度很高](https://www.v2ex.com/t/819663) ![](assets/new.png)  
 - [2021-12-02-iPhone-在用流量时收不到推送，怎么解决？](https://www.v2ex.com/t/819660) ![](assets/new.png)  
 - [2021-12-02-迫于房子刚装修好，求一款实测有效的除甲醛空气净化器](https://www.v2ex.com/t/819658) ![](assets/new.png)  
 - [2021-12-02-问一下，诸君公司拉山头的情况严重不严重？](https://www.v2ex.com/t/819657) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-02-GitHub-Student-Developer-Pack-name.com-的免费域名无法兑换，怎么解决？](https://www.v2ex.com/t/819641) ![](assets/new.png)  
 - [2021-12-02-有没有办法防止通过发送邮件验证码的接口乱发邮件](https://www.v2ex.com/t/819640) ![](assets/new.png)  
 - [2021-12-02-求助各位，请问以下情况是主板故障吗？非常感谢！](https://www.v2ex.com/t/819639) ![](assets/new.png)  
-- [2021-12-02-请问大家，如何更方便使用-imgur-图床？](https://www.v2ex.com/t/819638) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2021-12-02-秋招：拿-10-+-大厂-SSP-Offer-是一种怎样的体验？](https://toutiao.io/k/kead1ez) ![](assets/new.png)  
 - [2021-12-02-Next.js-强劲对手来了！-Remix-正式宣布开源](https://toutiao.io/k/mgnsy4d) ![](assets/new.png)  
 - [2021-12-02-重玩-40-年前的经典游戏小蜜蜂，这次通关了源码](https://toutiao.io/k/q4uuo3a) ![](assets/new.png)  
-- [2021-12-02-揭秘-Chromium-渲染引擎（一）：RenderingNG](https://toutiao.io/k/te12tiv) ![](assets/new.png)  
 - [2021-12-02-Vue-项目-Vite-配置代理解决跨域问题](https://toutiao.io/k/2yb6vk1) ![](assets/new.png)  
+- [2021-12-02-揭秘-Chromium-渲染引擎（一）：RenderingNG](https://toutiao.io/k/te12tiv) ![](assets/new.png)  
 - [2021-12-02-REALM：将检索集成到语言表示模型中](https://toutiao.io/k/2hxv2wt) ![](assets/new.png)  
 - [2021-12-02-自己动手实现-Go-的服务注册与发现（上）](https://toutiao.io/k/e26pjlw) ![](assets/new.png)  
 - [2021-12-02-译-Go-服务中-HTTP-请求的生命周期](https://toutiao.io/k/iki05tm) ![](assets/new.png)  

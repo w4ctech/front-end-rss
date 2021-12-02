@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 02:29:13，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 02:45:51，:rocket: 更新条数: +1537， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,6 +67,7 @@
 
 - [2021-12-02-12月1日全国新增新冠73例-内蒙古本土53例](https://m.caixin.com/m/2021-12-02/101812540.html) ![](assets/new.png)  
 - [2021-12-02-南非第四波疫情在即，奥密克戎仍待解密丨大流行手记（12月1日）](https://m.caixin.com/m/2021-12-02/101812544.html) ![](assets/new.png)  
+- [2021-12-02-【图集】日本封国-包括留学生在内有近37万人等待入境](https://photos.caixin.com/m/2021-12-02/101812634.html) ![](assets/new.png)  
 - [2021-12-01-满洲里市近五天报告142例本土病例-当地6个街道高风险](https://m.caixin.com/m/2021-12-01/101812395.html) ![](assets/new.png)  
 - [2021-12-01-最新海外疫情：新冠感染超2.62亿-累计接种新冠疫苗超79.6亿剂次](https://m.caixin.com/m/2021-12-01/101812322.html) ![](assets/new.png)  
 - [2021-12-01-【境内疫情观察】内蒙古新增91例本土病例（11月30日）](https://database.caixin.com/m/2021-12-01/101812304.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-11-29-世卫称判断奥密克戎严重性尚需数日到数周-多国按下出入境“暂停键”](https://m.caixin.com/m/2021-11-29/101811267.html) ![](assets/new.png)  
 - [2021-11-29-应对奥密克戎来袭-日本自11月30日起紧急“封国”](https://m.caixin.com/m/2021-11-29/101811140.html) ![](assets/new.png)  
 - [2021-11-29-新冠新变异毒株速被列为“值得关注”-病毒特性待考](https://m.caixin.com/m/2021-11-29/101811133.html) ![](assets/new.png)  
-- [2021-11-29-岸田文雄：自11月30日起暂停所有国家和地区外国人入境](https://international.caixin.com/m/2021-11-29/101811074.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-02-联通小萌卡使用体验](https://www.v2ex.com/t/819479) ![](assets/new.png)  
+- [2021-12-02-老铁们，优衣库今年还会搞促销活动吗？](https://www.v2ex.com/t/819478) ![](assets/new.png)  
+- [2021-12-02-Microsoft-Edge-for-Mac-打开-Google-的时候会卡-3-4-秒钟。](https://www.v2ex.com/t/819477) ![](assets/new.png)  
+- [2021-12-02-这都下霜结冰了啥时候才能开空调！不开空调都大开着窗户是几个意思呀。](https://www.v2ex.com/t/819476) ![](assets/new.png)  
 - [2021-12-02-求助，关于多租户](https://www.v2ex.com/t/819474) ![](assets/new.png)  
 - [2021-12-02-字节跳动-飞书业务线急招移动端架构师-50K--70K（偏-iOS-方向）](https://www.v2ex.com/t/819473) ![](assets/new.png)  
 - [2021-12-02-广州-央企-中国电信天翼云·FEX-前端团队直招](https://www.v2ex.com/t/819472) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-02-v2-终于知道回复的是楼主了？](https://www.v2ex.com/t/819460) ![](assets/new.png)  
 - [2021-12-02-Python-基础知识结课了，期末作业做一个什么样的项目才能体现-Python-的特点和优势呢？](https://www.v2ex.com/t/819459) ![](assets/new.png)  
 - [2021-12-02-群晖-Driver-下的文件夹，能否同步到-dropbox](https://www.v2ex.com/t/819458) ![](assets/new.png)  
-- [2021-12-02-之前一直用-apple-music，今天换到了-spotify，才发现，原来-am-真的挺差劲](https://www.v2ex.com/t/819457) ![](assets/new.png)  
-- [2021-12-02-求推荐自建或开源的语音/通讯/聊天软件](https://www.v2ex.com/t/819456) ![](assets/new.png)  
-- [2021-12-02-城市里有哪些适合安静独处的地方?](https://www.v2ex.com/t/819455) ![](assets/new.png)  
-- [2021-12-02-「蹭个热度」Typora，网易云音乐-macOS-版是用什么-gui-技术开发的？](https://www.v2ex.com/t/819452) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,12 +557,12 @@
 
 
 - [2021-12-02-面试官问我：你做事仔细吗？](https://toutiao.io/k/xhajcrg) ![](assets/new.png)  
-- [2021-12-02-透过一个编译报错，总结两个-Go-程序编译的重要知识](https://toutiao.io/k/iiw9cac) ![](assets/new.png)  
 - [2021-12-02-Java-中的监控与管理原理概述](https://toutiao.io/k/iug5i04) ![](assets/new.png)  
+- [2021-12-02-透过一个编译报错，总结两个-Go-程序编译的重要知识](https://toutiao.io/k/iiw9cac) ![](assets/new.png)  
 - [2021-12-02-使用哪些工具，可以提升-Python-项目质量？](https://toutiao.io/k/x4mnugi) ![](assets/new.png)  
 - [2021-12-02-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
-- [2021-12-02-看了西游记，你可知道孙悟空是如何召唤土地的吗？](https://toutiao.io/k/zvhm6ra) ![](assets/new.png)  
 - [2021-12-02-编码硬实力之外，程序员的软技能](https://toutiao.io/k/msvslce) ![](assets/new.png)  
+- [2021-12-02-看了西游记，你可知道孙悟空是如何召唤土地的吗？](https://toutiao.io/k/zvhm6ra) ![](assets/new.png)  
 - [2021-12-02-双11-实时物流订单最佳实践](https://toutiao.io/k/jubxe8k) ![](assets/new.png)  
 - [2021-12-02-重玩-40-年前的经典游戏小蜜蜂，这次通关了源码](https://toutiao.io/k/q4uuo3a) ![](assets/new.png)  
 - [2021-12-02-揭秘-Chromium-渲染引擎（一）：RenderingNG](https://toutiao.io/k/te12tiv) ![](assets/new.png)  
@@ -572,10 +572,10 @@
 - [2021-12-02-Vue-项目-Vite-配置代理解决跨域问题](https://toutiao.io/k/2yb6vk1) ![](assets/new.png)  
 - [2021-12-02-Next.js-强劲对手来了！-Remix-正式宣布开源](https://toutiao.io/k/mgnsy4d) ![](assets/new.png)  
 - [2021-12-02-译-Go-服务中-HTTP-请求的生命周期](https://toutiao.io/k/iki05tm) ![](assets/new.png)  
-- [2021-12-02-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
-- [2021-12-02-推荐-亿级流量系统架构演进之路](https://toutiao.io/k/nmwgk0i) ![](assets/new.png)  
+- [2021-12-02-推荐-最全的-Git-常用命令速查（2021-版）](https://toutiao.io/k/omfqktk) ![](assets/new.png)  
+- [2021-12-02-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) ![](assets/new.png)  
+- [2021-12-02-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
 - [2021-12-02-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
-- [2021-12-02-推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

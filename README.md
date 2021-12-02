@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 02:59:03，:rocket: 更新条数: +1538， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 03:13:04，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -502,18 +502,18 @@
 - [2021-12-02-Microsoft-Edge-for-Mac-打开-Google-的时候会卡-3-4-秒钟。](https://www.v2ex.com/t/819477) ![](assets/new.png)  
 - [2021-12-02-这都下霜结冰了啥时候才能开空调！不开空调都大开着窗户是几个意思呀。](https://www.v2ex.com/t/819476) ![](assets/new.png)  
 - [2021-12-02-求助，关于多租户](https://www.v2ex.com/t/819474) ![](assets/new.png)  
-- [2021-12-02-字节跳动-飞书业务线急招移动端架构师-50K--70K（偏-iOS-方向）](https://www.v2ex.com/t/819473) ![](assets/new.png)  
 - [2021-12-02-广州-央企-中国电信天翼云·FEX-前端团队直招](https://www.v2ex.com/t/819472) ![](assets/new.png)  
-- [2021-12-02-这种代理方案有办法实现吗？](https://www.v2ex.com/t/819471) ![](assets/new.png)  
 - [2021-12-02-JD-上好吃的橙子，求推荐。](https://www.v2ex.com/t/819470) ![](assets/new.png)  
-- [2021-12-02-深圳/宝安-web-前端开发~刚需](https://www.v2ex.com/t/819469) ![](assets/new.png)  
-- [2021-12-02-MacPro-最新系统上使用-AirPods2-连接-播放视频、暂停、快进视频会卡顿，出现旋转的彩虹球](https://www.v2ex.com/t/819468) ![](assets/new.png)  
 - [2021-12-02-大数据小白请教-Dolphinscheduler-与-Airflow-我该用哪个？](https://www.v2ex.com/t/819467) ![](assets/new.png)  
 - [2021-12-02-这种情形该怎么处理？](https://www.v2ex.com/t/819465) ![](assets/new.png)  
 - [2021-12-02-16-寸-M1-Pro-的续航貌似也没有想象中的那么好？大家的续航都是怎样的？](https://www.v2ex.com/t/819463) ![](assets/new.png)  
 - [2021-12-02-Macbook-Bootcamp-安装的-win10-支持-Windows-精确式触摸板](https://www.v2ex.com/t/819462) ![](assets/new.png)  
 - [2021-12-02-使用-vim-中文问题，网上所有方法都是切换到-abc-之后切回来？-这种用起来也是麻烦切换微信还需要切换下输入法？求能不能比如-搜狗-不用切输入法-仅仅是切-中英...](https://www.v2ex.com/t/819461) ![](assets/new.png)  
 - [2021-12-02-v2-终于知道回复的是楼主了？](https://www.v2ex.com/t/819460) ![](assets/new.png)  
+- [2021-12-02-Python-基础知识结课了，期末作业做一个什么样的项目才能体现-Python-的特点和优势呢？](https://www.v2ex.com/t/819459) ![](assets/new.png)  
+- [2021-12-02-群晖-Driver-下的文件夹，能否同步到-dropbox](https://www.v2ex.com/t/819458) ![](assets/new.png)  
+- [2021-12-02-之前一直用-apple-music，今天换到了-spotify，才发现，原来-am-真的挺差劲](https://www.v2ex.com/t/819457) ![](assets/new.png)  
+- [2021-12-02-求推荐自建或开源的语音/通讯/聊天软件](https://www.v2ex.com/t/819456) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2021-12-02-面试官问我：你做事仔细吗？](https://toutiao.io/k/xhajcrg) ![](assets/new.png)  
 - [2021-12-02-Java-中的监控与管理原理概述](https://toutiao.io/k/iug5i04) ![](assets/new.png)  
 - [2021-12-02-透过一个编译报错，总结两个-Go-程序编译的重要知识](https://toutiao.io/k/iiw9cac) ![](assets/new.png)  
-- [2021-12-02-使用哪些工具，可以提升-Python-项目质量？](https://toutiao.io/k/x4mnugi) ![](assets/new.png)  
 - [2021-12-02-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-02-使用哪些工具，可以提升-Python-项目质量？](https://toutiao.io/k/x4mnugi) ![](assets/new.png)  
 - [2021-12-02-看了西游记，你可知道孙悟空是如何召唤土地的吗？](https://toutiao.io/k/zvhm6ra) ![](assets/new.png)  
 - [2021-12-02-编码硬实力之外，程序员的软技能](https://toutiao.io/k/msvslce) ![](assets/new.png)  
 - [2021-12-02-双11-实时物流订单最佳实践](https://toutiao.io/k/jubxe8k) ![](assets/new.png)  
@@ -574,7 +574,7 @@
 - [2021-12-02-译-Go-服务中-HTTP-请求的生命周期](https://toutiao.io/k/iki05tm) ![](assets/new.png)  
 - [2021-12-02-为什么推荐你用-C#-构建大型后端应用？（二）](https://toutiao.io/k/92i4zat) ![](assets/new.png)  
 - [2021-12-02-自己动手实现-Go-的服务注册与发现（上）](https://toutiao.io/k/e26pjlw) ![](assets/new.png)  
-- [2021-12-02-推荐-亿级流量系统架构演进之路](https://toutiao.io/k/nmwgk0i) ![](assets/new.png)  
+- [2021-12-02-推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2) ![](assets/new.png)  
 - [2021-12-02-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

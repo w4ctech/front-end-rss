@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 12:18:43，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 12:34:22，:rocket: 更新条数: +1545， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-02-最新疫情：全国新冠累计确诊98897例-累计接种新冠疫苗超25.16亿剂次](https://m.caixin.com/m/2021-12-02/101812885.html) ![](assets/new.png)  
+- [2021-12-02-北京海淀区1名哈尔滨市来京人员核酸检测结果为阳性](https://m.caixin.com/m/2021-12-02/101812926.html) ![](assets/new.png)  
 - [2021-12-02-上海浦东新增2例本土确诊病例-系母女关系](https://m.caixin.com/m/2021-12-02/101812869.html) ![](assets/new.png)  
 - [2021-12-02-日本撤回新入境航班预订禁令-世卫批其封国措施“难以理解”](https://international.caixin.com/m/2021-12-02/101812820.html) ![](assets/new.png)  
 - [2021-12-02-最新海外疫情：新冠感染超2.62亿-累计接种新冠疫苗超79.91亿剂次](https://m.caixin.com/m/2021-12-02/101812882.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-11-30-拜登：无须对奥密克戎感到恐慌-美国今冬不会“封城”](https://international.caixin.com/m/2021-11-30/101811927.html) ![](assets/new.png)  
 - [2021-11-29-内蒙满洲里首轮全员核酸检出阳性样本60份-航班火车停运](https://m.caixin.com/m/2021-11-29/101811305.html) ![](assets/new.png)  
 - [2021-11-29-【境内疫情观察】内蒙古新增20例本土病例（11月28日）](https://database.caixin.com/m/2021-11-29/101811170.html) ![](assets/new.png)  
-- [2021-11-29-多国报告Omicron变异株感染病例，南非或将迎来第四波疫情｜大流行手记（11月28日）](https://m.caixin.com/m/2021-11-29/101810981.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-02-求教一个-Apple-Pay-风控问题](https://www.v2ex.com/t/819631) ![](assets/new.png)  
+- [2021-12-02-阿里巴巴-招聘-后台开发、前端开发、算法等](https://www.v2ex.com/t/819630) ![](assets/new.png)  
 - [2021-12-02-阿里云公共-DNS-为什么-IPV4-的表现更优秀-？](https://www.v2ex.com/t/819629) ![](assets/new.png)  
 - [2021-12-02-记录下自己做抖音的历程](https://www.v2ex.com/t/819627) ![](assets/new.png)  
 - [2021-12-02-怎么获取到-telegram、discord、twitter-的自己的账号的关注人数？](https://www.v2ex.com/t/819626) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-02-迫于马上就下班开溜了，自写并开源一个方便使用的-ICP-备案查询-Chrome-插件不含接口](https://www.v2ex.com/t/819608) ![](assets/new.png)  
 - [2021-12-02-国内安卓生态当真是低人一等唉](https://www.v2ex.com/t/819607) ![](assets/new.png)  
 - [2021-12-02-顺丰-我这辈子都没这么无语过](https://www.v2ex.com/t/819606) ![](assets/new.png)  
-- [2021-12-02-普大喜奔。这个-bug-实在太折磨人，终于修复了。](https://www.v2ex.com/t/819605) ![](assets/new.png)  
-- [2021-12-02-看到一个两个-emoji-合成一个的网站，好好玩呀](https://www.v2ex.com/t/819604) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

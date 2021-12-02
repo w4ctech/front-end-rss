@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 22:43:20，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 22:55:50，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-02-闲来无事，海外的同学，来聊聊工作生活，后悔了么？](https://www.v2ex.com/t/819681) ![](assets/new.png)  
 - [2021-12-02-Monterey-新-beta-出来了，触摸板点不动的问题感觉已经修复，赶紧升级了](https://www.v2ex.com/t/819680) ![](assets/new.png)  
 - [2021-12-02-发现在美国用国内手机号注册的微信隐私性很强](https://www.v2ex.com/t/819679) ![](assets/new.png)  
 - [2021-12-02-Google-Pixel-6-Pro](https://www.v2ex.com/t/819678) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-02-MBP-看-4k-HDR-电影温度很高](https://www.v2ex.com/t/819663) ![](assets/new.png)  
 - [2021-12-02-iPhone-在用流量时收不到推送，怎么解决？](https://www.v2ex.com/t/819660) ![](assets/new.png)  
 - [2021-12-02-迫于房子刚装修好，求一款实测有效的除甲醛空气净化器](https://www.v2ex.com/t/819658) ![](assets/new.png)  
-- [2021-12-02-问一下，诸君公司拉山头的情况严重不严重？](https://www.v2ex.com/t/819657) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

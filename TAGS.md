@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-02 15:58:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 16:17:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -336,7 +336,6 @@
 
 
 - [【V2EX】GitHub-Student-Developer-Pack-name.com-的免费域名无法兑换，怎么解决？](https://www.v2ex.com/t/819641)
-- [【开发者头条】推荐-最全的-Git-常用命令速查（2021-版）](https://toutiao.io/k/omfqktk)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

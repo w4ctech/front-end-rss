@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 08:15:04，:rocket: 更新条数: +1537， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 08:26:03，:rocket: 更新条数: +1535， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-02-「杭州」「外企」「不加班」微策略软件持续热招中，-Web-前端，测试，-C++，-DevOps，-Java](https://www.v2ex.com/t/819577) ![](assets/new.png)  
+- [2021-12-02-各位朋友，你们用的密码是怎么样的？](https://www.v2ex.com/t/819576) ![](assets/new.png)  
+- [2021-12-02-今天突然很多国外客户苹果手机与服务器通信提示"发生了-SSL-错误，无法建立与该服务器的安全连接。"](https://www.v2ex.com/t/819574) ![](assets/new.png)  
 - [2021-12-02-微信内部浏览器如何唤起淘宝-APP？](https://www.v2ex.com/t/819571) ![](assets/new.png)  
 - [2021-12-02-请问提取-caseId-的数字正则怎么写？](https://www.v2ex.com/t/819570) ![](assets/new.png)  
 - [2021-12-02-个子矮会丧失择偶权](https://www.v2ex.com/t/819569) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-02-求助！关于智能家居设备的连接](https://www.v2ex.com/t/819556) ![](assets/new.png)  
 - [2021-12-02-闪迪-e61-和三星-t7-哪个好](https://www.v2ex.com/t/819555) ![](assets/new.png)  
 - [2021-12-02-Ashampoo-ZIP-Pro-3-双十二预售活动，优惠低至-3.7-折，到手只要-69¥](https://www.v2ex.com/t/819553) ![](assets/new.png)  
-- [2021-12-02-有没有哪位老哥搞过-PDF-的文件内容读取。想要读取-PDF-中的路径内容和图层名](https://www.v2ex.com/t/819552) ![](assets/new.png)  
-- [2021-12-02-第一批入手的-macbookpro14-寸的，一个月电池只有-98%了？](https://www.v2ex.com/t/819549) ![](assets/new.png)  
-- [2021-12-02-imessage-正常开启的情况下-给运营商发短信](https://www.v2ex.com/t/819548) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

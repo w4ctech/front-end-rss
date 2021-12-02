@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 03:13:04，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 03:26:12，:rocket: 更新条数: +1535， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-02-昨天微信公众号联系了-AOC，但是今天客户来电说要我自己把显示器寄过去刷，不上门。](https://www.v2ex.com/t/819485) ![](assets/new.png)  
 - [2021-12-02-银河麒麟的上游是哪个发行版？](https://www.v2ex.com/t/819483) ![](assets/new.png)  
 - [2021-12-02-如何移除收藏的「水深火热」节点？](https://www.v2ex.com/t/819481) ![](assets/new.png)  
 - [2021-12-02-关于淘宝上虾皮代入驻的问题请教前辈](https://www.v2ex.com/t/819480) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-02-Python-基础知识结课了，期末作业做一个什么样的项目才能体现-Python-的特点和优势呢？](https://www.v2ex.com/t/819459) ![](assets/new.png)  
 - [2021-12-02-群晖-Driver-下的文件夹，能否同步到-dropbox](https://www.v2ex.com/t/819458) ![](assets/new.png)  
 - [2021-12-02-之前一直用-apple-music，今天换到了-spotify，才发现，原来-am-真的挺差劲](https://www.v2ex.com/t/819457) ![](assets/new.png)  
-- [2021-12-02-求推荐自建或开源的语音/通讯/聊天软件](https://www.v2ex.com/t/819456) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2021-12-02-译-Go-服务中-HTTP-请求的生命周期](https://toutiao.io/k/iki05tm) ![](assets/new.png)  
 - [2021-12-02-为什么推荐你用-C#-构建大型后端应用？（二）](https://toutiao.io/k/92i4zat) ![](assets/new.png)  
 - [2021-12-02-自己动手实现-Go-的服务注册与发现（上）](https://toutiao.io/k/e26pjlw) ![](assets/new.png)  
-- [2021-12-02-推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2) ![](assets/new.png)  
-- [2021-12-02-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
+- [2021-12-02-性能优化那些事儿（一）](https://toutiao.io/k/vosdheh) ![](assets/new.png)  
+- [2021-12-02-基于-Whoogle-自建无广告、无追踪的搜索引擎](https://toutiao.io/k/cgky3pe) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

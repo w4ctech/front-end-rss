@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 23:22:32，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 23:39:16，:rocket: 更新条数: +1543， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-02-有人用过-vlang-这个语言吗-看介绍好像可以一统天下的样子-蛮吊蛮吊的](https://www.v2ex.com/t/819682) ![](assets/new.png)  
 - [2021-12-02-闲来无事，海外的同学，来聊聊工作生活，后悔了么？](https://www.v2ex.com/t/819681) ![](assets/new.png)  
 - [2021-12-02-Monterey-新-beta-出来了，触摸板点不动的问题感觉已经修复，赶紧升级了](https://www.v2ex.com/t/819680) ![](assets/new.png)  
 - [2021-12-02-发现在美国用国内手机号注册的微信隐私性很强](https://www.v2ex.com/t/819679) ![](assets/new.png)  
@@ -505,7 +506,6 @@
 - [2021-12-02-大家都是怎么清洁-magic-keyboard-的？](https://www.v2ex.com/t/819673) ![](assets/new.png)  
 - [2021-12-02-我的-iPhone13Pro-5G-信号是真的差，有同样遇到这个问题的么](https://www.v2ex.com/t/819672) ![](assets/new.png)  
 - [2021-12-02-有人还在用-pinboard-吗？有没有-Mac-平台好用的第三方应用或-chrome-插件呢](https://www.v2ex.com/t/819671) ![](assets/new.png)  
-- [2021-12-02-是否可以直接公布那些拳法大师的信息,搞成一个名单,让那些人现实中碰一碰？](https://www.v2ex.com/t/819670) ![](assets/new.png)  
 - [2021-12-02-iOS-更新屏蔽及修改-DNS-方法研究](https://www.v2ex.com/t/819669) ![](assets/new.png)  
 - [2021-12-02-ReacitveRedisTemplate-如何将-lambda-里的代码也和外层代码一起同步](https://www.v2ex.com/t/819668) ![](assets/new.png)  
 - [2021-12-02-想问下-Windows-平台有什么好用的-xliff-编辑器么？](https://www.v2ex.com/t/819667) ![](assets/new.png)  

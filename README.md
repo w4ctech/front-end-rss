@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 07:13:25，:rocket: 更新条数: +1538， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 07:21:13，:rocket: 更新条数: +1537， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-02-Ashampoo-ZIP-Pro-3-双十二预售活动，优惠低至-3.7-折，到手只要-69¥](https://www.v2ex.com/t/819553) ![](assets/new.png)  
+- [2021-12-02-有没有哪位老哥搞过-PDF-的文件内容读取。想要读取-PDF-中的路径内容和图层名](https://www.v2ex.com/t/819552) ![](assets/new.png)  
 - [2021-12-02-第一批入手的-macbookpro14-寸的，一个月电池只有-98%了？](https://www.v2ex.com/t/819549) ![](assets/new.png)  
 - [2021-12-02-imessage-正常开启的情况下-给运营商发短信](https://www.v2ex.com/t/819548) ![](assets/new.png)  
 - [2021-12-02-parallels-17-值得买吗](https://www.v2ex.com/t/819547) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-02-有了-k8s，还有必要学习-docker-compose-吗](https://www.v2ex.com/t/819526) ![](assets/new.png)  
 - [2021-12-02-看了一段-LOL-老视频，突然好想回到过去。](https://www.v2ex.com/t/819525) ![](assets/new.png)  
 - [2021-12-02-最近跳槽了房子需要转租，二号线唐镇金利公寓，独卫-2200](https://www.v2ex.com/t/819524) ![](assets/new.png)  
-- [2021-12-02-你们是用哪两根手指搓-mbp-触控板的？感觉手指好累啊](https://www.v2ex.com/t/819523) ![](assets/new.png)  
-- [2021-12-02-无痕模式下如何更换回谷歌正常主题皮肤](https://www.v2ex.com/t/819522) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 
 
 - [2021-12-02-面试官问我：你做事仔细吗？](https://toutiao.io/k/xhajcrg) ![](assets/new.png)  
-- [2021-12-02-Java-中的监控与管理原理概述](https://toutiao.io/k/iug5i04) ![](assets/new.png)  
 - [2021-12-02-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-02-Java-中的监控与管理原理概述](https://toutiao.io/k/iug5i04) ![](assets/new.png)  
 - [2021-12-02-透过一个编译报错，总结两个-Go-程序编译的重要知识](https://toutiao.io/k/iiw9cac) ![](assets/new.png)  
 - [2021-12-02-编码硬实力之外，程序员的软技能](https://toutiao.io/k/msvslce) ![](assets/new.png)  
 - [2021-12-02-使用哪些工具，可以提升-Python-项目质量？](https://toutiao.io/k/x4mnugi) ![](assets/new.png)  

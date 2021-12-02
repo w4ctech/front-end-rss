@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 08:26:03，:rocket: 更新条数: +1535， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 08:43:32，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-02-小组长让我一小时提交一次代码](https://www.v2ex.com/t/819582) ![](assets/new.png)  
+- [2021-12-02-有哪些书籍值得推荐给程序员？](https://www.v2ex.com/t/819581) ![](assets/new.png)  
+- [2021-12-02-珠海-外企不加班氛围好-虎江科技-VR-医疗培训招募前端](https://www.v2ex.com/t/819580) ![](assets/new.png)  
+- [2021-12-02-MacBook-Pro-突然黑屏无反应，强制重启后录入的-Touch-ID-指纹被清空](https://www.v2ex.com/t/819579) ![](assets/new.png)  
 - [2021-12-02-「杭州」「外企」「不加班」微策略软件持续热招中，-Web-前端，测试，-C++，-DevOps，-Java](https://www.v2ex.com/t/819577) ![](assets/new.png)  
 - [2021-12-02-各位朋友，你们用的密码是怎么样的？](https://www.v2ex.com/t/819576) ![](assets/new.png)  
 - [2021-12-02-今天突然很多国外客户苹果手机与服务器通信提示"发生了-SSL-错误，无法建立与该服务器的安全连接。"](https://www.v2ex.com/t/819574) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-02-问个按揭相关问题，各位老哥按揭时选本金还是本息？](https://www.v2ex.com/t/819561) ![](assets/new.png)  
 - [2021-12-02-北京急招｜全栈、后端工程师Github-万星-star-开源项目-Wechaty20k-50k](https://www.v2ex.com/t/819560) ![](assets/new.png)  
 - [2021-12-02-初次使用小狼毫问题](https://www.v2ex.com/t/819559) ![](assets/new.png)  
-- [2021-12-02-前一阵办了联通卡，没多久给停机了让二次去营业厅进行实名登记](https://www.v2ex.com/t/819558) ![](assets/new.png)  
-- [2021-12-02-求助！关于智能家居设备的连接](https://www.v2ex.com/t/819556) ![](assets/new.png)  
-- [2021-12-02-闪迪-e61-和三星-t7-哪个好](https://www.v2ex.com/t/819555) ![](assets/new.png)  
-- [2021-12-02-Ashampoo-ZIP-Pro-3-双十二预售活动，优惠低至-3.7-折，到手只要-69¥](https://www.v2ex.com/t/819553) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2021-12-02-Java-中的监控与管理原理概述](https://toutiao.io/k/iug5i04) ![](assets/new.png)  
 - [2021-12-02-透过一个编译报错，总结两个-Go-程序编译的重要知识](https://toutiao.io/k/iiw9cac) ![](assets/new.png)  
 - [2021-12-02-编码硬实力之外，程序员的软技能](https://toutiao.io/k/msvslce) ![](assets/new.png)  
-- [2021-12-02-看了西游记，你可知道孙悟空是如何召唤土地的吗？](https://toutiao.io/k/zvhm6ra) ![](assets/new.png)  
 - [2021-12-02-使用哪些工具，可以提升-Python-项目质量？](https://toutiao.io/k/x4mnugi) ![](assets/new.png)  
+- [2021-12-02-看了西游记，你可知道孙悟空是如何召唤土地的吗？](https://toutiao.io/k/zvhm6ra) ![](assets/new.png)  
 - [2021-12-02-双11-实时物流订单最佳实践](https://toutiao.io/k/jubxe8k) ![](assets/new.png)  
 - [2021-12-02-一文理解-K8s-容器网络虚拟化](https://toutiao.io/k/qan1m07) ![](assets/new.png)  
 - [2021-12-02-秋招：拿-10-+-大厂-SSP-Offer-是一种怎样的体验？](https://toutiao.io/k/kead1ez) ![](assets/new.png)  

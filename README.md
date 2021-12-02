@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 05:54:29，:rocket: 更新条数: +1537， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 06:14:53，:rocket: 更新条数: +107， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2021-12-02-12月1日全国新增新冠73例-内蒙古本土53例](https://m.caixin.com/m/2021-12-02/101812540.html) ![](assets/new.png)  
-- [2021-12-02-南非第四波疫情在即，奥密克戎仍待解密丨大流行手记（12月1日）](https://m.caixin.com/m/2021-12-02/101812544.html) ![](assets/new.png)  
-- [2021-12-02-【图集】日本封国-包括留学生在内有近37万人等待入境](https://photos.caixin.com/m/2021-12-02/101812634.html) ![](assets/new.png)  
-- [2021-12-01-满洲里市近五天报告142例本土病例-当地6个街道高风险](https://m.caixin.com/m/2021-12-01/101812395.html) ![](assets/new.png)  
-- [2021-12-01-最新海外疫情：新冠感染超2.62亿-累计接种新冠疫苗超79.6亿剂次](https://m.caixin.com/m/2021-12-01/101812322.html) ![](assets/new.png)  
-- [2021-12-01-【境内疫情观察】内蒙古新增91例本土病例（11月30日）](https://database.caixin.com/m/2021-12-01/101812304.html) ![](assets/new.png)  
-- [2021-12-01-莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html) ![](assets/new.png)  
-- [2021-11-30-奥密克戎是否影响北京冬奥会举办？外交部：一定如期举行](https://international.caixin.com/m/2021-11-30/101811923.html) ![](assets/new.png)  
-- [2021-11-30-奥密克戎已传至十余国-潜在传播力明显增强](https://m.caixin.com/m/2021-11-30/101811873.html) ![](assets/new.png)  
-- [2021-11-30-上海本轮疫情源于境外输入病毒污染的航空器](https://companies.caixin.com/m/2021-11-30/101811710.html) ![](assets/new.png)  
-- [2021-11-30-香港Omicron输入个案增至3宗-两人在非洲感染至今无症状](https://m.caixin.com/m/2021-11-30/101811569.html) ![](assets/new.png)  
-- [2021-11-30-【境内疫情观察】内蒙古新增21例本土病例（11月29日）](https://database.caixin.com/m/2021-11-30/101811723.html) ![](assets/new.png)  
-- [2021-11-30-世卫警告高感染风险-新马开放陆路边境｜大流行手记（11月29日）](https://m.caixin.com/m/2021-11-30/101811507.html) ![](assets/new.png)  
-- [2021-11-30-拜登：无须对奥密克戎感到恐慌-美国今冬不会“封城”](https://international.caixin.com/m/2021-11-30/101811927.html) ![](assets/new.png)  
-- [2021-11-29-内蒙满洲里首轮全员核酸检出阳性样本60份-航班火车停运](https://m.caixin.com/m/2021-11-29/101811305.html) ![](assets/new.png)  
-- [2021-11-29-【境内疫情观察】内蒙古新增20例本土病例（11月28日）](https://database.caixin.com/m/2021-11-29/101811170.html) ![](assets/new.png)  
-- [2021-11-29-多国报告Omicron变异株感染病例，南非或将迎来第四波疫情｜大流行手记（11月28日）](https://m.caixin.com/m/2021-11-29/101810981.html) ![](assets/new.png)  
-- [2021-11-29-世卫称判断奥密克戎严重性尚需数日到数周-多国按下出入境“暂停键”](https://m.caixin.com/m/2021-11-29/101811267.html) ![](assets/new.png)  
-- [2021-11-29-应对奥密克戎来袭-日本自11月30日起紧急“封国”](https://m.caixin.com/m/2021-11-29/101811140.html) ![](assets/new.png)  
-- [2021-11-29-新冠新变异毒株速被列为“值得关注”-病毒特性待考](https://m.caixin.com/m/2021-11-29/101811133.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +474,11 @@
 </summary>
 
 
+- [2021-12-02-和-.project-文件说“再见”——-VS-Code-Java-1.1.0-背后的故事](https://www.v2ex.com/t/819527) ![](assets/new.png)  
+- [2021-12-02-有了-k8s，还有必要学习-docker-compose-吗](https://www.v2ex.com/t/819526) ![](assets/new.png)  
+- [2021-12-02-看了一段-LOL-老视频，突然好想回到过去。](https://www.v2ex.com/t/819525) ![](assets/new.png)  
+- [2021-12-02-最近跳槽了房子需要转租，二号线唐镇金利公寓，独卫-2200](https://www.v2ex.com/t/819524) ![](assets/new.png)  
+- [2021-12-02-你们是用哪两根手指搓-mbp-触控板的？感觉手指好累啊](https://www.v2ex.com/t/819523) ![](assets/new.png)  
 - [2021-12-02-无痕模式下如何更换回谷歌正常主题皮肤](https://www.v2ex.com/t/819522) ![](assets/new.png)  
 - [2021-12-02-推荐一个-V2EX-的扩展，贼好用](https://www.v2ex.com/t/819521) ![](assets/new.png)  
 - [2021-12-02-机器学习哪款-gpu-可以胜任](https://www.v2ex.com/t/819520) ![](assets/new.png)  
@@ -509,11 +494,6 @@
 - [2021-12-02-关于量子教程与平台（已经知道的大牛请忽略）](https://www.v2ex.com/t/819508) ![](assets/new.png)  
 - [2021-12-02-老哥们有没有推荐的-One-Page-的-APP-主页的开源模版呢？](https://www.v2ex.com/t/819507) ![](assets/new.png)  
 - [2021-12-02-我火星了？现在美区-spotify-有歌词了](https://www.v2ex.com/t/819506) ![](assets/new.png)  
-- [2021-12-02-4G-套餐用-5G-限速-300Mbps，与-5G-套餐-500、1000Mbps-差异有多大？](https://www.v2ex.com/t/819505) ![](assets/new.png)  
-- [2021-12-02-转区香港找到了宝藏-App](https://www.v2ex.com/t/819504) ![](assets/new.png)  
-- [2021-12-02-每天都有早会，感觉有点不舒服](https://www.v2ex.com/t/819503) ![](assets/new.png)  
-- [2021-12-02-虚拟机是否可以直接使用物理显示器？](https://www.v2ex.com/t/819502) ![](assets/new.png)  
-- [2021-12-02-电信宽带到期了-，有什么优惠的套餐吗？](https://www.v2ex.com/t/819501) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

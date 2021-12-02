@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 08:46:40，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 08:58:49，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-02-请教这个-monterey-图片文字识别,必须存到本地用预览打开才行吗?](https://www.v2ex.com/t/819588) ![](assets/new.png)  
+- [2021-12-02-产品对比：-TeamCode-DCS-与-Docker-Dev-Environment](https://www.v2ex.com/t/819587) ![](assets/new.png)  
+- [2021-12-02-招聘汇总：量化招聘-上海/深圳-/北京](https://www.v2ex.com/t/819585) ![](assets/new.png)  
+- [2021-12-02-apple-watch-取消配对后,-几条语音备忘录被清空了,-请问有无办法可以找回呢?](https://www.v2ex.com/t/819584) ![](assets/new.png)  
+- [2021-12-02-一个完整的项目需要有哪些文件](https://www.v2ex.com/t/819583) ![](assets/new.png)  
 - [2021-12-02-小组长让我一小时提交一次代码](https://www.v2ex.com/t/819582) ![](assets/new.png)  
 - [2021-12-02-有哪些书籍值得推荐给程序员？](https://www.v2ex.com/t/819581) ![](assets/new.png)  
 - [2021-12-02-珠海-外企不加班氛围好-虎江科技-VR-医疗培训招募前端](https://www.v2ex.com/t/819580) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-02-LycaMobile-你家是在线上改代码的吗，我现在登录不了了](https://www.v2ex.com/t/819566) ![](assets/new.png)  
 - [2021-12-02-30-多平左右的房子求推荐空气净化器，准备双-12-买一个](https://www.v2ex.com/t/819565) ![](assets/new.png)  
 - [2021-12-02-无需转推，所有人都可以免费领取-Paw](https://www.v2ex.com/t/819564) ![](assets/new.png)  
-- [2021-12-02-天下苦印象笔记久矣，个人开发的方寸笔迹预览版上线了](https://www.v2ex.com/t/819563) ![](assets/new.png)  
-- [2021-12-02-12-月-1-日杭州发布共有产权保障住房管理办法](https://www.v2ex.com/t/819562) ![](assets/new.png)  
-- [2021-12-02-问个按揭相关问题，各位老哥按揭时选本金还是本息？](https://www.v2ex.com/t/819561) ![](assets/new.png)  
-- [2021-12-02-北京急招｜全栈、后端工程师Github-万星-star-开源项目-Wechaty20k-50k](https://www.v2ex.com/t/819560) ![](assets/new.png)  
-- [2021-12-02-初次使用小狼毫问题](https://www.v2ex.com/t/819559) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 02:09:49，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 02:29:13，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,14 @@
 </summary>
 
 
+- [2021-12-02-求助，关于多租户](https://www.v2ex.com/t/819474) ![](assets/new.png)  
+- [2021-12-02-字节跳动-飞书业务线急招移动端架构师-50K--70K（偏-iOS-方向）](https://www.v2ex.com/t/819473) ![](assets/new.png)  
+- [2021-12-02-广州-央企-中国电信天翼云·FEX-前端团队直招](https://www.v2ex.com/t/819472) ![](assets/new.png)  
+- [2021-12-02-这种代理方案有办法实现吗？](https://www.v2ex.com/t/819471) ![](assets/new.png)  
+- [2021-12-02-JD-上好吃的橙子，求推荐。](https://www.v2ex.com/t/819470) ![](assets/new.png)  
+- [2021-12-02-深圳/宝安-web-前端开发~刚需](https://www.v2ex.com/t/819469) ![](assets/new.png)  
+- [2021-12-02-MacPro-最新系统上使用-AirPods2-连接-播放视频、暂停、快进视频会卡顿，出现旋转的彩虹球](https://www.v2ex.com/t/819468) ![](assets/new.png)  
+- [2021-12-02-大数据小白请教-Dolphinscheduler-与-Airflow-我该用哪个？](https://www.v2ex.com/t/819467) ![](assets/new.png)  
 - [2021-12-02-请问哪里有可以做空中概的机会可以投资...](https://www.v2ex.com/t/819466) ![](assets/new.png)  
 - [2021-12-02-这种情形该怎么处理？](https://www.v2ex.com/t/819465) ![](assets/new.png)  
 - [2021-12-02-16-寸-M1-Pro-的续航貌似也没有想象中的那么好？大家的续航都是怎样的？](https://www.v2ex.com/t/819463) ![](assets/new.png)  
@@ -506,14 +514,6 @@
 - [2021-12-02-求推荐自建或开源的语音/通讯/聊天软件](https://www.v2ex.com/t/819456) ![](assets/new.png)  
 - [2021-12-02-城市里有哪些适合安静独处的地方?](https://www.v2ex.com/t/819455) ![](assets/new.png)  
 - [2021-12-02-「蹭个热度」Typora，网易云音乐-macOS-版是用什么-gui-技术开发的？](https://www.v2ex.com/t/819452) ![](assets/new.png)  
-- [2021-12-02-有没有带移动-wifi-的充电宝?](https://www.v2ex.com/t/819451) ![](assets/new.png)  
-- [2021-12-02-刚用-iklear-的清洁套装擦拭了一下-MBP14-屏幕上的污点，发现擦拭的地方泛白了…](https://www.v2ex.com/t/819450) ![](assets/new.png)  
-- [2021-12-02-求教咖啡大佬](https://www.v2ex.com/t/819449) ![](assets/new.png)  
-- [2021-12-02-早上，银行的人，叫我发身份证给他，让我买全套人民币大全，这个有收藏价值吗？最便宜的一套-10w](https://www.v2ex.com/t/819446) ![](assets/new.png)  
-- [2021-12-02-已经改了禁止休眠的硬盘盒，插到京东云无线宝上一段时间后还是会休眠，只能重新插拔](https://www.v2ex.com/t/819445) ![](assets/new.png)  
-- [2021-12-02-分析-12-个月流量从几百万到几万的独立博客的写作内容与流量特征](https://www.v2ex.com/t/819444) ![](assets/new.png)  
-- [2021-12-02-PD3220U-有人用过吗，是不是智商税](https://www.v2ex.com/t/819443) ![](assets/new.png)  
-- [2021-12-02-有没有可能-QQ、微信-Windows-桌面版本判断安装有-ProcessMonitor、火绒就不读浏览器历史了?](https://www.v2ex.com/t/819442) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2021-12-02-Next.js-强劲对手来了！-Remix-正式宣布开源](https://toutiao.io/k/mgnsy4d) ![](assets/new.png)  
 - [2021-12-02-译-Go-服务中-HTTP-请求的生命周期](https://toutiao.io/k/iki05tm) ![](assets/new.png)  
 - [2021-12-02-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
-- [2021-12-02-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
 - [2021-12-02-推荐-亿级流量系统架构演进之路](https://toutiao.io/k/nmwgk0i) ![](assets/new.png)  
-- [2021-12-02-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) ![](assets/new.png)  
+- [2021-12-02-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
+- [2021-12-02-推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

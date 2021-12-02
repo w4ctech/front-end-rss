@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 08:58:49，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 09:13:00，:rocket: 更新条数: +1538， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-02-求推荐-4k-27-显示器](https://www.v2ex.com/t/819590) ![](assets/new.png)  
+- [2021-12-02-MongoDB-事务-+-Promise.all，会有部分数据操作失败。这是为啥？](https://www.v2ex.com/t/819589) ![](assets/new.png)  
 - [2021-12-02-请教这个-monterey-图片文字识别,必须存到本地用预览打开才行吗?](https://www.v2ex.com/t/819588) ![](assets/new.png)  
 - [2021-12-02-产品对比：-TeamCode-DCS-与-Docker-Dev-Environment](https://www.v2ex.com/t/819587) ![](assets/new.png)  
 - [2021-12-02-招聘汇总：量化招聘-上海/深圳-/北京](https://www.v2ex.com/t/819585) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-02-北京-有钱有闲的神仙公司，求后端研发/技术负责人](https://www.v2ex.com/t/819568) ![](assets/new.png)  
 - [2021-12-02-MongoDB-时间戳和当前时间比较](https://www.v2ex.com/t/819567) ![](assets/new.png)  
 - [2021-12-02-LycaMobile-你家是在线上改代码的吗，我现在登录不了了](https://www.v2ex.com/t/819566) ![](assets/new.png)  
-- [2021-12-02-30-多平左右的房子求推荐空气净化器，准备双-12-买一个](https://www.v2ex.com/t/819565) ![](assets/new.png)  
-- [2021-12-02-无需转推，所有人都可以免费领取-Paw](https://www.v2ex.com/t/819564) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

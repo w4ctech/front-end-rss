@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-02 06:50:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 07:13:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -179,7 +179,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
-- [【V2EX】h5-canvas-插件开发-web-渲染框架求推荐](https://www.v2ex.com/t/819494)
 - [【开发者头条】Next.js-强劲对手来了！-Remix-正式宣布开源](https://toutiao.io/k/mgnsy4d)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -258,8 +257,8 @@
 - [【开发者头条】高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a)
 - [【开发者头条】性能优化那些事儿（一）](https://toutiao.io/k/vosdheh)
 - [【开发者头条】推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2)
-- [【开发者头条】推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld)
 - [【开发者头条】推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5)
+- [【开发者头条】推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -304,7 +303,6 @@
 
 
 - [【V2EX】机器学习哪款-gpu-可以胜任](https://www.v2ex.com/t/819520)
-- [【V2EX】今日学到一个东西，基于-https-的-dns-解析](https://www.v2ex.com/t/819489)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -418,6 +416,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】12月1日全国新增新冠73例-内蒙古本土53例](https://m.caixin.com/m/2021-12-02/101812540.html)
+- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】内蒙古新增53例本土病例（12月1日）](https://database.caixin.com/m/2021-12-02/101812727.html)
 - [【武汉肺炎防疫全纪录(财新网)】南非第四波疫情在即，奥密克戎仍待解密丨大流行手记（12月1日）](https://m.caixin.com/m/2021-12-02/101812544.html)
 - [【武汉肺炎防疫全纪录(财新网)】【图集】日本封国-包括留学生在内有近37万人等待入境](https://photos.caixin.com/m/2021-12-02/101812634.html)
 - [【武汉肺炎防疫全纪录(财新网)】满洲里市近五天报告142例本土病例-当地6个街道高风险](https://m.caixin.com/m/2021-12-01/101812395.html)
@@ -436,7 +435,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】多国报告Omicron变异株感染病例，南非或将迎来第四波疫情｜大流行手记（11月28日）](https://m.caixin.com/m/2021-11-29/101810981.html)
 - [【武汉肺炎防疫全纪录(财新网)】世卫称判断奥密克戎严重性尚需数日到数周-多国按下出入境“暂停键”](https://m.caixin.com/m/2021-11-29/101811267.html)
 - [【武汉肺炎防疫全纪录(财新网)】应对奥密克戎来袭-日本自11月30日起紧急“封国”](https://m.caixin.com/m/2021-11-29/101811140.html)
-- [【武汉肺炎防疫全纪录(财新网)】新冠新变异毒株速被列为“值得关注”-病毒特性待考](https://m.caixin.com/m/2021-11-29/101811133.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

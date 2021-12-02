@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-12-02 04:16:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 04:28:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-02-准备买-MacBook-Air，-M1，求用过的人建议](https://www.v2ex.com/t/819511) 
+- [2021-12-02-Shipper-China-招聘-Java-/-Senior-Java-研发工程师（20K-~-40K-*-16）](https://www.v2ex.com/t/819510) 
+- [2021-12-02-关于量子教程与平台（已经知道的大牛请忽略）](https://www.v2ex.com/t/819508) 
+- [2021-12-02-老哥们有没有推荐的-One-Page-的-APP-主页的开源模版呢？](https://www.v2ex.com/t/819507) 
 - [2021-12-02-我火星了？现在美区-spotify-有歌词了](https://www.v2ex.com/t/819506) 
 - [2021-12-02-4G-套餐用-5G-限速-300Mbps，与-5G-套餐-500、1000Mbps-差异有多大？](https://www.v2ex.com/t/819505) 
 - [2021-12-02-转区香港找到了宝藏-App](https://www.v2ex.com/t/819504) 
@@ -36,8 +40,3 @@
 - [2021-12-02-这种情形该怎么处理？](https://www.v2ex.com/t/819465) 
 - [2021-12-02-16-寸-M1-Pro-的续航貌似也没有想象中的那么好？大家的续航都是怎样的？](https://www.v2ex.com/t/819463) 
 - [2021-12-02-Macbook-Bootcamp-安装的-win10-支持-Windows-精确式触摸板](https://www.v2ex.com/t/819462) 
-- [2021-12-02-使用-vim-中文问题，网上所有方法都是切换到-abc-之后切回来？-这种用起来也是麻烦切换微信还需要切换下输入法？求能不能比如-搜狗-不用切输入法-仅仅是切-中英...](https://www.v2ex.com/t/819461) 
-- [2021-12-02-v2-终于知道回复的是楼主了？](https://www.v2ex.com/t/819460) 
-- [2021-12-02-Python-基础知识结课了，期末作业做一个什么样的项目才能体现-Python-的特点和优势呢？](https://www.v2ex.com/t/819459) 
-- [2021-12-02-群晖-Driver-下的文件夹，能否同步到-dropbox](https://www.v2ex.com/t/819458) 
-- [2021-12-02-之前一直用-apple-music，今天换到了-spotify，才发现，原来-am-真的挺差劲](https://www.v2ex.com/t/819457) 

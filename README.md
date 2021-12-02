@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 15:46:22，:rocket: 更新条数: +1541， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 15:58:56，:rocket: 更新条数: +1541， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-02-有人还在用-pinboard-吗？有没有-Mac-平台好用的第三方应用或-chrome-插件呢](https://www.v2ex.com/t/819671) ![](assets/new.png)  
+- [2021-12-02-是否可以直接公布那些拳法大师的信息,搞成一个名单,让那些人现实中碰一碰？](https://www.v2ex.com/t/819670) ![](assets/new.png)  
 - [2021-12-02-iOS-更新屏蔽及修改-DNS-方法研究](https://www.v2ex.com/t/819669) ![](assets/new.png)  
 - [2021-12-02-ReacitveRedisTemplate-如何将-lambda-里的代码也和外层代码一起同步](https://www.v2ex.com/t/819668) ![](assets/new.png)  
 - [2021-12-02-想问下-Windows-平台有什么好用的-xliff-编辑器么？](https://www.v2ex.com/t/819667) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-02-有关自建图床类服务-10TB-左右-有什么坑或者现成的选择吗?-主要避免重复上传文件名哈希](https://www.v2ex.com/t/819649) ![](assets/new.png)  
 - [2021-12-02-没有后代的生活不知道会是咋样](https://www.v2ex.com/t/819648) ![](assets/new.png)  
 - [2021-12-02-一个-mastodon-的实例-microblog.net](https://www.v2ex.com/t/819647) ![](assets/new.png)  
-- [2021-12-02-怎么样才能做到为自己而活呢？](https://www.v2ex.com/t/819645) ![](assets/new.png)  
-- [2021-12-02-求推荐一款雷电-4-的扩展坞，最好带万兆网卡](https://www.v2ex.com/t/819644) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

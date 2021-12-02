@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-02 13:08:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 13:19:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -180,7 +180,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
-- [【V2EX】MongoDB-事务-+-Promise.all，会有部分数据操作失败。这是为啥？](https://www.v2ex.com/t/819589)
 - [【开发者头条】Next.js-强劲对手来了！-Remix-正式宣布开源](https://toutiao.io/k/mgnsy4d)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -339,6 +338,7 @@
 
 
 
+- [【V2EX】GitHub-Student-Developer-Pack-name.com-的免费域名无法兑换，怎么解决？](https://www.v2ex.com/t/819641)
 - [【开发者头条】推荐-最全的-Git-常用命令速查（2021-版）](https://toutiao.io/k/omfqktk)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

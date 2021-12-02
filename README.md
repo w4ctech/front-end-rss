@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 13:08:30，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 13:19:44，:rocket: 更新条数: +1543， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,7 +494,10 @@
 </summary>
 
 
-- [2021-12-02-今儿听人聊抖音的“张同学”为何而火](https://www.v2ex.com/t/819637) ![](assets/new.png)  
+- [2021-12-02-GitHub-Student-Developer-Pack-name.com-的免费域名无法兑换，怎么解决？](https://www.v2ex.com/t/819641) ![](assets/new.png)  
+- [2021-12-02-有没有办法防止通过发送邮件验证码的接口乱发邮件](https://www.v2ex.com/t/819640) ![](assets/new.png)  
+- [2021-12-02-求助各位，请问以下情况是主板故障吗？非常感谢！](https://www.v2ex.com/t/819639) ![](assets/new.png)  
+- [2021-12-02-请问大家，如何更方便使用-imgur-图床？](https://www.v2ex.com/t/819638) ![](assets/new.png)  
 - [2021-12-02-一个问题：迫于需要在-Mac-上打英文，有没有-Mac-上的英文联想输入法推荐？](https://www.v2ex.com/t/819635) ![](assets/new.png)  
 - [2021-12-02-广州网易互娱-高级/资深平台研发工程师-25-50k](https://www.v2ex.com/t/819634) ![](assets/new.png)  
 - [2021-12-02-PD17-创建-macos-12-虚拟机不能改分辨率，目前分辨率很低](https://www.v2ex.com/t/819633) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-02-刚拿驾照适合去-4s-店试驾吗？](https://www.v2ex.com/t/819618) ![](assets/new.png)  
 - [2021-12-02-请问你们有用-liquibase-框架工具吗？请教一个问题](https://www.v2ex.com/t/819617) ![](assets/new.png)  
 - [2021-12-02-在-Namecheap-注册域名后各种骚扰邮件](https://www.v2ex.com/t/819615) ![](assets/new.png)  
-- [2021-12-02-大佬们-问个问题](https://www.v2ex.com/t/819614) ![](assets/new.png)  
-- [2021-12-02-半夜电池损耗原因找到了-docker](https://www.v2ex.com/t/819613) ![](assets/new.png)  
-- [2021-12-02-《Effective-Java-》读后感](https://www.v2ex.com/t/819610) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

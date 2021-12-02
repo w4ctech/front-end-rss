@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 16:17:55，:rocket: 更新条数: +1542， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 16:37:55，:rocket: 更新条数: +1542， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-02-有什么好的流量卡套餐么？](https://www.v2ex.com/t/819675) ![](assets/new.png)  
+- [2021-12-02-想知道应该用-LVM-还是-ZFS?-以及最佳实践](https://www.v2ex.com/t/819674) ![](assets/new.png)  
 - [2021-12-02-大家都是怎么清洁-magic-keyboard-的？](https://www.v2ex.com/t/819673) ![](assets/new.png)  
 - [2021-12-02-我的-iPhone13Pro-5G-信号是真的差，有同样遇到这个问题的么](https://www.v2ex.com/t/819672) ![](assets/new.png)  
 - [2021-12-02-有人还在用-pinboard-吗？有没有-Mac-平台好用的第三方应用或-chrome-插件呢](https://www.v2ex.com/t/819671) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-02-想要一个可视化的像-omv-或者群晖那种的-web-管理面板](https://www.v2ex.com/t/819653) ![](assets/new.png)  
 - [2021-12-02-家庭-1000M-宽带标准的测速方法？](https://www.v2ex.com/t/819652) ![](assets/new.png)  
 - [2021-12-02-Goland-2021.03-发布，支持-ssh-code](https://www.v2ex.com/t/819651) ![](assets/new.png)  
-- [2021-12-02-B-站收藏视频-失效了怎么找到视频](https://www.v2ex.com/t/819650) ![](assets/new.png)  
-- [2021-12-02-有关自建图床类服务-10TB-左右-有什么坑或者现成的选择吗?-主要避免重复上传文件名哈希](https://www.v2ex.com/t/819649) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 23:42:35，:rocket: 更新条数: +1543， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 23:55:16，:rocket: 更新条数: +1542， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,10 +494,10 @@
 </summary>
 
 
+- [2021-12-02-请问大家-iOS-访问-V2EX-用什么客服端](https://www.v2ex.com/t/819683) ![](assets/new.png)  
 - [2021-12-02-有人用过-vlang-这个语言吗-看介绍好像可以一统天下的样子-蛮吊蛮吊的](https://www.v2ex.com/t/819682) ![](assets/new.png)  
 - [2021-12-02-闲来无事，海外的同学，来聊聊工作生活，后悔了么？](https://www.v2ex.com/t/819681) ![](assets/new.png)  
 - [2021-12-02-Monterey-新-beta-出来了，触摸板点不动的问题感觉已经修复，赶紧升级了](https://www.v2ex.com/t/819680) ![](assets/new.png)  
-- [2021-12-02-发现在美国用国内手机号注册的微信隐私性很强](https://www.v2ex.com/t/819679) ![](assets/new.png)  
 - [2021-12-02-Google-Pixel-6-Pro](https://www.v2ex.com/t/819678) ![](assets/new.png)  
 - [2021-12-02-微博等简中网页性能问题](https://www.v2ex.com/t/819677) ![](assets/new.png)  
 - [2021-12-02-刚获得-2021-年-Mac-App-of-the-Year-的-Craft-发布了-2.0](https://www.v2ex.com/t/819676) ![](assets/new.png)  

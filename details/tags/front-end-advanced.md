@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-02 13:19:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 13:35:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,4 +7,5 @@
 
 
 
+- [2021-12-02-一个-mastodon-的实例-microblog.net](https://www.v2ex.com/t/819647) 
 - [2021-12-02-现在-Apple-Podcasts-哪怕是美区账户，在中国-IP-下也受审查了](https://www.v2ex.com/t/819600) 

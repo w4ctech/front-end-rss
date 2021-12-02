@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-02 05:20:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 05:37:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-02-通过系统级的命令如`tail--f`来实时监控文件变动](https://www.v2ex.com/t/819519) 
+- [2021-12-02-爱奇艺是要凉了吧，裁员+违反会员协议](https://www.v2ex.com/t/819518) 
 - [2021-12-02-国内-Top5-内手机通信厂走一趟经历](https://www.v2ex.com/t/819517) 
 - [2021-12-02-小米-4K-它来了](https://www.v2ex.com/t/819515) 
 - [2021-12-02-docker-port-10080-映射不了](https://www.v2ex.com/t/819514) 

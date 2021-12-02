@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 05:20:23，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 05:37:05，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-02-通过系统级的命令如`tail--f`来实时监控文件变动](https://www.v2ex.com/t/819519) ![](assets/new.png)  
+- [2021-12-02-爱奇艺是要凉了吧，裁员+违反会员协议](https://www.v2ex.com/t/819518) ![](assets/new.png)  
 - [2021-12-02-国内-Top5-内手机通信厂走一趟经历](https://www.v2ex.com/t/819517) ![](assets/new.png)  
 - [2021-12-02-小米-4K-它来了](https://www.v2ex.com/t/819515) ![](assets/new.png)  
 - [2021-12-02-docker-port-10080-映射不了](https://www.v2ex.com/t/819514) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-02-快圣诞节了，大家有什么小众好玩的礼物推荐](https://www.v2ex.com/t/819498) ![](assets/new.png)  
 - [2021-12-02-迫于-M1-mac-mini-硬盘较小，三星-T7-能否安装外置系统](https://www.v2ex.com/t/819497) ![](assets/new.png)  
 - [2021-12-02-上班工作很闲怎么办？整个人有点-EMO-了](https://www.v2ex.com/t/819495) ![](assets/new.png)  
-- [2021-12-02-h5-canvas-插件开发-web-渲染框架求推荐](https://www.v2ex.com/t/819494) ![](assets/new.png)  
-- [2021-12-02-gtx1650-能硬解-8K-吗？](https://www.v2ex.com/t/819493) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2021-12-02-看了西游记，你可知道孙悟空是如何召唤土地的吗？](https://toutiao.io/k/zvhm6ra) ![](assets/new.png)  
 - [2021-12-02-使用哪些工具，可以提升-Python-项目质量？](https://toutiao.io/k/x4mnugi) ![](assets/new.png)  
 - [2021-12-02-双11-实时物流订单最佳实践](https://toutiao.io/k/jubxe8k) ![](assets/new.png)  
-- [2021-12-02-重玩-40-年前的经典游戏小蜜蜂，这次通关了源码](https://toutiao.io/k/q4uuo3a) ![](assets/new.png)  
 - [2021-12-02-一文理解-K8s-容器网络虚拟化](https://toutiao.io/k/qan1m07) ![](assets/new.png)  
+- [2021-12-02-重玩-40-年前的经典游戏小蜜蜂，这次通关了源码](https://toutiao.io/k/q4uuo3a) ![](assets/new.png)  
 - [2021-12-02-揭秘-Chromium-渲染引擎（一）：RenderingNG](https://toutiao.io/k/te12tiv) ![](assets/new.png)  
 - [2021-12-02-秋招：拿-10-+-大厂-SSP-Offer-是一种怎样的体验？](https://toutiao.io/k/kead1ez) ![](assets/new.png)  
 - [2021-12-02-REALM：将检索集成到语言表示模型中](https://toutiao.io/k/2hxv2wt) ![](assets/new.png)  

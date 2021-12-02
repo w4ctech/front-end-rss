@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 09:44:20，:rocket: 更新条数: +1540， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 09:56:20，:rocket: 更新条数: +1545， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-02-12月1日全国新增新冠73例-内蒙古本土53例](https://m.caixin.com/m/2021-12-02/101812540.html) ![](assets/new.png)  
+- [2021-12-02-日本撤回新入境航班预订禁令-世卫批其封国措施“难以理解”](https://international.caixin.com/m/2021-12-02/101812820.html) ![](assets/new.png)  
 - [2021-12-02-【境内疫情观察】内蒙古新增53例本土病例（12月1日）](https://database.caixin.com/m/2021-12-02/101812727.html) ![](assets/new.png)  
 - [2021-12-02-南非第四波疫情在即，奥密克戎仍待解密丨大流行手记（12月1日）](https://m.caixin.com/m/2021-12-02/101812544.html) ![](assets/new.png)  
 - [2021-12-02-【图集】日本封国-包括留学生在内有近37万人等待入境](https://photos.caixin.com/m/2021-12-02/101812634.html) ![](assets/new.png)  
@@ -74,17 +75,16 @@
 - [2021-12-01-【境内疫情观察】内蒙古新增91例本土病例（11月30日）](https://database.caixin.com/m/2021-12-01/101812304.html) ![](assets/new.png)  
 - [2021-12-01-莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html) ![](assets/new.png)  
 - [2021-11-30-奥密克戎是否影响北京冬奥会举办？外交部：一定如期举行](https://international.caixin.com/m/2021-11-30/101811923.html) ![](assets/new.png)  
-- [2021-11-30-奥密克戎已传至十余国-潜在传播力明显增强](https://m.caixin.com/m/2021-11-30/101811873.html) ![](assets/new.png)  
 - [2021-11-30-上海本轮疫情源于境外输入病毒污染的航空器](https://companies.caixin.com/m/2021-11-30/101811710.html) ![](assets/new.png)  
 - [2021-11-30-香港Omicron输入个案增至3宗-两人在非洲感染至今无症状](https://m.caixin.com/m/2021-11-30/101811569.html) ![](assets/new.png)  
 - [2021-11-30-【境内疫情观察】内蒙古新增21例本土病例（11月29日）](https://database.caixin.com/m/2021-11-30/101811723.html) ![](assets/new.png)  
 - [2021-11-30-世卫警告高感染风险-新马开放陆路边境｜大流行手记（11月29日）](https://m.caixin.com/m/2021-11-30/101811507.html) ![](assets/new.png)  
+- [2021-11-30-奥密克戎已传至十余国-潜在传播力明显增强](https://m.caixin.com/m/2021-11-30/101811873.html) ![](assets/new.png)  
 - [2021-11-30-拜登：无须对奥密克戎感到恐慌-美国今冬不会“封城”](https://international.caixin.com/m/2021-11-30/101811927.html) ![](assets/new.png)  
 - [2021-11-29-内蒙满洲里首轮全员核酸检出阳性样本60份-航班火车停运](https://m.caixin.com/m/2021-11-29/101811305.html) ![](assets/new.png)  
 - [2021-11-29-【境内疫情观察】内蒙古新增20例本土病例（11月28日）](https://database.caixin.com/m/2021-11-29/101811170.html) ![](assets/new.png)  
 - [2021-11-29-多国报告Omicron变异株感染病例，南非或将迎来第四波疫情｜大流行手记（11月28日）](https://m.caixin.com/m/2021-11-29/101810981.html) ![](assets/new.png)  
 - [2021-11-29-世卫称判断奥密克戎严重性尚需数日到数周-多国按下出入境“暂停键”](https://m.caixin.com/m/2021-11-29/101811267.html) ![](assets/new.png)  
-- [2021-11-29-应对奥密克戎来袭-日本自11月30日起紧急“封国”](https://m.caixin.com/m/2021-11-29/101811140.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,16 @@
 </summary>
 
 
+- [2021-12-02-迫于快到期了，收个年费爱奇艺呀，多少钱呢](https://www.v2ex.com/t/819609) ![](assets/new.png)  
+- [2021-12-02-迫于马上就下班开溜了，自写并开源一个方便使用的-ICP-备案查询-Chrome-插件不含接口](https://www.v2ex.com/t/819608) ![](assets/new.png)  
+- [2021-12-02-国内安卓生态当真是低人一等唉](https://www.v2ex.com/t/819607) ![](assets/new.png)  
+- [2021-12-02-顺丰-我这辈子都没这么无语过](https://www.v2ex.com/t/819606) ![](assets/new.png)  
+- [2021-12-02-普大喜奔。这个-bug-实在太折磨人，终于修复了。](https://www.v2ex.com/t/819605) ![](assets/new.png)  
+- [2021-12-02-看到一个两个-emoji-合成一个的网站，好好玩呀](https://www.v2ex.com/t/819604) ![](assets/new.png)  
+- [2021-12-02-macos-搜索不到文件](https://www.v2ex.com/t/819603) ![](assets/new.png)  
+- [2021-12-02-云原生-远程/上海有内推吗？](https://www.v2ex.com/t/819602) ![](assets/new.png)  
+- [2021-12-02-搞不懂为什么-iOS-上很多人用-Spark](https://www.v2ex.com/t/819601) ![](assets/new.png)  
+- [2021-12-02-现在-Apple-Podcasts-哪怕是美区账户，在中国-IP-下也受审查了](https://www.v2ex.com/t/819600) ![](assets/new.png)  
 - [2021-12-02-关于-v2-新增的-op-字没有上下居中的问题...](https://www.v2ex.com/t/819598) ![](assets/new.png)  
 - [2021-12-02-从产品角度来说，小程序是个伟大的设计。但是从技术角度来说](https://www.v2ex.com/t/819597) ![](assets/new.png)  
 - [2021-12-02-可以删除支付宝了？](https://www.v2ex.com/t/819596) ![](assets/new.png)  
@@ -504,16 +514,6 @@
 - [2021-12-02-App-Store-Awards-年度应用名单出来了，你心中的年度应用有哪些？](https://www.v2ex.com/t/819591) ![](assets/new.png)  
 - [2021-12-02-求推荐-4k-27-显示器](https://www.v2ex.com/t/819590) ![](assets/new.png)  
 - [2021-12-02-MongoDB-事务-+-Promise.all，会有部分数据操作失败。这是为啥？](https://www.v2ex.com/t/819589) ![](assets/new.png)  
-- [2021-12-02-请教这个-monterey-图片文字识别,必须存到本地用预览打开才行吗?](https://www.v2ex.com/t/819588) ![](assets/new.png)  
-- [2021-12-02-产品对比：-TeamCode-DCS-与-Docker-Dev-Environment](https://www.v2ex.com/t/819587) ![](assets/new.png)  
-- [2021-12-02-招聘汇总：量化招聘-上海/深圳-/北京](https://www.v2ex.com/t/819585) ![](assets/new.png)  
-- [2021-12-02-apple-watch-取消配对后,-几条语音备忘录被清空了,-请问有无办法可以找回呢?](https://www.v2ex.com/t/819584) ![](assets/new.png)  
-- [2021-12-02-一个完整的项目需要有哪些文件](https://www.v2ex.com/t/819583) ![](assets/new.png)  
-- [2021-12-02-小组长让我一小时提交一次代码](https://www.v2ex.com/t/819582) ![](assets/new.png)  
-- [2021-12-02-有哪些书籍值得推荐给程序员？](https://www.v2ex.com/t/819581) ![](assets/new.png)  
-- [2021-12-02-珠海-外企不加班氛围好-虎江科技-VR-医疗培训招募前端](https://www.v2ex.com/t/819580) ![](assets/new.png)  
-- [2021-12-02-MacBook-Pro-突然黑屏无反应，强制重启后录入的-Touch-ID-指纹被清空](https://www.v2ex.com/t/819579) ![](assets/new.png)  
-- [2021-12-02-「杭州」「外企」「不加班」微策略软件持续热招中，-Web-前端，测试，-C++，-DevOps，-Java](https://www.v2ex.com/t/819577) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

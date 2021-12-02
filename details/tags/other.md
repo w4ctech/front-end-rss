@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-02 13:40:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 13:54:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1424,6 +1424,7 @@
 - [2021-11-26-科技爱好者周刊（第-185-期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html) 
 - [2021-11-19-科技爱好者周刊（第-184-期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html) 
 - [2021-11-12-科技爱好者周刊（第-183-期）：腾讯的员工退休福利](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html) 
+- [2021-12-02-有关自建图床类服务-10TB-左右-有什么坑或者现成的选择吗?-主要避免重复上传文件名哈希](https://www.v2ex.com/t/819649) 
 - [2021-12-02-没有后代的生活不知道会是咋样](https://www.v2ex.com/t/819648) 
 - [2021-12-02-怎么样才能做到为自己而活呢？](https://www.v2ex.com/t/819645) 
 - [2021-12-02-求推荐一款雷电-4-的扩展坞，最好带万兆网卡](https://www.v2ex.com/t/819644) 
@@ -1480,13 +1481,13 @@
 - [2021-12-02-REALM：将检索集成到语言表示模型中](https://toutiao.io/k/2hxv2wt) 
 - [2021-12-02-自己动手实现-Go-的服务注册与发现（上）](https://toutiao.io/k/e26pjlw) 
 - [2021-12-02-基于-Whoogle-自建无广告、无追踪的搜索引擎](https://toutiao.io/k/cgky3pe) 
-- [2021-12-02-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
 - [2021-12-02-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
-- [2021-12-02-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 
-- [2021-12-02-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
+- [2021-12-02-推荐-亿级流量系统架构演进之路](https://toutiao.io/k/nmwgk0i) 
 - [2021-12-02-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) 
+- [2021-12-02-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) 
 - [2021-12-02-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
+- [2021-12-02-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
 - [2021-12-02-推荐-开源微服务-API-网关，单核-2-万-QPS，今年最值得学习的开源项目](https://toutiao.io/k/vo7i0r2) 
 - [2021-12-02-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) 
-- [2021-12-02-推荐-亿级流量系统架构演进之路](https://toutiao.io/k/nmwgk0i) 
-- [2021-12-02-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) 
+- [2021-12-02-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
+- [2021-12-02-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 

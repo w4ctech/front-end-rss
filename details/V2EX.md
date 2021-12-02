@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-02 13:40:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 13:54:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-02-有关自建图床类服务-10TB-左右-有什么坑或者现成的选择吗?-主要避免重复上传文件名哈希](https://www.v2ex.com/t/819649) 
 - [2021-12-02-没有后代的生活不知道会是咋样](https://www.v2ex.com/t/819648) 
 - [2021-12-02-一个-mastodon-的实例-microblog.net](https://www.v2ex.com/t/819647) 
 - [2021-12-02-怎么样才能做到为自己而活呢？](https://www.v2ex.com/t/819645) 

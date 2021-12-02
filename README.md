@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 13:40:25，:rocket: 更新条数: +1542， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 13:54:42，:rocket: 更新条数: +1543， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-02-有关自建图床类服务-10TB-左右-有什么坑或者现成的选择吗?-主要避免重复上传文件名哈希](https://www.v2ex.com/t/819649) ![](assets/new.png)  
 - [2021-12-02-没有后代的生活不知道会是咋样](https://www.v2ex.com/t/819648) ![](assets/new.png)  
 - [2021-12-02-一个-mastodon-的实例-microblog.net](https://www.v2ex.com/t/819647) ![](assets/new.png)  
 - [2021-12-02-怎么样才能做到为自己而活呢？](https://www.v2ex.com/t/819645) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-02-记录下自己做抖音的历程](https://www.v2ex.com/t/819627) ![](assets/new.png)  
 - [2021-12-02-怎么获取到-telegram、discord、twitter-的自己的账号的关注人数？](https://www.v2ex.com/t/819626) ![](assets/new.png)  
 - [2021-12-02-请教一下大佬们，关于腾讯云自建-cloudreve，-wdbdav-上传文件的问题](https://www.v2ex.com/t/819625) ![](assets/new.png)  
-- [2021-12-02-Telegram-在-mac-上无法复制图片给-mac-QQ-的问题有解决方法吗](https://www.v2ex.com/t/819624) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2021-12-02-揭秘-Chromium-渲染引擎（一）：RenderingNG](https://toutiao.io/k/te12tiv) ![](assets/new.png)  
 - [2021-12-02-REALM：将检索集成到语言表示模型中](https://toutiao.io/k/2hxv2wt) ![](assets/new.png)  
 - [2021-12-02-Vue-项目-Vite-配置代理解决跨域问题](https://toutiao.io/k/2yb6vk1) ![](assets/new.png)  
-- [2021-12-02-译-Go-服务中-HTTP-请求的生命周期](https://toutiao.io/k/iki05tm) ![](assets/new.png)  
 - [2021-12-02-自己动手实现-Go-的服务注册与发现（上）](https://toutiao.io/k/e26pjlw) ![](assets/new.png)  
+- [2021-12-02-译-Go-服务中-HTTP-请求的生命周期](https://toutiao.io/k/iki05tm) ![](assets/new.png)  
 - [2021-12-02-基于-Whoogle-自建无广告、无追踪的搜索引擎](https://toutiao.io/k/cgky3pe) ![](assets/new.png)  
 - [2021-12-02-为什么推荐你用-C#-构建大型后端应用？（二）](https://toutiao.io/k/92i4zat) ![](assets/new.png)  
 - [2021-12-02-性能优化那些事儿（一）](https://toutiao.io/k/vosdheh) ![](assets/new.png)  

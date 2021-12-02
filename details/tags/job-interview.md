@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-01 23:55:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 00:38:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,3 +8,4 @@
 
 
 - [2021-12-01-「北京」知乎招聘后端开发-Leader-划重点：-WLB！](https://www.v2ex.com/t/819414) 
+- [2021-12-02-面试官问我：你做事仔细吗？](https://toutiao.io/k/xhajcrg) 

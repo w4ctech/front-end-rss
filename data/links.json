@@ -7439,6 +7439,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有可能 QQ、微信 Windows 桌面版本判断安装有 ProcessMonitor、火绒就不读浏览器历史了?",
+        "link": "https://www.v2ex.com/t/819442",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "mbp2018 如何接显示器",
+        "link": "https://www.v2ex.com/t/819441",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "无时无刻不在用“闭包”",
+        "link": "https://www.v2ex.com/t/819440",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "做个开发者调查",
+        "link": "https://www.v2ex.com/t/819438",
+        "date": "2021-12-01"
+      },
+      {
         "title": "刚刚做了个梦，可能是未来，可能是虚幻",
         "link": "https://www.v2ex.com/t/819437",
         "date": "2021-12-01"
@@ -7627,21 +7647,6 @@
         "title": "有老哥知道在悠方附近，哪有便宜的停车场吗？",
         "link": "https://www.v2ex.com/t/819393",
         "date": "2021-12-01"
-      },
-      {
-        "title": "第一次坐哈 X 顺丰车，明明车上有别的乘客，但显示未拼车？",
-        "link": "https://www.v2ex.com/t/819392",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "[上海] 芯片行业创业公司找后端、前端或者全栈工程师",
-        "link": "https://www.v2ex.com/t/819390",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "JOJO 石之海第一集，关于现在的审核制度，全年龄平台 B 站非要引进成人向日漫的后果",
-        "link": "https://www.v2ex.com/t/819388",
-        "date": "2021-12-01"
       }
     ]
   },
@@ -7649,7 +7654,108 @@
     "rss": "https://front-rss.herokuapp.com/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "性能优化那些事儿（1） (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14827&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "实战经验分享：使用 PyO3 来构建你的 Python 模块 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14826&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F418906426%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "Chrome 将代码分区，在 Android 上性能大变 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14825&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fge-vX2dMn3N4Pmcnz8mjTQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "神器jupyter，终于来了！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14824&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492542%26amp%3Bidx%3D2%26amp%3Bsn%3D7203eb37810847bf2dd3e5bbcf1c50c1%26amp%3Bchksm%3Dfa3f02e5cd488bf3aefd482f5f67436615f15b65a0ce01c078cdffa8ba5fa426189ecb6e2869%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "重磅：微信内置输入法来了！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14823&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D1%26amp%3Bsn%3D03b089ffe7a7986cdc6ea50bfffb11ed%26amp%3Bchksm%3Dfa3f0233cd488b250a43e7a574d1e88a0bc89fb5e3bd912c043b07ce0cd388d4bc189390df21%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "一文全面解析Postman工具 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14822&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D2%26amp%3Bsn%3D6685cc0bdb157fdc2f96a3d5138c32a1%26amp%3Bchksm%3Dfa3f0233cd488b25305e2c20fefcdaeebf7046b99dacfbde10068aa9995312ff4f9100a496c7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "什么是前端工程化 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14821&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492449%26amp%3Bidx%3D2%26amp%3Bsn%3D6a74aa4e37ef034460e48c2eacaa8200%26amp%3Bchksm%3Dfa3f023acd488b2cd2e8cd11955ccfc696430895e6943723ce48aba872d0ce40ee2b952905cb%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "服务端如何防止订单重复支付？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14820&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492431%26amp%3Bidx%3D2%26amp%3Bsn%3D235024ecea62984d53f83b302577eb6d%26amp%3Bchksm%3Dfa3f0214cd488b02f1b3b2b11cbfb7d9e3f8919a06865a600af6abbf10888da73111246ce7ca%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "写作中常用的绘图工具 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14819&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpractical-drawing-toolbox%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "DDD落地，如何持久化融合 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14818&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-persist-aggregation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "开发人员的安全意识 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14817&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-security-awareness%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "数据库拆分实战 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14816&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdatabase-split-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "小心 Serverless (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14815&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcautious-in-serverless%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "类型流建模和软件开发标准化 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14814&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftypeflow-secularized-functional-programming%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "React Native实践有感 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14813&url=https%3A%2F%2Finsights.thoughtworks.cn%2Freact-native-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "前端测试的反模式 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14812&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffront-end-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "研发平台演进：从工具链到开放平台 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14811&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresearch-development-open-platform-tool-chain%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "TypeScript 枚举指南 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14810&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F414834588%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "加密的艺术 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14809&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F410148159%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "直接 root Android 设备，会「隐身」的恶意软件 AbstractEmu 正在偷偷作恶 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14808&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS8z2bOZ2Ow33iBBGRdj5_Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2021-12-02"
+      }
+    ]
   },
   {
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
@@ -7657,174 +7763,124 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "我给 “Go 语言” 开发了 6 个在线工具",
-        "link": "https://toutiao.io/k/96zw0k6",
-        "date": "2021-12-01"
+        "title": "面试官问我：你做事仔细吗？",
+        "link": "https://toutiao.io/k/xhajcrg",
+        "date": "2021-12-02"
       },
       {
-        "title": "程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
-        "date": "2021-12-01"
+        "title": "Java 中的监控与管理原理概述",
+        "link": "https://toutiao.io/k/iug5i04",
+        "date": "2021-12-02"
       },
       {
-        "title": "进行一个 SQL 优化需要做哪些准备？ (Metadata Lock 和 online DDL)",
-        "link": "https://toutiao.io/k/sj4s6ev",
-        "date": "2021-12-01"
+        "title": "使用哪些工具，可以提升 Python 项目质量？",
+        "link": "https://toutiao.io/k/x4mnugi",
+        "date": "2021-12-02"
       },
       {
-        "title": "AOP + MybatisPlus 优化特殊的日志模块",
-        "link": "https://toutiao.io/k/5b0arl4",
-        "date": "2021-12-01"
+        "title": "透过一个编译报错，总结两个 Go 程序编译的重要知识",
+        "link": "https://toutiao.io/k/iiw9cac",
+        "date": "2021-12-02"
       },
       {
-        "title": "实战经验分享：使用 PyO3 来构建你的 Python 模块",
-        "link": "https://toutiao.io/k/5y9o2o9",
-        "date": "2021-12-01"
+        "title": "看了西游记，你可知道孙悟空是如何召唤土地的吗？",
+        "link": "https://toutiao.io/k/zvhm6ra",
+        "date": "2021-12-02"
       },
       {
-        "title": "Vue 自定义指令可以实现哪些有用的功能",
-        "link": "https://toutiao.io/k/uuio6yy",
-        "date": "2021-12-01"
+        "title": "重玩 40 年前的经典游戏小蜜蜂，这次通关了源码",
+        "link": "https://toutiao.io/k/q4uuo3a",
+        "date": "2021-12-02"
       },
       {
-        "title": "一文讲透一致性哈希的原理和实现",
-        "link": "https://toutiao.io/k/qjxhu9i",
-        "date": "2021-12-01"
+        "title": "编码硬实力之外，程序员的软技能",
+        "link": "https://toutiao.io/k/msvslce",
+        "date": "2021-12-02"
       },
       {
-        "title": "去哪儿网 BI 平台建设演进与实践",
-        "link": "https://toutiao.io/k/zy69q0o",
-        "date": "2021-12-01"
+        "title": "揭秘 Chromium 渲染引擎（一）：RenderingNG",
+        "link": "https://toutiao.io/k/te12tiv",
+        "date": "2021-12-02"
       },
       {
-        "title": "Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
-        "date": "2021-12-01"
+        "title": "高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
+        "date": "2021-12-02"
       },
       {
-        "title": "《跃迁》之技术管理有感",
-        "link": "https://toutiao.io/k/wo7vj35",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "使用 GDB + Qemu 调试 Linux 内核",
-        "link": "https://toutiao.io/k/21q5spu",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "一周 8k Star 的 Notion 开源替代品 AppFlowy 发布了",
-        "link": "https://toutiao.io/k/w5o119o",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "女娲算法，杀疯了",
-        "link": "https://toutiao.io/k/8rnj5db",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "字节跳动基于 Apache Hudi 构建实时数据湖平台实践",
-        "link": "https://toutiao.io/k/wk64oza",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "手把手教你了解 OCI 镜像规范",
-        "link": "https://toutiao.io/k/p18wbdb",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "Go：关于 protoc 工具的小疑惑",
-        "link": "https://toutiao.io/k/655rt2x",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "LRU 缓存 keep-alive 实现原理",
-        "link": "https://toutiao.io/k/i0p4q40",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "微服务链路追踪的工业界调研",
-        "link": "https://toutiao.io/k/8h36rg5",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "K8s Pod 状态何时会为 Failed",
-        "link": "https://toutiao.io/k/ui6jb8y",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "由 JavaScript 的 with 引发的探索",
-        "link": "https://toutiao.io/k/zzxdxbd",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "[推荐] 聊聊接口性能优化的 11 个小技巧",
-        "link": "https://toutiao.io/k/4i9d6w2",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "[推荐] 装了这几个 IDEA 插件，基本上一站式开发了",
-        "link": "https://toutiao.io/k/5l4hrcp",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "[推荐] 最全的 Git 常用命令速查（2021 版）",
-        "link": "https://toutiao.io/k/omfqktk",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "[推荐] Kubernetes Deployment 的故障排查可视化指南（2021 中文版）",
-        "link": "https://toutiao.io/k/cd9u887",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
-        "link": "https://toutiao.io/k/huoy9s9",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "[推荐] 2021 年最佳开源软件榜单｜InfoWorld",
-        "link": "https://toutiao.io/k/swk6nu6",
-        "date": "2021-12-01"
+        "title": "双11 实时物流订单最佳实践",
+        "link": "https://toutiao.io/k/jubxe8k",
+        "date": "2021-12-02"
       },
       {
         "title": "[推荐] 如何做好一份程序员的工作汇报 ppt？",
         "link": "https://toutiao.io/k/1byulsh",
-        "date": "2021-12-01"
+        "date": "2021-12-02"
       },
       {
-        "title": "[推荐] 1 万行代码，单机 50 万 QPS，今年最值得学习的开源 RPC 框架",
-        "link": "https://toutiao.io/k/5fkacdj",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "[推荐] 亿级流量系统架构演进之路",
-        "link": "https://toutiao.io/k/nmwgk0i",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "[推荐] Golang 编程思维和工程实战",
-        "link": "https://toutiao.io/k/usjzg6m",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "[推荐] 字节跳动飞书文档的 Web 极致性能优化",
-        "link": "https://toutiao.io/k/v1nqbu5",
-        "date": "2021-12-01"
-      },
-      {
-        "title": "[推荐] 记一次提升 18 倍的性能优化",
-        "link": "https://toutiao.io/k/4m3cbld",
-        "date": "2021-12-01"
+        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
+        "link": "https://toutiao.io/k/huoy9s9",
+        "date": "2021-12-02"
       },
       {
         "title": "[推荐] 读者诉苦：Redis 宕机，数据丢了，老板要辞退我",
         "link": "https://toutiao.io/k/xa7jahy",
-        "date": "2021-12-01"
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] Golang 编程思维和工程实战",
+        "link": "https://toutiao.io/k/usjzg6m",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] 装了这几个 IDEA 插件，基本上一站式开发了",
+        "link": "https://toutiao.io/k/5l4hrcp",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] 记一次提升 18 倍的性能优化",
+        "link": "https://toutiao.io/k/4m3cbld",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] Kubernetes Deployment 的故障排查可视化指南（2021 中文版）",
+        "link": "https://toutiao.io/k/cd9u887",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] 2021 年最佳开源软件榜单｜InfoWorld",
+        "link": "https://toutiao.io/k/swk6nu6",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] 字节跳动飞书文档的 Web 极致性能优化",
+        "link": "https://toutiao.io/k/v1nqbu5",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] 聊聊接口性能优化的 11 个小技巧",
+        "link": "https://toutiao.io/k/4i9d6w2",
+        "date": "2021-12-02"
       },
       {
         "title": "[推荐] 开源微服务 API 网关，单核 2 万 QPS，今年最值得学习的开源项目",
         "link": "https://toutiao.io/k/vo7i0r2",
-        "date": "2021-12-01"
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] 亿级流量系统架构演进之路",
+        "link": "https://toutiao.io/k/nmwgk0i",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] 1 万行代码，单机 50 万 QPS，今年最值得学习的开源 RPC 框架",
+        "link": "https://toutiao.io/k/5fkacdj",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] 最全的 Git 常用命令速查（2021 版）",
+        "link": "https://toutiao.io/k/omfqktk",
+        "date": "2021-12-02"
       }
     ]
   },

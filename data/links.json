@@ -7464,6 +7464,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有需要 setapp 的同学嘛， 1 个车位，支持一台 Mac，从明年 1 月 1 号开始，年付 260",
+        "link": "https://www.v2ex.com/t/819623",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "有没有用 AIDente 这个充电管理软件的兄弟，想问个问题",
+        "link": "https://www.v2ex.com/t/819621",
+        "date": "2021-12-02"
+      },
+      {
         "title": "这是什么鬼，骚扰电话吗",
         "link": "https://www.v2ex.com/t/819620",
         "date": "2021-12-02"
@@ -7662,11 +7672,6 @@
         "title": "今天突然很多国外客户苹果手机与服务器通信提示\"发生了 SSL 错误，无法建立与该服务器的安全连接。\"",
         "link": "https://www.v2ex.com/t/819574",
         "date": "2021-12-02"
-      },
-      {
-        "title": "微信内部浏览器如何唤起淘宝 APP？",
-        "link": "https://www.v2ex.com/t/819571",
-        "date": "2021-12-02"
       }
     ]
   },
@@ -7838,13 +7843,13 @@
         "date": "2021-12-02"
       },
       {
-        "title": "揭秘 Chromium 渲染引擎（一）：RenderingNG",
-        "link": "https://toutiao.io/k/te12tiv",
+        "title": "Next.js 强劲对手来了！ Remix 正式宣布开源",
+        "link": "https://toutiao.io/k/mgnsy4d",
         "date": "2021-12-02"
       },
       {
-        "title": "Next.js 强劲对手来了！ Remix 正式宣布开源",
-        "link": "https://toutiao.io/k/mgnsy4d",
+        "title": "揭秘 Chromium 渲染引擎（一）：RenderingNG",
+        "link": "https://toutiao.io/k/te12tiv",
         "date": "2021-12-02"
       },
       {
@@ -7883,43 +7888,13 @@
         "date": "2021-12-02"
       },
       {
+        "title": "[推荐] Golang 编程思维和工程实战",
+        "link": "https://toutiao.io/k/usjzg6m",
+        "date": "2021-12-02"
+      },
+      {
         "title": "[推荐] 亿级流量系统架构演进之路",
         "link": "https://toutiao.io/k/nmwgk0i",
-        "date": "2021-12-02"
-      },
-      {
-        "title": "[推荐] 聊聊接口性能优化的 11 个小技巧",
-        "link": "https://toutiao.io/k/4i9d6w2",
-        "date": "2021-12-02"
-      },
-      {
-        "title": "[推荐] Kubernetes Deployment 的故障排查可视化指南（2021 中文版）",
-        "link": "https://toutiao.io/k/cd9u887",
-        "date": "2021-12-02"
-      },
-      {
-        "title": "[推荐] 开源微服务 API 网关，单核 2 万 QPS，今年最值得学习的开源项目",
-        "link": "https://toutiao.io/k/vo7i0r2",
-        "date": "2021-12-02"
-      },
-      {
-        "title": "[推荐] 记一次提升 18 倍的性能优化",
-        "link": "https://toutiao.io/k/4m3cbld",
-        "date": "2021-12-02"
-      },
-      {
-        "title": "[推荐] 字节跳动飞书文档的 Web 极致性能优化",
-        "link": "https://toutiao.io/k/v1nqbu5",
-        "date": "2021-12-02"
-      },
-      {
-        "title": "[推荐] 1 万行代码，单机 50 万 QPS，今年最值得学习的开源 RPC 框架",
-        "link": "https://toutiao.io/k/5fkacdj",
-        "date": "2021-12-02"
-      },
-      {
-        "title": "[推荐] 最全的 Git 常用命令速查（2021 版）",
-        "link": "https://toutiao.io/k/omfqktk",
         "date": "2021-12-02"
       },
       {
@@ -7928,8 +7903,18 @@
         "date": "2021-12-02"
       },
       {
-        "title": "[推荐] 2021 年最佳开源软件榜单｜InfoWorld",
-        "link": "https://toutiao.io/k/swk6nu6",
+        "title": "[推荐] 记一次提升 18 倍的性能优化",
+        "link": "https://toutiao.io/k/4m3cbld",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] Kubernetes Deployment 的故障排查可视化指南（2021 中文版）",
+        "link": "https://toutiao.io/k/cd9u887",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] 1 万行代码，单机 50 万 QPS，今年最值得学习的开源 RPC 框架",
+        "link": "https://toutiao.io/k/5fkacdj",
         "date": "2021-12-02"
       },
       {
@@ -7943,8 +7928,28 @@
         "date": "2021-12-02"
       },
       {
-        "title": "[推荐] Golang 编程思维和工程实战",
-        "link": "https://toutiao.io/k/usjzg6m",
+        "title": "[推荐] 字节跳动飞书文档的 Web 极致性能优化",
+        "link": "https://toutiao.io/k/v1nqbu5",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] 开源微服务 API 网关，单核 2 万 QPS，今年最值得学习的开源项目",
+        "link": "https://toutiao.io/k/vo7i0r2",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] 2021 年最佳开源软件榜单｜InfoWorld",
+        "link": "https://toutiao.io/k/swk6nu6",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] 聊聊接口性能优化的 11 个小技巧",
+        "link": "https://toutiao.io/k/4i9d6w2",
+        "date": "2021-12-02"
+      },
+      {
+        "title": "[推荐] 最全的 Git 常用命令速查（2021 版）",
+        "link": "https://toutiao.io/k/omfqktk",
         "date": "2021-12-02"
       },
       {

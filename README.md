@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 10:57:05，:rocket: 更新条数: +1543， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 11:11:08，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-02-有需要-setapp-的同学嘛，-1-个车位，支持一台-Mac，从明年-1-月-1-号开始，年付-260](https://www.v2ex.com/t/819623) ![](assets/new.png)  
+- [2021-12-02-有没有用-AIDente-这个充电管理软件的兄弟，想问个问题](https://www.v2ex.com/t/819621) ![](assets/new.png)  
 - [2021-12-02-这是什么鬼，骚扰电话吗](https://www.v2ex.com/t/819620) ![](assets/new.png)  
 - [2021-12-02-国内视频网站亏损，会员费用高，广告多是不是因为带宽费昂贵的缘故？](https://www.v2ex.com/t/819619) ![](assets/new.png)  
 - [2021-12-02-刚拿驾照适合去-4s-店试驾吗？](https://www.v2ex.com/t/819618) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-02-云原生-远程/上海有内推吗？](https://www.v2ex.com/t/819602) ![](assets/new.png)  
 - [2021-12-02-搞不懂为什么-iOS-上很多人用-Spark](https://www.v2ex.com/t/819601) ![](assets/new.png)  
 - [2021-12-02-现在-Apple-Podcasts-哪怕是美区账户，在中国-IP-下也受审查了](https://www.v2ex.com/t/819600) ![](assets/new.png)  
-- [2021-12-02-关于-v2-新增的-op-字没有上下居中的问题...](https://www.v2ex.com/t/819598) ![](assets/new.png)  
-- [2021-12-02-从产品角度来说，小程序是个伟大的设计。但是从技术角度来说](https://www.v2ex.com/t/819597) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,8 +567,8 @@
 - [2021-12-02-一文理解-K8s-容器网络虚拟化](https://toutiao.io/k/qan1m07) ![](assets/new.png)  
 - [2021-12-02-秋招：拿-10-+-大厂-SSP-Offer-是一种怎样的体验？](https://toutiao.io/k/kead1ez) ![](assets/new.png)  
 - [2021-12-02-重玩-40-年前的经典游戏小蜜蜂，这次通关了源码](https://toutiao.io/k/q4uuo3a) ![](assets/new.png)  
-- [2021-12-02-揭秘-Chromium-渲染引擎（一）：RenderingNG](https://toutiao.io/k/te12tiv) ![](assets/new.png)  
 - [2021-12-02-Next.js-强劲对手来了！-Remix-正式宣布开源](https://toutiao.io/k/mgnsy4d) ![](assets/new.png)  
+- [2021-12-02-揭秘-Chromium-渲染引擎（一）：RenderingNG](https://toutiao.io/k/te12tiv) ![](assets/new.png)  
 - [2021-12-02-REALM：将检索集成到语言表示模型中](https://toutiao.io/k/2hxv2wt) ![](assets/new.png)  
 - [2021-12-02-Vue-项目-Vite-配置代理解决跨域问题](https://toutiao.io/k/2yb6vk1) ![](assets/new.png)  
 - [2021-12-02-译-Go-服务中-HTTP-请求的生命周期](https://toutiao.io/k/iki05tm) ![](assets/new.png)  

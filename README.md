@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 20:23:10，:rocket: 更新条数: +1542， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 20:39:48，:rocket: 更新条数: +1543， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-02-Google-Pixel-6-Pro](https://www.v2ex.com/t/819678) ![](assets/new.png)  
 - [2021-12-02-微博等简中网页性能问题](https://www.v2ex.com/t/819677) ![](assets/new.png)  
 - [2021-12-02-刚获得-2021-年-Mac-App-of-the-Year-的-Craft-发布了-2.0](https://www.v2ex.com/t/819676) ![](assets/new.png)  
 - [2021-12-02-有什么好的流量卡套餐么？](https://www.v2ex.com/t/819675) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-02-问一下，诸君公司拉山头的情况严重不严重？](https://www.v2ex.com/t/819657) ![](assets/new.png)  
 - [2021-12-02-miHoYo-米哈游-2021-年-12-月最新招聘来啦！（可以内推哦）](https://www.v2ex.com/t/819656) ![](assets/new.png)  
 - [2021-12-02-关于-1password-保险库备份问题有坑莫踩](https://www.v2ex.com/t/819655) ![](assets/new.png)  
-- [2021-12-02-想要一个可视化的像-omv-或者群晖那种的-web-管理面板](https://www.v2ex.com/t/819653) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

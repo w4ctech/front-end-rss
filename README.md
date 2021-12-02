@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 14:20:57，:rocket: 更新条数: +1543， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 14:38:06，:rocket: 更新条数: +1542， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-02-想要一个可视化的像-omv-或者群晖那种的-web-管理面板](https://www.v2ex.com/t/819653) ![](assets/new.png)  
+- [2021-12-02-家庭-1000M-宽带标准的测速方法？](https://www.v2ex.com/t/819652) ![](assets/new.png)  
 - [2021-12-02-Goland-2021.03-发布，支持-ssh-code](https://www.v2ex.com/t/819651) ![](assets/new.png)  
 - [2021-12-02-B-站收藏视频-失效了怎么找到视频](https://www.v2ex.com/t/819650) ![](assets/new.png)  
 - [2021-12-02-有关自建图床类服务-10TB-左右-有什么坑或者现成的选择吗?-主要避免重复上传文件名哈希](https://www.v2ex.com/t/819649) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-02-PD17-创建-macos-12-虚拟机不能改分辨率，目前分辨率很低](https://www.v2ex.com/t/819633) ![](assets/new.png)  
 - [2021-12-02-4k-能不能租到大世界通勤-40-分钟左右一室户厨房门独立的房子](https://www.v2ex.com/t/819632) ![](assets/new.png)  
 - [2021-12-02-求教一个-Apple-Pay-风控问题](https://www.v2ex.com/t/819631) ![](assets/new.png)  
-- [2021-12-02-阿里云公共-DNS-为什么-IPV4-的表现更优秀-？](https://www.v2ex.com/t/819629) ![](assets/new.png)  
-- [2021-12-02-记录下自己做抖音的历程](https://www.v2ex.com/t/819627) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2021-12-02-Next.js-强劲对手来了！-Remix-正式宣布开源](https://toutiao.io/k/mgnsy4d) ![](assets/new.png)  
 - [2021-12-02-重玩-40-年前的经典游戏小蜜蜂，这次通关了源码](https://toutiao.io/k/q4uuo3a) ![](assets/new.png)  
 - [2021-12-02-揭秘-Chromium-渲染引擎（一）：RenderingNG](https://toutiao.io/k/te12tiv) ![](assets/new.png)  
-- [2021-12-02-REALM：将检索集成到语言表示模型中](https://toutiao.io/k/2hxv2wt) ![](assets/new.png)  
 - [2021-12-02-Vue-项目-Vite-配置代理解决跨域问题](https://toutiao.io/k/2yb6vk1) ![](assets/new.png)  
+- [2021-12-02-REALM：将检索集成到语言表示模型中](https://toutiao.io/k/2hxv2wt) ![](assets/new.png)  
 - [2021-12-02-自己动手实现-Go-的服务注册与发现（上）](https://toutiao.io/k/e26pjlw) ![](assets/new.png)  
 - [2021-12-02-译-Go-服务中-HTTP-请求的生命周期](https://toutiao.io/k/iki05tm) ![](assets/new.png)  
 - [2021-12-02-基于-Whoogle-自建无广告、无追踪的搜索引擎](https://toutiao.io/k/cgky3pe) ![](assets/new.png)  

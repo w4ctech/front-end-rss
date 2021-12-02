@@ -1,14 +1,14 @@
-:alarm_clock: 更新时间: 2021-12-02 11:39:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 11:54:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-02-记录下自己做抖音的历程](https://www.v2ex.com/t/819627) 
 - [2021-12-02-怎么获取到-telegram、discord、twitter-的自己的账号的关注人数？](https://www.v2ex.com/t/819626) 
 - [2021-12-02-请教一下大佬们，关于腾讯云自建-cloudreve，-wdbdav-上传文件的问题](https://www.v2ex.com/t/819625) 
 - [2021-12-02-Telegram-在-mac-上无法复制图片给-mac-QQ-的问题有解决方法吗](https://www.v2ex.com/t/819624) 
-- [2021-12-02-有需要-setapp-的同学嘛，-1-个车位，支持一台-Mac，从明年-1-月-1-号开始，年付-260](https://www.v2ex.com/t/819623) 
 - [2021-12-02-有没有用-AIDente-这个充电管理软件的兄弟，想问个问题](https://www.v2ex.com/t/819621) 
 - [2021-12-02-这是什么鬼，骚扰电话吗](https://www.v2ex.com/t/819620) 
 - [2021-12-02-国内视频网站亏损，会员费用高，广告多是不是因为带宽费昂贵的缘故？](https://www.v2ex.com/t/819619) 
@@ -47,4 +47,3 @@
 - [2021-12-02-有哪些书籍值得推荐给程序员？](https://www.v2ex.com/t/819581) 
 - [2021-12-02-珠海-外企不加班氛围好-虎江科技-VR-医疗培训招募前端](https://www.v2ex.com/t/819580) 
 - [2021-12-02-MacBook-Pro-突然黑屏无反应，强制重启后录入的-Touch-ID-指纹被清空](https://www.v2ex.com/t/819579) 
-- [2021-12-02-「杭州」「外企」「不加班」微策略软件持续热招中，-Web-前端，测试，-C++，-DevOps，-Java](https://www.v2ex.com/t/819577) 

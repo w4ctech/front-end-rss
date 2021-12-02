@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 11:39:24，:rocket: 更新条数: +1545， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 11:54:29，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,14 +65,14 @@
 </summary>
 
 
-- [2021-12-02-12月1日全国新增新冠73例-内蒙古本土53例](https://m.caixin.com/m/2021-12-02/101812540.html) ![](assets/new.png)  
+- [2021-12-02-最新疫情：全国新冠累计确诊98897例-累计接种新冠疫苗超25.16亿剂次](https://m.caixin.com/m/2021-12-02/101812885.html) ![](assets/new.png)  
 - [2021-12-02-上海浦东新增2例本土确诊病例-系母女关系](https://m.caixin.com/m/2021-12-02/101812869.html) ![](assets/new.png)  
 - [2021-12-02-日本撤回新入境航班预订禁令-世卫批其封国措施“难以理解”](https://international.caixin.com/m/2021-12-02/101812820.html) ![](assets/new.png)  
+- [2021-12-02-最新海外疫情：新冠感染超2.62亿-累计接种新冠疫苗超79.91亿剂次](https://m.caixin.com/m/2021-12-02/101812882.html) ![](assets/new.png)  
 - [2021-12-02-【境内疫情观察】内蒙古新增53例本土病例（12月1日）](https://database.caixin.com/m/2021-12-02/101812727.html) ![](assets/new.png)  
 - [2021-12-02-南非第四波疫情在即，奥密克戎仍待解密丨大流行手记（12月1日）](https://m.caixin.com/m/2021-12-02/101812544.html) ![](assets/new.png)  
 - [2021-12-02-【图集】日本封国-包括留学生在内有近37万人等待入境](https://photos.caixin.com/m/2021-12-02/101812634.html) ![](assets/new.png)  
 - [2021-12-01-满洲里市近五天报告142例本土病例-当地6个街道高风险](https://m.caixin.com/m/2021-12-01/101812395.html) ![](assets/new.png)  
-- [2021-12-01-最新海外疫情：新冠感染超2.62亿-累计接种新冠疫苗超79.6亿剂次](https://m.caixin.com/m/2021-12-01/101812322.html) ![](assets/new.png)  
 - [2021-12-01-【境内疫情观察】内蒙古新增91例本土病例（11月30日）](https://database.caixin.com/m/2021-12-01/101812304.html) ![](assets/new.png)  
 - [2021-12-01-莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html) ![](assets/new.png)  
 - [2021-11-30-奥密克戎是否影响北京冬奥会举办？外交部：一定如期举行](https://international.caixin.com/m/2021-11-30/101811923.html) ![](assets/new.png)  
@@ -494,10 +494,10 @@
 </summary>
 
 
+- [2021-12-02-记录下自己做抖音的历程](https://www.v2ex.com/t/819627) ![](assets/new.png)  
 - [2021-12-02-怎么获取到-telegram、discord、twitter-的自己的账号的关注人数？](https://www.v2ex.com/t/819626) ![](assets/new.png)  
 - [2021-12-02-请教一下大佬们，关于腾讯云自建-cloudreve，-wdbdav-上传文件的问题](https://www.v2ex.com/t/819625) ![](assets/new.png)  
 - [2021-12-02-Telegram-在-mac-上无法复制图片给-mac-QQ-的问题有解决方法吗](https://www.v2ex.com/t/819624) ![](assets/new.png)  
-- [2021-12-02-有需要-setapp-的同学嘛，-1-个车位，支持一台-Mac，从明年-1-月-1-号开始，年付-260](https://www.v2ex.com/t/819623) ![](assets/new.png)  
 - [2021-12-02-有没有用-AIDente-这个充电管理软件的兄弟，想问个问题](https://www.v2ex.com/t/819621) ![](assets/new.png)  
 - [2021-12-02-这是什么鬼，骚扰电话吗](https://www.v2ex.com/t/819620) ![](assets/new.png)  
 - [2021-12-02-国内视频网站亏损，会员费用高，广告多是不是因为带宽费昂贵的缘故？](https://www.v2ex.com/t/819619) ![](assets/new.png)  

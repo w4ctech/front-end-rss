@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-02 10:24:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 10:41:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2021-12-02-12月1日全国新增新冠73例-内蒙古本土53例](https://m.caixin.com/m/2021-12-02/101812540.html) 
+- [2021-12-02-上海浦东新增2例本土确诊病例-系母女关系](https://m.caixin.com/m/2021-12-02/101812869.html) 
 - [2021-12-02-日本撤回新入境航班预订禁令-世卫批其封国措施“难以理解”](https://international.caixin.com/m/2021-12-02/101812820.html) 
 - [2021-12-02-【境内疫情观察】内蒙古新增53例本土病例（12月1日）](https://database.caixin.com/m/2021-12-02/101812727.html) 
 - [2021-12-02-南非第四波疫情在即，奥密克戎仍待解密丨大流行手记（12月1日）](https://m.caixin.com/m/2021-12-02/101812544.html) 
@@ -1422,6 +1423,8 @@
 - [2021-11-26-科技爱好者周刊（第-185-期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html) 
 - [2021-11-19-科技爱好者周刊（第-184-期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html) 
 - [2021-11-12-科技爱好者周刊（第-183-期）：腾讯的员工退休福利](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html) 
+- [2021-12-02-在-Namecheap-注册域名后各种骚扰邮件](https://www.v2ex.com/t/819615) 
+- [2021-12-02-大佬们-问个问题](https://www.v2ex.com/t/819614) 
 - [2021-12-02-《Effective-Java-》读后感](https://www.v2ex.com/t/819610) 
 - [2021-12-02-迫于快到期了，收个年费爱奇艺呀，多少钱呢](https://www.v2ex.com/t/819609) 
 - [2021-12-02-国内安卓生态当真是低人一等唉](https://www.v2ex.com/t/819607) 
@@ -1450,8 +1453,6 @@
 - [2021-12-02-北京-有钱有闲的神仙公司，求后端研发/技术负责人](https://www.v2ex.com/t/819568) 
 - [2021-12-02-MongoDB-时间戳和当前时间比较](https://www.v2ex.com/t/819567) 
 - [2021-12-02-LycaMobile-你家是在线上改代码的吗，我现在登录不了了](https://www.v2ex.com/t/819566) 
-- [2021-12-02-30-多平左右的房子求推荐空气净化器，准备双-12-买一个](https://www.v2ex.com/t/819565) 
-- [2021-12-02-无需转推，所有人都可以免费领取-Paw](https://www.v2ex.com/t/819564) 
 - [2021-12-02-神器jupyter，终于来了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14824&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492542%26amp%3Bidx%3D2%26amp%3Bsn%3D7203eb37810847bf2dd3e5bbcf1c50c1%26amp%3Bchksm%3Dfa3f02e5cd488bf3aefd482f5f67436615f15b65a0ce01c078cdffa8ba5fa426189ecb6e2869%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-02-重磅：微信内置输入法来了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14823&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D1%26amp%3Bsn%3D03b089ffe7a7986cdc6ea50bfffb11ed%26amp%3Bchksm%3Dfa3f0233cd488b250a43e7a574d1e88a0bc89fb5e3bd912c043b07ce0cd388d4bc189390df21%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-02-什么是前端工程化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14821&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492449%26amp%3Bidx%3D2%26amp%3Bsn%3D6a74aa4e37ef034460e48c2eacaa8200%26amp%3Bchksm%3Dfa3f023acd488b2cd2e8cd11955ccfc696430895e6943723ce48aba872d0ce40ee2b952905cb%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1475,13 +1476,13 @@
 - [2021-12-02-REALM：将检索集成到语言表示模型中](https://toutiao.io/k/2hxv2wt) 
 - [2021-12-02-自己动手实现-Go-的服务注册与发现（上）](https://toutiao.io/k/e26pjlw) 
 - [2021-12-02-基于-Whoogle-自建无广告、无追踪的搜索引擎](https://toutiao.io/k/cgky3pe) 
-- [2021-12-02-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
-- [2021-12-02-推荐-亿级流量系统架构演进之路](https://toutiao.io/k/nmwgk0i) 
-- [2021-12-02-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) 
-- [2021-12-02-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 
 - [2021-12-02-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
-- [2021-12-02-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
-- [2021-12-02-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) 
-- [2021-12-02-推荐-开源微服务-API-网关，单核-2-万-QPS，今年最值得学习的开源项目](https://toutiao.io/k/vo7i0r2) 
-- [2021-12-02-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) 
 - [2021-12-02-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
+- [2021-12-02-推荐-亿级流量系统架构演进之路](https://toutiao.io/k/nmwgk0i) 
+- [2021-12-02-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
+- [2021-12-02-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
+- [2021-12-02-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) 
+- [2021-12-02-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) 
+- [2021-12-02-推荐-开源微服务-API-网关，单核-2-万-QPS，今年最值得学习的开源项目](https://toutiao.io/k/vo7i0r2) 
+- [2021-12-02-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) 
+- [2021-12-02-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 

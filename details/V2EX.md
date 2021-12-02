@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-02 13:54:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 14:12:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-02-B-站收藏视频-失效了怎么找到视频](https://www.v2ex.com/t/819650) 
 - [2021-12-02-有关自建图床类服务-10TB-左右-有什么坑或者现成的选择吗?-主要避免重复上传文件名哈希](https://www.v2ex.com/t/819649) 
 - [2021-12-02-没有后代的生活不知道会是咋样](https://www.v2ex.com/t/819648) 
 - [2021-12-02-一个-mastodon-的实例-microblog.net](https://www.v2ex.com/t/819647) 
@@ -44,4 +45,3 @@
 - [2021-12-02-macos-搜索不到文件](https://www.v2ex.com/t/819603) 
 - [2021-12-02-云原生-远程/上海有内推吗？](https://www.v2ex.com/t/819602) 
 - [2021-12-02-搞不懂为什么-iOS-上很多人用-Spark](https://www.v2ex.com/t/819601) 
-- [2021-12-02-现在-Apple-Podcasts-哪怕是美区账户，在中国-IP-下也受审查了](https://www.v2ex.com/t/819600) 

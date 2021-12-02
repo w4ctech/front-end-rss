@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-02 13:54:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 14:12:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -234,6 +234,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】B-站收藏视频-失效了怎么找到视频](https://www.v2ex.com/t/819650)
 - [【V2EX】国内视频网站亏损，会员费用高，广告多是不是因为带宽费昂贵的缘故？](https://www.v2ex.com/t/819619)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -302,7 +303,6 @@
 
 
 - [【V2EX】一个-mastodon-的实例-microblog.net](https://www.v2ex.com/t/819647)
-- [【V2EX】现在-Apple-Podcasts-哪怕是美区账户，在中国-IP-下也受审查了](https://www.v2ex.com/t/819600)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

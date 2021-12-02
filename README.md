@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 10:13:12，:rocket: 更新条数: +1545， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 10:24:24，:rocket: 更新条数: +1543， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-02-半夜电池损耗原因找到了-docker](https://www.v2ex.com/t/819613) ![](assets/new.png)  
+- [2021-12-02-《Effective-Java-》读后感](https://www.v2ex.com/t/819610) ![](assets/new.png)  
 - [2021-12-02-迫于快到期了，收个年费爱奇艺呀，多少钱呢](https://www.v2ex.com/t/819609) ![](assets/new.png)  
 - [2021-12-02-迫于马上就下班开溜了，自写并开源一个方便使用的-ICP-备案查询-Chrome-插件不含接口](https://www.v2ex.com/t/819608) ![](assets/new.png)  
 - [2021-12-02-国内安卓生态当真是低人一等唉](https://www.v2ex.com/t/819607) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-02-起点国际站移动端-css-响应式代码，能说明下计算原理吗](https://www.v2ex.com/t/819593) ![](assets/new.png)  
 - [2021-12-02-Paw-Cloud-免费送兑换,-新注册或者老用户都能领](https://www.v2ex.com/t/819592) ![](assets/new.png)  
 - [2021-12-02-App-Store-Awards-年度应用名单出来了，你心中的年度应用有哪些？](https://www.v2ex.com/t/819591) ![](assets/new.png)  
-- [2021-12-02-求推荐-4k-27-显示器](https://www.v2ex.com/t/819590) ![](assets/new.png)  
-- [2021-12-02-MongoDB-事务-+-Promise.all，会有部分数据操作失败。这是为啥？](https://www.v2ex.com/t/819589) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2021-12-02-秋招：拿-10-+-大厂-SSP-Offer-是一种怎样的体验？](https://toutiao.io/k/kead1ez) ![](assets/new.png)  
 - [2021-12-02-重玩-40-年前的经典游戏小蜜蜂，这次通关了源码](https://toutiao.io/k/q4uuo3a) ![](assets/new.png)  
 - [2021-12-02-揭秘-Chromium-渲染引擎（一）：RenderingNG](https://toutiao.io/k/te12tiv) ![](assets/new.png)  
-- [2021-12-02-REALM：将检索集成到语言表示模型中](https://toutiao.io/k/2hxv2wt) ![](assets/new.png)  
 - [2021-12-02-Next.js-强劲对手来了！-Remix-正式宣布开源](https://toutiao.io/k/mgnsy4d) ![](assets/new.png)  
+- [2021-12-02-REALM：将检索集成到语言表示模型中](https://toutiao.io/k/2hxv2wt) ![](assets/new.png)  
 - [2021-12-02-Vue-项目-Vite-配置代理解决跨域问题](https://toutiao.io/k/2yb6vk1) ![](assets/new.png)  
 - [2021-12-02-译-Go-服务中-HTTP-请求的生命周期](https://toutiao.io/k/iki05tm) ![](assets/new.png)  
 - [2021-12-02-自己动手实现-Go-的服务注册与发现（上）](https://toutiao.io/k/e26pjlw) ![](assets/new.png)  

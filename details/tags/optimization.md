@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-02 05:40:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-02 05:54:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -11,6 +11,6 @@
 - [2021-12-02-Chrome-将代码分区，在-Android-上性能大变-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14825&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fge-vX2dMn3N4Pmcnz8mjTQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-02-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
 - [2021-12-02-性能优化那些事儿（一）](https://toutiao.io/k/vosdheh) 
-- [2021-12-02-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) 
 - [2021-12-02-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) 
 - [2021-12-02-推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2) 
+- [2021-12-02-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) 

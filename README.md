@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-02 05:40:03，:rocket: 更新条数: +1536， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-02 05:54:29，:rocket: 更新条数: +1537， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-02-无痕模式下如何更换回谷歌正常主题皮肤](https://www.v2ex.com/t/819522) ![](assets/new.png)  
+- [2021-12-02-推荐一个-V2EX-的扩展，贼好用](https://www.v2ex.com/t/819521) ![](assets/new.png)  
+- [2021-12-02-机器学习哪款-gpu-可以胜任](https://www.v2ex.com/t/819520) ![](assets/new.png)  
 - [2021-12-02-通过系统级的命令如`tail--f`来实时监控文件变动](https://www.v2ex.com/t/819519) ![](assets/new.png)  
 - [2021-12-02-爱奇艺是要凉了吧，裁员+违反会员协议](https://www.v2ex.com/t/819518) ![](assets/new.png)  
 - [2021-12-02-国内-Top5-内手机通信厂走一趟经历](https://www.v2ex.com/t/819517) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-02-每天都有早会，感觉有点不舒服](https://www.v2ex.com/t/819503) ![](assets/new.png)  
 - [2021-12-02-虚拟机是否可以直接使用物理显示器？](https://www.v2ex.com/t/819502) ![](assets/new.png)  
 - [2021-12-02-电信宽带到期了-，有什么优惠的套餐吗？](https://www.v2ex.com/t/819501) ![](assets/new.png)  
-- [2021-12-02-快圣诞节了，大家有什么小众好玩的礼物推荐](https://www.v2ex.com/t/819498) ![](assets/new.png)  
-- [2021-12-02-迫于-M1-mac-mini-硬盘较小，三星-T7-能否安装外置系统](https://www.v2ex.com/t/819497) ![](assets/new.png)  
-- [2021-12-02-上班工作很闲怎么办？整个人有点-EMO-了](https://www.v2ex.com/t/819495) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

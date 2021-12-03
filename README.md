@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 13:20:33，:rocket: 更新条数: +1547， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 13:35:52，:rocket: 更新条数: +1547， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -571,8 +571,8 @@
 - [2021-12-03-Go-泛型：maps-包正式释出，现在可用](https://toutiao.io/k/2bhq5gs) ![](assets/new.png)  
 - [2021-12-03-迈向云原生：名企-FreeWheel-应用架构演进](https://toutiao.io/k/unbmovu) ![](assets/new.png)  
 - [2021-12-03-2021-年持续交付经验小结](https://toutiao.io/k/s365b5y) ![](assets/new.png)  
-- [2021-12-03-ClickHouse-在京东科技画像平台应用实践](https://toutiao.io/k/svwfitt) ![](assets/new.png)  
 - [2021-12-03-《SQL-必知必会》学习笔记](https://toutiao.io/k/w2cy3uz) ![](assets/new.png)  
+- [2021-12-03-ClickHouse-在京东科技画像平台应用实践](https://toutiao.io/k/svwfitt) ![](assets/new.png)  
 - [2021-12-03-Python-实现循环的最快方式（for、while-等速度对比）](https://toutiao.io/k/etxsl2d) ![](assets/new.png)  
 - [2021-12-03-DPU-新范式:-网络大坝和可编程存内计算](https://toutiao.io/k/679rtc7) ![](assets/new.png)  
 - [2021-12-03-耗时缩短-2/3，Taro-编译打包优化实践](https://toutiao.io/k/b3u9a7r) ![](assets/new.png)  

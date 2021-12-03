@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 12:57:38，:rocket: 更新条数: +1546， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 13:09:44，:rocket: 更新条数: +1548， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-03-macOS-能像-iOS-一样单独给某个-WiFi-指定静态-ip-吗？](https://www.v2ex.com/t/819911) ![](assets/new.png)  
+- [2021-12-03-有没有什么办法可以复制东西的过程中对字符进行清洗，只保留最纯净的文本？-Macos](https://www.v2ex.com/t/819910) ![](assets/new.png)  
+- [2021-12-03-我在的外企明年春节是休初一初二初三-是不是外企都这样](https://www.v2ex.com/t/819909) ![](assets/new.png)  
+- [2021-12-03-ubuntu-浏览器播放-480p-视频卡顿](https://www.v2ex.com/t/819908) ![](assets/new.png)  
 - [2021-12-03-Remote-Worker](https://www.v2ex.com/t/819906) ![](assets/new.png)  
 - [2021-12-03-老哥们，-Java-范型这两个写法是等效的吗？一般用哪种？](https://www.v2ex.com/t/819905) ![](assets/new.png)  
 - [2021-12-03-第一批用户已经在拧螺丝了](https://www.v2ex.com/t/819904) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-03-微软移动在微软负责什么业务？](https://www.v2ex.com/t/819892) ![](assets/new.png)  
 - [2021-12-03-有没有类似-k8s-里-list-watch-机制的框架？](https://www.v2ex.com/t/819891) ![](assets/new.png)  
 - [2021-12-03-求教下，写-Python-代码，先前置大量定义函数的写法是否正确](https://www.v2ex.com/t/819890) ![](assets/new.png)  
-- [2021-12-03-群里有万兴的朋友吗？贵司-APP（亿图、PDF）什么时候能原生支持-M1-MACBOOK？](https://www.v2ex.com/t/819889) ![](assets/new.png)  
-- [2021-12-03-今天看到关于罗技鼠标垃圾驱动的帖子，提醒一下-Mac-下需要使用“罗技游戏软件”“Logitech-Gaming-Software”的同学，如果-v9+版本不好用，可以试试-v8-版本的...](https://www.v2ex.com/t/819888) ![](assets/new.png)  
-- [2021-12-03-mac-下有哪些效率工具推荐？](https://www.v2ex.com/t/819885) ![](assets/new.png)  
-- [2021-12-03-19-款-16-寸-MBP-睡眠唤醒之后外接硬盘有时显示“磁盘没有正常推出”](https://www.v2ex.com/t/819883) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,8 +572,8 @@
 - [2021-12-03-迈向云原生：名企-FreeWheel-应用架构演进](https://toutiao.io/k/unbmovu) ![](assets/new.png)  
 - [2021-12-03-2021-年持续交付经验小结](https://toutiao.io/k/s365b5y) ![](assets/new.png)  
 - [2021-12-03-ClickHouse-在京东科技画像平台应用实践](https://toutiao.io/k/svwfitt) ![](assets/new.png)  
-- [2021-12-03-Python-实现循环的最快方式（for、while-等速度对比）](https://toutiao.io/k/etxsl2d) ![](assets/new.png)  
 - [2021-12-03-《SQL-必知必会》学习笔记](https://toutiao.io/k/w2cy3uz) ![](assets/new.png)  
+- [2021-12-03-Python-实现循环的最快方式（for、while-等速度对比）](https://toutiao.io/k/etxsl2d) ![](assets/new.png)  
 - [2021-12-03-DPU-新范式:-网络大坝和可编程存内计算](https://toutiao.io/k/679rtc7) ![](assets/new.png)  
 - [2021-12-03-耗时缩短-2/3，Taro-编译打包优化实践](https://toutiao.io/k/b3u9a7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

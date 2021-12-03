@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-03 09:13:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-03 09:25:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -183,6 +183,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
+- [【V2EX】关于-“1Password-家庭版订阅到期账户被删”-事件的致歉、复盘与相关声明](https://www.v2ex.com/t/819853)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -219,7 +220,6 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】APNG在线制作、兼容、播放和暂停](https://www.zhangxinxu.com/wordpress/2021/09/apng-maker-pause-play-ie/)
-- [【V2EX】有什么插件能让-VS-Code-以图片（png-or-jpeg）导出-markdown-呢？](https://www.v2ex.com/t/819805)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -257,9 +257,9 @@
 - [【技术头条】性能优化那些事儿（1）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14827&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】Chrome-将代码分区，在-Android-上性能大变-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14825&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fge-vX2dMn3N4Pmcnz8mjTQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Ultron：高性能分布式压测工具](https://toutiao.io/k/l14jbpy)
-- [【开发者头条】推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2)
-- [【开发者头条】推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld)
 - [【开发者头条】推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5)
+- [【开发者头条】推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld)
+- [【开发者头条】推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -335,7 +335,6 @@
 
 
 
-- [【V2EX】关于微服务项目的-GitLab-CI-如何写？](https://www.v2ex.com/t/819803)
 - [【开发者头条】GitHub-开源的超简单头像生成器，网友：好-Q-啊](https://toutiao.io/k/dvalnm2)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -353,6 +352,7 @@
 
 
 
+- [【V2EX】招聘/远程-ios-架构师--月薪-35-55K。要求-5-年以上实际开发经验。](https://www.v2ex.com/t/819852)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

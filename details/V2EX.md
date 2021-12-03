@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-03 13:09:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-03 13:20:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -46,4 +46,3 @@
 - [2021-12-03-这段-Python-代码用-Java-怎么实现](https://www.v2ex.com/t/819866) 
 - [2021-12-03-想请教一下，领导想做一个可以在-iPad-和平板-pad-上运行的-APP，什么样的技术架构比较好](https://www.v2ex.com/t/819864) 
 - [2021-12-03-老哥们，-lightning-to-3.5MM-转接线-要去提货吗？](https://www.v2ex.com/t/819863) 
-- [2021-12-03-MacBook-上面的-Touch-ID-怎么使用?](https://www.v2ex.com/t/819862) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 04:28:57，:rocket: 更新条数: +1542， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 04:50:18，:rocket: 更新条数: +1541， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -558,8 +558,8 @@
 
 - [2021-12-03-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [2021-12-03-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
-- [2021-12-03-如何在-Kubernetes-集群中玩转-Fluid-+-JuiceFS](https://toutiao.io/k/nia5sc1) ![](assets/new.png)  
 - [2021-12-03-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-03-如何在-Kubernetes-集群中玩转-Fluid-+-JuiceFS](https://toutiao.io/k/nia5sc1) ![](assets/new.png)  
 - [2021-12-03-密码学基础：编码方式、消息摘要算法、加密算法总结](https://toutiao.io/k/c4zz78i) ![](assets/new.png)  
 - [2021-12-03-开源微服务编排框架：Netflix-Conductor](https://toutiao.io/k/7u3e83m) ![](assets/new.png)  
 - [2021-12-03-GitHub-开源的超简单头像生成器，网友：好-Q-啊](https://toutiao.io/k/dvalnm2) ![](assets/new.png)  
@@ -567,13 +567,13 @@
 - [2021-12-03-验证缺页异常机制](https://toutiao.io/k/e88t097) ![](assets/new.png)  
 - [2021-12-03-带着问题读-TiDB-源码：Power-BI-Desktop-以-MySQL-驱动连接-TiDB-报错](https://toutiao.io/k/z76r21t) ![](assets/new.png)  
 - [2021-12-03-Go-泛型：maps-包正式释出，现在可用](https://toutiao.io/k/2bhq5gs) ![](assets/new.png)  
-- [2021-12-03-Python-实现循环的最快方式（for、while-等速度对比）](https://toutiao.io/k/etxsl2d) ![](assets/new.png)  
 - [2021-12-03-迈向云原生：名企-FreeWheel-应用架构演进](https://toutiao.io/k/unbmovu) ![](assets/new.png)  
 - [2021-12-03-美团外卖终端容器无关化研发框架](https://toutiao.io/k/mq2uirm) ![](assets/new.png)  
+- [2021-12-03-Python-实现循环的最快方式（for、while-等速度对比）](https://toutiao.io/k/etxsl2d) ![](assets/new.png)  
+- [2021-12-03-Ultron：高性能分布式压测工具](https://toutiao.io/k/l14jbpy) ![](assets/new.png)  
 - [2021-12-03-2021-年持续交付经验小结](https://toutiao.io/k/s365b5y) ![](assets/new.png)  
 - [2021-12-03-耗时缩短-2/3，Taro-编译打包优化实践](https://toutiao.io/k/b3u9a7r) ![](assets/new.png)  
 - [2021-12-03-《SQL-必知必会》学习笔记](https://toutiao.io/k/w2cy3uz) ![](assets/new.png)  
-- [2021-12-03-Ultron：高性能分布式压测工具](https://toutiao.io/k/l14jbpy) ![](assets/new.png)  
 - [2021-12-03-ClickHouse-在京东科技画像平台应用实践](https://toutiao.io/k/svwfitt) ![](assets/new.png)  
 - [2021-12-03-DPU-新范式:-网络大坝和可编程存内计算](https://toutiao.io/k/679rtc7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

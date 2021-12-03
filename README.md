@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 17:45:10，:rocket: 更新条数: +1546， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 17:54:44，:rocket: 更新条数: +1546， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-03-除了-odoo，有没有其它开源框架做到工作流分解到用户群组或更细如用户上？](https://www.v2ex.com/t/819949) ![](assets/new.png)  
 - [2021-12-03-mbp-2020-13-寸外接显示器问题](https://www.v2ex.com/t/819948) ![](assets/new.png)  
 - [2021-12-03-广东移动直连可加载出油管页面的部分元素？求解惑](https://www.v2ex.com/t/819947) ![](assets/new.png)  
 - [2021-12-03-base-杭州的，最近有什么公司-还有-hc-的？](https://www.v2ex.com/t/819946) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-03-新-mbp-屏幕越擦越脏，擦不干净，-14-天内，可以无理由退货么？](https://www.v2ex.com/t/819928) ![](assets/new.png)  
 - [2021-12-03-epic-本周送的可视化编程游戏，打算玩一下看看](https://www.v2ex.com/t/819927) ![](assets/new.png)  
 - [2021-12-03-中概股还有救吗](https://www.v2ex.com/t/819926) ![](assets/new.png)  
-- [2021-12-03-直接到根服务器的-dns-查询都被劫持了吗？](https://www.v2ex.com/t/819924) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

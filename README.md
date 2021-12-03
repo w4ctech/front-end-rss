@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 06:15:00，:rocket: 更新条数: +1541， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 06:26:31，:rocket: 更新条数: +1541， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-03-请教-VMware-vSphere-的图形性能问题](https://www.v2ex.com/t/819784) ![](assets/new.png)  
 - [2021-12-03-发现一个国内家宽搭博客的解决方案](https://www.v2ex.com/t/819783) ![](assets/new.png)  
 - [2021-12-03-我搞了一个-V2EX-类某乎的主题，支持亮色与暗色🌙☀️](https://www.v2ex.com/t/819780) ![](assets/new.png)  
 - [2021-12-03-对于"辣"的一点讨论](https://www.v2ex.com/t/819778) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-03-买了个西数移动硬盘打算做-time-machine，关于格式问题想请教一下](https://www.v2ex.com/t/819761) ![](assets/new.png)  
 - [2021-12-03-半路出家的-IT-请教一下服务器读取性能该怎么优化](https://www.v2ex.com/t/819759) ![](assets/new.png)  
 - [2021-12-03-招聘-全职远程工程师招募](https://www.v2ex.com/t/819758) ![](assets/new.png)  
-- [2021-12-03-是否有这样的技术，不用显示器实现物体动态呈现，譬如人物介绍时候动态画面](https://www.v2ex.com/t/819757) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,16 +565,16 @@
 - [2021-12-03-GitHub-开源的超简单头像生成器，网友：好-Q-啊](https://toutiao.io/k/dvalnm2) ![](assets/new.png)  
 - [2021-12-03-验证缺页异常机制](https://toutiao.io/k/e88t097) ![](assets/new.png)  
 - [2021-12-03-基于-GraphQL-平台化-BFF-构建及微服务治理](https://toutiao.io/k/5j70cq0) ![](assets/new.png)  
-- [2021-12-03-带着问题读-TiDB-源码：Power-BI-Desktop-以-MySQL-驱动连接-TiDB-报错](https://toutiao.io/k/z76r21t) ![](assets/new.png)  
 - [2021-12-03-Ultron：高性能分布式压测工具](https://toutiao.io/k/l14jbpy) ![](assets/new.png)  
+- [2021-12-03-带着问题读-TiDB-源码：Power-BI-Desktop-以-MySQL-驱动连接-TiDB-报错](https://toutiao.io/k/z76r21t) ![](assets/new.png)  
 - [2021-12-03-Go-泛型：maps-包正式释出，现在可用](https://toutiao.io/k/2bhq5gs) ![](assets/new.png)  
 - [2021-12-03-迈向云原生：名企-FreeWheel-应用架构演进](https://toutiao.io/k/unbmovu) ![](assets/new.png)  
 - [2021-12-03-美团外卖终端容器无关化研发框架](https://toutiao.io/k/mq2uirm) ![](assets/new.png)  
 - [2021-12-03-2021-年持续交付经验小结](https://toutiao.io/k/s365b5y) ![](assets/new.png)  
 - [2021-12-03-Python-实现循环的最快方式（for、while-等速度对比）](https://toutiao.io/k/etxsl2d) ![](assets/new.png)  
 - [2021-12-03-耗时缩短-2/3，Taro-编译打包优化实践](https://toutiao.io/k/b3u9a7r) ![](assets/new.png)  
-- [2021-12-03-《SQL-必知必会》学习笔记](https://toutiao.io/k/w2cy3uz) ![](assets/new.png)  
 - [2021-12-03-ClickHouse-在京东科技画像平台应用实践](https://toutiao.io/k/svwfitt) ![](assets/new.png)  
+- [2021-12-03-《SQL-必知必会》学习笔记](https://toutiao.io/k/w2cy3uz) ![](assets/new.png)  
 - [2021-12-03-DPU-新范式:-网络大坝和可编程存内计算](https://toutiao.io/k/679rtc7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 16:17:31，:rocket: 更新条数: +1547， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 16:34:10，:rocket: 更新条数: +1547， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-03-有没有支持-tt-rss-或-fever-的-windows-客户端软件](https://www.v2ex.com/t/819940) ![](assets/new.png)  
 - [2021-12-03-宽带分配到省的-qos-的-IP-段-怎么处理](https://www.v2ex.com/t/819939) ![](assets/new.png)  
 - [2021-12-03-请问各位-termius-可以当终端用吗](https://www.v2ex.com/t/819938) ![](assets/new.png)  
 - [2021-12-03-我去-Apple-Store-要了张他们的消毒湿巾擦电脑，旁边天才吧的人说不能拿酒精擦……](https://www.v2ex.com/t/819936) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-03-闲鱼卖-iPhone-碰到个要求先钱的啥情况，会有坑吗，给我干蒙了](https://www.v2ex.com/t/819918) ![](assets/new.png)  
 - [2021-12-03-AMD-中国招聘---Linux-内核相关---广州/深圳](https://www.v2ex.com/t/819917) ![](assets/new.png)  
 - [2021-12-03-写了一个从-GitHub-Releases-安装可执行文件的服务](https://www.v2ex.com/t/819916) ![](assets/new.png)  
-- [2021-12-03-如何购买-Visa/Master-Gift-Card？](https://www.v2ex.com/t/819915) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

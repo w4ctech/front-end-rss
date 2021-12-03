@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 11:54:33，:rocket: 更新条数: +1545， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 12:19:14，:rocket: 更新条数: +1545， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2021-12-03-iPad-上-5-个可手写涂鸦的便利贴-App](https://www.v2ex.com/t/819899) ![](assets/new.png)  
+- [2021-12-03-投顾产品不知道起什么名字好，你们见到的有啥不错或者想到的不错的名字能够分享借鉴一下嘛？](https://www.v2ex.com/t/819898) ![](assets/new.png)  
+- [2021-12-03-iOS15-连接无线网络弹窗此网络运行的无线局域网频段正被附近其他多个网络使用](https://www.v2ex.com/t/819897) ![](assets/new.png)  
+- [2021-12-03-1Password-自建的在-icloud-的密码库和-1password-官方账号的密码库如何合并呢？](https://www.v2ex.com/t/819895) ![](assets/new.png)  
+- [2021-12-03-大伙的-2021MBP-在连接电源时-touch-ID-会失灵吗？](https://www.v2ex.com/t/819894) ![](assets/new.png)  
+- [2021-12-03-想用一个原生全局对象当事件总线，用-window-好还是用-document-好呢？](https://www.v2ex.com/t/819893) ![](assets/new.png)  
+- [2021-12-03-微软移动在微软负责什么业务？](https://www.v2ex.com/t/819892) ![](assets/new.png)  
 - [2021-12-03-有没有类似-k8s-里-list-watch-机制的框架？](https://www.v2ex.com/t/819891) ![](assets/new.png)  
 - [2021-12-03-求教下，写-Python-代码，先前置大量定义函数的写法是否正确](https://www.v2ex.com/t/819890) ![](assets/new.png)  
 - [2021-12-03-群里有万兴的朋友吗？贵司-APP（亿图、PDF）什么时候能原生支持-M1-MACBOOK？](https://www.v2ex.com/t/819889) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2021-12-03-要不要立刻跑路，感觉快抑郁了](https://www.v2ex.com/t/819878) ![](assets/new.png)  
 - [2021-12-03-Linux-的账号权限有办法限制仅能访问指定目录吗？](https://www.v2ex.com/t/819877) ![](assets/new.png)  
 - [2021-12-03-哪种配置的语法更让人觉得舒服？](https://www.v2ex.com/t/819876) ![](assets/new.png)  
-- [2021-12-03-js-生态里，有类似-django-这样大而全的-web-框架吗？](https://www.v2ex.com/t/819875) ![](assets/new.png)  
-- [2021-12-03-想问下微信备份聊天记录是增量还是镜像?](https://www.v2ex.com/t/819874) ![](assets/new.png)  
-- [2021-12-03-跨国数据传输方案，涉及到网络波动，如何保证数据的一致性，实时性](https://www.v2ex.com/t/819873) ![](assets/new.png)  
-- [2021-12-03-迫于查询无果：-iOS-开发中-WKWebView-websocket-可以设置-HTTP-Basic-Auth-吗？](https://www.v2ex.com/t/819872) ![](assets/new.png)  
-- [2021-12-03-网页审核：妈妈再也不用担心我进入违规小网站了！](https://www.v2ex.com/t/819871) ![](assets/new.png)  
-- [2021-12-03-beats-studio-buds-799-值得入手吗？](https://www.v2ex.com/t/819870) ![](assets/new.png)  
-- [2021-12-03-新款-mbp-刘海屏，最上边刘海哪一行，-app-不能使用吗？-只能显示菜单栏？](https://www.v2ex.com/t/819868) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2021-12-03-ClickHouse-在京东科技画像平台应用实践](https://toutiao.io/k/svwfitt) ![](assets/new.png)  
 - [2021-12-03-Python-实现循环的最快方式（for、while-等速度对比）](https://toutiao.io/k/etxsl2d) ![](assets/new.png)  
 - [2021-12-03-DPU-新范式:-网络大坝和可编程存内计算](https://toutiao.io/k/679rtc7) ![](assets/new.png)  
-- [2021-12-03-耗时缩短-2/3，Taro-编译打包优化实践](https://toutiao.io/k/b3u9a7r) ![](assets/new.png)  
 - [2021-12-03-《SQL-必知必会》学习笔记](https://toutiao.io/k/w2cy3uz) ![](assets/new.png)  
+- [2021-12-03-耗时缩短-2/3，Taro-编译打包优化实践](https://toutiao.io/k/b3u9a7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

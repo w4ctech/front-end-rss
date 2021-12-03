@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 05:20:40，:rocket: 更新条数: +1542， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 05:36:53，:rocket: 更新条数: +1542， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-03-浏览器原生播放-rtsph264,-h265,flv,-hls-的解决方案,-有哪些可以参考?](https://www.v2ex.com/t/819774) ![](assets/new.png)  
+- [2021-12-03-养殖场被偷了-求监控方案](https://www.v2ex.com/t/819772) ![](assets/new.png)  
+- [2021-12-03-公司从-SVN-切换到-Git-的那些坑](https://www.v2ex.com/t/819771) ![](assets/new.png)  
+- [2021-12-03-Google-Play-Best-of-2021](https://www.v2ex.com/t/819770) ![](assets/new.png)  
 - [2021-12-03-啊-Kafka-小白求助](https://www.v2ex.com/t/819769) ![](assets/new.png)  
 - [2021-12-03-美区-apple-id-不显示已购买纪录，打开-app-store-的-my-purchases-直接显示-no-purchases.有人遇到这个问题吗](https://www.v2ex.com/t/819768) ![](assets/new.png)  
 - [2021-12-03-GPG-in-Emacs](https://www.v2ex.com/t/819767) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-03-三星手机用户们一般用哪个防骚扰软件](https://www.v2ex.com/t/819754) ![](assets/new.png)  
 - [2021-12-03-北京急招人｜全栈、后端工程师Github-万星-star-开源项目-Wechaty20k-50k](https://www.v2ex.com/t/819753) ![](assets/new.png)  
 - [2021-12-03-安慰贴个子不高的人也可以很幸福，晒晒你自己呗](https://www.v2ex.com/t/819752) ![](assets/new.png)  
-- [2021-12-03-请教各位彦祖柏芝，-ios15-微信听完语音条-会滴一声-能关掉吗](https://www.v2ex.com/t/819751) ![](assets/new.png)  
-- [2021-12-03-今天遇到的糟心事](https://www.v2ex.com/t/819750) ![](assets/new.png)  
-- [2021-12-03-今早开始-Apple-Music-无法访问](https://www.v2ex.com/t/819748) ![](assets/new.png)  
-- [2021-12-03-Serverless-云服务的十问十答](https://www.v2ex.com/t/819747) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 10:24:34，:rocket: 更新条数: +1542， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 10:41:57，:rocket: 更新条数: +1543， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-03-beats-studio-buds-799-值得入手吗？](https://www.v2ex.com/t/819870) ![](assets/new.png)  
+- [2021-12-03-新款-mbp-刘海屏，最上边刘海哪一行，-app-不能使用吗？-只能显示菜单栏？](https://www.v2ex.com/t/819868) ![](assets/new.png)  
 - [2021-12-03-这段-Python-代码用-Java-怎么实现](https://www.v2ex.com/t/819866) ![](assets/new.png)  
 - [2021-12-03-想请教一下，领导想做一个可以在-iPad-和平板-pad-上运行的-APP，什么样的技术架构比较好](https://www.v2ex.com/t/819864) ![](assets/new.png)  
 - [2021-12-03-老哥们，-lightning-to-3.5MM-转接线-要去提货吗？](https://www.v2ex.com/t/819863) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-03-头一次接到诈骗电话，好激动！](https://www.v2ex.com/t/819848) ![](assets/new.png)  
 - [2021-12-03-有没有中丐的病友出来交流一下](https://www.v2ex.com/t/819847) ![](assets/new.png)  
 - [2021-12-03-网吧显卡的-bios-可以修改吗](https://www.v2ex.com/t/819844) ![](assets/new.png)  
-- [2021-12-03-关于租房违约提前-30-天通知](https://www.v2ex.com/t/819843) ![](assets/new.png)  
-- [2021-12-03-公司恶心人，请大家出出主意](https://www.v2ex.com/t/819842) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-03 05:12:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-03 05:20:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-03-啊-Kafka-小白求助](https://www.v2ex.com/t/819769) 
 - [2021-12-03-美区-apple-id-不显示已购买纪录，打开-app-store-的-my-purchases-直接显示-no-purchases.有人遇到这个问题吗](https://www.v2ex.com/t/819768) 
 - [2021-12-03-GPG-in-Emacs](https://www.v2ex.com/t/819767) 
 - [2021-12-03-就在刚刚，我在办公楼的电梯里和一个送外卖的骂了起来。遇到这种情况，你们会怎么处理？](https://www.v2ex.com/t/819766) 
@@ -43,4 +44,3 @@
 - [2021-12-03-手柄玩-fps，有什么技巧嘛？](https://www.v2ex.com/t/819723) 
 - [2021-12-03-北京，青岛-资深前端开发工程师/技术负责人-招聘](https://www.v2ex.com/t/819721) 
 - [2021-12-03-公司除了上市和稀释股票外，还能以什么样的方式获得股民的钱吗？](https://www.v2ex.com/t/819720) 
-- [2021-12-03-购买-Typora-后，迟迟没有收到含有-license-的邮件，咋整](https://www.v2ex.com/t/819719) 

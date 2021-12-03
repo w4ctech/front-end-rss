@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 05:12:12，:rocket: 更新条数: +1542， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 05:20:40，:rocket: 更新条数: +1542， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-03-啊-Kafka-小白求助](https://www.v2ex.com/t/819769) ![](assets/new.png)  
 - [2021-12-03-美区-apple-id-不显示已购买纪录，打开-app-store-的-my-purchases-直接显示-no-purchases.有人遇到这个问题吗](https://www.v2ex.com/t/819768) ![](assets/new.png)  
 - [2021-12-03-GPG-in-Emacs](https://www.v2ex.com/t/819767) ![](assets/new.png)  
 - [2021-12-03-就在刚刚，我在办公楼的电梯里和一个送外卖的骂了起来。遇到这种情况，你们会怎么处理？](https://www.v2ex.com/t/819766) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-03-今天遇到的糟心事](https://www.v2ex.com/t/819750) ![](assets/new.png)  
 - [2021-12-03-今早开始-Apple-Music-无法访问](https://www.v2ex.com/t/819748) ![](assets/new.png)  
 - [2021-12-03-Serverless-云服务的十问十答](https://www.v2ex.com/t/819747) ![](assets/new.png)  
-- [2021-12-03-请教一下-OVS-DPDK-发送队列](https://www.v2ex.com/t/819746) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

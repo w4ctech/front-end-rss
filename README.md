@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 17:01:15，:rocket: 更新条数: +1545， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 17:09:49，:rocket: 更新条数: +1545， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-03-只有一台-16-核-16G-机器，想在上面同时跑生产环境和测试环境，-docker-是否是最佳选择？](https://www.v2ex.com/t/819944) ![](assets/new.png)  
 - [2021-12-03-笔试题没有做好-公司不给面试机会](https://www.v2ex.com/t/819943) ![](assets/new.png)  
 - [2021-12-03-有没有支持-tt-rss-或-fever-的-windows-客户端软件](https://www.v2ex.com/t/819940) ![](assets/new.png)  
 - [2021-12-03-宽带分配到省的-qos-的-IP-段-怎么处理](https://www.v2ex.com/t/819939) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-03-mbp-m1-能用来做-Android-开发么](https://www.v2ex.com/t/819921) ![](assets/new.png)  
 - [2021-12-03-偷盗者有没有手段拿到安卓手机的解锁密码？](https://www.v2ex.com/t/819919) ![](assets/new.png)  
 - [2021-12-03-闲鱼卖-iPhone-碰到个要求先钱的啥情况，会有坑吗，给我干蒙了](https://www.v2ex.com/t/819918) ![](assets/new.png)  
-- [2021-12-03-AMD-中国招聘---Linux-内核相关---广州/深圳](https://www.v2ex.com/t/819917) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

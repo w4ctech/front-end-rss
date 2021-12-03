@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 11:39:33，:rocket: 更新条数: +1547， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 11:54:33，:rocket: 更新条数: +1545， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,8 +494,11 @@
 </summary>
 
 
+- [2021-12-03-有没有类似-k8s-里-list-watch-机制的框架？](https://www.v2ex.com/t/819891) ![](assets/new.png)  
+- [2021-12-03-求教下，写-Python-代码，先前置大量定义函数的写法是否正确](https://www.v2ex.com/t/819890) ![](assets/new.png)  
+- [2021-12-03-群里有万兴的朋友吗？贵司-APP（亿图、PDF）什么时候能原生支持-M1-MACBOOK？](https://www.v2ex.com/t/819889) ![](assets/new.png)  
+- [2021-12-03-今天看到关于罗技鼠标垃圾驱动的帖子，提醒一下-Mac-下需要使用“罗技游戏软件”“Logitech-Gaming-Software”的同学，如果-v9+版本不好用，可以试试-v8-版本的...](https://www.v2ex.com/t/819888) ![](assets/new.png)  
 - [2021-12-03-mac-下有哪些效率工具推荐？](https://www.v2ex.com/t/819885) ![](assets/new.png)  
-- [2021-12-03-除了-macwk，还有什么好的-mac-软件下载站吗？](https://www.v2ex.com/t/819884) ![](assets/new.png)  
 - [2021-12-03-19-款-16-寸-MBP-睡眠唤醒之后外接硬盘有时显示“磁盘没有正常推出”](https://www.v2ex.com/t/819883) ![](assets/new.png)  
 - [2021-12-03-请问如何把安卓声音发送到-PC-电脑？](https://www.v2ex.com/t/819882) ![](assets/new.png)  
 - [2021-12-03-关于-v2-发帖的问题](https://www.v2ex.com/t/819881) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-03-网页审核：妈妈再也不用担心我进入违规小网站了！](https://www.v2ex.com/t/819871) ![](assets/new.png)  
 - [2021-12-03-beats-studio-buds-799-值得入手吗？](https://www.v2ex.com/t/819870) ![](assets/new.png)  
 - [2021-12-03-新款-mbp-刘海屏，最上边刘海哪一行，-app-不能使用吗？-只能显示菜单栏？](https://www.v2ex.com/t/819868) ![](assets/new.png)  
-- [2021-12-03-这段-Python-代码用-Java-怎么实现](https://www.v2ex.com/t/819866) ![](assets/new.png)  
-- [2021-12-03-想请教一下，领导想做一个可以在-iPad-和平板-pad-上运行的-APP，什么样的技术架构比较好](https://www.v2ex.com/t/819864) ![](assets/new.png)  
-- [2021-12-03-老哥们，-lightning-to-3.5MM-转接线-要去提货吗？](https://www.v2ex.com/t/819863) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

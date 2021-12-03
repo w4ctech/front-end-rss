@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-03 09:56:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-03 10:13:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -317,8 +317,6 @@
 
 
 
-- [【V2EX】黑群晖-docker-拉起镜像一直失败](https://www.v2ex.com/t/819816)
-- [【V2EX】有什么文件分享服务-docker-可以通过取件码来传输文件](https://www.v2ex.com/t/819814)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

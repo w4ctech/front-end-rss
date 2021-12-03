@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 09:56:21，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 10:13:45，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-03-这段-Python-代码用-Java-怎么实现](https://www.v2ex.com/t/819866) ![](assets/new.png)  
+- [2021-12-03-想请教一下，领导想做一个可以在-iPad-和平板-pad-上运行的-APP，什么样的技术架构比较好](https://www.v2ex.com/t/819864) ![](assets/new.png)  
+- [2021-12-03-老哥们，-lightning-to-3.5MM-转接线-要去提货吗？](https://www.v2ex.com/t/819863) ![](assets/new.png)  
+- [2021-12-03-MacBook-上面的-Touch-ID-怎么使用?](https://www.v2ex.com/t/819862) ![](assets/new.png)  
 - [2021-12-03-除了布隆过滤还有哪些方法可以记录快速匹配一个值是否存在的需求](https://www.v2ex.com/t/819861) ![](assets/new.png)  
 - [2021-12-03-新.NET-桌面项目选-windows-forms-还是-wpf](https://www.v2ex.com/t/819860) ![](assets/new.png)  
 - [2021-12-03-大型前端项目-DevOps-沉思录-——-CI-篇](https://www.v2ex.com/t/819857) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-03-网吧显卡的-bios-可以修改吗](https://www.v2ex.com/t/819844) ![](assets/new.png)  
 - [2021-12-03-关于租房违约提前-30-天通知](https://www.v2ex.com/t/819843) ![](assets/new.png)  
 - [2021-12-03-公司恶心人，请大家出出主意](https://www.v2ex.com/t/819842) ![](assets/new.png)  
-- [2021-12-03-你们所在的城市-UDP-QOS-严重吗？](https://www.v2ex.com/t/819841) ![](assets/new.png)  
-- [2021-12-03-新-mbp-下-mac-系统这个交互好烦人，就不能悬浮不-push-处理么](https://www.v2ex.com/t/819840) ![](assets/new.png)  
-- [2021-12-03-asana-试用期到了打开就是弹窗，怎么解决？](https://www.v2ex.com/t/819839) ![](assets/new.png)  
-- [2021-12-03-小米手机-部分-APP-最近收不到消息推送](https://www.v2ex.com/t/819838) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 13:41:07，:rocket: 更新条数: +1546， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 13:54:28，:rocket: 更新条数: +1547， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-03-写了一个从-GitHub-Releases-安装可执行文件的服务](https://www.v2ex.com/t/819916) ![](assets/new.png)  
+- [2021-12-03-如何购买-Visa/Master-Gift-Card？](https://www.v2ex.com/t/819915) ![](assets/new.png)  
+- [2021-12-03-请教一个接口调用顺序设计的问题](https://www.v2ex.com/t/819914) ![](assets/new.png)  
 - [2021-12-03-macOS-能像-iOS-一样单独给某个-WiFi-指定静态-ip-吗？](https://www.v2ex.com/t/819911) ![](assets/new.png)  
 - [2021-12-03-有没有什么办法可以复制东西的过程中对字符进行清洗，只保留最纯净的文本？-Macos](https://www.v2ex.com/t/819910) ![](assets/new.png)  
 - [2021-12-03-我在的外企明年春节是休初一初二初三-是不是外企都这样](https://www.v2ex.com/t/819909) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-03-1Password-自建的在-icloud-的密码库和-1password-官方账号的密码库如何合并呢？](https://www.v2ex.com/t/819895) ![](assets/new.png)  
 - [2021-12-03-大伙的-2021MBP-在连接电源时-touch-ID-会失灵吗？](https://www.v2ex.com/t/819894) ![](assets/new.png)  
 - [2021-12-03-想用一个原生全局对象当事件总线，用-window-好还是用-document-好呢？](https://www.v2ex.com/t/819893) ![](assets/new.png)  
-- [2021-12-03-微软移动在微软负责什么业务？](https://www.v2ex.com/t/819892) ![](assets/new.png)  
-- [2021-12-03-有没有类似-k8s-里-list-watch-机制的框架？](https://www.v2ex.com/t/819891) ![](assets/new.png)  
-- [2021-12-03-求教下，写-Python-代码，先前置大量定义函数的写法是否正确](https://www.v2ex.com/t/819890) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,10 +567,10 @@
 - [2021-12-03-Ultron：高性能分布式压测工具](https://toutiao.io/k/l14jbpy) ![](assets/new.png)  
 - [2021-12-03-美团外卖终端容器无关化研发框架](https://toutiao.io/k/mq2uirm) ![](assets/new.png)  
 - [2021-12-03-基于-GraphQL-平台化-BFF-构建及微服务治理](https://toutiao.io/k/5j70cq0) ![](assets/new.png)  
-- [2021-12-03-带着问题读-TiDB-源码：Power-BI-Desktop-以-MySQL-驱动连接-TiDB-报错](https://toutiao.io/k/z76r21t) ![](assets/new.png)  
 - [2021-12-03-Go-泛型：maps-包正式释出，现在可用](https://toutiao.io/k/2bhq5gs) ![](assets/new.png)  
-- [2021-12-03-迈向云原生：名企-FreeWheel-应用架构演进](https://toutiao.io/k/unbmovu) ![](assets/new.png)  
+- [2021-12-03-带着问题读-TiDB-源码：Power-BI-Desktop-以-MySQL-驱动连接-TiDB-报错](https://toutiao.io/k/z76r21t) ![](assets/new.png)  
 - [2021-12-03-2021-年持续交付经验小结](https://toutiao.io/k/s365b5y) ![](assets/new.png)  
+- [2021-12-03-迈向云原生：名企-FreeWheel-应用架构演进](https://toutiao.io/k/unbmovu) ![](assets/new.png)  
 - [2021-12-03-《SQL-必知必会》学习笔记](https://toutiao.io/k/w2cy3uz) ![](assets/new.png)  
 - [2021-12-03-ClickHouse-在京东科技画像平台应用实践](https://toutiao.io/k/svwfitt) ![](assets/new.png)  
 - [2021-12-03-Python-实现循环的最快方式（for、while-等速度对比）](https://toutiao.io/k/etxsl2d) ![](assets/new.png)  

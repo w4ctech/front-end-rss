@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-12-03 13:41:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-03 13:54:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-03-写了一个从-GitHub-Releases-安装可执行文件的服务](https://www.v2ex.com/t/819916) 
+- [2021-12-03-如何购买-Visa/Master-Gift-Card？](https://www.v2ex.com/t/819915) 
+- [2021-12-03-请教一个接口调用顺序设计的问题](https://www.v2ex.com/t/819914) 
 - [2021-12-03-macOS-能像-iOS-一样单独给某个-WiFi-指定静态-ip-吗？](https://www.v2ex.com/t/819911) 
 - [2021-12-03-有没有什么办法可以复制东西的过程中对字符进行清洗，只保留最纯净的文本？-Macos](https://www.v2ex.com/t/819910) 
 - [2021-12-03-我在的外企明年春节是休初一初二初三-是不是外企都这样](https://www.v2ex.com/t/819909) 
@@ -43,5 +46,3 @@
 - [2021-12-03-网页审核：妈妈再也不用担心我进入违规小网站了！](https://www.v2ex.com/t/819871) 
 - [2021-12-03-beats-studio-buds-799-值得入手吗？](https://www.v2ex.com/t/819870) 
 - [2021-12-03-新款-mbp-刘海屏，最上边刘海哪一行，-app-不能使用吗？-只能显示菜单栏？](https://www.v2ex.com/t/819868) 
-- [2021-12-03-这段-Python-代码用-Java-怎么实现](https://www.v2ex.com/t/819866) 
-- [2021-12-03-想请教一下，领导想做一个可以在-iPad-和平板-pad-上运行的-APP，什么样的技术架构比较好](https://www.v2ex.com/t/819864) 

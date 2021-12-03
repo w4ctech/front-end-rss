@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 08:46:53，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 08:59:08，:rocket: 更新条数: +1546， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,15 +65,16 @@
 </summary>
 
 
-- [2021-12-03-【境内疫情观察】全国六地新增80例本土病例（12月2日）](https://database.caixin.com/m/2021-12-03/101813191.html) ![](assets/new.png)  
 - [2021-12-03-12月2日全国新增新冠96例-六省份本土80例](https://m.caixin.com/m/2021-12-03/101813051.html) ![](assets/new.png)  
+- [2021-12-03-加拿大三只白尾鹿感染新冠-系境内首次报告](https://science.caixin.com/m/2021-12-03/101813303.html) ![](assets/new.png)  
+- [2021-12-03-【境内疫情观察】全国六地新增80例本土病例（12月2日）](https://database.caixin.com/m/2021-12-03/101813191.html) ![](assets/new.png)  
 - [2021-12-03-研究显示Omicron导致3倍再感染风险-美国已现三名病例｜大流行手记（12月2日）](https://m.caixin.com/m/2021-12-03/101813069.html) ![](assets/new.png)  
 - [2021-12-02-满洲里疫情外溢哈尔滨-北京海淀新增1例核酸阳性人员](https://m.caixin.com/m/2021-12-02/101812926.html) ![](assets/new.png)  
 - [2021-12-02-上海新增2例本土确诊-居住地与上次疫情确诊病例相邻](https://m.caixin.com/m/2021-12-02/101812869.html) ![](assets/new.png)  
-- [2021-12-02-日本撤回新入境航班预订禁令-世卫批其封国措施“难以理解”](https://international.caixin.com/m/2021-12-02/101812820.html) ![](assets/new.png)  
 - [2021-12-02-最新海外疫情：新冠感染超2.62亿-累计接种新冠疫苗超79.91亿剂次](https://m.caixin.com/m/2021-12-02/101812882.html) ![](assets/new.png)  
 - [2021-12-02-【境内疫情观察】内蒙古新增53例本土病例（12月1日）](https://database.caixin.com/m/2021-12-02/101812727.html) ![](assets/new.png)  
 - [2021-12-02-南非第四波疫情在即，奥密克戎仍待解密丨大流行手记（12月1日）](https://m.caixin.com/m/2021-12-02/101812544.html) ![](assets/new.png)  
+- [2021-12-02-日本撤回新入境航班预订禁令-世卫批其封国措施“难以理解”](https://international.caixin.com/m/2021-12-02/101812820.html) ![](assets/new.png)  
 - [2021-12-02-【图集】日本封国-包括留学生在内有近37万人等待入境](https://photos.caixin.com/m/2021-12-02/101812634.html) ![](assets/new.png)  
 - [2021-12-01-满洲里市近五天报告142例本土病例-当地6个街道高风险](https://m.caixin.com/m/2021-12-01/101812395.html) ![](assets/new.png)  
 - [2021-12-01-【境内疫情观察】内蒙古新增91例本土病例（11月30日）](https://database.caixin.com/m/2021-12-01/101812304.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-11-30-【境内疫情观察】内蒙古新增21例本土病例（11月29日）](https://database.caixin.com/m/2021-11-30/101811723.html) ![](assets/new.png)  
 - [2021-11-30-世卫警告高感染风险-新马开放陆路边境｜大流行手记（11月29日）](https://m.caixin.com/m/2021-11-30/101811507.html) ![](assets/new.png)  
 - [2021-11-30-奥密克戎已传至十余国-潜在传播力明显增强](https://m.caixin.com/m/2021-11-30/101811873.html) ![](assets/new.png)  
-- [2021-11-30-拜登：无须对奥密克戎感到恐慌-美国今冬不会“封城”](https://international.caixin.com/m/2021-11-30/101811927.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2021-12-03-有没有中丐的病友出来交流一下](https://www.v2ex.com/t/819847) ![](assets/new.png)  
+- [2021-12-03-typora：现已暂停国内销售](https://www.v2ex.com/t/819846) ![](assets/new.png)  
+- [2021-12-03-Typora-网站被墙](https://www.v2ex.com/t/819845) ![](assets/new.png)  
+- [2021-12-03-网吧显卡的-bios-可以修改吗](https://www.v2ex.com/t/819844) ![](assets/new.png)  
+- [2021-12-03-关于租房违约提前-30-天通知](https://www.v2ex.com/t/819843) ![](assets/new.png)  
+- [2021-12-03-公司恶心人，请大家出出主意](https://www.v2ex.com/t/819842) ![](assets/new.png)  
+- [2021-12-03-你们所在的城市-UDP-QOS-严重吗？](https://www.v2ex.com/t/819841) ![](assets/new.png)  
 - [2021-12-03-新-mbp-下-mac-系统这个交互好烦人，就不能悬浮不-push-处理么](https://www.v2ex.com/t/819840) ![](assets/new.png)  
 - [2021-12-03-asana-试用期到了打开就是弹窗，怎么解决？](https://www.v2ex.com/t/819839) ![](assets/new.png)  
 - [2021-12-03-小米手机-部分-APP-最近收不到消息推送](https://www.v2ex.com/t/819838) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2021-12-03-求一个-centos-命令全称](https://www.v2ex.com/t/819828) ![](assets/new.png)  
 - [2021-12-03-你不记得的噩梦是个好噩梦](https://www.v2ex.com/t/819827) ![](assets/new.png)  
 - [2021-12-03-看到“葬礼歌单”的帖子，想问有多少人像我一样，准备死后把骨灰撒海里的？](https://www.v2ex.com/t/819826) ![](assets/new.png)  
-- [2021-12-03-聊聊从码农到转型自己当老板的一些思考](https://www.v2ex.com/t/819823) ![](assets/new.png)  
-- [2021-12-03-求电信宽带](https://www.v2ex.com/t/819822) ![](assets/new.png)  
-- [2021-12-03-一代妙控板上面如果有电线，一夜醒来电池就没电了](https://www.v2ex.com/t/819821) ![](assets/new.png)  
-- [2021-12-03-用了几年的-macbook-air-2017-13-寸时不时就死机](https://www.v2ex.com/t/819818) ![](assets/new.png)  
-- [2021-12-03-Dockerfile-里面-RUN-npm-install-后，找不到-node_modules？](https://www.v2ex.com/t/819817) ![](assets/new.png)  
-- [2021-12-03-黑群晖-docker-拉起镜像一直失败](https://www.v2ex.com/t/819816) ![](assets/new.png)  
-- [2021-12-03-有什么文件分享服务-docker-可以通过取件码来传输文件](https://www.v2ex.com/t/819814) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,8 +565,8 @@
 - [2021-12-03-GitHub-开源的超简单头像生成器，网友：好-Q-啊](https://toutiao.io/k/dvalnm2) ![](assets/new.png)  
 - [2021-12-03-验证缺页异常机制](https://toutiao.io/k/e88t097) ![](assets/new.png)  
 - [2021-12-03-Ultron：高性能分布式压测工具](https://toutiao.io/k/l14jbpy) ![](assets/new.png)  
-- [2021-12-03-基于-GraphQL-平台化-BFF-构建及微服务治理](https://toutiao.io/k/5j70cq0) ![](assets/new.png)  
 - [2021-12-03-美团外卖终端容器无关化研发框架](https://toutiao.io/k/mq2uirm) ![](assets/new.png)  
+- [2021-12-03-基于-GraphQL-平台化-BFF-构建及微服务治理](https://toutiao.io/k/5j70cq0) ![](assets/new.png)  
 - [2021-12-03-带着问题读-TiDB-源码：Power-BI-Desktop-以-MySQL-驱动连接-TiDB-报错](https://toutiao.io/k/z76r21t) ![](assets/new.png)  
 - [2021-12-03-Go-泛型：maps-包正式释出，现在可用](https://toutiao.io/k/2bhq5gs) ![](assets/new.png)  
 - [2021-12-03-迈向云原生：名企-FreeWheel-应用架构演进](https://toutiao.io/k/unbmovu) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 00:38:05，:rocket: 更新条数: +1528， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 01:06:56，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2021-12-02-最新疫情：全国新冠累计确诊98897例-累计接种新冠疫苗超25.16亿剂次](https://m.caixin.com/m/2021-12-02/101812885.html) ![](assets/new.png)  
+- [2021-12-03-12月2日全国新增新冠96例-六省份本土80例](https://m.caixin.com/m/2021-12-03/101813051.html) ![](assets/new.png)  
 - [2021-12-02-满洲里疫情外溢哈尔滨-北京海淀新增1例核酸阳性人员](https://m.caixin.com/m/2021-12-02/101812926.html) ![](assets/new.png)  
 - [2021-12-02-上海新增2例本土确诊-居住地与上次疫情确诊病例相邻](https://m.caixin.com/m/2021-12-02/101812869.html) ![](assets/new.png)  
 - [2021-12-02-日本撤回新入境航班预订禁令-世卫批其封国措施“难以理解”](https://international.caixin.com/m/2021-12-02/101812820.html) ![](assets/new.png)  
@@ -337,9 +337,9 @@
 </summary>
 
 
+- [2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) ![](assets/new.png)  
 - [2021-11-26-科技爱好者周刊（第-185-期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html) ![](assets/new.png)  
 - [2021-11-19-科技爱好者周刊（第-184-期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html) ![](assets/new.png)  
-- [2021-11-12-科技爱好者周刊（第-183-期）：腾讯的员工退休福利](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,15 @@
 </summary>
 
 
+- [2021-12-03-纯吐槽-现在离婚率真是太高了](https://www.v2ex.com/t/819697) ![](assets/new.png)  
+- [2021-12-03-有啥靠谱的英语润色工具么？](https://www.v2ex.com/t/819695) ![](assets/new.png)  
+- [2021-12-03-请教各位，-iPhone-的官方硅胶壳是有比较重的味道嘛？](https://www.v2ex.com/t/819694) ![](assets/new.png)  
+- [2021-12-03-求助，请婚假公司可以因为当前工作紧急不批吗](https://www.v2ex.com/t/819693) ![](assets/new.png)  
+- [2021-12-03-现在有无开源的安卓手机上的虚拟机-APP？](https://www.v2ex.com/t/819692) ![](assets/new.png)  
+- [2021-12-03-求助-Alamofire-的-publisher-用法](https://www.v2ex.com/t/819691) ![](assets/new.png)  
+- [2021-12-03-在-Infosys-呆了近一个月-辞了想做-remote-job-了](https://www.v2ex.com/t/819690) ![](assets/new.png)  
+- [2021-12-03-超车的时候，对方突然加速，对方在想什么？](https://www.v2ex.com/t/819689) ![](assets/new.png)  
+- [2021-12-03-如何看别人的-pr?](https://www.v2ex.com/t/819688) ![](assets/new.png)  
 - [2021-12-03-外区-apple-ID-使用问题](https://www.v2ex.com/t/819685) ![](assets/new.png)  
 - [2021-12-03-google-也开始作恶了吗？——记一次信用卡被盗刷](https://www.v2ex.com/t/819684) ![](assets/new.png)  
 - [2021-12-02-请问大家-iOS-访问-V2EX-用什么客服端](https://www.v2ex.com/t/819683) ![](assets/new.png)  
@@ -505,15 +514,6 @@
 - [2021-12-02-刚获得-2021-年-Mac-App-of-the-Year-的-Craft-发布了-2.0](https://www.v2ex.com/t/819676) ![](assets/new.png)  
 - [2021-12-02-有什么好的流量卡套餐么？](https://www.v2ex.com/t/819675) ![](assets/new.png)  
 - [2021-12-02-想知道应该用-LVM-还是-ZFS?-以及最佳实践](https://www.v2ex.com/t/819674) ![](assets/new.png)  
-- [2021-12-02-大家都是怎么清洁-magic-keyboard-的？](https://www.v2ex.com/t/819673) ![](assets/new.png)  
-- [2021-12-02-我的-iPhone13Pro-5G-信号是真的差，有同样遇到这个问题的么](https://www.v2ex.com/t/819672) ![](assets/new.png)  
-- [2021-12-02-有人还在用-pinboard-吗？有没有-Mac-平台好用的第三方应用或-chrome-插件呢](https://www.v2ex.com/t/819671) ![](assets/new.png)  
-- [2021-12-02-iOS-更新屏蔽及修改-DNS-方法研究](https://www.v2ex.com/t/819669) ![](assets/new.png)  
-- [2021-12-02-ReacitveRedisTemplate-如何将-lambda-里的代码也和外层代码一起同步](https://www.v2ex.com/t/819668) ![](assets/new.png)  
-- [2021-12-02-想问下-Windows-平台有什么好用的-xliff-编辑器么？](https://www.v2ex.com/t/819667) ![](assets/new.png)  
-- [2021-12-02-Mac-上-apple-music-登录-apple-id-后无法搜索](https://www.v2ex.com/t/819666) ![](assets/new.png)  
-- [2021-12-02-windows-系统怎样优化输入法？](https://www.v2ex.com/t/819665) ![](assets/new.png)  
-- [2021-12-02-MBP-看-4k-HDR-电影温度很高](https://www.v2ex.com/t/819663) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,24 +557,25 @@
 
 
 - [2021-12-03-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
+- [2021-12-03-如何在-Kubernetes-集群中玩转-Fluid-+-JuiceFS](https://toutiao.io/k/nia5sc1) ![](assets/new.png)  
 - [2021-12-03-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
 - [2021-12-03-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-03-GitHub-开源的超简单头像生成器，网友：好-Q-啊](https://toutiao.io/k/dvalnm2) ![](assets/new.png)  
 - [2021-12-03-密码学基础：编码方式、消息摘要算法、加密算法总结](https://toutiao.io/k/c4zz78i) ![](assets/new.png)  
+- [2021-12-03-GitHub-开源的超简单头像生成器，网友：好-Q-啊](https://toutiao.io/k/dvalnm2) ![](assets/new.png)  
 - [2021-12-03-开源微服务编排框架：Netflix-Conductor](https://toutiao.io/k/7u3e83m) ![](assets/new.png)  
-- [2021-12-03-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
-- [2021-12-03-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
-- [2021-12-03-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
-- [2021-12-03-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) ![](assets/new.png)  
+- [2021-12-03-验证缺页异常机制](https://toutiao.io/k/e88t097) ![](assets/new.png)  
+- [2021-12-03-基于-GraphQL-平台化-BFF-构建及微服务治理](https://toutiao.io/k/5j70cq0) ![](assets/new.png)  
+- [2021-12-03-带着问题读-TiDB-源码：Power-BI-Desktop-以-MySQL-驱动连接-TiDB-报错](https://toutiao.io/k/z76r21t) ![](assets/new.png)  
 - [2021-12-03-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) ![](assets/new.png)  
-- [2021-12-03-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
-- [2021-12-03-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
 - [2021-12-03-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
 - [2021-12-03-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) ![](assets/new.png)  
+- [2021-12-03-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
 - [2021-12-03-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
+- [2021-12-03-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
 - [2021-12-03-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) ![](assets/new.png)  
-- [2021-12-03-推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2) ![](assets/new.png)  
-- [2021-12-03-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
+- [2021-12-03-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) ![](assets/new.png)  
+- [2021-12-03-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
+- [2021-12-03-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

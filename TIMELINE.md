@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-03 00:38:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-03 01:06:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,7 +50,7 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2021-12-02-最新疫情：全国新冠累计确诊98897例-累计接种新冠疫苗超25.16亿剂次](https://m.caixin.com/m/2021-12-02/101812885.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2021-12-03-12月2日全国新增新冠96例-六省份本土80例](https://m.caixin.com/m/2021-12-03/101813051.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-02-满洲里疫情外溢哈尔滨-北京海淀新增1例核酸阳性人员](https://m.caixin.com/m/2021-12-02/101812926.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-02-上海新增2例本土确诊-居住地与上次疫情确诊病例相邻](https://m.caixin.com/m/2021-12-02/101812869.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-02-日本撤回新入境航班预订禁令-世卫批其封国措施“难以理解”](https://international.caixin.com/m/2021-12-02/101812820.html) 
@@ -61,6 +61,16 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-满洲里市近五天报告142例本土病例-当地6个街道高风险](https://m.caixin.com/m/2021-12-01/101812395.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-【境内疫情观察】内蒙古新增91例本土病例（11月30日）](https://database.caixin.com/m/2021-12-01/101812304.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html) 
+- [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-03-纯吐槽-现在离婚率真是太高了](https://www.v2ex.com/t/819697) 
+- [【V2EX】2021-12-03-有啥靠谱的英语润色工具么？](https://www.v2ex.com/t/819695) 
+- [【V2EX】2021-12-03-请教各位，-iPhone-的官方硅胶壳是有比较重的味道嘛？](https://www.v2ex.com/t/819694) 
+- [【V2EX】2021-12-03-求助，请婚假公司可以因为当前工作紧急不批吗](https://www.v2ex.com/t/819693) 
+- [【V2EX】2021-12-03-现在有无开源的安卓手机上的虚拟机-APP？](https://www.v2ex.com/t/819692) 
+- [【V2EX】2021-12-03-求助-Alamofire-的-publisher-用法](https://www.v2ex.com/t/819691) 
+- [【V2EX】2021-12-03-在-Infosys-呆了近一个月-辞了想做-remote-job-了](https://www.v2ex.com/t/819690) 
+- [【V2EX】2021-12-03-超车的时候，对方突然加速，对方在想什么？](https://www.v2ex.com/t/819689) 
+- [【V2EX】2021-12-03-如何看别人的-pr?](https://www.v2ex.com/t/819688) 
 - [【V2EX】2021-12-03-外区-apple-ID-使用问题](https://www.v2ex.com/t/819685) 
 - [【V2EX】2021-12-03-google-也开始作恶了吗？——记一次信用卡被盗刷](https://www.v2ex.com/t/819684) 
 - [【V2EX】2021-12-02-请问大家-iOS-访问-V2EX-用什么客服端](https://www.v2ex.com/t/819683) 
@@ -92,15 +102,6 @@
 - [【V2EX】2021-12-02-B-站收藏视频-失效了怎么找到视频](https://www.v2ex.com/t/819650) 
 - [【V2EX】2021-12-02-有关自建图床类服务-10TB-左右-有什么坑或者现成的选择吗?-主要避免重复上传文件名哈希](https://www.v2ex.com/t/819649) 
 - [【V2EX】2021-12-02-没有后代的生活不知道会是咋样](https://www.v2ex.com/t/819648) 
-- [【V2EX】2021-12-02-一个-mastodon-的实例-microblog.net](https://www.v2ex.com/t/819647) 
-- [【V2EX】2021-12-02-怎么样才能做到为自己而活呢？](https://www.v2ex.com/t/819645) 
-- [【V2EX】2021-12-02-求推荐一款雷电-4-的扩展坞，最好带万兆网卡](https://www.v2ex.com/t/819644) 
-- [【V2EX】2021-12-02-发现-Apple-Watch-联通的-esim-已经可以开独立号了](https://www.v2ex.com/t/819643) 
-- [【V2EX】2021-12-02-价格一样-闪迪-e61-和三星-t7-哪个好](https://www.v2ex.com/t/819642) 
-- [【V2EX】2021-12-02-GitHub-Student-Developer-Pack-name.com-的免费域名无法兑换，怎么解决？](https://www.v2ex.com/t/819641) 
-- [【V2EX】2021-12-02-有没有办法防止通过发送邮件验证码的接口乱发邮件](https://www.v2ex.com/t/819640) 
-- [【V2EX】2021-12-02-求助各位，请问以下情况是主板故障吗？非常感谢！](https://www.v2ex.com/t/819639) 
-- [【V2EX】2021-12-02-请问大家，如何更方便使用-imgur-图床？](https://www.v2ex.com/t/819638) 
 - [【技术头条】2021-12-03-性能优化那些事儿（1）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14827&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-03-实战经验分享：使用-PyO3-来构建你的-Python-模块-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14826&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F418906426%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-03-Chrome-将代码分区，在-Android-上性能大变-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14825&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fge-vX2dMn3N4Pmcnz8mjTQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -122,24 +123,28 @@
 - [【技术头条】2021-12-03-加密的艺术-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14809&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F410148159%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-03-直接-root-Android-设备，会「隐身」的恶意软件-AbstractEmu-正在偷偷作恶-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14808&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS8z2bOZ2Ow33iBBGRdj5_Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2021-12-03-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
+- [【开发者头条】2021-12-03-如何在-Kubernetes-集群中玩转-Fluid-+-JuiceFS](https://toutiao.io/k/nia5sc1) 
 - [【开发者头条】2021-12-03-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
 - [【开发者头条】2021-12-03-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
-- [【开发者头条】2021-12-03-GitHub-开源的超简单头像生成器，网友：好-Q-啊](https://toutiao.io/k/dvalnm2) 
 - [【开发者头条】2021-12-03-密码学基础：编码方式、消息摘要算法、加密算法总结](https://toutiao.io/k/c4zz78i) 
+- [【开发者头条】2021-12-03-GitHub-开源的超简单头像生成器，网友：好-Q-啊](https://toutiao.io/k/dvalnm2) 
 - [【开发者头条】2021-12-03-开源微服务编排框架：Netflix-Conductor](https://toutiao.io/k/7u3e83m) 
-- [【开发者头条】2021-12-03-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
-- [【开发者头条】2021-12-03-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) 
-- [【开发者头条】2021-12-03-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) 
-- [【开发者头条】2021-12-03-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) 
+- [【开发者头条】2021-12-03-验证缺页异常机制](https://toutiao.io/k/e88t097) 
+- [【开发者头条】2021-12-03-基于-GraphQL-平台化-BFF-构建及微服务治理](https://toutiao.io/k/5j70cq0) 
+- [【开发者头条】2021-12-03-带着问题读-TiDB-源码：Power-BI-Desktop-以-MySQL-驱动连接-TiDB-报错](https://toutiao.io/k/z76r21t) 
 - [【开发者头条】2021-12-03-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
-- [【开发者头条】2021-12-03-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
-- [【开发者头条】2021-12-03-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) 
 - [【开发者头条】2021-12-03-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) 
 - [【开发者头条】2021-12-03-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) 
+- [【开发者头条】2021-12-03-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) 
 - [【开发者头条】2021-12-03-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
+- [【开发者头条】2021-12-03-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) 
 - [【开发者头条】2021-12-03-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
-- [【开发者头条】2021-12-03-推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2) 
+- [【开发者头条】2021-12-03-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) 
+- [【开发者头条】2021-12-03-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
+- [【开发者头条】2021-12-03-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
 - [【开发者头条】2021-12-03-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 
+- [【开发者头条】2021-12-03-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) 
+- [【开发者头条】2021-12-03-推荐-聊聊接口性能优化的-11-个小技巧](https://toutiao.io/k/4i9d6w2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -286,7 +291,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
 - [【阮一峰的网络日志】2021-11-26-科技爱好者周刊（第-185-期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html) 
 - [【阮一峰的网络日志】2021-11-19-科技爱好者周刊（第-184-期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html) 
-- [【阮一峰的网络日志】2021-11-12-科技爱好者周刊（第-183-期）：腾讯的员工退休福利](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

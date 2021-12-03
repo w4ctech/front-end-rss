@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 12:33:50，:rocket: 更新条数: +1545， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 12:57:38，:rocket: 更新条数: +1546， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-03-最新疫情：全国新冠累计确诊98993例-累计接种新冠疫苗超25.24亿剂次](https://m.caixin.com/m/2021-12-03/101813412.html) ![](assets/new.png)  
+- [2021-12-03-满洲里累计确诊263例-河北石家庄现关联病例](https://m.caixin.com/m/2021-12-03/101813531.html) ![](assets/new.png)  
 - [2021-12-03-加拿大三只白尾鹿感染新冠-系境内首次报告](https://science.caixin.com/m/2021-12-03/101813303.html) ![](assets/new.png)  
 - [2021-12-03-最新海外疫情：新冠感染超2.63亿-累计接种新冠疫苗超80.34亿剂次](https://m.caixin.com/m/2021-12-03/101813416.html) ![](assets/new.png)  
 - [2021-12-03-【境内疫情观察】全国六地新增80例本土病例（12月2日）](https://database.caixin.com/m/2021-12-03/101813191.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-11-30-香港Omicron输入个案增至3宗-两人在非洲感染至今无症状](https://m.caixin.com/m/2021-11-30/101811569.html) ![](assets/new.png)  
 - [2021-11-30-【境内疫情观察】内蒙古新增21例本土病例（11月29日）](https://database.caixin.com/m/2021-11-30/101811723.html) ![](assets/new.png)  
 - [2021-11-30-世卫警告高感染风险-新马开放陆路边境｜大流行手记（11月29日）](https://m.caixin.com/m/2021-11-30/101811507.html) ![](assets/new.png)  
-- [2021-11-30-奥密克戎已传至十余国-潜在传播力明显增强](https://m.caixin.com/m/2021-11-30/101811873.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-03-Remote-Worker](https://www.v2ex.com/t/819906) ![](assets/new.png)  
+- [2021-12-03-老哥们，-Java-范型这两个写法是等效的吗？一般用哪种？](https://www.v2ex.com/t/819905) ![](assets/new.png)  
+- [2021-12-03-第一批用户已经在拧螺丝了](https://www.v2ex.com/t/819904) ![](assets/new.png)  
 - [2021-12-03-苹果-12-电池不行了](https://www.v2ex.com/t/819903) ![](assets/new.png)  
 - [2021-12-03-算法-4-中的一个习题](https://www.v2ex.com/t/819902) ![](assets/new.png)  
 - [2021-12-03-macos12.1beta4-好像解决了飞利浦、Aoc-的-typec-供电问题](https://www.v2ex.com/t/819901) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-03-今天看到关于罗技鼠标垃圾驱动的帖子，提醒一下-Mac-下需要使用“罗技游戏软件”“Logitech-Gaming-Software”的同学，如果-v9+版本不好用，可以试试-v8-版本的...](https://www.v2ex.com/t/819888) ![](assets/new.png)  
 - [2021-12-03-mac-下有哪些效率工具推荐？](https://www.v2ex.com/t/819885) ![](assets/new.png)  
 - [2021-12-03-19-款-16-寸-MBP-睡眠唤醒之后外接硬盘有时显示“磁盘没有正常推出”](https://www.v2ex.com/t/819883) ![](assets/new.png)  
-- [2021-12-03-请问如何把安卓声音发送到-PC-电脑？](https://www.v2ex.com/t/819882) ![](assets/new.png)  
-- [2021-12-03-关于-v2-发帖的问题](https://www.v2ex.com/t/819881) ![](assets/new.png)  
-- [2021-12-03-代码中如何获取-Windows-动态磁盘中的卷类型如简单卷、镜像卷、跨区卷等？](https://www.v2ex.com/t/819880) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,8 +573,8 @@
 - [2021-12-03-2021-年持续交付经验小结](https://toutiao.io/k/s365b5y) ![](assets/new.png)  
 - [2021-12-03-ClickHouse-在京东科技画像平台应用实践](https://toutiao.io/k/svwfitt) ![](assets/new.png)  
 - [2021-12-03-Python-实现循环的最快方式（for、while-等速度对比）](https://toutiao.io/k/etxsl2d) ![](assets/new.png)  
-- [2021-12-03-DPU-新范式:-网络大坝和可编程存内计算](https://toutiao.io/k/679rtc7) ![](assets/new.png)  
 - [2021-12-03-《SQL-必知必会》学习笔记](https://toutiao.io/k/w2cy3uz) ![](assets/new.png)  
+- [2021-12-03-DPU-新范式:-网络大坝和可编程存内计算](https://toutiao.io/k/679rtc7) ![](assets/new.png)  
 - [2021-12-03-耗时缩短-2/3，Taro-编译打包优化实践](https://toutiao.io/k/b3u9a7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

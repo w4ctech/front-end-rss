@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 12:19:14，:rocket: 更新条数: +1545， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 12:33:50，:rocket: 更新条数: +1545， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-03-苹果-12-电池不行了](https://www.v2ex.com/t/819903) ![](assets/new.png)  
+- [2021-12-03-算法-4-中的一个习题](https://www.v2ex.com/t/819902) ![](assets/new.png)  
+- [2021-12-03-macos12.1beta4-好像解决了飞利浦、Aoc-的-typec-供电问题](https://www.v2ex.com/t/819901) ![](assets/new.png)  
+- [2021-12-03-想问问大家-ios-上有哪款支持打字震动的输入法比较好用吗？](https://www.v2ex.com/t/819900) ![](assets/new.png)  
 - [2021-12-03-iPad-上-5-个可手写涂鸦的便利贴-App](https://www.v2ex.com/t/819899) ![](assets/new.png)  
 - [2021-12-03-投顾产品不知道起什么名字好，你们见到的有啥不错或者想到的不错的名字能够分享借鉴一下嘛？](https://www.v2ex.com/t/819898) ![](assets/new.png)  
 - [2021-12-03-iOS15-连接无线网络弹窗此网络运行的无线局域网频段正被附近其他多个网络使用](https://www.v2ex.com/t/819897) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-03-请问如何把安卓声音发送到-PC-电脑？](https://www.v2ex.com/t/819882) ![](assets/new.png)  
 - [2021-12-03-关于-v2-发帖的问题](https://www.v2ex.com/t/819881) ![](assets/new.png)  
 - [2021-12-03-代码中如何获取-Windows-动态磁盘中的卷类型如简单卷、镜像卷、跨区卷等？](https://www.v2ex.com/t/819880) ![](assets/new.png)  
-- [2021-12-03-ubuntu20-转到黑苹果-bigsur-的一天，感觉索然无味？](https://www.v2ex.com/t/819879) ![](assets/new.png)  
-- [2021-12-03-要不要立刻跑路，感觉快抑郁了](https://www.v2ex.com/t/819878) ![](assets/new.png)  
-- [2021-12-03-Linux-的账号权限有办法限制仅能访问指定目录吗？](https://www.v2ex.com/t/819877) ![](assets/new.png)  
-- [2021-12-03-哪种配置的语法更让人觉得舒服？](https://www.v2ex.com/t/819876) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

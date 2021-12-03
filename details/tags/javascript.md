@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-03 12:19:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-03 12:33:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,4 +15,3 @@
 - [2021-12-03-想用一个原生全局对象当事件总线，用-window-好还是用-document-好呢？](https://www.v2ex.com/t/819893) 
 - [2021-12-03-js-生态里，有类似-django-这样大而全的-web-框架吗？](https://www.v2ex.com/t/819875) 
 - [2021-12-03-预算-1500-内，-1000M-入户，-50-智能家居+留学上网+黑群-NAS，选软路由+WiFi6-有线-Mesh-方案可行吗](https://www.v2ex.com/t/819856) 
-- [2021-12-03-关于-“1Password-家庭版订阅到期账户被删”-事件的致歉、复盘与相关声明](https://www.v2ex.com/t/819853) 

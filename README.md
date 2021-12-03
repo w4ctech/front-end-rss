@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 11:11:42，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 11:18:44，:rocket: 更新条数: +1545， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-03-ubuntu20-转到黑苹果-bigsur-的一天，感觉索然无味？](https://www.v2ex.com/t/819879) ![](assets/new.png)  
+- [2021-12-03-要不要立刻跑路，感觉快抑郁了](https://www.v2ex.com/t/819878) ![](assets/new.png)  
+- [2021-12-03-Linux-的账号权限有办法限制仅能访问指定目录吗？](https://www.v2ex.com/t/819877) ![](assets/new.png)  
+- [2021-12-03-哪种配置的语法更让人觉得舒服？](https://www.v2ex.com/t/819876) ![](assets/new.png)  
+- [2021-12-03-js-生态里，有类似-django-这样大而全的-web-框架吗？](https://www.v2ex.com/t/819875) ![](assets/new.png)  
 - [2021-12-03-想问下微信备份聊天记录是增量还是镜像?](https://www.v2ex.com/t/819874) ![](assets/new.png)  
 - [2021-12-03-跨国数据传输方案，涉及到网络波动，如何保证数据的一致性，实时性](https://www.v2ex.com/t/819873) ![](assets/new.png)  
 - [2021-12-03-迫于查询无果：-iOS-开发中-WKWebView-websocket-可以设置-HTTP-Basic-Auth-吗？](https://www.v2ex.com/t/819872) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-03-大型前端项目-DevOps-沉思录-——-CI-篇](https://www.v2ex.com/t/819857) ![](assets/new.png)  
 - [2021-12-03-预算-1500-内，-1000M-入户，-50-智能家居+留学上网+黑群-NAS，选软路由+WiFi6-有线-Mesh-方案可行吗](https://www.v2ex.com/t/819856) ![](assets/new.png)  
 - [2021-12-03-出个-Xperia-1-iii](https://www.v2ex.com/t/819855) ![](assets/new.png)  
-- [2021-12-03-联想-yoga16s-人脸解锁无响应](https://www.v2ex.com/t/819854) ![](assets/new.png)  
-- [2021-12-03-关于-“1Password-家庭版订阅到期账户被删”-事件的致歉、复盘与相关声明](https://www.v2ex.com/t/819853) ![](assets/new.png)  
-- [2021-12-03-招聘/远程-ios-架构师--月薪-35-55K。要求-5-年以上实际开发经验。](https://www.v2ex.com/t/819852) ![](assets/new.png)  
-- [2021-12-03-郑州-招聘-React+Laravel-技术方向-team-leader](https://www.v2ex.com/t/819851) ![](assets/new.png)  
-- [2021-12-03-广州字节跳动开发工程师-飞书人力套件](https://www.v2ex.com/t/819850) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 
 
 - [2021-12-03-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-03-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
 - [2021-12-03-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-03-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
 - [2021-12-03-如何在-Kubernetes-集群中玩转-Fluid-+-JuiceFS](https://toutiao.io/k/nia5sc1) ![](assets/new.png)  
 - [2021-12-03-密码学基础：编码方式、消息摘要算法、加密算法总结](https://toutiao.io/k/c4zz78i) ![](assets/new.png)  
 - [2021-12-03-开源微服务编排框架：Netflix-Conductor](https://toutiao.io/k/7u3e83m) ![](assets/new.png)  

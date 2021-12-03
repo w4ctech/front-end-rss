@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-12-03 07:40:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-03 07:54:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-03-一代妙控板上面如果有电线，一夜醒来电池就没电了](https://www.v2ex.com/t/819821) 
+- [2021-12-03-用了几年的-macbook-air-2017-13-寸时不时就死机](https://www.v2ex.com/t/819818) 
+- [2021-12-03-Dockerfile-里面-RUN-npm-install-后，找不到-node_modules？](https://www.v2ex.com/t/819817) 
+- [2021-12-03-黑群晖-docker-拉起镜像一直失败](https://www.v2ex.com/t/819816) 
+- [2021-12-03-有什么文件分享服务-docker-可以通过取件码来传输文件](https://www.v2ex.com/t/819814) 
 - [2021-12-03-堡垒之夜现在的现在趋势就是「元宇宙」的-L1-阶段](https://www.v2ex.com/t/819813) 
 - [2021-12-03-有没有人用上了-JetBrains-的-fleet-？](https://www.v2ex.com/t/819812) 
 - [2021-12-03-希望找人兼职开发-Linux-应用程序（c++-和-Python-）](https://www.v2ex.com/t/819811) 
@@ -39,11 +44,3 @@
 - [2021-12-03-Python-项目怎么打包，可以在安装时根据操作系统生成对应的可执行脚本/文件？](https://www.v2ex.com/t/819775) 
 - [2021-12-03-浏览器原生播放-rtsph264,-h265,flv,-hls-的解决方案,-有哪些可以参考?](https://www.v2ex.com/t/819774) 
 - [2021-12-03-养殖场被偷了-求监控方案](https://www.v2ex.com/t/819772) 
-- [2021-12-03-公司从-SVN-切换到-Git-的那些坑](https://www.v2ex.com/t/819771) 
-- [2021-12-03-Google-Play-Best-of-2021](https://www.v2ex.com/t/819770) 
-- [2021-12-03-啊-Kafka-小白求助](https://www.v2ex.com/t/819769) 
-- [2021-12-03-美区-apple-id-不显示已购买纪录，打开-app-store-的-my-purchases-直接显示-no-purchases.有人遇到这个问题吗](https://www.v2ex.com/t/819768) 
-- [2021-12-03-GPG-in-Emacs](https://www.v2ex.com/t/819767) 
-- [2021-12-03-就在刚刚，我在办公楼的电梯里和一个送外卖的骂了起来。遇到这种情况，你们会怎么处理？](https://www.v2ex.com/t/819766) 
-- [2021-12-03-现在还有什么办法下载旧版本-ipa-吗？](https://www.v2ex.com/t/819765) 
-- [2021-12-03-兄弟们，我买的这个-thinkbook-14p-划算不，有没有同价位更好的选择](https://www.v2ex.com/t/819764) 

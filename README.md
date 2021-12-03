@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 04:15:20，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 04:28:57，:rocket: 更新条数: +1542， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-03-用了半年-27-寸-4k-屏，现在觉得有点小了，后悔没买-32-寸的。](https://www.v2ex.com/t/819762) ![](assets/new.png)  
+- [2021-12-03-买了个西数移动硬盘打算做-time-machine，关于格式问题想请教一下](https://www.v2ex.com/t/819761) ![](assets/new.png)  
 - [2021-12-03-半路出家的-IT-请教一下服务器读取性能该怎么优化](https://www.v2ex.com/t/819759) ![](assets/new.png)  
 - [2021-12-03-招聘-全职远程工程师招募](https://www.v2ex.com/t/819758) ![](assets/new.png)  
 - [2021-12-03-是否有这样的技术，不用显示器实现物体动态呈现，譬如人物介绍时候动态画面](https://www.v2ex.com/t/819757) ![](assets/new.png)  
@@ -509,11 +511,9 @@
 - [2021-12-03-请教一下-OVS-DPDK-发送队列](https://www.v2ex.com/t/819746) ![](assets/new.png)  
 - [2021-12-03-求性价比高的文件共享方案](https://www.v2ex.com/t/819744) ![](assets/new.png)  
 - [2021-12-03-求助，-MySQL-时间戳问题](https://www.v2ex.com/t/819742) ![](assets/new.png)  
-- [2021-12-03-如果当初联想不是走组装电脑，而是搞芯片，现在能和美国掰手腕吗](https://www.v2ex.com/t/819741) ![](assets/new.png)  
 - [2021-12-03-秋高气爽心情好，给自己整理了一份葬礼歌单](https://www.v2ex.com/t/819740) ![](assets/new.png)  
 - [2021-12-03-滴滴退市，我手里的股票怎么办？](https://www.v2ex.com/t/819739) ![](assets/new.png)  
 - [2021-12-03-学习数据库设计的正确方式是什么？](https://www.v2ex.com/t/819738) ![](assets/new.png)  
-- [2021-12-03-公司入职起花名](https://www.v2ex.com/t/819737) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,8 +570,8 @@
 - [2021-12-03-Python-实现循环的最快方式（for、while-等速度对比）](https://toutiao.io/k/etxsl2d) ![](assets/new.png)  
 - [2021-12-03-迈向云原生：名企-FreeWheel-应用架构演进](https://toutiao.io/k/unbmovu) ![](assets/new.png)  
 - [2021-12-03-美团外卖终端容器无关化研发框架](https://toutiao.io/k/mq2uirm) ![](assets/new.png)  
-- [2021-12-03-耗时缩短-2/3，Taro-编译打包优化实践](https://toutiao.io/k/b3u9a7r) ![](assets/new.png)  
 - [2021-12-03-2021-年持续交付经验小结](https://toutiao.io/k/s365b5y) ![](assets/new.png)  
+- [2021-12-03-耗时缩短-2/3，Taro-编译打包优化实践](https://toutiao.io/k/b3u9a7r) ![](assets/new.png)  
 - [2021-12-03-《SQL-必知必会》学习笔记](https://toutiao.io/k/w2cy3uz) ![](assets/new.png)  
 - [2021-12-03-Ultron：高性能分布式压测工具](https://toutiao.io/k/l14jbpy) ![](assets/new.png)  
 - [2021-12-03-ClickHouse-在京东科技画像平台应用实践](https://toutiao.io/k/svwfitt) ![](assets/new.png)  

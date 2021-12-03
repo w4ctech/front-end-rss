@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 07:21:13，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 07:37:46，:rocket: 更新条数: +1546， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2021-12-03-堡垒之夜现在的现在趋势就是「元宇宙」的-L1-阶段](https://www.v2ex.com/t/819813) ![](assets/new.png)  
+- [2021-12-03-有没有人用上了-JetBrains-的-fleet-？](https://www.v2ex.com/t/819812) ![](assets/new.png)  
+- [2021-12-03-希望找人兼职开发-Linux-应用程序（c++-和-Python-）](https://www.v2ex.com/t/819811) ![](assets/new.png)  
+- [2021-12-03-字节跳动-长期内推抖音飞书前端岗位-三天内必跟进回复](https://www.v2ex.com/t/819810) ![](assets/new.png)  
+- [2021-12-03-产品浅思录-第一期-:-GooseChase-的寻宝游戏](https://www.v2ex.com/t/819809) ![](assets/new.png)  
+- [2021-12-03-SEE-Conf-2022-支付宝体验科技大会来啦！孙凌云、玉伯、常鑫、云谦将发表主题演讲](https://www.v2ex.com/t/819808) ![](assets/new.png)  
 - [2021-12-03-非深个人灵活社保这儿的统一社会信用代码是不是可以随便填的?](https://www.v2ex.com/t/819806) ![](assets/new.png)  
 - [2021-12-03-有什么插件能让-VS-Code-以图片（png-or-jpeg）导出-markdown-呢？](https://www.v2ex.com/t/819805) ![](assets/new.png)  
 - [2021-12-03-一个++x-的疑问](https://www.v2ex.com/t/819804) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-12-03-圣诞季,单独开个帖子,总结一下我如何选礼物](https://www.v2ex.com/t/819794) ![](assets/new.png)  
 - [2021-12-03-Python-PIP-安装时-怎么对自定义头文件进行链接](https://www.v2ex.com/t/819793) ![](assets/new.png)  
 - [2021-12-03-做个-ERP-系统,-因为需要同步淘宝的商品数据,-问下怎么同步比较合适](https://www.v2ex.com/t/819792) ![](assets/new.png)  
-- [2021-12-03-markdown-中如何插入本地-MP4](https://www.v2ex.com/t/819791) ![](assets/new.png)  
-- [2021-12-03-Macbook-pro-16-2019-升级-Monterey-后拔掉视频线会黑屏](https://www.v2ex.com/t/819790) ![](assets/new.png)  
-- [2021-12-03-请问有什么好用免费的画图谱图的工具软件么？](https://www.v2ex.com/t/819789) ![](assets/new.png)  
-- [2021-12-03-树莓派搭建-AirPlay-mirror-server-替代-ATV](https://www.v2ex.com/t/819788) ![](assets/new.png)  
-- [2021-12-03-还有还没考驾照的朋友吗？](https://www.v2ex.com/t/819787) ![](assets/new.png)  
-- [2021-12-03-求助啊-每天-996](https://www.v2ex.com/t/819786) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2021-12-03-美团外卖终端容器无关化研发框架](https://toutiao.io/k/mq2uirm) ![](assets/new.png)  
 - [2021-12-03-迈向云原生：名企-FreeWheel-应用架构演进](https://toutiao.io/k/unbmovu) ![](assets/new.png)  
 - [2021-12-03-2021-年持续交付经验小结](https://toutiao.io/k/s365b5y) ![](assets/new.png)  
-- [2021-12-03-Python-实现循环的最快方式（for、while-等速度对比）](https://toutiao.io/k/etxsl2d) ![](assets/new.png)  
 - [2021-12-03-ClickHouse-在京东科技画像平台应用实践](https://toutiao.io/k/svwfitt) ![](assets/new.png)  
+- [2021-12-03-Python-实现循环的最快方式（for、while-等速度对比）](https://toutiao.io/k/etxsl2d) ![](assets/new.png)  
 - [2021-12-03-耗时缩短-2/3，Taro-编译打包优化实践](https://toutiao.io/k/b3u9a7r) ![](assets/new.png)  
 - [2021-12-03-DPU-新范式:-网络大坝和可编程存内计算](https://toutiao.io/k/679rtc7) ![](assets/new.png)  
 - [2021-12-03-《SQL-必知必会》学习笔记](https://toutiao.io/k/w2cy3uz) ![](assets/new.png)  

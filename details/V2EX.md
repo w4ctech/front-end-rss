@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2021-12-03 06:26:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-03 06:47:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-03-圣诞季,单独开个帖子,总结一下我如何选礼物](https://www.v2ex.com/t/819794) 
+- [2021-12-03-Python-PIP-安装时-怎么对自定义头文件进行链接](https://www.v2ex.com/t/819793) 
+- [2021-12-03-做个-ERP-系统,-因为需要同步淘宝的商品数据,-问下怎么同步比较合适](https://www.v2ex.com/t/819792) 
+- [2021-12-03-markdown-中如何插入本地-MP4](https://www.v2ex.com/t/819791) 
+- [2021-12-03-Macbook-pro-16-2019-升级-Monterey-后拔掉视频线会黑屏](https://www.v2ex.com/t/819790) 
+- [2021-12-03-请问有什么好用免费的画图谱图的工具软件么？](https://www.v2ex.com/t/819789) 
+- [2021-12-03-树莓派搭建-AirPlay-mirror-server-替代-ATV](https://www.v2ex.com/t/819788) 
+- [2021-12-03-还有还没考驾照的朋友吗？](https://www.v2ex.com/t/819787) 
+- [2021-12-03-求助啊-每天-996](https://www.v2ex.com/t/819786) 
 - [2021-12-03-请教-VMware-vSphere-的图形性能问题](https://www.v2ex.com/t/819784) 
 - [2021-12-03-发现一个国内家宽搭博客的解决方案](https://www.v2ex.com/t/819783) 
 - [2021-12-03-我搞了一个-V2EX-类某乎的主题，支持亮色与暗色🌙☀️](https://www.v2ex.com/t/819780) 
@@ -36,10 +45,3 @@
 - [2021-12-03-今早开始-Apple-Music-无法访问](https://www.v2ex.com/t/819748) 
 - [2021-12-03-Serverless-云服务的十问十答](https://www.v2ex.com/t/819747) 
 - [2021-12-03-请教一下-OVS-DPDK-发送队列](https://www.v2ex.com/t/819746) 
-- [2021-12-03-求性价比高的文件共享方案](https://www.v2ex.com/t/819744) 
-- [2021-12-03-求助，-MySQL-时间戳问题](https://www.v2ex.com/t/819742) 
-- [2021-12-03-秋高气爽心情好，给自己整理了一份葬礼歌单](https://www.v2ex.com/t/819740) 
-- [2021-12-03-滴滴退市，我手里的股票怎么办？](https://www.v2ex.com/t/819739) 
-- [2021-12-03-学习数据库设计的正确方式是什么？](https://www.v2ex.com/t/819738) 
-- [2021-12-03-公司入职起花名](https://www.v2ex.com/t/819737) 
-- [2021-12-03-头像显示求助](https://www.v2ex.com/t/819736) 

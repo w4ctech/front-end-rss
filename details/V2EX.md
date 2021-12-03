@@ -1,13 +1,16 @@
-:alarm_clock: 更新时间: 2021-12-03 08:26:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-03 08:44:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-03-新-mbp-下-mac-系统这个交互好烦人，就不能悬浮不-push-处理么](https://www.v2ex.com/t/819840) 
+- [2021-12-03-asana-试用期到了打开就是弹窗，怎么解决？](https://www.v2ex.com/t/819839) 
+- [2021-12-03-小米手机-部分-APP-最近收不到消息推送](https://www.v2ex.com/t/819838) 
+- [2021-12-03-有没有从-IT-转行到其他行业的兄弟？](https://www.v2ex.com/t/819837) 
 - [2021-12-03-vue-项目，页面打印，针式打印机打印问题](https://www.v2ex.com/t/819836) 
 - [2021-12-03-Spotify-家庭车拼车](https://www.v2ex.com/t/819835) 
-- [2021-12-03-你还会不会买联想的产品？](https://www.v2ex.com/t/819834) 
 - [2021-12-03-个人开源vue-code-view:一个在线编辑、实时预览的代码交互组件](https://www.v2ex.com/t/819833) 
 - [2021-12-03-求助，双系统重装系统该怎么处理呢？](https://www.v2ex.com/t/819832) 
 - [2021-12-03-有每看必哭的电影吗？](https://www.v2ex.com/t/819830) 
@@ -42,7 +45,3 @@
 - [2021-12-03-Python-PIP-安装时-怎么对自定义头文件进行链接](https://www.v2ex.com/t/819793) 
 - [2021-12-03-做个-ERP-系统,-因为需要同步淘宝的商品数据,-问下怎么同步比较合适](https://www.v2ex.com/t/819792) 
 - [2021-12-03-markdown-中如何插入本地-MP4](https://www.v2ex.com/t/819791) 
-- [2021-12-03-Macbook-pro-16-2019-升级-Monterey-后拔掉视频线会黑屏](https://www.v2ex.com/t/819790) 
-- [2021-12-03-请问有什么好用免费的画图谱图的工具软件么？](https://www.v2ex.com/t/819789) 
-- [2021-12-03-树莓派搭建-AirPlay-mirror-server-替代-ATV](https://www.v2ex.com/t/819788) 
-- [2021-12-03-还有还没考驾照的朋友吗？](https://www.v2ex.com/t/819787) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 08:26:27，:rocket: 更新条数: +1545， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 08:44:03，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,9 +494,12 @@
 </summary>
 
 
+- [2021-12-03-新-mbp-下-mac-系统这个交互好烦人，就不能悬浮不-push-处理么](https://www.v2ex.com/t/819840) ![](assets/new.png)  
+- [2021-12-03-asana-试用期到了打开就是弹窗，怎么解决？](https://www.v2ex.com/t/819839) ![](assets/new.png)  
+- [2021-12-03-小米手机-部分-APP-最近收不到消息推送](https://www.v2ex.com/t/819838) ![](assets/new.png)  
+- [2021-12-03-有没有从-IT-转行到其他行业的兄弟？](https://www.v2ex.com/t/819837) ![](assets/new.png)  
 - [2021-12-03-vue-项目，页面打印，针式打印机打印问题](https://www.v2ex.com/t/819836) ![](assets/new.png)  
 - [2021-12-03-Spotify-家庭车拼车](https://www.v2ex.com/t/819835) ![](assets/new.png)  
-- [2021-12-03-你还会不会买联想的产品？](https://www.v2ex.com/t/819834) ![](assets/new.png)  
 - [2021-12-03-个人开源vue-code-view:一个在线编辑、实时预览的代码交互组件](https://www.v2ex.com/t/819833) ![](assets/new.png)  
 - [2021-12-03-求助，双系统重装系统该怎么处理呢？](https://www.v2ex.com/t/819832) ![](assets/new.png)  
 - [2021-12-03-有每看必哭的电影吗？](https://www.v2ex.com/t/819830) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-03-Dockerfile-里面-RUN-npm-install-后，找不到-node_modules？](https://www.v2ex.com/t/819817) ![](assets/new.png)  
 - [2021-12-03-黑群晖-docker-拉起镜像一直失败](https://www.v2ex.com/t/819816) ![](assets/new.png)  
 - [2021-12-03-有什么文件分享服务-docker-可以通过取件码来传输文件](https://www.v2ex.com/t/819814) ![](assets/new.png)  
-- [2021-12-03-堡垒之夜现在的现在趋势就是「元宇宙」的-L1-阶段](https://www.v2ex.com/t/819813) ![](assets/new.png)  
-- [2021-12-03-有没有人用上了-JetBrains-的-fleet-？](https://www.v2ex.com/t/819812) ![](assets/new.png)  
-- [2021-12-03-希望找人兼职开发-Linux-应用程序（c++-和-Python-）](https://www.v2ex.com/t/819811) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

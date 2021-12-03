@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 09:25:18，:rocket: 更新条数: +1546， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 09:40:24，:rocket: 更新条数: +1546， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-03-大型前端项目-DevOps-沉思录-——-CI-篇](https://www.v2ex.com/t/819857) ![](assets/new.png)  
+- [2021-12-03-预算-1500-内，-1000M-入户，-50-智能家居+留学上网+黑群-NAS，选软路由+WiFi6-有线-Mesh-方案可行吗](https://www.v2ex.com/t/819856) ![](assets/new.png)  
 - [2021-12-03-出个-Xperia-1-iii](https://www.v2ex.com/t/819855) ![](assets/new.png)  
 - [2021-12-03-联想-yoga16s-人脸解锁无响应](https://www.v2ex.com/t/819854) ![](assets/new.png)  
 - [2021-12-03-关于-“1Password-家庭版订阅到期账户被删”-事件的致歉、复盘与相关声明](https://www.v2ex.com/t/819853) ![](assets/new.png)  
@@ -503,7 +505,6 @@
 - [2021-12-03-开车中遇到什么情况会让你-怒火中烧](https://www.v2ex.com/t/819849) ![](assets/new.png)  
 - [2021-12-03-头一次接到诈骗电话，好激动！](https://www.v2ex.com/t/819848) ![](assets/new.png)  
 - [2021-12-03-有没有中丐的病友出来交流一下](https://www.v2ex.com/t/819847) ![](assets/new.png)  
-- [2021-12-03-typora：现已暂停国内销售](https://www.v2ex.com/t/819846) ![](assets/new.png)  
 - [2021-12-03-网吧显卡的-bios-可以修改吗](https://www.v2ex.com/t/819844) ![](assets/new.png)  
 - [2021-12-03-关于租房违约提前-30-天通知](https://www.v2ex.com/t/819843) ![](assets/new.png)  
 - [2021-12-03-公司恶心人，请大家出出主意](https://www.v2ex.com/t/819842) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-03-小米手机-部分-APP-最近收不到消息推送](https://www.v2ex.com/t/819838) ![](assets/new.png)  
 - [2021-12-03-有没有从-IT-转行到其他行业的兄弟？](https://www.v2ex.com/t/819837) ![](assets/new.png)  
 - [2021-12-03-vue-项目，页面打印，针式打印机打印问题](https://www.v2ex.com/t/819836) ![](assets/new.png)  
-- [2021-12-03-Spotify-家庭车拼车](https://www.v2ex.com/t/819835) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

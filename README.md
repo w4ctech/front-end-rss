@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 10:13:45，:rocket: 更新条数: +1544， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 10:24:34，:rocket: 更新条数: +1542， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2021-12-03-12月2日全国新增新冠96例-六省份本土80例](https://m.caixin.com/m/2021-12-03/101813051.html) ![](assets/new.png)  
+- [2021-12-03-最新疫情：全国新冠累计确诊98993例-累计接种新冠疫苗超25.24亿剂次](https://m.caixin.com/m/2021-12-03/101813412.html) ![](assets/new.png)  
 - [2021-12-03-加拿大三只白尾鹿感染新冠-系境内首次报告](https://science.caixin.com/m/2021-12-03/101813303.html) ![](assets/new.png)  
+- [2021-12-03-最新海外疫情：新冠感染超2.63亿-累计接种新冠疫苗超80.34亿剂次](https://m.caixin.com/m/2021-12-03/101813416.html) ![](assets/new.png)  
 - [2021-12-03-【境内疫情观察】全国六地新增80例本土病例（12月2日）](https://database.caixin.com/m/2021-12-03/101813191.html) ![](assets/new.png)  
 - [2021-12-03-研究显示Omicron导致3倍再感染风险-美国已现三名病例｜大流行手记（12月2日）](https://m.caixin.com/m/2021-12-03/101813069.html) ![](assets/new.png)  
 - [2021-12-02-满洲里疫情外溢哈尔滨-北京海淀新增1例核酸阳性人员](https://m.caixin.com/m/2021-12-02/101812926.html) ![](assets/new.png)  
 - [2021-12-02-上海新增2例本土确诊-居住地与上次疫情确诊病例相邻](https://m.caixin.com/m/2021-12-02/101812869.html) ![](assets/new.png)  
-- [2021-12-02-最新海外疫情：新冠感染超2.62亿-累计接种新冠疫苗超79.91亿剂次](https://m.caixin.com/m/2021-12-02/101812882.html) ![](assets/new.png)  
 - [2021-12-02-【境内疫情观察】内蒙古新增53例本土病例（12月1日）](https://database.caixin.com/m/2021-12-02/101812727.html) ![](assets/new.png)  
 - [2021-12-02-南非第四波疫情在即，奥密克戎仍待解密丨大流行手记（12月1日）](https://m.caixin.com/m/2021-12-02/101812544.html) ![](assets/new.png)  
 - [2021-12-02-日本撤回新入境航班预订禁令-世卫批其封国措施“难以理解”](https://international.caixin.com/m/2021-12-02/101812820.html) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-03 10:13:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-03 10:24:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -31,7 +31,6 @@
 - [2021-12-03-小米手机-部分-APP-最近收不到消息推送](https://www.v2ex.com/t/819838) 
 - [2021-12-03-有没有从-IT-转行到其他行业的兄弟？](https://www.v2ex.com/t/819837) 
 - [2021-12-03-vue-项目，页面打印，针式打印机打印问题](https://www.v2ex.com/t/819836) 
-- [2021-12-03-Spotify-家庭车拼车](https://www.v2ex.com/t/819835) 
 - [2021-12-03-个人开源vue-code-view:一个在线编辑、实时预览的代码交互组件](https://www.v2ex.com/t/819833) 
 - [2021-12-03-求助，双系统重装系统该怎么处理呢？](https://www.v2ex.com/t/819832) 
 - [2021-12-03-有每看必哭的电影吗？](https://www.v2ex.com/t/819830) 
@@ -43,4 +42,3 @@
 - [2021-12-03-求电信宽带](https://www.v2ex.com/t/819822) 
 - [2021-12-03-一代妙控板上面如果有电线，一夜醒来电池就没电了](https://www.v2ex.com/t/819821) 
 - [2021-12-03-用了几年的-macbook-air-2017-13-寸时不时就死机](https://www.v2ex.com/t/819818) 
-- [2021-12-03-Dockerfile-里面-RUN-npm-install-后，找不到-node_modules？](https://www.v2ex.com/t/819817) 

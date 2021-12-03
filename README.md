@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 01:06:56，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-03 01:56:33，:rocket: 更新条数: +1538， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,26 +494,26 @@
 </summary>
 
 
+- [2021-12-03-为更换电脑做准备，整理了一下-macOS-上需要转移的软件授权](https://www.v2ex.com/t/819713) ![](assets/new.png)  
+- [2021-12-03-文件夹属性只显示创建时间](https://www.v2ex.com/t/819712) ![](assets/new.png)  
+- [2021-12-03-梯子在网飞上搜不到-JOJO-了](https://www.v2ex.com/t/819711) ![](assets/new.png)  
+- [2021-12-03-依赖比较多且不好安装的软件正确的安装方式是什么？](https://www.v2ex.com/t/819710) ![](assets/new.png)  
+- [2021-12-03-我司的域名貌似被-GFW-墙了](https://www.v2ex.com/t/819709) ![](assets/new.png)  
+- [2021-12-03-今天坐地铁又被警察叔叔查身份证了，感觉自己被查的频率有点高，难道自己长的像坏人么？](https://www.v2ex.com/t/819708) ![](assets/new.png)  
+- [2021-12-03-合租太难了](https://www.v2ex.com/t/819707) ![](assets/new.png)  
+- [2021-12-03-有人的-AirPods-Pro-换过电池了么？怎么样？推荐个店？](https://www.v2ex.com/t/819706) ![](assets/new.png)  
+- [2021-12-03-TIM-这条线是不是被弃了](https://www.v2ex.com/t/819705) ![](assets/new.png)  
+- [2021-12-03-使用-macbook-的时候会尽量插上电源，会保护电池健康吗](https://www.v2ex.com/t/819704) ![](assets/new.png)  
+- [2021-12-03-兄弟们，-macOS-三指拖动选择文本总是无法精准定位，怎么破](https://www.v2ex.com/t/819703) ![](assets/new.png)  
+- [2021-12-03-华硕路由组-aimesh-无法添加节点，各种重置无效](https://www.v2ex.com/t/819702) ![](assets/new.png)  
+- [2021-12-03-问一下计科专业的朋友们，关于内存都会讲哪些部分？](https://www.v2ex.com/t/819701) ![](assets/new.png)  
+- [2021-12-03-毕业两年半的朋友们还有没实现经济独立的吗](https://www.v2ex.com/t/819698) ![](assets/new.png)  
 - [2021-12-03-纯吐槽-现在离婚率真是太高了](https://www.v2ex.com/t/819697) ![](assets/new.png)  
 - [2021-12-03-有啥靠谱的英语润色工具么？](https://www.v2ex.com/t/819695) ![](assets/new.png)  
 - [2021-12-03-请教各位，-iPhone-的官方硅胶壳是有比较重的味道嘛？](https://www.v2ex.com/t/819694) ![](assets/new.png)  
 - [2021-12-03-求助，请婚假公司可以因为当前工作紧急不批吗](https://www.v2ex.com/t/819693) ![](assets/new.png)  
 - [2021-12-03-现在有无开源的安卓手机上的虚拟机-APP？](https://www.v2ex.com/t/819692) ![](assets/new.png)  
 - [2021-12-03-求助-Alamofire-的-publisher-用法](https://www.v2ex.com/t/819691) ![](assets/new.png)  
-- [2021-12-03-在-Infosys-呆了近一个月-辞了想做-remote-job-了](https://www.v2ex.com/t/819690) ![](assets/new.png)  
-- [2021-12-03-超车的时候，对方突然加速，对方在想什么？](https://www.v2ex.com/t/819689) ![](assets/new.png)  
-- [2021-12-03-如何看别人的-pr?](https://www.v2ex.com/t/819688) ![](assets/new.png)  
-- [2021-12-03-外区-apple-ID-使用问题](https://www.v2ex.com/t/819685) ![](assets/new.png)  
-- [2021-12-03-google-也开始作恶了吗？——记一次信用卡被盗刷](https://www.v2ex.com/t/819684) ![](assets/new.png)  
-- [2021-12-02-请问大家-iOS-访问-V2EX-用什么客服端](https://www.v2ex.com/t/819683) ![](assets/new.png)  
-- [2021-12-02-有人用过-vlang-这个语言吗-看介绍好像可以一统天下的样子-蛮吊蛮吊的](https://www.v2ex.com/t/819682) ![](assets/new.png)  
-- [2021-12-02-闲来无事，海外的同学，来聊聊工作生活，后悔了么？](https://www.v2ex.com/t/819681) ![](assets/new.png)  
-- [2021-12-02-Monterey-新-beta-出来了，触摸板点不动的问题感觉已经修复，赶紧升级了](https://www.v2ex.com/t/819680) ![](assets/new.png)  
-- [2021-12-02-Google-Pixel-6-Pro](https://www.v2ex.com/t/819678) ![](assets/new.png)  
-- [2021-12-02-微博等简中网页性能问题](https://www.v2ex.com/t/819677) ![](assets/new.png)  
-- [2021-12-02-刚获得-2021-年-Mac-App-of-the-Year-的-Craft-发布了-2.0](https://www.v2ex.com/t/819676) ![](assets/new.png)  
-- [2021-12-02-有什么好的流量卡套餐么？](https://www.v2ex.com/t/819675) ![](assets/new.png)  
-- [2021-12-02-想知道应该用-LVM-还是-ZFS?-以及最佳实践](https://www.v2ex.com/t/819674) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,20 +561,20 @@
 - [2021-12-03-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
 - [2021-12-03-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
 - [2021-12-03-密码学基础：编码方式、消息摘要算法、加密算法总结](https://toutiao.io/k/c4zz78i) ![](assets/new.png)  
-- [2021-12-03-GitHub-开源的超简单头像生成器，网友：好-Q-啊](https://toutiao.io/k/dvalnm2) ![](assets/new.png)  
 - [2021-12-03-开源微服务编排框架：Netflix-Conductor](https://toutiao.io/k/7u3e83m) ![](assets/new.png)  
-- [2021-12-03-验证缺页异常机制](https://toutiao.io/k/e88t097) ![](assets/new.png)  
+- [2021-12-03-GitHub-开源的超简单头像生成器，网友：好-Q-啊](https://toutiao.io/k/dvalnm2) ![](assets/new.png)  
 - [2021-12-03-基于-GraphQL-平台化-BFF-构建及微服务治理](https://toutiao.io/k/5j70cq0) ![](assets/new.png)  
+- [2021-12-03-验证缺页异常机制](https://toutiao.io/k/e88t097) ![](assets/new.png)  
 - [2021-12-03-带着问题读-TiDB-源码：Power-BI-Desktop-以-MySQL-驱动连接-TiDB-报错](https://toutiao.io/k/z76r21t) ![](assets/new.png)  
-- [2021-12-03-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) ![](assets/new.png)  
-- [2021-12-03-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
-- [2021-12-03-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) ![](assets/new.png)  
-- [2021-12-03-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
+- [2021-12-03-Python-实现循环的最快方式（for、while-等速度对比）](https://toutiao.io/k/etxsl2d) ![](assets/new.png)  
+- [2021-12-03-Go-泛型：maps-包正式释出，现在可用](https://toutiao.io/k/2bhq5gs) ![](assets/new.png)  
+- [2021-12-03-耗时缩短-2/3，Taro-编译打包优化实践](https://toutiao.io/k/b3u9a7r) ![](assets/new.png)  
+- [2021-12-03-迈向云原生：名企-FreeWheel-应用架构演进](https://toutiao.io/k/unbmovu) ![](assets/new.png)  
+- [2021-12-03-《SQL-必知必会》学习笔记](https://toutiao.io/k/w2cy3uz) ![](assets/new.png)  
 - [2021-12-03-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
-- [2021-12-03-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
+- [2021-12-03-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
+- [2021-12-03-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
 - [2021-12-03-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) ![](assets/new.png)  
-- [2021-12-03-推荐-2021-年最佳开源软件榜单｜InfoWorld](https://toutiao.io/k/swk6nu6) ![](assets/new.png)  
-- [2021-12-03-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
 - [2021-12-03-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

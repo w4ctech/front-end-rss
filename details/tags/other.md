@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-04 13:37:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-04 13:42:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1433,6 +1433,7 @@
 - [2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
 - [2021-11-26-科技爱好者周刊（第-185-期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html) 
 - [2021-11-19-科技爱好者周刊（第-184-期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html) 
+- [2021-12-04-成都优先-C-端产品经理（可远程办公](https://www.v2ex.com/t/820078) 
 - [2021-12-04-Dirty-咖啡用牛奶推荐](https://www.v2ex.com/t/820077) 
 - [2021-12-04-ipadpro-可以用苹果手表解锁吗](https://www.v2ex.com/t/820076) 
 - [2021-12-04-linkedin-“Home”按钮右上角的那个红色圆圈怎么去掉？](https://www.v2ex.com/t/820074) 
@@ -1462,7 +1463,6 @@
 - [2021-12-04-树莓派-4B-连接显示器无信号](https://www.v2ex.com/t/820034) 
 - [2021-12-04-自己思路写简单博客程序](https://www.v2ex.com/t/820033) 
 - [2021-12-04-求一款开源堡垒机](https://www.v2ex.com/t/820031) 
-- [2021-12-04-有没有好用的导航链接源码可替代百度首页的？](https://www.v2ex.com/t/820028) 
 - [2021-12-04-神器jupyter，终于来了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14824&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492542%26amp%3Bidx%3D2%26amp%3Bsn%3D7203eb37810847bf2dd3e5bbcf1c50c1%26amp%3Bchksm%3Dfa3f02e5cd488bf3aefd482f5f67436615f15b65a0ce01c078cdffa8ba5fa426189ecb6e2869%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-04-重磅：微信内置输入法来了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14823&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D1%26amp%3Bsn%3D03b089ffe7a7986cdc6ea50bfffb11ed%26amp%3Bchksm%3Dfa3f0233cd488b250a43e7a574d1e88a0bc89fb5e3bd912c043b07ce0cd388d4bc189390df21%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-04-什么是前端工程化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14821&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492449%26amp%3Bidx%3D2%26amp%3Bsn%3D6a74aa4e37ef034460e48c2eacaa8200%26amp%3Bchksm%3Dfa3f023acd488b2cd2e8cd11955ccfc696430895e6943723ce48aba872d0ce40ee2b952905cb%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

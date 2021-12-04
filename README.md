@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-04 13:37:10，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-04 13:42:16，:rocket: 更新条数: +1534， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-04-成都优先-C-端产品经理（可远程办公](https://www.v2ex.com/t/820078) ![](assets/new.png)  
 - [2021-12-04-Dirty-咖啡用牛奶推荐](https://www.v2ex.com/t/820077) ![](assets/new.png)  
 - [2021-12-04-ipadpro-可以用苹果手表解锁吗](https://www.v2ex.com/t/820076) ![](assets/new.png)  
 - [2021-12-04-linkedin-“Home”按钮右上角的那个红色圆圈怎么去掉？](https://www.v2ex.com/t/820074) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-04-用-pythonnet-wpf-和-webview2-整了个和-pywebview-一样的东西](https://www.v2ex.com/t/820057) ![](assets/new.png)  
 - [2021-12-04-大佬们，-Python-我-django-写了一个中间件，会对所有接口请求-request-的-get-和-post-的传值做校验，判断是否有非法字符，请问怎么把-request-中的非法字符去...](https://www.v2ex.com/t/820054) ![](assets/new.png)  
 - [2021-12-04-在线写-Markdown，有没有开源的轻量级程序](https://www.v2ex.com/t/820053) ![](assets/new.png)  
-- [2021-12-04-大家用触控板双指上下滑动的时候，一般双指是一左一右还是一上一下](https://www.v2ex.com/t/820051) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

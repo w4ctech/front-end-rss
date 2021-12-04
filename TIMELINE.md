@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-04 13:37:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-04 13:42:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,6 +72,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-【境内疫情观察】内蒙古新增91例本土病例（11月30日）](https://database.caixin.com/m/2021-12-01/101812304.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-04-成都优先-C-端产品经理（可远程办公](https://www.v2ex.com/t/820078) 
 - [【V2EX】2021-12-04-Dirty-咖啡用牛奶推荐](https://www.v2ex.com/t/820077) 
 - [【V2EX】2021-12-04-ipadpro-可以用苹果手表解锁吗](https://www.v2ex.com/t/820076) 
 - [【V2EX】2021-12-04-linkedin-“Home”按钮右上角的那个红色圆圈怎么去掉？](https://www.v2ex.com/t/820074) 
@@ -104,7 +105,6 @@
 - [【V2EX】2021-12-04-树莓派-4B-连接显示器无信号](https://www.v2ex.com/t/820034) 
 - [【V2EX】2021-12-04-自己思路写简单博客程序](https://www.v2ex.com/t/820033) 
 - [【V2EX】2021-12-04-求一款开源堡垒机](https://www.v2ex.com/t/820031) 
-- [【V2EX】2021-12-04-有没有好用的导航链接源码可替代百度首页的？](https://www.v2ex.com/t/820028) 
 - [【技术头条】2021-12-04-性能优化那些事儿（1）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14827&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-04-实战经验分享：使用-PyO3-来构建你的-Python-模块-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14826&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F418906426%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-04-Chrome-将代码分区，在-Android-上性能大变-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14825&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fge-vX2dMn3N4Pmcnz8mjTQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

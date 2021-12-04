@@ -7504,6 +7504,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何在 k8s 的 coredns 中设定，部分域名转发到某一个 pod(提供了 DNS 服务)来解析？",
+        "link": "https://www.v2ex.com/t/819983",
+        "date": "2021-12-04"
+      },
+      {
+        "title": "我用 idea 的 git 客户端",
+        "link": "https://www.v2ex.com/t/819981",
+        "date": "2021-12-04"
+      },
+      {
         "title": "为什么自媒体都喜欢引流到微信公众号上？我不喜欢使用微信公众号算一个异类吗？",
         "link": "https://www.v2ex.com/t/819980",
         "date": "2021-12-04"
@@ -7702,21 +7712,6 @@
         "title": "求（大硬盘）推荐。",
         "link": "https://www.v2ex.com/t/819935",
         "date": "2021-12-03"
-      },
-      {
-        "title": "微信的无脑运营把我的号封了！",
-        "link": "https://www.v2ex.com/t/819933",
-        "date": "2021-12-03"
-      },
-      {
-        "title": "多拨软路由求推荐",
-        "link": "https://www.v2ex.com/t/819932",
-        "date": "2021-12-03"
-      },
-      {
-        "title": "我在闲鱼购买 stacksocial 的 setapp 兑换码，被骗了。",
-        "link": "https://www.v2ex.com/t/819931",
-        "date": "2021-12-03"
       }
     ]
   },
@@ -7883,23 +7878,13 @@
         "date": "2021-12-04"
       },
       {
-        "title": "[推荐] Kubernetes Deployment 的故障排查可视化指南（2021 中文版）",
-        "link": "https://toutiao.io/k/cd9u887",
-        "date": "2021-12-04"
-      },
-      {
         "title": "[推荐] 装了这几个 IDEA 插件，基本上一站式开发了",
         "link": "https://toutiao.io/k/5l4hrcp",
         "date": "2021-12-04"
       },
       {
-        "title": "[推荐] 读者诉苦：Redis 宕机，数据丢了，老板要辞退我",
-        "link": "https://toutiao.io/k/xa7jahy",
-        "date": "2021-12-04"
-      },
-      {
-        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
-        "link": "https://toutiao.io/k/h7wj37b",
+        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
+        "link": "https://toutiao.io/k/huoy9s9",
         "date": "2021-12-04"
       },
       {
@@ -7908,8 +7893,18 @@
         "date": "2021-12-04"
       },
       {
-        "title": "[推荐] 记一次提升 18 倍的性能优化",
-        "link": "https://toutiao.io/k/4m3cbld",
+        "title": "[推荐] Kubernetes Deployment 的故障排查可视化指南（2021 中文版）",
+        "link": "https://toutiao.io/k/cd9u887",
+        "date": "2021-12-04"
+      },
+      {
+        "title": "[推荐] 读者诉苦：Redis 宕机，数据丢了，老板要辞退我",
+        "link": "https://toutiao.io/k/xa7jahy",
+        "date": "2021-12-04"
+      },
+      {
+        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
+        "link": "https://toutiao.io/k/8k28pnf",
         "date": "2021-12-04"
       },
       {
@@ -7933,13 +7928,13 @@
         "date": "2021-12-04"
       },
       {
-        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
-        "link": "https://toutiao.io/k/huoy9s9",
+        "title": "[推荐] 记一次提升 18 倍的性能优化",
+        "link": "https://toutiao.io/k/4m3cbld",
         "date": "2021-12-04"
       },
       {
-        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
-        "link": "https://toutiao.io/k/8k28pnf",
+        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
+        "link": "https://toutiao.io/k/h7wj37b",
         "date": "2021-12-04"
       }
     ]

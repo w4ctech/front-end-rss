@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-04 05:20:23，:rocket: 更新条数: +1533， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-04 05:37:11，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-04-vkit-几何/光度畸变工具包（带有酷炫动画示例）](https://www.v2ex.com/t/820013) ![](assets/new.png)  
+- [2021-12-04-请问一下前端展示-ansible-playbook-的结果需要用到什么技术？-socket？](https://www.v2ex.com/t/820011) ![](assets/new.png)  
+- [2021-12-04-如何找回谷歌邮箱的密码？](https://www.v2ex.com/t/820010) ![](assets/new.png)  
 - [2021-12-04-求一款-35L-左右的徒步登山包。](https://www.v2ex.com/t/820009) ![](assets/new.png)  
 - [2021-12-04-请问帅哥美女们都是怎么将自己的英语提升到下一个-level-的？我已经坚持每天背英文单词-3-年了。](https://www.v2ex.com/t/820008) ![](assets/new.png)  
 - [2021-12-04-大家的“相册”都是如何管理的?](https://www.v2ex.com/t/820006) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-04-全网首发（？）Xbox-冰箱快速开箱体验](https://www.v2ex.com/t/819987) ![](assets/new.png)  
 - [2021-12-04-比比看，有谁比我的联通宽带更完美](https://www.v2ex.com/t/819986) ![](assets/new.png)  
 - [2021-12-04-如何关闭设置角标的空间将满提示？](https://www.v2ex.com/t/819984) ![](assets/new.png)  
-- [2021-12-04-如何在-k8s-的-coredns-中设定，部分域名转发到某一个-pod提供了-DNS-服务来解析？](https://www.v2ex.com/t/819983) ![](assets/new.png)  
-- [2021-12-04-我用-idea-的-git-客户端](https://www.v2ex.com/t/819981) ![](assets/new.png)  
-- [2021-12-04-为什么自媒体都喜欢引流到微信公众号上？我不喜欢使用微信公众号算一个异类吗？](https://www.v2ex.com/t/819980) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2021-12-04-Julia-编程基础（第-4-章）：类型系统（下）](https://toutiao.io/k/611hkfu) ![](assets/new.png)  
 - [2021-12-04-Rollup-作者新作：Svelte-Cubed！VR/AR-指日可待？](https://toutiao.io/k/3bcyxf1) ![](assets/new.png)  
 - [2021-12-04-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) ![](assets/new.png)  
-- [2021-12-04-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
-- [2021-12-04-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
-- [2021-12-04-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
-- [2021-12-04-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
-- [2021-12-04-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
-- [2021-12-04-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) ![](assets/new.png)  
-- [2021-12-04-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
 - [2021-12-04-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
+- [2021-12-04-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) ![](assets/new.png)  
 - [2021-12-04-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
+- [2021-12-04-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
+- [2021-12-04-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
+- [2021-12-04-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
+- [2021-12-04-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
+- [2021-12-04-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
+- [2021-12-04-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

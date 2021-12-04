@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-04 02:30:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-04 02:47:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-【境内疫情观察】内蒙古新增91例本土病例（11月30日）](https://database.caixin.com/m/2021-12-01/101812304.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-04-成都外企急招-前端-/-Java](https://www.v2ex.com/t/819974) 
+- [【V2EX】2021-12-04-xmake-v2.6.1-发布，使用-Lua5.4-运行时，-Rust-和-C++-混合编译支持](https://www.v2ex.com/t/819973) 
+- [【V2EX】2021-12-04-有好点的-Jetpack-Compose-教程吗](https://www.v2ex.com/t/819972) 
+- [【V2EX】2021-12-04-腾讯云-COS-imageMogr2-接口的缓存问题](https://www.v2ex.com/t/819971) 
 - [【V2EX】2021-12-04-阿里云-内推-阿里云无影团队，-HC-前端后端运营产品都有，-Base-杭州/北京/上海/深圳](https://www.v2ex.com/t/819970) 
 - [【V2EX】2021-12-04-好奇一个事情，牢厂华为的研发经费高的来源是哪里？](https://www.v2ex.com/t/819969) 
 - [【V2EX】2021-12-04-Tg-无法使用了](https://www.v2ex.com/t/819968) 
@@ -107,9 +111,6 @@
 - [【V2EX】2021-12-03-新-mbp-屏幕越擦越脏，擦不干净，-14-天内，可以无理由退货么？](https://www.v2ex.com/t/819928) 
 - [【V2EX】2021-12-03-epic-本周送的可视化编程游戏，打算玩一下看看](https://www.v2ex.com/t/819927) 
 - [【V2EX】2021-12-03-中概股还有救吗](https://www.v2ex.com/t/819926) 
-- [【V2EX】2021-12-03-直接到根服务器的-dns-查询都被劫持了吗？](https://www.v2ex.com/t/819924) 
-- [【V2EX】2021-12-03-一站到-iapm-的大木小区的一个卧室转租，-3500-块/月](https://www.v2ex.com/t/819923) 
-- [【V2EX】2021-12-03-mbp-m1-能用来做-Android-开发么](https://www.v2ex.com/t/819921) 
 - [【技术头条】2021-12-04-性能优化那些事儿（1）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14827&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-04-实战经验分享：使用-PyO3-来构建你的-Python-模块-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14826&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F418906426%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-04-Chrome-将代码分区，在-Android-上性能大变-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14825&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fge-vX2dMn3N4Pmcnz8mjTQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -140,18 +141,18 @@
 - [【开发者头条】2021-12-04-Julia-编程基础（第-4-章）：类型系统（下）](https://toutiao.io/k/611hkfu) 
 - [【开发者头条】2021-12-04-Rollup-作者新作：Svelte-Cubed！VR/AR-指日可待？](https://toutiao.io/k/3bcyxf1) 
 - [【开发者头条】2021-12-04-Vue.use-和-Vue.prototype-的区别](https://toutiao.io/k/rxi6npt) 
-- [【开发者头条】2021-12-04-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
-- [【开发者头条】2021-12-04-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) 
-- [【开发者头条】2021-12-04-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
-- [【开发者头条】2021-12-04-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) 
-- [【开发者头条】2021-12-04-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
-- [【开发者头条】2021-12-04-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 
 - [【开发者头条】2021-12-04-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
-- [【开发者头条】2021-12-04-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) 
 - [【开发者头条】2021-12-04-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
 - [【开发者头条】2021-12-04-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) 
-- [【开发者头条】2021-12-04-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
+- [【开发者头条】2021-12-04-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
 - [【开发者头条】2021-12-04-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) 
+- [【开发者头条】2021-12-04-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 
+- [【开发者头条】2021-12-04-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
+- [【开发者头条】2021-12-04-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) 
+- [【开发者头条】2021-12-04-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
+- [【开发者头条】2021-12-04-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
+- [【开发者头条】2021-12-04-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) 
+- [【开发者头条】2021-12-04-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

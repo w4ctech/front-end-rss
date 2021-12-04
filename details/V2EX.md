@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-04 20:55:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-04 21:11:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-04-MBP-16-寸-64G-屏幕翻车](https://www.v2ex.com/t/820105) 
 - [2021-12-04-Catalyst-版的-QQ-被放弃了吗？](https://www.v2ex.com/t/820104) 
 - [2021-12-04-google-pixel-6/pro](https://www.v2ex.com/t/820103) 
 - [2021-12-04-homepod-mini-随机放歌永远是同一个顺序](https://www.v2ex.com/t/820102) 

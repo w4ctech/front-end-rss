@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-12-04 01:06:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-04 01:55:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-04-Oracle-cloud:-always-free-VM](https://www.v2ex.com/t/819963) 
+- [2021-12-04-双十二优惠活动-Endnote-20-参考文献-科研必备，直降-5.5-折后再减最高-100¥](https://www.v2ex.com/t/819962) 
+- [2021-12-04-ios15-如何长截图](https://www.v2ex.com/t/819961) 
+- [2021-12-04-为什么大家总是因为-VLESS-吵架](https://www.v2ex.com/t/819960) 
 - [2021-12-04-我花呗都还完-2-期了，-16-寸-64g-还没发货](https://www.v2ex.com/t/819959) 
 - [2021-12-04-如何看待-2021/12/4-中概股暴跌](https://www.v2ex.com/t/819958) 
 - [2021-12-04-小米出了一款对标-U2720QM-的-27-寸-4K-显示器](https://www.v2ex.com/t/819957) 
@@ -43,6 +47,3 @@
 - [2021-12-03-写了一个从-GitHub-Releases-安装可执行文件的服务](https://www.v2ex.com/t/819916) 
 - [2021-12-03-如何购买-Visa/Master-Gift-Card？](https://www.v2ex.com/t/819915) 
 - [2021-12-03-请教一个接口调用顺序设计的问题](https://www.v2ex.com/t/819914) 
-- [2021-12-03-lg-ultrafine-4k-素质真的太好了](https://www.v2ex.com/t/819913) 
-- [2021-12-03-macOS-能像-iOS-一样单独给某个-WiFi-指定静态-ip-吗？](https://www.v2ex.com/t/819911) 
-- [2021-12-03-有没有什么办法可以复制东西的过程中对字符进行清洗，只保留最纯净的文本？-Macos](https://www.v2ex.com/t/819910) 

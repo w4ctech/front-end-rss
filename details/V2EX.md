@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-04 19:18:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-04 19:36:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-04-homepod-mini-随机放歌永远是同一个顺序](https://www.v2ex.com/t/820102) 
 - [2021-12-04-黑五整了个-Synology-DS220+-怎么配置最简单易上手？](https://www.v2ex.com/t/820101) 
 - [2021-12-04-笔记软件选择困难症的终结者](https://www.v2ex.com/t/820100) 
 - [2021-12-04-这次苹果笔记本的购买体验真不好](https://www.v2ex.com/t/820099) 

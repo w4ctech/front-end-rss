@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-04 01:55:52，:rocket: 更新条数: +1540， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-04 02:09:09，:rocket: 更新条数: +1538， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,8 +494,10 @@
 </summary>
 
 
+- [2021-12-04-请教显卡高分辨率黑屏问题](https://www.v2ex.com/t/819967) ![](assets/new.png)  
+- [2021-12-04-win10-系统，-WPS-在任务栏，最近打开的文件和固定的列表，经常自己消失没了，怎么办](https://www.v2ex.com/t/819964) ![](assets/new.png)  
 - [2021-12-04-Oracle-cloud:-always-free-VM](https://www.v2ex.com/t/819963) ![](assets/new.png)  
-- [2021-12-04-双十二优惠活动-Endnote-20-参考文献-科研必备，直降-5.5-折后再减最高-100¥](https://www.v2ex.com/t/819962) ![](assets/new.png)  
+- [2021-12-04-双十二优惠活动-Endnote-20-参考文献-科研必备，直降-5.5-折后-最高再减-100¥](https://www.v2ex.com/t/819962) ![](assets/new.png)  
 - [2021-12-04-ios15-如何长截图](https://www.v2ex.com/t/819961) ![](assets/new.png)  
 - [2021-12-04-为什么大家总是因为-VLESS-吵架](https://www.v2ex.com/t/819960) ![](assets/new.png)  
 - [2021-12-04-我花呗都还完-2-期了，-16-寸-64g-还没发货](https://www.v2ex.com/t/819959) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-03-广东移动直连可加载出油管页面的部分元素？求解惑](https://www.v2ex.com/t/819947) ![](assets/new.png)  
 - [2021-12-03-base-杭州的，最近有什么公司-还有-hc-的？](https://www.v2ex.com/t/819946) ![](assets/new.png)  
 - [2021-12-03-华为新出的-matebook-e-用来编程怎么样？有没有已经用了的大佬说一说](https://www.v2ex.com/t/819945) ![](assets/new.png)  
-- [2021-12-03-只有一台-16-核-16G-机器，想在上面同时跑生产环境和测试环境，-docker-是否是最佳选择？](https://www.v2ex.com/t/819944) ![](assets/new.png)  
-- [2021-12-03-笔试题没有做好-公司不给面试机会](https://www.v2ex.com/t/819943) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,16 +566,16 @@
 - [2021-12-04-Rollup-作者新作：Svelte-Cubed！VR/AR-指日可待？](https://toutiao.io/k/3bcyxf1) ![](assets/new.png)  
 - [2021-12-04-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
 - [2021-12-04-Vue.use-和-Vue.prototype-的区别](https://toutiao.io/k/rxi6npt) ![](assets/new.png)  
-- [2021-12-04-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) ![](assets/new.png)  
-- [2021-12-04-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
-- [2021-12-04-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
+- [2021-12-04-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) ![](assets/new.png)  
 - [2021-12-04-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
-- [2021-12-04-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) ![](assets/new.png)  
-- [2021-12-04-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
 - [2021-12-04-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
 - [2021-12-04-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
+- [2021-12-04-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) ![](assets/new.png)  
+- [2021-12-04-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
 - [2021-12-04-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
+- [2021-12-04-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
 - [2021-12-04-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
+- [2021-12-04-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

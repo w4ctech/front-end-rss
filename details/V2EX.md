@@ -1,12 +1,14 @@
-:alarm_clock: 更新时间: 2021-12-04 01:55:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-04 02:09:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-04-请教显卡高分辨率黑屏问题](https://www.v2ex.com/t/819967) 
+- [2021-12-04-win10-系统，-WPS-在任务栏，最近打开的文件和固定的列表，经常自己消失没了，怎么办](https://www.v2ex.com/t/819964) 
 - [2021-12-04-Oracle-cloud:-always-free-VM](https://www.v2ex.com/t/819963) 
-- [2021-12-04-双十二优惠活动-Endnote-20-参考文献-科研必备，直降-5.5-折后再减最高-100¥](https://www.v2ex.com/t/819962) 
+- [2021-12-04-双十二优惠活动-Endnote-20-参考文献-科研必备，直降-5.5-折后-最高再减-100¥](https://www.v2ex.com/t/819962) 
 - [2021-12-04-ios15-如何长截图](https://www.v2ex.com/t/819961) 
 - [2021-12-04-为什么大家总是因为-VLESS-吵架](https://www.v2ex.com/t/819960) 
 - [2021-12-04-我花呗都还完-2-期了，-16-寸-64g-还没发货](https://www.v2ex.com/t/819959) 
@@ -43,7 +45,3 @@
 - [2021-12-03-mbp-m1-能用来做-Android-开发么](https://www.v2ex.com/t/819921) 
 - [2021-12-03-偷盗者有没有手段拿到安卓手机的解锁密码？](https://www.v2ex.com/t/819919) 
 - [2021-12-03-闲鱼卖-iPhone-碰到个要求先钱的啥情况，会有坑吗，给我干蒙了](https://www.v2ex.com/t/819918) 
-- [2021-12-03-AMD-中国招聘---Linux-内核相关---广州/深圳](https://www.v2ex.com/t/819917) 
-- [2021-12-03-写了一个从-GitHub-Releases-安装可执行文件的服务](https://www.v2ex.com/t/819916) 
-- [2021-12-03-如何购买-Visa/Master-Gift-Card？](https://www.v2ex.com/t/819915) 
-- [2021-12-03-请教一个接口调用顺序设计的问题](https://www.v2ex.com/t/819914) 

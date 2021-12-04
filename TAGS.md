@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-04 01:55:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-04 02:09:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -259,8 +259,8 @@
 - [【技术头条】性能优化那些事儿（1）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14827&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】Chrome-将代码分区，在-Android-上性能大变-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14825&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fge-vX2dMn3N4Pmcnz8mjTQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p)
-- [【开发者头条】推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld)
 - [【开发者头条】推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5)
+- [【开发者头条】推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -302,7 +302,6 @@
 
 
 
-- [【V2EX】如何购买-Visa/Master-Gift-Card？](https://www.v2ex.com/t/819915)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -336,7 +335,6 @@
 
 
 
-- [【V2EX】写了一个从-GitHub-Releases-安装可执行文件的服务](https://www.v2ex.com/t/819916)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -354,7 +352,6 @@
 
 
 - [【V2EX】笔试题没有做好-公司不给面试机会](https://www.v2ex.com/t/819943)
-- [【V2EX】AMD-中国招聘---Linux-内核相关---广州/深圳](https://www.v2ex.com/t/819917)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

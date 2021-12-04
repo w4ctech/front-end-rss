@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-04 11:39:34，:rocket: 更新条数: +1531， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-04 11:54:36，:rocket: 更新条数: +1532， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2021-12-04-12月3日全国新增新冠90例-五省份本土75例](https://m.caixin.com/m/2021-12-04/101813665.html) ![](assets/new.png)  
+- [2021-12-04-最新疫情：全国新冠累计确诊99083例-累计接种新冠疫苗超25.32亿剂次](https://m.caixin.com/m/2021-12-04/101813850.html) ![](assets/new.png)  
 - [2021-12-04-隔离酒店一工作人员感染德尔塔-广州白云区新增一中风险地区](https://m.caixin.com/m/2021-12-04/101813612.html) ![](assets/new.png)  
 - [2021-12-04-上海新增1例本土无症状感染者-公布此次疫情初步溯源结果](https://m.caixin.com/m/2021-12-04/101813657.html) ![](assets/new.png)  
+- [2021-12-04-最新海外疫情：新冠感染超2.64亿-累计接种新冠疫苗超80.8亿剂次](https://m.caixin.com/m/2021-12-04/101813847.html) ![](assets/new.png)  
 - [2021-12-04-【境内疫情观察】全国六地新增75例本土病例（12月3日）](https://database.caixin.com/m/2021-12-04/101813793.html) ![](assets/new.png)  
 - [2021-12-04-欧洲大流行速度加快-发生Omicron“超级传播事件”｜大流行手记（12月3日）](https://m.caixin.com/m/2021-12-04/101813688.html) ![](assets/new.png)  
 - [2021-12-03-满洲里累计确诊263例-河北石家庄现关联病例](https://m.caixin.com/m/2021-12-03/101813531.html) ![](assets/new.png)  
-- [2021-12-03-最新海外疫情：新冠感染超2.63亿-累计接种新冠疫苗超80.34亿剂次](https://m.caixin.com/m/2021-12-03/101813416.html) ![](assets/new.png)  
 - [2021-12-03-封面报道｜Omicron悬念](https://weekly.caixin.com/m/2021-12-03/101813227.html) ![](assets/new.png)  
 - [2021-12-03-【境内疫情观察】全国六地新增80例本土病例（12月2日）](https://database.caixin.com/m/2021-12-03/101813191.html) ![](assets/new.png)  
 - [2021-12-03-研究显示Omicron导致3倍再感染风险-美国已现三名病例｜大流行手记（12月2日）](https://m.caixin.com/m/2021-12-03/101813069.html) ![](assets/new.png)  
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-04-请问-Gmail-在中国大陆是否可以作为电子证据？](https://www.v2ex.com/t/820062) ![](assets/new.png)  
+- [2021-12-04-求助求助，家里有一阵阵的低频噪声，疑似楼上楼下的地暖，怎么办呀-QAQ](https://www.v2ex.com/t/820061) ![](assets/new.png)  
 - [2021-12-04-苦等到货，结果翻车了](https://www.v2ex.com/t/820060) ![](assets/new.png)  
 - [2021-12-04-公网公开-ADguard-Home-是否安全](https://www.v2ex.com/t/820059) ![](assets/new.png)  
 - [2021-12-04-iPhone13-pro-max-移动单卡时不时弹出欢迎界面](https://www.v2ex.com/t/820058) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-04-重庆电信网络故障？2021/12/4](https://www.v2ex.com/t/820035) ![](assets/new.png)  
 - [2021-12-04-树莓派-4B-连接显示器无信号](https://www.v2ex.com/t/820034) ![](assets/new.png)  
 - [2021-12-04-自己思路写简单博客程序](https://www.v2ex.com/t/820033) ![](assets/new.png)  
-- [2021-12-04-求一款开源堡垒机](https://www.v2ex.com/t/820031) ![](assets/new.png)  
-- [2021-12-04-有没有好用的导航链接源码可替代百度首页的？](https://www.v2ex.com/t/820028) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,16 +566,16 @@
 - [2021-12-04-Vue.use-和-Vue.prototype-的区别](https://toutiao.io/k/rxi6npt) ![](assets/new.png)  
 - [2021-12-04-Julia-编程基础（第-4-章）：类型系统（下）](https://toutiao.io/k/611hkfu) ![](assets/new.png)  
 - [2021-12-04-Rollup-作者新作：Svelte-Cubed！VR/AR-指日可待？](https://toutiao.io/k/3bcyxf1) ![](assets/new.png)  
-- [2021-12-04-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
-- [2021-12-04-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
-- [2021-12-04-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
-- [2021-12-04-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
-- [2021-12-04-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
-- [2021-12-04-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
 - [2021-12-04-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) ![](assets/new.png)  
-- [2021-12-04-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) ![](assets/new.png)  
-- [2021-12-04-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
 - [2021-12-04-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) ![](assets/new.png)  
+- [2021-12-04-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
+- [2021-12-04-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
+- [2021-12-04-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
+- [2021-12-04-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
+- [2021-12-04-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
+- [2021-12-04-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
+- [2021-12-04-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) ![](assets/new.png)  
+- [2021-12-04-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-05 14:11:20，:rocket: 更新条数: +1540， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-05 14:20:01，:rocket: 更新条数: +1540， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-05-为什么是-OCaml？](https://www.v2ex.com/t/820219) ![](assets/new.png)  
 - [2021-12-05-Nginx-日志有沒有过滤查询之类的工具？](https://www.v2ex.com/t/820218) ![](assets/new.png)  
 - [2021-12-05-有哪里可以找到外企远程-iOS-的工作么？兼职，小时结算也可以？](https://www.v2ex.com/t/820216) ![](assets/new.png)  
 - [2021-12-05-快递丢了，心里膈应怎么办？](https://www.v2ex.com/t/820215) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-05-Go-感觉没有一个趁手的-ORM-框架啊？](https://www.v2ex.com/t/820191) ![](assets/new.png)  
 - [2021-12-05-现在黑五和双十二有域名优惠券吗？想来个-XYZ-10-年，有闲置的也可以转给我。](https://www.v2ex.com/t/820190) ![](assets/new.png)  
 - [2021-12-05-Google-是在恶心-safari-吗](https://www.v2ex.com/t/820189) ![](assets/new.png)  
-- [2021-12-05-上海联通获取不到-IPv6-好久了](https://www.v2ex.com/t/820188) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,16 +566,16 @@
 - [2021-12-05-SQL-学习之查询](https://toutiao.io/k/0lsafxw) ![](assets/new.png)  
 - [2021-12-05-万字长文详述对话推荐系统的逻辑与演化](https://toutiao.io/k/a4x5e49) ![](assets/new.png)  
 - [2021-12-05-小心-Serverless](https://toutiao.io/k/a0v32sf) ![](assets/new.png)  
-- [2021-12-05-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
+- [2021-12-05-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
 - [2021-12-05-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
 - [2021-12-05-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
-- [2021-12-05-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
 - [2021-12-05-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
-- [2021-12-05-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) ![](assets/new.png)  
-- [2021-12-05-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
-- [2021-12-05-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
 - [2021-12-05-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
-- [2021-12-05-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
+- [2021-12-05-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) ![](assets/new.png)  
+- [2021-12-05-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
+- [2021-12-05-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
+- [2021-12-05-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) ![](assets/new.png)  
+- [2021-12-05-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

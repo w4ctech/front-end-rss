@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-05 16:36:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-05 16:59:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-05-4-年之后-再谈程序员英语进阶](https://www.v2ex.com/t/820235) 
 - [2021-12-05-Python-识别图片文字的效果是不是很差？](https://www.v2ex.com/t/820234) 
 - [2021-12-05-迫于-QQ-音乐至今不支持-M1，这几天发现-Apple-Music-在-Mac-上真难用](https://www.v2ex.com/t/820232) 
 - [2021-12-05-因为不忍别人触碰我的-Mac-屏幕，我写了一段话，打算明天打印出来，并贴在我的电脑旁](https://www.v2ex.com/t/820231) 
@@ -38,4 +39,3 @@
 - [2021-12-05-Google-是在恶心-safari-吗](https://www.v2ex.com/t/820189) 
 - [2021-12-05-上海联通获取不到-IPv6-好久了](https://www.v2ex.com/t/820188) 
 - [2021-12-05-Coredns，-DoT-server,-dig-显示-PAD-是什么？](https://www.v2ex.com/t/820187) 
-- [2021-12-05-发个小帖子-喷墨打印机真好玩](https://www.v2ex.com/t/820185) 

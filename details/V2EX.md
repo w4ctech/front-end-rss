@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-05 02:54:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-05 03:13:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-05-迫穷，各位帅比推荐下深圳城中村优惠的款待套餐！](https://www.v2ex.com/t/820126) 
+- [2021-12-05-不懂就问关于-pve-显卡直通的时候-x-vga=on-一定要加上吗？主机没有-vga-接口](https://www.v2ex.com/t/820123) 
 - [2021-12-05-关于有赞的前端扩展点开发请教](https://www.v2ex.com/t/820122) 
 - [2021-12-05-移植-Python-项目到-typescript，如何处理-Python-attrs-库呢](https://www.v2ex.com/t/820121) 
 - [2021-12-05-求教-macos-下/usr/local-和/opt-目录的作用和区别](https://www.v2ex.com/t/820118) 
@@ -42,6 +44,3 @@
 - [2021-12-04-线下-apple-店购买-airpods-3-拆箱通过-icould-连接后显示-xxx'airpods](https://www.v2ex.com/t/820079) 
 - [2021-12-04-成都优先-C-端产品经理（可远程办公](https://www.v2ex.com/t/820078) 
 - [2021-12-04-Dirty-咖啡用牛奶推荐](https://www.v2ex.com/t/820077) 
-- [2021-12-04-ipadpro-可以用苹果手表解锁吗](https://www.v2ex.com/t/820076) 
-- [2021-12-04-linkedin-“Home”按钮右上角的那个红色圆圈怎么去掉？](https://www.v2ex.com/t/820074) 
-- [2021-12-04-群晖下的硬盘，如果装满了，你们是如何处理？](https://www.v2ex.com/t/820073) 

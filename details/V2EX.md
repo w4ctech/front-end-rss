@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-05 10:44:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-05 10:56:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-05-Coredns，-DoT-server,-dig-显示-PAD-是什么？](https://www.v2ex.com/t/820187) 
 - [2021-12-05-发个小帖子-喷墨打印机真好玩](https://www.v2ex.com/t/820185) 
 - [2021-12-05-请问如何在统一浏览器中，实现用不同标签页，不同账号同时登陆同一个网站？](https://www.v2ex.com/t/820184) 
 - [2021-12-05-有什么好申请的-master-项目，想先-run-了在说](https://www.v2ex.com/t/820182) 
@@ -39,4 +40,3 @@
 - [2021-12-05-上海/杭州-蚂蚁集团---支付宝-Java-高级工程师，年底急招](https://www.v2ex.com/t/820141) 
 - [2021-12-05-Mac-Sidecar-连接-iPad-经常卡死](https://www.v2ex.com/t/820140) 
 - [2021-12-05-AutoKey-有什么办法可以直接让自定义的-Phrase-快捷键与修饰键（Shift/Ctrl/Alt）搭配使用？](https://www.v2ex.com/t/820139) 
-- [2021-12-05-开心，参加-Weekly-Contest-270-不到-1-小时解决了-3-题，-Q3-最后几十秒提交一次性通过](https://www.v2ex.com/t/820137) 

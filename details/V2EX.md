@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-05 08:14:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-05 08:25:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-05-chrotry-做了一个小工具，在终端（类似-Vim）搜索-Chrome-的所有浏览记录，并跳转到-Chrome](https://www.v2ex.com/t/820165) 
 - [2021-12-05-iCloud-切换了新的-Apple-ID-后不断提醒我登录旧的-ID](https://www.v2ex.com/t/820164) 
 - [2021-12-05-lol-的这个登录框用-sendinput-过不了诶](https://www.v2ex.com/t/820161) 
 - [2021-12-05-各位觉得-Dan-的八股文背的怎么样](https://www.v2ex.com/t/820160) 
@@ -38,4 +39,3 @@
 - [2021-12-05-求教-macos-下/usr/local-和/opt-目录的作用和区别](https://www.v2ex.com/t/820118) 
 - [2021-12-05-Abbyy-OCR-后的-pdf-滚动时加载很慢，可能是什么问题?](https://www.v2ex.com/t/820117) 
 - [2021-12-05-gof:-一个可扩展的文件处理器（带截图说明）](https://www.v2ex.com/t/820116) 
-- [2021-12-05-有没有比较轻量的-bootstrap-模板可以参考](https://www.v2ex.com/t/820115) 

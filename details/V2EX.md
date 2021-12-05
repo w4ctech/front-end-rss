@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-05 13:18:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-05 13:34:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2021-12-05-求推荐个性价比高的-4K-120Hz+-显示器](https://www.v2ex.com/t/820166) 
 - [2021-12-05-chrotry-做了一个小工具，在终端（类似-Vim）搜索-Chrome-的所有浏览记录，并跳转到-Chrome](https://www.v2ex.com/t/820165) 
 - [2021-12-05-iCloud-切换了新的-Apple-ID-后不断提醒我登录旧的-ID](https://www.v2ex.com/t/820164) 
-- [2021-12-05-lol-的这个登录框用-sendinput-过不了诶](https://www.v2ex.com/t/820161) 

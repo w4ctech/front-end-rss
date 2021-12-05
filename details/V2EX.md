@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-05 02:03:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-05 02:16:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-05-求教-macos-下/usr/local-和/opt-目录的作用和区别](https://www.v2ex.com/t/820118) 
+- [2021-12-05-Abbyy-OCR-后的-pdf-滚动时加载很慢，可能是什么问题?](https://www.v2ex.com/t/820117) 
 - [2021-12-05-gof:-一个可扩展的文件处理器（带截图说明）](https://www.v2ex.com/t/820116) 
 - [2021-12-05-有没有比较轻量的-bootstrap-模板可以参考](https://www.v2ex.com/t/820115) 
 - [2021-12-05-给微信一个建议](https://www.v2ex.com/t/820114) 
@@ -44,5 +46,3 @@
 - [2021-12-04-IntelliJ-IDEA-搜索中不显示中文候选框](https://www.v2ex.com/t/820072) 
 - [2021-12-04-闲鱼收了台-Pixel-4a-5G-感觉翻车了](https://www.v2ex.com/t/820071) 
 - [2021-12-04-关于被亲戚连续借钱抵债的那点事](https://www.v2ex.com/t/820069) 
-- [2021-12-04-iPad-有没有快速把网页保存为-PDF-然后转移到-PDF-expert-等阅读软件的方法](https://www.v2ex.com/t/820068) 
-- [2021-12-04-2021-年了，中国移动-20-元-1G-流量我人傻了](https://www.v2ex.com/t/820067) 

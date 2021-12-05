@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-05 11:18:20，:rocket: 更新条数: +1540， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-05 11:36:00，:rocket: 更新条数: +1540， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,7 @@
 
 
 - [2021-12-05-最新疫情：全国新冠累计确诊99142例-累计接种新冠疫苗超25.43亿剂次](https://m.caixin.com/m/2021-12-05/101813942.html) ![](assets/new.png)  
-- [2021-12-05-福建安溪一境外入境人员核酸阳性，石家庄与满洲里疫情同传播链](https://m.caixin.com/m/2021-12-05/101813954.html) ![](assets/new.png)  
+- [2021-12-05-福建安溪一境外入境人员核酸阳性-石家庄与满洲里疫情同传播链](https://m.caixin.com/m/2021-12-05/101813954.html) ![](assets/new.png)  
 - [2021-12-05-最新海外疫情：新冠感染超2.64亿-累计接种新冠疫苗超81.21亿剂次](https://m.caixin.com/m/2021-12-05/101813946.html) ![](assets/new.png)  
 - [2021-12-05-南非低龄入院患者增加，新毒株或加剧欧洲社会危机｜大流行手记（12月4日）](https://m.caixin.com/m/2021-12-05/101813888.html) ![](assets/new.png)  
 - [2021-12-04-满洲里疫情确认为德尔塔变异株-广州新增1例本土确诊](https://m.caixin.com/m/2021-12-04/101813864.html) ![](assets/new.png)  
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2021-12-05-有什么异地在线一起看电影的方案吗？](https://www.v2ex.com/t/820197) ![](assets/new.png)  
+- [2021-12-05-为什么-typora-主页需要翻墙才能访问了啊](https://www.v2ex.com/t/820195) ![](assets/new.png)  
+- [2021-12-05-深圳固戍附近有图书馆吗](https://www.v2ex.com/t/820194) ![](assets/new.png)  
+- [2021-12-05-微信传-500MB-的视频会导致微信卡顿](https://www.v2ex.com/t/820193) ![](assets/new.png)  
+- [2021-12-05-Go-感觉没有一个趁手的-ORM-框架啊？](https://www.v2ex.com/t/820191) ![](assets/new.png)  
+- [2021-12-05-现在黑五和双十二有域名优惠券吗？想来个-XYZ-10-年，有闲置的也可以转给我。](https://www.v2ex.com/t/820190) ![](assets/new.png)  
+- [2021-12-05-Google-是在恶心-safari-吗](https://www.v2ex.com/t/820189) ![](assets/new.png)  
 - [2021-12-05-上海联通获取不到-IPv6-好久了](https://www.v2ex.com/t/820188) ![](assets/new.png)  
 - [2021-12-05-Coredns，-DoT-server,-dig-显示-PAD-是什么？](https://www.v2ex.com/t/820187) ![](assets/new.png)  
 - [2021-12-05-发个小帖子-喷墨打印机真好玩](https://www.v2ex.com/t/820185) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2021-12-05-成功学的「肯定宣言」——-重复念诵你想要的东西就可以得到它](https://www.v2ex.com/t/820174) ![](assets/new.png)  
 - [2021-12-05-iOS-相册编辑过的视频，如何去除掉编辑信息？](https://www.v2ex.com/t/820173) ![](assets/new.png)  
 - [2021-12-05-macbook-漏电解决](https://www.v2ex.com/t/820172) ![](assets/new.png)  
-- [2021-12-05-win10-需要装的软件和系统备份问题？](https://www.v2ex.com/t/820171) ![](assets/new.png)  
-- [2021-12-05-想咨询-Outlook.com-邮箱如何设置-POP3-协议，接受其它邮箱内容…-像-Gmail-一样](https://www.v2ex.com/t/820170) ![](assets/new.png)  
-- [2021-12-05-求助帖-老大让我-30-分钟写个签到系统](https://www.v2ex.com/t/820169) ![](assets/new.png)  
-- [2021-12-05-美团分销联盟-API-封装（-PHP--SDK）](https://www.v2ex.com/t/820168) ![](assets/new.png)  
-- [2021-12-05-怎么控制自己的占有欲？](https://www.v2ex.com/t/820167) ![](assets/new.png)  
-- [2021-12-05-求推荐个性价比高的-4K-120Hz+-显示器](https://www.v2ex.com/t/820166) ![](assets/new.png)  
-- [2021-12-05-chrotry-做了一个小工具，在终端（类似-Vim）搜索-Chrome-的所有浏览记录，并跳转到-Chrome](https://www.v2ex.com/t/820165) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -525,6 +525,14 @@
 </summary>
 
 
+- [2021-12-05-推荐学Java——数据表基本操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14835&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhGnL_xOtqz3lNxbRz2IxPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-05-Android-使用-Span-打造丰富多彩的文本-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14834&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSz4H-XK5ygEZOT615QDHtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-05-组件封装之输入框下拉列表-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14833&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492605%26amp%3Bidx%3D2%26amp%3Bsn%3D85c11bed6931095d0117907d1c1959ab%26amp%3Bchksm%3Dfa3f02a6cd488bb0d369ffee088d37a3dba983c111c2bbec0f61154be8b2b0e275317bc012fa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-05-软件开发趋势大预测！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14832&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492582%26amp%3Bidx%3D1%26amp%3Bsn%3D7994d770fcca4e47e379db37c4c13054%26amp%3Bchksm%3Dfa3f02bdcd488bab5acddee3cb1c35e1e7e597bd65fa3c3508ce8045c6fb13615b8ffe2ec34b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-05-排名，Nacos未上版，Maven排名28，结果出乎你意料！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14831&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492582%26amp%3Bidx%3D2%26amp%3Bsn%3D9f539bddb17df8c3d8f47736cd3e7a11%26amp%3Bchksm%3Dfa3f02bdcd488babaa6f635c71c5ed4528fce4577c2dc3938cedd515616c44d13a5b98666d7d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-05-谷歌发布新编程语言，居然专治这个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14830&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492576%26amp%3Bidx%3D1%26amp%3Bsn%3De481178446fb6b3ee0eec9d7b400277b%26amp%3Bchksm%3Dfa3f02bbcd488badceacdd16cb64c930d39f2fcf603004a0379cfacdf1098bb38e5f37b2f85a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-05-黄峥自述：一路走来，我的经历与思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14829&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492576%26amp%3Bidx%3D2%26amp%3Bsn%3Dc5a30edc3eacc758d34309db02d0bbad%26amp%3Bchksm%3Dfa3f02bbcd488bad771301485403b28ca910cba0754c0141e366d2e3d1a02ac8eff17c2ad23f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-05-这个程序员火了，竟是因为给老板修了一次U盘...-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14828&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492542%26amp%3Bidx%3D1%26amp%3Bsn%3D49b99b871ac5386db6b526408e92a54e%26amp%3Bchksm%3Dfa3f02e5cd488bf3211f2e0048d517cc9a104970787a2269a1d9c57b58186b533ae5c1cfea28%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-05-性能优化那些事儿（1）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14827&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-05-实战经验分享：使用-PyO3-来构建你的-Python-模块-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14826&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F418906426%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-05-Chrome-将代码分区，在-Android-上性能大变-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14825&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fge-vX2dMn3N4Pmcnz8mjTQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -537,14 +545,6 @@
 - [2021-12-05-DDD落地，如何持久化融合-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14818&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-persist-aggregation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-05-开发人员的安全意识-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14817&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-security-awareness%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-05-数据库拆分实战-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14816&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdatabase-split-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-12-05-小心-Serverless-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14815&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcautious-in-serverless%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-12-05-类型流建模和软件开发标准化-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14814&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftypeflow-secularized-functional-programming%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-12-05-React-Native实践有感-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14813&url=https%3A%2F%2Finsights.thoughtworks.cn%2Freact-native-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-12-05-前端测试的反模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14812&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffront-end-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-12-05-研发平台演进：从工具链到开放平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14811&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresearch-development-open-platform-tool-chain%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-12-05-TypeScript-枚举指南-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14810&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F414834588%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-12-05-加密的艺术-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14809&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F410148159%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-12-05-直接-root-Android-设备，会「隐身」的恶意软件-AbstractEmu-正在偷偷作恶-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14808&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS8z2bOZ2Ow33iBBGRdj5_Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,16 +566,16 @@
 - [2021-12-05-SQL-学习之查询](https://toutiao.io/k/0lsafxw) ![](assets/new.png)  
 - [2021-12-05-万字长文详述对话推荐系统的逻辑与演化](https://toutiao.io/k/a4x5e49) ![](assets/new.png)  
 - [2021-12-05-小心-Serverless](https://toutiao.io/k/a0v32sf) ![](assets/new.png)  
-- [2021-12-05-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
-- [2021-12-05-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
-- [2021-12-05-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
-- [2021-12-05-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
-- [2021-12-05-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-05-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) ![](assets/new.png)  
 - [2021-12-05-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) ![](assets/new.png)  
+- [2021-12-05-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
+- [2021-12-05-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
 - [2021-12-05-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
+- [2021-12-05-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
 - [2021-12-05-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) ![](assets/new.png)  
-- [2021-12-05-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
+- [2021-12-05-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
 - [2021-12-05-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
+- [2021-12-05-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

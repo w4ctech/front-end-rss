@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-05 12:18:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-05 12:33:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -8,6 +8,7 @@
 - [2021-12-05-最新疫情：全国新冠累计确诊99142例-累计接种新冠疫苗超25.43亿剂次](https://m.caixin.com/m/2021-12-05/101813942.html) 
 - [2021-12-05-福建安溪一境外入境人员核酸阳性-石家庄与满洲里疫情同传播链](https://m.caixin.com/m/2021-12-05/101813954.html) 
 - [2021-12-05-最新海外疫情：新冠感染超2.64亿-累计接种新冠疫苗超81.21亿剂次](https://m.caixin.com/m/2021-12-05/101813946.html) 
+- [2021-12-05-【境内疫情观察】全国新增42例本土病例（12月4日）](https://database.caixin.com/m/2021-12-05/101813961.html) 
 - [2021-12-05-南非低龄入院患者增加，新毒株或加剧欧洲社会危机｜大流行手记（12月4日）](https://m.caixin.com/m/2021-12-05/101813888.html) 
 - [2021-12-04-满洲里疫情确认为德尔塔变异株-广州新增1例本土确诊](https://m.caixin.com/m/2021-12-04/101813864.html) 
 - [2021-12-04-隔离酒店一工作人员感染德尔塔-广州白云区新增一中风险地区](https://m.caixin.com/m/2021-12-04/101813612.html) 
@@ -1485,14 +1486,14 @@
 - [2021-12-05-预训练技术在美团到店搜索广告中的应用](https://toutiao.io/k/kiyd9hq) 
 - [2021-12-05-SQL-学习之查询](https://toutiao.io/k/0lsafxw) 
 - [2021-12-05-万字长文详述对话推荐系统的逻辑与演化](https://toutiao.io/k/a4x5e49) 
+- [2021-12-05-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
 - [2021-12-05-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) 
 - [2021-12-05-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 
-- [2021-12-05-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
-- [2021-12-05-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) 
 - [2021-12-05-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
-- [2021-12-05-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
-- [2021-12-05-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
-- [2021-12-05-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
 - [2021-12-05-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) 
 - [2021-12-05-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
+- [2021-12-05-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) 
+- [2021-12-05-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
+- [2021-12-05-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
 - [2021-12-05-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
+- [2021-12-05-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 

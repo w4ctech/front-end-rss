@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 15:24:04，:rocket: 更新条数: +1556， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 15:44:47，:rocket: 更新条数: +1557， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-06-在不同机器/操作系统上运行相同-Python-程序，可能得到不同结果](https://www.v2ex.com/t/820485) ![](assets/new.png)  
 - [2021-12-06-DST-Root-CA-X3-根证书-9-月份失效了，为什么-let-encrption-还下发老的-ISRG-Root-X1?](https://www.v2ex.com/t/820484) ![](assets/new.png)  
 - [2021-12-06-关于-socket-的-shutdown-close-函数的几个疑问？](https://www.v2ex.com/t/820482) ![](assets/new.png)  
 - [2021-12-06-三个房间，内各有一桌麻将，如何检测是否有人，有几个人（1-4-人）](https://www.v2ex.com/t/820481) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-06-我和我朋友买了两台-MBP-遇到的问题](https://www.v2ex.com/t/820459) ![](assets/new.png)  
 - [2021-12-06-MBP-外接-LG-Ultrafine-4K-闪屏](https://www.v2ex.com/t/820458) ![](assets/new.png)  
 - [2021-12-06-感觉-VMware-卡顿很严重，有什么办法解决吗？](https://www.v2ex.com/t/820457) ![](assets/new.png)  
-- [2021-12-06-如何给港币卡转账-100-港币](https://www.v2ex.com/t/820455) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,9 +569,9 @@
 - [2021-12-06-优化可变刷新率屏幕的-App-体验](https://toutiao.io/k/wclw1p7) ![](assets/new.png)  
 - [2021-12-06-从成功到夺目:-Google-Play-2021-年度中国开发者最佳榜单](https://toutiao.io/k/uc335h2) ![](assets/new.png)  
 - [2021-12-06-了解-OCI-容器镜像的-ID-与标签](https://toutiao.io/k/raxh7f7) ![](assets/new.png)  
+- [2021-12-06-数据流水线架构](https://toutiao.io/k/a01z5zc) ![](assets/new.png)  
 - [2021-12-06-C#-9.0-每个开发人员都必须知道的-4-个特性](https://toutiao.io/k/6s23dns) ![](assets/new.png)  
 - [2021-12-06-聊聊数字化转型与-DevOps](https://toutiao.io/k/glky6zk) ![](assets/new.png)  
-- [2021-12-06-数据流水线架构](https://toutiao.io/k/a01z5zc) ![](assets/new.png)  
 - [2021-12-06-数据与广告（三十）：从-oCPX-的无形调控之手到定向价值定位](https://toutiao.io/k/cjnflhs) ![](assets/new.png)  
 - [2021-12-06-敏捷人生](https://toutiao.io/k/nvpl3iv) ![](assets/new.png)  
 - [2021-12-06-十年后，你在元宇宙中的一天是什么样？](https://toutiao.io/k/7wt4fdr) ![](assets/new.png)  

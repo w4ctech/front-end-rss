@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-06 15:24:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-06 15:44:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-06-在不同机器/操作系统上运行相同-Python-程序，可能得到不同结果](https://www.v2ex.com/t/820485) 
 - [2021-12-06-DST-Root-CA-X3-根证书-9-月份失效了，为什么-let-encrption-还下发老的-ISRG-Root-X1?](https://www.v2ex.com/t/820484) 
 - [2021-12-06-关于-socket-的-shutdown-close-函数的几个疑问？](https://www.v2ex.com/t/820482) 
 - [2021-12-06-三个房间，内各有一桌麻将，如何检测是否有人，有几个人（1-4-人）](https://www.v2ex.com/t/820481) 

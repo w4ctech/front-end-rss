@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 11:39:54，:rocket: 更新条数: +1550， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 11:54:40，:rocket: 更新条数: +1552， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-06-怎么通过-CRI-接口拿到环境变量的值呢？](https://www.v2ex.com/t/820449) ![](assets/new.png)  
+- [2021-12-06-QQ-群文件能否被外部程序接管下载？](https://www.v2ex.com/t/820448) ![](assets/new.png)  
+- [2021-12-06-金融财务客服岗位-，-火速招聘业务扩张](https://www.v2ex.com/t/820447) ![](assets/new.png)  
+- [2021-12-06-有什么有什么定时任务管理面板？](https://www.v2ex.com/t/820445) ![](assets/new.png)  
 - [2021-12-06-今天腾讯云香港是不是炸了？](https://www.v2ex.com/t/820444) ![](assets/new.png)  
 - [2021-12-06-北京招聘-「可话」团队招新啦！](https://www.v2ex.com/t/820443) ![](assets/new.png)  
 - [2021-12-06-分享：一篇提炼得非常不错的-Messari-2022-报告](https://www.v2ex.com/t/820442) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-06-SQL-反模式设计问题](https://www.v2ex.com/t/820425) ![](assets/new.png)  
 - [2021-12-06-关于变量从一个命名规则转换到另一个后，采取不同的标准大家怎么看？](https://www.v2ex.com/t/820421) ![](assets/new.png)  
 - [2021-12-06-关于微服务体系下，是否有网关的存在讨论](https://www.v2ex.com/t/820420) ![](assets/new.png)  
-- [2021-12-06-视频添加水印，水印在视频内弹来弹去那种~](https://www.v2ex.com/t/820419) ![](assets/new.png)  
-- [2021-12-06-第一次用-MacOS-MBP-M1-pro-16’,-四天后谈谈体验](https://www.v2ex.com/t/820418) ![](assets/new.png)  
-- [2021-12-06-icloud-同步问题](https://www.v2ex.com/t/820416) ![](assets/new.png)  
-- [2021-12-06-校园网内网-DDNS-问题请教](https://www.v2ex.com/t/820415) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2021-12-06-优化可变刷新率屏幕的-App-体验](https://toutiao.io/k/wclw1p7) ![](assets/new.png)  
 - [2021-12-06-从成功到夺目:-Google-Play-2021-年度中国开发者最佳榜单](https://toutiao.io/k/uc335h2) ![](assets/new.png)  
 - [2021-12-06-了解-OCI-容器镜像的-ID-与标签](https://toutiao.io/k/raxh7f7) ![](assets/new.png)  
-- [2021-12-06-聊聊数字化转型与-DevOps](https://toutiao.io/k/glky6zk) ![](assets/new.png)  
 - [2021-12-06-C#-9.0-每个开发人员都必须知道的-4-个特性](https://toutiao.io/k/6s23dns) ![](assets/new.png)  
+- [2021-12-06-聊聊数字化转型与-DevOps](https://toutiao.io/k/glky6zk) ![](assets/new.png)  
 - [2021-12-06-数据与广告（三十）：从-oCPX-的无形调控之手到定向价值定位](https://toutiao.io/k/cjnflhs) ![](assets/new.png)  
 - [2021-12-06-数据流水线架构](https://toutiao.io/k/a01z5zc) ![](assets/new.png)  
 - [2021-12-06-十年后，你在元宇宙中的一天是什么样？](https://toutiao.io/k/7wt4fdr) ![](assets/new.png)  

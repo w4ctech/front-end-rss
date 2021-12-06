@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 03:13:24，:rocket: 更新条数: +1555， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 03:26:52，:rocket: 更新条数: +1552， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-06-上海-C++GPP育碧上海阿凡达项目组招聘游戏逻辑程序员~每周可申请-2-天居家办公，远离加班，与-massive-工作室联合开发-3A-主机游戏~~](https://www.v2ex.com/t/820289) ![](assets/new.png)  
+- [2021-12-06-本月结束后各大数字货币交易所都要停止-CNY-交易，对于普通韭菜接下来怎么入金买币呢？](https://www.v2ex.com/t/820288) ![](assets/new.png)  
+- [2021-12-06-联想小新笔记本拓展外接显示器-，显示器上的图标变的有点大-该怎么设置？-笔记本分辨率是-2560-*-1600-笔记本分辨率-1920-*-1080](https://www.v2ex.com/t/820287) ![](assets/new.png)  
+- [2021-12-06-PD-启动另一个盘里面的实体-WTG-Win10，有什么备份的方式？](https://www.v2ex.com/t/820285) ![](assets/new.png)  
 - [2021-12-06-控制中心-43G-内存了，-f**k-apple！](https://www.v2ex.com/t/820284) ![](assets/new.png)  
 - [2021-12-06-关于-air-pods-pro-ac++-快到期得问题](https://www.v2ex.com/t/820282) ![](assets/new.png)  
 - [2021-12-06-转租-滨江区，地铁一号线滨河路地铁口，东方郡东区出租单间，-2150/月](https://www.v2ex.com/t/820281) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-06-北京联通宽带-500Mbps，有要租的吗](https://www.v2ex.com/t/820270) ![](assets/new.png)  
 - [2021-12-06-跨年，有什么送媳妇的礼物推荐吗](https://www.v2ex.com/t/820269) ![](assets/new.png)  
 - [2021-12-06-因为疫情被封闭在小区,-加上手里的项目还有个-3,4-天就结束了,-之后公司让用调休和年假去抵没上班的时间,-请问这合理吗?](https://www.v2ex.com/t/820268) ![](assets/new.png)  
-- [2021-12-06-使用-K3S-配置管理的一些疑惑？](https://www.v2ex.com/t/820267) ![](assets/new.png)  
-- [2021-12-06-分布式事务的这些常见用法都有坑，来看看正确姿势](https://www.v2ex.com/t/820265) ![](assets/new.png)  
-- [2021-12-06-加湿器有推荐吗？](https://www.v2ex.com/t/820263) ![](assets/new.png)  
-- [2021-12-06-家居上门提供免费测量出设计图-其中会有什么套路吗？](https://www.v2ex.com/t/820262) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,13 +569,13 @@
 - [2021-12-06-十年后，你在元宇宙中的一天是什么样？](https://toutiao.io/k/7wt4fdr) ![](assets/new.png)  
 - [2021-12-06-译-在-Emacs-中提醒-Trojan-Source-漏洞](https://toutiao.io/k/maly7q5) ![](assets/new.png)  
 - [2021-12-06-Istio-在知乎大规模集群的落地实践](https://toutiao.io/k/og69qo6) ![](assets/new.png)  
+- [2021-12-06-使用-markdown-画流程图、时序图](https://toutiao.io/k/r4mo1a4) ![](assets/new.png)  
 - [2021-12-06-聊聊数字化转型与-DevOps](https://toutiao.io/k/glky6zk) ![](assets/new.png)  
 - [2021-12-06-C#-9.0-每个开发人员都必须知道的-4-个特性](https://toutiao.io/k/6s23dns) ![](assets/new.png)  
-- [2021-12-06-使用-markdown-画流程图、时序图](https://toutiao.io/k/r4mo1a4) ![](assets/new.png)  
 - [2021-12-06-数据与广告（三十）：从-oCPX-的无形调控之手到定向价值定位](https://toutiao.io/k/cjnflhs) ![](assets/new.png)  
-- [2021-12-06-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) ![](assets/new.png)  
-- [2021-12-06-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) ![](assets/new.png)  
-- [2021-12-06-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
+- [2021-12-06-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
+- [2021-12-06-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
+- [2021-12-06-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

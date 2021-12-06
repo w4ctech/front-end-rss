@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 03:26:52，:rocket: 更新条数: +1552， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 03:41:14，:rocket: 更新条数: +1553， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2021-12-06-对未来的迷茫，求助](https://www.v2ex.com/t/820298) ![](assets/new.png)  
+- [2021-12-06-各位牛哥，-WordPress-博客文章多了之后就卡，有什么好方法吗？](https://www.v2ex.com/t/820297) ![](assets/new.png)  
+- [2021-12-06-入手了一个-Magic-Keyboard-2，是否有办法自定义-F5，-F6-这些按键](https://www.v2ex.com/t/820295) ![](assets/new.png)  
+- [2021-12-06-tv-版本的软件和客户端看到的内容不一致](https://www.v2ex.com/t/820294) ![](assets/new.png)  
+- [2021-12-06-免打包构建工具-snowpack-中文文档](https://www.v2ex.com/t/820293) ![](assets/new.png)  
+- [2021-12-06-App-Store-哪款直播客户端，支持第三方-rtmp-推流效果比较好的？](https://www.v2ex.com/t/820292) ![](assets/new.png)  
 - [2021-12-06-上海-C++GPP育碧上海阿凡达项目组招聘游戏逻辑程序员~每周可申请-2-天居家办公，远离加班，与-massive-工作室联合开发-3A-主机游戏~~](https://www.v2ex.com/t/820289) ![](assets/new.png)  
 - [2021-12-06-本月结束后各大数字货币交易所都要停止-CNY-交易，对于普通韭菜接下来怎么入金买币呢？](https://www.v2ex.com/t/820288) ![](assets/new.png)  
 - [2021-12-06-联想小新笔记本拓展外接显示器-，显示器上的图标变的有点大-该怎么设置？-笔记本分辨率是-2560-*-1600-笔记本分辨率-1920-*-1080](https://www.v2ex.com/t/820287) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-12-06-分享一个租房搬家完打包装箱后找东西的思路](https://www.v2ex.com/t/820276) ![](assets/new.png)  
 - [2021-12-06-请教一下，-JavaScript-有类似于-Java-EL-表达式的东西吗？](https://www.v2ex.com/t/820275) ![](assets/new.png)  
 - [2021-12-06-北京-上市美资外企-Senior-Android-/iOS-Engineer](https://www.v2ex.com/t/820274) ![](assets/new.png)  
-- [2021-12-06-如何判断对方是否适合自己结婚？](https://www.v2ex.com/t/820273) ![](assets/new.png)  
-- [2021-12-06-新家路由器+ap-型号求推荐。](https://www.v2ex.com/t/820272) ![](assets/new.png)  
-- [2021-12-06-有没有开源好用的照片分类与多平台预览的系统](https://www.v2ex.com/t/820271) ![](assets/new.png)  
-- [2021-12-06-北京联通宽带-500Mbps，有要租的吗](https://www.v2ex.com/t/820270) ![](assets/new.png)  
-- [2021-12-06-跨年，有什么送媳妇的礼物推荐吗](https://www.v2ex.com/t/820269) ![](assets/new.png)  
-- [2021-12-06-因为疫情被封闭在小区,-加上手里的项目还有个-3,4-天就结束了,-之后公司让用调休和年假去抵没上班的时间,-请问这合理吗?](https://www.v2ex.com/t/820268) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2021-12-06-了解-OCI-容器镜像的-ID-与标签](https://toutiao.io/k/raxh7f7) ![](assets/new.png)  
 - [2021-12-06-十年后，你在元宇宙中的一天是什么样？](https://toutiao.io/k/7wt4fdr) ![](assets/new.png)  
 - [2021-12-06-译-在-Emacs-中提醒-Trojan-Source-漏洞](https://toutiao.io/k/maly7q5) ![](assets/new.png)  
-- [2021-12-06-Istio-在知乎大规模集群的落地实践](https://toutiao.io/k/og69qo6) ![](assets/new.png)  
 - [2021-12-06-使用-markdown-画流程图、时序图](https://toutiao.io/k/r4mo1a4) ![](assets/new.png)  
+- [2021-12-06-Istio-在知乎大规模集群的落地实践](https://toutiao.io/k/og69qo6) ![](assets/new.png)  
 - [2021-12-06-聊聊数字化转型与-DevOps](https://toutiao.io/k/glky6zk) ![](assets/new.png)  
 - [2021-12-06-C#-9.0-每个开发人员都必须知道的-4-个特性](https://toutiao.io/k/6s23dns) ![](assets/new.png)  
 - [2021-12-06-数据与广告（三十）：从-oCPX-的无形调控之手到定向价值定位](https://toutiao.io/k/cjnflhs) ![](assets/new.png)  
-- [2021-12-06-推荐-Kubernetes-Deployment-的故障排查可视化指南（2021-中文版）](https://toutiao.io/k/cd9u887) ![](assets/new.png)  
-- [2021-12-06-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
-- [2021-12-06-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-06-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
+- [2021-12-06-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
+- [2021-12-06-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-06 06:26:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-06 06:47:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,6 +55,7 @@
 
 
 
+- [【V2EX】-Java-Vue-自动化测试-三年开发求后端或全栈的外企-or-能-WLB-岗位内推](https://www.v2ex.com/t/820350)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -213,7 +214,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】APNG在线制作、兼容、播放和暂停](https://www.zhangxinxu.com/wordpress/2021/09/apng-maker-pause-play-ie/)
 - [【V2EX】android、ios、web-有没通用的-3D-技术？](https://www.v2ex.com/t/820323)
-- [【V2EX】Python-会走向-JIT-吗？从-PHP8-到-Guido-van-Rossum-入职微软](https://www.v2ex.com/t/820299)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

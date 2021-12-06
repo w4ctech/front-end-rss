@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 19:18:21，:rocket: 更新条数: +1557， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 19:36:48，:rocket: 更新条数: +1557， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-06-如果获得-minecraft-基岩版最新的版本号？](https://www.v2ex.com/t/820495) ![](assets/new.png)  
 - [2021-12-06-spotify-这个跨设备无缝简直是绝了啊！](https://www.v2ex.com/t/820494) ![](assets/new.png)  
 - [2021-12-06-杭州-元宇宙创业公司像衍科技招-Android-开发、前端、后端、3D-美术、产品经理](https://www.v2ex.com/t/820493) ![](assets/new.png)  
 - [2021-12-06-iOS-微信新消息无通知，不加载](https://www.v2ex.com/t/820492) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-06-AWS-免费层级的流量大幅增加](https://www.v2ex.com/t/820473) ![](assets/new.png)  
 - [2021-12-06-想问一下计算机组成原理和数据结构与算法的问题](https://www.v2ex.com/t/820472) ![](assets/new.png)  
 - [2021-12-06-「求助」升级到-macOS-Monterey-后，原生邮件无法连接-Gmail](https://www.v2ex.com/t/820468) ![](assets/new.png)  
-- [2021-12-06-深圳-明源云空间-上市公司-明源云空间高薪招-javaLeader、-Java-开发和测试](https://www.v2ex.com/t/820467) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

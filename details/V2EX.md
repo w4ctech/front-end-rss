@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-12-06 15:48:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-06 16:15:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-06-最近装了一台-Nuc8i5beh-黑苹果，记录一下如下，欢迎大家交流](https://www.v2ex.com/t/820490) 
+- [2021-12-06-全栈-第一次写简历，恳请各位大佬帮忙提点建议](https://www.v2ex.com/t/820489) 
+- [2021-12-06-二手小米手机价格一般多久腰斩](https://www.v2ex.com/t/820487) 
 - [2021-12-06-在不同机器/操作系统上运行相同-Python-程序，可能得到不同结果](https://www.v2ex.com/t/820485) 
 - [2021-12-06-DST-Root-CA-X3-根证书-9-月份失效了，为什么-let-encrption-还下发老的-ISRG-Root-X1?](https://www.v2ex.com/t/820484) 
 - [2021-12-06-关于-socket-的-shutdown-close-函数的几个疑问？](https://www.v2ex.com/t/820482) 
@@ -38,6 +41,3 @@
 - [2021-12-06-今天腾讯云香港是不是炸了？](https://www.v2ex.com/t/820444) 
 - [2021-12-06-北京招聘-「可话」团队招新啦！](https://www.v2ex.com/t/820443) 
 - [2021-12-06-分享：一篇提炼得非常不错的-Messari-2022-报告](https://www.v2ex.com/t/820442) 
-- [2021-12-06-终于找到了-b-站倍速播放音画不同步的原因。。](https://www.v2ex.com/t/820439) 
-- [2021-12-06-Macbook-Pro-14'-M1-Max-丐版主板烧坏翻车](https://www.v2ex.com/t/820438) 
-- [2021-12-06-深圳-15-25+K-Babylon/Three.js/WebGL-前端开发工程师](https://www.v2ex.com/t/820436) 

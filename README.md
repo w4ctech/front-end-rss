@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 15:48:38，:rocket: 更新条数: +1557， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 16:15:34，:rocket: 更新条数: +1557， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-06-最近装了一台-Nuc8i5beh-黑苹果，记录一下如下，欢迎大家交流](https://www.v2ex.com/t/820490) ![](assets/new.png)  
+- [2021-12-06-全栈-第一次写简历，恳请各位大佬帮忙提点建议](https://www.v2ex.com/t/820489) ![](assets/new.png)  
+- [2021-12-06-二手小米手机价格一般多久腰斩](https://www.v2ex.com/t/820487) ![](assets/new.png)  
 - [2021-12-06-在不同机器/操作系统上运行相同-Python-程序，可能得到不同结果](https://www.v2ex.com/t/820485) ![](assets/new.png)  
 - [2021-12-06-DST-Root-CA-X3-根证书-9-月份失效了，为什么-let-encrption-还下发老的-ISRG-Root-X1?](https://www.v2ex.com/t/820484) ![](assets/new.png)  
 - [2021-12-06-关于-socket-的-shutdown-close-函数的几个疑问？](https://www.v2ex.com/t/820482) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-06-Macbook-pro-外接两台/多台支持反向充电的显示器会对电池有影响吗](https://www.v2ex.com/t/820465) ![](assets/new.png)  
 - [2021-12-06-广州-东山口地铁站明亮有窗工作室出租中介勿扰](https://www.v2ex.com/t/820463) ![](assets/new.png)  
 - [2021-12-06-M1-Java-编译maven确实快](https://www.v2ex.com/t/820461) ![](assets/new.png)  
-- [2021-12-06-我和我朋友买了两台-MBP-遇到的问题](https://www.v2ex.com/t/820459) ![](assets/new.png)  
-- [2021-12-06-MBP-外接-LG-Ultrafine-4K-闪屏](https://www.v2ex.com/t/820458) ![](assets/new.png)  
-- [2021-12-06-感觉-VMware-卡顿很严重，有什么办法解决吗？](https://www.v2ex.com/t/820457) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

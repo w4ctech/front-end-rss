@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-06 15:48:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-06 16:15:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -155,7 +155,6 @@
 
 
 
-- [【V2EX】深圳-15-25+K-Babylon/Three.js/WebGL-前端开发工程师](https://www.v2ex.com/t/820436)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -255,7 +254,6 @@
 - [【开发者头条】优化可变刷新率屏幕的-App-体验](https://toutiao.io/k/wclw1p7)
 - [【开发者头条】推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5)
 - [【开发者头条】推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld)
-- [【开发者头条】推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -300,6 +298,7 @@
 
 
 
+- [【V2EX】全栈-第一次写简历，恳请各位大佬帮忙提点建议](https://www.v2ex.com/t/820489)
 - [【V2EX】想问一下计算机组成原理和数据结构与算法的问题](https://www.v2ex.com/t/820472)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 10:13:40，:rocket: 更新条数: +1550， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 10:25:05，:rocket: 更新条数: +1550， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-06-从爱奇艺裁员联想到中年危机已经在眼前了，想搞点副业，求建议](https://www.v2ex.com/t/820430) ![](assets/new.png)  
 - [2021-12-06-普通商宽叠加-CN2-的问题](https://www.v2ex.com/t/820429) ![](assets/new.png)  
 - [2021-12-06-长桥证券-招聘前端工程师和后端开发工程（可选-Remote）](https://www.v2ex.com/t/820426) ![](assets/new.png)  
 - [2021-12-06-SQL-反模式设计问题](https://www.v2ex.com/t/820425) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-06-正版，在-macOS-上有无办法在不安装-Creative-Cloud-的情况下安装-Photoshop？](https://www.v2ex.com/t/820403) ![](assets/new.png)  
 - [2021-12-06-老生常谈，请问在-Mac-上大家用什么远程桌面工具？](https://www.v2ex.com/t/820400) ![](assets/new.png)  
 - [2021-12-06-MacBook-开发用机，-8G-内存够用吗？](https://www.v2ex.com/t/820399) ![](assets/new.png)  
-- [2021-12-06-Apple-Music-的试用貌似可以叠加？（美区）](https://www.v2ex.com/t/820398) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

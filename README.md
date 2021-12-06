@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 07:41:08，:rocket: 更新条数: +1555， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 07:54:37，:rocket: 更新条数: +1555， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-06-Mac-14-寸菜单栏图标隐藏问题](https://www.v2ex.com/t/820383) ![](assets/new.png)  
+- [2021-12-06-请教一个-webpack-打包的问题？](https://www.v2ex.com/t/820382) ![](assets/new.png)  
+- [2021-12-06-各位大佬艾炙到底有没有用，有没有体验过的？](https://www.v2ex.com/t/820380) ![](assets/new.png)  
+- [2021-12-06-体验了开源的离线语音识别模型-wenetspeech，准确度很高。分享一些使用心得。](https://www.v2ex.com/t/820379) ![](assets/new.png)  
+- [2021-12-06-cmake-项目中存在多级目录，怎么样设置可以让子目录的-CmakeLists.txt-保存改动时，自动重新编译项目根目录的-CmakeLists.txt](https://www.v2ex.com/t/820378) ![](assets/new.png)  
 - [2021-12-06-有老哥得了痔疮或者做过痔疮手术的没，交流下心得啊](https://www.v2ex.com/t/820376) ![](assets/new.png)  
 - [2021-12-06-薪资范围-20-40k北京急招今年会有-10-倍增长的-SaaS-公司招聘策划经理](https://www.v2ex.com/t/820375) ![](assets/new.png)  
 - [2021-12-06-求助！甲骨文-ARM-云-端口开放不了。](https://www.v2ex.com/t/820374) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-06-求助，-iPad-恢复模式无法连接电脑](https://www.v2ex.com/t/820361) ![](assets/new.png)  
 - [2021-12-06-有没有根据键盘组合快捷键来多内容复制粘贴的软件？](https://www.v2ex.com/t/820360) ![](assets/new.png)  
 - [2021-12-06-工作太轻松了怎么办？或者说水？](https://www.v2ex.com/t/820359) ![](assets/new.png)  
-- [2021-12-06-是否升级-Parallels-Desktop-17-的问题请教](https://www.v2ex.com/t/820358) ![](assets/new.png)  
-- [2021-12-06-广州哪里有维修机械键盘的地方？](https://www.v2ex.com/t/820357) ![](assets/new.png)  
-- [2021-12-06-组内急招-杭州-西湖区内推-Java-工程师-中高资深](https://www.v2ex.com/t/820356) ![](assets/new.png)  
-- [2021-12-06-忘记了-Linux-的用户名，但是还记得密码有救么](https://www.v2ex.com/t/820355) ![](assets/new.png)  
-- [2021-12-06-关于网速限制-100M-的问题，迫于实在搜索不到答案，特来求助～](https://www.v2ex.com/t/820353) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2021-12-06-十年后，你在元宇宙中的一天是什么样？](https://toutiao.io/k/7wt4fdr) ![](assets/new.png)  
 - [2021-12-06-译-在-Emacs-中提醒-Trojan-Source-漏洞](https://toutiao.io/k/maly7q5) ![](assets/new.png)  
 - [2021-12-06-数据与广告（三十）：从-oCPX-的无形调控之手到定向价值定位](https://toutiao.io/k/cjnflhs) ![](assets/new.png)  
-- [2021-12-06-敏捷人生](https://toutiao.io/k/nvpl3iv) ![](assets/new.png)  
 - [2021-12-06-数据流水线架构](https://toutiao.io/k/a01z5zc) ![](assets/new.png)  
+- [2021-12-06-敏捷人生](https://toutiao.io/k/nvpl3iv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

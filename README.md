@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 08:47:42，:rocket: 更新条数: +1557， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 09:13:58，:rocket: 更新条数: +1555， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-06-V2EX2021-年度金句评选](https://www.v2ex.com/t/820408) ![](assets/new.png)  
+- [2021-12-06-如何让-PC-端的-OneDrive-不同步删除操作？](https://www.v2ex.com/t/820407) ![](assets/new.png)  
+- [2021-12-06-一个-js-大小-9.3M，加载-10-秒到-1.5-分钟。](https://www.v2ex.com/t/820406) ![](assets/new.png)  
 - [2021-12-06-急招-Java-/全栈/前端-20+HC，-2-小时反馈，最快-3-天出-offer；-base-无锡；本月入职还能有年终奖！](https://www.v2ex.com/t/820405) ![](assets/new.png)  
 - [2021-12-06-如果用摄像机记录自己每一天的生活会怎么样？](https://www.v2ex.com/t/820404) ![](assets/new.png)  
 - [2021-12-06-正版，在-macOS-上有无办法在不安装-Creative-Cloud-的情况下安装-Photoshop？](https://www.v2ex.com/t/820403) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-06-这几天遇到一个职场问题，希望大家给点建议](https://www.v2ex.com/t/820385) ![](assets/new.png)  
 - [2021-12-06-Mac-14-寸菜单栏图标隐藏问题](https://www.v2ex.com/t/820383) ![](assets/new.png)  
 - [2021-12-06-请教一个-webpack-打包的问题？](https://www.v2ex.com/t/820382) ![](assets/new.png)  
-- [2021-12-06-各位大佬艾炙到底有没有用，有没有体验过的？](https://www.v2ex.com/t/820380) ![](assets/new.png)  
-- [2021-12-06-体验了开源的离线语音识别模型-wenetspeech，准确度很高。分享一些使用心得。](https://www.v2ex.com/t/820379) ![](assets/new.png)  
-- [2021-12-06-cmake-项目中存在多级目录，怎么样设置可以让子目录的-CmakeLists.txt-保存改动时，自动重新编译项目根目录的-CmakeLists.txt](https://www.v2ex.com/t/820378) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2021-12-06-性能优化：高效内存池的设计与实现](https://toutiao.io/k/9vo0ly6) ![](assets/new.png)  
 - [2021-12-06-使用-markdown-画流程图、时序图](https://toutiao.io/k/r4mo1a4) ![](assets/new.png)  
 - [2021-12-06-贝壳业务数据治理中台实践](https://toutiao.io/k/h3pytgo) ![](assets/new.png)  
-- [2021-12-06-SpineNet：通过神经架构搜索发现的用于对象检测的新型架构](https://toutiao.io/k/k4zwpjr) ![](assets/new.png)  
 - [2021-12-06-Nacos-本地单机版部署步骤和使用](https://toutiao.io/k/gfybv1y) ![](assets/new.png)  
+- [2021-12-06-SpineNet：通过神经架构搜索发现的用于对象检测的新型架构](https://toutiao.io/k/k4zwpjr) ![](assets/new.png)  
 - [2021-12-06-优化可变刷新率屏幕的-App-体验](https://toutiao.io/k/wclw1p7) ![](assets/new.png)  
 - [2021-12-06-从成功到夺目:-Google-Play-2021-年度中国开发者最佳榜单](https://toutiao.io/k/uc335h2) ![](assets/new.png)  
 - [2021-12-06-Istio-在知乎大规模集群的落地实践](https://toutiao.io/k/og69qo6) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 09:45:19，:rocket: 更新条数: +1554， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 09:57:39，:rocket: 更新条数: +1551， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-06-长桥证券-招聘前端工程师和后端开发工程（可选-Remote）](https://www.v2ex.com/t/820426) ![](assets/new.png)  
+- [2021-12-06-SQL-反模式设计问题](https://www.v2ex.com/t/820425) ![](assets/new.png)  
+- [2021-12-06-关于变量从一个命名规则转换到另一个后，采取不同的标准大家怎么看？](https://www.v2ex.com/t/820421) ![](assets/new.png)  
 - [2021-12-06-关于微服务体系下，是否有网关的存在讨论](https://www.v2ex.com/t/820420) ![](assets/new.png)  
 - [2021-12-06-视频添加水印，水印在视频内弹来弹去那种~](https://www.v2ex.com/t/820419) ![](assets/new.png)  
 - [2021-12-06-第一次用-MacOS-MBP-M1-pro-16’,-四天后谈谈体验](https://www.v2ex.com/t/820418) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-06-MacBook-开发用机，-8G-内存够用吗？](https://www.v2ex.com/t/820399) ![](assets/new.png)  
 - [2021-12-06-Apple-Music-的试用貌似可以叠加？（美区）](https://www.v2ex.com/t/820398) ![](assets/new.png)  
 - [2021-12-06-Apple-Watch-7-半夜也提醒站立](https://www.v2ex.com/t/820394) ![](assets/new.png)  
-- [2021-12-06-iPad-屏幕时间总是出现了一个奇怪的软件，问题是我也没下载过该软件。](https://www.v2ex.com/t/820393) ![](assets/new.png)  
-- [2021-12-06-北京哪里可以打康诺希](https://www.v2ex.com/t/820392) ![](assets/new.png)  
-- [2021-12-06-XtraFinder-有人在-M1-的机器使用成功了么](https://www.v2ex.com/t/820391) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

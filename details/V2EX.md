@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-06 19:54:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-06 20:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-06-ITX-+-EVGA-2060-KO-+-SFX-机箱推荐？](https://www.v2ex.com/t/820496) 
 - [2021-12-06-如果获得-minecraft-基岩版最新的版本号？](https://www.v2ex.com/t/820495) 
 - [2021-12-06-spotify-这个跨设备无缝简直是绝了啊！](https://www.v2ex.com/t/820494) 
 - [2021-12-06-杭州-元宇宙创业公司像衍科技招-Android-开发、前端、后端、3D-美术、产品经理](https://www.v2ex.com/t/820493) 

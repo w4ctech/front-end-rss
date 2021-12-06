@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-06 15:13:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-06 15:24:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-06-DST-Root-CA-X3-根证书-9-月份失效了，为什么-let-encrption-还下发老的-ISRG-Root-X1?](https://www.v2ex.com/t/820484) 
 - [2021-12-06-关于-socket-的-shutdown-close-函数的几个疑问？](https://www.v2ex.com/t/820482) 
 - [2021-12-06-三个房间，内各有一桌麻将，如何检测是否有人，有几个人（1-4-人）](https://www.v2ex.com/t/820481) 
 - [2021-12-06-关于-Safari-和-Firefox-的阅读器模式](https://www.v2ex.com/t/820480) 
@@ -39,4 +40,3 @@
 - [2021-12-06-终于找到了-b-站倍速播放音画不同步的原因。。](https://www.v2ex.com/t/820439) 
 - [2021-12-06-Macbook-Pro-14'-M1-Max-丐版主板烧坏翻车](https://www.v2ex.com/t/820438) 
 - [2021-12-06-深圳-15-25+K-Babylon/Three.js/WebGL-前端开发工程师](https://www.v2ex.com/t/820436) 
-- [2021-12-06-阿里云可以只用来做-k8s-的-master-吗?](https://www.v2ex.com/t/820434) 

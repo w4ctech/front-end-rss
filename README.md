@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 15:13:53，:rocket: 更新条数: +1556， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 15:24:04，:rocket: 更新条数: +1556， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-06-DST-Root-CA-X3-根证书-9-月份失效了，为什么-let-encrption-还下发老的-ISRG-Root-X1?](https://www.v2ex.com/t/820484) ![](assets/new.png)  
 - [2021-12-06-关于-socket-的-shutdown-close-函数的几个疑问？](https://www.v2ex.com/t/820482) ![](assets/new.png)  
 - [2021-12-06-三个房间，内各有一桌麻将，如何检测是否有人，有几个人（1-4-人）](https://www.v2ex.com/t/820481) ![](assets/new.png)  
 - [2021-12-06-关于-Safari-和-Firefox-的阅读器模式](https://www.v2ex.com/t/820480) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-06-MBP-外接-LG-Ultrafine-4K-闪屏](https://www.v2ex.com/t/820458) ![](assets/new.png)  
 - [2021-12-06-感觉-VMware-卡顿很严重，有什么办法解决吗？](https://www.v2ex.com/t/820457) ![](assets/new.png)  
 - [2021-12-06-如何给港币卡转账-100-港币](https://www.v2ex.com/t/820455) ![](assets/new.png)  
-- [2021-12-06-有没有一种软件可以记录保存下浏览器请求返回内容并记录到本地，下次访问的时候可以直接读取本地记录的返回内容](https://www.v2ex.com/t/820454) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

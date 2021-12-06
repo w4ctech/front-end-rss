@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 02:32:50，:rocket: 更新条数: +1552， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 02:47:03，:rocket: 更新条数: +1555， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,15 @@
 </summary>
 
 
+- [2021-12-06-对未来的迷茫](https://www.v2ex.com/t/820278) ![](assets/new.png)  
+- [2021-12-06-Prometheus-的-Pushgateway-是干嘛用的？](https://www.v2ex.com/t/820277) ![](assets/new.png)  
+- [2021-12-06-分享一个租房搬家完打包装箱后找东西的思路](https://www.v2ex.com/t/820276) ![](assets/new.png)  
+- [2021-12-06-请教一下，-JavaScript-有类似于-Java-EL-表达式的东西吗？](https://www.v2ex.com/t/820275) ![](assets/new.png)  
+- [2021-12-06-北京-上市美资外企-Senior-Android-/iOS-Engineer](https://www.v2ex.com/t/820274) ![](assets/new.png)  
+- [2021-12-06-如何判断对方是否适合自己结婚？](https://www.v2ex.com/t/820273) ![](assets/new.png)  
+- [2021-12-06-新家路由器+ap-型号求推荐。](https://www.v2ex.com/t/820272) ![](assets/new.png)  
+- [2021-12-06-有没有开源好用的照片分类与多平台预览的系统](https://www.v2ex.com/t/820271) ![](assets/new.png)  
+- [2021-12-06-北京联通宽带-500Mbps，有要租的吗](https://www.v2ex.com/t/820270) ![](assets/new.png)  
 - [2021-12-06-跨年，有什么送媳妇的礼物推荐吗](https://www.v2ex.com/t/820269) ![](assets/new.png)  
 - [2021-12-06-因为疫情被封闭在小区,-加上手里的项目还有个-3,4-天就结束了,-之后公司让用调休和年假去抵没上班的时间,-请问这合理吗?](https://www.v2ex.com/t/820268) ![](assets/new.png)  
 - [2021-12-06-使用-K3S-配置管理的一些疑惑？](https://www.v2ex.com/t/820267) ![](assets/new.png)  
@@ -505,15 +514,6 @@
 - [2021-12-06-你如何看待无代码运动？](https://www.v2ex.com/t/820257) ![](assets/new.png)  
 - [2021-12-06-macos-下，很多-APP-自动将英文双引号切换为中文双引号，怎么关掉这个恼人的功能啊！救命！-内含视频](https://www.v2ex.com/t/820256) ![](assets/new.png)  
 - [2021-12-06-有组车的吗？](https://www.v2ex.com/t/820254) ![](assets/new.png)  
-- [2021-12-06-遇到解决不了的-bug，大家咋处理，对方还用领导压我，今天解决不了，投诉领导](https://www.v2ex.com/t/820253) ![](assets/new.png)  
-- [2021-12-06-为什么还没有看到能作用于整个房间的降噪设备？](https://www.v2ex.com/t/820252) ![](assets/new.png)  
-- [2021-12-06-大家地铁刷二维码需要退出代理吗?](https://www.v2ex.com/t/820249) ![](assets/new.png)  
-- [2021-12-06-不同-Apple-ID-之间如何共享-App-数据？](https://www.v2ex.com/t/820248) ![](assets/new.png)  
-- [2021-12-06-我的天啊，最新版-macOS-beta-里把-AOC-显示器-typec-供电-bug-修复了！](https://www.v2ex.com/t/820247) ![](assets/new.png)  
-- [2021-12-05-看日志有什么好的工具](https://www.v2ex.com/t/820244) ![](assets/new.png)  
-- [2021-12-05-请问马德里和伦敦在一个时区，为啥不一样时间](https://www.v2ex.com/t/820243) ![](assets/new.png)  
-- [2021-12-05-深圳-招聘-Java-/运维/测试/区块链开发-20-50K](https://www.v2ex.com/t/820242) ![](assets/new.png)  
-- [2021-12-05-学校宿舍局域网内文件共享，有何好的解决方案？](https://www.v2ex.com/t/820241) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2021-12-06-Istio-在知乎大规模集群的落地实践](https://toutiao.io/k/og69qo6) ![](assets/new.png)  
 - [2021-12-06-聊聊数字化转型与-DevOps](https://toutiao.io/k/glky6zk) ![](assets/new.png)  
 - [2021-12-06-C#-9.0-每个开发人员都必须知道的-4-个特性](https://toutiao.io/k/6s23dns) ![](assets/new.png)  
-- [2021-12-06-数据与广告（三十）：从-oCPX-的无形调控之手到定向价值定位](https://toutiao.io/k/cjnflhs) ![](assets/new.png)  
 - [2021-12-06-使用-markdown-画流程图、时序图](https://toutiao.io/k/r4mo1a4) ![](assets/new.png)  
-- [2021-12-06-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) ![](assets/new.png)  
+- [2021-12-06-数据与广告（三十）：从-oCPX-的无形调控之手到定向价值定位](https://toutiao.io/k/cjnflhs) ![](assets/new.png)  
+- [2021-12-06-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-06-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) ![](assets/new.png)  
 - [2021-12-06-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
-- [2021-12-06-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

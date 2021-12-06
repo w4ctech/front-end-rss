@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 07:54:37，:rocket: 更新条数: +1555， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 08:15:01，:rocket: 更新条数: +1557， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,12 +494,19 @@
 </summary>
 
 
+- [2021-12-06-Apple-Watch-7-半夜也提醒站立](https://www.v2ex.com/t/820394) ![](assets/new.png)  
+- [2021-12-06-iPad-屏幕时间总是出现了一个奇怪的软件，问题是我也没下载过该软件。](https://www.v2ex.com/t/820393) ![](assets/new.png)  
+- [2021-12-06-北京哪里可以打康诺希](https://www.v2ex.com/t/820392) ![](assets/new.png)  
+- [2021-12-06-XtraFinder-有人在-M1-的机器使用成功了么](https://www.v2ex.com/t/820391) ![](assets/new.png)  
+- [2021-12-06-生命真的好脆弱](https://www.v2ex.com/t/820389) ![](assets/new.png)  
+- [2021-12-06-最新活动，-PDF-Reader-Pro-Mac-版，-4-折优惠](https://www.v2ex.com/t/820388) ![](assets/new.png)  
+- [2021-12-06-Google-Play-开发者账号已被终止](https://www.v2ex.com/t/820386) ![](assets/new.png)  
+- [2021-12-06-这几天遇到一个职场问题，希望大家给点建议](https://www.v2ex.com/t/820385) ![](assets/new.png)  
 - [2021-12-06-Mac-14-寸菜单栏图标隐藏问题](https://www.v2ex.com/t/820383) ![](assets/new.png)  
 - [2021-12-06-请教一个-webpack-打包的问题？](https://www.v2ex.com/t/820382) ![](assets/new.png)  
 - [2021-12-06-各位大佬艾炙到底有没有用，有没有体验过的？](https://www.v2ex.com/t/820380) ![](assets/new.png)  
 - [2021-12-06-体验了开源的离线语音识别模型-wenetspeech，准确度很高。分享一些使用心得。](https://www.v2ex.com/t/820379) ![](assets/new.png)  
 - [2021-12-06-cmake-项目中存在多级目录，怎么样设置可以让子目录的-CmakeLists.txt-保存改动时，自动重新编译项目根目录的-CmakeLists.txt](https://www.v2ex.com/t/820378) ![](assets/new.png)  
-- [2021-12-06-有老哥得了痔疮或者做过痔疮手术的没，交流下心得啊](https://www.v2ex.com/t/820376) ![](assets/new.png)  
 - [2021-12-06-薪资范围-20-40k北京急招今年会有-10-倍增长的-SaaS-公司招聘策划经理](https://www.v2ex.com/t/820375) ![](assets/new.png)  
 - [2021-12-06-求助！甲骨文-ARM-云-端口开放不了。](https://www.v2ex.com/t/820374) ![](assets/new.png)  
 - [2021-12-06-电脑预算-1-万，公司出-6-成，-3-年后归自己，划算吗？](https://www.v2ex.com/t/820373) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2021-12-06-ubuntu-如何开启-vnc-server-使其展示-tty2-的-gnome-的桌面？](https://www.v2ex.com/t/820371) ![](assets/new.png)  
 - [2021-12-06-squid-用作代理启动后，所有-http-请求-关于-get-post-等等都很快，但是-https-请求-CONNECT-时间非常长，有时候近-60000-毫秒](https://www.v2ex.com/t/820370) ![](assets/new.png)  
 - [2021-12-06-windows-上的图形设置-硬件加速-Hardware-accelerated-GPU-scheduling-有必要打开吗？](https://www.v2ex.com/t/820368) ![](assets/new.png)  
-- [2021-12-06-急，用-electron-发送请求遇到了问题](https://www.v2ex.com/t/820365) ![](assets/new.png)  
-- [2021-12-06-115-电脑版里面，怎么找不到手机版文件夹备份啊？](https://www.v2ex.com/t/820364) ![](assets/new.png)  
-- [2021-12-06-有木有-Final-Cut-大神-求排查下渲染出错原因](https://www.v2ex.com/t/820363) ![](assets/new.png)  
-- [2021-12-06-Youtube-的-8k-60p-和-Netflix-的-4k-HDR-的码率分别是多少？](https://www.v2ex.com/t/820362) ![](assets/new.png)  
-- [2021-12-06-求助，-iPad-恢复模式无法连接电脑](https://www.v2ex.com/t/820361) ![](assets/new.png)  
-- [2021-12-06-有没有根据键盘组合快捷键来多内容复制粘贴的软件？](https://www.v2ex.com/t/820360) ![](assets/new.png)  
-- [2021-12-06-工作太轻松了怎么办？或者说水？](https://www.v2ex.com/t/820359) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,13 +564,13 @@
 - [2021-12-06-使用-markdown-画流程图、时序图](https://toutiao.io/k/r4mo1a4) ![](assets/new.png)  
 - [2021-12-06-贝壳业务数据治理中台实践](https://toutiao.io/k/h3pytgo) ![](assets/new.png)  
 - [2021-12-06-SpineNet：通过神经架构搜索发现的用于对象检测的新型架构](https://toutiao.io/k/k4zwpjr) ![](assets/new.png)  
+- [2021-12-06-Nacos-本地单机版部署步骤和使用](https://toutiao.io/k/gfybv1y) ![](assets/new.png)  
 - [2021-12-06-优化可变刷新率屏幕的-App-体验](https://toutiao.io/k/wclw1p7) ![](assets/new.png)  
 - [2021-12-06-从成功到夺目:-Google-Play-2021-年度中国开发者最佳榜单](https://toutiao.io/k/uc335h2) ![](assets/new.png)  
-- [2021-12-06-Nacos-本地单机版部署步骤和使用](https://toutiao.io/k/gfybv1y) ![](assets/new.png)  
 - [2021-12-06-Istio-在知乎大规模集群的落地实践](https://toutiao.io/k/og69qo6) ![](assets/new.png)  
 - [2021-12-06-了解-OCI-容器镜像的-ID-与标签](https://toutiao.io/k/raxh7f7) ![](assets/new.png)  
-- [2021-12-06-聊聊数字化转型与-DevOps](https://toutiao.io/k/glky6zk) ![](assets/new.png)  
 - [2021-12-06-C#-9.0-每个开发人员都必须知道的-4-个特性](https://toutiao.io/k/6s23dns) ![](assets/new.png)  
+- [2021-12-06-聊聊数字化转型与-DevOps](https://toutiao.io/k/glky6zk) ![](assets/new.png)  
 - [2021-12-06-十年后，你在元宇宙中的一天是什么样？](https://toutiao.io/k/7wt4fdr) ![](assets/new.png)  
 - [2021-12-06-译-在-Emacs-中提醒-Trojan-Source-漏洞](https://toutiao.io/k/maly7q5) ![](assets/new.png)  
 - [2021-12-06-数据与广告（三十）：从-oCPX-的无形调控之手到定向价值定位](https://toutiao.io/k/cjnflhs) ![](assets/new.png)  

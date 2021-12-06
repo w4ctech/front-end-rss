@@ -1,16 +1,23 @@
-:alarm_clock: 更新时间: 2021-12-06 07:54:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-06 08:15:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-06-Apple-Watch-7-半夜也提醒站立](https://www.v2ex.com/t/820394) 
+- [2021-12-06-iPad-屏幕时间总是出现了一个奇怪的软件，问题是我也没下载过该软件。](https://www.v2ex.com/t/820393) 
+- [2021-12-06-北京哪里可以打康诺希](https://www.v2ex.com/t/820392) 
+- [2021-12-06-XtraFinder-有人在-M1-的机器使用成功了么](https://www.v2ex.com/t/820391) 
+- [2021-12-06-生命真的好脆弱](https://www.v2ex.com/t/820389) 
+- [2021-12-06-最新活动，-PDF-Reader-Pro-Mac-版，-4-折优惠](https://www.v2ex.com/t/820388) 
+- [2021-12-06-Google-Play-开发者账号已被终止](https://www.v2ex.com/t/820386) 
+- [2021-12-06-这几天遇到一个职场问题，希望大家给点建议](https://www.v2ex.com/t/820385) 
 - [2021-12-06-Mac-14-寸菜单栏图标隐藏问题](https://www.v2ex.com/t/820383) 
 - [2021-12-06-请教一个-webpack-打包的问题？](https://www.v2ex.com/t/820382) 
 - [2021-12-06-各位大佬艾炙到底有没有用，有没有体验过的？](https://www.v2ex.com/t/820380) 
 - [2021-12-06-体验了开源的离线语音识别模型-wenetspeech，准确度很高。分享一些使用心得。](https://www.v2ex.com/t/820379) 
 - [2021-12-06-cmake-项目中存在多级目录，怎么样设置可以让子目录的-CmakeLists.txt-保存改动时，自动重新编译项目根目录的-CmakeLists.txt](https://www.v2ex.com/t/820378) 
-- [2021-12-06-有老哥得了痔疮或者做过痔疮手术的没，交流下心得啊](https://www.v2ex.com/t/820376) 
 - [2021-12-06-薪资范围-20-40k北京急招今年会有-10-倍增长的-SaaS-公司招聘策划经理](https://www.v2ex.com/t/820375) 
 - [2021-12-06-求助！甲骨文-ARM-云-端口开放不了。](https://www.v2ex.com/t/820374) 
 - [2021-12-06-电脑预算-1-万，公司出-6-成，-3-年后归自己，划算吗？](https://www.v2ex.com/t/820373) 
@@ -35,8 +42,3 @@
 - [2021-12-06--Java-Vue-自动化测试-三年开发求后端或全栈的外企-or-能-WLB-岗位内推](https://www.v2ex.com/t/820350) 
 - [2021-12-06-关于各种职场奇葩问题产生原因探讨](https://www.v2ex.com/t/820348) 
 - [2021-12-06-有没有显示-location-的-traceroute-cli-命令工具](https://www.v2ex.com/t/820345) 
-- [2021-12-06-各位-xbox-主机你们用啥加速方式？](https://www.v2ex.com/t/820344) 
-- [2021-12-06-static-控件画出来的文字有白边怎么办？](https://www.v2ex.com/t/820341) 
-- [2021-12-06-有人想买-surge-吗，价格-150-200](https://www.v2ex.com/t/820339) 
-- [2021-12-06-新手司机，跟着导航走，要么来不及，要么听不懂似的，经常走错路。](https://www.v2ex.com/t/820336) 
-- [2021-12-06-controller/service-的负责界限问题](https://www.v2ex.com/t/820335) 

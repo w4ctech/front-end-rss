@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 08:26:46，:rocket: 更新条数: +1557， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 08:44:12，:rocket: 更新条数: +1557， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2021-12-06-12月5日全国新增新冠61例-四省份本土38例](https://m.caixin.com/m/2021-12-06/101814008.html) ![](assets/new.png)  
+- [2021-12-06-最新疫情：全国新冠累计确诊99203例-累计接种新冠疫苗超25.53亿剂次](https://m.caixin.com/m/2021-12-06/101814264.html) ![](assets/new.png)  
 - [2021-12-06-广西通报2名非法入境阳性感染者轨迹-一人为此前福建安溪病例](https://m.caixin.com/m/2021-12-06/101814120.html) ![](assets/new.png)  
 - [2021-12-06-宁波通报3例新冠阳性-系一家三口](https://m.caixin.com/m/2021-12-06/101814070.html) ![](assets/new.png)  
+- [2021-12-06-最新海外疫情：新冠感染超2.65亿-累计接种新冠疫苗超81.47亿剂次](https://m.caixin.com/m/2021-12-06/101814261.html) ![](assets/new.png)  
 - [2021-12-06-【境内疫情观察】全国新增38例本土病例（12月5日）](https://database.caixin.com/m/2021-12-06/101814170.html) ![](assets/new.png)  
 - [2021-12-06-Omicron或含感冒病毒基因片段-美国单日病例再超10万例｜大流行手记（12月5日）](https://m.caixin.com/m/2021-12-06/101814016.html) ![](assets/new.png)  
 - [2021-12-05-福建安溪一境外入境人员核酸阳性-石家庄与满洲里疫情同传播链](https://m.caixin.com/m/2021-12-05/101813954.html) ![](assets/new.png)  
-- [2021-12-05-最新海外疫情：新冠感染超2.64亿-累计接种新冠疫苗超81.21亿剂次](https://m.caixin.com/m/2021-12-05/101813946.html) ![](assets/new.png)  
 - [2021-12-05-【境内疫情观察】全国新增42例本土病例（12月4日）](https://database.caixin.com/m/2021-12-05/101813961.html) ![](assets/new.png)  
 - [2021-12-05-南非低龄入院患者增加，新毒株或加剧欧洲社会危机｜大流行手记（12月4日）](https://m.caixin.com/m/2021-12-05/101813888.html) ![](assets/new.png)  
 - [2021-12-04-满洲里疫情确认为德尔塔变异株-广州新增1例本土确诊](https://m.caixin.com/m/2021-12-04/101813864.html) ![](assets/new.png)  
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-06-急招-Java-/全栈/前端-20+HC，-2-小时反馈，最快-3-天出-offer；-base-无锡；本月入职还能有年终奖！](https://www.v2ex.com/t/820405) ![](assets/new.png)  
+- [2021-12-06-如果用摄像机记录自己每一天的生活会怎么样？](https://www.v2ex.com/t/820404) ![](assets/new.png)  
+- [2021-12-06-正版，在-macOS-上有无办法在不安装-Creative-Cloud-的情况下安装-Photoshop？](https://www.v2ex.com/t/820403) ![](assets/new.png)  
+- [2021-12-06-老生常谈，请问在-Mac-上大家用什么远程桌面工具？](https://www.v2ex.com/t/820400) ![](assets/new.png)  
+- [2021-12-06-MacBook-开发用机，-8G-内存够用吗？](https://www.v2ex.com/t/820399) ![](assets/new.png)  
 - [2021-12-06-Apple-Music-的试用貌似可以叠加？（美区）](https://www.v2ex.com/t/820398) ![](assets/new.png)  
 - [2021-12-06-现在国内经济形势是不是所谓的“经济危机”？](https://www.v2ex.com/t/820397) ![](assets/new.png)  
 - [2021-12-06-Apple-Watch-7-半夜也提醒站立](https://www.v2ex.com/t/820394) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-06-各位大佬艾炙到底有没有用，有没有体验过的？](https://www.v2ex.com/t/820380) ![](assets/new.png)  
 - [2021-12-06-体验了开源的离线语音识别模型-wenetspeech，准确度很高。分享一些使用心得。](https://www.v2ex.com/t/820379) ![](assets/new.png)  
 - [2021-12-06-cmake-项目中存在多级目录，怎么样设置可以让子目录的-CmakeLists.txt-保存改动时，自动重新编译项目根目录的-CmakeLists.txt](https://www.v2ex.com/t/820378) ![](assets/new.png)  
-- [2021-12-06-薪资范围-20-40k北京急招今年会有-10-倍增长的-SaaS-公司招聘策划经理](https://www.v2ex.com/t/820375) ![](assets/new.png)  
-- [2021-12-06-求助！甲骨文-ARM-云-端口开放不了。](https://www.v2ex.com/t/820374) ![](assets/new.png)  
-- [2021-12-06-电脑预算-1-万，公司出-6-成，-3-年后归自己，划算吗？](https://www.v2ex.com/t/820373) ![](assets/new.png)  
-- [2021-12-06-iPad-时区设置判别用的地址是哪个？](https://www.v2ex.com/t/820372) ![](assets/new.png)  
-- [2021-12-06-ubuntu-如何开启-vnc-server-使其展示-tty2-的-gnome-的桌面？](https://www.v2ex.com/t/820371) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2021-12-06-了解-OCI-容器镜像的-ID-与标签](https://toutiao.io/k/raxh7f7) ![](assets/new.png)  
 - [2021-12-06-C#-9.0-每个开发人员都必须知道的-4-个特性](https://toutiao.io/k/6s23dns) ![](assets/new.png)  
 - [2021-12-06-聊聊数字化转型与-DevOps](https://toutiao.io/k/glky6zk) ![](assets/new.png)  
-- [2021-12-06-十年后，你在元宇宙中的一天是什么样？](https://toutiao.io/k/7wt4fdr) ![](assets/new.png)  
 - [2021-12-06-数据与广告（三十）：从-oCPX-的无形调控之手到定向价值定位](https://toutiao.io/k/cjnflhs) ![](assets/new.png)  
+- [2021-12-06-十年后，你在元宇宙中的一天是什么样？](https://toutiao.io/k/7wt4fdr) ![](assets/new.png)  
 - [2021-12-06-译-在-Emacs-中提醒-Trojan-Source-漏洞](https://toutiao.io/k/maly7q5) ![](assets/new.png)  
 - [2021-12-06-数据流水线架构](https://toutiao.io/k/a01z5zc) ![](assets/new.png)  
 - [2021-12-06-敏捷人生](https://toutiao.io/k/nvpl3iv) ![](assets/new.png)  

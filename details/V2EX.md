@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-12-06 08:26:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-06 08:44:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-06-急招-Java-/全栈/前端-20+HC，-2-小时反馈，最快-3-天出-offer；-base-无锡；本月入职还能有年终奖！](https://www.v2ex.com/t/820405) 
+- [2021-12-06-如果用摄像机记录自己每一天的生活会怎么样？](https://www.v2ex.com/t/820404) 
+- [2021-12-06-正版，在-macOS-上有无办法在不安装-Creative-Cloud-的情况下安装-Photoshop？](https://www.v2ex.com/t/820403) 
+- [2021-12-06-老生常谈，请问在-Mac-上大家用什么远程桌面工具？](https://www.v2ex.com/t/820400) 
+- [2021-12-06-MacBook-开发用机，-8G-内存够用吗？](https://www.v2ex.com/t/820399) 
 - [2021-12-06-Apple-Music-的试用貌似可以叠加？（美区）](https://www.v2ex.com/t/820398) 
 - [2021-12-06-现在国内经济形势是不是所谓的“经济危机”？](https://www.v2ex.com/t/820397) 
 - [2021-12-06-Apple-Watch-7-半夜也提醒站立](https://www.v2ex.com/t/820394) 
@@ -37,8 +42,3 @@
 - [2021-12-06-是否升级-Parallels-Desktop-17-的问题请教](https://www.v2ex.com/t/820358) 
 - [2021-12-06-广州哪里有维修机械键盘的地方？](https://www.v2ex.com/t/820357) 
 - [2021-12-06-组内急招-杭州-西湖区内推-Java-工程师-中高资深](https://www.v2ex.com/t/820356) 
-- [2021-12-06-忘记了-Linux-的用户名，但是还记得密码有救么](https://www.v2ex.com/t/820355) 
-- [2021-12-06-关于网速限制-100M-的问题，迫于实在搜索不到答案，特来求助～](https://www.v2ex.com/t/820353) 
-- [2021-12-06-五道口急招!juzibot全栈、后端工程师Github-万星-star-开源项目-Wechaty20k-50k](https://www.v2ex.com/t/820352) 
-- [2021-12-06-阿里云老用户回归专享-3.5-折券，这次让老用户也便宜个够](https://www.v2ex.com/t/820351) 
-- [2021-12-06--Java-Vue-自动化测试-三年开发求后端或全栈的外企-or-能-WLB-岗位内推](https://www.v2ex.com/t/820350) 

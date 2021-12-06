@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-06 14:54:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-06 15:13:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,4 +40,3 @@
 - [2021-12-06-Macbook-Pro-14'-M1-Max-丐版主板烧坏翻车](https://www.v2ex.com/t/820438) 
 - [2021-12-06-深圳-15-25+K-Babylon/Three.js/WebGL-前端开发工程师](https://www.v2ex.com/t/820436) 
 - [2021-12-06-阿里云可以只用来做-k8s-的-master-吗?](https://www.v2ex.com/t/820434) 
-- [2021-12-06-win11-一周蓝屏-5-次什么水平？](https://www.v2ex.com/t/820433) 

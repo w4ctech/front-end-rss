@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 14:54:52，:rocket: 更新条数: +1556， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 15:13:53，:rocket: 更新条数: +1556， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -569,8 +569,8 @@
 - [2021-12-06-优化可变刷新率屏幕的-App-体验](https://toutiao.io/k/wclw1p7) ![](assets/new.png)  
 - [2021-12-06-从成功到夺目:-Google-Play-2021-年度中国开发者最佳榜单](https://toutiao.io/k/uc335h2) ![](assets/new.png)  
 - [2021-12-06-了解-OCI-容器镜像的-ID-与标签](https://toutiao.io/k/raxh7f7) ![](assets/new.png)  
-- [2021-12-06-聊聊数字化转型与-DevOps](https://toutiao.io/k/glky6zk) ![](assets/new.png)  
 - [2021-12-06-C#-9.0-每个开发人员都必须知道的-4-个特性](https://toutiao.io/k/6s23dns) ![](assets/new.png)  
+- [2021-12-06-聊聊数字化转型与-DevOps](https://toutiao.io/k/glky6zk) ![](assets/new.png)  
 - [2021-12-06-数据流水线架构](https://toutiao.io/k/a01z5zc) ![](assets/new.png)  
 - [2021-12-06-数据与广告（三十）：从-oCPX-的无形调控之手到定向价值定位](https://toutiao.io/k/cjnflhs) ![](assets/new.png)  
 - [2021-12-06-敏捷人生](https://toutiao.io/k/nvpl3iv) ![](assets/new.png)  

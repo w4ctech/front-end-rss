@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 04:28:56，:rocket: 更新条数: +1556， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 04:51:09，:rocket: 更新条数: +1555， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-06-12月5日全国新增新冠61例-四省份本土38例](https://m.caixin.com/m/2021-12-06/101814008.html) ![](assets/new.png)  
+- [2021-12-06-广西通报2名非法入境阳性感染者轨迹-一人为此前福建安溪病例](https://m.caixin.com/m/2021-12-06/101814120.html) ![](assets/new.png)  
 - [2021-12-06-宁波通报3例新冠阳性-系一家三口](https://m.caixin.com/m/2021-12-06/101814070.html) ![](assets/new.png)  
 - [2021-12-06-Omicron或含感冒病毒基因片段-美国单日病例再超10万例｜大流行手记（12月5日）](https://m.caixin.com/m/2021-12-06/101814016.html) ![](assets/new.png)  
 - [2021-12-05-福建安溪一境外入境人员核酸阳性-石家庄与满洲里疫情同传播链](https://m.caixin.com/m/2021-12-05/101813954.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-03-加拿大三只白尾鹿感染新冠-系境内首次报告](https://science.caixin.com/m/2021-12-03/101813303.html) ![](assets/new.png)  
 - [2021-12-02-满洲里疫情外溢哈尔滨-北京海淀新增1例核酸阳性人员](https://m.caixin.com/m/2021-12-02/101812926.html) ![](assets/new.png)  
 - [2021-12-02-上海新增2例本土确诊-居住地与上次疫情确诊病例相邻](https://m.caixin.com/m/2021-12-02/101812869.html) ![](assets/new.png)  
-- [2021-12-02-【境内疫情观察】内蒙古新增53例本土病例（12月1日）](https://database.caixin.com/m/2021-12-02/101812727.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,7 +494,12 @@
 </summary>
 
 
-- [2021-12-06-字节跳动-飞书业务线急招-iOS-架构师-50K--70K](https://www.v2ex.com/t/820315) ![](assets/new.png)  
+- [2021-12-06-原来南方沿海城市也可以这么干燥](https://www.v2ex.com/t/820322) ![](assets/new.png)  
+- [2021-12-06-0-基础如何用最小成本写出一个上传两张图片返回一张的前端界面？](https://www.v2ex.com/t/820319) ![](assets/new.png)  
+- [2021-12-06-远程管理-sqlite-数据库有什么好办法吗？](https://www.v2ex.com/t/820318) ![](assets/new.png)  
+- [2021-12-06-如何从浏览器搜索栏直接复制出带中文的-URL-呢？](https://www.v2ex.com/t/820317) ![](assets/new.png)  
+- [2021-12-06-希望找一位精通-QT-者：合作一短期项目，预计一月内完成。](https://www.v2ex.com/t/820316) ![](assets/new.png)  
+- [2021-12-06-北京字节飞书业务-急招-iOS-架构师-50K--70K](https://www.v2ex.com/t/820315) ![](assets/new.png)  
 - [2021-12-06-印象笔记太恶心了](https://www.v2ex.com/t/820313) ![](assets/new.png)  
 - [2021-12-06-PD-虚拟机下-arm-版本-win11-的输入法问题](https://www.v2ex.com/t/820311) ![](assets/new.png)  
 - [2021-12-06-花了半年优化了工具站，主打在线音视频处理。希望-V-友们喜欢](https://www.v2ex.com/t/820309) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-06-对未来的迷茫，求助](https://www.v2ex.com/t/820298) ![](assets/new.png)  
 - [2021-12-06-WordPress-百万数据站，加速好方法？](https://www.v2ex.com/t/820297) ![](assets/new.png)  
 - [2021-12-06-入手了一个-Magic-Keyboard-2，是否有办法自定义-F5，-F6-这些按键](https://www.v2ex.com/t/820295) ![](assets/new.png)  
-- [2021-12-06-tv-版本的软件和客户端看到的内容不一致](https://www.v2ex.com/t/820294) ![](assets/new.png)  
-- [2021-12-06-免打包构建工具-snowpack-中文文档](https://www.v2ex.com/t/820293) ![](assets/new.png)  
-- [2021-12-06-App-Store-哪款直播客户端，支持第三方-rtmp-推流效果比较好的？](https://www.v2ex.com/t/820292) ![](assets/new.png)  
-- [2021-12-06-上海-C++GPP育碧上海阿凡达项目组招聘游戏逻辑程序员~每周可申请-2-天居家办公，远离加班，与-massive-工作室联合开发-3A-主机游戏~~](https://www.v2ex.com/t/820289) ![](assets/new.png)  
-- [2021-12-06-本月结束后各大数字货币交易所都要停止-CNY-交易，对于普通韭菜接下来怎么入金买币呢？](https://www.v2ex.com/t/820288) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,11 +561,11 @@
 - [2021-12-06-Grafana-使用表格面板进行数据可视化](https://toutiao.io/k/bwl72c9) ![](assets/new.png)  
 - [2021-12-06-尤雨溪推荐神器-ni-，能替代-npm/yarn/pnpm-？简单好用](https://toutiao.io/k/1whgw03) ![](assets/new.png)  
 - [2021-12-06-性能优化：高效内存池的设计与实现](https://toutiao.io/k/9vo0ly6) ![](assets/new.png)  
-- [2021-12-06-SpineNet：通过神经架构搜索发现的用于对象检测的新型架构](https://toutiao.io/k/k4zwpjr) ![](assets/new.png)  
 - [2021-12-06-贝壳业务数据治理中台实践](https://toutiao.io/k/h3pytgo) ![](assets/new.png)  
+- [2021-12-06-SpineNet：通过神经架构搜索发现的用于对象检测的新型架构](https://toutiao.io/k/k4zwpjr) ![](assets/new.png)  
+- [2021-12-06-使用-markdown-画流程图、时序图](https://toutiao.io/k/r4mo1a4) ![](assets/new.png)  
 - [2021-12-06-优化可变刷新率屏幕的-App-体验](https://toutiao.io/k/wclw1p7) ![](assets/new.png)  
 - [2021-12-06-从成功到夺目:-Google-Play-2021-年度中国开发者最佳榜单](https://toutiao.io/k/uc335h2) ![](assets/new.png)  
-- [2021-12-06-使用-markdown-画流程图、时序图](https://toutiao.io/k/r4mo1a4) ![](assets/new.png)  
 - [2021-12-06-Istio-在知乎大规模集群的落地实践](https://toutiao.io/k/og69qo6) ![](assets/new.png)  
 - [2021-12-06-了解-OCI-容器镜像的-ID-与标签](https://toutiao.io/k/raxh7f7) ![](assets/new.png)  
 - [2021-12-06-十年后，你在元宇宙中的一天是什么样？](https://toutiao.io/k/7wt4fdr) ![](assets/new.png)  

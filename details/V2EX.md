@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-06 10:57:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-06 11:11:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-06-终于找到了-b-站倍速播放音画不同步的原因。。](https://www.v2ex.com/t/820439) 
+- [2021-12-06-Macbook-Pro-14'-M1-Max-丐版主板烧坏翻车](https://www.v2ex.com/t/820438) 
 - [2021-12-06-深圳-15-25+K-Babylon/Three.js/WebGL-前端开发工程师](https://www.v2ex.com/t/820436) 
 - [2021-12-06-阿里云可以只用来做-k8s-的-master-吗?](https://www.v2ex.com/t/820434) 
 - [2021-12-06-win11-一周蓝屏-5-次什么水平？](https://www.v2ex.com/t/820433) 
@@ -34,4 +36,3 @@
 - [2021-12-06-iPad-屏幕时间总是出现了一个奇怪的软件，问题是我也没下载过该软件。](https://www.v2ex.com/t/820393) 
 - [2021-12-06-北京哪里可以打康诺希](https://www.v2ex.com/t/820392) 
 - [2021-12-06-XtraFinder-有人在-M1-的机器使用成功了么](https://www.v2ex.com/t/820391) 
-- [2021-12-06-最新活动，-PDF-Reader-Pro-Mac-版，-4-折优惠](https://www.v2ex.com/t/820388) 

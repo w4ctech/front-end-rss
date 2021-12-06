@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 14:42:06，:rocket: 更新条数: +1555， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 14:54:52，:rocket: 更新条数: +1556， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-06-关于-socket-的-shutdown-close-函数的几个疑问？](https://www.v2ex.com/t/820482) ![](assets/new.png)  
+- [2021-12-06-三个房间，内各有一桌麻将，如何检测是否有人，有几个人（1-4-人）](https://www.v2ex.com/t/820481) ![](assets/new.png)  
+- [2021-12-06-关于-Safari-和-Firefox-的阅读器模式](https://www.v2ex.com/t/820480) ![](assets/new.png)  
 - [2021-12-06-如何利用-C-语言来挣钱？-学习-Python-已经陷入迷茫中，找不到方向，会点-C-语言来做](https://www.v2ex.com/t/820479) ![](assets/new.png)  
 - [2021-12-06-有趣的问题-关于前端请求，后端服务如何做到只响应当前站点的请求。类似于如何防爬虫...。](https://www.v2ex.com/t/820478) ![](assets/new.png)  
 - [2021-12-06-装好了自己的第一套房，已经成了半个专家，有要装修的老铁可以来聊～](https://www.v2ex.com/t/820477) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-06-感觉-VMware-卡顿很严重，有什么办法解决吗？](https://www.v2ex.com/t/820457) ![](assets/new.png)  
 - [2021-12-06-如何给港币卡转账-100-港币](https://www.v2ex.com/t/820455) ![](assets/new.png)  
 - [2021-12-06-有没有一种软件可以记录保存下浏览器请求返回内容并记录到本地，下次访问的时候可以直接读取本地记录的返回内容](https://www.v2ex.com/t/820454) ![](assets/new.png)  
-- [2021-12-06-一个中年安全从业者的面试“挂”经](https://www.v2ex.com/t/820453) ![](assets/new.png)  
-- [2021-12-06-远程兼职/全职/外包招募前端程序员（vue/electron/前端动画渲染](https://www.v2ex.com/t/820452) ![](assets/new.png)  
-- [2021-12-06-Apple-TV-开启-4K-60-杜比视界闪绿屏](https://www.v2ex.com/t/820451) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,10 +571,10 @@
 - [2021-12-06-了解-OCI-容器镜像的-ID-与标签](https://toutiao.io/k/raxh7f7) ![](assets/new.png)  
 - [2021-12-06-聊聊数字化转型与-DevOps](https://toutiao.io/k/glky6zk) ![](assets/new.png)  
 - [2021-12-06-C#-9.0-每个开发人员都必须知道的-4-个特性](https://toutiao.io/k/6s23dns) ![](assets/new.png)  
-- [2021-12-06-数据与广告（三十）：从-oCPX-的无形调控之手到定向价值定位](https://toutiao.io/k/cjnflhs) ![](assets/new.png)  
 - [2021-12-06-数据流水线架构](https://toutiao.io/k/a01z5zc) ![](assets/new.png)  
-- [2021-12-06-十年后，你在元宇宙中的一天是什么样？](https://toutiao.io/k/7wt4fdr) ![](assets/new.png)  
+- [2021-12-06-数据与广告（三十）：从-oCPX-的无形调控之手到定向价值定位](https://toutiao.io/k/cjnflhs) ![](assets/new.png)  
 - [2021-12-06-敏捷人生](https://toutiao.io/k/nvpl3iv) ![](assets/new.png)  
+- [2021-12-06-十年后，你在元宇宙中的一天是什么样？](https://toutiao.io/k/7wt4fdr) ![](assets/new.png)  
 - [2021-12-06-译-在-Emacs-中提醒-Trojan-Source-漏洞](https://toutiao.io/k/maly7q5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-06 06:15:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-06 06:26:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-06-各位-xbox-主机你们用啥加速方式？](https://www.v2ex.com/t/820344) 
 - [2021-12-06-static-控件画出来的文字有白边怎么办？](https://www.v2ex.com/t/820341) 
 - [2021-12-06-有人想买-surge-吗，价格-150-200](https://www.v2ex.com/t/820339) 
 - [2021-12-06-新手司机，跟着导航走，要么来不及，要么听不懂似的，经常走错路。](https://www.v2ex.com/t/820336) 
@@ -37,6 +38,3 @@
 - [2021-12-06-对未来的迷茫，求助](https://www.v2ex.com/t/820298) 
 - [2021-12-06-WordPress-百万数据站，加速好方法？](https://www.v2ex.com/t/820297) 
 - [2021-12-06-入手了一个-Magic-Keyboard-2，是否有办法自定义-F5，-F6-这些按键](https://www.v2ex.com/t/820295) 
-- [2021-12-06-tv-版本的软件和客户端看到的内容不一致](https://www.v2ex.com/t/820294) 
-- [2021-12-06-免打包构建工具-snowpack-中文文档](https://www.v2ex.com/t/820293) 
-- [2021-12-06-App-Store-哪款直播客户端，支持第三方-rtmp-推流效果比较好的？](https://www.v2ex.com/t/820292) 

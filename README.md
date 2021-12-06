@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 10:45:56，:rocket: 更新条数: +1551， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 10:57:52，:rocket: 更新条数: +1550， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-06-深圳-15-25+K-Babylon/Three.js/WebGL-前端开发工程师](https://www.v2ex.com/t/820436) ![](assets/new.png)  
 - [2021-12-06-阿里云可以只用来做-k8s-的-master-吗?](https://www.v2ex.com/t/820434) ![](assets/new.png)  
 - [2021-12-06-win11-一周蓝屏-5-次什么水平？](https://www.v2ex.com/t/820433) ![](assets/new.png)  
 - [2021-12-06-现在的显示器都是雾面屏？](https://www.v2ex.com/t/820431) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-06-如何让-PC-端的-OneDrive-不同步删除操作？](https://www.v2ex.com/t/820407) ![](assets/new.png)  
 - [2021-12-06-一个-js-大小-9.3M，加载-10-秒到-1.5-分钟。](https://www.v2ex.com/t/820406) ![](assets/new.png)  
 - [2021-12-06-急招-Java-/全栈/前端-20+HC，-2-小时反馈，最快-3-天出-offer；-base-无锡；本月入职还能有年终奖！](https://www.v2ex.com/t/820405) ![](assets/new.png)  
-- [2021-12-06-如果用摄像机记录自己每一天的生活会怎么样？](https://www.v2ex.com/t/820404) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,8 +565,8 @@
 - [2021-12-06-贝壳业务数据治理中台实践](https://toutiao.io/k/h3pytgo) ![](assets/new.png)  
 - [2021-12-06-Nacos-本地单机版部署步骤和使用](https://toutiao.io/k/gfybv1y) ![](assets/new.png)  
 - [2021-12-06-SpineNet：通过神经架构搜索发现的用于对象检测的新型架构](https://toutiao.io/k/k4zwpjr) ![](assets/new.png)  
-- [2021-12-06-优化可变刷新率屏幕的-App-体验](https://toutiao.io/k/wclw1p7) ![](assets/new.png)  
 - [2021-12-06-Istio-在知乎大规模集群的落地实践](https://toutiao.io/k/og69qo6) ![](assets/new.png)  
+- [2021-12-06-优化可变刷新率屏幕的-App-体验](https://toutiao.io/k/wclw1p7) ![](assets/new.png)  
 - [2021-12-06-从成功到夺目:-Google-Play-2021-年度中国开发者最佳榜单](https://toutiao.io/k/uc335h2) ![](assets/new.png)  
 - [2021-12-06-了解-OCI-容器镜像的-ID-与标签](https://toutiao.io/k/raxh7f7) ![](assets/new.png)  
 - [2021-12-06-C#-9.0-每个开发人员都必须知道的-4-个特性](https://toutiao.io/k/6s23dns) ![](assets/new.png)  

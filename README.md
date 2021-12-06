@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 12:58:49，:rocket: 更新条数: +1555， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 13:11:35，:rocket: 更新条数: +1555， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,8 +66,8 @@
 
 
 - [2021-12-06-最新疫情：全国新冠累计确诊99203例-累计接种新冠疫苗超25.53亿剂次](https://m.caixin.com/m/2021-12-06/101814264.html) ![](assets/new.png)  
+- [2021-12-06-宁波通报3例核酸阳性-与近期国内多地德尔塔变异株高度同源](https://m.caixin.com/m/2021-12-06/101814070.html) ![](assets/new.png)  
 - [2021-12-06-广西通报2名非法入境阳性感染者轨迹-一人为此前福建安溪病例](https://m.caixin.com/m/2021-12-06/101814120.html) ![](assets/new.png)  
-- [2021-12-06-宁波通报3例新冠阳性-确诊病例曾去上海出差](https://m.caixin.com/m/2021-12-06/101814070.html) ![](assets/new.png)  
 - [2021-12-06-最新海外疫情：新冠感染超2.65亿-累计接种新冠疫苗超81.47亿剂次](https://m.caixin.com/m/2021-12-06/101814261.html) ![](assets/new.png)  
 - [2021-12-06-【境内疫情观察】全国新增38例本土病例（12月5日）](https://database.caixin.com/m/2021-12-06/101814170.html) ![](assets/new.png)  
 - [2021-12-06-Omicron或含感冒病毒基因片段-美国单日病例再超10万例｜大流行手记（12月5日）](https://m.caixin.com/m/2021-12-06/101814016.html) ![](assets/new.png)  
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-06-Macbook-pro-外接两台/多台支持反向充电的显示器会对电池有影响吗](https://www.v2ex.com/t/820465) ![](assets/new.png)  
 - [2021-12-06-广州-东山口地铁站明亮有窗工作室出租中介勿扰](https://www.v2ex.com/t/820463) ![](assets/new.png)  
 - [2021-12-06-M1-Java-编译maven确实快](https://www.v2ex.com/t/820461) ![](assets/new.png)  
 - [2021-12-06-我和我朋友买了两台-MBP-遇到的问题](https://www.v2ex.com/t/820459) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-06-今天腾讯云香港是不是炸了？](https://www.v2ex.com/t/820444) ![](assets/new.png)  
 - [2021-12-06-北京招聘-「可话」团队招新啦！](https://www.v2ex.com/t/820443) ![](assets/new.png)  
 - [2021-12-06-分享：一篇提炼得非常不错的-Messari-2022-报告](https://www.v2ex.com/t/820442) ![](assets/new.png)  
-- [2021-12-06-终于找到了-b-站倍速播放音画不同步的原因。。](https://www.v2ex.com/t/820439) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

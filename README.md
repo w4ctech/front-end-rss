@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 06:51:17，:rocket: 更新条数: +1550， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 07:13:15，:rocket: 更新条数: +1555， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -68,6 +68,7 @@
 - [2021-12-06-12月5日全国新增新冠61例-四省份本土38例](https://m.caixin.com/m/2021-12-06/101814008.html) ![](assets/new.png)  
 - [2021-12-06-广西通报2名非法入境阳性感染者轨迹-一人为此前福建安溪病例](https://m.caixin.com/m/2021-12-06/101814120.html) ![](assets/new.png)  
 - [2021-12-06-宁波通报3例新冠阳性-系一家三口](https://m.caixin.com/m/2021-12-06/101814070.html) ![](assets/new.png)  
+- [2021-12-06-【境内疫情观察】全国新增38例本土病例（12月5日）](https://database.caixin.com/m/2021-12-06/101814170.html) ![](assets/new.png)  
 - [2021-12-06-Omicron或含感冒病毒基因片段-美国单日病例再超10万例｜大流行手记（12月5日）](https://m.caixin.com/m/2021-12-06/101814016.html) ![](assets/new.png)  
 - [2021-12-05-福建安溪一境外入境人员核酸阳性-石家庄与满洲里疫情同传播链](https://m.caixin.com/m/2021-12-05/101813954.html) ![](assets/new.png)  
 - [2021-12-05-最新海外疫情：新冠感染超2.64亿-累计接种新冠疫苗超81.21亿剂次](https://m.caixin.com/m/2021-12-05/101813946.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-03-研究显示Omicron导致3倍再感染风险-美国已现三名病例｜大流行手记（12月2日）](https://m.caixin.com/m/2021-12-03/101813069.html) ![](assets/new.png)  
 - [2021-12-03-加拿大三只白尾鹿感染新冠-系境内首次报告](https://science.caixin.com/m/2021-12-03/101813303.html) ![](assets/new.png)  
 - [2021-12-02-满洲里疫情外溢哈尔滨-北京海淀新增1例核酸阳性人员](https://m.caixin.com/m/2021-12-02/101812926.html) ![](assets/new.png)  
-- [2021-12-02-上海新增2例本土确诊-居住地与上次疫情确诊病例相邻](https://m.caixin.com/m/2021-12-02/101812869.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,18 @@
 </summary>
 
 
+- [2021-12-06-115-电脑版里面，怎么找不到手机版文件夹备份啊？](https://www.v2ex.com/t/820364) ![](assets/new.png)  
+- [2021-12-06-有木有-Final-Cut-大神-求排查下渲染出错原因](https://www.v2ex.com/t/820363) ![](assets/new.png)  
+- [2021-12-06-Youtube-的-8k-60p-和-Netflix-的-4k-HDR-的码率分别是多少？](https://www.v2ex.com/t/820362) ![](assets/new.png)  
+- [2021-12-06-求助，-iPad-恢复模式无法连接电脑](https://www.v2ex.com/t/820361) ![](assets/new.png)  
+- [2021-12-06-有没有根据键盘组合快捷键来多内容复制粘贴的软件？](https://www.v2ex.com/t/820360) ![](assets/new.png)  
+- [2021-12-06-工作太轻松了怎么办？或者说水？](https://www.v2ex.com/t/820359) ![](assets/new.png)  
+- [2021-12-06-是否升级-Parallels-Desktop-17-的问题请教](https://www.v2ex.com/t/820358) ![](assets/new.png)  
+- [2021-12-06-广州哪里有维修机械键盘的地方？](https://www.v2ex.com/t/820357) ![](assets/new.png)  
+- [2021-12-06-组内急招-杭州-西湖区内推-Java-工程师-中高资深](https://www.v2ex.com/t/820356) ![](assets/new.png)  
+- [2021-12-06-忘记了-Linux-的用户名，但是还记得密码有救么](https://www.v2ex.com/t/820355) ![](assets/new.png)  
+- [2021-12-06-关于网速限制-100M-的问题，迫于实在搜索不到答案，特来求助～](https://www.v2ex.com/t/820353) ![](assets/new.png)  
+- [2021-12-06-五道口急招!juzibot全栈、后端工程师Github-万星-star-开源项目-Wechaty20k-50k](https://www.v2ex.com/t/820352) ![](assets/new.png)  
 - [2021-12-06-阿里云老用户回归专享-3.5-折券，这次让老用户也便宜个够](https://www.v2ex.com/t/820351) ![](assets/new.png)  
 - [2021-12-06--Java-Vue-自动化测试-三年开发求后端或全栈的外企-or-能-WLB-岗位内推](https://www.v2ex.com/t/820350) ![](assets/new.png)  
 - [2021-12-06-关于各种职场奇葩问题产生原因探讨](https://www.v2ex.com/t/820348) ![](assets/new.png)  
@@ -502,18 +514,6 @@
 - [2021-12-06-static-控件画出来的文字有白边怎么办？](https://www.v2ex.com/t/820341) ![](assets/new.png)  
 - [2021-12-06-有人想买-surge-吗，价格-150-200](https://www.v2ex.com/t/820339) ![](assets/new.png)  
 - [2021-12-06-新手司机，跟着导航走，要么来不及，要么听不懂似的，经常走错路。](https://www.v2ex.com/t/820336) ![](assets/new.png)  
-- [2021-12-06-controller/service-的负责界限问题](https://www.v2ex.com/t/820335) ![](assets/new.png)  
-- [2021-12-06-请教个-android-imageview-的问题](https://www.v2ex.com/t/820333) ![](assets/new.png)  
-- [2021-12-06-新-mbp-编织线充电线，已经油哄哄变脏了。怎么洗干净？](https://www.v2ex.com/t/820332) ![](assets/new.png)  
-- [2021-12-06-求租龙首原附近整租一居室或者主卧独卫](https://www.v2ex.com/t/820330) ![](assets/new.png)  
-- [2021-12-06-想买一个-iOS-的-V2EX-客户端，哪个好？](https://www.v2ex.com/t/820329) ![](assets/new.png)  
-- [2021-12-06-播客：-Vol.-55-在成都工作和生活是什么体验](https://www.v2ex.com/t/820328) ![](assets/new.png)  
-- [2021-12-06-我的账号是不是被-ban-了？](https://www.v2ex.com/t/820326) ![](assets/new.png)  
-- [2021-12-06-个税问题](https://www.v2ex.com/t/820325) ![](assets/new.png)  
-- [2021-12-06-一个无痕迹无广告的元搜索引擎](https://www.v2ex.com/t/820324) ![](assets/new.png)  
-- [2021-12-06-android、ios、web-有没通用的-3D-技术？](https://www.v2ex.com/t/820323) ![](assets/new.png)  
-- [2021-12-06-原来南方沿海城市也可以这么干燥](https://www.v2ex.com/t/820322) ![](assets/new.png)  
-- [2021-12-06-0-基础如何用最小成本写出一个上传两张图片返回一张的前端界面？](https://www.v2ex.com/t/820319) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,21 +558,21 @@
 
 - [2021-12-06-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [2021-12-06-接下来一段时间会对大家进行网络通信的魔鬼训练：理解-Socket](https://toutiao.io/k/1guurta) ![](assets/new.png)  
-- [2021-12-06-尤雨溪推荐神器-ni-，能替代-npm/yarn/pnpm-？简单好用](https://toutiao.io/k/1whgw03) ![](assets/new.png)  
 - [2021-12-06-Grafana-使用表格面板进行数据可视化](https://toutiao.io/k/bwl72c9) ![](assets/new.png)  
+- [2021-12-06-尤雨溪推荐神器-ni-，能替代-npm/yarn/pnpm-？简单好用](https://toutiao.io/k/1whgw03) ![](assets/new.png)  
 - [2021-12-06-性能优化：高效内存池的设计与实现](https://toutiao.io/k/9vo0ly6) ![](assets/new.png)  
 - [2021-12-06-使用-markdown-画流程图、时序图](https://toutiao.io/k/r4mo1a4) ![](assets/new.png)  
 - [2021-12-06-贝壳业务数据治理中台实践](https://toutiao.io/k/h3pytgo) ![](assets/new.png)  
 - [2021-12-06-SpineNet：通过神经架构搜索发现的用于对象检测的新型架构](https://toutiao.io/k/k4zwpjr) ![](assets/new.png)  
 - [2021-12-06-优化可变刷新率屏幕的-App-体验](https://toutiao.io/k/wclw1p7) ![](assets/new.png)  
 - [2021-12-06-从成功到夺目:-Google-Play-2021-年度中国开发者最佳榜单](https://toutiao.io/k/uc335h2) ![](assets/new.png)  
-- [2021-12-06-Istio-在知乎大规模集群的落地实践](https://toutiao.io/k/og69qo6) ![](assets/new.png)  
 - [2021-12-06-Nacos-本地单机版部署步骤和使用](https://toutiao.io/k/gfybv1y) ![](assets/new.png)  
+- [2021-12-06-Istio-在知乎大规模集群的落地实践](https://toutiao.io/k/og69qo6) ![](assets/new.png)  
 - [2021-12-06-了解-OCI-容器镜像的-ID-与标签](https://toutiao.io/k/raxh7f7) ![](assets/new.png)  
-- [2021-12-06-十年后，你在元宇宙中的一天是什么样？](https://toutiao.io/k/7wt4fdr) ![](assets/new.png)  
 - [2021-12-06-聊聊数字化转型与-DevOps](https://toutiao.io/k/glky6zk) ![](assets/new.png)  
-- [2021-12-06-译-在-Emacs-中提醒-Trojan-Source-漏洞](https://toutiao.io/k/maly7q5) ![](assets/new.png)  
+- [2021-12-06-十年后，你在元宇宙中的一天是什么样？](https://toutiao.io/k/7wt4fdr) ![](assets/new.png)  
 - [2021-12-06-C#-9.0-每个开发人员都必须知道的-4-个特性](https://toutiao.io/k/6s23dns) ![](assets/new.png)  
+- [2021-12-06-译-在-Emacs-中提醒-Trojan-Source-漏洞](https://toutiao.io/k/maly7q5) ![](assets/new.png)  
 - [2021-12-06-数据与广告（三十）：从-oCPX-的无形调控之手到定向价值定位](https://toutiao.io/k/cjnflhs) ![](assets/new.png)  
 - [2021-12-06-敏捷人生](https://toutiao.io/k/nvpl3iv) ![](assets/new.png)  
 - [2021-12-06-数据流水线架构](https://toutiao.io/k/a01z5zc) ![](assets/new.png)  

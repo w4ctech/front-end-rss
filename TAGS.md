@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-06 05:54:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-06 06:15:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -155,7 +155,6 @@
 
 
 
-- [【V2EX】上海-C++GPP育碧上海阿凡达项目组招聘游戏逻辑程序员~每周可申请-2-天居家办公，远离加班，与-massive-工作室联合开发-3A-主机游戏~~](https://www.v2ex.com/t/820289)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

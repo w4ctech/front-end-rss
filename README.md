@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-06 05:54:36，:rocket: 更新条数: +1553， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-06 06:15:13，:rocket: 更新条数: +1554， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-06-static-控件画出来的文字有白边怎么办？](https://www.v2ex.com/t/820341) ![](assets/new.png)  
+- [2021-12-06-有人想买-surge-吗，价格-150-200](https://www.v2ex.com/t/820339) ![](assets/new.png)  
+- [2021-12-06-新手司机，跟着导航走，要么来不及，要么听不懂似的，经常走错路。](https://www.v2ex.com/t/820336) ![](assets/new.png)  
 - [2021-12-06-controller/service-的负责界限问题](https://www.v2ex.com/t/820335) ![](assets/new.png)  
 - [2021-12-06-请教个-android-imageview-的问题](https://www.v2ex.com/t/820333) ![](assets/new.png)  
 - [2021-12-06-新-mbp-编织线充电线，已经油哄哄变脏了。怎么洗干净？](https://www.v2ex.com/t/820332) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-06-希望找一位精通-QT-者：合作一短期项目，预计一月内完成。](https://www.v2ex.com/t/820316) ![](assets/new.png)  
 - [2021-12-06-印象笔记太恶心了](https://www.v2ex.com/t/820313) ![](assets/new.png)  
 - [2021-12-06-PD-虚拟机下-arm-版本-win11-的输入法问题](https://www.v2ex.com/t/820311) ![](assets/new.png)  
-- [2021-12-06-花了半年优化了工具站，主打在线音视频处理。希望-V-友们喜欢](https://www.v2ex.com/t/820309) ![](assets/new.png)  
-- [2021-12-06-关于加密安全：数据与密钥异或一下是不是就达到加密要求了](https://www.v2ex.com/t/820308) ![](assets/new.png)  
-- [2021-12-06-建了一个主机的交流群~](https://www.v2ex.com/t/820306) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,9 +568,9 @@
 - [2021-12-06-从成功到夺目:-Google-Play-2021-年度中国开发者最佳榜单](https://toutiao.io/k/uc335h2) ![](assets/new.png)  
 - [2021-12-06-Istio-在知乎大规模集群的落地实践](https://toutiao.io/k/og69qo6) ![](assets/new.png)  
 - [2021-12-06-了解-OCI-容器镜像的-ID-与标签](https://toutiao.io/k/raxh7f7) ![](assets/new.png)  
+- [2021-12-06-Nacos-本地单机版部署步骤和使用](https://toutiao.io/k/gfybv1y) ![](assets/new.png)  
 - [2021-12-06-十年后，你在元宇宙中的一天是什么样？](https://toutiao.io/k/7wt4fdr) ![](assets/new.png)  
 - [2021-12-06-译-在-Emacs-中提醒-Trojan-Source-漏洞](https://toutiao.io/k/maly7q5) ![](assets/new.png)  
-- [2021-12-06-Nacos-本地单机版部署步骤和使用](https://toutiao.io/k/gfybv1y) ![](assets/new.png)  
 - [2021-12-06-聊聊数字化转型与-DevOps](https://toutiao.io/k/glky6zk) ![](assets/new.png)  
 - [2021-12-06-C#-9.0-每个开发人员都必须知道的-4-个特性](https://toutiao.io/k/6s23dns) ![](assets/new.png)  
 - [2021-12-06-数据与广告（三十）：从-oCPX-的无形调控之手到定向价值定位](https://toutiao.io/k/cjnflhs) ![](assets/new.png)  

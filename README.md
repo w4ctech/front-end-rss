@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 02:41:23，:rocket: 更新条数: +1562， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 02:50:36，:rocket: 更新条数: +1561， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-07-mysql-json-数据的处理](https://www.v2ex.com/t/820547) ![](assets/new.png)  
+- [2021-12-07-如何看待领导的"换个背景就看着高大上了"?](https://www.v2ex.com/t/820545) ![](assets/new.png)  
+- [2021-12-07-北京奇安信-服务端-Golang-开发工程师](https://www.v2ex.com/t/820544) ![](assets/new.png)  
+- [2021-12-07-广州出一台全新-MBP-14''-M1Max32Core-64G-1T](https://www.v2ex.com/t/820543) ![](assets/new.png)  
+- [2021-12-07-Java-的性能能赶上-Go-了？](https://www.v2ex.com/t/820542) ![](assets/new.png)  
 - [2021-12-07-NV-3070-显卡玩游戏-显卡占用始终上不去](https://www.v2ex.com/t/820541) ![](assets/new.png)  
 - [2021-12-07-GitHub-能举报某一个仓库吗？](https://www.v2ex.com/t/820540) ![](assets/new.png)  
 - [2021-12-07-中国程序员分享在瑞典奋斗逼的视频合集谁有-搜遍全网确实没了](https://www.v2ex.com/t/820539) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-07-MacBook-Pro14-散热问题](https://www.v2ex.com/t/820526) ![](assets/new.png)  
 - [2021-12-07-这些事情你干过吗](https://www.v2ex.com/t/820525) ![](assets/new.png)  
 - [2021-12-07-Beats-Fit-Pro-开售了](https://www.v2ex.com/t/820523) ![](assets/new.png)  
-- [2021-12-07-分享今年你的书单！](https://www.v2ex.com/t/820522) ![](assets/new.png)  
-- [2021-12-07-邪恶的算法，有多少责任在程序员？](https://www.v2ex.com/t/820521) ![](assets/new.png)  
-- [2021-12-07-关于手机的艰难抉择](https://www.v2ex.com/t/820519) ![](assets/new.png)  
-- [2021-12-07-求推荐最贴近-MBP-本身屏幕素质的外接屏](https://www.v2ex.com/t/820518) ![](assets/new.png)  
-- [2021-12-07-v2ex-账号登录当前-ip-短时间登录过多，限制-ip-了](https://www.v2ex.com/t/820516) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,16 +566,16 @@
 - [2021-12-07-MediatR-在-.NET-应用中的实践](https://toutiao.io/k/yu9z3z0) ![](assets/new.png)  
 - [2021-12-07-手把手带你玩转-Spring](https://toutiao.io/k/ohdtepv) ![](assets/new.png)  
 - [2021-12-07-有栈协程与无栈协程](https://toutiao.io/k/bhzhnvn) ![](assets/new.png)  
-- [2021-12-07-如何数据化评价-“迭代质量”](https://toutiao.io/k/vilyzab) ![](assets/new.png)  
 - [2021-12-07-工作-3-年，我终于开窍了](https://toutiao.io/k/csgs7ln) ![](assets/new.png)  
+- [2021-12-07-如何数据化评价-“迭代质量”](https://toutiao.io/k/vilyzab) ![](assets/new.png)  
 - [2021-12-07-安全运营项目的工作方法](https://toutiao.io/k/i6nia39) ![](assets/new.png)  
 - [2021-12-07-知识图谱的探索与应用](https://toutiao.io/k/q9kytx0) ![](assets/new.png)  
 - [2021-12-07-人工智能培训的过去与现在](https://toutiao.io/k/4c22aa4) ![](assets/new.png)  
 - [2021-12-07-Redis、Zookeeper-实现分布式锁：原理与实践](https://toutiao.io/k/0eka8n8) ![](assets/new.png)  
 - [2021-12-07-保持需求的一致理解应在软件开发的全生命周期进行](https://toutiao.io/k/xk03u7z) ![](assets/new.png)  
-- [2021-12-07-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
-- [2021-12-07-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
-- [2021-12-07-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) ![](assets/new.png)  
+- [2021-12-07-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
+- [2021-12-07-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
+- [2021-12-07-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

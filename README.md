@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 03:58:20，:rocket: 更新条数: +1556， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 04:16:18，:rocket: 更新条数: +1556， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -337,9 +337,9 @@
 </summary>
 
 
+- [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) ![](assets/new.png)  
 - [2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) ![](assets/new.png)  
 - [2021-11-26-科技爱好者周刊（第-185-期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html) ![](assets/new.png)  
-- [2021-11-19-科技爱好者周刊（第-184-期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-07-全职远程-招聘-React-中高级开发](https://www.v2ex.com/t/820578) ![](assets/new.png)  
+- [2021-12-07-咨询一个-keychron-键盘的问题](https://www.v2ex.com/t/820577) ![](assets/new.png)  
 - [2021-12-07-平安银行的备用金是不是个大坑](https://www.v2ex.com/t/820576) ![](assets/new.png)  
 - [2021-12-07-m1-的-Mac-能用的-telnet-程序](https://www.v2ex.com/t/820575) ![](assets/new.png)  
 - [2021-12-07-关于亚马逊-loop-面试挂掉问题咨询](https://www.v2ex.com/t/820573) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-07-一安装-PGPSymantec-Encryption-Desktop，其他程序就打不开了，除非管理员模式](https://www.v2ex.com/t/820555) ![](assets/new.png)  
 - [2021-12-07-为啥-Android-studio-开发的-hello-world-程序都可以占用内存-100MB？](https://www.v2ex.com/t/820554) ![](assets/new.png)  
 - [2021-12-07-qq-音乐每日推荐今天也太离谱了](https://www.v2ex.com/t/820552) ![](assets/new.png)  
-- [2021-12-07-你们公司会在工作机上安装加密软件，自动加密代码文件吗？](https://www.v2ex.com/t/820551) ![](assets/new.png)  
-- [2021-12-07-请教，-mac-下各-app-以及浏览器中一些按钮怎么仅仅使用键盘完成？](https://www.v2ex.com/t/820549) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,7 +575,7 @@
 - [2021-12-07-保持需求的一致理解应在软件开发的全生命周期进行](https://toutiao.io/k/xk03u7z) ![](assets/new.png)  
 - [2021-12-07-译-如何在-Go-中组织项目结构](https://toutiao.io/k/i6o5n7m) ![](assets/new.png)  
 - [2021-12-07-俄罗斯三维建模软件：T-FLEX-CAD-学生免费版下载地址](https://toutiao.io/k/ykw6v0z) ![](assets/new.png)  
-- [2021-12-07-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-07-一周-8k-Star-的-Notion-开源替代品-AppFlowy-发布了](https://toutiao.io/k/x26smrz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

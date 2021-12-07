@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-07 03:58:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-07 04:16:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -79,7 +79,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-满洲里市近五天报告142例本土病例-当地6个街道高风险](https://m.caixin.com/m/2021-12-01/101812395.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-【境内疫情观察】内蒙古新增91例本土病例（11月30日）](https://database.caixin.com/m/2021-12-01/101812304.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html) 
+- [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-07-全职远程-招聘-React-中高级开发](https://www.v2ex.com/t/820578) 
+- [【V2EX】2021-12-07-咨询一个-keychron-键盘的问题](https://www.v2ex.com/t/820577) 
 - [【V2EX】2021-12-07-平安银行的备用金是不是个大坑](https://www.v2ex.com/t/820576) 
 - [【V2EX】2021-12-07-m1-的-Mac-能用的-telnet-程序](https://www.v2ex.com/t/820575) 
 - [【V2EX】2021-12-07-关于亚马逊-loop-面试挂掉问题咨询](https://www.v2ex.com/t/820573) 
@@ -107,14 +110,11 @@
 - [【V2EX】2021-12-07-广州出一台全新-MBP-14''-M1Max32Core-64G-1T](https://www.v2ex.com/t/820543) 
 - [【V2EX】2021-12-07-Java-的性能能赶上-Go-了？](https://www.v2ex.com/t/820542) 
 - [【V2EX】2021-12-07-NV-3070-显卡玩游戏-显卡占用始终上不去](https://www.v2ex.com/t/820541) 
-- [【V2EX】2021-12-07-GitHub-能举报某一个仓库吗？](https://www.v2ex.com/t/820540) 
 - [【V2EX】2021-12-07-广州广州拜思医疗-Java-后端-运维开发-ios-开发招聘-**合资**医疗器械**](https://www.v2ex.com/t/820537) 
 - [【V2EX】2021-12-07-国外有什么平台像友盟统计一样，会提供市场安卓机型占比的吗](https://www.v2ex.com/t/820536) 
 - [【V2EX】2021-12-07-双十二来啦！-Parallels-Desktop-官网又打折了。7-折太香了！](https://www.v2ex.com/t/820534) 
 - [【V2EX】2021-12-07-Go-+-Gin-+Vue3-容器管理平台，-支持多集群管理-,CMDB，-K8S-容器管理](https://www.v2ex.com/t/820533) 
 - [【V2EX】2021-12-07-win10-下推荐一个开源的命令行工具-FluentTerminal](https://www.v2ex.com/t/820531) 
-- [【V2EX】2021-12-07-前端初中高级急聘-深圳国际物流-4PX-龙头企业招聘](https://www.v2ex.com/t/820529) 
-- [【V2EX】2021-12-07-网站百万千万级数据，一般用什么建站程序](https://www.v2ex.com/t/820527) 
 - [【技术头条】2021-12-07-推荐学Java——数据表基本操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14835&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhGnL_xOtqz3lNxbRz2IxPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-07-Android-使用-Span-打造丰富多彩的文本-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14834&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSz4H-XK5ygEZOT615QDHtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-07-组件封装之输入框下拉列表-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14833&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492605%26amp%3Bidx%3D2%26amp%3Bsn%3D85c11bed6931095d0117907d1c1959ab%26amp%3Bchksm%3Dfa3f02a6cd488bb0d369ffee088d37a3dba983c111c2bbec0f61154be8b2b0e275317bc012fa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -154,21 +154,22 @@
 - [【开发者头条】2021-12-07-保持需求的一致理解应在软件开发的全生命周期进行](https://toutiao.io/k/xk03u7z) 
 - [【开发者头条】2021-12-07-译-如何在-Go-中组织项目结构](https://toutiao.io/k/i6o5n7m) 
 - [【开发者头条】2021-12-07-俄罗斯三维建模软件：T-FLEX-CAD-学生免费版下载地址](https://toutiao.io/k/ykw6v0z) 
+- [【开发者头条】2021-12-07-一周-8k-Star-的-Notion-开源替代品-AppFlowy-发布了](https://toutiao.io/k/x26smrz) 
+- [【开发者头条】2021-12-07-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) 
+- [【开发者头条】2021-12-07-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
+- [【开发者头条】2021-12-07-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
+- [【开发者头条】2021-12-07-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
 - [【开发者头条】2021-12-07-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
-- [【开发者头条】2021-12-07-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) 
-- [【开发者头条】2021-12-07-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
+- [【开发者头条】2021-12-07-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
 - [【开发者头条】2021-12-07-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
+- [【开发者头条】2021-12-07-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
 - [【开发者头条】2021-12-07-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) 
-- [【开发者头条】2021-12-07-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
+- [【开发者头条】2021-12-07-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
+- [【开发者头条】2021-12-07-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) 
 - [【开发者头条】2021-12-07-推荐-装了这几个-IDEA-插件，基本上一站式开发了](https://toutiao.io/k/5l4hrcp) 
 - [【开发者头条】2021-12-07-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
-- [【开发者头条】2021-12-07-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
 - [【开发者头条】2021-12-07-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
 - [【开发者头条】2021-12-07-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
-- [【开发者头条】2021-12-07-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
-- [【开发者头条】2021-12-07-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) 
-- [【开发者头条】2021-12-07-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
-- [【开发者头条】2021-12-07-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -314,7 +315,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
 - [【阮一峰的网络日志】2021-11-26-科技爱好者周刊（第-185-期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html) 
-- [【阮一峰的网络日志】2021-11-19-科技爱好者周刊（第-184-期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

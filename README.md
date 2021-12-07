@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 20:14:04，:rocket: 更新条数: +1562， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 20:24:12，:rocket: 更新条数: +1563， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-07-决赛圈了，诸位给点意见](https://www.v2ex.com/t/820764) ![](assets/new.png)  
 - [2021-12-07-如何对-Nginx-rewrite-后的请求禁止日志？](https://www.v2ex.com/t/820763) ![](assets/new.png)  
 - [2021-12-07-MySQL-查询，能否做到当某字段为特定值时，该条件字段不起作用](https://www.v2ex.com/t/820762) ![](assets/new.png)  
 - [2021-12-07-开了个-GitHub-仓库用来记录股票行情](https://www.v2ex.com/t/820761) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-07-有人搞过-google-ads-吗？大佬求救](https://www.v2ex.com/t/820743) ![](assets/new.png)  
 - [2021-12-07-AppFlowy-一个月不到就涨了-10k-star](https://www.v2ex.com/t/820742) ![](assets/new.png)  
 - [2021-12-07-ssh-key-一模一样的设置，另一个就不能-登录是什么原因？](https://www.v2ex.com/t/820740) ![](assets/new.png)  
-- [2021-12-07-80-后程序员前辈们现在都在干嘛](https://www.v2ex.com/t/820739) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

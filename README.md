@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 12:19:45，:rocket: 更新条数: +1558， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 12:36:58，:rocket: 更新条数: +1559， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-07-刚发现-IINA-官网的-build-还是-Intel-的，有没有推荐的播放器](https://www.v2ex.com/t/820718) ![](assets/new.png)  
+- [2021-12-07-请教关于耳机音质，到底什么是好的耳机该有的声音？](https://www.v2ex.com/t/820717) ![](assets/new.png)  
 - [2021-12-07-今年-5-月买的-M1-MBP，现在电池容量-93%，正常吗？](https://www.v2ex.com/t/820715) ![](assets/new.png)  
 - [2021-12-07-青岛国企招聘前端工程师,内推可以联系我......](https://www.v2ex.com/t/820714) ![](assets/new.png)  
 - [2021-12-07-蚂蚁---可信原生技术部---云原生运维专家杭州-P7-8](https://www.v2ex.com/t/820713) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-07-广州电信，刚刚突然断线重连了一下，公网-ip-没了](https://www.v2ex.com/t/820691) ![](assets/new.png)  
 - [2021-12-07-MPB-电池鼓包拆掉电池接只接电源无法开机](https://www.v2ex.com/t/820690) ![](assets/new.png)  
 - [2021-12-07-前端新手，请教一下后端有没有能够一把梭的架构？](https://www.v2ex.com/t/820689) ![](assets/new.png)  
-- [2021-12-07-苹果的-rosetta-限制是基于技术还是商业上的考量?](https://www.v2ex.com/t/820688) ![](assets/new.png)  
-- [2021-12-07-接了个盘，这张表什么水平](https://www.v2ex.com/t/820687) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

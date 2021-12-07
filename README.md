@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 10:29:05，:rocket: 更新条数: +1564， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 10:45:00，:rocket: 更新条数: +1563， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,7 +494,11 @@
 </summary>
 
 
-- [2021-12-07-pdf-软件是如何做到多终端阅读进度同步的？](https://www.v2ex.com/t/820692) ![](assets/new.png)  
+- [2021-12-07-Gravatar-的数据库泄漏了……](https://www.v2ex.com/t/820696) ![](assets/new.png)  
+- [2021-12-07-成都-研发-产品-运营-设计-全涵盖-](https://www.v2ex.com/t/820695) ![](assets/new.png)  
+- [2021-12-07-愿景——让人心驰神往的生活想象，大家都还有吗？](https://www.v2ex.com/t/820694) ![](assets/new.png)  
+- [2021-12-07-Cloudflare-Warp-真心好用啊](https://www.v2ex.com/t/820693) ![](assets/new.png)  
+- [2021-12-07-pdf-软件是如何做到多设备阅读进度同步的？](https://www.v2ex.com/t/820692) ![](assets/new.png)  
 - [2021-12-07-广州电信，刚刚突然断线重连了一下，公网-ip-没了](https://www.v2ex.com/t/820691) ![](assets/new.png)  
 - [2021-12-07-MPB-电池鼓包拆掉电池接只接电源无法开机](https://www.v2ex.com/t/820690) ![](assets/new.png)  
 - [2021-12-07-前端新手，请教一下后端有没有能够一把梭的架构？](https://www.v2ex.com/t/820689) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-07-大家怎么看待北京的共有产权房？能不能买？](https://www.v2ex.com/t/820678) ![](assets/new.png)  
 - [2021-12-07-阿里云盘移动端相册备份，会默认勾选-“相机”相册](https://www.v2ex.com/t/820677) ![](assets/new.png)  
 - [2021-12-07-北京望京-蓝湖-产研协同软件独角兽-C+轮-10-亿人民币](https://www.v2ex.com/t/820676) ![](assets/new.png)  
-- [2021-12-07-dd-系统的风险有哪些](https://www.v2ex.com/t/820674) ![](assets/new.png)  
-- [2021-12-07-第一代-mbp16-今天突然发现-s-键不能用了！换个键盘需要多少钱呢？](https://www.v2ex.com/t/820673) ![](assets/new.png)  
-- [2021-12-07-c++新手-求问-c++项目头文件检索问题](https://www.v2ex.com/t/820672) ![](assets/new.png)  
-- [2021-12-07-mac-上-vscode-虚拟内存问题](https://www.v2ex.com/t/820670) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,11 +565,11 @@
 - [2021-12-07-手把手带你玩转-Spring](https://toutiao.io/k/ohdtepv) ![](assets/new.png)  
 - [2021-12-07-Redis、Zookeeper-实现分布式锁：原理与实践](https://toutiao.io/k/0eka8n8) ![](assets/new.png)  
 - [2021-12-07-ant-design-vue-运行时动态切换主题色](https://toutiao.io/k/mc0mng1) ![](assets/new.png)  
-- [2021-12-07-神器-Celery-源码解析（六）](https://toutiao.io/k/nv3jstj) ![](assets/new.png)  
 - [2021-12-07-有栈协程与无栈协程](https://toutiao.io/k/bhzhnvn) ![](assets/new.png)  
+- [2021-12-07-神器-Celery-源码解析（六）](https://toutiao.io/k/nv3jstj) ![](assets/new.png)  
 - [2021-12-07-知识图谱的探索与应用](https://toutiao.io/k/q9kytx0) ![](assets/new.png)  
-- [2021-12-07-如何数据化评价-“迭代质量”](https://toutiao.io/k/vilyzab) ![](assets/new.png)  
 - [2021-12-07-译-如何在-Go-中组织项目结构](https://toutiao.io/k/i6o5n7m) ![](assets/new.png)  
+- [2021-12-07-如何数据化评价-“迭代质量”](https://toutiao.io/k/vilyzab) ![](assets/new.png)  
 - [2021-12-07-一周-8k-Star-的-Notion-开源替代品-AppFlowy-发布了](https://toutiao.io/k/x26smrz) ![](assets/new.png)  
 - [2021-12-07-俄罗斯三维建模软件：T-FLEX-CAD-学生免费版下载地址](https://toutiao.io/k/ykw6v0z) ![](assets/new.png)  
 - [2021-12-07-MediatR-在-.NET-应用中的实践](https://toutiao.io/k/yu9z3z0) ![](assets/new.png)  

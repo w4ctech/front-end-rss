@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-12-07 16:35:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-07 17:03:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-07-做金融-IT，应该往那个方向努力呢？](https://www.v2ex.com/t/820752) 
+- [2021-12-07-二手-5.6k-入手丐版-M1-Air，值么？](https://www.v2ex.com/t/820749) 
+- [2021-12-07-你们觉得中概股接下来还会有什么风险吗？](https://www.v2ex.com/t/820748) 
 - [2021-12-07-新出炉的油猴脚本，按-'/'-键盘聚焦并滚动到搜索框处](https://www.v2ex.com/t/820747) 
 - [2021-12-07-transferkit-又是什么邪法？](https://www.v2ex.com/t/820746) 
 - [2021-12-07-话说，-iPhone-上的-Twitter-YouTube-这些国外-App-的通知都没有声音，有办法解决吗？](https://www.v2ex.com/t/820745) 
@@ -36,5 +39,3 @@
 - [2021-12-07-socket-有点小疑问，想请教下](https://www.v2ex.com/t/820709) 
 - [2021-12-07-急招前端/字节/神策-七年码农转行猎头](https://www.v2ex.com/t/820706) 
 - [2021-12-07-MySQL-大概率不会考虑-M1-MAX-芯片下的-Docker-image-了吧](https://www.v2ex.com/t/820704) 
-- [2021-12-07-macbook-pro-14-寸-m1-max-64G-版本黑屏，外接显示器正常工作](https://www.v2ex.com/t/820702) 
-- [2021-12-07-Ruby-标准库有趣部分摘要](https://www.v2ex.com/t/820700) 

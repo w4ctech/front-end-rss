@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 15:24:50，:rocket: 更新条数: +1558， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 15:45:35，:rocket: 更新条数: +1557， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -502,7 +502,6 @@
 - [2021-12-07-今年-10-月在新疆拍的，棉花地还是很出片子的！](https://www.v2ex.com/t/820735) ![](assets/new.png)  
 - [2021-12-07-chrome-保存文件不显示扩展名](https://www.v2ex.com/t/820734) ![](assets/new.png)  
 - [2021-12-07-成都游戏黑公司各位小心-成都沙漏科技有限公司](https://www.v2ex.com/t/820733) ![](assets/new.png)  
-- [2021-12-07-分享逛临期食品超市的一些感受](https://www.v2ex.com/t/820731) ![](assets/new.png)  
 - [2021-12-07-成都沙漏科技有限公司劳务纠纷，老哥们看看有啥办法](https://www.v2ex.com/t/820730) ![](assets/new.png)  
 - [2021-12-07-iPad-Pro-的雷电接口的兼容问题](https://www.v2ex.com/t/820726) ![](assets/new.png)  
 - [2021-12-07-上海-996-的朋友，在放假那天大家怎么放松](https://www.v2ex.com/t/820725) ![](assets/new.png)  
@@ -514,6 +513,7 @@
 - [2021-12-07-配眼镜该怎么选](https://www.v2ex.com/t/820719) ![](assets/new.png)  
 - [2021-12-07-刚发现-IINA-官网的-build-还是-Intel-的，有没有推荐的播放器](https://www.v2ex.com/t/820718) ![](assets/new.png)  
 - [2021-12-07-请教关于耳机音质，到底什么是好的耳机该有的声音？](https://www.v2ex.com/t/820717) ![](assets/new.png)  
+- [2021-12-07-今年-5-月买的-M1-MBP，现在电池容量-93%，正常吗？](https://www.v2ex.com/t/820715) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

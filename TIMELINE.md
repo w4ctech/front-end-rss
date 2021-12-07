@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-07 09:24:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-07 09:42:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -82,6 +82,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-07-大家怎么看待北京的共有产权房？能不能买？](https://www.v2ex.com/t/820678) 
 - [【V2EX】2021-12-07-阿里云盘移动端相册备份，会默认勾选-“相机”相册](https://www.v2ex.com/t/820677) 
 - [【V2EX】2021-12-07-北京望京-蓝湖-产研协同软件独角兽-C+轮-10-亿人民币](https://www.v2ex.com/t/820676) 
 - [【V2EX】2021-12-07-dd-系统的风险有哪些](https://www.v2ex.com/t/820674) 
@@ -121,7 +122,6 @@
 - [【V2EX】2021-12-07-Apple-Music-可不可以导入网易云歌单？](https://www.v2ex.com/t/820631) 
 - [【V2EX】2021-12-07-麦当劳的猫窝买到了，但是](https://www.v2ex.com/t/820630) 
 - [【V2EX】2021-12-07-请问首次办理港澳通行证，最快几天能拿到](https://www.v2ex.com/t/820629) 
-- [【V2EX】2021-12-07-挖矿的意义在哪？浪费那么多电力，算力，只为了一个网络上的奖励吗？看不见摸不着的。](https://www.v2ex.com/t/820628) 
 - [【技术头条】2021-12-07-推荐学Java——数据表基本操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14835&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhGnL_xOtqz3lNxbRz2IxPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-07-Android-使用-Span-打造丰富多彩的文本-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14834&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSz4H-XK5ygEZOT615QDHtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-07-组件封装之输入框下拉列表-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14833&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492605%26amp%3Bidx%3D2%26amp%3Bsn%3D85c11bed6931095d0117907d1c1959ab%26amp%3Bchksm%3Dfa3f02a6cd488bb0d369ffee088d37a3dba983c111c2bbec0f61154be8b2b0e275317bc012fa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -162,21 +162,21 @@
 - [【开发者头条】2021-12-07-安全运营项目的工作方法](https://toutiao.io/k/i6nia39) 
 - [【开发者头条】2021-12-07-人工智能培训的过去与现在](https://toutiao.io/k/4c22aa4) 
 - [【开发者头条】2021-12-07-保持需求的一致理解应在软件开发的全生命周期进行](https://toutiao.io/k/xk03u7z) 
-- [【开发者头条】2021-12-07-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
-- [【开发者头条】2021-12-07-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) 
-- [【开发者头条】2021-12-07-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
-- [【开发者头条】2021-12-07-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
-- [【开发者头条】2021-12-07-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
-- [【开发者头条】2021-12-07-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) 
-- [【开发者头条】2021-12-07-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 
+- [【开发者头条】2021-12-07-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) 
 - [【开发者头条】2021-12-07-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
-- [【开发者头条】2021-12-07-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
-- [【开发者头条】2021-12-07-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
-- [【开发者头条】2021-12-07-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) 
-- [【开发者头条】2021-12-07-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
-- [【开发者头条】2021-12-07-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
+- [【开发者头条】2021-12-07-推荐-记一次提升-18-倍的性能优化](https://toutiao.io/k/4m3cbld) 
+- [【开发者头条】2021-12-07-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 
 - [【开发者头条】2021-12-07-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
+- [【开发者头条】2021-12-07-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
+- [【开发者头条】2021-12-07-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) 
+- [【开发者头条】2021-12-07-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
+- [【开发者头条】2021-12-07-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
 - [【开发者头条】2021-12-07-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [【开发者头条】2021-12-07-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
+- [【开发者头条】2021-12-07-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) 
+- [【开发者头条】2021-12-07-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [【开发者头条】2021-12-07-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
+- [【开发者头条】2021-12-07-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -318,6 +318,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-11-01-多地防控指向“时空伴随”，标准待明晰](https://m.caixin.com/m/2021-11-01/101794671.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-11-01-甘肃天水市卫健委主任、疾控中心主任被免职](https://china.caixin.com/m/2021-11-01/101794412.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-11-01-【图集】上海迪士尼乐园因疫情影响闭园](https://photos.caixin.com/m/2021-11-01/101794371.html) 
+- [【张鑫旭-鑫空间-鑫生活】2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
 - [【阮一峰的网络日志】2021-11-26-科技爱好者周刊（第-185-期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -438,6 +441,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-10-02-默沙东新冠药物III期临床中期结果乐观-英格兰学龄儿童感染率增加｜大流行手记（10月1日）](https://m.caixin.com/m/2021-10-02/101783007.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-10-01-【境内疫情观察】黑龙江新增10例本土病例（9月30日）](https://database.caixin.com/m/2021-10-01/101782928.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-10-01-英国结束“休假计划“-超七成非洲国家未达接种目标｜大流行手记（9月30日）](https://m.caixin.com/m/2021-10-01/101782855.html) 
+- [【张鑫旭-鑫空间-鑫生活】2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-10-24-CSS-@counter-style规则详细介绍](https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-10-08-CSS-content新的替换元素规范行为解读](https://www.zhangxinxu.com/wordpress/2021/10/css-content-url/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -537,6 +543,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-09-02-儿童感染新冠或致长期症状-澳大利亚加速接种迎解封｜大流行手记（9月1日）](https://m.caixin.com/m/2021-09-02/101767322.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-09-01-【境内疫情观察】全国现有399例本土在院病例（8月31日）](https://database.caixin.com/m/2021-09-01/101764800.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-09-01-韩国单日新增病例居高不下-爱尔兰拟10月22日前解封｜大流行手记（-8月31日）](https://m.caixin.com/m/2021-09-01/101764702.html) 
+- [【张鑫旭-鑫空间-鑫生活】2021-09-30-兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-09-23-HTML-slot-插槽元素深入](https://www.zhangxinxu.com/wordpress/2021/09/html-slot-dom/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-09-14-借助HTML-ping属性实现数据上报](https://www.zhangxinxu.com/wordpress/2021/09/html-ping/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-09-12-APNG在线制作、兼容、播放和暂停](https://www.zhangxinxu.com/wordpress/2021/09/apng-maker-pause-play-ie/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 09:58:37，:rocket: 更新条数: +1562， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 10:14:48，:rocket: 更新条数: +1562， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,12 +65,12 @@
 </summary>
 
 
-- [2021-12-07-12月6日全国新增新冠94例-四省份本土60例](https://m.caixin.com/m/2021-12-07/101814474.html) ![](assets/new.png)  
+- [2021-12-07-最新疫情：全国新冠累计确诊99297例-累计接种新冠疫苗超25.6亿剂次](https://m.caixin.com/m/2021-12-07/101814788.html) ![](assets/new.png)  
+- [2021-12-07-最新海外疫情：新冠感染超2.65亿-累计接种新冠疫苗超81.85亿剂次](https://m.caixin.com/m/2021-12-07/101814784.html) ![](assets/new.png)  
 - [2021-12-07-【境内疫情观察】浙江宁波镇海区实施临时封闭管理（12月6日）](https://database.caixin.com/m/2021-12-07/101814603.html) ![](assets/new.png)  
 - [2021-12-07-福奇称Omicron致病性早期信号积极-南非感染人数猛增｜大流行手记（-12月6日）](https://m.caixin.com/m/2021-12-07/101814482.html) ![](assets/new.png)  
 - [2021-12-06-宁波通报3例核酸阳性-与近期国内多地德尔塔变异株高度同源](https://m.caixin.com/m/2021-12-06/101814070.html) ![](assets/new.png)  
 - [2021-12-06-广西通报2名非法入境阳性感染者轨迹-一人为此前福建安溪病例](https://m.caixin.com/m/2021-12-06/101814120.html) ![](assets/new.png)  
-- [2021-12-06-最新海外疫情：新冠感染超2.65亿-累计接种新冠疫苗超81.47亿剂次](https://m.caixin.com/m/2021-12-06/101814261.html) ![](assets/new.png)  
 - [2021-12-06-【境内疫情观察】全国新增38例本土病例（12月5日）](https://database.caixin.com/m/2021-12-06/101814170.html) ![](assets/new.png)  
 - [2021-12-06-Omicron或含感冒病毒基因片段-美国单日病例再超10万例｜大流行手记（12月5日）](https://m.caixin.com/m/2021-12-06/101814016.html) ![](assets/new.png)  
 - [2021-12-05-福建安溪一境外入境人员核酸阳性-石家庄与满洲里疫情同传播链](https://m.caixin.com/m/2021-12-05/101813954.html) ![](assets/new.png)  
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-07-前端新手，请教一下后端有没有能够一把梭的架构？](https://www.v2ex.com/t/820689) ![](assets/new.png)  
+- [2021-12-07-苹果的-rosetta-限制是基于技术还是商业上的考量?](https://www.v2ex.com/t/820688) ![](assets/new.png)  
+- [2021-12-07-接了个盘，这张表什么水平](https://www.v2ex.com/t/820687) ![](assets/new.png)  
+- [2021-12-07-typora-收费了，有什么好的替代产品](https://www.v2ex.com/t/820686) ![](assets/new.png)  
+- [2021-12-07-大家觉得宁美魔方电脑怎么样](https://www.v2ex.com/t/820685) ![](assets/new.png)  
 - [2021-12-07-PHP-和我都凉凉了～～我就想找个活远程的-PHP-干干-有没有呀-反正-10-年-PHP-现在找不到工作了·····](https://www.v2ex.com/t/820684) ![](assets/new.png)  
 - [2021-12-07-飞书-自动更新问题](https://www.v2ex.com/t/820683) ![](assets/new.png)  
 - [2021-12-07-iPhone-7-Plus，-iOS-15.1-输入法老掉](https://www.v2ex.com/t/820681) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-07-v-友们，现在非贴牌、质量和安全性比较好的插排有哪些牌子。。。。](https://www.v2ex.com/t/820667) ![](assets/new.png)  
 - [2021-12-07-关于-mysql-连接、连接池以及-socket-的疑问](https://www.v2ex.com/t/820666) ![](assets/new.png)  
 - [2021-12-07-mybatis-里面的-collection-嵌套两层后，如果里面那层有两条数据，最后返回的是两个-json-字符串，目标是想得到-1-个-json-字符串。把类型改为-List-也不行，有...](https://www.v2ex.com/t/820665) ![](assets/new.png)  
-- [2021-12-07-求解一个类似又不类似的背包问题](https://www.v2ex.com/t/820664) ![](assets/new.png)  
-- [2021-12-07-MAC-视频播放器推荐？](https://www.v2ex.com/t/820662) ![](assets/new.png)  
-- [2021-12-07-给我这个没有什么技术含量的开源项目投一票吧](https://www.v2ex.com/t/820661) ![](assets/new.png)  
-- [2021-12-07-win11-点清理系统文件卡住怎么解决？](https://www.v2ex.com/t/820660) ![](assets/new.png)  
-- [2021-12-07-求助-自建房信号问题](https://www.v2ex.com/t/820659) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

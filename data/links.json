@@ -7569,6 +7569,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "面对不确定的时候，大家会怎么做呢？",
+        "link": "https://www.v2ex.com/t/820754",
+        "date": "2021-12-07"
+      },
+      {
+        "title": "[上海][浦江镇] 招 Python 后端开发工程师（推荐入职找我拿￥ 2000 红包）",
+        "link": "https://www.v2ex.com/t/820753",
+        "date": "2021-12-07"
+      },
+      {
         "title": "做金融 IT，应该往那个方向努力呢？",
         "link": "https://www.v2ex.com/t/820752",
         "date": "2021-12-07"
@@ -7731,11 +7741,6 @@
       {
         "title": "[急招前端/字节/神策] 七年码农转行猎头",
         "link": "https://www.v2ex.com/t/820706",
-        "date": "2021-12-07"
-      },
-      {
-        "title": "MySQL 大概率不会考虑 M1 MAX 芯片下的 Docker image 了吧",
-        "link": "https://www.v2ex.com/t/820704",
         "date": "2021-12-07"
       }
     ]
@@ -7953,28 +7958,8 @@
         "date": "2021-12-07"
       },
       {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
-        "date": "2021-12-07"
-      },
-      {
-        "title": "[推荐] 我的绘图工具箱",
-        "link": "https://toutiao.io/k/cpcd1i2",
-        "date": "2021-12-07"
-      },
-      {
-        "title": "[推荐] 字节跳动飞书文档的 Web 极致性能优化",
-        "link": "https://toutiao.io/k/v1nqbu5",
-        "date": "2021-12-07"
-      },
-      {
-        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
-        "link": "https://toutiao.io/k/h7wj37b",
-        "date": "2021-12-07"
-      },
-      {
-        "title": "[推荐] 如何做好一份程序员的工作汇报 ppt？",
-        "link": "https://toutiao.io/k/1byulsh",
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
         "date": "2021-12-07"
       },
       {
@@ -7983,8 +7968,13 @@
         "date": "2021-12-07"
       },
       {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
+        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
+        "link": "https://toutiao.io/k/huoy9s9",
+        "date": "2021-12-07"
+      },
+      {
+        "title": "[推荐] 我的绘图工具箱",
+        "link": "https://toutiao.io/k/cpcd1i2",
         "date": "2021-12-07"
       },
       {
@@ -7998,8 +7988,13 @@
         "date": "2021-12-07"
       },
       {
-        "title": "[推荐] 1 万行代码，单机 50 万 QPS，今年最值得学习的开源 RPC 框架",
-        "link": "https://toutiao.io/k/5fkacdj",
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
+        "date": "2021-12-07"
+      },
+      {
+        "title": "[推荐] 如何做好一份程序员的工作汇报 ppt？",
+        "link": "https://toutiao.io/k/1byulsh",
         "date": "2021-12-07"
       },
       {
@@ -8008,23 +8003,33 @@
         "date": "2021-12-07"
       },
       {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
         "date": "2021-12-07"
       },
       {
-        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
-        "link": "https://toutiao.io/k/96zw0k6",
-        "date": "2021-12-07"
-      },
-      {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
+        "title": "[推荐] 1 万行代码，单机 50 万 QPS，今年最值得学习的开源 RPC 框架",
+        "link": "https://toutiao.io/k/5fkacdj",
         "date": "2021-12-07"
       },
       {
         "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
         "link": "https://toutiao.io/k/xktwzye",
+        "date": "2021-12-07"
+      },
+      {
+        "title": "[推荐] 字节跳动飞书文档的 Web 极致性能优化",
+        "link": "https://toutiao.io/k/v1nqbu5",
+        "date": "2021-12-07"
+      },
+      {
+        "title": "[推荐] 读者诉苦：Redis 宕机，数据丢了，老板要辞退我",
+        "link": "https://toutiao.io/k/xa7jahy",
+        "date": "2021-12-07"
+      },
+      {
+        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
+        "link": "https://toutiao.io/k/8k28pnf",
         "date": "2021-12-07"
       }
     ]

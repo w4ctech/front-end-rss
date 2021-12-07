@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 17:03:41，:rocket: 更新条数: +1558， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 17:13:27，:rocket: 更新条数: +1559， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-07-面对不确定的时候，大家会怎么做呢？](https://www.v2ex.com/t/820754) ![](assets/new.png)  
+- [2021-12-07-上海浦江镇-招-Python-后端开发工程师（推荐入职找我拿￥-2000-红包）](https://www.v2ex.com/t/820753) ![](assets/new.png)  
 - [2021-12-07-做金融-IT，应该往那个方向努力呢？](https://www.v2ex.com/t/820752) ![](assets/new.png)  
 - [2021-12-07-二手-5.6k-入手丐版-M1-Air，值么？](https://www.v2ex.com/t/820749) ![](assets/new.png)  
 - [2021-12-07-你们觉得中概股接下来还会有什么风险吗？](https://www.v2ex.com/t/820748) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-07-chrome-保存文件不显示扩展名](https://www.v2ex.com/t/820734) ![](assets/new.png)  
 - [2021-12-07-成都游戏黑公司各位小心-成都沙漏科技有限公司](https://www.v2ex.com/t/820733) ![](assets/new.png)  
 - [2021-12-07-成都沙漏科技有限公司劳务纠纷，老哥们看看有啥办法](https://www.v2ex.com/t/820730) ![](assets/new.png)  
-- [2021-12-07-iPad-Pro-的雷电接口的兼容问题](https://www.v2ex.com/t/820726) ![](assets/new.png)  
-- [2021-12-07-上海-996-的朋友，在放假那天大家怎么放松](https://www.v2ex.com/t/820725) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

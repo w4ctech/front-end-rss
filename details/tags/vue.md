@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-07 02:02:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-07 02:15:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -7,4 +7,5 @@
 
 
 
+- [2021-12-07-Go-+-Gin-+Vue3-容器管理平台，-支持多集群管理-,CMDB，-K8S-容器管理](https://www.v2ex.com/t/820533) 
 - [2021-12-07-ant-design-vue-运行时动态切换主题色](https://toutiao.io/k/mc0mng1) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 05:21:25，:rocket: 更新条数: +1558， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 05:38:05，:rocket: 更新条数: +1557， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-07-在一家公司-3-年以上容易“废”吗？](https://www.v2ex.com/t/820592) ![](assets/new.png)  
 - [2021-12-07-北京-『抖音直播-客户端技术-iOS』招聘](https://www.v2ex.com/t/820590) ![](assets/new.png)  
 - [2021-12-07-试用期不给后端工程师生产库只读权限正常吗](https://www.v2ex.com/t/820587) ![](assets/new.png)  
 - [2021-12-07-IOS-如何禁用蜂窝网络的-ipv6？](https://www.v2ex.com/t/820586) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-07-Airpods-Pro-Max-真不错](https://www.v2ex.com/t/820567) ![](assets/new.png)  
 - [2021-12-07-有没有大佬懂-UBNT-USG-的多播配置问题,实在找不到资料了!](https://www.v2ex.com/t/820566) ![](assets/new.png)  
 - [2021-12-07-字节-Web-Infrastructure-Team-招人啦！](https://www.v2ex.com/t/820563) ![](assets/new.png)  
-- [2021-12-07-买量的入门？](https://www.v2ex.com/t/820562) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,14 +567,14 @@
 - [2021-12-07-神器-Celery-源码解析（六）](https://toutiao.io/k/nv3jstj) ![](assets/new.png)  
 - [2021-12-07-有栈协程与无栈协程](https://toutiao.io/k/bhzhnvn) ![](assets/new.png)  
 - [2021-12-07-知识图谱的探索与应用](https://toutiao.io/k/q9kytx0) ![](assets/new.png)  
-- [2021-12-07-如何数据化评价-“迭代质量”](https://toutiao.io/k/vilyzab) ![](assets/new.png)  
 - [2021-12-07-Redis、Zookeeper-实现分布式锁：原理与实践](https://toutiao.io/k/0eka8n8) ![](assets/new.png)  
+- [2021-12-07-如何数据化评价-“迭代质量”](https://toutiao.io/k/vilyzab) ![](assets/new.png)  
 - [2021-12-07-MediatR-在-.NET-应用中的实践](https://toutiao.io/k/yu9z3z0) ![](assets/new.png)  
 - [2021-12-07-安全运营项目的工作方法](https://toutiao.io/k/i6nia39) ![](assets/new.png)  
 - [2021-12-07-人工智能培训的过去与现在](https://toutiao.io/k/4c22aa4) ![](assets/new.png)  
 - [2021-12-07-译-如何在-Go-中组织项目结构](https://toutiao.io/k/i6o5n7m) ![](assets/new.png)  
-- [2021-12-07-保持需求的一致理解应在软件开发的全生命周期进行](https://toutiao.io/k/xk03u7z) ![](assets/new.png)  
 - [2021-12-07-一周-8k-Star-的-Notion-开源替代品-AppFlowy-发布了](https://toutiao.io/k/x26smrz) ![](assets/new.png)  
+- [2021-12-07-保持需求的一致理解应在软件开发的全生命周期进行](https://toutiao.io/k/xk03u7z) ![](assets/new.png)  
 - [2021-12-07-俄罗斯三维建模软件：T-FLEX-CAD-学生免费版下载地址](https://toutiao.io/k/ykw6v0z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

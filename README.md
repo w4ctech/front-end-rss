@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 13:54:42，:rocket: 更新条数: +1559， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 14:13:38，:rocket: 更新条数: +1558， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-07-分享逛临期食品超市的一些感受](https://www.v2ex.com/t/820731) ![](assets/new.png)  
+- [2021-12-07-成都沙漏科技有限公司劳务纠纷，老哥们看看有啥办法](https://www.v2ex.com/t/820730) ![](assets/new.png)  
 - [2021-12-07-iPad-Pro-的雷电接口的兼容问题](https://www.v2ex.com/t/820726) ![](assets/new.png)  
 - [2021-12-07-上海-996-的朋友，在放假那天大家怎么放松](https://www.v2ex.com/t/820725) ![](assets/new.png)  
 - [2021-12-07-如果误买境外的服务，被信用卡的境外锁挡住付费了会怎么样？](https://www.v2ex.com/t/820724) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-07-MySQL-大概率不会考虑-M1-MAX-芯片下的-Docker-image-了吧](https://www.v2ex.com/t/820704) ![](assets/new.png)  
 - [2021-12-07-macbook-pro-14-寸-m1-max-64G-版本黑屏，外接显示器正常工作](https://www.v2ex.com/t/820702) ![](assets/new.png)  
 - [2021-12-07-Ruby-标准库有趣部分摘要](https://www.v2ex.com/t/820700) ![](assets/new.png)  
-- [2021-12-07-Gravatar-被爬用户数据库了……](https://www.v2ex.com/t/820696) ![](assets/new.png)  
-- [2021-12-07-成都-研发-产品-运营-设计-全涵盖-](https://www.v2ex.com/t/820695) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

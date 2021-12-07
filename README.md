@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 03:23:51，:rocket: 更新条数: +1559， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 03:41:37，:rocket: 更新条数: +1556， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,26 +494,26 @@
 </summary>
 
 
+- [2021-12-07-请问一下各位大佬们，有没有一个-app-可以检查-app-可更新列表](https://www.v2ex.com/t/820570) ![](assets/new.png)  
+- [2021-12-07-整理了一下今年看/听过的泛书影音类内容](https://www.v2ex.com/t/820569) ![](assets/new.png)  
+- [2021-12-07-请教一个-Python-开源库打包发布的问题](https://www.v2ex.com/t/820568) ![](assets/new.png)  
+- [2021-12-07-Airpods-Pro-Max-真不错](https://www.v2ex.com/t/820567) ![](assets/new.png)  
+- [2021-12-07-有没有大佬懂-UBNT-USG-的多播配置问题,实在找不到资料了!](https://www.v2ex.com/t/820566) ![](assets/new.png)  
 - [2021-12-07-字节-Web-Infrastructure-Team-招人啦！](https://www.v2ex.com/t/820563) ![](assets/new.png)  
 - [2021-12-07-买量的入门？](https://www.v2ex.com/t/820562) ![](assets/new.png)  
 - [2021-12-07-日本职棒有什么好的观看渠道么？](https://www.v2ex.com/t/820561) ![](assets/new.png)  
-- [2021-12-07-升级-win11-后遇到的两个-bug](https://www.v2ex.com/t/820560) ![](assets/new.png)  
+- [2021-12-07-升级-win11-后遇到的三个-bug](https://www.v2ex.com/t/820560) ![](assets/new.png)  
 - [2021-12-07-今天-7-牛云对象存储+CDN-访问不稳定](https://www.v2ex.com/t/820559) ![](assets/new.png)  
 - [2021-12-07-新加坡-安全/运维/前端/后端/flutter-岗位开放中，-P6-P9，大中型互联网公司，平台告诉发展期，薪资待遇从优，详情请微信咨询-happierenee](https://www.v2ex.com/t/820558) ![](assets/new.png)  
 - [2021-12-07-一安装-PGPSymantec-Encryption-Desktop，其他程序就打不开了，除非管理员模式](https://www.v2ex.com/t/820555) ![](assets/new.png)  
 - [2021-12-07-为啥-Android-studio-开发的-hello-world-程序都可以占用内存-100MB？](https://www.v2ex.com/t/820554) ![](assets/new.png)  
 - [2021-12-07-qq-音乐每日推荐今天也太离谱了](https://www.v2ex.com/t/820552) ![](assets/new.png)  
 - [2021-12-07-你们公司会在工作机上安装加密软件，自动加密代码文件吗？](https://www.v2ex.com/t/820551) ![](assets/new.png)  
-- [2021-12-07-大家好我是-PD-Runner-启动器的作者,-来进驻一下-v2ex](https://www.v2ex.com/t/820550) ![](assets/new.png)  
 - [2021-12-07-请教，-mac-下各-app-以及浏览器中一些按钮怎么仅仅使用键盘完成？](https://www.v2ex.com/t/820549) ![](assets/new.png)  
 - [2021-12-07-网传快手裁员-30%？有知情人士吗？](https://www.v2ex.com/t/820548) ![](assets/new.png)  
 - [2021-12-07-mysql-json-数据的处理](https://www.v2ex.com/t/820547) ![](assets/new.png)  
 - [2021-12-07-如何看待领导的"换个背景就看着高大上了"?](https://www.v2ex.com/t/820545) ![](assets/new.png)  
 - [2021-12-07-北京奇安信-服务端-Golang-开发工程师](https://www.v2ex.com/t/820544) ![](assets/new.png)  
-- [2021-12-07-广州出一台全新-MBP-14''-M1Max32Core-64G-1T](https://www.v2ex.com/t/820543) ![](assets/new.png)  
-- [2021-12-07-Java-的性能能赶上-Go-了？](https://www.v2ex.com/t/820542) ![](assets/new.png)  
-- [2021-12-07-NV-3070-显卡玩游戏-显卡占用始终上不去](https://www.v2ex.com/t/820541) ![](assets/new.png)  
-- [2021-12-07-GitHub-能举报某一个仓库吗？](https://www.v2ex.com/t/820540) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,10 +564,10 @@
 - [2021-12-07-ant-design-vue-运行时动态切换主题色](https://toutiao.io/k/mc0mng1) ![](assets/new.png)  
 - [2021-12-07-神器-Celery-源码解析（六）](https://toutiao.io/k/nv3jstj) ![](assets/new.png)  
 - [2021-12-07-工作-3-年，我终于开窍了](https://toutiao.io/k/csgs7ln) ![](assets/new.png)  
-- [2021-12-07-有栈协程与无栈协程](https://toutiao.io/k/bhzhnvn) ![](assets/new.png)  
 - [2021-12-07-手把手带你玩转-Spring](https://toutiao.io/k/ohdtepv) ![](assets/new.png)  
-- [2021-12-07-MediatR-在-.NET-应用中的实践](https://toutiao.io/k/yu9z3z0) ![](assets/new.png)  
+- [2021-12-07-有栈协程与无栈协程](https://toutiao.io/k/bhzhnvn) ![](assets/new.png)  
 - [2021-12-07-知识图谱的探索与应用](https://toutiao.io/k/q9kytx0) ![](assets/new.png)  
+- [2021-12-07-MediatR-在-.NET-应用中的实践](https://toutiao.io/k/yu9z3z0) ![](assets/new.png)  
 - [2021-12-07-如何数据化评价-“迭代质量”](https://toutiao.io/k/vilyzab) ![](assets/new.png)  
 - [2021-12-07-安全运营项目的工作方法](https://toutiao.io/k/i6nia39) ![](assets/new.png)  
 - [2021-12-07-人工智能培训的过去与现在](https://toutiao.io/k/4c22aa4) ![](assets/new.png)  
@@ -575,7 +575,7 @@
 - [2021-12-07-保持需求的一致理解应在软件开发的全生命周期进行](https://toutiao.io/k/xk03u7z) ![](assets/new.png)  
 - [2021-12-07-译-如何在-Go-中组织项目结构](https://toutiao.io/k/i6o5n7m) ![](assets/new.png)  
 - [2021-12-07-俄罗斯三维建模软件：T-FLEX-CAD-学生免费版下载地址](https://toutiao.io/k/ykw6v0z) ![](assets/new.png)  
-- [2021-12-07-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
+- [2021-12-07-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

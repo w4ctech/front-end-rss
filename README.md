@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 02:15:34，:rocket: 更新条数: +1559， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 02:41:23，:rocket: 更新条数: +1562， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2021-12-07-NV-3070-显卡玩游戏-显卡占用始终上不去](https://www.v2ex.com/t/820541) ![](assets/new.png)  
+- [2021-12-07-GitHub-能举报某一个仓库吗？](https://www.v2ex.com/t/820540) ![](assets/new.png)  
+- [2021-12-07-中国程序员分享在瑞典奋斗逼的视频合集谁有-搜遍全网确实没了](https://www.v2ex.com/t/820539) ![](assets/new.png)  
+- [2021-12-07-广州广州拜思医疗-Java-后端-运维开发-ios-开发招聘-**合资**医疗器械**](https://www.v2ex.com/t/820537) ![](assets/new.png)  
+- [2021-12-07-国外有什么平台像友盟统计一样，会提供市场安卓机型占比的吗](https://www.v2ex.com/t/820536) ![](assets/new.png)  
+- [2021-12-07-双十二来啦！-Parallels-Desktop-官网又打折了。7-折太香了！](https://www.v2ex.com/t/820534) ![](assets/new.png)  
 - [2021-12-07-Go-+-Gin-+Vue3-容器管理平台，-支持多集群管理-,CMDB，-K8S-容器管理](https://www.v2ex.com/t/820533) ![](assets/new.png)  
 - [2021-12-07-北上深杭-商汤科技-内推](https://www.v2ex.com/t/820532) ![](assets/new.png)  
 - [2021-12-07-win10-下推荐一个开源的命令行工具-FluentTerminal](https://www.v2ex.com/t/820531) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-12-07-关于手机的艰难抉择](https://www.v2ex.com/t/820519) ![](assets/new.png)  
 - [2021-12-07-求推荐最贴近-MBP-本身屏幕素质的外接屏](https://www.v2ex.com/t/820518) ![](assets/new.png)  
 - [2021-12-07-v2ex-账号登录当前-ip-短时间登录过多，限制-ip-了](https://www.v2ex.com/t/820516) ![](assets/new.png)  
-- [2021-12-07-Bitwarden-更改密码出现：-exception-message-发生了-ssl-错误](https://www.v2ex.com/t/820515) ![](assets/new.png)  
-- [2021-12-07-求助-如何实现存储大量自定义数据表，像-notion-的-database-那样？](https://www.v2ex.com/t/820514) ![](assets/new.png)  
-- [2021-12-07-macOS-的-Chrome-与-Netflix-的兼容性问题](https://www.v2ex.com/t/820513) ![](assets/new.png)  
-- [2021-12-07-想找一个免费的动态代理，-windows-可以直接配置的那种](https://www.v2ex.com/t/820512) ![](assets/new.png)  
-- [2021-12-07-怎么看待央妈-12-月-6-日降准释放-1.2-万亿元](https://www.v2ex.com/t/820511) ![](assets/new.png)  
-- [2021-12-07-遥控器爆炸事件](https://www.v2ex.com/t/820510) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,18 +564,18 @@
 - [2021-12-07-ant-design-vue-运行时动态切换主题色](https://toutiao.io/k/mc0mng1) ![](assets/new.png)  
 - [2021-12-07-神器-Celery-源码解析（六）](https://toutiao.io/k/nv3jstj) ![](assets/new.png)  
 - [2021-12-07-MediatR-在-.NET-应用中的实践](https://toutiao.io/k/yu9z3z0) ![](assets/new.png)  
-- [2021-12-07-如何数据化评价-“迭代质量”](https://toutiao.io/k/vilyzab) ![](assets/new.png)  
-- [2021-12-07-安全运营项目的工作方法](https://toutiao.io/k/i6nia39) ![](assets/new.png)  
-- [2021-12-07-有栈协程与无栈协程](https://toutiao.io/k/bhzhnvn) ![](assets/new.png)  
 - [2021-12-07-手把手带你玩转-Spring](https://toutiao.io/k/ohdtepv) ![](assets/new.png)  
+- [2021-12-07-有栈协程与无栈协程](https://toutiao.io/k/bhzhnvn) ![](assets/new.png)  
+- [2021-12-07-如何数据化评价-“迭代质量”](https://toutiao.io/k/vilyzab) ![](assets/new.png)  
 - [2021-12-07-工作-3-年，我终于开窍了](https://toutiao.io/k/csgs7ln) ![](assets/new.png)  
+- [2021-12-07-安全运营项目的工作方法](https://toutiao.io/k/i6nia39) ![](assets/new.png)  
 - [2021-12-07-知识图谱的探索与应用](https://toutiao.io/k/q9kytx0) ![](assets/new.png)  
 - [2021-12-07-人工智能培训的过去与现在](https://toutiao.io/k/4c22aa4) ![](assets/new.png)  
-- [2021-12-07-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
-- [2021-12-07-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-07-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
-- [2021-12-07-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
-- [2021-12-07-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
+- [2021-12-07-Redis、Zookeeper-实现分布式锁：原理与实践](https://toutiao.io/k/0eka8n8) ![](assets/new.png)  
+- [2021-12-07-保持需求的一致理解应在软件开发的全生命周期进行](https://toutiao.io/k/xk03u7z) ![](assets/new.png)  
+- [2021-12-07-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
+- [2021-12-07-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-07-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

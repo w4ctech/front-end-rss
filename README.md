@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 08:49:09，:rocket: 更新条数: +1566， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 09:13:34，:rocket: 更新条数: +1564， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,15 @@
 </summary>
 
 
+- [2021-12-07-第一代-mbp16-今天突然发现-s-键不能用了！换个键盘需要多少钱呢？](https://www.v2ex.com/t/820673) ![](assets/new.png)  
+- [2021-12-07-c++新手-求问-c++项目头文件检索问题](https://www.v2ex.com/t/820672) ![](assets/new.png)  
+- [2021-12-07-mac-上-vscode-虚拟内存问题](https://www.v2ex.com/t/820670) ![](assets/new.png)  
+- [2021-12-07-v-友们，现在非贴牌、质量和安全性比较好的插排有哪些牌子。。。。](https://www.v2ex.com/t/820667) ![](assets/new.png)  
+- [2021-12-07-关于-mysql-连接、连接池以及-socket-的疑问](https://www.v2ex.com/t/820666) ![](assets/new.png)  
+- [2021-12-07-mybatis-里面的-collection-嵌套两层后，如果里面那层有两条数据，最后返回的是两个-json-字符串，目标是想得到-1-个-json-字符串。把类型改为-List-也不行，有...](https://www.v2ex.com/t/820665) ![](assets/new.png)  
+- [2021-12-07-求解一个类似又不类似的背包问题](https://www.v2ex.com/t/820664) ![](assets/new.png)  
+- [2021-12-07-MAC-视频播放器推荐？](https://www.v2ex.com/t/820662) ![](assets/new.png)  
+- [2021-12-07-给我这个没有什么技术含量的开源项目投一票吧](https://www.v2ex.com/t/820661) ![](assets/new.png)  
 - [2021-12-07-win11-点清理系统文件卡住怎么解决？](https://www.v2ex.com/t/820660) ![](assets/new.png)  
 - [2021-12-07-求助-自建房信号问题](https://www.v2ex.com/t/820659) ![](assets/new.png)  
 - [2021-12-07-Python-包导入问题](https://www.v2ex.com/t/820658) ![](assets/new.png)  
@@ -505,15 +514,6 @@
 - [2021-12-07-python3-rq-worker-数量是多少？](https://www.v2ex.com/t/820650) ![](assets/new.png)  
 - [2021-12-07-自建的-gitlab，在最近的一次升级后发现部分仓库是空的了](https://www.v2ex.com/t/820649) ![](assets/new.png)  
 - [2021-12-07-摸鱼人日历](https://www.v2ex.com/t/820648) ![](assets/new.png)  
-- [2021-12-07-如何让贝尔金的拓展坞进入休眠的状态](https://www.v2ex.com/t/820646) ![](assets/new.png)  
-- [2021-12-07-转租枫桥路地铁站附近一次卧，步行-15-分钟，这个月底还会开通-14-号线中宁路站，步行-5-分钟，月租金-3100](https://www.v2ex.com/t/820645) ![](assets/new.png)  
-- [2021-12-07-矮轴键盘推荐-0-1200-元之间](https://www.v2ex.com/t/820644) ![](assets/new.png)  
-- [2021-12-07-如果是你，会选择升级-WiFi-6-吗？](https://www.v2ex.com/t/820643) ![](assets/new.png)  
-- [2021-12-07-分享一个静态页面-Demo，实现提取-zip-视频播放](https://www.v2ex.com/t/820642) ![](assets/new.png)  
-- [2021-12-07-接外包运维调试安装任务](https://www.v2ex.com/t/820639) ![](assets/new.png)  
-- [2021-12-07-大公司各部门的严格的职能划分真的提高了效率吗](https://www.v2ex.com/t/820638) ![](assets/new.png)  
-- [2021-12-07-录视频讲解算法来加强学习靠谱不](https://www.v2ex.com/t/820637) ![](assets/new.png)  
-- [2021-12-07-罗技外设这品控感觉真的差](https://www.v2ex.com/t/820636) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 13:33:42，:rocket: 更新条数: +1561， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 13:41:52，:rocket: 更新条数: +1561， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-07-iPad-Pro-的雷电接口的兼容问题](https://www.v2ex.com/t/820726) ![](assets/new.png)  
 - [2021-12-07-上海-996-的朋友，在放假那天大家怎么放松](https://www.v2ex.com/t/820725) ![](assets/new.png)  
 - [2021-12-07-如果误买境外的服务，被信用卡的境外锁挡住付费了会怎么样？](https://www.v2ex.com/t/820724) ![](assets/new.png)  
 - [2021-12-07-现在（2021-年底）过生日还有什么优惠/羊毛值得薅的吗？上海地区](https://www.v2ex.com/t/820723) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-07-Ruby-标准库有趣部分摘要](https://www.v2ex.com/t/820700) ![](assets/new.png)  
 - [2021-12-07-Gravatar-被爬用户数据库了……](https://www.v2ex.com/t/820696) ![](assets/new.png)  
 - [2021-12-07-成都-研发-产品-运营-设计-全涵盖-](https://www.v2ex.com/t/820695) ![](assets/new.png)  
-- [2021-12-07-愿景——让人心驰神往的生活想象，大家都还有吗？](https://www.v2ex.com/t/820694) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

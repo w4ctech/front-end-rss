@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 02:50:36，:rocket: 更新条数: +1561， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 03:13:58，:rocket: 更新条数: +1561， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2021-12-07-一安装-PGPSymantec-Encryption-Desktop，其他程序就打不开了，除非管理员模式](https://www.v2ex.com/t/820555) ![](assets/new.png)  
+- [2021-12-07-为啥-Android-studio-开发的-hello-world-程序都可以占用内存-100MB？](https://www.v2ex.com/t/820554) ![](assets/new.png)  
+- [2021-12-07-qq-音乐每日推荐今天也太离谱了](https://www.v2ex.com/t/820552) ![](assets/new.png)  
+- [2021-12-07-你们公司会在工作机上安装加密软件，自动加密代码文件吗？](https://www.v2ex.com/t/820551) ![](assets/new.png)  
+- [2021-12-07-大家好我是-PD-Runner-启动器的作者,-来进驻一下-v2ex](https://www.v2ex.com/t/820550) ![](assets/new.png)  
+- [2021-12-07-请教，-mac-下各-app-以及浏览器中一些按钮怎么仅仅使用键盘完成？](https://www.v2ex.com/t/820549) ![](assets/new.png)  
+- [2021-12-07-网传快手裁员-30%？有知情人士吗？](https://www.v2ex.com/t/820548) ![](assets/new.png)  
 - [2021-12-07-mysql-json-数据的处理](https://www.v2ex.com/t/820547) ![](assets/new.png)  
 - [2021-12-07-如何看待领导的"换个背景就看着高大上了"?](https://www.v2ex.com/t/820545) ![](assets/new.png)  
 - [2021-12-07-北京奇安信-服务端-Golang-开发工程师](https://www.v2ex.com/t/820544) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2021-12-07-双十二来啦！-Parallels-Desktop-官网又打折了。7-折太香了！](https://www.v2ex.com/t/820534) ![](assets/new.png)  
 - [2021-12-07-Go-+-Gin-+Vue3-容器管理平台，-支持多集群管理-,CMDB，-K8S-容器管理](https://www.v2ex.com/t/820533) ![](assets/new.png)  
 - [2021-12-07-北上深杭-商汤科技-内推](https://www.v2ex.com/t/820532) ![](assets/new.png)  
-- [2021-12-07-win10-下推荐一个开源的命令行工具-FluentTerminal](https://www.v2ex.com/t/820531) ![](assets/new.png)  
-- [2021-12-07-前端初中高级急聘-深圳国际物流-4PX-龙头企业招聘](https://www.v2ex.com/t/820529) ![](assets/new.png)  
-- [2021-12-07-分享最近这几年听到的大受震撼的话](https://www.v2ex.com/t/820528) ![](assets/new.png)  
-- [2021-12-07-网站百万千万级数据，一般用什么建站程序](https://www.v2ex.com/t/820527) ![](assets/new.png)  
-- [2021-12-07-MacBook-Pro14-散热问题](https://www.v2ex.com/t/820526) ![](assets/new.png)  
-- [2021-12-07-这些事情你干过吗](https://www.v2ex.com/t/820525) ![](assets/new.png)  
-- [2021-12-07-Beats-Fit-Pro-开售了](https://www.v2ex.com/t/820523) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,19 +563,19 @@
 - [2021-12-07-译-Facebook-流量路由最佳实践：从公网入口到内网业务的全路径-XDP/BPF-基础设施（LPC,-2021）](https://toutiao.io/k/x3x5m5s) ![](assets/new.png)  
 - [2021-12-07-ant-design-vue-运行时动态切换主题色](https://toutiao.io/k/mc0mng1) ![](assets/new.png)  
 - [2021-12-07-神器-Celery-源码解析（六）](https://toutiao.io/k/nv3jstj) ![](assets/new.png)  
-- [2021-12-07-MediatR-在-.NET-应用中的实践](https://toutiao.io/k/yu9z3z0) ![](assets/new.png)  
-- [2021-12-07-手把手带你玩转-Spring](https://toutiao.io/k/ohdtepv) ![](assets/new.png)  
-- [2021-12-07-有栈协程与无栈协程](https://toutiao.io/k/bhzhnvn) ![](assets/new.png)  
 - [2021-12-07-工作-3-年，我终于开窍了](https://toutiao.io/k/csgs7ln) ![](assets/new.png)  
+- [2021-12-07-有栈协程与无栈协程](https://toutiao.io/k/bhzhnvn) ![](assets/new.png)  
+- [2021-12-07-手把手带你玩转-Spring](https://toutiao.io/k/ohdtepv) ![](assets/new.png)  
+- [2021-12-07-MediatR-在-.NET-应用中的实践](https://toutiao.io/k/yu9z3z0) ![](assets/new.png)  
+- [2021-12-07-知识图谱的探索与应用](https://toutiao.io/k/q9kytx0) ![](assets/new.png)  
 - [2021-12-07-如何数据化评价-“迭代质量”](https://toutiao.io/k/vilyzab) ![](assets/new.png)  
 - [2021-12-07-安全运营项目的工作方法](https://toutiao.io/k/i6nia39) ![](assets/new.png)  
-- [2021-12-07-知识图谱的探索与应用](https://toutiao.io/k/q9kytx0) ![](assets/new.png)  
 - [2021-12-07-人工智能培训的过去与现在](https://toutiao.io/k/4c22aa4) ![](assets/new.png)  
 - [2021-12-07-Redis、Zookeeper-实现分布式锁：原理与实践](https://toutiao.io/k/0eka8n8) ![](assets/new.png)  
 - [2021-12-07-保持需求的一致理解应在软件开发的全生命周期进行](https://toutiao.io/k/xk03u7z) ![](assets/new.png)  
-- [2021-12-07-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
+- [2021-12-07-译-如何在-Go-中组织项目结构](https://toutiao.io/k/i6o5n7m) ![](assets/new.png)  
+- [2021-12-07-俄罗斯三维建模软件：T-FLEX-CAD-学生免费版下载地址](https://toutiao.io/k/ykw6v0z) ![](assets/new.png)  
 - [2021-12-07-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
-- [2021-12-07-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

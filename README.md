@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 13:02:39，:rocket: 更新条数: +1559， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 13:15:14，:rocket: 更新条数: +1560， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-07-最新疫情：全国新冠累计确诊99297例-累计接种新冠疫苗超25.6亿剂次](https://m.caixin.com/m/2021-12-07/101814788.html) ![](assets/new.png)  
+- [2021-12-07-杭州、绍兴通报3例新冠感染者-浙江三地现本土疫情](https://m.caixin.com/m/2021-12-07/101814873.html) ![](assets/new.png)  
 - [2021-12-07-最新海外疫情：新冠感染超2.65亿-累计接种新冠疫苗超81.85亿剂次](https://m.caixin.com/m/2021-12-07/101814784.html) ![](assets/new.png)  
 - [2021-12-07-【境内疫情观察】浙江宁波镇海区实施临时封闭管理（12月6日）](https://database.caixin.com/m/2021-12-07/101814603.html) ![](assets/new.png)  
 - [2021-12-07-福奇称Omicron致病性早期信号积极-南非感染人数猛增｜大流行手记（-12月6日）](https://m.caixin.com/m/2021-12-07/101814482.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-03-封面报道｜Omicron悬念](https://weekly.caixin.com/m/2021-12-03/101813227.html) ![](assets/new.png)  
 - [2021-12-03-满洲里累计确诊263例-河北石家庄现关联病例](https://m.caixin.com/m/2021-12-03/101813531.html) ![](assets/new.png)  
 - [2021-12-03-【境内疫情观察】全国六地新增80例本土病例（12月2日）](https://database.caixin.com/m/2021-12-03/101813191.html) ![](assets/new.png)  
-- [2021-12-03-研究显示Omicron导致3倍再感染风险-美国已现三名病例｜大流行手记（12月2日）](https://m.caixin.com/m/2021-12-03/101813069.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2021-12-07-再来一篇！看-JDK-源码大师亲自操刀编写的集合源码](https://toutiao.io/k/n0jv6j3) ![](assets/new.png)  
 - [2021-12-07-听说你还不会分阶段构建-Docker-镜像？](https://toutiao.io/k/04n9rda) ![](assets/new.png)  
 - [2021-12-07-Flink-企业级优化全面总结](https://toutiao.io/k/gd7rj7b) ![](assets/new.png)  
-- [2021-12-07-探究：Elasticsearch-Painless-脚本-ctx、doc、_source-的区别是什么？](https://toutiao.io/k/a7sw05g) ![](assets/new.png)  
 - [2021-12-07-工作-3-年，我终于开窍了](https://toutiao.io/k/csgs7ln) ![](assets/new.png)  
+- [2021-12-07-探究：Elasticsearch-Painless-脚本-ctx、doc、_source-的区别是什么？](https://toutiao.io/k/a7sw05g) ![](assets/new.png)  
 - [2021-12-07-译-Facebook-流量路由最佳实践：从公网入口到内网业务的全路径-XDP/BPF-基础设施（LPC,-2021）](https://toutiao.io/k/x3x5m5s) ![](assets/new.png)  
 - [2021-12-07-手把手带你玩转-Spring](https://toutiao.io/k/ohdtepv) ![](assets/new.png)  
 - [2021-12-07-Redis、Zookeeper-实现分布式锁：原理与实践](https://toutiao.io/k/0eka8n8) ![](assets/new.png)  

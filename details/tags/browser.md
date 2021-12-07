@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-07 01:11:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-07 02:02:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -17,7 +17,6 @@
 - [2021-12-07-Chrome-的迅雷插件安装后，一直说我还没安装迅雷，可是我已经安装了最新版的了...](https://www.v2ex.com/t/820504) 
 - [2021-12-06-大家来推荐一点-Safari-插件](https://www.v2ex.com/t/820497) 
 - [2021-12-06-关于-Safari-和-Firefox-的阅读器模式](https://www.v2ex.com/t/820480) 
-- [2021-12-06-有趣的问题-关于前端请求，后端服务如何做到只响应当前站点的请求。类似于如何防爬虫...。](https://www.v2ex.com/t/820478) 
 - [2021-12-07-一文全面解析Postman工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14822&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D2%26amp%3Bsn%3D6685cc0bdb157fdc2f96a3d5138c32a1%26amp%3Bchksm%3Dfa3f0233cd488b25305e2c20fefcdaeebf7046b99dacfbde10068aa9995312ff4f9100a496c7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-07-开发人员的安全意识-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14817&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-security-awareness%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-07-安全运营项目的工作方法](https://toutiao.io/k/i6nia39) 

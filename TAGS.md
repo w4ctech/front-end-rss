@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-07 01:11:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-07 02:02:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -285,7 +285,6 @@
 - [【V2EX】Chrome-的迅雷插件安装后，一直说我还没安装迅雷，可是我已经安装了最新版的了...](https://www.v2ex.com/t/820504)
 - [【V2EX】大家来推荐一点-Safari-插件](https://www.v2ex.com/t/820497)
 - [【V2EX】关于-Safari-和-Firefox-的阅读器模式](https://www.v2ex.com/t/820480)
-- [【V2EX】有趣的问题-关于前端请求，后端服务如何做到只响应当前站点的请求。类似于如何防爬虫...。](https://www.v2ex.com/t/820478)
 - [【技术头条】一文全面解析Postman工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14822&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D2%26amp%3Bsn%3D6685cc0bdb157fdc2f96a3d5138c32a1%26amp%3Bchksm%3Dfa3f0233cd488b25305e2c20fefcdaeebf7046b99dacfbde10068aa9995312ff4f9100a496c7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】开发人员的安全意识-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14817&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-security-awareness%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】安全运营项目的工作方法](https://toutiao.io/k/i6nia39)
@@ -305,8 +304,8 @@
 
 
 
+- [【V2EX】邪恶的算法，有多少责任在程序员？](https://www.v2ex.com/t/820521)
 - [【V2EX】全栈-第一次写简历，恳请各位大佬帮忙提点建议](https://www.v2ex.com/t/820489)
-- [【V2EX】想问一下计算机组成原理和数据结构与算法的问题](https://www.v2ex.com/t/820472)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -414,7 +413,8 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊99203例-累计接种新冠疫苗超25.53亿剂次](https://m.caixin.com/m/2021-12-06/101814264.html)
+- [【武汉肺炎防疫全纪录(财新网)】12月6日全国新增新冠94例-四省份本土60例](https://m.caixin.com/m/2021-12-07/101814474.html)
+- [【武汉肺炎防疫全纪录(财新网)】福奇称Omicron致病性早期信号积极-南非感染人数猛增｜大流行手记（-12月6日）](https://m.caixin.com/m/2021-12-07/101814482.html)
 - [【武汉肺炎防疫全纪录(财新网)】宁波通报3例核酸阳性-与近期国内多地德尔塔变异株高度同源](https://m.caixin.com/m/2021-12-06/101814070.html)
 - [【武汉肺炎防疫全纪录(财新网)】广西通报2名非法入境阳性感染者轨迹-一人为此前福建安溪病例](https://m.caixin.com/m/2021-12-06/101814120.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超2.65亿-累计接种新冠疫苗超81.47亿剂次](https://m.caixin.com/m/2021-12-06/101814261.html)
@@ -433,7 +433,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】研究显示Omicron导致3倍再感染风险-美国已现三名病例｜大流行手记（12月2日）](https://m.caixin.com/m/2021-12-03/101813069.html)
 - [【武汉肺炎防疫全纪录(财新网)】加拿大三只白尾鹿感染新冠-系境内首次报告](https://science.caixin.com/m/2021-12-03/101813303.html)
 - [【武汉肺炎防疫全纪录(财新网)】满洲里疫情外溢哈尔滨-北京海淀新增1例核酸阳性人员](https://m.caixin.com/m/2021-12-02/101812926.html)
-- [【武汉肺炎防疫全纪录(财新网)】上海新增2例本土确诊-居住地与上次疫情确诊病例相邻](https://m.caixin.com/m/2021-12-02/101812869.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

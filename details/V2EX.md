@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2021-12-07 05:54:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-07 06:15:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-07-现在国内用-PostgreSQL-的多吗](https://www.v2ex.com/t/820603) 
+- [2021-12-07-升级-marshmallow，运行-pytest-的时候有大量-warning-怎么快速修改正确？](https://www.v2ex.com/t/820602) 
+- [2021-12-07-脚本的魅力-分享一点代码](https://www.v2ex.com/t/820600) 
+- [2021-12-07-有没有查询多个-pt-站相同种子的脚本](https://www.v2ex.com/t/820599) 
+- [2021-12-07-有关智能家具相关的问题，请教！](https://www.v2ex.com/t/820598) 
+- [2021-12-07-android-SDK-的-Java-版本支持](https://www.v2ex.com/t/820597) 
 - [2021-12-07-开发手机辅助,-如何检测区域内容变化?](https://www.v2ex.com/t/820594) 
 - [2021-12-07-有哪些方向比较适合个人开发者来做的？](https://www.v2ex.com/t/820593) 
 - [2021-12-07-在一家公司-3-年以上容易“废”吗？](https://www.v2ex.com/t/820592) 
@@ -34,8 +40,3 @@
 - [2021-12-07-新加坡-安全/运维/前端/后端/flutter-岗位开放中，-P6-P9，大中型互联网公司，平台告诉发展期，薪资待遇从优，详情请微信咨询-happierenee](https://www.v2ex.com/t/820558) 
 - [2021-12-07-一安装-PGPSymantec-Encryption-Desktop，其他程序就打不开了，除非管理员模式](https://www.v2ex.com/t/820555) 
 - [2021-12-07-为啥-Android-studio-开发的-hello-world-程序都可以占用内存-100MB？](https://www.v2ex.com/t/820554) 
-- [2021-12-07-qq-音乐每日推荐今天也太离谱了](https://www.v2ex.com/t/820552) 
-- [2021-12-07-你们公司会在工作机上安装加密软件，自动加密代码文件吗？](https://www.v2ex.com/t/820551) 
-- [2021-12-07-请教，-mac-下各-app-以及浏览器中一些按钮怎么仅仅使用键盘完成？](https://www.v2ex.com/t/820549) 
-- [2021-12-07-网传快手裁员-30%？有知情人士吗？](https://www.v2ex.com/t/820548) 
-- [2021-12-07-mysql-json-数据的处理](https://www.v2ex.com/t/820547) 

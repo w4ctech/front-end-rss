@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 10:48:57，:rocket: 更新条数: +1563， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 11:11:57，:rocket: 更新条数: +1561， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,7 +494,8 @@
 </summary>
 
 
-- [2021-12-07-Gravatar-的数据库泄漏了……](https://www.v2ex.com/t/820696) ![](assets/new.png)  
+- [2021-12-07-Ruby-标准库有趣部分摘要](https://www.v2ex.com/t/820700) ![](assets/new.png)  
+- [2021-12-07-Gravatar-被爬用户数据库了……](https://www.v2ex.com/t/820696) ![](assets/new.png)  
 - [2021-12-07-成都-研发-产品-运营-设计-全涵盖-](https://www.v2ex.com/t/820695) ![](assets/new.png)  
 - [2021-12-07-愿景——让人心驰神往的生活想象，大家都还有吗？](https://www.v2ex.com/t/820694) ![](assets/new.png)  
 - [2021-12-07-Cloudflare-Warp-真心好用啊](https://www.v2ex.com/t/820693) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-07-请教一下-jwt-相关的问题](https://www.v2ex.com/t/820679) ![](assets/new.png)  
 - [2021-12-07-大家怎么看待北京的共有产权房？能不能买？](https://www.v2ex.com/t/820678) ![](assets/new.png)  
 - [2021-12-07-阿里云盘移动端相册备份，会默认勾选-“相机”相册](https://www.v2ex.com/t/820677) ![](assets/new.png)  
-- [2021-12-07-北京望京-蓝湖-产研协同软件独角兽-C+轮-10-亿人民币](https://www.v2ex.com/t/820676) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,8 +572,8 @@
 - [2021-12-07-如何数据化评价-“迭代质量”](https://toutiao.io/k/vilyzab) ![](assets/new.png)  
 - [2021-12-07-一周-8k-Star-的-Notion-开源替代品-AppFlowy-发布了](https://toutiao.io/k/x26smrz) ![](assets/new.png)  
 - [2021-12-07-俄罗斯三维建模软件：T-FLEX-CAD-学生免费版下载地址](https://toutiao.io/k/ykw6v0z) ![](assets/new.png)  
-- [2021-12-07-MediatR-在-.NET-应用中的实践](https://toutiao.io/k/yu9z3z0) ![](assets/new.png)  
 - [2021-12-07-安全运营项目的工作方法](https://toutiao.io/k/i6nia39) ![](assets/new.png)  
+- [2021-12-07-MediatR-在-.NET-应用中的实践](https://toutiao.io/k/yu9z3z0) ![](assets/new.png)  
 - [2021-12-07-人工智能培训的过去与现在](https://toutiao.io/k/4c22aa4) ![](assets/new.png)  
 - [2021-12-07-保持需求的一致理解应在软件开发的全生命周期进行](https://toutiao.io/k/xk03u7z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

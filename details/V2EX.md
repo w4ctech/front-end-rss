@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-07 23:13:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-07 23:22:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-07-git-CLI-设计太烂](https://www.v2ex.com/t/820770) 
+- [2021-12-07-请问今天发布准正式版-15.2，日历无法显示生日-bug-解决了没](https://www.v2ex.com/t/820768) 
 - [2021-12-07-这样的眼睛度数需要配眼镜么](https://www.v2ex.com/t/820766) 
 - [2021-12-07-Universal-Control-可能是下一个-Airpower](https://www.v2ex.com/t/820765) 
 - [2021-12-07-决赛圈了，诸位给点意见](https://www.v2ex.com/t/820764) 
@@ -41,6 +43,3 @@
 - [2021-12-07-现在（2021-年底）过生日还有什么优惠/羊毛值得薅的吗？上海地区](https://www.v2ex.com/t/820723) 
 - [2021-12-07-「继续卖」少量自家的橙子🍊](https://www.v2ex.com/t/820722) 
 - [2021-12-07-Apple-Watch-esim-问题](https://www.v2ex.com/t/820721) 
-- [2021-12-07-迫于在深圳摇号中不了九价..](https://www.v2ex.com/t/820720) 
-- [2021-12-07-配眼镜该怎么选](https://www.v2ex.com/t/820719) 
-- [2021-12-07-刚发现-IINA-官网的-build-还是-Intel-的，有没有推荐的播放器](https://www.v2ex.com/t/820718) 

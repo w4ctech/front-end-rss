@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 05:41:27，:rocket: 更新条数: +1557， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 05:54:36，:rocket: 更新条数: +1556， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-07-开发手机辅助,-如何检测区域内容变化?](https://www.v2ex.com/t/820594) ![](assets/new.png)  
+- [2021-12-07-有哪些方向比较适合个人开发者来做的？](https://www.v2ex.com/t/820593) ![](assets/new.png)  
 - [2021-12-07-在一家公司-3-年以上容易“废”吗？](https://www.v2ex.com/t/820592) ![](assets/new.png)  
 - [2021-12-07-北京-『抖音直播-客户端技术-iOS』招聘](https://www.v2ex.com/t/820590) ![](assets/new.png)  
 - [2021-12-07-试用期不给后端工程师生产库只读权限正常吗](https://www.v2ex.com/t/820587) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-07-整理了一下今年看/听过的泛书影音类内容](https://www.v2ex.com/t/820569) ![](assets/new.png)  
 - [2021-12-07-请教一个-Python-开源库打包发布的问题](https://www.v2ex.com/t/820568) ![](assets/new.png)  
 - [2021-12-07-Airpods-Pro-Max-真不错](https://www.v2ex.com/t/820567) ![](assets/new.png)  
-- [2021-12-07-有没有大佬懂-UBNT-USG-的多播配置问题,实在找不到资料了!](https://www.v2ex.com/t/820566) ![](assets/new.png)  
-- [2021-12-07-字节-Web-Infrastructure-Team-招人啦！](https://www.v2ex.com/t/820563) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

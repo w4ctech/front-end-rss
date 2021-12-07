@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 23:22:35，:rocket: 更新条数: +1562， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 23:40:29，:rocket: 更新条数: +1562， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-07-option-和-command-要一起按的情况很多，你们都是用什么手势呢](https://www.v2ex.com/t/820772) ![](assets/new.png)  
+- [2021-12-07-V2er-即将开源](https://www.v2ex.com/t/820771) ![](assets/new.png)  
 - [2021-12-07-git-CLI-设计太烂](https://www.v2ex.com/t/820770) ![](assets/new.png)  
 - [2021-12-07-请问今天发布准正式版-15.2，日历无法显示生日-bug-解决了没](https://www.v2ex.com/t/820768) ![](assets/new.png)  
 - [2021-12-07-这样的眼睛度数需要配眼镜么](https://www.v2ex.com/t/820766) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-07-做金融-IT，应该往那个方向努力呢？](https://www.v2ex.com/t/820752) ![](assets/new.png)  
 - [2021-12-07-二手-5.6k-入手丐版-M1-Air，值么？](https://www.v2ex.com/t/820749) ![](assets/new.png)  
 - [2021-12-07-新出炉的油猴脚本，按-'/'-键盘聚焦并滚动到搜索框处](https://www.v2ex.com/t/820747) ![](assets/new.png)  
-- [2021-12-07-transferkit-又是什么邪法？](https://www.v2ex.com/t/820746) ![](assets/new.png)  
-- [2021-12-07-话说，-iPhone-上的-Twitter-YouTube-这些国外-App-的通知都没有声音，有办法解决吗？](https://www.v2ex.com/t/820745) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

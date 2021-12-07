@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 03:13:58，:rocket: 更新条数: +1561， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 03:23:51，:rocket: 更新条数: +1559， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2021-12-07-字节-Web-Infrastructure-Team-招人啦！](https://www.v2ex.com/t/820563) ![](assets/new.png)  
+- [2021-12-07-买量的入门？](https://www.v2ex.com/t/820562) ![](assets/new.png)  
+- [2021-12-07-日本职棒有什么好的观看渠道么？](https://www.v2ex.com/t/820561) ![](assets/new.png)  
+- [2021-12-07-升级-win11-后遇到的两个-bug](https://www.v2ex.com/t/820560) ![](assets/new.png)  
+- [2021-12-07-今天-7-牛云对象存储+CDN-访问不稳定](https://www.v2ex.com/t/820559) ![](assets/new.png)  
+- [2021-12-07-新加坡-安全/运维/前端/后端/flutter-岗位开放中，-P6-P9，大中型互联网公司，平台告诉发展期，薪资待遇从优，详情请微信咨询-happierenee](https://www.v2ex.com/t/820558) ![](assets/new.png)  
 - [2021-12-07-一安装-PGPSymantec-Encryption-Desktop，其他程序就打不开了，除非管理员模式](https://www.v2ex.com/t/820555) ![](assets/new.png)  
 - [2021-12-07-为啥-Android-studio-开发的-hello-world-程序都可以占用内存-100MB？](https://www.v2ex.com/t/820554) ![](assets/new.png)  
 - [2021-12-07-qq-音乐每日推荐今天也太离谱了](https://www.v2ex.com/t/820552) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-12-07-Java-的性能能赶上-Go-了？](https://www.v2ex.com/t/820542) ![](assets/new.png)  
 - [2021-12-07-NV-3070-显卡玩游戏-显卡占用始终上不去](https://www.v2ex.com/t/820541) ![](assets/new.png)  
 - [2021-12-07-GitHub-能举报某一个仓库吗？](https://www.v2ex.com/t/820540) ![](assets/new.png)  
-- [2021-12-07-中国程序员分享在瑞典奋斗逼的视频合集谁有-搜遍全网确实没了](https://www.v2ex.com/t/820539) ![](assets/new.png)  
-- [2021-12-07-广州广州拜思医疗-Java-后端-运维开发-ios-开发招聘-**合资**医疗器械**](https://www.v2ex.com/t/820537) ![](assets/new.png)  
-- [2021-12-07-国外有什么平台像友盟统计一样，会提供市场安卓机型占比的吗](https://www.v2ex.com/t/820536) ![](assets/new.png)  
-- [2021-12-07-双十二来啦！-Parallels-Desktop-官网又打折了。7-折太香了！](https://www.v2ex.com/t/820534) ![](assets/new.png)  
-- [2021-12-07-Go-+-Gin-+Vue3-容器管理平台，-支持多集群管理-,CMDB，-K8S-容器管理](https://www.v2ex.com/t/820533) ![](assets/new.png)  
-- [2021-12-07-北上深杭-商汤科技-内推](https://www.v2ex.com/t/820532) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,7 +575,7 @@
 - [2021-12-07-保持需求的一致理解应在软件开发的全生命周期进行](https://toutiao.io/k/xk03u7z) ![](assets/new.png)  
 - [2021-12-07-译-如何在-Go-中组织项目结构](https://toutiao.io/k/i6o5n7m) ![](assets/new.png)  
 - [2021-12-07-俄罗斯三维建模软件：T-FLEX-CAD-学生免费版下载地址](https://toutiao.io/k/ykw6v0z) ![](assets/new.png)  
-- [2021-12-07-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
+- [2021-12-07-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

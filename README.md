@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 07:21:50，:rocket: 更新条数: +1560， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 07:38:35，:rocket: 更新条数: +1562， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2021-12-07-微信-ABtest-实验平台大数据开发工程师（深圳、北京、广州）](https://www.v2ex.com/t/820635) ![](assets/new.png)  
+- [2021-12-07-TG-账号太久没用被注销，原来创建的群能找回吗？](https://www.v2ex.com/t/820634) ![](assets/new.png)  
+- [2021-12-07-1Password-家庭开车-38-一年](https://www.v2ex.com/t/820633) ![](assets/new.png)  
+- [2021-12-07-向大家请教-TypeScript-的问题](https://www.v2ex.com/t/820632) ![](assets/new.png)  
+- [2021-12-07-Apple-Music-可不可以导入网易云歌单？](https://www.v2ex.com/t/820631) ![](assets/new.png)  
+- [2021-12-07-麦当劳的猫窝买到了，但是](https://www.v2ex.com/t/820630) ![](assets/new.png)  
 - [2021-12-07-请问首次办理港澳通行证，最快几天能拿到](https://www.v2ex.com/t/820629) ![](assets/new.png)  
 - [2021-12-07-挖矿的意义在哪？浪费那么多电力，算力，只为了一个网络上的奖励吗？看不见摸不着的。](https://www.v2ex.com/t/820628) ![](assets/new.png)  
 - [2021-12-07-Evernote-新版真不能忍，回退到-7.14.1-版本了](https://www.v2ex.com/t/820627) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-12-07-请问下-mac-真那么好用吗](https://www.v2ex.com/t/820616) ![](assets/new.png)  
 - [2021-12-07-请教一个-springcloud-gateway-限流的问题](https://www.v2ex.com/t/820615) ![](assets/new.png)  
 - [2021-12-07-在外搬砖的程序员们，周六周日会选择怎么放松？](https://www.v2ex.com/t/820614) ![](assets/new.png)  
-- [2021-12-07-重看一遍无字幕版的老友记，才发现里面很多高级笑话和很多绕弯子的梗，如果没有看过中文版真的很难理解](https://www.v2ex.com/t/820613) ![](assets/new.png)  
-- [2021-12-07-铁汁们，-16-寸使用一个月之后，我目前还是妥协了-14-寸](https://www.v2ex.com/t/820612) ![](assets/new.png)  
-- [2021-12-07-我想配一台主机,但是对电脑知识一窍不通,请问一万块能配个什么样的机器啊?](https://www.v2ex.com/t/820611) ![](assets/new.png)  
-- [2021-12-07-求推荐不贵的不收脚的运动裤](https://www.v2ex.com/t/820609) ![](assets/new.png)  
-- [2021-12-07-MacOS-如何合并两个窗口](https://www.v2ex.com/t/820608) ![](assets/new.png)  
-- [2021-12-07-想了解下单显示-多主机的解决方案](https://www.v2ex.com/t/820606) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,8 +573,8 @@
 - [2021-12-07-MediatR-在-.NET-应用中的实践](https://toutiao.io/k/yu9z3z0) ![](assets/new.png)  
 - [2021-12-07-一周-8k-Star-的-Notion-开源替代品-AppFlowy-发布了](https://toutiao.io/k/x26smrz) ![](assets/new.png)  
 - [2021-12-07-安全运营项目的工作方法](https://toutiao.io/k/i6nia39) ![](assets/new.png)  
-- [2021-12-07-人工智能培训的过去与现在](https://toutiao.io/k/4c22aa4) ![](assets/new.png)  
 - [2021-12-07-俄罗斯三维建模软件：T-FLEX-CAD-学生免费版下载地址](https://toutiao.io/k/ykw6v0z) ![](assets/new.png)  
+- [2021-12-07-人工智能培训的过去与现在](https://toutiao.io/k/4c22aa4) ![](assets/new.png)  
 - [2021-12-07-保持需求的一致理解应在软件开发的全生命周期进行](https://toutiao.io/k/xk03u7z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

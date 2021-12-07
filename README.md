@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 10:14:48，:rocket: 更新条数: +1562， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 10:29:05，:rocket: 更新条数: +1564， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-07-pdf-软件是如何做到多终端阅读进度同步的？](https://www.v2ex.com/t/820692) ![](assets/new.png)  
+- [2021-12-07-广州电信，刚刚突然断线重连了一下，公网-ip-没了](https://www.v2ex.com/t/820691) ![](assets/new.png)  
+- [2021-12-07-MPB-电池鼓包拆掉电池接只接电源无法开机](https://www.v2ex.com/t/820690) ![](assets/new.png)  
 - [2021-12-07-前端新手，请教一下后端有没有能够一把梭的架构？](https://www.v2ex.com/t/820689) ![](assets/new.png)  
 - [2021-12-07-苹果的-rosetta-限制是基于技术还是商业上的考量?](https://www.v2ex.com/t/820688) ![](assets/new.png)  
 - [2021-12-07-接了个盘，这张表什么水平](https://www.v2ex.com/t/820687) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-07-第一代-mbp16-今天突然发现-s-键不能用了！换个键盘需要多少钱呢？](https://www.v2ex.com/t/820673) ![](assets/new.png)  
 - [2021-12-07-c++新手-求问-c++项目头文件检索问题](https://www.v2ex.com/t/820672) ![](assets/new.png)  
 - [2021-12-07-mac-上-vscode-虚拟内存问题](https://www.v2ex.com/t/820670) ![](assets/new.png)  
-- [2021-12-07-v-友们，现在非贴牌、质量和安全性比较好的插排有哪些牌子。。。。](https://www.v2ex.com/t/820667) ![](assets/new.png)  
-- [2021-12-07-关于-mysql-连接、连接池以及-socket-的疑问](https://www.v2ex.com/t/820666) ![](assets/new.png)  
-- [2021-12-07-mybatis-里面的-collection-嵌套两层后，如果里面那层有两条数据，最后返回的是两个-json-字符串，目标是想得到-1-个-json-字符串。把类型改为-List-也不行，有...](https://www.v2ex.com/t/820665) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

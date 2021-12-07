@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 14:43:35，:rocket: 更新条数: +1558， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 14:57:26，:rocket: 更新条数: +1558， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-07-求一个可以查看-Mac-app-是否来自-Mac-App-Store-的软件](https://www.v2ex.com/t/820738) ![](assets/new.png)  
+- [2021-12-07-机箱-USB3.0-供电不足问题](https://www.v2ex.com/t/820737) ![](assets/new.png)  
 - [2021-12-07-思考排行榜项目的盈利模式](https://www.v2ex.com/t/820736) ![](assets/new.png)  
 - [2021-12-07-今年-10-月在新疆拍的，棉花地还是很出片子的！](https://www.v2ex.com/t/820735) ![](assets/new.png)  
 - [2021-12-07-chrome-保存文件不显示扩展名](https://www.v2ex.com/t/820734) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-07-请教关于耳机音质，到底什么是好的耳机该有的声音？](https://www.v2ex.com/t/820717) ![](assets/new.png)  
 - [2021-12-07-今年-5-月买的-M1-MBP，现在电池容量-93%，正常吗？](https://www.v2ex.com/t/820715) ![](assets/new.png)  
 - [2021-12-07-力扣怎么看到全部代码，求大佬指点](https://www.v2ex.com/t/820711) ![](assets/new.png)  
-- [2021-12-07-绿码-杭州到三亚，要核酸报告吗](https://www.v2ex.com/t/820710) ![](assets/new.png)  
-- [2021-12-07-socket-有点小疑问，想请教下](https://www.v2ex.com/t/820709) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

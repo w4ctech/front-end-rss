@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-07 14:57:26，:rocket: 更新条数: +1558， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 15:13:40，:rocket: 更新条数: +1558， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-07-80-后程序员前辈们现在都在干嘛](https://www.v2ex.com/t/820739) ![](assets/new.png)  
 - [2021-12-07-求一个可以查看-Mac-app-是否来自-Mac-App-Store-的软件](https://www.v2ex.com/t/820738) ![](assets/new.png)  
 - [2021-12-07-机箱-USB3.0-供电不足问题](https://www.v2ex.com/t/820737) ![](assets/new.png)  
 - [2021-12-07-思考排行榜项目的盈利模式](https://www.v2ex.com/t/820736) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-07-刚发现-IINA-官网的-build-还是-Intel-的，有没有推荐的播放器](https://www.v2ex.com/t/820718) ![](assets/new.png)  
 - [2021-12-07-请教关于耳机音质，到底什么是好的耳机该有的声音？](https://www.v2ex.com/t/820717) ![](assets/new.png)  
 - [2021-12-07-今年-5-月买的-M1-MBP，现在电池容量-93%，正常吗？](https://www.v2ex.com/t/820715) ![](assets/new.png)  
-- [2021-12-07-力扣怎么看到全部代码，求大佬指点](https://www.v2ex.com/t/820711) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

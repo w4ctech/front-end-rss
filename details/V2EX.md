@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-07 13:41:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-07 13:54:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,5 +40,3 @@
 - [2021-12-07-iPhone-7-Plus，-iOS-15.1-输入法老掉](https://www.v2ex.com/t/820681) 
 - [2021-12-07-Python-异步有什么办法实现类似-Linux-的-tail--f-的功能吗？](https://www.v2ex.com/t/820680) 
 - [2021-12-07-请教一下-jwt-相关的问题](https://www.v2ex.com/t/820679) 
-- [2021-12-07-大家怎么看待北京的共有产权房？能不能买？](https://www.v2ex.com/t/820678) 
-- [2021-12-07-阿里云盘移动端相册备份，会默认勾选-“相机”相册](https://www.v2ex.com/t/820677) 

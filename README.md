@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 17:46:00，:rocket: 更新条数: +1567， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 17:54:43，:rocket: 更新条数: +1568， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-08-特定耳机一插电脑就卡](https://www.v2ex.com/t/821007) ![](assets/new.png)  
 - [2021-12-08-有了后端-API-接口，怎样快速创建一个-Web-CRUD-前端页面？](https://www.v2ex.com/t/821005) ![](assets/new.png)  
 - [2021-12-08-mbp-有办法不更新到最新版本的-macOS-嘛](https://www.v2ex.com/t/821003) ![](assets/new.png)  
 - [2021-12-08-你们公司的-django-项目如何](https://www.v2ex.com/t/821002) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-08-苏州/北京/上海-微软社招内推-前端/后端/客户端/算法](https://www.v2ex.com/t/820988) ![](assets/new.png)  
 - [2021-12-08-为什么-Ubuntu-20.04-外接-4K-显示器总有种性能不足的感觉](https://www.v2ex.com/t/820987) ![](assets/new.png)  
 - [2021-12-08-macos12-上的图书同步是不是有问题](https://www.v2ex.com/t/820986) ![](assets/new.png)  
-- [2021-12-08-大佬们-蓝牙-cpcl-打印指令-有啥可调试的东西吗](https://www.v2ex.com/t/820985) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 02:35:24，:rocket: 更新条数: +1560， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 02:48:14，:rocket: 更新条数: +1561， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,11 +494,13 @@
 </summary>
 
 
+- [2021-12-08-求助，-MongoDB-中查找如何做到完全匹配](https://www.v2ex.com/t/820812) ![](assets/new.png)  
+- [2021-12-08-用前端表格技术构建医疗-SaaS-解决方案](https://www.v2ex.com/t/820811) ![](assets/new.png)  
+- [2021-12-08-natpass-v0.7.2-版本发布，新增-Linux-远程桌面支持](https://www.v2ex.com/t/820810) ![](assets/new.png)  
+- [2021-12-08-西安国产数据库腾讯云数据库团队诚招数据库后台研发工程师](https://www.v2ex.com/t/820809) ![](assets/new.png)  
 - [2021-12-08--Java-实习-22-届求一份-Java-后端实习工作](https://www.v2ex.com/t/820808) ![](assets/new.png)  
 - [2021-12-08-js-如何实现对象值复制？](https://www.v2ex.com/t/820807) ![](assets/new.png)  
-- [2021-12-08-Go-语言的生态就是一坨屎](https://www.v2ex.com/t/820806) ![](assets/new.png)  
 - [2021-12-08-五道口急招!不卡学历!全栈、后端工程师Github-万星-star-开源项目-Wechaty20k-50k](https://www.v2ex.com/t/820805) ![](assets/new.png)  
-- [2021-12-08-Office-365-开车啦](https://www.v2ex.com/t/820804) ![](assets/new.png)  
 - [2021-12-08-被同事-pua-怎么办？](https://www.v2ex.com/t/820803) ![](assets/new.png)  
 - [2021-12-08-腾讯轻量云发现未知公钥-ssh，求问这是什么情况](https://www.v2ex.com/t/820802) ![](assets/new.png)  
 - [2021-12-08-我觉得飞书挺好用的，但这做法就不明白了](https://www.v2ex.com/t/820801) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-08-无线充电特别伤电池？](https://www.v2ex.com/t/820792) ![](assets/new.png)  
 - [2021-12-08-请问大家-Safari-浏览网页时是双指上下滑动还是三指?](https://www.v2ex.com/t/820791) ![](assets/new.png)  
 - [2021-12-08-Typora-for-mac-安装包-10.2M，安装完成-32M，原生开发的吗？](https://www.v2ex.com/t/820790) ![](assets/new.png)  
-- [2021-12-08-前端-北京/青岛-前端开发工程师+前端技术负责人-高薪/面议](https://www.v2ex.com/t/820789) ![](assets/new.png)  
-- [2021-12-08-苹果又出邪术让手机变慢变卡？](https://www.v2ex.com/t/820787) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,12 +570,12 @@
 - [2021-12-08-效率提升看得见！神策-A/B-测试可视化试验能力正式上线](https://toutiao.io/k/2rnc4h7) ![](assets/new.png)  
 - [2021-12-08-源码分析广播运行原理](https://toutiao.io/k/8rtiiyb) ![](assets/new.png)  
 - [2021-12-08-年底巩固下-CS-知识（GitHub-热点速览）](https://toutiao.io/k/anl6l5t) ![](assets/new.png)  
-- [2021-12-08-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-08-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
+- [2021-12-08-使用-JMX-监控和管理-Java-程序](https://toutiao.io/k/shbliyq) ![](assets/new.png)  
+- [2021-12-08-沙盒化容器：是容器还是虚拟机](https://toutiao.io/k/5k4x5ha) ![](assets/new.png)  
 - [2021-12-08-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
-- [2021-12-08-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
-- [2021-12-08-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
-- [2021-12-08-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) ![](assets/new.png)  
+- [2021-12-08-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
+- [2021-12-08-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-08-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

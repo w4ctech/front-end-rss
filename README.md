@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 11:19:38，:rocket: 更新条数: +1568， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 11:36:40，:rocket: 更新条数: +1567， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-08-群晖-Drive-3.1-要来了。](https://www.v2ex.com/t/820949) ![](assets/new.png)  
+- [2021-12-08-用-Calico-网络策略设置主机-node-防火墙规则](https://www.v2ex.com/t/820948) ![](assets/new.png)  
+- [2021-12-08-Gas-费问题](https://www.v2ex.com/t/820946) ![](assets/new.png)  
+- [2021-12-08-第一次去现场服务器装系统,以前没装过,有什么需要注意的梗吗，服务器装-Linux-和家用电脑装-windows-系统差不多么..选择-u-盘启动然后-直接安装？](https://www.v2ex.com/t/820945) ![](assets/new.png)  
 - [2021-12-08-两个-offer-对比](https://www.v2ex.com/t/820944) ![](assets/new.png)  
 - [2021-12-08-go-没有-lambda-表达式。。很蛋疼啊](https://www.v2ex.com/t/820943) ![](assets/new.png)  
 - [2021-12-08-12v-集中供电怎么选？](https://www.v2ex.com/t/820942) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-08-一个想法：粘贴板炸弹软件，专治流氓读取粘贴板内容](https://www.v2ex.com/t/820930) ![](assets/new.png)  
 - [2021-12-08-如何仅解析国内-AAAA-域名、国外-AAAA-域名返回空值？](https://www.v2ex.com/t/820929) ![](assets/new.png)  
 - [2021-12-08-大家看专业知识书更喜欢用电子版还是纸质呢？](https://www.v2ex.com/t/820928) ![](assets/new.png)  
-- [2021-12-08-关于-token-过期的疑惑，为什么需要-refresh-token？](https://www.v2ex.com/t/820927) ![](assets/new.png)  
-- [2021-12-08-WePack-——-助力企业渐进式-DevOps-转型](https://www.v2ex.com/t/820925) ![](assets/new.png)  
-- [2021-12-08-10-行-JS-代码实现-gzip-压缩/解压缩](https://www.v2ex.com/t/820923) ![](assets/new.png)  
-- [2021-12-08-什么项目才是校招简历上的加分项？](https://www.v2ex.com/t/820922) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

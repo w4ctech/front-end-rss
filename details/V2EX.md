@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-12-08 11:19:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-08 11:36:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-08-群晖-Drive-3.1-要来了。](https://www.v2ex.com/t/820949) 
+- [2021-12-08-用-Calico-网络策略设置主机-node-防火墙规则](https://www.v2ex.com/t/820948) 
+- [2021-12-08-Gas-费问题](https://www.v2ex.com/t/820946) 
+- [2021-12-08-第一次去现场服务器装系统,以前没装过,有什么需要注意的梗吗，服务器装-Linux-和家用电脑装-windows-系统差不多么..选择-u-盘启动然后-直接安装？](https://www.v2ex.com/t/820945) 
 - [2021-12-08-两个-offer-对比](https://www.v2ex.com/t/820944) 
 - [2021-12-08-go-没有-lambda-表达式。。很蛋疼啊](https://www.v2ex.com/t/820943) 
 - [2021-12-08-12v-集中供电怎么选？](https://www.v2ex.com/t/820942) 
@@ -42,8 +46,3 @@
 - [2021-12-08-现在用的是红米-AX6-想组-mesh-怎么选主路由?](https://www.v2ex.com/t/820904) 
 - [2021-12-08-冬日海岛之旅：枸杞岛单车自由行](https://www.v2ex.com/t/820903) 
 - [2021-12-08-杭州->武汉-高铁能回去吗？](https://www.v2ex.com/t/820902) 
-- [2021-12-08-google-添加付款方式时候提示-ERROR-OR-CCSEH-05-该怎么办啊？](https://www.v2ex.com/t/820900) 
-- [2021-12-08-你们能打开-tortoisesvn-官网吗](https://www.v2ex.com/t/820899) 
-- [2021-12-08-Excel-单元格-GP422101031000001-无法拖拉，获得自动增序](https://www.v2ex.com/t/820898) 
-- [2021-12-08-垮掉的一代](https://www.v2ex.com/t/820896) 
-- [2021-12-08-移动营业厅-APP-居然想要-root-权限？！](https://www.v2ex.com/t/820895) 

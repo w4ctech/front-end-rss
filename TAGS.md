@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-08 19:39:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-08 19:54:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -123,7 +123,6 @@
 
 
 
-- [【V2EX】有人知道微信小程序云函数怎么生成自定义的二维码嘛](https://www.v2ex.com/t/820961)
 - [【开发者头条】关于小程序的一切，读这一篇就够了](https://toutiao.io/k/1i0tnxr)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 

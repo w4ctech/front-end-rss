@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-08 20:44:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-08 20:56:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-08-20211208---大约持续了-3-个小时的头像上传问题](https://www.v2ex.com/t/821014) 
+- [2021-12-08-向已有的-PowerShell-prompt-追加自己的代码](https://www.v2ex.com/t/821012) 
 - [2021-12-08-20211208---创建新主题时的草稿问题](https://www.v2ex.com/t/821011) 
 - [2021-12-08-Amazon-将在-2022-年-5-月-1-日下线-Alexa.com](https://www.v2ex.com/t/821010) 
 - [2021-12-08-Kotlin-Compose-Multiplatform-1.0-即将上线](https://www.v2ex.com/t/821009) 
@@ -45,4 +47,3 @@
 - [2021-12-08-突然发现-RouterOS-v7-已经-stable-了](https://www.v2ex.com/t/820967) 
 - [2021-12-08-Face-ID-隔着玻璃能用吗？](https://www.v2ex.com/t/820966) 
 - [2021-12-08-远程长期全职机会--Rust（月薪-30~50k-可议）](https://www.v2ex.com/t/820965) 
-- [2021-12-08-nginx-配置静态目录路由失效，哪里写错了吗？](https://www.v2ex.com/t/820963) 

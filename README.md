@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 09:12:55，:rocket: 更新条数: +1564， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 09:22:29，:rocket: 更新条数: +1565， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-08-北京/深圳/杭州/上海抖音开放平台招前端、服务端、安卓、iOS、引擎工程师](https://www.v2ex.com/t/820916) ![](assets/new.png)  
+- [2021-12-08-M1-Mac-装-iOS-App-过段时间会暗屏怎么解决？](https://www.v2ex.com/t/820915) ![](assets/new.png)  
 - [2021-12-08-大佬们分享下最新的小火煎规则](https://www.v2ex.com/t/820914) ![](assets/new.png)  
 - [2021-12-08-北京上海backend-engineer-薪资-50-100w](https://www.v2ex.com/t/820913) ![](assets/new.png)  
 - [2021-12-08-请问-navicat-用注册机破解后会有窃取数据库地址和账号密码的风险吗](https://www.v2ex.com/t/820912) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-08-Excel-单元格-GP422101031000001-无法拖拉，获得自动增序](https://www.v2ex.com/t/820898) ![](assets/new.png)  
 - [2021-12-08-垮掉的一代](https://www.v2ex.com/t/820896) ![](assets/new.png)  
 - [2021-12-08-移动营业厅-APP-居然想要-root-权限？！](https://www.v2ex.com/t/820895) ![](assets/new.png)  
-- [2021-12-08-AirPods-Max-和-Oculus-Quest-2-二选一买哪个好呢？](https://www.v2ex.com/t/820894) ![](assets/new.png)  
-- [2021-12-08-有没有类似-hashids-的可加密字符串,可设置长度,可逆的包?](https://www.v2ex.com/t/820892) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

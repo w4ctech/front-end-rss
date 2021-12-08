@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 13:42:49，:rocket: 更新条数: +1565， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 13:54:36，:rocket: 更新条数: +1565， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-08-上海全职-WFH-初创招前端及后端](https://www.v2ex.com/t/820975) ![](assets/new.png)  
+- [2021-12-08-Mac-上安卓模拟器打开卡-99%进度条，怎么解决=-=](https://www.v2ex.com/t/820973) ![](assets/new.png)  
 - [2021-12-08-C/C++学起来难,还是-Rust-学起来难呢？](https://www.v2ex.com/t/820970) ![](assets/new.png)  
 - [2021-12-08-用-SwiftUI-和-Combine-写了个-Swift-手册-macOS-程序](https://www.v2ex.com/t/820969) ![](assets/new.png)  
 - [2021-12-08-求助，来通知时-APP-图标变成了灰色禁止符号](https://www.v2ex.com/t/820968) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-08-群晖-Drive-3.1-要来了。](https://www.v2ex.com/t/820949) ![](assets/new.png)  
 - [2021-12-08-用-Calico-网络策略设置主机-node-防火墙规则](https://www.v2ex.com/t/820948) ![](assets/new.png)  
 - [2021-12-08-Gas-费问题](https://www.v2ex.com/t/820946) ![](assets/new.png)  
-- [2021-12-08-第一次去现场服务器装系统,以前没装过,有什么需要注意的梗吗，服务器装-Linux-和家用电脑装-windows-系统差不多么..选择-u-盘启动然后-直接安装？](https://www.v2ex.com/t/820945) ![](assets/new.png)  
-- [2021-12-08-两个-offer-对比](https://www.v2ex.com/t/820944) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

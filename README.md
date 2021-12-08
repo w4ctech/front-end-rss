@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 15:48:17，:rocket: 更新条数: +1566， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 16:17:05，:rocket: 更新条数: +1567， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-08-大家的-mbp-定制机发货/延期了吗？](https://www.v2ex.com/t/821000) ![](assets/new.png)  
+- [2021-12-08-一个关于路由器端口转发的问题](https://www.v2ex.com/t/820999) ![](assets/new.png)  
+- [2021-12-08-请问伟途亦可思如何登陆账号](https://www.v2ex.com/t/820998) ![](assets/new.png)  
 - [2021-12-08-内网穿透方案推荐](https://www.v2ex.com/t/820997) ![](assets/new.png)  
 - [2021-12-08-MBP2021-16-寸-m1max-两天没怎么用就没电了](https://www.v2ex.com/t/820996) ![](assets/new.png)  
 - [2021-12-08-8k-全景也支持了-https://www.bilibili.com/video/BV1Wi4y1Z7mR](https://www.v2ex.com/t/820995) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-08-再次代友发，他们需要的人更多了-深圳-前端|-后端|-全栈工程师-|-产品经理-|-全职/实习-|-合规区块链-|-区块链开发者工具头部-|-落地百度超级链,腾讯-TBaas-...](https://www.v2ex.com/t/820982) ![](assets/new.png)  
 - [2021-12-08-群晖-6.2.4-要不要升-7.0.1？](https://www.v2ex.com/t/820981) ![](assets/new.png)  
 - [2021-12-08-深圳光明区六号线找房子](https://www.v2ex.com/t/820980) ![](assets/new.png)  
-- [2021-12-08-程序员在北京怎么找到朝九晚六的工作?](https://www.v2ex.com/t/820979) ![](assets/new.png)  
-- [2021-12-08-Java-部署多个环境问题](https://www.v2ex.com/t/820978) ![](assets/new.png)  
-- [2021-12-08-新加坡/可远程-金融公司-招聘-Python-20K-~-40K](https://www.v2ex.com/t/820977) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

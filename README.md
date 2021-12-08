@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 15:13:43，:rocket: 更新条数: +1565， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 15:23:36，:rocket: 更新条数: +1565， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-08-8k-全景也支持了-https://www.bilibili.com/video/BV1Wi4y1Z7mR](https://www.v2ex.com/t/820995) ![](assets/new.png)  
 - [2021-12-08-前天发了个装修交流贴，没想到老铁们反响热烈，欢迎要装修的老铁来交流](https://www.v2ex.com/t/820994) ![](assets/new.png)  
 - [2021-12-08-80-后那个帖子怎么那么多肉翻的?可以聊聊经历吗,挺感兴趣.](https://www.v2ex.com/t/820993) ![](assets/new.png)  
 - [2021-12-08-google-ads-赚美刀的第二天。入账-5.97$,一顿外卖有了,haha](https://www.v2ex.com/t/820992) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-08-新加坡/可远程-金融公司-招聘-Python-20K-~-40K](https://www.v2ex.com/t/820977) ![](assets/new.png)  
 - [2021-12-08-上海全职-WFH-初创招前端及后端](https://www.v2ex.com/t/820975) ![](assets/new.png)  
 - [2021-12-08-Mac-上安卓模拟器打开卡-99%进度条，怎么解决=-=](https://www.v2ex.com/t/820973) ![](assets/new.png)  
-- [2021-12-08-C/C++学起来难,还是-Rust-学起来难呢？](https://www.v2ex.com/t/820970) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

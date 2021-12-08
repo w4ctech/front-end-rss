@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-08 15:13:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-08 15:23:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-08-8k-全景也支持了-https://www.bilibili.com/video/BV1Wi4y1Z7mR](https://www.v2ex.com/t/820995) 
 - [2021-12-08-前天发了个装修交流贴，没想到老铁们反响热烈，欢迎要装修的老铁来交流](https://www.v2ex.com/t/820994) 
 - [2021-12-08-80-后那个帖子怎么那么多肉翻的?可以聊聊经历吗,挺感兴趣.](https://www.v2ex.com/t/820993) 
 - [2021-12-08-google-ads-赚美刀的第二天。入账-5.97$,一顿外卖有了,haha](https://www.v2ex.com/t/820992) 
@@ -42,4 +43,3 @@
 - [2021-12-08-群晖-Drive-3.1-要来了。](https://www.v2ex.com/t/820949) 
 - [2021-12-08-用-Calico-网络策略设置主机-node-防火墙规则](https://www.v2ex.com/t/820948) 
 - [2021-12-08-Gas-费问题](https://www.v2ex.com/t/820946) 
-- [2021-12-08-第一次去现场服务器装系统,以前没装过,有什么需要注意的梗吗，服务器装-Linux-和家用电脑装-windows-系统差不多么..选择-u-盘启动然后-直接安装？](https://www.v2ex.com/t/820945) 

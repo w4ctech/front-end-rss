@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 11:54:55，:rocket: 更新条数: +1567， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 12:19:21，:rocket: 更新条数: +1565， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-08-凑个热闹，如何吃到元宇宙红利？](https://www.v2ex.com/t/820956) ![](assets/new.png)  
+- [2021-12-08-创业失败，在流浪](https://www.v2ex.com/t/820955) ![](assets/new.png)  
 - [2021-12-08-南京--运满满，有意者给我简历呀](https://www.v2ex.com/t/820953) ![](assets/new.png)  
 - [2021-12-08-点了美团外卖刚给差评不到-1-小时就收到商家电话](https://www.v2ex.com/t/820951) ![](assets/new.png)  
 - [2021-12-08-群晖-Drive-3.1-要来了。](https://www.v2ex.com/t/820949) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-08-Spotify-连上了不认识的设备？有朋友遇到过吗](https://www.v2ex.com/t/820934) ![](assets/new.png)  
 - [2021-12-08-iPhone-上快捷指令朗读报错](https://www.v2ex.com/t/820933) ![](assets/new.png)  
 - [2021-12-08-力扣怎么看到全部代码](https://www.v2ex.com/t/820932) ![](assets/new.png)  
-- [2021-12-08-如何让-Windows-在有线连接网络的情况下依然自动连接-WiFi？](https://www.v2ex.com/t/820931) ![](assets/new.png)  
-- [2021-12-08-一个想法：粘贴板炸弹软件，专治流氓读取粘贴板内容](https://www.v2ex.com/t/820930) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

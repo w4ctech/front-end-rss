@@ -7574,6 +7574,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "看了马斯克等富人的操作，我们该怎么办？",
+        "link": "https://www.v2ex.com/t/820856",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "通过消费 kafka 中的 mysql binlog 同步数据，有没有好的办法可以进行 join？ join 的两个表的变更不一定在一个时间窗口内",
+        "link": "https://www.v2ex.com/t/820855",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "关于我对「无线充电伤电池」问题的一点研究",
+        "link": "https://www.v2ex.com/t/820854",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "大家能保持全神贯注 coding 的最长工作时间是多久",
+        "link": "https://www.v2ex.com/t/820853",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "2021 了，腾讯王卡+王卡宽带是否还是联通最划算的套餐？",
+        "link": "https://www.v2ex.com/t/820852",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "FFmpeg -progress url Isn't working",
+        "link": "https://www.v2ex.com/t/820850",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "部分应用右上角通知无法弹出",
+        "link": "https://www.v2ex.com/t/820849",
+        "date": "2021-12-08"
+      },
+      {
         "title": "互联网黑话终极篇，既视感太强",
         "link": "https://www.v2ex.com/t/820848",
         "date": "2021-12-08"
@@ -7767,36 +7802,6 @@
         "title": "js 如何实现对象值复制？",
         "link": "https://www.v2ex.com/t/820807",
         "date": "2021-12-08"
-      },
-      {
-        "title": "[五道口急招!][不卡学历!]全栈、后端工程师[Github 万星 star 开源项目 Wechaty][20k-50k]",
-        "link": "https://www.v2ex.com/t/820805",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "被同事 pua 怎么办？",
-        "link": "https://www.v2ex.com/t/820803",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "腾讯轻量云发现未知公钥 ssh，求问这是什么情况",
-        "link": "https://www.v2ex.com/t/820802",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "我觉得飞书挺好用的，但这做法就不明白了",
-        "link": "https://www.v2ex.com/t/820801",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "请教一个 wireguard 网络出口问题",
-        "link": "https://www.v2ex.com/t/820800",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "看隔壁 90 后有感",
-        "link": "https://www.v2ex.com/t/820799",
-        "date": "2021-12-08"
       }
     ]
   },
@@ -7983,6 +7988,11 @@
         "date": "2021-12-08"
       },
       {
+        "title": "沙盒化容器：是容器还是虚拟机",
+        "link": "https://toutiao.io/k/5k4x5ha",
+        "date": "2021-12-08"
+      },
+      {
         "title": "效率提升看得见！神策 A/B 测试可视化试验能力正式上线",
         "link": "https://toutiao.io/k/2rnc4h7",
         "date": "2021-12-08"
@@ -7990,11 +8000,6 @@
       {
         "title": "年底巩固下 CS 知识（GitHub 热点速览）",
         "link": "https://toutiao.io/k/anl6l5t",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "沙盒化容器：是容器还是虚拟机",
-        "link": "https://toutiao.io/k/5k4x5ha",
         "date": "2021-12-08"
       },
       {
@@ -8013,46 +8018,6 @@
         "date": "2021-12-08"
       },
       {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 读者诉苦：Redis 宕机，数据丢了，老板要辞退我",
-        "link": "https://toutiao.io/k/xa7jahy",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
-        "link": "https://toutiao.io/k/8k28pnf",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 字节跳动飞书文档的 Web 极致性能优化",
-        "link": "https://toutiao.io/k/v1nqbu5",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
-        "date": "2021-12-08"
-      },
-      {
         "title": "[推荐] 我的绘图工具箱",
         "link": "https://toutiao.io/k/cpcd1i2",
         "date": "2021-12-08"
@@ -8063,8 +8028,13 @@
         "date": "2021-12-08"
       },
       {
-        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
-        "link": "https://toutiao.io/k/96zw0k6",
+        "title": "[推荐] 读者诉苦：Redis 宕机，数据丢了，老板要辞退我",
+        "link": "https://toutiao.io/k/xa7jahy",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
         "date": "2021-12-08"
       },
       {
@@ -8073,8 +8043,28 @@
         "date": "2021-12-08"
       },
       {
+        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
+        "link": "https://toutiao.io/k/004032c",
+        "date": "2021-12-08"
+      },
+      {
         "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
         "link": "https://toutiao.io/k/h7wj37b",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 字节跳动飞书文档的 Web 极致性能优化",
+        "link": "https://toutiao.io/k/v1nqbu5",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
         "date": "2021-12-08"
       },
       {
@@ -8083,8 +8073,23 @@
         "date": "2021-12-08"
       },
       {
-        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
-        "link": "https://toutiao.io/k/004032c",
+        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
+        "link": "https://toutiao.io/k/8k28pnf",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] Golang 编程思维和工程实战",
+        "link": "https://toutiao.io/k/usjzg6m",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
         "date": "2021-12-08"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 16:32:52，:rocket: 更新条数: +1568， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 17:01:03，:rocket: 更新条数: +1568， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-08-有了后端-API-接口，怎样快速创建一个-Web-CRUD-前端页面？](https://www.v2ex.com/t/821005) ![](assets/new.png)  
+- [2021-12-08-mbp-有办法不更新到最新版本的-macOS-嘛](https://www.v2ex.com/t/821003) ![](assets/new.png)  
 - [2021-12-08-你们公司的-django-项目如何](https://www.v2ex.com/t/821002) ![](assets/new.png)  
 - [2021-12-08-支持-3D-Touch-的屏幕最大的设备是什么？](https://www.v2ex.com/t/821001) ![](assets/new.png)  
 - [2021-12-08-大家的-mbp-定制机发货/延期了吗？](https://www.v2ex.com/t/821000) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-08-为什么-Ubuntu-20.04-外接-4K-显示器总有种性能不足的感觉](https://www.v2ex.com/t/820987) ![](assets/new.png)  
 - [2021-12-08-macos12-上的图书同步是不是有问题](https://www.v2ex.com/t/820986) ![](assets/new.png)  
 - [2021-12-08-大佬们-蓝牙-cpcl-打印指令-有啥可调试的东西吗](https://www.v2ex.com/t/820985) ![](assets/new.png)  
-- [2021-12-08-不懂就问，光猫桥接以后，千兆带宽-r6300-v2-只能跑到一半的速度，不知道为什么。是性能不够吗？](https://www.v2ex.com/t/820984) ![](assets/new.png)  
-- [2021-12-08-再次代友发，他们需要的人更多了-深圳-前端|-后端|-全栈工程师-|-产品经理-|-全职/实习-|-合规区块链-|-区块链开发者工具头部-|-落地百度超级链,腾讯-TBaas-...](https://www.v2ex.com/t/820982) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

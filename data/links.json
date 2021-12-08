@@ -5,8 +5,13 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "12月7日全国新增新冠74例 四省份本土44例",
-        "link": "https://m.caixin.com/m/2021-12-08/101814934.html",
+        "title": "最新疫情：全国新冠累计确诊99371例 累计接种新冠疫苗超25.67亿剂次",
+        "link": "https://m.caixin.com/m/2021-12-08/101815239.html",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "最新海外疫情：新冠感染超2.66亿 累计接种新冠疫苗超82.24亿剂次",
+        "link": "https://m.caixin.com/m/2021-12-08/101815236.html",
         "date": "2021-12-08"
       },
       {
@@ -22,11 +27,6 @@
       {
         "title": "浙江三日累计19例阳性 上海新增1例密接确诊",
         "link": "https://m.caixin.com/m/2021-12-07/101814873.html",
-        "date": "2021-12-07"
-      },
-      {
-        "title": "最新海外疫情：新冠感染超2.65亿 累计接种新冠疫苗超81.85亿剂次",
-        "link": "https://m.caixin.com/m/2021-12-07/101814784.html",
         "date": "2021-12-07"
       },
       {
@@ -7579,6 +7579,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求个牛津高阶英汉双解.dictionary 格式的字典",
+        "link": "https://www.v2ex.com/t/820937",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "可以在桌面上常驻的清单类 应用",
+        "link": "https://www.v2ex.com/t/820936",
+        "date": "2021-12-08"
+      },
+      {
         "title": "毕业设计-分布式存储？",
         "link": "https://www.v2ex.com/t/820935",
         "date": "2021-12-08"
@@ -7766,21 +7776,6 @@
       {
         "title": "Java 中类似 Django admin 的框架推荐",
         "link": "https://www.v2ex.com/t/820889",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "新 mbp 周末到，问一下 ac+必须在工作日内申请吗？不能在周末申请？",
-        "link": "https://www.v2ex.com/t/820888",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "这种 MagSafe 充电器平替，能解决原装的发热问题吗？",
-        "link": "https://www.v2ex.com/t/820887",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "如何正确的提涨薪？或者说如何正确的判断自己的价值？",
-        "link": "https://www.v2ex.com/t/820886",
         "date": "2021-12-08"
       }
     ]
@@ -7998,58 +7993,8 @@
         "date": "2021-12-08"
       },
       {
-        "title": "[推荐] 如何做好一份程序员的工作汇报 ppt？",
-        "link": "https://toutiao.io/k/1byulsh",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
-        "link": "https://toutiao.io/k/h7wj37b",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 读者诉苦：Redis 宕机，数据丢了，老板要辞退我",
-        "link": "https://toutiao.io/k/xa7jahy",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
-        "link": "https://toutiao.io/k/004032c",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 字节跳动飞书文档的 Web 极致性能优化",
-        "link": "https://toutiao.io/k/v1nqbu5",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
-        "link": "https://toutiao.io/k/96zw0k6",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] Golang 编程思维和工程实战",
-        "link": "https://toutiao.io/k/usjzg6m",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
+        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
+        "link": "https://toutiao.io/k/huoy9s9",
         "date": "2021-12-08"
       },
       {
@@ -8058,8 +8003,23 @@
         "date": "2021-12-08"
       },
       {
-        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
-        "link": "https://toutiao.io/k/huoy9s9",
+        "title": "[推荐] 读者诉苦：Redis 宕机，数据丢了，老板要辞退我",
+        "link": "https://toutiao.io/k/xa7jahy",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
+        "link": "https://toutiao.io/k/8k28pnf",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 字节跳动飞书文档的 Web 极致性能优化",
+        "link": "https://toutiao.io/k/v1nqbu5",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
+        "link": "https://toutiao.io/k/004032c",
         "date": "2021-12-08"
       },
       {
@@ -8068,8 +8028,43 @@
         "date": "2021-12-08"
       },
       {
-        "title": "[推荐] 我的绘图工具箱",
-        "link": "https://toutiao.io/k/cpcd1i2",
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
+        "link": "https://toutiao.io/k/h7wj37b",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] Golang 编程思维和工程实战",
+        "link": "https://toutiao.io/k/usjzg6m",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 如何做好一份程序员的工作汇报 ppt？",
+        "link": "https://toutiao.io/k/1byulsh",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
+        "link": "https://toutiao.io/k/96zw0k6",
         "date": "2021-12-08"
       }
     ]

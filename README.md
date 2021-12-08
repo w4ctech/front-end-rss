@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 10:24:36，:rocket: 更新条数: +1567， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 10:42:37，:rocket: 更新条数: +1566， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,11 +65,11 @@
 </summary>
 
 
-- [2021-12-08-12月7日全国新增新冠74例-四省份本土44例](https://m.caixin.com/m/2021-12-08/101814934.html) ![](assets/new.png)  
+- [2021-12-08-最新疫情：全国新冠累计确诊99371例-累计接种新冠疫苗超25.67亿剂次](https://m.caixin.com/m/2021-12-08/101815239.html) ![](assets/new.png)  
+- [2021-12-08-最新海外疫情：新冠感染超2.66亿-累计接种新冠疫苗超82.24亿剂次](https://m.caixin.com/m/2021-12-08/101815236.html) ![](assets/new.png)  
 - [2021-12-08-【境内疫情观察】全国新增44例本土病例（12月7日）](https://database.caixin.com/m/2021-12-08/101815122.html) ![](assets/new.png)  
 - [2021-12-08-新毒株或降低疫苗保护能力，世卫叫停新冠血浆疗法｜大流行手记（12月7日）](https://m.caixin.com/m/2021-12-08/101814949.html) ![](assets/new.png)  
 - [2021-12-07-浙江三日累计19例阳性-上海新增1例密接确诊](https://m.caixin.com/m/2021-12-07/101814873.html) ![](assets/new.png)  
-- [2021-12-07-最新海外疫情：新冠感染超2.65亿-累计接种新冠疫苗超81.85亿剂次](https://m.caixin.com/m/2021-12-07/101814784.html) ![](assets/new.png)  
 - [2021-12-07-【境内疫情观察】浙江宁波镇海区实施临时封闭管理（12月6日）](https://database.caixin.com/m/2021-12-07/101814603.html) ![](assets/new.png)  
 - [2021-12-07-福奇称Omicron致病性早期信号积极-南非感染人数猛增｜大流行手记（-12月6日）](https://m.caixin.com/m/2021-12-07/101814482.html) ![](assets/new.png)  
 - [2021-12-06-宁波通报3例核酸阳性-与近期国内多地德尔塔变异株高度同源](https://m.caixin.com/m/2021-12-06/101814070.html) ![](assets/new.png)  
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-08-求个牛津高阶英汉双解.dictionary-格式的字典](https://www.v2ex.com/t/820937) ![](assets/new.png)  
+- [2021-12-08-可以在桌面上常驻的清单类-应用](https://www.v2ex.com/t/820936) ![](assets/new.png)  
 - [2021-12-08-毕业设计-分布式存储？](https://www.v2ex.com/t/820935) ![](assets/new.png)  
 - [2021-12-08-Spotify-连上了不认识的设备？有朋友遇到过吗](https://www.v2ex.com/t/820934) ![](assets/new.png)  
 - [2021-12-08-iPhone-上快捷指令朗读报错](https://www.v2ex.com/t/820933) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-08-求推荐靠谱的非官方-MBP-维修](https://www.v2ex.com/t/820917) ![](assets/new.png)  
 - [2021-12-08-北京/深圳/杭州/上海抖音开放平台招前端、服务端、安卓、iOS、引擎工程师](https://www.v2ex.com/t/820916) ![](assets/new.png)  
 - [2021-12-08-M1-Mac-装-iOS-App-过段时间会暗屏怎么解决？](https://www.v2ex.com/t/820915) ![](assets/new.png)  
-- [2021-12-08-北京上海backend-engineer-薪资-50-100w](https://www.v2ex.com/t/820913) ![](assets/new.png)  
-- [2021-12-08-可能是史上最全的云计算降本攻略（聊一聊我如何帮朋友节省了-100-万云成本）](https://www.v2ex.com/t/820911) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

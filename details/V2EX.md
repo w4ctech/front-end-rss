@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-12-08 10:14:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-08 10:24:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-08-毕业设计-分布式存储？](https://www.v2ex.com/t/820935) 
+- [2021-12-08-Spotify-连上了不认识的设备？有朋友遇到过吗](https://www.v2ex.com/t/820934) 
+- [2021-12-08-iPhone-上快捷指令朗读报错](https://www.v2ex.com/t/820933) 
 - [2021-12-08-力扣怎么看到全部代码](https://www.v2ex.com/t/820932) 
 - [2021-12-08-如何让-Windows-在有线连接网络的情况下依然自动连接-WiFi？](https://www.v2ex.com/t/820931) 
 - [2021-12-08-一个想法：粘贴板炸弹软件，专治流氓读取粘贴板内容](https://www.v2ex.com/t/820930) 
@@ -39,10 +42,7 @@
 - [2021-12-08-AirPods-Max-和-Oculus-Quest-2-二选一买哪个好呢？](https://www.v2ex.com/t/820894) 
 - [2021-12-08-有没有类似-hashids-的可加密字符串,可设置长度,可逆的包?](https://www.v2ex.com/t/820892) 
 - [2021-12-08-网页打印-CSS-兼容问题](https://www.v2ex.com/t/820891) 
-- [2021-12-08-你们说我问这个这个有用么。。。（手动狗头）](https://www.v2ex.com/t/820890) 
 - [2021-12-08-Java-中类似-Django-admin-的框架推荐](https://www.v2ex.com/t/820889) 
 - [2021-12-08-新-mbp-周末到，问一下-ac+必须在工作日内申请吗？不能在周末申请？](https://www.v2ex.com/t/820888) 
 - [2021-12-08-这种-MagSafe-充电器平替，能解决原装的发热问题吗？](https://www.v2ex.com/t/820887) 
 - [2021-12-08-如何正确的提涨薪？或者说如何正确的判断自己的价值？](https://www.v2ex.com/t/820886) 
-- [2021-12-08-airpods-pro-支持补买-apple-care+吗？](https://www.v2ex.com/t/820884) 
-- [2021-12-08-公司年前-20-人-年底只剩下-4-人-年后只剩下-3-个人](https://www.v2ex.com/t/820883) 

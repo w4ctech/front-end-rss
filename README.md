@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 14:12:26，:rocket: 更新条数: +1565， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 14:21:00，:rocket: 更新条数: +1564， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-08-再次代友发，他们需要的人更多了-深圳-前端|-后端|-全栈工程师-|-产品经理-|-全职/实习-|-合规区块链-|-区块链开发者工具头部-|-落地百度超级链,腾讯-TBaas-...](https://www.v2ex.com/t/820982) ![](assets/new.png)  
+- [2021-12-08-群晖-6.2.4-要不要升-7.0.1？](https://www.v2ex.com/t/820981) ![](assets/new.png)  
+- [2021-12-08-深圳光明区六号线找房子](https://www.v2ex.com/t/820980) ![](assets/new.png)  
+- [2021-12-08-程序员在北京怎么找到朝九晚六的工作?](https://www.v2ex.com/t/820979) ![](assets/new.png)  
 - [2021-12-08-Java-部署多个环境问题](https://www.v2ex.com/t/820978) ![](assets/new.png)  
 - [2021-12-08-新加坡/可远程-金融公司-招聘-Python-20K-~-40K](https://www.v2ex.com/t/820977) ![](assets/new.png)  
 - [2021-12-08-上海全职-WFH-初创招前端及后端](https://www.v2ex.com/t/820975) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-08-这种动态图动态视频是用什么软件做的？](https://www.v2ex.com/t/820959) ![](assets/new.png)  
 - [2021-12-08-全职远程/长期稳定-区块链应用层技术公司-前端/后端/全栈/UIUX/产品/运维/测试](https://www.v2ex.com/t/820958) ![](assets/new.png)  
 - [2021-12-08-凑个热闹，如何吃到元宇宙红利？](https://www.v2ex.com/t/820956) ![](assets/new.png)  
-- [2021-12-08-创业失败，在流浪](https://www.v2ex.com/t/820955) ![](assets/new.png)  
-- [2021-12-08-南京--运满满，有意者给我简历呀](https://www.v2ex.com/t/820953) ![](assets/new.png)  
-- [2021-12-08-点了美团外卖刚给差评不到-1-小时就收到商家电话](https://www.v2ex.com/t/820951) ![](assets/new.png)  
-- [2021-12-08-群晖-Drive-3.1-要来了。](https://www.v2ex.com/t/820949) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2021-12-08-深入理解-MQ-生产端的底层通信过程：理解-channel](https://toutiao.io/k/h2av1kt) ![](assets/new.png)  
 - [2021-12-08-RocketMQ-分享](https://toutiao.io/k/to0i0qa) ![](assets/new.png)  
 - [2021-12-08-推荐几个可以写到简历上的-Go-方向优质开源项目](https://toutiao.io/k/3ec4pi8) ![](assets/new.png)  
-- [2021-12-08-我好像发现了一个-Go-的-Bug？](https://toutiao.io/k/z2el6ey) ![](assets/new.png)  
 - [2021-12-08-关于小程序的一切，读这一篇就够了](https://toutiao.io/k/1i0tnxr) ![](assets/new.png)  
+- [2021-12-08-我好像发现了一个-Go-的-Bug？](https://toutiao.io/k/z2el6ey) ![](assets/new.png)  
 - [2021-12-08-聊聊如何实现一个带有拦截器功能的-SPI](https://toutiao.io/k/xgkfjhs) ![](assets/new.png)  
 - [2021-12-08-使用-Rust-编写更快的-React-组件](https://toutiao.io/k/nu8k11t) ![](assets/new.png)  
 - [2021-12-08-Java-类的-Linking-和-Initializing-简单笔记](https://toutiao.io/k/8s73s9d) ![](assets/new.png)  

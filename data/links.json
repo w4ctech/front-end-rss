@@ -7574,6 +7574,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有类似 hashids 的可加密字符串,可设置长度,可逆的包?",
+        "link": "https://www.v2ex.com/t/820892",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "网页打印 CSS 兼容问题",
+        "link": "https://www.v2ex.com/t/820891",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "你们说我问这个这个有用么。。。（手动狗头）",
+        "link": "https://www.v2ex.com/t/820890",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "Java 中类似 Django admin 的框架推荐",
+        "link": "https://www.v2ex.com/t/820889",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "新 mbp 周末到，问一下 ac+必须在工作日内申请吗？不能在周末申请？",
+        "link": "https://www.v2ex.com/t/820888",
+        "date": "2021-12-08"
+      },
+      {
         "title": "这种 MagSafe 充电器平替，能解决原装的发热问题吗？",
         "link": "https://www.v2ex.com/t/820887",
         "date": "2021-12-08"
@@ -7721,26 +7746,6 @@
       {
         "title": "iphone13 锁屏无法播放微信语音",
         "link": "https://www.v2ex.com/t/820843",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "为啥越忙越不容易集中精力呢？",
-        "link": "https://www.v2ex.com/t/820841",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "M1 Pro 上各浏览器 B 站视频功耗最高差 3 倍，背后原因令人暖心",
-        "link": "https://www.v2ex.com/t/820840",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "JS 如何复制一个函数？",
-        "link": "https://www.v2ex.com/t/820839",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "请教一下大家 mac 连接雷电 3 dock 扩展双屏的问题",
-        "link": "https://www.v2ex.com/t/820838",
         "date": "2021-12-08"
       }
     ]
@@ -7948,78 +7953,13 @@
         "date": "2021-12-08"
       },
       {
-        "title": "透过一个编译报错，总结两个 Go 程序编译的重要知识",
-        "link": "https://toutiao.io/k/6eox08c",
-        "date": "2021-12-08"
-      },
-      {
         "title": "伴鱼基于 Flink 构建数据集成平台的设计与实现",
         "link": "https://toutiao.io/k/tecz86o",
         "date": "2021-12-08"
       },
       {
-        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
-        "link": "https://toutiao.io/k/huoy9s9",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
-        "link": "https://toutiao.io/k/004032c",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 读者诉苦：Redis 宕机，数据丢了，老板要辞退我",
-        "link": "https://toutiao.io/k/xa7jahy",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 我的绘图工具箱",
-        "link": "https://toutiao.io/k/cpcd1i2",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 字节跳动飞书文档的 Web 极致性能优化",
-        "link": "https://toutiao.io/k/v1nqbu5",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] Golang 编程思维和工程实战",
-        "link": "https://toutiao.io/k/usjzg6m",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
-        "link": "https://toutiao.io/k/8k28pnf",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
-        "link": "https://toutiao.io/k/h7wj37b",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 如何做好一份程序员的工作汇报 ppt？",
-        "link": "https://toutiao.io/k/1byulsh",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
+        "title": "透过一个编译报错，总结两个 Go 程序编译的重要知识",
+        "link": "https://toutiao.io/k/6eox08c",
         "date": "2021-12-08"
       },
       {
@@ -8028,8 +7968,73 @@
         "date": "2021-12-08"
       },
       {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
+        "title": "[推荐] 字节跳动飞书文档的 Web 极致性能优化",
+        "link": "https://toutiao.io/k/v1nqbu5",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
+        "link": "https://toutiao.io/k/h7wj37b",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
+        "link": "https://toutiao.io/k/004032c",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 1 万行代码，单机 50 万 QPS，今年最值得学习的开源 RPC 框架",
+        "link": "https://toutiao.io/k/5fkacdj",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 我的绘图工具箱",
+        "link": "https://toutiao.io/k/cpcd1i2",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 读者诉苦：Redis 宕机，数据丢了，老板要辞退我",
+        "link": "https://toutiao.io/k/xa7jahy",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
+        "link": "https://toutiao.io/k/huoy9s9",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] Golang 编程思维和工程实战",
+        "link": "https://toutiao.io/k/usjzg6m",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 如何做好一份程序员的工作汇报 ppt？",
+        "link": "https://toutiao.io/k/1byulsh",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
         "date": "2021-12-08"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 07:40:49，:rocket: 更新条数: +1559， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 07:54:34，:rocket: 更新条数: +1560， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-08-有没有类似-hashids-的可加密字符串,可设置长度,可逆的包?](https://www.v2ex.com/t/820892) ![](assets/new.png)  
+- [2021-12-08-网页打印-CSS-兼容问题](https://www.v2ex.com/t/820891) ![](assets/new.png)  
+- [2021-12-08-你们说我问这个这个有用么。。。（手动狗头）](https://www.v2ex.com/t/820890) ![](assets/new.png)  
+- [2021-12-08-Java-中类似-Django-admin-的框架推荐](https://www.v2ex.com/t/820889) ![](assets/new.png)  
+- [2021-12-08-新-mbp-周末到，问一下-ac+必须在工作日内申请吗？不能在周末申请？](https://www.v2ex.com/t/820888) ![](assets/new.png)  
 - [2021-12-08-这种-MagSafe-充电器平替，能解决原装的发热问题吗？](https://www.v2ex.com/t/820887) ![](assets/new.png)  
 - [2021-12-08-如何正确的提涨薪？或者说如何正确的判断自己的价值？](https://www.v2ex.com/t/820886) ![](assets/new.png)  
 - [2021-12-08-斐讯路由-0-元购诈骗-110-万人超过-125-亿-创始人顾国平被判无期](https://www.v2ex.com/t/820885) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-08-一个带冷启动优化的单机-Serverless-框架](https://www.v2ex.com/t/820869) ![](assets/new.png)  
 - [2021-12-08-微博是有什么大病嘛？找回密码不能用原始邮箱](https://www.v2ex.com/t/820866) ![](assets/new.png)  
 - [2021-12-08-RAID10-的读写速度](https://www.v2ex.com/t/820864) ![](assets/new.png)  
-- [2021-12-08-iOS-美服订阅是结算的时候才收费的吗？](https://www.v2ex.com/t/820862) ![](assets/new.png)  
-- [2021-12-08-中文互联网社区中用户的什么行为最让你反感，什么行为又最让你感觉到很有趣（褒义）？](https://www.v2ex.com/t/820858) ![](assets/new.png)  
-- [2021-12-08-租房的有租过那种床位房的吗，什么体验？](https://www.v2ex.com/t/820857) ![](assets/new.png)  
-- [2021-12-08-通过消费-kafka-中的-mysql-binlog-同步数据，有没有好的办法可以进行-join？-join-的两个表的变更不一定在一个时间窗口内](https://www.v2ex.com/t/820855) ![](assets/new.png)  
-- [2021-12-08-关于我对「无线充电伤电池」问题的一点研究](https://www.v2ex.com/t/820854) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2021-12-08-效率提升看得见！神策-A/B-测试可视化试验能力正式上线](https://toutiao.io/k/2rnc4h7) ![](assets/new.png)  
 - [2021-12-08-年底巩固下-CS-知识（GitHub-热点速览）](https://toutiao.io/k/anl6l5t) ![](assets/new.png)  
 - [2021-12-08-软件测试的底层逻辑是什么？](https://toutiao.io/k/0dp8i07) ![](assets/new.png)  
-- [2021-12-08-透过一个编译报错，总结两个-Go-程序编译的重要知识](https://toutiao.io/k/6eox08c) ![](assets/new.png)  
 - [2021-12-08-伴鱼基于-Flink-构建数据集成平台的设计与实现](https://toutiao.io/k/tecz86o) ![](assets/new.png)  
+- [2021-12-08-透过一个编译报错，总结两个-Go-程序编译的重要知识](https://toutiao.io/k/6eox08c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

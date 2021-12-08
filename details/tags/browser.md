@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-08 04:55:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-08 05:12:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,5 @@
 - [2021-12-08-Firefox-现在可以在微软商店里面下载了，商店版似乎会少一个后台的更新服务](https://www.v2ex.com/t/820836) 
 - [2021-12-08-IOS-15-密码自动填充使用-Edge-作源无法带出密码](https://www.v2ex.com/t/820832) 
 - [2021-12-08-初学者求问：-2021-年，你们调试-Android-程序用什么设备？](https://www.v2ex.com/t/820793) 
-- [2021-12-08-请问大家-Safari-浏览网页时是双指上下滑动还是三指?](https://www.v2ex.com/t/820791) 
 - [2021-12-08-一文全面解析Postman工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14822&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D2%26amp%3Bsn%3D6685cc0bdb157fdc2f96a3d5138c32a1%26amp%3Bchksm%3Dfa3f0233cd488b25305e2c20fefcdaeebf7046b99dacfbde10068aa9995312ff4f9100a496c7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-08-开发人员的安全意识-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14817&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-security-awareness%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

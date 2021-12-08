@@ -7574,6 +7574,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "为啥越忙越不容易集中精力呢？",
+        "link": "https://www.v2ex.com/t/820841",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "M1 Pro 上各浏览器 B 站视频功耗最高差 3 倍，背后原因令人暖心",
+        "link": "https://www.v2ex.com/t/820840",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "JS 如何复制一个函数？",
+        "link": "https://www.v2ex.com/t/820839",
+        "date": "2021-12-08"
+      },
+      {
         "title": "请教一下大家 mac 连接雷电 3 dock 扩展双屏的问题",
         "link": "https://www.v2ex.com/t/820838",
         "date": "2021-12-08"
@@ -7772,26 +7787,6 @@
         "title": "初学者求问： 2021 年，你们调试 Android 程序用什么设备？",
         "link": "https://www.v2ex.com/t/820793",
         "date": "2021-12-08"
-      },
-      {
-        "title": "无线充电特别伤电池？",
-        "link": "https://www.v2ex.com/t/820792",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "请问大家 Safari 浏览网页时是双指上下滑动还是三指?",
-        "link": "https://www.v2ex.com/t/820791",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "Typora for mac 安装包 10.2M，安装完成 32M，原生开发的吗？",
-        "link": "https://www.v2ex.com/t/820790",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[前端] 北京/青岛 [前端开发工程师+前端技术负责人] [高薪/面议]",
-        "link": "https://www.v2ex.com/t/820789",
-        "date": "2021-12-08"
       }
     ]
   },
@@ -7913,13 +7908,13 @@
         "date": "2021-12-08"
       },
       {
-        "title": "我好像发现了一个 Go 的 Bug？",
-        "link": "https://toutiao.io/k/z2el6ey",
+        "title": "RocketMQ 分享",
+        "link": "https://toutiao.io/k/to0i0qa",
         "date": "2021-12-08"
       },
       {
-        "title": "RocketMQ 分享",
-        "link": "https://toutiao.io/k/to0i0qa",
+        "title": "我好像发现了一个 Go 的 Bug？",
+        "link": "https://toutiao.io/k/z2el6ey",
         "date": "2021-12-08"
       },
       {
@@ -7998,6 +7993,36 @@
         "date": "2021-12-08"
       },
       {
+        "title": "透过一个编译报错，总结两个 Go 程序编译的重要知识",
+        "link": "https://toutiao.io/k/6eox08c",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "伴鱼基于 Flink 构建数据集成平台的设计与实现",
+        "link": "https://toutiao.io/k/tecz86o",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] Golang 编程思维和工程实战",
+        "link": "https://toutiao.io/k/usjzg6m",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
+        "link": "https://toutiao.io/k/huoy9s9",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
+        "date": "2021-12-08"
+      },
+      {
         "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
         "link": "https://toutiao.io/k/004032c",
         "date": "2021-12-08"
@@ -8008,43 +8033,8 @@
         "date": "2021-12-08"
       },
       {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] Golang 编程思维和工程实战",
-        "link": "https://toutiao.io/k/usjzg6m",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
-        "link": "https://toutiao.io/k/huoy9s9",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
-        "link": "https://toutiao.io/k/8k28pnf",
-        "date": "2021-12-08"
-      },
-      {
         "title": "[推荐] 程序员的 10 个好习惯",
         "link": "https://toutiao.io/k/2y6pnqa",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 如何做好一份程序员的工作汇报 ppt？",
-        "link": "https://toutiao.io/k/1byulsh",
         "date": "2021-12-08"
       },
       {
@@ -8053,8 +8043,8 @@
         "date": "2021-12-08"
       },
       {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
+        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
+        "link": "https://toutiao.io/k/8k28pnf",
         "date": "2021-12-08"
       },
       {
@@ -8063,8 +8053,23 @@
         "date": "2021-12-08"
       },
       {
+        "title": "[推荐] 如何做好一份程序员的工作汇报 ppt？",
+        "link": "https://toutiao.io/k/1byulsh",
+        "date": "2021-12-08"
+      },
+      {
         "title": "[推荐] 读者诉苦：Redis 宕机，数据丢了，老板要辞退我",
         "link": "https://toutiao.io/k/xa7jahy",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
         "date": "2021-12-08"
       },
       {

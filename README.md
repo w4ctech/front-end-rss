@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 08:15:24，:rocket: 更新条数: +102， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 08:26:59，:rocket: 更新条数: +1558， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-12-08-12月7日全国新增新冠74例-四省份本土44例](https://m.caixin.com/m/2021-12-08/101814934.html) ![](assets/new.png)  
+- [2021-12-08-新毒株或降低疫苗保护能力，世卫叫停新冠血浆疗法｜大流行手记（12月7日）](https://m.caixin.com/m/2021-12-08/101814949.html) ![](assets/new.png)  
+- [2021-12-07-浙江三日累计19例阳性-上海新增1例密接确诊](https://m.caixin.com/m/2021-12-07/101814873.html) ![](assets/new.png)  
+- [2021-12-07-最新海外疫情：新冠感染超2.65亿-累计接种新冠疫苗超81.85亿剂次](https://m.caixin.com/m/2021-12-07/101814784.html) ![](assets/new.png)  
+- [2021-12-07-【境内疫情观察】浙江宁波镇海区实施临时封闭管理（12月6日）](https://database.caixin.com/m/2021-12-07/101814603.html) ![](assets/new.png)  
+- [2021-12-07-福奇称Omicron致病性早期信号积极-南非感染人数猛增｜大流行手记（-12月6日）](https://m.caixin.com/m/2021-12-07/101814482.html) ![](assets/new.png)  
+- [2021-12-06-宁波通报3例核酸阳性-与近期国内多地德尔塔变异株高度同源](https://m.caixin.com/m/2021-12-06/101814070.html) ![](assets/new.png)  
+- [2021-12-06-广西通报2名非法入境阳性感染者轨迹-一人为此前福建安溪病例](https://m.caixin.com/m/2021-12-06/101814120.html) ![](assets/new.png)  
+- [2021-12-06-【境内疫情观察】全国新增38例本土病例（12月5日）](https://database.caixin.com/m/2021-12-06/101814170.html) ![](assets/new.png)  
+- [2021-12-06-Omicron或含感冒病毒基因片段-美国单日病例再超10万例｜大流行手记（12月5日）](https://m.caixin.com/m/2021-12-06/101814016.html) ![](assets/new.png)  
+- [2021-12-05-福建安溪一境外入境人员核酸阳性-石家庄与满洲里疫情同传播链](https://m.caixin.com/m/2021-12-05/101813954.html) ![](assets/new.png)  
+- [2021-12-05-【境内疫情观察】全国新增42例本土病例（12月4日）](https://database.caixin.com/m/2021-12-05/101813961.html) ![](assets/new.png)  
+- [2021-12-05-南非低龄入院患者增加，新毒株或加剧欧洲社会危机｜大流行手记（12月4日）](https://m.caixin.com/m/2021-12-05/101813888.html) ![](assets/new.png)  
+- [2021-12-04-满洲里疫情确认为德尔塔变异株-广州新增1例本土确诊](https://m.caixin.com/m/2021-12-04/101813864.html) ![](assets/new.png)  
+- [2021-12-04-隔离酒店一工作人员感染德尔塔-广州白云区新增一中风险地区](https://m.caixin.com/m/2021-12-04/101813612.html) ![](assets/new.png)  
+- [2021-12-04-上海新增1例本土无症状感染者-公布此次疫情初步溯源结果](https://m.caixin.com/m/2021-12-04/101813657.html) ![](assets/new.png)  
+- [2021-12-04-【境内疫情观察】全国六地新增75例本土病例（12月3日）](https://database.caixin.com/m/2021-12-04/101813793.html) ![](assets/new.png)  
+- [2021-12-04-欧洲大流行速度加快-发生Omicron“超级传播事件”｜大流行手记（12月3日）](https://m.caixin.com/m/2021-12-04/101813688.html) ![](assets/new.png)  
+- [2021-12-03-封面报道｜Omicron悬念](https://weekly.caixin.com/m/2021-12-03/101813227.html) ![](assets/new.png)  
+- [2021-12-03-满洲里累计确诊263例-河北石家庄现关联病例](https://m.caixin.com/m/2021-12-03/101813531.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -474,6 +494,8 @@
 </summary>
 
 
+- [2021-12-08-Excel-单元格-GP422101031000001-无法拖拉，获得自动增序](https://www.v2ex.com/t/820898) ![](assets/new.png)  
+- [2021-12-08-垮掉的一代](https://www.v2ex.com/t/820896) ![](assets/new.png)  
 - [2021-12-08-移动营业厅-APP-居然想要-root-权限？！](https://www.v2ex.com/t/820895) ![](assets/new.png)  
 - [2021-12-08-AirPods-Max-和-Oculus-Quest-2-二选一买哪个好呢？](https://www.v2ex.com/t/820894) ![](assets/new.png)  
 - [2021-12-08-有没有类似-hashids-的可加密字符串,可设置长度,可逆的包?](https://www.v2ex.com/t/820892) ![](assets/new.png)  
@@ -492,8 +514,6 @@
 - [2021-12-08-看隔壁-80-后和海外定居有感](https://www.v2ex.com/t/820877) ![](assets/new.png)  
 - [2021-12-08-租房合同上写提前退租，不返回已付租金和押金，我是不是要不回来了](https://www.v2ex.com/t/820875) ![](assets/new.png)  
 - [2021-12-08-v-友们，哪个券商-手续比较低呢？](https://www.v2ex.com/t/820873) ![](assets/new.png)  
-- [2021-12-08-坐标深圳，大量招-PHP-开发（30-人），月薪-13~26k](https://www.v2ex.com/t/820870) ![](assets/new.png)  
-- [2021-12-08-一个带冷启动优化的单机-Serverless-框架](https://www.v2ex.com/t/820869) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -7579,6 +7579,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大佬们分享下最新的小火煎规则",
+        "link": "https://www.v2ex.com/t/820914",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[北京][上海]backend engineer 薪资 50-100w",
+        "link": "https://www.v2ex.com/t/820913",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "请问 navicat 用注册机破解后会有窃取数据库地址和账号密码的风险吗",
+        "link": "https://www.v2ex.com/t/820912",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "可能是史上最全的云计算降本攻略（聊一聊我如何帮朋友节省了 100 万云成本）",
+        "link": "https://www.v2ex.com/t/820911",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "为什么京东上产品价格总是反复横跳？",
+        "link": "https://www.v2ex.com/t/820910",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[上海] 程序猿创业/副业交流、心得分享、共同合作",
+        "link": "https://www.v2ex.com/t/820909",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "docker-compose volume 疑问",
+        "link": "https://www.v2ex.com/t/820908",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "父母对我唯一的心愿--我找到对象",
+        "link": "https://www.v2ex.com/t/820907",
+        "date": "2021-12-08"
+      },
+      {
         "title": "[求推荐] 适合 Mac 系统的 5K 显示屏",
         "link": "https://www.v2ex.com/t/820906",
         "date": "2021-12-08"
@@ -7726,26 +7766,6 @@
       {
         "title": "微博是有什么大病嘛？找回密码不能用原始邮箱",
         "link": "https://www.v2ex.com/t/820866",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "RAID10 的读写速度",
-        "link": "https://www.v2ex.com/t/820864",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "iOS 美服订阅是结算的时候才收费的吗？",
-        "link": "https://www.v2ex.com/t/820862",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "中文互联网社区中用户的什么行为最让你反感，什么行为又最让你感觉到很有趣（褒义）？",
-        "link": "https://www.v2ex.com/t/820858",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "租房的有租过那种床位房的吗，什么体验？",
-        "link": "https://www.v2ex.com/t/820857",
         "date": "2021-12-08"
       }
     ]
@@ -7963,48 +7983,8 @@
         "date": "2021-12-08"
       },
       {
-        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
-        "link": "https://toutiao.io/k/8k28pnf",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
-        "link": "https://toutiao.io/k/h7wj37b",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 读者诉苦：Redis 宕机，数据丢了，老板要辞退我",
-        "link": "https://toutiao.io/k/xa7jahy",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
-        "link": "https://toutiao.io/k/huoy9s9",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 如何做好一份程序员的工作汇报 ppt？",
-        "link": "https://toutiao.io/k/1byulsh",
-        "date": "2021-12-08"
-      },
-      {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
         "date": "2021-12-08"
       },
       {
@@ -8013,8 +7993,33 @@
         "date": "2021-12-08"
       },
       {
-        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
-        "link": "https://toutiao.io/k/004032c",
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
+        "link": "https://toutiao.io/k/8k28pnf",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 57 张图，13 个实验，干死 MySQL 锁",
+        "link": "https://toutiao.io/k/huoy9s9",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 我的绘图工具箱",
+        "link": "https://toutiao.io/k/cpcd1i2",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 如何做好一份程序员的工作汇报 ppt？",
+        "link": "https://toutiao.io/k/1byulsh",
         "date": "2021-12-08"
       },
       {
@@ -8023,18 +8028,33 @@
         "date": "2021-12-08"
       },
       {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
+        "title": "[推荐] Golang 编程思维和工程实战",
+        "link": "https://toutiao.io/k/usjzg6m",
         "date": "2021-12-08"
       },
       {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
         "date": "2021-12-08"
       },
       {
         "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
         "link": "https://toutiao.io/k/96zw0k6",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 字节跳动飞书文档的 Web 极致性能优化",
+        "link": "https://toutiao.io/k/v1nqbu5",
+        "date": "2021-12-08"
+      },
+      {
+        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
+        "link": "https://toutiao.io/k/h7wj37b",
         "date": "2021-12-08"
       }
     ]

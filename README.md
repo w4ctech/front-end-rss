@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 08:47:41，:rocket: 更新条数: +1560， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 09:12:55，:rocket: 更新条数: +1564， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,14 @@
 </summary>
 
 
+- [2021-12-08-大佬们分享下最新的小火煎规则](https://www.v2ex.com/t/820914) ![](assets/new.png)  
+- [2021-12-08-北京上海backend-engineer-薪资-50-100w](https://www.v2ex.com/t/820913) ![](assets/new.png)  
+- [2021-12-08-请问-navicat-用注册机破解后会有窃取数据库地址和账号密码的风险吗](https://www.v2ex.com/t/820912) ![](assets/new.png)  
+- [2021-12-08-可能是史上最全的云计算降本攻略（聊一聊我如何帮朋友节省了-100-万云成本）](https://www.v2ex.com/t/820911) ![](assets/new.png)  
+- [2021-12-08-为什么京东上产品价格总是反复横跳？](https://www.v2ex.com/t/820910) ![](assets/new.png)  
+- [2021-12-08-上海-程序猿创业/副业交流、心得分享、共同合作](https://www.v2ex.com/t/820909) ![](assets/new.png)  
+- [2021-12-08-docker-compose-volume-疑问](https://www.v2ex.com/t/820908) ![](assets/new.png)  
+- [2021-12-08-父母对我唯一的心愿--我找到对象](https://www.v2ex.com/t/820907) ![](assets/new.png)  
 - [2021-12-08-求推荐-适合-Mac-系统的-5K-显示屏](https://www.v2ex.com/t/820906) ![](assets/new.png)  
 - [2021-12-08-Mac-下在线会议如何添加实时字幕？-可以基于浏览器](https://www.v2ex.com/t/820905) ![](assets/new.png)  
 - [2021-12-08-现在用的是红米-AX6-想组-mesh-怎么选主路由?](https://www.v2ex.com/t/820904) ![](assets/new.png)  
@@ -506,14 +514,6 @@
 - [2021-12-08-移动营业厅-APP-居然想要-root-权限？！](https://www.v2ex.com/t/820895) ![](assets/new.png)  
 - [2021-12-08-AirPods-Max-和-Oculus-Quest-2-二选一买哪个好呢？](https://www.v2ex.com/t/820894) ![](assets/new.png)  
 - [2021-12-08-有没有类似-hashids-的可加密字符串,可设置长度,可逆的包?](https://www.v2ex.com/t/820892) ![](assets/new.png)  
-- [2021-12-08-网页打印-CSS-兼容问题](https://www.v2ex.com/t/820891) ![](assets/new.png)  
-- [2021-12-08-你们说我问这个这个有用么。。。（手动狗头）](https://www.v2ex.com/t/820890) ![](assets/new.png)  
-- [2021-12-08-Java-中类似-Django-admin-的框架推荐](https://www.v2ex.com/t/820889) ![](assets/new.png)  
-- [2021-12-08-新-mbp-周末到，问一下-ac+必须在工作日内申请吗？不能在周末申请？](https://www.v2ex.com/t/820888) ![](assets/new.png)  
-- [2021-12-08-这种-MagSafe-充电器平替，能解决原装的发热问题吗？](https://www.v2ex.com/t/820887) ![](assets/new.png)  
-- [2021-12-08-如何正确的提涨薪？或者说如何正确的判断自己的价值？](https://www.v2ex.com/t/820886) ![](assets/new.png)  
-- [2021-12-08-斐讯路由-0-元购诈骗-110-万人超过-125-亿-创始人顾国平被判无期](https://www.v2ex.com/t/820885) ![](assets/new.png)  
-- [2021-12-08-airpods-pro-支持补买-apple-care+吗？](https://www.v2ex.com/t/820884) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

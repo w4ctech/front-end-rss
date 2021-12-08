@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-08 14:42:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-08 14:54:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -253,10 +253,10 @@
 
 
 
+- [【V2EX】为什么-Ubuntu-20.04-外接-4K-显示器总有种性能不足的感觉](https://www.v2ex.com/t/820987)
 - [【V2EX】不懂就问，光猫桥接以后，千兆带宽-r6300-v2-只能跑到一半的速度，不知道为什么。是性能不够吗？](https://www.v2ex.com/t/820984)
 - [【技术头条】性能优化那些事儿（1）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14827&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】Chrome-将代码分区，在-Android-上性能大变-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14825&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fge-vX2dMn3N4Pmcnz8mjTQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a)
 - [【开发者头条】推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -299,6 +299,7 @@
 
 
 
+- [【V2EX】苏州/北京/上海-微软社招内推-前端/后端/客户端/算法](https://www.v2ex.com/t/820988)
 - [【V2EX】再次代友发，他们需要的人更多了-深圳-前端|-后端|-全栈工程师-|-产品经理-|-全职/实习-|-合规区块链-|-区块链开发者工具头部-|-落地百度超级链,腾讯-TBaas-...](https://www.v2ex.com/t/820982)
 - [【V2EX】全职远程/长期稳定-区块链应用层技术公司-前端/后端/全栈/UIUX/产品/运维/测试](https://www.v2ex.com/t/820958)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

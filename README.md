@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 14:21:00，:rocket: 更新条数: +1564， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 14:38:28，:rocket: 更新条数: +1564， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-08-macos12-上的图书同步是不是有问题](https://www.v2ex.com/t/820986) ![](assets/new.png)  
+- [2021-12-08-大佬们-蓝牙-cpcl-打印指令-有啥可调试的东西吗](https://www.v2ex.com/t/820985) ![](assets/new.png)  
+- [2021-12-08-不懂就问，光猫桥接以后，千兆带宽-r6300-v2-只能跑到一半的速度，不知道为什么。是性能不够吗？](https://www.v2ex.com/t/820984) ![](assets/new.png)  
 - [2021-12-08-再次代友发，他们需要的人更多了-深圳-前端|-后端|-全栈工程师-|-产品经理-|-全职/实习-|-合规区块链-|-区块链开发者工具头部-|-落地百度超级链,腾讯-TBaas-...](https://www.v2ex.com/t/820982) ![](assets/new.png)  
 - [2021-12-08-群晖-6.2.4-要不要升-7.0.1？](https://www.v2ex.com/t/820981) ![](assets/new.png)  
 - [2021-12-08-深圳光明区六号线找房子](https://www.v2ex.com/t/820980) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-08-nginx-配置静态目录路由失效，哪里写错了吗？](https://www.v2ex.com/t/820963) ![](assets/new.png)  
 - [2021-12-08-有人知道微信小程序云函数怎么生成自定义的二维码嘛](https://www.v2ex.com/t/820961) ![](assets/new.png)  
 - [2021-12-08-wireguard-做旁路由](https://www.v2ex.com/t/820960) ![](assets/new.png)  
-- [2021-12-08-这种动态图动态视频是用什么软件做的？](https://www.v2ex.com/t/820959) ![](assets/new.png)  
-- [2021-12-08-全职远程/长期稳定-区块链应用层技术公司-前端/后端/全栈/UIUX/产品/运维/测试](https://www.v2ex.com/t/820958) ![](assets/new.png)  
-- [2021-12-08-凑个热闹，如何吃到元宇宙红利？](https://www.v2ex.com/t/820956) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-08 12:35:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-08 12:59:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,6 +50,7 @@
 </summary>
 
 
+- [【武汉肺炎防疫全纪录(财新网)】2021-12-08-比利时动物园两头河马染新冠-系该物种首次发现](https://science.caixin.com/m/2021-12-08/101815311.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-08-最新疫情：全国新冠累计确诊99371例-累计接种新冠疫苗超25.67亿剂次](https://m.caixin.com/m/2021-12-08/101815239.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-08-最新海外疫情：新冠感染超2.66亿-累计接种新冠疫苗超82.24亿剂次](https://m.caixin.com/m/2021-12-08/101815236.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-08-【境内疫情观察】全国新增44例本土病例（12月7日）](https://database.caixin.com/m/2021-12-08/101815122.html) 
@@ -85,6 +86,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-08-远程长期全职机会--Rust（月薪-30~50k-可议）](https://www.v2ex.com/t/820965) 
+- [【V2EX】2021-12-08-nginx-配置静态目录路由失效，哪里写错了吗？](https://www.v2ex.com/t/820963) 
+- [【V2EX】2021-12-08-有人知道微信小程序云函数怎么生成自定义的二维码嘛](https://www.v2ex.com/t/820961) 
 - [【V2EX】2021-12-08-wireguard-做旁路由](https://www.v2ex.com/t/820960) 
 - [【V2EX】2021-12-08-这种动态图动态视频是用什么软件做的？](https://www.v2ex.com/t/820959) 
 - [【V2EX】2021-12-08-全职远程/长期稳定-区块链应用层技术公司-前端/后端/全栈/UIUX/产品/运维/测试](https://www.v2ex.com/t/820958) 
@@ -121,9 +125,6 @@
 - [【V2EX】2021-12-08-个人转租-两室户，万源新城南区，-9-号线合川路地铁站，近字节/泓毅/东方绿洲，急出。](https://www.v2ex.com/t/820918) 
 - [【V2EX】2021-12-08-求推荐靠谱的非官方-MBP-维修](https://www.v2ex.com/t/820917) 
 - [【V2EX】2021-12-08-北京/深圳/杭州/上海抖音开放平台招前端、服务端、安卓、iOS、引擎工程师](https://www.v2ex.com/t/820916) 
-- [【V2EX】2021-12-08-M1-Mac-装-iOS-App-过段时间会暗屏怎么解决？](https://www.v2ex.com/t/820915) 
-- [【V2EX】2021-12-08-北京上海backend-engineer-薪资-50-100w](https://www.v2ex.com/t/820913) 
-- [【V2EX】2021-12-08-可能是史上最全的云计算降本攻略（聊一聊我如何帮朋友节省了-100-万云成本）](https://www.v2ex.com/t/820911) 
 - [【技术头条】2021-12-08-推荐学Java——数据表基本操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14835&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhGnL_xOtqz3lNxbRz2IxPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-08-Android-使用-Span-打造丰富多彩的文本-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14834&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSz4H-XK5ygEZOT615QDHtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-08-组件封装之输入框下拉列表-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14833&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492605%26amp%3Bidx%3D2%26amp%3Bsn%3D85c11bed6931095d0117907d1c1959ab%26amp%3Bchksm%3Dfa3f02a6cd488bb0d369ffee088d37a3dba983c111c2bbec0f61154be8b2b0e275317bc012fa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -152,8 +153,8 @@
 - [【开发者头条】2021-12-08-关于小程序的一切，读这一篇就够了](https://toutiao.io/k/1i0tnxr) 
 - [【开发者头条】2021-12-08-使用-Rust-编写更快的-React-组件](https://toutiao.io/k/nu8k11t) 
 - [【开发者头条】2021-12-08-Java-类的-Linking-和-Initializing-简单笔记](https://toutiao.io/k/8s73s9d) 
-- [【开发者头条】2021-12-08-漫话网站架构师](https://toutiao.io/k/bnz0i8n) 
 - [【开发者头条】2021-12-08-虚拟节点轻松应对-LOL-S11-百万并发流量：腾竞体育的弹性容器实践](https://toutiao.io/k/q4q6nfg) 
+- [【开发者头条】2021-12-08-漫话网站架构师](https://toutiao.io/k/bnz0i8n) 
 - [【开发者头条】2021-12-08-Material-Design-控件实用场景探索](https://toutiao.io/k/m2zatzb) 
 - [【开发者头条】2021-12-08-使用-JMX-监控和管理-Java-程序](https://toutiao.io/k/shbliyq) 
 - [【开发者头条】2021-12-08-TICA2021-阿里巴巴质量创新大会议程](https://toutiao.io/k/a3qxq9s) 
@@ -164,21 +165,21 @@
 - [【开发者头条】2021-12-08-软件测试的底层逻辑是什么？](https://toutiao.io/k/0dp8i07) 
 - [【开发者头条】2021-12-08-伴鱼基于-Flink-构建数据集成平台的设计与实现](https://toutiao.io/k/tecz86o) 
 - [【开发者头条】2021-12-08-透过一个编译报错，总结两个-Go-程序编译的重要知识](https://toutiao.io/k/6eox08c) 
-- [【开发者头条】2021-12-08-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
-- [【开发者头条】2021-12-08-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
-- [【开发者头条】2021-12-08-推荐-57-张图，13-个实验，干死-MySQL-锁](https://toutiao.io/k/huoy9s9) 
-- [【开发者头条】2021-12-08-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
 - [【开发者头条】2021-12-08-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) 
-- [【开发者头条】2021-12-08-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
-- [【开发者头条】2021-12-08-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
-- [【开发者头条】2021-12-08-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
-- [【开发者头条】2021-12-08-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
-- [【开发者头条】2021-12-08-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
-- [【开发者头条】2021-12-08-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
-- [【开发者头条】2021-12-08-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
-- [【开发者头条】2021-12-08-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
-- [【开发者头条】2021-12-08-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) 
 - [【开发者头条】2021-12-08-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [【开发者头条】2021-12-08-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
+- [【开发者头条】2021-12-08-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [【开发者头条】2021-12-08-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
+- [【开发者头条】2021-12-08-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
+- [【开发者头条】2021-12-08-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
+- [【开发者头条】2021-12-08-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) 
+- [【开发者头条】2021-12-08-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 
+- [【开发者头条】2021-12-08-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
+- [【开发者头条】2021-12-08-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
+- [【开发者头条】2021-12-08-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
+- [【开发者头条】2021-12-08-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
+- [【开发者头条】2021-12-08-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) 
+- [【开发者头条】2021-12-08-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

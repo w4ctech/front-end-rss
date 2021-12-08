@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 12:35:07，:rocket: 更新条数: +1565， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 12:59:17，:rocket: 更新条数: +1566， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 </summary>
 
 
+- [2021-12-08-比利时动物园两头河马染新冠-系该物种首次发现](https://science.caixin.com/m/2021-12-08/101815311.html) ![](assets/new.png)  
 - [2021-12-08-最新疫情：全国新冠累计确诊99371例-累计接种新冠疫苗超25.67亿剂次](https://m.caixin.com/m/2021-12-08/101815239.html) ![](assets/new.png)  
 - [2021-12-08-最新海外疫情：新冠感染超2.66亿-累计接种新冠疫苗超82.24亿剂次](https://m.caixin.com/m/2021-12-08/101815236.html) ![](assets/new.png)  
 - [2021-12-08-【境内疫情观察】全国新增44例本土病例（12月7日）](https://database.caixin.com/m/2021-12-08/101815122.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-04-上海新增1例本土无症状感染者-公布此次疫情初步溯源结果](https://m.caixin.com/m/2021-12-04/101813657.html) ![](assets/new.png)  
 - [2021-12-04-【境内疫情观察】全国六地新增75例本土病例（12月3日）](https://database.caixin.com/m/2021-12-04/101813793.html) ![](assets/new.png)  
 - [2021-12-04-欧洲大流行速度加快-发生Omicron“超级传播事件”｜大流行手记（12月3日）](https://m.caixin.com/m/2021-12-04/101813688.html) ![](assets/new.png)  
-- [2021-12-03-封面报道｜Omicron悬念](https://weekly.caixin.com/m/2021-12-03/101813227.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-08-远程长期全职机会--Rust（月薪-30~50k-可议）](https://www.v2ex.com/t/820965) ![](assets/new.png)  
+- [2021-12-08-nginx-配置静态目录路由失效，哪里写错了吗？](https://www.v2ex.com/t/820963) ![](assets/new.png)  
+- [2021-12-08-有人知道微信小程序云函数怎么生成自定义的二维码嘛](https://www.v2ex.com/t/820961) ![](assets/new.png)  
 - [2021-12-08-wireguard-做旁路由](https://www.v2ex.com/t/820960) ![](assets/new.png)  
 - [2021-12-08-这种动态图动态视频是用什么软件做的？](https://www.v2ex.com/t/820959) ![](assets/new.png)  
 - [2021-12-08-全职远程/长期稳定-区块链应用层技术公司-前端/后端/全栈/UIUX/产品/运维/测试](https://www.v2ex.com/t/820958) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-08-大家觉得蜘蛛侠-3No-Way-Home还有戏吗](https://www.v2ex.com/t/820941) ![](assets/new.png)  
 - [2021-12-08-关于-left-join-后结果集顺序问题](https://www.v2ex.com/t/820940) ![](assets/new.png)  
 - [2021-12-08-评《接了个盘，这张表什么水平》，还不如直接用汉字](https://www.v2ex.com/t/820939) ![](assets/new.png)  
-- [2021-12-08-求个牛津高阶英汉双解.dictionary-格式的字典](https://www.v2ex.com/t/820937) ![](assets/new.png)  
-- [2021-12-08-可以在桌面上常驻的清单类-应用](https://www.v2ex.com/t/820936) ![](assets/new.png)  
-- [2021-12-08-毕业设计-分布式存储？](https://www.v2ex.com/t/820935) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2021-12-08-关于小程序的一切，读这一篇就够了](https://toutiao.io/k/1i0tnxr) ![](assets/new.png)  
 - [2021-12-08-使用-Rust-编写更快的-React-组件](https://toutiao.io/k/nu8k11t) ![](assets/new.png)  
 - [2021-12-08-Java-类的-Linking-和-Initializing-简单笔记](https://toutiao.io/k/8s73s9d) ![](assets/new.png)  
-- [2021-12-08-漫话网站架构师](https://toutiao.io/k/bnz0i8n) ![](assets/new.png)  
 - [2021-12-08-虚拟节点轻松应对-LOL-S11-百万并发流量：腾竞体育的弹性容器实践](https://toutiao.io/k/q4q6nfg) ![](assets/new.png)  
+- [2021-12-08-漫话网站架构师](https://toutiao.io/k/bnz0i8n) ![](assets/new.png)  
 - [2021-12-08-Material-Design-控件实用场景探索](https://toutiao.io/k/m2zatzb) ![](assets/new.png)  
 - [2021-12-08-使用-JMX-监控和管理-Java-程序](https://toutiao.io/k/shbliyq) ![](assets/new.png)  
 - [2021-12-08-TICA2021-阿里巴巴质量创新大会议程](https://toutiao.io/k/a3qxq9s) ![](assets/new.png)  

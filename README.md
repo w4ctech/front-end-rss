@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 09:45:07，:rocket: 更新条数: +1568， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 09:57:17，:rocket: 更新条数: +1565， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-08-WePack-——-助力企业渐进式-DevOps-转型](https://www.v2ex.com/t/820925) ![](assets/new.png)  
 - [2021-12-08-10-行-JS-代码实现-gzip-压缩/解压缩](https://www.v2ex.com/t/820923) ![](assets/new.png)  
 - [2021-12-08-什么项目才是校招简历上的加分项？](https://www.v2ex.com/t/820922) ![](assets/new.png)  
 - [2021-12-08-你们-gitlab-多人开发项目是走-fork-还是原始项目新建分支？](https://www.v2ex.com/t/820920) ![](assets/new.png)  
@@ -502,9 +503,7 @@
 - [2021-12-08-求推荐靠谱的非官方-MBP-维修](https://www.v2ex.com/t/820917) ![](assets/new.png)  
 - [2021-12-08-北京/深圳/杭州/上海抖音开放平台招前端、服务端、安卓、iOS、引擎工程师](https://www.v2ex.com/t/820916) ![](assets/new.png)  
 - [2021-12-08-M1-Mac-装-iOS-App-过段时间会暗屏怎么解决？](https://www.v2ex.com/t/820915) ![](assets/new.png)  
-- [2021-12-08-大佬们分享下最新的小火煎规则](https://www.v2ex.com/t/820914) ![](assets/new.png)  
 - [2021-12-08-北京上海backend-engineer-薪资-50-100w](https://www.v2ex.com/t/820913) ![](assets/new.png)  
-- [2021-12-08-请问-navicat-用注册机破解后会有窃取数据库地址和账号密码的风险吗](https://www.v2ex.com/t/820912) ![](assets/new.png)  
 - [2021-12-08-可能是史上最全的云计算降本攻略（聊一聊我如何帮朋友节省了-100-万云成本）](https://www.v2ex.com/t/820911) ![](assets/new.png)  
 - [2021-12-08-为什么京东上产品价格总是反复横跳？](https://www.v2ex.com/t/820910) ![](assets/new.png)  
 - [2021-12-08-上海-程序猿创业/副业交流、心得分享、共同合作](https://www.v2ex.com/t/820909) ![](assets/new.png)  
@@ -514,6 +513,7 @@
 - [2021-12-08-Mac-下在线会议如何添加实时字幕？-可以基于浏览器](https://www.v2ex.com/t/820905) ![](assets/new.png)  
 - [2021-12-08-现在用的是红米-AX6-想组-mesh-怎么选主路由?](https://www.v2ex.com/t/820904) ![](assets/new.png)  
 - [2021-12-08-冬日海岛之旅：枸杞岛单车自由行](https://www.v2ex.com/t/820903) ![](assets/new.png)  
+- [2021-12-08-杭州->武汉-高铁能回去吗？](https://www.v2ex.com/t/820902) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

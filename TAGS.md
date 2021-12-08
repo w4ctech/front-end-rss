@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-08 05:12:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-08 05:20:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -257,6 +257,7 @@
 - [【技术头条】性能优化那些事儿（1）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14827&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】Chrome-将代码分区，在-Android-上性能大变-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14825&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fge-vX2dMn3N4Pmcnz8mjTQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5)
+- [【开发者头条】推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -281,7 +282,6 @@
 - [【张鑫旭-鑫空间-鑫生活】兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)
 - [【V2EX】Firefox-现在可以在微软商店里面下载了，商店版似乎会少一个后台的更新服务](https://www.v2ex.com/t/820836)
 - [【V2EX】IOS-15-密码自动填充使用-Edge-作源无法带出密码](https://www.v2ex.com/t/820832)
-- [【V2EX】初学者求问：-2021-年，你们调试-Android-程序用什么设备？](https://www.v2ex.com/t/820793)
 - [【技术头条】一文全面解析Postman工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14822&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D2%26amp%3Bsn%3D6685cc0bdb157fdc2f96a3d5138c32a1%26amp%3Bchksm%3Dfa3f0233cd488b25305e2c20fefcdaeebf7046b99dacfbde10068aa9995312ff4f9100a496c7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】开发人员的安全意识-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14817&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-security-awareness%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -334,6 +334,7 @@
 
 
 
+- [【V2EX】有没有一起购买-GitHub-Shop-拼团的小伙伴，分摊邮费](https://www.v2ex.com/t/820842)
 - [【V2EX】github-pages+hexo-自定义域名问题，每次-deploy-都要重新设置域名是怎么回事](https://www.v2ex.com/t/820829)
 - [【开发者头条】年底巩固下-CS-知识（GitHub-热点速览）](https://toutiao.io/k/anl6l5t)
 - [......【查看更多】......](./details/tags/git-svn.md)

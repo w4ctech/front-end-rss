@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 06:15:39，:rocket: 更新条数: +1571， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 06:26:38，:rocket: 更新条数: +1569， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-08-中文互联网社区中用户的什么行为最让你反感，什么行为又最让你感觉到很有趣（褒义）？](https://www.v2ex.com/t/820858) ![](assets/new.png)  
+- [2021-12-08-租房的有租过那种床位房的吗，什么体验？](https://www.v2ex.com/t/820857) ![](assets/new.png)  
 - [2021-12-08-看了马斯克等富人的操作，我们该怎么办？](https://www.v2ex.com/t/820856) ![](assets/new.png)  
 - [2021-12-08-通过消费-kafka-中的-mysql-binlog-同步数据，有没有好的办法可以进行-join？-join-的两个表的变更不一定在一个时间窗口内](https://www.v2ex.com/t/820855) ![](assets/new.png)  
 - [2021-12-08-关于我对「无线充电伤电池」问题的一点研究](https://www.v2ex.com/t/820854) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-08-M1-Pro-上各浏览器-B-站视频功耗最高差-3-倍，背后原因令人暖心](https://www.v2ex.com/t/820840) ![](assets/new.png)  
 - [2021-12-08-JS-如何复制一个函数？](https://www.v2ex.com/t/820839) ![](assets/new.png)  
 - [2021-12-08-请教一下大家-mac-连接雷电-3-dock-扩展双屏的问题](https://www.v2ex.com/t/820838) ![](assets/new.png)  
-- [2021-12-08-Firefox-现在可以在微软商店里面下载了，商店版似乎会少一个后台的更新服务](https://www.v2ex.com/t/820836) ![](assets/new.png)  
-- [2021-12-08-求指点，如何操作-V2-网友的方法：屏蔽-bilibili-的推荐](https://www.v2ex.com/t/820834) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2021-12-08-关于小程序的一切，读这一篇就够了](https://toutiao.io/k/1i0tnxr) ![](assets/new.png)  
 - [2021-12-08-漫话网站架构师](https://toutiao.io/k/bnz0i8n) ![](assets/new.png)  
 - [2021-12-08-使用-Rust-编写更快的-React-组件](https://toutiao.io/k/nu8k11t) ![](assets/new.png)  
-- [2021-12-08-虚拟节点轻松应对-LOL-S11-百万并发流量：腾竞体育的弹性容器实践](https://toutiao.io/k/q4q6nfg) ![](assets/new.png)  
 - [2021-12-08-Java-类的-Linking-和-Initializing-简单笔记](https://toutiao.io/k/8s73s9d) ![](assets/new.png)  
+- [2021-12-08-虚拟节点轻松应对-LOL-S11-百万并发流量：腾竞体育的弹性容器实践](https://toutiao.io/k/q4q6nfg) ![](assets/new.png)  
 - [2021-12-08-TICA2021-阿里巴巴质量创新大会议程](https://toutiao.io/k/a3qxq9s) ![](assets/new.png)  
 - [2021-12-08-Material-Design-控件实用场景探索](https://toutiao.io/k/m2zatzb) ![](assets/new.png)  
 - [2021-12-08-使用-JMX-监控和管理-Java-程序](https://toutiao.io/k/shbliyq) ![](assets/new.png)  

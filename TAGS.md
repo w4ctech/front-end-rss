@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-08 04:28:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-08 04:50:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -277,6 +277,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)
+- [【V2EX】Firefox-现在可以在微软商店里面下载了，商店版似乎会少一个后台的更新服务](https://www.v2ex.com/t/820836)
 - [【V2EX】IOS-15-密码自动填充使用-Edge-作源无法带出密码](https://www.v2ex.com/t/820832)
 - [【V2EX】初学者求问：-2021-年，你们调试-Android-程序用什么设备？](https://www.v2ex.com/t/820793)
 - [【V2EX】请问大家-Safari-浏览网页时是双指上下滑动还是三指?](https://www.v2ex.com/t/820791)

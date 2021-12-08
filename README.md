@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 12:59:17，:rocket: 更新条数: +1566， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 13:11:31，:rocket: 更新条数: +1566， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-08-突然发现-RouterOS-v7-已经-stable-了](https://www.v2ex.com/t/820967) ![](assets/new.png)  
+- [2021-12-08-Face-ID-隔着玻璃能用吗？](https://www.v2ex.com/t/820966) ![](assets/new.png)  
 - [2021-12-08-远程长期全职机会--Rust（月薪-30~50k-可议）](https://www.v2ex.com/t/820965) ![](assets/new.png)  
 - [2021-12-08-nginx-配置静态目录路由失效，哪里写错了吗？](https://www.v2ex.com/t/820963) ![](assets/new.png)  
 - [2021-12-08-有人知道微信小程序云函数怎么生成自定义的二维码嘛](https://www.v2ex.com/t/820961) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-08-go-没有-lambda-表达式。。很蛋疼啊](https://www.v2ex.com/t/820943) ![](assets/new.png)  
 - [2021-12-08-12v-集中供电怎么选？](https://www.v2ex.com/t/820942) ![](assets/new.png)  
 - [2021-12-08-大家觉得蜘蛛侠-3No-Way-Home还有戏吗](https://www.v2ex.com/t/820941) ![](assets/new.png)  
-- [2021-12-08-关于-left-join-后结果集顺序问题](https://www.v2ex.com/t/820940) ![](assets/new.png)  
-- [2021-12-08-评《接了个盘，这张表什么水平》，还不如直接用汉字](https://www.v2ex.com/t/820939) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

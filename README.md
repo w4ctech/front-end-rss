@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 07:21:38，:rocket: 更新条数: +1558， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 07:37:51，:rocket: 更新条数: +1559， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2021-12-08-这种-MagSafe-充电器平替，能解决原装的发热问题吗？](https://www.v2ex.com/t/820887) ![](assets/new.png)  
+- [2021-12-08-如何正确的提涨薪？或者说如何正确的判断自己的价值？](https://www.v2ex.com/t/820886) ![](assets/new.png)  
+- [2021-12-08-斐讯路由-0-元购诈骗-110-万人超过-125-亿-创始人顾国平被判无期](https://www.v2ex.com/t/820885) ![](assets/new.png)  
+- [2021-12-08-airpods-pro-支持补买-apple-care+吗？](https://www.v2ex.com/t/820884) ![](assets/new.png)  
+- [2021-12-08-公司年前-20-人-年底只剩下-4-人-年后只剩下-3-个人](https://www.v2ex.com/t/820883) ![](assets/new.png)  
+- [2021-12-08-后端程序员用什么前端-UI-框架比较好？](https://www.v2ex.com/t/820881) ![](assets/new.png)  
 - [2021-12-08-创业和入中大厂的选择，大伙能否给点建议](https://www.v2ex.com/t/820880) ![](assets/new.png)  
 - [2021-12-08-有时间了却又感觉无事想做，热情活力从哪来？](https://www.v2ex.com/t/820879) ![](assets/new.png)  
 - [2021-12-08-看隔壁-80-后和海外定居有感](https://www.v2ex.com/t/820877) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-12-08-租房的有租过那种床位房的吗，什么体验？](https://www.v2ex.com/t/820857) ![](assets/new.png)  
 - [2021-12-08-通过消费-kafka-中的-mysql-binlog-同步数据，有没有好的办法可以进行-join？-join-的两个表的变更不一定在一个时间窗口内](https://www.v2ex.com/t/820855) ![](assets/new.png)  
 - [2021-12-08-关于我对「无线充电伤电池」问题的一点研究](https://www.v2ex.com/t/820854) ![](assets/new.png)  
-- [2021-12-08-大家能保持全神贯注-coding-的最长工作时间是多久](https://www.v2ex.com/t/820853) ![](assets/new.png)  
-- [2021-12-08-2021-了，腾讯王卡+王卡宽带是否还是联通最划算的套餐？](https://www.v2ex.com/t/820852) ![](assets/new.png)  
-- [2021-12-08-FFmpeg--progress-url-Isn't-working](https://www.v2ex.com/t/820850) ![](assets/new.png)  
-- [2021-12-08-部分应用右上角通知无法弹出](https://www.v2ex.com/t/820849) ![](assets/new.png)  
-- [2021-12-08-互联网黑话终极篇，既视感太强](https://www.v2ex.com/t/820848) ![](assets/new.png)  
-- [2021-12-08-Apple-WatchOS-8.3-RC-发布了，国行支持心电图。](https://www.v2ex.com/t/820847) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,16 +566,16 @@
 - [2021-12-08-漫话网站架构师](https://toutiao.io/k/bnz0i8n) ![](assets/new.png)  
 - [2021-12-08-Java-类的-Linking-和-Initializing-简单笔记](https://toutiao.io/k/8s73s9d) ![](assets/new.png)  
 - [2021-12-08-虚拟节点轻松应对-LOL-S11-百万并发流量：腾竞体育的弹性容器实践](https://toutiao.io/k/q4q6nfg) ![](assets/new.png)  
-- [2021-12-08-TICA2021-阿里巴巴质量创新大会议程](https://toutiao.io/k/a3qxq9s) ![](assets/new.png)  
 - [2021-12-08-Material-Design-控件实用场景探索](https://toutiao.io/k/m2zatzb) ![](assets/new.png)  
+- [2021-12-08-TICA2021-阿里巴巴质量创新大会议程](https://toutiao.io/k/a3qxq9s) ![](assets/new.png)  
 - [2021-12-08-使用-JMX-监控和管理-Java-程序](https://toutiao.io/k/shbliyq) ![](assets/new.png)  
 - [2021-12-08-源码分析广播运行原理](https://toutiao.io/k/8rtiiyb) ![](assets/new.png)  
 - [2021-12-08-沙盒化容器：是容器还是虚拟机](https://toutiao.io/k/5k4x5ha) ![](assets/new.png)  
 - [2021-12-08-效率提升看得见！神策-A/B-测试可视化试验能力正式上线](https://toutiao.io/k/2rnc4h7) ![](assets/new.png)  
 - [2021-12-08-年底巩固下-CS-知识（GitHub-热点速览）](https://toutiao.io/k/anl6l5t) ![](assets/new.png)  
 - [2021-12-08-软件测试的底层逻辑是什么？](https://toutiao.io/k/0dp8i07) ![](assets/new.png)  
-- [2021-12-08-伴鱼基于-Flink-构建数据集成平台的设计与实现](https://toutiao.io/k/tecz86o) ![](assets/new.png)  
 - [2021-12-08-透过一个编译报错，总结两个-Go-程序编译的重要知识](https://toutiao.io/k/6eox08c) ![](assets/new.png)  
+- [2021-12-08-伴鱼基于-Flink-构建数据集成平台的设计与实现](https://toutiao.io/k/tecz86o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

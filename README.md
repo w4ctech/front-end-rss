@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-08 08:26:59，:rocket: 更新条数: +1558， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-08 08:44:58，:rocket: 更新条数: +1560， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-08-12月7日全国新增新冠74例-四省份本土44例](https://m.caixin.com/m/2021-12-08/101814934.html) ![](assets/new.png)  
+- [2021-12-08-【境内疫情观察】全国新增44例本土病例（12月7日）](https://database.caixin.com/m/2021-12-08/101815122.html) ![](assets/new.png)  
 - [2021-12-08-新毒株或降低疫苗保护能力，世卫叫停新冠血浆疗法｜大流行手记（12月7日）](https://m.caixin.com/m/2021-12-08/101814949.html) ![](assets/new.png)  
 - [2021-12-07-浙江三日累计19例阳性-上海新增1例密接确诊](https://m.caixin.com/m/2021-12-07/101814873.html) ![](assets/new.png)  
 - [2021-12-07-最新海外疫情：新冠感染超2.65亿-累计接种新冠疫苗超81.85亿剂次](https://m.caixin.com/m/2021-12-07/101814784.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-04-【境内疫情观察】全国六地新增75例本土病例（12月3日）](https://database.caixin.com/m/2021-12-04/101813793.html) ![](assets/new.png)  
 - [2021-12-04-欧洲大流行速度加快-发生Omicron“超级传播事件”｜大流行手记（12月3日）](https://m.caixin.com/m/2021-12-04/101813688.html) ![](assets/new.png)  
 - [2021-12-03-封面报道｜Omicron悬念](https://weekly.caixin.com/m/2021-12-03/101813227.html) ![](assets/new.png)  
-- [2021-12-03-满洲里累计确诊263例-河北石家庄现关联病例](https://m.caixin.com/m/2021-12-03/101813531.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2021-12-08-求推荐-适合-Mac-系统的-5K-显示屏](https://www.v2ex.com/t/820906) ![](assets/new.png)  
+- [2021-12-08-Mac-下在线会议如何添加实时字幕？-可以基于浏览器](https://www.v2ex.com/t/820905) ![](assets/new.png)  
+- [2021-12-08-现在用的是红米-AX6-想组-mesh-怎么选主路由?](https://www.v2ex.com/t/820904) ![](assets/new.png)  
+- [2021-12-08-冬日海岛之旅：枸杞岛单车自由行](https://www.v2ex.com/t/820903) ![](assets/new.png)  
+- [2021-12-08-杭州->武汉-高铁能回去吗？](https://www.v2ex.com/t/820902) ![](assets/new.png)  
+- [2021-12-08-google-添加付款方式时候提示-ERROR-OR-CCSEH-05-该怎么办啊？](https://www.v2ex.com/t/820900) ![](assets/new.png)  
+- [2021-12-08-你们能打开-tortoisesvn-官网吗](https://www.v2ex.com/t/820899) ![](assets/new.png)  
 - [2021-12-08-Excel-单元格-GP422101031000001-无法拖拉，获得自动增序](https://www.v2ex.com/t/820898) ![](assets/new.png)  
 - [2021-12-08-垮掉的一代](https://www.v2ex.com/t/820896) ![](assets/new.png)  
 - [2021-12-08-移动营业厅-APP-居然想要-root-权限？！](https://www.v2ex.com/t/820895) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2021-12-08-如何正确的提涨薪？或者说如何正确的判断自己的价值？](https://www.v2ex.com/t/820886) ![](assets/new.png)  
 - [2021-12-08-斐讯路由-0-元购诈骗-110-万人超过-125-亿-创始人顾国平被判无期](https://www.v2ex.com/t/820885) ![](assets/new.png)  
 - [2021-12-08-airpods-pro-支持补买-apple-care+吗？](https://www.v2ex.com/t/820884) ![](assets/new.png)  
-- [2021-12-08-公司年前-20-人-年底只剩下-4-人-年后只剩下-3-个人](https://www.v2ex.com/t/820883) ![](assets/new.png)  
-- [2021-12-08-后端程序员用什么前端-UI-框架比较好？](https://www.v2ex.com/t/820881) ![](assets/new.png)  
-- [2021-12-08-创业和入中大厂的选择，大伙能否给点建议](https://www.v2ex.com/t/820880) ![](assets/new.png)  
-- [2021-12-08-有时间了却又感觉无事想做，热情活力从哪来？](https://www.v2ex.com/t/820879) ![](assets/new.png)  
-- [2021-12-08-看隔壁-80-后和海外定居有感](https://www.v2ex.com/t/820877) ![](assets/new.png)  
-- [2021-12-08-租房合同上写提前退租，不返回已付租金和押金，我是不是要不回来了](https://www.v2ex.com/t/820875) ![](assets/new.png)  
-- [2021-12-08-v-友们，哪个券商-手续比较低呢？](https://www.v2ex.com/t/820873) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,8 +567,8 @@
 - [2021-12-08-Java-类的-Linking-和-Initializing-简单笔记](https://toutiao.io/k/8s73s9d) ![](assets/new.png)  
 - [2021-12-08-虚拟节点轻松应对-LOL-S11-百万并发流量：腾竞体育的弹性容器实践](https://toutiao.io/k/q4q6nfg) ![](assets/new.png)  
 - [2021-12-08-Material-Design-控件实用场景探索](https://toutiao.io/k/m2zatzb) ![](assets/new.png)  
-- [2021-12-08-TICA2021-阿里巴巴质量创新大会议程](https://toutiao.io/k/a3qxq9s) ![](assets/new.png)  
 - [2021-12-08-使用-JMX-监控和管理-Java-程序](https://toutiao.io/k/shbliyq) ![](assets/new.png)  
+- [2021-12-08-TICA2021-阿里巴巴质量创新大会议程](https://toutiao.io/k/a3qxq9s) ![](assets/new.png)  
 - [2021-12-08-源码分析广播运行原理](https://toutiao.io/k/8rtiiyb) ![](assets/new.png)  
 - [2021-12-08-沙盒化容器：是容器还是虚拟机](https://toutiao.io/k/5k4x5ha) ![](assets/new.png)  
 - [2021-12-08-效率提升看得见！神策-A/B-测试可视化试验能力正式上线](https://toutiao.io/k/2rnc4h7) ![](assets/new.png)  

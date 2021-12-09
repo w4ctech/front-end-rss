@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-09 11:54:53，:rocket: 更新条数: +1567， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-09 12:19:10，:rocket: 更新条数: +1568， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,14 +66,15 @@
 
 
 - [2021-12-09-最新疫情：全国新冠累计确诊99454例-累计接种新冠疫苗超25.74亿剂次](https://m.caixin.com/m/2021-12-09/101815580.html) ![](assets/new.png)  
+- [2021-12-09-港大研发全球首个抗新冠病毒的不锈钢材](https://m.caixin.com/m/2021-12-09/101815811.html) ![](assets/new.png)  
 - [2021-12-09-辉瑞和BioNTech称3针mRNA疫苗可抵御Omicron变异株](https://m.caixin.com/m/2021-12-09/101815767.html) ![](assets/new.png)  
 - [2021-12-09-腾盛博药新冠中和抗体获批上市-正探讨国家战略储备采购](https://m.caixin.com/m/2021-12-09/101815619.html) ![](assets/new.png)  
 - [2021-12-09-最新海外疫情：新冠感染超2.67亿-累计接种新冠疫苗超82.52亿剂次](https://m.caixin.com/m/2021-12-09/101815584.html) ![](assets/new.png)  
 - [2021-12-09-【境内疫情观察】全国新增60例本土病例（12月8日）](https://database.caixin.com/m/2021-12-09/101815553.html) ![](assets/new.png)  
 - [2021-12-09-57个国家报告Omicron感染者-韩国感染猛增｜大流行手记（12月8日）](https://m.caixin.com/m/2021-12-09/101815395.html) ![](assets/new.png)  
-- [2021-12-08-比利时动物园两头河马染新冠-系该物种首次发现](https://science.caixin.com/m/2021-12-08/101815311.html) ![](assets/new.png)  
 - [2021-12-08-【境内疫情观察】全国新增44例本土病例（12月7日）](https://database.caixin.com/m/2021-12-08/101815122.html) ![](assets/new.png)  
 - [2021-12-08-新毒株或降低疫苗保护能力，世卫叫停新冠血浆疗法｜大流行手记（12月7日）](https://m.caixin.com/m/2021-12-08/101814949.html) ![](assets/new.png)  
+- [2021-12-08-比利时动物园两头河马染新冠-系该物种首次发现](https://science.caixin.com/m/2021-12-08/101815311.html) ![](assets/new.png)  
 - [2021-12-07-浙江三日累计19例阳性-上海新增1例密接确诊](https://m.caixin.com/m/2021-12-07/101814873.html) ![](assets/new.png)  
 - [2021-12-07-【境内疫情观察】浙江宁波镇海区实施临时封闭管理（12月6日）](https://database.caixin.com/m/2021-12-07/101814603.html) ![](assets/new.png)  
 - [2021-12-07-福奇称Omicron致病性早期信号积极-南非感染人数猛增｜大流行手记（-12月6日）](https://m.caixin.com/m/2021-12-07/101814482.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-05-福建安溪一境外入境人员核酸阳性-石家庄与满洲里疫情同传播链](https://m.caixin.com/m/2021-12-05/101813954.html) ![](assets/new.png)  
 - [2021-12-05-【境内疫情观察】全国新增42例本土病例（12月4日）](https://database.caixin.com/m/2021-12-05/101813961.html) ![](assets/new.png)  
 - [2021-12-05-南非低龄入院患者增加，新毒株或加剧欧洲社会危机｜大流行手记（12月4日）](https://m.caixin.com/m/2021-12-05/101813888.html) ![](assets/new.png)  
-- [2021-12-04-满洲里疫情确认为德尔塔变异株-广州新增1例本土确诊](https://m.caixin.com/m/2021-12-04/101813864.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-09-有没有什么检查代理成没成功的工具？能看自己-IP-的服务？](https://www.v2ex.com/t/821189) ![](assets/new.png)  
 - [2021-12-09-Git-的-staged-area-应该怎样翻译才信达雅?](https://www.v2ex.com/t/821188) ![](assets/new.png)  
 - [2021-12-09-人在重庆，冬天几乎晒不到太阳，想换到南方二三线城市，有什么推荐。](https://www.v2ex.com/t/821187) ![](assets/new.png)  
 - [2021-12-09-git-和-dropbox-如何结合在一起。](https://www.v2ex.com/t/821186) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-09-有没有类似-Elixir-Nerves-的针对树莓派的嵌入式软件开发框架](https://www.v2ex.com/t/821168) ![](assets/new.png)  
 - [2021-12-09-总是说-Python-比-Java-用起来方便，-那些设计-Python-或者-Java-语言时，-哪个更艰难呢？](https://www.v2ex.com/t/821167) ![](assets/new.png)  
 - [2021-12-09-程序猿副业/创意交流、心得分享、资料共享群建设](https://www.v2ex.com/t/821165) ![](assets/new.png)  
-- [2021-12-09-Git-将-A-分支的内容修改后提交到-B-分支应该如何操作？](https://www.v2ex.com/t/821164) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

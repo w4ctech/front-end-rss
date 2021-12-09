@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-09 02:12:18，:rocket: 更新条数: +1563， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-09 02:32:58，:rocket: 更新条数: +1563， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,16 @@
 </summary>
 
 
+- [2021-12-09-macOS-command-+-F-搜索的问题](https://www.v2ex.com/t/821054) ![](assets/new.png)  
+- [2021-12-09-咨询道友们一个算法问题：输入元素集合，输出特征短元素集合](https://www.v2ex.com/t/821052) ![](assets/new.png)  
+- [2021-12-09-macbook-能不能只使用扩展屏，自己本身显示屏不亮](https://www.v2ex.com/t/821051) ![](assets/new.png)  
+- [2021-12-09-ubuntu-22.04-镜像里用-svn-拉取源码毫无反应？](https://www.v2ex.com/t/821050) ![](assets/new.png)  
+- [2021-12-09-WindowServer-占用内存高达-98GB](https://www.v2ex.com/t/821049) ![](assets/new.png)  
+- [2021-12-09-小白请教游戏开发需要用到的技术](https://www.v2ex.com/t/821048) ![](assets/new.png)  
+- [2021-12-09-ShowDoc-v2.9.14-发布，-IT-团队的在线-API-文档、技术文档工具](https://www.v2ex.com/t/821047) ![](assets/new.png)  
+- [2021-12-09-支付宝-体验技术部---搭建中台，招前端啦！-P5---P7-大量-HC](https://www.v2ex.com/t/821046) ![](assets/new.png)  
+- [2021-12-09-求教-V-友们-MBP-miniled-屏幕比-MacBook-AIR-对眼睛视力更好吗？](https://www.v2ex.com/t/821045) ![](assets/new.png)  
+- [2021-12-09-白裙用社区安装的-TRANSMISSION-3-现在各大站点都支持吗。。。](https://www.v2ex.com/t/821044) ![](assets/new.png)  
 - [2021-12-09-大陆正式封锁-Apple-设备的海拔和经纬度功能，有哪些方面会被影响](https://www.v2ex.com/t/821043) ![](assets/new.png)  
 - [2021-12-09-对抽象的叙述语句经常理解困难](https://www.v2ex.com/t/821041) ![](assets/new.png)  
 - [2021-12-09-Matebook-E-是否该选择](https://www.v2ex.com/t/821040) ![](assets/new.png)  
@@ -504,16 +514,6 @@
 - [2021-12-09-山东烟台-明石创新招聘-Android-开发工程师](https://www.v2ex.com/t/821033) ![](assets/new.png)  
 - [2021-12-09-请问怎么样才能愉快的前后端进行对接](https://www.v2ex.com/t/821032) ![](assets/new.png)  
 - [2021-12-09-现在不都是前后端分离了吗？为什么-Go-好多开源项目还是前后端一起？是我理解有误吗？](https://www.v2ex.com/t/821031) ![](assets/new.png)  
-- [2021-12-09-原互联网业务码农，现在面临选择问题](https://www.v2ex.com/t/821030) ![](assets/new.png)  
-- [2021-12-09-深圳农行-6-分钱支付-20-元的停车微信立减金](https://www.v2ex.com/t/821029) ![](assets/new.png)  
-- [2021-12-09-如何提高自己的文档输出能力](https://www.v2ex.com/t/821028) ![](assets/new.png)  
-- [2021-12-09-Monoio:-字节跳动开源-Rust-Runtime](https://www.v2ex.com/t/821027) ![](assets/new.png)  
-- [2021-12-09-V2EX.COM-无法搜索而-CN.V2EX.COM-却可以？](https://www.v2ex.com/t/821025) ![](assets/new.png)  
-- [2021-12-09-2015-mbp-升级硬盘](https://www.v2ex.com/t/821024) ![](assets/new.png)  
-- [2021-12-09-广西移动-ipv6-问题](https://www.v2ex.com/t/821022) ![](assets/new.png)  
-- [2021-12-09-PDF-电子书打印](https://www.v2ex.com/t/821020) ![](assets/new.png)  
-- [2021-12-09-北京租房求推荐,-离地铁近就行](https://www.v2ex.com/t/821018) ![](assets/new.png)  
-- [2021-12-09-使用-powershell-获取文件部分内容](https://www.v2ex.com/t/821017) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2021-12-09-从微服务架构的现状和未来看学习路径](https://toutiao.io/k/oznt48i) ![](assets/new.png)  
 - [2021-12-09-速解元宇宙-/-Metaverse-迷雾下的行动指南](https://toutiao.io/k/fuvpa38) ![](assets/new.png)  
 - [2021-12-09-湖中剑-前端周刊-15-|-Whistle-抓包、浏览器原理、echarts-做游戏、Sandpack-浏览器打包、性能优化](https://toutiao.io/k/sp7wmyg) ![](assets/new.png)  
-- [2021-12-09-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-09-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
-- [2021-12-09-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
+- [2021-12-09-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
+- [2021-12-09-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
 - [2021-12-09-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-09-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
+- [2021-12-09-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
+- [2021-12-09-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

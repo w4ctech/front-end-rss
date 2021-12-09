@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-09 17:55:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-09 18:14:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -8,5 +8,4 @@
 
 
 - [2021-12-09-游戏行业转互联网，自学两个月-golang-能上岸二三线的厂吗](https://www.v2ex.com/t/821190) 
-- [2021-12-09-育碧最近出的这个《极限国度》算是-3D-游戏画面渲染的一个新高度吧](https://www.v2ex.com/t/821174) 
 - [2021-12-09-湖中剑-前端周刊-15-|-Whistle-抓包、浏览器原理、echarts-做游戏、Sandpack-浏览器打包、性能优化](https://toutiao.io/k/sp7wmyg) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-09 17:30:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-09 17:42:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -237,7 +237,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】最近使用-apple-tv，投屏-B-站视频，出现-此视频无法投屏](https://www.v2ex.com/t/821172)
 - [【开发者头条】LinkedIn-直播系统是如何实现每秒百万点赞的](https://toutiao.io/k/u3prgdi)
 - [【开发者头条】刷新-SOTA-!-视频恢复的重中之重：时间对齐](https://toutiao.io/k/iaxf7o2)
 - [......【查看更多】......](./details/tags/audio-video.md)

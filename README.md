@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-09 17:30:05，:rocket: 更新条数: +1574， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-09 17:42:17，:rocket: 更新条数: +1574， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-09-Log4J-远程代码执行漏洞](https://www.v2ex.com/t/821222) ![](assets/new.png)  
+- [2021-12-09-2021-年马上结束了，求推荐一款-1-万以下的笔记本。感谢](https://www.v2ex.com/t/821221) ![](assets/new.png)  
 - [2021-12-09-最近-2077-打骨折，-steam-和-gog-上都是半价，那么去哪个平台买比较合适？](https://www.v2ex.com/t/821219) ![](assets/new.png)  
 - [2021-12-09-分享个自己写的项目：-SDB](https://www.v2ex.com/t/821218) ![](assets/new.png)  
 - [2021-12-09-log4j2-的漏洞大家今天晚上修复吗?](https://www.v2ex.com/t/821217) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-09-技术部要组建一个团建，大家来支支招](https://www.v2ex.com/t/821203) ![](assets/new.png)  
 - [2021-12-09-北大健康医疗大数据研究院现公开招聘实习生！](https://www.v2ex.com/t/821202) ![](assets/new.png)  
 - [2021-12-09-MBP-14-寸乞丐版开发一周深度体验-很香](https://www.v2ex.com/t/821201) ![](assets/new.png)  
-- [2021-12-09-小白求助大数据大佬-spark-问题](https://www.v2ex.com/t/821200) ![](assets/new.png)  
-- [2021-12-09-程序猿副业梳理（优劣势比较）](https://www.v2ex.com/t/821199) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

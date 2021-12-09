@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-09 07:54:58，:rocket: 更新条数: +1567， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-09 08:15:19，:rocket: 更新条数: +1569， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-09-12月8日全国新增新冠83例-五省份本土60例](https://m.caixin.com/m/2021-12-09/101815382.html) ![](assets/new.png)  
+- [2021-12-09-【境内疫情观察】全国新增60例本土病例（12月8日）](https://database.caixin.com/m/2021-12-09/101815553.html) ![](assets/new.png)  
 - [2021-12-09-57个国家报告Omicron感染者-韩国感染猛增｜大流行手记（12月8日）](https://m.caixin.com/m/2021-12-09/101815395.html) ![](assets/new.png)  
 - [2021-12-08-比利时动物园两头河马染新冠-系该物种首次发现](https://science.caixin.com/m/2021-12-08/101815311.html) ![](assets/new.png)  
 - [2021-12-08-最新海外疫情：新冠感染超2.66亿-累计接种新冠疫苗超82.24亿剂次](https://m.caixin.com/m/2021-12-08/101815236.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-04-满洲里疫情确认为德尔塔变异株-广州新增1例本土确诊](https://m.caixin.com/m/2021-12-04/101813864.html) ![](assets/new.png)  
 - [2021-12-04-隔离酒店一工作人员感染德尔塔-广州白云区新增一中风险地区](https://m.caixin.com/m/2021-12-04/101813612.html) ![](assets/new.png)  
 - [2021-12-04-上海新增1例本土无症状感染者-公布此次疫情初步溯源结果](https://m.caixin.com/m/2021-12-04/101813657.html) ![](assets/new.png)  
-- [2021-12-04-【境内疫情观察】全国六地新增75例本土病例（12月3日）](https://database.caixin.com/m/2021-12-04/101813793.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-09-字节跳动-RTC-上海服务端开发工程师急招](https://www.v2ex.com/t/821142) ![](assets/new.png)  
+- [2021-12-09-魔都宽带折腾，比预期的要好](https://www.v2ex.com/t/821141) ![](assets/new.png)  
+- [2021-12-09-关于-chrome-版本号超过-100-导致斗鱼无法观看的问题以及解决方法](https://www.v2ex.com/t/821140) ![](assets/new.png)  
+- [2021-12-09-有比较方便的把公众号做成电子书的方法吗？](https://www.v2ex.com/t/821139) ![](assets/new.png)  
 - [2021-12-09-这感觉，来了](https://www.v2ex.com/t/821138) ![](assets/new.png)  
 - [2021-12-09-新加坡新加坡知名交易所急招前端开发，后端开发（go,-Java-或-C++），移动端开发（Flutter），测试开发（QA），大数据开发，运维开发（DevOps/SRE）等各技术方...](https://www.v2ex.com/t/821137) ![](assets/new.png)  
 - [2021-12-09-迫于-mbp2018-卡顿是否有必要更换-m1-的-mbp2020](https://www.v2ex.com/t/821136) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-09-北京新华三总部招聘国际部售前产品经理IT-服务器](https://www.v2ex.com/t/821124) ![](assets/new.png)  
 - [2021-12-09-Oracle-到底有没有-contains-函数，为什么我的-Oracle11g-提示"CONTAINS":-标识符无效](https://www.v2ex.com/t/821123) ![](assets/new.png)  
 - [2021-12-09-西数-Elements-和-Passport-拆掉硬盘后的外壳可以接其他品牌其他容量的硬盘并正常使用吗？](https://www.v2ex.com/t/821122) ![](assets/new.png)  
-- [2021-12-09-关于-ios-上-Telegram-中-Socks5-代理问题](https://www.v2ex.com/t/821121) ![](assets/new.png)  
-- [2021-12-09-求问一加-9RT-能否用于断点调试](https://www.v2ex.com/t/821119) ![](assets/new.png)  
-- [2021-12-09-大家帮我看看，这代码是水平。。](https://www.v2ex.com/t/821118) ![](assets/new.png)  
-- [2021-12-09-求-V-友推荐关于除螨的日化品](https://www.v2ex.com/t/821117) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

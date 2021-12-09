@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-09 14:42:04，:rocket: 更新条数: +1572， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-09 14:54:37，:rocket: 更新条数: +1573， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,10 +66,11 @@
 
 
 - [2021-12-09-最新疫情：全国新冠累计确诊99454例-累计接种新冠疫苗超25.74亿剂次](https://m.caixin.com/m/2021-12-09/101815580.html) ![](assets/new.png)  
+- [2021-12-09-浙江本轮疫情累计报告阳性59例-省内三地防疫措施升级](https://m.caixin.com/m/2021-12-09/101815867.html) ![](assets/new.png)  
 - [2021-12-09-港大研发全球首个抗新冠病毒的不锈钢材](https://m.caixin.com/m/2021-12-09/101815811.html) ![](assets/new.png)  
 - [2021-12-09-辉瑞和BioNTech称3针mRNA疫苗可抵御Omicron变异株](https://m.caixin.com/m/2021-12-09/101815767.html) ![](assets/new.png)  
-- [2021-12-09-腾盛博药新冠中和抗体获批上市-正探讨国家战略储备采购](https://m.caixin.com/m/2021-12-09/101815619.html) ![](assets/new.png)  
 - [2021-12-09-最新海外疫情：新冠感染超2.67亿-累计接种新冠疫苗超82.52亿剂次](https://m.caixin.com/m/2021-12-09/101815584.html) ![](assets/new.png)  
+- [2021-12-09-腾盛博药新冠中和抗体获批上市-正探讨国家战略储备采购](https://m.caixin.com/m/2021-12-09/101815619.html) ![](assets/new.png)  
 - [2021-12-09-【境内疫情观察】全国新增60例本土病例（12月8日）](https://database.caixin.com/m/2021-12-09/101815553.html) ![](assets/new.png)  
 - [2021-12-09-57个国家报告Omicron感染者-韩国感染猛增｜大流行手记（12月8日）](https://m.caixin.com/m/2021-12-09/101815395.html) ![](assets/new.png)  
 - [2021-12-08-【境内疫情观察】全国新增44例本土病例（12月7日）](https://database.caixin.com/m/2021-12-08/101815122.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-06-Omicron或含感冒病毒基因片段-美国单日病例再超10万例｜大流行手记（12月5日）](https://m.caixin.com/m/2021-12-06/101814016.html) ![](assets/new.png)  
 - [2021-12-05-福建安溪一境外入境人员核酸阳性-石家庄与满洲里疫情同传播链](https://m.caixin.com/m/2021-12-05/101813954.html) ![](assets/new.png)  
 - [2021-12-05-【境内疫情观察】全国新增42例本土病例（12月4日）](https://database.caixin.com/m/2021-12-05/101813961.html) ![](assets/new.png)  
-- [2021-12-05-南非低龄入院患者增加，新毒株或加剧欧洲社会危机｜大流行手记（12月4日）](https://m.caixin.com/m/2021-12-05/101813888.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-09-新视纪-V8-显示器支架还可以](https://www.v2ex.com/t/821208) ![](assets/new.png)  
 - [2021-12-09-大家看看我这个屏轴是不是翻车了](https://www.v2ex.com/t/821207) ![](assets/new.png)  
 - [2021-12-09-Safari-有没有-Chrome-或者-edge-多用户的功能？](https://www.v2ex.com/t/821206) ![](assets/new.png)  
 - [2021-12-09-上海交大直接电信-CN2-,晚高峰上传-300+-下载接近-500！](https://www.v2ex.com/t/821205) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-09-Git-的-staged-area-应该怎样翻译才信达雅?](https://www.v2ex.com/t/821188) ![](assets/new.png)  
 - [2021-12-09-人在重庆，冬天几乎晒不到太阳，想换到南方二三线城市，有什么推荐。](https://www.v2ex.com/t/821187) ![](assets/new.png)  
 - [2021-12-09-git-和-dropbox-如何结合在一起。](https://www.v2ex.com/t/821186) ![](assets/new.png)  
-- [2021-12-09-婚恋问题](https://www.v2ex.com/t/821184) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

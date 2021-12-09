@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-09 14:42:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-09 14:54:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -51,10 +51,11 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-09-最新疫情：全国新冠累计确诊99454例-累计接种新冠疫苗超25.74亿剂次](https://m.caixin.com/m/2021-12-09/101815580.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2021-12-09-浙江本轮疫情累计报告阳性59例-省内三地防疫措施升级](https://m.caixin.com/m/2021-12-09/101815867.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-09-港大研发全球首个抗新冠病毒的不锈钢材](https://m.caixin.com/m/2021-12-09/101815811.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-09-辉瑞和BioNTech称3针mRNA疫苗可抵御Omicron变异株](https://m.caixin.com/m/2021-12-09/101815767.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2021-12-09-腾盛博药新冠中和抗体获批上市-正探讨国家战略储备采购](https://m.caixin.com/m/2021-12-09/101815619.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-09-最新海外疫情：新冠感染超2.67亿-累计接种新冠疫苗超82.52亿剂次](https://m.caixin.com/m/2021-12-09/101815584.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2021-12-09-腾盛博药新冠中和抗体获批上市-正探讨国家战略储备采购](https://m.caixin.com/m/2021-12-09/101815619.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-09-【境内疫情观察】全国新增60例本土病例（12月8日）](https://database.caixin.com/m/2021-12-09/101815553.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-09-57个国家报告Omicron感染者-韩国感染猛增｜大流行手记（12月8日）](https://m.caixin.com/m/2021-12-09/101815395.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-08-【境内疫情观察】全国新增44例本土病例（12月7日）](https://database.caixin.com/m/2021-12-08/101815122.html) 
@@ -92,6 +93,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-09-新视纪-V8-显示器支架还可以](https://www.v2ex.com/t/821208) 
 - [【V2EX】2021-12-09-大家看看我这个屏轴是不是翻车了](https://www.v2ex.com/t/821207) 
 - [【V2EX】2021-12-09-Safari-有没有-Chrome-或者-edge-多用户的功能？](https://www.v2ex.com/t/821206) 
 - [【V2EX】2021-12-09-上海交大直接电信-CN2-,晚高峰上传-300+-下载接近-500！](https://www.v2ex.com/t/821205) 
@@ -131,7 +133,6 @@
 - [【V2EX】2021-12-09-回来生活在-18-线小县城的几个月有感。](https://www.v2ex.com/t/821163) 
 - [【V2EX】2021-12-09-7.8-寸与-10-寸电纸书该如何选择？](https://www.v2ex.com/t/821162) 
 - [【V2EX】2021-12-09-请教各位，有没有什么数据库能存储大量-PDF](https://www.v2ex.com/t/821159) 
-- [【V2EX】2021-12-09-出个自用的-AirPods-2-代](https://www.v2ex.com/t/821158) 
 - [【技术头条】2021-12-09-和Stand-up再次相遇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14837&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-have-an-effective-standup%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-09-威胁建模——围绕假想敌的领域建模-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14836&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthread-modeling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-09-推荐学Java——数据表基本操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14835&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhGnL_xOtqz3lNxbRz2IxPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -172,21 +173,21 @@
 - [【开发者头条】2021-12-09-C++-为什么要弄出虚表这个东西？](https://toutiao.io/k/0q77v9s) 
 - [【开发者头条】2021-12-09-如何进行-Excel-数据分析之后的可视化数据写入保存](https://toutiao.io/k/37rl8nc) 
 - [【开发者头条】2021-12-09-刷新-SOTA-!-视频恢复的重中之重：时间对齐](https://toutiao.io/k/iaxf7o2) 
+- [【开发者头条】2021-12-09-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
+- [【开发者头条】2021-12-09-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [【开发者头条】2021-12-09-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
 - [【开发者头条】2021-12-09-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
-- [【开发者头条】2021-12-09-推荐-读者诉苦：Redis-宕机，数据丢了，老板要辞退我](https://toutiao.io/k/xa7jahy) 
-- [【开发者头条】2021-12-09-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) 
-- [【开发者头条】2021-12-09-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
-- [【开发者头条】2021-12-09-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
-- [【开发者头条】2021-12-09-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
+- [【开发者头条】2021-12-09-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
 - [【开发者头条】2021-12-09-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
-- [【开发者头条】2021-12-09-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 
-- [【开发者头条】2021-12-09-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [【开发者头条】2021-12-09-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
+- [【开发者头条】2021-12-09-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
 - [【开发者头条】2021-12-09-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) 
 - [【开发者头条】2021-12-09-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) 
-- [【开发者头条】2021-12-09-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) 
+- [【开发者头条】2021-12-09-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [【开发者头条】2021-12-09-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
 - [【开发者头条】2021-12-09-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) 
-- [【开发者头条】2021-12-09-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
+- [【开发者头条】2021-12-09-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
+- [【开发者头条】2021-12-09-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

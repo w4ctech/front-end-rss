@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-09 14:54:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-09 15:13:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -302,6 +302,7 @@
 
 
 
+- [【V2EX】有个香港汇丰的卡,顺便申请了-Master-debit-有啥有意思的东西可以买吗-几年前买阿里云国际版搞的港区-paypal-是不是也可以用起来了](https://www.v2ex.com/t/821209)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

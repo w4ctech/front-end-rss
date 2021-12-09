@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-09 01:09:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-09 01:59:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -10,3 +10,4 @@
 - [2021-06-05-广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html) 
 - [2021-02-22-林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html) 
 - [2021-12-08-8k-全景也支持了-https://www.bilibili.com/video/BV1Wi4y1Z7mR](https://www.v2ex.com/t/820995) 
+- [2021-12-09-LinkedIn-直播系统是如何实现每秒百万点赞的](https://toutiao.io/k/u3prgdi) 

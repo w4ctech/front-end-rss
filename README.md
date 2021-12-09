@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-09 10:57:57，:rocket: 更新条数: +1567， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-09 11:11:17，:rocket: 更新条数: +1567， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-09-最新疫情：全国新冠累计确诊99454例-累计接种新冠疫苗超25.74亿剂次](https://m.caixin.com/m/2021-12-09/101815580.html) ![](assets/new.png)  
+- [2021-12-09-辉瑞和BioNTech称3针mRNA疫苗可抵御Omicron变异株](https://m.caixin.com/m/2021-12-09/101815767.html) ![](assets/new.png)  
 - [2021-12-09-腾盛博药新冠中和抗体获批上市-正探讨国家战略储备采购](https://m.caixin.com/m/2021-12-09/101815619.html) ![](assets/new.png)  
 - [2021-12-09-最新海外疫情：新冠感染超2.67亿-累计接种新冠疫苗超82.52亿剂次](https://m.caixin.com/m/2021-12-09/101815584.html) ![](assets/new.png)  
 - [2021-12-09-【境内疫情观察】全国新增60例本土病例（12月8日）](https://database.caixin.com/m/2021-12-09/101815553.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-05-【境内疫情观察】全国新增42例本土病例（12月4日）](https://database.caixin.com/m/2021-12-05/101813961.html) ![](assets/new.png)  
 - [2021-12-05-南非低龄入院患者增加，新毒株或加剧欧洲社会危机｜大流行手记（12月4日）](https://m.caixin.com/m/2021-12-05/101813888.html) ![](assets/new.png)  
 - [2021-12-04-满洲里疫情确认为德尔塔变异株-广州新增1例本土确诊](https://m.caixin.com/m/2021-12-04/101813864.html) ![](assets/new.png)  
-- [2021-12-04-隔离酒店一工作人员感染德尔塔-广州白云区新增一中风险地区](https://m.caixin.com/m/2021-12-04/101813612.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-09-婚恋问题](https://www.v2ex.com/t/821184) ![](assets/new.png)  
+- [2021-12-09-到底哪个版本的-Safari-支持了-120Hz？](https://www.v2ex.com/t/821183) ![](assets/new.png)  
 - [2021-12-09-macOS-识别图片文字的效果是不是很好？](https://www.v2ex.com/t/821182) ![](assets/new.png)  
 - [2021-12-09-普通打工仔对生活无力又无奈的吐糟](https://www.v2ex.com/t/821181) ![](assets/new.png)  
 - [2021-12-09-哥哥们有没有没月租，直接买流量用完再充的流量卡？](https://www.v2ex.com/t/821180) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-09-回来生活在-18-线小县城的几个月有感。](https://www.v2ex.com/t/821163) ![](assets/new.png)  
 - [2021-12-09-7.8-寸与-10-寸电纸书该如何选择？](https://www.v2ex.com/t/821162) ![](assets/new.png)  
 - [2021-12-09-请教各位，有没有什么数据库能存储大量-PDF](https://www.v2ex.com/t/821159) ![](assets/new.png)  
-- [2021-12-09-出个自用的-AirPods-2-代](https://www.v2ex.com/t/821158) ![](assets/new.png)  
-- [2021-12-09-你所在的公司有育儿假了吗](https://www.v2ex.com/t/821157) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

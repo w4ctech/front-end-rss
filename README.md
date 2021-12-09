@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-09 02:32:58，:rocket: 更新条数: +1563， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-09 02:47:08，:rocket: 更新条数: +1566， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2021-12-09-1password-家庭订阅招车友，已稳定-2-年，缺-3-人](https://www.v2ex.com/t/821060) ![](assets/new.png)  
+- [2021-12-09-Cookie-定义中的-"site-for-cookies"-是指什么?](https://www.v2ex.com/t/821059) ![](assets/new.png)  
+- [2021-12-09-各位有没有业内优惠券的设计方案](https://www.v2ex.com/t/821058) ![](assets/new.png)  
+- [2021-12-09-Mysql-字段有必要都设置为-not-null-吗](https://www.v2ex.com/t/821057) ![](assets/new.png)  
+- [2021-12-09-有没有开源的日历服务可以搭建在自己的服务器上?](https://www.v2ex.com/t/821056) ![](assets/new.png)  
+- [2021-12-09-手机登录的换号安全问题](https://www.v2ex.com/t/821055) ![](assets/new.png)  
 - [2021-12-09-macOS-command-+-F-搜索的问题](https://www.v2ex.com/t/821054) ![](assets/new.png)  
 - [2021-12-09-咨询道友们一个算法问题：输入元素集合，输出特征短元素集合](https://www.v2ex.com/t/821052) ![](assets/new.png)  
 - [2021-12-09-macbook-能不能只使用扩展屏，自己本身显示屏不亮](https://www.v2ex.com/t/821051) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-12-09-对抽象的叙述语句经常理解困难](https://www.v2ex.com/t/821041) ![](assets/new.png)  
 - [2021-12-09-Matebook-E-是否该选择](https://www.v2ex.com/t/821040) ![](assets/new.png)  
 - [2021-12-09-有一个-关于-go-get-命令的问题](https://www.v2ex.com/t/821039) ![](assets/new.png)  
-- [2021-12-09-转租-民治站步行-470-米|两房一厅-51㎡3000-元|泊寓电梯-9-楼|精装带阳台厨房|整租](https://www.v2ex.com/t/821038) ![](assets/new.png)  
-- [2021-12-09-联通宽带,这个应该是最便宜的吧](https://www.v2ex.com/t/821036) ![](assets/new.png)  
-- [2021-12-09-Golang-Kafka-Writer-消息被截断](https://www.v2ex.com/t/821035) ![](assets/new.png)  
-- [2021-12-09-山东烟台-明石创新招聘-Android-开发工程师](https://www.v2ex.com/t/821033) ![](assets/new.png)  
-- [2021-12-09-请问怎么样才能愉快的前后端进行对接](https://www.v2ex.com/t/821032) ![](assets/new.png)  
-- [2021-12-09-现在不都是前后端分离了吗？为什么-Go-好多开源项目还是前后端一起？是我理解有误吗？](https://www.v2ex.com/t/821031) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2021-12-09-从微服务架构的现状和未来看学习路径](https://toutiao.io/k/oznt48i) ![](assets/new.png)  
 - [2021-12-09-速解元宇宙-/-Metaverse-迷雾下的行动指南](https://toutiao.io/k/fuvpa38) ![](assets/new.png)  
 - [2021-12-09-湖中剑-前端周刊-15-|-Whistle-抓包、浏览器原理、echarts-做游戏、Sandpack-浏览器打包、性能优化](https://toutiao.io/k/sp7wmyg) ![](assets/new.png)  
-- [2021-12-09-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
-- [2021-12-09-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
+- [2021-12-09-自己动手实现-Go-的服务注册与发现（中）](https://toutiao.io/k/adyzi01) ![](assets/new.png)  
+- [2021-12-09-C++-为什么要弄出虚表这个东西？](https://toutiao.io/k/0q77v9s) ![](assets/new.png)  
 - [2021-12-09-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-09-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
-- [2021-12-09-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
+- [2021-12-09-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-09-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

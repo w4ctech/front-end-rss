@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-09 05:21:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-09 05:37:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,4 +40,3 @@
 - [2021-12-09-ShowDoc-v2.9.14-发布，-IT-团队的在线-API-文档、技术文档工具](https://www.v2ex.com/t/821047) 
 - [2021-12-09-支付宝-体验技术部---搭建中台，招前端啦！-P5---P7-大量-HC](https://www.v2ex.com/t/821046) 
 - [2021-12-09-求教-V-友们-MBP-miniled-屏幕比-MacBook-AIR-对眼睛视力更好吗？](https://www.v2ex.com/t/821045) 
-- [2021-12-09-白裙用社区安装的-TRANSMISSION-3-现在各大站点都支持吗。。。](https://www.v2ex.com/t/821044) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-09 12:19:10，:rocket: 更新条数: +1568， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-09 12:34:57，:rocket: 更新条数: +1568， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-09-不同的发货地发出的-MacBook，站在统计学的角度，品控有差异吗?](https://www.v2ex.com/t/821192) ![](assets/new.png)  
+- [2021-12-09-DIY-的群晖换了电源后，没有了通知事件](https://www.v2ex.com/t/821191) ![](assets/new.png)  
+- [2021-12-09-游戏行业转互联网，自学两个月-golang-能上岸二三线的厂吗](https://www.v2ex.com/t/821190) ![](assets/new.png)  
 - [2021-12-09-有没有什么检查代理成没成功的工具？能看自己-IP-的服务？](https://www.v2ex.com/t/821189) ![](assets/new.png)  
 - [2021-12-09-Git-的-staged-area-应该怎样翻译才信达雅?](https://www.v2ex.com/t/821188) ![](assets/new.png)  
 - [2021-12-09-人在重庆，冬天几乎晒不到太阳，想换到南方二三线城市，有什么推荐。](https://www.v2ex.com/t/821187) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-09-北京朝阳-北苑路北-嵌入式软件+硬件工程师，质量（测试）工程师](https://www.v2ex.com/t/821171) ![](assets/new.png)  
 - [2021-12-09-mongodb-分组如何返回所有字段](https://www.v2ex.com/t/821170) ![](assets/new.png)  
 - [2021-12-09-14-寸-10-+-14-+-32G-+-1T-开一个-IDEA-窗口居然卡的不行](https://www.v2ex.com/t/821169) ![](assets/new.png)  
-- [2021-12-09-有没有类似-Elixir-Nerves-的针对树莓派的嵌入式软件开发框架](https://www.v2ex.com/t/821168) ![](assets/new.png)  
-- [2021-12-09-总是说-Python-比-Java-用起来方便，-那些设计-Python-或者-Java-语言时，-哪个更艰难呢？](https://www.v2ex.com/t/821167) ![](assets/new.png)  
-- [2021-12-09-程序猿副业/创意交流、心得分享、资料共享群建设](https://www.v2ex.com/t/821165) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

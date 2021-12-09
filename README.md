@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-09 09:57:18，:rocket: 更新条数: +1569， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-09 10:14:06，:rocket: 更新条数: +1568， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-09-macOS-12.0-的电池用量历史图表不太方便呀](https://www.v2ex.com/t/821175) ![](assets/new.png)  
+- [2021-12-09-育碧最近出的这个《极限国度》算是-3D-游戏画面渲染的一个新高度吧](https://www.v2ex.com/t/821174) ![](assets/new.png)  
+- [2021-12-09-最近使用-apple-tv，投屏-B-站视频，出现-此视频无法投屏](https://www.v2ex.com/t/821172) ![](assets/new.png)  
+- [2021-12-09-北京朝阳-北苑路北-嵌入式软件+硬件工程师，质量（测试）工程师](https://www.v2ex.com/t/821171) ![](assets/new.png)  
 - [2021-12-09-mongodb-分组如何返回所有字段](https://www.v2ex.com/t/821170) ![](assets/new.png)  
 - [2021-12-09-14-寸-10-+-14-+-32G-+-1T-开一个-IDEA-窗口居然卡的不行](https://www.v2ex.com/t/821169) ![](assets/new.png)  
 - [2021-12-09-有没有类似-Elixir-Nerves-的针对树莓派的嵌入式软件开发框架](https://www.v2ex.com/t/821168) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-09-平台开发中的第三方账户信息如何与系统隔离](https://www.v2ex.com/t/821152) ![](assets/new.png)  
 - [2021-12-09-Mac-版微信频频卡死的-bug](https://www.v2ex.com/t/821148) ![](assets/new.png)  
 - [2021-12-09-请问广佛地区哪里有修-Nas-群晖的](https://www.v2ex.com/t/821147) ![](assets/new.png)  
-- [2021-12-09-五年前端的迷茫,-想和大家聊聊看.](https://www.v2ex.com/t/821146) ![](assets/new.png)  
-- [2021-12-09-Chrome-Android-关闭-tab-group](https://www.v2ex.com/t/821145) ![](assets/new.png)  
-- [2021-12-09-字节跳动-RTC-上海服务端开发工程师急招](https://www.v2ex.com/t/821142) ![](assets/new.png)  
-- [2021-12-09-魔都宽带折腾，比预期的要好](https://www.v2ex.com/t/821141) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2021-12-09-LinkedIn-直播系统是如何实现每秒百万点赞的](https://toutiao.io/k/u3prgdi) ![](assets/new.png)  
 - [2021-12-09-从微服务架构的现状和未来看学习路径](https://toutiao.io/k/oznt48i) ![](assets/new.png)  
 - [2021-12-09-梳理正则表达式发展史](https://toutiao.io/k/mgj68dp) ![](assets/new.png)  
-- [2021-12-09-开源-BiT：探索计算机视觉的大规模预训练](https://toutiao.io/k/qffp24w) ![](assets/new.png)  
 - [2021-12-09-译-必须知道的-Kubernetes-设计模式-Top-10](https://toutiao.io/k/z8shdjl) ![](assets/new.png)  
+- [2021-12-09-开源-BiT：探索计算机视觉的大规模预训练](https://toutiao.io/k/qffp24w) ![](assets/new.png)  
 - [2021-12-09-canvaskit-wasm：在浏览器中直接使用-skia-的能力渲染-sketch-文件](https://toutiao.io/k/58uyqv8) ![](assets/new.png)  
 - [2021-12-09-译-精彩回顾-|-2021-Android-开发者峰会](https://toutiao.io/k/t2zz53r) ![](assets/new.png)  
 - [2021-12-09-Go：如何编写-ProtoBuf-插件-一-？](https://toutiao.io/k/sanbilo) ![](assets/new.png)  

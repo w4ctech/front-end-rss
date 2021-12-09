@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-09 10:45:40，:rocket: 更新条数: +1568， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-09 10:57:57，:rocket: 更新条数: +1567， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,9 +494,11 @@
 </summary>
 
 
+- [2021-12-09-macOS-识别图片文字的效果是不是很好？](https://www.v2ex.com/t/821182) ![](assets/new.png)  
+- [2021-12-09-普通打工仔对生活无力又无奈的吐糟](https://www.v2ex.com/t/821181) ![](assets/new.png)  
+- [2021-12-09-哥哥们有没有没月租，直接买流量用完再充的流量卡？](https://www.v2ex.com/t/821180) ![](assets/new.png)  
 - [2021-12-09-好奇，普通人创业有机会拿融资吗？没有人脉和资源，是不是就注定没机会了](https://www.v2ex.com/t/821178) ![](assets/new.png)  
 - [2021-12-09-Mac-下-Idea-使用-JBR17jdk17运行时并开启-metal](https://www.v2ex.com/t/821177) ![](assets/new.png)  
-- [2021-12-09-招聘短期前端开发，需要驻场，地点青岛，-18753682308](https://www.v2ex.com/t/821176) ![](assets/new.png)  
 - [2021-12-09-macOS-12.0-的电池用量历史图表不太方便呀](https://www.v2ex.com/t/821175) ![](assets/new.png)  
 - [2021-12-09-育碧最近出的这个《极限国度》算是-3D-游戏画面渲染的一个新高度吧](https://www.v2ex.com/t/821174) ![](assets/new.png)  
 - [2021-12-09-最近使用-apple-tv，投屏-B-站视频，出现-此视频无法投屏](https://www.v2ex.com/t/821172) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-09-请教各位，有没有什么数据库能存储大量-PDF](https://www.v2ex.com/t/821159) ![](assets/new.png)  
 - [2021-12-09-出个自用的-AirPods-2-代](https://www.v2ex.com/t/821158) ![](assets/new.png)  
 - [2021-12-09-你所在的公司有育儿假了吗](https://www.v2ex.com/t/821157) ![](assets/new.png)  
-- [2021-12-09-深圳/招聘/-40-60K-Golang-后台架构师](https://www.v2ex.com/t/821155) ![](assets/new.png)  
-- [2021-12-09-我想删了这个主题-找不到入口～～～](https://www.v2ex.com/t/821153) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

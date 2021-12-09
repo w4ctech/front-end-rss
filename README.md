@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-09 09:22:52，:rocket: 更新条数: +1570， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-09 09:41:06，:rocket: 更新条数: +1571， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-09-回来生活在-18-线小县城的几个月有感。](https://www.v2ex.com/t/821163) ![](assets/new.png)  
+- [2021-12-09-7.8-寸与-10-寸电纸书该如何选择？](https://www.v2ex.com/t/821162) ![](assets/new.png)  
+- [2021-12-09-1Password-家庭车开车，-80-左右/年](https://www.v2ex.com/t/821160) ![](assets/new.png)  
+- [2021-12-09-请教各位，有没有什么数据库能存储大量-PDF](https://www.v2ex.com/t/821159) ![](assets/new.png)  
 - [2021-12-09-出个自用的-AirPods-2-代](https://www.v2ex.com/t/821158) ![](assets/new.png)  
 - [2021-12-09-你所在的公司有育儿假了吗](https://www.v2ex.com/t/821157) ![](assets/new.png)  
 - [2021-12-09-深圳/招聘/-40-60K-Golang-后台架构师](https://www.v2ex.com/t/821155) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-09-关于-chrome-版本号超过-100-导致斗鱼无法观看的问题以及解决方法](https://www.v2ex.com/t/821140) ![](assets/new.png)  
 - [2021-12-09-有比较方便的把公众号做成电子书的方法吗？](https://www.v2ex.com/t/821139) ![](assets/new.png)  
 - [2021-12-09-这感觉，来了](https://www.v2ex.com/t/821138) ![](assets/new.png)  
-- [2021-12-09-新加坡新加坡知名交易所急招前端开发，后端开发（go,-Java-或-C++），移动端开发（Flutter），测试开发（QA），大数据开发，运维开发（DevOps/SRE）等各技术方...](https://www.v2ex.com/t/821137) ![](assets/new.png)  
-- [2021-12-09-迫于-mbp2018-卡顿是否有必要更换-m1-的-mbp2020](https://www.v2ex.com/t/821136) ![](assets/new.png)  
-- [2021-12-09-江西电信家宽现已提供-ipv4-ipv6-双栈公网-ip](https://www.v2ex.com/t/821135) ![](assets/new.png)  
-- [2021-12-09-千兆跑不满，我是不是该换硬盘了](https://www.v2ex.com/t/821134) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,8 +565,8 @@
 - [2021-12-09-梳理正则表达式发展史](https://toutiao.io/k/mgj68dp) ![](assets/new.png)  
 - [2021-12-09-开源-BiT：探索计算机视觉的大规模预训练](https://toutiao.io/k/qffp24w) ![](assets/new.png)  
 - [2021-12-09-canvaskit-wasm：在浏览器中直接使用-skia-的能力渲染-sketch-文件](https://toutiao.io/k/58uyqv8) ![](assets/new.png)  
-- [2021-12-09-译-精彩回顾-|-2021-Android-开发者峰会](https://toutiao.io/k/t2zz53r) ![](assets/new.png)  
 - [2021-12-09-译-必须知道的-Kubernetes-设计模式-Top-10](https://toutiao.io/k/z8shdjl) ![](assets/new.png)  
+- [2021-12-09-译-精彩回顾-|-2021-Android-开发者峰会](https://toutiao.io/k/t2zz53r) ![](assets/new.png)  
 - [2021-12-09-Go：如何编写-ProtoBuf-插件-一-？](https://toutiao.io/k/sanbilo) ![](assets/new.png)  
 - [2021-12-09-.NET-Core-如何配置-TLS-Cipher（套件）？](https://toutiao.io/k/rrz4tuw) ![](assets/new.png)  
 - [2021-12-09-速解元宇宙-/-Metaverse-迷雾下的行动指南](https://toutiao.io/k/fuvpa38) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-09 01:59:20，:rocket: 更新条数: +1565， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-09 02:12:18，:rocket: 更新条数: +1563， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-09-大陆正式封锁-Apple-设备的海拔和经纬度功能，有哪些方面会被影响](https://www.v2ex.com/t/821043) ![](assets/new.png)  
+- [2021-12-09-对抽象的叙述语句经常理解困难](https://www.v2ex.com/t/821041) ![](assets/new.png)  
+- [2021-12-09-Matebook-E-是否该选择](https://www.v2ex.com/t/821040) ![](assets/new.png)  
+- [2021-12-09-有一个-关于-go-get-命令的问题](https://www.v2ex.com/t/821039) ![](assets/new.png)  
+- [2021-12-09-转租-民治站步行-470-米|两房一厅-51㎡3000-元|泊寓电梯-9-楼|精装带阳台厨房|整租](https://www.v2ex.com/t/821038) ![](assets/new.png)  
 - [2021-12-09-联通宽带,这个应该是最便宜的吧](https://www.v2ex.com/t/821036) ![](assets/new.png)  
 - [2021-12-09-Golang-Kafka-Writer-消息被截断](https://www.v2ex.com/t/821035) ![](assets/new.png)  
 - [2021-12-09-山东烟台-明石创新招聘-Android-开发工程师](https://www.v2ex.com/t/821033) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-09-PDF-电子书打印](https://www.v2ex.com/t/821020) ![](assets/new.png)  
 - [2021-12-09-北京租房求推荐,-离地铁近就行](https://www.v2ex.com/t/821018) ![](assets/new.png)  
 - [2021-12-09-使用-powershell-获取文件部分内容](https://www.v2ex.com/t/821017) ![](assets/new.png)  
-- [2021-12-08-Python-的-pickle-加载大于内存上限的内容时会分段载入吗？应该怎么处理大文件读取？](https://www.v2ex.com/t/821016) ![](assets/new.png)  
-- [2021-12-08-假设你具有这样一种回到过去的能力，你将如何使用？](https://www.v2ex.com/t/821015) ![](assets/new.png)  
-- [2021-12-08-20211208---大约持续了-3-个小时的头像上传问题](https://www.v2ex.com/t/821014) ![](assets/new.png)  
-- [2021-12-08-向已有的-PowerShell-prompt-追加自己的代码](https://www.v2ex.com/t/821012) ![](assets/new.png)  
-- [2021-12-08-20211208---创建新主题时的草稿问题](https://www.v2ex.com/t/821011) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2021-12-09-从微服务架构的现状和未来看学习路径](https://toutiao.io/k/oznt48i) ![](assets/new.png)  
 - [2021-12-09-速解元宇宙-/-Metaverse-迷雾下的行动指南](https://toutiao.io/k/fuvpa38) ![](assets/new.png)  
 - [2021-12-09-湖中剑-前端周刊-15-|-Whistle-抓包、浏览器原理、echarts-做游戏、Sandpack-浏览器打包、性能优化](https://toutiao.io/k/sp7wmyg) ![](assets/new.png)  
-- [2021-12-09-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
-- [2021-12-09-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-09-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
+- [2021-12-09-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
+- [2021-12-09-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
 - [2021-12-09-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-09-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
-- [2021-12-09-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
+- [2021-12-09-推荐-如何做好一份程序员的工作汇报-ppt？](https://toutiao.io/k/1byulsh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

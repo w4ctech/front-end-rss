@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-09 14:12:40，:rocket: 更新条数: +1570， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-09 14:20:48，:rocket: 更新条数: +1570， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-09-技术部要组建一个团建，大家来支支招](https://www.v2ex.com/t/821203) ![](assets/new.png)  
 - [2021-12-09-北大健康医疗大数据研究院现公开招聘实习生！](https://www.v2ex.com/t/821202) ![](assets/new.png)  
 - [2021-12-09-MBP-14-寸乞丐版开发一周深度体验-很香](https://www.v2ex.com/t/821201) ![](assets/new.png)  
 - [2021-12-09-小白求助大数据大佬-spark-问题](https://www.v2ex.com/t/821200) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-09-macOS-识别图片文字的效果是不是很好？](https://www.v2ex.com/t/821182) ![](assets/new.png)  
 - [2021-12-09-普通打工仔对生活无力又无奈的吐糟](https://www.v2ex.com/t/821181) ![](assets/new.png)  
 - [2021-12-09-哥哥们有没有没月租，直接买流量用完再充的流量卡？](https://www.v2ex.com/t/821180) ![](assets/new.png)  
-- [2021-12-09-好奇，普通人创业有机会拿融资吗？没有人脉和资源，是不是就注定没机会了](https://www.v2ex.com/t/821178) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

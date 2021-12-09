@@ -7604,6 +7604,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Git 的 staged area 应该怎样翻译才信达雅?",
+        "link": "https://www.v2ex.com/t/821188",
+        "date": "2021-12-09"
+      },
+      {
+        "title": "人在重庆，冬天几乎晒不到太阳，想换到南方二三线城市，有什么推荐。",
+        "link": "https://www.v2ex.com/t/821187",
+        "date": "2021-12-09"
+      },
+      {
         "title": "git 和 dropbox 如何结合在一起。",
         "link": "https://www.v2ex.com/t/821186",
         "date": "2021-12-09"
@@ -7771,16 +7781,6 @@
       {
         "title": "有比较方便的把公众号做成电子书的方法吗？",
         "link": "https://www.v2ex.com/t/821139",
-        "date": "2021-12-09"
-      },
-      {
-        "title": "这感觉，来了",
-        "link": "https://www.v2ex.com/t/821138",
-        "date": "2021-12-09"
-      },
-      {
-        "title": "[新加坡]新加坡知名交易所急招前端开发，后端开发（go, Java 或 C++），移动端开发（Flutter），测试开发（QA），大数据开发，运维开发（DevOps/SRE）等各技术方...",
-        "link": "https://www.v2ex.com/t/821137",
         "date": "2021-12-09"
       }
     ]
@@ -7998,13 +7998,8 @@
         "date": "2021-12-09"
       },
       {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
-        "date": "2021-12-09"
-      },
-      {
-        "title": "[推荐] 字节跳动飞书文档的 Web 极致性能优化",
-        "link": "https://toutiao.io/k/v1nqbu5",
+        "title": "[推荐] Golang 编程思维和工程实战",
+        "link": "https://toutiao.io/k/usjzg6m",
         "date": "2021-12-09"
       },
       {
@@ -8013,28 +8008,13 @@
         "date": "2021-12-09"
       },
       {
-        "title": "[推荐] Golang 编程思维和工程实战",
-        "link": "https://toutiao.io/k/usjzg6m",
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
         "date": "2021-12-09"
       },
       {
-        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
-        "link": "https://toutiao.io/k/h7wj37b",
-        "date": "2021-12-09"
-      },
-      {
-        "title": "[推荐] 我的绘图工具箱",
-        "link": "https://toutiao.io/k/cpcd1i2",
-        "date": "2021-12-09"
-      },
-      {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
-        "date": "2021-12-09"
-      },
-      {
-        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
-        "link": "https://toutiao.io/k/004032c",
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
         "date": "2021-12-09"
       },
       {
@@ -8048,13 +8028,13 @@
         "date": "2021-12-09"
       },
       {
-        "title": "[推荐] 1 万行代码，单机 50 万 QPS，今年最值得学习的开源 RPC 框架",
-        "link": "https://toutiao.io/k/5fkacdj",
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
         "date": "2021-12-09"
       },
       {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
+        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
+        "link": "https://toutiao.io/k/h7wj37b",
         "date": "2021-12-09"
       },
       {
@@ -8063,13 +8043,33 @@
         "date": "2021-12-09"
       },
       {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
         "date": "2021-12-09"
       },
       {
-        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
-        "link": "https://toutiao.io/k/8k28pnf",
+        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
+        "link": "https://toutiao.io/k/004032c",
+        "date": "2021-12-09"
+      },
+      {
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
+        "date": "2021-12-09"
+      },
+      {
+        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
+        "link": "https://toutiao.io/k/96zw0k6",
+        "date": "2021-12-09"
+      },
+      {
+        "title": "[推荐] 我的绘图工具箱",
+        "link": "https://toutiao.io/k/cpcd1i2",
+        "date": "2021-12-09"
+      },
+      {
+        "title": "[推荐] 1 万行代码，单机 50 万 QPS，今年最值得学习的开源 RPC 框架",
+        "link": "https://toutiao.io/k/5fkacdj",
         "date": "2021-12-09"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-10 18:15:20，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-10 18:26:13，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-10-诡异的改名-bug](https://www.v2ex.com/t/821454) ![](assets/new.png)  
 - [2021-12-10-Parallels-Desktop-应该买断还是订阅？](https://www.v2ex.com/t/821453) ![](assets/new.png)  
 - [2021-12-10-游戏行业的运维开发是什么样的？值得入坑么？](https://www.v2ex.com/t/821451) ![](assets/new.png)  
 - [2021-12-10-14-寸-32G-1T-上手体验很赞](https://www.v2ex.com/t/821450) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-10-ECG-算法版本是统一的吗？不同地方开通的有区别吗？](https://www.v2ex.com/t/821431) ![](assets/new.png)  
 - [2021-12-10-内推-网易雷火本周热招岗位：测试&营销专场](https://www.v2ex.com/t/821430) ![](assets/new.png)  
 - [2021-12-10-LVM-分区的硬盘如何迁移到另外的机器。](https://www.v2ex.com/t/821429) ![](assets/new.png)  
-- [2021-12-10-小米计算器怎么不更新-iOS-版了？](https://www.v2ex.com/t/821428) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

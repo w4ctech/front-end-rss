@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-10 11:39:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-10 11:54:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -182,7 +182,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
 - [【V2EX】请教一个正则表达式，用于写捷径，拜谢！](https://www.v2ex.com/t/821382)
 - [【V2EX】Python-的-websockets-用的是-async,是不是意味着如果用这个做服务端的话，所有功能都得用-asyncio-写？](https://www.v2ex.com/t/821375)
-- [【V2EX】关于现在的-log4j2-漏洞的系统变量缓解方法](https://www.v2ex.com/t/821360)
 - [【技术头条】组件封装之输入框下拉列表-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14833&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492605%26amp%3Bidx%3D2%26amp%3Bsn%3D85c11bed6931095d0117907d1c1959ab%26amp%3Bchksm%3Dfa3f02a6cd488bb0d369ffee088d37a3dba983c111c2bbec0f61154be8b2b0e275317bc012fa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】策略即代码：为了-OpenPolicyAgent-学-Rego？试试-JavaScript](https://toutiao.io/k/vzqym6q)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -283,6 +282,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)
+- [【V2EX】远程调试和开发工具推荐（VS-Code-\-Jet-Brains-\-DCS-\-Dev-Environment）](https://www.v2ex.com/t/821409)
 - [【V2EX】Apache-Log4j-2-报高危漏洞，-CODING-联手腾讯安全护卫软件安全](https://www.v2ex.com/t/821394)
 - [【V2EX】用-ZeroTier-各位有没有遇到有些-peer-有时候-relay-有时候-direct-的情况？](https://www.v2ex.com/t/821368)
 - [【V2EX】gitlab-如何强制-code-review](https://www.v2ex.com/t/821366)
@@ -339,7 +339,6 @@
 - [【V2EX】gitee-码云证书被黑了么?-还是我这-dns-被污染了?](https://www.v2ex.com/t/821407)
 - [【V2EX】notion-实现自动发布到-hugo-github-博客](https://www.v2ex.com/t/821388)
 - [【V2EX】github-账号被-flagged-的感受](https://www.v2ex.com/t/821367)
-- [【V2EX】请问-Java-中的-hexDigitsbt-&-0xf0->>-4转换成-kotlin-要如何写呢？](https://www.v2ex.com/t/821359)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-10 08:26:19，:rocket: 更新条数: +1569， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-10 08:43:44，:rocket: 更新条数: +1572， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,9 @@
 
 
 - [2021-12-10-12月9日全国新增新冠63例-五省份本土37例](https://m.caixin.com/m/2021-12-10/101815935.html) ![](assets/new.png)  
+- [2021-12-10-【境内疫情观察】全国新增37例本土病例（12月9日）](https://database.caixin.com/m/2021-12-10/101816185.html) ![](assets/new.png)  
 - [2021-12-10-欧盟疫苗通行证有效期或为9个月-英格兰启动B计划｜大流行手记（12月9日）](https://m.caixin.com/m/2021-12-10/101815972.html) ![](assets/new.png)  
+- [2021-12-10-【图集】中国首个抗新冠病毒特效药获批上市](https://photos.caixin.com/m/2021-12-10/101816178.html) ![](assets/new.png)  
 - [2021-12-09-浙江五天累计阳性59例-省内三地防疫措施升级](https://m.caixin.com/m/2021-12-09/101815867.html) ![](assets/new.png)  
 - [2021-12-09-港大研发全球首个抗新冠病毒的不锈钢材](https://m.caixin.com/m/2021-12-09/101815811.html) ![](assets/new.png)  
 - [2021-12-09-辉瑞和BioNTech称3针mRNA疫苗可抵御Omicron变异株](https://m.caixin.com/m/2021-12-09/101815767.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2021-12-06-宁波通报3例核酸阳性-与近期国内多地德尔塔变异株高度同源](https://m.caixin.com/m/2021-12-06/101814070.html) ![](assets/new.png)  
 - [2021-12-06-广西通报2名非法入境阳性感染者轨迹-一人为此前福建安溪病例](https://m.caixin.com/m/2021-12-06/101814120.html) ![](assets/new.png)  
 - [2021-12-06-【境内疫情观察】全国新增38例本土病例（12月5日）](https://database.caixin.com/m/2021-12-06/101814170.html) ![](assets/new.png)  
-- [2021-12-06-Omicron或含感冒病毒基因片段-美国单日病例再超10万例｜大流行手记（12月5日）](https://m.caixin.com/m/2021-12-06/101814016.html) ![](assets/new.png)  
-- [2021-12-05-福建安溪一境外入境人员核酸阳性-石家庄与满洲里疫情同传播链](https://m.caixin.com/m/2021-12-05/101813954.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-10-apple-tv-得-app-是和-ios-里得一样吗](https://www.v2ex.com/t/821372) ![](assets/new.png)  
+- [2021-12-10-Android-开机时重设-selinux-规则导致系统开机非常慢](https://www.v2ex.com/t/821370) ![](assets/new.png)  
+- [2021-12-10-问下，上海电信的，但连不回家里的端口](https://www.v2ex.com/t/821369) ![](assets/new.png)  
+- [2021-12-10-用-ZeroTier-各位有没有遇到有些-peer-有时候-relay-有时候-direct-的情况？](https://www.v2ex.com/t/821368) ![](assets/new.png)  
+- [2021-12-10-github-账号被-flagged-的感受](https://www.v2ex.com/t/821367) ![](assets/new.png)  
 - [2021-12-10-gitlab-如何强制-code-review](https://www.v2ex.com/t/821366) ![](assets/new.png)  
 - [2021-12-10-magsafe-移动电源购买建议？](https://www.v2ex.com/t/821365) ![](assets/new.png)  
 - [2021-12-10-年底了人难招啊](https://www.v2ex.com/t/821364) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-10-微软-TTS-2021-的语音-Demo](https://www.v2ex.com/t/821352) ![](assets/new.png)  
 - [2021-12-10-MIUI-每次打开应用-Spotify-必然暂停一下](https://www.v2ex.com/t/821350) ![](assets/new.png)  
 - [2021-12-10-年底了，今年大家投资自己花了多少钱？](https://www.v2ex.com/t/821348) ![](assets/new.png)  
-- [2021-12-10-90-后与红利](https://www.v2ex.com/t/821347) ![](assets/new.png)  
-- [2021-12-10-MPB-15-2015-款内置键盘挂了-大佬看下还值得维修不](https://www.v2ex.com/t/821346) ![](assets/new.png)  
-- [2021-12-10-微信最近小程序如何批量删除](https://www.v2ex.com/t/821345) ![](assets/new.png)  
-- [2021-12-10-AirPods-Pro-的-bugfeature-3-个版本固件过去了还没修](https://www.v2ex.com/t/821344) ![](assets/new.png)  
-- [2021-12-10-请问哪个公司做高校的学生管理系统比较好](https://www.v2ex.com/t/821343) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,6 +560,7 @@
 - [2021-12-10-我在工作中常用的-C++-开源库和框架](https://toutiao.io/k/bk7eqgh) ![](assets/new.png)  
 - [2021-12-10-Intel-内存管理两板斧：分段与分页](https://toutiao.io/k/nq84jym) ![](assets/new.png)  
 - [2021-12-10-元宇宙时代，谁在割谁的韭菜？](https://toutiao.io/k/x238vdn) ![](assets/new.png)  
+- [2021-12-10-Spring-Cloud-整合-Nacos-实现服务配置中心](https://toutiao.io/k/ilvya35) ![](assets/new.png)  
 - [2021-12-10-Arthas-发布-3.5.5-版本，支持-macOS-ARM64-架构，改进易用性](https://toutiao.io/k/7wnin28) ![](assets/new.png)  
 - [2021-12-10-李飞飞力荐：阿里巴巴高可用数据库解决方案](https://toutiao.io/k/n84bt8i) ![](assets/new.png)  
 - [2021-12-10-传入抽象接口，返回具体类型](https://toutiao.io/k/fxcc8cj) ![](assets/new.png)  
@@ -570,7 +571,6 @@
 - [2021-12-10-为什么-Web-3-与区块链有关](https://toutiao.io/k/agfxy9a) ![](assets/new.png)  
 - [2021-12-10-九章云极-DataCanvas-发布-2021-AutoML-自动机器学习白皮书（附完整下载）](https://toutiao.io/k/eyv0taa) ![](assets/new.png)  
 - [2021-12-10-用-strace-定位-bug](https://toutiao.io/k/bug79lt) ![](assets/new.png)  
-- [2021-12-10-Spring-Cloud-整合-Nacos-实现服务配置中心](https://toutiao.io/k/ilvya35) ![](assets/new.png)  
 - [2021-12-10-C++-20：下一个大版本功能确定](https://toutiao.io/k/3zxizm3) ![](assets/new.png)  
 - [2021-12-10-TensorFlow-在推荐系统中的分布式训练优化实践](https://toutiao.io/k/enmuf6e) ![](assets/new.png)  
 - [2021-12-10-微信支付团队精益研发实践总结](https://toutiao.io/k/iw8ap9a) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-10 13:54:48，:rocket: 更新条数: +1578， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-10 14:12:31，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-10-Chrome-的“清空缓存并硬性重新加载”能不能在不打开“检查”的情况下点击？](https://www.v2ex.com/t/821433) ![](assets/new.png)  
+- [2021-12-10-有-Java-，-cpp-语言经验，-Python-一边用一边学，有没系统且进阶一点的，不是那种适合纯小白的菜鸟教程](https://www.v2ex.com/t/821432) ![](assets/new.png)  
+- [2021-12-10-ECG-算法版本是统一的吗？不同地方开通的有区别吗？](https://www.v2ex.com/t/821431) ![](assets/new.png)  
+- [2021-12-10-内推-网易雷火本周热招岗位：测试&营销专场](https://www.v2ex.com/t/821430) ![](assets/new.png)  
+- [2021-12-10-LVM-分区的硬盘如何迁移到另外的机器。](https://www.v2ex.com/t/821429) ![](assets/new.png)  
 - [2021-12-10-小米计算器怎么不更新-iOS-版了？](https://www.v2ex.com/t/821428) ![](assets/new.png)  
 - [2021-12-10-域名不绑定服务器还会被清退？](https://www.v2ex.com/t/821427) ![](assets/new.png)  
 - [2021-12-10-aws-好像又挂了](https://www.v2ex.com/t/821426) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-10-饿了么-物流算法工程团队急招](https://www.v2ex.com/t/821413) ![](assets/new.png)  
 - [2021-12-10-log4j-源码编译时我遇到的问题及其解决办法](https://www.v2ex.com/t/821412) ![](assets/new.png)  
 - [2021-12-10-海外购物如何抵税？](https://www.v2ex.com/t/821410) ![](assets/new.png)  
-- [2021-12-10-远程调试和开发工具推荐（VS-Code-\-Jet-Brains-\-DCS-\-Dev-Environment）](https://www.v2ex.com/t/821409) ![](assets/new.png)  
-- [2021-12-10-想深入了解-K8S（代码级）大家有啥好的资料吗？](https://www.v2ex.com/t/821408) ![](assets/new.png)  
-- [2021-12-10-gitee-码云证书被黑了么?-还是我这-dns-被污染了?](https://www.v2ex.com/t/821407) ![](assets/new.png)  
-- [2021-12-10-2021-年快结束了，分享一下一个普通人这一年的消费情况。](https://www.v2ex.com/t/821406) ![](assets/new.png)  
-- [2021-12-10-Akkocloud-双十二德国-CN2-GIA-活动](https://www.v2ex.com/t/821404) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

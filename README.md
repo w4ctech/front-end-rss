@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-10 07:54:49，:rocket: 更新条数: +1571， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-10 08:14:42，:rocket: 更新条数: +1569， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-10-感叹一下发移民贴都是终极引流大法，另加高点击率关键词程序员](https://www.v2ex.com/t/821361) ![](assets/new.png)  
+- [2021-12-10-关于现在的-log4j2-漏洞的系统变量缓解方法](https://www.v2ex.com/t/821360) ![](assets/new.png)  
+- [2021-12-10-请问-Java-中的-hexDigitsbt-&-0xf0->>-4转换成-kotlin-要如何写呢？](https://www.v2ex.com/t/821359) ![](assets/new.png)  
+- [2021-12-10-443-又墙上了吗？](https://www.v2ex.com/t/821357) ![](assets/new.png)  
 - [2021-12-10-Github-出了一个-star-标签（分组）功能，被我搞出-bug-无法进入-star-页面了](https://www.v2ex.com/t/821356) ![](assets/new.png)  
 - [2021-12-10-websocket-多实例问题](https://www.v2ex.com/t/821355) ![](assets/new.png)  
 - [2021-12-10-有小伙伴-M1-air-更新到-Monterey-之后-开始发烫的吗？](https://www.v2ex.com/t/821354) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-10-Java-的-JNDI-rmi-现在还有在被经常使用吗?](https://www.v2ex.com/t/821340) ![](assets/new.png)  
 - [2021-12-10-FOLX-5-for-Mac-版，双十二活动，现五折优惠。](https://www.v2ex.com/t/821338) ![](assets/new.png)  
 - [2021-12-10-微书写作-+-直播，创造知识分享新乐趣](https://www.v2ex.com/t/821336) ![](assets/new.png)  
-- [2021-12-10-CoinMarketCap-上海招聘各种技术职位](https://www.v2ex.com/t/821334) ![](assets/new.png)  
-- [2021-12-10-成都-Java-招聘-不用顾虑年龄）](https://www.v2ex.com/t/821333) ![](assets/new.png)  
-- [2021-12-10-三星代工的芯片究竟哪里不行了呢?](https://www.v2ex.com/t/821332) ![](assets/new.png)  
-- [2021-12-10-提车了，我的房车介绍](https://www.v2ex.com/t/821330) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

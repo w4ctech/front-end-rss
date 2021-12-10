@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-10 09:25:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-10 09:40:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -283,6 +283,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)
+- [【V2EX】Apache-Log4j-2-报高危漏洞，-CODING-联手腾讯安全护卫软件安全](https://www.v2ex.com/t/821394)
 - [【V2EX】用-ZeroTier-各位有没有遇到有些-peer-有时候-relay-有时候-direct-的情况？](https://www.v2ex.com/t/821368)
 - [【V2EX】gitlab-如何强制-code-review](https://www.v2ex.com/t/821366)
 - [【V2EX】websocket-多实例问题](https://www.v2ex.com/t/821355)

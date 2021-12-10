@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-10 05:54:43，:rocket: 更新条数: +1571， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-10 06:14:41，:rocket: 更新条数: +1573， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-10-成都-Java-招聘-不用顾虑年龄）](https://www.v2ex.com/t/821333) ![](assets/new.png)  
+- [2021-12-10-三星代工的芯片究竟哪里不行了呢?](https://www.v2ex.com/t/821332) ![](assets/new.png)  
+- [2021-12-10-提车了，我的房车介绍](https://www.v2ex.com/t/821330) ![](assets/new.png)  
+- [2021-12-10-kubernetes（K8S）快速上手教程-+-实践](https://www.v2ex.com/t/821329) ![](assets/new.png)  
+- [2021-12-10-GitKraken-有什么便宜（或者免费？）的购买渠道，或者其他支持内网-Gitlab-的替代产品吗？](https://www.v2ex.com/t/821328) ![](assets/new.png)  
 - [2021-12-10-远程长期全职机会--Golang（时间灵活，不看年龄）](https://www.v2ex.com/t/821323) ![](assets/new.png)  
 - [2021-12-10-Magsafe3-除了官网哪里有卖](https://www.v2ex.com/t/821322) ![](assets/new.png)  
 - [2021-12-10-用-siri-远程启动你的-领克-？](https://www.v2ex.com/t/821321) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-10-mac-磁盘一小时写入-20g-正常吗，系统自带的监视工具算上移动硬盘的写入吗](https://www.v2ex.com/t/821309) ![](assets/new.png)  
 - [2021-12-10-有老哥在大地量子工作吗？](https://www.v2ex.com/t/821308) ![](assets/new.png)  
 - [2021-12-10-Python-如何创建独立的进程](https://www.v2ex.com/t/821307) ![](assets/new.png)  
-- [2021-12-10-PastePal-现在降价促销中，需要的可以下手](https://www.v2ex.com/t/821305) ![](assets/new.png)  
-- [2021-12-10-有没有老哥遇到我这种离谱问题过](https://www.v2ex.com/t/821304) ![](assets/new.png)  
-- [2021-12-10-airpods-pro-会出新版么](https://www.v2ex.com/t/821303) ![](assets/new.png)  
-- [2021-12-10-老哥-你们-mac-用原生输入法卡吗？](https://www.v2ex.com/t/821302) ![](assets/new.png)  
-- [2021-12-10-常用网站排个序](https://www.v2ex.com/t/821301) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -525,6 +525,8 @@
 </summary>
 
 
+- [2021-12-10-敏捷团队的生命周期-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14839&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-team-lifecycle%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2021-12-10-数字化转型：企业破局的34个锦囊（序）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14838&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdigital-transformation-34-tenets%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-10-和Stand-up再次相遇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14837&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-have-an-effective-standup%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-10-威胁建模——围绕假想敌的领域建模-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14836&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthread-modeling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-10-推荐学Java——数据表基本操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14835&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhGnL_xOtqz3lNxbRz2IxPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -543,8 +545,6 @@
 - [2021-12-10-一文全面解析Postman工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14822&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492456%26amp%3Bidx%3D2%26amp%3Bsn%3D6685cc0bdb157fdc2f96a3d5138c32a1%26amp%3Bchksm%3Dfa3f0233cd488b25305e2c20fefcdaeebf7046b99dacfbde10068aa9995312ff4f9100a496c7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-10-什么是前端工程化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14821&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492449%26amp%3Bidx%3D2%26amp%3Bsn%3D6a74aa4e37ef034460e48c2eacaa8200%26amp%3Bchksm%3Dfa3f023acd488b2cd2e8cd11955ccfc696430895e6943723ce48aba872d0ce40ee2b952905cb%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-10-服务端如何防止订单重复支付？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14820&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492431%26amp%3Bidx%3D2%26amp%3Bsn%3D235024ecea62984d53f83b302577eb6d%26amp%3Bchksm%3Dfa3f0214cd488b02f1b3b2b11cbfb7d9e3f8919a06865a600af6abbf10888da73111246ce7ca%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-12-10-写作中常用的绘图工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14819&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fpractical-drawing-toolbox%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-12-10-DDD落地，如何持久化融合-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14818&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-persist-aggregation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,19 +559,19 @@
 - [2021-12-10-CURD-系统怎么做出技术含量惊艳面试官](https://toutiao.io/k/0hurrgr) ![](assets/new.png)  
 - [2021-12-10-我在工作中常用的-C++-开源库和框架](https://toutiao.io/k/bk7eqgh) ![](assets/new.png)  
 - [2021-12-10-Intel-内存管理两板斧：分段与分页](https://toutiao.io/k/nq84jym) ![](assets/new.png)  
-- [2021-12-10-Arthas-发布-3.5.5-版本，支持-macOS-ARM64-架构，改进易用性](https://toutiao.io/k/7wnin28) ![](assets/new.png)  
 - [2021-12-10-元宇宙时代，谁在割谁的韭菜？](https://toutiao.io/k/x238vdn) ![](assets/new.png)  
+- [2021-12-10-Arthas-发布-3.5.5-版本，支持-macOS-ARM64-架构，改进易用性](https://toutiao.io/k/7wnin28) ![](assets/new.png)  
 - [2021-12-10-聊聊-Seccomp-在-runc-的使用](https://toutiao.io/k/s7d5o2i) ![](assets/new.png)  
-- [2021-12-10-策略即代码：为了-OpenPolicyAgent-学-Rego？试试-JavaScript](https://toutiao.io/k/vzqym6q) ![](assets/new.png)  
 - [2021-12-10-李飞飞力荐：阿里巴巴高可用数据库解决方案](https://toutiao.io/k/n84bt8i) ![](assets/new.png)  
+- [2021-12-10-策略即代码：为了-OpenPolicyAgent-学-Rego？试试-JavaScript](https://toutiao.io/k/vzqym6q) ![](assets/new.png)  
 - [2021-12-10-Go-新关键字-any，interface-会成历史吗？](https://toutiao.io/k/pevk7yx) ![](assets/new.png)  
 - [2021-12-10-传入抽象接口，返回具体类型](https://toutiao.io/k/fxcc8cj) ![](assets/new.png)  
+- [2021-12-10-使用-Electron-将-vue-cli3.x-项目打包为桌面应用](https://toutiao.io/k/4v2h3ni) ![](assets/new.png)  
 - [2021-12-10-为什么-Web-3-与区块链有关](https://toutiao.io/k/agfxy9a) ![](assets/new.png)  
 - [2021-12-10-九章云极-DataCanvas-发布-2021-AutoML-自动机器学习白皮书（附完整下载）](https://toutiao.io/k/eyv0taa) ![](assets/new.png)  
-- [2021-12-10-使用-Electron-将-vue-cli3.x-项目打包为桌面应用](https://toutiao.io/k/4v2h3ni) ![](assets/new.png)  
 - [2021-12-10-用-strace-定位-bug](https://toutiao.io/k/bug79lt) ![](assets/new.png)  
-- [2021-12-10-C++-20：下一个大版本功能确定](https://toutiao.io/k/3zxizm3) ![](assets/new.png)  
 - [2021-12-10-Spring-Cloud-整合-Nacos-实现服务配置中心](https://toutiao.io/k/ilvya35) ![](assets/new.png)  
+- [2021-12-10-C++-20：下一个大版本功能确定](https://toutiao.io/k/3zxizm3) ![](assets/new.png)  
 - [2021-12-10-TensorFlow-在推荐系统中的分布式训练优化实践](https://toutiao.io/k/enmuf6e) ![](assets/new.png)  
 - [2021-12-10-微信支付团队精益研发实践总结](https://toutiao.io/k/iw8ap9a) ![](assets/new.png)  
 - [2021-12-10-基于建木-CI-部署-maven-项目](https://toutiao.io/k/fg4b3x6) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-10 10:13:45，:rocket: 更新条数: +1577， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-10 10:24:35，:rocket: 更新条数: +1578， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,14 +65,14 @@
 </summary>
 
 
-- [2021-12-10-12月9日全国新增新冠63例-五省份本土37例](https://m.caixin.com/m/2021-12-10/101815935.html) ![](assets/new.png)  
+- [2021-12-10-最新疫情：全国新冠累计确诊99517例-累计接种新冠疫苗超25.82亿剂次](https://m.caixin.com/m/2021-12-10/101816322.html) ![](assets/new.png)  
+- [2021-12-10-最新海外疫情：新冠感染超2.67亿-累计接种新冠疫苗超82.85亿剂次](https://m.caixin.com/m/2021-12-10/101816319.html) ![](assets/new.png)  
 - [2021-12-10-【境内疫情观察】全国新增37例本土病例（12月9日）](https://database.caixin.com/m/2021-12-10/101816185.html) ![](assets/new.png)  
 - [2021-12-10-欧盟疫苗通行证有效期或为9个月-英格兰启动B计划｜大流行手记（12月9日）](https://m.caixin.com/m/2021-12-10/101815972.html) ![](assets/new.png)  
 - [2021-12-10-【图集】中国首个抗新冠病毒特效药获批上市](https://photos.caixin.com/m/2021-12-10/101816178.html) ![](assets/new.png)  
 - [2021-12-09-浙江五天累计阳性59例-省内三地防疫措施升级](https://m.caixin.com/m/2021-12-09/101815867.html) ![](assets/new.png)  
 - [2021-12-09-港大研发全球首个抗新冠病毒的不锈钢材](https://m.caixin.com/m/2021-12-09/101815811.html) ![](assets/new.png)  
 - [2021-12-09-辉瑞和BioNTech称3针mRNA疫苗可抵御Omicron变异株](https://m.caixin.com/m/2021-12-09/101815767.html) ![](assets/new.png)  
-- [2021-12-09-最新海外疫情：新冠感染超2.67亿-累计接种新冠疫苗超82.52亿剂次](https://m.caixin.com/m/2021-12-09/101815584.html) ![](assets/new.png)  
 - [2021-12-09-腾盛博药新冠中和抗体获批上市-正探讨国家战略储备采购](https://m.caixin.com/m/2021-12-09/101815619.html) ![](assets/new.png)  
 - [2021-12-09-【境内疫情观察】全国新增60例本土病例（12月8日）](https://database.caixin.com/m/2021-12-09/101815553.html) ![](assets/new.png)  
 - [2021-12-09-57个国家报告Omicron感染者-韩国感染猛增｜大流行手记（12月8日）](https://m.caixin.com/m/2021-12-09/101815395.html) ![](assets/new.png)  
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-10-v2er.app-双端代码已开源,-欢迎你来贡献代码](https://www.v2ex.com/t/821400) ![](assets/new.png)  
 - [2021-12-10-新加坡/远程-DeBank/Rabby-欢迎大家一起来构建-Web3](https://www.v2ex.com/t/821398) ![](assets/new.png)  
 - [2021-12-10-最近发现在招聘区，区块链/币/NFT-的相关工作变多了](https://www.v2ex.com/t/821397) ![](assets/new.png)  
 - [2021-12-10-成都知道创宇招聘-Python-开发工程师，算法工程师，产品经理、产品实习生](https://www.v2ex.com/t/821395) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-10-如何让-macos12-长时间满速运行？](https://www.v2ex.com/t/821378) ![](assets/new.png)  
 - [2021-12-10-别忘了-Minecraft-服务端和客户端也有-log4j](https://www.v2ex.com/t/821376) ![](assets/new.png)  
 - [2021-12-10-Python-的-websockets-用的是-async,是不是意味着如果用这个做服务端的话，所有功能都得用-asyncio-写？](https://www.v2ex.com/t/821375) ![](assets/new.png)  
-- [2021-12-10-现在-mbp14-要-1-月-4-日送达了。。。](https://www.v2ex.com/t/821374) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-10 13:09:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-10 13:21:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-10-使用-@Slf4j-注解的方式需要修复-log4j-的漏洞吗？](https://www.v2ex.com/t/821422) 
+- [2021-12-10-如果没有墙，国际互联网现在会什么样？](https://www.v2ex.com/t/821421) 
 - [2021-12-10-大厂大批招聘-C/C++工程师，掌握了-C/C++的程序员他不香吗？](https://www.v2ex.com/t/821419) 
 - [2021-12-10-打开微博上的图片原图会显示乱码](https://www.v2ex.com/t/821418) 
 - [2021-12-10-TypeScript-中，对-Class-进行代码分割有什么比较优雅的-practice-吗？](https://www.v2ex.com/t/821417) 
@@ -42,4 +44,3 @@
 - [2021-12-10-Python-的-websockets-用的是-async,是不是意味着如果用这个做服务端的话，所有功能都得用-asyncio-写？](https://www.v2ex.com/t/821375) 
 - [2021-12-10-现在-mbp14-要-1-月-4-日送达了。。。](https://www.v2ex.com/t/821374) 
 - [2021-12-10-前端-查看详情页的处理方式，求问](https://www.v2ex.com/t/821373) 
-- [2021-12-10-apple-tv-得-app-是和-ios-里得一样吗](https://www.v2ex.com/t/821372) 

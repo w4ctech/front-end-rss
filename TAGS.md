@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-10 22:43:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-10 22:56:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -155,6 +155,7 @@
 
 
 
+- [【V2EX】适合远程团建的游戏](https://www.v2ex.com/t/821457)
 - [【V2EX】游戏行业的运维开发是什么样的？值得入坑么？](https://www.v2ex.com/t/821451)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -333,7 +334,6 @@
 
 
 
-- [【V2EX】gitee-码云证书被黑了么?-还是我这-dns-被污染了?](https://www.v2ex.com/t/821407)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

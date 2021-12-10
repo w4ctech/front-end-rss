@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-10 22:43:35，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-10 22:56:14，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-10-适合远程团建的游戏](https://www.v2ex.com/t/821457) ![](assets/new.png)  
 - [2021-12-10-各-V2er,请问-no-ip-的-ddns-是不是路由器自带的已经不能解析了？](https://www.v2ex.com/t/821456) ![](assets/new.png)  
 - [2021-12-10-图片库统计和编辑问题](https://www.v2ex.com/t/821455) ![](assets/new.png)  
 - [2021-12-10-诡异的改名-bug](https://www.v2ex.com/t/821454) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-10-今年的新剧-无职转生-真不错啊](https://www.v2ex.com/t/821434) ![](assets/new.png)  
 - [2021-12-10-Chrome-的“清空缓存并硬性重新加载”能不能在不打开“检查”的情况下点击？](https://www.v2ex.com/t/821433) ![](assets/new.png)  
 - [2021-12-10-有-Java-，-cpp-语言经验，-Python-一边用一边学，有没系统且进阶一点的，不是那种适合纯小白的菜鸟教程](https://www.v2ex.com/t/821432) ![](assets/new.png)  
-- [2021-12-10-ECG-算法版本是统一的吗？不同地方开通的有区别吗？](https://www.v2ex.com/t/821431) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

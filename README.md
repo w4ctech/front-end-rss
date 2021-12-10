@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-10 08:14:42，:rocket: 更新条数: +1569， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-10 08:26:19，:rocket: 更新条数: +1569， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-10-gitlab-如何强制-code-review](https://www.v2ex.com/t/821366) ![](assets/new.png)  
+- [2021-12-10-magsafe-移动电源购买建议？](https://www.v2ex.com/t/821365) ![](assets/new.png)  
+- [2021-12-10-年底了人难招啊](https://www.v2ex.com/t/821364) ![](assets/new.png)  
+- [2021-12-10-infuse-pro-在-mac-m1-max-上播放杜比视界视频色彩异常](https://www.v2ex.com/t/821363) ![](assets/new.png)  
 - [2021-12-10-感叹一下发移民贴都是终极引流大法，另加高点击率关键词程序员](https://www.v2ex.com/t/821361) ![](assets/new.png)  
 - [2021-12-10-关于现在的-log4j2-漏洞的系统变量缓解方法](https://www.v2ex.com/t/821360) ![](assets/new.png)  
 - [2021-12-10-请问-Java-中的-hexDigitsbt-&-0xf0->>-4转换成-kotlin-要如何写呢？](https://www.v2ex.com/t/821359) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-10-微信最近小程序如何批量删除](https://www.v2ex.com/t/821345) ![](assets/new.png)  
 - [2021-12-10-AirPods-Pro-的-bugfeature-3-个版本固件过去了还没修](https://www.v2ex.com/t/821344) ![](assets/new.png)  
 - [2021-12-10-请问哪个公司做高校的学生管理系统比较好](https://www.v2ex.com/t/821343) ![](assets/new.png)  
-- [2021-12-10-吐槽一下发现持续两三年的中文输入法-BUG](https://www.v2ex.com/t/821341) ![](assets/new.png)  
-- [2021-12-10-Java-的-JNDI-rmi-现在还有在被经常使用吗?](https://www.v2ex.com/t/821340) ![](assets/new.png)  
-- [2021-12-10-FOLX-5-for-Mac-版，双十二活动，现五折优惠。](https://www.v2ex.com/t/821338) ![](assets/new.png)  
-- [2021-12-10-微书写作-+-直播，创造知识分享新乐趣](https://www.v2ex.com/t/821336) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,9 +562,9 @@
 - [2021-12-10-元宇宙时代，谁在割谁的韭菜？](https://toutiao.io/k/x238vdn) ![](assets/new.png)  
 - [2021-12-10-Arthas-发布-3.5.5-版本，支持-macOS-ARM64-架构，改进易用性](https://toutiao.io/k/7wnin28) ![](assets/new.png)  
 - [2021-12-10-李飞飞力荐：阿里巴巴高可用数据库解决方案](https://toutiao.io/k/n84bt8i) ![](assets/new.png)  
+- [2021-12-10-传入抽象接口，返回具体类型](https://toutiao.io/k/fxcc8cj) ![](assets/new.png)  
 - [2021-12-10-聊聊-Seccomp-在-runc-的使用](https://toutiao.io/k/s7d5o2i) ![](assets/new.png)  
 - [2021-12-10-策略即代码：为了-OpenPolicyAgent-学-Rego？试试-JavaScript](https://toutiao.io/k/vzqym6q) ![](assets/new.png)  
-- [2021-12-10-传入抽象接口，返回具体类型](https://toutiao.io/k/fxcc8cj) ![](assets/new.png)  
 - [2021-12-10-Go-新关键字-any，interface-会成历史吗？](https://toutiao.io/k/pevk7yx) ![](assets/new.png)  
 - [2021-12-10-使用-Electron-将-vue-cli3.x-项目打包为桌面应用](https://toutiao.io/k/4v2h3ni) ![](assets/new.png)  
 - [2021-12-10-为什么-Web-3-与区块链有关](https://toutiao.io/k/agfxy9a) ![](assets/new.png)  

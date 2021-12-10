@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-10 09:44:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-10 09:56:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -90,6 +90,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
+- [【V2EX】新加坡/远程-DeBank/Rabby-欢迎大家一起来构建-Web3](https://www.v2ex.com/t/821398)
 - [【技术头条】实战经验分享：使用-PyO3-来构建你的-Python-模块-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14826&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F418906426%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
@@ -124,7 +125,6 @@
 
 
 
-- [【V2EX】微信最近小程序如何批量删除](https://www.v2ex.com/t/821345)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -304,6 +304,7 @@
 
 
 
+- [【V2EX】成都知道创宇招聘-Python-开发工程师，算法工程师，产品经理、产品实习生](https://www.v2ex.com/t/821395)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -356,6 +357,7 @@
 
 
 
+- [【V2EX】最近发现在招聘区，区块链/币/NFT-的相关工作变多了](https://www.v2ex.com/t/821397)
 - [【V2EX】油管上代码面试、或者写代码的频道推荐？](https://www.v2ex.com/t/821353)
 - [【开发者头条】CURD-系统怎么做出技术含量惊艳面试官](https://toutiao.io/k/0hurrgr)
 - [......【查看更多】......](./details/tags/job-interview.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-10 03:12:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-10 03:26:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -6,5 +6,3 @@
 > 关键字：`Nginx`、`Docker`、`GraphQL`、`REST`、`gRPC`
 
 
-
-- [2021-12-10-Docker-转-k8s-求助](https://www.v2ex.com/t/821235) 

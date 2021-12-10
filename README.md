@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-10 03:12:50，:rocket: 更新条数: +1566， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-10 03:26:21，:rocket: 更新条数: +1570， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-10-迫于-eDiary-停止维护，求推荐好用的本地日记软件](https://www.v2ex.com/t/821285) ![](assets/new.png)  
+- [2021-12-10-有公网-IP-且玩家庭服务器的，你们是怎么连回家的](https://www.v2ex.com/t/821284) ![](assets/new.png)  
+- [2021-12-10-Android-Studio-res/layout-目录分层。编译运行没问题。但红色波浪线很蛋疼。求大佬们帮忙看看](https://www.v2ex.com/t/821283) ![](assets/new.png)  
 - [2021-12-10-闲鱼-85-折+服务费下单](https://www.v2ex.com/t/821282) ![](assets/new.png)  
 - [2021-12-10-跪舔这款低代码！把设计模式发挥到了极致！说低代码是毒瘤的进来](https://www.v2ex.com/t/821280) ![](assets/new.png)  
 - [2021-12-10-如何保证-11-点后电脑和电视成年人也打不开，有什么解决方案？](https://www.v2ex.com/t/821278) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-10-对于不同的洗衣服习惯有关的疑问](https://www.v2ex.com/t/821262) ![](assets/new.png)  
 - [2021-12-10-V2-不支持绑定-175-开头的手机号,请问这个问题能解决一下吗](https://www.v2ex.com/t/821261) ![](assets/new.png)  
 - [2021-12-10-苹果发布-AirPods-2/3、AirPods-Pro、AirPods-Max-最新固件更新](https://www.v2ex.com/t/821259) ![](assets/new.png)  
-- [2021-12-10-MS-SQL-数据库管理，-Unix-管理，坐标：成都/北京/大连/上海](https://www.v2ex.com/t/821258) ![](assets/new.png)  
-- [2021-12-10-正在寻找优秀的你，远程办公，福利多多，欢迎咨询投递](https://www.v2ex.com/t/821257) ![](assets/new.png)  
-- [2021-12-10-备份-Win10-App-数据](https://www.v2ex.com/t/821256) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2021-12-10-传入抽象接口，返回具体类型](https://toutiao.io/k/fxcc8cj) ![](assets/new.png)  
 - [2021-12-10-为什么-Web-3-与区块链有关](https://toutiao.io/k/agfxy9a) ![](assets/new.png)  
 - [2021-12-10-Go-新关键字-any，interface-会成历史吗？](https://toutiao.io/k/pevk7yx) ![](assets/new.png)  
-- [2021-12-10-C++-20：下一个大版本功能确定](https://toutiao.io/k/3zxizm3) ![](assets/new.png)  
 - [2021-12-10-九章云极-DataCanvas-发布-2021-AutoML-自动机器学习白皮书（附完整下载）](https://toutiao.io/k/eyv0taa) ![](assets/new.png)  
+- [2021-12-10-C++-20：下一个大版本功能确定](https://toutiao.io/k/3zxizm3) ![](assets/new.png)  
 - [2021-12-10-用-strace-定位-bug](https://toutiao.io/k/bug79lt) ![](assets/new.png)  
-- [2021-12-10-推荐-字节跳动飞书文档的-Web-极致性能优化](https://toutiao.io/k/v1nqbu5) ![](assets/new.png)  
-- [2021-12-10-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-10-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
-- [2021-12-10-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
-- [2021-12-10-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
+- [2021-12-10-TensorFlow-在推荐系统中的分布式训练优化实践](https://toutiao.io/k/enmuf6e) ![](assets/new.png)  
+- [2021-12-10-Spring-Cloud-整合-Nacos-实现服务配置中心](https://toutiao.io/k/ilvya35) ![](assets/new.png)  
+- [2021-12-10-微信支付团队精益研发实践总结](https://toutiao.io/k/iw8ap9a) ![](assets/new.png)  
+- [2021-12-10-基于建木-CI-部署-maven-项目](https://toutiao.io/k/fg4b3x6) ![](assets/new.png)  
+- [2021-12-10-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

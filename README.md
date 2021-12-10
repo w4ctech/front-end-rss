@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-10 17:54:27，:rocket: 更新条数: +1577， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-10 18:15:20，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-10-Parallels-Desktop-应该买断还是订阅？](https://www.v2ex.com/t/821453) ![](assets/new.png)  
+- [2021-12-10-游戏行业的运维开发是什么样的？值得入坑么？](https://www.v2ex.com/t/821451) ![](assets/new.png)  
 - [2021-12-10-14-寸-32G-1T-上手体验很赞](https://www.v2ex.com/t/821450) ![](assets/new.png)  
 - [2021-12-10-有没有什么测试-api-网络稳定性的工具？](https://www.v2ex.com/t/821449) ![](assets/new.png)  
 - [2021-12-10-在隔壁安卓看到最新的高通-8gen1-功耗，然后我看了下我手里的-16-寸-M1Max-MacBookPro](https://www.v2ex.com/t/821448) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-10-内推-网易雷火本周热招岗位：测试&营销专场](https://www.v2ex.com/t/821430) ![](assets/new.png)  
 - [2021-12-10-LVM-分区的硬盘如何迁移到另外的机器。](https://www.v2ex.com/t/821429) ![](assets/new.png)  
 - [2021-12-10-小米计算器怎么不更新-iOS-版了？](https://www.v2ex.com/t/821428) ![](assets/new.png)  
-- [2021-12-10-域名不绑定服务器还会被清退？](https://www.v2ex.com/t/821427) ![](assets/new.png)  
-- [2021-12-10-aws-好像又挂了](https://www.v2ex.com/t/821426) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

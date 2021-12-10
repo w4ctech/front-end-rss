@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-10 17:54:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-10 18:15:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-10-Parallels-Desktop-应该买断还是订阅？](https://www.v2ex.com/t/821453) 
+- [2021-12-10-游戏行业的运维开发是什么样的？值得入坑么？](https://www.v2ex.com/t/821451) 
 - [2021-12-10-14-寸-32G-1T-上手体验很赞](https://www.v2ex.com/t/821450) 
 - [2021-12-10-有没有什么测试-api-网络稳定性的工具？](https://www.v2ex.com/t/821449) 
 - [2021-12-10-在隔壁安卓看到最新的高通-8gen1-功耗，然后我看了下我手里的-16-寸-M1Max-MacBookPro](https://www.v2ex.com/t/821448) 
@@ -42,6 +44,3 @@
 - [2021-12-10-gitee-码云证书被黑了么?-还是我这-dns-被污染了?](https://www.v2ex.com/t/821407) 
 - [2021-12-10-2021-年快结束了，分享一下一个普通人这一年的消费情况。](https://www.v2ex.com/t/821406) 
 - [2021-12-10-Akkocloud-双十二德国-CN2-GIA-活动](https://www.v2ex.com/t/821404) 
-- [2021-12-10-OK-Group-区块链头部公司，大量-HC，分布式办公，来这里找回你生命的自由！](https://www.v2ex.com/t/821403) 
-- [2021-12-10-看下上传图片](https://www.v2ex.com/t/821402) 
-- [2021-12-10-请教一个-prometheus-参数问题：--storage.tsdb.retention.time](https://www.v2ex.com/t/821401) 

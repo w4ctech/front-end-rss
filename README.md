@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-10 02:08:12，:rocket: 更新条数: +1567， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-10 02:28:47，:rocket: 更新条数: +1568， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-10-12月9日全国新增新冠63例-五省份本土37例](https://m.caixin.com/m/2021-12-10/101815935.html) ![](assets/new.png)  
+- [2021-12-10-欧盟疫苗通行证有效期或为9个月-英格兰启动B计划｜大流行手记（12月9日）](https://m.caixin.com/m/2021-12-10/101815972.html) ![](assets/new.png)  
 - [2021-12-09-浙江本轮疫情累计报告阳性59例-省内三地防疫措施升级](https://m.caixin.com/m/2021-12-09/101815867.html) ![](assets/new.png)  
 - [2021-12-09-港大研发全球首个抗新冠病毒的不锈钢材](https://m.caixin.com/m/2021-12-09/101815811.html) ![](assets/new.png)  
 - [2021-12-09-辉瑞和BioNTech称3针mRNA疫苗可抵御Omicron变异株](https://m.caixin.com/m/2021-12-09/101815767.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-06-【境内疫情观察】全国新增38例本土病例（12月5日）](https://database.caixin.com/m/2021-12-06/101814170.html) ![](assets/new.png)  
 - [2021-12-06-Omicron或含感冒病毒基因片段-美国单日病例再超10万例｜大流行手记（12月5日）](https://m.caixin.com/m/2021-12-06/101814016.html) ![](assets/new.png)  
 - [2021-12-05-福建安溪一境外入境人员核酸阳性-石家庄与满洲里疫情同传播链](https://m.caixin.com/m/2021-12-05/101813954.html) ![](assets/new.png)  
-- [2021-12-05-【境内疫情观察】全国新增42例本土病例（12月4日）](https://database.caixin.com/m/2021-12-05/101813961.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-10-招兼职程序员做做外包](https://www.v2ex.com/t/821265) ![](assets/new.png)  
+- [2021-12-10-贴吧很多帖子说高通-8g1-又翻车了](https://www.v2ex.com/t/821264) ![](assets/new.png)  
+- [2021-12-10-新手租车的三个建议](https://www.v2ex.com/t/821263) ![](assets/new.png)  
+- [2021-12-10-对于不同的洗衣服习惯有关的疑问](https://www.v2ex.com/t/821262) ![](assets/new.png)  
+- [2021-12-10-V2-不支持绑定-175-开头的手机号,请问这个问题能解决一下吗](https://www.v2ex.com/t/821261) ![](assets/new.png)  
 - [2021-12-10-苹果发布-AirPods-2/3、AirPods-Pro、AirPods-Max-最新固件更新](https://www.v2ex.com/t/821259) ![](assets/new.png)  
 - [2021-12-10-MS-SQL-数据库管理，-Unix-管理，坐标：成都/北京/大连/上海](https://www.v2ex.com/t/821258) ![](assets/new.png)  
 - [2021-12-10-正在寻找优秀的你，远程办公，福利多多，欢迎咨询投递](https://www.v2ex.com/t/821257) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-10-Github-现在可以给-Star-创建分类了](https://www.v2ex.com/t/821245) ![](assets/new.png)  
 - [2021-12-10-Python-一个整型居然最少-24-字节](https://www.v2ex.com/t/821244) ![](assets/new.png)  
 - [2021-12-10-2021-年-12-月了求推荐-2000-元左右的安卓手机](https://www.v2ex.com/t/821243) ![](assets/new.png)  
-- [2021-12-10-在公共场所使用公共电脑登录个人账号如何提升个人信息安全？](https://www.v2ex.com/t/821242) ![](assets/new.png)  
-- [2021-12-10-颤抖吧-Javaer，-log4j-史诗级漏洞](https://www.v2ex.com/t/821241) ![](assets/new.png)  
-- [2021-12-10-Qnap-的同步工具-Qsync-同步过程中经常出现重复文件并有“冲突”字样，导致无限复制文件](https://www.v2ex.com/t/821239) ![](assets/new.png)  
-- [2021-12-10-求推荐靠谱的空号检测-API](https://www.v2ex.com/t/821236) ![](assets/new.png)  
-- [2021-12-10-Docker-转-k8s-求助](https://www.v2ex.com/t/821235) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,13 +569,13 @@
 - [2021-12-10-为什么-Web-3-与区块链有关](https://toutiao.io/k/agfxy9a) ![](assets/new.png)  
 - [2021-12-10-Go-新关键字-any，interface-会成历史吗？](https://toutiao.io/k/pevk7yx) ![](assets/new.png)  
 - [2021-12-10-C++-20：下一个大版本功能确定](https://toutiao.io/k/3zxizm3) ![](assets/new.png)  
-- [2021-12-10-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
+- [2021-12-10-用-strace-定位-bug](https://toutiao.io/k/bug79lt) ![](assets/new.png)  
 - [2021-12-10-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [2021-12-10-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-10-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-10-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
 - [2021-12-10-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
-- [2021-12-10-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
-- [2021-12-10-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) ![](assets/new.png)  
-- [2021-12-10-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
+- [2021-12-10-推荐-1-万行代码，单机-50-万-QPS，今年最值得学习的开源-RPC-框架](https://toutiao.io/k/5fkacdj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

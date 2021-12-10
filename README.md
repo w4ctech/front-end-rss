@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-10 06:25:57，:rocket: 更新条数: +106， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-10 06:46:26，:rocket: 更新条数: +1570， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-12-10-12月9日全国新增新冠63例-五省份本土37例](https://m.caixin.com/m/2021-12-10/101815935.html) ![](assets/new.png)  
+- [2021-12-10-欧盟疫苗通行证有效期或为9个月-英格兰启动B计划｜大流行手记（12月9日）](https://m.caixin.com/m/2021-12-10/101815972.html) ![](assets/new.png)  
+- [2021-12-09-浙江五天累计阳性59例-省内三地防疫措施升级](https://m.caixin.com/m/2021-12-09/101815867.html) ![](assets/new.png)  
+- [2021-12-09-港大研发全球首个抗新冠病毒的不锈钢材](https://m.caixin.com/m/2021-12-09/101815811.html) ![](assets/new.png)  
+- [2021-12-09-辉瑞和BioNTech称3针mRNA疫苗可抵御Omicron变异株](https://m.caixin.com/m/2021-12-09/101815767.html) ![](assets/new.png)  
+- [2021-12-09-最新海外疫情：新冠感染超2.67亿-累计接种新冠疫苗超82.52亿剂次](https://m.caixin.com/m/2021-12-09/101815584.html) ![](assets/new.png)  
+- [2021-12-09-腾盛博药新冠中和抗体获批上市-正探讨国家战略储备采购](https://m.caixin.com/m/2021-12-09/101815619.html) ![](assets/new.png)  
+- [2021-12-09-【境内疫情观察】全国新增60例本土病例（12月8日）](https://database.caixin.com/m/2021-12-09/101815553.html) ![](assets/new.png)  
+- [2021-12-09-57个国家报告Omicron感染者-韩国感染猛增｜大流行手记（12月8日）](https://m.caixin.com/m/2021-12-09/101815395.html) ![](assets/new.png)  
+- [2021-12-08-【境内疫情观察】全国新增44例本土病例（12月7日）](https://database.caixin.com/m/2021-12-08/101815122.html) ![](assets/new.png)  
+- [2021-12-08-新毒株或降低疫苗保护能力，世卫叫停新冠血浆疗法｜大流行手记（12月7日）](https://m.caixin.com/m/2021-12-08/101814949.html) ![](assets/new.png)  
+- [2021-12-08-比利时动物园两头河马染新冠-系该物种首次发现](https://science.caixin.com/m/2021-12-08/101815311.html) ![](assets/new.png)  
+- [2021-12-07-浙江三日累计19例阳性-上海新增1例密接确诊](https://m.caixin.com/m/2021-12-07/101814873.html) ![](assets/new.png)  
+- [2021-12-07-【境内疫情观察】浙江宁波镇海区实施临时封闭管理（12月6日）](https://database.caixin.com/m/2021-12-07/101814603.html) ![](assets/new.png)  
+- [2021-12-07-福奇称Omicron致病性早期信号积极-南非感染人数猛增｜大流行手记（-12月6日）](https://m.caixin.com/m/2021-12-07/101814482.html) ![](assets/new.png)  
+- [2021-12-06-宁波通报3例核酸阳性-与近期国内多地德尔塔变异株高度同源](https://m.caixin.com/m/2021-12-06/101814070.html) ![](assets/new.png)  
+- [2021-12-06-广西通报2名非法入境阳性感染者轨迹-一人为此前福建安溪病例](https://m.caixin.com/m/2021-12-06/101814120.html) ![](assets/new.png)  
+- [2021-12-06-【境内疫情观察】全国新增38例本土病例（12月5日）](https://database.caixin.com/m/2021-12-06/101814170.html) ![](assets/new.png)  
+- [2021-12-06-Omicron或含感冒病毒基因片段-美国单日病例再超10万例｜大流行手记（12月5日）](https://m.caixin.com/m/2021-12-06/101814016.html) ![](assets/new.png)  
+- [2021-12-05-福建安溪一境外入境人员核酸阳性-石家庄与满洲里疫情同传播链](https://m.caixin.com/m/2021-12-05/101813954.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -474,6 +494,10 @@
 </summary>
 
 
+- [2021-12-10-吐槽一下发现持续两三年的中文输入法-BUG](https://www.v2ex.com/t/821341) ![](assets/new.png)  
+- [2021-12-10-Java-的-JNDI-rmi-现在还有在被经常使用吗?](https://www.v2ex.com/t/821340) ![](assets/new.png)  
+- [2021-12-10-FOLX-5-for-Mac-版，双十二活动，现五折优惠。](https://www.v2ex.com/t/821338) ![](assets/new.png)  
+- [2021-12-10-微书写作-+-直播，创造知识分享新乐趣](https://www.v2ex.com/t/821336) ![](assets/new.png)  
 - [2021-12-10-CoinMarketCap-上海招聘各种技术职位](https://www.v2ex.com/t/821334) ![](assets/new.png)  
 - [2021-12-10-成都-Java-招聘-不用顾虑年龄）](https://www.v2ex.com/t/821333) ![](assets/new.png)  
 - [2021-12-10-三星代工的芯片究竟哪里不行了呢?](https://www.v2ex.com/t/821332) ![](assets/new.png)  
@@ -490,10 +514,6 @@
 - [2021-12-10-求助，-macOS-下安装-onedrive.pkg-出错](https://www.v2ex.com/t/821314) ![](assets/new.png)  
 - [2021-12-10-入职前老师开的技术外包公司，前期没了解清楚，与公司一个合伙人合不来。求问怎么跳出来？](https://www.v2ex.com/t/821313) ![](assets/new.png)  
 - [2021-12-10-福州/深圳扬腾网络招聘-PHP-和前端工程师](https://www.v2ex.com/t/821312) ![](assets/new.png)  
-- [2021-12-10-2019-版-16-寸-MBP-外接-U2720Q-显示器唤醒时原彩失效](https://www.v2ex.com/t/821311) ![](assets/new.png)  
-- [2021-12-10-如何理解-"我思故我在"](https://www.v2ex.com/t/821310) ![](assets/new.png)  
-- [2021-12-10-mac-磁盘一小时写入-20g-正常吗，系统自带的监视工具算上移动硬盘的写入吗](https://www.v2ex.com/t/821309) ![](assets/new.png)  
-- [2021-12-10-有老哥在大地量子工作吗？](https://www.v2ex.com/t/821308) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

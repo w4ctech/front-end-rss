@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-10 00:39:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-10 01:09:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,3 +17,4 @@
 - [2021-12-09-宣传一下我开发的一个实现去中心化的微前端架构的库——Rallie.js](https://www.v2ex.com/t/821198) 
 - [2021-12-09-DIY-的群晖换了电源后，没有了通知事件](https://www.v2ex.com/t/821191) 
 - [2021-12-10-组件封装之输入框下拉列表-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14833&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492605%26amp%3Bidx%3D2%26amp%3Bsn%3D85c11bed6931095d0117907d1c1959ab%26amp%3Bchksm%3Dfa3f02a6cd488bb0d369ffee088d37a3dba983c111c2bbec0f61154be8b2b0e275317bc012fa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-12-10-策略即代码：为了-OpenPolicyAgent-学-Rego？试试-JavaScript](https://toutiao.io/k/vzqym6q) 

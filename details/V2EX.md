@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-11 17:07:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-11 17:21:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -47,4 +47,3 @@
 - [2021-12-11-请问-NAS-应该接在软路由上还是主-AP-上？关于家用-NAS-的下载和传输速率问题](https://www.v2ex.com/t/821553) 
 - [2021-12-11-求助：-win11-怎么让标准用户能运行某个需要管理员权限的程序呢？](https://www.v2ex.com/t/821552) 
 - [2021-12-11-在写一个-Github-Webhook-封装的-Kotlin-版本](https://www.v2ex.com/t/821549) 
-- [2021-12-11-如何删除-win11-同步到云端的设置](https://www.v2ex.com/t/821548) 

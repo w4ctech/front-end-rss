@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-11 16:16:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-11 16:36:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-11-国区蜂窝版-Apple-Watch-买美区的-AppleCare+在国内直营店可以保修吗？](https://www.v2ex.com/t/821594) 
 - [2021-12-11-你们的-whiteboard-会与-iPad-+ipencil-不兼容吗。在用-whiteboard-的时候，如果手靠在屏幕上，有一定的几率会导致屏幕飘移，但是在其他-app-就不会有这种情况](https://www.v2ex.com/t/821591) 
 - [2021-12-11-PDD-百亿补贴-13-Pro-蓝色-128G-到手-7149](https://www.v2ex.com/t/821590) 
 - [2021-12-11-求教-xbox-的手柄在-big-sur-上能使用吗](https://www.v2ex.com/t/821589) 

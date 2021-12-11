@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-11 22:21:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-11 22:40:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-11-避坑！跟风买了个欧路词典，感觉比免费的有道词典差远了...](https://www.v2ex.com/t/821603) 
 - [2021-12-11-Windows-server-有类似-fail2ban-的工具吗？](https://www.v2ex.com/t/821602) 
 - [2021-12-11-轻之国度-Epub-生成器更新](https://www.v2ex.com/t/821601) 
 - [2021-12-11-CF-的-worker-有大佬可以针对-K8S-做点配置样板吗？](https://www.v2ex.com/t/821600) 
@@ -48,4 +49,3 @@
 - [2021-12-11-关于-Python-的-popen-无法获取-pipe-的输出，大家有什么头猪吗](https://www.v2ex.com/t/821556) 
 - [2021-12-11-双-12-什么值得买？](https://www.v2ex.com/t/821555) 
 - [2021-12-11-MacBook-Air-买了-AC+，想换硬盘和电池？](https://www.v2ex.com/t/821554) 
-- [2021-12-11-请问-NAS-应该接在软路由上还是主-AP-上？关于家用-NAS-的下载和传输速率问题](https://www.v2ex.com/t/821553) 

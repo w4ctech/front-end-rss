@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-11 13:07:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-11 13:18:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-11-ios15-投屏给-macos，-macos-有点沸点](https://www.v2ex.com/t/821570) 
+- [2021-12-11-拟做一个类似于人工抢票的工具](https://www.v2ex.com/t/821569) 
 - [2021-12-11-老二刺螈们来推荐几个-b-站-上的婆罗门-up-主？](https://www.v2ex.com/t/821568) 
 - [2021-12-11-有没有类似-DeepFake-技术的-P-图软件啊](https://www.v2ex.com/t/821567) 
 - [2021-12-11-纠结是给-mba-配外接显示器还是直接买-m1-iMac](https://www.v2ex.com/t/821566) 
@@ -42,5 +44,3 @@
 - [2021-12-11-在-MacBook-Safari-浏览器上寻求两个功能扩展。](https://www.v2ex.com/t/821524) 
 - [2021-12-11-想卖一个自己做的日文围棋棋谱网站，请有经验的朋友不吝赐教](https://www.v2ex.com/t/821523) 
 - [2021-12-11-求救各位大佬,-端口映射不通](https://www.v2ex.com/t/821521) 
-- [2021-12-11-Boom3D](https://www.v2ex.com/t/821520) 
-- [2021-12-11-也许将来更适合程序员的-mac-不再是-MBP-而是-Air](https://www.v2ex.com/t/821519) 

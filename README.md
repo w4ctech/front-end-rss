@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-11 08:46:32，:rocket: 更新条数: +1563， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-11 08:58:34，:rocket: 更新条数: +1563， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,9 +494,14 @@
 </summary>
 
 
+- [2021-12-11-如何解决-mac-盒盖后，音频输出的问题？](https://www.v2ex.com/t/821542) ![](assets/new.png)  
+- [2021-12-11-🙏V-友们-树莓派-3B-+-装最新-openwrt-自带-DDNS-吗？求推荐-SD-卡](https://www.v2ex.com/t/821541) ![](assets/new.png)  
+- [2021-12-11-电饭煲求推荐!](https://www.v2ex.com/t/821540) ![](assets/new.png)  
+- [2021-12-11-m2-固态移动硬盘插入安卓后未安全弹出，固态就坏了](https://www.v2ex.com/t/821539) ![](assets/new.png)  
+- [2021-12-11-深圳-60-元/月的电信宽带还可以办理吗？](https://www.v2ex.com/t/821538) ![](assets/new.png)  
 - [2021-12-11-喜欢上跑步，可是膝盖受不了，有啥好办法么？](https://www.v2ex.com/t/821537) ![](assets/new.png)  
 - [2021-12-11-VS-Code-无法调试求助（视频）](https://www.v2ex.com/t/821536) ![](assets/new.png)  
-- [2021-12-11-好奇，虎牙直播-HD，我看刑](https://www.v2ex.com/t/821535) ![](assets/new.png)  
+- [2021-12-11-这算是网络嗅探吗-虎牙直播-HD](https://www.v2ex.com/t/821535) ![](assets/new.png)  
 - [2021-12-11-谁能推荐一个知网的账号购买渠道](https://www.v2ex.com/t/821532) ![](assets/new.png)  
 - [2021-12-11-亚马逊信用卡被冻结需提交什么资料？](https://www.v2ex.com/t/821530) ![](assets/new.png)  
 - [2021-12-11-请问-m1-macbook-air-触摸板失灵一般是什么原因导致的啊？](https://www.v2ex.com/t/821529) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-11-Boom3D](https://www.v2ex.com/t/821520) ![](assets/new.png)  
 - [2021-12-11-也许将来更适合程序员的-mac-不再是-MBP-而是-Air](https://www.v2ex.com/t/821519) ![](assets/new.png)  
 - [2021-12-11-年底了，大家从币市赚了多少钱？](https://www.v2ex.com/t/821518) ![](assets/new.png)  
-- [2021-12-11-可否通过直接复制安装新系统下的某些原生-app-来达成更新系统应用的目的？](https://www.v2ex.com/t/821517) ![](assets/new.png)  
-- [2021-12-11-网络平台做大了，内容的素质就会下降？](https://www.v2ex.com/t/821516) ![](assets/new.png)  
-- [2021-12-11-airpods-pro-降噪拉胯](https://www.v2ex.com/t/821515) ![](assets/new.png)  
-- [2021-12-11-在家工作程序员，哪里能找到群体一起玩呢？](https://www.v2ex.com/t/821514) ![](assets/new.png)  
-- [2021-12-11-苹果是如何禁止-M1-系列芯片在升级系统之后无法侧载安装-ipa-软件的？](https://www.v2ex.com/t/821513) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,18 +564,18 @@
 - [2021-12-11-【ClickHouse-技术系列】--使用新的-TTL-move，将数据存储在合适的地方](https://toutiao.io/k/giawp1c) ![](assets/new.png)  
 - [2021-12-11-基于-Python-探针完成调用库的数据提取](https://toutiao.io/k/3wr0tqo) ![](assets/new.png)  
 - [2021-12-11-bthread源码剖析（五）:-bthread上下文的创建](https://toutiao.io/k/bohawwk) ![](assets/new.png)  
-- [2021-12-11-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-11-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-11-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
-- [2021-12-11-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
-- [2021-12-11-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [2021-12-11-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
-- [2021-12-11-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
-- [2021-12-11-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
-- [2021-12-11-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) ![](assets/new.png)  
 - [2021-12-11-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
 - [2021-12-11-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-11-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
+- [2021-12-11-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-11-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
+- [2021-12-11-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-11-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
+- [2021-12-11-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-11-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
 - [2021-12-11-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
+- [2021-12-11-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

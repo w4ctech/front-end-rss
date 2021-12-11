@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-11 09:55:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-11 10:13:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -299,7 +299,6 @@
 
 
 - [【V2EX】两个占用内存大小-20G+的矩阵做相乘，-10-块-GPU](https://www.v2ex.com/t/821528)
-- [【V2EX】Nvim-0.6-正式版发布了](https://www.v2ex.com/t/821501)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

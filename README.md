@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-11 03:44:42，:rocket: 更新条数: +1559， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-11 03:56:39，:rocket: 更新条数: +1558， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -495,7 +495,7 @@
 
 
 - [2021-12-11-12.0.1-开机或重启后-自动重启](https://www.v2ex.com/t/821488) ![](assets/new.png)  
-- [2021-12-11-国内有类似-replit.com-这样的在线编程平台吗？](https://www.v2ex.com/t/821487) ![](assets/new.png)  
+- [2021-12-11-程序员又在意淫：开发一个类似-replit.com-的在线编程平台](https://www.v2ex.com/t/821487) ![](assets/new.png)  
 - [2021-12-11-2021-尾声了有可以跟-MacBook-pro-对标的-win-本吗](https://www.v2ex.com/t/821486) ![](assets/new.png)  
 - [2021-12-11-Offer-决赛圈求建议（投资类）](https://www.v2ex.com/t/821485) ![](assets/new.png)  
 - [2021-12-11-微信电脑版备份问题](https://www.v2ex.com/t/821484) ![](assets/new.png)  
@@ -564,18 +564,18 @@
 - [2021-12-11-【ClickHouse-技术系列】--使用新的-TTL-move，将数据存储在合适的地方](https://toutiao.io/k/giawp1c) ![](assets/new.png)  
 - [2021-12-11-vscode-loader-解析之（node-环境）---悠然宜想亭](https://toutiao.io/k/r3oixv0) ![](assets/new.png)  
 - [2021-12-11-bthread源码剖析（五）:-bthread上下文的创建](https://toutiao.io/k/bohawwk) ![](assets/new.png)  
-- [2021-12-11-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
-- [2021-12-11-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
-- [2021-12-11-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-11-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
-- [2021-12-11-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-11-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-11-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
-- [2021-12-11-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
-- [2021-12-11-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
+- [2021-12-11-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [2021-12-11-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
-- [2021-12-11-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) ![](assets/new.png)  
+- [2021-12-11-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-11-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-11-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
+- [2021-12-11-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
 - [2021-12-11-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
+- [2021-12-11-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
+- [2021-12-11-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) ![](assets/new.png)  
+- [2021-12-11-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-11-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
+- [2021-12-11-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

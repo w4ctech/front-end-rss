@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-11 13:54:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-11 14:11:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -297,7 +297,6 @@
 
 
 
-- [【V2EX】两个占用内存大小-20G+的矩阵做相乘，-10-块-GPU](https://www.v2ex.com/t/821528)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -330,6 +329,7 @@
 
 
 
+- [【V2EX】Github-organisation-的管理员看得到成员在个人/其他组织私有-repo-当中的动态吗](https://www.v2ex.com/t/821578)
 - [【V2EX】GitHub-仓库推荐系统更新：优质中文仓库推荐](https://www.v2ex.com/t/821561)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

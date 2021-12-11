@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-11 14:54:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-11 15:12:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-11-wordpress-如何删除“自豪地采用-WordPress-|-主题:-Refined-Magazine-作者-Candid-Themes”](https://www.v2ex.com/t/821587) 
+- [2021-12-11-求程序员的周末度假方案](https://www.v2ex.com/t/821586) 
 - [2021-12-11-mac-小白，桌面壁纸相关](https://www.v2ex.com/t/821585) 
 - [2021-12-11-请教个问题：-iPad-pro-10.5-寸在官网能-trade-in-现金吗](https://www.v2ex.com/t/821584) 
 - [2021-12-11-奇葩问题：-MX-master3，在-PD-windows11-虚拟机中，滚轮延迟](https://www.v2ex.com/t/821583) 
@@ -46,5 +48,3 @@
 - [2021-12-11-电饭煲求推荐!](https://www.v2ex.com/t/821540) 
 - [2021-12-11-m2-固态移动硬盘插入安卓后未安全弹出，固态就坏了](https://www.v2ex.com/t/821539) 
 - [2021-12-11-深圳-60-元/月的电信宽带还可以办理吗？](https://www.v2ex.com/t/821538) 
-- [2021-12-11-喜欢上跑步，可是膝盖受不了，有啥好办法么？](https://www.v2ex.com/t/821537) 
-- [2021-12-11-VS-Code-无法调试求助（视频）](https://www.v2ex.com/t/821536) 

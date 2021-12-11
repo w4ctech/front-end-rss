@@ -7634,6 +7634,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[互联网项目] 解决方案提供、外包项目承接（8 年开发、3 年团队管理）",
+        "link": "https://www.v2ex.com/t/821479",
+        "date": "2021-12-11"
+      },
+      {
+        "title": "搞”AI，机器学习“的半桶水硕士生，需不需要把 Java 重新捡起来看看",
+        "link": "https://www.v2ex.com/t/821477",
+        "date": "2021-12-11"
+      },
+      {
         "title": "如何用 Azure TTS 读小说？",
         "link": "https://www.v2ex.com/t/821475",
         "date": "2021-12-11"
@@ -7802,26 +7812,6 @@
         "title": "[内推] 网易雷火本周热招岗位：测试&营销专场",
         "link": "https://www.v2ex.com/t/821430",
         "date": "2021-12-10"
-      },
-      {
-        "title": "LVM 分区的硬盘如何迁移到另外的机器。",
-        "link": "https://www.v2ex.com/t/821429",
-        "date": "2021-12-10"
-      },
-      {
-        "title": "小米计算器怎么不更新 iOS 版了？",
-        "link": "https://www.v2ex.com/t/821428",
-        "date": "2021-12-10"
-      },
-      {
-        "title": "域名不绑定服务器还会被清退？",
-        "link": "https://www.v2ex.com/t/821427",
-        "date": "2021-12-10"
-      },
-      {
-        "title": "aws 好像又挂了",
-        "link": "https://www.v2ex.com/t/821426",
-        "date": "2021-12-10"
       }
     ]
   },
@@ -7978,13 +7968,23 @@
         "date": "2021-12-11"
       },
       {
+        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
+        "link": "https://toutiao.io/k/96zw0k6",
+        "date": "2021-12-11"
+      },
+      {
         "title": "[推荐] Java 问题排查技术分享",
         "link": "https://toutiao.io/k/i7k6iqk",
         "date": "2021-12-11"
       },
       {
-        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
-        "link": "https://toutiao.io/k/8k28pnf",
+        "title": "[推荐] 我的绘图工具箱",
+        "link": "https://toutiao.io/k/cpcd1i2",
+        "date": "2021-12-11"
+      },
+      {
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
         "date": "2021-12-11"
       },
       {
@@ -7993,13 +7993,38 @@
         "date": "2021-12-11"
       },
       {
-        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
-        "link": "https://toutiao.io/k/96zw0k6",
+        "title": "[推荐] Golang 编程思维和工程实战",
+        "link": "https://toutiao.io/k/usjzg6m",
         "date": "2021-12-11"
       },
       {
         "title": "[推荐] 服务 API 版本控制设计与实践",
         "link": "https://toutiao.io/k/puc84fn",
+        "date": "2021-12-11"
+      },
+      {
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
+        "date": "2021-12-11"
+      },
+      {
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
+        "date": "2021-12-11"
+      },
+      {
+        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
+        "link": "https://toutiao.io/k/004032c",
+        "date": "2021-12-11"
+      },
+      {
+        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
+        "link": "https://toutiao.io/k/8k28pnf",
+        "date": "2021-12-11"
+      },
+      {
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
         "date": "2021-12-11"
       },
       {
@@ -8010,41 +8035,6 @@
       {
         "title": "[推荐] 程序员的 10 个好习惯",
         "link": "https://toutiao.io/k/2y6pnqa",
-        "date": "2021-12-11"
-      },
-      {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
-        "date": "2021-12-11"
-      },
-      {
-        "title": "[推荐] 我的绘图工具箱",
-        "link": "https://toutiao.io/k/cpcd1i2",
-        "date": "2021-12-11"
-      },
-      {
-        "title": "[推荐] Golang 编程思维和工程实战",
-        "link": "https://toutiao.io/k/usjzg6m",
-        "date": "2021-12-11"
-      },
-      {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
-        "date": "2021-12-11"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
-        "date": "2021-12-11"
-      },
-      {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
-        "date": "2021-12-11"
-      },
-      {
-        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
-        "link": "https://toutiao.io/k/004032c",
         "date": "2021-12-11"
       }
     ]

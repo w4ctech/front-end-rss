@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-11 05:40:19，:rocket: 更新条数: +1558， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-11 05:54:46，:rocket: 更新条数: +1559， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-11-国内有跟-Vercel-类似的竞品么？](https://www.v2ex.com/t/821505) ![](assets/new.png)  
+- [2021-12-11-求问：“显示器未处于活动状态”](https://www.v2ex.com/t/821504) ![](assets/new.png)  
+- [2021-12-11-第一次租房，请教各位租过房的大佬](https://www.v2ex.com/t/821503) ![](assets/new.png)  
+- [2021-12-11-写作群推荐，互相监督？](https://www.v2ex.com/t/821502) ![](assets/new.png)  
 - [2021-12-11-Nvim-0.6-正式版发布了](https://www.v2ex.com/t/821501) ![](assets/new.png)  
 - [2021-12-11-当前电视不支持-USB3.0-和千兆-LAN-的锅，居然是-Soc-的](https://www.v2ex.com/t/821500) ![](assets/new.png)  
 - [2021-12-11-公司正规运营的网站被列为诈骗网站了，找了一圈没找到解决方法，哪位老哥能指点一下怎么处理？](https://www.v2ex.com/t/821499) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-11-年底了，大家从股市赚了多少钱？](https://www.v2ex.com/t/821483) ![](assets/new.png)  
 - [2021-12-11-为什么我-mtr-公网出口第一跳网关就这么高延迟？](https://www.v2ex.com/t/821482) ![](assets/new.png)  
 - [2021-12-11-互联网项目-解决方案提供、外包项目承接（8-年开发、3-年团队管理）](https://www.v2ex.com/t/821479) ![](assets/new.png)  
-- [2021-12-11-搞”AI，机器学习“的半桶水硕士生，需不需要把-Java-重新捡起来看看](https://www.v2ex.com/t/821477) ![](assets/new.png)  
-- [2021-12-11-如何用-Azure-TTS-读小说？](https://www.v2ex.com/t/821475) ![](assets/new.png)  
-- [2021-12-11-Mac-M1-使用-Sourcetrail-查看-Java-项目遇到问题](https://www.v2ex.com/t/821474) ![](assets/new.png)  
-- [2021-12-11-感觉最近空气质量有点差啊，天天霾警告。](https://www.v2ex.com/t/821472) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,23 +559,23 @@
 - [2021-12-11-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [2021-12-11-网络字节序列-大端序和小端序](https://toutiao.io/k/ohy7j47) ![](assets/new.png)  
 - [2021-12-11-干货-|-分布式数据库TiDB在携程的实践](https://toutiao.io/k/67t945m) ![](assets/new.png)  
-- [2021-12-11-如何用Python爬取网易云音乐歌单](https://toutiao.io/k/3xwcyvs) ![](assets/new.png)  
 - [2021-12-11-vscode-loader-解析之（node-环境）---悠然宜想亭](https://toutiao.io/k/r3oixv0) ![](assets/new.png)  
+- [2021-12-11-如何用Python爬取网易云音乐歌单](https://toutiao.io/k/3xwcyvs) ![](assets/new.png)  
 - [2021-12-11-【ClickHouse-技术系列】--使用新的-TTL-move，将数据存储在合适的地方](https://toutiao.io/k/giawp1c) ![](assets/new.png)  
 - [2021-12-11-基于-Python-探针完成调用库的数据提取](https://toutiao.io/k/3wr0tqo) ![](assets/new.png)  
 - [2021-12-11-bthread源码剖析（五）:-bthread上下文的创建](https://toutiao.io/k/bohawwk) ![](assets/new.png)  
+- [2021-12-11-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
+- [2021-12-11-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-11-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-11-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
+- [2021-12-11-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-11-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
+- [2021-12-11-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
 - [2021-12-11-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [2021-12-11-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) ![](assets/new.png)  
-- [2021-12-11-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-11-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
-- [2021-12-11-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
-- [2021-12-11-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
 - [2021-12-11-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-11-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
-- [2021-12-11-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
-- [2021-12-11-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
 - [2021-12-11-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
-- [2021-12-11-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
+- [2021-12-11-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

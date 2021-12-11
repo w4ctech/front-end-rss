@@ -7634,6 +7634,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "也许将来更适合程序员的 mac 不再是 MBP 而是 Air",
+        "link": "https://www.v2ex.com/t/821519",
+        "date": "2021-12-11"
+      },
+      {
+        "title": "年底了，大家从币市赚了多少钱？",
+        "link": "https://www.v2ex.com/t/821518",
+        "date": "2021-12-11"
+      },
+      {
         "title": "可否通过直接复制安装新系统下的某些原生 app 来达成更新系统应用的目的？",
         "link": "https://www.v2ex.com/t/821517",
         "date": "2021-12-11"
@@ -7797,16 +7807,6 @@
         "title": "感觉最近空气质量有点差啊，天天霾警告。",
         "link": "https://www.v2ex.com/t/821472",
         "date": "2021-12-11"
-      },
-      {
-        "title": "企业 QQ 终于倒了",
-        "link": "https://www.v2ex.com/t/821469",
-        "date": "2021-12-11"
-      },
-      {
-        "title": "关于 MBP 扩展坞的一些疑问",
-        "link": "https://www.v2ex.com/t/821468",
-        "date": "2021-12-11"
       }
     ]
   },
@@ -7963,33 +7963,28 @@
         "date": "2021-12-11"
       },
       {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
-        "date": "2021-12-11"
-      },
-      {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
-        "date": "2021-12-11"
-      },
-      {
         "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
         "link": "https://toutiao.io/k/96zw0k6",
         "date": "2021-12-11"
       },
       {
-        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
-        "link": "https://toutiao.io/k/004032c",
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
         "date": "2021-12-11"
       },
       {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
         "date": "2021-12-11"
       },
       {
         "title": "[推荐] 高性能程序设计，缓存为王",
         "link": "https://toutiao.io/k/a9j7y4a",
+        "date": "2021-12-11"
+      },
+      {
+        "title": "[推荐] 我的绘图工具箱",
+        "link": "https://toutiao.io/k/cpcd1i2",
         "date": "2021-12-11"
       },
       {
@@ -8003,13 +7998,23 @@
         "date": "2021-12-11"
       },
       {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
         "date": "2021-12-11"
       },
       {
-        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
-        "link": "https://toutiao.io/k/h7wj37b",
+        "title": "[推荐] Golang 编程思维和工程实战",
+        "link": "https://toutiao.io/k/usjzg6m",
+        "date": "2021-12-11"
+      },
+      {
+        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
+        "link": "https://toutiao.io/k/004032c",
+        "date": "2021-12-11"
+      },
+      {
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
         "date": "2021-12-11"
       },
       {
@@ -8018,18 +8023,13 @@
         "date": "2021-12-11"
       },
       {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
+        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
+        "link": "https://toutiao.io/k/h7wj37b",
         "date": "2021-12-11"
       },
       {
-        "title": "[推荐] 我的绘图工具箱",
-        "link": "https://toutiao.io/k/cpcd1i2",
-        "date": "2021-12-11"
-      },
-      {
-        "title": "[推荐] Golang 编程思维和工程实战",
-        "link": "https://toutiao.io/k/usjzg6m",
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
         "date": "2021-12-11"
       }
     ]

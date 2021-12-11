@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-11 15:58:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-11 16:16:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-11-你们的-whiteboard-会与-iPad-+ipencil-不兼容吗。在用-whiteboard-的时候，如果手靠在屏幕上，有一定的几率会导致屏幕飘移，但是在其他-app-就不会有这种情况](https://www.v2ex.com/t/821591) 
 - [2021-12-11-PDD-百亿补贴-13-Pro-蓝色-128G-到手-7149](https://www.v2ex.com/t/821590) 
 - [2021-12-11-求教-xbox-的手柄在-big-sur-上能使用吗](https://www.v2ex.com/t/821589) 
 - [2021-12-11-wordpress-如何删除“自豪地采用-WordPress-|-主题:-Refined-Magazine-作者-Candid-Themes”](https://www.v2ex.com/t/821587) 
@@ -45,5 +46,3 @@
 - [2021-12-11-如何删除-win11-同步到云端的设置](https://www.v2ex.com/t/821548) 
 - [2021-12-11--有没有小众视频裁剪应用？](https://www.v2ex.com/t/821546) 
 - [2021-12-11-tomcat-被挂-jsp-马了，大佬们帮我看看这是执行了什么操作](https://www.v2ex.com/t/821545) 
-- [2021-12-11-如何解决-mac-盒盖后，音频输出的问题？](https://www.v2ex.com/t/821542) 
-- [2021-12-11-🙏V-友们-树莓派-3B-+-装最新-openwrt-自带-DDNS-吗？求推荐-SD-卡](https://www.v2ex.com/t/821541) 

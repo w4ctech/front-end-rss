@@ -7664,6 +7664,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "OneDev 6.0 - 自建 Git 服务 - 自带 CI/CD 及 Issue 看板",
+        "link": "https://www.v2ex.com/t/821699",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "MacPro 28 核 192G 内存的 MacOS 桌面竟然会比较卡。有没有人发现？还是我自己的问题？",
+        "link": "https://www.v2ex.com/t/821698",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "请问现在接入腾讯优量汇 SDK 上架 Google Play 还是会被拒绝下架吗？",
+        "link": "https://www.v2ex.com/t/821697",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "golang+uniapp 微信小程序电商系统",
+        "link": "https://www.v2ex.com/t/821695",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "用 jndi 和配置文件连接 jdbc 数据库有什么区别？",
+        "link": "https://www.v2ex.com/t/821694",
+        "date": "2021-12-12"
+      },
+      {
         "title": "设备列表里出现一台从来没见过的 iMac",
         "link": "https://www.v2ex.com/t/821693",
         "date": "2021-12-12"
@@ -7827,21 +7852,6 @@
         "title": "win10 不能用 procreate 绘画软件，有没有类似软件推荐",
         "link": "https://www.v2ex.com/t/821651",
         "date": "2021-12-12"
-      },
-      {
-        "title": "电信 299 元永久升级 1000M 带宽 真的爽",
-        "link": "https://www.v2ex.com/t/821649",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "提前把 2021 年终总结写出来了，大家的年终总结是什么样的？",
-        "link": "https://www.v2ex.com/t/821648",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "开源 All in One 的图片素材搜索与展示工具-PicHome",
-        "link": "https://www.v2ex.com/t/821644",
-        "date": "2021-12-12"
       }
     ]
   },
@@ -7998,33 +8008,28 @@
         "date": "2021-12-12"
       },
       {
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
+        "date": "2021-12-12"
+      },
+      {
         "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
         "link": "https://toutiao.io/k/004032c",
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
         "date": "2021-12-12"
       },
       {
         "title": "[推荐] Google：12 条 Golang 最佳实践",
         "link": "https://toutiao.io/k/x06am1r",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 我的绘图工具箱",
-        "link": "https://toutiao.io/k/cpcd1i2",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
         "date": "2021-12-12"
       },
       {
@@ -8038,23 +8043,23 @@
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
-        "link": "https://toutiao.io/k/h7wj37b",
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
+        "title": "[推荐] 我的绘图工具箱",
+        "link": "https://toutiao.io/k/cpcd1i2",
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
         "date": "2021-12-12"
       },
       {
@@ -8063,8 +8068,13 @@
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
+        "link": "https://toutiao.io/k/h7wj37b",
         "date": "2021-12-12"
       }
     ]

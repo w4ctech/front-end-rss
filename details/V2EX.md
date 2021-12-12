@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-12-12 12:33:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-12 12:56:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-12-OneDev-6.0---自建-Git-服务---自带-CI/CD-及-Issue-看板](https://www.v2ex.com/t/821699) 
+- [2021-12-12-MacPro-28-核-192G-内存的-MacOS-桌面竟然会比较卡。有没有人发现？还是我自己的问题？](https://www.v2ex.com/t/821698) 
+- [2021-12-12-请问现在接入腾讯优量汇-SDK-上架-Google-Play-还是会被拒绝下架吗？](https://www.v2ex.com/t/821697) 
+- [2021-12-12-golang+uniapp-微信小程序电商系统](https://www.v2ex.com/t/821695) 
+- [2021-12-12-用-jndi-和配置文件连接-jdbc-数据库有什么区别？](https://www.v2ex.com/t/821694) 
 - [2021-12-12-设备列表里出现一台从来没见过的-iMac](https://www.v2ex.com/t/821693) 
 - [2021-12-12-macOS-自带中文输入法是不是有问题？](https://www.v2ex.com/t/821692) 
 - [2021-12-12-电信宽带最近好像不太好](https://www.v2ex.com/t/821690) 
@@ -38,6 +43,3 @@
 - [2021-12-12-想支持正版软件，但是又心疼钱](https://www.v2ex.com/t/821653) 
 - [2021-12-12-IPv6-问题](https://www.v2ex.com/t/821652) 
 - [2021-12-12-win10-不能用-procreate-绘画软件，有没有类似软件推荐](https://www.v2ex.com/t/821651) 
-- [2021-12-12-电信-299-元永久升级-1000M-带宽-真的爽](https://www.v2ex.com/t/821649) 
-- [2021-12-12-提前把-2021-年终总结写出来了，大家的年终总结是什么样的？](https://www.v2ex.com/t/821648) 
-- [2021-12-12-开源-All-in-One-的图片素材搜索与展示工具-PicHome](https://www.v2ex.com/t/821644) 

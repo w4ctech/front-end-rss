@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-12 12:33:19，:rocket: 更新条数: +1566， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-12 12:56:18，:rocket: 更新条数: +1568， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-12-OneDev-6.0---自建-Git-服务---自带-CI/CD-及-Issue-看板](https://www.v2ex.com/t/821699) ![](assets/new.png)  
+- [2021-12-12-MacPro-28-核-192G-内存的-MacOS-桌面竟然会比较卡。有没有人发现？还是我自己的问题？](https://www.v2ex.com/t/821698) ![](assets/new.png)  
+- [2021-12-12-请问现在接入腾讯优量汇-SDK-上架-Google-Play-还是会被拒绝下架吗？](https://www.v2ex.com/t/821697) ![](assets/new.png)  
+- [2021-12-12-golang+uniapp-微信小程序电商系统](https://www.v2ex.com/t/821695) ![](assets/new.png)  
+- [2021-12-12-用-jndi-和配置文件连接-jdbc-数据库有什么区别？](https://www.v2ex.com/t/821694) ![](assets/new.png)  
 - [2021-12-12-设备列表里出现一台从来没见过的-iMac](https://www.v2ex.com/t/821693) ![](assets/new.png)  
 - [2021-12-12-macOS-自带中文输入法是不是有问题？](https://www.v2ex.com/t/821692) ![](assets/new.png)  
 - [2021-12-12-电信宽带最近好像不太好](https://www.v2ex.com/t/821690) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-12-VQGAN+CLIP-成就的-Text-to-Image-果然牛逼](https://www.v2ex.com/t/821675) ![](assets/new.png)  
 - [2021-12-12-受不了了，想要现在就逃离老家,能否在长三角找到大厂外包级别的工作](https://www.v2ex.com/t/821674) ![](assets/new.png)  
 - [2021-12-12-M1-Pro-14，屏幕涂层已磨损](https://www.v2ex.com/t/821673) ![](assets/new.png)  
-- [2021-12-12-elasticsearch-彻底关闭日志是不是就可以解决此次-log4j2-漏洞？](https://www.v2ex.com/t/821672) ![](assets/new.png)  
-- [2021-12-12-求职-上海-Go-后端开发](https://www.v2ex.com/t/821671) ![](assets/new.png)  
-- [2021-12-12-全职-远程办公-极狐-GitLab-招聘-Ruby-测试/研发/全栈工程师等多个职位](https://www.v2ex.com/t/821670) ![](assets/new.png)  
-- [2021-12-12-MacBook-Pro-调查贴](https://www.v2ex.com/t/821668) ![](assets/new.png)  
-- [2021-12-12-想找一款手机的跳板机器，可以转接电话，中转电话的软件。](https://www.v2ex.com/t/821666) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,18 +564,18 @@
 - [2021-12-12-科创人·StreamNative翟佳：开源模式价值为王，基础软件的未来在国内社区](https://toutiao.io/k/4eynjqx) ![](assets/new.png)  
 - [2021-12-12-美国国会举行听证会讨论-「Web3.0」，目前技术发展状况如何？未来可能在哪些领域带来新发展？](https://toutiao.io/k/d3bm63u) ![](assets/new.png)  
 - [2021-12-12-一文看懂目标检测神器YOLO5](https://toutiao.io/k/hxsrdi7) ![](assets/new.png)  
-- [2021-12-12-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
-- [2021-12-12-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
-- [2021-12-12-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
-- [2021-12-12-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-12-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) ![](assets/new.png)  
-- [2021-12-12-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-12-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
-- [2021-12-12-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
-- [2021-12-12-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
-- [2021-12-12-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
 - [2021-12-12-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [2021-12-12-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-12-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
+- [2021-12-12-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-12-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-12-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
+- [2021-12-12-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
+- [2021-12-12-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
+- [2021-12-12-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-12-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) ![](assets/new.png)  
+- [2021-12-12-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-12-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

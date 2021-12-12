@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-12 07:40:14，:rocket: 更新条数: +1556， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-12 07:54:27，:rocket: 更新条数: +1555， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-12-想支持正版软件，但是又心疼钱](https://www.v2ex.com/t/821653) ![](assets/new.png)  
+- [2021-12-12-IPv6-问题](https://www.v2ex.com/t/821652) ![](assets/new.png)  
+- [2021-12-12-win10-不能用-procreate-绘画软件，有没有类似软件推荐](https://www.v2ex.com/t/821651) ![](assets/new.png)  
 - [2021-12-12-电信-299-元永久升级-1000M-带宽-真的爽](https://www.v2ex.com/t/821649) ![](assets/new.png)  
 - [2021-12-12-提前把-2021-年终总结写出来了，大家的年终总结是什么样的？](https://www.v2ex.com/t/821648) ![](assets/new.png)  
 - [2021-12-12-老哥们，你们的租房月租占比是月薪多少？](https://www.v2ex.com/t/821647) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-12-大家配眼镜去医院先验光吗？](https://www.v2ex.com/t/821624) ![](assets/new.png)  
 - [2021-12-12-杭州-蚂蚁集团-研发效能部-环境效能社招-P5-P6](https://www.v2ex.com/t/821622) ![](assets/new.png)  
 - [2021-12-12-请教-V-友们，-docker-镜像如何解决跟宿主机內核版本不兼容的情况吗？](https://www.v2ex.com/t/821621) ![](assets/new.png)  
-- [2021-12-12-求助旧电脑的-Windows-UWP-版微信如何迁移到新电脑的-Windows-Native-版？](https://www.v2ex.com/t/821620) ![](assets/new.png)  
-- [2021-12-12-my.cnf-官方文档地址在哪里呢-没有找到](https://www.v2ex.com/t/821615) ![](assets/new.png)  
-- [2021-12-12-有没有人成功在华为海思平台上编译过内核模块](https://www.v2ex.com/t/821614) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,18 +564,18 @@
 - [2021-12-12-科创人·StreamNative翟佳：开源模式价值为王，基础软件的未来在国内社区](https://toutiao.io/k/4eynjqx) ![](assets/new.png)  
 - [2021-12-12-美国国会举行听证会讨论-「Web3.0」，目前技术发展状况如何？未来可能在哪些领域带来新发展？](https://toutiao.io/k/d3bm63u) ![](assets/new.png)  
 - [2021-12-12-一文看懂目标检测神器YOLO5](https://toutiao.io/k/hxsrdi7) ![](assets/new.png)  
+- [2021-12-12-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-12-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-12-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
+- [2021-12-12-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
 - [2021-12-12-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-12-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-12-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-12-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
+- [2021-12-12-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [2021-12-12-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
 - [2021-12-12-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
-- [2021-12-12-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
 - [2021-12-12-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
-- [2021-12-12-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-12-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) ![](assets/new.png)  
-- [2021-12-12-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
-- [2021-12-12-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
-- [2021-12-12-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
-- [2021-12-12-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-12-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

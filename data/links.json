@@ -7664,6 +7664,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "戴尔 T7920 c620 芯片组，可以上哪些 cpu，性价比高的 2000-4500 范围把，有懂的吗，求教",
+        "link": "https://www.v2ex.com/t/821714",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "brew 下载过程怎么跳过已下载的依赖包？",
+        "link": "https://www.v2ex.com/t/821713",
+        "date": "2021-12-12"
+      },
+      {
         "title": "你的 MacBook Pro 2021 有电流音吗？",
         "link": "https://www.v2ex.com/t/821711",
         "date": "2021-12-12"
@@ -7837,21 +7847,6 @@
         "title": "想找一款手机的跳板机器，可以转接电话，中转电话的软件。",
         "link": "https://www.v2ex.com/t/821666",
         "date": "2021-12-12"
-      },
-      {
-        "title": "M1 Max 使用一周开发体验分享",
-        "link": "https://www.v2ex.com/t/821665",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "将 Steam 愿望单物品的发售日期导入/同步至各大日历应用",
-        "link": "https://www.v2ex.com/t/821664",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "有没有大神可以帮忙抓点数据？",
-        "link": "https://www.v2ex.com/t/821662",
-        "date": "2021-12-12"
       }
     ]
   },
@@ -8008,8 +8003,28 @@
         "date": "2021-12-12"
       },
       {
+        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
+        "link": "https://toutiao.io/k/96zw0k6",
+        "date": "2021-12-12"
+      },
+      {
         "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
         "link": "https://toutiao.io/k/0xsbfqz",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] Golang 编程思维和工程实战",
+        "link": "https://toutiao.io/k/usjzg6m",
         "date": "2021-12-12"
       },
       {
@@ -8018,18 +8033,28 @@
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 我的绘图工具箱",
-        "link": "https://toutiao.io/k/cpcd1i2",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
-        "link": "https://toutiao.io/k/004032c",
+        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
+        "link": "https://toutiao.io/k/8k28pnf",
         "date": "2021-12-12"
       },
       {
         "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
         "link": "https://toutiao.io/k/h7wj37b",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 我的绘图工具箱",
+        "link": "https://toutiao.io/k/cpcd1i2",
         "date": "2021-12-12"
       },
       {
@@ -8043,38 +8068,8 @@
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
-        "link": "https://toutiao.io/k/96zw0k6",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
-        "link": "https://toutiao.io/k/8k28pnf",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] Golang 编程思维和工程实战",
-        "link": "https://toutiao.io/k/usjzg6m",
+        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
+        "link": "https://toutiao.io/k/004032c",
         "date": "2021-12-12"
       }
     ]

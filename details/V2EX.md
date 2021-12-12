@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-12 18:13:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-12 18:24:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-12-你的生活方式是你自己选择的吗？](https://www.v2ex.com/t/821745) 
 - [2021-12-12-由-log4j2-漏洞爆发引发的疑问，为什么这么多框架要引入-log4j2，不应该是仅引入-slf4j-吗](https://www.v2ex.com/t/821744) 
 - [2021-12-12-macOS-在影音方面也不行啊](https://www.v2ex.com/t/821743) 
 - [2021-12-12-北京生活的各位在用什么宽带？（年经帖勿喷）](https://www.v2ex.com/t/821741) 
@@ -44,4 +45,3 @@
 - [2021-12-12-OneDev-6.0---自建-Git-服务---自带-CI/CD-及-Issue-看板](https://www.v2ex.com/t/821699) 
 - [2021-12-12-MacPro-28-核-192G-内存的-MacOS-桌面竟然会比较卡。有没有人发现？还是我自己的问题？](https://www.v2ex.com/t/821698) 
 - [2021-12-12-请问现在接入腾讯优量汇-SDK-上架-Google-Play-还是会被拒绝下架吗？](https://www.v2ex.com/t/821697) 
-- [2021-12-12-golang+uniapp-微信小程序电商系统](https://www.v2ex.com/t/821695) 

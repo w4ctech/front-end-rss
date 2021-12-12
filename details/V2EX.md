@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-12 09:43:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-12 09:56:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-12-VQGAN+CLIP-成就的-Text-to-Image-果然牛逼](https://www.v2ex.com/t/821675) 
 - [2021-12-12-受不了了，想要现在就逃离老家,能否在长三角找到大厂外包级别的工作](https://www.v2ex.com/t/821674) 
 - [2021-12-12-M1-Pro-14，屏幕涂层已磨损](https://www.v2ex.com/t/821673) 
 - [2021-12-12-elasticsearch-彻底关闭日志是不是就可以解决此次-log4j2-漏洞？](https://www.v2ex.com/t/821672) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-12 00:41:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-12 01:12:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -48,4 +48,3 @@
 - [2021-12-11-M1Pro-MacBook-通过-USB-C-口连接戴尔的-U2720QM-显示器发烫](https://www.v2ex.com/t/821558) 
 - [2021-12-11-安卓上火狐比-chrome-慢？](https://www.v2ex.com/t/821557) 
 - [2021-12-11-关于-Python-的-popen-无法获取-pipe-的输出，大家有什么头猪吗](https://www.v2ex.com/t/821556) 
-- [2021-12-11-双-12-什么值得买？](https://www.v2ex.com/t/821555) 

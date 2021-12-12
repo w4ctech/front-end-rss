@@ -7664,6 +7664,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "由 log4j2 漏洞爆发引发的疑问，为什么这么多框架要引入 log4j2，不应该是仅引入 slf4j 吗",
+        "link": "https://www.v2ex.com/t/821744",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "macOS 在影音方面也不行啊",
+        "link": "https://www.v2ex.com/t/821743",
+        "date": "2021-12-12"
+      },
+      {
         "title": "北京生活的各位在用什么宽带？（年经帖勿喷）",
         "link": "https://www.v2ex.com/t/821741",
         "date": "2021-12-12"
@@ -7852,16 +7862,6 @@
         "title": "golang+uniapp 微信小程序电商系统",
         "link": "https://www.v2ex.com/t/821695",
         "date": "2021-12-12"
-      },
-      {
-        "title": "用 jndi 和配置文件连接 jdbc 数据库有什么区别？",
-        "link": "https://www.v2ex.com/t/821694",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "设备列表里出现一台从来没见过的 iMac",
-        "link": "https://www.v2ex.com/t/821693",
-        "date": "2021-12-12"
       }
     ]
   },
@@ -8018,6 +8018,16 @@
         "date": "2021-12-12"
       },
       {
+        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
+        "link": "https://toutiao.io/k/h7wj37b",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
+        "date": "2021-12-12"
+      },
+      {
         "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
         "link": "https://toutiao.io/k/8k28pnf",
         "date": "2021-12-12"
@@ -8028,43 +8038,13 @@
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 京东秒杀架构升级优化实践",
-        "link": "https://toutiao.io/k/4cxy94p",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
-        "link": "https://toutiao.io/k/h7wj37b",
+        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
+        "link": "https://toutiao.io/k/004032c",
         "date": "2021-12-12"
       },
       {
@@ -8073,13 +8053,33 @@
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
-        "link": "https://toutiao.io/k/004032c",
+        "title": "[推荐] 京东秒杀架构升级优化实践",
+        "link": "https://toutiao.io/k/4cxy94p",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
         "date": "2021-12-12"
       }
     ]

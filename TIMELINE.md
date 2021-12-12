@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-12 19:17:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-12 19:36:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,7 @@
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-12-有没有什么软件能实现把屏幕上-A-区域的内容在-B-区域显示？](https://www.v2ex.com/t/821747) 
 - [【V2EX】2021-12-12-问大家一个比较偏的问题](https://www.v2ex.com/t/821746) 
 - [【V2EX】2021-12-12-你的生活方式是你自己选择的吗？](https://www.v2ex.com/t/821745) 
 - [【V2EX】2021-12-12-由-log4j2-漏洞爆发引发的疑问，为什么这么多框架要引入-log4j2，不应该是仅引入-slf4j-吗](https://www.v2ex.com/t/821744) 
@@ -144,7 +145,6 @@
 - [【V2EX】2021-12-12-收到一封奇葩招聘邮件，怪事见得多了，一时分不清是要干嘛的了。](https://www.v2ex.com/t/821700) 
 - [【V2EX】2021-12-12-OneDev-6.0---自建-Git-服务---自带-CI/CD-及-Issue-看板](https://www.v2ex.com/t/821699) 
 - [【V2EX】2021-12-12-MacPro-28-核-192G-内存的-MacOS-桌面竟然会比较卡。有没有人发现？还是我自己的问题？](https://www.v2ex.com/t/821698) 
-- [【V2EX】2021-12-12-请问现在接入腾讯优量汇-SDK-上架-Google-Play-还是会被拒绝下架吗？](https://www.v2ex.com/t/821697) 
 - [【技术头条】2021-12-12-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-12-鸿蒙OS、安卓、iOS测试对比，结果出乎意料！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14847&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9RWmROLInm3RJpX1ZHjHmw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-12-张一鸣：给产品技术人才的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14846&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492724%26amp%3Bidx%3D2%26amp%3Bsn%3D3d506086a6e038c1eb1a4b9f404f90c1%26amp%3Bchksm%3Dfa3f052fcd488c395f8202745eff3a5d4db9f15102f06042d8683d94a108dab53b582fe57726%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -173,19 +173,19 @@
 - [【开发者头条】2021-12-12-科创人·StreamNative翟佳：开源模式价值为王，基础软件的未来在国内社区](https://toutiao.io/k/4eynjqx) 
 - [【开发者头条】2021-12-12-美国国会举行听证会讨论-「Web3.0」，目前技术发展状况如何？未来可能在哪些领域带来新发展？](https://toutiao.io/k/d3bm63u) 
 - [【开发者头条】2021-12-12-一文看懂目标检测神器YOLO5](https://toutiao.io/k/hxsrdi7) 
-- [【开发者头条】2021-12-12-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
-- [【开发者头条】2021-12-12-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
-- [【开发者头条】2021-12-12-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
-- [【开发者头条】2021-12-12-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
-- [【开发者头条】2021-12-12-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
 - [【开发者头条】2021-12-12-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
-- [【开发者头条】2021-12-12-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) 
-- [【开发者头条】2021-12-12-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
-- [【开发者头条】2021-12-12-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
-- [【开发者头条】2021-12-12-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
+- [【开发者头条】2021-12-12-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
 - [【开发者头条】2021-12-12-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [【开发者头条】2021-12-12-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [【开发者头条】2021-12-12-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
+- [【开发者头条】2021-12-12-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
+- [【开发者头条】2021-12-12-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
 - [【开发者头条】2021-12-12-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
+- [【开发者头条】2021-12-12-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) 
+- [【开发者头条】2021-12-12-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
+- [【开发者头条】2021-12-12-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [【开发者头条】2021-12-12-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
+- [【开发者头条】2021-12-12-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [【开发者头条】2021-12-12-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-12 13:34:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-12 13:39:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1462,6 +1462,7 @@
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [2021-12-12-你的-MacBook-Pro-2021-有电流音吗？](https://www.v2ex.com/t/821711) 
 - [2021-12-12-Hammerspoon-常用工具实现](https://www.v2ex.com/t/821710) 
 - [2021-12-12-无印良品有什么值得买的东西？](https://www.v2ex.com/t/821709) 
 - [2021-12-12-Apple-的桌面电脑在冬天用来取暖的效率对比](https://www.v2ex.com/t/821708) 
@@ -1490,7 +1491,6 @@
 - [2021-12-12-M1-Max-使用一周开发体验分享](https://www.v2ex.com/t/821665) 
 - [2021-12-12-将-Steam-愿望单物品的发售日期导入/同步至各大日历应用](https://www.v2ex.com/t/821664) 
 - [2021-12-12-有没有大神可以帮忙抓点数据？](https://www.v2ex.com/t/821662) 
-- [2021-12-12-固态硬盘、机械硬盘、移动硬盘这些有什么区别呢？](https://www.v2ex.com/t/821661) 
 - [2021-12-12-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-12-鸿蒙OS、安卓、iOS测试对比，结果出乎意料！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14847&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9RWmROLInm3RJpX1ZHjHmw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-12-张一鸣：给产品技术人才的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14846&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492724%26amp%3Bidx%3D2%26amp%3Bsn%3D3d506086a6e038c1eb1a4b9f404f90c1%26amp%3Bchksm%3Dfa3f052fcd488c395f8202745eff3a5d4db9f15102f06042d8683d94a108dab53b582fe57726%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

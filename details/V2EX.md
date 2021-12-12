@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-12 22:12:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-12 22:21:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-12-mac-OS-10.15-难道是不能更换壁纸的吗？（启动界面）](https://www.v2ex.com/t/821751) 
 - [2021-12-12-大家写-ruby-on-rails-applications-的时候一般怎么写前端页面?](https://www.v2ex.com/t/821750) 
 - [2021-12-12-魁北克，如何零基础转行计算机？](https://www.v2ex.com/t/821749) 
 - [2021-12-12-有关-Android-的-HDR-视频播放](https://www.v2ex.com/t/821748) 
@@ -45,4 +46,3 @@
 - [2021-12-12-Airpods-Pro-能完美在-mac-上切换了吗？](https://www.v2ex.com/t/821706) 
 - [2021-12-12-被一个深圳的淘宝卖家恶心到了](https://www.v2ex.com/t/821703) 
 - [2021-12-12-现在的前端技术栈真的太恶心了！](https://www.v2ex.com/t/821702) 
-- [2021-12-12-突然出现一个团队内部实行计划经济，按需分配，团队外部对接市场经济的协作想法，然后就用-Node-做出来了](https://www.v2ex.com/t/821701) 

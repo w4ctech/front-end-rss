@@ -7664,6 +7664,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有关 Android 的 HDR 视频播放",
+        "link": "https://www.v2ex.com/t/821748",
+        "date": "2021-12-12"
+      },
+      {
         "title": "有没有什么软件能实现把屏幕上 A 区域的内容在 B 区域显示？",
         "link": "https://www.v2ex.com/t/821747",
         "date": "2021-12-12"
@@ -7862,11 +7867,6 @@
         "title": "OneDev 6.0 - 自建 Git 服务 - 自带 CI/CD 及 Issue 看板",
         "link": "https://www.v2ex.com/t/821699",
         "date": "2021-12-12"
-      },
-      {
-        "title": "MacPro 28 核 192G 内存的 MacOS 桌面竟然会比较卡。有没有人发现？还是我自己的问题？",
-        "link": "https://www.v2ex.com/t/821698",
-        "date": "2021-12-12"
       }
     ]
   },
@@ -8023,8 +8023,38 @@
         "date": "2021-12-12"
       },
       {
+        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
+        "link": "https://toutiao.io/k/96zw0k6",
+        "date": "2021-12-12"
+      },
+      {
         "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
         "link": "https://toutiao.io/k/8k28pnf",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
+        "link": "https://toutiao.io/k/004032c",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
+        "link": "https://toutiao.io/k/h7wj37b",
         "date": "2021-12-12"
       },
       {
@@ -8038,8 +8068,8 @@
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
         "date": "2021-12-12"
       },
       {
@@ -8048,43 +8078,13 @@
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
-        "link": "https://toutiao.io/k/004032c",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
-        "link": "https://toutiao.io/k/96zw0k6",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
-        "link": "https://toutiao.io/k/h7wj37b",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
-        "date": "2021-12-12"
-      },
-      {
         "title": "[推荐] 服务 API 版本控制设计与实践",
         "link": "https://toutiao.io/k/puc84fn",
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
         "date": "2021-12-12"
       }
     ]

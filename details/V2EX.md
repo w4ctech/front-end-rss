@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-12 01:12:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-12 02:01:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-12-时间机器备份失败半个月了，可能是什么原因？](https://www.v2ex.com/t/821609) 
+- [2021-12-12-单元测试有必要吗？](https://www.v2ex.com/t/821608) 
 - [2021-12-12-apple-music-歌曲名跟歌手都变成英文了](https://www.v2ex.com/t/821604) 
 - [2021-12-11-避坑！跟风买了个欧路词典，感觉比免费的有道词典差远了...](https://www.v2ex.com/t/821603) 
 - [2021-12-11-Windows-server-有类似-fail2ban-的工具吗？](https://www.v2ex.com/t/821602) 
@@ -44,7 +46,3 @@
 - [2021-12-11-2021-大家都买了啥？分享一下我个人的-2021-购物清单](https://www.v2ex.com/t/821562) 
 - [2021-12-11-GitHub-仓库推荐系统更新：优质中文仓库推荐](https://www.v2ex.com/t/821561) 
 - [2021-12-11-共勉](https://www.v2ex.com/t/821560) 
-- [2021-12-11-突然想到一件事，大家来看看我分析的对不对](https://www.v2ex.com/t/821559) 
-- [2021-12-11-M1Pro-MacBook-通过-USB-C-口连接戴尔的-U2720QM-显示器发烫](https://www.v2ex.com/t/821558) 
-- [2021-12-11-安卓上火狐比-chrome-慢？](https://www.v2ex.com/t/821557) 
-- [2021-12-11-关于-Python-的-popen-无法获取-pipe-的输出，大家有什么头猪吗](https://www.v2ex.com/t/821556) 

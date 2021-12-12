@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-12 02:47:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-12 03:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2021-12-12-12月11日全国新增新冠75例-三省份本土49例](https://m.caixin.com/m/2021-12-12/101816741.html) 
+- [2021-12-12-英国1月或出现Omicron感染浪潮-美国疫情加剧｜大流行手记（12月11日）](https://m.caixin.com/m/2021-12-12/101816748.html) 
 - [2021-12-11-口岸城市疫情防控10个问答](https://m.caixin.com/m/2021-12-11/101816615.html) 
 - [2021-12-11-【境内疫情观察】全国新增51例本土病例（12月10日）](https://database.caixin.com/m/2021-12-11/101816619.html) 
 - [2021-12-11-美奥密克戎患者多已完全接种，多国敦促儿童打疫苗｜大流行手记（12月10日）](https://m.caixin.com/m/2021-12-11/101816508.html) 
@@ -1488,8 +1489,6 @@
 - [2021-12-11-聊聊哪些行业或者职位现在入行是-49-年如国军](https://www.v2ex.com/t/821571) 
 - [2021-12-11-ios15-投屏给-macos，-macos-有点沸点](https://www.v2ex.com/t/821570) 
 - [2021-12-11-拟做一个类似于人工抢票的工具](https://www.v2ex.com/t/821569) 
-- [2021-12-11-老二刺螈们来推荐几个-b-站-上的婆罗门-up-主？](https://www.v2ex.com/t/821568) 
-- [2021-12-11-有没有类似-DeepFake-技术的-P-图软件啊](https://www.v2ex.com/t/821567) 
 - [2021-12-12-敏捷团队的生命周期-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14839&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-team-lifecycle%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-12-数字化转型：企业破局的34个锦囊（序）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14838&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdigital-transformation-34-tenets%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-12-和Stand-up再次相遇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14837&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-have-an-effective-standup%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1510,16 +1509,16 @@
 - [2021-12-12-一篇文章梳理清楚-Python-多线程与多进程](https://toutiao.io/k/w99c5yy) 
 - [2021-12-12-云原生DevOps，研发一体化的践行利器](https://toutiao.io/k/wcnoqnd) 
 - [2021-12-12-科创人·StreamNative翟佳：开源模式价值为王，基础软件的未来在国内社区](https://toutiao.io/k/4eynjqx) 
-- [2021-12-12-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [2021-12-12-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-12-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) 
-- [2021-12-12-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
-- [2021-12-12-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
-- [2021-12-12-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
-- [2021-12-12-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 
-- [2021-12-12-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
-- [2021-12-12-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
-- [2021-12-12-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
 - [2021-12-12-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [2021-12-12-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
+- [2021-12-12-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [2021-12-12-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) 
+- [2021-12-12-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
+- [2021-12-12-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [2021-12-12-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) 
 - [2021-12-12-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
+- [2021-12-12-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
+- [2021-12-12-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
+- [2021-12-12-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-12 02:47:23，:rocket: 更新条数: +1563， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-12 03:00:28，:rocket: 更新条数: +1562， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-12-12月11日全国新增新冠75例-三省份本土49例](https://m.caixin.com/m/2021-12-12/101816741.html) ![](assets/new.png)  
+- [2021-12-12-英国1月或出现Omicron感染浪潮-美国疫情加剧｜大流行手记（12月11日）](https://m.caixin.com/m/2021-12-12/101816748.html) ![](assets/new.png)  
 - [2021-12-11-口岸城市疫情防控10个问答](https://m.caixin.com/m/2021-12-11/101816615.html) ![](assets/new.png)  
 - [2021-12-11-【境内疫情观察】全国新增51例本土病例（12月10日）](https://database.caixin.com/m/2021-12-11/101816619.html) ![](assets/new.png)  
 - [2021-12-11-美奥密克戎患者多已完全接种，多国敦促儿童打疫苗｜大流行手记（12月10日）](https://m.caixin.com/m/2021-12-11/101816508.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-08-比利时动物园两头河马染新冠-系该物种首次发现](https://science.caixin.com/m/2021-12-08/101815311.html) ![](assets/new.png)  
 - [2021-12-07-浙江三日累计19例阳性-上海新增1例密接确诊](https://m.caixin.com/m/2021-12-07/101814873.html) ![](assets/new.png)  
 - [2021-12-07-【境内疫情观察】浙江宁波镇海区实施临时封闭管理（12月6日）](https://database.caixin.com/m/2021-12-07/101814603.html) ![](assets/new.png)  
-- [2021-12-07-福奇称Omicron致病性早期信号积极-南非感染人数猛增｜大流行手记（-12月6日）](https://m.caixin.com/m/2021-12-07/101814482.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,24 +558,24 @@
 
 - [2021-12-12-Java中不容拒绝的一种优雅的写法](https://toutiao.io/k/un3ejpz) ![](assets/new.png)  
 - [2021-12-12-优质网站同好者周刊（第-43-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/x0lt9mu) ![](assets/new.png)  
-- [2021-12-12-一篇文章梳理清楚-Python-多线程与多进程](https://toutiao.io/k/w99c5yy) ![](assets/new.png)  
 - [2021-12-12-精妙绝伦的并发艺术品-—-ConcurrentHashMap是如何保证线程安全的](https://toutiao.io/k/6ypqn5r) ![](assets/new.png)  
+- [2021-12-12-一篇文章梳理清楚-Python-多线程与多进程](https://toutiao.io/k/w99c5yy) ![](assets/new.png)  
 - [2021-12-12-云原生DevOps，研发一体化的践行利器](https://toutiao.io/k/wcnoqnd) ![](assets/new.png)  
 - [2021-12-12-科创人·StreamNative翟佳：开源模式价值为王，基础软件的未来在国内社区](https://toutiao.io/k/4eynjqx) ![](assets/new.png)  
-- [2021-12-12-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
-- [2021-12-12-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [2021-12-12-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [2021-12-12-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
-- [2021-12-12-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
-- [2021-12-12-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-12-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
-- [2021-12-12-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
-- [2021-12-12-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
-- [2021-12-12-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-12-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
 - [2021-12-12-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-12-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
+- [2021-12-12-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [2021-12-12-推荐-我的绘图工具箱](https://toutiao.io/k/cpcd1i2) ![](assets/new.png)  
+- [2021-12-12-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
+- [2021-12-12-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-12-推荐-Golang-编程思维和工程实战](https://toutiao.io/k/usjzg6m) ![](assets/new.png)  
 - [2021-12-12-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
+- [2021-12-12-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
+- [2021-12-12-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-12-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-12-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

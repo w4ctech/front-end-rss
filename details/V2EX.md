@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-12-12 14:19:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-12 14:37:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-12-为什么很多场景数据先写入-kafka-再写入-elastic，而不是直接写-elastic？](https://www.v2ex.com/t/821725) 
+- [2021-12-12-在-homeassistant-上二次开发一个-Hub-并在-Amazon-上出售，各位如何看，风险几何？](https://www.v2ex.com/t/821724) 
+- [2021-12-12-出个二手-poker2-键盘](https://www.v2ex.com/t/821723) 
+- [2021-12-12-问两个问题](https://www.v2ex.com/t/821721) 
 - [2021-12-12-有人使用-luna-display-让-iMac-作为外接显示器么](https://www.v2ex.com/t/821720) 
 - [2021-12-12-山姆卓越会员值得续费吗？](https://www.v2ex.com/t/821719) 
 - [2021-12-12-现在还有哪些-RSS-阅读软件？](https://www.v2ex.com/t/821718) 
@@ -39,8 +43,3 @@
 - [2021-12-12-ios-webview-position-fixed-无效你们怎么解决](https://www.v2ex.com/t/821679) 
 - [2021-12-12-闭包和对象是一回事](https://www.v2ex.com/t/821678) 
 - [2021-12-12-求推荐-桌子太低，需要-iPad-Pro11-英寸的支架让-iPad-“长高一些”](https://www.v2ex.com/t/821677) 
-- [2021-12-12-VQGAN+CLIP-成就的-Text-to-Image-果然牛逼](https://www.v2ex.com/t/821675) 
-- [2021-12-12-受不了了，想要现在就逃离老家,能否在长三角找到大厂外包级别的工作](https://www.v2ex.com/t/821674) 
-- [2021-12-12-M1-Pro-14，屏幕涂层已磨损](https://www.v2ex.com/t/821673) 
-- [2021-12-12-elasticsearch-彻底关闭日志是不是就可以解决此次-log4j2-漏洞？](https://www.v2ex.com/t/821672) 
-- [2021-12-12-求职-上海-Go-后端开发](https://www.v2ex.com/t/821671) 

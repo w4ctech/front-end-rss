@@ -7664,6 +7664,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "为什么很多场景数据先写入 kafka 再写入 elastic，而不是直接写 elastic？",
+        "link": "https://www.v2ex.com/t/821725",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "在 homeassistant 上二次开发一个 Hub 并在 Amazon 上出售，各位如何看，风险几何？",
+        "link": "https://www.v2ex.com/t/821724",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "出个二手 poker2 键盘",
+        "link": "https://www.v2ex.com/t/821723",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "问两个问题",
+        "link": "https://www.v2ex.com/t/821721",
+        "date": "2021-12-12"
+      },
+      {
         "title": "有人使用 luna display 让 iMac 作为外接显示器么",
         "link": "https://www.v2ex.com/t/821720",
         "date": "2021-12-12"
@@ -7832,31 +7852,6 @@
         "title": "[求推荐] 桌子太低，需要 iPad Pro11 英寸的支架让 iPad “长高一些”",
         "link": "https://www.v2ex.com/t/821677",
         "date": "2021-12-12"
-      },
-      {
-        "title": "VQGAN+CLIP 成就的 Text to Image 果然牛逼",
-        "link": "https://www.v2ex.com/t/821675",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "受不了了，想要现在就逃离老家,能否在长三角找到大厂外包级别的工作",
-        "link": "https://www.v2ex.com/t/821674",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "M1 Pro 14，屏幕涂层已磨损",
-        "link": "https://www.v2ex.com/t/821673",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "elasticsearch 彻底关闭日志是不是就可以解决此次 log4j2 漏洞？",
-        "link": "https://www.v2ex.com/t/821672",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[求职] 上海 Go 后端开发",
-        "link": "https://www.v2ex.com/t/821671",
-        "date": "2021-12-12"
       }
     ]
   },
@@ -8013,8 +8008,13 @@
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
+        "link": "https://toutiao.io/k/8k28pnf",
         "date": "2021-12-12"
       },
       {
@@ -8028,33 +8028,8 @@
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
-        "link": "https://toutiao.io/k/h7wj37b",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 我的绘图工具箱",
-        "link": "https://toutiao.io/k/cpcd1i2",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
-        "link": "https://toutiao.io/k/004032c",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
-        "date": "2021-12-12"
-      },
-      {
-        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
-        "link": "https://toutiao.io/k/8k28pnf",
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
         "date": "2021-12-12"
       },
       {
@@ -8063,8 +8038,13 @@
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
-        "link": "https://toutiao.io/k/96zw0k6",
+        "title": "[推荐] 我的绘图工具箱",
+        "link": "https://toutiao.io/k/cpcd1i2",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
         "date": "2021-12-12"
       },
       {
@@ -8073,13 +8053,28 @@
         "date": "2021-12-12"
       },
       {
+        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
+        "link": "https://toutiao.io/k/h7wj37b",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
+        "link": "https://toutiao.io/k/004032c",
+        "date": "2021-12-12"
+      },
+      {
+        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
+        "link": "https://toutiao.io/k/96zw0k6",
+        "date": "2021-12-12"
+      },
+      {
         "title": "[推荐] 程序员的 10 个好习惯",
         "link": "https://toutiao.io/k/2y6pnqa",
         "date": "2021-12-12"
       },
       {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
         "date": "2021-12-12"
       }
     ]

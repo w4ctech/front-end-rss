@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-12 09:24:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-12 09:39:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -285,6 +285,7 @@
 
 
 
+- [【V2EX】elasticsearch-彻底关闭日志是不是就可以解决此次-log4j2-漏洞？](https://www.v2ex.com/t/821672)
 - [【V2EX】全职-远程办公-极狐-GitLab-招聘-Ruby-测试/研发/全栈工程师等多个职位](https://www.v2ex.com/t/821670)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -302,7 +303,6 @@
 
 
 
-- [【V2EX】请教-V-友们，-docker-镜像如何解决跟宿主机內核版本不兼容的情况吗？](https://www.v2ex.com/t/821621)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-12 19:54:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-12 20:13:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -250,8 +250,8 @@
 
 
 
-- [【开发者头条】推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p)
 - [【开发者头条】推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a)
+- [【开发者头条】推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -325,7 +325,6 @@
 
 
 
-- [【V2EX】OneDev-6.0---自建-Git-服务---自带-CI/CD-及-Issue-看板](https://www.v2ex.com/t/821699)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -342,7 +341,6 @@
 
 
 
-- [【V2EX】收到一封奇葩招聘邮件，怪事见得多了，一时分不清是要干嘛的了。](https://www.v2ex.com/t/821700)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

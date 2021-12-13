@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 10:14:08，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 10:24:52，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-13-想撸一个甲骨文的免费主机,有没办法防止绑卡后扣费?](https://www.v2ex.com/t/821937) ![](assets/new.png)  
 - [2021-12-13-某米加湿器居然是这样看出代工厂](https://www.v2ex.com/t/821936) ![](assets/new.png)  
 - [2021-12-13-也谈谈应届生在一线城市的生活](https://www.v2ex.com/t/821934) ![](assets/new.png)  
 - [2021-12-13-Google-One-会员赠送-5-刀-Google-Play-余额](https://www.v2ex.com/t/821933) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-13-VR/AR-是否催生新一代的-Html-前端技术](https://www.v2ex.com/t/821917) ![](assets/new.png)  
 - [2021-12-13-mac-os-12.1，-mbp2021-16-寸，顶部菜单栏和软件菜单栏有几个像素的空隙。](https://www.v2ex.com/t/821916) ![](assets/new.png)  
 - [2021-12-13-免费但不开源的旺石-NAS-网盘管理系统更新：-Build3702-重设计-OnceOA-流程设计器，并集成-OnceGrid-类-Excel-报表工具](https://www.v2ex.com/t/821912) ![](assets/new.png)  
-- [2021-12-13-上海-动视暴雪招聘-C/C++软件开发工程师，内推成功，奖金平分](https://www.v2ex.com/t/821910) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,12 +565,12 @@
 - [2021-12-13-Spring-Native-0.11发布了，带来了新的AOT引擎！启动速度、内存占用率都有提升！](https://toutiao.io/k/p9tynhe) ![](assets/new.png)  
 - [2021-12-13-深入剖析分布式事务一致性](https://toutiao.io/k/sewaxtv) ![](assets/new.png)  
 - [2021-12-13-关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5) ![](assets/new.png)  
-- [2021-12-13-兼容-tmux-的-rz-/-sz-小工具](https://toutiao.io/k/g007wom) ![](assets/new.png)  
 - [2021-12-13-打印STRUCT中FIELD内存对齐的小工具](https://toutiao.io/k/lmrze77) ![](assets/new.png)  
+- [2021-12-13-兼容-tmux-的-rz-/-sz-小工具](https://toutiao.io/k/g007wom) ![](assets/new.png)  
 - [2021-12-13-纯Python实现Torch-API，康奈尔副教授为自己的课程创建了DIY教学库](https://toutiao.io/k/4crvycv) ![](assets/new.png)  
 - [2021-12-13-Apache-Log4j-2-报高危漏洞，CODING-联手腾讯安全护卫软件安全](https://toutiao.io/k/mk63agd) ![](assets/new.png)  
-- [2021-12-13-突发！Apache-Log4j2-报核弹级漏洞](https://toutiao.io/k/evhvg1r) ![](assets/new.png)  
 - [2021-12-13-如何收集-Go-的实时覆盖率](https://toutiao.io/k/w9070tb) ![](assets/new.png)  
+- [2021-12-13-突发！Apache-Log4j2-报核弹级漏洞](https://toutiao.io/k/evhvg1r) ![](assets/new.png)  
 - [2021-12-13-Git-+-Webhook-+-Node.js实现服务器自动化更新部署](https://toutiao.io/k/t3dx1h2) ![](assets/new.png)  
 - [2021-12-13-MySQL在并发场景下的问题及解决思路](https://toutiao.io/k/dr1ygmz) ![](assets/new.png)  
 - [2021-12-13-好未来数据中台-Node.js-BFF-实践（一）：基础篇](https://toutiao.io/k/am5dok8) ![](assets/new.png)  

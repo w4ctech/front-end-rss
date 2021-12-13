@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 09:56:58，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 10:14:08，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-13-某米加湿器居然是这样看出代工厂](https://www.v2ex.com/t/821936) ![](assets/new.png)  
+- [2021-12-13-也谈谈应届生在一线城市的生活](https://www.v2ex.com/t/821934) ![](assets/new.png)  
+- [2021-12-13-Google-One-会员赠送-5-刀-Google-Play-余额](https://www.v2ex.com/t/821933) ![](assets/new.png)  
 - [2021-12-13-有人在用-jcasbin-这框架吗](https://www.v2ex.com/t/821932) ![](assets/new.png)  
 - [2021-12-13-想问一下有了解昆山凯捷咨询的-v-友嘛](https://www.v2ex.com/t/821931) ![](assets/new.png)  
 - [2021-12-13-职场上遇到老板让做原本不属于本职工作的事情该怎么办？](https://www.v2ex.com/t/821930) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-13-mac-os-12.1，-mbp2021-16-寸，顶部菜单栏和软件菜单栏有几个像素的空隙。](https://www.v2ex.com/t/821916) ![](assets/new.png)  
 - [2021-12-13-免费但不开源的旺石-NAS-网盘管理系统更新：-Build3702-重设计-OnceOA-流程设计器，并集成-OnceGrid-类-Excel-报表工具](https://www.v2ex.com/t/821912) ![](assets/new.png)  
 - [2021-12-13-上海-动视暴雪招聘-C/C++软件开发工程师，内推成功，奖金平分](https://www.v2ex.com/t/821910) ![](assets/new.png)  
-- [2021-12-13-北京-急招-golang-开发工程师招聘-20-40K](https://www.v2ex.com/t/821909) ![](assets/new.png)  
-- [2021-12-13-想不通，对别人买车指指点点的到底是什么心态？](https://www.v2ex.com/t/821908) ![](assets/new.png)  
-- [2021-12-13-阿里云-工单](https://www.v2ex.com/t/821907) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

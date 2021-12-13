@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 16:18:20，:rocket: 更新条数: +1573， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 16:33:38，:rocket: 更新条数: +1574， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-13-请问-win-系统有没有类似-Mac-上虚拟机的程序？](https://www.v2ex.com/t/821999) ![](assets/new.png)  
+- [2021-12-13-Vue2-怎么快速做一个“设置向导”？](https://www.v2ex.com/t/821998) ![](assets/new.png)  
 - [2021-12-13-显示器突然花屏，上面内容显示在下面的花屏横纹中](https://www.v2ex.com/t/821997) ![](assets/new.png)  
 - [2021-12-13-请问-ios-中如何快速分别出-app-在哪一个区下载的](https://www.v2ex.com/t/821995) ![](assets/new.png)  
 - [2021-12-13-远程兼职-5yr+-SRE/DevOps/CKA/CloudNative-工程师](https://www.v2ex.com/t/821994) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-13-请教各位大佬一个关于-mockplus-的问题啊！](https://www.v2ex.com/t/821971) ![](assets/new.png)  
 - [2021-12-13-两个数据库，如何优雅查询](https://www.v2ex.com/t/821970) ![](assets/new.png)  
 - [2021-12-13-帮忙看看-Vue-的问题](https://www.v2ex.com/t/821969) ![](assets/new.png)  
-- [2021-12-13-半吊子程序员怎么学习-Linux-，-Linux-爱好者请进](https://www.v2ex.com/t/821968) ![](assets/new.png)  
-- [2021-12-13-求助如何通过没有文档的接口上传文件](https://www.v2ex.com/t/821966) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,11 +1,13 @@
-:alarm_clock: 更新时间: 2021-12-13 03:57:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-13 04:15:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-13-关于大家讨论「现在的前端技术太恶心」，其实可以试试-esbuild](https://www.v2ex.com/t/821831) 
 - [2021-12-13-UsingAI-招聘开发工程师、算法研究员](https://www.v2ex.com/t/821829) 
+- [2021-12-13-Delete](https://www.v2ex.com/t/821828) 
 - [2021-12-13-红米-AC2100，考虑换-AC86U-或-XDR5430](https://www.v2ex.com/t/821827) 
 - [2021-12-13-团队奖金，如何看待领导要求培训或者聚餐形式消费掉？](https://www.v2ex.com/t/821826) 
 - [2021-12-13-北京---Amazon-Web-Service-AWS-招聘研发工程师](https://www.v2ex.com/t/821825) 
@@ -18,7 +20,6 @@
 - [2021-12-13-杭州-可远程居家办公秘猿科技-招聘区块链工程师/Rust-开发工程师/游戏开发工程师/资深研究员/技术文档工程师/Senior-Performance-engineer-高级性能工程师](https://www.v2ex.com/t/821818) 
 - [2021-12-13-Win-10-验证服务器地址是什么](https://www.v2ex.com/t/821816) 
 - [2021-12-13-为什么-Typescript-不添加条件编译这个功能?](https://www.v2ex.com/t/821814) 
-- [2021-12-13-有人白嫖过-oracle-cloud-免费服务器吗？咨询点问题](https://www.v2ex.com/t/821813) 
 - [2021-12-13-求问-m1pro-的-mbp-14-or-16](https://www.v2ex.com/t/821812) 
 - [2021-12-13-2021-iOS-app-上架需要测试哪几个机型？](https://www.v2ex.com/t/821811) 
 - [2021-12-13-手机冻关机了,换电池是否有用?](https://www.v2ex.com/t/821810) 
@@ -37,7 +38,6 @@
 - [2021-12-13-v2-西安板块如此清凉呢，你们都去哪里了](https://www.v2ex.com/t/821795) 
 - [2021-12-13-想给-WIN-笔记本换个-1T-的固态硬盘，现在还有必要分区吗？](https://www.v2ex.com/t/821794) 
 - [2021-12-13-房东直租松江区玉乐小区的小户型](https://www.v2ex.com/t/821793) 
-- [2021-12-13-问过来人一个问题，恋爱和自由冲突吗？](https://www.v2ex.com/t/821792) 
 - [2021-12-13-Microsoft-Edge-已经过期！](https://www.v2ex.com/t/821791) 
 - [2021-12-13-突然发现所有国产手环都只能设置一个勿扰时间段，都不睡午觉？](https://www.v2ex.com/t/821790) 
 - [2021-12-13-全新未拆-京东京造-1TB-SSD-固态硬盘-M.2-接口（NVMe-协议）PCIe3.0-四通道-5-系列（JZ-SSD1T-5）五年质保](https://www.v2ex.com/t/821788) 
@@ -47,4 +47,3 @@
 - [2021-12-13-智能家居我目前布局中遇到一些疑惑](https://www.v2ex.com/t/821784) 
 - [2021-12-13-CODING-与悬镜安全达成战略合作，引领-DevOps-向-DevSecOps-创新模式升级](https://www.v2ex.com/t/821783) 
 - [2021-12-13-推荐大家使用-Flutter-一大原因--安全性](https://www.v2ex.com/t/821782) 
-- [2021-12-13-关于-MySQL-建表主键用自增还是-uuid-的问题](https://www.v2ex.com/t/821780) 

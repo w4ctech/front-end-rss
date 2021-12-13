@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-12-13 15:47:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-13 16:18:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-13-显示器突然花屏，上面内容显示在下面的花屏横纹中](https://www.v2ex.com/t/821997) 
+- [2021-12-13-请问-ios-中如何快速分别出-app-在哪一个区下载的](https://www.v2ex.com/t/821995) 
+- [2021-12-13-远程兼职-5yr+-SRE/DevOps/CKA/CloudNative-工程师](https://www.v2ex.com/t/821994) 
 - [2021-12-13-多个-so-库混用不同-ndk-版本编译，-libc++共享库版本也不一致，为什么有的手机能正常运行有的会-crash?](https://www.v2ex.com/t/821990) 
 - [2021-12-13-Firefox-浏览器访问微软出现-OCSP-错误](https://www.v2ex.com/t/821989) 
 - [2021-12-13-VLOOK-13！标签、徽章、表格阅读模式强化，实用好用的-Markdown-主题包和增强插件](https://www.v2ex.com/t/821988) 
@@ -31,8 +34,3 @@
 - [2021-12-13-求大佬进来看下网络拓扑图是否可行](https://www.v2ex.com/t/821956) 
 - [2021-12-13-发现了-MBP-的一个花屏的毛病](https://www.v2ex.com/t/821951) 
 - [2021-12-13-之前沸沸扬扬的-T2-芯片死机问题后来怎么样了?](https://www.v2ex.com/t/821949) 
-- [2021-12-13-请教下-windows-自己宕机日志如何排查](https://www.v2ex.com/t/821946) 
-- [2021-12-13-最不想看到的代码](https://www.v2ex.com/t/821945) 
-- [2021-12-13-看完骁龙-8-Gen1-之后感觉我的-855-还能继续用](https://www.v2ex.com/t/821944) 
-- [2021-12-13-钉钉会议模式下-AirPods-Pro-有-bug？](https://www.v2ex.com/t/821943) 
-- [2021-12-13-MBP14-寸发货时间玄学规律](https://www.v2ex.com/t/821942) 

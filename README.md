@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 14:54:49，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 15:13:36，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2021-12-13-12月12日全国新增新冠101例-三省份本土80例](https://m.caixin.com/m/2021-12-13/101816934.html) ![](assets/new.png)  
+- [2021-12-13-最新疫情：全国新冠累计确诊99780例-累计接种新冠疫苗超26.12亿剂次](https://m.caixin.com/m/2021-12-13/101817259.html) ![](assets/new.png)  
 - [2021-12-13-浙江杭绍甬八日累计新冠近200例-三地将严控出行至明年3月](https://m.caixin.com/m/2021-12-13/101817234.html) ![](assets/new.png)  
 - [2021-12-13-天津从入境人员中检出奥密克戎变异株](https://china.caixin.com/m/2021-12-13/101817231.html) ![](assets/new.png)  
 - [2021-12-13-香港研究显示复必泰疫苗对Omicron中和抗体大减-或期加强针](https://m.caixin.com/m/2021-12-13/101817198.html) ![](assets/new.png)  
+- [2021-12-13-最新海外疫情：新冠感染超2.69亿-累计接种新冠疫苗近84.11亿剂次](https://m.caixin.com/m/2021-12-13/101817256.html) ![](assets/new.png)  
 - [2021-12-13-【境内疫情观察】浙江新增74例本土病例（12月12日）](https://database.caixin.com/m/2021-12-13/101817065.html) ![](assets/new.png)  
 - [2021-12-13-WHO称大流行扰乱全球卫生服务-英国单日Omicron病例翻番｜大流行手记（-12月12日）](https://m.caixin.com/m/2021-12-13/101816947.html) ![](assets/new.png)  
-- [2021-12-12-最新海外疫情：新冠感染超2.69亿-累计接种新冠疫苗超83.65亿剂次](https://m.caixin.com/m/2021-12-12/101816880.html) ![](assets/new.png)  
 - [2021-12-12-浙江一周累计确诊138例-与上海疫情为同一传播链](https://m.caixin.com/m/2021-12-12/101816876.html) ![](assets/new.png)  
 - [2021-12-12-【境内疫情观察】全国新增49例本土病例（12月11日）](https://database.caixin.com/m/2021-12-12/101816815.html) ![](assets/new.png)  
 - [2021-12-12-英国1月或出现Omicron感染浪潮-美国疫情加剧｜大流行手记（12月11日）](https://m.caixin.com/m/2021-12-12/101816748.html) ![](assets/new.png)  
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-13-2021-年快结束了，分享下个人觉得今年看到的最好的回答。](https://www.v2ex.com/t/821984) ![](assets/new.png)  
+- [2021-12-13-高并发情况下如何保证金额加减的一致性](https://www.v2ex.com/t/821980) ![](assets/new.png)  
 - [2021-12-13-Beerus-上线啦，用-Go-开发的-web-解决方案](https://www.v2ex.com/t/821978) ![](assets/new.png)  
 - [2021-12-13-老铁们，我这算喜讯吗](https://www.v2ex.com/t/821977) ![](assets/new.png)  
 - [2021-12-13-前端从业人员入门提高到什么水平了？学历专业知识面试难度](https://www.v2ex.com/t/821976) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-13-oracle-jdk8-是不是没有-mac-m1-的版本](https://www.v2ex.com/t/821959) ![](assets/new.png)  
 - [2021-12-13-myip.la-的-api-跨域引用报错问题](https://www.v2ex.com/t/821958) ![](assets/new.png)  
 - [2021-12-13-求大佬进来看下网络拓扑图是否可行](https://www.v2ex.com/t/821956) ![](assets/new.png)  
-- [2021-12-13-发现了-MBP-的一个花屏的毛病](https://www.v2ex.com/t/821951) ![](assets/new.png)  
-- [2021-12-13-之前沸沸扬扬的-T2-芯片死机问题后来怎么样了?](https://www.v2ex.com/t/821949) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2021-12-13-Apache-Log4j-2-报高危漏洞，CODING-联手腾讯安全护卫软件安全](https://toutiao.io/k/mk63agd) ![](assets/new.png)  
 - [2021-12-13-Git-+-Webhook-+-Node.js实现服务器自动化更新部署](https://toutiao.io/k/t3dx1h2) ![](assets/new.png)  
 - [2021-12-13-纯Python实现Torch-API，康奈尔副教授为自己的课程创建了DIY教学库](https://toutiao.io/k/4crvycv) ![](assets/new.png)  
-- [2021-12-13-突发！Apache-Log4j2-报核弹级漏洞](https://toutiao.io/k/evhvg1r) ![](assets/new.png)  
 - [2021-12-13-MySQL在并发场景下的问题及解决思路](https://toutiao.io/k/dr1ygmz) ![](assets/new.png)  
+- [2021-12-13-突发！Apache-Log4j2-报核弹级漏洞](https://toutiao.io/k/evhvg1r) ![](assets/new.png)  
 - [2021-12-13-好未来数据中台-Node.js-BFF-实践（一）：基础篇](https://toutiao.io/k/am5dok8) ![](assets/new.png)  
 - [2021-12-13-Web-性能优化：控制关键请求的优先级](https://toutiao.io/k/60k6uks) ![](assets/new.png)  
 - [2021-12-13-python|-第一部分：python核心（一）](https://toutiao.io/k/u3vai3b) ![](assets/new.png)  

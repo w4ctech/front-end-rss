@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 03:27:04，:rocket: 更新条数: +1574， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 03:40:36，:rocket: 更新条数: +1575， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-13-北京---Amazon-Web-Service-AWS-招聘研发工程师](https://www.v2ex.com/t/821825) ![](assets/new.png)  
+- [2021-12-13-MySQL-商品表-90-个字段有必要拆分么](https://www.v2ex.com/t/821824) ![](assets/new.png)  
+- [2021-12-13-虽然最近没什么时间，但还是尝试推一下吧，不知不觉，也已经-250-star-了](https://www.v2ex.com/t/821823) ![](assets/new.png)  
 - [2021-12-13-求一个存储迁移方案](https://www.v2ex.com/t/821822) ![](assets/new.png)  
 - [2021-12-13-七号线/二号线求租整租房子](https://www.v2ex.com/t/821821) ![](assets/new.png)  
 - [2021-12-13-Google-Ads-推广-App-求助](https://www.v2ex.com/t/821820) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-13-谈谈跑到一线城市之后的生活](https://www.v2ex.com/t/821806) ![](assets/new.png)  
 - [2021-12-13-请问大家是如何听-NAS-上的音乐的](https://www.v2ex.com/t/821805) ![](assets/new.png)  
 - [2021-12-13-🚀-🚀-🚀-远程-硅谷-全职-不卷-100%远程+期权+双休+四周年假+各种福利补贴](https://www.v2ex.com/t/821803) ![](assets/new.png)  
-- [2021-12-13-西安-SAP-招聘-Cloud-开发](https://www.v2ex.com/t/821802) ![](assets/new.png)  
-- [2021-12-13-一张图搞懂橙子，以后再也别买错了。](https://www.v2ex.com/t/821800) ![](assets/new.png)  
-- [2021-12-13-一款-APP-可以收集到好几个-APP-内容](https://www.v2ex.com/t/821799) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,17 +565,17 @@
 - [2021-12-13-Spring-Native-0.11发布了，带来了新的AOT引擎！启动速度、内存占用率都有提升！](https://toutiao.io/k/p9tynhe) ![](assets/new.png)  
 - [2021-12-13-兼容-tmux-的-rz-/-sz-小工具](https://toutiao.io/k/g007wom) ![](assets/new.png)  
 - [2021-12-13-纯Python实现Torch-API，康奈尔副教授为自己的课程创建了DIY教学库](https://toutiao.io/k/4crvycv) ![](assets/new.png)  
-- [2021-12-13-关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5) ![](assets/new.png)  
 - [2021-12-13-Apache-Log4j-2-报高危漏洞，CODING-联手腾讯安全护卫软件安全](https://toutiao.io/k/mk63agd) ![](assets/new.png)  
+- [2021-12-13-关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5) ![](assets/new.png)  
 - [2021-12-13-突发！Apache-Log4j2-报核弹级漏洞](https://toutiao.io/k/evhvg1r) ![](assets/new.png)  
-- [2021-12-13-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
-- [2021-12-13-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-13-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
-- [2021-12-13-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
-- [2021-12-13-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
-- [2021-12-13-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
+- [2021-12-13-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
 - [2021-12-13-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
-- [2021-12-13-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-13-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-13-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
+- [2021-12-13-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
+- [2021-12-13-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-13-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
+- [2021-12-13-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

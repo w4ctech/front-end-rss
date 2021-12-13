@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-13 03:27:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-13 03:40:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -8,5 +8,4 @@
 
 
 - [2021-12-13-育碧上海---漕河泾-招聘-Python-后端开发工程师，全栈开发工程师](https://www.v2ex.com/t/821786) 
-- [2021-12-13-关于-HTTP-中编码一点疑问](https://www.v2ex.com/t/821774) 
 - [2021-12-13-关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5) 

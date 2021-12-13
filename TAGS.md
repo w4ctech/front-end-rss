@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-13 04:28:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-13 04:50:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -248,8 +248,8 @@
 
 
 
-- [【开发者头条】推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p)
 - [【开发者头条】推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a)
+- [【开发者头条】推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -274,7 +274,6 @@
 - [【张鑫旭-鑫空间-鑫生活】兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)
 - [【V2EX】Microsoft-Edge-已经过期！](https://www.v2ex.com/t/821791)
 - [【V2EX】全新未拆-京东京造-1TB-SSD-固态硬盘-M.2-接口（NVMe-协议）PCIe3.0-四通道-5-系列（JZ-SSD1T-5）五年质保](https://www.v2ex.com/t/821788)
-- [【V2EX】CODING-与悬镜安全达成战略合作，引领-DevOps-向-DevSecOps-创新模式升级](https://www.v2ex.com/t/821783)
 - [【开发者头条】https引起的跨域问题-COE&casestudy](https://toutiao.io/k/bim4wzo)
 - [【开发者头条】Apache-Log4j-2-报高危漏洞，CODING-联手腾讯安全护卫软件安全](https://toutiao.io/k/mk63agd)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -294,7 +293,6 @@
 
 
 - [【V2EX】UsingAI-招聘开发工程师、算法研究员](https://www.v2ex.com/t/821829)
-- [【V2EX】育碧上海---漕河泾-招聘-Python-后端开发工程师，全栈开发工程师](https://www.v2ex.com/t/821786)
 - [【开发者头条】关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

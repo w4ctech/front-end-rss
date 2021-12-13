@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 04:28:53，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 04:50:59，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-13-iOS-和-Mac-端日历不同步](https://www.v2ex.com/t/821836) ![](assets/new.png)  
+- [2021-12-13-Finder-侧边栏图标错误，这是-BUG-还是新的-Apple's-Feature？](https://www.v2ex.com/t/821835) ![](assets/new.png)  
+- [2021-12-13-年底了,总结一下自己的挖矿历程-不知道有没有违规](https://www.v2ex.com/t/821834) ![](assets/new.png)  
+- [2021-12-13-分享一个开发备忘单](https://www.v2ex.com/t/821833) ![](assets/new.png)  
 - [2021-12-13-Typora-上传图片时路径中不能有-#-号。](https://www.v2ex.com/t/821832) ![](assets/new.png)  
 - [2021-12-13-关于大家讨论「现在的前端技术太恶心」，其实可以试试-esbuild](https://www.v2ex.com/t/821831) ![](assets/new.png)  
 - [2021-12-13-UsingAI-招聘开发工程师、算法研究员](https://www.v2ex.com/t/821829) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-13-杭州-可远程居家办公秘猿科技-招聘区块链工程师/Rust-开发工程师/游戏开发工程师/资深研究员/技术文档工程师/Senior-Performance-engineer-高级性能工程师](https://www.v2ex.com/t/821818) ![](assets/new.png)  
 - [2021-12-13-Win-10-验证服务器地址是什么](https://www.v2ex.com/t/821816) ![](assets/new.png)  
 - [2021-12-13-为什么-Typescript-不添加条件编译这个功能?](https://www.v2ex.com/t/821814) ![](assets/new.png)  
-- [2021-12-13-求问-m1pro-的-mbp-14-or-16](https://www.v2ex.com/t/821812) ![](assets/new.png)  
-- [2021-12-13-2021-iOS-app-上架需要测试哪几个机型？](https://www.v2ex.com/t/821811) ![](assets/new.png)  
-- [2021-12-13-手机冻关机了,换电池是否有用?](https://www.v2ex.com/t/821810) ![](assets/new.png)  
-- [2021-12-13-一个后端程序员对前端技术的彩虹屁](https://www.v2ex.com/t/821809) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,22 +560,22 @@
 - [2021-12-13-网易严选实时计算平台建设实践](https://toutiao.io/k/67cbep8) ![](assets/new.png)  
 - [2021-12-13-CompletableFuture：让你的代码免受阻塞之苦](https://toutiao.io/k/141ukrd) ![](assets/new.png)  
 - [2021-12-13-V2er----双端开源的V2EX客户端（SwiftUI+RXJava）](https://toutiao.io/k/59ctye1) ![](assets/new.png)  
-- [2021-12-13-如何把Python应用构建为Docker容器](https://toutiao.io/k/ybi7p4m) ![](assets/new.png)  
 - [2021-12-13-这套神奇的个人信息管理系统，带我一步步进入互联网大厂](https://toutiao.io/k/zax0j3f) ![](assets/new.png)  
+- [2021-12-13-如何把Python应用构建为Docker容器](https://toutiao.io/k/ybi7p4m) ![](assets/new.png)  
 - [2021-12-13-Spring-Native-0.11发布了，带来了新的AOT引擎！启动速度、内存占用率都有提升！](https://toutiao.io/k/p9tynhe) ![](assets/new.png)  
 - [2021-12-13-兼容-tmux-的-rz-/-sz-小工具](https://toutiao.io/k/g007wom) ![](assets/new.png)  
 - [2021-12-13-纯Python实现Torch-API，康奈尔副教授为自己的课程创建了DIY教学库](https://toutiao.io/k/4crvycv) ![](assets/new.png)  
-- [2021-12-13-Apache-Log4j-2-报高危漏洞，CODING-联手腾讯安全护卫软件安全](https://toutiao.io/k/mk63agd) ![](assets/new.png)  
 - [2021-12-13-关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5) ![](assets/new.png)  
+- [2021-12-13-Apache-Log4j-2-报高危漏洞，CODING-联手腾讯安全护卫软件安全](https://toutiao.io/k/mk63agd) ![](assets/new.png)  
 - [2021-12-13-突发！Apache-Log4j2-报核弹级漏洞](https://toutiao.io/k/evhvg1r) ![](assets/new.png)  
-- [2021-12-13-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-13-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
 - [2021-12-13-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [2021-12-13-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
-- [2021-12-13-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-13-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
-- [2021-12-13-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
-- [2021-12-13-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
 - [2021-12-13-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-13-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-13-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
+- [2021-12-13-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-13-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

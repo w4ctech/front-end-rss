@@ -1,11 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-13 10:45:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-13 10:57:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2021-12-13-NS-普通会员,我开的话,有上车的吗?](https://www.v2ex.com/t/821939) 
+- [2021-12-13-关于自建的-xcframework-使用时报-undefined-symbol-的问题](https://www.v2ex.com/t/821940) 
 - [2021-12-13-想撸一个甲骨文的免费主机,有没办法防止绑卡后扣费?](https://www.v2ex.com/t/821937) 
 - [2021-12-13-某米加湿器居然是这样看出代工厂](https://www.v2ex.com/t/821936) 
 - [2021-12-13-也谈谈应届生在一线城市的生活](https://www.v2ex.com/t/821934) 
@@ -41,4 +41,3 @@
 - [2021-12-13-语雀的开发者一定每个人都是-128G-内存](https://www.v2ex.com/t/821894) 
 - [2021-12-13-送兑换码iOS-手机读取-NFC-数据以及写入！-独立开发者送上](https://www.v2ex.com/t/821893) 
 - [2021-12-13-迫于新工作要买-mac，求助比较便宜的渠道](https://www.v2ex.com/t/821892) 
-- [2021-12-13-一周有一天没有合上-Move-的圆环，也能获取-Apple-Watch-的-Perfect-WeekMove勋章，是-bug-吗？](https://www.v2ex.com/t/821891) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-13 07:13:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-13 07:21:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -250,8 +250,8 @@
 
 
 - [【开发者头条】Web-性能优化：控制关键请求的优先级](https://toutiao.io/k/60k6uks)
-- [【开发者头条】推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p)
 - [【开发者头条】推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a)
+- [【开发者头条】推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -294,7 +294,6 @@
 
 
 
-- [【V2EX】UsingAI-招聘开发工程师、算法研究员](https://www.v2ex.com/t/821829)
 - [【开发者头条】关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -348,7 +347,6 @@
 
 
 - [【V2EX】第一次做面试官](https://www.v2ex.com/t/821859)
-- [【V2EX】北京---Amazon-Web-Service-AWS-招聘研发工程师](https://www.v2ex.com/t/821825)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

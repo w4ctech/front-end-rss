@@ -10,6 +10,11 @@
         "date": "2021-12-13"
       },
       {
+        "title": "【境内疫情观察】浙江新增74例本土病例（12月12日）",
+        "link": "https://database.caixin.com/m/2021-12-13/101817065.html",
+        "date": "2021-12-13"
+      },
+      {
         "title": "WHO称大流行扰乱全球卫生服务 英国单日Omicron病例翻番｜大流行手记（ 12月12日）",
         "link": "https://m.caixin.com/m/2021-12-13/101816947.html",
         "date": "2021-12-13"
@@ -7669,6 +7674,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "语雀的开发者一定每个人都是 128G 内存",
+        "link": "https://www.v2ex.com/t/821894",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "[送兑换码]iOS 手机读取 NFC 数据以及写入！ 独立开发者送上",
+        "link": "https://www.v2ex.com/t/821893",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "迫于新工作要买 mac，求助比较便宜的渠道",
+        "link": "https://www.v2ex.com/t/821892",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "一周有一天没有合上 Move 的圆环，也能获取 Apple Watch 的 Perfect Week(Move)勋章，是 bug 吗？",
+        "link": "https://www.v2ex.com/t/821891",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "双十二促销活动 Microsoft office 2019/2021 终身版低至 3 折，到手价只要 198，限时限量",
+        "link": "https://www.v2ex.com/t/821888",
+        "date": "2021-12-13"
+      },
+      {
         "title": "16 寸 m1 的新 mbp 外放真不错，触控板都跟着律动起来了",
         "link": "https://www.v2ex.com/t/821886",
         "date": "2021-12-13"
@@ -7811,26 +7841,6 @@
       {
         "title": "Zealot：一个为开发者提供快速测试应用核心的应用分发平台",
         "link": "https://www.v2ex.com/t/821846",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "日常有哪些方式买到优惠的火车票的？",
-        "link": "https://www.v2ex.com/t/821844",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "问下 V 友，龙猫有 6 个月大就已经 550 克的吗",
-        "link": "https://www.v2ex.com/t/821843",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "请教个 GO 调用 MySQL 存储过程的问题",
-        "link": "https://www.v2ex.com/t/821841",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "程序员容易久坐，对身体不好。最近咸鱼淘了台照相机，周六日放下电脑出去走走，不仅心情好了，身体也好了。想建一个摄影群，和大家一起交流拍照技术，不限性别年...",
-        "link": "https://www.v2ex.com/t/821840",
         "date": "2021-12-13"
       }
     ]
@@ -8013,13 +8023,13 @@
         "date": "2021-12-13"
       },
       {
-        "title": "打印STRUCT中FIELD内存对齐的小工具",
-        "link": "https://toutiao.io/k/lmrze77",
+        "title": "如何收集 Go 的实时覆盖率",
+        "link": "https://toutiao.io/k/w9070tb",
         "date": "2021-12-13"
       },
       {
-        "title": "如何收集 Go 的实时覆盖率",
-        "link": "https://toutiao.io/k/w9070tb",
+        "title": "打印STRUCT中FIELD内存对齐的小工具",
+        "link": "https://toutiao.io/k/lmrze77",
         "date": "2021-12-13"
       },
       {
@@ -8048,23 +8058,8 @@
         "date": "2021-12-13"
       },
       {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
-        "date": "2021-12-13"
-      },
-      {
         "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
         "link": "https://toutiao.io/k/8k28pnf",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
         "date": "2021-12-13"
       },
       {
@@ -8073,18 +8068,8 @@
         "date": "2021-12-13"
       },
       {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "[推荐] 京东秒杀架构升级优化实践",
-        "link": "https://toutiao.io/k/4cxy94p",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
         "date": "2021-12-13"
       },
       {
@@ -8093,13 +8078,23 @@
         "date": "2021-12-13"
       },
       {
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "[推荐] 京东秒杀架构升级优化实践",
+        "link": "https://toutiao.io/k/4cxy94p",
+        "date": "2021-12-13"
+      },
+      {
         "title": "[推荐] 服务调优经验总结",
         "link": "https://toutiao.io/k/av28tr1",
         "date": "2021-12-13"
       },
       {
-        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
-        "link": "https://toutiao.io/k/h7wj37b",
+        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
+        "link": "https://toutiao.io/k/004032c",
         "date": "2021-12-13"
       },
       {
@@ -8108,8 +8103,23 @@
         "date": "2021-12-13"
       },
       {
-        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
-        "link": "https://toutiao.io/k/004032c",
+        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
+        "link": "https://toutiao.io/k/h7wj37b",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
         "date": "2021-12-13"
       }
     ]

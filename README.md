@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 07:41:07，:rocket: 更新条数: +1575， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 07:54:25，:rocket: 更新条数: +1577， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-13-12月12日全国新增新冠101例-三省份本土80例](https://m.caixin.com/m/2021-12-13/101816934.html) ![](assets/new.png)  
+- [2021-12-13-【境内疫情观察】浙江新增74例本土病例（12月12日）](https://database.caixin.com/m/2021-12-13/101817065.html) ![](assets/new.png)  
 - [2021-12-13-WHO称大流行扰乱全球卫生服务-英国单日Omicron病例翻番｜大流行手记（-12月12日）](https://m.caixin.com/m/2021-12-13/101816947.html) ![](assets/new.png)  
 - [2021-12-12-聚焦｜张文宏：三针接种有益早日开放](https://opinion.caixin.com/m/2021-12-12/101816892.html) ![](assets/new.png)  
 - [2021-12-12-浙江一周累计确诊138例-与上海疫情为同一传播链](https://m.caixin.com/m/2021-12-12/101816876.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-09-57个国家报告Omicron感染者-韩国感染猛增｜大流行手记（12月8日）](https://m.caixin.com/m/2021-12-09/101815395.html) ![](assets/new.png)  
 - [2021-12-09-港大研发全球首个抗新冠病毒的不锈钢材](https://m.caixin.com/m/2021-12-09/101815811.html) ![](assets/new.png)  
 - [2021-12-09-辉瑞和BioNTech称3针mRNA疫苗可抵御Omicron变异株](https://m.caixin.com/m/2021-12-09/101815767.html) ![](assets/new.png)  
-- [2021-12-08-【境内疫情观察】全国新增44例本土病例（12月7日）](https://database.caixin.com/m/2021-12-08/101815122.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-13-语雀的开发者一定每个人都是-128G-内存](https://www.v2ex.com/t/821894) ![](assets/new.png)  
+- [2021-12-13-送兑换码iOS-手机读取-NFC-数据以及写入！-独立开发者送上](https://www.v2ex.com/t/821893) ![](assets/new.png)  
+- [2021-12-13-迫于新工作要买-mac，求助比较便宜的渠道](https://www.v2ex.com/t/821892) ![](assets/new.png)  
+- [2021-12-13-一周有一天没有合上-Move-的圆环，也能获取-Apple-Watch-的-Perfect-WeekMove勋章，是-bug-吗？](https://www.v2ex.com/t/821891) ![](assets/new.png)  
+- [2021-12-13-双十二促销活动-Microsoft-office-2019/2021-终身版低至-3-折，到手价只要-198，限时限量](https://www.v2ex.com/t/821888) ![](assets/new.png)  
 - [2021-12-13-16-寸-m1-的新-mbp-外放真不错，触控板都跟着律动起来了](https://www.v2ex.com/t/821886) ![](assets/new.png)  
 - [2021-12-13-求一款-Windows-平台的视频转码/压缩软件](https://www.v2ex.com/t/821885) ![](assets/new.png)  
 - [2021-12-13-LG-显示器选择](https://www.v2ex.com/t/821884) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-13-Github-上仓库由公开变为私有-pkg.go.dev-还能看到原来公开的内容嘛?](https://www.v2ex.com/t/821870) ![](assets/new.png)  
 - [2021-12-13-GitHub-开始支持为-star-过的仓库分类了](https://www.v2ex.com/t/821869) ![](assets/new.png)  
 - [2021-12-13-Web3.0，下一代互联网和元宇宙底层技术分享](https://www.v2ex.com/t/821868) ![](assets/new.png)  
-- [2021-12-13-有没有检测-docker-容器、虚拟机内-Java-程序-log4j-漏洞的工具？](https://www.v2ex.com/t/821865) ![](assets/new.png)  
-- [2021-12-13-关于-VLAN，-macvlan-mac-地址的一些疑问？](https://www.v2ex.com/t/821864) ![](assets/new.png)  
-- [2021-12-13-用-js-写应用的自动化辅助脚本,-有什么框架适合这种逻辑?](https://www.v2ex.com/t/821863) ![](assets/new.png)  
-- [2021-12-13-请教一下各位，如何通过纯色背景的-RGB-值，确定文字颜色的-RGB-值呢？](https://www.v2ex.com/t/821862) ![](assets/new.png)  
-- [2021-12-13-v2-的网页无法登陆？](https://www.v2ex.com/t/821861) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2021-12-13-深入剖析分布式事务一致性](https://toutiao.io/k/sewaxtv) ![](assets/new.png)  
 - [2021-12-13-Apache-Log4j-2-报高危漏洞，CODING-联手腾讯安全护卫软件安全](https://toutiao.io/k/mk63agd) ![](assets/new.png)  
 - [2021-12-13-突发！Apache-Log4j2-报核弹级漏洞](https://toutiao.io/k/evhvg1r) ![](assets/new.png)  
-- [2021-12-13-打印STRUCT中FIELD内存对齐的小工具](https://toutiao.io/k/lmrze77) ![](assets/new.png)  
 - [2021-12-13-如何收集-Go-的实时覆盖率](https://toutiao.io/k/w9070tb) ![](assets/new.png)  
+- [2021-12-13-打印STRUCT中FIELD内存对齐的小工具](https://toutiao.io/k/lmrze77) ![](assets/new.png)  
 - [2021-12-13-MySQL在并发场景下的问题及解决思路](https://toutiao.io/k/dr1ygmz) ![](assets/new.png)  
 - [2021-12-13-Git-+-Webhook-+-Node.js实现服务器自动化更新部署](https://toutiao.io/k/t3dx1h2) ![](assets/new.png)  
 - [2021-12-13-好未来数据中台-Node.js-BFF-实践（一）：基础篇](https://toutiao.io/k/am5dok8) ![](assets/new.png)  

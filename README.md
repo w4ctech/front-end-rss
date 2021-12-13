@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 06:26:46，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 06:46:50，:rocket: 更新条数: +1578， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-13-第一次做面试官](https://www.v2ex.com/t/821859) ![](assets/new.png)  
+- [2021-12-13-談談应届在一線城市的生活](https://www.v2ex.com/t/821856) ![](assets/new.png)  
 - [2021-12-13-广州有啥种牙靠谱的医院么](https://www.v2ex.com/t/821853) ![](assets/new.png)  
 - [2021-12-13-《横断,梅里,雨崩》--七天云南之旅的最佳选择](https://www.v2ex.com/t/821850) ![](assets/new.png)  
 - [2021-12-13-请教一个大量-API-数据的前端缓存方案](https://www.v2ex.com/t/821849) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-13-Typora-上传图片时路径中不能有-#-号。](https://www.v2ex.com/t/821832) ![](assets/new.png)  
 - [2021-12-13-关于大家讨论「现在的前端技术太恶心」，其实可以试试-esbuild](https://www.v2ex.com/t/821831) ![](assets/new.png)  
 - [2021-12-13-UsingAI-招聘开发工程师、算法研究员](https://www.v2ex.com/t/821829) ![](assets/new.png)  
-- [2021-12-13-Delete](https://www.v2ex.com/t/821828) ![](assets/new.png)  
-- [2021-12-13-红米-AC2100，考虑换-AC86U-或-XDR5430](https://www.v2ex.com/t/821827) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

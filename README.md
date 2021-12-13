@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 15:23:58，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 15:43:38，:rocket: 更新条数: +1577， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-13-多个-so-库混用不同-ndk-版本编译，-libc++共享库版本也不一致，为什么有的手机能正常运行有的会-crash?](https://www.v2ex.com/t/821990) ![](assets/new.png)  
+- [2021-12-13-Firefox-浏览器访问微软出现-OCSP-错误](https://www.v2ex.com/t/821989) ![](assets/new.png)  
+- [2021-12-13-VLOOK-13！标签、徽章、表格阅读模式强化，实用好用的-Markdown-主题包和增强插件](https://www.v2ex.com/t/821988) ![](assets/new.png)  
+- [2021-12-13-《OpenCV3-编程入门》的作者在腾讯科兴大厦跳楼](https://www.v2ex.com/t/821987) ![](assets/new.png)  
 - [2021-12-13-2021-年快结束了，分享下个人觉得今年看到的最好的回答。](https://www.v2ex.com/t/821984) ![](assets/new.png)  
 - [2021-12-13-高并发情况下如何保证金额加减的一致性](https://www.v2ex.com/t/821980) ![](assets/new.png)  
 - [2021-12-13-Beerus-上线啦，用-Go-开发的-web-解决方案](https://www.v2ex.com/t/821978) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-13-有在港澳台的同胞吗？求第一时间剧透虫-3](https://www.v2ex.com/t/821964) ![](assets/new.png)  
 - [2021-12-13-有没有前端开发的一些工具、技巧分享？经验类的](https://www.v2ex.com/t/821963) ![](assets/new.png)  
 - [2021-12-13-社招+内推｜字节跳动｜抖音电商｜前端后端算法测试｜-北上杭](https://www.v2ex.com/t/821962) ![](assets/new.png)  
-- [2021-12-13-应该如何使用-Go-舒服、优雅地开发-Web-项目？](https://www.v2ex.com/t/821961) ![](assets/new.png)  
-- [2021-12-13-oracle-jdk8-是不是没有-mac-m1-的版本](https://www.v2ex.com/t/821959) ![](assets/new.png)  
-- [2021-12-13-myip.la-的-api-跨域引用报错问题](https://www.v2ex.com/t/821958) ![](assets/new.png)  
-- [2021-12-13-求大佬进来看下网络拓扑图是否可行](https://www.v2ex.com/t/821956) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 10:57:54，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 11:11:24，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-13-最不想看到的代码](https://www.v2ex.com/t/821945) ![](assets/new.png)  
+- [2021-12-13-看完骁龙-8-Gen1-之后感觉我的-855-还能继续用](https://www.v2ex.com/t/821944) ![](assets/new.png)  
+- [2021-12-13-钉钉会议模式下-AirPods-Pro-有-bug？](https://www.v2ex.com/t/821943) ![](assets/new.png)  
+- [2021-12-13-MBP14-寸发货时间玄学规律](https://www.v2ex.com/t/821942) ![](assets/new.png)  
 - [2021-12-13-关于自建的-xcframework-使用时报-undefined-symbol-的问题](https://www.v2ex.com/t/821940) ![](assets/new.png)  
 - [2021-12-13-想撸一个甲骨文的免费主机,有没办法防止绑卡后扣费?](https://www.v2ex.com/t/821937) ![](assets/new.png)  
 - [2021-12-13-某米加湿器居然是这样看出代工厂](https://www.v2ex.com/t/821936) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-13-来个投票，多少人还在用自带输入法？？](https://www.v2ex.com/t/821922) ![](assets/new.png)  
 - [2021-12-13-人员分组问题](https://www.v2ex.com/t/821921) ![](assets/new.png)  
 - [2021-12-13-同时满足银行卡和支付宝微信支付，自己开发合适还是用第三方好？](https://www.v2ex.com/t/821920) ![](assets/new.png)  
-- [2021-12-13-AQS-的-enq-方法真难懂啊](https://www.v2ex.com/t/821919) ![](assets/new.png)  
-- [2021-12-13-是时候寻找-Java-的替代方案了](https://www.v2ex.com/t/821918) ![](assets/new.png)  
-- [2021-12-13-VR/AR-是否催生新一代的-Html-前端技术](https://www.v2ex.com/t/821917) ![](assets/new.png)  
-- [2021-12-13-mac-os-12.1，-mbp2021-16-寸，顶部菜单栏和软件菜单栏有几个像素的空隙。](https://www.v2ex.com/t/821916) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2021-12-13-这套神奇的个人信息管理系统，带我一步步进入互联网大厂](https://toutiao.io/k/zax0j3f) ![](assets/new.png)  
 - [2021-12-13-Spring-Native-0.11发布了，带来了新的AOT引擎！启动速度、内存占用率都有提升！](https://toutiao.io/k/p9tynhe) ![](assets/new.png)  
 - [2021-12-13-深入剖析分布式事务一致性](https://toutiao.io/k/sewaxtv) ![](assets/new.png)  
-- [2021-12-13-关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5) ![](assets/new.png)  
 - [2021-12-13-打印STRUCT中FIELD内存对齐的小工具](https://toutiao.io/k/lmrze77) ![](assets/new.png)  
+- [2021-12-13-关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5) ![](assets/new.png)  
 - [2021-12-13-兼容-tmux-的-rz-/-sz-小工具](https://toutiao.io/k/g007wom) ![](assets/new.png)  
 - [2021-12-13-Apache-Log4j-2-报高危漏洞，CODING-联手腾讯安全护卫软件安全](https://toutiao.io/k/mk63agd) ![](assets/new.png)  
 - [2021-12-13-纯Python实现Torch-API，康奈尔副教授为自己的课程创建了DIY教学库](https://toutiao.io/k/4crvycv) ![](assets/new.png)  

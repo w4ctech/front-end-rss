@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-13 09:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-13 09:26:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1464,6 +1464,7 @@
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [2021-12-13-同时满足银行卡和支付宝微信支付，自己开发合适还是用第三方好？](https://www.v2ex.com/t/821920) 
 - [2021-12-13-AQS-的-enq-方法真难懂啊](https://www.v2ex.com/t/821919) 
 - [2021-12-13-是时候寻找-Java-的替代方案了](https://www.v2ex.com/t/821918) 
 - [2021-12-13-VR/AR-是否催生新一代的-Html-前端技术](https://www.v2ex.com/t/821917) 
@@ -1526,14 +1527,14 @@
 - [2021-12-13-如何收集-Go-的实时覆盖率](https://toutiao.io/k/w9070tb) 
 - [2021-12-13-MySQL在并发场景下的问题及解决思路](https://toutiao.io/k/dr1ygmz) 
 - [2021-12-13-python|-第一部分：python核心（一）](https://toutiao.io/k/u3vai3b) 
+- [2021-12-13-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
+- [2021-12-13-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
+- [2021-12-13-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
+- [2021-12-13-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [2021-12-13-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-13-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) 
 - [2021-12-13-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
-- [2021-12-13-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
-- [2021-12-13-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
 - [2021-12-13-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
-- [2021-12-13-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [2021-12-13-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
 - [2021-12-13-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
-- [2021-12-13-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
 - [2021-12-13-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) 
 - [2021-12-13-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 09:14:07，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 09:26:06，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-13-同时满足银行卡和支付宝微信支付，自己开发合适还是用第三方好？](https://www.v2ex.com/t/821920) ![](assets/new.png)  
 - [2021-12-13-AQS-的-enq-方法真难懂啊](https://www.v2ex.com/t/821919) ![](assets/new.png)  
 - [2021-12-13-是时候寻找-Java-的替代方案了](https://www.v2ex.com/t/821918) ![](assets/new.png)  
 - [2021-12-13-VR/AR-是否催生新一代的-Html-前端技术](https://www.v2ex.com/t/821917) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-13-yoga16s-解锁卡屏，请问有遇到这个情况吗？](https://www.v2ex.com/t/821900) ![](assets/new.png)  
 - [2021-12-13-关于-log4j-的一种临时解决方案](https://www.v2ex.com/t/821897) ![](assets/new.png)  
 - [2021-12-13-坐标上海大虹桥，外资头部医疗诊断行业-Java-&-Vue,-全栈或分离的优秀前后端都欢迎来打扰，-Work-life-balance-可以躺平～](https://www.v2ex.com/t/821896) ![](assets/new.png)  
-- [2021-12-13-语雀的开发者一定每个人都是-128G-内存](https://www.v2ex.com/t/821894) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-13 09:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-13 09:26:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-13-同时满足银行卡和支付宝微信支付，自己开发合适还是用第三方好？](https://www.v2ex.com/t/821920) 
 - [2021-12-13-AQS-的-enq-方法真难懂啊](https://www.v2ex.com/t/821919) 
 - [2021-12-13-是时候寻找-Java-的替代方案了](https://www.v2ex.com/t/821918) 
 - [2021-12-13-VR/AR-是否催生新一代的-Html-前端技术](https://www.v2ex.com/t/821917) 
@@ -41,4 +42,3 @@
 - [2021-12-13-m1-有办法使用-ubuntu16-虚拟机吗？](https://www.v2ex.com/t/821874) 
 - [2021-12-13-请问-21-款-MacBook-不能强制开启-120HZ-吗？](https://www.v2ex.com/t/821873) 
 - [2021-12-13-问一个协程方面的问题](https://www.v2ex.com/t/821871) 
-- [2021-12-13-Github-上仓库由公开变为私有-pkg.go.dev-还能看到原来公开的内容嘛?](https://www.v2ex.com/t/821870) 

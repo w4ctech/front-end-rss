@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 01:09:06，:rocket: 更新条数: +1571， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 01:58:46，:rocket: 更新条数: +1568， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,8 @@
 </summary>
 
 
-- [2021-12-12-最新疫情：全国新冠累计确诊99679例-累计接种新冠疫苗超26.02亿剂次](https://m.caixin.com/m/2021-12-12/101816883.html) ![](assets/new.png)  
+- [2021-12-13-12月12日全国新增新冠101例-三省份本土80例](https://m.caixin.com/m/2021-12-13/101816934.html) ![](assets/new.png)  
+- [2021-12-13-WHO称大流行扰乱全球卫生服务-英国单日Omicron病例翻番｜大流行手记（-12月12日）](https://m.caixin.com/m/2021-12-13/101816947.html) ![](assets/new.png)  
 - [2021-12-12-聚焦｜张文宏：三针接种有益早日开放](https://opinion.caixin.com/m/2021-12-12/101816892.html) ![](assets/new.png)  
 - [2021-12-12-浙江一周累计确诊138例-与上海疫情为同一传播链](https://m.caixin.com/m/2021-12-12/101816876.html) ![](assets/new.png)  
 - [2021-12-12-最新海外疫情：新冠感染超2.69亿-累计接种新冠疫苗超83.65亿剂次](https://m.caixin.com/m/2021-12-12/101816880.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-09-港大研发全球首个抗新冠病毒的不锈钢材](https://m.caixin.com/m/2021-12-09/101815811.html) ![](assets/new.png)  
 - [2021-12-09-辉瑞和BioNTech称3针mRNA疫苗可抵御Omicron变异株](https://m.caixin.com/m/2021-12-09/101815767.html) ![](assets/new.png)  
 - [2021-12-08-【境内疫情观察】全国新增44例本土病例（12月7日）](https://database.caixin.com/m/2021-12-08/101815122.html) ![](assets/new.png)  
-- [2021-12-08-新毒株或降低疫苗保护能力，世卫叫停新冠血浆疗法｜大流行手记（12月7日）](https://m.caixin.com/m/2021-12-08/101814949.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,18 @@
 </summary>
 
 
+- [2021-12-13-大家家里用的砧板是什么材料的-买过好几个不是会发臭就是会掉木屑。。。](https://www.v2ex.com/t/821775) ![](assets/new.png)  
+- [2021-12-13-关于-HTTP-中编码一点疑问](https://www.v2ex.com/t/821774) ![](assets/new.png)  
+- [2021-12-13-Java-技术提升](https://www.v2ex.com/t/821772) ![](assets/new.png)  
+- [2021-12-13-领了一只小边牧回家，向大家征询一个名字。](https://www.v2ex.com/t/821771) ![](assets/new.png)  
+- [2021-12-13-深圳-朴朴超市-社招内推-朴朴科技社招-Java-、前端、产品等岗位](https://www.v2ex.com/t/821770) ![](assets/new.png)  
+- [2021-12-13-请问一下各位大佬们，-Chrome-中所有已保存的密码，有没有办法全部删除啊](https://www.v2ex.com/t/821769) ![](assets/new.png)  
+- [2021-12-13-现在前端技术真的太方便了](https://www.v2ex.com/t/821768) ![](assets/new.png)  
+- [2021-12-13-Apple-Music-用了两年了，想换-QQ-音乐了，最近有联合会员卖的吗？](https://www.v2ex.com/t/821767) ![](assets/new.png)  
+- [2021-12-13-自己开发一个-Typora-的-Markdown-编辑器靠谱吗？](https://www.v2ex.com/t/821766) ![](assets/new.png)  
+- [2021-12-13-怎么提高自身休养?](https://www.v2ex.com/t/821764) ![](assets/new.png)  
+- [2021-12-13-关于-Log4j2-的王炸，各位对不能升级版本的中间件都有什么修复的方法？](https://www.v2ex.com/t/821763) ![](assets/new.png)  
+- [2021-12-13-家人们,-1499-的飞天茅台现在能出多少钱](https://www.v2ex.com/t/821762) ![](assets/new.png)  
 - [2021-12-13-如何给一个-npm-package-生成-source-map-文件？](https://www.v2ex.com/t/821758) ![](assets/new.png)  
 - [2021-12-13-火币关了，还有哪个平台考虑可以法币？](https://www.v2ex.com/t/821757) ![](assets/new.png)  
 - [2021-12-13-长丰五期转租，一室一厅-1050](https://www.v2ex.com/t/821756) ![](assets/new.png)  
@@ -502,18 +514,6 @@
 - [2021-12-12-华为-H6-可以通过交换机组网吗？](https://www.v2ex.com/t/821753) ![](assets/new.png)  
 - [2021-12-12-mac-OS-10.15-难道是不能更换壁纸的吗？（启动界面）](https://www.v2ex.com/t/821751) ![](assets/new.png)  
 - [2021-12-12-大家写-ruby-on-rails-applications-的时候一般怎么写前端页面?](https://www.v2ex.com/t/821750) ![](assets/new.png)  
-- [2021-12-12-魁北克，如何零基础转行计算机？](https://www.v2ex.com/t/821749) ![](assets/new.png)  
-- [2021-12-12-有关-Android-的-HDR-视频播放](https://www.v2ex.com/t/821748) ![](assets/new.png)  
-- [2021-12-12-有没有什么软件能实现把屏幕上-A-区域的内容在-B-区域显示？](https://www.v2ex.com/t/821747) ![](assets/new.png)  
-- [2021-12-12-问大家一个比较偏的问题](https://www.v2ex.com/t/821746) ![](assets/new.png)  
-- [2021-12-12-你的生活方式是你自己选择的吗？](https://www.v2ex.com/t/821745) ![](assets/new.png)  
-- [2021-12-12-由-log4j2-漏洞爆发引发的疑问，为什么这么多框架要引入-log4j2，不应该是仅引入-slf4j-吗](https://www.v2ex.com/t/821744) ![](assets/new.png)  
-- [2021-12-12-macOS-在影音方面也不行啊](https://www.v2ex.com/t/821743) ![](assets/new.png)  
-- [2021-12-12-北京生活的各位在用什么宽带？（年经帖勿喷）](https://www.v2ex.com/t/821741) ![](assets/new.png)  
-- [2021-12-12-成都-Java-想转产品有公司收吗？](https://www.v2ex.com/t/821740) ![](assets/new.png)  
-- [2021-12-12-分享逃离大城市的一些想法](https://www.v2ex.com/t/821739) ![](assets/new.png)  
-- [2021-12-12-安装-c-lodop-打印控件后，-chrome-和-edge-提示由贵单位管理](https://www.v2ex.com/t/821738) ![](assets/new.png)  
-- [2021-12-12-太脆弱，破防了，怎么办](https://www.v2ex.com/t/821736) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,23 +559,23 @@
 - [2021-12-13-https引起的跨域问题-COE&casestudy](https://toutiao.io/k/bim4wzo) ![](assets/new.png)  
 - [2021-12-13-V2er----双端开源的V2EX客户端（SwiftUI+RXJava）](https://toutiao.io/k/59ctye1) ![](assets/new.png)  
 - [2021-12-13-网易严选实时计算平台建设实践](https://toutiao.io/k/67cbep8) ![](assets/new.png)  
-- [2021-12-13-兼容-tmux-的-rz-/-sz-小工具](https://toutiao.io/k/g007wom) ![](assets/new.png)  
-- [2021-12-13-这套神奇的个人信息管理系统，带我一步步进入互联网大厂](https://toutiao.io/k/zax0j3f) ![](assets/new.png)  
 - [2021-12-13-如何把Python应用构建为Docker容器](https://toutiao.io/k/ybi7p4m) ![](assets/new.png)  
+- [2021-12-13-这套神奇的个人信息管理系统，带我一步步进入互联网大厂](https://toutiao.io/k/zax0j3f) ![](assets/new.png)  
+- [2021-12-13-兼容-tmux-的-rz-/-sz-小工具](https://toutiao.io/k/g007wom) ![](assets/new.png)  
 - [2021-12-13-Spring-Native-0.11发布了，带来了新的AOT引擎！启动速度、内存占用率都有提升！](https://toutiao.io/k/p9tynhe) ![](assets/new.png)  
-- [2021-12-13-纯Python实现Torch-API，康奈尔副教授为自己的课程创建了DIY教学库](https://toutiao.io/k/4crvycv) ![](assets/new.png)  
 - [2021-12-13-CompletableFuture：让你的代码免受阻塞之苦](https://toutiao.io/k/141ukrd) ![](assets/new.png)  
+- [2021-12-13-纯Python实现Torch-API，康奈尔副教授为自己的课程创建了DIY教学库](https://toutiao.io/k/4crvycv) ![](assets/new.png)  
 - [2021-12-13-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
-- [2021-12-13-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-13-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
-- [2021-12-13-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
-- [2021-12-13-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
-- [2021-12-13-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-13-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
-- [2021-12-13-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-13-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
-- [2021-12-13-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
 - [2021-12-13-推荐-我说-2w-字可以入门-ES，非但不信还打我](https://toutiao.io/k/004032c) ![](assets/new.png)  
+- [2021-12-13-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
+- [2021-12-13-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-13-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
+- [2021-12-13-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-13-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-13-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
+- [2021-12-13-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-13-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
+- [2021-12-13-推荐-从头带你撸一个-Spring-Boot-Starter](https://toutiao.io/k/h7wj37b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

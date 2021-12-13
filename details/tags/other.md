@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-13 18:47:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-13 19:11:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1466,6 +1466,8 @@
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [2021-12-13-单冒号和双冒号区分伪类和伪元素的写法规范是不是已经没意义了](https://www.v2ex.com/t/822004) 
+- [2021-12-13-macOS-Monterey-12.1-正式版更新了](https://www.v2ex.com/t/822003) 
 - [2021-12-13-所以-Nio-为什么快？](https://www.v2ex.com/t/822002) 
 - [2021-12-13-搞了个小软件，像-iPhone-的屏幕使用时间一样在-Windows-上记录电脑程序使用时长](https://www.v2ex.com/t/822001) 
 - [2021-12-13-请问-win-系统有没有类似-Mac-上虚拟机的程序？](https://www.v2ex.com/t/821999) 
@@ -1521,12 +1523,12 @@
 - [2021-12-13-MySQL在并发场景下的问题及解决思路](https://toutiao.io/k/dr1ygmz) 
 - [2021-12-13-突发！Apache-Log4j2-报核弹级漏洞](https://toutiao.io/k/evhvg1r) 
 - [2021-12-13-python|-第一部分：python核心（一）](https://toutiao.io/k/u3vai3b) 
+- [2021-12-13-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
+- [2021-12-13-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [2021-12-13-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [2021-12-13-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [2021-12-13-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
+- [2021-12-13-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
 - [2021-12-13-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
 - [2021-12-13-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
-- [2021-12-13-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
-- [2021-12-13-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
-- [2021-12-13-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [2021-12-13-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
-- [2021-12-13-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [2021-12-13-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 

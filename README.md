@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 09:26:06，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 09:41:10，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,14 +494,18 @@
 </summary>
 
 
+- [2021-12-13-Chrome-Mac-版的开发者工具里的字体是-Lucida-Grande-吗？](https://www.v2ex.com/t/821926) ![](assets/new.png)  
+- [2021-12-13-转租宝安翻身附近公寓房，租期还剩半年，房租-3180，近地铁站，周边交通方便](https://www.v2ex.com/t/821925) ![](assets/new.png)  
+- [2021-12-13-有什么工具能把声波图形转换成有意义的文字或声音吗？](https://www.v2ex.com/t/821924) ![](assets/new.png)  
+- [2021-12-13-各位开发同仁们，-有人真心觉得-HR-部门组织的培训有意义吗？](https://www.v2ex.com/t/821923) ![](assets/new.png)  
+- [2021-12-13-来个投票，多少人还在用自带输入法？？](https://www.v2ex.com/t/821922) ![](assets/new.png)  
+- [2021-12-13-人员分组问题](https://www.v2ex.com/t/821921) ![](assets/new.png)  
 - [2021-12-13-同时满足银行卡和支付宝微信支付，自己开发合适还是用第三方好？](https://www.v2ex.com/t/821920) ![](assets/new.png)  
 - [2021-12-13-AQS-的-enq-方法真难懂啊](https://www.v2ex.com/t/821919) ![](assets/new.png)  
 - [2021-12-13-是时候寻找-Java-的替代方案了](https://www.v2ex.com/t/821918) ![](assets/new.png)  
 - [2021-12-13-VR/AR-是否催生新一代的-Html-前端技术](https://www.v2ex.com/t/821917) ![](assets/new.png)  
 - [2021-12-13-mac-os-12.1，-mbp2021-16-寸，顶部菜单栏和软件菜单栏有几个像素的空隙。](https://www.v2ex.com/t/821916) ![](assets/new.png)  
-- [2021-12-13-劳动法不保障打工人用工环境的吗？](https://www.v2ex.com/t/821913) ![](assets/new.png)  
 - [2021-12-13-免费但不开源的旺石-NAS-网盘管理系统更新：-Build3702-重设计-OnceOA-流程设计器，并集成-OnceGrid-类-Excel-报表工具](https://www.v2ex.com/t/821912) ![](assets/new.png)  
-- [2021-12-13-教育部：#暂时下线拍照搜题的作业-App#](https://www.v2ex.com/t/821911) ![](assets/new.png)  
 - [2021-12-13-上海-动视暴雪招聘-C/C++软件开发工程师，内推成功，奖金平分](https://www.v2ex.com/t/821910) ![](assets/new.png)  
 - [2021-12-13-北京-急招-golang-开发工程师招聘-20-40K](https://www.v2ex.com/t/821909) ![](assets/new.png)  
 - [2021-12-13-想不通，对别人买车指指点点的到底是什么心态？](https://www.v2ex.com/t/821908) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-13-生成二位码后导出到-execl-缓慢，大佬有什么解决方法](https://www.v2ex.com/t/821904) ![](assets/new.png)  
 - [2021-12-13-几点睡觉才算是不熬夜，早点休息呢？](https://www.v2ex.com/t/821903) ![](assets/new.png)  
 - [2021-12-13-Base-北京-花生熊工作室，我们在做独立游戏，欢迎志同道合的朋友加入](https://www.v2ex.com/t/821902) ![](assets/new.png)  
-- [2021-12-13-第一次入职遇到能选指定型号的公司，该选-pro16-寸的-intel-还是-pro13-的-m1/i5-呢？](https://www.v2ex.com/t/821901) ![](assets/new.png)  
-- [2021-12-13-yoga16s-解锁卡屏，请问有遇到这个情况吗？](https://www.v2ex.com/t/821900) ![](assets/new.png)  
-- [2021-12-13-关于-log4j-的一种临时解决方案](https://www.v2ex.com/t/821897) ![](assets/new.png)  
-- [2021-12-13-坐标上海大虹桥，外资头部医疗诊断行业-Java-&-Vue,-全栈或分离的优秀前后端都欢迎来打扰，-Work-life-balance-可以躺平～](https://www.v2ex.com/t/821896) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,8 +566,8 @@
 - [2021-12-13-深入剖析分布式事务一致性](https://toutiao.io/k/sewaxtv) ![](assets/new.png)  
 - [2021-12-13-关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5) ![](assets/new.png)  
 - [2021-12-13-兼容-tmux-的-rz-/-sz-小工具](https://toutiao.io/k/g007wom) ![](assets/new.png)  
-- [2021-12-13-纯Python实现Torch-API，康奈尔副教授为自己的课程创建了DIY教学库](https://toutiao.io/k/4crvycv) ![](assets/new.png)  
 - [2021-12-13-打印STRUCT中FIELD内存对齐的小工具](https://toutiao.io/k/lmrze77) ![](assets/new.png)  
+- [2021-12-13-纯Python实现Torch-API，康奈尔副教授为自己的课程创建了DIY教学库](https://toutiao.io/k/4crvycv) ![](assets/new.png)  
 - [2021-12-13-Apache-Log4j-2-报高危漏洞，CODING-联手腾讯安全护卫软件安全](https://toutiao.io/k/mk63agd) ![](assets/new.png)  
 - [2021-12-13-突发！Apache-Log4j2-报核弹级漏洞](https://toutiao.io/k/evhvg1r) ![](assets/new.png)  
 - [2021-12-13-如何收集-Go-的实时覆盖率](https://toutiao.io/k/w9070tb) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 19:18:21，:rocket: 更新条数: +1578， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 19:36:04，:rocket: 更新条数: +1578， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -574,8 +574,8 @@
 - [2021-12-13-MySQL在并发场景下的问题及解决思路](https://toutiao.io/k/dr1ygmz) ![](assets/new.png)  
 - [2021-12-13-突发！Apache-Log4j2-报核弹级漏洞](https://toutiao.io/k/evhvg1r) ![](assets/new.png)  
 - [2021-12-13-好未来数据中台-Node.js-BFF-实践（一）：基础篇](https://toutiao.io/k/am5dok8) ![](assets/new.png)  
-- [2021-12-13-python|-第一部分：python核心（一）](https://toutiao.io/k/u3vai3b) ![](assets/new.png)  
 - [2021-12-13-Web-性能优化：控制关键请求的优先级](https://toutiao.io/k/60k6uks) ![](assets/new.png)  
+- [2021-12-13-python|-第一部分：python核心（一）](https://toutiao.io/k/u3vai3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

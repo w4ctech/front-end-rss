@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-13 21:19:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-13 21:38:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-13-全职或兼职智能合约程序员。远程工作。时间灵活](https://www.v2ex.com/t/822009) 
 - [2021-12-13-远程工作-华尔街创业公司诚聘区块链相关职位-销售经理/运营经理/中文编辑）](https://www.v2ex.com/t/822008) 
 - [2021-12-13-GpgFrontend-v2.0.2-发布-继续保护你的隐私-然后准备上架一些应用市场了](https://www.v2ex.com/t/822006) 
 - [2021-12-13-macOS-Monterey-12.1-发布，-Universal-Control-被延期到“this-spring”](https://www.v2ex.com/t/822005) 
@@ -38,4 +39,3 @@
 - [2021-12-13-有没有前端开发的一些工具、技巧分享？经验类的](https://www.v2ex.com/t/821963) 
 - [2021-12-13-社招+内推｜字节跳动｜抖音电商｜前端后端算法测试｜-北上杭](https://www.v2ex.com/t/821962) 
 - [2021-12-13-应该如何使用-Go-舒服、优雅地开发-Web-项目？](https://www.v2ex.com/t/821961) 
-- [2021-12-13-oracle-jdk8-是不是没有-mac-m1-的版本](https://www.v2ex.com/t/821959) 

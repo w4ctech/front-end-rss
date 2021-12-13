@@ -7669,6 +7669,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "16 寸 m1 的新 mbp 外放真不错，触控板都跟着律动起来了",
+        "link": "https://www.v2ex.com/t/821886",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "求一款 Windows 平台的视频转码/压缩软件",
+        "link": "https://www.v2ex.com/t/821885",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "LG 显示器选择",
+        "link": "https://www.v2ex.com/t/821884",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "现在适合装机吗？求一个装机方案",
+        "link": "https://www.v2ex.com/t/821883",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "深圳建市以来最严重干旱",
+        "link": "https://www.v2ex.com/t/821882",
+        "date": "2021-12-13"
+      },
+      {
         "title": "一学编程我就犯困，看小说能看到凌晨还倍儿精神，是不是没救了？",
         "link": "https://www.v2ex.com/t/821881",
         "date": "2021-12-13"
@@ -7806,36 +7831,6 @@
       {
         "title": "程序员容易久坐，对身体不好。最近咸鱼淘了台照相机，周六日放下电脑出去走走，不仅心情好了，身体也好了。想建一个摄影群，和大家一起交流拍照技术，不限性别年...",
         "link": "https://www.v2ex.com/t/821840",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "不知所措！想选一门编程语言来学",
-        "link": "https://www.v2ex.com/t/821837",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "iOS 和 Mac 端日历不同步",
-        "link": "https://www.v2ex.com/t/821836",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "Finder 侧边栏图标错误，这是 BUG 还是新的 Apple's Feature？",
-        "link": "https://www.v2ex.com/t/821835",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "年底了,总结一下自己的挖矿历程 (不知道有没有违规)",
-        "link": "https://www.v2ex.com/t/821834",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "分享一个开发备忘单",
-        "link": "https://www.v2ex.com/t/821833",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "Typora 上传图片时路径中不能有 # 号。",
-        "link": "https://www.v2ex.com/t/821832",
         "date": "2021-12-13"
       }
     ]
@@ -7993,18 +7988,18 @@
         "date": "2021-12-13"
       },
       {
-        "title": "纯Python实现Torch API，康奈尔副教授为自己的课程创建了DIY教学库",
-        "link": "https://toutiao.io/k/4crvycv",
-        "date": "2021-12-13"
-      },
-      {
         "title": "关于 Log4j 高危漏洞，有必要优先关注 Elastic 官方的综合研判......",
         "link": "https://toutiao.io/k/rl2fax5",
         "date": "2021-12-13"
       },
       {
-        "title": "突发！Apache Log4j2 报核弹级漏洞",
-        "link": "https://toutiao.io/k/evhvg1r",
+        "title": "纯Python实现Torch API，康奈尔副教授为自己的课程创建了DIY教学库",
+        "link": "https://toutiao.io/k/4crvycv",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "深入剖析分布式事务一致性",
+        "link": "https://toutiao.io/k/sewaxtv",
         "date": "2021-12-13"
       },
       {
@@ -8013,8 +8008,8 @@
         "date": "2021-12-13"
       },
       {
-        "title": "深入剖析分布式事务一致性",
-        "link": "https://toutiao.io/k/sewaxtv",
+        "title": "突发！Apache Log4j2 报核弹级漏洞",
+        "link": "https://toutiao.io/k/evhvg1r",
         "date": "2021-12-13"
       },
       {
@@ -8053,48 +8048,8 @@
         "date": "2021-12-13"
       },
       {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
-        "link": "https://toutiao.io/k/h7wj37b",
-        "date": "2021-12-13"
-      },
-      {
         "title": "[推荐] 程序员的 10 个好习惯",
         "link": "https://toutiao.io/k/2y6pnqa",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
-        "link": "https://toutiao.io/k/96zw0k6",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
-        "link": "https://toutiao.io/k/004032c",
         "date": "2021-12-13"
       },
       {
@@ -8103,8 +8058,8 @@
         "date": "2021-12-13"
       },
       {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
         "date": "2021-12-13"
       },
       {
@@ -8113,8 +8068,48 @@
         "date": "2021-12-13"
       },
       {
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
+        "date": "2021-12-13"
+      },
+      {
         "title": "[推荐] 京东秒杀架构升级优化实践",
         "link": "https://toutiao.io/k/4cxy94p",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
+        "link": "https://toutiao.io/k/96zw0k6",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "[推荐] 从头带你撸一个 Spring Boot Starter",
+        "link": "https://toutiao.io/k/h7wj37b",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
+        "date": "2021-12-13"
+      },
+      {
+        "title": "[推荐] 我说 2w 字可以入门 ES，非但不信还打我",
+        "link": "https://toutiao.io/k/004032c",
         "date": "2021-12-13"
       }
     ]

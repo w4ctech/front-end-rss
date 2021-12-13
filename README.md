@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 07:21:30，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 07:38:15，:rocket: 更新条数: +1575， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-13-16-寸-m1-的新-mbp-外放真不错，触控板都跟着律动起来了](https://www.v2ex.com/t/821886) ![](assets/new.png)  
+- [2021-12-13-求一款-Windows-平台的视频转码/压缩软件](https://www.v2ex.com/t/821885) ![](assets/new.png)  
+- [2021-12-13-LG-显示器选择](https://www.v2ex.com/t/821884) ![](assets/new.png)  
+- [2021-12-13-现在适合装机吗？求一个装机方案](https://www.v2ex.com/t/821883) ![](assets/new.png)  
+- [2021-12-13-深圳建市以来最严重干旱](https://www.v2ex.com/t/821882) ![](assets/new.png)  
 - [2021-12-13-一学编程我就犯困，看小说能看到凌晨还倍儿精神，是不是没救了？](https://www.v2ex.com/t/821881) ![](assets/new.png)  
 - [2021-12-13-求问-C++一个问题](https://www.v2ex.com/t/821880) ![](assets/new.png)  
 - [2021-12-13-有人看了最新出的韩剧《某一天》吗？](https://www.v2ex.com/t/821877) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-13-用-js-写应用的自动化辅助脚本,-有什么框架适合这种逻辑?](https://www.v2ex.com/t/821863) ![](assets/new.png)  
 - [2021-12-13-请教一下各位，如何通过纯色背景的-RGB-值，确定文字颜色的-RGB-值呢？](https://www.v2ex.com/t/821862) ![](assets/new.png)  
 - [2021-12-13-v2-的网页无法登陆？](https://www.v2ex.com/t/821861) ![](assets/new.png)  
-- [2021-12-13-北土城安贞-安贞西里-三居南向次卧转租-无中介费-交通方便](https://www.v2ex.com/t/821860) ![](assets/new.png)  
-- [2021-12-13-第一次做面试官](https://www.v2ex.com/t/821859) ![](assets/new.png)  
-- [2021-12-13-談談应届在一線城市的生活](https://www.v2ex.com/t/821856) ![](assets/new.png)  
-- [2021-12-13-广州有啥种牙靠谱的医院么](https://www.v2ex.com/t/821853) ![](assets/new.png)  
-- [2021-12-13-《横断,梅里,雨崩》--七天云南之旅的最佳选择](https://www.v2ex.com/t/821850) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,11 +564,11 @@
 - [2021-12-13-这套神奇的个人信息管理系统，带我一步步进入互联网大厂](https://toutiao.io/k/zax0j3f) ![](assets/new.png)  
 - [2021-12-13-Spring-Native-0.11发布了，带来了新的AOT引擎！启动速度、内存占用率都有提升！](https://toutiao.io/k/p9tynhe) ![](assets/new.png)  
 - [2021-12-13-兼容-tmux-的-rz-/-sz-小工具](https://toutiao.io/k/g007wom) ![](assets/new.png)  
-- [2021-12-13-纯Python实现Torch-API，康奈尔副教授为自己的课程创建了DIY教学库](https://toutiao.io/k/4crvycv) ![](assets/new.png)  
 - [2021-12-13-关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5) ![](assets/new.png)  
-- [2021-12-13-突发！Apache-Log4j2-报核弹级漏洞](https://toutiao.io/k/evhvg1r) ![](assets/new.png)  
-- [2021-12-13-Apache-Log4j-2-报高危漏洞，CODING-联手腾讯安全护卫软件安全](https://toutiao.io/k/mk63agd) ![](assets/new.png)  
+- [2021-12-13-纯Python实现Torch-API，康奈尔副教授为自己的课程创建了DIY教学库](https://toutiao.io/k/4crvycv) ![](assets/new.png)  
 - [2021-12-13-深入剖析分布式事务一致性](https://toutiao.io/k/sewaxtv) ![](assets/new.png)  
+- [2021-12-13-Apache-Log4j-2-报高危漏洞，CODING-联手腾讯安全护卫软件安全](https://toutiao.io/k/mk63agd) ![](assets/new.png)  
+- [2021-12-13-突发！Apache-Log4j2-报核弹级漏洞](https://toutiao.io/k/evhvg1r) ![](assets/new.png)  
 - [2021-12-13-打印STRUCT中FIELD内存对齐的小工具](https://toutiao.io/k/lmrze77) ![](assets/new.png)  
 - [2021-12-13-如何收集-Go-的实时覆盖率](https://toutiao.io/k/w9070tb) ![](assets/new.png)  
 - [2021-12-13-MySQL在并发场景下的问题及解决思路](https://toutiao.io/k/dr1ygmz) ![](assets/new.png)  

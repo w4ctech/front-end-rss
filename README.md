@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 14:12:28，:rocket: 更新条数: +1577， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 14:20:51，:rocket: 更新条数: +1577， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,7 @@
 
 
 - [2021-12-13-12月12日全国新增新冠101例-三省份本土80例](https://m.caixin.com/m/2021-12-13/101816934.html) ![](assets/new.png)  
-- [2021-12-13-浙江宁绍杭八日累计新冠近200例-三地将严控出行至明年3月](https://m.caixin.com/m/2021-12-13/101817234.html) ![](assets/new.png)  
+- [2021-12-13-浙江杭绍甬八日累计新冠近200例-三地将严控出行至明年3月](https://m.caixin.com/m/2021-12-13/101817234.html) ![](assets/new.png)  
 - [2021-12-13-天津从入境人员中检出奥密克戎变异株](https://china.caixin.com/m/2021-12-13/101817231.html) ![](assets/new.png)  
 - [2021-12-13-【境内疫情观察】浙江新增74例本土病例（12月12日）](https://database.caixin.com/m/2021-12-13/101817065.html) ![](assets/new.png)  
 - [2021-12-13-WHO称大流行扰乱全球卫生服务-英国单日Omicron病例翻番｜大流行手记（-12月12日）](https://m.caixin.com/m/2021-12-13/101816947.html) ![](assets/new.png)  
@@ -569,8 +569,8 @@
 - [2021-12-13-关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5) ![](assets/new.png)  
 - [2021-12-13-兼容-tmux-的-rz-/-sz-小工具](https://toutiao.io/k/g007wom) ![](assets/new.png)  
 - [2021-12-13-Apache-Log4j-2-报高危漏洞，CODING-联手腾讯安全护卫软件安全](https://toutiao.io/k/mk63agd) ![](assets/new.png)  
-- [2021-12-13-纯Python实现Torch-API，康奈尔副教授为自己的课程创建了DIY教学库](https://toutiao.io/k/4crvycv) ![](assets/new.png)  
 - [2021-12-13-Git-+-Webhook-+-Node.js实现服务器自动化更新部署](https://toutiao.io/k/t3dx1h2) ![](assets/new.png)  
+- [2021-12-13-纯Python实现Torch-API，康奈尔副教授为自己的课程创建了DIY教学库](https://toutiao.io/k/4crvycv) ![](assets/new.png)  
 - [2021-12-13-突发！Apache-Log4j2-报核弹级漏洞](https://toutiao.io/k/evhvg1r) ![](assets/new.png)  
 - [2021-12-13-MySQL在并发场景下的问题及解决思路](https://toutiao.io/k/dr1ygmz) ![](assets/new.png)  
 - [2021-12-13-好未来数据中台-Node.js-BFF-实践（一）：基础篇](https://toutiao.io/k/am5dok8) ![](assets/new.png)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-13 03:45:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-13 03:57:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -294,6 +294,7 @@
 
 
 
+- [【V2EX】UsingAI-招聘开发工程师、算法研究员](https://www.v2ex.com/t/821829)
 - [【V2EX】育碧上海---漕河泾-招聘-Python-后端开发工程师，全栈开发工程师](https://www.v2ex.com/t/821786)
 - [【开发者头条】关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

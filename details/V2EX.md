@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-12-13 03:45:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-13 03:57:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-13-UsingAI-招聘开发工程师、算法研究员](https://www.v2ex.com/t/821829) 
+- [2021-12-13-红米-AC2100，考虑换-AC86U-或-XDR5430](https://www.v2ex.com/t/821827) 
+- [2021-12-13-团队奖金，如何看待领导要求培训或者聚餐形式消费掉？](https://www.v2ex.com/t/821826) 
 - [2021-12-13-北京---Amazon-Web-Service-AWS-招聘研发工程师](https://www.v2ex.com/t/821825) 
 - [2021-12-13-MySQL-商品表-90-个字段有必要拆分么](https://www.v2ex.com/t/821824) 
 - [2021-12-13-虽然最近没什么时间，但还是尝试推一下吧，不知不觉，也已经-250-star-了](https://www.v2ex.com/t/821823) 
@@ -45,4 +48,3 @@
 - [2021-12-13-CODING-与悬镜安全达成战略合作，引领-DevOps-向-DevSecOps-创新模式升级](https://www.v2ex.com/t/821783) 
 - [2021-12-13-推荐大家使用-Flutter-一大原因--安全性](https://www.v2ex.com/t/821782) 
 - [2021-12-13-关于-MySQL-建表主键用自增还是-uuid-的问题](https://www.v2ex.com/t/821780) 
-- [2021-12-13-想请教一下各位大佬，一个会话的默认持续时间（不活动断开连接）是多少？](https://www.v2ex.com/t/821779) 

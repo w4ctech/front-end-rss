@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 15:13:36，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 15:23:58，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -562,8 +562,8 @@
 - [2021-12-13-如何把Python应用构建为Docker容器](https://toutiao.io/k/ybi7p4m) ![](assets/new.png)  
 - [2021-12-13-深入剖析分布式事务一致性](https://toutiao.io/k/sewaxtv) ![](assets/new.png)  
 - [2021-12-13-V2er----双端开源的V2EX客户端（SwiftUI+RXJava）](https://toutiao.io/k/59ctye1) ![](assets/new.png)  
-- [2021-12-13-这套神奇的个人信息管理系统，带我一步步进入互联网大厂](https://toutiao.io/k/zax0j3f) ![](assets/new.png)  
 - [2021-12-13-打印STRUCT中FIELD内存对齐的小工具](https://toutiao.io/k/lmrze77) ![](assets/new.png)  
+- [2021-12-13-这套神奇的个人信息管理系统，带我一步步进入互联网大厂](https://toutiao.io/k/zax0j3f) ![](assets/new.png)  
 - [2021-12-13-Spring-Native-0.11发布了，带来了新的AOT引擎！启动速度、内存占用率都有提升！](https://toutiao.io/k/p9tynhe) ![](assets/new.png)  
 - [2021-12-13-如何收集-Go-的实时覆盖率](https://toutiao.io/k/w9070tb) ![](assets/new.png)  
 - [2021-12-13-关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5) ![](assets/new.png)  
@@ -574,8 +574,8 @@
 - [2021-12-13-MySQL在并发场景下的问题及解决思路](https://toutiao.io/k/dr1ygmz) ![](assets/new.png)  
 - [2021-12-13-突发！Apache-Log4j2-报核弹级漏洞](https://toutiao.io/k/evhvg1r) ![](assets/new.png)  
 - [2021-12-13-好未来数据中台-Node.js-BFF-实践（一）：基础篇](https://toutiao.io/k/am5dok8) ![](assets/new.png)  
-- [2021-12-13-Web-性能优化：控制关键请求的优先级](https://toutiao.io/k/60k6uks) ![](assets/new.png)  
 - [2021-12-13-python|-第一部分：python核心（一）](https://toutiao.io/k/u3vai3b) ![](assets/new.png)  
+- [2021-12-13-Web-性能优化：控制关键请求的优先级](https://toutiao.io/k/60k6uks) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

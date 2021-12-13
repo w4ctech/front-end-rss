@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 23:42:55，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 23:55:01，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-13-前端好-vs-前端恶心，-目前票数是-2-:-1](https://www.v2ex.com/t/822013) ![](assets/new.png)  
 - [2021-12-13-国行-ECG-上线了](https://www.v2ex.com/t/822012) ![](assets/new.png)  
 - [2021-12-13-请教如何实现一个防-bot-注册的站点注册-API](https://www.v2ex.com/t/822011) ![](assets/new.png)  
 - [2021-12-13-鉴于-netgear-自带的-noip-近段时间-ddns-抽风，打算换成-dynu.net,不知福这个如何？](https://www.v2ex.com/t/822010) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-13-多个-so-库混用不同-ndk-版本编译，-libc++共享库版本也不一致，为什么有的手机能正常运行有的会-crash?](https://www.v2ex.com/t/821990) ![](assets/new.png)  
 - [2021-12-13-Firefox-浏览器访问微软出现-OCSP-错误](https://www.v2ex.com/t/821989) ![](assets/new.png)  
 - [2021-12-13-VLOOK-13！标签、徽章、表格阅读模式强化，实用好用的-Markdown-主题包和增强插件](https://www.v2ex.com/t/821988) ![](assets/new.png)  
-- [2021-12-13-《OpenCV3-编程入门》的作者在腾讯科兴大厦跳楼](https://www.v2ex.com/t/821987) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

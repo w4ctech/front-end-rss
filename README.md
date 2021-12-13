@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-13 21:54:26，:rocket: 更新条数: +1578， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-13 22:10:40，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-13-鉴于-netgear-自带的-noip-近段时间-ddns-抽风，打算换成-dynu.net,不知福这个如何？](https://www.v2ex.com/t/822010) ![](assets/new.png)  
 - [2021-12-13-全职或兼职智能合约程序员。远程工作。时间灵活](https://www.v2ex.com/t/822009) ![](assets/new.png)  
 - [2021-12-13-远程工作-华尔街创业公司诚聘区块链相关职位-销售经理/运营经理/中文编辑）](https://www.v2ex.com/t/822008) ![](assets/new.png)  
 - [2021-12-13-GpgFrontend-v2.0.2-发布-继续保护你的隐私-然后准备上架一些应用市场了](https://www.v2ex.com/t/822006) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-13-《OpenCV3-编程入门》的作者在腾讯科兴大厦跳楼](https://www.v2ex.com/t/821987) ![](assets/new.png)  
 - [2021-12-13-2021-年快结束了，分享下个人觉得今年看到的最好的回答。](https://www.v2ex.com/t/821984) ![](assets/new.png)  
 - [2021-12-13-高并发情况下如何保证金额加减的一致性](https://www.v2ex.com/t/821980) ![](assets/new.png)  
-- [2021-12-13-Beerus-上线啦，用-Go-开发的-web-解决方案](https://www.v2ex.com/t/821978) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

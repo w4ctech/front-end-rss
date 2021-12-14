@@ -7709,6 +7709,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Snakeware",
+        "link": "https://www.v2ex.com/t/822267",
+        "date": "2021-12-14"
+      },
+      {
         "title": "京东上卖的月租 5 元手机卡，在线下实体店为什么买不到呢？",
         "link": "https://www.v2ex.com/t/822266",
         "date": "2021-12-14"
@@ -7882,11 +7887,6 @@
         "title": "程序员考公上岸的来讲一下感受",
         "link": "https://www.v2ex.com/t/822220",
         "date": "2021-12-14"
-      },
-      {
-        "title": "有喜欢韦斯·安德森的吗？对称狂魔新作来了",
-        "link": "https://www.v2ex.com/t/822217",
-        "date": "2021-12-14"
       }
     ]
   },
@@ -8058,13 +8058,13 @@
         "date": "2021-12-14"
       },
       {
-        "title": "HDFS 在 HA 模式集群下 JournalNode 节点的作用",
-        "link": "https://toutiao.io/k/tnpzzn3",
+        "title": "lyft 的线下开发环境秘籍",
+        "link": "https://toutiao.io/k/iucimzu",
         "date": "2021-12-14"
       },
       {
-        "title": "lyft 的线下开发环境秘籍",
-        "link": "https://toutiao.io/k/iucimzu",
+        "title": "HDFS 在 HA 模式集群下 JournalNode 节点的作用",
+        "link": "https://toutiao.io/k/tnpzzn3",
         "date": "2021-12-14"
       },
       {
@@ -8103,43 +8103,8 @@
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 京东秒杀架构升级优化实践",
-        "link": "https://toutiao.io/k/4cxy94p",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
-        "link": "https://toutiao.io/k/96zw0k6",
-        "date": "2021-12-14"
-      },
-      {
         "title": "[推荐] 服务 API 版本控制设计与实践",
         "link": "https://toutiao.io/k/puc84fn",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
         "date": "2021-12-14"
       },
       {
@@ -8148,8 +8113,43 @@
         "date": "2021-12-14"
       },
       {
+        "title": "[推荐] 京东秒杀架构升级优化实践",
+        "link": "https://toutiao.io/k/4cxy94p",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
+        "date": "2021-12-14"
+      },
+      {
         "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
         "link": "https://toutiao.io/k/ksd0hqy",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
+        "link": "https://toutiao.io/k/96zw0k6",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
         "date": "2021-12-14"
       },
       {

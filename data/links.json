@@ -7694,6 +7694,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "两台 macbook，如何快速将一台旧 mbp 应用文件复装到新 mbp 上？",
+        "link": "https://www.v2ex.com/t/822104",
+        "date": "2021-12-14"
+      },
+      {
         "title": "请问有简洁的 GitHub 博客主题分享吗？",
         "link": "https://www.v2ex.com/t/822102",
         "date": "2021-12-14"
@@ -7857,21 +7862,6 @@
         "title": "大家新增数字遗产了吗？",
         "link": "https://www.v2ex.com/t/822058",
         "date": "2021-12-14"
-      },
-      {
-        "title": "更新后设置好的网络没有了",
-        "link": "https://www.v2ex.com/t/822055",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "请问 Linux 环境下使用 Python selenium 出错、这是怎么回事？",
-        "link": "https://www.v2ex.com/t/822054",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "升级 Monterey 便无法与 iPhone 蓝牙配对了",
-        "link": "https://www.v2ex.com/t/822053",
-        "date": "2021-12-14"
       }
     ]
   },
@@ -8023,23 +8013,23 @@
         "date": "2021-12-14"
       },
       {
-        "title": "HDFS 在 HA 模式集群下 JournalNode 节点的作用",
-        "link": "https://toutiao.io/k/tnpzzn3",
-        "date": "2021-12-14"
-      },
-      {
         "title": "干掉visio，这个画图神器真的绝了！！！",
         "link": "https://toutiao.io/k/wbcblht",
         "date": "2021-12-14"
       },
       {
-        "title": "Raft：寻找一种易于理解的一致性算法",
-        "link": "https://toutiao.io/k/79oehr1",
+        "title": "HDFS 在 HA 模式集群下 JournalNode 节点的作用",
+        "link": "https://toutiao.io/k/tnpzzn3",
         "date": "2021-12-14"
       },
       {
         "title": "后端开发实践系列之一：Spring Boot项目模板",
         "link": "https://toutiao.io/k/99knvya",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "Raft：寻找一种易于理解的一致性算法",
+        "link": "https://toutiao.io/k/79oehr1",
         "date": "2021-12-14"
       },
       {
@@ -8063,6 +8053,21 @@
         "date": "2021-12-14"
       },
       {
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
+        "link": "https://toutiao.io/k/96zw0k6",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
+        "date": "2021-12-14"
+      },
+      {
         "title": "[推荐] Google：12 条 Golang 最佳实践",
         "link": "https://toutiao.io/k/x06am1r",
         "date": "2021-12-14"
@@ -8073,13 +8078,13 @@
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
         "date": "2021-12-14"
       },
       {
@@ -8088,33 +8093,18 @@
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
-        "link": "https://toutiao.io/k/96zw0k6",
+        "title": "[推荐] 京东秒杀架构升级优化实践",
+        "link": "https://toutiao.io/k/4cxy94p",
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
         "date": "2021-12-14"
       },
       {
         "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
         "link": "https://toutiao.io/k/8k28pnf",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 京东秒杀架构升级优化实践",
-        "link": "https://toutiao.io/k/4cxy94p",
         "date": "2021-12-14"
       }
     ]

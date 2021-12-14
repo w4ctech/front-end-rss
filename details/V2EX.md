@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-12-14 06:49:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-14 07:12:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-14-求助-有没有懂软件合同纠纷的老哥,可以咨询份合同吗](https://www.v2ex.com/t/822132) 
+- [2021-12-14-修改了-hosts，依然不能访问-github，请问有什么其他解决方案吗](https://www.v2ex.com/t/822131) 
+- [2021-12-14-上海-阿里云-JindoFS-团队招-P7](https://www.v2ex.com/t/822130) 
+- [2021-12-14-预算:8K-到-1W，求个装机配置，多谢！](https://www.v2ex.com/t/822128) 
 - [2021-12-14-最近投简历都被拒了，面试机会都没有，求大佬指点下](https://www.v2ex.com/t/822127) 
 - [2021-12-14-红米-note11-pro-如何设置只使用-NSA-模式，是软件还是硬件问题](https://www.v2ex.com/t/822126) 
 - [2021-12-14-WSL-debian-vim-编辑文件不显示文本内容](https://www.v2ex.com/t/822125) 
@@ -15,14 +19,12 @@
 - [2021-12-14-长沙人在上海上班怎么落户长沙](https://www.v2ex.com/t/822119) 
 - [2021-12-14-nginx-做请求转发和用-squid-tinyproxy-等代理服务器将请求转发到外网有什么不同](https://www.v2ex.com/t/822118) 
 - [2021-12-14-PlantUML-真好用](https://www.v2ex.com/t/822116) 
-- [2021-12-14-斯蒂芬森](https://www.v2ex.com/t/822115) 
 - [2021-12-14-《Ruby-设计模式》笔记](https://www.v2ex.com/t/822114) 
 - [2021-12-14-安徽技术团队，有-Java-PHP-分布式、微服务项目实战经验。承接项目外包-VX无需-base64：-luodikeji](https://www.v2ex.com/t/822113) 
 - [2021-12-14-iOS-15.2-英文搜索-Spotlight-终于回归](https://www.v2ex.com/t/822112) 
 - [2021-12-14-V2-开始限制新会员发帖了吗？](https://www.v2ex.com/t/822111) 
 - [2021-12-14-睡个午觉，腾讯云电信方向是不是炸了](https://www.v2ex.com/t/822109) 
 - [2021-12-14-求助Fitness+境内无法显示，是否有办法可以激活](https://www.v2ex.com/t/822108) 
-- [2021-12-14-港区-Spotify-拼车](https://www.v2ex.com/t/822107) 
 - [2021-12-14-两台-macbook，如何快速将一台旧-mbp-应用文件复装到新-mbp-上？](https://www.v2ex.com/t/822104) 
 - [2021-12-14-请问有简洁的-GitHub-博客主题分享吗？](https://www.v2ex.com/t/822102) 
 - [2021-12-14-分享一个在小红书购物经历](https://www.v2ex.com/t/822099) 
@@ -38,8 +40,3 @@
 - [2021-12-14-怎么检测-https-服务器支持哪些-TLS-版本？](https://www.v2ex.com/t/822088) 
 - [2021-12-14-北京信永中和大数据部急招-Python-开发工程师-15-30K-13-薪-{环境好}-{不加班}-{大公司}-{无-35-岁危机}](https://www.v2ex.com/t/822087) 
 - [2021-12-14-github-仓库右上角-star-fork-按钮的顺序调换了，刚才机械记忆-fork-了好几个-repo](https://www.v2ex.com/t/822083) 
-- [2021-12-14-大家觉得阿里新出的暖心计划怎么样？](https://www.v2ex.com/t/822082) 
-- [2021-12-14-有推荐的机械键盘吗-预算不超过-500-茶轴优先](https://www.v2ex.com/t/822081) 
-- [2021-12-14-老款-intel-cpu-macbook-pro，换新的-macbook-pro-16-2021，只能重装？](https://www.v2ex.com/t/822080) 
-- [2021-12-14-M1-MacBook-出来一年多了，现在外接屏幕的情况有所好转吗？](https://www.v2ex.com/t/822079) 
-- [2021-12-14-请教一下大家怎么培养自己编程逻辑的?](https://www.v2ex.com/t/822078) 

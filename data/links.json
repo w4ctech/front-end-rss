@@ -5,6 +5,11 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "12月13日全国新增新冠76例 四省份本土51例",
+        "link": "https://m.caixin.com/m/2021-12-14/101817307.html",
+        "date": "2021-12-14"
+      },
+      {
         "title": "浙江杭绍甬八日累计新冠近200例 三地将严控出行至明年3月",
         "link": "https://m.caixin.com/m/2021-12-13/101817234.html",
         "date": "2021-12-13"
@@ -7684,6 +7689,76 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "还有人用 Leanote 吗，被迫 fork 修改了一点源码",
+        "link": "https://www.v2ex.com/t/822044",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "iPhone13Pro 离谱的耗电与\"钉子户\"",
+        "link": "https://www.v2ex.com/t/822043",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "私活做好的项目后续维护怎么定价比较好",
+        "link": "https://www.v2ex.com/t/822042",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "有什么办法避免图片中的文字被 OCR 识别出来呢？",
+        "link": "https://www.v2ex.com/t/822041",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "请教访达能直接用通配符或者正则搜索扩展名吗",
+        "link": "https://www.v2ex.com/t/822039",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "人的一生可以组成多少家庭？",
+        "link": "https://www.v2ex.com/t/822038",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "买辆车，等了 6 个半月还未提",
+        "link": "https://www.v2ex.com/t/822035",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "外包项目找安卓",
+        "link": "https://www.v2ex.com/t/822034",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "偶然搜到一条和程序员有关的新闻，比较有意思，不知道大家怎么看",
+        "link": "https://www.v2ex.com/t/822033",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "只有 3 个人赞助的 Apache Log4j2 项目",
+        "link": "https://www.v2ex.com/t/822032",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "手机和电脑互发消息/文件，可以试试群晖 chat",
+        "link": "https://www.v2ex.com/t/822029",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "在深圳龙华区，晚餐真是麻烦",
+        "link": "https://www.v2ex.com/t/822028",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "迫于版权和小众音乐，想见识一下各位的音乐同步方案",
+        "link": "https://www.v2ex.com/t/822025",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "IOS 15.2 正式版 app 隐私报告哪些 app 会露马脚",
+        "link": "https://www.v2ex.com/t/822023",
+        "date": "2021-12-14"
+      },
+      {
         "title": "写在 2022 之前 4 年半再谈程序员英语学习 有多少人还在坚持？",
         "link": "https://www.v2ex.com/t/822022",
         "date": "2021-12-14"
@@ -7796,66 +7871,6 @@
       {
         "title": "请问 ios 中如何快速分别出 app 在哪一个区下载的",
         "link": "https://www.v2ex.com/t/821995",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "[远程兼职] 5yr+ SRE/DevOps/CKA/CloudNative 工程师",
-        "link": "https://www.v2ex.com/t/821994",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "多个 so 库混用不同 ndk 版本编译， libc++共享库版本也不一致，为什么有的手机能正常运行有的会 crash?",
-        "link": "https://www.v2ex.com/t/821990",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "Firefox 浏览器访问微软出现 OCSP 错误",
-        "link": "https://www.v2ex.com/t/821989",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "VLOOK 13！标签、徽章、表格阅读模式强化，实用好用的 Markdown 主题包和增强插件",
-        "link": "https://www.v2ex.com/t/821988",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "《OpenCV3 编程入门》的作者在腾讯科兴大厦跳楼",
-        "link": "https://www.v2ex.com/t/821987",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "2021 年快结束了，分享下个人觉得今年看到的最好的回答。",
-        "link": "https://www.v2ex.com/t/821984",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "高并发情况下如何保证金额加减的一致性",
-        "link": "https://www.v2ex.com/t/821980",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "Beerus 上线啦，用 Go 开发的 web 解决方案",
-        "link": "https://www.v2ex.com/t/821978",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "老铁们，我这算喜讯吗",
-        "link": "https://www.v2ex.com/t/821977",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "前端从业人员入门提高到什么水平了？学历专业知识面试难度",
-        "link": "https://www.v2ex.com/t/821976",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "请教一个 Python pandas 数据编码的问题",
-        "link": "https://www.v2ex.com/t/821975",
-        "date": "2021-12-13"
-      },
-      {
-        "title": "非子公司的几个大行软开，如何比较和排序，从薪资、稳定性、加班方面综合考虑；中行、邮储、交行、农行、工行。对此了解的 V 友可以发表一下观点。",
-        "link": "https://www.v2ex.com/t/821974",
         "date": "2021-12-13"
       }
     ]
@@ -7983,13 +7998,13 @@
         "date": "2021-12-14"
       },
       {
-        "title": "博采 27 门语言之长，提升 Python 的能力",
-        "link": "https://toutiao.io/k/zj8h866",
+        "title": "双12都来了，我的秒杀架构还没搭出来……",
+        "link": "https://toutiao.io/k/kw0ca5r",
         "date": "2021-12-14"
       },
       {
-        "title": "双12都来了，我的秒杀架构还没搭出来……",
-        "link": "https://toutiao.io/k/kw0ca5r",
+        "title": "博采 27 门语言之长，提升 Python 的能力",
+        "link": "https://toutiao.io/k/zj8h866",
         "date": "2021-12-14"
       },
       {
@@ -8003,13 +8018,13 @@
         "date": "2021-12-14"
       },
       {
-        "title": "后端开发实践系列之一：Spring Boot项目模板",
-        "link": "https://toutiao.io/k/99knvya",
+        "title": "Presto 在字节跳动的应用",
+        "link": "https://toutiao.io/k/tilys48",
         "date": "2021-12-14"
       },
       {
-        "title": "Presto 在字节跳动的应用",
-        "link": "https://toutiao.io/k/tilys48",
+        "title": "后端开发实践系列之一：Spring Boot项目模板",
+        "link": "https://toutiao.io/k/99knvya",
         "date": "2021-12-14"
       },
       {
@@ -8018,38 +8033,33 @@
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
+        "title": "干掉visio，这个画图神器真的绝了！！！",
+        "link": "https://toutiao.io/k/wbcblht",
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
+        "title": "跑了4个实验，实战讲解 MySQL的行锁、间隙锁...​",
+        "link": "https://toutiao.io/k/j6zhfoc",
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
+        "title": "lyft 的线下开发环境秘籍",
+        "link": "https://toutiao.io/k/iucimzu",
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
+        "title": "8 个必知的 SEO 优化重要元标签",
+        "link": "https://toutiao.io/k/d2890wo",
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 京东秒杀架构升级优化实践",
-        "link": "https://toutiao.io/k/4cxy94p",
+        "title": "1 平方厘米在元宇宙卖到 14 万？单价比北京学区房贵多了！",
+        "link": "https://toutiao.io/k/kju5oqs",
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
+        "title": "中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）",
+        "link": "https://toutiao.io/k/vfwpipy",
         "date": "2021-12-14"
       },
       {
@@ -8058,8 +8068,28 @@
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
-        "link": "https://toutiao.io/k/96zw0k6",
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
         "date": "2021-12-14"
       },
       {
@@ -8068,8 +8098,23 @@
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
+        "title": "[推荐] 京东秒杀架构升级优化实践",
+        "link": "https://toutiao.io/k/4cxy94p",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
+        "link": "https://toutiao.io/k/96zw0k6",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
         "date": "2021-12-14"
       }
     ]

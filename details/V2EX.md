@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-14 14:41:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-14 14:54:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-14-求推荐刷机包多的路由器](https://www.v2ex.com/t/822246) 
+- [2021-12-14-教育网-CNGI-AS23911-跨境变化](https://www.v2ex.com/t/822245) 
 - [2021-12-14-看到新闻腾讯-90-后程序员跳楼身亡，做一个每日搞笑视频推送，拯救不开心的人们](https://www.v2ex.com/t/822243) 
 - [2021-12-14-Mac-下的视频播放器，想要个固定的右侧播放列表好难啊。。](https://www.v2ex.com/t/822242) 
 - [2021-12-14-一个新的-Code-Editor-https://news.ycombinator.com/item?id=29549173](https://www.v2ex.com/t/822240) 
@@ -43,4 +45,3 @@
 - [2021-12-14-windows-版微信，每天在-Roaming\Tencent\WeChat\log-下生成一个名为-MM_2021MMdd.xlog-的日志，一天下来要-1-个-G-多](https://www.v2ex.com/t/822199) 
 - [2021-12-14-机房电脑死机，拔电源强制关机进-u-盘系统，无法读取-C-盘](https://www.v2ex.com/t/822198) 
 - [2021-12-14-发现一个爬-v2-的农场站](https://www.v2ex.com/t/822197) 
-- [2021-12-14-迫于想为深圳的求职者提供更精准优质的服务，我们做了一个有奖（现金红包）调研，无隐私疑虑](https://www.v2ex.com/t/822195) 

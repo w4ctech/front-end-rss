@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 00:41:32，:rocket: 更新条数: +1568， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 01:12:34，:rocket: 更新条数: +1567， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,6 @@
 </summary>
 
 
-- [2021-12-13-最新疫情：全国新冠累计确诊99780例-累计接种新冠疫苗超26.12亿剂次](https://m.caixin.com/m/2021-12-13/101817259.html) ![](assets/new.png)  
 - [2021-12-13-浙江杭绍甬八日累计新冠近200例-三地将严控出行至明年3月](https://m.caixin.com/m/2021-12-13/101817234.html) ![](assets/new.png)  
 - [2021-12-13-天津从入境人员中检出奥密克戎变异株](https://china.caixin.com/m/2021-12-13/101817231.html) ![](assets/new.png)  
 - [2021-12-13-香港研究显示复必泰疫苗对Omicron中和抗体大减-或期加强针](https://m.caixin.com/m/2021-12-13/101817198.html) ![](assets/new.png)  
@@ -85,6 +84,7 @@
 - [2021-12-09-浙江五天累计阳性59例-省内三地防疫措施升级](https://m.caixin.com/m/2021-12-09/101815867.html) ![](assets/new.png)  
 - [2021-12-09-腾盛博药新冠中和抗体获批上市-正探讨国家战略储备采购](https://m.caixin.com/m/2021-12-09/101815619.html) ![](assets/new.png)  
 - [2021-12-09-【境内疫情观察】全国新增60例本土病例（12月8日）](https://database.caixin.com/m/2021-12-09/101815553.html) ![](assets/new.png)  
+- [2021-12-09-57个国家报告Omicron感染者-韩国感染猛增｜大流行手记（12月8日）](https://m.caixin.com/m/2021-12-09/101815395.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-14-写在-2022-之前-4-年半再谈程序员英语学习-有多少人还在坚持？](https://www.v2ex.com/t/822022) ![](assets/new.png)  
+- [2021-12-14-分享一个能看每天-V2EX-最热的网站，又一个-V2HOT-来了](https://www.v2ex.com/t/822020) ![](assets/new.png)  
+- [2021-12-14-悦跑圈为什么各大应用市场无法下载了？](https://www.v2ex.com/t/822019) ![](assets/new.png)  
+- [2021-12-14-一个想法，做一个修理电动车的-app](https://www.v2ex.com/t/822018) ![](assets/new.png)  
+- [2021-12-14-大家更看中另一半的什么?](https://www.v2ex.com/t/822017) ![](assets/new.png)  
 - [2021-12-14-有关职业规划的一些建议](https://www.v2ex.com/t/822015) ![](assets/new.png)  
 - [2021-12-13-大佬们不要卷了，前同事现在还没醒](https://www.v2ex.com/t/822014) ![](assets/new.png)  
 - [2021-12-13-前端好-vs-前端恶心，-目前票数是-2-:-1](https://www.v2ex.com/t/822013) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-13-所以-Nio-为什么快？](https://www.v2ex.com/t/822002) ![](assets/new.png)  
 - [2021-12-13-搞了个小软件，像-iPhone-的屏幕使用时间一样在-Windows-上记录电脑程序使用时长](https://www.v2ex.com/t/822001) ![](assets/new.png)  
 - [2021-12-13-请问-win-系统有没有类似-Mac-上虚拟机的程序？](https://www.v2ex.com/t/821999) ![](assets/new.png)  
-- [2021-12-13-Vue2-怎么快速做一个“设置向导”？](https://www.v2ex.com/t/821998) ![](assets/new.png)  
-- [2021-12-13-显示器突然花屏，上面内容显示在下面的花屏横纹中](https://www.v2ex.com/t/821997) ![](assets/new.png)  
-- [2021-12-13-请问-ios-中如何快速分别出-app-在哪一个区下载的](https://www.v2ex.com/t/821995) ![](assets/new.png)  
-- [2021-12-13-远程兼职-5yr+-SRE/DevOps/CKA/CloudNative-工程师](https://www.v2ex.com/t/821994) ![](assets/new.png)  
-- [2021-12-13-多个-so-库混用不同-ndk-版本编译，-libc++共享库版本也不一致，为什么有的手机能正常运行有的会-crash?](https://www.v2ex.com/t/821990) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,25 +557,25 @@
 
 
 - [2021-12-14-阿里巴巴数据治理实践.PPT](https://toutiao.io/k/xxb2z61) ![](assets/new.png)  
+- [2021-12-14-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [2021-12-14-博采-27-门语言之长，提升-Python-的能力](https://toutiao.io/k/zj8h866) ![](assets/new.png)  
+- [2021-12-14-双12都来了，我的秒杀架构还没搭出来……](https://toutiao.io/k/kw0ca5r) ![](assets/new.png)  
+- [2021-12-14-传统架构-vs-云原生架构，谈谈为什么我们需要云原生架构？](https://toutiao.io/k/8fsph1v) ![](assets/new.png)  
 - [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
 - [2021-12-14-后端开发实践系列之一：Spring-Boot项目模板](https://toutiao.io/k/99knvya) ![](assets/new.png)  
-- [2021-12-14-传统架构-vs-云原生架构，谈谈为什么我们需要云原生架构？](https://toutiao.io/k/8fsph1v) ![](assets/new.png)  
 - [2021-12-14-Presto-在字节跳动的应用](https://toutiao.io/k/tilys48) ![](assets/new.png)  
-- [2021-12-14-双12都来了，我的秒杀架构还没搭出来……](https://toutiao.io/k/kw0ca5r) ![](assets/new.png)  
-- [2021-12-14-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) ![](assets/new.png)  
-- [2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
 - [2021-12-14-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [2021-12-14-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
 - [2021-12-14-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
-- [2021-12-14-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
-- [2021-12-14-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-14-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
 - [2021-12-14-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
 - [2021-12-14-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
 - [2021-12-14-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
-- [2021-12-14-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
+- [2021-12-14-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
+- [2021-12-14-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

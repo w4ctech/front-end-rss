@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-14 00:41:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-14 01:12:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,7 +50,6 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2021-12-13-最新疫情：全国新冠累计确诊99780例-累计接种新冠疫苗超26.12亿剂次](https://m.caixin.com/m/2021-12-13/101817259.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-13-浙江杭绍甬八日累计新冠近200例-三地将严控出行至明年3月](https://m.caixin.com/m/2021-12-13/101817234.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-13-天津从入境人员中检出奥密克戎变异株](https://china.caixin.com/m/2021-12-13/101817231.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-13-香港研究显示复必泰疫苗对Omicron中和抗体大减-或期加强针](https://m.caixin.com/m/2021-12-13/101817198.html) 
@@ -110,6 +109,11 @@
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-14-写在-2022-之前-4-年半再谈程序员英语学习-有多少人还在坚持？](https://www.v2ex.com/t/822022) 
+- [【V2EX】2021-12-14-分享一个能看每天-V2EX-最热的网站，又一个-V2HOT-来了](https://www.v2ex.com/t/822020) 
+- [【V2EX】2021-12-14-悦跑圈为什么各大应用市场无法下载了？](https://www.v2ex.com/t/822019) 
+- [【V2EX】2021-12-14-一个想法，做一个修理电动车的-app](https://www.v2ex.com/t/822018) 
+- [【V2EX】2021-12-14-大家更看中另一半的什么?](https://www.v2ex.com/t/822017) 
 - [【V2EX】2021-12-14-有关职业规划的一些建议](https://www.v2ex.com/t/822015) 
 - [【V2EX】2021-12-13-大佬们不要卷了，前同事现在还没醒](https://www.v2ex.com/t/822014) 
 - [【V2EX】2021-12-13-前端好-vs-前端恶心，-目前票数是-2-:-1](https://www.v2ex.com/t/822013) 
@@ -140,11 +144,6 @@
 - [【V2EX】2021-12-13-前端从业人员入门提高到什么水平了？学历专业知识面试难度](https://www.v2ex.com/t/821976) 
 - [【V2EX】2021-12-13-请教一个-Python-pandas-数据编码的问题](https://www.v2ex.com/t/821975) 
 - [【V2EX】2021-12-13-非子公司的几个大行软开，如何比较和排序，从薪资、稳定性、加班方面综合考虑；中行、邮储、交行、农行、工行。对此了解的-V-友可以发表一下观点。](https://www.v2ex.com/t/821974) 
-- [【V2EX】2021-12-13-求教算法大佬，有没有-B+树的运算算法？如-A-树-=-B-树-+-C-树，-C-树-=-A-树---B-树。](https://www.v2ex.com/t/821972) 
-- [【V2EX】2021-12-13-请教各位大佬一个关于-mockplus-的问题啊！](https://www.v2ex.com/t/821971) 
-- [【V2EX】2021-12-13-两个数据库，如何优雅查询](https://www.v2ex.com/t/821970) 
-- [【V2EX】2021-12-13-帮忙看看-Vue-的问题](https://www.v2ex.com/t/821969) 
-- [【V2EX】2021-12-13-半吊子程序员怎么学习-Linux-，-Linux-爱好者请进](https://www.v2ex.com/t/821968) 
 - [【技术头条】2021-12-14-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-14-鸿蒙OS、安卓、iOS测试对比，结果出乎意料！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14847&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9RWmROLInm3RJpX1ZHjHmw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-14-张一鸣：给产品技术人才的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14846&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492724%26amp%3Bidx%3D2%26amp%3Bsn%3D3d506086a6e038c1eb1a4b9f404f90c1%26amp%3Bchksm%3Dfa3f052fcd488c395f8202745eff3a5d4db9f15102f06042d8683d94a108dab53b582fe57726%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -166,25 +165,25 @@
 - [【技术头条】2021-12-14-谷歌发布新编程语言，居然专治这个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14830&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492576%26amp%3Bidx%3D1%26amp%3Bsn%3De481178446fb6b3ee0eec9d7b400277b%26amp%3Bchksm%3Dfa3f02bbcd488badceacdd16cb64c930d39f2fcf603004a0379cfacdf1098bb38e5f37b2f85a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-14-黄峥自述：一路走来，我的经历与思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14829&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492576%26amp%3Bidx%3D2%26amp%3Bsn%3Dc5a30edc3eacc758d34309db02d0bbad%26amp%3Bchksm%3Dfa3f02bbcd488bad771301485403b28ca910cba0754c0141e366d2e3d1a02ac8eff17c2ad23f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2021-12-14-阿里巴巴数据治理实践.PPT](https://toutiao.io/k/xxb2z61) 
+- [【开发者头条】2021-12-14-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [【开发者头条】2021-12-14-博采-27-门语言之长，提升-Python-的能力](https://toutiao.io/k/zj8h866) 
+- [【开发者头条】2021-12-14-双12都来了，我的秒杀架构还没搭出来……](https://toutiao.io/k/kw0ca5r) 
+- [【开发者头条】2021-12-14-传统架构-vs-云原生架构，谈谈为什么我们需要云原生架构？](https://toutiao.io/k/8fsph1v) 
 - [【开发者头条】2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) 
 - [【开发者头条】2021-12-14-后端开发实践系列之一：Spring-Boot项目模板](https://toutiao.io/k/99knvya) 
-- [【开发者头条】2021-12-14-传统架构-vs-云原生架构，谈谈为什么我们需要云原生架构？](https://toutiao.io/k/8fsph1v) 
 - [【开发者头条】2021-12-14-Presto-在字节跳动的应用](https://toutiao.io/k/tilys48) 
-- [【开发者头条】2021-12-14-双12都来了，我的秒杀架构还没搭出来……](https://toutiao.io/k/kw0ca5r) 
-- [【开发者头条】2021-12-14-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [【开发者头条】2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) 
-- [【开发者头条】2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
 - [【开发者头条】2021-12-14-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [【开发者头条】2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [【开发者头条】2021-12-14-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
 - [【开发者头条】2021-12-14-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
-- [【开发者头条】2021-12-14-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
-- [【开发者头条】2021-12-14-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
-- [【开发者头条】2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [【开发者头条】2021-12-14-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
 - [【开发者头条】2021-12-14-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
+- [【开发者头条】2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
 - [【开发者头条】2021-12-14-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
 - [【开发者头条】2021-12-14-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
-- [【开发者头条】2021-12-14-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
+- [【开发者头条】2021-12-14-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
+- [【开发者头条】2021-12-14-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 07:21:40，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 07:37:36，:rocket: 更新条数: +1582， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-14-PHP-代码加密,逼乎上这个回答大家怎么看?](https://www.v2ex.com/t/822139) ![](assets/new.png)  
+- [2021-12-14-UninstallPkg-v1.20-官宣免费了](https://www.v2ex.com/t/822138) ![](assets/new.png)  
+- [2021-12-14-感觉小米手机是一个广告机](https://www.v2ex.com/t/822136) ![](assets/new.png)  
+- [2021-12-14-15.2-相册暂时不能用，慎重升级](https://www.v2ex.com/t/822135) ![](assets/new.png)  
+- [2021-12-14-精确覆盖下的数学游戏](https://www.v2ex.com/t/822134) ![](assets/new.png)  
 - [2021-12-14-喝咖啡也会上瘾吗？](https://www.v2ex.com/t/822133) ![](assets/new.png)  
 - [2021-12-14-求助-有没有懂软件合同纠纷的老哥,可以咨询份合同吗](https://www.v2ex.com/t/822132) ![](assets/new.png)  
 - [2021-12-14-修改了-hosts，依然不能访问-github，请问有什么其他解决方案吗](https://www.v2ex.com/t/822131) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-14-长沙人在上海上班怎么落户长沙](https://www.v2ex.com/t/822119) ![](assets/new.png)  
 - [2021-12-14-nginx-做请求转发和用-squid-tinyproxy-等代理服务器将请求转发到外网有什么不同](https://www.v2ex.com/t/822118) ![](assets/new.png)  
 - [2021-12-14-PlantUML-真好用](https://www.v2ex.com/t/822116) ![](assets/new.png)  
-- [2021-12-14-《Ruby-设计模式》笔记](https://www.v2ex.com/t/822114) ![](assets/new.png)  
-- [2021-12-14-安徽技术团队，有-Java-PHP-分布式、微服务项目实战经验。承接项目外包-VX无需-base64：-luodikeji](https://www.v2ex.com/t/822113) ![](assets/new.png)  
-- [2021-12-14-iOS-15.2-英文搜索-Spotlight-终于回归](https://www.v2ex.com/t/822112) ![](assets/new.png)  
-- [2021-12-14-V2-开始限制新会员发帖了吗？](https://www.v2ex.com/t/822111) ![](assets/new.png)  
-- [2021-12-14-睡个午觉，腾讯云电信方向是不是炸了](https://www.v2ex.com/t/822109) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

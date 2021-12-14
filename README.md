@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 05:54:28，:rocket: 更新条数: +1574， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 06:15:08，:rocket: 更新条数: +1583， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2021-12-14-在-Apple-官方买设备连续两年都是顺丰送的，这次买-ip13pro-就成邮政了](https://www.v2ex.com/t/822121) ![](assets/new.png)  
+- [2021-12-14-ios-调试-wx、zfb](https://www.v2ex.com/t/822120) ![](assets/new.png)  
+- [2021-12-14-长沙人在上海上班怎么落户长沙](https://www.v2ex.com/t/822119) ![](assets/new.png)  
+- [2021-12-14-nginx-做请求转发和用-squid-tinyproxy-等代理服务器将请求转发到外网有什么不同](https://www.v2ex.com/t/822118) ![](assets/new.png)  
+- [2021-12-14-PlantUML-真好用](https://www.v2ex.com/t/822116) ![](assets/new.png)  
+- [2021-12-14-斯蒂芬森](https://www.v2ex.com/t/822115) ![](assets/new.png)  
+- [2021-12-14-《Ruby-设计模式》笔记](https://www.v2ex.com/t/822114) ![](assets/new.png)  
 - [2021-12-14-安徽技术团队，有-Java-PHP-分布式、微服务项目实战经验。承接项目外包-VX无需-base64：-luodikeji](https://www.v2ex.com/t/822113) ![](assets/new.png)  
 - [2021-12-14-iOS-15.2-英文搜索-Spotlight-终于回归](https://www.v2ex.com/t/822112) ![](assets/new.png)  
 - [2021-12-14-V2-开始限制新会员发帖了吗？](https://www.v2ex.com/t/822111) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2021-12-14-iOS-15.2-新增的-App-隐私报告的疑问](https://www.v2ex.com/t/822097) ![](assets/new.png)  
 - [2021-12-14-一个-CSS-小项目的千星之路](https://www.v2ex.com/t/822096) ![](assets/new.png)  
 - [2021-12-14-昨天-tg-亚洲的服务器是否有部分崩了？](https://www.v2ex.com/t/822094) ![](assets/new.png)  
-- [2021-12-14-感觉-MacBook-的键盘非常好用](https://www.v2ex.com/t/822093) ![](assets/new.png)  
-- [2021-12-14-redux-saga-中-channel-的原理是怎样的?](https://www.v2ex.com/t/822092) ![](assets/new.png)  
-- [2021-12-14-自愿化身一条固执的鱼](https://www.v2ex.com/t/822091) ![](assets/new.png)  
-- [2021-12-14-用-idea-的-datbase-tool-turncate-table-后，-mysql-的-increment-变成了-3?](https://www.v2ex.com/t/822090) ![](assets/new.png)  
-- [2021-12-14-一道前端面试题：请求一个-github-用户的-follower，并且点击某个-follower，请求他的-follower，用-react-来写代码](https://www.v2ex.com/t/822089) ![](assets/new.png)  
-- [2021-12-14-怎么检测-https-服务器支持哪些-TLS-版本？](https://www.v2ex.com/t/822088) ![](assets/new.png)  
-- [2021-12-14-北京信永中和大数据部急招-Python-开发工程师-15-30K-13-薪-{环境好}-{不加班}-{大公司}-{无-35-岁危机}](https://www.v2ex.com/t/822087) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
-- [2021-12-14-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
-- [2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
-- [2021-12-14-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
-- [2021-12-14-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
-- [2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
+- [2021-12-14-云原生的下一步，或从WebAssembly在边缘取代Docker开始](https://toutiao.io/k/5y8ajwx) ![](assets/new.png)  
+- [2021-12-14-酒话：Copilot-和运维代码](https://toutiao.io/k/ah9idl7) ![](assets/new.png)  
+- [2021-12-14-公司规定所有接口都用-POST请求，这是为什么？](https://toutiao.io/k/68d7y9z) ![](assets/new.png)  
+- [2021-12-14-十年所学，终成《代码随想录》！](https://toutiao.io/k/cuyn1bs) ![](assets/new.png)  
+- [2021-12-14-3D-可视化入门：渲染管线原理与实践](https://toutiao.io/k/hoy9i79) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

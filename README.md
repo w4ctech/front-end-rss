@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 08:59:42，:rocket: 更新条数: +1586， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 09:13:08，:rocket: 更新条数: +1585， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2021-12-14-12月13日全国新增新冠76例-四省份本土51例](https://m.caixin.com/m/2021-12-14/101817307.html) ![](assets/new.png)  
+- [2021-12-14-最新疫情：全国新冠累计确诊99856例-累计接种新冠疫苗超26.21亿剂次](https://m.caixin.com/m/2021-12-14/101817574.html) ![](assets/new.png)  
+- [2021-12-14-最新海外疫情：新冠感染超2.7亿-累计接种新冠疫苗超84.52亿剂次](https://m.caixin.com/m/2021-12-14/101817568.html) ![](assets/new.png)  
 - [2021-12-14-【境内疫情观察】天津从入境闭环管控人员检出奥密克戎变异株（12月13日）](https://database.caixin.com/m/2021-12-14/101817528.html) ![](assets/new.png)  
 - [2021-12-14-英国报告首例奥密克戎死亡，加拿大感染上升｜大流行手记（12月13日）](https://m.caixin.com/m/2021-12-14/101817333.html) ![](assets/new.png)  
 - [2021-12-13-浙江杭绍甬八日累计新冠近200例-三地将严控出行至明年3月](https://m.caixin.com/m/2021-12-13/101817234.html) ![](assets/new.png)  
 - [2021-12-13-天津从入境人员中检出奥密克戎变异株](https://china.caixin.com/m/2021-12-13/101817231.html) ![](assets/new.png)  
 - [2021-12-13-香港研究显示复必泰疫苗对Omicron中和抗体大减-或期加强针](https://m.caixin.com/m/2021-12-13/101817198.html) ![](assets/new.png)  
-- [2021-12-13-最新海外疫情：新冠感染超2.69亿-累计接种新冠疫苗近84.11亿剂次](https://m.caixin.com/m/2021-12-13/101817256.html) ![](assets/new.png)  
 - [2021-12-13-【境内疫情观察】浙江新增74例本土病例（12月12日）](https://database.caixin.com/m/2021-12-13/101817065.html) ![](assets/new.png)  
 - [2021-12-13-WHO称大流行扰乱全球卫生服务-英国单日Omicron病例翻番｜大流行手记（-12月12日）](https://m.caixin.com/m/2021-12-13/101816947.html) ![](assets/new.png)  
 - [2021-12-12-浙江一周累计确诊138例-与上海疫情为同一传播链](https://m.caixin.com/m/2021-12-12/101816876.html) ![](assets/new.png)  
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-14-千兆光猫榨干千兆带宽简单方案（实测-1.2G-左右）](https://www.v2ex.com/t/822174) ![](assets/new.png)  
+- [2021-12-14-充电线收纳最佳实践是什么？](https://www.v2ex.com/t/822172) ![](assets/new.png)  
+- [2021-12-14-蚂蚁---可信原生技术部---专用编程语言设计研发杭州-P7-8](https://www.v2ex.com/t/822170) ![](assets/new.png)  
+- [2021-12-14-问个增量更新的办法。](https://www.v2ex.com/t/822169) ![](assets/new.png)  
 - [2021-12-14-突然发现-i-remember.fr-这个网站关闭了](https://www.v2ex.com/t/822168) ![](assets/new.png)  
 - [2021-12-14-你们有没有一段时间因为生活太过规律而感到不适应？](https://www.v2ex.com/t/822167) ![](assets/new.png)  
 - [2021-12-14-上海WLB-急招-Java-高级开发](https://www.v2ex.com/t/822166) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-14-有没有大佬出租正规一居室，离地铁不远，预算-4500-左右](https://www.v2ex.com/t/822153) ![](assets/new.png)  
 - [2021-12-14-Jenkins-运行-yarn-build-失败，但是手动登录到服务器就成功](https://www.v2ex.com/t/822152) ![](assets/new.png)  
 - [2021-12-14-请教一些-docker-镜像大小优化问题](https://www.v2ex.com/t/822151) ![](assets/new.png)  
-- [2021-12-14-命令行风格的个人主页？](https://www.v2ex.com/t/822146) ![](assets/new.png)  
-- [2021-12-14-京东购腾讯视频会员好价](https://www.v2ex.com/t/822145) ![](assets/new.png)  
-- [2021-12-14-计算机类的网课哪里比较多？](https://www.v2ex.com/t/822143) ![](assets/new.png)  
-- [2021-12-14-Monterey-12.1-收不到更新](https://www.v2ex.com/t/822142) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,8 +573,8 @@
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
 - [2021-12-14-酒话：Copilot-和运维代码](https://toutiao.io/k/ah9idl7) ![](assets/new.png)  
 - [2021-12-14-公司规定所有接口都用-POST请求，这是为什么？](https://toutiao.io/k/68d7y9z) ![](assets/new.png)  
-- [2021-12-14-十年所学，终成《代码随想录》！](https://toutiao.io/k/cuyn1bs) ![](assets/new.png)  
 - [2021-12-14-云原生的下一步，或从WebAssembly在边缘取代Docker开始](https://toutiao.io/k/5y8ajwx) ![](assets/new.png)  
+- [2021-12-14-十年所学，终成《代码随想录》！](https://toutiao.io/k/cuyn1bs) ![](assets/new.png)  
 - [2021-12-14-3D-可视化入门：渲染管线原理与实践](https://toutiao.io/k/hoy9i79) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

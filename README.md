@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 03:44:33，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 03:56:49，:rocket: 更新条数: +1578， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-14-怎么检测-https-服务器支持哪些-TLS-版本？](https://www.v2ex.com/t/822088) ![](assets/new.png)  
+- [2021-12-14-北京信永中和大数据部急招-Python-开发工程师-15-30K-13-薪-{环境好}-{不加班}-{大公司}-{无-35-岁危机}](https://www.v2ex.com/t/822087) ![](assets/new.png)  
 - [2021-12-14-github-仓库右上角-star-fork-按钮的顺序调换了，刚才机械记忆-fork-了好几个-repo](https://www.v2ex.com/t/822083) ![](assets/new.png)  
 - [2021-12-14-大家觉得阿里新出的暖心计划怎么样？](https://www.v2ex.com/t/822082) ![](assets/new.png)  
 - [2021-12-14-有推荐的机械键盘吗-预算不超过-500-茶轴优先](https://www.v2ex.com/t/822081) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-14-有没有比较适合-github-organization-使用的-CI-工具](https://www.v2ex.com/t/822062) ![](assets/new.png)  
 - [2021-12-14-前两天的-TEMA-腾讯音乐娱乐盛典](https://www.v2ex.com/t/822061) ![](assets/new.png)  
 - [2021-12-14-促销双月买书有感](https://www.v2ex.com/t/822060) ![](assets/new.png)  
-- [2021-12-14-血氧和-ECG-图标显示问题](https://www.v2ex.com/t/822059) ![](assets/new.png)  
-- [2021-12-14-大家新增数字遗产了吗？](https://www.v2ex.com/t/822058) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 </summary>
 
 
-- [2021-12-14-阿里巴巴数据治理实践.PPT](https://toutiao.io/k/xxb2z61) ![](assets/new.png)  
 - [2021-12-14-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-14-阿里巴巴数据治理实践.PPT](https://toutiao.io/k/xxb2z61) ![](assets/new.png)  
 - [2021-12-14-双12都来了，我的秒杀架构还没搭出来……](https://toutiao.io/k/kw0ca5r) ![](assets/new.png)  
 - [2021-12-14-博采-27-门语言之长，提升-Python-的能力](https://toutiao.io/k/zj8h866) ![](assets/new.png)  
 - [2021-12-14-传统架构-vs-云原生架构，谈谈为什么我们需要云原生架构？](https://toutiao.io/k/8fsph1v) ![](assets/new.png)  
@@ -571,11 +571,11 @@
 - [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
-- [2021-12-14-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-14-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
-- [2021-12-14-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-14-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
 - [2021-12-14-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
+- [2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
 - [2021-12-14-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
+- [2021-12-14-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

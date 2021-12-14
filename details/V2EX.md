@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-14 18:49:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-14 19:11:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-14-M1-Max-频繁卡死](https://www.v2ex.com/t/822260) 
 - [2021-12-14-狂人日记读不下去了](https://www.v2ex.com/t/822259) 
 - [2021-12-14-魔都移动宽带上传-1T-限速-30M](https://www.v2ex.com/t/822258) 
 - [2021-12-14-如何优雅地用一套-Magic-Keyboard-+-Trackpad（键盘+触控板）控制-2-台-Mac？](https://www.v2ex.com/t/822257) 
@@ -41,4 +42,3 @@
 - [2021-12-14-mbp16-插着电源用，触控板两边的区域手就一直酥麻。怎么破](https://www.v2ex.com/t/822214) 
 - [2021-12-14-Apple-Watch-6，这两天掉电非常严重](https://www.v2ex.com/t/822213) 
 - [2021-12-14-如何用-Windows-下载-gcc-指定版本](https://www.v2ex.com/t/822212) 
-- [2021-12-14-升级-macOS-12.1-后，-AOC-卢瓦尔-LV273HUPR-恢复反向供电了](https://www.v2ex.com/t/822210) 

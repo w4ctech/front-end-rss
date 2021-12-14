@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 18:49:29，:rocket: 更新条数: +1585， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 19:11:19，:rocket: 更新条数: +1585， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-14-M1-Max-频繁卡死](https://www.v2ex.com/t/822260) ![](assets/new.png)  
 - [2021-12-14-狂人日记读不下去了](https://www.v2ex.com/t/822259) ![](assets/new.png)  
 - [2021-12-14-魔都移动宽带上传-1T-限速-30M](https://www.v2ex.com/t/822258) ![](assets/new.png)  
 - [2021-12-14-如何优雅地用一套-Magic-Keyboard-+-Trackpad（键盘+触控板）控制-2-台-Mac？](https://www.v2ex.com/t/822257) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-14-关于目前-Apple-Silicon-Crack-软件的现象观察](https://www.v2ex.com/t/822236) ![](assets/new.png)  
 - [2021-12-14-如何看待腾讯毛星云事件](https://www.v2ex.com/t/822235) ![](assets/new.png)  
 - [2021-12-14-Big-Sur-11.6.2-充电到-81%停了](https://www.v2ex.com/t/822232) ![](assets/new.png)  
-- [2021-12-14-Xcode-安装是真的慢](https://www.v2ex.com/t/822231) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

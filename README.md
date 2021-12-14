@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 10:24:36，:rocket: 更新条数: +1587， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 10:42:17，:rocket: 更新条数: +1586， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,11 +494,14 @@
 </summary>
 
 
+- [2021-12-14-退货-mbp16，可怎么都无法原样卡扣打包好电源线，头疼啊](https://www.v2ex.com/t/822204) ![](assets/new.png)  
+- [2021-12-14-windows-有啥办法能够在使用-ctrl-+-win-+方向键切换桌面时，显示桌面标题吗](https://www.v2ex.com/t/822203) ![](assets/new.png)  
+- [2021-12-14-KeyboardHolder-输入法切换辅助工具-V1.4.1](https://www.v2ex.com/t/822202) ![](assets/new.png)  
+- [2021-12-14-各位大佬有推荐的区块链开发社区吗？](https://www.v2ex.com/t/822201) ![](assets/new.png)  
 - [2021-12-14-iOS-15.2-无法添加-iCloud-账户恢复联系人](https://www.v2ex.com/t/822200) ![](assets/new.png)  
 - [2021-12-14-windows-版微信，每天在-Roaming\Tencent\WeChat\log-下生成一个名为-MM_2021MMdd.xlog-的日志，一天下来要-1-个-G-多](https://www.v2ex.com/t/822199) ![](assets/new.png)  
 - [2021-12-14-机房电脑死机，拔电源强制关机进-u-盘系统，无法读取-C-盘](https://www.v2ex.com/t/822198) ![](assets/new.png)  
 - [2021-12-14-发现一个爬-v2-的农场站](https://www.v2ex.com/t/822197) ![](assets/new.png)  
-- [2021-12-14-问问各位码农，每天真实的工作时间是多久？](https://www.v2ex.com/t/822196) ![](assets/new.png)  
 - [2021-12-14-迫于想为深圳的求职者提供更精准优质的服务，我们做了一个有奖（现金红包）调研，无隐私疑虑](https://www.v2ex.com/t/822195) ![](assets/new.png)  
 - [2021-12-14-为了省-18-块钱，我决定自己开发一个-switch-照片同步小工具](https://www.v2ex.com/t/822194) ![](assets/new.png)  
 - [2021-12-14-Docker-可以对容器进行网络访问控制吗？](https://www.v2ex.com/t/822193) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-14-北京积加科技招聘-C++开发工程师](https://www.v2ex.com/t/822186) ![](assets/new.png)  
 - [2021-12-14-多年-PHP-开发求一份能转-Java-||-Go-||-Rust-的远程工作](https://www.v2ex.com/t/822183) ![](assets/new.png)  
 - [2021-12-14-18-年至今，-BTC-未确认的交易，有没有原始交易数据下载](https://www.v2ex.com/t/822182) ![](assets/new.png)  
-- [2021-12-14-我有个疑问困扰很多年的问题,Android-如何写单元测试](https://www.v2ex.com/t/822181) ![](assets/new.png)  
-- [2021-12-14-股票或虚拟币种草接龙](https://www.v2ex.com/t/822179) ![](assets/new.png)  
-- [2021-12-14-Apple-Watch久坐提醒原生功能好呆板](https://www.v2ex.com/t/822178) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

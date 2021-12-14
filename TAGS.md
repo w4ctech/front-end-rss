@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-14 06:15:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-14 06:26:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -106,7 +106,6 @@
 
 
 
-- [【V2EX】V862c-光猫有车，不知道这回能不能上成，干满带宽。](https://www.v2ex.com/t/822073)
 - [【开发者头条】HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
@@ -295,8 +294,8 @@
 
 
 
+- [【V2EX】WSL-debian-vim-编辑文件不显示文本内容](https://www.v2ex.com/t/822125)
 - [【V2EX】怎么检测-https-服务器支持哪些-TLS-版本？](https://www.v2ex.com/t/822088)
-- [【V2EX】MacOS-系统-last-reboot-信息写在哪个文件，如何清除重启信息？](https://www.v2ex.com/t/822075)
 - [【开发者头条】Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1)
 - [【开发者头条】云原生的下一步，或从WebAssembly在边缘取代Docker开始](https://toutiao.io/k/5y8ajwx)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -350,7 +349,6 @@
 
 
 
-- [【V2EX】王者荣耀岗位招聘信息，欢迎沟通与简历投递~](https://www.v2ex.com/t/822072)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

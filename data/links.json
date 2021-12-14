@@ -7709,6 +7709,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "狂人日记读不下去了",
+        "link": "https://www.v2ex.com/t/822259",
+        "date": "2021-12-14"
+      },
+      {
         "title": "魔都移动宽带上传 1T 限速 30M",
         "link": "https://www.v2ex.com/t/822258",
         "date": "2021-12-14"
@@ -8103,13 +8108,8 @@
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
+        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
+        "link": "https://toutiao.io/k/96zw0k6",
         "date": "2021-12-14"
       },
       {
@@ -8118,33 +8118,8 @@
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
-        "date": "2021-12-14"
-      },
-      {
         "title": "[推荐] Google：12 条 Golang 最佳实践",
         "link": "https://toutiao.io/k/x06am1r",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
-        "link": "https://toutiao.io/k/96zw0k6",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 京东秒杀架构升级优化实践",
-        "link": "https://toutiao.io/k/4cxy94p",
         "date": "2021-12-14"
       },
       {
@@ -8153,8 +8128,38 @@
         "date": "2021-12-14"
       },
       {
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
+        "date": "2021-12-14"
+      },
+      {
         "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
         "link": "https://toutiao.io/k/ksd0hqy",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 京东秒杀架构升级优化实践",
+        "link": "https://toutiao.io/k/4cxy94p",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
         "date": "2021-12-14"
       }
     ]

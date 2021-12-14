@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-13 23:55:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-14 00:41:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,7 +39,6 @@
 
 
 
-- [【开发者头条】Git-+-Webhook-+-Node.js实现服务器自动化更新部署](https://toutiao.io/k/t3dx1h2)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -91,7 +90,6 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
-- [【开发者头条】如何把Python应用构建为Docker容器](https://toutiao.io/k/ybi7p4m)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -108,7 +106,7 @@
 
 
 
-- [【开发者头条】好未来数据中台-Node.js-BFF-实践（一）：基础篇](https://toutiao.io/k/am5dok8)
+- [【开发者头条】HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -251,9 +249,8 @@
 
 
 
-- [【开发者头条】Web-性能优化：控制关键请求的优先级](https://toutiao.io/k/60k6uks)
-- [【开发者头条】推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p)
 - [【开发者头条】推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a)
+- [【开发者头条】推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -277,9 +274,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)
 - [【V2EX】Firefox-浏览器访问微软出现-OCSP-错误](https://www.v2ex.com/t/821989)
-- [【开发者头条】https引起的跨域问题-COE&casestudy](https://toutiao.io/k/bim4wzo)
-- [【开发者头条】打印STRUCT中FIELD内存对齐的小工具](https://toutiao.io/k/lmrze77)
-- [【开发者头条】Apache-Log4j-2-报高危漏洞，CODING-联手腾讯安全护卫软件安全](https://toutiao.io/k/mk63agd)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -297,7 +291,7 @@
 
 
 - [【V2EX】求教算法大佬，有没有-B+树的运算算法？如-A-树-=-B-树-+-C-树，-C-树-=-A-树---B-树。](https://www.v2ex.com/t/821972)
-- [【开发者头条】关于-Log4j-高危漏洞，有必要优先关注-Elastic-官方的综合研判......](https://toutiao.io/k/rl2fax5)
+- [【开发者头条】Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -314,6 +308,7 @@
 
 
 
+- [【开发者头条】Presto-在字节跳动的应用](https://toutiao.io/k/tilys48)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

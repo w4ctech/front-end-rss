@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 07:54:30，:rocket: 更新条数: +1582， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 08:15:53，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-14-12月13日全国新增新冠76例-四省份本土51例](https://m.caixin.com/m/2021-12-14/101817307.html) ![](assets/new.png)  
+- [2021-12-14-【境内疫情观察】天津从入境闭环管控人员检出奥密克戎变异株（12月13日）](https://database.caixin.com/m/2021-12-14/101817528.html) ![](assets/new.png)  
 - [2021-12-14-英国报告首例奥密克戎死亡，加拿大感染上升｜大流行手记（12月13日）](https://m.caixin.com/m/2021-12-14/101817333.html) ![](assets/new.png)  
 - [2021-12-13-浙江杭绍甬八日累计新冠近200例-三地将严控出行至明年3月](https://m.caixin.com/m/2021-12-13/101817234.html) ![](assets/new.png)  
 - [2021-12-13-天津从入境人员中检出奥密克戎变异株](https://china.caixin.com/m/2021-12-13/101817231.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-10-欧盟疫苗通行证有效期或为9个月-英格兰启动B计划｜大流行手记（12月9日）](https://m.caixin.com/m/2021-12-10/101815972.html) ![](assets/new.png)  
 - [2021-12-10-【图集】中国首个抗新冠病毒特效药获批上市](https://photos.caixin.com/m/2021-12-10/101816178.html) ![](assets/new.png)  
 - [2021-12-09-浙江五天累计阳性59例-省内三地防疫措施升级](https://m.caixin.com/m/2021-12-09/101815867.html) ![](assets/new.png)  
-- [2021-12-09-腾盛博药新冠中和抗体获批上市-正探讨国家战略储备采购](https://m.caixin.com/m/2021-12-09/101815619.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-14-命令行风格的个人主页？](https://www.v2ex.com/t/822146) ![](assets/new.png)  
+- [2021-12-14-京东购腾讯视频会员好价](https://www.v2ex.com/t/822145) ![](assets/new.png)  
 - [2021-12-14-计算机类的网课哪里比较多？](https://www.v2ex.com/t/822143) ![](assets/new.png)  
 - [2021-12-14-Monterey-12.1-收不到更新](https://www.v2ex.com/t/822142) ![](assets/new.png)  
 - [2021-12-14-请教一个-SQL-查询](https://www.v2ex.com/t/822141) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-14-红米-note11-pro-如何设置只使用-NSA-模式，是软件还是硬件问题](https://www.v2ex.com/t/822126) ![](assets/new.png)  
 - [2021-12-14-WSL-debian-vim-编辑文件不显示文本内容](https://www.v2ex.com/t/822125) ![](assets/new.png)  
 - [2021-12-14-如何查看电脑上的软件的数据交互](https://www.v2ex.com/t/822123) ![](assets/new.png)  
-- [2021-12-14-两台电脑升级-12.1-之后，屏幕镜像功能出现了问题](https://www.v2ex.com/t/822122) ![](assets/new.png)  
-- [2021-12-14-在-Apple-官方买设备连续两年都是顺丰送的，这次买-ip13pro-就成邮政了](https://www.v2ex.com/t/822121) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2021-12-14-Presto-在字节跳动的应用](https://toutiao.io/k/tilys48) ![](assets/new.png)  
 - [2021-12-14-干掉visio，这个画图神器真的绝了！！！](https://toutiao.io/k/wbcblht) ![](assets/new.png)  
 - [2021-12-14-跑了4个实验，实战讲解-MySQL的行锁、间隙锁...​](https://toutiao.io/k/j6zhfoc) ![](assets/new.png)  
-- [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
 - [2021-12-14-后端开发实践系列之一：Spring-Boot项目模板](https://toutiao.io/k/99knvya) ![](assets/new.png)  
+- [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
 - [2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) ![](assets/new.png)  
 - [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
 - [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  

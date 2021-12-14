@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-14 07:54:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-14 08:15:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2021-12-14-12月13日全国新增新冠76例-四省份本土51例](https://m.caixin.com/m/2021-12-14/101817307.html) 
+- [2021-12-14-【境内疫情观察】天津从入境闭环管控人员检出奥密克戎变异株（12月13日）](https://database.caixin.com/m/2021-12-14/101817528.html) 
 - [2021-12-14-英国报告首例奥密克戎死亡，加拿大感染上升｜大流行手记（12月13日）](https://m.caixin.com/m/2021-12-14/101817333.html) 
 - [2021-12-13-浙江杭绍甬八日累计新冠近200例-三地将严控出行至明年3月](https://m.caixin.com/m/2021-12-13/101817234.html) 
 - [2021-12-13-天津从入境人员中检出奥密克戎变异株](https://china.caixin.com/m/2021-12-13/101817231.html) 
@@ -1467,6 +1468,7 @@
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [2021-12-14-命令行风格的个人主页？](https://www.v2ex.com/t/822146) 
 - [2021-12-14-计算机类的网课哪里比较多？](https://www.v2ex.com/t/822143) 
 - [2021-12-14-Monterey-12.1-收不到更新](https://www.v2ex.com/t/822142) 
 - [2021-12-14-请教一个-SQL-查询](https://www.v2ex.com/t/822141) 
@@ -1492,10 +1494,6 @@
 - [2021-12-14-睡个午觉，腾讯云电信方向是不是炸了](https://www.v2ex.com/t/822109) 
 - [2021-12-14-求助Fitness+境内无法显示，是否有办法可以激活](https://www.v2ex.com/t/822108) 
 - [2021-12-14-两台-macbook，如何快速将一台旧-mbp-应用文件复装到新-mbp-上？](https://www.v2ex.com/t/822104) 
-- [2021-12-14-分享一个在小红书购物经历](https://www.v2ex.com/t/822099) 
-- [2021-12-14-没有-4g-代理吗？](https://www.v2ex.com/t/822098) 
-- [2021-12-14-iOS-15.2-新增的-App-隐私报告的疑问](https://www.v2ex.com/t/822097) 
-- [2021-12-14-昨天-tg-亚洲的服务器是否有部分崩了？](https://www.v2ex.com/t/822094) 
 - [2021-12-14-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-14-鸿蒙OS、安卓、iOS测试对比，结果出乎意料！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14847&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9RWmROLInm3RJpX1ZHjHmw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-14-张一鸣：给产品技术人才的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14846&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492724%26amp%3Bidx%3D2%26amp%3Bsn%3D3d506086a6e038c1eb1a4b9f404f90c1%26amp%3Bchksm%3Dfa3f052fcd488c395f8202745eff3a5d4db9f15102f06042d8683d94a108dab53b582fe57726%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1528,12 +1526,12 @@
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) 
 - [2021-12-14-十年所学，终成《代码随想录》！](https://toutiao.io/k/cuyn1bs) 
 - [2021-12-14-酒话：Copilot-和运维代码](https://toutiao.io/k/ah9idl7) 
+- [2021-12-14-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
+- [2021-12-14-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [2021-12-14-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
 - [2021-12-14-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
 - [2021-12-14-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
-- [2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
-- [2021-12-14-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
-- [2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
-- [2021-12-14-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
-- [2021-12-14-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [2021-12-14-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
 - [2021-12-14-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
+- [2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
+- [2021-12-14-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 

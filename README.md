@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 13:09:31，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 13:20:40，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-14-Big-Sur-11.6.2-充电到-81%停了](https://www.v2ex.com/t/822232) ![](assets/new.png)  
+- [2021-12-14-Xcode-安装是真的慢](https://www.v2ex.com/t/822231) ![](assets/new.png)  
 - [2021-12-14-有用到-Swift-Package-的，这两天别让应用商店把-Xcode-升到-13.2](https://www.v2ex.com/t/822230) ![](assets/new.png)  
 - [2021-12-14-在-iCloud-同步设置中打开-iCloud-Mail](https://www.v2ex.com/t/822229) ![](assets/new.png)  
 - [2021-12-14-完全使用国外的网络服务能否做到在国内完全隐身？](https://www.v2ex.com/t/822228) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-14-如何用-Windows-下载-gcc-指定版本](https://www.v2ex.com/t/822212) ![](assets/new.png)  
 - [2021-12-14-升级-macOS-12.1-后，-AOC-卢瓦尔-LV273HUPR-恢复反向供电了](https://www.v2ex.com/t/822210) ![](assets/new.png)  
 - [2021-12-14-请教：-J4125-准备-PVE-跑-openwrt-+-Win10，-4G-内存够不够？](https://www.v2ex.com/t/822208) ![](assets/new.png)  
-- [2021-12-14-请教-PHP-的-session-gc-maxlifetime-设置的过期时间，是依据-session-文件的访问时间（atime），还是修改时间计算的呢？](https://www.v2ex.com/t/822207) ![](assets/new.png)  
-- [2021-12-14-是-tx-的恶意还是小米的误报？](https://www.v2ex.com/t/822206) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

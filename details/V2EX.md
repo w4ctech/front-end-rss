@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-14 13:09:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-14 13:20:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-14-Big-Sur-11.6.2-充电到-81%停了](https://www.v2ex.com/t/822232) 
+- [2021-12-14-Xcode-安装是真的慢](https://www.v2ex.com/t/822231) 
 - [2021-12-14-有用到-Swift-Package-的，这两天别让应用商店把-Xcode-升到-13.2](https://www.v2ex.com/t/822230) 
 - [2021-12-14-在-iCloud-同步设置中打开-iCloud-Mail](https://www.v2ex.com/t/822229) 
 - [2021-12-14-完全使用国外的网络服务能否做到在国内完全隐身？](https://www.v2ex.com/t/822228) 
@@ -45,5 +47,3 @@
 - [2021-12-14-MySQL-作为-Binlog-Server-的可行性？](https://www.v2ex.com/t/822187) 
 - [2021-12-14-北京积加科技招聘-C++开发工程师](https://www.v2ex.com/t/822186) 
 - [2021-12-14-多年-PHP-开发求一份能转-Java-||-Go-||-Rust-的远程工作](https://www.v2ex.com/t/822183) 
-- [2021-12-14-18-年至今，-BTC-未确认的交易，有没有原始交易数据下载](https://www.v2ex.com/t/822182) 
-- [2021-12-14-我有个疑问困扰很多年的问题,Android-如何写单元测试](https://www.v2ex.com/t/822181) 

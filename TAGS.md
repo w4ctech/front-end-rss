@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-14 09:13:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-14 09:25:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -293,7 +293,6 @@
 
 
 
-- [【V2EX】WSL-debian-vim-编辑文件不显示文本内容](https://www.v2ex.com/t/822125)
 - [【开发者头条】Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1)
 - [【开发者头条】云原生的下一步，或从WebAssembly在边缘取代Docker开始](https://toutiao.io/k/5y8ajwx)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -329,7 +328,6 @@
 
 
 
-- [【V2EX】修改了-hosts，依然不能访问-github，请问有什么其他解决方案吗](https://www.v2ex.com/t/822131)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -346,7 +344,6 @@
 
 
 
-- [【V2EX】最近投简历都被拒了，面试机会都没有，求大佬指点下](https://www.v2ex.com/t/822127)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

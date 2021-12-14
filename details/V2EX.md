@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-14 19:54:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-14 20:13:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -23,7 +23,6 @@
 - [2021-12-14-一个新的-Code-Editor-https://news.ycombinator.com/item?id=29549173](https://www.v2ex.com/t/822240) 
 - [2021-12-14-18-款-MBP-还有免费的涂层更换计划吗？](https://www.v2ex.com/t/822238) 
 - [2021-12-14-还有多少人在用-Alfred？你们用的版本是？](https://www.v2ex.com/t/822237) 
-- [2021-12-14-关于目前-Apple-Silicon-Crack-软件的现象观察](https://www.v2ex.com/t/822236) 
 - [2021-12-14-如何看待腾讯毛星云事件](https://www.v2ex.com/t/822235) 
 - [2021-12-14-Big-Sur-11.6.2-充电到-81%停了](https://www.v2ex.com/t/822232) 
 - [2021-12-14-Xcode-安装是真的慢](https://www.v2ex.com/t/822231) 

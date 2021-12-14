@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 19:54:25，:rocket: 更新条数: +1586， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 20:13:40，:rocket: 更新条数: +1585， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -512,8 +512,8 @@
 - [2021-12-14-一个新的-Code-Editor-https://news.ycombinator.com/item?id=29549173](https://www.v2ex.com/t/822240) ![](assets/new.png)  
 - [2021-12-14-18-款-MBP-还有免费的涂层更换计划吗？](https://www.v2ex.com/t/822238) ![](assets/new.png)  
 - [2021-12-14-还有多少人在用-Alfred？你们用的版本是？](https://www.v2ex.com/t/822237) ![](assets/new.png)  
-- [2021-12-14-关于目前-Apple-Silicon-Crack-软件的现象观察](https://www.v2ex.com/t/822236) ![](assets/new.png)  
 - [2021-12-14-如何看待腾讯毛星云事件](https://www.v2ex.com/t/822235) ![](assets/new.png)  
+- [2021-12-14-Big-Sur-11.6.2-充电到-81%停了](https://www.v2ex.com/t/822232) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

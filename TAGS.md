@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-14 09:44:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-14 09:56:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -344,7 +344,8 @@
 
 
 
-- [【V2EX】招聘-C++开发工程师](https://www.v2ex.com/t/822186)
+- [【V2EX】校招-USING.AI-招聘研发工程师](https://www.v2ex.com/t/822190)
+- [【V2EX】北京积加科技招聘-C++开发工程师](https://www.v2ex.com/t/822186)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

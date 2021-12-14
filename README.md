@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 09:44:44，:rocket: 更新条数: +1581， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 09:56:38，:rocket: 更新条数: +1581， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,9 +494,13 @@
 </summary>
 
 
+- [2021-12-14-看到一个很奇怪的东西](https://www.v2ex.com/t/822192) ![](assets/new.png)  
+- [2021-12-14-北京|字节跳动-急招后端开发工程师-15-60K-x-15+](https://www.v2ex.com/t/822191) ![](assets/new.png)  
+- [2021-12-14-校招-USING.AI-招聘研发工程师](https://www.v2ex.com/t/822190) ![](assets/new.png)  
+- [2021-12-14-PHP-的-ini_set-设置，是否会影响-别的虚拟站点（vhost）](https://www.v2ex.com/t/822189) ![](assets/new.png)  
 - [2021-12-14-Docker-Desktop-更新问题](https://www.v2ex.com/t/822188) ![](assets/new.png)  
 - [2021-12-14-MySQL-作为-Binlog-Server-的可行性？](https://www.v2ex.com/t/822187) ![](assets/new.png)  
-- [2021-12-14-招聘-C++开发工程师](https://www.v2ex.com/t/822186) ![](assets/new.png)  
+- [2021-12-14-北京积加科技招聘-C++开发工程师](https://www.v2ex.com/t/822186) ![](assets/new.png)  
 - [2021-12-14-多年-PHP-开发求一份能转-Java-||-Go-||-Rust-的远程工作](https://www.v2ex.com/t/822183) ![](assets/new.png)  
 - [2021-12-14-18-年至今，-BTC-未确认的交易，有没有原始交易数据下载](https://www.v2ex.com/t/822182) ![](assets/new.png)  
 - [2021-12-14-我有个疑问困扰很多年的问题,Android-如何写单元测试](https://www.v2ex.com/t/822181) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-14-蚂蚁---可信原生技术部---专用编程语言设计研发杭州-P7-8](https://www.v2ex.com/t/822170) ![](assets/new.png)  
 - [2021-12-14-问个增量更新的办法。](https://www.v2ex.com/t/822169) ![](assets/new.png)  
 - [2021-12-14-突然发现-i-remember.fr-这个网站关闭了](https://www.v2ex.com/t/822168) ![](assets/new.png)  
-- [2021-12-14-你们有没有一段时间因为生活太过规律而感到不适应？](https://www.v2ex.com/t/822167) ![](assets/new.png)  
-- [2021-12-14-树莓派-+-Android-TV-控制器方案选择](https://www.v2ex.com/t/822165) ![](assets/new.png)  
-- [2021-12-14-现在的-tts-竟然已经成熟到主播可以失业了](https://www.v2ex.com/t/822163) ![](assets/new.png)  
-- [2021-12-14-各位觉得现在论坛使用什么注册方式最友好](https://www.v2ex.com/t/822162) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

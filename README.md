@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 15:47:46，:rocket: 更新条数: +1587， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 16:18:20，:rocket: 更新条数: +1584， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-14-如今电信宽带的优势在哪里？三大之间的价格差距为何那么大](https://www.v2ex.com/t/822252) ![](assets/new.png)  
 - [2021-12-14-海外的朋友们，你们哪里正宗的液态奶有哪些？](https://www.v2ex.com/t/822250) ![](assets/new.png)  
 - [2021-12-14-Magician-2.0-发布，彻底抛弃底层，全面迎接-Netty](https://www.v2ex.com/t/822249) ![](assets/new.png)  
 - [2021-12-14-深圳光明求租](https://www.v2ex.com/t/822247) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-14-完全使用国外的网络服务能否做到在国内完全隐身？](https://www.v2ex.com/t/822228) ![](assets/new.png)  
 - [2021-12-14-注意：-16-寸-M1-Max-与-LG-UltraFine-5K-有兼容性问题](https://www.v2ex.com/t/822227) ![](assets/new.png)  
 - [2021-12-14-有什么好的截图工具](https://www.v2ex.com/t/822226) ![](assets/new.png)  
-- [2021-12-14-有大佬知道-960G-内存的服务器一般都干啥用？一般都怎么用？](https://www.v2ex.com/t/822225) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,13 +562,13 @@
 - [2021-12-14-博采-27-门语言之长，提升-Python-的能力](https://toutiao.io/k/zj8h866) ![](assets/new.png)  
 - [2021-12-14-传统架构-vs-云原生架构，谈谈为什么我们需要云原生架构？](https://toutiao.io/k/8fsph1v) ![](assets/new.png)  
 - [2021-12-14-干掉visio，这个画图神器真的绝了！！！](https://toutiao.io/k/wbcblht) ![](assets/new.png)  
-- [2021-12-14-跑了4个实验，实战讲解-MySQL的行锁、间隙锁...​](https://toutiao.io/k/j6zhfoc) ![](assets/new.png)  
 - [2021-12-14-Presto-在字节跳动的应用](https://toutiao.io/k/tilys48) ![](assets/new.png)  
+- [2021-12-14-跑了4个实验，实战讲解-MySQL的行锁、间隙锁...​](https://toutiao.io/k/j6zhfoc) ![](assets/new.png)  
 - [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
 - [2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) ![](assets/new.png)  
 - [2021-12-14-后端开发实践系列之一：Spring-Boot项目模板](https://toutiao.io/k/99knvya) ![](assets/new.png)  
-- [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
 - [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
+- [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
 - [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
 - [2021-12-14-酒话：Copilot-和运维代码](https://toutiao.io/k/ah9idl7) ![](assets/new.png)  

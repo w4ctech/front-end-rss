@@ -7704,6 +7704,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "一个新的 Code Editor https://news.ycombinator.com/item?id=29549173",
+        "link": "https://www.v2ex.com/t/822240",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "18 款 MBP 还有免费的涂层更换计划吗？",
+        "link": "https://www.v2ex.com/t/822238",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "还有多少人在用 Alfred？你们用的版本是？",
+        "link": "https://www.v2ex.com/t/822237",
+        "date": "2021-12-14"
+      },
+      {
         "title": "关于目前 Apple Silicon Crack 软件的现象观察",
         "link": "https://www.v2ex.com/t/822236",
         "date": "2021-12-14"
@@ -7891,26 +7906,6 @@
       {
         "title": "北京|字节跳动-急招后端开发工程师 15-60K x 15+",
         "link": "https://www.v2ex.com/t/822191",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[校招] [USING.AI] 招聘研发工程师",
-        "link": "https://www.v2ex.com/t/822190",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "PHP 的 ini_set 设置，是否会影响 别的虚拟站点（vhost）",
-        "link": "https://www.v2ex.com/t/822189",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "Docker Desktop 更新问题",
-        "link": "https://www.v2ex.com/t/822188",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "MySQL 作为 Binlog Server 的可行性？",
-        "link": "https://www.v2ex.com/t/822187",
         "date": "2021-12-14"
       }
     ]
@@ -8128,13 +8123,18 @@
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
-        "link": "https://toutiao.io/k/8k28pnf",
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
         "date": "2021-12-14"
       },
       {
@@ -8143,8 +8143,18 @@
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 京东秒杀架构升级优化实践",
-        "link": "https://toutiao.io/k/4cxy94p",
+        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
+        "link": "https://toutiao.io/k/8k28pnf",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
         "date": "2021-12-14"
       },
       {
@@ -8158,28 +8168,13 @@
         "date": "2021-12-14"
       },
       {
+        "title": "[推荐] 京东秒杀架构升级优化实践",
+        "link": "https://toutiao.io/k/4cxy94p",
+        "date": "2021-12-14"
+      },
+      {
         "title": "[推荐] 服务 API 版本控制设计与实践",
         "link": "https://toutiao.io/k/puc84fn",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
         "date": "2021-12-14"
       }
     ]

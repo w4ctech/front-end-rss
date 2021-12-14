@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 19:11:19，:rocket: 更新条数: +1585， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 19:23:26，:rocket: 更新条数: +1586， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-14-阿里云盘怎么批量导出备份的照片？](https://www.v2ex.com/t/822261) ![](assets/new.png)  
 - [2021-12-14-M1-Max-频繁卡死](https://www.v2ex.com/t/822260) ![](assets/new.png)  
 - [2021-12-14-狂人日记读不下去了](https://www.v2ex.com/t/822259) ![](assets/new.png)  
 - [2021-12-14-魔都移动宽带上传-1T-限速-30M](https://www.v2ex.com/t/822258) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-14-还有多少人在用-Alfred？你们用的版本是？](https://www.v2ex.com/t/822237) ![](assets/new.png)  
 - [2021-12-14-关于目前-Apple-Silicon-Crack-软件的现象观察](https://www.v2ex.com/t/822236) ![](assets/new.png)  
 - [2021-12-14-如何看待腾讯毛星云事件](https://www.v2ex.com/t/822235) ![](assets/new.png)  
-- [2021-12-14-Big-Sur-11.6.2-充电到-81%停了](https://www.v2ex.com/t/822232) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,8 +567,8 @@
 - [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
 - [2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) ![](assets/new.png)  
 - [2021-12-14-后端开发实践系列之一：Spring-Boot项目模板](https://toutiao.io/k/99knvya) ![](assets/new.png)  
-- [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
 - [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
+- [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
 - [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
 - [2021-12-14-酒话：Copilot-和运维代码](https://toutiao.io/k/ah9idl7) ![](assets/new.png)  

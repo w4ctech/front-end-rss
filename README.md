@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 02:01:34，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 02:14:21，:rocket: 更新条数: +1578， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-14-12月13日全国新增新冠76例-四省份本土51例](https://m.caixin.com/m/2021-12-14/101817307.html) ![](assets/new.png)  
+- [2021-12-14-英国报告首例奥密克戎死亡，加拿大感染上升｜大流行手记（12月13日）](https://m.caixin.com/m/2021-12-14/101817333.html) ![](assets/new.png)  
 - [2021-12-13-浙江杭绍甬八日累计新冠近200例-三地将严控出行至明年3月](https://m.caixin.com/m/2021-12-13/101817234.html) ![](assets/new.png)  
 - [2021-12-13-天津从入境人员中检出奥密克戎变异株](https://china.caixin.com/m/2021-12-13/101817231.html) ![](assets/new.png)  
 - [2021-12-13-香港研究显示复必泰疫苗对Omicron中和抗体大减-或期加强针](https://m.caixin.com/m/2021-12-13/101817198.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-10-【图集】中国首个抗新冠病毒特效药获批上市](https://photos.caixin.com/m/2021-12-10/101816178.html) ![](assets/new.png)  
 - [2021-12-09-浙江五天累计阳性59例-省内三地防疫措施升级](https://m.caixin.com/m/2021-12-09/101815867.html) ![](assets/new.png)  
 - [2021-12-09-腾盛博药新冠中和抗体获批上市-正探讨国家战略储备采购](https://m.caixin.com/m/2021-12-09/101815619.html) ![](assets/new.png)  
-- [2021-12-09-【境内疫情观察】全国新增60例本土病例（12月8日）](https://database.caixin.com/m/2021-12-09/101815553.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-14-广州旺村地铁站公寓-1499-出租，民电，本人房东直租](https://www.v2ex.com/t/822047) ![](assets/new.png)  
+- [2021-12-14-macOS-Monterey-12.1-触控板轻点问题还是没修复](https://www.v2ex.com/t/822046) ![](assets/new.png)  
+- [2021-12-14-刷了-Pixel-Experience-后连-WI-FI-网络总是提示可能会被攻击](https://www.v2ex.com/t/822045) ![](assets/new.png)  
 - [2021-12-14-还有人用-Leanote-吗，被迫-fork-修改了一点源码](https://www.v2ex.com/t/822044) ![](assets/new.png)  
 - [2021-12-14-iPhone13Pro-离谱的耗电与"钉子户"](https://www.v2ex.com/t/822043) ![](assets/new.png)  
 - [2021-12-14-私活做好的项目后续维护怎么定价比较好](https://www.v2ex.com/t/822042) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-14-写在-2022-之前-4-年半再谈程序员英语学习-有多少人还在坚持？](https://www.v2ex.com/t/822022) ![](assets/new.png)  
 - [2021-12-14-分享一个能看每天-V2EX-最热的网站，又一个-V2HOT-来了](https://www.v2ex.com/t/822020) ![](assets/new.png)  
 - [2021-12-14-悦跑圈为什么各大应用市场无法下载了？](https://www.v2ex.com/t/822019) ![](assets/new.png)  
-- [2021-12-14-一个想法，做一个修理电动车的-app](https://www.v2ex.com/t/822018) ![](assets/new.png)  
-- [2021-12-14-大家更看中另一半的什么?](https://www.v2ex.com/t/822017) ![](assets/new.png)  
-- [2021-12-14-有关职业规划的一些建议](https://www.v2ex.com/t/822015) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,17 +565,17 @@
 - [2021-12-14-Presto-在字节跳动的应用](https://toutiao.io/k/tilys48) ![](assets/new.png)  
 - [2021-12-14-后端开发实践系列之一：Spring-Boot项目模板](https://toutiao.io/k/99knvya) ![](assets/new.png)  
 - [2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) ![](assets/new.png)  
-- [2021-12-14-干掉visio，这个画图神器真的绝了！！！](https://toutiao.io/k/wbcblht) ![](assets/new.png)  
 - [2021-12-14-跑了4个实验，实战讲解-MySQL的行锁、间隙锁...​](https://toutiao.io/k/j6zhfoc) ![](assets/new.png)  
+- [2021-12-14-干掉visio，这个画图神器真的绝了！！！](https://toutiao.io/k/wbcblht) ![](assets/new.png)  
 - [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
+- [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
-- [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
-- [2021-12-14-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-14-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
 - [2021-12-14-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
-- [2021-12-14-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-14-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
 - [2021-12-14-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

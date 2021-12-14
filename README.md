@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 09:25:47，:rocket: 更新条数: +1585， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 09:40:51，:rocket: 更新条数: +1581， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-14-Docker-Desktop-更新问题](https://www.v2ex.com/t/822188) ![](assets/new.png)  
+- [2021-12-14-MySQL-作为-Binlog-Server-的可行性？](https://www.v2ex.com/t/822187) ![](assets/new.png)  
+- [2021-12-14-招聘-C++开发工程师](https://www.v2ex.com/t/822186) ![](assets/new.png)  
+- [2021-12-14-多年-PHP-开发求一份能转-Java-||-Go-||-Rust-的远程工作](https://www.v2ex.com/t/822183) ![](assets/new.png)  
+- [2021-12-14-18-年至今，-BTC-未确认的交易，有没有原始交易数据下载](https://www.v2ex.com/t/822182) ![](assets/new.png)  
 - [2021-12-14-我有个疑问困扰很多年的问题,Android-如何写单元测试](https://www.v2ex.com/t/822181) ![](assets/new.png)  
 - [2021-12-14-股票或虚拟币种草接龙](https://www.v2ex.com/t/822179) ![](assets/new.png)  
 - [2021-12-14-Apple-Watch久坐提醒原生功能好呆板](https://www.v2ex.com/t/822178) ![](assets/new.png)  
@@ -506,14 +511,9 @@
 - [2021-12-14-问个增量更新的办法。](https://www.v2ex.com/t/822169) ![](assets/new.png)  
 - [2021-12-14-突然发现-i-remember.fr-这个网站关闭了](https://www.v2ex.com/t/822168) ![](assets/new.png)  
 - [2021-12-14-你们有没有一段时间因为生活太过规律而感到不适应？](https://www.v2ex.com/t/822167) ![](assets/new.png)  
-- [2021-12-14-上海WLB-急招-Java-高级开发](https://www.v2ex.com/t/822166) ![](assets/new.png)  
 - [2021-12-14-树莓派-+-Android-TV-控制器方案选择](https://www.v2ex.com/t/822165) ![](assets/new.png)  
-- [2021-12-14-商汤科技-IPO-前被-BAN](https://www.v2ex.com/t/822164) ![](assets/new.png)  
 - [2021-12-14-现在的-tts-竟然已经成熟到主播可以失业了](https://www.v2ex.com/t/822163) ![](assets/new.png)  
 - [2021-12-14-各位觉得现在论坛使用什么注册方式最友好](https://www.v2ex.com/t/822162) ![](assets/new.png)  
-- [2021-12-14-Monterey-系统占用的本机端口](https://www.v2ex.com/t/822161) ![](assets/new.png)  
-- [2021-12-14-sqlalchemy-事务中出错没有进行回滚?](https://www.v2ex.com/t/822160) ![](assets/new.png)  
-- [2021-12-14-极兔速递](https://www.v2ex.com/t/822159) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
 - [2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) ![](assets/new.png)  
 - [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
-- [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
 - [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
+- [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
 - [2021-12-14-酒话：Copilot-和运维代码](https://toutiao.io/k/ah9idl7) ![](assets/new.png)  
 - [2021-12-14-云原生的下一步，或从WebAssembly在边缘取代Docker开始](https://toutiao.io/k/5y8ajwx) ![](assets/new.png)  

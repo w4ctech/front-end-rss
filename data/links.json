@@ -7704,6 +7704,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有用到 Swift Package 的，这两天别让应用商店把 Xcode 升到 13.2",
+        "link": "https://www.v2ex.com/t/822230",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "在 iCloud 同步设置中打开 iCloud Mail",
+        "link": "https://www.v2ex.com/t/822229",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "完全使用国外的网络服务能否做到在国内完全隐身？",
+        "link": "https://www.v2ex.com/t/822228",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "注意： 16 寸 M1 Max 与 LG UltraFine 5K 有兼容性问题",
+        "link": "https://www.v2ex.com/t/822227",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "有什么好的截图工具",
+        "link": "https://www.v2ex.com/t/822226",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "有大佬知道 960G 内存的服务器一般都干啥用？一般都怎么用？",
+        "link": "https://www.v2ex.com/t/822225",
+        "date": "2021-12-14"
+      },
+      {
         "title": "距离 2021 年结束还有半个月",
         "link": "https://www.v2ex.com/t/822223",
         "date": "2021-12-14"
@@ -7881,31 +7911,6 @@
       {
         "title": "我有个疑问困扰很多年的问题,Android 如何写单元测试",
         "link": "https://www.v2ex.com/t/822181",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "股票或虚拟币种草接龙",
-        "link": "https://www.v2ex.com/t/822179",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[Apple Watch][久坐提醒]原生功能好呆板",
-        "link": "https://www.v2ex.com/t/822178",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "WATCH 的健身 APP 的共享功能如何正确使用",
-        "link": "https://www.v2ex.com/t/822177",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "如何让深色模式黑的彻底点？",
-        "link": "https://www.v2ex.com/t/822176",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "请教一个开发中的问题，关于集群选举的。",
-        "link": "https://www.v2ex.com/t/822175",
         "date": "2021-12-14"
       }
     ]
@@ -8123,8 +8128,33 @@
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
-        "link": "https://toutiao.io/k/8k28pnf",
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
         "date": "2021-12-14"
       },
       {
@@ -8138,43 +8168,18 @@
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
-        "date": "2021-12-14"
-      },
-      {
         "title": "[推荐] 京东秒杀架构升级优化实践",
         "link": "https://toutiao.io/k/4cxy94p",
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
+        "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
+        "link": "https://toutiao.io/k/8k28pnf",
         "date": "2021-12-14"
       },
       {
         "title": "[推荐] 程序员的 10 个好习惯",
         "link": "https://toutiao.io/k/2y6pnqa",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
         "date": "2021-12-14"
       }
     ]

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-14 02:38:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-14 02:48:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-14-血氧和-ECG-图标显示问题](https://www.v2ex.com/t/822059) 
+- [2021-12-14-大家新增数字遗产了吗？](https://www.v2ex.com/t/822058) 
 - [2021-12-14-更新后设置好的网络没有了](https://www.v2ex.com/t/822055) 
 - [2021-12-14-请问-Linux-环境下使用-Python-selenium-出错、这是怎么回事？](https://www.v2ex.com/t/822054) 
 - [2021-12-14-升级-Monterey-便无法与-iPhone-蓝牙配对了](https://www.v2ex.com/t/822053) 
@@ -41,6 +43,3 @@
 - [2021-12-13-国行-ECG-上线了](https://www.v2ex.com/t/822012) 
 - [2021-12-13-请教如何实现一个防-bot-注册的站点注册-API](https://www.v2ex.com/t/822011) 
 - [2021-12-13-鉴于-netgear-自带的-noip-近段时间-ddns-抽风，打算换成-dynu.net,不知福这个如何？](https://www.v2ex.com/t/822010) 
-- [2021-12-13-全职或兼职智能合约程序员。远程工作。时间灵活](https://www.v2ex.com/t/822009) 
-- [2021-12-13-远程工作-华尔街创业公司诚聘区块链相关职位-销售经理/运营经理/中文编辑）](https://www.v2ex.com/t/822008) 
-- [2021-12-13-GpgFrontend-v2.0.2-发布-继续保护你的隐私-然后准备上架一些应用市场了](https://www.v2ex.com/t/822006) 

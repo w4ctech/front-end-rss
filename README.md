@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 02:38:16，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 02:48:50，:rocket: 更新条数: +1578， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-14-血氧和-ECG-图标显示问题](https://www.v2ex.com/t/822059) ![](assets/new.png)  
+- [2021-12-14-大家新增数字遗产了吗？](https://www.v2ex.com/t/822058) ![](assets/new.png)  
 - [2021-12-14-更新后设置好的网络没有了](https://www.v2ex.com/t/822055) ![](assets/new.png)  
 - [2021-12-14-请问-Linux-环境下使用-Python-selenium-出错、这是怎么回事？](https://www.v2ex.com/t/822054) ![](assets/new.png)  
 - [2021-12-14-升级-Monterey-便无法与-iPhone-蓝牙配对了](https://www.v2ex.com/t/822053) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-14-请教访达能直接用通配符或者正则搜索扩展名吗](https://www.v2ex.com/t/822039) ![](assets/new.png)  
 - [2021-12-14-人的一生可以组成多少家庭？](https://www.v2ex.com/t/822038) ![](assets/new.png)  
 - [2021-12-14-买辆车，等了-6-个半月还未提](https://www.v2ex.com/t/822035) ![](assets/new.png)  
-- [2021-12-14-外包项目找安卓](https://www.v2ex.com/t/822034) ![](assets/new.png)  
-- [2021-12-14-偶然搜到一条和程序员有关的新闻，比较有意思，不知道大家怎么看](https://www.v2ex.com/t/822033) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
-- [2021-12-14-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
-- [2021-12-14-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
-- [2021-12-14-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
 - [2021-12-14-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-14-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
+- [2021-12-14-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
+- [2021-12-14-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-14-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 22:56:04，:rocket: 更新条数: +1584， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 23:13:11，:rocket: 更新条数: +1584， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-14-M1-Macbook-Air-待机耗电异常](https://www.v2ex.com/t/822264) ![](assets/new.png)  
 - [2021-12-14-关于-log4j2-的远程代码执行漏洞对-ELK-的影响](https://www.v2ex.com/t/822263) ![](assets/new.png)  
 - [2021-12-14-忍不了了，做了个插件让-OneNote-支持-Markdown](https://www.v2ex.com/t/822262) ![](assets/new.png)  
 - [2021-12-14-阿里云盘怎么批量导出备份的照片？](https://www.v2ex.com/t/822261) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-14-Mac-下的视频播放器，想要个固定的右侧播放列表好难啊。。](https://www.v2ex.com/t/822242) ![](assets/new.png)  
 - [2021-12-14-一个新的-Code-Editor-https://news.ycombinator.com/item?id=29549173](https://www.v2ex.com/t/822240) ![](assets/new.png)  
 - [2021-12-14-18-款-MBP-还有免费的涂层更换计划吗？](https://www.v2ex.com/t/822238) ![](assets/new.png)  
-- [2021-12-14-还有多少人在用-Alfred？你们用的版本是？](https://www.v2ex.com/t/822237) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

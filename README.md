@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 08:27:05，:rocket: 更新条数: +1583， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 08:44:21，:rocket: 更新条数: +1584， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2021-12-14-商汤科技-IPO-前被-BAN](https://www.v2ex.com/t/822164) ![](assets/new.png)  
+- [2021-12-14-现在的-tts-竟然已经成熟到主播可以失业了](https://www.v2ex.com/t/822163) ![](assets/new.png)  
+- [2021-12-14-各位觉得现在论坛使用什么注册方式最友好](https://www.v2ex.com/t/822162) ![](assets/new.png)  
+- [2021-12-14-Monterey-系统占用的本机端口](https://www.v2ex.com/t/822161) ![](assets/new.png)  
+- [2021-12-14-sqlalchemy-事务中出错没有进行回滚?](https://www.v2ex.com/t/822160) ![](assets/new.png)  
+- [2021-12-14-极兔速递](https://www.v2ex.com/t/822159) ![](assets/new.png)  
+- [2021-12-14-请问有木有脚踩触摸板？](https://www.v2ex.com/t/822158) ![](assets/new.png)  
 - [2021-12-14-mac-设备同步来电时候音量问题](https://www.v2ex.com/t/822157) ![](assets/new.png)  
 - [2021-12-14-北京有一起滑雪的小伙伴和交流群吗](https://www.v2ex.com/t/822154) ![](assets/new.png)  
 - [2021-12-14-有没有大佬出租正规一居室，离地铁不远，预算-4500-左右](https://www.v2ex.com/t/822153) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2021-12-14-macOS12.1-耳机不显示电量？](https://www.v2ex.com/t/822140) ![](assets/new.png)  
 - [2021-12-14-PHP-代码加密,逼乎上这个回答大家怎么看?](https://www.v2ex.com/t/822139) ![](assets/new.png)  
 - [2021-12-14-UninstallPKG-v1.20-官宣免费了](https://www.v2ex.com/t/822138) ![](assets/new.png)  
-- [2021-12-14-感觉小米手机是一个广告机](https://www.v2ex.com/t/822136) ![](assets/new.png)  
-- [2021-12-14-15.2-相册暂时不能用，慎重升级](https://www.v2ex.com/t/822135) ![](assets/new.png)  
-- [2021-12-14-精确覆盖下的数学游戏](https://www.v2ex.com/t/822134) ![](assets/new.png)  
-- [2021-12-14-喝咖啡也会上瘾吗？](https://www.v2ex.com/t/822133) ![](assets/new.png)  
-- [2021-12-14-求助-有没有懂软件合同纠纷的老哥,可以咨询份合同吗](https://www.v2ex.com/t/822132) ![](assets/new.png)  
-- [2021-12-14-修改了-hosts，依然不能访问-github，请问有什么其他解决方案吗](https://www.v2ex.com/t/822131) ![](assets/new.png)  
-- [2021-12-14-上海-阿里云-JindoFS-团队招-P7](https://www.v2ex.com/t/822130) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,13 +567,13 @@
 - [2021-12-14-后端开发实践系列之一：Spring-Boot项目模板](https://toutiao.io/k/99knvya) ![](assets/new.png)  
 - [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
 - [2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) ![](assets/new.png)  
-- [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
 - [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
+- [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
 - [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
+- [2021-12-14-酒话：Copilot-和运维代码](https://toutiao.io/k/ah9idl7) ![](assets/new.png)  
 - [2021-12-14-公司规定所有接口都用-POST请求，这是为什么？](https://toutiao.io/k/68d7y9z) ![](assets/new.png)  
 - [2021-12-14-十年所学，终成《代码随想录》！](https://toutiao.io/k/cuyn1bs) ![](assets/new.png)  
-- [2021-12-14-酒话：Copilot-和运维代码](https://toutiao.io/k/ah9idl7) ![](assets/new.png)  
 - [2021-12-14-云原生的下一步，或从WebAssembly在边缘取代Docker开始](https://toutiao.io/k/5y8ajwx) ![](assets/new.png)  
 - [2021-12-14-3D-可视化入门：渲染管线原理与实践](https://toutiao.io/k/hoy9i79) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

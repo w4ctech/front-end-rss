@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 03:22:33，:rocket: 更新条数: +1575， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 03:40:17，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,15 @@
 </summary>
 
 
+- [2021-12-14-github-仓库右上角-star-fork-按钮的顺序调换了，刚才机械记忆-fork-了好几个-repo](https://www.v2ex.com/t/822083) ![](assets/new.png)  
+- [2021-12-14-大家觉得阿里新出的暖心计划怎么样？](https://www.v2ex.com/t/822082) ![](assets/new.png)  
+- [2021-12-14-有推荐的机械键盘吗-预算不超过-500-茶轴优先](https://www.v2ex.com/t/822081) ![](assets/new.png)  
+- [2021-12-14-老款-intel-cpu-macbook-pro，换新的-macbook-pro-16-2021，只能重装？](https://www.v2ex.com/t/822080) ![](assets/new.png)  
+- [2021-12-14-M1-MacBook-出来一年多了，现在外接屏幕的情况有所好转吗？](https://www.v2ex.com/t/822079) ![](assets/new.png)  
+- [2021-12-14-请教一下大家怎么培养自己编程逻辑的?](https://www.v2ex.com/t/822078) ![](assets/new.png)  
+- [2021-12-14-macOS12-的鼠标光标漂移的问题最新版解决了吗？](https://www.v2ex.com/t/822077) ![](assets/new.png)  
+- [2021-12-14-求实惠的手机套餐推荐](https://www.v2ex.com/t/822076) ![](assets/new.png)  
+- [2021-12-14-MacOS-系统-last-reboot-信息写在哪个文件，如何清除重启信息？](https://www.v2ex.com/t/822075) ![](assets/new.png)  
 - [2021-12-14-V862c-光猫有车，不知道这回能不能上成，干满带宽。](https://www.v2ex.com/t/822073) ![](assets/new.png)  
 - [2021-12-14-王者荣耀岗位招聘信息，欢迎沟通与简历投递~](https://www.v2ex.com/t/822072) ![](assets/new.png)  
 - [2021-12-14-重构了整个网站，程序员实时-Markdown-聊天，欢迎各位体验](https://www.v2ex.com/t/822069) ![](assets/new.png)  
@@ -505,15 +514,6 @@
 - [2021-12-14-促销双月买书有感](https://www.v2ex.com/t/822060) ![](assets/new.png)  
 - [2021-12-14-血氧和-ECG-图标显示问题](https://www.v2ex.com/t/822059) ![](assets/new.png)  
 - [2021-12-14-大家新增数字遗产了吗？](https://www.v2ex.com/t/822058) ![](assets/new.png)  
-- [2021-12-14-更新后设置好的网络没有了](https://www.v2ex.com/t/822055) ![](assets/new.png)  
-- [2021-12-14-请问-Linux-环境下使用-Python-selenium-出错、这是怎么回事？](https://www.v2ex.com/t/822054) ![](assets/new.png)  
-- [2021-12-14-升级-Monterey-便无法与-iPhone-蓝牙配对了](https://www.v2ex.com/t/822053) ![](assets/new.png)  
-- [2021-12-14-武汉-招商证券多岗位招聘-正式编制-大量央企-HC-释出-12-月-18-日线上招聘会](https://www.v2ex.com/t/822052) ![](assets/new.png)  
-- [2021-12-14-UAC-密码验证延迟](https://www.v2ex.com/t/822051) ![](assets/new.png)  
-- [2021-12-14-有人能告诉我或者截个图我看看-《VLOOK-13！标签、徽章、表格阅读模式强化，实用好用的-Markdown-主题包和增强插件》-这个帖子说的是啥吗，或者我犯啥法了，怎么...](https://www.v2ex.com/t/822050) ![](assets/new.png)  
-- [2021-12-14-请教-v-友，-mac-的双-usbc-充电线缆有没有推荐，建议-2m-3m。](https://www.v2ex.com/t/822049) ![](assets/new.png)  
-- [2021-12-14-macOS-12.1-还是唯独留下了-14-寸的-CMD-+-tap-BUG.](https://www.v2ex.com/t/822048) ![](assets/new.png)  
-- [2021-12-14-广州旺村地铁站公寓-1499-出租，民电，本人房东直租](https://www.v2ex.com/t/822047) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,17 +565,17 @@
 - [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
 - [2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) ![](assets/new.png)  
 - [2021-12-14-后端开发实践系列之一：Spring-Boot项目模板](https://toutiao.io/k/99knvya) ![](assets/new.png)  
-- [2021-12-14-干掉visio，这个画图神器真的绝了！！！](https://toutiao.io/k/wbcblht) ![](assets/new.png)  
 - [2021-12-14-跑了4个实验，实战讲解-MySQL的行锁、间隙锁...​](https://toutiao.io/k/j6zhfoc) ![](assets/new.png)  
+- [2021-12-14-干掉visio，这个画图神器真的绝了！！！](https://toutiao.io/k/wbcblht) ![](assets/new.png)  
 - [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
 - [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
-- [2021-12-14-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
-- [2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
 - [2021-12-14-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-14-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-14-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-14-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [2021-12-14-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
-- [2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

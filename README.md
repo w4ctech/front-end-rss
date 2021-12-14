@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 14:12:10，:rocket: 更新条数: +1587， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 14:20:31，:rocket: 更新条数: +1588， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-14-最新疫情：全国新冠累计确诊99856例-累计接种新冠疫苗超26.21亿剂次](https://m.caixin.com/m/2021-12-14/101817574.html) ![](assets/new.png)  
+- [2021-12-14-英政府忧奥密克戎实际日增恐达20万例-疫苗预约网站一度宕机](https://international.caixin.com/m/2021-12-14/101817725.html) ![](assets/new.png)  
 - [2021-12-14-广州通报1例奥密克戎阳性病例-居家隔离中被检出](https://m.caixin.com/m/2021-12-14/101817648.html) ![](assets/new.png)  
 - [2021-12-14-最新海外疫情：新冠感染超2.7亿-累计接种新冠疫苗超84.52亿剂次](https://m.caixin.com/m/2021-12-14/101817568.html) ![](assets/new.png)  
 - [2021-12-14-【境内疫情观察】天津从入境闭环管控人员检出奥密克戎变异株（12月13日）](https://database.caixin.com/m/2021-12-14/101817528.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-11-口岸城市疫情防控10个问答](https://m.caixin.com/m/2021-12-11/101816615.html) ![](assets/new.png)  
 - [2021-12-10-【境内疫情观察】全国新增37例本土病例（12月9日）](https://database.caixin.com/m/2021-12-10/101816185.html) ![](assets/new.png)  
 - [2021-12-10-欧盟疫苗通行证有效期或为9个月-英格兰启动B计划｜大流行手记（12月9日）](https://m.caixin.com/m/2021-12-10/101815972.html) ![](assets/new.png)  
-- [2021-12-10-【图集】中国首个抗新冠病毒特效药获批上市](https://photos.caixin.com/m/2021-12-10/101816178.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

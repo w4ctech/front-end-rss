@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-14 14:12:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-14 14:20:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2021-12-14-最新疫情：全国新冠累计确诊99856例-累计接种新冠疫苗超26.21亿剂次](https://m.caixin.com/m/2021-12-14/101817574.html) 
+- [2021-12-14-英政府忧奥密克戎实际日增恐达20万例-疫苗预约网站一度宕机](https://international.caixin.com/m/2021-12-14/101817725.html) 
 - [2021-12-14-广州通报1例奥密克戎阳性病例-居家隔离中被检出](https://m.caixin.com/m/2021-12-14/101817648.html) 
 - [2021-12-14-最新海外疫情：新冠感染超2.7亿-累计接种新冠疫苗超84.52亿剂次](https://m.caixin.com/m/2021-12-14/101817568.html) 
 - [2021-12-14-【境内疫情观察】天津从入境闭环管控人员检出奥密克戎变异株（12月13日）](https://database.caixin.com/m/2021-12-14/101817528.html) 
@@ -1536,11 +1537,11 @@
 - [2021-12-14-酒话：Copilot-和运维代码](https://toutiao.io/k/ah9idl7) 
 - [2021-12-14-十年所学，终成《代码随想录》！](https://toutiao.io/k/cuyn1bs) 
 - [2021-12-14-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) 
-- [2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [2021-12-14-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
-- [2021-12-14-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
-- [2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
-- [2021-12-14-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
-- [2021-12-14-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [2021-12-14-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
+- [2021-12-14-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
+- [2021-12-14-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
+- [2021-12-14-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
 - [2021-12-14-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 

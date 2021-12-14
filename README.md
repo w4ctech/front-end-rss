@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 02:48:50，:rocket: 更新条数: +1578， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 03:13:02，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2021-12-14-axure-托管平台-自动转-html-的原理是什么啊](https://www.v2ex.com/t/822068) ![](assets/new.png)  
+- [2021-12-14-docker-compose-环境变量字符怎么原样输出](https://www.v2ex.com/t/822067) ![](assets/new.png)  
+- [2021-12-14-macbook-涂层脱落](https://www.v2ex.com/t/822063) ![](assets/new.png)  
+- [2021-12-14-有没有比较适合-github-organization-使用的-CI-工具](https://www.v2ex.com/t/822062) ![](assets/new.png)  
+- [2021-12-14-前两天的-TEMA-腾讯音乐娱乐盛典](https://www.v2ex.com/t/822061) ![](assets/new.png)  
+- [2021-12-14-促销双月买书有感](https://www.v2ex.com/t/822060) ![](assets/new.png)  
 - [2021-12-14-血氧和-ECG-图标显示问题](https://www.v2ex.com/t/822059) ![](assets/new.png)  
 - [2021-12-14-大家新增数字遗产了吗？](https://www.v2ex.com/t/822058) ![](assets/new.png)  
 - [2021-12-14-更新后设置好的网络没有了](https://www.v2ex.com/t/822055) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-12-14-macOS-Monterey-12.1-触控板轻点问题还是没修复](https://www.v2ex.com/t/822046) ![](assets/new.png)  
 - [2021-12-14-刷了-Pixel-Experience-后连-WI-FI-网络总是提示可能会被攻击](https://www.v2ex.com/t/822045) ![](assets/new.png)  
 - [2021-12-14-还有人用-Leanote-吗，被迫-fork-修改了一点源码](https://www.v2ex.com/t/822044) ![](assets/new.png)  
-- [2021-12-14-iPhone13Pro-离谱的耗电与"钉子户"](https://www.v2ex.com/t/822043) ![](assets/new.png)  
-- [2021-12-14-私活做好的项目后续维护怎么定价比较好](https://www.v2ex.com/t/822042) ![](assets/new.png)  
-- [2021-12-14-有什么办法避免图片中的文字被-OCR-识别出来呢？](https://www.v2ex.com/t/822041) ![](assets/new.png)  
-- [2021-12-14-请教访达能直接用通配符或者正则搜索扩展名吗](https://www.v2ex.com/t/822039) ![](assets/new.png)  
-- [2021-12-14-人的一生可以组成多少家庭？](https://www.v2ex.com/t/822038) ![](assets/new.png)  
-- [2021-12-14-买辆车，等了-6-个半月还未提](https://www.v2ex.com/t/822035) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,21 +561,21 @@
 - [2021-12-14-双12都来了，我的秒杀架构还没搭出来……](https://toutiao.io/k/kw0ca5r) ![](assets/new.png)  
 - [2021-12-14-博采-27-门语言之长，提升-Python-的能力](https://toutiao.io/k/zj8h866) ![](assets/new.png)  
 - [2021-12-14-传统架构-vs-云原生架构，谈谈为什么我们需要云原生架构？](https://toutiao.io/k/8fsph1v) ![](assets/new.png)  
-- [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
 - [2021-12-14-Presto-在字节跳动的应用](https://toutiao.io/k/tilys48) ![](assets/new.png)  
-- [2021-12-14-后端开发实践系列之一：Spring-Boot项目模板](https://toutiao.io/k/99knvya) ![](assets/new.png)  
+- [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
 - [2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) ![](assets/new.png)  
-- [2021-12-14-跑了4个实验，实战讲解-MySQL的行锁、间隙锁...​](https://toutiao.io/k/j6zhfoc) ![](assets/new.png)  
+- [2021-12-14-后端开发实践系列之一：Spring-Boot项目模板](https://toutiao.io/k/99knvya) ![](assets/new.png)  
 - [2021-12-14-干掉visio，这个画图神器真的绝了！！！](https://toutiao.io/k/wbcblht) ![](assets/new.png)  
+- [2021-12-14-跑了4个实验，实战讲解-MySQL的行锁、间隙锁...​](https://toutiao.io/k/j6zhfoc) ![](assets/new.png)  
 - [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
 - [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
 - [2021-12-14-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
 - [2021-12-14-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
-- [2021-12-14-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-14-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-14-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-14-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

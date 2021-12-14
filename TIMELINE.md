@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-14 17:40:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-14 17:54:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -114,6 +114,7 @@
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-14-魔都移动宽带上传-1T-限速-30M](https://www.v2ex.com/t/822258) 
 - [【V2EX】2021-12-14-如何优雅地用一套-Magic-Keyboard-+-Trackpad（键盘+触控板）控制-2-台-Mac？](https://www.v2ex.com/t/822257) 
 - [【V2EX】2021-12-14-百万条数据想加快字符串匹配的速度，有什么解法](https://www.v2ex.com/t/822256) 
 - [【V2EX】2021-12-14-百度网盘有病了？](https://www.v2ex.com/t/822255) 
@@ -149,7 +150,6 @@
 - [【V2EX】2021-12-14-Apple-Watch-6，这两天掉电非常严重](https://www.v2ex.com/t/822213) 
 - [【V2EX】2021-12-14-如何用-Windows-下载-gcc-指定版本](https://www.v2ex.com/t/822212) 
 - [【V2EX】2021-12-14-升级-macOS-12.1-后，-AOC-卢瓦尔-LV273HUPR-恢复反向供电了](https://www.v2ex.com/t/822210) 
-- [【V2EX】2021-12-14-请教：-J4125-准备-PVE-跑-openwrt-+-Win10，-4G-内存够不够？](https://www.v2ex.com/t/822208) 
 - [【技术头条】2021-12-14-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-14-鸿蒙OS、安卓、iOS测试对比，结果出乎意料！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14847&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9RWmROLInm3RJpX1ZHjHmw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-14-张一鸣：给产品技术人才的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14846&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492724%26amp%3Bidx%3D2%26amp%3Bsn%3D3d506086a6e038c1eb1a4b9f404f90c1%26amp%3Bchksm%3Dfa3f052fcd488c395f8202745eff3a5d4db9f15102f06042d8683d94a108dab53b582fe57726%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -190,17 +190,17 @@
 - [【开发者头条】2021-12-14-公司规定所有接口都用-POST请求，这是为什么？](https://toutiao.io/k/68d7y9z) 
 - [【开发者头条】2021-12-14-十年所学，终成《代码随想录》！](https://toutiao.io/k/cuyn1bs) 
 - [【开发者头条】2021-12-14-3D-可视化入门：渲染管线原理与实践](https://toutiao.io/k/hoy9i79) 
-- [【开发者头条】2021-12-14-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
-- [【开发者头条】2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
-- [【开发者头条】2021-12-14-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [【开发者头条】2021-12-14-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
 - [【开发者头条】2021-12-14-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
-- [【开发者头条】2021-12-14-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [【开发者头条】2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
-- [【开发者头条】2021-12-14-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
-- [【开发者头条】2021-12-14-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
-- [【开发者头条】2021-12-14-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
 - [【开发者头条】2021-12-14-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [【开发者头条】2021-12-14-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [【开发者头条】2021-12-14-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
+- [【开发者头条】2021-12-14-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
+- [【开发者头条】2021-12-14-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [【开发者头条】2021-12-14-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
+- [【开发者头条】2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
+- [【开发者头条】2021-12-14-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
+- [【开发者头条】2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [【开发者头条】2021-12-14-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 08:15:53，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 08:27:05，:rocket: 更新条数: +1583， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-14-mac-设备同步来电时候音量问题](https://www.v2ex.com/t/822157) ![](assets/new.png)  
+- [2021-12-14-北京有一起滑雪的小伙伴和交流群吗](https://www.v2ex.com/t/822154) ![](assets/new.png)  
+- [2021-12-14-有没有大佬出租正规一居室，离地铁不远，预算-4500-左右](https://www.v2ex.com/t/822153) ![](assets/new.png)  
+- [2021-12-14-Jenkins-运行-yarn-build-失败，但是手动登录到服务器就成功](https://www.v2ex.com/t/822152) ![](assets/new.png)  
+- [2021-12-14-请教一些-docker-镜像大小优化问题](https://www.v2ex.com/t/822151) ![](assets/new.png)  
 - [2021-12-14-命令行风格的个人主页？](https://www.v2ex.com/t/822146) ![](assets/new.png)  
 - [2021-12-14-京东购腾讯视频会员好价](https://www.v2ex.com/t/822145) ![](assets/new.png)  
 - [2021-12-14-计算机类的网课哪里比较多？](https://www.v2ex.com/t/822143) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-14-求助-有没有懂软件合同纠纷的老哥,可以咨询份合同吗](https://www.v2ex.com/t/822132) ![](assets/new.png)  
 - [2021-12-14-修改了-hosts，依然不能访问-github，请问有什么其他解决方案吗](https://www.v2ex.com/t/822131) ![](assets/new.png)  
 - [2021-12-14-上海-阿里云-JindoFS-团队招-P7](https://www.v2ex.com/t/822130) ![](assets/new.png)  
-- [2021-12-14-预算:8K-到-1W，求个装机配置，多谢！](https://www.v2ex.com/t/822128) ![](assets/new.png)  
-- [2021-12-14-最近投简历都被拒了，面试机会都没有，求大佬指点下](https://www.v2ex.com/t/822127) ![](assets/new.png)  
-- [2021-12-14-红米-note11-pro-如何设置只使用-NSA-模式，是软件还是硬件问题](https://www.v2ex.com/t/822126) ![](assets/new.png)  
-- [2021-12-14-WSL-debian-vim-编辑文件不显示文本内容](https://www.v2ex.com/t/822125) ![](assets/new.png)  
-- [2021-12-14-如何查看电脑上的软件的数据交互](https://www.v2ex.com/t/822123) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
 - [2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) ![](assets/new.png)  
 - [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
-- [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
+- [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
 - [2021-12-14-公司规定所有接口都用-POST请求，这是为什么？](https://toutiao.io/k/68d7y9z) ![](assets/new.png)  
 - [2021-12-14-十年所学，终成《代码随想录》！](https://toutiao.io/k/cuyn1bs) ![](assets/new.png)  

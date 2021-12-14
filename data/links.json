@@ -7709,6 +7709,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "看到新闻腾讯 90 后程序员跳楼身亡，做一个每日搞笑视频推送，拯救不开心的人们",
+        "link": "https://www.v2ex.com/t/822243",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "Mac 下的视频播放器，想要个固定的右侧播放列表好难啊。。",
+        "link": "https://www.v2ex.com/t/822242",
+        "date": "2021-12-14"
+      },
+      {
         "title": "一个新的 Code Editor https://news.ycombinator.com/item?id=29549173",
         "link": "https://www.v2ex.com/t/822240",
         "date": "2021-12-14"
@@ -7892,21 +7902,6 @@
         "title": "迫于想为深圳的求职者提供更精准优质的服务，我们做了一个有奖（现金红包）调研，无隐私疑虑",
         "link": "https://www.v2ex.com/t/822195",
         "date": "2021-12-14"
-      },
-      {
-        "title": "为了省 18 块钱，我决定自己开发一个 switch 照片同步小工具",
-        "link": "https://www.v2ex.com/t/822194",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "Docker 可以对容器进行网络访问控制吗？",
-        "link": "https://www.v2ex.com/t/822193",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "看到一个很奇怪的东西",
-        "link": "https://www.v2ex.com/t/822192",
-        "date": "2021-12-14"
       }
     ]
   },
@@ -8083,13 +8078,13 @@
         "date": "2021-12-14"
       },
       {
-        "title": "中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）",
-        "link": "https://toutiao.io/k/vfwpipy",
+        "title": "lyft 的线下开发环境秘籍",
+        "link": "https://toutiao.io/k/iucimzu",
         "date": "2021-12-14"
       },
       {
-        "title": "lyft 的线下开发环境秘籍",
-        "link": "https://toutiao.io/k/iucimzu",
+        "title": "中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）",
+        "link": "https://toutiao.io/k/vfwpipy",
         "date": "2021-12-14"
       },
       {
@@ -8123,33 +8118,8 @@
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 京东秒杀架构升级优化实践",
-        "link": "https://toutiao.io/k/4cxy94p",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
-        "date": "2021-12-14"
-      },
-      {
         "title": "[推荐] 肝了 3 天，整理了 50 个 Pandas 高频使用技巧，强烈建议收藏",
         "link": "https://toutiao.io/k/8k28pnf",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
         "date": "2021-12-14"
       },
       {
@@ -8158,8 +8128,8 @@
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
         "date": "2021-12-14"
       },
       {
@@ -8168,13 +8138,43 @@
         "date": "2021-12-14"
       },
       {
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 京东秒杀架构升级优化实践",
+        "link": "https://toutiao.io/k/4cxy94p",
+        "date": "2021-12-14"
+      },
+      {
         "title": "[推荐] 我给 “Go 语言” 开发了 6 个在线工具",
         "link": "https://toutiao.io/k/96zw0k6",
         "date": "2021-12-14"
       },
       {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
+        "date": "2021-12-14"
+      },
+      {
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
         "date": "2021-12-14"
       }
     ]

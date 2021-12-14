@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 14:20:31，:rocket: 更新条数: +1588， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 14:37:45，:rocket: 更新条数: +1588， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-14-看到新闻腾讯-90-后程序员跳楼身亡，做一个每日搞笑视频推送，拯救不开心的人们](https://www.v2ex.com/t/822243) ![](assets/new.png)  
+- [2021-12-14-Mac-下的视频播放器，想要个固定的右侧播放列表好难啊。。](https://www.v2ex.com/t/822242) ![](assets/new.png)  
 - [2021-12-14-一个新的-Code-Editor-https://news.ycombinator.com/item?id=29549173](https://www.v2ex.com/t/822240) ![](assets/new.png)  
 - [2021-12-14-18-款-MBP-还有免费的涂层更换计划吗？](https://www.v2ex.com/t/822238) ![](assets/new.png)  
 - [2021-12-14-还有多少人在用-Alfred？你们用的版本是？](https://www.v2ex.com/t/822237) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-14-关于硬路由-AP-模式的问题，大家看看正确吗？](https://www.v2ex.com/t/822221) ![](assets/new.png)  
 - [2021-12-14-程序员考公上岸的来讲一下感受](https://www.v2ex.com/t/822220) ![](assets/new.png)  
 - [2021-12-14-有喜欢韦斯·安德森的吗？对称狂魔新作来了](https://www.v2ex.com/t/822217) ![](assets/new.png)  
-- [2021-12-14-猝不及防---B-站视频内广告跳过插件](https://www.v2ex.com/t/822216) ![](assets/new.png)  
-- [2021-12-14-请教一个阿里云消息队列延时消息的问题，设置延时消息无效。](https://www.v2ex.com/t/822215) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) ![](assets/new.png)  
 - [2021-12-14-后端开发实践系列之一：Spring-Boot项目模板](https://toutiao.io/k/99knvya) ![](assets/new.png)  
 - [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
-- [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
+- [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
 - [2021-12-14-酒话：Copilot-和运维代码](https://toutiao.io/k/ah9idl7) ![](assets/new.png)  
 - [2021-12-14-云原生的下一步，或从WebAssembly在边缘取代Docker开始](https://toutiao.io/k/5y8ajwx) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 11:19:09，:rocket: 更新条数: +1588， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 11:36:06，:rocket: 更新条数: +1587， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-14-升级-macOS-12.1-后，-AOC-卢瓦尔-LV273HUPR-恢复反向供电了](https://www.v2ex.com/t/822210) ![](assets/new.png)  
 - [2021-12-14-请教：-J4125-准备-PVE-跑-openwrt-+-Win10，-4G-内存够不够？](https://www.v2ex.com/t/822208) ![](assets/new.png)  
 - [2021-12-14-请教-PHP-的-session-gc-maxlifetime-设置的过期时间，是依据-session-文件的访问时间（atime），还是修改时间计算的呢？](https://www.v2ex.com/t/822207) ![](assets/new.png)  
 - [2021-12-14-是-tx-的恶意还是小米的误报？](https://www.v2ex.com/t/822206) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-14-北京|字节跳动-急招后端开发工程师-15-60K-x-15+](https://www.v2ex.com/t/822191) ![](assets/new.png)  
 - [2021-12-14-校招-USING.AI-招聘研发工程师](https://www.v2ex.com/t/822190) ![](assets/new.png)  
 - [2021-12-14-PHP-的-ini_set-设置，是否会影响-别的虚拟站点（vhost）](https://www.v2ex.com/t/822189) ![](assets/new.png)  
-- [2021-12-14-Docker-Desktop-更新问题](https://www.v2ex.com/t/822188) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,12 +562,12 @@
 - [2021-12-14-博采-27-门语言之长，提升-Python-的能力](https://toutiao.io/k/zj8h866) ![](assets/new.png)  
 - [2021-12-14-传统架构-vs-云原生架构，谈谈为什么我们需要云原生架构？](https://toutiao.io/k/8fsph1v) ![](assets/new.png)  
 - [2021-12-14-干掉visio，这个画图神器真的绝了！！！](https://toutiao.io/k/wbcblht) ![](assets/new.png)  
-- [2021-12-14-Presto-在字节跳动的应用](https://toutiao.io/k/tilys48) ![](assets/new.png)  
 - [2021-12-14-跑了4个实验，实战讲解-MySQL的行锁、间隙锁...​](https://toutiao.io/k/j6zhfoc) ![](assets/new.png)  
+- [2021-12-14-Presto-在字节跳动的应用](https://toutiao.io/k/tilys48) ![](assets/new.png)  
 - [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
+- [2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) ![](assets/new.png)  
 - [2021-12-14-后端开发实践系列之一：Spring-Boot项目模板](https://toutiao.io/k/99knvya) ![](assets/new.png)  
 - [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
-- [2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) ![](assets/new.png)  
 - [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  

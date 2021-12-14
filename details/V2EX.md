@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-14 11:19:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-14 11:36:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-14-升级-macOS-12.1-后，-AOC-卢瓦尔-LV273HUPR-恢复反向供电了](https://www.v2ex.com/t/822210) 
 - [2021-12-14-请教：-J4125-准备-PVE-跑-openwrt-+-Win10，-4G-内存够不够？](https://www.v2ex.com/t/822208) 
 - [2021-12-14-请教-PHP-的-session-gc-maxlifetime-设置的过期时间，是依据-session-文件的访问时间（atime），还是修改时间计算的呢？](https://www.v2ex.com/t/822207) 
 - [2021-12-14-是-tx-的恶意还是小米的误报？](https://www.v2ex.com/t/822206) 
@@ -44,5 +45,3 @@
 - [2021-12-14-树莓派-+-Android-TV-控制器方案选择](https://www.v2ex.com/t/822165) 
 - [2021-12-14-现在的-tts-竟然已经成熟到主播可以失业了](https://www.v2ex.com/t/822163) 
 - [2021-12-14-各位觉得现在论坛使用什么注册方式最友好](https://www.v2ex.com/t/822162) 
-- [2021-12-14-Monterey-系统占用的本机端口](https://www.v2ex.com/t/822161) 
-- [2021-12-14-sqlalchemy-事务中出错没有进行回滚?](https://www.v2ex.com/t/822160) 

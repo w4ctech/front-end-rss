@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 05:20:28，:rocket: 更新条数: +1574， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 05:37:38，:rocket: 更新条数: +1575， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-14-睡个午觉，腾讯云电信方向是不是炸了](https://www.v2ex.com/t/822109) ![](assets/new.png)  
+- [2021-12-14-求助Fitness+境内无法显示，是否有办法可以激活](https://www.v2ex.com/t/822108) ![](assets/new.png)  
+- [2021-12-14-港区-Spotify-拼车](https://www.v2ex.com/t/822107) ![](assets/new.png)  
 - [2021-12-14-两台-macbook，如何快速将一台旧-mbp-应用文件复装到新-mbp-上？](https://www.v2ex.com/t/822104) ![](assets/new.png)  
 - [2021-12-14-请问有简洁的-GitHub-博客主题分享吗？](https://www.v2ex.com/t/822102) ![](assets/new.png)  
 - [2021-12-14-分享一个在小红书购物经历](https://www.v2ex.com/t/822099) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-14-github-仓库右上角-star-fork-按钮的顺序调换了，刚才机械记忆-fork-了好几个-repo](https://www.v2ex.com/t/822083) ![](assets/new.png)  
 - [2021-12-14-大家觉得阿里新出的暖心计划怎么样？](https://www.v2ex.com/t/822082) ![](assets/new.png)  
 - [2021-12-14-有推荐的机械键盘吗-预算不超过-500-茶轴优先](https://www.v2ex.com/t/822081) ![](assets/new.png)  
-- [2021-12-14-老款-intel-cpu-macbook-pro，换新的-macbook-pro-16-2021，只能重装？](https://www.v2ex.com/t/822080) ![](assets/new.png)  
-- [2021-12-14-M1-MacBook-出来一年多了，现在外接屏幕的情况有所好转吗？](https://www.v2ex.com/t/822079) ![](assets/new.png)  
-- [2021-12-14-请教一下大家怎么培养自己编程逻辑的?](https://www.v2ex.com/t/822078) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
-- [2021-12-14-推荐-肝了-3-天，整理了-50-个-Pandas-高频使用技巧，强烈建议收藏](https://toutiao.io/k/8k28pnf) ![](assets/new.png)  
-- [2021-12-14-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
+- [2021-12-14-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-14-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [2021-12-14-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [2021-12-14-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-14-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-14-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

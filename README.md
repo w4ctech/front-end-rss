@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-14 09:56:38，:rocket: 更新条数: +1581， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-14 10:13:49，:rocket: 更新条数: +1583， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,14 +66,15 @@
 
 
 - [2021-12-14-最新疫情：全国新冠累计确诊99856例-累计接种新冠疫苗超26.21亿剂次](https://m.caixin.com/m/2021-12-14/101817574.html) ![](assets/new.png)  
+- [2021-12-14-广州通报1例奥密克戎阳性病例-居家隔离中被检出](https://m.caixin.com/m/2021-12-14/101817648.html) ![](assets/new.png)  
 - [2021-12-14-最新海外疫情：新冠感染超2.7亿-累计接种新冠疫苗超84.52亿剂次](https://m.caixin.com/m/2021-12-14/101817568.html) ![](assets/new.png)  
 - [2021-12-14-【境内疫情观察】天津从入境闭环管控人员检出奥密克戎变异株（12月13日）](https://database.caixin.com/m/2021-12-14/101817528.html) ![](assets/new.png)  
 - [2021-12-14-英国报告首例奥密克戎死亡，加拿大感染上升｜大流行手记（12月13日）](https://m.caixin.com/m/2021-12-14/101817333.html) ![](assets/new.png)  
 - [2021-12-13-浙江杭绍甬八日累计新冠近200例-三地将严控出行至明年3月](https://m.caixin.com/m/2021-12-13/101817234.html) ![](assets/new.png)  
 - [2021-12-13-天津从入境人员中检出奥密克戎变异株](https://china.caixin.com/m/2021-12-13/101817231.html) ![](assets/new.png)  
-- [2021-12-13-香港研究显示复必泰疫苗对Omicron中和抗体大减-或期加强针](https://m.caixin.com/m/2021-12-13/101817198.html) ![](assets/new.png)  
 - [2021-12-13-【境内疫情观察】浙江新增74例本土病例（12月12日）](https://database.caixin.com/m/2021-12-13/101817065.html) ![](assets/new.png)  
 - [2021-12-13-WHO称大流行扰乱全球卫生服务-英国单日Omicron病例翻番｜大流行手记（-12月12日）](https://m.caixin.com/m/2021-12-13/101816947.html) ![](assets/new.png)  
+- [2021-12-13-香港研究显示复必泰疫苗对Omicron中和抗体大减-或期加强针](https://m.caixin.com/m/2021-12-13/101817198.html) ![](assets/new.png)  
 - [2021-12-12-浙江一周累计确诊138例-与上海疫情为同一传播链](https://m.caixin.com/m/2021-12-12/101816876.html) ![](assets/new.png)  
 - [2021-12-12-【境内疫情观察】全国新增49例本土病例（12月11日）](https://database.caixin.com/m/2021-12-12/101816815.html) ![](assets/new.png)  
 - [2021-12-12-英国1月或出现Omicron感染浪潮-美国疫情加剧｜大流行手记（12月11日）](https://m.caixin.com/m/2021-12-12/101816748.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-10-【境内疫情观察】全国新增37例本土病例（12月9日）](https://database.caixin.com/m/2021-12-10/101816185.html) ![](assets/new.png)  
 - [2021-12-10-欧盟疫苗通行证有效期或为9个月-英格兰启动B计划｜大流行手记（12月9日）](https://m.caixin.com/m/2021-12-10/101815972.html) ![](assets/new.png)  
 - [2021-12-10-【图集】中国首个抗新冠病毒特效药获批上市](https://photos.caixin.com/m/2021-12-10/101816178.html) ![](assets/new.png)  
-- [2021-12-09-浙江五天累计阳性59例-省内三地防疫措施升级](https://m.caixin.com/m/2021-12-09/101815867.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-14-问问各位码农，每天真实的工作时间是多久？](https://www.v2ex.com/t/822196) ![](assets/new.png)  
+- [2021-12-14-迫于想为深圳的求职者提供更精准优质的服务，我们做了一个有奖（现金红包）调研，无隐私疑虑](https://www.v2ex.com/t/822195) ![](assets/new.png)  
+- [2021-12-14-为了省-18-块钱，我决定自己开发一个-switch-照片同步小工具](https://www.v2ex.com/t/822194) ![](assets/new.png)  
+- [2021-12-14-Docker-可以对容器进行网络访问控制吗？](https://www.v2ex.com/t/822193) ![](assets/new.png)  
 - [2021-12-14-看到一个很奇怪的东西](https://www.v2ex.com/t/822192) ![](assets/new.png)  
 - [2021-12-14-北京|字节跳动-急招后端开发工程师-15-60K-x-15+](https://www.v2ex.com/t/822191) ![](assets/new.png)  
 - [2021-12-14-校招-USING.AI-招聘研发工程师](https://www.v2ex.com/t/822190) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-14-如何让深色模式黑的彻底点？](https://www.v2ex.com/t/822176) ![](assets/new.png)  
 - [2021-12-14-请教一个开发中的问题，关于集群选举的。](https://www.v2ex.com/t/822175) ![](assets/new.png)  
 - [2021-12-14-千兆光猫榨干千兆带宽简单方案（实测-1.2G-左右）](https://www.v2ex.com/t/822174) ![](assets/new.png)  
-- [2021-12-14-充电线收纳最佳实践是什么？](https://www.v2ex.com/t/822172) ![](assets/new.png)  
-- [2021-12-14-蚂蚁---可信原生技术部---专用编程语言设计研发杭州-P7-8](https://www.v2ex.com/t/822170) ![](assets/new.png)  
-- [2021-12-14-问个增量更新的办法。](https://www.v2ex.com/t/822169) ![](assets/new.png)  
-- [2021-12-14-突然发现-i-remember.fr-这个网站关闭了](https://www.v2ex.com/t/822168) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,19 +561,19 @@
 - [2021-12-14-双12都来了，我的秒杀架构还没搭出来……](https://toutiao.io/k/kw0ca5r) ![](assets/new.png)  
 - [2021-12-14-博采-27-门语言之长，提升-Python-的能力](https://toutiao.io/k/zj8h866) ![](assets/new.png)  
 - [2021-12-14-传统架构-vs-云原生架构，谈谈为什么我们需要云原生架构？](https://toutiao.io/k/8fsph1v) ![](assets/new.png)  
-- [2021-12-14-Presto-在字节跳动的应用](https://toutiao.io/k/tilys48) ![](assets/new.png)  
 - [2021-12-14-干掉visio，这个画图神器真的绝了！！！](https://toutiao.io/k/wbcblht) ![](assets/new.png)  
+- [2021-12-14-Presto-在字节跳动的应用](https://toutiao.io/k/tilys48) ![](assets/new.png)  
 - [2021-12-14-跑了4个实验，实战讲解-MySQL的行锁、间隙锁...​](https://toutiao.io/k/j6zhfoc) ![](assets/new.png)  
 - [2021-12-14-后端开发实践系列之一：Spring-Boot项目模板](https://toutiao.io/k/99knvya) ![](assets/new.png)  
+- [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
 - [2021-12-14-HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3) ![](assets/new.png)  
 - [2021-12-14-Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1) ![](assets/new.png)  
-- [2021-12-14-8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo) ![](assets/new.png)  
 - [2021-12-14-中国元宇宙顶尖龙头：9大潜力公司，未来前景光明！（值得收藏）](https://toutiao.io/k/vfwpipy) ![](assets/new.png)  
 - [2021-12-14-lyft-的线下开发环境秘籍](https://toutiao.io/k/iucimzu) ![](assets/new.png)  
 - [2021-12-14-1-平方厘米在元宇宙卖到-14-万？单价比北京学区房贵多了！](https://toutiao.io/k/kju5oqs) ![](assets/new.png)  
 - [2021-12-14-酒话：Copilot-和运维代码](https://toutiao.io/k/ah9idl7) ![](assets/new.png)  
-- [2021-12-14-云原生的下一步，或从WebAssembly在边缘取代Docker开始](https://toutiao.io/k/5y8ajwx) ![](assets/new.png)  
 - [2021-12-14-公司规定所有接口都用-POST请求，这是为什么？](https://toutiao.io/k/68d7y9z) ![](assets/new.png)  
+- [2021-12-14-云原生的下一步，或从WebAssembly在边缘取代Docker开始](https://toutiao.io/k/5y8ajwx) ![](assets/new.png)  
 - [2021-12-14-十年所学，终成《代码随想录》！](https://toutiao.io/k/cuyn1bs) ![](assets/new.png)  
 - [2021-12-14-3D-可视化入门：渲染管线原理与实践](https://toutiao.io/k/hoy9i79) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

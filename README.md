@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 09:25:15，:rocket: 更新条数: +1587， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 09:40:43，:rocket: 更新条数: +1586， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,8 +494,9 @@
 </summary>
 
 
-- [2021-12-15-笔记软件-推荐一套笔记系统方法论-vscode+git+markdown+foam-插件](https://www.v2ex.com/t/822412) ![](assets/new.png)  
-- [2021-12-15-迫于上瘾，问问老哥们，北京有没有德州扑克局？](https://www.v2ex.com/t/822411) ![](assets/new.png)  
+- [2021-12-15-vscode-NPM-脚本怎样设置？](https://www.v2ex.com/t/822414) ![](assets/new.png)  
+- [2021-12-15-有没有什么好的在-Finder-当前文件夹下打开-VSCode/iTerm/PyCharm-的方案](https://www.v2ex.com/t/822413) ![](assets/new.png)  
+- [2021-12-15-笔记软件-推荐一套笔记系统方法论-vscode+git+markdown+foam-等插件](https://www.v2ex.com/t/822412) ![](assets/new.png)  
 - [2021-12-15-ARM-版-MBP-刚到，求开发环境最佳配置](https://www.v2ex.com/t/822409) ![](assets/new.png)  
 - [2021-12-15-腾讯云双-12-轻量服务器真的很香，直接部署个应用镜像就能搞个私有的网页版-vscode，写代码很丝滑很爽](https://www.v2ex.com/t/822407) ![](assets/new.png)  
 - [2021-12-15-关于虾皮的年前面试，年后入职](https://www.v2ex.com/t/822406) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-15-2021-年底了，现在还有人用-DeepL-翻译吗？](https://www.v2ex.com/t/822389) ![](assets/new.png)  
 - [2021-12-15-Google-地图反馈地点变更提示"依据国际制裁的规定，我们不能接受该地区的商家"](https://www.v2ex.com/t/822388) ![](assets/new.png)  
 - [2021-12-15-实在是搞不懂问“笔记本你们发货了么？”的心态](https://www.v2ex.com/t/822386) ![](assets/new.png)  
-- [2021-12-15-2021-年最新前后端免费编程学习视频](https://www.v2ex.com/t/822385) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

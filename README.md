@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 14:41:24，:rocket: 更新条数: +1590， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 14:54:24，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-15-如何降低自己的欲望](https://www.v2ex.com/t/822478) ![](assets/new.png)  
+- [2021-12-15-今天碰到一道在代码片段中找-20-个-bug-的-Java-面试题，有没有老哥帮忙看一下？](https://www.v2ex.com/t/822477) ![](assets/new.png)  
+- [2021-12-15-15-款-8G-128-固态的-MBP-是否还能胜任-idea-的-Java-开发吗?](https://www.v2ex.com/t/822475) ![](assets/new.png)  
 - [2021-12-15-vivaldi-浏览器内地网络，翻译问题](https://www.v2ex.com/t/822474) ![](assets/new.png)  
 - [2021-12-15-notion-最近两天能打开浏览，但是修改后一直-saving-，然后保存不成功](https://www.v2ex.com/t/822473) ![](assets/new.png)  
 - [2021-12-15-怎么去搞懂一个框架](https://www.v2ex.com/t/822472) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-15-去年的入门版-M1-MBP，最近发现用久了（长期不关机用）就会奇卡，重启会变流畅。](https://www.v2ex.com/t/822458) ![](assets/new.png)  
 - [2021-12-15-maven-shade-plugin-vs-spring-boot-maven-plugin](https://www.v2ex.com/t/822457) ![](assets/new.png)  
 - [2021-12-15-iOS-定时-开启-关闭-指定-app-通知](https://www.v2ex.com/t/822456) ![](assets/new.png)  
-- [2021-12-15-南京|Weee-急招-Nodejs-15-25K-x-15](https://www.v2ex.com/t/822454) ![](assets/new.png)  
-- [2021-12-15-厦门今年裁员的公司是不是很多？](https://www.v2ex.com/t/822451) ![](assets/new.png)  
-- [2021-12-15-升级到-Monterey-12.1-后，-command-+-轻触-问题依然没有被修复](https://www.v2ex.com/t/822449) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

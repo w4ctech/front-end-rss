@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 01:08:21，:rocket: 更新条数: +1573， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 01:58:25，:rocket: 更新条数: +1575， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,8 @@
 </summary>
 
 
-- [2021-12-14-最新疫情：全国新冠累计确诊99856例-累计接种新冠疫苗超26.21亿剂次](https://m.caixin.com/m/2021-12-14/101817574.html) ![](assets/new.png)  
+- [2021-12-15-12月14日全国新增新冠67例-三省份本土50例](https://m.caixin.com/m/2021-12-15/101817795.html) ![](assets/new.png)  
+- [2021-12-15-辉瑞新冠口服药显著降低住院和死亡风险-非洲病例激增｜大流行手记（12月14日）](https://m.caixin.com/m/2021-12-15/101817778.html) ![](assets/new.png)  
 - [2021-12-14-英政府忧奥密克戎实际日增恐达20万例-疫苗预约网站一度宕机](https://international.caixin.com/m/2021-12-14/101817725.html) ![](assets/new.png)  
 - [2021-12-14-广州通报1例奥密克戎阳性病例-居家隔离中被检出](https://m.caixin.com/m/2021-12-14/101817648.html) ![](assets/new.png)  
 - [2021-12-14-最新海外疫情：新冠感染超2.7亿-累计接种新冠疫苗超84.52亿剂次](https://m.caixin.com/m/2021-12-14/101817568.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-11-美奥密克戎患者多已完全接种，多国敦促儿童打疫苗｜大流行手记（12月10日）](https://m.caixin.com/m/2021-12-11/101816508.html) ![](assets/new.png)  
 - [2021-12-11-口岸城市疫情防控10个问答](https://m.caixin.com/m/2021-12-11/101816615.html) ![](assets/new.png)  
 - [2021-12-10-【境内疫情观察】全国新增37例本土病例（12月9日）](https://database.caixin.com/m/2021-12-10/101816185.html) ![](assets/new.png)  
-- [2021-12-10-欧盟疫苗通行证有效期或为9个月-英格兰启动B计划｜大流行手记（12月9日）](https://m.caixin.com/m/2021-12-10/101815972.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,16 @@
 </summary>
 
 
+- [2021-12-15-快过年了，问一下父母体检怎么安排的](https://www.v2ex.com/t/822288) ![](assets/new.png)  
+- [2021-12-15-M1-MBP-更新系统后，无法开启热点了](https://www.v2ex.com/t/822287) ![](assets/new.png)  
+- [2021-12-15-腾讯云-12-月特惠二核-4G8M-三年仅-150-四核-8G10M-三年-768-四核-16G12M-三年-1068新老老身份都可上车有香港海外等特惠腾讯云官方特价良心云海外机器...](https://www.v2ex.com/t/822285) ![](assets/new.png)  
+- [2021-12-15-更新了-macOS-12.1，触发角的笔记怎么新增](https://www.v2ex.com/t/822284) ![](assets/new.png)  
+- [2021-12-15-新款-MBP-M1-Pro-Wifi-切换特别慢](https://www.v2ex.com/t/822283) ![](assets/new.png)  
+- [2021-12-15-为提高摸鱼广度,做了个榜单聚合国际版toplab.today](https://www.v2ex.com/t/822280) ![](assets/new.png)  
+- [2021-12-15-小鹏汽车私拍-43-万用户人脸](https://www.v2ex.com/t/822279) ![](assets/new.png)  
+- [2021-12-15-11-月-7-号下单预计-12-15-至-12-22-发货，今天还没发货](https://www.v2ex.com/t/822278) ![](assets/new.png)  
+- [2021-12-15-自愿化身一条固执的鱼-2](https://www.v2ex.com/t/822277) ![](assets/new.png)  
+- [2021-12-15-win11-右下角时间问题-bug-还是-feature?-开机后第一次点击响应特别慢。](https://www.v2ex.com/t/822276) ![](assets/new.png)  
 - [2021-12-15-各位大佬们来看下这段加密字符串如何解密](https://www.v2ex.com/t/822274) ![](assets/new.png)  
 - [2021-12-15-switch-oled-有什么好的入手渠道](https://www.v2ex.com/t/822272) ![](assets/new.png)  
 - [2021-12-15-银河英雄传说预售开始](https://www.v2ex.com/t/822271) ![](assets/new.png)  
@@ -504,16 +514,6 @@
 - [2021-12-14-M1-Macbook-Air-待机耗电异常](https://www.v2ex.com/t/822264) ![](assets/new.png)  
 - [2021-12-14-关于-log4j2-的远程代码执行漏洞对-ELK-的影响](https://www.v2ex.com/t/822263) ![](assets/new.png)  
 - [2021-12-14-忍不了了，做了个插件让-OneNote-支持-Markdown](https://www.v2ex.com/t/822262) ![](assets/new.png)  
-- [2021-12-14-阿里云盘怎么批量导出备份的照片？](https://www.v2ex.com/t/822261) ![](assets/new.png)  
-- [2021-12-14-M1-Max-频繁卡死](https://www.v2ex.com/t/822260) ![](assets/new.png)  
-- [2021-12-14-狂人日记读不下去了](https://www.v2ex.com/t/822259) ![](assets/new.png)  
-- [2021-12-14-魔都移动宽带上传-1T-限速-30M](https://www.v2ex.com/t/822258) ![](assets/new.png)  
-- [2021-12-14-如何优雅地用一套-Magic-Keyboard-+-Trackpad（键盘+触控板）控制-2-台-Mac？](https://www.v2ex.com/t/822257) ![](assets/new.png)  
-- [2021-12-14-百万条数据想加快字符串匹配的速度，有什么解法](https://www.v2ex.com/t/822256) ![](assets/new.png)  
-- [2021-12-14-百度网盘有病了？](https://www.v2ex.com/t/822255) ![](assets/new.png)  
-- [2021-12-14-如今电信宽带的优势在哪里？三大之间的价格差距为何那么大](https://www.v2ex.com/t/822252) ![](assets/new.png)  
-- [2021-12-14-海外的朋友们，你们哪里正宗的液态奶有哪些？](https://www.v2ex.com/t/822250) ![](assets/new.png)  
-- [2021-12-14-Magician-2.0-发布，彻底抛弃底层，全面迎接-Netty](https://www.v2ex.com/t/822249) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,21 +559,21 @@
 - [2021-12-15-网络通信之Session的历史血脉](https://toutiao.io/k/xd4b8n2) ![](assets/new.png)  
 - [2021-12-15-用-Go-+-Redis-实现分布式锁](https://toutiao.io/k/0yfuwmr) ![](assets/new.png)  
 - [2021-12-15-Uncle-Bob-的-SOLID-软件设计原则——Python-实例讲解](https://toutiao.io/k/zz4jho7) ![](assets/new.png)  
-- [2021-12-15-深入理解-Hive-UDAF](https://toutiao.io/k/c53m0zu) ![](assets/new.png)  
-- [2021-12-15-Go-误用-exec.Command-导致多进死锁的调试记录](https://toutiao.io/k/3kcunns) ![](assets/new.png)  
 - [2021-12-15-Nginx-通过-Lua-+-Redis-实现动态封禁-IP](https://toutiao.io/k/1zav0z2) ![](assets/new.png)  
+- [2021-12-15-Go-误用-exec.Command-导致多进死锁的调试记录](https://toutiao.io/k/3kcunns) ![](assets/new.png)  
+- [2021-12-15-深入理解-Hive-UDAF](https://toutiao.io/k/c53m0zu) ![](assets/new.png)  
 - [2021-12-15-630.-课程表III](https://toutiao.io/k/mpuwr1o) ![](assets/new.png)  
-- [2021-12-15-如何在建木CI中使用Vault管理密钥](https://toutiao.io/k/euc0uug) ![](assets/new.png)  
 - [2021-12-15-WebRTC中，网络抖动和往返时间哪个更重要](https://toutiao.io/k/xkfiei7) ![](assets/new.png)  
+- [2021-12-15-如何在建木CI中使用Vault管理密钥](https://toutiao.io/k/euc0uug) ![](assets/new.png)  
 - [2021-12-15-C#-是否可以将-动态或匿名类型-转成-强类型-？](https://toutiao.io/k/rvj3gl8) ![](assets/new.png)  
-- [2021-12-15-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-15-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
-- [2021-12-15-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
-- [2021-12-15-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-15-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
 - [2021-12-15-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
-- [2021-12-15-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
+- [2021-12-15-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
 - [2021-12-15-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-15-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
+- [2021-12-15-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-15-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-15-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-15-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
 - [2021-12-15-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
 - [2021-12-15-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

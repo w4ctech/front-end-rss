@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-14 23:55:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-15 00:38:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -105,7 +105,6 @@
 
 
 
-- [【开发者头条】HDFS-在-HA-模式集群下-JournalNode-节点的作用](https://toutiao.io/k/tnpzzn3)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -215,7 +214,6 @@
 
 
 
-- [【开发者头条】3D-可视化入门：渲染管线原理与实践](https://toutiao.io/k/hoy9i79)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -236,6 +234,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】看到新闻腾讯-90-后程序员跳楼身亡，做一个每日搞笑视频推送，拯救不开心的人们](https://www.v2ex.com/t/822243)
 - [【V2EX】Mac-下的视频播放器，想要个固定的右侧播放列表好难啊。。](https://www.v2ex.com/t/822242)
+- [【开发者头条】WebRTC中，网络抖动和往返时间哪个更重要](https://toutiao.io/k/xkfiei7)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -252,7 +251,6 @@
 
 
 
-- [【开发者头条】8-个必知的-SEO-优化重要元标签](https://toutiao.io/k/d2890wo)
 - [【开发者头条】推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p)
 - [【开发者头条】推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -277,7 +275,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)
-- [【开发者头条】公司规定所有接口都用-POST请求，这是为什么？](https://toutiao.io/k/68d7y9z)
+- [【开发者头条】Go-误用-exec.Command-导致多进死锁的调试记录](https://toutiao.io/k/3kcunns)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -295,8 +293,6 @@
 
 
 - [【V2EX】一个新的-Code-Editor-https://news.ycombinator.com/item?id=29549173](https://www.v2ex.com/t/822240)
-- [【开发者头条】Raft：寻找一种易于理解的一致性算法](https://toutiao.io/k/79oehr1)
-- [【开发者头条】云原生的下一步，或从WebAssembly在边缘取代Docker开始](https://toutiao.io/k/5y8ajwx)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -313,7 +309,7 @@
 
 
 
-- [【开发者头条】Presto-在字节跳动的应用](https://toutiao.io/k/tilys48)
+- [【开发者头条】Nginx-通过-Lua-+-Redis-实现动态封禁-IP](https://toutiao.io/k/1zav0z2)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

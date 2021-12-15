@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-14 23:55:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-15 00:38:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-15-Rocky-Linux-如何把系统版本锁定在-8.4？](https://www.v2ex.com/t/822269) 
 - [2021-12-14-Snakeware](https://www.v2ex.com/t/822267) 
 - [2021-12-14-京东上卖的月租-5-元手机卡，在线下实体店为什么买不到呢？](https://www.v2ex.com/t/822266) 
 - [2021-12-14-RXCGames-为打造首个虚拟货币娱乐网站，成功筹款将近-30-万美金](https://www.v2ex.com/t/822265) 

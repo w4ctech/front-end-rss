@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-15 16:33:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-15 17:01:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -117,6 +117,8 @@
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-15-29-一直一个人，活着没意思](https://www.v2ex.com/t/822489) 
+- [【V2EX】2021-12-15-上海浦江镇-求-Python-后端开发工程师（推荐入职找我拿红包）](https://www.v2ex.com/t/822488) 
 - [【V2EX】2021-12-15-nodejs-前后端一把梭的优势在哪？](https://www.v2ex.com/t/822487) 
 - [【V2EX】2021-12-15-做了一个-chrome-插件，将书签映射到「新标签页」，要来试试吗？](https://www.v2ex.com/t/822486) 
 - [【V2EX】2021-12-15-深圳王卡宽带提速了吗？](https://www.v2ex.com/t/822484) 
@@ -154,7 +156,6 @@
 - [【V2EX】2021-12-15-发现-Apple-官方商店也有-Macbook-Pro-的磁吸式屏幕膜，有没有体验过的？](https://www.v2ex.com/t/822443) 
 - [【V2EX】2021-12-15-成都/远程-招聘-Golang/安全运维/架构师/区块链开发/Flutter/-Java-大数据](https://www.v2ex.com/t/822442) 
 - [【V2EX】2021-12-15-笔记本你们发货了么？](https://www.v2ex.com/t/822440) 
-- [【V2EX】2021-12-15-《电波聚合》一个聚合了-RSS-博客、动漫、漫画、轻小说、p-站的-WEB-项目！](https://www.v2ex.com/t/822439) 
 - [【技术头条】2021-12-15-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-15-鸿蒙OS、安卓、iOS测试对比，结果出乎意料！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14847&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9RWmROLInm3RJpX1ZHjHmw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-15-张一鸣：给产品技术人才的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14846&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492724%26amp%3Bidx%3D2%26amp%3Bsn%3D3d506086a6e038c1eb1a4b9f404f90c1%26amp%3Bchksm%3Dfa3f052fcd488c395f8202745eff3a5d4db9f15102f06042d8683d94a108dab53b582fe57726%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -176,8 +177,8 @@
 - [【技术头条】2021-12-15-谷歌发布新编程语言，居然专治这个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14830&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492576%26amp%3Bidx%3D1%26amp%3Bsn%3De481178446fb6b3ee0eec9d7b400277b%26amp%3Bchksm%3Dfa3f02bbcd488badceacdd16cb64c930d39f2fcf603004a0379cfacdf1098bb38e5f37b2f85a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-15-黄峥自述：一路走来，我的经历与思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14829&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492576%26amp%3Bidx%3D2%26amp%3Bsn%3Dc5a30edc3eacc758d34309db02d0bbad%26amp%3Bchksm%3Dfa3f02bbcd488bad771301485403b28ca910cba0754c0141e366d2e3d1a02ac8eff17c2ad23f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2021-12-15-用-Go-+-Redis-实现分布式锁](https://toutiao.io/k/0yfuwmr) 
-- [【开发者头条】2021-12-15-网络通信之Session的历史血脉](https://toutiao.io/k/xd4b8n2) 
 - [【开发者头条】2021-12-15-Nginx-通过-Lua-+-Redis-实现动态封禁-IP](https://toutiao.io/k/1zav0z2) 
+- [【开发者头条】2021-12-15-网络通信之Session的历史血脉](https://toutiao.io/k/xd4b8n2) 
 - [【开发者头条】2021-12-15-Uncle-Bob-的-SOLID-软件设计原则——Python-实例讲解](https://toutiao.io/k/zz4jho7) 
 - [【开发者头条】2021-12-15-Go-误用-exec.Command-导致多进死锁的调试记录](https://toutiao.io/k/3kcunns) 
 - [【开发者头条】2021-12-15-深入理解-Hive-UDAF](https://toutiao.io/k/c53m0zu) 
@@ -195,14 +196,14 @@
 - [【开发者头条】2021-12-15-Go-为什么不支持可重入锁？](https://toutiao.io/k/w2bwlxo) 
 - [【开发者头条】2021-12-15-游戏数值策划入门（一）：属性对应关系](https://toutiao.io/k/fvsm5v5) 
 - [【开发者头条】2021-12-15-20-个-.NET-6-新增的-API](https://toutiao.io/k/tb1lm1x) 
-- [【开发者头条】2021-12-15-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [【开发者头条】2021-12-15-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
+- [【开发者头条】2021-12-15-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [【开发者头条】2021-12-15-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
 - [【开发者头条】2021-12-15-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [【开发者头条】2021-12-15-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [【开发者头条】2021-12-15-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [【开发者头条】2021-12-15-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
 - [【开发者头条】2021-12-15-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
 - [【开发者头条】2021-12-15-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [【开发者头条】2021-12-15-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
-- [【开发者头条】2021-12-15-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

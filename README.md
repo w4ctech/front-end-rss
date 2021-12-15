@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 06:50:08，:rocket: 更新条数: +1590， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 07:13:12，:rocket: 更新条数: +1591， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-15-12月14日全国新增新冠67例-三省份本土50例](https://m.caixin.com/m/2021-12-15/101817795.html) ![](assets/new.png)  
+- [2021-12-15-【境内疫情观察】全国新增50例本土病例（12月14日）](https://database.caixin.com/m/2021-12-15/101818008.html) ![](assets/new.png)  
 - [2021-12-15-辉瑞新冠口服药显著降低住院和死亡风险-非洲病例激增｜大流行手记（12月14日）](https://m.caixin.com/m/2021-12-15/101817778.html) ![](assets/new.png)  
 - [2021-12-14-英政府忧奥密克戎实际日增恐达20万例-疫苗预约网站一度宕机](https://international.caixin.com/m/2021-12-14/101817725.html) ![](assets/new.png)  
 - [2021-12-14-广州通报1例奥密克戎阳性病例-居家隔离中被检出](https://m.caixin.com/m/2021-12-14/101817648.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-11-【境内疫情观察】全国新增51例本土病例（12月10日）](https://database.caixin.com/m/2021-12-11/101816619.html) ![](assets/new.png)  
 - [2021-12-11-美奥密克戎患者多已完全接种，多国敦促儿童打疫苗｜大流行手记（12月10日）](https://m.caixin.com/m/2021-12-11/101816508.html) ![](assets/new.png)  
 - [2021-12-11-口岸城市疫情防控10个问答](https://m.caixin.com/m/2021-12-11/101816615.html) ![](assets/new.png)  
-- [2021-12-10-【境内疫情观察】全国新增37例本土病例（12月9日）](https://database.caixin.com/m/2021-12-10/101816185.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2021-12-15-想来咨询下关于冷冻治疗疣子的经验](https://www.v2ex.com/t/822384) ![](assets/new.png)  
+- [2021-12-15-随便写了个安卓手机通过-Bark-给-iOS-转发短信的-app](https://www.v2ex.com/t/822383) ![](assets/new.png)  
+- [2021-12-15-后管页面每个按钮都要加权限控制吗？实际上真用得到吗？有没有更简单一点的处理的案例？](https://www.v2ex.com/t/822382) ![](assets/new.png)  
+- [2021-12-15-MacOS-官方壁纸下载，-heic-格式。](https://www.v2ex.com/t/822380) ![](assets/new.png)  
+- [2021-12-15-关于-apple-watch-SE-的使用](https://www.v2ex.com/t/822379) ![](assets/new.png)  
+- [2021-12-15-求教大佬,手机电脑都能看，就-google-tv-看不了奈飞](https://www.v2ex.com/t/822377) ![](assets/new.png)  
 - [2021-12-15-是我见识少了嘛，-macOS-的-sidecar-功能居然还会协同息屏亮屏？](https://www.v2ex.com/t/822376) ![](assets/new.png)  
 - [2021-12-15-一个多月，我自己写一个-woocommerce-主题](https://www.v2ex.com/t/822374) ![](assets/new.png)  
 - [2021-12-15-去油管开个频道专门做反智视频，能火吗？](https://www.v2ex.com/t/822373) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-12-15-闲鱼-75-折员工优惠-1200-手续费靠谱吗](https://www.v2ex.com/t/822363) ![](assets/new.png)  
 - [2021-12-15-请问一下，学手绘需要掌握哪些基础技能呢](https://www.v2ex.com/t/822362) ![](assets/new.png)  
 - [2021-12-15-X-宝-IOS-美区-兑换码-反激活](https://www.v2ex.com/t/822361) ![](assets/new.png)  
-- [2021-12-15-android-通过-adb-查看电池健康](https://www.v2ex.com/t/822360) ![](assets/new.png)  
-- [2021-12-15-闲着无聊，写了一个咕咕语翻译器](https://www.v2ex.com/t/822359) ![](assets/new.png)  
-- [2021-12-15-轻之国度-epub-生成器更新（又来了](https://www.v2ex.com/t/822357) ![](assets/new.png)  
-- [2021-12-15-昨天收到了新南威尔士数据科学的-offer，是否要继续国内双非考研？](https://www.v2ex.com/t/822356) ![](assets/new.png)  
-- [2021-12-15-有几台闲置智能机，如何发挥余热](https://www.v2ex.com/t/822355) ![](assets/new.png)  
-- [2021-12-15-有没有这样的数据库代理工具？](https://www.v2ex.com/t/822354) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,8 +572,8 @@
 - [2021-12-15-C#-是否可以将-动态或匿名类型-转成-强类型-？](https://toutiao.io/k/rvj3gl8) ![](assets/new.png)  
 - [2021-12-15-专访-KubeVela-核心团队：如何简化云原生复杂环境下的应用交付和管理](https://toutiao.io/k/jgq1sbs) ![](assets/new.png)  
 - [2021-12-15-Go-为什么不支持可重入锁？](https://toutiao.io/k/w2bwlxo) ![](assets/new.png)  
-- [2021-12-15-「建议收藏」第一人称视角带你走进-Vue-源码世界](https://toutiao.io/k/496176u) ![](assets/new.png)  
 - [2021-12-15-腾讯微信部门大数据开发面试题-附答案](https://toutiao.io/k/kh7c8rr) ![](assets/new.png)  
+- [2021-12-15-「建议收藏」第一人称视角带你走进-Vue-源码世界](https://toutiao.io/k/496176u) ![](assets/new.png)  
 - [2021-12-15-20-个-.NET-6-新增的-API](https://toutiao.io/k/tb1lm1x) ![](assets/new.png)  
 - [2021-12-15-游戏数值策划入门（一）：属性对应关系](https://toutiao.io/k/fvsm5v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

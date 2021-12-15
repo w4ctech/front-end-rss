@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-15 12:19:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-15 12:34:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-15-去年的入门版-M1-MBP，最近发现用久了（长期不关机用）就会奇卡，重启会变流畅。](https://www.v2ex.com/t/822458) 
+- [2021-12-15-maven-shade-plugin-vs-spring-boot-maven-plugin](https://www.v2ex.com/t/822457) 
 - [2021-12-15-iOS-定时-开启-关闭-指定-app-通知](https://www.v2ex.com/t/822456) 
 - [2021-12-15-月入多少可以买-MBP14+](https://www.v2ex.com/t/822455) 
 - [2021-12-15-南京|Weee-急招-Nodejs-15-25K-x-15](https://www.v2ex.com/t/822454) 
@@ -42,5 +44,3 @@
 - [2021-12-15-vscode-NPM-脚本怎样设置？](https://www.v2ex.com/t/822414) 
 - [2021-12-15-有没有什么好的在-Finder-当前文件夹下打开-VSCode/iTerm/PyCharm-的方案](https://www.v2ex.com/t/822413) 
 - [2021-12-15-笔记软件-推荐一套笔记系统方法论-vscode+git+markdown+foam-等插件](https://www.v2ex.com/t/822412) 
-- [2021-12-15-ARM-版-MBP-刚到，求开发环境最佳配置](https://www.v2ex.com/t/822409) 
-- [2021-12-15-腾讯云双-12-轻量服务器真的很香，直接部署个应用镜像就能搞个私有的网页版-vscode，写代码很丝滑很爽](https://www.v2ex.com/t/822407) 

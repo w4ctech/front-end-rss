@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 14:54:24，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 15:13:19，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-15-有个网站必须调试模式才能访问？](https://www.v2ex.com/t/822481) ![](assets/new.png)  
+- [2021-12-15-摸鱼副业开发了个-ios-小工具，用语音记录灵感和笔记，来交流交流，送-10-个年会员](https://www.v2ex.com/t/822479) ![](assets/new.png)  
 - [2021-12-15-如何降低自己的欲望](https://www.v2ex.com/t/822478) ![](assets/new.png)  
 - [2021-12-15-今天碰到一道在代码片段中找-20-个-bug-的-Java-面试题，有没有老哥帮忙看一下？](https://www.v2ex.com/t/822477) ![](assets/new.png)  
 - [2021-12-15-15-款-8G-128-固态的-MBP-是否还能胜任-idea-的-Java-开发吗?](https://www.v2ex.com/t/822475) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-15-主板-4-个内存插槽-2-个不能用](https://www.v2ex.com/t/822461) ![](assets/new.png)  
 - [2021-12-15-家里奉节脐橙成熟了，主要是纽荷尔和福本](https://www.v2ex.com/t/822460) ![](assets/new.png)  
 - [2021-12-15-去年的入门版-M1-MBP，最近发现用久了（长期不关机用）就会奇卡，重启会变流畅。](https://www.v2ex.com/t/822458) ![](assets/new.png)  
-- [2021-12-15-maven-shade-plugin-vs-spring-boot-maven-plugin](https://www.v2ex.com/t/822457) ![](assets/new.png)  
-- [2021-12-15-iOS-定时-开启-关闭-指定-app-通知](https://www.v2ex.com/t/822456) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,8 +570,8 @@
 - [2021-12-15-面向未来与浏览器规范的前端DDD架构设计](https://toutiao.io/k/npxba6a) ![](assets/new.png)  
 - [2021-12-15-如何在建木CI中使用Vault管理密钥](https://toutiao.io/k/euc0uug) ![](assets/new.png)  
 - [2021-12-15-C#-是否可以将-动态或匿名类型-转成-强类型-？](https://toutiao.io/k/rvj3gl8) ![](assets/new.png)  
-- [2021-12-15-专访-KubeVela-核心团队：如何简化云原生复杂环境下的应用交付和管理](https://toutiao.io/k/jgq1sbs) ![](assets/new.png)  
 - [2021-12-15-腾讯微信部门大数据开发面试题-附答案](https://toutiao.io/k/kh7c8rr) ![](assets/new.png)  
+- [2021-12-15-专访-KubeVela-核心团队：如何简化云原生复杂环境下的应用交付和管理](https://toutiao.io/k/jgq1sbs) ![](assets/new.png)  
 - [2021-12-15-Go-为什么不支持可重入锁？](https://toutiao.io/k/w2bwlxo) ![](assets/new.png)  
 - [2021-12-15-「建议收藏」第一人称视角带你走进-Vue-源码世界](https://toutiao.io/k/496176u) ![](assets/new.png)  
 - [2021-12-15-游戏数值策划入门（一）：属性对应关系](https://toutiao.io/k/fvsm5v5) ![](assets/new.png)  

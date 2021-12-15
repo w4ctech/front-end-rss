@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 14:20:39，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 14:37:48，:rocket: 更新条数: +1590， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-15-vivaldi-浏览器内地网络，翻译问题](https://www.v2ex.com/t/822474) ![](assets/new.png)  
+- [2021-12-15-notion-最近两天能打开浏览，但是修改后一直-saving-，然后保存不成功](https://www.v2ex.com/t/822473) ![](assets/new.png)  
+- [2021-12-15-怎么去搞懂一个框架](https://www.v2ex.com/t/822472) ![](assets/new.png)  
 - [2021-12-15-请问各位大佬，-Mac-下面有没有比较好的文件整理工具，可以根据文件类型，文件大小，把一个硬盘或大目录下的所有文件排序的？](https://www.v2ex.com/t/822471) ![](assets/new.png)  
 - [2021-12-15-请问-google-地图，中文搜索这些产品还在维护吗？](https://www.v2ex.com/t/822470) ![](assets/new.png)  
 - [2021-12-15-新买的-mac14-生产日期是-2017-年,请问正常吗？](https://www.v2ex.com/t/822469) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-15-南京|Weee-急招-Nodejs-15-25K-x-15](https://www.v2ex.com/t/822454) ![](assets/new.png)  
 - [2021-12-15-厦门今年裁员的公司是不是很多？](https://www.v2ex.com/t/822451) ![](assets/new.png)  
 - [2021-12-15-升级到-Monterey-12.1-后，-command-+-轻触-问题依然没有被修复](https://www.v2ex.com/t/822449) ![](assets/new.png)  
-- [2021-12-15-请问大伙，我升级了-monterey，-safari-还是老版的怎么解决呢](https://www.v2ex.com/t/822448) ![](assets/new.png)  
-- [2021-12-15-将-OneDrive-变成博客](https://www.v2ex.com/t/822447) ![](assets/new.png)  
-- [2021-12-15-智能存储|极速高清媒体处理能力](https://www.v2ex.com/t/822446) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

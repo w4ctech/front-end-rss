@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 05:54:25，:rocket: 更新条数: +1582， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 06:14:01，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,15 @@
 </summary>
 
 
+- [2021-12-15-闲鱼-75-折员工优惠-1200-手续费靠谱吗](https://www.v2ex.com/t/822363) ![](assets/new.png)  
+- [2021-12-15-请问一下，学手绘需要掌握哪些基础技能呢](https://www.v2ex.com/t/822362) ![](assets/new.png)  
+- [2021-12-15-X-宝-IOS-美区-兑换码-反激活](https://www.v2ex.com/t/822361) ![](assets/new.png)  
+- [2021-12-15-android-通过-adb-查看电池健康](https://www.v2ex.com/t/822360) ![](assets/new.png)  
+- [2021-12-15-闲着无聊，写了一个咕咕语翻译器](https://www.v2ex.com/t/822359) ![](assets/new.png)  
+- [2021-12-15-轻之国度-epub-生成器更新（又来了](https://www.v2ex.com/t/822357) ![](assets/new.png)  
+- [2021-12-15-昨天收到了新南威尔士数据科学的-offer，是否要继续国内双非考研？](https://www.v2ex.com/t/822356) ![](assets/new.png)  
+- [2021-12-15-有几台闲置智能机，如何发挥余热](https://www.v2ex.com/t/822355) ![](assets/new.png)  
+- [2021-12-15-有没有这样的数据库代理工具？](https://www.v2ex.com/t/822354) ![](assets/new.png)  
 - [2021-12-15-6-年老-Python-程序员，熟练-Django,-大数据分析。找点外快](https://www.v2ex.com/t/822353) ![](assets/new.png)  
 - [2021-12-15-QQ-PC-版的“好友动态”的红点永远都消不掉？](https://www.v2ex.com/t/822351) ![](assets/new.png)  
 - [2021-12-15-加拿大蒙特利尔，计划-9-个月后上读-3-年计算机专业，有哪些事情可以提前准备？](https://www.v2ex.com/t/822348) ![](assets/new.png)  
@@ -505,15 +514,6 @@
 - [2021-12-15-阿里云的-ubuntu-镜像中，源默认包含了-proposed-package，不稳定也不安全](https://www.v2ex.com/t/822342) ![](assets/new.png)  
 - [2021-12-15-花生壳解析到-127.0.0.2](https://www.v2ex.com/t/822341) ![](assets/new.png)  
 - [2021-12-15-阿里云体验一个静态应用部署，可以领保温杯和-100-元代金券](https://www.v2ex.com/t/822340) ![](assets/new.png)  
-- [2021-12-15-tf_serving-性能](https://www.v2ex.com/t/822339) ![](assets/new.png)  
-- [2021-12-15-目前国内的环境哪个活的更滋润呢？](https://www.v2ex.com/t/822337) ![](assets/new.png)  
-- [2021-12-15-看准网的工资数据哪里来的?](https://www.v2ex.com/t/822336) ![](assets/new.png)  
-- [2021-12-15-上海WLB-SAP-急招-Java-高级开发](https://www.v2ex.com/t/822335) ![](assets/new.png)  
-- [2021-12-15-2021-年，我为什么选择-Miniflux-作为-RSS-主力工具](https://www.v2ex.com/t/822334) ![](assets/new.png)  
-- [2021-12-15-大龄中小厂程序员还有希望进大厂么](https://www.v2ex.com/t/822332) ![](assets/new.png)  
-- [2021-12-15-卖自己做的上传分享软件了（类似网盘、图床），-9.9-元](https://www.v2ex.com/t/822331) ![](assets/new.png)  
-- [2021-12-15-周六日搞了一个，逻辑推理刷题小程序，-V-站同学没事可以来醒醒脑！](https://www.v2ex.com/t/822330) ![](assets/new.png)  
-- [2021-12-15-请问-mcafee-企业版的购买途径](https://www.v2ex.com/t/822328) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2021-12-15-面向未来与浏览器规范的前端DDD架构设计](https://toutiao.io/k/npxba6a) ![](assets/new.png)  
 - [2021-12-15-C#-是否可以将-动态或匿名类型-转成-强类型-？](https://toutiao.io/k/rvj3gl8) ![](assets/new.png)  
 - [2021-12-15-专访-KubeVela-核心团队：如何简化云原生复杂环境下的应用交付和管理](https://toutiao.io/k/jgq1sbs) ![](assets/new.png)  
-- [2021-12-15-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-15-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
-- [2021-12-15-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-15-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
-- [2021-12-15-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
+- [2021-12-15-Go-为什么不支持可重入锁？](https://toutiao.io/k/w2bwlxo) ![](assets/new.png)  
+- [2021-12-15-20-个-.NET-6-新增的-API](https://toutiao.io/k/tb1lm1x) ![](assets/new.png)  
+- [2021-12-15-腾讯微信部门大数据开发面试题-附答案](https://toutiao.io/k/kh7c8rr) ![](assets/new.png)  
+- [2021-12-15-「建议收藏」第一人称视角带你走进-Vue-源码世界](https://toutiao.io/k/496176u) ![](assets/new.png)  
+- [2021-12-15-游戏数值策划入门（一）：属性对应关系](https://toutiao.io/k/fvsm5v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

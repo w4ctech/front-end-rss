@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-15 22:55:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-15 23:13:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -277,7 +277,6 @@
 - [【V2EX】做了一个-chrome-插件，将书签映射到「新标签页」，要来试试吗？](https://www.v2ex.com/t/822486)
 - [【V2EX】有个网站必须调试模式才能访问？](https://www.v2ex.com/t/822481)
 - [【V2EX】vivaldi-浏览器内地网络，翻译问题](https://www.v2ex.com/t/822474)
-- [【V2EX】请问大伙，我升级了-monterey，-safari-还是老版的怎么解决呢](https://www.v2ex.com/t/822448)
 - [【开发者头条】Go-误用-exec.Command-导致多进死锁的调试记录](https://toutiao.io/k/3kcunns)
 - [【开发者头条】面向未来与浏览器规范的前端DDD架构设计](https://toutiao.io/k/npxba6a)
 - [......【查看更多】......](./details/tags/browser.md)

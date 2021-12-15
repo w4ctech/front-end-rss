@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-15 08:26:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-15 08:44:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-15-为什么外接显示器和-mac-一起用，颜色就变了](https://www.v2ex.com/t/822400) 
 - [2021-12-15-有人了解-kodi、xmbc-刮削器插件吗，内部是如何识别文件名的呢](https://www.v2ex.com/t/822396) 
 - [2021-12-15-iOS15.2-系统更新-S5-以上的国行-Apple-Watch-支持心电图了](https://www.v2ex.com/t/822395) 
 - [2021-12-15-Linux-目录权限为？，无法删除](https://www.v2ex.com/t/822394) 

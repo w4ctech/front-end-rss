@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 13:41:25，:rocket: 更新条数: +1588， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 13:54:37，:rocket: 更新条数: +1587， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-15-iPad2021-还是安卓平板？](https://www.v2ex.com/t/822468) ![](assets/new.png)  
+- [2021-12-15-特价-Setapp-230+-软件大集合/一年订阅，下单再减-20-元](https://www.v2ex.com/t/822467) ![](assets/new.png)  
+- [2021-12-15-typora-没购买，试用期过了好像也不影响使用](https://www.v2ex.com/t/822466) ![](assets/new.png)  
+- [2021-12-15-程序全屏幕时，多个程序触摸板横滑切换无反应时什么原因？](https://www.v2ex.com/t/822465) ![](assets/new.png)  
 - [2021-12-15-树莓派-4-打开后，上不了外网](https://www.v2ex.com/t/822463) ![](assets/new.png)  
 - [2021-12-15-冬天的羊绒衫大家怎么洗的？自己洗还是干洗店？](https://www.v2ex.com/t/822462) ![](assets/new.png)  
 - [2021-12-15-主板-4-个内存插槽-2-个不能用](https://www.v2ex.com/t/822461) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-15-发现-Apple-官方商店也有-Macbook-Pro-的磁吸式屏幕膜，有没有体验过的？](https://www.v2ex.com/t/822443) ![](assets/new.png)  
 - [2021-12-15-成都/远程-招聘-Golang/安全运维/架构师/区块链开发/Flutter/-Java-大数据](https://www.v2ex.com/t/822442) ![](assets/new.png)  
 - [2021-12-15-笔记本你们发货了么？](https://www.v2ex.com/t/822440) ![](assets/new.png)  
-- [2021-12-15-《电波聚合》一个聚合了-RSS-博客、动漫、漫画、轻小说、p-站的-WEB-项目！](https://www.v2ex.com/t/822439) ![](assets/new.png)  
-- [2021-12-15-JNDI-注入漏洞的前世今生](https://www.v2ex.com/t/822437) ![](assets/new.png)  
-- [2021-12-15-鉴于-10-月份买的程序员专用键盘马上就要到了，提前问问大家有什么好玩的-diy-思路](https://www.v2ex.com/t/822436) ![](assets/new.png)  
-- [2021-12-15-有人成功注销掉过随申办-app-吗？](https://www.v2ex.com/t/822434) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

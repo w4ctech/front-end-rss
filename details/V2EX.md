@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-12-15 13:41:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-15 13:54:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-15-iPad2021-还是安卓平板？](https://www.v2ex.com/t/822468) 
+- [2021-12-15-特价-Setapp-230+-软件大集合/一年订阅，下单再减-20-元](https://www.v2ex.com/t/822467) 
+- [2021-12-15-typora-没购买，试用期过了好像也不影响使用](https://www.v2ex.com/t/822466) 
+- [2021-12-15-程序全屏幕时，多个程序触摸板横滑切换无反应时什么原因？](https://www.v2ex.com/t/822465) 
 - [2021-12-15-树莓派-4-打开后，上不了外网](https://www.v2ex.com/t/822463) 
 - [2021-12-15-冬天的羊绒衫大家怎么洗的？自己洗还是干洗店？](https://www.v2ex.com/t/822462) 
 - [2021-12-15-主板-4-个内存插槽-2-个不能用](https://www.v2ex.com/t/822461) 
@@ -37,8 +41,3 @@
 - [2021-12-15-finder-有没有软件或什么办法实现类似-windows-listary-的一个功能](https://www.v2ex.com/t/822422) 
 - [2021-12-15-求推荐个-android-文本编辑的-app](https://www.v2ex.com/t/822421) 
 - [2021-12-15-Fleet-什么时候发布啊，急啊！全家桶准备丢弃了。](https://www.v2ex.com/t/822420) 
-- [2021-12-15-Macbook-Pro-2017-128G-本来想买回外置固态硬盘扩容的，结果...](https://www.v2ex.com/t/822418) 
-- [2021-12-15-M1-Pro-HDMI-连接怪事一桩](https://www.v2ex.com/t/822417) 
-- [2021-12-15-新版-Android-Studio-全局搜索问题](https://www.v2ex.com/t/822416) 
-- [2021-12-15-深圳出租房如何科学灭蚊](https://www.v2ex.com/t/822415) 
-- [2021-12-15-vscode-NPM-脚本怎样设置？](https://www.v2ex.com/t/822414) 

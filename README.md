@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 03:57:05，:rocket: 更新条数: +1582， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 04:15:45，:rocket: 更新条数: +1582， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-15-看准网的工资数据哪里来的?](https://www.v2ex.com/t/822336) ![](assets/new.png)  
+- [2021-12-15-上海WLB-SAP-急招-Java-高级开发](https://www.v2ex.com/t/822335) ![](assets/new.png)  
+- [2021-12-15-2021-年，我为什么选择-Miniflux-作为-RSS-主力工具](https://www.v2ex.com/t/822334) ![](assets/new.png)  
 - [2021-12-15-大龄中小厂程序员还有希望进大厂么](https://www.v2ex.com/t/822332) ![](assets/new.png)  
 - [2021-12-15-卖自己做的上传分享软件了（类似网盘、图床），-9.9-元](https://www.v2ex.com/t/822331) ![](assets/new.png)  
 - [2021-12-15-周六日搞了一个，逻辑推理刷题小程序，-V-站同学没事可以来醒醒脑！](https://www.v2ex.com/t/822330) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-15-深圳/宝安/招-go-海外头条业务，发展快速盈利团队氛围好](https://www.v2ex.com/t/822314) ![](assets/new.png)  
 - [2021-12-15-投简历用-Gmail-发邮件到-163-被退信拒收，没查看-Gmail-垃圾邮件里的退信通知，错过了。](https://www.v2ex.com/t/822313) ![](assets/new.png)  
 - [2021-12-15-win11-输入法切换快捷键设置之后不生效](https://www.v2ex.com/t/822312) ![](assets/new.png)  
-- [2021-12-15-站里有没有懂-esp32-+-micropython-的，有偿请教几个问题？](https://www.v2ex.com/t/822310) ![](assets/new.png)  
-- [2021-12-15-官网买的-macbookpro-发货时间准吗？](https://www.v2ex.com/t/822309) ![](assets/new.png)  
-- [2021-12-15-为什么-Google-中文比必应中文多了这么多垃圾站？](https://www.v2ex.com/t/822308) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,18 +564,18 @@
 - [2021-12-15-深入理解-Hive-UDAF](https://toutiao.io/k/c53m0zu) ![](assets/new.png)  
 - [2021-12-15-630.-课程表III](https://toutiao.io/k/mpuwr1o) ![](assets/new.png)  
 - [2021-12-15-WebRTC中，网络抖动和往返时间哪个更重要](https://toutiao.io/k/xkfiei7) ![](assets/new.png)  
-- [2021-12-15-如何在建木CI中使用Vault管理密钥](https://toutiao.io/k/euc0uug) ![](assets/new.png)  
 - [2021-12-15-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/vbel7h3) ![](assets/new.png)  
 - [2021-12-15-lighthouse-从a到z教程](https://toutiao.io/k/7cbvvgh) ![](assets/new.png)  
+- [2021-12-15-如何在建木CI中使用Vault管理密钥](https://toutiao.io/k/euc0uug) ![](assets/new.png)  
 - [2021-12-15-C#-是否可以将-动态或匿名类型-转成-强类型-？](https://toutiao.io/k/rvj3gl8) ![](assets/new.png)  
 - [2021-12-15-基于-iframe-的全新微前端方案](https://toutiao.io/k/1opaibm) ![](assets/new.png)  
 - [2021-12-15-面向未来与浏览器规范的前端DDD架构设计](https://toutiao.io/k/npxba6a) ![](assets/new.png)  
 - [2021-12-15-专访-KubeVela-核心团队：如何简化云原生复杂环境下的应用交付和管理](https://toutiao.io/k/jgq1sbs) ![](assets/new.png)  
-- [2021-12-15-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-15-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
-- [2021-12-15-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
 - [2021-12-15-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
-- [2021-12-15-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-15-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
+- [2021-12-15-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-15-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) ![](assets/new.png)  
+- [2021-12-15-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

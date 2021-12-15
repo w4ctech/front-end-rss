@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 02:46:52，:rocket: 更新条数: +1582， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 02:55:28，:rocket: 更新条数: +1582， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-15-mac-mini-重启后显示器上的-USB-失效](https://www.v2ex.com/t/822317) ![](assets/new.png)  
+- [2021-12-15-称赞下字节和米哈游，中国的企业走出去。](https://www.v2ex.com/t/822316) ![](assets/new.png)  
+- [2021-12-15-招聘汇总：区块链招聘-上海/北京/香港/新加坡](https://www.v2ex.com/t/822315) ![](assets/new.png)  
+- [2021-12-15-深圳/宝安/招-go-海外头条业务，发展快速盈利团队氛围好](https://www.v2ex.com/t/822314) ![](assets/new.png)  
 - [2021-12-15-投简历用-Gmail-发邮件到-163-被退信拒收，没查看-Gmail-垃圾邮件里的退信通知，错过了。](https://www.v2ex.com/t/822313) ![](assets/new.png)  
 - [2021-12-15-win11-输入法切换快捷键设置之后不生效](https://www.v2ex.com/t/822312) ![](assets/new.png)  
 - [2021-12-15-作为铲屎官，大家有推荐宠物工具类-App-么？](https://www.v2ex.com/t/822311) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-15-迫于贫穷，讨论下外卖大额红包推送的规律。](https://www.v2ex.com/t/822297) ![](assets/new.png)  
 - [2021-12-15-PS-手绘秋日花草扁平风插画（创作过程详解）](https://www.v2ex.com/t/822296) ![](assets/new.png)  
 - [2021-12-15-树莓派放了一段时间感觉外部灰蒙蒙的-单片机外部除锈有什么手段吗？](https://www.v2ex.com/t/822295) ![](assets/new.png)  
-- [2021-12-15-CODING-x-百果园，水果零售龙头迈出-DevOps-体系建设第一步](https://www.v2ex.com/t/822294) ![](assets/new.png)  
-- [2021-12-15-大家长途开车是如何保护眼睛的？](https://www.v2ex.com/t/822293) ![](assets/new.png)  
-- [2021-12-15-作为铲屎官，大家对宠物工具类-App-需求是怎样的呢？](https://www.v2ex.com/t/822292) ![](assets/new.png)  
-- [2021-12-15-面试遇到让把-http-code-三位数字拆开分别解释含义的](https://www.v2ex.com/t/822290) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2021-12-15-面向未来与浏览器规范的前端DDD架构设计](https://toutiao.io/k/npxba6a) ![](assets/new.png)  
 - [2021-12-15-基于-iframe-的全新微前端方案](https://toutiao.io/k/1opaibm) ![](assets/new.png)  
 - [2021-12-15-专访-KubeVela-核心团队：如何简化云原生复杂环境下的应用交付和管理](https://toutiao.io/k/jgq1sbs) ![](assets/new.png)  
-- [2021-12-15-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-15-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
-- [2021-12-15-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-15-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
 - [2021-12-15-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-15-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-15-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) ![](assets/new.png)  
+- [2021-12-15-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-15-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

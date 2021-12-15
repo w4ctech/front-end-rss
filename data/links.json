@@ -7714,6 +7714,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "mac mini 重启后显示器上的 USB 失效",
+        "link": "https://www.v2ex.com/t/822317",
+        "date": "2021-12-15"
+      },
+      {
+        "title": "称赞下字节和米哈游，中国的企业走出去。",
+        "link": "https://www.v2ex.com/t/822316",
+        "date": "2021-12-15"
+      },
+      {
+        "title": "招聘汇总：区块链招聘-上海/北京/香港/新加坡",
+        "link": "https://www.v2ex.com/t/822315",
+        "date": "2021-12-15"
+      },
+      {
+        "title": "[深圳/宝安/招 go] 海外头条业务，发展快速盈利团队氛围好",
+        "link": "https://www.v2ex.com/t/822314",
+        "date": "2021-12-15"
+      },
+      {
         "title": "投简历用 Gmail 发邮件到 163 被退信拒收，没查看 Gmail 垃圾邮件里的退信通知，错过了。",
         "link": "https://www.v2ex.com/t/822313",
         "date": "2021-12-15"
@@ -7882,26 +7902,6 @@
         "title": "Rocky Linux 如何把系统版本锁定在 8.4？",
         "link": "https://www.v2ex.com/t/822269",
         "date": "2021-12-15"
-      },
-      {
-        "title": "Snakeware",
-        "link": "https://www.v2ex.com/t/822267",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "京东上卖的月租 5 元手机卡，在线下实体店为什么买不到呢？",
-        "link": "https://www.v2ex.com/t/822266",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "RXCGames 为打造首个虚拟货币娱乐网站，成功筹款将近 30 万美金",
-        "link": "https://www.v2ex.com/t/822265",
-        "date": "2021-12-14"
-      },
-      {
-        "title": "M1 Macbook Air 待机耗电异常",
-        "link": "https://www.v2ex.com/t/822264",
-        "date": "2021-12-14"
       }
     ]
   },
@@ -8093,33 +8093,18 @@
         "date": "2021-12-15"
       },
       {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
-        "date": "2021-12-15"
-      },
-      {
-        "title": "[推荐] 京东秒杀架构升级优化实践",
-        "link": "https://toutiao.io/k/4cxy94p",
-        "date": "2021-12-15"
-      },
-      {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
-        "date": "2021-12-15"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
-        "date": "2021-12-15"
-      },
-      {
         "title": "[推荐] 高性能程序设计，缓存为王",
         "link": "https://toutiao.io/k/a9j7y4a",
         "date": "2021-12-15"
       },
       {
-        "title": "[推荐] Java 问题排查技术分享",
-        "link": "https://toutiao.io/k/i7k6iqk",
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
+        "date": "2021-12-15"
+      },
+      {
+        "title": "[推荐] 程序员的 10 个好习惯",
+        "link": "https://toutiao.io/k/2y6pnqa",
         "date": "2021-12-15"
       },
       {
@@ -8133,18 +8118,33 @@
         "date": "2021-12-15"
       },
       {
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
+        "date": "2021-12-15"
+      },
+      {
+        "title": "[推荐] 京东秒杀架构升级优化实践",
+        "link": "https://toutiao.io/k/4cxy94p",
+        "date": "2021-12-15"
+      },
+      {
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
+        "date": "2021-12-15"
+      },
+      {
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
+        "date": "2021-12-15"
+      },
+      {
         "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
         "link": "https://toutiao.io/k/0xsbfqz",
         "date": "2021-12-15"
       },
       {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
-        "date": "2021-12-15"
-      },
-      {
-        "title": "[推荐] 程序员的 10 个好习惯",
-        "link": "https://toutiao.io/k/2y6pnqa",
+        "title": "[推荐] Java 问题排查技术分享",
+        "link": "https://toutiao.io/k/i7k6iqk",
         "date": "2021-12-15"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-15 02:46:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-15 02:55:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -115,6 +115,10 @@
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-15-mac-mini-重启后显示器上的-USB-失效](https://www.v2ex.com/t/822317) 
+- [【V2EX】2021-12-15-称赞下字节和米哈游，中国的企业走出去。](https://www.v2ex.com/t/822316) 
+- [【V2EX】2021-12-15-招聘汇总：区块链招聘-上海/北京/香港/新加坡](https://www.v2ex.com/t/822315) 
+- [【V2EX】2021-12-15-深圳/宝安/招-go-海外头条业务，发展快速盈利团队氛围好](https://www.v2ex.com/t/822314) 
 - [【V2EX】2021-12-15-投简历用-Gmail-发邮件到-163-被退信拒收，没查看-Gmail-垃圾邮件里的退信通知，错过了。](https://www.v2ex.com/t/822313) 
 - [【V2EX】2021-12-15-win11-输入法切换快捷键设置之后不生效](https://www.v2ex.com/t/822312) 
 - [【V2EX】2021-12-15-作为铲屎官，大家有推荐宠物工具类-App-么？](https://www.v2ex.com/t/822311) 
@@ -149,10 +153,6 @@
 - [【V2EX】2021-12-15-switch-oled-有什么好的入手渠道](https://www.v2ex.com/t/822272) 
 - [【V2EX】2021-12-15-银河英雄传说预售开始](https://www.v2ex.com/t/822271) 
 - [【V2EX】2021-12-15-Rocky-Linux-如何把系统版本锁定在-8.4？](https://www.v2ex.com/t/822269) 
-- [【V2EX】2021-12-14-Snakeware](https://www.v2ex.com/t/822267) 
-- [【V2EX】2021-12-14-京东上卖的月租-5-元手机卡，在线下实体店为什么买不到呢？](https://www.v2ex.com/t/822266) 
-- [【V2EX】2021-12-14-RXCGames-为打造首个虚拟货币娱乐网站，成功筹款将近-30-万美金](https://www.v2ex.com/t/822265) 
-- [【V2EX】2021-12-14-M1-Macbook-Air-待机耗电异常](https://www.v2ex.com/t/822264) 
 - [【技术头条】2021-12-15-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-15-鸿蒙OS、安卓、iOS测试对比，结果出乎意料！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14847&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9RWmROLInm3RJpX1ZHjHmw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-15-张一鸣：给产品技术人才的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14846&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492724%26amp%3Bidx%3D2%26amp%3Bsn%3D3d506086a6e038c1eb1a4b9f404f90c1%26amp%3Bchksm%3Dfa3f052fcd488c395f8202745eff3a5d4db9f15102f06042d8683d94a108dab53b582fe57726%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -188,17 +188,17 @@
 - [【开发者头条】2021-12-15-面向未来与浏览器规范的前端DDD架构设计](https://toutiao.io/k/npxba6a) 
 - [【开发者头条】2021-12-15-基于-iframe-的全新微前端方案](https://toutiao.io/k/1opaibm) 
 - [【开发者头条】2021-12-15-专访-KubeVela-核心团队：如何简化云原生复杂环境下的应用交付和管理](https://toutiao.io/k/jgq1sbs) 
-- [【开发者头条】2021-12-15-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
-- [【开发者头条】2021-12-15-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
-- [【开发者头条】2021-12-15-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [【开发者头条】2021-12-15-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
 - [【开发者头条】2021-12-15-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
-- [【开发者头条】2021-12-15-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
-- [【开发者头条】2021-12-15-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [【开发者头条】2021-12-15-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
-- [【开发者头条】2021-12-15-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
 - [【开发者头条】2021-12-15-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [【开发者头条】2021-12-15-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
+- [【开发者头条】2021-12-15-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [【开发者头条】2021-12-15-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
+- [【开发者头条】2021-12-15-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [【开发者头条】2021-12-15-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
+- [【开发者头条】2021-12-15-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [【开发者头条】2021-12-15-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [【开发者头条】2021-12-15-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
+- [【开发者头条】2021-12-15-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

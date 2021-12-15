@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-12-15 13:21:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-15 13:36:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-15-树莓派-4-打开后，上不了外网](https://www.v2ex.com/t/822463) 
+- [2021-12-15-冬天的羊绒衫大家怎么洗的？自己洗还是干洗店？](https://www.v2ex.com/t/822462) 
+- [2021-12-15-主板-4-个内存插槽-2-个不能用](https://www.v2ex.com/t/822461) 
 - [2021-12-15-去年的入门版-M1-MBP，最近发现用久了（长期不关机用）就会奇卡，重启会变流畅。](https://www.v2ex.com/t/822458) 
 - [2021-12-15-maven-shade-plugin-vs-spring-boot-maven-plugin](https://www.v2ex.com/t/822457) 
 - [2021-12-15-iOS-定时-开启-关闭-指定-app-通知](https://www.v2ex.com/t/822456) 
@@ -39,5 +42,3 @@
 - [2021-12-15-新版-Android-Studio-全局搜索问题](https://www.v2ex.com/t/822416) 
 - [2021-12-15-深圳出租房如何科学灭蚊](https://www.v2ex.com/t/822415) 
 - [2021-12-15-vscode-NPM-脚本怎样设置？](https://www.v2ex.com/t/822414) 
-- [2021-12-15-有没有什么好的在-Finder-当前文件夹下打开-VSCode/iTerm/PyCharm-的方案](https://www.v2ex.com/t/822413) 
-- [2021-12-15-笔记软件-推荐一套笔记系统方法论-vscode+git+markdown+foam-等插件](https://www.v2ex.com/t/822412) 

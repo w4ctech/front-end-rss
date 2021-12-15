@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 08:59:21，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 09:13:14，:rocket: 更新条数: +1588， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-15-腾讯云轻量服务器双-11-没薅的不用后悔，双-12-活动-2H4G80G-一年-74-3-年-222，月底活动结束](https://www.v2ex.com/t/822407) ![](assets/new.png)  
+- [2021-12-15-关于虾皮的年前面试，年后入职](https://www.v2ex.com/t/822406) ![](assets/new.png)  
+- [2021-12-15-合肥程序员薪资行情](https://www.v2ex.com/t/822404) ![](assets/new.png)  
 - [2021-12-15-如何定时获取某个桌面软件界面显示的数据？](https://www.v2ex.com/t/822402) ![](assets/new.png)  
 - [2021-12-15-免费-SSL+自动续期-发个福利！第一个大陆-OCSP-的自动续期证书机构！](https://www.v2ex.com/t/822401) ![](assets/new.png)  
 - [2021-12-15-为什么外接显示器和-mac-一起用，颜色就变了](https://www.v2ex.com/t/822400) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-15-想来咨询下关于冷冻治疗疣子的经验](https://www.v2ex.com/t/822384) ![](assets/new.png)  
 - [2021-12-15-随便写了个安卓手机通过-Bark-给-iOS-转发短信的-app](https://www.v2ex.com/t/822383) ![](assets/new.png)  
 - [2021-12-15-后管页面每个按钮都要加权限控制吗？实际上真用得到吗？有没有更简单一点的处理的案例？](https://www.v2ex.com/t/822382) ![](assets/new.png)  
-- [2021-12-15-MacOS-官方壁纸下载，-heic-格式。](https://www.v2ex.com/t/822380) ![](assets/new.png)  
-- [2021-12-15-关于-apple-watch-SE-的使用](https://www.v2ex.com/t/822379) ![](assets/new.png)  
-- [2021-12-15-求教大佬,手机电脑都能看，就-google-tv-看不了奈飞](https://www.v2ex.com/t/822377) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,8 +573,8 @@
 - [2021-12-15-专访-KubeVela-核心团队：如何简化云原生复杂环境下的应用交付和管理](https://toutiao.io/k/jgq1sbs) ![](assets/new.png)  
 - [2021-12-15-Go-为什么不支持可重入锁？](https://toutiao.io/k/w2bwlxo) ![](assets/new.png)  
 - [2021-12-15-腾讯微信部门大数据开发面试题-附答案](https://toutiao.io/k/kh7c8rr) ![](assets/new.png)  
-- [2021-12-15-「建议收藏」第一人称视角带你走进-Vue-源码世界](https://toutiao.io/k/496176u) ![](assets/new.png)  
 - [2021-12-15-20-个-.NET-6-新增的-API](https://toutiao.io/k/tb1lm1x) ![](assets/new.png)  
+- [2021-12-15-「建议收藏」第一人称视角带你走进-Vue-源码世界](https://toutiao.io/k/496176u) ![](assets/new.png)  
 - [2021-12-15-游戏数值策划入门（一）：属性对应关系](https://toutiao.io/k/fvsm5v5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

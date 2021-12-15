@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 08:47:01，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 08:59:21，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-15-如何定时获取某个桌面软件界面显示的数据？](https://www.v2ex.com/t/822402) ![](assets/new.png)  
+- [2021-12-15-免费-SSL+自动续期-发个福利！第一个大陆-OCSP-的自动续期证书机构！](https://www.v2ex.com/t/822401) ![](assets/new.png)  
 - [2021-12-15-为什么外接显示器和-mac-一起用，颜色就变了](https://www.v2ex.com/t/822400) ![](assets/new.png)  
 - [2021-12-15-有人了解-kodi、xmbc-刮削器插件吗，内部是如何识别文件名的呢](https://www.v2ex.com/t/822396) ![](assets/new.png)  
 - [2021-12-15-iOS15.2-系统更新-S5-以上的国行-Apple-Watch-支持心电图了](https://www.v2ex.com/t/822395) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-15-MacOS-官方壁纸下载，-heic-格式。](https://www.v2ex.com/t/822380) ![](assets/new.png)  
 - [2021-12-15-关于-apple-watch-SE-的使用](https://www.v2ex.com/t/822379) ![](assets/new.png)  
 - [2021-12-15-求教大佬,手机电脑都能看，就-google-tv-看不了奈飞](https://www.v2ex.com/t/822377) ![](assets/new.png)  
-- [2021-12-15-是我见识少了嘛，-macOS-的-sidecar-功能居然还会协同息屏亮屏？](https://www.v2ex.com/t/822376) ![](assets/new.png)  
-- [2021-12-15-一个多月，我自己写一个-woocommerce-主题](https://www.v2ex.com/t/822374) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

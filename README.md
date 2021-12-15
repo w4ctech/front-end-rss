@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 04:54:47，:rocket: 更新条数: +1583， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 05:12:28，:rocket: 更新条数: +1581， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-15-加拿大蒙特利尔，计划-9-个月后上读-3-年计算机专业，有哪些事情可以提前准备？](https://www.v2ex.com/t/822348) ![](assets/new.png)  
 - [2021-12-15-iPhone-的副卡待机的时候是在-5G-状态还是-4G-状态?](https://www.v2ex.com/t/822347) ![](assets/new.png)  
 - [2021-12-15-附件系统应该怎么设计比较好？](https://www.v2ex.com/t/822346) ![](assets/new.png)  
 - [2021-12-15-当脐橙的甜蜜如约而至,-v-友们愿意用-USDT-买吗](https://www.v2ex.com/t/822345) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-15-请问-mcafee-企业版的购买途径](https://www.v2ex.com/t/822328) ![](assets/new.png)  
 - [2021-12-15-淘宝树睿科技-11-月-3-号下的单-目前没动静](https://www.v2ex.com/t/822327) ![](assets/new.png)  
 - [2021-12-15-年末必备项目：-2022-广州有什么值得去的好公司？](https://www.v2ex.com/t/822326) ![](assets/new.png)  
-- [2021-12-15-iOS15.2-正式版-AppStore-无法安装/升级-App😅](https://www.v2ex.com/t/822325) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,24 +558,24 @@
 
 - [2021-12-15-用-Go-+-Redis-实现分布式锁](https://toutiao.io/k/0yfuwmr) ![](assets/new.png)  
 - [2021-12-15-网络通信之Session的历史血脉](https://toutiao.io/k/xd4b8n2) ![](assets/new.png)  
-- [2021-12-15-Uncle-Bob-的-SOLID-软件设计原则——Python-实例讲解](https://toutiao.io/k/zz4jho7) ![](assets/new.png)  
 - [2021-12-15-Nginx-通过-Lua-+-Redis-实现动态封禁-IP](https://toutiao.io/k/1zav0z2) ![](assets/new.png)  
+- [2021-12-15-Uncle-Bob-的-SOLID-软件设计原则——Python-实例讲解](https://toutiao.io/k/zz4jho7) ![](assets/new.png)  
 - [2021-12-15-Go-误用-exec.Command-导致多进死锁的调试记录](https://toutiao.io/k/3kcunns) ![](assets/new.png)  
 - [2021-12-15-深入理解-Hive-UDAF](https://toutiao.io/k/c53m0zu) ![](assets/new.png)  
 - [2021-12-15-630.-课程表III](https://toutiao.io/k/mpuwr1o) ![](assets/new.png)  
-- [2021-12-15-WebRTC中，网络抖动和往返时间哪个更重要](https://toutiao.io/k/xkfiei7) ![](assets/new.png)  
 - [2021-12-15-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/vbel7h3) ![](assets/new.png)  
+- [2021-12-15-WebRTC中，网络抖动和往返时间哪个更重要](https://toutiao.io/k/xkfiei7) ![](assets/new.png)  
 - [2021-12-15-lighthouse-从a到z教程](https://toutiao.io/k/7cbvvgh) ![](assets/new.png)  
 - [2021-12-15-如何在建木CI中使用Vault管理密钥](https://toutiao.io/k/euc0uug) ![](assets/new.png)  
-- [2021-12-15-C#-是否可以将-动态或匿名类型-转成-强类型-？](https://toutiao.io/k/rvj3gl8) ![](assets/new.png)  
 - [2021-12-15-基于-iframe-的全新微前端方案](https://toutiao.io/k/1opaibm) ![](assets/new.png)  
+- [2021-12-15-C#-是否可以将-动态或匿名类型-转成-强类型-？](https://toutiao.io/k/rvj3gl8) ![](assets/new.png)  
 - [2021-12-15-面向未来与浏览器规范的前端DDD架构设计](https://toutiao.io/k/npxba6a) ![](assets/new.png)  
 - [2021-12-15-专访-KubeVela-核心团队：如何简化云原生复杂环境下的应用交付和管理](https://toutiao.io/k/jgq1sbs) ![](assets/new.png)  
+- [2021-12-15-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-15-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-15-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [2021-12-15-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
 - [2021-12-15-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-15-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-15-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-15-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

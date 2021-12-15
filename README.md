@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 07:40:44，:rocket: 更新条数: +1591， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 07:54:44，:rocket: 更新条数: +1590， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-15-MacBook-如何取消开盖自动开机](https://www.v2ex.com/t/822390) ![](assets/new.png)  
 - [2021-12-15-2021-年底了，现在还有人用-DeepL-翻译吗？](https://www.v2ex.com/t/822389) ![](assets/new.png)  
 - [2021-12-15-Google-地图反馈地点变更提示"依据国际制裁的规定，我们不能接受该地区的商家"](https://www.v2ex.com/t/822388) ![](assets/new.png)  
 - [2021-12-15-实在是搞不懂问“笔记本你们发货了么？”的心态](https://www.v2ex.com/t/822386) ![](assets/new.png)  
@@ -506,7 +507,6 @@
 - [2021-12-15-求教大佬,手机电脑都能看，就-google-tv-看不了奈飞](https://www.v2ex.com/t/822377) ![](assets/new.png)  
 - [2021-12-15-是我见识少了嘛，-macOS-的-sidecar-功能居然还会协同息屏亮屏？](https://www.v2ex.com/t/822376) ![](assets/new.png)  
 - [2021-12-15-一个多月，我自己写一个-woocommerce-主题](https://www.v2ex.com/t/822374) ![](assets/new.png)  
-- [2021-12-15-去油管开个频道专门做反智视频，能火吗？](https://www.v2ex.com/t/822373) ![](assets/new.png)  
 - [2021-12-15-如何优雅地用一个-Macbook-作为另一个的扩展屏幕？](https://www.v2ex.com/t/822372) ![](assets/new.png)  
 - [2021-12-15-上海·静安寺-法资-IT-咨询公司招后端&测试&设计-|-现在投简历,-元旦后入职🚀](https://www.v2ex.com/t/822370) ![](assets/new.png)  
 - [2021-12-15-程序员-前女友-度假酒店-关于这个三个话题-做个复盘](https://www.v2ex.com/t/822369) ![](assets/new.png)  

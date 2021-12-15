@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-15 07:40:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-15 07:54:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -116,6 +116,7 @@
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-15-MacBook-如何取消开盖自动开机](https://www.v2ex.com/t/822390) 
 - [【V2EX】2021-12-15-2021-年底了，现在还有人用-DeepL-翻译吗？](https://www.v2ex.com/t/822389) 
 - [【V2EX】2021-12-15-Google-地图反馈地点变更提示"依据国际制裁的规定，我们不能接受该地区的商家"](https://www.v2ex.com/t/822388) 
 - [【V2EX】2021-12-15-实在是搞不懂问“笔记本你们发货了么？”的心态](https://www.v2ex.com/t/822386) 
@@ -128,7 +129,6 @@
 - [【V2EX】2021-12-15-求教大佬,手机电脑都能看，就-google-tv-看不了奈飞](https://www.v2ex.com/t/822377) 
 - [【V2EX】2021-12-15-是我见识少了嘛，-macOS-的-sidecar-功能居然还会协同息屏亮屏？](https://www.v2ex.com/t/822376) 
 - [【V2EX】2021-12-15-一个多月，我自己写一个-woocommerce-主题](https://www.v2ex.com/t/822374) 
-- [【V2EX】2021-12-15-去油管开个频道专门做反智视频，能火吗？](https://www.v2ex.com/t/822373) 
 - [【V2EX】2021-12-15-如何优雅地用一个-Macbook-作为另一个的扩展屏幕？](https://www.v2ex.com/t/822372) 
 - [【V2EX】2021-12-15-上海·静安寺-法资-IT-咨询公司招后端&测试&设计-|-现在投简历,-元旦后入职🚀](https://www.v2ex.com/t/822370) 
 - [【V2EX】2021-12-15-程序员-前女友-度假酒店-关于这个三个话题-做个复盘](https://www.v2ex.com/t/822369) 
@@ -156,7 +156,6 @@
 - [【V2EX】2021-12-15-中国电信真贵啊](https://www.v2ex.com/t/822343) 
 - [【V2EX】2021-12-15-阿里云的-ubuntu-镜像中，源默认包含了-proposed-package，不稳定也不安全](https://www.v2ex.com/t/822342) 
 - [【V2EX】2021-12-15-花生壳解析到-127.0.0.2](https://www.v2ex.com/t/822341) 
-- [【V2EX】2021-12-15-阿里云体验一个静态应用部署，可以领保温杯和-100-元代金券](https://www.v2ex.com/t/822340) 
 - [【技术头条】2021-12-15-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-15-鸿蒙OS、安卓、iOS测试对比，结果出乎意料！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14847&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9RWmROLInm3RJpX1ZHjHmw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-15-张一鸣：给产品技术人才的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14846&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492724%26amp%3Bidx%3D2%26amp%3Bsn%3D3d506086a6e038c1eb1a4b9f404f90c1%26amp%3Bchksm%3Dfa3f052fcd488c395f8202745eff3a5d4db9f15102f06042d8683d94a108dab53b582fe57726%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -197,17 +196,17 @@
 - [【开发者头条】2021-12-15-20-个-.NET-6-新增的-API](https://toutiao.io/k/tb1lm1x) 
 - [【开发者头条】2021-12-15-「建议收藏」第一人称视角带你走进-Vue-源码世界](https://toutiao.io/k/496176u) 
 - [【开发者头条】2021-12-15-游戏数值策划入门（一）：属性对应关系](https://toutiao.io/k/fvsm5v5) 
-- [【开发者头条】2021-12-15-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
 - [【开发者头条】2021-12-15-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-15-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
-- [【开发者头条】2021-12-15-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
-- [【开发者头条】2021-12-15-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [【开发者头条】2021-12-15-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
-- [【开发者头条】2021-12-15-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
-- [【开发者头条】2021-12-15-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
-- [【开发者头条】2021-12-15-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
 - [【开发者头条】2021-12-15-推荐-Java-问题排查技术分享](https://toutiao.io/k/i7k6iqk) 
+- [【开发者头条】2021-12-15-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
+- [【开发者头条】2021-12-15-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [【开发者头条】2021-12-15-推荐-程序员的-10-个好习惯](https://toutiao.io/k/2y6pnqa) 
+- [【开发者头条】2021-12-15-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [【开发者头条】2021-12-15-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [【开发者头条】2021-12-15-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [【开发者头条】2021-12-15-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
+- [【开发者头条】2021-12-15-推荐-我给-“Go-语言”-开发了-6-个在线工具](https://toutiao.io/k/96zw0k6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

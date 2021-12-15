@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 17:54:36，:rocket: 更新条数: +1587， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 18:15:00，:rocket: 更新条数: +1586， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -495,7 +495,6 @@
 
 
 - [2021-12-15-我也给自己定了开源项目捐赠预算](https://www.v2ex.com/t/822490) ![](assets/new.png)  
-- [2021-12-15-29-一直一个人，活着没意思](https://www.v2ex.com/t/822489) ![](assets/new.png)  
 - [2021-12-15-上海浦江镇-求-Python-后端开发工程师（推荐入职找我拿红包）](https://www.v2ex.com/t/822488) ![](assets/new.png)  
 - [2021-12-15-nodejs-前后端一把梭的优势在哪？](https://www.v2ex.com/t/822487) ![](assets/new.png)  
 - [2021-12-15-做了一个-chrome-插件，将书签映射到「新标签页」，要来试试吗？](https://www.v2ex.com/t/822486) ![](assets/new.png)  
@@ -514,6 +513,7 @@
 - [2021-12-15-请问-google-地图，中文搜索这些产品还在维护吗？](https://www.v2ex.com/t/822470) ![](assets/new.png)  
 - [2021-12-15-新买的-mac14-生产日期是-2017-年,请问正常吗？](https://www.v2ex.com/t/822469) ![](assets/new.png)  
 - [2021-12-15-请问选择-iPad2021-还是安卓平板？](https://www.v2ex.com/t/822468) ![](assets/new.png)  
+- [2021-12-15-特价-Setapp-230+-软件大集合/一年订阅，下单再减-20-元](https://www.v2ex.com/t/822467) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

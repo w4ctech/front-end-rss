@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-15 09:13:14，:rocket: 更新条数: +1588， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-15 09:25:15，:rocket: 更新条数: +1587， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,7 +494,10 @@
 </summary>
 
 
-- [2021-12-15-腾讯云轻量服务器双-11-没薅的不用后悔，双-12-活动-2H4G80G-一年-74-3-年-222，月底活动结束](https://www.v2ex.com/t/822407) ![](assets/new.png)  
+- [2021-12-15-笔记软件-推荐一套笔记系统方法论-vscode+git+markdown+foam-插件](https://www.v2ex.com/t/822412) ![](assets/new.png)  
+- [2021-12-15-迫于上瘾，问问老哥们，北京有没有德州扑克局？](https://www.v2ex.com/t/822411) ![](assets/new.png)  
+- [2021-12-15-ARM-版-MBP-刚到，求开发环境最佳配置](https://www.v2ex.com/t/822409) ![](assets/new.png)  
+- [2021-12-15-腾讯云双-12-轻量服务器真的很香，直接部署个应用镜像就能搞个私有的网页版-vscode，写代码很丝滑很爽](https://www.v2ex.com/t/822407) ![](assets/new.png)  
 - [2021-12-15-关于虾皮的年前面试，年后入职](https://www.v2ex.com/t/822406) ![](assets/new.png)  
 - [2021-12-15-合肥程序员薪资行情](https://www.v2ex.com/t/822404) ![](assets/new.png)  
 - [2021-12-15-如何定时获取某个桌面软件界面显示的数据？](https://www.v2ex.com/t/822402) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-15-Google-地图反馈地点变更提示"依据国际制裁的规定，我们不能接受该地区的商家"](https://www.v2ex.com/t/822388) ![](assets/new.png)  
 - [2021-12-15-实在是搞不懂问“笔记本你们发货了么？”的心态](https://www.v2ex.com/t/822386) ![](assets/new.png)  
 - [2021-12-15-2021-年最新前后端免费编程学习视频](https://www.v2ex.com/t/822385) ![](assets/new.png)  
-- [2021-12-15-想来咨询下关于冷冻治疗疣子的经验](https://www.v2ex.com/t/822384) ![](assets/new.png)  
-- [2021-12-15-随便写了个安卓手机通过-Bark-给-iOS-转发短信的-app](https://www.v2ex.com/t/822383) ![](assets/new.png)  
-- [2021-12-15-后管页面每个按钮都要加权限控制吗？实际上真用得到吗？有没有更简单一点的处理的案例？](https://www.v2ex.com/t/822382) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

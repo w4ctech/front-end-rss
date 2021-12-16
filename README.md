@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-16 03:44:44，:rocket: 更新条数: +1583， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-16 03:56:47，:rocket: 更新条数: +1582， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-16-求推荐-学习-React-入门教程，最好是视频可付费](https://www.v2ex.com/t/822569) ![](assets/new.png)  
+- [2021-12-16-请问-M1-版-Mac-外接-2K-屏幕还有比-BetterDummy-更好的方案吗？](https://www.v2ex.com/t/822568) ![](assets/new.png)  
+- [2021-12-16-React-Forget---compiler-automated-memoization](https://www.v2ex.com/t/822567) ![](assets/new.png)  
+- [2021-12-16-druid-依赖-log4j-1.x，会受到漏洞影响吗？](https://www.v2ex.com/t/822566) ![](assets/new.png)  
 - [2021-12-16-RustDesk-招聘-Rust/C++/Golang-远程](https://www.v2ex.com/t/822565) ![](assets/new.png)  
 - [2021-12-16-特斯拉车贷](https://www.v2ex.com/t/822564) ![](assets/new.png)  
 - [2021-12-16-写公司代码的时候，你们会留下彩蛋吗？](https://www.v2ex.com/t/822562) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-16-能否给予-iterm2-更多权限，让它少弹窗？](https://www.v2ex.com/t/822547) ![](assets/new.png)  
 - [2021-12-16-标题：上海思勰投资-2022-届冬季招聘（NLP-算法工程师、量化研究员、C++软件开发工程师、交易运维工程师）](https://www.v2ex.com/t/822546) ![](assets/new.png)  
 - [2021-12-16-大家对数字遗产怎么看？](https://www.v2ex.com/t/822544) ![](assets/new.png)  
-- [2021-12-16-寻求建议-关于全屋无线覆盖](https://www.v2ex.com/t/822543) ![](assets/new.png)  
-- [2021-12-16-我是真的服了，前天刚吐槽-Apple-发了邮政，结果昨天到了一直不派件，等到今天都没动的意思](https://www.v2ex.com/t/822542) ![](assets/new.png)  
-- [2021-12-16-老铁们能不能帮忙算算新的年终奖交多少](https://www.v2ex.com/t/822539) ![](assets/new.png)  
-- [2021-12-16-想学乐器的人，你有想过先把口哨练到炉火纯青的地步吗](https://www.v2ex.com/t/822538) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,19 +563,19 @@
 - [2021-12-16-JavaMoney规范JSR-354与对应实现解读](https://toutiao.io/k/uacxcff) ![](assets/new.png)  
 - [2021-12-16-使用-.NET6-打造动态-API](https://toutiao.io/k/wvuv8bj) ![](assets/new.png)  
 - [2021-12-16-一行-Object.keys-引发的血案](https://toutiao.io/k/io2bclp) ![](assets/new.png)  
+- [2021-12-16-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
 - [2021-12-16-Nike正式收购虚拟时尚公司RTFKT大步跨入元宇宙](https://toutiao.io/k/ytth1ob) ![](assets/new.png)  
 - [2021-12-16-python-print-函数的格式化字符串输出](https://toutiao.io/k/908bp8o) ![](assets/new.png)  
-- [2021-12-16-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
-- [2021-12-16-深度好文-—-微服务和API网关限流熔断实现关键逻辑思路](https://toutiao.io/k/t34ixj8) ![](assets/new.png)  
 - [2021-12-16-A16Z-:-Web3生态全景概览](https://toutiao.io/k/cvzixjt) ![](assets/new.png)  
+- [2021-12-16-深度好文-—-微服务和API网关限流熔断实现关键逻辑思路](https://toutiao.io/k/t34ixj8) ![](assets/new.png)  
 - [2021-12-16-你可能没那么了解-JWT](https://toutiao.io/k/8brs2se) ![](assets/new.png)  
 - [2021-12-16-组长让我把所有state都放Redux里](https://toutiao.io/k/14vztte) ![](assets/new.png)  
-- [2021-12-16-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
-- [2021-12-16-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
-- [2021-12-16-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-16-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
 - [2021-12-16-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-16-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-16-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
 - [2021-12-16-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-16-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
+- [2021-12-16-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

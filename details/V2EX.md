@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-16 14:20:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-16 14:37:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-16-Macbook-Intel-CPU-频率问题](https://www.v2ex.com/t/822701) 
+- [2021-12-16-这样的一个企业内部系统，应该叫什么？-CRM？-ERP？-SCRM？](https://www.v2ex.com/t/822700) 
 - [2021-12-16-Apple-发布-Swift-Playgrounds-4，支持在-iPad-上创建应用程序](https://www.v2ex.com/t/822698) 
 - [2021-12-16-移动线路的-Bing-拔线了？](https://www.v2ex.com/t/822697) 
 - [2021-12-16-现在微信对手机的硬件和系统有最低配置和建议配置要求？](https://www.v2ex.com/t/822696) 
@@ -42,4 +44,3 @@
 - [2021-12-16-美区-id-明明绑定-PayPal-却显示支付宝，迷惑。](https://www.v2ex.com/t/822657) 
 - [2021-12-16-有几台-Windows-系统的服务器，哪个批量管理软件好点](https://www.v2ex.com/t/822656) 
 - [2021-12-16-iPhone-12pro-Max-通话掉线](https://www.v2ex.com/t/822653) 
-- [2021-12-16-M1-Mac-mini-每次唤醒、解锁之后，-CPU-都飙升](https://www.v2ex.com/t/822650) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-16 15:13:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-16 15:23:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-16-mac-touch-bar-闪屏了，怎么办啊，过保了，-16-年款](https://www.v2ex.com/t/822707) 
+- [2021-12-16-Windows-配-27-的显示器到底多大分辨率合适啊？](https://www.v2ex.com/t/822706) 
 - [2021-12-16-Swift-Playground-4.0-终于来了!](https://www.v2ex.com/t/822704) 
 - [2021-12-16-新手，如何整理电脑上的-Python-环境](https://www.v2ex.com/t/822703) 
 - [2021-12-16-Macbook-Intel-CPU-频率问题](https://www.v2ex.com/t/822701) 
@@ -43,5 +45,3 @@
 - [2021-12-16-百度文库充了个会员，然后登录不上去了，无解了吗？](https://www.v2ex.com/t/822660) 
 - [2021-12-16-吃瓜-网传星阑科技安全部门一夜裁员后，又开始招人，为什么会有这种操作？](https://www.v2ex.com/t/822659) 
 - [2021-12-16-写了一个-Python-脚本将从-iPhone-导出的照片与影片以日期和时间的格式重命名并转移到以日期分类的文件夹中](https://www.v2ex.com/t/822658) 
-- [2021-12-16-美区-id-明明绑定-PayPal-却显示支付宝，迷惑。](https://www.v2ex.com/t/822657) 
-- [2021-12-16-有几台-Windows-系统的服务器，哪个批量管理软件好点](https://www.v2ex.com/t/822656) 

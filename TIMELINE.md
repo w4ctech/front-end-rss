@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-16 11:39:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-16 11:54:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -121,6 +121,10 @@
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-16-有时候处于一种'通明'的状态](https://www.v2ex.com/t/822676) 
+- [【V2EX】2021-12-16-国内-bing-无法访问](https://www.v2ex.com/t/822675) 
+- [【V2EX】2021-12-16-不懂就问,-有没有哪个笔记软件能满足如下需求](https://www.v2ex.com/t/822674) 
+- [【V2EX】2021-12-16-在国内有必要开奈飞会员吗](https://www.v2ex.com/t/822672) 
 - [【V2EX】2021-12-16-为什么-Apple-Music-for-macOS-能做到那么多-bug-还不修啊？](https://www.v2ex.com/t/822670) 
 - [【V2EX】2021-12-16-发现各地区-AC+价格实际差异不大](https://www.v2ex.com/t/822669) 
 - [【V2EX】2021-12-16-美帝-intel-硬件部门待遇那么拉跨？](https://www.v2ex.com/t/822668) 
@@ -155,8 +159,6 @@
 - [【V2EX】2021-12-16-分布式外企招聘前端开发/后端-Java-开发/测试（会-Java-）/数据产品经理/风控产品经理](https://www.v2ex.com/t/822630) 
 - [【V2EX】2021-12-16-经常折腾云服务器的程序员是不是老程序员？现在很多新同学都不了解项目整体是咋跑的吧](https://www.v2ex.com/t/822629) 
 - [【V2EX】2021-12-16-趁我们-Top-浏览器发布，顺带说下我们聚合广告平台的情况，也以我们平台数据来说下当下个人开发者赚钱有多难](https://www.v2ex.com/t/822628) 
-- [【V2EX】2021-12-16-可以用-Docker-白嫖出一个-NAS-吗？](https://www.v2ex.com/t/822626) 
-- [【V2EX】2021-12-16-一个公司里面，往往是最不重要的那些人是最忙的？](https://www.v2ex.com/t/822622) 
 - [【技术头条】2021-12-16-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-16-鸿蒙OS、安卓、iOS测试对比，结果出乎意料！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14847&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9RWmROLInm3RJpX1ZHjHmw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-16-张一鸣：给产品技术人才的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14846&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492724%26amp%3Bidx%3D2%26amp%3Bsn%3D3d506086a6e038c1eb1a4b9f404f90c1%26amp%3Bchksm%3Dfa3f052fcd488c395f8202745eff3a5d4db9f15102f06042d8683d94a108dab53b582fe57726%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -193,18 +195,18 @@
 - [【开发者头条】2021-12-16-KubeCon-2021｜使用-eBPF-代替-iptables-优化服务网格数据面性能](https://toutiao.io/k/7jjiv7f) 
 - [【开发者头条】2021-12-16-深度好文-—-微服务和API网关限流熔断实现关键逻辑思路](https://toutiao.io/k/t34ixj8) 
 - [【开发者头条】2021-12-16-A16Z-:-Web3生态全景概览](https://toutiao.io/k/cvzixjt) 
-- [【开发者头条】2021-12-16-组长让我把所有state都放Redux里](https://toutiao.io/k/14vztte) 
 - [【开发者头条】2021-12-16-Kafka基础介绍之Producer](https://toutiao.io/k/xtmb7p7) 
+- [【开发者头条】2021-12-16-组长让我把所有state都放Redux里](https://toutiao.io/k/14vztte) 
 - [【开发者头条】2021-12-16-Molecule在GitHub与Gitee正式开源](https://toutiao.io/k/cj1rhrr) 
 - [【开发者头条】2021-12-16-模拟器推荐](https://toutiao.io/k/vw1m2ey) 
-- [【开发者头条】2021-12-16-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [【开发者头条】2021-12-16-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-16-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
-- [【开发者头条】2021-12-16-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [【开发者头条】2021-12-16-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
 - [【开发者头条】2021-12-16-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [【开发者头条】2021-12-16-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
+- [【开发者头条】2021-12-16-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [【开发者头条】2021-12-16-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
 - [【开发者头条】2021-12-16-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
-- [【开发者头条】2021-12-16-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

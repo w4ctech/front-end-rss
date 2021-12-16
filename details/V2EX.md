@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-16 23:13:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-16 23:22:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-16-大厂同学来分享一下你们在用，但小公司可能没有用的好技术吧](https://www.v2ex.com/t/822720) 
 - [2021-12-16-微信忽然提示香港号码注册的帐号无法再使用-WeChat-Out-拨打给香港本地号码，只能拨给别的国家](https://www.v2ex.com/t/822719) 
 - [2021-12-16-文字的黄金时代](https://www.v2ex.com/t/822717) 
 - [2021-12-16-游戏推荐：骑龙狗斗-Century:-Age-of-Ashes](https://www.v2ex.com/t/822716) 
@@ -43,4 +44,3 @@
 - [2021-12-16-国内-bing-无法访问](https://www.v2ex.com/t/822675) 
 - [2021-12-16-不懂就问,-有没有哪个笔记软件能满足如下需求](https://www.v2ex.com/t/822674) 
 - [2021-12-16-在国内有必要开奈飞会员吗](https://www.v2ex.com/t/822672) 
-- [2021-12-16-为什么-Apple-Music-for-macOS-能做到那么多-bug-还不修啊？](https://www.v2ex.com/t/822670) 

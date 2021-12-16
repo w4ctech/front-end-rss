@@ -7744,6 +7744,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大厂同学来分享一下你们在用，但小公司可能没有用的好技术吧",
+        "link": "https://www.v2ex.com/t/822720",
+        "date": "2021-12-16"
+      },
+      {
         "title": "微信忽然提示香港号码注册的帐号无法再使用 WeChat Out 拨打给香港本地号码，只能拨给别的国家",
         "link": "https://www.v2ex.com/t/822719",
         "date": "2021-12-16"
@@ -7931,11 +7936,6 @@
       {
         "title": "在国内有必要开奈飞会员吗",
         "link": "https://www.v2ex.com/t/822672",
-        "date": "2021-12-16"
-      },
-      {
-        "title": "为什么 Apple Music for macOS 能做到那么多 bug 还不修啊？",
-        "link": "https://www.v2ex.com/t/822670",
         "date": "2021-12-16"
       }
     ]
@@ -8153,13 +8153,8 @@
         "date": "2021-12-16"
       },
       {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
-        "date": "2021-12-16"
-      },
-      {
-        "title": "[推荐] 京东秒杀架构升级优化实践",
-        "link": "https://toutiao.io/k/4cxy94p",
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
         "date": "2021-12-16"
       },
       {
@@ -8173,8 +8168,8 @@
         "date": "2021-12-16"
       },
       {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
         "date": "2021-12-16"
       },
       {
@@ -8183,8 +8178,13 @@
         "date": "2021-12-16"
       },
       {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
+        "title": "[推荐] 京东秒杀架构升级优化实践",
+        "link": "https://toutiao.io/k/4cxy94p",
+        "date": "2021-12-16"
+      },
+      {
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
         "date": "2021-12-16"
       }
     ]

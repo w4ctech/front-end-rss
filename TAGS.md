@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-16 07:21:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-16 07:37:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -341,6 +341,7 @@
 
 
 
+- [【V2EX】嵌入式/硬件/结构工程师招聘](https://www.v2ex.com/t/822612)
 - [【V2EX】RustDesk-招聘-Rust/C++/Golang-远程](https://www.v2ex.com/t/822565)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-16 07:21:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-16 07:37:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-16-行车记录仪用降压线接保险盒还是点烟器取电好？](https://www.v2ex.com/t/822613) 
+- [2021-12-16-嵌入式/硬件/结构工程师招聘](https://www.v2ex.com/t/822612) 
 - [2021-12-16-apple-watch-5-也支持辅助触控了](https://www.v2ex.com/t/822611) 
 - [2021-12-16-请问各位遇到过-POI-在-Linux-上导出-excel-卡住的情况么](https://www.v2ex.com/t/822610) 
 - [2021-12-16-最近学-Python-，关于作用域的问题有点不明白](https://www.v2ex.com/t/822607) 
@@ -39,4 +41,3 @@
 - [2021-12-16-druid-依赖-log4j-1.x，会受到漏洞影响吗？](https://www.v2ex.com/t/822566) 
 - [2021-12-16-RustDesk-招聘-Rust/C++/Golang-远程](https://www.v2ex.com/t/822565) 
 - [2021-12-16-特斯拉车贷](https://www.v2ex.com/t/822564) 
-- [2021-12-16-写公司代码的时候，你们会留下彩蛋吗？](https://www.v2ex.com/t/822562) 

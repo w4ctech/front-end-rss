@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-16 07:21:35，:rocket: 更新条数: +1587， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-16 07:37:56，:rocket: 更新条数: +1588， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-16-行车记录仪用降压线接保险盒还是点烟器取电好？](https://www.v2ex.com/t/822613) ![](assets/new.png)  
+- [2021-12-16-嵌入式/硬件/结构工程师招聘](https://www.v2ex.com/t/822612) ![](assets/new.png)  
 - [2021-12-16-apple-watch-5-也支持辅助触控了](https://www.v2ex.com/t/822611) ![](assets/new.png)  
 - [2021-12-16-请问各位遇到过-POI-在-Linux-上导出-excel-卡住的情况么](https://www.v2ex.com/t/822610) ![](assets/new.png)  
 - [2021-12-16-最近学-Python-，关于作用域的问题有点不明白](https://www.v2ex.com/t/822607) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-16-epic-喜＋-15](https://www.v2ex.com/t/822589) ![](assets/new.png)  
 - [2021-12-16-在-stackoverflow-上看了一个问题：-ParallelFlux-vs-flatMap-for-a-Blocking-I/O-task](https://www.v2ex.com/t/822588) ![](assets/new.png)  
 - [2021-12-16-有什么致郁片推荐吗？痛哭流涕的那种](https://www.v2ex.com/t/822587) ![](assets/new.png)  
-- [2021-12-16-小米手机拍摄-HEIC-格式照片后上传到-Google-photo-的问题](https://www.v2ex.com/t/822586) ![](assets/new.png)  
-- [2021-12-16-windows-笔记本外接显示器时，如果笔记本屏幕跟外接显示器的缩放不一样，某些应用会模糊，有解决方法吗？](https://www.v2ex.com/t/822584) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

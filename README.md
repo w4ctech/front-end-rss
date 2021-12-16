@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-16 23:43:22，:rocket: 更新条数: +1590， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-16 23:55:08，:rocket: 更新条数: +1591， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-16-每个一边走路一边吸烟的人都是一个移动害人机](https://www.v2ex.com/t/822721) ![](assets/new.png)  
 - [2021-12-16-大厂同学来分享一下你们在用，但小公司可能没有用的好技术吧](https://www.v2ex.com/t/822720) ![](assets/new.png)  
 - [2021-12-16-微信忽然提示香港号码注册的帐号无法再使用-WeChat-Out-拨打给香港本地号码，只能拨给别的国家](https://www.v2ex.com/t/822719) ![](assets/new.png)  
 - [2021-12-16-文字的黄金时代](https://www.v2ex.com/t/822717) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-16-这样的一个企业内部系统，应该叫什么？-CRM？-ERP？-SCRM？](https://www.v2ex.com/t/822700) ![](assets/new.png)  
 - [2021-12-16-Apple-发布-Swift-Playgrounds-4，支持在-iPad-上创建应用程序](https://www.v2ex.com/t/822698) ![](assets/new.png)  
 - [2021-12-16-移动线路的-Bing-拔线了？](https://www.v2ex.com/t/822697) ![](assets/new.png)  
-- [2021-12-16-现在微信对手机的硬件和系统有最低配置和建议配置要求？](https://www.v2ex.com/t/822696) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

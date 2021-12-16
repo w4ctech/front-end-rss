@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-16 11:19:12，:rocket: 更新条数: +1587， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-16 11:36:35，:rocket: 更新条数: +1588， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,9 @@
 </summary>
 
 
+- [2021-12-16-最新疫情：全国新冠累计确诊100000例-累计接种新冠疫苗超26.4亿剂次](https://m.caixin.com/m/2021-12-16/101818788.html) ![](assets/new.png)  
 - [2021-12-16-港大研究：奥密克戎较德尔塔传播速度更快-致病程度或更弱](https://m.caixin.com/m/2021-12-16/101818567.html) ![](assets/new.png)  
+- [2021-12-16-最新海外疫情：新冠感染超2.71亿-累计接种新冠疫苗超85.18亿剂次](https://m.caixin.com/m/2021-12-16/101818785.html) ![](assets/new.png)  
 - [2021-12-16-【境内疫情观察】浙江绍兴五地调整为高风险地区（12月15日）](https://database.caixin.com/m/2021-12-16/101818588.html) ![](assets/new.png)  
 - [2021-12-16-76个国家报告Omicron病例-韩国日感染人数叠创新高｜大流行手记（12月15日）](https://m.caixin.com/m/2021-12-16/101818454.html) ![](assets/new.png)  
 - [2021-12-16-【图集】广东东莞开展全市全员核酸检测](https://photos.caixin.com/m/2021-12-16/101818457.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2021-12-13-香港研究显示复必泰疫苗对Omicron中和抗体大减-或期加强针](https://m.caixin.com/m/2021-12-13/101817198.html) ![](assets/new.png)  
 - [2021-12-12-浙江一周累计确诊138例-与上海疫情为同一传播链](https://m.caixin.com/m/2021-12-12/101816876.html) ![](assets/new.png)  
 - [2021-12-12-【境内疫情观察】全国新增49例本土病例（12月11日）](https://database.caixin.com/m/2021-12-12/101816815.html) ![](assets/new.png)  
-- [2021-12-12-英国1月或出现Omicron感染浪潮-美国疫情加剧｜大流行手记（12月11日）](https://m.caixin.com/m/2021-12-12/101816748.html) ![](assets/new.png)  
-- [2021-12-12-聚焦｜张文宏：三针接种有益早日开放](https://opinion.caixin.com/m/2021-12-12/101816892.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-16-为什么-Apple-Music-for-macOS-能做到那么多-bug-还不修啊？](https://www.v2ex.com/t/822670) ![](assets/new.png)  
 - [2021-12-16-发现各地区-AC+价格实际差异不大](https://www.v2ex.com/t/822669) ![](assets/new.png)  
 - [2021-12-16-美帝-intel-硬件部门待遇那么拉跨？](https://www.v2ex.com/t/822668) ![](assets/new.png)  
 - [2021-12-16-iOS15-和-macOS12-上还能用多个-Apple-ID-分别登录-iCloud-和-App-Store-吗](https://www.v2ex.com/t/822666) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-16-现在发办公租房信息在哪个-App-发比较好？-58-同城似乎不买推广就被违规下架](https://www.v2ex.com/t/822648) ![](assets/new.png)  
 - [2021-12-16-必应崩啦？](https://www.v2ex.com/t/822647) ![](assets/new.png)  
 - [2021-12-16-使用-Nocalhost-开发-Kubernetes-中的-APISIX-Ingress-Controller](https://www.v2ex.com/t/822646) ![](assets/new.png)  
-- [2021-12-16-关于快充的问题](https://www.v2ex.com/t/822645) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-16 10:54:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-16 11:11:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,13 +50,11 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2021-12-16-12月15日全国新增新冠77例-五省份本土69例](https://m.caixin.com/m/2021-12-16/101818431.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-16-港大研究：奥密克戎较德尔塔传播速度更快-致病程度或更弱](https://m.caixin.com/m/2021-12-16/101818567.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-16-【境内疫情观察】浙江绍兴五地调整为高风险地区（12月15日）](https://database.caixin.com/m/2021-12-16/101818588.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-16-76个国家报告Omicron病例-韩国日感染人数叠创新高｜大流行手记（12月15日）](https://m.caixin.com/m/2021-12-16/101818454.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-16-【图集】广东东莞开展全市全员核酸检测](https://photos.caixin.com/m/2021-12-16/101818457.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-15-聚焦｜张文宏：上海战疫体会及对奥密克戎的应对](https://opinion.caixin.com/m/2021-12-15/101818197.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2021-12-15-最新海外疫情：新冠感染近2.71亿-累计接种新冠疫苗超84.89亿剂次](https://m.caixin.com/m/2021-12-15/101818174.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-15-【境内疫情观察】全国新增50例本土病例（12月14日）](https://database.caixin.com/m/2021-12-15/101818008.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-15-辉瑞新冠口服药显著降低住院和死亡风险-非洲病例激增｜大流行手记（12月14日）](https://m.caixin.com/m/2021-12-15/101817778.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-14-英政府忧奥密克戎实际日增恐达20万例-疫苗预约网站一度宕机](https://international.caixin.com/m/2021-12-14/101817725.html) 
@@ -121,6 +119,7 @@
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
+- [【V2EX】2021-12-16-iOS15-和-macOS12-上还能用多个-Apple-ID-分别登录-iCloud-和-App-Store-吗](https://www.v2ex.com/t/822666) 
 - [【V2EX】2021-12-16-觉得绿联产品不错，其实售后很拉胯，现在品牌大多不做回头客生意吧？](https://www.v2ex.com/t/822665) 
 - [【V2EX】2021-12-16-Google-Project-Zero-所见最天才的漏洞利用之一：-NSO-zero-click-iMessage-exploit](https://www.v2ex.com/t/822664) 
 - [【V2EX】2021-12-16-新-mbp，尽量不要用-AIDente，亲测可能有问题](https://www.v2ex.com/t/822663) 
@@ -141,7 +140,6 @@
 - [【V2EX】2021-12-16-v2-上有多少网友在挖矿啊？](https://www.v2ex.com/t/822644) 
 - [【V2EX】2021-12-16-有偿请求手机微信聊天记录恢复](https://www.v2ex.com/t/822643) 
 - [【V2EX】2021-12-16-有人研究过某团小程序的-mtgsig-吗](https://www.v2ex.com/t/822641) 
-- [【V2EX】2021-12-16-如何用-mbp-的-touch-pad-显得不娘？🐶](https://www.v2ex.com/t/822639) 
 - [【V2EX】2021-12-16-mac-平台有没有轻量看图和简单编辑的软件？](https://www.v2ex.com/t/822638) 
 - [【V2EX】2021-12-16-米哈游-上海&北美&新加坡-快来啊，年会要到了，不来试试么](https://www.v2ex.com/t/822636) 
 - [【V2EX】2021-12-16-很好奇各位-2021-年度华语专辑推荐-TOP10](https://www.v2ex.com/t/822635) 
@@ -158,8 +156,6 @@
 - [【V2EX】2021-12-16-12.1-后台程序是不是自己会掉？](https://www.v2ex.com/t/822620) 
 - [【V2EX】2021-12-16-NRD-是个什么进程。。。](https://www.v2ex.com/t/822619) 
 - [【V2EX】2021-12-16-我们做了一款无广告、无推送、无新闻的极简安卓浏览器，支持阅读模式智能拼页，-m3u8-视频下载合并转-MP4，原创订阅功能实现追小说、影视、漫画](https://www.v2ex.com/t/822618) 
-- [【V2EX】2021-12-16-迄今为止"致敬"-Notion-的已经有-5-个了...](https://www.v2ex.com/t/822617) 
-- [【V2EX】2021-12-16-个人收藏、归档视频-有比-HEVC-更好的编码方式吗？](https://www.v2ex.com/t/822616) 
 - [【技术头条】2021-12-16-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-16-鸿蒙OS、安卓、iOS测试对比，结果出乎意料！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14847&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9RWmROLInm3RJpX1ZHjHmw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-16-张一鸣：给产品技术人才的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14846&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492724%26amp%3Bidx%3D2%26amp%3Bsn%3D3d506086a6e038c1eb1a4b9f404f90c1%26amp%3Bchksm%3Dfa3f052fcd488c395f8202745eff3a5d4db9f15102f06042d8683d94a108dab53b582fe57726%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -200,14 +196,14 @@
 - [【开发者头条】2021-12-16-Kafka基础介绍之Producer](https://toutiao.io/k/xtmb7p7) 
 - [【开发者头条】2021-12-16-Molecule在GitHub与Gitee正式开源](https://toutiao.io/k/cj1rhrr) 
 - [【开发者头条】2021-12-16-模拟器推荐](https://toutiao.io/k/vw1m2ey) 
+- [【开发者头条】2021-12-16-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [【开发者头条】2021-12-16-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [【开发者头条】2021-12-16-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) 
-- [【开发者头条】2021-12-16-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-16-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
 - [【开发者头条】2021-12-16-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
 - [【开发者头条】2021-12-16-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [【开发者头条】2021-12-16-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [【开发者头条】2021-12-16-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-16-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
-- [【开发者头条】2021-12-16-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-16 03:25:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-16 03:41:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,4 +7,5 @@
 
 
 
+- [2021-12-16-RustDesk-招聘-Rust/C++/Golang-远程](https://www.v2ex.com/t/822565) 
 - [2021-12-16-Databend-招聘中，期待你能全职加入开源项目](https://www.v2ex.com/t/822516) 

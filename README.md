@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-16 05:40:41，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-16 05:54:51，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-16-小米手机拍摄-HEIC-格式照片后上传到-Google-photo-的问题](https://www.v2ex.com/t/822586) ![](assets/new.png)  
+- [2021-12-16-windows-笔记本外接显示器时，如果笔记本屏幕跟外接显示器的缩放不一样，某些应用会模糊，有解决方法吗？](https://www.v2ex.com/t/822584) ![](assets/new.png)  
+- [2021-12-16-DBA-除了维护-DB-还做什么？会帮助写业务-SQL-吗？](https://www.v2ex.com/t/822583) ![](assets/new.png)  
 - [2021-12-16-天气冷了，买了个桌面暖风机](https://www.v2ex.com/t/822580) ![](assets/new.png)  
 - [2021-12-16-关于港大-CS-授课型研究生入学考试内容的问题](https://www.v2ex.com/t/822579) ![](assets/new.png)  
 - [2021-12-16-联通-cpe-超密逆向探讨](https://www.v2ex.com/t/822578) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-16-有没有推荐的入门级的存储群集](https://www.v2ex.com/t/822561) ![](assets/new.png)  
 - [2021-12-16-爷青回！细胞分裂重制官宣了](https://www.v2ex.com/t/822560) ![](assets/new.png)  
 - [2021-12-16-有好用的-Vue3-UI-吗？](https://www.v2ex.com/t/822559) ![](assets/new.png)  
-- [2021-12-16-正则表达式存在最大长度吗？匹配过长的字符串会不会爆炸？](https://www.v2ex.com/t/822558) ![](assets/new.png)  
-- [2021-12-16-旁边的每天都在通宵玩游戏吵得我都没办法睡觉](https://www.v2ex.com/t/822557) ![](assets/new.png)  
-- [2021-12-16-发现一个对-M1-Mac-也能支持双-4K@60Hz-的扩展坞-VisionTek-VT4510](https://www.v2ex.com/t/822556) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2021-12-16-从模板文档中提取结构化数据](https://toutiao.io/k/aut6nku) ![](assets/new.png)  
 - [2021-12-16-网易严选数据质量实践](https://toutiao.io/k/629c44w) ![](assets/new.png)  
 - [2021-12-16-JavaMoney规范JSR-354与对应实现解读](https://toutiao.io/k/uacxcff) ![](assets/new.png)  
-- [2021-12-16-使用-.NET6-打造动态-API](https://toutiao.io/k/wvuv8bj) ![](assets/new.png)  
 - [2021-12-16-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
+- [2021-12-16-使用-.NET6-打造动态-API](https://toutiao.io/k/wvuv8bj) ![](assets/new.png)  
 - [2021-12-16-一行-Object.keys-引发的血案](https://toutiao.io/k/io2bclp) ![](assets/new.png)  
 - [2021-12-16-Nike正式收购虚拟时尚公司RTFKT大步跨入元宇宙](https://toutiao.io/k/ytth1ob) ![](assets/new.png)  
 - [2021-12-16-python-print-函数的格式化字符串输出](https://toutiao.io/k/908bp8o) ![](assets/new.png)  
@@ -570,12 +570,12 @@
 - [2021-12-16-A16Z-:-Web3生态全景概览](https://toutiao.io/k/cvzixjt) ![](assets/new.png)  
 - [2021-12-16-深度好文-—-微服务和API网关限流熔断实现关键逻辑思路](https://toutiao.io/k/t34ixj8) ![](assets/new.png)  
 - [2021-12-16-组长让我把所有state都放Redux里](https://toutiao.io/k/14vztte) ![](assets/new.png)  
-- [2021-12-16-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-16-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [2021-12-16-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
-- [2021-12-16-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
 - [2021-12-16-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
-- [2021-12-16-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-16-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-16-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-16-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-16-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

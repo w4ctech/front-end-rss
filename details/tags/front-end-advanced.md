@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-16 09:25:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-16 09:41:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,5 +7,4 @@
 
 
 
-- [2021-12-16-fastapi+pydantic+sqlalchemy-如何返回列表数据?](https://www.v2ex.com/t/822594) 
 - [2021-12-16-一起来学Vim](https://toutiao.io/k/4u86jkw) 

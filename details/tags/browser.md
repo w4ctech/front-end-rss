@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-15 23:55:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-16 00:39:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,3 @@
 - [2021-12-15-做了一个-chrome-插件，将书签映射到「新标签页」，要来试试吗？](https://www.v2ex.com/t/822486) 
 - [2021-12-15-有个网站必须调试模式才能访问？](https://www.v2ex.com/t/822481) 
 - [2021-12-15-vivaldi-浏览器内地网络，翻译问题](https://www.v2ex.com/t/822474) 
-- [2021-12-15-Go-误用-exec.Command-导致多进死锁的调试记录](https://toutiao.io/k/3kcunns) 
-- [2021-12-15-面向未来与浏览器规范的前端DDD架构设计](https://toutiao.io/k/npxba6a) 

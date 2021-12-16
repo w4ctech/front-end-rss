@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-16 02:59:14，:rocket: 更新条数: +1582， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-16 03:13:20，:rocket: 更新条数: +1581， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-16-CPU-软锁定后，无法访问-IPMI-吗？](https://www.v2ex.com/t/822554) ![](assets/new.png)  
+- [2021-12-16-你呢？今年最大的改变是什么？](https://www.v2ex.com/t/822553) ![](assets/new.png)  
+- [2021-12-16-求教-rc.local-文件被重复执行](https://www.v2ex.com/t/822551) ![](assets/new.png)  
+- [2021-12-16-要实现连续-30-天的相关统计的方法](https://www.v2ex.com/t/822549) ![](assets/new.png)  
 - [2021-12-16-能否给予-iterm2-更多权限，让它少弹窗？](https://www.v2ex.com/t/822547) ![](assets/new.png)  
 - [2021-12-16-标题：上海思勰投资-2022-届冬季招聘（NLP-算法工程师、量化研究员、C++软件开发工程师、交易运维工程师）](https://www.v2ex.com/t/822546) ![](assets/new.png)  
 - [2021-12-16-大家对数字遗产怎么看？](https://www.v2ex.com/t/822544) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-16-据说明年苹果和-LG-会出新的显示器，预测一下价格](https://www.v2ex.com/t/822530) ![](assets/new.png)  
 - [2021-12-16-Spotify-Android-版迷惑网络无法连接的问题](https://www.v2ex.com/t/822527) ![](assets/new.png)  
 - [2021-12-16-最近那个电信新星卡怎么样](https://www.v2ex.com/t/822526) ![](assets/new.png)  
-- [2021-12-16-n+1-准备走人了](https://www.v2ex.com/t/822525) ![](assets/new.png)  
-- [2021-12-16-每天只用十几兆的流量.有比腾讯大网卡更实惠的套餐吗?](https://www.v2ex.com/t/822524) ![](assets/new.png)  
-- [2021-12-16-请教一个关于高并发写的问题](https://www.v2ex.com/t/822523) ![](assets/new.png)  
-- [2021-12-16-iOS-15.2-Mail-Outlook-账户无法登陆了](https://www.v2ex.com/t/822522) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,12 +570,12 @@
 - [2021-12-16-A16Z-:-Web3生态全景概览](https://toutiao.io/k/cvzixjt) ![](assets/new.png)  
 - [2021-12-16-你可能没那么了解-JWT](https://toutiao.io/k/8brs2se) ![](assets/new.png)  
 - [2021-12-16-组长让我把所有state都放Redux里](https://toutiao.io/k/14vztte) ![](assets/new.png)  
-- [2021-12-16-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-16-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-16-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-16-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
 - [2021-12-16-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [2021-12-16-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [2021-12-16-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
-- [2021-12-16-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-16-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

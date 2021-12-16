@@ -7734,6 +7734,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "发现各地区 AC+价格实际差异不大",
+        "link": "https://www.v2ex.com/t/822669",
+        "date": "2021-12-16"
+      },
+      {
+        "title": "美帝 intel 硬件部门待遇那么拉跨？",
+        "link": "https://www.v2ex.com/t/822668",
+        "date": "2021-12-16"
+      },
+      {
         "title": "iOS15 和 macOS12 上还能用多个 Apple ID 分别登录 iCloud 和 App Store 吗",
         "link": "https://www.v2ex.com/t/822666",
         "date": "2021-12-16"
@@ -7906,16 +7916,6 @@
       {
         "title": "12.1 后台程序是不是自己会掉？",
         "link": "https://www.v2ex.com/t/822620",
-        "date": "2021-12-16"
-      },
-      {
-        "title": "NRD 是个什么进程。。。",
-        "link": "https://www.v2ex.com/t/822619",
-        "date": "2021-12-16"
-      },
-      {
-        "title": "我们做了一款无广告、无推送、无新闻的极简安卓浏览器，支持阅读模式智能拼页， m3u8 视频下载合并转 MP4，原创订阅功能实现追小说、影视、漫画",
-        "link": "https://www.v2ex.com/t/822618",
         "date": "2021-12-16"
       }
     ]
@@ -8133,23 +8133,18 @@
         "date": "2021-12-16"
       },
       {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
-        "date": "2021-12-16"
-      },
-      {
         "title": "[推荐] 服务 API 版本控制设计与实践",
         "link": "https://toutiao.io/k/puc84fn",
         "date": "2021-12-16"
       },
       {
-        "title": "[推荐] 高性能程序设计，缓存为王",
-        "link": "https://toutiao.io/k/a9j7y4a",
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
         "date": "2021-12-16"
       },
       {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
         "date": "2021-12-16"
       },
       {
@@ -8163,13 +8158,18 @@
         "date": "2021-12-16"
       },
       {
+        "title": "[推荐] 京东秒杀架构升级优化实践",
+        "link": "https://toutiao.io/k/4cxy94p",
+        "date": "2021-12-16"
+      },
+      {
         "title": "[推荐] 服务调优经验总结",
         "link": "https://toutiao.io/k/av28tr1",
         "date": "2021-12-16"
       },
       {
-        "title": "[推荐] 京东秒杀架构升级优化实践",
-        "link": "https://toutiao.io/k/4cxy94p",
+        "title": "[推荐] 高性能程序设计，缓存为王",
+        "link": "https://toutiao.io/k/a9j7y4a",
         "date": "2021-12-16"
       }
     ]

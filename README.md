@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-16 04:29:02，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-16 04:50:09，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-16-联通-cpe-超密逆向探讨](https://www.v2ex.com/t/822578) ![](assets/new.png)  
+- [2021-12-16-预算-8000-左右想组一个迷你主机大佬们有推荐吗](https://www.v2ex.com/t/822577) ![](assets/new.png)  
 - [2021-12-16-请问一下各位大佬们，有没有办法把-safe-in-cloud-里的数据导入到-keepass-中](https://www.v2ex.com/t/822576) ![](assets/new.png)  
 - [2021-12-16-Apple-天气-app「当前位置」定位可以显示区县了。](https://www.v2ex.com/t/822575) ![](assets/new.png)  
 - [2021-12-16-买了个稳定器不会用-说说使用感受-几种模式是怎么命名的？](https://www.v2ex.com/t/822571) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-16-发现一个对-M1-Mac-也能支持双-4K@60Hz-的扩展坞-VisionTek-VT4510](https://www.v2ex.com/t/822556) ![](assets/new.png)  
 - [2021-12-16-CPU-软锁定后，无法访问-IPMI-吗？](https://www.v2ex.com/t/822554) ![](assets/new.png)  
 - [2021-12-16-你呢？今年最大的改变是什么？](https://www.v2ex.com/t/822553) ![](assets/new.png)  
-- [2021-12-16-求教-rc.local-文件被重复执行](https://www.v2ex.com/t/822551) ![](assets/new.png)  
-- [2021-12-16-要实现连续-30-天的相关统计的方法](https://www.v2ex.com/t/822549) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,12 +570,12 @@
 - [2021-12-16-A16Z-:-Web3生态全景概览](https://toutiao.io/k/cvzixjt) ![](assets/new.png)  
 - [2021-12-16-深度好文-—-微服务和API网关限流熔断实现关键逻辑思路](https://toutiao.io/k/t34ixj8) ![](assets/new.png)  
 - [2021-12-16-组长让我把所有state都放Redux里](https://toutiao.io/k/14vztte) ![](assets/new.png)  
-- [2021-12-16-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
 - [2021-12-16-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-16-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [2021-12-16-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [2021-12-16-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
 - [2021-12-16-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
+- [2021-12-16-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-16-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

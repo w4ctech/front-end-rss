@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-16 21:41:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-16 21:54:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1481,7 +1481,6 @@
 - [2021-12-16-蜘蛛侠-英雄无归-国内还能看吗](https://www.v2ex.com/t/822715) 
 - [2021-12-16-Bing（必应）挂了](https://www.v2ex.com/t/822714) 
 - [2021-12-16-微信网页版是不是已经关闭了](https://www.v2ex.com/t/822713) 
-- [2021-12-16-感觉这两张图有共同之处](https://www.v2ex.com/t/822712) 
 - [2021-12-16-探讨大量数据下某个值是否存在的问题，大佬们指教一下](https://www.v2ex.com/t/822711) 
 - [2021-12-16-做了一个西安互联网社区，旨在增进西安互联网人的交流～](https://www.v2ex.com/t/822710) 
 - [2021-12-16-分享一下技术向的读书笔记](https://www.v2ex.com/t/822708) 
@@ -1513,7 +1512,6 @@
 - [2021-12-16-在国内有必要开奈飞会员吗](https://www.v2ex.com/t/822672) 
 - [2021-12-16-为什么-Apple-Music-for-macOS-能做到那么多-bug-还不修啊？](https://www.v2ex.com/t/822670) 
 - [2021-12-16-发现各地区-AC+价格实际差异不大](https://www.v2ex.com/t/822669) 
-- [2021-12-16-美帝-intel-硬件部门待遇那么拉跨？](https://www.v2ex.com/t/822668) 
 - [2021-12-16-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-16-鸿蒙OS、安卓、iOS测试对比，结果出乎意料！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14847&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9RWmROLInm3RJpX1ZHjHmw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-16-张一鸣：给产品技术人才的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14846&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492724%26amp%3Bidx%3D2%26amp%3Bsn%3D3d506086a6e038c1eb1a4b9f404f90c1%26amp%3Bchksm%3Dfa3f052fcd488c395f8202745eff3a5d4db9f15102f06042d8683d94a108dab53b582fe57726%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1548,9 +1546,9 @@
 - [2021-12-16-A16Z-:-Web3生态全景概览](https://toutiao.io/k/cvzixjt) 
 - [2021-12-16-Nike正式收购虚拟时尚公司RTFKT大步跨入元宇宙](https://toutiao.io/k/ytth1ob) 
 - [2021-12-16-模拟器推荐](https://toutiao.io/k/vw1m2ey) 
-- [2021-12-16-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
 - [2021-12-16-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [2021-12-16-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
-- [2021-12-16-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-16-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [2021-12-16-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [2021-12-16-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
 - [2021-12-16-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 

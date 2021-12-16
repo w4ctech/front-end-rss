@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-16 05:12:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-16 05:20:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2021-12-16-求推荐显示器,-感觉没一款合适的.](https://www.v2ex.com/t/822535) 
 - [2021-12-16-cd/ls-某个安卓源码文件夹特别慢，有人碰到吗？](https://www.v2ex.com/t/822534) 
 - [2021-12-16-AirPods-Pro-同时连接着-mac-和手机切换有点问题啊](https://www.v2ex.com/t/822533) 
-- [2021-12-16-m1-mac-air-锁屏快捷键问题](https://www.v2ex.com/t/822531) 

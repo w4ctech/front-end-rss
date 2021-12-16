@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-16 19:10:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-16 19:18:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -201,13 +201,13 @@
 - [【开发者头条】2021-12-16-组长让我把所有state都放Redux里](https://toutiao.io/k/14vztte) 
 - [【开发者头条】2021-12-16-模拟器推荐](https://toutiao.io/k/vw1m2ey) 
 - [【开发者头条】2021-12-16-Molecule在GitHub与Gitee正式开源](https://toutiao.io/k/cj1rhrr) 
-- [【开发者头条】2021-12-16-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [【开发者头条】2021-12-16-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
-- [【开发者头条】2021-12-16-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [【开发者头条】2021-12-16-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [【开发者头条】2021-12-16-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [【开发者头条】2021-12-16-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [【开发者头条】2021-12-16-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [【开发者头条】2021-12-16-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
-- [【开发者头条】2021-12-16-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [【开发者头条】2021-12-16-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [【开发者头条】2021-12-16-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

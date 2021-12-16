@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-16 02:11:01，:rocket: 更新条数: +1585， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-16 02:30:34，:rocket: 更新条数: +1585， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2021-12-16-阿里云-oss-上的数据怎么打包下载-最省钱省力](https://www.v2ex.com/t/822537) ![](assets/new.png)  
+- [2021-12-16-身份证生日当天有哪些地方有福利或优惠？](https://www.v2ex.com/t/822536) ![](assets/new.png)  
+- [2021-12-16-求推荐显示器,-感觉没一款合适的.](https://www.v2ex.com/t/822535) ![](assets/new.png)  
+- [2021-12-16-cd/ls-某个安卓源码文件夹特别慢，有人碰到吗？](https://www.v2ex.com/t/822534) ![](assets/new.png)  
+- [2021-12-16-AirPods-Pro-同时连接着-mac-和手机切换有点问题啊](https://www.v2ex.com/t/822533) ![](assets/new.png)  
+- [2021-12-16-m1-mac-air-锁屏快捷键问题](https://www.v2ex.com/t/822531) ![](assets/new.png)  
 - [2021-12-16-据说明年苹果和-LG-会出新的显示器，预测一下价格](https://www.v2ex.com/t/822530) ![](assets/new.png)  
 - [2021-12-16-Spotify-Android-版迷惑网络无法连接的问题](https://www.v2ex.com/t/822527) ![](assets/new.png)  
 - [2021-12-16-最近那个电信新星卡怎么样](https://www.v2ex.com/t/822526) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-12-16-第二台-mbp-2021-16-寸-已经退货](https://www.v2ex.com/t/822517) ![](assets/new.png)  
 - [2021-12-16-Databend-招聘中，期待你能全职加入开源项目](https://www.v2ex.com/t/822516) ![](assets/new.png)  
 - [2021-12-16-有什么-API-支持把腾讯地图坐标转换为-GPS-坐标吗？](https://www.v2ex.com/t/822513) ![](assets/new.png)  
-- [2021-12-16-在筹划做一个秒杀系统](https://www.v2ex.com/t/822512) ![](assets/new.png)  
-- [2021-12-16-MacbookPro-蓝牙连接-键盘“罗技-MX-keys”或者“京造-K10”时，在微信输入框和提醒事项输入框按-Home-和-End-键，无效，有一样的朋友吗](https://www.v2ex.com/t/822511) ![](assets/new.png)  
-- [2021-12-16-这几天更新的-chrome-新版本不保存-cookie-文件了？](https://www.v2ex.com/t/822510) ![](assets/new.png)  
-- [2021-12-16-4-岁的儿子很爱搭积木，有必要带他学乐高班吗？](https://www.v2ex.com/t/822507) ![](assets/new.png)  
-- [2021-12-16-Swift-/-SwiftUI-是否有任何库可以处理字符串里的特殊控制字符然后输出带色彩的结果？](https://www.v2ex.com/t/822506) ![](assets/new.png)  
-- [2021-12-16-一想到过年就要在有限的假期里四处奔波拜年，就不想买回家的火车票了](https://www.v2ex.com/t/822505) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,16 +566,16 @@
 - [2021-12-16-Nike正式收购虚拟时尚公司RTFKT大步跨入元宇宙](https://toutiao.io/k/ytth1ob) ![](assets/new.png)  
 - [2021-12-16-python-print-函数的格式化字符串输出](https://toutiao.io/k/908bp8o) ![](assets/new.png)  
 - [2021-12-16-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
-- [2021-12-16-A16Z-:-Web3生态全景概览](https://toutiao.io/k/cvzixjt) ![](assets/new.png)  
-- [2021-12-16-组长让我把所有state都放Redux里](https://toutiao.io/k/14vztte) ![](assets/new.png)  
 - [2021-12-16-深度好文-—-微服务和API网关限流熔断实现关键逻辑思路](https://toutiao.io/k/t34ixj8) ![](assets/new.png)  
+- [2021-12-16-A16Z-:-Web3生态全景概览](https://toutiao.io/k/cvzixjt) ![](assets/new.png)  
 - [2021-12-16-你可能没那么了解-JWT](https://toutiao.io/k/8brs2se) ![](assets/new.png)  
+- [2021-12-16-组长让我把所有state都放Redux里](https://toutiao.io/k/14vztte) ![](assets/new.png)  
 - [2021-12-16-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-16-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-16-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
-- [2021-12-16-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-16-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
 - [2021-12-16-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-16-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [2021-12-16-推荐-高性能程序设计，缓存为王](https://toutiao.io/k/a9j7y4a) ![](assets/new.png)  
+- [2021-12-16-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

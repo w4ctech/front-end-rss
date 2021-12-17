@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-17 14:41:07，:rocket: 更新条数: +1596， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-17 14:54:53，:rocket: 更新条数: +1595， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,10 +494,10 @@
 </summary>
 
 
+- [2021-12-17-想问下-Java-有没有类似-phpstudy-得环境搭建工具](https://www.v2ex.com/t/822914) ![](assets/new.png)  
 - [2021-12-17-如何让-OneDrive-For-Mac-同步任意指定文件夹](https://www.v2ex.com/t/822913) ![](assets/new.png)  
 - [2021-12-17-Bing-国内搜索关闭期间，可以通过代理用其它国家的-Bing-了！](https://www.v2ex.com/t/822912) ![](assets/new.png)  
 - [2021-12-17-今天面试了两个银行外包公司，都有给-offer-的意向，之前都在甲方公司，不知道该不该去，兄弟们帮我参谋参谋~](https://www.v2ex.com/t/822911) ![](assets/new.png)  
-- [2021-12-17-上海不加班外企招-开发、测试，-14-天年假，找我内推平分好几万奖金](https://www.v2ex.com/t/822910) ![](assets/new.png)  
 - [2021-12-17-jetbrains-&-vscode-?](https://www.v2ex.com/t/822909) ![](assets/new.png)  
 - [2021-12-17-港版-MacBook-Pro-为何附带马来西亚的保修卡？](https://www.v2ex.com/t/822907) ![](assets/new.png)  
 - [2021-12-17-m1-MacBook-Pro-休眠后频繁自动唤醒，这休眠是废了吗](https://www.v2ex.com/t/822906) ![](assets/new.png)  

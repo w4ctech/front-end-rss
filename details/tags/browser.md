@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-17 06:51:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-17 07:12:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,6 +13,6 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2021-09-30-兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/) 
+- [2021-12-17-如何自定义浏览器的默认-confirm](https://www.v2ex.com/t/822816) 
 - [2021-12-17-偶然发现显示-Chrome-纵向-Tab-列表的小技巧](https://www.v2ex.com/t/822786) 
-- [2021-12-17-Nvidia-Shield-TV-Pro-2021-上市了吗？](https://www.v2ex.com/t/822761) 
 - [2021-12-17-【浏览器插件】让你的浏览器更加强大，谷歌浏览器油猴插件安装教程](https://toutiao.io/k/zud3zvs) 

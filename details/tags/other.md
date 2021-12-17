@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-17 11:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-17 11:36:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1545,17 +1545,17 @@
 - [2021-12-17-Hive-SORT-BY-vs-ORDER-BY-vs-DISTRIBUTE-BY-vs-CLUSTER-BY](https://toutiao.io/k/1nnsira) 
 - [2021-12-17-brpc初学者指南](https://toutiao.io/k/u5i42ft) 
 - [2021-12-17-身份即服务背后的基石](https://toutiao.io/k/x4x2i8t) 
-- [2021-12-17-360CERT发布全网受Log4j库漏洞影响的厂商自查列表](https://toutiao.io/k/ul90i19) 
 - [2021-12-17-聊聊我们在业务链路升级中做的数据洞察](https://toutiao.io/k/4wd0vb3) 
+- [2021-12-17-360CERT发布全网受Log4j库漏洞影响的厂商自查列表](https://toutiao.io/k/ul90i19) 
 - [2021-12-17-Baba-Is-You,来自元宇宙创作者基地的推荐](https://toutiao.io/k/wl3n69b) 
 - [2021-12-17-教你Unity灯光烘焙1~2](https://toutiao.io/k/uhix449) 
 - [2021-12-17-独立开发变现周刊（第33期）：2021年每周发布1个产品，同年达到月收入2.5万美元？](https://toutiao.io/k/qxti8mw) 
 - [2021-12-17-程序员必备，《新老系统切换宝典》](https://toutiao.io/k/spgum4x) 
 - [2021-12-17-118-python|第一部分-python核心（二）](https://toutiao.io/k/1ekwnne) 
 - [2021-12-17-【漫画】数据云，真香在哪？](https://toutiao.io/k/vjpal6p) 
-- [2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
 - [2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
 - [2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 

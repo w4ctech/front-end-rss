@@ -7769,6 +7769,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "mac 休眠后频繁自动唤醒",
+        "link": "https://www.v2ex.com/t/822906",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "求个录像的 app",
+        "link": "https://www.v2ex.com/t/822905",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "作为一名 Java 开发，目前还有哪些新 rep 值得贡献",
+        "link": "https://www.v2ex.com/t/822904",
+        "date": "2021-12-17"
+      },
+      {
         "title": "求推荐一个 ES6 写的、包含这些特点的轻量级开源项目",
         "link": "https://www.v2ex.com/t/822903",
         "date": "2021-12-17"
@@ -7946,21 +7961,6 @@
       {
         "title": "22 了， Mac 上有什么方便看 log 的工具",
         "link": "https://www.v2ex.com/t/822858",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "2021 版 macbook pro 支持无损格式音乐输出吗？",
-        "link": "https://www.v2ex.com/t/822856",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "[礼品卡] Setapp 年度订阅！懂的都懂/不是拼车/官网充值",
-        "link": "https://www.v2ex.com/t/822855",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "[已开源] Flutter 字节跳动穿山甲广告插件，帮助开发者获利 - FlutterAds",
-        "link": "https://www.v2ex.com/t/822854",
         "date": "2021-12-17"
       }
     ]
@@ -8178,13 +8178,8 @@
         "date": "2021-12-17"
       },
       {
-        "title": "[推荐] 京东秒杀架构升级优化实践",
-        "link": "https://toutiao.io/k/4cxy94p",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
         "date": "2021-12-17"
       },
       {
@@ -8193,8 +8188,13 @@
         "date": "2021-12-17"
       },
       {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
+        "title": "[推荐] 京东秒杀架构升级优化实践",
+        "link": "https://toutiao.io/k/4cxy94p",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
+        "link": "https://toutiao.io/k/xktwzye",
         "date": "2021-12-17"
       },
       {
@@ -8203,8 +8203,8 @@
         "date": "2021-12-17"
       },
       {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
         "date": "2021-12-17"
       },
       {

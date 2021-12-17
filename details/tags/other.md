@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-17 13:18:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-17 13:34:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1482,6 +1482,9 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-17-mac-休眠后频繁自动唤醒](https://www.v2ex.com/t/822906) 
+- [2021-12-17-求个录像的-app](https://www.v2ex.com/t/822905) 
+- [2021-12-17-作为一名-Java-开发，目前还有哪些新-rep-值得贡献](https://www.v2ex.com/t/822904) 
 - [2021-12-17-现在这个阶段，威联通的移动端软件比群晖的如何？](https://www.v2ex.com/t/822900) 
 - [2021-12-17-今天刚洗完牙了，小姐姐说有牙要补，补吗？](https://www.v2ex.com/t/822899) 
 - [2021-12-17-分享一个处理结构化-error-的库](https://www.v2ex.com/t/822898) 
@@ -1514,8 +1517,6 @@
 - [2021-12-17-各位的-Bing-正常了吗](https://www.v2ex.com/t/822860) 
 - [2021-12-17-问个苹果开发者账号相关的问题](https://www.v2ex.com/t/822859) 
 - [2021-12-17-22-了，-Mac-上有什么方便看-log-的工具](https://www.v2ex.com/t/822858) 
-- [2021-12-17-2021-版-macbook-pro-支持无损格式音乐输出吗？](https://www.v2ex.com/t/822856) 
-- [2021-12-17-礼品卡-Setapp-年度订阅！懂的都懂/不是拼车/官网充值](https://www.v2ex.com/t/822855) 
 - [2021-12-17-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-17-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-17-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1550,9 +1551,9 @@
 - [2021-12-17-程序员必备，《新老系统切换宝典》](https://toutiao.io/k/spgum4x) 
 - [2021-12-17-118-python|第一部分-python核心（二）](https://toutiao.io/k/1ekwnne) 
 - [2021-12-17-【漫画】数据云，真香在哪？](https://toutiao.io/k/vjpal6p) 
-- [2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
 - [2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
-- [2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
 - [2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 

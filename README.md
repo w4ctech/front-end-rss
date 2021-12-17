@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-17 07:54:26，:rocket: 更新条数: +1594， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-17 08:15:02，:rocket: 更新条数: +1594， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2021-12-17-整理了一小些，初级和初中级词汇量英文读物。欢迎补充，目标每天读-90-分钟。](https://www.v2ex.com/t/822836) ![](assets/new.png)  
+- [2021-12-17-请教-http1.1-并发请求的问题](https://www.v2ex.com/t/822835) ![](assets/new.png)  
+- [2021-12-17-关于-springboot-和非-springboot-跑在外部-tomcat-的-web-工程的-idea-里的断点问题.](https://www.v2ex.com/t/822834) ![](assets/new.png)  
+- [2021-12-17-上海电信改桥接说是会降带宽？还有这种说法吗？](https://www.v2ex.com/t/822833) ![](assets/new.png)  
+- [2021-12-17-有没有比树莓派更便宜的-Linux-开发板推荐？](https://www.v2ex.com/t/822832) ![](assets/new.png)  
+- [2021-12-17-有没有这样的网页文本内容分享插件](https://www.v2ex.com/t/822831) ![](assets/new.png)  
+- [2021-12-17-上海-英语口语流利-招聘-Java-工程师-20-30K-早-10-晚-6](https://www.v2ex.com/t/822830) ![](assets/new.png)  
 - [2021-12-17-贴码：一个代码片段剪藏软件](https://www.v2ex.com/t/822829) ![](assets/new.png)  
 - [2021-12-17-不知道大家有没有过很焦虑的时期？](https://www.v2ex.com/t/822828) ![](assets/new.png)  
 - [2021-12-17-xd-们可以分享一下-iPhone-实用软件或者美化软件或者单机小游戏不](https://www.v2ex.com/t/822827) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2021-12-17-Log4J-bug-套-bug-/dog](https://www.v2ex.com/t/822817) ![](assets/new.png)  
 - [2021-12-17-如何自定义浏览器的默认-confirm](https://www.v2ex.com/t/822816) ![](assets/new.png)  
 - [2021-12-17-迫于去年的车厘子京东会员即将到期，求问接下来有什么划算的活动么](https://www.v2ex.com/t/822815) ![](assets/new.png)  
-- [2021-12-17-米哈游-程序运营产品策划行政都有岗位在招](https://www.v2ex.com/t/822814) ![](assets/new.png)  
-- [2021-12-17-关于路由器-NAT-配置的一个困惑，请大神帮忙看看，谢谢](https://www.v2ex.com/t/822812) ![](assets/new.png)  
-- [2021-12-17-微信-iOS-15-APP-隐私报告，最常联系的域-2000::-是什么意思](https://www.v2ex.com/t/822811) ![](assets/new.png)  
-- [2021-12-17-技术面-面试官问期望薪资。。什么鬼呀！](https://www.v2ex.com/t/822810) ![](assets/new.png)  
-- [2021-12-17-互联网行业还能走多久?](https://www.v2ex.com/t/822809) ![](assets/new.png)  
-- [2021-12-17-mac-os-升级问题](https://www.v2ex.com/t/822808) ![](assets/new.png)  
-- [2021-12-17-自己配的-apfs-硬盘盒经常出错](https://www.v2ex.com/t/822805) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,8 +573,8 @@
 - [2021-12-17-独立开发变现周刊（第33期）：2021年每周发布1个产品，同年达到月收入2.5万美元？](https://toutiao.io/k/qxti8mw) ![](assets/new.png)  
 - [2021-12-17-程序员必备，《新老系统切换宝典》](https://toutiao.io/k/spgum4x) ![](assets/new.png)  
 - [2021-12-17-【浏览器插件】让你的浏览器更加强大，谷歌浏览器油猴插件安装教程](https://toutiao.io/k/zud3zvs) ![](assets/new.png)  
-- [2021-12-17-118-python|第一部分-python核心（二）](https://toutiao.io/k/1ekwnne) ![](assets/new.png)  
 - [2021-12-17-如何改善应用启动性能-|-Facebook-应用的经验分享](https://toutiao.io/k/6a8p2dc) ![](assets/new.png)  
+- [2021-12-17-118-python|第一部分-python核心（二）](https://toutiao.io/k/1ekwnne) ![](assets/new.png)  
 - [2021-12-17-【漫画】数据云，真香在哪？](https://toutiao.io/k/vjpal6p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -7759,6 +7759,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "整理了一小些，初级和初中级词汇量英文读物。欢迎补充，目标每天读 90 分钟。",
+        "link": "https://www.v2ex.com/t/822836",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "请教 http1.1 并发请求的问题",
+        "link": "https://www.v2ex.com/t/822835",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "关于 springboot 和非 springboot 跑在外部 tomcat 的 web 工程的 idea 里的断点问题.",
+        "link": "https://www.v2ex.com/t/822834",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "上海电信改桥接说是会降带宽？还有这种说法吗？",
+        "link": "https://www.v2ex.com/t/822833",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "有没有比树莓派更便宜的 Linux 开发板推荐？",
+        "link": "https://www.v2ex.com/t/822832",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "有没有这样的网页文本内容分享插件",
+        "link": "https://www.v2ex.com/t/822831",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "[上海] [英语口语流利] 招聘 Java 工程师 ( 20-30K ) (早 10 晚 6)",
+        "link": "https://www.v2ex.com/t/822830",
+        "date": "2021-12-17"
+      },
+      {
         "title": "贴码：一个代码片段剪藏软件",
         "link": "https://www.v2ex.com/t/822829",
         "date": "2021-12-17"
@@ -7921,41 +7956,6 @@
       {
         "title": "记一次飞书账户被封禁及解封，和封禁原因的分析（可能是 Log4j2 漏洞）",
         "link": "https://www.v2ex.com/t/822788",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "[北京] [推荐算法] [机器学习]",
-        "link": "https://www.v2ex.com/t/822787",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "偶然发现显示 Chrome 纵向 Tab 列表的小技巧",
-        "link": "https://www.v2ex.com/t/822786",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "有和我一样喜欢看 vscode 的 updates 的吗？",
-        "link": "https://www.v2ex.com/t/822785",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "apple watch 充电掉电",
-        "link": "https://www.v2ex.com/t/822783",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "Xcode installing 一个小时了～～",
-        "link": "https://www.v2ex.com/t/822782",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "用自己招商 visa 卡购买 apple 美区礼品卡，没通过？给我发了邮件要求电话确认。",
-        "link": "https://www.v2ex.com/t/822781",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "[上海]B 站直播用户技术团队招聘服务端大佬(高级/资深)",
-        "link": "https://www.v2ex.com/t/822780",
         "date": "2021-12-17"
       }
     ]
@@ -8158,33 +8158,18 @@
         "date": "2021-12-17"
       },
       {
-        "title": "118 python|第一部分　python核心（二）",
-        "link": "https://toutiao.io/k/1ekwnne",
-        "date": "2021-12-17"
-      },
-      {
         "title": "如何改善应用启动性能 | Facebook 应用的经验分享",
         "link": "https://toutiao.io/k/6a8p2dc",
         "date": "2021-12-17"
       },
       {
+        "title": "118 python|第一部分　python核心（二）",
+        "link": "https://toutiao.io/k/1ekwnne",
+        "date": "2021-12-17"
+      },
+      {
         "title": "【漫画】数据云，真香在哪？",
         "link": "https://toutiao.io/k/vjpal6p",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "[推荐] 京东秒杀架构升级优化实践",
-        "link": "https://toutiao.io/k/4cxy94p",
         "date": "2021-12-17"
       },
       {
@@ -8203,8 +8188,23 @@
         "date": "2021-12-17"
       },
       {
+        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
+        "link": "https://toutiao.io/k/0xsbfqz",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "[推荐] Google：12 条 Golang 最佳实践",
+        "link": "https://toutiao.io/k/x06am1r",
+        "date": "2021-12-17"
+      },
+      {
         "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
         "link": "https://toutiao.io/k/ksd0hqy",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "[推荐] 京东秒杀架构升级优化实践",
+        "link": "https://toutiao.io/k/4cxy94p",
         "date": "2021-12-17"
       }
     ]

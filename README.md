@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-17 17:54:17，:rocket: 更新条数: +1594， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-17 18:14:39，:rocket: 更新条数: +1595， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-17-tf-卡装-win11-虚拟机轻应用没问题吧](https://www.v2ex.com/t/822934) ![](assets/new.png)  
 - [2021-12-17-薅了-oracle-基本在国内没法用](https://www.v2ex.com/t/822933) ![](assets/new.png)  
 - [2021-12-17-求副显示器推荐](https://www.v2ex.com/t/822932) ![](assets/new.png)  
 - [2021-12-17-既视感/海马效应-怎么治](https://www.v2ex.com/t/822931) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-17-想问下-Java-有没有类似-phpstudy-得环境搭建工具](https://www.v2ex.com/t/822914) ![](assets/new.png)  
 - [2021-12-17-如何让-OneDrive-For-Mac-同步任意指定文件夹](https://www.v2ex.com/t/822913) ![](assets/new.png)  
 - [2021-12-17-Bing-国内搜索关闭期间，可以通过代理用其它国家的-Bing-了！](https://www.v2ex.com/t/822912) ![](assets/new.png)  
-- [2021-12-17-今天面试了两个银行外包公司，都有给-offer-的意向，之前都在甲方公司，不知道该不该去，兄弟们帮我参谋参谋~](https://www.v2ex.com/t/822911) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2021-12-17-程序员必备，《新老系统切换宝典》](https://toutiao.io/k/spgum4x) ![](assets/new.png)  
 - [2021-12-17-独立开发变现周刊（第33期）：2021年每周发布1个产品，同年达到月收入2.5万美元？](https://toutiao.io/k/qxti8mw) ![](assets/new.png)  
 - [2021-12-17-118-python|第一部分-python核心（二）](https://toutiao.io/k/1ekwnne) ![](assets/new.png)  
-- [2021-12-17-如何改善应用启动性能-|-Facebook-应用的经验分享](https://toutiao.io/k/6a8p2dc) ![](assets/new.png)  
 - [2021-12-17-【漫画】数据云，真香在哪？](https://toutiao.io/k/vjpal6p) ![](assets/new.png)  
+- [2021-12-17-如何改善应用启动性能-|-Facebook-应用的经验分享](https://toutiao.io/k/6a8p2dc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

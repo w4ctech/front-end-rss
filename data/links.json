@@ -7779,6 +7779,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "tf 卡装 win11 虚拟机轻应用没问题吧",
+        "link": "https://www.v2ex.com/t/822934",
+        "date": "2021-12-17"
+      },
+      {
         "title": "薅了 oracle 基本在国内没法用",
         "link": "https://www.v2ex.com/t/822933",
         "date": "2021-12-17"
@@ -8173,18 +8178,18 @@
         "date": "2021-12-17"
       },
       {
-        "title": "如何改善应用启动性能 | Facebook 应用的经验分享",
-        "link": "https://toutiao.io/k/6a8p2dc",
-        "date": "2021-12-17"
-      },
-      {
         "title": "【漫画】数据云，真香在哪？",
         "link": "https://toutiao.io/k/vjpal6p",
         "date": "2021-12-17"
       },
       {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
+        "title": "如何改善应用启动性能 | Facebook 应用的经验分享",
+        "link": "https://toutiao.io/k/6a8p2dc",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
         "date": "2021-12-17"
       },
       {
@@ -8193,18 +8198,18 @@
         "date": "2021-12-17"
       },
       {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
-        "date": "2021-12-17"
-      },
-      {
         "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
         "link": "https://toutiao.io/k/hrnq79a",
         "date": "2021-12-17"
       },
       {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
         "date": "2021-12-17"
       }
     ]

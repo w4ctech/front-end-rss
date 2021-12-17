@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-17 17:54:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-17 18:14:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -128,6 +128,7 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-17-tf-卡装-win11-虚拟机轻应用没问题吧](https://www.v2ex.com/t/822934) 
 - [【V2EX】2021-12-17-薅了-oracle-基本在国内没法用](https://www.v2ex.com/t/822933) 
 - [【V2EX】2021-12-17-求副显示器推荐](https://www.v2ex.com/t/822932) 
 - [【V2EX】2021-12-17-既视感/海马效应-怎么治](https://www.v2ex.com/t/822931) 
@@ -204,13 +205,13 @@
 - [【开发者头条】2021-12-17-程序员必备，《新老系统切换宝典》](https://toutiao.io/k/spgum4x) 
 - [【开发者头条】2021-12-17-独立开发变现周刊（第33期）：2021年每周发布1个产品，同年达到月收入2.5万美元？](https://toutiao.io/k/qxti8mw) 
 - [【开发者头条】2021-12-17-118-python|第一部分-python核心（二）](https://toutiao.io/k/1ekwnne) 
-- [【开发者头条】2021-12-17-如何改善应用启动性能-|-Facebook-应用的经验分享](https://toutiao.io/k/6a8p2dc) 
 - [【开发者头条】2021-12-17-【漫画】数据云，真香在哪？](https://toutiao.io/k/vjpal6p) 
-- [【开发者头条】2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [【开发者头条】2021-12-17-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
-- [【开发者头条】2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [【开发者头条】2021-12-17-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-17-如何改善应用启动性能-|-Facebook-应用的经验分享](https://toutiao.io/k/6a8p2dc) 
 - [【开发者头条】2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [【开发者头条】2021-12-17-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
+- [【开发者头条】2021-12-17-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [【开发者头条】2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-17 14:12:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-17 14:20:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -340,6 +340,7 @@
 
 
 
+- [【V2EX】今天面试了两个银行外包公司，都有给-offer-的意向，之前都在甲方公司，不知道该不该去，兄弟们帮我参谋参谋~](https://www.v2ex.com/t/822911)
 - [【开发者头条】golang面试题：怎么避免内存逃逸？](https://toutiao.io/k/5yvfc9w)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

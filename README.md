@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-17 14:12:33，:rocket: 更新条数: +1596， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-17 14:20:30，:rocket: 更新条数: +1596， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-17-今天面试了两个银行外包公司，都有给-offer-的意向，之前都在甲方公司，不知道该不该去，兄弟们帮我参谋参谋~](https://www.v2ex.com/t/822911) ![](assets/new.png)  
+- [2021-12-17-上海不加班外企招-开发、测试，-14-天年假，找我内推平分好几万奖金](https://www.v2ex.com/t/822910) ![](assets/new.png)  
 - [2021-12-17-jetbrains-&-vscode-?](https://www.v2ex.com/t/822909) ![](assets/new.png)  
 - [2021-12-17-港版-MacBook-Pro-为何附带马来西亚的保修卡？](https://www.v2ex.com/t/822907) ![](assets/new.png)  
 - [2021-12-17-m1-MacBook-Pro-休眠后频繁自动唤醒，这休眠是废了吗](https://www.v2ex.com/t/822906) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-17-我应该需要一个怎样的扩展坞?](https://www.v2ex.com/t/822889) ![](assets/new.png)  
 - [2021-12-17-快手磁力金牛前期投不出去有什么办法吗？](https://www.v2ex.com/t/822887) ![](assets/new.png)  
 - [2021-12-17-（2021）现在入境新加坡，-TraceTogether-如何激活，需要购买临时-SIM-卡吗？](https://www.v2ex.com/t/822885) ![](assets/new.png)  
-- [2021-12-17-大家-35-后都干什么事业？](https://www.v2ex.com/t/822883) ![](assets/new.png)  
-- [2021-12-17-广州-自学前端练习生-想找人生第一份前端的工作](https://www.v2ex.com/t/822882) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

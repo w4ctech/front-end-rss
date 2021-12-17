@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-17 05:54:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-17 06:15:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,3 +16,4 @@
 - [2021-12-17-偶然发现显示-Chrome-纵向-Tab-列表的小技巧](https://www.v2ex.com/t/822786) 
 - [2021-12-17-Nvidia-Shield-TV-Pro-2021-上市了吗？](https://www.v2ex.com/t/822761) 
 - [2021-12-17-如何想删除掉-edge-地址栏的快速收藏有没方法可以删除掉？](https://www.v2ex.com/t/822757) 
+- [2021-12-17-【浏览器插件】让你的浏览器更加强大，谷歌浏览器油猴插件安装教程](https://toutiao.io/k/zud3zvs) 

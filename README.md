@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-17 05:54:33，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-17 06:15:04，:rocket: 更新条数: +1595， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-17-求推荐个-mac-配套无线耳机.-天天上班,整一个](https://www.v2ex.com/t/822803) ![](assets/new.png)  
+- [2021-12-17-关于礼物](https://www.v2ex.com/t/822802) ![](assets/new.png)  
+- [2021-12-17-搞不懂，为什么人家问个对电池好的使用方式能惹来那么多人嘲讽](https://www.v2ex.com/t/822801) ![](assets/new.png)  
 - [2021-12-17-想入一个游戏本，大佬们帮忙看看](https://www.v2ex.com/t/822799) ![](assets/new.png)  
 - [2021-12-17-重构后的-am-体验](https://www.v2ex.com/t/822798) ![](assets/new.png)  
 - [2021-12-17-Java-on-Visual-Studio-Code-的更新-–-2021-年-11-月](https://www.v2ex.com/t/822796) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-17-Xcode-installing-一个小时了～～](https://www.v2ex.com/t/822782) ![](assets/new.png)  
 - [2021-12-17-用自己招商-visa-卡购买-apple-美区礼品卡，没通过？给我发了邮件要求电话确认。](https://www.v2ex.com/t/822781) ![](assets/new.png)  
 - [2021-12-17-上海B-站直播用户技术团队招聘服务端大佬高级/资深](https://www.v2ex.com/t/822780) ![](assets/new.png)  
-- [2021-12-17-大城市买房如此困难，幸苦半辈子都攒不到首付，该何去何从](https://www.v2ex.com/t/822778) ![](assets/new.png)  
-- [2021-12-17-由刚才-V-友的怎么看待自己的-bug-联想到有没有大佬会留漏洞](https://www.v2ex.com/t/822777) ![](assets/new.png)  
-- [2021-12-17-给回复点赞的提示文案问题](https://www.v2ex.com/t/822775) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,21 +561,21 @@
 - [2021-12-17-golang面试题：怎么避免内存逃逸？](https://toutiao.io/k/5yvfc9w) ![](assets/new.png)  
 - [2021-12-17-CSS实现微信朋友圈的九宫格图片自适应](https://toutiao.io/k/f1tvjcl) ![](assets/new.png)  
 - [2021-12-17-Hive-SORT-BY-vs-ORDER-BY-vs-DISTRIBUTE-BY-vs-CLUSTER-BY](https://toutiao.io/k/1nnsira) ![](assets/new.png)  
-- [2021-12-17-赵晓光最新发声：当你觉得元宇宙还是概念时，全球科技巨头早已积极布局，视频上的技术是未来最核心的创新](https://toutiao.io/k/kkqugoq) ![](assets/new.png)  
 - [2021-12-17-让全世界大厂都手忙脚乱的代码漏洞，是怎么一步步成为噩梦的？](https://toutiao.io/k/abkty0i) ![](assets/new.png)  
+- [2021-12-17-赵晓光最新发声：当你觉得元宇宙还是概念时，全球科技巨头早已积极布局，视频上的技术是未来最核心的创新](https://toutiao.io/k/kkqugoq) ![](assets/new.png)  
 - [2021-12-17-brpc初学者指南](https://toutiao.io/k/u5i42ft) ![](assets/new.png)  
 - [2021-12-17-从零到一编码实现Redis分布式锁](https://toutiao.io/k/97npbxa) ![](assets/new.png)  
 - [2021-12-17-身份即服务背后的基石](https://toutiao.io/k/x4x2i8t) ![](assets/new.png)  
-- [2021-12-17-360CERT发布全网受Log4j库漏洞影响的厂商自查列表](https://toutiao.io/k/ul90i19) ![](assets/new.png)  
 - [2021-12-17-Baba-Is-You,来自元宇宙创作者基地的推荐](https://toutiao.io/k/wl3n69b) ![](assets/new.png)  
+- [2021-12-17-360CERT发布全网受Log4j库漏洞影响的厂商自查列表](https://toutiao.io/k/ul90i19) ![](assets/new.png)  
 - [2021-12-17-聊聊我们在业务链路升级中做的数据洞察](https://toutiao.io/k/4wd0vb3) ![](assets/new.png)  
 - [2021-12-17-教你Unity灯光烘焙1~2](https://toutiao.io/k/uhix449) ![](assets/new.png)  
-- [2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-17-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
-- [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
-- [2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-17-独立开发变现周刊（第33期）：2021年每周发布1个产品，同年达到月收入2.5万美元？](https://toutiao.io/k/qxti8mw) ![](assets/new.png)  
+- [2021-12-17-如何改善应用启动性能-|-Facebook-应用的经验分享](https://toutiao.io/k/6a8p2dc) ![](assets/new.png)  
+- [2021-12-17-118-python|第一部分-python核心（二）](https://toutiao.io/k/1ekwnne) ![](assets/new.png)  
+- [2021-12-17-【漫画】数据云，真香在哪？](https://toutiao.io/k/vjpal6p) ![](assets/new.png)  
+- [2021-12-17-【浏览器插件】让你的浏览器更加强大，谷歌浏览器油猴插件安装教程](https://toutiao.io/k/zud3zvs) ![](assets/new.png)  
+- [2021-12-17-程序员必备，《新老系统切换宝典》](https://toutiao.io/k/spgum4x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

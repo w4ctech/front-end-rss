@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-17 11:10:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-17 11:17:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1482,6 +1482,7 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-17-快手磁力金牛前期投不出去有什么办法吗？](https://www.v2ex.com/t/822887) 
 - [2021-12-17-大家-35-后都干什么事业？](https://www.v2ex.com/t/822883) 
 - [2021-12-17-广州-自学前端练习生-想找人生第一份前端的工作](https://www.v2ex.com/t/822882) 
 - [2021-12-17-为何编译-zip-扩展的时候,只生成了一个-libzip.a,而不生成-zip.so](https://www.v2ex.com/t/822880) 
@@ -1518,8 +1519,6 @@
 - [2021-12-17-国内-LinkedIn-现在只能登录领英中国了？](https://www.v2ex.com/t/822842) 
 - [2021-12-17-无法理解为什么有人能如此心安理得地剧透别人？](https://www.v2ex.com/t/822841) 
 - [2021-12-17-v2-的-”程序员“也越来越多开始宣传公众号恰钱了](https://www.v2ex.com/t/822839) 
-- [2021-12-17-为何所有的网盘相册都不支持多级相册目录？](https://www.v2ex.com/t/822838) 
-- [2021-12-17-整理了一小些，初级和初中级词汇量英文读物。欢迎补充，目标每天读-90-分钟。](https://www.v2ex.com/t/822836) 
 - [2021-12-17-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-17-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-17-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1554,9 +1553,9 @@
 - [2021-12-17-程序员必备，《新老系统切换宝典》](https://toutiao.io/k/spgum4x) 
 - [2021-12-17-118-python|第一部分-python核心（二）](https://toutiao.io/k/1ekwnne) 
 - [2021-12-17-【漫画】数据云，真香在哪？](https://toutiao.io/k/vjpal6p) 
-- [2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
-- [2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
-- [2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
-- [2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 

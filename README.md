@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-17 11:10:29，:rocket: 更新条数: +1598， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-17 11:17:08，:rocket: 更新条数: +1597， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-17-快手磁力金牛前期投不出去有什么办法吗？](https://www.v2ex.com/t/822887) ![](assets/new.png)  
 - [2021-12-17-（2021）现在入境新加坡，-TraceTogether-如何激活，需要购买临时-SIM-卡吗？](https://www.v2ex.com/t/822885) ![](assets/new.png)  
 - [2021-12-17-大家-35-后都干什么事业？](https://www.v2ex.com/t/822883) ![](assets/new.png)  
 - [2021-12-17-广州-自学前端练习生-想找人生第一份前端的工作](https://www.v2ex.com/t/822882) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-17-萤石物联网卡怎么用在手机上？](https://www.v2ex.com/t/822866) ![](assets/new.png)  
 - [2021-12-17-礼品卡-Setapp-年度订阅！懂的都懂-/-个人账户-/-官网充值优惠](https://www.v2ex.com/t/822864) ![](assets/new.png)  
 - [2021-12-17-你们是如何说服老婆给买-M1-Max-?](https://www.v2ex.com/t/822863) ![](assets/new.png)  
-- [2021-12-17-django3-的-i18n-汉化求救](https://www.v2ex.com/t/822862) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

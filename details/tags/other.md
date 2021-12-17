@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-17 05:12:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-17 05:20:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1479,6 +1479,7 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-17-开了一个类似-阮一峰科技技术周刊-的公众号-不过内容是-影-音-游-相关资讯-今天出了第一期-老哥们给个建议？](https://www.v2ex.com/t/822790) 
 - [2021-12-17-有兴趣去东南亚搞外包公司的小伙伴吗](https://www.v2ex.com/t/822789) 
 - [2021-12-17-记一次飞书账户被封禁及解封，和封禁原因的分析（可能是-Log4j2-漏洞）](https://www.v2ex.com/t/822788) 
 - [2021-12-17-有和我一样喜欢看-vscode-的-updates-的吗？](https://www.v2ex.com/t/822785) 
@@ -1540,9 +1541,9 @@
 - [2021-12-17-Baba-Is-You,来自元宇宙创作者基地的推荐](https://toutiao.io/k/wl3n69b) 
 - [2021-12-17-教你Unity灯光烘焙1~2](https://toutiao.io/k/uhix449) 
 - [2021-12-17-聊聊我们在业务链路升级中做的数据洞察](https://toutiao.io/k/4wd0vb3) 
-- [2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
-- [2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
-- [2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
-- [2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
 - [2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
+- [2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 

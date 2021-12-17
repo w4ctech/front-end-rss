@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-17 06:26:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-17 06:47:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -235,7 +235,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】上海B-站直播用户技术团队招聘服务端大佬高级/资深](https://www.v2ex.com/t/822780)
-- [【V2EX】分享一个把-TLS-讲得很清楚的视频](https://www.v2ex.com/t/822755)
 - [【开发者头条】赵晓光最新发声：当你觉得元宇宙还是概念时，全球科技巨头早已积极布局，视频上的技术是未来最核心的创新](https://toutiao.io/k/kkqugoq)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -279,7 +278,6 @@
 - [【张鑫旭-鑫空间-鑫生活】兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)
 - [【V2EX】偶然发现显示-Chrome-纵向-Tab-列表的小技巧](https://www.v2ex.com/t/822786)
 - [【V2EX】Nvidia-Shield-TV-Pro-2021-上市了吗？](https://www.v2ex.com/t/822761)
-- [【V2EX】如何想删除掉-edge-地址栏的快速收藏有没方法可以删除掉？](https://www.v2ex.com/t/822757)
 - [【开发者头条】【浏览器插件】让你的浏览器更加强大，谷歌浏览器油猴插件安装教程](https://toutiao.io/k/zud3zvs)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -346,6 +344,7 @@
 
 
 
+- [【V2EX】技术面-面试官问期望薪资。。什么鬼呀！](https://www.v2ex.com/t/822810)
 - [【开发者头条】golang面试题：怎么避免内存逃逸？](https://toutiao.io/k/5yvfc9w)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

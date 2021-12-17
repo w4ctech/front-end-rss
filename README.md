@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-17 01:11:21，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-17 02:02:10，:rocket: 更新条数: +1586， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,18 @@
 </summary>
 
 
+- [2021-12-17-ios-拖拽复制的问题](https://www.v2ex.com/t/822742) ![](assets/new.png)  
+- [2021-12-17-请问双显示器的色彩管理怎么弄？](https://www.v2ex.com/t/822741) ![](assets/new.png)  
+- [2021-12-17-成都有人休过了今年的育儿假嘛？](https://www.v2ex.com/t/822739) ![](assets/new.png)  
+- [2021-12-17-小公司同学们来分享一下你们在用，但大公司可能不会采用的技术吧](https://www.v2ex.com/t/822738) ![](assets/new.png)  
+- [2021-12-17-Java-项目如何实现-jar-包只能在指定-ip-运行](https://www.v2ex.com/t/822737) ![](assets/new.png)  
+- [2021-12-17-关于数据和权限控制问题](https://www.v2ex.com/t/822736) ![](assets/new.png)  
+- [2021-12-17-今年还能回家吗](https://www.v2ex.com/t/822735) ![](assets/new.png)  
+- [2021-12-17-Windows-11-正式屏蔽火狐的默认浏览器变通法](https://www.v2ex.com/t/822734) ![](assets/new.png)  
+- [2021-12-17-分享一下我自建-FreshRSS-的过程](https://www.v2ex.com/t/822732) ![](assets/new.png)  
+- [2021-12-17-十年之约，你没有来。](https://www.v2ex.com/t/822731) ![](assets/new.png)  
+- [2021-12-17-有大佬能帮忙下载知网论文吗？](https://www.v2ex.com/t/822729) ![](assets/new.png)  
+- [2021-12-17-饿了么-app-在安卓-12-下，打不开吃货卡界面（支付宝小程序也是）](https://www.v2ex.com/t/822728) ![](assets/new.png)  
 - [2021-12-17-必应搜索怎么打不开了](https://www.v2ex.com/t/822726) ![](assets/new.png)  
 - [2021-12-17-Epic-活动什么值得买？来讨论一下](https://www.v2ex.com/t/822725) ![](assets/new.png)  
 - [2021-12-17-魔幻世界，必应中国被墙了](https://www.v2ex.com/t/822724) ![](assets/new.png)  
@@ -502,18 +514,6 @@
 - [2021-12-16-每个一边走路一边吸烟的人都是一个移动害人机](https://www.v2ex.com/t/822721) ![](assets/new.png)  
 - [2021-12-16-大厂同学来分享一下你们在用，但小公司可能没有用的好技术吧](https://www.v2ex.com/t/822720) ![](assets/new.png)  
 - [2021-12-16-微信忽然提示香港号码注册的帐号无法再使用-WeChat-Out-拨打给香港本地号码，只能拨给别的国家](https://www.v2ex.com/t/822719) ![](assets/new.png)  
-- [2021-12-16-文字的黄金时代](https://www.v2ex.com/t/822717) ![](assets/new.png)  
-- [2021-12-16-游戏推荐：骑龙狗斗-Century:-Age-of-Ashes](https://www.v2ex.com/t/822716) ![](assets/new.png)  
-- [2021-12-16-蜘蛛侠-英雄无归-国内还能看吗](https://www.v2ex.com/t/822715) ![](assets/new.png)  
-- [2021-12-16-Bing（必应）挂了](https://www.v2ex.com/t/822714) ![](assets/new.png)  
-- [2021-12-16-微信网页版是不是已经关闭了](https://www.v2ex.com/t/822713) ![](assets/new.png)  
-- [2021-12-16-探讨大量数据下某个值是否存在的问题，大佬们指教一下](https://www.v2ex.com/t/822711) ![](assets/new.png)  
-- [2021-12-16-做了一个西安互联网社区，旨在增进西安互联网人的交流～](https://www.v2ex.com/t/822710) ![](assets/new.png)  
-- [2021-12-16-有人做过各个平台的小程序吗？](https://www.v2ex.com/t/822709) ![](assets/new.png)  
-- [2021-12-16-分享一下技术向的读书笔记](https://www.v2ex.com/t/822708) ![](assets/new.png)  
-- [2021-12-16-mac-touch-bar-闪屏了，怎么办啊，过保了，-16-年款](https://www.v2ex.com/t/822707) ![](assets/new.png)  
-- [2021-12-16-Windows-配-27-的显示器到底多大分辨率合适啊？](https://www.v2ex.com/t/822706) ![](assets/new.png)  
-- [2021-12-16-Swift-Playground-4.0-终于来了!](https://www.v2ex.com/t/822704) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,19 +556,26 @@
 </summary>
 
 
-- [2021-12-17-这30个顶级工具！前端开发很喜欢](https://toutiao.io/k/saz29kn) ![](assets/new.png)  
 - [2021-12-17-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
 - [2021-12-17-大数据时代-使用关系型数据库的价值意义？](https://toutiao.io/k/4syxmlm) ![](assets/new.png)  
 - [2021-12-17-golang面试题：怎么避免内存逃逸？](https://toutiao.io/k/5yvfc9w) ![](assets/new.png)  
-- [2021-12-17-赵晓光最新发声：当你觉得元宇宙还是概念时，全球科技巨头早已积极布局，视频上的技术是未来最核心的创新](https://toutiao.io/k/kkqugoq) ![](assets/new.png)  
 - [2021-12-17-CSS实现微信朋友圈的九宫格图片自适应](https://toutiao.io/k/f1tvjcl) ![](assets/new.png)  
-- [2021-12-17-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
-- [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-17-赵晓光最新发声：当你觉得元宇宙还是概念时，全球科技巨头早已积极布局，视频上的技术是未来最核心的创新](https://toutiao.io/k/kkqugoq) ![](assets/new.png)  
+- [2021-12-17-brpc初学者指南](https://toutiao.io/k/u5i42ft) ![](assets/new.png)  
+- [2021-12-17-教你Unity灯光烘焙1~2](https://toutiao.io/k/uhix449) ![](assets/new.png)  
+- [2021-12-17-从零到一编码实现Redis分布式锁](https://toutiao.io/k/97npbxa) ![](assets/new.png)  
+- [2021-12-17-Hive-SORT-BY-vs-ORDER-BY-vs-DISTRIBUTE-BY-vs-CLUSTER-BY](https://toutiao.io/k/1nnsira) ![](assets/new.png)  
+- [2021-12-17-身份即服务背后的基石](https://toutiao.io/k/x4x2i8t) ![](assets/new.png)  
+- [2021-12-17-让全世界大厂都手忙脚乱的代码漏洞，是怎么一步步成为噩梦的？](https://toutiao.io/k/abkty0i) ![](assets/new.png)  
+- [2021-12-17-Baba-Is-You,来自元宇宙创作者基地的推荐](https://toutiao.io/k/wl3n69b) ![](assets/new.png)  
+- [2021-12-17-360CERT发布全网受Log4j库漏洞影响的厂商自查列表](https://toutiao.io/k/ul90i19) ![](assets/new.png)  
+- [2021-12-17-聊聊我们在业务链路升级中做的数据洞察](https://toutiao.io/k/4wd0vb3) ![](assets/new.png)  
 - [2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) ![](assets/new.png)  
-- [2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
-- [2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) ![](assets/new.png)  
+- [2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-17-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
+- [2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) ![](assets/new.png)  
+- [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

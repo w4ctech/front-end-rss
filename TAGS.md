@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-17 07:21:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-17 07:37:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -104,7 +104,6 @@
 
 
 
-- [【V2EX】node-gyp-rebuild-command-failed-是什么问题](https://www.v2ex.com/t/822772)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -153,6 +152,7 @@
 
 
 
+- [【V2EX】承接各类游戏美术设计定制或换皮](https://www.v2ex.com/t/822824)
 - [【V2EX】想入一个游戏本，大佬们帮忙看看](https://www.v2ex.com/t/822799)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -344,6 +344,7 @@
 
 
 
+- [【V2EX】深圳/远程api7.ai20k-40k-招聘-Apache-APISIX/服务网格/SRE/解决方案架构师-等多个职位-Apache-顶级项目、不加班、不限制年龄和学历](https://www.v2ex.com/t/822823)
 - [【V2EX】技术面-面试官问期望薪资。。什么鬼呀！](https://www.v2ex.com/t/822810)
 - [【开发者头条】golang面试题：怎么避免内存逃逸？](https://toutiao.io/k/5yvfc9w)
 - [......【查看更多】......](./details/tags/job-interview.md)

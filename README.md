@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-17 17:23:23，:rocket: 更新条数: +1593， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-17 17:39:52，:rocket: 更新条数: +1594， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-17-既视感/海马效应-怎么治](https://www.v2ex.com/t/822931) ![](assets/new.png)  
 - [2021-12-17-EDGE-是不是有毒，一打开就连续发-500-多个请求，导致-mbp-风扇响了](https://www.v2ex.com/t/822929) ![](assets/new.png)  
 - [2021-12-17-wx-的视频/语音是如何突破勿扰模式的呢](https://www.v2ex.com/t/822928) ![](assets/new.png)  
 - [2021-12-17-阿里云服务器为啥这么便宜，-3-年才-180-元。。。](https://www.v2ex.com/t/822927) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-17-今天面试了两个银行外包公司，都有给-offer-的意向，之前都在甲方公司，不知道该不该去，兄弟们帮我参谋参谋~](https://www.v2ex.com/t/822911) ![](assets/new.png)  
 - [2021-12-17-jetbrains-&-vscode-?](https://www.v2ex.com/t/822909) ![](assets/new.png)  
 - [2021-12-17-港版-MacBook-Pro-为何附带马来西亚的保修卡？](https://www.v2ex.com/t/822907) ![](assets/new.png)  
-- [2021-12-17-m1-MacBook-Pro-休眠后频繁自动唤醒，这休眠是废了吗](https://www.v2ex.com/t/822906) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

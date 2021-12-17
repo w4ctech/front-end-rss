@@ -7779,6 +7779,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "既视感/海马效应 怎么治",
+        "link": "https://www.v2ex.com/t/822931",
+        "date": "2021-12-17"
+      },
+      {
         "title": "EDGE 是不是有毒，一打开就连续发 500 多个请求，导致 mbp 风扇响了",
         "link": "https://www.v2ex.com/t/822929",
         "date": "2021-12-17"
@@ -8178,8 +8183,8 @@
         "date": "2021-12-17"
       },
       {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
+        "title": "[推荐] 京东秒杀架构升级优化实践",
+        "link": "https://toutiao.io/k/4cxy94p",
         "date": "2021-12-17"
       },
       {
@@ -8188,13 +8193,13 @@
         "date": "2021-12-17"
       },
       {
-        "title": "[推荐] 服务 API 版本控制设计与实践",
-        "link": "https://toutiao.io/k/puc84fn",
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
         "date": "2021-12-17"
       },
       {
-        "title": "[推荐] 京东秒杀架构升级优化实践",
-        "link": "https://toutiao.io/k/4cxy94p",
+        "title": "[推荐] 服务 API 版本控制设计与实践",
+        "link": "https://toutiao.io/k/puc84fn",
         "date": "2021-12-17"
       },
       {

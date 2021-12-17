@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-17 09:25:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-17 09:40:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,7 +181,6 @@
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
 - [【V2EX】如何在-Shell-脚本中解析-json-并取出数据？](https://www.v2ex.com/t/822821)
-- [【V2EX】关于路由器-NAT-配置的一个困惑，请大神帮忙看看，谢谢](https://www.v2ex.com/t/822812)
 - [【技术头条】组件封装之输入框下拉列表-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14833&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492605%26amp%3Bidx%3D2%26amp%3Bsn%3D85c11bed6931095d0117907d1c1959ab%26amp%3Bchksm%3Dfa3f02a6cd488bb0d369ffee088d37a3dba983c111c2bbec0f61154be8b2b0e275317bc012fa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -348,7 +347,6 @@
 
 - [【V2EX】上海-英语口语流利-招聘-Java-工程师-20-30K-早-10-晚-6](https://www.v2ex.com/t/822830)
 - [【V2EX】深圳/远程api7.ai20k-40k-招聘-Apache-APISIX/服务网格/SRE/解决方案架构师-等多个职位-Apache-顶级项目、不加班、不限制年龄和学历](https://www.v2ex.com/t/822823)
-- [【V2EX】技术面-面试官问期望薪资。。什么鬼呀！](https://www.v2ex.com/t/822810)
 - [【开发者头条】golang面试题：怎么避免内存逃逸？](https://toutiao.io/k/5yvfc9w)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-17 09:25:22，:rocket: 更新条数: +1599， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-17 09:40:52，:rocket: 更新条数: +1599， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-17-django3-的-i18n-汉化求救](https://www.v2ex.com/t/822862) ![](assets/new.png)  
+- [2021-12-17-要被辞退了，怎样要赔偿？](https://www.v2ex.com/t/822861) ![](assets/new.png)  
+- [2021-12-17-各位的-Bing-正常了吗](https://www.v2ex.com/t/822860) ![](assets/new.png)  
 - [2021-12-17-问个苹果开发者账号相关的问题](https://www.v2ex.com/t/822859) ![](assets/new.png)  
 - [2021-12-17-22-了，-Mac-上有什么方便看-log-的工具](https://www.v2ex.com/t/822858) ![](assets/new.png)  
 - [2021-12-17-如何看待钟南山发表的“氢气控癌”的视频？](https://www.v2ex.com/t/822857) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-17-删本地歌曲](https://www.v2ex.com/t/822844) ![](assets/new.png)  
 - [2021-12-17-求教一个关于阿里云-RDS-的问题](https://www.v2ex.com/t/822843) ![](assets/new.png)  
 - [2021-12-17-国内-LinkedIn-现在只能登录领英中国了？](https://www.v2ex.com/t/822842) ![](assets/new.png)  
-- [2021-12-17-无法理解为什么有人能如此心安理得地剧透别人？](https://www.v2ex.com/t/822841) ![](assets/new.png)  
-- [2021-12-17-千辛万苦进-v2ex，求一位-flutterd-大佬](https://www.v2ex.com/t/822840) ![](assets/new.png)  
-- [2021-12-17-v2-的-”程序员“也越来越多开始宣传公众号恰钱了](https://www.v2ex.com/t/822839) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

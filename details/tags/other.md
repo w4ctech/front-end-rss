@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-17 15:13:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-17 15:23:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1484,6 +1484,9 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-17-吃货的艺术，简单美食制作](https://www.v2ex.com/t/822921) 
+- [2021-12-17-求一个-ubuntu-系统下速度较快的无线网卡？](https://www.v2ex.com/t/822920) 
+- [2021-12-17-v2ex-怎么评论贴图，请大家，贴图后把代码-写出来啊](https://www.v2ex.com/t/822919) 
 - [2021-12-17-刚更新-win11，发现有些操作的响应明显变快了](https://www.v2ex.com/t/822918) 
 - [2021-12-17-基于-skynet-写的-web-框架实现一个能看的-demo-了](https://www.v2ex.com/t/822917) 
 - [2021-12-17-想问下-Java-有没有类似-phpstudy-得环境搭建工具](https://www.v2ex.com/t/822914) 
@@ -1514,9 +1517,6 @@
 - [2021-12-17-三方快充伤电脑吗](https://www.v2ex.com/t/822874) 
 - [2021-12-17-大家有用统信操作系统的么](https://www.v2ex.com/t/822873) 
 - [2021-12-17-求推荐一个靠谱的低价显示器](https://www.v2ex.com/t/822872) 
-- [2021-12-17-请问有哪些靠谱的创投行业数据库？](https://www.v2ex.com/t/822871) 
-- [2021-12-17-macOS12.2-beta-发布了，安装了描述文件也检测不到更新](https://www.v2ex.com/t/822870) 
-- [2021-12-17-查询电信流量账单，发现有个程序每天跑-20-多个小时，每天偷流量-200-300M](https://www.v2ex.com/t/822869) 
 - [2021-12-17-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-17-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-17-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1551,9 +1551,9 @@
 - [2021-12-17-独立开发变现周刊（第33期）：2021年每周发布1个产品，同年达到月收入2.5万美元？](https://toutiao.io/k/qxti8mw) 
 - [2021-12-17-118-python|第一部分-python核心（二）](https://toutiao.io/k/1ekwnne) 
 - [2021-12-17-【漫画】数据云，真香在哪？](https://toutiao.io/k/vjpal6p) 
+- [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
 - [2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
 - [2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
 - [2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
-- [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-17 15:47:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-17 16:18:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -128,6 +128,8 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-17-买妙控板有没有什么好的渠道和注意事项](https://www.v2ex.com/t/822925) 
+- [【V2EX】2021-12-17-如何在类似知乎这种不分页的网站上，跳转到指定页？](https://www.v2ex.com/t/822924) 
 - [【V2EX】2021-12-17-xmake-v2.6.2-发布，新增-Linux-内核驱动模块构建支持](https://www.v2ex.com/t/822922) 
 - [【V2EX】2021-12-17-吃货的艺术，简单美食制作](https://www.v2ex.com/t/822921) 
 - [【V2EX】2021-12-17-求一个-ubuntu-系统下速度较快的无线网卡？](https://www.v2ex.com/t/822920) 
@@ -164,8 +166,6 @@
 - [【V2EX】2021-12-17-最近在研究-owt，遇到一个花屏问题](https://www.v2ex.com/t/822878) 
 - [【V2EX】2021-12-17-M1-MacBook-修改-system-security-时提示找不到管理员，怎么办？](https://www.v2ex.com/t/822877) 
 - [【V2EX】2021-12-17-CODING-网站托管服务倒闭](https://www.v2ex.com/t/822876) 
-- [【V2EX】2021-12-17-远程全职-20-30k-招-2-位-Python-后端高级开发！](https://www.v2ex.com/t/822875) 
-- [【V2EX】2021-12-17-三方快充伤电脑吗](https://www.v2ex.com/t/822874) 
 - [【技术头条】2021-12-17-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-17-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-17-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -206,13 +206,11 @@
 - [【开发者头条】2021-12-17-118-python|第一部分-python核心（二）](https://toutiao.io/k/1ekwnne) 
 - [【开发者头条】2021-12-17-如何改善应用启动性能-|-Facebook-应用的经验分享](https://toutiao.io/k/6a8p2dc) 
 - [【开发者头条】2021-12-17-【漫画】数据云，真香在哪？](https://toutiao.io/k/vjpal6p) 
-- [【开发者头条】2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
+- [【开发者头条】2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [【开发者头条】2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
-- [【开发者头条】2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [【开发者头条】2021-12-17-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
-- [【开发者头条】2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
-- [【开发者头条】2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
+- [【开发者头条】2021-12-17-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

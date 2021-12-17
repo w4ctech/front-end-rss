@@ -7779,6 +7779,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "买妙控板有没有什么好的渠道和注意事项",
+        "link": "https://www.v2ex.com/t/822925",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "如何在类似知乎这种不分页的网站上，跳转到指定页？",
+        "link": "https://www.v2ex.com/t/822924",
+        "date": "2021-12-17"
+      },
+      {
         "title": "xmake v2.6.2 发布，新增 Linux 内核驱动模块构建支持",
         "link": "https://www.v2ex.com/t/822922",
         "date": "2021-12-17"
@@ -7956,16 +7966,6 @@
       {
         "title": "CODING 网站托管服务倒闭",
         "link": "https://www.v2ex.com/t/822876",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "[远程全职 20-30k] 招 2 位 Python 后端高级开发！",
-        "link": "https://www.v2ex.com/t/822875",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "三方快充伤电脑吗",
-        "link": "https://www.v2ex.com/t/822874",
         "date": "2021-12-17"
       }
     ]
@@ -8183,8 +8183,8 @@
         "date": "2021-12-17"
       },
       {
-        "title": "[推荐] 字节一面：Redis 主节点宕机，如何处理？",
-        "link": "https://toutiao.io/k/0xsbfqz",
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
         "date": "2021-12-17"
       },
       {
@@ -8198,23 +8198,13 @@
         "date": "2021-12-17"
       },
       {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
-        "date": "2021-12-17"
-      },
-      {
         "title": "[推荐] 京东秒杀架构升级优化实践",
         "link": "https://toutiao.io/k/4cxy94p",
         "date": "2021-12-17"
       },
       {
-        "title": "[推荐] Google：12 条 Golang 最佳实践",
-        "link": "https://toutiao.io/k/x06am1r",
-        "date": "2021-12-17"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：HashMap 追魂二十三问",
-        "link": "https://toutiao.io/k/xktwzye",
+        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
+        "link": "https://toutiao.io/k/hrnq79a",
         "date": "2021-12-17"
       }
     ]

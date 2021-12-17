@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-17 21:42:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-17 21:54:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -128,6 +128,7 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-17-吐槽-PHP-：哪天没有写-bug，算我输。数组哪里都是值拷贝；引用：蛋疼。明明是语言问题，硬说是我太菜](https://www.v2ex.com/t/822937) 
 - [【V2EX】2021-12-17-开源-DEX-控制流混淆-·-BlackObfuscator](https://www.v2ex.com/t/822935) 
 - [【V2EX】2021-12-17-tf-卡装-win11-虚拟机轻应用没问题吧](https://www.v2ex.com/t/822934) 
 - [【V2EX】2021-12-17-薅了-oracle-基本在国内没法用](https://www.v2ex.com/t/822933) 
@@ -165,7 +166,6 @@
 - [【V2EX】2021-12-17-关于-iOS-上-Twitter-的语言问题](https://www.v2ex.com/t/822892) 
 - [【V2EX】2021-12-17-关于-MySQL5.7-json-字段-array-查询的疑惑？](https://www.v2ex.com/t/822891) 
 - [【V2EX】2021-12-17-我应该需要一个怎样的扩展坞?](https://www.v2ex.com/t/822889) 
-- [【V2EX】2021-12-17-快手磁力金牛前期投不出去有什么办法吗？](https://www.v2ex.com/t/822887) 
 - [【技术头条】2021-12-17-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-17-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-17-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -206,11 +206,11 @@
 - [【开发者头条】2021-12-17-118-python|第一部分-python核心（二）](https://toutiao.io/k/1ekwnne) 
 - [【开发者头条】2021-12-17-【漫画】数据云，真香在哪？](https://toutiao.io/k/vjpal6p) 
 - [【开发者头条】2021-12-17-如何改善应用启动性能-|-Facebook-应用的经验分享](https://toutiao.io/k/6a8p2dc) 
-- [【开发者头条】2021-12-17-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [【开发者头条】2021-12-17-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
 - [【开发者头条】2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
-- [【开发者头条】2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [【开发者头条】2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [【开发者头条】2021-12-17-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

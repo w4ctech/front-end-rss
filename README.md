@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-17 15:23:49，:rocket: 更新条数: +1597， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-17 15:43:55，:rocket: 更新条数: +1596， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-17-xmake-v2.6.2-发布，新增-Linux-内核驱动模块构建支持](https://www.v2ex.com/t/822922) ![](assets/new.png)  
 - [2021-12-17-吃货的艺术，简单美食制作](https://www.v2ex.com/t/822921) ![](assets/new.png)  
 - [2021-12-17-求一个-ubuntu-系统下速度较快的无线网卡？](https://www.v2ex.com/t/822920) ![](assets/new.png)  
 - [2021-12-17-v2ex-怎么评论贴图，请大家，贴图后把代码-写出来啊](https://www.v2ex.com/t/822919) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-17-一类由于值范围限定为正数进而有空间复杂度-O1的解法的算法题，如果不再限制值范围，还有没有可能空间复杂度-O1？](https://www.v2ex.com/t/822901) ![](assets/new.png)  
 - [2021-12-17-现在这个阶段，威联通的移动端软件比群晖的如何？](https://www.v2ex.com/t/822900) ![](assets/new.png)  
 - [2021-12-17-今天刚洗完牙了，小姐姐说有牙要补，补吗？](https://www.v2ex.com/t/822899) ![](assets/new.png)  
-- [2021-12-17-分享一个处理结构化-error-的库](https://www.v2ex.com/t/822898) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

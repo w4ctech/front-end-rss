@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-17 10:57:05，:rocket: 更新条数: +1597， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-17 11:10:29，:rocket: 更新条数: +1598， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,9 +65,11 @@
 </summary>
 
 
+- [2021-12-17-最新疫情：全国新冠累计确诊100076例-累计接种新冠疫苗超26.5亿剂次](https://m.caixin.com/m/2021-12-17/101819214.html) ![](assets/new.png)  
 - [2021-12-17-聚焦｜张文宏：这将是疫情应对的最后一个寒冬](https://opinion.caixin.com/m/2021-12-17/101818894.html) ![](assets/new.png)  
 - [2021-12-17-民航再受疫情冲击-北上广深机场11月客运量大跌](https://companies.caixin.com/m/2021-12-17/101819190.html) ![](assets/new.png)  
 - [2021-12-17-文旅部：即日起至明年3月15日暂停进出陆地边境口岸城市的跨省团队游及机酒业务](https://china.caixin.com/m/2021-12-17/101819178.html) ![](assets/new.png)  
+- [2021-12-17-最新海外疫情：新冠感染超2.72亿-累计接种新冠疫苗超85.6亿剂次](https://m.caixin.com/m/2021-12-17/101819210.html) ![](assets/new.png)  
 - [2021-12-17-【境内疫情观察】全国新增56例本土病例（12月16日）](https://database.caixin.com/m/2021-12-17/101819059.html) ![](assets/new.png)  
 - [2021-12-17-WHO支持疫苗混打，美8名儿童接种后患心肌炎｜大流行手记（12月16日）](https://m.caixin.com/m/2021-12-17/101818946.html) ![](assets/new.png)  
 - [2021-12-16-【境内疫情观察】浙江绍兴五地调整为高风险地区（12月15日）](https://database.caixin.com/m/2021-12-16/101818588.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2021-12-14-英政府忧奥密克戎实际日增恐达20万例-疫苗预约网站一度宕机](https://international.caixin.com/m/2021-12-14/101817725.html) ![](assets/new.png)  
 - [2021-12-13-浙江杭绍甬八日累计新冠近200例-三地将严控出行至明年3月](https://m.caixin.com/m/2021-12-13/101817234.html) ![](assets/new.png)  
 - [2021-12-13-天津从入境人员中检出奥密克戎变异株](https://china.caixin.com/m/2021-12-13/101817231.html) ![](assets/new.png)  
-- [2021-12-13-【境内疫情观察】浙江新增74例本土病例（12月12日）](https://database.caixin.com/m/2021-12-13/101817065.html) ![](assets/new.png)  
-- [2021-12-13-WHO称大流行扰乱全球卫生服务-英国单日Omicron病例翻番｜大流行手记（-12月12日）](https://m.caixin.com/m/2021-12-13/101816947.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-17-（2021）现在入境新加坡，-TraceTogether-如何激活，需要购买临时-SIM-卡吗？](https://www.v2ex.com/t/822885) ![](assets/new.png)  
+- [2021-12-17-大家-35-后都干什么事业？](https://www.v2ex.com/t/822883) ![](assets/new.png)  
 - [2021-12-17-广州-自学前端练习生-想找人生第一份前端的工作](https://www.v2ex.com/t/822882) ![](assets/new.png)  
 - [2021-12-17-为何编译-zip-扩展的时候,只生成了一个-libzip.a,而不生成-zip.so](https://www.v2ex.com/t/822880) ![](assets/new.png)  
 - [2021-12-17-靠谱的-MacBook-第三方电池购买？](https://www.v2ex.com/t/822879) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-17-礼品卡-Setapp-年度订阅！懂的都懂-/-个人账户-/-官网充值优惠](https://www.v2ex.com/t/822864) ![](assets/new.png)  
 - [2021-12-17-你们是如何说服老婆给买-M1-Max-?](https://www.v2ex.com/t/822863) ![](assets/new.png)  
 - [2021-12-17-django3-的-i18n-汉化求救](https://www.v2ex.com/t/822862) ![](assets/new.png)  
-- [2021-12-17-要被辞退了，怎样要赔偿？](https://www.v2ex.com/t/822861) ![](assets/new.png)  
-- [2021-12-17-各位的-Bing-正常了吗](https://www.v2ex.com/t/822860) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

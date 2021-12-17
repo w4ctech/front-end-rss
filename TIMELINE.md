@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-17 10:57:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-17 11:10:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,9 +50,11 @@
 </summary>
 
 
+- [【武汉肺炎防疫全纪录(财新网)】2021-12-17-最新疫情：全国新冠累计确诊100076例-累计接种新冠疫苗超26.5亿剂次](https://m.caixin.com/m/2021-12-17/101819214.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-17-聚焦｜张文宏：这将是疫情应对的最后一个寒冬](https://opinion.caixin.com/m/2021-12-17/101818894.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-17-民航再受疫情冲击-北上广深机场11月客运量大跌](https://companies.caixin.com/m/2021-12-17/101819190.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-17-文旅部：即日起至明年3月15日暂停进出陆地边境口岸城市的跨省团队游及机酒业务](https://china.caixin.com/m/2021-12-17/101819178.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2021-12-17-最新海外疫情：新冠感染超2.72亿-累计接种新冠疫苗超85.6亿剂次](https://m.caixin.com/m/2021-12-17/101819210.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-17-【境内疫情观察】全国新增56例本土病例（12月16日）](https://database.caixin.com/m/2021-12-17/101819059.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-17-WHO支持疫苗混打，美8名儿童接种后患心肌炎｜大流行手记（12月16日）](https://m.caixin.com/m/2021-12-17/101818946.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-16-【境内疫情观察】浙江绍兴五地调整为高风险地区（12月15日）](https://database.caixin.com/m/2021-12-16/101818588.html) 
@@ -124,6 +126,8 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-17-（2021）现在入境新加坡，-TraceTogether-如何激活，需要购买临时-SIM-卡吗？](https://www.v2ex.com/t/822885) 
+- [【V2EX】2021-12-17-大家-35-后都干什么事业？](https://www.v2ex.com/t/822883) 
 - [【V2EX】2021-12-17-广州-自学前端练习生-想找人生第一份前端的工作](https://www.v2ex.com/t/822882) 
 - [【V2EX】2021-12-17-为何编译-zip-扩展的时候,只生成了一个-libzip.a,而不生成-zip.so](https://www.v2ex.com/t/822880) 
 - [【V2EX】2021-12-17-靠谱的-MacBook-第三方电池购买？](https://www.v2ex.com/t/822879) 
@@ -164,9 +168,6 @@
 - [【V2EX】2021-12-17-v2-的-”程序员“也越来越多开始宣传公众号恰钱了](https://www.v2ex.com/t/822839) 
 - [【V2EX】2021-12-17-为何所有的网盘相册都不支持多级相册目录？](https://www.v2ex.com/t/822838) 
 - [【V2EX】2021-12-17-整理了一小些，初级和初中级词汇量英文读物。欢迎补充，目标每天读-90-分钟。](https://www.v2ex.com/t/822836) 
-- [【V2EX】2021-12-17-请教-http1.1-并发请求的问题](https://www.v2ex.com/t/822835) 
-- [【V2EX】2021-12-17-关于-springboot-和非-springboot-跑在外部-tomcat-的-web-工程的-idea-里的断点问题.](https://www.v2ex.com/t/822834) 
-- [【V2EX】2021-12-17-上海电信改桥接说是会降带宽？还有这种说法吗？](https://www.v2ex.com/t/822833) 
 - [【技术头条】2021-12-17-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-17-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-17-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -208,12 +209,12 @@
 - [【开发者头条】2021-12-17-如何改善应用启动性能-|-Facebook-应用的经验分享](https://toutiao.io/k/6a8p2dc) 
 - [【开发者头条】2021-12-17-【漫画】数据云，真香在哪？](https://toutiao.io/k/vjpal6p) 
 - [【开发者头条】2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [【开发者头条】2021-12-17-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
-- [【开发者头条】2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [【开发者头条】2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
 - [【开发者头条】2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
-- [【开发者头条】2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
 - [【开发者头条】2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
+- [【开发者头条】2021-12-17-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
+- [【开发者头条】2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [【开发者头条】2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [【开发者头条】2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

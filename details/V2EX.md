@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-17 04:16:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-17 04:28:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-17-apple-watch-充电掉电](https://www.v2ex.com/t/822783) 
+- [2021-12-17-Xcode-installing-一个小时了～～](https://www.v2ex.com/t/822782) 
 - [2021-12-17-用自己招商-visa-卡购买-apple-美区礼品卡，没通过？给我发了邮件要求电话确认。](https://www.v2ex.com/t/822781) 
 - [2021-12-17-上海B-站直播用户技术团队招聘服务端大佬高级/资深](https://www.v2ex.com/t/822780) 
 - [2021-12-17-大城市买房如此困难，幸苦半辈子都攒不到首付，该何去何从](https://www.v2ex.com/t/822778) 
@@ -44,5 +46,3 @@
 - [2021-12-17-Java-项目如何实现-jar-包只能在指定-ip-运行](https://www.v2ex.com/t/822737) 
 - [2021-12-17-关于数据和权限控制问题](https://www.v2ex.com/t/822736) 
 - [2021-12-17-今年还能回家吗](https://www.v2ex.com/t/822735) 
-- [2021-12-17-Windows-11-正式屏蔽火狐的默认浏览器变通法](https://www.v2ex.com/t/822734) 
-- [2021-12-17-分享一下我自建-FreshRSS-的过程](https://www.v2ex.com/t/822732) 

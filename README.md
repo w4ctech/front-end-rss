@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-17 14:20:30，:rocket: 更新条数: +1596， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-17 14:38:08，:rocket: 更新条数: +1596， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,7 @@
 
 
 - [2021-12-17-最新疫情：全国新冠累计确诊100076例-累计接种新冠疫苗超26.5亿剂次](https://m.caixin.com/m/2021-12-17/101819214.html) ![](assets/new.png)  
-- [2021-12-17-浙江疫情累计确诊421例-东莞疫情确定为省外关联](https://m.caixin.com/m/2021-12-17/101819344.html) ![](assets/new.png)  
+- [2021-12-17-浙江疫情累计确诊421例-西安-东莞传播链已27例感染](https://m.caixin.com/m/2021-12-17/101819344.html) ![](assets/new.png)  
 - [2021-12-17-聚焦｜张文宏：这将是疫情应对的最后一个寒冬](https://opinion.caixin.com/m/2021-12-17/101818894.html) ![](assets/new.png)  
 - [2021-12-17-民航再受疫情冲击-北上广深机场11月客运量大跌](https://companies.caixin.com/m/2021-12-17/101819190.html) ![](assets/new.png)  
 - [2021-12-17-最新海外疫情：新冠感染超2.72亿-累计接种新冠疫苗超85.6亿剂次](https://m.caixin.com/m/2021-12-17/101819210.html) ![](assets/new.png)  
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-17-如何让-OneDrive-For-Mac-同步任意指定文件夹](https://www.v2ex.com/t/822913) ![](assets/new.png)  
+- [2021-12-17-Bing-国内搜索关闭期间，可以通过代理用其它国家的-Bing-了！](https://www.v2ex.com/t/822912) ![](assets/new.png)  
 - [2021-12-17-今天面试了两个银行外包公司，都有给-offer-的意向，之前都在甲方公司，不知道该不该去，兄弟们帮我参谋参谋~](https://www.v2ex.com/t/822911) ![](assets/new.png)  
 - [2021-12-17-上海不加班外企招-开发、测试，-14-天年假，找我内推平分好几万奖金](https://www.v2ex.com/t/822910) ![](assets/new.png)  
 - [2021-12-17-jetbrains-&-vscode-?](https://www.v2ex.com/t/822909) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-17-关于-iOS-上-Twitter-的语言问题](https://www.v2ex.com/t/822892) ![](assets/new.png)  
 - [2021-12-17-关于-MySQL5.7-json-字段-array-查询的疑惑？](https://www.v2ex.com/t/822891) ![](assets/new.png)  
 - [2021-12-17-我应该需要一个怎样的扩展坞?](https://www.v2ex.com/t/822889) ![](assets/new.png)  
-- [2021-12-17-快手磁力金牛前期投不出去有什么办法吗？](https://www.v2ex.com/t/822887) ![](assets/new.png)  
-- [2021-12-17-（2021）现在入境新加坡，-TraceTogether-如何激活，需要购买临时-SIM-卡吗？](https://www.v2ex.com/t/822885) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

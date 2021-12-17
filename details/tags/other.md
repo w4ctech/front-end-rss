@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-17 14:20:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-17 14:38:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,7 +6,7 @@
 
 
 - [2021-12-17-最新疫情：全国新冠累计确诊100076例-累计接种新冠疫苗超26.5亿剂次](https://m.caixin.com/m/2021-12-17/101819214.html) 
-- [2021-12-17-浙江疫情累计确诊421例-东莞疫情确定为省外关联](https://m.caixin.com/m/2021-12-17/101819344.html) 
+- [2021-12-17-浙江疫情累计确诊421例-西安-东莞传播链已27例感染](https://m.caixin.com/m/2021-12-17/101819344.html) 
 - [2021-12-17-聚焦｜张文宏：这将是疫情应对的最后一个寒冬](https://opinion.caixin.com/m/2021-12-17/101818894.html) 
 - [2021-12-17-民航再受疫情冲击-北上广深机场11月客运量大跌](https://companies.caixin.com/m/2021-12-17/101819190.html) 
 - [2021-12-17-最新海外疫情：新冠感染超2.72亿-累计接种新冠疫苗超85.6亿剂次](https://m.caixin.com/m/2021-12-17/101819210.html) 
@@ -1483,6 +1483,8 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-17-如何让-OneDrive-For-Mac-同步任意指定文件夹](https://www.v2ex.com/t/822913) 
+- [2021-12-17-Bing-国内搜索关闭期间，可以通过代理用其它国家的-Bing-了！](https://www.v2ex.com/t/822912) 
 - [2021-12-17-上海不加班外企招-开发、测试，-14-天年假，找我内推平分好几万奖金](https://www.v2ex.com/t/822910) 
 - [2021-12-17-jetbrains-&-vscode-?](https://www.v2ex.com/t/822909) 
 - [2021-12-17-港版-MacBook-Pro-为何附带马来西亚的保修卡？](https://www.v2ex.com/t/822907) 
@@ -1515,8 +1517,6 @@
 - [2021-12-17-求推荐一款手机-K-歌的麦克风，主要是唱歌和录歌。预算-500-多一点，顺便可以录吉他声。](https://www.v2ex.com/t/822868) 
 - [2021-12-17-萤石物联网卡怎么用在手机上？](https://www.v2ex.com/t/822866) 
 - [2021-12-17-礼品卡-Setapp-年度订阅！懂的都懂-/-个人账户-/-官网充值优惠](https://www.v2ex.com/t/822864) 
-- [2021-12-17-你们是如何说服老婆给买-M1-Max-?](https://www.v2ex.com/t/822863) 
-- [2021-12-17-django3-的-i18n-汉化求救](https://www.v2ex.com/t/822862) 
 - [2021-12-17-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-17-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-17-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1551,9 +1551,9 @@
 - [2021-12-17-独立开发变现周刊（第33期）：2021年每周发布1个产品，同年达到月收入2.5万美元？](https://toutiao.io/k/qxti8mw) 
 - [2021-12-17-118-python|第一部分-python核心（二）](https://toutiao.io/k/1ekwnne) 
 - [2021-12-17-【漫画】数据云，真香在哪？](https://toutiao.io/k/vjpal6p) 
-- [2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
 - [2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
-- [2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
 - [2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 

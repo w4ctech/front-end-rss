@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-17 04:54:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-17 05:12:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1479,6 +1479,9 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-17-有兴趣去东南亚搞外包公司的小伙伴吗](https://www.v2ex.com/t/822789) 
+- [2021-12-17-记一次飞书账户被封禁及解封，和封禁原因的分析（可能是-Log4j2-漏洞）](https://www.v2ex.com/t/822788) 
+- [2021-12-17-有和我一样喜欢看-vscode-的-updates-的吗？](https://www.v2ex.com/t/822785) 
 - [2021-12-17-apple-watch-充电掉电](https://www.v2ex.com/t/822783) 
 - [2021-12-17-Xcode-installing-一个小时了～～](https://www.v2ex.com/t/822782) 
 - [2021-12-17-用自己招商-visa-卡购买-apple-美区礼品卡，没通过？给我发了邮件要求电话确认。](https://www.v2ex.com/t/822781) 
@@ -1507,11 +1510,6 @@
 - [2021-12-17-询问-HDMI-接口的电脑如何连接-Type-C-显示器](https://www.v2ex.com/t/822745) 
 - [2021-12-17-ios-拖拽复制的问题](https://www.v2ex.com/t/822742) 
 - [2021-12-17-请问双显示器的色彩管理怎么弄？](https://www.v2ex.com/t/822741) 
-- [2021-12-17-成都有人休过了今年的育儿假嘛？](https://www.v2ex.com/t/822739) 
-- [2021-12-17-小公司同学们来分享一下你们在用，但大公司可能不会采用的技术吧](https://www.v2ex.com/t/822738) 
-- [2021-12-17-Java-项目如何实现-jar-包只能在指定-ip-运行](https://www.v2ex.com/t/822737) 
-- [2021-12-17-关于数据和权限控制问题](https://www.v2ex.com/t/822736) 
-- [2021-12-17-今年还能回家吗](https://www.v2ex.com/t/822735) 
 - [2021-12-17-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-17-鸿蒙OS、安卓、iOS测试对比，结果出乎意料！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14847&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9RWmROLInm3RJpX1ZHjHmw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-17-张一鸣：给产品技术人才的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14846&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492724%26amp%3Bidx%3D2%26amp%3Bsn%3D3d506086a6e038c1eb1a4b9f404f90c1%26amp%3Bchksm%3Dfa3f052fcd488c395f8202745eff3a5d4db9f15102f06042d8683d94a108dab53b582fe57726%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1544,7 +1542,7 @@
 - [2021-12-17-聊聊我们在业务链路升级中做的数据洞察](https://toutiao.io/k/4wd0vb3) 
 - [2021-12-17-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-17-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
-- [2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
-- [2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [2021-12-17-推荐-Google：12-条-Golang-最佳实践](https://toutiao.io/k/x06am1r) 
+- [2021-12-17-推荐-面渣逆袭：HashMap-追魂二十三问](https://toutiao.io/k/xktwzye) 
 - [2021-12-17-推荐-字节一面：Redis-主节点宕机，如何处理？](https://toutiao.io/k/0xsbfqz) 
+- [2021-12-17-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 

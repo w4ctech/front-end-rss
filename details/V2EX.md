@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-18 03:14:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 03:24:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2021-12-17-Bing-国内搜索关闭期间，可以通过代理用其它国家的-Bing-了！](https://www.v2ex.com/t/822912) 
 - [2021-12-17-今天面试了两个银行外包公司，都有给-offer-的意向，之前都在甲方公司，不知道该不该去，兄弟们帮我参谋参谋~](https://www.v2ex.com/t/822911) 
 - [2021-12-17-jetbrains-&-vscode-?](https://www.v2ex.com/t/822909) 
-- [2021-12-17-港版-MacBook-Pro-为何附带马来西亚的保修卡？](https://www.v2ex.com/t/822907) 

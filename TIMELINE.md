@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-18 19:39:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-18 19:54:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -131,6 +131,7 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-18-让-jquery-使用-tailwind-css-的缩写语法。](https://www.v2ex.com/t/823070) 
 - [【V2EX】2021-12-18-QQ-欢乐麻将官方会修改红中概率](https://www.v2ex.com/t/823069) 
 - [【V2EX】2021-12-18-如何消除保丽龙球的静电？](https://www.v2ex.com/t/823068) 
 - [【V2EX】2021-12-18-BoardOS：不装了，摊牌了，我就是国内版-Miro](https://www.v2ex.com/t/823067) 
@@ -201,10 +202,10 @@
 - [【开发者头条】2021-12-18-119-python|第一部分：python核心（-三）](https://toutiao.io/k/l7ftg3g) 
 - [【开发者头条】2021-12-18-基于客观事实的-RFM-模型（Python-代码）](https://toutiao.io/k/sderuz9) 
 - [【开发者头条】2021-12-18-分析免费游戏作弊软件](https://toutiao.io/k/8gmcy66) 
-- [【开发者头条】2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [【开发者头条】2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [【开发者头条】2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-18 19:39:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 19:54:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-18-让-jquery-使用-tailwind-css-的缩写语法。](https://www.v2ex.com/t/823070) 
 - [2021-12-18-QQ-欢乐麻将官方会修改红中概率](https://www.v2ex.com/t/823069) 
 - [2021-12-18-如何消除保丽龙球的静电？](https://www.v2ex.com/t/823068) 
 - [2021-12-18-BoardOS：不装了，摊牌了，我就是国内版-Miro](https://www.v2ex.com/t/823067) 

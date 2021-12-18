@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-18 03:24:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-18 03:41:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -129,6 +129,10 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-18-今天开始爱上闽南语歌曲，你们有喜欢的歌曲推荐吗](https://www.v2ex.com/t/822962) 
+- [【V2EX】2021-12-18-请教一个数学题，一个圆桶里面可以装多少小球](https://www.v2ex.com/t/822961) 
+- [【V2EX】2021-12-18-有关华硕路由组网没办法正确通过-DHCP-分配-IP-地址的问题求解决](https://www.v2ex.com/t/822960) 
+- [【V2EX】2021-12-18-wget-和-curl-下载的求助](https://www.v2ex.com/t/822958) 
 - [【V2EX】2021-12-18-求助，入手-surface-pro8-的兄弟，你们的键盘调亮度会不准确吗？](https://www.v2ex.com/t/822956) 
 - [【V2EX】2021-12-18-Screen-在-N1-armbian-Debian-9-上面要求文件-777-权限，更改之后又要求-775，一直死循环，求-V-友指点🙏](https://www.v2ex.com/t/822954) 
 - [【V2EX】2021-12-18-Apple-Watch-表盘上的下雨是预报多久的？](https://www.v2ex.com/t/822953) 
@@ -162,10 +166,6 @@
 - [【V2EX】2021-12-17-基于-skynet-写的-web-框架实现一个能看的-demo-了](https://www.v2ex.com/t/822917) 
 - [【V2EX】2021-12-17-圣诞节提前给大家送祝福，分享一个目前为止我认为最棒的看-V2EX-的小程序](https://www.v2ex.com/t/822916) 
 - [【V2EX】2021-12-17-想问下-Java-有没有类似-phpstudy-得环境搭建工具](https://www.v2ex.com/t/822914) 
-- [【V2EX】2021-12-17-如何让-OneDrive-For-Mac-同步任意指定文件夹](https://www.v2ex.com/t/822913) 
-- [【V2EX】2021-12-17-Bing-国内搜索关闭期间，可以通过代理用其它国家的-Bing-了！](https://www.v2ex.com/t/822912) 
-- [【V2EX】2021-12-17-今天面试了两个银行外包公司，都有给-offer-的意向，之前都在甲方公司，不知道该不该去，兄弟们帮我参谋参谋~](https://www.v2ex.com/t/822911) 
-- [【V2EX】2021-12-17-jetbrains-&-vscode-?](https://www.v2ex.com/t/822909) 
 - [【技术头条】2021-12-18-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-18-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-18-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -194,11 +194,11 @@
 - [【开发者头条】2021-12-18-Rpa-vs-bpa-vs-Dpa-过程自动化技术综述](https://toutiao.io/k/9vc0otp) 
 - [【开发者头条】2021-12-18-优质网站同好者周刊（第-44-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/1o7k62m) 
 - [【开发者头条】2021-12-18-牛逼了！微软2022版《Dotnet中文手册》火了，完整版提供下载！](https://toutiao.io/k/uf0rrap) 
-- [【开发者头条】2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 - [【开发者头条】2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [【开发者头条】2021-12-18-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
 - [【开发者头条】2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [【开发者头条】2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

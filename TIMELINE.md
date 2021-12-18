@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-18 05:40:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-18 05:54:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -162,7 +162,6 @@
 - [【V2EX】2021-12-17-tf-卡装-win11-虚拟机轻应用没问题吧](https://www.v2ex.com/t/822934) 
 - [【V2EX】2021-12-17-薅了-oracle-基本在国内没法用](https://www.v2ex.com/t/822933) 
 - [【V2EX】2021-12-17-求副显示器推荐](https://www.v2ex.com/t/822932) 
-- [【V2EX】2021-12-17-既视感/海马效应-怎么治](https://www.v2ex.com/t/822931) 
 - [【技术头条】2021-12-18-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-18-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-18-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -191,12 +190,12 @@
 - [【开发者头条】2021-12-18-基于客观事实的-RFM-模型（Python-代码）](https://toutiao.io/k/sderuz9) 
 - [【开发者头条】2021-12-18-119-python|第一部分：python核心（-三）](https://toutiao.io/k/l7ftg3g) 
 - [【开发者头条】2021-12-18-牛逼了！微软2022版《Dotnet中文手册》火了，完整版提供下载！](https://toutiao.io/k/uf0rrap) 
-- [【开发者头条】2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [【开发者头条】2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [【开发者头条】2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
-- [【开发者头条】2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [【开发者头条】2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [【开发者头条】2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [【开发者头条】2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-18-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
+- [【开发者头条】2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

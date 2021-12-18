@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-18 09:25:19，:rocket: 更新条数: +1578， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-18 09:39:49，:rocket: 更新条数: +1579， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-18-12月17日全国新增新冠125例-六省份本土89例](https://m.caixin.com/m/2021-12-18/101819434.html) ![](assets/new.png)  
+- [2021-12-18-绍兴、西安疫情仍存扩散可能-专家提醒就地过年应避免“一刀切”](https://m.caixin.com/m/2021-12-18/101819547.html) ![](assets/new.png)  
 - [2021-12-18-研究称Omicron更容易再次感染-澳大利亚感染破纪录｜大流行手记（12月17日）](https://m.caixin.com/m/2021-12-18/101819454.html) ![](assets/new.png)  
 - [2021-12-17-英国新增病例连创新高-欧陆为奥密克戎来袭绷紧神经](https://international.caixin.com/m/2021-12-17/101819358.html) ![](assets/new.png)  
 - [2021-12-17-聚焦｜张文宏：这将是疫情应对的最后一个寒冬](https://opinion.caixin.com/m/2021-12-17/101818894.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-15-聚焦｜张文宏：上海战疫体会及对奥密克戎的应对](https://opinion.caixin.com/m/2021-12-15/101818197.html) ![](assets/new.png)  
 - [2021-12-14-广州通报1例奥密克戎阳性病例-居家隔离中被检出](https://m.caixin.com/m/2021-12-14/101817648.html) ![](assets/new.png)  
 - [2021-12-14-【境内疫情观察】天津从入境闭环管控人员检出奥密克戎变异株（12月13日）](https://database.caixin.com/m/2021-12-14/101817528.html) ![](assets/new.png)  
-- [2021-12-14-英国报告首例奥密克戎死亡，加拿大感染上升｜大流行手记（12月13日）](https://m.caixin.com/m/2021-12-14/101817333.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-18-今天开始爱上日语韩语歌曲，你们有喜欢的歌曲推荐吗](https://www.v2ex.com/t/823014) ![](assets/new.png)  
 - [2021-12-18-Flutter-中如何优雅的实现多渠道打包（埋点统计系列）](https://www.v2ex.com/t/823013) ![](assets/new.png)  
 - [2021-12-18-Null](https://www.v2ex.com/t/823012) ![](assets/new.png)  
 - [2021-12-18-我现在感觉-Java-有点底层了](https://www.v2ex.com/t/823011) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-18-在中文表述里面，“A-跟-B-一样”这种说法一般会隐含“B-比-A-具有更早发生或有大的影响力”，那有没有一种表述，仅仅是说明说两者一样，没有所谓的影响力大小或...](https://www.v2ex.com/t/822991) ![](assets/new.png)  
 - [2021-12-18-staticfile-CDN-真是巨坑](https://www.v2ex.com/t/822989) ![](assets/new.png)  
 - [2021-12-18-montery12.1-弹框好卡啊](https://www.v2ex.com/t/822987) ![](assets/new.png)  
-- [2021-12-18-由于路由器高压工作下牺牲了，求推荐一个能在高压环境下长期工作的硬路由或者软路由](https://www.v2ex.com/t/822985) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,10 +566,10 @@
 - [2021-12-18-牛逼了！微软2022版《Dotnet中文手册》火了，完整版提供下载！](https://toutiao.io/k/uf0rrap) ![](assets/new.png)  
 - [2021-12-18-王力宏的瓜很大！我用Python爬取了瓜文评论区，发现更精彩](https://toutiao.io/k/km5c7b4) ![](assets/new.png)  
 - [2021-12-18-分析免费游戏作弊软件](https://toutiao.io/k/8gmcy66) ![](assets/new.png)  
+- [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
-- [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [2021-12-18-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

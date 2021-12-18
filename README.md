@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-18 02:15:54，:rocket: 更新条数: +1583， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-18 02:53:59，:rocket: 更新条数: +1584， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,8 @@
 </summary>
 
 
-- [2021-12-17-最新疫情：全国新冠累计确诊100076例-累计接种新冠疫苗超26.5亿剂次](https://m.caixin.com/m/2021-12-17/101819214.html) ![](assets/new.png)  
+- [2021-12-18-12月17日全国新增新冠125例-六省份本土89例](https://m.caixin.com/m/2021-12-18/101819434.html) ![](assets/new.png)  
+- [2021-12-18-研究称Omicron更容易再次感染-澳大利亚感染破纪录｜大流行手记（12月17日）](https://m.caixin.com/m/2021-12-18/101819454.html) ![](assets/new.png)  
 - [2021-12-17-英国新增病例连创新高-欧陆为奥密克戎来袭绷紧神经](https://international.caixin.com/m/2021-12-17/101819358.html) ![](assets/new.png)  
 - [2021-12-17-浙江疫情累计确诊421例-西安-东莞传播链已27例感染](https://m.caixin.com/m/2021-12-17/101819344.html) ![](assets/new.png)  
 - [2021-12-17-聚焦｜张文宏：这将是疫情应对的最后一个寒冬](https://opinion.caixin.com/m/2021-12-17/101818894.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-14-广州通报1例奥密克戎阳性病例-居家隔离中被检出](https://m.caixin.com/m/2021-12-14/101817648.html) ![](assets/new.png)  
 - [2021-12-14-【境内疫情观察】天津从入境闭环管控人员检出奥密克戎变异株（12月13日）](https://database.caixin.com/m/2021-12-14/101817528.html) ![](assets/new.png)  
 - [2021-12-14-英国报告首例奥密克戎死亡，加拿大感染上升｜大流行手记（12月13日）](https://m.caixin.com/m/2021-12-14/101817333.html) ![](assets/new.png)  
-- [2021-12-14-英政府忧奥密克戎实际日增恐达20万例-疫苗预约网站一度宕机](https://international.caixin.com/m/2021-12-14/101817725.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-18-iPhone-闹钟计时器结束按钮问题](https://www.v2ex.com/t/822952) ![](assets/new.png)  
+- [2021-12-18-请教跨运营商手机端和宽带内网穿透方案](https://www.v2ex.com/t/822950) ![](assets/new.png)  
+- [2021-12-18-码了一个社交平台存档器](https://www.v2ex.com/t/822949) ![](assets/new.png)  
+- [2021-12-18-新-Mac，触摸板顶部中间很容易被按下去，所有都是这样的吗](https://www.v2ex.com/t/822948) ![](assets/new.png)  
+- [2021-12-18-V-友们-N1-刷成-armbian-后发现多个文件权限变成-uid-1023，-能否将文件权限修改回-uid-0?](https://www.v2ex.com/t/822947) ![](assets/new.png)  
 - [2021-12-18-有没有第三方敏感词检测工具、api？最好是免费，或者开源的](https://www.v2ex.com/t/822945) ![](assets/new.png)  
 - [2021-12-18-有-mini-可以用的磁吸充电宝吗](https://www.v2ex.com/t/822944) ![](assets/new.png)  
 - [2021-12-18-关于-debian-在有-11-版本后下载-10-版本-ios-问题](https://www.v2ex.com/t/822942) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-17-EDGE-是不是有毒，一打开就连续发-500-多个请求，导致-mbp-风扇响了](https://www.v2ex.com/t/822929) ![](assets/new.png)  
 - [2021-12-17-wx-的视频/语音是如何突破勿扰模式的呢](https://www.v2ex.com/t/822928) ![](assets/new.png)  
 - [2021-12-17-阿里云服务器为啥这么便宜，-3-年才-180-元。。。](https://www.v2ex.com/t/822927) ![](assets/new.png)  
-- [2021-12-17-北京/上海/深圳/杭州/成都/西安/香港-AI-人工智能独角兽“商汤”---算法岗位内推社招/实习](https://www.v2ex.com/t/822926) ![](assets/new.png)  
-- [2021-12-17-买妙控板有没有什么好的渠道和注意事项](https://www.v2ex.com/t/822925) ![](assets/new.png)  
-- [2021-12-17-如何在类似知乎这种不分页的网站上，跳转到指定页？](https://www.v2ex.com/t/822924) ![](assets/new.png)  
-- [2021-12-17-xmake-v2.6.2-发布，新增-Linux-内核驱动模块构建支持](https://www.v2ex.com/t/822922) ![](assets/new.png)  
-- [2021-12-17-吃货的艺术，简单美食制作](https://www.v2ex.com/t/822921) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,9 +566,9 @@
 - [2021-12-18-牛逼了！微软2022版《Dotnet中文手册》火了，完整版提供下载！](https://toutiao.io/k/uf0rrap) ![](assets/new.png)  
 - [2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [2021-12-18-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
 - [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

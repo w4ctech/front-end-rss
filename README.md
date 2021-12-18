@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-18 10:24:25，:rocket: 更新条数: +1578， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-18 10:42:24，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,6 +67,7 @@
 
 - [2021-12-18-最新疫情：全国新冠累计确诊100201例-累计接种新冠疫苗超26.61亿剂次](https://m.caixin.com/m/2021-12-18/101819563.html) ![](assets/new.png)  
 - [2021-12-18-绍兴、西安疫情仍存扩散可能-专家提醒就地过年应避免“一刀切”](https://m.caixin.com/m/2021-12-18/101819547.html) ![](assets/new.png)  
+- [2021-12-18-最新海外疫情：新冠感染超2.73亿-累计接种新冠疫苗超86.05亿剂次](https://m.caixin.com/m/2021-12-18/101819560.html) ![](assets/new.png)  
 - [2021-12-18-【境内疫情观察】全国新增89例本土病例（12月17日）](https://database.caixin.com/m/2021-12-18/101819570.html) ![](assets/new.png)  
 - [2021-12-18-研究称Omicron更容易再次感染-澳大利亚感染破纪录｜大流行手记（12月17日）](https://m.caixin.com/m/2021-12-18/101819454.html) ![](assets/new.png)  
 - [2021-12-17-英国新增病例连创新高-欧陆为奥密克戎来袭绷紧神经](https://international.caixin.com/m/2021-12-17/101819358.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-15-辉瑞新冠口服药显著降低住院和死亡风险-非洲病例激增｜大流行手记（12月14日）](https://m.caixin.com/m/2021-12-15/101817778.html) ![](assets/new.png)  
 - [2021-12-15-聚焦｜张文宏：上海战疫体会及对奥密克戎的应对](https://opinion.caixin.com/m/2021-12-15/101818197.html) ![](assets/new.png)  
 - [2021-12-14-广州通报1例奥密克戎阳性病例-居家隔离中被检出](https://m.caixin.com/m/2021-12-14/101817648.html) ![](assets/new.png)  
-- [2021-12-14-【境内疫情观察】天津从入境闭环管控人员检出奥密克戎变异株（12月13日）](https://database.caixin.com/m/2021-12-14/101817528.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-18-iCloud-日历服务器响应错误，日历未能刷新，不允许访问“账户“iCloud””，服务器对操作响应“403”](https://www.v2ex.com/t/823026) ![](assets/new.png)  
+- [2021-12-18-disney-+-,-国区-pp-如何购买，-及-IP-域名白名单](https://www.v2ex.com/t/823025) ![](assets/new.png)  
+- [2021-12-18-成功移植了-Cocos-Creator-到-Deepin/UOS](https://www.v2ex.com/t/823024) ![](assets/new.png)  
 - [2021-12-18-联系-PHP-兼职base-西安，临床医学研究领域寻-PHP-开发兼职](https://www.v2ex.com/t/823023) ![](assets/new.png)  
 - [2021-12-18-iOS-消息延迟是微信故意为之吗？为什么-telegram-不会延迟？](https://www.v2ex.com/t/823021) ![](assets/new.png)  
 - [2021-12-18-喜欢贪小便宜、抠门的毛病应该怎么改？](https://www.v2ex.com/t/823019) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-18-远程-求职-Python-后端，桌面端，-Vue](https://www.v2ex.com/t/823003) ![](assets/new.png)  
 - [2021-12-18-Skim-更新-1.6.7，优化了上一版的暗黑模式，-macOS-下终于有了满意的-PDF-阅读器！](https://www.v2ex.com/t/823002) ![](assets/new.png)  
 - [2021-12-18-apple-三合一充电器求推荐](https://www.v2ex.com/t/822998) ![](assets/new.png)  
-- [2021-12-18-根据定位设备上传-gps-信息计算路程](https://www.v2ex.com/t/822997) ![](assets/new.png)  
-- [2021-12-18-M1-Pro-Parallels-安装-Windows11-很卡](https://www.v2ex.com/t/822996) ![](assets/new.png)  
-- [2021-12-18-MDN-开了个关于新-logo-的投票，感兴趣的可以去看看](https://www.v2ex.com/t/822995) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,12 +566,12 @@
 - [2021-12-18-牛逼了！微软2022版《Dotnet中文手册》火了，完整版提供下载！](https://toutiao.io/k/uf0rrap) ![](assets/new.png)  
 - [2021-12-18-王力宏的瓜很大！我用Python爬取了瓜文评论区，发现更精彩](https://toutiao.io/k/km5c7b4) ![](assets/new.png)  
 - [2021-12-18-分析免费游戏作弊软件](https://toutiao.io/k/8gmcy66) ![](assets/new.png)  
-- [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
-- [2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [2021-12-18-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
+- [2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

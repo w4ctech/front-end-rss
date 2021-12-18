@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-18 04:15:33，:rocket: 更新条数: +1582， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-18 04:30:20，:rocket: 更新条数: +1582， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-18-当你遇到少见的-BUG-时，可以尝试恢复所有设置](https://www.v2ex.com/t/822974) ![](assets/new.png)  
 - [2021-12-18-如何提高英语口语至全英技术面试水平](https://www.v2ex.com/t/822971) ![](assets/new.png)  
 - [2021-12-18-为啥感觉-iOS15.2-全键盘打字老容易按错呢](https://www.v2ex.com/t/822970) ![](assets/new.png)  
 - [2021-12-18-旧-mbp-怎么处理](https://www.v2ex.com/t/822969) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-18-码了一个社交平台存档器](https://www.v2ex.com/t/822949) ![](assets/new.png)  
 - [2021-12-18-新-Mac，触摸板顶部中间很容易被按下去，所有都是这样的吗](https://www.v2ex.com/t/822948) ![](assets/new.png)  
 - [2021-12-18-V-友们-N1-刷成-armbian-后发现多个文件权限变成-uid-1023，-能否将文件权限修改回-uid-0?](https://www.v2ex.com/t/822947) ![](assets/new.png)  
-- [2021-12-18-有没有第三方敏感词检测工具、api？最好是免费，或者开源的](https://www.v2ex.com/t/822945) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,11 +564,11 @@
 - [2021-12-18-基于客观事实的-RFM-模型（Python-代码）](https://toutiao.io/k/sderuz9) ![](assets/new.png)  
 - [2021-12-18-119-python|第一部分：python核心（-三）](https://toutiao.io/k/l7ftg3g) ![](assets/new.png)  
 - [2021-12-18-牛逼了！微软2022版《Dotnet中文手册》火了，完整版提供下载！](https://toutiao.io/k/uf0rrap) ![](assets/new.png)  
-- [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
-- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [2021-12-18-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
+- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

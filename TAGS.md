@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-18 06:51:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 07:12:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -178,8 +178,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
 - [【V2EX】由于路由器高压工作下牺牲了，求推荐一个能在高压环境下长期工作的硬路由或者软路由](https://www.v2ex.com/t/822985)
 - [【V2EX】有关华硕路由组网没办法正确通过-DHCP-分配-IP-地址的问题求解决](https://www.v2ex.com/t/822960)
-- [【V2EX】宿舍路由器检测对策](https://www.v2ex.com/t/822938)
-- [【V2EX】吐槽-PHP-：哪天没有写-bug，算我输。数组哪里都是值拷贝；引用：蛋疼。明明是语言问题，硬说是我太菜](https://www.v2ex.com/t/822937)
 - [【技术头条】组件封装之输入框下拉列表-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14833&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492605%26amp%3Bidx%3D2%26amp%3Bsn%3D85c11bed6931095d0117907d1c1959ab%26amp%3Bchksm%3Dfa3f02a6cd488bb0d369ffee088d37a3dba983c111c2bbec0f61154be8b2b0e275317bc012fa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -235,7 +233,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】尝试了下用树莓派推流到-b-站直播](https://www.v2ex.com/t/822941)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -252,6 +249,7 @@
 
 
 
+- [【V2EX】数据批量插入的性能测试问题](https://www.v2ex.com/t/822992)
 - [【开发者头条】推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p)
 - [......【查看更多】......](./details/tags/optimization.md)
 

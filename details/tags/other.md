@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-18 06:51:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 07:12:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1485,6 +1485,9 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-18-在中文表述里面，“A-跟-B-一样”这种说法一般会隐含“B-比-A-具有更早发生或有大的影响力”，那有没有一种表述，仅仅是说明说两者一样，没有所谓的影响力大小或...](https://www.v2ex.com/t/822991) 
+- [2021-12-18-staticfile-CDN-真是巨坑](https://www.v2ex.com/t/822989) 
+- [2021-12-18-montery12.1-弹框好卡啊](https://www.v2ex.com/t/822987) 
 - [2021-12-18-批量下载-live.photoplus.cn-高清照片](https://www.v2ex.com/t/822982) 
 - [2021-12-18-tmp.link-在没告知用户需要转移文件的情况下就清空了用户上传的所有文件？](https://www.v2ex.com/t/822978) 
 - [2021-12-18-你们有没有发现-Google-地图/Google-Maps-中国大陆的地图数据（矢量地图，非卫星图）更新了！](https://www.v2ex.com/t/822975) 
@@ -1503,10 +1506,7 @@
 - [2021-12-18-码了一个社交平台存档器](https://www.v2ex.com/t/822949) 
 - [2021-12-18-新-Mac，触摸板顶部中间很容易被按下去，所有都是这样的吗](https://www.v2ex.com/t/822948) 
 - [2021-12-18-V-友们-N1-刷成-armbian-后发现多个文件权限变成-uid-1023，-能否将文件权限修改回-uid-0?](https://www.v2ex.com/t/822947) 
-- [2021-12-18-有没有第三方敏感词检测工具、api？最好是免费，或者开源的](https://www.v2ex.com/t/822945) 
 - [2021-12-18-有-mini-可以用的磁吸充电宝吗](https://www.v2ex.com/t/822944) 
-- [2021-12-18-关于-debian-在有-11-版本后下载-10-版本-ios-问题](https://www.v2ex.com/t/822942) 
-- [2021-12-18-关于美区微信与国区微信差异的新发现](https://www.v2ex.com/t/822939) 
 - [2021-12-18-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-18-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-18-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1534,8 +1534,8 @@
 - [2021-12-18-119-python|第一部分：python核心（-三）](https://toutiao.io/k/l7ftg3g) 
 - [2021-12-18-牛逼了！微软2022版《Dotnet中文手册》火了，完整版提供下载！](https://toutiao.io/k/uf0rrap) 
 - [2021-12-18-王力宏的瓜很大！我用Python爬取了瓜文评论区，发现更精彩](https://toutiao.io/k/km5c7b4) 
+- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
-- [2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 

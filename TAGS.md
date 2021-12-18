@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-18 09:55:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 10:13:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -340,7 +340,6 @@
 
 
 
-- [【V2EX】如何提高英语口语至全英技术面试水平](https://www.v2ex.com/t/822971)
 - [【开发者头条】CURD系统怎么做出技术含量惊艳面试官完善版](https://toutiao.io/k/2jsbhve)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

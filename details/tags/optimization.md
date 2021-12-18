@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-17 23:55:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 00:41:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,5 +7,4 @@
 
 
 
-- [2021-12-17-如何改善应用启动性能-|-Facebook-应用的经验分享](https://toutiao.io/k/6a8p2dc) 
-- [2021-12-17-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 
+- [2021-12-18-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) 

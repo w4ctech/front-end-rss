@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-18 03:45:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 03:57:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1485,6 +1485,7 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-18-新装-win10-ltsc-巨大占用，文件大小很小，求解](https://www.v2ex.com/t/822964) 
 - [2021-12-18-今天开始爱上闽南语歌曲，你们有喜欢的歌曲推荐吗](https://www.v2ex.com/t/822962) 
 - [2021-12-18-请教一个数学题，一个圆桶里面可以装多少小球](https://www.v2ex.com/t/822961) 
 - [2021-12-18-求助，入手-surface-pro8-的兄弟，你们的键盘调亮度会不准确吗？](https://www.v2ex.com/t/822956) 
@@ -1511,7 +1512,6 @@
 - [2021-12-17-求一个-ubuntu-系统下速度较快的无线网卡？](https://www.v2ex.com/t/822920) 
 - [2021-12-17-刚更新-win11，发现有些操作的响应明显变快了](https://www.v2ex.com/t/822918) 
 - [2021-12-17-基于-skynet-写的-web-框架实现一个能看的-demo-了](https://www.v2ex.com/t/822917) 
-- [2021-12-17-想问下-Java-有没有类似-phpstudy-得环境搭建工具](https://www.v2ex.com/t/822914) 
 - [2021-12-18-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-18-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-18-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1534,8 +1534,8 @@
 - [2021-12-18-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
 - [2021-12-18-分布式锁用Redis好？还是Zookeeper好？](https://toutiao.io/k/dliy2zu) 
 - [2021-12-18-基于客观事实的-RFM-模型（Python-代码）](https://toutiao.io/k/sderuz9) 
-- [2021-12-18-119-python|第一部分：python核心（-三）](https://toutiao.io/k/l7ftg3g) 
 - [2021-12-18-Rpa-vs-bpa-vs-Dpa-过程自动化技术综述](https://toutiao.io/k/9vc0otp) 
+- [2021-12-18-119-python|第一部分：python核心（-三）](https://toutiao.io/k/l7ftg3g) 
 - [2021-12-18-优质网站同好者周刊（第-44-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/1o7k62m) 
 - [2021-12-18-牛逼了！微软2022版《Dotnet中文手册》火了，完整版提供下载！](https://toutiao.io/k/uf0rrap) 
 - [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 

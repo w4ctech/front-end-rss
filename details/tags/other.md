@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-18 23:42:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 23:54:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1487,6 +1487,7 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-18-昨天刚到的-16-寸-M1-Pro，-ssd-循环次数已经-116-次，写入量已经-142-G，读取量-206-G，需要退吗](https://www.v2ex.com/t/823072) 
 - [2021-12-18-QQ-欢乐麻将官方会修改红中概率](https://www.v2ex.com/t/823069) 
 - [2021-12-18-如何消除保丽龙球的静电？](https://www.v2ex.com/t/823068) 
 - [2021-12-18-BoardOS：不装了，摊牌了，我就是国内版-Miro](https://www.v2ex.com/t/823067) 
@@ -1548,5 +1549,5 @@
 - [2021-12-18-基于客观事实的-RFM-模型（Python-代码）](https://toutiao.io/k/sderuz9) 
 - [2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 

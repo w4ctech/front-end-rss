@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-18 22:43:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-18 22:55:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -131,6 +131,7 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-18-Safari-触摸板用力点按失灵](https://www.v2ex.com/t/823071) 
 - [【V2EX】2021-12-18-让-jquery-使用-tailwind-css-的缩写语法。](https://www.v2ex.com/t/823070) 
 - [【V2EX】2021-12-18-QQ-欢乐麻将官方会修改红中概率](https://www.v2ex.com/t/823069) 
 - [【V2EX】2021-12-18-如何消除保丽龙球的静电？](https://www.v2ex.com/t/823068) 
@@ -171,7 +172,6 @@
 - [【V2EX】2021-12-18-disney-+-,-国区-pp-如何购买，-及-IP-域名白名单](https://www.v2ex.com/t/823025) 
 - [【V2EX】2021-12-18-成功移植了-Cocos-Creator-到-Deepin/UOS](https://www.v2ex.com/t/823024) 
 - [【V2EX】2021-12-18-联系-PHP-兼职base-西安，临床医学研究领域寻-PHP-开发兼职](https://www.v2ex.com/t/823023) 
-- [【V2EX】2021-12-18-iOS-消息延迟是微信故意为之吗？为什么-telegram-不会延迟？](https://www.v2ex.com/t/823021) 
 - [【技术头条】2021-12-18-vscode-loader-解析之（node-环境）-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14853&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F126-vscode-loader-node%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-18-vscode-loader-解析之（node-环境）-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14852&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F126-vscode-loader-node%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-18-优质网站同好者周刊（第-44-期）--倾城之链-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14851&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F130-44%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -203,9 +203,9 @@
 - [【开发者头条】2021-12-18-基于客观事实的-RFM-模型（Python-代码）](https://toutiao.io/k/sderuz9) 
 - [【开发者头条】2021-12-18-分析免费游戏作弊软件](https://toutiao.io/k/8gmcy66) 
 - [【开发者头条】2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [【开发者头条】2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [【开发者头条】2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [【开发者头条】2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

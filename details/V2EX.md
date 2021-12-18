@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-18 22:43:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 22:55:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-18-Safari-触摸板用力点按失灵](https://www.v2ex.com/t/823071) 
 - [2021-12-18-让-jquery-使用-tailwind-css-的缩写语法。](https://www.v2ex.com/t/823070) 
 - [2021-12-18-QQ-欢乐麻将官方会修改红中概率](https://www.v2ex.com/t/823069) 
 - [2021-12-18-如何消除保丽龙球的静电？](https://www.v2ex.com/t/823068) 
@@ -45,4 +46,3 @@
 - [2021-12-18-disney-+-,-国区-pp-如何购买，-及-IP-域名白名单](https://www.v2ex.com/t/823025) 
 - [2021-12-18-成功移植了-Cocos-Creator-到-Deepin/UOS](https://www.v2ex.com/t/823024) 
 - [2021-12-18-联系-PHP-兼职base-西安，临床医学研究领域寻-PHP-开发兼职](https://www.v2ex.com/t/823023) 
-- [2021-12-18-iOS-消息延迟是微信故意为之吗？为什么-telegram-不会延迟？](https://www.v2ex.com/t/823021) 

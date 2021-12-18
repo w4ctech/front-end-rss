@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-18 13:54:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 14:11:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -252,7 +252,6 @@
 
 
 - [【V2EX】Skim-更新-1.6.7，优化了上一版的暗黑模式，-macOS-下终于有了满意的-PDF-阅读器！](https://www.v2ex.com/t/823002)
-- [【V2EX】数据批量插入的性能测试问题](https://www.v2ex.com/t/822992)
 - [【开发者头条】推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p)
 - [......【查看更多】......](./details/tags/optimization.md)
 

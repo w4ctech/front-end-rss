@@ -7794,6 +7794,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "log4j 2.16 仍有致命 bug",
+        "link": "https://www.v2ex.com/t/823060",
+        "date": "2021-12-18"
+      },
+      {
+        "title": "请教一个抓包问题",
+        "link": "https://www.v2ex.com/t/823059",
+        "date": "2021-12-18"
+      },
+      {
         "title": "给 go-wrk 安上了 JavaScript 脚本支持",
         "link": "https://www.v2ex.com/t/823058",
         "date": "2021-12-18"

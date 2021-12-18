@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-18 16:16:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 16:37:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1487,6 +1487,8 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-18-log4j-2.16-仍有致命-bug](https://www.v2ex.com/t/823060) 
+- [2021-12-18-请教一个抓包问题](https://www.v2ex.com/t/823059) 
 - [2021-12-18-自建邮局-测试一直提示"Try-it"-URI,-suspicious-hostname](https://www.v2ex.com/t/823057) 
 - [2021-12-18-吐槽：-iOS-蜂窝数据的“用量”功能是玄学吗？](https://www.v2ex.com/t/823056) 
 - [2021-12-18-现在买-MacBook-Air-合适吗？明年会发布第二代吗](https://www.v2ex.com/t/823055) 

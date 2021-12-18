@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-18 15:22:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 15:42:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,7 +55,6 @@
 
 
 
-- [【V2EX】远程-求职-Python-后端，桌面端，-Vue](https://www.v2ex.com/t/823003)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -181,7 +180,6 @@
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
 - [【V2EX】想重温老头滚动条-5-了，有推荐的整合版吗？](https://www.v2ex.com/t/823037)
-- [【V2EX】请问有人了解上海的-farfetch发发奇吗?-加班、技术氛围等想了解下~](https://www.v2ex.com/t/823004)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -251,7 +249,6 @@
 
 
 
-- [【V2EX】Skim-更新-1.6.7，优化了上一版的暗黑模式，-macOS-下终于有了满意的-PDF-阅读器！](https://www.v2ex.com/t/823002)
 - [【开发者头条】推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p)
 - [......【查看更多】......](./details/tags/optimization.md)
 

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-12-18 02:54:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 03:14:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-18-求助，入手-surface-pro8-的兄弟，你们的键盘调亮度会不准确吗？](https://www.v2ex.com/t/822956) 
+- [2021-12-18-Screen-在-N1-armbian-Debian-9-上面要求文件-777-权限，更改之后又要求-775，一直死循环，求-V-友指点🙏](https://www.v2ex.com/t/822954) 
+- [2021-12-18-Apple-Watch-表盘上的下雨是预报多久的？](https://www.v2ex.com/t/822953) 
 - [2021-12-18-iPhone-闹钟计时器结束按钮问题](https://www.v2ex.com/t/822952) 
 - [2021-12-18-请教跨运营商手机端和宽带内网穿透方案](https://www.v2ex.com/t/822950) 
 - [2021-12-18-码了一个社交平台存档器](https://www.v2ex.com/t/822949) 
@@ -40,7 +43,3 @@
 - [2021-12-17-今天面试了两个银行外包公司，都有给-offer-的意向，之前都在甲方公司，不知道该不该去，兄弟们帮我参谋参谋~](https://www.v2ex.com/t/822911) 
 - [2021-12-17-jetbrains-&-vscode-?](https://www.v2ex.com/t/822909) 
 - [2021-12-17-港版-MacBook-Pro-为何附带马来西亚的保修卡？](https://www.v2ex.com/t/822907) 
-- [2021-12-17-m1-MacBook-Pro-休眠后频繁自动唤醒，这休眠是废了吗](https://www.v2ex.com/t/822906) 
-- [2021-12-17-求个录像的-app](https://www.v2ex.com/t/822905) 
-- [2021-12-17-作为一名-Java-开发，目前还有哪些新-rep-值得贡献](https://www.v2ex.com/t/822904) 
-- [2021-12-17-求推荐一个-ES6-写的、包含这些特点的轻量级开源项目](https://www.v2ex.com/t/822903) 

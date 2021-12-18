@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-18 11:18:32，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-18 11:36:04，:rocket: 更新条数: +1582， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-18-下周平安夜和圣诞节](https://www.v2ex.com/t/823030) ![](assets/new.png)  
+- [2021-12-18-magsafe-外接电池好像也没有那么拉胯](https://www.v2ex.com/t/823029) ![](assets/new.png)  
+- [2021-12-18-使用-Openwrt-融合-IPTV-进家庭局域网，电视断流的问题如何解？](https://www.v2ex.com/t/823028) ![](assets/new.png)  
 - [2021-12-18-iCloud-日历服务器响应错误，日历未能刷新，不允许访问“账户“iCloud””，服务器对操作响应“403”](https://www.v2ex.com/t/823026) ![](assets/new.png)  
 - [2021-12-18-disney-+-,-国区-pp-如何购买，-及-IP-域名白名单](https://www.v2ex.com/t/823025) ![](assets/new.png)  
 - [2021-12-18-成功移植了-Cocos-Creator-到-Deepin/UOS](https://www.v2ex.com/t/823024) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-18-《小林家的龙女仆-S》审查后的版本已经在-Bilibili-发布](https://www.v2ex.com/t/823006) ![](assets/new.png)  
 - [2021-12-18-请问有没有类似-g+s-的方式的特殊权限可以自动修改文件的-owner](https://www.v2ex.com/t/823005) ![](assets/new.png)  
 - [2021-12-18-请问有人了解上海的-farfetch发发奇吗?-加班、技术氛围等想了解下~](https://www.v2ex.com/t/823004) ![](assets/new.png)  
-- [2021-12-18-远程-求职-Python-后端，桌面端，-Vue](https://www.v2ex.com/t/823003) ![](assets/new.png)  
-- [2021-12-18-Skim-更新-1.6.7，优化了上一版的暗黑模式，-macOS-下终于有了满意的-PDF-阅读器！](https://www.v2ex.com/t/823002) ![](assets/new.png)  
-- [2021-12-18-apple-三合一充电器求推荐](https://www.v2ex.com/t/822998) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,11 +566,11 @@
 - [2021-12-18-牛逼了！微软2022版《Dotnet中文手册》火了，完整版提供下载！](https://toutiao.io/k/uf0rrap) ![](assets/new.png)  
 - [2021-12-18-王力宏的瓜很大！我用Python爬取了瓜文评论区，发现更精彩](https://toutiao.io/k/km5c7b4) ![](assets/new.png)  
 - [2021-12-18-分析免费游戏作弊软件](https://toutiao.io/k/8gmcy66) ![](assets/new.png)  
-- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-18-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
 - [2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
 - [2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-18-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
 - [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-18 12:33:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 12:57:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-18-微软的验证器支持备份苹果密码的验证器吗](https://www.v2ex.com/t/823034) 
 - [2021-12-18-下周平安夜和圣诞节](https://www.v2ex.com/t/823030) 
 - [2021-12-18-magsafe-外接电池好像也没有那么拉胯](https://www.v2ex.com/t/823029) 
 - [2021-12-18-使用-Openwrt-融合-IPTV-进家庭局域网，电视断流的问题如何解？](https://www.v2ex.com/t/823028) 

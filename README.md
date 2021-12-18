@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-18 08:25:43，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-18 08:43:53，:rocket: 更新条数: +1576， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-18-请问有人了解上海的-farfetch发发奇吗?-加班、技术氛围等想了解下~](https://www.v2ex.com/t/823004) ![](assets/new.png)  
+- [2021-12-18-远程-求职-Python-后端，桌面端，-Vue](https://www.v2ex.com/t/823003) ![](assets/new.png)  
+- [2021-12-18-Skim-更新-1.6.7，优化了上一版的暗黑模式，-macOS-下终于有了满意的-PDF-阅读器！](https://www.v2ex.com/t/823002) ![](assets/new.png)  
 - [2021-12-18-iCloud-2t-国服拼团](https://www.v2ex.com/t/822999) ![](assets/new.png)  
 - [2021-12-18-apple-三合一充电器求推荐](https://www.v2ex.com/t/822998) ![](assets/new.png)  
 - [2021-12-18-根据定位设备上传-gps-信息计算路程](https://www.v2ex.com/t/822997) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-18-如何提高英语口语至全英技术面试水平](https://www.v2ex.com/t/822971) ![](assets/new.png)  
 - [2021-12-18-为啥感觉-iOS15.2-全键盘打字老容易按错呢](https://www.v2ex.com/t/822970) ![](assets/new.png)  
 - [2021-12-18-旧-mbp-怎么处理](https://www.v2ex.com/t/822969) ![](assets/new.png)  
-- [2021-12-18-今天遇到个神奇的登录逻辑判断](https://www.v2ex.com/t/822967) ![](assets/new.png)  
-- [2021-12-18-怀旧向：-3D-Pinball-for-Windows-–-Space-Cadet-三维弹球-太空军校生-cross-platform](https://www.v2ex.com/t/822965) ![](assets/new.png)  
-- [2021-12-18-新装-win10-ltsc-巨大占用，文件大小很小，求解](https://www.v2ex.com/t/822964) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,19 +559,19 @@
 - [2021-12-18-CURD系统怎么做出技术含量惊艳面试官完善版](https://toutiao.io/k/2jsbhve) ![](assets/new.png)  
 - [2021-12-18-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
 - [2021-12-18-分布式锁用Redis好？还是Zookeeper好？](https://toutiao.io/k/dliy2zu) ![](assets/new.png)  
-- [2021-12-18-Rpa-vs-bpa-vs-Dpa-过程自动化技术综述](https://toutiao.io/k/9vc0otp) ![](assets/new.png)  
 - [2021-12-18-优质网站同好者周刊（第-44-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/1o7k62m) ![](assets/new.png)  
+- [2021-12-18-Rpa-vs-bpa-vs-Dpa-过程自动化技术综述](https://toutiao.io/k/9vc0otp) ![](assets/new.png)  
 - [2021-12-18-基于客观事实的-RFM-模型（Python-代码）](https://toutiao.io/k/sderuz9) ![](assets/new.png)  
 - [2021-12-18-119-python|第一部分：python核心（-三）](https://toutiao.io/k/l7ftg3g) ![](assets/new.png)  
 - [2021-12-18-牛逼了！微软2022版《Dotnet中文手册》火了，完整版提供下载！](https://toutiao.io/k/uf0rrap) ![](assets/new.png)  
 - [2021-12-18-王力宏的瓜很大！我用Python爬取了瓜文评论区，发现更精彩](https://toutiao.io/k/km5c7b4) ![](assets/new.png)  
 - [2021-12-18-分析免费游戏作弊软件](https://toutiao.io/k/8gmcy66) ![](assets/new.png)  
-- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-18-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
-- [2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) ![](assets/new.png)  
+- [2021-12-18-推荐-京东秒杀架构升级优化实践](https://toutiao.io/k/4cxy94p) ![](assets/new.png)  
 - [2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

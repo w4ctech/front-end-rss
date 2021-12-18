@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-18 08:25:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 08:43:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -14,5 +14,6 @@
 - [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) 
 - [2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) 
 - [2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) 
+- [2021-12-18-请问有人了解上海的-farfetch发发奇吗?-加班、技术氛围等想了解下~](https://www.v2ex.com/t/823004) 
 - [2021-12-18-由于路由器高压工作下牺牲了，求推荐一个能在高压环境下长期工作的硬路由或者软路由](https://www.v2ex.com/t/822985) 
 - [2021-12-18-有关华硕路由组网没办法正确通过-DHCP-分配-IP-地址的问题求解决](https://www.v2ex.com/t/822960) 

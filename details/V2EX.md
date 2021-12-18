@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-12-18 08:25:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 08:43:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-18-请问有人了解上海的-farfetch发发奇吗?-加班、技术氛围等想了解下~](https://www.v2ex.com/t/823004) 
+- [2021-12-18-远程-求职-Python-后端，桌面端，-Vue](https://www.v2ex.com/t/823003) 
+- [2021-12-18-Skim-更新-1.6.7，优化了上一版的暗黑模式，-macOS-下终于有了满意的-PDF-阅读器！](https://www.v2ex.com/t/823002) 
 - [2021-12-18-iCloud-2t-国服拼团](https://www.v2ex.com/t/822999) 
 - [2021-12-18-apple-三合一充电器求推荐](https://www.v2ex.com/t/822998) 
 - [2021-12-18-根据定位设备上传-gps-信息计算路程](https://www.v2ex.com/t/822997) 
@@ -30,6 +33,3 @@
 - [2021-12-18-有关华硕路由组网没办法正确通过-DHCP-分配-IP-地址的问题求解决](https://www.v2ex.com/t/822960) 
 - [2021-12-18-wget-和-curl-下载的求助](https://www.v2ex.com/t/822958) 
 - [2021-12-18-求助，入手-surface-pro8-的兄弟，你们的键盘调亮度会不准确吗？](https://www.v2ex.com/t/822956) 
-- [2021-12-18-Screen-在-N1-armbian-Debian-9-上面要求文件-777-权限，更改之后又要求-775，一直死循环，求-V-友指点🙏](https://www.v2ex.com/t/822954) 
-- [2021-12-18-Apple-Watch-表盘上的下雨是预报多久的？](https://www.v2ex.com/t/822953) 
-- [2021-12-18-iPhone-闹钟计时器结束按钮问题](https://www.v2ex.com/t/822952) 

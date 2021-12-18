@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-18 07:21:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 07:37:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1506,7 +1506,6 @@
 - [2021-12-18-码了一个社交平台存档器](https://www.v2ex.com/t/822949) 
 - [2021-12-18-新-Mac，触摸板顶部中间很容易被按下去，所有都是这样的吗](https://www.v2ex.com/t/822948) 
 - [2021-12-18-V-友们-N1-刷成-armbian-后发现多个文件权限变成-uid-1023，-能否将文件权限修改回-uid-0?](https://www.v2ex.com/t/822947) 
-- [2021-12-18-有-mini-可以用的磁吸充电宝吗](https://www.v2ex.com/t/822944) 
 - [2021-12-18-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-18-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-18-推荐学Java——数据表高级操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1534,8 +1533,8 @@
 - [2021-12-18-119-python|第一部分：python核心（-三）](https://toutiao.io/k/l7ftg3g) 
 - [2021-12-18-牛逼了！微软2022版《Dotnet中文手册》火了，完整版提供下载！](https://toutiao.io/k/uf0rrap) 
 - [2021-12-18-王力宏的瓜很大！我用Python爬取了瓜文评论区，发现更精彩](https://toutiao.io/k/km5c7b4) 
-- [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
-- [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 

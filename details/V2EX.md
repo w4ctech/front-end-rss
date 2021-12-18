@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-18 15:46:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 15:59:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-18-现在买-MacBook-Air-合适吗？明年会发布第二代吗](https://www.v2ex.com/t/823055) 
 - [2021-12-18-PHP5-太强了](https://www.v2ex.com/t/823054) 
 - [2021-12-18-要换新-MPB-了，配的是多少寸显示器？](https://www.v2ex.com/t/823053) 
 - [2021-12-18-将-macbook-作为-windows-PC-主机的显示器来实现双系统的方案？](https://www.v2ex.com/t/823050) 
@@ -40,4 +41,3 @@
 - [2021-12-18-我现在感觉-Java-有点底层了](https://www.v2ex.com/t/823011) 
 - [2021-12-18-Dropbox-App-在-MacOS-上突然间连不上了](https://www.v2ex.com/t/823007) 
 - [2021-12-18-《小林家的龙女仆-S》审查后的版本已经在-Bilibili-发布](https://www.v2ex.com/t/823006) 
-- [2021-12-18-请问有没有类似-g+s-的方式的特殊权限可以自动修改文件的-owner](https://www.v2ex.com/t/823005) 

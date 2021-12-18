@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-18 08:59:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 09:12:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1485,6 +1485,8 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-18-我现在感觉-Java-有点底层了](https://www.v2ex.com/t/823011) 
+- [2021-12-18-王力宏，花田错](https://www.v2ex.com/t/823008) 
 - [2021-12-18-Dropbox-App-在-MacOS-上突然间连不上了](https://www.v2ex.com/t/823007) 
 - [2021-12-18-《小林家的龙女仆-S》审查后的版本已经在-Bilibili-发布](https://www.v2ex.com/t/823006) 
 - [2021-12-18-请问有没有类似-g+s-的方式的特殊权限可以自动修改文件的-owner](https://www.v2ex.com/t/823005) 
@@ -1505,7 +1507,6 @@
 - [2021-12-18-今天遇到个神奇的登录逻辑判断](https://www.v2ex.com/t/822967) 
 - [2021-12-18-新装-win10-ltsc-巨大占用，文件大小很小，求解](https://www.v2ex.com/t/822964) 
 - [2021-12-18-今天开始爱上闽南语歌曲，你们有喜欢的歌曲推荐吗](https://www.v2ex.com/t/822962) 
-- [2021-12-18-请教一个数学题，一个圆桶里面可以装多少小球](https://www.v2ex.com/t/822961) 
 - [2021-12-18-优质网站同好者周刊（第-44-期）--倾城之链-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14851&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F130-44%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-18-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-18-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1532,8 +1533,8 @@
 - [2021-12-18-119-python|第一部分：python核心（-三）](https://toutiao.io/k/l7ftg3g) 
 - [2021-12-18-牛逼了！微软2022版《Dotnet中文手册》火了，完整版提供下载！](https://toutiao.io/k/uf0rrap) 
 - [2021-12-18-王力宏的瓜很大！我用Python爬取了瓜文评论区，发现更精彩](https://toutiao.io/k/km5c7b4) 
-- [2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-18-推荐-服务-API-版本控制设计与实践](https://toutiao.io/k/puc84fn) 
+- [2021-12-18-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-18-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-18-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [2021-12-18-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 

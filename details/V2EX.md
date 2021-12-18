@@ -1,11 +1,13 @@
-:alarm_clock: 更新时间: 2021-12-18 14:11:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 14:20:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2021-12-18-TCP-中，怎么理解从-LISTEN-转换到-SYN_SENT？](https://www.v2ex.com/t/823043) 
+- [2021-12-18-数码爱好者们/程序员们-你们都开什么车呢？](https://www.v2ex.com/t/823046) 
+- [2021-12-18-在豆瓣上撞见一个帖子，讲巴黎的内卷，你们觉得国内也会这样么](https://www.v2ex.com/t/823044) 
+- [2021-12-18-TCP-握手中，怎么理解从-LISTEN-转换到-SYN_SENT？](https://www.v2ex.com/t/823043) 
 - [2021-12-18-12-月刚入职，会有奖金发吗？](https://www.v2ex.com/t/823042) 
 - [2021-12-18-现在安卓定制，一般去哪学习？](https://www.v2ex.com/t/823041) 
 - [2021-12-18-HTTP-请求测试分析工具-你们是用那款呢？快来讨论下吧？](https://www.v2ex.com/t/823040) 
@@ -38,5 +40,3 @@
 - [2021-12-18-Skim-更新-1.6.7，优化了上一版的暗黑模式，-macOS-下终于有了满意的-PDF-阅读器！](https://www.v2ex.com/t/823002) 
 - [2021-12-18-apple-三合一充电器求推荐](https://www.v2ex.com/t/822998) 
 - [2021-12-18-根据定位设备上传-gps-信息计算路程](https://www.v2ex.com/t/822997) 
-- [2021-12-18-M1-Pro-Parallels-安装-Windows11-很卡](https://www.v2ex.com/t/822996) 
-- [2021-12-18-MDN-开了个关于新-logo-的投票，感兴趣的可以去看看](https://www.v2ex.com/t/822995) 

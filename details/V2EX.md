@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-18 18:25:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-18 18:44:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-18-QQ-欢乐麻将官方会修改红中概率](https://www.v2ex.com/t/823069) 
+- [2021-12-18-如何消除保丽龙球的静电？](https://www.v2ex.com/t/823068) 
 - [2021-12-18-BoardOS：不装了，摊牌了，我就是国内版-Miro](https://www.v2ex.com/t/823067) 
 - [2021-12-18-同时具有-10G、2.5G-网卡，且支持-OpenVPN-服务端的路由器有哪些](https://www.v2ex.com/t/823066) 
 - [2021-12-18-Rails-7-发布](https://www.v2ex.com/t/823065) 
@@ -43,5 +45,3 @@
 - [2021-12-18-成功移植了-Cocos-Creator-到-Deepin/UOS](https://www.v2ex.com/t/823024) 
 - [2021-12-18-联系-PHP-兼职base-西安，临床医学研究领域寻-PHP-开发兼职](https://www.v2ex.com/t/823023) 
 - [2021-12-18-iOS-消息延迟是微信故意为之吗？为什么-telegram-不会延迟？](https://www.v2ex.com/t/823021) 
-- [2021-12-18-喜欢贪小便宜、抠门的毛病应该怎么改？](https://www.v2ex.com/t/823019) 
-- [2021-12-18-前端求职简历修改&有前端-leader-岗招人吗](https://www.v2ex.com/t/823018) 

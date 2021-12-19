@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-19 03:13:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-19 03:25:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1487,6 +1487,8 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-19-昨天刚报装了移动的宽带，送的光猫写着是-F663NV9,但又没天线](https://www.v2ex.com/t/823093) 
+- [2021-12-19-太子湾公园赏秋拍照佳地](https://www.v2ex.com/t/823091) 
 - [2021-12-19-Kickstarter-又一款明星紧凑超薄机械键盘-Vissles-LP85-开始预售了](https://www.v2ex.com/t/823090) 
 - [2021-12-19-两年大专前端，准备去上海或者北京](https://www.v2ex.com/t/823088) 
 - [2021-12-19-surface-不能开机了，过保了](https://www.v2ex.com/t/823087) 
@@ -1521,9 +1523,6 @@
 - [2021-12-18-Apple-M1-初体验](https://www.v2ex.com/t/823047) 
 - [2021-12-18-数码爱好者们/程序员们-你们都开什么车呢？](https://www.v2ex.com/t/823046) 
 - [2021-12-18-在豆瓣上撞见一个帖子，讲巴黎的内卷，你们觉得国内也会这样么](https://www.v2ex.com/t/823044) 
-- [2021-12-18-TCP-握手中，怎么理解从-LISTEN-转换到-SYN_SENT？](https://www.v2ex.com/t/823043) 
-- [2021-12-18-12-月刚入职，会有奖金发吗？](https://www.v2ex.com/t/823042) 
-- [2021-12-18-现在安卓定制，一般去哪学习？](https://www.v2ex.com/t/823041) 
 - [2021-12-19-优质网站同好者周刊（第-44-期）--倾城之链-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14851&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F130-44%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-19-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-19-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1545,7 +1544,7 @@
 - [2021-12-19-tmux-不支持-rz-/-sz-，于是有一个兼容-tmux-的-trz-/-tsz-trzsz-，可以与-iTerm2-一起用，还有一个不错的进度条。](https://toutiao.io/k/2znbuck) 
 - [2021-12-19-120-python|第一部分：python核心（-四）容器](https://toutiao.io/k/3rgo66u) 
 - [2021-12-19-有赞实时计算-Flink-1.13-升级实践](https://toutiao.io/k/2nhtn7a) 
+- [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-19 08:59:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-19 09:12:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-19-使用-caps-lock-切换输入法偶尔失灵](https://www.v2ex.com/t/823147) 
 - [2021-12-19-初用-obsidian，有没有好的办法可以每天定时发送明天日程的？欢迎大家头脑风暴](https://www.v2ex.com/t/823144) 
 - [2021-12-19-出去玩，用-iPad-Pro-取代了-MacBook-Pro](https://www.v2ex.com/t/823142) 
 - [2021-12-19-有没有推荐的数电课程](https://www.v2ex.com/t/823138) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-19 18:13:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-19 18:25:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,4 +39,3 @@
 - [2021-12-19-win7,win10-能否像-iOS,安卓那样只允许从官方商店下载软件](https://www.v2ex.com/t/823161) 
 - [2021-12-19-你好-2022](https://www.v2ex.com/t/823160) 
 - [2021-12-19-如何设计后端根据条件动态返回-url](https://www.v2ex.com/t/823159) 
-- [2021-12-19-求-dukto-的平替](https://www.v2ex.com/t/823158) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-19 08:47:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-19 08:59:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,8 +181,6 @@
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
 - [【V2EX】DNSPod-的-DoH-和路由器冲突](https://www.v2ex.com/t/823117)
-- [【V2EX】对于这类纯-json-参数的跨域-api，纯前端手段是否有可能拿到呢？](https://www.v2ex.com/t/823095)
-- [【V2EX】golang-有好的根据-struct-生成-jsonschema-的库吗？](https://www.v2ex.com/t/823094)
 - [【开发者头条】js根据经纬度换算行驶里程](https://toutiao.io/k/pzyn5j8)
 - [......【查看更多】......](./details/tags/javascript.md)
 

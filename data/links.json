@@ -7794,6 +7794,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "上海有 965 不用刷 leetcode 的厂么",
+        "link": "https://www.v2ex.com/t/823083",
+        "date": "2021-12-19"
+      },
+      {
         "title": "年终总结的黄金框架",
         "link": "https://www.v2ex.com/t/823082",
         "date": "2021-12-19"
@@ -8168,8 +8173,13 @@
         "date": "2021-12-19"
       },
       {
-        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
-        "link": "https://toutiao.io/k/hrnq79a",
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
+        "date": "2021-12-19"
+      },
+      {
+        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
+        "link": "https://toutiao.io/k/o3dptn4",
         "date": "2021-12-19"
       },
       {
@@ -8178,13 +8188,8 @@
         "date": "2021-12-19"
       },
       {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
-        "date": "2021-12-19"
-      },
-      {
-        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
-        "link": "https://toutiao.io/k/o3dptn4",
+        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
+        "link": "https://toutiao.io/k/hrnq79a",
         "date": "2021-12-19"
       }
     ]

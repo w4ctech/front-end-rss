@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-19 02:05:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-19 02:18:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1487,6 +1487,7 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-19-上海有-965-不用刷-leetcode-的厂么](https://www.v2ex.com/t/823083) 
 - [2021-12-19-年终总结的黄金框架](https://www.v2ex.com/t/823082) 
 - [2021-12-19-谷歌-DoT-又可以直连了](https://www.v2ex.com/t/823081) 
 - [2021-12-19-各位大佬服务器被攻击咋解决啊](https://www.v2ex.com/t/823080) 
@@ -1545,7 +1546,7 @@
 - [2021-12-19-tmux-不支持-rz-/-sz-，于是有一个兼容-tmux-的-trz-/-tsz-trzsz-，可以与-iTerm2-一起用，还有一个不错的进度条。](https://toutiao.io/k/2znbuck) 
 - [2021-12-19-苹果的反跟踪新功能大受欢迎，你更新了吗？](https://toutiao.io/k/cqp05fx) 
 - [2021-12-19-有赞实时计算-Flink-1.13-升级实践](https://toutiao.io/k/2nhtn7a) 
-- [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 

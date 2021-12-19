@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-19 04:29:11，:rocket: 更新条数: +1591， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-19 04:51:14，:rocket: 更新条数: +1587， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,12 +494,16 @@
 </summary>
 
 
-- [2021-12-19-自用奈飞车寻车友](https://www.v2ex.com/t/823103) ![](assets/new.png)  
+- [2021-12-19-如何取消-Github-Copilot-的提示？](https://www.v2ex.com/t/823111) ![](assets/new.png)  
+- [2021-12-19-iOS-15.2-部分-App-的通知为什么不显示图标？](https://www.v2ex.com/t/823110) ![](assets/new.png)  
+- [2021-12-19-docker-如何避免宿主机访问容器内部文件](https://www.v2ex.com/t/823109) ![](assets/new.png)  
+- [2021-12-19-dns-解析出问题了-跟-openwrt-桥接配置有关吗](https://www.v2ex.com/t/823108) ![](assets/new.png)  
+- [2021-12-19-联想笔记本-lenovo-vantage-的-imcontroller-内存泄漏严重，有什么可替代的方案么](https://www.v2ex.com/t/823105) ![](assets/new.png)  
+- [2021-12-19-安卓统一推送实施前微信不可能被打败](https://www.v2ex.com/t/823104) ![](assets/new.png)  
 - [2021-12-19-求解？-Windows-下载文件夹偶尔卡死，未响应](https://www.v2ex.com/t/823102) ![](assets/new.png)  
 - [2021-12-19-请问有云端沙盘服务吗？](https://www.v2ex.com/t/823101) ![](assets/new.png)  
 - [2021-12-19-移动设备访问-V2EX-无法使用密码管理器自动填充用户名密码，桌面版网站正常](https://www.v2ex.com/t/823100) ![](assets/new.png)  
 - [2021-12-19-钉钉-PC-版存在一个请假状态没有自动更新的-BUG](https://www.v2ex.com/t/823099) ![](assets/new.png)  
-- [2021-12-19-Apple-one-美区中杯开车🚗](https://www.v2ex.com/t/823098) ![](assets/new.png)  
 - [2021-12-19-对于这类纯-json-参数的跨域-api，纯前端手段是否有可能拿到呢？](https://www.v2ex.com/t/823095) ![](assets/new.png)  
 - [2021-12-19-golang-有好的根据-struct-生成-jsonschema-的库吗？](https://www.v2ex.com/t/823094) ![](assets/new.png)  
 - [2021-12-19-昨天刚报装了移动的宽带，送的光猫写着是-F663NV9,但又没天线](https://www.v2ex.com/t/823093) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-19-两年大专前端，准备去上海或者北京](https://www.v2ex.com/t/823088) ![](assets/new.png)  
 - [2021-12-19-surface-不能开机了，过保了](https://www.v2ex.com/t/823087) ![](assets/new.png)  
 - [2021-12-19-如何提高自己的自制力](https://www.v2ex.com/t/823086) ![](assets/new.png)  
-- [2021-12-19-关于-youtube-dl-的两个问题](https://www.v2ex.com/t/823085) ![](assets/new.png)  
-- [2021-12-19-上海有-965-不用刷-leetcode-的厂么](https://www.v2ex.com/t/823083) ![](assets/new.png)  
-- [2021-12-19-年终总结的黄金框架](https://www.v2ex.com/t/823082) ![](assets/new.png)  
-- [2021-12-19-谷歌-DoT-又可以直连了](https://www.v2ex.com/t/823081) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,14 +558,14 @@
 
 - [2021-12-19-惊艳面试官-Java中关于随机数生成8种方式的思考](https://toutiao.io/k/1f0hs2u) ![](assets/new.png)  
 - [2021-12-19-云原生应用的构建之路](https://toutiao.io/k/goqpvwc) ![](assets/new.png)  
-- [2021-12-19-一文读懂异常检测-LOF-算法（Python代码）](https://toutiao.io/k/2r49el1) ![](assets/new.png)  
 - [2021-12-19-tmux-不支持-rz-/-sz-，于是有一个兼容-tmux-的-trz-/-tsz-trzsz-，可以与-iTerm2-一起用，还有一个不错的进度条。](https://toutiao.io/k/2znbuck) ![](assets/new.png)  
+- [2021-12-19-一文读懂异常检测-LOF-算法（Python代码）](https://toutiao.io/k/2r49el1) ![](assets/new.png)  
 - [2021-12-19-120-python|第一部分：python核心（-四）容器](https://toutiao.io/k/3rgo66u) ![](assets/new.png)  
 - [2021-12-19-有赞实时计算-Flink-1.13-升级实践](https://toutiao.io/k/2nhtn7a) ![](assets/new.png)  
-- [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

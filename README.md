@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-19 09:56:00，:rocket: 更新条数: +1581， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-19 10:12:54，:rocket: 更新条数: +1580， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,12 +65,12 @@
 </summary>
 
 
-- [2021-12-19-12月18日全国新增新冠83例-三省份本土44例](https://m.caixin.com/m/2021-12-19/101819660.html) ![](assets/new.png)  
+- [2021-12-19-最新疫情：全国新冠累计确诊100284例-累计接种新冠疫苗超26.73亿剂次](https://m.caixin.com/m/2021-12-19/101819716.html) ![](assets/new.png)  
 - [2021-12-19-北京通州某画室一学生核酸检测阳性](https://m.caixin.com/m/2021-12-19/101819699.html) ![](assets/new.png)  
+- [2021-12-19-最新海外疫情：新冠感染超2.73亿-累计接种新冠疫苗超86.37亿剂次](https://m.caixin.com/m/2021-12-19/101819721.html) ![](assets/new.png)  
 - [2021-12-19-【境内疫情观察】全国新增44例本土病例（12月18日）](https://database.caixin.com/m/2021-12-19/101819705.html) ![](assets/new.png)  
 - [2021-12-19-伦敦进入“重大事件”状态-全球多地节庆活动受冲击｜大流行手记（12月18日）](https://m.caixin.com/m/2021-12-19/101819673.html) ![](assets/new.png)  
 - [2021-12-18-绍兴、西安疫情仍存扩散可能-专家提醒就地过年应避免“一刀切”](https://m.caixin.com/m/2021-12-18/101819547.html) ![](assets/new.png)  
-- [2021-12-18-最新海外疫情：新冠感染超2.73亿-累计接种新冠疫苗超86.05亿剂次](https://m.caixin.com/m/2021-12-18/101819560.html) ![](assets/new.png)  
 - [2021-12-18-【境内疫情观察】全国新增89例本土病例（12月17日）](https://database.caixin.com/m/2021-12-18/101819570.html) ![](assets/new.png)  
 - [2021-12-18-研究称Omicron更容易再次感染-澳大利亚感染破纪录｜大流行手记（12月17日）](https://m.caixin.com/m/2021-12-18/101819454.html) ![](assets/new.png)  
 - [2021-12-17-聚焦｜张文宏：这将是疫情应对的最后一个寒冬](https://opinion.caixin.com/m/2021-12-17/101818894.html) ![](assets/new.png)  
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-19-c/c++在-apple-silicon-上还没支持原生-debugging?](https://www.v2ex.com/t/823155) ![](assets/new.png)  
 - [2021-12-19-腾讯双十一捡漏没好货是吗？还是说我运气差？](https://www.v2ex.com/t/823152) ![](assets/new.png)  
 - [2021-12-19-编程猫真是锈掉了](https://www.v2ex.com/t/823151) ![](assets/new.png)  
 - [2021-12-19-如何下载微信内置浏览器里的视频？](https://www.v2ex.com/t/823150) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-19-快-2022-年了，请问各位大佬，用-VS-Code-写嵌入式-C-的最佳姿势是什么？](https://www.v2ex.com/t/823126) ![](assets/new.png)  
 - [2021-12-19-nasyun-现在是不是打不开了？](https://www.v2ex.com/t/823124) ![](assets/new.png)  
 - [2021-12-19-华语音乐的最后希望在宝岛，宝岛音乐的希望在年轻的乐团，分享一下我心中那些值得一听的新时代台湾乐团](https://www.v2ex.com/t/823123) ![](assets/new.png)  
-- [2021-12-19-蜘蛛侠观感非常一般](https://www.v2ex.com/t/823121) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,10 +566,10 @@
 - [2021-12-19-谁在调试我的代码？](https://toutiao.io/k/4xntjuh) ![](assets/new.png)  
 - [2021-12-19-全面了解#中国加密艺术圈、元宇宙和就业](https://toutiao.io/k/ucv12wq) ![](assets/new.png)  
 - [2021-12-19-js根据经纬度换算行驶里程](https://toutiao.io/k/pzyn5j8) ![](assets/new.png)  
-- [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-19 02:18:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-19 02:55:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -6,3 +6,5 @@
 > 关键字：`Git`、`SVN`
 
 
+
+- [2021-12-19-企业-Gitlab-CI/CD-+-K8S-的实践](https://www.v2ex.com/t/823089) 

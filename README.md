@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-19 02:18:08，:rocket: 更新条数: +1591， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-19 02:55:18，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-19-企业-Gitlab-CI/CD-+-K8S-的实践](https://www.v2ex.com/t/823089) ![](assets/new.png)  
+- [2021-12-19-两年大专前端，准备去上海或者北京](https://www.v2ex.com/t/823088) ![](assets/new.png)  
+- [2021-12-19-surface-不能开机了，过保了](https://www.v2ex.com/t/823087) ![](assets/new.png)  
+- [2021-12-19-如何提高自己的自制力](https://www.v2ex.com/t/823086) ![](assets/new.png)  
+- [2021-12-19-关于-youtube-dl-的两个问题](https://www.v2ex.com/t/823085) ![](assets/new.png)  
 - [2021-12-19-上海有-965-不用刷-leetcode-的厂么](https://www.v2ex.com/t/823083) ![](assets/new.png)  
 - [2021-12-19-年终总结的黄金框架](https://www.v2ex.com/t/823082) ![](assets/new.png)  
 - [2021-12-19-谷歌-DoT-又可以直连了](https://www.v2ex.com/t/823081) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-18-让-jquery-使用-tailwind-css-的缩写语法。](https://www.v2ex.com/t/823070) ![](assets/new.png)  
 - [2021-12-18-QQ-欢乐麻将官方会修改红中概率](https://www.v2ex.com/t/823069) ![](assets/new.png)  
 - [2021-12-18-如何消除保丽龙球的静电？](https://www.v2ex.com/t/823068) ![](assets/new.png)  
-- [2021-12-18-BoardOS：不装了，摊牌了，我就是国内版-Miro](https://www.v2ex.com/t/823067) ![](assets/new.png)  
-- [2021-12-18-同时具有-10G、2.5G-网卡，且支持-OpenVPN-服务端的路由器有哪些](https://www.v2ex.com/t/823066) ![](assets/new.png)  
-- [2021-12-18-Rails-7-发布](https://www.v2ex.com/t/823065) ![](assets/new.png)  
-- [2021-12-18-云服务器的-CPU-性能水分很大啊](https://www.v2ex.com/t/823064) ![](assets/new.png)  
-- [2021-12-18-求各位大佬推荐一颗性价比高的支持-ax-的-AP](https://www.v2ex.com/t/823063) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,18 +556,16 @@
 </summary>
 
 
-- [2021-12-19-分布式锁用Redis好？还是Zookeeper好？](https://toutiao.io/k/dliy2zu) ![](assets/new.png)  
 - [2021-12-19-惊艳面试官-Java中关于随机数生成8种方式的思考](https://toutiao.io/k/1f0hs2u) ![](assets/new.png)  
 - [2021-12-19-云原生应用的构建之路](https://toutiao.io/k/goqpvwc) ![](assets/new.png)  
 - [2021-12-19-一文读懂异常检测-LOF-算法（Python代码）](https://toutiao.io/k/2r49el1) ![](assets/new.png)  
-- [2021-12-19-120-python|第一部分：python核心（-四）容器](https://toutiao.io/k/3rgo66u) ![](assets/new.png)  
 - [2021-12-19-tmux-不支持-rz-/-sz-，于是有一个兼容-tmux-的-trz-/-tsz-trzsz-，可以与-iTerm2-一起用，还有一个不错的进度条。](https://toutiao.io/k/2znbuck) ![](assets/new.png)  
-- [2021-12-19-苹果的反跟踪新功能大受欢迎，你更新了吗？](https://toutiao.io/k/cqp05fx) ![](assets/new.png)  
+- [2021-12-19-120-python|第一部分：python核心（-四）容器](https://toutiao.io/k/3rgo66u) ![](assets/new.png)  
 - [2021-12-19-有赞实时计算-Flink-1.13-升级实践](https://toutiao.io/k/2nhtn7a) ![](assets/new.png)  
-- [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
-- [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

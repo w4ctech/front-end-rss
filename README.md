@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-19 07:21:10，:rocket: 更新条数: +82， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-19 07:37:25，:rocket: 更新条数: +1582， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2021-12-19-12月18日全国新增新冠83例-三省份本土44例](https://m.caixin.com/m/2021-12-19/101819660.html) ![](assets/new.png)  
+- [2021-12-19-伦敦进入“重大事件”状态-全球多地节庆活动受冲击｜大流行手记（12月18日）](https://m.caixin.com/m/2021-12-19/101819673.html) ![](assets/new.png)  
+- [2021-12-18-绍兴、西安疫情仍存扩散可能-专家提醒就地过年应避免“一刀切”](https://m.caixin.com/m/2021-12-18/101819547.html) ![](assets/new.png)  
+- [2021-12-18-最新海外疫情：新冠感染超2.73亿-累计接种新冠疫苗超86.05亿剂次](https://m.caixin.com/m/2021-12-18/101819560.html) ![](assets/new.png)  
+- [2021-12-18-【境内疫情观察】全国新增89例本土病例（12月17日）](https://database.caixin.com/m/2021-12-18/101819570.html) ![](assets/new.png)  
+- [2021-12-18-研究称Omicron更容易再次感染-澳大利亚感染破纪录｜大流行手记（12月17日）](https://m.caixin.com/m/2021-12-18/101819454.html) ![](assets/new.png)  
+- [2021-12-17-英国新增病例连创新高-欧陆为奥密克戎来袭绷紧神经](https://international.caixin.com/m/2021-12-17/101819358.html) ![](assets/new.png)  
+- [2021-12-17-聚焦｜张文宏：这将是疫情应对的最后一个寒冬](https://opinion.caixin.com/m/2021-12-17/101818894.html) ![](assets/new.png)  
+- [2021-12-17-浙江疫情累计确诊421例-西安-东莞传播链已27例感染](https://m.caixin.com/m/2021-12-17/101819344.html) ![](assets/new.png)  
+- [2021-12-17-民航再受疫情冲击-北上广深机场11月客运量大跌](https://companies.caixin.com/m/2021-12-17/101819190.html) ![](assets/new.png)  
+- [2021-12-17-【境内疫情观察】全国新增56例本土病例（12月16日）](https://database.caixin.com/m/2021-12-17/101819059.html) ![](assets/new.png)  
+- [2021-12-17-WHO支持疫苗混打，美8名儿童接种后患心肌炎｜大流行手记（12月16日）](https://m.caixin.com/m/2021-12-17/101818946.html) ![](assets/new.png)  
+- [2021-12-17-文旅部：即日起至明年3月15日暂停进出陆地边境口岸城市的跨省团队游及机酒业务](https://china.caixin.com/m/2021-12-17/101819178.html) ![](assets/new.png)  
+- [2021-12-16-【境内疫情观察】浙江绍兴五地调整为高风险地区（12月15日）](https://database.caixin.com/m/2021-12-16/101818588.html) ![](assets/new.png)  
+- [2021-12-16-76个国家报告Omicron病例-韩国日感染人数叠创新高｜大流行手记（12月15日）](https://m.caixin.com/m/2021-12-16/101818454.html) ![](assets/new.png)  
+- [2021-12-16-港大研究：奥密克戎较德尔塔传播速度更快-致病程度或更弱](https://m.caixin.com/m/2021-12-16/101818567.html) ![](assets/new.png)  
+- [2021-12-16-【图集】广东东莞开展全市全员核酸检测](https://photos.caixin.com/m/2021-12-16/101818457.html) ![](assets/new.png)  
+- [2021-12-15-【境内疫情观察】全国新增50例本土病例（12月14日）](https://database.caixin.com/m/2021-12-15/101818008.html) ![](assets/new.png)  
+- [2021-12-15-辉瑞新冠口服药显著降低住院和死亡风险-非洲病例激增｜大流行手记（12月14日）](https://m.caixin.com/m/2021-12-15/101817778.html) ![](assets/new.png)  
+- [2021-12-15-聚焦｜张文宏：上海战疫体会及对奥密克戎的应对](https://opinion.caixin.com/m/2021-12-15/101818197.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -474,6 +494,8 @@
 </summary>
 
 
+- [2021-12-19-有没有推荐的数电课程](https://www.v2ex.com/t/823138) ![](assets/new.png)  
+- [2021-12-19-OH-卡牌线上怎么能玩起来？](https://www.v2ex.com/t/823137) ![](assets/new.png)  
 - [2021-12-19-这才是-NFT-该有的样子----我创建的-NFT](https://www.v2ex.com/t/823134) ![](assets/new.png)  
 - [2021-12-19-有个大胆的想法-Oracle-cloud:-always-free-VM-跑网心云会怎么样](https://www.v2ex.com/t/823133) ![](assets/new.png)  
 - [2021-12-19-你们的-finder-搜索功能支持中文分词的吗？](https://www.v2ex.com/t/823132) ![](assets/new.png)  
@@ -492,8 +514,6 @@
 - [2021-12-19-如何取消-Github-Copilot-的提示？](https://www.v2ex.com/t/823111) ![](assets/new.png)  
 - [2021-12-19-iOS-15.2-部分-App-的通知为什么不显示图标？](https://www.v2ex.com/t/823110) ![](assets/new.png)  
 - [2021-12-19-docker-如何避免宿主机访问容器内部文件](https://www.v2ex.com/t/823109) ![](assets/new.png)  
-- [2021-12-19-dns-解析出问题了-跟-openwrt-桥接配置有关吗](https://www.v2ex.com/t/823108) ![](assets/new.png)  
-- [2021-12-19-联想笔记本-lenovo-vantage-的-imcontroller-内存泄漏严重，有什么可替代的方案么](https://www.v2ex.com/t/823105) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -547,9 +567,9 @@
 - [2021-12-19-全面了解#中国加密艺术圈、元宇宙和就业](https://toutiao.io/k/ucv12wq) ![](assets/new.png)  
 - [2021-12-19-js根据经纬度换算行驶里程](https://toutiao.io/k/pzyn5j8) ![](assets/new.png)  
 - [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

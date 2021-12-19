@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-19 13:20:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-19 13:35:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -35,4 +35,3 @@
 - [2021-12-19-OH-卡牌线上怎么能玩起来？](https://www.v2ex.com/t/823137) 
 - [2021-12-19-这才是-NFT-该有的样子----我创建的-NFT](https://www.v2ex.com/t/823134) 
 - [2021-12-19-有个大胆的想法-Oracle-cloud:-always-free-VM-跑网心云会怎么样](https://www.v2ex.com/t/823133) 
-- [2021-12-19-你们的-finder-搜索功能支持中文分词的吗？](https://www.v2ex.com/t/823132) 

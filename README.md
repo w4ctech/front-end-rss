@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-19 12:34:41，:rocket: 更新条数: +1584， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-19 12:57:59，:rocket: 更新条数: +1583， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-19-准备起诉-JD，请教一下各位大佬有什么需要注意的地方吗？-PS：输了无所谓主要是客服和第三方商家勾结起来让人恶心](https://www.v2ex.com/t/823179) ![](assets/new.png)  
+- [2021-12-19-关于-iPad-总是在看视频时丢失和耳机的蓝牙连接](https://www.v2ex.com/t/823178) ![](assets/new.png)  
+- [2021-12-19-实验室服务器大家都是怎么管理使用的？](https://www.v2ex.com/t/823176) ![](assets/new.png)  
 - [2021-12-19-使用-librime-做输入法，在运行过程中能动态修改配置吗？](https://www.v2ex.com/t/823174) ![](assets/new.png)  
 - [2021-12-19-是时候-run-了？](https://www.v2ex.com/t/823173) ![](assets/new.png)  
 - [2021-12-19-打算购入-MacBook-Pro14-丐版（教育优惠），大家分享一下如何快速到手？](https://www.v2ex.com/t/823171) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-19-js-如何优化这种情形:-无限状态切换](https://www.v2ex.com/t/823157) ![](assets/new.png)  
 - [2021-12-19-c/c++在-apple-silicon-上还没支持原生-debugging?](https://www.v2ex.com/t/823155) ![](assets/new.png)  
 - [2021-12-19-腾讯双十一捡漏没好货是吗？还是说我运气差？](https://www.v2ex.com/t/823152) ![](assets/new.png)  
-- [2021-12-19-编程猫真是锈掉了](https://www.v2ex.com/t/823151) ![](assets/new.png)  
-- [2021-12-19-如何下载微信内置浏览器里的视频？](https://www.v2ex.com/t/823150) ![](assets/new.png)  
-- [2021-12-19-公司楼下就是苹果官方店，可以帮大家快递寄送，解决-macbook-发货慢问题](https://www.v2ex.com/t/823148) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,9 +567,9 @@
 - [2021-12-19-全面了解#中国加密艺术圈、元宇宙和就业](https://toutiao.io/k/ucv12wq) ![](assets/new.png)  
 - [2021-12-19-js根据经纬度换算行驶里程](https://toutiao.io/k/pzyn5j8) ![](assets/new.png)  
 - [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
-- [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

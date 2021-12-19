@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-19 12:34:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-19 12:57:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -134,6 +134,9 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-19-准备起诉-JD，请教一下各位大佬有什么需要注意的地方吗？-PS：输了无所谓主要是客服和第三方商家勾结起来让人恶心](https://www.v2ex.com/t/823179) 
+- [【V2EX】2021-12-19-关于-iPad-总是在看视频时丢失和耳机的蓝牙连接](https://www.v2ex.com/t/823178) 
+- [【V2EX】2021-12-19-实验室服务器大家都是怎么管理使用的？](https://www.v2ex.com/t/823176) 
 - [【V2EX】2021-12-19-使用-librime-做输入法，在运行过程中能动态修改配置吗？](https://www.v2ex.com/t/823174) 
 - [【V2EX】2021-12-19-是时候-run-了？](https://www.v2ex.com/t/823173) 
 - [【V2EX】2021-12-19-打算购入-MacBook-Pro14-丐版（教育优惠），大家分享一下如何快速到手？](https://www.v2ex.com/t/823171) 
@@ -163,10 +166,6 @@
 - [【V2EX】2021-12-19-有个大胆的想法-Oracle-cloud:-always-free-VM-跑网心云会怎么样](https://www.v2ex.com/t/823133) 
 - [【V2EX】2021-12-19-你们的-finder-搜索功能支持中文分词的吗？](https://www.v2ex.com/t/823132) 
 - [【V2EX】2021-12-19-树莓派-ffmpeg-推流有能力实时转码不](https://www.v2ex.com/t/823131) 
-- [【V2EX】2021-12-19-有没有支持无显卡启动的虚拟化软件？比如-PVE-ESXI-之类的](https://www.v2ex.com/t/823129) 
-- [【V2EX】2021-12-19-关于前端技术提升的疑问](https://www.v2ex.com/t/823128) 
-- [【V2EX】2021-12-19-做了一点点小的功能，以备不时之需](https://www.v2ex.com/t/823127) 
-- [【V2EX】2021-12-19-快-2022-年了，请问各位大佬，用-VS-Code-写嵌入式-C-的最佳姿势是什么？](https://www.v2ex.com/t/823126) 
 - [【技术头条】2021-12-19-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-19-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-19-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -198,9 +197,9 @@
 - [【开发者头条】2021-12-19-全面了解#中国加密艺术圈、元宇宙和就业](https://toutiao.io/k/ucv12wq) 
 - [【开发者头条】2021-12-19-js根据经纬度换算行驶里程](https://toutiao.io/k/pzyn5j8) 
 - [【开发者头条】2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [【开发者头条】2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [【开发者头条】2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [【开发者头条】2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [【开发者头条】2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

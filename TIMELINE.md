@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-19 09:25:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-19 09:40:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -52,6 +52,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-19-12月18日全国新增新冠83例-三省份本土44例](https://m.caixin.com/m/2021-12-19/101819660.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-19-北京通州某画室一学生核酸检测阳性](https://m.caixin.com/m/2021-12-19/101819699.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2021-12-19-【境内疫情观察】全国新增44例本土病例（12月18日）](https://database.caixin.com/m/2021-12-19/101819705.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-19-伦敦进入“重大事件”状态-全球多地节庆活动受冲击｜大流行手记（12月18日）](https://m.caixin.com/m/2021-12-19/101819673.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-18-绍兴、西安疫情仍存扩散可能-专家提醒就地过年应避免“一刀切”](https://m.caixin.com/m/2021-12-18/101819547.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-18-最新海外疫情：新冠感染超2.73亿-累计接种新冠疫苗超86.05亿剂次](https://m.caixin.com/m/2021-12-18/101819560.html) 
@@ -133,6 +134,9 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-19-编程猫真是锈掉了](https://www.v2ex.com/t/823151) 
+- [【V2EX】2021-12-19-如何下载微信内置浏览器里的视频？](https://www.v2ex.com/t/823150) 
+- [【V2EX】2021-12-19-公司楼下就是苹果官方店，可以帮大家快递寄送，解决-macbook-发货慢问题](https://www.v2ex.com/t/823148) 
 - [【V2EX】2021-12-19-使用-caps-lock-切换输入法偶尔失灵](https://www.v2ex.com/t/823147) 
 - [【V2EX】2021-12-19-初用-obsidian，有没有好的办法可以每天定时发送明天日程的？欢迎大家头脑风暴](https://www.v2ex.com/t/823144) 
 - [【V2EX】2021-12-19-出去玩，用-iPad-Pro-取代了-MacBook-Pro](https://www.v2ex.com/t/823142) 
@@ -160,9 +164,6 @@
 - [【V2EX】2021-12-19-联想笔记本-lenovo-vantage-的-imcontroller-内存泄漏严重，有什么可替代的方案么](https://www.v2ex.com/t/823105) 
 - [【V2EX】2021-12-19-安卓统一推送实施前微信不可能被打败](https://www.v2ex.com/t/823104) 
 - [【V2EX】2021-12-19-求解？-Windows-下载文件夹偶尔卡死，未响应](https://www.v2ex.com/t/823102) 
-- [【V2EX】2021-12-19-请问有云端沙盘服务吗？](https://www.v2ex.com/t/823101) 
-- [【V2EX】2021-12-19-移动设备访问-V2EX-无法使用密码管理器自动填充用户名密码，桌面版网站正常](https://www.v2ex.com/t/823100) 
-- [【V2EX】2021-12-19-钉钉-PC-版存在一个请假状态没有自动更新的-BUG](https://www.v2ex.com/t/823099) 
 - [【技术头条】2021-12-19-vscode-loader-解析之（node-环境）-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14853&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F126-vscode-loader-node%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-19-vscode-loader-解析之（node-环境）-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14852&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F126-vscode-loader-node%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-19-优质网站同好者周刊（第-44-期）--倾城之链-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14851&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F130-44%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -193,10 +194,10 @@
 - [【开发者头条】2021-12-19-谁在调试我的代码？](https://toutiao.io/k/4xntjuh) 
 - [【开发者头条】2021-12-19-全面了解#中国加密艺术圈、元宇宙和就业](https://toutiao.io/k/ucv12wq) 
 - [【开发者头条】2021-12-19-js根据经纬度换算行驶里程](https://toutiao.io/k/pzyn5j8) 
-- [【开发者头条】2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [【开发者头条】2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [【开发者头条】2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [【开发者头条】2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [【开发者头条】2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [【开发者头条】2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

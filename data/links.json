@@ -15,6 +15,11 @@
         "date": "2021-12-19"
       },
       {
+        "title": "【境内疫情观察】全国新增44例本土病例（12月18日）",
+        "link": "https://database.caixin.com/m/2021-12-19/101819705.html",
+        "date": "2021-12-19"
+      },
+      {
         "title": "伦敦进入“重大事件”状态 全球多地节庆活动受冲击｜大流行手记（12月18日）",
         "link": "https://m.caixin.com/m/2021-12-19/101819673.html",
         "date": "2021-12-19"
@@ -7804,6 +7809,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "编程猫真是锈掉了",
+        "link": "https://www.v2ex.com/t/823151",
+        "date": "2021-12-19"
+      },
+      {
+        "title": "如何下载微信内置浏览器里的视频？",
+        "link": "https://www.v2ex.com/t/823150",
+        "date": "2021-12-19"
+      },
+      {
+        "title": "公司楼下就是苹果官方店，可以帮大家快递寄送，解决 macbook 发货慢问题",
+        "link": "https://www.v2ex.com/t/823148",
+        "date": "2021-12-19"
+      },
+      {
         "title": "使用 caps lock 切换输入法偶尔失灵",
         "link": "https://www.v2ex.com/t/823147",
         "date": "2021-12-19"
@@ -7936,21 +7956,6 @@
       {
         "title": "求解？ Windows 下载文件夹偶尔卡死，未响应",
         "link": "https://www.v2ex.com/t/823102",
-        "date": "2021-12-19"
-      },
-      {
-        "title": "请问有云端沙盘服务吗？",
-        "link": "https://www.v2ex.com/t/823101",
-        "date": "2021-12-19"
-      },
-      {
-        "title": "移动设备访问 V2EX 无法使用密码管理器自动填充用户名密码，桌面版网站正常",
-        "link": "https://www.v2ex.com/t/823100",
-        "date": "2021-12-19"
-      },
-      {
-        "title": "钉钉 PC 版存在一个请假状态没有自动更新的 BUG",
-        "link": "https://www.v2ex.com/t/823099",
         "date": "2021-12-19"
       }
     ]
@@ -8118,8 +8123,8 @@
         "date": "2021-12-19"
       },
       {
-        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
-        "link": "https://toutiao.io/k/o3dptn4",
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
         "date": "2021-12-19"
       },
       {
@@ -8128,13 +8133,13 @@
         "date": "2021-12-19"
       },
       {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
+        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
+        "link": "https://toutiao.io/k/o3dptn4",
         "date": "2021-12-19"
       },
       {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
         "date": "2021-12-19"
       }
     ]

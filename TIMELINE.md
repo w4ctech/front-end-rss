@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-19 21:19:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-19 21:38:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -146,13 +146,11 @@
 - [【V2EX】2021-12-19-i7-4790-+-2070s-vs-i7-10710U-+-5700xt](https://www.v2ex.com/t/823199) 
 - [【V2EX】2021-12-19-可组合、可进化、自带交易机制的全链上图像-NFT-创作系统](https://www.v2ex.com/t/823197) 
 - [【V2EX】2021-12-19-pnpm-问题记录](https://www.v2ex.com/t/823196) 
-- [【V2EX】2021-12-19-技术团队出现能力强、可替代不易、但是不服管的组长，如何处理？](https://www.v2ex.com/t/823195) 
 - [【V2EX】2021-12-19-广州电信双栈上传速度](https://www.v2ex.com/t/823194) 
 - [【V2EX】2021-12-19-独立作品-比译v0.3.5-发布，-macOS-端支持本地-OCR](https://www.v2ex.com/t/823193) 
 - [【V2EX】2021-12-19-MacBook-Pro-磁吸线待机时偶尔自动断开连接正常吗](https://www.v2ex.com/t/823192) 
 - [【V2EX】2021-12-19-科学画图软件求推荐](https://www.v2ex.com/t/823191) 
 - [【V2EX】2021-12-19-iOS-safari-一直不显示经常访问的网站？是不是-bug？](https://www.v2ex.com/t/823190) 
-- [【V2EX】2021-12-19-又发现了一个类-notion-的阵地](https://www.v2ex.com/t/823189) 
 - [【V2EX】2021-12-19-深圳/北京/上海-Shopee-内推，直推自己部门，-Go-/-Java-/-前端-/-QA，年前面试年后入职](https://www.v2ex.com/t/823188) 
 - [【V2EX】2021-12-19-有没有可以自定义的公众号订阅的服务？](https://www.v2ex.com/t/823186) 
 - [【V2EX】2021-12-19-在公网-ipv6-上开-smb-的风险大吗？](https://www.v2ex.com/t/823184) 
@@ -199,9 +197,9 @@
 - [【开发者头条】2021-12-19-js根据经纬度换算行驶里程](https://toutiao.io/k/pzyn5j8) 
 - [【开发者头条】2021-12-19-全面了解#中国加密艺术圈、元宇宙和就业](https://toutiao.io/k/ucv12wq) 
 - [【开发者头条】2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [【开发者头条】2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [【开发者头条】2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

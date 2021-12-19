@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-19 21:19:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-19 21:38:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1499,12 +1499,10 @@
 - [2021-12-19-深夜回想-好像一直在学习新东西但是没有停下来巩固，所以想请问一些问题](https://www.v2ex.com/t/823202) 
 - [2021-12-19-Agenda-的这种收费模式就比较容易接受了](https://www.v2ex.com/t/823200) 
 - [2021-12-19-i7-4790-+-2070s-vs-i7-10710U-+-5700xt](https://www.v2ex.com/t/823199) 
-- [2021-12-19-技术团队出现能力强、可替代不易、但是不服管的组长，如何处理？](https://www.v2ex.com/t/823195) 
 - [2021-12-19-广州电信双栈上传速度](https://www.v2ex.com/t/823194) 
 - [2021-12-19-独立作品-比译v0.3.5-发布，-macOS-端支持本地-OCR](https://www.v2ex.com/t/823193) 
 - [2021-12-19-MacBook-Pro-磁吸线待机时偶尔自动断开连接正常吗](https://www.v2ex.com/t/823192) 
 - [2021-12-19-科学画图软件求推荐](https://www.v2ex.com/t/823191) 
-- [2021-12-19-又发现了一个类-notion-的阵地](https://www.v2ex.com/t/823189) 
 - [2021-12-19-有没有可以自定义的公众号订阅的服务？](https://www.v2ex.com/t/823186) 
 - [2021-12-19-在公网-ipv6-上开-smb-的风险大吗？](https://www.v2ex.com/t/823184) 
 - [2021-12-19-买个口琴-重拾童年](https://www.v2ex.com/t/823183) 
@@ -1537,6 +1535,6 @@
 - [2021-12-19-有赞实时计算-Flink-1.13-升级实践](https://toutiao.io/k/2nhtn7a) 
 - [2021-12-19-全面了解#中国加密艺术圈、元宇宙和就业](https://toutiao.io/k/ucv12wq) 
 - [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 

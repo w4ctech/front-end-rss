@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-19 00:42:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-19 01:15:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1487,6 +1487,8 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-19-求助各位大佬一篇文献,-感谢感谢!](https://www.v2ex.com/t/823075) 
+- [2021-12-19-现在（2021-年-12-月）北京的宽带通/鹏博士的宽带，质量已经和联通对齐了吗？](https://www.v2ex.com/t/823073) 
 - [2021-12-18-昨天刚到的-16-寸-M1-Pro，-ssd-循环次数已经-116-次，写入量已经-142-G，读取量-206-G，需要退吗](https://www.v2ex.com/t/823072) 
 - [2021-12-18-QQ-欢乐麻将官方会修改红中概率](https://www.v2ex.com/t/823069) 
 - [2021-12-18-如何消除保丽龙球的静电？](https://www.v2ex.com/t/823068) 
@@ -1518,9 +1520,6 @@
 - [2021-12-18-magsafe-外接电池好像也没有那么拉胯](https://www.v2ex.com/t/823029) 
 - [2021-12-18-使用-Openwrt-融合-IPTV-进家庭局域网，电视断流的问题如何解？](https://www.v2ex.com/t/823028) 
 - [2021-12-18-iCloud-日历服务器响应错误，日历未能刷新，不允许访问“账户“iCloud””，服务器对操作响应“403”](https://www.v2ex.com/t/823026) 
-- [2021-12-18-disney-+-,-国区-pp-如何购买，-及-IP-域名白名单](https://www.v2ex.com/t/823025) 
-- [2021-12-18-成功移植了-Cocos-Creator-到-Deepin/UOS](https://www.v2ex.com/t/823024) 
-- [2021-12-18-联系-PHP-兼职base-西安，临床医学研究领域寻-PHP-开发兼职](https://www.v2ex.com/t/823023) 
 - [2021-12-19-优质网站同好者周刊（第-44-期）--倾城之链-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14851&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F130-44%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-19-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-19-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1540,7 +1539,7 @@
 - [2021-12-19-推荐学Java——数据表基本操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14835&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhGnL_xOtqz3lNxbRz2IxPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-19-Android-使用-Span-打造丰富多彩的文本-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14834&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSz4H-XK5ygEZOT615QDHtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-19-120-python|第一部分：python核心（-四）容器](https://toutiao.io/k/3rgo66u) 
+- [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 

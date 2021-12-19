@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-19 04:15:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-19 04:29:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1487,6 +1487,7 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-19-自用奈飞车寻车友](https://www.v2ex.com/t/823103) 
 - [2021-12-19-求解？-Windows-下载文件夹偶尔卡死，未响应](https://www.v2ex.com/t/823102) 
 - [2021-12-19-请问有云端沙盘服务吗？](https://www.v2ex.com/t/823101) 
 - [2021-12-19-移动设备访问-V2EX-无法使用密码管理器自动填充用户名密码，桌面版网站正常](https://www.v2ex.com/t/823100) 
@@ -1522,7 +1523,6 @@
 - [2021-12-18-吐槽：-iOS-蜂窝数据的“用量”功能是玄学吗？](https://www.v2ex.com/t/823056) 
 - [2021-12-18-现在买-MacBook-Air-合适吗？明年会发布第二代吗](https://www.v2ex.com/t/823055) 
 - [2021-12-18-PHP5-太强了](https://www.v2ex.com/t/823054) 
-- [2021-12-18-要换新-MPB-了，配的是多少寸显示器？](https://www.v2ex.com/t/823053) 
 - [2021-12-19-优质网站同好者周刊（第-44-期）--倾城之链-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14851&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F130-44%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-19-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-19-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1544,7 +1544,7 @@
 - [2021-12-19-tmux-不支持-rz-/-sz-，于是有一个兼容-tmux-的-trz-/-tsz-trzsz-，可以与-iTerm2-一起用，还有一个不错的进度条。](https://toutiao.io/k/2znbuck) 
 - [2021-12-19-120-python|第一部分：python核心（-四）容器](https://toutiao.io/k/3rgo66u) 
 - [2021-12-19-有赞实时计算-Flink-1.13-升级实践](https://toutiao.io/k/2nhtn7a) 
-- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 

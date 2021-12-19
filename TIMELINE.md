@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-19 14:20:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-19 14:37:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -134,6 +134,8 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-19-科学画图软件求推荐](https://www.v2ex.com/t/823191) 
+- [【V2EX】2021-12-19-iOS-safari-一直不显示经常访问的网站？是不是-bug？](https://www.v2ex.com/t/823190) 
 - [【V2EX】2021-12-19-又发现了一个类-notion-的阵地](https://www.v2ex.com/t/823189) 
 - [【V2EX】2021-12-19-深圳/北京/上海-Shopee-内推，直推自己部门，-Go-/-Java-/-前端-/-QA，年前面试年后入职](https://www.v2ex.com/t/823188) 
 - [【V2EX】2021-12-19-有没有可以自定义的公众号订阅的服务？](https://www.v2ex.com/t/823186) 
@@ -196,8 +198,8 @@
 - [【开发者头条】2021-12-19-js根据经纬度换算行驶里程](https://toutiao.io/k/pzyn5j8) 
 - [【开发者头条】2021-12-19-全面了解#中国加密艺术圈、元宇宙和就业](https://toutiao.io/k/ucv12wq) 
 - [【开发者头条】2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [【开发者头条】2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

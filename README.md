@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-19 13:54:41，:rocket: 更新条数: +1581， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-19 14:12:03，:rocket: 更新条数: +1582， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-19-又发现了一个类-notion-的阵地](https://www.v2ex.com/t/823189) ![](assets/new.png)  
+- [2021-12-19-深圳/北京/上海-Shopee-内推，直推自己部门，-Go-/-Java-/-前端-/-QA，年前面试年后入职](https://www.v2ex.com/t/823188) ![](assets/new.png)  
+- [2021-12-19-有没有可以自定义的公众号订阅的服务？](https://www.v2ex.com/t/823186) ![](assets/new.png)  
 - [2021-12-19-在公网-ipv6-上开-smb-的风险大吗？](https://www.v2ex.com/t/823184) ![](assets/new.png)  
 - [2021-12-19-买个口琴-重拾童年](https://www.v2ex.com/t/823183) ![](assets/new.png)  
 - [2021-12-19-准备起诉-JD，请教一下各位大佬有什么需要注意的地方吗？-PS：输了无所谓主要是客服和第三方商家勾结起来让人恶心](https://www.v2ex.com/t/823179) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-19-ios-屏幕使用时间-统计信息，-默认是周日开始，如何修改-周一-为-开始](https://www.v2ex.com/t/823162) ![](assets/new.png)  
 - [2021-12-19-win7,win10-能否像-iOS,安卓那样只允许从官方商店下载软件](https://www.v2ex.com/t/823161) ![](assets/new.png)  
 - [2021-12-19-你好-2022](https://www.v2ex.com/t/823160) ![](assets/new.png)  
-- [2021-12-19-如何设计后端根据条件动态返回-url](https://www.v2ex.com/t/823159) ![](assets/new.png)  
-- [2021-12-19-求-dukto-的平替](https://www.v2ex.com/t/823158) ![](assets/new.png)  
-- [2021-12-19-js-如何优化这种情形:-无限状态切换](https://www.v2ex.com/t/823157) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,15 +561,15 @@
 - [2021-12-19-tmux-不支持-rz-/-sz-，于是有一个兼容-tmux-的-trz-/-tsz-trzsz-，可以与-iTerm2-一起用，还有一个不错的进度条。](https://toutiao.io/k/2znbuck) ![](assets/new.png)  
 - [2021-12-19-一文读懂异常检测-LOF-算法（Python代码）](https://toutiao.io/k/2r49el1) ![](assets/new.png)  
 - [2021-12-19-使用损失条件训练优化多个损失函数](https://toutiao.io/k/th3nbxa) ![](assets/new.png)  
-- [2021-12-19-120-python|第一部分：python核心（-四）容器](https://toutiao.io/k/3rgo66u) ![](assets/new.png)  
 - [2021-12-19-谁在调试我的代码？](https://toutiao.io/k/4xntjuh) ![](assets/new.png)  
+- [2021-12-19-120-python|第一部分：python核心（-四）容器](https://toutiao.io/k/3rgo66u) ![](assets/new.png)  
 - [2021-12-19-有赞实时计算-Flink-1.13-升级实践](https://toutiao.io/k/2nhtn7a) ![](assets/new.png)  
 - [2021-12-19-js根据经纬度换算行驶里程](https://toutiao.io/k/pzyn5j8) ![](assets/new.png)  
 - [2021-12-19-全面了解#中国加密艺术圈、元宇宙和就业](https://toutiao.io/k/ucv12wq) ![](assets/new.png)  
 - [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

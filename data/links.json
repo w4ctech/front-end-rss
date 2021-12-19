@@ -7957,11 +7957,6 @@
         "title": "请问如何过滤顺丰微信小程序的广告?",
         "link": "https://www.v2ex.com/t/823116",
         "date": "2021-12-19"
-      },
-      {
-        "title": "官方的 mypy 到现在还没支持 3.10 新特性吗？现在版本是 0.92, 一更新后所有的 match 就报错了",
-        "link": "https://www.v2ex.com/t/823114",
-        "date": "2021-12-19"
       }
     ]
   },
@@ -8128,13 +8123,13 @@
         "date": "2021-12-19"
       },
       {
-        "title": "[推荐] 服务调优经验总结",
-        "link": "https://toutiao.io/k/av28tr1",
+        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
+        "link": "https://toutiao.io/k/o3dptn4",
         "date": "2021-12-19"
       },
       {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
+        "title": "[推荐] 服务调优经验总结",
+        "link": "https://toutiao.io/k/av28tr1",
         "date": "2021-12-19"
       },
       {
@@ -8143,8 +8138,8 @@
         "date": "2021-12-19"
       },
       {
-        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
-        "link": "https://toutiao.io/k/o3dptn4",
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
         "date": "2021-12-19"
       }
     ]

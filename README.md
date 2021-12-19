@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-19 01:15:03，:rocket: 更新条数: +1584， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-19 02:05:35，:rocket: 更新条数: +1590， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2021-12-18-最新疫情：全国新冠累计确诊100201例-累计接种新冠疫苗超26.61亿剂次](https://m.caixin.com/m/2021-12-18/101819563.html) ![](assets/new.png)  
+- [2021-12-19-12月18日全国新增新冠83例-三省份本土44例](https://m.caixin.com/m/2021-12-19/101819660.html) ![](assets/new.png)  
 - [2021-12-18-绍兴、西安疫情仍存扩散可能-专家提醒就地过年应避免“一刀切”](https://m.caixin.com/m/2021-12-18/101819547.html) ![](assets/new.png)  
 - [2021-12-18-最新海外疫情：新冠感染超2.73亿-累计接种新冠疫苗超86.05亿剂次](https://m.caixin.com/m/2021-12-18/101819560.html) ![](assets/new.png)  
 - [2021-12-18-【境内疫情观察】全国新增89例本土病例（12月17日）](https://database.caixin.com/m/2021-12-18/101819570.html) ![](assets/new.png)  
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2021-12-19-年终总结的黄金框架](https://www.v2ex.com/t/823082) ![](assets/new.png)  
+- [2021-12-19-谷歌-DoT-又可以直连了](https://www.v2ex.com/t/823081) ![](assets/new.png)  
+- [2021-12-19-各位大佬服务器被攻击咋解决啊](https://www.v2ex.com/t/823080) ![](assets/new.png)  
+- [2021-12-19-iPhone-11-wifi-5G-速率不正常有人遇到过？](https://www.v2ex.com/t/823079) ![](assets/new.png)  
+- [2021-12-19-XD-们，-4S-店砍价，一般哪些项有机会砍下来？](https://www.v2ex.com/t/823078) ![](assets/new.png)  
+- [2021-12-19-小白提问，一些关于交换机的相关疑惑](https://www.v2ex.com/t/823076) ![](assets/new.png)  
 - [2021-12-19-求助各位大佬一篇文献,-感谢感谢!](https://www.v2ex.com/t/823075) ![](assets/new.png)  
 - [2021-12-19-『-开源推广-』一个自定义配置的浏览器起始页插件](https://www.v2ex.com/t/823074) ![](assets/new.png)  
 - [2021-12-19-现在（2021-年-12-月）北京的宽带通/鹏博士的宽带，质量已经和联通对齐了吗？](https://www.v2ex.com/t/823073) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-12-18-云服务器的-CPU-性能水分很大啊](https://www.v2ex.com/t/823064) ![](assets/new.png)  
 - [2021-12-18-求各位大佬推荐一颗性价比高的支持-ax-的-AP](https://www.v2ex.com/t/823063) ![](assets/new.png)  
 - [2021-12-18-彭于晏们平时接私活吗](https://www.v2ex.com/t/823062) ![](assets/new.png)  
-- [2021-12-18-有-12.18-12.25-的好兄弟发货了吗](https://www.v2ex.com/t/823061) ![](assets/new.png)  
-- [2021-12-18-log4j-2.16-仍有致命-bug](https://www.v2ex.com/t/823060) ![](assets/new.png)  
-- [2021-12-18-请教一个抓包问题](https://www.v2ex.com/t/823059) ![](assets/new.png)  
-- [2021-12-18-给-go-wrk-安上了-JavaScript-脚本支持](https://www.v2ex.com/t/823058) ![](assets/new.png)  
-- [2021-12-18-自建邮局-测试一直提示"Try-it"-URI,-suspicious-hostname](https://www.v2ex.com/t/823057) ![](assets/new.png)  
-- [2021-12-18-吐槽：-iOS-蜂窝数据的“用量”功能是玄学吗？](https://www.v2ex.com/t/823056) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,14 +556,18 @@
 </summary>
 
 
+- [2021-12-19-分布式锁用Redis好？还是Zookeeper好？](https://toutiao.io/k/dliy2zu) ![](assets/new.png)  
 - [2021-12-19-惊艳面试官-Java中关于随机数生成8种方式的思考](https://toutiao.io/k/1f0hs2u) ![](assets/new.png)  
 - [2021-12-19-云原生应用的构建之路](https://toutiao.io/k/goqpvwc) ![](assets/new.png)  
 - [2021-12-19-一文读懂异常检测-LOF-算法（Python代码）](https://toutiao.io/k/2r49el1) ![](assets/new.png)  
 - [2021-12-19-120-python|第一部分：python核心（-四）容器](https://toutiao.io/k/3rgo66u) ![](assets/new.png)  
+- [2021-12-19-tmux-不支持-rz-/-sz-，于是有一个兼容-tmux-的-trz-/-tsz-trzsz-，可以与-iTerm2-一起用，还有一个不错的进度条。](https://toutiao.io/k/2znbuck) ![](assets/new.png)  
+- [2021-12-19-苹果的反跟踪新功能大受欢迎，你更新了吗？](https://toutiao.io/k/cqp05fx) ![](assets/new.png)  
+- [2021-12-19-有赞实时计算-Flink-1.13-升级实践](https://toutiao.io/k/2nhtn7a) ![](assets/new.png)  
 - [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

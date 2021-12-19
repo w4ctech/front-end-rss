@@ -5,9 +5,9 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "最新疫情：全国新冠累计确诊100201例 累计接种新冠疫苗超26.61亿剂次",
-        "link": "https://m.caixin.com/m/2021-12-18/101819563.html",
-        "date": "2021-12-18"
+        "title": "12月18日全国新增新冠83例 三省份本土44例",
+        "link": "https://m.caixin.com/m/2021-12-19/101819660.html",
+        "date": "2021-12-19"
       },
       {
         "title": "绍兴、西安疫情仍存扩散可能 专家提醒就地过年应避免“一刀切”",
@@ -7794,6 +7794,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "年终总结的黄金框架",
+        "link": "https://www.v2ex.com/t/823082",
+        "date": "2021-12-19"
+      },
+      {
+        "title": "谷歌 DoT 又可以直连了",
+        "link": "https://www.v2ex.com/t/823081",
+        "date": "2021-12-19"
+      },
+      {
+        "title": "各位大佬服务器被攻击咋解决啊",
+        "link": "https://www.v2ex.com/t/823080",
+        "date": "2021-12-19"
+      },
+      {
+        "title": "iPhone 11 wifi 5G 速率不正常有人遇到过？",
+        "link": "https://www.v2ex.com/t/823079",
+        "date": "2021-12-19"
+      },
+      {
+        "title": "XD 们， 4S 店砍价，一般哪些项有机会砍下来？",
+        "link": "https://www.v2ex.com/t/823078",
+        "date": "2021-12-19"
+      },
+      {
+        "title": "小白提问，一些关于交换机的相关疑惑",
+        "link": "https://www.v2ex.com/t/823076",
+        "date": "2021-12-19"
+      },
+      {
         "title": "求助各位大佬一篇文献, 感谢感谢!",
         "link": "https://www.v2ex.com/t/823075",
         "date": "2021-12-19"
@@ -7982,26 +8012,6 @@
         "title": "微软的验证器支持备份苹果密码的验证器吗",
         "link": "https://www.v2ex.com/t/823034",
         "date": "2021-12-18"
-      },
-      {
-        "title": "下周平安夜和圣诞节",
-        "link": "https://www.v2ex.com/t/823030",
-        "date": "2021-12-18"
-      },
-      {
-        "title": "magsafe 外接电池好像也没有那么拉胯",
-        "link": "https://www.v2ex.com/t/823029",
-        "date": "2021-12-18"
-      },
-      {
-        "title": "使用 Openwrt 融合 IPTV 进家庭局域网，电视断流的问题如何解？",
-        "link": "https://www.v2ex.com/t/823028",
-        "date": "2021-12-18"
-      },
-      {
-        "title": "iCloud 日历服务器响应错误，日历未能刷新，不允许访问“账户“iCloud””，服务器对操作响应“403”",
-        "link": "https://www.v2ex.com/t/823026",
-        "date": "2021-12-18"
       }
     ]
   },
@@ -8118,6 +8128,11 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "分布式锁用Redis好？还是Zookeeper好？",
+        "link": "https://toutiao.io/k/dliy2zu",
+        "date": "2021-12-19"
+      },
+      {
         "title": "惊艳面试官-Java中关于随机数生成8种方式的思考",
         "link": "https://toutiao.io/k/1f0hs2u",
         "date": "2021-12-19"
@@ -8138,6 +8153,21 @@
         "date": "2021-12-19"
       },
       {
+        "title": "tmux 不支持 rz / sz ，于是有一个兼容 tmux 的 trz / tsz ( trzsz )，可以与 iTerm2 一起用，还有一个不错的进度条。",
+        "link": "https://toutiao.io/k/2znbuck",
+        "date": "2021-12-19"
+      },
+      {
+        "title": "苹果的反跟踪新功能大受欢迎，你更新了吗？",
+        "link": "https://toutiao.io/k/cqp05fx",
+        "date": "2021-12-19"
+      },
+      {
+        "title": "有赞实时计算 Flink 1.13 升级实践",
+        "link": "https://toutiao.io/k/2nhtn7a",
+        "date": "2021-12-19"
+      },
+      {
         "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
         "link": "https://toutiao.io/k/hrnq79a",
         "date": "2021-12-19"
@@ -8148,13 +8178,13 @@
         "date": "2021-12-19"
       },
       {
-        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
-        "link": "https://toutiao.io/k/o3dptn4",
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
         "date": "2021-12-19"
       },
       {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
+        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
+        "link": "https://toutiao.io/k/o3dptn4",
         "date": "2021-12-19"
       }
     ]

@@ -1,11 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-19 01:15:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-19 02:05:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2021-12-18-最新疫情：全国新冠累计确诊100201例-累计接种新冠疫苗超26.61亿剂次](https://m.caixin.com/m/2021-12-18/101819563.html) 
+- [2021-12-19-12月18日全国新增新冠83例-三省份本土44例](https://m.caixin.com/m/2021-12-19/101819660.html) 
 - [2021-12-18-绍兴、西安疫情仍存扩散可能-专家提醒就地过年应避免“一刀切”](https://m.caixin.com/m/2021-12-18/101819547.html) 
 - [2021-12-18-最新海外疫情：新冠感染超2.73亿-累计接种新冠疫苗超86.05亿剂次](https://m.caixin.com/m/2021-12-18/101819560.html) 
 - [2021-12-18-【境内疫情观察】全国新增89例本土病例（12月17日）](https://database.caixin.com/m/2021-12-18/101819570.html) 
@@ -1487,6 +1487,12 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-19-年终总结的黄金框架](https://www.v2ex.com/t/823082) 
+- [2021-12-19-谷歌-DoT-又可以直连了](https://www.v2ex.com/t/823081) 
+- [2021-12-19-各位大佬服务器被攻击咋解决啊](https://www.v2ex.com/t/823080) 
+- [2021-12-19-iPhone-11-wifi-5G-速率不正常有人遇到过？](https://www.v2ex.com/t/823079) 
+- [2021-12-19-XD-们，-4S-店砍价，一般哪些项有机会砍下来？](https://www.v2ex.com/t/823078) 
+- [2021-12-19-小白提问，一些关于交换机的相关疑惑](https://www.v2ex.com/t/823076) 
 - [2021-12-19-求助各位大佬一篇文献,-感谢感谢!](https://www.v2ex.com/t/823075) 
 - [2021-12-19-现在（2021-年-12-月）北京的宽带通/鹏博士的宽带，质量已经和联通对齐了吗？](https://www.v2ex.com/t/823073) 
 - [2021-12-18-昨天刚到的-16-寸-M1-Pro，-ssd-循环次数已经-116-次，写入量已经-142-G，读取量-206-G，需要退吗](https://www.v2ex.com/t/823072) 
@@ -1516,10 +1522,6 @@
 - [2021-12-18-es-查询一定比-mysql-快吗](https://www.v2ex.com/t/823036) 
 - [2021-12-18-求推荐编译用云主机](https://www.v2ex.com/t/823035) 
 - [2021-12-18-微软的验证器支持备份苹果密码的验证器吗](https://www.v2ex.com/t/823034) 
-- [2021-12-18-下周平安夜和圣诞节](https://www.v2ex.com/t/823030) 
-- [2021-12-18-magsafe-外接电池好像也没有那么拉胯](https://www.v2ex.com/t/823029) 
-- [2021-12-18-使用-Openwrt-融合-IPTV-进家庭局域网，电视断流的问题如何解？](https://www.v2ex.com/t/823028) 
-- [2021-12-18-iCloud-日历服务器响应错误，日历未能刷新，不允许访问“账户“iCloud””，服务器对操作响应“403”](https://www.v2ex.com/t/823026) 
 - [2021-12-19-优质网站同好者周刊（第-44-期）--倾城之链-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14851&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F130-44%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-19-如果不想总是半夜爬起来抢修生产事故-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-19-Jira“消失”的24小时-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1538,8 +1540,12 @@
 - [2021-12-19-威胁建模——围绕假想敌的领域建模-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14836&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthread-modeling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-19-推荐学Java——数据表基本操作-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14835&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhGnL_xOtqz3lNxbRz2IxPw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-19-Android-使用-Span-打造丰富多彩的文本-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14834&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSz4H-XK5ygEZOT615QDHtA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2021-12-19-分布式锁用Redis好？还是Zookeeper好？](https://toutiao.io/k/dliy2zu) 
 - [2021-12-19-120-python|第一部分：python核心（-四）容器](https://toutiao.io/k/3rgo66u) 
+- [2021-12-19-tmux-不支持-rz-/-sz-，于是有一个兼容-tmux-的-trz-/-tsz-trzsz-，可以与-iTerm2-一起用，还有一个不错的进度条。](https://toutiao.io/k/2znbuck) 
+- [2021-12-19-苹果的反跟踪新功能大受欢迎，你更新了吗？](https://toutiao.io/k/cqp05fx) 
+- [2021-12-19-有赞实时计算-Flink-1.13-升级实践](https://toutiao.io/k/2nhtn7a) 
 - [2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 

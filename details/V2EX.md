@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-12-19 06:50:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-19 07:13:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-19-这才是-NFT-该有的样子----我创建的-NFT](https://www.v2ex.com/t/823134) 
+- [2021-12-19-有个大胆的想法-Oracle-cloud:-always-free-VM-跑网心云会怎么样](https://www.v2ex.com/t/823133) 
+- [2021-12-19-你们的-finder-搜索功能支持中文分词的吗？](https://www.v2ex.com/t/823132) 
+- [2021-12-19-树莓派-ffmpeg-推流有能力实时转码不](https://www.v2ex.com/t/823131) 
+- [2021-12-19-有没有支持无显卡启动的虚拟化软件？比如-PVE-ESXI-之类的](https://www.v2ex.com/t/823129) 
 - [2021-12-19-关于前端技术提升的疑问](https://www.v2ex.com/t/823128) 
 - [2021-12-19-做了一点点小的功能，以备不时之需](https://www.v2ex.com/t/823127) 
 - [2021-12-19-快-2022-年了，请问各位大佬，用-VS-Code-写嵌入式-C-的最佳姿势是什么？](https://www.v2ex.com/t/823126) 
@@ -35,9 +40,3 @@
 - [2021-12-19-两年大专前端，准备去上海或者北京](https://www.v2ex.com/t/823088) 
 - [2021-12-19-surface-不能开机了，过保了](https://www.v2ex.com/t/823087) 
 - [2021-12-19-如何提高自己的自制力](https://www.v2ex.com/t/823086) 
-- [2021-12-19-关于-youtube-dl-的两个问题](https://www.v2ex.com/t/823085) 
-- [2021-12-19-上海有-965-不用刷-leetcode-的厂么](https://www.v2ex.com/t/823083) 
-- [2021-12-19-年终总结的黄金框架](https://www.v2ex.com/t/823082) 
-- [2021-12-19-谷歌-DoT-又可以直连了](https://www.v2ex.com/t/823081) 
-- [2021-12-19-各位大佬服务器被攻击咋解决啊](https://www.v2ex.com/t/823080) 
-- [2021-12-19-iPhone-11-wifi-5G-速率不正常有人遇到过？](https://www.v2ex.com/t/823079) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-19 06:50:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-19 07:13:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -132,6 +132,11 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-19-这才是-NFT-该有的样子----我创建的-NFT](https://www.v2ex.com/t/823134) 
+- [【V2EX】2021-12-19-有个大胆的想法-Oracle-cloud:-always-free-VM-跑网心云会怎么样](https://www.v2ex.com/t/823133) 
+- [【V2EX】2021-12-19-你们的-finder-搜索功能支持中文分词的吗？](https://www.v2ex.com/t/823132) 
+- [【V2EX】2021-12-19-树莓派-ffmpeg-推流有能力实时转码不](https://www.v2ex.com/t/823131) 
+- [【V2EX】2021-12-19-有没有支持无显卡启动的虚拟化软件？比如-PVE-ESXI-之类的](https://www.v2ex.com/t/823129) 
 - [【V2EX】2021-12-19-关于前端技术提升的疑问](https://www.v2ex.com/t/823128) 
 - [【V2EX】2021-12-19-做了一点点小的功能，以备不时之需](https://www.v2ex.com/t/823127) 
 - [【V2EX】2021-12-19-快-2022-年了，请问各位大佬，用-VS-Code-写嵌入式-C-的最佳姿势是什么？](https://www.v2ex.com/t/823126) 
@@ -162,12 +167,6 @@
 - [【V2EX】2021-12-19-两年大专前端，准备去上海或者北京](https://www.v2ex.com/t/823088) 
 - [【V2EX】2021-12-19-surface-不能开机了，过保了](https://www.v2ex.com/t/823087) 
 - [【V2EX】2021-12-19-如何提高自己的自制力](https://www.v2ex.com/t/823086) 
-- [【V2EX】2021-12-19-关于-youtube-dl-的两个问题](https://www.v2ex.com/t/823085) 
-- [【V2EX】2021-12-19-上海有-965-不用刷-leetcode-的厂么](https://www.v2ex.com/t/823083) 
-- [【V2EX】2021-12-19-年终总结的黄金框架](https://www.v2ex.com/t/823082) 
-- [【V2EX】2021-12-19-谷歌-DoT-又可以直连了](https://www.v2ex.com/t/823081) 
-- [【V2EX】2021-12-19-各位大佬服务器被攻击咋解决啊](https://www.v2ex.com/t/823080) 
-- [【V2EX】2021-12-19-iPhone-11-wifi-5G-速率不正常有人遇到过？](https://www.v2ex.com/t/823079) 
 - [【技术头条】2021-12-19-vscode-loader-解析之（node-环境）-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14853&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F126-vscode-loader-node%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-19-vscode-loader-解析之（node-环境）-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14852&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F126-vscode-loader-node%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-19-优质网站同好者周刊（第-44-期）--倾城之链-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14851&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F130-44%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -195,13 +194,13 @@
 - [【开发者头条】2021-12-19-120-python|第一部分：python核心（-四）容器](https://toutiao.io/k/3rgo66u) 
 - [【开发者头条】2021-12-19-有赞实时计算-Flink-1.13-升级实践](https://toutiao.io/k/2nhtn7a) 
 - [【开发者头条】2021-12-19-使用损失条件训练优化多个损失函数](https://toutiao.io/k/th3nbxa) 
-- [【开发者头条】2021-12-19-全面了解#中国加密艺术圈、元宇宙和就业](https://toutiao.io/k/ucv12wq) 
 - [【开发者头条】2021-12-19-谁在调试我的代码？](https://toutiao.io/k/4xntjuh) 
+- [【开发者头条】2021-12-19-全面了解#中国加密艺术圈、元宇宙和就业](https://toutiao.io/k/ucv12wq) 
 - [【开发者头条】2021-12-19-js根据经纬度换算行驶里程](https://toutiao.io/k/pzyn5j8) 
 - [【开发者头条】2021-12-19-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [【开发者头条】2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [【开发者头条】2021-12-19-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [【开发者头条】2021-12-19-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [【开发者头条】2021-12-19-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

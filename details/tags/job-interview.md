@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-18 23:54:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-19 00:42:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,4 +7,4 @@
 
 
 
-- [2021-12-18-CURD系统怎么做出技术含量惊艳面试官完善版](https://toutiao.io/k/2jsbhve) 
+- [2021-12-19-惊艳面试官-Java中关于随机数生成8种方式的思考](https://toutiao.io/k/1f0hs2u) 

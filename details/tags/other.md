@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-20 04:31:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-20 04:52:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1518,9 +1518,6 @@
 - [2021-12-20-请教一下关于"离职通知"和"离职申请"](https://www.v2ex.com/t/823258) 
 - [2021-12-20-固态硬盘选择](https://www.v2ex.com/t/823257) 
 - [2021-12-20-蔚来-ET5-值得买吗，跟特斯拉-model-3p-相比](https://www.v2ex.com/t/823255) 
-- [2021-12-20-做过电信、移动、华为乙方的来](https://www.v2ex.com/t/823254) 
-- [2021-12-20-迫于用不惯薄膜键盘，出几乎全新-MX-Keys-全套](https://www.v2ex.com/t/823253) 
-- [2021-12-20-小公司用什么文档管理？便宜或者自建都行](https://www.v2ex.com/t/823252) 
 - [2021-12-20-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-20-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-20-程序员缺乏经验的7种表现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14858&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492736%26amp%3Bidx%3D1%26amp%3Bsn%3D95843308d36bd91d7aa68ddee6c87deb%26amp%3Bchksm%3Dfa3f05dbcd488ccd400925462e6b09f468df29027da6892cd0e60e2daa317a4de539b03716b3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1544,8 +1541,8 @@
 - [2021-12-20-Rust-社区求变，PHP-大旗不倒？](https://toutiao.io/k/syau4nd) 
 - [2021-12-20-高效编程｜Python函数开发的四条原则](https://toutiao.io/k/w3rdrgn) 
 - [2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) 
+- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 

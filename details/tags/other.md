@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-20 22:56:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-20 23:22:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1508,7 +1508,6 @@
 - [2021-12-20-Apple-Watch-解锁-Mac-功能，怎么移除已经不用的手表？](https://www.v2ex.com/t/823416) 
 - [2021-12-20-有哪些以小博大的病毒式产品成功案例？小工具方面更好，谢谢](https://www.v2ex.com/t/823415) 
 - [2021-12-20-问问有多少公司年假是提前补班的？](https://www.v2ex.com/t/823414) 
-- [2021-12-20-性别对立到底有多严重？](https://www.v2ex.com/t/823413) 
 - [2021-12-20-是玻璃心还是真的应该委屈？](https://www.v2ex.com/t/823412) 
 - [2021-12-20-catalina-无法正常关机-2-年了，你们呢？](https://www.v2ex.com/t/823411) 
 - [2021-12-20-零基础学编程应该从哪儿开始？](https://www.v2ex.com/t/823410) 
@@ -1549,8 +1548,8 @@
 - [2021-12-20-高效编程｜Python函数开发的四条原则](https://toutiao.io/k/w3rdrgn) 
 - [2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) 
 - [2021-12-20-ZooKeeper-集群搭建](https://toutiao.io/k/hrryh46) 
-- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [2021-12-20-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 

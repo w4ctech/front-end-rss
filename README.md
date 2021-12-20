@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 07:39:01，:rocket: 更新条数: +1599， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 07:54:42，:rocket: 更新条数: +1597， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,15 +494,15 @@
 </summary>
 
 
+- [2021-12-20-Apple-Pay-无法添加中国工商银行借记卡](https://www.v2ex.com/t/823345) ![](assets/new.png)  
+- [2021-12-20-关于根据版本号改动-API-返回值的问题](https://www.v2ex.com/t/823344) ![](assets/new.png)  
 - [2021-12-20-cdn.jsdelivr.net-当前是不是挂了？](https://www.v2ex.com/t/823343) ![](assets/new.png)  
 - [2021-12-20-希望大家为国产开源软件投下票](https://www.v2ex.com/t/823342) ![](assets/new.png)  
-- [2021-12-20-西安防疫一码通一大早崩了，什么原因？](https://www.v2ex.com/t/823341) ![](assets/new.png)  
 - [2021-12-20-觉得每天自己的时间好短，为啥又穷又忙没钱还没时间](https://www.v2ex.com/t/823340) ![](assets/new.png)  
 - [2021-12-20-薅羊毛！-4-核-8G-服务器+2-核-4G-数据库，到手低于-400-元](https://www.v2ex.com/t/823339) ![](assets/new.png)  
 - [2021-12-20-jsDelivr-一时半会应该是好不了了](https://www.v2ex.com/t/823338) ![](assets/new.png)  
 - [2021-12-20-分享一个维修-AirPods-3-电流声的-timeline](https://www.v2ex.com/t/823337) ![](assets/new.png)  
 - [2021-12-20-各位大佬，怎么能获取-K8S-里面某个-pod-的某个容器的负载呢？](https://www.v2ex.com/t/823336) ![](assets/new.png)  
-- [2021-12-20-某-qiangguo-软件-自动登录-Python-脚本？只要一分。](https://www.v2ex.com/t/823335) ![](assets/new.png)  
 - [2021-12-20-各位程序员大兄弟们，你们都开手动挡还是自动挡？](https://www.v2ex.com/t/823332) ![](assets/new.png)  
 - [2021-12-20-问下-V-友,-reddit-有拉红,-或者标记用户的插件吗](https://www.v2ex.com/t/823331) ![](assets/new.png)  
 - [2021-12-20-办公室-6-人，-2-用青轴，怎么破？](https://www.v2ex.com/t/823330) ![](assets/new.png)  
@@ -575,7 +575,7 @@
 - [2021-12-20-解放生产力「GitHub-热点速览」](https://toutiao.io/k/6ozbddi) ![](assets/new.png)  
 - [2021-12-20-好棒，测试妹子都能看懂的Jenkins-Docker安装教程](https://toutiao.io/k/m4kjrec) ![](assets/new.png)  
 - [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
-- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

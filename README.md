@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 07:54:42，:rocket: 更新条数: +1597， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 08:15:44，:rocket: 更新条数: +1600， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-20-12月19日全国新增新冠102例-四省份本土37例](https://m.caixin.com/m/2021-12-20/101819765.html) ![](assets/new.png)  
+- [2021-12-20-【境内疫情观察】全国新增37例本土病例（12月19日）](https://database.caixin.com/m/2021-12-20/101819939.html) ![](assets/new.png)  
 - [2021-12-20-新变种社区传播3天感染翻倍，辉瑞低龄童疫苗效果不佳｜大流行手记（12月19日）](https://m.caixin.com/m/2021-12-20/101819769.html) ![](assets/new.png)  
 - [2021-12-19-北京通州某画室一学生核酸检测阳性](https://m.caixin.com/m/2021-12-19/101819699.html) ![](assets/new.png)  
 - [2021-12-19-最新海外疫情：新冠感染超2.73亿-累计接种新冠疫苗超86.37亿剂次](https://m.caixin.com/m/2021-12-19/101819721.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-16-【境内疫情观察】浙江绍兴五地调整为高风险地区（12月15日）](https://database.caixin.com/m/2021-12-16/101818588.html) ![](assets/new.png)  
 - [2021-12-16-76个国家报告Omicron病例-韩国日感染人数叠创新高｜大流行手记（12月15日）](https://m.caixin.com/m/2021-12-16/101818454.html) ![](assets/new.png)  
 - [2021-12-16-港大研究：奥密克戎较德尔塔传播速度更快-致病程度或更弱](https://m.caixin.com/m/2021-12-16/101818567.html) ![](assets/new.png)  
-- [2021-12-16-【图集】广东东莞开展全市全员核酸检测](https://photos.caixin.com/m/2021-12-16/101818457.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-20-Teambition-全页面-404](https://www.v2ex.com/t/823349) ![](assets/new.png)  
+- [2021-12-20-西安疫情封城-全员核算-关键时刻一码通崩了](https://www.v2ex.com/t/823348) ![](assets/new.png)  
+- [2021-12-20-今天被组长好心提醒了下，不要过度设计，有点疑惑，问一问大家，大家理性发言](https://www.v2ex.com/t/823347) ![](assets/new.png)  
 - [2021-12-20-Apple-Pay-无法添加中国工商银行借记卡](https://www.v2ex.com/t/823345) ![](assets/new.png)  
 - [2021-12-20-关于根据版本号改动-API-返回值的问题](https://www.v2ex.com/t/823344) ![](assets/new.png)  
 - [2021-12-20-cdn.jsdelivr.net-当前是不是挂了？](https://www.v2ex.com/t/823343) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-20-广州、深圳找云计算售前工程师](https://www.v2ex.com/t/823327) ![](assets/new.png)  
 - [2021-12-20-yaga-duet-2021-OR-matebook-e](https://www.v2ex.com/t/823326) ![](assets/new.png)  
 - [2021-12-20-请各位推荐下-网址压缩-网站](https://www.v2ex.com/t/823325) ![](assets/new.png)  
-- [2021-12-20-迫于年会需要，临时兼编剧写小品剧本](https://www.v2ex.com/t/823324) ![](assets/new.png)  
-- [2021-12-20-我的游戏《魔旅之塔》将要发售了。](https://www.v2ex.com/t/823323) ![](assets/new.png)  
-- [2021-12-20-我的家庭网络拓扑](https://www.v2ex.com/t/823321) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

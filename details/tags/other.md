@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-20 11:39:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-20 11:54:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1547,8 +1547,8 @@
 - [2021-12-20-建木持续集成平台v2.1.0发布](https://toutiao.io/k/3vuie2s) 
 - [2021-12-20-深入剖析全链路灰度技术内幕](https://toutiao.io/k/oft3kz3) 
 - [2021-12-20-ZooKeeper-集群搭建](https://toutiao.io/k/hrryh46) 
-- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
-- [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 

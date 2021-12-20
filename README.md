@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 05:41:38，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 05:54:16，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-20-求助（华为运动手表-gt2-关闭每公里提醒）](https://www.v2ex.com/t/823316) ![](assets/new.png)  
+- [2021-12-20-求教恢复-2010-年-MacBook-Pro-系统的方案](https://www.v2ex.com/t/823315) ![](assets/new.png)  
+- [2021-12-20-这次-log4j2-安全漏洞会不会带来使用商用库的风潮？](https://www.v2ex.com/t/823314) ![](assets/new.png)  
+- [2021-12-20-有没有成功退居二线城市的前辈？求教跑路方法](https://www.v2ex.com/t/823313) ![](assets/new.png)  
 - [2021-12-20-杭州-字节电商-供应链物流团队招人，大量“创世区块”等你“MINT”！已内推-Offer-X-2](https://www.v2ex.com/t/823312) ![](assets/new.png)  
 - [2021-12-20-老了大家会回家乡发展吗](https://www.v2ex.com/t/823310) ![](assets/new.png)  
 - [2021-12-20-要不要应届去体制内](https://www.v2ex.com/t/823309) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-20-小站上线，诚邀大家试用：-https://mo.run](https://www.v2ex.com/t/823291) ![](assets/new.png)  
 - [2021-12-20-我们开源了一个轻量的-Web-IDE-UI-框架---Molecule](https://www.v2ex.com/t/823289) ![](assets/new.png)  
 - [2021-12-20-大佬们，求推荐块移动固态硬盘](https://www.v2ex.com/t/823288) ![](assets/new.png)  
-- [2021-12-20-「上海」抖音电商-Jumanji-前端团队，-hc-充足，欢迎来聊~](https://www.v2ex.com/t/823287) ![](assets/new.png)  
-- [2021-12-20-如何阻止网站在切到其他标签时修改标签标题？](https://www.v2ex.com/t/823286) ![](assets/new.png)  
-- [2021-12-20-已开源-Flutter-腾讯优量汇广告插件，帮助开发者获利---FlutterAds](https://www.v2ex.com/t/823285) ![](assets/new.png)  
-- [2021-12-20-cdn.jsdelivr.net-的证书出问题了吗？](https://www.v2ex.com/t/823284) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,18 +559,18 @@
 - [2021-12-20-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
 - [2021-12-20-自下而上学习容器](https://toutiao.io/k/mqrog98) ![](assets/new.png)  
 - [2021-12-20-api安全测试](https://toutiao.io/k/oogx2ug) ![](assets/new.png)  
-- [2021-12-20-在-KubeSphere-上使用-Chaos-Mesh-进行混沌测试](https://toutiao.io/k/z4x8dp6) ![](assets/new.png)  
 - [2021-12-20-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
+- [2021-12-20-在-KubeSphere-上使用-Chaos-Mesh-进行混沌测试](https://toutiao.io/k/z4x8dp6) ![](assets/new.png)  
 - [2021-12-20-【ClickHouse-技术系列】--ClickHouse-中的嵌套数据结构](https://toutiao.io/k/h72b6rw) ![](assets/new.png)  
 - [2021-12-20-Node.js-进程、线程调试和诊断的设计和实现](https://toutiao.io/k/to2qoc9) ![](assets/new.png)  
 - [2021-12-20-Rust-社区求变，PHP-大旗不倒？](https://toutiao.io/k/syau4nd) ![](assets/new.png)  
 - [2021-12-20-高效编程｜Python函数开发的四条原则](https://toutiao.io/k/w3rdrgn) ![](assets/new.png)  
 - [2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) ![](assets/new.png)  
-- [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
-- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

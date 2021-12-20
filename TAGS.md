@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-20 05:41:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-20 05:54:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -254,7 +254,6 @@
 
 
 
-- [【V2EX】业务-SQL-优化问题](https://www.v2ex.com/t/823263)
 - [【开发者头条】聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -278,6 +277,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)
+- [【V2EX】这次-log4j2-安全漏洞会不会带来使用商用库的风潮？](https://www.v2ex.com/t/823314)
 - [【V2EX】如何如果一个请求-path，找到一个接口定义？](https://www.v2ex.com/t/823277)
 - [【开发者头条】熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5)
 - [【开发者头条】api安全测试](https://toutiao.io/k/oogx2ug)

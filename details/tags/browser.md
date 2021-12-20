@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-20 05:41:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-20 05:54:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,6 +13,7 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2021-09-30-兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/) 
+- [2021-12-20-这次-log4j2-安全漏洞会不会带来使用商用库的风潮？](https://www.v2ex.com/t/823314) 
 - [2021-12-20-如何如果一个请求-path，找到一个接口定义？](https://www.v2ex.com/t/823277) 
 - [2021-12-20-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
 - [2021-12-20-api安全测试](https://toutiao.io/k/oogx2ug) 

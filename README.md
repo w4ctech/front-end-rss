@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 17:55:41，:rocket: 更新条数: +1597， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 18:14:59，:rocket: 更新条数: +1597， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -574,8 +574,8 @@
 - [2021-12-20-好棒，测试妹子都能看懂的Jenkins-Docker安装教程](https://toutiao.io/k/m4kjrec) ![](assets/new.png)  
 - [2021-12-20-ZooKeeper-集群搭建](https://toutiao.io/k/hrryh46) ![](assets/new.png)  
 - [2021-12-20-解放生产力「GitHub-热点速览」](https://toutiao.io/k/6ozbddi) ![](assets/new.png)  
+- [2021-12-20-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
 - [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

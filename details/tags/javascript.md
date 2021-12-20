@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-20 04:57:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-20 05:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,4 +18,3 @@
 - [2021-12-20-cdn.jsdelivr.com-全球空解析?](https://www.v2ex.com/t/823302) 
 - [2021-12-20-cdn.jsdelivr.net-的证书出问题了吗？](https://www.v2ex.com/t/823284) 
 - [2021-12-20-cdn.jsdelivr.net-证书错误](https://www.v2ex.com/t/823281) 
-- [2021-12-20-请问前端js可以控制和切换输入法吗？](https://www.v2ex.com/t/823256) 

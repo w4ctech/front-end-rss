@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-20 04:57:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-20 05:14:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -135,6 +135,12 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-20-巨硬真要杀几个程序员祭天了](https://www.v2ex.com/t/823311) 
+- [【V2EX】2021-12-20-老了大家会回家乡发展吗](https://www.v2ex.com/t/823310) 
+- [【V2EX】2021-12-20-要不要应届去体制内](https://www.v2ex.com/t/823309) 
+- [【V2EX】2021-12-20-沙井华侨城四海云亭-89-平-3-房-2-卫拎包入住-3600-整租，-v-友-3500](https://www.v2ex.com/t/823307) 
+- [【V2EX】2021-12-20-阿里-DNS-这-TTL-1-真是服了](https://www.v2ex.com/t/823306) 
+- [【V2EX】2021-12-20-西安的防疫“一码通”服务今天早上挂掉了，有没有了解其中挂掉原因的小伙伴？](https://www.v2ex.com/t/823305) 
 - [【V2EX】2021-12-20-node.js-能否实现子进程休眠](https://www.v2ex.com/t/823303) 
 - [【V2EX】2021-12-20-cdn.jsdelivr.com-全球空解析?](https://www.v2ex.com/t/823302) 
 - [【V2EX】2021-12-20-远程全职-稳定-React-同学们都来看看~](https://www.v2ex.com/t/823301) 
@@ -168,12 +174,6 @@
 - [【V2EX】2021-12-20-上海-招个前端-日记类-app](https://www.v2ex.com/t/823264) 
 - [【V2EX】2021-12-20-业务-SQL-优化问题](https://www.v2ex.com/t/823263) 
 - [【V2EX】2021-12-20-消费级-的-3D-打印机目前（2021-年底）发展到什么程度？](https://www.v2ex.com/t/823262) 
-- [【V2EX】2021-12-20-iOS-15.2-在-4/5G-网络也会自动上传照片](https://www.v2ex.com/t/823261) 
-- [【V2EX】2021-12-20-Photoshop-有类似-VOUN-app-这样的画框预设吗？](https://www.v2ex.com/t/823259) 
-- [【V2EX】2021-12-20-请教一下关于"离职通知"和"离职申请"](https://www.v2ex.com/t/823258) 
-- [【V2EX】2021-12-20-固态硬盘选择](https://www.v2ex.com/t/823257) 
-- [【V2EX】2021-12-20-请问前端js可以控制和切换输入法吗？](https://www.v2ex.com/t/823256) 
-- [【V2EX】2021-12-20-蔚来-ET5-值得买吗，跟特斯拉-model-3p-相比](https://www.v2ex.com/t/823255) 
 - [【技术头条】2021-12-20-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-20-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-20-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -204,11 +204,11 @@
 - [【开发者头条】2021-12-20-Rust-社区求变，PHP-大旗不倒？](https://toutiao.io/k/syau4nd) 
 - [【开发者头条】2021-12-20-高效编程｜Python函数开发的四条原则](https://toutiao.io/k/w3rdrgn) 
 - [【开发者头条】2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) 
-- [【开发者头条】2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [【开发者头条】2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [【开发者头条】2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [【开发者头条】2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

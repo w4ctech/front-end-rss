@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-20 04:57:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-20 05:14:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -185,7 +185,6 @@
 - [【V2EX】cdn.jsdelivr.com-全球空解析?](https://www.v2ex.com/t/823302)
 - [【V2EX】cdn.jsdelivr.net-的证书出问题了吗？](https://www.v2ex.com/t/823284)
 - [【V2EX】cdn.jsdelivr.net-证书错误](https://www.v2ex.com/t/823281)
-- [【V2EX】请问前端js可以控制和切换输入法吗？](https://www.v2ex.com/t/823256)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

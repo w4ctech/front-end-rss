@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-20 09:13:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-20 09:23:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-20-aws-ivs-问题求教](https://www.v2ex.com/t/823365) 
+- [2021-12-20-西安一码通问题](https://www.v2ex.com/t/823364) 
 - [2021-12-20-美独角兽-远程-高级后端-40-60w](https://www.v2ex.com/t/823363) 
 - [2021-12-20-求推荐：性价比高二手的-mini-主机或者服务器，支持大内存](https://www.v2ex.com/t/823362) 
 - [2021-12-20-分享一个-IPTV-预约录像脚本](https://www.v2ex.com/t/823361) 
@@ -39,6 +41,3 @@
 - [2021-12-20-我的家庭网络拓扑](https://www.v2ex.com/t/823321) 
 - [2021-12-20-求问-M1-MBA/MBP-在-macOS-12.1-下续航如何？](https://www.v2ex.com/t/823319) 
 - [2021-12-20-Monterey12.1-连接-type-c-dock-休眠放电-bug](https://www.v2ex.com/t/823317) 
-- [2021-12-20-求助（华为运动手表-gt2-关闭每公里提醒）](https://www.v2ex.com/t/823316) 
-- [2021-12-20-求教恢复-2010-年-MacBook-Pro-系统的方案](https://www.v2ex.com/t/823315) 
-- [2021-12-20-这次-log4j2-安全漏洞会不会带来使用商用库的风潮？](https://www.v2ex.com/t/823314) 

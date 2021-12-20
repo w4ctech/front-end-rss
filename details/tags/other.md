@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-20 05:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-20 05:22:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1490,6 +1490,7 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-20-杭州-字节电商-供应链物流团队招人，大量“创世区块”等你“MINT”！已内推-Offer-X-2](https://www.v2ex.com/t/823312) 
 - [2021-12-20-巨硬真要杀几个程序员祭天了](https://www.v2ex.com/t/823311) 
 - [2021-12-20-老了大家会回家乡发展吗](https://www.v2ex.com/t/823310) 
 - [2021-12-20-要不要应届去体制内](https://www.v2ex.com/t/823309) 
@@ -1542,8 +1543,8 @@
 - [2021-12-20-Rust-社区求变，PHP-大旗不倒？](https://toutiao.io/k/syau4nd) 
 - [2021-12-20-高效编程｜Python函数开发的四条原则](https://toutiao.io/k/w3rdrgn) 
 - [2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) 
+- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 

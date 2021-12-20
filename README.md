@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 06:53:01，:rocket: 更新条数: +1598， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 07:12:53，:rocket: 更新条数: +1597， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,7 +494,11 @@
 </summary>
 
 
-- [2021-12-20-各位-V-友，你们都开手动挡还是自动挡？](https://www.v2ex.com/t/823332) ![](assets/new.png)  
+- [2021-12-20-jsDelivr-一时半会应该是好不了了](https://www.v2ex.com/t/823338) ![](assets/new.png)  
+- [2021-12-20-分享一个维修-AirPods-3-电流声的-timeline](https://www.v2ex.com/t/823337) ![](assets/new.png)  
+- [2021-12-20-各位大佬，怎么能获取-K8S-里面某个-pod-的某个容器的负载呢？](https://www.v2ex.com/t/823336) ![](assets/new.png)  
+- [2021-12-20-某-qiangguo-软件-自动登录-Python-脚本？只要一分。](https://www.v2ex.com/t/823335) ![](assets/new.png)  
+- [2021-12-20-各位程序员大兄弟们，你们都开手动挡还是自动挡？](https://www.v2ex.com/t/823332) ![](assets/new.png)  
 - [2021-12-20-问下-V-友,-reddit-有拉红,-或者标记用户的插件吗](https://www.v2ex.com/t/823331) ![](assets/new.png)  
 - [2021-12-20-办公室-6-人，-2-用青轴，怎么破？](https://www.v2ex.com/t/823330) ![](assets/new.png)  
 - [2021-12-20-brew-渠道安装的-PHP-去掉了-glib-的依赖。可以手动删除-glib-和-Python-@3.9-了](https://www.v2ex.com/t/823329) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-20-求助（华为运动手表-gt2-关闭每公里提醒）](https://www.v2ex.com/t/823316) ![](assets/new.png)  
 - [2021-12-20-求教恢复-2010-年-MacBook-Pro-系统的方案](https://www.v2ex.com/t/823315) ![](assets/new.png)  
 - [2021-12-20-这次-log4j2-安全漏洞会不会带来使用商用库的风潮？](https://www.v2ex.com/t/823314) ![](assets/new.png)  
-- [2021-12-20-有没有成功退居二线城市的前辈？求教跑路方法](https://www.v2ex.com/t/823313) ![](assets/new.png)  
-- [2021-12-20-杭州-字节电商-供应链物流团队招人，大量“创世区块”等你“MINT”！已内推-Offer-X-2](https://www.v2ex.com/t/823312) ![](assets/new.png)  
-- [2021-12-20-老了大家会回家乡发展吗](https://www.v2ex.com/t/823310) ![](assets/new.png)  
-- [2021-12-20-要不要应届去体制内](https://www.v2ex.com/t/823309) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) ![](assets/new.png)  
 - [2021-12-20-容器技术正在颠覆传统，重构整个软件世界](https://toutiao.io/k/u3v7eo3) ![](assets/new.png)  
 - [2021-12-20-今天，说一说线程池-“动态更新”](https://toutiao.io/k/6md3ev2) ![](assets/new.png)  
-- [2021-12-20-建木持续集成平台v2.1.0发布](https://toutiao.io/k/3vuie2s) ![](assets/new.png)  
-- [2021-12-20-Sentinel-Go-源码系列（三）滑动时间窗口算法的工程实现](https://toutiao.io/k/0k9wpua) ![](assets/new.png)  
 - [2021-12-20-ZooKeeper-集群搭建](https://toutiao.io/k/hrryh46) ![](assets/new.png)  
-- [2021-12-20-好棒，测试妹子都能看懂的Jenkins-Docker安装教程](https://toutiao.io/k/m4kjrec) ![](assets/new.png)  
-- [2021-12-20-解放生产力「GitHub-热点速览」](https://toutiao.io/k/6ozbddi) ![](assets/new.png)  
+- [2021-12-20-建木持续集成平台v2.1.0发布](https://toutiao.io/k/3vuie2s) ![](assets/new.png)  
 - [2021-12-20-深入剖析全链路灰度技术内幕](https://toutiao.io/k/oft3kz3) ![](assets/new.png)  
-- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-20-Sentinel-Go-源码系列（三）滑动时间窗口算法的工程实现](https://toutiao.io/k/0k9wpua) ![](assets/new.png)  
+- [2021-12-20-解放生产力「GitHub-热点速览」](https://toutiao.io/k/6ozbddi) ![](assets/new.png)  
+- [2021-12-20-好棒，测试妹子都能看懂的Jenkins-Docker安装教程](https://toutiao.io/k/m4kjrec) ![](assets/new.png)  
+- [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

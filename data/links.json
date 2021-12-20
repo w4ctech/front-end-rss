@@ -7814,6 +7814,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何从技术走向管理",
+        "link": "https://www.v2ex.com/t/823267",
+        "date": "2021-12-20"
+      },
+      {
+        "title": "2021 年的技术总结与趋势分析，我们访谈了几位开发者",
+        "link": "https://www.v2ex.com/t/823266",
+        "date": "2021-12-20"
+      },
+      {
+        "title": "深圳有没有可以带烧烤架烧烤的地方",
+        "link": "https://www.v2ex.com/t/823265",
+        "date": "2021-12-20"
+      },
+      {
         "title": "[上海] 招个前端 日记类 app",
         "link": "https://www.v2ex.com/t/823264",
         "date": "2021-12-20"
@@ -7992,16 +8007,6 @@
         "title": "今天 xshell 突然抽风了，必须要我更新，但是它的更新程序又提示说已经是最新的版本，感觉很迷惑",
         "link": "https://www.v2ex.com/t/823219",
         "date": "2021-12-20"
-      },
-      {
-        "title": "MacOS 连接 Wireguard 下如何配置多 DNS？",
-        "link": "https://www.v2ex.com/t/823216",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "求问 epub 笔记标记管理问题",
-        "link": "https://www.v2ex.com/t/823215",
-        "date": "2021-12-20"
       }
     ]
   },
@@ -8168,13 +8173,13 @@
         "date": "2021-12-20"
       },
       {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
+        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
+        "link": "https://toutiao.io/k/hrnq79a",
         "date": "2021-12-20"
       },
       {
-        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
-        "link": "https://toutiao.io/k/o3dptn4",
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
         "date": "2021-12-20"
       },
       {
@@ -8183,8 +8188,8 @@
         "date": "2021-12-20"
       },
       {
-        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
-        "link": "https://toutiao.io/k/hrnq79a",
+        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
+        "link": "https://toutiao.io/k/o3dptn4",
         "date": "2021-12-20"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-20 02:51:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-20 03:13:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -135,6 +135,9 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-20-如何从技术走向管理](https://www.v2ex.com/t/823267) 
+- [【V2EX】2021-12-20-2021-年的技术总结与趋势分析，我们访谈了几位开发者](https://www.v2ex.com/t/823266) 
+- [【V2EX】2021-12-20-深圳有没有可以带烧烤架烧烤的地方](https://www.v2ex.com/t/823265) 
 - [【V2EX】2021-12-20-上海-招个前端-日记类-app](https://www.v2ex.com/t/823264) 
 - [【V2EX】2021-12-20-业务-SQL-优化问题](https://www.v2ex.com/t/823263) 
 - [【V2EX】2021-12-20-消费级-的-3D-打印机目前（2021-年底）发展到什么程度？](https://www.v2ex.com/t/823262) 
@@ -171,8 +174,6 @@
 - [【V2EX】2021-12-20-有哪些打飞机的游戏？](https://www.v2ex.com/t/823221) 
 - [【V2EX】2021-12-20-深圳/福州-朴朴超市-社招内推-朴朴科技社招-Java-、前端、产品等岗位](https://www.v2ex.com/t/823220) 
 - [【V2EX】2021-12-20-今天-xshell-突然抽风了，必须要我更新，但是它的更新程序又提示说已经是最新的版本，感觉很迷惑](https://www.v2ex.com/t/823219) 
-- [【V2EX】2021-12-20-MacOS-连接-Wireguard-下如何配置多-DNS？](https://www.v2ex.com/t/823216) 
-- [【V2EX】2021-12-20-求问-epub-笔记标记管理问题](https://www.v2ex.com/t/823215) 
 - [【技术头条】2021-12-20-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-20-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-20-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -203,10 +204,10 @@
 - [【开发者头条】2021-12-20-高效编程｜Python函数开发的四条原则](https://toutiao.io/k/w3rdrgn) 
 - [【开发者头条】2021-12-20-Rust-社区求变，PHP-大旗不倒？](https://toutiao.io/k/syau4nd) 
 - [【开发者头条】2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) 
-- [【开发者头条】2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [【开发者头条】2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [【开发者头条】2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [【开发者头条】2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [【开发者头条】2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

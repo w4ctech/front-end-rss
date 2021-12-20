@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 14:54:38，:rocket: 更新条数: +1600， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 15:13:25，:rocket: 更新条数: +1597， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -316,6 +316,7 @@
 </summary>
 
 
+- [2021-12-20-深入JS-getRandomValue和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) ![](assets/new.png)  
 - [2021-12-13-你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/) ![](assets/new.png)  
 - [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) ![](assets/new.png)  
 - [2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) ![](assets/new.png)  
@@ -325,7 +326,6 @@
 - [2021-10-24-CSS-@counter-style规则详细介绍](https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/) ![](assets/new.png)  
 - [2021-10-08-CSS-content新的替换元素规范行为解读](https://www.zhangxinxu.com/wordpress/2021/10/css-content-url/) ![](assets/new.png)  
 - [2021-09-30-兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/) ![](assets/new.png)  
-- [2021-09-23-HTML-slot-插槽元素深入](https://www.zhangxinxu.com/wordpress/2021/09/html-slot-dom/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -505,7 +505,6 @@
 - [2021-12-20-Android-studio-bug](https://www.v2ex.com/t/823422) ![](assets/new.png)  
 - [2021-12-20-E-宝大镖客太香了](https://www.v2ex.com/t/823421) ![](assets/new.png)  
 - [2021-12-20-购买-GoogleVoice-帐号注意别被骗](https://www.v2ex.com/t/823420) ![](assets/new.png)  
-- [2021-12-20-税款居然是零耶](https://www.v2ex.com/t/823419) ![](assets/new.png)  
 - [2021-12-20-如何评价”抄袭-notion“这件事？](https://www.v2ex.com/t/823418) ![](assets/new.png)  
 - [2021-12-20-Apple-Watch-解锁-Mac-功能，怎么移除已经不用的手表？](https://www.v2ex.com/t/823416) ![](assets/new.png)  
 - [2021-12-20-有哪些以小博大的病毒式产品成功案例？小工具方面更好，谢谢](https://www.v2ex.com/t/823415) ![](assets/new.png)  
@@ -514,6 +513,7 @@
 - [2021-12-20-是玻璃心还是真的应该委屈？](https://www.v2ex.com/t/823412) ![](assets/new.png)  
 - [2021-12-20-catalina-无法正常关机-2-年了，你们呢？](https://www.v2ex.com/t/823411) ![](assets/new.png)  
 - [2021-12-20-零基础学编程应该从哪儿开始？](https://www.v2ex.com/t/823410) ![](assets/new.png)  
+- [2021-12-20-网站碰上李逵和李鬼了，求分辨](https://www.v2ex.com/t/823408) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2021-12-20-Rust-社区求变，PHP-大旗不倒？](https://toutiao.io/k/syau4nd) ![](assets/new.png)  
 - [2021-12-20-高效编程｜Python函数开发的四条原则](https://toutiao.io/k/w3rdrgn) ![](assets/new.png)  
 - [2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) ![](assets/new.png)  
-- [2021-12-20-ZooKeeper-集群搭建](https://toutiao.io/k/hrryh46) ![](assets/new.png)  
 - [2021-12-20-好棒，测试妹子都能看懂的Jenkins-Docker安装教程](https://toutiao.io/k/m4kjrec) ![](assets/new.png)  
+- [2021-12-20-ZooKeeper-集群搭建](https://toutiao.io/k/hrryh46) ![](assets/new.png)  
 - [2021-12-20-解放生产力「GitHub-热点速览」](https://toutiao.io/k/6ozbddi) ![](assets/new.png)  
-- [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
+- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

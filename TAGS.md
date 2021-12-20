@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-20 14:54:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-20 15:13:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -176,6 +176,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】张文宏：怎么看待疫苗接种偶发不良反应事件](https://opinion.caixin.com/m/2021-03-14/101675088.html)
 - [【武汉肺炎防疫全纪录(财新网)】香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html)
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
+- [【张鑫旭-鑫空间-鑫生活】深入JS-getRandomValue和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
 - [【张鑫旭-鑫空间-鑫生活】flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
@@ -292,7 +293,6 @@
 
 
 
-- [【V2EX】有没有哪种非对称算法,生成签名很难,校验很容易](https://www.v2ex.com/t/823387)
 - [【开发者头条】Sentinel-Go-源码系列（三）滑动时间窗口算法的工程实现](https://toutiao.io/k/0k9wpua)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 09:57:33，:rocket: 更新条数: +1597， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 10:14:40，:rocket: 更新条数: +1599， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-20-有人发现-Xcode13.2-也包含了有漏洞的-log4j-代码](https://www.v2ex.com/t/823385) ![](assets/new.png)  
+- [2021-12-20-某量化基金公司-大数据开发工程师-Python-/C++](https://www.v2ex.com/t/823383) ![](assets/new.png)  
+- [2021-12-20-有运行在安卓手机上的安卓虚拟机，且自带-Root-的吗？](https://www.v2ex.com/t/823382) ![](assets/new.png)  
+- [2021-12-20-重构后的-Apple-Music-for-macOS-里面的专辑还会“薛定谔精分”么？](https://www.v2ex.com/t/823381) ![](assets/new.png)  
 - [2021-12-20-如何快速的加密很大的-excel-文件](https://www.v2ex.com/t/823380) ![](assets/new.png)  
 - [2021-12-20-有好的第一手互联网热点-/-薅羊毛-信息网站吗](https://www.v2ex.com/t/823378) ![](assets/new.png)  
 - [2021-12-20-一个换了壳子和左耳的-Airpods-Pro-还能参加声音问题的服务计划吗？](https://www.v2ex.com/t/823377) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-20-求推荐：性价比高二手的-mini-主机或者服务器，支持大内存](https://www.v2ex.com/t/823362) ![](assets/new.png)  
 - [2021-12-20-分享一个-IPTV-预约录像脚本](https://www.v2ex.com/t/823361) ![](assets/new.png)  
 - [2021-12-20-坐标上海，家里小朋友（两岁-2-个月）被电动车撞了，关于定责问题求助。](https://www.v2ex.com/t/823360) ![](assets/new.png)  
-- [2021-12-20-薇娅-13.41-亿](https://www.v2ex.com/t/823359) ![](assets/new.png)  
-- [2021-12-20-远程兼职-寻找-全栈开发工程师](https://www.v2ex.com/t/823358) ![](assets/new.png)  
-- [2021-12-20-mbp-和-iPhone-之间有什么推荐的远程方式](https://www.v2ex.com/t/823357) ![](assets/new.png)  
-- [2021-12-20-感觉自己对抗强度不够，太软弱了，经常被奸商宰，唉](https://www.v2ex.com/t/823356) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,8 +565,8 @@
 - [2021-12-20-Node.js-进程、线程调试和诊断的设计和实现](https://toutiao.io/k/to2qoc9) ![](assets/new.png)  
 - [2021-12-20-今天，说一说线程池-“动态更新”](https://toutiao.io/k/6md3ev2) ![](assets/new.png)  
 - [2021-12-20-Rust-社区求变，PHP-大旗不倒？](https://toutiao.io/k/syau4nd) ![](assets/new.png)  
-- [2021-12-20-高效编程｜Python函数开发的四条原则](https://toutiao.io/k/w3rdrgn) ![](assets/new.png)  
 - [2021-12-20-容器技术正在颠覆传统，重构整个软件世界](https://toutiao.io/k/u3v7eo3) ![](assets/new.png)  
+- [2021-12-20-高效编程｜Python函数开发的四条原则](https://toutiao.io/k/w3rdrgn) ![](assets/new.png)  
 - [2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) ![](assets/new.png)  
 - [2021-12-20-Sentinel-Go-源码系列（三）滑动时间窗口算法的工程实现](https://toutiao.io/k/0k9wpua) ![](assets/new.png)  
 - [2021-12-20-深入剖析全链路灰度技术内幕](https://toutiao.io/k/oft3kz3) ![](assets/new.png)  
@@ -574,8 +574,8 @@
 - [2021-12-20-好棒，测试妹子都能看懂的Jenkins-Docker安装教程](https://toutiao.io/k/m4kjrec) ![](assets/new.png)  
 - [2021-12-20-解放生产力「GitHub-热点速览」](https://toutiao.io/k/6ozbddi) ![](assets/new.png)  
 - [2021-12-20-ZooKeeper-集群搭建](https://toutiao.io/k/hrryh46) ![](assets/new.png)  
-- [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

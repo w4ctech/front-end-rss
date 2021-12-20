@@ -7819,6 +7819,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有人发现 Xcode13.2 也包含了有漏洞的 log4j 代码",
+        "link": "https://www.v2ex.com/t/823385",
+        "date": "2021-12-20"
+      },
+      {
+        "title": "某量化基金公司-大数据开发工程师( Python /C++)",
+        "link": "https://www.v2ex.com/t/823383",
+        "date": "2021-12-20"
+      },
+      {
+        "title": "有运行在安卓手机上的安卓虚拟机，且自带 Root 的吗？",
+        "link": "https://www.v2ex.com/t/823382",
+        "date": "2021-12-20"
+      },
+      {
+        "title": "重构后的 Apple Music for macOS 里面的专辑还会“薛定谔精分”么？",
+        "link": "https://www.v2ex.com/t/823381",
+        "date": "2021-12-20"
+      },
+      {
         "title": "如何快速的加密很大的 excel 文件",
         "link": "https://www.v2ex.com/t/823380",
         "date": "2021-12-20"
@@ -7982,16 +8002,6 @@
         "title": "各位大佬，怎么能获取 K8S 里面某个 pod 的某个容器的负载呢？",
         "link": "https://www.v2ex.com/t/823336",
         "date": "2021-12-20"
-      },
-      {
-        "title": "各位程序员大兄弟们，你们都开手动挡还是自动挡？",
-        "link": "https://www.v2ex.com/t/823332",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "问下 V 友, reddit 有拉红, 或者标记用户的插件吗",
-        "link": "https://www.v2ex.com/t/823331",
-        "date": "2021-12-20"
       }
     ]
   },
@@ -8153,13 +8163,13 @@
         "date": "2021-12-20"
       },
       {
-        "title": "高效编程｜Python函数开发的四条原则",
-        "link": "https://toutiao.io/k/w3rdrgn",
+        "title": "容器技术正在颠覆传统，重构整个软件世界",
+        "link": "https://toutiao.io/k/u3v7eo3",
         "date": "2021-12-20"
       },
       {
-        "title": "容器技术正在颠覆传统，重构整个软件世界",
-        "link": "https://toutiao.io/k/u3v7eo3",
+        "title": "高效编程｜Python函数开发的四条原则",
+        "link": "https://toutiao.io/k/w3rdrgn",
         "date": "2021-12-20"
       },
       {
@@ -8198,13 +8208,13 @@
         "date": "2021-12-20"
       },
       {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
+        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
+        "link": "https://toutiao.io/k/hrnq79a",
         "date": "2021-12-20"
       },
       {
-        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
-        "link": "https://toutiao.io/k/hrnq79a",
+        "title": "[推荐] 深入剖析全链路灰度技术内幕",
+        "link": "https://toutiao.io/k/zimpz4c",
         "date": "2021-12-20"
       },
       {
@@ -8213,8 +8223,8 @@
         "date": "2021-12-20"
       },
       {
-        "title": "[推荐] 深入剖析全链路灰度技术内幕",
-        "link": "https://toutiao.io/k/zimpz4c",
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
         "date": "2021-12-20"
       },
       {

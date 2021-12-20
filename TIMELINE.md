@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-20 10:25:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-20 10:43:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -136,6 +136,8 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-20-有没有-开源-自建-网页端处理用户需求-的项目？](https://www.v2ex.com/t/823392) 
+- [【V2EX】2021-12-20-有无快速图片转一份-PPT-的工具？](https://www.v2ex.com/t/823391) 
 - [【V2EX】2021-12-20-Mac-book-air-128G-硬盘扩容-换了-HP-的-500G-M2-固态硬盘](https://www.v2ex.com/t/823389) 
 - [【V2EX】2021-12-20-有没有哪种非对称算法,生成签名很难,校验很容易](https://www.v2ex.com/t/823387) 
 - [【V2EX】2021-12-20-12.1,-自动深色模式失效？](https://www.v2ex.com/t/823386) 
@@ -166,8 +168,6 @@
 - [【V2EX】2021-12-20-Apple-Pay-无法添加中国工商银行借记卡](https://www.v2ex.com/t/823345) 
 - [【V2EX】2021-12-20-关于根据版本号改动-API-返回值的问题](https://www.v2ex.com/t/823344) 
 - [【V2EX】2021-12-20-cdn.jsdelivr.net-当前是不是挂了？](https://www.v2ex.com/t/823343) 
-- [【V2EX】2021-12-20-希望大家为国产开源软件投下票](https://www.v2ex.com/t/823342) 
-- [【V2EX】2021-12-20-觉得每天自己的时间好短，为啥又穷又忙没钱还没时间](https://www.v2ex.com/t/823340) 
 - [【技术头条】2021-12-20-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-20-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-20-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -194,8 +194,8 @@
 - [【开发者头条】2021-12-20-api安全测试](https://toutiao.io/k/oogx2ug) 
 - [【开发者头条】2021-12-20-在-KubeSphere-上使用-Chaos-Mesh-进行混沌测试](https://toutiao.io/k/z4x8dp6) 
 - [【开发者头条】2021-12-20-【ClickHouse-技术系列】--ClickHouse-中的嵌套数据结构](https://toutiao.io/k/h72b6rw) 
-- [【开发者头条】2021-12-20-Node.js-进程、线程调试和诊断的设计和实现](https://toutiao.io/k/to2qoc9) 
 - [【开发者头条】2021-12-20-今天，说一说线程池-“动态更新”](https://toutiao.io/k/6md3ev2) 
+- [【开发者头条】2021-12-20-Node.js-进程、线程调试和诊断的设计和实现](https://toutiao.io/k/to2qoc9) 
 - [【开发者头条】2021-12-20-容器技术正在颠覆传统，重构整个软件世界](https://toutiao.io/k/u3v7eo3) 
 - [【开发者头条】2021-12-20-Rust-社区求变，PHP-大旗不倒？](https://toutiao.io/k/syau4nd) 
 - [【开发者头条】2021-12-20-高效编程｜Python函数开发的四条原则](https://toutiao.io/k/w3rdrgn) 
@@ -203,14 +203,14 @@
 - [【开发者头条】2021-12-20-Sentinel-Go-源码系列（三）滑动时间窗口算法的工程实现](https://toutiao.io/k/0k9wpua) 
 - [【开发者头条】2021-12-20-建木持续集成平台v2.1.0发布](https://toutiao.io/k/3vuie2s) 
 - [【开发者头条】2021-12-20-深入剖析全链路灰度技术内幕](https://toutiao.io/k/oft3kz3) 
-- [【开发者头条】2021-12-20-解放生产力「GitHub-热点速览」](https://toutiao.io/k/6ozbddi) 
 - [【开发者头条】2021-12-20-好棒，测试妹子都能看懂的Jenkins-Docker安装教程](https://toutiao.io/k/m4kjrec) 
+- [【开发者头条】2021-12-20-解放生产力「GitHub-热点速览」](https://toutiao.io/k/6ozbddi) 
 - [【开发者头条】2021-12-20-ZooKeeper-集群搭建](https://toutiao.io/k/hrryh46) 
-- [【开发者头条】2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [【开发者头条】2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [【开发者头条】2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [【开发者头条】2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
-- [【开发者头条】2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

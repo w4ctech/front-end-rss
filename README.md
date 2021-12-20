@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 03:13:50，:rocket: 更新条数: +1591， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 03:23:31，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-20-不懂就问，为啥要关掉交换内存](https://www.v2ex.com/t/823272) ![](assets/new.png)  
+- [2021-12-20-台式机箱硬盘声音过大，有没有好的解决办法](https://www.v2ex.com/t/823268) ![](assets/new.png)  
 - [2021-12-20-如何从技术走向管理](https://www.v2ex.com/t/823267) ![](assets/new.png)  
 - [2021-12-20-2021-年的技术总结与趋势分析，我们访谈了几位开发者](https://www.v2ex.com/t/823266) ![](assets/new.png)  
 - [2021-12-20-深圳有没有可以带烧烤架烧烤的地方](https://www.v2ex.com/t/823265) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-20-mini-主机求推荐](https://www.v2ex.com/t/823249) ![](assets/new.png)  
 - [2021-12-20-西安的出血热疫情，感觉生活卫生普及还不够？](https://www.v2ex.com/t/823248) ![](assets/new.png)  
 - [2021-12-20-阿里云迷惑行为](https://www.v2ex.com/t/823247) ![](assets/new.png)  
-- [2021-12-20-迅雷超级会员](https://www.v2ex.com/t/823246) ![](assets/new.png)  
-- [2021-12-20-开源/远程-RSS3-提供最酷最理想最自由的工作-|-特别召唤：移动端安卓开发工程师](https://www.v2ex.com/t/823245) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,9 +567,9 @@
 - [2021-12-20-Rust-社区求变，PHP-大旗不倒？](https://toutiao.io/k/syau4nd) ![](assets/new.png)  
 - [2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) ![](assets/new.png)  
 - [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

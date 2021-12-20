@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 03:23:31，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 03:41:46，:rocket: 更新条数: +1592， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,14 @@
 </summary>
 
 
+- [2021-12-20-招-PHPer-有感](https://www.v2ex.com/t/823282) ![](assets/new.png)  
+- [2021-12-20-cdn.jsdelivr.net-证书错误](https://www.v2ex.com/t/823281) ![](assets/new.png)  
+- [2021-12-20-上线了新款编辑器](https://www.v2ex.com/t/823279) ![](assets/new.png)  
+- [2021-12-20-有什么好的文档或文件加密软件吗](https://www.v2ex.com/t/823278) ![](assets/new.png)  
+- [2021-12-20-如何如果一个请求-path，找到一个接口定义？](https://www.v2ex.com/t/823277) ![](assets/new.png)  
+- [2021-12-20-目前安卓平板想搞个简单的-IDE-环境有什么方案吗](https://www.v2ex.com/t/823276) ![](assets/new.png)  
+- [2021-12-20-好奇-，普通人在资产到-10w-50w-100w-是怎么累积的](https://www.v2ex.com/t/823275) ![](assets/new.png)  
+- [2021-12-20-0x3:-时隔三年，我终于更新了那个导航网站。](https://www.v2ex.com/t/823274) ![](assets/new.png)  
 - [2021-12-20-不懂就问，为啥要关掉交换内存](https://www.v2ex.com/t/823272) ![](assets/new.png)  
 - [2021-12-20-台式机箱硬盘声音过大，有没有好的解决办法](https://www.v2ex.com/t/823268) ![](assets/new.png)  
 - [2021-12-20-如何从技术走向管理](https://www.v2ex.com/t/823267) ![](assets/new.png)  
@@ -506,14 +514,6 @@
 - [2021-12-20-Photoshop-有类似-VOUN-app-这样的画框预设吗？](https://www.v2ex.com/t/823259) ![](assets/new.png)  
 - [2021-12-20-请教一下关于"离职通知"和"离职申请"](https://www.v2ex.com/t/823258) ![](assets/new.png)  
 - [2021-12-20-固态硬盘选择](https://www.v2ex.com/t/823257) ![](assets/new.png)  
-- [2021-12-20-请问前端js可以控制和切换输入法吗？](https://www.v2ex.com/t/823256) ![](assets/new.png)  
-- [2021-12-20-蔚来-ET5-值得买吗，跟特斯拉-model-3p-相比](https://www.v2ex.com/t/823255) ![](assets/new.png)  
-- [2021-12-20-做过电信、移动、华为乙方的来](https://www.v2ex.com/t/823254) ![](assets/new.png)  
-- [2021-12-20-迫于用不惯薄膜键盘，出几乎全新-MX-Keys-全套](https://www.v2ex.com/t/823253) ![](assets/new.png)  
-- [2021-12-20-小公司用什么文档管理？便宜或者自建都行](https://www.v2ex.com/t/823252) ![](assets/new.png)  
-- [2021-12-20-mini-主机求推荐](https://www.v2ex.com/t/823249) ![](assets/new.png)  
-- [2021-12-20-西安的出血热疫情，感觉生活卫生普及还不够？](https://www.v2ex.com/t/823248) ![](assets/new.png)  
-- [2021-12-20-阿里云迷惑行为](https://www.v2ex.com/t/823247) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,8 +566,9 @@
 - [2021-12-20-高效编程｜Python函数开发的四条原则](https://toutiao.io/k/w3rdrgn) ![](assets/new.png)  
 - [2021-12-20-Rust-社区求变，PHP-大旗不倒？](https://toutiao.io/k/syau4nd) ![](assets/new.png)  
 - [2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) ![](assets/new.png)  
-- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
 - [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

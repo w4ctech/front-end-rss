@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 02:15:37，:rocket: 更新条数: +1589， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 02:41:48，:rocket: 更新条数: +1590， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,16 @@
 </summary>
 
 
+- [2021-12-20-Photoshop-有类似-VOUN-app-这样的画框预设吗？](https://www.v2ex.com/t/823259) ![](assets/new.png)  
+- [2021-12-20-请教一下关于"离职通知"和"离职申请"](https://www.v2ex.com/t/823258) ![](assets/new.png)  
+- [2021-12-20-固态硬盘选择](https://www.v2ex.com/t/823257) ![](assets/new.png)  
+- [2021-12-20-请问前端js可以控制和切换输入法吗？](https://www.v2ex.com/t/823256) ![](assets/new.png)  
+- [2021-12-20-蔚来-ET5-值得买吗，跟特斯拉-model-3p-相比](https://www.v2ex.com/t/823255) ![](assets/new.png)  
+- [2021-12-20-做过电信、移动、华为乙方的来](https://www.v2ex.com/t/823254) ![](assets/new.png)  
+- [2021-12-20-迫于用不惯薄膜键盘，出几乎全新-MX-Keys-全套](https://www.v2ex.com/t/823253) ![](assets/new.png)  
+- [2021-12-20-小公司用什么文档管理？便宜或者自建都行](https://www.v2ex.com/t/823252) ![](assets/new.png)  
+- [2021-12-20-mini-主机求推荐](https://www.v2ex.com/t/823249) ![](assets/new.png)  
+- [2021-12-20-西安的出血热疫情，感觉生活卫生普及还不够？](https://www.v2ex.com/t/823248) ![](assets/new.png)  
 - [2021-12-20-阿里云迷惑行为](https://www.v2ex.com/t/823247) ![](assets/new.png)  
 - [2021-12-20-迅雷超级会员](https://www.v2ex.com/t/823246) ![](assets/new.png)  
 - [2021-12-20-开源/远程-RSS3-提供最酷最理想最自由的工作-|-特别召唤：移动端安卓开发工程师](https://www.v2ex.com/t/823245) ![](assets/new.png)  
@@ -504,16 +514,6 @@
 - [2021-12-20-区块链开发-VS-容器云开发，哪个方向更有利于长期发展？](https://www.v2ex.com/t/823237) ![](assets/new.png)  
 - [2021-12-20-Play-Pass-订阅不了了](https://www.v2ex.com/t/823236) ![](assets/new.png)  
 - [2021-12-20-Beerus-发布-1.1.3](https://www.v2ex.com/t/823235) ![](assets/new.png)  
-- [2021-12-20-有人知道-QQ-for-Linux-还有在开发吗？](https://www.v2ex.com/t/823234) ![](assets/new.png)  
-- [2021-12-20-现在有哪些借款利率低的渠道啊？](https://www.v2ex.com/t/823233) ![](assets/new.png)  
-- [2021-12-20-还有没有类似-mo.fish-这类的网站推荐](https://www.v2ex.com/t/823232) ![](assets/new.png)  
-- [2021-12-20-有人玩过-XenServer-虚拟化吗](https://www.v2ex.com/t/823231) ![](assets/new.png)  
-- [2021-12-20-救救我，-outlook-验证机器人旋转图片正确朝上我试了十分钟没对！](https://www.v2ex.com/t/823228) ![](assets/new.png)  
-- [2021-12-20-请教个问题，基于物联网的链路追踪怎么做](https://www.v2ex.com/t/823227) ![](assets/new.png)  
-- [2021-12-20-M1-mac-mini-待机就是-4-5G](https://www.v2ex.com/t/823226) ![](assets/new.png)  
-- [2021-12-20-连续约会了两天，也蛮累的](https://www.v2ex.com/t/823224) ![](assets/new.png)  
-- [2021-12-20-自愿化身一条固执的鱼-3](https://www.v2ex.com/t/823222) ![](assets/new.png)  
-- [2021-12-20-有哪些打飞机的游戏？](https://www.v2ex.com/t/823221) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 
 - [2021-12-20-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
 - [2021-12-20-自下而上学习容器](https://toutiao.io/k/mqrog98) ![](assets/new.png)  
-- [2021-12-20-api安全测试](https://toutiao.io/k/oogx2ug) ![](assets/new.png)  
 - [2021-12-20-在-KubeSphere-上使用-Chaos-Mesh-进行混沌测试](https://toutiao.io/k/z4x8dp6) ![](assets/new.png)  
+- [2021-12-20-api安全测试](https://toutiao.io/k/oogx2ug) ![](assets/new.png)  
 - [2021-12-20-【ClickHouse-技术系列】--ClickHouse-中的嵌套数据结构](https://toutiao.io/k/h72b6rw) ![](assets/new.png)  
 - [2021-12-20-Node.js-进程、线程调试和诊断的设计和实现](https://toutiao.io/k/to2qoc9) ![](assets/new.png)  
 - [2021-12-20-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
@@ -567,8 +567,8 @@
 - [2021-12-20-Rust-社区求变，PHP-大旗不倒？](https://toutiao.io/k/syau4nd) ![](assets/new.png)  
 - [2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) ![](assets/new.png)  
 - [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
-- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

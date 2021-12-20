@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 07:21:48，:rocket: 更新条数: +1598， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 07:39:01，:rocket: 更新条数: +1599， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-20-cdn.jsdelivr.net-当前是不是挂了？](https://www.v2ex.com/t/823343) ![](assets/new.png)  
+- [2021-12-20-希望大家为国产开源软件投下票](https://www.v2ex.com/t/823342) ![](assets/new.png)  
 - [2021-12-20-西安防疫一码通一大早崩了，什么原因？](https://www.v2ex.com/t/823341) ![](assets/new.png)  
 - [2021-12-20-觉得每天自己的时间好短，为啥又穷又忙没钱还没时间](https://www.v2ex.com/t/823340) ![](assets/new.png)  
 - [2021-12-20-薅羊毛！-4-核-8G-服务器+2-核-4G-数据库，到手低于-400-元](https://www.v2ex.com/t/823339) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-20-迫于年会需要，临时兼编剧写小品剧本](https://www.v2ex.com/t/823324) ![](assets/new.png)  
 - [2021-12-20-我的游戏《魔旅之塔》将要发售了。](https://www.v2ex.com/t/823323) ![](assets/new.png)  
 - [2021-12-20-我的家庭网络拓扑](https://www.v2ex.com/t/823321) ![](assets/new.png)  
-- [2021-12-20-求问-M1-MBA/MBP-在-macOS-12.1-下续航如何？](https://www.v2ex.com/t/823319) ![](assets/new.png)  
-- [2021-12-20-Monterey12.1-连接-type-c-dock-休眠放电-bug](https://www.v2ex.com/t/823317) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2021-12-20-深入剖析全链路灰度技术内幕](https://toutiao.io/k/oft3kz3) ![](assets/new.png)  
 - [2021-12-20-解放生产力「GitHub-热点速览」](https://toutiao.io/k/6ozbddi) ![](assets/new.png)  
 - [2021-12-20-好棒，测试妹子都能看懂的Jenkins-Docker安装教程](https://toutiao.io/k/m4kjrec) ![](assets/new.png)  
-- [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
+- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

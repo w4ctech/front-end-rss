@@ -7814,6 +7814,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "cdn.jsdelivr.net 当前是不是挂了？",
+        "link": "https://www.v2ex.com/t/823343",
+        "date": "2021-12-20"
+      },
+      {
+        "title": "希望大家为国产开源软件投下票",
+        "link": "https://www.v2ex.com/t/823342",
+        "date": "2021-12-20"
+      },
+      {
         "title": "西安防疫一码通一大早崩了，什么原因？",
         "link": "https://www.v2ex.com/t/823341",
         "date": "2021-12-20"
@@ -7991,11 +8001,6 @@
       {
         "title": "问大家一个问题，公司要上新技术，员工有必要在家里学习这个吗，假设没搞懂新技术",
         "link": "https://www.v2ex.com/t/823294",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "mbp 等了 7 周 终于到货了 目前碰到一个问题",
-        "link": "https://www.v2ex.com/t/823292",
         "date": "2021-12-20"
       }
     ]
@@ -8203,13 +8208,8 @@
         "date": "2021-12-20"
       },
       {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
-        "link": "https://toutiao.io/k/hrnq79a",
+        "title": "[推荐] 深入剖析全链路灰度技术内幕",
+        "link": "https://toutiao.io/k/zimpz4c",
         "date": "2021-12-20"
       },
       {
@@ -8218,13 +8218,18 @@
         "date": "2021-12-20"
       },
       {
-        "title": "[推荐] 深入剖析全链路灰度技术内幕",
-        "link": "https://toutiao.io/k/zimpz4c",
+        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
+        "link": "https://toutiao.io/k/o3dptn4",
         "date": "2021-12-20"
       },
       {
-        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
-        "link": "https://toutiao.io/k/o3dptn4",
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
+        "date": "2021-12-20"
+      },
+      {
+        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
+        "link": "https://toutiao.io/k/hrnq79a",
         "date": "2021-12-20"
       }
     ]

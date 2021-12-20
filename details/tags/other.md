@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-20 00:40:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-20 01:11:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1489,6 +1489,9 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-20-自愿化身一条固执的鱼-3](https://www.v2ex.com/t/823222) 
+- [2021-12-20-深圳/福州-朴朴超市-社招内推-朴朴科技社招-Java-、前端、产品等岗位](https://www.v2ex.com/t/823220) 
+- [2021-12-20-今天-xshell-突然抽风了，必须要我更新，但是它的更新程序又提示说已经是最新的版本，感觉很迷惑](https://www.v2ex.com/t/823219) 
 - [2021-12-20-MacOS-连接-Wireguard-下如何配置多-DNS？](https://www.v2ex.com/t/823216) 
 - [2021-12-20-求问-epub-笔记标记管理问题](https://www.v2ex.com/t/823215) 
 - [2021-12-20-求推荐一款红茶](https://www.v2ex.com/t/823214) 
@@ -1513,7 +1516,6 @@
 - [2021-12-19-准备起诉-JD，请教一下各位大佬有什么需要注意的地方吗？-PS：输了无所谓主要是客服和第三方商家勾结起来让人恶心](https://www.v2ex.com/t/823179) 
 - [2021-12-19-实验室服务器大家都是怎么管理使用的？](https://www.v2ex.com/t/823176) 
 - [2021-12-19-使用-librime-做输入法，在运行过程中能动态修改配置吗？](https://www.v2ex.com/t/823174) 
-- [2021-12-19-打算购入-MacBook-Pro14-丐版（教育优惠），大家分享一下如何快速到手？](https://www.v2ex.com/t/823171) 
 - [2021-12-20-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-20-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-20-程序员缺乏经验的7种表现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14858&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492736%26amp%3Bidx%3D1%26amp%3Bsn%3D95843308d36bd91d7aa68ddee6c87deb%26amp%3Bchksm%3Dfa3f05dbcd488ccd400925462e6b09f468df29027da6892cd0e60e2daa317a4de539b03716b3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1531,11 +1533,10 @@
 - [2021-12-20-如何用Python爬取网易云音乐歌单-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14844&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492682%26amp%3Bidx%3D1%26amp%3Bsn%3Dbbabd4fdf5e5e8e54e93d63986af2286%26amp%3Bchksm%3Dfa3f0511cd488c07589fb7180c8d27360a0739512021b8b614f9395b0bb46983ac6f14a1df9b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-20-Java开发者最值得学习的14项技能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14843&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492682%26amp%3Bidx%3D2%26amp%3Bsn%3D045b1cf2359e675669f3bd8252b7d486%26amp%3Bchksm%3Dfa3f0511cd488c07b9dfe747fb8884734eaec1f357e3b59b41c6f71d185b1ccd44935d745f85%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-20-Google封禁了近12万名开发者账户-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14842&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492619%26amp%3Bidx%3D1%26amp%3Bsn%3D7897b7904ff7fb72d4ba988e92fe098a%26amp%3Bchksm%3Dfa3f0550cd488c46190d4a6f34328588b99aa168f8d5f00220a6cbc71176f76cbe5d7f7c4a7c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2021-12-20-121-python|第一部分：python核心（五-）容器2](https://toutiao.io/k/7voaej9) 
-- [2021-12-20-在-KubeSphere-上使用-Chaos-Mesh-进行混沌测试](https://toutiao.io/k/z4x8dp6) 
 - [2021-12-20-自下而上学习容器](https://toutiao.io/k/mqrog98) 
 - [2021-12-20-【ClickHouse-技术系列】--ClickHouse-中的嵌套数据结构](https://toutiao.io/k/h72b6rw) 
+- [2021-12-20-在-KubeSphere-上使用-Chaos-Mesh-进行混沌测试](https://toutiao.io/k/z4x8dp6) 
 - [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 

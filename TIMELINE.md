@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-20 14:12:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-20 14:20:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -211,11 +211,11 @@
 - [【开发者头条】2021-12-20-ZooKeeper-集群搭建](https://toutiao.io/k/hrryh46) 
 - [【开发者头条】2021-12-20-好棒，测试妹子都能看懂的Jenkins-Docker安装教程](https://toutiao.io/k/m4kjrec) 
 - [【开发者头条】2021-12-20-解放生产力「GitHub-热点速览」](https://toutiao.io/k/6ozbddi) 
-- [【开发者头条】2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
-- [【开发者头条】2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [【开发者头条】2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

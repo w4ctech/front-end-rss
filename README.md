@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 10:14:40，:rocket: 更新条数: +1599， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 10:25:20，:rocket: 更新条数: +1594， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,22 +494,22 @@
 </summary>
 
 
+- [2021-12-20-Mac-book-air-128G-硬盘扩容-换了-HP-的-500G-M2-固态硬盘](https://www.v2ex.com/t/823389) ![](assets/new.png)  
+- [2021-12-20-有没有哪种非对称算法,生成签名很难,校验很容易](https://www.v2ex.com/t/823387) ![](assets/new.png)  
+- [2021-12-20-12.1,-自动深色模式失效？](https://www.v2ex.com/t/823386) ![](assets/new.png)  
 - [2021-12-20-有人发现-Xcode13.2-也包含了有漏洞的-log4j-代码](https://www.v2ex.com/t/823385) ![](assets/new.png)  
 - [2021-12-20-某量化基金公司-大数据开发工程师-Python-/C++](https://www.v2ex.com/t/823383) ![](assets/new.png)  
 - [2021-12-20-有运行在安卓手机上的安卓虚拟机，且自带-Root-的吗？](https://www.v2ex.com/t/823382) ![](assets/new.png)  
 - [2021-12-20-重构后的-Apple-Music-for-macOS-里面的专辑还会“薛定谔精分”么？](https://www.v2ex.com/t/823381) ![](assets/new.png)  
 - [2021-12-20-如何快速的加密很大的-excel-文件](https://www.v2ex.com/t/823380) ![](assets/new.png)  
-- [2021-12-20-有好的第一手互联网热点-/-薅羊毛-信息网站吗](https://www.v2ex.com/t/823378) ![](assets/new.png)  
 - [2021-12-20-一个换了壳子和左耳的-Airpods-Pro-还能参加声音问题的服务计划吗？](https://www.v2ex.com/t/823377) ![](assets/new.png)  
 - [2021-12-20-请教-V-友们一个房屋质量维权的问题](https://www.v2ex.com/t/823376) ![](assets/new.png)  
 - [2021-12-20-杭州、上海-行芯-软件研发工程师-算法工程师-产品开发工程师](https://www.v2ex.com/t/823375) ![](assets/new.png)  
 - [2021-12-20-老爸生日送啥好呢？](https://www.v2ex.com/t/823374) ![](assets/new.png)  
-- [2021-12-20-直男有错吗？](https://www.v2ex.com/t/823371) ![](assets/new.png)  
 - [2021-12-20-C++前后端数据#量化私募#高薪行业](https://www.v2ex.com/t/823370) ![](assets/new.png)  
 - [2021-12-20-Chome-频繁出现“无法翻译此网页”问题](https://www.v2ex.com/t/823369) ![](assets/new.png)  
 - [2021-12-20-各位年假用完了吗？](https://www.v2ex.com/t/823368) ![](assets/new.png)  
 - [2021-12-20-aws-ivs-问题求教](https://www.v2ex.com/t/823365) ![](assets/new.png)  
-- [2021-12-20-西安一码通问题](https://www.v2ex.com/t/823364) ![](assets/new.png)  
 - [2021-12-20-美独角兽-远程-高级后端-40-60w](https://www.v2ex.com/t/823363) ![](assets/new.png)  
 - [2021-12-20-求推荐：性价比高二手的-mini-主机或者服务器，支持大内存](https://www.v2ex.com/t/823362) ![](assets/new.png)  
 - [2021-12-20-分享一个-IPTV-预约录像脚本](https://www.v2ex.com/t/823361) ![](assets/new.png)  
@@ -564,17 +564,17 @@
 - [2021-12-20-【ClickHouse-技术系列】--ClickHouse-中的嵌套数据结构](https://toutiao.io/k/h72b6rw) ![](assets/new.png)  
 - [2021-12-20-Node.js-进程、线程调试和诊断的设计和实现](https://toutiao.io/k/to2qoc9) ![](assets/new.png)  
 - [2021-12-20-今天，说一说线程池-“动态更新”](https://toutiao.io/k/6md3ev2) ![](assets/new.png)  
-- [2021-12-20-Rust-社区求变，PHP-大旗不倒？](https://toutiao.io/k/syau4nd) ![](assets/new.png)  
 - [2021-12-20-容器技术正在颠覆传统，重构整个软件世界](https://toutiao.io/k/u3v7eo3) ![](assets/new.png)  
+- [2021-12-20-Rust-社区求变，PHP-大旗不倒？](https://toutiao.io/k/syau4nd) ![](assets/new.png)  
 - [2021-12-20-高效编程｜Python函数开发的四条原则](https://toutiao.io/k/w3rdrgn) ![](assets/new.png)  
 - [2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) ![](assets/new.png)  
 - [2021-12-20-Sentinel-Go-源码系列（三）滑动时间窗口算法的工程实现](https://toutiao.io/k/0k9wpua) ![](assets/new.png)  
-- [2021-12-20-深入剖析全链路灰度技术内幕](https://toutiao.io/k/oft3kz3) ![](assets/new.png)  
 - [2021-12-20-建木持续集成平台v2.1.0发布](https://toutiao.io/k/3vuie2s) ![](assets/new.png)  
-- [2021-12-20-好棒，测试妹子都能看懂的Jenkins-Docker安装教程](https://toutiao.io/k/m4kjrec) ![](assets/new.png)  
+- [2021-12-20-深入剖析全链路灰度技术内幕](https://toutiao.io/k/oft3kz3) ![](assets/new.png)  
 - [2021-12-20-解放生产力「GitHub-热点速览」](https://toutiao.io/k/6ozbddi) ![](assets/new.png)  
+- [2021-12-20-好棒，测试妹子都能看懂的Jenkins-Docker安装教程](https://toutiao.io/k/m4kjrec) ![](assets/new.png)  
 - [2021-12-20-ZooKeeper-集群搭建](https://toutiao.io/k/hrryh46) ![](assets/new.png)  
-- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

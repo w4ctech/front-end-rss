@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-20 23:22:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-20 23:39:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1491,6 +1491,7 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-20-多个-TPM-模块能不能串联？](https://www.v2ex.com/t/823444) 
 - [2021-12-20-arXiv-不想上传源码，只提交-pdf-有什么好办法不被拒绝吗？](https://www.v2ex.com/t/823442) 
 - [2021-12-20-求个-app-就是输入两种不同重量的商品对比哪个购买最划算，大佬们知道吗记得以前有个小工具箱-app-忘记叫什么了](https://www.v2ex.com/t/823441) 
 - [2021-12-20-求助，德州联通工作环境如何？](https://www.v2ex.com/t/823440) 
@@ -1548,8 +1549,8 @@
 - [2021-12-20-高效编程｜Python函数开发的四条原则](https://toutiao.io/k/w3rdrgn) 
 - [2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) 
 - [2021-12-20-ZooKeeper-集群搭建](https://toutiao.io/k/hrryh46) 
-- [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [2021-12-20-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
-- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 

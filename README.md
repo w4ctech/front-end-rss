@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 02:41:48，:rocket: 更新条数: +1590， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 02:51:14，:rocket: 更新条数: +1590， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-20-上海-招个前端-日记类-app](https://www.v2ex.com/t/823264) ![](assets/new.png)  
+- [2021-12-20-业务-SQL-优化问题](https://www.v2ex.com/t/823263) ![](assets/new.png)  
+- [2021-12-20-消费级-的-3D-打印机目前（2021-年底）发展到什么程度？](https://www.v2ex.com/t/823262) ![](assets/new.png)  
+- [2021-12-20-iOS-15.2-在-4/5G-网络也会自动上传照片](https://www.v2ex.com/t/823261) ![](assets/new.png)  
 - [2021-12-20-Photoshop-有类似-VOUN-app-这样的画框预设吗？](https://www.v2ex.com/t/823259) ![](assets/new.png)  
 - [2021-12-20-请教一下关于"离职通知"和"离职申请"](https://www.v2ex.com/t/823258) ![](assets/new.png)  
 - [2021-12-20-固态硬盘选择](https://www.v2ex.com/t/823257) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-20-恭喜网易黑豚战队一穿六斩获刀塔互联网杯冠军，刀塔正统在网易](https://www.v2ex.com/t/823244) ![](assets/new.png)  
 - [2021-12-20-哪个短信平台可以发送营销短信，或营销短信审核比较松点的平台](https://www.v2ex.com/t/823242) ![](assets/new.png)  
 - [2021-12-20-plsql-mac-替代品](https://www.v2ex.com/t/823240) ![](assets/new.png)  
-- [2021-12-20-有没有原生支持-M1-的-ssh-管理工具呢？带文件管理/系统监视的。是](https://www.v2ex.com/t/823239) ![](assets/new.png)  
-- [2021-12-20-区块链开发-VS-容器云开发，哪个方向更有利于长期发展？](https://www.v2ex.com/t/823237) ![](assets/new.png)  
-- [2021-12-20-Play-Pass-订阅不了了](https://www.v2ex.com/t/823236) ![](assets/new.png)  
-- [2021-12-20-Beerus-发布-1.1.3](https://www.v2ex.com/t/823235) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,18 +558,18 @@
 
 - [2021-12-20-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
 - [2021-12-20-自下而上学习容器](https://toutiao.io/k/mqrog98) ![](assets/new.png)  
-- [2021-12-20-在-KubeSphere-上使用-Chaos-Mesh-进行混沌测试](https://toutiao.io/k/z4x8dp6) ![](assets/new.png)  
 - [2021-12-20-api安全测试](https://toutiao.io/k/oogx2ug) ![](assets/new.png)  
+- [2021-12-20-在-KubeSphere-上使用-Chaos-Mesh-进行混沌测试](https://toutiao.io/k/z4x8dp6) ![](assets/new.png)  
 - [2021-12-20-【ClickHouse-技术系列】--ClickHouse-中的嵌套数据结构](https://toutiao.io/k/h72b6rw) ![](assets/new.png)  
 - [2021-12-20-Node.js-进程、线程调试和诊断的设计和实现](https://toutiao.io/k/to2qoc9) ![](assets/new.png)  
 - [2021-12-20-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
 - [2021-12-20-高效编程｜Python函数开发的四条原则](https://toutiao.io/k/w3rdrgn) ![](assets/new.png)  
 - [2021-12-20-Rust-社区求变，PHP-大旗不倒？](https://toutiao.io/k/syau4nd) ![](assets/new.png)  
 - [2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) ![](assets/new.png)  
-- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

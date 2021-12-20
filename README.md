@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 06:27:30，:rocket: 更新条数: +1599， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 06:48:12，:rocket: 更新条数: +1598， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,12 +494,18 @@
 </summary>
 
 
+- [2021-12-20-各位-V-友，你们都开手动挡还是自动挡？](https://www.v2ex.com/t/823332) ![](assets/new.png)  
+- [2021-12-20-问下-V-友,-reddit-有拉红,-或者标记用户的插件吗](https://www.v2ex.com/t/823331) ![](assets/new.png)  
+- [2021-12-20-办公室-6-人，-2-用青轴，怎么破？](https://www.v2ex.com/t/823330) ![](assets/new.png)  
+- [2021-12-20-brew-渠道安装的-PHP-去掉了-glib-的依赖。可以手动删除-glib-和-Python-@3.9-了](https://www.v2ex.com/t/823329) ![](assets/new.png)  
+- [2021-12-20-你们一般去哪儿看招聘信息？](https://www.v2ex.com/t/823328) ![](assets/new.png)  
+- [2021-12-20-广州、深圳找云计算售前工程师](https://www.v2ex.com/t/823327) ![](assets/new.png)  
+- [2021-12-20-yaga-duet-2021-OR-matebook-e](https://www.v2ex.com/t/823326) ![](assets/new.png)  
 - [2021-12-20-请各位推荐下-网址压缩-网站](https://www.v2ex.com/t/823325) ![](assets/new.png)  
 - [2021-12-20-迫于年会需要，临时兼编剧写小品剧本](https://www.v2ex.com/t/823324) ![](assets/new.png)  
 - [2021-12-20-我的游戏《魔旅之塔》将要发售了。](https://www.v2ex.com/t/823323) ![](assets/new.png)  
 - [2021-12-20-我的家庭网络拓扑](https://www.v2ex.com/t/823321) ![](assets/new.png)  
 - [2021-12-20-求问-M1-MBA/MBP-在-macOS-12.1-下续航如何？](https://www.v2ex.com/t/823319) ![](assets/new.png)  
-- [2021-12-20-找志同道合的小伙伴一起组队副业搞钱](https://www.v2ex.com/t/823318) ![](assets/new.png)  
 - [2021-12-20-Monterey12.1-连接-type-c-dock-休眠放电-bug](https://www.v2ex.com/t/823317) ![](assets/new.png)  
 - [2021-12-20-求助（华为运动手表-gt2-关闭每公里提醒）](https://www.v2ex.com/t/823316) ![](assets/new.png)  
 - [2021-12-20-求教恢复-2010-年-MacBook-Pro-系统的方案](https://www.v2ex.com/t/823315) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-12-20-杭州-字节电商-供应链物流团队招人，大量“创世区块”等你“MINT”！已内推-Offer-X-2](https://www.v2ex.com/t/823312) ![](assets/new.png)  
 - [2021-12-20-老了大家会回家乡发展吗](https://www.v2ex.com/t/823310) ![](assets/new.png)  
 - [2021-12-20-要不要应届去体制内](https://www.v2ex.com/t/823309) ![](assets/new.png)  
-- [2021-12-20-沙井华侨城四海云亭-89-平-3-房-2-卫拎包入住-3600-整租，-v-友-3500](https://www.v2ex.com/t/823307) ![](assets/new.png)  
-- [2021-12-20-阿里-DNS-这-TTL-1-真是服了](https://www.v2ex.com/t/823306) ![](assets/new.png)  
-- [2021-12-20-node.js-能否实现子进程休眠](https://www.v2ex.com/t/823303) ![](assets/new.png)  
-- [2021-12-20-cdn.jsdelivr.com-全球空解析?](https://www.v2ex.com/t/823302) ![](assets/new.png)  
-- [2021-12-20-远程全职-稳定-React-同学们都来看看~](https://www.v2ex.com/t/823301) ![](assets/new.png)  
-- [2021-12-20-CAXA-数码大方是个什么网站？自己从未注册过任何互联网业务是-10-年老号莫名其妙被注册了？](https://www.v2ex.com/t/823300) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2021-12-20-好棒，测试妹子都能看懂的Jenkins-Docker安装教程](https://toutiao.io/k/m4kjrec) ![](assets/new.png)  
 - [2021-12-20-解放生产力「GitHub-热点速览」](https://toutiao.io/k/6ozbddi) ![](assets/new.png)  
 - [2021-12-20-深入剖析全链路灰度技术内幕](https://toutiao.io/k/oft3kz3) ![](assets/new.png)  
-- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
-- [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

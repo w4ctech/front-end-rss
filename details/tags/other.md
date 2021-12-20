@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-20 08:27:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-20 08:46:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1491,8 +1491,9 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-20-既然冷空气是往下，热空气往上，那为什么雪山的山顶比山脚雪更多呢](https://www.v2ex.com/t/823352) 
+- [2021-12-20-bpf-能不能抓一个-skb-在内核被那些网络函数处理了](https://www.v2ex.com/t/823351) 
 - [2021-12-20-Teambition-全页面-404](https://www.v2ex.com/t/823349) 
-- [2021-12-20-西安疫情封城-全员核算-关键时刻一码通崩了](https://www.v2ex.com/t/823348) 
 - [2021-12-20-今天被组长好心提醒了下，不要过度设计，有点疑惑，问一问大家，大家理性发言](https://www.v2ex.com/t/823347) 
 - [2021-12-20-Apple-Pay-无法添加中国工商银行借记卡](https://www.v2ex.com/t/823345) 
 - [2021-12-20-关于根据版本号改动-API-返回值的问题](https://www.v2ex.com/t/823344) 
@@ -1545,11 +1546,11 @@
 - [2021-12-20-缕一缕c#可null类型](https://toutiao.io/k/6lnjug3) 
 - [2021-12-20-容器技术正在颠覆传统，重构整个软件世界](https://toutiao.io/k/u3v7eo3) 
 - [2021-12-20-今天，说一说线程池-“动态更新”](https://toutiao.io/k/6md3ev2) 
+- [2021-12-20-深入剖析全链路灰度技术内幕](https://toutiao.io/k/oft3kz3) 
 - [2021-12-20-建木持续集成平台v2.1.0发布](https://toutiao.io/k/3vuie2s) 
 - [2021-12-20-ZooKeeper-集群搭建](https://toutiao.io/k/hrryh46) 
-- [2021-12-20-深入剖析全链路灰度技术内幕](https://toutiao.io/k/oft3kz3) 
+- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 

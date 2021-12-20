@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-20 08:49:21，:rocket: 更新条数: +1596， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-20 09:13:32，:rocket: 更新条数: +1599， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,15 @@
 </summary>
 
 
+- [2021-12-20-美独角兽-远程-高级后端-40-60w](https://www.v2ex.com/t/823363) ![](assets/new.png)  
+- [2021-12-20-求推荐：性价比高二手的-mini-主机或者服务器，支持大内存](https://www.v2ex.com/t/823362) ![](assets/new.png)  
+- [2021-12-20-分享一个-IPTV-预约录像脚本](https://www.v2ex.com/t/823361) ![](assets/new.png)  
+- [2021-12-20-坐标上海，家里小朋友（两岁-2-个月）被电动车撞了，关于定责问题求助。](https://www.v2ex.com/t/823360) ![](assets/new.png)  
+- [2021-12-20-薇娅-13.41-亿](https://www.v2ex.com/t/823359) ![](assets/new.png)  
+- [2021-12-20-远程兼职-寻找-全栈开发工程师](https://www.v2ex.com/t/823358) ![](assets/new.png)  
+- [2021-12-20-mbp-和-iPhone-之间有什么推荐的远程方式](https://www.v2ex.com/t/823357) ![](assets/new.png)  
+- [2021-12-20-感觉自己对抗强度不够，太软弱了，经常被奸商宰，唉](https://www.v2ex.com/t/823356) ![](assets/new.png)  
+- [2021-12-20-深圳-前端](https://www.v2ex.com/t/823355) ![](assets/new.png)  
 - [2021-12-20-既然冷空气是往下，热空气往上，那为什么雪山的山顶比山脚雪更多呢](https://www.v2ex.com/t/823352) ![](assets/new.png)  
 - [2021-12-20-bpf-能不能抓一个-skb-在内核被那些网络函数处理了](https://www.v2ex.com/t/823351) ![](assets/new.png)  
 - [2021-12-20-Teambition-全页面-404](https://www.v2ex.com/t/823349) ![](assets/new.png)  
@@ -505,15 +514,6 @@
 - [2021-12-20-觉得每天自己的时间好短，为啥又穷又忙没钱还没时间](https://www.v2ex.com/t/823340) ![](assets/new.png)  
 - [2021-12-20-薅羊毛！-4-核-8G-服务器+2-核-4G-数据库，到手低于-400-元](https://www.v2ex.com/t/823339) ![](assets/new.png)  
 - [2021-12-20-分享一个维修-AirPods-3-电流声的-timeline](https://www.v2ex.com/t/823337) ![](assets/new.png)  
-- [2021-12-20-各位大佬，怎么能获取-K8S-里面某个-pod-的某个容器的负载呢？](https://www.v2ex.com/t/823336) ![](assets/new.png)  
-- [2021-12-20-各位程序员大兄弟们，你们都开手动挡还是自动挡？](https://www.v2ex.com/t/823332) ![](assets/new.png)  
-- [2021-12-20-问下-V-友,-reddit-有拉红,-或者标记用户的插件吗](https://www.v2ex.com/t/823331) ![](assets/new.png)  
-- [2021-12-20-办公室-6-人，-2-用青轴，怎么破？](https://www.v2ex.com/t/823330) ![](assets/new.png)  
-- [2021-12-20-brew-渠道安装的-PHP-去掉了-glib-的依赖。可以手动删除-glib-和-Python-@3.9-了](https://www.v2ex.com/t/823329) ![](assets/new.png)  
-- [2021-12-20-你们一般去哪儿看招聘信息？](https://www.v2ex.com/t/823328) ![](assets/new.png)  
-- [2021-12-20-广州、深圳找云计算售前工程师](https://www.v2ex.com/t/823327) ![](assets/new.png)  
-- [2021-12-20-yaga-duet-2021-OR-matebook-e](https://www.v2ex.com/t/823326) ![](assets/new.png)  
-- [2021-12-20-请各位推荐下-网址压缩-网站](https://www.v2ex.com/t/823325) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,7 +574,7 @@
 - [2021-12-20-ZooKeeper-集群搭建](https://toutiao.io/k/hrryh46) ![](assets/new.png)  
 - [2021-12-20-解放生产力「GitHub-热点速览」](https://toutiao.io/k/6ozbddi) ![](assets/new.png)  
 - [2021-12-20-好棒，测试妹子都能看懂的Jenkins-Docker安装教程](https://toutiao.io/k/m4kjrec) ![](assets/new.png)  
-- [2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) ![](assets/new.png)  
+- [2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-20 08:49:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-20 09:13:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -136,6 +136,15 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-20-美独角兽-远程-高级后端-40-60w](https://www.v2ex.com/t/823363) 
+- [【V2EX】2021-12-20-求推荐：性价比高二手的-mini-主机或者服务器，支持大内存](https://www.v2ex.com/t/823362) 
+- [【V2EX】2021-12-20-分享一个-IPTV-预约录像脚本](https://www.v2ex.com/t/823361) 
+- [【V2EX】2021-12-20-坐标上海，家里小朋友（两岁-2-个月）被电动车撞了，关于定责问题求助。](https://www.v2ex.com/t/823360) 
+- [【V2EX】2021-12-20-薇娅-13.41-亿](https://www.v2ex.com/t/823359) 
+- [【V2EX】2021-12-20-远程兼职-寻找-全栈开发工程师](https://www.v2ex.com/t/823358) 
+- [【V2EX】2021-12-20-mbp-和-iPhone-之间有什么推荐的远程方式](https://www.v2ex.com/t/823357) 
+- [【V2EX】2021-12-20-感觉自己对抗强度不够，太软弱了，经常被奸商宰，唉](https://www.v2ex.com/t/823356) 
+- [【V2EX】2021-12-20-深圳-前端](https://www.v2ex.com/t/823355) 
 - [【V2EX】2021-12-20-既然冷空气是往下，热空气往上，那为什么雪山的山顶比山脚雪更多呢](https://www.v2ex.com/t/823352) 
 - [【V2EX】2021-12-20-bpf-能不能抓一个-skb-在内核被那些网络函数处理了](https://www.v2ex.com/t/823351) 
 - [【V2EX】2021-12-20-Teambition-全页面-404](https://www.v2ex.com/t/823349) 
@@ -164,12 +173,6 @@
 - [【V2EX】2021-12-20-求助（华为运动手表-gt2-关闭每公里提醒）](https://www.v2ex.com/t/823316) 
 - [【V2EX】2021-12-20-求教恢复-2010-年-MacBook-Pro-系统的方案](https://www.v2ex.com/t/823315) 
 - [【V2EX】2021-12-20-这次-log4j2-安全漏洞会不会带来使用商用库的风潮？](https://www.v2ex.com/t/823314) 
-- [【V2EX】2021-12-20-有没有成功退居二线城市的前辈？求教跑路方法](https://www.v2ex.com/t/823313) 
-- [【V2EX】2021-12-20-杭州-字节电商-供应链物流团队招人，大量“创世区块”等你“MINT”！已内推-Offer-X-2](https://www.v2ex.com/t/823312) 
-- [【V2EX】2021-12-20-老了大家会回家乡发展吗](https://www.v2ex.com/t/823310) 
-- [【V2EX】2021-12-20-要不要应届去体制内](https://www.v2ex.com/t/823309) 
-- [【V2EX】2021-12-20-沙井华侨城四海云亭-89-平-3-房-2-卫拎包入住-3600-整租，-v-友-3500](https://www.v2ex.com/t/823307) 
-- [【V2EX】2021-12-20-阿里-DNS-这-TTL-1-真是服了](https://www.v2ex.com/t/823306) 
 - [【技术头条】2021-12-20-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-20-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-20-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -208,10 +211,10 @@
 - [【开发者头条】2021-12-20-ZooKeeper-集群搭建](https://toutiao.io/k/hrryh46) 
 - [【开发者头条】2021-12-20-解放生产力「GitHub-热点速览」](https://toutiao.io/k/6ozbddi) 
 - [【开发者头条】2021-12-20-好棒，测试妹子都能看懂的Jenkins-Docker安装教程](https://toutiao.io/k/m4kjrec) 
-- [【开发者头条】2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
+- [【开发者头条】2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [【开发者头条】2021-12-20-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-20-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [【开发者头条】2021-12-20-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [【开发者头条】2021-12-20-推荐-服务调优经验总结](https://toutiao.io/k/av28tr1) 
 - [【开发者头条】2021-12-20-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

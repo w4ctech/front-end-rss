@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-21 06:15:29，:rocket: 更新条数: +1604， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-21 06:27:15，:rocket: 更新条数: +1603， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-21-头部量化基金寻找-C++开发工程师](https://www.v2ex.com/t/823529) ![](assets/new.png)  
+- [2021-12-21-2021MacBookPro16-插电情况下-自动睡眠](https://www.v2ex.com/t/823528) ![](assets/new.png)  
 - [2021-12-21-各位-v2er-有合适的上海租房渠道吗？](https://www.v2ex.com/t/823524) ![](assets/new.png)  
 - [2021-12-21-大家手上主要电子产品都用多久了](https://www.v2ex.com/t/823523) ![](assets/new.png)  
 - [2021-12-21-微信小程序“服务类目”的问题](https://www.v2ex.com/t/823521) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-21-发现了一款-api-工具](https://www.v2ex.com/t/823504) ![](assets/new.png)  
 - [2021-12-21-iPhone-如何阻止一张-SIM-卡上的所有来电？](https://www.v2ex.com/t/823503) ![](assets/new.png)  
 - [2021-12-21-这就离谱-微信-pc-端发现引用-BUG](https://www.v2ex.com/t/823502) ![](assets/new.png)  
-- [2021-12-21-请问一下，个人倾向于-model3，家人倾向于传统燃油车，该如何选择](https://www.v2ex.com/t/823501) ![](assets/new.png)  
-- [2021-12-21-有没有一种不解密可以对-Base64-进行部分明文的匹配的方法？](https://www.v2ex.com/t/823500) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,12 +570,12 @@
 - [2021-12-21-讲一讲应用服务的新鲜事儿](https://toutiao.io/k/ni1zk4d) ![](assets/new.png)  
 - [2021-12-21-前端GOGOGO-2021年推文分类汇总](https://toutiao.io/k/4kn10ds) ![](assets/new.png)  
 - [2021-12-21-刷完-500-题！偷偷纪念一下吧](https://toutiao.io/k/3h00g92) ![](assets/new.png)  
-- [2021-12-21-【Rust日报】2021-12-20-为Python科学计算生态编写Rust库](https://toutiao.io/k/1srceg1) ![](assets/new.png)  
 - [2021-12-21-使用spring后置处理器后引发的思考](https://toutiao.io/k/ps8wueq) ![](assets/new.png)  
+- [2021-12-21-Java-加密解密和数字签名](https://toutiao.io/k/zj4as20) ![](assets/new.png)  
+- [2021-12-21-在Flutter中使用markdown](https://toutiao.io/k/bpjx1b0) ![](assets/new.png)  
 - [2021-12-21-湖中剑-前端周刊-#16-|-Web3和区块链、Remix开源、V8编译、GitHub年度报告、Taro适配鸿蒙、React动画](https://toutiao.io/k/xrgwes6) ![](assets/new.png)  
 - [2021-12-21-Quartz在.NET中的使用---Yony---博客园](https://toutiao.io/k/1oo6prw) ![](assets/new.png)  
-- [2021-12-21-在Flutter中使用markdown](https://toutiao.io/k/bpjx1b0) ![](assets/new.png)  
-- [2021-12-21-Java-加密解密和数字签名](https://toutiao.io/k/zj4as20) ![](assets/new.png)  
+- [2021-12-21-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

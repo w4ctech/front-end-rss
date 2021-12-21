@@ -7839,6 +7839,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "阿里开源了一个 IDE 的框架，可以用来搭建 CloudIDE 及 桌面端 IDE",
+        "link": "https://www.v2ex.com/t/823621",
+        "date": "2021-12-21"
+      },
+      {
+        "title": "win10 窗口切换 很难找我想要的应用",
+        "link": "https://www.v2ex.com/t/823620",
+        "date": "2021-12-21"
+      },
+      {
         "title": "转租 13 号张江路地铁站申城佳苑二期 B 块一室户",
         "link": "https://www.v2ex.com/t/823619",
         "date": "2021-12-21"
@@ -8001,11 +8011,6 @@
       {
         "title": "新的 mac 跑 intellij 编译 scala 工程速度不给力啊",
         "link": "https://www.v2ex.com/t/823573",
-        "date": "2021-12-21"
-      },
-      {
-        "title": "[深圳]有做图形相关的大佬在看机会吗！",
-        "link": "https://www.v2ex.com/t/823571",
         "date": "2021-12-21"
       }
     ]
@@ -8223,8 +8228,8 @@
         "date": "2021-12-21"
       },
       {
-        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
-        "link": "https://toutiao.io/k/o3dptn4",
+        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
+        "link": "https://toutiao.io/k/hrnq79a",
         "date": "2021-12-21"
       },
       {
@@ -8233,13 +8238,13 @@
         "date": "2021-12-21"
       },
       {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
+        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
+        "link": "https://toutiao.io/k/o3dptn4",
         "date": "2021-12-21"
       },
       {
-        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
-        "link": "https://toutiao.io/k/hrnq79a",
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
         "date": "2021-12-21"
       }
     ]

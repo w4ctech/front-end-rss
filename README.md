@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-21 02:16:56，:rocket: 更新条数: +1594， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-21 02:52:23，:rocket: 更新条数: +1593， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,17 @@
 </summary>
 
 
+- [2021-12-21-关于编码的一些疑问？](https://www.v2ex.com/t/823482) ![](assets/new.png)  
+- [2021-12-21-V-友们，大家有什么好的技术路线学习参考下的嘛](https://www.v2ex.com/t/823480) ![](assets/new.png)  
+- [2021-12-21-千兆光猫突破千兆速率，分享下我的家庭网络架构](https://www.v2ex.com/t/823479) ![](assets/new.png)  
+- [2021-12-21-给安卓版-V2er-2.0.1-的-Accessibility-适配点赞](https://www.v2ex.com/t/823478) ![](assets/new.png)  
+- [2021-12-21-各位有记账的需求吗，分享下我给-beancount-封装-API-的探索过程](https://www.v2ex.com/t/823477) ![](assets/new.png)  
+- [2021-12-21-杭州-音视频开发专家/Android-系统音视频专家/资深安卓开发工程师（音视频岗推荐入职奖金高达-6666-元）](https://www.v2ex.com/t/823476) ![](assets/new.png)  
+- [2021-12-21-v2-的默认头像有什么意义吗？](https://www.v2ex.com/t/823474) ![](assets/new.png)  
+- [2021-12-21-电脑鼠标自己会动，是不是中病毒了。](https://www.v2ex.com/t/823473) ![](assets/new.png)  
+- [2021-12-21-m1-macbook-air-type-c-失效？](https://www.v2ex.com/t/823472) ![](assets/new.png)  
+- [2021-12-21-Window-下-FFmpeg-和-LibX264-的编译和配置](https://www.v2ex.com/t/823471) ![](assets/new.png)  
+- [2021-12-21-ThinkPad-E480-在正常使用过程中突然花屏，-Win/-Linux-系统下都会复现](https://www.v2ex.com/t/823470) ![](assets/new.png)  
 - [2021-12-21-腾讯云双十二返场二核-4G8M-三年仅-150-四核-8G10M-三年-768-四核-16G12M-三年-1068新老身份都可上车官方特价良心云-1-核-2G5M3-年-101海外机器也有活动...](https://www.v2ex.com/t/823469) ![](assets/new.png)  
 - [2021-12-21-关于-log4j2-漏洞的疑惑](https://www.v2ex.com/t/823468) ![](assets/new.png)  
 - [2021-12-21-音乐歌曲是可以穿越时空的时间机器](https://www.v2ex.com/t/823467) ![](assets/new.png)  
@@ -503,17 +514,6 @@
 - [2021-12-21-Vue3+Vite2.6+TypeScript+ant-design-vue-构建，提供基础的框架，快速搭建企业级中后台产品，响应式管理后台系统](https://www.v2ex.com/t/823462) ![](assets/new.png)  
 - [2021-12-21-自己创建的主体回复居然要注册满-120-天](https://www.v2ex.com/t/823461) ![](assets/new.png)  
 - [2021-12-21-轻薄本选择](https://www.v2ex.com/t/823458) ![](assets/new.png)  
-- [2021-12-21-招聘-|-华为云云原生团队，期待你的加入](https://www.v2ex.com/t/823457) ![](assets/new.png)  
-- [2021-12-21-1200-元装机清单](https://www.v2ex.com/t/823455) ![](assets/new.png)  
-- [2021-12-21-做了个-BundleTool-的-Gradle-插件](https://www.v2ex.com/t/823454) ![](assets/new.png)  
-- [2021-12-21-想写个日记软件,-需要学哪些技术](https://www.v2ex.com/t/823453) ![](assets/new.png)  
-- [2021-12-21-想问问各位，你们通勤时间和路费是多少呢？](https://www.v2ex.com/t/823452) ![](assets/new.png)  
-- [2021-12-21-求国区-iCloud-家庭车，有-2-人](https://www.v2ex.com/t/823450) ![](assets/new.png)  
-- [2021-12-21-家庭第二辆车，太太开，她看上-Model3-了，但我看-B-站、B-乎、水木、V-站评论两极分化，这是为啥？](https://www.v2ex.com/t/823449) ![](assets/new.png)  
-- [2021-12-21-好的前端-编程-外文书推荐](https://www.v2ex.com/t/823447) ![](assets/new.png)  
-- [2021-12-21-12306app-已经上-arm64-几大银行的-app-仍在坚守-armeabi](https://www.v2ex.com/t/823445) ![](assets/new.png)  
-- [2021-12-20-多个-TPM-模块能不能串联？](https://www.v2ex.com/t/823444) ![](assets/new.png)  
-- [2021-12-20-arXiv-不想上传源码，只提交-pdf-有什么好办法不被拒绝吗？](https://www.v2ex.com/t/823442) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,18 +564,15 @@
 - [2021-12-21-locust-python实现](https://toutiao.io/k/6ibht53) ![](assets/new.png)  
 - [2021-12-21-RANet：MSDNet加强版！清华黄高团队提出分辨率自适应的高效推理网络RANet！](https://toutiao.io/k/3s6xmma) ![](assets/new.png)  
 - [2021-12-21-代码为什么会影响开发效率](https://toutiao.io/k/l44ieyb) ![](assets/new.png)  
-- [2021-12-21-Log4j2维护者吐槽没工资还要挨骂，GO安全负责人建议开源作者向公司收费](https://toutiao.io/k/uq8l2v5) ![](assets/new.png)  
 - [2021-12-21-Presto-在腾讯的应用](https://toutiao.io/k/esvptch) ![](assets/new.png)  
-- [2021-12-21-我仅用-50-行-JavaScript-代码从头构建区块链，向你介绍区块链的工作原理](https://toutiao.io/k/coghmly) ![](assets/new.png)  
-- [2021-12-21-游戏元宇宙·未来职业](https://toutiao.io/k/cez11ln) ![](assets/new.png)  
-- [2021-12-21-看云原生实战就来这里，侬晓得伐？](https://toutiao.io/k/dvnsity) ![](assets/new.png)  
-- [2021-12-21-讲一讲应用服务的新鲜事儿](https://toutiao.io/k/ni1zk4d) ![](assets/new.png)  
 - [2021-12-21-从易用到好用，OPPO实时计算平台架构实践！](https://toutiao.io/k/7kov54y) ![](assets/new.png)  
+- [2021-12-21-游戏元宇宙·未来职业](https://toutiao.io/k/cez11ln) ![](assets/new.png)  
+- [2021-12-21-讲一讲应用服务的新鲜事儿](https://toutiao.io/k/ni1zk4d) ![](assets/new.png)  
 - [2021-12-21-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-21-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
-- [2021-12-21-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-21-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
 - [2021-12-21-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
+- [2021-12-21-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
+- [2021-12-21-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-21-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

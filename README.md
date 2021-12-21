@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-21 13:54:29，:rocket: 更新条数: +1603， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-21 14:12:14，:rocket: 更新条数: +1602， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-21-请教一下，怎么把向终端输入的内容重定向一份到文件？](https://www.v2ex.com/t/823625) ![](assets/new.png)  
+- [2021-12-21-微信支持设备登陆不用手机确认了](https://www.v2ex.com/t/823624) ![](assets/new.png)  
 - [2021-12-21-使用大的真实数据集测试-in-memory-的索引的插入性能时，如何避免数据集读取对测试结果的影响？](https://www.v2ex.com/t/823623) ![](assets/new.png)  
 - [2021-12-21-请教各位买书的问题](https://www.v2ex.com/t/823622) ![](assets/new.png)  
 - [2021-12-21-阿里开源了一个-IDE-的框架，可以用来搭建-CloudIDE-及-桌面端-IDE](https://www.v2ex.com/t/823621) ![](assets/new.png)  
@@ -502,7 +504,6 @@
 - [2021-12-21-贴码v0.0.4-发布，支持暗黑模式](https://www.v2ex.com/t/823617) ![](assets/new.png)  
 - [2021-12-21-体检查出尿白细胞](https://www.v2ex.com/t/823614) ![](assets/new.png)  
 - [2021-12-21-有看-Microsoft-Ignite-China-的么](https://www.v2ex.com/t/823613) ![](assets/new.png)  
-- [2021-12-21-Office-365-组云家庭省小钱钱-6-账号，每人-50-元](https://www.v2ex.com/t/823612) ![](assets/new.png)  
 - [2021-12-21-ios-微信浏览器怎么清除-cookie-缓存？](https://www.v2ex.com/t/823611) ![](assets/new.png)  
 - [2021-12-21-apple-watch-系统更新到-8.3-后第三方充电线无法用了](https://www.v2ex.com/t/823608) ![](assets/new.png)  
 - [2021-12-21-搭建了一个轨道交通的论坛-rail.moe](https://www.v2ex.com/t/823606) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-21-回十八线小县城能干点啥,-卷不动了](https://www.v2ex.com/t/823597) ![](assets/new.png)  
 - [2021-12-21-你们的-iPhone-要关机嘛？](https://www.v2ex.com/t/823596) ![](assets/new.png)  
 - [2021-12-21-有没有第三方的-apple-健身记录共享-app？](https://www.v2ex.com/t/823595) ![](assets/new.png)  
-- [2021-12-21-+852-WeChat-也无法人脸了？](https://www.v2ex.com/t/823593) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,12 +564,12 @@
 - [2021-12-21-Python-的切片为什么不会索引越界？](https://toutiao.io/k/ewtmepb) ![](assets/new.png)  
 - [2021-12-21-代码为什么会影响开发效率](https://toutiao.io/k/l44ieyb) ![](assets/new.png)  
 - [2021-12-21-从易用到好用，OPPO实时计算平台架构实践！](https://toutiao.io/k/7kov54y) ![](assets/new.png)  
-- [2021-12-21-RANet：MSDNet加强版！清华黄高团队提出分辨率自适应的高效推理网络RANet！](https://toutiao.io/k/3s6xmma) ![](assets/new.png)  
 - [2021-12-21-Presto-在腾讯的应用](https://toutiao.io/k/esvptch) ![](assets/new.png)  
+- [2021-12-21-RANet：MSDNet加强版！清华黄高团队提出分辨率自适应的高效推理网络RANet！](https://toutiao.io/k/3s6xmma) ![](assets/new.png)  
 - [2021-12-21-游戏元宇宙·未来职业](https://toutiao.io/k/cez11ln) ![](assets/new.png)  
-- [2021-12-21-讲一讲应用服务的新鲜事儿](https://toutiao.io/k/ni1zk4d) ![](assets/new.png)  
 - [2021-12-21-使用spring后置处理器后引发的思考](https://toutiao.io/k/ps8wueq) ![](assets/new.png)  
 - [2021-12-21-刷完-500-题！偷偷纪念一下吧](https://toutiao.io/k/3h00g92) ![](assets/new.png)  
+- [2021-12-21-讲一讲应用服务的新鲜事儿](https://toutiao.io/k/ni1zk4d) ![](assets/new.png)  
 - [2021-12-21-前端GOGOGO-2021年推文分类汇总](https://toutiao.io/k/4kn10ds) ![](assets/new.png)  
 - [2021-12-21-Java-加密解密和数字签名](https://toutiao.io/k/zj4as20) ![](assets/new.png)  
 - [2021-12-21-在Flutter中使用markdown](https://toutiao.io/k/bpjx1b0) ![](assets/new.png)  

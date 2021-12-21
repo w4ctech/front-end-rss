@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-21 10:45:31，:rocket: 更新条数: +1608， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-21 10:57:32，:rocket: 更新条数: +1607， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-21-2021-快过完了，有没有什么软路由推荐？](https://www.v2ex.com/t/823599) ![](assets/new.png)  
+- [2021-12-21-回十八线小县城能干点啥,-卷不动了](https://www.v2ex.com/t/823597) ![](assets/new.png)  
 - [2021-12-21-你们的-iPhone-要关机嘛？](https://www.v2ex.com/t/823596) ![](assets/new.png)  
 - [2021-12-21-有没有第三方的-apple-健身记录共享-app？](https://www.v2ex.com/t/823595) ![](assets/new.png)  
 - [2021-12-21-+852-WeChat-也无法人脸了？](https://www.v2ex.com/t/823593) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-21-不懂，请教，关于-app-夹带广告的技术问题](https://www.v2ex.com/t/823578) ![](assets/new.png)  
 - [2021-12-21-港区-Netflix-合租找车友-55-每季-20-每月-还有一位置](https://www.v2ex.com/t/823577) ![](assets/new.png)  
 - [2021-12-21-现在-Netflix-美区账号封香港-ip-了吗？](https://www.v2ex.com/t/823576) ![](assets/new.png)  
-- [2021-12-21-替朋友问，国外工作如何办国内信用卡](https://www.v2ex.com/t/823575) ![](assets/new.png)  
-- [2021-12-21-两年半前端简历求评价](https://www.v2ex.com/t/823574) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,7 +575,7 @@
 - [2021-12-21-在Flutter中使用markdown](https://toutiao.io/k/bpjx1b0) ![](assets/new.png)  
 - [2021-12-21-湖中剑-前端周刊-#16-|-Web3和区块链、Remix开源、V8编译、GitHub年度报告、Taro适配鸿蒙、React动画](https://toutiao.io/k/xrgwes6) ![](assets/new.png)  
 - [2021-12-21-Quartz在.NET中的使用---Yony---博客园](https://toutiao.io/k/1oo6prw) ![](assets/new.png)  
-- [2021-12-21-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-21-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

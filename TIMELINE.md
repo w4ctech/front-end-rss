@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-21 10:45:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-21 10:57:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,8 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-21-2021-快过完了，有没有什么软路由推荐？](https://www.v2ex.com/t/823599) 
+- [【V2EX】2021-12-21-回十八线小县城能干点啥,-卷不动了](https://www.v2ex.com/t/823597) 
 - [【V2EX】2021-12-21-你们的-iPhone-要关机嘛？](https://www.v2ex.com/t/823596) 
 - [【V2EX】2021-12-21-有没有第三方的-apple-健身记录共享-app？](https://www.v2ex.com/t/823595) 
 - [【V2EX】2021-12-21-+852-WeChat-也无法人脸了？](https://www.v2ex.com/t/823593) 
@@ -179,9 +181,6 @@
 - [【V2EX】2021-12-21-恕我愚钝，到现在也没搞清楚某些缩写到底是什么职位](https://www.v2ex.com/t/823553) 
 - [【V2EX】2021-12-21-debian-下的-docker-有没有-web-版？](https://www.v2ex.com/t/823552) 
 - [【V2EX】2021-12-21-4000-左右的笔记本，家用办公，有没有推荐的？](https://www.v2ex.com/t/823551) 
-- [【V2EX】2021-12-21-新加坡技术移民-新加坡知名互联网公司，招移动端（ios,安卓，-flutter），前端，后端（不限开发语言），-DevOps-/SRE-和安全等各类工程师及技术专家，个税低...](https://www.v2ex.com/t/823549) 
-- [【V2EX】2021-12-21-姊妹篇之:-重构后的-Apple-Music-for-macOS-里面的曲目还会“薛定谔繁殖”么？](https://www.v2ex.com/t/823548) 
-- [【V2EX】2021-12-21-请问各位无论书写还是打字还会关注-的地得-吗？](https://www.v2ex.com/t/823547) 
 - [【技术头条】2021-12-21-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-21-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-21-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -221,11 +220,11 @@
 - [【开发者头条】2021-12-21-在Flutter中使用markdown](https://toutiao.io/k/bpjx1b0) 
 - [【开发者头条】2021-12-21-湖中剑-前端周刊-#16-|-Web3和区块链、Remix开源、V8编译、GitHub年度报告、Taro适配鸿蒙、React动画](https://toutiao.io/k/xrgwes6) 
 - [【开发者头条】2021-12-21-Quartz在.NET中的使用---Yony---博客园](https://toutiao.io/k/1oo6prw) 
-- [【开发者头条】2021-12-21-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [【开发者头条】2021-12-21-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
-- [【开发者头条】2021-12-21-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [【开发者头条】2021-12-21-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-21-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [【开发者头条】2021-12-21-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [【开发者头条】2021-12-21-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

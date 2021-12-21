@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-21 08:15:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-21 08:27:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-21-win10-推荐一个替代-notepad.exe-的-notepad-程序](https://www.v2ex.com/t/823564) 
+- [2021-12-21-离谱啊离谱](https://www.v2ex.com/t/823563) 
 - [2021-12-21-老房子装修，阳台没下水，想放洗衣机和烘干机可以吗？](https://www.v2ex.com/t/823562) 
 - [2021-12-21-macbook-应该配啥样的显示屏](https://www.v2ex.com/t/823561) 
 - [2021-12-21-大佬们-移动端访问的接口的证书不受信任](https://www.v2ex.com/t/823560) 
@@ -43,5 +45,3 @@
 - [2021-12-21-Kvrocks-在-RocksDB-上的优化实践](https://www.v2ex.com/t/823519) 
 - [2021-12-21-家庭宽带安全访问方案](https://www.v2ex.com/t/823518) 
 - [2021-12-21-大三寻求有潜力的创业公司工作机会](https://www.v2ex.com/t/823516) 
-- [2021-12-21-macOS-中除了系统-UI，还有哪些是-120hz-渲染的？](https://www.v2ex.com/t/823514) 
-- [2021-12-21-发现我的银行卡好难自如的使用](https://www.v2ex.com/t/823513) 

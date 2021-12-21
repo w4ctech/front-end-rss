@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-21 08:27:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-21 08:45:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1492,6 +1492,9 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-21-求推荐模拟-TCP/UDP-收发的工具，最好是可以做一些自定义操作。](https://www.v2ex.com/t/823569) 
+- [2021-12-21-环球都会广场上班，哪里租房比较好，预算-2000](https://www.v2ex.com/t/823568) 
+- [2021-12-21-最近总有人瞎按我家指纹锁密码怎么办](https://www.v2ex.com/t/823566) 
 - [2021-12-21-win10-推荐一个替代-notepad.exe-的-notepad-程序](https://www.v2ex.com/t/823564) 
 - [2021-12-21-离谱啊离谱](https://www.v2ex.com/t/823563) 
 - [2021-12-21-老房子装修，阳台没下水，想放洗衣机和烘干机可以吗？](https://www.v2ex.com/t/823562) 
@@ -1524,8 +1527,6 @@
 - [2021-12-21-2021MacBookPro16-插电情况下-自动睡眠](https://www.v2ex.com/t/823528) 
 - [2021-12-21-各位-v2er-有合适的上海租房渠道吗？](https://www.v2ex.com/t/823524) 
 - [2021-12-21-大家手上主要电子产品都用多久了](https://www.v2ex.com/t/823523) 
-- [2021-12-21-大疆无人机能和-PC-端对接吗](https://www.v2ex.com/t/823520) 
-- [2021-12-21-大三寻求有潜力的创业公司工作机会](https://www.v2ex.com/t/823516) 
 - [2021-12-21-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-21-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-21-程序员缺乏经验的7种表现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14858&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492736%26amp%3Bidx%3D1%26amp%3Bsn%3D95843308d36bd91d7aa68ddee6c87deb%26amp%3Bchksm%3Dfa3f05dbcd488ccd400925462e6b09f468df29027da6892cd0e60e2daa317a4de539b03716b3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1558,8 +1559,8 @@
 - [2021-12-21-使用spring后置处理器后引发的思考](https://toutiao.io/k/ps8wueq) 
 - [2021-12-21-Java-加密解密和数字签名](https://toutiao.io/k/zj4as20) 
 - [2021-12-21-Quartz在.NET中的使用---Yony---博客园](https://toutiao.io/k/1oo6prw) 
-- [2021-12-21-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [2021-12-21-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [2021-12-21-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
-- [2021-12-21-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-21-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [2021-12-21-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [2021-12-21-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-21-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 

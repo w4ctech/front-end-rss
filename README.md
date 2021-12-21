@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-21 07:21:56，:rocket: 更新条数: +1604， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-21 07:37:49，:rocket: 更新条数: +1604， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-21-新加坡技术移民-新加坡知名互联网公司，招移动端（ios,安卓，-flutter），前端，后端（不限开发语言），-DevOps-/SRE-和安全等各类工程师及技术专家，个税低...](https://www.v2ex.com/t/823549) ![](assets/new.png)  
+- [2021-12-21-姊妹篇之:-重构后的-Apple-Music-for-macOS-里面的曲目还会“薛定谔繁殖”么？](https://www.v2ex.com/t/823548) ![](assets/new.png)  
+- [2021-12-21-请问各位无论书写还是打字还会关注-的地得-吗？](https://www.v2ex.com/t/823547) ![](assets/new.png)  
+- [2021-12-21-做了个在线修改照片-exif-的工具](https://www.v2ex.com/t/823546) ![](assets/new.png)  
+- [2021-12-21-iPhone-有没有办法屏蔽年底的移动推销-5G-电话轰炸？](https://www.v2ex.com/t/823545) ![](assets/new.png)  
 - [2021-12-21-iMessage-相关-发送失败以短信发送，那么](https://www.v2ex.com/t/823544) ![](assets/new.png)  
 - [2021-12-21-宝安中心丽晶国际-78-平两房转租，-6900-元/月](https://www.v2ex.com/t/823543) ![](assets/new.png)  
 - [2021-12-21-你们什么时候回家开始买礼品了？](https://www.v2ex.com/t/823542) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-21-头部量化基金寻找-C++开发工程师](https://www.v2ex.com/t/823529) ![](assets/new.png)  
 - [2021-12-21-2021MacBookPro16-插电情况下-自动睡眠](https://www.v2ex.com/t/823528) ![](assets/new.png)  
 - [2021-12-21-各位-v2er-有合适的上海租房渠道吗？](https://www.v2ex.com/t/823524) ![](assets/new.png)  
-- [2021-12-21-大家手上主要电子产品都用多久了](https://www.v2ex.com/t/823523) ![](assets/new.png)  
-- [2021-12-21-微信小程序“服务类目”的问题](https://www.v2ex.com/t/823521) ![](assets/new.png)  
-- [2021-12-21-大疆无人机能和-PC-端对接吗](https://www.v2ex.com/t/823520) ![](assets/new.png)  
-- [2021-12-21-Kvrocks-在-RocksDB-上的优化实践](https://www.v2ex.com/t/823519) ![](assets/new.png)  
-- [2021-12-21-家庭宽带安全访问方案](https://www.v2ex.com/t/823518) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

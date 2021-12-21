@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-21 07:21:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-21 07:37:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -140,6 +140,7 @@
 
 
 
+- [【V2EX】新加坡技术移民-新加坡知名互联网公司，招移动端（ios,安卓，-flutter），前端，后端（不限开发语言），-DevOps-/SRE-和安全等各类工程师及技术专家，个税低...](https://www.v2ex.com/t/823549)
 - [【开发者头条】在Flutter中使用markdown](https://toutiao.io/k/bpjx1b0)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 

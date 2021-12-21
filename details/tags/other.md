@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-21 04:57:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-21 05:13:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1492,6 +1492,7 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-21-大三寻求有潜力的创业公司工作机会](https://www.v2ex.com/t/823516) 
 - [2021-12-21-发现我的银行卡好难自如的使用](https://www.v2ex.com/t/823513) 
 - [2021-12-21-Office365-拼团-40-元/年](https://www.v2ex.com/t/823511) 
 - [2021-12-21-问各位一个问题，看你是怎么想的？](https://www.v2ex.com/t/823510) 
@@ -1524,9 +1525,6 @@
 - [2021-12-21-ThinkPad-E480-在正常使用过程中突然花屏，-Win/-Linux-系统下都会复现](https://www.v2ex.com/t/823470) 
 - [2021-12-21-腾讯云双十二返场二核-4G8M-三年仅-150-四核-8G10M-三年-768-四核-16G12M-三年-1068新老身份都可上车官方特价良心云-1-核-2G5M3-年-101海外机器也有活动...](https://www.v2ex.com/t/823469) 
 - [2021-12-21-关于-log4j2-漏洞的疑惑](https://www.v2ex.com/t/823468) 
-- [2021-12-21-音乐歌曲是可以穿越时空的时间机器](https://www.v2ex.com/t/823467) 
-- [2021-12-21-我看到网上很多人说“1graph”，请问这是什么意思啊？](https://www.v2ex.com/t/823466) 
-- [2021-12-21-关于给父母生活费](https://www.v2ex.com/t/823465) 
 - [2021-12-21-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-21-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-21-程序员缺乏经验的7种表现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14858&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492736%26amp%3Bidx%3D1%26amp%3Bsn%3D95843308d36bd91d7aa68ddee6c87deb%26amp%3Bchksm%3Dfa3f05dbcd488ccd400925462e6b09f468df29027da6892cd0e60e2daa317a4de539b03716b3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1554,8 +1552,8 @@
 - [2021-12-21-代码为什么会影响开发效率](https://toutiao.io/k/l44ieyb) 
 - [2021-12-21-从易用到好用，OPPO实时计算平台架构实践！](https://toutiao.io/k/7kov54y) 
 - [2021-12-21-讲一讲应用服务的新鲜事儿](https://toutiao.io/k/ni1zk4d) 
-- [2021-12-21-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
-- [2021-12-21-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [2021-12-21-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [2021-12-21-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [2021-12-21-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-21-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [2021-12-21-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [2021-12-21-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 

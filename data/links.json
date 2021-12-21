@@ -7824,6 +7824,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "好的前端 编程 外文书推荐",
+        "link": "https://www.v2ex.com/t/823447",
+        "date": "2021-12-21"
+      },
+      {
+        "title": "12306app 已经上 arm64 几大银行的 app 仍在坚守 armeabi",
+        "link": "https://www.v2ex.com/t/823445",
+        "date": "2021-12-21"
+      },
+      {
         "title": "多个 TPM 模块能不能串联？",
         "link": "https://www.v2ex.com/t/823444",
         "date": "2021-12-20"
@@ -7972,16 +7982,6 @@
         "title": "[专业作品]WeWorkCloudesk：远程桌面秒变 RemoteApp，远程办公全新体验， Ver.3.0.5 新版发布！",
         "link": "https://www.v2ex.com/t/823399",
         "date": "2021-12-20"
-      },
-      {
-        "title": "又一个 Win11 不爽吐槽帖",
-        "link": "https://www.v2ex.com/t/823397",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "关于软路由的咨询",
-        "link": "https://www.v2ex.com/t/823395",
-        "date": "2021-12-20"
       }
     ]
   },
@@ -7993,102 +7993,102 @@
       {
         "title": "谷歌 Android 12 Go 正式发布！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "69道HTML面试知识点总结 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "高级程序员进化史 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "程序员缺乏经验的7种表现 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14858&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492736%26amp%3Bidx%3D1%26amp%3Bsn%3D95843308d36bd91d7aa68ddee6c87deb%26amp%3Bchksm%3Dfa3f05dbcd488ccd400925462e6b09f468df29027da6892cd0e60e2daa317a4de539b03716b3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "微软再推Rust语言免费中文教程，更香了！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14857&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492736%26amp%3Bidx%3D2%26amp%3Bsn%3D5360a509fec13a95c11463d0d9c2e60a%26amp%3Bchksm%3Dfa3f05dbcd488ccd0191c32a85a9b62ce433f9e2d354621c11452526cf3c7e2bdf84310624e1%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "微软终于放大招了！这次能干掉Linux桌面？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14856&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492729%26amp%3Bidx%3D1%26amp%3Bsn%3Dd79782c35b2ab1e493ba053582830566%26amp%3Bchksm%3Dfa3f0522cd488c3498ac2c5dbded16bdf1562eade179d9cab889b5e94ab440f404113555996a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "VSCode自动化插件 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14855&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492729%26amp%3Bidx%3D2%26amp%3Bsn%3Dc2e18d9c15b04edabc81033f1dc3d595%26amp%3Bchksm%3Dfa3f0522cd488c344582af42a43158f0096ae6e5b6bf0080128d7d73c74ed369584a5f899602%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "薪酬最高的编程语言居然是？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14854&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492724%26amp%3Bidx%3D1%26amp%3Bsn%3Db888538ba148b391d9e946ace56a9f83%26amp%3Bchksm%3Dfa3f052fcd488c39533cf8077592b0799387ac75abfbe1ef1d174460ff36675e3813c3f6adce%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "vscode-loader 解析之（node 环境） (forum.lovejade.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14853&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F126-vscode-loader-node%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "vscode-loader 解析之（node 环境） (forum.lovejade.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14852&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F126-vscode-loader-node%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "优质网站同好者周刊（第 44 期）- 倾城之链 (forum.lovejade.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14851&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F130-44%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "如果不想总是半夜爬起来抢修生产事故 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14850&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-quick-start%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "Jira“消失”的24小时 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14849&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdo-we-need-jira%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "推荐学Java——数据表高级操作 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14848&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbWV5NV_uK4MwIUA6LvF8og%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "鸿蒙OS、安卓、iOS测试对比，结果出乎意料！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14847&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9RWmROLInm3RJpX1ZHjHmw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "张一鸣：给产品技术人才的建议 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14846&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492724%26amp%3Bidx%3D2%26amp%3Bsn%3D3d506086a6e038c1eb1a4b9f404f90c1%26amp%3Bchksm%3Dfa3f052fcd488c395f8202745eff3a5d4db9f15102f06042d8683d94a108dab53b582fe57726%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "微软正式宣布VisualStudio2022 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14845&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492723%26amp%3Bidx%3D2%26amp%3Bsn%3D1487302bedfc4b14c2ae1aaf53cc2dbd%26amp%3Bchksm%3Dfa3f0528cd488c3ec3a5a9b566357cc17571d3da245d9899df4acffc22b802dcf3be3e4aaf2f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "如何用Python爬取网易云音乐歌单 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14844&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492682%26amp%3Bidx%3D1%26amp%3Bsn%3Dbbabd4fdf5e5e8e54e93d63986af2286%26amp%3Bchksm%3Dfa3f0511cd488c07589fb7180c8d27360a0739512021b8b614f9395b0bb46983ac6f14a1df9b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "Java开发者最值得学习的14项技能 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14843&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492682%26amp%3Bidx%3D2%26amp%3Bsn%3D045b1cf2359e675669f3bd8252b7d486%26amp%3Bchksm%3Dfa3f0511cd488c07b9dfe747fb8884734eaec1f357e3b59b41c6f71d185b1ccd44935d745f85%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "Google封禁了近12万名开发者账户 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14842&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492619%26amp%3Bidx%3D1%26amp%3Bsn%3D7897b7904ff7fb72d4ba988e92fe098a%26amp%3Bchksm%3Dfa3f0550cd488c46190d4a6f34328588b99aa168f8d5f00220a6cbc71176f76cbe5d7f7c4a7c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       }
     ]
   },
@@ -8098,119 +8098,64 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "熬夜彻底搞懂Cookie Session Token JWT",
-        "link": "https://toutiao.io/k/g49lsl5",
-        "date": "2021-12-20"
+        "title": "2021 年快结束了！抓紧啦！",
+        "link": "https://toutiao.io/k/809c4m6",
+        "date": "2021-12-21"
       },
       {
-        "title": "自下而上学习容器",
-        "link": "https://toutiao.io/k/mqrog98",
-        "date": "2021-12-20"
+        "title": "快速找出redis大key删除",
+        "link": "https://toutiao.io/k/yncwv3k",
+        "date": "2021-12-21"
       },
       {
-        "title": "聊聊 sql 优化的 15 个小技巧",
-        "link": "https://toutiao.io/k/a94tblq",
-        "date": "2021-12-20"
+        "title": "go-zero 分布式事务最佳实践",
+        "link": "https://toutiao.io/k/apniu10",
+        "date": "2021-12-21"
       },
       {
-        "title": "api安全测试",
-        "link": "https://toutiao.io/k/oogx2ug",
-        "date": "2021-12-20"
+        "title": "想写好前端，先练好内功",
+        "link": "https://toutiao.io/k/emgyxgq",
+        "date": "2021-12-21"
       },
       {
-        "title": "在 KubeSphere 上使用 Chaos Mesh 进行混沌测试",
-        "link": "https://toutiao.io/k/z4x8dp6",
-        "date": "2021-12-20"
+        "title": "locust python实现",
+        "link": "https://toutiao.io/k/6ibht53",
+        "date": "2021-12-21"
       },
       {
-        "title": "今天，说一说线程池 “动态更新”",
-        "link": "https://toutiao.io/k/6md3ev2",
-        "date": "2021-12-20"
+        "title": "Python 的切片为什么不会索引越界？",
+        "link": "https://toutiao.io/k/ewtmepb",
+        "date": "2021-12-21"
       },
       {
-        "title": "【ClickHouse 技术系列】- ClickHouse 中的嵌套数据结构",
-        "link": "https://toutiao.io/k/h72b6rw",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "容器技术正在颠覆传统，重构整个软件世界",
-        "link": "https://toutiao.io/k/u3v7eo3",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "建木持续集成平台v2.1.0发布",
-        "link": "https://toutiao.io/k/3vuie2s",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "Sentinel-Go 源码系列（三）滑动时间窗口算法的工程实现",
-        "link": "https://toutiao.io/k/0k9wpua",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "深入剖析全链路灰度技术内幕",
-        "link": "https://toutiao.io/k/oft3kz3",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "Node.js 进程、线程调试和诊断的设计和实现",
-        "link": "https://toutiao.io/k/to2qoc9",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "Rust 社区求变，PHP 大旗不倒？",
-        "link": "https://toutiao.io/k/syau4nd",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "高效编程｜Python函数开发的四条原则",
-        "link": "https://toutiao.io/k/w3rdrgn",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "好棒，测试妹子都能看懂的Jenkins Docker安装教程",
-        "link": "https://toutiao.io/k/m4kjrec",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "缕一缕c#可null类型",
-        "link": "https://toutiao.io/k/6lnjug3",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "ZooKeeper 集群搭建",
-        "link": "https://toutiao.io/k/hrryh46",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "解放生产力「GitHub 热点速览」",
-        "link": "https://toutiao.io/k/6ozbddi",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
-        "link": "https://toutiao.io/k/hrnq79a",
-        "date": "2021-12-20"
+        "title": "RANet：MSDNet加强版！清华黄高团队提出分辨率自适应的高效推理网络RANet！",
+        "link": "https://toutiao.io/k/3s6xmma",
+        "date": "2021-12-21"
       },
       {
         "title": "[推荐] 深入剖析全链路灰度技术内幕",
         "link": "https://toutiao.io/k/zimpz4c",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "[推荐] 这些年我用过的API文档工具，个个是精品！",
-        "link": "https://toutiao.io/k/xt41e64",
-        "date": "2021-12-20"
-      },
-      {
-        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
-        "link": "https://toutiao.io/k/o3dptn4",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
       },
       {
         "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
         "link": "https://toutiao.io/k/ksd0hqy",
-        "date": "2021-12-20"
+        "date": "2021-12-21"
+      },
+      {
+        "title": "[推荐] 这些年我用过的API文档工具，个个是精品！",
+        "link": "https://toutiao.io/k/xt41e64",
+        "date": "2021-12-21"
+      },
+      {
+        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
+        "link": "https://toutiao.io/k/hrnq79a",
+        "date": "2021-12-21"
+      },
+      {
+        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
+        "link": "https://toutiao.io/k/o3dptn4",
+        "date": "2021-12-21"
       }
     ]
   },

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-21 16:35:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-21 17:03:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1495,6 +1495,9 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-21-安卓-7.0-有没有永久死机的-bug，给我妈买了个-iPhone-13,她一定要华为……](https://www.v2ex.com/t/823643) 
+- [2021-12-21-M1-Pycharm-突然卡爆求救，之前用的还很好，现在随便动一动沙滩球就出来了](https://www.v2ex.com/t/823642) 
+- [2021-12-21-请问一下-windows-系统下如何暂时显示一个干净整洁的桌面](https://www.v2ex.com/t/823641) 
 - [2021-12-21-昨天睡了一觉,今天起来睡觉次数+1-了正常吗](https://www.v2ex.com/t/823640) 
 - [2021-12-21-Apple-one-日区有人合购吗！](https://www.v2ex.com/t/823638) 
 - [2021-12-21-16MBP-到手一天，开机次数增加了-1-次正常吗](https://www.v2ex.com/t/823637) 
@@ -1521,9 +1524,6 @@
 - [2021-12-21-回十八线小县城能干点啥,-卷不动了](https://www.v2ex.com/t/823597) 
 - [2021-12-21-你们的-iPhone-要关机嘛？](https://www.v2ex.com/t/823596) 
 - [2021-12-21-有没有第三方的-apple-健身记录共享-app？](https://www.v2ex.com/t/823595) 
-- [2021-12-21-+852-WeChat-也无法人脸了？](https://www.v2ex.com/t/823593) 
-- [2021-12-21-「内推」花旗金融上海](https://www.v2ex.com/t/823592) 
-- [2021-12-21-找了一家便宜的機器但不知道選擇哪個好？幫忙看看！](https://www.v2ex.com/t/823591) 
 - [2021-12-21-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-21-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-21-程序员缺乏经验的7种表现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14858&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492736%26amp%3Bidx%3D1%26amp%3Bsn%3D95843308d36bd91d7aa68ddee6c87deb%26amp%3Bchksm%3Dfa3f05dbcd488ccd400925462e6b09f468df29027da6892cd0e60e2daa317a4de539b03716b3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1556,9 +1556,9 @@
 - [2021-12-21-Java-加密解密和数字签名](https://toutiao.io/k/zj4as20) 
 - [2021-12-21-前端GOGOGO-2021年推文分类汇总](https://toutiao.io/k/4kn10ds) 
 - [2021-12-21-Quartz在.NET中的使用---Yony---博客园](https://toutiao.io/k/1oo6prw) 
-- [2021-12-21-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
-- [2021-12-21-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [2021-12-21-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [2021-12-21-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-21-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
-- [2021-12-21-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [2021-12-21-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
 - [2021-12-21-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-21-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 

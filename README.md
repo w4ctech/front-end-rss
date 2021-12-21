@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-21 14:54:31，:rocket: 更新条数: +1603， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-21 15:13:41，:rocket: 更新条数: +1602， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-21-iOS-15.2-系统自带-APP-请求通讯录权限](https://www.v2ex.com/t/823631) ![](assets/new.png)  
+- [2021-12-21-14MBP-到手一个月，电池循环计数增加了-5-次正常吗](https://www.v2ex.com/t/823630) ![](assets/new.png)  
 - [2021-12-21-魔都电信千兆桥接，光猫每天十点左右自动重启一次，有同样遇到的朋友吗？](https://www.v2ex.com/t/823627) ![](assets/new.png)  
 - [2021-12-21-内推-miHoYo-米哈游-2021-年-12-月-21-日最新招聘信息](https://www.v2ex.com/t/823626) ![](assets/new.png)  
 - [2021-12-21-请教一下，怎么把向终端输入的内容重定向一份到文件？](https://www.v2ex.com/t/823625) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-21-明年-air-能用上吗](https://www.v2ex.com/t/823605) ![](assets/new.png)  
 - [2021-12-21-才知道，-mstsc-可以自由设置分辨率和窗口位置](https://www.v2ex.com/t/823604) ![](assets/new.png)  
 - [2021-12-21-Apple-Music-和-AppStore-登录不同的-id-可以实现吗？](https://www.v2ex.com/t/823600) ![](assets/new.png)  
-- [2021-12-21-2021-快过完了，有没有什么软路由推荐？](https://www.v2ex.com/t/823599) ![](assets/new.png)  
-- [2021-12-21-回十八线小县城能干点啥,-卷不动了](https://www.v2ex.com/t/823597) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,10 +572,10 @@
 - [2021-12-21-讲一讲应用服务的新鲜事儿](https://toutiao.io/k/ni1zk4d) ![](assets/new.png)  
 - [2021-12-21-Java-加密解密和数字签名](https://toutiao.io/k/zj4as20) ![](assets/new.png)  
 - [2021-12-21-前端GOGOGO-2021年推文分类汇总](https://toutiao.io/k/4kn10ds) ![](assets/new.png)  
+- [2021-12-21-湖中剑-前端周刊-#16-|-Web3和区块链、Remix开源、V8编译、GitHub年度报告、Taro适配鸿蒙、React动画](https://toutiao.io/k/xrgwes6) ![](assets/new.png)  
 - [2021-12-21-在Flutter中使用markdown](https://toutiao.io/k/bpjx1b0) ![](assets/new.png)  
 - [2021-12-21-Quartz在.NET中的使用---Yony---博客园](https://toutiao.io/k/1oo6prw) ![](assets/new.png)  
-- [2021-12-21-湖中剑-前端周刊-#16-|-Web3和区块链、Remix开源、V8编译、GitHub年度报告、Taro适配鸿蒙、React动画](https://toutiao.io/k/xrgwes6) ![](assets/new.png)  
-- [2021-12-21-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-21-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

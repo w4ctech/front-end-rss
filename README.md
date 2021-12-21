@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-21 20:44:52，:rocket: 更新条数: +1605， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-21 20:56:25，:rocket: 更新条数: +1605， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -575,7 +575,7 @@
 - [2021-12-21-湖中剑-前端周刊-#16-|-Web3和区块链、Remix开源、V8编译、GitHub年度报告、Taro适配鸿蒙、React动画](https://toutiao.io/k/xrgwes6) ![](assets/new.png)  
 - [2021-12-21-在Flutter中使用markdown](https://toutiao.io/k/bpjx1b0) ![](assets/new.png)  
 - [2021-12-21-Quartz在.NET中的使用---Yony---博客园](https://toutiao.io/k/1oo6prw) ![](assets/new.png)  
-- [2021-12-21-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-21-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

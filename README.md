@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-21 14:21:15，:rocket: 更新条数: +1602， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-21 14:38:16，:rocket: 更新条数: +1603， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-21-魔都电信千兆桥接，光猫每天十点左右自动重启一次，有同样遇到的朋友吗？](https://www.v2ex.com/t/823627) ![](assets/new.png)  
 - [2021-12-21-内推-miHoYo-米哈游-2021-年-12-月-21-日最新招聘信息](https://www.v2ex.com/t/823626) ![](assets/new.png)  
 - [2021-12-21-请教一下，怎么把向终端输入的内容重定向一份到文件？](https://www.v2ex.com/t/823625) ![](assets/new.png)  
 - [2021-12-21-微信支持设备登陆不用手机确认了](https://www.v2ex.com/t/823624) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-21-Apple-Music-和-AppStore-登录不同的-id-可以实现吗？](https://www.v2ex.com/t/823600) ![](assets/new.png)  
 - [2021-12-21-2021-快过完了，有没有什么软路由推荐？](https://www.v2ex.com/t/823599) ![](assets/new.png)  
 - [2021-12-21-回十八线小县城能干点啥,-卷不动了](https://www.v2ex.com/t/823597) ![](assets/new.png)  
-- [2021-12-21-你们的-iPhone-要关机嘛？](https://www.v2ex.com/t/823596) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,21 +561,21 @@
 - [2021-12-21-go-zero-分布式事务最佳实践](https://toutiao.io/k/apniu10) ![](assets/new.png)  
 - [2021-12-21-想写好前端，先练好内功](https://toutiao.io/k/emgyxgq) ![](assets/new.png)  
 - [2021-12-21-locust-python实现](https://toutiao.io/k/6ibht53) ![](assets/new.png)  
-- [2021-12-21-Python-的切片为什么不会索引越界？](https://toutiao.io/k/ewtmepb) ![](assets/new.png)  
 - [2021-12-21-代码为什么会影响开发效率](https://toutiao.io/k/l44ieyb) ![](assets/new.png)  
+- [2021-12-21-Python-的切片为什么不会索引越界？](https://toutiao.io/k/ewtmepb) ![](assets/new.png)  
 - [2021-12-21-从易用到好用，OPPO实时计算平台架构实践！](https://toutiao.io/k/7kov54y) ![](assets/new.png)  
 - [2021-12-21-Presto-在腾讯的应用](https://toutiao.io/k/esvptch) ![](assets/new.png)  
 - [2021-12-21-RANet：MSDNet加强版！清华黄高团队提出分辨率自适应的高效推理网络RANet！](https://toutiao.io/k/3s6xmma) ![](assets/new.png)  
 - [2021-12-21-使用spring后置处理器后引发的思考](https://toutiao.io/k/ps8wueq) ![](assets/new.png)  
-- [2021-12-21-游戏元宇宙·未来职业](https://toutiao.io/k/cez11ln) ![](assets/new.png)  
 - [2021-12-21-刷完-500-题！偷偷纪念一下吧](https://toutiao.io/k/3h00g92) ![](assets/new.png)  
+- [2021-12-21-游戏元宇宙·未来职业](https://toutiao.io/k/cez11ln) ![](assets/new.png)  
 - [2021-12-21-讲一讲应用服务的新鲜事儿](https://toutiao.io/k/ni1zk4d) ![](assets/new.png)  
 - [2021-12-21-前端GOGOGO-2021年推文分类汇总](https://toutiao.io/k/4kn10ds) ![](assets/new.png)  
 - [2021-12-21-Java-加密解密和数字签名](https://toutiao.io/k/zj4as20) ![](assets/new.png)  
 - [2021-12-21-在Flutter中使用markdown](https://toutiao.io/k/bpjx1b0) ![](assets/new.png)  
 - [2021-12-21-Quartz在.NET中的使用---Yony---博客园](https://toutiao.io/k/1oo6prw) ![](assets/new.png)  
 - [2021-12-21-湖中剑-前端周刊-#16-|-Web3和区块链、Remix开源、V8编译、GitHub年度报告、Taro适配鸿蒙、React动画](https://toutiao.io/k/xrgwes6) ![](assets/new.png)  
-- [2021-12-21-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-21-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

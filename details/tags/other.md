@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-21 14:21:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-21 14:38:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1494,6 +1494,7 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-21-魔都电信千兆桥接，光猫每天十点左右自动重启一次，有同样遇到的朋友吗？](https://www.v2ex.com/t/823627) 
 - [2021-12-21-请教一下，怎么把向终端输入的内容重定向一份到文件？](https://www.v2ex.com/t/823625) 
 - [2021-12-21-微信支持设备登陆不用手机确认了](https://www.v2ex.com/t/823624) 
 - [2021-12-21-请教各位买书的问题](https://www.v2ex.com/t/823622) 
@@ -1546,8 +1547,8 @@
 - [2021-12-21-go-zero-分布式事务最佳实践](https://toutiao.io/k/apniu10) 
 - [2021-12-21-想写好前端，先练好内功](https://toutiao.io/k/emgyxgq) 
 - [2021-12-21-locust-python实现](https://toutiao.io/k/6ibht53) 
-- [2021-12-21-Python-的切片为什么不会索引越界？](https://toutiao.io/k/ewtmepb) 
 - [2021-12-21-代码为什么会影响开发效率](https://toutiao.io/k/l44ieyb) 
+- [2021-12-21-Python-的切片为什么不会索引越界？](https://toutiao.io/k/ewtmepb) 
 - [2021-12-21-从易用到好用，OPPO实时计算平台架构实践！](https://toutiao.io/k/7kov54y) 
 - [2021-12-21-RANet：MSDNet加强版！清华黄高团队提出分辨率自适应的高效推理网络RANet！](https://toutiao.io/k/3s6xmma) 
 - [2021-12-21-使用spring后置处理器后引发的思考](https://toutiao.io/k/ps8wueq) 
@@ -1556,8 +1557,8 @@
 - [2021-12-21-前端GOGOGO-2021年推文分类汇总](https://toutiao.io/k/4kn10ds) 
 - [2021-12-21-Java-加密解密和数字签名](https://toutiao.io/k/zj4as20) 
 - [2021-12-21-Quartz在.NET中的使用---Yony---博客园](https://toutiao.io/k/1oo6prw) 
-- [2021-12-21-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [2021-12-21-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
-- [2021-12-21-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [2021-12-21-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [2021-12-21-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [2021-12-21-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [2021-12-21-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-21-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [2021-12-21-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 

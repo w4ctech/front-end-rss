@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-22 07:58:31，:rocket: 更新条数: +1607， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-22 08:15:20，:rocket: 更新条数: +1608， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2021-12-22-RBAC-整合数据权限的设计](https://www.v2ex.com/t/823787) ![](assets/new.png)  
+- [2021-12-22-团队开发中如何看待或者与成员沟通代码质量等问题](https://www.v2ex.com/t/823786) ![](assets/new.png)  
+- [2021-12-22-大家过过体验最好/最有意思的平安夜、圣诞季，是怎么过的？](https://www.v2ex.com/t/823785) ![](assets/new.png)  
+- [2021-12-22-请教一个关于-Time-Machine-备份的问题](https://www.v2ex.com/t/823784) ![](assets/new.png)  
+- [2021-12-22-在-ThreadPoolExecutor-里使用-subprocess-算多线程还是多进程](https://www.v2ex.com/t/823783) ![](assets/new.png)  
+- [2021-12-22-scrapy-xpath-取值为空](https://www.v2ex.com/t/823782) ![](assets/new.png)  
+- [2021-12-22-对查询结果进行分类统计的正常怎么做？](https://www.v2ex.com/t/823781) ![](assets/new.png)  
 - [2021-12-22-请-IOS-开发的同学进来解答下](https://www.v2ex.com/t/823780) ![](assets/new.png)  
 - [2021-12-22-Spring-boot-学-CommandLineRunner-的时候发生的一件神奇的事情，这怎么解释？](https://www.v2ex.com/t/823779) ![](assets/new.png)  
 - [2021-12-22-这种场景是否能把-etcd/consul-当做“分布式数据库”？](https://www.v2ex.com/t/823778) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2021-12-22-请教：戴尔服务器硬件检测中出现错误信息是什么意思](https://www.v2ex.com/t/823766) ![](assets/new.png)  
 - [2021-12-22-V-友们，问下有没有色彩搭配的网站的](https://www.v2ex.com/t/823765) ![](assets/new.png)  
 - [2021-12-22-Pycharm-突然卡爆求救，之前用的还很好，现在随便动一动就卡死](https://www.v2ex.com/t/823764) ![](assets/new.png)  
-- [2021-12-22-prisma-连-mssql-报这个错误，请问有没有前辈知道怎么回事呢？](https://www.v2ex.com/t/823763) ![](assets/new.png)  
-- [2021-12-22-上海有平价的小商场吗？衣服价位不过千的那种](https://www.v2ex.com/t/823762) ![](assets/new.png)  
-- [2021-12-22-阿里云-RAM-访问控制台-BUG](https://www.v2ex.com/t/823761) ![](assets/new.png)  
-- [2021-12-22-请问-i-奇艺的客户端问题](https://www.v2ex.com/t/823760) ![](assets/new.png)  
-- [2021-12-22-不太懂安卓开发，想问下现在国产安卓-App-的一部分工作就是跟国产安卓系统斗智斗勇吗](https://www.v2ex.com/t/823759) ![](assets/new.png)  
-- [2021-12-22-才发现现在的手游居然可以多版本同时运行](https://www.v2ex.com/t/823756) ![](assets/new.png)  
-- [2021-12-22-救救孩子,碰到蜜汁问题了.tomcat-启动需要-5-分钟.](https://www.v2ex.com/t/823755) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -525,6 +525,7 @@
 </summary>
 
 
+- [2021-12-22-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-22-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-22-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-22-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -544,7 +545,6 @@
 - [2021-12-22-微软正式宣布VisualStudio2022-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14845&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492723%26amp%3Bidx%3D2%26amp%3Bsn%3D1487302bedfc4b14c2ae1aaf53cc2dbd%26amp%3Bchksm%3Dfa3f0528cd488c3ec3a5a9b566357cc17571d3da245d9899df4acffc22b802dcf3be3e4aaf2f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-22-如何用Python爬取网易云音乐歌单-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14844&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492682%26amp%3Bidx%3D1%26amp%3Bsn%3Dbbabd4fdf5e5e8e54e93d63986af2286%26amp%3Bchksm%3Dfa3f0511cd488c07589fb7180c8d27360a0739512021b8b614f9395b0bb46983ac6f14a1df9b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2021-12-22-Java开发者最值得学习的14项技能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14843&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492682%26amp%3Bidx%3D2%26amp%3Bsn%3D045b1cf2359e675669f3bd8252b7d486%26amp%3Bchksm%3Dfa3f0511cd488c07b9dfe747fb8884734eaec1f357e3b59b41c6f71d185b1ccd44935d745f85%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2021-12-22-Google封禁了近12万名开发者账户-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14842&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492619%26amp%3Bidx%3D1%26amp%3Bsn%3D7897b7904ff7fb72d4ba988e92fe098a%26amp%3Bchksm%3Dfa3f0550cd488c46190d4a6f34328588b99aa168f8d5f00220a6cbc71176f76cbe5d7f7c4a7c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,13 +569,13 @@
 - [2021-12-22-无组件架构：你不需要知道的“新一代”前端架构模式](https://toutiao.io/k/s98rcms) ![](assets/new.png)  
 - [2021-12-22-超参数调优河伯、组合优化器CompBO，华为诺亚开源贝叶斯优化库](https://toutiao.io/k/wfk68yh) ![](assets/new.png)  
 - [2021-12-22-最受关注的-Cilium-Service-Mesh-到底怎么玩？---上手实践](https://toutiao.io/k/3z9r0zo) ![](assets/new.png)  
-- [2021-12-22-崩溃的一天，西安一码通崩溃背后的技术问题。](https://toutiao.io/k/bp1ocxc) ![](assets/new.png)  
 - [2021-12-22-最强最全面的大数据SQL面试题和答案（由31位大佬共同协作完成）](https://toutiao.io/k/r2byzi1) ![](assets/new.png)  
+- [2021-12-22-崩溃的一天，西安一码通崩溃背后的技术问题。](https://toutiao.io/k/bp1ocxc) ![](assets/new.png)  
 - [2021-12-22-误入-GitHub-游戏区，结果意外地收获颇丰](https://toutiao.io/k/yn5soh7) ![](assets/new.png)  
-- [2021-12-22-盘点2021，拥抱变化，不负韶华](https://toutiao.io/k/5y0o52u) ![](assets/new.png)  
 - [2021-12-22-Pinia-正式成为-vuejs-的一员](https://toutiao.io/k/oyiffyc) ![](assets/new.png)  
+- [2021-12-22-盘点2021，拥抱变化，不负韶华](https://toutiao.io/k/5y0o52u) ![](assets/new.png)  
 - [2021-12-22-flutter之Column](https://toutiao.io/k/iq8rivn) ![](assets/new.png)  
-- [2021-12-22-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-22-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

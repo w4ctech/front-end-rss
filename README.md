@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-22 00:41:12，:rocket: 更新条数: +1600， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-22 01:12:24，:rocket: 更新条数: +1601， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,6 @@
 </summary>
 
 
-- [2021-12-21-最新疫情：全国新冠累计确诊100467例-累计接种新冠疫苗超26.95亿剂次](https://m.caixin.com/m/2021-12-21/101820429.html) ![](assets/new.png)  
 - [2021-12-21-英美Omicron威胁使圣诞防疫陷两难-谭德塞吁在2022年终止疫情](https://international.caixin.com/m/2021-12-21/101820545.html) ![](assets/new.png)  
 - [2021-12-21-西安疫情进入病例报告高峰期，透析患者再现就医难题](https://m.caixin.com/m/2021-12-21/101820494.html) ![](assets/new.png)  
 - [2021-12-21-最新海外疫情：新冠感染超2.74亿-累计接种新冠疫苗超87.13亿剂次](https://m.caixin.com/m/2021-12-21/101820433.html) ![](assets/new.png)  
@@ -85,6 +84,7 @@
 - [2021-12-17-【境内疫情观察】全国新增56例本土病例（12月16日）](https://database.caixin.com/m/2021-12-17/101819059.html) ![](assets/new.png)  
 - [2021-12-17-WHO支持疫苗混打，美8名儿童接种后患心肌炎｜大流行手记（12月16日）](https://m.caixin.com/m/2021-12-17/101818946.html) ![](assets/new.png)  
 - [2021-12-17-聚焦｜张文宏：这将是疫情应对的最后一个寒冬](https://opinion.caixin.com/m/2021-12-17/101818894.html) ![](assets/new.png)  
+- [2021-12-17-英国新增病例连创新高-欧陆为奥密克戎来袭绷紧神经](https://international.caixin.com/m/2021-12-17/101819358.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-22-如何给网站添加纯音乐?](https://www.v2ex.com/t/823661) ![](assets/new.png)  
+- [2021-12-22-AI-作曲，快来听听-AI-原创的音乐](https://www.v2ex.com/t/823660) ![](assets/new.png)  
 - [2021-12-22-京东闪付不能更换卡面了吗？](https://www.v2ex.com/t/823659) ![](assets/new.png)  
 - [2021-12-22-mbp14-到手一个月，键盘油腻腻的正常么](https://www.v2ex.com/t/823658) ![](assets/new.png)  
 - [2021-12-22-房车使用两周，简单聊下体验](https://www.v2ex.com/t/823657) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-21-瑞慈怎么样](https://www.v2ex.com/t/823644) ![](assets/new.png)  
 - [2021-12-21-安卓-7.0-有没有永久死机的-bug，给我妈买了个-iPhone-13,她一定要华为……](https://www.v2ex.com/t/823643) ![](assets/new.png)  
 - [2021-12-21-M1-Pycharm-突然卡爆求救，之前用的还很好，现在随便动一动沙滩球就出来了](https://www.v2ex.com/t/823642) ![](assets/new.png)  
-- [2021-12-21-请问一下-windows-系统下如何暂时显示一个干净整洁的桌面](https://www.v2ex.com/t/823641) ![](assets/new.png)  
-- [2021-12-21-昨天睡了一觉,今天起来睡觉次数+1-了正常吗](https://www.v2ex.com/t/823640) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,15 +562,16 @@
 - [2021-12-22-浪漫的turtle，送给程序员自己的圣诞树！](https://toutiao.io/k/r0vz8gy) ![](assets/new.png)  
 - [2021-12-22-干货-|-中小型公司的Devops-落地建议](https://toutiao.io/k/lhil5c5) ![](assets/new.png)  
 - [2021-12-22-看他就够了！一文带你全方面了解Apache-Pulsar-延迟消息投递](https://toutiao.io/k/r2eynj9) ![](assets/new.png)  
+- [2021-12-22-五分钟带你入门基于Nodejs的强大的Web框架—-NestJS](https://toutiao.io/k/j7iqi5z) ![](assets/new.png)  
 - [2021-12-22-Dubbo-go-v3.0-正式发布-——打造国内一流开源-Go-服务框架](https://toutiao.io/k/w4hyjer) ![](assets/new.png)  
 - [2021-12-22-超参数调优河伯、组合优化器CompBO，华为诺亚开源贝叶斯优化库](https://toutiao.io/k/wfk68yh) ![](assets/new.png)  
-- [2021-12-22-五分钟带你入门基于Nodejs的强大的Web框架—-NestJS](https://toutiao.io/k/j7iqi5z) ![](assets/new.png)  
-- [2021-12-22-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
 - [2021-12-22-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
-- [2021-12-22-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-22-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-22-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
+- [2021-12-22-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
 - [2021-12-22-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
+- [2021-12-22-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
+- [2021-12-22-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-22-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
+- [2021-12-22-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

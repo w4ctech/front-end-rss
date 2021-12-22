@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-22 23:22:31，:rocket: 更新条数: +1610， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-22 23:40:16，:rocket: 更新条数: +1611， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,11 +67,12 @@
 
 - [2021-12-22-12月21日全国新增新冠77例-四省份本土57例](https://m.caixin.com/m/2021-12-22/101820579.html) ![](assets/new.png)  
 - [2021-12-22-陕西疫情累计扩散至4省6地-西安非必要离市人员将被劝返](https://m.caixin.com/m/2021-12-22/101820941.html) ![](assets/new.png)  
+- [2021-12-22-新加坡收紧边境-停售免隔离入境国家旅行售票](https://china.caixin.com/m/2021-12-22/101820983.html) ![](assets/new.png)  
 - [2021-12-22-加强针能否应对奥密克戎？专家指“混打”或效果更优](https://m.caixin.com/m/2021-12-22/101820618.html) ![](assets/new.png)  
 - [2021-12-22-【境内疫情观察】陕西新增53例本土病例（12月21日）](https://database.caixin.com/m/2021-12-22/101820847.html) ![](assets/new.png)  
 - [2021-12-22-Omicron成为美国主要毒株-多国家缩短加强针间隔时间｜大流行手记（12月21日）](https://m.caixin.com/m/2021-12-22/101820624.html) ![](assets/new.png)  
-- [2021-12-21-西安疫情进入病例报告高峰期，透析患者再现就医难题](https://m.caixin.com/m/2021-12-21/101820494.html) ![](assets/new.png)  
 - [2021-12-21-最新海外疫情：新冠感染超2.74亿-累计接种新冠疫苗超87.13亿剂次](https://m.caixin.com/m/2021-12-21/101820433.html) ![](assets/new.png)  
+- [2021-12-21-西安疫情进入病例报告高峰期，透析患者再现就医难题](https://m.caixin.com/m/2021-12-21/101820494.html) ![](assets/new.png)  
 - [2021-12-21-【境内疫情观察】全国新增57例本土病例（12月20日）](https://database.caixin.com/m/2021-12-21/101820393.html) ![](assets/new.png)  
 - [2021-12-21-Moderna称加强针有效保护Omicron-欧盟批准Novavax疫苗｜大流行手记（12月20日）](https://m.caixin.com/m/2021-12-21/101820187.html) ![](assets/new.png)  
 - [2021-12-21-英美Omicron威胁使圣诞防疫陷两难-谭德塞吁在2022年终止疫情](https://international.caixin.com/m/2021-12-21/101820545.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-18-绍兴、西安疫情仍存扩散可能-专家提醒就地过年应避免“一刀切”](https://m.caixin.com/m/2021-12-18/101819547.html) ![](assets/new.png)  
 - [2021-12-18-【境内疫情观察】全国新增89例本土病例（12月17日）](https://database.caixin.com/m/2021-12-18/101819570.html) ![](assets/new.png)  
 - [2021-12-18-研究称Omicron更容易再次感染-澳大利亚感染破纪录｜大流行手记（12月17日）](https://m.caixin.com/m/2021-12-18/101819454.html) ![](assets/new.png)  
-- [2021-12-17-浙江疫情累计确诊421例-西安-东莞传播链已27例感染](https://m.caixin.com/m/2021-12-17/101819344.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-22-知乎读取剪切板](https://www.v2ex.com/t/823880) ![](assets/new.png)  
+- [2021-12-22-拿本子抄答案,-大家一月特卖准备买啥?](https://www.v2ex.com/t/823879) ![](assets/new.png)  
 - [2021-12-22-奥运冠军吕小军分享的神器：漂浮舱](https://www.v2ex.com/t/823878) ![](assets/new.png)  
 - [2021-12-22-有资金出境需求欢迎留下邮箱，额度-150-万欧](https://www.v2ex.com/t/823876) ![](assets/new.png)  
 - [2021-12-22-网络打照片的方式](https://www.v2ex.com/t/823875) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-22-常州地震，在长三角的你们感受明显么？](https://www.v2ex.com/t/823856) ![](assets/new.png)  
 - [2021-12-22-InnoDB-中-redo-log-和-undo-log-以及数据页的修改顺序到底是怎样的？](https://www.v2ex.com/t/823855) ![](assets/new.png)  
 - [2021-12-22-关于工作中复杂接口设计和治理](https://www.v2ex.com/t/823854) ![](assets/new.png)  
-- [2021-12-22-大家宣传自己的软件作品会去哪里？](https://www.v2ex.com/t/823853) ![](assets/new.png)  
-- [2021-12-22-找五位朋友拼多邻国会员](https://www.v2ex.com/t/823851) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

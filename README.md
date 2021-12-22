@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-22 13:00:08，:rocket: 更新条数: +1611， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-22 13:12:59，:rocket: 更新条数: +1585， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-22-不知道有没有等入境日本的老哥](https://www.v2ex.com/t/823847) ![](assets/new.png)  
+- [2021-12-22-什么样的技术可以实现对一个-APK-完全加密并能被系统正常读取？](https://www.v2ex.com/t/823846) ![](assets/new.png)  
+- [2021-12-22-Mac-OS12.1-iBooks-翻页特别卡，是我个别问题？](https://www.v2ex.com/t/823845) ![](assets/new.png)  
 - [2021-12-22-有想学滑雪的吗?-自己做了一个滑雪预定小程序,-给大家发些福利](https://www.v2ex.com/t/823844) ![](assets/new.png)  
 - [2021-12-22-关于垃圾佬-diy-家用-NAS-的一点思考](https://www.v2ex.com/t/823843) ![](assets/new.png)  
 - [2021-12-22-提醒事项更新极慢](https://www.v2ex.com/t/823839) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-22-Apple-Watch-升级-watchOS-8.3-后，第三方充电器失效](https://www.v2ex.com/t/823820) ![](assets/new.png)  
 - [2021-12-22-无追搜索改版，不追踪用户的隐私保护搜索，欢迎体验+吐槽](https://www.v2ex.com/t/823819) ![](assets/new.png)  
 - [2021-12-22-Ng-Matero-v13-已发布！](https://www.v2ex.com/t/823818) ![](assets/new.png)  
-- [2021-12-22-关于-apiserver-中的-apiextensionsServer，如何脱离-k8s-单独运行？](https://www.v2ex.com/t/823817) ![](assets/new.png)  
-- [2021-12-22-路由器端内外网分离的最佳实践是什么？](https://www.v2ex.com/t/823816) ![](assets/new.png)  
-- [2021-12-22-有没有小型主机支持-Windows/-Linux-双系统?](https://www.v2ex.com/t/823815) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,26 +556,6 @@
 </summary>
 
 
-- [2021-12-22-2021-年快结束了！抓紧啦！](https://toutiao.io/k/809c4m6) ![](assets/new.png)  
-- [2021-12-22-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
-- [2021-12-22-应用程序怎样划分模块？](https://toutiao.io/k/vbj8o6g) ![](assets/new.png)  
-- [2021-12-22-干货-|-中小型公司的Devops-落地建议](https://toutiao.io/k/lhil5c5) ![](assets/new.png)  
-- [2021-12-22-看他就够了！一文带你全方面了解Apache-Pulsar-延迟消息投递](https://toutiao.io/k/r2eynj9) ![](assets/new.png)  
-- [2021-12-22-五分钟带你入门基于Nodejs的强大的Web框架—-NestJS](https://toutiao.io/k/j7iqi5z) ![](assets/new.png)  
-- [2021-12-22-浪漫的turtle，送给程序员自己的圣诞树！](https://toutiao.io/k/r0vz8gy) ![](assets/new.png)  
-- [2021-12-22-Dubbo-go-v3.0-正式发布-——打造国内一流开源-Go-服务框架](https://toutiao.io/k/w4hyjer) ![](assets/new.png)  
-- [2021-12-22-深度剖析：Kafka-请求是如何处理?-看完这篇文章彻底懂了！](https://toutiao.io/k/gqx1fyf) ![](assets/new.png)  
-- [2021-12-22-日志可视化方案及Lens-K8S桌面管理平台IDE介绍](https://toutiao.io/k/8ibq54o) ![](assets/new.png)  
-- [2021-12-22-无组件架构：你不需要知道的“新一代”前端架构模式](https://toutiao.io/k/s98rcms) ![](assets/new.png)  
-- [2021-12-22-超参数调优河伯、组合优化器CompBO，华为诺亚开源贝叶斯优化库](https://toutiao.io/k/wfk68yh) ![](assets/new.png)  
-- [2021-12-22-最强最全面的大数据SQL面试题和答案（由31位大佬共同协作完成）](https://toutiao.io/k/r2byzi1) ![](assets/new.png)  
-- [2021-12-22-最受关注的-Cilium-Service-Mesh-到底怎么玩？---上手实践](https://toutiao.io/k/3z9r0zo) ![](assets/new.png)  
-- [2021-12-22-崩溃的一天，西安一码通崩溃背后的技术问题。](https://toutiao.io/k/bp1ocxc) ![](assets/new.png)  
-- [2021-12-22-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
-- [2021-12-22-误入-GitHub-游戏区，结果意外地收获颇丰](https://toutiao.io/k/yn5soh7) ![](assets/new.png)  
-- [2021-12-22-Pinia-正式成为-vuejs-的一员](https://toutiao.io/k/oyiffyc) ![](assets/new.png)  
-- [2021-12-22-盘点2021，拥抱变化，不负韶华](https://toutiao.io/k/5y0o52u) ![](assets/new.png)  
-- [2021-12-22-flutter之Column](https://toutiao.io/k/iq8rivn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

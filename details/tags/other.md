@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-22 12:36:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-22 13:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1499,9 +1499,9 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-22-关于垃圾佬-diy-家用-NAS-的一点思考](https://www.v2ex.com/t/823843) 
 - [2021-12-22-提醒事项更新极慢](https://www.v2ex.com/t/823839) 
 - [2021-12-22-阿里国际化电商-平台架构组大量-HC,-欢迎来撩!](https://www.v2ex.com/t/823838) 
-- [2021-12-22-大伙都是怎么下载海外的-BT-资源的？](https://www.v2ex.com/t/823837) 
 - [2021-12-22-奇怪的访达](https://www.v2ex.com/t/823836) 
 - [2021-12-22-现在（2021-年末）是否有任何的标准支持在一个-HTML-里-include-另外一个-HTML-文件的内容？](https://www.v2ex.com/t/823835) 
 - [2021-12-22-请教在-shell-里启动的两个-Python-进程之间要如何共享一个对象？](https://www.v2ex.com/t/823833) 
@@ -1528,8 +1528,6 @@
 - [2021-12-22-wps-专业版我觉得不错了，希望国产软件越来越好。](https://www.v2ex.com/t/823798) 
 - [2021-12-22-运动手表除了-Apple-Watch-有啥选择吗](https://www.v2ex.com/t/823796) 
 - [2021-12-22-能在静态-HTML-文件添加登录界面吗？](https://www.v2ex.com/t/823795) 
-- [2021-12-22-关于城市选择，上海、杭州还是深圳](https://www.v2ex.com/t/823794) 
-- [2021-12-22-大家有用-infinityfree-这个免费主机空间吗？](https://www.v2ex.com/t/823793) 
 - [2021-12-22-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-22-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-22-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1559,10 +1557,10 @@
 - [2021-12-22-崩溃的一天，西安一码通崩溃背后的技术问题。](https://toutiao.io/k/bp1ocxc) 
 - [2021-12-22-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
 - [2021-12-22-盘点2021，拥抱变化，不负韶华](https://toutiao.io/k/5y0o52u) 
+- [2021-12-22-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-22-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 - [2021-12-22-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
 - [2021-12-22-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [2021-12-22-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [2021-12-22-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [2021-12-22-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
-- [2021-12-22-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 - [2021-12-22-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 

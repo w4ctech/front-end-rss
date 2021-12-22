@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-22 10:58:17，:rocket: 更新条数: +1614， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-22 11:11:33，:rocket: 更新条数: +1614， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-22-请教在-shell-里启动的两个-Python-进程之间要如何共享一个对象？](https://www.v2ex.com/t/823833) ![](assets/new.png)  
+- [2021-12-22-fleet-申请已经过了快一个月了，厚着脸皮去问了一下产品经理，看来要等很久了](https://www.v2ex.com/t/823832) ![](assets/new.png)  
 - [2021-12-22-twitter-机器人能实现在订阅的账号发推后，在下面自动进行评价吗](https://www.v2ex.com/t/823830) ![](assets/new.png)  
 - [2021-12-22-国内有好的-Vimeo-替代方案么？](https://www.v2ex.com/t/823829) ![](assets/new.png)  
 - [2021-12-22-索尼-HT-A9-和-Q950A-怎么选](https://www.v2ex.com/t/823828) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-22-关于客厅与电视的一点点想法](https://www.v2ex.com/t/823809) ![](assets/new.png)  
 - [2021-12-22-我掌握了人工智能核心技术，](https://www.v2ex.com/t/823808) ![](assets/new.png)  
 - [2021-12-22-DODO-NFT-来空投了](https://www.v2ex.com/t/823807) ![](assets/new.png)  
-- [2021-12-22-分享一波家里设备方案](https://www.v2ex.com/t/823806) ![](assets/new.png)  
-- [2021-12-22-考公务员-工作](https://www.v2ex.com/t/823805) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

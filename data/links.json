@@ -7864,6 +7864,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教在 shell 里启动的两个 Python 进程之间要如何共享一个对象？",
+        "link": "https://www.v2ex.com/t/823833",
+        "date": "2021-12-22"
+      },
+      {
+        "title": "fleet 申请已经过了快一个月了，厚着脸皮去问了一下产品经理，看来要等很久了",
+        "link": "https://www.v2ex.com/t/823832",
+        "date": "2021-12-22"
+      },
+      {
         "title": "twitter 机器人能实现在订阅的账号发推后，在下面自动进行评价吗",
         "link": "https://www.v2ex.com/t/823830",
         "date": "2021-12-22"
@@ -8046,16 +8056,6 @@
       {
         "title": "请教一个关于 Time Machine 备份的问题",
         "link": "https://www.v2ex.com/t/823784",
-        "date": "2021-12-22"
-      },
-      {
-        "title": "在 ThreadPoolExecutor 里使用 subprocess 算多线程还是多进程",
-        "link": "https://www.v2ex.com/t/823783",
-        "date": "2021-12-22"
-      },
-      {
-        "title": "scrapy xpath 取值为空",
-        "link": "https://www.v2ex.com/t/823782",
         "date": "2021-12-22"
       }
     ]
@@ -8273,8 +8273,13 @@
         "date": "2021-12-22"
       },
       {
-        "title": "[推荐] 深入剖析全链路灰度技术内幕",
-        "link": "https://toutiao.io/k/zimpz4c",
+        "title": "[推荐] ​Golang 并发编程指南",
+        "link": "https://toutiao.io/k/adoo89l",
+        "date": "2021-12-22"
+      },
+      {
+        "title": "[推荐] Intellij IDEA 神级插件！效率提升 10 倍！",
+        "link": "https://toutiao.io/k/4iqf0c2",
         "date": "2021-12-22"
       },
       {
@@ -8283,13 +8288,13 @@
         "date": "2021-12-22"
       },
       {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
+        "title": "[推荐] 深入剖析全链路灰度技术内幕",
+        "link": "https://toutiao.io/k/zimpz4c",
         "date": "2021-12-22"
       },
       {
-        "title": "[推荐] ​Golang 并发编程指南",
-        "link": "https://toutiao.io/k/adoo89l",
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
         "date": "2021-12-22"
       },
       {
@@ -8300,11 +8305,6 @@
       {
         "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
         "link": "https://toutiao.io/k/o3dptn4",
-        "date": "2021-12-22"
-      },
-      {
-        "title": "[推荐] Intellij IDEA 神级插件！效率提升 10 倍！",
-        "link": "https://toutiao.io/k/4iqf0c2",
         "date": "2021-12-22"
       }
     ]

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-12-22 10:58:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-22 11:11:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-22-请教在-shell-里启动的两个-Python-进程之间要如何共享一个对象？](https://www.v2ex.com/t/823833) 
+- [2021-12-22-fleet-申请已经过了快一个月了，厚着脸皮去问了一下产品经理，看来要等很久了](https://www.v2ex.com/t/823832) 
 - [2021-12-22-twitter-机器人能实现在订阅的账号发推后，在下面自动进行评价吗](https://www.v2ex.com/t/823830) 
 - [2021-12-22-国内有好的-Vimeo-替代方案么？](https://www.v2ex.com/t/823829) 
 - [2021-12-22-索尼-HT-A9-和-Q950A-怎么选](https://www.v2ex.com/t/823828) 
@@ -42,5 +44,3 @@
 - [2021-12-22-团队开发中如何看待或者与成员沟通代码质量等问题](https://www.v2ex.com/t/823786) 
 - [2021-12-22-大家过过体验最好/最有意思的平安夜、圣诞季，是怎么过的？](https://www.v2ex.com/t/823785) 
 - [2021-12-22-请教一个关于-Time-Machine-备份的问题](https://www.v2ex.com/t/823784) 
-- [2021-12-22-在-ThreadPoolExecutor-里使用-subprocess-算多线程还是多进程](https://www.v2ex.com/t/823783) 
-- [2021-12-22-scrapy-xpath-取值为空](https://www.v2ex.com/t/823782) 

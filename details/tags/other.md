@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-22 04:51:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-22 04:57:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1497,9 +1497,9 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-22-产品浅思录-02-期：-TodoPal-直言你们不配说懂-Todo](https://www.v2ex.com/t/823724) 
 - [2021-12-22-现在微信快能代替-handoff-了-换个安卓机还会被苹果闭环诅咒吗？](https://www.v2ex.com/t/823723) 
 - [2021-12-22-上海·静安寺法企-如果你错过了我们精彩的圣诞派对🎄🎅❄️-希望-1️⃣月的年会上能见到你🧧](https://www.v2ex.com/t/823722) 
-- [2021-12-22-上海不加班外企招-开发、测试，-14-天年假，找我内推，帮忙内推，成功送-5000-内推费！](https://www.v2ex.com/t/823720) 
 - [2021-12-22-Apple-Books-目录错位](https://www.v2ex.com/t/823719) 
 - [2021-12-22-objectUitls-stringUtils](https://www.v2ex.com/t/823718) 
 - [2021-12-22-MacBook-Pro-使用-AirPods-Pro-播放声音间歇性无声](https://www.v2ex.com/t/823716) 
@@ -1556,9 +1556,9 @@
 - [2021-12-22-日志可视化方案及Lens-K8S桌面管理平台IDE介绍](https://toutiao.io/k/8ibq54o) 
 - [2021-12-22-最受关注的-Cilium-Service-Mesh-到底怎么玩？---上手实践](https://toutiao.io/k/3z9r0zo) 
 - [2021-12-22-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [2021-12-22-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
-- [2021-12-22-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
-- [2021-12-22-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [2021-12-22-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
-- [2021-12-22-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
 - [2021-12-22-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [2021-12-22-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [2021-12-22-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [2021-12-22-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
+- [2021-12-22-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
